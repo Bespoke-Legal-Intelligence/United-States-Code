@@ -26,7 +26,7 @@
 
 1999—Subsec. (b). Pub. L. 106–117, §201(a)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 106–117, §201(a)(1), (3), redesignated subsec. (b) as (c), substituted “subsection (a)” for “this section”, and inserted at end “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans AffairsHealth Services Improvement Fund.” Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 106–117, §201(a)(1), (3), redesignated subsec. (b) as (c), substituted “subsection (a)” for “this section”, and inserted at end “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.” Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 106–117, §201(a)(1), redesignated subsec. (c) as (d).
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 102–139, as amended by Pub. L. 102–229, substituted “
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 8023(b)(3) of Pub. L. 105–33 effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out as a note under section 712 of this title.
+Amendment by section 8023(b)(3) of Pub. L. 105–33 effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out as a note under section 1710 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -18,5 +18,5 @@ Section was enacted as part of the Housing Act of 1954, and not as part of the N
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1701p of this title.
+This section is referred to in section 1701p of this title; title 42 section 3536.
 

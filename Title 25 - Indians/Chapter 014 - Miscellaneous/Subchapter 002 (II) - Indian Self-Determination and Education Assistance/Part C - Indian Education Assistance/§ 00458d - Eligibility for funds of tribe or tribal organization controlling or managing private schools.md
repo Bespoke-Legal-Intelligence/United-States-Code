@@ -16,7 +16,7 @@ Act of April 16, 1934, referred to in text, is act Apr. 16, 1934, ch. 147, 48 St
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 458, 2017, 2026 of this title.
+This section is referred to in sections 458, 2021 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -10,3 +10,7 @@
 
 (Added Pub. L. 106–65, div. A, title VI, §653(b)(1), Oct. 5, 1999, 113 Stat. 666.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1370 of this title.
+

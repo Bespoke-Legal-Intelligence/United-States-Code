@@ -180,7 +180,7 @@ Vanderbilt Mansion National Historic Site, New York.—Designated Dec. 18, 1940.
 
 Weir Farm National Historic Site, Connecticut.—Pub. L. 101–485, Oct. 31, 1990, 104 Stat. 1171; Pub. L. 103–449, title II, Nov. 2, 1994, 108 Stat. 4756; Pub. L. 105–363, §1, Nov. 6, 1998, 112 Stat. 3296.
 
-William Howard Taft National Historic Site, Ohio.—Pub. L. 91–132, Dec. 2, 1969, 83 Stat. 273.
+William Howard Taft National Historic Site, Ohio.—Pub. L. 91–132, Dec. 2, 1969, 83 Stat. 273; Pub. L. 107–60, Nov. 5, 2001, 115 Stat. 408.
 
 For other historic sites included within this title, see General Index.
 

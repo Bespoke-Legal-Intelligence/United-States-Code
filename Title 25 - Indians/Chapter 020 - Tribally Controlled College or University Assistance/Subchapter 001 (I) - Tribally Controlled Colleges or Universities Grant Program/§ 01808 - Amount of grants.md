@@ -46,7 +46,7 @@ Subsec. (b)(3), (4). Pub. L. 105–244, §901(b)(5), substituted “college or u
 
 Subsec. (c)(2). Pub. L. 105–244, §901(b)(6), substituted “colleges or universities” for “community colleges”.
 
-1990—Subsec. (a)(1). Pub. L. 101–477, §1(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “the Indian student count at such college during such academic year, as determined by the Secretary in accordance with section 1801(a)(7) of this title; and”.
+1990—Subsec. (a)(1). Pub. L. 101–477, §1(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the Indian student count at such college during such academic year, as determined by the Secretary in accordance with section 1801(a)(7) of this title; and”.
 
 Subsec. (b)(1). Pub. L. 101–477, §1(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall make payments, pursuant to grants under this subchapter, in advance installments of not less than 40 per centum of the funds available for allotment, based on anticipated or actual numbers of full-time equivalent Indian students or such other factors as determined by the Secretary. Adjustments for overpayments and underpayments shall be applied to the remainder of such funds and such remainder shall be delivered no later than July 1 of each year.”
 

@@ -108,7 +108,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to transfers in trust made after May 21, 1976, see section 701(h) of Pub. L. 94–455, set out as a note under section 667 of this title.
+Amendment by Pub. L. 94–455 applicable to transfers in trust made after May 21, 1976, see section 701(h) ofPub. L. 94–455, set out as a note under section 667 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -116,5 +116,5 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1361 of this title.
+This section is referred to in sections 646, 1361 of this title.
 

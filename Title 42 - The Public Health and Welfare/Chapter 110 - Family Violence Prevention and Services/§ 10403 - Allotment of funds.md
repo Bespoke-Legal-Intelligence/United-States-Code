@@ -36,7 +36,7 @@ In subsection (a)(2) of this section, the term “State” does not include any 
 
 &emsp;“(2) Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands shall each be allotted not less than one-eighth of 1 percent of the amounts available for grants under section 10402(a) of this title for the fiscal year for which the allotment is made.
 
-> For the purpose of the exception contained in clause (1) of the preceding sentence only, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.”
+> For the purpose of the exception contained in clause (1) of the preceding sentence only, the term ‘State’ doesnot include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.”
 
 Subsec. (c). Pub. L. 106–386, §1202(b)(2), in first sentence, inserted “and available” before “for grants”.
 

@@ -10,7 +10,7 @@ This part shall apply to any employee benefit plan described in section 1003(a) 
 
 &emsp;(B) a trust described in section 501(c)(18) of title 26;
 
-&emsp;(4) a plan which is established and maintained by a labor organization described insection 501(c)(5) of title 26 and which does not at any time after September 2, 1974, provide for employer contributions;
+&emsp;(4) a plan which is established and maintained by a labor organization described in section 501(c)(5) of title 26 and which does not at any time after September 2, 1974, provide for employer contributions;
 
 &emsp;(5) any agreement providing payments to a retired partner or a deceased partner's successor in interest, as described in section 736 of title 26;
 

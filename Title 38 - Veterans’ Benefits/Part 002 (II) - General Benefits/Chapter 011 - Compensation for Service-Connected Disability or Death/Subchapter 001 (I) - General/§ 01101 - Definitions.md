@@ -188,7 +188,7 @@ Pub. L. 101–508, title VIII, §8005, Nov. 5, 1990, 104 Stat. 1388–343, provi
 
 “(a)
 
-Policy Regarding Fiscal Year 1991.—The fiscal year 1991 cost-of-living adjustments in the rates of compensation payable under chapter 11 of title 38, United States Code, and of the dependency and indemnity compensation payable under chapter 13 of such title will be no more than a 5.4 percent increase, with all increased monthly rates rounded down to the next lower dollar. The effective date for such adjustments will not be earlier than January 1, 1991.
+Policy Regarding Fiscal Year 1991.—The fiscal year 1991 cost-of-living adjustments in the rates of compensation payable under chapter 11 of title 38, United States Code, and of the dependency and indemnity compensation payable under chapter 13 of suchtitle will be no more than a 5.4 percent increase, with all increased monthly rates rounded down to the next lower dollar. The effective date for such adjustments will not be earlier than January 1, 1991.
 
 “(b)
 

@@ -26,7 +26,7 @@ of the daily edition—
 
 &emsp;to the Sergeant at Arms for use on the floor of the Senate, not to exceed fifty copies;
 
-&emsp;to each Member of the House of Representatives, the Resident Commissioner from PuertoRico, the Delegate from the District of Columbia, the Delegate from Guam, and the Delegate from the Virgin Islands, thirty-four copies (which may be transferred only to public agencies and institutions);
+&emsp;to each Member of the House of Representatives, the Resident Commissioner from Puerto Rico, the Delegate from the District of Columbia, the Delegate from Guam, and the Delegate from the Virgin Islands, thirty-four copies (which may be transferred only to public agencies and institutions);
 
 &emsp;to the Clerk and the Sergeant at Arms of the House of Representatives, each, twenty-five copies;
 
@@ -76,15 +76,15 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 &emsp;to the offices of the Legislative Counsel of the Senate and House of Representatives, respectively, and the Architect of the Capitol, each, three copies of the daily, one semimonthly copy, and one bound copy;
 
-&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by section 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily, five semimonthly copies, and one hundred and fifty bound copies;
+&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by sections 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily, five semimonthly copies, and one hundred and fifty bound copies;
 
 &emsp;to the library of the Senate, three copies of the daily, two semimonthly copies, and not to exceed fifteen bound copies;
 
 &emsp;to the library of the House of Representatives, five copies of the daily, two semimonthly copies, and not to exceed twenty-eight bound copies, of which eight copies may be bound in the style and manner approved by the Joint Committee on Printing;
 
-&emsp;to the library of the Supreme Court of the United States, two copies of the daily, two semi-monthly copies, and not to exceed five bound copies;
+&emsp;to the library of the Supreme Court of the United States, two copies of the daily, two semimonthly copies, and not to exceed five bound copies;
 
-&emsp;to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to the Public Printer, one copy of the daily, one semimonthly copy, and one bound copy;
+&emsp;to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to the PublicPrinter, one copy of the daily, one semimonthly copy, and one bound copy;
 
 &emsp;to the Public Printer for official use, not to exceed seventy-five copies of the daily, ten semimonthly copies, and two bound copies;
 
@@ -164,7 +164,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
+Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
 
 #### Effective Date of 1982 Amendment
 

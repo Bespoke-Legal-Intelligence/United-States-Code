@@ -104,7 +104,7 @@ Pub. L. 102–567, title VII, Oct. 29, 1992, 106 Stat. 4303, provided that:
 
 “(a)
 
-National Implementation Plan.—As part of the budget justification documents submitted to Congress in support of the annual budget request for the Department of Commerce, the Secretary shall include a National Implementation Plan for modernization of the National Weather Service for each fiscal year following fiscal year 1993 until such modernization is complete. The Plan shall set forth the actions, during the 2-year period beginning with the fiscal year for which the budget request is made, that will be necessary to accomplish the objectives described in the Strategic Plan, and shall include—
+National Implementation Plan.—As part of the budget justification documents submitted to Congress in support of the annual budget request for the Department of Commerce, the Secretary shall include a National Implementation Plan for modernization of the National Weather Service for each fiscal year followingfiscal year 1993 until such modernization is complete. The Plan shall set forth the actions, during the 2-year period beginning with the fiscal year for which the budget request is made, that will be necessary to accomplish the objectives described in the Strategic Plan, and shall include—
 
 &emsp;“(1) detailed requirements for new technologies, facilities, staffing levels and positions, and funding, in accordance with the overall schedule for modernization;
 
@@ -200,7 +200,7 @@ Final Decision.—If after consideration of the public comment received under su
 
 Special Circumstances.—The Secretary may not close or relocate any field office—
 
-&emsp;“(1) which is located at an airport, unless the Secretary, in consultation with the Secretary of Transportation and the Committee, first conducts an air safety appraisal, determines that such action will not result in degradation of service that affects aircraft safety, and includes such determination in the certification required under subsection (b); or
+&emsp;“(1) which is located at an airport, unless the Secretary, in consultation with the Secretary of Transportation and the Committee, first conducts an airsafety appraisal, determines that such action will not result in degradation of service that affects aircraft safety, and includes such determination in the certification required under subsection (b); or
 
 &emsp;“(2) which is the only office in a State, unless the Secretary first evaluates the effect on weather services provided to in-State users, such as State agencies, civil defense officials, and local public safety offices, and includes in the certification required under subsection (b) the Secretary's determination that a comparable level of weather services provided to such in-State users will remain.
 
@@ -224,7 +224,7 @@ Membership and Terms.—(1) The Committee shall consist of—
 
 &emsp;“(A) five members representing agencies and departments of the United States which are responsible for providing or using weather services, including but not limited to the National Weather Service, the Department of Defense, the Federal Aviation Administration, and the Federal Emergency Management Agency; and
 
-&emsp;“(B) seven members to be appointed by the Secretary from civil defense and public safety organizations, news media, any labor organization certified bythe Federal Labor Relations Authority as an exclusive representative of weather service employees, meteorological experts, and private sector users of weather information such as pilots and farmers.
+&emsp;“(B) seven members to be appointed by the Secretary from civil defense and public safety organizations, news media, any labor organization certified by the Federal Labor Relations Authority as an exclusive representative of weather service employees, meteorological experts, and private sector users of weather information such as pilots and farmers.
 
 “(2) The terms of office of a member of the Committee shall be 3 years; except that, of the original membership, four shall serve a 5-year term, four shall serve a 4-year term, and four shall serve a 3-year term. No individual may serve for more than one additional 3-year term.
 

@@ -212,17 +212,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER IV-A—EMERGENCY ASSISTANCE PROGRAMS
+#### SUBCHAPTER IV–A—EMERGENCY ASSISTANCE PROGRAMS
 
 |  |  |
 | :--- | ---: |
-| [5191\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/Subchapter%20004-A%20%28IV-A%29%20-%20Emergency%20Assistance%20Programs/%C2%A7%2005191%20-%20Procedure%20for%20declaration.md) | Procedure for declaration. |
+| [5191\.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Emergency%20Assistance%20Programs/%C2%A7%2005191%20-%20Procedure%20for%20declaration.md) | Procedure for declaration. |
 | (a) | Request and declaration. |
 | (b) | Certain emergencies involving Federal primary responsibility. |
-| [5192\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/Subchapter%20004-A%20%28IV-A%29%20-%20Emergency%20Assistance%20Programs/%C2%A7%2005192%20-%20Federal%20emergency%20assistance.md) | Federal emergency assistance. |
+| [5192\.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Emergency%20Assistance%20Programs/%C2%A7%2005192%20-%20Federal%20emergency%20assistance.md) | Federal emergency assistance. |
 | (a) | Specified. |
 | (b) | General. |
-| [5193\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/Subchapter%20004-A%20%28IV-A%29%20-%20Emergency%20Assistance%20Programs/%C2%A7%2005193%20-%20Amount%20of%20assistance.md) | Amount of assistance. |
+| [5193\.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Emergency%20Assistance%20Programs/%C2%A7%2005193%20-%20Amount%20of%20assistance.md) | Amount of assistance. |
 | (a) | Federal share. |
 | (b) | Limit on amount of assistance. |
 
@@ -237,6 +237,13 @@
 | (a) | Definitions. |
 | (b) | Cross reference. |
 | [5195b.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/%C2%A7%2005195b%20-%20Administration%20of%20subchapter.md) | Administration of subchapter. |
+| [5195c.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/%C2%A7%2005195c%20-%20Critical%20infrastructures%20protection.md) | Critical infrastructures protection. |
+| (a) | Short title. |
+| (b) | Findings. |
+| (c) | Policy of the United States. |
+| (d) | Establishment of national competence for critical infrastructure protection. |
+| (e) | Critical infrastructure defined. |
+| (f) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -297,6 +304,13 @@
 | (b) | Transfer authority. |
 | [5197f.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20B%20-%20General%20Provisions/%C2%A7%2005197f%20-%20Relation%20to%20Atomic%20Energy%20Act%20of%201954.md) | Relation to Atomic Energy Act of 1954. |
 | [5197g.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20B%20-%20General%20Provisions/%C2%A7%2005197g%20-%20Federal%20Bureau%20of%20Investigation.md) | Federal Bureau of Investigation. |
+| [5197h.](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/Part%20B%20-%20General%20Provisions/%C2%A7%2005197h%20-%20Minority%20emergency%20preparedness%20demonstration%20program.md) | Minority emergency preparedness demonstration program. |
+| (a) | In general. |
+| (b) | Activities supported. |
+| (c) | Eligible organizations. |
+| (d) | Use of funds. |
+| (e) | Application and review procedure. |
+| (f) | Authorization of appropriation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -323,7 +337,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1382a, 1490q, 3030, 3149, 3796b, 4003, 4104c, 5154a, 5203, 5206, 5306, 5665a, 8623, 9601, 12750 of this title; title 2 section 59–1; title 7 sections 1421, 1427, 1427a, 1942, 1961, 1964, 1981e, 7285; title 10 section 2662; title 12 sections 1709, 1715<i>l</i>; title 15 section 636; title 16 sections 1536, 1723; title 23 section 125; title 26 sections 143, 165, 1033, 5064, 5708, 6404; title 29 section 1784; title 33 section 701n; title 38 section 3720; title 43 section 1600e.
+This chapter is referred to in sections 1382a, 1490q, 3030, 3149, 3796b, 4003, 4104c, 5154a, 5203, 5206, 5306, 5665a, 8623, 9601, 12750 of this title; title 2 section 59–1; title 7 sections 1421, 1427, 1427a, 1942, 1961, 1964, 1981e, 7285; title 10 section 2662; title 12 sections 1709, 1715<i>l</i>; title 15 section 636; title 16 sections 1536, 1723; title 23 section 125; title 26 sections 143, 165, 1033, 5064, 5708; title 33 section 701n; title 38 section 3720; title 43 section 1600e.
 
 
 ---
@@ -334,5 +348,6 @@ This chapter is referred to in sections 1382a, 1490q, 3030, 3149, 3796b, 4003, 4
 - [Subchapter 002 (II) - Disaster Preparedness and Mitigation Assistance](Subchapter%20002%20%28II%29%20-%20Disaster%20Preparedness%20and%20Mitigation%20Assistance/README.md)
 - [Subchapter 003 (III) - Major Disaster and Emergency Assistance Administration](Subchapter%20003%20%28III%29%20-%20Major%20Disaster%20and%20Emergency%20Assistance%20Administration/README.md)
 - [Subchapter 004 (IV) - Major Disaster Assistance Programs](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/README.md)
+- [Subchapter 004&#8211;A (IV&#8211;A) - Emergency Assistance Programs](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Emergency%20Assistance%20Programs/README.md)
 - [Subchapter 004&#8211;B (IV&#8211;B) - Emergency Preparedness](Subchapter%20004%E2%80%93B%20%28IV%E2%80%93B%29%20-%20Emergency%20Preparedness/README.md)
 - [Subchapter 005 (V) - Miscellaneous](Subchapter%20005%20%28V%29%20-%20Miscellaneous/README.md)

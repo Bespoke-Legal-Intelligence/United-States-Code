@@ -1,6 +1,6 @@
 # Printed pages - Title 23 - Highways
 
-GPO's 2000 edition (laws in effect as of 2001-01-02), from its printed page marks. The exact position of
+GPO's 2001 edition (laws in effect as of 2002-01-22), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title23.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -14,12 +14,12 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00103 - Federal-aid systems](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000103%20-%20Federal-aid%20systems.md) | 22–30 |
 | [&sect; 00104 - Apportionment](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000104%20-%20Apportionment.md) | 30–49 |
 | [&sect; 00105 - Minimum guarantee](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000105%20-%20Minimum%20guarantee.md) | 49–51 |
-| [&sect; 00106 - Project approval and oversight](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000106%20-%20Project%20approval%20and%20oversight.md) | 51–53 |
-| [&sect; 00107 - Acquisition of rights-of-way&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md) | 53 |
-| [&sect; 00108 - Advance acquisition of real property](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000108%20-%20Advance%20acquisition%20of%20real%20property.md) | 53–56 |
-| [&sect; 00109 - Standards](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000109%20-%20Standards.md) | 56–62 |
-| [&sect; 00110 - Revenue aligned budget authority](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000110%20-%20Revenue%20aligned%20budget%20authority.md) | 62–64 |
-| [&sect; 00111 - Agreements relating to use of and access to rights-of-way&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000111%20-%20Agreements%20relating%20to%20use%20of%20and%20access%20to%20rights-of-way%E2%80%94Interstate%20System.md) | 64–65 |
+| [&sect; 00106 - Project approval and oversight](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000106%20-%20Project%20approval%20and%20oversight.md) | 51–52 |
+| [&sect; 00107 - Acquisition of rights-of-way&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md) | 52–53 |
+| [&sect; 00108 - Advance acquisition of real property](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000108%20-%20Advance%20acquisition%20of%20real%20property.md) | 53–55 |
+| [&sect; 00109 - Standards](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000109%20-%20Standards.md) | 55–62 |
+| [&sect; 00110 - Revenue aligned budget authority](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000110%20-%20Revenue%20aligned%20budget%20authority.md) | 62–63 |
+| [&sect; 00111 - Agreements relating to use of and access to rights-of-way&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000111%20-%20Agreements%20relating%20to%20use%20of%20and%20access%20to%20rights-of-way%E2%80%94Interstate%20System.md) | 63–65 |
 | [&sect; 00112 - Letting of contracts](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000112%20-%20Letting%20of%20contracts.md) | 65–68 |
 | [&sect; 00113 - Prevailing rate of wage](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000113%20-%20Prevailing%20rate%20of%20wage.md) | 68–69 |
 | [&sect; 00114 - Construction](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000114%20-%20Construction.md) | 69–70 |
@@ -34,8 +34,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00123 - Relocation of utility facilities](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000123%20-%20Relocation%20of%20utility%20facilities.md) | 86 |
 | [&sect; 00124 - Advances to States](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000124%20-%20Advances%20to%20States.md) | 86–87 |
 | [&sect; 00125 - Emergency relief](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000125%20-%20Emergency%20relief.md) | 87–89 |
-| [&sect; 00126 - Uniform transferability of Federal-aid highway funds](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000126%20-%20Uniform%20transferability%20of%20Federal-aid%20highway%20funds.md) | 89–90 |
-| [&sect; 00127 - Vehicle weight limitations&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000127%20-%20Vehicle%20weight%20limitations%E2%80%94Interstate%20System.md) | 90–95 |
+| [&sect; 00126 - Uniform transferability of Federal-aid highway funds](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000126%20-%20Uniform%20transferability%20of%20Federal-aid%20highway%20funds.md) | 89 |
+| [&sect; 00127 - Vehicle weight limitations&#8212;Interstate System](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000127%20-%20Vehicle%20weight%20limitations%E2%80%94Interstate%20System.md) | 89–95 |
 | [&sect; 00128 - Public hearings](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000128%20-%20Public%20hearings.md) | 95 |
 | [&sect; 00129 - Toll roads, bridges, tunnels, and ferries](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000129%20-%20Toll%20roads%2C%20bridges%2C%20tunnels%2C%20and%20ferries.md) | 95–101 |
 | [&sect; 00130 - Railway-highway crossings](Chapter%20001%20-%20Federal-Aid%20Highways/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000130%20-%20Railway-highway%20crossings.md) | 101–104 |
@@ -143,8 +143,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00501 - Definitions](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000501%20-%20Definitions.md) | 227 |
 | [&sect; 00502 - Surface transportation research](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000502%20-%20Surface%20transportation%20research.md) | 227–237 |
 | [&sect; 00503 - Technology deployment](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000503%20-%20Technology%20deployment.md) | 237–238 |
-| [&sect; 00504 - Training and education](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000504%20-%20Training%20and%20education.md) | 238–239 |
-| [&sect; 00505 - State planning and research](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000505%20-%20State%20planning%20and%20research.md) | 239–240 |
+| [&sect; 00504 - Training and education](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000504%20-%20Training%20and%20education.md) | 238–240 |
+| [&sect; 00505 - State planning and research](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000505%20-%20State%20planning%20and%20research.md) | 240 |
 | [&sect; 00506 - International highway transportation outreach program](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000506%20-%20International%20highway%20transportation%20outreach%20program.md) | 240–241 |
-| [&sect; 00507 - Surface transportation-environment cooperative research program](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000507%20-%20Surface%20transportation-environment%20cooperative%20research%20program.md) | 241 |
-| [&sect; 00508 - Surface transportation research strategic planning](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000508%20-%20Surface%20transportation%20research%20strategic%20planning.md) | 241–244 |
+| [&sect; 00507 - Surface transportation-environment cooperative research program](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000507%20-%20Surface%20transportation-environment%20cooperative%20research%20program.md) | 241–242 |
+| [&sect; 00508 - Surface transportation research strategic planning](Chapter%20005%20-%20Research%20and%20Technology/%C2%A7%2000508%20-%20Surface%20transportation%20research%20strategic%20planning.md) | 242–244 |

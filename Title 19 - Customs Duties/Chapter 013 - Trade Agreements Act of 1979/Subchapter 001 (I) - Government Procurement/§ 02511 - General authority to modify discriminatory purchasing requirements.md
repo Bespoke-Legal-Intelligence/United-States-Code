@@ -22,7 +22,7 @@ The President may designate a foreign country or instrumentality for purposes of
 
 #### (c) Modification or withdrawal of waivers and designations
 
-The President may modify or withdraw any waiver granted pursuant to subsection (a) of thissection or designation made pursuant to subsection (b) of this section.
+The President may modify or withdraw any waiver granted pursuant to subsection (a) of this section or designation made pursuant to subsection (b) of this section.
 
 #### (d) Omitted
 
@@ -48,7 +48,7 @@ Subsecs. (e), (f). Pub. L. 103–182, §381(a)(3), added subsecs. (e) and (f).
 
 #### Effective Date of 1993 Amendment
 
-Section 381(e) of title III of Pub. L. 103–182 provided that: “The provisions of this subtitle \[subtitle G (§381) of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date the Agreement \[North American Free Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
+Section 381(e) of title III of Pub. L. 103–182 provided that: “The provisions of this subtitle \[subtitle G (§381) of title III of Pub. L. 103–182, amending this section, sections 2512 and 2518 of this title, and provisions set out as a note under section 903 of Title 7, Agriculture\] take effect on the date the Agreement \[North AmericanFree Trade Agreement\] enters into force with respect to the United States \[Jan. 1, 1994\].”
 
 #### Termination Date of 1988 Amendment
 
@@ -262,7 +262,7 @@ Department of Labor
 
 Department of State
 
-Department of Transportation (The national security consideration currently applicable to the Department of Defense under the GATT Government ProcurementCode is equally applicable under this Agreement to the Coast Guard)
+Department of Transportation (The national security consideration currently applicable to the Department of Defense under the GATT Government Procurement Code is equally applicable under this Agreement to the Coast Guard)
 
 Department of the Treasury
 

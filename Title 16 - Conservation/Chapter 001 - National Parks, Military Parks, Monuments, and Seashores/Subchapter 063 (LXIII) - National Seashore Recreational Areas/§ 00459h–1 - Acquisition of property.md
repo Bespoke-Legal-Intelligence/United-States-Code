@@ -6,7 +6,7 @@ Within the boundaries of the seashore, the Secretary may acquire submerged land,
 
 #### (b) Improved residential property owner's reservation of right of use and occupancy for residential purposes for life or fixed term of years; election by owner; transfer or assignment of right; adjustment of compensation
 
-With respect to improved residential property acquired for the purposes of sections 459h to 459h–10 of this title, which is beneficially owned by a natural person and which the Secretary of the Interior determines can be continued in that use for a limited period of time without undue interference with the administration, development, or public use of the seashore, the owner thereof may on the date of its acquisition by the Secretary retain a right of use and occupancy of the property for noncommercial residential purposes for a term, as the owner may elect, ending either (1) at the death of the owner or his spouse, whichever occurs later, or (2) not more than twenty-five years from the date of acquisition. Any right so retained may during its existence be transferred or assigned. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less their fair market value on such date of the right retained by the owner.
+With respect to improved residential property acquired for the purposes of sections 459h to 459h–10 of this title, which is beneficially ownedby a natural person and which the Secretary of the Interior determines can be continued in that use for a limited period of time without undue interference with the administration, development, or public use of the seashore, the owner thereof may on the date of its acquisition by the Secretary retain a right of use and occupancy of the property for noncommercial residential purposes for a term, as the owner may elect, ending either (1) at the death of the owner or his spouse, whichever occurs later, or (2) not more than twenty-five years from the date of acquisition. Any right so retained may during its existence be transferred or assigned. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less their fair market value on such date of the right retained by the owner.
 
 #### (c) “Improved residential property” defined
 
@@ -28,7 +28,7 @@ The Secretary may terminate a right of use and occupancy retained pursuant to th
 
 &emsp;&emsp;(C)(i) land and interests in land on Cat Island outside the 2,000-acre area depicted on the Cat Island Map; and
 
-&emsp;&emsp;(ii) submerged land that lies within 1 mile seaward of Cat Island (referred to in sections459h to 459h–10 of this title <sup>1</sup> as the “buffer zone”), except that submerged land owned by the State of Mississippi (or a subdivision of the State) may be acquired only by donation.
+&emsp;&emsp;(ii) submerged land that lies within 1 mile seaward of Cat Island (referred to in sections 459h to 459h–10 of this title <sup>1</sup> as the “buffer zone”), except that submerged land owned by the State of Mississippi (or a subdivision of the State) may be acquired only by donation.
 
 #### (2) Administration
 

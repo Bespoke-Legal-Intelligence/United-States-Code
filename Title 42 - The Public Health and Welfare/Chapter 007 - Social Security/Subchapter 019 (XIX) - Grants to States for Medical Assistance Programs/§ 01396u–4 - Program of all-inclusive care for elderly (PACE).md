@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the PACE provider shall receive payment in accordance with the PACE program agreement for provision of such benefits.
 
-> &emsp;A State may establish a numerical limit on the number of individuals who may be enrolled in a PACE program under a PACE program agreement.
+> &emsp;A State may establish a numerical limit on the number of individuals who may be enrolledin a PACE program under a PACE program agreement.
 
 #### (2) “PACE program” defined
 
@@ -52,7 +52,7 @@
 
 #### (5) “PACE program eligible individual” defined
 
-&emsp;For purposes of this section, the term “PACE program eligible individual” means,with respect to a PACE program, an individual who—
+&emsp;For purposes of this section, the term “PACE program eligible individual” means, with respect to a PACE program, an individual who—
 
 &emsp;&emsp;(A) is 55 years of age or older;
 
@@ -130,7 +130,7 @@
 
 #### (2) Condition
 
-&emsp;An individual is not a PACE program eligible individual (with respect to payment underthis section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
+&emsp;An individual is not a PACE program eligible individual (with respect to payment under this section) unless the individual's health status has been determined by the Secretary or the State administering agency, in accordance with regulations, to be comparable to the health status of individuals who have participated in the PACE demonstration waiver programs. Such determination shall be based upon information on health status and related indicators (such as medical diagnoses and measures of activities of daily living, instrumental activities of daily living, and cognitive impairment) that are part of a uniform minimum data set collected by PACE providers on potential eligible individuals.
 
 #### (3) Annual eligibility recertifications
 
@@ -164,7 +164,7 @@
 
 #### (ii) No disenrollment for noncompliant behavior
 
-&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
+&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), aPACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
 
 #### (iii) Timely review of proposed nonvoluntary disenrollment
 
@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) maintain, and afford the Secretary and the State administering agency access to, the records relating to the program, including pertinent financial, medical, and personnel records; and
 
-&emsp;&emsp;&emsp;&emsp;(III) submit to the Secretary and the State administering agency such reports as the Secretary finds (in consultation with State administering agencies) necessary to monitor the operation, cost, and effectiveness of the PACE program.
+&emsp;&emsp;&emsp;&emsp;(III) submit to the Secretary and the State administering agency such reportsas the Secretary finds (in consultation with State administering agencies) necessary to monitor the operation, cost, and effectiveness of the PACE program.
 
 #### (ii) Requirements during trial period
 
@@ -412,7 +412,7 @@ A State may provide for post-eligibility treatment of income for individuals enr
 
 Nothing in this section or section 1395eee of this title shall be construed as preventing a PACE provider from entering into contracts with other governmental or nongovernmental payers for the care of PACE program eligible individuals who are not eligible for benefits under part A, or enrolled under part B, of subchapter XVIII of this chapter or eligible for medical assistance under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1934, as added Pub. L. 105–33, title IV, §4802(a)(3), Aug. 5, 1997,111 Stat. 539; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583.)
+(Aug. 14, 1935, ch. 531, title XIX, §1934, as added Pub. L. 105–33, title IV, §4802(a)(3), Aug. 5, 1997, 111 Stat. 539; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583.)
 
 #### References in Text
 

@@ -4,7 +4,7 @@
 
 (2)(A) Except as provided in subparagraph (B), a financial incentive provided a member under this section shall be paid for the period equal to twice the number of years of service of the member, computed as provided in subsection (e)(5).
 
-(B) If, before the expiration of the period otherwise applicable under subparagraph (A) to a member receiving a financial incentive underthis section, the member is separated from a reserve component or is transferred to the Retired Reserve, the period for payment of a financial incentive to the member under this section shall terminate on the date of the separation or transfer unless—
+(B) If, before the expiration of the period otherwise applicable under subparagraph (A) to a member receiving a financial incentive under this section, the member is separated from a reserve component or is transferred to the Retired Reserve, the period for payment of a financial incentive to the member under this section shall terminate on the date of the separation or transfer unless—
 
 &emsp;(i) the separation or transfer is required by reason of the age or number of years of service of the member;
 
@@ -52,7 +52,7 @@
 
 (g) Subject to subsection (h), payments under this provision shall be paid from appropriations available to the Department of Defense and the Department of Transportation for the Coast Guard.
 
-(h)(1) There is established on the books of the Treasury a fund to be known as the “Voluntary Separation Incentive Fund” (hereinafter in this subsection referred to as the “Fund”). The Fund shall be administered by the Secretary of theTreasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis the liabilities of the Department of Defense under this section.
+(h)(1) There is established on the books of the Treasury a fund to be known as the “Voluntary Separation Incentive Fund” (hereinafter in this subsection referred to as the “Fund”). The Fund shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis the liabilities of the Department of Defense under this section.
 
 (2) There shall be deposited in the Fund the following, which shall constitute the assets of the Fund:
 
@@ -72,7 +72,7 @@
 
 &emsp;(A) such sums as are necessary to pay the current liabilities under this section during such period; and
 
-&emsp;(B) the amount equal to the present value, as of September 30, 1999, of the future benefits payable under this section, as determined by the Board.
+&emsp;(B) the amount equal to the present value, as of September 30, 1999, of the future benefitspayable under this section, as determined by the Board.
 
 (7)(A) For each fiscal year after fiscal year 1999, the Board shall—
 
@@ -146,7 +146,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §572(b)\], Oct. 30, 2000, 114 Sta
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments made by this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, provided that: “The amendments madeby this section \[amending this section\] apply with respect to any person provided a voluntary separation incentive under section 1175 of title 10, United States Code (whether before, on, or after the date of the enactment of this Act) \[Oct. 17, 1998\].”
 
 #### Effective Date of 1994 Amendment
 

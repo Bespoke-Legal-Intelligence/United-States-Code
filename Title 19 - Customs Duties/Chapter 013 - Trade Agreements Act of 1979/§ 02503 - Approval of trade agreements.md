@@ -194,7 +194,7 @@ e. In accordance with section 601(a) of the Trade Agreements Act of 1979 (93 Sta
 
 2\. Authorize the United States Special Representative for Trade Negotiations \[now United States Trade Representative\], or his designee, on behalf of the United States of America,
 
-(a) to sign and accept the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade, the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade, the Agreement on Technical Barriers to Trade, the Agreement on Import Licensing Procedures, the Agreement on Trade in Civil Aircraft, the International Dairy Arrangement and the Arrangement Regarding Bovine Meat;
+(a) to sign and accept the Agreement on Interpretation and Application of Articles VI, XVI, and XXIII ofthe General Agreement on Tariffs and Trade, the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade, the Agreement on Technical Barriers to Trade, the Agreement on Import Licensing Procedures, the Agreement on Trade in Civil Aircraft, the International Dairy Arrangement and the Arrangement Regarding Bovine Meat;
 
 (b) to sign the Agreement on Government Procurement subject to satisfactory completion of negotiations on entity coverage under the Agreement; and
 

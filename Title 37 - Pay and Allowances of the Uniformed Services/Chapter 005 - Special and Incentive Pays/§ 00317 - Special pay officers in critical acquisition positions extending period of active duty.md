@@ -34,7 +34,7 @@ Repayment of Bonus.—(1) If an officer who has entered into a written agreement
 
 (g)
 
-Period of Commitment.—The period of active duty agreed upon by an officer in a written agreement under this section is in addition toany other service commitment of the officer, except that any period of active duty agreed upon in a written agreement under subsection (a)(2) or (b)(2) of section 1734 of title 10 by the officer may be counted concurrently with the commitment under this section.
+Period of Commitment.—The period of active duty agreed upon by an officer in a written agreement under this section is in addition to any other service commitment of the officer, except that any period of active duty agreed upon in a written agreement under subsection (a)(2) or (b)(2) of section 1734 of title 10 by the officer may be counted concurrently with the commitment under this section.
 
 (h)
 
@@ -45,8 +45,4 @@ Regulations.—The Secretaries concerned shall prescribe regulations to carry ou
 #### Effective Date
 
 Section 1203(b) of Pub. L. 101–510 provided that: “Section 317 of title 37, United States Code, as added by subsection (a), shall take effect as of October 1, 1991.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 1762.
 

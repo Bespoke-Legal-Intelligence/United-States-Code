@@ -16,7 +16,7 @@
 
 (b) With his consent, any member of the naval service or of the Coast Guard whose name is on the temporary disability retired list, and who is found to be physically fit to perform the duties of his office, grade, rank, or rating under section 1210(f) of this title, shall—
 
-&emsp;(1) if he held an appointment in a commissioned grade in a regular component when his name was placed on the temporary disability retired list, be recalled to active duty and, as soon as practicable, may be reappointed by the President, by and with the advice and consentof the Senate, to his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or in the next higher grade;
+&emsp;(1) if he held an appointment in a commissioned grade in a regular component when his name was placed on the temporary disability retired list, be recalled to active duty and, as soon as practicable, may be reappointed by the President, by and with the advice and consent of the Senate, to his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or in the next higher grade;
 
 &emsp;(2) if he held an appointment in the grade of warrant officer, W–1, in a regular component when his name was placed on the temporary disability retired list, be recalled to active duty and, as soon as practicable, be reappointed by the Secretary concerned in his regular component in the grade permanently held by him when his name was placed on the temporary disability retired list, or may be appointed by the President, by and with the advice and consent of the Senate, to the grade of chief warrant officer, W–2;
 
@@ -26,7 +26,7 @@
 
 &emsp;(5) if a member of a reserve component be reappointed or reenlisted in his reserve component in the grade permanently held by him when his name was placed on the temporary disability retired list or, if that permanent grade is not chief petty officer or master sergeant, in the next higher grade in that reserve component.
 
-(c) If a member is appointed, reappointed, enlisted, or reenlisted, or resumes his status in the Fleet Reserve or the Fleet Marine Corps Reserve, under subsection (a) or (b), his status on the temporary disability retired list terminates on the date of his appointment, reappointment, enlistment, reenlistment, or resumption, as the case may be. However, if such a member does not consent to the action proposed under subsection (a) or (b), and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title, his status on the temporary disability retired list and his disability retired pay shall be terminated as soon as practicable and the member shall be discharged.
+(c) If a member is appointed, reappointed, enlisted, or reenlisted, or resumes his status in the Fleet Reserve or the Fleet Marine Corps Reserve, under subsection (a) or (b), his status on the temporary disability retired list terminateson the date of his appointment, reappointment, enlistment, reenlistment, or resumption, as the case may be. However, if such a member does not consent to the action proposed under subsection (a) or (b), and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title, his status on the temporary disability retired list and his disability retired pay shall be terminated as soon as practicable and the member shall be discharged.
 
 (d) Disability retired pay of a member covered by this section terminates—
 
@@ -36,11 +36,11 @@
 
 &emsp;(3) on the date when he is appointed, reappointed, enlisted, or reenlisted, for any other member of the armed forces.
 
-(e) Whenever seniority in grade or years of service is a factor in determining the qualifications of a member of the armed forces for promotion, each member who has been appointed, reappointed, enlisted, or reenlisted, under subsection (a) or (b), shall, when his name is placed on a lineal list, a promotion list, or any similar list, have the seniority in grade and be credited with the years of service authorized by the Secretary concerned. The authorized strength in any regular grade is automatically increased to the minimum extent necessary to give effect to each appointment made in that grade under this section. An authorized strength so increased is increased for no other purpose, and while he holds that grade the officer whose appointment caused the increase is counted for the purpose of determining when other appointments, not under this section, may be made in that grade.
+(e) Whenever seniority in grade or years of service is a factor in determining the qualifications of a member of the armed forces for promotion, each member who has been appointed, reappointed, enlisted, or reenlisted, under subsection (a) or (b), shall, when his name is placed on a lineal list, a promotion list, an approved all-fully-qualified-officers list, or any similar list, have the seniority in grade and be credited with the years of service authorized by the Secretary concerned. The authorized strength in any regular grade is automatically increased to the minimum extent necessary to give effect to each appointment made in that grade under this section. An authorized strength so increased is increased for no other purpose, and while he holds that grade the officer whose appointment caused the increase is counted for the purpose of determining when other appointments, not under this section, may be made in that grade.
 
 (f) Action under this section shall be taken on a fair and equitable basis, with regard being given to the probable opportunities for advancement and promotion that the member might reasonably have had if his name had not been placed on the temporary disability retired list.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 96; Pub. L. 87–651, title I, §107(b), Sept. 7, 1962, 76 Stat. 508; Pub. L. 96–513, title V, §501(17), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 99–145, title V, §513(a)(3), Nov. 8, 1985, 99 Stat. 627.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 96; Pub. L. 87–651, title I, §107(b), Sept. 7, 1962, 76 Stat. 508; Pub. L. 96–513, title V, §501(17), Dec. 12, 1980, 94 Stat. 2908; Pub. L. 99–145, title V, §513(a)(3), Nov. 8, 1985, 99 Stat. 627; Pub. L. 107–107, div. A, title V, §505(c)(4), Dec. 28, 2001, 115 Stat. 1088.)
 
 Historical and Revision Notes<br>1956
 
@@ -156,7 +156,7 @@ Oct. 12, 1949, ch. 681, §§405, 406, 407, 63 Stat. 821.
 
 In subsections (a) and (b), the words “under section 1210(f) of this title” are substituted for the words “If, as a result of a periodic physical examination”, in 37:275(a) and (b), and 276(a), and the words “and who are subsequently found to be physically fit”, in 37:277(a). The words “subject to the provisions of section 277 of this title”, in 37:275(a), are omitted as surplusage.
 
-In subsections (a)(2)–(6) and (b)(2)–(6), the appointment or enlistment is restricted to those already in an enlisted, warrant, or commissioned status, as the case may be, held by the member before placement of his name on the temporary disability retired list, since 37:277 (last sentence) indicates that appointment in thenext higher grade for regular warrant officer is restricted to those warrant grades to which the President alone may appoint him. Similarly 37:275 (last 10 words) indicates that an enlisted member may only be reenlisted.
+In subsections (a)(2)–(6) and (b)(2)–(6), the appointment or enlistment is restricted to those already in an enlisted, warrant, or commissioned status, as the case may be, held by the member before placement of his name on the temporary disability retired list, since 37:277 (last sentence) indicates that appointment in the next higher grade for regular warrant officer is restricted to those warrant grades to which the President alone may appoint him. Similarly 37:275 (last 10 words) indicates that an enlisted member may only be reenlisted.
 
 In subsection (a)(2) reference to the President, in 37:277(a), is omitted as inapplicable to the appointment of warrant officers of the Army and the Air Force.
 
@@ -176,7 +176,9 @@ The changes correct typographical errors.
 
 #### Amendments
 
-1985—Subsec. (c). Pub. L. 99–145 inserted “and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title,” after “proposed under subsection (a) or (b),” and inserted “and the member shall be discharged” after “as soon as practicable”.
+2001—Subsec. (e). Pub. L. 107–107 inserted “an approved all-fully-qualified-officers list,” after “a promotion list,”.
+
+1985—Subsec. (c). Pub. L. 99–145 inserted “and if the member is not discharged, retired, or transferred to the Fleet Reserve or Fleet Marine Corps Reserve or inactive Reserve under section 1210 of this title,” after“proposed under subsection (a) or (b),” and inserted “and the member shall be discharged” after “as soon as practicable”.
 
 1980—Subsec. (a)(1). Pub. L. 96–513 substituted “active-duty list” for “active list of his regular component”.
 

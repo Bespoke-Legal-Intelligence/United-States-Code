@@ -120,11 +120,11 @@ For purposes of this section—
 
 #### (B) Review of secretarial determination of noncompliance
 
-&emsp;&emsp;Notwithstanding any law or rule of law, any reporting corporation which has been notified by the Secretary that the Secretary has determined that such corporation has not substantially complied with a summons referred to in paragraph (2) shall have the right to begin a proceeding to review such determination not later than the 90th day after the day on which the notice referred to in paragraph (2)(C) was mailed. If such a proceeding is not begun on or before such 90th day, such determination by the Secretary shall be binding and shall not be reviewed by any court.
+&emsp;&emsp;Notwithstanding any law or rule of law, any reporting corporation which has been notified by the Secretary that the Secretary has determined that such corporation hasnot substantially complied with a summons referred to in paragraph (2) shall have the right to begin a proceeding to review such determination not later than the 90th day after the day on which the notice referred to in paragraph (2)(C) was mailed. If such a proceeding is not begun on or before such 90th day, such determination by the Secretary shall be binding and shall not be reviewed by any court.
 
 #### (C) Jurisdiction
 
-&emsp;&emsp;The United States district court for the district in which the person (to whom the summons is issued) resides or is found shall have jurisdiction to hear any proceeding brought under subparagraph (A) or (B). Anyorder or other determination in such a proceeding shall be treated as a final order which may be appealed.
+&emsp;&emsp;The United States district court for the district in which the person (to whom the summons is issued) resides or is found shall have jurisdiction to hear any proceeding brought under subparagraph (A) or (B). Any order or other determination in such a proceeding shall be treated as a final order which may be appealed.
 
 #### (D) Suspension of statute of limitations
 

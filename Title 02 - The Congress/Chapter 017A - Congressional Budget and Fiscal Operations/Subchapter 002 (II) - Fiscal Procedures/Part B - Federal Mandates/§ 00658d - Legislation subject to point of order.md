@@ -64,7 +64,7 @@ For purposes of this section, in the Senate, the presiding officer of the Senate
 
 #### (e) Determinations of Federal mandate levels
 
-For purposes of this section, in the Senate, the levels of Federal mandates for a fiscal year shallbe determined based on the estimates made by the Committee on the Budget.
+For purposes of this section, in the Senate, the levels of Federal mandates for a fiscal year shall be determined based on the estimates made by the Committee on the Budget.
 
 (Pub. L. 93–344, title IV, §425, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 56.)
 

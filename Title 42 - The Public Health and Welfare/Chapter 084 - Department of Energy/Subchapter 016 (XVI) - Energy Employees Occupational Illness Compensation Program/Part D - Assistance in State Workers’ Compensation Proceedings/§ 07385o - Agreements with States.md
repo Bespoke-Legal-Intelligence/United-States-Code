@@ -2,7 +2,7 @@
 
 #### (a) Agreements authorized
 
-The Secretary of Energy (hereafter in this section referred to as the “Secretary”) may enter into agreements with the chief executive officer of a State to provide assistance to a Department of Energy contractor employee in filing a claimunder the appropriate State workers’ compensation system.
+The Secretary of Energy (hereafter in this section referred to as the “Secretary”) may enter into agreements with the chief executive officer of a State to provide assistance to a Department of Energy contractor employee in filing a claim under the appropriate State workers’ compensation system.
 
 #### (b) Procedure
 
@@ -14,7 +14,7 @@ Pursuant to agreements under subsection (a) of this section, the Secretary may�
 
 &emsp;&emsp;(A) the application was filed by or on behalf of a Department of Energy contractor employee or employee's estate; and
 
-&emsp;&emsp;(B) the illness or death of the Department of Energy contractor employee may have been related to employment at a Department of Energy facility.
+&emsp;&emsp;(B) the illness or death of the Department of Energy contractor employee may havebeen related to employment at a Department of Energy facility.
 
 #### (c) Submittal of applications to panels
 

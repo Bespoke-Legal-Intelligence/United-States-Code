@@ -8,7 +8,7 @@
 
 &emsp;(C) have not served previously as chief judge.
 
-(2)(A) In any case in which no circuit judge meets the qualifications of paragraph (1), theyoungest circuit judge in regular active service who is sixty-five years of age or over and who has served as circuit judge for one year or more shall act as the chief judge.
+(2)(A) In any case in which no circuit judge meets the qualifications of paragraph (1), the youngest circuit judge in regular active service who is sixty-five years of age or over and who has served as circuit judge for one year or more shall act as the chief judge.
 
 (B) In any case under subparagraph (A) in which there is no circuit judge in regular active service who has served as a circuit judge for one year or more, the circuit judge in regular active service who is senior in commission and who has not served previously as chief judge shall act as the chief judge.
 
@@ -70,7 +70,7 @@ Section 203 of part A of title II of Pub. L. 97–164 provided that:
 
 “(a) The amendments to section 45 of title 28, United States Code, and to section 136 of such title, made by sections 201 and 202 of this Act, shall not apply to or affect any person serving as chief judge on the effective date of this Act \[Oct. 1, 1982\].
 
-“(b) The provisions of section 45(a) of title 28, United States Code, as in effect on the day before the effectivedate of this Act \[Oct. 1, 1982\], shall apply to the chief judge of a circuit serving on such effective date. The provisions of section 136(a) of title 28, United States Code, as in effect on the day before the effective date of this part \[Oct. 1, 1982\], shall apply to the chief judge of a district court serving on such effective date.”
+“(b) The provisions of section 45(a) of title 28, United States Code, as in effect on the day before the effective date of this Act \[Oct. 1, 1982\], shall apply to the chief judge of a circuit serving on such effective date. The provisions of section 136(a) of title 28, United States Code, as in effect on the day before the effective date of this part \[Oct. 1, 1982\], shall apply to the chief judge of a district court serving on such effective date.”
 
 #### Appointment of Chief Judge of Court of Appeals for the Federal Circuit
 

@@ -1,6 +1,6 @@
 ### §7723. Veterans assistance offices
 
-(a) The Secretary shall establish and maintain veterans assistance offices at such places throughout the United States and its territories and possessions, and in the Commonwealth of Puerto Rico, as the Secretary determines to be necessary to carry out the purposes of this subchapter. In establishing and maintaining such offices, the Secretary shall give due regard to—
+(a) The Secretary shall establish and maintain veterans assistance offices at such places throughout the United States and its territories and possessions, and in the Commonwealth of Puerto Rico, as the Secretary determines to be necessary to carry out the purposes of this subchapter. The Secretary may maintain such offices on such military installations located elsewhere as the Secretary, after consultation with the Secretary of Defense, determines to be necessary to carry out such purposes. In establishing and maintaining such offices, the Secretary shall give due regard to—
 
 &emsp;(1) the geographical distribution of veterans recently discharged or released from active military, naval, or air service;
 
@@ -8,13 +8,17 @@
 
 &emsp;(3) the necessity of providing appropriate outreach services in less populated areas.
 
-(b) The Secretary shall establish and carry out all possible programs and services, including special telephone facilities, as may be necessary to make the outreach services provided for under this subchapter as widely available as possible.
+(b) The Secretary shall establish and carry out all possible programs and services, includingspecial telephone facilities, as may be necessary to make the outreach services provided for under this subchapter as widely available as possible.
 
-(Added Pub. L. 102–83, §2(b), Aug. 6, 1991, 105 Stat. 401.)
+(Added Pub. L. 102–83, §2(b), Aug. 6, 1991, 105 Stat. 401; amended Pub. L. 107–103, title III, §301, Dec. 27, 2001, 115 Stat. 991.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 242 of this title prior to repeal by Pub. L. 102–83, §2(a).
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–103 inserted after first sentence “The Secretary may maintain such offices on such military installations located elsewhere as the Secretary, after consultation with the Secretary of Defense, determines to be necessary to carry out such purposes.”
 
 #### Section Referred to in Other Sections
 

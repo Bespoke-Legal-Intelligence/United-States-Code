@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Program
 
-There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the Medicare program by entering into contracts in accordance with this section with eligible entities to carry out the activities described in subsection (b) of this section.
+There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the Medicare program by entering into contracts in accordance with this section with eligible entities to carry outthe activities described in subsection (b) of this section.
 
 #### (b) Activities described
 
@@ -24,7 +24,7 @@ An entity is eligible to enter into a contract under the Program to carry out an
 
 &emsp;(1) the entity has demonstrated capability to carry out such activities;
 
-&emsp;(2) in carrying out such activities, the entity agrees to cooperate with the Inspector Generalof the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities;
+&emsp;(2) in carrying out such activities, the entity agrees to cooperate with the Inspector General of the Department of Health and Human Services, the Attorney General, and other law enforcement agencies, as appropriate, in the investigation and deterrence of fraud and abuse in relation to this subchapter and in other cases arising out of such activities;
 
 &emsp;(3) the entity complies with such conflict of interest standards as are generally applicable to Federal acquisition and procurement; and
 

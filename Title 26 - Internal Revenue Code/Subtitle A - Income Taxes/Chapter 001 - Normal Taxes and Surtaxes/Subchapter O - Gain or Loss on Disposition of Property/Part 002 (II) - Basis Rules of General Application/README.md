@@ -13,12 +13,14 @@
 | [1019\.](%C2%A7%2001019%20-%20Property%20on%20which%20lessee%20has%20made%20improvements.md) | Property on which lessee has made improvements. |
 | \[1020. | Repealed.\] |
 | [1021\.](%C2%A7%2001021%20-%20Sale%20of%20annuities.md) | Sale of annuities. |
-| \[1022. | Repealed.\] |
+| [1022\.](%C2%A7%2001022%20-%20Treatment%20of%20property%20acquired%20from%20a%20decedent%20dying%20after%20December%2031%2C%202009.md) | Treatment of property acquired from a decedent dying after December 31, 2009. |
 | [1023\.](%C2%A7%2001023%20-%20Cross%20references.md) | Cross references. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title V, §542(e)(6), June 7, 2001, 115 Stat. 86, added item 1022.
 
 <b>1980</b>—Pub. L. 96–589, §6(h)(2), Dec. 24, 1980, 94 Stat. 3410, struck out item 1018 “Adjustments of capital structure before September 22, 1938”.
 
@@ -52,6 +54,6 @@ This part is referred to in section 742 of this title.
 - [&sect; 01019 - Property on which lessee has made improvements](%C2%A7%2001019%20-%20Property%20on%20which%20lessee%20has%20made%20improvements.md)
 - [&sect; 01020 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1901(a)(125), Oct. 4, 1976, 90 Stat. 1784](%C2%A7%2001020%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71901%28a%29%28125%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201784.md)
 - [&sect; 01021 - Sale of annuities](%C2%A7%2001021%20-%20Sale%20of%20annuities.md)
-- [&sect; 01022 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1901(a)(126)(A), Oct. 4, 1976, 90 Stat. 1784](%C2%A7%2001022%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71901%28a%29%28126%29%28A%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201784.md)
+- [&sect; 01022 - Treatment of property acquired from a decedent dying after December 31, 2009](%C2%A7%2001022%20-%20Treatment%20of%20property%20acquired%20from%20a%20decedent%20dying%20after%20December%2031%2C%202009.md)
 - [&sect; 01023 - Cross references](%C2%A7%2001023%20-%20Cross%20references.md)
 - [&sect; 01024 - Renumbered &sect;1023](%C2%A7%2001024%20-%20Renumbered%20%C2%A71023.md)

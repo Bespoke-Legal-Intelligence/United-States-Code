@@ -28,7 +28,7 @@
 
 &emsp;(E) $66,000,000 for fiscal year 2000.
 
-(10) There are <sup>4</sup> authorized to be appropriated $10,000,000 for each of the fiscal years 1994, 1995, and 1996 to carry out projects under subchapter XII–D of this chapter.
+(10) There are <sup>4</sup> authorized to be appropriated $10,000,000 for each of the fiscal years 1994, 1995,and 1996 to carry out projects under subchapter XII–D of this chapter.
 
 (11)(A) There are authorized to be appropriated to carry out subchapter XII–E of this chapter, to remain available until expended—
 
@@ -250,7 +250,7 @@ Subsec. (a)(2). Pub. L. 102–534, §1(3), substituted “fiscal year 1992 and $
 
 Subsec. (a)(3). Pub. L. 102–534, §1(4), substituted “such sums as may be necessary for fiscal year 1992 and $28,000,000 for each of the fiscal years 1993 and 1994 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance other than functions under subchapters IV, V, VI, VII, XII, XII–A, XII–B, and XII–C of this chapter” for “$25,500,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance, other than functions under subchapters IV, V, VI, VII, XII, XII–A, and XII–B of this chapter”.
 
-Subsec. (a)(5). Pub. L. 102–534, §1(5), substituted “such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1993 and 1994 to carry out the programs under subchapters IV and V (other than subpart 2 of part B of subchapter V)” for “$900,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V”.
+Subsec. (a)(5). Pub. L. 102–534, §1(5), substituted “such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1993 and 1994 to carry out the programs under subchapters IV and V (other than subpart 2 of part B of subchapter V)” for“$900,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V”.
 
 Subsec. (a)(6). Pub. L. 102–534, §1(6), substituted “such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994” for “$220,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992”.
 

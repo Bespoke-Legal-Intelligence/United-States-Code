@@ -14,7 +14,7 @@ Any instructional activity carried out by an eligible service provider receiving
 
 &emsp;(3) at least one nutritious meal daily, without charge, for participating youth during each day of participation;
 
-&emsp;(4) high quality instruction in a variety of sports (that shall include swimming and that may include dance and any other high quality recreational activity) provided by coaches and teachers from institutions of higher education and from elementary and secondary schools (as defined in section 8801 of title 20); and
+&emsp;(4) high quality instruction in a variety of sports (that shall include swimming and that may include dance and any other high quality recreational activity) provided by coaches and teachers from institutions of higher education and from elementary and secondary schools (as defined in section 7801 of title 20); and
 
 &emsp;(5) enrichment instruction and information on matters relating to the well-being of youth, to include educational opportunities and information on study practices, education for the prevention of drug and alcohol abuse, and information on health and nutrition, career opportunities, and family and job responsibilities.
 
@@ -54,7 +54,7 @@ The Secretary shall promulgate regulations or program guidelines to ensure funds
 
 There are authorized to be appropriated $15,000,000 for each of fiscal years 1999 through 2003 for grants to carry out this section.
 
-(Pub. L. 97–35, title VI, §682, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2753.)
+(Pub. L. 97–35, title VI, §682, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2753; amended Pub. L. 107–110, title X, §1076(ee), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### References in Text
 
@@ -67,6 +67,14 @@ A prior section 682 of Pub. L. 97–35 was classified to section 9910c of this t
 Another prior section 682 of Pub. L. 97–35 was renumbered section 683 and was classified to section 9911 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 Another prior section 682 of Pub. L. 97–35 was classified to section 9911 of this title, prior to repeal by Pub. L. 101–501.
+
+#### Amendments
+
+2002—Subsec. (b)(4). Pub. L. 107–110 substituted “7801” for “8801”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

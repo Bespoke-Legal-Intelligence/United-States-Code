@@ -67,7 +67,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall prescribe regulations for reducing the minimum participation rate otherwise required by this section for a fiscal year by the number of percentage points equal to the number of percentage points (if any) by which—
+&emsp;&emsp;The Secretary shall prescribe regulations for reducing the minimum participation rateotherwise required by this section for a fiscal year by the number of percentage points equal to the number of percentage points (if any) by which—
 
 &emsp;&emsp;&emsp;(i) the average monthly number of families receiving assistance during the immediately preceding fiscal year under the State program funded under this part is less than
 
@@ -147,7 +147,7 @@
 
 #### (B) Single parent or relative with child under age 6 deemed to be meeting work participation requirements if parent or relative is engaged in work for 20 hours per week
 
-&emsp;&emsp;For purposes of determining monthly participation rates under subsection (b)(1)(B)(i) of this section, a recipient who is the only parent or caretaker relative in the family of a child who has not attained 6 years of age is deemed to be engaged in work for a month if the recipient is engaged in work for an average of at least 20 hours per week during the month.
+&emsp;&emsp;For purposes of determining monthly participation rates under subsection (b)(1)(B)(i)of this section, a recipient who is the only parent or caretaker relative in the family of a child who has not attained 6 years of age is deemed to be engaged in work for a month if the recipient is engaged in work for an average of at least 20 hours per week during the month.
 
 #### (C) Single teen head of household or married teen who maintains satisfactory school attendance deemed to be meeting work participation requirements
 
@@ -193,7 +193,7 @@ As used in this section, the term “work activities” means—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if an individual in a family receiving assistance underthe State program funded under this part refuses to engage in work required in accordance with this section, the State shall—
+&emsp;Except as provided in paragraph (2), if an individual in a family receiving assistance under the State program funded under this part refuses to engage in work required in accordance with this section, the State shall—
 
 &emsp;&emsp;(A) reduce the amount of assistance otherwise payable to the family pro rata (or more, at the option of the State) with respect to any period during a month in which the individual so refuses; or
 
@@ -231,7 +231,7 @@ As used in this section, the term “work activities” means—
 
 #### (4) No preemption
 
-&emsp;Nothing in this subsection shall preempt or supersede any provision of State or local law that provides greater protection for employees from displacement.
+&emsp;Nothing in this subsection shall preempt or supersede any provision of State or local lawthat provides greater protection for employees from displacement.
 
 #### (g) Sense of Congress
 
@@ -289,7 +289,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, seesection 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Section Referred to in Other Sections
 

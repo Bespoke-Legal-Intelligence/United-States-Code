@@ -90,7 +90,7 @@ Sec. 7. (a) Notwithstanding the provisions of section 1605(b) of the Internal Re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 157, 182 of this title.
+This section is referred to in sections 157, 182, 231n of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

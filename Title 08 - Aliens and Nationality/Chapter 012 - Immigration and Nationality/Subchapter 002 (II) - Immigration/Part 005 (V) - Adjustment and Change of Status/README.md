@@ -1,12 +1,14 @@
 Part V—Adjustment and Change of Status
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (B),”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph (B),”.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “1225(b)(1)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be “1225(b)(1)”.</i>
 
 
 ---

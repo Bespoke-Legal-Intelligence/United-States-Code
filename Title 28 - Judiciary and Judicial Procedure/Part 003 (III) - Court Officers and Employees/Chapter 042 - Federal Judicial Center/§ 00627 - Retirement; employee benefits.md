@@ -30,7 +30,7 @@ Pub. L. 106–518, §301(b)(3), substituted “at least fifteen years of service
 
 Subsec. (e). Pub. L. 106–518, §312(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 106–518, §301(b)(1), inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or theminority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
+Pub. L. 106–518, §301(b)(1), inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
 
 Subsec. (f). Pub. L. 106–518, §312(a)(2), redesignated subsec. (f) as (e).
 

@@ -44,7 +44,7 @@ Subsecs. (a) and (b) of this section are from subsecs. (a) and (b) of section 10
 
 #### Amendments
 
-1982—Subsec. (b)(1). Figure “463” deemed to refer to the figure “482”, effective Oct. 1, 1982, pursuant to Pub.L. 91–656, §4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, set out as a note under section 60a–1 of this title.
+1982—Subsec. (b)(1). Figure “463” deemed to refer to the figure “482”, effective Oct. 1, 1982, pursuant to Pub. L. 91–656, §4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, set out as a note under section 60a–1 of this title.
 
 1981—Subsec. (b)(1). Figure “$441” deemed to refer to the figure “$463”, effective Oct. 1, 1981, pursuant to Pub. L. 91–656, §4, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 5, 1981, set out as a note under section 60a–1 of this title.
 
@@ -78,7 +78,7 @@ Figure “696” deemed to refer to the figure “738”, effective Feb. 1, 1971
 
 1969—Subsec. (b). Figure “597”, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “657”, pursuant to Pub. L. 90–206, §225(h), see section 4(c) of Salary Directive of President pro tempore of the Senate, June 17, 1969, set out as a note under section 60a–1 of this title.
 
-1968—Subsec. (b). Figure “564”, deemed, on and after July 1, 1968, to refer to the figure “597”, pursuant to Pub. L. 90–206, §225(h), see section 1(h) of Salary Directive of President pro tempore of the Senate, June 12, 1968, set out as a note under section 60a–1 of this title.
+1968—Subsec. (b). Figure “564”, deemed, on and after July 1, 1968, to refer to the figure “597”, pursuant toPub. L. 90–206, §225(h), see section 1(h) of Salary Directive of President pro tempore of the Senate, June 12, 1968, set out as a note under section 60a–1 of this title.
 
 1967—Subsec. (b). Pub. L. 90–206, §214(n), substituted “$564” for “540”.
 

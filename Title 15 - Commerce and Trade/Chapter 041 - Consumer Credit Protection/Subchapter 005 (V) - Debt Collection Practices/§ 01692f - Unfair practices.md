@@ -1,6 +1,6 @@
 ### §1692f. Unfair practices
 
-A debt collector may not use unfair or unconscionable means to collect or attempt to collectany debt. Without limiting the general application of the foregoing, the following conduct is a violation of this section:
+A debt collector may not use unfair or unconscionable means to collect or attempt to collect any debt. Without limiting the general application of the foregoing, the following conduct is a violation of this section:
 
 &emsp;(1) The collection of any amount (including any interest, fee, charge, or expense incidental to the principal obligation) unless such amount is expressly authorized by the agreement creating the debt or permitted by law.
 

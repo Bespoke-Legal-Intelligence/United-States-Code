@@ -62,7 +62,7 @@
 
 (3) There is authorized to be appropriated to carry out this subsection not more than $250,000 for each of the fiscal years 1993, 1994, and 1995.
 
-(Pub. L. 95–619, title V, §546, Nov. 9, 1978, 92 Stat. 3278; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(f), Oct. 24, 1992, 106 Stat. 2846.)
+(Pub. L. 95–619, title V, §546, Nov. 9, 1978, 92 Stat. 3278; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat.3187; Pub. L. 102–486, title I, §152(f), Oct. 24, 1992, 106 Stat. 2846.)
 
 #### References in Text
 

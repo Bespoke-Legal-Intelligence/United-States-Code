@@ -44,7 +44,7 @@ The Office shall—
 
 #### (d) Transfer of personnel, property, records, and funds; time of transfer
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds of any Federal agency employed, used, held, available, or to be made available in connection with the functions, powers, and duties vested in the Office by this section as the Director of the Management and Budget shall determine shall be transferred to the Office at such time or times as the Director shall direct.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds of any Federal agencyemployed, used, held, available, or to be made available in connection with the functions, powers, and duties vested in the Office by this section as the Director of the Management and Budget shall determine shall be transferred to the Office at such time or times as the Director shall direct.
 
 #### (e) Modification or supersedure of personnel standards
 
@@ -98,7 +98,7 @@ Section 246(d) of this title, referred to in subsec. (a)(3)(C), was repealed by 
 
 Section 602 of this title, referred to in subsec. (a)(3)(D), was repealed and a new section 602 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains a subsec. (a)(5)(A).
 
-Section 705 of this title, referred to in subsec. (a)(3)(D), was amended by Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 822, and, as so amended, did not contain a subsec. (a). Section 705 was subsequently amended by Pub. L. 101–239, title VI, §6503(b)(2), (4), Dec. 19, 1989, 103 Stat. 2276, which inserted a subsec. “(a)” designation at the beginning of the section and added a par. (3) to subsec. (a).
+Section 705 of this title, referred to in subsec. (a)(3)(D), was amended by Pub. L. 97–35, title XXI,§2192(a), Aug. 13, 1981, 95 Stat. 822, and, as so amended, did not contain a subsec. (a). Section 705 was subsequently amended by Pub. L. 101–239, title VI, §6503(b)(2), (4), Dec. 19, 1989, 103 Stat. 2276, which inserted a subsec. “(a)” designation at the beginning of the section and added a par. (3) to subsec. (a).
 
 Section 1382(a)(5)(A) of this title, referred to in subsec. (a)(3)(D), was in the original a reference to section 1602(a)(5)(A) of the Social Security Act. Title XVI of the Social Security Act (section 1381 et seq. of this title) was amended generally by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, and the provisions formerly contained in section 1382 of this title appeared in section 602 of the Act, which was classified to section 802 of this title, and was repealed by Pub. L. 93–647, §3(b), Jan. 4, 1975, 88 Stat. 2349.
 
@@ -114,7 +114,7 @@ The Davis-Bacon Act, referred to in subsec. (h)(3), is act Mar. 3, 1931, ch. 411
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out asa note under section 1101 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 

@@ -22,5 +22,5 @@ Section 1661(a)(5)(A) of Pub. L. 103–337 provided that: “Section 10147(a) \[
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10143, 10148 of this title; title 5 section 5517; title 14 section 712; title 38 section 4312; title 50 App. section 456.
+This section is referred to in sections 1063, 10143, 10148 of this title; title 5 section 5517; title 14 section 712; title 38 section 4312; title 50 App. section 456.
 

@@ -26,7 +26,7 @@ Research, Investigations, and Training.—(1) The Secretary of Transportation (o
 
 &emsp;(F) the legal, financial, engineering, and esthetic aspects of urban transportation.
 
-(3) When making a grant under this subsection, the appropriate Secretary shall give preference to an institution that brings together knowledge and expertise in the various social science and technical disciplines related to urban transportation problems.
+(3) When making a grant under this subsection, the appropriate Secretary shall give preference to an institution that brings togetherknowledge and expertise in the various social science and technical disciplines related to urban transportation problems.
 
 (c)
 

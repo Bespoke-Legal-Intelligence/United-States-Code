@@ -40,9 +40,19 @@ The Bicentennial of the United States Congress Commemorative Coin Act, referred 
 
 #### Amendments
 
-1990—Subsec. (b). Pub. L. 101–302, §312(b)(1), struck out “subject to the approval, except for the purchase of fine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
+1990—Subsec. (b). Pub. L. 101–302, §312(b)(1), struck out “subject to the approval, except for the purchase offine art and antiques, of the Committees on Appropriations of the House of Representatives and Senate, respectively” after “The fund shall be available to the Commission”.
 
 Subsec. (b)(2). Pub. L. 101–302, §312(b)(2), inserted “subject to the approval of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate,” before “For improvement”.
+
+#### Capitol Visitor Center Funding
+
+Pub. L. 107–117, div. B, §913, Jan. 10, 2002, 115 Stat. 2324, provided that:
+
+“(a) Notwithstanding any other provision of law, the United States Capitol Preservation Commission established under section 801 of the Arizona-Idaho Conservation Act of 1988 (40 U.S.C. 188a) may transfer to the Architect of the Capitol amounts in the Capitol Preservation Fund established under section 803 of such Act (40 U.S.C. 188a–2) if the amounts are to be used by the Architect for the planning, engineering, design, or construction of the Capitol Visitor Center.
+
+“(b) Any amounts transferred pursuant to subsection (a) shall remain available for the use of the Architect of the Capitol until expended.
+
+“(c) This section shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”
 
 #### Section Referred to in Other Sections
 

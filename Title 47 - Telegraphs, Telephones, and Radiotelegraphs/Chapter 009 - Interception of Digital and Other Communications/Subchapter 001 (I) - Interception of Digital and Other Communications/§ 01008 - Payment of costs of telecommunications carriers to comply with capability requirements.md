@@ -60,7 +60,7 @@ If a carrier has requested payment in accordance with procedures promulgated pur
 
 &emsp;&emsp;(A) permit recovery from the Federal Government of—
 
-&emsp;&emsp;&emsp;(i) the direct costs of developing the modifications described in subsection (a) of this section, of providing the capabilities requested under subsection (b)(2) of this section, or of providing the capacities requested under section 1003(e) of thistitle, but only to the extent that such costs have not been recovered from any other governmental or nongovernmental entity;
+&emsp;&emsp;&emsp;(i) the direct costs of developing the modifications described in subsection (a) of this section, of providing the capabilities requested under subsection (b)(2) of this section, or of providing the capacities requested under section 1003(e) of this title, but only to the extent that such costs have not been recovered from any other governmental or nongovernmental entity;
 
 &emsp;&emsp;&emsp;(ii) the costs of training personnel in the use of such capabilities or capacities; and
 

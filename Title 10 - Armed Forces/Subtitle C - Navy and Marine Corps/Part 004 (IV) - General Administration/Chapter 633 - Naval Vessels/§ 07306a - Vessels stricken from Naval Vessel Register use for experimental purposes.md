@@ -8,7 +8,7 @@ Authority.—The Secretary of the Navy may use for experimental purposes any ves
 
 Stripping Vessel.—(1) Before using a vessel for an experimental purpose pursuant to subsection (a), the Secretary shall carry out such stripping of the vessel as is practicable.
 
-(2) Amounts received as proceeds from the stripping of a vessel pursuant to this subsection shall be credited to appropriations available for the procurement of scrapping services needed for such stripping. Amounts received which are in excess of amounts needed for procuring such services shall be deposited into the general fund of the Treasury.
+(2) Amounts received as proceeds from the stripping of a vessel pursuant to this subsection shall be credited to appropriations available for the procurement of scrapping services needed for such stripping. Amounts received which are in excess of amounts needed for procuring suchservices shall be deposited into the general fund of the Treasury.
 
 (Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709.)
 

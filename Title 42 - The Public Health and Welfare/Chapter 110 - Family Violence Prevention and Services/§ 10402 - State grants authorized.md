@@ -16,7 +16,7 @@
 
 &emsp;(C) set forth procedures designed to involve State domestic violence coalitions <sup>2</sup> knowledgeable individuals <sup>2</sup> and interested organizations and assure an equitable distribution of grants and grant funds within the State and between urban and rural areas within such State and a plan to address the needs of underserved populations, including populations underserved because of ethnic, racial, cultural, language diversity or geographic isolation;
 
-&emsp;(D) specify the State agency to be designated as responsible for the administrationof programs and activities relating to family violence which are carried out by the State under this chapter and for coordination of related programs within the State;
+&emsp;(D) specify the State agency to be designated as responsible for the administration of programs and activities relating to family violence which are carried out by the State under this chapter and for coordination of related programs within the State;
 
 &emsp;(E) provide documentation that procedures have been developed, and implemented including copies of the policies and procedure, to assure the confidentiality of records pertaining to any individual provided family violence prevention or treatment services by any program assisted under this chapter and provide assurances that the address or location of any shelter-facility assisted under this chapter will, except with written authorization of the person or persons responsible for the operation of such shelter, not be made public;
 
@@ -38,7 +38,7 @@
 
 #### (c) Direct payments to victims or dependents
 
-No funds provided through demonstration grants made under this section may be used as direct payment to any victim of family violence or to any dependent of such victim.
+No funds provided through demonstration grants made under this section may be used asdirect payment to any victim of family violence or to any dependent of such victim.
 
 #### (d) Income eligibility standards
 
@@ -88,7 +88,7 @@ Subsec. (a)(3). Pub. L. 102–295, §307, inserted “a 6-month period providing
 
 Subsec. (b)(1). Pub. L. 102–295, §308(1), substituted “The Secretary, from amounts appropriated to carry out this section, shall make available not less than 10 percent of such amounts to make grants to Indian tribes, tribal organizations and nonprofit private organizations approved by an Indian Tribe for the operation of a family violence shelter on a Reservation” for “The Secretary is authorized to make demonstration grants to Indian tribes and tribal organizations”.
 
-Subsec. (b)(2). Pub. L. 102–295, §308(2), substituted “grant” for “demonstration grant” and “(E) and (F)” for “and (E)” and inserted at end “No entity eligible to submit an application under paragraph (1) shall be prohibited from making an application during any fiscal year for which funds are available because such entity has not previously applied or received funding under this section.”
+Subsec. (b)(2). Pub. L. 102–295, §308(2), substituted “grant” for “demonstration grant” and “(E) and (F)” for “and (E)” and inserted at end “No entity eligible tosubmit an application under paragraph (1) shall be prohibited from making an application during any fiscal year for which funds are available because such entity has not previously applied or received funding under this section.”
 
 Subsec. (b)(3). Pub. L. 102–295, §308(3), added par. (3).
 
@@ -98,7 +98,7 @@ Subsec. (d). Pub. L. 102–295, §309(a)(2), redesignated subsec. (e) as (d). Fo
 
 Subsec. (e). Pub. L. 102–295, §§309(a)(2), 310, redesignated subsec. (f) as (e) and substituted “No grant” for “No demonstration grant”, “State or an Indian Tribe” for “State”, “20 percent” for “35 percent”, “35 percent” for “55 percent”, “and 50 percent in the third such year and in any such year thereafter” for “and 65 percent in the third such year”, and “25 percent” for “50 percent”. Former subsec. (e) redesignated (d).
 
-Subsecs. (f), (g). Pub. L. 102–295, §§309(a)(2), 311(a), redesignated subsec. (g) as (f), substituted “70 percent” for “60 percent”, and inserted before period “as defined in section 10408(4) of this title. Not less than 25 percent of the funds distributed under subsection (a) or (b) of this section shall be distributed for the purpose of providing related assistance as defined under section10408(5)(A) of this title”. Former subsec. (f) redesignated (e).
+Subsecs. (f), (g). Pub. L. 102–295, §§309(a)(2), 311(a), redesignated subsec. (g) as (f), substituted “70 percent” for “60 percent”, and inserted before period “as defined in section 10408(4) of this title. Not less than 25 percent of the funds distributed under subsection (a) or (b) of this section shall be distributed for the purpose of providing related assistance as defined under section 10408(5)(A) of this title”. Former subsec. (f) redesignated (e).
 
 1988—Subsec. (c). Pub. L. 100–294 struck out provision that a single entity not be awarded demonstration grants under this section for a total period in excess of three fiscal years.
 

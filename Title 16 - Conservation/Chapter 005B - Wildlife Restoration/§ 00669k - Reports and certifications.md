@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;At the time at which the President submits to Congress a budget request for the Department of the Interior for fiscal year 2002, theSecretary of the Interior shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the steps that have been taken to comply with this title <sup>1</sup> and the amendments made by this title.<sup>1</sup>
+&emsp;At the time at which the President submits to Congress a budget request for the Department of the Interior for fiscal year 2002, the Secretary of the Interior shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the steps that have been taken to comply with this title <sup>1</sup> and the amendments made by this title.<sup>1</sup>
 
 #### (2) Contents
 
@@ -58,7 +58,7 @@ This title, referred to in subsec. (a), is title I of Pub. L. 106–408, Nov. 1,
 
 The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which isclassified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 
 #### Codification
 

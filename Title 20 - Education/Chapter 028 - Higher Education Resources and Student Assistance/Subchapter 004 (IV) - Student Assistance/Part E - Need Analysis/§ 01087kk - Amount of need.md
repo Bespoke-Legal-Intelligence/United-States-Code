@@ -32,7 +32,7 @@ and Thereafter.—The amendments made by sections 472, 473, 474, and 475 \[amend
 
 #### Effective Date of 1992 Amendment
 
-Section 471(b) of Pub. L. 102–325 provided that: “The changes made in part F of title IV of the Act \[this part\]by the amendment made by this section \[amending sections 1087kk to 1087vv of this title\] shall apply with respect to determinations of need under such part F for award years beginning on or after July 1, 1993.”
+Section 471(b) of Pub. L. 102–325 provided that: “The changes made in part F of title IV of the Act \[this part\] by the amendment made by this section \[amending sections 1087kk to 1087vv of this title\] shall apply with respect to determinations of need under such part F for award years beginning on or after July 1, 1993.”
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Research on burns, burn injuries, and rehabilitation
 
-The Secretary of Health and Human Services shall establish, within the National Institutes of Health and in cooperation with the Director, an expanded program of research on burns, treatment of burn injuries, and rehabilitation of victims of fires. The National Institutes of Health shall—
+The Secretary of Health and Human Services shall establish, within the National Institutes ofHealth and in cooperation with the Director, an expanded program of research on burns, treatment of burn injuries, and rehabilitation of victims of fires. The National Institutes of Health shall—
 
 &emsp;(1) sponsor and encourage the establishment throughout the Nation of twenty-five additional burn centers, which shall comprise separate hospital facilities providing specialized burn treatment and including research and teaching programs and twenty-five additional burn units, which shall comprise specialized facilities in general hospitals used only for burn victims;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Prevailing Wages and Health and Safety Standards.—Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a) of this title will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5). Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 333) apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
+Prevailing Wages and Health and Safety Standards.—Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a) of this title will be paid wages not less than those prevailing on similar construction in thelocality, as determined by the Secretary of Labor under the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5). Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 333) apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
 
 (b)
 
@@ -90,7 +90,7 @@ Contracting-out Issues To Be Included in Negotiations.—Proposals on the subjec
 
 &emsp;“(2) may, at the mutual election of Amtrak and an organization representing Amtrak employees, be included in any negotiation in progress under section 6 of the Railway Labor Act (45 U.S.C. 156) on the date of enactment of this Act; and
 
-&emsp;“(3) may not be included in any negotiation in progress under section 6 of the Railway Labor Act (45U.S.C. 156) on the date of enactment of this Act, unless both Amtrak and the organization representing Amtrak employees agree to include it in the negotiation.
+&emsp;“(3) may not be included in any negotiation in progress under section 6 of the Railway Labor Act (45 U.S.C. 156) on the date of enactment of this Act, unless both Amtrak and the organization representing Amtrak employees agree to include it in the negotiation.
 
 > No contract between Amtrak and an organization representing Amtrak employees, that is under negotiation on the date of enactment of this Act, may contain a moratorium that extends more than 5 years from the date of expiration of the last moratorium.
 

@@ -28,6 +28,8 @@
 
 &emsp;(B) for the territories of the Northern Mariana Islands, Guam, American Samoa, and the Republic of Palau, $200,000, with the Republic of Palau's share governed by the Compact of Free Association between the United States and the Republic of Palau.
 
+(6) An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1) of this section.
+
 #### (b) Eligibility of program; factors; limitation on expending of sums
 
 (1) A victim assistance program is an eligible crime victim assistance program for the purposes of this section if such program—
@@ -42,9 +44,11 @@
 
 &emsp;(C) utilizes volunteers in providing such services, unless and to the extent the chief executive determines that compelling reasons exist to waive this requirement;
 
-&emsp;(D) promotes within the community served coordinated public and private efforts to aid crime victims; and
+&emsp;(D) promotes within the community served coordinated public and private efforts to aid crime victims;
 
-&emsp;(E) assists potential recipients in seeking crime victim compensation benefits.
+&emsp;(E) assists potential recipients in seeking crime victim compensation benefits; and
+
+&emsp;(F) does not discriminate against victims because they disagree with the way the State is prosecuting the criminal case.
 
 (2) Except as provided in paragraph (3), an eligible crime victim assistance program shall expend sums received under subsection (a) of this section only for providing services to victims of crime.
 
@@ -54,15 +58,15 @@
 
 (1) The Director,<sup>2</sup> shall make grants—
 
-&emsp;(A) for demonstration projects and training and technical assistance services to eligible crime victim assistance programs; and
+&emsp;(A) for demonstration projects, program evaluation, compliance efforts, and training and technical assistance services to eligible crime victim assistance programs; and
 
 &emsp;(B) for the financial support of services to victims of Federal crime by eligible crime victim assistance programs.
 
 (2) Of the amount available for grants under this subsection—
 
-&emsp;(A) not more than 50 percent shall be used for grants under paragraph (1)(A); and
+&emsp;(A) not less than 50 percent shall be used for grants under paragraph (1)(A); and
 
-&emsp;(B) not less than 50 percent shall be used for grants under paragraph (1)(B).
+&emsp;(B) not more than 50 percent shall be used for grants under paragraph (1)(B).
 
 (3) The Director shall—
 
@@ -70,9 +74,15 @@
 
 &emsp;(B) consult with the heads of Federal law enforcement agencies that have responsibilities affecting victims of Federal crimes;
 
-&emsp;(C) coordinate victim services provided by the Federal Government with victim services offered by other public agencies and nonprofit organizations; and
+&emsp;(C) coordinate victim services provided by the Federal Government with victim services offered by other public agencies and nonprofit organizations;
 
-&emsp;(D) perform such other functions related to the purposes of this title as the Director deems appropriate.
+&emsp;(D) perform such other functions related to the purposes of this title as the Director deems appropriate; and
+
+&emsp;(E) use funds made available to the Director under this subsection—
+
+&emsp;&emsp;(i) for fellowships and clinical internships; and
+
+&emsp;&emsp;(ii) to carry out programs of training and special workshops for the presentation and dissemination of information resulting from demonstrations, surveys, and special projects.
 
 (4) The Director may reimburse other instrumentalities of the Federal Government and contract for the performance of functions authorized under this subsection.
 
@@ -108,13 +118,25 @@ As used in this section—
 
 &emsp;(5) the term “chief executive” includes a person designated by a chief executive to perform the functions of the chief executive under this section.
 
-(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, §232(c)(2), Apr. 24, 1996, 110 Stat. 1244.)
+(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, §232(c)(2), Apr. 24, 1996, 110 Stat. 1244; Pub. L. 107–56, title VI, §623, Oct. 26, 2001, 115 Stat. 372.)
 
 #### References in Text
 
 Section 10601(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 10601(d)(2) was added by Pub. L. 103–322, title XXIII, §230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 10601(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 10602 of this title. See section 10601(d)(4) of this title.
 
 #### Amendments
+
+2001—Subsec. (a)(6). Pub. L. 107–56, §623(a), added par. (6).
+
+Subsec. (b)(1)(F). Pub. L. 107–56, §623(b), added subpar. (F).
+
+Subsec. (c)(1)(A). Pub. L. 107–56, §623(c), inserted “, program evaluation, compliance efforts,” after “demonstration projects”.
+
+Subsec. (c)(2)(A). Pub. L. 107–56, §623(d)(1), substituted “not less than 50 percent” for “not more than 50 percent”.
+
+Subsec. (c)(2)(B). Pub. L. 107–56, §623(d)(2), substituted “not more than 50 percent” for “not less than 50 percent”.
+
+Subsec. (c)(3)(E). Pub. L. 107–56, §623(e), added subpar. (E).
 
 1996—Subsec. (a)(5). Pub. L. 104–132 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “As used in this subsection, the term ‘base amount’ means—
 
@@ -174,7 +196,7 @@ Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–69
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10601, 10603a, 10605 of this title.
+This section is referred to in sections 10601, 10603a, 10603b, 10605 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

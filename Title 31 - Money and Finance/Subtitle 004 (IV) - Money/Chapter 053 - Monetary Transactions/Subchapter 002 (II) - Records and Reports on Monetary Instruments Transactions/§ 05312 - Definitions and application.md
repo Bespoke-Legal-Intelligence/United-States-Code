@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) an agency or branch of a foreign bank in the United States;
 
-&emsp;&emsp;(E) an insured institution (as defined in section 401(a) <sup>1</sup> of the National Housing Act (12 U.S.C. 1724(a)));
+&emsp;&emsp;(E) any credit union;
 
 &emsp;&emsp;(F) a thrift institution;
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(Q) a travel agency;
 
-&emsp;&emsp;(R) a licensed sender of money;
+&emsp;&emsp;(R) a licensed sender of money or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
 
 &emsp;&emsp;(S) a telegraph company;
 
@@ -68,19 +68,33 @@
 
 &emsp;&emsp;(B) as the Secretary may prescribe by regulation, coins and currency of a foreign country, travelers’ checks, bearer negotiable instruments, bearer investment securities, bearer securities, stock on which title is passed on delivery, and similar material; and
 
-&emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of section 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
+&emsp;&emsp;(C) as the Secretary of the Treasury shall provide by regulation for purposes of sections 5333 <sup>1</sup> and 5316, checks, drafts, notes, money orders, and other similar instruments which are drawn on or by a foreign financial institution and are not in bearer form.
 
-&emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, a representative of an estate and, when the Secretary prescribes, a governmental entity.
+&emsp;(4)
 
-&emsp;(5) “United States” means the States of the United States, the District of Columbia, and, when the Secretary prescribes by regulation, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands, a territory or possession of the United States, or a military or diplomatic establishment.
+Nonfinancial trade or business.—The term “nonfinancial trade or business” means any trade or business other than a financial institution that is subject to the reporting requirements of section 5313 and regulations prescribed under such section.
+
+&emsp;(5) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, a representative of an estate and, when the Secretary prescribes, a governmental entity.
+
+&emsp;(6) “United States” means the States of the United States, the District of Columbia, and, when the Secretary prescribes by regulation, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands, a territory or possession of the United States, or a military or diplomatic establishment.
 
 (b) In this subchapter—
 
-&emsp;(1) “domestic financial agency” and “domestic financial institution” apply to an action in the United States of a financial agency or institution.
+&emsp;(1) “domestic financial agency” and “domestic financial institution” apply to an action inthe United States of a financial agency or institution.
 
 &emsp;(2) “foreign financial agency” and “foreign financial institution” apply to an action outside the United States of a financial agency or institution.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, §1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, §6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325, title IV, §§405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252.)
+(c)
+
+Additional Definitions.—For purposes of this subchapter, the following definitions shall apply:
+
+&emsp;(1) <sup>2</sup>
+
+Certain institutions included in definition.—The term “financial institution” (as defined in subsection (a)) includes the following:
+
+&emsp;&emsp;(A) <sup>3</sup> Any futures commission merchant, commodity trading advisor, or commodity pool operator registered, or required to register, under the Commodity Exchange Act.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 99–570, title I, §1362, Oct. 27, 1986, 100 Stat. 3207–33; Pub. L. 100–690, title VI, §6185(a), (g)(1), Nov. 18, 1988, 102 Stat. 4354, 4357; Pub. L. 103–325, title IV, §§405, 409, Sept. 23, 1994, 108 Stat. 2247, 2252; Pub. L. 107–56, title III, §§321(a), (b), 359(a), 365(c)(1), (2)(A), Oct. 26, 2001, 115 Stat. 315, 328, 335.)
 
 Historical and Revision Notes
 
@@ -136,13 +150,27 @@ Subsection (b) is substituted for 31:1052(f) and (h) to eliminate unnecessary wo
 
 #### References in Text
 
-Section 401 of the National Housing Act, referred to in subsec. (a)(2)(E), which was classified to section 1724 of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
-
 The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to section 2703(6) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
+The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+
+#### Codification
+
+Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
+
 #### Amendments
+
+2001—Subsec. (a)(2)(E). Pub. L. 107–56, §321(a), which directed the general amendment of par. (2)(E) of this section, was executed to subsec. (a)(2)(E) of this section to reflect the probable intent of Congress. Prior to amendment, subsec. (a)(2)(E) read as follows: “an insured institution (as defined in section 401(a) of the National Housing Act (12 U.S.C. 1724(a)));”.
+
+Subsec. (a)(2)(R). Pub. L. 107–56, §359(a), amended subpar. (R) generally. Prior to amendment, subpar. (R) read as follows: “a licensed sender of money;”.
+
+Subsec. (a)(3)(C). Pub. L. 107–56, §365(c)(2)(A), substituted “sections 5333 and 5316,” for “section 5316,”.
+
+Subsec. (a)(4) to (6). Pub. L. 107–56, §365(c)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (c). Pub. L. 107–56, §321(b), added subsec. (c).
 
 1994—Subsec. (a)(2)(X) to (Z). Pub. L. 103–325, §409, added subpar. (X) and redesignated former subpars. (X) and (Y) as (Y) and (Z), respectively.
 
@@ -160,13 +188,21 @@ Subsec. (a)(5). Pub. L. 100–690, §6185(g)(1), inserted a comma after “Puert
 
 Subsec. (a)(5). Pub. L. 99–570, §1362(b), inserted “the Virgin Islands, Guam, the Northern Mariana Islands, American Samoa, the Trust Territory of the Pacific Islands,” after “Puerto Rico”.
 
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5340 of this title; title 12 section 1953; title 18 sections 986, 1956, 2339B; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
+This section is referred to in sections 5318, 5331, 5340 of this title; title 12 section 1953; title 18 sections 986, 1956, 2339B; title 19 sections 1401, 1607; title 26 section 6050I; title 50 section 438.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. This title does not contain a section 5333.</i>
+
+<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

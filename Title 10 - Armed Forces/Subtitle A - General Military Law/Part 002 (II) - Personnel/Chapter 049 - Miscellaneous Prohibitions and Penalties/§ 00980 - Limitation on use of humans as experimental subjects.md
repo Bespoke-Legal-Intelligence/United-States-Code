@@ -1,12 +1,14 @@
 ### §980. Limitation on use of humans as experimental subjects
 
-Funds appropriated to the Department of Defense may not be used for research involving a human being as an experimental subject unless—
+(a) Funds appropriated to the Department of Defense may not be used for research involving a human being as an experimental subject unless—
 
 &emsp;(1) the informed consent of the subject is obtained in advance; or
 
 &emsp;(2) in the case of research intended to be beneficial to the subject, the informed consent of the subject or a legal representative of the subject is obtained in advance.
 
-(Added Pub. L. 98–525, title XIV, §1401(c)(1), Oct. 19, 1984, 98 Stat. 2615.)
+(b) The Secretary of Defense may waive the prohibition in this section with respect to a specific research project to advance the development of a medical product necessary to the armed forces if the research project may directly benefit the subject and is carried out in accordance with all other applicable laws.
+
+(Added Pub. L. 98–525, title XIV, §1401(c)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 107–107, div. A, title VII, §733, Dec. 28, 2001, 115 Stat. 1170.)
 
 #### Prior Provisions
 
@@ -37,6 +39,10 @@ Pub. L. 93–437, title VIII, §841, Oct. 8, 1974, 88 Stat. 1231.
 Pub. L. 93–238, title VII, §743, Jan. 2, 1974, 87 Stat. 1045.
 
 Pub. L. 92–570, title VII, §745, Oct. 26, 1972, 86 Stat. 1203.
+
+#### Amendments
+
+2001—Pub. L. 107–107 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date
 

@@ -32,7 +32,7 @@ The Federal Property and Administrative Services Act of 1949, as amended, referr
 
 #### Prior Provisions
 
-A prior section 7305, acts Aug. 10, 1956, ch. 1041, 70A Stat. 451; Dec. 12, 1980, Pub. L. 96–513, title V, §513(27),94 Stat. 2933, related to sale of vessels stricken from Naval Vessel Register, prior to repeal by Pub. L. 103–160, §824(b).
+A prior section 7305, acts Aug. 10, 1956, ch. 1041, 70A Stat. 451; Dec. 12, 1980, Pub. L. 96–513, title V, §513(27), 94 Stat. 2933, related to sale of vessels stricken from Naval Vessel Register, prior to repeal by Pub. L. 103–160, §824(b).
 
 #### Amendments
 

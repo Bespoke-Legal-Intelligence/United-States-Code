@@ -14,7 +14,7 @@ After submitting the report required by subsection (a) of this section but not l
 
 &emsp;(3) the compliance of countries which have received assistance from the International Monetary Fund with agreements made as a condition of receiving the assistance.
 
-(Pub. L. 95–118, title XVII, §1705, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §613\], Oct. 21,1998, 112 Stat. 2681–150, 2681–230; amended Pub. L. 106–200, title IV, §404(c), May 18, 2000, 114 Stat. 292; Pub. L. 106–429, §101(a) \[title VIII, §803(c)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–67.)
+(Pub. L. 95–118, title XVII, §1705, as added Pub. L. 105–277, div. A, §101(d) \[title VI, §613\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–230; amended Pub. L. 106–200, title IV, §404(c), May 18, 2000, 114 Stat. 292; Pub. L. 106–429, §101(a) \[title VIII, §803(c)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–67.)
 
 #### References in Text
 

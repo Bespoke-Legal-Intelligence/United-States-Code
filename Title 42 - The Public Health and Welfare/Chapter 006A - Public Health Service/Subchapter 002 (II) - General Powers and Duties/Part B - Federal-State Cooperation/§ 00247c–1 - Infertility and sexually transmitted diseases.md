@@ -36,7 +36,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 #### (e) Required providers regarding certain services
 
-The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254c, 256, 256a, or 300 of this title,<sup>1</sup> orare other public or nonprofit private entities that provide health services to a significant number of low-income women.
+The Secretary may make a grant under subsection (a) of this section only if the applicant involved agrees that, in expending the grant to carry out activities authorized in subsection (c) of this section, the services described in paragraphs (1) through (7) of such subsection will be provided only through entities that are State or local health departments, grantees under section 254b, 254c, 256, 256a, or 300 of this title,<sup>1</sup> or are other public or nonprofit private entities that provide health services to a significant number of low-income women.
 
 #### (f) Quality assurance regarding screening for diseases
 
@@ -70,7 +70,7 @@ The Secretary may make a grant under subsection (a) of this section only if the 
 
 &emsp;&emsp;(B) the number and demographic characteristics of individuals in such population;
 
-&emsp;&emsp;(C) the types of interventions and treatments provided by the applicant, and the health conditions with respect to which referrals have been made pursuant to subsection (c)(5) of this section;
+&emsp;&emsp;(C) the types of interventions and treatments provided by the applicant, and thehealth conditions with respect to which referrals have been made pursuant to subsection (c)(5) of this section;
 
 &emsp;&emsp;(D) an assessment of the extent to which the activities carried pursuant to subsection (a) of this section have reduced the incidence of infertility in the geographic area involved; and
 
@@ -134,7 +134,7 @@ The period during which payments are made to an entity from a grant under subsec
 
 &emsp;Not later than 1 year after the date on which amounts are first appropriated pursuant to subsection (q) of this section, and biennially thereafter, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report—
 
-&emsp;&emsp;(A) summarizing the information provided to the Secretary in reports made pursuant to subsection (j)(1) of this section, including information on the incidence of sexually transmitted diseases described in subsection (a) of this section; and
+&emsp;&emsp;(A) summarizing the information provided to the Secretary in reports made pursuant tosubsection (j)(1) of this section, including information on the incidence of sexually transmitted diseases described in subsection (a) of this section; and
 
 &emsp;&emsp;(B) summarizing evaluations carried out pursuant to paragraph (1) during the preceding fiscal year.
 

@@ -22,7 +22,7 @@ Notification of Violations.—(1) A civilian employee of the Department of Defen
 
 &emsp;(B) other mismanagement or gross waste of such funds.
 
-(2) The Secretary of Defense shall designate civilian employees of the Department of Defense or members of the armed forces to receive a notification described in paragraph (1) and ensure the prompt investigation of the validity of information provided in the notification.
+(2) The Secretary of Defense shall designate civilian employees of the Department of Defenseor members of the armed forces to receive a notification described in paragraph (1) and ensure the prompt investigation of the validity of information provided in the notification.
 
 (3) The Secretary shall prescribe regulations to protect the confidentiality of a person making a notification under paragraph (1).
 

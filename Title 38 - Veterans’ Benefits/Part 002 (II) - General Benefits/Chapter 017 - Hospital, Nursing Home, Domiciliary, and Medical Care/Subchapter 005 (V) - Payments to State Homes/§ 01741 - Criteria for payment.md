@@ -24,7 +24,7 @@ Prior sections 1740 and 1741 were renumbered sections 3540 and 3541 of this titl
 
 #### Amendments
 
-1999—Subsec. (a)(2). Pub. L. 106–117 substituted “extended care services described in any of paragraphs (4)through (6) of section 1710B(a) of this title under a program administered by a State home” for “adult day health care in a State home”.
+1999—Subsec. (a)(2). Pub. L. 106–117 substituted “extended care services described in any of paragraphs (4) through (6) of section 1710B(a) of this title under a program administered by a State home” for “adult day health care in a State home”.
 
 1996—Subsec. (a). Pub. L. 104–262 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Effective Date of 1964 Amendment
 
-Section 3(c) of Pub. L. 88–450 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1965; except thatsubsection (b) of section 641 \[now 1741\] of title 38, United States Code, as in effect immediately before such date, shall remain in effect with respect to any amounts retained or collected by any State home before such date.”
+Section 3(c) of Pub. L. 88–450 provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 1965; except that subsection (b) of section 641 \[now 1741\] of title 38, United States Code, as in effect immediately before such date, shall remain in effect with respect to any amounts retained or collected by any State home before such date.”
 
 #### Payments to States for Nursing Home Care
 
@@ -122,5 +122,5 @@ Section 3(b) of Pub. L. 88–450 provided that: “No payment shall be made to a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2303, 5503, 8122, 8126, 8134 of this title; title 42 sections 1396a, 1396r–8.
+This section is referred to in sections 2012, 2303, 3485, 5503, 8122, 8126, 8134 of this title; title 42 sections 1396a, 1396r–8.
 

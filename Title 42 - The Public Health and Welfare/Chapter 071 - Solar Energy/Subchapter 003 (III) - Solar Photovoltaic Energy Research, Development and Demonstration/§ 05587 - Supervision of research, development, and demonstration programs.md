@@ -8,7 +8,7 @@ The Secretary, in coordination with such Government agencies as may be appropria
 
 &emsp;(2) collect and evaluate data and information on the performance and operation of photovoltaic systems installed under this subchapter; and
 
-&emsp;(3) from time to time carry out such studies and investigations and take such other actions, including the submission of special reports to the Congress when appropriate, as may be necessary to assure that the programsfor which the Secretary is responsible under this subchapter effectively carry out the policy of this subchapter.
+&emsp;(3) from time to time carry out such studies and investigations and take such other actions, including the submission of special reports to the Congress when appropriate, as may be necessary to assure that the programs for which the Secretary is responsible under this subchapter effectively carry out the policy of this subchapter.
 
 #### (b) Assistance from scientific, technical, and professional societies and industry representatives
 

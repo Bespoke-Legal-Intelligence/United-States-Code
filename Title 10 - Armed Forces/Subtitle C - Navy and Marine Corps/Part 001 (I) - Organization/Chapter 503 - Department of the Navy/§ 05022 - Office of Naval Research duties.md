@@ -12,7 +12,7 @@
 
 &emsp;(3) the supervision, administration, and control of activities within or for the Department relating to patents, inventions, trademarks, copyrights, and royalty payments, and matters connected therewith; and
 
-&emsp;(4) the execution of, and management responsibility for, programs for which funds are provided in the basic and applied research and advanced technology categories of the Department of the Navy research, development, test, and evaluation budget in such a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
+&emsp;(4) the execution of, and management responsibility for, programs for which funds areprovided in the basic and applied research and advanced technology categories of the Department of the Navy research, development, test, and evaluation budget in such a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
 (c) Sufficient information relative to estimates of appropriations for research by the several bureaus and offices shall be furnished to the Office of Naval Research to assist it in coordinating naval research and carrying out its other duties.
 
@@ -59,6 +59,32 @@ In subsection (c) the words “shall have full force and effect as such” are o
 #### Effective Date of 1996 Amendment
 
 Section 501(b) of Pub. L. 104–201 provided that: “Paragraph (2) of section 5022(a) of title 10, United States Code, as added by subsection (a), shall take effect upon the occurrence of the first vacancy in the position of Chief of Naval Research after the date of the enactment of this Act \[Sept. 23, 1996\].”
+
+#### Demonstration Project To Increase Small Business and University Participation in Office of Naval Research Efforts To Extend Benefits of Science and Technology Research to Fleet
+
+Pub. L. 107–107, div. A, title II, §262, Dec. 28, 2001, 115 Stat. 1044, provided that:
+
+“(a)
+
+Project Required.—The Secretary of the Navy, acting through the Chief of Naval Research, shall carry out a demonstration project to increase access to Navy facilities of small businesses and universities that are engaged in science and technology research beneficial to the fleet.
+
+“(b)
+
+Project Elements.—In carrying out the demonstration project, the Secretary shall—
+
+&emsp;“(1) establish and operate a Navy Technology Extension Center at a location to be selected by the Secretary;
+
+&emsp;“(2) permit participants in the Small Business Innovation Research Program (SBIR) and Small Business Technology Transfer Program (STTR) that are awarded contracts by the Office of Naval Research to access and use Navy Major Range Test Facilities Base (MRTFB) facilities selected by the Secretary for purposes of carrying out such contracts, and charge such participants for such access and use at the same established rates that Department of Defense customers are charged; and
+
+&emsp;“(3) permit universities, institutions of higher learning, and federally funded research and development centers collaborating with participants referred to in paragraph (2) to access and use such facilities for such purposes, and charge such entities for such access and use at such rates.
+
+“(c)
+
+Period of Project.—The demonstration project shall be carried out during the three-year period beginning on the date of the enactment of this Act \[Dec. 28, 2001\].
+
+“(d)
+
+Report.—Not later than February 1, 2004, the Secretary shall submit to Congress a report on the demonstration project. The report shall include a description of the activities carried out under the demonstration project and any recommendations for the improvement or expansion of the demonstration project that the Secretary considers appropriate.”
 
 #### Section Referred to in Other Sections
 

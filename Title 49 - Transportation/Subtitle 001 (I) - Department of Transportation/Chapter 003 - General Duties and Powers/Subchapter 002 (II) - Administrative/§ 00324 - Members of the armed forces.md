@@ -6,7 +6,7 @@
 
 &emsp;(2) may provide for participation of members of the armed forces in carrying out other duties and powers of the Secretary.
 
-(b) A member of the Coast Guard on active duty may be appointed, detailed, or assigned to a position in the Department of Transportation, except the position of Secretary, Deputy Secretary, or Assistant Secretary for Administration. A retired member of the Coast Guard maybe appointed, detailed, or assigned to a position in the Department.
+(b) A member of the Coast Guard on active duty may be appointed, detailed, or assigned to a position in the Department of Transportation, except the position of Secretary, Deputy Secretary, or Assistant Secretary for Administration. A retired member of the Coast Guard may be appointed, detailed, or assigned to a position in the Department.
 
 (c) The Secretary of Transportation and the Secretary of a military department may make cooperative agreements, including agreements on reimbursement as may be considered appropriate by the Secretaries, under which a member of the armed forces may be appointed, detailed, or assigned to the Department of Transportation under this section. The Secretary of Transportation shall send a report each year to the appropriate committees of Congress on agreements made to carry out subsection (a)(2) of this section, including the number, rank, and position of each member appointed, detailed, or assigned under those agreements.
 

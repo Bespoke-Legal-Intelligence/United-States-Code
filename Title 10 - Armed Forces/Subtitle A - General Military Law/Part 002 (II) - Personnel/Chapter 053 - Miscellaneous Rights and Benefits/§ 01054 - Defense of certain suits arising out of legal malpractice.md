@@ -22,7 +22,7 @@
 
 (f) The head of the agency concerned may hold harmless or provide liability insurance for any person described in subsection (a) for damages for injury or loss of property caused by such person's negligent or wrongful act or omission in the provision of authorized legal assistance while acting within the scope of such person's duties if such person is assigned to a foreign country or detailed for service with an entity other than a Federal department, agency, or instrumentality or if the circumstances are such as are likely to preclude the remedies of third persons against the United States described in section 1346(b) of title 28, for such damage or injury.
 
-(g) In this section, the term “head of the agency concerned” means the Secretary of Defense,the Secretary of a military department, or the Secretary of the department in which the Coast Guard is operating, as appropriate.
+(g) In this section, the term “head of the agency concerned” means the Secretary of Defense, the Secretary of a military department, or the Secretary of the department in which the Coast Guard is operating, as appropriate.
 
 (Added Pub. L. 99–661, div. A, title XIII, §1356(a)(1), Nov. 14, 1986, 100 Stat. 3996; amended Pub. L. 100–448, §15(a), Sept. 28, 1988, 102 Stat. 1845.)
 
@@ -39,4 +39,8 @@ Section 15(b) of Pub. L. 100–448 provided that: “The amendments made by subs
 #### Effective Date
 
 Section 1356(b) of Pub. L. 99–661 provided that: “Section 1054 of title 10, United States Code, as added by subsection (a), shall apply only to claims accruing on or after the date of the enactment of this Act \[Nov. 14, 1986\], regardless of when the alleged negligent or wrongful act or omission occurred.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1588 of this title.
 

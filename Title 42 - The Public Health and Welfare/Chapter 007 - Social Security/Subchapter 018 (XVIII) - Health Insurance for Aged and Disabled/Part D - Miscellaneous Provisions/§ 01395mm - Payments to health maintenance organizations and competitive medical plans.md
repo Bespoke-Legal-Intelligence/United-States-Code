@@ -14,7 +14,7 @@
 
 (C) The annual per capita rate of payment for each such class shall be equal to 95 percent of the adjusted average per capita cost (as defined in paragraph (4)) for that class.
 
-(D) In the case of an eligible organization with a risk-sharing contract, the Secretary shall make monthly payments in advance and in accordance with the rate determined under subparagraph (C) and except as provided in subsection (g)(2) of this section, to the organization for each individual enrolled with the organization under this section.
+(D) In the case of an eligible organization with a risk-sharing contract, the Secretary shallmake monthly payments in advance and in accordance with the rate determined under subparagraph (C) and except as provided in subsection (g)(2) of this section, to the organization for each individual enrolled with the organization under this section.
 
 (E)(i) The amount of payment under this paragraph may be retroactively adjusted to take into account any difference between the actual number of individuals enrolled in the plan under this section and the number of such individuals estimated to be so enrolled in determining the amount of the advance payment.
 
@@ -22,7 +22,7 @@
 
 (II) No adjustment may be made under subclause (I) with respect to any individual who does not certify that the organization provided the individual with the explanation described in subsection (c)(3)(E) of this section at the time the individual enrolled with the organization.
 
-(F)(i) At least 45 days before making the announcement under subparagraph (A) for a year (beginning with the announcement for 1991), theSecretary shall provide for notice to eligible organizations of proposed changes to be made in the methodology or benefit coverage assumptions from the methodology and assumptions used in the previous announcement and shall provide such organizations an opportunity to comment on such proposed changes.
+(F)(i) At least 45 days before making the announcement under subparagraph (A) for a year (beginning with the announcement for 1991), the Secretary shall provide for notice to eligible organizations of proposed changes to be made in the methodology or benefit coverage assumptions from the methodology and assumptions used in the previous announcement and shall provide such organizations an opportunity to comment on such proposed changes.
 
 (ii) In each announcement made under subparagraph (A) for a year (beginning with the announcement for 1991), the Secretary shall include an explanation of the assumptions (including any benefit coverage assumptions) and changes in methodology used in the announcement in sufficient detail so that eligible organizations can compute per capita rates of payment for classes of individuals located in each county (or equivalent area) which is in whole or in part within the service area of such an organization.
 
@@ -98,7 +98,7 @@ For purposes of this section, the term “eligible organization” means a publi
 
 > unless otherwise required by law.
 
-(3)(A)(i) Each eligible organization must have an open enrollment period, for the enrollment of individuals under this section, of at least 30 days duration every year and including the period or periods specified under clause (ii), and must provide that at any time during which enrollments are accepted, the organization will accept up to the limits of its capacity (as determined by the Secretary) and without restrictions, except as may be authorized in regulations, individuals who are eligible to enroll under subsection (d) of this section in the order in which they apply for enrollment, unless to do so would result in failure to meet the requirements of subsection (f) of this section or would result in the enrollment of enrollees substantially nonrepresentative, as determined in accordance with regulations of the Secretary, of the population in the geographic area served by the organization.
+(3)(A)(i) Each eligible organization must have an open enrollment period, for the enrollment of individuals under this section, of at least 30 days duration every year and including the period or periods specified under clause (ii), and must provide that at any time during which enrollments are accepted, the organization will accept up to the limits of its capacity (as determined by the Secretary) and without restrictions, except as may be authorized in regulations, individuals who are eligible to enroll under subsection (d) of this section in the order in which they apply for enrollment, unless to do so would result in failure to meet the requirements of subsection (f) of this section or would result in the enrollment ofenrollees substantially nonrepresentative, as determined in accordance with regulations of the Secretary, of the population in the geographic area served by the organization.
 
 (ii)(I) If a risk-sharing contract under this section is not renewed or is otherwise terminated, eligible organizations with risk-sharing contracts under this section and serving a part of the same service area as under the terminated contract are required to have an open enrollment period for individuals who were enrolled under the terminated contract as of the date of notice of such termination. If a risk-sharing contract under this section is renewed in a manner that discontinues coverage for individuals residing in part of the service area, eligible organizations with risk-sharing contracts under this section and enrolling individuals residing in that part of the service area are required to have an open enrollment period for individuals residing in the part of the service area who were enrolled under the contract as of the date of notice of such discontinued coverage.
 
@@ -146,7 +146,7 @@ For purposes of this section, the term “eligible organization” means a publi
 
 (5)(A) The organization must provide meaningful procedures for hearing and resolving grievances between the organization (including any entity or individual through which the organization provides health care services) and members enrolled with the organization under this section.
 
-(B) A member enrolled with an eligible organization under this section who is dissatisfied by reason of his failure to receive any health service to which he believes he is entitled and at no greater charge than he believes he is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the eligible organization a party. If the amount in controversy is $1,000 or more, the individual or eligible organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the eligible organization shall be entitled to be parties to that judicial review. In applying sections 405(b) and 405(g) of this title as provided in this subparagraph, and in applying section 405(<i>l</i>) of this titlethereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
+(B) A member enrolled with an eligible organization under this section who is dissatisfied by reason of his failure to receive any health service to which he believes he is entitled and at no greater charge than he believes he is required to pay is entitled, if the amount in controversy is $100 or more, to a hearing before the Secretary to the same extent as is provided in section 405(b) of this title, and in any such hearing the Secretary shall make the eligible organization a party. If the amount in controversy is $1,000 or more, the individual or eligible organization shall, upon notifying the other party, be entitled to judicial review of the Secretary's final decision as provided in section 405(g) of this title, and both the individual and the eligible organization shall be entitled to be parties to that judicial review. In applying sections 405(b) and 405(g) of this title as provided in this subparagraph, and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
 (6) The organization must have arrangements, established in accordance with regulations of the Secretary, for an ongoing quality assurance program for health care services it provides to such individuals, which program (A) stresses health outcomes and (B) provides review by physicians and other health care professionals of the process followed in the provision of such health care services.
 
@@ -184,7 +184,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 > exceed the actuarial value of the coinsurance and deductibles that would be applicable on the average to individuals enrolled under this section with the organization (or, if the Secretary finds that adequate data are not available to determine that actuarial value, the actuarial value of the coinsurance and deductibles applicable on the average to individuals in the area, in the State, or in the United States, eligible to enroll under this section with the organization, or other appropriate data) and entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, or enrolled under part B only, respectively, if they were not members of an eligible organization.
 
-(2) If the eligible organization provides to its members enrolled under this section services in addition to services covered under parts A and B of this subchapter, election of coverage for such additional services (unless such services have been approved by the Secretary under subsection (c)(2) of this section) shall be optional for such members and such organization shall furnish such members with information on the portion of its premium rate or other charges applicable to such additional services. In no case may the sum of—
+(2) If the eligible organization provides to its members enrolled under this section services in addition to services covered under parts A and B of this subchapter, election of coverage for such additional services (unless such services havebeen approved by the Secretary under subsection (c)(2) of this section) shall be optional for such members and such organization shall furnish such members with information on the portion of its premium rate or other charges applicable to such additional services. In no case may the sum of—
 
 &emsp;(A) the portion of such organization's premium rate charged, with respect to such additional services, to members enrolled under this section, and
 
@@ -198,7 +198,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;(B) such portion of the weighted aggregate premium, which the Secretary annually estimates would apply to a member enrolled under this section with the eligible organization, as the Secretary annually estimates is attributable to that service or services,
 
-> but adjusted for differences between the utilization characteristics of the members enrolledwith the eligible organization under this section and the utilization characteristics of the other members of the organization (or, if the Secretary finds that adequate data are not available to adjust for those differences, the differences between the utilization characteristics of members in other eligible organizations, or individuals in the area, in the State, or in the United States, eligible to enroll under this section with an eligible organization and the utilization characteristics of the rest of the population in the area, in the State, or in the United States, respectively).
+> but adjusted for differences between the utilization characteristics of the members enrolled with the eligible organization under this section and the utilization characteristics of the other members of the organization (or, if the Secretary finds that adequate data are not available to adjust for those differences, the differences between the utilization characteristics of members in other eligible organizations, or individuals in the area, in the State, or in the United States, eligible to enroll under this section with an eligible organization and the utilization characteristics of the rest of the population in the area, in the State, or in the United States, respectively).
 
 (4) Notwithstanding any other provision of law, the eligible organization may (in the case of the provision of services to a member enrolled under this section for an illness or injury for which the member is entitled to benefits under a workmen's compensation law or plan of the United States or a State, under an automobile or liability insurance policy or plan, including a self-insured plan, or under no fault insurance) charge or authorize the provider of such services to charge, in accordance with the charges allowed under such law or policy—
 
@@ -230,11 +230,11 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;(B) if the adjusted community rate for services under part B of this subchapter (as reduced for the actuarial value of the coinsurance and deductibles under that part) for members enrolled under this section with the organization and entitled to benefits under part B of this subchapter only
 
-> is less than the average of the per capita rates of payment to be made under subsection (a)(1) of this section at the beginning of an annual contract period for members enrolled under this section with the organization and entitled to benefits under part A of this subchapter and enrolled in part B of this subchapter, or enrolled in part B of this subchapter only, respectively, the eligible organization shall provide to members enrolled under a risk-sharing contract under this section with the organization and entitled to benefits under part A of this subchapter and enrolled in part B of this subchapter, or enrolled in part B of this subchapter only, respectively, the additional benefits described in paragraph (3) which are selected by the eligible organization and which the Secretary finds are at least equal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced); except that this paragraph shall not apply with respect to any organization which elects to receive a lesser payment to the extent that there is no longer a difference between the average per capita payment and adjusted community rate (as so reduced) and except that an organization (with the approval of the Secretary) may provide that a part of the value of such additional benefits be withheld and reserved by the Secretary as provided in paragraph (5). If the Secretary finds that there is insufficient enrollment experience to determine an average of the per capita rates of payment to be made under subsection (a)(1) of this section at the beginning of a contract period, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this section.
+> is less than the average of the per capita rates of payment to be made under subsection (a)(1) of this section at the beginning of an annual contract period for members enrolled under thissection with the organization and entitled to benefits under part A of this subchapter and enrolled in part B of this subchapter, or enrolled in part B of this subchapter only, respectively, the eligible organization shall provide to members enrolled under a risk-sharing contract under this section with the organization and entitled to benefits under part A of this subchapter and enrolled in part B of this subchapter, or enrolled in part B of this subchapter only, respectively, the additional benefits described in paragraph (3) which are selected by the eligible organization and which the Secretary finds are at least equal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced); except that this paragraph shall not apply with respect to any organization which elects to receive a lesser payment to the extent that there is no longer a difference between the average per capita payment and adjusted community rate (as so reduced) and except that an organization (with the approval of the Secretary) may provide that a part of the value of such additional benefits be withheld and reserved by the Secretary as provided in paragraph (5). If the Secretary finds that there is insufficient enrollment experience to determine an average of the per capita rates of payment to be made under subsection (a)(1) of this section at the beginning of a contract period, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this section.
 
 (3) The additional benefits referred to in paragraph (2) are—
 
-&emsp;(A) the reduction of the premium rate or other charges made with respect to servicesfurnished by the organization to members enrolled under this section, or
+&emsp;(A) the reduction of the premium rate or other charges made with respect to services furnished by the organization to members enrolled under this section, or
 
 &emsp;(B) the provision of additional health benefits,
 
@@ -266,7 +266,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 > If such an eligible organization pays a hospital or skilled nursing facility directly, the amount paid shall not exceed the reasonable cost of the services (as determined under section 1395x(v) of this title) or the amount determined under section 1395ww of this title, as applicable, unless such organization demonstrates to the satisfaction of the Secretary that such excess payments are justified on the basis of advantages gained by the organization.
 
-(3) Payments made to an organization with a reasonable cost reimbursement contract shall be subject to appropriate retroactive corrective adjustment at the end of each contract year so as to assure that such organization is paid for the reasonable cost actually incurred (excluding any part of incurred cost found to be unnecessary in the efficient delivery of health services) or the amounts otherwise determined under section 1395ww of this title for the types of expenses otherwise reimbursable under this subchapter for providing services covered under this subchapter to individuals described in subsection (a)(1) of this section.
+(3) Payments made to an organization with a reasonable cost reimbursement contract shall be subject to appropriate retroactive corrective adjustment at the end of each contract year so as to assure that such organization is paid for the reasonable cost actually incurred (excluding any part of incurred cost found to be unnecessary in the efficient delivery of health services) or the amounts otherwise determined under section 1395ww of this title for the types of expenses otherwise reimbursable under this subchapterfor providing services covered under this subchapter to individuals described in subsection (a)(1) of this section.
 
 (4) Any reasonable cost reimbursement contract with an eligible organization under this subsection shall provide that the Secretary shall require, at such time following the expiration of each accounting period of the eligible organization (and in such form and in such detail) as he may prescribe—
 
@@ -418,7 +418,7 @@ Subject to the provisions of subsection (c)(3) of this section, every individual
 
 &emsp;(A) with respect to individuals entitled to benefits under both parts A and B of this subchapter, by substituting payment rates under section 1395w–23(a) of this title for the payment rates otherwise established under subsection (a) of this section, and
 
-&emsp;(B) with respect to individuals only entitled to benefits under part B of this subchapter, bysubstituting an appropriate proportion of such rates (reflecting the relative proportion of payments under this subchapter attributable to such part) for the payment rates otherwise established under subsection (a) of this section.
+&emsp;(B) with respect to individuals only entitled to benefits under part B of this subchapter, by substituting an appropriate proportion of such rates (reflecting the relative proportion of payments under this subchapter attributable to such part) for the payment rates otherwise established under subsection (a) of this section.
 
 (4) The following requirements shall apply to eligible organizations with risk-sharing contracts under this section in the same manner as they apply to Medicare+Choice organizations under part C of this subchapter:
 
@@ -460,7 +460,7 @@ Subsec. (h)(5). Pub. L. 105–33, §4002(b)(2)(A), added par. (5).
 
 Subsec. (k). Pub. L. 105–33, §4002(b)(1), added subsec. (k).
 
-1996—Subsec. (i)(1). Pub. L. 104–191, §215(a)(1), substituted “in accordance with procedures established under paragraph (9), the Secretary may at any time terminate any such contract or may impose the intermediate sanctions described in paragraph (6)(B) or (6)(C) (whichever is applicable) on the eligible organization if the Secretary determines that the organization—” for “the Secretary may terminate any such contract at any time (after such reasonable notice and opportunity for hearing to the eligible organization involved as he may provide in regulations), if he finds that the organization—” in introductory provisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+1996—Subsec. (i)(1). Pub. L. 104–191, §215(a)(1), substituted “in accordance with procedures established under paragraph (9), the Secretary may at any time terminate any such contract or may impose the intermediate sanctions described in paragraph (6)(B) or (6)(C) (whichever is applicable) on the eligible organization if the Secretary determines that the organization—” for “the Secretary may terminate any suchcontract at any time (after such reasonable notice and opportunity for hearing to the eligible organization involved as he may provide in regulations), if he finds that the organization—” in introductory provisions, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) has failed substantially to carry out the contract,
 
@@ -482,7 +482,7 @@ Subsec. (i)(9). Pub. L. 104–191, §215(a)(3), added par. (9).
 
 Subsec. (a)(3). Pub. L. 103–432, §157(b)(1), substituted “subsections (c)(2)(B)(ii) and (c)(7) of this section” for “subsection (c)(7) of this section”.
 
-Subsec. (c)(5)(B). Pub. L. 103–296 inserted at end “In applying sections 405(b) and 405(g) of this title as provided in this subparagraph, and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social SecurityAdministration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.”
+Subsec. (c)(5)(B). Pub. L. 103–296 inserted at end “In applying sections 405(b) and 405(g) of this title as provided in this subparagraph, and in applying section 405(<i>l</i>) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.”
 
 1990—Subsec. (a)(1)(E). Pub. L. 101–508, §4204(e)(1), designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -610,7 +610,7 @@ Subsec. (f)(2). Pub. L. 99–509, §9312(c)(1), struck out “if the Secretary d
 
 “(A) special circumstances warrant such modification or waiver, and
 
-“(B) the eligible organization has taken and is making reasonable efforts to enroll individuals who are not entitled to benefits under this subchapter or under a State plan approved under subchapter XIX of this chapter.”
+“(B) the eligible organization has taken and is making reasonable efforts to enroll individuals who are not entitled to benefits under this subchapter or under aState plan approved under subchapter XIX of this chapter.”
 
 Subsec. (f)(3). Pub. L. 99–509, §9312(c)(2)(A), added par. (3).
 
@@ -642,7 +642,7 @@ Subsec. (g)(1). Pub. L. 97–448 substituted “subsection (b)” for “subsect
 
 Subsec. (g)(4). Pub. L. 98–21, §602(g), added par. (4).
 
-1982—Pub. L. 97–248 completely revised section, expanding its coverage to permit payments to bothhealth maintenance organizations and competitive medical plans.
+1982—Pub. L. 97–248 completely revised section, expanding its coverage to permit payments to both health maintenance organizations and competitive medical plans.
 
 1978—Subsec. (b)(2)(B). Pub. L. 95–292 substituted “Administrator of the Health Care Financing Administration” for “Commissioner of Social Security”.
 
@@ -884,7 +884,7 @@ Section 18(z–3)(3) of Pub. L. 93–233 provided that: “The amendments made b
 
 #### Effective Date
 
-Section 226(f) of Pub. L. 92–603 provided that: “The amendments made by this section \[enacting this section, amending sections 1395f, 1395<i>l</i>, 1395<i>ll</i>, and 1396b of this title, and enacting provisions set out as notes under this section\] shall be effective with respect to services provided on or after July 1, 1973.”
+Section 226(f) of Pub. L. 92–603 provided that: “The amendments made by this section \[enacting this section, amending sections 1395f, 1395<i>l</i>, 1395<i>ll</i>, and 1396b of this title, and enacting provisions set out as notesunder this section\] shall be effective with respect to services provided on or after July 1, 1973.”
 
 #### Report on Impact
 
@@ -942,7 +942,7 @@ Section 222 of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, §6
 
 #### Provision of Medicare DRG Rates for Certain Payments and Data on Inpatient Cost Pass-Through Items
 
-Section 4012(c) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(c)(2)(B), July 1, 1988, 102 Stat. 773, provided that: “The Secretary of Health and Human Services shall provide (in machine readable form) to eligible organizations under section 1876 of the Social Security Act \[this section\] medicare DRG rates for payments required by the amendment made by subsection (a) \[amending section 1395cc of this title\] and data on cost pass-through items for all inpatient services provided to medicare beneficiaries enrolled with such organizations.”
+Section 4012(c) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(c)(2)(B), July 1, 1988, 102 Stat. 773, provided that: “The Secretary of Health andHuman Services shall provide (in machine readable form) to eligible organizations under section 1876 of the Social Security Act \[this section\] medicare DRG rates for payments required by the amendment made by subsection (a) \[amending section 1395cc of this title\] and data on cost pass-through items for all inpatient services provided to medicare beneficiaries enrolled with such organizations.”
 
 #### Medicare Payment Demonstration Projects
 
@@ -1026,7 +1026,7 @@ Payment Methodology Reform Demonstrations Projects.—
 
 Application of Provisions.—The provisions of subsection (a)(2) and the first sentence of subsection (b) of section 402 of the Social Security Amendments of 1967 \[section 1395b–1(a)(2), (b) of this title\] shall apply to the demonstration projects under this section in the same manner as they apply to experiments under subsection (a)(1) of that section.”
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to report not less than once every year to certain committees of Congress under section 4015(a)(10) of Pub. L. 100–203, set out above, is listed on page 9), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to report not less than once every year to certain committees of Congress under section 4015(a)(10) of Pub. L. 100–203, set out above, is listed on page 9), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### GAO Study and Reports on Medicare Capitation
 
@@ -1034,7 +1034,7 @@ Section 4017 of Pub. L. 100–203 directed Comptroller General to conduct a stud
 
 #### Demonstration Projects To Provide Payment on a Prepaid, Capitated Basis for Community Nursing and Ambulatory Care Furnished to Medicare Beneficiaries
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §532\], Nov. 29, 1999, 113 Stat. 1536, 1501A–388, as amended by Pub. L.106–554, §1(a)(6) \[title VI, §632(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–566, provided that:
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §532\], Nov. 29, 1999, 113 Stat. 1536, 1501A–388, as amended by Pub. L. 106–554, §1(a)(6) \[title VI, §632(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–566, provided that:
 
 “(a)
 
@@ -1196,7 +1196,7 @@ Agreements With Eligible Organizations To Conduct Demonstration Projects.—
 
 &emsp;&emsp;“(A) the Secretary could require the organization to provide financial or other assurances (including financial risk-sharing) that minimize the inappropriate substitution of other services under title XVIII of such Act \[this subchapter\] for community nursing services; and
 
-&emsp;&emsp;“(B) if the Secretary determines that the organization has failed to perform in accordance with the requirements of the project (including meeting financial responsibility requirements under the project, any pattern of disproportionate or inappropriate institutionalization) the Secretary shall, after notice, terminate the project.
+&emsp;&emsp;“(B) if the Secretary determines that the organization has failed to perform in accordance with therequirements of the project (including meeting financial responsibility requirements under the project, any pattern of disproportionate or inappropriate institutionalization) the Secretary shall, after notice, terminate the project.
 
 “(d)
 
@@ -1210,7 +1210,7 @@ Determination of Per Capita Payment Rates.—
 
 &emsp;“(C) The per capita rate of payment under paragraph (1) for each such class shall be equal to 95 percent of the adjusted average per capita cost (as defined in subparagraph (D)) for that class.
 
-&emsp;“(D) For purposes of subparagraph (C), the term ‘adjusted average per capita cost’ means the average per capita amount that the Secretary estimates in advance (on the basis of actual experience, or retrospective actuarial equivalent based upon an adequate sample and other information and data, in a geographic area served by an eligible organization or in a similar area, with appropriate adjustments to assure actuarial equivalence) would be payable in any contract year for those services covered under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] and types of expenses otherwise reimbursable under such parts A and B which are described in subparagraphs (A) through (G) of subsection (b)(1) (including administrative costs incurred by organizations described insections 1816 and 1842 of such Act \[sections 1395h and 1395u of this title\]), if the services were to be furnished by other than an eligible organization.
+&emsp;“(D) For purposes of subparagraph (C), the term ‘adjusted average per capita cost’ means the average per capita amount that the Secretary estimates in advance (on the basis of actual experience, or retrospective actuarial equivalent based upon an adequate sample and other information and data, in a geographic area served by an eligible organization or in a similar area, with appropriate adjustments to assure actuarial equivalence) would be payable in any contract year for those services covered under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] and types of expenses otherwise reimbursable under such parts A and B which are described in subparagraphs (A) through (G) of subsection (b)(1) (including administrative costs incurred by organizations described in sections 1816 and 1842 of such Act \[sections 1395h and 1395u of this title\]), if the services were to be furnished by other than an eligible organization.
 
 &emsp;“(3) The Secretary shall, in consultation with providers, health policy experts, and consumer groups develop capitation-based reimbursement rates for such classes of individuals entitled to benefits under part A and enrolled under part B of the Social Security Act \[probably means parts A and B of title XVIII of that Act, this subchapter\] as the Secretary shall determine. Such rates shall be applied in determining per capita rates of payment under paragraph (1) with respect to at least one eligible organization conducting a demonstration project under this section.
 
@@ -1244,7 +1244,7 @@ Restriction on Premiums, Deductibles, Copayments, and Coinsurance.—
 
 &emsp;&emsp;“(ii) the average of the per capita rates of payment to be made under subsection (d)(1) at the beginning of the 12-month period (as determined on such basis as the Secretary determines appropriate) described in such subsection for members enrolled under this section with the organization,
 
-> &emsp;the eligible organization shall provide to such members the additional benefits described in section 1876(g)(3) of the Social Security Act \[subsec. (g)(3) of this section\] which are selected by the eligible organization and which the Secretary finds are at least equal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced).
+> &emsp;the eligible organization shall provide to such members the additional benefits described in section 1876(g)(3) of the Social Security Act \[subsec. (g)(3) of this section\] which are selected by the eligible organization and which the Secretary finds are at leastequal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced).
 
 &emsp;“(B) Subparagraph (A) shall not apply with respect to any organization which elects to receive a lesser payment to the extent that there is no longer a difference between the average per capita payment and adjusted community rate (as so reduced).
 
@@ -1296,7 +1296,7 @@ Section 226(b) of Pub. L. 92–603 provided that:
 
 “(1) Notwithstanding the provisions of section 1814 and section 1833 of the Social Security Act \[sections 1395f and 1395<i>l</i> of this title\], any health maintenance organization which has entered into a contract with the Secretary pursuant to section 1876 of such Act \[this section\] shall, for the duration of such contract, (except as provided in paragraph (2)) be entitled to reimbursement only as provided in section 1876 of such Act \[this section\] for individuals who are members of such organizations.
 
-“(2) With respect to individuals who are members of organizations which have entered into a risk-sharing contract with the Secretary pursuant to subsection (i)(2)(A) \[of this section\] prior to July 1, 1973, and who, although eligible to have payment made pursuant to section 1876 of such Act \[this section\] for services rendered to them, chose (in accordance with regulations) not to have such payment made pursuant to such section, the Secretary shall, for a period not to exceed three years commencing on July 1, 1973, pay to such organization on the basis of an interim per capita rate, determined in accordance with the provisions of section 1876(a)(2) of such Act \[subsec. (a)(2) of this section\], with appropriate actuarial adjustments to reflect the difference in utilization of out-of-plan services, which would have been considered sufficiently reasonable and necessary under the rules of the health maintenance organization to be provided by that organization, between such individuals and individuals who are enrolled with such organization pursuant to section 1876 of such Act \[this section\]. Payments under this paragraph shall be subject to retroactive adjustment at the end of each contract year as provided in paragraph (3).
+“(2) With respect to individuals who are members of organizations which have entered into a risk-sharing contract with the Secretary pursuant to subsection (i)(2)(A) \[of this section\] prior to July 1, 1973, and who, although eligible to have payment made pursuant to section 1876 of such Act \[this section\] for services rendered to them, chose (in accordance with regulations) not to have such payment made pursuant to such section, the Secretary shall, for a period not to exceed three years commencing on July 1, 1973, pay to such organization on the basis of an interim per capita rate, determined in accordance with the provisions of section 1876(a)(2) of such Act \[subsec. (a)(2) of this section\], with appropriate actuarial adjustments to reflect the difference in utilization of out-of-plan services, which would have been considered sufficiently reasonable and necessary under the rules of the health maintenanceorganization to be provided by that organization, between such individuals and individuals who are enrolled with such organization pursuant to section 1876 of such Act \[this section\]. Payments under this paragraph shall be subject to retroactive adjustment at the end of each contract year as provided in paragraph (3).
 
 “(3) If the Secretary determines that the per capita cost of any such organization in any contract year for providing services to individuals described in paragraph (2), when combined with the cost of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such year for providing out-of-plan services to such individuals, is less than or greater than the adjusted average per capita cost (as defined in section 1876(a)(3) of such Act) \[subsec. (a)(3) of this section\] of providing such services, the resulting savings shall be apportioned between such organization and such Trust Funds, or the resulting losses shall be absorbed by such organization, in the manner prescribed in section 1876(a)(3) of such Act \[subsec. (a)(3) of this section\].”
 

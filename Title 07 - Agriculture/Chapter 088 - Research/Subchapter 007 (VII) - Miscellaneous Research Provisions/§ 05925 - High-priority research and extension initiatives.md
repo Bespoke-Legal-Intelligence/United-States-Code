@@ -82,7 +82,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (10) Dairy financial risk management research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
+&emsp;Research and extension grants may be made under this section for the purpose of providingresearch, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
 
 #### (11) Cotton research and extension
 
@@ -138,7 +138,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (23) Forestry research and extension
 
-&emsp;Research and extension grants may be made under this section to develop and distributenew, high-quality, science-based information for the purpose of improving the long-term productivity of forest resources and contributing to forest-based economic development by addressing such issues as—
+&emsp;Research and extension grants may be made under this section to develop and distribute new, high-quality, science-based information for the purpose of improving the long-term productivity of forest resources and contributing to forest-based economic development by addressing such issues as—
 
 &emsp;&emsp;(A) forest land use policies;
 
@@ -160,7 +160,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (A) Request for proposals
 
-&emsp;&emsp;The Secretary shall publish a request for proposals for grants for research or demonstration projects related to the control, management, and possible eradication of imported fire ants.
+&emsp;&emsp;The Secretary shall publish a request for proposals for grants for research or demonstration projects related to the control,management, and possible eradication of imported fire ants.
 
 #### (B) Selection
 

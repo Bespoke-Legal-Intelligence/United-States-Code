@@ -70,7 +70,17 @@ The Secretary of Commerce, acting through the Service, shall—
 
 (2) Within 90 days after October 24, 1988, the Secretary of Commerce shall submit to the Congress a report on the current fee structure of the Service, including an explanation of the basis for the fees, taking into consideration all applicable costs, and the adequacy of the fees, along with reasons for the declining sales at the Service of scientific, technical, and engineering publications. Such report shall explain any actions planned or taken to increase such sales at reasonable fees.
 
-(3) Omitted.
+(3) The Secretary shall submit an annual report to the Congress which shall—
+
+&emsp;(A) summarize the operations of the Service during the preceding year, including financial details and staff levels broken down by major activities;
+
+&emsp;(B) detail the operating plan of the Service, including specific expense and staff needs, for the upcoming year;
+
+&emsp;(C) set forth details of modernization progress made in the preceding year;
+
+&emsp;(D) describe the long-term modernization plans of the Service; and
+
+&emsp;(E) include the results of the most recent annual audit carried out under subsection (d) of this section.
 
 (4) The Secretary shall also give the Congress detailed advance notice of not less than 30 calendar days of—
 
@@ -92,8 +102,6 @@ The Act entitled “An Act to provide for the dissemination of technological, sc
 
 #### Codification
 
-Par. (3) of subsec. (f) of this section, which required the Secretary to submit an annual report to Congress summarizing operations of the Service, detailing the operating plan of the Service, setting forth details of modernization progress, describing long-term modernization plans of the Service, and including the results of the most recent annual audit carried out under subsec. (d) of this section, terminated effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 52 of House Document No. 103–7.
-
 Section was enacted as part of the National Technical Information Act of 1988, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
 
 Subsec. (a)(4) of this section repealed subsec. (h) of section 3710 of this title.
@@ -110,7 +118,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### National Technical Information Service Revolving Fund
 
-Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: “For establishment of a National TechnicalInformation Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103.”
+Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: “For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103.”
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,30 @@
+### §7223b. Applications
+
+#### (a) In general
+
+To receive a grant under this subpart, an eligible entity shall submit to the Secretary an application in such form as the Secretary may reasonably require.
+
+#### (b) Contents
+
+An application submitted under subsection (a) of this section shall contain—
+
+&emsp;(1) a statement identifying the activities proposed to be undertaken with funds received under this subpart, including how the eligible entity will determine which charter schools will receive assistance, and how much and what types of assistance charter schools will receive;
+
+&emsp;(2) a description of the involvement of charter schools in the application's development and the design of the proposed activities;
+
+&emsp;(3) a description of the eligible entity's expertise in capital market financing;
+
+&emsp;(4) a description of how the proposed activities will leverage the maximum amount of private-sector financing capital relative to the amount of government funding used and otherwise enhance credit available to charter schools;
+
+&emsp;(5) a description of how the eligible entity possesses sufficient expertise in education to evaluate the likelihood of success of a charter school program for which facilities financing is sought;
+
+&emsp;(6) in the case of an application submitted by a State governmental entity, a description of the actions that the entity has taken, or will take, to ensure that charter schools within the State receive the funding the charter schools need to have adequate facilities; and
+
+&emsp;(7) such other information as the Secretary may reasonably require.
+
+(Pub. L. 89–10, title V, §5223, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1800.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7223a of this title.
+

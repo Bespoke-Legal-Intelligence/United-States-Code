@@ -6,7 +6,7 @@ The Secretary shall, to the extent of amounts approved in appropriations Acts un
 
 #### (b) Implementation of eligible activities
 
-A grantee shall carry out eligible activities under section 12904 of this title through project sponsors. Any grantee that is a State that enters into a contract with a nonprofit organization to carry out eligible activities in a locality shall obtain the approval of the unit of general local government for the locality before entering into the contract.
+A grantee shall carry out eligible activities under section 12904 of this title through projectsponsors. Any grantee that is a State that enters into a contract with a nonprofit organization to carry out eligible activities in a locality shall obtain the approval of the unit of general local government for the locality before entering into the contract.
 
 #### (c) Allocation of resources
 
@@ -64,7 +64,7 @@ Funds made available under this section shall be allocated among applications su
 
 #### (e) Additional requirement for metropolitan areas
 
-In addition to the other requirements of this section, to be eligible for a grant to a metropolitan area under this section, the major city, urban county, and any city with a population of 50,000 or more in that metropolitan area shall establish or designate a governmental agency or organization for receipt and use of amounts received from a grant under this section and shall submit to the Secretary, together with the application under subsection (d) of this section a proposal for the operation of such agency or organization.
+In addition to the other requirements of this section, to be eligible for a grant to a metropolitan area under this section, the major city, urban county, and any city with a population of50,000 or more in that metropolitan area shall establish or designate a governmental agency or organization for receipt and use of amounts received from a grant under this section and shall submit to the Secretary, together with the application under subsection (d) of this section a proposal for the operation of such agency or organization.
 
 #### (f) Additional requirement for city formula grantees
 
@@ -82,7 +82,7 @@ Eligibility.—A jurisdiction shall be eligible to receive a grant only if it ha
 
 Subsec. (c)(1). Pub. L. 102–550, §606(d)(3), added par. (1) and struck out former par. (1) which read as follows: “
 
-In general.—90 percent of the amounts approved inappropriations Acts under section 12912 of this title shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
+In general.—90 percent of the amounts approved in appropriations Acts under section 12912 of this title shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
 
 &emsp;“(A) 75 percent among units of general local government located in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome and States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in subparagraph (A), and
 

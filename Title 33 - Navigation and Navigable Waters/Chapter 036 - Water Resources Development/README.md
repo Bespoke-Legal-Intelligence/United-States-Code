@@ -124,6 +124,8 @@
 | (a) | Survey authority. |
 | (b) | Authorization of appropriations. |
 | [2263\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002263%20-%20Study%20of%20Corps%20capability%20to%20conserve%20fish%20and%20wildlife.md) | Study of Corps capability to conserve fish and wildlife. |
+| (a) | Investigation and study. |
+| (b) | Projects. |
 | [2264\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002264%20-%20Deauthorization%20of%20studies.md) | Deauthorization of studies. |
 | [2265\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002265%20-%20Columbia%20River-Arkansas%20River%20Basin%20transfers.md) | Columbia River/Arkansas River Basin transfers. |
 | [2266\.](Subchapter%20004%20%28IV%29%20-%20Water%20Resources%20Studies/%C2%A7%2002266%20-%20Canadian%20tidal%20power%20study.md) | Canadian tidal power study. |

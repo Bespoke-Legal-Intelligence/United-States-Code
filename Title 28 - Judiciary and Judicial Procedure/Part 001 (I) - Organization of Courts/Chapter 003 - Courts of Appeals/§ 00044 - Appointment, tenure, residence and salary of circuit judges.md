@@ -22,7 +22,7 @@
 
 (b) Circuit judges shall hold office during good behavior.
 
-(c) Except in the District of Columbia, each circuit judge shall be a resident of the circuit for which appointed at the time of his appointment and thereafter while in active service. While in active service, each circuit judge of the Federal judicial circuit appointed after the effective date of the Federal Courts Improvement Act of 1982, and the chief judge of the Federal judicial circuit, whenever appointed, shall reside within fifty miles of the District of Columbia. In each circuit (other than the Federal judicial circuit) there shall be at least one circuit judge inregular active service appointed from the residents of each state <sup>1</sup> in that circuit.
+(c) Except in the District of Columbia, each circuit judge shall be a resident of the circuit for which appointed at the time of his appointment and thereafter while in active service. While in active service, each circuit judge of the Federal judicial circuit appointed after the effective date of the Federal Courts Improvement Act of 1982, and the chief judge of the Federal judicial circuit, whenever appointed, shall residewithin fifty miles of the District of Columbia. In each circuit (other than the Federal judicial circuit) there shall be at least one circuit judge in regular active service appointed from the residents of each state <sup>1</sup> in that circuit.
 
 (d) Each circuit judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of this title.
 
@@ -173,7 +173,9 @@ Section 168 of Pub. L. 97–164 provided that: “The Congress—
 
 #### Salary Increases
 
-<b>2001</b>—Salaries of circuit judges increased to $153,900 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2001, by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+<b>2002</b>—Salaries of circuit judges increased to $159,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2002, by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+<b>2001</b>—Salaries of circuit judges increased to $153,900 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2001, by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, formerly set out as a note under section 5332 of Title 5.
 
 <b>2000</b>—Salaries of circuit judges increased to $149,900 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
 
@@ -183,7 +185,7 @@ Section 168 of Pub. L. 97–164 provided that: “The Congress—
 
 <b>1997</b>—Salaries of circuit judges continued at $141,700 per annum, by Ex. Ord. No. 13033, Dec. 27, 1996, 61 F.R. 68987, formerly set out as a note under section 5332 of Title 5.
 
-<b>1996</b>—Salaries of circuit judges continued at $141,700 per annum, by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R. 237, formerly set out as a note under section 5332 of Title 5.
+<b>1996</b>—Salaries of circuit judges continued at $141,700 per annum, by Ex. Ord. No. 12984, Dec. 28, 1995, 61 F.R.237, formerly set out as a note under section 5332 of Title 5.
 
 <b>1995</b>—Salaries of circuit judges continued at $141,700 per annum, by Ex. Ord. No. 12944, Dec. 28, 1994, 60 F.R. 309, formerly set out as a note under section 5332 of Title 5.
 

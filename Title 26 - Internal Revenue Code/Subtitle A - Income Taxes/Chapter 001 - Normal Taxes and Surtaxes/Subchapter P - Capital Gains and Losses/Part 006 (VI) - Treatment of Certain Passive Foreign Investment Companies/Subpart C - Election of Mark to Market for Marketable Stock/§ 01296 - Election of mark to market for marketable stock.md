@@ -166,7 +166,11 @@ This section shall apply to marketable stock in a passive foreign investment com
 
 If any individual becomes a United States person in a taxable year beginning after December 31, 1997, solely for purposes of this section, the adjusted basis (before adjustments under subsection (b)) of any marketable stock in a passive foreign investment company owned by such individual on the first day of such taxable year shall be treated as being the greater of its fair market value on such first day or its adjusted basis on such first day.
 
-(Added Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972; amended Pub. L. 105–206, title VI, §6011(c)(3), July 22, 1998, 112 Stat. 818.)
+(Added Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972; amended Pub. L. 105–206, title VI, §6011(c)(3), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(C), June 7, 2001, 115 Stat. 85.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–16, title V, §542(e)(5)(C), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is temporarily amended by striking out subsection (i).</i><i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -179,6 +183,12 @@ A prior section 1296 was renumbered section 1297 of this title.
 #### Amendments
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–206 inserted at end “In the case of a regulated investment company which elected to mark to market the stock held by such company as of the last day of the taxable year preceding such company's first taxable year for which such company elects the application of this section, the amount referred to in paragraph (1) shall include amounts included in gross income under such mark to market with respect to such stock for prior taxable years.”
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

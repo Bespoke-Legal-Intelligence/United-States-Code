@@ -10,7 +10,7 @@ The Congress finds the following:
 
 &emsp;(3) Because no single governmental entity has exclusive management authority for Atlantic coastal fishery resources, harvesting of such resources is frequently subject to disparate, inconsistent, and intermittent State and Federal regulation that has been detrimental to the conservation and sustainable use of such resources and to the interests of fishermen and the Nation as a whole.
 
-&emsp;(4) The responsibility for managing Atlantic coastal fisheries rests with the States, which carry out a cooperative program of fishery oversight and management through the Atlantic States Marine Fisheries Commission. It is the responsibility of the Federal Government to support such cooperative interstate management of coastal fishery resources.
+&emsp;(4) The responsibility for managing Atlantic coastal fisheries rests with the States, which carry out a cooperative program of fisheryoversight and management through the Atlantic States Marine Fisheries Commission. It is the responsibility of the Federal Government to support such cooperative interstate management of coastal fishery resources.
 
 &emsp;(5) The failure by one or more Atlantic States to fully implement a coastal fishery management plan can affect the status of Atlantic coastal fisheries, and can discourage other States from fully implementing coastal fishery management plans.
 

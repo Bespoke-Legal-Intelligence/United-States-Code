@@ -34,7 +34,7 @@ The governing State official may prepare and submit a plan for the establishment
 
 #### (3) Time for determination
 
-&emsp;The Secretary shall make a determination concerning any plan, proposed change to a program, or a review of a program not laterthan 6 months after receipt of such plan, such proposed change, or the initiation of such review.
+&emsp;The Secretary shall make a determination concerning any plan, proposed change to a program, or a review of a program not later than 6 months after receipt of such plan, such proposed change, or the initiation of such review.
 
 (Pub. L. 101–624, title XXI, §2108, Nov. 28, 1990, 104 Stat. 3939.)
 

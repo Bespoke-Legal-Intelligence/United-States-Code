@@ -48,7 +48,7 @@
 
 #### (3) Revocation of designation
 
-&emsp;The designation of a lender as a preferred certified lender shall be revoked if the Secretary determines that the lender is not adhering to the rules and regulations applicable to the program or if the loss experiences of the preferred certified lender are greater than other preferred certified lenders, except that the suspension or revocation shall not affect any outstanding guarantee.
+&emsp;The designation of a lender as a preferred certified lender shall be revoked if the Secretary determines that the lender is not adhering to the rules and regulations applicable to the program or if the loss experiences of thepreferred certified lender are greater than other preferred certified lenders, except that the suspension or revocation shall not affect any outstanding guarantee.
 
 #### (4) Condition of certification
 

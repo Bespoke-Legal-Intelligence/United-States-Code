@@ -2,7 +2,7 @@
 
 #### (a) Investigation
 
-The Commission may make such investigations as it deems necessary to determine whether any person has violated or is about to violate any provision of this subchapter or of any rule, regulation, or order hereunder, or to determine whether any action in any court or any proceeding before the Commission shall be instituted under this subchapter against a particular person or persons, or with respect to a particular transaction or transactions. The Commission shall permit any person to file with it a statement in writing, under oath or otherwise as the Commission shall determine, as to all the facts and circumstances concerning the matter to be investigated.
+The Commission may make such investigations as it deems necessary to determine whether any person has violated or is about to violate any provision of this subchapter or of any rule, regulation, or order hereunder, or to determine whether any action in any court or any proceeding before the Commission shall be instituted under this subchapter against a particular person or persons, or with respect to a particular transaction or transactions. The Commissionshall permit any person to file with it a statement in writing, under oath or otherwise as the Commission shall determine, as to all the facts and circumstances concerning the matter to be investigated.
 
 #### (b) Administration of oaths and affirmations, subpena of witnesses, etc.
 
@@ -38,7 +38,7 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 &emsp;&emsp;&emsp;(I) the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
-&emsp;&emsp;&emsp;(II) such violation directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons.
+&emsp;&emsp;&emsp;(II) such violation directly or indirectly resulted in substantial losses or created asignificant risk of substantial losses to other persons.
 
 #### (3) Procedures for collection
 
@@ -48,7 +48,7 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 #### (B) Collection of penalties
 
-&emsp;&emsp;If a person upon whom such a penalty is imposed shall fail to pay such penalty within the time prescribed in the court's order, the Commission may refer the matter to the Attorney General who shall recover suchpenalty by action in the appropriate United States district court.
+&emsp;&emsp;If a person upon whom such a penalty is imposed shall fail to pay such penalty within the time prescribed in the court's order, the Commission may refer the matter to the Attorney General who shall recover such penalty by action in the appropriate United States district court.
 
 #### (C) Remedy not exclusive
 

@@ -40,11 +40,11 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 &emsp;A funding agreement for a grant under section 300x–21 of this title for a State is that each entity providing treatment services with amounts reserved under paragraph (1) by the State will, directly or through arrangements with other public or nonprofit private entities, make available prenatal care to women receiving such services and, while the women are receiving the services, childcare.
 
-(July 1, 1944, ch. 373, title XIX, §1922, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 389; amended Pub. L. 106–310, div. B, title XXXIII, §3303(a), (f)(2)(A), Oct. 17, 2000, 114 Stat. 1210, 1211.)
+(July 1, 1944, ch. 373, title XIX, §1922, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 389; amended Pub. L. 106–310, div. B, titleXXXIII, §3303(a), (f)(2)(A), Oct. 17, 2000, 114 Stat. 1210, 1211.)
 
 #### Amendment of Subsection (b)(2), (3)
 
-<i>Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2), Oct. 17, 2000, 114 Stat. 1211, provided that, effective upon publication of regulations developed in accordance with section 300x–32(e)(1) of this title, subsection (c) of this section \[now subsection (b)\] is amended by strik</i><i>ing out paragraph (2) and redesignating paragraph (3) as paragraph (2).</i>
+<i>Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2), Oct. 17, 2000, 114 Stat. 1211, provided that, effective upon publication of regulations developed in accordance with section 300x–32(e)(1) of this title, subsection (c) of this section \[now subsection (b)\] is amended by striking out paragraph (2) and redesignating paragraph (3) as paragraph (2).</i>
 
 #### Prior Provisions
 

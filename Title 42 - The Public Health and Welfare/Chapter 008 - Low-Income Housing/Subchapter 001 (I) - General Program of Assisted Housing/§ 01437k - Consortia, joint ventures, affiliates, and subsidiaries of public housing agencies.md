@@ -10,7 +10,7 @@
 
 &emsp;With respect to any consortium described in paragraph (1)—
 
-&emsp;&emsp;(A) any assistance made available under this subchapter to each of the public housing agencies participating in the consortium shall be paid to the consortium; and
+&emsp;&emsp;(A) any assistance made available under this subchapter to each of the public housingagencies participating in the consortium shall be paid to the consortium; and
 
 &emsp;&emsp;(B) all planning and reporting requirements imposed upon each public housing agency participating in the consortium with respect to the programs operated by the consortium shall be consolidated.
 

@@ -2,7 +2,7 @@
 
 #### (a) Informed use of credit
 
-The Congress finds that economic stabilization would be enhanced and the competition among the various financial institutions and other firms engaged in the extension of consumer credit would be strengthened by the informed use of credit. The informed use of credit results from an awareness of the cost thereof by consumers. It is the purpose of this subchapter to assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit, and to protect the consumer against inaccurate and unfair credit billing and credit card practices.
+The Congress finds that economic stabilization would be enhanced and the competition among the various financial institutions and other firms engaged in the extension of consumer credit would be strengthened by the informed use of credit. The informed use of credit results from an awareness of the cost thereof by consumers. It is the purpose of this subchapter to assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit, and to protect the consumer againstinaccurate and unfair credit billing and credit card practices.
 
 #### (b) Terms of personal property leases
 
@@ -44,7 +44,7 @@ Pub. L. 104–208, div. A, title II, §2401, Sept. 30, 1996, 110 Stat. 3009–42
 
 Pub. L. 104–29, §1, Sept. 30, 1995, 109 Stat. 271, provided that: “This Act \[enacting section 1649 of this title, amending sections 1605, 1631, 1635, 1640, and 1641 of this title, and enacting provisions set out as notes under section 1605 of this title\] may be cited as the ‘Truth in Lending Act Amendments of 1995’.”
 
-Pub. L. 104–12, §1, May 18, 1995, 109 Stat. 161, provided that: “This Act \[amending section 1640 of this title\]may be cited as the ‘Truth in Lending Class Action Relief Act of 1995’.”
+Pub. L. 104–12, §1, May 18, 1995, 109 Stat. 161, provided that: “This Act \[amending section 1640 of this title\] may be cited as the ‘Truth in Lending Class Action Relief Act of 1995’.”
 
 #### Short Title of 1994 Amendment
 
@@ -114,7 +114,7 @@ Pub. L. 103–325, title I, §158, Sept. 23, 1994, 108 Stat. 2197, provided that
 
 “(a)
 
-Hearings.—Not less than once during the 3-year period beginning on the date of enactment of this Act\[Sept. 23, 1994\], and regularly thereafter, the Board of Governors of the Federal Reserve System, in consultation with the Consumer Advisory Council of the Board, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle \[see Short Title of 1994 Amendment note above\] in protecting the interests of consumers, and low-income consumers in particular.
+Hearings.—Not less than once during the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\], and regularly thereafter, the Board of Governors of the Federal Reserve System, in consultation with the Consumer Advisory Council of the Board, shall conduct a public hearing to examine the home equity loan market and the adequacy of existing regulatory and legislative provisions and the provisions of this subtitle \[see Short Title of 1994 Amendment note above\] in protecting the interests of consumers, and low-income consumers in particular.
 
 “(b)
 

@@ -4,7 +4,7 @@ For purposes of this subchapter:
 
 &emsp;(1) The term “local educational agency” means—
 
-&emsp;&emsp;(A) any local educational agency as defined in section 8801 of title 20;
+&emsp;&emsp;(A) any local educational agency as defined in section 7801 of title 20;
 
 &emsp;&emsp;(B) the owner of any nonprofit elementary or secondary school building; and
 
@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 &emsp;(4) The term “school building” has the meaning given such term by section 2642(13) of this title.
 
-(Pub. L. 94–469, title III, §302, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2755; amended Pub. L. 103–382, title III, §391(c)(4), 392(b)(2), Oct. 20, 1994, 108 Stat. 4022, 4026.)
+(Pub. L. 94–469, title III, §302, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2755; amended Pub. L. 103–382, title III, §391(c)(4), 392(b)(2), Oct. 20, 1994, 108 Stat. 4022, 4026; Pub. L. 107–110, title X, §1076(f)(2), Jan. 8, 2002, 115 Stat. 2091.)
 
 #### References in Text
 
@@ -24,9 +24,15 @@ Section 241 of title 20, as in effect before enactment of the Improving America'
 
 #### Amendments
 
-1994—Par. (1)(A). Pub. L. 103–382, §391(c)(4)(A), made technical amendment to reference to section 8801 oftitle 20 to reflect change in reference to corresponding section of original act.
+2002—Par. (1)(A). Pub. L. 107–110 substituted “7801” for “8801”.
+
+1994—Par. (1)(A). Pub. L. 103–382, §391(c)(4)(A), made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
 
 Par. (1)(C). Pub. L. 103–382 directed two separate amendments of par. (1)(C), the first, by section 391(c)(4)(B) of Pub. L. 103–382, directed the insertion of “or successor authority” immediately after “section 241 of title 20”, the second, by section 392(b)(2) of Pub. L. 103–382, directed the insertion (without reference to the first amendment) of “as in effect before enactment of the Improving America's Schools Act of 1994” immediately after “section 241 of title 20,”. Literal execution of the second amendment was not possible, as “section 241 of title 20,” was amended to read “section 241 of title 20 or successor authority,” by the first amendment. Commas were editorially inserted before and after the phrase added by the second amendment and it was inserted immediately after “section 241 of title 20” to reflect the probable intent of Congress.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “2642(9)”.</i>
 

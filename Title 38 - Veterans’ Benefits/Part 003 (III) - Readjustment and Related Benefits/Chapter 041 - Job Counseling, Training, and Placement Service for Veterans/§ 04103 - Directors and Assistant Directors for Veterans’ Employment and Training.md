@@ -18,7 +18,7 @@
 
 &emsp;(4) promote the interest of employers and labor unions in employing eligible veterans and eligible persons and in conducting on-job training and apprenticeship programs for such veterans and persons;
 
-&emsp;(5) maintain regular contact with employers, labor unions, training programs and veterans’ organizations with a view to keeping them advised of eligible veterans and eligible persons available for employment and training and to keeping eligible veterans and eligible persons advised of opportunities for employment and training;
+&emsp;(5) maintain regular contact with employers, labor unions, training programs and veterans’organizations with a view to keeping them advised of eligible veterans and eligible persons available for employment and training and to keeping eligible veterans and eligible persons advised of opportunities for employment and training;
 
 &emsp;(6) promote and facilitate the participation of veterans in Federal and federally funded employment and training programs and directly monitor the implementation and operation of such programs to ensure that eligible veterans, veterans of the Vietnam era, disabled veterans, and eligible persons receive such priority or other special consideration in the provision of services as is required by law or regulation;
 
@@ -38,7 +38,7 @@
 
 &emsp;(14) monitor, through disabled veterans’ outreach program specialists and local veterans’ employment representatives, the listing of vacant positions with State employment agencies by Federal agencies, and report to the Office of Personnel Management or other appropriate agency, for enforcement or other remedial action, any evidence of failure to provide priority or other special consideration in the provision of services to veterans as is required by law or regulation; and
 
-&emsp;(15)(A) not less frequently than annually, conduct, subject to subclause (B) of thisclause, an evaluation at each local employment office of the services provided to eligible veterans and eligible persons and make recommendations for corrective action as appropriate; and
+&emsp;(15)(A) not less frequently than annually, conduct, subject to subclause (B) of this clause, an evaluation at each local employment office of the services provided to eligible veterans and eligible persons and make recommendations for corrective action as appropriate; and
 
 &emsp;(B) carry out such evaluations in the following order of priority: (I) offices that demonstrated less than satisfactory performance during either of the two previous program years, (II) offices with the largest number of veterans registered during the previous program year, and (III) other offices as resources permit.
 

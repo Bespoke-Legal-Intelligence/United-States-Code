@@ -78,7 +78,7 @@ The benefit of the deduction for net operating losses provided by section 172 sh
 
 #### (B) Participants
 
-&emsp;&emsp;The basis of the stock which is received in an exchange referred to in paragraph (1)(B) shall be the same as that of the property exchanged. If stock in more than one regulatedinvestment company is received in such exchange, the basis determined under the preceding sentence shall be allocated among the stock in each such company on the basis of respective fair market values.
+&emsp;&emsp;The basis of the stock which is received in an exchange referred to in paragraph (1)(B) shall be the same as that of the property exchanged. If stock in more than one regulated investment company is received in such exchange, the basis determined under the preceding sentence shall be allocated among the stock in each such company on the basis of respective fair market values.
 
 #### (3) Treatment of assumptions of liability
 

@@ -20,7 +20,7 @@ The President is authorized to exchange notes with the Government of Canada or M
 
 &emsp;&emsp;&emsp;(i) bring its laws into conformity with the requirements of the Schedule of Mexico in Annex 1904.15 of the Agreement, and
 
-&emsp;&emsp;&emsp;(ii) otherwise ensure the effective implementation of the binational panel reviewprocess under chapter 19 of the Agreement regarding final antidumping and countervailing duty determinations; and
+&emsp;&emsp;&emsp;(ii) otherwise ensure the effective implementation of the binational panel review process under chapter 19 of the Agreement regarding final antidumping and countervailing duty determinations; and
 
 &emsp;(2) the Government of such country exchanges notes with the United States providing for the entry into force of the North American Agreement on Environmental Cooperation and the North American Agreement on Labor Cooperation for that country and the United States.
 

@@ -6,5 +6,5 @@ In addition to any other funds otherwise authorized to be appropriated for the p
 
 #### Amendments
 
-1980—Pub. L. 96–547 revised former subsec. (a) into entire section with additional provisions relating to fiscal year ending Sept. 30, 1981, and struck out subsec. (b) setting forth authorization of appropriations for grants.
+1980—Pub. L. 96–547 revised former subsec. (a) into entire section with additional provisions relating to fiscalyear ending Sept. 30, 1981, and struck out subsec. (b) setting forth authorization of appropriations for grants.
 

@@ -66,7 +66,7 @@ A student support services project assisted under this division may provide serv
 
 #### (6) Supplement, not supplant
 
-&emsp;Funds received by a grant recipient that are used under this subsection shall be used tosupplement, and not supplant, non-Federal funds expended for student support services programs.
+&emsp;Funds received by a grant recipient that are used under this subsection shall be used to supplement, and not supplant, non-Federal funds expended for student support services programs.
 
 #### (d) Requirements for approval of applications
 

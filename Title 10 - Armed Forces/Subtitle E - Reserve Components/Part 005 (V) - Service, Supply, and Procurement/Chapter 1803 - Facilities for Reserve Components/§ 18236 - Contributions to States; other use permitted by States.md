@@ -54,7 +54,7 @@ Sept. 11, 1950, ch. 945, §4(d), (e), 64 Stat. 830.
 
 Appropriate references to the Territories, Puerto Rico, and the District of Columbia are inserted throughout the revised section to reflect 50:886(b).
 
-In subsection (a), the words “and conditions” are omitted as covered by the word “terms”. The words “considers necessary for” are substituted for the words “shall deem necessary to accomplish”. The words “used jointly by units of two or more reserve components ofthe armed forces” are substituted for the words “joint utilization”, to reflect 50:886(d).
+In subsection (a), the words “and conditions” are omitted as covered by the word “terms”. The words “considers necessary for” are substituted for the words “shall deem necessary to accomplish”. The words “used jointly by units of two or more reserve components of the armed forces” are substituted for the words “joint utilization”, to reflect 50:886(d).
 
 In subsection (b), the words “the construction to which it is to be applied” are substituted for the words “the additional or improved facilities to be constructed”, since, under section 2233 of this title, contributions may be made for other purposes as well as additions and improvements. The words “may not include” are substituted for the words “shall be exclusive of”.
 

@@ -22,7 +22,7 @@ A vessel may supplement the whistle signals prescribed in paragraph (a) of this 
 
 When in sight of one another:
 
-&emsp;(i) a power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by the following signals on her whistle: one short blast to mean “I intend to overtake you on your starboard side”; two short blasts to mean “I intend to overtake you on your port side”; and
+&emsp;(i) a power-driven vessel intending to overtake another power-driven vessel shall indicate her intention by the following signals on her whistle: one short blast to mean “I intendto overtake you on your starboard side”; two short blasts to mean “I intend to overtake you on your port side”; and
 
 &emsp;(ii) the power-driven vessel about to be overtaken shall, if in agreement, sound a similar sound signal. If in doubt she shall sound the danger signal prescribed in paragraph (d).
 

@@ -16,7 +16,7 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 #### (d) Congressional request for information from President; information required; 60 day period; failure to supply information; termination or restriction of sale
 
-(1) Upon the request of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall, within 60 days after receipt of such request, transmit to both such committees a statement, prepared with the assistance of the Secretary of State, with respect to the country designated in such request, setting forth—
+(1) Upon the request of the Committee on Foreign Relations of the Senate or the Committeeon Foreign Affairs of the House of Representatives, the President shall, within 60 days after receipt of such request, transmit to both such committees a statement, prepared with the assistance of the Secretary of State, with respect to the country designated in such request, setting forth—
 
 &emsp;(A) all the available information about the exclusionary policies or practices of the government of such country when such policies or practices are based upon race, religion, national origin or sex and prevent any such person from participating in the performance of any sale or licensed transaction under this chapter;
 

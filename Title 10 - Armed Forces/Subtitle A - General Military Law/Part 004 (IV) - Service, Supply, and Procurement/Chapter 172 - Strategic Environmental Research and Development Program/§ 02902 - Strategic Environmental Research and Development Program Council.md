@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(C) A summary of projects continued from the fiscal year before the fiscal year in which the report is prepared and projects expected to be started during the fiscal year in which the report is prepared and during the following fiscal year.
 
-&emsp;&emsp;(D) A summary of the actions of the Strategic Environmental Research and Development Program Scientific Advisory Board during the year preceding the year in which the report is submitted and any recommendations, including recommendations on program direction and legislation, that the Advisory Board considers appropriate regarding the program.
+&emsp;&emsp;(D) A summary of the actions of the Strategic Environmental Research and Development Program Scientific Advisory Boardduring the year preceding the year in which the report is submitted and any recommendations, including recommendations on program direction and legislation, that the Advisory Board considers appropriate regarding the program.
 
 &emsp;(4) To promote the maximum exchange of information, and to minimize duplication, regarding environmentally related research, development, and demonstration activities through close coordination with the military departments and Defense Agencies, the Department of Energy, the Environmental Protection Agency, the National Oceanic and Atmospheric Administration, the National Aeronautics and Space Administration, other departments and agencies of the Federal Government or any State and local governments, including the National Science and Technology Council, and other organizations engaged in such activities.
 
@@ -84,7 +84,7 @@
 
 &emsp;(9) provide for the identification of military specifications that prevent or limit the use of environmentally beneficial technologies, materials, and substances in the performance of Department of Defense contracts and recommend changes to such specifications; and
 
-&emsp;(10) to ensure that the research and development programs identified for support pursuant to the policies and procedures prescribed by the Council are closely coordinated with, and do not duplicate, ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, or other Federal agencies.
+&emsp;(10) to ensure that the research and development programs identified for support pursuant to the policies and procedures prescribed bythe Council are closely coordinated with, and do not duplicate, ongoing activities sponsored by the Department of Defense, the Department of Energy, the Environmental Protection Agency, the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, or other Federal agencies.
 
 (f) The Council shall be subject to the authority, direction, and control of the Secretary of Defense in prescribing policies and procedures under subsection (d)(1).
 
@@ -96,7 +96,7 @@
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(7), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of thisAct to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e)(7), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
 

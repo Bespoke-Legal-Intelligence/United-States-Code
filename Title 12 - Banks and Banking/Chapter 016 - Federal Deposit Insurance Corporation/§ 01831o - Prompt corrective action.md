@@ -80,7 +80,7 @@ For purposes of this section:
 
 #### (G) Required minimum level
 
-&emsp;&emsp;The term “required minimum level” means, with respect to each relevant capital measure, the minimum acceptable capitallevel specified by the appropriate Federal banking agency by regulation.
+&emsp;&emsp;The term “required minimum level” means, with respect to each relevant capital measure, the minimum acceptable capital level specified by the appropriate Federal banking agency by regulation.
 
 #### (H) Senior executive officer
 
@@ -416,7 +416,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;A critically undercapitalized insured depository institution shall not, beginning 60 days after becoming critically undercapitalized, make any payment of principal or interest on the institution's subordinated debt.
+&emsp;&emsp;A critically undercapitalized insured depository institution shall not, beginning 60days after becoming critically undercapitalized, make any payment of principal or interest on the institution's subordinated debt.
 
 #### (B) Exceptions
 
@@ -438,7 +438,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The appropriate Federal banking agency shall, not later than 90 days after an insureddepository institution becomes critically undercapitalized—
+&emsp;&emsp;The appropriate Federal banking agency shall, not later than 90 days after an insured depository institution becomes critically undercapitalized—
 
 &emsp;&emsp;&emsp;(i) appoint a receiver (or, with the concurrence of the Corporation, a conservator) for the institution; or
 
@@ -698,7 +698,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), 
 
 Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
-Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductoryprovisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
 
 Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The General Accounting Office shall annually—
 

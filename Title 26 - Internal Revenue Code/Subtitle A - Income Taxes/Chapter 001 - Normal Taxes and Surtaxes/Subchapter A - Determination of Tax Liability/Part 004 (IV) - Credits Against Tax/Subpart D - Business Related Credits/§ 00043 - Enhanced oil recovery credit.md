@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 38, the enhanced oil recovery credit for any taxable year is an amount equal to 15 percent of the taxpayer's qualified enhanced oil recovery costs for such taxable year.
+For purposes of section 38, the enhanced oil recovery credit for any taxable year is an amountequal to 15 percent of the taxpayer's qualified enhanced oil recovery costs for such taxable year.
 
 #### (b) Phase-out of credit as crude oil prices increase
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (4) Special rule for certain gas displacement projects
 
-&emsp;For purposes of this section, immiscible non-hydrocarbon gas displacement shall be treatedas a tertiary recovery method under section 193(b)(3).
+&emsp;For purposes of this section, immiscible non-hydrocarbon gas displacement shall be treated as a tertiary recovery method under section 193(b)(3).
 
 #### (d) Other rules
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (2) Time for making election
 
-&emsp;An election under paragraph (1) for any taxable year may be made (or revoked) at any time before the expiration of the 3-year period beginning on the last date prescribed by law for filing the return for such taxable year (determined without regard to extensions).
+&emsp;An election under paragraph (1) for any taxable year may be made (or revoked) at anytime before the expiration of the 3-year period beginning on the last date prescribed by law for filing the return for such taxable year (determined without regard to extensions).
 
 #### (3) Manner of making election
 

@@ -12,7 +12,7 @@ Prohibitions.—(1) A person may not discharge an employee, or discipline or dis
 
 &emsp;&emsp;(ii) the employee has a reasonable apprehension of serious injury to the employee or the public because of the vehicle's unsafe condition.
 
-(2) Under paragraph (1)(B)(ii) of this subsection, an employee's apprehension of seriousinjury is reasonable only if a reasonable individual in the circumstances then confronting the employee would conclude that the unsafe condition establishes a real danger of accident, injury, or serious impairment to health. To qualify for protection, the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
+(2) Under paragraph (1)(B)(ii) of this subsection, an employee's apprehension of serious injury is reasonable only if a reasonable individual in the circumstances then confronting the employee would conclude that the unsafe condition establishes a real danger of accident, injury, or serious impairment to health. To qualify for protection, the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
 
 (b)
 
@@ -20,7 +20,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 (2)(A) Not later than 60 days after receiving a complaint, the Secretary shall conduct an investigation, decide whether it is reasonable to believe the complaint has merit, and notify the complainant and the person alleged to have committed the violation of the findings. If the Secretary decides it is reasonable to believe a violation occurred, the Secretary shall include with the decision findings and a preliminary order for the relief provided under paragraph (3) of this subsection.
 
-(B) Not later than 30 days after the notice under subparagraph (A) of this paragraph, the complainant and the person alleged to have committed the violation may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of objections does not stay a reinstatement ordered in the preliminary order. If a hearing is not requested within the 30 days, the preliminary order is final and not subject to judicial review.
+(B) Not later than 30 days after the notice under subparagraph (A) of this paragraph, thecomplainant and the person alleged to have committed the violation may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of objections does not stay a reinstatement ordered in the preliminary order. If a hearing is not requested within the 30 days, the preliminary order is final and not subject to judicial review.
 
 (C) A hearing shall be conducted expeditiously. Not later than 120 days after the end of the hearing, the Secretary shall issue a final order. Before the final order is issued, the proceeding may be ended by a settlement agreement made by the Secretary, the complainant, and the person alleged to have committed the violation.
 
@@ -94,5 +94,5 @@ In subsection (d), the text of 49 App.:2305(e) (last sentence) is omitted as unn
 
 #### Employee Protections
 
-Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that: “Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with theSecretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under section 31105 of title 49, United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions.”
+Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that: “Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with the Secretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under section 31105 of title 49, United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions.”
 

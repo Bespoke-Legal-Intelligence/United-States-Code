@@ -10,7 +10,7 @@ Beginning with the fiscal year ending September 30, 1979—
 
 &emsp;(1) any funds annually appropriated under this section up to the amount appropriated for the fiscal year ending September 30, 1978, pursuant to section 343(d) of this title, for eligible institutions, shall be allocated among the eligible institutions in the same proportion as funds appropriated under section 343(d) of this title for the fiscal year ending September 30, 1978, are allocated among the eligible institutions; and
 
-&emsp;(2) any funds appropriated annually under this section in excess of an amount equal to the amount appropriated under section 343(d)of this title, for the fiscal year ending September 30, 1978, for eligible institutions, shall be distributed as follows:
+&emsp;(2) any funds appropriated annually under this section in excess of an amount equal to the amount appropriated under section 343(d) of this title, for the fiscal year ending September 30, 1978, for eligible institutions, shall be distributed as follows:
 
 &emsp;&emsp;(A) A sum equal to 4 per centum of the total amount appropriated each fiscal year under this section shall be allotted to the Extension Service of the Department of Agriculture for administrative, technical, and other services, and for coordinating the extension work of the Department of Agriculture and the several States.
 
@@ -66,7 +66,7 @@ If any portion of the moneys received by any eligible institution for the suppor
 
 #### (f) Mailing of correspondence, bulletins, and reports
 
-To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
+To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed undersuch regulations as the Postmaster General may from time to time prescribe. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
 
 (Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543.)
 

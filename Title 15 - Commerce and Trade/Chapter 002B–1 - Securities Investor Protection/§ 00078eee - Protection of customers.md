@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(i) shall stay any pending bankruptcy, mortgage foreclosure, equity receivership, or other proceeding to reorganize, conserve, or liquidate the debtor or its property and any other suit against any receiver, conservator, or trustee of the debtor or its property, and shall continue such stay upon appointment of a trustee pursuant to paragraph (3);
 
-&emsp;&emsp;&emsp;(ii) may stay any proceeding to enforce a lien against property of the debtor or any other suit against the debtor, including a suit by stockholders of the debtor which interferes with prosecution by the trustee of claims against former directors, officers, or employees of the debtor, and may continue such stay upon appointment of a trustee pursuant to paragraph (3);
+&emsp;&emsp;&emsp;(ii) may stay any proceeding to enforce a lien against property of the debtor or any other suit against the debtor, including a suit by stockholders of the debtor which interferes with prosecution by the trusteeof claims against former directors, officers, or employees of the debtor, and may continue such stay upon appointment of a trustee pursuant to paragraph (3);
 
 &emsp;&emsp;&emsp;(iii) may stay enforcement of, and upon appointment of a trustee pursuant to paragraph (3), may continue the stay for such period of time as may be appropriate, but shall not abrogate any right of setoff, except to the extent such right may be affected under section 553 of title 11, and shall not abrogate the right to enforce a valid, nonpreferential lien or pledge against the property of the debtor; and
 
@@ -74,7 +74,7 @@
 
 #### (4) Removal to bankruptcy court
 
-&emsp;Upon the issuance of a protective decree and appointment of a trustee, or a trustee andcounsel, under this section, the court shall forthwith order the removal of the entire liquidation proceeding to the court of the United States in the same judicial district having jurisdiction over cases under title 11. The latter court shall thereupon have all of the jurisdiction, powers, and duties conferred by this chapter upon the court to which application for the issuance of the protective decree was made.
+&emsp;Upon the issuance of a protective decree and appointment of a trustee, or a trustee and counsel, under this section, the court shall forthwith order the removal of the entire liquidation proceeding to the court of the United States in the same judicial district having jurisdiction over cases under title 11. The latter court shall thereupon have all of the jurisdiction, powers, and duties conferred by this chapter upon the court to which application for the issuance of the protective decree was made.
 
 #### (5) Compensation for services and reimbursement of expenses
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(i) such person is a creditor (including a customer), stockholder, or partner of the debtor;
 
-&emsp;&emsp;&emsp;(ii) such person is or was an underwriter of any of the outstanding securities of the debtor or within five years prior to the filing date was the underwriter of any securities of the debtor;
+&emsp;&emsp;&emsp;(ii) such person is or was an underwriter of any of the outstanding securities of thedebtor or within five years prior to the filing date was the underwriter of any securities of the debtor;
 
 &emsp;&emsp;&emsp;(iii) such person is, or was within two years prior to the filing date, a director, partner, officer, or employee of the debtor or such an underwriter, or an attorney for the debtor or such an underwriter; or
 
@@ -120,7 +120,7 @@
 
 #### (c) SEC participation in proceedings
 
-The Commission may, on its own motion, file notice of its appearance in any proceeding underthis chapter and may thereafter participate as a party.
+The Commission may, on its own motion, file notice of its appearance in any proceeding under this chapter and may thereafter participate as a party.
 
 #### (d) SIPC participation
 

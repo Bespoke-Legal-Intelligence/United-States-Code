@@ -30,6 +30,50 @@ The words “That the provisions of existing law relating to the award of medals
 
 1963—Pub. L. 88–77 enlarged authority to award medal of honor, which was limited to those cases in which persons distinguished themselves in action involving actual conflict with an enemy, to permit its award for distinguished service while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
+#### Review Regarding Award of Medal of Honor to Certain Jewish American and Hispanic American War Veterans
+
+Pub. L. 107–107, div. A, title V, §552, Dec. 28, 2001, 115 Stat. 1115, provided that:
+
+“(a)
+
+Review Required.—The Secretary of each military department shall review the service records of each Jewish American war veteran or Hispanic American war veteran described in subsection (b) to determine whether that veteran should be awarded the Medal of Honor.
+
+“(b)
+
+Covered Jewish American War Veterans and Hispanic American War Veterans.—The Jewish American war veterans and Hispanic American war veterans whose service records are to be reviewed under subsection (a) are the following:
+
+&emsp;“(1) Any Jewish American war veteran or Hispanic American war veteran who was awarded the Distinguished Service Cross, the Navy Cross, or the Air Force Cross before the date of the enactment of this Act \[Dec. 28, 2001\].
+
+&emsp;“(2) Any other Jewish American war veteran or Hispanic American war veteran whose name is submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act.
+
+“(c)
+
+Consultations.—In carrying out the review under subsection (a), the Secretary of each military department shall consult with the Jewish War Veterans of the United States of America and with such other veterans service organizations as the Secretary considers appropriate.
+
+“(d)
+
+Recommendation Based on Review.—If the Secretary concerned determines, based upon the review under subsection (a) of the service records of any Jewish American war veteran or Hispanic American war veteran, that the award of the Medal of Honor to that veteran is warranted, the Secretary shall submit to the President a recommendation that the President award the Medal of Honor to that veteran.
+
+“(e)
+
+Authority To Award Medal of Honor.—A Medal of Honor may be awarded to a Jewish American war veteran or Hispanic American war veteran in accordance with a recommendation of the Secretary concerned under subsection (d).
+
+“(f)
+
+Waiver of Time Limitations.—An award of the Medal of Honor may be made under subsection (e) without regard to—
+
+&emsp;“(1) section 3744, 6248, or 8744 of title 10, United States Code, as applicable; and
+
+&emsp;“(2) any regulation or other administrative restriction on—
+
+&emsp;&emsp;“(A) the time for awarding the Medal of Honor; or
+
+&emsp;&emsp;“(B) the awarding of the Medal of Honor for service for which a Distinguished Service Cross, Navy Cross, or Air Force Cross has been awarded.
+
+“(g)
+
+Definition.—For purposes of this section, the term ‘Jewish American war veteran’ means any person who served in the Armed Forces during World War II or a later period of war and who identified himself or herself as Jewish on his or her military personnel records.”
+
 #### Review Regarding Upgrading of Distinguished-Service Crosses and Navy Crosses Awarded to Asian-Americans and Native American Pacific Islanders for World War II Service
 
 Pub. L. 104–106, div. A, title V, §524, Feb. 10, 1996, 110 Stat. 312, provided that:

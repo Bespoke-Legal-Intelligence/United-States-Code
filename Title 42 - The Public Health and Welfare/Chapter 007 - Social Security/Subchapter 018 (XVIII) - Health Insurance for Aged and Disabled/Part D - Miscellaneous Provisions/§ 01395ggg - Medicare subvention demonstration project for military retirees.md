@@ -88,7 +88,7 @@ In this section:
 
 #### (4) Duration
 
-&emsp;The administering Secretaries shall conduct the demonstration project during the 4-year period beginning on January 1, 1998, except that the administering Secretaries may negotiate and (subject to section 701(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001) <sup>1</sup> enter into a new or revised agreement under paragraph (1)(A) to continue the project after the end of such period. If the project is so continued, the administering Secretaries may terminate the agreement under which the program operates after providing notice to Congress in accordance with subsection (k)(2)(B)(v) of this section.
+&emsp;The administering Secretaries shall conduct the demonstration project during the 4-yearperiod beginning on January 1, 1998, except that the administering Secretaries may negotiate and (subject to section 701(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001) <sup>1</sup> enter into a new or revised agreement under paragraph (1)(A) to continue the project after the end of such period. If the project is so continued, the administering Secretaries may terminate the agreement under which the program operates after providing notice to Congress in accordance with subsection (k)(2)(B)(v) of this section.
 
 #### (5) Report
 
@@ -164,7 +164,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this subsection, the Secretary shall reimburse the Secretary of Defense for services provided under the demonstration project at a rate equal to 95 percent of the amount paid to a Medicare+Choice organization under part C of this subchapter with respect to such an enrollee. In cases in which a payment amount may not otherwise be readily computed, the Secretary shall establish rules for computing equivalent or comparable payment amounts.
+&emsp;Subject to the succeeding provisions of this subsection, the Secretary shall reimburse the Secretary of Defense for services provided under the demonstration project at a rate equal to 95 percent of the amount paid to a Medicare+Choice organization under part C of this subchapter with respect to such an enrollee. In cases in which a payment amount may not otherwise be readily computed, theSecretary shall establish rules for computing equivalent or comparable payment amounts.
 
 #### (2) Exclusion of certain amounts
 
@@ -204,7 +204,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### (A) In general
 
-&emsp;&emsp;The administering Secretaries, in consultation with the Comptroller General, shall closely monitor the expenditures made under the medicare program for medicare-eligible military retirees or dependents duringthe period of the demonstration project compared to the expenditures that would have been made for such medicare-eligible military retirees or dependents during that period if the demonstration project had not been conducted. The agreement entered into by the administering Secretaries under subsection (b) of this section shall require any participating military treatment facility to maintain the level of effort for space available care to medicare-eligible military retirees or dependents.
+&emsp;&emsp;The administering Secretaries, in consultation with the Comptroller General, shall closely monitor the expenditures made under the medicare program for medicare-eligible military retirees or dependents during the period of the demonstration project compared to the expenditures that would have been made for such medicare-eligible military retirees or dependents during that period if the demonstration project had not been conducted. The agreement entered into by the administering Secretaries under subsection (b) of this section shall require any participating military treatment facility to maintain the level of effort for space available care to medicare-eligible military retirees or dependents.
 
 #### (B) Annual report by the Comptroller General
 
@@ -320,7 +320,7 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### <i>“(4) Modification of payment methodology</i>
 
-&emsp;<i>“The administering Secretaries may, subject to subsection (k)(2)(B) of this section, modify the payment methodology provided under paragraphs (1) and (2) so long as the amount of the reimbursement provided to the Secretary of Defense fully reimburses the Department of Defense for its cost of providing services under the program but does not exceed an amount that is estimated to be equivalent to the amount that otherwise would have been expended under this subchapter for such services if provided other than under the program (not including amounts described in paragraph (2)). Such limiting amount may be based for any site on the amount that would be payable to Medicare+Choice organizations under part C of this subchapter for the area of the site or the amounts that would be payable under parts A and B of this subchapter.”;</i>
+&emsp;<i>“The administering Secretaries may, subject to subsection (k)(2)(B) of this section, modify the payment methodology provided under paragraphs (1) and (2) so long as the amount of the reimbursement provided to the Secretary of Defense fully reimburses the Department of Defense for its cost of providing services under the program but does not exceed an amount that is estimated to be equivalent to the amount that otherwise would have been expended under this subchapter for</i><i>such services if provided other than under the program (not including amounts described in paragraph (2)). Such limiting amount may be based for any site on the amount that would be payable to Medicare+Choice organizations under part C of this subchapter for the area of the site or the amounts that would be payable under parts A and B of this subchapter.”;</i>
 
 <i>(10) in subsection (j)(1) heading, by striking “demonstration”; and</i>
 

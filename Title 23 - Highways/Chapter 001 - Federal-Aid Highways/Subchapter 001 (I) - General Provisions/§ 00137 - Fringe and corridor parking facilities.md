@@ -22,7 +22,7 @@
 
 (3) For the purposes of this subsection, the terms “facilities” and “parking facilities” are synonymous and shall have the same meaning given “parking facilities” in subsection (c) of this section.
 
-(Added Pub. L. 89–574, §8(c)(1), Sept. 13, 1966, 80 Stat. 768; amended Pub. L. 91–605, title I, §134(a), Dec. 31, 1970, 84 Stat. 1733; Pub. L. 97–424, title I, §118, Jan. 6, 1983, 96 Stat. 2110; Pub. L. 105–178, title I, §§1103(<i>l</i>)(3)(B), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 126, 193.)
+(Added Pub. L. 89–574, §8(c)(1), Sept. 13, 1966, 80 Stat. 768; amended Pub. L. 91–605, title I, §134(a), Dec. 31, 1970, 84 Stat. 1733; Pub. L. 97–424, title I, §118, Jan. 6, 1983, 96 Stat. 2110; Pub. L. 105–178,title I, §§1103(<i>l</i>)(3)(B), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 126, 193.)
 
 #### Amendments
 

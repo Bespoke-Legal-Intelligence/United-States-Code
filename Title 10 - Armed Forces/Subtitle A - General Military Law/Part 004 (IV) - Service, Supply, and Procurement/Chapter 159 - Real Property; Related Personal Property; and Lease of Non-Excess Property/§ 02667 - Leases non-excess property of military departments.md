@@ -16,7 +16,7 @@
 
 &emsp;(4) shall provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is not less than the fair market value of the lease interest, as determined by the Secretary; and
 
-&emsp;(5) may provide, notwithstanding section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), orany other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease.
+&emsp;(5) may provide, notwithstanding section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), or any other provision of law, for the alteration, repair, or improvement, by the lessee, of the property leased as the payment of part or all of the consideration for the lease.
 
 (c)(1) In addition to any in-kind consideration accepted under subsection (b)(5), in-kind consideration accepted with respect to a lease under this section may include the following:
 
@@ -30,7 +30,7 @@
 
 &emsp;(E) Provision of such other services relating to activities that will occur on the leased property as the Secretary concerned considers appropriate.
 
-(2) In-kind consideration under paragraph (1) may be accepted at any property or facilities under the control of the Secretary concerned that are selected for that purpose by the Secretary concerned.
+(2) In-kind consideration under paragraph (1) may be accepted at any property or facilities under the control of the Secretary concernedthat are selected for that purpose by the Secretary concerned.
 
 (3) Sections 2662 and 2802 of this title shall not apply to any new facilities whose construction is accepted as in-kind consideration under this subsection.
 
@@ -102,6 +102,14 @@
 
 (2) Not later than 45 days before entering into a lease described in paragraph (1), the Secretary concerned shall submit to Congress written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee.
 
+(3) Paragraph (1) does not apply to a renewal or extension of a lease by the Secretary of the Navy with a selected institution for operation of a ship within the University National Oceanographic Laboratory System if, under the lease, each of the following applies:
+
+&emsp;(A) Use of the ship is restricted to federally supported research programs and to non-Federal uses under specific conditions with approval by the Secretary of the Navy.
+
+&emsp;(B) Because of the anticipated value to the Navy of the oceanographic research and training that will result from the ship's operation, no monetary lease payments are required from the lessee under the initial lease or under any renewal or extension.
+
+&emsp;(C) The lessee is required to maintain the ship in a good state of repair, readiness, and efficient operating condition, conform to all applicable regulatory requirements, and assume full responsibility for the safety of the ship, its crew, and scientific personnel aboard.
+
 (h) In this section:
 
 &emsp;(1) The term “congressional defense committees” means:
@@ -122,7 +130,7 @@
 
 (i) This section does not apply to oil, mineral, or phosphate lands.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, §607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, §501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, §511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, §1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, §803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, §2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, §2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, §2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, §2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, §1502(a)(1), div. B, title XXVIII, §§2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, §361(b)(2), title X, §1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, §2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, §1013, Dec. 28, 2001, 115 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -190,7 +198,7 @@ Aug. 5, 1947, ch. 493, §§1, 6, 61 Stat. 774, 775; Sept. 28, 1951, ch. 434. §6
 
 In subsection (a), the words “considers \* \* \* United States” are substituted for the words “shall deem \* \* \* Government”. The words “and conditions” are omitted as surplusage. The words “he considers” are substituted for the words “in his judgment”.
 
-In subsection (a)(3), the words “excess property, as defined by section 472 of title 40” are substituted forthe words “surplus to the needs of the Department within the meaning of the Surplus Property Act of 1944 \[Act of October 3, 1944 (58 Stat. 765)\]”, in 5:626s–3, 10:1270, and 34:522a, since the words “excess property” are so defined by the Federal Property and Administrative Services Act of 1949.
+In subsection (a)(3), the words “excess property, as defined by section 472 of title 40” are substituted for the words “surplus to the needs of the Department within the meaning of the Surplus Property Act of 1944\[Act of October 3, 1944 (58 Stat. 765)\]”, in 5:626s–3, 10:1270, and 34:522a, since the words “excess property” are so defined by the Federal Property and Administrative Services Act of 1949.
 
 In subsection (b)(2), the words “may give” are substituted for the first 12 words of the third sentence of 5:626s–3, 10:1270, and 34:522a. The words “if the lease is revoked to allow the United States to sell the property” are substituted for the words “in the event of the revocation of the lease in order to permit sale thereof by the Government”. The words “under any other provision of law” are inserted for clarity. The words “the first right to buy” are substituted for the words “a right of first refusal”. The words “but this section shall not be construed as authorizing the sale of any property unless the sale thereof is otherwise authorized by law” are omitted as surplusage, since the revised section deals only with leases of property.
 
@@ -211,6 +219,8 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 The National Environmental Policy Act of 1969, referred to in subsec. (f)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+2001—Subsec. (g)(3). Pub. L. 107–107 added par. (3).
 
 2000—Subsec. (a). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(a)\], inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “not for the time needed for public use; and”.
 

@@ -38,7 +38,7 @@ Authorized procedures.—The regulations under paragraph (1) may include provisi
 
 &emsp;&emsp;(C) Subject to subparagraphs (D) and (E), a requirement for the payee of an annuity to spend or invest the amounts paid on behalf of the annuitant solely for benefit of the annuitant.
 
-&emsp;&emsp;(D) Authority for the Secretary concerned to permit the payee to withhold from the annuity payment such amount, not in excess of 4 percent of the annuity, as the Secretary concerned considers a reasonable fee for the fiduciary services of the payee when a court appointment order provides for payment ofsuch a fee to the payee for such services or the Secretary concerned determines that payment of a fee to such payee is necessary in order to obtain the fiduciary services of the payee.
+&emsp;&emsp;(D) Authority for the Secretary concerned to permit the payee to withhold from the annuity payment such amount, not in excess of 4 percent of the annuity, as the Secretary concerned considers a reasonable fee for the fiduciary services of the payee when a court appointment order provides for payment of such a fee to the payee for such services or the Secretary concerned determines that payment of a fee to such payee is necessary in order to obtain the fiduciary services of the payee.
 
 &emsp;&emsp;(E) Authority for the Secretary concerned to require the payee to provide a surety bond in an amount sufficient to protect the interests of the annuitant and to pay for such bond out of the annuity.
 

@@ -60,7 +60,7 @@ The Commissioner shall—
 
 #### (b) Encouragement of volunteerism
 
-In executing the duties and functions of the Administration under this subchapter and incarrying out the programs and activities authorized under this chapter, the Commissioner, in consultation with the Chief Executive Officer of the Corporation for National and Community Service, shall take necessary steps to coordinate with and seek the advice of voluntary agencies and organizations that provide services related to the purposes of this chapter.
+In executing the duties and functions of the Administration under this subchapter and in carrying out the programs and activities authorized under this chapter, the Commissioner, in consultation with the Chief Executive Officer of the Corporation for National and Community Service, shall take necessary steps to coordinate with and seek the advice of voluntary agencies and organizations that provide services related to the purposes of this chapter.
 
 (Pub. L. 101–501, title IX, §916, Nov. 3, 1990, 104 Stat. 1263; Pub. L. 103–82, title IV, §405(<i>o</i>), Sept. 21, 1993, 107 Stat. 922.)
 

@@ -2,7 +2,7 @@
 
 All Indians committing any offense listed in the first paragraph of and punishable under section 1153 (relating to offenses committed within Indian country) of this title shall be tried in the same courts and in the same manner as are all other persons committing such offense within the exclusive jurisdiction of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 827; May 24, 1949, ch. 139, §51, 63 Stat. 96; Pub. L. 89–707, §2, Nov. 2, 1966, 80 Stat. 1101; Pub. L. 94–297, §4, May 29, 1976, 90 Stat. 586.)
+(June 25, 1948, ch. 645, 62 Stat. 827; May 24, 1949, ch. 139, §51, 63 Stat. 96; Pub. L. 89–707, §2, Nov.2, 1966, 80 Stat. 1101; Pub. L. 94–297, §4, May 29, 1976, 90 Stat. 586.)
 
 #### Historical and Revision Notes
 

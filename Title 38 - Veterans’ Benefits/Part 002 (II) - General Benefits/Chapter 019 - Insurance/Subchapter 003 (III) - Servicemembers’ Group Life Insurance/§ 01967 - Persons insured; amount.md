@@ -1,12 +1,54 @@
 ### §1967. Persons insured; amount
 
-(a) Any policy of insurance purchased by the Secretary under section 1966 of this title shall automatically insure against death—
+(a)(1) Subject to an election under paragraph (2), any policy of insurance purchased by the Secretary under section 1966 of this title shall automatically insure the following persons against death:
 
-&emsp;(1) any member of a uniformed service on active duty, active duty for training, or inactive duty training scheduled in advance by competent authority; and
+&emsp;(A) In the case of any member of a uniformed service on active duty (other than active duty for training)—
 
-&emsp;(2) any member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title;
+&emsp;&emsp;(i) the member; and
 
-> in the amount of $250,000, unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in an amount less than $250,000 that is evenly divisible by $10,000. The insurance shall be effective the first day of active duty or active duty for training, or the beginning of a period of inactive duty training scheduled in advance by competent authority, or the first day a member of the Ready Reserve meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, or the date certified by the Secretary to the Secretary concerned as the date Servicemembers’ Group Life Insurance under this subchapter for the class or group concerned takes effect, whichever is the later date.
+&emsp;&emsp;(ii) each insurable dependent of the member.
+
+&emsp;(B) Any member of a uniformed service on active duty for training or inactive duty training scheduled in advance by competent authority.
+
+&emsp;(C) In the case of any member of the Ready Reserve of a uniformed service who meets the qualifications set forth in section 1965(5)(B) of this title—
+
+&emsp;&emsp;(i) the member; and
+
+&emsp;&emsp;(ii) each insurable dependent of the member.
+
+(2)(A) A member may elect in writing not to be insured under this subchapter.
+
+(B) A member may elect in writing not to insure the member's spouse under this subchapter.
+
+(3)(A) Subject to subparagraphs (B) and (C), the amount for which a person is insured under this subchapter is as follows:
+
+&emsp;(i) In the case of a member, $250,000.
+
+&emsp;(ii) In the case of a member's spouse, $100,000.
+
+&emsp;(iii) In the case of a member's child, $10,000.
+
+(B) A member may elect in writing to be insured or to insure the member's spouse in an amount less than the amount provided for under subparagraph (A). The member may not elect to insure the member's child in an amount less than $10,000. The amount of insurance so elected shall, in the case of a member or spouse, be evenly divisible by $10,000.
+
+(C) In no case may the amount of insurance coverage under this subsection of a member's spouse exceed the amount of insurance coverage of the member.
+
+(4)(A) An insurable dependent of a member is not insured under this chapter unless the member is insured under this subchapter.
+
+(B) An insurable dependent who is a child may not be insured at any time by the insurance coverage under this chapter of more than one member. If an insurable dependent who is a child is otherwise eligible to be insured by the coverage of more than one member under this chapter, the child shall be insured by the coverage of the member whose eligibility for insurance under this subchapter occurred first, except that if that member does not have legal custody of the child, the child shall be insured by the coverage of the member who has legal custody of the child.
+
+(5) The insurance shall be effective with respect to a member and the insurable dependents of the member on the latest of the following dates:
+
+&emsp;(A) The first day of active duty or active duty for training.
+
+&emsp;(B) The beginning of a period of inactive duty training scheduled in advance by competent authority.
+
+&emsp;(C) The first day a member of the Ready Reserve meets the qualifications set forth in section 1965(5)(B) of this title.
+
+&emsp;(D) The date certified by the Secretary to the Secretary concerned as the date Servicemembers’ Group Life Insurance under this subchapter for the class or group concerned takes effect.
+
+&emsp;(E) In the case of an insurable dependent who is a spouse, the date of marriage of the spouse to the member.
+
+&emsp;(F) In the case of an insurable dependent who is a child, the date of birth of such child or, if the child is not the natural child of the member, the date on which the child acquires status as an insurable dependent of the member.
 
 (b) Any member (other than one who has elected not to be insured under this subchapter for the period or periods of duty involved)—
 
@@ -16,7 +58,7 @@
 
 > shall be deemed to have been on active duty, active duty for training, or inactive duty training, as the case may be, and to have been insured under this subchapter at the time such disability was incurred or aggravated, and if death occurs within one hundred and twenty days thereafter as a result of such disability to have been insured at the time of death. In determining whether or not such individual was so authorized or required to perform such duty, and whether or not such member was rendered uninsurable or died within one hundred and twenty days thereafter from a disability so incurred or aggravated, there shall be taken into account the call or order to duty, the orders and authorizations of competent authority, the hour on which the member began to so proceed or to return, the hour on which such member was scheduled to arrive for, or on which such member ceased to perform such duty; the method of travel employed; such member's itinerary; the manner in which the travel was performed; and the immediate cause of disability or death. Whenever any claim is filed alleging that the claimant is entitled to benefits by reason of this subsection, the burden of proof shall be on the claimant.
 
-(c) If any member elects not to be insured under this subchapter or to be insured in any amount less than $250,000, such member may thereafter be insured under this subchapter in the amount of $250,000 or any lesser amount evenly divisible by $10,000 upon written application, proof of good health, and compliance with such other terms and conditions as may be prescribed by the Secretary. Any former member insured under Veterans’ Group Life Insurance who again becomes eligible for Servicemembers’ Group Life Insurance and declines such coverage solely for the purpose of maintaining such member's Veterans’ Group Life Insurance in effect shall upon termination of coverage under Veterans’ Group Life Insurance be automatically insured under Servicemembers’ Group Life Insurance, if otherwise eligible therefor.
+(c) If a person eligible for insurance under this subchapter is not so insured, or is insured for less than the maximum amount provided for the person under subparagraph (A) of subsection (a)(3), by reason of an election made by a member under subparagraph (B) of that subsection, the person may thereafter be insured under this subchapter in the maximum amount or any lesser amount elected as provided in such subparagraph (B) upon written application by the member, proof of good health of each person (other than a child) to be so insured, and compliance with such other terms and conditions as may be prescribed by the Secretary. Any former member insured under Veterans’ Group Life Insurance who again becomes eligible for Servicemembers’ Group Life Insurance and declines such coverage solely for the purpose of maintaining such member's Veterans’ Group Life Insurance in effect shall upon termination of coverage under Veterans’ Group Life Insurance be automatically insured under Servicemembers’ Group Life Insurance, if otherwise eligible therefor.
 
 (d) Whenever a member has the opportunity to make an election under subsection (a) not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount of $250,000, and at such other times periodically thereafter as the Secretary concerned considers appropriate, the Secretary concerned shall furnish to the member general information concerning life insurance. Such information shall include—
 
@@ -30,9 +72,19 @@
 
 (e) The effective date and time for any change in benefits under the Servicemembers’ Group Life Insurance Program shall be based on the date and time according to the time zone immediately west of the International Date Line.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–14, §4(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any policy of insurance purchased by the Secretary under section 1966 of this title shall automatically insure against death—
+
+&emsp;“(1) any member of a uniformed service on active duty, active duty for training, or inactive duty training scheduled in advance by competent authority; and
+
+&emsp;“(2) any member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title;
+
+> in the amount of $250,000, unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in an amount less than $250,000 that is evenly divisible by $10,000. The insurance shall be effective the first day of active duty or active duty for training, or the beginning of a period of inactive duty training scheduled in advance by competent authority, or the first day a member of the Ready Reserve meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, or the date certified by the Secretary to the Secretary concerned as the date Servicemembers’ Group Life Insurance under this subchapter for the class or group concerned takes effect, whichever is the later date.”
+
+Subsec. (c). Pub. L. 107–14, §4(b)(2), inserted first sentence and struck out former first sentence which read as follows: “If any member elects not to be insured under this subchapter or to be insured in any amount less than $250,000, such member may thereafter be insured under this subchapter in the amount of $250,000 or any lesser amount evenly divisible by $10,000 upon written application, proof of good health, and compliance with such other terms and conditions as may be prescribed by the Secretary.”
 
 2000—Subsec. (a). Pub. L. 106–419, §313(b), substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title” in par. (2) and concluding provisions.
 
@@ -130,7 +182,25 @@ Subsec. (b). Pub. L. 91–291 added subsec. (b). Former subsec. (b) redesignated
 
 Subsec. (c). Pub. L. 91–291 redesignated former subsec. (b) as subsec. (c) and inserted provisions reflecting the increase from $10,000 to $15,000 in maximum available insurance for members of uniformed services.
 
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 days after June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
+
 #### Effective Date of 2000 Amendment
+
+Pub. L. 107–14, §5, June 5, 2001, 115 Stat. 30, provided that:
+
+“(a)
+
+Applicability of Increase in Benefit.—Notwithstanding subsection (c) of section 312 of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419; 114 Stat. 1854) \[set out as a note below\], the amendments made by subsection (a) of that section \[amending this section\] shall take effect on October 1, 2000, with respect to any member of the uniformed services who died in the performance of duty (as determined by the Secretary concerned) during the period beginning on October 1, 2000, and ending at the close of March 31, 2001, and who on the date of death was insured under the Servicemembers’ Group Life Insurance program under subchapter III of chapter 19 of title 38, United States Code, for the maximum coverage available under that program.
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘Secretary concerned’ has the meaning given that term in section 101(25) of title 38, United States Code.
+
+&emsp;“(2) The term ‘uniformed services’ has the meaning given that term in section 1965(6) of title 38, United States Code.”
 
 Pub. L. 106–419, title III, §312(c), Nov. 1, 2000, 114 Stat. 1854, provided that: “The amendments made by this section \[amending this section and section 1977 of this title\] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act \[Nov. 1, 2000\].”
 
@@ -156,7 +226,7 @@ Section 401(c) of Pub. L. 99–166, as amended by Pub. L. 99–227, §3, Dec. 28
 
 “(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and section 777 \[now 1977\] of this title\] shall take effect on January 1, 1986.
 
-“(2) The amendment made by subsection (a)(1)(A) \[amending this section\] shall be deemed to have taken effect on December 12, 1985, with respect to members who—
+“(2) The amendment made by subsection (a)(1)(A) \[amending this section\] shall be deemed to have takeneffect on December 12, 1985, with respect to members who—
 
 &emsp;“(A) died after December 11, 1985, and before January 1, 1986; and
 

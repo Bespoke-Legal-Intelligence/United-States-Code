@@ -22,7 +22,7 @@ Act June 5, 1936, changed “Colonial National Monument” to “Colonial Nation
 
 #### George Waller Blow Estate; Use of 1967 Increase in Authorization of Appropriations To Purchase
 
-Pub. L. 90–74 provided in part that the limit on the authorized appropriation was increased from $2,000,000 to $2,777,000 in order to permit acquisition of the Thomas Nelson House, the Edmund Smith House, the John Ballard House, and the Thomas Pate House, all of which are located within the boundaries of the Colonial National Historical Park on lots numbered 42A, 44 through 55, 84, 85, and 120 through 129, and known as the George Waller Blow Estate.
+Pub. L. 90–74 provided in part that the limit on the authorized appropriation was increased from $2,000,000 to $2,777,000 in order to permit acquisition of the Thomas Nelson House, the Edmund Smith House, the John Ballard House, and the Thomas Pate House, all of which are located within the boundaries of the ColonialNational Historical Park on lots numbered 42A, 44 through 55, 84, 85, and 120 through 129, and known as the George Waller Blow Estate.
 
 #### Section Referred to in Other Sections
 

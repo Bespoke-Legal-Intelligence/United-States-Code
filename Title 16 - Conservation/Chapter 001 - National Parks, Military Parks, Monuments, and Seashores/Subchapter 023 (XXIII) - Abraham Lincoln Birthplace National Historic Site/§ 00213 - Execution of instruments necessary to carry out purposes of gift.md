@@ -1,6 +1,6 @@
 ### §213. Execution of instruments necessary to carry out purposes of gift
 
-The President of the United States of America and the Secretary of War are authorized to execute in the name of the United States of America, such instrument or instruments as may be or may become necessary to comply with or carry out the terms and conditions of such gift or gifts and to secure the full benefit therefrom.
+The President of the United States of America and the Secretary of War are authorized to execute, in the name of the United States of America, such instrument or instruments as may be or may become necessary to comply with or carry out the terms and conditions of such gift or gifts and to secure the full benefit therefrom.
 
 (July 17, 1916, ch. 247, §3, 39 Stat. 386; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

@@ -18,7 +18,7 @@ The study shall include proposals deemed necessary to assure equitable visitor a
 
 #### (e) Renovation and preservation of South Shore Railroad
 
-The study shall examine proposals for the renovation and preservation of a portion of the existing South Shore Railroad passenger car fleet. The study shall consider the historic value ofthe existing rolling stock and its role in transporting visitors into and within the lakeshore.
+The study shall examine proposals for the renovation and preservation of a portion of the existing South Shore Railroad passenger car fleet. The study shall consider the historic value of the existing rolling stock and its role in transporting visitors into and within the lakeshore.
 
 #### (f) Alternative improvement plans; cost estimates; sources of funding
 

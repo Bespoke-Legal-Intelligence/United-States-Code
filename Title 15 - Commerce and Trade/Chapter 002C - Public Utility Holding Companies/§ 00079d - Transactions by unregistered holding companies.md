@@ -8,7 +8,7 @@ After December 1, 1935, unless a holding company is registered under section 79e
 
 &emsp;(2) by use of the mails or any means or instrumentality of interstate commerce, to negotiate, enter into, or take any step in the performance of, any service, sales, or construction contract undertaking to perform services or construction work for, or sell goods to, any public-utility company or holding company;
 
-&emsp;(3) to distribute or make any public offering for sale or exchange of any security of such holding company, any subsidiary company or affiliate of such holding company, any public-utility company, or any holding company, byuse of the mails or any means or instrumentality of interstate commerce, or to sell any such security having reason to believe that such security, by use of the mails or any means or instrumentality of interstate commerce, will be distributed or made the subject of a public offering;
+&emsp;(3) to distribute or make any public offering for sale or exchange of any security of such holding company, any subsidiary company or affiliate of such holding company, any public-utility company, or any holding company, by use of the mails or any means or instrumentality of interstate commerce, or to sell any such security having reason to believe that such security, by use of the mails or any means or instrumentality of interstate commerce, will be distributed or made the subject of a public offering;
 
 &emsp;(4) by use of the mails or any means or instrumentality of interstate commerce, to acquire or negotiate for the acquisition of any security or utility assets of any subsidiary company or affiliate of such holding company, any public-utility company, or any holding company;
 

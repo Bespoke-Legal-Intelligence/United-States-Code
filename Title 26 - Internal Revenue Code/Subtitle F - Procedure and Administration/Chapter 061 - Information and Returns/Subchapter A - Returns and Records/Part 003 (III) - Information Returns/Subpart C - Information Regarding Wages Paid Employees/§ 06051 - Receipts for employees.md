@@ -30,7 +30,7 @@ Every person required to deduct and withhold from an employee a tax under sectio
 
 #### (b) Special rule as to compensation of members of Armed Forces
 
-In the case of compensation paid for service as a member of the Armed Forces, the statement required by subsection (a) shall be furnished if any tax was withheld during the calendar year under section 3402, or if any of the compensation paid during such year is includible in gross income under chapter 1, or if during the calendar year any amount was required to be withheld as tax under section 3101. In lieu of the amount required to be shown by paragraph (3) of subsection (a), such statement shall show as wages paid during the calendar year the amount of such compensation paid during the calendar year which is not excluded from gross income under chapter 1 (whether or not such compensation constituted wages as defined in section 3401(a)).
+In the case of compensation paid for service as a member of the Armed Forces, the statement required by subsection (a) shall be furnished if any tax was withheld during the calendar year under section 3402, or if any of the compensation paid during such year is includible in gross income under chapter 1, or if during the calendaryear any amount was required to be withheld as tax under section 3101. In lieu of the amount required to be shown by paragraph (3) of subsection (a), such statement shall show as wages paid during the calendar year the amount of such compensation paid during the calendar year which is not excluded from gross income under chapter 1 (whether or not such compensation constituted wages as defined in section 3401(a)).
 
 #### (c) Additional requirements
 
@@ -92,7 +92,11 @@ A duplicate of any statement made pursuant to this section and in accordance wit
 
 > &emsp;To the extent practicable, the information required under the preceding sentence shall be furnished on or with the statement (if any) required under subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Pub. L. 87–293, title II, §202(a)(4), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title I, §107, title III, §313(e)(1), July 30, 1965, 79 Stat. 337, 384; Pub. L. 90–248, title V, §502(c)(1), (2), Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–172, title VIII, §805(f)(2), Dec. 30, 1969, 83 Stat. 708; Pub. L. 92–603, title II, §293(a)–(c), Oct. 30, 1972, 86 Stat. 1459; Pub. L. 93–406, title II, §1022(k), Sept. 2, 1974, 88 Stat. 943; Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 95–216, title III, §317(b)(3), Dec. 20, 1977, 91 Stat. 1540; Pub. L. 95–600, title I, §105(c), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–601, §4(e), Dec. 24, 1980, 94 Stat. 3497; Pub. L. 97–248, title III, §§307(a)(7), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–362, title I, §107(a), Oct. 25, 1982, 96 Stat. 1731; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XI, §1105(b), Oct. 22, 1986, 100 Stat. 2419; Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), Nov. 10, 1988, 102 Stat. 3489, 3592; Pub. L. 103–465, title VII, §721(b), Dec. 8, 1994, 108 Stat. 5002; Pub. L. 104–191, title III, §301(c)(3), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Pub. L. 87–293, title II, §202(a)(4), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title I, §107, title III, §313(e)(1), July 30, 1965, 79 Stat. 337, 384; Pub. L. 90–248, title V, §502(c)(1), (2), Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–172, title VIII, §805(f)(2), Dec. 30, 1969, 83 Stat. 708; Pub. L. 92–603, title II, §293(a)–(c), Oct. 30, 1972, 86 Stat. 1459; Pub. L. 93–406, title II, §1022(k), Sept. 2, 1974, 88 Stat. 943; Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 95–216, title III, §317(b)(3), Dec. 20, 1977, 91 Stat. 1540; Pub. L. 95–600, title I, §105(c), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–601, §4(e), Dec. 24, 1980, 94 Stat. 3497; Pub. L. 97–248, title III, §§307(a)(7), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–362, title I,§107(a), Oct. 25, 1982, 96 Stat. 1731; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XI, §1105(b), Oct. 22, 1986, 100 Stat. 2419; Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), Nov. 10, 1988, 102 Stat. 3489, 3592; Pub. L. 103–465, title VII, §721(b), Dec. 8, 1994, 108 Stat. 5002; Pub. L. 104–191, title III, §301(c)(3), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title VI, §617(d)(1), June 7, 2001, 115 Stat. 105.)
+
+#### Amendment of Subsection (a)(8)
+
+<i>Pub. L. 107–16, title VI, §617(d)(1), (f), title IX, §901, June 7, 2001, 115 Stat. 106, 150, provided that, applicable to taxable years beginning after Dec. 31, 2005, subsection (a)(8) of this section is temporarily amended by inserting “, including the amount of designated Roth contributions (as defined in section 402A)” before the comma at the end. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -154,6 +158,12 @@ Subsec. (c). Pub. L. 89–97, §107, required the statements to show the proport
 
 Subsec. (b). Act Aug. 1, 1956, §412(b), required the furnishing of a statement if during the calendar year any amount was required to be withheld as tax under section 3101 of this title.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2005, see section 617(f) of Pub. L. 107–16, set out as a note under section 402 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
@@ -164,7 +174,7 @@ Amendment by Pub. L. 103–465 applicable to remuneration paid after Dec. 31, 19
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1011B(c)(2)(B) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1987, see section 1011B(c)(2)(C) of Pub. L. 100–647, set out as a note under section 129 of this title.
+Amendment by section 1011B(c)(2)(B) of Pub. L. 100–647 applicable to taxable years beginning after Dec.31, 1987, see section 1011B(c)(2)(C) of Pub. L. 100–647, set out as a note under section 129 of this title.
 
 Amendment by section 1018(u)(33) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -214,7 +224,7 @@ Amendment by act Aug. 1, 1956, effective Jan. 1, 1957, see section 603(a) of act
 
 #### Repeals; Amendments and Application of Amendments Unaffected
 
-Section 202(a)(4) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept.13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 202(a)(4) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under section 2515 of Title 22, Foreign Relations and Intercourse.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

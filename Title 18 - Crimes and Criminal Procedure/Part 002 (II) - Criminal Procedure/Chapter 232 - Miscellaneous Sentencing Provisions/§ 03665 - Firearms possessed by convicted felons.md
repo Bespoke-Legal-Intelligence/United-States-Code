@@ -10,5 +10,5 @@ The court may direct the delivery of such firearms or ammunition to the law-enfo
 
 Based on title 18, U.S.C., 1940 ed., §645 (June 13, 1939, ch. 197, 53 Stat. 814).
 
-The condensation and simplification of this section clarifies its intent to confiscate the firearms takenfrom persons convicted of crimes of violence without any real change of substance.
+The condensation and simplification of this section clarifies its intent to confiscate the firearms taken from persons convicted of crimes of violence without any real change of substance.
 

@@ -1,6 +1,6 @@
 ### §303. Powers and duties of Commission
 
-Except as otherwise provided in this chapter, the Commission from time to time, as public convenience, interest, or necessity requires, shall—
+Except as otherwise provided in this chapter, the Commission from time to time, as publicconvenience, interest, or necessity requires, shall—
 
 (a) Classify radio stations;
 
@@ -48,7 +48,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 &emsp;(F) has obtained or attempted to obtain, or has assisted another to obtain or attempt to obtain, an operator's license by fraudulent means.
 
-(2) No order of suspension of any operator's license shall take effect until fifteen days’ notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, said order of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
+(2) No order of suspension of any operator's license shall take effect until fifteen days’ notice in writing thereof, stating the cause for the proposed suspension, has been given to the operator licensee who may make written application to the Commission at any time within said fifteen days for a hearing upon such order. The notice to the operator licensee shall not be effective until actually received by him, and from that time he shall have fifteen days in which to mail the said application. In the event that physical conditions prevent mailing of the application at the expiration of the fifteen-day period, the application shall then be mailed as soon as possible thereafter, accompanied by a satisfactory explanation of the delay. Upon receipt by the Commission of such application for hearing, saidorder of suspension shall be held in abeyance until the conclusion of the hearing which shall be conducted under such rules as the Commission may prescribe. Upon the conclusion of said hearing the Commission may affirm, modify, or revoke said order of suspension.
 
 (n) Have authority to inspect all radio installations associated with stations required to be licensed by any Act, or which the Commission by rule has authorized to operate without a license under section 307(e)(1) of this title, or which are subject to the provisions of any Act, treaty, or convention binding on the United States, to ascertain whether in construction, installation, and operation they conform to the requirements of the rules and regulations of the Commission, the provisions of any Act, the terms of any treaty or convention binding on the United States, and the conditions of the license or other instrument of authorization under which they are constructed, installed, or operated.
 
@@ -62,7 +62,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (s) Have authority to require that apparatus designed to receive television pictures broadcast simultaneously with sound be capable of adequately receiving all frequencies allocated by the Commission to television broadcasting when such apparatus is shipped in interstate commerce, or is imported from any foreign country into the United States, for sale or resale to the public.
 
-(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case inwhich an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio station licenses and radio operator licenses issued by such government with respect to such aircraft.
+(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case in which an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio station licenses and radio operator licenses issued by such government with respect to such aircraft.
 
 (u) Require that apparatus designed to receive television pictures broadcast simultaneously with sound be equipped with built-in decoder circuitry designed to display closed-captioned television transmissions when such apparatus is manufactured in the United States or imported for use in the United States, and its television picture screen is 13 inches or greater in size.
 
@@ -160,7 +160,7 @@ Applicability of rating provision.—The amendment made by subsection (b) of thi
 
 “(2)
 
-Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\].” \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
+Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by suchamendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\].” \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
 
 #### Effective Date of 1992 Amendment
 
@@ -194,7 +194,7 @@ Section 551(a) of Pub. L. 104–104 provided that: “The Congress makes the fol
 
 &emsp;“(5) Children in the United States are, on average, exposed to an estimated 8,000 murders and 100,000 acts of violence on television by the time the child completes elementary school.
 
-&emsp;“(6) Studies indicate that children are affected by the pervasiveness and casual treatment of sexual material on television, eroding the ability of parents todevelop responsible attitudes and behavior in their children.
+&emsp;“(6) Studies indicate that children are affected by the pervasiveness and casual treatment of sexual material on television, eroding the ability of parents to develop responsible attitudes and behavior in their children.
 
 &emsp;“(7) Parents express grave concern over violent and sexual video programming and strongly support technology that would give them greater control to block video programming in the home that they consider harmful to their children.
 

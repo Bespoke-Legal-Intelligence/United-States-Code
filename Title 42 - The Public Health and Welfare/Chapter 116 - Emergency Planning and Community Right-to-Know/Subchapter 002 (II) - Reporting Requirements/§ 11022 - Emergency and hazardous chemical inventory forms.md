@@ -14,7 +14,7 @@
 
 (3) An owner or operator may meet the requirements of this section with respect to a hazardous chemical which is a mixture by doing one of the following:
 
-&emsp;(A) Providing information on the inventory form on each element or compound in the mixture which is a hazardous chemical. If morethan one mixture has the same element or compound, only one listing on the inventory form for the element or compound at the facility is necessary.
+&emsp;(A) Providing information on the inventory form on each element or compound in the mixture which is a hazardous chemical. If more than one mixture has the same element or compound, only one listing on the inventory form for the element or compound at the facility is necessary.
 
 &emsp;(B) Providing information on the inventory form on the mixture itself.
 
@@ -86,7 +86,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (B) Automatic provision of information to public
 
-&emsp;&emsp;Any tier II information which a State emergency response commission or local emergency planning committee has in its possession shall be made available to a person making a request under this paragraph in accordance with section 11044 of this title. If the State emergency response commission or local emergency planning committee does not have the tier II information in its possession, upon a request for tier II information the State emergency response commission or local emergency planning committee shall, pursuant to paragraph (1), request the facility owner or operator for tier II information with respect to a hazardous chemical which a facility has stored in an amount in excess of 10,000 pounds present at the facilityat any time during the preceding calendar year and make such information available in accordance with section 11044 of this title to the person making the request.
+&emsp;&emsp;Any tier II information which a State emergency response commission or local emergency planning committee has in its possession shall be made available to a person making a request under this paragraph in accordance with section 11044 of this title. If the State emergency response commission or local emergency planning committee does not have the tier II information in its possession, upon a request for tier II information the State emergency response commission or local emergency planning committee shall, pursuant to paragraph (1), request the facility owner or operator for tier II information with respect to a hazardous chemical which a facility has stored in an amount in excess of 10,000 pounds present at the facility at any time during the preceding calendar year and make such information available in accordance with section 11044 of this title to the person making the request.
 
 #### (C) Discretionary provision of information to public
 

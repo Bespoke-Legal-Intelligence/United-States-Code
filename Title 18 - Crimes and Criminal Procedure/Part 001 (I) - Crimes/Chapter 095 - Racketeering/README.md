@@ -11,11 +11,13 @@
 | [1957\.](%C2%A7%2001957%20-%20Engaging%20in%20monetary%20transactions%20in%20property%20derived%20from%20specified%20unlawful%20activity.md) | Engaging in monetary transactions in property derived from specified unlawful activity. |
 | [1958\.](%C2%A7%2001958%20-%20Use%20of%20interstate%20commerce%20facilities%20in%20the%20commission%20of%20murder-for-hire.md) | Use of interstate commerce facilities in the commission of murder-for-hire. |
 | [1959\.](%C2%A7%2001959%20-%20Violent%20crimes%20in%20aid%20of%20racketeering%20activity.md) | Violent crimes in aid of racketeering activity. |
-| [1960\.](%C2%A7%2001960%20-%20Prohibition%20of%20illegal%20money%20transmitting%20businesses.md) | Prohibition of illegal money transmitting businesses. |
+| [1960\.](%C2%A7%2001960%20-%20Prohibition%20of%20unlicensed%20money%20transmitting%20businesses.md) | Prohibition of unlicensed money transmitting businesses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–56, title III, §373(c), Oct. 26, 2001, 115 Stat. 340, substituted “unlicensed” for “illegal” in item 1960.
 
 1992—Pub. L. 102–550, title XV, §1512(b), Oct. 28, 1992, 106 Stat. 4058, added item 1960.
 
@@ -53,4 +55,4 @@ This chapter is referred to in section 3582 of this title; title 7 section 12a.
 - [&sect; 01957 - Engaging in monetary transactions in property derived from specified unlawful activity](%C2%A7%2001957%20-%20Engaging%20in%20monetary%20transactions%20in%20property%20derived%20from%20specified%20unlawful%20activity.md)
 - [&sect; 01958 - Use of interstate commerce facilities in the commission of murder-for-hire](%C2%A7%2001958%20-%20Use%20of%20interstate%20commerce%20facilities%20in%20the%20commission%20of%20murder-for-hire.md)
 - [&sect; 01959 - Violent crimes in aid of racketeering activity](%C2%A7%2001959%20-%20Violent%20crimes%20in%20aid%20of%20racketeering%20activity.md)
-- [&sect; 01960 - Prohibition of illegal money transmitting businesses](%C2%A7%2001960%20-%20Prohibition%20of%20illegal%20money%20transmitting%20businesses.md)
+- [&sect; 01960 - Prohibition of unlicensed money transmitting businesses](%C2%A7%2001960%20-%20Prohibition%20of%20unlicensed%20money%20transmitting%20businesses.md)

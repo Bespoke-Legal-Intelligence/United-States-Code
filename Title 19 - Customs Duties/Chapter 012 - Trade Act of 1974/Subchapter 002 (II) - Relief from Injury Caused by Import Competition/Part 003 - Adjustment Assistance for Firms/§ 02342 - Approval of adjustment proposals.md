@@ -24,7 +24,7 @@ Whenever the Secretary determines that any firm no longer requires assistance un
 
 #### Amendments
 
-1986—Subsec. (b)(1). Pub. L. 99–272, §13006(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Adjustment assistance under this part consists of technical assistance and financial assistance, which may be furnished singly or in combination. The Secretary shall approve a firm's application for adjustment assistance only if he determines—
+1986—Subsec. (b)(1). Pub. L. 99–272, §13006(a)(1), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “Adjustment assistance under this part consists of technical assistance and financial assistance, which may be furnished singly or in combination. The Secretary shall approve a firm's application for adjustment assistance only if he determines—
 
 &emsp;“(A) that the firm has no reasonable access to financing through the private capital market, and
 

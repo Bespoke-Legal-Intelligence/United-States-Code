@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(i) use technical data pertaining to the item or process; or
 
-&emsp;&emsp;(ii) release or disclose the technical data to persons outside the government or permitthe use of the technical data by such persons.
+&emsp;&emsp;(ii) release or disclose the technical data to persons outside the government or permit the use of the technical data by such persons.
 
 &emsp;(B) Except as provided in subparagraphs (C) and (D), in the case of an item or process that is developed by a contractor or subcontractor exclusively at private expense, the contractor or subcontractor may restrict the right of the United States to release or disclose technical data pertaining to the item or process to persons outside the government or permit the use of the technical data by such persons.
 

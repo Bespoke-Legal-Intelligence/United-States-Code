@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) such State (i) is the home State of the child on the date of the commencement of the proceeding, or (ii) had been the child's home State within six months before the date of the commencement of the proceeding and the child is absent from such State because of his removal or retention by a contestant or for other reasons, and a contestant continues to live in such State;
 
-&emsp;&emsp;(B)(i) it appears that no other State would have jurisdiction under subparagraph (A), and (ii) it is in the best interest of the child that a court of such State assume jurisdiction because (I) the child and his parents, or the child and at least one contestant, have a significant connection with such State other than mere physical presence in such State,and (II) there is available in such State substantial evidence concerning the child's present or future care, protection, training, and personal relationships;
+&emsp;&emsp;(B)(i) it appears that no other State would have jurisdiction under subparagraph (A), and (ii) it is in the best interest of the child that a court of such State assume jurisdiction because (I) the child and his parents, or the child and at least one contestant, have a significant connection with such State other than mere physical presence in such State, and (II) there is available in such State substantial evidence concerning the child's present or future care, protection, training, and personal relationships;
 
 &emsp;&emsp;(C) the child is physically present in such State and (i) the child has been abandoned, or (ii) it is necessary in an emergency to protect the child because the child, a sibling, or parent of the child has been subjected to or threatened with mistreatment or abuse;
 

@@ -8,3 +8,7 @@ No funds authorized to be appropriated under this chapter may be used by any Sta
 
 This chapter, referred to in text, was in the original this “Act”, meaning Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
+#### Codification
+
+Another section 1011 of Pub. L. 103–227 is classified to section 6054 of this title.
+

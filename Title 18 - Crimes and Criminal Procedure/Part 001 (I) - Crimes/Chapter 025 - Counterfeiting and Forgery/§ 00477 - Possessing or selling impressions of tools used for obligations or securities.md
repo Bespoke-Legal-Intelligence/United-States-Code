@@ -1,12 +1,12 @@
 ### §477. Possessing or selling impressions of tools used for obligations or securities
 
-Whoever, with intent to defraud, possesses, keeps, safeguards, or controls, without authority from the United States, any imprint, stamp, or impression, taken or made upon any substance or material whatsoever, of any tool, implement, instrument or thing, used, fitted or intended to be used, for any of the purposes mentioned in section 476 of this title; or
+Whoever, with intent to defraud, possesses, keeps, safeguards, or controls, without authority from the United States, any imprint, stamp, analog, digital, or electronic image, or impression, taken or made upon any substance or material whatsoever, of any tool, implement, instrument or thing, used, fitted or intended to be used, for any of the purposes mentioned in section 476 of this title; or
 
-Whoever, with intent to defraud, sells, gives, or delivers any such imprint, stamp, or impression to any other person—
+Whoever, with intent to defraud, sells, gives, or delivers any such imprint, stamp, analog, digital, or electronic image, or impression to any other person—
 
-Shall be fined under this title or imprisoned not more than ten years, or both.
+Shall be fined under this title or imprisoned not more than 25 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §374(g), Oct. 26, 2001, 115 Stat. 341.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,13 @@ Changes in phraseology were made.
 
 #### Amendments
 
+2001—Pub. L. 107–56 inserted “analog, digital, or electronic image,” after “imprint, stamp,” in first and second pars. and substituted “25 years” for “ten years” in third par.
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ Election of Reserve Retired Pay.—A person who, after becoming entitled to reti
 
 &emsp;(1) the person would, but for paragraphs (3) and (4) of section 12731(a) of this title, otherwise be entitled to retired pay under this chapter;
 
-&emsp;(2) the person elects under this section to received <sup>1</sup> retired pay under this chapter; and
+&emsp;(2) the person elects under this section to receive retired pay under this chapter; and
 
 &emsp;(3) the person's service in an active status after having become entitled to retired or retainer pay under that chapter is determined by the Secretary concerned to have been satisfactory.
 
@@ -34,7 +34,11 @@ Effective Date of Election.—An election made by a person under subsection (b) 
 
 &emsp;&emsp;(B) the person retires from service in an active status within that 180-day period.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–164.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–164; amended Pub. L. 107–107, div. A, title X, §1048(a)(31), Dec. 28, 2001, 115 Stat. 1225.)
+
+#### Amendments
+
+2001—Subsec. (a)(2). Pub. L. 107–107 substituted “receive” for “received”.
 
 #### Effective Date
 

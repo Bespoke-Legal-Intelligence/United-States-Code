@@ -8,7 +8,7 @@
 
 &emsp;(2) while under orders transferring him to another position designated under subsection (a) or by law to carry one of those grades, beginning on the day his assignment to the first position is terminated and ending on the day before the day on which he assumes the second position;
 
-&emsp;(3) while hospitalized, beginning on the day of the hospitalization and ending on the day he is discharged from the hospital, but not for more than 180 days; and
+&emsp;(3) while hospitalized, beginning on the day of the hospitalization and ending on the dayhe is discharged from the hospital, but not for more than 180 days; and
 
 &emsp;(4) while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but not for more than 60 days.
 
@@ -60,5 +60,5 @@ For provisions relating to temporary appointments of officers serving in grades 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 164, 203, 441, 525, 528, 720, 6325 of this title.
+This section is referred to in sections 164, 203, 441, 525, 720, 6325 of this title.
 

@@ -8,7 +8,7 @@ The Congress recognizes that illicit narcotics cultivation is related to overall
 
 (1) In planning programs of assistance under this part, and part X of this subchapter, and under part IV of subchapter II of this chapter for countries in which there is illicit narcotics cultivation, the agency primarily responsible for administering subchapter I of this chapter should give priority consideration to programs which would help reduce illicit narcotics cultivation by stimulating broader development opportunities.
 
-(2) The agency primarily responsible for administering subchapter I of this chapter mayutilize resources for activities aimed at increasing awareness of the effects of production and trafficking of illicit narcotics on source and transit countries.
+(2) The agency primarily responsible for administering subchapter I of this chapter may utilize resources for activities aimed at increasing awareness of the effects of production and trafficking of illicit narcotics on source and transit countries.
 
 #### (c) Administrative requirements
 

@@ -70,7 +70,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 &emsp;(ii) shall take account of the public trading activity in such securities, the character of such trading, the impact of such extension on the existing markets for such securities, and the desirability of removing impediments to and the progress that has been made toward the development of a national market system; and
 
-&emsp;(iii) shall not permit a national securities exchange to extend unlisted trading privileges to such securities if any rule of such national securities exchange would unreasonably impair the ability of a dealer to solicit or effect transactions in such securities for its own account, or would unreasonably restrict competition among dealers in such securities or between such dealers acting in the capacity of market makers who are specialists and such dealers who are not specialists.
+&emsp;(iii) shall not permit a national securities exchange to extend unlisted trading privileges to such securities if any rule of such national securities exchange would unreasonably impair the ability of a dealer to solicit or effect transactions in such securities for its own account, or would unreasonably restrict competition among dealers in such securities orbetween such dealers acting in the capacity of market makers who are specialists and such dealers who are not specialists.
 
 (F) An exchange may continue to extend unlisted trading privileges in accordance with this paragraph only if the exchange and the subject security continue to satisfy the requirements for eligibility under this paragraph, including any rules and regulations issued by the Commission pursuant to this paragraph, except that unlisted trading privileges may continue with regard to securities which had been admitted on such exchange prior to July 1, 1964, notwithstanding the failure to satisfy such requirements. If unlisted trading privileges in a security are discontinued pursuant to this subparagraph, the exchange shall cease trading in that security, unless the exchange and the subject security thereafter satisfy the requirements of this paragraph and the rules issued hereunder.
 
@@ -104,7 +104,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 (4) On the application of the issuer of any security for which unlisted trading privileges on any exchange have been continued or extended pursuant to this subsection, or of any broker or dealer who makes or creates a market for such security, or of any other person having a bona fide interest in the question of termination or suspension of such unlisted trading privileges, or on its own motion, the Commission shall by order terminate, or suspend for a period not exceeding twelve months, such unlisted trading privileges for such security if the Commission finds, after appropriate notice and opportunity for hearing, that such termination or suspension is necessary or appropriate in the public interest or for the protection of investors.
 
-(5) In any proceeding under this subsection in which appropriate notice and opportunity for hearing are required, notice of not less than ten days to the applicant in such proceeding, to the issuer of the security involved, to the exchange which is seeking to continue or extend or has continued or extended unlisted trading privileges for such security, and to the exchange, if any, on which such security is listed and registered, shall be deemed adequate notice, and any broker or dealer who makes or creates a market for such security, and any other person having a bona fide interest in such proceeding, shall upon application be entitled to be heard.
+(5) In any proceeding under this subsection in which appropriate notice and opportunity for hearing are required, notice of not less than ten days to the applicant in such proceeding, to the issuer of the security involved, to the exchange which is seeking to continue or extend or has continued or extended unlisted trading privileges for such security, and to the exchange, if any, on which such security is listed and registered, shall be deemed adequate notice, and any broker or dealer who makes or creates amarket for such security, and any other person having a bona fide interest in such proceeding, shall upon application be entitled to be heard.
 
 (6) Any security for which unlisted trading privileges are continued or extended pursuant to this subsection shall be deemed to be registered on a national securities exchange within the meaning of this chapter. The powers and duties of the Commission under this chapter shall be applicable to the rules of an exchange in respect of any such security. The Commission may, by such rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors, either unconditionally or upon specified terms and conditions, or for stated periods, exempt such securities from the operation of any provision of section 78m, 78n, or 78p of this title.
 
@@ -112,7 +112,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 (1) Every issuer which is engaged in interstate commerce, or in a business affecting interstate commerce, or whose securities are traded by use of the mails or any means or instrumentality of interstate commerce shall—
 
-&emsp;(A) within one hundred and twenty days after the last day of its first fiscal year endedafter July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by seven hundred and fifty or more persons; and
+&emsp;(A) within one hundred and twenty days after the last day of its first fiscal year ended after July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by seven hundred and fifty or more persons; and
 
 &emsp;(B) within one hundred and twenty days after the last day of its first fiscal year ended after two years from July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by five hundred or more but less than seven hundred and fifty persons,
 
@@ -140,7 +140,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 &emsp;&emsp;(iii) After July 1, 1966, the purchase and sales of securities issued by such insurance company by beneficial owners, directors, or officers of such company are subject to regulation (including reporting) by its domiciliary State substantially in the manner provided in section 78p of this title.
 
-&emsp;(H) any interest or participation in any collective trust funds maintained by a bank or in a separate account maintained by an insurance company which interest or participation is issued in connection with (i) a stock-bonus, pension, or profit-sharing plan which meets the requirements for qualification under section 401 of title 26, or (ii) an annuity plan which meets the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26.
+&emsp;(H) any interest or participation in any collective trust funds maintained by a bank or in a separate account maintained by an insurance company which interest or participation is issued in connection with (i) a stock-bonus, pension, or profit-sharing plan which meets the requirements for qualification under section 401 of title 26, or (ii) an annuity planwhich meets the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26.
 
 (3) The Commission may by rules or regulations or, on its own motion, after notice and opportunity for hearing, by order, exempt from this subsection any security of a foreign issuer, including any certificate of deposit for such a security, if the Commission finds that such exemption is in the public interest and is consistent with the protection of investors.
 
@@ -166,7 +166,7 @@ The Commission is authorized, by order, as it deems necessary or appropriate for
 
 &emsp;If in its opinion the public interest and the protection of investors so require, the Commission is authorized by order—
 
-&emsp;&emsp;(A) summarily to suspend trading in any security (other than an exempted security) for a period not exceeding 10 business days, and
+&emsp;&emsp;(A) summarily to suspend trading in any security (other than an exempted security)for a period not exceeding 10 business days, and
 
 &emsp;&emsp;(B) summarily to suspend all trading on any national securities exchange or otherwise, in securities other than exempted securities, for a period not exceeding 90 calendar days.
 

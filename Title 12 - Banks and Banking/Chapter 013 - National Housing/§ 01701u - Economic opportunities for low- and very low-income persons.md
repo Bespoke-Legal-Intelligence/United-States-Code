@@ -74,7 +74,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 #### (B) Priority
 
-&emsp;&emsp;Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-incomepersons residing within the service area of the project or the neighborhood in which the project is located and to Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12899 et seq.\].
+&emsp;&emsp;Where feasible, priority should be given to business concerns which provide economic opportunities for low- and very low-income persons residing within the service area of the project or the neighborhood in which the project is located and to Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12899 et seq.\].
 
 #### (e) Definitions
 
@@ -96,7 +96,7 @@ For the purposes of this section the following definitions shall apply:
 
 #### (f) Coordination with other Federal agencies
 
-The Secretary shall consult with the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Commerce, the Administrator of the Small Business Administration, and such other Federal agencies as the Secretary determines are necessary to carry out this section.
+The Secretary shall consult with the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Commerce,the Administrator of the Small Business Administration, and such other Federal agencies as the Secretary determines are necessary to carry out this section.
 
 #### (g) Regulations
 
@@ -182,7 +182,7 @@ Impediments.—The discussion under subsection (a)(2) of the external impediment
 
 “(c)
 
-Consultation.—In preparing the report under this subsection, the Secretary shall consult with the Secretary of Labor, the Secretary of Commerce, the Secretary of Health and Human Services, the Administrator of the Small Business Administration, other appropriate Federal officials, and recipients of Federal housing and community development assistance who are responsible for executing section 3 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701u\].”
+Consultation.—In preparing the report under this subsection, the Secretary shall consult with the Secretary of Labor, the Secretary of Commerce, the Secretary of Health and Human Services, the Administrator of the Small Business Administration, other appropriate Federal officials, and recipients of Federal housing and community development assistance whoare responsible for executing section 3 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701u\].”
 
 #### Section Referred to in Other Sections
 

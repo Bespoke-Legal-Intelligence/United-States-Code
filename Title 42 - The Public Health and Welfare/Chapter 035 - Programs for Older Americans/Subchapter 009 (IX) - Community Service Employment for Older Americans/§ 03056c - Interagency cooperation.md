@@ -12,7 +12,7 @@ The Secretary shall consult and cooperate with the Director of the Office of Com
 
 (1) The Secretary shall promote and coordinate carrying out projects under this subchapter jointly with programs, projects, or activities under other Acts, especially activities provided under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.), including activities provided through one-stop delivery systems established under section 134(c) of such Act (29 U.S.C. 2864(c)), that provide training and employment opportunities to eligible individuals.
 
-(2) The Secretary shall consult with the Secretary of Education to promote and coordinate carrying out projects under this subchapter jointly with workforce investment activities inwhich eligible individuals may participate that are carried out under the Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\].
+(2) The Secretary shall consult with the Secretary of Education to promote and coordinate carrying out projects under this subchapter jointly with workforce investment activities in which eligible individuals may participate that are carried out under the Carl D. Perkins Vocational and Technical Education Act of 1998 \[20 U.S.C. 2301 et seq.\].
 
 (Pub. L. 89–73, title V, §505, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2276.)
 
@@ -20,7 +20,7 @@ The Secretary shall consult and cooperate with the Director of the Office of Com
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (c)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (c)(2), is Pub.L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 #### Prior Provisions
 

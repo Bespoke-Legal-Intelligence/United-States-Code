@@ -26,7 +26,7 @@
 
 #### (3) Cause of loss
 
-&emsp;To qualify for assistance under this section, the losses of the noninsured commodity shall be due to drought, flood, or other natural disaster, as determined by the Secretary.
+&emsp;To qualify for assistance under this section, the losses of the noninsured commodity shallbe due to drought, flood, or other natural disaster, as determined by the Secretary.
 
 #### (b) Application for noninsured crop disaster assistance
 

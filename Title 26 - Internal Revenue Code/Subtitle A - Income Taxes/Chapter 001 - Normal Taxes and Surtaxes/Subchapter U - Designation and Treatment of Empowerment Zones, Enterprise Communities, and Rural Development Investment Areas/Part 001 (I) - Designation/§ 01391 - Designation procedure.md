@@ -70,7 +70,7 @@ No area may be designated under this section unless the application for such des
 
 &emsp;&emsp;(B) describes the process by which the affected community is a full partner in the process of developing and implementing the plan and the extent to which local institutions and organizations have contributed to the planning process,
 
-&emsp;&emsp;(C) identifies the amount of State, local, and private resources that will be available in the nominated area and the private/public partnerships to be used, which may include participation by, and cooperation with, universities, medical centers, and other private and public entities,
+&emsp;&emsp;(C) identifies the amount of State, local, and private resources that will be availablein the nominated area and the private/public partnerships to be used, which may include participation by, and cooperation with, universities, medical centers, and other private and public entities,
 
 &emsp;&emsp;(D) identifies the funding requested under any Federal program in support of the proposed economic, human, community, and physical development and related activities,
 
@@ -116,7 +116,7 @@ No area may be designated under this section unless the application for such des
 
 #### (iv) Certain provisions not to apply
 
-&emsp;&emsp;&emsp;Section 1392(a)(4) (and so much of paragraphs (1) and (2) of section 1392(b) as relate to section 1392(a)(4)) shall not apply toan area nominated for designation under this subsection.
+&emsp;&emsp;&emsp;Section 1392(a)(4) (and so much of paragraphs (1) and (2) of section 1392(b) as relate to section 1392(a)(4)) shall not apply to an area nominated for designation under this subsection.
 
 #### (v) Special rule for rural empowerment zone
 

@@ -38,7 +38,7 @@
 
 (3) Notwithstanding any other provision of this title or other law, all matters relating to adverse actions, disciplinary actions, and grievance procedures involving individuals appointed to such positions (including similar actions and procedures involving an employee in a probationary status) shall be resolved under the provisions of title 5 as though such individuals had been appointed under that title.
 
-(g)(1) The Secretary may appoint in the competitive civil service without regard to the provisions of subchapter I of chapter 33 of title 5 (other than sections 3303 and 3328 of such title) an individual who—
+(g)(1) The Secretary may appoint in the competitive civil service without regard to the provisions of subchapter I of chapter 33 of title 5\(other than sections 3303 and 3328 of such title) an individual who—
 
 &emsp;(A) has a recognized degree or certificate from an accredited institution in a health-care profession or occupation; and
 

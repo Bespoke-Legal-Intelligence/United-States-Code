@@ -2,7 +2,7 @@
 
 #### (a) Criteria
 
-The Secretary of the Treasury shall instruct the United States Executive Director of theInternational Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to advocate and support the facilitation of voluntary market-based programs for the reduction of sovereign debt and the promotion of sustainable economic development, which, if implemented, would—
+The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to advocate and support the facilitation of voluntary market-based programs for the reduction of sovereign debt and the promotion of sustainable economic development, which, if implemented, would—
 
 &emsp;(1) not require any organization or government to participate in such a program;
 

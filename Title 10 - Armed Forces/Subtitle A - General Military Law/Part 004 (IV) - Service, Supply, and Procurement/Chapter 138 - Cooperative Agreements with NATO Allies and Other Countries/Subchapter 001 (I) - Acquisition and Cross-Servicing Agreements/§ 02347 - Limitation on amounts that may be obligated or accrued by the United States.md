@@ -4,7 +4,7 @@
 
 (2) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable liabilities that the United States may accrue under this subchapter (before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements, may not exceed $60,000,000 in any fiscal year, and of such amount not more than $20,000,000 in liabilities may be accrued for the acquisition of supplies (other than petroleum, oils, and lubricants). The $60,000,000 limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
 
-(b)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North AtlanticTreaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $150,000,000 in any fiscal year.
+(b)(1) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with other member countries of the North Atlantic Treaty Organization, subsidiary bodies of the North Atlantic Treaty Organization, or from the United Nations Organization or any regional international organization of which the United States is a member may not exceed $150,000,000 in any fiscal year.
 
 (2) Except during a period of active hostilities involving the armed forces, the total amount of reimbursable credits that the United States may accrue under this subchapter (before the computation of offsetting balances) with a country which is not a member of the North Atlantic Treaty Organization, but with which the United States has one or more acquisition or cross-servicing agreements may not exceed $75,000,000 in any fiscal year. Such limitation specified in this paragraph is in addition to the limitation specified in paragraph (1).
 
@@ -18,7 +18,7 @@
 
 Subsec. (a)(2). Pub. L. 103–337, §1317(g)(2), substituted “$60,000,000” for “$10,000,000” in two places and “$20,000,000” for “$2,500,000”.
 
-Subsec. (b)(1). Pub. L. 103–337, §1317(g)(3), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization of which the United States is a member” after “Treaty Organization”, and substituted “$150,000,000” for “$100,000,000”.
+Subsec. (b)(1). Pub. L. 103–337, §1317(g)(3), substituted “Organization, subsidiary” for “Organization and subsidiary”, inserted “, or from the United Nations Organization or any regional international organization ofwhich the United States is a member” after “Treaty Organization”, and substituted “$150,000,000” for “$100,000,000”.
 
 Subsec. (b)(2). Pub. L. 103–337, §1317(g)(4), substituted “$75,000,000” for “$10,000,000”.
 

@@ -40,7 +40,7 @@ The President may release the Government of Pakistan of its contractual obligati
 
 #### (g) Inapplicability of restrictions to previously owned items
 
-Subsection (e) of this section does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipmentor equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
+Subsection (e) of this section does not apply to broken, worn or unupgraded items or their equivalent which Pakistan paid for and took possession of prior to October 1, 1990 and which the Government of Pakistan sent to the United States for repair or upgrade. Such equipment or its equivalent may be returned to the Government of Pakistan: <i>Provided</i>, That the President determines and so certifies to the appropriate congressional committees that such equipment or equivalent neither constitutes nor has received any significant qualitative upgrade since being transferred to the United States and that its total value does not exceed $25,000,000.
 
 #### (h) Ballistic missile sanctions not affected
 

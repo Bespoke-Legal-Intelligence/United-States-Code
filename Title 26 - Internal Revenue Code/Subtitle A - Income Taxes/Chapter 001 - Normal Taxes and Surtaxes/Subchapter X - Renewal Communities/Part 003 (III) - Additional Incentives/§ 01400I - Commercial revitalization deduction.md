@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified revitalization expenditure” means any amount properly chargeable to capital account for property forwhich depreciation is allowable under section 168 (without regard to this section) and which is—
+&emsp;&emsp;The term “qualified revitalization expenditure” means any amount properly chargeable to capital account for property for which depreciation is allowable under section 168 (without regard to this section) and which is—
 
 &emsp;&emsp;&emsp;(i) nonresidential real property (as defined in section 168(e)), or
 

@@ -1,0 +1,8 @@
+### §7727. Outreach for eligible dependents
+
+(a) In carrying out this subchapter, the Secretary shall ensure that the needs of eligible dependents are fully addressed.
+
+(b) The Secretary shall ensure that the availability of outreach services and assistance for eligible dependents under this subchapter is made known through a variety of means, including the Internet, announcements in veterans publications, and announcements to the media.
+
+(Added Pub. L. 107–14, §6(b)(1), June 5, 2001, 115 Stat. 31.)
+

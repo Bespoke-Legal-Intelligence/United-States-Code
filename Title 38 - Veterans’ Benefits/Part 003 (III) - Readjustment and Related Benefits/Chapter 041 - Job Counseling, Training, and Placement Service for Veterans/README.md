@@ -18,11 +18,13 @@
 | [4110\.](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%20and%20Training.md) | Advisory Committee on Veterans Employment and Training. |
 | [4110A.](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md) | Special unemployment study. |
 | [4110B.](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md) | Coordination and nonduplication. |
-| [4111\.](%C2%A7%2004111%20-%20Homeless%20veterans%E2%80%99%20reintegration%20programs.md) | Homeless veterans’ reintegration programs. |
+| \[4111. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–95, §5(g)(3), Dec. 21, 2001, 115 Stat. 919, struck out item 4111 “Homeless veterans’ reintegration programs”.
 
 2000—Pub. L. 106–419, title IV, §404(a)(8), Nov. 1, 2000, 114 Stat. 1865, added item 4110B.
 
@@ -36,7 +38,7 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 
 1982—Pub. L. 97–306, title III, §§301(b)(1), 304(a)(2), 308(b), Oct. 14, 1982, 96 Stat. 1437, 1438, 1441, added item 2000, substituted “State and Assistant State Directors for Veterans’ Employment” for “Assignment of veterans’ employment representative” in item 2003 and added items 2009 and 2010.
 
-1980—Pub. L. 96–466, title V, §§504(a)(1), 506(b), Oct. 17, 1980, 94 Stat. 2203, 2205, struck out “Deputy” before“Assistant Secretary” in item 2002A and added item 2003A.
+1980—Pub. L. 96–466, title V, §§504(a)(1), 506(b), Oct. 17, 1980, 94 Stat. 2203, 2205, struck out “Deputy” before “Assistant Secretary” in item 2002A and added item 2003A.
 
 1976—Pub. L. 94–502, title VI, §601(b)(2), Oct. 15, 1976, 90 Stat. 2404, added item 2002A.
 
@@ -71,4 +73,4 @@ This chapter is referred to in title 20 section 9271; title 29 sections 2822, 28
 - [&sect; 04110 - Advisory Committee on Veterans Employment and Training](%C2%A7%2004110%20-%20Advisory%20Committee%20on%20Veterans%20Employment%20and%20Training.md)
 - [&sect; 04110A - Special unemployment study](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md)
 - [&sect; 04110B - Coordination and nonduplication](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md)
-- [&sect; 04111 - Homeless veterans&#8217; reintegration programs](%C2%A7%2004111%20-%20Homeless%20veterans%E2%80%99%20reintegration%20programs.md)
+- [&sect; 04111 - Repealed. Pub. L. 107&#8211;95, &sect;5(e)(3), Dec. 21, 2001, 115 Stat. 918](%C2%A7%2004111%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9395%2C%20%C2%A75%28e%29%283%29%2C%20Dec.%2021%2C%202001%2C%20115%20Stat.%20918.md)

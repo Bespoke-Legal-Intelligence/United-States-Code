@@ -61,7 +61,7 @@ The tax imposed by this section shall apply only to use before October 1, 2005.
 
 Subsec. (e). Pub. L. 100–17, §502(a)(5), substituted “1993” for “1988”.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §901(a), in amending subsec. (a) generally, substituted “55,000” for “33,000” in provisions preceding table, struck out heading “(1) In general”, substituted table provisions for former table which provided:
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §901(a), in amending subsec. (a) generally, substituted “55,000” for “33,000”in provisions preceding table, struck out heading “(1) In general”, substituted table provisions for former table which provided:
 
 &nbsp;
 

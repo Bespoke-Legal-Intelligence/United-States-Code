@@ -56,7 +56,7 @@
 
 &emsp;To be eligible to receive a grant or contract under this subsection, an entity shall provide an assurance, in the application submitted by the entity, that—
 
-&emsp;&emsp;(A) amounts received under such a grant or contract will be used to award a fellowship to an individual only if the individual meets the requirements of paragraphs (3) and (4); and
+&emsp;&emsp;(A) amounts received under such a grant or contract will be used to award a fellowship to an individual only if the individualmeets the requirements of paragraphs (3) and (4); and
 
 &emsp;&emsp;(B) each fellowship awarded pursuant to the grant or contract will include—
 

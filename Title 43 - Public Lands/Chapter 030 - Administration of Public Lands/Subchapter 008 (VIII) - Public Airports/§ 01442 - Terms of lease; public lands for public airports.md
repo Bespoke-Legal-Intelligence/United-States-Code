@@ -34,7 +34,7 @@ Section 1505(2) of Pub. L. 85–726 provided that the amendment made by Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of certain real property and functions relating to real property, insofar as they pertain to Air Force, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order No. 14 \[§2(17)\], eff. July 1, 1948.
+For transfer of certain real property and functions relating to real property, insofar as they pertain to AirForce, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order No. 14 \[§2(17)\], eff. July 1, 1948.
 
 #### Section Referred to in Other Sections
 

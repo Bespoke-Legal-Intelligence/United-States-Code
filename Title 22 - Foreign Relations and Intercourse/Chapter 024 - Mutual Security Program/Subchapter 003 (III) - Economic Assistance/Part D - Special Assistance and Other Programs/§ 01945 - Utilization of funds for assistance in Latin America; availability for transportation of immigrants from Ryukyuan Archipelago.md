@@ -18,3 +18,7 @@ This section was not enacted as part of the Mutual Security Act of 1954 which co
 
 Section 706 of Pub. L. 87–195, cited as a credit to this section was repealed by section 401 of Pub. L. 87–565, pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 706 affected this section.
 
+#### Delegation of Functions
+
+For delegation of certain functions of President under this section, see Memorandum of President of May 30, 2001, 66 F.R. 30629, set out as a note under section 1942 of this title.
+

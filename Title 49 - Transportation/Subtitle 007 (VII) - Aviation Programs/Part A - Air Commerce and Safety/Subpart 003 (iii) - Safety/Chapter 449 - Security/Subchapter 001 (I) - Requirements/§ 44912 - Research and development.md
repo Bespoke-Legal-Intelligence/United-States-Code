@@ -2,9 +2,9 @@
 
 (a)
 
-Program Requirement.—(1) The Administrator of the Federal Aviation Administration shall establish and carry out a program to accelerate and expand the research, development, and implementation of technologies and procedures to counteract terrorist acts against civil aviation. The program shall provide for developing and having in place, not later than November 16, 1993, new equipment and procedures necessary to meet the technological challenges presented by terrorism. The program shall include research on, and development of, technological improvements and ways to enhance human performance.
+Program Requirement.—(1) The Under Secretary of Transportation for Security shall establish and carry out a program to accelerate and expand the research, development, and implementation of technologies and procedures to counteract terrorist acts against civil aviation. The program shall provide for developing and having in place, not later than November 16, 1993, new equipment and procedures necessary to meet the technological challenges presented by terrorism. The program shall include research on, and development of, technological improvements and ways to enhance human performance.
 
-(2) In designing and carrying out the program established under this subsection, the Administrator shall—
+(2) In designing and carrying out the program established under this subsection, the Under Secretary shall—
 
 &emsp;(A) consult and coordinate activities with other departments, agencies, and instrumentalities of the United States Government doing similar research;
 
@@ -12,45 +12,73 @@ Program Requirement.—(1) The Administrator of the Federal Aviation Administrat
 
 &emsp;(C) seek cost-sharing agreements with those departments, agencies, and instrumentalities.
 
-(3) In carrying out the program established under this subsection, the Administrator shall review and consider the annual reports the Secretary of Transportation submits to Congress on transportation security and intelligence.
+(3) In carrying out the program established under this subsection, the Under Secretary shall review and consider the annual reports the Secretary of Transportation submits to Congress on transportation security and intelligence.
 
-(4) The Administrator may—
+(4)(A) In carrying out the program established under this subsection, the Administrator shall designate an individual to be responsible for engineering, research, and development with respect to security technology under the program.
+
+(B) The individual designated under subparagraph (A) shall use appropriate systems engineering and risk management models in making decisions regarding the allocation of funds for engineering, research, and development with respect to security technology under the program.
+
+(C) The individual designated under subparagraph (A) shall, on an annual basis, submit to the Research, Engineering and Development Advisory Committee a report on activities under this paragraph during the preceding year. Each report shall include, for the year covered by such report, information on—
+
+&emsp;(i) progress made in engineering, research, and development with respect to security technology;
+
+&emsp;(ii) the allocation of funds for engineering, research, and development with respect to security technology; and
+
+&emsp;(iii) engineering, research, and development with respect to any technologies drawn from other agencies, including the rationale for engineering, research, and development with respect to such technologies.
+
+(5) The Under Secretary may—
 
 &emsp;(A) make grants to institutions of higher learning and other appropriate research facilities with demonstrated ability to carry out research described in paragraph (1) of this subsection, and fix the amounts and terms of the grants; and
 
-&emsp;(B) make cooperative agreements with governmental authorities the Administrator decides are appropriate.
+&emsp;(B) make cooperative agreements with governmental authorities the Under Secretary decides are appropriate.
 
 (b)
 
-Review of Threats.—(1) The Administrator shall complete an intensive review of threats to civil aviation, with particular focus on—
+Review of Threats.—(1) The Under Secretary shall periodically review threats to civil aviation, with particular focus on—
 
-&emsp;(A) explosive material that presents the most significant threat to civil aircraft;
+&emsp;(A) a comprehensive systems analysis (employing vulnerability analysis, threat attribute definition, and technology roadmaps) of the civil aviation system, including—
 
-&emsp;(B) the minimum amounts, configurations, and types of explosive material that can cause, or would reasonably be expected to cause, catastrophic damage to commercial aircraft in service and expected to be in service in the 10-year period beginning on November 16, 1990;
+&emsp;&emsp;(i) the destruction, commandeering, or diversion of civil aircraft or the use of civil aircraft as a weapon; and
 
-&emsp;(C) the amounts, configurations, and types of explosive material that can be detected reliably by existing, or reasonably anticipated, near-term explosive detection technologies;
+&emsp;&emsp;(ii) the disruption of civil aviation service, including by cyber attack;
 
-&emsp;(D) the feasibility of using various ways to minimize damage caused by explosive material that cannot be detected reliably by existing, or reasonably anticipated, near-term explosive detection technologies;
+&emsp;(B) explosive material that presents the most significant threat to civil aircraft;
 
-&emsp;(E) the ability to screen passengers, carry-on baggage, checked baggage, and cargo; and
+&emsp;(C) the minimum amounts, configurations, and types of explosive material that can cause, or would reasonably be expected to cause, catastrophic damage to aircraft in air transportation;
 
-&emsp;(F) the technologies that might be used in the future to attempt to destroy or otherwise threaten commercial aircraft and the way in which those technologies can be countered effectively.
+&emsp;(D) the amounts, configurations, and types of explosive material that can be detected reliably by existing, or reasonably anticipated, near-term explosive detection technologies;
 
-(2) The Administrator shall use the results of the review under this subsection to develop the focus and priorities of the program established under subsection (a) of this section.
+&emsp;(E) the potential release of chemical, biological, or similar weapons or devices either within an aircraft or within an airport;
+
+&emsp;(F) the feasibility of using various ways to minimize damage caused by explosive material that cannot be detected reliably by existing, or reasonably anticipated, near-term explosive detection technologies;
+
+&emsp;(G) the ability to screen passengers, carry-on baggage, checked baggage, and cargo; and
+
+&emsp;(H) the technologies that might be used in the future to attempt to destroy or otherwise threaten commercial aircraft and the way in which those technologies can be countered effectively.
+
+(2) The Under Secretary shall use the results of the review under this subsection to develop the focus and priorities of the program established under subsection (a) of this section.
 
 (c)
 
-Scientific Advisory Panel.—The Administrator shall establish a scientific advisory panel, as a subcommittee of the Research, Engineering and Development Advisory Committee, to review, comment on, advise on the progress of, and recommend modifications in, the program established under subsection (a) of this section, including the need for long-range research programs to detect and prevent catastrophic damage to commercial aircraft by the next generation of terrorist weapons. The panel shall consist of individuals with scientific and technical expertise in—
+Scientific Advisory Panel.—(1) The Administrator shall establish a scientific advisory panel, as a subcommittee of the Research, Engineering, and Development Advisory Committee, to review, comment on, advise the progress of, and recommend modifications in, the program established under subsection (a) of this section, including the need for long-range research programs to detect and prevent catastrophic damage to commercial aircraft, commercial aviation facilities, commercial aviation personnel and passengers, and other components of the commercial aviation system by the next generation of terrorist weapons.
 
-&emsp;(1) the development and testing of effective explosive detection systems;
+(2)(A) The advisory panel shall consist of individuals who have scientific and technical expertise in—
 
-&emsp;(2) aircraft structure and experimentation to decide on the type and minimum weights of explosives that an effective technology must be capable of detecting;
+&emsp;(i) the development and testing of effective explosive detection systems;
 
-&emsp;(3) technologies involved in minimizing airframe damage to aircraft from explosives; and
+&emsp;(ii) aircraft structure and experimentation to decide on the type and minimum weights of explosives that an effective explosive detection technology must be capable of detecting;
 
-&emsp;(4) other scientific and technical areas the Administrator considers appropriate.
+&emsp;(iii) technologies involved in minimizing airframe damage to aircraft from explosives; and
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1212.)
+&emsp;(iv) other scientific and technical areas the Administrator considers appropriate.
+
+(B) In appointing individuals to the advisory panel, the Administrator should consider individuals from academia and the national laboratories, as appropriate.
+
+(3) The Administrator shall organize the advisory panel into teams capable of undertaking the review of policies and technologies upon request.
+
+(4) Not later than 90 days after the date of the enactment of the Aviation and Transportation Security Act, and every two years thereafter, the Administrator shall review the composition of the advisory panel in order to ensure that the expertise of the individuals on the panel is suited to the current and anticipated duties of the panel.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1212; Pub. L. 107–71, title I, §§101(f)(7), (9), 112, Nov. 19, 2001, 115 Stat. 603, 620.)
 
 Historical and Revision Notes
 
@@ -85,6 +113,104 @@ In subsection (a)(4), the words “The Administrator may . . . make grants” 
 In subsection (b)(1), before clause (A), the words “Not later than 180 days after November 16, 1990” are omitted as obsolete. Clause (B) is substituted for 49 App.:1357(d)(3)(B)(ii) and (iii) for clarity and to eliminate unnecessary words.
 
 In subsection (b)(1)(E), the word “mail” is omitted as being included in “cargo”.
+
+#### References in Text
+
+The date of the enactment of the Aviation and Transportation Security Act, referred to in subsec. (c)(4), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+
+#### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+
+Subsec. (a)(2), (3). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
+
+Subsec. (a)(4). Pub. L. 107–71, §112(b)(1)(B), added par. (4). Former par. (4) redesignated (5).
+
+Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
+
+Subsec. (a)(5). Pub. L. 107–71, §112(b)(1)(A), redesignated par. (4) as (5).
+
+Subsec. (b)(1). Pub. L. 107–71, §§101(f)(7), 112(a)(1), in introductory provisions, substituted “Under Secretary” for “Administrator” and “periodically review” for “complete an intensive review of”.
+
+Subsec. (b)(1)(A). Pub. L. 107–71, §112(b)(2)(B), added subpar. (A). Former subpar. (A) redesignated (B).
+
+Subsec. (b)(1)(B). Pub. L. 107–71, §112(b)(2)(A), redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
+
+Pub. L. 107–71, §112(a)(2), substituted “aircraft in air transportation;” for “commercial aircraft in service and expected to be in service in the 10-year period beginning on November 16, 1990;”.
+
+Subsec. (b)(1)(C). Pub. L. 107–71, §112(b)(2)(A), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+
+Subsec. (b)(1)(D). Pub. L. 107–71, §112(b)(2)(A), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+
+Pub. L. 107–71, §112(a)(3), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (b)(1)(E) to (G). Pub. L. 107–71, §112(b)(2)(A), redesignated subpars. (D) to (F) as (E) to (G), respectively. Former subpar. (G) redesignated (H).
+
+Pub. L. 107–71, §112(a)(3), redesignated subpars. (D) to (F) as (E) to (G), respectively.
+
+Subsec. (b)(1)(H). Pub. L. 107–71, §112(b)(2)(A), redesignated subpar. (G) as (H).
+
+Subsec. (b)(2). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
+
+Subsec. (c). Pub. L. 107–71, §112(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The Administrator shall establish a scientific advisory panel, as a subcommittee of the Research, Engineering and Development Advisory Committee, to review, comment on, advise on the progress of, and recommend modifications in, the program established under subsection (a) of this section, including the need for long-range research programs to detect and prevent catastrophic damage to commercial aircraft by the next generation of terrorist weapons. The panel shall consist of individuals with scientific and technical expertise in—
+
+&emsp;“(1) the development and testing of effective explosive detection systems;
+
+&emsp;“(2) aircraft structure and experimentation to decide on the type and minimum weights of explosives that an effective technology must be capable of detecting;
+
+&emsp;“(3) technologies involved in minimizing airframe damage to aircraft from explosives; and
+
+&emsp;“(4) other scientific and technical areas the Administrator considers appropriate.”
+
+#### Research and Development of Aviation Security Technology
+
+Pub. L. 107–71, title I, §137, Nov. 19, 2001, 115 Stat. 637, provided that:
+
+“(a)
+
+Funding.—To augment the programs authorized in section 44912(a)(1) of title 49, United States Code, there is authorized to be appropriated an additional $50,000,000 for each of fiscal years 2002 through 2006 and such sums as are necessary for each fiscal year thereafter to the Transportation Security Administration, for research, development, testing, and evaluation of the following technologies which may enhance aviation security in the future. Grants to industry, academia, and Government entities to carry out the provisions of this section shall be available for fiscal years 2002 and 2003 for—
+
+&emsp;“(1) the acceleration of research, development, testing, and evaluation of explosives detection technology for checked baggage, specifically, technology that is—
+
+&emsp;&emsp;“(A) more cost-effective for deployment for explosives detection in checked baggage at small- to medium-sized airports, and is currently under development as part of the Argus research program at the Transportation Security Administration;
+
+&emsp;&emsp;“(B) faster, to facilitate screening of all checked baggage at larger airports; or
+
+&emsp;&emsp;“(C) more accurate, to reduce the number of false positives requiring additional security measures;
+
+&emsp;“(2) acceleration of research, development, testing, and evaluation of new screening technology for carry-on items to provide more effective means of detecting and identifying weapons, explosives, and components of weapons of mass destruction, including advanced x-ray technology;
+
+&emsp;“(3) acceleration of research, development, testing, and evaluation of threat screening technology for other categories of items being loaded onto aircraft, including cargo, catering, and duty-free items;
+
+&emsp;“(4) acceleration of research, development, testing, and evaluation of threats carried on persons boarding aircraft or entering secure areas, including detection of weapons, explosives, and components of weapons of mass destruction;
+
+&emsp;“(5) acceleration of research, development, testing and evaluation of integrated systems of airport security enhancement, including quantitative methods of assessing security factors at airports selected for testing such systems;
+
+&emsp;“(6) expansion of the existing program of research, development, testing, and evaluation of improved methods of education, training, and testing of key airport security personnel; and
+
+&emsp;“(7) acceleration of research, development, testing, and evaluation of aircraft hardening materials, and techniques to reduce the vulnerability of aircraft to terrorist attack.
+
+“(b)
+
+Grants.—Grants awarded under this subtitle \[probably should be “this section”\] shall identify potential outcomes of the research, and propose a method for quantitatively assessing effective increases in security upon completion of the research program. At the conclusion of each grant, the grant recipient shall submit a final report to the Transportation Security Administration that shall include sufficient information to permit the Under Secretary of Transportation for Security to prepare a cost-benefit analysis of potential improvements to airport security based upon deployment of the proposed technology. The Under Secretary shall begin awarding grants under this subtitle within 90 days of the date of enactment of this Act \[Nov. 19, 2001\].
+
+“(c)
+
+Budget Submission.—A budget submission and detailed strategy for deploying the identified security upgrades recommended upon completion of the grants awarded under subsection (b), shall be submitted to Congress as part of the Department of Transportation's annual budget submission.
+
+“(d)
+
+Defense Research.—There is authorized to be appropriated $20,000,000 to the Transportation Security Administration to issue research grants in conjunction with the Defense Advanced Research Projects Agency. Grants may be awarded under this section for—
+
+&emsp;“(1) research and development of longer-term improvements to airport security, including advanced weapons detection;
+
+&emsp;“(2) secure networking and sharing of threat information between Federal agencies, law enforcement entities, and other appropriate parties;
+
+&emsp;“(3) advances in biometrics for identification and threat assessment; or
+
+&emsp;“(4) other technologies for preventing acts of terrorism in aviation.”
+
+\[For definitions of terms used in section 137 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
 
 #### Termination of Advisory Panels
 

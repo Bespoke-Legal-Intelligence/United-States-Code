@@ -64,7 +64,7 @@ Subsec. (e). Pub. L. 100–418, §1424(d)(1)(B), amended subsec. (e) generally. 
 
 &emsp;“(3) any other State or local agency administering job training or related programs.”
 
-Subsec. (f). Pub. L. 100–418, §1424(d)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) readas follows: “Each cooperating State agency shall, in carrying out subsection (a)(2) of this section—
+Subsec. (f). Pub. L. 100–418, §1424(d)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Each cooperating State agency shall, in carrying out subsection (a)(2) of this section—
 
 &emsp;“(1) advise each adversely affected worker to apply for training under section 2296(a) of this title at the time the worker makes application for trade readjustment allowances (but failure of the worker to do so may not be treated as cause for denial of those allowances), and
 

@@ -2,7 +2,7 @@
 
 #### (a) Percentage limitation of private capital
 
-If any small business investment company has obtained financing from the Administration andsuch financing remains outstanding, the aggregate amount of obligations and securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not exceed 20 per centum of the private capital of such company, without the approval of the Administration.
+If any small business investment company has obtained financing from the Administration and such financing remains outstanding, the aggregate amount of obligations and securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not exceed 20 per centum of the private capital of such company, without the approval of the Administration.
 
 #### (b) Repealed. Pub. L. 92–595, §2(f), Oct. 27, 1972, 86 Stat. 1316
 

@@ -10,7 +10,7 @@ The head of the lead agency shall—
 
 &emsp;(3) ensure that displacing agencies implement section 4605 of this title fairly and without discrimination in accordance with section 4605(b)(2)(B) of this title;
 
-&emsp;(4) ensure that relocation assistance activities under this chapter are coordinated with low-income housing assistance programs or projects by a Federal agency or a State or State agency with Federal financial assistance;
+&emsp;(4) ensure that relocation assistance activities under this chapter are coordinated withlow-income housing assistance programs or projects by a Federal agency or a State or State agency with Federal financial assistance;
 
 &emsp;(5) monitor, in coordination with other Federal agencies, the implementation and enforcement of this chapter and report to the Congress, as appropriate, on any major issues or problems with respect to any policy or other provision of this chapter; and
 
@@ -28,7 +28,7 @@ The head of the lead agency is authorized to issue such regulations and establis
 
 #### (c) Applicability to Tennessee Valley Authority and Rural Electrification Administration
 
-The regulations and procedures issued pursuant to this section shall apply to the TennesseeValley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I of this chapter.
+The regulations and procedures issued pursuant to this section shall apply to the Tennessee Valley Authority and the Rural Electrification Administration only with respect to relocation assistance under this subchapter and subchapter I of this chapter.
 
 (Pub. L. 91–646, title II, §213, Jan. 2, 1971, 84 Stat. 1900; Pub. L. 100–17, title IV, §412, Apr. 2, 1987, 101 Stat. 254; Pub. L. 102–240, title I, §1055, Dec. 18, 1991, 105 Stat. 2002; Pub. L. 105–117, §2, Nov. 21, 1997, 111 Stat. 2385.)
 

@@ -35,7 +35,7 @@ Pub. L. 100–322, title II, §216(e)(2), May 20, 1988, 102 Stat. 530, added ite
 - [Chapter 072 - United States Court of Appeals for Veterans Claims](Chapter%20072%20-%20United%20States%20Court%20of%20Appeals%20for%20Veterans%20Claims/README.md)
 - [Chapter 073 - Veterans Health Administration&#8212;Organization and Functions](Chapter%20073%20-%20Veterans%20Health%20Administration%E2%80%94Organization%20and%20Functions/README.md)
 - [Chapter 074 - Veterans Health Administration&#8212;Personnel](Chapter%20074%20-%20Veterans%20Health%20Administration%E2%80%94Personnel/README.md)
-- [Chapter 075 - Renumbered Chapter 78 and Transferred](Chapter%20075%20-%20Renumbered%20Chapter%2078%20and%20Transferred/README.md)
+- [Chapter 075 - Renumbered](Chapter%20075%20-%20Renumbered/README.md)
 - [Chapter 076 - Health Professionals Educational Assistance Program](Chapter%20076%20-%20Health%20Professionals%20Educational%20Assistance%20Program/README.md)
 - [Chapter 077 - Veterans Benefits Administration](Chapter%20077%20-%20Veterans%20Benefits%20Administration/README.md)
 - [Chapter 078 - Veterans&#8217; Canteen Service](Chapter%20078%20-%20Veterans%E2%80%99%20Canteen%20Service/README.md)

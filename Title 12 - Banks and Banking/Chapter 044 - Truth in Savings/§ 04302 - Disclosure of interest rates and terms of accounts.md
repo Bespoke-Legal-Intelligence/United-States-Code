@@ -26,7 +26,7 @@ The disclosure requirements contained in this section shall not apply to any sig
 
 &emsp;(1) the accompanying annual percentage yield; and
 
-&emsp;(2) a statement that the consumer should request further information from an employee of the depository institution concerning the fees and terms applicable to the advertised account.
+&emsp;(2) a statement that the consumer should request further information from an employee of the depository institution concerning the feesand terms applicable to the advertised account.
 
 #### (d) Misleading descriptions of free or no-cost accounts prohibited
 

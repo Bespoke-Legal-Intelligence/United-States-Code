@@ -2,7 +2,7 @@
 
 #### (a) Building codes
 
-Each building constructed or altered by the General Services Administration or any other Federal agency shall be constructed or altered, to the maximum extent feasible as determined by the Administrator or the head of such Federal agency, in compliance with one of the nationally recognized model building codes and with other applicable nationally recognized codes. Such other codes shall include, but not belimited to, electrical codes, fire and life safety codes, and plumbing codes, as determined appropriate by the Administrator. In carrying out this subsection, the Administrator or the head of the Federal agency authorized to construct or alter the building shall use the latest edition of the nationally recognized codes referred to in this subsection.
+Each building constructed or altered by the General Services Administration or any other Federal agency shall be constructed or altered, to the maximum extent feasible as determined by the Administrator or the head of such Federal agency, in compliance with one of the nationally recognized model building codes and with other applicable nationally recognized codes. Such other codes shall include, but not be limited to, electrical codes, fire and life safety codes, and plumbing codes, as determined appropriate by the Administrator. In carrying out this subsection, the Administrator or the head of the Federal agency authorized to construct or alter the building shall use the latest edition of the nationally recognized codes referred to in this subsection.
 
 #### (b) Zoning laws
 

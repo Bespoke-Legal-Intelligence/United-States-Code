@@ -5,7 +5,7 @@
 | [<b>131.</b>](Chapter%20131%20-%20Planning%20and%20Coordination/README.md) | <b>Planning and Coordination</b> | <b>2201</b> |
 | [<b>133.</b>](Chapter%20133%20-%20Facilities%20for%20Reserve%20Components/README.md) | <b>Facilities for Reserve Components</b> | <b>2231</b> |
 | [<b>134.</b>](Chapter%20134%20-%20Miscellaneous%20Administrative%20Provisions/README.md) | <b>Miscellaneous Administrative Provisions</b> | <b>2241</b> |
-| <b>\[135.</b> | <b>Repealed.\]</b> |  |
+| [<b>135.</b>](Chapter%20135%20-%20Space%20Programs/README.md) | <b>Space Programs</b> | <b>2271</b> |
 | [<b>136.</b>](Chapter%20136%20-%20Provisions%20Relating%20to%20Specific%20Programs/README.md) | <b>Provisions Relating to Specific Programs</b> | <b>2281</b> |
 | [<b>137.</b>](Chapter%20137%20-%20Procurement%20Generally/README.md) | <b>Procurement Generally</b> | <b>2301</b> |
 | [<b>138.</b>](Chapter%20138%20-%20Cooperative%20Agreements%20with%20NATO%20Allies%20and%20Other%20Countries/README.md) | <b>Cooperative Agreements with NATO Allies and Other Countries</b> | <b>2341</b> |
@@ -38,6 +38,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title IX, §911(b), Dec. 28, 2001, 115 Stat. 1196, added item for chapter 135.
 
 1997—Pub. L. 105–85, div. A, title III, §§355(c)(2), 371(a)(2), (c)(5), title X, §§1073(a)(2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1900, 1910, added item for chapter 136 and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
 
@@ -85,7 +87,7 @@ Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 16
 - [Chapter 131 - Planning and Coordination](Chapter%20131%20-%20Planning%20and%20Coordination/README.md)
 - [Chapter 133 - Facilities for Reserve Components](Chapter%20133%20-%20Facilities%20for%20Reserve%20Components/README.md)
 - [Chapter 134 - Miscellaneous Administrative Provisions](Chapter%20134%20-%20Miscellaneous%20Administrative%20Provisions/README.md)
-- [Chapter 135 - Repealed](Chapter%20135%20-%20Repealed/README.md)
+- [Chapter 135 - Space Programs](Chapter%20135%20-%20Space%20Programs/README.md)
 - [Chapter 136 - Provisions Relating to Specific Programs](Chapter%20136%20-%20Provisions%20Relating%20to%20Specific%20Programs/README.md)
 - [Chapter 137 - Procurement Generally](Chapter%20137%20-%20Procurement%20Generally/README.md)
 - [Chapter 138 - Cooperative Agreements with NATO Allies and Other Countries](Chapter%20138%20-%20Cooperative%20Agreements%20with%20NATO%20Allies%20and%20Other%20Countries/README.md)

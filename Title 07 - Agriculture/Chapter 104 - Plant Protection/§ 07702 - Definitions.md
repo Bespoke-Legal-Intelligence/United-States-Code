@@ -36,7 +36,7 @@ In this chapter:
 
 &emsp;&emsp;(A) between a place in a State and a point in another State, or between points within the same State but through any place outside that State; or
 
-&emsp;&emsp;(B) within the District of Columbia, Guam, the Virgin Islands of the United States, orany other territory or possession of the United States.
+&emsp;&emsp;(B) within the District of Columbia, Guam, the Virgin Islands of the United States, or any other territory or possession of the United States.
 
 #### (8) Means of conveyance
 

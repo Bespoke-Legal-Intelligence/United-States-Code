@@ -14,7 +14,7 @@ Information Program.—The Secretary of Transportation shall maintain a program 
 
 (b)
 
-Motor Vehicle Information.—To assist a consumer in buying a passenger motor vehicle, the Secretary shall provide to the public information developed under subsection (a) of this section. The information shall be in a simple and understandable form that allows comparison of the characteristics referred to in subsection (a)(1)–(3) of this section among the makes and models of passenger motor vehicles. The Secretary may require passenger motor vehicle dealers to distribute the information to prospective buyers.
+Motor Vehicle Information.—To assist a consumer in buying a passenger motor vehicle,the Secretary shall provide to the public information developed under subsection (a) of this section. The information shall be in a simple and understandable form that allows comparison of the characteristics referred to in subsection (a)(1)–(3) of this section among the makes and models of passenger motor vehicles. The Secretary may require passenger motor vehicle dealers to distribute the information to prospective buyers.
 
 (c)
 

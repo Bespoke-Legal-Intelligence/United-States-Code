@@ -22,7 +22,7 @@ As used in this part, unless otherwise specified—
 
 &emsp;(5) the term “participant” means a person who participates in the Foreign Service Pension System;
 
-&emsp;(6) the term “pro rata share” in the case of any former spouse of any participant or former participant means the percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the service of the participant which is creditable under this subchapter is of (B) the total number of years of such service, disregarding extra credit under section 4057 of this title;
+&emsp;(6) the term “pro rata share” in the case of any former spouse of any participant orformer participant means the percentage which is equal to the percentage that (A) the number of years during which the former spouse was married to the participant during the service of the participant which is creditable under this subchapter is of (B) the total number of years of such service, disregarding extra credit under section 4057 of this title;
 
 &emsp;(7) the term “supplemental liability” means the estimated excess of—
 
@@ -60,7 +60,7 @@ The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 198
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect tocertain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
 
 #### Effective Date of 1988 Amendment
 

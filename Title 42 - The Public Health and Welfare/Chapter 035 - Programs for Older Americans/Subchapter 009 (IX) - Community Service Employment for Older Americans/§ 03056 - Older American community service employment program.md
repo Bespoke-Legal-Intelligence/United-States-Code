@@ -12,7 +12,7 @@
 
 &emsp;(A) will provide employment only for eligible individuals except for necessary technical, administrative, and supervisory personnel, but such personnel shall, to the fullest extent possible, be recruited from among eligible individuals;
 
-&emsp;(B)(i) will provide employment for eligible individuals in the community in which suchindividuals reside, or in nearby communities; or
+&emsp;(B)(i) will provide employment for eligible individuals in the community in which such individuals reside, or in nearby communities; or
 
 &emsp;(ii) if such project is carried out by a tribal organization that enters into an agreement under this subsection or receives assistance from a State that enters into such an agreement, will provide employment for such individuals, including those who are Indians residing on an Indian reservation, as the term is defined in section 3501(2) of title 25;
 
@@ -64,7 +64,7 @@
 
 (2) The Secretary is authorized to establish, issue, and amend such regulations as may be necessary to effectively carry out the provisions of this subchapter.
 
-(3) The Secretary shall develop alternatives for innovative work modes and provide technical assistance in creating job opportunities through work sharing and other experimental methods to labor organizations, groups representing business and industry and workers as well as to individual employers, where appropriate.
+(3) The Secretary shall develop alternatives for innovative work modes and provide technical assistance in creating job opportunities throughwork sharing and other experimental methods to labor organizations, groups representing business and industry and workers as well as to individual employers, where appropriate.
 
 (4)(A) An assessment and service strategy provided for an eligible individual under this subchapter shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.), in order to determine whether such individual qualifies for intensive or training services described in section 134(d) of such Act (29 U.S.C. 2864(d)), in accordance with such Act.
 
@@ -126,7 +126,7 @@
 
 &emsp;(E) The costs of information systems related to administrative functions (for example, personnel, procurement, purchasing, property management, accounting, and payroll systems) including the purchase, systems development, and operating costs of such systems.
 
-(5) To the extent practicable, an entity that carries out a project under this subchapter shallprovide for the payment of the expenses described in paragraph (4) from non-Federal sources.
+(5) To the extent practicable, an entity that carries out a project under this subchapter shall provide for the payment of the expenses described in paragraph (4) from non-Federal sources.
 
 (6)(A) Amounts made available for a project under this subchapter that are not used to pay for the cost of administration shall be used to pay for the costs of programmatic activities, including—
 

@@ -12,13 +12,17 @@
 
 > the Secretary shall act as a “State approving agency” as such term is used in section 3687(a)(1) of this title and shall be responsible for the approval of all such programs.
 
-(d) Pursuant to regulations prescribed by the Secretary in consultation with the Secretary of Labor, the Secretary shall actively promote the development of programs of training on the job (including programs of apprenticeship) for the purposes of sections 3677 and 3687 of this title and shall utilize the services of disabled veterans’ outreach program specialists under section 4103A of this title to promote the development of such programs.
+(d)(1) Pursuant to regulations prescribed by the Secretary in consultation with the Secretary of Labor, the Secretary and State approving agencies shall actively promote the development of programs of training on the job (including programs of apprenticeship) for the purposes of sections 3677 and 3687 of this title and shall utilize the services of disabled veterans’ outreach program specialists under section 4103A of this title to promote the development of such programs.
+
+(2) In conjunction with outreach services provided by the Secretary under chapter 77 of this title for education and training benefits, each State approving agency shall conduct outreach programs and provide outreach services to eligible persons and veterans about education and training benefits available under applicable Federal and State law.
 
 (e) A program of education exclusively by correspondence, and the correspondence portion of a combination correspondence-residence course leading to a vocational objective, that is offered by an educational institution (as defined in section 3452(c) of this title) may be approved only if (1) the educational institution is accredited by an entity recognized by the Secretary of Education, and (2) at least 50 percent of those pursuing such a program or course require six months or more to complete the program or course.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158, §1772; amended Pub. L. 89–358, §3(a)(7), (8), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 91–219, title II, §211, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, §403(3)–(5), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 96–466, title V, §502, Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–295, §4(50), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3672 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §605(a)(1), Nov. 2, 1994, 108 Stat. 4671.)
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158, §1772; amended Pub. L. 89–358, §3(a)(7), (8), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 91–219, title II, §211, Mar. 26, 1970, 84 Stat. 83; Pub. L. 92–540, title IV, §403(3)–(5), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 96–466, title V, §502, Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–295, §4(50), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3672 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §605(a)(1), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 107–103, title III, §303, Dec. 27, 2001, 115 Stat. 992.)
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–103 designated existing provisions as par. (1), inserted “and State approving agencies” before “shall actively promote”, and added par. (2).
 
 1994—Subsec. (e). Pub. L. 103–446 added subsec. (e).
 

@@ -8,7 +8,7 @@
 
 > the amount of the monthly educational assistance allowance payable to such individual under this chapter is the amount determined under subsection (b) of this section.
 
-(b) The amount of the educational assistance allowance payable to an individual described in subsection (a) of this section is the lesser of (1) the amount of the educational assistance allowance otherwise payable to such individual under this chapter, or (2) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay.
+(b) The amount of the educational assistance allowance payable to an individual described insubsection (a) of this section is the least of the following: (1) the amount of the educational assistance allowance otherwise payable to such individual under this chapter, (2) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (3) the amount of the charges of the educational institution elected by the individual under section 3014(b)(1) of this title.
 
 (c)(1) Except as provided in paragraph (2) of this subsection, the amount of the monthly educational assistance allowance payable to an individual pursuing a full-time program of apprenticeship or other on-job training under this chapter is—
 
@@ -52,13 +52,15 @@
 
 (f)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3452(b) of this title is the lesser of $2,000 or the fee charged for the test.
 
-(2) The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance which, except for paragraph (1), such individual would otherwise be paid under subsection (a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
+(2) The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance which, except for paragraph\(1), such individual would otherwise be paid under subsection (a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1432; amended Pub. L. 99–576, title III, §301(b), (d)(1), Oct. 28, 1986, 100 Stat. 3267, 3268; Pub. L. 100–689, title I, §§108(a)(2), 111(a)(7)(A), (8), Nov. 18, 1988, 102 Stat. 4169, 4172; Pub. L. 101–237, title IV, §422(a)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–16, §10(a)(3), Mar. 22, 1991, 105 Stat. 55; renumbered §3032 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §310(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 103–446, title XII, §1201(d)(6), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §105(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(1), Nov. 1, 2000, 114 Stat. 1833.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2561, §1432; amended Pub. L. 99–576, title III, §301(b), (d)(1), Oct. 28, 1986, 100 Stat. 3267, 3268; Pub. L. 100–689, title I, §§108(a)(2), 111(a)(7)(A), (8), Nov. 18, 1988, 102 Stat. 4169, 4172; Pub. L. 101–237, title IV, §422(a)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–16, §10(a)(3), Mar. 22, 1991, 105 Stat. 55; renumbered §3032 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §310(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 103–446, title XII, §1201(d)(6), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §105(a), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 106–419, title I, §122(b)(1), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–14, §7(b)(2)(B), June 5, 2001, 115 Stat. 32.)
 
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–14 substituted “the least of the following:” for “the lesser of” and added cl. (3).
 
 2000—Subsec. (f). Pub. L. 106–419 added subsec. (f).
 
@@ -97,6 +99,10 @@ Subsec. (e). Pub. L. 100–689, §111(a)(7)(A), added subsec. (e).
 1986—Pub. L. 99–576, §301(d)(1), substituted “Limitations” for “Limitation” in section catchline.
 
 Subsec. (c). Pub. L. 99–576, §301(b), added subsec. (c).
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately after the enactment of Pub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
 
 #### Effective Date of 2000 Amendment
 

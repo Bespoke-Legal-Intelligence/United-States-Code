@@ -24,7 +24,7 @@
 
 (e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
 
-(f) Upon the request of the department concerned, a claim arising in that department and covered by subsection (a) may be settled and paid by a commission appointed under subsection (a) and composed of officers of an armed force under the jurisdiction of another department.
+(f) Upon the request of the department concerned, a claim arising in that department andcovered by subsection (a) may be settled and paid by a commission appointed under subsection (a) and composed of officers of an armed force under the jurisdiction of another department.
 
 (g) Payment of claims against the Coast Guard arising while it is operating as a service in the Department of Transportation shall be made out of the appropriation for the operating expenses of the Coast Guard.
 

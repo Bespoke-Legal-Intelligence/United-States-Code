@@ -8,7 +8,7 @@ The agreement to arbitrate—
 
 (c) Shall state whether the board of arbitration is to consist of three or of six members;
 
-(d) Shall be signed by the duly accredited representatives of the carrier or carriers and the employees, parties respectively to the agreement to arbitrate, and shall be acknowledged bysaid parties before a notary public, the clerk of a district court or court of appeals of the United States, or before a member of the Mediation Board, and, when so acknowledged, shall be filed in the office of the Mediation Board;
+(d) Shall be signed by the duly accredited representatives of the carrier or carriers and the employees, parties respectively to the agreement to arbitrate, and shall be acknowledged by said parties before a notary public, the clerk of a district court or court of appeals of the United States, or before a member of the Mediation Board, and, when so acknowledged, shall be filed in the office of the Mediation Board;
 
 (e) Shall state specifically the questions to be submitted to the said board for decision; and that, in its award or awards, the said board shall confine itself strictly to decisions as to the questions so specifically submitted to it;
 

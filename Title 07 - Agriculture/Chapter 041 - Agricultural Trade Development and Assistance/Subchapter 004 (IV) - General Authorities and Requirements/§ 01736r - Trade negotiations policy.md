@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) on a level playing field, United States producers are the most competitive suppliers of agricultural products in the world;
 
-&emsp;(2) exports of United States agricultural products accounted for $54,000,000,000 in 1995,contributing a net $24,000,000,000 to the merchandise trade balance of the United States and supporting approximately 1,000,000 jobs;
+&emsp;(2) exports of United States agricultural products accounted for $54,000,000,000 in 1995, contributing a net $24,000,000,000 to the merchandise trade balance of the United States and supporting approximately 1,000,000 jobs;
 
 &emsp;(3) increased agricultural exports are critical to the future of the farm, rural, and overall United States economy, but the opportunities for increased agricultural exports are limited by the unfair subsidies of the competitors of the United States, and a variety of tariff and nontariff barriers to highly competitive United States agricultural products;
 
@@ -76,7 +76,7 @@ Objectives.—The agricultural trade negotiating objectives of the United States
 
 &emsp;“(3) the elimination of state trading enterprises or the adoption of rigorous disciplines that ensure operational transparency, competition, and the end of discriminatory pricing practices, including policies supporting cross-subsidization and price undercutting in export markets;
 
-&emsp;“(4) affirming that the World Trade Organization Agreement on the Application of Sanitary and Phytosanitary Measures applies to new technologies, including biotechnology, and that labeling requirements to allow consumers to make choices regardingbiotechnology products or other regulatory requirements may not be used as disguised barriers to trade;
+&emsp;“(4) affirming that the World Trade Organization Agreement on the Application of Sanitary and Phytosanitary Measures applies to new technologies, including biotechnology, and that labeling requirements to allow consumers to make choices regarding biotechnology products or other regulatory requirements may not be used as disguised barriers to trade;
 
 &emsp;“(5) increasing opportunities for United States exports of agricultural products by reducing tariffs to the same levels that exist in the United States or to lower levels and by eliminating all nontariff barriers, including—
 

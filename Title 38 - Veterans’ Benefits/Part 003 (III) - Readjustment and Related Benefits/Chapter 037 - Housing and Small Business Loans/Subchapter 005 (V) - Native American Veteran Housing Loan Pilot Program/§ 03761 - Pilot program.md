@@ -4,11 +4,13 @@
 
 (b) In carrying out the pilot program under this subchapter, the Secretary shall, to the extent practicable, make direct housing loans to Native American veterans who are located in a variety of geographic areas and in areas experiencing a variety of economic circumstances.
 
-(c) No loans may be made under this subchapter after December 31, 2001.
+(c) No loans may be made under this subchapter after December 31, 2005.
 
-(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3636; amended Pub. L. 105–114, title II, §201(a), Nov. 21, 1997, 111 Stat. 2282.)
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3636; amended Pub. L. 105–114, title II, §201(a), Nov. 21, 1997, 111 Stat. 2282; Pub. L. 107–103, title IV, §402(a), Dec. 27, 2001, 115 Stat. 993.)
 
 #### Amendments
+
+2001—Subsec. (c). Pub. L. 107–103 substituted “December 31, 2005” for “December 31, 2001”.
 
 1997—Subsec. (c). Pub. L. 105–114 substituted “December 31, 2001” for “September 30, 1997”.
 
@@ -22,5 +24,5 @@ Section 8(d) of Pub. L. 102–547 directed Secretary of Veterans Affairs to tran
 
 #### Authorization of Appropriations for Native American Veteran Housing Loans
 
-Section 8(e) of Pub. L. 102–547 provided that: “New direct loan obligations for Native American veteran housing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, as defined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation.”
+Section 8(e) of Pub. L. 102–547 provided that: “New direct loan obligations for Native American veteran housing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, asdefined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation.”
 

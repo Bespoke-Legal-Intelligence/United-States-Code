@@ -20,7 +20,7 @@ The Secretary may waive (in whole or in part) the penalty imposed under subsecti
 
 #### (c) Deficiency procedures not to apply
 
-Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect to the assessment or collection of any penalty imposed by subsection (a).
+Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respectto the assessment or collection of any penalty imposed by subsection (a).
 
 (Added Pub. L. 89–368, title I, §101(e)(4)(A), Mar. 15, 1966, 80 Stat. 61; amended Pub. L. 91–172, title I, §101(j)(55), Dec. 30, 1969, 83 Stat. 532; Pub. L. 93–406, title II, §1016(a)(23), Sept. 2, 1974, 88 Stat. 931; Pub. L. 97–34, title VII, §721(a), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §§306(a), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–67, title I, §§102(a), 107(a), Aug. 5, 1983, 97 Stat. 369, 382.)
 

@@ -14,7 +14,7 @@
 
 #### (B) At time of required petition
 
-&emsp;&emsp;In addition, the Attorney General shall attempt to provide notice to such a spouse, son, or daughter, at or about the beginning of the 90-day period described in subsection (d)(2)(A) of this section, of the requirements of subsections <sup>1</sup> (c)(1) of this section.
+&emsp;&emsp;In addition, the Attorney General shall attempt to provide notice to such a spouse, son, or daughter, at or about the beginningof the 90-day period described in subsection (d)(2)(A) of this section, of the requirements of subsections <sup>1</sup> (c)(1) of this section.
 
 #### (C) Effect of failure to provide notice
 
@@ -38,7 +38,7 @@
 
 #### (2) Hearing in removal proceeding
 
-&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceedingto remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
+&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
 
 #### (c) Requirements of timely petition and interview for removal of condition
 
@@ -88,7 +88,7 @@
 
 #### (D) Hearing in removal proceeding
 
-&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) of this section and alleged in the petition are not true with respect to the qualifying marriage.
+&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C)may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) of this section and alleged in the petition are not true with respect to the qualifying marriage.
 
 #### (4) Hardship waiver
 
@@ -154,7 +154,7 @@ For purposes of subchapter III of this chapter, in the case of an alien who is i
 
 #### (f) Treatment of certain waivers
 
-In the case of an alien who has permanent residence status on a conditional basis under this section, if, in order to obtain such status, the alien obtained a waiver under subsection (h) or (i) of section 1182 of this title of certain grounds of inadmissibility, such waiver terminates upon the termination of such permanent residence status under this section.
+In the case of an alien who has permanent residence status on a conditional basis under this section, if, in order to obtain such status, the alien obtained a waiver under subsection (h) or\(i) of section 1182 of this title of certain grounds of inadmissibility, such waiver terminates upon the termination of such permanent residence status under this section.
 
 #### (g) Definitions
 

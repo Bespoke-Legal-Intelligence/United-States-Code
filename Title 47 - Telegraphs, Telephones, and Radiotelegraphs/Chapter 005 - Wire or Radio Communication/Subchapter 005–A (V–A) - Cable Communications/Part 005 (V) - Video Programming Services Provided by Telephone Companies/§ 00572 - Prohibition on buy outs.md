@@ -66,7 +66,7 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 &emsp;&emsp;&emsp;(ii) the system or facilities would not be economically viable if such provisions were enforced; or
 
-&emsp;&emsp;&emsp;(iii) the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served; and
+&emsp;&emsp;&emsp;(iii) the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meetingthe convenience and needs of the community to be served; and
 
 &emsp;&emsp;(B) the local franchising authority approves of such waiver.
 

@@ -174,7 +174,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Effective Date of 1979 Amendment
 
-Section 203(c) of Pub. L. 96–153 providing for the effective date of amendment of this section and section1715z–1 of this title as Dec. 21, 1979, and setting forth maximum applicable tenant contribution, was repealed by Pub. L. 97–35, title III, §§322(h)(2), 371, Aug. 13, 1981, 95 Stat. 404, 431, eff. Oct. 1, 1981.
+Section 203(c) of Pub. L. 96–153 providing for the effective date of amendment of this section and section 1715z–1 of this title as Dec. 21, 1979, and setting forth maximum applicable tenant contribution, was repealed by Pub. L. 97–35, title III, §§322(h)(2), 371, Aug. 13, 1981, 95 Stat. 404, 431, eff. Oct. 1, 1981.
 
 #### Limitation on Withholding or Conditioning of Assistance
 

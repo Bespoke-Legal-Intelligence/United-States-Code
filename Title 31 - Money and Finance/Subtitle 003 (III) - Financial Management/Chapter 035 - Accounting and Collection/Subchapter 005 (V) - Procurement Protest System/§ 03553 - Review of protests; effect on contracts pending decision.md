@@ -8,7 +8,7 @@
 
 &emsp;(A) within 30 days after the date of the agency's receipt of that notice;
 
-&emsp;(B) if the Comptroller General, upon a showing by the Federal agency, determines (andstates the reasons in writing) that the specific circumstances of the protest require a longer period, within the longer period determined by the Comptroller General; or
+&emsp;(B) if the Comptroller General, upon a showing by the Federal agency, determines (and states the reasons in writing) that the specific circumstances of the protest require a longer period, within the longer period determined by the Comptroller General; or
 
 &emsp;(C) in a case determined by the Comptroller General to be suitable for the express option under section 3554(a)(2) of this title, within 20 days after the date of the Federal agency's receipt of that determination.
 
@@ -60,7 +60,7 @@
 
 (f)(1) Within such deadlines as the Comptroller General prescribes, upon request each Federal agency shall provide to an interested party any document relevant to a protested procurement action (including the report required by subsection (b)(2) of this section) that would not give that party a competitive advantage and that the party is otherwise authorized by law to receive.
 
-(2)(A) The Comptroller General may issue protective orders which establish terms, conditions, and restrictions for the provision of any document to a party under paragraph (1), that prohibit or restrict the disclosure by the party of information described in subparagraph (B) that is contained in such a document.
+(2)(A) The Comptroller General may issue protective orders which establish terms, conditions, and restrictions for the provision of any document to a party under paragraph (1), that prohibit or restrict the disclosure by the party ofinformation described in subparagraph (B) that is contained in such a document.
 
 (B) Information referred to in subparagraph (A) is procurement sensitive information, trade secrets, or other proprietary or confidential research, development, or commercial information.
 

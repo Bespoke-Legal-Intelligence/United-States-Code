@@ -12,7 +12,7 @@
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. Section 107 of that Act is classified to section 1973ff–6 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1973ff of Title 42 and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. Section 107 of that Act is classified to section 1973ff–6 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
 
 #### Effective Date
 

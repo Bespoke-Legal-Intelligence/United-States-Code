@@ -50,7 +50,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 (3) At the Secretary's request, the sponsor shall give the Secretary a copy of the transcript of any hearing held under paragraph (1)(A) of this subsection.
 
-(4)(A) Notice of certification or of refusal to certify under paragraph (1)(B) of this subsection shall be provided to the Secretary not later than 60 days after the Secretary receives the application.
+(4)(A) Notice of certification or of refusal to certify under paragraph (1)(B) of this subsectionshall be provided to the Secretary not later than 60 days after the Secretary receives the application.
 
 (B) The Secretary shall condition approval of the application on compliance with the applicable standards during construction and operation.
 
@@ -96,13 +96,17 @@ Contents.—A competition plan under this subsection shall include information o
 
 &emsp;(3)
 
+Special rule for fiscal year 2002.—This subsection does not apply to any passenger facility fee approved, or grant made, in fiscal year 2002 if the fee or grant is to be used to improve security at a covered airport.
+
+&emsp;(4)
+
 Covered airport defined.—In this subsection, the term “covered airport” means a commercial service airport—
 
 &emsp;&emsp;(A) that has more than .25 percent of the total number of passenger boardings each year at all such airports; and
 
 &emsp;&emsp;(B) at which one or two air carriers control more than 50 percent of the passenger boardings.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630.)
 
 Historical and Revision Notes
 
@@ -201,6 +205,8 @@ In subsection (e)(2)(A), the word “mutual” is omitted as surplus.
 In subsection (e)(3), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the United States Code. The words “the date on which” are omitted as surplus.
 
 #### Amendments
+
+2001—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifying the Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
 
 2000—Subsec. (f). Pub. L. 106–181 added subsec. (f).
 

@@ -58,7 +58,7 @@ Subject to the general policies of the Board of Regents, the Board of Trustees s
 
 #### (3) Terms
 
-&emsp;The trustee appointed under paragraph (1)(B) shall serve at the pleasure of the Boardof Regents. The terms of the trustees appointed under subparagraph (C) or (D) of paragraph (1) shall be 3 years, beginning on the date of the transfer of the Heye Foundation assets to the Smithsonian Institution.
+&emsp;The trustee appointed under paragraph (1)(B) shall serve at the pleasure of the Board of Regents. The terms of the trustees appointed under subparagraph (C) or (D) of paragraph (1) shall be 3 years, beginning on the date of the transfer of the Heye Foundation assets to the Smithsonian Institution.
 
 #### (4) Vacancies
 

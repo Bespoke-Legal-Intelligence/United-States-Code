@@ -16,7 +16,7 @@ In accordance with subsection (c) of this section, the Federal cochairperson may
 
 #### (1) In general
 
-&emsp;In the case of any program or project for which all or any portion of the basic Federal contribution to the project under a Federal grant program is proposed to be made under this section, no Federal contribution shall be made until the Federal official administering the Federal law authorizing the contribution certifies that the program or project—
+&emsp;In the case of any program or project for which all or any portion of the basic Federalcontribution to the project under a Federal grant program is proposed to be made under this section, no Federal contribution shall be made until the Federal official administering the Federal law authorizing the contribution certifies that the program or project—
 
 &emsp;&emsp;(A) meets the applicable requirements of the applicable Federal grant law; and
 

@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) The term “Secretary” means the Secretary of Labor.
+&emsp;(1) The term “Secretary” mean <sup>1</sup> the Secretary of Labor.
 
 &emsp;(2) The term “Commission” means the Occupational Safety and Health Review Commission established under this chapter.
 
@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 &emsp;(8) The term “occupational safety and health standard” means a standard which requires conditions, or the adoption or use of one or more practices, means, methods, operations, or processes, reasonably necessary or appropriate to provide safe or healthful employment and places of employment.
 
-&emsp;(9) The term “national consensus standard” means any occupational safety and health standard or modification thereof which (1), has been adopted and promulgated by a nationally recognized standards-producing organization under procedures whereby it can be determined by the Secretary that persons interested and affected by the scope or provisions of the standard have reached substantial agreement on its adoption, (2) was formulated in a manner which afforded an opportunity for diverse views to be considered and (3) has been designated as such a standard by the Secretary, after consultation with other appropriate Federal agencies.
+&emsp;(9) The term “national consensus standard” means any occupational safety and health standard or modification thereof which (1),<sup>2</sup>has been adopted and promulgated by a nationally recognized standards-producing organization under procedures whereby it can be determined by the Secretary that persons interested and affected by the scope or provisions of the standard have reached substantial agreement on its adoption, (2) was formulated in a manner which afforded an opportunity for diverse views to be considered and (3) has been designated as such a standard by the Secretary, after consultation with other appropriate Federal agencies.
 
 &emsp;(10) The term “established Federal standard” means any operative occupational safety and health standard established by any agency of the United States and presently in effect, or contained in any Act of Congress in force on December 29, 1970.
 
@@ -43,4 +43,8 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Termination of Advisory Committees
 
 Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “means”.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

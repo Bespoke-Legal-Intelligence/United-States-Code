@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Secretary may make grants to, and enter into contracts and cooperative agreements with, parent organizations to support parent training and information centers to carry out activities under this section.
+The Secretary may make grants to, and enter into contracts and cooperative agreements with,parent organizations to support parent training and information centers to carry out activities under this section.
 
 #### (b) Required activities
 
@@ -112,5 +112,5 @@ A prior section 1482, Pub. L. 91–230, title VI, §682, as added Pub. L. 99–4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1415, 1483, 1484, 1486 of this title; title 29 sections 725, 773.
+This section is referred to in sections 1401, 1415, 1483, 1484, 1486, 7273b of this title; title 29 sections 725, 773.
 

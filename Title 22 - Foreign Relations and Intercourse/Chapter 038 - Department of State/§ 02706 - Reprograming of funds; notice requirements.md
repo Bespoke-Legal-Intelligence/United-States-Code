@@ -20,7 +20,7 @@ Unless the Committee on International Relations and the Committee on Appropriati
 
 #### (b) Final 15 days in which funds available
 
-Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which suchfunds are available unless notice of such reprogramming is made before such period.
+Funds appropriated for the Department of State may not be available for obligation or expenditure through any reprogramming described in subsection (a) of this section during the period which is the last 15 days in which such funds are available unless notice of such reprogramming is made before such period.
 
 #### (c) Waiver
 

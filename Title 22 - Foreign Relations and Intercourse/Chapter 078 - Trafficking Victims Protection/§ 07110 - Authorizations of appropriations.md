@@ -16,7 +16,7 @@ To carry out the purposes of section 7105(b) of this title, there are authorized
 
 #### (2) Voluntary contributions to OSCE
 
-&emsp;To carry out the purposes of section 2151d <sup>1</sup> of this title, there are authorized to be appropriated to the Secretary of State $300,000 for voluntary contributions to advance projects aimed at preventing trafficking, promoting respect for human rights of trafficking victims, and assisting the Organization for Security and Cooperation in Europe participating states in related legal reform for fiscal year 2001.
+&emsp;To carry out the purposes of section 2151d <sup>1</sup> of this title, there are authorized to be appropriated to the Secretary of State $300,000 for voluntary contributions to advance projects aimed at preventing trafficking, promoting respect for human rights of trafficking victims, and assisting the Organization for Security and Cooperation in Europe participatingstates in related legal reform for fiscal year 2001.
 
 #### (3) Preparation of annual country reports on human rights
 

@@ -26,7 +26,7 @@ Compensation of Secretary, see section 5312 of Title 5, Government Organization 
 
 #### Order of Succession
 
-For order of succession in event of vacancy in office of Secretary, or during his absence or disability, see Ex. Ord. No. 11487, eff. Oct. 6, 1969, 34 F.R. 15593, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of the Interior are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13244, Dec. 18, 2001, 66 F.R. 66267, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 9432
 
@@ -42,7 +42,7 @@ Ex. Ord. No. 10156, eff. Aug. 26, 1950, 15 F.R. 5789, which related to designati
 
 #### Executive Order No. 10753
 
-Ex. Ord. No. 10753, eff. Feb. 15, 1958, 23 F.R. 1107, which provided for succession to office of Secretary of the Interior, was superseded by Ex. Ord. No. 11487, eff. Oct. 6, 1969, 34 F.R. 15593, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 10753, eff. Feb. 15, 1958, 23 F.R. 1107, which provided for succession to office of Secretary of the Interior, was superseded by Ex. Ord. No. 11487, eff. Oct. 6, 1969, 34 F.R. 15593, formerly set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1950</b>
 
@@ -78,7 +78,7 @@ The Secretary of the Interior may from time to time effect such transfers within
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 3 of 1950, prepared in accordance with the Reorganization Act of 1949 and providing for reorganizations in the Department of the Interior. My reasons for transmitting this plan are stated in an accompanying general message.
+I transmit herewith Reorganization Plan No. 3 of 1950, prepared in accordance with the ReorganizationAct of 1949 and providing for reorganizations in the Department of the Interior. My reasons for transmitting this plan are stated in an accompanying general message.
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 3 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 

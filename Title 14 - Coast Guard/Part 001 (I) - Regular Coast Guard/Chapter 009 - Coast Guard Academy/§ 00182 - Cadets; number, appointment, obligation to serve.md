@@ -54,7 +54,7 @@ The period of required service after graduation is increased from 3 to 4 years, 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–448, §12(1), struck out before last sentence “Previous to his admission eachcadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
+1988—Subsec. (a). Pub. L. 100–448, §12(1), struck out before last sentence “Previous to his admission each cadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
 
 Subsecs. (b) to (f). Pub. L. 100–448, §12(2), added subsecs. (b) to (f) and struck out former subsec. (b) which read as follows: “A cadet who does not fulfill his obligation to complete the course of instruction or refuses to accept an appointment as an officer in the Coast Guard may be transferred by the Secretary to the Coast Guard Reserve in an appropriate enlisted grade or rating, and, notwithstanding section 651 of title 10, may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes, but not for more than four years.”
 

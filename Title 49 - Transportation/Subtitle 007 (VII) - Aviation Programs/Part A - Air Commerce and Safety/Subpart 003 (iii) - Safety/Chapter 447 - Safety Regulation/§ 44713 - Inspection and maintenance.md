@@ -20,7 +20,7 @@ Unsafe Aircraft, Engines, Propellers, and Appliances.—When an inspector decide
 
 Modifications in System.—(1) The Administrator of the Federal Aviation Administration shall make modifications in the system for processing forms for major repairs or alterations to fuel tanks and fuel systems of aircraft not used to provide air transportation that are necessary to make the system more effective in serving the needs of users of the system, including officials responsible for enforcing laws related to the regulation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)). The modifications shall address at least each of the following deficiencies in, and abuses of, the existing system:
 
-&emsp;(A) the lack of a special identification feature to allow the forms to be distinguished easily from other major repair and alteration forms.
+&emsp;(A) the lack of a special identification feature to allow the forms to be distinguishedeasily from other major repair and alteration forms.
 
 &emsp;(B) the excessive period of time required to receive the forms at the Airmen and Aircraft Registry of the Administration.
 

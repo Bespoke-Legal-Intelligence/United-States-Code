@@ -2,7 +2,7 @@
 
 (a)
 
-Per Diem Required.—The Secretary of the military department concerned shall pay a high-deployment per diem allowance to a member of the armed forces under the Secretary's jurisdiction for each day on which the member (1) is deployed, and (2) has, as of that day, been deployed 401 or more days out of the preceding 730 days.
+Per Diem Required.—The Secretary of the military department concerned shall pay a high-deployment per diem allowance to a member of the armed forces under the Secretary's jurisdiction for each day on which the member (1) is deployed, and (2) has, as of that day, been deployed 401 or more days out of the preceding 730 days. The Secretary shall pay the allowance from appropriations available for operation and maintenance for the armed force in which the member serves.
 
 (b)
 
@@ -22,11 +22,13 @@ Relationship to Other Allowances.—A high-deployment per diem payable to a memb
 
 (f)
 
-National Security Waiver.—No per diem may be paid under this section to a member forany day on which the applicability of section 991 of title 10 to the member is suspended under subsection (d) of that section.
+National Security Waiver.—No per diem may be paid under this section to a member for any day on which the applicability of section 991 of title 10 to the member is suspended under subsection (d) of that section.
 
-(Added Pub. L. 106–65, div. A, title V, §586(b), Oct. 5, 1999, 113 Stat. 638, §435; renumbered §436 and amended, Pub. L. 106–398, §1 \[\[div. A\], title V, §574(c), title X, §1087(b)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–137, 1654A–292.)
+(Added Pub. L. 106–65, div. A, title V, §586(b), Oct. 5, 1999, 113 Stat. 638, §435; renumbered §436 and amended, Pub. L. 106–398, §1 \[\[div. A\], title V, §574(c), title X, §1087(b)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–137, 1654A–292; Pub. L. 107–107, div. A, title V, §592(a), Dec. 28, 2001, 115 Stat. 1125.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107 inserted at end “The Secretary shall pay the allowance from appropriations available for operation and maintenance for the armed force in which the member serves.”
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(b)(4)\], renumbered section 435 of this title as this section.
 

@@ -6,7 +6,7 @@ Whenever the Secretary, after reasonable notice and opportunity for hearing to a
 
 &emsp;(b) any funds paid to the agency or institution under the provisions of this chapter have been lost, misapplied, or otherwise diverted from the purposes for which they were paid or furnished—
 
-> the Secretary shall notify such agency or institution that no further payments will be madeunder the provisions of this chapter until he is satisfied that there is substantial compliance or the diversion has been corrected or, if compliance or correction is impossible, until such agency or institution repays or arranges for the repayment of Federal funds which have been diverted or improperly expended.
+> the Secretary shall notify such agency or institution that no further payments will be made under the provisions of this chapter until he is satisfied that there is substantial compliance or the diversion has been corrected or, if compliance or correction is impossible, until such agency or institution repays or arranges for the repayment of Federal funds which have been diverted or improperly expended.
 
 (Pub. L. 89–182, §16, Sept. 14, 1965, 79 Stat. 684.)
 

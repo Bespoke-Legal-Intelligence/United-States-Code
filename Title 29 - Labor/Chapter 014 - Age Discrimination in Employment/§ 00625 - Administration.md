@@ -8,7 +8,7 @@ The Secretary shall have the power—
 
 #### (b) Cooperation with other agencies, employers, labor organizations, and employment agencies
 
-&emsp;to cooperate with regional, State, local, and other agencies, and to cooperate with and furnish technical assistance to employers, labororganizations, and employment agencies to aid in effectuating the purposes of this chapter.
+&emsp;to cooperate with regional, State, local, and other agencies, and to cooperate with and furnish technical assistance to employers, labor organizations, and employment agencies to aid in effectuating the purposes of this chapter.
 
 (Pub. L. 90–202, §6, Dec. 15, 1967, 81 Stat. 604.)
 

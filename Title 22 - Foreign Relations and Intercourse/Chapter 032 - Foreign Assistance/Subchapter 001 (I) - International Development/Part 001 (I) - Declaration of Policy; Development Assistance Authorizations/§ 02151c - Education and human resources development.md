@@ -8,7 +8,7 @@ In order to reduce illiteracy, to extend basic education and to increase manpowe
 
 Assistance provided under this section shall be used primarily to expand and strengthen nonformal education methods, especially those designed to improve productive skills of rural families and the urban poor and to provide them with useful information; to increase the relevance of formal education systems to the needs of the poor, especially at the primary level, through reform of curricula, teaching materials, and teaching methods, and improved teacher training; and to strengthen the management capabilities of institutions which enable the poor to participate in development. Assistance under this section shall also be provided for advanced education and training of people of developing countries in such disciplines as are required for planning and implementation of public and private development activities.
 
-(Pub. L. 87–195, pt. I, §105, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §5, Dec. 30, 1974, 88 Stat. 1796; Pub. L. 94–161, title III, §305, Dec. 20, 1975, 89 Stat. 858; Pub. L. 95–88, title I, §104, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §105, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§103, 122, Aug. 14, 1979, 93 Stat. 360, 366; Pub. L. 96–533, title III, §303, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §303, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 99–83, title III, §306, title XII, §1211(a)(1), Aug. 8, 1985, 99 Stat. 215, 279; Pub. L. 99–440, title II, §201(a), Oct. 2, 1986, 100 Stat. 1094; Pub. L. 99–631, §1(b)(1), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 101–513, title V, §562(d)(1), Nov. 5, 1990, 104 Stat. 2031.)
+(Pub. L. 87–195, pt. I, §105, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §5, Dec. 30, 1974, 88 Stat. 1796; Pub. L. 94–161, title III, §305, Dec. 20, 1975, 89 Stat. 858; Pub. L. 95–88, title I, §104, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §105, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§103, 122, Aug. 14, 1979, 93 Stat. 360, 366; Pub. L. 96–533, title III, §303, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §303, Dec. 29, 1981, 95 Stat. 1532;Pub. L. 99–83, title III, §306, title XII, §1211(a)(1), Aug. 8, 1985, 99 Stat. 215, 279; Pub. L. 99–440, title II, §201(a), Oct. 2, 1986, 100 Stat. 1094; Pub. L. 99–631, §1(b)(1), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 101–513, title V, §562(d)(1), Nov. 5, 1990, 104 Stat. 2031.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Subsecs. (b), (c), Pub. L. 94–161, §305(a)(3), added subsecs. (b) and (c).
 
 #### Effective Date of 1986 Amendment
 
-Section 1(c) of Pub. L. 99–631 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2151n, 2346d, 5001, 5012 to 5016, 5019, 5034, 5035, 5039, 5053, 5056, 5059, 5062 to 5064, 5067 to 5072, 5081, 5082, 5091, 5092, 5095, 5100, 5101, and 5112 of thistitle\] shall be deemed to have taken effect upon the enactment of the Comprehensive Anti-Apartheid Act of 1986 \[Oct. 2, 1986\].”
+Section 1(c) of Pub. L. 99–631 provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 2151n, 2346d, 5001, 5012 to 5016, 5019, 5034, 5035, 5039, 5053, 5056, 5059, 5062 to 5064, 5067 to 5072, 5081, 5082, 5091, 5092, 5095, 5100, 5101, and 5112 of this title\] shall be deemed to have taken effect upon the enactment of the Comprehensive Anti-Apartheid Act of 1986 \[Oct. 2, 1986\].”
 
 #### Effective Date of 1985 Amendment
 

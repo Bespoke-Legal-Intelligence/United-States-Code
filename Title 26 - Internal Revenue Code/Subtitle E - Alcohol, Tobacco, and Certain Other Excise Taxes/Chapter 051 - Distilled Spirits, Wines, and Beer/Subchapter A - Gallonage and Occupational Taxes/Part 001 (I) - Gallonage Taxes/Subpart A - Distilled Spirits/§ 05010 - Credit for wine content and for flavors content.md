@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### Prior Provisions
 
-A prior section 5010, act Aug. 16, 1954, ch. 736, 68A Stat. 603, related to miscellaneous stamp provisions,prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5010, act Aug. 16, 1954, ch. 736, 68A Stat. 603, related to miscellaneous stamp provisions, prior to the general revision of this chapter by Pub. L. 85–859.
 
 A prior section 5011, act Aug. 16, 1954, ch. 736, 68A Stat. 604, related to abatement, remission, refund and allowance for loss or destruction of distilled spirits, prior to the general revision of this chapter by Pub. L. 85–859.
 

@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “excess business holdings” means, with respect to the holdings of any private foundation in any business enterprise, the amount of stock or other interest in the enterprise which the foundation would have to dispose of to a person other than a disqualified person in order for the remaining holdings of the foundation in such enterprise to be permitted holdings.
+&emsp;The term “excess business holdings” means, with respect to the holdings of any privatefoundation in any business enterprise, the amount of stock or other interest in the enterprise which the foundation would have to dispose of to a person other than a disqualified person in order for the remaining holdings of the foundation in such enterprise to be permitted holdings.
 
 #### (2) Permitted holdings in a corporation
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;&emsp;(iii) during the 10–year period beginning on such date, in any other case.
 
-&emsp;(C) The 20-year, 15-year, and 10-year periods described in subparagraph (B) for the disposition of excess business holdings shall be suspended during the pendency of any judicial proceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to allow disposition of such holdings.
+&emsp;(C) The 20-year, 15-year, and 10-year periods described in subparagraph (B) for the disposition of excess business holdings shall be suspended during the pendency of any judicialproceeding by the private foundation which is necessary to reform, or to excuse such foundation from compliance with, its governing instrument or any other instrument (as in effect on May 26, 1969) in order to allow disposition of such holdings.
 
 &emsp;(D)(i) If, at any time during the second phase, all disqualified persons together have holdings in a business enterprise in excess of 2 percent of the voting stock of such enterprise, then subparagraph (A)(i) shall be applied by substituting for “50 percent” the following: “50 percent, of which not more than 25 percent shall be voting stock held by the private foundation”.
 

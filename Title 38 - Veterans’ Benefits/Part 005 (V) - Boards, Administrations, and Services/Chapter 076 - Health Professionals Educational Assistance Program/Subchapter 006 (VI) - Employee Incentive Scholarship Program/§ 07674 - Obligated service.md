@@ -28,7 +28,7 @@ Determination of Service Commencement Date.—(1) Not later than 60 days before 
 
 &emsp;(ii) the date the participant meets any applicable licensure or certification requirements.
 
-(4) The Secretary shall by regulation prescribe the service commencement date for participantswho were part-time students. Such regulations shall prescribe terms as similar as practicable to the terms set forth in paragraph (3).
+(4) The Secretary shall by regulation prescribe the service commencement date for participants who were part-time students. Such regulations shall prescribe terms as similar as practicable to the terms set forth in paragraph (3).
 
 (c)
 

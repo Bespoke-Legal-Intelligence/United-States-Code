@@ -20,7 +20,7 @@ The Secretary of the Treasury is authorized to prescribe rules and regulations f
 
 &emsp;(4) Merchandise recovered from a wrecked or stranded vessel;
 
-&emsp;(5) Household effects used abroad and personal effect, not imported in pursuance of a purchase or agreement for purchase and not intended for sale;
+&emsp;(5) Household effects used abroad and personal effects, not imported in pursuance of a purchase or agreement for purchase and not intended for sale;
 
 &emsp;(6) Articles sent by persons in foreign countries as gifts to persons in the United States;
 

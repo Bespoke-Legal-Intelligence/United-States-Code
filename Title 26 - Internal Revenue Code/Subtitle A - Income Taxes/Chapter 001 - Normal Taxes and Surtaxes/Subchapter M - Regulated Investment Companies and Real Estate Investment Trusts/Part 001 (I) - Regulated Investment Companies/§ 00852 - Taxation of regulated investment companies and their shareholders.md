@@ -34,7 +34,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 &emsp;&emsp;(C) The deductions for corporations provided in part VIII (except section 248) in subchapter B (section 241 and following, relating to the deduction for dividends received, etc.) shall not be allowed.
 
-&emsp;&emsp;(D) the <sup>1</sup> deduction for dividends paid (as defined in section 561) shall be allowed, but shall be computed without regard to capital gain dividends and exempt-interest dividends.
+&emsp;&emsp;(D) the <sup>1</sup> deduction for dividends paid (as defined in section 561) shall be allowed, but shall be computed without regard to capitalgain dividends and exempt-interest dividends.
 
 &emsp;&emsp;(E) The taxable income shall be computed without regard to section 443(b) (relating to computation of tax on change of annual accounting period).
 
@@ -56,7 +56,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 #### (D) Treatment by shareholders of undistributed capital gains
 
-&emsp;&emsp;(i) Every shareholder of a regulated investment company at the close of the company'staxable year shall include, in computing his long-term capital gains in his return for his taxable year in which the last day of the company's taxable year falls, such amount as the company shall designate in respect of such shares in a written notice mailed to its shareholders at any time prior to the expiration of 60 days after close of its taxable year, but the amount so includible by any shareholder shall not exceed that part of the amount subjected to tax in subparagraph (A) which he would have received if all of such amount had been distributed as capital gain dividends by the company to the holders of such shares at the close of its taxable year.
+&emsp;&emsp;(i) Every shareholder of a regulated investment company at the close of the company's taxable year shall include, in computing his long-term capital gains in his return for his taxable year in which the last day of the company's taxable year falls, such amount as the company shall designate in respect of such shares in a written notice mailed to its shareholders at any time prior to the expiration of 60 days after close of its taxable year, but the amount so includible by any shareholder shall not exceed that part of the amount subjected to tax in subparagraph (A) which he would have received if all of such amount had been distributed as capital gain dividends by the company to the holders of such shares at the close of its taxable year.
 
 &emsp;&emsp;(ii) For purposes of this title, every such shareholder shall be deemed to have paid, for his taxable year under clause (i), the tax imposed by subparagraph (A) on the amounts required by this subparagraph to be included in respect of such shares in computing his long-term capital gains for that year; and such shareholder shall be allowed credit or refund, as the case may be, for the tax so deemed to have been paid by him.
 
@@ -86,7 +86,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 &emsp;&emsp;&emsp;(ii) such share is held by the taxpayer for 6 months or less,
 
-> &emsp;&emsp;then any loss on the sale or exchange of such share shall, to the extent of the amount of such exempt-interest dividend, be disallowed.
+> &emsp;&emsp;then any loss on the sale or exchange of such share shall, to the extent of the amount ofsuch exempt-interest dividend, be disallowed.
 
 #### (C) Determination of holding periods
 
@@ -112,7 +112,7 @@ The provisions of this part (other than subsection (c) of this section) shall no
 
 &emsp;&emsp;&emsp;(ii) the amounts disallowed as deductions under sections 265 and 171(a)(2),
 
-> &emsp;&emsp;the portion of such distribution which shall constitute an exempt-interest dividend shall be only that proportion of the amount so designated as the amount of such excess forsuch taxable year bears to the amount so designated.
+> &emsp;&emsp;the portion of such distribution which shall constitute an exempt-interest dividend shall be only that proportion of the amount so designated as the amount of such excess for such taxable year bears to the amount so designated.
 
 #### (B) Treatment of exempt-interest dividends by shareholders
 
@@ -452,7 +452,7 @@ Subsec. (c). Pub. L. 85–866, §101(b), inserted sentence defining regulated in
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided that: “The amendments made by this section \[amending this section and section 857 of this title\] shall apply to distributions after December 31, 2000.”
+Pub. L. 106–170, title V, §566(d), Dec. 17, 1999, 113 Stat. 1950, provided that: “The amendments made by thissection \[amending this section and section 857 of this title\] shall apply to distributions after December 31, 2000.”
 
 #### Effective Date of 1997 Amendment
 
@@ -488,7 +488,7 @@ Amendment by section 631(e)(11) of Pub. L. 99–514 applicable to any distributi
 
 Amendment by section 651(b)(1)(A), (2), (3) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 651(d) of Pub. L. 99–514, set out as an Effective Date note under section 4982 of this title.
 
-Section 655(b) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending thissection and sections 853 to 855 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 655(b) of Pub. L. 99–514 provided that: “The amendments made by subsection (a) \[amending this section and sections 853 to 855 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 Section 1173(c)(2)(A) of Pub. L. 99–514 provided that: “The amendments made by subsection (b)(1) \[amending this section and former section 133 of this title\] shall apply to loans used to acquire employer securities after the date of the enactment of this Act \[Oct. 22, 1986\], including loans used to refinance loans used to acquire employer securities before such date if such loans were used to acquire employer securities after May 23, 1984.”
 

@@ -104,7 +104,7 @@ The Assistant Secretary shall consider the following criteria in awarding grants
 
 #### (2) Content
 
-&emsp;Such hotline described in paragraph (1) shall provide information for individuals seeking outreach, information, counseling, referral, and assistance regarding pension and other retirement benefits, and rights related to such benefits.
+&emsp;Such hotline described in paragraph (1) shall provide information for individuals seekingoutreach, information, counseling, referral, and assistance regarding pension and other retirement benefits, and rights related to such benefits.
 
 #### (3) Agreements
 

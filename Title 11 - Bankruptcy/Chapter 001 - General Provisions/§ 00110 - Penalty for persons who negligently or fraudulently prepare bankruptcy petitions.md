@@ -70,7 +70,7 @@
 
 > the court may enjoin the bankruptcy petition preparer from engaging in such conduct.
 
-(B) If the court finds that a bankruptcy petition preparer has continually engaged in conduct described in subclause (I), (II), or (III) of clause (i) and that an injunction prohibiting such conduct would not be sufficient to preventsuch person's interference with the proper administration of this title, or has not paid a penalty imposed under this section, the court may enjoin the person from acting as a bankruptcy petition preparer.
+(B) If the court finds that a bankruptcy petition preparer has continually engaged in conduct described in subclause (I), (II), or (III) of clause (i) and that an injunction prohibiting such conduct would not be sufficient to prevent such person's interference with the proper administration of this title, or has not paid a penalty imposed under this section, the court may enjoin the person from acting as a bankruptcy petition preparer.
 
 (3) The court shall award to a debtor, trustee, or creditor that brings a successful action under this subsection reasonable attorney's <sup>1</sup> fees and costs of the action, to be paid by the bankruptcy petition preparer.
 

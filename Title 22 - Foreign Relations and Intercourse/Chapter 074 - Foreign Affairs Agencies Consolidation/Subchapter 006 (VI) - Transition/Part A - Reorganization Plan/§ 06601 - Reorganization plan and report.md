@@ -32,7 +32,7 @@ The plan transmitted under subsection (a) of this section shall contain, consist
 
 &emsp;(1) identify the functions of each covered agency that will be transferred to the Department under the plan;
 
-&emsp;(2) specify the steps to be taken by the Secretary of State to reorganize internally thefunctions of the Department, including the consolidation of offices and functions, that will be required under the plan in order to permit the Department to carry out the functions transferred to it under the plan;
+&emsp;(2) specify the steps to be taken by the Secretary of State to reorganize internally the functions of the Department, including the consolidation of offices and functions, that will be required under the plan in order to permit the Department to carry out the functions transferred to it under the plan;
 
 &emsp;(3) specify the funds available to each covered agency that will be transferred to the Department as a result of the transfer of functions of such agency to the Department;
 
@@ -112,7 +112,7 @@ The report accompanying the reorganization plan for the Department and the cover
 
 #### (h) Publication
 
-The reorganization plan described in this section shall be printed in the Federal Registerafter the date upon which it first becomes effective.
+The reorganization plan described in this section shall be printed in the Federal Register after the date upon which it first becomes effective.
 
 (Pub. L. 105–277, div. G, subdiv. A, title XVI, §1601, Oct. 21, 1998, 112 Stat. 2681–795.)
 

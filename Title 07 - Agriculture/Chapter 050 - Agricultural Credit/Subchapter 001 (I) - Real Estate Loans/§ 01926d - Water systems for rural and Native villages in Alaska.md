@@ -6,7 +6,7 @@ The Secretary may make grants to the State of Alaska for the benefit of rural or
 
 #### (b) Matching funds
 
-To be eligible to receive a grant under subsection (a) of this section, the State of Alaska shall provide 25 percent in matching funds from non-Federal sources.
+To be eligible to receive a grant under subsection (a) of this section, the State of Alaskashall provide 25 percent in matching funds from non-Federal sources.
 
 #### (c) Consultation with State of Alaska
 

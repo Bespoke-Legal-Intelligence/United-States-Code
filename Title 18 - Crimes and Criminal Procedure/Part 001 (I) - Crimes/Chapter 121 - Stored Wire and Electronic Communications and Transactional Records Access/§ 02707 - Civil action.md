@@ -2,7 +2,7 @@
 
 (a)
 
-Cause of Action.—Except as provided in section 2703(e), any provider of electronic communication service, subscriber, or other person aggrieved by any violation of this chapter in which the conduct constituting the violation is engaged in with a knowing or intentional state of mind may, in a civil action, recover from the person or entity which engaged in that violation such relief as may be appropriate.
+Cause of Action.—Except as provided in section 2703(e), any provider of electronic communication service, subscriber, or other person aggrieved by any violation of this chapter in which the conduct constituting the violation is engaged in with a knowing or intentional state of mind may, in a civil action, recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
 
 (b)
 
@@ -20,13 +20,13 @@ Damages.—The court may assess as damages in a civil action under this section 
 
 (d)
 
-Disciplinary Actions for Violations.—If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee.
+Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings ofthe court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 
 (e)
 
 Defense.—A good faith reliance on—
 
-&emsp;(1) a court warrant or order, a grand jury subpoena, a legislative authorization, or a statutory authorization;
+&emsp;(1) a court warrant or order, a grand jury subpoena, a legislative authorization, or a statutory authorization (including a request of a governmental entity under section 2703(f) of this title);
 
 &emsp;(2) a request of an investigative or law enforcement officer under section 2518(7) of this title; or
 
@@ -38,13 +38,33 @@ Defense.—A good faith reliance on—
 
 Limitation.—A civil action under this section may not be commenced later than two years after the date upon which the claimant first discovered or had a reasonable opportunity to discover the violation.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, §601(c), Oct. 11, 1996, 110 Stat. 3469.)
+(g)
+
+Improper Disclosure.—Any willful disclosure of a “record”, as that term is defined in section 552a(a) of title 5, United States Code, obtained by an investigative or law enforcement officer, or a governmental entity, pursuant to section 2703 of this title, or from a device installed pursuant to section 3123 or 3125 of this title, that is not a disclosure made in the proper performance of the official functions of the officer or governmental entity making the disclosure, is a violation of this chapter. This provision shall not apply to information previously lawfully disclosed (prior to the commencement of any civil or administrative proceeding under this chapter) to the public by a Federal, State, or local governmental entity or by the plaintiff in a civil action under this chapter.
+
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, §601(c), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title II, §§223(b), title VIII, §815, Oct. 26, 2001, 115 Stat. 293, 384.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 223(b) of Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–56, §§223(b)(1), 224, temporarily inserted “, other than the United States,” after “person or entity”. See Termination Date of 2001 Amendment note below.
+
+Subsec. (d). Pub. L. 107–56, §§223(b)(2), 224, temporarily added subsec. (d) and temporarily struck out heading and text of former subsec. (d). Text read as follows: “If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee.” See Termination Date of 2001 Amendment note below.
+
+Subsec. (e)(1). Pub. L. 107–56, §815, which directed insertion of “(including a request of a governmental entity under section 2703(f) of this title)” after “or statutory authorization”, was executed by making the insertion after “or a statutory authorization” to reflect the probable intent of Congress.
+
+Subsec. (g). Pub. L. 107–56, §§223(b)(3), 224, temporarily added subsec. (g). See Termination Date of 2001 Amendment note below.
 
 1996—Subsec. (a). Pub. L. 104–293, §601(c)(1), substituted “other person” for “customer”.
 
 Subsec. (c). Pub. L. 104–293, §601(c)(2), inserted at end “If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court.”
 
 Subsecs. (d) to (f). Pub. L. 104–293, §601(c)(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+#### Termination Date of 2001 Amendment
+
+Amendment by section 223(b) of Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
 

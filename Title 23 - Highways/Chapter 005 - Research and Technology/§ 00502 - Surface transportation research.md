@@ -268,7 +268,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### Transportation Technology Innovation and Demonstration Program
 
-Pub. L. 105–178, title V, §5117, June 9, 1998, 112 Stat. 448, as amended by Pub. L. 105–206, title IX, §9011(g), (h), July 22, 1998, 112 Stat. 864; Pub. L. 105–277, div. A, §101(g) \[title III, §3769 \[369\]\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478, provided that:
+Pub. L. 105–178, title V, §5117, June 9, 1998, 112 Stat. 448, as amended by Pub. L. 105–206, title IX, §9011(g), (h), July 22, 1998, 112 Stat. 864; Pub. L. 105–277, div. A, §101(g) \[title III, §3769 \[369\]\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 107–117, div. B, §1101, Jan. 10, 2002, 115 Stat. 2330, provided that:
 
 “(a)
 
@@ -330,13 +330,27 @@ Description.—The program under this section shall meet the following objective
 
 &emsp;&emsp;“(C)
 
-Eligibility.—In addition to the amounts made available under subparagraph (D), the program authorized under this paragraph shall be eligible for funding under sections 5207 and 5208 of this Act \[set out in a note below\].
+Follow-on deployment.—(i) After an intelligent transportation infrastructure system deployed in an initial deployment area pursuant to a contract entered into under the program under this paragraph has received system acceptance, the Department of Transportation has the authority to extend the original contract that was competitively awarded for the deployment of the system in the follow-on deployment areas under the contract, using the same asset ownership, maintenance, fixed price contract, and revenue sharing model, and the same competitively selected consortium leader, as were used for the deployment in that initial deployment area under the program.
+
+&emsp;&emsp;“(ii) If any one of the follow-on deployment areas does not commit, by July 1, 2002, to participate in the deployment of the system under the contract, then, upon application by any of the other follow-on deployment areas that have committed by that date to participate in the deployment of the system, the Secretary shall supplement the funds made available for any of the follow-on deployment areas submitting the applications by using for that purpose the funds not used for deployment of the system in the nonparticipating area. Costs paid out of funds provided in such a supplementation shall not be counted for the purpose of the limitation on maximum cost set forth in subparagraph (B).
 
 &emsp;&emsp;“(D)
 
-Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(2) of this Act, $1,700,000 per fiscal year shall be available to carry out this paragraph.
+Eligibility.—In addition to the amounts made available under subparagraph (F), the program authorized under this paragraph shall be eligible for funding under sections 5207 and 5208 of this Act \[set out in a note below\].
 
 &emsp;&emsp;“(E)
+
+Definitions.—In this paragraph:
+
+&emsp;&emsp;&emsp;“(i) The term ‘initial deployment area’ means a metropolitan area referred to in the second sentence of subparagraph (A).
+
+&emsp;&emsp;&emsp;“(ii) The term ‘follow-on deployment areas’ means the metropolitan areas of Baltimore, Birmingham, Boston, Chicago, Cleveland, Dallas/Ft. Worth, Denver, Detroit, Houston, Indianapolis, Las Vegas, Los Angeles, Miami, New York/Northern New Jersey, Northern Kentucky/Cincinnati, Oklahoma City, Orlando, Philadelphia, Phoenix, Pittsburgh, Portland, Providence, Salt Lake, San Diego, San Francisco, St. Louis, Seattle, Tampa, and Washington, District of Columbia.
+
+&emsp;&emsp;“(F)
+
+Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(2) of this Act, $1,700,000 per fiscal year shall be available to carry out this paragraph.
+
+&emsp;&emsp;“(G)
 
 Federal share.—The Federal share of the cost of a program carried out under this paragraph shall be 80 percent of the cost of such program.
 
@@ -462,7 +476,7 @@ Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended 
 
 &emsp;“(1) investments authorized by the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1914 et seq.) \[Pub. L. 104–240, see Tables for classification\] have demonstrated that intelligent transportation systems can mitigate surface transportation problems in a cost-effective manner; and
 
-&emsp;“(2) continued investment in architecture and standards development, research, and systems integration is needed to accelerate the rate at which intelligent transportation systems are incorporated into the national surface transportation network, thereby improving transportation safety and efficiency and reducing costs and negative impacts on communities and the environment.
+&emsp;“(2) continued investment in architecture and standards development, research, and systems integration is needed to accelerate the rate at which intelligent transportation systems are incorporatedinto the national surface transportation network, thereby improving transportation safety and efficiency and reducing costs and negative impacts on communities and the environment.
 
 #### “SEC. 5203. GOALS AND PURPOSES.
 
@@ -588,7 +602,7 @@ Objectivity and independence.—The guidelines and requirements issued under sub
 
 &emsp;&emsp;“(C)
 
-Funding.—The guidelines and requirements issued under subparagraph (A) shall establish evaluation funding levels based on the size and scope of each test or project that ensure adequate evaluation of the results of the test or project.
+Funding.—The guidelines and requirements issued under subparagraph (A) shall establish evaluation funding levels based on the size and scope ofeach test or project that ensure adequate evaluation of the results of the test or project.
 
 &emsp;“(2)
 
@@ -1110,7 +1124,7 @@ Authorization of Appropriations.—The Secretary shall expend from administrativ
 
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 
-Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: “The Secretary of Transportation shallmake a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors.”
+Pub. L. 95–599, title I, §166, Nov. 6, 1978, 92 Stat. 2722, provided that: “The Secretary of Transportation shall make a full and complete investigation and study of all those factors affecting the safe and efficient operation of bridges, tunnels, and roads within the United States, including, but not limited to, structural, operational, environmental, and civil disturbance factors.”
 
 #### Section Referred to in Other Sections
 

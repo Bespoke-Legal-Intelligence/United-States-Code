@@ -42,7 +42,7 @@ Provisions similar to those in this section were contained in section 3(b) of Pu
 
 1994—Subsec. (a)(1). Pub. L. 103–446, §1201(c)(1)(A), substituted “an Under Secretary” for “a Under Secretary”.
 
-Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(1)(B), (e)(2), substituted “Chief Medical Director of the Veterans’ Administration)” for “Under Secretary for Health of the Department)” and “commission” for “Commission”.
+Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(1)(B), (e)(2), substituted “Chief Medical Director of the Veterans’ Administration)” for “Under Secretary for Health ofthe Department)” and “commission” for “Commission”.
 
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 

@@ -20,7 +20,7 @@ The National Security Act of 1947, referred to in subsec. (c), is act July 26, 1
 
 #### Amendments
 
-1989—Subsec. (c). Pub. L. 101–189 substituted “House of Representatives pursuant to the provisions of title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.). Funds” for “House pursuant to the provisions of title V of the National Security Act of 1947, as amended, and funds”.
+1989—Subsec. (c). Pub. L. 101–189 substituted “House of Representatives pursuant to the provisions of title Vof the National Security Act of 1947 (50 U.S.C. 413 et seq.). Funds” for “House pursuant to the provisions of title V of the National Security Act of 1947, as amended, and funds”.
 
 1988—Pub. L. 100–453 struck out “transfers” after “Funds” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense may use funds available to the Department of Defense for intelligence and communications purposes to pay for the expenses of arrangements with foreign countries for cryptologic support.”
 

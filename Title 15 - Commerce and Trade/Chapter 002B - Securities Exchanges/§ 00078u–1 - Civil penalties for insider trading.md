@@ -48,7 +48,7 @@ The Commission, by such rules, regulations, and orders as it considers necessary
 
 #### (3) Remedy not exclusive
 
-&emsp;The actions authorized by this section may be brought in addition to any other actionsthat the Commission or the Attorney General are entitled to bring.
+&emsp;The actions authorized by this section may be brought in addition to any other actions that the Commission or the Attorney General are entitled to bring.
 
 #### (4) Jurisdiction and venue
 

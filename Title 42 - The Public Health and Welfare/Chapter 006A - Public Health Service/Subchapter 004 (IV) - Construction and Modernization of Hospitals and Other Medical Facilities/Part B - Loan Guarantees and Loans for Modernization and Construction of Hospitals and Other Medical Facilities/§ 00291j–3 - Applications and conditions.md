@@ -10,7 +10,7 @@ The Secretary may approve such application only if—
 
 &emsp;(1) there remains sufficient balance in the allotment determined for such State pursuant to section 291j–2 of this title to cover the amount of the loan for which a guarantee is sought, or the amount of the direct loan sought (as the case may be), in such application,
 
-&emsp;(2) he makes each of the findings which are required by clauses (1) through (4) of section291e(b) of this title for the approval of applications for projects thereunder (except that, in the case of the finding required under such clause (4) of entitlement of a project to a priority established under section 291c(a) of this title; such finding shall be made without regard to the provisions of clauses (1) and (3) of such section),
+&emsp;(2) he makes each of the findings which are required by clauses (1) through (4) of section 291e(b) of this title for the approval of applications for projects thereunder (except that, in the case of the finding required under such clause (4) of entitlement of a project to a priority established under section 291c(a) of this title; such finding shall be made without regard to the provisions of clauses (1) and (3) of such section),
 
 &emsp;(3) he finds that there is compliance with section 291e(e) of this title,
 

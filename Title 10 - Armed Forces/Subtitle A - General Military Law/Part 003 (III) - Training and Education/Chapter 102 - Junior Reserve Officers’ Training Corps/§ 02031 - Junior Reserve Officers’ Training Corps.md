@@ -1,6 +1,6 @@
 ### §2031. Junior Reserve Officers’ Training Corps
 
-(a)(1) The Secretary of each military department shall establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The total number of units which may be established and maintained by all of the military departments under authority of this section, including those units already established on October 13, 1964, may not exceed 3,500. The President shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.
+(a)(1) The Secretary of each military department shall establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions which apply for a unit and meet the standards and criteria prescribed pursuant to this section. The President shall promulgate regulations prescribing the standards and criteria to be followed by the military departments in selecting the institutions at which units are to be established and maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.
 
 (2) It is a purpose of the Junior Reserve Officers’ Training Corps to instill in students in United States secondary educational institutions the values of citizenship, service to the United States, and personal responsibility and a sense of accomplishment.
 
@@ -30,9 +30,11 @@
 
 &emsp;(2) Notwithstanding any other provision of law, such a retired member is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
-(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774.)
+(Added Pub. L. 88–647, title I, §101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, §16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, §807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, §422, title XIV, §1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, §7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, §533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, §1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, §537, Dec. 28, 2001, 115 Stat. 1107.)
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–107 struck out after first sentence “The total number of units which may be established and maintained by all of the military departments under authority of this section, including those units already established on October 13, 1964, may not exceed 3,500.”
 
 1993—Subsec. (a)(1). Pub. L. 103–160 substituted “The” for “Not more than 200 units may be established by all of the military departments each year, and the” in second sentence.
 
@@ -72,7 +74,7 @@ Section 1 of Pub. L. 88–647 provided: “That the Act \[enacting this chapter,
 
 #### Issuance of Regulations
 
-Section 102 of Pub. L. 88–647 directed that regulations implementing subsec. (a) of this section be issued by President and by Secretary of each military department not later than Jan. 1, 1966.
+Section 102 of Pub. L. 88–647 directed that regulations implementing subsec. (a) of this section be issued byPresident and by Secretary of each military department not later than Jan. 1, 1966.
 
 #### Savings Clause
 
@@ -90,5 +92,5 @@ Pub. L. 96–342, title VI, §602, Sept. 8, 1980, 94 Stat. 1087, as amended by P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2032, 2033 of this title.
+This section is referred to in section 2032 of this title.
 

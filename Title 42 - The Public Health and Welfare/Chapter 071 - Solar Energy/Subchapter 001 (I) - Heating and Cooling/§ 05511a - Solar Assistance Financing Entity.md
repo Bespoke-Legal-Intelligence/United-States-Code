@@ -50,7 +50,7 @@ Not later than the expiration of the 12-month period beginning on October 28, 19
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year1993 and $10,420,000 for fiscal year 1994. Such sums are to be available until expended.
+There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 1993 and $10,420,000 for fiscal year 1994. Such sums are to be available until expended.
 
 (Pub. L. 102–550, title IX, §912, Oct. 28, 1992, 106 Stat. 3875.)
 

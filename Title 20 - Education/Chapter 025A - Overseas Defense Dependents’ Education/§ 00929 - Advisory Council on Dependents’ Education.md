@@ -30,7 +30,7 @@ The term of office of each member of the Council appointed under subsection (a)(
 
 The Council shall meet at least two times each year. The functions of the Council shall be to—
 
-&emsp;(1) recommend to the Director general policies for operation of the defense dependents’ education system with respect to curriculum selection, administration, and operation of the system,
+&emsp;(1) recommend to the Director general policies for operation of the defense dependents’education system with respect to curriculum selection, administration, and operation of the system,
 
 &emsp;(2) provide information to the Director from other Federal agencies concerned with primary and secondary education with respect to education programs and practices which such agencies have found to be effective and which should be considered for inclusion in the defense dependents’ education system,
 

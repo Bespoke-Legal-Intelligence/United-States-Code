@@ -12,7 +12,31 @@ The defendant shall be the employing office alleged to have committed the violat
 
 Any party may demand a jury trial where a jury trial would be available in an action against a private defendant under the relevant law made applicable by this chapter. In any case in which a violation of section 1311 of this title is alleged, the court shall not inform the jury of the maximum amount of compensatory damages available under section 1311(b)(1) or 1311(b)(3) of this title.
 
-(Pub. L. 104–1, title IV, §408, Jan. 23, 1995, 109 Stat. 37.)
+#### (d) Appearances by House Employment Counsel
+
+#### (1) In general
+
+&emsp;The House Employment Counsel of the House of Representatives and any other counsel in the Office of House Employment Counsel of the House of Representatives, including any counsel specially retained by the Office of House Employment Counsel, shall be entitled,for the purpose of providing legal assistance and representation to employing offices of the House of Representatives under this chapter, to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof without compliance with any requirements for admission to practice before such court, except that the authorization conferred by this paragraph shall not apply with respect to the admission of any such person to practice before the United States Supreme Court.
+
+#### (2) House Employment Counsel defined
+
+&emsp;In this subsection, the term “Office of House Employment Counsel of the House of Representatives” means—
+
+&emsp;&emsp;(A) the Office of House Employment Counsel established and operating under the authority of the Clerk of the House of Representatives as of November 12, 2001;
+
+&emsp;&emsp;(B) any successor office to the Office of House Employment Counsel which is established after November 12, 2001; and
+
+&emsp;&emsp;(C) any other person authorized and directed in accordance with the Rules of the House of Representatives to provide legal assistance and representation to employing offices of the House of Representatives in connection with actions brought under this subchapter.
+
+(Pub. L. 104–1, title IV, §408, Jan. 23, 1995, 109 Stat. 37; Pub. L. 107–68, title I, §119(a), Nov. 12, 2001, 115 Stat. 573.)
+
+#### Amendments
+
+2001—Subsec. (d). Pub. L. 107–68 added subsec. (d).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–68, title I, §119(b), Nov. 12, 2001, 115 Stat. 574, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to proceedings occurring on or after the date of the enactment of this Act \[Nov. 12, 2001\].”
 
 #### Section Referred to in Other Sections
 

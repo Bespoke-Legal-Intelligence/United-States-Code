@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to beallowable under section 6413(c) as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered an amount withheld at source as tax under section 3402.
+&emsp;The Secretary may prescribe regulations providing for the crediting against the tax imposed by this subtitle of the amount determined by the taxpayer or the Secretary to be allowable under section 6413(c) as a special refund of tax imposed on wages. The amount allowed as a credit under such regulations shall, for purposes of this subtitle, be considered an amount withheld at source as tax under section 3402.
 
 #### (2) Year of credit
 
@@ -24,7 +24,7 @@
 
 Any credit allowed by subsection (a) for any amount withheld under section 3406 shall be allowed for the taxable year of the recipient of the income in which the income is received.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 12; Pub. L. 94–455, title XIX, §1906(b)(13)(D), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§302(a), 308(a), Sept. 3, 1982, 96 Stat. 585, 591; Pub. L. 97–354, §3(i)(4), Oct. 19, 1982, 96 Stat. 1691; Pub. L. 97–448, title III, §306(b)(1), Jan. 12, 1983, 96 Stat. 2405; Pub. L. 98–67, title I, §§102(a), 104(d)(2), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–369, div. A, title IV, §471(c), title VII, §714(j)(2), July 18, 1984, 98 Stat. 826, 962.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 12; Pub. L. 94–455, title XIX, §1906(b)(13)(D), Oct. 4, 1976, 90 Stat.1834; Pub. L. 97–248, title III, §§302(a), 308(a), Sept. 3, 1982, 96 Stat. 585, 591; Pub. L. 97–354, §3(i)(4), Oct. 19, 1982, 96 Stat. 1691; Pub. L. 97–448, title III, §306(b)(1), Jan. 12, 1983, 96 Stat. 2405; Pub. L. 98–67, title I, §§102(a), 104(d)(2), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–369, div. A, title IV, §471(c), title VII, §714(j)(2), July 18, 1984, 98 Stat. 826, 962.)
 
 #### Amendments
 
@@ -68,5 +68,5 @@ Section 701 of title VII of div. A of Pub. L. 98–369 provided that: “For pur
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 32, 643, 874, 995, 3406, 3510, 6211, 6413, 6513, 6654 of this title.
+This section is referred to in sections 643, 874, 995, 3406, 3510, 6211, 6413, 6513, 6654 of this title.
 

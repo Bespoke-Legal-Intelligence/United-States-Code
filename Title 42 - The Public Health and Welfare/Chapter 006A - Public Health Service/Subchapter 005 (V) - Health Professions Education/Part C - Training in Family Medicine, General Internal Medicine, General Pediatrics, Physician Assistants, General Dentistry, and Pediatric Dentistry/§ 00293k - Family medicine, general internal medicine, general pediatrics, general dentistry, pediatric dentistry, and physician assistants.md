@@ -22,13 +22,13 @@ The Secretary may make grants to, or enter into contracts with, any public or no
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to or enter into contracts with schools of medicine or osteopathic medicine to meet the costs of projects to establish, maintain, or improve academic administrative units (which may be departments, divisions, or other units) to provide clinical instruction in family medicine, general internal medicine, or general pediatrics.
+&emsp;The Secretary may make grants to or enter into contracts with schools of medicine or osteopathic medicine to meet the costs of projects to establish, maintain, or improve academic administrative units (which may bedepartments, divisions, or other units) to provide clinical instruction in family medicine, general internal medicine, or general pediatrics.
 
 #### (2) Preference in making awards
 
 &emsp;In making awards of grants and contracts under paragraph (1), the Secretary shall give preference to any qualified applicant for such an award that agrees to expend the award for the purpose of—
 
-&emsp;&emsp;(A) establishing an academic administrative unit for programs in family medicine,general internal medicine, or general pediatrics; <sup>1</sup>
+&emsp;&emsp;(A) establishing an academic administrative unit for programs in family medicine, general internal medicine, or general pediatrics; <sup>1</sup>
 
 &emsp;&emsp;(B) substantially expanding the programs of such a unit; or <sup>1</sup>
 

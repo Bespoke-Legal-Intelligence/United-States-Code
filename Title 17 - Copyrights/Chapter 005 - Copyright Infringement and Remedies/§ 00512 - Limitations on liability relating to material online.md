@@ -2,7 +2,7 @@
 
 (a)
 
-Transitory Digital Network Communications.—A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider's transmitting, routing, or providing connections for, material through a system or network controlled or operated by or for the service provider, or by reason of the intermediate and transient storage of that material in the course of such transmitting, routing, or providing connections, if—
+Transitory Digital Network Communications.—A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider's transmitting, routing, or providing connections for, material through a system or network controlled or operated by or for theservice provider, or by reason of the intermediate and transient storage of that material in the course of such transmitting, routing, or providing connections, if—
 
 &emsp;(1) the transmission of the material was initiated by or at the direction of a person other than the service provider;
 

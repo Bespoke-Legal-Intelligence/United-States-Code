@@ -1,6 +1,6 @@
 ### §424a–3. Addition of surplus Government lands; publication of notice; effective date
 
-Effective upon publication of notice, as hereinafter provided, there shall be added to the Chickamauga and Chattanooga National Military Park, a strip of land, comprising not more than one hundred acres, lying generally north of the present south line of Fort Oglethorpe and westward from the southeast corner thereof. The exact boundaries of the area added to the park shall be agreed upon by the Administrator, General Services Administration, and the Director of the National Park Service.
+Effective upon publication of notice, as hereinafter provided, there shall be added to the Chickamauga and Chattanooga National Military Park, a strip of land, comprising not more than one hundred acres, lying generally north of the present south line of Fort Oglethorpe and westward from the southeast corner thereof. Theexact boundaries of the area added to the park shall be agreed upon by the Administrator, General Services Administration, and the Director of the National Park Service.
 
 When the boundaries of the aforesaid area have been agreed upon, the General Services Administration shall furnish to the National Park Service a legal description of the lands to be added to the park, together with a map showing the boundaries and the acreage of the area.
 

@@ -76,7 +76,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 &emsp;(2) the amount of such payments taken into account under this subsection for all prior periods.
 
-> The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as defined in section 1504(a)) if section 1504(a)(2) were applied by substituting “100 percent” for “80 percent” shall be treated as 1 taxpayer.
+> The preceding sentence shall also apply to amounts paid by the taxpayer into the Trans-Alaska Pipeline Liability Fund to the extent of amounts transferred from such Fund into the Oil Spill Liability Trust Fund. For purposes of this subsection, all taxpayers which would be members of the same affiliated group (as definedin section 1504(a)) if section 1504(a)(2) were applied by substituting “100 percent” for “80 percent” shall be treated as 1 taxpayer.
 
 #### (e) Income tax credit for unused payments into Trans-Alaska Pipeline Liability Fund
 
@@ -98,7 +98,7 @@ There shall be allowed as a credit against so much of the tax imposed by section
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount determined under clause (ii), over
 
-&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of the credit determined under this subsection forprior taxable years with respect to such taxpayer.
+&emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of the credit determined under this subsection for prior taxable years with respect to such taxpayer.
 
 #### (ii) Overall limitation
 

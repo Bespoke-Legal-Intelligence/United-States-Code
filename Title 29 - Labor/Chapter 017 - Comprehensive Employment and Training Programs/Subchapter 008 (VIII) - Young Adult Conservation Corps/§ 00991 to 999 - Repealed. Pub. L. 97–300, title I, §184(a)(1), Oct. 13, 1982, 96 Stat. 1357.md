@@ -4,7 +4,7 @@ Section 991, Pub. L. 93–203, title VIII, §801, as added Pub. L. 95–524, §2
 
 A prior section 991, Pub. L. 93–203, title VII, §712, formerly title VI, §612, Dec. 28, 1973, 87 Stat. 882; renumbered title VII, §712, Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, related to prohibition concerning discrimination, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-A prior section 801 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat. 627, which provided for Congressional declaration of purpose with regard to Young Adult Conservation Corps, was formerly classified to section 993 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 801 of Pub. L. 93–203, title VIII, as added Pub. L. 95–93, title I, §101, Aug. 5, 1977, 91 Stat. 627, which provided for Congressional declaration of purpose with regard to Young Adult Conservation Corps, was formerly classified to section 993 of thistitle prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 992, Pub. L. 93–203, title VIII, §802, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2013, related to establishment of Young Adult Conservation Corps.
 

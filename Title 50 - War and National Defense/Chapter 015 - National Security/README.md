@@ -65,9 +65,14 @@
 | (a) | Authority to provide assistance. |
 | (b) | Limitation on assistance by elements of Department of Defense. |
 | (c) | Definitions. |
-| 403–5b. | Protection of operational files of the National Imagery and Mapping Agency. |
+| 403–5b. | Disclosure of foreign intelligence acquired in criminal investigations; notice of criminal investigations of foreign intelligence sources. |
+| (a) | Disclosure of foreign intelligence. |
+| (b) | Procedures for notice of criminal investigations. |
+| (c) | Procedures. |
+| 403–5c. | Protection of operational files of the National Imagery and Mapping Agency. |
 | (a) | Exemption of certain operational files from search, review, publication, or disclosure. |
 | (b) | Decennial review of exempted operational files. |
+| 403–5d. | Foreign intelligence information. |
 | 403–6. | Appointment of officials responsible for intelligence-related activities. |
 | (a) | Concurrence of DCI in certain appointments. |
 | (b) | Consultation with DCI in certain appointments. |
@@ -256,6 +261,9 @@
 | (e) | Construction of authority conferred. |
 | (f) | “Intelligence activities” defined. |
 | [413a.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413a%20-%20Reporting%20of%20intelligence%20activities%20other%20than%20covert%20actions.md) | Reporting of intelligence activities other than covert actions. |
+| (a) | In general. |
+| (b) | Form and contents of certain reports. |
+| (c) | Standards and procedures for certain reports. |
 | [413b.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413b%20-%20Presidential%20approval%20and%20reporting%20of%20covert%20actions.md) | Presidential approval and reporting of covert actions. |
 | (a) | Presidential findings. |
 | (b) | Reports to intelligence committees; production of information. |

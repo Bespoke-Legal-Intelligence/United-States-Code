@@ -20,7 +20,7 @@ Subsec. (b). Pub. L. 96–612, §1(4), substituted “section 460u–8” for �
 
 Pub. L. 97–356, Oct. 19, 1982, 96 Stat. 1703, provided: “That (a) notwithstanding the fourth sentence of section 2(a) of the Act entitled ‘An Act to provide for the establishment of the Indiana Dunes National Lakeshore, and for other purposes’, approved November 5, 1966 (16 U.S.C. 460u–1(a)), or any other provision of law, the Secretary of the Interior is authorized—
 
-&emsp;“(1) to accept from the State of Indiana the conveyance of 69.17 acres of land located within area IV–A, as designated on the map referred to in the first section of such Act (16 U.S.C. 460u), commonly known as ‘Blue Heron Rookery’, and
+&emsp;“(1) to accept from the State of Indiana the conveyance of 69.17 acres of land located within area IV–A,as designated on the map referred to in the first section of such Act (16 U.S.C. 460u), commonly known as ‘Blue Heron Rookery’, and
 
 &emsp;“(2) in exchange for such conveyance, to convey to the State of Indiana 31.26 acres of land located within area IV, as designated on such map, commonly known as ‘Hoosier Prairie’.
 

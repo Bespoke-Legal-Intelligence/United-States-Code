@@ -70,6 +70,14 @@ As used in subsection (b)(2) of this section—
 
 (Pub. L. 93–344, title III, §314, as added Pub. L. 105–33, title X, §10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, §201(b)(2), Nov. 19, 1997, 111 Stat. 2125.)
 
+#### Applicability of Subsection (b)(1)
+
+<i>H. Con. Res. 83, §5(f), Mar. 26, 2001, 115 Stat. ——, provided: “Section 314(b)(1) of the Congressional Budget Act of 1974 \[2 U.S.C. 645(b)(1)\] shall not apply in the House—</i>
+
+&emsp;<i>“(1) for fiscal year 2001; or</i>
+
+&emsp;<i>“(2) for fiscal year 2002 or any subsequent fiscal year, except for emergencies affecting national security.”</i>
+
 #### Amendments
 
 1997—Subsec. (b)(6). Pub. L. 105–89 added par. (6).

@@ -34,7 +34,7 @@ The services provided, in a State program under subsection (a) of this section, 
 
 #### (2) Priority
 
-&emsp;In providing services under this subpart, the State shall give priority for services to older individuals with greatest social and economic need,<sup>2</sup> (with particular attention to low-income older individuals) and older individuals providing care and support to persons with mental retardation and related developmental disabilities (as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act <sup>1</sup> (42 U.S.C. 6001)) (referred to in this subpart as “developmental disabilities”).
+&emsp;In providing services under this subpart, the State shall give priority for services to olderindividuals with greatest social and economic need,<sup>2</sup> (with particular attention to low-income older individuals) and older individuals providing care and support to persons with mental retardation and related developmental disabilities (as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act <sup>1</sup> (42 U.S.C. 6001)) (referred to in this subpart as “developmental disabilities”).
 
 #### (d) Coordination with service providers
 

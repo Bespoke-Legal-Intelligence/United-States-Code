@@ -138,7 +138,7 @@ Reorganization Proposal.—Not later than 120 days after the issuance of require
 
 “(c)
 
-Review and Approval of Proposal.—Not later than 60 days after receiving a proposal from the head of an agency under subsection (b), the Director of the Office of Management and Budget shall approve or disapprove the proposal and notify the head of the agency of that approval or disapproval. The Director shall approve each proposal which establishes an agency Chief Financial Officer in conformance with section 901 oftitle 31, United States Code, as added by this Act, and which establishes a financial management structure reasonably tailored to the functions of the agency. Upon approving or disapproving a proposal of an agency under this section, the Director shall transmit to the head of the agency a written notice of that approval or disapproval.
+Review and Approval of Proposal.—Not later than 60 days after receiving a proposal from the head of an agency under subsection (b), the Director of the Office of Management and Budget shall approve or disapprove the proposal and notify the head of the agency of that approval or disapproval. The Director shall approve each proposal which establishes an agency Chief Financial Officer in conformance with section 901 of title 31, United States Code, as added by this Act, and which establishes a financial management structure reasonably tailored to the functions of the agency. Upon approving or disapproving a proposal of an agency under this section, the Director shall transmit to the head of the agency a written notice of that approval or disapproval.
 
 “(d)
 

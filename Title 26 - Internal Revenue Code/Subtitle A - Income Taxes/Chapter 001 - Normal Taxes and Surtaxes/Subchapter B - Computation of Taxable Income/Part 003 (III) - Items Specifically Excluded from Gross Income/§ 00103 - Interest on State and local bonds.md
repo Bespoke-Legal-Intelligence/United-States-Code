@@ -32,7 +32,7 @@ For purposes of this section and part IV—
 
 &emsp;The term “State” includes the District of Columbia and any possession of the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 29; Pub. L. 90–364, title I, §107(a), June 28, 1968, 82 Stat. 266; Pub. L. 90–634, title IV, §401(a), Oct. 24, 1968, 82 Stat. 1349; Pub. L. 91–172, title VI, §601(a), Dec. 30, 1969, 83 Stat. 656; Pub. L. 92–178, title III, §315(a), (b), Dec. 10, 1971, 85 Stat. 529; Pub. L. 94–164, §7(a), Dec. 23, 1975, 89 Stat. 976; Pub. L. 94–182, title III, §301(a), Dec. 31, 1975, 89 Stat. 1056; Pub. L. 94–455, title XIX, §§1901(a)(17), (b)(8)(B), 1906(b)(13)(A), title XXI, §§2105(a)–(c), 2137(d), Oct. 4, 1976, 90 Stat. 1765, 1766, 1794, 1834, 1902, 1931; Pub. L. 95–339, title II, §201(a), Aug. 8, 1978, 92 Stat. 467; Pub. L. 95–600, title III, §§331(a), (b), 332(a), 333(a), 334(a), (b), title VII, §703(j)(1), (q)(1), Nov. 6, 1978, 92 Stat. 2839–2841, 2941, 2944; Pub. L. 96–222, title I, §107(a)(3)(C), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–223, title II, §§241(a), 242(a), 244(a), Apr. 2, 1980, 94 Stat. 281, 283, 286; Pub. L. 96–499, title XI, §1103, Dec. 5, 1980, 94 Stat. 2669; Pub. L. 97–34, title VIII, §§811(a), (b), 812(a), Aug. 13, 1981, 95 Stat. 349, 350; Pub. L. 97–248, title II, §§214(a)–(e), 215(a), (b), 217(a)–(d), 219(a), 221(a), (b), (c)(1), title III, §310(b)(1), (c)(1), (2), Sept. 3, 1982, 96 Stat. 466–469, 472–474, 477, 478, 596, 599; Pub. L. 97–424, title V, §547(a), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 97–473, title II, §202(b)(2), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title IV, §474(r)(4), title VI, §§621–624(a), (b)(2), (3), 626(a), 627, 628(a), (c)–(e), (g), 630, July 18, 1984, 98 Stat. 839, 915–922, 924, 926, 928, 931–933; Pub. L. 99–272, title XIII, §13209(e), Apr. 7, 1986, 100 Stat. 323; Pub. L. 99–514, title XIII, §1301(a), title XVIII, §§1864(a)(1), (b)–(e), 1865(a), 1869(a), (b), 1870, 1871(a)(1), (b), 1899A(2)–(4), Oct. 22, 1986, 100 Stat. 2602, 2885, 2886, 2888, 2890, 2891, 2958; Pub. L. 100–647, title I, §1013(a)(34)(A), (c)(12)(A), Nov. 10, 1988, 102 Stat. 3544, 3547.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 29; Pub. L. 90–364, title I, §107(a), June 28, 1968, 82 Stat. 266; Pub. L. 90–634, title IV, §401(a), Oct. 24, 1968, 82 Stat. 1349; Pub. L. 91–172, title VI, §601(a), Dec. 30, 1969, 83 Stat. 656; Pub. L. 92–178, title III, §315(a), (b), Dec. 10, 1971, 85 Stat. 529; Pub. L. 94–164, §7(a), Dec. 23, 1975, 89 Stat. 976; Pub. L. 94–182, title III, §301(a), Dec. 31, 1975, 89 Stat. 1056; Pub. L. 94–455, title XIX, §§1901(a)(17), (b)(8)(B), 1906(b)(13)(A), title XXI, §§2105(a)–(c), 2137(d), Oct. 4, 1976, 90 Stat. 1765, 1766, 1794, 1834, 1902, 1931; Pub. L. 95–339, title II, §201(a), Aug. 8, 1978, 92 Stat. 467; Pub. L. 95–600, title III, §§331(a), (b), 332(a), 333(a), 334(a), (b), title VII, §703(j)(1), (q)(1), Nov. 6, 1978, 92 Stat. 2839–2841, 2941, 2944; Pub. L. 96–222, title I, §107(a)(3)(C), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–223, title II, §§241(a), 242(a), 244(a), Apr. 2, 1980, 94 Stat. 281, 283, 286; Pub. L. 96–499, title XI, §1103, Dec. 5, 1980, 94 Stat. 2669; Pub. L. 97–34, title VIII, §§811(a), (b),812(a), Aug. 13, 1981, 95 Stat. 349, 350; Pub. L. 97–248, title II, §§214(a)–(e), 215(a), (b), 217(a)–(d), 219(a), 221(a), (b), (c)(1), title III, §310(b)(1), (c)(1), (2), Sept. 3, 1982, 96 Stat. 466–469, 472–474, 477, 478, 596, 599; Pub. L. 97–424, title V, §547(a), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 97–473, title II, §202(b)(2), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title IV, §474(r)(4), title VI, §§621–624(a), (b)(2), (3), 626(a), 627, 628(a), (c)–(e), (g), 630, July 18, 1984, 98 Stat. 839, 915–922, 924, 926, 928, 931–933; Pub. L. 99–272, title XIII, §13209(e), Apr. 7, 1986, 100 Stat. 323; Pub. L. 99–514, title XIII, §1301(a), title XVIII, §§1864(a)(1), (b)–(e), 1865(a), 1869(a), (b), 1870, 1871(a)(1), (b), 1899A(2)–(4), Oct. 22, 1986, 100 Stat. 2602, 2885, 2886, 2888, 2890, 2891, 2958; Pub. L. 100–647, title I, §1013(a)(34)(A), (c)(12)(A), Nov. 10, 1988, 102 Stat. 3544, 3547.)
 
 #### Amendments
 
@@ -164,7 +164,7 @@ Subsec. (n). Pub. L. 97–424, §547(a), redesignated former subsec. (m), relati
 
 <b>1982</b>—Subsec. (b)(2). Pub. L. 97–248, §215(b)(2), substituted “For purposes of this section” for “For purposes of this subsection”.
 
-Subsec. (b)(4). Pub. L. 97–248, §§217(a)(1), (b), 221(a), (c)(1), 310(c)(1), in subpar. (A) substituted “if at all times during the qualified project period” for “if each obligation issued pursuant to the issue is in registered form and if” after “residential rental property”, and struck out “(within the meaning of section 167(k)(3)(B))” after “low or moderate income”, addedsubpar. (J), struck out provision that for purposes of subpar. (A), “targeted area project” meant a project located in a qualified census tract (within the meaning of section 103A(k)(2)) or an area of chronic economic distress (within the meaning of section 103A(k)(3)) and, in last sentence, substituted “electric energy or gas from” for “electric energy from”.
+Subsec. (b)(4). Pub. L. 97–248, §§217(a)(1), (b), 221(a), (c)(1), 310(c)(1), in subpar. (A) substituted “if at all times during the qualified project period” for “if each obligation issued pursuant to the issue is in registered form and if” after “residential rental property”, and struck out “(within the meaning of section 167(k)(3)(B))” after “low or moderate income”, added subpar. (J), struck out provision that for purposes of subpar. (A), “targeted area project” meant a project located in a qualified census tract (within the meaning of section 103A(k)(2)) or an area of chronic economic distress (within the meaning of section 103A(k)(3)) and, in last sentence, substituted “electric energy or gas from” for “electric energy from”.
 
 Subsec. (b)(6)(C). Pub. L. 97–248, §217(a)(3), substituted “paragraph (13)” for “paragraph (7)”.
 
@@ -373,7 +373,7 @@ Certain bonds for renewable energy property.—The amendments made by this secti
 
 “(7)
 
-Exception for certain downtown redevelopment project.—The amendments made by this section\[amending this section\] shall not apply to any obligation which is issued as part of an issue 95 percent or more of the proceeds of which are to be used to provide a project to acquire and redevelop a downtown area if—
+Exception for certain downtown redevelopment project.—The amendments made by this section \[amending this section\] shall not apply to any obligation which is issued as part of an issue 95 percent or more of the proceeds of which are to be used to provide a project to acquire and redevelop a downtown area if—
 
 &emsp;“(A) on August 15, 1985, a downtown redevelopment authority adopted a resolution to issue obligations for such project,
 
@@ -421,7 +421,7 @@ Exception for certain bonds for a convention center and resource recovery projec
 
 &emsp;&emsp;“(B) on November 4, 1983, a municipal authority acting for such city accepted a proposal for the construction of a facility that is capable of generating steam and electricity through the combustion of municipal waste,
 
-> &emsp;the amendment made by section 621 shall not apply to any issue, issued during 1984, 1985, 1986, or 1987 and substantially all of the proceeds of which are to be used to finance the convention center (or access ramps and parking facilities therefor) described in subparagraph (A) or the facility described in subparagraph (B).
+> &emsp;the amendment made by section 621 shall not apply to any issue, issued during 1984, 1985, 1986, or 1987 and substantially all of the proceeds of which are to be used to finance the convention center (or accessramps and parking facilities therefor) described in subparagraph (A) or the facility described in subparagraph (B).
 
 “(b)
 
@@ -481,7 +481,7 @@ Construction or binding agreement.—The amendments (and provisions) referred to
 
 &emsp;&emsp;&emsp;“(i) the original use of which commences with the taxpayer and the construction, reconstruction, or rehabilitation of which began before October 19, 1983, and was completed on or after such date,
 
-&emsp;&emsp;&emsp;“(ii) the original use of which commences with the taxpayer and with respect to which a bindingcontract to incur significant expenditures for construction, reconstruction, or rehabilitation was entered into before October 19, 1983, and some of such expenditures are incurred on or after such date, or
+&emsp;&emsp;&emsp;“(ii) the original use of which commences with the taxpayer and with respect to which a binding contract to incur significant expenditures for construction, reconstruction, or rehabilitation was entered into before October 19, 1983, and some of such expenditures are incurred on or after such date, or
 
 &emsp;&emsp;&emsp;“(iii) acquired after October 19, 1983, pursuant to a binding contract entered into on or before such date.
 
@@ -575,7 +575,7 @@ Section 214(f) of Pub. L. 97–248 provided that:
 
 “(1)
 
-Composite issues; small issue exemption.—The amendments made by subsections (a) and (b) \[amendingthis section\] shall apply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\].
+Composite issues; small issue exemption.—The amendments made by subsections (a) and (b) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\].
 
 “(2)
 
@@ -677,7 +677,7 @@ Amendment by section 703(j)(1) of Pub. L. 95–600 effective on Oct. 4, 1976, se
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(17), (b)(8)(B) of Pub. L. 94–455 applicable with respect to taxable years endingafter Oct. 4, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(17), (b)(8)(B) of Pub. L. 94–455 applicable with respect to taxable years ending after Oct. 4, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1906(b)(13)(A) of Pub. L. 94–455 effective Feb. 1, 1977, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
@@ -721,7 +721,7 @@ Section 1013(a)(35) of Pub. L. 100–647 provided that:
 
 “(B)(i) Except as provided in clause (ii), subparagraph (A) shall apply to obligations sold after May 2, 1978, and to which such regulation was provided to apply.
 
-“(ii) Treasury Regulation section 1.103–13(g) (1979) as enacted into positive law by subparagraph (A) shall cease to apply to the extent hereafter modified by the Secretary of the Treasury or his delegate by regulations.”
+“(ii) Treasury Regulation section 1.103–13(g) (1979) as enacted into positive law by subparagraph (A) shall cease to apply to the extent hereafter modified by theSecretary of the Treasury or his delegate by regulations.”
 
 #### Bonds Issued To Refund Subsection (<i>o</i>)(3) Obligations
 
@@ -1035,7 +1035,7 @@ Arbitrage Limitation on Student Loan Bonds Which Are Not Qualified Student Loan 
 
 “(c)
 
-Issuance of Student Loan Bonds Which Are Not Tax-Exempt.—Any issuer who may issue obligations described in section 103(a) of the Internal Revenue Code of 1986 may elect to issue student loan bonds which are not described in such section 103(a) of such Code without prejudice to—
+Issuance of Student Loan Bonds Which Are Not Tax-Exempt.—Any issuer who may issue obligations described in section 103(a) of the Internal RevenueCode of 1986 may elect to issue student loan bonds which are not described in such section 103(a) of such Code without prejudice to—
 
 &emsp;“(1) the status of any other obligations issued, or to be issued, by such issuer as obligations described in section 103(a) of such Code, or
 
@@ -1203,7 +1203,7 @@ Rule for Governments Which Have Already Paid Arbitrage Profits to the United Sta
 
 &emsp;“(2) failed to receive a favorable ruling and did not pay the refund profit to a charitable organization, and
 
-> which accounted to the United States for refund profit by direct payment to the United States, or by the purchase of low-interest United States obligations, the Secretary of the Treasury shall pay, out of any amounts in the Treasury not otherwise appropriated, an amount equal to the refund profit for which the State or local government has accounted to the United States. Amounts paid to a State or local governmentunder this subsection shall be distributed to such charitable organizations within 90 days after the date on which the payment is received by the State or local government in the same manner as if the refund profit had not been paid to the United States and met the requirements of subsection (a).
+> which accounted to the United States for refund profit by direct payment to the United States, or by the purchase of low-interest United States obligations, the Secretary of the Treasury shall pay, out of any amounts in the Treasury not otherwise appropriated, an amount equal to the refund profit for which the State or local government has accounted to the United States. Amounts paid to a State or local government under this subsection shall be distributed to such charitable organizations within 90 days after the date on which the payment is received by the State or local government in the same manner as if the refund profit had not been paid to the United States and met the requirements of subsection (a).
 
 “(c)
 
@@ -1239,5 +1239,5 @@ Section 107(b)(2) of Pub. L. 90–364, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 29, 42, 45, 45D, 48, 57, 142, 143, 144, 145, 148, 149, 150, 168, 265, 465, 593, 643, 667, 772, 811, 832, 834, 842, 851, 871, 1275, 1276, 1278, 4940, 4942, 6049, 7478, 7518, 7701, 7871 of this title; title 7 section 608c; title 12 sections 1441a, 1831q; title 15 sections 77c, 78c; title 16 sections 839f, 2708; title 19 section 2345; title 45 section 1207; title 46 App. section 1177; title 48 sections 1574, 1670.
+This section is referred to in sections 29, 42, 45, 45D, 48, 57, 142, 143, 144, 145, 148, 149, 150, 168, 265, 465, 593, 643, 646, 667, 772, 811, 832, 834, 842, 851, 871, 1275, 1276, 1278, 4940, 4942, 6049, 7478, 7518, 7701, 7871 of this title; title 7 section 608c; title 12 sections 1441a, 1831q; title 15 sections 77c, 78c; title 16 sections 839f, 2708; title 19 section 2345; title 45 section 1207; title 46 App. section 1177; title 48 sections 1574, 1670.
 

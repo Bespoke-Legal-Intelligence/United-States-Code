@@ -14,7 +14,7 @@ Development of plan.—The Director shall develop and annually revise, with the 
 
 &emsp;(2)
 
-Expenditures consistent with plan.—The Director may use amounts in the Fund to procure information technology resources for the activities funded under subsection (a) only in accordance with the plan developed under paragraph (1).
+Expenditures consistent with plan.—The Director may use amounts in the Fund toprocure information technology resources for the activities funded under subsection (a) only in accordance with the plan developed under paragraph (1).
 
 (c)
 
@@ -126,7 +126,7 @@ Section 606 of Public Law 100–459, referred to in subsec. (h), is section 606 
 
 Subsec. (f). Pub. L. 106–518, §101(2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “(f)
 
-Applicability of Procurement Statute.—The procurement of information technology equipment under this section shall be conducted in compliance with the provisions of law, policies, andregulations applicable to executive agencies under division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.).”
+Applicability of Procurement Statute.—The procurement of information technology equipment under this section shall be conducted in compliance with the provisions of law, policies, and regulations applicable to executive agencies under division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.).”
 
 Subsec. (g). Pub. L. 106–518, §101(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
@@ -182,7 +182,7 @@ Subsec. (b)(2). Pub. L. 103–420, §2(3), substituted “activities funded unde
 
 Subsec. (c)(1)(A). Pub. L. 103–420, §2(4), inserted “, all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” after “surplus property”.
 
-Subsec. (e)(1). Pub. L. 103–420, §2(5), struck out “(A)” before “In fiscal year 1990” and substituted “amounts estimated to be collected under subsection (c) for that fiscal year” for “$75,000,000”.
+Subsec. (e)(1). Pub. L. 103–420, §2(5), struck out “(A)” before “In fiscal year 1990” and substituted “amountsestimated to be collected under subsection (c) for that fiscal year” for “$75,000,000”.
 
 Subsec. (h). Pub. L. 103–420, §2(6), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which a report required under subsec. (g) of this section is listed on page 143), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (g) of this section is listed on page 143), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

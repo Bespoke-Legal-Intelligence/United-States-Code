@@ -16,5 +16,5 @@ Section 7304(b)(3) of Pub. L. 101–239 provided that: “The amendments made by
 
 #### Effective Date of 1984 Amendment
 
-Section 544(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting section2210 of this title and amending this section and sections 6018 and 6166 of this title\] shall apply to those estates of decedents which are required to file returns on a date (including any extensions) after the date of enactment of this Act \[July 18, 1984\].”
+Section 544(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting section 2210 of this title and amending this section and sections 6018 and 6166 of this title\] shall apply to those estates of decedents which are required to file returns on a date (including any extensions) after the date of enactment of this Act \[July 18, 1984\].”
 

@@ -6,7 +6,7 @@ The Secretary of Education shall—
 
 &emsp;(1) Insure that the Rehabilitation Services Administration is the principal agency for carrying out this chapter; and the Commissioner shall, within one hundred and eighty days after enactment of the Randolph-Sheppard Act Amendments of 1974, establish requirements for the uniform application of this chapter by each State agency designated under paragraph (5) of this subsection, including appropriate accounting procedures, policies on the selection and establishment of new vending facilities, distribution of income to blind vendors, and the use and control of set-aside funds under section 107b(3) of this title;
 
-&emsp;(2) Through the Commissioner, make annual surveys of concession vending opportunities for blind persons on Federal and other property in the United States, particularly with respect to Federal property under the control of the General Services Administration, the Department of Defense, and the United States Postal Service;
+&emsp;(2) Through the Commissioner, make annual surveys of concession vending opportunities for blind persons on Federal and other property in the United States, particularly with respect to Federal property under the control of the General Services Administration, theDepartment of Defense, and the United States Postal Service;
 
 &emsp;(3) Make surveys throughout the United States of industries with a view to obtaining information that will assist blind persons to obtain employment;
 
@@ -36,7 +36,7 @@ The State licensing agency designated by the Secretary is authorized, with the a
 
 In any State having an approved plan for vocational rehabilitation pursuant to the Vocational Rehabilitation Act or the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], the State licensing agency designated under paragraph (5) of subsection (a) of this section shall be the State agency designated under section 101(a)(2)(A) of such Rehabilitation Act of 1973 \[29 U.S.C. 721(a)(2)(A)\].
 
-(June 20, 1936, ch. 638, §2, 49 Stat. 1559; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, §4(b)–(d), 68 Stat. 663; Pub. L. 93–516, title II, §203, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §203, Nov. 21, 1974, 89 Stat. 2–8; Pub. L. 96–88, title III, §301(a)(4)(B), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 104–66, title I, §1041(i), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–220, title IV, §414(a), Aug. 7, 1998, 112 Stat. 1241.)
+(June 20, 1936, ch. 638, §2, 49 Stat. 1559; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, §4(b)–(d), 68 Stat. 663; Pub. L. 93–516, title II, §203, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §203, Nov. 21, 1974, 89 Stat. 2–8; Pub. L.96–88, title III, §301(a)(4)(B), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 104–66, title I, §1041(i), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–220, title IV, §414(a), Aug. 7, 1998, 112 Stat. 1241.)
 
 #### References in Text
 

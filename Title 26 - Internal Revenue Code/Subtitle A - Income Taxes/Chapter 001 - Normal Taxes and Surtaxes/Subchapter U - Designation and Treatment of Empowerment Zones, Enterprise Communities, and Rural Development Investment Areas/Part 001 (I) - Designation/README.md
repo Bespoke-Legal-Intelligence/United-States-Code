@@ -10,7 +10,7 @@
 
 #### Part Referred to in Other Sections
 
-This part is referred to in title 20 section 6661e; title 42 section 1397f.
+This part is referred to in title 20 section 6368; title 42 section 1397f.
 
 
 ---

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) while traveling directly to or from that duty or training (unless such injury, illness, disease, or aggravation of an injury, illness, or disease is the result of the gross negligence or misconduct of the member); or
 
-&emsp;&emsp;(C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence.
+&emsp;&emsp;(C) in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training.
 
 (b) The regulations prescribed under subsection (a) for each uniformed service, the National Guard, and each of the classes of organization of the reserve components within each uniformed service, may be different. The Secretary concerned shall, for the National Guard and each of the classes of organization within each uniformed service, prescribe—
 
@@ -28,11 +28,13 @@
 
 (c) A person enlisted in the inactive National Guard is not entitled to pay under this section.
 
-(d) This section does not authorize compensation for work or study performed by a member of a reserve component in connection with correspondence courses of an armed force.
+(d)(1) Except as provided in paragraph (2), this section does not authorize compensation for work or study performed by a member of a reserve component in connection with correspondence courses of a uniformed service.
+
+(2) A member of the Selected Reserve of the Ready Reserve may be paid compensation under this section at a rate and under terms determined by the Secretary of Defense, but not to exceed the rate otherwise applicable to the member under subsection (a), upon the member's successful completion of a course of instruction undertaken by the member using electronic-based distributed learning methodologies to accomplish training requirements related to unit readiness or mobilization, as directed for the member by the Secretary concerned. The compensation may be paid regardless of whether the course of instruction was under the direct control of the Secretary concerned or included the presence of an instructor.
 
 (e) A member of the National Guard or of a reserve component of the uniformed services may not be paid under this section for more than four periods of equivalent training, instruction, duty, or appropriate duties performed during a fiscal year instead of the member's regular period of instruction or regular period of appropriate duty during that fiscal year.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, §1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, §604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, §631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, §702(d), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(g), Nov. 18, 1997, 111 Stat. 1732.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, §1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, §604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, §631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, §702(d), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(g), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §513(e), title VI, §603(a), Dec. 28, 2001, 115 Stat. 1093, 1133.)
 
 Historical and Revision Notes
 
@@ -88,6 +90,10 @@ Pub. L. 95–457, title VIII, §826, Oct. 13, 1978, 92 Stat. 1248.
 
 #### Amendments
 
+2001—Subsec. (a)(3)(C). Pub. L. 107–107, §513(e), struck out “, if the site is outside reasonable commuting distance from the member's residence” before period at end.
+
+Subsec. (d). Pub. L. 107–107, §603(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), this section” for “This section” and “a uniformed service” for “an armed force”, and added par. (2).
+
 1997—Subsec. (a)(3)(C). Pub. L. 105–85 inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in line of duty”.
 
 1996—Subsec. (a)(3)(C). Pub. L. 104–106 added subpar. (C).
@@ -108,7 +114,7 @@ Amendment by Pub. L. 100–456 applicable with respect to persons who, after Sep
 
 Amendment by Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of Title 10, Armed Forces.
 
-Section Referred to in Other Sections
+#### Section Referred to in Other Sections
 
 This section is referred to in sections 101, 204, 301, 301a, 301c, 304, 307, 308d, 316, 320, 402, 433, 707, 1012 of this title; title 5 section 8440e; title 10 sections 101, 1076a, 1465, 1466, 12319, 12503; title 26 section 3121; title 31 section 698a; title 32 sections 115, 715; title 38 section 101; title 42 section 409.
 

@@ -206,7 +206,7 @@ Amendment by Pub. L. 99–514 applicable to debt instruments issued after Dec. 3
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, but not applicable to any obligation issued on or before Dec. 31, 1984, which is not a capital asset in the hands of the taxpayer, and subsec. (a)(6) of this section not applicable to any purchase on or before July 18, 1984, see section 44 of Pub. L. 98–369, as amended, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, but not applicable to any obligation issued on or before Dec. 31, 1984, which is not a capital asset inthe hands of the taxpayer, and subsec. (a)(6) of this section not applicable to any purchase on or before July 18, 1984, see section 44 of Pub. L. 98–369, as amended, set out as a note under section 1271 of this title.
 
 #### Change in Method of Accounting
 

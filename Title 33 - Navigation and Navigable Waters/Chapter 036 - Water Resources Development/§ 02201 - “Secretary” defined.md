@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 408
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–541, §1(a), Dec. 11, 2000, 114 Stat. 2572, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Water Resources Development Act of 2000’.”
+Pub. L. 106–541, §1(a), Dec. 11, 2000, 114 Stat. 2572, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Water Resources Development Act of 2000’.”
 
 #### Short Title of 1999 Amendment
 
@@ -92,13 +92,13 @@ In General.—In evaluating potential improvements for water control management 
 
 “(b)
 
-Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 17, 1999\], the Secretaryshall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate a report containing—
+Report.—Not later than 180 days after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate a report containing—
 
 &emsp;“(1) a description of the primary objectives of streamlining water control management activities;
 
 &emsp;“(2) a description of the benefits provided by streamlining water control management activities through consolidation of centers for those activities;
 
-&emsp;“(3) a determination whether the benefits to users of establishing regional water control management centers will be retained in each district office of the Corps of Engineers that does not have a regional center;
+&emsp;“(3) a determination whether the benefits to users of establishing regional water control managementcenters will be retained in each district office of the Corps of Engineers that does not have a regional center;
 
 &emsp;“(4) a determination whether users of regional centers will receive a higher level of benefits from streamlining water control management activities; and
 

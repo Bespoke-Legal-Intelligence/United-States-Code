@@ -20,7 +20,7 @@ Public Availability.—The Board shall make a copy of each recommendation and re
 
 (d)
 
-Reports to Congress.—The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.
+Reports to Congress.—The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board tothe Secretary during the prior year and a copy of the Secretary's response to each recommendation.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 755.)
 

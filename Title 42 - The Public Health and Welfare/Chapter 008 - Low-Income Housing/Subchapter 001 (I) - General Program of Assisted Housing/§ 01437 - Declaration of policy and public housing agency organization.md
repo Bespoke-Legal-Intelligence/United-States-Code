@@ -54,7 +54,7 @@ Prior similar provisions were contained in section 1 of act Sept. 1, 1937, ch. 8
 
 #### Amendments
 
-1998—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: “It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions toremedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project.”
+1998—Pub. L. 105–276 amended section catchline and text generally. Prior to amendment, text read as follows: “It is the policy of the United States to promote the general welfare of the Nation by employing its funds and credit, as provided in this chapter, to assist the several States and their political subdivisions to remedy the unsafe and unsanitary housing conditions and the acute shortage of decent, safe, and sanitary dwellings for families of lower income and, consistent with the objectives of this chapter, to vest in local public housing agencies the maximum amount of responsibility in the administration of their housing programs. No person should be barred from serving on the board of directors or similar governing body of a local public housing agency because of his tenancy in a low-income housing project.”
 
 1990—Pub. L. 101–625 substituted “low-income housing” for “lower income housing”.
 
@@ -100,9 +100,13 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Effective Date
 
-Section 201(b) of Pub. L. 93–383 provided that: “The provisions of subsection (a) of this section \[enacting sections 1437 to 1437j of this title\] shall be effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after the date of the enactment of this Act \[Aug. 22, 1974\]; except that (1) all of the provisions of section 3(1) of the United States Housing Act of 1937, as amended by subsection (a) of this section \[section 1437a(1) of this title\], shall become effective on the same date, (2) all of the provisions of sections 5 and 9(c) of such Act as so amended \[sections 1437c and 1437g(c) of this title\] shall become effective on the same date, and (3) section 8 of such Act \[section 1437f of this title\] as so amended shall be effective not later than January 1, 1975.”
+Section 201(b) of Pub. L. 93–383 provided that: “The provisions of subsection (a) of this section \[enactingsections 1437 to 1437j of this title\] shall be effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after the date of the enactment of this Act \[Aug. 22, 1974\]; except that (1) all of the provisions of section 3(1) of the United States Housing Act of 1937, as amended by subsection (a) of this section \[section 1437a(1) of this title\], shall become effective on the same date, (2) all of the provisions of sections 5 and 9(c) of such Act as so amended \[sections 1437c and 1437g(c) of this title\] shall become effective on the same date, and (3) section 8 of such Act \[section 1437f of this title\] as so amended shall be effective not later than January 1, 1975.”
 
 Section 3(1) of the United States Housing Act of 1937, as amended, effective Sept. 26, 1975, see Effective Date note set out under section 1437a of this title.
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–116, title VI, §601(a), Jan. 10, 2002, 115 Stat. 2220, provided that: “This title \[amending sections 1437f and 5305 of this title and section 1715n of Title 12, Banks and Banking, enacting provisions set out as notes under sections 1437f and 11301 of this title and sections 1701q and 1715n of Title 12, and amending provisions set out as notes under sections 1437f and 11301 of this title and section 1701q of Title 12\] may be cited as the ‘Mark-to-Market Extension Act of 2001’.”
 
 #### Short Title of 1998 Amendment
 
@@ -198,7 +202,7 @@ Purposes.—The purpose of this title \[see Tables for classification\] is to pr
 
 #### Mental Health Action Plan
 
-Pub. L. 105–276, title V, §517, Oct. 21, 1998, 112 Stat. 2550, provided that: “The Secretary of Housing andUrban Development, in consultation with the Secretary of Health and Human Services, the Secretary of Labor, and appropriate State and local officials and representatives, shall—
+Pub. L. 105–276, title V, §517, Oct. 21, 1998, 112 Stat. 2550, provided that: “The Secretary of Housing and Urban Development, in consultation with the Secretary of Health and Human Services, the Secretary of Labor, and appropriate State and local officials and representatives, shall—
 
 &emsp;“(1) develop an action plan and list of recommendations for the improvement of means of providing severe mental illness treatment to families and individuals receiving housing assistance under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], including public housing residents, residents of multifamily housing assisted with project-based assistance under section 8 of such Act \[42 U.S.C. 1437f\], and recipients of tenant-based assistance under such section; and
 
@@ -246,7 +250,7 @@ Pub. L. 105–276, title V, §585, Oct. 21, 1998, 112 Stat. 2645, provided that:
 
 “(a)
 
-Study.—The Comptroller General of the United States shall conduct a study that provides an objective and independent accounting and analysis of the full cost to the Federal Government, public housing agencies, State and local governments, and other entities, per assisted household, of the Federal assisted housing programs, taking into account the qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
+Study.—The Comptroller General of the United States shall conduct a study that provides an objective and independent accounting and analysis of the fullcost to the Federal Government, public housing agencies, State and local governments, and other entities, per assisted household, of the Federal assisted housing programs, taking into account the qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
 
 “(b)
 
@@ -296,5 +300,5 @@ Effective Date.—This section shall take effect on the date of the enactment of
 
 #### Limitation on Withholding or Conditioning of Assistance
 
-Assistance provided for in Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], National Housing Act \[12 U.S.C. 1701 et seq.\], United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\], Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3331 of this title\], and Housing and Urban Development Acts of 1965, 1968, 1969, and 1970not to be withheld or made subject to conditions by reason of tax-exempt status of obligations issued or to be issued for financing of assistance, except as otherwise provided by law, see section 817 of Pub. L. 93–383, set out as a note under section 5301 of this title.
+Assistance provided for in Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\], National Housing Act \[12 U.S.C. 1701 et seq.\], United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], Housing Act of 1949 \[see Short Title note set out under section 1441 of this title\], Demonstration Cities and Metropolitan Development Act of 1966 \[see Short Title note set out under section 3331 of this title\], and Housing and Urban Development Acts of 1965, 1968, 1969, and 1970 not to be withheld or made subject to conditions by reason of tax-exempt status of obligations issued or to be issued for financing of assistance, except as otherwise provided by law, see section 817 of Pub. L. 93–383, set out as a note under section 5301 of this title.
 

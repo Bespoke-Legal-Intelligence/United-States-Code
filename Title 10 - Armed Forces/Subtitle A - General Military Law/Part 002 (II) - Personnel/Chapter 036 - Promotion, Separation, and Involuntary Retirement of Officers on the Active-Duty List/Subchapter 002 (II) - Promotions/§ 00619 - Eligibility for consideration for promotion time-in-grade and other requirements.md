@@ -1,10 +1,12 @@
 ### §619. Eligibility for consideration for promotion: time-in-grade and other requirements
 
-(a)(1) An officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in the grade of ensign or lieutenant (junior grade) may not be promoted to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
+(a)
+
+Time-in-Grade Requirements.—(1) An officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in the grade of ensign or lieutenant (junior grade) may not be promoted to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
 
 &emsp;(A) Eighteen months, in the case of an officer holding a permanent appointment in the grade of second lieutenant or ensign.
 
-&emsp;(B) Two years, in the case of an officer holding a permanent appointment in the grade of first lieutenant or lieutenant (junior grade).
+&emsp;(B) Two years, in the case of an officer holding a permanent appointment in the grade of first lieutenant or lieutenant (junior grade), except that the minimum period of service in effect under this subparagraph before October 1, 2005, shall be eighteen months.
 
 (2) Subject to paragraph (4), an officer who is on the active-duty list of the Army, Air Force, or Marine Corps and holds a permanent appointment in a grade above first lieutenant or is on the active-duty list of the Navy and holds a permanent appointment in a grade above lieutenant (junior grade) may not be considered for selection for promotion to the next higher permanent grade until he has completed the following period of service in the grade in which he holds a permanent appointment:
 
@@ -14,15 +16,19 @@
 
 (3) When the needs of the service require, the Secretary of the military department concerned may prescribe a longer period of service in grade for eligibility for promotion, in the case of officers to whom paragraph (1) applies, or for eligibility for consideration for promotion, in the case of officers to whom paragraph (2) applies.
 
-(4) The Secretary of the military department concerned may waive paragraph (2) to the extent necessary to assure that officers described in clause (A) of such paragraph have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
+(4) The Secretary of the military department concerned may waive paragraph (2) to the extent necessary to assure that officers described in subparagraph (A) of such paragraph have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 
 (5) In computing service in grade for purposes of this section, service in a grade held as a result of assignment to a position is counted as service in the grade in which the officer would have served except for such assignment or appointment.
 
-(b)(1) Except as provided in paragraph (2), an officer who has failed of selection for promotion to the next higher grade remains eligible for consideration for promotion to that grade as long as he continues on active duty in other than a retired status and is not promoted.
+(b)
+
+Continued Eligibility for Consideration for Promotion of Officers Who Have Previously Failed of Selection.—(1) Except as provided in paragraph (2), an officer who has failed of selection for promotion to the next higher grade remains eligible for consideration for promotion to that grade as long as he continues on active duty in other than a retired status and is not promoted.
 
 (2) Paragraph (1) does not apply to a regular officer who is ineligible for consideration for promotion under section 631(c) of this title or to a reserve officer who has failed of selection for promotion to the grade of captain or, in the case of an officer of the Navy, lieutenant for the second time.
 
-(c)(1) Each time a selection board is convened under section 611(a) of this title for consideration of officers in a competitive category for promotion to the next higher grade, each officer in the promotion zone (except as provided under paragraph (2)), and each officer above the promotion zone, for the grade and competitive category under consideration shall be considered for promotion.
+(c)
+
+Officers To Be Considered by Promotion Boards.—(1) Each time a selection board is convened under section 611(a) of this title for consideration of officers in a competitive category for promotion to the next higher grade, each officer in the promotion zone (except as providedunder paragraph (2)), and each officer above the promotion zone, for the grade and competitive category under consideration shall be considered for promotion.
 
 (2) The Secretary of the military department concerned—
 
@@ -50,7 +56,9 @@
 
 &emsp;(v) A requirement that the preselection board may recommend that an officer be precluded from consideration by a selection board only on the basis of the general guidance provided by the Secretary of the military department concerned, information in the officer's official military personnel records that has been described in the notice provided the officer as required pursuant to clause (iii), and any communication to the board received from that officer before the board convenes.
 
-(d) A selection board convened under section 611(a) of this title may not consider for promotion to the next higher grade any of the following officers:
+(d)
+
+Certain Officers Not To Be Considered.—A selection board convened under section 611(a) of this title may not consider for promotion to the next higher grade any of the following officers:
 
 &emsp;(1) An officer whose name is on a promotion list for that grade as a result of his selection for promotion to that grade by an earlier selection board convened under that section.
 
@@ -58,9 +66,25 @@
 
 &emsp;(3) An officer of the Marine Corps who is an officer designated for limited duty and who holds a grade above major.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724.)
+&emsp;(4) An officer in the grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who is on an approved all-fully-qualified-officers list under section 624(a)(3) of this title.
+
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2854; amended Pub. L. 97–22, §4(c), July 10, 1981, 95 Stat. 126; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title V, §§525(a), (b), 529(a), Oct. 19, 1984, 98 Stat. 2524, 2525, 2526; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §404, Oct. 1, 1986, 100 Stat. 1032; Pub. L. 100–180, div. A, title XIII, §§1305(a), 1314(b)(4), Dec. 4, 1987, 101 Stat. 1173, 1175; Pub. L. 100–456, div. A, title V, §515(a)(1), (b), Sept. 29, 1988, 102 Stat. 1970; Pub. L. 102–190, div. A, title V, §504(d), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 103–160, div. A, title IX, §931(b), (c)(1), Nov. 30, 1993, 107 Stat. 1734; Pub. L. 103–337, div. A, title X, §1070(b)(7), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–85, div. A, title V, §503(a), Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §§504, 505(c)(1)(A), Dec. 28, 2001, 115 Stat. 1085, 1087.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §504(b)(1), inserted heading.
+
+Subsec. (a)(1)(B). Pub. L. 107–107, §504(a), inserted “, except that the minimum period of service in effect under this subparagraph before October 1, 2005, shall be eighteen months” before period at end.
+
+Subsec. (a)(4). Pub. L. 107–107, §504(c), substituted “subparagraph (A)” for “clause (A)”.
+
+Subsec. (b). Pub. L. 107–107, §504(b)(2), inserted heading.
+
+Subsec. (c). Pub. L. 107–107, §504(b)(3), inserted heading.
+
+Subsec. (d). Pub. L. 107–107, §504(b)(4), inserted heading.
+
+Subsec. (d)(4). Pub. L. 107–107, §505(c)(1)(A), added par. (4).
 
 1997—Subsec. (d). Pub. L. 105–85, §503(a)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
 
@@ -98,7 +122,7 @@ Subsec. (e)(3)(C). Pub. L. 100–456, §515(b)(2), substituted “paragraph (2) 
 
 Subsec. (e)(5). Pub. L. 100–456, §515(a)(1)(B), added par. (5).
 
-1987—Subsec. (e)(1). Pub. L. 100–180, §1305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An officer may not be selected for promotion to the grade of brigadier general or rear admiral (lowerhalf) unless the officer has served in a joint duty assignment.”
+1987—Subsec. (e)(1). Pub. L. 100–180, §1305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An officer may not be selected for promotion to the grade of brigadier general or rear admiral (lower half) unless the officer has served in a joint duty assignment.”
 
 Subsec. (e)(2)(D). Pub. L. 100–180, §1314(b)(4), substituted “October 1, 1986,” for “the date of the enactment of this subsection”.
 

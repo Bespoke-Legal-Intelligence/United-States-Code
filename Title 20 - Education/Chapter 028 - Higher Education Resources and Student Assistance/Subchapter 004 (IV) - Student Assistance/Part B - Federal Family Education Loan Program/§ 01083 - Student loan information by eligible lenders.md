@@ -24,7 +24,7 @@ Each eligible lender, at or prior to the time such lender disburses a loan that 
 
 &emsp;(10) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan;
 
-&emsp;(11) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to section 902 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141, note); <sup>1</sup>
+&emsp;(11) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan maybe deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to section 902 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141, note); <sup>1</sup>
 
 &emsp;(12) a definition of default and the consequences to the borrower if the borrower defaults, including a statement that the default will be reported to a credit bureau or credit reporting agency;
 
@@ -74,7 +74,7 @@ Loans made under sections 1078–1,<sup>2</sup> 1078–2, and 1078–8 of this t
 
 #### References in Text
 
-Section 902 of the Department of Defense Authorization Act, 1981, referred to in subsec. (a)(11), is section 902 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, as amended, which was set out as a note under section 2141 of Title 10, Armed Forces, and was repealed by Pub. L. 99–145, title VI, §671(a)(3), Nov. 8, 1985, 99 Stat. 663. See section 16302 of Title 10.
+Section 902 of the Department of Defense Authorization Act, 1981, referred to in subsec. (a)(11), is section902 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, as amended, which was set out as a note under section 2141 of Title 10, Armed Forces, and was repealed by Pub. L. 99–145, title VI, §671(a)(3), Nov. 8, 1985, 99 Stat. 663. See section 16302 of Title 10.
 
 Truth in Lending Act, referred to in subsec. (c), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
@@ -88,7 +88,7 @@ A prior section 1083a, Pub. L. 89–329, title IV, §433A, as added Pub. L. 96�
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–244, §428(a), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the time suchlender disburses a loan which is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), provide thorough and accurate loan information on such loan to the borrower. Any disclosure required by this subsection may be made by an eligible lender as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosure shall include—”.
+1998—Subsec. (a). Pub. L. 105–244, §428(a), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the time such lender disburses a loan which is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), provide thorough and accurate loan information on such loan to the borrower. Any disclosure required by this subsection may be made by an eligible lender as part of the written application material provided to the borrower, or as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. The disclosure shall include—”.
 
 Subsec. (b). Pub. L. 105–244, §428(b), amended heading and introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Each eligible lender shall, at or prior to the start of the repayment period of the student borrower on loans made, insured, or guaranteed under this part, disclose to the borrower the information required under this subsection. For any loan made, insured, or guaranteed under this part, other than a loan made under section 1078–2 or 1078–3 of this title, such disclosure required by this subsection shall be made not less than 30 days nor more than 240 days before the first payment on the loan is due from the borrower. The disclosure shall �include—”.
 

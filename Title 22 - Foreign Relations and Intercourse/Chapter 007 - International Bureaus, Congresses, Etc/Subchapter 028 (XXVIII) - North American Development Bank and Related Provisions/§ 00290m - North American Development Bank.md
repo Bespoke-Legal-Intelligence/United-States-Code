@@ -32,7 +32,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### (4) Disposition of net income distributed by the facility
 
-&emsp;Any payment made to the United States by the Bank as a distribution of net income shallbe covered into the Treasury as a miscellaneous receipt.
+&emsp;Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
 
 #### (c) Compensation of Board members
 
@@ -58,7 +58,7 @@ Any Federal Reserve bank that is requested to do so by the Bank shall act as its
 
 #### (g) Jurisdiction of United States courts and enforcement of arbitral awards
 
-For the purpose of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Bank in accordance with the Cooperation Agreement, including an action brought to enforce an arbitral award against the Bank, the Bank shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States or its agency appointed for the purpose of accepting service or notice of service is located, and any such action to which the Bank shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States, including the courts enumerated in section 460 of title 28, shall have original jurisdiction of any such action. When the Bank is a defendant in any action in a State court, it may at any time before trial remove the action into the appropriate district court of the United States by following the procedure for removal provided in section 1446 of title 28.
+For the purpose of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Bank in accordance with the Cooperation Agreement, including an action brought to enforce an arbitral awardagainst the Bank, the Bank shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States or its agency appointed for the purpose of accepting service or notice of service is located, and any such action to which the Bank shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States, including the courts enumerated in section 460 of title 28, shall have original jurisdiction of any such action. When the Bank is a defendant in any action in a State court, it may at any time before trial remove the action into the appropriate district court of the United States by following the procedure for removal provided in section 1446 of title 28.
 
 #### (h) Exemption from securities laws for certain securities issued by Bank; reports required
 

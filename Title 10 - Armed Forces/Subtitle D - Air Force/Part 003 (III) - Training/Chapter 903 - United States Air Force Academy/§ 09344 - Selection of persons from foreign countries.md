@@ -1,6 +1,6 @@
 ### §9344. Selection of persons from foreign countries
 
-(a)(1) The Secretary of the Air Force may permit not more than 40 persons at any one time from foreign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the Air Force Cadets of the Academy under section 9342 of this title.
+(a)(1) The Secretary of the Air Force may permit not more than 60 persons at any one time from foreign countries to receive instruction at the Academy. Such persons shall be in addition to the authorized strength of the Air Force Cadets of the Academy under section 9342 of this title.
 
 (2) The Secretary of the Air Force, upon approval by the Secretary of Defense, shall determine the countries from which persons may be selected for appointment under this section and the number of persons that may be selected from each country. The Secretary of the Air Force may establish entrance qualifications and methods of competition for selection among individual applicants under this section and shall select those persons who will be permitted to receive instruction at the Academy under this section.
 
@@ -8,9 +8,9 @@
 
 (b)(1) A person receiving instruction under this section is entitled to the pay, allowances, and emoluments of a cadet appointed from the United States, and from the same appropriations.
 
-(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1) unless a written waiver of reimbursement is granted by the Secretary of Defense. The Secretary of the Air Force shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
+(2) Each foreign country from which a cadet is permitted to receive instruction at the Academy under this section shall reimburse the United States for the cost of providing such instruction, including the cost of pay, allowances, and emoluments provided under paragraph (1). The Secretary of the Air Force shall prescribe the rates for reimbursement under this paragraph, except that the reimbursement rates may not be less than the cost to the United States of providing such instruction, including pay, allowances, and emoluments, to a cadet appointed from the United States.
 
-(3) The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Air Force Academy under this section at any one time.
+(3) The Secretary of Defense may waive, in whole or in part, the requirement for reimbursement of the cost of instruction for a cadet under paragraph (2). In the case of a partial waiver, the Secretary shall establish the amount waived.
 
 (c)(1) Except as the Secretary of the Air Force determines, a person receiving instruction under this section is subject to the same regulations governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation as a cadet at the Academy appointed from the United States. The Secretary may prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States.
 
@@ -18,7 +18,7 @@
 
 (d) A person receiving instruction under this section is not subject to section 9346(d) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 564; Pub. L. 98–94, title X, §1004(c)(1), Sept. 24, 1983, 97 Stat. 659; Pub. L. 105–85, div. A, title V, §543(c), Nov. 18, 1997, 111 Stat. 1744; Pub. L. 106–65, div. A, title V, §534(c), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, §1 \[\[div. A\], title V, §532(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 564; Pub. L. 98–94, title X, §1004(c)(1), Sept. 24, 1983, 97 Stat. 659; Pub. L. 105–85, div. A, title V, §543(c), Nov. 18, 1997, 111 Stat. 1744; Pub. L. 106–65, div. A, title V, §534(c), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, §1 \[\[div. A\], title V, §532(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, §533(c)(1), (2), Dec. 28, 2001, 115 Stat. 1106.)
 
 Historical and Revision Notes
 
@@ -52,6 +52,12 @@ In subsection (c), the words “to any office or position” are omitted as surp
 
 #### Amendments
 
+2001—Subsec. (a)(1). Pub. L. 107–107, §533(c)(1), substituted “60” for “40”.
+
+Subsec. (b)(2). Pub. L. 107–107, §533(c)(2)(A), struck out “unless a written waiver of reimbursement is granted by the Secretary of Defense” before period at end of first sentence.
+
+Subsec. (b)(3). Pub. L. 107–107, §533(c)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “The amount of reimbursement waived under paragraph (2) may not exceed 50 percent of the per-person reimbursement amount otherwise required to be paid by a foreign country under such paragraph, except in the case of not more than 20 persons receiving instruction at the Air Force Academy under this section at any one time.”
+
 2000—Subsec. (a)(3). Pub. L. 106–398 added par. (3).
 
 1999—Subsec. (b)(3). Pub. L. 106–65 substituted “50 percent” for “35 percent” and “20 persons” for “five persons”.
@@ -69,6 +75,12 @@ Subsec. (b). Pub. L. 98–94 amended subsec. (b) generally, designating existing
 Subsec. (c). Pub. L. 98–94 amended subsec. (c) generally, designating first sentence of subsec. (c) as par. (1), inserting provisions authorizing the Secretary to prescribe regulations with respect to access to classified information by a person receiving instruction under this section that differ from the regulations that apply to a cadet at the Academy appointed from the United States, and designating the second sentence of subsec. (c) as par. (2).
 
 Subsec. (d). Pub. L. 98–94, in amending section generally, added subsec. (d).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §533(c)(3), Dec. 28, 2001, 115 Stat. 1106, provided that: “The amendments madeby paragraph (2) \[amending this section\] shall not apply with respect to any person who entered the United States Air Force Academy to receive instruction under section 9344 of title 10, United States Code, before the date of the enactment of this Act \[Dec. 28, 2001\].”
+
+Amendment by Pub. L. 107–107 inapplicable with respect to any academic year that began before Dec. 28, 2001, see section 533(d) of Pub. L. 107–107, set out as a note under section 4344 of this title.
 
 #### Effective Date of 2000 Amendment
 

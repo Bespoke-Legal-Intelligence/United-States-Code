@@ -8,7 +8,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (2) Appropriate Federal banking agency
 
-&emsp;The term “appropriate Federal banking agency” has the same meaning as in section 1813 of this title, and also includes the National Credit Union Administration Board with respect to insured credit unions.
+&emsp;The term “appropriate Federal banking agency” has the same meaning as in section1813 of this title, and also includes the National Credit Union Administration Board with respect to insured credit unions.
 
 #### (3) Affiliate
 
@@ -146,5 +146,5 @@ The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1715z–2, 1757a, 1759, 1834a of this title; title 15 section 6901.
+This section is referred to in sections 1715z–2, 1715z–14, 1757a, 1759, 1834a of this title; title 15 section 6901; title 26 section 45D.
 

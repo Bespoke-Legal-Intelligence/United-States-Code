@@ -14,7 +14,7 @@ Air traffic controllers.—The Administrator of the Federal Aviation Administrat
 
 &emsp;(2)
 
-Pilots and flight crews.—The Administrator shall work with representatives of the aviation industry and appropriate aviation programs associated with universities to develop specific training curricula to address critical safety problems, including problems of pilots—
+Pilots and flight crews.—The Administrator shall work with representatives of theaviation industry and appropriate aviation programs associated with universities to develop specific training curricula to address critical safety problems, including problems of pilots—
 
 &emsp;&emsp;(A) in recovering from loss of control of an aircraft, including handling unusual attitudes and mechanical malfunctions;
 

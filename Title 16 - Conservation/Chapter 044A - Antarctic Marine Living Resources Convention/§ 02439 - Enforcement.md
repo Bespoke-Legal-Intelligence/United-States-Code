@@ -32,7 +32,7 @@ Any officer or employee of the United States who is authorized (by the Secretary
 
 &emsp;(8) make an arrest with or without a warrant with respect to any act prohibited by paragraph (4), (5), (6), or (7) of section 2435 of this title if such officer or employee has reasonable grounds to believe that the person to be arrested is committing such act in his or her presence or view or has committed such act;
 
-&emsp;(9) exercise enforcement powers conferred on such officer or employee under a system of observation and inspection, or interim arrangements pending the establishment of such a system, which the Secretary of State has agreed to on behalf of the United States pursuant to section 2434(b) of this title; and
+&emsp;(9) exercise enforcement powers conferred on such officer or employee under a system of observation and inspection, or interim arrangements pending the establishment of such asystem, which the Secretary of State has agreed to on behalf of the United States pursuant to section 2434(b) of this title; and
 
 &emsp;(10) exercise any other authority which such officer or employee is permitted by law to exercise.
 

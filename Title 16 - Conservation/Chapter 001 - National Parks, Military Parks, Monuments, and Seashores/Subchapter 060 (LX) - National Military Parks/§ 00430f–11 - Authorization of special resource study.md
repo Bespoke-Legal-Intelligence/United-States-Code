@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To determine whether certain additional properties are appropriate for inclusion in the Unit,the Secretary shall conduct a special resource study of land in and around the city of Corinth, Mississippi, and nearby areas in the State of Tennessee that—
+To determine whether certain additional properties are appropriate for inclusion in the Unit, the Secretary shall conduct a special resource study of land in and around the city of Corinth, Mississippi, and nearby areas in the State of Tennessee that—
 
 &emsp;(1) have a relationship to the Civil War Siege and Battle of Corinth in 1862; and
 

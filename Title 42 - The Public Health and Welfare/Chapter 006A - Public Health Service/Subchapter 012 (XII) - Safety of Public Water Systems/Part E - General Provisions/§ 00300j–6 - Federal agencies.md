@@ -40,7 +40,7 @@ Each department, agency, and instrumentality of the executive, legislative, and 
 
 #### (C) Standard of review
 
-&emsp;&emsp;The court shall not set aside or remand the order unless the court finds that there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or that the assessment of the penalty by the Administrator constitutes an abuse of discretion.
+&emsp;&emsp;The court shall not set aside or remand the order unless the court finds that there isnot substantial evidence in the record, taken as a whole, to support the finding of a violation or that the assessment of the penalty by the Administrator constitutes an abuse of discretion.
 
 #### (D) Prohibition on additional penalties
 
@@ -52,7 +52,7 @@ Unless a State law in effect on August 6, 1996, or a State constitution requires
 
 #### (d) Indian rights and sovereignty as unaffected; “Federal agency” defined
 
-(1) Nothing in the Safe Drinking Water Amendments of 1977 shall be construed to alteror affect the status of American Indian lands or water rights nor to waive any sovereignty over Indian lands guaranteed by treaty or statute.
+(1) Nothing in the Safe Drinking Water Amendments of 1977 shall be construed to alter or affect the status of American Indian lands or water rights nor to waive any sovereignty over Indian lands guaranteed by treaty or statute.
 
 (2) For the purposes of this chapter, the term “Federal agency” shall not be construed to refer to or include any American Indian tribe, nor to the Secretary of the Interior in his capacity as trustee of Indian lands.
 

@@ -2,7 +2,7 @@
 
 #### (a) Report on Small Business and Competition
 
-The President shall transmit to the Congress not later than January 20 of each year a Report on Small Business and Competition which shall—
+The President shall transmit to the Congress not later than January 20 of each year a Reporton Small Business and Competition which shall—
 
 &emsp;(1) examine the current role of small business in the economy on an industry-by-industry basis;
 
@@ -68,7 +68,7 @@ Subsec. (e)(3). Pub. L. 105–135, §604(c), added par. (3).
 
 1990—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows: “present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;”.
 
-1988—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out as text of this section, contained the phrase “, by gender,” in par. (1).
+1988—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out astext of this section, contained the phrase “, by gender,” in par. (1).
 
 #### Effective Date of 1997 Amendment
 

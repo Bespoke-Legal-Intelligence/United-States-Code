@@ -32,7 +32,7 @@
 
 (d) A medical student who, under regulations prescribed by the Secretary of Defense, is dropped from the program for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed by this section. In no case shall any such student be required to serve on active duty for any period in excess of a period equal to the period he participated in the program, except that in no case may any such student be required to serve on active duty less than one year.
 
-(e)(1) The Secretary of Defense may enter into agreements with foreign military medical schools for reciprocal education programs under which students at the University receive specialized military medical instruction at the foreign military medical school and military medical personnel of the country of such medical school receive specialized military medical instruction at the University. Any such agreementmay be made on a reimbursable basis or a nonreimbursable basis.
+(e)(1) The Secretary of Defense may enter into agreements with foreign military medical schools for reciprocal education programs under which students at the University receive specialized military medical instruction at the foreign military medical school and military medical personnel of the country of such medical school receive specialized military medical instruction at the University. Any such agreement may be made on a reimbursable basis or a nonreimbursable basis.
 
 (2) Not more than 40 persons at any one time may receive instruction at the University under this subsection. Attendance of such persons at the University may not result in a decrease in the number of students enrolled in the University. Subsection (b) does not apply to students receiving instruction under this subsection.
 
@@ -108,7 +108,7 @@ Amendment by section 511(65) of Pub. L. 96–513 effective Dec. 12, 1980, see se
 
 #### Transfer of Functions
 
-For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences to Secretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under section 2113 of this title.
+For transfer of authority of Board of Regents of Uniformed Services University of the Health Sciences toSecretary of Defense, see section 8091 of Pub. L. 101–511, set out as a note under section 2113 of this title.
 
 #### Transition Provisions
 

@@ -8,7 +8,7 @@ Collective Bargaining Agreements.—Nothing in sections 1601 through 1603 and 16
 
 Notice to Congress of Regulations.—The Secretary of Defense shall notify Congress of any regulations prescribed to carry out this subchapter (other than sections 1605 and 1611). Such notice shall be provided by submitting a copy of the regulations to the congressional oversight committees not less than 60 days before such regulations take effect.
 
-(Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750; amendedPub. L. 105–85, div. A, title X, §1073(a)(32), Nov. 18, 1997, 111 Stat. 1902.)
+(Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750; amended Pub. L. 105–85, div. A, title X, §1073(a)(32), Nov. 18, 1997, 111 Stat. 1902.)
 
 #### Amendments
 

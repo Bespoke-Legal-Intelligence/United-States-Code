@@ -1,20 +1,28 @@
 ### §1117. Compensation for disabilities occurring in Persian Gulf War veterans
 
-(a) The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
+(a)(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteran with a qualifying chronic disability that became manifest—
 
-&emsp;(1) became manifest during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
+&emsp;(A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
-&emsp;(2) became manifest to a degree of 10 percent or more within the presumptive period prescribed under subsection (b).
+&emsp;(B) to a degree of 10 percent or more during the presumptive period prescribed under subsection (b).
+
+(2) For purposes of this subsection, the term “qualifying chronic disability” means a chronic disability resulting from any of the following (or any combination of any of the following):
+
+&emsp;(A) An undiagnosed illness.
+
+&emsp;(B) A medically unexplained chronic multisymptom illness (such as chronic fatigue syndrome, fibromyalgia, and irritable bowel syndrome) that is defined by a cluster of signs or symptoms.
+
+&emsp;(C) Any diagnosed illness that the Secretary determines in regulations prescribed under subsection (d) warrants a presumption of service-connection.
 
 (b) The Secretary shall prescribe by regulation the period of time following service in the Southwest Asia theater of operations during the Persian Gulf War that the Secretary determines is appropriate for presumption of service connection for purposes of this section. The Secretary's determination of such period of time shall be made following a review of any available credible medical or scientific evidence and the historical treatment afforded disabilities for which manifestation periods have been established and shall take into account other pertinent circumstances regarding the experiences of veterans of the Persian Gulf War.
 
-(c)(1) Whenever the Secretary determines under section 1118(c) of this title that a presumption of service connection for an undiagnosed illness (or combination of undiagnosed illnesses) previously established under this section is no longer warranted—
+(c)(1) Whenever the Secretary determines under section 1118(c) of this title that a presumption of service connection previously established under this section is no longer warranted—
 
-&emsp;(A) a veteran who was awarded compensation under this section for such illness (or combination of illnesses) on the basis of thepresumption shall continue to be entitled to receive compensation under this section on that basis; and
+&emsp;(A) a veteran who was awarded compensation under this section on the basis of the presumption shall continue to be entitled to receive compensation under this section on that basis; and
 
 &emsp;(B) a survivor of a veteran who was awarded dependency and indemnity compensation for the death of a veteran resulting from the disease on the basis of the presumption before that date shall continue to be entitled to receive dependency and indemnity compensation on that basis.
 
-(2) This subsection shall cease to be effective 10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998.
+(2) This subsection shall cease to be effective on September 30, 2011.
 
 (d)(1) The Secretary shall prescribe regulations to carry out this section.
 
@@ -30,15 +38,71 @@
 
 (f) For purposes of this section, the term “Persian Gulf veteran” means a veteran who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
 
-(Added Pub. L. 103–446, title I, §106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, §1602(c), Oct. 21, 1998, 112 Stat. 2681–744.)
+(g) For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness or a chronic multisymptom illness include the following:
 
-#### References in Text
+&emsp;(1) Fatigue.
 
-Section 1603 of the Persian Gulf War Veterans Act of 1998, referred to in subsec. (c)(2), is section 1603 of Pub. L. 105–277, which is set out in a note below.
+&emsp;(2) Unexplained rashes or other dermatological signs or symptoms.
+
+&emsp;(3) Headache.
+
+&emsp;(4) Muscle pain.
+
+&emsp;(5) Joint pain.
+
+&emsp;(6) Neurological signs and symptoms.
+
+&emsp;(7) Neuropsychological signs or symptoms.
+
+&emsp;(8) Signs or symptoms involving the upper or lower respiratory system.
+
+&emsp;(9) Sleep disturbances.
+
+&emsp;(10) Gastrointestinal signs or symptoms.
+
+&emsp;(11) Cardiovascular signs or symptoms.
+
+&emsp;(12) Abnormal weight loss.
+
+&emsp;(13) Menstrual disorders.
+
+(h)(1) If the Secretary determines with respect to a medical research project sponsored by the Department that it is necessary for the conduct of the project that Persian Gulf veterans in receipt of compensation under this section or section 1118 of this title participate in the project without the possibility of loss of service connection under either such section, the Secretary shall provide that service connection granted under either such section for disability of a veteran who participated in the research project may not be terminated. Except as provided in paragraph (2), nothwithstanding <sup>1</sup> any other provision of law any grant of service-connection protected under this subsection shall remain service-connected for purposes of all provisions of law under this title.
+
+(2) Paragraph (1) does not apply in a case in which—
+
+&emsp;(A) the original award of compensation or service connection was based on fraud; or
+
+&emsp;(B) it is clearly shown from military records that the person concerned did not have the requisite service or character of discharge.
+
+(3) The Secretary shall publish in the Federal Register a list of medical research projects sponsored by the Department for which service connection granted under this section or section 1118 of this title may not be terminated pursuant to paragraph (1).
+
+(Added Pub. L. 103–446, title I, §106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, §1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989.)
 
 #### Amendments
 
+2001—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
+
+&emsp;“(1) became manifest during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
+
+&emsp;“(2) became manifest to a degree of 10 percent or more within the presumptive period prescribed under subsection (b).”
+
+Subsec. (c)(1). Pub. L. 107–103, §202(a)(2)(A), struck out “for an undiagnosed illness (or combination of undiagnosed illnesses)” after “service connection” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 107–103, §202(a)(2)(B), struck out “for such illness (or combination of illnesses)” after “awarded compensation under this section”.
+
+Subsec. (c)(2). Pub. L. 107–103, §202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
+
+Subsec. (g). Pub. L. 107–103, §202(b)(1), added subsec. (g).
+
+Subsec. (h). Pub. L. 107–103, §203(a), added subsec. (h).
+
 1998—Subsecs. (c) to (f). Pub. L. 105–277 added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–103, title II, §202(c), Dec. 27, 2001, 115 Stat. 989, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 1118 of this title\] shall take effect on March 1, 2002.”
+
+Pub. L. 107–103, title II, §203(b), Dec. 27, 2001, 115 Stat. 990, provided that: “The authority provided by subsection (h) of section 1117 of title 38, United States Code, as added by subsection (a), may be used by the Secretary of Veterans Affairs with respect to any medical research project of the Department of Veterans Affairs, whether commenced before, on, or after the date of the enactment of this Act \[Dec. 27, 2001\].”
 
 #### Regulations
 
@@ -66,7 +130,7 @@ Action on Report.—(1) After receiving the final report of the National Academy
 
 #### Agreement With National Academy of Sciences Regarding Toxic Drugs and Illnesses Associated With Gulf War
 
-Pub. L. 105–277, div. C, title XVI, §1603–1605, Oct. 21, 1998, 112 Stat. 2681–745 to 2681–748, provided that:
+Pub. L. 105–277, div. C, title XVI, §1603–1605, Oct. 21, 1998, 112 Stat. 2681–745 to 2681–748, as amended by Pub. L. 107–103, title II, §202(d)(2), Dec. 27, 2001, 115 Stat. 989, provided that:
 
 #### “SEC. 1603. AGREEMENT WITH NATIONAL ACADEMY OF SCIENCES.
 
@@ -236,7 +300,7 @@ Reports.—(1) Under the agreement under subsection (b), the National Academy of
 
 “(j)
 
-Sunset.—This section shall cease to be effective 10 years after the last day of the fiscal year in which the National Academy of Sciences submits the first report under subsection (i).
+Sunset.—This section shall cease to be effective on October 1, 2010.
 
 “(k)
 
@@ -250,7 +314,7 @@ Alternative Contract Scientific Organization.—(1) If the Secretary is unable w
 
 #### “SEC. 1605. DEFINITIONS.
 
-“In this title:
+“In this title \[enacting section 1118 of this title, amending this section and section 1113 of this title, and enacting this note and provisions set out as a note under section 101 of this title\]:
 
 &emsp;“(1) The term ‘toxic agent, environmental or wartime hazard, or preventive medicine or vaccine associated with Gulf War service’ means a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine that is known or presumed to be associated with service in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War, whether such association arises as a result of single, repeated, or sustained exposure and whether such association arises through exposure singularly or in combination.
 
@@ -440,7 +504,7 @@ Section 106(c) of Pub. L. 103–446 directed Secretary of Veterans Affairs, not 
 
 #### Executive Order No. 12961
 
-Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans’ Illnesses, was revoked by Ex. Ord. No. 13138, §3(g), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans’ Illnesses, was revoked by Ex. Ord. No. 13138, §3(g), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13034. Extension of Presidential Advisory Committee on Gulf War Veterans’ Illnesses
 
@@ -472,5 +536,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1113 of this title.
+This section is referred to in sections 1113, 1118 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “notwithstanding”.</i>
 

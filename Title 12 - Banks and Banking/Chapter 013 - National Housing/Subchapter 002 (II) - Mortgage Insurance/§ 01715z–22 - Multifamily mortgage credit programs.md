@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”) shall carry out programs through the Federal Housing Administration to provide new forms of Federal credit enhancement for multifamily loans. In carrying out the programs, theSecretary shall include an evaluation of the effectiveness of entering into partnerships or other contractual arrangements including reinsurance and risk-sharing agreements with State or local housing finance agencies, the Federal Housing Finance Board, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, qualified financial institutions, and other State or local mortgage insurance companies or bank lending consortia.
+The Secretary of Housing and Urban Development (hereinafter referred to as the “Secretary”) shall carry out programs through the Federal Housing Administration to provide new forms of Federal credit enhancement for multifamily loans. In carrying out the programs, the Secretary shall include an evaluation of the effectiveness of entering into partnerships or other contractual arrangements including reinsurance and risk-sharing agreements with State or local housing finance agencies, the Federal Housing Finance Board, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, qualified financial institutions, and other State or local mortgage insurance companies or bank lending consortia.
 
 #### (b) Risk-sharing program
 
@@ -22,7 +22,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (C) Risk apportionment
 
-&emsp;&emsp;Agreements entered into under this subsection between the Secretary and a qualified participating entity shall specify the percentage of loss that each of the parties to the agreement will assume in the event of default of the insured or reinsured multifamily mortgage. Such agreements shall specify that the qualified participating entity and the Secretary shall share any loss in accordance with the risk-sharing agreement.
+&emsp;&emsp;Agreements entered into under this subsection between the Secretary and a qualified participating entity shall specify the percentage of loss that each of the parties to the agreement will assume in the event of default of the insured or reinsured multifamily mortgage. Such agreements shall specifythat the qualified participating entity and the Secretary shall share any loss in accordance with the risk-sharing agreement.
 
 #### (D) Reimbursement capacity
 
@@ -52,7 +52,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 &emsp;The Secretary shall develop and assess a variety of risk-sharing alternatives, including arrangements under which the Secretary assumes an appropriate share of the risk related to long-term mortgage loans on newly constructed or acquired multifamily rental housing, mortgage refinancings, bridge financing for construction, and other forms of multifamily housing mortgage lending that the Secretary deems appropriate to carry out the purposes of this subsection. Such alternatives shall be designed—
 
-&emsp;&emsp;(A) to ensure that other parties bear a share of the risk, in percentage amount and in position of exposure, that is sufficient tocreate strong, market-oriented incentives for other participating parties to maintain sound underwriting and loan management practices;
+&emsp;&emsp;(A) to ensure that other parties bear a share of the risk, in percentage amount and in position of exposure, that is sufficient to create strong, market-oriented incentives for other participating parties to maintain sound underwriting and loan management practices;
 
 &emsp;&emsp;(B) to develop credit mechanisms, including sound underwriting criteria, processing methods, and credit enhancements, through which resources of the Federal Housing Administration can assist in increasing multifamily housing lending as needed to meet the expected need in the United States;
 
@@ -74,7 +74,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (6) Fees
 
-&emsp;The Secretary shall establish and collect premiums and fees under this subsection as the Secretary determines appropriate to (A) achieve the purpose of this subsection, and (B) compensate the Federal Housing Administration for the risks assumed and related administrative costs.
+&emsp;The Secretary shall establish and collect premiums and fees under this subsection asthe Secretary determines appropriate to (A) achieve the purpose of this subsection, and (B) compensate the Federal Housing Administration for the risks assumed and related administrative costs.
 
 #### (7) Non-Federal participation
 
@@ -180,7 +180,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (ii) Procedure
 
-&emsp;&emsp;&emsp;The Secretary shall approve a mortgage for the provision of mortgage insurance subject to the procedures authorized by this paragraph only if, not less than 15 days prior to such approval, prior to anyapproval, commitment, or endorsement of mortgage insurance on the property on behalf of the Secretary, and prior to any commitment by the qualified housing finance agency to provide financing under the risk-sharing agreement with respect to the property, the qualified housing finance agency submits to the Secretary a request for such approval, accompanied by a certification of the State or unit of general local government that meets the requirements of clause (iii). The Secretary's approval of any such certification shall be deemed to satisfy the Secretary's responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the provision of mortgage insurance on the property that is covered by such certification.
+&emsp;&emsp;&emsp;The Secretary shall approve a mortgage for the provision of mortgage insurance subject to the procedures authorized by this paragraph only if, not less than 15 days prior to such approval, prior to any approval, commitment, or endorsement of mortgage insurance on the property on behalf of the Secretary, and prior to any commitment by the qualified housing finance agency to provide financing under the risk-sharing agreement with respect to the property, the qualified housing finance agency submits to the Secretary a request for such approval, accompanied by a certification of the State or unit of general local government that meets the requirements of clause (iii). The Secretary's approval of any such certification shall be deemed to satisfy the Secretary's responsibilities under the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] and such other provisions of law as the regulations of the Secretary specify insofar as those responsibilities relate to the provision of mortgage insurance on the property that is covered by such certification.
 
 #### (iii) Certification
 
@@ -236,7 +236,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 The National Housing Act, referred to in subsecs. (b)(5) and (c)(4), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(9)(A)(i)(I), (ii), (iii)(IV), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which isclassified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(9)(A)(i)(I), (ii), (iii)(IV), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Lead-Based Paint Poisoning Prevention Act, referred to in subsec. (c)(9)(B), is Pub. L. 91–695, Jan. 13, 1971, 84 Stat. 2078, as amended, which is classified generally to chapter 63 (§4801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 42 and Tables.
 

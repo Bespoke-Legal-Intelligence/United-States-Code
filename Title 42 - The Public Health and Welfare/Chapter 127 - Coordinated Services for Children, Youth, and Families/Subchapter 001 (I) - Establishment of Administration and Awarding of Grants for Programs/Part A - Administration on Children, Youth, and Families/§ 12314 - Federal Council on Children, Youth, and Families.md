@@ -24,7 +24,7 @@ Each member of the Council shall serve for a 3-year term without regard to title
 
 &emsp;&emsp;&emsp;(ii) national organizations with an interest in young individuals, families, early childhood development, elementary and secondary education, business, labor, minorities, and the general public;
 
-&emsp;&emsp;(B) six members who are representatives of public, State or local agencies that serve children, youth and their families and include representatives of child welfare and child mental health agencies; and
+&emsp;&emsp;(B) six members who are representatives of public, State or local agencies that servechildren, youth and their families and include representatives of child welfare and child mental health agencies; and
 
 &emsp;&emsp;(C) six members who are cabinet-level representatives of Federal agencies that have responsibility for programs relating to children, youth and families.
 
@@ -70,7 +70,7 @@ Each member of the Council, while serving on business of the Council away from t
 
 #### (i) Chairperson
 
-The President shall designate the Secretary of Health and Human Services to serve as the Chairperson of the Council. In the event that the Secretary chooses to designate the functions ofChairperson under this subsection, such designation may only be made to the Commissioner.
+The President shall designate the Secretary of Health and Human Services to serve as the Chairperson of the Council. In the event that the Secretary chooses to designate the functions of Chairperson under this subsection, such designation may only be made to the Commissioner.
 
 #### (j) Meetings
 

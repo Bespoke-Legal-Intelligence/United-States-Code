@@ -1,6 +1,6 @@
 ### §3536. Annual reports
 
-The Secretary shall, as soon as practicable after the end of each calendar year, make a report to the President for submission to the Congress on the activities of the Department during the preceding calendar year. The report required under this section shall include the reports required under paragraphs (2) and (6) of section 3608(e) of this title, the reports required under subsections (a) and (b) of section 4856 of this title, the report required under section 1701<i>o</i> of title 12,<sup>1</sup> and the report required under section 3533(e)(2) of this title.
+The Secretary shall, as soon as practicable after the end of each calendar year, make a report to the President for submission to the Congress on the activities of the Department during the preceding calendar year. The report required under this section shall include the reports required under paragraphs (2) and (6) of section 3608(e) of this title, the reports required under subsections (a) and (b) of section 4856 of this title, the report required under section 1701<i>o</i> of title 12, and the report required under section 3533(e)(2) of this title.
 
 (Pub. L. 89–174, §8, Sept. 9, 1965, 79 Stat. 670; Pub. L. 106–569, title XI, §1103(e), Dec. 27, 2000, 114 Stat. 3031.)
 
@@ -59,6 +59,4 @@ Collection and Maintenance of Data.—The Secretary shall collect and maintain d
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1437d, 1437u, 3533 of this title; title 12 section 1831q.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ Every member of a Federal Home Loan Bank shall, as a condition precedent thereto
 
 &emsp;(2) to agree that reports of examinations by local, State, or Federal agencies or institutions may be furnished by such authorities to the Bank or the Board upon request; and
 
-&emsp;(3) to agree to give the Bank or the Federal agency, upon request, such information asthey may need to compile and publish cost of funds indices and to publish other reports or statistical summaries pertaining to the activities of Bank members.
+&emsp;(3) to agree to give the Bank or the Federal agency, upon request, such information as they may need to compile and publish cost of funds indices and to publish other reports or statistical summaries pertaining to the activities of Bank members.
 
 (July 22, 1932, ch. 522, §22, 47 Stat. 739; Pub. L. 101–73, title VII, §719, Aug. 9, 1989, 103 Stat. 422.)
 

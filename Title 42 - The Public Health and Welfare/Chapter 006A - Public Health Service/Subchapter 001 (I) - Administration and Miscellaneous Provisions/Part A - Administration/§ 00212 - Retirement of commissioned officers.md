@@ -6,7 +6,7 @@
 
 (2) A commissioned officer of the Service may be retired by the Secretary, and shall be retired if he applies for retirement, on the first day of any month after completion of thirty years of active service.
 
-(3) Any commissioned officer of the Service who has had less than thirty years of active service may be retired by the Secretary, with or without application by the officer, on the first day of any month after completion of twenty or more years of active service of which not less than ten are years of active commissioned service in any of the uniformed services.
+(3) Any commissioned officer of the Service who has had less than thirty years of active service may be retired by the Secretary, with or without application by the officer, on the first day of any month after completion of twenty ormore years of active service of which not less than ten are years of active commissioned service in any of the uniformed services.
 
 (4) Except as provided in paragraph (6), a commissioned officer retired pursuant to paragraph (1), (2), or (3) who was (in the case of an officer in the Reserve Corps) on active duty with the Service on the day preceding such retirement shall be entitled to receive retired pay at the rate of 21/2 per centum of the basic pay of the highest grade held by him as such officer and in which, in the case of a temporary promotion to such grade, he has performed active duty for not less than six months, (A) for each year of active service, or (B) if it results in higher retired pay, for each of the following years:
 
@@ -126,7 +126,7 @@ Section 529 \[title III, §304(c)\] of Pub. L. 101–509 provided that: “Excep
 
 Amendment by section 922(d) of Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under section 1401 of Title 10, Armed Forces.
 
-Amendment by section 923(f) of Pub. L. 98–94 applicable with respect to the computation of retired or retainer pay of any individual who becomes entitled to that pay after Sept. 30, 1983, see section 923(g) of Pub. L. 98–94, set out as a note under section 1174 of Title 10.
+Amendment by section 923(f) of Pub. L. 98–94 applicable with respect to the computation of retired or retainer pay of any individual who becomes entitled tothat pay after Sept. 30, 1983, see section 923(g) of Pub. L. 98–94, set out as a note under section 1174 of Title 10.
 
 #### Effective Date of 1970 Amendment
 
@@ -146,7 +146,7 @@ Section 8(c), (d) of Pub. L. 86–415 provided that:
 
 “(c) An officer in the Regular Corps on active duty on the date of enactment of this Act \[Apr. 8, 1960\] may be retired and have his retired pay computed under section 211 of the Public Health Service Act, as amended by this Act \[this section\], or, if he so elects, under such section as in effect prior to the date of enactment of this Act \[Apr. 8, 1960\].
 
-“(d) The limitation under subsection (f) of section 211 of the Public Health Service Act, as amended by this Act \[subsec. (f) of this section\], on the amount of active service with the Public Health Service, other than as acommissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corps of the Public Health Service on active duty on June 30, 1960.”
+“(d) The limitation under subsection (f) of section 211 of the Public Health Service Act, as amended by this Act \[subsec. (f) of this section\], on the amount of active service with the Public Health Service, other than as a commissioned officer, which may be counted for purposes of retirement or separation for physical disability, shall not apply in the case of any officer of the Reserve Corps of the Public Health Service on active duty on June 30, 1960.”
 
 #### Transfer of Functions
 

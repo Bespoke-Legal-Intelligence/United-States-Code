@@ -1,8 +1,8 @@
 ### §231u. Benefit preservation
 
-(a)(1) On or before May 1 of each year beginning in 1984, the Railroad Retirement Board shall prepare a five-year projection of anticipated revenues to and payments from the Railroad Retirement Account to determine the ability of such Account to pay benefits in each of the next succeeding five calendar years. No later than July 1 of each year, the Board shall submit a written report to the President, the Speaker of the House, and the President of the Senate setting forth the results of the projection prepared pursuant to the preceding sentence. If the projection indicates that the funds in the Railroad Retirement Account will be insufficient to pay the full amount of the benefits under this subchapter which are payable from that Account at any time during the five-year period, the Board's report shall include—
+(a)(1) On or before May 1 of each year beginning in 1984, the Railroad Retirement Board shall prepare a five-year projection of anticipated revenues to and payments from the Railroad Retirement Account to determine the ability of such Account to pay benefits in each of the next succeeding five calendar years. On or before May 1 of each year beginning in 2003, the Railroad Retirement Board shall compute its projection of the account benefits ratio and the average account benefits ratio (as defined by section 3241(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 3241(c)\]) for each of the next succeeding five fiscal years. No later than July 1 of each year, the Board shall submit a written report to the President, the Speaker of the House, and the President of the Senate setting forth the results of the projections prepared pursuant to the preceding two sentences. If the projection indicates that the funds in the Railroad Retirement Account will be insufficient to pay the full amount of the benefits under this subchapter which are payable from that Account at any time during the five-year period, the Board's report shall include—
 
-&emsp;(A) the first fiscal year during which benefits under this subchapter must be reduced, in the absence of any adjustments, because insufficient funds (including any general revenue borrowing authority under this subchapter) would preclude payment of full benefits (other than benfits <sup>1</sup> payable from the Dual Benefits Payments Account) for every month in such fiscal year;
+&emsp;(A) the first fiscal year during which benefits under this subchapter must be reduced, in the absence of any adjustments, because insufficient funds (including any general revenueborrowing authority under this subchapter) would preclude payment of full benefits (other than benfits <sup>1</sup> payable from the Dual Benefits Payments Account) for every month in such fiscal year;
 
 &emsp;(B) the first fiscal year during which the Board would recommend suspension of the authority to borrow contained in section 360(d) of this title, in order to prevent depletion of the Railroad Retirement Account; and
 
@@ -20,17 +20,19 @@
 
 &emsp;(1) provide a constant level of benefits at the maximum level possible for every month of that fiscal year; and
 
-&emsp;(2) provide that no individual shall receive less during that fiscal year than the amountotherwise payable if the employee's service as an employee after December 31, 1936, had been covered under the Social Security Act \[42 U.S.C. 301 et seq.\], minus the amount of any reduction required under section 231b(m) or 231c(i) of this title.
+&emsp;(2) provide that no individual shall receive less during that fiscal year than the amount otherwise payable if the employee's service as an employee after December 31, 1936, had been covered under the Social Security Act \[42 U.S.C. 301 et seq.\], minus the amount of any reduction required under section 231b(m) or 231c(i) of this title.
 
 > Unless otherwise provided by law enacted after August 13, 1981, or by a later report filed by the Board under subsection (a) of this section, regulations issued by the Board under this subsection shall apply beginning with the fiscal year designated by the Board in its written report under subsection (a) of this section. Any Board regulation which becomes effective under this subsection may be modified, rescinded, or superseded in the same manner and to the same extent as in the case of any other Board regulation issued under authority of this subchapter.
 
-(Aug. 29, 1935, ch. 812, §22, as added Pub. L. 97–35, title XI, §1126(b), Aug. 13, 1981, 95 Stat. 639; amended Pub. L. 98–76, title I, §105, Aug. 12, 1983, 97 Stat. 416; Pub. L. 104–66, title II, §2221(b), Dec. 21, 1995, 109 Stat. 733.)
+(Aug. 29, 1935, ch. 812, §22, as added Pub. L. 97–35, title XI, §1126(b), Aug. 13, 1981, 95 Stat. 639; amended Pub. L. 98–76, title I, §105, Aug. 12, 1983, 97 Stat. 416; Pub. L. 104–66, title II, §2221(b), Dec. 21, 1995, 109 Stat. 733; Pub. L. 107–90, title I, §108(a), Dec. 21, 2001, 115 Stat. 890.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–90 in introductory provisions, inserted after first sentence “On or before May 1 of each year beginning in 2003, the Railroad Retirement Board shall compute its projection of the account benefits ratio and the average account benefits ratio (as defined by section 3241(c) of the Internal Revenue Code of 1986) for each of the next succeeding five fiscal years.” and substituted “the projections prepared pursuant to the preceding two sentences” for “the projection prepared pursuant to the preceding sentence”.
 
 1995—Subsec. (a)(1). Pub. L. 104–66 substituted “May 1” and “July 1” for “February 1” and “April 1”, respectively, in introductory provisions.
 

@@ -42,13 +42,23 @@
 
 &emsp;The provisions of section 507(a) shall not apply to a trust which is described in subsection (a)(2) by reason of a distribution of qualified employer securities (as defined in section 664(g)(4)) to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by section 664(g)).
 
-(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 517; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XV, §1530(c)(9), Aug. 5, 1997, 111 Stat. 1079.)
+(Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 517; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XV, §1530(c)(9), Aug. 5, 1997, 111 Stat. 1079; Pub. L. 107–16, title V, §542(e)(4), June 7, 2001, 115 Stat. 85.)
+
+#### Amendment of Subsection (a)(2)(A)
+
+<i>Pub. L. 107–16, title V, §542(e)(4), (f)(3), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to deductions for taxable years beginning after Dec. 31, 2009, subsection (a)(2)(A) of this section is temporarily amended by inserting “642(c),” after “170(f)(2)(B),”. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
 <b>1997</b>—Subsec. (b)(4). Pub. L. 105–34 added par. (4).
 
 <b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to deductions for taxable years beginning after Dec. 31, 2009, see section 542(f)(3) of Pub. L. 107–16, set out as a note under section 121 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

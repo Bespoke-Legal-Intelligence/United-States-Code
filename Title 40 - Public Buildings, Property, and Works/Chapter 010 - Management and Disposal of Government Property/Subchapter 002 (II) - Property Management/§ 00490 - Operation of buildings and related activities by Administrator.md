@@ -22,7 +22,7 @@ Whenever and to the extent that the Administrator has been or hereafter may be a
 
 &emsp;(9) to pay sums in lieu of taxes on real property declared surplus by Government corporations, pursuant to the Surplus Property Act of 1944, where legal title to such property remains in any such Government corporation;
 
-&emsp;(10) to furnish utilities and other services where such utilities and other services are notprovided from other sources to persons, firms, or corporations occupying or utilizing plants or portions of plants which constitute (A) a part of the National Industrial Reserve pursuant to the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\], or (B) surplus real property, and to credit the amounts received therefrom to the applicable appropriation of the General Services Administration;
+&emsp;(10) to furnish utilities and other services where such utilities and other services are not provided from other sources to persons, firms, or corporations occupying or utilizing plants or portions of plants which constitute (A) a part of the National Industrial Reserve pursuant to the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\], or (B) surplus real property, and to credit the amounts received therefrom to the applicable appropriation of the General Services Administration;
 
 &emsp;(11) at the direction of the Secretary of Defense, to use proceeds received from insurance against damage to properties of the National Industrial Reserve for repair or restoration of the damaged properties;
 
@@ -58,7 +58,7 @@ Whenever the Director of the Office of Management and Budget shall determine suc
 
 &emsp;(2) of any building located in any foreign country;
 
-&emsp;(3) of any building located on the grounds of any fort, camp, post, arsenal, navy yard, naval training station, airfield, proving ground, military supply depot, or school, or of any similar facility of the Department of Defense, unless and to such extent as a permit for its use by another agency or agencies shall have been issued by the Secretary of Defense or his duly authorized representative;
+&emsp;(3) of any building located on the grounds of any fort, camp, post, arsenal, navy yard, naval training station, airfield, proving ground,military supply depot, or school, or of any similar facility of the Department of Defense, unless and to such extent as a permit for its use by another agency or agencies shall have been issued by the Secretary of Defense or his duly authorized representative;
 
 &emsp;(4) of any building which the Director of the Office of Management and Budget finds to be a part of a group of buildings which are (A) located in the same vicinity, (B) utilized wholly or predominantly for the special purposes of the agency having custody thereof, and (C) not generally suitable for the use of other agencies; or
 
@@ -92,7 +92,7 @@ Notwithstanding any other provision of law, the Administrator is authorized, in 
 
 (B) The Administrator may accept, from a utility, goods or services which enhance the energy efficiency of Federal facilities.
 
-(C) In the administration of any real property for which the Administrator leases and pays utility costs, the Administrator may assign all or a portion of energy rebates to the lessor to underwrite the costs incurred in undertaking energy efficiency improvements in such realproperty if the payback period for such improvement is at least 2 years less than the remainder of the term of the lease.
+(C) In the administration of any real property for which the Administrator leases and pays utility costs, the Administrator may assign all or a portion of energy rebates to the lessor to underwrite the costs incurred in undertaking energy efficiency improvements in such real property if the payback period for such improvement is at least 2 years less than the remainder of the term of the lease.
 
 (D) The Administrator may, in addition to amounts appropriated for such purposes and without regard to paragraph (2), obligate for energy management improvement programs—
 
@@ -100,7 +100,7 @@ Notwithstanding any other provision of law, the Administrator is authorized, in 
 
 &emsp;(ii) goods and services received under subparagraph (B); and
 
-&emsp;(iii) amounts the Administrator determines are not needed for other authorized projects and are otherwise available to implement energy efficiency programs.
+&emsp;(iii) amounts the Administrator determines are not needed for other authorized projectsand are otherwise available to implement energy efficiency programs.
 
 (8)(A) The Administrator is authorized to receive amounts from the sale of recycled materials and shall deposit such amounts in the Federal Buildings Fund for use as provided in subparagraph (B).
 
@@ -132,7 +132,7 @@ Whenever an agency, or an organizational unit thereof, occupying a substantial a
 
 #### (j) Charges for space and services furnished by Administrator; determination of rates; exemption from charges
 
-The Administrator is authorized and directed to charge anyone furnished services, space, quarters, maintenance, repair, or other facilities (hereinafter referred to as space and services), at rates to be determined by the Administrator from time to time and provided for in regulations issued by him. Such rates and charges shall approximate commercial charges for comparable space and services, except that with respect to those buildings for which the Administrator of General Services is responsible for alterations only (as the term “alter” is defined in section 612(5) of this title), the rates charged the occupant for such services shall be fixed by the Administrator so as to recover only the approximate applicable cost incurred by him in providing such alterations. The Administrator may exempt anyone from the charges required by this subsection if he determines that such charges would be infeasible or impractical. To the extent any such exemption is granted, appropriations to the General Services Administration are authorized to reimburse the fund for any loss of revenue.
+The Administrator is authorized and directed to charge anyone furnished services, space, quarters, maintenance, repair, or other facilities (hereinafter referred to as space and services), at rates to be determined by the Administrator from time to time and provided for in regulations issued by him. Such rates and charges shall approximate commercial charges for comparable space and services, except that with respect to those buildings for which the Administrator of General Services is responsible for alterations only (as the term “alter” is defined in section 612(5) of this title), the rates charged the occupant for such services shall be fixed by the Administrator so as to recover only the approximate applicable cost incurred by him in providing such alterations. The Administrator may exempt anyone from the charges required by this subsection if he determines that such charges would be infeasible or impractical. To the extentany such exemption is granted, appropriations to the General Services Administration are authorized to reimburse the fund for any loss of revenue.
 
 #### (k) Charges for space and services furnished by executive agencies; approval of rates by Administrator; credit to appropriation or fund
 
@@ -258,7 +258,7 @@ Pub. L. 100–202, §101(b) \[title VIII, §8093\], Dec. 22, 1987, 101 Stat. 132
 
 #### Lease and Assignment of Space; Management
 
-All functions with respect to acquiring space in buildings by lease, all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in Government-owned buildings), and all functions withrespect to the operation, maintenance, and custody of office buildings owned by the Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-office purposes, were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by sections 1 and 2 of Reorg. Plan No. 18 of 1950, eff. July 1, 1950, 15 F.R. 3177, 64 Stat. 1270, set out below. For delegation of those transferred functions to other personnel of the General Services Administration, or to the heads and personnel of other agencies, and for transfer of personnel, property, records, and funds, see sections 3 and 4 of that Plan.
+All functions with respect to acquiring space in buildings by lease, all functions with respect to assigning and reassigning space in buildings for use by agencies (including both space acquired by lease and space in Government-owned buildings), and all functions with respect to the operation, maintenance, and custody of office buildings owned by the Government and of office buildings or parts thereof acquired by lease, including those post-office buildings which, as determined by the Director of the Bureau of the Budget, are not used predominantly for post-office purposes, were, with certain exceptions, transferred from the respective agencies in which theretofore vested to the Administrator of General Services by sections 1 and 2 of Reorg. Plan No. 18 of 1950, eff. July 1, 1950, 15 F.R. 3177, 64 Stat. 1270, set out below. For delegation of those transferred functions to other personnel of the General Services Administration, or to the heads and personnel of other agencies, and for transfer of personnel, property, records, and funds, see sections 3 and 4 of that Plan.
 
 #### Issuance of Regulations Pursuant to Public Buildings Amendments of 1972; Approval of Rates for Space and Services Furnished
 
@@ -464,7 +464,7 @@ Memorandum for the Heads of Departments and Agencies
 
 Recent advancements in mobile telecommunications technology present an opportunity for the rapid construction of the Nation's wireless communications infrastructure. As a matter of policy, the Federal Government shall encourage the efficient and timely implementation of such new technologies and the concomitant infrastructure buildout as a means of stimulating economic growth and creating new jobs. The recent auctioning and impending licensing of radio frequencies for mobile personal communications services presents the Federal Government with the opportunity to foster new technologies and to encourage the development of communications infrastructure by making Federal property available for the siting of mobile services antennas.
 
-Therefore, to the extent permitted by law, I hereby direct the Administrator of General Services, within 90 days, in consultation with the Secretaries of Agriculture, Interior, Defense, and the heads of such other agencies as the Administrator may determine, to develop procedures necessary to facilitate appropriate access to Federal property for the siting of mobile services antennas.
+Therefore, to the extent permitted by law, I hereby direct the Administrator of General Services, within 90days, in consultation with the Secretaries of Agriculture, Interior, Defense, and the heads of such other agencies as the Administrator may determine, to develop procedures necessary to facilitate appropriate access to Federal property for the siting of mobile services antennas.
 
 The procedures should be developed in accordance with the following:
 

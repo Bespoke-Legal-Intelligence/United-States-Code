@@ -26,7 +26,7 @@ Pub. L. 103–337, div. A, title V, §559, Oct. 5, 1994, 108 Stat. 2776, as amen
 
 “(a)
 
-Admission of Civilians as Students.—(1) The Secretary of the Army may enter into an agreement with an accredited institution of higher education (or a consortium of such institutions) under which students enrolled at an institution of higher education that is a party to the agreement may receive instruction at the Foreign Language Center of the Defense Language Institute on a space-available basis.
+Admission of Civilians as Students.—(1) The Secretary of the Army may enter into an agreement with an accredited institution of higher education (or a consortium of such institutions) under which studentsenrolled at an institution of higher education that is a party to the agreement may receive instruction at the Foreign Language Center of the Defense Language Institute on a space-available basis.
 
 “(2) The Secretary may also permit other persons who would benefit from the instruction provided at the Center, as determined by the Secretary, to receive instruction at the Center on a cost-reimbursable, space-available basis.
 

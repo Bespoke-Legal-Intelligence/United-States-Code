@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(IV) $2.60 for each participant, for the ninth plan year, and for each succeeding plan year.
 
-(B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in subparagraph (A)(iii) will not apply to the same participant in any multiemployer plan more than once for any plan year.
+(B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once forany plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in subparagraph (A)(iii) will not apply to the same participant in any multiemployer plan more than once for any plan year.
 
 (C)(i) If the sum of—
 
@@ -84,7 +84,7 @@
 
 (B) Notwithstanding subparagraph (A), premium rates charged to any multiemployer plan by the corporation for any period for supplemental guarantees under section 1322a(g)(2) of this title may reflect any reasonable considerations which the corporation determines to be appropriate.
 
-(6)(A) In carrying out its authority under paragraph (1) to establish premium rates and bases for basic benefits guaranteed under section 1322 of this title with respect to single-employer plans, the corporation shall establish such rates and bases in coverage schedules in accordance with the provisions of this paragraph.
+(6)(A) In carrying out its authority under paragraph (1) to establish premium rates and bases for basic benefits guaranteed under section 1322 of this title with respect to single-employer plans, the corporation shall establishsuch rates and bases in coverage schedules in accordance with the provisions of this paragraph.
 
 (B) The corporation may establish annual premiums for single-employer plans composed of the sum of—
 
@@ -100,7 +100,7 @@
 
 &emsp;(ii) unfunded basic benefits guaranteed under this subchapter, but such premium rates shall not exceed the limitations applicable to charges referred to in subparagraph (B)(i), or
 
-&emsp;(iii) total guaranteed basic benefits, but such premium rates shall not exceed the ratesfor additional charges referred to in subparagraph (B)(ii).
+&emsp;(iii) total guaranteed basic benefits, but such premium rates shall not exceed the rates for additional charges referred to in subparagraph (B)(ii).
 
 > If the corporation uses two or more of the rate bases described in this subparagraph, the premium rates shall be designed to produce approximately equal amounts of aggregate premium revenue from each of the rate bases used.
 
@@ -196,7 +196,7 @@ Subsec. (b)(3). Pub. L. 99–272, §11005(c)(3), substituted “joint” for “
 
 Subsec. (c)(1)(A). Pub. L. 99–272, §11005(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of each plan which was not a multiemployer plan in a plan year, an amount equal to $1 for each individual who was a participant in such plan during the plan year, and”.
 
-1980—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
+1980—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation toprescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
 
 Subsec. (b). Pub. L. 96–364, §105(b), in par. (1) substituted “(C), (D), or (E)” for “(B) or (C)”, “revised schedule” for “revised coverage schedule”, and “Human Resources” for “Public Welfare”, in par. (3) substituted “revised schedule” for “revised coverage schedule”, and in par. (4) substituted “Human Resources” for “Public Welfare”.
 

@@ -14,7 +14,7 @@ The automated system required by this section shall perform such functions as th
 
 #### (c) Calculation of performance indicators
 
-In order to enable the Secretary to determine the incentive payments and penalty adjustments required by sections 652(g) and 658 of this title, the State agency shall—
+In order to enable the Secretary to determine the incentive payments and penalty adjustments required by sections 652(g) and 658a of this title, the State agency shall—
 
 &emsp;(1) use the automated system—
 
@@ -42,7 +42,7 @@ The State agency shall have in effect safeguards on the integrity, accuracy, and
 
 #### (3) Monitoring of access
 
-&emsp;Routine monitoring of access to and use of the automated system, through methods such as audit trails and feedback mechanisms, to guard against and promptly identify unauthorized access or use.
+&emsp;Routine monitoring of access to and use of the automated system, through methods suchas audit trails and feedback mechanisms, to guard against and promptly identify unauthorized access or use.
 
 #### (4) Training and information
 
@@ -118,7 +118,7 @@ The State shall use the automated system required by this section to extract inf
 
 #### (5) Private industry councils receiving welfare-to-work grants
 
-&emsp;Disclosing to a private industry council (as defined in section 603(a)(5)(D)(ii) of this title) to which funds are provided under section 603(a)(5) of this title the names, addresses, telephone numbers, and identifying case number information in the State program funded under part A of this subchapter, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under section 603(a)(5) of this title.
+&emsp;Disclosing to a private industry council (as defined in section 603(a)(5)(D)(ii) of this title)to which funds are provided under section 603(a)(5) of this title the names, addresses, telephone numbers, and identifying case number information in the State program funded under part A of this subchapter, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under section 603(a)(5) of this title.
 
 #### (g) Collection and distribution of support payments
 
@@ -144,7 +144,7 @@ The State shall use the automated system required by this section to extract inf
 
 The automated system required by this section shall be used, to the maximum extent feasible, to implement the expedited administrative procedures required by section 666(c) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §454A, as added and amended Pub. L. 104–193, title III, §§311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, 110 Stat.2205, 2208, 2226, 2235; Pub. L. 105–34, title X, §1090(a)(1), Aug. 5, 1997, 111 Stat. 961; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §805(a)(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–285.)
+(Aug. 14, 1935, ch. 531, title IV, §454A, as added and amended Pub. L. 104–193, title III, §§311, 312(c), 325(b), 344(a)(2), Aug. 22, 1996, 110 Stat. 2205, 2208, 2226, 2235; Pub. L. 105–34, title X, §1090(a)(1), Aug. 5, 1997, 111 Stat. 961; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §805(a)(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–285.)
 
 #### References in Text
 

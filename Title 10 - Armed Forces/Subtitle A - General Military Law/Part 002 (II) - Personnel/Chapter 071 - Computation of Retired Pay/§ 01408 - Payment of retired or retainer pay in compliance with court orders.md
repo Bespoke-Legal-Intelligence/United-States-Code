@@ -86,11 +86,11 @@ Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.�
 
 (3) Payments under this section shall not be made more frequently than once each month, and the Secretary concerned shall not be required to vary normal pay and disbursement cycles for retired pay in order to comply with a court order.
 
-(4) Payments from the disposable retired pay of a member pursuant to this section shall terminate in accordance with the terms of the applicable court order, but not later than the date of the death of the member or the date of the death of the spouse or former spouse to whompayments are being made, whichever occurs first.
+(4) Payments from the disposable retired pay of a member pursuant to this section shall terminate in accordance with the terms of the applicable court order, but not later than the date of the death of the member or the date of the death of the spouse or former spouse to whom payments are being made, whichever occurs first.
 
 (5) If a court order described in paragraph (1) provides for a division of property (including a division of community property) in addition to an amount of child support or alimony or the payment of an amount of disposable retired pay as the result of the court's treatment of such pay under subsection (c) as property of the member and his spouse, the Secretary concerned shall pay (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse of the member, any part of the amount payable to the spouse or former spouse under the division of property upon effective service of a final court order of garnishment of such amount from such retired pay.
 
-(6) In the case of a court order for which effective service is made on the Secretary concerned on or after the date of the enactment of this paragraph and which provides for payments from the disposable retired pay of a member to satisfy the amount of child support set forth in the order, the authority provided in paragraph (1) to make payments from the disposable retired pay of a member to satisfy the amount of child support set forth in a court order shall apply to payment of any amount of child support arrearages set forth in that order as well as to amounts of child support that currently become due.
+(6) In the case of a court order for which effective service is made on the Secretary concerned on or after August 22, 1996, and which provides for payments from the disposable retired pay of a member to satisfy the amount of child support set forth in the order, the authority provided in paragraph (1) to make payments from the disposable retired pay of a member to satisfy the amount of child support set forth in a court order shall apply to payment of any amount of child support arrearages set forth in that order as well as to amounts of child support that currently become due.
 
 (7)(A) The Secretary concerned may not accept service of a court order that is an out-of-State modification, or comply with the provisions of such a court order, unless the court issuing that order has jurisdiction in the manner specified in subsection (c)(4) over both the member and the spouse or former spouse involved.
 
@@ -126,7 +126,7 @@ Limitations.—(1) The total amount of the disposable retired pay of a member pa
 
 (4)(A) In the event of effective service of a court order under this section and the service of legal process pursuant to section 459 of the Social Security Act (42 U.S.C. 659), both of which provide for payments during a month from the same member, satisfaction of such court orders and legal process from the retired pay of the member shall be on a first-come, first-served basis. Such court orders and legal process shall be satisfied out of moneys which are subject to such orders and legal process and which remain available in accordance with the limitations of paragraph (1) and subparagraph (B) of this paragraph during such month after the satisfaction of all court orders or legal process which have been previously served.
 
-(B) Notwithstanding any other provision of law, the total amount of the disposable retired pay of a member payable by the Secretary concerned under all court orders pursuant to this section and all legal processes pursuant to section 459 of the Social Security Act (42 U.S.C. 659) with respect to a member may not exceed 65 percent of the amount of the retired pay payable to such member that is considered under section462 of the Social Security Act (42 U.S.C. 662) to be remuneration for employment that is payable by the United States.
+(B) Notwithstanding any other provision of law, the total amount of the disposable retired pay of a member payable by the Secretary concerned under all court orders pursuant to this section and all legal processes pursuant to section 459 of the Social Security Act (42 U.S.C. 659) with respect to a member may not exceed 65 percent of the amount of the retired pay payable to such member that is considered under section 462 of the Social Security Act (42 U.S.C. 662) to be remuneration for employment that is payable by the United States.
 
 (5) A court order which itself or because of previously served court orders provides for the payment of an amount which exceeds the amount of disposable retired pay available for payment because of the limit set forth in paragraph (1), or which, because of previously served court orders or legal process previously served under section 459 of the Social Security Act (42 U.S.C. 659), provides for payment of an amount that exceeds the maximum amount permitted under paragraph (1) or subparagraph (B) of paragraph (4), shall not be considered to be irregular on its face solely for that reason. However, such order shall be considered to be fully satisfied for purposes of this section by the payment to the spouse or former spouse of the maximum amount of disposable retired pay permitted under paragraph (1) and subparagraph (B) of paragraph (4).
 
@@ -166,7 +166,7 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (5) A court order under this subsection may provide that whenever retired pay is increased under section 1401a of this title (or any other provision of law), the amount payable under the court order to the spouse or former spouse of a member or former member described in paragraph (2)(A) shall be increased at the same time by the percent by which the retired pay of the member or former member would have been increased if the member or former member were receiving retired pay.
 
-(6) Notwithstanding any other provision of law, a member or former member of the armed forces referred to in paragraph (2)(A) shall haveno ownership interest in, or claim against, any amount payable under this section to a spouse or former spouse of the member or former member.
+(6) Notwithstanding any other provision of law, a member or former member of the armed forces referred to in paragraph (2)(A) shall have no ownership interest in, or claim against, any amount payable under this section to a spouse or former spouse of the member or former member.
 
 (7)(A) If a former spouse receiving payments under this subsection with respect to a member or former member referred to in paragraph (2)(A) marries again after such payments begin, the eligibility of the former spouse to receive further payments under this subsection shall terminate on the date of such marriage.
 
@@ -204,7 +204,7 @@ Regulations.—The Secretaries concerned shall prescribe uniform regulations for
 
 Relationship to Other Laws.—In any case involving an order providing for payment of child support (as defined in section 459(i)(2) of the Social Security Act) by a member who has never been married to the other parent of the child, the provisions of this section shall not apply, and the case shall be subject to the provisions of section 459 of such Act.
 
-(Added Pub. L. 97–252, title X, §1002(a), Sept. 8, 1982, 96 Stat. 730; amended Pub. L. 98–525, title VI, §643(a)–(d), Oct. 19, 1984, 98 Stat. 2547; Pub. L. 99–661, div. A, title VI, §644(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §§3(3), 7(h)(1), Apr. 21, 1987, 101 Stat. 273, 282; Pub. L. 101–189, div. A, title VI, §653(a)(5), title XVI, §1622(e)(6), Nov. 29, 1989, 103 Stat. 1462, 1605; Pub. L. 101–510, div. A, title V, §555(a)–(d), (f), (g), Nov. 5, 1990, 104 Stat. 1569, 1570; Pub. L. 102–190, div. A, title X, §1061(a)(7), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title VI, §653(a), Oct. 23, 1992, 106 Stat. 2426; Pub. L. 103–160, div. A, title V, §555(a),\(b), title XI, §1182(a)(2), Nov. 30, 1993, 107 Stat. 1666, 1771; Pub. L. 104–106, div. A, title XV, §1501(c)(16), Feb. 10, 1996, 110 Stat. 499; Pub. L. 104–193, title III, §§362(c), 363(c)(1)–(3), Aug. 22, 1996, 110 Stat. 2246, 2249; Pub. L. 104–201, div. A, title VI, §636, Sept. 23, 1996, 110 Stat. 2579; Pub. L. 105–85, div. A, title X, §1073(a)(24), (25), Nov. 18, 1997, 111 Stat. 1901.)
+(Added Pub. L. 97–252, title X, §1002(a), Sept. 8, 1982, 96 Stat. 730; amended Pub. L. 98–525, title VI, §643(a)–(d), Oct. 19, 1984, 98 Stat. 2547; Pub. L. 99–661, div. A, title VI, §644(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §§3(3), 7(h)(1), Apr. 21, 1987, 101 Stat. 273, 282; Pub. L. 101–189, div. A, title VI, §653(a)(5), title XVI, §1622(e)(6), Nov. 29, 1989, 103 Stat. 1462, 1605; Pub. L. 101–510, div. A, title V, §555(a)–(d), (f), (g), Nov. 5, 1990, 104 Stat. 1569, 1570; Pub. L. 102–190, div. A, title X,§1061(a)(7), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title VI, §653(a), Oct. 23, 1992, 106 Stat. 2426; Pub. L. 103–160, div. A, title V, §555(a), (b), title XI, §1182(a)(2), Nov. 30, 1993, 107 Stat. 1666, 1771; Pub. L. 104–106, div. A, title XV, §1501(c)(16), Feb. 10, 1996, 110 Stat. 499; Pub. L. 104–193, title III, §§362(c), 363(c)(1)–(3), Aug. 22, 1996, 110 Stat. 2246, 2249; Pub. L. 104–201, div. A, title VI, §636, Sept. 23, 1996, 110 Stat. 2579; Pub. L. 105–85, div. A, title X, §1073(a)(24), (25), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–107, div. A, title X, §1048(c)(9), Dec. 28, 2001, 115 Stat. 1226.)
 
 #### References in Text
 
@@ -212,9 +212,9 @@ The Social Security Act, referred to in subsecs. (a)(1)(D) and (d)(1), is act Au
 
 The Soldiers’ and Sailors’ Civil Relief Act, referred to in subsec. (b)(1)(D), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see section 501 of the Appendix to Title 50 and Tables.
 
-The date of the enactment of this paragraph, referred to in subsec. (d)(6), is the date of enactment of Pub. L. 104–193, which was approved Aug. 22, 1996.
-
 #### Amendments
+
+2001—Subsec. (d)(6). Pub. L. 107–107 substituted “August 22, 1996,” for “the date of the enactment of this paragraph”.
 
 1997—Subsec. (d). Pub. L. 105–85, §1073(a)(24)(A), substituted “to” for “To” in heading.
 
@@ -366,7 +366,7 @@ Amendment by section 362(c) of Pub. L. 104–193 effective six months after Aug.
 
 For effective date of amendment by section 363(c)(1)–(3) of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of Title 42.
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec.1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1993 Amendment
 
@@ -442,9 +442,9 @@ Military Personnel Matters To Be Reviewed.—In the case of members and former m
 
 &emsp;“(3) The experience of members and former members of the uniformed services and former spouses of such persons in the administration of those provisions of law.
 
-&emsp;“(4) The experience of members and former members of the uniformed services and former spouses of such persons in the application of those provisions of law by State courts.
+&emsp;“(4) The experience of members and former members of the uniformed services and former spouses ofsuch persons in the application of those provisions of law by State courts.
 
-&emsp;“(5) The history of State statutes and State court interpretations of the Uniformed Services FormerSpouses’ Protection Act and other provisions of Federal law described in paragraph (1)(A) and the extent to which those interpretations follow those laws.
+&emsp;“(5) The history of State statutes and State court interpretations of the Uniformed Services Former Spouses’ Protection Act and other provisions of Federal law described in paragraph (1)(A) and the extent to which those interpretations follow those laws.
 
 “(c)
 

@@ -12,7 +12,7 @@
 
 &emsp;(1) receive copies of all reporting packages developed in accordance with this chapter;
 
-&emsp;(2) identify recipients that expend $300,000 or more in Federal awards or such other amount specified by the Director under section7502(a)(3) during the recipient's fiscal year but did not undergo an audit in accordance with this chapter; and
+&emsp;(2) identify recipients that expend $300,000 or more in Federal awards or such other amount specified by the Director under section 7502(a)(3) during the recipient's fiscal year but did not undergo an audit in accordance with this chapter; and
 
 &emsp;(3) perform analyses to assist the Director in carrying out responsibilities under this chapter.
 

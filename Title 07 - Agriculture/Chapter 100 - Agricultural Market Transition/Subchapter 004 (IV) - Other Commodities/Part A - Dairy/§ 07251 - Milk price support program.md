@@ -16,6 +16,8 @@ The price of milk shall be supported at the following rates per hundredweight fo
 
 &emsp;(4) During each of calendar years 1999 through 2001, $9.90.
 
+&emsp;(5) During the period beginning on January 1, 2002, and ending on May 31, 2002, $9.90.
+
 #### (c) Purchase prices
 
 The support purchase prices under this section for each of the products of milk (butter, cheese, and nonfat dry milk) announced by the Secretary shall be the same for all of that product sold by persons offering to sell the product to the Secretary. The purchase prices shall be sufficient to enable plants of average efficiency to pay producers, on average, a price that is not less than the rate of price support for milk in effect under subsection (b) of this section.
@@ -52,9 +54,9 @@ The Secretary shall carry out the program authorized by this section through the
 
 #### (h) Period of effectiveness
 
-This section (other than subsection (g) of this section) shall be effective only during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on December 31, 2001. The program authorized by this section shall terminate on December 31, 2001, and shall be considered to have expired notwithstanding section 907 of title 2.
+This section (other than subsection (g) of this section) shall be effective only during the period beginning on the first day of the first month beginning after April 4, 1996, and ending on May 31, 2002. The program authorized by this section shall terminate on May 31, 2002, and shall be considered to have expired notwithstanding section 907 of title 2.
 
-(Pub. L. 104–127, title I, §141, Apr. 4, 1996, 110 Stat. 914; Pub. L. 106–78, title VIII, §807(a), Oct. 22, 1999, 113 Stat. 1181; Pub. L. 106–387, §1(a) \[title VII, §742(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35.)
+(Pub. L. 104–127, title I, §141, Apr. 4, 1996, 110 Stat. 914; Pub. L. 106–78, title VIII, §807(a), Oct. 22, 1999, 113 Stat. 1181; Pub. L. 106–387, §1(a) \[title VII, §742(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–35; Pub. L. 107–76, title VII, §772(a), Nov. 28, 2001, 115 Stat. 745.)
 
 #### References in Text
 
@@ -65,6 +67,10 @@ Section 204 of the Agricultural Act of 1949, referred to in subsec. (e)(1), (2),
 Section is comprised of section 141 of Pub. L. 104–127. Subsec. (g) of section 141 of Pub. L. 104–127 repealed section 1446e of this title and enacted provisions set out as a note under section 1446e of this title.
 
 #### Amendments
+
+2001—Subsec. (b)(5). Pub. L. 107–76, §772(a)(1), added par. (5).
+
+Subsec. (h). Pub. L. 107–76, §772(a)(2), substituted “May 31, 2002” for “December 31, 2001” in two places.
 
 2000—Subsec. (b)(4). Pub. L. 106–387, §1(a) \[title VII, §742(a)(1)\], substituted “through 2001” for “and 2000”.
 

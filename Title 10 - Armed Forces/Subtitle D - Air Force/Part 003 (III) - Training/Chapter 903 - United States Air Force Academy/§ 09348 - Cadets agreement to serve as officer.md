@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) will serve on active duty for at least five years immediately after such appointment.
 
-&emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer beforecompletion of the commissioned service obligation of the cadet, the cadet—
+&emsp;(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before completion of the commissioned service obligation of the cadet, the cadet—
 
 &emsp;&emsp;(A) will accept an appointment as a commissioned officer as a Reserve in the Air Force for service in the Air Force Reserve; and
 
@@ -90,7 +90,7 @@ Amendment by Pub. L. 104–106 applicable to persons first admitted to United St
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 511(d) of Pub. L. 101–189 applicable to persons who are first admitted to one of themilitary service academies after Dec. 31, 1991, see section 511(e) of Pub. L. 101–189, as amended, set out as a note under section 2114 of this title.
+Amendment by section 511(d) of Pub. L. 101–189 applicable to persons who are first admitted to one of the military service academies after Dec. 31, 1991, see section 511(e) of Pub. L. 101–189, as amended, set out as a note under section 2114 of this title.
 
 #### Effective Date of 1985 Amendment
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 99–145 (other than with respect to the authority of the S
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 541(c) of Pub. L. 98–525 applicable with respect to agreements entered into under this section before, on, or after Oct. 19, 1984, see section 541(d) of Pub. L. 98–525, set out as a note under section 4348 of this title.
+Amendment by section 541(c) of Pub. L. 98–525 applicable with respect to agreements entered into underthis section before, on, or after Oct. 19, 1984, see section 541(d) of Pub. L. 98–525, set out as a note under section 4348 of this title.
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 

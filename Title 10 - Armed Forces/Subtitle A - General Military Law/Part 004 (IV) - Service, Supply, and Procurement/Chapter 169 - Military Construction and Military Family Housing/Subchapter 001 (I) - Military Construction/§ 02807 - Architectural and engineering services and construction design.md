@@ -6,7 +6,7 @@
 
 (c) If the Secretary concerned determines that the amount authorized for activities under subsection (a) in any fiscal year must be increased the Secretary may proceed with activities at such higher level (1) after submitting a report in writing to the appropriate committees of Congress on such increase, including a statement of the reasons for the increase and a statement of the source of funds to be used for the increase, and (2) after a period of 21 days has elapsed from the date of receipt of the report.
 
-(d) For architectural and engineering services and construction design related to military construction and family housing projects, the Secretaries of the military departments may incur obligations for contracts or portions of contracts using military construction and family housing appropriations from different fiscalyears to the extent that those appropriations are available for obligation.
+(d) For architectural and engineering services and construction design related to military construction and family housing projects, the Secretaries of the military departments may incur obligations for contracts or portions of contracts using military construction and family housing appropriations from different fiscal years to the extent that those appropriations are available for obligation.
 
 (Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 156; amended Pub. L. 98–115, title VIII, §804, Oct. 11, 1983, 97 Stat. 785; Pub. L. 99–661, div. B, title VII, §§2702(b), 2712(a), Nov. 14, 1986, 100 Stat. 4040, 4041; Pub. L. 102–190, div. B, title XXVIII, §2870(6), Dec. 5, 1991, 105 Stat. 1563; Pub. L. 105–261, div. B, title XXVIII, §2801, Oct. 17, 1998, 112 Stat. 2202.)
 
@@ -34,7 +34,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Architectural and Engineering Services and Construction Design Contracts for Military Construction Projects
 
-Pub. L. 98–212, title VII, §796, Dec. 8, 1983, 97 Stat. 1455, provided that: “No funds appropriated for the Departments of Defense, Army, Navy, or the Air Force shall be obligated by their respective Secretaries for architectural and engineering services and construction design contracts for Military Construction projects in the amount of $85,000 and over, unless competition for such contracts is open to all firms regardless of size in accordance with 40 U.S.C. §541, et seq.”
+Pub. L. 98–212, title VII, §796, Dec. 8, 1983, 97 Stat. 1455, provided that: “No funds appropriated for the Departments of Defense, Army, Navy, or the Air Force shall be obligated by their respective Secretaries forarchitectural and engineering services and construction design contracts for Military Construction projects in the amount of $85,000 and over, unless competition for such contracts is open to all firms regardless of size in accordance with 40 U.S.C. §541, et seq.”
 
 #### Small Business Set-Aside for Architectural and Engineering Services and Construction Design
 
@@ -62,5 +62,5 @@ Amounts of $300,000 or more for contracts for architectural and engineering serv
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 114, 2687, 2861 of this title.
+This section is referred to in sections 114, 2687 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Permits for discharge of pollutants
 
-(1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title, upon condition that such dischargewill meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343 of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
+(1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title, upon condition that such discharge will meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343 of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
 
 (2) The Administrator shall prescribe conditions for such permits to assure compliance with the requirements of paragraph (1) of this subsection, including conditions on data and information collection, reporting, and such other requirements as he deems appropriate.
 
@@ -52,7 +52,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 #### (c) Suspension of Federal program upon submission of State program; withdrawal of approval of State program; return of State program to Administrator
 
-(1) Not later than ninety days after the date on which a State has submitted a program (or revision thereof) pursuant to subsection (b) of this section, the Administrator shall suspend the issuance of permits under subsection (a) of this section as to those discharges subject to such program unless he determines that the State permit program does not meet the requirements of subsection (b) of this section or does not conform to the guidelines issued under section 1314(i)(2) of this title. If the Administrator so determines, he shall notify the State of any revisions or modifications necessary to conform to such requirements or guidelines.
+(1) Not later than ninety days after the date on which a State has submitted a program (orrevision thereof) pursuant to subsection (b) of this section, the Administrator shall suspend the issuance of permits under subsection (a) of this section as to those discharges subject to such program unless he determines that the State permit program does not meet the requirements of subsection (b) of this section or does not conform to the guidelines issued under section 1314(i)(2) of this title. If the Administrator so determines, he shall notify the State of any revisions or modifications necessary to conform to such requirements or guidelines.
 
 (2) Any State permit program under this section shall at all times be in accordance with this section and guidelines promulgated pursuant to section 1314(i)(2) of this title.
 
@@ -148,7 +148,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (1) General prohibition
 
-&emsp;In the case of effluent limitations established on the basis of subsection (a)(1)(B) of this section, a permit may not be renewed, reissued, or modified on the basis of effluent guidelines promulgated under section 1314(b) of this title subsequent to the original issuance of such permit, to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit. In the case of effluent limitations established on the basis of section 1311(b)(1)(C) or section 1313(d) or (e) of this title, a permit may not be renewed, reissued, or modified to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit except in compliance with section 1313(d)(4) of this title.
+&emsp;In the case of effluent limitations established on the basis of subsection (a)(1)(B) ofthis section, a permit may not be renewed, reissued, or modified on the basis of effluent guidelines promulgated under section 1314(b) of this title subsequent to the original issuance of such permit, to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit. In the case of effluent limitations established on the basis of section 1311(b)(1)(C) or section 1313(d) or (e) of this title, a permit may not be renewed, reissued, or modified to contain effluent limitations which are less stringent than the comparable effluent limitations in the previous permit except in compliance with section 1313(d)(4) of this title.
 
 #### (2) Exceptions
 
@@ -274,7 +274,7 @@ Subsec. (b)(8). Pub. L. 95–217, §54(c)(1), inserted reference to identificati
 
 Subsec. (c)(1), (2). Pub. L. 95–217, §50, substituted “section 1314(i)(2)” for “section 1314(h)(2)”.
 
-Subsec. (d)(2). Pub. L. 95–217, §65(b), inserted provision requiring that, whenever the Administrator objects to the issuance of a permit under subsec. (d)(2) of this section, the written objection contain a statement of the reasons for the objection and the effluent limitations and conditions which the permit would include if it were issued by the Administrator.
+Subsec. (d)(2). Pub. L. 95–217, §65(b), inserted provision requiring that, whenever the Administrator objects to the issuance of a permit under subsec. (d)(2) ofthis section, the written objection contain a statement of the reasons for the objection and the effluent limitations and conditions which the permit would include if it were issued by the Administrator.
 
 Subsec. (d)(4). Pub. L. 95–217, §65(a), added par. (4).
 
@@ -348,7 +348,7 @@ Limitations on statutory construction.—Nothing in this section \[amending sect
 
 &emsp;“(A) to require the Administrator to permit the discharge of gypsum or gypsum waste into the navigable waters,
 
-&emsp;“(B) to affect the procedures and standards applicable to the Administrator in issuing permits undersection 402(a)(1)(B) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(a)(1)(B)\], and
+&emsp;“(B) to affect the procedures and standards applicable to the Administrator in issuing permits under section 402(a)(1)(B) of the Federal Water Pollution Control Act \[33 U.S.C. 1342(a)(1)(B)\], and
 
 &emsp;“(C) to affect the authority of any State to deny or condition certification under section 401 of such Act \[33 U.S.C. 1341\] with respect to the issuance of permits under section 402(a)(1)(B) of such Act.”
 
@@ -362,7 +362,7 @@ Agreement.—The Administrator and Secretary of the Army shall enter into an agr
 
 “(b)
 
-Applications and Permits Before October 22, 1985.—Where both of sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\] apply, log transfer facilities which have received a permit under section 404 of such Act before October 22, 1985, shall not be required to submit a new application for a permit under section 402 of such Act. If the Administrator determines that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act satisfies the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act \[33 U.S.C. 1311, 1312, 1316, 1317, 1318, and 1343\], a separate application for a permit under section 402 of such Act shall not thereafter be required. In any case where the Administrator demonstrates, after an opportunity for a hearing, that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act do not satisfy the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act, modifications to the existing permit under section 404 of such Act to incorporate such applicable requirements shall be issued by the Administrator as an alternative to issuance of a separate new permit under section 402 of such Act.
+Applications and Permits Before October 22, 1985.—Where both of sections 402 and 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1342, 1344\] apply, log transfer facilities which have received a permit under section 404 of such Act before October 22, 1985, shall not be required to submit a new application for a permit under section 402 of such Act. If the Administrator determines that the terms of a permit issued onor before October 22, 1985, under section 404 of such Act satisfies the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act \[33 U.S.C. 1311, 1312, 1316, 1317, 1318, and 1343\], a separate application for a permit under section 402 of such Act shall not thereafter be required. In any case where the Administrator demonstrates, after an opportunity for a hearing, that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act do not satisfy the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act, modifications to the existing permit under section 404 of such Act to incorporate such applicable requirements shall be issued by the Administrator as an alternative to issuance of a separate new permit under section 402 of such Act.
 
 “(c)
 

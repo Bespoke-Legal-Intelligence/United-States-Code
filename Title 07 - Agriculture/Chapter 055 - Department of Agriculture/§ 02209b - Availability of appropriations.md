@@ -1,12 +1,12 @@
 ### §2209b. Availability of appropriations
 
-New obligational authority provided for the following appropriation items in this Act shall remain available until expended: Animal and Plant Health Inspection Service, the contingency fund to meet emergency conditions, fruit fly program, integrated systems acquisition project, boll weevil program, up to 25 percent of the screwworm program, and up to $2,000,000 for costs associated with colocating regional offices; Food Safety and Inspection Service, field automation and information management project; funds appropriated for rental payments; Cooperative State Research, Education, and Extension Service, funds for competitive research grants (7 U.S.C. 450i(b)), funds for the Research, Education and Economics Information System (REEIS), and funds for the Native American Institutions Endowment Fund; Farm Service Agency, salaries and expenses funds made available to county committees; Foreign Agricultural Service, middle-income country training program and up to $2,000,000 of the Foreign Agricultural Service appropriation solely for the purpose of offsetting fluctuations in international currency exchange rates, subject to documentation by the Foreign Agricultural Service.
+New obligational authority provided for the following appropriation items in this Act shall remain available until expended: Animal and Plant Health Inspection Service, the contingency fund to meet emergency conditions, fruit fly program, emerging plant pests, integrated systems acquisition project, boll weevil program, up to 25 percent of the screwworm program, and up to $2,000,000 for costs associated with collocating regional offices; Food Safety and Inspection Service, field automation and information management project; Cooperative State Research, Education, and Extension Service, funds for competitive research grants (7 U.S.C. 450i(b)), funds for the Research, Education and Economics Information System (REEIS), and funds for the Native American Institutions Endowment Fund; Farm Service Agency, salaries and expenses funds made available to county committees; Foreign Agricultural Service, middle-income country training program and up to $2,000,000 of the Foreign Agricultural Service appropriation solely for the purpose of offsetting fluctuations in international currency exchange rates, subject to documentation by the Foreign Agricultural Service.
 
-(Pub. L. 106–387, §1(a) \[title VII, §705\], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.)
+(Pub. L. 107–76, title VII, §705, Nov. 28, 2001, 115 Stat. 732.)
 
 #### References in Text
 
-This Act, referred to in text, is H.R. 5426, as enacted by Pub. L. 106–387, §1(a), Oct. 28, 2000, 114 Stat. 1549, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 107–76, Nov. 28, 2001, 115 Stat. 704, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -15,6 +15,8 @@ Section is from the appropriation act cited as the credit to this section.
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 106–387, §1(a) \[title VII, §705\], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.
 
 Pub. L. 106–78, title VII, §705, Oct. 22, 1999, 113 Stat. 1161.
 

@@ -72,7 +72,7 @@ For purposes of this part, any policyholder dividend which—
 
 #### (4) 1984 fresh-start adjustment for policyholder dividends
 
-&emsp;For purposes of this subsection, the term “1984 fresh-start adjustment for policyholder dividends” means the amounts held as of December 31, 1983, by the taxpayer as reserves for dividends to policyholders under section 811(b) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) other than for dividends which accrued before January 1, 1984. Such amounts shall be properly reduced to reflect the amount of previously nondeductible policyholder dividends\(as determined under section 809(f) as in effect on the day before the date of the enactment of the Tax Reform Act of 1984).
+&emsp;For purposes of this subsection, the term “1984 fresh-start adjustment for policyholder dividends” means the amounts held as of December 31, 1983, by the taxpayer as reserves for dividends to policyholders under section 811(b) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) other than for dividends which accrued before January 1, 1984. Such amounts shall be properly reduced to reflect the amount of previously nondeductible policyholder dividends (as determined under section 809(f) as in effect on the day before the date of the enactment of the Tax Reform Act of 1984).
 
 #### (5) Separate application with respect to lines of business
 

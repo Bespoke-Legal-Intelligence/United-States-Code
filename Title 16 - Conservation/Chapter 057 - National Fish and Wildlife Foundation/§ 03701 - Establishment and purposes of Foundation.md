@@ -8,7 +8,7 @@ There is established the National Fish and Wildlife Foundation (hereinafter in t
 
 The purposes of the Foundation are—
 
-&emsp;(1) to encourage, accept, and administer private gifts of property for the benefit of, or in connection with, the activities and services of the United States Fish and Wildlife Service and the National Oceanic and Atmospheric Administration, to further the conservation and management of fish, wildlife, plants, and other natural resources;
+&emsp;(1) to encourage, accept, and administer private gifts of property for the benefit of, or in connection with, the activities and services of the United States Fish and Wildlife Service and the National Oceanic and Atmospheric Administration, to further the conservationand management of fish, wildlife, plants, and other natural resources;
 
 &emsp;(2) to undertake and conduct such other activities as will further the conservation and management of the fish, wildlife, and plant resources of the United States, and its territories and possessions, for present and future generations of Americans; and
 

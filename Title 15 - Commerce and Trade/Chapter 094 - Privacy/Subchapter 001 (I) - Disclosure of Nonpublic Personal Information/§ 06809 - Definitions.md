@@ -56,7 +56,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(i) shall include any list, description, or other grouping of consumers (and publicly available information pertaining to them) that is derived using any nonpublic personal information other than publicly available information; but
 
-&emsp;&emsp;(ii) shall not include any list, description, or other grouping of consumers (and publiclyavailable information pertaining to them) that is derived without using any nonpublic personal information.
+&emsp;&emsp;(ii) shall not include any list, description, or other grouping of consumers (and publicly available information pertaining to them) that is derived without using any nonpublic personal information.
 
 #### (5) Nonaffiliated third party
 
@@ -114,5 +114,5 @@ The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, De
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 7b–2.
+This section is referred to in title 7 section 7b–2; title 31 sections 5318, 5318A.
 

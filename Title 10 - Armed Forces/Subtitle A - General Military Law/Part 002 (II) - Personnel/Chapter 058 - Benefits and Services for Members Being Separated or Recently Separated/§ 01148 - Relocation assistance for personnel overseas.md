@@ -2,7 +2,7 @@
 
 The Secretary of Defense and the Secretary of Transportation shall develop a program specifically to assist members of the armed forces stationed overseas who are preparing for discharge or release from active duty, and the dependents of such members, in readjusting to civilian life. The program shall focus on the special needs and requirements of such members and dependents due to their overseas locations and shall include, to the maximum extent possible, computerized job relocation assistance and job search information.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L.103–337, div. A, title V, §542(a)(7), Oct. 5, 1994, 108 Stat. 2768.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–337, div. A, title V, §542(a)(7), Oct. 5, 1994, 108 Stat. 2768.)
 
 #### Amendments
 

@@ -204,7 +204,7 @@ Rulemaking Proceeding.—
 
 &emsp;“(1)
 
-In general.—The Administrator \[of the Federal Aviation Administration\] shall conduct a rulemaking proceeding and issue a final rule to modify the general operating and flight rules referred to in subsection (a) by establishing special rules applicableto the flight operations conducted by Alaska guide pilots.
+In general.—The Administrator \[of the Federal Aviation Administration\] shall conduct a rulemaking proceeding and issue a final rule to modify the general operating and flight rules referred to in subsection (a) by establishing special rules applicable to the flight operations conducted by Alaska guide pilots.
 
 &emsp;“(2)
 
@@ -322,7 +322,7 @@ Special Rule.—If the Administrator decides that automatic external defibrillat
 
 “(a)
 
-Liability of Air Carriers.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in obtaining or attempting to obtain the assistance of a passenger in an in-flight medical emergency, or out of the acts or omissions of the passenger rendering the assistance, if the passenger is notan employee or agent of the carrier and the carrier in good faith believes that the passenger is a medically qualified individual.
+Liability of Air Carriers.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in obtaining or attempting to obtain the assistance of a passenger in an in-flight medical emergency, or out of the acts or omissions of the passenger rendering the assistance, if the passenger is not an employee or agent of the carrier and the carrier in good faith believes that the passenger is a medically qualified individual.
 
 “(b)
 

@@ -18,7 +18,7 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
 
 &emsp;(8) pay excise taxes on negotiable instruments abroad;
 
-&emsp;(9) pay to or for individuals, not United States Government employees, participatingin activities conducted under this chapter, the costs of emergency medical expenses, preparation and transport to their former homes of the remains of such participants or their dependents who die while away from their homes during such participation, and health and accident insurance premiums for participants or health and accident benefits for participants by means of a program of self-insurance;
+&emsp;(9) pay to or for individuals, not United States Government employees, participating in activities conducted under this chapter, the costs of emergency medical expenses, preparation and transport to their former homes of the remains of such participants or their dependents who die while away from their homes during such participation, and health and accident insurance premiums for participants or health and accident benefits for participants by means of a program of self-insurance;
 
 &emsp;(10) rent or lease, for periods not exceeding ten years, offices, buildings, grounds, and living quarters abroad for employees carrying out this chapter, and make payments therefor in advance;
 

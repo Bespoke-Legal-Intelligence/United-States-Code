@@ -82,7 +82,7 @@
 
 (g) The Commission, in promulgating guidelines pursuant to subsection (a)(1) to meet the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code, shall take into account the nature and capacity of the penal, correctional, and other facilities and services available, and shall make recommendations concerning any change or expansion in the nature or capacity of such facilities and services that might become necessary as a result of the guidelines promulgated pursuant to the provisions of this chapter. The sentencing guidelines prescribed under this chapter shall be formulated to minimize the likelihood that the Federal prison population will exceed the capacity of the Federal prisons, as determined by the Commission.
 
-(h) The Commission shall assure that the guidelines specify a sentence to a term of imprisonment at or near the maximum term authorized for categories of defendants in whichthe defendant is eighteen years old or older and—
+(h) The Commission shall assure that the guidelines specify a sentence to a term of imprisonment at or near the maximum term authorized for categories of defendants in which the defendant is eighteen years old or older and—
 
 &emsp;(1) has been convicted of a felony that is—
 
@@ -128,7 +128,7 @@
 
 (<i>o</i>) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
 
-(p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submitto Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
+(p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submit to Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
 
 (q) The Commission and the Bureau of Prisons shall submit to Congress an analysis and recommendations concerning maximum utilization of resources to deal effectively with the Federal prison population. Such report shall be based upon consideration of a variety of alternatives, including—
 
@@ -152,7 +152,7 @@
 
 (u) If the Commission reduces the term of imprisonment recommended in the guidelines applicable to a particular offense or category of offenses, it shall specify in what circumstances and by what amount the sentences of prisoners serving terms of imprisonment for the offense may be reduced.
 
-(v) The Commission shall ensure that the general policy statements promulgated pursuant to subsection (a)(2) include a policy limiting consecutive terms of imprisonment for an offense involving a violation of a general prohibition and for an offense involving a violation of a specific prohibition encompassed within the general prohibition.
+(v) The Commission shall ensure that the general policy statements promulgated pursuant to subsection (a)(2) include a policy limiting consecutive terms of imprisonment for an offenseinvolving a violation of a general prohibition and for an offense involving a violation of a specific prohibition encompassed within the general prohibition.
 
 (w) The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.
 
@@ -225,6 +225,8 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses
+
+Pub. L. 107–56, title VIII, §814(f), Oct. 26, 2001, 115 Stat. 384.—Computer fraud and abuse.
 
 Pub. L. 106–420, §3, Nov. 1, 2000, 114 Stat. 1868.—Higher education financial assistance fraud.
 
@@ -336,7 +338,7 @@ Pub. L. 100–690, title VI, §6482(c), Nov. 18, 1988, 102 Stat. 4382.—Common 
 
 #### Mandatory Victim Restitution; Amendment of Sentencing Guidelines
 
-Pub. L. 104–132, title II, §208, Apr. 24, 1996, 110 Stat. 1240, provided that: “Pursuant to section 994 of title 28, United States Code, the United States Sentencing Commission shall promulgate guidelines or amend existing guidelines to reflect this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this subtitle.”
+Pub. L. 104–132, title II, §208, Apr. 24, 1996, 110 Stat. 1240, provided that: “Pursuant to section 994 of title 28, United States Code, the United States Sentencing Commission shall promulgate guidelines or amend existing guidelines to reflect this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this subtitle.”
 
 #### Cocaine and Crack Sentences and Sentences for Money Laundering and Other Unlawful Activity; Reduction of Sentencing Disparities
 
@@ -374,7 +376,7 @@ Sentencing guidelines promulgated pursuant to this section effective when U.S. S
 
 Section 236 of Pub. L. 98–473 provided that:
 
-“(a)(1) Four years after the sentencing guidelines promulgated pursuant to section 994(a)(1), and the provisions of sections 3581, 3583, and 3624 of title 18, United States Code, go into effect, the General Accounting Office shall undertake a study of the guidelines in orderto determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of the undertaking of such study, report to the Congress the results of its study.
+“(a)(1) Four years after the sentencing guidelines promulgated pursuant to section 994(a)(1), and the provisions of sections 3581, 3583, and 3624 of title 18, United States Code, go into effect, the General Accounting Office shall undertake a study of the guidelines in order to determine their impact and compare the guidelines system with the operation of the previous sentencing and parole release system, and, within six months of the undertaking of such study, report to the Congress the results of its study.
 
 “(2) Within one month of the start of the study required under subsection (a), the United States Sentencing Commission shall submit a report to the General Accounting Office, all appropriate courts, the Department of Justice, and the Congress detailing the operation of the sentencing guideline system and discussing any problems with the system or reforms needed. The report shall include an evaluation of the impact of the sentencing guidelines on prosecutorial discretion, plea bargaining, disparities in sentencing, and the use of incarceration, and shall be issued by affirmative vote of a majority of the voting members of the Commission.
 

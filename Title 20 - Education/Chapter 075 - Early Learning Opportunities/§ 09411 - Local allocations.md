@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Lead State Agency shall allocate to Local Councils in the State not less than 93 percent of the funds provided to the State under this chapter for a fiscal year.
+The Lead State Agency shall allocate to Local Councils in the State not less than 93 percent ofthe funds provided to the State under this chapter for a fiscal year.
 
 #### (b) Limitation
 

@@ -20,7 +20,7 @@ Compromise and Setoff.—(1) The Secretary of Transportation may compromise the 
 
 (c)
 
-Considerations.—In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person chargedand the gravity of the violation shall be considered.
+Considerations.—In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered.
 
 (d)
 

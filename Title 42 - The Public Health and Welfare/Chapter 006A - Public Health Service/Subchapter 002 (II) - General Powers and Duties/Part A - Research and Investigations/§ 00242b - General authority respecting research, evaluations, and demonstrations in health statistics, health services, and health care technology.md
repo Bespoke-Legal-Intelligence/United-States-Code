@@ -12,7 +12,7 @@ To implement subsection (a) of this section and section 242k of this title, the 
 
 &emsp;(2) Admit and treat at hospitals and other facilities of the Service persons not otherwise eligible for admission and treatment at such facilities.
 
-&emsp;(3) Secure, from time to time and for such periods as the Secretary deems advisable but in accordance with section 3109 of title 5, the assistance and advice of consultants from the United States or abroad. The Secretary may for the purpose of carrying out the functions set forth in sections 242c,<sup>1</sup> 242k, and 242n <sup>1</sup> of this title, obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) for each of the centers the services of not more than fifteen experts who have appropriate scientific or professional qualifications.
+&emsp;(3) Secure, from time to time and for such periods as the Secretary deems advisable but in accordance with section 3109 of title 5, theassistance and advice of consultants from the United States or abroad. The Secretary may for the purpose of carrying out the functions set forth in sections 242c,<sup>1</sup> 242k, and 242n <sup>1</sup> of this title, obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) for each of the centers the services of not more than fifteen experts who have appropriate scientific or professional qualifications.
 
 &emsp;(4) Acquire, construct, improve, repair, operate, and maintain laboratory, research, and other necessary facilities and equipment, and such other real or personal property (including patents) as the Secretary deems necessary; and acquire, without regard to section 34 of title 40, by lease or otherwise, through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia.
 
@@ -114,7 +114,7 @@ Pub. L. 95–83, title III, §314, Aug. 1, 1977, 91 Stat. 398, required the Secr
 
 #### Transfer of Equipment
 
-Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractors without further obligation to the Government or on such terms as the Secretary considered appropriate.
+Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractorswithout further obligation to the Government or on such terms as the Secretary considered appropriate.
 
 #### Congressional Declaration of Purpose
 

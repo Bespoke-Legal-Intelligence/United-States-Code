@@ -34,5 +34,5 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–185 substituted “Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation,” for “Treasury”.
+1998—Subsec. (b). Pub. L. 105–185 substituted “Treasury. Amounts in the special fund shall be available tothe Secretary of Agriculture, without further appropriation,” for “Treasury”.
 

@@ -12,7 +12,7 @@ When a committee of authorization of the Senate or the House of Representatives 
 
 Each report described under subsection (a) of this section shall contain—
 
-&emsp;(1) an identification and description of any Federal mandates in the bill or joint resolution, including the direct costs to State, local,and tribal governments, and to the private sector, required to comply with the Federal mandates;
+&emsp;(1) an identification and description of any Federal mandates in the bill or joint resolution, including the direct costs to State, local, and tribal governments, and to the private sector, required to comply with the Federal mandates;
 
 &emsp;(2) a qualitative, and if practicable, a quantitative assessment of costs and benefits anticipated from the Federal mandates (including the effects on health and safety and the protection of the natural environment); and
 

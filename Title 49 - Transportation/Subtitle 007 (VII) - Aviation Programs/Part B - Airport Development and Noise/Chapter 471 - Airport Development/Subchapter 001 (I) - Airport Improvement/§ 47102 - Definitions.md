@@ -48,9 +48,11 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(vii) windshear detection equipment that is certified by the Administrator of the Federal Aviation Administration;
 
-&emsp;&emsp;&emsp;(viii) stainless steel adjustable lighting extensions approved by the Administrator; and
+&emsp;&emsp;&emsp;(viii) stainless steel adjustable lighting extensions approved by the Administrator;
 
-&emsp;&emsp;&emsp;(ix) engineered materials arresting systems as described in the Advisory Circular No. 150/5220–22 published by the Federal Aviation Administration on August 21, 1998, including any revision to the circular.
+&emsp;&emsp;&emsp;(ix) engineered materials arresting systems as described in the Advisory Circular No. 150/5220–22 published by the Federal Aviation Administration on August 21, 1998, including any revision to the circular; and
+
+&emsp;&emsp;&emsp;(x) replacement of baggage conveyor systems, and reconfiguration of terminal baggage areas, that the Secretary determines are necessary to install bulk explosive detection devices.
 
 &emsp;&emsp;(C) acquiring an interest in land or airspace, including land for future airport development, that is needed—
 
@@ -70,6 +72,12 @@ In this subchapter—
 
 &emsp;&emsp;(I) constructing, reconstructing, or improving an airport, or purchasing nonrevenue generating capital equipment to be owned by an airport, for the purpose of transferring passengers, cargo, or baggage between the aeronautical and ground transportation modes on airport property.
 
+&emsp;&emsp;(J) in fiscal year 2002, any additional security related activity required by law or by the Secretary after September 11, 2001, and before October 1, 2002.
+
+&emsp;&emsp;(K) in fiscal year 2002 with respect to funds apportioned under section 47114 in fiscal years 2001 and 2002, any activity, including operational activities, of an airport that is not a primary airport if that airport is located within the confines of enhanced class B airspace, as defined by Notice to Airmen FDC 1/0618 issued by the Federal Aviation Administration and the activity was carried out when any restriction in the Notice is in effect.
+
+&emsp;&emsp;(L) in fiscal year 2002, payments for debt service on indebtedness incurred to carry out a project at an airport owned or controlled by the sponsor or at a privately owned or operated airport passenger terminal financed by indebtedness incurred by the sponsor if the Secretary determines that such payments are necessary to prevent a default on the indebtedness.
+
 &emsp;(4) “airport hazard” means a structure or object of natural growth located on or near a public-use airport, or a use of land near the airport, that obstructs or otherwise is hazardous to the landing or taking off of aircraft at or from the airport.
 
 &emsp;(5) “airport planning” means planning as defined by regulations the Secretary prescribes and includes integrated airport system planning.
@@ -78,7 +86,7 @@ In this subchapter—
 
 &emsp;(7) “commercial service airport” means a public airport in a State that the Secretary determines has at least 2,500 passenger boardings each year and is receiving scheduled passenger aircraft service.
 
-&emsp;(8) “integrated airport system planning” means developing for planning purposes information and guidance to decide the extent, kind, location, and timing of airport development needed in a specific area to establish a viable, balanced, and integrated system of public-use airports, including—
+&emsp;(8) “integrated airport system planning” means developing for planning purposes information and guidance to decide the extent, kind, location, and timing of airport development needed in a specific area to establish aviable, balanced, and integrated system of public-use airports, including—
 
 &emsp;&emsp;(A) identifying system needs;
 
@@ -138,7 +146,7 @@ In this subchapter—
 
 &emsp;(20) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and Guam.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1248; Pub. L. 103–305, title I, §105, Aug. 23, 1994, 108 Stat. 1572; Pub. L. 104–264, title I, §142(b)(1), Oct. 9, 1996, 110 Stat. 3221; Pub. L. 106–181, title I, §§121(c), 122, 123(b), 137(b), title V, §514(a), Apr. 5, 2000, 114 Stat. 74, 75, 85, 144; Pub. L. 107–71, title I, §119(a)(1), (5), Nov. 19, 2001, 115 Stat. 628, 629.)
 
 Historical and Revision Notes
 
@@ -256,7 +264,7 @@ In clause (2), before subclause (A), the text of 49 App.:2202(a)(21) is omitted 
 
 In clause (3)(A), before subclause (i), the words “any work involved in” and “or portion thereof” are eliminated as unnecessary. The word “reconstructing” is omitted as being included in “constructing”. In subclause (ii), the words “carrying out a field investigation” are substituted for “field investigations incidental thereto” for clarity.
 
-In clause (3)(B), before subclause (i), the word “for” is substituted for “by” for clarity. In subclause (i), thewords “required by the acquisition or installation” are substituted for “thereby required” for clarity. In subclause (ii), the word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the Code.
+In clause (3)(B), before subclause (i), the word “for” is substituted for “by” for clarity. In subclause (i), the words “required by the acquisition or installation” are substituted for “thereby required” for clarity. In subclause (ii), the word “individuals” is substituted for “persons” for clarity and consistency in the revised title and with other titles of the Code.
 
 In clause (3)(C), before subclause (i), the words “interest in land or airspace” are substituted for “land or of any interest therein, or of any easement through or other interest in airspace” to eliminate unnecessary words. In subclause (ii), the words “existing airport hazard . . . the creation of a new airport hazard” are added for clarity and consistency in this chapter.
 
@@ -290,6 +298,10 @@ The Federal Water Pollution Control Act, referred to in par. (3)(F), is act June
 
 #### Amendments
 
+2001—Par. (3)(B)(x). Pub. L. 107–71, §119(a)(5), added cl. (x).
+
+Par. (3)(J) to (L). Pub. L. 107–71, §119(a)(1), added subpars. (J) to (L).
+
 2000—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted “, universal access systems, and emergency call boxes,” for “and universal access systems,” and inserted “and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices” before semicolon at end.
 
 Par. (3)(B)(iii). Pub. L. 106–181, §121(c)(2), inserted before semicolon at end “, including closed circuit weather surveillance equipment if the airport is located in Alaska”.
@@ -322,5 +334,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40117, 44502, 47134, 47151, 47501, 50104 of this title; title 18 section 1036; title 19 section 1644a; title 50 App. section 1622.
+This section is referred to in sections 40117, 44502, 47109, 47110, 47114, 47115, 47134, 47151, 47501, 50104 of this title; title 18 section 1036; title 19 section 1644a; title 50 App. section 1622.
 

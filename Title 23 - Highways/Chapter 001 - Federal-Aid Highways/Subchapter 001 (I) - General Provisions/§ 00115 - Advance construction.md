@@ -58,7 +58,7 @@ Limitation on Advanced Funding.—The Secretary may not approve an application u
 
 1992—Subsec. (a). Pub. L. 102–302, §103(1), in heading substituted “
 
-Substitute, Congestion Mitigation and Air Quality Improvement, Surface Transportation, Bridge, Planning, and Research Projects” for “
+Substitute, Congestion Mitigation and Air Quality Improvement, Surface Transportation,Bridge, Planning, and Research Projects” for “
 
 Substitute, Urban, Secondary, Bridge, Planning, Research, and Safety Construction Projects”.
 

@@ -1,0 +1,84 @@
+### §6912. Program enhancement activities
+
+#### (a) Program authorized
+
+#### (1) Authority
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary is authorized to award grants to eligible entities having applications approved under section 6914 of this title to enable such entities to provide innovative, locally designed, high-quality instruction to limited English proficient children, by expanding, developing, or strengthening language instruction educational programs or special alternative instruction programs.
+
+#### (B) Period
+
+&emsp;&emsp;Each grant awarded under this section shall be awarded for a period of 3 years.
+
+#### (2) Authorized activities
+
+#### (A) Mandatory activities
+
+&emsp;&emsp;Grants awarded under this section shall be used for—
+
+&emsp;&emsp;&emsp;(i) developing, implementing, expanding, or enhancing comprehensive preschool, elementary, or secondary education programs for limited English proficient children, that are—
+
+&emsp;&emsp;&emsp;&emsp;(I) aligned with State and local academic content and student academic achievement standards, and local school reform efforts; and
+
+&emsp;&emsp;&emsp;&emsp;(II) coordinated with related academic services for children;
+
+&emsp;&emsp;&emsp;(ii) providing high-quality professional development to classroom teachers, administrators, and other school or community-based organization personnel to improve the instruction and assessment of limited English proficient children; and
+
+&emsp;&emsp;&emsp;(iii) annually assessing the English proficiency of all limited English proficient children served by activities carried out under this section.
+
+#### (B) Permissible activities
+
+&emsp;&emsp;Grants awarded under this section may be used for—
+
+&emsp;&emsp;&emsp;(i) implementing programs to upgrade the reading and other academic skills of limited English proficient children;
+
+&emsp;&emsp;&emsp;(ii) developing accountability systems to monitor the academic progress of limited English proficient and formerly limited English proficient children;
+
+&emsp;&emsp;&emsp;(iii) implementing family education programs and parent outreach and training activities designed to assist parents to become active participants in the education of their children;
+
+&emsp;&emsp;&emsp;(iv) improving the instruction programs for limited English proficient children by identifying, acquiring, and applying effective curricula, instruction materials (including materials provided through technology), and assessments that are all aligned with State and local standards;
+
+&emsp;&emsp;&emsp;(v) providing intensified instruction, including tutorials and academic, or vocational and technical, training, for limited English proficient children;
+
+&emsp;&emsp;&emsp;(vi) adapting best practice models for meeting the needs of limited English proficient children;
+
+&emsp;&emsp;&emsp;(vii) assisting limited English proficient children with disabilities;
+
+&emsp;&emsp;&emsp;(viii) implementing applied learning activities such as service learning to enhance and support comprehensive elementary and secondary language instruction educational programs;
+
+&emsp;&emsp;&emsp;(ix) acquiring or developing education technology or instruction materials for limited English proficient children, including materials in languages other than English;
+
+&emsp;&emsp;&emsp;(x) participating in electronic networks for materials, training, and communication, and incorporating information derived from such participation in curricula and programs; and
+
+&emsp;&emsp;&emsp;(xi) carrying out such other activities related to the purpose of this part as the Secretary may approve.
+
+#### (b) Priority
+
+In awarding grants under this section, the Secretary may give priority to an entity that—
+
+&emsp;(1) serves a school district—
+
+&emsp;&emsp;(A) that has a total district enrollment that is less than 10,000 students; or
+
+&emsp;&emsp;(B) with a large percentage or number of limited English proficient children; and
+
+&emsp;(2) has limited or no experience in serving limited English proficient children.
+
+#### (c) Eligible entity
+
+In this section, the term “eligible entity” means—
+
+&emsp;(1) one or more local educational agencies;
+
+&emsp;(2) one or more local educational agencies in collaboration with an institution of higher education, community-based organization, or State educational agency; or
+
+&emsp;(3) a community-based organization or an institution of higher education that has an application approved by the local educational agency to participate in programs carried out under this subpart by enhancing early childhood education or family education programs or conducting instruction programs that supplement the educational services provided by a local educational agency.
+
+(Pub. L. 89–10, title III, §3212, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1708.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6911, 6914 of this title.
+

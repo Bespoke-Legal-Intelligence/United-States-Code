@@ -30,11 +30,11 @@
 
 (9) This subsection applies only to a person who has sustained a vaccine-related injury or death and who is qualified to file a petition for compensation under the Program.
 
-(10) The Clerk of the United States Claims Court <sup>2</sup> is authorized to continue to receive, and forward, petitions for compensation for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1992.
+(10) The Clerk of the United States Claims Court <sup>2</sup> is authorized to continue to receive, and forward, petitions for compensation for a vaccine-related injury or death associated with theadministration of a vaccine on or after October 1, 1992.
 
 #### (b) Petitioners
 
-(1)(A) Except as provided in subparagraph (B), any person who has sustained a vaccine-related injury, the legal representative of such person if such person is a minor or is disabled, or the legal representative of any person who died as the result of the administration of a vaccine set forth in the Vaccine Injury Table may, if theperson meets the requirements of subsection (c)(1) of this section, file a petition for compensation under the Program.
+(1)(A) Except as provided in subparagraph (B), any person who has sustained a vaccine-related injury, the legal representative of such person if such person is a minor or is disabled, or the legal representative of any person who died as the result of the administration of a vaccine set forth in the Vaccine Injury Table may, if the person meets the requirements of subsection (c)(1) of this section, file a petition for compensation under the Program.
 
 (B) No person may file a petition for a vaccine-related injury or death associated with a vaccine administered before October 1, 1988, if compensation has been paid under this part for 3500 petitions for such injuries or deaths.
 
@@ -186,7 +186,7 @@ References to United States Claims Court deemed to refer to United States Court 
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–310, div. A, title XVII, §1701(b), Oct. 17, 2000, 114 Stat. 1151, provided that: “The amendment made by subsection (a) \[amending this section\] takeseffect upon the date of the enactment of this Act \[Oct. 17, 2000\], including with respect to petitions under section 2111 of the Public Health Service Act \[this section\] that are pending on such date.”
+Pub. L. 106–310, div. A, title XVII, §1701(b), Oct. 17, 2000, 114 Stat. 1151, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect upon the date of the enactment of this Act \[Oct. 17, 2000\], including with respect to petitions under section 2111 of the Public Health Service Act \[this section\] that are pending on such date.”
 
 #### Effective Date of 1992 Amendment
 

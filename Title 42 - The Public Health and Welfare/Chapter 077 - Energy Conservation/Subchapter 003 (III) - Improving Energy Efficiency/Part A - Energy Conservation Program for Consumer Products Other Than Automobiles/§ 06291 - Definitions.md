@@ -38,13 +38,13 @@ For purposes of this part:
 
 &emsp;(12) The term “manufacturer” means any person who manufactures a consumer product.
 
-&emsp;(13) The term “retailer” means a person to whom a consumer product is delivered or sold, if such delivery or sale is for purposes of saleor distribution in commerce to purchasers who buy such product for purposes other than resale.
+&emsp;(13) The term “retailer” means a person to whom a consumer product is delivered or sold, if such delivery or sale is for purposes of sale or distribution in commerce to purchasers who buy such product for purposes other than resale.
 
 &emsp;(14) The term “distributor” means a person (other than a manufacturer or retailer) to whom a consumer product is delivered or sold for purposes of distribution in commerce.
 
 &emsp;(15)(A) The term “private labeler” means an owner of a brand or trademark on the label of a consumer product which bears a private label.
 
-&emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark such product (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
+&emsp;(B) A consumer product bears a private label if (i) such product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of such product, (ii) the person with whose brand or trademark suchproduct (or container) is labeled has authorized or caused such product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
 &emsp;(16) The terms “to distribute in commerce” and “distribution in commerce” mean to sell in commerce, to import, to introduce or deliver for introduction into commerce, or to hold for sale or distribution after introduction into commerce.
 
@@ -118,11 +118,11 @@ For purposes of this part:
 
 &emsp;(27) The term “water heater” means a product which utilizes oil, gas, or electricity to heat potable water for use outside the heater upon demand, including—
 
-&emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, andelectric storage water heaters with an input of 12 kilowatts or less;
+&emsp;&emsp;(A) storage type units which heat and store water at a thermostatically controlled temperature, including gas storage water heaters with an input of 75,000 Btu per hour or less, oil storage water heaters with an input of 105,000 Btu per hour or less, and electric storage water heaters with an input of 12 kilowatts or less;
 
 &emsp;&emsp;(B) instantaneous type units which heat water but contain no more than one gallon of water per 4,000 Btu per hour of input, including gas instantaneous water heaters with an input of 200,000 Btu per hour or less, oil instantaneous water heaters with an input of 210,000 Btu per hour or less, and electric instantaneous water heaters with an input of 12 kilowatts or less; and
 
-&emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy from one temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
+&emsp;&emsp;(C) heat pump type units, with a maximum current rating of 24 amperes at a voltage no greater than 250 volts, which are products designed to transfer thermal energy fromone temperature level to a higher temperature level for the purpose of heating water, including all ancillary equipment such as fans, storage tanks, pumps, or controls necessary for the device to perform its function.
 
 &emsp;(28) The term “weatherized warm air furnace or boiler” means a furnace or boiler designed for installation outdoors, approved for resistance to wind, rain, and snow, and supplied with its own venting system.
 
@@ -270,7 +270,7 @@ For purposes of this part:
 
 &emsp;(E) The term “faucet” means a lavatory faucet, kitchen faucet, metering faucet, or replacement aerator for a lavatory or kitchen faucet.
 
-&emsp;(F) The term “water closet” has the meaning given such term in ASME A112.19.2M–1990, except such term does not include fixtures designed for installation in prisons.
+&emsp;(F) The term “water closet” has the meaning given such term in ASME A112.19.2M–1990,except such term does not include fixtures designed for installation in prisons.
 
 &emsp;(G) The term “urinal” has the meaning given such term in ASME A112.19.2M–1990, except such term does not include fixtures designed for installation in prisons.
 

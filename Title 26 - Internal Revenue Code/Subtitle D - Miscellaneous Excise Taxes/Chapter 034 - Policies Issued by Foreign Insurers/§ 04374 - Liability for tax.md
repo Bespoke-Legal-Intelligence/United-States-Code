@@ -10,7 +10,7 @@ For provisions of prior sections 4375, 4381 to 4384, see Prior Provisions note p
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 substituted in section catchline “Liability for tax” for “Payment of tax” and in text provisions relating to payment of tax on basis of a return and to tax-exempt status of United States and its agencies and instrumentalities for provisions relating to placing of stamps on any policy, indemnity bond, or annuity contract referred to in section 4371 and to regulation by Secretary that tax be paid on basis of a return.
+<b>1976</b>—Pub. L. 94–455 substituted in section catchline “Liability for tax” for “Payment of tax” and in textprovisions relating to payment of tax on basis of a return and to tax-exempt status of United States and its agencies and instrumentalities for provisions relating to placing of stamps on any policy, indemnity bond, or annuity contract referred to in section 4371 and to regulation by Secretary that tax be paid on basis of a return.
 
 <b>1965</b>—Pub. L. 89–44 substituted “Payment of tax” for “Affixing of stamps” in section catchline, and inserted sentence authorizing Secretary or his delegate to provide by regulation for payment on basis of a return of tax imposed by section 4371.
 

@@ -38,7 +38,7 @@ Mar. 7, 1942, ch. 166, §11, 56 Stat. 146.
 
 50 App. 1009(a) (last sentence).
 
-Mar. 7, 1942, ch. 166, §9(a) (5th and last sentences); added July 1, 1944, ch. 371, §5, 58 Stat. 680; Aug. 29, 1957, Pub.L. 85–217, §1(c), 71 Stat. 492.
+Mar. 7, 1942, ch. 166, §9(a) (5th and last sentences); added July 1, 1944, ch. 371, §5, 58 Stat. 680; Aug. 29, 1957, Pub. L. 85–217, §1(c), 71 Stat. 492.
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 

@@ -20,7 +20,7 @@ In carrying out the objectives of this chapter, the Secretary may utilize variou
 
 #### (b) Proposed joint Federal-industry corporations; operational guidelines; powers, duties, and functions; composition; scope of Federal assistance and participation; specific authorization
 
-Joint Federal-industry corporations proposed for congressional authorization pursuant to this chapter shall be subject to the provisions of section 5908 of this title and shall conform to the following guidelines except as otherwise authorized by Congress:
+Joint Federal-industry corporations proposed for congressional authorization pursuant to this chapter shall be subject to the provisions of section 5908 of this title and shall conform to thefollowing guidelines except as otherwise authorized by Congress:
 
 &emsp;(1) Each such corporation may design, construct, operate, and maintain one or more experimental, demonstration, or commercial-size facilities, or other operations which will ascertain the technical, environmental, and economic feasibility of a particular energy technology. In carrying out this function, the corporation shall be empowered, either directly or by contract, to utilize commercially available technologies, perform tests, or design, construct, and operate pilot plants, as may be necessary for the design of the full-scale facility.
 

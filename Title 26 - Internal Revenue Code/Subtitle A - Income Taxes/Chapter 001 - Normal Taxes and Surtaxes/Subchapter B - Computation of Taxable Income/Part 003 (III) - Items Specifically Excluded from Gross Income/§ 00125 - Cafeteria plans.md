@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (C) Exception for certain plans maintained by educational institutions
 
-&emsp;&emsp;Subparagraph (A) shall not apply to a plan maintained by an educational organization described in section 170(b)(1)(A)(ii) to the extent of amounts which a covered employee may elect to have the employer pay as contributions for post-retirement group life insurance if—
+&emsp;&emsp;Subparagraph (A) shall not apply to a plan maintained by an educational organizationdescribed in section 170(b)(1)(A)(ii) to the extent of amounts which a covered employee may elect to have the employer pay as contributions for post-retirement group life insurance if—
 
 &emsp;&emsp;&emsp;(i) all contributions for such insurance must be made before retirement, and
 
@@ -94,7 +94,7 @@ For purposes of this section, the term “qualified benefit” means any benefit
 
 &emsp;&emsp;(A) contributions under the plan on behalf of each participant include an amount which—
 
-&emsp;&emsp;&emsp;(i) equals 100 percent of the cost of the health benefit coverage under the plan ofthe majority of the highly compensated participants similarly situated, or
+&emsp;&emsp;&emsp;(i) equals 100 percent of the cost of the health benefit coverage under the plan of the majority of the highly compensated participants similarly situated, or
 
 &emsp;&emsp;&emsp;(ii) equals or exceeds 75 percent of the cost of the health benefit coverage of the participant (similarly situated) having the highest cost health benefit coverage under the plan, and
 
@@ -132,7 +132,7 @@ Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendment
 
 #### Prior Provisions
 
-A prior section 125 was renumbered section 139 of this title.
+A prior section 125 was renumbered section 140 of this title.
 
 #### Amendments
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 98–369 effective Jan. 1, 1985, see section 531(h) of Pub.
 
 #### Effective Date of 1980 Amendments
 
-Amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to years ending after Nov. 30, 1980, except in the case of a plan in existence on Nov. 30, 1980 where amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to plan years beginning after Nov. 30,1980, see section 201(c) of Pub. L. 96–605 and section 5(c) of Pub. L. 96–613, set out as a note under section 414 of this title.
+Amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to years ending after Nov. 30, 1980, except in the case of a plan in existence on Nov. 30, 1980 where amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to plan years beginning after Nov. 30, 1980, see section 201(c) of Pub. L. 96–605 and section 5(c) of Pub. L. 96–613, set out as a note under section 414 of this title.
 
 Section 226(b) of Pub. L. 96–605 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1980.”
 

@@ -20,7 +20,7 @@ Safeguards in Consent Cases.—Until such time as rules are adopted under chapte
 
 (c)
 
-Presumptions.—For purposes of subsection (a)(3), a district court may presume damages are not in excess of $150,000 unless counsel certifies that damages exceed such amount.
+Presumptions.—For purposes of subsection (a)(3), a district court may presume damages arenot in excess of $150,000 unless counsel certifies that damages exceed such amount.
 
 (d)
 

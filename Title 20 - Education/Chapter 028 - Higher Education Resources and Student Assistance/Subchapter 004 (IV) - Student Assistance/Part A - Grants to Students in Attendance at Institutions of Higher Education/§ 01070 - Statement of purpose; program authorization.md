@@ -32,6 +32,122 @@ A prior section 1070, Pub. L. 89–329, title IV, §401, as added and amended Pu
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
+#### Higher Education Relief Opportunities for Students
+
+Pub. L. 107–122, Jan. 15, 2002, 115 Stat. 2386, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Higher Education Relief Opportunities for Students Act of 2001’.
+
+#### “SEC. 2. WAIVER AUTHORITY FOR RESPONSE TO NATIONAL EMERGENCY.
+
+“(a)
+
+Waivers and Modifications.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education (referred to in this Act as the ‘Secretary’) may waive or modify any statutory or regulatory provision applicable to the student financial aid programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) as the Secretary deems necessary in connection with the national emergency to provide the waivers or modifications authorized by paragraph (2).
+
+&emsp;“(2)
+
+Actions authorized.—The Secretary is authorized to waive or modify any provision described in paragraph (1) as may be necessary to ensure that—
+
+&emsp;&emsp;“(A) borrowers of Federal student loans who are affected individuals are not placed in a worse position financially in relation to those loans because of their status as affected individuals;
+
+&emsp;&emsp;“(B) administrative requirements placed on affected individuals who are borrowers of Federal student loans are minimized, to the extent possible without impairing the integrity of the student loan programs, to ease the burden on such borrowers and avoid inadvertent, technical violations or defaults;
+
+&emsp;&emsp;“(C) the calculation of ‘annual adjusted family income’ and ‘available income’, as used in the determination of need for student financial assistance under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) for any such affected individual (and the determination of such need for his or her spouse and dependents, if applicable), may be modified to mean the sums received in the first calendar year of the award year for which such determination is made, in order to reflect more accurately the financial condition of such affected individual and his or her family; and
+
+&emsp;&emsp;“(D) institutions of higher education, eligible lenders, guaranty agencies, and other entities participating in the student assistance programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) that are located in, or whose operations are directly affected by, areas that are declared disaster areas by any Federal, State, or local official in connection with the national emergency may be granted temporary relief from requirements that are rendered infeasible or unreasonable by the national emergency, including due diligence requirements and reporting deadlines.
+
+“(b)
+
+Notice of Waivers or Modifications.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding section 437 of the General Education Provisions Act (20 U.S.C. 1232) and section 553 of title 5, United States Code, the Secretary shall, by notice in the Federal Register, publish the waivers or modifications of statutory and regulatory provisions the Secretary deems necessary to achieve the purposes of this section.
+
+&emsp;“(2)
+
+Terms and conditions.—The notice under paragraph (1) shall include the terms and conditions to be applied in lieu of such statutory and regulatory provisions.
+
+&emsp;“(3)
+
+Case-by-case basis.—The Secretary is not required to exercise the waiver or modification authority under this section on a case-by-case basis.
+
+“(c)
+
+Impact Report.—The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of any waivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), and the basis for such determination, and include in such report the Secretary's recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
+
+“(d)
+
+No Delay in Waivers and Modifications.—Sections 482(c) and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089(c), 1098a) shall not apply to the waivers and modifications authorized or required by this Act.
+
+#### “SEC. 3. TUITION REFUNDS OR CREDITS FOR MEMBERS OF ARMED FORCES.
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;“(1) all institutions offering postsecondary education should provide a full refund to students who are members of the Armed Forces serving on active duty during the national emergency, for that portion of a period of instruction such student was unable to complete, or for which such individual did not receive academic credit, because he or she was called up for such service; and
+
+&emsp;“(2) if affected individuals withdraw from a course of study as a result of such service, such institutions should make every effort to minimize deferral of enrollment or reapplication requirements and should provide the greatest flexibility possible with administrative deadlines related to those applications.
+
+“(b)
+
+Definition of Full Refund.—For purposes of this section, a full refund includes a refund of required tuition and fees, or a credit in a comparable amount against future tuition and fees.
+
+#### “SEC. 4. USE OF PROFESSIONAL JUDGMENT.
+
+“At the time of publishing any waivers or modifications pursuant to section 2(b), the Secretary shall publish examples of measures that institutions may take in the appropriate exercise of discretion under section 479A of the Higher Education Act of 1965 (20 U.S.C. 1087tt) to adjust financial need and aid eligibility determinations for affected individuals.
+
+#### “SEC. 5. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+Active duty.—The term ‘active duty’ has the meaning given such term in section 101(d)(1) of title 10, United States Code, except that such term does not include active duty for training or attendance at a service school.
+
+&emsp;“(2)
+
+Affected individual.—The term ‘affected individual’ means an individual who—
+
+&emsp;&emsp;“(A) is serving on active duty during the national emergency;
+
+&emsp;&emsp;“(B) is serving on National Guard duty during the national emergency;
+
+&emsp;&emsp;“(C) resides or is employed in an area that is declared a disaster area by any Federal, State, or local official in connection with the national emergency; or
+
+&emsp;&emsp;“(D) suffered direct economic hardship as a direct result of the national emergency, as determined under a waiver or modification issued under this Act.
+
+&emsp;“(3)
+
+Federal student loan.—The term ‘Federal student loan’ means a loan made, insured, or guaranteed under part B, D, or E of title IV of the Higher Education Act of 1965 (20 U.S.C. 1071 et seq., 20 U.S.C. 1087a et seq., and 20 U.S.C. 1087aa et seq.).
+
+&emsp;“(4)
+
+National emergency.—The term ‘national emergency’ means the national emergency by reason of certain terrorist attacks declared by the President on September 14, 2001, or subsequent national emergencies declared by the President by reason of terrorist attacks.
+
+&emsp;“(5)
+
+Serving on active duty during the national emergency.—The term ‘serving on active duty during the national emergency’ shall include service by an individual who is—
+
+&emsp;&emsp;“(A) a Reserve of an Armed Force ordered to active duty under section 12301(a), 12301(g), 12302, 12304, or 12306 of title 10, United States Code, or any retired member of an Armed Force ordered to active duty under section 688 of such title, for service in connection with such emergency or subsequent actions or conditions, regardless of the location at which such active duty service is performed; and
+
+&emsp;&emsp;“(B) any other member of an Armed Force on active duty in connection with such emergency or subsequent actions or conditions who has been assigned to a duty station at a location other than the location at which such member is normally assigned.
+
+&emsp;“(6)
+
+Serving on national guard duty during the national emergency.—The term ‘serving on National Guard duty during the national emergency’ shall include performing training or other duty authorized by section 502(f) of title 32, United States Code, as a member of the National Guard, at the request of the President, for or in support of an operation during the national emergency.
+
+#### “SEC. 6. TERMINATION OF AUTHORITY.
+
+“The provisions of this Act shall cease to be effective on September 30, 2003.”
+
 #### Community Scholarship Mobilization
 
 Pub. L. 105–244, title VIII, part C, Oct. 7, 1998, 112 Stat. 1810, provided that:
@@ -136,7 +252,7 @@ In General.—The Secretary shall award one or more endowment grants described i
 
 &emsp;“(4) require that at least 50 percent of all the interest income from the endowment \[fund\] be allocated to establish new local entities or support regional, State or community program centers in high poverty areas;
 
-&emsp;“(5) require a national organization to submit, for each fiscal year in which such organization uses theinterest from the endowment fund, a report to the Secretary that contains—
+&emsp;“(5) require a national organization to submit, for each fiscal year in which such organization uses the interest from the endowment fund, a report to the Secretary that contains—
 
 &emsp;&emsp;“(A) a description of the programs and activities supported by the interest on the endowment fund;
 
@@ -170,7 +286,7 @@ Section 1405 of Pub. L. 102–325 directed Secretary of Education to conduct a s
 
 #### Olympic Scholarships
 
-Pub. L. 102–325, title XV, §1543, July 23, 1992, 106 Stat. 836, as amended by Pub. L. 105–244, title VIII, §836, Oct. 7, 1998, 112 Stat. 1820; Pub. L. 106–554, §1(a)(1) \[title III, §319\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49, provided that:
+Pub. L. 102–325, title XV, §1543, July 23, 1992, 106 Stat. 836, as amended by Pub. L. 105–244, title VIII, §836, Oct. 7, 1998, 112 Stat. 1820; Pub. L. 106–554, §1(a)(1) \[title III, §319\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–116, title III, §305(a), Jan. 10, 2002, 115 Stat. 2208, provided that:
 
 “(a)
 
@@ -182,7 +298,11 @@ In general.—The Secretary of Education is authorized to provide financial assi
 
 &emsp;“(2)
 
-Award determination.—The amount of financial assistance provided to athletes described in paragraph (1) shall be determined in accordance with such athlete's financial need as determined in accordance with part F of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1087kk et seq.\].
+Award determination.—The amount of the financial assistance provided to an athlete described in paragraph (1) shall be determined in accordance with criteria, and in amounts, specified in the application of the center under subsection (c). Such assistance shall not exceed the athlete's cost of attendance as determined under section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>).
+
+&emsp;“(3)
+
+Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
 
 “(b)
 
@@ -199,6 +319,8 @@ Authorization of Appropriations.—There are authorized to be appropriated $5,00
 “(e)
 
 Designation.—Scholarships awarded under this section shall be known as ‘B.J. Stupak Olympic Scholarships’.”
+
+\[Pub. L. 107–116, title III, §305(b), Jan. 10, 2002, 115 Stat. 2208, provided that: “The amendments made by subsection (a) \[amending section 1543 of Pub. L. 102–325, set out above\] shall apply with respect to any funds appropriated pursuant to section 1543(d) of the Higher Education Amendments of 1992 \[section 1543(d) of Pub. L. 102–325, set out above\], including funds appropriated pursuant to that section in fiscal years 2000 and 2001, that are available for financial assistance under section 1543 on or after the date of enactment of this Act \[Jan. 10, 2002\].”\]
 
 #### Persian Gulf Conflict Higher Education Assistance
 
@@ -226,7 +348,7 @@ Waiver Requirement.—Notwithstanding any other provision of law, unless enacted
 
 &emsp;“(3) the number of years for which individuals who are engaged in such military service may be eligible for Pell Grants under subpart 1 of part A of title IV of the Act \[20 U.S.C. 1070a et seq.\];
 
-&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military serviceis required to resume repayment of principal and interest on such loan after the borrower completes a period of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
+&emsp;“(4) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes a period of deferment under section 427(a)(2)(C)(ii) or 428(b)(1)(M)(ii) of the Act;
 
 &emsp;“(5) the point at which the borrower of a Stafford Loan who is or was engaged in such military service is required to resume repayment of principal and interest on such loan after the borrower completes a single period of deferment under section 427(a)(2)(C)(i) or 428(b)(1)(M)(i) of the Act subsequent to such service; and
 

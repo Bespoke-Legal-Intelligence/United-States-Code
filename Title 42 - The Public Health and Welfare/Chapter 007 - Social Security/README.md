@@ -2009,25 +2009,17 @@ Appropriation.
 
 |  |  |
 | :--- | ---: |
-| [629\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629%20-%20Purposes%3B%20limitations%20on%20authorizations%20of%20appropriations%3B%20reservation%20of%20certain%20amounts.md) | Purposes; limitations on authorizations of appropriations; reservation of certain amounts. |
+| [629\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Purposes; limitations on authorization of appropriations.
+Findings.
 
 (b)
 
-Description of amounts.
-
-(c)
-
-Inflation percentage.
-
-(d)
-
-Reservation of certain amounts.
+Purpose.
 
 |  |  |
 | :--- | ---: |
@@ -2075,6 +2067,10 @@ Territories.
 
 Other States.
 
+(d)
+
+Reallotments.
+
 |  |  |
 | :--- | ---: |
 | [629d.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629d%20-%20Payments%20to%20States.md) | Payments to States. |
@@ -2095,7 +2091,7 @@ Direct payments to tribal organizations of Indian tribes.
 
 |  |  |
 | :--- | ---: |
-| [629e.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629e%20-%20Evaluations.md) | Evaluations. |
+| [629e.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629e%20-%20Evaluations%3B%20research%3B%20technical%20assistance.md) | Evaluations; research; technical assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2106,6 +2102,114 @@ Evaluations.
 (b)
 
 Coordination of evaluations.
+
+(c)
+
+Research.
+
+(d)
+
+Technical assistance.
+
+|  |  |
+| :--- | ---: |
+| [629f.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629f%20-%20Authorization%20of%20appropriations%3B%20reservation%20of%20certain%20amounts.md) | Authorization of appropriations; reservation of certain amounts. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Authorization.
+
+(b)
+
+Reservation of certain amounts.
+
+|  |  |
+| :--- | ---: |
+| [629g.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629g%20-%20Discretionary%20grants.md) | Discretionary grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Limitations on authorization of appropriations.
+
+(b)
+
+Reservation of certain amounts.
+
+(c)
+
+Allotments.
+
+(d)
+
+Grants.
+
+(e)
+
+Applicability of certain rules.
+
+|  |  |
+| :--- | ---: |
+| [629h.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629h%20-%20Entitlement%20funding%20for%20State%20courts%20to%20assess%20and%20improve%20handling%20of%20proceedings%20relating%20to%20foster%20care%20and%20adoption.md) | Entitlement funding for State courts to assess and improve handling of proceedings relating to foster care and adoption. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Applications.
+
+(c)
+
+Allotments.
+
+(d)
+
+Federal share.
+
+|  |  |
+| :--- | ---: |
+| [629i.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20002%20-%20Promoting%20Safe%20and%20Stable%20Families/%C2%A7%2000629i%20-%20Grants%20for%20programs%20for%20mentoring%20children%20of%20prisoners.md) | Grants for programs for mentoring children of prisoners. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Findings and purpose.
+
+(b)
+
+Definitions.
+
+(c)
+
+Program authorized.
+
+(d)
+
+Application requirements.
+
+(e)
+
+Federal share.
+
+(f)
+
+Considerations in awarding grants.
+
+(g)
+
+Evaluation.
+
+(h)
+
+Authorization of appropriations; reservation of certain amounts.
 
 #### Part C—Work Incentive Program for Recipients of Aid Under State Plan Approved Under Part A
 
@@ -2406,44 +2510,15 @@ Definitions.
 
 (d)
 
-Hold harmless provision.
-
-(e)
-
 Gap payments not subject to distribution under this section.
 
-(f)
+(e)
 
 Amounts collected for child for whom foster care maintenance payments are made.
 
 |  |  |
 | :--- | ---: |
-| [658\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20D%20-%20Child%20Support%20and%20Establishment%20of%20Paternity/%C2%A7%2000658%20-%20Incentive%20payments%20to%20States.md) | Incentive payments to States. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Purpose; requirement; quarterly payments.
-
-(b)
-
-Incentive formula.
-
-(c)
-
-Increase in percentage; laboratory costs.
-
-(d)
-
-Support collected on behalf of individuals residing in another State.
-
-(e)
-
-Estimates by Secretary; quarterly payments.
-
-|  |  |
-| :--- | ---: |
+| [658\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20D%20-%20Child%20Support%20and%20Establishment%20of%20Paternity/%C2%A7%2000658%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93200%2C%20title%20II%2C%20%C2%A7201%28f%29%281%29%2C%20July%2016%2C%201998%2C%20112%20Stat.%20657.md) | Repealed. |
 | [658a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20D%20-%20Child%20Support%20and%20Establishment%20of%20Paternity/%C2%A7%2000658a%20-%20Incentive%20payments%20to%20States.md) | Incentive payments to States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2869,6 +2944,10 @@ Automated data collection expenditures.
 
 Reduction for violation of plan requirement.
 
+(e)
+
+Discretionary grants for educational and training vouchers for youths aging out of foster care.
+
 |  |  |
 | :--- | ---: |
 | [675\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20E%20-%20Federal%20Payments%20for%20Foster%20Care%20and%20Adoption%20Assistance/%C2%A7%2000675%20-%20Definitions.md) | Definitions. |
@@ -2921,6 +3000,10 @@ Evaluations.
 (h)
 
 Limitations on authorization of appropriations.
+
+(i)
+
+Educational and training vouchers.
 
 |  |  |
 | :--- | ---: |
@@ -7397,7 +7480,7 @@ Contracts with utilization and quality control peer review organizations.
 
 (h)
 
-Repealed.
+Waiver of electronic form requirement.
 
 (i)
 
@@ -8542,7 +8625,7 @@ Optional coverage of TB-related services.
 
 Certain breast or cervical cancer patients.
 
-(aa)
+(bb)
 
 Payment for services provided by Federally-qualified health centers and rural health clinics.
 

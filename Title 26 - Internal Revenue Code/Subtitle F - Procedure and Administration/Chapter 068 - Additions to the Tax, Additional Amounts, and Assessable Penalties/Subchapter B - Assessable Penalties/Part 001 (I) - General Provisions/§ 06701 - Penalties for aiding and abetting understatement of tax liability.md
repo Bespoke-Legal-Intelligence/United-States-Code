@@ -56,7 +56,7 @@ For purposes of subsection (a)(1), a person furnishing typing, reproducing, or o
 
 #### (2) Coordination with return preparer penalties
 
-&emsp;No penalty shall be assessed under subsection (a) or (b) of section 6694 on any person with respect to any document for which a penalty is assessed on such person under subsection (a).
+&emsp;No penalty shall be assessed under subsection (a) or (b) of section 6694 on any personwith respect to any document for which a penalty is assessed on such person under subsection (a).
 
 #### (3) Coordination with section 6700
 

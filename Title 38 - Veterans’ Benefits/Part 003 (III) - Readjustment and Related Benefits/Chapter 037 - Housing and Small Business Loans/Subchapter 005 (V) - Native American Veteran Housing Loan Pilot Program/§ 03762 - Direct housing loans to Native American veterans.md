@@ -2,7 +2,9 @@
 
 (a) The Secretary may make a direct housing loan to a Native American veteran if—
 
-&emsp;(1) the Secretary has entered into a memorandum of understanding with respect to such loans with the tribal organization that has jurisdiction over the veteran; and
+&emsp;(1)(A) the Secretary has entered into a memorandum of understanding with respect to such loans with the tribal organization that has jurisdiction over the veteran; or
+
+&emsp;(B) the tribal organization that has jurisdiction over the veteran has entered into a memorandum of understanding with any department or agency of the United States with respect to direct housing loans to Native Americans that the Secretary determines substantially complies with the requirements of subsection (b); and
 
 &emsp;(2) the memorandum is in effect when the loan is made.
 
@@ -46,7 +48,7 @@
 
 (e) Loans made under this section shall be repaid in monthly installments.
 
-(f) In connection with any loan under this section, the Secretary may make advances in cash to provide for repairs, alterations, and improvements and to meet incidental expenses of the loan transaction. The Secretary shall determine the amount of any expenses incident to the origination of loans made under this section, which expenses, or a reasonable flat allowance in lieu thereof, shall be paid by the veteran in addition to the loan closing costs.
+(f) In connection with any loan under this section, the Secretary may make advances in cash to provide for repairs, alterations, and improvements and to meet incidental expenses of the loan transaction. The Secretary shall determine the amount of any expenses incident to theorigination of loans made under this section, which expenses, or a reasonable flat allowance in lieu thereof, shall be paid by the veteran in addition to the loan closing costs.
 
 (g) Without regard to any provision of this chapter (other than a provision of this section), the Secretary may—
 
@@ -82,7 +84,7 @@
 
 &emsp;(F) Outstationing loan guarantee specialists in tribal facilities on a part-time basis if requested by the tribal government.
 
-(j) Not later than February 1 of each year through 2002, the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report relating to the implementation of the pilot program under this subchapter during the fiscal year preceding the date of the report. Each such report shall include the following:
+(j) Not later than February 1 of each year through 2006, the Secretary shall transmit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report relating to the implementation of the pilot program under this subchapter during the fiscal year preceding the date of the report. Each such report shall include the following:
 
 &emsp;(1) The Secretary's exercise during such fiscal year of the authority provided under subsection (c)(1)(B) to make loans exceeding the maximum loan amount.
 
@@ -110,9 +112,13 @@
 
 &emsp;(5) The Secretary's recommendations, if any, for additional legislation regarding the pilot program.
 
-(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, §202(a), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title II, §201(b), (c), Nov. 21, 1997, 111 Stat. 2282, 2283.)
+(Added Pub. L. 102–547, §8(a), Oct. 28, 1992, 106 Stat. 3637; amended Pub. L. 104–275, title II, §202(a), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title II, §201(b), (c), Nov. 21, 1997, 111 Stat. 2282, 2283; Pub. L. 107–103, title IV, §402(b), (c), Dec. 27, 2001, 115 Stat. 993.)
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–103, §402(b), designated existing provisions as subpar. (A), substituted “; or” for “; and”, and added subpar. (B).
+
+Subsec. (j). Pub. L. 107–103, §402(c), substituted “2006” for “2002” in introductory provisions.
 
 1997—Subsec. (i). Pub. L. 105–114, §201(b), designated existing provisions as par. (1), inserted “, in consultation with tribal organizations (including the National Congress of American Indians and the National American Indian Housing Council),” after “the Secretary shall”, struck out “tribal organizations and” after “educate”, and added par. (2).
 

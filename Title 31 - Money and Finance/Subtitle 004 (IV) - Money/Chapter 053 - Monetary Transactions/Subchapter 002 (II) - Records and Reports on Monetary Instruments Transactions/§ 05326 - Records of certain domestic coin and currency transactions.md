@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—If the Secretary of the Treasury finds, upon the Secretary's own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle and prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or group of domestic financial institutions in a geographic area—
+In General.—If the Secretary of the Treasury finds, upon the Secretary's own initiative or at the request of an appropriate Federal or State law enforcement official, that reasonable grounds exist for concluding that additional recordkeeping and reporting requirements are necessary to carry out the purposes of this subtitle and prevent evasions thereof, the Secretary may issue an order requiring any domestic financial institution or nonfinancial trade or business or group of domestic financial institutions or nonfinancial trades or businesses in a geographic area—
 
 &emsp;(1) to obtain such information as the Secretary may describe in such order concerning—
 
-&emsp;&emsp;(A) any transaction in which such financial institution is involved for the payment, receipt, or transfer of United States coins or currency (or such other monetary instruments as the Secretary may describe in such order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe; and
+&emsp;&emsp;(A) any transaction in which such financial institution or nonfinancial trade or business is involved for the payment, receipt, or transfer of United States coins or currency (or such other monetary instruments as the Secretary may describe in such order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe; and
 
 &emsp;&emsp;(B) any other person participating in such transaction;
 
@@ -22,29 +22,53 @@ Authority To Order Depository Institutions To Obtain Reports From Customers.—
 
 In general.—The Secretary of the Treasury may, by regulation or order, require any depository institution (as defined in section 3(c) of the Federal Deposit Insurance Act)—
 
-&emsp;&emsp;(A) to request any financial institution (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution under this subtitle with respect to any prior transaction (between such financial institution and any other person) which involved any portion of the coins or currency (or monetary instruments) which are involved in the reportable transaction with the depository institution; and
+&emsp;&emsp;(A) to request any financial institution or nonfinancial trade or business (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution or nonfinancial trade or business under this subtitle with respect to any prior transaction (between such financial institution or nonfinancial trade or business and any other person) which involved any portion of the coins or currency (or monetary instruments) which are involved in the reportable transaction with the depository institution; and
 
-&emsp;&emsp;(B) if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution failed to provide any copy of such report.
+&emsp;&emsp;(B) if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution or nonfinancial trade or business failed to provide any copy of such report.
 
 &emsp;(2)
 
-Reportable transaction defined.—For purposes of this subsection, the term “reportable transaction” means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the totalamounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
+Reportable transaction defined.—For purposes of this subsection, the term “reportable transaction” means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
 
 (c)
 
-Nondisclosure of Orders.—No financial institution or officer, director, employee or agent of a financial institution subject to an order under this section may disclose the existence of, or terms of, the order to any person except as prescribed by the Secretary.
+Nondisclosure of Orders.—No financial institution or nonfinancial trade or business or officer, director, employee or agent of a financial institution or nonfinancial trade or business subject to an order under this section may disclose the existence of, or terms of, the order to any person except as prescribed by the Secretary.
 
 (d)
 
-Maximum Effective Period for Order.—No order issued under subsection (a) shall be effective for more than 60 days unless renewed pursuant to the requirements of subsection (a).
+Maximum Effective Period for Order.—No order issued under subsection (a) shall be effective for more than 180 days unless renewed pursuant to the requirements of subsection (a).
 
-(Added Pub. L. 100–690, title VI, §6185(c), Nov. 18, 1988, 102 Stat. 4355; amended Pub. L. 102–550, title XV, §§1514, 1562, Oct. 28, 1992, 106 Stat. 4058, 4072.)
+(Added Pub. L. 100–690, title VI, §6185(c), Nov. 18, 1988, 102 Stat. 4355; amended Pub. L. 102–550, title XV, §§1514, 1562, Oct. 28, 1992, 106 Stat. 4058, 4072; Pub. L. 107–56, title III, §§353(d), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 323, 335.)
 
 #### References in Text
 
 Section 3(c) of the Federal Deposit Insurance Act, referred to in subsec. (b)(1), is classified to section 1813(c) of Title 12, Banks and Banking.
 
+#### Codification
+
+Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
+
 #### Amendments
 
+2001—Subsec.(a). Pub. L. 107–56, §365(c)(2)(B), inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
+
+Subsec. (b)(1)(A). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+
+Subsec. (b)(1)(B). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
+
+Subsec. (c). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places.
+
+Subsec. (d). Pub. L. 107–56, §353(d), substituted “more than 180 days” for “more than 60 days”.
+
 1992—Subsecs. (b) to (d). Pub. L. 102–550 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 310, 5318A, 5324 of this title.
 

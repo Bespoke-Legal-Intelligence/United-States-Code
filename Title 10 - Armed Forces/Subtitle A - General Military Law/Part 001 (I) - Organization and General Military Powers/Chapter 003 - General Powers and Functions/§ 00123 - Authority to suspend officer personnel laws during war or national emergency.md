@@ -6,7 +6,9 @@
 
 (c) If a provision of law pertaining to the promotion of reserve officers is suspended under this section and if the Secretary of Defense submits to Congress proposed legislation to adjust the grades and dates of rank of reserve commissioned officers other than commissioned warrant officers, such proposed legislation shall, so far as practicable, be the same as that recommended for adjusting the grades and dates of rank of officers of the regular component of the armed force concerned.
 
-(Added Pub. L. 85–861, §1(2)(A), Sept. 2, 1958, 72 Stat. 1437; amended Pub. L. 86–559, §1(1), June 30, 1960, 74 Stat. 264; Pub. L. 89–718, §1, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(1), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §§501(3), 511(1), Dec. 12, 1980, 94 Stat. 2907, 2920; Pub. L. 97–22, §10(b)(1), July 10, 1981, 95 Stat. 137; Pub. L. 103–337, div. A, title XVI, §1622(a), Oct. 5, 1994, 108 Stat. 2961; Pub. L. 104–106, div. A, title XV, §1501(c)(4), Feb. 10, 1996, 110 Stat. 498.)
+(d) Upon the termination of a suspension made under the authority of subsection (a) of a provision of law otherwise requiring the separation or retirement of officers on active duty because of age, length of service or length of service in grade, or failure of selection for promotion, the Secretary concerned shall extend by up to 90 days the otherwise required separation or retirement date of any officer covered by the suspended provision whose separation or retirement date, but for the suspension, would have been before the date of the termination of the suspension or within 90 days after the date of such termination.
+
+(Added Pub. L. 85–861, §1(2)(A), Sept. 2, 1958, 72 Stat. 1437; amended Pub. L. 86–559, §1(1), June 30, 1960, 74 Stat. 264; Pub. L. 89–718, §1, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(1), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §§501(3), 511(1), Dec. 12, 1980, 94 Stat. 2907, 2920; Pub. L. 97–22, §10(b)(1), July 10, 1981, 95 Stat. 137; Pub. L. 103–337, div. A, title XVI, §1622(a), Oct. 5, 1994,108 Stat. 2961; Pub. L. 104–106, div. A, title XV, §1501(c)(4), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–107, div. A, title V, §508(b), Dec. 28, 2001, 115 Stat. 1090.)
 
 Historical and Revision Notes
 
@@ -33,6 +35,8 @@ The National Emergencies Act, referred to in subsec. (b), is Pub. L. 94–412, S
 Provisions similar to those in this section were contained in section 644 of this title prior to repeal by Pub. L. 103–337, §1622(b).
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
 1996—Subsec. (a). Pub. L. 104–106 struck out “281, 592, 1002, 1005, 1006, 1007, 1374, 3217, 3218, 3219, 3220, 3352(a) (last sentence),” after “armed force:”, “5414, 5457, 5458, 5506,” after “3855,”, and “8217, 8218, 8219,” after “6410,” and substituted “8855, 10214, 12003, 12004, 12005, 12007, 12202, 12213(a) (second sentence), 12642, 12645, 12646, 12647, 12771, 12772, and 12773” for “and 8855”.
 
@@ -67,6 +71,10 @@ Amendment by section 501(3) of Pub. L. 96–513, striking out references to sect
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Defense, see section 1(11) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
+
+#### Delegation of Authority
+
+Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, and authority of President under this section as invoked by section 2 of Ex. Ord. No. 13223 delegated to Secretary of Transportation by section 5 of Ex. Ord. No. 13223, set out as a note under section 12302 of this title.
 
 #### Section Referred to in Other Sections
 

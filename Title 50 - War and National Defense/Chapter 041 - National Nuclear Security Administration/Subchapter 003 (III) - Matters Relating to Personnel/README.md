@@ -11,4 +11,4 @@ This subchapter is referred to in section 2402 of this title.
 
 - [&sect; 02441 - Authority to establish certain scientific, engineering, and technical positions](%C2%A7%2002441%20-%20Authority%20to%20establish%20certain%20scientific%2C%20engineering%2C%20and%20technical%20positions.md)
 - [&sect; 02442 - Voluntary early retirement authority](%C2%A7%2002442%20-%20Voluntary%20early%20retirement%20authority.md)
-- [&sect; 02443 - Prohibition on pay of personnel engaged in concurrent service or duties inside and outside Administration](%C2%A7%2002443%20-%20Prohibition%20on%20pay%20of%20personnel%20engaged%20in%20concurrent%20service%20or%20duties%20inside%20and%20outside%20Administration.md)
+- [&sect; 02443 - Repealed. Pub. L. 107&#8211;107, div. C, title XXXI, &sect;3143, Dec. 28, 2001, 115 Stat. 1371](%C2%A7%2002443%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73143%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201371.md)

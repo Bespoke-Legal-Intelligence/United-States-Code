@@ -46,7 +46,7 @@
 
 #### (c) Program development process
 
-A State child health plan shall include a description of the process used to involve the public in the design and implementation of the plan and the method for ensuring ongoing public involvement.
+A State child health plan shall include a description of the process used to involve the public in the design and implementation of the planand the method for ensuring ongoing public involvement.
 
 #### (d) Program budget
 

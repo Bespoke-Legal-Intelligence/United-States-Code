@@ -2,11 +2,15 @@
 
 (a)
 
-General Rule.—An officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has completed a full tour of duty in a joint duty assignment (as described in section 664(f) of this title).
+General Rule.—An officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may not be appointed to the grade of brigadier general or rear admiral (lower half) unless—
+
+&emsp;(1) the officer has completed a full tour of duty in a joint duty assignment (as described in section 664(f) of this title); and
+
+&emsp;(2) for appointments after September 30, 2007, the officer has been selected for the joint specialty in accordance with section 661 of this title.
 
 (b)
 
-Exceptions.—Subject to subsection (c), the Secretary of Defense may waive subsection (a) in the following circumstances:
+Exceptions.—Subject to subsection (c), the Secretary of Defense may waive paragraph (1) or paragraph (2) of subsection (a), or both paragraphs (1) and (2) of subsection (a), in the following circumstances:
 
 &emsp;(1) When necessary for the good of the service.
 
@@ -52,9 +56,13 @@ Limitation for General and Flag Officers Previously Receiving Joint Duty Assignm
 
 Special Transition Rules for Nuclear Propulsion Officers.—An officer of the Navy designated as a qualified nuclear propulsion officer who before January 1, 1997, is appointed to the grade of rear admiral (lower half) without regard to subsection (a) may not be appointed to the grade of rear admiral until the officer completes a full tour of duty in a joint duty assignment.
 
-(Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §508, Oct. 5, 1999, 113 Stat. 591.)
+(Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §508, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §525(a), (b), Dec. 28, 2001, 115 Stat. 1099.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §525(a), substituted “unless—” and pars. (1) and (2) for “unless the officer has completed a full tour of duty in a joint duty assignment (as described in section 664(f) of this title).”
+
+Subsec. (b). Pub. L. 107–107, §525(b), in introductory provisions, substituted “may waive paragraph (1) or paragraph (2) of subsection (a), or both paragraphs (1) and (2) of subsection (a), in the following circumstances:” for “may waive subsection (a) in the following circumstances:”.
 
 1999—Subsec. (g). Pub. L. 106–65, §508(a), amended heading and text of subsec. (g) generally. Prior to amendment, subsec. (g) authorized the Secretary until Jan. 1, 1999, to waive subsecs. (a) and (d) for certain officers and contained restrictions on appointments of those officers.
 
@@ -62,9 +70,13 @@ Subsec. (h). Pub. L. 106–65, §508(b), substituted “An officer of the Navy�
 
 1996—Subsec. (h)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
+#### Proposed Legislative Changes
+
+Pub. L. 107–107, div. A, title V, §525(c), Dec. 28, 2001, 115 Stat. 1099, provided that: “Not later than December 1, 2002, the Secretary of Defense shall submit to Congress a draft proposal for such legislative changes as the Secretary considers needed to implement the amendment made by subsections (a) and (b) \[amending this section\].”
+
 #### Report on Plans for Compliance
 
-Section 931(d) of Pub. L. 103–160 provided that: “Not later than February 1, 1994, the Secretary of Defense shall certify to Congress that the Army, Navy, Air Force, and Marine Corps have each developed and implemented a plan for their officer personnel assignment and promotion policies so as to ensure compliance with the requirements of section 619a of title 10, United States Code, as added by subsection (a). Each such plan should particularly ensure that by January 1, 1999, the service covered by the plan shall have enough officers who have completed a full tour of duty in a joint duty assignment so as to permit the orderly promotion of officers to brigadier general or, in the case of the Navy, rear admiral (lower half) pursuant to the requirements of chapter 38 of title 10, United States Code.”
+Section 931(d) of Pub. L. 103–160 provided that: “Not later than February 1, 1994, the Secretary of Defense shall certify to Congress that the Army, Navy, Air Force, and Marine Corps have each developed and implemented a plan for their officer personnel assignment and promotion policies so as to ensure compliance with the requirements of section 619a of title 10, UnitedStates Code, as added by subsection (a). Each such plan should particularly ensure that by January 1, 1999, the service covered by the plan shall have enough officers who have completed a full tour of duty in a joint duty assignment so as to permit the orderly promotion of officers to brigadier general or, in the case of the Navy, rear admiral (lower half) pursuant to the requirements of chapter 38 of title 10, United States Code.”
 
 #### Revision of Transition Plan
 

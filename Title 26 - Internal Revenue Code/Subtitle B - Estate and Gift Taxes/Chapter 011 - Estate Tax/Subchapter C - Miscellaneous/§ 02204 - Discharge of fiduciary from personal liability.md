@@ -56,7 +56,7 @@ Amendment by section 2004(d)(4) of Pub. L. 94–455 applicable to estates of dec
 
 #### Effective Date of 1970 Amendment
 
-Amendment by section 101(d)(1) of Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31,1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
+Amendment by section 101(d)(1) of Pub. L. 91–614 applicable with respect to decedents dying after Dec. 31, 1970, see section 101(j) of Pub. L. 91–614, set out as a note under section 2032 of this title.
 
 Section 101(f) of Pub. L. 91–614 provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
 

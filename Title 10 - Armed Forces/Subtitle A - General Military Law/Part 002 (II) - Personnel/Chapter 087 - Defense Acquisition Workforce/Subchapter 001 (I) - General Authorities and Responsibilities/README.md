@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1999—Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in item 1702.
+2001—Pub. L. 107–107, div. A, title X, §1048(b)(3)(B), Dec. 28, 2001, 115 Stat. 1225, substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities” for “Under Secretary of Defense for Acquisition and Technology: authorities and responsibilities” in item 1702.
 
 1993—Pub. L. 103–160, div. A, title IX, §904(d)(2), Nov. 30, 1993, 107 Stat. 1728, inserted “and Technology” after “Acquisition” in item 1702.
 

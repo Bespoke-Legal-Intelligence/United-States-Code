@@ -42,7 +42,7 @@ Except as provided in subsections (b), (c), and (d) of this section and sections
 
 #### (3) Encryption
 
-&emsp;A telecommunications carrier shall not be responsible for decrypting, or ensuring thegovernment's ability to decrypt, any communication encrypted by a subscriber or customer, unless the encryption was provided by the carrier and the carrier possesses the information necessary to decrypt the communication.
+&emsp;A telecommunications carrier shall not be responsible for decrypting, or ensuring the government's ability to decrypt, any communication encrypted by a subscriber or customer, unless the encryption was provided by the carrier and the carrier possesses the information necessary to decrypt the communication.
 
 #### (c) Emergency or exigent circumstances
 

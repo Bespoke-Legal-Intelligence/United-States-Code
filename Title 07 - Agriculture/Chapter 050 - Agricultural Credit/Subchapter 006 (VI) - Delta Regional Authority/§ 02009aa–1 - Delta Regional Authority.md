@@ -224,7 +224,7 @@ A Federal agency shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Authority may appoint and fix the compensation of an executive director andsuch other personnel as are necessary to enable the Authority to carry out the duties of the Authority.
+&emsp;&emsp;&emsp;The Authority may appoint and fix the compensation of an executive director and such other personnel as are necessary to enable the Authority to carry out the duties of the Authority.
 
 #### (ii) Exception
 

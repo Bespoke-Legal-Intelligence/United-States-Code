@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) satisfying, in whole or in part, any liability of any person contributing to the Fund for the decommissioning of a nuclear powerplant (or unit thereof),
 
-&emsp;&emsp;(B) to pay administrative costs (including taxes) and other incidental expenses of the Fund (including legal, accounting, actuarial, and trustee expenses) in connection with the operation of the Fund, and
+&emsp;&emsp;(B) to pay administrative costs (including taxes) and other incidental expenses of the Fund (including legal, accounting, actuarial,and trustee expenses) in connection with the operation of the Fund, and
 
 &emsp;&emsp;(C) to the extent that a portion of the Fund is not currently needed for purposes described in subparagraph (A) or (B), making investments.
 
@@ -178,7 +178,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rule
 
-Section 1807(a)(4)(A)(ii) of Pub. L. 99–514 provided that: “To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 \[now 1986\] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 21/2 months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 21/2 months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periods before the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section 468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 21/2 months after the close of the taxable year.”
+Section 1807(a)(4)(A)(ii) of Pub. L. 99–514 provided that: “To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 \[now 1986\] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 21/2 months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 21/2 months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periodsbefore the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section 468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 21/2 months after the close of the taxable year.”
 
 #### Section Referred to in Other Sections
 

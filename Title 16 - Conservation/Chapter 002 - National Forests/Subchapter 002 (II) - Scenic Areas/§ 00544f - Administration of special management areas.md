@@ -20,7 +20,7 @@ Within two years after November 17, 1986, the Secretary shall complete an assess
 
 &emsp;(2) identify areas within the special management areas suitable for other public use facilities, including but not limited to educational and interpretive facilities, campsites, picnic areas, boat launch facilities, and river access areas; and
 
-&emsp;(3) subject to the treaty or other rights of Indian tribes, identify areas with the special management areas suitable for use to increase access for recreation purposes to the Columbia River and its tributaries.
+&emsp;(3) subject to the treaty or other rights of Indian tribes, identify areas with the specialmanagement areas suitable for use to increase access for recreation purposes to the Columbia River and its tributaries.
 
 #### (e) Land use designations
 
@@ -88,7 +88,7 @@ If the Secretary does not concur in any land use ordinance approved or adopted b
 
 #### (1) In general
 
-&emsp;Any ordinance adopted pursuant to this section shall not apply to any parcel or parcels ofland within a special management area if, after the date such ordinance has been adopted, three years have elapsed after a landowner has made a bona fide offer to sell at fair market value or otherwise convey such parcel or parcels to the Secretary, unless the affected landowner agrees to an extension of the three year period: <i>Provided</i>, That an offer shall not be considered bona fide if the landowner refuses consideration equal to the fair market value as appraised in accordance with section 544g(e) of this title. Lands for which an ordinance is suspended pursuant to this subsection shall be subject to the relevant scenic area land use ordinance adopted pursuant to section 544e of this title.
+&emsp;Any ordinance adopted pursuant to this section shall not apply to any parcel or parcels of land within a special management area if, after the date such ordinance has been adopted, three years have elapsed after a landowner has made a bona fide offer to sell at fair market value or otherwise convey such parcel or parcels to the Secretary, unless the affected landowner agrees to an extension of the three year period: <i>Provided</i>, That an offer shall not be considered bona fide if the landowner refuses consideration equal to the fair market value as appraised in accordance with section 544g(e) of this title. Lands for which an ordinance is suspended pursuant to this subsection shall be subject to the relevant scenic area land use ordinance adopted pursuant to section 544e of this title.
 
 #### (2) Applicability
 

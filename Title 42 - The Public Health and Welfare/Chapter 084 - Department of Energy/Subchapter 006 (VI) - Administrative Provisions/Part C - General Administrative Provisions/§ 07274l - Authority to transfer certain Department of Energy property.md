@@ -20,5 +20,5 @@ Property referred to in subsection (a) of this section is the following property
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as partof the Department of Energy Organization Act which comprises this chapter.
 

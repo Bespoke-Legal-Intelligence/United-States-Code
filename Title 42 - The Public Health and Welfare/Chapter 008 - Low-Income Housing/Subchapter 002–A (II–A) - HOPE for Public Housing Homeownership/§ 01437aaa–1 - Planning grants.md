@@ -44,7 +44,7 @@ Planning grants may be used for activities to develop homeownership programs (wh
 
 &emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located (or, during the first 12 months after November 28, 1990, that the application is consistent with such other existing State or local housing plan or strategy that the Secretary shall determine to be appropriate); and
 
-&emsp;&emsp;(E) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 794 of title 29, and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
+&emsp;&emsp;(E) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C.2000d et seq.\], section 794 of title 29, and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 
 #### (d) Selection criteria
 
@@ -60,7 +60,7 @@ The Secretary shall, by regulation, establish selection criteria for a national 
 
 &emsp;(5) such other factors that the Secretary shall require that (in the determination of the Secretary) are appropriate for purposes of carrying out the program established by this subchapter in an effective and efficient manner.
 
-(Sept. 1, 1937, ch. 896, title III, §302, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104Stat. 4149; amended Pub. L. 102–550, title X, §1012(h)(1), Oct. 28, 1992, 106 Stat. 3906.)
+(Sept. 1, 1937, ch. 896, title III, §302, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4149; amended Pub. L. 102–550, title X, §1012(h)(1), Oct. 28, 1992, 106 Stat. 3906.)
 
 #### References in Text
 

@@ -42,7 +42,7 @@ In a criminal proceeding under this section, an alien may not challenge the vali
 
 #### References in Text
 
-Section 1252 of this title, referred to in subsec. (c), was amended generally by Pub. L. 104–208, div. C, title III, §306(a)(2), Sept. 30, 1996, 110 Stat. 3009–607, and, as soamended, does not contain a subsec. (h). For provisions similar to those formerly contained in section 1252(h)(2) of this title, see section 1231(a)(4) of this title.
+Section 1252 of this title, referred to in subsec. (c), was amended generally by Pub. L. 104–208, div. C, title III, §306(a)(2), Sept. 30, 1996, 110 Stat. 3009–607, and, as so amended, does not contain a subsec. (h). For provisions similar to those formerly contained in section 1252(h)(2) of this title, see section 1231(a)(4) of this title.
 
 #### Amendments
 

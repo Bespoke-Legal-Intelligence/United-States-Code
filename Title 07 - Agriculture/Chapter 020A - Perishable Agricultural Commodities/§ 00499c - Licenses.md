@@ -18,7 +18,7 @@ Any person violating this provision may, upon a showing satisfactory to the Secr
 
 #### (3) One-time fee for retailers and grocery wholesalers that are dealers
 
-&emsp;During the three-year period beginning on November 15, 1995, a retailer or grocery wholesaler making an initial application for a license under this section shall pay the license fee required under subparagraph (A), (B), or (C) of paragraph (4) for license renewals in the year in which the initial application is made. After the end of such period, a retailer or grocery wholesaler making an initial application for a license under this section shall pay an administrative fee equal to $100. In either case, a retailer or grocery wholesaler paying a fee under this paragraph shall not be requiredto pay any fee for renewal of the license for subsequent years.
+&emsp;During the three-year period beginning on November 15, 1995, a retailer or grocery wholesaler making an initial application for a license under this section shall pay the license fee required under subparagraph (A), (B), or (C) of paragraph (4) for license renewals in the year in which the initial application is made. After the end of such period, a retailer or grocery wholesaler making an initial application for a license under this section shall pay an administrative fee equal to $100. In either case, a retailer or grocery wholesaler paying a fee under this paragraph shall not be required to pay any fee for renewal of the license for subsequent years.
 
 #### (4) Gradual elimination of annual fees for retailers and grocery wholesalers that are dealers
 

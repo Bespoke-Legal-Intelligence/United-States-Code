@@ -150,7 +150,7 @@ Subsec. (h). Pub. L. 105–318, §3(g), added subsec. (h).
 
 Subsec. (b). Pub. L. 104–294, §601(a)(3), substituted “fine under this title” for “fine of under this title” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 104–208, §211(a)(1)(A), in introductory provisions inserted “except as provided in paragraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
+Subsec. (b)(1). Pub. L. 104–208, §211(a)(1)(A), in introductory provisions inserted “except as provided inparagraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
 
 Subsec. (b)(2). Pub. L. 104–208, §211(a)(1)(B), inserted “except as provided in paragraphs (3) and (4),” after “(2)” in introductory provisions and struck out “and” at end.
 
@@ -170,7 +170,7 @@ Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted “under this tit
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act \[amending this section, repealingsection 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\].”
+Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act \[amending this section, repealing section 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\].”
 
 #### Effective Date of 1996 Amendment
 

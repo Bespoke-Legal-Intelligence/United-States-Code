@@ -2,7 +2,7 @@
 
 #### (a) Liaison
 
-The head of each department or agency of the Federal Government concerned with marine andatmospheric matters shall designate a senior policy official to participate as observer in the work of the Committee and offer necessary assistance.
+The head of each department or agency of the Federal Government concerned with marine and atmospheric matters shall designate a senior policy official to participate as observer in the work of the Committee and offer necessary assistance.
 
 #### (b) Agency assistance
 

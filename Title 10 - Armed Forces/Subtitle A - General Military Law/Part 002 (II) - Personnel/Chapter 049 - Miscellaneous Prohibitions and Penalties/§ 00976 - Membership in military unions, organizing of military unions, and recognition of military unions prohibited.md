@@ -32,7 +32,7 @@
 
 &emsp;(2) to negotiate or bargain, or attempt through any coercive act to negotiate or bargain, with any civilian officer or employee, or any member of the armed forces, on behalf of members of the armed forces, concerning the terms or conditions of service of such members;
 
-&emsp;(3) to organize or attempt to organize, or participate in, any strike, picketing, march,demonstration, or other similar form of concerted action involving members of the armed forces that is directed against the Government of the United States and that is intended to induce any civilian officer or employee, or any member of the armed forces, to—
+&emsp;(3) to organize or attempt to organize, or participate in, any strike, picketing, march, demonstration, or other similar form of concerted action involving members of the armed forces that is directed against the Government of the United States and that is intended to induce any civilian officer or employee, or any member of the armed forces, to—
 
 &emsp;&emsp;(A) negotiate or bargain with any person concerning the terms or conditions of service of any member of the armed forces,
 

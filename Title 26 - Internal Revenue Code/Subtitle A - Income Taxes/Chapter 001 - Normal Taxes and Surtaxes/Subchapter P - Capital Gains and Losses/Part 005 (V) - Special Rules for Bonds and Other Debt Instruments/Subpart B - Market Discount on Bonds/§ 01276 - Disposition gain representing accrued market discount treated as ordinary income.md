@@ -22,7 +22,7 @@
 
 #### (4) Gain treated as interest for certain purposes
 
-&emsp;Except for purposes of sections 103, 871(a),,<sup>1</sup> 881, 1441, 1442, and 6049 (and such other provisions as may be specified in regulations), any amount treated as ordinary income underparagraph (1) or (3) shall be treated as interest for purposes of this title.
+&emsp;Except for purposes of sections 103, 871(a),,<sup>1</sup> 881, 1441, 1442, and 6049 (and such other provisions as may be specified in regulations), any amount treated as ordinary income under paragraph (1) or (3) shall be treated as interest for purposes of this title.
 
 #### (b) Accrued market discount
 
@@ -78,7 +78,7 @@ Under regulations prescribed by the Secretary—
 
 &emsp;If any market discount bond is disposed of by the taxpayer in a nonrecognition transaction and paragraph (1) does not apply to such transaction, any accrued market discount determined with respect to the property disposed of to the extent not theretofore treated as ordinary income under subsection (a)—
 
-&emsp;&emsp;(A) shall be treated as accrued market discount with respect to the exchanged basis property received by the taxpayer in such transaction if such property is a market discount bond, and
+&emsp;&emsp;(A) shall be treated as accrued market discount with respect to the exchanged basisproperty received by the taxpayer in such transaction if such property is a market discount bond, and
 
 &emsp;&emsp;(B) shall be treated as ordinary income on the disposition of the exchanged basis property received by the taxpayer in such exchange if such property is not a market discount bond.
 

@@ -1,4 +1,4 @@
-### §2669. Printing and binding outside continental United States; settlement and payment of claims by foreign governments; employment of aliens; official functions and courtesies; purchase of uniforms; payment of tort claims; payment of assumed obligations in Germany; telecommunications services; security
+### §2669. Printing and binding outside continental United States; settlement and payment of claims by foreign governments; employment of aliens; official functions and courtesies; purchase of uniforms; payment of tort claims; payment of assumed obligations in Germany; telecommunications services; security; special purpose passenger motor vehicles; pay obligations arising under international conventions or contracts; personal service contracts
 
 The Secretary of State may use funds appropriated or otherwise available to the Secretary to—
 
@@ -6,7 +6,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(b) for the purpose of promoting and maintaining friendly relations with foreign countries through the prompt settlement of certain claims, settle and pay any meritorious claim against the United States which is presented by a government of a foreign country for damage to or loss of real or personal property of, or personal injury to or death of, any national of such foreign country: <i>Provided</i>, That such claim is not cognizable under any other statute or international agreement of the United States and can be settled for not more than $15,000 or the foreign currency equivalent thereof;
 
-&emsp;(c) employ individuals or organizations, by contract, for services abroad, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the UnitedStates Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
+&emsp;(c) employ individuals or organizations, by contract, for services abroad, and individualsemployed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
 
 &emsp;(d) provide for official functions and courtesies;
 
@@ -28,7 +28,9 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(m) pay obligations arising under international agreements, conventions, and binational contracts to the extent otherwise authorized by law.
 
-(Aug. 1, 1956, ch. 841, title I, §2, 70 Stat. 890; Pub. L. 86–624, §2, July 12, 1960, 74 Stat. 411; Pub. L. 86–707, title V, §511(a)(2), Sept. 6, 1960, 74 Stat. 800; Pub. L. 87–565, pt. IV, §402, Aug. 1, 1962, 76 Stat. 263; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–533, title III, §303(a), Oct. 19, 1984, 98 Stat. 2710; Pub. L. 99–93, title I, §§114, 118(a), Aug. 16, 1985, 99 Stat. 411, 412; Pub. L. 101–246, title I, §111, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–20, §4, Mar. 27, 1991, 105 Stat. 68; Pub. L. 102–138, title I, §120, Oct. 28, 1991, 105 Stat. 658; Pub. L. 103–236, title I, §§137, 162(k)(4), 180(b), Apr. 30, 1994, 108 Stat. 397, 409, 416.)
+&emsp;(n) exercise the authority provided in subsection (c) of this section, upon the request of the Secretary of Defense or the head of any other department or agency of the United States, to enter into personal service contracts with individuals to perform services in support of the Department of Defense or such other department or agency, as the case may be.
+
+(Aug. 1, 1956, ch. 841, title I, §2, 70 Stat. 890; Pub. L. 86–624, §2, July 12, 1960, 74 Stat. 411; Pub. L. 86–707, title V, §511(a)(2), Sept. 6, 1960, 74 Stat. 800; Pub. L. 87–565, pt. IV, §402, Aug. 1, 1962, 76 Stat. 263; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–533, title III, §303(a), Oct. 19, 1984, 98 Stat. 2710; Pub. L. 99–93, title I, §§114, 118(a), Aug. 16, 1985, 99 Stat. 411, 412; Pub. L. 101–246, title I, §111, Feb. 16, 1990, 104 Stat. 21; Pub. L. 102–20, §4, Mar. 27, 1991, 105 Stat. 68; Pub. L. 102–138, title I, §120, Oct. 28, 1991, 105 Stat. 658; Pub. L. 103–236, title I, §§137, 162(k)(4), 180(b), Apr. 30, 1994, 108 Stat. 397, 409, 416; Pub. L. 107–107, div. A, title VIII, §833, Dec. 28, 2001, 115 Stat. 1191.)
 
 #### References in Text
 
@@ -41,6 +43,8 @@ In subsec. (a), “section 501 of title 44” substituted for “section 11 of t
 Section was formerly classified to section 170g of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2001—Subsec. (n). Pub. L. 107–107 added subsec. (n).
 
 1994—Subsec. (c). Pub. L. 103–236, §§137, 180(b), which identically directed amendment of subsec. (c) by inserting before the period “; and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States”, were executed by making the insertion before the semicolon at end to reflect the probable intent of Congress.
 
@@ -56,7 +60,7 @@ Pub. L. 102–20 added subsec. (<i>l</i>) relating to purchase of special purpos
 
 Subsec. (c). Pub. L. 99–93, §118(a), inserted “for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad)”.
 
-1984—Subsec. (c). Pub. L. 98–533, §303(a)(1), substituted “individuals or organizations” for “aliens” after “employ”, and “, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government”.
+1984—Subsec. (c). Pub. L. 98–533, §303(a)(1), substituted “individuals or organizations” for “aliens” after “employ”, and “, and individuals employed bycontract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government”.
 
 Subsecs. (g), (h). Pub. L. 98–533, §303(a)(2), added subsecs. (g) and (h).
 

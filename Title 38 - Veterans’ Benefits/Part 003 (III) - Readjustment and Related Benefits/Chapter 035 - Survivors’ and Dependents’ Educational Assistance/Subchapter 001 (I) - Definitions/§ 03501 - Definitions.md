@@ -16,19 +16,19 @@
 
 &emsp;&emsp;(C) the spouse of any member of the Armed Forces serving on active duty who, at the time of application for benefits under this chapter is listed, pursuant to section 556 of title 37 and regulations issued thereunder, by the Secretary concerned in one or more of the following categories and has been so listed for a total of more than ninety days: (i) missing in action, (ii) captured in line of duty by a hostile force, or (iii) forcibly detained or interned in line of duty by a foreign government or power, or
 
-&emsp;&emsp;(D) the spouse of any person who has a total disability permanent in nature resulting from a service-connected disability, or the surviving spouse of a veteran who died while a disability so evaluated was in existence,
+&emsp;&emsp;(D)(i) the spouse of any person who has a total disability permanent in nature resulting from a service-connected disability, or (ii) the surviving spouse of a veteran who died while a disability so evaluated was in existence,
 
 > &emsp;arising out of active military, naval, or air service after the beginning of the Spanish-American War, but only if such service did not terminate under dishonorable conditions. The standards and criteria for determining whether or not a disability arising out of such service is service connected shall be those applicable under chapter 11 of this title.
 
 &emsp;(2) The term “child” includes individuals who are married and individuals who are above the age of twenty-three years.
 
-&emsp;(3) The term “duty with the Armed Forces” as used in section 3512 of this title means (A) active duty, (B) active duty for training for a period of six or more consecutive months, or\(C) active duty for training required by section 12103(d) of title 10.
+&emsp;(3) The term “duty with the Armed Forces” as used in section 3512 of this title means (A) active duty, (B) active duty for training for a period of six or more consecutive months, or (C) active duty for training required by section 12103(d) of title 10.
 
 &emsp;(4) The term “guardian” includes a fiduciary legally appointed by a court of competent jurisdiction, or any other person who has been appointed by the Secretary under section 5502 of this title to receive payment of benefits for the use and benefit of the eligible person.
 
 &emsp;(5) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill the requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. Such term also includes any preparatory course described in section 3002(3)(B) of this title. Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title.
 
-&emsp;(6) The term “educational institution” means any public or private secondary school, vocational school, correspondence school, business school, junior college, teachers’ college, college, normal school, professional school, university, or scientific or technical institution, or any other institution if it furnishes education at the secondary school level or above.
+&emsp;(6) The term “educational institution” means any public or private secondary school, vocational school, correspondence school, business school, junior college, teachers’ college, college, normal school, professional school, university, or scientific or technical institution, or any other institution if it furnishes education at the secondary school level or above. Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary).
 
 &emsp;(7) The term “special restorative training” means training furnished under subchapter V of this chapter.
 
@@ -46,7 +46,7 @@
 
 (d) No eligible person may be afforded educational assistance under this chapter unless such person was discharged or released after each period such person was on duty with the Armed Forces under conditions other than dishonorable, or while such person is on duty with the Armed Forces.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII,§702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(C), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title I, §§114(a), 122(a), Nov. 1, 2000, 114 Stat. 1833.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII, §702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(C), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title I, §§114(a), 122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §§108(a), 110(a), Dec. 27, 2001, 115 Stat. 985, 986.)
 
 #### References in Text
 
@@ -57,6 +57,10 @@ The National Apprenticeship Act, referred to in subsec. (a)(9), is act Aug. 16, 
 Prior sections 3501 to 3505 were renumbered sections 6101 to 6105 of this title, respectively.
 
 #### Amendments
+
+2001—Subsec. (a)(1)(D). Pub. L. 107–103, §108(a), inserted cl. (i) designation after “(D)” and cl. (ii) designation after “or”.
+
+Subsec. (a)(6). Pub. L. 107–103, §110(a), inserted at end “Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary).”
 
 2000—Subsec. (a)(5). Pub. L. 106–419, §122(a), inserted at end “Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title.”
 
@@ -126,7 +130,7 @@ Pub. L. 89–222 substituted “such service” the second time it appears for �
 
 Subsec. (a)(9). Pub. L. 89–349, §1(c), struck out provisions which included the period beginning Sept. 16, 1940, and ending Dec. 6, 1941, and the period beginning Jan. 1, 1947, and ending June 26, 1950, within the term “induction period”.
 
-Subsec. (d). Pub. L. 89–349, §1(d), substituted “after the beginning of the Spanish-American War and priorto the end of the induction period” for “during the Spanish-American War, World War I, World War II, the Korean conflict, or the induction period”.
+Subsec. (d). Pub. L. 89–349, §1(d), substituted “after the beginning of the Spanish-American War and prior to the end of the induction period” for “during the Spanish-American War, World War I, World War II, the Korean conflict, or the induction period”.
 
 1964—Subsec. (a)(1). Pub. L. 88–361, §1(a), included the child of a person who has a service-connected disability, or who died while such disability existed.
 
@@ -141,6 +145,10 @@ Subsec. (a)(9). Pub. L. 86–785, §2, added par. (9).
 Subsec. (d). Pub. L. 86–785, §3, substituted “the Korean conflict, or the induction period” for “or the Korean conflict”.
 
 1959—Subsecs. (a)(1), (d). Pub. L. 86–236 inserted reference to Spanish-American War.
+
+#### Effective Date of 2001 Amendment
+
+Amendment by section 110(a) of Pub. L. 107–103 applicable to enrollments in courses beginning on or after Dec. 27, 2001, see section 110(b) of Pub. L. 107–103, set out as a note under section 3452 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -182,5 +190,5 @@ The period referred to in section 1712 \[now 3512\] of this title as ending five
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3511, 3512, 3532, 3540, 3563, 3565, 3686, 3687, 3689, 5113, 7721 of this title; title 5 section 5924.
+This section is referred to in sections 3511, 3512, 3532, 3540, 3563, 3565, 3686, 3687, 3689, 5113 of this title; title 5 section 5924.
 

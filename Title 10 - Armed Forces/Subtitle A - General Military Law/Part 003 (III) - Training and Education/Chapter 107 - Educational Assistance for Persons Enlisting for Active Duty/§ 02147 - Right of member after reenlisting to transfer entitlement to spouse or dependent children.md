@@ -10,7 +10,7 @@
 
 (3) Any transfer of entitlement under this subsection shall be made in accordance with regulations prescribed by the Secretary of the military department concerned.
 
-(b) A spouse or surviving spouse or a dependent child to whom entitlement is transferred under subsection (a) is entitled to educational assistance under this chapter in the same manner and at the same rate as the person from whom the entitlement was transferred.
+(b) A spouse or surviving spouse or a dependent child to whom entitlement is transferred under subsection (a) is entitled to educationalassistance under this chapter in the same manner and at the same rate as the person from whom the entitlement was transferred.
 
 (c) The total amount of educational assistance available to a person entitled to educational assistance under section 2142 of this title and to the person's spouse, surviving spouse, and dependent children is the amount of educational assistance to which the person is entitled. If more than one person is being provided educational assistance for the same period by virtue of the entitlement of the same person, the subsistence allowance authorized by section 2144 of this title shall be divided in such manner as the person may specify or (if the person fails to specify) as the Secretary concerned may prescribe.
 

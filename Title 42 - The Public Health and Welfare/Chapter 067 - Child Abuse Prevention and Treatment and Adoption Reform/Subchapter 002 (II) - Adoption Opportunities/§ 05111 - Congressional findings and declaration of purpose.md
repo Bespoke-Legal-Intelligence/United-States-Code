@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) increasingly children entering foster care have complex problems which require intensive services;
 
-&emsp;(3) an increasing number of infants are born to mothers who did not receive prenatal care, are born addicted to alcohol and other drugs, and exposed to infection with the etiologic agent for the human immunodeficiency virus, are medically fragile, and technology dependent;
+&emsp;(3) an increasing number of infants are born to mothers who did not receive prenatal care,are born addicted to alcohol and other drugs, and exposed to infection with the etiologic agent for the human immunodeficiency virus, are medically fragile, and technology dependent;
 
 &emsp;(4) the welfare of thousands of children in institutions and foster homes and disabled infants with life-threatening conditions may be in serious jeopardy and some such children are in need of placement in permanent, adoptive homes;
 

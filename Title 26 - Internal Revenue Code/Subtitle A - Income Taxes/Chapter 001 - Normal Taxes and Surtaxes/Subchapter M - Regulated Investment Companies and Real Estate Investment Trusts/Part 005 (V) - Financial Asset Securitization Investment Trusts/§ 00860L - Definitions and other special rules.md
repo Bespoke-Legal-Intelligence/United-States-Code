@@ -54,7 +54,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term “regular interest” means any interest which is issued by a FASIT on or after the startup date with fixed terms and which is designated as a regular interest if—
+&emsp;&emsp;The term “regular interest” means any interest which is issued by a FASIT on or afterthe startup date with fixed terms and which is designated as a regular interest if—
 
 &emsp;&emsp;&emsp;(i) such interest unconditionally entitles the holder to receive a specified principal amount (or other similar amount),
 
@@ -142,7 +142,7 @@ For purposes of this part—
 
 #### (2) Treatment of property held on startup day
 
-&emsp;All property held (or treated as held under section 860I(b)(2)) by an entity as of the startup day shall be treated as contributed to such entity on such day by the holder of the ownership interest in such entity.
+&emsp;All property held (or treated as held under section 860I(b)(2)) by an entity as of the startup day shall be treated as contributed to suchentity on such day by the holder of the ownership interest in such entity.
 
 #### (e) Tax on prohibited transactions
 
@@ -236,7 +236,7 @@ Subsec. (e)(2)(A). Pub. L. 105–34, §1601(f)(6)(E)(ii), inserted “except as 
 
 Subsec. (e)(2)(B). Pub. L. 105–34, §1601(f)(6)(C), inserted “other than foreclosure property” after “any permitted asset”.
 
-Subsec. (e)(3)(A). Pub. L. 105–34, §1601(f)(6)(D), struck out “if the FASIT were treated as a REMIC and debt instruments described in subsection (c)(1)(B) were treated as qualified mortgages.” after “section 860F(a)(5),” in cl. (ii) and inserted concluding provisions “if the FASIT were treated as a REMIC and permitted assets (other than cash or cash equivalents) were treated as qualified mortgages.”
+Subsec. (e)(3)(A). Pub. L. 105–34, §1601(f)(6)(D), struck out “if the FASIT were treated as a REMIC and debtinstruments described in subsection (c)(1)(B) were treated as qualified mortgages.” after “section 860F(a)(5),” in cl. (ii) and inserted concluding provisions “if the FASIT were treated as a REMIC and permitted assets (other than cash or cash equivalents) were treated as qualified mortgages.”
 
 Subsec. (e)(3)(D). Pub. L. 105–34, §1601(f)(6)(E)(i), added subpar. (D).
 

@@ -12,7 +12,7 @@ For purposes of this subchapter, a community may be a city, county, or multicity
 
 (1) In the administration of the provisions of this section (subject to paragraph (2)), the Secretary shall, in consultation with the chief executive officer of the State involved if such State expends non-Federal funds to carry out Head Start programs, give priority in the designation of Head Start agencies to any local public or private nonprofit or for-profit agency which is receiving funds under any Head Start program on August 13, 1981, unless the Secretary determines that the agency involved fails to meet program and financial management requirements, performance standards described in section 9836a(a)(1) of this title, results-based performance measures developed by the Secretary under section 9836a(b) of this title, or other requirements established by the Secretary.
 
-(2) If there is no agency of the type referred to in paragraph (1) because of any change in the assistance furnished to programs for economically disadvantaged persons, the Secretary shall, in consultation with the chief executive officer of the State if such State expends non-Federalfunds to carry out Head Start programs, give priority in the designation of Head Start agencies to any successor agency that is operating a Head Start program in substantially the same manner as the predecessor agency that did receive funds in the fiscal year preceding the fiscal year for which the determination is made.
+(2) If there is no agency of the type referred to in paragraph (1) because of any change in the assistance furnished to programs for economically disadvantaged persons, the Secretary shall, in consultation with the chief executive officer of the State if such State expends non-Federal funds to carry out Head Start programs, give priority in the designation of Head Start agencies to any successor agency that is operating a Head Start program in substantially the same manner as the predecessor agency that did receive funds in the fiscal year preceding the fiscal year for which the determination is made.
 
 (3) Notwithstanding any other provision of this subsection, the Secretary shall not give such priority to any agency with respect to which financial assistance has been terminated, or an application for refunding has been denied, under this subchapter by the Secretary after affording such agency reasonable notice and opportunity for a full and fair hearing in accordance with section 9841(a)(3) of this title.
 
@@ -80,7 +80,7 @@ If the Secretary determines that a nonprofit agency and a for-profit agency have
 
 #### References in Text
 
-Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3), (4)(C), means part B of chapter 1 of title I of Pub. L. 89–10 which was classified generally to part B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6361 et seq. of Title 20.
+Part B of chapter 1 of title I of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3), (4)(C), means part B of chapter 1 of title I of Pub. L. 89–10 which was classified generally to part B (§2741 et seq.) of division 1 of subchapter I of chapter 47 of Title 20, Education, prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 6381 et seq. of Title 20.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -124,7 +124,7 @@ Subsec. (g). Pub. L. 105–285, §107(6), added subsec. (g).
 
 1994—Subsec. (b). Pub. L. 103–252, §107(a), inserted “(including Indians in any area designated by the Bureau of Indian Affairs as near-reservation)” after “Indian reservation”.
 
-Subsec. (c)(1). Pub. L. 103–252, §107(b)(2), (3), (5), inserted “(subject to paragraph (2))” after “the provisions of this section”, struck out subpar. (A), inserted “the Secretary makes a finding that the agency involved fails to meet program, financial management, and other requirements established by the Secretary.” after “unless”, and redesignated subpar. (B) as par. (2) and concluding provisions as par. (3).
+Subsec. (c)(1). Pub. L. 103–252, §107(b)(2), (3), (5), inserted “(subject to paragraph (2))” after “the provisions of this section”, struck out subpar. (A), inserted“the Secretary makes a finding that the agency involved fails to meet program, financial management, and other requirements established by the Secretary.” after “unless”, and redesignated subpar. (B) as par. (2) and concluding provisions as par. (3).
 
 Subsec. (c)(2). Pub. L. 103–252, §107(b)(1), (3), (4), (6), redesignated par. (1)(B) as (2) and realigned margins, substituted “If” for “except that, if” and “paragraph (1)” for “subparagraph (A)”, and struck out former par. (2) which read as follows:
 
@@ -136,7 +136,7 @@ Subsec. (c)(2). Pub. L. 103–252, §107(b)(1), (3), (4), (6), redesignated par.
 
 Subsec. (c)(3). Pub. L. 103–252, §107(b)(1), (5), redesignated concluding provisions of par. (1) as (3), substituted “this subsection” for “this paragraph”, and struck out former par. (3) which read as follows: “In carrying out a review of each Head Start agency under paragraph (2), the Secretary shall—
 
-&emsp;“(A) to the maximum extent practicable, carry out such review by using employees of the Department ofHealth and Human Services who are knowledgeable about Head Start programs;
+&emsp;“(A) to the maximum extent practicable, carry out such review by using employees of the Department of Health and Human Services who are knowledgeable about Head Start programs;
 
 &emsp;“(B) ensure that an employee of the Department of Health and Human Services who is knowledgeable about Head Start programs supervises such review at the site of such agency;
 

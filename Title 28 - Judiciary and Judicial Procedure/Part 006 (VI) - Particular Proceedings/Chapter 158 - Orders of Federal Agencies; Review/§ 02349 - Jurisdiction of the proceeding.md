@@ -24,7 +24,7 @@ Sept. 13, 1961, Pub. L. 87–225, §1, 75 Stat. 497.
 
 The headnotes of the subsections are omitted as unnecessary and to conform to the style of title 28.
 
-In subsection (a), the words “has jurisdiction” and “has exclusive jurisdiction” are substituted for “shall have jurisdiction” and “shall have exclusive jurisdiction”, respectively. The words “previously granted” are substituted for “theretofore granted” as the preferred expression.
+In subsection (a), the words “has jurisdiction” and “has exclusive jurisdiction” are substituted for “shall have jurisdiction” and “shall have exclusive jurisdiction”, respectively. The words “previously granted”are substituted for “theretofore granted” as the preferred expression.
 
 In subsection (b), the words “does not” are substituted for “shall not”. The words “of the United States” following “Attorney General” are omitted as unnecessary. The words “In a case in which” are substituted for “In cases where”. The word “result” is substituted for “ensue”. In the fourth sentence, the words “provided for above” following the last word “application” are omitted as unnecessary. In the last sentence, the word “applies” is substituted for “shall apply”.
 

@@ -58,7 +58,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(ii) all right, title, and interest held by any entity other than the Times Mirror Land and Timber Company, its successors and assigns, in and to lands located in section 18, township 8 south, range 5 east, Marion County, Oregon, Eureka numbers 6, 7, 8, and 13 mining claims; and
 
-&emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited toadministrative use if an alternative access route, adequate and appropriate for public use, is provided.
+&emsp;&emsp;&emsp;(iii) an easement across the Hewitt, Starvation, and Poor Boy Mill Sites, mineral survey number 990, as described in patent number 36–91–0017, dated May 9, 1991. In the sole discretion of the Secretary, such easement may be limited to administrative use if an alternative access route, adequate and appropriate for public use, is provided.
 
 &emsp;&emsp;(B) a binding agreement has been executed by the Secretary and the owners of record as of March 29, 1996, of the following interests, specifying the terms and conditions for the disposition of such interests to the United States Government—
 
@@ -248,7 +248,7 @@ The purposes of this section are—
 
 &emsp;&emsp;(D) 1 member from a city within a 25-mile radius of the Opal Creek Scenic Recreation Area, to be designated by the Governor of the State of Oregon from a list of candidates provided by the mayors of the cities located within a 25-mile radius of the Opal Creek Scenic Recreation Area; and
 
-&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal Creek Wilderness and Scenic Recreation Area, economic development interests and Indian tribes.
+&emsp;&emsp;(E) not more than 9 members shall be appointed by the Secretary from among persons who, individually or through association with a national or local organization, have an interest in the administration of the Scenic Recreation Area, including, but not limited to, representatives of the timber industry, environmental organizations, the mining industry, inholders in the Opal CreekWilderness and Scenic Recreation Area, economic development interests and Indian tribes.
 
 #### (3) Staggered terms
 
@@ -298,7 +298,7 @@ The purposes of this section are—
 
 #### (B) Liability
 
-&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsibleparty to recover costs related to the release, threatened release, or cleanup of any hazardous substance or pollutant or contaminant in the Scenic Recreation Area.
+&emsp;&emsp;Nothing in this section shall limit the authority of the Secretary or a responsible party to recover costs related to the release, threatened release, or cleanup of any hazardous substance or pollutant or contaminant in the Scenic Recreation Area.
 
 #### (3) Maps and description
 

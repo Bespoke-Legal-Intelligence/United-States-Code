@@ -52,7 +52,7 @@ With respect to any funds reallocated under section 1070b–3(e) <sup>1</sup> o
 
 #### (c) Delay of effective date of late publications
 
-(1) Except as provided in paragraph (2), any regulatory changes initiated by the Secretary affecting the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 that have not been published in final form by November 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such November 1 date.
+(1) Except as provided in paragraph (2), any regulatory changes initiated by the Secretaryaffecting the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 that have not been published in final form by November 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such November 1 date.
 
 (2)(A) The Secretary may designate any regulatory provision that affects the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 and is published in final form after November 1 as one that an entity subject to the provision may, in the entity's discretion, choose to implement prior to the effective date described in paragraph (1). The Secretary may specify in the designation when, and under what conditions, an entity may implement the provision prior to that effective date. The Secretary shall publish any designation under this subparagraph in the Federal Register.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1987 Amendment
 

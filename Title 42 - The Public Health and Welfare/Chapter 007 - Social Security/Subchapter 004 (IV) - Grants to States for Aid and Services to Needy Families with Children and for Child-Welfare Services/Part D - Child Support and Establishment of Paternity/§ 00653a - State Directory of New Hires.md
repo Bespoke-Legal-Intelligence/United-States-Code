@@ -98,7 +98,7 @@ Information shall be entered into the data base maintained by the State Director
 
 #### (B) Wage and unemployment compensation information
 
-&emsp;&emsp;The State Directory of New Hires shall, on a quarterly basis, furnish to the National Directory of New Hires information concerning the wages and unemployment compensation paid to individuals, by such dates, in such format, and containing such information asthe Secretary of Health and Human Services shall specify in regulations.
+&emsp;&emsp;The State Directory of New Hires shall, on a quarterly basis, furnish to the National Directory of New Hires information concerning the wages and unemployment compensation paid to individuals, by such dates, in such format, and containing such information as the Secretary of Health and Human Services shall specify in regulations.
 
 #### (3) “Business day” defined
 

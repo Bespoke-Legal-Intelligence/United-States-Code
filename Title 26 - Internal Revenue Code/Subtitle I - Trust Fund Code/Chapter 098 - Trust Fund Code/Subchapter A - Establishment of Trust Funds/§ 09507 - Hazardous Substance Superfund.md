@@ -48,7 +48,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 &emsp;&emsp;(A) the transfer or disposal, if made on December 13, 1985, would not comply with a State or local requirement,
 
-&emsp;&emsp;(B) the transfer is to a facility for which a final permit under section 3005(a) of theSolid Waste Disposal Act was issued after January 1, 1983, and before November 1, 1984, and
+&emsp;&emsp;(B) the transfer is to a facility for which a final permit under section 3005(a) of the Solid Waste Disposal Act was issued after January 1, 1983, and before November 1, 1984, and
 
 &emsp;&emsp;(C) the transfer is from a facility identified as the McColl Site in Fullerton, California.
 
@@ -126,7 +126,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 “(2)
 
-Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous SubstanceResponse Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
+Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
 
 #### Authorization of Appropriations
 

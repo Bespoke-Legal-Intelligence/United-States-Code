@@ -16,9 +16,13 @@ Par. (2). Pub. L. 106–181, §605(b)(2), which directed the striking of “coop
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
 
 #### Transfer of Functions
 
 Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. For further details, see note set out under section 851 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 49 section 44721.
 

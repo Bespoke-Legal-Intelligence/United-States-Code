@@ -26,7 +26,7 @@ Except as otherwise provided in subsection (d) of this section, the Secretary in
 
 &emsp;&emsp;(iii) a recommended strategy for the management of fish and wildlife populations within the region to accommodate such subsistence uses and needs; and
 
-&emsp;&emsp;(iv) recommendations concerning policies, standards, guidelines, and regulations to implement the strategy. The State fish and game advisory committees or such local advisory committees as the Secretary may establish pursuant to paragraph (2) of this subsection may provide advice to, and assist, the regional advisory councils in carrying out the functions set forth in this paragraph.
+&emsp;&emsp;(iv) recommendations concerning policies, standards, guidelines, and regulations to implement the strategy. The State fish and game advisory committees or such local advisory committees as the Secretary may establish pursuant to paragraph (2) of this subsection may provide advice to, and assist,the regional advisory councils in carrying out the functions set forth in this paragraph.
 
 #### (b) Assignment of staff and distribution of data
 
@@ -64,7 +64,7 @@ Until laws are adopted in Alaska which provide for definition, preference, and p
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

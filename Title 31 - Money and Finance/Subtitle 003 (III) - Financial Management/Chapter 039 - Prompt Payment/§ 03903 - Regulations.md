@@ -36,7 +36,7 @@
 
 &emsp;(7) require that—
 
-&emsp;&emsp;(A) each invoice be reviewed as soon as practicable after receipt for the purpose of determining that such an invoice is a proper invoice within the meaning of section 3901(a)(3) of this title;
+&emsp;&emsp;(A) each invoice be reviewed as soon as practicable after receipt for the purpose of determining that such an invoice is a properinvoice within the meaning of section 3901(a)(3) of this title;
 
 &emsp;&emsp;(B) any invoice determined not to be such a proper invoice suitable for payment shall be returned as soon as practicable, but not later than 7 days, after receipt, specifying the reasons that the invoice is not a proper invoice; and
 
@@ -110,7 +110,7 @@ Subsec. (a)(5). Pub. L. 100–496, §5(2), added par. (5). Former par. (5) redes
 
 Subsec. (a)(6). Pub. L. 100–496, §6(2), added par. (6).
 
-Subsec. (a)(7). Pub. L. 100–496, §7, added par. (7) and struck out former par. (7), which read as follows: “require that, within 15 days after an invoice is received, the head of an agency notify the business concern of a defect or impropriety in the invoice that would prevent the running of the time period specified in clause (1)(B) of this section.”
+Subsec. (a)(7). Pub. L. 100–496, §7, added par. (7) and struck out former par. (7), which read as follows: “require that, within 15 days after an invoice is received,the head of an agency notify the business concern of a defect or impropriety in the invoice that would prevent the running of the time period specified in clause (1)(B) of this section.”
 
 Pub. L. 100–496, §5(1), redesignated par. (5) as (7).
 
@@ -126,7 +126,7 @@ Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, c
 
 Section 11 of Pub. L. 100–496 provided that:
 
-“(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under section 3901 of this title\], and the regulations prescribed under section 3903 of such title (as amended).
+“(a) The Federal Acquisition Regulation shall be modified to provide appropriate solicitation provisions and contract clauses that implement chapter 39 of title 31, United States Code, as amended by this Act \[see Short Title of 1988 Amendment note set out under section 3901 of this title\], and the regulations prescribed under section 3903 of such title (as amended).
 
 “(b) The solicitation provisions and contract clauses required by subsection (a) of this section shall include (but not be limited to) the following matters:
 

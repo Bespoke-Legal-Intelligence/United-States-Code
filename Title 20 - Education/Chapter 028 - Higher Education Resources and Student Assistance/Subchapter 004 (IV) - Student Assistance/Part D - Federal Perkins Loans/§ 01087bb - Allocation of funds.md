@@ -260,7 +260,7 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 #### Prior Provisions
 
-A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86Stat. 273; amended Pub. L. 96–374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 96–374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -422,7 +422,7 @@ Subsec. (f). Pub. L. 100–50, §13(d), substituted “subsection (g) of this se
 
 Pub. L. 105–244, title IV, §462(a)(3), Oct. 7, 1998, 112 Stat. 1721, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to allocations of amounts appropriated pursuant to section 461(b) \[20 U.S.C. 1087aa(b)\] for fiscal year 2000 or any succeeding fiscal year.”
 
-Amendment by section 462(b)–(e) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+Amendment by section 462(b)–(e) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub.L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1993 Amendment
 

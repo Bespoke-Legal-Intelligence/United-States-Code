@@ -38,7 +38,7 @@ The use of the seal provided under subsection (a) of this section with respect t
 
 #### (1) Jurisdiction
 
-&emsp;The several district courts of the United States shall have jurisdiction, for causeshown, to prevent and restrain violations of subsection (d) of this section.
+&emsp;The several district courts of the United States shall have jurisdiction, for cause shown, to prevent and restrain violations of subsection (d) of this section.
 
 #### (2) Relief
 

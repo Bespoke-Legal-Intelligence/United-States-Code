@@ -44,7 +44,7 @@ Each S corporation required to file a return under subsection (a) for any taxabl
 
 &emsp;&emsp;(B) in which the shareholder does not comply with subparagraph (A)(ii) of paragraph (2),
 
-> &emsp;any adjustment required to make the treatment of the items by such shareholder consistent with the treatment of the items on the corporate return shall be treated as arising out of mathematical or clerical errors and assessed according to section 6213(b)(1). Paragraph (2) of section 6213(b) shall not apply to any assessment referred to in the preceding sentence.
+> &emsp;any adjustment required to make the treatment of the items by such shareholder consistent with the treatment of the items on the corporate return shall be treated as arising out of mathematical or clerical errors and assessed according to section 6213(b)(1). Paragraph (2) of section 6213(b) shall not apply toany assessment referred to in the preceding sentence.
 
 #### (4) Subchapter S item
 

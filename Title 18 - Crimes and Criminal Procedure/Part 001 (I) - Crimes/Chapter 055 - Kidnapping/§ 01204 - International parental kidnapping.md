@@ -18,7 +18,7 @@
 
 &emsp;(2) the defendant was fleeing an incidence or pattern of domestic violence;
 
-&emsp;(3) the defendant had physical custody of the child pursuant to a court order granting legalcustody or visitation rights and failed to return the child as a result of circumstances beyond the defendant's control, and the defendant notified or made reasonable attempts to notify the other parent or lawful custodian of the child of such circumstances within 24 hours after the visitation period had expired and returned the child as soon as possible.
+&emsp;(3) the defendant had physical custody of the child pursuant to a court order granting legal custody or visitation rights and failed to return the child as a result of circumstances beyond the defendant's control, and the defendant notified or made reasonable attempts to notify the other parent or lawful custodian of the child of such circumstances within 24 hours after the visitation period had expired and returned the child as soon as possible.
 
 (d) This section does not detract from The Hague Convention on the Civil Aspects of International Parental Child Abduction, done at The Hague on October 25, 1980.
 

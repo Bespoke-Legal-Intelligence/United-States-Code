@@ -60,7 +60,7 @@ Pub. L. 90–7, Apr. 1, 1967, 81 Stat. 7, provided: “That the Congress approve
 
 “The Congress endorses the President's policy of equal participation on the part of the United States with all other nations, under terms and conditions set forth in Public Law 480, as amended \[this chapter\], in assisting the Government of India to meet these needs.
 
-“Further, the Congress recommends, on the basis of estimates now available, that the United States provide an additional amount of food grain not to exceedthree million tons at an estimated cost of $190,000,000 as the United States share toward meeting the India food deficit, provided it is appropriately matched, and specifically extends its support to the allocation of approximately $190,000,000 of funds available to the Commodity Credit Corporation in calendar year 1967 which will be required to accomplish this purpose.
+“Further, the Congress recommends, on the basis of estimates now available, that the United States provide an additional amount of food grain not to exceed three million tons at an estimated cost of $190,000,000 as the United States share toward meeting the India food deficit, provided it is appropriately matched, and specifically extends its support to the allocation of approximately $190,000,000 of funds available to the Commodity Credit Corporation in calendar year 1967 which will be required to accomplish this purpose.
 
 “The Congress further recommends that the President provide an additional $25,000,000 of emergency food relief for distribution by CARE and other American voluntary agencies.”
 

@@ -18,7 +18,7 @@
 
 In determining the overtime pay to which the laborer or mechanic is entitled under any Federal law, his regular or basic hourly rate of pay (or other alternative rate upon which premium rate of overtime compensation is computed) shall be deemed to be the rate computed under paragraph (1), except that where the amount of payments, contributions, or costs incurred with respect to him exceeds the prevailing wage applicable to him under sections 276a to 276a–5 of this title, such regular or basic hourly rate of pay (or such other alternative rate) shall be arrived at by deducting from the amount of payments, contributions, or costs actually incurred with respect to him, the amount of contributions or costs of the types described in paragraph (2) actually incurred with respect to him, or the amount determined under paragraph (2) but not actually paid, whichever amount is the greater.
 
-(Mar. 3, 1931, ch. 411, §1, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1011; June 15, 1940, ch. 373, §1, 54 Stat. 399; Pub. L. 86–624, §26, July 12, 1960,74 Stat. 418; Pub. L. 88–349, §1, July 2, 1964, 78 Stat. 238.)
+(Mar. 3, 1931, ch. 411, §1, 46 Stat. 1494; Aug. 30, 1935, ch. 825, 49 Stat. 1011; June 15, 1940, ch. 373, §1, 54 Stat. 399; Pub. L. 86–624, §26, July 12, 1960, 74 Stat. 418; Pub. L. 88–349, §1, July 2, 1964, 78 Stat. 238.)
 
 #### Amendments
 
@@ -58,5 +58,5 @@ Effect of rule 24 on this section, see note by Advisory Committee under that rul
 
 #### Act Referred to in Other Sections
 
-The Davis-Bacon Act \[40 U.S.C. 276a to 276a–5\] is referred to in sections 276a–7, 276d–1, 276d–2, 808 of this title; title 10 section 2304; title 12 sections 1701q, 1715c; title 15 section 3152; title 16 section 284c; title 20 sections 954, 956, 1232b, 4305, 4332, 8509; title 23 section 113; title 25 sections 450e, 458, 458aaa–8, 1633, 4114, 4225; title 29 sections 251 to 256, 258, 259, 262; title 31 section 6703; title 33 section 1372; title 38 sections 8135, 8162; title 39 section 410; title 40 App. section 402; title 41 section 42; title 42 sections 291e, 300j–9, 300s–1, 300t–12, 1437j, 1440, 1486, 1592i, 2297g–3, 2992a, 3027, 3107, 3212, 3936, 4728, 5046, 5196, 5310, 5919, 6042, 6063, 6371j, 6708, 6728, 6881, 6979, 7614, 8013, 9604, 9839, 12836; title 49 sections 5333, 24312, 47112; title 50 App. sections 2095, 2096.
+The Davis-Bacon Act \[40 U.S.C. 276a to 276a–5\] is referred to in sections 276a–7, 276d–1, 276d–2, 808 of this title; title 10 section 2304; title 12 sections 1701q, 1715c; title 15 section 3152; title 16 section 284c; title 20 sections 954, 956, 1232b, 4305, 4332; title 23 section 113; title 25 sections 450e, 458, 458aaa–8, 1633, 4114, 4225; title 29 sections 251 to 256, 258, 259, 262; title 31 section 6703; title 33 section 1372; title 38 sections 8135, 8162; title 39 section 410; title 40 App. section 402; title 41 section 42; title 42 sections 291e, 300j–9, 300s–1, 300t–12, 1437j, 1440, 1486, 1592i, 2297g–3, 2992a, 3107, 3212, 3936, 4728, 5046, 5196, 5310, 5919, 6042, 6063, 6371j, 6708, 6728, 6881, 6979, 7614, 8013, 9604, 9839, 12836; title 49 sections 5333, 24312, 47112; title 50 App. sections 2095, 2096.
 

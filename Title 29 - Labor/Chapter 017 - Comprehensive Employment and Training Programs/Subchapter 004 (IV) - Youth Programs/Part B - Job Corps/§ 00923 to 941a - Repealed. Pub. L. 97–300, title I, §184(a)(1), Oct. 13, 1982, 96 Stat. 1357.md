@@ -64,7 +64,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 935, Pub. L. 93–203, title IV, §462, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1998; amended Pub. L. 96–583, §3(c), Dec. 23, 1980, 94 Stat. 3376, related to experimental and developmental projects in furtherance of Job Corps program.
 
-Provisions similar to those comprising this section were contained in former section 923 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524
+Provisions similar to those comprising this section were contained in former section 923 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 936, Pub. L. 93–203, title IV, §463, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1998, related to advisory boards and committees in connection with the operation of Job Corps.
 

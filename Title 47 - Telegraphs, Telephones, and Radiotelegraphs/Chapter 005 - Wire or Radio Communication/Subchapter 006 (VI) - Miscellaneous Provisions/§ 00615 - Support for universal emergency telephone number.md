@@ -26,7 +26,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(5) emergency care systems, particularly in rural areas of the Nation, will improve with the enabling of prompt notification of emergency services when motor vehicle crashes occur; and
 
-&emsp;“(6) the construction and operation of seamless, ubiquitous, and reliable wireless telecommunicationssystems promote public safety and provide immediate and critical communications links among members of the public; emergency medical service providers and emergency dispatch providers; public safety, fire service and law enforcement officials; transportation officials, and hospital emergency and trauma care facilities.
+&emsp;“(6) the construction and operation of seamless, ubiquitous, and reliable wireless telecommunications systems promote public safety and provide immediate and critical communications links among members of the public; emergency medical service providers and emergency dispatch providers; public safety, fire service and law enforcement officials; transportation officials, and hospital emergency and trauma care facilities.
 
 “(b)
 

@@ -2,7 +2,7 @@
 
 (a) The indenture trustee shall be authorized—
 
-&emsp;(1) ,<sup>1</sup> in the case of a default in payment of the principal of any indenture security, when and as the same shall become due and payable, or in the case of a default in payment of the interest on any such security, when and as the same shall become due and payable and thecontinuance of such default for such period as may be prescribed in such indenture, to recover judgment, in its own name and as trustee of an express trust, against the obligor upon the indenture securities for the whole amount of such principal and interest remaining unpaid; and
+&emsp;(1) ,<sup>1</sup> in the case of a default in payment of the principal of any indenture security, when and as the same shall become due and payable, or in the case of a default in payment of the interest on any such security, when and as the same shall become due and payable and the continuance of such default for such period as may be prescribed in such indenture, to recover judgment, in its own name and as trustee of an express trust, against the obligor upon the indenture securities for the whole amount of such principal and interest remaining unpaid; and
 
 &emsp;(2) to file such proofs of claim and other papers or documents as may be necessary or advisable in order to have the claims of such trustee and of the indenture security holders allowed in any judicial proceedings relative to the obligor upon the indenture securities, its creditors, or its property.
 

@@ -2,7 +2,7 @@
 
 #### (a) Notice of receipt of applications
 
-Not later than 30 days before the start of each period established by the Corporate Board forreceipt of applications for financial assistance under section 5904 or 5905 of this title, the Corporate Board shall publish in the Federal Register a notice that it will receive such applications.
+Not later than 30 days before the start of each period established by the Corporate Board for receipt of applications for financial assistance under section 5904 or 5905 of this title, the Corporate Board shall publish in the Federal Register a notice that it will receive such applications.
 
 #### (b) Monitoring
 

@@ -28,7 +28,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 #### (c) Issuance of citations
 
-If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation tothe owner or operator of such vessel in lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
+If any officer authorized to enforce the provisions of this chapter (as provided for in this section) finds that a fishing vessel is operating or has been operated in violation of any provision of this chapter, such officer may, in accordance with regulations issued jointly by the Secretary and the Secretary of the department in which the Coast Guard is operating, issue a citation to the owner or operator of such vessel in lieu of proceeding under subsection (b) of this section. If a permit has been issued pursuant to this chapter for such vessel, such officer shall note the issuance of any citation under this subsection, including the date thereof and the reason therefor, on the permit. The Secretary shall maintain a record of all citations issued pursuant to this subsection.
 
 #### (d) Jurisdiction of courts
 
@@ -50,7 +50,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(B) a reward of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount, to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter or any other marine resource law enforced by the Secretary;
 
-&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
+&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, andcontracting services directly related to such investigations or proceedings;
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
@@ -92,7 +92,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (D) Meetings
 
-&emsp;&emsp;The working group shall meet, at the call of the Commander, at least 4 times eachyear. The meetings shall be held at various major fishing ports in States represented on the New England Fishery Management Council, as specified by the Commander.
+&emsp;&emsp;The working group shall meet, at the call of the Commander, at least 4 times each year. The meetings shall be held at various major fishing ports in States represented on the New England Fishery Management Council, as specified by the Commander.
 
 #### (4) Use of fines and penalties
 

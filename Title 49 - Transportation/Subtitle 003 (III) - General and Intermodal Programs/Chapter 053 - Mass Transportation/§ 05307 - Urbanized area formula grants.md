@@ -42,7 +42,7 @@ Public Participation Requirements.—Each recipient of a grant shall—
 
 &emsp;(4) provide an opportunity for a public hearing in which to obtain the views of citizens on the proposed program of projects;
 
-&emsp;(5) ensure that the proposed program of projects provides for the coordination of masstransportation services assisted under section 5336 of this title with transportation services assisted from other United States Government sources;
+&emsp;(5) ensure that the proposed program of projects provides for the coordination of mass transportation services assisted under section 5336 of this title with transportation services assisted from other United States Government sources;
 
 &emsp;(6) consider comments and views received, especially those of private transportation providers, in preparing the final program of projects; and
 
@@ -86,7 +86,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 (e)
 
-Government's Share of Costs.—A grant of the Government for a capital project (including associated capital maintenance items) under this section is for 80 percent of the net project cost of the project. A recipient may provide additional local matching amounts. A grant for operating expenses may not be more than 50 percent of the net project cost of the project. The remainder of the net project cost shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation (excluding revenues derived from the sale of advertising and concessions that are more than the amount of those revenues in the fiscal year that ended September 30, 1985). Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+Government's Share of Costs.—A grant of the Government for a capital project (including associated capital maintenance items) under this section is for 80 percent of the net project cost of the project. A recipient may provide additional local matching amounts. A grant for operating expenses may not be more than 50 percent of the net project cost of the project. The remainder of the net project cost shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation (excluding revenues derived from the sale of advertising and concessions that are more than the amount of those revenues in the fiscal year that ended September 30, 1985). Transit system amounts that make up the remainder shall be from an undistributed cashsurplus, a replacement or depreciation cash fund or reserve, or new capital.
 
 (f)
 
@@ -154,7 +154,7 @@ Report.—A recipient of funds apportioned under paragraph (1) shall submit, as 
 
 (<i>l</i>)
 
-Procurement System Approval.—A recipient may request the Secretary to approve its procurement system. The Secretary shall approve the system for use for procurements financed under section 5336 of this title if, after consulting with the Administrator for Federal Procurement Policy, the Secretary decides the system provides for competitive procurement. Approval of a system under this subsection does not relieve a recipient of the duty to certify under subsection (d)(1)(E) of this section.
+Procurement System Approval.—A recipient may request the Secretary to approve its procurement system. The Secretary shall approve the system for use for procurements financed under section 5336 of this title if, after consulting with the Administrator for Federal Procurement Policy, the Secretary decides the system provides for competitive procurement.Approval of a system under this subsection does not relieve a recipient of the duty to certify under subsection (d)(1)(E) of this section.
 
 (m)
 
@@ -416,7 +416,7 @@ Subsec. (d)(1)(E)(iii). Pub. L. 103–429, §6(7)(B), substituted “Buy America
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1996 Amendment
 
@@ -484,7 +484,7 @@ Contents.—The report submitted under paragraph (1) shall include—
 
 #### Continuation of Operating Assistance to Certain Larger Urbanized Areas
 
-Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(<i>o</i>)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32, provided that:
+Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(<i>o</i>)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat.2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32, provided that:
 
 “(1)
 

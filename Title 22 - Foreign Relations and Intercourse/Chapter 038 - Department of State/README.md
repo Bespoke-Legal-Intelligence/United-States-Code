@@ -76,7 +76,7 @@
 | (b) | Removal of outstanding charges. |
 | (c) | Financial liability of disbursing agent or official. |
 | [2668a.](%C2%A7%2002668a%20-%20Disposition%20of%20trust%20funds%20received%20from%20foreign%20governments%20for%20citizens%20of%20United%20States.md) | Disposition of trust funds received from foreign governments for citizens of United States. |
-| [2669\.](%C2%A7%2002669%20-%20Printing%20and%20binding%20outside%20continental%20United%20States%3B%20settlement%20and%20payment%20of%20claims%20by%20foreign%20governments%3B%20employment%20of%20aliens%E2%80%A6.md) | Printing and binding outside continental United States; settlement and payment of claims by foreign governments; employment of aliens; official functions and courtesies; purchase of uniforms; payment of tort claims; payment of assumed obligations in Germany; telecommunications services; security. |
+| [2669\.](%C2%A7%2002669%20-%20Printing%20and%20binding%20outside%20continental%20United%20States%3B%20settlement%20and%20payment%20of%20claims%20by%20foreign%20governments%3B%20employment%20of%20aliens%E2%80%A6.md) | Printing and binding outside continental United States; settlement and payment of claims by foreign governments; employment of aliens; official functions and courtesies; purchase of uniforms; payment of tort claims; payment of assumed obligations in Germany; telecommunications services; security; special purpose passenger motor vehicles; pay obligations arising under international conventions or contracts; personal service contracts. |
 | 2669–1. | Payment of tort claims arising in connection with overseas operations. |
 | [2669a.](%C2%A7%2002669a%20-%20Diplomatic%20Telecommunications%20Service.md) | Diplomatic Telecommunications Service. |
 | (a) | Diplomatic Telecommunications Service financial management. |
@@ -279,7 +279,7 @@
 | [2724\.](%C2%A7%2002724%20-%20Fees%20for%20commercial%20services.md) | Fees for commercial services. |
 | (a) | Authority to charge fee. |
 | (b) | Use of fees. |
-| [2725\.](%C2%A7%2002725%20-%20Fees%20for%20use%20of%20National%20Foreign%20Affairs%20Training%20Center.md) | Fees for use of National Foreign Affairs Training Center. |
+| [2725\.](%C2%A7%2002725%20-%20Fees%20for%20use%20of%20the%20George%20P.%20Shultz%20National%20Foreign%20Affairs%20Training%20Center.md) | Fees for use of the George P. Shultz National Foreign Affairs Training Center. |
 | [2726\.](%C2%A7%2002726%20-%20Fee%20for%20use%20of%20diplomatic%20reception%20rooms.md) | Fee for use of diplomatic reception rooms. |
 | [2727\.](%C2%A7%2002727%20-%20Accounting%20of%20collections%20in%20budget%20presentation%20documents.md) | Accounting of collections in budget presentation documents. |
 | [2728\.](%C2%A7%2002728%20-%20Crimes%20committed%20by%20diplomats.md) | Crimes committed by diplomats. |
@@ -402,7 +402,7 @@
 - [&sect; 02722 - International meetings](%C2%A7%2002722%20-%20International%20meetings.md)
 - [&sect; 02723 - Denial of visas](%C2%A7%2002723%20-%20Denial%20of%20visas.md)
 - [&sect; 02724 - Fees for commercial services](%C2%A7%2002724%20-%20Fees%20for%20commercial%20services.md)
-- [&sect; 02725 - Fees for use of National Foreign Affairs Training Center](%C2%A7%2002725%20-%20Fees%20for%20use%20of%20National%20Foreign%20Affairs%20Training%20Center.md)
+- [&sect; 02725 - Fees for use of the George P. Shultz National Foreign Affairs Training Center](%C2%A7%2002725%20-%20Fees%20for%20use%20of%20the%20George%20P.%20Shultz%20National%20Foreign%20Affairs%20Training%20Center.md)
 - [&sect; 02726 - Fee for use of diplomatic reception rooms](%C2%A7%2002726%20-%20Fee%20for%20use%20of%20diplomatic%20reception%20rooms.md)
 - [&sect; 02727 - Accounting of collections in budget presentation documents](%C2%A7%2002727%20-%20Accounting%20of%20collections%20in%20budget%20presentation%20documents.md)
 - [&sect; 02728 - Crimes committed by diplomats](%C2%A7%2002728%20-%20Crimes%20committed%20by%20diplomats.md)

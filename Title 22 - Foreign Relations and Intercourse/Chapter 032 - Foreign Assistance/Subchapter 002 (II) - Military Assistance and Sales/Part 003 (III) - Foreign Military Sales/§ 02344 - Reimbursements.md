@@ -26,7 +26,7 @@ Section was formerly classified to section 2316 of this title.
 
 1967—Pub. L. 90–137 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1966—Pub. L. 89–583 provided for transfer to and merger with the separate fund account of such amounts ofavailable appropriations (including unliquidated balances of funds heretofore obligated for financing sales and guarantees) as is determined by the President.
+1966—Pub. L. 89–583 provided for transfer to and merger with the separate fund account of such amounts of available appropriations (including unliquidated balances of funds heretofore obligated for financing sales and guarantees) as is determined by the President.
 
 1965—Pub. L. 89–171 inserted “receipts received from the disposition of evidences of indebtedness and charges (including fees and premiums) or interest collected” and substituted “have been or are used” for “are used” and “financing sales and guaranties, including the overhead costs thereof” for “furnishing further military assistance on cash or credit terms.”
 
@@ -40,7 +40,7 @@ Determinations, authorizations, regulations, orders, contracts, agreements, and 
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Increases in Military Assistance Programs; Reports to Congress on Presidential Determinations
 

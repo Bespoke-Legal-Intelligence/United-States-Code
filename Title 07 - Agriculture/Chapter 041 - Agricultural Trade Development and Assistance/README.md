@@ -821,7 +821,7 @@ Exemption from requirements of OMB circular.
 
 |  |  |
 | :--- | ---: |
-| [1737\.](Subchapter%20005%20%28V%29%20-%20Farmer-to-Farmer%20Program/%C2%A7%2001737%20-%20Farmer-to-farmer%20program.md) | Farmer-to-farmer program. |
+| [1737\.](Subchapter%20005%20%28V%29%20-%20Farmer-to-Farmer%20Program/%C2%A7%2001737%20-%20John%20Ogonowski%20Farmer-to-Farmer%20Program.md) | John Ogonowski Farmer-to-Farmer Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -836,6 +836,10 @@ Definitions.
 (c)
 
 Minimum funding.
+
+(d)
+
+Designation of program.
 
 #### SUBCHAPTER VI—ENTERPRISE FOR THE AMERICAS INITIATIVE
 

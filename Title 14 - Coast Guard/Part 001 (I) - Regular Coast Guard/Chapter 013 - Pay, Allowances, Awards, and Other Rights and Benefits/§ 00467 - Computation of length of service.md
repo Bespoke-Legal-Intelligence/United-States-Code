@@ -1,6 +1,6 @@
 ### §467. Computation of length of service
 
-In computing length of service of officers and enlisted personnel for any purpose all creditable service in the Army, Navy, Marine Corps, Air Force, Coast Guard, Revenue Cutter Service, and Life Saving Service shall be included in addition to any other creditable service authorized by any other law.
+In computing length of service of officers and enlisted personnel for any purpose all creditableservice in the Army, Navy, Marine Corps, Air Force, Coast Guard, Revenue Cutter Service, and Life Saving Service shall be included in addition to any other creditable service authorized by any other law.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 531.)
 

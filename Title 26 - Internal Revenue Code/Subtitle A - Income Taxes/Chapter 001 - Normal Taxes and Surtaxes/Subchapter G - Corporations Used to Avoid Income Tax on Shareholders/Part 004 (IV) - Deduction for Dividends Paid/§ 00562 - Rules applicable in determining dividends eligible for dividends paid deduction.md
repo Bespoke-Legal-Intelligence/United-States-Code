@@ -34,7 +34,7 @@ In the case of a real estate investment trust, in determining the amount of divi
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1804(d)(1), inserted at end “Except to the extent provided in regulations, the preceding sentence shall not apply in the case of any mere holding or investment company which is not a regulated investment company.”
 
-Subsec. (c). Pub. L. 99–514, §657(a), inserted at end “In the case of a distribution by a regulated investment company to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.”
+Subsec. (c). Pub. L. 99–514, §657(a), inserted at end “In the case of a distribution by a regulated investmentcompany to a shareholder who made an initial investment of at least $10,000,000 in such company, such distribution shall not be treated as not being pro rata or as being preferential solely by reason of an increase in the distribution by reason of reductions in administrative expenses of the company.”
 
 <b>1983</b>—Subsec. (e). Pub. L. 97–448 added subsec. (e).
 

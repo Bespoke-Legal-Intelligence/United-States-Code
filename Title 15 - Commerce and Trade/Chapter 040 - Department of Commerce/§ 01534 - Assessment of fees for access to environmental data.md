@@ -38,7 +38,7 @@ The Secretary shall, not later than 90 days after November 17, 1988, submit to t
 
 &emsp;(1) any plan of the Secretary for assessing fees under this section by the National Environmental Satellite, Data, and Information Service for archived data, including the methodology and bases by which the amount of such fees shall be determined, and the estimated revenues therefrom; and
 
-&emsp;(2) any plan of the Secretary for using revenues generated from such fees, as well as other resources, to improve the capability of the National Environmental Satellite, Data, and Information Service to collect, manage, process, archive, and disseminate the increasing amounts of data generated from satellites, radars, and other technologies.
+&emsp;(2) any plan of the Secretary for using revenues generated from such fees, as well as otherresources, to improve the capability of the National Environmental Satellite, Data, and Information Service to collect, manage, process, archive, and disseminate the increasing amounts of data generated from satellites, radars, and other technologies.
 
 #### (g) Other assessment authorities unaffected
 

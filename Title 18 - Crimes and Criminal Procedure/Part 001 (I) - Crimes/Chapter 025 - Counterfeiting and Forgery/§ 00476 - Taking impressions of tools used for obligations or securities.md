@@ -1,8 +1,8 @@
 ### §476. Taking impressions of tools used for obligations or securities
 
-Whoever, without authority from the United States, takes, procures, or makes an impression, stamp, or imprint of, from or by the use of any tool, implement, instrument, or thing used or fitted or intended to be used in printing, stamping, or impressing, or in making other tools, implements, instruments, or things to be used or fitted or intended to be used in printing, stamping, or impressing any obligation or other security of the United States, shall be fined under this title or imprisoned not more than ten years, or both.
+Whoever, without authority from the United States, takes, procures, or makes an impression, stamp, analog, digital, or electronic image, or imprint of, from or by the use of any tool, implement, instrument, or thing used or fitted or intended to be used in printing, stamping, or impressing, or in making other tools, implements, instruments, or things to be used or fitted or intended to be used in printing, stamping, or impressing any obligation or other security of the United States, shall be fined under this title or imprisoned not more than 25 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §374(f), Oct. 26, 2001, 115 Stat. 341.)
 
 #### Historical and Revision Notes
 
@@ -16,7 +16,13 @@ Changes in phraseology were also made.
 
 #### Amendments
 
+2001—Pub. L. 107–56 inserted “analog, digital, or electronic image,” after “impression, stamp,” and substituted “25 years” for “ten years”.
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

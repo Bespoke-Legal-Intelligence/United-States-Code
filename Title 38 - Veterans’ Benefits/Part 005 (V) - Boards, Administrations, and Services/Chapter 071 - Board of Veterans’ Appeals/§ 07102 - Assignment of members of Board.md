@@ -4,7 +4,7 @@
 
 (b) A proceeding may not be assigned to the Chairman as an individual member. The Chairman may participate in a proceeding assigned to a panel or in a reconsideration assigned to a panel of members.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4002; Pub. L. 98–223, title II, §208(c), (d), Mar. 2, 1984, 98 Stat. 44; renumbered §7102 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991,105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 103–271, §6(a), July 1, 1994, 108 Stat. 741.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, §4002; Pub. L. 98–223, title II, §208(c), (d), Mar. 2, 1984, 98 Stat. 44; renumbered §7102 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 103–271, §6(a), July 1, 1994, 108 Stat. 741.)
 
 #### Amendments
 

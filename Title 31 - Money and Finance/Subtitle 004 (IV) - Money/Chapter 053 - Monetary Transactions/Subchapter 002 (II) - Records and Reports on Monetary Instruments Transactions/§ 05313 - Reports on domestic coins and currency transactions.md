@@ -54,7 +54,7 @@ Qualified business customer defined.—For purposes of this subsection, the term
 
 &emsp;&emsp;(B) frequently engages in transactions with the depository institution which are subject to the reporting requirements of subsection (a); and
 
-&emsp;&emsp;(C) meets criteria which the Secretary determines are sufficient to ensure that the purposes of this subchapter are carried out without requiring a report with respect to such transactions.
+&emsp;&emsp;(C) meets criteria which the Secretary determines are sufficient to ensure that the purposes of this subchapter are carried outwithout requiring a report with respect to such transactions.
 
 &emsp;(3)
 
@@ -168,6 +168,40 @@ Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (g)(2)(B)
 
 1994—Subsecs. (d) to (g). Pub. L. 103–325 added subsecs. (d) to (g).
 
+#### Efficient Use of Currency Transaction Report System
+
+Pub. L. 107–56, title III, §366, Oct. 26, 2001, 115 Stat. 335, provided that:
+
+“(a)
+
+Findings.—The Congress finds the following:
+
+&emsp;“(1) The Congress established the currency transaction reporting requirements in 1970 because the Congress found then that such reports have a high degree of usefulness in criminal, tax, and regulatory investigations and proceedings and the usefulness of such reports has only increased in the years since the requirements were established.
+
+&emsp;“(2) In 1994, in response to reports and testimony that excess amounts of currency transaction reports were interfering with effective law enforcement, the Congress reformed the currency transaction report exemption requirements to provide—
+
+&emsp;&emsp;“(A) mandatory exemptions for certain reports that had little usefulness for law enforcement, such as cash transfers between depository institutions and cash deposits from government agencies; and
+
+&emsp;&emsp;“(B) discretionary authority for the Secretary of the Treasury to provide exemptions, subject to criteria and guidelines established by the Secretary, for financial institutions with regard to regular business customers that maintain accounts at an institution into which frequent cash deposits are made.
+
+&emsp;“(3) Today there is evidence that some financial institutions are not utilizing the exemption system, or are filing reports even if there is an exemption in effect, with the result that the volume of currency transaction reports is once again interfering with effective law enforcement.
+
+“(b)
+
+Study and Report.—
+
+&emsp;“(1)
+
+Study required.—The Secretary shall conduct a study of—
+
+&emsp;&emsp;“(A) the possible expansion of the statutory exemption system in effect under section 5313 of title 31, United States Code; and
+
+&emsp;&emsp;“(B) methods for improving financial institution utilization of the statutory exemption provisions as a way of reducing the submission of currency transaction reports that have little or no value for law enforcement purposes, including improvements in the systems in effect at financial institutions for regular review of the exemption procedures used at the institution and the training of personnel in its effective use.
+
+&emsp;“(2)
+
+Report required.—The Secretary of the Treasury shall submit a report to the Congress before the end of the 1-year period beginning on the date of enactment of this Act \[Oct. 26, 2001\] containing the findings and conclusions of the Secretary with regard to the study required under subsection (a), and such recommendations for legislative or administrative action as the Secretary determines to be appropriate.”
+
 #### Report Reduction Goal; Streamlined Currency Transaction Reports
 
 Section 402(b), (c) of Pub. L. 103–325 provided that:
@@ -198,7 +232,7 @@ Streamlined Currency Transaction Reports.—The Secretary of the Treasury shall 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5319, 5324, 5330 of this title; title 12 section 3420; title 18 sections 981, 982; title 26 section 6103; title 28 section 524.
+This section is referred to in sections 5312, 5317, 5324, 5330, 5331 of this title; title 12 section 3420; title 26 section 6103; title 28 section 524.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

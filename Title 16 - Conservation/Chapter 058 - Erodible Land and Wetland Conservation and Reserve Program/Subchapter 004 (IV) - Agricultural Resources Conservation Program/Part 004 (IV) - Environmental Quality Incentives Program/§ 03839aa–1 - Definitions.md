@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Eligible land
 
-&emsp;The term “eligible land” means agricultural land (including cropland, rangeland, pasture, and other land on which crops or livestock are produced), including agricultural land that the Secretary determines poses a serious threat to soil, water, or related resources by reason of the soil types, terrain, climatic, soil, topographic, flood, or saline characteristics, or other factors or natural hazards.
+&emsp;The term “eligible land” means agricultural land (including cropland, rangeland, pasture, and other land on which crops or livestock are produced), including agricultural land that theSecretary determines poses a serious threat to soil, water, or related resources by reason of the soil types, terrain, climatic, soil, topographic, flood, or saline characteristics, or other factors or natural hazards.
 
 #### (2) Land management practice
 

@@ -14,7 +14,7 @@ The President shall submit reports to the Congress containing findings made unde
 
 #### (d) Exchange or temporary exportation of oil and gas for convenience or efficiency of transportation
 
-The provisions of this section shall not apply to any oil or gas which is either exchanged in similar quantity for convenience or increased efficiency of transportation with persons or thegovernment of a foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, or which is exchanged or exported pursuant to an existing international agreement.
+The provisions of this section shall not apply to any oil or gas which is either exchanged in similar quantity for convenience or increased efficiency of transportation with persons or the government of a foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, or which is exchanged or exported pursuant to an existing international agreement.
 
 (Aug. 7, 1953, ch. 345, §28, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 668.)
 

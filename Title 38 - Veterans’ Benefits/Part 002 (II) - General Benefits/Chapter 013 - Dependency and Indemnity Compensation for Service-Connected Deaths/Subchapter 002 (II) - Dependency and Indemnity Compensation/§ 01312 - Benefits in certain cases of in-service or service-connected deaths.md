@@ -52,7 +52,7 @@ Section 3 of Pub. L. 87–268 provided that: “The amendments made by this Act 
 
 #### Filing of Application for Benefits
 
-Section 2 of Pub. L. 87–268 provided that the increased pension benefits authorized by Pub. L. 87–268 were to bepayable from the effective date of Pub. L. 87–268 to anyone receiving dependency and indemnity compensation on such date only if the application for such increased benefits were filed with the Veterans’ Administration within one year from such date and evidence of entitlement were of record or received within one year from the date of request therefor.
+Section 2 of Pub. L. 87–268 provided that the increased pension benefits authorized by Pub. L. 87–268 were to be payable from the effective date of Pub. L. 87–268 to anyone receiving dependency and indemnity compensation on such date only if the application for such increased benefits were filed with the Veterans’ Administration within one year from such date and evidence of entitlement were of record or received within one year from the date of request therefor.
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(B) such distributor regularly sells such article to one or more independent retailers, but does not regularly sell to wholesale distributors,
 
-> &emsp;the constructive sale price of such article shall be 90 percent of the lowest price for which such distributor regularly sells such article in arm's-length transactions to such independent retailers. The price determined under this paragraph shall not be adjusted for any exclusion (except for the tax imposed on such article) or readjustments under subsections (a) and (e) and under section 6416(b)(1). If both this paragraph and paragraph (4) apply with respect to an article, the constructive sale price for such article shall bethe lower of the constructive sale price determined under this paragraph or paragraph (4).
+> &emsp;the constructive sale price of such article shall be 90 percent of the lowest price for which such distributor regularly sells such article in arm's-length transactions to such independent retailers. The price determined under this paragraph shall not be adjusted for any exclusion (except for the tax imposed on such article) or readjustments under subsections (a) and (e) and under section 6416(b)(1). If both this paragraph and paragraph (4) apply with respect to an article, the constructive sale price for such article shall be the lower of the constructive sale price determined under this paragraph or paragraph (4).
 
 #### (4) Constructive sale price in case of certain other articles
 
@@ -80,7 +80,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;(1) there shall be paid an amount equal to the difference between (A) the tax previously paid on the payments on such installment accounts, and (B) the total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)); except that
 
-&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court of competent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
+&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court of competent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect onthe date such unpaid installment payment is or was due.
 
 > The sum of the amounts payable under this subsection and subsection (c) in respect of the sale of any article shall not exceed the total tax.
 
@@ -104,7 +104,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(A) The sum of (i) the aggregate of the charges for local advertising excluded under paragraph (1), plus (ii) the aggregate of the readjustments for local advertising under section 6416(b)(1) (relating to credits or refunds for price readjustments), shall not exceed
 
-&emsp;&emsp;(B) 5 percent of the aggregate of the prices (determined under this section by excluding all charges for local advertising) at whichsuch articles were sold in sales on which tax was imposed by such section of this chapter.
+&emsp;&emsp;(B) 5 percent of the aggregate of the prices (determined under this section by excluding all charges for local advertising) at which such articles were sold in sales on which tax was imposed by such section of this chapter.
 
 > &emsp;The preceding sentence shall be applied to each manufacturer, producer, and importer as of the close of each calendar quarter, taking into account the items specified in subparagraphs (A) and (B) for such calendar quarter and preceding calendar quarters in the same calendar year.
 
@@ -224,7 +224,7 @@ Section 2(b) of Pub. L. 87–770 provided that: “The amendment made by subsect
 
 #### Effective Date of 1960 Amendment
 
-Section 3 of Pub. L. 86–781 provided that: “The amendments made by this Act \[amending this section and section 6416 of this title\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\].”
+Section 3 of Pub. L. 86–781 provided that: “The amendments made by this Act \[amending this sectionand section 6416 of this title\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than twenty days after the date of the enactment of this Act \[Sept. 14, 1960\].”
 
 #### Effective Date of 1958 Amendment
 

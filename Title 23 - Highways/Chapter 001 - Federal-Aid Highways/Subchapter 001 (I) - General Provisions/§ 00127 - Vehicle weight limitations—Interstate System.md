@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—No funds shall be apportioned in any fiscal year under section 104(b)(1) of this title to any State which does not permit the use of The Dwight D. Eisenhower System of Interstate and Defense Highways within its boundaries by vehicles with a weight of twenty thousand pounds carried on any one axle, including enforcement tolerances, or with a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances, or a gross weight of at least eighty thousand pounds for vehicle combinations of five axles or more. However, the maximum gross weight to be allowed by any State for vehicles using The Dwight D. Eisenhower System of Interstate and Defense Highways shall be twenty thousand pounds carried on one axle, including enforcement tolerances, and a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances and with an overall maximum gross weight, including enforcement tolerances, on a group of two or more consecutive axles produced by application of the following formula:
+In General.—No funds shall be apportioned in any fiscal year under section 104(b)(1)of this title to any State which does not permit the use of The Dwight D. Eisenhower System of Interstate and Defense Highways within its boundaries by vehicles with a weight of twenty thousand pounds carried on any one axle, including enforcement tolerances, or with a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances, or a gross weight of at least eighty thousand pounds for vehicle combinations of five axles or more. However, the maximum gross weight to be allowed by any State for vehicles using The Dwight D. Eisenhower System of Interstate and Defense Highways shall be twenty thousand pounds carried on one axle, including enforcement tolerances, and a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances and with an overall maximum gross weight, including enforcement tolerances, on a group of two or more consecutive axles produced by application of the following formula:
 
 ### LN
 
@@ -14,7 +14,7 @@ In General.—No funds shall be apportioned in any fiscal year under section 104
 
 (b)
 
-Reasonable Access.—No State may enact or enforce any law denying reasonable access tomotor vehicles subject to this title to and from the Interstate Highway System to terminals and facilities for food, fuel, repairs, and rest.
+Reasonable Access.—No State may enact or enforce any law denying reasonable access to motor vehicles subject to this title to and from the Interstate Highway System to terminals and facilities for food, fuel, repairs, and rest.
 
 (c)
 
@@ -82,7 +82,7 @@ Limitation.—No statute or regulation shall be included on the list submitted b
 
 &emsp;&emsp;(D)
 
-Final list.—Except as modified pursuant to paragraph (1)(C) of this subsection, the list shall be published as final in the Federal Register not later than 180 daysafter the date of the enactment of this subsection. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under subparagraph (B). After publication of the final list, longer combination vehicles may not operate on the Interstate System except as provided in the list.
+Final list.—Except as modified pursuant to paragraph (1)(C) of this subsection, the list shall be published as final in the Federal Register not later than 180 days after the date of the enactment of this subsection. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under subparagraph (B). After publication of the final list, longer combination vehicles may not operate on the Interstate System except as provided in the list.
 
 &emsp;&emsp;(E)
 
@@ -90,7 +90,7 @@ Review and correction procedure.—The Secretary, on his or her own motion or up
 
 &emsp;(4)
 
-Longer combination vehicle defined.—For purposes of this section, the term “longer combination vehicle” means any combination of a truck tractor and 2 or more trailers or semitrailers which operates on the Interstate System at a gross vehicle weight greater than 80,000 pounds.
+Longer combination vehicle defined.—For purposes of this section, the term “longercombination vehicle” means any combination of a truck tractor and 2 or more trailers or semitrailers which operates on the Interstate System at a gross vehicle weight greater than 80,000 pounds.
 
 &emsp;(5)
 
@@ -108,7 +108,19 @@ Operation of Certain Specialized Hauling Vehicles on Certain Wisconsin Highways.
 
 Operation of Certain Specialized Hauling Vehicles on Certain Pennsylvania Highways.—If the segment of United States Route 220 between Bedford and Bald Eagle, Pennsylvania, is designated as part of the Interstate System, the single axle weight, tandem axle weight, gross vehicle weight, and bridge formula limits set forth in subsection (a) shall not apply to that segment with respect to the operation of any vehicle which could have legally operated on that segment before the date of the enactment of this subsection.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194.)
+(h)
+
+Waiver for a Route in State of Maine During Periods of National Emergency.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of this section, the Secretary, in consultation with the Secretary of Defense, may waive or limit the application of any vehicle weight limit established under this section with respect to the portion of Interstate Route 95 in the State of Maine between Augusta and Bangor for the purpose of making bulk shipments of jet fuel to the Air National Guard Base at Bangor International Airport during a period of national emergency in order to respond to the effects of the national emergency.
+
+&emsp;(2)
+
+Applicability.—Emergency limits established under paragraph (1) shall preempt any inconsistent State vehicle weight limits.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233.)
 
 #### References in Text
 
@@ -128,11 +140,13 @@ The date of the enactment of this subsection, referred to in subsec. (g), is the
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–178, §1212(d)(1), inserted before penultimate sentence “With respect to the State of Colorado, vehicles designed to carry 2 or more precast concrete panels shall be considered a nondivisible load.” and inserted at end “The State of Louisiana may allow, by special permit, the operation of vehicles with a gross vehicle weight of up to 100,000 pounds for the hauling of sugarcane during the harvest season, not to exceed 100 days annually. With respect to Interstate Route 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection. With respect to that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitationsthat were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.”
+2001—Subsec. (h). Pub. L. 107–107 added subsec. (h).
+
+1998—Subsec. (a). Pub. L. 105–178, §1212(d)(1), inserted before penultimate sentence “With respect to the State of Colorado, vehicles designed to carry 2 or more precast concrete panels shall be considered a nondivisible load.” and inserted at end “The State of Louisiana may allow, by special permit, the operation of vehicles with a gross vehicle weight of up to 100,000 pounds for the hauling of sugarcane during the harvest season, not to exceed 100 days annually. With respect to Interstate Route 95 in the State of New Hampshire, State laws (including regulations) concerning vehicle weight limitations that were in effect on January 1, 1987, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection. With respect to that portion of the Maine Turnpike designated Interstate Route 95 and 495, and that portion of Interstate Route 95 from the southern terminus of the Maine Turnpike to the New Hampshire State line, laws (including regulations) of the State of Maine concerning vehicle weight limitations that were in effect on October 1, 1995, and are applicable to State highways other than the Interstate System, shall be applicable in lieu of the requirements of this subsection.”
 
 Subsec. (f). Pub. L. 105–178, §1106(c)(2)(B), substituted “section 103(c)(4)(A)” for “section 139(a)”.
 
-1995—Subsec. (a). Pub. L. 104–59, §312(a)(1), in proviso of second sentence substituted “except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those” for “except for those”.
+1995—Subsec. (a). Pub. L. 104–59, §312(a)(1), in proviso of second sentence substituted “except for vehiclesusing Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those” for “except for those”.
 
 Subsec. (d)(1)(F). Pub. L. 104–59, §312(a)(2), added subpar. (F).
 
@@ -210,7 +224,7 @@ Purpose.—The purpose of the study shall be to determine the effectiveness of S
 
 “(3)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretaryshall transmit to Congress a report on the results of the study with any legislative recommendations of the Secretary.”
+Report.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the study with any legislative recommendations of the Secretary.”
 
 #### Commercial Motor Vehicle Study
 
@@ -290,7 +304,7 @@ Section 1023(g) of Pub. L. 102–240 directed Secretary to conduct a study of St
 
 #### Motor Vehicle Study by Transportation Research Board; Report
 
-Section 158 of Pub. L. 100–17 directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respect to each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and construction practices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of ‘reasonable access’ to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
+Section 158 of Pub. L. 100–17 directed Secretary, within 6 months after Apr. 2, 1987, to enter into appropriate arrangements with the Transportation Research Board of the National Academy of Sciences to conduct a study of the following motor vehicle issues, including an analysis of the impacts of the various positions that have been put forth with respect to each issue and best estimates of effects on pavement, bridges, highway revenue and cost responsibility, and highway safety, and changes in transportation costs and other measures of productivity for various segments of the trucking industry resulting from adoption of each of the positions: (1) elimination of existing, grandfather provisions of 23 U.S.C. 127 which allow higher axle loads and gross vehicle weights than the 20,000-pound single axle load limit, 34,000-pound tandem axle load limit, and 80,000-pound gross vehicle weight limit maximums authorized by Pub. L. 93–643, (2) analysis of alternative methods of determining gross vehicle weight limit and axle loadings for all types of motor carrier vehicles, (3) analysis of the bridge formula contained in 23 U.S.C. 127 in view of current vehicle configurations, pavement and bridge stresses in accord with 1986 design and constructionpractices, and existing bridges on and off the Interstate System, (4) establishment of nationwide policy regarding the provisions of ‘reasonable access’ to the National Network for combination vehicles established pursuant to Pub. L. 97–424, and (5) recommendation of appropriate treatment for specialized hauling vehicles which do not comply with the existing Federal bridge formula and submit a final report to Secretary and Congress, not later than 30 months after appropriate arrangements were entered into.
 
 #### State-Imposed Vehicle Width Limitations
 

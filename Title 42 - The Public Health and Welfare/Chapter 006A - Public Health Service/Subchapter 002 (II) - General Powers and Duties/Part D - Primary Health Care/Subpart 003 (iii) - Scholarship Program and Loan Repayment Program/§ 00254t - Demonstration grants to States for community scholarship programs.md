@@ -114,7 +114,7 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 &emsp;&emsp;(ii) an amount representing interest on the amount of such expenditures, determined with respect to each contract on the basis of the maximum legal rate prevailing for loans made during the time amounts were paid under the contract, as determined by the Treasurer of the United States.
 
-&emsp;(C) If a State is not receiving a grant under subsection (a) of this section for a fiscal year for which a reduction under subparagraph (B) would have been made in the event that the State had received such a grant, the Secretary shall reduce the amount of payments due to the State under other grants, cooperative agreements, or contracts under this chapter by the amount specified in such subparagraph.
+&emsp;(C) If a State is not receiving a grant under subsection (a) of this section for a fiscal year for which a reduction under subparagraph (B) would have been made in the event that the State had received such a grant, the Secretary shall reduce the amount of payments due to the State under other grants, cooperativeagreements, or contracts under this chapter by the amount specified in such subparagraph.
 
 &emsp;(D) With respect to contracts provided under subsection (c) of this section, the Secretary may carry out this paragraph on the basis of information submitted by the States involved, or on the basis of information collected through such other means as the Secretary determines to be appropriate.
 

@@ -22,7 +22,7 @@ An order enforcing this subchapter may not—
 
 &emsp;(3) require a telecommunications carrier to modify, for the purpose of complying with the assistance capability requirements of section 1002 of this title, any equipment, facility, or service deployed on or before January 1, 1995, unless—
 
-&emsp;&emsp;(A) the Attorney General has agreed to pay the telecommunications carrier for all reasonable costs directly associated withmodifications necessary to bring the equipment, facility, or service into compliance with those requirements; or
+&emsp;&emsp;(A) the Attorney General has agreed to pay the telecommunications carrier for all reasonable costs directly associated with modifications necessary to bring the equipment, facility, or service into compliance with those requirements; or
 
 &emsp;&emsp;(B) the equipment, facility, or service has been replaced or significantly upgraded or otherwise undergoes major modification.
 

@@ -48,7 +48,7 @@
 
 (5) At the conclusion of fiscal year 1993 and again at the conclusion of fiscal year 1996, the Secretary shall submit reports to Congress regarding research and technology transfer activities conducted pursuant to the authorization contained in paragraph (1).
 
-(d)(1) Not later than June 1, 1995, the Secretary shall complete and submit to Congress a study of the commercial feasibility of constructing 1 or more high-speed ground transportation systems in the United States. Such study shall consist of—
+(d)(1) Not later than June 1, 1995, the Secretary shall complete and submit to Congress a study of the commercial feasibility of constructing 1 or more high-speed ground transportationsystems in the United States. Such study shall consist of—
 
 &emsp;(A) an economic and financial analysis;
 
@@ -98,7 +98,7 @@
 
 &emsp;(E) an examination of the significant unresolved technical issues surrounding the design, engineering, construction, and operation of high-speed ground transportation systems, including the potential for the use of existing rights-of-way;
 
-&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use, health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from thefull-scale development of high-speed ground transportation systems; and
+&emsp;(F) an examination of the effects on air quality, energy consumption, noise, land use, health, and safety as a result of the decreases in traffic volume on other modes of transportation that are expected to result from the full-scale development of high-speed ground transportation systems; and
 
 &emsp;(G) any other technical assessments the Secretary considers important for carrying out this section.
 
@@ -170,7 +170,7 @@ Prototype.—
 
 &emsp;“(A)
 
-Selection of design.—Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility andprojected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—
+Selection of design.—Within 6 months of receiving the detailed designs developed under paragraph (3), the Secretary and the Assistant Secretary shall, based on the recommendations of the selection committee described in this subparagraph, select 1 design for development into a full-scale prototype, unless the Secretary and the Assistant Secretary determine jointly that no design shall be selected, based on an assessment of technical feasibility and projected cost of construction and operation of the prototype. A selection committee of 8 members, consisting of—
 
 &emsp;&emsp;“(i) 1 member to be appointed by the Secretary,
 

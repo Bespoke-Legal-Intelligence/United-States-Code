@@ -1,6 +1,6 @@
 ### §513. Enlistments: Delayed Entry Program
 
-(a) A person with no prior military service who is qualified under section 505 of this title and applicable regulations for enlistment in a regular component of an armed force may (except as provided in subsection (c)) be enlisted as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve for a term of not less than six years nor more than eight years.
+(a) A person with no prior military service who is qualified under section 505 of this titleand applicable regulations for enlistment in a regular component of an armed force may (except as provided in subsection (c)) be enlisted as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve for a term of not less than six years nor more than eight years.
 
 (b)(1) Unless sooner ordered to active duty under chapter 39 of this title or another provision of law, a person enlisted under subsection (a) shall, within 365 days after such enlistment, be discharged from the reserve component in which enlisted and immediately be enlisted in the regular component of an armed force. The Secretary concerned may extend the 365-day period for any person for up to an additional 365 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so.
 
@@ -34,7 +34,7 @@ Pub. L. 106–65, div. A, title V, §572(b), Oct. 5, 1999, 113 Stat. 623, provid
 
 #### Army College First Pilot Program
 
-Pub. L. 106–65, div. A, title V, §573, Oct. 5, 1999, 113 Stat. 623, provided that:
+Pub. L. 106–65, div. A, title V, §573, Oct. 5, 1999, 113 Stat. 623, as amended by Pub. L. 107–107, div. A, title V, §542(a)–(c), Dec. 28, 2001, 115 Stat. 1110, 1111, provided that:
 
 “(a)
 
@@ -42,39 +42,61 @@ Program Required.—The Secretary of the Army shall establish a pilot program (t
 
 “(b)
 
-Delayed Entry With Allowance for Higher Education.—Under the pilot program, the Secretary may exercise the authority under section 513 of title 10, United States Code—
+Delayed Entry With Allowance for Higher Education.—Under the pilot program, the Secretary may—
 
-&emsp;“(1) to accept the enlistment of a person as a Reserve for service in the Selected Reserve or Individual Ready Reserve of the Army Reserve or, notwithstanding the scope of the authority under subsection (a) of that section, in the Army National Guard of the United States;
+&emsp;“(1) exercise the authority under section 513 of title 10, United States Code—
 
-&emsp;“(2) to authorize, notwithstanding the period limitation in subsection (b) of that section, a delay of theenlistment of any such person in a regular component under that subsection for the period during which the person is enrolled in, and pursuing a program of education at, an institution of higher education, or a program of vocational or technical training, on a full-time basis that is to be completed within two years after the date of such enlistment as a Reserve under paragraph (1); and
+&emsp;&emsp;“(A) to accept the enlistment of a person as a Reserve for service in the Selected Reserve or Individual Ready Reserve of the Army Reserve or, notwithstanding the scope of the authority under subsection (a) of that section, in the Army National Guard of the United States; and
 
-&emsp;“(3) in the case of a person enlisted in a reserve component for service in the Individual Ready Reserve, pay an allowance to the person for each month of that period.
+&emsp;&emsp;“(B) to authorize, notwithstanding the period limitation in subsection (b) of that section, a delay of the enlistment of any such person in a regular component under that subsection for the period during which the person is enrolled in, and pursuing a program of education at, an institution of higher education, or a program of vocational or technical training, on a full-time basis that is to be completed within the maximum period of delay determined for that person under subsection (c); and
+
+&emsp;“(2) subject to paragraph (2) of subsection (d) and except as provided in paragraph (3) of that subsection, pay an allowance to a person accepted for enlistment under paragraph (1)(A) for each month of the period during which that person is enrolled in and pursuing a program described in paragraph (1)(B)\[.\]
 
 “(c)
 
-Maximum Period of Delay.—The period of delay authorized a person under paragraph (2) of subsection (b) may not exceed the two-year period beginning on the date of the person's enlistment accepted under paragraph (1) of such subsection.
+Maximum Period of Delay.—The period of delay authorized a person under paragraph (1)(B) of subsection (b) may not exceed the 30-month period beginning on the date of the person's enlistment accepted under paragraph (1)(A) of such subsection.
 
 “(d)
 
-Amount of Allowance.—(1) The monthly allowance paid under subsection (b)(3) is $150. The allowance may not be paid for more than 24 months.
+Allowance.—(1) The monthly allowance paid under subsection (b)(2) shall be equal to the amount of the subsistence allowance provided for certain members of the Senior Reserve Officers’ Training Corps with the corresponding number of years of participation under section 209(a) of title 37, United States Code.
 
-“(2) An allowance under this section is in addition to any other pay or allowance to which a member of a reserve component is entitled by reason of participation in the Ready Reserve of that component.
+“(2) An allowance may not be paid to a person under this section for more than 24 months.
+
+“(3) A member of the Selected Reserve of a reserve component may be paid an allowance under this section only for months during which the member performs satisfactorily as a member of a unit of the reserve component that trains as prescribed in section 10147(a)(1) of title 10, United States Code, or section 502(a) of title 32, United States Code. Satisfactory performance shall be determined under regulations prescribed by the Secretary.
+
+“(4) An allowance under this section is in addition to any other pay or allowance to which a member of a reserve component is entitled by reason of participation in the Ready Reserve of that component.
 
 “(e)
 
-Comparison Group.—To perform the assessment under subsection (a), the Secretary may define and study any group not including persons receiving a benefit under subsection (b) and compare that group with any group or groups of persons who receive such benefits under the pilot program.
+Ineligibility for Loan Repayments.—A person who has received an allowance under this section is not eligible for any benefits under chapter 109 of title 10, United States Code.
 
 “(f)
 
-Duration of Pilot Program.—The pilot program shall be in effect during the period beginning on October 1, 1999, and ending on September 30, 2004.
+Recoupment of Allowance.—(1) A person who, after receiving an allowance under this section, fails tocomplete the total period of service required of that person in connection with delayed entry authorized for the person under section 513 of title 10, United States Code, shall repay the United States the amount which bears the same ratio to the total amount of that allowance paid to the person as the unserved part of the total required period of service bears to the total period.
+
+“(2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
+
+“(3) A discharge of a person in bankruptcy under title 11, United States Code, that is entered less than five years after the date on which the person was, or was to be, enlisted in the regular Army pursuant to the delayed entry authority under section 513 of title 10, United States Code, does not discharge that person from a debt arising under paragraph (1).
+
+“(4) The Secretary of the Army may waive, in whole or in part, a debt arising under paragraph (1) in any case for which the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
 
 “(g)
+
+Comparison Group.—To perform the assessment under subsection (a), the Secretary may define and study any group not including persons receiving a benefit under subsection (b) and compare that group with any group or groups of persons who receive such benefits under the pilot program.
+
+“(h)
+
+Duration of Pilot Program.—The pilot program shall be in effect during the period beginning on October 1, 1999, and ending on September 30, 2004.
+
+“(i)
 
 Report.—Not later than February 1, 2004, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program. The report shall include the following:
 
 &emsp;“(1) The assessment of the Secretary regarding the value of the authority under this section for achieving the objectives of increasing the number of, and the level of the qualifications of, persons entering the Army as enlisted members.
 
 &emsp;“(2) Any recommendation for legislation or other action that the Secretary considers appropriate to achieve those objectives through grants of entry delays and financial benefits for advanced education and training of recruits.”
+
+\[Pub. L. 107–107, div. A, title V, §542(d), Dec. 28, 2001, 115 Stat. 1112, provided that: “The amendments made by this section \[amending section 573 of Pub. L. 106–65, set out above\] shall apply with respect to persons who, on or after the date of the enactment of this Act \[Dec. 28, 2001\], are enlisted as described in subsection (a) of section 513 of title 10, United States Code, with delayed entry authorized under that section.”\]
 
 #### Section Referred to in Other Sections
 

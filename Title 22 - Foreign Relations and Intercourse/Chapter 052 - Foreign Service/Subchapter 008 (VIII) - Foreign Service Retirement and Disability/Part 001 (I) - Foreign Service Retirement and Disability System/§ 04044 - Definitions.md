@@ -30,7 +30,7 @@ As used in this part, unless otherwise specified, the term—
 
 &emsp;(5) “Foreign Service normal cost” means the level percentage of payroll required to be deposited in the Fund to meet the cost of benefits payable under the System (computed in accordance with generally accepted actuarial practice on an entry-age basis) less the value of retirement benefits earned under another retirement system for Government employees and less the cost of credit allowed for military and naval service;
 
-&emsp;(6) “former spouse” means a former wife or husband of a participant or former participantwho was married to such participant for not less than 10 years during periods of service by that participant which are creditable under section 4056 of this title;
+&emsp;(6) “former spouse” means a former wife or husband of a participant or former participant who was married to such participant for not less than 10 years during periods of service by that participant which are creditable under section 4056 of this title;
 
 &emsp;(7) “Fund balance” means the sum of—
 

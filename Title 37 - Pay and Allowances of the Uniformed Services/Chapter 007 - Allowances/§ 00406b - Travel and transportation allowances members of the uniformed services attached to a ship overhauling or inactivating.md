@@ -8,7 +8,7 @@
 
 (d) Section 421 of this title does not apply with respect to transportation or allowances provided under this section.
 
-(Added Pub. L. 91–210, §1(1), Mar. 13, 1970, 84 Stat. 53; amended Pub. L. 93–170, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §516(11), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–22, §11(b)(3)(A), July 10, 1981, 95 Stat. 138; Pub. L. 99–145, title VI, §616(a), (c)(1), Nov. 8, 1985, 99 Stat. 641; Pub. L. 100–26, §8(d)(7), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title XII, §1233(a)(3), Dec. 4,1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title VI, §624(b), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 102–484, div. A, title X, §1054(a)(5), Oct. 23, 1992, 106 Stat. 2502.)
+(Added Pub. L. 91–210, §1(1), Mar. 13, 1970, 84 Stat. 53; amended Pub. L. 93–170, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §516(11), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–22, §11(b)(3)(A), July 10, 1981, 95 Stat. 138; Pub. L. 99–145, title VI, §616(a), (c)(1), Nov. 8, 1985, 99 Stat. 641; Pub. L. 100–26, §8(d)(7), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title XII, §1233(a)(3), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title VI, §624(b), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 102–484, div. A, title X, §1054(a)(5), Oct. 23, 1992, 106 Stat. 2502.)
 
 #### Amendments
 

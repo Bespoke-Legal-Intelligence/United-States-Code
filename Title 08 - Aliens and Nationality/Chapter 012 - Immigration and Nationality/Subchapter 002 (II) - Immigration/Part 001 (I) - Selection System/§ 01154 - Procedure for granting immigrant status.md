@@ -212,7 +212,7 @@ A petition under subsection (a)(1)(D) of this section for an individual whose ap
 
 #### Amendment of Subsection (d)
 
-<i>Pub. L. 106–279, title III, §§302(b), 505(a)(2), (b), Oct. 6, 2000, 114 Stat. 839, 844, provided that, effective upon entry into force for the United States of the Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, subsection (d) of this section is amended by striking “(d)” and inserting “(d)(1)”, by striking “section 1101(b)(1)(F)” and inserting “subparagraph (F) or (G) of section 1101(b)(1)”, and by adding at the end the following new paragraph:</i>
+<i>Pub. L. 106–279, title III, §§302(b), 505(a)(2), (b), Oct. 6, 2000, 114 Stat. 839, 844, provided that, effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, subsection (d) of this section is amended by striking “(d)” and inserting “(d)(1)”, by striking “section 1101(b)(1)(F)” and inserting “subparagraph (F) or (G) of section 1101(b)(1)”, and by adding at the end the following new paragraph:</i>
 
 <i>(2) Notwithstanding the provisions of subsections (a) and (b) of this section, no petition may be approved on behalf of a child defined in section 1101(b)(1)(G) of this title unless the Secretary of State has certified that the central authority of the child's country of origin has notified the United States central authority under the convention referred to in such section 1101(b)(1)(G) of this title that a United States citizen habitually resident in the United States has effected final adoption of the child, or has been granted custody of the child for the purpose of emigration and adoption, in accordance with such convention and the Intercountry Adoption Act of 2000 \[42 U.S.C. 14901 et seq.\].</i>
 
@@ -336,7 +336,7 @@ Subsec. (e). Pub. L. 89–236 added subsec. (e).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–279 effective upon entry into force for the United States of the Convention on Protection of Children and Cooperation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 106–279 effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1996 Amendment
 
@@ -382,7 +382,7 @@ Act Sept. 3, 1954, ch. 1254, §§1–3, 68 Stat. 1145, provided for the importat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1151, 1153, 1155, 1182, 1183a, 1184, 1186a, 1227, 1229a, 1229b, 1255, 1255a, 1356, 1367, 1375, 1574, 1641 of this title.
+This section is referred to in sections 1101, 1151, 1153, 1155, 1182, 1183a, 1184, 1186a, 1227, 1229a, 1229b, 1255, 1255a, 1356, 1367, 1375, 1574, 1641 of this title; title 42 section 14931.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
 

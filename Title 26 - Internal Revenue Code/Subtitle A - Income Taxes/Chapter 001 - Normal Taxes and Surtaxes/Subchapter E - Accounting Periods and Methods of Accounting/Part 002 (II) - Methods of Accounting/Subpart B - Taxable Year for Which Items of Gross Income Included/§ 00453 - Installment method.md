@@ -380,7 +380,7 @@ A prior section 453, acts Aug. 16, 1954, ch. 736, 68A Stat. 154; Sept. 2, 1958, 
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–170, §536(a)(1), which substituted “Use of installment method” for “General rule” in subsec. heading, designated existing provisions as par. (1) and inserted heading, and added heading and text of par. (2), text of which read as follows: “(2)
 
-Accrual method taxpayer.—The installment method shall not apply to income from an installment sale if such income would be reported under an accrual method of accounting without regard to this section. The preceding sentence shall not apply to a disposition described in subparagraph (A) or (B) of subsection (<i>l</i>)(2).”, was repealed by Pub. L. 106–573, §2(a). See Effective Date of Construction of 2000 Amendment note below.
+Accrual method taxpayer.—The installment method shall not apply to income from an installment sale if such income would be reported under an accrual method of accounting without regard to this section. The preceding sentence shall not apply to a disposition described in subparagraph (A) or (B) of subsection (<i>l</i>)(2).”, was repealed by Pub. L. 106–573, §2(a). See Effective Date and Construction of 2000 Amendment note below.
 
 Subsecs. (d)(1), (i)(1), (k). Pub. L. 106–170, §536(a)(2), which substituted “(a)(1)” for “(a)” wherever appearing, was repealed by Pub. L. 106–573. See Effective Date and Construction of 2000 Amendment note below.
 
@@ -422,7 +422,7 @@ Subsec. (<i>l</i>)(1)(A). Pub. L. 100–647, §2004(d)(1), inserted “of the sa
 
 Subsec. (<i>l</i>). Pub. L. 100–203, §10202(b)(2), added subsec. (<i>l</i>).
 
-<b>1986</b>—Subsec. (f)(1). Pub. L. 99–514, §642(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Except for purposes of subsections (g) and (h), the term ‘related person’ means a person whose stock would be attributed under section 318(a) (other than paragraph (4) thereof) to the person first disposing of the property.”
+<b>1986</b>—Subsec. (f)(1). Pub. L. 99–514, §642(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: “Except for purposes of subsections (g) and (h), the term ‘related person’ means a person whose stock would be attributed under section 318(a) (other than paragraph (4) thereof) to the person first disposing of the property.”
 
 Subsec. (f)(8). Pub. L. 99–514, §642(b)(1), added par. (8).
 
@@ -434,7 +434,7 @@ Subsec. (h). Pub. L. 99–514, §631(e)(8)(C), substituted “certain liquidatio
 
 Subsec. (h)(1)(A). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If, in connection with a liquidation to which section 337 applies, in a transaction to which section 331 applies the shareholder receives (in exchange for the shareholder's stock) an installment obligation acquired in respect of a sale or exchange by the corporation during the 12-month period set forth in section 337(a), then, for purposes of this section, the receipt of payments under such obligation (but not the receipt of such obligation) by the shareholder shall be treated as the receipt of payment for the stock.”
 
-Subsec. (h)(1)(B). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (B) generally. Prior to amendment, subpar.\(B) read as follows: “Subparagraph (A) shall not apply to an installment obligation described in section 337(b)(1)(B) unless such obligation is also described in section 337(b)(2)(B).”
+Subsec. (h)(1)(B). Pub. L. 99–514, §631(e)(8)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subparagraph (A) shall not apply to an installment obligation described in section 337(b)(1)(B) unless such obligation is also described in section 337(b)(2)(B).”
 
 Subsec. (h)(1)(E). Pub. L. 99–514, §631(e)(8)(B), substituted “subsidiaries” for “subsidiary” in heading and amended text generally. Prior to amendment, subpar. (E) read as follows: “For purposes of subparagraph (A), in any case to which section 337(c)(3) applies, an obligation acquired in respect of a sale or exchange by the selling corporation shall be treated as so acquired by the corporation distributing the obligation to the shareholder.”
 
@@ -518,7 +518,7 @@ Special rule for nondealers.—
 
 &emsp;“(A)
 
-Election.—A taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendments made by subsections (a) and (c) \[amending sections 381, 453A, and 691 of this title and repealing section 453C of this title\] apply to taxable years ending after December 31, 1986, with respect to dispositions and pledges occurring after August 16, 1986.
+Election.—A taxpayer may elect, at such time and in such manner as the Secretary of the Treasuryor his delegate may prescribe, to have the amendments made by subsections (a) and (c) \[amending sections 381, 453A, and 691 of this title and repealing section 453C of this title\] apply to taxable years ending after December 31, 1986, with respect to dispositions and pledges occurring after August 16, 1986.
 
 &emsp;“(B)
 
@@ -538,7 +538,7 @@ Certain dispositions deemed made on 1st day of taxable year.—If the taxpayer m
 
 &emsp;&emsp;“(i) dispositions after August 16, 1986, and before the 1st day of such taxable year shall be treated as made on such 1st day, and
 
-&emsp;&emsp;“(ii) subsections (b)(2)(B) and (c)(4) of section 453A of such Code shall be applied separately with respect to such dispositions by substituting for ‘$5,000,000’ the amount which bears the same ratioto $5,000,000 as the number of days after August 16, 1986, and before such 1st day bears to 365.
+&emsp;&emsp;“(ii) subsections (b)(2)(B) and (c)(4) of section 453A of such Code shall be applied separately with respect to such dispositions by substituting for ‘$5,000,000’ the amount which bears the same ratio to $5,000,000 as the number of days after August 16, 1986, and before such 1st day bears to 365.
 
 “(4)
 
@@ -638,7 +638,7 @@ Revolving installment obligations.—For purposes of this paragraph, the term �
 
 &emsp;“(E)
 
-Treatment of certain obligations disposed of on or before october 26, 1987.—For purposes of subparagraphs (B)(i) and (C)(i), in determining the aggregate face amount of revolving installment obligations outstanding as of the close of the taxpayer's last taxable year beginning before January 1, 1987, there shall not be taken into account any obligation—
+Treatment of certain obligations disposed of on or before october 26, 1987.—For purposes ofsubparagraphs (B)(i) and (C)(i), in determining the aggregate face amount of revolving installment obligations outstanding as of the close of the taxpayer's last taxable year beginning before January 1, 1987, there shall not be taken into account any obligation—
 
 &emsp;&emsp;“(i) which was disposed of to an unrelated person on or before October 26, 1987, or
 

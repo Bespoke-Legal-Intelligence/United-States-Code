@@ -68,5 +68,5 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Codification
 
-Another section 409C of act July 1, 1944, is classified to section 284k of this title.
+Another section 409C of act July 1, 1944, was renumbered section 409G and is classified to section 284k of this title.
 

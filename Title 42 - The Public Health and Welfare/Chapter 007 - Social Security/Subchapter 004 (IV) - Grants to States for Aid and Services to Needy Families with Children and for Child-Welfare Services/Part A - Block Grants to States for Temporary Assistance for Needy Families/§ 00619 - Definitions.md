@@ -64,5 +64,5 @@ Par. (4) of this section effective Oct. 1, 1996, with remainder of section effec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 9402; title 21 section 862a.
+This section is referred to in title 20 section 9402; title 21 section 862a; title 25 section 13f.
 

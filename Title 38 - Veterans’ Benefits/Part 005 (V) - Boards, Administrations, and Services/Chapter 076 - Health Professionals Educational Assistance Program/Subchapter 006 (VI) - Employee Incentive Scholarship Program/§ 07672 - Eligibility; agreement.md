@@ -6,7 +6,7 @@ Eligibility.—To be eligible to participate in the Program, an individual must 
 
 (b)
 
-Eligible Department Employees.—For purposes of subsection (a), an eligible Department employee is any employee of the Department who, as of the date on which the employee submits an application for participation in the Program, has been continuously employed by the Department for not less than 2 years.
+Eligible Department Employees.—For purposes of subsection (a), an eligible Department employee is any employee of the Department who, as of the date on which the employee submits an application for participation in the Program, has been continuously employed by the Department for not less than one year.
 
 (c)
 
@@ -20,9 +20,9 @@ Award of Scholarships.—Notwithstanding section 7603(d) of this title, the Secr
 
 Agreement.—(1) An agreement between the Secretary and a participant in the Program shall (in addition to the requirements set forth in section 7604 of this title) include the following:
 
-&emsp;(A) The Secretary's agreement to provide the participant with a scholarship under the Program for a specified number (from one to three) of school years during which the participant pursues a course of education or training described in subsection (c) that meetsthe requirements set forth in section 7602(a) of this title.
+&emsp;(A) The Secretary's agreement to provide the participant with a scholarship under theProgram for a specified number (from one to three) of school years during which the participant pursues a course of education or training described in subsection (c) that meets the requirements set forth in section 7602(a) of this title.
 
-&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereafter in this subchapter referred to as the “period of obligated service”) determined in accordance with regulations prescribed by the Secretary of up to three calendar years for each school year or part thereof for which the participant was provided a scholarship under the Program, but for not less than 3 years.
+&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the “period of obligated service”) determined in accordance with regulations prescribed by the Secretary of up to three calendar years for each school year or part thereof for which the participant was provided a scholarship under the Program, but for not less than 3 years.
 
 &emsp;(C) The participant's agreement to serve under subparagraph (B) in a Department facility selected by the Secretary.
 
@@ -30,5 +30,11 @@ Agreement.—(1) An agreement between the Secretary and a participant in the Pro
 
 (3) In the case of a participant who is a part-time student, the period of obligated service shall be reduced in accordance with the proportion that the number of credit hours carried by such participant in any such school year bears to the number of credit hours required to be carried by a full-time student in the course of training being pursued by the participant, but in no event to less than 1 year.
 
-(Added Pub. L. 105–368, title VIII, §802(a), Nov. 11, 1998, 112 Stat. 3352.)
+(Added Pub. L. 105–368, title VIII, §802(a), Nov. 11, 1998, 112 Stat. 3352; amended Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–135, title I, §101(b), Jan. 23, 2002, 115 Stat. 2447.)
+
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–135 substituted “one year” for “2 years”.
+
+2001—Subsec. (e)(1)(B). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 

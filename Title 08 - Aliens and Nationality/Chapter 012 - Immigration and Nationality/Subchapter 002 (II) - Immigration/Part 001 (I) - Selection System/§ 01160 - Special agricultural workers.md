@@ -26,11 +26,11 @@
 
 #### (2) Adjustment to permanent residence
 
-&emsp;The Attorney General shall adjust the status of any alien provided lawful temporary resident status under paragraph (1) to that of an alien lawfully admitted for permanent residence on the following date:
+&emsp;The Attorney General shall adjust the status of any alien provided lawful temporary resident status under paragraph (1) to that of analien lawfully admitted for permanent residence on the following date:
 
 #### (A) Group 1
 
-&emsp;&emsp;Subject to the numerical limitation established under subparagraph (C), in the case of an alien who has established, at the time of application for temporary residence under paragraph (1), that the alien performed seasonal agricultural services in the United States for at least 90 man-days during each of the 12-month periods ending on May 1, 1984, 1985, and 1986, the adjustment shall occur on the first day after the end of the one-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day afterthe last day of the application period described in paragraph (1)(A).
+&emsp;&emsp;Subject to the numerical limitation established under subparagraph (C), in the case of an alien who has established, at the time of application for temporary residence under paragraph (1), that the alien performed seasonal agricultural services in the United States for at least 90 man-days during each of the 12-month periods ending on May 1, 1984, 1985, and 1986, the adjustment shall occur on the first day after the end of the one-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day after the last day of the application period described in paragraph (1)(A).
 
 #### (B) Group 2
 
@@ -90,7 +90,7 @@
 
 #### (B) Documentation of work history
 
-&emsp;&emsp;(i) An alien applying for adjustment of status under subsection (a)(1) of this section has the burden of proving by a preponderance of the evidence that the alien has worked the requisite number of man-days (as required under subsection (a)(1)(B)(ii) of this section).
+&emsp;&emsp;(i) An alien applying for adjustment of status under subsection (a)(1) of this sectionhas the burden of proving by a preponderance of the evidence that the alien has worked the requisite number of man-days (as required under subsection (a)(1)(B)(ii) of this section).
 
 &emsp;&emsp;(ii) If an employer or farm labor contractor employing such an alien has kept proper and adequate records respecting such employment, the alien's burden of proof under clause (i) may be met by securing timely production of those records under regulations to be promulgated by the Attorney General.
 
@@ -228,7 +228,7 @@
 
 #### (B) Standard for review
 
-&emsp;&emsp;Such administrative appellate review shall be based solely upon the administrative record established at the time of the determination on the application and upon such additional or newly discovered evidence as may not have been available at the time of the determination.
+&emsp;&emsp;Such administrative appellate review shall be based solely upon the administrativerecord established at the time of the determination on the application and upon such additional or newly discovered evidence as may not have been available at the time of the determination.
 
 #### (3) Judicial review
 
@@ -284,7 +284,7 @@ Subsec. (d)(3)(B). Pub. L. 103–416, §219(z)(7), made technical correction to 
 
 1991—Subsec. (b)(7)(B). Pub. L. 102–232, §307(j), substituted “section 1182(a)(6)(C)(i)” for “section 1182(a)(19)”.
 
-Subsec. (d)(3). Pub. L. 102–232, §309(b)(6)(A)–(C), realigned margins of par. (3) and its subparagraphs, andin introductory provisions substituted “Service” for “the Immigration and Naturalization Service (INS)” and “Service” for “INS” in two places.
+Subsec. (d)(3). Pub. L. 102–232, §309(b)(6)(A)–(C), realigned margins of par. (3) and its subparagraphs, and in introductory provisions substituted “Service” for “the Immigration and Naturalization Service (INS)” and “Service” for “INS” in two places.
 
 Subsec. (d)(3)(A). Pub. L. 102–232, §309(b)(6)(D), (E), substituted “period described in” for “period as defined in” and “Service” for “INS”, and made technical amendment to reference to this chapter involving corresponding provision of original act.
 

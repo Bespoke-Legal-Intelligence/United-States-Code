@@ -10,7 +10,7 @@
 
 &emsp;(4) “tribally controlled college or university” means an institution of higher education which is formally controlled, or has been formally sanctioned, or chartered, by the governing body of an Indian tribe or tribes, except that no more than one such institution shall be recognized with respect to any such tribe;
 
-&emsp;(5) “institution of higher education” means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause\(2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
+&emsp;(5) “institution of higher education” means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
 
 &emsp;(6) “national Indian organization” means an organization which the Secretary finds is nationally based, represents a substantial Indian constituency, and has expertise in the field of Indian education;
 
@@ -32,7 +32,7 @@
 
 &emsp;(6) No credit hours earned by an Indian student who is not making satisfactory progress toward a degree or certificate shall be taken into account.
 
-(Pub. L. 95–471, §2, formerly §1, Oct. 17, 1978, 92 Stat. 1325; renumbered §2 and amended Pub. L. 98–192, §1, Dec. 1, 1983, 97 Stat. 1335; Pub. L. 99–428, §3, Sept. 30, 1986, 100 Stat. 982; Pub. L. 105–244, title I, §102(a)(8)(B), title IX, §901(b)(5), (9), Oct. 7, 1998, 112 Stat. 1619, 1828.)
+(Pub. L. 95–471, §2, formerly §1, Oct. 17, 1978, 92 Stat. 1325; renumbered §2 and amended Pub. L.98–192, §1, Dec. 1, 1983, 97 Stat. 1335; Pub. L. 99–428, §3, Sept. 30, 1986, 100 Stat. 982; Pub. L. 105–244, title I, §102(a)(8)(B), title IX, §901(b)(5), (9), Oct. 7, 1998, 112 Stat. 1619, 1828.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Short Title of 1990 Amendment
 
-Section 401 of title IV of Pub. L. 95–471, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat.804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
+Section 401 of title IV of Pub. L. 95–471, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
 
 #### Short Title of 1986 Amendment
 
@@ -104,7 +104,7 @@ Ex. Ord. No. 13021, Oct. 19, 1996, 61 F.R. 54929, as amended by Ex. Ord. No. 131
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, in reaffirmation of the special relationship of the Federal Government to American Indians and Alaska Natives, and, for the purposes of helping to: (a) ensure that tribal colleges and universities are more fully recognized as accredited institutions, have access to the opportunities afforded other institutions, and have Federal resources committed to them on a continuing basis; (b) establish a mechanism that will increase accessibility of Federal resources for tribal colleges and universities in tribal communities; (c) promote access to high-quality educational opportunity for economically disadvantaged students; (d) promote the preservation and the revitalization of American Indian and Alaska Native languages and cultural traditions; (e) explore innovative approaches to better link tribal colleges with early childhood, elementary, and secondary education programs; and (f) support the National Education Goals (20 U.S.C. 5812), it is hereby ordered as follows:
 
-Section 1. <i>Definition of Tribal Colleges and Universities</i>. Tribal colleges and universities (“tribal colleges”) are those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), any other institution that qualifies for funding under the Tribally Controlled Community College Assistance Act of 1978 \[now Tribally Controlled College or University Assistance Act of 1978\], (25 U.S.C. 1801 <i>et seq</i>.), and Navajo Community College, authorized in the Navajo Community College Assistance Act of 1978, Public Law 95-471, title II (25 U.S.C. 640a note).
+Section 1. <i>Definition of Tribal Colleges and Universities</i>. Tribal colleges and universities (“tribal colleges”) are those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), any other institution that qualifies for funding under the Tribally Controlled Community College Assistance Act of 1978 \[now Tribally Controlled College orUniversity Assistance Act of 1978\], (25 U.S.C. 1801 <i>et seq</i>.), and Navajo Community College, authorized in the Navajo Community College Assistance Act of 1978, Public Law 95-471, title II (25 U.S.C. 640a note).
 
 Sec. 2. <i>Board of Advisors</i>. (a) <i>Establishment</i>. There shall be established in the Department of Education a Presidential advisory committee entitled the President's Board of Advisors on Tribal Colleges and Universities (“Board”). Notwithstanding the provisions of any other Executive order, the responsibilities of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), with respect to the Board, shall be performed by the Secretary of Education (“Secretary”), in accordance with the guidelines and procedures established by the Administrator of General Services.
 
@@ -172,7 +172,9 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Board of Advisors on Tribal Colleges and Universities
 
-Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Section Referred to in Other Sections
 

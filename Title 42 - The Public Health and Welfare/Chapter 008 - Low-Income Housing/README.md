@@ -1564,7 +1564,7 @@ Protection of guarantees issued by United States; inclusion by purchaser in gros
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1382a, 1396r–1a, 1404a, 1434, 1436a, 1436b, 1439, 1471, 1485, 1490a, 1502, 1503, 1504, 1586, 1590, 1594c, 1766, 3013, 5153, 5515, 8003, 11903, 12705, 12896, 12910, 14614 of this title; title 12 sections 24, 1441a, 1701r–1, 1715z–1a, 1701z–3, 1701z–11, 1715<i>l</i>, 1831q; title 25 sections 640d–14, 4103, 4111, 4112, 4116, 4133, 4140, 4152, 4181, 4182, 4183, 4191; title 26 section 32; title 29 section 1605.
+This chapter is referred to in sections 1382a, 1396r–1a, 1404a, 1434, 1436a, 1436b, 1439, 1471, 1485, 1490a, 1502, 1503, 1504, 1586, 1590, 1594c, 1766, 3013, 5153, 5515, 8003, 11903, 12705, 12896, 12910, 14614 of this title; title 12 sections 24, 1441a, 1701r–1, 1715z–1a, 1701z–3, 1701z–11, 1715<i>l</i>, 1831q; title 25 sections 640d–14, 4103, 4111, 4112, 4116, 4133, 4140, 4152, 4181, 4182, 4183, 4191; title 26 section 32.
 
 
 ---

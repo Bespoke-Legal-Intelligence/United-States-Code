@@ -76,7 +76,7 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 #### (A) Estimates by Secretary
 
-&emsp;&emsp;The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under section 59A, this section (to the extent attributable to the Hazardous Substance Superfund financing rate), and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
+&emsp;&emsp;The Secretary as of the close of each calendar quarter (and at such other times asthe Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under section 59A, this section (to the extent attributable to the Hazardous Substance Superfund financing rate), and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
 
 #### (B) Termination if $11,970,000,000 credited before January 1, 1996
 
@@ -160,7 +160,7 @@ Section 8032(d) of Pub. L. 99–509, as amended by Pub. L. 99–514, §2, Oct. 2
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4612, 4661, 4671, and 9507 of this title\] shall take effect on the commencement date (as defined in section 4611(f)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section).
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 4612, 4661, 4671, and 9507 of this title\] shall take effect on the commencement date (as defined in section 4611(f)(2) of the Internal RevenueCode of 1986 \[formerly I.R.C. 1954\], as added by this section).
 
 “(2)
 

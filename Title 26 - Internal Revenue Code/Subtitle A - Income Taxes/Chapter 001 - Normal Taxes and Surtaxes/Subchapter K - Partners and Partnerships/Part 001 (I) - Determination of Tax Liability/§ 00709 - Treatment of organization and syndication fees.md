@@ -38,5 +38,5 @@ Subsection (e).—The amendment made by subsection (e) \[amending section 704 of
 
 Section 709(b)
 
-of the code.—Section 709(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (b)(1) of this section) shall apply in the case of amounts paid or incurred in taxable years beginning after December 31, 1976.”
+of the code.—Section 709(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (b)(1) of this section) shall apply in the case of amounts paid orincurred in taxable years beginning after December 31, 1976.”
 

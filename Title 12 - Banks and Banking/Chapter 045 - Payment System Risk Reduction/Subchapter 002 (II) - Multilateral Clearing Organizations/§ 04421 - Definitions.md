@@ -10,7 +10,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 &emsp;The term “over-the-counter derivative instrument” includes—
 
-&emsp;&emsp;(A) any agreement, contract, or transaction, including the terms and conditions incorporated by reference in any such agreement, contract, or transaction, which is an interest rate swap, option, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, basis swap,and forward rate agreement; a same day-tomorrow, tomorrow-next, forward, or other foreign exchange or precious metals agreement; a currency swap, option, or forward agreement; an equity index or equity swap, option, or forward agreement; a debt index or debt swap, option, or forward agreement; a credit spread or credit swap, option, or forward agreement; a commodity index or commodity swap, option, or forward agreement; and a weather swap, weather derivative, or weather option;
+&emsp;&emsp;(A) any agreement, contract, or transaction, including the terms and conditions incorporated by reference in any such agreement, contract, or transaction, which is an interest rate swap, option, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, basis swap, and forward rate agreement; a same day-tomorrow, tomorrow-next, forward, or other foreign exchange or precious metals agreement; a currency swap, option, or forward agreement; an equity index or equity swap, option, or forward agreement; a debt index or debt swap, option, or forward agreement; a credit spread or credit swap, option, or forward agreement; a commodity index or commodity swap, option, or forward agreement; and a weather swap, weather derivative, or weather option;
 
 &emsp;&emsp;(B) any agreement, contract or transaction similar to any other agreement, contract, or transaction referred to in this clause <sup>1</sup> that is presently, or in the future becomes, regularly entered into by parties that participate in swap transactions (including terms and conditions incorporated by reference in the agreement) and that is a forward, swap, or option on one or more occurrences of any event, rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, economic or other indices or measures of economic or other risk or value;
 
@@ -20,7 +20,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (3) Other definitions
 
-&emsp;The terms “insured State nonmember bank”, “State member bank”, and “affiliate” have the same meanings as in section 78c of title 15.
+&emsp;The terms “insured State nonmember bank”, “State member bank”, and “affiliate” have the same meanings as in section 1813 of this title.
 
 (Pub. L. 102–242, title IV, §408, as added Pub. L. 106–554, §1(a)(5) \[title I, §112(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391.)
 

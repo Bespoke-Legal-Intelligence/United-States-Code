@@ -1,14 +1,16 @@
 ### §1162. Clothing allowance
 
-The Secretary under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $546 per year to each veteran who—
+The Secretary under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $580 per year to each veteran who—
 
 &emsp;(1) because of a service-connected disability, wears or uses a prosthetic or orthopedic appliance (including a wheelchair) which the Secretary determines tends to wear out or tear the clothing of the veteran; or
 
 &emsp;(2) uses medication which (A) a physician has prescribed for a skin condition which is due to a service-connected disability, and (B) the Secretary determines causes irreparable damage to the veteran's outergarments.
 
-(Added Pub. L. 92–328, title I, §103(a), June 30, 1972, 86 Stat. 394, §362; amended Pub. L. 94–71, title I, §103, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title III, §301, title IV, §404(24), Sept. 30, 1976, 90 Stat. 1377, 1379; Pub. L. 95–117, title III, §301, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 95–479, title I, §103, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, §103, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title I, §103, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, §103, Oct. 17, 1981, 95Stat. 1027; Pub. L. 97–253, title IV, §405(d), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§103, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §103, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §103, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §103, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §103, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, §103, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, §1103, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §§103, 112, Dec. 18, 1989, 103 Stat. 2063, 2065; Pub. L. 102–3, §4, Feb. 6, 1991, 105 Stat. 8; renumbered §1162, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §4, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, §3, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §4, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §4, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, §4, Nov. 30, 1999, 113 Stat. 1602.)
+(Added Pub. L. 92–328, title I, §103(a), June 30, 1972, 86 Stat. 394, §362; amended Pub. L. 94–71, title I, §103, Aug. 5, 1975, 89 Stat. 396; Pub. L. 94–433, title III, §301, title IV, §404(24), Sept. 30, 1976, 90 Stat. 1377, 1379; Pub. L. 95–117, title III, §301, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 95–479, title I, §103, Oct. 18, 1978, 92 Stat. 1562; Pub. L. 96–128, title I, §103, Nov. 28, 1979, 93 Stat. 984; Pub. L. 96–385, title I, §103, Oct. 7, 1980, 94 Stat. 1529; Pub. L. 97–66, title I, §103, Oct. 17, 1981, 95 Stat. 1027; Pub. L. 97–253, title IV, §405(d), Sept. 8, 1982, 96 Stat. 804; Pub. L. 97–306, title I, §§103, 107, Oct. 14, 1982, 96 Stat. 1430, 1431; Pub. L. 98–223, title I, §103, Mar. 2, 1984, 98 Stat. 38; Pub. L. 98–543, title I, §103, Oct. 24, 1984, 98 Stat. 2736; Pub. L. 99–238, title I, §103, Jan. 13, 1986, 99 Stat. 1766; Pub. L. 99–576, title I, §103, Oct. 28, 1986, 100 Stat. 3251; Pub. L. 100–227, title I, §103, Dec. 31, 1987, 101 Stat. 1553; Pub. L. 100–687, div. B, title XI, §1103, Nov. 18, 1988, 102 Stat. 4124; Pub. L. 101–237, title I, §§103, 112, Dec. 18, 1989, 103 Stat. 2063, 2065; Pub. L. 102–3, §4, Feb. 6, 1991, 105 Stat. 8; renumbered §1162, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–152, §4, Nov. 12, 1991, 105 Stat. 986; Pub. L. 103–78, §3, Aug. 13, 1993, 107 Stat. 768; Pub. L. 103–140, §4, Nov. 11, 1993, 107 Stat. 1486; Pub. L. 105–98, §4, Nov. 19, 1997, 111 Stat. 2156; Pub. L. 106–118, §4, Nov. 30, 1999, 113 Stat. 1602; Pub. L. 107–94, §4, Dec. 21, 2001, 115 Stat. 901.)
 
 #### Amendments
+
+2001—Pub. L. 107–94 substituted “$580” for “$546”.
 
 1999—Pub. L. 106–118 substituted “$546” for “$528”.
 
@@ -57,6 +59,10 @@ Pub. L. 97–253, §405(d), (h), eff. Jan. 1, 1983, substituted “$304” for �
 1976—Pub. L. 94–433, §§301, 404(24), substituted “$190” for “$175” and “the Administrator shall prescribe” for “he shall prescribe”.
 
 1975—Pub. L. 94–71 substituted $175 for $150.
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–94 effective Dec. 1, 2001, see section 7 of Pub. L. 107–94, set out as a note under section 1114 of this title.
 
 #### Effective Date of 1999 Amendment
 

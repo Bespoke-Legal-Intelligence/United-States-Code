@@ -66,7 +66,7 @@ Section 1542(f), referred to in subsec. (b)(5), is section 1542(f) of Pub. L. 10
 
 #### Codification
 
-Section was enacted as part of the Agricultural Development and Trade Act of 1990, and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the National Agricultural Research,Extension, and Teaching Policy Act of 1977 which comprises this chapter.
+Section was enacted as part of the Agricultural Development and Trade Act of 1990, and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
 #### Amendments
 

@@ -42,7 +42,7 @@ The establishment under section 284a of this title of an advisory council for th
 
 &emsp;(2) Of such members—
 
-&emsp;&emsp;(A) six members shall be scientists, engineers, physicians, and other health professionals who represent disciplines in biomedical imaging and bioengineering and whoare not officers or employees of the United States; and
+&emsp;&emsp;(A) six members shall be scientists, engineers, physicians, and other health professionals who represent disciplines in biomedical imaging and bioengineering and who are not officers or employees of the United States; and
 
 &emsp;&emsp;(B) six members shall be scientists, engineers, physicians, and other health professionals who represent other disciplines and are knowledgeable about the applications of biomedical imaging and bioengineering in medicine, and who are not officers or employees of the United States.
 

@@ -8,7 +8,7 @@ Leasing of Commercial Vehicles and Equipment.—The Secretary of Defense may use
 
 Limitation on Contracts With Terms of 18
 
-Months or More.—The Secretary of Defense or the Secretary of a military department may not enter into any contract with a term of 18 months or more, or extend or renew any contract for a term of 18 months or more, for any vessel, aircraft, or vehicle, through a lease, charter, or similar agreement, unless the Secretary has considered all costs of such contract (including estimated termination liability) and has determined in writing that the contract is in the best interest of the Government.
+Months or More.—The Secretary of Defense or the Secretary of a military department maynot enter into any contract with a term of 18 months or more, or extend or renew any contract for a term of 18 months or more, for any vessel, aircraft, or vehicle, through a lease, charter, or similar agreement, unless the Secretary has considered all costs of such contract (including estimated termination liability) and has determined in writing that the contract is in the best interest of the Government.
 
 (Added Pub. L. 103–355, title III, §3065(a)(1), Oct. 13, 1994, 108 Stat. 3337; amended Pub. L. 104–106, div. A, title VIII, §807(a)(1), Feb. 10, 1996, 110 Stat. 391; Pub. L. 105–85, div. A, title X, §1073(a)(52), Nov. 18, 1997, 111 Stat. 1903.)
 
@@ -25,6 +25,48 @@ A prior section 2401a was renumbered section 2350f of this title.
 1996—Pub. L. 104–106 substituted “Lease of vehicles, equipment, vessels, and aircraft” for “Lease of vessels, aircraft, and vehicles” as section catchline, designated existing text as subsec. (b), inserted subsec. (b) heading, and added subsec. (a).
 
 #### Multi-Year Aircraft Lease Pilot Program
+
+Pub. L. 107–117, div. A, title VIII, §8159, Jan. 10, 2002, 115 Stat. 2284, provided that:
+
+“(a) The Secretary of the Air Force may, from funds provided in this Act \[see Tables for classification\] or any future appropriations Act, establish and make payments on a multi-year pilot program for leasing general purpose Boeing 767 aircraft and Boeing 737 aircraft in commercial configuration.
+
+“(b) Sections 2401 and 2401a of title 10, United States Code, shall not apply to any aircraft lease authorized by this section.
+
+“(c) Under the aircraft lease Pilot Program authorized by this section:
+
+&emsp;“(1) The Secretary may include terms and conditions in lease agreements that are customary in aircraft leases by a non-Government lessor to a non-Government lessee, but only those that are not inconsistent with any of the terms and conditions mandated herein.
+
+&emsp;“(2) The term of any individual lease agreement into which the Secretary enters under this section shall not exceed 10 years, inclusive of any options to renew or extend the initial lease term.
+
+&emsp;“(3) The Secretary may provide for special payments in a lessor if the Secretary terminates or cancels the lease prior to the expiration of its term. Such special payments shall not exceed an amount equal to the value of 1 year's lease payment under the lease.
+
+&emsp;“(4) Subchapter IV of chapter 15 of title 31, United States Code shall apply to the lease transactions under this section, except that the limitation in section 1553(b)(2) shall not apply.
+
+&emsp;“(5) The Secretary shall lease aircraft under terms and conditions consistent with this section and consistent with the criteria for an operating lease as defined in OMB Circular A–11, as in effect at the time of the lease.
+
+&emsp;“(6) Lease arrangements authorized by this section may not commence until:
+
+&emsp;&emsp;“(A) The Secretary submits a report to the congressional defense committees \[Committees on Armed Services of the Senate and House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and House of Representatives\] outlining the plans for implementing the Pilot Program. The report shall describe the terms and conditions of proposed contracts and describe the expected savings, if any, comparing total costs, including operation, support, acquisition, and financing, of the lease, including modification, with the outright purchase of the aircraft as modified.
+
+&emsp;&emsp;“(B) A period of not less than 30 calendar days has elapsed after submitting the report.
+
+&emsp;“(7) Not later than 1 year after the date on which the first aircraft is delivered under this Pilot Program, and yearly thereafter on the anniversary of the first delivery, the Secretary shall submit a report to the congressional defense committees describing the status of the Pilot Program. The Report will be based on at least 6 months of experience in operating the Pilot Program.
+
+&emsp;“(8) The Air Force shall accept delivery of the aircraft in a general purpose configuration.
+
+&emsp;“(9) At the conclusion of the lease term, each aircraft obtained under that lease may be returned to the contractor in the same configuration in which the aircraft was delivered.
+
+&emsp;“(10) The present value of the total payments over the duration of each lease entered into under this authority shall not exceed 90 percent of the fair market value of the aircraft obtained under that lease.
+
+“(d) No lease entered into under this authority shall provide for—
+
+&emsp;“(1) the modification of the general purpose aircraft from the commercial configuration, unless and until separate authority for such conversion is enacted and only to the extent budget authority is provided in advance in appropriations Acts for that purpose; or
+
+&emsp;“(2) the purchase of the aircraft by, or the transfer of ownership to, the Air Force.
+
+“(e) The authority granted to the Secretary of the Air Force by this section is separate from and in addition to, and shall not be construed to impair or otherwise affect, the authority of the Secretary to procure transportation or enter into leases under a provision of law other than this section.
+
+“(f) The authority provided under this section may be used to lease not more than a total of 100 Boeing 767 aircraft and 4 Boeing 737 aircraft for the purposes specified herein.”
 
 Pub. L. 106–79, title VIII, §8133, Oct. 25, 1999, 113 Stat. 1267, provided that:
 

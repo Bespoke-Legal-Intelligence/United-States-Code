@@ -1,8 +1,8 @@
 ### §1363. Buildings or property within special maritime and territorial jurisdiction
 
-Whoever, within the special maritime and territorial jurisdiction of the United States, willfully and maliciously destroys or injures or attempts to destroy or injure any structure, conveyance, or other real or personal property, shall be fined under this title or imprisoned not more than five years, or both, and if the building be a dwelling, or the life of any person be placed in jeopardy, shall be fined under this title or imprisoned not more than twenty years, or both.
+Whoever, within the special maritime and territorial jurisdiction of the United States, willfully and maliciously destroys or injures any structure, conveyance, or other real or personal property, or attempts or conspires to do such an act, shall be fined under this title or imprisoned not more than five years, or both, and if the building be a dwelling, or the life of any person be placed in jeopardy, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, §703, Apr. 24, 1996, 110 Stat. 1294.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXIII, §330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, §703, Apr. 24, 1996, 110 Stat. 1294; Pub. L. 107–56, title VIII, §811(d), Oct. 26, 2001, 115 Stat. 381.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,9 @@ Said sections were consolidated and rewritten both as to form and substance. The
 
 #### Amendments
 
-1996—Pub. L. 104–132 substituted “any structure, conveyance, or other real or personal property” for “any building, structure or vessel, any machinery or building materials and supplies, military or naval stores, munitions of war or any structural aids or appliances for navigation or shipping”.
+2001—Pub. L. 107–56 struck out “or attempts to destroy or injure” after “destroys or injures” and inserted “or attempts or conspires to do such an act,” after “personal property,”.
+
+1996—Pub. L. 104–132 substituted “any structure, conveyance, or other real or personal property” for “anybuilding, structure or vessel, any machinery or building materials and supplies, military or naval stores, munitions of war or any structural aids or appliances for navigation or shipping”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” after “shipping, shall be” and for “fined not more than $5,000” after “jeopardy, shall be”.
 

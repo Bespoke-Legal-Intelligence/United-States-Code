@@ -20,5 +20,5 @@ Provisions similar to those in this section were contained in sections 3850 and 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14101, 14514 of this title.
+This section is referred to in sections 1558, 14101, 14514 of this title.
 

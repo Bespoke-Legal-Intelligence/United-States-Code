@@ -14,7 +14,7 @@ The President shall take all appropriate steps to assure that, to the maximum ex
 
 #### (c) Voluntary family planning programs; limitation
 
-In addition to funds otherwise available, excess foreign currencies, as defined in subsection (b) of this section, may be made available to friendly foreign governments and to private, nonprofit United States organizations to carry out voluntary family planning programs in countries which request such assistance. No such program shall be assisted unless the President has received assurances that in the administration of such program the recipient will take reasonable precautions to insure that no person receives any family planning assistance or supplies unless he desires such services. The excess foreign currencies made available under this subsection shall not, in any one year, exceed 5 per centum of the aggregate of all excess foreigncurrencies. As used in this subsection, the term “voluntary family planning program” includes, but is not limited to, demographic studies, medical and psychological research, personnel training, the construction and staffing of clinics and rural health centers, specialized training of doctors and paramedical personnel, the manufacture of medical supplies, and the dissemination of family planning information, medical assistance, and supplies to individuals who desire such assistance.
+In addition to funds otherwise available, excess foreign currencies, as defined in subsection (b) of this section, may be made available to friendly foreign governments and to private, nonprofit United States organizations to carry out voluntary family planning programs in countries which request such assistance. No such program shall be assisted unless the President has received assurances that in the administration of such program the recipient will take reasonable precautions to insure that no person receives any family planning assistance or supplies unless he desires such services. The excess foreign currencies made available under this subsection shall not, in any one year, exceed 5 per centum of the aggregate of all excess foreign currencies. As used in this subsection, the term “voluntary family planning program” includes, but is not limited to, demographic studies, medical and psychological research, personnel training, the construction and staffing of clinics and rural health centers, specialized training of doctors and paramedical personnel, the manufacture of medical supplies, and the dissemination of family planning information, medical assistance, and supplies to individuals who desire such assistance.
 
 #### (d) Reciprocal release of dollar value equivalents
 
@@ -54,11 +54,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Separate Accounts for Local Currencies and Cash Transfers
 
-Pub. L. 106–429, §101(a) \[title V, §532\], Nov. 6, 2000, 114 Stat. 1900, 1900A–32, provided that:
+Pub. L. 107–115, title V, §529, Jan. 10, 2002, 115 Stat. 2148, provided that:
 
 “(a)
 
-Separate Accounts for Local Currencies.—(1) If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the Agency for International Development shall—
+Separate Accounts for Local Currencies.—(1) If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—
 
 &emsp;“(A) require that local currencies be deposited in a separate account established by that government;
 
@@ -68,7 +68,7 @@ Separate Accounts for Local Currencies.—(1) If assistance is furnished to the 
 
 &emsp;&emsp;“(ii) the terms and conditions under which the currencies so deposited may be utilized, consistent with this section; and
 
-&emsp;“(C) establish by agreement with that government the responsibilities of the Agency for International Development and that government to monitor and account for deposits into and disbursements from the separate account.
+&emsp;“(C) establish by agreement with that government the responsibilities of the United States Agency for International Development and that government to monitor and account for deposits into and disbursements from the separate account.
 
 “(2)
 
@@ -84,7 +84,7 @@ Uses of Local Currencies.—As may be agreed upon with the foreign government, l
 
 “(3)
 
-Programming Accountability.—The Agency for International Development shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2).
+Programming Accountability.—The United States Agency for International Development shall take all necessary steps to ensure that the equivalent of the local currencies disbursed pursuant to subsection (a)(2)(A) from the separate account established pursuant to subsection (a)(1) are used for the purposes agreed upon pursuant to subsection (a)(2).
 
 “(4)
 
@@ -92,7 +92,7 @@ Termination of Assistance Programs.—Upon termination of assistance to a countr
 
 “(5)
 
-Reporting Requirement.—The Administrator of the Agency for International Development shall report on an annual basis as part of the justification documents submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used and/or to be used for such purpose in each applicable country.
+Reporting Requirement.—The Administrator of the United States Agency for International Development shall report on an annual basis as part of the justification documents submitted to the Committees on Appropriations on the use of local currencies for the administrative requirements of the United States Government as authorized in subsection (a)(2)(B), and such report shall include the amount of local currency (and United States dollar equivalent) used and/or to be used for such purpose in each applicable country.
 
 “(b)
 
@@ -111,6 +111,8 @@ Notification.—At least 15 days prior to obligating any such cash transfer or n
 Exemption.—Nonproject sector assistance funds may be exempt from the requirements of subsection (b)(1) only through the notification procedures of the Committees on Appropriations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–429, §101(a) \[title V, §532\], Nov. 6, 2000, 114 Stat. 1900, 1900A–32.
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §532\], Nov. 29, 1999, 113 Stat. 1535, 1501A–91.
 

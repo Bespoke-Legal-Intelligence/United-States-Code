@@ -64,7 +64,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (4) Report
 
-&emsp;Within 5 years after February 8, 1996, the Commission shall report to the Congress onthe implementation of the program required by this subsection, and shall annually thereafter advise the Congress on the amounts collected pursuant to such program.
+&emsp;Within 5 years after February 8, 1996, the Commission shall report to the Congress on the implementation of the program required by this subsection, and shall annually thereafter advise the Congress on the amounts collected pursuant to such program.
 
 #### (f) Preservation of low-power community television broadcasting
 
@@ -122,7 +122,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 #### (4) Issuance of licenses for advanced television services to television translator stations and qualifying low-power television stations
 
-&emsp;The Commission is not required to issue any additional license for advanced television services to the licensee of a class A television station under this subsection, or to any licensee of any television translator station, but shall accept a license application for such services proposing facilities that will not cause interference to the service area of any other broadcast facility applied for, protected,permitted, or authorized on the date of filing of the advanced television application. Such new license or the original license of the applicant shall be forfeited after the end of the digital television service transition period, as determined by the Commission. A licensee of a low-power television station or television translator station may, at the option of licensee, elect to convert to the provision of advanced television services on its analog channel, but shall not be required to convert to digital operation until the end of such transition period.
+&emsp;The Commission is not required to issue any additional license for advanced television services to the licensee of a class A television station under this subsection, or to any licensee of any television translator station, but shall accept a license application for such services proposing facilities that will not cause interference to the service area of any other broadcast facility applied for, protected, permitted, or authorized on the date of filing of the advanced television application. Such new license or the original license of the applicant shall be forfeited after the end of the digital television service transition period, as determined by the Commission. A licensee of a low-power television station or television translator station may, at the option of licensee, elect to convert to the provision of advanced television services on its analog channel, but shall not be required to convert to digital operation until the end of such transition period.
 
 #### (5) No preemption of section 337
 
@@ -146,7 +146,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;&emsp;&emsp;(i) the predicted Grade B contour (as of the date of the enactment of the Community Broadcasters Protection Act of 1999 \[November 29, 1999\], or November 1, 1999, whichever is later, or as proposed in a change application filed on or before such date) of any television station transmitting in analog format; or
 
-&emsp;&emsp;&emsp;(ii)(I) the digital television service areas provided in the DTV Table of Allotments; (II) the areas protected in the Commission's digital television regulations (47 CFR 73.622(e) and (f)); (III) the digital television service areas of stations subsequently granted by the Commission prior to the filing of a class A application; and (IV) stations seeking to maximize power under the Commission's rules, if such station has complied with the notification requirements in paragraph (1)(D);
+&emsp;&emsp;&emsp;(ii)(I) the digital television service areas provided in the DTV Table of Allotments; (II) the areas protected in the Commission's digital television regulations (47 CFR 73.622(e) and (f)); (III) the digital television service areas of stations subsequently granted by the Commission priorto the filing of a class A application; and (IV) stations seeking to maximize power under the Commission's rules, if such station has complied with the notification requirements in paragraph (1)(D);
 
 &emsp;&emsp;(B) interference within the protected contour of any low-power television station or low-power television translator station that—
 
@@ -300,7 +300,7 @@ The date of enactment of LPTV Digital Data Services Act, referred to in subsec. 
 
 #### Reports on Provision of Digital Data Service by Low-Power Television Stations
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “The Federal Communications Commission shall submit a report to the Congress on June 30, 2001, and June 30, 2002, evaluating the utility of using low-power television stations to provide high-speed digital data service. The reports shall be based on the pilot projects authorized by section 336(h) of the Communications Act of 1934 (47 U.S.C. 336(h)).”
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “The Federal Communications Commission shall submit a report to the Congress on June 30, 2001, and June 30,2002, evaluating the utility of using low-power television stations to provide high-speed digital data service. The reports shall be based on the pilot projects authorized by section 336(h) of the Communications Act of 1934 (47 U.S.C. 336(h)).”
 
 #### Congressional Findings Regarding Low-Power Broadcasters
 
@@ -318,7 +318,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(b)\], Nov. 29, 1999, 1
 
 #### Executive Order No. 13038
 
-Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, which established the Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters, was revoked by Ex. Ord. No. 13138, §3(b), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, which established the Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters, was revoked by Ex. Ord. No. 13138, §3(b), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

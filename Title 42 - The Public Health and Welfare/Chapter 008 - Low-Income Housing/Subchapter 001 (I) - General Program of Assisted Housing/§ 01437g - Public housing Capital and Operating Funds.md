@@ -2,7 +2,7 @@
 
 #### (a) Merger into Capital Fund
 
-Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998,any assistance made available for public housing under section 1437<i>l</i> of this title before October 1, 1999, shall be merged into the Capital Fund established under subsection (d) of this section.
+Except as otherwise provided in the Quality Housing and Work Responsibility Act of 1998, any assistance made available for public housing under section 1437<i>l</i> of this title before October 1, 1999, shall be merged into the Capital Fund established under subsection (d) of this section.
 
 #### (b) Merger into Operating Fund
 
@@ -80,7 +80,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (B) Modernization
 
-&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts provided under this subsection or under section 1437<i>l</i> of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
+&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts providedunder this subsection or under section 1437<i>l</i> of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
 
 #### (C) Applicability of latest expiration date
 
@@ -140,7 +140,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (C) Treatment of savings
 
-&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with athird party to undertake energy conservation improvements in one or more of its public housing projects.
+&emsp;&emsp;The treatment of utility and waste management costs under the formula shall provide that a public housing agency shall receive the full financial benefit from any reduction in the cost of utilities or waste management resulting from any contract with a third party to undertake energy conservation improvements in one or more of its public housing projects.
 
 #### (3) Condition on use
 
@@ -202,7 +202,7 @@ To the extent amounts are provided in advance in appropriations Acts, the Secret
 
 &emsp;(8) assistance in connection with the establishment and operation of computer centers in public housing through a Neighborhood Networks initiative described in subsection (d)(1)(E) of this section.
 
-> As used in this subsection, the terms “training” and “technical assistance” shall include training or technical assistance and the cost of necessary travel for participants in such training or technical assistance, by or to officials and employees of the Department and of public housingagencies, and to residents and to other eligible grantees.
+> As used in this subsection, the terms “training” and “technical assistance” shall include training or technical assistance and the cost of necessary travel for participants in such training or technical assistance, by or to officials and employees of the Department and of public housing agencies, and to residents and to other eligible grantees.
 
 #### (i) Eligibility of units acquired from proceeds of sales under demolition or disposition plan
 
@@ -513,6 +513,12 @@ Amendment by Pub. L. 95–557 effective Oct. 1, 1978, see section 206(h) of Pub.
 #### Effective Date
 
 Section effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after Aug. 22, 1974, except that all of the provisions of subsec. (c) shall become effective on the same date, see section 201(b) of Pub. L. 93–383, set out as a note under section 1437 of this title.
+
+#### Applicability of Penalties for Slow Expenditure of Capital Funds
+
+Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 660, provided in part: “That, hereafter, notwithstanding any other provision of law or any failure of the Secretary of Housing and Urban Development to issue regulations to carry out section 9(j) of the United States Housing Act of 1937 (42 U.S.C. 1437g(j)), such section is deemed to have taken effect on October 1, 1998, and, except as otherwise provided in this heading \[“
+
+public housing capital fund (including transfer of funds)”\], shall apply to all assistance made available under this same heading on or after such date”.
 
 #### Cooling Degree Day Adjustment Under Performance Funding System
 

@@ -16,7 +16,7 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–204 struck out subsec. (c) which read as follows: “The head of each agency utilizing the Foreign Service personnel system shall report annually to the Congress on the plan developed pursuant to this section as part of the report required to be submitted pursuant to section 3905(d)(2) of this title. Subsequent reports pursuant to that section shall include reports on the implementation of these plans, giving particular attention to the progress being made in increasing, through advancement and promotion, the numbers of members of minority groups and women in the mid-levels of the Foreign Service.”
+1987—Subsec. (c). Pub. L. 100–204 struck out subsec. (c) which read as follows: “The head of each agency utilizing the Foreign Service personnel system shall report annually to the Congress on the plan developed pursuant to this section as part of the report requiredto be submitted pursuant to section 3905(d)(2) of this title. Subsequent reports pursuant to that section shall include reports on the implementation of these plans, giving particular attention to the progress being made in increasing, through advancement and promotion, the numbers of members of minority groups and women in the mid-levels of the Foreign Service.”
 
 #### Report Concerning Minorities and the Foreign Service
 

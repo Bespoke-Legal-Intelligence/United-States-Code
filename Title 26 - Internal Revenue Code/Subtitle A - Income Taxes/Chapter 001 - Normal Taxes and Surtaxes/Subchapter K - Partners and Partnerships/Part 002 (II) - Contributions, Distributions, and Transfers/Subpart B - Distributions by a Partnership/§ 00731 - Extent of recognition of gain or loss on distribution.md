@@ -76,7 +76,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;In the case of a distribution of marketable securities to a partner, the amount taken into account under paragraph (1) shall be reduced (but not below zero) by the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) such partner's distributive share of the net gain which would be recognized if all of the marketable securities of the same class and issuer as the distributed securities held by the partnership were sold (immediately before the transaction to which the distribution relates) by the partnership for fair market value, over
+&emsp;&emsp;&emsp;(i) such partner's distributive share of the net gain which would be recognized ifall of the marketable securities of the same class and issuer as the distributed securities held by the partnership were sold (immediately before the transaction to which the distribution relates) by the partnership for fair market value, over
 
 &emsp;&emsp;&emsp;(ii) such partner's distributive share of the net gain which is attributable to the marketable securities of the same class and issuer as the distributed securities held by the partnership immediately after the transaction, determined by using the same fair market value as used under clause (i).
 
@@ -162,7 +162,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (d) Exceptions
 
-This section shall not apply to the extent otherwise provided by section 736 (relating to payments to a retiring partner or a deceased partner's successor in interest), section 751 (relating to unrealized receivables and inventory items), and section 737 (relating to recognition of precontribution gain in case of certain distributions).
+This section shall not apply to the extent otherwise provided by section 736 (relating to payments to a retiring partner or a deceased partner's successor in interest), section 751 (relating to unrealized receivables and inventoryitems), and section 737 (relating to recognition of precontribution gain in case of certain distributions).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 102–486, title XIX, §1937(b)(2), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–465, title VII, §741(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 105–34, title X, §1062(b)(3), Aug. 5, 1997, 111 Stat. 947.)
 

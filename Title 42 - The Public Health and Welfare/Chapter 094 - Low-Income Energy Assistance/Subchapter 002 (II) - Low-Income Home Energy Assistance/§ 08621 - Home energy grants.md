@@ -16,7 +16,7 @@ Amounts appropriated under this section for any fiscal year for programs and act
 
 (1) There is authorized to be appropriated to carry out section 8626a of this title, $30,000,000 for each of fiscal years 1999 through 2004, except as provided in paragraph (2).
 
-(2) For any of fiscal years 1999 through 2004 for which the amount appropriated under subsection (b) of this section is not less than$1,400,000,000, there is authorized to be appropriated $50,000,000 to carry out section 8626a of this title.
+(2) For any of fiscal years 1999 through 2004 for which the amount appropriated under subsection (b) of this section is not less than $1,400,000,000, there is authorized to be appropriated $50,000,000 to carry out section 8626a of this title.
 
 #### (e) Emergency funds
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 103–252, §304(a), added subsec. (e).
 
 Subsec. (d). Pub. L. 103–43, §2011(2), substituted “for each of the fiscal years 1993, 1994, and 1995” for “in each of the fiscal years 1993 and 1994”.
 
-1990—Subsec. (b). Pub. L. 101–501, §707(b)(1), which directed the amendment of this section by inserting “(other than section 8626a of this title)” after “subchapter”, was executed to subsec. (b) to reflect the probable intent of Congress.
+1990—Subsec. (b). Pub. L. 101–501, §707(b)(1), which directed the amendment of this section by inserting“(other than section 8626a of this title)” after “subchapter”, was executed to subsec. (b) to reflect the probable intent of Congress.
 
 Pub. L. 101–501, §702, struck out “$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and” before “$2,307,000,000” and inserted “, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.” after “1990”.
 

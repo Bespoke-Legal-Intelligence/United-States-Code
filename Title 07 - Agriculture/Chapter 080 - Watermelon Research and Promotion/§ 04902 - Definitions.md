@@ -16,7 +16,7 @@ As used in this chapter:
 
 &emsp;(7) The term “plan” means an order issued by the Secretary under this chapter.
 
-&emsp;(8) The term “promotion” means any action taken by the Board, under this chapter, topresent a favorable image for watermelons to the public with the express intent of improving the competitive position of watermelons in the marketplace and stimulating sales of watermelons, and shall include, but not be limited to, paid advertising.
+&emsp;(8) The term “promotion” means any action taken by the Board, under this chapter, to present a favorable image for watermelons to the public with the express intent of improving the competitive position of watermelons in the marketplace and stimulating sales of watermelons, and shall include, but not be limited to, paid advertising.
 
 &emsp;(9) The term “Board” means the National Watermelon Promotion Board provided for in section 4906 of this title.
 

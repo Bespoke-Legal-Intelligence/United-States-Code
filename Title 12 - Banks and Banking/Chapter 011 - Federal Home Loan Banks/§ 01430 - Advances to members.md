@@ -54,7 +54,7 @@ The institution applying for an advance shall enter into a primary and unconditi
 
 #### (e) Priority of certain secured interests
 
-Notwithstanding any other provision of law, any security interest granted to a Federal Home Loan Bank by any member of any Federal Home Loan Bank or any affiliate of any such member shall be entitled to priority over the claims and rights of any party (including any receiver, conservator, trustee, or similar party having rights of a lien creditor) other than claims and rights that—
+Notwithstanding any other provision of law, any security interest granted to a Federal HomeLoan Bank by any member of any Federal Home Loan Bank or any affiliate of any such member shall be entitled to priority over the claims and rights of any party (including any receiver, conservator, trustee, or similar party having rights of a lien creditor) other than claims and rights that—
 
 &emsp;(1) would be entitled to priority under otherwise applicable law; and
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 #### (1) In general
 
-&emsp;Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bank shall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) of this section and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities,taking into account reasonable administrative costs.
+&emsp;Each Bank shall establish a program to provide funding for members to undertake community-oriented mortgage lending. Each Bank shall designate a community investment officer to implement community lending and affordable housing advance programs of the Banks under this subsection and subsection (j) of this section and provide technical assistance and outreach to promote such programs. Advances under this program shall be priced at the cost of consolidated Federal Home Loan Bank obligations of comparable maturities, taking into account reasonable administrative costs.
 
 #### (2) Community-oriented mortgage lending
 
@@ -232,7 +232,7 @@ Notwithstanding any other provision of law, any security interest granted to a F
 
 &emsp;&emsp;For purposes of paragraph (2)(B) the term “affordable for very-low income households” means that rents charged to tenants for units made available for occupancy by low-income families shall not exceed 30 percent of the adjusted income of a family whose income equals 50 percent of the income for the area (as determined by the Secretary of Housing and Urban Development) with adjustment for family size.
 
-(July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch. 847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5,6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Pub. L. 85–857, §13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, §2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, §906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, §4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, §406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, §352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, §15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, §105, title III, §306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, §1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455.)
+(July 22, 1932, ch. 522, §10, 47 Stat. 731; Apr. 27, 1934, ch. 168, §10, 48 Stat. 646; June 27, 1934, ch. 847, §501, 48 Stat. 1261; May 28, 1935, ch. 150, §§5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, §7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, §501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, §208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, §502, 68 Stat. 634; Pub. L. 85–857, §13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, §2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, §906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, §4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, §406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, §352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, §15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, §105, title III, §306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, §1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455.)
 
 #### References in Text
 
@@ -252,7 +252,7 @@ Subsec. (e). Pub. L. 106–102, §604(c), struck out subsec. (e) relating to qua
 
 1992—Subsec. (e)(2). Pub. L. 102–550 added sentence at end and struck out former second sentence which read as follows: “The aggregate amount of any Bank's advances to members that are not qualified thrift lenders shall not exceed 30 percent of a Bank's total advances.”
 
-1989—Subsec. (a). Pub. L. 101–73, §714(a), substituted “upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
+1989—Subsec. (a). Pub. L. 101–73, §714(a), substituted “upon collateral sufficient, in the judgment of theBank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
 
 Subsec. (b). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
 

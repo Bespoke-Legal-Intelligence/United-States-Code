@@ -4,7 +4,7 @@
 
 #### (b) Application for lease; contents; filing date; extension
 
-Any Navajo head of household who desires to do so may submit an application for a life estate lease to the Commissioner. Such application shall contain such information as the Commissioner may prescribe by regulation, such regulation to be promulgated by the Commissioner within ninety days of July 8, 1980. To be considered, such application must be filed with the Commissioner on or before April 1, 1981: <i>Provided</i>, That the Commissioner may, for goodcause, grant an extension of one hundred and eighty days.
+Any Navajo head of household who desires to do so may submit an application for a life estate lease to the Commissioner. Such application shall contain such information as the Commissioner may prescribe by regulation, such regulation to be promulgated by the Commissioner within ninety days of July 8, 1980. To be considered, such application must be filed with the Commissioner on or before April 1, 1981: <i>Provided</i>, That the Commissioner may, for good cause, grant an extension of one hundred and eighty days.
 
 #### (c) Application groupings
 
@@ -28,7 +28,7 @@ Each life estate lease shall consist of a fenced area not exceeding ninety acres
 
 #### (f) Individuals permitted to reside; regulations
 
-No person may reside on a life estate other than the life tenant, his or her spouse, and minor dependents, and/or such persons who are necessarily present to provide for the care of the life tenant. The Commissioner shall promulgate regulations to carry out the intent of this subsection.
+No person may reside on a life estate other than the life tenant, his or her spouse, andminor dependents, and/or such persons who are necessarily present to provide for the care of the life tenant. The Commissioner shall promulgate regulations to carry out the intent of this subsection.
 
 #### (g) Termination
 

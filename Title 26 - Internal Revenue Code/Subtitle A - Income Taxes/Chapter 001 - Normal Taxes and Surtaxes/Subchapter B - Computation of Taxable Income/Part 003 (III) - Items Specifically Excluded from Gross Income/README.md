@@ -51,11 +51,14 @@
 | [136\.](%C2%A7%2000136%20-%20Energy%20conservation%20subsidies%20provided%20by%20public%20utilities.md) | Energy conservation subsidies provided by public utilities. |
 | [137\.](%C2%A7%2000137%20-%20Adoption%20assistance%20programs.md) | Adoption assistance programs. |
 | [138\.](%C2%A7%2000138%20-%20Medicare%2BChoice%20MSA.md) | Medicare+Choice MSA. |
-| [139\.](%C2%A7%2000139%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
+| [139\.](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md) | Disaster relief payments. |
+| [140\.](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2002</b>—Pub. L. 107–134, title I, §111(b), Jan. 23, 2002, 115 Stat. 2433, added item 139 and redesignated former item 139 as 140.
 
 <b>2000</b>—Pub. L. 106–519, §4(6), Nov. 15, 2000, 114 Stat. 2433, added item 114.
 
@@ -81,7 +84,7 @@ Pub. L. 98–369, div. A, title I, §16(a), July 18, 1984, 98 Stat. 505, repeale
 
 Pub. L. 97–473, title I, §102(b), Jan. 14, 1983, 96 Stat. 2607, struck out item 131 (relating to cross references to other Acts) and added items 131 (relating to certain foster care payments) and 132 (relating to cross references to other Acts).
 
-<b>1981</b>—Pub. L. 97–34, title III, §§301(b)(1), 302(c)(1), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274, effective with regard to taxable years beginning after Sept. 30, 1981, redesignated item 128 “Cross References to other Acts” as 129 and added item 128 “Interest on certain savings certificates” and, section 302(c)(1), with regard to taxable years beginning after Dec. 31, 1984, provided that “Partial exclusion of interest” is substituted for “Interest on certain savings certificates” in item 128. Section 16(a) of Pub. L. 98–369, repealed section 302(c) ofPub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
+<b>1981</b>—Pub. L. 97–34, title III, §§301(b)(1), 302(c)(1), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274, effective with regard to taxable years beginning after Sept. 30, 1981, redesignated item 128 “Cross References to other Acts” as 129 and added item 128 “Interest on certain savings certificates” and, section 302(c)(1), with regard to taxable years beginning after Dec. 31, 1984, provided that “Partial exclusion of interest” is substituted for “Interest on certain savings certificates” in item 128. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
 
 <b>1980</b>—Pub. L. 96–499, title XI, §1102(b), Dec. 5, 1980, 94 Stat. 2669, added item 103A.
 
@@ -100,6 +103,56 @@ Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, �
 <b>1964</b>—Pub. L. 88–272, title II, §206(b)(2), Feb. 26, 1964, 78 Stat. 40, redesignated former item 121 as 122, and added item 121.
 
 <b>1958</b>—Pub. L. 85–866, title I, §3(b), Sept. 2, 1958, 72 Stat. 1607, struck out item 120 “Statutory subsistence allowance received by police”.
+
+#### No Federal Income Tax on Restitution Received by Victims of the Nazi Regime or Their Heirs or Estates
+
+Pub. L. 107–16, title VIII, §803, June 7, 2001, 115 Stat. 149, provided that:
+
+“(a)
+
+In General.—For purposes of the Internal Revenue Code of 1986, any excludable restitution payments received by an eligible individual (or the individual's heirs or estate) and any excludable interest—
+
+&emsp;“(1) shall not be included in gross income; and
+
+&emsp;“(2) shall not be taken into account for purposes of applying any provision of such Code which takes into account excludable income in computing adjusted gross income, including section 86 of such Code (relating to taxation of Social Security benefits).
+
+> For purposes of such Code, the basis of any property received by an eligible individual (or the individual's heirs or estate) as part of an excludable restitution payment shall be the fair market value of such property as of the time of the receipt.
+
+“(b)
+
+Eligible Individual.—For purposes of this section, the term ‘eligible individual’ means a person who was persecuted on the basis of race, religion, physical or mental disability, or sexual orientation by Nazi Germany, any other Axis regime, or any other Nazi-controlled or Nazi-allied country.
+
+“(c)
+
+Excludable Restitution Payment.—For purposes of this section, the term ‘excludable restitution payment’ means any payment or distribution to an individual (or the individual's heirs or estate) which—
+
+&emsp;“(1) is payable by reason of the individual's status as an eligible individual, including any amount payable by any foreign country, the United States of America, or any other foreign or domestic entity, or a fund established by any such country or entity, any amount payable as a result of a final resolution of a legal action, and any amount payable under a law providing for payments or restitution of property;
+
+&emsp;“(2) constitutes the direct or indirect return of, or compensation or reparation for, assets stolen or hidden from, or otherwise lost to, the individual before, during, or immediately after World War II by reason of the individual's status as an eligible individual, including any proceeds of insurance under policies issued on eligible individuals by European insurance companies immediately before and during World War II; or
+
+&emsp;“(3) consists of interest which is payable as part of any payment or distribution described in paragraph (1) or (2).
+
+“(d)
+
+Excludable Interest.—For purposes of this section, the term ‘excludable interest’ means any interest earned by—
+
+&emsp;“(1) escrow accounts or settlement funds established pursuant to the settlement of the action entitled ‘In re: Holocaust Victim Assets Litigation,’ (E.D.N.Y.) C.A. No. 96–4849,
+
+&emsp;“(2) funds to benefit eligible individuals or their heirs created by the International Commission on Holocaust Insurance Claims as a result of the Agreement between the Government of the United States of America and the Government of the Federal Republic of Germany concerning the Foundation ‘Remembrance, Responsibility, and Future,’ dated July 17, 2000, or
+
+&emsp;“(3) similar funds subject to the administration of the United States courts created to provide excludable restitution payments to eligible individuals (or eligible individuals’ heirs or estates).
+
+“(e)
+
+Effective Date.—
+
+&emsp;“(1)
+
+In general.—This section shall apply to any amount received on or after January 1, 2000.
+
+&emsp;“(2)
+
+No inference.—Nothing in this Act \[see Tables for classification\] shall be construed to create any inference with respect to the proper tax treatment of any amount received before January 1, 2000.”
 
 #### Part Referred to in Other Sections
 
@@ -153,4 +206,5 @@ This part is referred to in section 61 of this title.
 - [&sect; 00136 - Energy conservation subsidies provided by public utilities](%C2%A7%2000136%20-%20Energy%20conservation%20subsidies%20provided%20by%20public%20utilities.md)
 - [&sect; 00137 - Adoption assistance programs](%C2%A7%2000137%20-%20Adoption%20assistance%20programs.md)
 - [&sect; 00138 - Medicare+Choice MSA](%C2%A7%2000138%20-%20Medicare%2BChoice%20MSA.md)
-- [&sect; 00139 - Cross references to other Acts](%C2%A7%2000139%20-%20Cross%20references%20to%20other%20Acts.md)
+- [&sect; 00139 - Disaster relief payments](%C2%A7%2000139%20-%20Disaster%20relief%20payments.md)
+- [&sect; 00140 - Cross references to other Acts](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md)

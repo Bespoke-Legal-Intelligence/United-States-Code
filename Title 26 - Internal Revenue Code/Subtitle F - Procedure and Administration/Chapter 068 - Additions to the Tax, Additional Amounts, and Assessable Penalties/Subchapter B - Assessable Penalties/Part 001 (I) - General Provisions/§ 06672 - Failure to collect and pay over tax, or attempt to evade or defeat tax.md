@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Any person required to collect, truthfully account for, and pay over any tax imposed by this title who willfully fails to collect such tax, or truthfully account for and pay over such tax, or willfully attempts in any manner to evade or defeat any such tax or the payment thereof, shall, in addition to other penalties provided by law, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. No penalty shall be imposed under section 6653 or part II of subchapter A of chapter 68 for any offense to which this section is applicable.
+Any person required to collect, truthfully account for, and pay over any tax imposed by thistitle who willfully fails to collect such tax, or truthfully account for and pay over such tax, or willfully attempts in any manner to evade or defeat any such tax or the payment thereof, shall, in addition to other penalties provided by law, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. No penalty shall be imposed under section 6653 or part II of subchapter A of chapter 68 for any offense to which this section is applicable.
 
 #### (b) Preliminary notice requirement
 
@@ -42,7 +42,7 @@ Any person required to collect, truthfully account for, and pay over any tax imp
 
 #### (2) Suit must be brought to determine liability for penalty
 
-&emsp;If, within 30 days after the day on which his claim for refund with respect to any penaltyunder subsection (a) is denied, the person described in paragraph (1) fails to begin a proceeding in the appropriate United States district court (or in the Court of Claims) <sup>1</sup> for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the 30-day period referred to in this paragraph.
+&emsp;If, within 30 days after the day on which his claim for refund with respect to any penalty under subsection (a) is denied, the person described in paragraph (1) fails to begin a proceeding in the appropriate United States district court (or in the Court of Claims) <sup>1</sup> for the determination of his liability for such penalty, paragraph (1) shall cease to apply with respect to such penalty, effective on the day following the close of the 30-day period referred to in this paragraph.
 
 #### (3) Bond
 
@@ -120,7 +120,7 @@ Section 7737(b) of Pub. L. 101–239 provided that: “The amendment made by sub
 
 #### Effective Date of 1978 Amendment
 
-Section 9(c) of Pub. L. 95–628 provided that: “The amendments made by this section \[amending this section and sections 7103 and 7421 of this title\] shall apply with respect to penalties assessed more than 60 daysafter the date of the enactment of this Act \[Nov. 10, 1978\].”
+Section 9(c) of Pub. L. 95–628 provided that: “The amendments made by this section \[amending this section and sections 7103 and 7421 of this title\] shall apply with respect to penalties assessed more than 60 days after the date of the enactment of this Act \[Nov. 10, 1978\].”
 
 #### Public Information To Ensure Employee Awareness of Responsibilities and Liabilities Under Tax Depository System
 

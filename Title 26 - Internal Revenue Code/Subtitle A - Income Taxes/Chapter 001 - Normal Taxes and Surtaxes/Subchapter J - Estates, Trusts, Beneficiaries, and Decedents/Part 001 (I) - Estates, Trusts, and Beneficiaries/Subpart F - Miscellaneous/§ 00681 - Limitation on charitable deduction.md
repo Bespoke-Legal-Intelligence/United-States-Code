@@ -20,7 +20,7 @@ Subsec. (c). Pub. L. 91–172, §101(j)(18), struck out subsec. (c) dealing with
 
 Subsec. (d). Pub. L. 91–172, §101(j)(19), redesignated subsec. (d) as (b).
 
-<b>1968</b>—Subsec. (c). Pub. L. 90–630 inserted provision that par. (1) does not apply to income attributable to property transferred to a trust before January 1, 1951, by the creator thereof if the trust was irrevocable on such date and if the income is required to be accumulated pursuant to the mandatory terms of the instrument creating the trust.
+<b>1968</b>—Subsec. (c). Pub. L. 90–630 inserted provision that par. (1) does not apply to income attributable to property transferred to a trust before January 1, 1951,by the creator thereof if the trust was irrevocable on such date and if the income is required to be accumulated pursuant to the mandatory terms of the instrument creating the trust.
 
 #### Effective Date of 1969 Amendment
 

@@ -38,7 +38,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (1) In general
 
-&emsp;The Administrator shall, in a manner consistent with the criteria established pursuantto subsection (a) of this section, designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
+&emsp;The Administrator shall, in a manner consistent with the criteria established pursuant to subsection (a) of this section, designate sites or time periods for dumping. The Administrator shall designate sites or time periods for dumping that will mitigate adverse impact on the environment to the greatest extent practicable.
 
 #### (2) Prohibitions regarding site or time period
 
@@ -46,7 +46,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (3) Dredged material disposal sites
 
-&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant to this section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
+&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant tothis section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
 
 &emsp;&emsp;(A) a baseline assessment of conditions at the site;
 

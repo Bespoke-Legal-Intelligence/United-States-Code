@@ -36,7 +36,7 @@ Words “or the United States Court of Appeals for the District of Columbia” i
 
 Words in section 350 of title 28, U.S.C., 1940 ed., “excepting that writs of certiorari to the Supreme Court of the Philippine Islands may be granted where application therefor is made within six months”, were omitted as obsolete, in view of the independence of the Philippines recognized by section 1240 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions.
 
-Subsection (e) relates only to supersedeas or stay of execution of judgments sought to be reviewed in theSupreme Court on writ of certiorari. Supersedeas or stay of proceedings taken to the Supreme Court by appeal from courts of appeals, or direct appeals from a district court or three-judge courts, is governed by Rule 62 of the Federal Rules of Civil Procedure.
+Subsection (e) relates only to supersedeas or stay of execution of judgments sought to be reviewed in the Supreme Court on writ of certiorari. Supersedeas or stay of proceedings taken to the Supreme Court by appeal from courts of appeals, or direct appeals from a district court or three-judge courts, is governed by Rule 62 of the Federal Rules of Civil Procedure.
 
 Changes were made in phraseology.
 

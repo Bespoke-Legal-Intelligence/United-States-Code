@@ -18,7 +18,7 @@ As used in this subchapter—
 
 &emsp;(4) The term “financial assistance” means the cost-sharing arrangements that are available under this subchapter through Federal contracts, grants, or loans.
 
-&emsp;(5) The term “local unit of government” means any county, city, town, township, parish, village, or other general-purpose subdivision of a State, any local or regional special district or other limited political subdivision of a State, including any soil conservation district, school district, park authority, and water or sanitary district, or any Indian tribe or tribal organization established under Federal, State, or Indian tribal law.
+&emsp;(5) The term “local unit of government” means any county, city, town, township, parish, village, or other general-purpose subdivision of a State, any local or regional specialdistrict or other limited political subdivision of a State, including any soil conservation district, school district, park authority, and water or sanitary district, or any Indian tribe or tribal organization established under Federal, State, or Indian tribal law.
 
 &emsp;(6) The term “nonprofit organization” means any community association, wildlife group, or resource conservation organization that is incorporated and approved by the Secretary for the purpose of providing to any rural area those public facilities or services included in the area plan for such rural area.
 

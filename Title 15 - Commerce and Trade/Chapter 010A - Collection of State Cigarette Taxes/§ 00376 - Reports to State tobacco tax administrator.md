@@ -16,7 +16,7 @@ The fact that any person ships or delivers for shipment any cigarettes shall, if
 
 #### Amendments
 
-1955—Act Aug. 9, 1955, designated existing provisions as subsec. (a), inserted provisions requiring filing of a statement of name, trade name, address, and places of business by persons who sell or transfer for profit cigarettes in interstate commerce or by persons who advertise or offer cigarettes for such sale or transfer, and added subsec. (b).
+1955—Act Aug. 9, 1955, designated existing provisions as subsec. (a), inserted provisions requiring filing of a statement of name, trade name, address, and places ofbusiness by persons who sell or transfer for profit cigarettes in interstate commerce or by persons who advertise or offer cigarettes for such sale or transfer, and added subsec. (b).
 
 1953—Act Aug. 15, 1953, required that the memorandum or copy of invoice be filed with, rather than forwarded to, the tobacco tax administrator.
 

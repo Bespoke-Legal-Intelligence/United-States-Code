@@ -22,7 +22,7 @@ Notwithstanding any other provisions of this chapter except as provided in subse
 
 (4) The Egg Board shall place in such account, from assessments collected during the period referred to in paragraph (3), an amount equal to the product obtained by multiplying the total amount of assessments collected during such period by 10 percent.
 
-(5) Subject to paragraphs (6), (7), and (8), any producer shall have the right to demand and receive from the Egg Board a one-time refund ofassessments collected from such producer during the period referred to in paragraph (3) if—
+(5) Subject to paragraphs (6), (7), and (8), any producer shall have the right to demand and receive from the Egg Board a one-time refund of assessments collected from such producer during the period referred to in paragraph (3) if—
 
 &emsp;(A) such producer is responsible for paying such assessments;
 

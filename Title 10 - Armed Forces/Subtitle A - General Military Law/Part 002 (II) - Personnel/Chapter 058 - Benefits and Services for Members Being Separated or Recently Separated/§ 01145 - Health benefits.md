@@ -2,21 +2,31 @@
 
 (a)
 
-Transitional Health Care.—(1) For the applicable time period described in paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member), shall be entitled to receive—
+Transitional Health Care.—(1) For the applicable time period described in paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) shall be entitled to receive—
 
 &emsp;(A) medical and dental care under section 1076 of this title in the same manner as a dependent described in subsection (a)(2) of such section; and
 
 &emsp;(B) health benefits contracted under the authority of section 1079(a) of this title and subject to the same rates and conditions as apply to persons covered under that section.
 
-(2) Transitional health care shall be available under subsection (a) for a specified time period beginning on the date on which the member is involuntarily separated as follows:
+(2) This subsection applies to the following members of the armed forces:
 
-&emsp;(A) For members involuntarily separated with less than six years of active service, 60 days.
+&emsp;(A) A member who is involuntarily separated from active duty.
 
-&emsp;(B) For members involuntarily separated with six or more years of active service, 120 days.
+&emsp;(B) A member of a reserve component who is separated from active duty to which called or ordered in support of a contingency operation if the active duty is active duty for a period of more than 30 days.
+
+&emsp;(C) A member who is separated from active duty for which the member is involuntarily retained under section 12305 of this title in support of a contingency operation.
+
+&emsp;(D) A member who is separated from active duty served pursuant to a voluntary agreement of the member to remain on active duty for a period of less than one year in support of a contingency operation.
+
+(3) Transitional health care shall be available under subsection (a) for a specified time period beginning on the date on which the member is separated as follows:
+
+&emsp;(A) For members separated with less than six years of active service, 60 days.
+
+&emsp;(B) For members separated with six or more years of active service, 120 days.
 
 (b)
 
-Conversion Health Policies.—(1) The Secretary of Defense shall inform each member referred to in subsection (a) before the date of the member's discharge or release from active duty of the availability for purchase by the memberof a conversion health policy for the member and the dependents of that member. A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.
+Conversion Health Policies.—(1) The Secretary of Defense shall inform each member referred to in subsection (a) before the date of the member's discharge or release from active duty of the availability for purchase by the member of a conversion health policy for the member and the dependents of that member. A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.
 
 (2) If a member referred to in subsection (a) purchases a conversion health policy during the period applicable to the member (or within a reasonable time after that period as prescribed by the Secretary of Defense), the Secretary shall provide health care, or pay the costs of health care provided, to the member and the dependents of the member—
 
@@ -38,7 +48,7 @@ Conversion Health Policies.—(1) The Secretary of Defense shall inform each mem
 
 (c)
 
-Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces during the period beginning on October 1, 1990, and ending on December 31, 2001, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
+Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
 
 (2) The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of the separation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
 
@@ -48,11 +58,21 @@ Definition.—In this section, the term “conversion health policy” means a h
 
 (e)
 
-Coast Guard.—The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on December 31, 2001. The Secretary of Transportation shall implement this section for the Coast Guard.
+Coast Guard.—The Secretary of Transportation shall implement this section for the Coast Guard.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, §4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, §736(a), (b), Dec. 28, 2001, 115 Stat. 1172.)
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–107, §736(a)(1), in introductory provisions, substituted “paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2)” for “paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member),”.
+
+Subsec. (a)(2). Pub. L. 107–107, §736(a)(3), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 107–107, §736(a)(2), (4), redesignated par. (2) as (3) and struck out “involuntarily” before “separated” wherever appearing.
+
+Subsec. (c)(1). Pub. L. 107–107, §736(b)(1), struck out “during the period beginning on October 1, 1990, and ending on December 31, 2001” after “armed forces”.
+
+Subsec. (e). Pub. L. 107–107, §736(b)(2), struck out first sentence which read as follows: “The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on December 31, 2001.”
 
 2000—Subsecs. (a)(1), (c)(1), (e). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 

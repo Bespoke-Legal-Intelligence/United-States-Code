@@ -18,7 +18,7 @@ Effective date.—The amendments to the egg promotion and research order require
 
 &emsp;&emsp;“(A) 30 days after the proposed amendments are issued; or
 
-&emsp;&emsp;“(B) if the Director of the Office of Management and Budget determines that the amendments are asignificant action that requires review by the Director, 50 days after the proposed amendments are issued.
+&emsp;&emsp;“(B) if the Director of the Office of Management and Budget determines that the amendments are a significant action that requires review by the Director, 50 days after the proposed amendments are issued.
 
 &emsp;“(3)
 

@@ -53,6 +53,24 @@ Authorization of appropriations.
 
 Grants to Indian tribes.
 
+|  |  |
+| :--- | ---: |
+| [3714\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003714%20-%20Grant%20program%20for%20State%20and%20local%20domestic%20preparedness%20support.md) | Grant program for State and local domestic preparedness support. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use of grant amounts.
+
+(c)
+
+Authorization of appropriations.
+
 #### SUBCHAPTER II—NATIONAL INSTITUTE OF JUSTICE
 
 |  |  |
@@ -802,6 +820,20 @@ Use of State and local administrative and investigative assistance.
 
 Use of appropriated funds to conduct appeals.
 
+|  |  |
+| :--- | ---: |
+| 3796c–1. | Expedited payment for public safety officers involved in the prevention, investigation, rescue, or recovery efforts related to a terrorist attack. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Definitions.
+
 #### Part B—Educational Assistance to Dependents of Civilian Federal Law Enforcement Officers Killed or Disabled in Line of Duty
 
 |  |  |
@@ -900,6 +932,10 @@ Purposes.
 (c)
 
 Rules and regulations.
+
+(d)
+
+Authorization of appropriation to the Bureau of Justice Assistance.
 
 #### SUBCHAPTER XII–B—GRANTS FOR CLOSED-CIRCUIT TELEVISING OF TESTIMONY OF CHILDREN WHO ARE VICTIMS OF ABUSE
 

@@ -1,6 +1,6 @@
 ### §5037. Dispositional hearing
 
-(a) If the court finds a juvenile to be a juvenile delinquent, the court shall hold a disposition hearing concerning the appropriate disposition no later than twenty court days after the juvenile delinquency hearing unless the court has ordered further study pursuant to subsection (d). After the disposition hearing, and after considering any pertinent policy statements promulgated by the Sentencing Commission pursuant to 28 U.S.C. 994, the court may suspend the findings of juvenile delinquency, enter an order of restitution pursuant to section 3556, place him on probation, or commit him to official detention. With respect to release or detention pending an appeal or a petition for a writ of certiorari after disposition, the court shall proceed pursuant to the provisions of chapter 207.
+(a) If the court finds a juvenile to be a juvenile delinquent, the court shall hold a dispositionhearing concerning the appropriate disposition no later than twenty court days after the juvenile delinquency hearing unless the court has ordered further study pursuant to subsection (d). After the disposition hearing, and after considering any pertinent policy statements promulgated by the Sentencing Commission pursuant to 28 U.S.C. 994, the court may suspend the findings of juvenile delinquency, enter an order of restitution pursuant to section 3556, place him on probation, or commit him to official detention. With respect to release or detention pending an appeal or a petition for a writ of certiorari after disposition, the court shall proceed pursuant to the provisions of chapter 207.
 
 (b) The term for which probation may be ordered for a juvenile found to be a juvenile delinquent may not extend—
 
@@ -38,7 +38,7 @@
 
 > Section 3624 is applicable to an order placing a juvenile under detention.
 
-(d) If the court desires more detailed information concerning an alleged or adjudicated delinquent, it may commit him, after notice and hearing at which the juvenile is represented by counsel, to the custody of the Attorney General for observation and study by an appropriate agency. Such observation and study shall be conducted on an out-patient basis, unless the court determines that inpatient observation and study are necessary to obtain the desired information. In the case of an alleged juvenile delinquent, inpatient study may be ordered only with the consent of the juvenile and his attorney. The agency shall make a complete study of the alleged or adjudicated delinquent to ascertain his personal traits, his capabilities, his background, any previous delinquency or criminal experience, any mental or physical defect, and any other relevant factors. The Attorney General shall submit to the court and the attorneys forthe juvenile and the Government the results of the study within thirty days after the commitment of the juvenile, unless the court grants additional time.
+(d) If the court desires more detailed information concerning an alleged or adjudicated delinquent, it may commit him, after notice and hearing at which the juvenile is represented by counsel, to the custody of the Attorney General for observation and study by an appropriate agency. Such observation and study shall be conducted on an out-patient basis, unless the court determines that inpatient observation and study are necessary to obtain the desired information. In the case of an alleged juvenile delinquent, inpatient study may be ordered only with the consent of the juvenile and his attorney. The agency shall make a complete study of the alleged or adjudicated delinquent to ascertain his personal traits, his capabilities, his background, any previous delinquency or criminal experience, any mental or physical defect, and any other relevant factors. The Attorney General shall submit to the court and the attorneys for the juvenile and the Government the results of the study within thirty days after the commitment of the juvenile, unless the court grants additional time.
 
 (June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, §507, Sept. 7, 1974, 88 Stat. 1136; Pub. L. 98–473, title II, §214(a), Oct. 12, 1984, 98 Stat. 2013; Pub. L. 99–646, §21(a), Nov. 10, 1986, 100 Stat. 3596; Pub. L. 104–294, title VI, §604(b)(40), Oct. 11, 1996, 110 Stat. 3509.)
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date of 1986 Amendment
 
-Section 21(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the amendments made by such section 214 \[of Pub. L. 98–473\] take effect \[Nov. 1, 1987\].”
+Section 21(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the amendmentsmade by such section 214 \[of Pub. L. 98–473\] take effect \[Nov. 1, 1987\].”
 
 #### Effective Date of 1984 Amendment
 

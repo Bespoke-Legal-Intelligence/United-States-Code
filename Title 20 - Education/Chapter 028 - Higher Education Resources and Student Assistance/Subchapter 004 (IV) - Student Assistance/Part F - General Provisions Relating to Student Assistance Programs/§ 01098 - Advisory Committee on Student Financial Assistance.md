@@ -40,9 +40,9 @@ The Advisory Committee shall—
 
 &emsp;(4) assess the impact of legislative and administrative policy proposals;
 
-&emsp;(5) review and comment upon, prior to promulgation, all regulations affecting programs under this subchapter and part C of subchapter I of chapter 34 of title 42, including proposed regulations;
+&emsp;(5) review and comment upon, prior to promulgation, all regulations affecting programsunder this subchapter and part C of subchapter I of chapter 34 of title 42, including proposed regulations;
 
-&emsp;(6) recommend to the Congress and to the Secretary such studies, surveys, and analysesof student financial assistance programs, policies, and practices, including the special needs of low-income, disadvantaged, and nontraditional students, and the means by which the needs may be met, but nothing in this section shall authorize the committee to perform such studies, surveys, or analyses;
+&emsp;(6) recommend to the Congress and to the Secretary such studies, surveys, and analyses of student financial assistance programs, policies, and practices, including the special needs of low-income, disadvantaged, and nontraditional students, and the means by which the needs may be met, but nothing in this section shall authorize the committee to perform such studies, surveys, or analyses;
 
 &emsp;(7) review and comment upon standards by which financial need is measured in determining eligibility for Federal student assistance programs;
 
@@ -129,10 +129,6 @@ The provisions of title 5 governing appointments in the competitive service, ref
 This chapter, referred to in subsecs. (h)(2) and (j)(5), was in the original “the Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Codification
-
-July 23, 1992, referred to in subsec. (<i>l</i>)(3), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–325, which added subsec. (<i>l</i>), to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

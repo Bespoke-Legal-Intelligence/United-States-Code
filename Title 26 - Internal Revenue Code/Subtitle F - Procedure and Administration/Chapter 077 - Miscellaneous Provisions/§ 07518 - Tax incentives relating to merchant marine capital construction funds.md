@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;Amounts in any capital construction fund shall be kept in the depository or depositories specified in the agreement and shall be subjectto such trustee and other fiduciary requirements as may be specified by the Secretary.
+&emsp;Amounts in any capital construction fund shall be kept in the depository or depositories specified in the agreement and shall be subject to such trustee and other fiduciary requirements as may be specified by the Secretary.
 
 #### (2) Limitation on fund investments
 
@@ -58,7 +58,7 @@
 
 #### (2) Only qualified deposits eligible for treatment
 
-&emsp;Paragraph (1) shall apply with respect to any amount only if such amount is deposited in the fund pursuant to the agreement and not later than the time provided in joint regulations.
+&emsp;Paragraph (1) shall apply with respect to any amount only if such amount is deposited inthe fund pursuant to the agreement and not later than the time provided in joint regulations.
 
 #### (d) Establishment of accounts
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 #### (D) Authority to treat excess funds as withdrawn
 
-&emsp;&emsp;If the Secretary determines that the balance in any capital construction fund exceeds the amount which is appropriate to meet the vessel construction program objectives of the person who established such fund, the amount of such excess shall be treated as a nonqualified withdrawal under subparagraph (A) unless such person develops appropriate program objectives within 3 years to dissipate such excess.
+&emsp;&emsp;If the Secretary determines that the balance in any capital construction fund exceeds the amount which is appropriate to meet the vessel construction program objectives of the person who established such fund, the amount of such excess shall be treated as a nonqualified withdrawal undersubparagraph (A) unless such person develops appropriate program objectives within 3 years to dissipate such excess.
 
 #### (E) Amounts in fund on January 1, 1987
 
@@ -288,7 +288,7 @@ Under joint regulations—
 
 #### (i) Definitions
 
-For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have themeaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
+For purposes of this section, any term defined in section 607(k) of the Merchant Marine Act, 1936 which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such section 607(k) as in effect on the date of the enactment of this section.
 
 (Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report.—The Chief of the National Guard Bureau shall submit to the Secretary of Defense, through the Secretaries of the Army and the Air Force, an annual report on the state of the National Guard and the ability of the National Guard to meet its missions. The report shall be prepared in conjunction with the Secretary of the Army and the Secretary of theAir Force and may be submitted in classified and unclassified versions.
+Annual Report.—The Chief of the National Guard Bureau shall submit to the Secretary of Defense, through the Secretaries of the Army and the Air Force, an annual report on the state of the National Guard and the ability of the National Guard to meet its missions. The report shall be prepared in conjunction with the Secretary of the Army and the Secretary of the Air Force and may be submitted in classified and unclassified versions.
 
 (b)
 

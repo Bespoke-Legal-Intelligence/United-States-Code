@@ -14,7 +14,7 @@ The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18,
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–269, §1, Oct. 5, 1998, 112 Stat. 2381, provided that: “This Act \[amending section 718d of this title\] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Promotion Act’.”
+Pub. L. 105–269, §1, Oct. 19, 1998, 112 Stat. 2381, provided that: “This Act \[amending section 718d of this title\] may be cited as the ‘Migratory Bird Hunting and Conservation Stamp Promotion Act’.”
 
 #### Short Title
 

@@ -120,7 +120,7 @@ Except as otherwise provided, as used in this chapter:
 
 #### (15) Local educational agency
 
-&emsp;(A) The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary or secondary schools in a city, county, township, school district, orother political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary or secondary schools.
+&emsp;(A) The term “local educational agency” means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary or secondary schools in a city, county, township, school district, or other political subdivision of a State, or for such combination of school districts or counties as are recognized in a State as an administrative agency for its public elementary or secondary schools.
 
 &emsp;(B) The term includes—
 
@@ -148,7 +148,7 @@ Except as otherwise provided, as used in this chapter:
 
 &emsp;&emsp;(A) includes a legal guardian; and
 
-&emsp;&emsp;(B) except as used in sections 1415(b)(2) and 1439(a)(5) of this title, includes an individual assigned under either of those sections to be a surrogate parent.
+&emsp;&emsp;(B) except as used in sections 1415(b)(2) and 1439(a)(5) of this title, includes an individualassigned under either of those sections to be a surrogate parent.
 
 #### (20) Parent organization
 
@@ -218,11 +218,11 @@ Except as otherwise provided, as used in this chapter:
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in par. (7)(A)(ii), (iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part A of title I and part A of title VII of the Act are classified generally to part A (§6311 et seq.) of subchapter I and part A (§7401 et seq.) of subchapter VII, respectively, of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in par. (7)(A)(ii), (iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I and part A of title VII of the Act are classified generally to part A (§6311 et seq.) of subchapter I and part A (§7401 et seq.) of subchapter VII, respectively, of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 1141(a) of this title, referred to in par. (14)(A), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in section 1001 of this title.
+Section 1141(a) of this title, referred to in par. (14)(A), was repealed by Pub. L. 105–244, §3, title I, §101(b), titleVII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in section 1001 of this title.
 
 The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (14)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1003, 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 6661b, 6661d, 8065c, 8801, 8923 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 9832, 12511.
+This section is referred to in sections 1003, 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 6311, 6362, 7221g, 7801 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 9832, 12511.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ No individual, association, partnership, or corporation shall, without authority
 
 #### Historical and Revision Notes
 
-This section makes the unauthorized use of the words “Coast Guard” or any derivative thereof, a crime. Thisis believed to be a desirable prohibition in view of the many commercial organizations which are manufacturing equipment approved by the Coast Guard and selling same to vessels in the United States. 81st Congress, House Report No. 557.
+This section makes the unauthorized use of the words “Coast Guard” or any derivative thereof, a crime. This is believed to be a desirable prohibition in view of the many commercial organizations which are manufacturing equipment approved by the Coast Guard and selling same to vessels in the United States. 81st Congress, House Report No. 557.
 
 #### Amendments
 

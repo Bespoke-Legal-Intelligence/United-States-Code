@@ -54,7 +54,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (3) Distilled spirits, wines, and beer brought into the United States from Puerto Rico
 
-&emsp;In the case of distilled spirits, wines, and beer which are brought into the United States (other than in bulk containers) from Puerto Rico, the last day for payment of tax shall be the 14th day after the last day of the semimonthly period during which the article is brought into the United States.
+&emsp;In the case of distilled spirits, wines, and beer which are brought into the United States\(other than in bulk containers) from Puerto Rico, the last day for payment of tax shall be the 14th day after the last day of the semimonthly period during which the article is brought into the United States.
 
 #### (4) Special rule for tax due in September
 
@@ -252,7 +252,7 @@ Separation of taxpaid stock.—All distilled spirits and wine on which tax has b
 
 “(d)
 
-Return of Distilled Spirits Products Containing Taxpaid Wine.—With respect to distilled spirits returned to the bonded premises of distilled spirits plantsduring 1980, section 5008(c)(1) of the Internal Revenue Code of 1986 (relating to refunds for distilled spirits returned to bonded premises) shall be treated as including a reference to section 5041 of such Code.
+Return of Distilled Spirits Products Containing Taxpaid Wine.—With respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, section 5008(c)(1) of the Internal Revenue Code of 1986 (relating to refunds for distilled spirits returned to bonded premises) shall be treated as including a reference to section 5041 of such Code.
 
 “(e)
 

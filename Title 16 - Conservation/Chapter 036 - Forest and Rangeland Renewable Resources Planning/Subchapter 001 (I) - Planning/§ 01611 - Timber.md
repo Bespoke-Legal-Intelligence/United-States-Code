@@ -6,7 +6,7 @@ The Secretary of Agriculture shall limit the sale of timber from each national f
 
 #### (b) Salvage harvesting
 
-Nothing in subsection (a) of this section shall prohibit the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow, or other catastrophe, or which are in imminent danger from insect or disease attack. The Secretary may either substitute such timber for timber that would otherwise be sold under the plan or, if not feasible, sell such timber over and above the plan volume.
+Nothing in subsection (a) of this section shall prohibit the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow, or othercatastrophe, or which are in imminent danger from insect or disease attack. The Secretary may either substitute such timber for timber that would otherwise be sold under the plan or, if not feasible, sell such timber over and above the plan volume.
 
 (Pub. L. 93–378, §13, as added Pub. L. 94–588, §11, Oct. 22, 1976, 90 Stat. 2957.)
 
@@ -68,7 +68,7 @@ Completion of Salvage Timber Sales.—
 
 &emsp;“(1)
 
-Salvage timber sales.—Using the expedited procedures provided in subsection (c), the Secretary concerned shall prepare, advertise, offer, and award contracts during the emergency period for salvage timber sales from Federal lands described in subsection (a)(4). During the emergency period, the Secretary concerned is to achieve, to the maximum extent feasible, a salvage timber sale volume level above the programmed level to reduce the backlogged volume of salvage timber. The preparation, advertisement, offering, and awarding of such contracts shall be performed utilizing subsection (c) and notwithstanding any other provision of law, including a law under the authority of which any judicial order may be outstanding on or after the date of the enactment of this Act \[July 27, 1995\].
+Salvage timber sales.—Using the expedited procedures provided in subsection (c), the Secretaryconcerned shall prepare, advertise, offer, and award contracts during the emergency period for salvage timber sales from Federal lands described in subsection (a)(4). During the emergency period, the Secretary concerned is to achieve, to the maximum extent feasible, a salvage timber sale volume level above the programmed level to reduce the backlogged volume of salvage timber. The preparation, advertisement, offering, and awarding of such contracts shall be performed utilizing subsection (c) and notwithstanding any other provision of law, including a law under the authority of which any judicial order may be outstanding on or after the date of the enactment of this Act \[July 27, 1995\].
 
 &emsp;“(2)
 
@@ -186,7 +186,7 @@ Standard of review.—The courts shall have authority to enjoin permanently, ord
 
 &emsp;“(5)
 
-Time for decision.—Civil actions filed under this subsection shall be assigned for hearing at the earliest possible date. The court shall render its finaldecision relative to any challenge within 45 days from the date such challenge is brought, unless the court determines that a longer period of time is required to satisfy the requirement of the United States Constitution. In order to reach a decision within 45 days, the district court may assign all or part of any such case or cases to one or more Special Masters, for prompt review and recommendations to the court.
+Time for decision.—Civil actions filed under this subsection shall be assigned for hearing at the earliest possible date. The court shall render its final decision relative to any challenge within 45 days from the date such challenge is brought, unless the court determines that a longer period of time is required to satisfy the requirement of the United States Constitution. In order to reach a decision within 45 days, the district court may assign all or part of any such case or cases to one or more Special Masters, for prompt review and recommendations to the court.
 
 &emsp;“(6)
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If the amount distributed during the taxable year of the payee under any qualified retirementplan or any eligible deferred compensation plan (as defined in section 457(b)) is less than the minimum required distribution for such taxable year, there is hereby imposed a tax equal to 50 percent of the amount by which such minimum required distribution exceeds the actual amount distributed during the taxable year. The tax imposed by this section shall be paid by the payee.
+If the amount distributed during the taxable year of the payee under any qualified retirement plan or any eligible deferred compensation plan (as defined in section 457(b)) is less than the minimum required distribution for such taxable year, there is hereby imposed a tax equal to 50 percent of the amount by which such minimum required distribution exceeds the actual amount distributed during the taxable year. The tax imposed by this section shall be paid by the payee.
 
 #### (b) Minimum required distribution
 
@@ -38,7 +38,7 @@ If the taxpayer establishes to the satisfaction of the Secretary that—
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514, §1121(a)(1), amended section generally, substituting provisions imposing an excise tax on certain accumulations in qualified retirement plans for provisions imposing an excise tax on certain accumulations in individual retirement accounts and annuities.
+<b>1986</b>—Pub. L. 99–514, §1121(a)(1), amended section generally, substituting provisions imposing an excise taxon certain accumulations in qualified retirement plans for provisions imposing an excise tax on certain accumulations in individual retirement accounts and annuities.
 
 Subsec. (a). Pub. L. 99–514, §1852(a)(7)(B), substituted “section 408(a)(6) or 408(b)(3)” for “section 408(a)(6) or (7), or 408(b)(3) or (4)”.
 
@@ -68,5 +68,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 72, 408, 6058 of this title; title 23 section 181.
+This section is referred to in sections 25B, 72, 408, 457, 6058 of this title; title 23 section 181; title 49 section 41762.
 

@@ -34,7 +34,7 @@ If the Commission determines (after affording interested persons, including cons
 
 #### (d) Repair; replacement; refunds; action plan
 
-If the Commission determines (after affording interested parties, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that action under this subsection is in the public interest, it may order the manufacturer or any distributor or retailer of such product to take whichever of the following actions the person to whom the order is directed elects:
+If the Commission determines (after affording interested parties, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that action under this subsection is in the public interest, it may order the manufacturer or any distributor or retailer of such product to takewhichever of the following actions the person to whom the order is directed elects:
 
 &emsp;(1) To bring such product into conformity with the requirements of the applicable consumer product safety rule or to repair the defect in such product.
 
@@ -64,7 +64,7 @@ An order under subsection (c) or (d) of this section may be issued only after an
 
 #### (h) Cost-benefit analysis of notification or other action not required
 
-Nothing in this section shall be construed to require the Commission, in determining that a product distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken,to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
+Nothing in this section shall be construed to require the Commission, in determining that a product distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
 
 (Pub. L. 92–573, §15, Oct. 27, 1972, 86 Stat. 1221; Pub. L. 94–284, §12(a), May 11, 1976, 90 Stat. 508; Pub. L. 97–35, title XII, §1211(h)(4), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, §9(j)(3), (m), Jan. 4, 1983, 96 Stat. 2064, 2065; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §§111(a)(2), 112(a), 113, Nov. 16, 1990, 104 Stat. 3114, 3115, 3117.)
 

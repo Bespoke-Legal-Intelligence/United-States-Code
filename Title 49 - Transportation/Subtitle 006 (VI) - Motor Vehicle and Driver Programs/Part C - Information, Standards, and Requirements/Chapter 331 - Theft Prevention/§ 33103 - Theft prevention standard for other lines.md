@@ -16,7 +16,7 @@ Extension of Application.—(1) Not later than 3 years after the standard is pre
 
 (c)
 
-Initial Review of Effectiveness.—Before the Secretary begins a regulatory proceeding under subsection (b) of this section, the Attorney General shall make a finding that the Secretary shall apply the standard prescribed under subsection (a) of this section unless the Attorney General finds, based on information collected and analyzed under section 33112 of this title and other information the Attorney General develops after providing notice and an opportunity for a public hearing, that applying the standard prescribed in subsection (a) to the remaining lines of passenger motor vehicles (except light duty trucks) not covered by that standard would not substantially inhibit chop shop operations and motor vehicle thefts. The Attorney General also shall consider and include in the record additional costs, effectiveness, competition, and available alternative factors. The Attorney General shall submit to the Secretary the finding and record on which the finding is based.
+Initial Review of Effectiveness.—Before the Secretary begins a regulatory proceeding under subsection (b) of this section, the Attorney General shall make a finding that the Secretary shall apply the standard prescribed under subsection (a) of this section unless the Attorney General finds, based on information collected and analyzed under section 33112 of this title and other information the Attorney General develops after providing notice and an opportunity for a public hearing, that applying the standard prescribed in subsection (a) to the remaining lines of passenger motor vehicles (except light duty trucks) not covered by that standard would not substantially inhibit chop shop operations and motor vehicle thefts. TheAttorney General also shall consider and include in the record additional costs, effectiveness, competition, and available alternative factors. The Attorney General shall submit to the Secretary the finding and record on which the finding is based.
 
 (d)
 
@@ -110,7 +110,7 @@ In subsection (d)(1)(A), the words “whether the application of the standard un
 
 In subsection (d)(2)(A)(iii), the words “civil . . . penalties under section 33115(b) of this title” are substituted for “civil . . . penalties under section 2027(b) of this title” to correct an erroneous cross-reference.
 
-In subsection (d)(3), the words “for the model years after model year 2000” are substituted for “Nothing in this paragraph affects exemptions granted in model year 2000 or earlier to any manufacturer” to eliminate unnecessary words. The words “at one of the following levels that the Attorney General decides” are substituted for “as determined by the Attorney General” for clarity.
+In subsection (d)(3), the words “for the model years after model year 2000” are substituted for “Nothing in this paragraph affects exemptions granted in model year 2000 or earlier to any manufacturer” to eliminate unnecessary words. The words “at one of the followinglevels that the Attorney General decides” are substituted for “as determined by the Attorney General” for clarity.
 
 In subsection (e), the text of 15:2022(c)(4) (related to the standard under 15:2022(c)(1)) is omitted as obsolete because the standard under 15:2022(c)(1) has already been prescribed. See 49 C.F.R. 541.
 

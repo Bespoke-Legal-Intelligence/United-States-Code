@@ -6,7 +6,7 @@ It is the sense of the Congress that Federal agencies should review and evaluate
 
 #### (b) Statement of cost
 
-At the request of a committee chairman or ranking minority member, the Director shall, to the extent practicable, prepare a comparison between—
+At the request of a committee chairman or ranking minority member, the Director shall, tothe extent practicable, prepare a comparison between—
 
 &emsp;(1) an estimate by the relevant agency, prepared under section 1532 of this title, of the costs of regulations implementing an Act containing a Federal mandate; and
 

@@ -38,13 +38,13 @@ For purposes of this chapter—
 
 &emsp;(10) The term “land use” means activities which are conducted in, or on the shorelands within, the coastal zone, subject to the requirements outlined in section 1456(g) of this title.
 
-&emsp;(11) The term “local government” means any political subdivision of, or any special entity created by, any coastal state which (in whole or part) is located in, or has authority over, such state's coastal zone and which (A) has authority to levy taxes, or to establish and collect user fees, or (B) provides any public facility or public service which is financed in whole or part by taxes or user fees. The term includes, but is not limited to, any school district, fire district, transportation authority, and any other special purpose district or authority.
+&emsp;(11) The term “local government” means any political subdivision of, or any special entity created by, any coastal state which (in whole or part) is located in, or has authority over, such state's coastal zone and which (A) has authority to levy taxes, or to establish and collect user fees, or (B) provides any public facility or public service which is financed in whole or part by taxes or user fees. The term includes, but is not limited to, any school district, fire district, transportationauthority, and any other special purpose district or authority.
 
 &emsp;(12) The term “management program” includes, but is not limited to, a comprehensive statement in words, maps, illustrations, or other media of communication, prepared and adopted by the state in accordance with the provisions of this chapter, setting forth objectives, policies, and standards to guide public and private uses of lands and waters in the coastal zone.
 
 &emsp;(13) The term “outer Continental Shelf energy activity” means any exploration for, or any development or production of, oil or natural gas from the outer Continental Shelf (as defined in section 1331(a) of title 43) or the siting, construction, expansion, or operation of any new or expanded energy facilities directly required by such exploration, development, or production.
 
-&emsp;(14) The term “person” means any individual; any corporation, partnership, association, or other entity organized or existing under the laws of any state; the Federal Government;any state, regional, or local government; or any entity of any such Federal, state, regional, or local government.
+&emsp;(14) The term “person” means any individual; any corporation, partnership, association, or other entity organized or existing under the laws of any state; the Federal Government; any state, regional, or local government; or any entity of any such Federal, state, regional, or local government.
 
 &emsp;(15) The term “public facilities and public services” means facilities or services which are financed, in whole or in part, by any state or political subdivision thereof, including, but not limited to, highways and secondary roads, parking, mass transit, docks, navigation aids, fire and police protection, water supply, waste collection and treatment (including drainage), schools and education, and hospitals and health care. Such term may also include any other facility or service so financed which the Secretary finds will support increased population.
 
@@ -152,7 +152,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1455b of this title; title 33 section 1122; title 43 section 1337.
+This section is referred to in section 1455b of this title; title 33 section 1122; title 43 sections 1337, 1356a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

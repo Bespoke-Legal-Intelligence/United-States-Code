@@ -26,7 +26,7 @@ The Congress declares and finds that:
 
 &emsp;(6) The 102d Congress has enacted legislation suspending until October 1, 1993, the running of any unexpired statute of limitation applicable to the Tribe's land claim in order to provide additional time to negotiate settlement of these claims.
 
-&emsp;(7) It is recognized that both Indian and non-Indian parties enter into this settlement to resolve the disputes raised in these lawsuits andto derive certain benefits. The parties’ Settlement Agreement constitutes a good faith effort to resolve these lawsuits and other claims and requires implementing legislation by the Congress of the United States, the General Assembly of the State of South Carolina, and the governing bodies of the South Carolina counties of York and Lancaster.
+&emsp;(7) It is recognized that both Indian and non-Indian parties enter into this settlement to resolve the disputes raised in these lawsuits and to derive certain benefits. The parties’ Settlement Agreement constitutes a good faith effort to resolve these lawsuits and other claims and requires implementing legislation by the Congress of the United States, the General Assembly of the State of South Carolina, and the governing bodies of the South Carolina counties of York and Lancaster.
 
 &emsp;(8) To advance the goals of the Federal policy of Indian self-determination and restoration of terminated Indian Tribes, and in recognition of the United States obligation to the Tribe and the Federal policy of settling historical Indian claims through comprehensive settlement agreements, it is appropriate that the United States participate in the funding and implementation of the Settlement Agreement.
 
@@ -60,7 +60,7 @@ This subchapter, referred to in subsec. (b), was in the original “this Act”,
 
 Section 17 of Pub. L. 103–116 provided that: “Except for sections 7, 8, and 12 \[enacting sections 941e, 941f and 941j of this title\], the provisions of this Act \[see Short Title note below\] shall become effective upon the transfer of the Existing Reservation under section 12 \[enacting section 941j of this title\] to the Secretary.”
 
-\[In accordance with the provisions of Pub. L. 103–116, a quitclaim deed transferring the existing reservation to the United States as Trustee for the Tribe was executed on Nov. 29, 1993. This conveyance was accepted on behalf of the United States, in trust, on Jan. 19, 1994. The deed was recorded Jan. 20, 1994.\]
+\[In accordance with the provisions of Pub. L. 103–116, a quitclaim deed transferring the existing reservation to the United States as Trustee for the Tribe was executed on Nov. 29, 1993. This conveyance was accepted onbehalf of the United States, in trust, on Jan. 19, 1994. The deed was recorded Jan. 20, 1994.\]
 
 #### Short Title
 

@@ -2,37 +2,15 @@
 
 #### (a) Identity of financial institutions
 
-Notwithstanding section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish to the Federal Bureau of Investigation the names and addresses of all financial institutions (as that term is defined in section 3401 of title 12) at which a consumer maintains or has maintained an account, to the extent that information is in the files of the agency, when presented with a written request for that information, signed by the Director of the Federal Bureau of Investigation, or the Director's designee, which certifies compliance with this section. The Director or the Director's designee may make such a certification only if the Director or the Director's designee has determined in writing that—
-
-&emsp;(1) such information is necessary for the conduct of an authorized foreign counterintelligence investigation; and
-
-&emsp;(2) there are specific and articulable facts giving reason to believe that the consumer—
-
-&emsp;&emsp;(A) is a foreign power (as defined in section 1801 of title 50) or a person who is not a United States person (as defined in such section 1801 of title 50) and is an official of a foreign power; or
-
-&emsp;&emsp;(B) is an agent of a foreign power and is engaging or has engaged in an act of international terrorism (as that term is defined in section 1801(c) of title 50) or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
+Notwithstanding section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish to the Federal Bureau of Investigation the names and addresses of all financial institutions (as that term is defined in section 3401 of title 12) at which a consumer maintains or has maintained an account, to the extent that information is in the files of the agency, when presented with a written request for that information, signed by the Director of the Federal Bureau of Investigation, or the Director's designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director, which certifies compliance with this section. The Director or the Director's designee may make such a certification only if the Director or the Director's designee has determined in writing, that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.
 
 #### (b) Identifying information
 
-Notwithstanding the provisions of section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish identifying information respecting a consumer, limited to name, address, former addresses, places of employment, or former places of employment, to the Federal Bureau of Investigation when presented with a written request, signed by the Director or the Director's designee, which certifies compliance with this subsection. The Director or the Director's designee may make such a certification only if the Director or the Director's designee has determined in writing that—
-
-&emsp;(1) such information is necessary to the conduct of an authorized counterintelligence investigation; and
-
-&emsp;(2) there is information giving reason to believe that the consumer has been, or is about to be, in contact with a foreign power or an agent of a foreign power (as defined in section 1801 of title 50).
+Notwithstanding the provisions of section 1681b of this title or any other provision of this subchapter, a consumer reporting agency shall furnish identifying information respecting a consumer, limited to name, address, former addresses, places of employment, or former places of employment, to the Federal Bureau of Investigation when presented with a written request, signed by the Director or the Director's designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director, which certifies compliance with this subsection. The Director or the Director's designee may make such a certification only if the Director or the Director's designee has determined in writing that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.
 
 #### (c) Court order for disclosure of consumer reports
 
-Notwithstanding section 1681b of this title or any other provision of this subchapter, if requested in writing by the Director of the Federal Bureau of Investigation, or a designee of the Director, a court may issue an order ex parte directing a consumer reporting agency to furnish a consumer report to the Federal Bureau of Investigation, upon a showing in camera that—
-
-&emsp;(1) the consumer report is necessary for the conduct of an authorized foreign counterintelligence investigation; and
-
-&emsp;(2) there are specific and articulable facts giving reason to believe that the consumer whose consumer report is sought—
-
-&emsp;&emsp;(A) is an agent of a foreign power, and
-
-&emsp;&emsp;(B) is engaging or has engaged in an act of international terrorism (as that term is defined in section 1801(c) of title 50) or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
-
-> The terms of an order issued under this subsection shall not disclose that the order is issued for purposes of a counterintelligence investigation.
+Notwithstanding section 1681b of this title or any other provision of this subchapter, if requested in writing by the Director of the Federal Bureau of Investigation, or a designee of the Director in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, a court may issue an order ex parte directing a consumer reporting agency to furnish a consumer report to the Federal Bureau of Investigation, upon a showing in camera that the consumer report is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States. The terms of an order issued under this subsection shall not disclose that the order is issued for purposes of a counterintelligence investigation.
 
 #### (d) Confidentiality
 
@@ -56,7 +34,7 @@ On a semiannual basis, the Attorney General shall fully inform the Permanent Sel
 
 #### (i) Damages
 
-Any agency or department of the United States obtaining or disclosing any consumer reports, records, or information contained therein in violation of this section is liable to the consumer to whom such consumer reports, records, or information relate in an amount equal to the sum of—
+Any agency or department of the United States obtaining or disclosing any consumer reports, records, or information contained thereinin violation of this section is liable to the consumer to whom such consumer reports, records, or information relate in an amount equal to the sum of—
 
 &emsp;(1) $100, without regard to the volume of consumer reports, records, or information involved;
 
@@ -82,17 +60,33 @@ Notwithstanding any other provision of this subchapter, the remedies and sanctio
 
 In addition to any other remedy contained in this section, injunctive relief shall be available to require compliance with the procedures of this section. In the event of any successful action under this subsection, costs together with reasonable attorney fees, as determined by the court, may be recovered.
 
-(Pub. L. 90–321, title VI, §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974.)
+(Pub. L. 90–321, title VI, §625, formerly §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974; renumbered §625 and amended Pub. L. 107–56, title III, §358(g)(1)(A), title V, §505(c), Oct. 26, 2001, 115 Stat. 327, 366.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (g), was in the original, “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 90–321, known as the Fair Credit Reporting Act, to reflect the probable intent of Congress.
 
-#### Codification
+#### Amendments
 
-Another section 624 of Pub. L. 90–321 is classified to section 1681t of this title.
+2001—Pub. L. 107–56, §505(c), which directed amendment of section 624 of the Fair Credit Reporting Act, was executed by making the amendment to this section to reflect the probable intent of Congress and the renumbering of section 624 as 625 by section 358(g)(1)(A) of Pub. L. 107–56. See below.
+
+Subsec. (a). Pub. L. 107–56, §505(c)(1), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “Investigation, or the Director's designee” and substituted “in writing, that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary for the conduct of an authorized foreign counterintelligence investigation and that there are specific and articulable facts giving reason to believe that the consumer is a foreign power or a person who is not a United States person and is an official of a foreign power, or that the consumer is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
+
+Subsec. (b). Pub. L. 107–56, §505(c)(2), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “signed by the Director or the Director's designee” and substituted “in writing that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary to the conduct of an authorized counterintelligence investigation and that there is information giving reason to believe that the consumer has been, or is about to be, in contact with a foreign power or an agent of a foreign power.
+
+Subsec. (c). Pub. L. 107–56, §505(c)(3), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “designee of the Director” and substituted “in camera that the consumer report is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring a showing in camera that the consumer report is necessary for the conduct of an authorized foreign counterintelligence investigation and there are specific and articulable facts giving reason to believe that the consumer whose consumer report is sought is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or in clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
 
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+
+Amendment by section 358(g)(1)(A) of Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this Title 12, Banks and Banking.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1681v of this title.
 

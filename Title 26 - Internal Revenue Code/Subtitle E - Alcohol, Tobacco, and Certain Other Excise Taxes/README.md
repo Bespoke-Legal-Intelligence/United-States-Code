@@ -16,10 +16,13 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>54.</b>](Chapter%20054%20-%20Greenmail/README.md) | <b>Greenmail</b> | <b>5881</b> |
+| [<b>55.</b>](Chapter%20055%20-%20Structured%20Settlement%20Factoring%20Transactions/README.md) | <b>Structured settlement factoring transactions</b> | <b>5891</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2002</b>—Pub. L. 107–134, title I, §115(b), Jan. 23, 2002, 115 Stat. 2438, added item relating to chapter 55.
 
 <b>1997</b>—Pub. L. 105–33, title IX, §9302(g)(3)(D), Aug. 5, 1997, 111 Stat. 673, added item relating to chapter 52 and struck out former item relating to chapter 52 “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes”.
 
@@ -46,3 +49,4 @@ This subtitle is referred to in sections 6091, 6103, 6422, 6652, 6806, 7103, 727
 - [Chapter 052 - Tobacco Products and Cigarette Papers and Tubes](Chapter%20052%20-%20Tobacco%20Products%20and%20Cigarette%20Papers%20and%20Tubes/README.md)
 - [Chapter 053 - Machine Guns, Destructive Devices, and Certain Other Firearms](Chapter%20053%20-%20Machine%20Guns%2C%20Destructive%20Devices%2C%20and%20Certain%20Other%20Firearms/README.md)
 - [Chapter 054 - Greenmail](Chapter%20054%20-%20Greenmail/README.md)
+- [Chapter 055 - Structured Settlement Factoring Transactions](Chapter%20055%20-%20Structured%20Settlement%20Factoring%20Transactions/README.md)

@@ -78,7 +78,7 @@ Amounts in the Trust shall be available—
 
 &emsp;&emsp;&emsp;(ii) the institution's eligibility to participate in any of the programs under title IV of such Act (20 U.S.C. 1070 et seq. \[and 42 U.S.C. 2751 et seq.\]) has not been limited, suspended, or terminated; and
 
-&emsp;&emsp;&emsp;(iii) individuals using national service educational awards received under this division to pay for educational costs do notcomprise more than 15 percent of the total student population of the institution; and
+&emsp;&emsp;&emsp;(iii) individuals using national service educational awards received under this division to pay for educational costs do not comprise more than 15 percent of the total student population of the institution; and
 
 &emsp;&emsp;(D) contains such provisions concerning financial compliance as the Corporation may require.
 
@@ -96,7 +96,7 @@ Amounts in the Trust shall be available—
 
 #### (6) Maximum award
 
-&emsp;The portion of an eligible individual's total available national service educational award that may be disbursed under this subsection for any period of enrollment shall not exceed the difference between—
+&emsp;The portion of an eligible individual's total available national service educational awardthat may be disbursed under this subsection for any period of enrollment shall not exceed the difference between—
 
 &emsp;&emsp;(A) the eligible individual's cost of attendance for such period of enrollment, determined in accordance with section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>); and
 
@@ -136,7 +136,7 @@ A prior section 148 of Pub. L. 101–610 was classified to section 12578 of this
 
 #### Amendments
 
-1998—Subsec. (g). Pub. L. 105–244 substituted “section 102 of the Higher Education Act of 1965” for “section481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))”.
+1998—Subsec. (g). Pub. L. 105–244 substituted “section 102 of the Higher Education Act of 1965” for “section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))”.
 
 #### Effective Date of 1998 Amendment
 

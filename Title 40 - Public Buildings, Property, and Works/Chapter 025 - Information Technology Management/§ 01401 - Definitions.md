@@ -46,7 +46,7 @@ Section 5701 of title LVII of div. E of Pub. L. 104–106 provided that: “This
 
 #### Short Title
 
-Section 5001 of div. E of Pub. L. 104–106, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that: “This division \[div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\] and division D\[§§4001–4402 of Pub. L. 104–106, see Tables for classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
+Section 5001 of div. E of Pub. L. 104–106, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–394, provided that: “This division \[div. E (§§5001–5703) of Pub. L. 104–106, see Tables for classification\] and division D \[§§4001–4402 of Pub. L. 104–106, see Tables for classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
 
 #### Savings Provision
 
@@ -228,7 +228,7 @@ Sec. 4. <i>Government Information Technology Services Board.</i>
 
 (3) creating and utilizing affinity groups for particular business or technology areas; and
 
-(4) developing with the National Institute of Standards and Technology and with established standardsbodies, standards and guidelines pertaining to Federal information systems, consistent with the limitations contained in the Computer Security Act of 1987 (40 U.S.C. 759 note), as amended by the Information Technology Act.
+(4) developing with the National Institute of Standards and Technology and with established standards bodies, standards and guidelines pertaining to Federal information systems, consistent with the limitations contained in the Computer Security Act of 1987 (40 U.S.C. 759 note), as amended by the Information Technology Act.
 
 (b) <i>Membership</i>. The Services Board shall be composed of individuals from agencies based on their proven expertise or accomplishments in fields necessary to achieve its goals. Major government mission areas such as electronic benefits, electronic commerce, law enforcement, environmental protection, national defense, and health care may be represented on the Services Board to provide a program operations perspective. Initial selection of members will be made by OMB in consultation with other agencies as appropriate. The CIO Council may nominate two members. The Services Board shall recommend new members to OMB for consideration. The Chair will be elected by the Services Board.
 
@@ -272,7 +272,7 @@ Sec. 7. <i>General Services Administration</i>. Under the direction of OMB, the 
 
 Sec. 8. <i>Department of Commerce</i>. The Secretary of Commerce shall carry out the standards responsibilities under the Computer Security Act of 1987 \[40 U.S.C. 1441 note\], as amended by the Information Technology Act, taking into consideration the recommendations of the agencies, the CIO Council, and the Services Board.
 
-Sec. 9. <i>Department of State</i>. (a) The Secretary of State shall be responsible for liaison, consultation, and negotiation with foreign governments and intergovernmental organizations on all matters related to information resources management, including Federal information technology. The Secretary shall further ensure, in consultation with the Secretary of Commerce, that the United States is represented in the development of international standards and recommendations affecting information technology. In the exercise of these responsibilities, the Secretary shall consult, as appropriate, with affected domestic agencies, organizations, and other members of the public.
+Sec. 9. <i>Department of State</i>. (a) The Secretary of State shall be responsible for liaison, consultation, and negotiation with foreign governments and intergovernmental organizations on all matters related to information resources management, including Federal information technology. The Secretary shall further ensure,in consultation with the Secretary of Commerce, that the United States is represented in the development of international standards and recommendations affecting information technology. In the exercise of these responsibilities, the Secretary shall consult, as appropriate, with affected domestic agencies, organizations, and other members of the public.
 
 (b) The Secretary of State shall advise the Director on the development of United States positions and policies on international information policy and technology issues affecting Federal Government activities and the development of international information technology standards.
 

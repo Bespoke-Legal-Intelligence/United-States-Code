@@ -10,7 +10,7 @@ Subject to regulations of the President—
 
 &emsp;(3) commissioned officers of the Regular or Reserve Corps of the Public Health Service on active duty;
 
-> shall be entitled to medical, surgical, and dental treatment and hospitalization by the Service. The Surgeon General may detail commissioned officers for duty aboard vessels of the Coast Guard or the National Oceanic and Atmospheric Administration.
+> shall be entitled to medical, surgical, and dental treatment and hospitalization by the Service.The Surgeon General may detail commissioned officers for duty aboard vessels of the Coast Guard or the National Oceanic and Atmospheric Administration.
 
 #### (b) Health care for involuntarily separated officers and dependents
 

@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;In addition to conducting the research described in subsection (a) of this section, theSecretary shall, in consultation with the Marine Mammal Commission and in cooperation with the nations participating in the International Dolphin Conservation Program and the Inter-American Tropical Tuna Commission, undertake or support appropriate scientific research to further the goals of the International Dolphin Conservation Program.
+&emsp;In addition to conducting the research described in subsection (a) of this section, the Secretary shall, in consultation with the Marine Mammal Commission and in cooperation with the nations participating in the International Dolphin Conservation Program and the Inter-American Tropical Tuna Commission, undertake or support appropriate scientific research to further the goals of the International Dolphin Conservation Program.
 
 #### (2) Specific areas of research
 

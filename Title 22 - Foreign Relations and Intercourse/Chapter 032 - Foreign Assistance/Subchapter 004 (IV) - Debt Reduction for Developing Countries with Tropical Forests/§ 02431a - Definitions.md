@@ -26,7 +26,7 @@ As used in this subchapter:
 
 &emsp;The term “developing country with a tropical forest” means—
 
-&emsp;&emsp;(A)(i) a country that has a per capita income of $725 or less in 1994 United States dollars (commonly referred to as “low-income country”), as determined and adjusted on an annual basis by the International Bank for Reconstruction and Development in its World Development Report; or
+&emsp;&emsp;(A)(i) a country that has a per capita income of $725 or less in 1994 United States dollars (commonly referred to as “low-income country”), as determined and adjusted on an annual basis by the International Bank forReconstruction and Development in its World Development Report; or
 
 &emsp;&emsp;(ii) a country that has a per capita income of more than $725 but less than $8,956 in 1994 United States dollars (commonly referred to as “middle-income country”), as determined and adjusted on an annual basis by the International Bank for Reconstruction and Development in its World Development Report; and
 

@@ -20,6 +20,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 107–16, title V, §542(d)(2), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 84, 86, 150, pro</i><i>vided that, applicable to estates of decedents dying after Dec. 31, 2009, item 1040 is temporarily amended to read as follows: “Use of appreciated carryover basis property to satisfy pecuniary bequest”.</i>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–34, title III, §§312(d)(15), 313(b)(3), Aug. 5, 1997, 111 Stat. 841, 842, struck out item 1034 “Rollover of gain on sale of principal residence” and added item 1045.

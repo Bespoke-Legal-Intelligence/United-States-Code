@@ -20,3 +20,7 @@ The Board (in the case of an uninsured State member bank which operates, or oper
 
 (Dec. 13, 1913, ch. 6, §9B, as added Pub. L. 106–554, §1(a)(5) \[title I, §112(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–392.)
 
+#### Codification
+
+Section was enacted as section 9B of act Dec. 13, 1913, and not as part of section 9 of such act which comprises this subchapter.
+

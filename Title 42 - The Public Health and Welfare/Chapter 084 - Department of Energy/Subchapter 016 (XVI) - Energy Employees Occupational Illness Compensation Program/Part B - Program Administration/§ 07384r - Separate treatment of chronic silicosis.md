@@ -24,13 +24,17 @@ For purposes of this subchapter, the term “chronic silicosis” means a nonmal
 
 &emsp;(2) a written diagnosis of silicosis is made by a medical doctor and is accompanied by—
 
-&emsp;&emsp;(A) a chest radiograph, interpreted by an individual certified by the National Institute for Occupational Safety and Health as a B reader, classifying the existence of pneumoconioses of category 1/1 or higher;
+&emsp;&emsp;(A) a chest radiograph, interpreted by an individual certified by the National Institute for Occupational Safety and Health as a B reader, classifying the existence of pneumoconioses of category 1/0 or higher;
 
 &emsp;&emsp;(B) results from a computer assisted tomograph or other imaging technique that are consistent with silicosis; or
 
 &emsp;&emsp;(C) lung biopsy findings consistent with silicosis.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3627\], Oct. 30, 2000, 114 Stat. 1654, 1654A–505.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3627\], Oct. 30, 2000, 114 Stat. 1654, 1654A–505; Pub. L. 107–107, div. C, title XXXI, §3151(a)(3), Dec. 28, 2001, 115 Stat. 1372.)
+
+#### Amendments
+
+2001—Subsec. (e)(2)(A). Pub. L. 107–107 substituted “category 1/0” for “category 1/1”.
 
 #### Section Referred to in Other Sections
 

@@ -46,7 +46,7 @@
 
 #### Prior Provisions
 
-A prior section 11393, Pub. L. 100–77, title IV, §433, July 22, 1987, 101 Stat. 507, related to establishment ofregulations for program to provide supplemental assistance for facilities to assist the homeless, prior to repeal by Pub. L. 102–550, §1403(a).
+A prior section 11393, Pub. L. 100–77, title IV, §433, July 22, 1987, 101 Stat. 507, related to establishment of regulations for program to provide supplemental assistance for facilities to assist the homeless, prior to repeal by Pub. L. 102–550, §1403(a).
 
 #### Section Referred to in Other Sections
 

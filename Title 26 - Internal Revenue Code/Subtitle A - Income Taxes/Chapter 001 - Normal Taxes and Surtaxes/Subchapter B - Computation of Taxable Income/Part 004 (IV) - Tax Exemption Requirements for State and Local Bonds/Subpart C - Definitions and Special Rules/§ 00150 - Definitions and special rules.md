@@ -26,7 +26,7 @@ For purposes of this part—
 
 #### (6) Tax-exempt bond
 
-&emsp;The term “tax-exempt” means, with respect to any bond (or issue), that the interest on such bond (or on the bonds issued as part of such issue) is excluded from gross income.
+&emsp;The term “tax-exempt” means, with respect to any bond (or issue), that the interest onsuch bond (or on the bonds issued as part of such issue) is excluded from gross income.
 
 #### (b) Change in use of facilities financed with tax-exempt private activity bonds
 
@@ -90,7 +90,7 @@ For purposes of this part—
 
 #### (6) Small issue bonds which exceed capital expenditure limitation
 
-&emsp;In the case of any financing provided from the proceeds of any bond which, when issued,purported to be a qualified small issue bond, no deduction shall be allowed under this chapter for interest on such financing which accrues during the period such bond is not a qualified small issue bond.
+&emsp;In the case of any financing provided from the proceeds of any bond which, when issued, purported to be a qualified small issue bond, no deduction shall be allowed under this chapter for interest on such financing which accrues during the period such bond is not a qualified small issue bond.
 
 #### (c) Exception and special rules for purposes of subsection (b)
 
@@ -102,7 +102,7 @@ For purposes of subsection (b)—
 
 #### (2) Treatment of amounts other than interest
 
-&emsp;If the amounts payable for the use of a facility are not interest, subsection (b) shall apply to such amounts as if they were interest but only to the extent such amounts for any period do not exceed the amount of interest accrued on the bond financing for such period.
+&emsp;If the amounts payable for the use of a facility are not interest, subsection (b) shall applyto such amounts as if they were interest but only to the extent such amounts for any period do not exceed the amount of interest accrued on the bond financing for such period.
 
 #### (3) Use of portion of facility
 
@@ -238,7 +238,7 @@ The Higher Education Act of 1965, referred to in subsec. (d)(2)(A), (3)(F)(i), i
 
 <b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–647, §1013(a)(23)(C), inserted “tax-exempt” before “qualified mortgage bond”.
 
-Pub. L. 100–647, §1013(a)(30), inserted before period at end “and before the date such residence is again theprincipal residence of at least 1 of the mortgagors who received such financing”.
+Pub. L. 100–647, §1013(a)(30), inserted before period at end “and before the date such residence is again the principal residence of at least 1 of the mortgagors who received such financing”.
 
 Subsec. (b)(2). Pub. L. 100–647, §1013(a)(32), inserted at end “If the provisions of prior law corresponding to section 142(d) apply to a refunded bond, such provisions shall apply (in lieu of section 142(d)) to the refunding bond.”
 

@@ -1,6 +1,6 @@
 ### §442. George Washington Birthplace National Monument
 
-The land owned by the United States at Wakefield, Westmoreland County, Virginia, and all structures thereon shall constitute the George Washington Birthplace National Monument at Wakefield, Virginia, which is established and set apart for the preservation of the historical associations connected therewith, for the benefit and enjoyment of the people, and the said national monument shall be after January 23, 1930, administered by the National Park Service under the direction of the Secretary of the Interior subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The land owned by the United States at Wakefield, Westmoreland County, Virginia, and allstructures thereon shall constitute the George Washington Birthplace National Monument at Wakefield, Virginia, which is established and set apart for the preservation of the historical associations connected therewith, for the benefit and enjoyment of the people, and the said national monument shall be after January 23, 1930, administered by the National Park Service under the direction of the Secretary of the Interior subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
 
 (Jan. 23, 1930, ch. 24, §§1, 2, 46 Stat. 58.)
 
@@ -40,7 +40,7 @@ Pub. L. 103–25, May 3, 1993, 107 Stat. 68, provided that:
 
 #### “SECTION 1. ADDITION TO NATIONAL MONUMENT.
 
-“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to asthe ‘National Monument’) are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
+“The boundaries of the George Washington Birthplace National Monument (hereinafter referred to as the ‘National Monument’) are hereby modified to include the area comprising approximately 12 acres, as generally depicted on the map entitled ‘George Washington Birthplace National Monument Boundary Map’, numbered 332/80,011A and dated September 1992, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 
 #### “SEC. 2. ACQUISITION OF LANDS.
 

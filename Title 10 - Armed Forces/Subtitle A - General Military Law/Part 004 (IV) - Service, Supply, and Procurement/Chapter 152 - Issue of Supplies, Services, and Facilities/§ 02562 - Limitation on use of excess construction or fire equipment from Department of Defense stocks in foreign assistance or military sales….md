@@ -2,7 +2,7 @@
 
 (a)
 
-Limitation.—Excess construction or fire equipment from the stocks of the Department ofDefense may be transferred to any foreign country or international organization pursuant to part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2301 et seq.) or section 21 of the Arms Export Control Act (22 U.S.C. 2761) only if—
+Limitation.—Excess construction or fire equipment from the stocks of the Department of Defense may be transferred to any foreign country or international organization pursuant to part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2301 et seq.) or section 21 of the Arms Export Control Act (22 U.S.C. 2761) only if—
 
 &emsp;(1) no department or agency of the Federal Government (other than the Department of Defense), no State, and no other person or entity eligible to receive excess or surplus property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472 et seq.) submits to the Defense Reutilization and Marketing Service a request for such equipment during the period for which the Defense Reutilization and Marketing Service accepts such a request; or
 

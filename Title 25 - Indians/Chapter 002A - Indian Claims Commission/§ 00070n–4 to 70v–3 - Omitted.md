@@ -32,5 +32,5 @@ Section 70v–1, act Aug. 13, 1946, ch. 959, §27, as added Apr. 10, 1967, Pub. 
 
 Section 70v–2, act Aug. 13, 1946, ch. 959, §28, as added Mar. 30, 1972, Pub. L. 92–265, §4, 86 Stat. 115; amended Oct. 8, 1976, Pub. L. 94–465, §3, 90 Stat. 1990, related to status reports to Congress by Commission.
 
-Section 70v–3, act Aug. 13, 1946, ch. 959, §29, as added July 20, 1977, Pub. L. 95–69, §2, 91 Stat. 273; amendedApr. 2, 1982, Pub. L. 97–164, title I, §149, 96 Stat. 46, related to cases transferred to United States Claims Court from Commission.
+Section 70v–3, act Aug. 13, 1946, ch. 959, §29, as added July 20, 1977, Pub. L. 95–69, §2, 91 Stat. 273; amended Apr. 2, 1982, Pub. L. 97–164, title I, §149, 96 Stat. 46, related to cases transferred to United States Claims Court from Commission.
 

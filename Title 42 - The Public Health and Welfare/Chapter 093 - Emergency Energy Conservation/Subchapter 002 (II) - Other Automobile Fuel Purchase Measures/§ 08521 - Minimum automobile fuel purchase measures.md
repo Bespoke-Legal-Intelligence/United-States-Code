@@ -48,7 +48,7 @@ The Secretary may increase the $5.00 and $7.00 amounts specified in subsections 
 
 #### (g) Administration and enforcement delegated to States
 
-(1) There is hereby delegated to the Governor of any State, and other State and local officers and employees designated by the Governor, theauthority to administer and enforce, within that State, any provision of this subchapter which is to be administered and enforced in accordance with this section. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (f) of this section.
+(1) There is hereby delegated to the Governor of any State, and other State and local officers and employees designated by the Governor, the authority to administer and enforce, within that State, any provision of this subchapter which is to be administered and enforced in accordance with this section. Such authority includes the authority to institute actions on behalf of the United States for the imposition and collection of civil penalties under subsection (f) of this section.
 
 (2)(A) All delegation of authority under paragraph (1) with respect to any State shall be considered revoked effective (i) upon the receipt of a written waiver of authority signed by the Governor of such State or (ii) upon a determination by the President that such delegation should be revoked, but only to the extent of that determination.
 

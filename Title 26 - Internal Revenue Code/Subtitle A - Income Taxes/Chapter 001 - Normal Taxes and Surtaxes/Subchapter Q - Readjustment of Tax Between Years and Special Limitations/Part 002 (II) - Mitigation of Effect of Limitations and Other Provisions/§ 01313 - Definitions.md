@@ -10,7 +10,7 @@ For purposes of this part, the term “determination” means—
 
 &emsp;(3) a final disposition by the Secretary of a claim for refund. For purposes of this part, a claim for refund shall be deemed finally disposed of by the Secretary—
 
-&emsp;&emsp;(A) as to items with respect to which the claim was allowed, on the date of allowance of refund or credit or on the date of mailing notice of disallowance (by reason of offsetting items) of the claim for refund, and
+&emsp;&emsp;(A) as to items with respect to which the claim was allowed, on the date of allowanceof refund or credit or on the date of mailing notice of disallowance (by reason of offsetting items) of the claim for refund, and
 
 &emsp;&emsp;(B) as to items with respect to which the claim was disallowed, in whole or in part, or as to items applied by the Secretary in reduction of the refund or credit, on expiration of the time for instituting suit with respect thereto (unless suit is instituted before the expiration of such time); or
 

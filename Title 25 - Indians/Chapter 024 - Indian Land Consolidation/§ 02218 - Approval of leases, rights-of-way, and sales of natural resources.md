@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, the Secretary may approve any lease or agreement that affects individually owned allottedland or any other land held in trust or restricted status by the Secretary on behalf of an Indian, if—
+&emsp;Notwithstanding any other provision of law, the Secretary may approve any lease or agreement that affects individually owned allotted land or any other land held in trust or restricted status by the Secretary on behalf of an Indian, if—
 
 &emsp;&emsp;(A) the owners of not less than the applicable percentage (determined under subsection (b) of this section) of the undivided interest in the allotted land that is covered by the lease or agreement consent in writing to the lease or agreement; and
 
@@ -88,7 +88,7 @@ The Secretary may give written consent to a lease or agreement under subsection 
 
 #### (f) Rule of construction
 
-Nothing in this section shall be construed to amend or modify the provisions of Public Law105–188 (25 U.S.C. 396 note), the American Indian Agricultural Resources Management Act (25 U.S.C. 3701 et seq.), title II of the Indian Land Consolidation Act Amendments of 2000, or any other Act that provides specific standards for the percentage of ownership interest that must approve a lease or agreement on a specified reservation.
+Nothing in this section shall be construed to amend or modify the provisions of Public Law 105–188 (25 U.S.C. 396 note), the American Indian Agricultural Resources Management Act (25 U.S.C. 3701 et seq.), title II of the Indian Land Consolidation Act Amendments of 2000, or any other Act that provides specific standards for the percentage of ownership interest that must approve a lease or agreement on a specified reservation.
 
 (Pub. L. 97–459, title II, §219, as added Pub. L. 106–462, title I, §103(6), Nov. 7, 2000, 114 Stat. 2004.)
 

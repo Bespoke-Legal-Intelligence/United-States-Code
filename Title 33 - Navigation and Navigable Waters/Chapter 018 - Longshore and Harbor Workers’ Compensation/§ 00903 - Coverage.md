@@ -10,7 +10,7 @@ No compensation shall be payable in respect of the disability or death of an off
 
 #### (c) Intoxication; willful intention to kill
 
-No compensation shall be payable if the injury was occasioned solely by the intoxication of the employee or by the willful intention of the employee to injure or kill himself or another.
+No compensation shall be payable if the injury was occasioned solely by the intoxication of theemployee or by the willful intention of the employee to injure or kill himself or another.
 
 #### (d) Small vessels
 

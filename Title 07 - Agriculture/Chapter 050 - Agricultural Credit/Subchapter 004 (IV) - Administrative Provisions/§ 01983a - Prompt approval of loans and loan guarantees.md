@@ -18,7 +18,7 @@
 
 (vi) The district office shall report to the State office of the Farmers Home Administration on each application for an operating loan or loan guarantee under subchapter II of this chapter that is pending more than 45 days after receipt by the county committee, and the reasons the application is pending.
 
-(vii) Each month, the Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on a State-by-State basis, as to each application for an operating loan or loan guarantee under subchapter II of this chapter on which final action had not been taken within 60 calendar days after receipt by the Secretary, and the reasons final action had not been taken.
+(vii) Each month, the Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate,on a State-by-State basis, as to each application for an operating loan or loan guarantee under subchapter II of this chapter on which final action had not been taken within 60 calendar days after receipt by the Secretary, and the reasons final action had not been taken.
 
 (3) If an application for a loan or loan guarantee under this chapter is disapproved by the Secretary, the Secretary shall state the reasons for the disapproval in the notice required under paragraph (1).
 
@@ -36,7 +36,7 @@
 
 #### (c) Reconsideration of applications; time for action by Secretary
 
-If an application for a loan or loan guarantee under this chapter is disapproved by the Secretary, but such action is subsequently reversed or revised as the result of an appeal within the Department of Agriculture or to the courts of the United States and the application is returned to the Secretary for further consideration, the Secretary shall act on the applicationand provide the applicant with notice of the action within 15 days after return of the application to the Secretary.
+If an application for a loan or loan guarantee under this chapter is disapproved by the Secretary, but such action is subsequently reversed or revised as the result of an appeal within the Department of Agriculture or to the courts of the United States and the application is returned to the Secretary for further consideration, the Secretary shall act on the application and provide the applicant with notice of the action within 15 days after return of the application to the Secretary.
 
 #### (d) Approved lender designation applications; time for decision by Secretary
 
@@ -74,7 +74,7 @@ In general.—The Secretary shall provide a prospectus of a seasoned direct loan
 
 &emsp;(B)
 
-Notification.—The Secretary shall notify each borrower of a loan that a prospectus has been provided to a lender under subparagraph (A).
+Notification.—The Secretary shall notify each borrower of a loan that a prospectushas been provided to a lender under subparagraph (A).
 
 &emsp;(C)
 
@@ -102,7 +102,7 @@ Credit extended.—If the Secretary receives an offer from an approved lender to
 
 &emsp;&emsp;(iv) the form can be completed and processed in an expeditious manner.
 
-(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811,title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093.)
+(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093.)
 
 #### References in Text
 

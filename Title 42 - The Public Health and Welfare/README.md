@@ -1,5 +1,5 @@
 
-42 U.S.C.<br>United States Code, 2000 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
+42 U.S.C.<br>United States Code, 2001 Edition<br>Title 42 - THE PUBLIC HEALTH AND WELFARE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
@@ -174,6 +174,7 @@
 | [<b>142.</b>](Chapter%20142%20-%20Poison%20Control%20Center%20Enhancement%20and%20Awareness/README.md) | <b>Poison Control Center Enhancement and Awareness</b> | <b>14801</b> |
 | [<b>143.</b>](Chapter%20143%20-%20Intercountry%20Adoptions/README.md) | <b>Intercountry Adoptions</b> | <b>14901</b> |
 | [<b>144.</b>](Chapter%20144%20-%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights/README.md) | <b>Developmental Disabilities Assistance and Bill of Rights</b> | <b>15001</b> |
+| [<b>145.</b>](Chapter%20145%20-%20Public%20Safety%20Officer%20Medal%20of%20Valor/README.md) | <b>Public Safety Officer Medal of Valor</b> | <b>15201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -351,3 +352,4 @@
 - [Chapter 142 - Poison Control Center Enhancement and Awareness](Chapter%20142%20-%20Poison%20Control%20Center%20Enhancement%20and%20Awareness/README.md)
 - [Chapter 143 - Intercountry Adoptions](Chapter%20143%20-%20Intercountry%20Adoptions/README.md)
 - [Chapter 144 - Developmental Disabilities Assistance and Bill of Rights](Chapter%20144%20-%20Developmental%20Disabilities%20Assistance%20and%20Bill%20of%20Rights/README.md)
+- [Chapter 145 - Public Safety Officer Medal of Valor](Chapter%20145%20-%20Public%20Safety%20Officer%20Medal%20of%20Valor/README.md)

@@ -10,7 +10,7 @@
 
 &emsp;(4)(A) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years if he has or acquires the nationality of such foreign state; or (B) accepting, serving in, or performing the duties of any office, post, or employment under the government of a foreign state or a political subdivision thereof, after attaining the age of eighteen years for which office, post, or employment an oath, affirmation, or declaration of allegiance is required; or
 
-&emsp;(5) making a formal renunciation of nationality before a diplomatic or consular officer ofthe United States in a foreign state, in such form as may be prescribed by the Secretary of State; or
+&emsp;(5) making a formal renunciation of nationality before a diplomatic or consular officer of the United States in a foreign state, in such form as may be prescribed by the Secretary of State; or
 
 &emsp;(6) making in the United States a formal written renunciation of nationality in such form as may be prescribed by, and before such officer as may be designated by, the Attorney General, whenever the United States shall be in a state of war and the Attorney General shall approve such renunciation as not contrary to the interests of national defense; or
 
@@ -42,7 +42,7 @@ Subsec. (a)(4). Pub. L. 99–653, §18(e), (f), as amended by Pub. L. 100–525,
 
 Subsecs. (b), (c). Pub. L. 99–653, §19, as amended by Pub. L. 100–525, §8(n), redesignated former subsec. (c) as (b) and substituted “Any” for “Except as provided in subsection (b) of this section, any”, and struck out former subsec. (b) which read as follows: “Any person who commits or performs any act specified in subsection (a) of this section shall be conclusively presumed to have done so voluntarily and without having been subjected to duress of any kind, if such person at the time of the act was a national of the state in which the act was performed and had been physically present in such state for a period or periods totaling ten years or more immediately prior to such act.”
 
-1981—Subsec. (a). Pub. L. 97–116 struck out “(a)” designation as added by section 4 of Pub. L. 95–432, which was not executed since it would have resulted in a subsec. (a) designation of “(a)(a)”, and substituted in par. (1) “special immigrant” for “nonquota immigrant”.
+1981—Subsec. (a). Pub. L. 97–116 struck out “(a)” designation as added by section 4 of Pub. L. 95–432, whichwas not executed since it would have resulted in a subsec. (a) designation of “(a)(a)”, and substituted in par. (1) “special immigrant” for “nonquota immigrant”.
 
 1978—Subsec. (a)(5). Pub. L. 95–432, §§2, 4, redesignated par. (6) as (5). Former par. (5), which dealt with expatriation of persons who voted in a political election in a foreign state or participated in an election or plebiscite to determine sovereignty over foreign territory, was struck out.
 

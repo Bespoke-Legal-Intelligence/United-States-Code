@@ -48,7 +48,7 @@ In general.—Each State shall carry out a transportation planning process that 
 
 &emsp;(2)
 
-Failure to consider factors.—The failure to consider any factor specified in paragraph (1) shall not be reviewable by any court under this title, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a transportation plan, a transportation improvement plan, a project or strategy, or the certification of a planning process.
+Failure to consider factors.—The failure to consider any factor specified in paragraph (1) shall not be reviewable by any court under this title, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a transportation plan, a transportationimprovement plan, a project or strategy, or the certification of a planning process.
 
 (d)
 
@@ -154,11 +154,11 @@ Chapter 2 projects.—
 
 &emsp;&emsp;&emsp;(i)
 
-Regionally significant projects.—Regionally significant projects proposedfor funding under chapter 2 shall be identified individually in the transportation improvement program.
+Regionally significant projects.—Regionally significant projects proposed for funding under chapter 2 shall be identified individually in the transportation improvement program.
 
 &emsp;&emsp;&emsp;(ii)
 
-Other projects.—Projects proposed for funding under chapter 2 that are not determined to be regionally significant shall be grouped in 1 line item or identified individually in the transportation improvement program.
+Other projects.—Projects proposed for funding under chapter 2 that are not determined to be regionally significant shall be grouped in 1 line item or identifiedindividually in the transportation improvement program.
 
 &emsp;&emsp;(C)
 
@@ -226,7 +226,7 @@ Treatment of Certain State Laws as Congestion Management Systems.—For purposes
 
 Continuation of Current Review Practice.—Since plans and programs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the plans and programs are subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and since decisions by the Secretary concerning plans and programs described in this section have not been reviewed under such Act as of January 1, 1997, any decision by the Secretary concerning a plan or program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
-(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I,§§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184.)
+(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184.)
 
 #### References in Text
 
@@ -282,7 +282,7 @@ Subsec. (h). Pub. L. 103–429, §3(6)(B), substituted “sections 5303–5306 a
 
 Subsec. (a). Pub. L. 94–280 struck out “within the designated boundaries of urban areas of the State” and “in the urban areas” after “continuing program” and “flow of traffic”, respectively.
 
-Subsec. (b). Pub. L. 94–280 substituted “any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems” for “any project on an extensionof the Federal-aid primary or secondary system in urban areas and on the Federal-aid urban system for improvements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and loading and unloading ramps. If such project is located in an urban area of more than fifty thousand population, such project shall be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title”.
+Subsec. (b). Pub. L. 94–280 substituted “any project for improvements on any public road which project will directly facilitate and control traffic flow on any of the Federal-aid systems” for “any project on an extension of the Federal-aid primary or secondary system in urban areas and on the Federal-aid urban system for improvements which directly facilitate and control traffic flow, such as grade separation of intersections, widening of lanes, channelization of traffic, traffic control systems, and loading and unloading ramps. If such project is located in an urban area of more than fifty thousand population, such project shall be based on a continuing comprehensive transportation planningprocess carried on in accordance with section 134 of this title”.
 
 Subsec. (c). Pub. L. 94–280 struck out subsec. (c) which provided for an annual report by the Secretary on projects approved under this section with recommendations for further improvement of traffic operations in accordance with this section.
 
@@ -378,7 +378,7 @@ Pub. L. 95–599, title I, §154, Nov. 6, 1978, 92 Stat. 2716, provided that:
 
 Section 146 of Pub. L. 94–280 provided that:
 
-“(a) The Secretary of Transportation is authorized to carry out traffic control signalization demonstration projects designed to demonstrate through the use of technology not now in general use the increased capacity of existing highways, the conservation of fuel, the decrease in traffic congestion, the improvement in air and noise quality, and the furtherance of highway safety, giving priority to those projects providing coordinated signalization of two or more intersections. Such projects can be carried out on any highway whether on or off a Federal-aid system.
+“(a) The Secretary of Transportation is authorized to carry out traffic control signalization demonstration projects designed to demonstrate through the use of technology not now in general use the increased capacity of existing highways, the conservation of fuel, the decrease in traffic congestion, the improvement in airand noise quality, and the furtherance of highway safety, giving priority to those projects providing coordinated signalization of two or more intersections. Such projects can be carried out on any highway whether on or off a Federal-aid system.
 
 “(b) There is authorized to be appropriated to carry out this section of the Highway Trust Fund, not to exceed $40,000,000 for the fiscal year ending September 30, 1977, and $40,000,000 for the fiscal year ending September 30, 1978.
 

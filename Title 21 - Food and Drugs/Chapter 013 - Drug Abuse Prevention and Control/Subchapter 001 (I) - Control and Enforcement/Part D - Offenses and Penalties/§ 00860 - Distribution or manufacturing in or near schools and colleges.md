@@ -20,7 +20,7 @@ Notwithstanding any other law, any person at least 21 years of age who knowingly
 
 #### (d) Suspension of sentence; probation; parole
 
-In the case of any mandatory minimum sentence imposed under this section, imposition or execution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section shall notbe eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section.
+In the case of any mandatory minimum sentence imposed under this section, imposition or execution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section.
 
 #### (e) Definitions
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 99–570, §1866(c), substituted reference to chapter 311 o
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of section 3583 of Title 18, Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under section 841 of this title.
+Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of section 3583 of Title 18,Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under section 841 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 (3) The general counsel of the Commission shall notify the respondent of any recommendation to the Commission by the general counsel to proceed to a vote on probable cause pursuant to paragraph (4)(A)(i). With such notification, the general counsel shall include a brief stating the position of the general counsel on the legal and factual issues of the case. Within 15 days of receipt of such brief, respondent may submit a brief stating the position of such respondent on the legal and factual issues of the case, and replying to the brief of general counsel. Such briefs shall be filed with the Secretary of the Commission and shall be considered by the Commission before proceeding under paragraph (4).
 
-(4)(A)(i) Except as provided in clauses <sup>1</sup> (ii) and subparagraph (C), if the Commission determines, by an affirmative vote of 4 of its members, that there is probable cause to believe that any person has committed, or is about to commit, a violation of this Act or of chapter 95 or chapter 96 of title 26, the Commission shall attempt, for a period of at least 30 days, to correct or prevent such violation by informal methods of conference, conciliation, and persuasion, and to enter into a conciliation agreement with any person involved. Such attempt by the Commission to correct or prevent such violation may continue for a period of not more than 90 days. The Commission may not enter into a conciliation agreement under this clause except pursuant to an affirmative vote of 4 of its members. A conciliation agreement, unless violated, is a complete bar to any further action by the Commission, including the bringing of a civil proceeding under paragraph (6)(A).
+(4)(A)(i) Except as provided in clauses <sup>1</sup> (ii) and subparagraph (C), if the Commission determines, by an affirmative vote of 4 of its members, that there is probable cause to believe that any person has committed, or is about to commit, a violation of this Act or of chapter 95 or chapter 96 of title 26, the Commission shall attempt, for a period of at least 30 days, to correct or prevent such violation by informal methods of conference, conciliation, and persuasion, and to enter into a conciliation agreement with any person involved. Such attempt by the Commission to correct or prevent such violation may continue for a period of not more than 90 days. The Commission may not enter into a conciliation agreement under this clause except pursuant to an affirmative vote of 4 of its members. A conciliation agreement, unless violated, is acomplete bar to any further action by the Commission, including the bringing of a civil proceeding under paragraph (6)(A).
 
 (ii) If any determination of the Commission under clause (i) occurs during the 45-day period immediately preceding any election, then the Commission shall attempt, for a period of at least 15 days, to correct or prevent the violation involved by the methods specified in clause (i).
 
@@ -22,7 +22,7 @@
 
 &emsp;(II) based on such finding, require the person to pay a civil money penalty in an amount determined under a schedule of penalties which is established and published by the Commission and which takes into account the amount of the violation involved, the existence of previous violations by the person, and such other factors as the Commission considers appropriate.
 
-(ii) The Commission may not make any determination adverse to a person under clause (i)until the person has been given written notice and an opportunity to be heard before the Commission.
+(ii) The Commission may not make any determination adverse to a person under clause (i) until the person has been given written notice and an opportunity to be heard before the Commission.
 
 (iii) Any person against whom an adverse determination is made under this subparagraph may obtain a review of such determination in the district court of the United States for the district in which the person resides, or transacts business, by filing in such court (prior to the expiration of the 30-day period which begins on the date the person receives notification of the determination) a written petition requesting that the determination be modified or set aside.
 
@@ -42,7 +42,7 @@
 
 (7) In any action brought under paragraph (5) or (6), subpenas for witnesses who are required to attend a United States district court may run into any other district.
 
-(8)(A) Any party aggrieved by an order of the Commission dismissing a complaint filed by such party under paragraph (1), or by a failure of the Commission to act on such complaint during the 120-day period beginning on the date the complaint is filed, may file a petition with the United States District Court for the District of Columbia.
+(8)(A) Any party aggrieved by an order of the Commission dismissing a complaint filed by such party under paragraph (1), or by a failure of the Commission to act on such complaint duringthe 120-day period beginning on the date the complaint is filed, may file a petition with the United States District Court for the District of Columbia.
 
 (B) Any petition under subparagraph (A) shall be filed, in the case of a dismissal of a complaint by the Commission, within 60 days after the date of the dismissal.
 
@@ -84,7 +84,7 @@ Whenever the Commission refers an apparent violation to the Attorney General, th
 
 &emsp;(C) the defendant is, with respect to the violation involved, in compliance with the conciliation agreement.
 
-(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477.)
+(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L.99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477.)
 
 #### References in Text
 
@@ -114,7 +114,7 @@ Subsecs. (b), (c). Pub. L. 94–283, §109, reenacted subsec. (b) without change
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–58, title VI, §640(c), Sept. 29, 1999, 113 Stat. 477, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to violations occurring between January 1, 2000 and December 31, 2001.”
+Pub. L. 106–58, title VI, §640(c), Sept. 29, 1999, 113 Stat. 477, as amended by Pub. L. 107–67, title VI, §642, Nov. 12, 2001, 115 Stat. 555, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2003.”
 
 #### Effective Date of 1984 Amendment
 

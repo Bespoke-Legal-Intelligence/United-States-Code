@@ -8,7 +8,7 @@
 
 (3) It shall be unlawful—
 
-&emsp;(A) for such a fund to make a contribution or expenditure by utilizing money or anything of value secured by physical force, job discrimination, financial reprisals, or the threat of force, job discrimination, or financial reprisal; or by dues, fees, or other moneys required as a condition of membership in a labor organization or as a condition of employment, or by moneys obtained in any commercial transaction;
+&emsp;(A) for such a fund to make a contribution or expenditure by utilizing money or anythingof value secured by physical force, job discrimination, financial reprisals, or the threat of force, job discrimination, or financial reprisal; or by dues, fees, or other moneys required as a condition of membership in a labor organization or as a condition of employment, or by moneys obtained in any commercial transaction;
 
 &emsp;(B) for any person soliciting an employee for a contribution to such a fund to fail to inform such employee of the political purposes of such fund at the time of such solicitation; and
 

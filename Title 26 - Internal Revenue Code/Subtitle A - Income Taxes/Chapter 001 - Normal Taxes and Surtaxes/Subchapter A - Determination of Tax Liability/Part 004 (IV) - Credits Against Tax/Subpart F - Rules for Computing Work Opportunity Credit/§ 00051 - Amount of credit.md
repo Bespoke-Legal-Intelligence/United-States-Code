@@ -36,7 +36,7 @@ For purposes of this subpart—
 
 #### (B) Reduction for work supplementation payments to employers
 
-&emsp;&emsp;The amount of wages which would (but for this subparagraph) be qualified wages underthis section for an employer with respect to an individual for a taxable year shall be reduced by an amount equal to the amount of the payments made to such employer (however utilized by such employer) with respect to such individual for such taxable year under a program established under section 482(e) <sup>1</sup> of the Social Security Act.
+&emsp;&emsp;The amount of wages which would (but for this subparagraph) be qualified wages under this section for an employer with respect to an individual for a taxable year shall be reduced by an amount equal to the amount of the payments made to such employer (however utilized by such employer) with respect to such individual for such taxable year under a program established under section 482(e) <sup>1</sup> of the Social Security Act.
 
 #### (3) Payments for services during labor disputes
 
@@ -104,7 +104,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;(II) having been discharged or released from active duty in the Armed Forces of the United States for a service-connected disability, and
 
-&emsp;&emsp;&emsp;(ii) not having any day during the 60-day period ending on the hiring date which was a day of extended active duty in the Armed Forces of the United States.
+&emsp;&emsp;&emsp;(ii) not having any day during the 60-day period ending on the hiring date which wasa day of extended active duty in the Armed Forces of the United States.
 
 > &emsp;&emsp;For purposes of clause (ii), the term “extended active duty” means a period of more than 90 days during which the individual was on active duty (other than active duty for training).
 
@@ -322,7 +322,7 @@ For purposes of this subpart—
 
 The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to section 682 of Title 42, was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. Section 1616 of the Act is classified to section 1382e of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(3)(A), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 6(<i>o</i>) of the Act is classified to section 2015(<i>o</i>) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (d)(3)(A), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally tochapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 6(<i>o</i>) of the Act is classified to section 2015(<i>o</i>) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
@@ -548,7 +548,7 @@ Subsec. (e). Pub. L. 96–222, §103(a)(6)(G)(ix), inserted “except as provide
 
 Pub. L. 106–554, §1(a)(7) \[title I, §102(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, provided that: “The amendments made by this section \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 2001.”
 
-Pub. L. 106–554, §1(a)(7) \[title III, §316(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “Theamendments made by this section \[amending this section and sections 219, 401 and 1361 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate.”
+Pub. L. 106–554, §1(a)(7) \[title III, §316(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “The amendments made by this section \[amending this section and sections 219, 401 and 1361 of this title\] shall take effect as if included in the provisions of the Small Business Job Protection Act of 1996 \[Pub. L. 104–188\] to which they relate.”
 
 #### Effective Date of 1999 Amendment
 
@@ -720,7 +720,7 @@ Pub. L. 105–277, div. J, title IV, §4006(c)(1), Oct. 21, 1998, 112 Stat. 2681
 
 Section 261(f)(2) of Pub. L. 97–34, as amended by Pub. L. 97–248, title II, §233(e), Sept. 3, 1982, 96 Stat. 502; Pub. L. 98–369, div. A, title X, §1041(b), July 18, 1984, 98 Stat. 1042; Pub. L. 99–514, title XVII, §1701(d), Oct. 22, 1986, 100 Stat. 2772; Pub. L. 100–647, title IV, §4010(b), Nov. 10, 1988, 102 Stat. 3655; Pub. L. 101–239, title VII, §7103(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11405(b), Nov. 5, 1990, 104 Stat. 1388–473, provided that: “There is authorized to be appropriated for each fiscal year such sums as may be necessary, to carry out the functions described by the amendments made by paragraph (1) \[amending this section\], except that, of the amounts appropriated pursuant to this paragraph—
 
-&emsp;“(A) $5,000,000 shall be used to test whether individuals certified as members of targeted groups undersection 51 of such Code are eligible for such certification (including the use of statistical sampling techniques), and
+&emsp;“(A) $5,000,000 shall be used to test whether individuals certified as members of targeted groups under section 51 of such Code are eligible for such certification (including the use of statistical sampling techniques), and
 
 &emsp;“(B) the remainder shall be distributed under performance standards prescribed by the Secretary of Labor.
 

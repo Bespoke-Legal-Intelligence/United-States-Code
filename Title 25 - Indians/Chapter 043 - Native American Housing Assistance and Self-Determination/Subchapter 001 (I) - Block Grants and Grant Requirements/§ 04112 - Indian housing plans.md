@@ -110,7 +110,7 @@ A plan under this section may cover more than 1 Indian tribe, but only if the ce
 
 The requirements relating to the contents of plans under this section shall be established by regulation, pursuant to section 4116 of this title.
 
-(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X,§1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, §503(b), (c), Dec. 27, 2000, 114 Stat. 2962.)
+(Pub. L. 104–330, title I, §102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, §595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X, §1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, §503(b), (c), Dec. 27, 2000, 114 Stat. 2962.)
 
 #### References in Text
 

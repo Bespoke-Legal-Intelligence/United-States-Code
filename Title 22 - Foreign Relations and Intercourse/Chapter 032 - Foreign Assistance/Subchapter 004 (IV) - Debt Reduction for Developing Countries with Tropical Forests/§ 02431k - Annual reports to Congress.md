@@ -28,7 +28,7 @@ Section 2433, Pub. L. 87–195, pt. V, §803, as added Pub. L. 93–189, §24, D
 
 Section 2434, Pub. L. 87–195, pt. V, §804, as added Pub. L. 93–189, §24, Dec. 17, 1973, 87 Stat. 729, made provision for assistance to the Center for Plastic and Reconstructive Surgery in Saigon.
 
-Section 2435, Pub. L. 87–195, pt. V, §806, as added Pub. L. 93–559, §41, Dec. 30, 1974, 88 Stat. 1812, directed that provisions covering special programs for relief of SouthVietnam, Cambodia, and Laos not apply to programs related to population growth, narcotics control, humanitarian programs by international organizations, and regional programs.
+Section 2435, Pub. L. 87–195, pt. V, §806, as added Pub. L. 93–559, §41, Dec. 30, 1974, 88 Stat. 1812, directed that provisions covering special programs for relief of South Vietnam, Cambodia, and Laos not apply to programs related to population growth, narcotics control, humanitarian programs by international organizations, and regional programs.
 
 #### Delegation of Functions
 

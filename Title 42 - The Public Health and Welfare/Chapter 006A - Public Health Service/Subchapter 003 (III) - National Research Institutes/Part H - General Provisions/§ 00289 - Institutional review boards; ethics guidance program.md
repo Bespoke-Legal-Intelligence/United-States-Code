@@ -8,11 +8,51 @@
 
 (July 1, 1944, ch. 373, title IV, §491, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 873.)
 
+#### Study Concerning Research Involving Children
+
+Pub. L. 107–109, §12, Jan. 4, 2002, 115 Stat. 1416, provided that:
+
+“(a)
+
+Contract With Institute of Medicine.—The Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine for—
+
+&emsp;“(1) the conduct, in accordance with subsection (b), of a review of—
+
+&emsp;&emsp;“(A) Federal regulations in effect on the date of the enactment of this Act \[Jan. 4, 2002\] relating to research involving children;
+
+&emsp;&emsp;“(B) federally prepared or supported reports relating to research involving children; and
+
+&emsp;&emsp;“(C) federally supported evidence-based research involving children; and
+
+&emsp;“(2) the submission to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, not later than two years after the date of enactment of this Act, of a report concerning the review conducted under paragraph (1) that includes recommendations on best practices relating to research involving children.
+
+“(b)
+
+Areas of Review.—In conducting the review under subsection (a)(1), the Institute of Medicine shall consider the following:
+
+&emsp;“(1) The written and oral process of obtaining and defining ‘assent’, ‘permission’ and ‘informed consent’ with respect to child clinical research participants and the parents, guardians, and the individuals who may serve as the legally authorized representatives of such children (as defined in subpart A of part 46 of title 45, Code of Federal Regulations).
+
+&emsp;“(2) The expectations and comprehension of child research participants and the parents, guardians, or legally authorized representatives of such children, for the direct benefits and risks of the child's research involvement, particularly in terms of research versus therapeutic treatment.
+
+&emsp;“(3) The definition of ‘minimal risk’ with respect to a healthy child or a child with an illness.
+
+&emsp;“(4) The appropriateness of the regulations applicable to children of differing ages and maturity levels, including regulations relating to legal status.
+
+&emsp;“(5) Whether payment (financial or otherwise) may be provided to a child or his or her parent, guardian, or legally authorized representative for the participation of the child in research, and if so, the amount and type of payment that may be made.
+
+&emsp;“(6) Compliance with the regulations referred to in subsection (a)(1)(A), the monitoring of such compliance (including the role of institutional review boards), and the enforcement actions taken for violations of such regulations.
+
+&emsp;“(7) The unique roles and responsibilities of institutional review boards in reviewing research involving children, including composition of membership on institutional review boards.
+
+“(c)
+
+Requirements of Expertise.—The Institute of Medicine shall conduct the review under subsection (a)(1) and make recommendations under subsection (a)(2) in conjunction with experts in pediatric medicine, pediatric research, and the ethical conduct of research involving children.”
+
 #### Requirement for Additional Protections for Children Involved in Research
 
 Pub. L. 106–310, div. A, title XXVII, §2701, Oct. 17, 2000, 114 Stat. 1167, as amended by Pub. L. 106–505, title X, §1001(a), Nov. 13, 2000, 114 Stat. 2350, provided that: “Notwithstanding any other provision of law, not later than 6 months after the date of the enactment of this Act \[Oct. 17, 2000\], the Secretary of Health and Human Services shall require that all research involving children that is conducted, supported, or regulated by the Department of Health and Human Services be in compliance with subpart D of part 46 of title 45, Code of Federal Regulations.”
 
-\[Pub. L. 106–505, title X, §1001(b), Nov. 13, 2000, 114 Stat. 2350, provided that: “The amendment made by subsection (a) \[amending section 2701 of Pub. L. 106–310, set out above\] takes effect on the date of the enactment of the Children's Health Act of 2000 \[Oct. 17, 2000\].
+\[Pub. L. 106–505, title X, §1001(b), Nov. 13, 2000, 114 Stat. 2350, provided that: “The amendment made by subsection (a) \[amending section 2701 of Pub. L. 106–310, set out above\] takes effect on the date of the enactment of the Children's Health Act of 2000 \[Oct. 17, 2000\].”\]
 
 #### Section Referred to in Other Sections
 

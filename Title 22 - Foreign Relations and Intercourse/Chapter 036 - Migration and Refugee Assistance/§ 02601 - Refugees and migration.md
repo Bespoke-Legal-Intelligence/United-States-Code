@@ -166,5 +166,19 @@ Ex. Ord. No. 12244, Oct. 3, 1980, 45 F.R. 66443, which provided exemptions from 
 
 Ex. Ord. No. 12327, Oct. 1, 1981, 46 F.R. 48893, which provided for temporary housing of Haitian refugees at Fort Allen in Puerto Rico and exempted Fort Allen from certain statutory requirements, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
+#### Delegation of Authority
+
+Determination of President of the United States, No. 99–6, Nov. 30, 1998, 34 Weekly Compilation of Presidential Documents 2398, Dec. 7, 1998, provided:
+
+Memorandum for the Secretary of State
+
+By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate the functions and authorities conferred upon the President by section 2(b)(2) of the Migration and Refugee Assistance Act (MRAA) of 1962, as amended, 22 U.S.C. 2601(b)(2), to the Secretary of State, who is authorized to redelegate these functions and authorities consistent with applicable law. The Secretary of State, or his or her delegate, is directed to provide notice to the President of any use of the functions and authorities delegated by this determination.
+
+Any reference in this memorandum to section 2(b)(2) of the MRAA, as amended, shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provision.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

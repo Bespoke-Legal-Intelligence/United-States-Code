@@ -40,7 +40,7 @@
 
 &emsp;(iii) in the case of persons who are employed by an educational agency or institution but who are not in attendance at such agency or institution, records made and maintained in the normal course of business which relate exclusively to such person in that person's capacity as an employee and are not available for use for any other purpose; or
 
-&emsp;(iv) records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made,maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment, except that such records can be personally reviewed by a physician or other appropriate professional of the student's choice.
+&emsp;(iv) records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made, maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment, except that such records can be personally reviewed by a physician or other appropriate professional of the student's choice.
 
 (5)(A) For the purposes of this section the term “directory information” relating to a student includes the following: the student's name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student.
 
@@ -82,7 +82,7 @@
 
 &emsp;(ii) the entity or persons designated in any other subpoena issued for a law enforcement purpose, in which case the court or other issuing agency may order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished in response to the subpoena.
 
-> Nothing in clause (E) of this paragraph shall prevent a State from further limiting the number or type of State or local officials who will continue to have access thereunder.
+> Nothing in subparagraph (E) of this paragraph shall prevent a State from further limiting the number or type of State or local officials who will continue to have access thereunder.
 
 (2) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of releasing, or providing access to, any personally identifiable information in education records other than directory information, or as is permitted under paragraph (1) of this subsection, unless—
 
@@ -114,7 +114,7 @@
 
 #### (c) Surveys or data-gathering activities; regulations
 
-Not later than 240 days after October 20, 1994, the Secretary shall adopt appropriate regulations or procedures, or identify existing regulations or procedures, which protect the rights of privacy of students and their families in connection with any surveys or data-gathering activities conducted, assisted, or authorized by the Secretary or an administrative head of an education agency. Regulations established under this subsection shall include provisions controlling the use, dissemination, and protection ofsuch data. No survey or data-gathering activities shall be conducted by the Secretary, or an administrative head of an education agency under an applicable program, unless such activities are authorized by law.
+Not later than 240 days after October 20, 1994, the Secretary shall adopt appropriate regulations or procedures, or identify existing regulations or procedures, which protect the rights of privacy of students and their families in connection with any surveys or data-gathering activities conducted, assisted, or authorized by the Secretary or an administrative head of an education agency. Regulations established under this subsection shall include provisions controlling the use, dissemination, and protection of such data. No survey or data-gathering activities shall be conducted by the Secretary, or an administrative head of an education agency under an applicable program, unless such activities are authorized by law.
 
 #### (d) Students’ rather than parents’ permission or consent
 
@@ -154,7 +154,33 @@ Nothing in this section shall prohibit an educational agency or institution from
 
 &emsp;Nothing in paragraph (1) shall be construed to supersede any provision of State law that prohibits an institution of higher education from making the disclosure described in subsection (a) of this section.
 
-(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538.)
+#### (j) Investigation and prosecution of terrorism
+
+#### (1) In general
+
+&emsp;Notwithstanding subsections (a) through (i) of this section or any provision of State law, the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring an educational agency or institution to permit the Attorney General (or his designee) to—
+
+&emsp;&emsp;(A) collect education records in the possession of the educational agency or institution that are relevant to an authorized investigation or prosecution of an offense listed in section 2332b(g)(5)(B) of title 18, or an act of domestic or international terrorism as defined in section 2331 of that title; and
+
+&emsp;&emsp;(B) for official purposes related to the investigation or prosecution of an offense described in paragraph (1)(A), retain, disseminate, and use (including as evidence at trial or in other administrative or judicial proceedings) such records, consistent with such guidelines as the Attorney General, after consultation with the Secretary, shall issue to protect confidentiality.
+
+#### (2) Application and approval
+
+&emsp;(A)
+
+In general.—An application under paragraph (1) shall certify that there are specific and articulable facts giving reason to believe that the education records are likely to contain information described in paragraph (1)(A).
+
+&emsp;(B) The court shall issue an order described in paragraph (1) if the court finds that the application for the order includes the certification described in subparagraph (A).
+
+#### (3) Protection of educational agency or institution
+
+&emsp;An educational agency or institution that, in good faith, produces education records in accordance with an order issued under this subsection shall not be liable to any person for that production.
+
+#### (4) Record-keeping
+
+&emsp;Subsection (b)(4) of this section does not apply to education records subject to a court order under this subsection.
+
+(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088.)
 
 #### References in Text
 
@@ -167,6 +193,16 @@ The Higher Education Act of 1965, referred to in subsec. (i)(1), is Pub. L. 89�
 A prior section 444 of Pub. L. 90–247 was classified to section 1233c of this title prior to repeal by Pub. L. 103–382.
 
 #### Amendments
+
+2002—Subsec. (a)(1)(B). Pub. L. 107–110, §1062(3)(A), realigned margins.
+
+Subsec. (b)(1). Pub. L. 107–110, §1062(3)(C), substituted “subparagraph (E)” for “clause (E)” in concluding provisions.
+
+Subsec. (b)(1)(J). Pub. L. 107–110, §1062(3)(B), realigned margins.
+
+Subsec. (b)(7). Pub. L. 107–110, §1062(3)(D), realigned margins.
+
+2001—Subsec. (j). Pub. L. 107–56 added subsec. (j).
 
 2000—Subsec. (b)(7). Pub. L. 106–386 added par. (7).
 
@@ -190,7 +226,7 @@ Subsec. (b)(1)(A). Pub. L. 103–382, §249(2)(A)(i), inserted before semicolon 
 
 Subsec. (b)(1)(C). Pub. L. 103–382, §261(h)(2)(A), substituted “or (iii)” for “(iii) an administrative head of an education agency (as defined in section 1221e–3(c) of this title), or (iv)”.
 
-Subsec. (b)(1)(E). Pub. L. 103–382, §249(2)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “State and local officials or authorities to whom such information is specifically required to be reported or disclosed pursuant to State statute adopted prior to November 19, 1974;”.
+Subsec. (b)(1)(E). Pub. L. 103–382, §249(2)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “State and local officials orauthorities to whom such information is specifically required to be reported or disclosed pursuant to State statute adopted prior to November 19, 1974;”.
 
 Subsec. (b)(1)(H). Pub. L. 103–382, §261(h)(2)(B), substituted “the Internal Revenue Code of 1986” for “the Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -234,11 +270,15 @@ Subsec. (b)(2). Pub. L. 93–568, §2(a)(1)(E), (2)(E), substituted “education
 
 Subsec. (b)(3). Pub. L. 93–568, §2(a)(8)(D), substituted “information is specifically authorized by Federal law, any data collected by such officials shall be protected in a manner which will not permit the personal identification of students and their parents by other than those officials, and such personally identifiable data shall be destroyed when no longer needed for such audit, evaluation, and enforcement of Federal legal requirements” for “data is specifically authorized by Federal law, any data collected by such officials with respect to individual students shall not include information (including social security numbers) which would permit the personal identification of such students or their parents after the data so obtained has been collected”.
 
-Subsec. (b)(4). Pub. L. 93–568, §2(a)(9), substituted provisions that each educational agency or institution maintain a record, kept with the education records of each student, indicating individuals, agencies, or organizations who obtained access to the student's record and the legitimate interest in obtaining such information, that such record of access shall be available onlyto parents, school officials, and their assistants having responsibility for the custody of such records, and as a means of auditing the operation of the system, for provisions that with respect to subsecs. (c)(1), (c)(2), and (c)(3) of this section, all persons, agencies, or organizations desiring access to the records of a student shall be required to sign forms to be kept with the records of the student, but only for inspection by the parents or the student, indicating specifically the legitimate educational or other interest of the person seeking such information, and that the form shall be available to parents and school officials having responsibility for record maintenance as a means of auditing the operation of the system.
+Subsec. (b)(4). Pub. L. 93–568, §2(a)(9), substituted provisions that each educational agency or institution maintain a record, kept with the education records of each student, indicating individuals, agencies, or organizations who obtained access to the student's record and the legitimate interest in obtaining such information, that such record of access shall be available only to parents, school officials, and their assistants having responsibility for the custody of such records, and as a means of auditing the operation of the system, for provisions that with respect to subsecs. (c)(1), (c)(2), and (c)(3) of this section, all persons, agencies, or organizations desiring access to the records of a student shall be required to sign forms to be kept with the records of the student, but only for inspection by the parents or the student, indicating specifically the legitimate educational or other interest of the person seeking such information, and that the form shall be available to parents and school officials having responsibility for record maintenance as a means of auditing the operation of the system.
 
 Subsec. (e). Pub. L. 93–568, §2(a)(1)(F), substituted “to any educational agency or institution unless such agency or institution” for “unless the recipient of such funds”.
 
 Subsec. (g). Pub. L. 93–568, §2(a)(7), (10)(B), struck out reference to sections 1232c and 1232f of this title and inserted provisions that except for the conduct of hearings, none of the functions of the Secretary under this section shall be carried out in any of the regional offices of such Department.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -262,7 +302,7 @@ Section 513(b)(1) of Pub. L. 93–380 provided that: “The provisions of this s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1092, 1232i, 1417, 2304, 9274 of this title; title 8 section 1372; title 10 section 503; title 25 section 3205; title 29 section 2871; title 42 section 11432.
+This section is referred to in sections 1092, 1232h, 1232i, 1417, 2304, 7115, 7165, 7903, 7908, 9274 of this title; title 8 section 1372; title 10 section 503; title 25 section 3205; title 29 section 2871; title 42 section 11432.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -10,7 +10,7 @@ The holder of a valid oil shale mining claim who has filed a patent application 
 
 #### (c) Patent
 
-(1) Notwithstanding any other provision of law, the holder of a valid oil shale mining claim who has filed a patent application which has been accepted for processing by the Department of the Interior by October 24, 1992, but has not received first half final certificate for patent by October 24, 1992, may receive only a patent limited to the oil shale and associated minerals, upon payment of $2.50 per acre. Title to the surface and to all other minerals, including, but not limited to, oil, gas, and coal, shall remain in the United States. Patents issued pursuant to this subsection shall provide for surface use to the same extent as is provided under applicable law prior to October 24, 1992, with respect to oil shale mining claims, subject to the requirements of subsection (f) of this section.
+(1) Notwithstanding any other provision of law, the holder of a valid oil shale mining claim who has filed a patent application which has been accepted for processing by the Department of the Interior by October 24, 1992, but has notreceived first half final certificate for patent by October 24, 1992, may receive only a patent limited to the oil shale and associated minerals, upon payment of $2.50 per acre. Title to the surface and to all other minerals, including, but not limited to, oil, gas, and coal, shall remain in the United States. Patents issued pursuant to this subsection shall provide for surface use to the same extent as is provided under applicable law prior to October 24, 1992, with respect to oil shale mining claims, subject to the requirements of subsection (f) of this section.
 
 (2) Maintenance of claims referred to in this subsection prior to patent issuance shall be in accordance with the requirements of applicable law prior to October 24, 1992.
 
@@ -20,7 +20,7 @@ The holder of a valid oil shale mining claim who has filed a patent application 
 
 #### (d) Election
 
-(1) Notwithstanding any other provision of law, within 180 days from the date of which the Secretary provided notice under subsection (a) of this section, a holder of a valid oil shale mining claim for which a patent application was not filed and accepted for processing by the Department of the Interior prior to October 24, 1992,shall file with the Secretary a notice of election to—
+(1) Notwithstanding any other provision of law, within 180 days from the date of which the Secretary provided notice under subsection (a) of this section, a holder of a valid oil shale mining claim for which a patent application was not filed and accepted for processing by the Department of the Interior prior to October 24, 1992, shall file with the Secretary a notice of election to—
 
 &emsp;(A) proceed to limited patent as provided in subsection (e)(1) of this section; or
 

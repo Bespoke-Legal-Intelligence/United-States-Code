@@ -6,7 +6,7 @@ Authority.—Subject to subsections (d) and (e), the head of an agency may enter
 
 &emsp;(1) there will be a continuing requirement for the services consonant with current plans for the proposed contract period;
 
-&emsp;(2) the furnishing of such services will require a substantial initial investment in plant or equipment, or the incurrence of substantialcontingent liabilities for the assembly, training, or transportation of a specialized work force; and
+&emsp;(2) the furnishing of such services will require a substantial initial investment in plant or equipment, or the incurrence of substantial contingent liabilities for the assembly, training, or transportation of a specialized work force; and
 
 &emsp;(3) the use of such a contract will promote the best interests of the United States by encouraging effective competition and promoting economies in operation.
 

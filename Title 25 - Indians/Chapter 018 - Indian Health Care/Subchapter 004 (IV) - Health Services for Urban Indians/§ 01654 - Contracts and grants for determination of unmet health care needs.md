@@ -24,7 +24,7 @@ The Secretary may not renew any contract entered into, or grant made, under this
 
 #### Prior Provisions
 
-A prior section 1654, Pub. L. 94–437, title V, §504, Sept. 30, 1976, 90 Stat. 1411; Pub. L. 96–537, §7, Dec. 17, 1980, 94 Stat. 3178, related to other contract requirements, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1654, Pub. L. 94–437, title V, §504, Sept. 30, 1976, 90 Stat. 1411; Pub. L. 96–537, §7, Dec. 17, 1980, 94Stat. 3178, related to other contract requirements, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 #### Amendments
 

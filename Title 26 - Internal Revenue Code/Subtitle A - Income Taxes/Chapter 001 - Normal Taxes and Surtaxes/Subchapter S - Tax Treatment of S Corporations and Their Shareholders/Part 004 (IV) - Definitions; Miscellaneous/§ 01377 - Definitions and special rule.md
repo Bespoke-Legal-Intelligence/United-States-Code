@@ -34,7 +34,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) the due date for filing the return for such last year as an S corporation (including extensions),
 
-&emsp;&emsp;(B) the 120-day period beginning on the date of any determination pursuant to anaudit of the taxpayer which follows the termination of the corporation's election and which adjusts a subchapter S item of income, loss, or deduction of the corporation arising during the S period (as defined in section 1368(e)(2)), and
+&emsp;&emsp;(B) the 120-day period beginning on the date of any determination pursuant to an audit of the taxpayer which follows the termination of the corporation's election and which adjusts a subchapter S item of income, loss, or deduction of the corporation arising during the S period (as defined in section 1368(e)(2)), and
 
 &emsp;&emsp;(C) the 120-day period beginning on the date of a determination that the corporation's election under section 1362(a) had terminated for a previous taxable year.
 
@@ -54,7 +54,7 @@ Any election under this subchapter, and any revocation under section 1362(d)(1),
 
 #### Prior Provisions
 
-A prior section 1377, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1656; amended Pub. L. 94–455, title IX, §902(b)(1), title XIX, §1901(b)(32)(B)(iv), Oct. 4, 1976, 90 Stat. 1608, 1800, related to special rules applicable to earnings and profits of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1377, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1656; amended Pub. L.94–455, title IX, §902(b)(1), title XIX, §1901(b)(32)(B)(iv), Oct. 4, 1976, 90 Stat. 1608, 1800, related to special rules applicable to earnings and profits of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
 

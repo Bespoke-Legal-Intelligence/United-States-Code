@@ -10,7 +10,7 @@ For purposes of this subchapter—
 
 &emsp;(4) The term “Secretary” means the Secretary of the Interior.
 
-&emsp;(5) The term “lands or natural resources” means any real property or natural resources, or any interest in or right involving any real property or natural resources, including minerals and mineral rights, timber and timber rights, water and water rights, and rights to hunt and fish.
+&emsp;(5) The term “lands or natural resources” means any real property or natural resources,or any interest in or right involving any real property or natural resources, including minerals and mineral rights, timber and timber rights, water and water rights, and rights to hunt and fish.
 
 &emsp;(6) The term “Settlement Agreement” means the instrument—
 

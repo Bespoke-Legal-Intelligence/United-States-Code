@@ -4,7 +4,7 @@ Section 4081, Pub. L. 98–377, title IX, §902, as added Pub. L. 100–297, tit
 
 Section 4082, Pub. L. 98–377, title IX, §903, as added Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 320; amended Pub. L. 102–103, title III, §302, Aug. 17, 1991, 105 Stat. 499, authorized grants for telecommunications facilities and equipment, instructional programming, and technical assistance.
 
-Section 4083, Pub. L. 98–377, title IX, §904, as added Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 321; amended Pub. L. 102–103, title III, §303, Aug. 17, 1991, 105 Stat. 500, related to eligibility of telecommunications partnerships for grants.
+Section 4083, Pub. L. 98–377, title IX, §904, as added Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 321; amended Pub. L. 102–103, title III, §303, Aug. 17, 1991, 105Stat. 500, related to eligibility of telecommunications partnerships for grants.
 
 Section 4084, Pub. L. 98–377, title IX, §905, as added Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 321; amended Pub. L. 102–103, title III, §304, Aug. 17, 1991, 105 Stat. 501, related to applications for grants.
 

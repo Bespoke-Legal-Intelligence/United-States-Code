@@ -16,7 +16,7 @@ Each mass mailing sent by a Member of the House of Representatives shall bear in
 
 #### (c) Regulations
 
-The Committee on House Oversight shall prescribe such rules and regulations and shall take such other action as the Committee considers necessary and proper for Members to conform to the provisions of this subsection and applicable rules and regulations.
+The Committee on House Oversight shall prescribe such rules and regulations and shall takesuch other action as the Committee considers necessary and proper for Members to conform to the provisions of this subsection and applicable rules and regulations.
 
 #### (d) Definitions
 

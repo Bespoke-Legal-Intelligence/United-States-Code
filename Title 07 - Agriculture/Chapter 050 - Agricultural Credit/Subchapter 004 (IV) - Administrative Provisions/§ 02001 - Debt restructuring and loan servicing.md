@@ -86,7 +86,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (5) Restructuring of loans
 
-&emsp;If the value of the restructured loan is greater than or equal to the recovery value, the Secretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower accepts such offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
+&emsp;If the value of the restructured loan is greater than or equal to the recovery value, the Secretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower acceptssuch offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
 
 #### (6) Termination of loan obligations
 
@@ -210,7 +210,7 @@ Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a
 
 #### (j) Independent appraisals
 
-An appeal filed with the appeals division under section 1983b of this title may include a request by the borrower for an independent appraisal of any property securing the loan. On such request,the appeals division shall present the borrower with a list of three appraisers approved by the county supervisor, from which the borrower shall select an appraiser to conduct the appraisal, the cost of which shall be borne by the borrower. The results of such appraisal shall be considered in any final determination concerning the loan. A copy of any appraisal made under this paragraph shall be provided to the borrower.
+An appeal filed with the appeals division under section 1983b of this title may include a request by the borrower for an independent appraisal of any property securing the loan. On such request, the appeals division shall present the borrower with a list of three appraisers approved by the county supervisor, from which the borrower shall select an appraiser to conduct the appraisal, the cost of which shall be borne by the borrower. The results of such appraisal shall be considered in any final determination concerning the loan. A copy of any appraisal made under this paragraph shall be provided to the borrower.
 
 #### (k) Partial liquidations
 
@@ -338,7 +338,7 @@ In general.—Except as provided in section 353(c)(6)(A)(ii) of the Consolidated
 
 &emsp;“(2)
 
-Definition of new application.—As used in paragraph (1), the term ‘new application’ means an application submitted by a borrower to initiate a debt restructuring consideration and not an application reconsidered after an appeal or revision of the original application.
+Definition of new application.—As used in paragraph (1), the term ‘new application’ means anapplication submitted by a borrower to initiate a debt restructuring consideration and not an application reconsidered after an appeal or revision of the original application.
 
 &emsp;“(3)
 

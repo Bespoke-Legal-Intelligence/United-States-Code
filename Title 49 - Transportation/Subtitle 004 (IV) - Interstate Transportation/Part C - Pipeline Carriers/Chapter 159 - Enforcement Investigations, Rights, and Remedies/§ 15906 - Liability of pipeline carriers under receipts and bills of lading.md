@@ -6,7 +6,7 @@ General Liability.—A pipeline carrier providing transportation or service subj
 
 (b)
 
-Apportionment.—The carrier issuing the receipt or bill of lading under subsection (a) or delivering the property for which the receipt orbill of lading was issued is entitled to recover from the carrier over whose line or route the loss or injury occurred the amount required to be paid to the owners of the property, as evidenced by a receipt, judgment, or transcript, and the amount of its expenses reasonably incurred in defending a civil action brought by that person.
+Apportionment.—The carrier issuing the receipt or bill of lading under subsection (a) or delivering the property for which the receipt or bill of lading was issued is entitled to recover from the carrier over whose line or route the loss or injury occurred the amount required to be paid to the owners of the property, as evidenced by a receipt, judgment, or transcript, and the amount of its expenses reasonably incurred in defending a civil action brought by that person.
 
 (c)
 

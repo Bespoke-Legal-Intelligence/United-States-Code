@@ -2,7 +2,7 @@
 
 In connection with the national defense program, the Departments of the Navy, Army, and Air Force and the Secretary of Housing and Urban Development are authorized to cooperate in making necessary housing available for persons engaged in national defense activities, as provided in this subchapter. “Persons engaged in national defense activities” (as that term is used in this subchapter) shall include (i) enlisted men with families, who are in the naval and military service and officers of the Army, Air Force, and Marine Corps not above the grade of captain, and officers of the Navy and Coast Guard, not above the grade of lieutenant and employees of the Departments of the Navy, Army, and Air Force who are assigned to duty at naval or military reservations, posts, or bases, and (ii) workers with families, who are engaged or to be engaged in industries connected with and essential to the national defense program. No project shall be developed or assisted for the purposes of this subchapter except with the approval of the President and upon a determination by him that there is an acute shortage of housing in the locality involved which impedes the national defense program.
 
-(June 28, 1940, ch. 440, title II, §201, 54 Stat. 681; Oct. 26, 1942, ch. 626, §1(a), 56 Stat. 988; July 26, 1947, ch. 343, title II, §§205(a), 207(a), (f), 61 Stat. 501–503; 1947 Reorg. Plan No. 3, §4(a), eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 955; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
+(June 28, 1940, ch. 440, title II, §201, 54 Stat. 681; Oct. 26, 1942, ch. 626, §1(a), 56 Stat. 988; July 26,1947, ch. 343, title II, §§205(a), 207(a), (f), 61 Stat. 501–503; 1947 Reorg. Plan No. 3, §4(a), eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 955; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
 #### Amendments
 
@@ -10,7 +10,7 @@ In connection with the national defense program, the Departments of the Navy, Ar
 
 #### Change of Name
 
-Department of the Air Force inserted to conform to section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 501, 502, and Secretary of Defense Transfer Orders No. 14, eff. July 1, 1948, and No. 40 \[App. B (123)\], July 22, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of such act July 26, 1947. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013and 8010 to 8013 continued Departments of Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
+Department of the Air Force inserted to conform to section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 501, 502, and Secretary of Defense Transfer Orders No. 14, eff. July 1, 1948, and No. 40 \[App. B (123)\], July 22, 1949. Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of such act July 26, 1947. Sections 205(a) and 207(a), (f) of act July 26, 1947, were repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 and 8010 to 8013 continued Departments of Army and Air Force under administrative supervision of Secretary of the Army and Secretary of the Air Force, respectively.
 
 #### Short Title of 1951 Amendment
 

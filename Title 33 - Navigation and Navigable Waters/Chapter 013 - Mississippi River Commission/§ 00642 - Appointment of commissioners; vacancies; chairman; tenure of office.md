@@ -6,7 +6,7 @@ The President of the United States shall, by and with the advice and consent of 
 
 #### Amendments
 
-1966—Pub. L. 89–789 inserted “, except those appointed from civil life,” and provided a nine year term for each commissioner appointed from civil life after Nov. 7, 1966.
+1966—Pub. L. 89–789 inserted “, except those appointed from civil life,” and provided a nine year termfor each commissioner appointed from civil life after Nov. 7, 1966.
 
 #### Change of Name
 

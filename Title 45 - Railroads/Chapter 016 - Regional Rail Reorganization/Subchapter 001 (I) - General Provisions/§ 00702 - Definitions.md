@@ -14,7 +14,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(6) “effective date of the final system plan” means the date on which the final system plan or any revised final system plan is deemed approved by Congress, in accordance with section 718 of this title;
 
-&emsp;(7) “employee stock ownership plan” means a technique of corporate finance that uses a stock bonus trust or a company stock money purchase pension trust which qualifies under section 401(a) of title 26 in connection with the financing of corporate improvements, transfers in the ownership of corporate assets, and other capital requirements of a corporation and which is designed to build beneficial equity ownership of shares in the employer corporation into its employees substantially in proportion to their relative incomes, without requiring any cash outlay, any reduction in pay or other employee benefits, or the surrender of any other rights on the part of such employees;
+&emsp;(7) “employee stock ownership plan” means a technique of corporate finance that uses a stock bonus trust or a company stock money purchase pension trust which qualifies under section 401(a) of title 26 in connection with the financing of corporate improvements, transfers in the ownership of corporate assets, and other capital requirements of a corporationand which is designed to build beneficial equity ownership of shares in the employer corporation into its employees substantially in proportion to their relative incomes, without requiring any cash outlay, any reduction in pay or other employee benefits, or the surrender of any other rights on the part of such employees;
 
 &emsp;(8) “final system plan” means the plan of reorganization for the restructure, rehabilitation, and modernization of railroads in reorganization prepared pursuant to section 716 of this title and approved pursuant to section 718 of this title;
 
@@ -46,7 +46,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(21) “supplemental transaction” means any transaction set forth in a proposal under section 745 of this title under which the Corporation or a subsidiary thereof would (A) acquire rail properties not designated for transfer or conveyance to it under the final system plan, (B) convey rail properties to a profitable railroad, a subsidiary of the Corporation or, other than as designated in the final system plan, to the National Railroad Passenger Corporation or to a State or a local or regional transportation authority, or to any other responsible person for use in providing rail service, or (C) enter into contractual or other arrangements with any person for the joint use of rail properties or the coordination or separation of rail operations or services.
 
-(Pub. L. 93–236, title I, §102, Jan. 2, 1974, 87 Stat. 986; Pub. L. 94–210, title VI, §§601(f), (g), 603(c), 607(t), 610(a), Feb. 5, 1976, 90 Stat. 86, 88, 98, 100; Pub. L. 94–248, §1, Mar. 25, 1976, 90 Stat. 286; Pub. L. 94–555, title II, §211(a), Oct. 19, 1976, 90 Stat. 2624; Pub. L. 96–448, title V, §508(b), title VI, §601(b), Oct. 14, 1980, 94 Stat. 1957, 1958; Pub. L. 97–35, title XI, §1135(b), Aug. 13, 1981, 95 Stat. 646; Pub. L. 99–509, title IV, §4033(b)(1), Oct. 21, 1986,100 Stat. 1908; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–88, title III, §327(1), Dec. 29, 1995, 109 Stat. 951.)
+(Pub. L. 93–236, title I, §102, Jan. 2, 1974, 87 Stat. 986; Pub. L. 94–210, title VI, §§601(f), (g), 603(c), 607(t), 610(a), Feb. 5, 1976, 90 Stat. 86, 88, 98, 100; Pub. L. 94–248, §1, Mar. 25, 1976, 90 Stat. 286; Pub. L. 94–555, title II, §211(a), Oct. 19, 1976, 90 Stat. 2624; Pub. L. 96–448, title V, §508(b), title VI, §601(b), Oct. 14, 1980, 94 Stat. 1957, 1958; Pub. L. 97–35, title XI, §1135(b), Aug. 13, 1981, 95 Stat. 646; Pub. L. 99–509, title IV, §4033(b)(1), Oct. 21, 1986, 100 Stat. 1908; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–88, title III, §327(1), Dec. 29, 1995, 109 Stat. 951.)
 
 #### References in Text
 
@@ -56,7 +56,7 @@ Section 10361 of title 49, referred to in par. (12), was omitted in the general 
 
 Section 77 of the Bankruptcy Act, referred to in par. (16), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
-The Conrail Privatization Act, referred to in par. (17A), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§1301 et seq.) of this title. For complete classification of this Act to the Code see Short Title note set out under section 1301 of this title and Tables. The date on which the initial public offering of the securities of the corporation is closed under this Act was Apr. 2, 1987.
+The Conrail Privatization Act, referred to in par. (17A), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§1301 et seq.) of this title. Forcomplete classification of this Act to the Code see Short Title note set out under section 1301 of this title and Tables. The date on which the initial public offering of the securities of the corporation is closed under this Act was Apr. 2, 1987.
 
 #### Codification
 
@@ -122,7 +122,7 @@ See section 1341 of this title.
 
 #### Applicability of National Environmental Policy Act
 
-Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub.L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
+Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
 
 #### Section Referred to in Other Sections
 

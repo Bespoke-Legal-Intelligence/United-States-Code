@@ -58,7 +58,7 @@ Nothing in this section shall be construed—
 
 #### (2) Increased cost exemption
 
-&emsp;This section shall not apply with respect to a group health plan if the application of thissection to such plan results in an increase in the cost under the plan of at least 1 percent.
+&emsp;This section shall not apply with respect to a group health plan if the application of this section to such plan results in an increase in the cost under the plan of at least 1 percent.
 
 #### (d) Separate application to each option offered
 
@@ -86,7 +86,11 @@ For purposes of this section:
 
 #### (f) Sunset
 
-This section shall not apply to benefits for services furnished on or after September 30, 2001.
+This section shall not apply to benefits for services furnished on or after December 31, 2002.
 
-(Added Pub. L. 105–34, title XV, §1531(a)(4), Aug. 5, 1997, 111 Stat. 1083.)
+(Added Pub. L. 105–34, title XV, §1531(a)(4), Aug. 5, 1997, 111 Stat. 1083; amended Pub. L. 107–116, title VII, §701(c), Jan. 10, 2002, 115 Stat. 2228.)
+
+#### Amendments
+
+<b>2002</b>—Subsec. (f). Pub. L. 107–116 substituted “December 31, 2002” for “September 30, 2001”.
 

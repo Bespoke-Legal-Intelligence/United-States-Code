@@ -4,7 +4,7 @@
 
 Insofar as practicable and to the maximum extent consistent with the accomplishment of the purposes of this chapter, the President shall assist American small business to participate equitably in the furnishing of commodities, defense articles, and services (including defense services) financed with funds made available under this chapter—
 
-&emsp;(1) by causing to be made available to suppliers in the United States, and particularly to small independent enterprises, information, asfar in advance as possible, with respect to purchases proposed to be financed with such funds;
+&emsp;(1) by causing to be made available to suppliers in the United States, and particularly to small independent enterprises, information, as far in advance as possible, with respect to purchases proposed to be financed with such funds;
 
 &emsp;(2) by causing to be made available to prospective purchasers in the countries and areas receiving assistance under this chapter information as to such commodities, articles, and services produced by small independent enterprises in the United States; and
 
@@ -16,7 +16,7 @@ There shall be an Office of Small Business, headed by a Special Assistant for Sm
 
 #### (c) Information with respect to certain purchases by Department of Defense
 
-The Secretary of Defense shall assure that there is made available to suppliers in the United States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.
+The Secretary of Defense shall assure that there is made available to suppliers in theUnited States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.
 
 (Pub. L. 87–195, pt. III, §602, Sept. 4, 1961, 75 Stat. 439.)
 

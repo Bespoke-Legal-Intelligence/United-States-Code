@@ -44,7 +44,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(A) preparation of soil and range inventories, farmland and rangeland management plans, and monitoring programs to evaluate management plans;
 
-&emsp;&emsp;(B) agricultural lands and on-farm irrigation delivery system development, and the application of state of the art, soil and rangeconservation management techniques to restore and ensure the productive potential of Indian lands;
+&emsp;&emsp;(B) agricultural lands and on-farm irrigation delivery system development, and the application of state of the art, soil and range conservation management techniques to restore and ensure the productive potential of Indian lands;
 
 &emsp;&emsp;(C) protection against agricultural pests, including development, implementation, and evaluation of integrated pest management programs to control noxious weeds, undesirable vegetation, and vertebrate or invertebrate agricultural pests;
 

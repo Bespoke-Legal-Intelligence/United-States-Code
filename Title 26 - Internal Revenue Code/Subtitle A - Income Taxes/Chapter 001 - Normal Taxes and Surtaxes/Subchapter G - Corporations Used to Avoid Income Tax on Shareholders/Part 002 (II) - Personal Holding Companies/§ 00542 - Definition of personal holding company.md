@@ -16,7 +16,7 @@ For purposes of this subtitle, the term “personal holding company” means any
 
 #### (1) General rule
 
-&emsp;In the case of an affiliated group of corporations filing or required to file a consolidated return under section 1501 for any taxable year, the adjusted ordinary gross income requirement of subsection (a)(1) of this section shall, except as provided in paragraphs (2) and (3), be applied for such year with respect to the consolidated adjusted ordinary gross income and the consolidated personal holding company income of the affiliated group. No member of such an affiliated group shall be considered to meet such adjusted ordinary gross income requirement unless the affiliated group meets such requirement.
+&emsp;In the case of an affiliated group of corporations filing or required to file a consolidatedreturn under section 1501 for any taxable year, the adjusted ordinary gross income requirement of subsection (a)(1) of this section shall, except as provided in paragraphs (2) and (3), be applied for such year with respect to the consolidated adjusted ordinary gross income and the consolidated personal holding company income of the affiliated group. No member of such an affiliated group shall be considered to meet such adjusted ordinary gross income requirement unless the affiliated group meets such requirement.
 
 #### (2) Ineligible affiliated group
 
@@ -74,7 +74,7 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 &emsp;(7) a foreign corporation (other than a corporation which has income to which section 543(a)(7) applies for the taxable year), if all of its stock outstanding during the last half of the taxable year is owned by nonresident alien individuals, whether directly or indirectly through foreign estates, foreign trusts, foreign partnerships, or other foreign corporations;
 
-&emsp;(8) A <sup>1</sup> small business investment company which is licensed by the Small Business Administration and operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following) and which is actively engaged in the business of providing funds to small business concerns under that Act. This paragraph shall not apply if any shareholder of the small business investment company owns at any time during the taxable year directly or indirectly (including, in the case of an individual, ownership by the members of his family as defined in section 544(a)(2)) a 5 per centum or more proprietary interest in a small business concern to which funds are provided by the investment company or 5 per centum or more in value of the outstanding stock of such concern;
+&emsp;(8) A <sup>1</sup> small business investment company which is licensed by the Small Business Administration and operating under the Small Business Investment Act of 1958 (15 U.S.C. 661 and following) and which is actively engaged in the business of providing funds to small business concerns under that Act. This paragraph shall not apply if any shareholder of the small business investment company owns at any time during the taxable year directly or indirectly (including, in the case of an individual, ownership by the members of his family as defined in section 544(a)(2)) a 5 per centum or more proprietary interest in a small business concern to which funds are provided bythe investment company or 5 per centum or more in value of the outstanding stock of such concern;
 
 &emsp;(9) a corporation which is subject to the jurisdiction of the court in a title 11 or similar case (within the meaning of section 368(a)(3)(A)) unless a major purpose of instituting or continuing such case is the avoidance of the tax imposed by section 541; and
 
@@ -134,7 +134,7 @@ The term “personal holding company” as defined in subsection (a) does not in
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsec. (c)(8), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c)(8), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to thisCode, see Short Title note set out under section 661 of Title 15 and Tables.
 
 #### Amendments
 
@@ -182,7 +182,7 @@ Subsec. (d). Pub. L. 88–272, §225(c)(3), added subsec. (d).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31,1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
 #### Effective Date of 1986 Amendment
 

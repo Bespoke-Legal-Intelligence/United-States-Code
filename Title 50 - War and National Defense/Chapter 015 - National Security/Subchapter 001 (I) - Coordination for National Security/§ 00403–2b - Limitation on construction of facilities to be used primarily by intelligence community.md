@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b) of this section, no project for the construction of anyfacility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $750,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President's annual fiscal year budget request and is specifically authorized by the Congress.
+&emsp;Except as provided in subsection (b) of this section, no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $750,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President's annual fiscal year budget request and is specifically authorized by the Congress.
 
 #### (2) Notification
 
@@ -44,7 +44,7 @@ Section 601, referred to in subsec. (c), means section 601 of Pub. L. 103–359,
 
 #### Codification
 
-Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1995, and not as part of the National Security Act of 1947 which comprises this chapter.
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1995, and not as part ofthe National Security Act of 1947 which comprises this chapter.
 
 #### Definitions
 

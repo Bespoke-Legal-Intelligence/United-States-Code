@@ -122,7 +122,7 @@ In addition to the exemptions provided for in this section, the Commission may, 
 
 #### (h) Effect on other authority of Commission
 
-Nothing in this section limits, either expressly or by implication, the authority of the Commission to exercise similar authority or to adopt similar rules and regulations with respect toforward-looking statements under any other statute under which the Commission exercises rulemaking authority.
+Nothing in this section limits, either expressly or by implication, the authority of the Commission to exercise similar authority or to adopt similar rules and regulations with respect to forward-looking statements under any other statute under which the Commission exercises rulemaking authority.
 
 #### (i) Definitions
 
@@ -176,7 +176,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### Effective Date
 
-Section not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 of Pub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77<i>l</i> of this title.
+Section not to affect or apply to any private action arising under this subchapter or title I of the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), commenced before and pending on Dec. 22, 1995, see section 108 ofPub. L. 104–67, set out as an Effective Date of 1995 Amendment note under section 77<i>l</i> of this title.
 
 #### Construction
 

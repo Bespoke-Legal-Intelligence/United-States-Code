@@ -138,7 +138,7 @@ For purposes of this section—
 
 &emsp;&emsp;Property described in any subparagraph of section 168(g)(4) shall be treated as used predominantly in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1), Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940; Pub. L. 106–36, title III, §3001(c)(2), June 25, 1999, 113 Stat. 183.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1),Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940; Pub. L. 106–36, title III, §3001(c)(2), June 25, 1999, 113 Stat. 183.)
 
 #### Amendments
 
@@ -202,7 +202,7 @@ Binding contract.—The amendments made by this section shall not apply to any t
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

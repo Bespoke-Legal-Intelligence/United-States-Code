@@ -26,7 +26,7 @@ Publication.—The Board shall publish on a periodic basis accident and safety d
 
 &emsp;(5)
 
-Recommendations of the administrator.—The Administrator may, from time to time, request the Board to consider revisions (including additions to the classification system developed under this section). The Board shall respond to any request made by the Administrator under this section not later than 90 days after receiving that request.
+Recommendations of the administrator.—The Administrator may, from timeto time, request the Board to consider revisions (including additions to the classification system developed under this section). The Board shall respond to any request made by the Administrator under this section not later than 90 days after receiving that request.
 
 (Added Pub. L. 104–264, title IV, §407(a)(1), Oct. 9, 1996, 110 Stat. 3257.)
 

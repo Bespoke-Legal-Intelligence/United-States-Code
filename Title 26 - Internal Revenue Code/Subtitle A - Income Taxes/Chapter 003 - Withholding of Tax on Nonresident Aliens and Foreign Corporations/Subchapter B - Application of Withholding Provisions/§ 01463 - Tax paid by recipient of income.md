@@ -8,7 +8,7 @@ If—
 
 > the tax so required to be deducted and withheld shall not be collected from such person; but this section shall in no case relieve such person from liability for interest or any penalties or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 360; Pub. L. 101–239, title VII, §7743(a), Dec. 19, 1989, 103 Stat. 2406; Pub. L. 104–188, title I, §1704(t)(9), Aug. 20, 1996, 110 Stat. 1887.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 360; Pub. L. 101–239, title VII, §7743(a), Dec. 19, 1989, 103 Stat.2406; Pub. L. 104–188, title I, §1704(t)(9), Aug. 20, 1996, 110 Stat. 1887.)
 
 #### Amendments
 

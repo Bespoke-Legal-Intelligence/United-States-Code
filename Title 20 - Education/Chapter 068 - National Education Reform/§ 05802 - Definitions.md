@@ -14,7 +14,7 @@ As used in subchapters I, II, III, and X of this chapter—
 
 &emsp;(5) the term “Governor” means the chief executive of the State;
 
-&emsp;(6) the terms “local educational agency” and “State educational agency” have the meaning given such terms in section 8801 of this title;
+&emsp;(6) the terms “local educational agency” and “State educational agency” have the meaning given such terms in section 8801 of this title; <sup>1</sup>
 
 &emsp;(7) the term “outlying areas” means Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, Palau (until the effective date of the Compact of Free Association with the Government of Palau), the Republic of the Marshall Islands, and the Federated States of Micronesia;
 
@@ -34,7 +34,7 @@ As used in subchapters I, II, III, and X of this chapter—
 
 For the purpose of subchapters IV, V, VI, VII, VIII, and IX of this chapter—
 
-&emsp;(1) except as provided in paragraph (3) and unless otherwise provided, the terms used in such subchapters have the same meanings given such terms in section 8801 of this title;
+&emsp;(1) except as provided in paragraph (3) and unless otherwise provided, the terms used in such subchapters have the same meanings given such terms in section 8801 of this title; <sup>1</sup>
 
 &emsp;(2) the term “Bureau”, unless otherwise provided, means the Bureau of Indian Affairs; and
 
@@ -45,6 +45,8 @@ For the purpose of subchapters IV, V, VI, VII, VIII, and IX of this chapter—
 #### References in Text
 
 Subchapters I to X, referred to in text, were in the original references to titles I to X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 131–265. Titles I, V, VI, and VIII are classified generally to subchapters I (§5811 et seq.), V (§5931 et seq.), VI (§5951), and VIII (§5981 et seq.), respectively, of this chapter. Title II enacted subchapter II (§5821 et seq.) of this chapter and section 3425 of this title, amended section 5093 of this title and section 5315 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 5093 of this title. Title VII enacted subchapter VII (§5961 et seq.) of this chapter and amended section 1221e–1 of this title. Titles III and IV were classified generally to subchapters III (§5881 et seq.) and IV (§5911 et seq.), respectively, of this chapter and were repealed by Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §310(i)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265. Section 5895(b) of this title was repealed by Pub. L. 106–113. Title IX enacted subchapter IX (§6001 et seq.) of this chapter, amended sections 2422, 3155, 3412, 3419, 3462, and 4085b of this title, repealed section 1221e of this title, and enacted provisions set out as notes under sections 1221e and 3155 of this title. Title X enacted subchapter X (§6061 et seq.) of this chapter and section 3351 of this title, amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and section 11903a of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under section 6301 of this title and section 11901 of Title 42. For complete classification of titles I to X to the Code, see Tables.
+
+Section 8801 of this title, referred to in subsecs. (a)(6) and (b)(1), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986.
 
 For Oct. 1, 1994, as the date the Compact of Free Association with the Government of Palau takes effect, referred to in subsec. (a)(7), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 

@@ -62,7 +62,7 @@ For purposes of this chapter—
 
 #### (12) Depository institution
 
-&emsp;The term “depository institution” has the meaning given such term in clauses (i)through (vi) of section 461(b)(1)(A) of this title. Such term also includes an office, branch, or agency of a foreign bank located in the United States.
+&emsp;The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title. Such term also includes an office, branch, or agency of a foreign bank located in the United States.
 
 #### (13) Local originating depository institution
 

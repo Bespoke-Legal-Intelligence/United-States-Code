@@ -22,7 +22,7 @@ Now, therefore, the Secretary of Commerce, or any person in the Department of Co
 
 Bilateral treaties of Friendship, Commerce and Navigation contain provisions for the reciprocal treatment of commercial travelers which generally state that:
 
-“Commercial travelers representing nationals and companies of either Party engaged in business within the territories thereof, upon their entry into and departure from the territories of the other Party and during their sojourn therein, be accorded most-favored-nationtreatment in respect of the customs and other matters, including, subject to the exceptions in paragraph \_\_\_\_\_\_ of Article \_\_\_\_\_\_, taxes and charges applicable to them, their samples and the taking of orders, and regulations governing the exercise of their functions.”
+“Commercial travelers representing nationals and companies of either Party engaged in business within the territories thereof, upon their entry into and departure from the territories of the other Party and during their sojourn therein, be accorded most-favored-nation treatment in respect of the customs and other matters, including, subject to the exceptions in paragraph \_\_\_\_\_\_ of Article \_\_\_\_\_\_, taxes and charges applicable to them, their samples and the taking of orders, and regulations governing the exercise of their functions.”
 
 &nbsp;
 

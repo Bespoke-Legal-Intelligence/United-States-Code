@@ -58,7 +58,7 @@
 
 #### (A) Reconsideration of initial determination
 
-&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (<i>l</i>) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
+&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this sectionshall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (<i>l</i>) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
 
 #### (B) Representation by provider or supplier
 
@@ -142,7 +142,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The qualified independent contractor shall perform such duties and functions and assume such responsibilities as may be required by the Secretary to carry out the provisions of this subsection, and shall have sufficient training and expertise in medicalscience and legal matters to make reconsiderations under this subsection.
+&emsp;&emsp;The qualified independent contractor shall perform such duties and functions and assume such responsibilities as may be required by the Secretary to carry out the provisions of this subsection, and shall have sufficient training and expertise in medical science and legal matters to make reconsiderations under this subsection.
 
 #### (B) Reconsiderations
 
@@ -244,7 +244,7 @@
 
 #### (iii) Annual reporting
 
-&emsp;&emsp;&emsp;Each qualified independent contractor shall submit annually to the Secretary (or otherwise as the Secretary may request) records maintained under this paragraph for the previous year.
+&emsp;&emsp;&emsp;Each qualified independent contractor shall submit annually to the Secretary (orotherwise as the Secretary may request) records maintained under this paragraph for the previous year.
 
 #### (J) Hearings by the Secretary
 
@@ -256,7 +256,7 @@
 
 #### (5) Limitation on qualified independent contractor liability
 
-&emsp;No qualified independent contractor having a contract with the Secretary under this subsection and no person who is employed by, or who has a fiduciary relationship with, any such qualified independent contractor or who furnishes professional services to such qualified independent contractor, shall be held by reason of the performance of any duty, function, or activity required or authorized pursuant to this subsection or to a valid contract entered into under this subsection, to have violated any criminal law, or to be civilly liable under any law of the United States or of any State (or political subdivision thereof)provided due care was exercised in the performance of such duty, function, or activity.
+&emsp;No qualified independent contractor having a contract with the Secretary under this subsection and no person who is employed by, or who has a fiduciary relationship with, any such qualified independent contractor or who furnishes professional services to such qualified independent contractor, shall be held by reason of the performance of any duty, function, or activity required or authorized pursuant to this subsection or to a valid contract entered into under this subsection, to have violated any criminal law, or to be civilly liable under any law of the United States or of any State (or political subdivision thereof) provided due care was exercised in the performance of such duty, function, or activity.
 
 #### (d) Deadlines for hearings by the Secretary
 
@@ -324,7 +324,7 @@
 
 &emsp;&emsp;&emsp;(i) Such a determination shall not be reviewed by any administrative law judge.
 
-&emsp;&emsp;&emsp;(ii) Such a determination shall not be held unlawful or set aside on the ground that a requirement of section 553 of title 5or section 1395hh(b) of this title, relating to publication in the Federal Register or opportunity for public comment, was not satisfied.
+&emsp;&emsp;&emsp;(ii) Such a determination shall not be held unlawful or set aside on the ground that a requirement of section 553 of title 5 or section 1395hh(b) of this title, relating to publication in the Federal Register or opportunity for public comment, was not satisfied.
 
 &emsp;&emsp;&emsp;(iii) Upon the filing of a complaint by an aggrieved party, such a determination shall be reviewed by the Departmental Appeals Board of the Department of Health and Human Services. In conducting such a review, the Departmental Appeals Board—
 
@@ -372,7 +372,7 @@
 
 &emsp;&emsp;(A) there are no material issues of fact in dispute, and
 
-&emsp;&emsp;(B) the only issue of law is the constitutionality of a provision of this subchapter, or that a regulation, determination, or ruling by the Secretary is invalid,
+&emsp;&emsp;(B) the only issue of law is the constitutionality of a provision of this subchapter,or that a regulation, determination, or ruling by the Secretary is invalid,
 
 > &emsp;the moving party may seek review by a court of competent jurisdiction without filing a complaint under such paragraph and without otherwise exhausting other administrative remedies.
 

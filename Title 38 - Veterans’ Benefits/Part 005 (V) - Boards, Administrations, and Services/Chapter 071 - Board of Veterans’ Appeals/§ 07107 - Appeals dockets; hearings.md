@@ -38,7 +38,7 @@
 
 &emsp;(2) the development, or attempted development, of a record found to be inadequate for decisional purposes.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, §4006; renumbered §4007, Pub. L. 87–666, §1, Sept. 19,1962, 76 Stat. 553; renumbered §7107, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, §303, Nov. 2, 1994, 108 Stat. 4658; Pub. L. 105–368, title X, §1003, Nov. 11, 1998, 112 Stat. 3363.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, §4006; renumbered §4007, Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553; renumbered §7107, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, §7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, §303, Nov. 2, 1994, 108 Stat. 4658; Pub. L. 105–368, title X, §1003, Nov. 11, 1998, 112 Stat. 3363.)
 
 #### Amendments
 

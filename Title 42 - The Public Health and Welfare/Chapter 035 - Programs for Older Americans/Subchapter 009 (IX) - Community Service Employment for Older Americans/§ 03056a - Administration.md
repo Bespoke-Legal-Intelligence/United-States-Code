@@ -114,11 +114,11 @@ The Secretary shall establish by regulation and implement a process to evaluate 
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsecs. (a)(2)(A), (4)(F) and (b)(2), is Pub. L. 105–220,Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (a)(2)(A), (4)(F) and (b)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Community Services Block Grant Act, referred to in subsec. (b)(2), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, §§671 to 683, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
-The Rehabilitation Act of 1973 (as amended by the Rehabilitation Act Amendments of 1998), referred to in subsec. (b)(2), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended by Pub. L. 105–220, title IV, Aug. 7, 1998, 112 Stat. 1092, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973 (as amended by the Rehabilitation Act Amendments of 1998), referred to in subsec. (b)(2), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended by Pub. L. 105–220, title IV, Aug. 7, 1998, 112 Stat. 1092, which is classified generally to chapter 16\(§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (b)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 

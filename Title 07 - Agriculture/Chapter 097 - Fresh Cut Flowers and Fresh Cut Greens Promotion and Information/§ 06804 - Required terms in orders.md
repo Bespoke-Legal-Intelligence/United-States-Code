@@ -68,7 +68,7 @@ An order shall contain the terms and provisions specified in this section.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the domestic production, for sale in commerce, of cut flowers or cut greens and that owns or shares in the ownership and risk of loss of the cut flowers or cut greens; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) as a first processor of noncultivated cut greens, in receiving the cutgreens from a person who gathers the cut greens for handling; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) as a first processor of noncultivated cut greens, in receiving the cut greens from a person who gathers the cut greens for handling; and
 
 &emsp;&emsp;&emsp;&emsp;(II) is subject to assessments as a qualified handler under the order.
 
@@ -76,7 +76,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “qualified wholesale handler” means a person in business as a floral wholesale jobber or floral supplier that is subject to assessments as a qualified handler under the order.
+&emsp;&emsp;&emsp;&emsp;The term “qualified wholesale handler” means a person in business as a floral wholesale jobber or floral supplierthat is subject to assessments as a qualified handler under the order.
 
 #### (II) Definitions
 
@@ -246,7 +246,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 #### (A) In general
 
-&emsp;&emsp;To ensure efficient use of funds, the order shall provide that the PromoFlor Council,with the approval of the Secretary, may enter into a contract or an agreement for the implementation of a plan or project for promotion, consumer information, or related research with respect to cut flowers or cut greens, and for the payment of the cost of the contract or agreement with funds received by the PromoFlor Council under the order.
+&emsp;&emsp;To ensure efficient use of funds, the order shall provide that the PromoFlor Council, with the approval of the Secretary, may enter into a contract or an agreement for the implementation of a plan or project for promotion, consumer information, or related research with respect to cut flowers or cut greens, and for the payment of the cost of the contract or agreement with funds received by the PromoFlor Council under the order.
 
 #### (B) Requirements
 
@@ -324,7 +324,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (III) Direct sales by producers
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), in the case of a direct sale to a consumer by a producer, the amount of the sale shall be equal to an amount determined by multiplying the price paid by the consumer by a uniform percentage established by the order to represent the cost of producing the article and the mark-up of a wholesale handler on a sale to a retailer.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), in the case of a direct sale to a consumer by a producer, the amount of the sale shall be equal to an amount determined by multiplying the price paid by the consumerby a uniform percentage established by the order to represent the cost of producing the article and the mark-up of a wholesale handler on a sale to a retailer.
 
 #### (IV) Changes in uniform percentages
 
@@ -404,7 +404,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 &emsp;&emsp;&emsp;&emsp;(II) The refund shall be made only on submission of proof satisfactory to the PromoFlor Council that the qualified handler paid the assessment for which the refund is demanded.
 
-&emsp;&emsp;&emsp;&emsp;(III) If the amount in the escrow account required under subparagraph (A) is not sufficient to refund the total amount of assessments demanded by all qualified handlers determined eligible for refunds and the order is not approved in the referendum on the order under section6806(a) of this title, the PromoFlor Council shall prorate the amount of all such refunds among all eligible qualified handlers that demand the refund.
+&emsp;&emsp;&emsp;&emsp;(III) If the amount in the escrow account required under subparagraph (A) is not sufficient to refund the total amount of assessments demanded by all qualified handlers determined eligible for refunds and the order is not approved in the referendum on the order under section 6806(a) of this title, the PromoFlor Council shall prorate the amount of all such refunds among all eligible qualified handlers that demand the refund.
 
 #### (C) Program approved
 

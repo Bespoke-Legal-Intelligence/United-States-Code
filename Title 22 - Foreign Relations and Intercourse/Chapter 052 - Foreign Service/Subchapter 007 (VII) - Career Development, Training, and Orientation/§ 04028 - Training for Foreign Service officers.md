@@ -1,6 +1,6 @@
 ### §4028. Training for Foreign Service officers
 
-(a) The Secretary of State, with the assistance of other relevant officials, such as the Ambassador at Large for International Religious Freedom appointed under section 6411(b) of this titleand the director of the National Foreign Affairs Training Center, shall establish as part of the standard training provided after January 1, 1999, for officers of the Service, including chiefs of mission, instruction in the field of internationally recognized human rights. Such training shall include—
+(a) The Secretary of State, with the assistance of other relevant officials, such as the Ambassador at Large for International Religious Freedom appointed under section 6411(b) of this title and the director of the George P. Shultz National Foreign Affairs Training Center, shall establish as part of the standard training provided after January 1, 1999, for officers of the Service, including chiefs of mission, instruction in the field of internationally recognized human rights. Such training shall include—
 
 &emsp;(1) instruction on international documents and United States policy in human rights, which shall be mandatory for all members of the Service having reporting responsibilities relating to human rights and for chiefs of mission; and
 
@@ -8,9 +8,11 @@
 
 (b) The Secretary of State shall provide sessions on refugee law and adjudications and on religious persecution to each individual seeking a commission as a United States consular officer. The Secretary shall also ensure that any member of the Service who is assigned to a position that may be called upon to assess requests for consideration for refugee admissions, including any consular officer, has completed training on refugee law and refugee adjudications in addition to the training required in this section.
 
-(Pub. L. 96–465, title I, §708, as added and amended Pub. L. 105–292, title I, §104, title VI, §602(b), Oct. 27, 1998, 112 Stat. 2795, 2812.)
+(Pub. L. 96–465, title I, §708, as added and amended Pub. L. 105–292, title I, §104, title VI, §602(b), Oct. 27, 1998, 112 Stat. 2795, 2812; Pub. L. 107–132, §2(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–132 inserted “George P. Shultz” after “director of the” in introductory provisions.
 
 1998—Pub. L. 105–292, §602(b), designated existing provisions as subsec. (a) and added subsec. (b).
 

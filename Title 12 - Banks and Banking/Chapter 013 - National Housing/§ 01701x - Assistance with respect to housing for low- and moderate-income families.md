@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(ii) are not already adequately served by homeownership counseling organizations; and
 
-&emsp;&emsp;&emsp;(iii) have a high incidence of mortgages involving principal obligations (includingsuch initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the properties that are insured pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\]; and
+&emsp;&emsp;&emsp;(iii) have a high incidence of mortgages involving principal obligations (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the properties that are insured pursuant to section 203 of the National Housing Act \[12 U.S.C. 1709\]; and
 
 &emsp;&emsp;(B) to inform the public of the availability of the homeownership counseling.
 
@@ -150,10 +150,6 @@
 
 &emsp;There are authorized to be appropriated to carry out this section $7,000,000 for fiscal year 1993 and $7,294,000 for fiscal year 1994, of which amounts $1,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D). Any amount appropriated under this subsection shall remain available until expended.
 
-#### (9) Termination
-
-&emsp;The provisions of this subsection shall not be effective after September 30, 2000.
-
 #### (d) Prepurchase and foreclosure-prevention counseling demonstration
 
 #### (1) Purposes
@@ -214,7 +210,7 @@
 
 &emsp;&emsp;Under the demonstration program, the Secretary shall require the creditor of any eligible homeowner who is delinquent (as described in subparagraph (A)) to send written notice by registered or certified mail within 5 days (excluding Saturdays, Sundays, and legal public holidays) after the occurrence of such delinquency—
 
-&emsp;&emsp;&emsp;(i) notifying the homeowner of the delinquency and the name, address, and phonenumber of the counseling organization for the counseling target area; and
+&emsp;&emsp;&emsp;(i) notifying the homeowner of the delinquency and the name, address, and phone number of the counseling organization for the counseling target area; and
 
 &emsp;&emsp;&emsp;(ii) notifying any counseling organization for the counseling target area of the delinquency and the name, address, and phone number of the delinquent homeowner.
 
@@ -392,15 +388,15 @@
 
 &emsp;There are authorized to be appropriated to carry out this subsection $2,000,000 for fiscal year 1993 and $2,084,000 for 1994.
 
-(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655.)
+(Pub. L. 90–448, title I, §106, Aug. 1, 1968, 82 Stat. 490; Pub. L. 91–609, title IX, §903(a), (b), Dec. 31, 1970, 84 Stat. 1808; Pub. L. 93–383, title VIII, §811, Aug. 22, 1974, 88 Stat. 735; Pub. L. 95–128, title IX, §903, Oct. 12, 1977, 91 Stat. 1149; Pub. L. 97–35, title III, §339A, Aug. 13, 1982, 95 Stat. 417; Pub. L. 98–181, title IV, §465, Nov. 30, 1983, 97 Stat. 1236; Pub. L. 98–479, title II, §204(f), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title I, §169, Feb. 5, 1988, 101 Stat. 1865; Pub. L. 100–628, title X, §1009, Nov. 7, 1988, 102 Stat. 3266; Pub. L. 101–137, §8, Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–625, title V, §577, title VII, §706(c), Nov. 28, 1990, 104 Stat. 4238, 4286; Pub. L. 102–550, title I, §162(a)–(d), Oct. 28, 1992, 106 Stat. 3719–3721; Pub. L. 104–316, title I, §106(a), Oct. 19, 1996, 110 Stat. 3830; Pub. L. 105–276, title V, §594(a), (b), Oct. 21, 1998, 112 Stat. 2655; Pub. L. 107–73, title II, §205, Nov. 26, 2001, 115 Stat. 674.)
 
 #### References in Text
 
 The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(iv), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
-Section 152 of the Housing and Community Development Act of 1992, referred to in subsec. (a)(3), is section 152 of Pub. L. 102–550, which was set out as a note under section 1437f of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 105–276, title V, §550(f), Oct. 21, 1998, 112 Stat. 2610.
-
 The National Housing Act, referred to in subsecs. (a)(2) and (d)(9)(K), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+
+Section 152 of the Housing and Community Development Act of 1992, referred to in subsec. (a)(3), is section 152 of Pub. L. 102–550, which was set out as a note under section 1437f of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 105–276, title V, §550(f), Oct. 21, 1998, 112 Stat. 2610.
 
 The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -409,6 +405,8 @@ The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949,
 Section was enacted as part of the Housing and Urban Development Act of 1968, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+2001—Subsec. (c)(9). Pub. L. 107–73 struck out heading and text of par. (9). Text read as follows: “The provisions of this subsection shall not be effective after September 30, 2000.”
 
 1998—Subsec. (c)(5)(C). Pub. L. 105–276, §594(b), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “Notification under subparagraph (A) shall not be required with respect to any loan—
 

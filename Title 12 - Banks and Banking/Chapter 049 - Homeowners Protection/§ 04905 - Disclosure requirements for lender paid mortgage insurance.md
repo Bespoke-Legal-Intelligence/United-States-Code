@@ -32,7 +32,7 @@ In the case of lender paid mortgage insurance that is required in connection wit
 
 &emsp;&emsp;(D) that lender paid mortgage insurance may be tax-deductible for purposes of Federal income taxes, if the mortgagor itemizes expenses for that purpose; and
 
-&emsp;(2) not later than 30 days after the termination date that would apply in the case of borrower paid mortgage insurance, the servicer shall provide to the mortgagor a written notice indicating that the mortgagor maywish to review financing options that could eliminate the requirement for private mortgage insurance in connection with the residential mortgage transaction.
+&emsp;(2) not later than 30 days after the termination date that would apply in the case of borrower paid mortgage insurance, the servicer shall provide to the mortgagor a written notice indicating that the mortgagor may wish to review financing options that could eliminate the requirement for private mortgage insurance in connection with the residential mortgage transaction.
 
 #### (d) Standard forms
 

@@ -24,7 +24,7 @@
 
 #### (5) Review and evaluation
 
-&emsp;The Secretary shall review and evaluate the Quality Assurance Program conducted by each participating institution and, on the basis of that evaluation, make recommendations regarding amendments to this chapter that will streamline the administration and enhance the integrity of Federal student assistance programs. Such recommendations shall be submitted to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives.
+&emsp;The Secretary shall review and evaluate the Quality Assurance Program conducted by each participating institution and, on the basis of that evaluation, make recommendations regarding amendments to this chapter that willstreamline the administration and enhance the integrity of Federal student assistance programs. Such recommendations shall be submitted to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives.
 
 #### (b) Regulatory improvement and streamlining experiments
 

@@ -100,11 +100,11 @@ Rule of construction.—This subsection shall not be construed to preclude impos
 
 &emsp;(6)
 
-Special provision for indian country.—No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense for which Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsection have effect over land and persons subject to the criminal jurisdiction of the tribe.
+Special provision for indian country.—No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense forwhich Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsection have effect over land and persons subject to the criminal jurisdiction of the tribe.
 
 &emsp;(7)
 
-Resentencing upon overturning of prior conviction.—If the conviction for a serious violent felony or serious drug offense that was a basis for sentencing under this subsection is found, pursuant to any appropriate State or Federal procedure, to be unconstitutional or is vitiated on the explicit basis of innocence, or if the convicted person is pardonedon the explicit basis of innocence, the person serving a sentence imposed under this subsection shall be resentenced to any sentence that was available at the time of the original sentencing.
+Resentencing upon overturning of prior conviction.—If the conviction for a serious violent felony or serious drug offense that was a basis for sentencing under this subsection is found, pursuant to any appropriate State or Federal procedure, to be unconstitutional or is vitiated on the explicit basis of innocence, or if the convicted person is pardoned on the explicit basis of innocence, the person serving a sentence imposed under this subsection shall be resentenced to any sentence that was available at the time of the original sentencing.
 
 (d)
 
@@ -154,5 +154,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3154, 3582 of this title; title 10 section 1132; title 49 section 46502.
+This section is referred to in sections 3154, 3582 of this title; title 10 section 1132; title 42 section 14135a; title 49 section 46502.
 

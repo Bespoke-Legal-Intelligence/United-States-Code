@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 2707, 3020d, 4953, 4973, 5055, 11701 of this title; title 20 section 7902; title 29 section 795a; title 38 section 3764.
+This subchapter is referred to in sections 2707, 3020d, 4953, 4973, 5055, 11701 of this title; title 20 section 7512; title 29 section 795a; title 38 section 3764.
 
 
 ---

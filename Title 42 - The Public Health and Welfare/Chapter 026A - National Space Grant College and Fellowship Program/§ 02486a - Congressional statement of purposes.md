@@ -6,7 +6,7 @@ The purposes of this chapter are to—
 
 &emsp;(2) utilize the abilities and talents of the universities of the Nation to support and contribute to the exploration and development of the resources and opportunities afforded by the space environment;
 
-&emsp;(3) encourage and support the existence of interdisciplinary and multidisciplinary programs of space research within the university community of the Nation, to engage in integrated activities of training, research and public service, to have cooperative programs with industry, and to be coordinated with the overall program of the National Aeronautics and Space Administration;
+&emsp;(3) encourage and support the existence of interdisciplinary and multidisciplinary programs of space research within the university community of the Nation, to engage in integrated activities of training, research and public service, to have cooperative programs withindustry, and to be coordinated with the overall program of the National Aeronautics and Space Administration;
 
 &emsp;(4) encourage and support the existence of consortia, made up of university and industry members, to advance the exploration and development of space resources in cases in which national objectives can be better fulfilled than through the programs of single universities;
 

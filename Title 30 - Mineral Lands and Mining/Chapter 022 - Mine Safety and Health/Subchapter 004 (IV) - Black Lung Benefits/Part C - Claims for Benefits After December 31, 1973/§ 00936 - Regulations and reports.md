@@ -6,7 +6,7 @@ The Secretary of Labor, the Commissioner of Social Security, and the Secretary o
 
 #### (b) Annual reports to Congress
 
-At the end of each fiscal year, the Commissioner of Social Security shall submit to the Congress an annual report upon the subject matter of part B of this subchapter, and, after January 1, 1974, the Secretary of Labor shall also submit such a report upon the subject matter of this part. Each such report shall be prepared and submitted to Congress in accordance with the requirement with respect to submission under section 942 of title 33.
+At the end of each fiscal year, the Commissioner of Social Security shall submit to the Congress an annual report upon the subject matter of part B of this subchapter, and, after January 1, 1974, the Secretary of Labor shall also submit such a report upon the subject matter of this part. Each such report shall be prepared andsubmitted to Congress in accordance with the requirement with respect to submission under section 942 of title 33.
 
 #### (c) Compliance with State workmen's compensation laws; conflicts between State and Federal provisions
 

@@ -10,7 +10,7 @@ The Secretary is authorized to enter into cooperative agreements with the State 
 
 #### (c) Technical assistance
 
-To enable the State of Minnesota and its political subdivisions to develop and implement programs compatible with the plan, the Secretary shall provide such technical assistance to the State and its political subdivisions as he deems appropriate.
+To enable the State of Minnesota and its political subdivisions to develop and implement programs compatible with the plan, the Secretaryshall provide such technical assistance to the State and its political subdivisions as he deems appropriate.
 
 #### (d) State and local jurisdiction
 

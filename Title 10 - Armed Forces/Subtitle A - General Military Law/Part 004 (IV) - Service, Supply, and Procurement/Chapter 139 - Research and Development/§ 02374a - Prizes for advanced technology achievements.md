@@ -6,7 +6,7 @@ Authority.—The Secretary of Defense, acting through the Director of the Defens
 
 (b)
 
-Competition Requirements.—The program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of research results, technology developments, and prototypes.
+Competition Requirements.—The program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of researchresults, technology developments, and prototypes.
 
 (c)
 

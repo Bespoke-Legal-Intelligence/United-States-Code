@@ -18,7 +18,7 @@ It shall be unlawful for any person engaged in commerce to pay or contact for th
 
 #### (e) Furnishing services or facilities for processing, handling, etc.
 
-It shall be unlawful for any person to discriminate in favor of one purchaser against anotherpurchaser or purchasers of a commodity bought for resale, with or without processing, by contracting to furnish or furnishing, or by contributing to the furnishing of, any services or facilities connected with the processing, handling, sale, or offering for sale of such commodity so purchased upon terms not accorded to all purchasers on proportionally equal terms.
+It shall be unlawful for any person to discriminate in favor of one purchaser against another purchaser or purchasers of a commodity bought for resale, with or without processing, by contracting to furnish or furnishing, or by contributing to the furnishing of, any services or facilities connected with the processing, handling, sale, or offering for sale of such commodity so purchased upon terms not accorded to all purchasers on proportionally equal terms.
 
 #### (f) Knowingly inducing or receiving discriminatory price
 
@@ -32,7 +32,7 @@ It shall be unlawful for any person engaged in commerce, in the course of such c
 
 #### Short Title
 
-Act June 19, 1936, which amended this section and added sections 13a, 13b, and 21a of this title, is popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act.
+Act June 19, 1936, which amended this section and added sections 13a, 13b, and 21a of this title, is popularly known as the Robinson-Patman Act, as the Robinson-Patman Antidiscrimination Act, and also as the Robinson-Patman Price Discrimination Act.
 
 #### Robinson-Patman Antidiscrimination Act Referred to in Other Sections
 

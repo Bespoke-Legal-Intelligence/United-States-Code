@@ -26,7 +26,7 @@ Other Members.—(1) Except as provided in paragraphs (2) and (3), a member of a
 
 (2) If the Secretary concerned determines that the conditions under which a member described in paragraph (1) is discharged or separated do not warrant separation pay under this section, that member is not entitled to that pay.
 
-(3) A member described in paragraph (1) who was not on the active-duty list when discharged or separated is not entitled to separation payunder this section unless such member had completed at least six years of continuous active duty immediately before such discharge or release. For purposes of this paragraph, a period of active duty is continuous if it is not interrupted by a break in service of more than 30 days.
+(3) A member described in paragraph (1) who was not on the active-duty list when discharged or separated is not entitled to separation pay under this section unless such member had completed at least six years of continuous active duty immediately before such discharge or release. For purposes of this paragraph, a period of active duty is continuous if it is not interrupted by a break in service of more than 30 days.
 
 (4) In the case of an officer who is subject to discharge or release from active duty under a law or regulation requiring that an officer who has failed of selection for promotion to the next higher grade for the second time be discharged or released from active duty and who, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty—
 
@@ -44,7 +44,7 @@ Amount of Separation Pay.—The amount of separation pay which may be paid to a 
 
 (e)
 
-Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As a condition of receiving separation pay under this section, a person otherwise eligible for that pay shall be required to enter into a written agreement with the Secretary concerned to serve in the Ready Reserve of a reserve component for a period of not less than three years following the person's discharge or release from active duty. If the person has a service obligation under section 651 of this title or under any other provision of law that is not completed at the time the person is discharged or released from active duty, the three-year obligation under this subsection shall begin on the day after the date on which the person completes the person's obligation under such section or other provision of law.
+Requirement for Service in Ready Reserve; Exceptions To Eligibility.—(1)(A) As a condition of receiving separation pay under this section, a person otherwise eligible for that pay shall be required to enter into a written agreement with the Secretary concerned to serve in the Ready Reserve of a reserve component for a period of not less than three years following the person's discharge or release from active duty. If the person has a service obligation under section 651 of this title or under any other provision oflaw that is not completed at the time the person is discharged or released from active duty, the three-year obligation under this subsection shall begin on the day after the date on which the person completes the person's obligation under such section or other provision of law.
 
 (B) Each person who enters into an agreement referred to in subparagraph (A) who is not already a Reserve of an armed force and who is qualified shall, upon such person's discharge or release from active duty, be enlisted or appointed, as appropriate, as a Reserve and be transferred to a reserve component.
 
@@ -76,7 +76,7 @@ Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A m
 
 Regulations; Crediting of Other Commissioned Service.—(1) The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, and Marine Corps, for the administration of this section.
 
-(2) Active commissioned service in the National Oceanic and Atmospheric Administrationor the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
+(2) Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
 
 (Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, §1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, §502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–107.)
 
@@ -166,7 +166,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §508(c)\], Oct. 30, 2000, 114 Sta
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–261 applicable with respect to selection boards convened under section 611(a)of this title on or after Oct. 17, 1998, see section 502(c) of Pub. L. 105–261, set out as a note under section 617 of this title.
+Amendment by Pub. L. 105–261 applicable with respect to selection boards convened under section 611(a) of this title on or after Oct. 17, 1998, see section 502(c) of Pub. L. 105–261, set out as a note under section 617 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -192,7 +192,7 @@ Section 501(e) of Pub. L. 101–510 provided that:
 
 “(1) Except as provided in paragraph (2), subsection (b) of section 1174 of title 10, United States Code, as added by subsection (a), and the amendments made by subsections (b), (c), and (d) \[amending this section\] shall apply with respect to a member of the Armed Forces who is discharged, or released from active duty, after the date of the enactment of this Act \[Nov. 5, 1990\].
 
-“(2) The amendments made by subsection (b) \[amending this section\] shall not apply in the case of a member (other than a regular enlisted member) of the Armed Forces who (A) is serving on active duty on the date of the enactment of this Act, (B) is discharged, or released from active duty, after that date; and (C) on that date has five or more, but less than six, years of active service in the Armed Forces.”
+“(2) The amendments made by subsection (b) \[amending this section\] shall not apply in the case of a member (other than a regular enlisted member) of the Armed Forces who (A) is serving on active duty on the date of the enactment of this Act, (B) is discharged, orreleased from active duty, after that date; and (C) on that date has five or more, but less than six, years of active service in the Armed Forces.”
 
 #### Effective Date of 1983 Amendment
 

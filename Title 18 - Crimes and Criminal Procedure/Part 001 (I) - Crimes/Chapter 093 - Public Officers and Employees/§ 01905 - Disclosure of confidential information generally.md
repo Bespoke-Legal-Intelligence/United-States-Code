@@ -6,7 +6,7 @@ Whoever, being an officer or employee of the United States or of any department 
 
 #### Historical and Revision Notes
 
-Based on section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed.;section 1335 of title 19, U.S.C., 1940 ed., Customs Duties (R.S. §3167; Aug. 27, 1894, ch. 349, §24, 28 Stat. 557; Feb. 26, 1926, ch. 27, §1115, 44 Stat. 117; June 17, 1930, ch. 497, title III, §335, 46 Stat. 701; Jan. 27, 1938, ch. 11, §2, 52 Stat. 8).
+Based on section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed.; section 1335 of title 19, U.S.C., 1940 ed., Customs Duties (R.S. §3167; Aug. 27, 1894, ch. 349, §24, 28 Stat. 557; Feb. 26, 1926, ch. 27, §1115, 44 Stat. 117; June 17, 1930, ch. 497, title III, §335, 46 Stat. 701; Jan. 27, 1938, ch. 11, §2, 52 Stat. 8).
 
 Section consolidates section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed., and section 1335 of title 19, U.S.C., 1940 ed., Customs Duties.
 
@@ -32,5 +32,5 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 3374; title 7 sections 136h, 450i, 5662; title 15 sections 330b, 771, 773, 796, 1193, 1335a, 2217, 2613; title 21 sections 360<i>ll</i>, 360nn; title 26 section 7213; title 29 section 664; title 30 section 1423; title 33 sections 1318, 1320, 1322, 1369, 1513; title 42 sections 300j–4, 2210b, 4912, 5916, 5919, 6274, 6921, 6927, 6991d, 7135, 7412, 7542, 7607, 7621, 9208, 9310, 9604, 9660, 11023, 11042, 13253, 13255, 13293; title 46 section 4309; title 49 sections 106, 1114, 30167, 32307, 32505, 32708, 32912, 33116, 60117.
+This section is referred to in title 5 section 3374; title 7 sections 136h, 450i, 5662; title 15 sections 330b, 771, 773, 796, 1193, 1335a, 2217, 2613; title 21 sections 355a, 360<i>ll</i>, 360nn; title 26 section 7213; title 29 section 664; title 30 section 1423; title 33 sections 1318, 1320, 1322, 1369, 1513; title 42 sections 300j–4, 2210b, 4912, 5916, 5919, 6274, 6921, 6927, 6991d, 7135, 7412, 7542, 7607, 7621, 9208, 9310, 9604, 9660, 11023, 11042, 13253, 13255, 13293; title 46 section 4309; title 49 sections 106, 1114, 30167, 32307, 32505, 32708, 32912, 33116, 60117.
 

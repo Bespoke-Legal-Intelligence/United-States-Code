@@ -142,7 +142,7 @@ The Advisory Board shall be deemed to have filed a charter for the purpose of se
 
 #### (2) General limitation
 
-&emsp;The expenses of the Advisory Board shall not be counted toward any general limitation on the expenses of advisory committees, panels, commissions, and task forces of the Department of Agriculture contained in any Act making appropriations for the Department of Agriculture, whether enacted before, on, orafter June 23, 1998, unless the appropriation Act specifically refers to this subsection and specifically includes this Advisory Board within the general limitation.
+&emsp;The expenses of the Advisory Board shall not be counted toward any general limitation on the expenses of advisory committees, panels, commissions, and task forces of the Department of Agriculture contained in any Act making appropriations for the Department of Agriculture, whether enacted before, on, or after June 23, 1998, unless the appropriation Act specifically refers to this subsection and specifically includes this Advisory Board within the general limitation.
 
 #### (h) Termination
 

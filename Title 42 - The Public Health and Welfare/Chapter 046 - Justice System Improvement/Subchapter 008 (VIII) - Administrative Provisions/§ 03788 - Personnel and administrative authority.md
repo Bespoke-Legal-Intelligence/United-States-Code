@@ -6,7 +6,7 @@ The Assistant Attorney General, the Director of the Bureau of Justice Assistance
 
 #### (b) Use of available services; reimbursement
 
-The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized, on a reimbursable basis when appropriate, to use the available services, equipment, personnel, and facilities of Federal, State, and local agencies to the extent deemed appropriate after giving dueconsideration to the effectiveness of such existing services, equipment, personnel, and facilities.
+The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized, on a reimbursable basis when appropriate, to use the available services, equipment, personnel, and facilities of Federal, State, and local agencies to the extent deemed appropriate after giving due consideration to the effectiveness of such existing services, equipment, personnel, and facilities.
 
 #### (c) Other Federal agency performance of functions under this chapter; reimbursement
 

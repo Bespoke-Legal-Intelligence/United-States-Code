@@ -30,7 +30,7 @@
 
 #### (3) Remand
 
-&emsp;If the court in a proceeding under this subsection determines that the ruling of the Secretary on the petition of the person is not in accordance with law, the court shall remand the matter to the Secretary with directions—
+&emsp;If the court in a proceeding under this subsection determines that the ruling of the Secretary on the petition of the person is not inaccordance with law, the court shall remand the matter to the Secretary with directions—
 
 &emsp;&emsp;(A) to make such ruling as the court shall determine to be in accordance with law; or
 

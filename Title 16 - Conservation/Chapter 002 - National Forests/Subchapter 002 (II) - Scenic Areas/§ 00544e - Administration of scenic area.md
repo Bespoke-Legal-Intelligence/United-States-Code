@@ -6,7 +6,7 @@ The non-Federal lands within the scenic area shall be administered by the Commis
 
 #### (b) Adoption of scenic area land use ordinances
 
-(1) Within sixty days of initial receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit such letter or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (c) of this section.
+(1) Within sixty days of initial receipt of the management plan, each county shall submit to the Commission a letter stating that it proposesto adopt a land use ordinance consistent with the management plan. If any county fails to submit such letter or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (c) of this section.
 
 (2) Within two hundred and seventy days of receipt of the management plan, each county shall adopt a land use ordinance consistent with the management plan, and thereafter may adopt an amendment, revision or variance to a land use ordinance at any time. Each county upon adoption of a land use ordinance shall promptly submit the ordinance to the Commission.
 

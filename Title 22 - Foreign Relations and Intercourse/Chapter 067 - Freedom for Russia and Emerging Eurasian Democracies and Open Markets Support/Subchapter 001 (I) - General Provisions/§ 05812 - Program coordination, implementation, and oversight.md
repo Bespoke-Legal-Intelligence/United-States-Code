@@ -158,6 +158,32 @@ Availability of Funds.—Amounts appropriated under subsection (a) are authorize
 
 #### Restriction on Assistance to Azerbaijan
 
+Pub. L. 107–115, title II \[(g)(2)–(6)\], Jan. 10, 2002, 115 Stat. 2129, provided that:
+
+“(2) The President may waive section 907 of the FREEDOM Support Act \[Pub. L. 102–511, set out below\] if he determines and certifies to the Committees on Appropriations that to do so—
+
+&emsp;“(A) is necessary to support United States efforts to counter international terrorism; or
+
+&emsp;“(B) is necessary to support the operational readiness of United States Armed Forces or coalition partners to counter international terrorism; or
+
+&emsp;“(C) is important to Azerbaijan's border security; and
+
+&emsp;“(D) will not undermine or hamper ongoing efforts to negotiate a peaceful settlement between Armenia and Azerbaijan or be used for offensive purposes against Armenia.
+
+“(3) The authority of paragraph (2) may only be exercised through December 31, 2002.
+
+“(4) The President may extend the waiver authority provided in paragraph (2) on an annual basis on or after December 31, 2002 if he determines and certifies to the Committees on Appropriations in accordance with the provisions of paragraph (2).
+
+“(5) The Committees on Appropriations shall be consulted prior to the provision of any assistance made available pursuant to paragraph (2).
+
+“(6) Within 60 days of any exercise of the authority under paragraph (2) the President shall send a report to the appropriate congressional committees specifying in detail the following—
+
+&emsp;“(A) the nature and quantity of all training and assistance provided to the Government of Azerbaijan pursuant to paragraph (2);
+
+&emsp;“(B) the status of the military balance between Azerbaijan and Armenia and the impact of United States assistance on that balance; and
+
+&emsp;“(C) the status of negotiations for a peaceful settlement between Armenia and Azerbaijan and the impact of United States assistance on those negotiations.”
+
 Section 907 of Pub. L. 102–511 provided that: “United States assistance under this or any other Act (other than assistance under title V of this Act \[22 U.S.C. 5851 et seq.\]) may not be provided to the Government of Azerbaijan until the President determines, and so reports to the Congress, that the Government of Azerbaijan is taking demonstrable steps to cease all blockades and other offensive uses of force against Armenia and Nagorno-Karabakh.”
 
 #### Support for Macroeconomic Stabilization in Independent States of Former Soviet Union
@@ -239,6 +265,28 @@ Sec. 6. <i>General</i>. (a) the \[sic\] functions described in sections 4 and 5 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[Section 3 of Ex. Ord. No. 12884, set out above, was to cease to be effective pursuant to Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(a)(4), Oct. 21, 1998, 112 Stat. 2681–792.\]
+
+#### Waiver of Restriction on Assistance to Azerbaijan
+
+Determination of President of the United States, No. 2002–06, Jan. 25, 2002, 67 F.R. 5921, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to the authority contained in Title II of the “Kenneth M. Ludden Foreign Operations, Export Financing, and Related Programs Appropriations Act,2002” (Public Law 107–115) \[set out as a note above\], I hereby determine and certify that a waiver of section 907 of the FREEDOM Support Act of 1992 (Public Law 102–511) \[set out as a note above\]:
+
+• is necessary to support U.S. efforts to counter international terrorism;
+
+• is necessary to support the operational readiness of U.S. Armed Forces or coalition partners to counter international terrorism;
+
+• is important to Azerbaijan's border security; and
+
+• will not undermine or hamper ongoing efforts to negotiate a peaceful settlement between Armenia and Azerbaijan or be used for offensive purposes against Armenia.
+
+Accordingly, I hereby waive section 907 of the FREEDOM Support Act.
+
+You are authorized and directed to notify the Congress of this determination and to arrange for its publication in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [1111\.](%C2%A7%2001111%20-%20Establishment%20and%20purpose%20of%20Fund%3B%20definitions.md) | Establishment and purpose of Fund; definitions. |
+| [1111\.](%C2%A7%2001111%20-%20Establishment%20and%20purpose%20of%20Fund%3B%20definitions%3B%20authority%20to%20enter%20into%20agreements.md) | Establishment and purpose of Fund; definitions; authority to enter into agreements. |
 | [1112\.](%C2%A7%2001112%20-%20Assets%20of%20Fund.md) | Assets of Fund. |
 | [1113\.](%C2%A7%2001113%20-%20Payments%20from%20the%20Fund.md) | Payments from the Fund. |
 | [1114\.](%C2%A7%2001114%20-%20Board%20of%20Actuaries.md) | Board of Actuaries. |
@@ -12,12 +12,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+2001—Pub. L. 107–107, div. A, title VII, §711(e)(3), Dec. 28, 2001, 115 Stat. 1167, inserted “; authority to enter into agreements” after “definitions” in item 1111.
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 01111 - Establishment and purpose of Fund; definitions](%C2%A7%2001111%20-%20Establishment%20and%20purpose%20of%20Fund%3B%20definitions.md)
+- [&sect; 01111 - Establishment and purpose of Fund; definitions; authority to enter into agreements](%C2%A7%2001111%20-%20Establishment%20and%20purpose%20of%20Fund%3B%20definitions%3B%20authority%20to%20enter%20into%20agreements.md)
 - [&sect; 01112 - Assets of Fund](%C2%A7%2001112%20-%20Assets%20of%20Fund.md)
 - [&sect; 01113 - Payments from the Fund](%C2%A7%2001113%20-%20Payments%20from%20the%20Fund.md)
 - [&sect; 01114 - Board of Actuaries](%C2%A7%2001114%20-%20Board%20of%20Actuaries.md)

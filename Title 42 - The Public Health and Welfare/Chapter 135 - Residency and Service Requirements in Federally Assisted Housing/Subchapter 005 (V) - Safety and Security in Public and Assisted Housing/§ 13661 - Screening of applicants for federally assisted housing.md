@@ -18,7 +18,7 @@ Any tenant evicted from federally assisted housing by reason of drug-related cri
 
 &emsp;In determining whether, pursuant to paragraph (1)(B), to deny admission to the program or federally assisted housing to any household based on a pattern of illegal use of a controlled substance or a pattern of abuse of alcohol by a household member, a public housing agency or an owner may consider whether such household member—
 
-&emsp;&emsp;(A) has successfully completed a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable);
+&emsp;&emsp;(A) has successfully completed a supervised drug or alcohol rehabilitation program\(as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable);
 
 &emsp;&emsp;(B) has otherwise been rehabilitated successfully and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable); or
 

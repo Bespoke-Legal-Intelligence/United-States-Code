@@ -92,7 +92,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;&emsp;(A) to hold public hearings on the State plan required in subsection (a)(2) of this section; and
 
-&emsp;&emsp;(B) to make recommendations pursuant to subsection (b)(1) of this section regarding the development and implementation of such plan, including recommendations on—
+&emsp;&emsp;(B) to make recommendations pursuant to subsection (b)(1) of this section regardingthe development and implementation of such plan, including recommendations on—
 
 &emsp;&emsp;&emsp;(i) the conduct of assessments of the public health;
 
@@ -106,7 +106,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 #### (3) Composition
 
-&emsp;(A) A condition under paragraph (1) for a State is that the Committee is composed ofsuch members of the general public, and such officials of the health departments of political subdivisions of the State, as may be necessary to provide adequate representation of the general public and of such health departments.
+&emsp;(A) A condition under paragraph (1) for a State is that the Committee is composed of such members of the general public, and such officials of the health departments of political subdivisions of the State, as may be necessary to provide adequate representation of the general public and of such health departments.
 
 &emsp;(B) With respect to compliance with subparagraph (A), the membership of advisory committees established pursuant to subsection (c)(2) of this section may include representatives of community-based organizations (including minority community-based organizations), schools of public health, and entities to which the State involved awards grants or contracts to carry out activities authorized in section 300w–3 of this title.
 

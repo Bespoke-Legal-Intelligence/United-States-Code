@@ -240,7 +240,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (C) Importers
 
-&emsp;&emsp;The Secretary shall appoint importers to seats established under paragraph (1)(C)from nominations submitted by qualified organizations that represent importers, as determined by the Secretary. To be represented on the Board, importers shall provide at least 1.5 nominations for each appointment to the Board for which importers are entitled to representation, as determined under paragraph (1)(C).
+&emsp;&emsp;The Secretary shall appoint importers to seats established under paragraph (1)(C) from nominations submitted by qualified organizations that represent importers, as determined by the Secretary. To be represented on the Board, importers shall provide at least 1.5 nominations for each appointment to the Board for which importers are entitled to representation, as determined under paragraph (1)(C).
 
 #### (c) Method for obtaining nominations
 
@@ -248,7 +248,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) Producer nominations
 
-&emsp;&emsp;The Secretary shall solicit nominations for each seat on the initially established Board to which a unit is entitled to representation from eligible organizations certified under paragraph (3). If no such organization exists in the unit, the Secretary shall solicit nominations for appointments in such manner as the Secretary determines appropriate.
+&emsp;&emsp;The Secretary shall solicit nominations for each seat on the initially established Board to which a unit is entitled to representation from eligible organizations certified under paragraph (3). If no such organization exists in the unit, the Secretary shallsolicit nominations for appointments in such manner as the Secretary determines appropriate.
 
 #### (B) Feeder and importer nominations
 
@@ -340,7 +340,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;(11) to provide the Secretary with prior notice of meetings of the Board to permit the Secretary, or a designated representative, to attend the meetings;
 
-&emsp;(12) to provide, not less than annually, a report to producers, feeders, and importers accounting for funds expended by the Board and describing programs carried out under this chapter, and to make the report available to the public on request;
+&emsp;(12) to provide, not less than annually, a report to producers, feeders, and importers accounting for funds expended by the Board and describing programs carried out under thischapter, and to make the report available to the public on request;
 
 &emsp;(13) to establish 7 regions that, to the extent practicable, contain geographically contiguous States and approximately equal numbers of producers and sheep production;
 
@@ -430,7 +430,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each person making payment to a producer or feeder for sheep purchased from the producer or feeder shall, in the manner prescribed by the order,collect an assessment from the producer or feeder on each sheep sold by the producer or feeder.
+&emsp;&emsp;The order shall provide that each person making payment to a producer or feeder for sheep purchased from the producer or feeder shall, in the manner prescribed by the order, collect an assessment from the producer or feeder on each sheep sold by the producer or feeder.
 
 #### (B) Processing
 
@@ -520,7 +520,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the order shall provide that 20 percent of the total assessments collected by the Board onthe marketing of domestic sheep and domestic sheep products in any 1 year from a State shall be returned to the qualified State sheep board of the State.
+&emsp;&emsp;Except as provided in subparagraph (B), the order shall provide that 20 percent of the total assessments collected by the Board on the marketing of domestic sheep and domestic sheep products in any 1 year from a State shall be returned to the qualified State sheep board of the State.
 
 #### (B) Exception
 
@@ -634,7 +634,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;&emsp;&emsp;(i) the issuance of general statements, based on the reports, of the number of persons subject to an order or statistical data collected from the persons, which statements do not identify the information furnished by any person; or
 
-&emsp;&emsp;&emsp;(ii) the publication, by direction of the Secretary, of the name of any person violating any order and a statement of the particular provisions of the order violated by the person.
+&emsp;&emsp;&emsp;(ii) the publication, by direction of the Secretary, of the name of any person violating any order and a statement of theparticular provisions of the order violated by the person.
 
 #### (D) Administration
 

@@ -10,11 +10,13 @@ Conduct of the Program.—(1) The Secretary of Defense shall provide for the con
 
 (2) The Secretary shall carry out the National Guard Challenge Program using—
 
-&emsp;(A) funds appropriated directly to the Secretary of Defense for the program, except that the amount of funds appropriated directly to the Secretary and expended for the program in a fiscal year may not exceed $62,500,000; and
+&emsp;(A) funds appropriated directly to the Secretary of Defense for the program, except that the amount of funds appropriated directly to the Secretary and expended for the program in fiscal year 2001 or 2002 may not exceed $62,500,000; and
 
 &emsp;(B) nondefense funds made available or transferred to the Secretary of Defense by other Federal agencies to support the program.
 
 (3) Federal funds made available or transferred to the Secretary of Defense under paragraph (2)(B) by other Federal agencies to support the National Guard Challenge Program may be expended for the program in excess of the fiscal year limitation specified in paragraph (2)(A).
+
+(4) The Secretary of Defense shall remain the executive agent to carry out the National Guard Challenge Program regardless of the source of funds for the program or any transfer of jurisdiction over the program within the executive branch. As provided in subsection (a), the Secretary may use the National Guard to conduct the program.
 
 (c)
 
@@ -60,7 +62,7 @@ Authorized Benefits for Participants.—(1) To the extent provided in an agreeme
 
 &emsp;(I) Subject to paragraph (2), a temporary stipend upon the successful completion of the training, as characterized in accordance with procedures provided in the agreement.
 
-(2) In the case of a person selected for training in the National Guard Challenge Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I)while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
+(2) In the case of a person selected for training in the National Guard Challenge Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
 
 (g)
 
@@ -128,13 +130,17 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 &emsp;(7) The procedures to be used by the Secretary when communicating with States about the program.
 
-(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140.)
+(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, §596(a), Dec. 28, 2001, 115 Stat. 1126.)
 
 #### References in Text
 
 The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle E of title I of the Act is classified generally to division E (§12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+2001—Subsec. (b)(2)(A). Pub. L. 107–107, §596(a)(1), substituted “in fiscal year 2001 or 2002” for “in a fiscal year”.
+
+Subsec. (b)(4). Pub. L. 107–107, §596(a)(2), added par. (4).
 
 2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)\], struck out “, acting through the Chief of the National Guard Bureau,” after “The Secretary of Defense”.
 
@@ -149,8 +155,4 @@ Subsec. (m). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(c)\], added sub
 1999—Subsec. (a). Pub. L. 106–65, §579(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the ‘National Guard Challenge Program’) to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth.”
 
 Subsec. (b). Pub. L. 106–65, §579(b), substituted “$62,500,000” for “$50,000,000”.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 2033.
 

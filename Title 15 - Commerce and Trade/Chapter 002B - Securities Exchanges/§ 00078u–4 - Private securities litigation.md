@@ -56,7 +56,7 @@
 
 #### (ii) Consolidated actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this chapterhas been filed, and any party has sought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this paragraph.
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this chapter has been filed, and any party has sought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this paragraph.
 
 #### (iii) Rebuttable presumption
 
@@ -298,7 +298,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;&emsp;Each covered person shall be jointly and severally liable for the uncollectible share if the plaintiff establishes that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the plaintiff is an individual whose recoverable damages under the final judgment are equal to more than 10 percent of the net worth of the plaintiff; and
+&emsp;&emsp;&emsp;&emsp;(I) the plaintiff is an individual whose recoverable damages under the finaljudgment are equal to more than 10 percent of the net worth of the plaintiff; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the net worth of the plaintiff is equal to less than $200,000.
 
@@ -372,7 +372,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;&emsp;&emsp;(II) persons are likely to reasonably rely on that misrepresentation or omission; and
 
-&emsp;&emsp;&emsp;(ii) with respect to an action that is based on any conduct that is not described in clause (i), if that covered person engages in that conduct with actual knowledge of the facts and circumstances that make the conduct of that covered person a violation of the securities laws;
+&emsp;&emsp;&emsp;(ii) with respect to an action that is based on any conduct that is not described in clause (i), if that covered person engages in that conduct with actual knowledge of the facts and circumstances thatmake the conduct of that covered person a violation of the securities laws;
 
 &emsp;&emsp;(B) reckless conduct by a covered person shall not be construed to constitute a knowing commission of a violation of the securities laws by that covered person;
 
@@ -416,7 +416,7 @@ This section not to affect or apply to any private action arising under this cha
 
 #### Construction
 
-Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
+Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
 #### Section Referred to in Other Sections
 

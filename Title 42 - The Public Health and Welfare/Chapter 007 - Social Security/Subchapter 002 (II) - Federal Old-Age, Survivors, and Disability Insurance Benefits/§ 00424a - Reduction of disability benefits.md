@@ -24,7 +24,7 @@ If for any month prior to the month in which an individual attains the age of 65
 
 &emsp;(6) the total of such individual's disability insurance benefits under section 423 of this title for such month and of any monthly insurance benefits under section 402 of this title for such month based on his wages and self-employment income, prior to reduction under this section.
 
-> In no case shall the reduction in the total of such benefits under sections 423 and 402 of thistitle for a month (in a continuous period of months) reduce such total below the sum of—
+> In no case shall the reduction in the total of such benefits under sections 423 and 402 of this title for a month (in a continuous period of months) reduce such total below the sum of—
 
 &emsp;(7) the total of the benefits under sections 423 and 402 of this title, after reduction under this section, with respect to all persons entitled to benefits on the basis of such individual's wages and self-employment income for such month which were determined for such individual and such persons for the first month for which reduction under this section was made (or which would have been so determined if all of them had been so entitled in such first month), and
 
@@ -42,7 +42,7 @@ Reduction of benefits under this section shall be made after any reduction under
 
 #### (d) Exception
 
-The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) of this section under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled to benefits under this subchapter on the basis of the wages and self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
+The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) of this section under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled tobenefits under this subchapter on the basis of the wages and self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
 
 #### (e) Conditions for payment
 
@@ -62,7 +62,7 @@ If it appears to the Commissioner of Social Security that an individual may be e
 
 #### (g) Proportionate reduction; application of excess
 
-Whenever a reduction in the total of benefits for any month based on an individual's wagesand self-employment income is made under this section, each benefit, except the disability insurance benefit, shall first be proportionately decreased, and any excess of such reduction over the sum of all such benefits other than the disability insurance benefits shall then be applied to such disability insurance benefit.
+Whenever a reduction in the total of benefits for any month based on an individual's wages and self-employment income is made under this section, each benefit, except the disability insurance benefit, shall first be proportionately decreased, and any excess of such reduction over the sum of all such benefits other than the disability insurance benefits shall then be applied to such disability insurance benefit.
 
 #### (h) Furnishing of information
 

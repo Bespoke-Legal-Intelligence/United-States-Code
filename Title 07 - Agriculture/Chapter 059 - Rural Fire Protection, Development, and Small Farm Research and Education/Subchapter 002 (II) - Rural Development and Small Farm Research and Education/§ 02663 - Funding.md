@@ -32,7 +32,7 @@ Payment of funds to any State for programs authorized under section 2662(a), (b)
 
 #### (f) Availability; budgets and accounts
 
-Funds shall be available for use by each State in the fiscal year for which appropriated and the next fiscal year following the fiscal year for which appropriated. Funds shall be budgeted andaccounted for on such forms and at such times as the Secretary shall prescribe.
+Funds shall be available for use by each State in the fiscal year for which appropriated and the next fiscal year following the fiscal year for which appropriated. Funds shall be budgeted and accounted for on such forms and at such times as the Secretary shall prescribe.
 
 #### (g) Financing of programs at other than cooperating institutions
 

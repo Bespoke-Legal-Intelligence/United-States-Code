@@ -38,5 +38,5 @@ Section 8003(b) of Pub. L. 103–355 provided that: “No petition may be filed 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 264 of this title; title 10 section 2375.
+This section is referred to in section 264 of this title; title 10 sections 2375, 2533a.
 

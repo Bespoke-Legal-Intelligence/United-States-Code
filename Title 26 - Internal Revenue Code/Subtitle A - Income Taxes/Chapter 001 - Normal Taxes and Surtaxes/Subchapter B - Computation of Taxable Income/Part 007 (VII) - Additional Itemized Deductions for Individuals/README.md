@@ -13,12 +13,14 @@
 | [219\.](%C2%A7%2000219%20-%20Retirement%20savings.md) | Retirement savings. |
 | [220\.](%C2%A7%2000220%20-%20Archer%20MSAs.md) | Archer MSAs. |
 | [221\.](%C2%A7%2000221%20-%20Interest%20on%20education%20loans.md) | Interest on education loans. |
-| [222\.](%C2%A7%2000222%20-%20Cross%20reference.md) | Cross reference. |
-| \[223. | Repealed.\] |
+| [222\.](%C2%A7%2000222%20-%20Qualified%20tuition%20and%20related%20expenses.md) | Qualified tuition and related expenses. |
+| [223\.](%C2%A7%2000223%20-%20Cross%20reference.md) | Cross reference. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title IV, §431(c)(4), June 7, 2001, 115 Stat. 68, added items 222 and 223 and struck out former item 222 “Cross reference”.
 
 <b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629, substituted “Archer MSAs” for “Medical savings accounts” in item 220.
 
@@ -68,5 +70,5 @@ This part is referred to in sections 62, 703, 773 of this title.
 - [&sect; 00219 - Retirement savings](%C2%A7%2000219%20-%20Retirement%20savings.md)
 - [&sect; 00220 - Archer MSAs](%C2%A7%2000220%20-%20Archer%20MSAs.md)
 - [&sect; 00221 - Interest on education loans](%C2%A7%2000221%20-%20Interest%20on%20education%20loans.md)
-- [&sect; 00222 - Cross reference](%C2%A7%2000222%20-%20Cross%20reference.md)
-- [&sect; 00223 - Renumbered &sect;222](%C2%A7%2000223%20-%20Renumbered%20%C2%A7222.md)
+- [&sect; 00222 - Qualified tuition and related expenses](%C2%A7%2000222%20-%20Qualified%20tuition%20and%20related%20expenses.md)
+- [&sect; 00223 - Cross reference](%C2%A7%2000223%20-%20Cross%20reference.md)

@@ -16,7 +16,7 @@ With respect to notice to withhold income pursuant to subsection (a)(1) or (b) o
 
 &emsp;&emsp;(A) designate an agent or agents to receive orders and accept service of process in matters relating to child support or alimony; and
 
-&emsp;&emsp;(B) annually publish in the Federal Register the designation of the agent or agents, identified by title or position, mailing address, and telephone number.
+&emsp;&emsp;(B) annually publish in the Federal Register the designation of the agent or agents,identified by title or position, mailing address, and telephone number.
 
 #### (2) Response to notice or process
 
@@ -78,7 +78,7 @@ Authority to promulgate regulations for the implementation of this section shall
 
 &emsp;&emsp;&emsp;&emsp;(IV) under any Federal program established to provide “black lung” benefits; or
 
-&emsp;&emsp;&emsp;&emsp;(V) by the Secretary of Veterans Affairs as compensation for a service-connected disability paid by the Secretary to a former member of the Armed Forces who is in receipt of retired or retainerpay if the former member has waived a portion of the retired or retainer pay in order to receive such compensation;
+&emsp;&emsp;&emsp;&emsp;(V) by the Secretary of Veterans Affairs as compensation for a service-connected disability paid by the Secretary to a former member of the Armed Forces who is in receipt of retired or retainer pay if the former member has waived a portion of the retired or retainer pay in order to receive such compensation;
 
 &emsp;&emsp;&emsp;(iii) worker's compensation benefits paid or payable under Federal or State law;
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) an authorized official pursuant to an order of such a court or an administrative agency of competent jurisdiction or pursuant to State or local law; and
 
-&emsp;&emsp;(B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a payment from the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
+&emsp;&emsp;(B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a paymentfrom the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
 
 (Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855.)
 

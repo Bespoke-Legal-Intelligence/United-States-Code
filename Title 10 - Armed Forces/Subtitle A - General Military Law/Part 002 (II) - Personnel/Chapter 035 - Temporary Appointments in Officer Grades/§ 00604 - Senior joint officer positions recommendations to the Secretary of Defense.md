@@ -20,7 +20,7 @@ Covered Positions.—Subsection (a) applies to the following positions:
 
 &emsp;(2) Commander, United States Forces, Korea.
 
-&emsp;(3) Deputy commander, United States European Command, but only if the commander of that command is also the Supreme Allied Commander, Europe.
+&emsp;(3) Deputy commander, United States European Command, but only if the commander ofthat command is also the Supreme Allied Commander, Europe.
 
 (c)
 

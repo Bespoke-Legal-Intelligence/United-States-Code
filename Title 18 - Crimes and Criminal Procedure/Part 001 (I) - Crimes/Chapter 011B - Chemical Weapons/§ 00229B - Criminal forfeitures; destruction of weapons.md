@@ -2,7 +2,7 @@
 
 (a)
 
-Property Subject to Criminal Forfeiture.—Any person convicted under section229A(a) shall forfeit to the United States irrespective of any provision of State law—
+Property Subject to Criminal Forfeiture.—Any person convicted under section 229A(a) shall forfeit to the United States irrespective of any provision of State law—
 
 &emsp;(1) any property, real or personal, owned, possessed, or used by a person involved in the offense;
 

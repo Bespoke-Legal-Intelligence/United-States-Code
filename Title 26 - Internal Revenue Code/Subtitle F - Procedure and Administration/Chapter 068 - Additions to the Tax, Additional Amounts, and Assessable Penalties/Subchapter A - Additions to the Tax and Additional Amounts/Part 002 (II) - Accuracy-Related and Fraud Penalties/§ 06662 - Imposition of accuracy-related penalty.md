@@ -130,7 +130,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 &emsp;&emsp;&emsp;(i) Any portion of the net increase in taxable income referred to in subparagraph (A) which is attributable to any redetermination of a price if—
 
-&emsp;&emsp;&emsp;&emsp;(I) it is established that the taxpayer determined such price in accordance with a specific pricing method set forth in the regulations prescribed under section 482 and that the taxpayer's use of such method was reasonable,
+&emsp;&emsp;&emsp;&emsp;(I) it is established that the taxpayer determined such price in accordancewith a specific pricing method set forth in the regulations prescribed under section 482 and that the taxpayer's use of such method was reasonable,
 
 &emsp;&emsp;&emsp;&emsp;(II) the taxpayer has documentation (which was in existence as of the time of filing the return) which sets forth the determination of such price in accordance with such a method and which establishes that the use of such method was reasonable, and
 
@@ -158,7 +158,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 #### (1) In general
 
-&emsp;For purposes of this section, there is a substantial overstatement of pension liabilities if the actuarial determination of the liabilities taken into account for purposes of computing the deduction under paragraph (1) or (2) of section 404(a) is 200 percent or more of theamount determined to be the correct amount of such liabilities.
+&emsp;For purposes of this section, there is a substantial overstatement of pension liabilities if the actuarial determination of the liabilities taken into account for purposes of computing the deduction under paragraph (1) or (2) of section 404(a) is 200 percent or more of the amount determined to be the correct amount of such liabilities.
 
 #### (2) Limitation
 
@@ -200,7 +200,7 @@ For purposes of this section, the term “negligence” includes any failure to 
 
 &emsp;&emsp;(C) any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “25 percent” for “50 percent”.
 
-(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508, title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928.)
+(Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2395; amended Pub. L. 101–508,title XI, §11312(a), (b), Nov. 5, 1990, 104 Stat. 1388–454, 1388–455; Pub. L. 103–66, title XIII, §§13236(a)–(d), 13251(a), Aug. 10, 1993, 107 Stat. 505, 506, 531; Pub. L. 103–465, title VII, §744(a), (b), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 105–34, title X, §1028(c), Aug. 5, 1997, 111 Stat. 928.)
 
 #### Prior Provisions
 

@@ -46,7 +46,7 @@ The Congress declares that the general welfare of the United States requires tha
 
 It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a), (b), (c), (d), (e), and (f) of this section.
 
-(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591.)
+(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978,92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591.)
 
 #### References in Text
 
@@ -92,7 +92,7 @@ Section 101 of Pub. L. 85–568 provided that: “This Act \[enacting this chapt
 
 #### Commission on the Future of the United States Aerospace Industry
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1092\], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1092\], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, as amended by Pub. L. 107–107, div. A, title X, §1062, Dec. 28, 2001, 115 Stat. 1232, provided that:
 
 “(a)
 
@@ -154,7 +154,7 @@ Duties.—(1) The Commission shall—
 
 “(d)
 
-Report.—(1) Not later than March 1, 2002, the Commission shall submit a report on its activities to the President and Congress.
+Report.—(1) Not later than one year after the date of the first official meeting of the Commission, the Commission shall submit a report on its activities to the President and Congress.
 
 “(2) The report shall include the following:
 
@@ -182,7 +182,7 @@ Commission Personnel Matters.—(1) Members of the Commission shall serve withou
 
 “(g)
 
-Termination.—The Commission shall terminate 30 days after the date of the submission of its report under subsection (d).”
+Termination.—The Commission shall terminate 60 days after the date of the submission of its report under subsection (d).”
 
 #### International Space Station
 
@@ -230,7 +230,7 @@ Calculation of launch costs.—For purposes of paragraph (1)(B)—
 
 &emsp;&emsp;“(A) not more than $380,000,000 in costs for any single space shuttle launch shall be taken into account; and
 
-&emsp;&emsp;“(B) if the space shuttle launch costs taken into account for any single space shuttle launch are less than $380,000,000, then the Administrator \[of the National Aeronautics and Space Administration\] shall arrange for a verification, by the General Accounting Office, of the accounting used to determine those costs and shall submit that verification to the Congress within 60 days after the date on which the next budget request is transmitted to the Congress.
+&emsp;&emsp;“(B) if the space shuttle launch costs taken into account for any single space shuttle launch are less than $380,000,000, then the Administrator \[of the National Aeronautics and Space Administration\] shall arrange for a verification, by the General Accounting Office, of the accounting used to determinethose costs and shall submit that verification to the Congress within 60 days after the date on which the next budget request is transmitted to the Congress.
 
 “(b)
 
@@ -350,7 +350,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 “(a)
 
-Research Utilization and Commercialization Management Activities.—The Administrator of the National Aeronautics and Space Administration shall enter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
+Research Utilization and Commercialization Management Activities.—The Administrator of the National Aeronautics and Space Administration shallenter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
 
 “(b)
 
@@ -412,7 +412,7 @@ Elements.—The review required by subsection (a) shall include—
 
 &emsp;“(1) an assessment of the direction of the National Aeronautics and Space Administration's astrobiology initiatives within the Origins program;
 
-&emsp;“(2) an assessment of the direction of other initiatives carried out by entities other than the National Aeronautics and Space Administration to determinethe extent of life in the universe, including other Federal agencies, foreign space agencies, and private groups such as the Search for Extraterrestrial Intelligence Institute;
+&emsp;“(2) an assessment of the direction of other initiatives carried out by entities other than the National Aeronautics and Space Administration to determine the extent of life in the universe, including other Federal agencies, foreign space agencies, and private groups such as the Search for Extraterrestrial Intelligence Institute;
 
 &emsp;“(3) recommendations about scientific and technological enhancements that could be made to the National Aeronautics and Space Administration's astrobiology initiatives to effectively utilize the initiatives of the scientific and technical communities; and
 
@@ -546,7 +546,7 @@ Pub. L. 102–588, title I, §102(g), Nov. 4, 1992, 106 Stat. 5111, provided tha
 
 &emsp;“(3) the United States aeronautics and space program genuinely reflects our Nation's pioneer heritage and demonstrates our quest for leadership, economic growth, and human understanding;
 
-&emsp;“(4) the United States space program is based on a solid record of achievement and continues to promote the objective of international cooperation in the exploration of the planets and the universe;
+&emsp;“(4) the United States space program is based on a solid record of achievement and continues to promotethe objective of international cooperation in the exploration of the planets and the universe;
 
 &emsp;“(5) the United States aeronautics and space program generates critical technology breakthroughs that benefit our economy through new products and processes that significantly improve our standard of living;
 
@@ -682,7 +682,7 @@ Section 101 of Pub. L. 100–685 provided that: “Congress finds that—
 
 &emsp;“(8) the Administration should encourage the United States private sector investment in space and, to the maximum extent practicable provide frequent flight opportunities for the development of technologies, processes and products that benefit from the space environment;
 
-&emsp;“(9) the Administration should enhance the existing space transportation capability through a robustmixed fleet of manned and unmanned vehicles in order to increase the reliability, productivity, and efficiency and reduce the cost of the Nation's access to space;
+&emsp;“(9) the Administration should enhance the existing space transportation capability through a robust mixed fleet of manned and unmanned vehicles in order to increase the reliability, productivity, and efficiency and reduce the cost of the Nation's access to space;
 
 &emsp;“(10) the United States faces an increasingly successful foreign challenge to its traditional preeminent position in aeronautics which is rapidly reducing its lead in both civil and military aircraft;
 

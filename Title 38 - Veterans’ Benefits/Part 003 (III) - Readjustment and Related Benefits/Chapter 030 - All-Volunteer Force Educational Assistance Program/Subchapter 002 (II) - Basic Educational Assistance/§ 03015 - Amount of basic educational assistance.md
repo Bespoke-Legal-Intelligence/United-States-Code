@@ -2,13 +2,29 @@
 
 (a) The amount of payment of educational assistance under this chapter is subject to section 3032 of this title. Except as otherwise provided in this section, in the case of an individual entitled to an educational assistance allowance under this chapter whose obligated period of active duty on which such entitlement is based is three years, a basic educational assistance allowance under this subchapter shall be paid—
 
-&emsp;(1) at the monthly rate of $650 (as increased from time to time under) <sup>1</sup> for an approved program of education pursued on a full-time basis; or
+&emsp;(1) for an approved program of education pursued on a full-time basis, at the monthly rate of—
+
+&emsp;&emsp;(A) for months beginning on or after January 1, 2002, $800;
+
+&emsp;&emsp;(B) for months occurring during fiscal year 2003, $900;
+
+&emsp;&emsp;(C) for months occurring during fiscal year 2004, $985; and
+
+&emsp;&emsp;(D) for months occurring during a subsequent fiscal year, the amount for months occurring during the previous fiscal year increased under subsection (h); or
 
 &emsp;(2) at an appropriately reduced rate, as determined under regulations which the Secretary shall prescribe, for an approved program of education pursued on less than a full-time basis.
 
 (b) In the case of an individual entitled to an educational assistance allowance under section 3011 or 3018 of this title whose obligated period of active duty on which such entitlement is based is two years, a basic educational assistance allowance under this chapter shall (except as provided in the succeeding subsections of this section) be paid—
 
-&emsp;(1) at the monthly rate of $528 (as increased from time to time under) <sup>1</sup> for an approved program of education pursued on a full-time basis; or
+&emsp;(1) for an approved program of education pursued on a full-time basis, at the monthly rate of—
+
+&emsp;&emsp;(A) for months beginning on or after January 1, 2002, $650;
+
+&emsp;&emsp;(B) for months occurring during fiscal year 2003, $732;
+
+&emsp;&emsp;(C) for months occurring during fiscal year 2004, $800; and
+
+&emsp;&emsp;(D) for months occurring during a subsequent fiscal year, the amount for months occurring during the previous fiscal year increased under subsection (h); or
 
 &emsp;(2) at an appropriately reduced rate, as determined under regulations which the Secretary shall prescribe, for an approved program of education pursued on less than a full-time basis.
 
@@ -22,9 +38,9 @@
 
 &emsp;(C) who, after the completion of that continuous period of active duty, meets one of the conditions set forth in subsection (a)(3) of such section 3011.
 
-(d)(1) In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit, the Secretary concerned, pursuant to regulations to be prescribed by the Secretary of Defense, may, at the time the individual first becomes a member of the Armed Forces, increase the rate of the basic educational assistance allowance applicable to such individual to such rate in excess of the rate prescribed under subsections (a), (b), and (c) of this section as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $950 per month.
+(d)(1) In the case of an individual who has a skill or specialty designated by the Secretary concerned as a skill or specialty in which there is a critical shortage of personnel or for which it is difficult to recruit, the Secretary concerned, pursuant to regulations to be prescribed by theSecretary of Defense, may, at the time the individual first becomes a member of the Armed Forces, increase the rate of the basic educational assistance allowance applicable to such individual to such rate in excess of the rate prescribed under subsections (a), (b), and (c) of this section as the Secretary of Defense considers appropriate, but the amount of any such increase may not exceed $950 per month.
 
-(2) In the case of an individual who after October 7, 1997, receives an enlistment bonus under section 308a or 308f <sup>2</sup> of title 37, receipt of that bonus does not affect the eligibility of that individual for an increase under paragraph (1) in therate of the basic educational assistance allowance applicable to that individual, and the Secretary concerned may provide such an increase for that individual (and enter into an agreement with that individual that the United States agrees to make payments pursuant to such an increase) without regard to any provision of law (enacted before, on, or after the date of the enactment of this paragraph) that limits the authority to make such payments.
+(2) In the case of an individual who after October 7, 1997, receives an enlistment bonus under section 308a or 308f <sup>1</sup> of title 37, receipt of that bonus does not affect the eligibility of that individual for an increase under paragraph (1) in the rate of the basic educational assistance allowance applicable to that individual, and the Secretary concerned may provide such an increase for that individual (and enter into an agreement with that individual that the United States agrees to make payments pursuant to such an increase) without regard to any provision of law (enacted before, on, or after the date of the enactment of this paragraph) that limits the authority to make such payments.
 
 (e)(1)(A) Except as provided in subparagraph (B) of this paragraph and subject to paragraph (2) of this subsection, in the case of an individual who on December 31, 1989, was entitled to educational assistance under chapter 34 of this title, the rate of the basic educational assistance allowance applicable to such individual under this chapter shall be increased by the amount equal to one-half of the educational assistance allowance that would be applicable to such individual under such chapter 34 (as of the time the assistance under this chapter is provided and based on the rates in effect on December 31, 1989) if such chapter were in effect.
 
@@ -34,33 +50,45 @@
 
 (f) In the case of an individual for whom the Secretary of Defense made contributions under section 3222(c) of this title and who is entitled to educational assistance under section 3018A, 3018B, or 3018C of this chapter, the Secretary shall increase the rate of the basic educational assistance allowance applicable to such individual in excess of the rate provided under subsection (a) of this section in a manner consistent with, as determined by the Secretary of Defense, the agreement entered into with such individual pursuant to the rules and regulations issued by the Secretary of Defense under section 3222(c) of this title.
 
-(g) In the case of an individual who has made contributions authorized by section 3011(e) or 3012(f) of this title, the monthly amount of basic educational assistance allowance applicable to such individual under subsection (a), (b), or (c) shall be the monthly rate otherwise provided for under the applicable subsection increased by—
+(g) In the case of an individual who has made contributions authorized by section 3011(e) or 3012(f) of this title, effective as of the first day of the enrollment period following receipt of such contributions from such individual by the Secretary concerned, the monthly amount of basic educational assistance allowance applicable to such individual under subsection (a), (b), or (c) shall be the monthly rate otherwise provided for under the applicable subsection increased by—
 
-&emsp;(1) an amount equal to $1 for each $4 contributed by such individual under section 3011(e) or 3012(f), as the case may be, for an approved program of education pursued on a full-time basis; or
+&emsp;(1) an amount equal to $5 for each $20 contributed by such individual under section 3011(e) or 3012(f) of this title, as the case may be, for an approved program of education pursued on a full-time basis; or
 
 &emsp;(2) an appropriately reduced amount based on the amount so contributed, as determined under regulations which the Secretary shall prescribe, for an approved program of education pursued on less than a full-time basis.
 
-(h) <sup>3</sup> In the case of an individual who has been paid a basic educational assistance allowance under section 3014(b) of this title, the rate of the basic educational assistance allowance applicable to the individual under this section shall be the rate otherwise applicable to the individual under this section reduced by an amount equal to—
-
-&emsp;(1) the aggregate amount of such allowances paid the individual under such section 3014(b); divided by
-
-&emsp;(2) 36.
-
-(h) <sup>3</sup> With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subsections (a)(1) and (b)(1) equal to the percentage by which—
+(h) With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subsections (a)(1) and (b)(1) equal to the percentage by which—
 
 &emsp;(1) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
 &emsp;(2) such Consumer Price Index for the 12-month period preceding the 12-month period described in paragraph (1).
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1415; amended Pub. L. 100–689, title I, §§103(b)(3), 111(a)(5)(A), Nov. 18, 1988, 102 Stat. 4165, 4171; Pub. L. 101–189, div. A, title VI, §641, Nov. 29, 1989, 103 Stat. 1456; Pub. L. 101–237, title IV, §423(b)(1)(A), (5), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(2), Nov. 5, 1990, 104 Stat. 1573; Pub. L. 102–25, title III, §337(a), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–54, §14(c)(1), June 13, 1991, 105 Stat. 284; renumbered §3015 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§301(a), (c), 307(a), (b), Oct. 29, 1992, 106 Stat. 4325, 4326, 4328, 4329; Pub. L. 103–66, title XII, §12009(a), (d)(1), (2), Aug. 10, 1993, 107 Stat. 415, 416; Pub. L. 104–275, title I, §106(b)(3), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 105–114, title IV, §401(b), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–178, title VIII, §8203(a)(1)–(3), June 9, 1998, 112 Stat. 493; Pub. L. 105–261, div. A, title V, §565(a), title VI, §656(a), Oct. 17, 1998, 112 Stat. 2029, 2053; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §§101(a), 103(d), 105(b), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1415; amended Pub. L. 100–689, title I, §§103(b)(3), 111(a)(5)(A), Nov. 18, 1988, 102 Stat. 4165, 4171; Pub. L. 101–189, div. A, title VI, §641, Nov. 29, 1989, 103 Stat. 1456; Pub. L. 101–237, title IV, §423(b)(1)(A), (5), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(2), Nov. 5, 1990, 104 Stat. 1573; Pub. L. 102–25, title III, §337(a), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–54, §14(c)(1), June 13, 1991, 105 Stat. 284; renumbered §3015 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§301(a), (c), 307(a), (b), Oct. 29, 1992, 106 Stat. 4325, 4326, 4328, 4329; Pub. L. 103–66, title XII, §12009(a), (d)(1), (2), Aug. 10, 1993, 107 Stat. 415, 416; Pub. L. 104–275, title I, §106(b)(3), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 105–114, title IV, §401(b), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–178, title VIII, §8203(a)(1)–(3), June 9, 1998, 112 Stat. 493; Pub. L. 105–261, div. A, title V, §565(a), title VI, §656(a), Oct. 17, 1998, 112 Stat. 2029, 2053; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1602(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, §§101(a), 103(d), 105(b), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829; Pub. L. 107–14, §7(b)(2)(A), (c)(3), June 5, 2001, 115 Stat. 31, 32; Pub. L. 107–103, title I, §101(a), Dec. 27, 2001, 115 Stat. 977.)
 
 #### References in Text
 
-Sections 308a and 308f of title 37, referred to in subsec. (d)(2), were repealed by Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
+Sections 308a and 308f of title 37, referred to in subsec. (d)(2), were repealed by Pub. L. 106–398, §1 \[\[div. A\],title VI, §624(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 105–261 which was approved Oct. 17, 1998.
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–103, §101(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “at the monthly rate of $650 (as increased from time to time under subsection (h)) for an approved program of education pursued on a full-time basis; or”.
+
+Pub. L. 107–14, §7(b)(2)(A)(i), inserted “subsection (h)” after “from time to time under”.
+
+Subsec. (b)(1). Pub. L. 107–103, §101(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “at the monthly rate of $528 (as increased from time to time under subsection (h)) for an approved program of education pursued on a full-time basis; or”.
+
+Pub. L. 107–14, §7(b)(2)(A)(i), inserted “subsection (h)” after “from time to time under”.
+
+Subsec. (g). Pub. L. 107–14, §7(c)(3)(A), in introductory provisions, inserted “effective as of the first day of the enrollment period following receipt of such contributions from such individual by the Secretary concerned,” after “by section 3011(e) or 3012(f) of this title,”.
+
+Subsec. (g)(1). Pub. L. 107–14, §7(c)(3)(B), substituted “amount equal to $5 for each $20 contributed” for “amount equal to $1 for each $4 contributed” and inserted “of this title” after “section 3011(e) or 3012(f)”.
+
+Subsec. (h). Pub. L. 107–14, §7(b)(2)(A)(ii), struck out subsec. (h) which read as follows: “In the case of an individual who has been paid a basic educational assistance allowance under section 3014(b) of this title, the rate of the basic educational assistance allowance applicable to the individual under this section shall be the rate otherwise applicable to the individual under this section reduced by an amount equal to—
+
+&emsp;“(1) the aggregate amount of such allowances paid the individual under such section 3014(b); divided by
+
+&emsp;“(2) 36.”
 
 2000—Subsec. (a). Pub. L. 106–419, §103(d)(1), inserted “in the case of an individual entitled to an educational assistance allowance under this chapter whose obligated period of active duty on which such entitlement is based is three years,” before “a basic educational assistance allowance” in introductory provisions.
 
@@ -164,6 +192,12 @@ Pub. L. 101–189 inserted “, in the case of an individual who first became a
 
 Subsec. (b). Pub. L. 100–689, §103(b)(3), inserted reference to section 1418 of this title.
 
+#### Effective Date of 2001 Amendment
+
+Amendment by section 7(b)(2)(A) of Pub. L. 107–14 effective as if enacted on Nov. 1, 2000, immediately after the enactment of Pub. L. 106–419, see section 7(b)(3) of Pub. L. 107–14, set out as a note under section 3014 of this title.
+
+Amendment by section 7(c)(3) of Pub. L. 107–14 effective as if included in the enactment of section 105 of Pub. L. 106–419, see section 7(c)(4) of Pub. L. 107–14, set out as a note under section 3011 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–419, title I, §101(b), Nov. 1, 2000, 114 Stat. 1824, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on November 1, 2000, and shall apply with respect to educational assistance allowances paid under chapter 30 of title 38, United States Code, for months after October 2000.”
@@ -186,17 +220,15 @@ Amendment by section 301(a) and (c) of Pub. L. 102–568 effective Apr. 1, 1993,
 
 Section 307(c) of Pub. L. 102–568 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect as if enacted on June 30, 1985, and apply to the payment of educational assistance for education or training pursued on or after September 1, 1993.”
 
-#### 1995 Cost-of-Living Adjustment in Rates of Educational Assistance
+#### Adjustment in Rates of Educational Assistance
+
+Pub. L. 107–103, title I, §101(b), Dec. 27, 2001, 115 Stat. 978, provided that: “No adjustment in rates of educational assistance shall be made under section 3015(h) of title 38, United States Code, for fiscal years 2003 and 2004.”
 
 Fiscal year 1995 cost-of-living adjustments in rates of educational assistance payable under this chapter to be percentage equal to 50 percent of percentage by which such assistance would be increased under subsec. (g) \[now (h)\] of this section but for section 12009 of Pub. L. 103–66, see section 12009(c) of Pub. L. 103–66, set out as a note under section 16131 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3011, 3012, 3014, 3018A, 3018B, 3018C, 3032, 3035 of this title; title 10 sections 2006, 16131; title 42 section 12603.
+This section is referred to in sections 3011, 3012, 3014, 3014A, 3018A, 3018B, 3018C, 3032, 3035 of this title; title 10 sections 2006, 16131; title 42 section 12603.
 
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

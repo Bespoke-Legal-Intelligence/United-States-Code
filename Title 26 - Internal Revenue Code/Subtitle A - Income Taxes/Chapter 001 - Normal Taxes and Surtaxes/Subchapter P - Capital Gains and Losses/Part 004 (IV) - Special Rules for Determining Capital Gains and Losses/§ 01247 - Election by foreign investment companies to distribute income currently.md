@@ -38,7 +38,7 @@
 
 The election of any foreign investment company under this section shall terminate as of the close of the taxable year preceding its first taxable year in which any of the following occurs:
 
-&emsp;(1) the company fails to comply with the provisions of subparagraph (A), (B), or (C) ofsubsection (a)(1), unless it is shown that such failure is due to reasonable cause and not due to willful neglect,
+&emsp;(1) the company fails to comply with the provisions of subparagraph (A), (B), or (C) of subsection (a)(1), unless it is shown that such failure is due to reasonable cause and not due to willful neglect,
 
 &emsp;(2) the company is a foreign personal holding company, or
 
@@ -110,7 +110,7 @@ If—
 
 > then any loss on the sale or exchange of such share shall, to the extent of the amount described in paragraph (1), be treated as loss from the sale or exchange of a capital asset held for more than 1 year.
 
-(Added Pub. L. 87–834, §14(a)(1), Oct. 16, 1962, 76 Stat. 1037; amended Pub. L. 94–455, title XIV, §1402(b)(1)(X), (2), title XIX, §§1901(b)(33)(P), (R), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1802, 1834;Pub. L. 98–369, div. A, title X, §1001(b)(21), (e), July 18, 1984, 98 Stat. 1012.)
+(Added Pub. L. 87–834, §14(a)(1), Oct. 16, 1962, 76 Stat. 1037; amended Pub. L. 94–455, title XIV, §1402(b)(1)(X), (2), title XIX, §§1901(b)(33)(P), (R), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1802, 1834; Pub. L. 98–369, div. A, title X, §1001(b)(21), (e), July 18, 1984, 98 Stat. 1012.)
 
 #### Amendments
 

@@ -24,7 +24,7 @@ In regulating the railroad industry, it is the policy of the United States Gover
 
 &emsp;(11) to encourage fair wages and safe and suitable working conditions in the railroad industry;
 
-&emsp;(12) to prohibit predatory pricing and practices, to avoid undue concentrations of market power, and to prohibit unlawful discrimination;
+&emsp;(12) to prohibit predatory pricing and practices, to avoid undue concentrations of marketpower, and to prohibit unlawful discrimination;
 
 &emsp;(13) to ensure the availability of accurate cost information in regulatory proceedings, while minimizing the burden on rail carriers of developing and maintaining the capability of providing such information;
 

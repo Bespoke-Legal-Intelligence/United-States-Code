@@ -10,11 +10,11 @@ For the purposes of this section, the term “program or activity” means all o
 
 &emsp;(1)(A) a department, agency, special purpose district, or other instrumentality of a State or of a local government; or
 
-&emsp;(B) the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to whichthe assistance is extended, in the case of assistance to a State or local government;
+&emsp;(B) the entity of such State or local government that distributes such assistance and each such department or agency (and each other State or local government entity) to which the assistance is extended, in the case of assistance to a State or local government;
 
 &emsp;(2)(A) a college, university, or other postsecondary institution, or a public system of higher education; or
 
-&emsp;(B) a local educational agency (as defined in section 8801 of title 20), system of vocational education, or other school system;
+&emsp;(B) a local educational agency (as defined in section 7801 of title 20), system of vocational education, or other school system;
 
 &emsp;(3)(A) an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
 
@@ -36,7 +36,7 @@ Small providers are not required by subsection (a) of this section to make signi
 
 The standards used to determine whether this section has been violated in a complaint alleging employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510, of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, §103(d)(2)(B), title X, §1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, §4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, §206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(32), title V, §506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, §394(i)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–220, title IV, §408(a)(3), Aug. 7, 1998, 112 Stat. 1203.)
+(Pub. L. 93–112, title V, §504, Sept. 26, 1973, 87 Stat. 394; Pub. L. 95–602, title I, §§119, 122(d)(2), Nov. 6, 1978, 92 Stat. 2982, 2987; Pub. L. 99–506, title I, §103(d)(2)(B), title X, §1002(e)(4), Oct. 21, 1986, 100 Stat. 1810, 1844; Pub. L. 100–259, §4, Mar. 22, 1988, 102 Stat. 29; Pub. L. 100–630, title II, §206(d), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title I, §102(p)(32), title V, §506, Oct. 29, 1992, 106 Stat. 4360, 4428; Pub. L. 103–382, title III, §394(i)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–220, title IV, §408(a)(3), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 107–110, title X, §1076(u)(2), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### References in Text
 
@@ -45,6 +45,8 @@ The amendments to this section made by the Rehabilitation, Comprehensive Service
 The Americans with Disabilities Act of 1990, referred to in subsec. (d), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (b)(2)(B). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
 
 1998—Subsec. (a). Pub. L. 105–220 substituted “section 705(20)” for “section 706(8)”.
 
@@ -68,6 +70,10 @@ Subsec. (c). Pub. L. 100–259, §4(2), added subsec. (c).
 
 1978—Pub. L. 95–602 substituted “section 706(7) of this title” for “section 706(6) of this title” and inserted provision prohibiting discrimination under any program or activity conducted by any Executive agency or by the United States Postal Service and requiring the heads of these agencies to promulgate regulations prohibiting discrimination.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
+
 #### Exclusion From Coverage
 
 Amendment by Pub. L. 100–259 not to be construed to extend application of this chapter to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
@@ -90,5 +96,5 @@ Ex. Ord. No. 11914, Apr. 28, 1976, 41 F.R. 17871, which related to nondiscrimina
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 705, 721, 772, 794a, 794d, 2618, 2938, 3011 of this title; title 5 section3102; title 7 section 2279d; title 12 section 1715z–1a; title 16 sections 410aaa–41, 410aaa–52; title 20 sections 1140c, 1231e, 1232e, 2415, 8066, 8507; title 25 section 2005; title 42 sections 290cc–33, 300w–7, 300x–57, 608, 708, 1437c–1, 1437aaa–1, 1437aaa–2, 1760, 1786, 2000d–7, 3608, 3796gg–7, 5057, 5309, 6727, 8625, 9849, 9918, 10406, 11386, 11394, 12134, 12142, 12143, 12144, 12146, 12147, 12148, 12162, 12635, 12832, 12872, 12873, 12892, 12893, 12899b, 12899c, 13603; title 49 section 5310.
+This section is referred to in sections 705, 721, 772, 794a, 794d, 2618, 2938, 3011 of this title; title 5 section 3102; title 7 section 2279d; title 12 section 1715z–1a; title 16 sections 410aaa–41, 410aaa–52; title 20 sections 1140c, 1231e, 1232e, 2415, 7221i; title 25 section 2005; title 42 sections 290cc–33, 300w–7, 300x–57, 608, 708, 1437c–1, 1437aaa–1, 1437aaa–2, 1760, 1786, 2000d–7, 3608, 3796gg–7, 5057, 5309, 6727, 8625, 9849, 9918, 10406, 11386, 11394, 12134, 12142, 12143, 12144, 12146, 12147, 12148, 12162, 12635, 12832, 12872, 12873, 12892, 12893, 12899b, 12899c, 13603; title 49 section 5310.
 

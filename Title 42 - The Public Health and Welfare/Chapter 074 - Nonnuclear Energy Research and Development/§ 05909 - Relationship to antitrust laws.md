@@ -24,7 +24,7 @@ Act of October 15, 1914, referred to in subsec. (b)(2), is act Oct. 15, 1914, ch
 
 The Federal Trade Commission Act (15 U.S.C. 41 et seq.), as amended, referred to in subsec. (b)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
-Act of June 19, 1936, referred to in subsec. (b)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
+Act of June 19, 1936, chapter 592, referred to in subsec. (b)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
 #### Section Referred to in Other Sections
 

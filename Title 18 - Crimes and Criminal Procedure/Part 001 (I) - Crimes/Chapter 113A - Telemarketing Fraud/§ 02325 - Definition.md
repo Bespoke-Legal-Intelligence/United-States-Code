@@ -4,11 +4,13 @@ In this chapter, “telemarketing”—
 
 &emsp;(1) means a plan, program, promotion, or campaign that is conducted to induce—
 
-&emsp;&emsp;(A) purchases of goods or services; or
+&emsp;&emsp;(A) purchases of goods or services;
 
-&emsp;&emsp;(B) participation in a contest or sweepstakes,
+&emsp;&emsp;(B) participation in a contest or sweepstakes; or
 
-> &emsp;by use of 1 or more interstate telephone calls initiated either by a person who is conducting the plan, program, promotion, or campaign or by a prospective purchaser or contest or sweepstakes participant; but
+&emsp;&emsp;(C) a charitable contribution, donation, or gift of money or any other thing of value,
+
+> &emsp;by use of 1 or more interstate telephone calls initiated either by a person who is conducting the plan, program, promotion, or campaign or by a prospective purchaser or contest or sweepstakes participant or charitable contributor, or donor; but
 
 &emsp;(2) does not include the solicitation of sales through the mailing of a catalog that—
 
@@ -22,7 +24,11 @@ In this chapter, “telemarketing”—
 
 > &emsp;if the person making the solicitation does not solicit customers by telephone but only receives calls initiated by customers in response to the catalog and during those calls takes orders without further solicitation.
 
-(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082.)
+(Added Pub. L. 103–322, title XXV, §250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 107–56, title X, §1011(d), Oct. 26, 2001, 115 Stat. 396.)
+
+#### Amendments
+
+2001—Par. (1). Pub. L. 107–56 added subpar. (C) and inserted “or charitable contributor, or donor” before semicolon in concluding provisions.
 
 #### Short Title
 

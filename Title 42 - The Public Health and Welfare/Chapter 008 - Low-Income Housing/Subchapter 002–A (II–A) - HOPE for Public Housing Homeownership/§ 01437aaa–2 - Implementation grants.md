@@ -112,7 +112,7 @@ The Secretary shall establish selection criteria for a national competition for 
 
 &emsp;(4) the quality and viability of the proposed homeownership program, including the viability of the economic self-sufficiency plan;
 
-&emsp;(5) the extent to which funds for activities that do not qualify as eligible activities will be provided in support of the homeownership program;
+&emsp;(5) the extent to which funds for activities that do not qualify as eligible activities willbe provided in support of the homeownership program;
 
 &emsp;(6) whether the approved comprehensive housing affordability strategy for the jurisdiction within which the public housing project is located includes the proposed homeownership program as one of the general priorities identified pursuant to section 105(b)(7) of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12705(b)(7)\];
 

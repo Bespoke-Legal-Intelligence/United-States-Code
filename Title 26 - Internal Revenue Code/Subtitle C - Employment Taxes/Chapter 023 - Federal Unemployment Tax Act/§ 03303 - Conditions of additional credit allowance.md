@@ -54,7 +54,7 @@ As used in this section—
 
 &emsp;The term “guaranteed employment account” means a separate account, in an unemployment fund, maintained with respect to a person (or group of persons) having individuals in his (or their) employ who, in accordance with the provisions of the State law or of a plan thereunder approved by the State agency,
 
-&emsp;&emsp;(A) guarantees in advance at least 30 hours of work, for which remuneration will be paid at not less than stated rates, for each of 40 weeks (or if more, 1 weekly hour may be deducted for each added week guaranteed) in a year, to all the individuals who are in his (or their) employ in, and who continue to beavailable for suitable work in, one or more distinct establishments, except that any such individual's guaranty may commence after a probationary period (included within the 11 or less consecutive weeks immediately following the first week in which the individual renders services), and
+&emsp;&emsp;(A) guarantees in advance at least 30 hours of work, for which remuneration will be paid at not less than stated rates, for each of 40 weeks (or if more, 1 weekly hour may be deducted for each added week guaranteed) in a year, to all the individuals who are in his (or their) employ in, and who continue to be available for suitable work in, one or more distinct establishments, except that any such individual's guaranty may commence after a probationary period (included within the 11 or less consecutive weeks immediately following the first week in which the individual renders services), and
 
 &emsp;&emsp;(B) gives security or assurance, satisfactory to the State agency, for the fulfillment of such guaranties, from which account, unless such account is exhausted or terminated, is paid all and only compensation, payable on the basis of services performed for such person (or for one or more of the persons comprising the group), to any such individual whose guaranteed remuneration has not been paid (either pursuant to the guaranty or from the security or assurance provided for the fulfillment of the guaranty), or whose guaranty is not renewed and who is otherwise eligible for compensation under the State law.
 
@@ -76,7 +76,7 @@ As used in this section—
 
 #### (d) Voluntary contributions
 
-A State law may, without being deemed to violate the standards set forth in subsection (a), permit voluntary contributions to be used in the computation of reduced rates if such contributions are paid prior to the expiration of 120 days after the beginning of the year for which such rates are effective.
+A State law may, without being deemed to violate the standards set forth in subsection (a), permit voluntary contributions to be used in the computation of reduced rates if such contributions are paid prior to the expiration of 120 daysafter the beginning of the year for which such rates are effective.
 
 #### (e) Payments by certain nonprofit organizations
 

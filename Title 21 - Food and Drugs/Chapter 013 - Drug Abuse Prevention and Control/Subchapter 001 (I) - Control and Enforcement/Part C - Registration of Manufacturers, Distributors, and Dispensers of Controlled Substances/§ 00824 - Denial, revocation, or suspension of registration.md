@@ -10,7 +10,7 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 &emsp;(3) has had his State license or registration suspended, revoked, or denied by competent State authority and is no longer authorized by State law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
 
-&emsp;(4) has committed such acts as would render his registration under section 823 of this title inconsistent with the public interest as determined under such section; or
+&emsp;(4) has committed such acts as would render his registration under section 823 of this titleinconsistent with the public interest as determined under such section; or
 
 &emsp;(5) has been excluded (or directed to be excluded) from participation in a program pursuant to section 1320a–7(a) of title 42.
 
@@ -26,7 +26,7 @@ Before taking action pursuant to this section, or pursuant to a denial of regist
 
 #### (d) Suspension of registration in cases of imminent danger
 
-The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g)(1) of this title may be treatedunder this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
+The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(g)(1) of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
 #### (e) Suspension and revocation of quotas
 
@@ -50,7 +50,7 @@ Subchapter II of this chapter, referred to in subsec. (a)(1), (2), was in the or
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–310, §3502(b)(1), substituted “section 823(g)(1) of this title” for “section 823(g) of this title” in two places in concluding provisions.
+2000—Subsec. (a). Pub. L. 106–310, §3502(b)(1), substituted “section 823(g)(1) of this title” for “section823(g) of this title” in two places in concluding provisions.
 
 Subsec. (d). Pub. L. 106–310, §3502(b)(2), substituted “section 823(g)(1) of this title” for “section 823(g) of this title”.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93,set out as a note under section 1320a–7 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of Title 42, The Public Health and Welfare.
 
 #### Provisional Registration
 

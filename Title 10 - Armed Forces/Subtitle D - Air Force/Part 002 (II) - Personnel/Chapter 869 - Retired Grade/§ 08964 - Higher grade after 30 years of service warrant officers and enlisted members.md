@@ -34,7 +34,7 @@ Aug. 21, 1941, ch. 384, §5 (1st proviso, less last 39 words; and last proviso);
 
 June 29, 1948, ch. 708, §203(e) (less 30 words before proviso), 62 Stat. 1086.
 
-The words “when his active service plus his service on the retired list totals 30 years” are substituted for the words “upon the completion of thirty years’ \[years of\] service, to include the sum of his active service andhis service on the retired list”, in 10:594 and 1004. The words “under any provision of law”, in 10:594 and 1004; “officer, flight officer, or warrant officer”, in 10:594; and “commissioned, warrant, or enlisted”, in 10:1004; are omitted as surplusage. 10:594 (last proviso) and 1004 (proviso) are omitted as superseded by section 1372 of this title.
+The words “when his active service plus his service on the retired list totals 30 years” are substituted for the words “upon the completion of thirty years’ \[years of\] service, to include the sum of his active service and his service on the retired list”, in 10:594 and 1004. The words “under any provision of law”, in 10:594 and 1004; “officer, flight officer, or warrant officer”, in 10:594; and “commissioned, warrant, or enlisted”, in 10:1004; are omitted as surplusage. 10:594 (last proviso) and 1004 (proviso) are omitted as superseded by section 1372 of this title.
 
 1958
 

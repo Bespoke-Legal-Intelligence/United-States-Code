@@ -8,7 +8,7 @@ As used in this subchapter—
 
 (c) The term “used fur” means fur in any form which has been worn or used by an ultimate consumer.
 
-(d) The term “fur product” means any article of wearing apparel made in whole or in part offur or used fur; except that such term shall not include such articles (other than any dog or cat fur product to which section 1308 of title 19 applies) as the Commission shall exempt by reason of the relatively small quantity or value of the fur or used fur contained therein.
+(d) The term “fur product” means any article of wearing apparel made in whole or in part of fur or used fur; except that such term shall not include such articles (other than any dog or cat fur product to which section 1308 of title 19 applies) as the Commission shall exempt by reason of the relatively small quantity or value of the fur or used fur contained therein.
 
 (e) The term “waste fur” means the ears, throats, or scrap pieces which have been severed from the animal pelt, and shall include mats or plates made therefrom.
 

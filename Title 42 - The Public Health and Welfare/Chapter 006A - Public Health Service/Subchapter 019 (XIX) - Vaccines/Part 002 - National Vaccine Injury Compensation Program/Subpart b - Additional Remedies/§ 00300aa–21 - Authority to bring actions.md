@@ -24,7 +24,7 @@ A petitioner under a petition filed under section 300aa–11 of this title may s
 
 A civil action for damages arising from a vaccine-related injury or death for which a petition was filed under section 300aa–11 of this title shall, except as provided in section 300aa–16(c) of this title, be brought within the period prescribed by limitations of actions under State law applicable to such civil action.
 
-(July 1, 1944, ch. 373, title XXI, §2121, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100Stat. 3772; amended Pub. L. 100–203, title IV, §§4304(c), 4307(8), 4308(c), Dec. 22, 1987, 101 Stat. 1330–224, 1330–225; Pub. L. 100–360, title IV, §411(<i>o</i>)(3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(n), Dec. 19, 1989, 103 Stat. 2291; Pub. L. 101–502, §5(f), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–168, title II, §201(d)(3), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(July 1, 1944, ch. 373, title XXI, §2121, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3772; amended Pub. L. 100–203, title IV, §§4304(c), 4307(8), 4308(c), Dec. 22, 1987, 101 Stat. 1330–224, 1330–225; Pub. L. 100–360, title IV, §411(<i>o</i>)(3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(n), Dec. 19, 1989, 103 Stat. 2291; Pub. L. 101–502, §5(f), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–168, title II, §201(d)(3), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Codification
 

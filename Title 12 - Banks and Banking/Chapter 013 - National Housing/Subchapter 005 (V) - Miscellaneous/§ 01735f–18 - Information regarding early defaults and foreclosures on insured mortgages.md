@@ -14,7 +14,7 @@ The Secretary of Housing and Urban Development shall collect and maintain inform
 
 &emsp;&emsp;(B) The total number of such mortgages originated by such lender during the applicable collection period in each designated census tract and the number of mortgages originated each year in each designated census tract.
 
-&emsp;&emsp;(C) The total number of defaults and foreclosures on such mortgages during the applicable collection period in each designated census tract and the number of defaults andforeclosures in each designated census tract in each year of the period.
+&emsp;&emsp;(C) The total number of defaults and foreclosures on such mortgages during the applicable collection period in each designated census tract and the number of defaults and foreclosures in each designated census tract in each year of the period.
 
 &emsp;&emsp;(D) For each designated census tract, the percentage of such lender's total insured mortgages originated during each year of the applicable collection period (with respect to properties within such census tract) on which defaults or foreclosures have occurred during the applicable collection period.
 
@@ -24,7 +24,7 @@ The Secretary of Housing and Urban Development shall collect and maintain inform
 
 &emsp;Information collected under this section shall also include the following:
 
-&emsp;&emsp;(A) For each lender referred to under paragraph (1), the total number of insured mortgages originated by the lender secured by properties not located in a designated census tract, the total number of defaults and foreclosures on such mortgages, and the percentage of such mortgages originated on which defaults or foreclosures occurred during the applicable collection period.
+&emsp;&emsp;(A) For each lender referred to under paragraph (1), the total number of insured mortgages originated by the lender secured by properties not located in a designated censustract, the total number of defaults and foreclosures on such mortgages, and the percentage of such mortgages originated on which defaults or foreclosures occurred during the applicable collection period.
 
 &emsp;&emsp;(B) For each designated census tract, the total number of mortgages originated during the applicable collection period that are insured pursuant to section 1709 of this title, the number of defaults and foreclosures occurring on such mortgages during such period, and the percentage of the total insured mortgage originations during the period on which defaults or foreclosures occurred.
 

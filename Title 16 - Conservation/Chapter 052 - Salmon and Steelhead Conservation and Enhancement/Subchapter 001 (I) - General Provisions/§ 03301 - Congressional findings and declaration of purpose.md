@@ -112,5 +112,5 @@ Authorization of appropriations.—There is authorized to be appropriated $1,000
 
 “(d)
 
-Implementation.—Nothing in this section affects the authority of the Secretary to implement the results of the research and development carried out under this section or any other law.”
+Implementation.—Nothing in this section affects the authority of the Secretary to implement theresults of the research and development carried out under this section or any other law.”
 

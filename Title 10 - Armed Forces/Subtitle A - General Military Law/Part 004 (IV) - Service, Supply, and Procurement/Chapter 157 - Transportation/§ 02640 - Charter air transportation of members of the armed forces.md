@@ -58,7 +58,7 @@ Suspension and Reinstatement.—(1) The Secretary shall establish guidelines for
 
 (e)
 
-Authority To Leave Unsafe Aircraft.—A representative of the Military Airlift Command, the Military Traffic Management Command, or such other agency as may be designated by the Secretary of Defense (or if there is no such representative reasonably available, the senior officer on board a chartered aircraft) may ordermembers of the armed forces to leave a chartered aircraft if the representative (or officer) determines that a condition exists on the aircraft which may endanger the safety of the members.
+Authority To Leave Unsafe Aircraft.—A representative of the Military Airlift Command, the Military Traffic Management Command, or such other agency as may be designated by the Secretary of Defense (or if there is no such representative reasonably available, the senior officer on board a chartered aircraft) may order members of the armed forces to leave a chartered aircraft if the representative (or officer) determines that a condition exists on the aircraft which may endanger the safety of the members.
 
 (f)
 
@@ -74,7 +74,7 @@ Authority To Protect Safety-Related Information Voluntarily Provided by an Air C
 
 (2) Information may be withheld under paragraph (1) from public disclosure only if the Secretary determines that—
 
-&emsp;(A) the disclosure of the information would inhibit an air carrier from voluntarily providing, in the future, safety-related information for the purposes of this section or for other air safety purposes involving the Department of Defense or another Federal agency; and
+&emsp;(A) the disclosure of the information would inhibit an air carrier from voluntarily providing, in the future, safety-related informationfor the purposes of this section or for other air safety purposes involving the Department of Defense or another Federal agency; and
 
 &emsp;(B) the receipt of such information generally enhances the fulfillment of responsibilities under this section or other air safety responsibilities involving the Department of Defense or another Federal agency.
 

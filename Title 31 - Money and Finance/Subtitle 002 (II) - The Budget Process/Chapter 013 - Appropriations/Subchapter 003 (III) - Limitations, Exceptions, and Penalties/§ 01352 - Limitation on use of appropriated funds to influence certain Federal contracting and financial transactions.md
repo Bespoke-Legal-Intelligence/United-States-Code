@@ -34,7 +34,7 @@
 
 &emsp;(B) upon receipt by such person of a Federal contract, grant, loan, or cooperative agreement or of a commitment providing for the United States to insure or guarantee a loan, unless such person previously filed a declaration with respect to such contract, grant, loan, cooperative agreement or commitment pursuant to clause (A); and
 
-&emsp;(C) at the end of each calendar quarter in which there occurs any event that materiallyaffects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(C) at the end of each calendar quarter in which there occurs any event that materially affects the accuracy of the information contained in any declaration previously filed by such person in connection with such Federal contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 (5) Any person who requests or receives from a person referred to in paragraph (1) of this subsection a subcontract under a Federal contract, a subgrant or contract under a Federal grant, a contract or subcontract to carry out any purpose for which a particular Federal loan is made, or a contract under a Federal cooperative agreement shall be required to file with the person referred to in such paragraph a written declaration referred to in clause (A) of such paragraph.
 
@@ -62,7 +62,7 @@
 
 &emsp;(B) a request for or receipt of a contract (other than a contract referred to in clause (C)), grant, cooperative agreement, subcontract (other than a subcontract referred to in clause (C)), or subgrant that does not exceed $100,000; and
 
-&emsp;(C) a request for or receipt of a loan, or a commitment providing for the United States to insure or guarantee a loan, that does not exceed $150,000, or the single family maximum mortgage limit for affected programs, whichever is greater, including a contract or subcontract to carry out any purpose for which such a loan is made.
+&emsp;(C) a request for or receipt of a loan, or a commitment providing for the United Statesto insure or guarantee a loan, that does not exceed $150,000, or the single family maximum mortgage limit for affected programs, whichever is greater, including a contract or subcontract to carry out any purpose for which such a loan is made.
 
 (e) The Secretary of Defense may exempt a Federal action described in subsection (a)(2) from the prohibition in subsection (a)(1) whenever the Secretary determines, in writing, that such an exemption is in the national interest. The Secretary shall transmit a copy of each such written exemption to Congress immediately after making such determination.
 

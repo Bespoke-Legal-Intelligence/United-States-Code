@@ -10,10 +10,13 @@
 | [906\.](%C2%A7%2000906%20-%20Extension%20of%20enlistment%20effect%20on%20pay%20and%20allowances.md) | Extension of enlistment: effect on pay and allowances. |
 | [907\.](%C2%A7%2000907%20-%20Enlisted%20members%20and%20warrant%20officers%20appointed%20as%20officers%20pay%20and%20allowances%20stabilized.md) | Enlisted members and warrant officers appointed as officers: pay and allowances stabilized. |
 | [908\.](%C2%A7%2000908%20-%20Employment%20of%20reserves%20and%20retired%20members%20by%20foreign%20governments.md) | Employment of reserves and retired members by foreign governments. |
+| [909\.](%C2%A7%2000909%20-%20Special%20and%20incentive%20pay%20payment%20at%20unreduced%20rates%20during%20suspension%20of%20personnel%20laws.md) | Special and incentive pay: payment at unreduced rates during suspension of personnel laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title VI, §623(a)(2), Dec. 28, 2001, 115 Stat. 1143, added item 909.
 
 1990—Pub. L. 101–510, div. A, title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
@@ -38,3 +41,4 @@ Pub. L. 96–343, §6(a)(2), Sept. 8, 1980, 94 Stat. 1127, substituted “and wa
 - [&sect; 00906 - Extension of enlistment effect on pay and allowances](%C2%A7%2000906%20-%20Extension%20of%20enlistment%20effect%20on%20pay%20and%20allowances.md)
 - [&sect; 00907 - Enlisted members and warrant officers appointed as officers pay and allowances stabilized](%C2%A7%2000907%20-%20Enlisted%20members%20and%20warrant%20officers%20appointed%20as%20officers%20pay%20and%20allowances%20stabilized.md)
 - [&sect; 00908 - Employment of reserves and retired members by foreign governments](%C2%A7%2000908%20-%20Employment%20of%20reserves%20and%20retired%20members%20by%20foreign%20governments.md)
+- [&sect; 00909 - Special and incentive pay payment at unreduced rates during suspension of personnel laws](%C2%A7%2000909%20-%20Special%20and%20incentive%20pay%20payment%20at%20unreduced%20rates%20during%20suspension%20of%20personnel%20laws.md)

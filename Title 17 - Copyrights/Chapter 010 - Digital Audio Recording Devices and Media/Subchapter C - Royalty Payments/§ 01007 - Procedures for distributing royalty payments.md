@@ -14,7 +14,7 @@ Negotiations.—Notwithstanding any provision of the antitrust laws, for purpose
 
 (b)
 
-Distribution of Payments in the Absence of a Dispute.—After the period established for the filing of claims under subsection (a), in each year after 1992, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Librarian of Congress determines that no such controversy exists, the Librarian of Congress shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a), after deducting its reasonable administrative costs under this section.
+Distribution of Payments in the Absence of a Dispute.—After the period established for the filing of claims under subsection (a), in eachyear after 1992, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Librarian of Congress determines that no such controversy exists, the Librarian of Congress shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a), after deducting its reasonable administrative costs under this section.
 
 (c)
 

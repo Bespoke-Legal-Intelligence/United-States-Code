@@ -34,7 +34,7 @@ Prevention.—Coordination of regulatory and other efforts to prevent the exploi
 
 &emsp;(3)
 
-Detection and prosecution initiatives.—A description of operational initiatives to improve detection and prosecution of money laundering and related financial crimes and the seizure and forfeiture of proceeds and instrumentalities derived from such crimes.
+Detection and prosecution initiatives.—A description of operational initiatives to improve detection and prosecution ofmoney laundering and related financial crimes and the seizure and forfeiture of proceeds and instrumentalities derived from such crimes.
 
 &emsp;(4)
 
@@ -74,9 +74,13 @@ Data regarding trends in money laundering and related financial crimes.—The ne
 
 Improved communications systems.—A plan for enhancing the compatibility of automated information and facilitating access of the Federal Government and State and local governments to timely, accurate, and complete information.
 
+&emsp;(12)
+
+Data regarding funding of terrorism.—Data concerning money laundering efforts related to the funding of acts of international terrorism, and efforts directed at the prevention, detection, and prosecution of such funding.
+
 (c)
 
-Effectiveness Report.—At the time each national strategy for combating financial crimes is transmitted by the President to the Congress (other than the first transmission ofany such strategy) pursuant to subsection (a), the Secretary shall submit a report containing an evaluation of the effectiveness of policies to combat money laundering and related financial crimes.
+Effectiveness Report.—At the time each national strategy for combating financial crimes is transmitted by the President to the Congress (other than the first transmission of any such strategy) pursuant to subsection (a), the Secretary shall submit a report containing an evaluation of the effectiveness of policies to combat money laundering and related financial crimes.
 
 (d)
 
@@ -102,7 +106,15 @@ Consultations.—In addition to the consultations required under this section wi
 
 &emsp;(10) representatives of the private financial services sector, to the extent appropriate.
 
-(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2942.)
+(Added Pub. L. 105–310, §2(a), Oct. 30, 1998, 112 Stat. 2942; amended Pub. L. 107–56, title III, §354, Oct. 26, 2001, 115 Stat. 323.)
+
+#### Amendments
+
+2001—Subsec. (b)(12). Pub. L. 107–56 added par. (12).
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 #### Section Referred to in Other Sections
 

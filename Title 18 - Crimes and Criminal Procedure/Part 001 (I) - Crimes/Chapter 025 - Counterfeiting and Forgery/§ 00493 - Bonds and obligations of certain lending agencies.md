@@ -1,20 +1,20 @@
 ### §493. Bonds and obligations of certain lending agencies
 
-Whoever falsely makes, forges, counterfeits or alters any note, bond, debenture, coupon, obligation, instrument, or writing in imitation or purporting to be in imitation of, a note, bond, debenture, coupon, obligation, instrument or writing, issued by the Reconstruction Finance Corporation, Federal Deposit Insurance Corporation, National Credit Union Administration, Home Owners’ Loan Corporation, Farm Credit Administration, Department of Housing and Urban Development, or any land bank, intermediate credit bank, insured credit union, bank for cooperatives or any lending, mortgage, insurance, credit or savings and loan corporation or association authorized or acting under the laws of the United States, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever falsely makes, forges, counterfeits or alters any note, bond, debenture, coupon, obligation, instrument, or writing in imitation or purporting to be in imitation of, a note, bond, debenture, coupon, obligation, instrument or writing, issued by the Reconstruction Finance Corporation, Federal Deposit Insurance Corporation, National Credit Union Administration, Home Owners’ Loan Corporation, Farm Credit Administration, Department of Housing and Urban Development, or any land bank, intermediate credit bank, insured credit union, bank for cooperatives or any lending, mortgage, insurance, credit or savings and loan corporation or association authorized or acting under the laws of the United States, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-Whoever passes, utters, or publishes, or attempts to pass, utter or publish any note, bond, debenture, coupon, obligation, instrument or document knowing the same to have been falsely made, forged, counterfeited or altered, contrary to the provisions of this section, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever passes, utters, or publishes, or attempts to pass, utter or publish any note, bond, debenture, coupon, obligation, instrument or document knowing the same to have been falsely made, forged, counterfeited or altered, contrary to the provisions of this section, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 87–353, §3(p), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, §24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, §3, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 87–353, §3(p), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, §24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, §3, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §374(i), Oct. 26, 2001, 115 Stat. 341.)
 
 #### Historical and Revision Notes
 
 Based on sections 264(t), 982, 1126, 1138d(b), 1316, 1441(b), 1467(b), 1731(b) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(b) of title 15, U.S.C. 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, §12B(t), as added June 16, 1933, ch. 89, §8, 48 Stat. 178, and amended Aug. 23, 1935, ch. 614, §101, 49 Stat. 684; July 17, 1916, ch. 245, §31 (second paragraph), 39 Stat. 383; July 17, 1916, ch. 245, §211(f), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1460; Mar. 4, 1923, ch. 252, title II, §216(f), 42 Stat. 1472; Jan. 22, 1932, ch. 8, §16(b), 47 Stat. 11; July 22, 1932, ch. 522, §21(b), 47 Stat. 738; June 13, 1933, ch. 64, §8(b), 48 Stat. 134; June 16, 1933, ch. 98, §64(b), 48 Stat. 268; June 27, 1934, ch. 847, §512(b), 48 Stat. 1265).
 
-Each of the nine sections from which this section was derived contained similar provisions with respect to one or more named agencies or corporations. The punishment was the same in each section except that in sections 982, 1126, and 1316 of title 12, U.S.C., 1940 ed.,Banks and Banking, the maximum fine was $5,000. This section adopts the $10,000 maximum fine provided in the other six former sections.
+Each of the nine sections from which this section was derived contained similar provisions with respect to one or more named agencies or corporations. The punishment was the same in each section except that in sections 982, 1126, and 1316 of title 12, U.S.C., 1940 ed., Banks and Banking, the maximum fine was $5,000. This section adopts the $10,000 maximum fine provided in the other six former sections.
 
 This section condenses and simplifies the form of the former sections without change of substance, except where the maximum fine differs as noted above.
 
-The enumeration of “note, bond, debenture, coupon, obligation, instrument, or writing” does not occur in any one of the original sections but is an adequate enumeration of the instruments mentioned in each.
+The enumeration of “note, bond, debenture, coupon, obligation, instrument, or writing” does not occur inany one of the original sections but is an adequate enumeration of the instruments mentioned in each.
 
 Certain specific agencies are enumerated by name as are “land bank, intermediate credit bank, bank for cooperatives,” but the phrase “or any lending, mortgage, insurance, credit, or savings and loan corporation or association” was used to embrace the following: National Farm Loan Association, Federal Savings and Loan Insurance Corporation, Federal Savings and Loan Associations, National Agricultural Credit Corporation, Production Credit Corporations, Production Credit Associations, Home Loan Banks, National Mortgage Associations, and Central Bank for Cooperatives, Regional Agricultural Credit Corporation, or any instrumentalities created for similar purposes.
 
@@ -38,6 +38,8 @@ The blanket provision for punishment of “any person who willfully violates any
 
 #### Amendments
 
+2001—Pub. L. 107–56 substituted “10 years” for “five years” in two places.
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in two places.
 
 1970—Pub. L. 91–468 inserted National Credit Union Administration and insured credit unions in enumeration of lending agencies.
@@ -45,6 +47,10 @@ The blanket provision for punishment of “any person who willfully violates any
 1967—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration”.
 
 1961—Pub. L. 87–353 struck out reference to the Federal Farm Mortgage Corporation.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Exceptions From Transfer of Functions
 

@@ -40,7 +40,7 @@
 
 1964—Pub. L. 88–647, title II, §202(5), Oct. 13, 1964, 78 Stat. 1071, substituted “Senior Reserve Officers’ Training Corps” for “naval officer candidate programs” in item 209.
 
-Chapter Referred to in Other Sections
+#### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 406, 1003 of this title; title 26 section 3121; title 42 section 409.
 

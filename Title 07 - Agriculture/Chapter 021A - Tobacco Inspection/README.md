@@ -27,8 +27,13 @@
 | (d) | Place of inspection; fees and charges. |
 | (e) | Tobacco pesticide residues; certification, etc., requirements. |
 | (f) | End users of imported tobacco; certification, identification, etc., requirements. |
+| [511s.](%C2%A7%2000511s%20-%20Grading%20of%20tobacco.md) | Grading of tobacco. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 511s of this title.
 
 
 ---
@@ -54,3 +59,4 @@
 - [&sect; 00511p - Delegation of duties by Secretary of Agriculture](%C2%A7%2000511p%20-%20Delegation%20of%20duties%20by%20Secretary%20of%20Agriculture.md)
 - [&sect; 00511q - Short title](%C2%A7%2000511q%20-%20Short%20title.md)
 - [&sect; 00511r - Imported tobacco](%C2%A7%2000511r%20-%20Imported%20tobacco.md)
+- [&sect; 00511s - Grading of tobacco](%C2%A7%2000511s%20-%20Grading%20of%20tobacco.md)

@@ -6,9 +6,9 @@ Experts and consultants or organizations thereof may, as authorized by section 3
 
 #### (b) Exemption from restrictions upon receipt of retirement benefits
 
-Service of an individual as a member of the Council authorized to be established by section 2511 <sup>1</sup> of this title or as an expert or consultant under subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of sections 3323(b) and 8344 of title 5, section 4064 of this title, or any other law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities, subject to section 5532 <sup>1</sup> of title 5.
+Service of an individual as a member of the Council authorized to be established by section 2511 <sup>1</sup> of this title or as an expert or consultant under subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of sections 3323(b) and 8344 of title 5, section 4064 of this title, or any other law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities.
 
-(Pub. L. 87–293, title I, §13, Sept. 22, 1961, 75 Stat. 619; Pub. L. 88–200, §6, Dec. 13, 1963, 77 Stat. 360; Pub. L. 88–448, title IV, §401(c), Aug. 19, 1964, 78 Stat. 490; Pub. L. 91–352, §6, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, §2202(c), Oct. 17, 1980, 94 Stat. 2158.)
+(Pub. L. 87–293, title I, §13, Sept. 22, 1961, 75 Stat. 619; Pub. L. 88–200, §6, Dec. 13, 1963, 77 Stat. 360; Pub. L. 88–448, title IV, §401(c), Aug. 19, 1964, 78 Stat. 490; Pub. L. 91–352, §6, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, §2202(c), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 107–107, div. A, title X, §1048(i)(9), Dec. 28, 2001, 115 Stat. 1229.)
 
 #### References in Text
 
@@ -16,9 +16,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Section 2511 of this title, referred to in subsec. (b), was repealed by Pub. L. 92–352, title IV, §403, July 13, 1972, 86 Stat. 495.
 
-Section 5532 of title 5, referred to in subsec. (b), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
-
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–107 struck out “, subject to section 5532 of title 5” before period at end.
 
 1980—Subsec. (b). Pub. L. 96–465 substituted “section 4064 of this title” for “section 1112 of this title”.
 
@@ -26,7 +26,7 @@ Section 5532 of title 5, referred to in subsec. (b), was repealed by Pub. L. 106
 
 Subsec. (b). Pub. L. 91–352, §6(b), substituted “sections 3323(b) and 8344 of title 5” and “section 5532 of title 5” for “section 2263 of title 5” and “section 3102 of title 5”, respectively.
 
-1964—Subsec. (b). Pub. L. 88–448 struck out provisions providing that such service shall not be considered as employment or holding of office or position bringing such individual within the provisions of section 59a of title 5, and inserted “, subject to section 3102 of title 5”.
+1964—Subsec. (b). Pub. L. 88–448 struck out provisions providing that such service shall not be considered as employment or holding of office or position bringingsuch individual within the provisions of section 59a of title 5, and inserted “, subject to section 3102 of title 5”.
 
 1963—Subsec. (a). Pub. L. 88–200, §6(a), substituted “President” for “Peace Corps”.
 

@@ -46,7 +46,7 @@ The Corporation shall by regulation establish standards for the information and 
 
 #### (e) Limitation on same project in multiple applications
 
-No applicant shall submit an application under section 12525 of this title or this section,and the Corporation shall reject an application that is submitted under section 12525 of this title or this section, if the application describes a project proposed to be conducted using assistance requested by the applicant and the project is already described in another application pending before the Corporation.
+No applicant shall submit an application under section 12525 of this title or this section, and the Corporation shall reject an application that is submitted under section 12525 of this title or this section, if the application describes a project proposed to be conducted using assistance requested by the applicant and the project is already described in another application pending before the Corporation.
 
 (Pub. L. 101–610, title I, §114, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 829.)
 

@@ -50,7 +50,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(3); added Apr. 2, 1987, Pu
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §12(b)(4); added Apr. 2, 1987, Pub. L. 100–17, §316, 101 Stat. 232.
 
-In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency inthe revised title and with other titles of the United States Code.
 
 Subsection (b) is substituted for 49 App.:1608(b)(2) for clarity. The text of 49 App.:1608(b)(2) (last sentence) is omitted as executed.
 

@@ -8,7 +8,7 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 &emsp;(2) which serves a substantial number of low-income students as a percentage of its total student population;
 
-&emsp;(3) which is contributing substantially to increasing higher education opportunities foreducationally disadvantaged, underrepresented, or minority students, who are low-income individuals;
+&emsp;(3) which is contributing substantially to increasing higher education opportunities for educationally disadvantaged, underrepresented, or minority students, who are low-income individuals;
 
 &emsp;(4) which is substantially increasing higher educational opportunities for individuals in rural or other isolated areas which are unserved by postsecondary institutions;
 
@@ -34,7 +34,7 @@ Section 1058(b)(1)(E) of this title, referred to in subsec. (b)(3), was repealed
 
 #### Codification
 
-Subsec. (b)(2) of this section, which required the Secretary to submit a report to Congress every other year on institutions which, although not satisfying the criterion contained in section 1058(b)(1)(B) of this title, have been determined to be eligible institutions under part A of this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 79 of House Document No. 103–7.
+Subsec. (b)(2) of this section, which required the Secretary to submit a report to Congress every other year on institutions which, although not satisfying the criterion contained in section 1058(b)(1)(B) of this title, have been determined to be eligible institutions under part A of this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title31, Money and Finance. See, also, page 79 of House Document No. 103–7.
 
 Section was formerly classified to section 1067 of this title prior to renumbering by Pub. L. 105–244.
 

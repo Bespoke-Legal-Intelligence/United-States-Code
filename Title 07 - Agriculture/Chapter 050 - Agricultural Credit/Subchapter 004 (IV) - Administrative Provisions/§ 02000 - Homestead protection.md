@@ -20,7 +20,7 @@ As used in this section:
 
 #### (b) Occupancy of homestead upon foreclosure, bankruptcy, or liquidation; appraisal; period of occupancy
 
-(1) The Secretary or the Administrator shall, on application by a borrower-owner who meets the eligibility requirements of subsection (c)(1) of this section, permit the borrower-owner to retain possession and occupancy of homestead property under the terms set forth, and until the action described in this section has been completed, if—
+(1) The Secretary or the Administrator shall, on application by a borrower-owner who meets the eligibility requirements of subsection (c)(1) of this section, permit the borrower-owner to retain possession and occupancy of homestead property under the terms set forth, and until theaction described in this section has been completed, if—
 
 &emsp;(A) the Secretary forecloses, holds in inventory on January 6, 1988, or takes into inventory, property securing a loan made or insured under this chapter;
 

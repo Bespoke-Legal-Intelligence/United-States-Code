@@ -1,6 +1,6 @@
 ### §2131. Authorization of appropriation for GATT revision
 
-There are authorized to be appropriated annually such sums as may be necessary for the payment by the United States of its share of the expenses of the Contracting Parties to the GeneralAgreement on Tariffs and Trade. This authorization does not imply approval or disapproval by the Congress of all articles of the General Agreement on Tariffs and Trade.
+There are authorized to be appropriated annually such sums as may be necessary for the payment by the United States of its share of the expenses of the Contracting Parties to the General Agreement on Tariffs and Trade. This authorization does not imply approval or disapproval by the Congress of all articles of the General Agreement on Tariffs and Trade.
 
 (Pub. L. 93–618, title I, §121, Jan. 3, 1975, 88 Stat. 1986; Pub. L. 96–39, title XI, §1106(c)(2), July 26, 1979, 93 Stat. 311; Pub. L. 100–418, title I, §1107(b)(2), Aug. 23, 1988, 102 Stat. 1135; Pub. L. 100–647, title IX, §9001(a)(1), Nov. 10, 1988, 102 Stat. 3806.)
 

@@ -16,9 +16,17 @@ Every contract, combination in the form of trust or otherwise, or conspiracy, in
 
 1937—Act Aug. 17, 1937, inserted two provisos.
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: “This Act \[enacting and amending provisions set out as notes under this section\] and the amendments made by this Act shall take effect on September 30, 2001.”
+
 #### Effective Date of 1975 Amendment
 
 Section 4 of Pub. L. 94–145 provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\].”
+
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–72, §1, Nov. 20, 2001, 115 Stat. 648, provided that: “This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the ‘Need-Based Educational Aid Act of 2001’.”
 
 #### Short Title of 1998 Amendment
 
@@ -60,7 +68,7 @@ Section 1 of Pub. L. 94–145 provided: “That this Act \[amending this section
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–528 provided: “That this Act \[amending this section and section 2, 3, 16, 28, and 29 of this title, section 401 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title\] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
+Section 1 of Pub. L. 93–528 provided: “That this Act \[amending this section and section 2, 3, 16, 28, and 29 ofthis title, section 401 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title\] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
 
 #### Short Title
 
@@ -304,7 +312,7 @@ In general.—A Federal entity, agency, or authority may expressly designate a r
 
 &emsp;“(2)
 
-Specifics.—A special year 2000 data gathering request made under this subsection shall specify a Federal entity, agency, or authority, or, with its consent, another public or private entity, agency, or authority, to gather responses to the request.
+Specifics.—A special year 2000 data gathering request made under this subsection shall specify aFederal entity, agency, or authority, or, with its consent, another public or private entity, agency, or authority, to gather responses to the request.
 
 &emsp;“(3)
 
@@ -442,7 +450,7 @@ In general.—For the purposes of section 4(a), a person or entity that issued o
 
 &emsp;&emsp;&emsp;“(i) provides individual notice that meets the requirements of paragraph (2) to all recipients of the applicable year 2000 statement; or
 
-&emsp;&emsp;&emsp;“(ii) prominently posts notice that meets the requirements of paragraph (2) on its year 2000 Internet website, commencing prior to the end of the 45-day period under this subparagraph and extending for a minimum of 45 consecutive days and also uses the same method of notification used to originally provide the applicable year 2000 statement.
+&emsp;&emsp;&emsp;“(ii) prominently posts notice that meets the requirements of paragraph (2) on its year 2000 Internet website, commencing prior to the end ofthe 45-day period under this subparagraph and extending for a minimum of 45 consecutive days and also uses the same method of notification used to originally provide the applicable year 2000 statement.
 
 &emsp;“(2)
 
@@ -532,7 +540,101 @@ Report.—The Administrator of General Services shall submit a report to the Com
 
 #### Application of Antitrust Laws to Award of Need-Based Educational Aid
 
-Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618, provided that:
+Pub. L. 107–72, §3, Nov. 20, 2001, 115 Stat. 648, provided that:
+
+“(a)
+
+Study.—
+
+&emsp;“(1)
+
+In general.—The Comptroller General shall conduct a study of the effect of the antitrust exemption on institutional student aid under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note) \[Pub. L. 103–382, see below\].
+
+&emsp;“(2)
+
+Consultation.—The Comptroller General shall have final authority to determine the content of the study under paragraph (1), but in determining the content of the study, the Comptroller General shall consult with—
+
+&emsp;&emsp;“(A) the institutions of higher education participating under the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note) (referred to in this Act \[see Short Title of 2001 Amendment note above\] as the ‘participating institutions’);
+
+&emsp;&emsp;“(B) the Antitrust Division of the Department of Justice; and
+
+&emsp;&emsp;“(C) other persons that the Comptroller General determines are appropriate.
+
+&emsp;“(3)
+
+Matters studied.—
+
+&emsp;&emsp;“(A)
+
+In general.—The study under paragraph (1) shall—
+
+&emsp;&emsp;&emsp;“(i) examine the needs analysis methodologies used by participating institutions;
+
+&emsp;&emsp;&emsp;“(ii) identify trends in undergraduate costs of attendance and institutional undergraduate grant aid among participating institutions, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the percentage of first-year students receiving institutional grant aid;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the mean and median grant eligibility and institutional grant aid to first-year students; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the mean and median parental and student contributions to undergraduate costs of attendance for first year students receiving institutional grant aid;
+
+&emsp;&emsp;&emsp;“(iii) to the extent useful in determining the effect of the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note), examine—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) comparison data, identified in clauses (i) and (ii), from institutions of higher education that do not participate under the antitrust exemption under section 568 of the ImprovingAmerica's Schools Act of 1994 (15 U.S.C. 1 note); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) other baseline trend data from national benchmarks; and
+
+&emsp;&emsp;&emsp;“(iv) examine any other issues that the Comptroller General determines are appropriate, including other types of aid affected by section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note).
+
+&emsp;&emsp;“(B)
+
+Assessment.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—The study under paragraph (1) shall assess what effect the antitrust exemption on institutional student aid has had on institutional undergraduate grant aid and parental contribution to undergraduate costs of attendance.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Changes over time.—The assessment under clause (i) shall consider any changes in institutional undergraduate grant aid and parental contribution to undergraduate costs of attendance over time for institutions of higher education, including consideration of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the time period prior to adoption of the consensus methodologies at participating institutions; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the data examined pursuant to subparagraph (A)(iii).
+
+“(b)
+
+Report.—
+
+&emsp;“(1)
+
+In general.—Not later than September 30, 2006, the Comptroller General shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that contains the findings and conclusions of the Comptroller General regarding the matters studied under subsection (a).
+
+&emsp;“(2)
+
+Identifying individual institutions.—The Comptroller General shall not identify an individual institution of higher education in information submitted in the report under paragraph (1) unless the information on the institution is available to the public.
+
+“(c)
+
+Recordkeeping Requirement.—
+
+&emsp;“(1)
+
+In general.—For the purpose of completing the study under subsection (a)(1), a participating institution shall—
+
+&emsp;&emsp;“(A) collect and maintain for each academic year until the study under subsection (a)(1) is completed—
+
+&emsp;&emsp;&emsp;“(i) student-level data that is sufficient, in the judgment of the Comptroller General, to permit the analysis of expected family contributions, identified need, and undergraduate grant aid awards; and
+
+&emsp;&emsp;&emsp;“(ii) information on formulas used by the institution to determine need; and
+
+&emsp;&emsp;“(B) submit the data and information under paragraph (1) to the Comptroller General at such time as the Comptroller General may reasonably require.
+
+&emsp;“(2)
+
+Non-participating institutions.—Nothing in this subsection shall be construed to require an institution of higher education that does not participate under the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note) to collect and maintain data under this subsection.”
+
+Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, §2, Nov. 20, 2001, 115 Stat. 648, provided that:
 
 “(a)
 
@@ -566,7 +668,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(4) the term ‘lawfully admitted for permanent residence’ has the meaning given such term in section 101(20) \[101(a)(20)\] of the Immigration and Nationality Act (8 U.S.C. 1101(20) \[1101(a)(20)\]);
 
-&emsp;“(5) the term ‘national of the United States’ has the meaning given such term in section 101(22)\[101(a)(22)\] of the Immigration and Nationality Act (8 U.S.C. 1101(22) \[1101(a)(22)\]);
+&emsp;“(5) the term ‘national of the United States’ has the meaning given such term in section 101(22) \[101(a)(22)\] of the Immigration and Nationality Act (8 U.S.C. 1101(22) \[1101(a)(22)\]);
 
 &emsp;“(6) the term ‘on a need-blind basis’ means without regard to the financial circumstances of the student involved or the student's family; and
 
@@ -574,7 +676,7 @@ Definitions.—For purposes of this section—
 
 “(d)
 
-Expiration.—Subsection (a) shall expire on September 30, 2001.”
+Expiration.—Subsection (a) shall expire on September 30, 2008.”
 
 \[Pub. L. 105–43, §2(b), Sept. 17, 1997, 111 Stat. 1140, provided that: “The amendments made by subsection (a) \[amending section 568(a)–(d) of Pub. L. 103–382, set out above\] shall take effect immediately before September 30, 1997.”\]
 

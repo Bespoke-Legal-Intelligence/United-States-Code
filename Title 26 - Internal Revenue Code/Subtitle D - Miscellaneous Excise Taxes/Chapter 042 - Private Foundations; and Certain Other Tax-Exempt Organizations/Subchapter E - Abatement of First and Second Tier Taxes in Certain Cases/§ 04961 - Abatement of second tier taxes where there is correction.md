@@ -12,7 +12,7 @@ If the determination by a court that the taxpayer is liable for a second tier ta
 
 #### (1) Proceeding in District Court or United States Court of Federal Claims
 
-&emsp;If, not later than 90 days after the day on which the second tier tax is assessed, the first tier tax is paid in full and a claim for refund of the amount so paid is filed, no levy or proceeding in court for the collection of the second tier tax shall be made, begun, or prosecuted until a final resolution of a proceedingbegun as provided in paragraph (2) (and of any supplemental proceeding with respect thereto under subsection (b)). Notwithstanding section 7421(a), the collection by levy or proceeding may be enjoined during the time such prohibition is in force by a proceeding in the proper court.
+&emsp;If, not later than 90 days after the day on which the second tier tax is assessed, the first tier tax is paid in full and a claim for refund of the amount so paid is filed, no levy or proceeding in court for the collection of the second tier tax shall be made, begun, or prosecuted until a final resolution of a proceeding begun as provided in paragraph (2) (and of any supplemental proceeding with respect thereto under subsection (b)). Notwithstanding section 7421(a), the collection by levy or proceeding may be enjoined during the time such prohibition is in force by a proceeding in the proper court.
 
 #### (2) Suit must be brought to determine liability
 

@@ -2,11 +2,11 @@
 
 #### (a) Reports on legislation providing new budget authority or providing increase or decrease in revenues or tax expenditures
 
-(1) Whenever a committee of either House reports to its House a bill or joint resolution, or committee amendment thereto, providing new budget authority (other than continuing appropriations) or providing an increase or decrease in revenues or tax expenditures for a fiscal year (or fiscal years), the report accompanying that bill or joint resolution shall contain a statement, or the committee shall make available such a statement in the case of an approved committee amendment which is not reported to its House, prepared after consultation with the Director of the Congressional Budget Office—
+(1) Whenever a committee of either House reports to its House a bill or joint resolution, or committee amendment thereto, providing new budget authority (other than continuing appropriations) or providing an increase or decrease in revenues or tax expenditures for a fiscal year (or fiscal years), the report accompanying thatbill or joint resolution shall contain a statement, or the committee shall make available such a statement in the case of an approved committee amendment which is not reported to its House, prepared after consultation with the Director of the Congressional Budget Office—
 
 &emsp;(A) comparing the levels in such measure to the appropriate allocations in the reports submitted under section 633(b) of this title for the most recently agreed to concurrent resolution on the budget for such fiscal year (or fiscal years);
 
-&emsp;(B) containing a projection by the Congressional Budget Office of how such measure willaffect the levels of such budget authority, budget outlays, revenues, or tax expenditures under existing law for such fiscal year (or fiscal years) and each of the four ensuing fiscal years, if timely submitted before such report is filed; and
+&emsp;(B) containing a projection by the Congressional Budget Office of how such measure will affect the levels of such budget authority, budget outlays, revenues, or tax expenditures under existing law for such fiscal year (or fiscal years) and each of the four ensuing fiscal years, if timely submitted before such report is filed; and
 
 &emsp;(C) containing an estimate by the Congressional Budget Office of the level of new budget authority for assistance to State and local governments provided by such measure, if timely submitted before such report is filed.
 

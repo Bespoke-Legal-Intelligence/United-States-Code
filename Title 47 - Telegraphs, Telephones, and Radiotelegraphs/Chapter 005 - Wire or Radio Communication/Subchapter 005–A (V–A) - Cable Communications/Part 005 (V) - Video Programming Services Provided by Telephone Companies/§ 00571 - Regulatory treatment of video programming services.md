@@ -14,7 +14,7 @@
 
 &emsp;To the extent that a common carrier is providing video programming to its subscribers in any manner other than that described in paragraphs (1) and (2)—
 
-&emsp;&emsp;(A) such carrier shall be subject to the requirements of this subchapter, unless such programming is provided by means of an open video system for which the Commissionhas approved a certification under section 573 of this title; or
+&emsp;&emsp;(A) such carrier shall be subject to the requirements of this subchapter, unless such programming is provided by means of an open video system for which the Commission has approved a certification under section 573 of this title; or
 
 &emsp;&emsp;(B) if such programming is provided by means of an open video system for which the Commission has approved a certification under section 573 of this title, such carrier shall be subject to the requirements of this part, but shall be subject to parts I through IV of this subchapter only as provided in 573(c) of this title.
 

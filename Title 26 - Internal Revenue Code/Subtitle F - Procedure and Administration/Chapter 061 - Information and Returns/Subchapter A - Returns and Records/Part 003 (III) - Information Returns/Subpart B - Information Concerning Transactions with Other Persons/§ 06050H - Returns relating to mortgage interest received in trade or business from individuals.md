@@ -102,7 +102,7 @@ Section 145(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title X
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.
 
 “(2)
 

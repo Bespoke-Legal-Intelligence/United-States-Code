@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The accumulated earnings tax imposed by section 531 shall apply to every corporation (other than those described in subsection (b)) formed or availed of for the purpose of avoiding the income tax with respect to its shareholders or the shareholders of any other corporation, by permitting earnings and profits to accumulate instead of being divided or distributed.
+The accumulated earnings tax imposed by section 531 shall apply to every corporation (otherthan those described in subsection (b)) formed or availed of for the purpose of avoiding the income tax with respect to its shareholders or the shareholders of any other corporation, by permitting earnings and profits to accumulate instead of being divided or distributed.
 
 #### (b) Exceptions
 

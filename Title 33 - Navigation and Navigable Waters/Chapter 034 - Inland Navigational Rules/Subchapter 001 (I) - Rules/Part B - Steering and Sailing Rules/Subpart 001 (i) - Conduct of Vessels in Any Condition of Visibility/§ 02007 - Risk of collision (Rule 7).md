@@ -2,7 +2,7 @@
 
 #### (a) Determination if risk exists
 
-Every vessel shall use all available means appropriate to the prevailing circumstances andconditions to determine if risk of collision exists. If there is any doubt such risk shall be deemed to exist.
+Every vessel shall use all available means appropriate to the prevailing circumstances and conditions to determine if risk of collision exists. If there is any doubt such risk shall be deemed to exist.
 
 #### (b) Radar
 

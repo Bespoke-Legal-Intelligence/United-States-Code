@@ -64,7 +64,7 @@ There are authorized to be appropriated $2,500,000 to carry out section 4714 of 
 
 There are authorized to be appropriated to the Director $1,000,000 to carry out research on the prevention, monitoring, and control of aquatic nuisance species in Narragansett Bay, Rhode Island. The funds shall be made available for use by the Department of Environmental Management of the State of Rhode Island.
 
-(Pub. L. 101–646, title I, §1301, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–186, §4(b)(2), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 104–332, §2(f), (h)(1), Oct. 26, 1996, 110 Stat. 4090, 4091.)
+(Pub. L. 101–646, title I, §1301, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–186, §4(b)(2), Dec. 4, 1991,105 Stat. 1283; Pub. L. 104–332, §2(f), (h)(1), Oct. 26, 1996, 110 Stat. 4090, 4091.)
 
 #### Codification
 

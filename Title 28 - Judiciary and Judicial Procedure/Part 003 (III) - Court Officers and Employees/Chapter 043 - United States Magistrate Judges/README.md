@@ -28,7 +28,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 375 of this title; title 48 sections 1912, 1934; title 50 sections 1842, 1862.
+This chapter is referred to in section 375 of this title; title 48 sections 1912, 1934; title 50 sections 1842, 1861.
 
 
 ---

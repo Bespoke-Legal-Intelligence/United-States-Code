@@ -30,7 +30,7 @@ Any employee who transfers to the State-owned railroad under this chapter shall 
 
 #### (e) Continued coverage for certain employees and annuitants in Federal health benefits plans and life insurance plans
 
-(1) Any person described under the provisions of paragraph (2) may elect life insurance coverage under chapter 87 of title 5 and enroll in ahealth benefits plan under chapter 89 of title 5 in accordance with the provisions of this subsection.
+(1) Any person described under the provisions of paragraph (2) may elect life insurance coverage under chapter 87 of title 5 and enroll in a health benefits plan under chapter 89 of title 5 in accordance with the provisions of this subsection.
 
 (2) The provisions of paragraph (1) shall apply to any person who—
 
@@ -44,7 +44,7 @@ Any employee who transfers to the State-owned railroad under this chapter shall 
 
 (3) For purposes of this section, any person described under the provisions of paragraph (2) shall be deemed to have been covered under a life insurance policy under chapter 87 of title 5 and to have been enrolled in a health benefits plan under chapter 89 of title 5 during the period beginning on January 5, 1985, through the date of retirement of any such person.
 
-(4) The provisions of paragraph (1) shall not apply to any person described under paragraph (2) until the date such person retires from the State-owned railroad.
+(4) The provisions of paragraph (1) shall not apply to any person described under paragraph\(2) until the date such person retires from the State-owned railroad.
 
 (Pub. L. 97–468, title VI, §607, Jan. 14, 1983, 96 Stat. 2571; Pub. L. 100–238, title I, §136(a), Jan. 8, 1988, 101 Stat. 1766; Pub. L. 103–226, §10, Mar. 30, 1994, 108 Stat. 122.)
 

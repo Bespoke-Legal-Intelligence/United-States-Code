@@ -104,7 +104,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 #### (e) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention
 
-(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b) of this section. Except as provided in paragraph (3) of subsection (f) of this section, the provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
+(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b) of this section. Except as provided in paragraph (3) of subsection (f) of this section, the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
 
 (2) The executive director is authorized, at the direction of the Access Board—
 
@@ -134,13 +134,9 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 (2) The departments or agencies specified in subsection (a) of this section shall make available to the Access Board such technical, administrative, or other assistance as it may require to carry out its functions under this section, and the Access Board may appoint such other advisers, technical experts, and consultants as it deems necessary to assist it in carrying out its functions under this section. Special advisoryand technical experts and consultants appointed pursuant to this paragraph shall, while performing their functions under this section, be entitled to receive compensation at rates fixed by the Chairperson,<sup>2</sup> but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5, including travel time, and while serving away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
 
-#### (h) Reports on transportation barriers and housing needs
+#### (h) Omitted
 
-(1) Omitted.
-
-(2) The Access Board shall, at the same time that the Access Board transmits the report required under section 7(b) of the Act commonly known as the Architectural Barriers Act of 1968 (42 U.S.C. 4157(b)), transmit the report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate.
-
-#### (i) Grants and contracts to aid Access Board in carrying out its functions; acceptance of gifts, devises, and bequests of property; report to Congress on accessibility of federally funded buildings; joint transmittal
+#### (i) Grants and contracts to aid Access Board in carrying out its functions; acceptance of gifts, devises, and bequests of property
 
 (1) The Access Board may make grants to, or enter into contracts with, public or private organizations to carry out its duties under subsections (b) and (c) of this section.
 
@@ -148,7 +144,7 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 (B) The Access Board shall publish regulations setting forth the criteria the Board will use in determining whether the acceptance of gifts, devises, and bequests of property, both real and personal, would reflect unfavorably upon the ability of the Board or any employee to carry out the responsibilities or official duties of the Board in a fair and objective manner, or would compromise the integrity of or the appearance of the integrity of a Government program or any official involved in that program.
 
-(3) The Access Board shall, at the same time that the Access Board transmits the report required under section 7(b) of the Act entitled “An Act to ensure that certain buildings financed with Federal funds are so designated and constructed as to be accessible to the physically handicapped”, approved August 12, 1968 (commonly known as the Architectural Barriers Act of 1968) \[42 U.S.C. 4157(b)\] transmit that report to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives.
+(3) Omitted.
 
 #### (j) Authorization of appropriations
 
@@ -166,7 +162,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(
 
 #### Codification
 
-Subsec. (h)(1) of this section, which required the Board to submit an annual report on its activities to Congress, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 155 of House Document No. 103–7.
+Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under section 4157(b) of Title 42, The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
 
 #### Amendments
 
@@ -244,7 +240,7 @@ Subsec. (i). Pub. L. 102–569, §504(h), substituted “fiscal years 1993 throu
 
 Subsec. (i). Pub. L. 102–52 substituted “1987 through 1992” for “1987, 1988, 1989, 1990, and 1991”.
 
-1988—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
+1988—Subsec. (a)(2). Pub. L. 100–630, §206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed tofill a vacancy shall serve for the remainder of the term to which that member's predecessor was appointed.”
 
 Subsec. (a)(3). Pub. L. 100–630, §206(b)(2), substituted “the member” for “he”.
 
@@ -334,10 +330,6 @@ Subsec. (h). Pub. L. 93–516, §110, authorized appropriation of $1,500,000 for
 
 Pub. L. 93–651, §110, amended subsec. (h) in exactly the same manner as it was amended by Pub. L. 93–516.
 
-#### Change of Name
-
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
-
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out as a note under section 1001 of Title 20, Education.
@@ -352,7 +344,7 @@ Advisory panels established after Jan. 5, 1973, to terminate not later than the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 794b, 794d of this title; title 42 sections 4157, 12185; title 49 section 40103.
+This section is referred to in sections 794b, 794d of this title; title 42 section 12185; title 49 section 40103.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Access Board”.</i>
 

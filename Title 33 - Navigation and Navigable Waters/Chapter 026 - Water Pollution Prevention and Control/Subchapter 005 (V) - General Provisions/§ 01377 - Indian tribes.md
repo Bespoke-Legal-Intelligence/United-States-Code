@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-Nothing in this section shall be construed to affect the application of section 1251(g) of this title, and all of the provisions of this section shall be carried out in accordance with the provisions of such section 1251(g) of this title. Indian tribes shall be treated as States for purposes of such section 1251(g) of this title.
+Nothing in this section shall be construed to affect the application of section 1251(g) of thistitle, and all of the provisions of this section shall be carried out in accordance with the provisions of such section 1251(g) of this title. Indian tribes shall be treated as States for purposes of such section 1251(g) of this title.
 
 #### (b) Assessment of sewage treatment needs; report
 
@@ -70,9 +70,11 @@ A prior section 518 of act June 30, 1948, was renumbered section 519 and is set 
 
 #### Grants to Indian Tribes
 
-Pub. L. 106–377, §1(a)(1)\[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–43, provided in part: “That for fiscal year 2001, and notwithstanding section 518(f) of the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1377(f)\], the Administrator is authorized to use the amounts appropriated for any fiscal year under section 319 of that Act \[33 U.S.C. 1329\] to make grants to Indian tribes pursuant to section 319(h) and 518(e) of that Act”.
+Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 685, provided in part: “That for fiscal year 2002, and notwithstanding section 518(f) of the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1377(f)\], the Administrator is authorized to use the amounts appropriated for any fiscal year under section 319 of that Act \[33 U.S.C. 1329\] to make grants to Indian tribes pursuant to section 319(h) and 518(e) of that Act”.
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–43.
 
 Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1083.
 

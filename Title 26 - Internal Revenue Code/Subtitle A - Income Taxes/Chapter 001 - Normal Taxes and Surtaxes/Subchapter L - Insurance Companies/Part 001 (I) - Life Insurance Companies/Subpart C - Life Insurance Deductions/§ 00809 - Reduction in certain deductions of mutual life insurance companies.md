@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (B) Nonadmitted financial assets
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “nonadmitted financial asset” means anynonadmitted asset of the company which is—
+&emsp;&emsp;For purposes of subparagraph (A), the term “nonadmitted financial asset” means any nonadmitted asset of the company which is—
 
 &emsp;&emsp;&emsp;(i) a bond,
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (3) Coordination with estimated tax payments
 
-&emsp;For purposes of applying section 6655 with respect to any installment of estimated tax, the amount of tax shall be determined by using the lesser of—
+&emsp;For purposes of applying section 6655 with respect to any installment of estimated tax,the amount of tax shall be determined by using the lesser of—
 
 &emsp;&emsp;(A) the differential earnings rate of the second tax year preceding the taxable year for which the installment is made, or
 
@@ -380,7 +380,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) the assets of such company as of the close of the taxable year.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the assets of a company shall include all assetstaken into account under this section in determining its equity base (after applying the principles of subsection (h)).
+> &emsp;&emsp;For purposes of the preceding sentence, the assets of a company shall include all assets taken into account under this section in determining its equity base (after applying the principles of subsection (h)).
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 733; amended Pub. L. 99–514, title XVIII, §1821(d)–(h), (r), Oct. 22, 1986, 100 Stat. 2839, 2840, 2843; Pub. L. 100–647, title I, §1018(u)(47), Nov. 10, 1988, 102 Stat. 3593.)
 

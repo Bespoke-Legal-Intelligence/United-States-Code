@@ -40,15 +40,15 @@ In any case in which an initial tax is imposed by subsection (a) on a prohibited
 
 #### (3) Special rule for individual retirement accounts
 
-&emsp;An individual for whose benefit an individual retirement account is established and his beneficiaries shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be an individual retirement account by reason of the application of section 408(e)(2)(A) or if section 408(e)(4) applies to such account.
+&emsp;An individual for whose benefit an individual retirement account is established and hisbeneficiaries shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if, with respect to such transaction, the account ceases to be an individual retirement account by reason of the application of section 408(e)(2)(A) or if section 408(e)(4) applies to such account.
 
 #### (4) Special rule for Archer MSAs
 
 &emsp;An individual for whose benefit an Archer MSA (within the meaning of section 220(d)) is established shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 220(e)(2) applies to such transaction.
 
-#### (5) Special rule for education individual retirement accounts
+#### (5) Special rule for Coverdell education savings accounts
 
-&emsp;An individual for whose benefit an education individual retirement account is established and any contributor to such account shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 530(d) applies with respect to such transaction.
+&emsp;An individual for whose benefit a Coverdell education savings account is established and any contributor to such account shall be exempt from the tax imposed by this section with respect to any transaction concerning such account (which would otherwise be taxable under this section) if section 530(d) applies with respect to such transaction.
 
 #### (d) Exemptions
 
@@ -134,7 +134,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(D) an Archer MSA described in section 220(d),
 
-&emsp;&emsp;(E) an education individual retirement account described in section 530, or
+&emsp;&emsp;(E) a Coverdell education savings account described in section 530, or
 
 &emsp;&emsp;(F) a trust, plan, account, or annuity which, at any time, has been determined by the Secretary to be described in any preceding subparagraph of this paragraph.
 
@@ -210,11 +210,11 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(B) which is otherwise defined in regulations prescribed by the Secretary.
 
-> &emsp;A plan shall not be treated as an employee stock ownership plan unless it meets the requirements of section 409(h), section 409(<i>o</i>), and, if applicable, section 409(n) and section 664(g) and, if the employer has a registration-type class of securities (as defined in section 409(e)(4)), it meets the requirements of section 409(e).
+> &emsp;A plan shall not be treated as an employee stock ownership plan unless it meets the requirements of section 409(h), section 409(<i>o</i>), and, if applicable, section 409(n), section 409(p), and section 664(g) and, if the employer has a registration-type class of securities (as defined in section 409(e)(4)), it meets the requirements of section 409(e).
 
 #### (8) Qualifying employer security
 
-&emsp;The term “qualifying employer security” means any employer security within the meaning of section 409(<i>l</i>). If any moneys or other property of a plan are invested in shares of an investment company registered under the Investment Company Act of 1940, the investment shall not cause that investment company or that investment company's investment adviser or principal underwriter to be treated as a fiduciary or a disqualified person for purposes of this section, except whenan investment company or its investment adviser or principal underwriter acts in connection with a plan covering employees of the investment company, its investment adviser, or its principal underwriter.
+&emsp;The term “qualifying employer security” means any employer security within the meaning of section 409(<i>l</i>). If any moneys or other property of a plan are invested in shares of an investment company registered under the Investment Company Act of 1940, the investment shall not cause that investment company or that investment company's investment adviser or principal underwriter to be treated as a fiduciary or a disqualified person for purposes of this section, except when an investment company or its investment adviser or principal underwriter acts in connection with a plan covering employees of the investment company, its investment adviser, or its principal underwriter.
 
 #### (9) Section made applicable to withdrawal liability payment funds
 
@@ -292,9 +292,13 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;Subparagraph (A)(iii) shall not apply to a transaction which consists of a sale of employer securities to an employee stock ownership plan (as defined in subsection (e)(7)) by a shareholder-employee, a member of the family (as defined in section 267(c)(4)) of such shareholder-employee, or a corporation in which such a shareholder-employee owns stock representing a 50 percent or greater interest described in subparagraph (A).
 
+#### (iii) Loan exception
+
+&emsp;&emsp;&emsp;For purposes of subparagraph (A)(i), the term “owner-employee” shall only include a person described in subclause (II) or (III) of clause (i).
+
 #### (C) Shareholder-employee
 
-&emsp;&emsp;For purposes of subparagraph (B), the term “shareholder-employee” means an employeeor officer of an S corporation who owns (or is considered as owning within the meaning of section 318(a)(1)) more than 5 percent of the outstanding stock of the corporation on any day during the taxable year of such corporation.
+&emsp;&emsp;For purposes of subparagraph (B), the term “shareholder-employee” means an employee or officer of an S corporation who owns (or is considered as owning within the meaning of section 318(a)(1)) more than 5 percent of the outstanding stock of the corporation on any day during the taxable year of such corporation.
 
 #### (g) Application of section
 
@@ -316,7 +320,11 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 
 &emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629.)
+(Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat.198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -325,6 +333,14 @@ The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)
 The Investment Company Act of 1940, referred to in subsecs. (e)(8) and (g), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c)(5). Pub. L. 107–22, §1(b)(1)(D), (3)(D), in heading, substituted “Coverdell education savings” for “education individual retirement” and in text, substituted “a Coverdell education savings” for “an education individual retirement”.
+
+Subsec. (e)(1)(E). Pub. L. 107–22, §1(b)(1)(D), substituted “a Coverdell education savings” for “an education individual retirement”.
+
+Subsec. (e)(7). Pub. L. 107–16, §§656(b), 901, temporarily inserted “, section 409(p),” after “409(n)” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (f)(6)(B)(iii). Pub. L. 107–16, §§612(a), 901, temporarily added cl. (iii). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (c)(4). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer” for “a Archer”.
 
@@ -402,6 +418,16 @@ Subsec. (e)(7). Pub. L. 95–600, §141(f)(5), substituted in heading “Leverag
 
 <b>1976</b>—Subsecs. (c) to (f). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective and Termination Dates of 2001 Amendments
+
+Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
+
+Pub. L. 107–16, title VI, §612(c), June 7, 2001, 115 Stat. 100, provided that: “The amendment made by this section \[amending this section and section 1108 of Title 29, Labor\] shall apply to years beginning after December 31, 2001.”
+
+Amendment by section 656(b) of Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2004, except that in the case of any employee stock ownership plan established after Mar. 14, 2001, or established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of this title is not in effect on such date, amendment applicable to plan years ending after Mar. 14, 2001, see section 656(d) of Pub. L. 107–16, set out as a note under section 409 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 213(b) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 213(f) of Pub. L. 105–34, set out as a note under section 26 of this title.
@@ -434,7 +460,7 @@ Amendment by section 1854(f)(3)(A) of Pub. L. 99–514 effective Oct. 22, 1986, 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 491(d)(45), (46) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by section 491(d)(45), (46) of Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, seesection 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 Amendment by section 491(e)(7), (8) of Pub. L. 98–369 effective Jan. 1, 1984, see section 491(f)(3) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
@@ -494,7 +520,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

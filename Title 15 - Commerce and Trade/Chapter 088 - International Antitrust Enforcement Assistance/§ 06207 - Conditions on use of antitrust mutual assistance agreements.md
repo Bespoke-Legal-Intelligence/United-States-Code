@@ -2,7 +2,7 @@
 
 #### (a) Determinations
 
-Neither the Attorney General nor the Commission may conduct an investigation under section6202 of this title, apply for an order under section 6203 of this title, or provide antitrust evidence to a foreign antitrust authority under an antitrust mutual assistance agreement, unless the Attorney General or the Commission, as the case may be, determines in the particular instance in which the investigation, application, or antitrust evidence is requested that—
+Neither the Attorney General nor the Commission may conduct an investigation under section 6202 of this title, apply for an order under section 6203 of this title, or provide antitrust evidence to a foreign antitrust authority under an antitrust mutual assistance agreement, unless the Attorney General or the Commission, as the case may be, determines in the particular instance in which the investigation, application, or antitrust evidence is requested that—
 
 &emsp;(1) the foreign antitrust authority—
 

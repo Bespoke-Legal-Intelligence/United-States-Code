@@ -76,7 +76,7 @@
 
 #### (c) Secretary of the Interior
 
-From the amount appropriated for any fiscal year under subsection (j) of this section, the Secretary shall reserve 1.226 percent to provide assistance to the Secretary of the Interior in accordance with subsection (i) of this section.
+From the amount appropriated for any fiscal year under subsection (j) of this section, the Secretary shall reserve 1.226 percent to provideassistance to the Secretary of the Interior in accordance with subsection (i) of this section.
 
 #### (d) Allocations to States
 
@@ -262,7 +262,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 #### (i) Base payments
 
-&emsp;&emsp;&emsp;The State shall first award each agency described in paragraph (1) the amount thatagency would have received under this section for the base year, as defined in subsection (e)(2)(A) of this section, if the State had distributed 75 percent of its grant for that year under section 611(d), as then in effect.
+&emsp;&emsp;&emsp;The State shall first award each agency described in paragraph (1) the amount that agency would have received under this section for the base year, as defined in subsection (e)(2)(A) of this section, if the State had distributed 75 percent of its grant for that year under section 611(d), as then in effect.
 
 #### (ii) Allocation of remaining funds
 
@@ -282,7 +282,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 &emsp;&emsp;&emsp;(II) the per-child amount provided under such subpart for fiscal year 1994; and
 
-&emsp;&emsp;(ii) may use those funds to ensure that each local educational agency that received fiscal year 1994 funds under that subpart for children who had transferred from a State-operated or State-supported school or program assisted under that subpart receives, from the combination of funds available under subsection (f)(1)(A) of this section and funds provided under paragraph (1) of this subsection, an amount for each such child, aged 3 through 21 to whom the agency was providing special education and related services on December 1 of the fiscal year for which the funds were appropriated, equal to the per-child amount the agency received under that subpart for fiscal year 1994.
+&emsp;&emsp;(ii) may use those funds to ensure that each local educational agency that received fiscal year 1994 funds under that subpart for children who had transferred from a State-operated or State-supported school or program assisted under that subpart receives, from the combination of funds available under subsection (f)(1)(A) of this section and funds provided under paragraph (1) of this subsection, an amount for each such child,aged 3 through 21 to whom the agency was providing special education and related services on December 1 of the fiscal year for which the funds were appropriated, equal to the per-child amount the agency received under that subpart for fiscal year 1994.
 
 &emsp;(B) The number of children counted under subparagraph (A)(i)(I) shall not exceed the number of children aged 3 through 21 for whom the agency received fiscal year 1994 funds under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965.
 
@@ -360,7 +360,7 @@ For the purpose of this section—
 
 #### (E) Biennial report
 
-&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, including the number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the one in which the report is made.The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
+&emsp;&emsp;To be eligible to receive a grant pursuant to subparagraph (A), the tribe or tribal organization shall provide to the Secretary of the Interior a biennial report of activities undertaken under this paragraph, including the number of contracts and cooperative agreements entered into, the number of children contacted and receiving services for each year, and the estimated number of children needing services during the 2 years following the one in which the report is made. The Secretary of the Interior shall include a summary of this information on a biennial basis in the report to the Secretary of Education required under this subsection. The Secretary of Education may require any additional information from the Secretary of the Interior.
 
 #### (F) Prohibitions
 
@@ -372,7 +372,7 @@ For the purpose of this section—
 
 #### (5) Establishment of advisory board
 
-&emsp;To meet the requirements of section 1412(a)(21) of this title, the Secretary of the Interior shall establish, not later than 6 months after June 4, 1997, under the BIA, an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils under section 1441 of this title in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shall be selected by the Secretary of the Interior. The advisory board shall—
+&emsp;To meet the requirements of section 1412(a)(21) of this title, the Secretary of the Interior shall establish, not later than 6 months after June 4, 1997, under the BIA, an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils under section 1441 of this title in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shallbe selected by the Secretary of the Interior. The advisory board shall—
 
 &emsp;&emsp;(A) assist in the coordination of services within the BIA and with other local, State, and Federal agencies in the provision of education for infants, toddlers, and children with disabilities;
 
@@ -414,7 +414,7 @@ Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Educ
 
 #### Prior Provisions
 
-A prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a),\(e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, §614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, §1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, §13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, §601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, §2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, §201(b), title IV, §§403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, §102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, §201, title IX, §901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, §802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, §311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Effective Date
 

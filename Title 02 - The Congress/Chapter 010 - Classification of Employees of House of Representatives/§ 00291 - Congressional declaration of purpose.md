@@ -1,6 +1,6 @@
 ### §291. Congressional declaration of purpose
 
-It is the purpose of this chapter to provide a classification system for the equitable establishment and adjustment of rates of compensation for, and for the efficient utilization of personnel in, certain positions under the House of Representatives to which this chapter applies, through—
+It is the purpose of this chapter to provide a classification system for the equitable establishment and adjustment of rates of compensation for, and for the efficient utilization of personnelin, certain positions under the House of Representatives to which this chapter applies, through—
 
 &emsp;(1) the creation and maintenance of orderly and equitable compensation relationships for such positions—
 
@@ -16,7 +16,7 @@ It is the purpose of this chapter to provide a classification system for the equ
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 88–652, Oct. 13, 1964, 78 Stat. 1079, known as the House Employees Position Classification Act, which enacted this chapter and amended sections 88c and 123b of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date
 

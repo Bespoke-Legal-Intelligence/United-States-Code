@@ -20,7 +20,7 @@ The President may not delegate or assign the duties of the President under this 
 
 Nothing in this section shall be construed to—
 
-&emsp;(1) impair or otherwise affect the authority of the Director of Central Intelligence to protect intelligence sources and methods from unauthorized disclosure pursuant to section 403–3(c)(6) of this title; or
+&emsp;(1) impair or otherwise affect the authority of the Director of Central Intelligence to protect intelligence sources and methods from unauthorized disclosure pursuant to section 403–3(c)(6) <sup>1</sup> of this title; or
 
 &emsp;(2) supersede or otherwise affect the provisions of subchapter III of this chapter.
 
@@ -30,7 +30,13 @@ As used in this section, the term “appropriate committees of Congress” means
 
 (July 26, 1947, ch. 343, title I, §112, formerly §110, as added Pub. L. 104–293, title III, §308(a), Oct. 11, 1996, 110 Stat. 3466; renumbered §112, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252.)
 
+#### References in Text
+
+Section 403–3(c)(6) of this title, referred to in subsec. (d)(1), was redesignated section 403–3(c)(7) of this title, and a new section 403–3(c)(6) of this title was added, by Pub. L. 107–56, title IX, §901, Oct. 28, 2001, 115 Stat. 387.
+
 #### Codification
 
 Section was formerly classified to section 404d–1 of this title prior to renumbering by Pub. L. 105–107.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

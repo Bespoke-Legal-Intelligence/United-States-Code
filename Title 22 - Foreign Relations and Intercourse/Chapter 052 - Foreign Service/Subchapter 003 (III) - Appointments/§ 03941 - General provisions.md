@@ -10,7 +10,7 @@ The Secretary shall prescribe, as appropriate, written, oral, physical, foreign 
 
 #### (c) Veteran or disabled veteran
 
-The fact that an applicant for appointment as a Foreign Service officer candidate is a veteran or disabled veteran shall be considered an affirmative factor in making such appointments. As used in this subsection, the term “veteran or disabled veteran” means an individual who is a preference eligible under subparagraph (A), (B), or (C) of section 2108(3) of title 5.
+The fact that an applicant for appointment as a Foreign Service officer candidate is a veteranor disabled veteran shall be considered an affirmative factor in making such appointments. As used in this subsection, the term “veteran or disabled veteran” means an individual who is a preference eligible under subparagraph (A), (B), or (C) of section 2108(3) of title 5.
 
 #### (d) Career and noncareer appointments
 

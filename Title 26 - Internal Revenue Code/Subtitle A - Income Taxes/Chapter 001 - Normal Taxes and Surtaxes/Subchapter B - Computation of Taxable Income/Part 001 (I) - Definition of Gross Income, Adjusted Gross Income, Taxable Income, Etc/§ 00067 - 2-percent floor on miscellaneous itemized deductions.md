@@ -174,5 +174,5 @@ Secretary may reduce 500 person requirement.—The Secretary of the Treasury or 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 772, 773, 6654 of this title.
+This section is referred to in sections 56, 642, 772, 773, 6654 of this title.
 

@@ -60,7 +60,7 @@ Each Board shall, in accordance with the provisions of this chapter—
 
 &emsp;(2) provide a forum for coordinating research among research institutions and agencies;
 
-&emsp;(3) provide for review and comment on research plans by affected users and interests, such as the commercial and recreational fishing industries, other marine industries, State and local government entities, and environmental organizations;
+&emsp;(3) provide for review and comment on research plans by affected users and interests,such as the commercial and recreational fishing industries, other marine industries, State and local government entities, and environmental organizations;
 
 &emsp;(4) ensure that the highest quality of research projects will be conducted to carry out the comprehensive plan; and
 

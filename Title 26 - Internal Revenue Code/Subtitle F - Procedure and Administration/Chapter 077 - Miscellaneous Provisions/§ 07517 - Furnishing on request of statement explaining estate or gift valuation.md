@@ -22,7 +22,7 @@ Except to the extent otherwise provided by law, the value determined or proposed
 
 #### Effective Date
 
-Section 2008(d)(1) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[enacting this section and amending sections 2031 and 2512 of this title\]—
+Section 2008(d)(1) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, providedthat: “The amendments made by subsection (a) \[enacting this section and amending sections 2031 and 2512 of this title\]—
 
 &emsp;“(A) insofar as they relate to the tax imposed under chapter 11 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 2001 et seq. of this title\], shall apply to the estates of decedents dying after December 31, 1976, and
 

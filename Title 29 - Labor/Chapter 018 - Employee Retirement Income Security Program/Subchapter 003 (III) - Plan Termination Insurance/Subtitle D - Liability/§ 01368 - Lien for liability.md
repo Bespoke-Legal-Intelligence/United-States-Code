@@ -2,7 +2,7 @@
 
 #### (a) Creation of lien
 
-If any person liable to the corporation under section 1362, 1363, or 1364 of this title neglects orrefuses to pay, after demand, the amount of such liability (including interest), there shall be a lien in favor of the corporation in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title <sup>1</sup>
+If any person liable to the corporation under section 1362, 1363, or 1364 of this title neglects or refuses to pay, after demand, the amount of such liability (including interest), there shall be a lien in favor of the corporation in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 1362(a) of this title <sup>1</sup>
 
 #### (b) Term of lien
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### Codification
 
-A former subsec. (f) of this section was originally subsec. (e) of section 1362 of this title and was redesignated as subsec. (f) of this section by Pub. L. 100–203,§9312(b)(2)(B)(ii). Subsequently, Pub. L. 100–203, §9312(b)(2)(B)(ii), was amended generally by Pub. L. 101–239, §7881(f)(10)(B), and, as so amended, no longer contains language redesignating subsec. (e) of section 1362 as subsec. (f) of this section. As a result of that amendment, the transfer of subsec. (e) of section 1362 to subsec. (f) of this section was rescinded.
+A former subsec. (f) of this section was originally subsec. (e) of section 1362 of this title and was redesignated as subsec. (f) of this section by Pub. L. 100–203, §9312(b)(2)(B)(ii). Subsequently, Pub. L. 100–203, §9312(b)(2)(B)(ii), was amended generally by Pub. L. 101–239, §7881(f)(10)(B), and, as so amended, no longer contains language redesignating subsec. (e) of section 1362 as subsec. (f) of this section. As a result of that amendment, the transfer of subsec. (e) of section 1362 to subsec. (f) of this section was rescinded.
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Section 7894(g)(4)(B) of Pub. L. 101–239 provided that: “The amendment made 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the PensionBenefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
 
 #### Effective Date of 1986 Amendment
 

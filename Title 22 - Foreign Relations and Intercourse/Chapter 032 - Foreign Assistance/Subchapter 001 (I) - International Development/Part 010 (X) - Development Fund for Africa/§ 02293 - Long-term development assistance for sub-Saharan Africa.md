@@ -28,7 +28,7 @@ The President is authorized to furnish project and program assistance, on such t
 
 Except to the extent inconsistent with this section—
 
-&emsp;(1) any reference in any law to part I of this subchapter (including references to sections 2151a through 2151d of this title) shall bedeemed to include a reference to this section; and
+&emsp;(1) any reference in any law to part I of this subchapter (including references to sections 2151a through 2151d of this title) shall be deemed to include a reference to this section; and
 
 &emsp;(2) assistance under this section shall be provided consistent with the policies contained in section 2151–1 of this title.
 
@@ -102,7 +102,7 @@ The critical sectoral priorities for long-term development, as described in subs
 
 #### (2) Health
 
-&emsp;Improving health conditions, with special emphasis on meeting the health needs of mothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
+&emsp;Improving health conditions, with special emphasis on meeting the health needs ofmothers and children (including displaced children) through the establishment of primary health care systems that give priority to preventive health and that will be ultimately self-sustaining. In addition, providing training and training facilities, in sub-Saharan Africa, for doctors and other health care providers, notwithstanding any provision of law that restricts assistance to foreign countries.
 
 #### (3) Voluntary family planning services
 
@@ -166,7 +166,7 @@ Funds made available to carry out this section may be used to assist the governm
 
 #### (2) Sectors
 
-&emsp;The sectors with respect to which assistance may be provided under this subsection are thefollowing: transportation; manpower development; agriculture and natural resources; energy (including the improved utilization of electrical power sources which already exist in the member states and offer the potential to swiftly reduce the dependence of those states on South Africa for electricity); and industrial development and trade (including private sector initiatives).
+&emsp;The sectors with respect to which assistance may be provided under this subsection are the following: transportation; manpower development; agriculture and natural resources; energy (including the improved utilization of electrical power sources which already exist in the member states and offer the potential to swiftly reduce the dependence of those states on South Africa for electricity); and industrial development and trade (including private sector initiatives).
 
 #### (3) Relation to DFA policies and authorities
 
@@ -240,7 +240,7 @@ Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, provided that:
 
 “(a)
 
-Additional Requirements in Carrying Out the Initiative.—In providing development assistance under the Africa Food Security Initiative, or any comparableor successor program, the Administrator of the United States Agency for International Development—
+Additional Requirements in Carrying Out the Initiative.—In providing development assistance under the Africa Food Security Initiative, or any comparable or successor program, the Administrator of the United States Agency for International Development—
 
 &emsp;“(1) shall emphasize programs and projects that improve the food security of infants, young children, school-age children, women and food-insecure households, or that improve the agricultural productivity, incomes, and marketing of the rural poor in Africa;
 
@@ -352,7 +352,7 @@ Additional Requirements.—Such plan shall seek to ensure that—
 
 #### Reports to Congress
 
-Section 562(c) of Pub. L. 101–513 provided that: “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
+Section 562(c) of Pub. L. 101–513 provided that: “As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of theForeign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
 
 &emsp;“(1) the nature and extent of consultation to ensure local perspectives, as described in subsections (e)(1) and (f) of section 496 \[22 U.S.C. 2293(e)(1), (f)\];
 

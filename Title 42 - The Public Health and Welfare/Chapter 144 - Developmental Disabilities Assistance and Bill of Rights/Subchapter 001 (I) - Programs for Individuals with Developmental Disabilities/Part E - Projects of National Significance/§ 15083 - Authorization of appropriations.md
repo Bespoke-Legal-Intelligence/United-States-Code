@@ -12,7 +12,7 @@ There are authorized to be appropriated to carry out the projects specified in t
 
 #### (2) Administrative costs
 
-&emsp;Not more than 1 percent of the amount appropriated under subsection (a) of this section for each fiscal year may be used to provide for the administrative costs (other than compensation of Federal employees) of the Administration on Developmental Disabilities for administering this part and parts B, C, and D of this subchapter, including monitoring the performance of and providing technical assistance to, entities that receive funds under this subchapter.
+&emsp;Not more than 1 percent of the amount appropriated under subsection (a) of this sectionfor each fiscal year may be used to provide for the administrative costs (other than compensation of Federal employees) of the Administration on Developmental Disabilities for administering this part and parts B, C, and D of this subchapter, including monitoring the performance of and providing technical assistance to, entities that receive funds under this subchapter.
 
 #### (c) Technical assistance for Councils and Centers
 

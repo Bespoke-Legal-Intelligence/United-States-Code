@@ -46,5 +46,9 @@ Subsec. (d). Pub. L. 106–185, §13(a)(4), added subsec. (d). Former subsec. (d
 
 Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 981 of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

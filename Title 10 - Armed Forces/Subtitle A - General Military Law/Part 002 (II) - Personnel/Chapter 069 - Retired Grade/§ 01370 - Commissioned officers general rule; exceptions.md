@@ -30,6 +30,12 @@ Grades.—(1) An officer who is serving in or has served in the grade of general
 
 &emsp;(B) while there is pending the disposition of an adverse personnel action against the officer for alleged misconduct.
 
+(3)(A) The Secretary of Defense may delegate authority to make a certification with respect to an officer under paragraph (1) only to the Under Secretary of Defense for Personnel and Readiness or the Deputy Under Secretary of Defense for Personnel and Readiness.
+
+(B) If authority is delegated under subparagraph (A) and, in the course of consideration of an officer for a certification under paragraph (1), the Under Secretary or (if such authority is delegated to both the Under and Deputy Under Secretary) the Deputy Under Secretary makes a determination described in subparagraph (C) with respect to that officer, the Under Secretary or Deputy Under Secretary, as the case may be, may not exercise the delegated authority in that case, but shall refer the matter to the Secretary of Defense, who shall personally determine whether to issue a certification under paragraph (1) with respect to that officer.
+
+(C) A determination referred to in subparagraph (B) is a determination that there is potentially adverse information concerning an officer and that such information has not previously been submitted to the Senate in connection with the consideration by the Senate of a nomination of that officer for an appointment for which the advice and consent of the Senate is required.
+
 (d)
 
 Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for satisfactory service in a higher grade, under some other provision of law, a person who is entitled to retired pay under chapter 1223 of this title shall, upon application under section 12731 of this title, be credited with satisfactory service in the highest grade in which that person served satisfactorily at any time in the armed forces, as determined by the Secretary concerned in accordance with this subsection.
@@ -38,7 +44,11 @@ Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for sati
 
 (3)(A) In order to be credited with satisfactory service in an officer grade above major or lieutenant commander, a person covered by paragraph (1) must have served satisfactorily in that grade (as determined by the Secretary of the military department concerned) as a reserve commissioned officer in an active status, or in a retired status on active duty, for not less than three years.
 
-(B) A person covered by subparagraph (A) who has completed at least six months of satisfactory service in grade and is transferred from an active status or discharged as a reserve commissioned officer solely due to the requirements of a nondiscretionary provision of law requiring that transfer or discharge due to the person's age or years of service may be credited with satisfactory service in the grade in which serving at the time of such transfer or discharge, notwithstanding failure of the person to complete three years of service in that grade.
+(B) A person covered by subparagraph (A) who has completed at least six months of satisfactory service in grade may be credited with satisfactory service in the grade in which serving at the time of transfer or discharge, notwithstanding failure of the person to complete three years of service in that grade, if that person is transferred from an active status or discharged as a reserve commissioned officer—
+
+&emsp;(i) solely due to the requirements of a nondiscretionary provision of law requiring that transfer or discharge due to the person's age or years of service; or
+
+&emsp;(ii) because the person no longer meets the qualifications for membership in the Ready Reserve solely because of a physical disability, as determined, at a minimum, by a medical evaluation board and at the time of such transfer or discharge such person (pursuant to section 12731b of this title or otherwise) meets the service requirements established by section 12731(a) of this title for eligibility for retired pay under chapter 1223 of this title, unless the disability is described in section 12731b of this title.
 
 (C) If a person covered by subparagraph (A) has completed at least six months of satisfactory service in grade, the person was serving in that grade while serving in a position of adjutant general required under section 314 of title 32 or while serving in a position of assistant adjutant general subordinate to such a position of adjutant general, and the person has failed to complete three years of service in that grade solely because the person's appointment to such position has been terminated or vacated as described in section 324(b) of such title, then such person may be credited with satisfactory service in that grade, notwithstanding the failure to complete three years of service in that grade.
 
@@ -52,9 +62,13 @@ Reserve Officers.—(1) Unless entitled to a higher grade, or to credit for sati
 
 (5) The Secretary of Defense may authorize the Secretary of a military department to reduce the 3-year period required by paragraph (3)(A) to a period not less than 2 years in the case of retirements effective during the period beginning on October 17, 1998, and ending on December 31, 2001. The number of reserve commissioned officers of an armed force in the same grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under this paragraph may not exceed the number equal to 2 percent of the strength authorized for that fiscal year for reserve commissioned officers of that armed force in an active status in that grade.
 
-(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
+(Added Pub. L. 96–513, title I, §112, Dec. 12, 1980, 94 Stat. 2876; amended Pub. L. 101–510, div. A, title V, §522, Nov. 5, 1990, 104 Stat. 1561; Pub. L. 103–160, div. A, title V, §561(d), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 103–337, div. A, title XVI, §§1641, 1671(c)(7)(B), Oct. 5, 1994, 108 Stat. 2968, 3014; Pub. L. 104–106, div. A, title V, §502(a), (b), (f), (g), Feb. 10, 1996, 110 Stat. 292, 293; Pub. L. 104–201, div. A, title V, §544(a), Sept. 23, 1996, 110 Stat. 2522; Pub. L. 105–261, div. A, title V, §§512(a), 513(a), 561(d), (<i>o</i>), Oct. 17, 1998, 112 Stat. 2007, 2025, 2026; Pub. L. 106–65, div. A, title X, §1066(a)(9), (b)(3), Oct. 5, 1999, 113 Stat. 770, 772; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(d)\], Oct.30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title V, §§502, 514, Dec. 28, 2001, 115 Stat. 1080, 1093.)
 
 #### Amendments
+
+2001—Subsec. (c)(3). Pub. L. 107–107, §502, added par. (3).
+
+Subsec. (d)(3)(B). Pub. L. 107–107, §514, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A person covered by subparagraph (A) who has completed at least six months of satisfactory service in grade and is transferred from an active status or discharged as a reserve commissioned officer solely due to the requirements of a nondiscretionary provision of law requiring that transfer or discharge due to the person's age or years of service may be credited with satisfactory service in the grade in which serving at the time of such transfer or discharge, notwithstanding failure of the person to complete three years of service in that grade.”
 
 2000—Subsecs. (a)(2)(A), (d)(5). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 

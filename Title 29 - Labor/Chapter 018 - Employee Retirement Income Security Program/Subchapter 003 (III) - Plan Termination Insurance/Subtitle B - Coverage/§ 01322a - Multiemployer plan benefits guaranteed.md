@@ -28,7 +28,7 @@ The corporation shall guarantee, in accordance with this section, the payment of
 
 #### (c) Determinations respecting amount of guarantee
 
-(1) Except as provided in subsection (g) of this section, the monthly benefit of a participant ora beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
+(1) Except as provided in subsection (g) of this section, the monthly benefit of a participant or a beneficiary which is guaranteed under this section by the corporation with respect to a plan is the product of—
 
 &emsp;(A) 100 percent of the accrual rate up to $11, plus 75 percent of the lesser of—
 
@@ -132,7 +132,7 @@ The corporation shall not guarantee benefits under a multiemployer plan which, u
 
 &emsp;(ii) a joint resolution described in subparagraph (B) is not enacted before the close of the 60th legislative day after such schedule is submitted to the Congress.
 
-(B) For purposes of subparagraph (A), a joint resolution described in this subparagraph is a joint resolution the matter after the resolving clause of which is as follows: “The revised premium schedule transmitted to the Congress by the Pension Benefit Guaranty Corporation under section 4022A(g)(4) of the Employee Retirement Income Security Act of 1974 on          is hereby disapproved.”, the blank space therein being filled with the date on which the revised schedule was submitted.
+(B) For purposes of subparagraph (A), a joint resolution described in this subparagraph is ajoint resolution the matter after the resolving clause of which is as follows: “The revised premium schedule transmitted to the Congress by the Pension Benefit Guaranty Corporation under section 4022A(g)(4) of the Employee Retirement Income Security Act of 1974 on          is hereby disapproved.”, the blank space therein being filled with the date on which the revised schedule was submitted.
 
 (C) For purposes of subparagraph (A), the term “legislative day” means any calendar day other than a day on which either House is not in session because of a sine die adjournment or an adjournment of more than 3 days to a day certain.
 
@@ -206,7 +206,7 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §951(b)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7893(b) of Pub. L. 101–239 effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, Pub. L. 99–272, title XI, to which such amendment relates, see section 7893(h) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

@@ -6,7 +6,7 @@ The Secretary of the Army may—
 
 &emsp;(1) provide emergency assistance to prevent or reduce damage attributable to high water levels in the Great Lakes, including provision of sandbags, sheeting, and stones and other armoring devices (taking account of flooding and erosion of other property which may be caused by such activity) but not including construction of permanent structures;
 
-&emsp;(2) provide technical assistance to individuals and local governments with respect to measures to prevent or reduce such damage; and
+&emsp;(2) provide technical assistance to individuals and local governments with respect tomeasures to prevent or reduce such damage; and
 
 &emsp;(3) compile and disseminate information on—
 
@@ -42,7 +42,7 @@ The Secretary of the Army may—
 
 #### References in Text
 
-This title, referred to in subsec. (b)(1), is title II of Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4711, known asthe “Great Lakes Planning Assistance Act of 1988”. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This title, referred to in subsec. (b)(1), is title II of Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4711, known as the “Great Lakes Planning Assistance Act of 1988”. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 

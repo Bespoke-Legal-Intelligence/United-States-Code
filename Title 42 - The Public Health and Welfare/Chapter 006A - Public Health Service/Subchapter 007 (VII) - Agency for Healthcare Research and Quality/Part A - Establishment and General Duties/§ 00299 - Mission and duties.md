@@ -64,7 +64,7 @@ The purpose of the Agency is to enhance the quality, appropriateness, and effect
 
 A prior section 299, act July 1, 1944, ch. 373, title IX, §901, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2189; amended Pub. L. 102–410, §2(a), Oct. 13, 1992, 106 Stat. 2094, established the Agency for Health Care Policy and Research, prior to the general amendment of this subchapter by Pub. L. 106–129.
 
-Another prior section 299, act July 1, 1944, ch. 373, title IX, §900, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 926; amended Oct. 30, 1970, Pub. L. 91–515, title I, §102, 84 Stat. 1297, set forth Congressional declaration of purpose of this subchapter to encourage and assist regional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
+Another prior section 299, act July 1, 1944, ch. 373, title IX, §900, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 926; amended Oct. 30, 1970, Pub. L. 91–515, title I, §102, 84 Stat. 1297, set forth Congressional declaration of purpose of this subchapter to encourage and assistregional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
 
 A prior section 901 of act July 1, 1944, was classified to section 299a of this title prior to repeal by Pub. L. 99–117.
 
@@ -74,7 +74,7 @@ Pub. L. 106–129, §2(b), Dec. 6, 1999, 113 Stat. 1670, provided that:
 
 “(1)
 
-In general.—Section 901(a) of the Public Health Service Act \[subsec. (a) of this section\] (as added bysubsection (a) of this section) applies as a redesignation of the agency that carried out title IX of such Act \[this subchapter\] on the day before the date of the enactment of this Act \[Dec. 6, 1999\], and not as the termination of such agency and the establishment of a different agency. The amendment made by subsection (a) of this section \[enacting this subchapter\] does not affect appointments of the personnel of such agency who were employed at the agency on the day before such date, including the appointments of members of advisory councils or study sections of the agency who were serving on the day before such date of enactment.
+In general.—Section 901(a) of the Public Health Service Act \[subsec. (a) of this section\] (as added by subsection (a) of this section) applies as a redesignation of the agency that carried out title IX of such Act \[this subchapter\] on the day before the date of the enactment of this Act \[Dec. 6, 1999\], and not as the termination of such agency and the establishment of a different agency. The amendment made by subsection (a) of this section \[enacting this subchapter\] does not affect appointments of the personnel of such agency who were employed at the agency on the day before such date, including the appointments of members of advisory councils or study sections of the agency who were serving on the day before such date of enactment.
 
 “(2)
 
@@ -86,7 +86,7 @@ Section 6103(f) of Pub. L. 101–239 provided that personnel of the Department o
 
 #### Executive Order No. 13017
 
-Ex. Ord. No. 13017, Sept. 5, 1996, 61 F.R. 47659, as amended by Ex. Ord. No. 13040, Mar. 25, 1997, 62 F.R. 14773; Ex. Ord. No. 13056, July 21, 1997, 62 F.R. 39415, which established the Advisory Commission on Consumer Protection and Quality in the Health Care Industry, was revoked by Ex. Ord. No. 13138, §3(a), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13017, Sept. 5, 1996, 61 F.R. 47659, as amended by Ex. Ord. No. 13040, Mar. 25, 1997, 62 F.R. 14773; Ex. Ord. No. 13056, July 21, 1997, 62 F.R. 39415, which established the Advisory Commission on Consumer Protection and Quality in the Health Care Industry, was revoked by Ex. Ord. No. 13138, §3(a), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

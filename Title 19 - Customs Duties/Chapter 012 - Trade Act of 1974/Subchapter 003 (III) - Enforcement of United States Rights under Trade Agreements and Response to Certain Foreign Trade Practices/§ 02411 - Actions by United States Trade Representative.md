@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) is unjustifiable and burdens or restricts United States commerce;
 
-> the Trade Representative shall take action authorized in subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+> the Trade Representative shall take action authorized in subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to anyother area of pertinent relations with the foreign country.
 
 (2) The Trade Representative is not required to take action under paragraph (1) in any case in which—
 

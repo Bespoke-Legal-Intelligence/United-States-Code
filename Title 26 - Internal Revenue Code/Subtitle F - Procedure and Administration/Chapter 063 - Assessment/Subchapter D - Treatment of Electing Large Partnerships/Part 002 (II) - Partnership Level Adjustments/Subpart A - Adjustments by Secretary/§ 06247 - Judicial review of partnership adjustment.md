@@ -14,7 +14,7 @@ Within 90 days after the date on which a notice of a partnership adjustment is m
 
 #### (1) In general
 
-&emsp;A readjustment petition under this section may be filed in a district court of the United States or the Claims Court only if the partnership filing the petition deposits with the Secretary, on or before the date the petition is filed, the amount for which the partnership would be liable under section 6242(b) (as of the date of the filing of the petition) if the partnership items were adjusted as provided by the notice of partnership adjustment. The court may by order provide that the jurisdictionalrequirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirement and any shortfall of the amount required to be deposited is timely corrected.
+&emsp;A readjustment petition under this section may be filed in a district court of the United States or the Claims Court only if the partnership filing the petition deposits with the Secretary, on or before the date the petition is filed, the amount for which the partnership would be liable under section 6242(b) (as of the date of the filing of the petition) if the partnership items were adjusted as provided by the notice of partnership adjustment. The court may by order provide that the jurisdictional requirements of this paragraph are satisfied where there has been a good faith attempt to satisfy such requirement and any shortfall of the amount required to be deposited is timely corrected.
 
 #### (2) Interest payable
 

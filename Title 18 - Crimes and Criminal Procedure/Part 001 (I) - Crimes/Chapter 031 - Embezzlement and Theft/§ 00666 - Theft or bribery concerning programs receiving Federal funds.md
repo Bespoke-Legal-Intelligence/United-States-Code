@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) corruptly solicits or demands for the benefit of any person, or accepts or agrees to accept, anything of value from any person, intending to be influenced or rewarded in connection with any business, transaction, or series of transactions of such organization, government, or agency involving any thing of value of $5,000 or more; or
 
-&emsp;(2) corruptly gives, offers, or agrees to give anything of value to any person, with intent to influence or reward an agent of an organization or of a State, local or Indian tribal government, or any agency thereof, in connection with any business, transaction, or series of transactions of such organization, government, or agency involving anything of value of $5,000 or more;
+&emsp;(2) corruptly gives, offers, or agrees to give anything of value to any person, with intent to influence or reward an agent of an organization or of a State, local or Indian tribal government, or any agency thereof, in connectionwith any business, transaction, or series of transactions of such organization, government, or agency involving anything of value of $5,000 or more;
 
 > shall be fined under this title, imprisoned not more than 10 years, or both.
 
@@ -24,7 +24,7 @@
 
 &emsp;(1) the term “agent” means a person authorized to act on behalf of another person or a government and, in the case of an organization or government, includes a servant or employee, and a partner, director, officer, manager, and representative;
 
-&emsp;(2) the term “government agency” means a subdivision of the executive, legislative, judicial, or other branch of government, including a department, independent establishment, commission, administration, authority, board,and bureau, and a corporation or other legal entity established, and subject to control, by a government or governments for the execution of a governmental or intergovernmental program;
+&emsp;(2) the term “government agency” means a subdivision of the executive, legislative, judicial, or other branch of government, including a department, independent establishment, commission, administration, authority, board, and bureau, and a corporation or other legal entity established, and subject to control, by a government or governments for the execution of a governmental or intergovernmental program;
 
 &emsp;(3) the term “local” means of or pertaining to a political subdivision within a State;
 

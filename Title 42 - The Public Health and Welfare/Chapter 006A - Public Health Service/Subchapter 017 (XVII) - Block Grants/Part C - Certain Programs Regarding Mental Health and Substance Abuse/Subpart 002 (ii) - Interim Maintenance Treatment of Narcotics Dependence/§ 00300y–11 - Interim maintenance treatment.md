@@ -8,7 +8,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 &emsp;&emsp;(A) meet the conditions for admission to such programs that dispense methadone as part of comprehensive treatment for such dependence; and
 
-&emsp;&emsp;(B) are seeking admission to such programs that so dispense methadone, but as aresult of the limited capacity of the programs, will not gain such admission until 14 or more days after seeking admission to the programs; and
+&emsp;&emsp;(B) are seeking admission to such programs that so dispense methadone, but as a result of the limited capacity of the programs, will not gain such admission until 14 or more days after seeking admission to the programs; and
 
 &emsp;(2) in dispensing methadone to such individuals, to provide only minimum ancillary services during the period in which the individuals are waiting for admission to programs of comprehensive treatment.
 
@@ -70,11 +70,11 @@ Sections 300y–21 to 300y–27 terminated Jan. 1, 1991, pursuant to section 300
 
 Section 300y–21, act July 1, 1944, ch. 373, title XIX, §1931, as added Nov. 4, 1988, Pub. L. 100–607, title IV, §408(a), 102 Stat. 3117, provided definitions for this part.
 
-A prior section 1931 of act July 1, 1944, ch. 373, title XIX, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 559, provided criminal penalty for false statements and was classified to former section 300y–10 of this title, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
+A prior section 1931 of act July 1, 1944, ch. 373, title XIX, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901,95 Stat. 559, provided criminal penalty for false statements and was classified to former section 300y–10 of this title, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
 
 Section 300y–22, act July 1, 1944, ch. 373, title XIX, §1932, as added Nov. 4, 1988, Pub. L. 100–607, title IV, §408(a), 102 Stat. 3117, authorized appropriations for this part.
 
-A prior section 1932 of act July 1, 1944, ch. 373, title XIX, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 559; amended Jan. 4, 1983, Pub. L. 97–414, §8(v),96 Stat. 2063, related to applicability of other provisions and promulgation of regulations and was classified to former section 300y–11 of this title, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
+A prior section 1932 of act July 1, 1944, ch. 373, title XIX, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 559; amended Jan. 4, 1983, Pub. L. 97–414, §8(v), 96 Stat. 2063, related to applicability of other provisions and promulgation of regulations and was classified to former section 300y–11 of this title, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
 
 Section 300y–23, act July 1, 1944, ch. 373, title XIX, §1933, as added Nov. 4, 1988, Pub. L. 100–607, title IV, §408(a), 102 Stat. 3117, provided for allotments under this part.
 

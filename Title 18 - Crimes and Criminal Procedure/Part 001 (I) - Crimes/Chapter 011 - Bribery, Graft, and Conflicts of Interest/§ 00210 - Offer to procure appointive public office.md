@@ -16,7 +16,7 @@ The punishment provision, added at the end of this section and section 215 \[now
 
 #### Prior Provisions
 
-A prior section 210, act June 25, 1948, ch. 645, 62 Stat. 693, related to acceptance of a bribe by a witness, priorto the general amendment of this chapter by Pub. L. 87–849 and is substantially covered in revised section 201.
+A prior section 210, act June 25, 1948, ch. 645, 62 Stat. 693, related to acceptance of a bribe by a witness, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered in revised section 201.
 
 #### Amendments
 

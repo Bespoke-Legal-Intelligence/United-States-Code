@@ -90,7 +90,7 @@ Restrictions.—In addition to the restrictions set forth in subsections (a) and
 
 &emsp;&emsp;(A) serves in the position of Vice President of the United States,
 
-&emsp;&emsp;(B) is employed in a position in the executive branch of the United States (including any independent agency) at a rate of paypayable for level I of the Executive Schedule or employed in a position in the Executive Office of the President at a rate of pay payable for level II of the Executive Schedule, or
+&emsp;&emsp;(B) is employed in a position in the executive branch of the United States (including any independent agency) at a rate of pay payable for level I of the Executive Schedule or employed in a position in the Executive Office of the President at a rate of pay payable for level II of the Executive Schedule, or
 
 &emsp;&emsp;(C) is appointed by the President to a position under section 105(a)(2)(A) of title 3 or by the Vice President to a position under section 106(a)(1)(A) of title 3,
 
@@ -178,7 +178,7 @@ Definitions.—As used in this subsection—
 
 &emsp;&emsp;(K) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
 
-&emsp;&emsp;(L) the term “Member of the leadership of the House of Representatives” means the Speaker, majority leader, minority leader, majority whip, minority whip, chief deputy majority whip, chief deputy minority whip, chairman of the Democratic Steering Committee, chairman and vice chairman of the Democratic Caucus, chairman, vice chairman, and secretary of the Republican Conference, chairman of the Republican Research Committee, and chairman of the Republican Policy Committee, of the House of Representatives (or any similar position created on or after the effective date set forth in section 102(a) of the Ethics Reform Act of 1989);
+&emsp;&emsp;(L) the term “Member of the leadership of the House of Representatives” means the Speaker, majority leader, minority leader, majority whip, minority whip, chief deputy majority whip, chief deputy minority whip, chairman of the Democratic Steering Committee, chairman and vice chairman of the Democratic Caucus, chairman, vice chairman, and secretary of the Republican Conference, chairman of the Republican Research Committee, and chairman of the Republican Policy Committee, of the House ofRepresentatives (or any similar position created on or after the effective date set forth in section 102(a) of the Ethics Reform Act of 1989);
 
 &emsp;&emsp;(M) the term “Member of the leadership of the Senate” means the Vice President, and the President pro tempore, Deputy President pro tempore, majority leader, minority leader, majority whip, minority whip, chairman and secretary of the Conference of the Majority, chairman and secretary of the Conference of the Minority, chairman and co-chairman of the Majority Policy Committee, and chairman of the Minority Policy Committee, of the Senate (or any similar position created on or after the effective date set forth in section 102(a) of the Ethics Reform Act of 1989).
 
@@ -252,7 +252,7 @@ State and local governments and institutions, hospitals, and organizations.—Th
 
 &emsp;(3)
 
-International organizations.—The restrictions contained in this section shall not apply to an appearance or communication on behalf of, or advice or aid to, an international organization in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States.
+International organizations.—The restrictions contained in this section shall notapply to an appearance or communication on behalf of, or advice or aid to, an international organization in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States.
 
 &emsp;(4)
 
@@ -260,7 +260,7 @@ Special knowledge.—The restrictions contained in subsections (c), (d), and (e)
 
 &emsp;(5)
 
-Exception for scientific or technological information.—The restrictions contained in subsections (a), (c), and (d) shall not apply with respect to the making of communications solely for the purpose of furnishing scientific or technological information, if such communications are made under procedures acceptable to the department or agency concerned or if the head of the department or agency concerned with the particular matter, in consultation with the Director of the Office of Government Ethics, makes a certification, published in the Federal Register, that the former officer or employee has outstanding qualifications in a scientific, technological, or other technical discipline, and is acting with respect to a particular matter which requires such qualifications, and that the national interest would be served by the participation of the former officer or employee. For purposesof this paragraph, the term “officer or employee” includes the Vice President.
+Exception for scientific or technological information.—The restrictions contained in subsections (a), (c), and (d) shall not apply with respect to the making of communications solely for the purpose of furnishing scientific or technological information, if such communications are made under procedures acceptable to the department or agency concerned or if the head of the department or agency concerned with the particular matter, in consultation with the Director of the Office of Government Ethics, makes a certification, published in the Federal Register, that the former officer or employee has outstanding qualifications in a scientific, technological, or other technical discipline, and is acting with respect to a particular matter which requires such qualifications, and that the national interest would be served by the participation of the former officer or employee. For purposes of this paragraph, the term “officer or employee” includes the Vice President.
 
 &emsp;(6)
 
@@ -300,7 +300,7 @@ Political parties and campaign committees.—(A) Except as provided in subparagr
 
 &emsp;&emsp;(vii) the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(k)(1)(A) The President may grant a waiver of a restriction imposed by this section to any officer or employee described in paragraph (2) if the President determines and certifies in writing that it is in the public interest to grant the waiver and that the services of the officer or employee are critically needed for the benefit of the Federal Government. Not more than 25 officers and employees currently employed by the Federal Government at any one time may have been granted waivers under this paragraph.
+(k)(1)(A) The President may grant a waiver of a restriction imposed by this section to any officer or employee described in paragraph (2) if the President determines and certifies in writingthat it is in the public interest to grant the waiver and that the services of the officer or employee are critically needed for the benefit of the Federal Government. Not more than 25 officers and employees currently employed by the Federal Government at any one time may have been granted waivers under this paragraph.
 
 (B)(i) A waiver granted under this paragraph to any person shall apply only with respect to activities engaged in by that person after that person's Federal Government employment is terminated and only to that person's employment at a Government-owned, contractor operated entity with which the person served as an officer or employee immediately before the person's Federal Government employment began.
 
@@ -420,7 +420,7 @@ Subsec. (j)(1). Pub. L. 101–280, §2(a)(10)(A), amended subsec. (j)(1), as ame
 
 Subsec. (j)(3). Pub. L. 101–280, §2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (c), (d), and (e)” and “in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States” for “of which the United States is a member”.
 
-Subsec. (j)(4). Pub. L. 101–280, §2(a)(10)(C), amended subsec. (j)(4), as amended by Pub. L. 101–194, by substituting “Special” for “Personal matters and special” in heading, substituting “prevent an individual” for “apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibitions of those subsections prevent a former officer or employee”, substituting “individual's” for “former officer's or employee's”, and striking out “, other than that regularly provided for by law or regulation for witnesses” after “if no compensation is thereby received”.
+Subsec. (j)(4). Pub. L. 101–280, §2(a)(10)(C), amended subsec. (j)(4), as amended by Pub. L. 101–194, by substituting “Special” for “Personal matters and special” in heading, substituting “prevent an individual” for “apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibitions of thosesubsections prevent a former officer or employee”, substituting “individual's” for “former officer's or employee's”, and striking out “, other than that regularly provided for by law or regulation for witnesses” after “if no compensation is thereby received”.
 
 Subsec. (j)(5). Pub. L. 101–280, §2(a)(10)(D), amended subsec. (j)(5), as amended by Pub. L. 101–194, by substituting “and (d)” for “(d), and (e)” and inserting “For purposes of this paragraph, the term ‘officer or employee’ includes the Vice President.”
 
@@ -486,7 +486,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 &emsp;“(1) any department, agency, court, court-martial, or any civil, military, or naval commission of the United States or the District of Columbia, or any officer or employee thereof, and
 
-&emsp;“(2) in connection with any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest, or other particular matter involving a specific party or parties in which the United States or the District of Columbia is a party or has a direct and substantial interest, and
+&emsp;“(2) in connection with any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest, or other particularmatter involving a specific party or parties in which the United States or the District of Columbia is a party or has a direct and substantial interest, and
 
 &emsp;“(3) in which he participated personally and substantially as an officer or employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation or otherwise, while so employed; or
 
@@ -496,7 +496,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 &emsp;“(2) in connection with any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest or other particular matter involving a specific party or parties in which the United States or the District of Columbia is a party or has a direct and substantial interest, and
 
-&emsp;“(3) as to (i), which was actually pending under his official responsibility as an officer or employee within a period of one year prior to the termination ofsuch responsibility, or, as to (ii), in which he participated personally and substantially as an officer or employee; or
+&emsp;“(3) as to (i), which was actually pending under his official responsibility as an officer or employee within a period of one year prior to the termination of such responsibility, or, as to (ii), in which he participated personally and substantially as an officer or employee; or
 
 “(c) Whoever, other than a special Government employee who serves for less than sixty days in a given calendar year, having been so employed as specified in subsection (d) of this section, within one year after such employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, anyone other than the United States in any formal or informal appearance before, or, with the intent to influence, makes any oral or written communication on behalf of anyone other than the United States, to—
 
@@ -532,7 +532,7 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 “(i) The prohibition contained in subsection (c) shall not apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibition of that subsection prevent a former officer or employee from making or providing a statement, which is based on the former officer's or employee's own special knowledge in the particular area that is the subject of the statement, provided that no compensation is thereby received, other than that regularly provided for by law or regulation for witnesses.
 
-“(j) If the head of the department or agency in which the former officer or employee served finds, after notice and opportunity for a hearing, that such former officer or employee violated subsection (a), (b), or (c) of this section, such department or agency head may prohibit that person from making, on behalf of any other person (except the United States), any informal or formal appearance before, or, with the intent to influence,any oral or written communication to, such department or agency on a pending matter of business for a period not to exceed five years, or may take other appropriate disciplinary action. Such disciplinary action shall be subject to review in an appropriate United States district court. No later than six months after the effective date of this Act, departments and agencies shall, in consultation with the Director of the Office of Government Ethics, establish procedures to carry out this subsection.
+“(j) If the head of the department or agency in which the former officer or employee served finds, after notice and opportunity for a hearing, that such former officer or employee violated subsection (a), (b), or (c) of this section, such department or agency head may prohibit that person from making, on behalf of any other person (except the United States), any informal or formal appearance before, or, with the intent to influence, any oral or written communication to, such department or agency on a pending matter of business for a period not to exceed five years, or may take other appropriate disciplinary action. Such disciplinary action shall be subject to review in an appropriate United States district court. No later than six months after the effective date of this Act, departments and agencies shall, in consultation with the Director of the Office of Government Ethics, establish procedures to carry out this subsection.
 
 “(k)(1)(A) The President may grant a waiver of a restriction imposed by this section to any officer or employee described in paragraph (2) if the President determines and certifies in writing that it is in the public interest to grant the waiver and that the services of the officer or employee are critically needed for the benefit of the Federal Government. Not more than 25 officers and employees currently employed by the Federal Government at any one time may have been granted waivers under this paragraph.
 
@@ -580,7 +580,7 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 #### Agencies Within Executive Office of President
 
-For provisions relating to treatment of agencies within the Executive Office of the President as one agency under subsec. (c) of this section, see Ex. Ord. No. 12674, §202, Apr. 12, 1989, 54 F.R. 15160, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
+For provisions relating to treatment of agencies within the Executive Office of the President as one agency under subsec. (c) of this section, see Ex. Ord.No. 12674, §202, Apr. 12, 1989, 54 F.R. 15160, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
 #### Exemptions
 
@@ -588,7 +588,7 @@ Exemptions from former section 284 of this title deemed to be exemptions from th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 7 section 2009aa–1; title 10 section 9447; title 12 section 2245; title 16 section 459b–7; title 19 section 2171; title 20 section 1018; title 22 sections 3310, 3507, 3508, 3613, 3622; title 25 section 450i; title 26 section 7802; title 28 section 594; title 30 section 663; title 35 section 3; title 38 section 5902; title 40 App. section 108; title 42 sections 1396a, 2297h–3; title 48 section 1907; title 50 section 405; title 50 App. section 463.
+This section is referred to in sections 14, 202, 216 of this title; title 5 sections 568, 3374; title 7 section 2009aa–1; title 10 section 9447; title 12 section 2245; title 16 section 459b–7; title 19 section 2171; title 20 section 1018; title 22 sections 3310, 3507, 3508, 3613, 3622; title 25 section 450i; title 26 section 7802; title 28 section 594; title 30 section 663; title 35 section 3; title 38 section 5902; title 40 App. section 108; title 42 sections 1396a, 2297h–3; title 48 section 1907; title 49 section 106; title 50 section 405; title 50 App. section 463.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

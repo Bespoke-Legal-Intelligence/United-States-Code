@@ -16,7 +16,7 @@ After the Secretary designates the member to be Chairman, the Commission may mee
 
 #### (c) Compensation; payment of expenses upon vouchers
 
-Members of the Commission shall serve without compensation, as such, but the Secretarymay pay, upon vouchers signed by the Chairman, the expenses reasonably incurred by the Commission and its members in carrying out their responsibilities under this section.
+Members of the Commission shall serve without compensation, as such, but the Secretary may pay, upon vouchers signed by the Chairman, the expenses reasonably incurred by the Commission and its members in carrying out their responsibilities under this section.
 
 (Pub. L. 93–626, §6, Jan. 3, 1975, 88 Stat. 2124; Pub. L. 94–398, Sept. 4, 1976, 90 Stat. 1204.)
 

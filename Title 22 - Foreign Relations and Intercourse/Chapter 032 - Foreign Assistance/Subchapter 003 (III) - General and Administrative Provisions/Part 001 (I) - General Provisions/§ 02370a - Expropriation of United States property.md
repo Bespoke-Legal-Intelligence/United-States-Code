@@ -32,7 +32,7 @@ The period of time described in subsection (a)(2) of this section is the latest 
 
 &emsp;(1) 3 years after the date on which a claim was filed,
 
-&emsp;(2) in the case of a country that has a totalitarian or authoritarian government at the time of the action described in subsection (a)(1) of this section, 3 years after the date of installation of a democratically elected government, or
+&emsp;(2) in the case of a country that has a totalitarian or authoritarian government at thetime of the action described in subsection (a)(1) of this section, 3 years after the date of installation of a democratically elected government, or
 
 &emsp;(3) 90 days after April 30, 1994.
 
@@ -104,7 +104,7 @@ Memorandum of President of the United States, Jan. 4, 1995, 60 F.R. 3335, provid
 
 Memorandum for the Secretary of the Treasury
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of the Treasury the functions under section 527(b) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) \[22 U.S.C. 2370a(b)\].
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of the Treasury the functions under section 527(b) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) \[22 U.S.C. 2370a(b)\].
 
 Any reference in this memorandum to any Act, order, determination, or delegation of authority shall be deemed to be a reference to such Act, order, determination, or delegation of authority as amended.
 

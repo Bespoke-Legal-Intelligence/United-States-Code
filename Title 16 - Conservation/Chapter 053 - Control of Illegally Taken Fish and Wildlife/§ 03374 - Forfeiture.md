@@ -12,7 +12,7 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of p
 
 #### (c) Storage cost
 
-Any person convicted of an offense, or assessed a civil penalty, under section 3373 of this title shall be liable for the costs incurred in the storage, care, and maintenance of any fish or wildlife or plant seized in connection with the violation concerned.
+Any person convicted of an offense, or assessed a civil penalty, under section 3373 of this titleshall be liable for the costs incurred in the storage, care, and maintenance of any fish or wildlife or plant seized in connection with the violation concerned.
 
 (Pub. L. 97–79, §5, Nov. 16, 1981, 95 Stat. 1076.)
 

@@ -12,7 +12,7 @@ Property Subject to Attachment.—(1) Any property in the possession, custody, o
 
 (b)
 
-Availability of Attachment.—If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United States to attach property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
+Availability of Attachment.—If the requirements of section 3101 are satisfied, a courtshall issue a writ authorizing the United States to attach property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
 
 &emsp;(1) in an action on a contract, express or implied, against the debtor for payment of money, only if the United States shows reasonable cause to believe that—
 
@@ -104,7 +104,7 @@ Judgment and Disposition of Attached Property.—
 
 &emsp;(1)
 
-Judgment for the united states.—On entry of judgment for the United States, the court shall order the proceeds of personal property sold pursuant to section 3007 to be applied to the satisfaction of the judgment,and shall order the sale of any remaining personal property and any real property levied on to the extent necessary to satisfy the judgment.
+Judgment for the united states.—On entry of judgment for the United States, the court shall order the proceeds of personal property sold pursuant to section 3007 to be applied to the satisfaction of the judgment, and shall order the sale of any remaining personal property and any real property levied on to the extent necessary to satisfy the judgment.
 
 &emsp;(2)
 

@@ -30,7 +30,7 @@
 
 (3) As used in this subsection—
 
-&emsp;(A) the term “national crime information databases” means the National Crime Information Center and its incorporated criminal history databases, including the Interstate Identification Index; and
+&emsp;(A) the term “national crime information databases” means the National Crime Information Center and its incorporated criminalhistory databases, including the Interstate Identification Index; and
 
 &emsp;(B) the term “protection order” includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
 
@@ -56,7 +56,7 @@ June 11, 1930, ch. 455, 46 Stat. 554.
 
 The sections are combined and reorganized for clarity. Former section 300 of title 5 was from the Department of Justice Appropriation Act, 1965. Similar provisions were contained in each appropriation Act for the Department of Justice running back to 1921, which Acts are identified in a note under former section 300 of title 5, U.S.C. 1964 ed.
 
-In subsection (a), the word “shall” is substituted for “has the duty” as a more direct expression. The function of acquiring, collecting, classifying, etc., referred to in former section 340 of title 5 was transferred to the Attorney General by 1950 Reorg., Plan No. 2, §1, eff.May 24, 1950, 64 Stat. 1261, which is codified in section 509 of this title. Accordingly, the first 29 words and last 30 words of former section 340 are omitted as unnecessary.
+In subsection (a), the word “shall” is substituted for “has the duty” as a more direct expression. The function of acquiring, collecting, classifying, etc., referred to in former section 340 of title 5 was transferred to the Attorney General by 1950 Reorg., Plan No. 2, §1, eff. May 24, 1950, 64 Stat. 1261, which is codified in section 509 of this title. Accordingly, the first 29 words and last 30 words of former section 340 are omitted as unnecessary.
 
 In subsection (c), the authority to appoint officials for the cited purposes is implied.
 
@@ -240,7 +240,7 @@ In general.—The Attorney General shall acquire, collect, classify, and preserv
 
 &emsp;“(2)
 
-Reporting by federal agencies.—All departments and agencies within the Federal government\(including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
+Reporting by federal agencies.—All departments and agencies within the Federal government (including the Department of Defense) which routinely investigate complaints of criminal activity, shall report details about crime within their respective jurisdiction to the Attorney General in a uniform manner and on a form prescribed by the Attorney General. The reporting required by this subsection shall be limited to the reporting of those crimes comprising the Uniform Crime Reports.
 
 &emsp;“(3)
 

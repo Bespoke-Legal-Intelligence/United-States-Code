@@ -32,7 +32,7 @@ The Fund shall coordinate with other appropriate Federal departments or agencies
 
 #### (3) Limitation on manner of collection
 
-&emsp;Fees may be assessed and collected under this subsection only in such manner as may reasonably be expected to result in the collection of an aggregate amount of fees during any fiscal year which does not exceed the aggregate costs of the Fund for such year in providing training services under a training program operated in accordance with this section <sup>1</sup>
+&emsp;Fees may be assessed and collected under this subsection only in such manner as mayreasonably be expected to result in the collection of an aggregate amount of fees during any fiscal year which does not exceed the aggregate costs of the Fund for such year in providing training services under a training program operated in accordance with this section <sup>1</sup>
 
 #### (4) Limitation on amount of fee
 

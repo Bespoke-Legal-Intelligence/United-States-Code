@@ -10,7 +10,7 @@ There are authorized to be appropriated to cover the costs (as such term is defi
 
 #### (c) Aggregate outstanding limitation
 
-The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to this subchapter shall not at any time exceed $2,000,000,000 or such higher amount as may be authorized to be appropriated for this subchapter for any fiscal year.
+The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to this subchapter shall not at any time exceed $2,000,000,000 or such higheramount as may be authorized to be appropriated for this subchapter for any fiscal year.
 
 #### (d) Fiscal year limitations on tribes
 

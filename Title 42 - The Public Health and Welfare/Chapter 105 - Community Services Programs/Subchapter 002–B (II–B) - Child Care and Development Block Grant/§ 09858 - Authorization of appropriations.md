@@ -28,9 +28,9 @@ For short title of this subchapter as the Child Care and Development Block Grant
 
 #### Goals of Subchapter
 
-Section 658A(b) of subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 104–193, title VI, §602(3), Aug. 22, 1996, 110 Stat. 2279, provided that: “The goals of this subchapter are—
+Section 658A(b) of subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, asadded by Pub. L. 104–193, title VI, §602(3), Aug. 22, 1996, 110 Stat. 2279, provided that: “The goals of this subchapter are—
 
-&emsp;“(1) to allow each State maximum flexibility in developing child care programs and policies that bestsuit the needs of children and parents within such State;
+&emsp;“(1) to allow each State maximum flexibility in developing child care programs and policies that best suit the needs of children and parents within such State;
 
 &emsp;“(2) to promote parental choice to empower working parents to make their own decisions on the child care that best suits their family's needs;
 

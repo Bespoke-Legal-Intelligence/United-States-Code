@@ -18,7 +18,7 @@ The Secretary may conduct such investigations as the Secretary considers necessa
 
 #### (1) In general
 
-&emsp;In the case of contumacy by, or refusal to obey a subpoena issued under subsection (b) ofthis section to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is conducted, or where the person resides or conducts business, in order to enforce a subpoena issued under subsection (b) of this section.
+&emsp;In the case of contumacy by, or refusal to obey a subpoena issued under subsection (b) of this section to, any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which the investigation or proceeding is conducted, or where the person resides or conducts business, in order to enforce a subpoena issued under subsection (b) of this section.
 
 #### (2) Order
 

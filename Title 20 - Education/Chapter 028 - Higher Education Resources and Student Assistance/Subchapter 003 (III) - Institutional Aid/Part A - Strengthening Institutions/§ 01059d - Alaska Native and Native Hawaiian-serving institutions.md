@@ -8,7 +8,7 @@ The Secretary shall provide grants and related assistance to Alaska Native-servi
 
 For the purpose of this section—
 
-&emsp;(1) the term “Alaska Native” has the meaning given the term in section 7938 of this title;
+&emsp;(1) the term “Alaska Native” has the meaning given the term in section 7546 of this title;
 
 &emsp;(2) the term “Alaska Native-serving institution” means an institution of higher education that—
 
@@ -16,7 +16,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(B) at the time of application, has an enrollment of undergraduate students that is at least 20 percent Alaska Native students;
 
-&emsp;(3) the term “Native Hawaiian” has the meaning given the term in section 7912 of this title; and
+&emsp;(3) the term “Native Hawaiian” has the meaning given the term in section 7517 of this title; and
 
 &emsp;(4) the term “Native Hawaiian-serving institution” means an institution of higher education which—
 
@@ -78,15 +78,23 @@ For the purpose of this section—
 
 &emsp;&emsp;In awarding grants under this section, the Secretary shall, to the extent possible and consistent with the competitive process under which such grants are awarded, ensure maximum and equitable distribution among all eligible institutions.
 
-(Pub. L. 89–329, title III, §317, as added Pub. L. 105–244, title III, §303(f), Oct. 7, 1998, 112 Stat. 1641; amended Pub. L. 106–211, §1(a), (b)(2), May 26, 2000, 114 Stat. 330.)
+(Pub. L. 89–329, title III, §317, as added Pub. L. 105–244, title III, §303(f), Oct. 7, 1998, 112 Stat. 1641; amended Pub. L. 106–211, §1(a), (b)(2), May 26, 2000, 114 Stat. 330; Pub. L. 107–110, title VII, §702(a), Jan. 8, 2002, 115 Stat. 1946.)
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–110, §702(a)(1), substituted “section 7546” for “section 7938”.
+
+Subsec. (b)(3). Pub. L. 107–110, §702(a)(2), substituted “section 7517” for “section 7912”.
 
 2000—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
 
 Subsec. (d)(3). Pub. L. 106–211, §1(b)(2), added par. (3).
 
 Subsec. (e). Pub. L. 106–211, §1(b)(2), struck out heading and text of subsec. (e). Text read as follows: “For the purposes of this section, no Alaska Native-serving institution or Native Hawaiian-serving institution which is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date
 

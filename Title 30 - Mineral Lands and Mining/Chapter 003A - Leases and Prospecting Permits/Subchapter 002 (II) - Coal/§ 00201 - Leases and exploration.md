@@ -16,7 +16,7 @@
 
 (B) Each land-use plan prepared by the Secretary (or in the case of lands within the National Forest System, the Secretary of Agriculture pursuant to subparagraph (A)(i)) shall include an assessment of the amount of coal deposits in such land, identifying the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations.
 
-(C) Prior to issuance of any coal lease, the Secretary shall consider effects which mining of the proposed lease might have on an impacted community or area, including, but not limited to, impacts on the environment, on agricultural and other economic activities, and on public services. Prior to issuance of a lease, the Secretary shall evaluate and compare the effects ofrecovering coal by deep mining, by surface mining, and by any other method to determine which method or methods or sequence of methods achieves the maximum economic recovery of the coal within the proposed leasing tract. This evaluation and comparison by the Secretary shall be in writing but shall not prohibit the issuance of a lease; however, no mining operating plan shall be approved which is not found to achieve the maximum economic recovery of the coal within the tract. Public hearings in the area shall be held by the Secretary prior to the lease sale.
+(C) Prior to issuance of any coal lease, the Secretary shall consider effects which mining of the proposed lease might have on an impacted community or area, including, but not limited to, impacts on the environment, on agricultural and other economic activities, and on public services. Prior to issuance of a lease, the Secretary shall evaluate and compare the effects of recovering coal by deep mining, by surface mining, and by any other method to determine which method or methods or sequence of methods achieves the maximum economic recovery of the coal within the proposed leasing tract. This evaluation and comparison by the Secretary shall be in writing but shall not prohibit the issuance of a lease; however, no mining operating plan shall be approved which is not found to achieve the maximum economic recovery of the coal within the tract. Public hearings in the area shall be held by the Secretary prior to the lease sale.
 
 (D) No lease sale shall be held until after the notice of the proposed offering for lease has been given once a week for three consecutive weeks in a newspaper of general circulation in the county in which the lands are situated in accordance with regulations prescribed by the Secretary.
 
@@ -50,7 +50,7 @@ Section is comprised of subsecs. (a) and (b) of section 2 of act Feb. 25, 1920, 
 
 #### Amendments
 
-1978—Subsec. (a)(1). Pub. L. 95–554 authorized negotiated fair market value sales of coal when exercisingFederal land policy and management right-of-way permits.
+1978—Subsec. (a)(1). Pub. L. 95–554 authorized negotiated fair market value sales of coal when exercising Federal land policy and management right-of-way permits.
 
 1976—Subsec. (a). Pub. L. 94–377, §2, designated existing provisions as par. (1), substituted provisions authorizing the division of any lands subject to this chapter which have been classified for coal leasing into tracts as the Secretary finds appropriate, in the public interest and will permit the mining of all economically extractable coal, such leases to be awarded by competitive bidding for provisions authorizing the division of classified or unclassified lands into tracts of forty acres, or multiples thereof, in such form as, in the Secretary's opinion will permit the most economical mining, such leases to be awarded by competitive bidding or by such other method adopted by general regulation, inserted provisions relating to deferred bonus payments leasing, leasing to public agencies, and to the fair market value of leases, struck out provision for notice of proposed offering for lease in a newspaper of general circulation prior to approval or issuance of a competitive lease of coal, and added pars. (2) and (3).
 
@@ -86,7 +86,7 @@ Section 16 of Pub. L. 94–377 provided that: “Nothing in this Act \[see Short
 
 #### Admission of Alaska as State
 
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan.3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Section Referred to in Other Sections
 

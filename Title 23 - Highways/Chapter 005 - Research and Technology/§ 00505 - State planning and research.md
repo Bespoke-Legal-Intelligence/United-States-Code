@@ -12,7 +12,7 @@ General Rule.—Two percent of the sums apportioned to a State for fiscal year 1
 
 &emsp;(4) Studies of the economy, safety, and convenience of surface transportation systems and the desirable regulation and equitable taxation of such systems.
 
-&emsp;(5) Research, development, and technology transfer activities necessary in connection with the planning, design, construction, management, and maintenance of highway, publictransportation, and intermodal transportation systems.
+&emsp;(5) Research, development, and technology transfer activities necessary in connection with the planning, design, construction, management, and maintenance of highway, public transportation, and intermodal transportation systems.
 
 &emsp;(6) Study, research, and training on the engineering standards and construction materials for transportation systems described in paragraph (5), including the evaluation and accreditation of inspection and testing and the regulation and taxation of their use.
 

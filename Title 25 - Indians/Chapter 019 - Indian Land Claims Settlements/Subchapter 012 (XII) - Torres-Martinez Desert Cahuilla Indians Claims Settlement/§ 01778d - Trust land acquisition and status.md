@@ -14,7 +14,7 @@
 
 #### (B) Effect of objection
 
-&emsp;&emsp;Lands referred to in subparagraph (A) may not be acquired pursuant to paragraph (1) if by majority vote the governing body of the city within whose incorporated boundaries (as such boundaries exist on the date of the Settlement Agreement) the subject lands are situated within formally objects to the Tribe's request to convey the subject lands into trust and notifies the Secretary of such objection in writing within 60 days of receiving a copy of the Tribe's request in accordance with the Settlement Agreement. Upon receipt of such a notification, the Secretary shall deny the acquisition request.
+&emsp;&emsp;Lands referred to in subparagraph (A) may not be acquired pursuant to paragraph (1) if by majority vote the governing body of the city within whose incorporated boundaries (as such boundaries exist on the date of theSettlement Agreement) the subject lands are situated within formally objects to the Tribe's request to convey the subject lands into trust and notifies the Secretary of such objection in writing within 60 days of receiving a copy of the Tribe's request in accordance with the Settlement Agreement. Upon receipt of such a notification, the Secretary shall deny the acquisition request.
 
 #### (3) Secondary Acquisition Area
 
@@ -50,7 +50,7 @@ All lands acquired by the Tribe under subsection (a) of this section shall—
 
 &emsp;(1) be subject to all valid water rights existing at the time of tribal acquisition, including (but not limited to) all rights under any permit or license issued under the laws of the State of California to commence an appropriation of water, to appropriate water, or to increase the amount of water appropriated;
 
-&emsp;(2) be subject to the paramount rights of any person who at any time recharges or storeswater in a ground water basin to recapture or recover the recharged or stored water or to authorize others to recapture or recover the recharged or stored water; and
+&emsp;(2) be subject to the paramount rights of any person who at any time recharges or stores water in a ground water basin to recapture or recover the recharged or stored water or to authorize others to recapture or recover the recharged or stored water; and
 
 &emsp;(3) continue to enjoy all valid water rights appurtenant to the land existing immediately prior to the time of tribal acquisition.
 

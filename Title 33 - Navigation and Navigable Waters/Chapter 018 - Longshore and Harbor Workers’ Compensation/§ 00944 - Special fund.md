@@ -12,7 +12,7 @@ The Treasurer is authorized to disburse moneys from such fund only upon order of
 
 Payments into such fund shall be made as follows:
 
-&emsp;(1) Whenever the Secretary determines that there is no person entitled under this chapter to compensation for the death of an employee which would otherwise be compensable under this chapter, the appropriate employer shall pay $5,000 as compensation for the death of such an employee.
+&emsp;(1) Whenever the Secretary determines that there is no person entitled under this chapterto compensation for the death of an employee which would otherwise be compensable under this chapter, the appropriate employer shall pay $5,000 as compensation for the death of such an employee.
 
 &emsp;(2) At the beginning of each calendar year the Secretary shall estimate the probable expenses of the fund during that calendar year and the amount of payments required (and the schedule therefor) to maintain adequate reserves in the fund. Each carrier and self-insurer shall make payments into the fund on a prorated assessment by the Secretary determined by—
 
@@ -122,7 +122,7 @@ Subsec. (k). Pub. L. 92–576, §8(d), incorporated former provisions of subsec.
 
 1956—Subsec. (a). Act July 26, 1956, §8(a), substituted “, of subsection (b) of section 918 of this title, and of subsection (c) of section 939 of this title” for “of this title.”
 
-Subsec. (c)(1). Act July 26, 1956, §8(b), substituted provisions relating to availability of fund for payments under sections 908(f) and (g), 918(b), and 939(c) of this title, proviso that subsec. (f) payments have priority, and further proviso requiring annual audit, for former provision that fifty per centum of each payment shallbe available for the payments under section 908(f) and (g) of this title.
+Subsec. (c)(1). Act July 26, 1956, §8(b), substituted provisions relating to availability of fund for payments under sections 908(f) and (g), 918(b), and 939(c) of this title, proviso that subsec. (f) payments have priority, and further proviso requiring annual audit, for former provision that fifty per centum of each payment shall be available for the payments under section 908(f) and (g) of this title.
 
 #### Effective Date of 1984 Amendment
 

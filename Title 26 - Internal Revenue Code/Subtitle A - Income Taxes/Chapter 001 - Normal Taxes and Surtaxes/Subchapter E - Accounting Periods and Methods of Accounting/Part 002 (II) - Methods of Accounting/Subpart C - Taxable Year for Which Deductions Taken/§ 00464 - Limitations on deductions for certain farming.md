@@ -24,7 +24,7 @@ In the case of any farming syndicate (as defined in subsection (c))—
 
 #### (2) Holdings attributable to active management
 
-&emsp;For purposes of paragraph (1)(B), the following shall be treated as an interest which is not held by a limited partner or a limited entrepreneur:
+&emsp;For purposes of paragraph (1)(B), the following shall be treated as an interest which is notheld by a limited partner or a limited entrepreneur:
 
 &emsp;&emsp;(A) in the case of any individual who has actively participated (for a period of not less than 5 years) in the management of any trade or business of farming, any interest in a partnership or other enterprise which is attributable to such active participation,
 
@@ -40,7 +40,7 @@ In the case of any farming syndicate (as defined in subsection (c))—
 
 #### (d) Exception
 
-Subsection (a) shall not apply to any amount paid for supplies which are on hand at the closeof the taxable year on account of fire, storm, or other casualty, or on account of disease or drought.
+Subsection (a) shall not apply to any amount paid for supplies which are on hand at the close of the taxable year on account of fire, storm, or other casualty, or on account of disease or drought.
 
 #### (e) Definitions
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (C) Deductible farming expenses
 
-&emsp;&emsp;The term “deductible farming expenses” means any amount allowable as a deduction under this chapter (including any amount allowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
+&emsp;&emsp;The term “deductible farming expenses” means any amount allowable as a deduction under this chapter (including any amountallowable as a deduction for depreciation or amortization) which is properly allocable to the trade or business of farming.
 
 #### (g) Termination
 

@@ -16,7 +16,7 @@
 
 #### (4) Substitution of value
 
-&emsp;If a certificate of discharge is issued to any person under section 6325(b)(4) with respect to any property, such person may, within 120 days after the day on which such certificate is issued, bring a civil action against the United States in a district court of the United Statesfor a determination of whether the value of the interest of the United States (if any) in such property is less than the value determined by the Secretary. No other action may be brought by such person for such a determination.
+&emsp;If a certificate of discharge is issued to any person under section 6325(b)(4) with respect to any property, such person may, within 120 days after the day on which such certificate is issued, bring a civil action against the United States in a district court of the United States for a determination of whether the value of the interest of the United States (if any) in such property is less than the value determined by the Secretary. No other action may be brought by such person for such a determination.
 
 #### (b) Adjudication
 
@@ -86,7 +86,7 @@ Interest shall be allowed at the overpayment rate established under section 6621
 
 &emsp;Notwithstanding subsection (b), if, in any action brought under this section, there is a finding that any officer or employee of the Internal Revenue Service recklessly or intentionally, or by reason of negligence, disregarded any provision of this title the defendant shall be liable to the plaintiff in an amount equal to the lesser of $1,000,000 ($100,000 in the case of negligence) or the sum of—
 
-&emsp;&emsp;(A) actual, direct economic damages sustained by the plaintiff as a proximate result of the reckless or intentional or negligent disregard of any provision of this title by the officer or employee (reduced by any amount of such damages awarded under subsection (b)); and
+&emsp;&emsp;(A) actual, direct economic damages sustained by the plaintiff as a proximate result of the reckless or intentional or negligentdisregard of any provision of this title by the officer or employee (reduced by any amount of such damages awarded under subsection (b)); and
 
 &emsp;&emsp;(B) the costs of the action.
 

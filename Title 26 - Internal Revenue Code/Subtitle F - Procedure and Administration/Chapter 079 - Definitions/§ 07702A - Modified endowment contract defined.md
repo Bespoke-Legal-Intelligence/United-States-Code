@@ -164,7 +164,7 @@ Certain other material changes taken into account.—A contract entered into bef
 
 &emsp;“(A) on or after June 21, 1988, the death benefit under the contract is increased (or a qualified additional benefit is increased or added) and before June 21, 1988, the owner of the contract did not have a unilateral right under the contract to obtain such increase or addition without providing additional evidence of insurability, or
 
-&emsp;“(B) the contract is converted after June 20, 1988, from a term life insurance contract to a life insurance contract providing coverage other than term life insurance coverage without regard to any right of the owner of the contract to such conversion.
+&emsp;“(B) the contract is converted after June 20, 1988, from a term life insurance contract to a life insurance contract providing coverage other than term lifeinsurance coverage without regard to any right of the owner of the contract to such conversion.
 
 “(4)
 

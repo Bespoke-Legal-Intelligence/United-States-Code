@@ -1,0 +1,68 @@
+### §7283d. Criteria and priorities
+
+#### (a) Criteria and priorities
+
+#### (1) In general
+
+&emsp;The Secretary shall establish separate criteria and priorities for awards under paragraphs (1) and (2) of section 7283b(b) of this title to ensure that funds under this subpart are used for programs that most effectively will achieve the purposes of this subpart.
+
+#### (2) Criteria
+
+&emsp;The criteria described in paragraph (1) may include the extent to which the activities assisted under this subpart—
+
+&emsp;&emsp;(A) address the needs of women and girls of color and women and girls with disabilities;
+
+&emsp;&emsp;(B) meet locally defined and documented educational equity needs and priorities, including compliance with title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\];
+
+&emsp;&emsp;(C) are a significant component of a comprehensive plan for educational equity and compliance with title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\] in the particular school district, institution of higher education, vocational-technical institution, or other educational agency or institution; and
+
+&emsp;&emsp;(D) implement an institutional change strategy with long-term impact that will continue as a central activity of the applicant after the grant under this subpart has terminated.
+
+#### (b) Priorities
+
+In awarding grants under this subpart, the Secretary may give special consideration to applications—
+
+&emsp;(1) submitted by applicants that have not received assistance under this subpart or this subpart's predecessor authorities;
+
+&emsp;(2) for projects that will contribute significantly to directly improving teaching and learning practices in the local community; and
+
+&emsp;(3) for projects that will—
+
+&emsp;&emsp;(A) provide for a comprehensive approach to enhancing gender equity in educational institutions and agencies;
+
+&emsp;&emsp;(B) draw on a variety of resources, including the resources of local educational agencies, community-based organizations, institutions of higher education, and private organizations;
+
+&emsp;&emsp;(C) implement a strategy with long-term impact that will continue as a central activity of the applicant after the grant under this subpart has terminated;
+
+&emsp;&emsp;(D) address issues of national significance that can be duplicated; and
+
+&emsp;&emsp;(E) address the educational needs of women and girls who suffer multiple or compound discrimination based on sex and on race, ethnic origin, disability, or age.
+
+#### (c) Special rule
+
+To the extent feasible, the Secretary shall ensure that grants awarded under this subpart for each fiscal year address—
+
+&emsp;(1) all levels of education, including preschool, elementary and secondary education, higher education, vocational education, and adult education;
+
+&emsp;(2) all regions of the United States; and
+
+&emsp;(3) urban, rural, and suburban educational institutions.
+
+#### (d) Coordination
+
+Research activities supported under this subpart—
+
+&emsp;(1) shall be carried out in consultation with the Office of Educational Research and Improvement to ensure that such activities are coordinated with and enhance the research and development activities supported by the Office; and
+
+&emsp;(2) may include collaborative research activities which are jointly funded and carried out with the Office of Educational Research and Improvement.
+
+#### (e) Limitation
+
+Nothing in this subpart shall be construed as prohibiting men and boys from participating in any programs or activities assisted with funds under this subpart.
+
+(Pub. L. 89–10, title V, §5615, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1871.)
+
+#### References in Text
+
+The Education Amendments of 1972, referred to in subsec. (a)(2)(B), (C), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+

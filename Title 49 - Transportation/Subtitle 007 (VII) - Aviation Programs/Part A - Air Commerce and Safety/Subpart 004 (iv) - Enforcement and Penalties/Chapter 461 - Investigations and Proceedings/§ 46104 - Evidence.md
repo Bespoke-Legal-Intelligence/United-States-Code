@@ -2,7 +2,7 @@
 
 (a)
 
-General.—In conducting a hearing or investigation under this part, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may—
+General.—In conducting a hearing or investigation under this part, the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may—
 
 &emsp;(1) subpena witnesses and records related to a matter involved in the hearing or investigation from any place in the United States to the designated place of the hearing or investigation;
 
@@ -10,37 +10,37 @@ General.—In conducting a hearing or investigation under this part, the Secreta
 
 &emsp;(3) examine witnesses; and
 
-&emsp;(4) receive evidence at a place in the United States the Secretary or Administrator designates.
+&emsp;(4) receive evidence at a place in the United States the Secretary, Under Secretary, or Administrator designates.
 
 (b)
 
-Compliance With Subpenas.—If a person disobeys a subpena, the Secretary, the Administrator, or a party to a proceeding before the Secretary or Administrator may petition a court of the United States to enforce the subpena. A judicial proceeding to enforce a subpena under this section may be brought in the jurisdiction in which the proceeding or investigation is conducted. The court may punish a failure to obey an order of the court to comply with the subpena as a contempt of court.
+Compliance With Subpenas.—If a person disobeys a subpena, the Secretary, the Under Secretary, the Administrator, or a party to a proceeding before the Secretary, Under Secretary, or Administrator may petition a court of the United States to enforce the subpena. A judicial proceeding to enforce a subpena under this section may be brought in the jurisdiction in which the proceeding or investigation is conducted. The court may punish a failure to obey an order of the court to comply with the subpena as a contempt of court.
 
 (c)
 
-Depositions.—(1) In a proceeding or investigation, the Secretary or Administrator may order a person to give testimony by deposition and to produce records. If a person fails to be deposed or to produce records, the order may be enforced in the same way a subpena may be enforced under subsection (b) of this section.
+Depositions.—(1) In a proceeding or investigation, the Secretary, Under Secretary, or Administrator may order a person to give testimony by deposition and to produce records. If a person fails to be deposed or to produce records, the order may be enforced in the same way a subpena may be enforced under subsection (b) of this section.
 
-(2) A deposition may be taken before an individual designated by the Secretary or Administrator and having the power to administer oaths.
+(2) A deposition may be taken before an individual designated by the Secretary, Under Secretary, or Administrator and having the power to administer oaths.
 
 (3) Before taking a deposition, the party or the attorney of the party proposing to take the deposition must give reasonable notice in writing to the opposing party or the attorney of record of that party. The notice shall state the name of the witness and the time and place of taking the deposition.
 
-(4) The testimony of a person deposed under this subsection shall be under oath. The person taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent. Each deposition shall be filed promptly with the Secretary or Administrator.
+(4) The testimony of a person deposed under this subsection shall be under oath. The persontaking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent. Each deposition shall be filed promptly with the Secretary, Under Secretary, or Administrator.
 
 (5) If the laws of a foreign country allow, the testimony of a witness in that country may be taken by deposition—
 
-&emsp;(A) by a consular officer or an individual commissioned by the Secretary or Administrator or agreed on by the parties by written stipulation filed with the Secretary or Administrator; or
+&emsp;(A) by a consular officer or an individual commissioned by the Secretary, Under Secretary, or Administrator or agreed on by the parties by written stipulation filed with the Secretary, Under Secretary, or Administrator; or
 
-&emsp;(B) under letters rogatory issued by a court of competent jurisdiction at the request of the Secretary or Administrator.
+&emsp;(B) under letters rogatory issued by a court of competent jurisdiction at the request of the Secretary, Under Secretary, or Administrator.
 
 (d)
 
-Witness Fees and Mileage and Certain Foreign Country Expenses.—A witness summoned before the Secretary or Administrator or whose deposition is taken under this section and the individual taking the deposition are each entitled to the same fee and mileage that the witness and individual would have been paid for those services in a court of the United States. Under regulations of the Secretary or Administrator, the Secretary or Administrator shall pay the necessary expenses incident to executing, in another country, a commission or letter rogatory issued at the initiative of the Secretary or Administrator.
+Witness Fees and Mileage and Certain Foreign Country Expenses.—A witness summoned before the Secretary, Under Secretary, or Administrator or whose deposition is taken under this section and the individual taking the deposition are each entitled to the same fee and mileage that the witness and individual would have been paid for those services in a court of the United States. Under regulations of the Secretary, Under Secretary, or Administrator, the Secretary, Under Secretary, or Administrator shall pay the necessary expenses incident to executing, in another country, a commission or letter rogatory issued at the initiative of the Secretary, Under Secretary, or Administrator.
 
 (e)
 
-Designating Employees To Conduct Hearings.—When designated by the Secretary or Administrator, an employee appointed under section 3105 of title 5 may conduct a hearing, subpena witnesses, administer oaths, examine witnesses, and receive evidence at a place in the United States the Secretary or Administrator designates. On request of a party, the Secretary or Administrator shall hear or receive argument.
+Designating Employees To Conduct Hearings.—When designated by the Secretary, Under Secretary, or Administrator, an employee appointed under section 3105 of title 5 may conduct a hearing, subpena witnesses, administer oaths, examine witnesses, and receive evidence at a place in the United States the Secretary, Under Secretary, or Administrator designates. On request of a party, the Secretary, Under Secretary, or Administrator shall hear or receive argument.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1227.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1227; Pub. L. 107–71, title I, §140(b)(1), (2), (6), Nov. 19, 2001, 115 Stat. 641.)
 
 Historical and Revision Notes
 
@@ -208,9 +208,19 @@ In subsection (c)(1), the words “pending before it, at any stage of such proce
 
 In subsection (c)(4), the words “shall be cautioned . . . to testify the whole truth, and shall be carefully examined” in 49 App.:1484(f) are omitted as surplus. The words “shall be under oath” are substituted for “shall be required to swear (or affirm, if he so requests)” for consistency and because of 1:1.
 
-In subsection (d), the words “that the witness and individual would have been” are added for clarity and consistency in the revised title and with other titles of the Code. The words “fees, charges, or” and “on the subject” are omitted as surplus.
+In subsection (d), the words “that the witness and individual would have been” are added for clarity andconsistency in the revised title and with other titles of the Code. The words “fees, charges, or” and “on the subject” are omitted as surplus.
 
 In subsection (e), the words “duly . . . for such purpose” are omitted as surplus. The words “employee appointed under section 3105 of title 5” are substituted for “examiner”, and the words “subpena witnesses” are substituted for “sign and issue subpenas”, for consistency in the revised title and with other titles of the Code. The words “In all cases heard by an examiner or a single member” are omitted as surplus.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–71, §140(b)(1), in introductory provisions inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+
+Subsec. (a)(4). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
+
+Subsec. (b). Pub. L. 107–71, §140(b)(2), (6), inserted “the Under Secretary,” after ‘Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
+
+Subsecs. (c) to (e). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
 
 #### Section Referred to in Other Sections
 

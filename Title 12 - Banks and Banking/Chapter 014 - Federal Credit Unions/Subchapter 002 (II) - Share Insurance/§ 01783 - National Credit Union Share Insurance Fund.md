@@ -6,7 +6,7 @@ There is hereby created in the Treasury of the United States a National Credit U
 
 #### (b) Deposit of deposits and premium charges, fees and penalties
 
-All deposits and premium charges for insurance paid pursuant to the provisions of section 1782 of this title and all fees for examinations and all penalties collected by the Board under any provision of this subchapter shall be deposited in the National Credit Union Share Insurance Fund. The Board shall report annually to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives with respect to the operating level of the fund. Such report shall also include the results of an independent audit of the fund.
+All deposits and premium charges for insurance paid pursuant to the provisions of section 1782 of this title and all fees for examinations and all penalties collected by the Board under any provision of this subchapter shall be deposited in the National Credit Union Share Insurance Fund. The Board shall report annually to the Committee on Banking, Housing, and UrbanAffairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives with respect to the operating level of the fund. Such report shall also include the results of an independent audit of the fund.
 
 #### (c) Investment authorization
 

@@ -140,7 +140,7 @@ In order to support the activities described in subsections (b) and (d) of this 
 
 #### (B) Review and recommendation
 
-&emsp;&emsp;The National Board shall review each application submitted pursuant to subparagraph (A) in accordance with the objective criteria published pursuant to subparagraph (C) and shall forward each such applicationto the Secretary of Labor accompanied by a nonbinding recommendation for the approval or disapproval of each such application by the Secretary.
+&emsp;&emsp;The National Board shall review each application submitted pursuant to subparagraph (A) in accordance with the objective criteria published pursuant to subparagraph (C) and shall forward each such application to the Secretary of Labor accompanied by a nonbinding recommendation for the approval or disapproval of each such application by the Secretary.
 
 #### (C) Criteria for review
 

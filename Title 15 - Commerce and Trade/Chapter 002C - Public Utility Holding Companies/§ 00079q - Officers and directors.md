@@ -10,7 +10,7 @@ For the purpose of preventing the unfair use of information which may have been 
 
 #### (c) Officers or representatives of banking institutions disqualified to serve as officers or directors
 
-After one year from August 26, 1935, no registered holding company or any subsidiary company thereof shall have, as an officer or director thereof, any executive officer, director, partner, appointee, or representative of any bank, trust company, investment banker, or banking association or firm, or any executive officer, director, partner, appointee, or representative of any corporation a majority of whose stock, having the unrestricted right to vote for the election of directors, is owned by any bank, trust company, investment banker, or banking association or firm, except in such cases as rules and regulations prescribed by the Commission may permit as not adversely affecting the public interest or the interest of investors or consumers.
+After one year from August 26, 1935, no registered holding company or any subsidiary company thereof shall have, as an officer or director thereof, any executive officer, director, partner, appointee, or representative of any bank, trust company, investment banker, or banking association or firm, or any executive officer, director, partner, appointee, or representative of any corporation a majority of whose stock, having the unrestricted right to vote for the election ofdirectors, is owned by any bank, trust company, investment banker, or banking association or firm, except in such cases as rules and regulations prescribed by the Commission may permit as not adversely affecting the public interest or the interest of investors or consumers.
 
 (Aug. 26, 1935, ch. 687, title I, §17, 49 Stat. 830.)
 

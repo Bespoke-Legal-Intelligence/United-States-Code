@@ -38,5 +38,5 @@ All grants or loans provided under this section shall be subject to the same ter
 
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (d), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
+This Act, referred to in subsecs. (a) and (d), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994.For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
 

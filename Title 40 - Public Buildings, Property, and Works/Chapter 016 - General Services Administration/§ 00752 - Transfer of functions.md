@@ -2,7 +2,7 @@
 
 #### (a) Bureau of Federal Supply
 
-The functions of (1) the Bureau of Federal Supply in the Department of the Treasury, (2) the Director of the Bureau of Federal Supply, (3)the personnel of such Bureau, and (4) the Secretary of the Treasury, relating to the Bureau of Federal Supply, are transferred to the Administrator. The records property, personnel, obligations, and commitments of the Bureau of Federal Supply, together with such additional records, property, and personnel of the Department of the Treasury as the Director of the Office of Management and Budget shall determine to relate primarily to functions transferred by this section or vested in the Administrator by titles II, III, and VI, of this Act, are hereby transferred to the General Service Administration. The Bureau of Federal Supply and the office of Director of the Bureau of Federal Supply are abolished.
+The functions of (1) the Bureau of Federal Supply in the Department of the Treasury, (2) the Director of the Bureau of Federal Supply, (3) the personnel of such Bureau, and (4) the Secretary of the Treasury, relating to the Bureau of Federal Supply, are transferred to the Administrator. The records property, personnel, obligations, and commitments of the Bureau of Federal Supply, together with such additional records, property, and personnel of the Department of the Treasury as the Director of the Office of Management and Budget shall determine to relate primarily to functions transferred by this section or vested in the Administrator by titles II, III, and VI, of this Act, are hereby transferred to the General Service Administration. The Bureau of Federal Supply and the office of Director of the Bureau of Federal Supply are abolished.
 
 #### (b) Office of Contract Settlement
 
@@ -38,7 +38,7 @@ The definitions in section 472 of this title apply to this chapter.
 
 #### Termination of Advisory Boards
 
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776 set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year periodfollowing Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776 set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

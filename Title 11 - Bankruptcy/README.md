@@ -1,5 +1,5 @@
 
-11 U.S.C.<br>United States Code, 2000 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
+11 U.S.C.<br>United States Code, 2001 Edition<br>Title 11 - BANKRUPTCY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 11—BANKRUPTCY
 
@@ -4192,149 +4192,7 @@ Earlier bankruptcy laws included the following acts:
 
 #### National Bankruptcy Review Commission
 
-Pub. L. 103–394, title VI, Oct. 22, 1994, 108 Stat. 4147, provided that:
-
-#### “SEC. 601. SHORT TITLE.
-
-“This title may be cited as the ‘National Bankruptcy Review Commission Act’.
-
-#### “SEC. 602. ESTABLISHMENT.
-
-“There is established the National Bankruptcy Review Commission (referred to as the ‘Commission’).
-
-#### “SEC. 603. DUTIES OF THE COMMISSION.
-
-“The duties of the Commission are—
-
-&emsp;“(1) to investigate and study issues and problems relating to title 11, United States Code (commonly known as the ‘Bankruptcy Code’);
-
-&emsp;“(2) to evaluate the advisability of proposals and current arrangements with respect to such issues and problems;
-
-&emsp;“(3) to prepare and submit to the Congress, the Chief Justice, and the President a report in accordance with section 608; and
-
-&emsp;“(4) to solicit divergent views of all parties concerned with the operation of the bankruptcy system.
-
-#### “SEC. 604. MEMBERSHIP.
-
-“(a)
-
-Number and Appointment.—The Commission shall be composed of 9 members as follows:
-
-&emsp;“(1) Three members appointed by the President, 1 of whom shall be designated as chairman by the President.
-
-&emsp;“(2) One member shall be appointed by the President pro tempore of the Senate.
-
-&emsp;“(3) One member shall be appointed by the Minority Leader of the Senate.
-
-&emsp;“(4) One member shall be appointed by the Speaker of the House of Representatives.
-
-&emsp;“(5) One member shall be appointed by the Minority Leader of the House of Representatives.
-
-&emsp;“(6) Two members appointed by the Chief Justice.
-
-> Members of Congress, and officers and employees of the executive branch, shall be ineligible for appointment to the Commission.
-
-“(b)
-
-Term.—Members of the Commission shall be appointed for the life of the Commission.
-
-“(c)
-
-Quorum.—Five members of the Commission shall constitute a quorum, but a lesser number may conduct meetings.
-
-“(d)
-
-Appointment Deadline.—The first appointments made under subsection (a) shall be made within 60 days after the date of enactment of this Act \[Oct. 22, 1994\].
-
-“(e)
-
-First Meeting.—The first meeting of the Commission shall be called by the chairman and shall be held within 210 days after the date of enactment of this Act.
-
-“(f)
-
-Vacancy.—A vacancy on the Commission resulting from the death or resignation of a member shall not affect its powers and shall be filled in the same manner in which the original appointment was made.
-
-“(g)
-
-Continuation of Membership.—If any member of the Commission who was appointed to the Commission as an officer or employee of a government leaves that office, or if any member of the Commission who was not appointed in such a capacity becomes an officer or employee of a government, the member may continue as a member of the Commission for not longer than the 90-day period beginning on the date the member leaves that office or becomes such an officer or employee, as the case may be.
-
-“(h)
-
-Consultation Prior to Appointment.—Prior to the appointment of members of the Commission, the President, the President pro tempore of the Senate, the Speaker of the House of Representatives, and the Chief Justice shall consult with each other to ensure fair and equitable representation of various points of view in the Commission and its staff.
-
-#### “SEC. 605. COMPENSATION OF THE COMMISSION.
-
-“(a)
-
-Pay.—
-
-&emsp;“(1)
-
-Nongovernment employees.—Each member of the Commission who is not otherwise employed by the United States Government shall be entitled to receive the daily equivalent of the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which he or she is engaged in the actual performance of duties as a member of the Commission.
-
-&emsp;“(2)
-
-Government employees.—A member of the Commission who is an officer or employee of the United States Government shall serve without additional compensation.
-
-“(b)
-
-Travel.—Members of the Commission shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties.
-
-#### “SEC. 606. STAFF OF COMMISSION; EXPERTS AND CONSULTANTS.
-
-“(a)
-
-Staff.—
-
-&emsp;“(1)
-
-Appointment.—The chairman of the Commission may, without regard to the civil service laws and regulations, appoint, and terminate an executive director and such other personnel as are necessary to enable the Commission to perform its duties. The employment of an executive director shall be subject to confirmation by the Commission.
-
-&emsp;“(2)
-
-Compensation.—The chairman of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter II of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of that title.
-
-“(b)
-
-Experts and Consultants.—The Commission may procure temporary and intermittent services of experts and consultants under section 3109(b) of title 5, United States Code.
-
-#### “SEC. 607. POWERS OF THE COMMISSION.
-
-“(a)
-
-Hearings and Meetings.—The Commission or, on authorization of the Commission, a member of the Commission, may hold such hearings, sit and act at such time and places, take such testimony, and receive such evidence, as the Commission considers appropriate. The Commission or a member of the Commission may administer oaths or affirmations to witnesses appearing before it.
-
-“(b)
-
-Official Data.—The Commission may secure directly from any Federal department, agency, or court information necessary to enable it to carry out this title. Upon request of the chairman of the Commission, the head of a Federal department or agency or chief judge of a Federal court shall furnish such information, consistent with law, to the Commission.
-
-“(c)
-
-Facilities and Support Services.—The Administrator of General Services shall provide to the Commission on a reimbursable basis such facilities and support services as the Commission may request. Upon request of the Commission, the head of a Federal department or agency may make any of the facilities or services of the agency available to the Commission to assist the Commission in carrying out its duties under this title.
-
-“(d)
-
-Expenditures and Contracts.—The Commission or, on authorization of the Commission, a member of the Commission may make expenditures and enter into contracts for the procurement of such supplies, services, and property as the Commission or member considers appropriate for the purposes of carrying out the duties of the Commission. Such expenditures and contracts may be made only to such extent or in such amounts as are provided in appropriation Acts.
-
-“(e)
-
-Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other Federal departments and agencies of the United States.
-
-“(f)
-
-Gifts.—The Commission may accept, use, and dispose of gifts or donations of services or property.
-
-#### “SEC. 608. REPORT.
-
-“The Commission shall submit to the Congress, the Chief Justice, and the President a report not later than 2 years after the date of its first meeting. The report shall contain a detailed statement of the findings and conclusions of the Commission, together with its recommendations for such legislative or administrative action as it considers appropriate.
-
-#### “SEC. 609. TERMINATION.
-
-“The Commission shall cease to exist on the date that is 30 days after the date on which it submits its report under section 608.
-
-#### “SEC. 610. AUTHORIZATION OF APPROPRIATIONS.
-
-“There is authorized to be appropriated $1,500,000 to carry out this title.”
+Pub. L. 103–394, title VI, Oct. 22, 1994, 108 Stat. 4147, established the National Bankruptcy Review Commission to (1) investigate and study issues and problems relating to title 11, United States Code, (2) evaluate the advisability of proposals and current arrangements with respect to such issues and problems, (3) solicit divergent views of all parties concerned with the operation of the bankruptcy system, and (4) prepare and submit to the Congress, the Chief Justice, and the President a report not later than 2 years after the date of its first meeting, and provided for termination of the Commission 30 days after submission of the report which was submitted on Oct. 20, 1997.
 
 #### Commission on the Bankruptcy Laws of the United States
 
@@ -4342,7 +4200,7 @@ Pub. L. 91–354, §§1–6, July 24, 1970, 84 Stat. 468, as amended by Pub. L. 
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 7 sections 12, 24; title 8 section 1154; title 10 sections 1151, 2005, 2130a, 2200a; title 12 sections 339a, 624, 1150, 1467a, 1787, 1817, 1821; title 15 sections 77c, 77ccc, 78eee, 78fff, 78fff–1, 78fff–2, 78fff–4, 78<i>lll</i>, 79k, 80a–2, 80a–25, 80b–2, 1681c, 1870; title 17 section 201; title 18 sections 151, 152, 154, 155, 156, 157, 1961, 2516, 3284, 3613; title 19 section 1485; title 20 sections 1087–3, 9305; title 25 sections 1613a, 1616a; title 26 sections 108, 351, 355, 368, 382, 401, 422, 542, 856, 1017, 1361, 1398, 1399, 3302, 4980B, 6012, 6036, 6103, 6161, 6212, 6213, 6229, 6255, 6327, 6503, 6512, 6532, 6658, 6871, 6872, 7437, 7464, 7508; title 28 sections 156, 157, 158, 526, 586, 1334, 1408, 1409, 1411, 1412, 1930, 2075, 3003; title 29 sections 152, 402, 1054, 1163, 1341, 1343, 1362, 1368, 1391, 1402, 1405, 1413; title 30 section 934; title 31 section 3713; title 33 sections 511, 2716; title 37 sections 301b, 301d, 301e, 302, 302b, 302d, 302e, 302g, 302h, 308e, 308f, 308g, 308h, 308i, 314, 315, 317, 318, 319, 321, 322; title 38 sections 3732, 7634; title 40 section 316; title 41 section 41; title 42 sections 254<i>o</i>, 292f, 292<i>o</i>, 294f, 300ff–76, 656, 1473, 2000e, 3602, 6924, 6991b, 6991c,9602, 9608; title 43 sections 617p, 1606, 1636; title 45 sections 701, 791, 912, 1007; title 48 sections 1424–4, 1614, 1821; title 49 section 14301.
+This title is referred to in title 7 sections 12, 24; title 8 section 1154; title 10 sections 1151, 2005, 2130a, 2200a; title 12 sections 339a, 624, 1150, 1467a, 1787, 1817, 1821; title 15 sections 77c, 77ccc, 78eee, 78fff, 78fff–1, 78fff–2, 78fff–4, 78<i>lll</i>, 79k, 80a–2, 80a–25, 80b–2, 1681c, 1870; title 17 section 201; title 18 sections 151, 152, 154, 155, 156, 157, 1961, 2516, 3284, 3613; title 19 section 1485; title 20 sections 1087–3, 9305; title 25 sections 1613a, 1616a; title 26 sections 108, 351, 355, 368, 382, 401, 422, 542, 856, 1017, 1361, 1398, 1399, 3302, 4980B, 6012, 6036, 6103, 6161, 6212, 6213, 6229, 6255, 6327, 6503, 6512, 6532, 6658, 6871, 6872, 7437, 7464, 7508; title 28 sections 156, 157, 158, 526, 586, 1334, 1408, 1409, 1411, 1412, 1930, 2075, 3003; title 29 sections 152, 402, 1054, 1163, 1341, 1343, 1362, 1368, 1391, 1402, 1405, 1413; title 30 section 934; title 31 section 3713; title 33 sections 511, 2716; title 37 sections 301b, 301d, 301e, 302, 302b, 302d, 302e, 302g, 302h, 302j, 308e, 308g, 308h, 308i, 309, 314, 315, 317, 318, 319, 321, 322, 323; title 38 sections 3732, 7634; title 40 section 316; title 41 section 41; title 42 sections 254<i>o</i>, 292f, 292<i>o</i>, 294f, 300ff–76, 656, 1473, 2000e, 3602, 6924, 6991b, 6991c, 9602, 9608; title 43 sections 617p, 1606, 1636; title 45sections 701, 791, 912, 1007; title 47 section 1104; title 48 sections 1424–4, 1614, 1821; title 49 section 14301.
 
 
 ---

@@ -92,7 +92,7 @@ Amendment by section 513(c) of Pub. L. 91–172 applicable to taxable years begi
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 230(c) ofPub. L. 88–272, set out as a note under section 1212 of this title.
+Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 31, 1963, see section 230(c) of Pub. L. 88–272, set out as a note under section 1212 of this title.
 
 #### Section Referred to in Other Sections
 

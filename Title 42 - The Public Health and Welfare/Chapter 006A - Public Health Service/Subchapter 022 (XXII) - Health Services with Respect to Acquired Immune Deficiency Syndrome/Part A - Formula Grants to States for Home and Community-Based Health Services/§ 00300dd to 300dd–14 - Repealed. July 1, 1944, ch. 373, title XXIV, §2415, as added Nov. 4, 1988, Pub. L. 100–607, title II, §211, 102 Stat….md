@@ -16,7 +16,7 @@ Section 300dd–6, act July 1, 1944, ch. 373, title XXIV, §2407, as added Nov. 
 
 Section 300dd–7, act July 1, 1944, ch. 373, title XXIV, §2408, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3084, provided for determination of amount of allotments for States.
 
-Section 300dd–8, act July 1, 1944, ch. 373, title XXIV, §2409, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3085; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2618(c), 102 Stat. 4241, related to failure to comply with agreements.
+Section 300dd–8, act July 1, 1944, ch. 373, title XXIV, §2409, as added Nov. 4, 1988, Pub. L. 100–607, title II,§211, 102 Stat. 3085; amended Nov. 18, 1988, Pub. L. 100–690, title II, §2618(c), 102 Stat. 4241, related to failure to comply with agreements.
 
 Section 300dd–9, act July 1, 1944, ch. 373, title XXIV, §2410, as added Nov. 4, 1988, Pub. L. 100–607, title II, §211, 102 Stat. 3087, prohibited certain false statements.
 

@@ -10,7 +10,7 @@
 
 &emsp;(3) pay all travel expenses between the college or university in which the student is enrolled and the laboratory concerned for not more than six round trips per year; and
 
-&emsp;(4) pay all or part of such fees, charges, and costs related to the participation of such student in the cooperative work-education program as tuition, matriculation fees, charges for library and laboratory services, materials, and supplies, and the purchase or rental price of books.
+&emsp;(4) pay all or part of such fees, charges, and costs related to the participation of such student in the cooperative work-education program as tuition, matriculation fees, chargesfor library and laboratory services, materials, and supplies, and the purchase or rental price of books.
 
 (c) A director of a defense laboratory may—
 

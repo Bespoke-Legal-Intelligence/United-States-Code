@@ -30,9 +30,9 @@ The purposes of this chapter are to help ensure the continued leadership of the 
 
 #### Amendments
 
-1998—Pub. L. 105–305, §2(b)(2), substituted “Purposes” for “Purpose” as section catchline.
+1998—Pub. L. 105–305, §3(b)(1), substituted “Purposes” for “Purpose” as section catchline.
 
-Pub. L. 105–305, §3(b)(1), substituted “purposes of this chapter are” for “purpose of this chapter is” in introductory provisions.
+Pub. L. 105–305, §3(b)(2), substituted “purposes of this chapter are” for “purpose of this chapter is” in introductory provisions.
 
 Par. (1)(A). Pub. L. 105–305, §3(b)(3), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “establish a high-capacity and high-speed National Research and Education Network;”.
 

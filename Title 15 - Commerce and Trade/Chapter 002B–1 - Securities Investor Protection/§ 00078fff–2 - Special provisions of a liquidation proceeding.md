@@ -4,7 +4,7 @@
 
 #### (1) Notice of proceedings
 
-&emsp;Promptly after the appointment of the trustee, such trustee shall cause notice of the commencement of proceedings under this section to be published in one or more newspapers of general circulation in the form and manner determined by the court, and at the same time shall cause a copy of such notice to be mailed to each person who, from the books and records of the debtor, appears to have been a customer of the debtor with an open account within the past twelve months, to the addressof such person as it appears from the books and records of the debtor. Notice to creditors other than customers shall be given in the manner prescribed by title 11, except that such notice shall be given by the trustee.
+&emsp;Promptly after the appointment of the trustee, such trustee shall cause notice of the commencement of proceedings under this section to be published in one or more newspapers of general circulation in the form and manner determined by the court, and at the same time shall cause a copy of such notice to be mailed to each person who, from the books and records of the debtor, appears to have been a customer of the debtor with an open account within the past twelve months, to the address of such person as it appears from the books and records of the debtor. Notice to creditors other than customers shall be given in the manner prescribed by title 11, except that such notice shall be given by the trustee.
 
 #### (2) Statement of claim
 
@@ -70,7 +70,7 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 &emsp;&emsp;(B) if such broker or dealer sustains a net loss on such contracts, he shall be entitled to file a claim against the debtor with the trustee in the amount of such net loss.
 
-> &emsp;To the extent that a net loss sustained by a broker or dealer arises from contracts pursuant to which such broker or dealer was acting for its own customer, such broker or dealer shall be entitled to receive funds advanced by SIPC to the trustee in the amount of such loss, except that such broker or dealer may not receive more than $40,000 for each separate customer with respect to whom it sustained a loss. With respect to a net loss which is not payable under the preceding sentence from funds advanced by SIPC, the broker or dealer shall be entitled to participate in the general estate as an unsecured creditor.
+> &emsp;To the extent that a net loss sustained by a broker or dealer arises from contracts pursuant to which such broker or dealer was acting for its own customer, such broker or dealer shall be entitled to receive funds advanced by SIPC to the trustee in the amount of such loss, except that such broker or dealer may not receive more than $40,000 for each separatecustomer with respect to whom it sustained a loss. With respect to a net loss which is not payable under the preceding sentence from funds advanced by SIPC, the broker or dealer shall be entitled to participate in the general estate as an unsecured creditor.
 
 #### (3) Registered clearing agencies
 

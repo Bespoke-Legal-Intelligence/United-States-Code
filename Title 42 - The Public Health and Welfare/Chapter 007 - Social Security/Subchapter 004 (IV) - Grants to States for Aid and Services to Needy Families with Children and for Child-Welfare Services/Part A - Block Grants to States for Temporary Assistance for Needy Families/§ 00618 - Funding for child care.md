@@ -14,7 +14,7 @@
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall use any amounts appropriated for a fiscal year under paragraph (3), and remaining after the reservation described in paragraph (4) and after grants are awarded under paragraph (1), to make grants to States under this paragraph.
+&emsp;&emsp;The Secretary shall use any amounts appropriated for a fiscal year under paragraph (3), and remaining after the reservation described in paragraph (4) and after grants areawarded under paragraph (1), to make grants to States under this paragraph.
 
 #### (B) Allotments to States
 
@@ -80,7 +80,7 @@ As used in this section, the term “State” means each of the 50 States and th
 
 #### References in Text
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L.97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, as amended, which is classified generally to subchapter II–B (§9858 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Amendments
 

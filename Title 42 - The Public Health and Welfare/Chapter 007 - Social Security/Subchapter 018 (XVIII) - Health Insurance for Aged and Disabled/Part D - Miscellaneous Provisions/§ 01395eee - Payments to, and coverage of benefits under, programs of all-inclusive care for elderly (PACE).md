@@ -158,7 +158,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations promulgated by the Secretary under this section and section 1396u–4 of this title, and the PACE program agreement, shall provide that the PACE program may not disenroll a PACE program eligible individual except—
+&emsp;&emsp;&emsp;Regulations promulgated by the Secretary under this section and section 1396u–4 of this title, and the PACE program agreement, shall provide that thePACE program may not disenroll a PACE program eligible individual except—
 
 &emsp;&emsp;&emsp;&emsp;(I) for nonpayment of premiums (if applicable) on a timely basis; or
 
@@ -250,7 +250,7 @@
 
 #### (B) Development of outcome measures
 
-&emsp;&emsp;Under a PACE program agreement, the PACE provider, the Secretary, and the State administering agency shall jointly cooperate in the development and implementation of health status and quality of life outcomemeasures with respect to PACE program eligible individuals.
+&emsp;&emsp;Under a PACE program agreement, the PACE provider, the Secretary, and the State administering agency shall jointly cooperate in the development and implementation of health status and quality of life outcome measures with respect to PACE program eligible individuals.
 
 #### (4) Oversight
 
@@ -324,7 +324,7 @@
 
 #### (8) Timely consideration of applications for PACE program provider status
 
-&emsp;In considering an application for PACE provider program status, the application shall bedeemed approved unless the Secretary, within 90 days after the date of the submission of the application to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information that is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
+&emsp;In considering an application for PACE provider program status, the application shall be deemed approved unless the Secretary, within 90 days after the date of the submission of the application to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information that is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
 
 #### (f) Regulations
 
@@ -394,7 +394,7 @@ With respect to carrying out a PACE program under this section, the following re
 
 #### (1) In general
 
-&emsp;In order to demonstrate the operation of a PACE program by a private, for-profit entity,the Secretary (in close consultation with State administering agencies) shall grant waivers from the requirement under subsection (a)(3) of this section that a PACE provider may not be a for-profit, private entity.
+&emsp;In order to demonstrate the operation of a PACE program by a private, for-profit entity, the Secretary (in close consultation with State administering agencies) shall grant waivers from the requirement under subsection (a)(3) of this section that a PACE provider may not be a for-profit, private entity.
 
 #### (2) Similar terms and conditions
 
@@ -442,7 +442,7 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763,
 
 &emsp;“(1) shall approve or deny a request for a modification or a waiver of provisions of the PACE protocol not later than 90 days after the date the Secretary receives the request; and
 
-&emsp;“(2) may exercise authority to modify or waive such provisions in a manner that responds promptly to the needs of PACE programs relating to areas of employment and the use of community-based primary care physicians.”
+&emsp;“(2) may exercise authority to modify or waive such provisions in a manner that responds promptly to the needs of PACE programs relating to areas ofemployment and the use of community-based primary care physicians.”
 
 #### Transition; Regulations
 

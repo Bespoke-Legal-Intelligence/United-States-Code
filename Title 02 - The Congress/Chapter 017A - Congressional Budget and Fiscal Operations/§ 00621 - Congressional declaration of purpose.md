@@ -66,7 +66,7 @@ Access to Relevant Information.—
 
 &emsp;“(1) For the studies required by this section, each GSE shall provide full and prompt access to the Secretary of the Treasury and the Director of the Congressional Budget Office to its books and records and other information requested by the Secretary of the Treasury or the Director of the Congressional Budget Office.
 
-&emsp;“(2) In preparing the studies required by this section, the Secretary of the Treasury and the Director of the Congressional Budget Office may request information from, or the assistance of, any Federal department or agency authorized by law to supervise the activities of a GSE.
+&emsp;“(2) In preparing the studies required by this section, the Secretary of the Treasury and the Directorof the Congressional Budget Office may request information from, or the assistance of, any Federal department or agency authorized by law to supervise the activities of a GSE.
 
 “(e)
 

@@ -26,7 +26,7 @@ The Director, subject to the policy direction of the Museum Board, may make gran
 
 #### (2) Limitation on amount
 
-&emsp;The aggregate amount of financial assistance made available under this subsection fora fiscal year shall not exceed 15 percent of the amount appropriated under this subchapter for such fiscal year.
+&emsp;The aggregate amount of financial assistance made available under this subsection for a fiscal year shall not exceed 15 percent of the amount appropriated under this subchapter for such fiscal year.
 
 #### (3) Operational expenses
 

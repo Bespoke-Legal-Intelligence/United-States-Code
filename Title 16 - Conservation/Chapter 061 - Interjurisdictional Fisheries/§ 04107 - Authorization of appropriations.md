@@ -26,7 +26,7 @@ In addition to the amounts authorized in subsection (a) of this section, there a
 
 In addition to the amounts authorized under subsections (a) and (b) of this section, there are authorized to be appropriated to the Department of Commerce $700,000 for fiscal year 1997, and $750,000 for each of the fiscal years 1998, 1999, and 2000, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
 
-&emsp;(1) The commission established by the Atlantic States Marine Fisheries Compact, as consented to and approved by Public Law 77–539 (56 Stat. 267), approved May 4, 1942.
+&emsp;(1) The commission established by the Atlantic States Marine Fisheries Compact, asconsented to and approved by Public Law 77–539 (56 Stat. 267), approved May 4, 1942.
 
 &emsp;(2) The commission established by the Pacific Marine Fisheries Compact, as consented to and approved by Public Law 80–232 (61 Stat. 419), approved July 24, 1947.
 

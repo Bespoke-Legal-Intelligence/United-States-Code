@@ -44,7 +44,7 @@ Disposition of Attorney Admission Fees.—For each fee collected for admission o
 
 “(b)
 
-Disposition of Bankruptcy Complaint Filing Fees.—For each fee collected for filing an adversary complaint in a bankruptcy proceeding, as established in Item 6 of the Bankruptcy Court Miscellaneous Fee Schedule prescribed by the Judicial Conference of the United States pursuant to section 1930(b) of title 28, United States Code, the portion of the fee exceeding $120 shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.
+Disposition of Bankruptcy Complaint Filing Fees.—For each fee collected for filing an adversary complaint in a bankruptcy proceeding, as established in Item 6 of the Bankruptcy Court Miscellaneous Fee Schedule prescribed by the Judicial Conference of the United States pursuant to section 1930(b) of title 28,United States Code, the portion of the fee exceeding $120 shall be deposited into the special fund of the Treasury established under section 1931 of title 28, United States Code.
 
 “(c)
 

@@ -30,7 +30,7 @@ For purposes of this section, and for purposes of determining wages and self-emp
 
 #### (d) Determinations for calendar years after 1976 for purposes of retirement benefit plans
 
-Notwithstanding any other provision of law, the contribution and benefit base determined under this section for any calendar year after 1976 for purposes of section 1322(b)(3)(B) of title 29, with respect to any plan, shall be the contribution and benefit base that would have been determined for such year if this section as in effect immediately prior to the enactment of theSocial Security Amendments of 1977 had remained in effect without change (except that, for purposes of subsection (b) of such section 430 of this title as so in effect, the reference to the contribution and benefit base in paragraph (1) of such subsection (b) shall be deemed a reference to an amount equal to $45,000, each reference in paragraph (2) of such subsection (b) to the average of the wages of all employees as reported to the Secretary of the Treasury shall be deemed a reference to the national average wage index (as defined in section 409(k)(1) of this title), the reference to a preceding calendar year in paragraph (2)(A) of such subsection (b) shall be deemed a reference to the calendar year before the calendar year in which the determination under subsection (a) of such section 430 of this title is made, and the reference to a calendar year in paragraph (2)(B) of such subsection (b) shall be deemed a reference to 1992).
+Notwithstanding any other provision of law, the contribution and benefit base determined under this section for any calendar year after 1976 for purposes of section 1322(b)(3)(B) of title 29, with respect to any plan, shall be the contribution and benefit base that would have been determined for such year if this section as in effect immediately prior to the enactment of the Social Security Amendments of 1977 had remained in effect without change (except that, for purposes of subsection (b) of such section 430 of this title as so in effect, the reference to the contribution and benefit base in paragraph (1) of such subsection (b) shall be deemed a reference to an amount equal to $45,000, each reference in paragraph (2) of such subsection (b) to the average of the wages of all employees as reported to the Secretary of the Treasury shall be deemed a reference to the national average wage index (as defined in section 409(k)(1) of this title), the reference to a preceding calendar year in paragraph (2)(A) of such subsection (b) shall be deemed a reference to the calendar year before the calendar year in which the determination under subsection (a) of such section 430 of this title is made, and the reference to a calendar year in paragraph (2)(B) of such subsection (b) shall be deemed a reference to 1992).
 
 (Aug. 14, 1935, ch. 531, title II, §230, as added Pub. L. 92–336, title II, §202(b)(1), July 1, 1972, 86 Stat. 416; amended Pub. L. 92–603, title I, §144(a)(4), Oct. 30, 1972, 86 Stat. 1370; Pub. L. 93–66, title II, §203(c), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §§3(j), 5(c), Dec. 31, 1973, 87 Stat. 952, 954; Pub. L. 94–202, §8(h), Jan. 2, 1976, 89 Stat. 1139; Pub. L. 95–216, title I, §103(a)–(c)(1), title III, §353(e), Dec. 20, 1977, 91 Stat. 1513, 1514, 1554; Pub. L. 97–34, title VII, §741(d)(1), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–21, title I, §111(a)(5), Apr. 20, 1983, 97 Stat. 72; Pub. L. 98–76, title II, §§211(d), 225(a)(4), Aug. 12, 1983, 97 Stat. 419, 425; Pub. L. 98–369, div. B, title VI, §2663(a)(18), July 18, 1984, 98 Stat. 1165; Pub. L. 101–239, title X, §10208(b)(1)(A), (B), (5), (d)(2)(A)(i), Dec. 19, 1989, 103 Stat. 2477, 2478, 2480; Pub. L. 103–296, title I, §107(a)(4), title III, §321(b)(2), (c)(6)(K), (g)(1)(A), (B), Aug. 15, 1994, 108 Stat. 1478, 1537, 1538, 1542.)
 
@@ -50,7 +50,7 @@ Subsec. (b)(1), (2). Pub. L. 103–296, §321(g)(1)(A), added pars. (1) and (2) 
 
 “(1) the contribution and benefit base which is in effect with respect to remuneration paid in (and taxable years beginning in) the calendar year in which the determination under subsection (a) of this section is made, and
 
-“(2) the ratio of (A) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the deemed average total wages (as so defined) for the calendar year before the most recent calendar year in which an increase in the contribution and benefit base was enacted or a determination resulting in such an increase was made under subsection (a) of this section,”.
+“(2) the ratio of (A) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the deemed average total wages (as so defined) forthe calendar year before the most recent calendar year in which an increase in the contribution and benefit base was enacted or a determination resulting in such an increase was made under subsection (a) of this section,”.
 
 Subsec. (b)(2)(A), (B). Pub. L. 103–296, §321(b)(2), made technical correction to directory language of Pub. L. 101–239, §10208(b)(1). See 1989 Amendment note below.
 
@@ -106,7 +106,7 @@ Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see
 
 Section 321(b)(2) of Pub. L. 103–296 provided that the amendment made by that section is effective as if included in section 10208(b)(1) of Pub. L. 101–239.
 
-Amendment by section 321(g)(1)(A), (B) of Pub. L. 103–296 effective with respect to the determination of the contribution and benefit base for years after 1994, see section 321(g)(3)(A) of Pub. L. 103–296, set out as a note under section 415 of this title.
+Amendment by section 321(g)(1)(A), (B) of Pub. L. 103–296 effective with respect to the determination of the contribution and benefit base for years after 1994,see section 321(g)(3)(A) of Pub. L. 103–296, set out as a note under section 415 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -177,6 +177,8 @@ Amendment by Pub. L. 93–66 applicable only with respect to remuneration paid a
 Amendment by Pub. L. 92–603 effective in like manner as if such amendment had been included in title II of Pub. L. 92–336, see section 144(b) of Pub. L. 92–603, set out as a note under section 403 of this title.
 
 #### Social Security Contribution and Benefit Base
+
+2002—By notice of the Commissioner of Social Security, Oct. 19, 2001, 66 F.R. 54047, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2002 is $84,900.
 
 2001—By notice of the Commissioner of Social Security, Oct. 18, 2000, 65 F.R. 63663, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2001 is $80,400.
 

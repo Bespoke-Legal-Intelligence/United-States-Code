@@ -2,7 +2,7 @@
 
 #### (a) Area to be declared nonnavigable; public interest
 
-Unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects to be undertaken within the boundaries in the portions of the county of Cuyahoga, Ohio, described as follows, are not in the public interest then, subject to subsections (b) and (c) of this section, those portions of such county, bounded and describedas follows, are declared to be nonnavigable waters of the United States:
+Unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects to be undertaken within the boundaries in the portions of the county of Cuyahoga, Ohio, described as follows, are not in the public interest then, subject to subsections (b) and (c) of this section, those portions of such county, bounded and described as follows, are declared to be nonnavigable waters of the United States:
 
 &emsp;Situated in the city of Cleveland, county of Cuyahoga, and State of Ohio, T7N, R13W, and known as being a part of original two acre lots numbers 16, 17, 18, 19, and 20 and the northerly extensions thereof, and being more fully described as follows:
 

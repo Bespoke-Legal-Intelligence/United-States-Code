@@ -16,7 +16,7 @@
 
 (h)(1) Upon request by a service relief society and subject to paragraph (2), an amount owed by a member of the uniformed services to the relief society may be deducted from the pay on final statement of such member and paid to that relief society.
 
-(2) An amount may not be deducted under paragraph (1) from the pay of a member unless the Secretary concerned makes a determinationof the amount owed in accordance with the regulations prescribed under subsection (c). Any amount determined to be owed to a service relief society under this paragraph shall be considered an amount that the member is administratively determined to owe the United States under subsection (c) and shall be collectible in accordance with such subsection.
+(2) An amount may not be deducted under paragraph (1) from the pay of a member unless the Secretary concerned makes a determination of the amount owed in accordance with the regulations prescribed under subsection (c). Any amount determined to be owed to a service relief society under this paragraph shall be considered an amount that the member is administratively determined to owe the United States under subsection (c) and shall be collectible in accordance with such subsection.
 
 (3) The Secretaries concerned shall prescribe regulations to carry out this subsection.
 
@@ -180,7 +180,7 @@ Section 371(d)(1) of Pub. L. 103–337 provided that: “(1) The amendment made 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
+Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
 
 #### Effective Date of 1989 Amendment
 
@@ -196,5 +196,5 @@ Section 633(b) of Pub. L. 100–180 provided that: “Subsection (h) of section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 5514; title 10 section 1055; title 24 sections 419, 424.
+This section is referred to in title 5 section 5514; title 10 section 1055; title 24 section 419.
 

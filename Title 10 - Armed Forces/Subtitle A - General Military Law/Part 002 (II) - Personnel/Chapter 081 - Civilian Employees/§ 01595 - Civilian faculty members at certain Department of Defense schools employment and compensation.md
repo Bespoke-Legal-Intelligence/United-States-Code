@@ -56,7 +56,7 @@ Application to Director and Deputy Director at Asia-Pacific Center for Security 
 
 Subsec. (f). Pub. L. 104–201, §1607(b), added subsec. (f).
 
-1993—Pub. L. 103–160 substituted “Civilian faculty members at certain Department of Defense schools: employment and compensation” for “National Defense University: Foreign Language Center of the Defense Language Institute: civilian faculty members” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (d) relating to similar subject matter but not including coverage of the George C. Marshall European Center for Security Studies.
+1993—Pub. L. 103–160 substituted “Civilian faculty members at certain Department of Defense schools:employment and compensation” for “National Defense University: Foreign Language Center of the Defense Language Institute: civilian faculty members” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (d) relating to similar subject matter but not including coverage of the George C. Marshall European Center for Security Studies.
 
 1992—Pub. L. 102–484, §923(a)(2)(A), substituted “University; Foreign Language Center of the Defense Language Institute” for “University:” in section catchline.
 

@@ -1,36 +1,58 @@
 ### §7545. Obsolete material and articles of historical interest: loan or gift
 
-(a) Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—
+(a)
 
-&emsp;(1) a State, Territory, Commonwealth, or possession of the United States, or political subdivision or municipal corporation thereof;
+Authority To Make Loans and Gifts.—The Secretary of the Navy may lend or give, without expense to the United States, items described in subsection (b) that are not needed by the Department of the Navy to any of the following:
 
-&emsp;(2) the District of Columbia;
+&emsp;(1) A State, Territory, Commonwealth, or possession of the United States, or political subdivision or municipal corporation thereof.
 
-&emsp;(3) a library;
+&emsp;(2) The District of Columbia.
 
-&emsp;(4) a historical society;
+&emsp;(3) A library.
 
-&emsp;(5) an educational institution whose graduates or students fought in World War I or World War II;
+&emsp;(4) A historical society.
 
-&emsp;(6) a soldiers’ monument association;
+&emsp;(5) An educational institution whose graduates or students fought in a foreign war.
 
-&emsp;(7) a State museum;
+&emsp;(6) A servicemen's monument association.
 
-&emsp;(8) a museum operated and maintained for educational purposes only, whose charter denies it the right to operate for profit;
+&emsp;(7) A State museum.
 
-&emsp;(9) a post of the Veterans of Foreign Wars of the United States;
+&emsp;(8) A museum or memorial operated and maintained for educational purposes only, whose charter denies it the right to operate for profit.
 
-&emsp;(10) a post of the American Legion;
+&emsp;(9) A post of the Veterans of Foreign Wars of the United States.
 
-&emsp;(11) any other recognized war veterans’ association; or
+&emsp;(10) A post of the American Legion.
 
-&emsp;(12) a post of the Sons of Veterans Reserve.
+&emsp;(11) Any other recognized war veterans’ association.
 
-(b) Records of the Government as defined in section 3301 of title 44 may not be disposed of under this section.
+&emsp;(12) A post of the Sons of Veterans Reserve.
 
-(c) If any disposition is authorized by this section and section 2572 of this title, the Secretary may make the gift or loan under either section.
+(b)
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Pub. L. 96–513, title V, §513(39), (40), Dec. 12, 1980, 94 Stat. 2934, 2935; Pub. L. 104–106, div. A, title X, §1061(i), Feb. 10, 1996, 110 Stat. 443.)
+Items Eligible for Disposal.—This section applies to the following types of property held by the Department of the Navy:
+
+&emsp;(1) Captured, condemned, or obsolete ordnance material.
+
+&emsp;(2) Captured, condemned, or obsolete combat or shipboard material.
+
+(c)
+
+Regulations.—A loan or gift made under this section shall be subject to regulations prescribed by the Secretary and to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486).
+
+(d)
+
+Maintenance of the Records of the Government.—Records of the Government as defined in section 3301 of title 44 may not be disposed of under this section.
+
+(e)
+
+Alternative Authorities To Make Gifts or Loans.—If any disposition is authorized by this section and section 2572 of this title, the Secretary may make the gift or loan under either section.
+
+(f)
+
+Authority To Transfer a Portion of a Vessel.—The Secretary may lend, give, or otherwise transfer any portion of the hull or superstructure of a vessel stricken from the Naval Vessel Register and designated for scrapping to a qualified organization specified in subsection (a). The terms and conditions of an agreement for the transfer of a portion of a vessel under this section shall include a requirement that the transferee will maintain the material conveyed in a condition that will not diminish the historical value of the material or bring discredit upon the Navy.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 466; Pub. L. 96–513, title V, §513(39), (40), Dec. 12, 1980, 94 Stat. 2934, 2935; Pub. L. 104–106, div. A, title X, §1061(i), Feb. 10, 1996, 110 Stat. 443; Pub. L. 107–107, div. A, title X, §1043(a)–(c), Dec. 28, 2001, 115 Stat. 1218, 1219.)
 
 Historical and Revision Notes
 
@@ -58,11 +80,23 @@ Aug. 7, 1946, ch. 804, §3 (last sentence as applicable to §2), 60 Stat. 897.
 
 Aug. 7, 1946, ch. 804, §6 (1st sentence as applicable to §2, and 3d sentence), 60 Stat. 898.
 
-In subsection (a) the words, “ordnance material” are substituted for the words “ordnance, guns, projectiles”. Posts of the Grand Army of the Republic are omitted from the list of authorized donees because there are no surviving members of that organization. The word“Commonwealth” is inserted to reflect the present status of Puerto Rico. Specific reference to the Canal Zone is omitted as unnecessary, since the Zone is a “possession of the United States” as defined in section 101 of this title and is therefore covered by clause (1).
+In subsection (a) the words, “ordnance material” are substituted for the words “ordnance, guns, projectiles”. Posts of the Grand Army of the Republic are omitted from the list of authorized donees because there are no surviving members of that organization. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico. Specific reference to the Canal Zone is omitted as unnecessary, since the Zone is a “possession of the United States” as defined in section 101 of this title and is therefore covered by clause (1).
 
 Subsection (d) is added to note the existence of a later act, codified in §2572 of this title, which provides similar disposal authority, and to give effect to §2 of the Act of February 27, 1948, ch. 76, 62 Stat. 37, which is not now contained in the U.S. Code, and which saves this section despite the apparent implied repeal.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §1043(a)(1), inserted heading and substituted introductory provisions for provisions which read as follows: “Subject to regulations under section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486), the Secretary of the Navy, under regulations prescribed by him, may lend or give, without expense to the United States, captured, condemned, or obsolete ordnance material, books, manuscripts, works of art, drawings, plans, and models, other condemned or obsolete material, trophies, and flags, and other material of historic interest not needed by the Department of the Navy, to—”.
+
+Subsec. (a)(1) to (12). Pub. L. 107–107, §1043(a)(2), capitalized the first letter after the paragraph designation in each of pars. (1) to (12), substituted a period for a semicolon at end of pars. (1) to (10) and a period for “; or” at end of par. (11), substituted “a foreign war” for “World War I or World War II” in par. (5) and “servicemen's monument” for “soldiers’ monument” in par. (6), and inserted “or memorial” after “museum” in par. (8).
+
+Subsecs. (b), (c). Pub. L. 107–107, §1043(b)(2), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
+
+Subsec. (d). Pub. L. 107–107, §1043(b)(1), (c)(1), redesignated subsec. (b) as (d) and inserted heading.
+
+Subsec. (e). Pub. L. 107–107, §1043(b)(1), (c)(2), redesignated subsec. (c) as (e) and inserted heading.
+
+Subsec. (f). Pub. L. 107–107, §1043(b)(3), added subsec. (f).
 
 1996—Subsecs. (c), (d). Pub. L. 104–106 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “No loan or gift under this section may be made unless—
 

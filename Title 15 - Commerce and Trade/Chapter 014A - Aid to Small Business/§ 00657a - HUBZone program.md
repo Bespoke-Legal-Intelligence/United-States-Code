@@ -74,7 +74,7 @@ There is established within the Administration a program to be carried out by th
 
 #### (3) Provision of data
 
-&emsp;Upon the request of the Administrator, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
+&emsp;Upon the request of the Administrator, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary ofthe Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
 
 #### (4) Penalties
 

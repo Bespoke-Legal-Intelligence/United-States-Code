@@ -14,7 +14,7 @@ The Secretary is authorized to require reports containing such information in su
 
 Provisions similar to this section were contained in section 1134k of this title, prior to repeal by Pub. L. 105–244.
 
-A prior section 1134c, Pub. L. 89–329, title IX, §913, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 762, related to use of funds by grant recipients, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+A prior section 1134c, Pub. L. 89–329, title IX, §913, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 762, related to use of funds by grant recipients,prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 Another prior section 1134c, Pub. L. 89–329, title IX, §904, as added Pub. L. 92–318, title I, §181(a), June 23, 1972, 86 Stat. 306; amended Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, authorized studies and research activities on the need for, and improvement of, graduate programs, prior to the general amendment of subchapter IX of this chapter by Pub. L. 99–498.
 

@@ -2,7 +2,7 @@
 
 #### (a) Access to health services
 
-The Secretary, acting through the Service, shall make grants to or enter into contracts with tribal organizations to assist such organizations in establishing and administering programs on or near Federal Indian reservations and trust areas and in or near Alaska Native villages to assist individual Indians to—
+The Secretary, acting through the Service, shall make grants to or enter into contractswith tribal organizations to assist such organizations in establishing and administering programs on or near Federal Indian reservations and trust areas and in or near Alaska Native villages to assist individual Indians to—
 
 &emsp;(1) enroll under section 1818 of part A and sections 1836 and 1837 of part B of title XVIII of the Social Security Act \[42 U.S.C. 1395i–2, 1395<i>o</i>, 1395p\];
 

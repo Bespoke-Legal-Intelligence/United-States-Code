@@ -270,7 +270,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Office of Airline Information
 
-Pub. L. 106–181, title I, §103(b), Apr. 5, 2000, 114 Stat. 67, provided that: “There is authorized to be appropriated from the Airport and Airway Trust Fund to the Secretary \[of Transportation\] $4,000,000 for fiscal years beginning after September 30, 2000, to fund the activities of the Office of Airline Information in the Bureau of Transportation Statistics of the Department of Transportation.”
+Pub. L. 106–181, title I, §103(b), Apr. 5, 2000, 114 Stat. 67, provided that: “There is authorized to be appropriated from the Airport and Airway Trust Fund to the Secretary \[of Transportation\] $4,000,000 for fiscal yearsbeginning after September 30, 2000, to fund the activities of the Office of Airline Information in the Bureau of Transportation Statistics of the Department of Transportation.”
 
 #### International Trade Traffic
 

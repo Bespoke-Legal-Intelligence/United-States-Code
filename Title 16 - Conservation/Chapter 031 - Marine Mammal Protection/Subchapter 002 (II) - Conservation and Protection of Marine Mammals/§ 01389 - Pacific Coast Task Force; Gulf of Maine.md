@@ -70,7 +70,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 (4) There are authorized to be appropriated to the Secretary such sums as are necessary to carry out the provisions of this subsection.
 
-(5) The amounts appropriated under section 4107(c) of this title and allocated to the Pacific States Marine Fisheries Commission may beused by the Commission to participate in discussions with the Secretary under paragraph (2).
+(5) The amounts appropriated under section 4107(c) of this title and allocated to the Pacific States Marine Fisheries Commission may be used by the Commission to participate in discussions with the Secretary under paragraph (2).
 
 #### (g) Regionwide pinniped-fishery interaction study
 

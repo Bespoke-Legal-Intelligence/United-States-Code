@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-If any person owns consent stock (as defined in subsection (f)(1)) in a corporation on the last day of the taxable year of such corporation, and such person agrees, in a consent filed with the return of such corporation in accordance withregulations prescribed by the Secretary, to treat as a dividend the amount specified in such consent, the amount so specified shall, except as provided in subsection (b), constitute a consent dividend for purposes of section 561 (relating to the deduction for dividends paid).
+If any person owns consent stock (as defined in subsection (f)(1)) in a corporation on the last day of the taxable year of such corporation, and such person agrees, in a consent filed with the return of such corporation in accordance with regulations prescribed by the Secretary, to treat as a dividend the amount specified in such consent, the amount so specified shall, except as provided in subsection (b), constitute a consent dividend for purposes of section 561 (relating to the deduction for dividends paid).
 
 #### (b) Limitations
 
@@ -26,7 +26,7 @@ If a distribution by a corporation consists in part of consent dividends and in 
 
 #### (e) Nonresident aliens and foreign corporations
 
-In the case of a consent dividend which, if paid in money would be subject to the provisions of section 1441 (relating to withholding of tax on nonresident aliens) or section 1442 (relating to withholding of tax on foreign corporations), this section shall not apply unless the consent is accompanied by money, or such other medium of payment as the Secretary may by regulations authorize, in an amount equal to the amount that would be required to be deducted and withheld under sections 1441 or 1442 if the consent dividend had been, on the last day of the taxable year of the corporation, paid to the shareholder in money as a dividend. The amount accompanying the consent shall be credited against the tax imposed by this subtitle on the shareholder.
+In the case of a consent dividend which, if paid in money would be subject to the provisions of section 1441 (relating to withholding of tax onnonresident aliens) or section 1442 (relating to withholding of tax on foreign corporations), this section shall not apply unless the consent is accompanied by money, or such other medium of payment as the Secretary may by regulations authorize, in an amount equal to the amount that would be required to be deducted and withheld under sections 1441 or 1442 if the consent dividend had been, on the last day of the taxable year of the corporation, paid to the shareholder in money as a dividend. The amount accompanying the consent shall be credited against the tax imposed by this subtitle on the shareholder.
 
 #### (f) Definitions
 

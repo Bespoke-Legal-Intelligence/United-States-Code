@@ -2,7 +2,9 @@ Part B—Environmental Tobacco Smoke
 
 #### Codification
 
-This part was, in the original, designated part C and has been redesignated part B for purposes of codification.
+This part was, in the original, part C of title X of Pub. L. 103–227 and has been designated part B of this subchapter for purposes of codification.
+
+Similar provisions relating to environmental tobacco smoke are contained in part C (§7181 et seq.) of subchapter IV of chapter 70 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “1933”.</i>
 

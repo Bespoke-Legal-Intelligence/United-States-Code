@@ -2,7 +2,7 @@
 
 (a)(1) In the Institute there shall be a Division Director for Diabetes, Endocrinology, and Metabolic Diseases, a Division Director for Digestive Diseases and Nutrition, and a Division Director for Kidney, Urologic, and Hematologic Diseases. Such Division Directors, under the supervision of the Director of the Institute, shall be responsible for—
 
-&emsp;(A) developing a coordinated plan (including recommendations for expenditures) for each ofthe national research institutes within the National Institutes of Health with respect to research and training concerning diabetes, endocrine and metabolic diseases, digestive diseases and nutrition, and kidney, urologic, and hematologic diseases;
+&emsp;(A) developing a coordinated plan (including recommendations for expenditures) for each of the national research institutes within the National Institutes of Health with respect to research and training concerning diabetes, endocrine and metabolic diseases, digestive diseases and nutrition, and kidney, urologic, and hematologic diseases;
 
 &emsp;(B) assessing the adequacy of management approaches for the activities within such institutes concerning such diseases and nutrition and developing improved approaches if needed;
 

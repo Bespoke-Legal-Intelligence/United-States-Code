@@ -164,7 +164,7 @@ Pub. L. 105–244, title VIII, §827, Oct. 7, 1998, 112 Stat. 1819, provided tha
 
 “(a)
 
-In General.—The Attorney General, in consultation with the Secretary of Education, shall provide for a national study to examine procedures undertakenafter an institution of higher education receives a report of sexual assault.
+In General.—The Attorney General, in consultation with the Secretary of Education, shall provide for a national study to examine procedures undertaken after an institution of higher education receives a report of sexual assault.
 
 “(b)
 

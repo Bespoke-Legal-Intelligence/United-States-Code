@@ -86,7 +86,7 @@ In General.—In order to determine the most cost-effective and technologically 
 
 &emsp;“(6) studying methods for the recovery of byproducts resulting from desalination to offset the costs of treatment and to reduce environmental impacts from those byproducts; and
 
-&emsp;“(7) salinity modeling and toxicity analysis of brine discharges, cost reduction strategies for constructingand operating desalination facilities, and the horticultural effects of desalinated water used for irrigation.
+&emsp;“(7) salinity modeling and toxicity analysis of brine discharges, cost reduction strategies for constructing and operating desalination facilities, and the horticultural effects of desalinated water used for irrigation.
 
 “(b)
 

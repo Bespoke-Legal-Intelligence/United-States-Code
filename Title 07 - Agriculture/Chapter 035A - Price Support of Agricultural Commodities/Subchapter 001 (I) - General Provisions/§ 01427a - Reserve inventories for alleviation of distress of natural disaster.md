@@ -16,7 +16,7 @@ Except when a state of emergency has been proclaimed by the President or by conc
 
 #### (d) Additional authorization for disposition of commodities to relieve distress or for civil defense emergencies
 
-The Secretary is also authorized to dispose of such commodities only for (1) use in relieving distress (A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act (88 Stat. 143, as amended; 42 U.S.C. 5121), and (C) in connection with any emergency determined by the Secretary to warrant assistance under section 1427 of this title, the Act of September 21, 1959 (73 Stat. 574, as amended; 7 U.S.C. 1427 note), or section 2267 <sup>1</sup> of this title; or (2) use in connection with a state of civil defense emergency as proclaimed by the President or by concurrent resolution of the Congress in accordance with title VI of The Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5195 et seq.\].
+The Secretary is also authorized to dispose of such commodities only for (1) use in relieving distress (A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act (88 Stat. 143, as amended; 42 U.S.C. 5121), and (C) in connection with any emergency determined by the Secretary to warrant assistance under section 1427 of this title, the Act of September 21, 1959 (73 Stat. 574, as amended; 7 U.S.C. 1427 note), or section 2267 <sup>1</sup> of this title; or (2) use in connection with a state of civil defense emergency as proclaimed by the President or by concurrent resolution of the Congress in accordance with title VI of The <sup>2</sup> Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5195 et seq.\].
 
 #### (e) Sale at equivalent prices for maintenance of reserve
 
@@ -40,7 +40,7 @@ There is hereby authorized to be appropriated such sums as may be necessary to c
 
 This Act, referred to in subsec. (a), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, known as the Agricultural Act of 1970. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1281 of this title and Tables.
 
-The Disaster Relief and Emergency Assistance Act and The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), are Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief and Emergency Assistance Act and the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), are Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 Act of September 21, 1959, referred to in subsec. (d), is Pub. L. 86–299, Sept. 21, 1959, 73 Stat. 574, as amended, which is set out as a note under section 1427 of this title.
 
@@ -77,4 +77,6 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 Pub. L. 105–18, title II, June 12, 1997, 111 Stat. 170, provided in part: “That notwithstanding any other provision of law, beginning on October 1, 1997, grain in the disaster reserve established in the Agricultural Act of 1970 \[see Short Title of 1970 Amendment note set out under section 1281 of this title\] shall not exceed 20 million bushels”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -18,5 +18,6 @@ This subchapter was enacted as part of subtitle D (§§3141–3156) of title XXX
 - [&sect; 07383f - Report on counterintelligence and security practices at national laboratories](%C2%A7%2007383f%20-%20Report%20on%20counterintelligence%20and%20security%20practices%20at%20national%20laboratories.md)
 - [&sect; 07383g - Report on security vulnerabilities of national laboratory computers](%C2%A7%2007383g%20-%20Report%20on%20security%20vulnerabilities%20of%20national%20laboratory%20computers.md)
 - [&sect; 07383h - Counterintelligence polygraph program](%C2%A7%2007383h%20-%20Counterintelligence%20polygraph%20program.md)
+- [&sect; 07383h&#8211;1 - Department of Energy counterintelligence polygraph program](%C2%A7%2007383h%E2%80%931%20-%20Department%20of%20Energy%20counterintelligence%20polygraph%20program.md)
 - [&sect; 07383i - Definitions of national laboratory and nuclear weapons production facility](%C2%A7%2007383i%20-%20Definitions%20of%20national%20laboratory%20and%20nuclear%20weapons%20production%20facility.md)
 - [&sect; 07383j - Definition of Restricted Data](%C2%A7%2007383j%20-%20Definition%20of%20Restricted%20Data.md)

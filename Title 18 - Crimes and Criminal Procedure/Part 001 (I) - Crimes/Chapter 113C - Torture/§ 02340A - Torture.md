@@ -12,13 +12,19 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 &emsp;(2) the alleged offender is present in the United States, irrespective of the nationality of the victim or alleged offender.
 
-(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–322, title VI, §60020, Sept. 13, 1994, 108 Stat. 1979.)
+(c)
+
+Conspiracy.—A person who conspires to commit an offense under this section shall be subject to the same penalties (other than the penalty of death) as the penalties prescribed for the offense, the commission of which was the object of the conspiracy.
+
+(Added Pub. L. 103–236, title V, §506(a), Apr. 30, 1994, 108 Stat. 463; amended Pub. L. 103–322, title VI, §60020, Sept. 13, 1994, 108 Stat. 1979; Pub. L. 107–56, title VIII, §811(g), Oct. 26, 2001, 115 Stat. 381.)
 
 #### Amendments
+
+2001—Subsec. (c). Pub. L. 107–56 added subsec. (c).
 
 1994—Subsec. (a). Pub. L. 103–322 inserted “punished by death or” before “imprisoned for any term of years or for life”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2332b, 2339A, 3286 of this title.
+This section is referred to in sections 2332b, 2339A of this title.
 

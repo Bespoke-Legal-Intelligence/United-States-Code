@@ -26,7 +26,7 @@ The Secretary, using funds appropriated to carry out subparts 1 and 2 of this pa
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (b), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-Parts C and D of title IX (as such parts were in effect prior to October 7, 1998), referred to in subsec. (e), means parts C and D of title IX of the Higher EducationAct of 1965, as added by Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1552, as amended, which were classified generally to parts C (§1134h et seq.) and D (§1134<i>l</i> et seq.), respectively, of subchapter IX of this chapter prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+Parts C and D of title IX (as such parts were in effect prior to October 7, 1998), referred to in subsec. (e), means parts C and D of title IX of the Higher Education Act of 1965, as added by Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1552, as amended, which were classified generally to parts C (§1134h et seq.) and D (§1134<i>l</i> et seq.), respectively, of subchapter IX of this chapter prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 #### Prior Provisions
 

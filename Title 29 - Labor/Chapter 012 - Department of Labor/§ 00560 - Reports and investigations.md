@@ -10,9 +10,9 @@ Section was formerly classified to section 620 of Title 5 prior to the general r
 
 #### Amendments
 
-1995—Pub. L. 104–66 in first sentence substituted “prepare and submit to Congress the financial statements of the Department that have been audited” for “make a report in writing to Congress, giving an account of all moneys received and disbursed by him and his department and describing the work done by the department”.
+1995—Pub. L. 104–66 in first sentence substituted “prepare and submit to Congress the financial statements of the Department that have been audited” for “make a report in writing to Congress, giving an account of allmoneys received and disbursed by him and his department and describing the work done by the department”.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 124), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under this section is listed on page 124), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

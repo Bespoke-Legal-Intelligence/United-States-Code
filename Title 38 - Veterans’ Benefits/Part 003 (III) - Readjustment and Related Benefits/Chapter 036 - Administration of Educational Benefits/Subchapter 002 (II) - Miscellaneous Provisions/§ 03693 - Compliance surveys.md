@@ -18,7 +18,7 @@
 
 Section 703 of Pub. L. 94–502 provided that:
 
-“(a) Sections 101, 201, 203, 207, 209, 301, 303, 304, 308, 501, 502, 503, and 508 \[se Tables for classification\] of this Act shall become effective on October 1, 1976.
+“(a) Sections 101, 201, 203, 207, 209, 301, 303, 304, 308, 501, 502, 503, and 508 \[see Tables for classification\] of this Act shall become effective on October 1, 1976.
 
 “(b) Sections 102, 104, 202, 204, 205(1), 205(2), 205(3), 208, 210, 211, 302, 305, 306, 309, 310, 506, 510, 511, and 513 (other than paragraphs (7), (8), (9), and (10) of subsection (a)) \[see Tables for classification\] of this Act shall become effective on the date of enactment of this Act \[Oct. 15, 1976\].
 

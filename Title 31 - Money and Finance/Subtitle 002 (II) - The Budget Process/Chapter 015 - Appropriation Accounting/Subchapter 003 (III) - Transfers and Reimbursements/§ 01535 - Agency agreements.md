@@ -118,7 +118,7 @@ May 21, 1920, ch. 194, 41 Stat. 607, §7(a) (last sentence); added Oct. 15, 1982
 
 Subsec. (a)(4). Pub. L. 98–216, §1(2)(B), inserted “by contract” after “provided”.
 
-Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
+Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of amilitary department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
 
 #### Economy Act Purchases
 
@@ -138,7 +138,7 @@ Extension of Regulations.—Not later than 90 days after the date of the enactme
 
 “(b)
 
-Description of Purchases.—A purchase referred to in subsection (a) is a purchase of goods or servicesfor one agency of the Department of Defense by any other agency under a task or delivery order contract entered into by the other agency under section 2304a of title 10, United States Code, or section 303H of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h).
+Description of Purchases.—A purchase referred to in subsection (a) is a purchase of goods or services for one agency of the Department of Defense by any other agency under a task or delivery order contract entered into by the other agency under section 2304a of title 10, United States Code, or section 303H of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h).
 
 “(c)
 

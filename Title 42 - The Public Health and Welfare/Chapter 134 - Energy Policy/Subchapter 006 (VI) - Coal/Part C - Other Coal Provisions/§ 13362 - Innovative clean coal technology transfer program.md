@@ -88,7 +88,7 @@ Pursuant to the agreements under subsection (a) of this section, the Secretary, 
 
 #### (h) Selection of projects
 
-(1) Pursuant to the agreements under subsection (a) of this section, the Secretary,through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e) of this section, select one or more proposals under this section.
+(1) Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, shall, not later than 120 days after receipt of proposals in response to a solicitation under subsection (e) of this section, select one or more proposals under this section.
 
 (2) In selecting a proposal under this section, the Secretary, through the Agency for International Development, shall consider—
 

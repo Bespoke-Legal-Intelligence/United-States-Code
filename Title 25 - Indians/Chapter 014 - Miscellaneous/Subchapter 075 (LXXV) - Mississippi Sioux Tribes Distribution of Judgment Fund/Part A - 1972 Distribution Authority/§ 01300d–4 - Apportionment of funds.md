@@ -18,7 +18,7 @@ The shares of the Devils Lake Sioux Tribe of North Dakota, the Sisseton and Wahp
 
 #### (c) Per capita distribution to enrollees
 
-The funds allocated to all other Sisseton and Wahpeton Sioux, as provided in subsection (a) ofthis section, shall be distributed per capita to the persons enrolled on the roll prepared by the Secretary pursuant to section 1300d–3(b) of this title.
+The funds allocated to all other Sisseton and Wahpeton Sioux, as provided in subsection (a) of this section, shall be distributed per capita to the persons enrolled on the roll prepared by the Secretary pursuant to section 1300d–3(b) of this title.
 
 (Pub. L. 92–555, title II, §202, Oct. 25, 1972, 86 Stat. 1169; Pub. L. 105–387, §7(d)(1), Nov. 13, 1998, 112 Stat. 3474.)
 

@@ -10,7 +10,7 @@ For purposes of this section, for a plan year—
 
 #### (1) Insolvency
 
-&emsp;A multiemployer plan is insolvent if the plan's available resources are not sufficient to pay benefits under the plan when due for the plan year, or if the plan is determined to be insolvent under subsection (d).
+&emsp;A multiemployer plan is insolvent if the plan's available resources are not sufficient topay benefits under the plan when due for the plan year, or if the plan is determined to be insolvent under subsection (d).
 
 #### (2) Resource benefit level
 
@@ -78,7 +78,7 @@ For purposes of this section, for a plan year—
 
 &emsp;&emsp;(A) notify the Secretary, the Pension Benefit Guaranty Corporation, the parties described in section 418A(a)(2), and the plan participants and beneficiaries of that determination, and
 
-&emsp;&emsp;(B) inform the parties described in section 418A(a)(2) and the plan participants and beneficiaries that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
+&emsp;&emsp;(B) inform the parties described in section 418A(a)(2) and the plan participants andbeneficiaries that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
 #### (2) Resource benefit level
 
@@ -104,7 +104,7 @@ For purposes of this section, for a plan year—
 
 #### (2) Mandatory application
 
-&emsp;A plan sponsor who has determined a resource benefit level for an insolvency yearwhich is below the level of basic benefits shall apply for financial assistance from the Pension Benefit Guaranty Corporation under section 4261 of the Employee Retirement Income Security Act of 1974.
+&emsp;A plan sponsor who has determined a resource benefit level for an insolvency year which is below the level of basic benefits shall apply for financial assistance from the Pension Benefit Guaranty Corporation under section 4261 of the Employee Retirement Income Security Act of 1974.
 
 #### (g) Financial assistance
 

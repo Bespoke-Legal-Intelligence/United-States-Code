@@ -64,7 +64,7 @@
 
 #### (A) Coordination
 
-&emsp;&emsp;The applicant will coordinate, to the maximum extent feasible, with the lead agency in the State or States in which the applicantwill carry out programs or activities under this section.
+&emsp;&emsp;The applicant will coordinate, to the maximum extent feasible, with the lead agency in the State or States in which the applicant will carry out programs or activities under this section.
 
 #### (B) Services on reservations
 
@@ -134,11 +134,11 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 #### (4) Indian tribes or tribal organizations
 
-&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
+&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant orcontract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
 
 #### (f) “State” defined
 
-For the purposes of this section, the term “State” includes only the 50 States, the Districtof Columbia, and the Commonwealth of Puerto Rico.
+For the purposes of this section, the term “State” includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §613, Aug. 22, 1996, 110 Stat. 2286; Pub. L. 105–33, title V, §5602(4), Aug. 5, 1997, 111 Stat. 646; Pub. L. 106–78, title VII, §752(b)(17), Oct. 22, 1999, 113 Stat. 1170.)
 

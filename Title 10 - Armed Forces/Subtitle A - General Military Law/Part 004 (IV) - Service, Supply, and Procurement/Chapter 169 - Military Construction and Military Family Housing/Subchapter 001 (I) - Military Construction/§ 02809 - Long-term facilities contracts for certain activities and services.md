@@ -72,7 +72,7 @@ Subsec. (c). Pub. L. 101–189, §2803(3), substituted “1991” for “1989”
 
 Subsec. (c). Pub. L. 100–180, §2302(b), substituted “1989” for “1987”.
 
-1986—Subsec. (a)(1). Pub. L. 99–661, §2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation in the United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determines that the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
+1986—Subsec. (a)(1). Pub. L. 99–661, §2711, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary concerned may enter into a contract for the construction, management, and operation of a facility on or near a military installation in the United States for the provision of child care services, waste water treatment, or depot supply activities in a case in which the Secretary concerned determinesthat the facility can be more efficiently and more economically provided under a long-term contract than by other appropriate means.”
 
 Pub. L. 99–661, §1343(a)(20)(A), substituted “a contract” for “contracts”, “a facility” for “facilities”, “a military installation” for “military installations”, “a case” for “cases”, “facility” for “facilities”, and “a long-term contract” for “long-term contracts” and inserted a comma after “waste water treatment”.
 
@@ -91,6 +91,40 @@ Section 2805(b) of Pub. L. 102–190 provided that: “Section 2809 of title 10,
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–456 effective Oct. 1, 1988, see section 2702 of Pub. L. 100–456, set out as a note under section 2391 of this title.
+
+#### Demonstration Program on Reduction in Long-Term Facility Maintenance Costs
+
+Pub. L. 107–107, div. B, title XXVIII, §2814, Dec. 28, 2001, 115 Stat. 1310, provided that:
+
+“(a)
+
+Authority To Carry Out Program.—The Secretary of the Army may conduct a demonstration program to assess the feasibility and desirability of including facility maintenance requirements in construction contracts for military construction projects for the purpose of determining whether such requirements facilitate reductions in the long-term facility maintenance costs of the military departments.
+
+“(b)
+
+Contracts.—Not more than three contracts entered into in any year may contain requirements referred to in subsection (a) for the purpose of the demonstration program. The demonstration program may only cover contracts entered into on or after the date of the enactment of this Act \[Dec. 28, 2001\].
+
+“(c)
+
+Effective Period of Requirements.—The effective period of a requirement referred to in subsection (a) that is included in a contract for the purpose of the demonstration program may not exceed five years.
+
+“(d)
+
+Reporting Requirements.—Not later than January 31, 2005, the Secretary of the Army shall submit to Congress a report on the demonstration program, including the following:
+
+&emsp;“(1) A description of all contracts that contain requirements referred to in subsection (a) for the purpose of the demonstration program.
+
+&emsp;“(2) An evaluation of the demonstration program and a description of the experience of the Secretary with respect to such contracts.
+
+&emsp;“(3) Any recommendations, including recommendations for the termination, continuation, or expansion of the demonstration program, that the Secretary considers appropriate.
+
+“(e)
+
+Expiration.—The authority under subsection (a) to include requirements referred to in that subsection in contracts under the demonstration program shall expire on September 30, 2006.
+
+“(f)
+
+Funding.—Amounts authorized to be appropriated for the Army for a fiscal year for military construction shall be available for the demonstration program under this section in such fiscal year.”
 
 #### Report
 

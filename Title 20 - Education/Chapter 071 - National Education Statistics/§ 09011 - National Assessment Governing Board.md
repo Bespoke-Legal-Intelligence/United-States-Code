@@ -8,39 +8,41 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (1) Appointment and composition
 
-&emsp;The Board shall be appointed by the Secretary and be composed of—
+&emsp;The Board shall be appointed by the Secretary and be composed as follows:
 
-&emsp;&emsp;(A) two Governors, or former Governors, who shall not be members of the same political party;
+&emsp;&emsp;(A) Two Governors, or former Governors, who shall not be members of the same political party.
 
-&emsp;&emsp;(B) two State legislators, who shall not be members of the same political party;
+&emsp;&emsp;(B) Two State legislators, who shall not be members of the same political party.
 
-&emsp;&emsp;(C) two chief State school officers;
+&emsp;&emsp;(C) Two chief State school officers.
 
-&emsp;&emsp;(D) one superintendent of a local educational agency;
+&emsp;&emsp;(D) One superintendent of a local educational agency.
 
-&emsp;&emsp;(E) one member of a State board of education;
+&emsp;&emsp;(E) One member of a State board of education.
 
-&emsp;&emsp;(F) one member of a local board of education;
+&emsp;&emsp;(F) One member of a local board of education.
 
-&emsp;&emsp;(G) three classroom teachers representing the grade levels at which the National Assessment is conducted;
+&emsp;&emsp;(G) Three classroom teachers representing the grade levels at which the National Assessment is conducted.
 
-&emsp;&emsp;(H) one representative of business or industry;
+&emsp;&emsp;(H) One representative of business or industry.
 
-&emsp;&emsp;(I) two curriculum specialists;
+&emsp;&emsp;(I) Two curriculum specialists.
 
-&emsp;&emsp;(J) three testing and measurement experts, who shall have training and experience in the field of testing and measurement;
+&emsp;&emsp;(J) Three testing and measurement experts, who shall have training and experience in the field of testing and measurement.
 
-&emsp;&emsp;(K) one nonpublic school administrator or policymaker;
+&emsp;&emsp;(K) One nonpublic school administrator or policymaker.
 
-&emsp;&emsp;(L) two school principals, of whom one shall be an elementary school principal and one shall be a secondary school principal; and
+&emsp;&emsp;(L) Two school principals, of whom one shall be an elementary school principal and one shall be a secondary school principal.
 
-&emsp;&emsp;(M) four additional members who are representatives of the general public, including parents.
+&emsp;&emsp;(M) Two parents who are not employed by a local, State or Federal educational agency.
+
+&emsp;&emsp;(N) Two additional members who are representatives of the general public, and who may be parents, but who are not employed by a local, State, or Federal educational agency.
 
 #### (2) Assistant Secretary for Educational Research
 
 &emsp;The Assistant Secretary for Educational Research and Improvement shall serve as an ex officio, nonvoting member of the Board.
 
-#### (3) Special rule
+#### (3) Balance and diversity
 
 &emsp;The Secretary and the Board shall ensure at all times that the membership of the Board reflects regional, racial, gender, and cultural balance and diversity and that the Board exercises its independent judgment, free from inappropriate influences and special interests.
 
@@ -60,17 +62,23 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (4) Conforming provision
 
-&emsp;Members of the Board previously granted 3 year terms, whose terms are in effect on December 21, 2000, shall have their terms extended by 1 year.
+&emsp;Members of the Board previously granted 3 year terms, whose terms are in effect on December 21,2000, shall have their terms extended by 1 year.
 
 #### (d) Vacancies
 
 #### (1) In general
 
-&emsp;(A) The Secretary shall appoint new members to fill vacancies on the Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
+#### (A) Organizations
 
-&emsp;(B) Each organization submitting nominations to the Secretary with respect to a particular vacancy shall nominate for such vacancy six individuals who are qualified by experience or training to fill the particular Board vacancy.
+&emsp;&emsp;The Secretary shall appoint new members to fill vacancies on the Board from among individuals who are nominated by organizations representing the type of individuals described in subsection (b)(1) of this section with respect to which the vacancy exists.
 
-&emsp;(C) The Secretary's appointments shall maintain the composition, diversity, and balance of the Board required under subsection (b) of this section.
+#### (B) Nominations
+
+&emsp;&emsp;Each organization submitting nominations to the Secretary with respect to a particular vacancy shall nominate for such vacancy six individuals who are qualified by experience or training to fill the particular Board vacancy.
+
+#### (C) Maintenance of Board
+
+&emsp;&emsp;The Secretary's appointments shall maintain the composition, diversity, and balance of the Board required under subsection (b) of this section.
 
 #### (2) Additional nominations
 
@@ -82,31 +90,35 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 &emsp;In carrying out its functions under this section the Board shall—
 
-&emsp;&emsp;(A) select subject areas to be assessed (consistent with section 9010(b)(1) of this title);
+&emsp;&emsp;(A) select the subject areas to be assessed (consistent with section 9010(b) of this title);
 
-&emsp;&emsp;(B) develop appropriate student performance levels as provided in section 9010(e) of this title;
+&emsp;&emsp;(B) develop appropriate student achievement levels as provided in section 9010(e) of this title;
 
-&emsp;&emsp;(C) develop assessment objectives and test specifications through a national consensus approach which includes the active participation of teachers, curriculum specialists, local school administrators, parents, and concerned members of the public;
+&emsp;&emsp;(C) develop assessment objectives consistent with the requirements of this section and test specifications that produce an assessment that is valid and reliable, and are based on relevant widely accepted professional standards;
 
-&emsp;&emsp;(D) design the methodology of the assessment, in consultation with appropriate technical experts, including the Advisory Council established under section 9006 of this title;
+&emsp;&emsp;(D) develop a process for review of the assessment which includes the active participation of teachers, curriculum specialists, local school administrators, parents, and concerned members of the public;
 
-&emsp;&emsp;(E) develop guidelines for reporting and disseminating results;
+&emsp;&emsp;(E) design the methodology of the assessment to ensure that assessment items are valid and reliable, in consultation with appropriate technical experts in measurement and assessment, content and subject matter, sampling, and other technical experts who engage in large scale surveys, including the Advisory Council established under section 9006 of this title;
 
-&emsp;&emsp;(F) develop standards and procedures for interstate, regional, and national comparisons; and
+&emsp;&emsp;(F) consistent with section 9010 of this title, measure student academic achievement in grades 4, 8, and 12 in the authorized academic subjects;
 
-&emsp;&emsp;(G) take appropriate actions needed to improve the form and use of the National Assessment.
+&emsp;&emsp;(G) develop guidelines for reporting and disseminating results;
+
+&emsp;&emsp;(H) develop standards and procedures for regional and national comparisons; and
+
+&emsp;&emsp;(I) take appropriate actions needed to improve the form, content, use, and reporting of results of any assessment authorized by section 9010 of this title consistent with the provisions of this section and section 9010 of this title.
 
 #### (2) Delegation
 
 &emsp;The Board may delegate any of the Board's procedural and administrative functions to its staff.
 
-#### (3) Cognitive items
+#### (3) All cognitive and noncognitive assessment items
 
-&emsp;The Board shall have final authority on the appropriateness of cognitive items.
+&emsp;The Board shall have final authority on the appropriateness of all assessment items.
 
 #### (4) Prohibition against bias
 
-&emsp;The Board shall take steps to ensure that all items selected for use in the National Assessment are free from racial, cultural, gender, or regional bias.
+&emsp;The Board shall take steps to ensure that all items selected for use in the National Assessment are free from racial, cultural, gender, or regional bias and are secular, neutral, and non-ideological.
 
 #### (5) Technical
 
@@ -114,7 +126,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (6) Report
 
-&emsp;Not later than 90 days after an evaluation of the student performance levels under section 9010(e) of this title, the Board shall make a report to the Secretary, the Committee on Education and Labor of the House of Representatives, and the Committee on Labor and Human Resources of the Senate describing the steps the Board is taking to respond to each of the recommendations contained in such evaluation.
+&emsp;Not later than 90 days after an evaluation of the student achievement levels under section 9010(e) of this title, the Board shall make a report to the Secretary, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate describing the steps the Board is taking to respond to each of the recommendations contained in such evaluation.
 
 #### (f) Personnel
 
@@ -124,9 +136,13 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (2) Staff
 
-&emsp;(A) The Secretary may appoint, at the request of the Board, such staff as will enable the Board to carry out its responsibilities.
+#### (A) In general
 
-&emsp;(B) Such appointments may include, for terms not to exceed three years and without regard to the provisions of title 5 governing appointments in the competitive service, not more than six technical employees who may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
+&emsp;&emsp;The Secretary may appoint, at the request of the Board, such staff as will enable the Board to carry out its responsibilities.
+
+#### (B) Technical employees
+
+&emsp;&emsp;Such appointments may include, for terms not to exceed 3 years and without regard to the provisions of title 5 governing appointments in the competitive service, not more than six technical employees who may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
 #### (g) Coordination
 
@@ -138,17 +154,19 @@ The Commissioner and the Board shall meet periodically—
 
 #### (h) Administration
 
-Only sections 10, 11, and 12 of the Federal Advisory Committee Act shall apply with respect to the Board.
+The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Board, other than sections 10, 11, and 12 of such Act.
 
-(Pub. L. 103–382, title IV, §412, Oct. 20, 1994, 108 Stat. 4039; Pub. L. 106–554, §1(a)(1) \[title III, §307\], Dec. 21, 2000, 114 Stat. 2763, 2763A–44.)
+(Pub. L. 103–382, title IV, §412, Oct. 20, 1994, 108 Stat. 4039; Pub. L. 106–554, §1(a)(1) \[title III, §307\], Dec. 21, 2000, 114 Stat. 2763, 2763A–44; Pub. L. 107–110, title VI, §602(b), Jan. 8, 2002, 115 Stat. 1904.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(2)(B), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-Sections 10, 11, and 12 of the Federal Advisory Committee Act, referred to in subsec. (h), are sections 10, 11, and 12 of Pub. L. 92–463, as amended, which are set out in the Appendix to Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Pub. L. 107–110 amended section generally, restating and expanding provisions.
 
 2000—Subsec. (c)(1). Pub. L. 106–554, §1(a)(1) \[title III, §307(1)\], substituted “4 years” for “3 years”.
 
@@ -157,6 +175,10 @@ Subsec. (c)(4). Pub. L. 106–554, §1(a)(1) \[title III, §307(2)\], added par.
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 

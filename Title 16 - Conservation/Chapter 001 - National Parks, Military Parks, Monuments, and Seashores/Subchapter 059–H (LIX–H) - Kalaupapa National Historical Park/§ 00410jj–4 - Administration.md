@@ -2,7 +2,7 @@
 
 #### (a) Laws governing
 
-The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3,and 4 of this title, and sections 461 to 467 of this title, and the provisions of this Act.
+The Secretary shall administer the park in accordance with the provisions of sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title, and the provisions of this Act.
 
 #### (b) Emergency, temporary, and interim activities; cooperative agreements; expenditures; rehabilitation projects
 

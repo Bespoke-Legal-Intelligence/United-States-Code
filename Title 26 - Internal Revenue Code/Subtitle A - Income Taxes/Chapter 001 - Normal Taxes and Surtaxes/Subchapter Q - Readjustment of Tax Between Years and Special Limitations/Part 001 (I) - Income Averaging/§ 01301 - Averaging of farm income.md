@@ -70,7 +70,7 @@ Another prior section 1305, act Aug. 26, 1957, Pub. L. 85–165, §1, 71 Stat. 4
 
 A prior section 1306, Pub. L. 85–866, title I, §58(a), Sept. 2, 1958, 72 Stat. 1646, related to damages received for injuries under the antitrust laws, prior to the general revision of this part by Pub. L. 88–272.
 
-A prior section 1307, act Aug. 16, 1954, ch. 736, 68A Stat. 336, §1307, formerly §1304; renumbered §1305, Aug. 11, 1955, ch. 804, §1(a), 69 Stat. 688; renumbered §1306, Aug. 26, 1957, Pub. L. 85–165, §1, 71 Stat. 413; renumbered §1307, Sept. 2, 1958, Pub. L. 85–866, title I, §58(a), 72 Stat. 1646; amended Oct. 16, 1962, Pub. L. 87–834, §22(a), 76 Stat. 1064, provided rules applicable to this part, prior to the general revision of this part by Pub. L. 88–272.
+A prior section 1307, act Aug. 16, 1954, ch. 736, 68A Stat. 336, §1307, formerly §1304; renumbered §1305, Aug. 11, 1955, ch. 804, §1(a), 69 Stat. 688; renumbered §1306, Aug. 26, 1957, Pub. L. 85–165, §1, 71 Stat. 413; renumbered §1307, Sept. 2, 1958, Pub. L. 85–866, title I, §58(a), 72 Stat. 1646; amended Oct. 16, 1962, Pub. L. 87–834, §22(a), 76Stat. 1064, provided rules applicable to this part, prior to the general revision of this part by Pub. L. 88–272.
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ Contents of Application.—The application for registration shall be made to the
 
 &emsp;(6) such other information as may be required by the Administrator.
 
-> The application for registration may include a description setting forth the salient features of the design, but the absence of such a descriptionshall not prevent registration under this chapter.
+> The application for registration may include a description setting forth the salient features of the design, but the absence of such a description shall not prevent registration under this chapter.
 
 (e)
 

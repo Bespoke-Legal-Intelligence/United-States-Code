@@ -30,7 +30,7 @@
 
 &emsp;(2) any of the laws of the United States relating to coins, obligations, and securities of the United States and of foreign governments; or
 
-&emsp;(3) any of the laws of the United States relating to electronic fund transfer frauds, credit and debit card frauds, and false identification documents or devices; except that the authority conferred by this paragraph shall be exercised subject to the agreement of the Attorney General and the Secretary of the Treasury and shall not affect the authority of any other Federal law enforcement agency with respect to those laws.
+&emsp;(3) any of the laws of the United States relating to electronic fund transfer frauds, access device frauds, false identification documents or devices, and any fraud or other criminal or unlawful activity in or against any federally insured financial institution; except that the authority conferred by this paragraph shall be exercised subject to the agreement of the Attorney General and the Secretary of the Treasury and shall not affect the authority of any other Federal law enforcement agency with respect to those laws.
 
 (c)(1) Under the direction of the Secretary of the Treasury, officers and agents of the Secret Service are authorized to—
 
@@ -58,7 +58,7 @@
 
 &emsp;(B) the criteria and information used in making each designation.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, §3, Dec. 19, 2000, 114 Stat. 2716.)
+(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, §3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, §506(b), Oct. 26, 2001, 115 Stat. 367.)
 
 #### Historical and Revision Notes
 
@@ -81,6 +81,8 @@ Changes were made in phraseology.
 Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
 #### Amendments
+
+2001—Subsec. (b)(3). Pub. L. 107–56 substituted “access device frauds, false identification documents or devices, and any fraud or other criminal or unlawful activity in or against any federally insured financial institution” for “credit and debit card frauds, and false identification documents or devices”.
 
 2000—Subsec. (e). Pub. L. 106–544 added subsec. (e).
 
@@ -112,7 +114,7 @@ Subsec. (b). Pub. L. 94–408 inserted reference to other Federal law enforcemen
 
 1974—Subsec. (a). Pub. L. 93–552 inserted provisions relating to the protection of the immediate family of the Vice President unless declined, and the payment of expenses for unforeseen emergencies of a confidential nature under the direction of the Secretary of the Treasury and accounted for solely on his certificate.
 
-1971—Pub. L. 91–651 authorized the Secret Service to protect the person of a visiting head of a foreign state or foreign government and, at the direction of the President, other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad, and substituted “Director, Deputy Director, Assistant Directors, Assistants to the Director” for “Chief, Deputy Chief, Assistant Chief”.
+1971—Pub. L. 91–651 authorized the Secret Service to protect the person of a visiting head of a foreign stateor foreign government and, at the direction of the President, other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad, and substituted “Director, Deputy Director, Assistant Directors, Assistants to the Director” for “Chief, Deputy Chief, Assistant Chief”.
 
 Pub. L. 91–644 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -139,6 +141,10 @@ Amendment by Pub. L. 93–552 effective July 12, 1974, see section 609(b) of Pub
 #### Effective Date of 1959 Amendment
 
 Amendment by Pub. L. 86–168 effective Dec. 31, 1959, see section 104(k) of Pub. L. 86–168.
+
+#### Expansion of National Electronic Crime Task Force Initiative
+
+Pub. L. 107–56, title I, §105, Oct. 26, 2001, 115 Stat. 277, provided that: “The Director of the United States Secret Service shall take appropriate actions to develop a national network of electronic crime task forces, based on the New York Electronic Crimes Task Force model, throughout the United States, for the purpose of preventing, detecting, and investigating various forms of electronic crimes, including potential terrorist attacks against critical infrastructure and financial payment systems.”
 
 #### National Threat Assessment Center
 
@@ -260,7 +266,7 @@ Sec. 6. Executive departments and Executive agencies shall assist the Secret Ser
 
 “
 
-Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased, or otherwise procured for the purposes of carrying out the duties of the Secret Service by persons other than officers or employees of the Federal Government duly authorized by the Director to make such orders, purchases, leases, or procurements.
+Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased, or otherwise procured for the purposes of carrying out the duties of the Secret Service by persons other than officers or employees ofthe Federal Government duly authorized by the Director to make such orders, purchases, leases, or procurements.
 
 “
 
@@ -284,7 +290,7 @@ Sec. 11. Section 2 of Public Law 90–331 (82 Stat. 170) \[formerly set out as a
 
 “
 
-Sec. 12. In carrying out the protection of the President of the United States, pursuant to section 3056(a) of title 18, at the one non-governmental property designated by the President of the United States to be fully secured by the United States Secret Service on a permanent basis, as provided in section 3.(a) of Public Law 94–524 \[section 3(a) of this note\], or at an airport facility used for travel en route to or from suchproperty\[,\] the Secretary of the Treasury may utilize, with their consent, the law enforcement services, personnel, equipment, and facilities of the affected State and local governments. Further, the Secretary of the Treasury is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. All claims for such reimbursement by the affected governments will be submitted to the Secretary of the Treasury on a quarterly basis. Expenditures for this reimbursement are authorized not to exceed $300,000 at the one nongovernmental property, and $70,000 at the airport facility, in any one fiscal year: <i>Provided</i>, That the designated site is located in a municipality or political subdivision of any State where the permanent resident population is 7,000 or less and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments: <i>Provided further</i>, That the airport facility is wholly or partially located in a municipality or political subdivison \[sic\] of any State where the permanent resident population is 7,000 or less, the airport is located within 25 nautical miles of the designated nongovernmental property, and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments.”
+Sec. 12. In carrying out the protection of the President of the United States, pursuant to section 3056(a) of title 18, at the one non-governmental property designated by the President of the United States to be fully secured by the United States Secret Service on a permanent basis, as provided in section 3.(a) of Public Law 94–524 \[section 3(a) of this note\], or at an airport facility used for travel en route to or from such property\[,\] the Secretary of the Treasury may utilize, with their consent, the law enforcement services, personnel, equipment, and facilities of the affected State and local governments. Further, the Secretary of the Treasury is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities. All claims for such reimbursement by the affected governments will be submitted to the Secretary of the Treasury on a quarterly basis. Expenditures for this reimbursement are authorized not to exceed $300,000 at the one nongovernmental property, and $70,000 at the airport facility, in any one fiscal year: <i>Provided</i>, That the designated site is located in a municipality or political subdivision of any State where the permanent resident population is 7,000 or less and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments: <i>Provided further</i>, That the airport facility is wholly or partially located in a municipality or political subdivison \[sic\] of any State where the permanent resident population is 7,000 or less, the airport is located within 25 nautical miles of the designated nongovernmental property, and where the absence of such Federal assistance would place an undue economic burden on the affected State and local governments.”
 
 #### Major Presidential or Vice Presidential Candidates and Spouses; Personal Protection
 
@@ -300,7 +306,7 @@ Section 5 of Pub. L. 91–651 provided that: “Section 3056 of title 18, United
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 115, 351, 879, 1752, 2332b, 3486, 4247 of this title; title 5 sections 552a, 5542; title 12 section 3414; title 22 sections 2709, 4304; title 31 sections 1344, 1537.
+This section is referred to in sections 115, 351, 879, 1030, 1752, 2332b, 3486, 4247 of this title; title 5 sections 552a, 5542; title 12 section 3414; title 22 sections 2709, 4304; title 31 sections 1344, 1537.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

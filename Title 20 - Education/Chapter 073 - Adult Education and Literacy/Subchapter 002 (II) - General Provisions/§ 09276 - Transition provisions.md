@@ -32,7 +32,7 @@ The Secretary of Labor shall take such actions as the Secretary determines to be
 
 #### (2) Additional requirements
 
-&emsp;Not to exceed 2 percent of any allotment to any State from amounts appropriated under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] or under this Act for fiscal year 1998 or 1999 may be made available to carry out planning authorized under paragraph (1)and not less than 50 percent of any such amount used to carry out planning authorized under paragraph (1) shall be made available to local entities for the planning purposes described in such paragraph.
+&emsp;Not to exceed 2 percent of any allotment to any State from amounts appropriated under the Job Training Partnership Act or under this Act for fiscal year 1998 or 1999 may be made available to carry out planning authorized under paragraph (1) and not less than 50percent of any such amount used to carry out planning authorized under paragraph (1) shall be made available to local entities for the planning purposes described in such paragraph.
 
 #### (e) Reorganization
 
@@ -42,7 +42,7 @@ Not later than 1 year after August 7, 1998, the Secretary of Labor shall reorgan
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsecs. (a) and (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which is classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsecs. (a) and (d), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
 This Act, referred to in subsecs. (a) and (c) to (e), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 

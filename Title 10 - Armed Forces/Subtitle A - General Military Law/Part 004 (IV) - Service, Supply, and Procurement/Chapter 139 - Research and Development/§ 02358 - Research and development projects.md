@@ -202,7 +202,7 @@ Eligible States.—(1) The Under Secretary of Defense for Acquisition, Technolog
 
 “(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate a State as an eligible State if, as determined by the Under Secretary—
 
-&emsp;“(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligationsfor science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
+&emsp;“(A) the average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the State for the three fiscal years preceding the fiscal year for which the designation is effective or for the last three fiscal years for which statistics are available is less than the amount determined by multiplying 60 percent times the amount equal to 1/50 of the total average annual amount of all Department of Defense obligations for science and engineering research and development that were in effect with institutions of higher education in the United States for such three preceding or last fiscal years, as the case may be; and
 
 &emsp;“(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State.
 
@@ -296,7 +296,7 @@ Regulations.—Not later than 90 days after the date of the enactment of this Ac
 
 “(g)
 
-Funding.—Of the amounts authorized to be appropriated under section 201 \[107 Stat. 1583\], $20,000,000 shall be available for the University Research Initiative Support Program.”
+Funding.—Of the amounts authorized to be appropriated under section 201 \[107 Stat. 1583\], $20,000,000shall be available for the University Research Initiative Support Program.”
 
 #### Independent Research and Development; Bid and Proposal Costs; Negotiation of Advance Agreements With Contractors; Annual Report to Congress
 

@@ -92,7 +92,7 @@ Reserve Dental Officers Special Pay.—(1) A reserve dental officer described in
 
 &emsp;(B) is on active duty under a call or order to active duty for a period of less than one year.
 
-(Added Pub. L. 93–274, §1(2), May 6, 1974, 88 Stat. 94; amended Pub. L. 96–284, §4(b), June 28, 1980, 94 Stat. 591; Pub. L. 99–145, title VI, §639(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §615(a), (b), (e), Sept. 23, 1996, 110 Stat. 2545, 2547; Pub. L. 105–85, div. A, title VI, §618, Nov. 18, 1997, 111 Stat. 1789.)
+(Added Pub. L. 93–274, §1(2), May 6, 1974, 88 Stat. 94; amended Pub. L. 96–284, §4(b), June 28, 1980, 94Stat. 591; Pub. L. 99–145, title VI, §639(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §615(a), (b), (e), Sept. 23, 1996, 110 Stat. 2545, 2547; Pub. L. 105–85, div. A, title VI, §618, Nov. 18, 1997, 111 Stat. 1789.)
 
 #### Amendments
 
@@ -188,7 +188,7 @@ Section 639(d) of Pub. L. 99–145, as amended by Pub. L. 99–661, div. A, titl
 
 “(1) An officer described in paragraph (2) who, after September 30, 1985, is entitled to special pay under section 302b of title 37, United States Code (as amended by subsection (a)), may (notwithstanding the provisions of such section and in the discretion of the Secretary concerned) be paid such pay, in order to prevent inequities, in an annual amount equal to the total annual amount of dental continuation pay under section 311 of title 37, United States Code, and special pay for dental officers under section 302b of that title to which that officer would have been entitled on September 30, 1985, in accordance with the status of the officer (as determined by the Secretary concerned) during the period for which the pay is paid. Notwithstanding the preceding sentence, an officer may not be paid special pay by reason of this paragraph in an amount greater than the amount of special pay to which the officer was entitled under such sections on September 30, 1985.
 
-“(2) Paragraph (1) applies to an officer who on September 30, 1985, is entitled to dental continuation pay under section 311 of title 37, United States Code; or to special pay for dental officers under section 302b of that title.”
+“(2) Paragraph (1) applies to an officer who on September 30, 1985, is entitled to dental continuation payunder section 311 of title 37, United States Code; or to special pay for dental officers under section 302b of that title.”
 
 \[Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under section 301 of this title.\]
 

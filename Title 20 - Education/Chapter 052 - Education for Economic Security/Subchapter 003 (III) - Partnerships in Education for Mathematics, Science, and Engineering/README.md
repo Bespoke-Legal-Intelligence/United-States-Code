@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PARTNERSHIPS IN EDUCATION FOR MATHEMATICS, SCIENCE, AND ENGINEERING
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 8001 of this title.
-
 
 ---
 

@@ -148,7 +148,7 @@ Par. (3). Pub. L. 104–127, §820(a), inserted “ornamental fish,” after “
 
 Par. (9). Pub. L. 104–127, §815(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “the term ‘Joint Council’ means the Joint Council on Food and Agricultural Sciences;”.
 
-Pars. (16) to (18). Pub. L. 104–127, §853(b)(1), inserted “and” at end of par. (16), substituted a period for “; and” at end of par. (17), and struck out par. (18)which read as follows: “the term ‘Technology Board’ means the Agricultural Science and Technology Review Board established in section 3123a of this title.”
+Pars. (16) to (18). Pub. L. 104–127, §853(b)(1), inserted “and” at end of par. (16), substituted a period for “; and” at end of par. (17), and struck out par. (18) which read as follows: “the term ‘Technology Board’ means the Agricultural Science and Technology Review Board established in section 3123a of this title.”
 
 1991—Par. (18). Pub. L. 102–237 inserted “and” after “Science”.
 

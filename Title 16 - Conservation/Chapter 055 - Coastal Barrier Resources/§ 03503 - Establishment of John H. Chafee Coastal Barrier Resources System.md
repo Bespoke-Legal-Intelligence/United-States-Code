@@ -102,7 +102,7 @@ The text of section 4(d) of Pub. L. 101–591, which was transferred and redesig
 
 Subsec. (d). Pub. L. 106–514, §3(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 106–514, §3(b)(1), transferred and redesignated the text of section 4(d) of Pub. L. 101–591 so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before “publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
+Subsec. (e). Pub. L. 106–514, §3(b)(1), transferred and redesignated the text of section 4(d) of Pub. L. 101–591so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before “publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
 
 Subsec. (f). Pub. L. 106–514, §3(c), added subsec. (f).
 
@@ -148,7 +148,7 @@ Provision of data by other agencies.—The head of a Federal agency that possess
 
 &emsp;“(3)
 
-Additional data.—If the Secretary determines that data necessary to carry out the pilot projectunder this section do not exist, the Secretary shall enter into an agreement with the Director of the United States Geological Survey under which the Director shall obtain, in cooperation with other Federal agencies, as appropriate, and provide to the Secretary the data required to carry out this section.
+Additional data.—If the Secretary determines that data necessary to carry out the pilot project under this section do not exist, the Secretary shall enter into an agreement with the Director of the United States Geological Survey under which the Director shall obtain, in cooperation with other Federal agencies, as appropriate, and provide to the Secretary the data required to carry out this section.
 
 &emsp;“(4)
 
@@ -272,7 +272,7 @@ Recommendations of State and Local Governments for Boundary Modifications.—(1)
 
 > may each submit to the Secretary recommendations for minor and technical modifications to the boundaries of existing units of the System located in that local government or State, respectively.
 
-“(2) If, in the case of any minor and technical modification to the boundaries of System units made underthe authority of section 4(e) of the Coastal Barrier Resources Act (16 U.S.C. 3503(e)), an appropriate chief executive officer of a State, county or equivalent jurisdiction, or State coastal zone management agency to which notice was given in accordance with this subsection files comments disagreeing with all or part of the modification and the Secretary makes a modification which is in conflict with such comments, or if the Secretary fails to adopt a modification pursuant to a proposal submitted by an appropriate State coastal zone management agency under paragraph (1) of this subsection, the Secretary shall submit to the chief executive officer a written justification for the failure to make modifications consistent with such comments or proposals.
+“(2) If, in the case of any minor and technical modification to the boundaries of System units made under the authority of section 4(e) of the Coastal Barrier Resources Act (16 U.S.C. 3503(e)), an appropriate chief executive officer of a State, county or equivalent jurisdiction, or State coastal zone management agency to which notice was given in accordance with this subsection files comments disagreeing with all or part of the modification and the Secretary makes a modification which is in conflict with such comments, or if the Secretary fails to adopt a modification pursuant to a proposal submitted by an appropriate State coastal zone management agency under paragraph (1) of this subsection, the Secretary shall submit to the chief executive officer a written justification for the failure to make modifications consistent with such comments or proposals.
 
 “(c)
 
@@ -328,7 +328,7 @@ In general.—Not later than 2 years after the date of the enactment of this Act
 
 &emsp;“(2)
 
-Effective date of modifications.—A modification of the boundaries of a unit of the System under paragraph (1)(A) shall take effect on the date on which the Secretary published notice in the Federal Register under paragraph (1)(C) with respect to that modification.”
+Effective date of modifications.—A modification of the boundaries of a unit of the System under paragraph (1)(A) shall take effect on the dateon which the Secretary published notice in the Federal Register under paragraph (1)(C) with respect to that modification.”
 
 #### Pacific Coastal Barrier Protection Study and Maps
 

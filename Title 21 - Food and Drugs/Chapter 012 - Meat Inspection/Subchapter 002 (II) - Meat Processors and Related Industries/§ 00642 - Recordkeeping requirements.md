@@ -8,7 +8,7 @@ The following classes of persons, firms, and corporations shall keep such record
 
 &emsp;(2) Any persons, firms, or corporations that engage in the business of buying or selling (as meat brokers, wholesalers or otherwise), or transporting in commerce, or storing in or for commerce, or importing, any carcasses, or parts or products of carcasses, of any such animals;
 
-&emsp;(3) Any persons, firms, or corporations that engage in business, in or for commerce, as renderers, or engage in the business of buying, selling, or transporting, in commerce, or importing, any dead, dying, disabled, or diseasedcattle, sheep, swine, goats, horses, mules, or other equines, or parts of the carcasses of any such animals that died otherwise than by slaughter.
+&emsp;(3) Any persons, firms, or corporations that engage in business, in or for commerce, as renderers, or engage in the business of buying, selling, or transporting, in commerce, or importing, any dead, dying, disabled, or diseased cattle, sheep, swine, goats, horses, mules, or other equines, or parts of the carcasses of any such animals that died otherwise than by slaughter.
 
 #### (b) Period of maintenance
 

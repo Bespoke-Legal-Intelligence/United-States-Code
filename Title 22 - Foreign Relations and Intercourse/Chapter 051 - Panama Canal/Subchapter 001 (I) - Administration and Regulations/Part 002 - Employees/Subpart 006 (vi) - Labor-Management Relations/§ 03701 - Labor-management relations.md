@@ -28,7 +28,7 @@ Labor-management and employee relations of the Commission, other Executive agenc
 
 &emsp;(B) If an agreement is not reached within 45 days after the date on which either party requests the assistance of the Federal Mediation and Conciliation Service in writing (or within such shorter period as may be mutually agreed upon by the parties), the parties shall be considered to be at an impasse and the Federal Mediation and Conciliation Service shall immediately notify the Federal Services Impasses Panel of the Federal Labor Relations Authority, which shall decide the impasse.
 
-&emsp;(C) If the Federal Services Impasses Panel fails to issue a decision within 90 days afterthe date on which notice under subparagraph (B) is received by the Panel (or within such shorter period as may be mutually agreed upon by the parties), the efforts of the Panel shall be terminated.
+&emsp;(C) If the Federal Services Impasses Panel fails to issue a decision within 90 days after the date on which notice under subparagraph (B) is received by the Panel (or within such shorter period as may be mutually agreed upon by the parties), the efforts of the Panel shall be terminated.
 
 &emsp;(D) In such a case, the Chairman of the Panel (or another member in the absence of the Chairman) shall immediately determine the matter by a drawing (conducted in such manner as the Chairman (or, in the absence of the Chairman, such other member) determines appropriate) between the last offer of the Commission and the last offer of the exclusive representative, with the offer chosen through such drawing becoming the binding resolution of the matter.
 

@@ -62,7 +62,7 @@ In subsection (a), the words “furnished to” and “for the use thereof” ar
 
 In subsections (a) and (b), the words “United States” are substituted for the word “Government”.
 
-In subsection (b), the introductory clause is substituted for 5:235e (words of 2d proviso before clause (1)), 475j, and 628e. The words “that \* \* \* considers” are substituted for the words “as will in the opinion”. Thewords “an alternative” are substituted for the words “such other”.
+In subsection (b), the introductory clause is substituted for 5:235e (words of 2d proviso before clause (1)), 475j, and 628e. The words “that \* \* \* considers” are substituted for the words “as will in the opinion”. The words “an alternative” are substituted for the words “such other”.
 
 In subsection (c), the words “Proceeds of” are substituted for the words “That all moneys arising from”.
 

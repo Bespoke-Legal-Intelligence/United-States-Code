@@ -4,7 +4,7 @@ There is established within the Commission—
 
 #### (a) Program divisions; appointment and powers of Assistant General Manager and Division Directors
 
-&emsp;a Division of Military Application and such other program divisions (not to exceed ten in number) as the Commission may determine to the necessary to the discharge of its responsibilities, including a division or divisions the primary responsibilities of which include the development and application of civilian uses of atomic energy. The Division of Military Application shall be under the direction of an Assistant General Manager for Military Application, who shall be appointed by the Commission and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate. Each other program division shall be under the direction of a Director who shall be appointed by the Commission. The Commission shall require each such division to exercise such of the Commission's administrative and executive powers as the Commission may determine;
+&emsp;a Division of Military Application and such other program divisions (not to exceed ten innumber) as the Commission may determine to the necessary to the discharge of its responsibilities, including a division or divisions the primary responsibilities of which include the development and application of civilian uses of atomic energy. The Division of Military Application shall be under the direction of an Assistant General Manager for Military Application, who shall be appointed by the Commission and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate. Each other program division shall be under the direction of a Director who shall be appointed by the Commission. The Commission shall require each such division to exercise such of the Commission's administrative and executive powers as the Commission may determine;
 
 #### (b) General Counsel
 
@@ -16,7 +16,7 @@ There is established within the Commission—
 
 #### (d) Executive management positions; appointment; removal
 
-&emsp;such other executive management positions (not to exceed six in number) as the Commission may determine to be necessary to the discharge of its responsibilities. Such positions shall be established by the General Manager with the approval of the Commission. They shall be appointed by the General Managerwith the approval of the Commission, shall serve at the pleasure of the General Manager, and shall be removable by the General Manager.
+&emsp;such other executive management positions (not to exceed six in number) as the Commission may determine to be necessary to the discharge of its responsibilities. Such positions shall be established by the General Manager with the approval of the Commission. They shall be appointed by the General Manager with the approval of the Commission, shall serve at the pleasure of the General Manager, and shall be removable by the General Manager.
 
 (Aug. 1, 1946, ch. 724, title I, §25, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 925; amended Pub. L. 85–287, §3, Sept. 4, 1957, 71 Stat. 612; Pub. L. 88–426, title III, §306(f)(4)–(7), Aug. 14, 1964, 78 Stat. 429, 430; Pub. L. 90–190, §5, Dec. 14, 1967, 81 Stat. 577; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

@@ -1,5 +1,5 @@
 
-46 U.S.C.<br>United States Code, 2000 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
+46 U.S.C.<br>United States Code, 2001 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 46—SHIPPING
 
@@ -18,7 +18,7 @@
 
 1988—Pub. L. 100–710, title I, §102(b), Nov. 23, 1988, 102 Stat. 4738, amended title analysis generally, substituting “GENERAL” for “\[Reserved—general\]” in item I and adding item III.
 
-Table Showing Disposition of All Sections of Former Title 46<br>\[Former sections of Title 46 that are not included in Title 46, Shipping, as enacted by Pub. L. 98–89, subtitle B of title V of Pub. L. 99–509, section 6 of Pub. L. 100–424, and Pub. L. 100–710 are set out in the Appendix to Title 46 and retain the same section numbers.\]
+Table Showing Disposition of All Sections of Former Title 46<br>\[Former sections of Title 46 that are not included in Title 46, Shipping, as enacted by Pub. L. 98–89, subtitle B of title V of Pub. L. 99–509, section 6 of Pub. L. 100–424, and Pub. L. 100–710 and that have not been repealed are set out in the Appendix to Title 46 and retain the same section numbers.\]
 
 <i>Title 46</i>
 
@@ -3096,7 +3096,7 @@ Section 4(b) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, repealed specified
 
 #### Title Referred to in Other Sections
 
-This title is referred to in section 1273a of Appendix to this title; title 7 section 5602; title 19 section 1609; title 26 section 415; title 33 section 59aa; title 42 section 9607.
+This title is referred to in section 1273a of Appendix to this title; title 7 section 5602; title 19 section 1609; title 33 section 59aa; title 42 section 9607.
 
 
 ---

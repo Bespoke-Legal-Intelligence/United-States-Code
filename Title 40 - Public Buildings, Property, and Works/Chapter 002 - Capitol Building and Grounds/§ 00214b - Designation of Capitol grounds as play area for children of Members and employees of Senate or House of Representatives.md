@@ -6,7 +6,7 @@ Notwithstanding any other provision of law and subject to the provisions of para
 
 #### (b) Required approval; fences; termination of authority
 
-(1) In the case of any such designation referred to in subsection (a) of this section involving a day care center established for the benefit of children of Members and employees of the Senate, the designation shall be with the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the designation shall be with the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
+(1) In the case of any such designation referred to in subsection (a) of this section involving aday care center established for the benefit of children of Members and employees of the Senate, the designation shall be with the approval of the Senate Committee on Rules and Administration, and in the case of such a center established for the benefit of children of Members and employees of the House of Representatives, the designation shall be with the approval of the House Committee on House Oversight, with the concurrence of the House Office Building Commission.
 
 (2) The Architect of the Capitol shall enclose with a fence any area designated pursuant to subsection (a) of this section as a play area.
 
@@ -26,7 +26,7 @@ The day care center referred to in S. Res. 269, Ninety-eighth Congress, first se
 
 This Act, referred to in subsec. (c), is Pub. L. 98–392, Aug. 21, 1984, 98 Stat. 1362, which enacted this section and amended section 2107 of Title 20, Education. For complete classification of this Act to the Code, see Tables.
 
-S. Res. 269, Ninety-eighth Congress, first session, referred to in subsec. (d), is dated Nov. 14, 1983, and readsas follows: “<i>Resolved</i>, That payment is authorized from the contingent fund of the Senate in an amount not to exceed $20,000 for the start-up costs, including the procurement of the services of individual consultants or organizations, for a Senate day care center, which shall be ready for occupancy by January 1, 1984.
+S. Res. 269, Ninety-eighth Congress, first session, referred to in subsec. (d), is dated Nov. 14, 1983, and reads as follows: “<i>Resolved</i>, That payment is authorized from the contingent fund of the Senate in an amount not to exceed $20,000 for the start-up costs, including the procurement of the services of individual consultants or organizations, for a Senate day care center, which shall be ready for occupancy by January 1, 1984.
 
 “
 

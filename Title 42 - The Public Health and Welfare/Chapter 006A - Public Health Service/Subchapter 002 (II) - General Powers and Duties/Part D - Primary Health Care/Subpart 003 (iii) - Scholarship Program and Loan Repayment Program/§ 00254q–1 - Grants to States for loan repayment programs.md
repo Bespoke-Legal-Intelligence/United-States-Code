@@ -32,7 +32,7 @@
 
 #### (2) Remedies for breach of contracts
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of suchsubsection will provide remedies for any breach of the contracts by the health professionals involved.
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will provide remedies for any breach of the contracts by the health professionals involved.
 
 #### (3) Limitation regarding contract inducements
 

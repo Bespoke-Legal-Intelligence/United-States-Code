@@ -78,7 +78,7 @@ For purposes of this subchapter:
 
 &emsp;(I) a 10 percent or more (directly or indirectly in capital or profits) partner or joint venturer of a person described in subparagraph (B), (C), (D), (E), or (G).
 
-> The Secretary, after consultation and coordination with the Secretary of the Treasury, may byregulation prescribe a percentage lower than 50 percent for subparagraph (E) and (G) and lower than 10 percent for subparagraph (H) or (I). The Secretary may prescribe regulations for determining the ownership (direct or indirect) of profits and beneficial interests, and the manner in which indirect stockholdings are taken into account. Any person who is a party in interest with respect to a plan to which a trust described in section 501(c)(22) of title 26 is permitted to make payments under section 1403 of this title shall be treated as a party in interest with respect to such trust.
+> The Secretary, after consultation and coordination with the Secretary of the Treasury, may by regulation prescribe a percentage lower than 50 percent for subparagraph (E) and (G) and lower than 10 percent for subparagraph (H) or (I). The Secretary may prescribe regulations for determining the ownership (direct or indirect) of profits and beneficial interests, and the manner in which indirect stockholdings are taken into account. Any person who is a party in interest with respect to a plan to which a trust described in section 501(c)(22) of title 26 is permitted to make payments under section 1403 of this title shall be treated as a party in interest with respect to such trust.
 
 (15) The term “relative” means a spouse, ancestor, lineal descendant, or spouse of a lineal descendant.
 
@@ -114,7 +114,7 @@ For purposes of this subchapter:
 
 (23) The term “accrued benefit” means—
 
-&emsp;(A) in the case of a defined benefit plan, the individual's accrued benefit determined under the plan and, except as provided in section 1054(c)(3) of this title, expressed in the form ofan annual benefit commencing at normal retirement age, or
+&emsp;(A) in the case of a defined benefit plan, the individual's accrued benefit determined under the plan and, except as provided in section 1054(c)(3) of this title, expressed in the form of an annual benefit commencing at normal retirement age, or
 
 &emsp;(B) in the case of a plan which is an individual account plan, the balance of the individual's account.
 
@@ -132,7 +132,7 @@ For purposes of this subchapter:
 
 (25) The term “vested liabilities” means the present value of the immediate or deferred benefits available at normal retirement age for participants and their beneficiaries which are nonforfeitable.
 
-(26) The term “current value” means fair market value where available and otherwise the fair value as determined in good faith by a trustee or a named fiduciary (as defined in section 1102(a)(2) of this title) pursuant to the terms of the plan and in accordance with regulations of the Secretary, assuming an orderly liquidation at the time of such determination.
+(26) The term “current value” means fair market value where available and otherwise the fairvalue as determined in good faith by a trustee or a named fiduciary (as defined in section 1102(a)(2) of this title) pursuant to the terms of the plan and in accordance with regulations of the Secretary, assuming an orderly liquidation at the time of such determination.
 
 (27) The term “present value”, with respect to a liability, means the value adjusted to reflect anticipated events. Such adjustments shall conform to such regulations as the Secretary of the Treasury may prescribe.
 
@@ -166,7 +166,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(III) an individual described in clause (v).
 
-&emsp;(iii) A church or a convention or association of churches which is exempt from tax undersection 501 of title 26 shall be deemed the employer of any individual included as an employee under clause (ii).
+&emsp;(iii) A church or a convention or association of churches which is exempt from tax under section 501 of title 26 shall be deemed the employer of any individual included as an employee under clause (ii).
 
 &emsp;(iv) An organization, whether a civil law corporation or otherwise, is associated with a church or a convention or association of churches if it shares common religious bonds and convictions with that church or convention or association of churches.
 
@@ -174,7 +174,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(I) retains the employee's accrued benefit or account for the payment of benefits to the employee or his beneficiaries pursuant to the terms of the plan; or
 
-&emsp;&emsp;(II) receives contributions on the employee's behalf after the employee's separation from such service, but only for a period of 5 years after such separation, unless the employee is disabled (within the meaning of the disability provisions of the church plan or, if there are no such provisions in the church plan, within the meaning of section 72(m)(7) of title 26) at the time of such separation from service.
+&emsp;&emsp;(II) receives contributions on the employee's behalf after the employee's separationfrom such service, but only for a period of 5 years after such separation, unless the employee is disabled (within the meaning of the disability provisions of the church plan or, if there are no such provisions in the church plan, within the meaning of section 72(m)(7) of title 26) at the time of such separation from service.
 
 (D)(i) If a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of title 26 fails to meet one or more of the requirements of this paragraph and corrects its failure to meet such requirements within the correction period, the plan shall be deemed to meet the requirements of this paragraph for the year in which the correction was made and for all prior years.
 
@@ -214,7 +214,7 @@ For purposes of this subchapter:
 
 (D) For purposes of this subchapter, notwithstanding the preceding provisions of this paragraph, for any plan year which began before September 26, 1980, the term “multiemployer plan” means a plan described in this paragraph (37) as in effect immediately before such date.
 
-(E) Within one year after September 26, 1980, a multiemployer plan may irrevocably elect, pursuant to procedures established by the corporation and subject to the provisions of sections 1453(b) and (c) of this title, that the plan shallnot be treated as a multiemployer plan for all purposes under this chapter or the Internal Revenue Code of 1954 if for each of the last 3 plan years ending prior to the effective date of the Multiemployer Pension Plan Amendments Act of 1980—
+(E) Within one year after September 26, 1980, a multiemployer plan may irrevocably elect, pursuant to procedures established by the corporation and subject to the provisions of sections 1453(b) and (c) of this title, that the plan shall not be treated as a multiemployer plan for all purposes under this chapter or the Internal Revenue Code of 1954 if for each of the last 3 plan years ending prior to the effective date of the Multiemployer Pension Plan Amendments Act of 1980—
 
 &emsp;(i) the plan was not a multiemployer plan because the plan was not a plan described in subparagraph (A)(iii) of this paragraph and section 414(f)(1)(C) of title 26 (as such provisions were in effect on the day before September 26, 1980); and
 
@@ -274,7 +274,7 @@ Single-employer plan.—The term “single-employer plan” means an employee be
 
 (41) <sup>3</sup> The term “single-employer plan” means a plan which is not a multiemployer plan.
 
-(Pub. L. 93–406, title I, §3, Sept. 2, 1974, 88 Stat. 833; Pub. L. 96–364, title III, §§302, 305, title IV, §§407(a), 409, Sept. 26, 1980, 94 Stat. 1291, 1294, 1303, 1307; Pub. L. 97–473, title III, §302(a), Jan.14, 1983, 96 Stat. 2612; Pub. L. 99–272, title XI, §11016(c)(1), Apr. 7, 1986, 100 Stat. 273; Pub. L. 99–509, title IX, §9203(b)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XVIII, §1879(u)(3), Oct. 22, 1986, 100 Stat. 2913; Pub. L. 100–202, §136(a), Dec. 22, 1987, 101 Stat. 1329–441; Pub. L. 101–239, title VII, §§7871(b)(2), 7881(m)(2)(D), 7891(a)(1), 7893(a), 7894(a)(1)(A), (2)(A), (3), (4), Dec. 19, 1989, 103 Stat. 2435, 2444, 2445, 2447, 2448; Pub. L. 101–508, title XII, §12002(b)(2)(C), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 102–89, §2, Aug. 14, 1991, 105 Stat. 446; Pub. L. 104–290, title III, §308(b)(1), Oct. 11, 1996, 110 Stat. 3440; Pub. L. 105–72, §1(a), Nov. 10, 1997, 111 Stat. 1457.)
+(Pub. L. 93–406, title I, §3, Sept. 2, 1974, 88 Stat. 833; Pub. L. 96–364, title III, §§302, 305, title IV, §§407(a), 409, Sept. 26, 1980, 94 Stat. 1291, 1294, 1303, 1307; Pub. L. 97–473, title III, §302(a), Jan. 14, 1983, 96 Stat. 2612; Pub. L. 99–272, title XI, §11016(c)(1), Apr. 7, 1986, 100 Stat. 273; Pub. L. 99–509, title IX, §9203(b)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XVIII, §1879(u)(3), Oct. 22, 1986, 100 Stat. 2913; Pub. L. 100–202, §136(a), Dec. 22, 1987, 101 Stat. 1329–441; Pub. L. 101–239, title VII, §§7871(b)(2), 7881(m)(2)(D), 7891(a)(1), 7893(a), 7894(a)(1)(A), (2)(A), (3), (4), Dec. 19, 1989, 103 Stat. 2435, 2444, 2445, 2447, 2448; Pub. L. 101–508, title XII, §12002(b)(2)(C), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 102–89, §2, Aug. 14, 1991, 105 Stat. 446; Pub. L. 104–290, title III, §308(b)(1), Oct. 11, 1996, 110 Stat. 3440; Pub. L. 105–72, §1(a), Nov. 10, 1997, 111 Stat. 1457.)
 
 #### References in Text
 
@@ -416,7 +416,7 @@ Amendment of par. (33) by Pub. L. 96–364 effective Jan. 1, 1974, see section 4
 
 #### Regulations
 
-Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry out amendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
+Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity Commission each to issue before Feb. 1, 1988, final regulations to carry outamendments made by Pub. L. 99–509, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendment note under section 623 of this title.
 
 #### Availability of Documents Via Filing Depository
 
@@ -430,7 +430,7 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 623, 1003, 1023, 1053, 1055, 1056, 1081, 1082, 1143a, 1144, 1144a, 1301, 1321, 1342, 1453, 2104, 2611 of this title; title 5 sections 8438, 8477; title 12 section 1821; title 15 sections 77b, 78c, 662; title 18 section 1954; title 26 sections 412, 414, 3121, 3306, 4980B, 4980D, 9702, 9712, 9803; title 38 sections 4303, 4317, 4318; title 42 sections 300bb–8, 300gg–91, 409, 1306, 1320d, 3058k.
+This section is referred to in sections 623, 1003, 1023, 1053, 1055, 1056, 1081, 1082, 1143a, 1144, 1144a, 1301, 1321, 1342, 1453, 2104, 2611 of this title; title 5 sections 8438, 8477; title 12 section 1821; title 15 sections 77b, 78c, 662; title 18 section 1954; title 26 sections 412, 414, 3121, 3306, 4980B, 4980D, 9702, 9712, 9803; title 38 sections 4303, 4317, 4318; title 42 sections 300bb–8, 300gg–91, 409, 1306, 1320d, 3020e–1.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

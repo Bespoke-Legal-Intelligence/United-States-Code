@@ -24,7 +24,7 @@ As used in this chapter, the term “cost” shall be construed to include direc
 
 The amount of any earned net income resulting from the operation of the fund at the close of each fiscal year shall be paid into the general fund of the Treasury: <i>Provided</i>, That such earned net income may be applied to restore any prior impairment of the fund, and to ensure the availability of working capital necessary to replace equipment and inventories.
 
-(Mar. 3, 1901, ch. 872, §12, as added Aug. 3, 1956, ch. 906, §2, 70 Stat. 959; amended Pub. L. 95–322, §2(a), July 21, 1978, 92 Stat. 395; Pub. L. 99–73,§5(a), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433.)
+(Mar. 3, 1901, ch. 872, §12, as added Aug. 3, 1956, ch. 906, §2, 70 Stat. 959; amended Pub. L. 95–322, §2(a), July 21, 1978, 92 Stat. 395; Pub. L. 99–73, §5(a), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433.)
 
 #### References in Text
 

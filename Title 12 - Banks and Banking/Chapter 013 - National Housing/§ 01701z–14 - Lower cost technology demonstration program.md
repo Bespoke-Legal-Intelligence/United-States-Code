@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development is authorized to develop and impl
 
 #### Codification
 
-Section was enacted as part of the Housing and Community Development Amendments of 1981 and also as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the National Housing Act which comprises this chapter.
+Section was enacted as part of the Housing and Community Development Amendments of 1981 and also aspart of the Omnibus Budget Reconciliation Act of 1981, and not as part of the National Housing Act which comprises this chapter.
 
 #### Effective Date
 

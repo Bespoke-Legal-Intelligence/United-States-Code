@@ -1,6 +1,6 @@
 ### §1353. Acceptance of travel and related expenses from non-Federal sources
 
-(a) Notwithstanding any other provision of law, the Administrator of General Services, in consultation with the Director of the Office of Government Ethics, shall prescribe by regulation the conditions under which an agency in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency's behalf, from non-Federal sources for travel, subsistence, and related expenses with respect to attendance of the employee (or the spouse of such employee) at any meeting or similar function relating to the official duties of the employee. Any cash payment so accepted shall be credited to the appropriation applicable to such expenses. In the case of a payment in kind so accepted, a pro rata reduction shall be made in any entitlement of the employee to payment from the Government for such expenses.
+(a) Notwithstanding any other provision of law, the Administrator of General Services, in consultation with the Director of the Office of Government Ethics, shall prescribe by regulation the conditions under which an agency in the executive branch (including an independent agency) may accept payment, or authorize an employee of such agency to accept payment on the agency's behalf, from non-Federal sources for travel, subsistence, and related expenses with respect to attendance of the employee (or the spouse of such employee) at any meeting or similar function relating to the official duties of the employee. Any cash payment so accepted shall be credited to the appropriation applicableto such expenses. In the case of a payment in kind so accepted, a pro rata reduction shall be made in any entitlement of the employee to payment from the Government for such expenses.
 
 (b) Except as provided in this section or section 4111 or 7342 of title 5, an agency or employee may not accept payment for expenses referred to in subsection (a). An employee who accepts any payment in violation of the preceding sentence—
 
@@ -20,7 +20,7 @@
 
 &emsp;(3) the term “payment” means a payment or reimbursement, in cash or in kind.
 
-(d)(1) The head of each agency of the executive branch shall, in the manner provided in paragraph (2), submit to the Director of the Office of Government Ethics reports of payments of more than $250 accepted under this section with respect to employees of the agency. The Directorshall make such reports available for public inspection and copying.
+(d)(1) The head of each agency of the executive branch shall, in the manner provided in paragraph (2), submit to the Director of the Office of Government Ethics reports of payments of more than $250 accepted under this section with respect to employees of the agency. The Director shall make such reports available for public inspection and copying.
 
 (2) The reports required by paragraph (1) shall, with respect to each payment—
 

@@ -86,7 +86,7 @@ The Secretary of Health and Human Services (in this section referred to as the â
 
 #### (2) Coverage
 
-&emsp;The report shall include analysis of families and individuals receiving assistance undermeans-tested benefit programs, including the program of aid to families with dependent children under part A of subchapter IV of this chapter, the food stamp program under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), and the Supplemental Security Income program under subchapter XVI of this chapter, or as general assistance under programs administered by State and local governments.
+&emsp;The report shall include analysis of families and individuals receiving assistance under means-tested benefit programs, including the program of aid to families with dependent children under part A of subchapter IV of this chapter, the food stamp program under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), and the Supplemental Security Income program under subchapter XVI of this chapter, or as general assistance under programs administered by State and local governments.
 
 #### (3) Contents
 

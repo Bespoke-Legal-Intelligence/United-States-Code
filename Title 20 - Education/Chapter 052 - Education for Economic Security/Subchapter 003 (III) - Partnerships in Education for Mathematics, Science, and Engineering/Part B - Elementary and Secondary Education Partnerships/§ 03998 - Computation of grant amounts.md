@@ -26,7 +26,7 @@ Except as provided in subsection (c) of this section, each State shall receive u
 
 #### (c) Reduction for insufficient funding
 
-If sums appropriated to carry out this part are not sufficient to permit the Secretary to pay in full the grants which States may receive under subsection (b) of this section, the amount of such grants shall be ratably reduced.
+If sums appropriated to carry out this part are not sufficient to permit the Secretary to pay infull the grants which States may receive under subsection (b) of this section, the amount of such grants shall be ratably reduced.
 
 (Pub. L. 98–377, title III, §328, as added Pub. L. 100–418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1482.)
 

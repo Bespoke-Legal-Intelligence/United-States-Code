@@ -6,7 +6,7 @@ The Secretary of the Interior shall prepare a roll of all persons who meet the f
 
 #### (b) Applications; finality of determination
 
-Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs, Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose by the Secretary of the Interior. The determination of the Secretary regarding the eligibility of an applicant shall be final.
+Applications for enrollment must be filed with the area director of the Bureau of Indian Affairs,Muskogee, Oklahoma, in the manner and within the time limits prescribed for that purpose by the Secretary of the Interior. The determination of the Secretary regarding the eligibility of an applicant shall be final.
 
 (Pub. L. 91–364, §1, July 31, 1970, 84 Stat. 688.)
 

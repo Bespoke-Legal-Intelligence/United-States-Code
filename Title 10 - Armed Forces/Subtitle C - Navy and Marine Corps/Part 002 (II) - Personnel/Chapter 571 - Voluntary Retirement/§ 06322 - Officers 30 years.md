@@ -32,7 +32,7 @@ June 4, 1920, ch. 228, §3 (3d proviso, less applicability to enlisted men), 41 
 
 Aug. 7, 1947, ch. 512, §314(a) (1st sentence), 61 Stat. 863; May 5, 1954, ch. 180, §205, 68 Stat. 68.
 
-In subsection (a) the words “Regular” and “holding a permanent appointment in the grade of warrant officer,W–1, or above” are inserted for clarity. The words “after completing 30 or more years of active service” are substituted for the words “has been thirty years in the service” for clarity. The words “retired from active service” are omitted as surplusage.
+In subsection (a) the words “Regular” and “holding a permanent appointment in the grade of warrant officer, W–1, or above” are inserted for clarity. The words “after completing 30 or more years of active service” are substituted for the words “has been thirty years in the service” for clarity. The words “retired from active service” are omitted as surplusage.
 
 Subsection (b) is added to clarify the word “service”. It has been consistently interpreted to include active service in the armed forces as defined in this title.
 

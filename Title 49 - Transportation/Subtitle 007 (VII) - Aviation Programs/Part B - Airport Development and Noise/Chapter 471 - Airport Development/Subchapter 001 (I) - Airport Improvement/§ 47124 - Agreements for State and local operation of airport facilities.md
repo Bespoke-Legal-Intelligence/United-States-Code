@@ -24,7 +24,7 @@ Program components.—In carrying out the pilot program, the Secretary shall—
 
 &emsp;&emsp;(i) utilize for purposes of cost-benefit analyses, current, actual, site-specific data, forecast estimates, or airport master plan data provided by a facility owner or operator and verified by the Secretary; and
 
-&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-costratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
+&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-cost ratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
 
 &emsp;(C)
 
@@ -50,7 +50,7 @@ Costs exceeding benefits.—If the costs of operating an air traffic tower under
 
 &emsp;(E)
 
-Funding.—Subject to paragraph (4)(D), of the amounts appropriated pursuant to section 106(k), not more than $6,000,000 per fiscal year may be used to carry out this paragraph.
+Funding.—Subject to paragraph (4)(D), of the amounts appropriated pursuant to section106(k), not more than $6,000,000 per fiscal year may be used to carry out this paragraph.
 
 (4)
 

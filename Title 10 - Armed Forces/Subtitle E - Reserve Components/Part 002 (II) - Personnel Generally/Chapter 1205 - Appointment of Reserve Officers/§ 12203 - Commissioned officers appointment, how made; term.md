@@ -88,5 +88,5 @@ Section 41 of act Aug. 10, 1956, provided that: “Each person who was a reserve
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14308 of this title; title 14 section 271.
+This section is referred to in section 14308 of this title; title 14 section 271; title 37 section 205.
 

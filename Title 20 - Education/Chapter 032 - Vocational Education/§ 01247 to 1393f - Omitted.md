@@ -22,7 +22,7 @@ Section 1283, Pub. L. 88–210, title I, §133, as added Pub. L. 90–576, title
 
 Section 1284, Pub. L. 88–210, title I, §134, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1080, authorized payments for amounts expended by applicants for grants and contracts for research and training in vocational education.
 
-Section 1301, Pub. L. 88–210, title I, §141, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1080, set forth Congressional findings and declaration of purpose of exemplary programs and projects in vocational education.
+Section 1301, Pub. L. 88–210, title I, §141, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1080,set forth Congressional findings and declaration of purpose of exemplary programs and projects in vocational education.
 
 Section 1302, Pub. L. 88–210, title I, §142, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1080; amended Pub. L. 92–318, title II, §203, June 23, 1972, 86 Stat. 325; Pub. L. 94–482, title II, §201(g), Oct. 12, 1976, 90 Stat. 2168, set forth funding provisions for exemplary programs and projects in vocational education.
 

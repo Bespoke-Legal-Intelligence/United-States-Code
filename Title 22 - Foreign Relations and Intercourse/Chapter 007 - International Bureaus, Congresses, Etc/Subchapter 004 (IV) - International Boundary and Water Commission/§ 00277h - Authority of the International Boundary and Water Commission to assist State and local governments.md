@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Commissioner of the United States section of the International Boundary and Water Commission may provide technical tests, evaluations, information, surveys, or others <sup>1</sup> similar services to State or local governments upon the request of such State or local government on a reimbursable basis.
+The Commissioner of the United States section of the International Boundary and Water Commission may provide technical tests, evaluations, information, surveys, or others <sup>1</sup> similar services to State or local governments upon therequest of such State or local government on a reimbursable basis.
 
 #### (b) Reimbursements
 

@@ -34,7 +34,7 @@ Study.—
 
 &emsp;“(1)
 
-In general.—The Secretary, in coordination with the Secretary of the Interior, shall undertake a comprehensive study of alternative transportation needs in national parks and related public lands managed by Federal land management agencies \[to\] assist in carrying out the purposes described in subsection (a). The study shall be submitted to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not later than January 1, 2000.
+In general.—The Secretary, in coordination with the Secretary of the Interior, shall undertake a comprehensive study of alternative transportationneeds in national parks and related public lands managed by Federal land management agencies \[to\] assist in carrying out the purposes described in subsection (a). The study shall be submitted to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not later than January 1, 2000.
 
 &emsp;“(2)
 

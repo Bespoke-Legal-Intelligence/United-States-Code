@@ -52,7 +52,7 @@ Section was enacted as part of the Family Support Act of 1988, and not as part o
 
 1996—Pub. L. 104–193, §112(1), struck out “Demonstration” before “projects” in section catchline.
 
-Subsec. (a). Pub. L. 104–193, §112(2), (3), substituted “shall enter into agreements with” for “in each of thefiscal years 1990, 1991, and 1992, shall enter into agreements with not less than 5 nor more than 10” and “conducting projects” for “conducting demonstration projects”.
+Subsec. (a). Pub. L. 104–193, §112(2), (3), substituted “shall enter into agreements with” for “in each of the fiscal years 1990, 1991, and 1992, shall enter into agreements with not less than 5 nor more than 10” and “conducting projects” for “conducting demonstration projects”.
 
 Subsec. (b)(1). Pub. L. 104–193, §112(2), struck out “demonstration” after “organization conducting a”.
 

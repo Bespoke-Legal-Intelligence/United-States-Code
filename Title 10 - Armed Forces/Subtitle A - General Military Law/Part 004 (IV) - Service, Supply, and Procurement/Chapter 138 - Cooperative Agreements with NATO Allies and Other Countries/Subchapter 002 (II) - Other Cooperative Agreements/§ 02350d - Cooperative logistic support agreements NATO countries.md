@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—(1) The Secretary of Defense may enter into bilateral or multilateral agreements known as Weapon System Partnership Agreements with one or more governmentsof other member countries of the North Atlantic Treaty Organization (NATO) participating in the operation of the NATO Maintenance and Supply Organization. Any such agreement shall be for the purpose of providing cooperative logistics support for the armed forces of the countries which are parties to the agreement. Any such agreement—
+General Authority.—(1) The Secretary of Defense may enter into bilateral or multilateral agreements known as Weapon System Partnership Agreements with one or more governments of other member countries of the North Atlantic Treaty Organization (NATO) participating in the operation of the NATO Maintenance and Supply Organization. Any such agreement shall be for the purpose of providing cooperative logistics support for the armed forces of the countries which are parties to the agreement. Any such agreement—
 
 &emsp;(A) shall be entered into pursuant to the terms of the charter of the NATO Maintenance and Supply Organization; and
 
@@ -46,7 +46,7 @@ The Arms Export Control Act, referred to in subsec. (e), is Pub. L. 90–629, Oc
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 99–661, div. A, title XI, §1102, Nov. 14, 1986, 100 Stat. 3961, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, §931(d)(2).
+Provisions similar to those in this section were contained in Pub. L. 99–661, div. A, title XI, §1102, Nov. 14,1986, 100 Stat. 3961, which was set out as a note under section 2407 of this title, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
 

@@ -36,7 +36,11 @@ Where the decedent was the donor of the gift but, under the provisions of sectio
 
 No credit shall be allowed under this section with respect to the amount of any tax paid under chapter 12 on any gift made after December 31, 1976.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 375; Pub. L. 91–614, title I, §102(d)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(1), title XX, §2001(a)(3), (c)(1)(B), Oct. 4, 1976, 90 Stat. 1804, 1848, 1850; Pub. L. 97–34, title IV, §403(a)(2)(A), Aug. 13, 1981, 95 Stat. 301.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 375; Pub. L. 91–614, title I, §102(d)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §1902(a)(1), title XX, §2001(a)(3), (c)(1)(B), Oct. 4, 1976, 90 Stat. 1804, 1848, 1850; Pub. L. 97–34, title IV, §403(a)(2)(A), Aug. 13, 1981, 95 Stat. 301; Pub. L. 107–16, title V, §532(c)(1), June 7, 2001, 115 Stat. 73.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 107–16, title V, §532(c)(1), (d), title IX, §901, June 7, 2001, 115 Stat. 73, 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (a) of this section is temporarily amended by striking out “the credit for State death taxes provided by section 2011 and” before “the unified credit”. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -57,6 +61,12 @@ Subsec. (e). Pub. L. 94–455, §2001(a)(3), added subsec. (e).
 Subsec. (d). Pub. L. 91–614, §102(d)(2)(B), substituted “such quarter or year” for “such year” in two places.
 
 Subsec. (d)(1). Pub. L. 91–614, §102(d)(2)(A), substituted “the calendar quarter (or calendar year if the gift was made before January 1, 1971)” for “the year”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

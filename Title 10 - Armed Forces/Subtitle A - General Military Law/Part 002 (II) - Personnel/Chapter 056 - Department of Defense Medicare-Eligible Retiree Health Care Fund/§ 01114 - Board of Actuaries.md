@@ -1,6 +1,6 @@
 ### §1114. Board of Actuaries
 
-(a)(1) There is established in the Department of Defense a Department of Defense Medicare-Eligible Retiree Health Care Board of Actuaries (hereafter in this chapter referred to as the “Board”). The Board shall consist of three members who shall be appointed by the Secretary of Defense from among qualified professional actuaries who are members of the Society of Actuaries.
+(a)(1) There is established in the Department of Defense a Department of Defense Medicare-Eligible Retiree Health Care Board of Actuaries (hereinafter in this chapter referred to as the “Board”). The Board shall consist of three members who shall be appointed by the Secretary of Defense from among qualified professional actuaries who are members of the Society of Actuaries.
 
 (2)(A) Except as provided in subparagraph (B), the members of the Board shall serve for a term of 15 years, except that a member of the Board appointed to fill a vacancy occurring before the end of the term for which his predecessor was appointed shall only serve until the end of such term. A member may serve after the end of his term until his successor has taken office. A member of the Board may be removed by the Secretary of Defense for misconduct or failure to perform functions vested in the Board, and for no other reason.
 
@@ -12,5 +12,9 @@
 
 (c) The Board shall review valuations of the Fund under section 1115(c) of this title and shall report periodically, not less than once every four years, to the President and Congress on the status of the Fund. The Board shall include in such reports recommendations for such changes as in the Board's judgment are necessary to protect the public interest and maintain the Fund on a sound actuarial basis.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–180.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title X, §1048(a)(12), Dec. 28, 2001, 115 Stat. 1223.)
+
+#### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–107 substituted “hereinafter” for “hereafter”.
 

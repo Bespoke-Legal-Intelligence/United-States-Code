@@ -56,7 +56,7 @@
 
 #### (B) Return
 
-&emsp;&emsp;If the student has received more grant or loan assistance than the amount earned as calculated under paragraph (3)(A), the unearned funds shall be returned by the institution or the student, or both, as may be required under paragraphs (1) and (2) of subsection (b) of this section, to the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 in the order specified in subsection (b)(3) of this section.
+&emsp;&emsp;If the student has received more grant or loan assistance than the amount earned ascalculated under paragraph (3)(A), the unearned funds shall be returned by the institution or the student, or both, as may be required under paragraphs (1) and (2) of subsection (b) of this section, to the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 in the order specified in subsection (b)(3) of this section.
 
 #### (b) Return of title IV program funds
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(i) the total institutional charges incurred by the student for the payment period or period of enrollment for which such assistance was awarded; multiplied by
 
-&emsp;&emsp;&emsp;(ii) the percentage of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 oftitle 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i) of this section.
+&emsp;&emsp;&emsp;(ii) the percentage of grant and loan assistance awarded under this subchapter and part C of subchapter I of chapter 34 of title 42 that has not been earned by the student, as described in subsection (a)(3)(C)(i) of this section.
 
 #### (2) Responsibility of the student
 

@@ -22,5 +22,5 @@ For purposes of this section, the term “pipelines” has the meaning given the
 
 #### Codification
 
-In subsec. (d), “section 60101(a)(18) of title 49” substituted for “the Natural Gas Pipeline Safety Act of 1968 \[49 App. U.S.C. 1671 et seq.\] and the Hazardous Liquid Pipeline Safety Act of 1979 \[49 App. U.S.C. 2001 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (d), “section 60101(a)(18) of title 49” substituted for “the Natural Gas Pipeline Safety Act of1968 \[49 App. U.S.C. 1671 et seq.\] and the Hazardous Liquid Pipeline Safety Act of 1979 \[49 App. U.S.C. 2001 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 

@@ -90,7 +90,7 @@
 
 #### (1) In general
 
-&emsp;If any United States person receives (directly or indirectly) during any taxable year of such person any distribution from a foreigntrust, such person shall make a return with respect to such trust for such year which includes—
+&emsp;If any United States person receives (directly or indirectly) during any taxable year of such person any distribution from a foreign trust, such person shall make a return with respect to such trust for such year which includes—
 
 &emsp;&emsp;(A) the name of such trust,
 
@@ -102,7 +102,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If adequate records are not provided to the Secretary to determine the proper treatment of any distribution from a foreign trust, such distribution shall be treated as an accumulation distribution includible in the gross income of the distributee under chapter 1. To the extent provided in regulations, the preceding sentence shall not apply if the foreign trust elects to be subject to rules similar to the rules of subsection (b)(2)(B).
+&emsp;&emsp;If adequate records are not provided to the Secretary to determine the proper treatment of any distribution from a foreign trust, such distribution shall be treated as an accumulation distribution includible in the gross income of the distributee under chapter 1. To the extent provided in regulations, the preceding sentence shall not apply if the foreign trust elects to be subject torules similar to the rules of subsection (b)(2)(B).
 
 #### (B) Application of accumulation distribution rules
 

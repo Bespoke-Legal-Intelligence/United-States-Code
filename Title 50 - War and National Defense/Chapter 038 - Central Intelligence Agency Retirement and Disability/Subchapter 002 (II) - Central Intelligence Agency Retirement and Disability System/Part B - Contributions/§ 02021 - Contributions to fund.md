@@ -28,7 +28,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (A) Use for deposits due under section 2082(b)
 
-&emsp;&emsp;Amounts described in paragraph (1), including interest accrued on such amounts, shall be applied upon the participant's retirement or death toward any deposit due under section 2082(b) of this title.
+&emsp;&emsp;Amounts described in paragraph (1), including interest accrued on such amounts,shall be applied upon the participant's retirement or death toward any deposit due under section 2082(b) of this title.
 
 #### (B) Lump-sum payment
 

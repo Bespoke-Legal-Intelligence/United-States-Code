@@ -84,7 +84,7 @@ If—
 
 &emsp;(3) no later than a reasonable time after the discovery of such failure, steps are taken so that such partnership once more meets such gross income requirements, and
 
-&emsp;(4) such partnership agrees to make such adjustments (including adjustments with respectto the partners) or to pay such amounts as may be required by the Secretary with respect to such period,
+&emsp;(4) such partnership agrees to make such adjustments (including adjustments with respect to the partners) or to pay such amounts as may be required by the Secretary with respect to such period,
 
 > then, notwithstanding such failure, such entity shall be treated as continuing to meet such gross income requirements for such period.
 
@@ -108,7 +108,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 &emsp;&emsp;(A) such partnership is an existing partnership (as defined in section 10211(c)(2) of the Revenue Reconciliation Act of 1987),
 
-&emsp;&emsp;(B) subsection (a) has not applied (and without regard to subsection (c)(1) would not have applied) to such partnership for all prior taxable years beginning after December 31, 1987, and before January 1, 1998, and
+&emsp;&emsp;(B) subsection (a) has not applied (and without regard to subsection (c)(1) would not have applied) to such partnership for allprior taxable years beginning after December 31, 1987, and before January 1, 1998, and
 
 &emsp;&emsp;(C) such partnership elects the application of this subsection, and consents to the application of the tax imposed by paragraph (3), for its first taxable year beginning after December 31, 1997.
 

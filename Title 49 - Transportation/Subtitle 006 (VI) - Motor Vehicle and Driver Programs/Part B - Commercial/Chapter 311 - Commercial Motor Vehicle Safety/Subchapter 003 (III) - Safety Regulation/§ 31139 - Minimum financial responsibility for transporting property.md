@@ -18,7 +18,7 @@ Definitions.—In this section—
 
 (b)
 
-General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property for compensation by motor vehicle in the United States between a place in a State and—
+General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient tosatisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property for compensation by motor vehicle in the United States between a place in a State and—
 
 &emsp;(A) a place in another State;
 
@@ -96,7 +96,7 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
 
-(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Treasury as miscellaneous receipts.
+(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this sectionshall be deposited in the Treasury as miscellaneous receipts.
 
 (g)
 

@@ -122,13 +122,13 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 &emsp;(C) evaluate the effectiveness of hazard mitigation and emergency response technology for fixed site and transportation related accidental releases of toxic chemicals.
 
-> Models pertaining to accidental release shall be evaluated and improved periodically for theirutility in planning and implementing evacuation procedures and other mitigative strategies designed to minimize human exposure to hazardous air pollutants released accidentally.
+> Models pertaining to accidental release shall be evaluated and improved periodically for their utility in planning and implementing evacuation procedures and other mitigative strategies designed to minimize human exposure to hazardous air pollutants released accidentally.
 
 (3) The Secretary of Energy shall make available to interested persons (including other Federal agencies and businesses) the use of the Liquefied Gaseous Fuels Spill Test Facility to conduct research and other activities in connection with the activities described in this subsection.
 
 #### (g) Pollution prevention and emissions control
 
-In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
+In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interestgroups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
 &emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
@@ -170,13 +170,13 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 (3) The responsibilities of the Task Force shall include the following:
 
-&emsp;(A) Review of the status of research activities conducted to date under the comprehensive research plan developed pursuant to the Acid Precipitation Act of 1980 \[42 U.S.C. 8901 et seq.\], and development of a revised plan that identifies significant research gaps and establishes a coordinated program to address current and future research priorities. A draft of the revised plan shall be submitted by theTask Force to Congress within 6 months after November 15, 1990. The plan shall be available for public comment during the 60 day period after its submission, and a final plan shall be submitted by the President to the Congress within 45 days after the close of the comment period.
+&emsp;(A) Review of the status of research activities conducted to date under the comprehensive research plan developed pursuant to the Acid Precipitation Act of 1980 \[42 U.S.C. 8901 et seq.\], and development of a revised plan that identifies significant research gaps and establishes a coordinated program to address current and future research priorities. A draft of the revised plan shall be submitted by the Task Force to Congress within 6 months after November 15, 1990. The plan shall be available for public comment during the 60 day period after its submission, and a final plan shall be submitted by the President to the Congress within 45 days after the close of the comment period.
 
 &emsp;(B) Coordination with participating Federal agencies, augmenting the agencies’ research and monitoring efforts and sponsoring additional research in the scientific community as necessary to ensure the availability and quality of data and methodologies needed to evaluate the status and effectiveness of the acid deposition control program. Such research and monitoring efforts shall include, but not be limited to—
 
 &emsp;&emsp;(i) continuous monitoring of emissions of precursors of acid deposition;
 
-&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere, and models that describe the response of ecosystems to acid deposition; and
+&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere,and models that describe the response of ecosystems to acid deposition; and
 
 &emsp;&emsp;(iii) analysis of the costs, benefits, and effectiveness of the acid deposition control program.
 
@@ -222,7 +222,7 @@ Section was formerly classified to section 1857b of this title.
 
 #### Prior Provisions
 
-Provisions similar to those in subsec. (a)(3) of this section were contained in subsec. (a) of a prior section 1857b of this title, act July 14, 1955, ch. 360, §3, 69 Stat. 322, as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat.760, prior to the general amendment of this chapter by Pub. L. 88–206.
+Provisions similar to those in subsec. (a)(3) of this section were contained in subsec. (a) of a prior section 1857b of this title, act July 14, 1955, ch. 360, §3, 69 Stat. 322, as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760, prior to the general amendment of this chapter by Pub. L. 88–206.
 
 Provisions similar to those in this section were contained in prior sections 1857a to 1857d of this title, act July 14, 1955, ch. 360, §§2 to 5, 69 Stat. 322 (section 1857b as amended Oct. 9, 1962, Pub. L. 87–761, §2, 76 Stat. 760; section 1857d as amended Sept. 22, 1959, Pub. L. 86–365, §1, 73 Stat. 646 and Oct. 9, 1962, Pub. L. 87–761, §1, 76 Stat. 760), prior to the general amendment of this chapter by Pub. L. 88–206.
 
@@ -304,7 +304,7 @@ Pub. L. 106–246, div. B, title II, §2603, July 13, 2000, 114 Stat. 558, provi
 
 “(f) The Administrator shall carry out this section in collaboration with the Secretary of Transportation.
 
-“(g) There is appropriated to the Department of Transportation, ‘Office of the Assistant Secretary for Policy’, $2,000,000 to carry out this section. Such amounts shall be transferred to and administered by the Environmental Protection Agency and shall remain available until expended: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 901(b)(2)(A)\]: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request for a specific dollar amount, that includes designation of the entire amount of the request as an emergency requirement as defined by such Act, is transmitted by the President to the Congress.”
+“(g) There is appropriated to the Department of Transportation, ‘Office of the Assistant Secretary forPolicy’, $2,000,000 to carry out this section. Such amounts shall be transferred to and administered by the Environmental Protection Agency and shall remain available until expended: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 901(b)(2)(A)\]: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request for a specific dollar amount, that includes designation of the entire amount of the request as an emergency requirement as defined by such Act, is transmitted by the President to the Congress.”
 
 #### National Acid Lakes Registry
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Natchez National Historical Park Advisory Commission (hereinafter in this subchapter referred to as the “Advisory Commission”). The Advisory Commission shall be composed of six members appointed by the Secretary. Two of such members shall be appointed from among individuals nominated by the mayor of Natchez and one from among individuals nominated by the Governor of Mississippi. Two of the members shall have expertise in historic preservation and one shall have expertise in architectural history. Any member of the Advisory Commission appointed for a definite term may serve after the expiration of his term until his successor is appointed. The Advisory Commission shall designate one of its members as Chairperson.
+There is hereby established the Natchez National Historical Park Advisory Commission (hereinafter in this subchapter referred to as the “Advisory Commission”). The Advisory Commission shall be composed of six members appointed by the Secretary. Two of such members shall be appointed from among individuals nominated by the mayor of Natchez and one from among individuals nominated by the Governor of Mississippi. Two of the members shall have expertise in historic preservation and one shall have expertise in architectural history. Any member of the Advisory Commission appointed for a definite term may serve after the expiration of his term until his successor is appointed.The Advisory Commission shall designate one of its members as Chairperson.
 
 #### (b) Management and development issues
 
@@ -28,5 +28,5 @@ Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (e),
 
 #### Termination of Advisory Commissions
 
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case ofa commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

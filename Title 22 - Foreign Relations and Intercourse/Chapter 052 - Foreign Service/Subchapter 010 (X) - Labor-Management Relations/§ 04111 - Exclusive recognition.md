@@ -36,7 +36,7 @@ A labor organization which—
 
 &emsp;(B) not to be represented by a labor organization.
 
-(2) In any election in which more than two choices are on the ballot, the regulations of theBoard shall provide for preferential voting. If no choice receives a majority of first preferences, the Board shall distribute to the two choices having the most first preferences the preferences as between those two of the other valid ballots cast. The choice receiving a majority of preferences shall be declared the winner. A labor organization which is declared the winner of the election shall be certified by the Board as the exclusive representative.
+(2) In any election in which more than two choices are on the ballot, the regulations of the Board shall provide for preferential voting. If no choice receives a majority of first preferences, the Board shall distribute to the two choices having the most first preferences the preferences as between those two of the other valid ballots cast. The choice receiving a majority of preferences shall be declared the winner. A labor organization which is declared the winner of the election shall be certified by the Board as the exclusive representative.
 
 #### (e) Submission of required material
 

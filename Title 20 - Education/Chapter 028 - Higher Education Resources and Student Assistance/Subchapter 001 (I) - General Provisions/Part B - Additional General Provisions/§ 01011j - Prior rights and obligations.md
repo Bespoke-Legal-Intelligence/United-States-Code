@@ -8,7 +8,7 @@
 
 #### (2) Post-1992 and pre-1998 part C of subchapter VII
 
-&emsp;There are authorized to be appropriated such sums as may be necessary for fiscal year 1999and for each of the 4 succeeding fiscal years to pay obligations incurred prior to October 7, 1998, under part C of subchapter VII of this chapter, as such part was in effect during the period—
+&emsp;There are authorized to be appropriated such sums as may be necessary for fiscal year 1999 and for each of the 4 succeeding fiscal years to pay obligations incurred prior to October 7, 1998, under part C of subchapter VII of this chapter, as such part was in effect during the period—
 
 &emsp;&emsp;(A) after the effective date of the Higher Education Amendments of 1992; and
 
@@ -34,7 +34,7 @@
 
 #### References in Text
 
-Parts A, B, C, and D of subchapter VII of this chapter, as such parts were in effect before the effective date of the Higher Education Amendments of 1992, referred to in subsecs. (a)(1) and (b)(1), means parts A (§1132b et seq.), B (§1132c et seq.), C (§1132d et seq.), and D (§1132e et seq.) of subchapter VII of this chapter, as in effect before the effective date of Pub. L. 102–325. For effective date of Pub. L. 102–325, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title. Pub. L. 102–325, title VII, §§703–707(a), July 23, 1992, 106 Stat. 738–753, amended subchapter VII of this chapter effective Oct. 1, 1992, by amending parts A to C generally, repealing part D, and redesignating former part E as D.
+Parts A, B, C, and D of subchapter VII of this chapter, as such parts were in effect before the effective date of the Higher Education Amendments of 1992, referred to in subsecs. (a)(1) and (b)(1), means parts A (§1132b et seq.), B (§1132c et seq.), C (§1132d et seq.), and D (§1132e et seq.) of subchapter VII of this chapter, as in effectbefore the effective date of Pub. L. 102–325. For effective date of Pub. L. 102–325, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title. Pub. L. 102–325, title VII, §§703–707(a), July 23, 1992, 106 Stat. 738–753, amended subchapter VII of this chapter effective Oct. 1, 1992, by amending parts A to C generally, repealing part D, and redesignating former part E as D.
 
 Part C of subchapter VII of this chapter, as such part was in effect during the period after the effective date of the Higher Education Amendments of 1992 and prior to October 7, 1998, referred to in subsecs. (a)(2) and (b)(2), probably means part C (§1132d et seq.) of subchapter VII of this chapter, as in effect during the period after the effective date of Pub. L. 102–325 and before it was amended by Pub. L. 105–244. For effective date of Pub. L. 102–325, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under section 1001 of this title. Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786, amended subchapter VII of this chapter generally, effective Oct. 1, 1998, omitting part C which related to loans for construction, reconstruction, and renovation of academic housing, and other educational facilities and adding a new part C (§1139 et seq.) relating to urban community service.
 

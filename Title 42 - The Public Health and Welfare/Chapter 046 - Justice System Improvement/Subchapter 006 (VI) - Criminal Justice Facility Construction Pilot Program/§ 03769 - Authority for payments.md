@@ -8,7 +8,7 @@ In order to relieve overcrowding and substandard conditions at State and local c
 
 For prior sections 3769 and 3770, see note set out preceding section 3761 of this title.
 
-A prior section 601 of Pub. L. 90–351 was renumbered section 501 and classified to section 3761 of this title. See not set out preceding section 3750 of this title.
+A prior section 601 of Pub. L. 90–351 was renumbered section 501 and classified to section 3761 of this title. See note set out preceding section 3750 of this title.
 
 Another prior section 601 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 209, was classified to section 3781 of this title and defined terms used in this chapter, prior to the general amendment of this chapter by Pub. L. 96–157. See section 3791 of this title.
 

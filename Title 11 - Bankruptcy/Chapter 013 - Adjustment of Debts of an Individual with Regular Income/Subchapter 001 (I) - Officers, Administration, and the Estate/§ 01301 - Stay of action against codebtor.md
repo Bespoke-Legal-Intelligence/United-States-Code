@@ -10,7 +10,7 @@
 
 (c) On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay provided by subsection (a) of this section with respect to a creditor, to the extent that—
 
-&emsp;(1) as between the debtor and the individual protected under subsection (a) of this section,such individual received the consideration for the claim held by such creditor;
+&emsp;(1) as between the debtor and the individual protected under subsection (a) of this section, such individual received the consideration for the claim held by such creditor;
 
 &emsp;(2) the plan filed by the debtor proposes not to pay such claim; or
 

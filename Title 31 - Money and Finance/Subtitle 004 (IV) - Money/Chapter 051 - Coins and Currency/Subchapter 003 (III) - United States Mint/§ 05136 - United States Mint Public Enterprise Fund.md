@@ -6,7 +6,7 @@ There shall be established in the Treasury of the United States, a United States
 
 #### Codification
 
-Section 522 of Pub. L. 104–52, which directed the amendment of subchapter III of chapter 51 of this title by adding at the end thereof a new section, but had the ending quotation marks following the section catchline, was executed by adding this section as set out above, to reflect the probable intent of Congress.
+Section 522 of Pub. L. 104–52, which directed the amendment of subchapter III of chapter 51 of this title by adding at the end thereof a new section, but had theending quotation marks following the section catchline, was executed by adding this section as set out above, to reflect the probable intent of Congress.
 
 #### Section Referred to in Other Sections
 

@@ -40,7 +40,7 @@ For purposes of this subtitle, the term “life insurance company” means an in
 
 #### (4) Amount of reserves
 
-&emsp;For purposes of this subsection, subsection (a), and subsection (c), the amount of any reserve (or portion thereof) for any taxable year shall be the mean of such reserve (or portion thereof) at the beginning and end of the taxable year.
+&emsp;For purposes of this subsection, subsection (a), and subsection (c), the amount of any reserve (or portion thereof) for any taxable yearshall be the mean of such reserve (or portion thereof) at the beginning and end of the taxable year.
 
 #### (c) Total reserves defined
 

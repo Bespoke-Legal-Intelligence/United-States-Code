@@ -1,6 +1,6 @@
 ### §271. Prospecting permits; lands included; acreage
 
-The Secretary of the Interior is hereby authorized and directed, under such rules and regulations as he may prescribe, to grant to any qualified applicant a prospecting permit which shall give the exclusive right to prospect for sulphur in lands belonging to the United States located in the States of Louisiana and New Mexico for a period of not exceeding two years: <i>Provided</i>, That the area to be included in such a permit shall be not exceeding six hundred and forty acres of lands in reasonably compact form.
+The Secretary of the Interior is hereby authorized and directed, under such rules and regulations as he may prescribe, to grant to any qualified applicant a prospecting permit which shall give the exclusive right to prospect for sulphur in lands belonging to the United States located in the States of Louisiana and New Mexico for a period of not exceeding two years: <i>Provided</i>, That the area to be included in such a permit shall be not exceeding six hundred and forty acres of land in reasonably compact form.
 
 (Apr. 17, 1926, ch. 158, §1, 44 Stat. 301; July 16, 1932, ch. 498, 47 Stat. 701.)
 

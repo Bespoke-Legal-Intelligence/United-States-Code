@@ -6,143 +6,25 @@
 
 &emsp;(1) the term “other governmental programs” includes all programs under State or local laws as well as all programs under Federal law other than those authorized by this title; and
 
-&emsp;(2) the term “eligible dependent” means an “eligible person” as defined in section 3501(a)(1) of this title.
+&emsp;(2) the term “eligible dependent” means a spouse, surviving spouse, child, or dependent parent of a person who served in the active military, naval, or air service.
 
-(Added Pub. L. 102–83, §2(b), Aug. 6, 1991, 105 Stat. 400.)
+(Added Pub. L. 102–83, §2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 107–14, §6(a), June 5, 2001, 115 Stat. 30.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 240 of this title prior to repeal by Pub. L. 102–83, §2(a).
 
+#### Amendments
+
+2001—Subsec. (b)(2). Pub. L. 107–14 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘eligible dependent’ means an ‘eligible person’ as defined in section 3501(a)(1) of this title.”
+
 #### Reports on Activities of Department of Veterans Affairs To Assist Homeless Veterans
 
-Pub. L. 103–446, title X, §1001(a), (b), Nov. 2, 1994, 108 Stat. 4678, 4679, as amended by Pub. L. 105–114, title II, §204, Nov. 21, 1997, 111 Stat. 2288, provided that:
-
-“(a)
-
-Annual Report.—(1) Not later than April 15 of each year, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the activities of the Department of Veterans Affairs during the year preceding the report under programs of the Department for the provision of assistance to homeless veterans.
-
-“(2) The report shall—
-
-&emsp;“(A) set forth the number of homeless veterans provided assistance under those programs;
-
-&emsp;“(B) describe the cost to the Department of providing such assistance under those programs;
-
-&emsp;“(C) provide any other information on those programs and on the provision of such assistance that the Secretary considers appropriate; and
-
-&emsp;“(D) evaluate the effectiveness of the programs of the Department (including residential work-therapy programs, programs combining outreach, community-based residential treatment, and case-management, and contract care programs for alcohol and drug-dependence or abuse disabilities) in providing assistance to homeless veterans; and
-
-&emsp;“(E) evaluate the effectiveness of programs established by recipients of grants under section 3 of the Homeless Veterans Comprehensive Service Programs Act of 1992 \[Pub. L. 102–590\] (38 U.S.C. 7721 note), and describe the experience of such recipients in applying for and receiving grants from the Secretary of Housing and Urban Development to serve primarily homeless persons who are veterans.
-
-“\[(b) Repealed. Pub. L. 105–114, title II, §204(2), Nov. 21, 1997, 111 Stat. 2288.\]”
+Pub. L. 103–446, title X, §1001(a), (b), Nov. 2, 1994, 108 Stat. 4678, 4679, as amended by Pub. L. 105–114, title II, §204, Nov. 21, 1997, 111 Stat. 2288; Pub. L. 107–103, title V, §509(e), Dec. 27, 2001, 115 Stat. 997, directed in subsec. (a) that the Secretary of Veterans Affairs submit to Congress an annual report of activities of Department of Veterans Affairs to assist homeless veterans. Subsec. (a) was repealed and restated in section 2065 of this title by Pub. L. 107–95, §5(a)(1), (e)(2), Dec. 21, 2001, 115 Stat. 914, 918. Subsec. (b) was previously repealed by Pub. L. 105–114, title II, §204(2), Nov. 21, 1997, 111 Stat. 2288.
 
 #### Homeless Veterans Comprehensive Service Programs
 
-Pub. L. 102–590, §§2–4, Nov. 10, 1992, 106 Stat. 5136–5139, as amended by Pub. L. 103–446, title X, §1003, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(1), (2), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, §§202(c)(3), 203(b), Nov. 21, 1997, 111 Stat. 2287, 2288; Pub. L. 106–117, title IX, §903(1)–(3), Nov. 30, 1999, 113 Stat. 1587, provided that:
-
-#### “\[SEC. 2. Repealed. Pub. L. 105–114, title II, §202(c)(3), Nov. 21, 1997, 111 Stat. 2287.\]
-
-#### “SEC. 3. GRANTS.
-
-“(a)
-
-Authority To Make Grants.—(1) Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs, during \[sic\] shall make grants to assist eligible entities in establishing new programs to furnish, and expanding existing programs for furnishing, outreach, rehabilitative services, vocational counseling and training, and transitional housing assistance to homeless veterans.
-
-“(2) The authority of the Secretary to make grants under this section expires on September 30, 2003.
-
-“(b)
-
-Criteria for Award of Grants.—The Secretary shall establish criteria and requirements for the award of a grant under this section, including criteria for entities eligible to receive such grants. The Secretary shall publish such criteria and requirements in the Federal Register not later than 90 days after the date of the enactment of this Act \[Nov. 10, 1992\]. In developing such criteria and requirements, the Secretary shall consult with organizations with experience in the area of providing service to homeless veterans and to the maximum extent possible shall take into account the findings of the assessment of the Secretary under section 107 of the Veterans’ Medical Programs Amendments of 1992 \[Pub. L. 102–405, 38 U.S.C. 527 note\]. The criteria established under this section shall include the following:
-
-&emsp;“(1) Specification as to the kinds of projects for which such grant support is available, which shall include (A) expansion, remodeling, or alteration of existing buildings, or acquisition of facilities, for use as service centers, transitional housing, or other facilities to serve homeless veterans, and (B) procurement of vans for use in outreach to, and transportation for, homeless veterans to carry out the purposes set forth in subsection (a).
-
-&emsp;“(2) Specification as to the number of projects for which grant support is available, which shall include provision for no more than 25 service centers.
-
-&emsp;“(3) Appropriate criteria for the staffing for the provision of the services for which a grant under this section is furnished.
-
-&emsp;“(4) Provisions to ensure that the award of grants under this section (A) shall not result in duplication of ongoing services, and (B) to the maximum extent practicable, shall reflect appropriate geographic dispersion and an appropriate balance between urban and nonurban locations.
-
-&emsp;“(5) Provisions to ensure that an entity receiving a grant shall meet fire and safety requirements established by the Secretary, which shall include such State and community requirements that may apply, but fire and safety requirements applicable to buildings of the Federal Government shall not apply to real property to be used by a grantee in carrying out the grant.
-
-&emsp;“(6) Specifications as to the means by which an entity receiving a grant may contribute in-kind services to the start-up costs of any project for which support is sought and the methodology for assigning a cost to that contribution for purposes of subsection (c).
-
-“(c)
-
-Funding Limitations.—A grant under this section may not be used to support operational costs. The amount of a grant under this section may not exceed 65 percent of the estimated cost of the expansion, remodeling, alteration, acquisition, or procurement provided for under this section.
-
-“(d)
-
-Eligible Entities.—The Secretary may not make a grant under this section unless the applicant for the grant—
-
-&emsp;“(1) is a public or nonprofit private entity with the capacity (as determined by the Secretary) to effectively administer a grant under this section;
-
-&emsp;“(2) has demonstrated that adequate financial support will be available to carry out the project for which the grant has been sought consistent with the plans, specifications, and schedule submitted by the applicant; and
-
-&emsp;“(3) has agreed to meet the applicable criteria and requirements established under subsection (b) (and the Secretary has determined that the applicant has demonstrated the capacity to meet those criteria and requirements).
-
-“(e)
-
-Application Requirement.—An entity described in subsection (d) desiring to receive assistance under this section shall submit to the Secretary an application. The application shall set forth—
-
-&emsp;“(1) the amount of the grant requested with respect to a project;
-
-&emsp;“(2) a description of the site for such project;
-
-&emsp;“(3) plans, specifications, and the schedule for implementation of such project in accordance with requirements prescribed by the Secretary under subsection (b); and
-
-&emsp;“(4) reasonable assurance that upon completion of the work for which assistance is sought, the program will become operational and the facilities will be used principally to provide to veterans the services for which the project was designed, and that not more than 25 percent of the services provided will serve clients who are not receiving such services as veterans.
-
-“(f)
-
-Program Requirements.—The Secretary may not make a grant to an applicant under this section unless the applicant, in the application for the grant, agrees to each of the following requirements:
-
-&emsp;“(1) To provide the services for which the grant is furnished at locations accessible to homeless veterans.
-
-&emsp;“(2) To maintain referral networks for, and aid homeless veterans in, establishing eligibility for assistance, and obtaining services, under available entitlement and assistance programs.
-
-&emsp;“(3) To ensure the confidentiality of records maintained on homeless veterans receiving services under the grant.
-
-&emsp;“(4) To establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant and to such payments as may be made under section 4.
-
-&emsp;“(5) To seek to employ homeless veterans and formerly homeless veterans in positions created for purposes of the grant for which those veterans are qualified.
-
-“(g)
-
-Service Center Requirements.—In addition to criteria established under subsection (b), the Secretary shall, in the case of an application for a grant for a service center for homeless veterans, require that—
-
-&emsp;“(1) such center shall provide services to homeless veterans during such hours as the Secretary may specify and shall be open to such veterans on an as-needed, unscheduled basis;
-
-&emsp;“(2) space at such center will be made available, as mutually agreeable, for use by staff of the Department of Veterans Affairs, the Department of Labor, and other appropriate agencies and organizations in assisting homeless veterans served by such center;
-
-&emsp;“(3) such center shall be equipped and staffed to provide, or to assist in providing, health care, mental health services, hygiene facilities, benefits and employment counseling, meals, transportation assistance, and such other services as the Secretary determines necessary; and
-
-&emsp;“(4) such center may be equipped and staffed to provide, or to assist in providing, job training and job placement services (including job readiness, job counseling, and literacy and skills training), as well as any outreach and case management services that may be necessary to carry out this paragraph.
-
-#### “SEC. 4. PER DIEM PAYMENTS.
-
-“(a)
-
-Per Diem Payments for Furnishing Services To Homeless Veterans.—Subject to the availability of appropriations provided for under section 12 \[set out below\], the Secretary of Veterans Affairs, pursuant tosuch criteria as the Secretary shall prescribe, shall provide to a recipient of a grant under section 3 (or an entity eligible to receive a grant under section 3 which after the date of enactment of this Act \[Nov. 10, 1992\] establishes a program which the Secretary determines carries out the purposes described in section 3) per diem payments at such rates as the Secretary shall prescribe by regulation for services furnished to any homeless veteran—
-
-&emsp;“(1) whom the Secretary has referred to the grant recipient (or entity eligible for such a grant); or
-
-&emsp;“(2) for whom the Secretary has authorized the provision of services.
-
-> In a case in which the Secretary has authorized the provision of services, per diem payments may be paid retroactively for services provided not more than 3 days before the authorization was provided.
-
-“(b)
-
-Limitation.—The amount of per diem payments made with respect to a veteran under this section may not exceed one-half of the cost to the grant recipient (or other eligible entity) of providing such service.
-
-“(c)
-
-In-Kind Assistance.—In lieu of per diem payments under this section, the Secretary may, with the approval of the grant recipient, provide in-kind assistance (through the services of Department employees and the use of other Department resources) to a grant recipient (or entity eligible for such a grant) under section 3.
-
-“(d)
-
-Inspections.—The Secretary may inspect any facility of an entity eligible for payments under subsection (a) at such times as the Secretary considers necessary. No per diem payment may be made to an entity under this section unless the facilities of that entity meet such standards as the Secretary shall prescribe.”
-
-\[Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.\]
+Pub. L. 102–590, §§2–4, Nov. 10, 1992, 106 Stat. 5136–5139, as amended by Pub. L. 103–446, title X, §1003, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(1), (2), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, §§202(c)(3), 203(b), Nov. 21, 1997, 111 Stat. 2287, 2288; Pub. L. 106–117, title IX, §903(1)–(3), Nov. 30, 1999, 113 Stat. 1587; Pub. L. 107–14, §8(c), June 5, 2001, 115 Stat. 36, which provided for a grant program to assist eligible entities in establishing new programs to furnish, and expanding existing programs for furnishing, outreach, rehabilitative services, vocational counseling and training, and transitional housing assistance to homeless veterans and per diem payments to grant recipients for furnishing services to homeless veterans, was repealed and restated in sections 2011 and 2012 of this title by Pub. L. 107–95, §5(a)(1), (e)(1), Dec. 21, 2001, 115 Stat. 906, 918.
 
 #### Annual Reports to Congressional Committees
 
@@ -150,5 +32,5 @@ Pub. L. 102–590, §10, Nov. 10, 1992, 106 Stat. 5141, directed Secretary of Ve
 
 #### Authorization of Appropriations
 
-Pub. L. 102–590, §12, Nov. 10, 1992, 106 Stat. 5142, as amended by Pub. L. 103–446, title X, §1004, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(3), Feb. 13, 1996, 110 Stat. 769; Pub. L. 106–117, title IX, §903(4), Nov. 30, 1999, 113 Stat. 1587, provided that: “There are authorized to be appropriated to carry out this Act \[see Short Title of 1992 Amendment note set out under section 101 of this title\] (other than section 8 \[amending section 3735 of this title\]) $48,000,000 for each of fiscal years 1993 through 1997 and $50,000,000 for each of fiscal years 2000 and 2001. Nothing in this Act shall be construed to diminish funds for, continuation of, or expansion of existing programs administered by the Secretary of Veterans Affairs to serve veterans.”
+Pub. L. 102–590, §12, Nov. 10, 1992, 106 Stat. 5142, as amended by Pub. L. 103–446, title X, §1004, Nov. 2, 1994, 108 Stat. 4679; Pub. L. 104–110, title I, §102(c)(3), Feb. 13, 1996, 110 Stat. 769; Pub. L. 106–117, title IX, §903(4), Nov. 30, 1999, 113 Stat. 1587, which authorized appropriations for fiscal years 1993 through 1997 and 2000 and 2001, was repealed by Pub. L. 107–95, §5(e)(1), Dec. 21, 2001, 115 Stat. 918.
 

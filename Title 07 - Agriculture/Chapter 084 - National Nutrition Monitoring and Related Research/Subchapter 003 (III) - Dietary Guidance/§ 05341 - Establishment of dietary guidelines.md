@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;At least every five years the Secretaries shall publish a report entitled “Dietary Guidelines for Americans”. Each such report shall contain nutritional and dietary information and guidelines for the general public, and shallbe promoted by each Federal agency in carrying out any Federal food, nutrition, or health program.
+&emsp;At least every five years the Secretaries shall publish a report entitled “Dietary Guidelines for Americans”. Each such report shall contain nutritional and dietary information and guidelines for the general public, and shall be promoted by each Federal agency in carrying out any Federal food, nutrition, or health program.
 
 #### (2) Basis of guidelines
 
@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;During the sixty-day review period established in paragraph (1), the Secretaries shall review and approve or disapprove such guidance to assure that the guidance either is consistent with the “Dietary Guidelines for Americans” or that the guidance is based on medical or new scientific knowledge which is determined to be valid by the Secretaries. If after such sixty-day period neither Secretary notifies the proposing agency that such guidance has been disapproved, then such guidance may be issued by the agency. If both Secretaries disapprove of such guidance, it shall be returned to the agency. If either Secretary finds that such guidance is inconsistent with the “Dietary Guidelines for Americans” and so notifies the proposing agency, such agency shall follow the procedures set forth in this subsection before disseminating such proposal to the public in final form. If after such sixty-day period, either Secretary disapproves such guidance as inconsistent with the “Dietary Guidelines for Americans” the proposing agency shall—
+&emsp;&emsp;During the sixty-day review period established in paragraph (1), the Secretaries shallreview and approve or disapprove such guidance to assure that the guidance either is consistent with the “Dietary Guidelines for Americans” or that the guidance is based on medical or new scientific knowledge which is determined to be valid by the Secretaries. If after such sixty-day period neither Secretary notifies the proposing agency that such guidance has been disapproved, then such guidance may be issued by the agency. If both Secretaries disapprove of such guidance, it shall be returned to the agency. If either Secretary finds that such guidance is inconsistent with the “Dietary Guidelines for Americans” and so notifies the proposing agency, such agency shall follow the procedures set forth in this subsection before disseminating such proposal to the public in final form. If after such sixty-day period, either Secretary disapproves such guidance as inconsistent with the “Dietary Guidelines for Americans” the proposing agency shall—
 
 &emsp;&emsp;&emsp;(i) publish a notice in the Federal Register of the availability of the full text of the proposal and the preamble of such proposal which shall explain the basis and purpose for the proposed dietary guidance;
 

@@ -36,7 +36,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(A) accept, retain, and use funds, personnel, services, and property from a collaborating party and provide personnel, services, and property to a collaborating party;
 
-&emsp;(B) use funds received from a collaborating party in accordance with subparagraph (A) to hire personnel to carry out the agreement whowill not be subject to full-time-equivalent restrictions of the agency;
+&emsp;(B) use funds received from a collaborating party in accordance with subparagraph (A) to hire personnel to carry out the agreement who will not be subject to full-time-equivalent restrictions of the agency;
 
 &emsp;(C) to the extent consistent with any applicable agency requirements or standards of conduct, permit an employee or former employee of the laboratory to participate in an effort to commercialize an invention made by the employee or former employee while in the employment or service of the Government; and
 
@@ -130,7 +130,7 @@ In implementing this section, each agency which has contracted with a non-Federa
 
 &emsp;(2) Classified information and unclassified sensitive information protected by law, regulation, or Executive order shall be appropriately safeguarded.
 
-(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742.)
+(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742.)
 
 #### References in Text
 
@@ -196,7 +196,7 @@ Pub. L. 106–404, §8, Nov. 1, 2000, 114 Stat. 1746, provided that:
 
 “(a)
 
-Review.—Within 90 days after the date of the enactment of this Act \[Nov. 1, 2000\], each Federal agency with a federally funded laboratory that has in effect on that date of the enactment one or more cooperative research and development agreements under section 12 ofthe Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) shall report to the Committee on National Security of the National Science and Technology Council and the Congress on the general policies and procedures used by that agency to gather and consider the views of other agencies on—
+Review.—Within 90 days after the date of the enactment of this Act \[Nov. 1, 2000\], each Federal agency with a federally funded laboratory that has in effect onthat date of the enactment one or more cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) shall report to the Committee on National Security of the National Science and Technology Council and the Congress on the general policies and procedures used by that agency to gather and consider the views of other agencies on—
 
 &emsp;“(1) joint work statements under section 12(c)(5)(C) or (D) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(c)(5)(C) or (D)); or
 

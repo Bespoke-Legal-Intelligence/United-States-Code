@@ -56,7 +56,7 @@ The provisions of this section shall not take effect until appropriations are sp
 
 #### Codification
 
-Section was enacted as part of the Bank Enterprise Act of 1991, and also as part of the Foreign Bank Supervision Enhancement Act of 1991 and as part of the Federal Deposit Insurance Corporation Improvement Actof 1991, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
+Section was enacted as part of the Bank Enterprise Act of 1991, and also as part of the Foreign Bank Supervision Enhancement Act of 1991 and as part of the Federal Deposit Insurance Corporation Improvement Act of 1991, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
 Section is comprised of section 232 of Pub. L. 102–242. Subsec. (b) of section 232 of Pub. L. 102–242 amended section 1817 of this title.
 

@@ -66,7 +66,7 @@
 
 #### (4) Order of court
 
-&emsp;If the court determines that the making of such levy is unreasonable, that the making of such assessment is unreasonable, or that the amount assessed or demanded is inappropriate, then the court may order the Secretary to release such levy, to abate such assessment, to redetermine (in whole or in part) the amount assessed or demanded, or to take such other action as the court finds appropriate.
+&emsp;If the court determines that the making of such levy is unreasonable, that the making of such assessment is unreasonable, or that the amount assessed or demanded is inappropriate, then the court may order the Secretary to release such levy, to abate such assessment, toredetermine (in whole or in part) the amount assessed or demanded, or to take such other action as the court finds appropriate.
 
 #### (c) Extension of 20-day period where taxpayer so requests
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each Job Corps center shall provide enrollees with an intensive, well organized, and fullysupervised program of education, vocational training, work experience, recreational activities, physical rehabilitation and development, and counseling. Each Job Corps center shall provide enrollees assigned to the center with access to core services described in section 2864(d)(2) of this title and the intensive services described in section 2864(d)(3) of this title.
+&emsp;Each Job Corps center shall provide enrollees with an intensive, well organized, and fully supervised program of education, vocational training, work experience, recreational activities, physical rehabilitation and development, and counseling. Each Job Corps center shall provide enrollees assigned to the center with access to core services described in section 2864(d)(2) of this title and the intensive services described in section 2864(d)(3) of this title.
 
 #### (2) Relationship to opportunities
 

@@ -2,39 +2,87 @@
 
 (a)
 
-Contracting Officers.—The Secretary of Defense shall require that in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, a person must—
+Contracting Officers.—The Secretary of Defense shall require that, in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
 
-&emsp;(1) have completed all mandatory contracting courses required for a contracting officer at the grade level, or in the position within the grade of the General Schedule (in the case of an employee), that the person is serving in;
+&emsp;(1) have completed all contracting courses required for a contracting officer (A) in the case of an employee, serving in the position within the grade of the General Schedule in which the employee is serving, and (B) in the case of a member of the armed forces, in the member's grade;
 
 &emsp;(2) have at least two years of experience in a contracting position;
 
-&emsp;(3)(A) have received a baccalaureate degree from an accredited educational institution authorized to grant baccalaureate degrees, and (B) have completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in any of the following disciplines: accounting, business finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; and
+&emsp;(3)(A) have received a baccalaureate degree from an accredited educational institution authorized to grant baccalaureate degrees, and (B) have completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education in any of the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management; and
 
 &emsp;(4) meet such additional requirements, based on the dollar value and complexity of the contracts awarded or administered in the position, as may be established by the Secretary of Defense for the position.
 
 (b) GS–1102
 
-Series Positions and Similar Military Positions.—The Secretary of Defense shall require that a person meet the requirements set forth in paragraph (3) of subsection (a), but not the other requirements set forth in that subsection, in order to qualify to serve in a position in the Department of Defense in—
+Series Positions and Similar Military Positions.—(1) The Secretary of Defense shall require that in order to qualify to serve in a position in the Department of Defense that is in the GS–1102 occupational series an employee or potential employee of the Department of Defense meet the requirements set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to serve in such a position an employee or potential employee meet any of the requirements of paragraphs (1) and (2) of that subsection.
 
-&emsp;(1) the GS–1102 occupational series; or
-
-&emsp;(2) a similar occupational specialty if the position is to be filled by a member of the armed forces.
+(2) The Secretary of Defense shall require that in order for a member of the armed forces to be selected for an occupational specialty within the armed forces that (as determined by the Secretary) is similar to the GS–1102 occupational series a member of the armed forces meet the requirements set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to be selected for such an occupational specialty a member meet any of the requirements of paragraphs (1) and (2) of that subsection.
 
 (c)
 
-Exception.—The requirements imposed under subsection (a) or (b) shall not apply to a person for the purpose of qualifying to serve in a position in which the person is serving on September 30, 2000.
+Exceptions.—The qualification requirements imposed by the Secretary of Defense pursuant to subsections (a) and (b) shall not apply to an employee of the Department of Defense or member of the armed forces who—
+
+&emsp;(1) served as a contracting officer with authority to award or administer contracts in excess of the simplified acquisition threshold on or before September 30, 2000;
+
+&emsp;(2) served, on or before September 30, 2000, in a position either as an employee in the GS–1102 series or as a member of the armed forces in a similar occupational specialty;
+
+&emsp;(3) is in the contingency contracting force; or
+
+&emsp;(4) is described in subsection (e)(1)(B).
 
 (d)
 
-Waiver.—The acquisition career program board of a military department may waive any or all of the requirements of subsections (a) and (b) with respect to an employee or member of that military department if the board certifies that the employee or member possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated job performance and qualifying experience. With respect to each waiver granted under this subsection, the board shall set forth in a written document the rationale for its decision to waive such requirements. The document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.
+Waiver.—The acquisition career program board concerned may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the board certifies that the individual possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated job performance and qualifying experience. With respect to each waiver granted under this subsection, the board shall set forth in a written document the rationale for its decision to waive such requirements. Such document shall be submitted to and retained by the Director of Acquisition Education, Training, and Career Development.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97; Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208.)
+(e)
+
+Developmental Opportunities.—(1) The Secretary of Defense may—
+
+&emsp;(A) establish or continue one or more programs for the purpose of recruiting, selecting, appointing, educating, qualifying, and developing the careers of individuals to meet the requirements in subparagraphs (A) and (B) of subsection (a)(3);
+
+&emsp;(B) appoint individuals to developmental positions in those programs; and
+
+&emsp;(C) separate from the civil service after a three-year probationary period any individual appointed under this subsection who fails to meet the requirements described in subsection (a)(3).
+
+(2) To qualify for any developmental program described in paragraph (1)(B), an individual shall have—
+
+&emsp;(A) been awarded a baccalaureate degree, with a grade point average of at least 3.0 (or the equivalent), from an accredited institution of higher education authorized to grant baccalaureate degrees; or
+
+&emsp;(B) completed at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management.
+
+(f)
+
+Contingency Contracting Force.—The Secretary shall establish qualification requirements for the contingency contracting force consisting of members of the armed forces whose mission is to deploy in support of contingency operations and other operations of the Department of Defense, including—
+
+&emsp;(1) completion of at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education or similar educational institution in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management; or
+
+&emsp;(2) passing an examination that demonstrates skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours or the equivalent of study in any of the disciplines described in paragraph (1).
+
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 103–35, title I, §101, May 31, 1993, 107 Stat. 97; Pub. L. 104–201, div. A, title X, §1074(a)(9)(B), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §824(a), Dec. 28, 2001, 115 Stat. 1183.)
 
 #### References in Text
 
-The General Schedule, referred to in subsec. (a)(1), is set out under section 5332 of Title 5, Government Organization and Employees.
+The General Schedule, referred to in subsec. (a)(1)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §824(a)(1)(A), reenacted heading without change and substituted introductory provisions for provisions which read “The Secretary of Defense shall require that in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in section 2304(g) of this title, a person must—”.
+
+Subsec. (a)(1). Pub. L. 107–107, §824(a)(1)(B), struck out “mandatory” before “contracting courses” andsubstituted cls. (A) and (B) for “at the grade level, or in the position within the grade of the General Schedule (in the case of an employee), that the person is serving in;”.
+
+Subsec. (a)(3). Pub. L. 107–107, §824(a)(1)(C), which directed the amendment of par. (3)(A) by inserting a comma after “business”, was executed by inserting comma after “business” in par. (3)(B) to reflect the probable intent of Congress.
+
+Subsec. (b). Pub. L. 107–107, §824(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows:
+
+“(b) GS–1102
+
+Series Positions and Similar Military Positions.—The Secretary of Defense shall require that a person meet the requirements set forth in paragraph (3) of subsection (a), but not the other requirements set forth in that subsection, in order to qualify to serve in a position in the Department of Defense in—
+
+&emsp;“(1) the GS–1102 occupational series; or
+
+&emsp;“(2) a similar occupational specialty if the position is to be filled by a member of the armed forces.”
+
+Subsecs. (c) to (f). Pub. L. 107–107, §824(a)(3), added subsecs. (c) to (f) and struck out former subsecs. (c) and (d) which related to exception to requirements of subsecs. (a) and (b) and waiver of such requirements, respectively.
 
 2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(d)\], struck out “(except as provided in subsections (c) and (d))” after “a person must” in introductory provisions.
 
@@ -48,7 +96,7 @@ Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(c)\], amende
 
 “(2) The requirements of subsections (a) and (b) shall not apply to any employee for purposes of qualifying to serve in the position in which the employee is serving on October 1, 1993, or any other position in the same or lower grade and involving the same or lower level of responsibilities as the position in which the employee is serving on such date.”
 
-Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)\], in first sentence, substituted “employee ormember of” for “employee of” and “employee or member possesses” for “employee possesses”.
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §808(a)\], in first sentence, substituted “employee or member of” for “employee of” and “employee or member possesses” for “employee possesses”.
 
 1996—Subsec. (a). Pub. L. 104–201, in introductory provisions, struck out “, beginning on October 1, 1993,” after “require that” and substituted “simplified acquisition threshold” for “small purchase threshold”.
 
@@ -70,5 +118,5 @@ Section 1209(i) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1725, 1762 of this title.
+This section is referred to in section 1725 of this title.
 

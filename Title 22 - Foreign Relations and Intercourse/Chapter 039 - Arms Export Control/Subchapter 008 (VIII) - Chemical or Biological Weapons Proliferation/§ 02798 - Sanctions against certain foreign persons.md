@@ -134,5 +134,5 @@ A prior subchapter VIII, consisting of former section 2798, as added by Pub. L. 
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §1(a), June 11,1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, §1(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 

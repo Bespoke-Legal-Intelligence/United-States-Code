@@ -65,7 +65,7 @@ Subsec. (a). Pub. L. 105–85, §619(a), amended subsec. (a) generally. Prior to
 | E–5 | 16\.00&nbsp; |
 | E–4 | 13\.00&nbsp; |
 | E–3 | 9\.00&nbsp; |
-| E–2 | 8\.00  |
+| E–2 | 8\.00&nbsp; |
 | E–1 | 8\.00.” |
 
 Subsec. (b). Pub. L. 105–85, §619(b)(1), inserted heading and substituted “as hardship duty location pay” for “as foreign duty pay” in text.

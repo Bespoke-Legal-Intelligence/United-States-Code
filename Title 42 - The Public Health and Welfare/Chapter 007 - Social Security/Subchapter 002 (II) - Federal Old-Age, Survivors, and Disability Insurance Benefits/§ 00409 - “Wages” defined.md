@@ -36,7 +36,7 @@ For the purposes of this subchapter, the term “wages” means remuneration pai
 
 > &emsp;with respect to remuneration paid to an employee for domestic service in a private home of the employer or for agricultural labor;
 
-&emsp;(6)(A) Remuneration paid in any medium other than cash to an employee for service notin the course of the employer's trade or business or for domestic service in a private home of the employer;
+&emsp;(6)(A) Remuneration paid in any medium other than cash to an employee for service not in the course of the employer's trade or business or for domestic service in a private home of the employer;
 
 &emsp;(B) Cash remuneration paid by an employer in any calendar year to an employee for domestic service in a private home of the employer (including domestic service described in section 410(f)(5) of this title), if the cash remuneration paid in such year by the employer to the employee for such service is less than the applicable dollar threshold (as defined in section 3121(x) of the Internal Revenue Code of 1986) for such year;
 
@@ -86,7 +86,7 @@ For the purposes of this subchapter, the term “wages” means remuneration pai
 
 #### (b) Regulations providing exclusions from term
 
-Nothing in the regulations prescribed for purposes of chapter 24 of the Internal Revenue Code of 1986 (relating to income tax withholding)which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in the regulations prescribed for purposes of this subchapter.
+Nothing in the regulations prescribed for purposes of chapter 24 of the Internal Revenue Code of 1986 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in the regulations prescribed for purposes of this subchapter.
 
 #### (c) Individuals performing domestic services
 
@@ -102,7 +102,7 @@ For purposes of this subchapter, in the case of an individual performing service
 
 #### (f) Tips
 
-For purposes of this subchapter, tips received by an employee in the course of his employment shall be considered remuneration for employment. Such remuneration shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) of the Internal Revenue Code of 1986 or (if no statement including such tips is so furnished) at the time received.
+For purposes of this subchapter, tips received by an employee in the course of his employment shall be considered remuneration for employment. Such remuneration shall be deemed to bepaid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) of the Internal Revenue Code of 1986 or (if no statement including such tips is so furnished) at the time received.
 
 #### (g) Members of religious orders
 
@@ -126,7 +126,7 @@ Any amount deferred under a nonqualified deferred compensation plan (within the 
 
 #### (k) “National average wage index” and “deferred compensation amount” defined
 
-(1) For purposes of sections 403(f)(8)(B)(ii), 413(d)(2)(B), 415(a)(1)(B)(ii), 415(a)(1)(C)(ii), 415(a)(1)(D), 415(b)(3)(A)(ii), 415(i)(1)(E), 415(i)(2)(C)(ii), 424a(f)(2)(B), and 430(b)(2) (and 430(b)(2) of this title as in effect immediately prior to the enactment of the Social Security Amendments of 1977), the term ‘national average wage index’ for any particular calendar yearmeans, subject to regulations of the Commissioner of Social Security under paragraph (2), the average of the total wages for such particular calendar year.
+(1) For purposes of sections 403(f)(8)(B)(ii), 413(d)(2)(B), 415(a)(1)(B)(ii), 415(a)(1)(C)(ii), 415(a)(1)(D), 415(b)(3)(A)(ii), 415(i)(1)(E), 415(i)(2)(C)(ii), 424a(f)(2)(B), and 430(b)(2) (and 430(b)(2) of this title as in effect immediately prior to the enactment of the Social Security Amendments of 1977), the term ‘national average wage index’ for any particular calendar year means, subject to regulations of the Commissioner of Social Security under paragraph (2), the average of the total wages for such particular calendar year.
 
 (2) The Commissioner of Social Security shall prescribe regulations under which the national average wage index for any calendar year shall be computed—
 
@@ -146,7 +146,7 @@ Any amount deferred under a nonqualified deferred compensation plan (within the 
 
 &emsp;(C) to the extent provided in regulations of the Commissioner of Social Security, deferred compensation provided under any arrangement, agreement, or plan referred to in subsection (i) or (j) of this section.
 
-(Aug. 14, 1935, ch. 531, title II, §209, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1373; Mar. 24, 1943, ch. 26, §1(b)(2), 57 Stat. 47; Apr. 4, 1944, ch. 161, §2, 58 Stat. 188; Oct. 23, 1945, ch. 433, §7(b), 59 Stat. 548; Dec. 29, 1945, ch. 652, title I, §5(a), 59 Stat. 671; Aug. 10, 1946, ch. 951, title IV, §§407(a), 408(a), 409(a), 410, 411, 414, 60 Stat. 988, 989, 990; Apr. 20, 1948, ch. 222, §1(a), 62 Stat. 195; Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492; Sept. 1, 1954, ch. 1206, title I, §§101(a)(1)–(3), 104(a), 68 Stat. 1052, 1078; Aug. 1, 1956, ch. 836, title I, §105(a), 70 Stat. 828; Aug. 1, 1956, ch. 837, title IV, §401, 70 Stat. 869; Pub. L. 85–786, §1, Aug. 27, 1958, 72 Stat. 938; Pub. L. 85–840, title I, §102(a), Aug. 28, 1958, 72 Stat. 1019; Pub. L. 86–778, title I, §103(j)(2)(C), (F), Sept. 13, 1960, 74 Stat. 937, 938; Pub. L. 87–64, title I, §102(c)(3)(A), June 30, 1961, 75 Stat. 134; Pub. L. 87–293, title II, §202(b)(2), Sept. 22, 1961, 75 Stat. 626; Pub. L. 88–272, title II, §220(c)(3), Feb. 26, 1964, 78 Stat. 63; Pub. L. 88–650, §4(a), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 89–97, title III, §§313(a), 320(a)(1), July 30, 1965, 79 Stat. 382, 393; Pub. L. 90–248, title I, §108(a)(1), title V, §504(c), Jan. 2, 1968, 81 Stat. 834, 935; Pub. L. 92–5, title II, §203(a)(1), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(1), July 1, 1972, 86 Stat. 417; Pub. L. 92–603, title I, §§104(g), 122(a), 123(c)(1), 138(a), Oct. 30, 1972, 86 Stat. 1341, 1354, 1356, 1365; Pub. L. 93–66, title II, §203(a)(1), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(1), Dec. 31, 1973, 87 Stat. 953; Pub. L. 95–216, title III, §351(a)(1)–(3)(A), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–472, §3(c), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(4), Nov. 6, 1978, 92 Stat. 2814; Pub. L. 96–499, title XI, §1141(a)(2), Dec. 5, 1980, 94 Stat. 2693; Pub. L. 97–34, title I, §124(e)(2)(B), Aug. 13, 1981, 95 Stat. 201; Pub. L. 97–123, §3(a), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 98–21, title I, §101(c)(1), title III, §§324(c)(1)–(3), 327(a)(2), (b)(2), 328(b), Apr. 20, 1983, 97 Stat. 70, 124, 125, 127, 128; Pub. L. 98–369, div. A, title IV, §491(d)(39), title V, §531(d)(1)(B), div. B, title VI, §§2661(i), 2663(a)(6), July 18, 1984, 98 Stat. 851, 884, 1157, 1162; Pub. L. 99–272, title XII, §12112(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 99–514, title I, §122(e)(5), title XI, §1151(d)(2)(C), Oct. 22, 1986, 100 Stat. 2112, 2505; Pub. L. 100–203, title IX, §§9001(a)(2), 9002(a), 9003(a)(1), Dec. 22, 1987, 101 Stat. 1330–286, 1330–287; Pub. L. 100–647, title I, §§1001(g)(4)(C), 1011(f)(8), 1011B(a)(22)(E), (23)(B), title III, §3043(a), title VIII, §8017(a), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3641, 3793; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, §10208(a), (d)(1), Dec. 19, 1989, 103 Stat. 2476, 2479; Pub. L. 101–508, title V, §5130(a)(5), Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(c)(4), (e)(1), Aug. 15, 1994, 108 Stat. 1478, 1538, 1539; Pub. L. 103–387, §2(a)(2)(A), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §§1421(b)(8)(B), 1458(b)(2), Aug. 20, 1996, 110 Stat. 1798, 1820.)
+(Aug. 14, 1935, ch. 531, title II, §209, 49 Stat. 625; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1373; Mar. 24, 1943, ch. 26, §1(b)(2), 57 Stat. 47; Apr. 4, 1944, ch. 161, §2, 58 Stat. 188; Oct. 23, 1945, ch. 433, §7(b), 59 Stat. 548; Dec. 29, 1945, ch. 652, title I, §5(a), 59 Stat. 671; Aug. 10, 1946, ch. 951, title IV, §§407(a), 408(a), 409(a), 410, 411, 414, 60 Stat. 988, 989, 990; Apr. 20, 1948, ch. 222, §1(a), 62 Stat. 195; Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492; Sept. 1, 1954, ch. 1206, title I, §§101(a)(1)–(3), 104(a), 68 Stat. 1052, 1078; Aug. 1, 1956, ch. 836, title I, §105(a), 70 Stat. 828; Aug. 1, 1956, ch. 837, title IV, §401, 70 Stat. 869; Pub. L. 85–786, §1, Aug. 27, 1958, 72 Stat. 938; Pub. L. 85–840, title I, §102(a), Aug. 28, 1958, 72 Stat. 1019; Pub. L. 86–778, title I, §103(j)(2)(C), (F), Sept. 13, 1960, 74 Stat. 937, 938; Pub. L. 87–64, title I, §102(c)(3)(A), June 30, 1961, 75 Stat. 134; Pub. L. 87–293, title II, §202(b)(2), Sept. 22, 1961, 75 Stat.626; Pub. L. 88–272, title II, §220(c)(3), Feb. 26, 1964, 78 Stat. 63; Pub. L. 88–650, §4(a), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 89–97, title III, §§313(a), 320(a)(1), July 30, 1965, 79 Stat. 382, 393; Pub. L. 90–248, title I, §108(a)(1), title V, §504(c), Jan. 2, 1968, 81 Stat. 834, 935; Pub. L. 92–5, title II, §203(a)(1), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §203(a)(1), July 1, 1972, 86 Stat. 417; Pub. L. 92–603, title I, §§104(g), 122(a), 123(c)(1), 138(a), Oct. 30, 1972, 86 Stat. 1341, 1354, 1356, 1365; Pub. L. 93–66, title II, §203(a)(1), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(a)(1), Dec. 31, 1973, 87 Stat. 953; Pub. L. 95–216, title III, §351(a)(1)–(3)(A), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–472, §3(c), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(4), Nov. 6, 1978, 92 Stat. 2814; Pub. L. 96–499, title XI, §1141(a)(2), Dec. 5, 1980, 94 Stat. 2693; Pub. L. 97–34, title I, §124(e)(2)(B), Aug. 13, 1981, 95 Stat. 201; Pub. L. 97–123, §3(a), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 98–21, title I, §101(c)(1), title III, §§324(c)(1)–(3), 327(a)(2), (b)(2), 328(b), Apr. 20, 1983, 97 Stat. 70, 124, 125, 127, 128; Pub. L. 98–369, div. A, title IV, §491(d)(39), title V, §531(d)(1)(B), div. B, title VI, §§2661(i), 2663(a)(6), July 18, 1984, 98 Stat. 851, 884, 1157, 1162; Pub. L. 99–272, title XII, §12112(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 99–514, title I, §122(e)(5), title XI, §1151(d)(2)(C), Oct. 22, 1986, 100 Stat. 2112, 2505; Pub. L. 100–203, title IX, §§9001(a)(2), 9002(a), 9003(a)(1), Dec. 22, 1987, 101 Stat. 1330–286, 1330–287; Pub. L. 100–647, title I, §§1001(g)(4)(C), 1011(f)(8), 1011B(a)(22)(E), (23)(B), title III, §3043(a), title VIII, §8017(a), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3641, 3793; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, §10208(a), (d)(1), Dec. 19, 1989, 103 Stat. 2476, 2479; Pub. L. 101–508, title V, §5130(a)(5), Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 103–296, title I, §107(a)(4), title III, §321(c)(4), (e)(1), Aug. 15, 1994, 108 Stat. 1478, 1538, 1539; Pub. L. 103–387, §2(a)(2)(A), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §§1421(b)(8)(B), 1458(b)(2), Aug. 20, 1996, 110 Stat. 1798, 1820.)
 
 #### References in Text
 
@@ -164,7 +164,7 @@ The Peace Corps Act, referred to in subsec. (e), is Pub. L. 87–293, Sept. 22, 
 
 The enactment of the Social Security Amendments of 1977, referred to in subsec. (k)(1), means the enactment of Pub. L. 95–216, which was approved Dec. 20, 1977.
 
-Section 10208 of the Omnibus Budget Reconciliation Act of 1989, referred to in subsec. (k)(2)(C), is section 10208 of Pub. L. 101–239, title X, Dec. 19, 1989, 103 Stat.2476, which amended this section, sections 403, 413, 415, 417, 418, 424a, and 430 of this title, section 206 of Title 29, Labor, and section 231 of Title 45, Railroads, and enacted provisions set out as a note under section 430 of this title.
+Section 10208 of the Omnibus Budget Reconciliation Act of 1989, referred to in subsec. (k)(2)(C), is section 10208 of Pub. L. 101–239, title X, Dec. 19, 1989, 103 Stat. 2476, which amended this section, sections 403, 413, 415, 417, 418, 424a, and 430 of this title, section 206 of Title 29, Labor, and section 231 of Title 45, Railroads, and enacted provisions set out as a note under section 430 of this title.
 
 Section 402 of the Internal Revenue Code of 1986, referred to in subsec. (k)(3)(A), was amended by Pub. L. 102–318, §521, and, as so amended, provisions formerly contained in section 402(a)(8) are contained in section 402(e)(3).
 
@@ -194,7 +194,7 @@ Subsec. (b). Pub. L. 101–239, §10208(d)(1)(L), designated par. beginning with
 
 Subsec. (c). Pub. L. 101–239, §10208(d)(1)(M), designated par. beginning with “For purposes of this subchapter, in the case of domestic service” as subsec. (c) and substituted “subsection (a)(6)(B)” for “subsection (g)(2)” in two places.
 
-Subsec. (d). Pub. L. 101–239, §10208(d)(1)(N), designated par. beginning with “For purposes of this subchapter, in the case of an individual performing service, as a member” as subsec. (d) and substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions. Former subsec. (d) redesignated subsec. (a)(3).
+Subsec. (d). Pub. L. 101–239, §10208(d)(1)(N), designated par. beginning with “For purposes of this subchapter,in the case of an individual performing service, as a member” as subsec. (d) and substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions. Former subsec. (d) redesignated subsec. (a)(3).
 
 Subsecs. (e) to (h). Pub. L. 101–239, §10208(d)(1)(O)–(R), designated pars. beginning with “For purposes of this subchapter, in the case of an individual performing service, as a volunteer”, “For purposes of this subchapter, tips received”, “For purposes of this subchapter, in any case where”, and “For purposes of this subchapter, in the case of an individual performing service under the provisions”, as subsecs. (e) to (h), respectively. Former subsecs. (e) to (h) redesignated subsec. (a)(4) to (7), respectively.
 
@@ -268,7 +268,7 @@ Subsec. (r). Pub. L. 98–21, §327(a)(2), added subsec. (r).
 
 Pub. L. 98–21, §327(b)(2), inserted, immediately following subsec. (r), provision that nothing in the regulations prescribed for purposes of chapter 24 of the Internal Revenue Code of 1954 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in the regulations prescribed for purposes of this subchapter.
 
-Pub. L. 98–21, §324(c)(1), inserted, at end of section, two undesignated pars. specifying the inclusion of certain employer contributions as “wages” and directing that any amount deferred under a nonqualified deferred compensation plan be taken into account under certain conditions but not treated as wages thereafter for purposes of this subchapter.
+Pub. L. 98–21, §324(c)(1), inserted, at end of section, two undesignated pars. specifying the inclusion of certain employer contributions as “wages” and directingthat any amount deferred under a nonqualified deferred compensation plan be taken into account under certain conditions but not treated as wages thereafter for purposes of this subchapter.
 
 Pub. L. 98–21, §101(c)(1), inserted, at end of section, undesignated par. defining “wages” for purposes of this subchapter in the case of an individual performing service under provisions of section 294 of title 28 (relating to assignment of retired justices and judges to active duty) to include payments under section 371(b) of title 28 that is received during the period of such service.
 
@@ -418,7 +418,7 @@ Amendment by section 9003(a)(1) of Pub. L. 100–203 applicable with respect to 
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 122(e)(5) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986,see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Amendment by section 122(e)(5) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 Amendment by section 1151(d)(2)(C) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1983, see section 1151(k)(5) of Pub. L. 99–514, set out as a note under section 79 of Title 26.
 
@@ -484,7 +484,7 @@ Section 203(c) of Pub. L. 92–336 provided that: “The amendments made by subs
 
 #### Effective Date of 1971 Amendment
 
-Section 203(c) of Pub. L. 92–5 provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) (except paragraphs (1) and (7) thereof) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\], shall apply only with respect to remuneration paid after December 1971. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654of Title 26\] shall apply only with respect to taxable years beginning after 1971. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1971.”
+Section 203(c) of Pub. L. 92–5 provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) \[amending this section and section 413 of this title\], and the amendments made by subsection (b) (except paragraphs (1) and (7) thereof) \[amending sections 3121, 3122, 3125, and 6413 of Title 26, Internal Revenue Code\], shall apply only with respect to remuneration paid after December 1971. The amendments made by subsections (a)(2), (a)(3)(B), (b)(1), and (b)(7) \[amending sections 411 and 413 of this title and sections 1402 and 6654 of Title 26\] shall apply only with respect to taxable years beginning after 1971. The amendment made by subsection (a)(4) \[amending section 415 of this title\] shall apply only with respect to calendar years after 1971.”
 
 #### Effective Date of 1968 Amendment
 
@@ -550,7 +550,7 @@ Section 201 of act Aug. 10, 1939, provided that the amendment made by that secti
 
 #### Repeals: Amendments and Application of Amendments Unaffected
 
-Section 202(b)(2) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts,agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 202(b)(2) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22, Foreign Relations and Intercourse.
 
 #### Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers
 
@@ -576,7 +576,7 @@ Section 110 of act Aug. 28, 1950, provided that: “In any case in which—
 
 &emsp;“(2) the service performed by such individual during the time he was so employed constituted agricultural labor as defined in section 209(<i>l</i>) of the Social Security Act \[former subsec. (<i>l</i>) of this section\] and section 1426(h) of the Internal Revenue Code \[1939\], as in effect prior to the enactment of this Act \[Aug. 28, 1950\], and such service would, but for the provisions of such sections, have constituted employment for the purposes of title II of the Social Security Act \[this subchapter\] and subchapter A of chapter 9 of such Code \[1939\].
 
-&emsp;“(3) the taxes imposed by sections 1400 and 1410 of the Internal Revenue Code \[1939\] have been paid with respect to any part of the remuneration paid to such individual by such organization for such service and the payment of such taxes by such organization has been made in good faith upon the assumption that such service did not constitute agricultural labor as so defined, and
+&emsp;“(3) the taxes imposed by sections 1400 and 1410 of the Internal Revenue Code \[1939\] have been paid with respect to any part of the remuneration paid to such individual by such organization for such service and the payment of such taxes by such organization has been made in good faith upon the assumption thatsuch service did not constitute agricultural labor as so defined, and
 
 &emsp;“(4) no refund of such taxes has been obtained,
 

@@ -90,7 +90,7 @@ In this subchapter:
 
 #### (6) Transitional living youth project
 
-&emsp;The term “transitional living youth project” means a project that provides shelter and services designed to promote a transition to self-sufficient living and to prevent long-term dependency on social services.
+&emsp;The term “transitional living youth project” means a project that provides shelterand services designed to promote a transition to self-sufficient living and to prevent long-term dependency on social services.
 
 #### (7) Youth at risk of separation from the family
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) payment in the amount of $1,000 on account of the principal amount of each award of more than $1,000 in principal amount;
 
-&emsp;(3) thereafter, payments from time to time, in ratable proportions, on account of the unpaid balance of the principal amounts of all awards according to the proportions which the unpaid balance of such awards bear to thetotal amount in the fund available for distribution at the time such payments are made;
+&emsp;(3) thereafter, payments from time to time, in ratable proportions, on account of the unpaid balance of the principal amounts of all awards according to the proportions which the unpaid balance of such awards bear to the total amount in the fund available for distribution at the time such payments are made;
 
 &emsp;(4) after payment has been made in full of the principal amounts of all awards, pro rata payments may be made on account of any interest that may be allowed on such awards;
 

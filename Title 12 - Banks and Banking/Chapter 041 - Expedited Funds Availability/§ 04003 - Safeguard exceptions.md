@@ -12,7 +12,7 @@ Notwithstanding section 4002 of this title, in the case of any account establish
 
 &emsp;&emsp;(B) any funds received by such depository institution by wire transfer for deposit in such account;
 
-&emsp;&emsp;(C) any funds deposited in such account by cashier's check, certified check, teller's check, depository check, or traveler's check; and
+&emsp;&emsp;(C) any funds deposited in such account by cashier's check, certified check, teller'scheck, depository check, or traveler's check; and
 
 &emsp;&emsp;(D) any funds deposited by a government check which is described in subparagraph (A), (B), or (C) of section 4002(a)(2) of this title,
 
@@ -96,7 +96,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 #### (A) Notice of each suspension
 
-&emsp;&emsp;Within 10 days of prescribing any regulation or issuing any order under paragraph (1), the Board shall transmit a report of such action to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+&emsp;&emsp;Within 10 days of prescribing any regulation or issuing any order under paragraph\(1), the Board shall transmit a report of such action to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 #### (B) Contents of report
 
@@ -138,7 +138,7 @@ Subject to such regulations as the Board may prescribe, subsections (a)(2), (b),
 
 #### (3) Subsequent determinations
 
-&emsp;If the facts upon which the determination of the applicability of an exception contained insubsection (b) or (c) of this section to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
+&emsp;If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) of this section to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
 
 (Pub. L. 100–86, title VI, §604, Aug. 10, 1987, 101 Stat. 642; Pub. L. 102–242, title II, §§225, 227(b)(2), Dec. 19, 1991, 105 Stat. 2307, 2308.)
 

@@ -42,11 +42,13 @@ Duration of Principal Course of Instruction at Joint Forces Staff College.—(1)
 
 (2) In this subsection, the term “principal course of instruction” means any course of instruction offered at the Joint Forces Staff College as Phase II joint professional military education.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div. A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1027; amended Pub. L. 101–189, div. A, title XI, §1123(c)(1), Nov. 29, 1989, 103 Stat. 1557; Pub. L. 102–190, div. A, title IX, §912(a), Dec. 5, 1991, 105 Stat. 1452; Pub. L. 103–160, div. A, title IX, §933(a), Nov. 30, 1993, 107 Stat. 1735; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title X, §1048(a)(6), Dec. 28, 2001, 115 Stat. 1223.)
 
 #### Amendments
 
-2000—Subsec. (e). Pub. L. 106–398 substituted “Joint Forces Staff College” for “Armed Forces Staff College” wherever appearing in heading and text.
+2001—Subsec. (e). Pub. L. 107–107 substituted “Joint Forces Staff College” for “Armed Forces Staff College” in subsec. heading and in text of par. (1).
+
+2000—Subsec. (e)(2). Pub. L. 106–398 substituted “Joint Forces Staff College” for “Armed Forces Staff College”.
 
 1993—Subsec. (d). Pub. L. 103–160 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “
 

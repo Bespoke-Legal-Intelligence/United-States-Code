@@ -34,7 +34,7 @@ Except where such authority is expressly given by this title to any person other
 
 #### (6) Congressional authorization
 
-&emsp;The limitation of paragraph (1) may be superseded by a legislative grant from Congressauthorizing the Secretary to prescribe the effective date with respect to any regulation.
+&emsp;The limitation of paragraph (1) may be superseded by a legislative grant from Congress authorizing the Secretary to prescribe the effective date with respect to any regulation.
 
 #### (7) Election to apply retroactively
 

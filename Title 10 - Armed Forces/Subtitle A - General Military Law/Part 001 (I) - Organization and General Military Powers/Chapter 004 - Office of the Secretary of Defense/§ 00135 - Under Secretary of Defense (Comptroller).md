@@ -32,7 +32,7 @@
 
 &emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 99–433, title I, §107, Oct. 1, 1986, 100 Stat. 998, §137; renumbered §135 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, §903(a)(1), (2),Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title XV, §1502(a)(6), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 99–433, title I, §107, Oct. 1, 1986, 100 Stat. 998, §137; renumbered §135 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(2), 902(a)(1), (b), Nov. 30, 1993, 107 Stat. 1726, 1727; Pub. L. 103–337, div. A, title IX, §903(a)(1), (2), Oct. 5, 1994, 108 Stat. 2823; Pub. L. 104–106, div. A, title XV, §1502(a)(6), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### Prior Provisions
 

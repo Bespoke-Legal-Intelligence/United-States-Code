@@ -4,7 +4,7 @@
 
 (b) Regulations of the Secretary concerned relating to pay and allowances matters, similar to those covered by subsection (a), for members of the Coast Guard, the National Oceanic and Atmospheric Administration, and the Public Health Service, shall, as far as practicable, conform to regulations approved under that subsection.
 
-(c) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, orthe Secretary of Health and Human Services, may obtain from the Comptroller General an advisory opinion with respect to a proposed regulation especially affecting a department under that Secretary's jurisdiction.
+(c) The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, or the Secretary of Health and Human Services, may obtain from the Comptroller General an advisory opinion with respect to a proposed regulation especially affecting a department under that Secretary's jurisdiction.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 89–718, §§49(a)(1), 69, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §516(22), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
 

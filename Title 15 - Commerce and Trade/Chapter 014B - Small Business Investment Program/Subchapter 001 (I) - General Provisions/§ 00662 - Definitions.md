@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(ii) the net income (so determined) less any deduction for State (and local) income taxes calculated under clause (i), multiplied by the marginal Federal income tax rate that would have applied if the business concern were a corporation;
 
-&emsp;(6) the term “development companies” means enterprises incorporated under State law with the authority to promote and assist the growth and development of small-business concerns in the areas covered by their operations;
+&emsp;(6) the term “development companies” means enterprises incorporated under State law with the authority to promote and assist the growth and development of small-businessconcerns in the areas covered by their operations;
 
 &emsp;(7) the term “license” means a license issued by the Administration as provided in section 681 of this title;
 
@@ -98,7 +98,7 @@ As used in this chapter—
 
 &emsp;(17) the term “long term”, when used in connection with equity capital or loan funds invested in any small business concern or smaller enterprise, means any period of time not less than 1 year.
 
-(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat.1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, §1(a)(9) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690.)
+(Pub. L. 85–699, title I, §103, Aug. 21, 1958, 72 Stat. 690; Pub. L. 86–502, §3, June 11, 1960, 74 Stat. 196; Pub. L. 87–341, §2, Oct. 3, 1961, 75 Stat. 752; Pub. L. 92–595, §2(a), Oct. 27, 1972, 86 Stat. 1314; Pub. L. 94–305, title I, §106(a), June 4, 1976, 90 Stat. 666; Pub. L. 102–366, title IV, §410, Sept. 4, 1992, 106 Stat. 1017; Pub. L. 104–208, div. D, title II, §208(a), Sept. 30, 1996, 110 Stat. 3009–739; Pub. L. 105–135, title II, §213, Dec. 2, 1997, 111 Stat. 2601; Pub. L. 106–9, §2(c), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–554, §1(a)(9) \[title IV, §402\], Dec. 21, 2000, 114 Stat. 2763, 2763A–690.)
 
 #### References in Text
 
@@ -160,5 +160,5 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 683 of this title; title 12 section 635; title 18 section 20.
+This section is referred to in section 683 of this title; title 12 section 635; title 18 sections 20, 1014.
 

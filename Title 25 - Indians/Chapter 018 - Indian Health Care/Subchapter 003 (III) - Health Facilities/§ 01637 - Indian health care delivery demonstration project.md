@@ -34,7 +34,7 @@ The Secretary, in approving projects pursuant to this section, may authorize fun
 
 &emsp;(F) The Indian tribe or tribal organization has the administrative and financial capability to administer the project.
 
-&emsp;(G) The project is integrated with providers of related health and social services and iscoordinated with, and avoids duplication of, existing services.
+&emsp;(G) The project is integrated with providers of related health and social services and is coordinated with, and avoids duplication of, existing services.
 
 (2) The Secretary may provide for the establishment of peer review panels, as necessary, to review and evaluate applications and to advise the Secretary regarding such applications using the criteria developed pursuant to paragraph (1).
 
@@ -74,7 +74,7 @@ For purposes of subsection (c)(1)(A) of this section, the Secretary shall, in ev
 
 #### (g) Equitable integration of facilities
 
-The Secretary shall ensure that the planning, design, construction, and renovation needs of Service and non-Service facilities which are the subject of a contract for health services entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
+The Secretary shall ensure that the planning, design, construction, and renovation needs ofService and non-Service facilities which are the subject of a contract for health services entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
 
 #### (h) Report to Congress
 

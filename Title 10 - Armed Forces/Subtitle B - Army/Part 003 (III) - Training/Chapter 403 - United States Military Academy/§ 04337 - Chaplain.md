@@ -1,8 +1,8 @@
 ### §4337. Chaplain
 
-There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to the same allowances for public quarters as are allowed to a captain, and to fuel and light for quarters in kind. The chaplain may be reappointed.
+There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to a monthly housing allowance in the same amount as the basic allowance for housing allowed to a lieutenant colonel, and to fuel and light for quarters in kind. The chaplain may be reappointed.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 87–651, title I, §117, Sept. 7, 1962, 76 Stat. 513.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 87–651, title I, §117, Sept. 7, 1962, 76 Stat. 513; Pub. L. 107–107, div. A, title V, §540(a), Dec. 28, 2001, 115 Stat. 1109.)
 
 Historical and Revision Notes<br>1956
 
@@ -30,7 +30,13 @@ The change reflects the opinion of the Assistant General Counsel, Civil Service 
 
 #### Amendments
 
+2001—Pub. L. 107–107 substituted “a monthly housing allowance in the same amount as the basic allowance for housing allowed to a lieutenant colonel” for “the same allowances for public quarters as are allowed to a captain”.
+
 1962—Pub. L. 87–651 struck out provisions which prescribed the salary of chaplain on appointment and reappointment.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §540(b), Dec. 28, 2001, 115 Stat. 1109, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Delegation of Functions
 

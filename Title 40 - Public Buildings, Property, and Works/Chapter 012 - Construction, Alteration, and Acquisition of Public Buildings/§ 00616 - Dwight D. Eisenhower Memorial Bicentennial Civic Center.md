@@ -42,7 +42,7 @@ The full faith and credit of the Government of the District of Columbia is hereb
 
 (1) The Mayor is authorized to accept and administer gifts, personal services, securities, or other property of whatever character to aid in carrying out the purposes of this section.
 
-(2) The Mayor is further authorized to provide for the operation of any or all aspects of the civic center by any department or agency of the Government of the District of Columbia, or may provide for the performance of such operations, including the use or rental of the civic center or its equipment, motor vehicle parking facilities, concessions, and other activities, by contract entered into with any person, copartnership, corporation, or other public or private entity, upon such terms and conditions as may be stipulated in the agreements, and for such purposes may utilize or employ the services of personnel of any agency or instrumentality of the United States or the District of Columbia, with the consent of such agency or instrumentality, upon a reimbursable or nonreimbursable basis, and may utilize voluntary or uncompensated personnel.
+(2) The Mayor is further authorized to provide for the operation of any or all aspects of the civic center by any department or agency of the Government of the District of Columbia, or may provide for the performance of such operations, including the use or rental of the civic center or its equipment, motor vehicle parking facilities, concessions, and other activities, by contract entered into with any person, copartnership, corporation, or other public or private entity, upon such terms and conditions as may be stipulated in the agreements, and for such purposes may utilize or employ the services of personnelof any agency or instrumentality of the United States or the District of Columbia, with the consent of such agency or instrumentality, upon a reimbursable or nonreimbursable basis, and may utilize voluntary or uncompensated personnel.
 
 (Pub. L. 86–249, §18, as added Pub. L. 92–520, §3, Oct. 21, 1972, 86 Stat. 1019; amended Pub. L. 93–198, title IV, §§401, 421, Dec. 24, 1973, 87 Stat. 785, 789.)
 
@@ -62,7 +62,7 @@ Section 41(a) of Pub. L. 92–520 provided that this section and provisions set 
 
 Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in text for “commissioner”.
 
-“Council of the District of Columbia” substituted in text for “District of Columbia Council” pursuant tosection 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
+“Council of the District of Columbia” substituted in text for “District of Columbia Council” pursuant to section 401 of Pub. L. 93–198. District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 
 #### Abolition of Committees on the District of Columbia
 

@@ -90,13 +90,13 @@ Center for Fire Research.—At the request of the Consumer Product Safety Commis
 
 Commission.—The Consumer Product Safety Commission shall—
 
-&emsp;“(1) design and implement a study to collect baseline and followup data about the characteristics ofcigarettes, products ignited, and smokers involved in fires, and
+&emsp;“(1) design and implement a study to collect baseline and followup data about the characteristics of cigarettes, products ignited, and smokers involved in fires, and
 
 &emsp;“(2) develop information on societal costs of cigarette-ignited fires.
 
 “(c)
 
-Health and Human Services.—The Consumer Product Safety Commission, in consultation with the Secretary of Health and Human Services, shall develop information on changes in the toxicity of smoke and resultant health effects from cigarette prototypes. The Commission shall not obligate more than $50,000 to develop such information.
+Health and Human Services.—The Consumer Product Safety Commission, in consultation with the Secretary of Health and Human Services, shall developinformation on changes in the toxicity of smoke and resultant health effects from cigarette prototypes. The Commission shall not obligate more than $50,000 to develop such information.
 
 #### “SEC. 3. ADVISORY GROUP.
 

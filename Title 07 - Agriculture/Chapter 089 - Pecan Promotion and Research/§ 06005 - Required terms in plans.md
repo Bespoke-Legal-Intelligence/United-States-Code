@@ -22,7 +22,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 &emsp;&emsp;(B) 4 members who are shellers;
 
-&emsp;&emsp;(C) one member who is a first handler and who derives over 50 percent of the member'sgross income from buying and selling pecans;
+&emsp;&emsp;(C) one member who is a first handler and who derives over 50 percent of the member's gross income from buying and selling pecans;
 
 &emsp;&emsp;(D) one member who is an importer of pecans into the United States, nominated by the Board;
 
@@ -110,7 +110,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 #### (A) In general
 
-&emsp;&emsp;The members of the Board shall serve for a term of 3 years, except that the membersappointed to the initial Board established under paragraph (8)(G) shall serve, proportionately, for terms of 1, 2, and 3 years, as determined by the Secretary.
+&emsp;&emsp;The members of the Board shall serve for a term of 3 years, except that the members appointed to the initial Board established under paragraph (8)(G) shall serve, proportionately, for terms of 1, 2, and 3 years, as determined by the Secretary.
 
 #### (B) Termination of terms
 
@@ -310,7 +310,7 @@ The Board shall not engage in any action to, nor shall any funds received by the
 
 #### (i) Use of assessments
 
-The plan shall provide that the assessments collected under section 6007 of this title shall be used for payment of the expenses in implementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
+The plan shall provide that the assessments collected under section 6007 of this title shall beused for payment of the expenses in implementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
 
 #### (j) Other terms and conditions
 

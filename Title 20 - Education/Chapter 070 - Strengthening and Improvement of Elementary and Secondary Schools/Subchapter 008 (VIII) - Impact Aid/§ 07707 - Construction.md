@@ -40,115 +40,231 @@
 
 &emsp;Any local educational agency that receives funds under this subsection shall use such funds for construction, as defined in section 7713(3) of this title.
 
-#### (b) School facility modernization grants authorized
+#### (b) School facility emergency and modernization grants authorized
 
 #### (1) In general
 
-&emsp;From 60 percent of the amount appropriated for each fiscal year under section 7714(e) ofthis title, the Secretary shall award grants in accordance with this subsection to eligible local educational agencies to enable the local educational agencies to carry out modernization of school facilities.
+&emsp;From 60 percent of the amount appropriated for each fiscal year under section 7714(e) of this title, the Secretary—
 
-#### (2) Eligibility requirements
+&emsp;&emsp;(A) shall award emergency grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out emergency repairs of school facilities; and
 
-&emsp;A local educational agency is eligible to receive funds under this subsection only if—
+&emsp;&emsp;(B) shall award modernization grants in accordance with this subsection to eligible local educational agencies to enable the agencies to carry out the modernization of school facilities.
 
-&emsp;&emsp;(A) such agency (or in the case of a local educational agency that does not have the authority to tax or issue bonds, such agency's fiscal agent) has no capacity to issue bonds or is at such agency's limit in bonded indebtedness for the purposes of generating funds for capital expenditures, except that a local educational agency that is eligible to receive funds under section 7703(b)(2) of this title shall be deemed to meet the requirements of this subparagraph; and
+#### (2) Priority
 
-&emsp;&emsp;(B)(i) such agency received assistance under section 7702(a) of this title for the fiscal year and has an assessed value of taxable property per student in the school district that is less than the average of the assessed value of taxable property per student in the State in which the local educational agency is located; or
+&emsp;In approving applications from local educational agencies for emergency grants and modernization grants under this subsection, the Secretary shall give priority to applications in accordance with the following:
 
-&emsp;&emsp;(ii) such agency received assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
+&emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants fromlocal educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-#### (3) Award criteria
+&emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-&emsp;In awarding grants under this subsection the Secretary shall consider one or more of the following factors:
+&emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
-&emsp;&emsp;(A) The extent to which the local educational agency lacks the fiscal capacity to undertake the modernization project without Federal assistance.
+&emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
-&emsp;&emsp;(B) The extent to which property in the local educational agency is nontaxable due to the presence of the Federal Government.
+#### (3) Eligibility requirements
 
-&emsp;&emsp;(C) The extent to which the local educational agency serves high numbers or percentages of children described in subparagraphs (A), (B), (C), and (D) of section 7703(a)(1) of this title.
+#### (A) Emergency grants
 
-&emsp;&emsp;(D) The need for modernization to meet—
+&emsp;&emsp;A local educational agency is eligible to receive an emergency grant under paragraph (2)(A) if—
 
-&emsp;&emsp;&emsp;(i) the threat that the condition of the school facility poses to the health, safety, and well-being of students;
+&emsp;&emsp;&emsp;(i) the agency (or in the case of a local educational agency that does not have the authority to tax or issue bonds, the agency's fiscal agent)—
 
-&emsp;&emsp;&emsp;(ii) overcrowding conditions as evidenced by the use of trailers and portable buildings and the potential for future overcrowding because of increased enrollment; and
+&emsp;&emsp;&emsp;&emsp;(I) has no practical capacity to issue bonds;
 
-&emsp;&emsp;&emsp;(iii) facility needs resulting from actions of the Federal Government.
+&emsp;&emsp;&emsp;&emsp;(II) has minimal capacity to issue bonds and is at not less than 75 percent of the agency's limit of bonded indebtedness; or
 
-&emsp;&emsp;(E) The age of the school facility to be modernized.
+&emsp;&emsp;&emsp;&emsp;(III) does not meet the requirements of subclauses (I) and (II) but is eligible to receive funds under section 7703(b)(2) of this title for the fiscal year; and
 
-#### (4) Other award provisions
+&emsp;&emsp;&emsp;(ii) the agency is eligible to receive assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
 
-#### (A) Federal share
+#### (B) Modernization grants
 
-&emsp;&emsp;The Federal funds provided under this subsection to a local educational agency described in subparagraph (C) shall not exceed 50 percent of the total cost of the project to be assisted under this subsection. A local educational agency may use in-kind contributions to meet the matching requirement of the preceding sentence.
+&emsp;&emsp;A local educational agency is eligible to receive a modernization grant under paragraph (2)(C) if—
 
-#### (B) Maximum grant
+&emsp;&emsp;&emsp;(i) the agency is eligible to receive assistance under this subchapter for the fiscal year;
 
-&emsp;&emsp;A local educational agency described in subparagraph (C) may not receive a grant under this subsection in an amount that exceeds $3,000,000 during any 5-year period.
+&emsp;&emsp;&emsp;(ii) the agency (or in the case of a local educational agency that does not have the authority to tax or issue bonds, the agency's fiscal agent) meets the requirements of subclause (I), (II), or (III) of subparagraph (A)(i); and
 
-#### (C) Local educational agency described
+&emsp;&emsp;&emsp;(iii) the agency has facility needs resulting from the presence of the Federal Government, such as the enrollment of federally connected children, the presence of tax-exempt Federal property, or an increase in enrollment due to the expansion of Federal activities, housing privatization, or the acquisition of Federal property.
 
-&emsp;&emsp;A local educational agency described in this subparagraph is a local educational agency that has the authority to issue bonds but is at such agency's limit in bonded indebtedness for the purposes of generating funds for capital expenditures.
+#### (C) Additional eligibility for emergency and modernization grants
 
-#### (5) Applications
+&emsp;&emsp;(i) A local educational agency is eligible to receive an emergency grant or a modernization grant under subparagraph (B) or (D) of paragraph (2), respectively, if the agency meets the following requirements:
 
-&emsp;A local educational agency that desires to receive a grant under this subsection shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each application shall contain—
+&emsp;&emsp;&emsp;(I) The agency receives a basic support payment under section 7703(b) of this title for the fiscal year and the agency meets at least one of the following requirements:
 
-&emsp;&emsp;(A) documentation certifying such agency's lack of bonding capacity;
+&emsp;&emsp;&emsp;&emsp;(aa) The number of children determined under section 7703(a)(1)(C) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
-&emsp;&emsp;(B) a listing of the school facilities to be modernized, including the number and percentage of children determined under section 7703(a)(1) of this title in average daily attendance in each school facility;
+&emsp;&emsp;&emsp;&emsp;(bb) The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1)of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
-&emsp;&emsp;(C) a description of the ownership of the property on which the current school facility is located or on which the planned school facility will be located;
+&emsp;&emsp;&emsp;(II) The agency (or in the case of a local educational agency that does not have the authority to tax or issue bonds, the agency's fiscal agent) is at not less than 75 percent of the agency's limit of bonded indebtedness.
 
-&emsp;&emsp;(D) a description of any school facility deficiency that poses a health or safety hazard to the occupants of the school facility and a description of how that deficiency will be repaired;
+&emsp;&emsp;&emsp;(III) The agency has an assessed value of real property per student that may be taxed for school purposes that is less than the average of the assessed value of real property per student that may be taxed for school purposes in the State in which the local educational agency is located.
 
-&emsp;&emsp;(E) a description of the modernization to be supported with funds provided under this subsection;
+&emsp;&emsp;(ii) A local educational agency is also eligible to receive a modernization grant under this subparagraph if the agency is eligible to receive assistance under section 7702 of this title for the fiscal year and meets the requirements of subclauses (II) and (III) of clause (i).
 
-&emsp;&emsp;(F) a cost estimate of the proposed modernization; and
+#### (D) Special rule
 
-&emsp;&emsp;(G) such other information and assurances as the Secretary may reasonably require.
+#### (i) In general
 
-#### (6) Emergency grants
+&emsp;&emsp;&emsp;Any school described in clause (ii) that desires to receive an emergency grant or a modernization grant under subparagraph (B) or (D) of paragraph (2), respectively, shall, except as provided in the following sentence, submit an application in accordance with paragraph (6), and shall otherwise be treated as a local educational agency for the purpose of this subsection. The school shall submit an application for the grant to the local educational agency of such school and the agency shall submit the application on behalf of the school to the Secretary.
 
-#### (A) Applications
+#### (ii) School described
 
-&emsp;&emsp;Each local educational agency described in paragraph (2)(B)(ii) that desires a grant under this subsection shall include in the application submitted under paragraph (5) a signed statement from an appropriate local official certifying that a health or safety deficiency exists.
+&emsp;&emsp;&emsp;A school described in this clause is a school that meets the following requirements:
 
-#### (B) Priority
+&emsp;&emsp;&emsp;&emsp;(I) The school is located within the geographic boundaries of a local educational agency that does not meet the applicable eligibility requirements under subparagraph (A), (B), or (C) for a grant under this subsection.
 
-&emsp;&emsp;If the Secretary receives more than one application from local educational agencies described in paragraph (2)(B)(ii) for grants under this subsection for any fiscal year, the Secretary shall give priority to local educational agencies based on the severity of the emergency, as determined by the Secretary, and when the application was received.
+&emsp;&emsp;&emsp;&emsp;(II) The school meets at least one of the following requirements:
 
-#### (C) Allocation; reporting requirement
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) The number of children determined under section 7703(a)(1)(C) of this title for the school for the preceding school year constituted at least 40 percent of the total student enrollment in the school during the preceding school year.
 
-#### (i) Allocation
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title for the school for the preceding school year constituted at least 40 percent of the total student enrollment in the school during the preceding school year.
 
-&emsp;&emsp;&emsp;In awarding grants under this subsection to local educational agencies described in paragraph (2)(B)(ii), the Secretary shall consider all applications received from local educational agencies that meet the requirement of subsection (a)(2)(A) of this section and local educational agencies that meet the requirement of subsection (a)(2)(B) of this section.
+&emsp;&emsp;&emsp;&emsp;(III) The school is located within the geographic boundaries of a local educational agency that meets the requirements of subclauses (II) and (III) of subparagraph (C)(i).
 
-#### (ii) Reporting requirement
+#### (E) Rule of construction
+
+&emsp;&emsp;For purposes of subparagraph (A)(i), a local educational agency—
+
+&emsp;&emsp;&emsp;(i) has no practical capacity to issue bonds if the total assessed value of real property that may be taxed for school purposes is less than $25,000,000; and
+
+&emsp;&emsp;&emsp;(ii) has minimal capacity to issue bonds if the total assessed value of real property that may be taxed for school purposes is at least $25,000,000 but not more than $50,000,000.
+
+#### (4) Award criteria
+
+&emsp;In awarding emergency grants and modernization grants under this subsection, the Secretary shall consider the following factors:
+
+&emsp;&emsp;(A) The ability of the local educational agency to respond to the emergency, or to pay for the modernization project, as the case may be, as measured by—
+
+&emsp;&emsp;&emsp;(i) the agency's level of bonded indebtedness;
+
+&emsp;&emsp;&emsp;(ii) the assessed value of real property per student that may be taxed for school purposes compared to the average of the assessed value of real property per student that may be taxed for school purposes in the State in which the agency is located;
+
+&emsp;&emsp;&emsp;(iii) the agency's total tax rate for school purposes (or, if applicable, for capital expenditures) compared to the average total tax rate for school purposes (or the average capital expenditure tax rate, if applicable) in the State in which the agency is located; and
+
+&emsp;&emsp;&emsp;(iv) funds that are available to the agency, from any other source, including subsection (a) of this section, that may be used for capital expenditures.
+
+&emsp;&emsp;(B) The percentage of property in the agency that is nontaxable due to the presence of the Federal Government.
+
+&emsp;&emsp;(C) The number and percentages of children described in subparagraphs (A), (B), (C), and (D) of section 7703(a)(1) of this title served in the school facility with the emergency or served in the school facility proposed for modernization, as the case may be.
+
+&emsp;&emsp;(D) In the case of an emergency grant, the severity of the emergency, as measured by the threat that the condition of the school facility poses to the health, safety, and well-being of students.
+
+&emsp;&emsp;(E) In the case of a modernization grant—
+
+&emsp;&emsp;&emsp;(i) the severity of the need for modernization, as measured by such factors as—
+
+&emsp;&emsp;&emsp;&emsp;(I) overcrowding, as evidenced by the use of portable classrooms, or the potential for future overcrowding because of increased enrollment; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the agency's inability to utilize technology or offer a curriculum in accordance with contemporary State standards due to the physical limitations of the current school facility; and
+
+&emsp;&emsp;&emsp;(ii) the age of the school facility proposed for modernization.
+
+#### (5) Other award provisions
+
+#### (A) General provisions
+
+#### (i) Limitations on amount of funds
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than January 1 of each year, the Secretary shall prepare and submit to the appropriate congressional committees a report that contains a justification for each grant awarded under this subsection for the prior fiscal year.
+&emsp;&emsp;&emsp;&emsp;The amount of funds provided under an emergency grant or a modernization grant awarded under this subsection to a local educational agency that meets the requirements of subclause (II) or (III) of paragraph (3)(A)(i) for purposes of eligibility under subparagraph (A) or (B) of paragraph (3) or that meets the requirements of clause (i) or (ii) of paragraph (3)(C) for purposes of eligibility under such paragraph (3)(C), or to a school that is eligible under paragraph (3)(D)—
 
-#### (II) Definition
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) shall not exceed 50 percent of the total cost of the project to be assisted under this subsection; and
 
-&emsp;&emsp;&emsp;&emsp;In this clause, the term “appropriate congressional committees” means the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives and the Committee on Appropriations and the Committee on Health, Education, Labor and Pensions of the Senate.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) shall not exceed $4,000,000 during any 4-year period.
 
-#### (D) Consideration for following year
+#### (II) In-kind contributions
 
-&emsp;&emsp;A local educational agency described in paragraph (2)(B)(ii) that applies for a grant under this subsection for any fiscal year and does not receive the grant shall have the application for the grant considered for the following fiscal year, subject to the priority described in subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;A local educational agency may use in-kind contributions to meet the matching requirement of subclause (I)(aa).
 
-#### (7) Supplement not supplant
+#### (ii) Prohibitions on use of funds
 
-&emsp;An eligible local educational agency shall use funds received under this subsection only to supplement the amount of funds that would, in the absence of such Federal funds, be made available from non-Federal sources for the modernization of school facilities used for educational purposes, and not to supplant such funds.
+&emsp;&emsp;&emsp;A local educational agency may not use funds provided under an emergency grant or modernization grant awarded under this subsection for—
 
-(Pub. L. 89–10, title VIII, §8007, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3763; amended Pub. L. 104–134, title I, §101(d) \[title III, §306(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–236; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–383.)
+&emsp;&emsp;&emsp;&emsp;(I) a project for a school facility for which the agency does not have full title or other interest;
+
+&emsp;&emsp;&emsp;&emsp;(II) stadiums or other school facilities that are primarily used for athletic contests, exhibitions, or other events for which admission is charged to the general public; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the acquisition of real property.
+
+#### (iii) Supplement, not supplant
+
+&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sources to carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
+
+#### (iv) Maintenance costs
+
+&emsp;&emsp;&emsp;Nothing in this subsection shall be construed to authorize the payment of maintenance costs in connection with any school facility modernized in whole or in part with Federal funds provided under this subsection.
+
+#### (v) Environmental safeguards
+
+&emsp;&emsp;&emsp;All projects carried out with Federal funds provided under this subsection shall comply with all relevant Federal, State, and local environmental laws and regulations.
+
+#### (vi) Carry-over of certain applications
+
+&emsp;&emsp;&emsp;A local educational agency that applies for an emergency grant or a modernization grant under this subsection for a fiscal year and does not receive the grant for the fiscal year shall have the application for the grant considered for the following fiscal year, subject to the priority requirements of paragraph (2) and the award criteria requirements of paragraph (4).
+
+#### (B) Emergency grants; prohibition on use of funds
+
+&emsp;&emsp;A local educational agency that is awarded an emergency grant under this subsection may not use amounts under the grant for the complete or partial replacement of an existing school facility unless such replacement is less expensive or more cost-effective than correcting the identified emergency.
+
+#### (6) Application
+
+&emsp;A local educational agency that desires to receive an emergency grant or a modernization grant under this subsection shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require. Each application shall contain the following:
+
+&emsp;&emsp;(A) A description of how the local educational agency meets the award criteria under paragraph (4), including the information described in clauses (i) through (iv) of paragraph (4)(A) and subparagraphs (B) and (C) of paragraph (4).
+
+&emsp;&emsp;(B) In the case of an application for an emergency grant—
+
+&emsp;&emsp;&emsp;(i) a description of the school facility deficiency that poses a health or safety hazard to the occupants of the facility and a description of how the deficiency will be repaired; and
+
+&emsp;&emsp;&emsp;(ii) a signed statement from an appropriate local official certifying that a deficiency in the school facility threatens the health or safety of the occupants of the facility or that prevents the use of all or a portion of the building.
+
+&emsp;&emsp;(C) In the case of an application for a modernization grant—
+
+&emsp;&emsp;&emsp;(i) an explanation of the need for the school facility modernization project;
+
+&emsp;&emsp;&emsp;(ii) the date on which original construction of the facility to be modernized was completed;
+
+&emsp;&emsp;&emsp;(iii) a listing of the school facilities to be modernized, including the number and percentage of children determined under section 7703(a)(1) of this title in average daily attendance in each school facility; and
+
+&emsp;&emsp;&emsp;(iv) a description of the ownership of the property on which the current school facility is located or on which the planned school facility will be located.
+
+&emsp;&emsp;(D) A description of the project for which a grant under this subsection will be used, including a cost estimate for the project.
+
+&emsp;&emsp;(E) A description of the interest in, or authority over, the school facility involved, such as an ownership interest or a lease arrangement.
+
+&emsp;&emsp;(F) Such other information and assurances as the Secretary may reasonably require.
+
+#### (7) Report
+
+#### (A) In general
+
+&emsp;&emsp;Not later than January 1 of each year, the Secretary shall prepare and submit to the appropriate congressional committees a report that contains a justification for each grant awarded under this subsection for the prior fiscal year.
+
+#### (B) Definition
+
+&emsp;&emsp;In this paragraph, the term “appropriate congressional committees” means—
+
+&emsp;&emsp;&emsp;(i) the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives; and
+
+&emsp;&emsp;&emsp;(ii) the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+(Pub. L. 89–10, title VIII, §8007, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3763; amended Pub. L. 104–134, title I, §101(d) \[title III, §306(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–236; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–383; Pub. L. 107–110, title VIII, §803, Jan. 8, 2002, 115 Stat. 1950.)
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–110 amended heading and text generally, reorganizing and revising provisions relating to emergency and modernization grants.
 
 2000—Pub. L. 106–398 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) authorizing payments to certain local educational agencies for construction.
 
 1996—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -18,5 +18,5 @@ Pub. L. 102–83, §4(a)(1), substituted “administered by the Secretary” for
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5111, 5301, 5304 of this title.
+This section is referred to in sections 5111, 5301, 5304 of this title; title 10 section 1414.
 

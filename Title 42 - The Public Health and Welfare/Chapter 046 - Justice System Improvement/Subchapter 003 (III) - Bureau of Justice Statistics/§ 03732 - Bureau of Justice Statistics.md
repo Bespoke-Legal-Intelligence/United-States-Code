@@ -186,7 +186,7 @@ Findings.—Congress finds that—
 
 &emsp;&emsp;“(C) identify programs, policies, or laws that hold promises for making the justice system more responsive to crimes against individuals with developmental disabilities; and
 
-&emsp;“(5) the National Academy of Science Committee on Law and Justice of the National Research Council is a premier research institution with unique experience in developing seminal, multidisciplinary studies to establish a strong research base from which to make public policy.
+&emsp;“(5) the National Academy of Science Committee on Law and Justice of the National Research Councilis a premier research institution with unique experience in developing seminal, multidisciplinary studies to establish a strong research base from which to make public policy.
 
 “(b)
 

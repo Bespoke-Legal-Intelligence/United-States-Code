@@ -4,7 +4,7 @@
 
 In General.—The value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
 
-&emsp;(1) in the case of a program operating on a Statewide basis, other than a program referred to in clause (3) or (4), $300,000;
+&emsp;(1) in the case of a program operating on a Statewide basis, other than a program referred to in clause (3) or (4), $600,000;
 
 &emsp;(2) in the case of a program operating on less than a Statewide basis, other than a program referred to in clause (3) or (4), $150,000;
 
@@ -16,9 +16,11 @@ In General.—The value of the assistance furnished by the Secretary to any elig
 
 Determinations on Scope of Operations.—A determination of whether a procurement technical assistance program is operating on a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in section 2411(1)(D) of this title shall be made in accordance with regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2606; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 100–456, div. A, title VIII, §841(a), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, §819(c), Nov. 29, 1989, 103 Stat. 1503; Pub. L. 102–25, title VII, §701(f)(7), Apr. 6, 1991, 105 Stat. 115.)
+(Added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2606; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 100–456, div. A, title VIII, §841(a), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, §819(c), Nov. 29, 1989, 103 Stat. 1503; Pub. L. 102–25, title VII, §701(f)(7), Apr. 6, 1991, 105 Stat. 115; Pub. L. 107–107, div. A, title VIII, §813, Dec. 28, 2001, 115 Stat. 1181.)
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–107 substituted “$600,000” for “$300,000”.
 
 1991—Subsec. (b). Pub. L. 102–25 substituted “section 2411(1)(D)” for “section 2411(a)(1)(D)”.
 

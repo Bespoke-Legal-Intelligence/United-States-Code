@@ -10,7 +10,7 @@ It shall be unlawful for any person to manufacture or distribute a controlled su
 
 #### (b) Possession, manufacture, or distribution by person on board aircraft
 
-It shall be unlawful for any United States citizen on board any aircraft, or any person on board an aircraft owned by a United States citizen or registered in the United States, to—
+It shall be unlawful for any United States citizen on board any aircraft, or any person onboard an aircraft owned by a United States citizen or registered in the United States, to—
 
 &emsp;(1) manufacture or distribute a controlled substance or listed chemical; or
 

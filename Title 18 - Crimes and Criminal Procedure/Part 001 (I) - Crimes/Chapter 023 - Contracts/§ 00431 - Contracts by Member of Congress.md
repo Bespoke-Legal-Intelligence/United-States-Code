@@ -4,7 +4,7 @@ Whoever, being a Member of or Delegate to Congress, or a Resident Commissioner, 
 
 All contracts or agreements made in violation of this section shall be void; and whenever any sum of money is advanced by the United States or any agency thereof, in consideration of any such contract or agreement, it shall forthwith be repaid; and in case of failure or refusal to repay the same when demanded by the proper officer of the department or agency under whose authority such contract or agreement shall have been made or entered into, suit shall at once be brought against the person so failing or refusing and his sureties for the recovery of the money so advanced.
 
-(June 25, 1948, ch. 645, 62 Stat. 702; Oct. 31, 1951, ch. 655, §19, 65 Stat. 717; Pub. L. 103–322, titleXXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 702; Oct. 31, 1951, ch. 655, §19, 65 Stat. 717; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to foster a range of innovative approaches to the management and communication of health information, the Agency shall conduct and support research, evaluations, and initiatives to advance—
+In order to foster a range of innovative approaches to the management and communication of health information, the Agency shallconduct and support research, evaluations, and initiatives to advance—
 
 &emsp;(1) the use of information systems for the study of health care quality and outcomes, including the generation of both individual provider and plan-level comparative performance data;
 

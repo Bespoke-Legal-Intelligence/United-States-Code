@@ -40,7 +40,7 @@ The Commission shall be composed of twenty members as follows:
 
 &emsp;(15) Three individuals appointed by the Secretary of the Interior from a list of individuals nominated by the mayor of Saint Louis, Missouri, and the Governor of the State of Missouri.
 
-> Individuals nominated for appointment under paragraphs (14) and (15) shall be individuals who have knowledge and experience in one or more of the fields of parks and recreation, environmental protection, historic preservation, cultural affairs, tourism, economic development,city planning and management, finance, or public administration. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+> Individuals nominated for appointment under paragraphs (14) and (15) shall be individuals who have knowledge and experience in one or more of the fields of parks and recreation, environmental protection, historic preservation, cultural affairs, tourism, economic development, city planning and management, finance, or public administration. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 #### (c) Term of office of members
 
@@ -78,7 +78,7 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 
 (1) Except as provided in paragraph (2), the Commission shall terminate on the day occurring ten years after August 24, 1984.
 
-(2) The Secretary of the Interior may extend the life of the Commission for a period of not more than five years beginning on the day referred to in paragraph (1) if the Commission determines that such extension is necessary in order for the Commission to carry out sections 450jj to 450jj–9 of this title.
+(2) The Secretary of the Interior may extend the life of the Commission for a period of not more than five years beginning on the day referred to in paragraph (1) if the Commission determines that such extension is necessary inorder for the Commission to carry out sections 450jj to 450jj–9 of this title.
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
 

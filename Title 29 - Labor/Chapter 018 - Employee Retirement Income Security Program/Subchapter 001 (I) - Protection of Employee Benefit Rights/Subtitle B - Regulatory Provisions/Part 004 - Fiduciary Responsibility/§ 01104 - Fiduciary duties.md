@@ -40,6 +40,16 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 > No reports, other than those required under section 1021(g) of this title, shall be required with respect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
 
+(3) In the case of a pension plan which makes a transfer to an individual retirement account or annuity of a designated trustee or issuer under section 401(a)(31)(B) of title 26, the participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account or annuity upon—
+
+&emsp;(A) the earlier of the earlier of—
+
+&emsp;&emsp;(i) a rollover of all or a portion of the amount to another individual retirement account or annuity; or
+
+&emsp;&emsp;(ii) one year after the transfer is made; or
+
+&emsp;(B) if the transfer is made in a manner consistent with guidance provided by the Secretary.
+
 #### (d) Plan terminations
 
 (1) If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under section 4980(d) of title 26, a fiduciary shall discharge the fiduciary's duties under this subchapter and subchapter III of this chapter in accordance with the following requirements:
@@ -64,13 +74,19 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(B) any reference in this subsection to title 26 shall be a reference to title 26 as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990.
 
-(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799.)
+(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII,§12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
 The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(2)(B), is the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+
+2001—Subsec. (c)(3). Pub. L. 107–16, §§657(c)(1), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
 
 1996—Subsec. (c). Pub. L. 104–188 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -79,6 +95,12 @@ The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in s
 Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
 1980—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to distributions made after final regulations implementing section 657(c)(2)(A) of Pub. L. 107–16 are prescribed, see section 657(d) of Pub. L. 107–16, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1996 Amendment
 
@@ -102,5 +124,5 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1105, 1107, 1344, 1403 of this title.
+This section is referred to in sections 1003, 1101, 1105, 1107, 1344, 1403 of this title.
 

@@ -26,7 +26,7 @@ Close of 1984 taxable years of disc's.—
 
 &emsp;“(A)
 
-In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the taxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31,1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
+In general.—For purposes of applying the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the taxable year of each DISC which begins before January 1, 1985, and which (but for this paragraph) would include January 1, 1985, shall close on December 31, 1984. For purposes of such Code, the requirements of section 992(a)(1)(B) of such Code (relating to percentage of qualified export assets on last day of the taxable year) shall not apply to any taxable year ending on December 31, 1984.
 
 &emsp;“(B)
 
@@ -58,7 +58,7 @@ Installment treatment of certain deemed distributions of shareholders.—
 
 &emsp;“(A)
 
-In general.—Notwithstanding section 995(b) of such Code, if a shareholder of a DISC elects the application of this paragraph, any qualified distribution shall be treated, for purposes of such Code, as received by such shareholder in 10 equal installments on the last day of each of the 10 taxable years of such shareholder which begins after the first taxable year of such shareholder beginning in 1984. The preceding sentence shall apply without regard to whether the DISC exists after December 31, 1984.
+In general.—Notwithstanding section 995(b) of such Code, if a shareholder of a DISC elects the application of this paragraph, any qualified distribution shall be treated, for purposes of such Code, as received by such shareholder in 10 equal installments on the last day of each of the 10 taxable years of such shareholder which begins after the first taxable yearof such shareholder beginning in 1984. The preceding sentence shall apply without regard to whether the DISC exists after December 31, 1984.
 
 &emsp;“(B)
 

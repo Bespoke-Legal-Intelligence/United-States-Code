@@ -62,7 +62,7 @@ Subsec. (c)(4). Pub. L. 100–26, §7(a)(9)(C), substituted “the decision by a
 
 #### Effective Date of 1987 Amendment
 
-Amendment by section 3(1)(A) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted on Nov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
+Amendment by section 3(1)(A) of Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when enacted onNov. 14, 1986, see section 12(a) of Pub. L. 100–26, set out as a note under section 776 of this title.
 
 #### Performance Review Process
 

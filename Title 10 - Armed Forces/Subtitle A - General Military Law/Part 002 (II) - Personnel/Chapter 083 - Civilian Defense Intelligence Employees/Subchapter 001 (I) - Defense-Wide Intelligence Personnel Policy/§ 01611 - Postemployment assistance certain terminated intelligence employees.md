@@ -28,7 +28,7 @@ Conditions.—Assistance may be provided to a qualified former intelligence empl
 
 (d)
 
-Duration of Assistance.—Assistance may not be provided under this section in the case of any individual after the end of the five-year period beginning on the date of the termination of the employment of the individual with in <sup>1</sup> a defense intelligence position.
+Duration of Assistance.—Assistance may not be provided under this section in the case of any individual after the end of the five-year period beginning on the date of the termination of the employment of the individual in a defense intelligence position.
 
 (e)
 
@@ -40,13 +40,15 @@ Annual Report.—(1) The Secretary of Defense shall submit to the congressional 
 
 &emsp;(B) The Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate.
 
-(Added Pub. L. 103–359, title VIII, §806(a)(1), Oct. 14, 1994, 108 Stat. 3441, §1599; amended Pub. L. 104–106, div. A, title XV, §1502(a)(11), Feb. 10, 1996, 110 Stat. 503; renumbered §1611 and amended Pub. L. 104–201, div. A, title XVI, §1632(c), Sept. 23, 1996, 110 Stat. 2749; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318.)
+(Added Pub. L. 103–359, title VIII, §806(a)(1), Oct. 14, 1994, 108 Stat. 3441, §1599; amended Pub. L. 104–106, div. A, title XV, §1502(a)(11), Feb. 10, 1996, 110 Stat. 503; renumbered §1611 and amended Pub. L. 104–201, div. A, title XVI, §1632(c), Sept. 23, 1996, 110 Stat. 2749; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–318; Pub. L. 107–107, div. A, title X, §1048(a)(15), Dec. 28, 2001, 115 Stat. 1223.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 1604(e)(4) of this title and in section 17 of Pub. L. 86–36 as added by Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436, set out as a note under section 402 of Title 50, War and National Defense, prior to repeal by Pub. L. 103–359, §806(b).
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–107 struck out “with” before “in a defense intelligence position”.
 
 2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1141(b)(1)\], substituted “a defense intelligence position” for “an intelligence component of the Department of Defense”.
 
@@ -83,6 +85,4 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1612, 1613 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -12,7 +12,7 @@
 
 &emsp;(4) encourage and assist in establishing and maintaining cooperation by and between contractors and between them and other research organizations, the Department of Transportation, and other departments, agencies, and instrumentalities of the United States Government.
 
-(c) The Secretary may distribute publications containing information the Secretary considersrelevant to research carried out under this section.
+(c) The Secretary may distribute publications containing information the Secretary considers relevant to research carried out under this section.
 
 (Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2427.)
 

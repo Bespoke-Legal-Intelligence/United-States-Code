@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (2) Treatment of this section
 
-&emsp;For purposes of section 107(d) of the Natural Gas Policy Act of 1978, this section shall notbe treated as allowing any credit, exemption, deduction, or comparable adjustment applicable to the computation of any Federal tax.
+&emsp;For purposes of section 107(d) of the Natural Gas Policy Act of 1978, this section shall not be treated as allowing any credit, exemption, deduction, or comparable adjustment applicable to the computation of any Federal tax.
 
 #### (f) Application of section
 

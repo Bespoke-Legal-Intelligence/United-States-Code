@@ -12,7 +12,7 @@ Not later than January 31 of each year, the President shall submit to the Congre
 
 &emsp;(5) with respect to the countries of the South Caucasus and Central Asia—
 
-&emsp;&emsp;(A) an identification of the progress made by the United States in accomplishing thepolicy described in section 3 of the Silk Road Strategy Act of 1999;
+&emsp;&emsp;(A) an identification of the progress made by the United States in accomplishing the policy described in section 3 of the Silk Road Strategy Act of 1999;
 
 &emsp;&emsp;(B) an evaluation of the degree to which the assistance authorized by chapter 12 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2296 et seq.\] has accomplished the purposes identified in that chapter;
 
@@ -20,15 +20,15 @@ Not later than January 31 of each year, the President shall submit to the Congre
 
 &emsp;&emsp;(D) recommendations of any additional initiatives that should be undertaken by the United States to implement the policy and purposes contained in the Silk Road Strategy Act of 1999 \[22 U.S.C. 2296 et seq.\].
 
-(Pub. L. 102–511, title I, §104, Oct. 24, 1992, 106 Stat. 3324; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–126.)
+(Pub. L. 102–511, title I, §104, Oct. 24, 1992, 106 Stat. 3324; Pub. L. 106–113, div. B, §1000(a)(2)\[title V, §596(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–126.)
 
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Silk Road Strategy Act of 1999, referred to in subsec. (d)(5)(A), (D), is Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596\], Nov. 29, 1999, 113 Stat. 1535, 1501A–123, which enacted part XII (§2296 et seq.) of subchapter I of chapter 32 of this title and amended this section and section 5812 of this title. Section 3 of the Act probably refers to a section 3 which related to Policy of the United States and appeared in H.R. 1152 as introduced in the House of Representatives, but was not contained in the provisions of that bill that were incorporated into Pub. L. 106–113. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 2151 of this title and Tables.
+The Silk Road Strategy Act of 1999, referred to in par. (5)(A), (D), is Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596\], Nov. 29, 1999, 113 Stat. 1535, 1501A–123, which enacted part XII (§2296 et seq.) of subchapter I of chapter 32 of this title and amended this section and section 5812 of this title. Section 3 of the Act probably refers to a section 3 which related to Policy of the United States and appeared in H.R. 1152 as introduced in the House of Representatives, but was not contained in the provisions of that bill that were incorporated into Pub. L. 106–113. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 2151 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d)(5)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 12 of part I of the Act is classified generally to part XII \[§2296 et seq.\] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (5)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 12 of part I of the Act is classified generally to part XII \[§2296 et seq.\] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -54,6 +54,8 @@ Pub. L. 103–87, title V, §560(g), Sept. 30, 1993, 107 Stat. 967, provided tha
 
 Similar provisions relating to nonavailability of funds to any government of the new independent states of the former Soviet Union if that government directs any action in violation of the territorial integrity or national sovereignty of any other new independent state, were contained in the following appropriation acts:
 
+Pub. L. 107–115, title V, §517(b), Jan. 10, 2002, 115 Stat. 2144.
+
 Pub. L. 106–429, §101(a) \[title V, §517(b)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–27.
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §517(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–86.
@@ -74,7 +76,7 @@ Memorandum of President of the United States, Jan. 29, 1993, 58 F.R. 8201, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the “Act”) \[see Short Title note set out under section 5801 of this title\] and section 301 of Title3 of the United States Code, I hereby delegate the functions and authorities relating to the report required to be submitted not later than January 31, 1993, under section 104 of the Act \[22 U.S.C. 5814\] to the Secretary of State, who is authorized to redelegate these functions and authorities consistent with applicable law.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the FREEDOM Support Act (Public Law 102–511) (the “Act”) \[see Short Title note set out under section 5801 of this title\] and section 301 of Title 3 of the United States Code, I hereby delegate the functions and authorities relating to the report required to be submitted not later than January 31, 1993, under section 104 of the Act \[22 U.S.C. 5814\] to the Secretary of State, who is authorized to redelegate these functions and authorities consistent with applicable law.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

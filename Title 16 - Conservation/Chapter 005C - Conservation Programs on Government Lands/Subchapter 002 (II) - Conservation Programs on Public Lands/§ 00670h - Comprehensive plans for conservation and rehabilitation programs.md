@@ -54,13 +54,13 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 #### (d) State agency agreements not cooperative agreements under other provisions
 
-Agreements entered into by State agencies under the authority of this section shall not be deemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
+Agreements entered into by State agencies under the authority of this section shall not bedeemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
 (Pub. L. 86–797, title II, §202, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, §4, Dec. 31, 1982, 96 Stat. 2005.)
 
 #### References in Text
 
-The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is Pub. L. 86–517, June 12,1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
 #### Codification
 

@@ -168,7 +168,7 @@ For purposes of this section—
 
 #### (i) Controlled groups
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer under subsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as 1 employer.
+&emsp;&emsp;&emsp;For purposes of this paragraph, all persons treated as a single employer undersubsection (b), (c), (m), or (<i>o</i>) of section 414 shall be treated as 1 employer.
 
 #### (ii) Predecessors
 
@@ -334,7 +334,7 @@ For purposes of this section—
 
 #### (I) Reduction of inclusion for pre-death expenses
 
-&emsp;&emsp;&emsp;&emsp;The amount includible in gross income under clause (i) by any person (other than the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent's death and paid by such person within 1 year after such date.
+&emsp;&emsp;&emsp;&emsp;The amount includible in gross income under clause (i) by any person (other than the estate) shall be reduced by the amount of qualified medical expenses which were incurred by the decedent before the date of the decedent's death andpaid by such person within 1 year after such date.
 
 #### (II) Deduction for estate taxes
 
@@ -422,7 +422,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### (5) Additional eligibility after cut-off year
 
-&emsp;If the Secretary determines under subsection (j)(2)(A) that the numerical limit for the calendar year following a cut-off year described in paragraph (2)(B) has not been exceeded—
+&emsp;If the Secretary determines under subsection (j)(2)(A) that the numerical limit forthe calendar year following a cut-off year described in paragraph (2)(B) has not been exceeded—
 
 &emsp;&emsp;(A) this subsection shall not apply to any otherwise eligible individual who is covered under a high deductible health plan during the first 6 months of the second calendar year following the cut-off year (and such individual shall be treated as an active MSA participant for purposes of this subsection if a contribution is made to any Archer MSA with respect to such coverage), and
 
@@ -508,11 +508,11 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 &emsp;Any determination under this subsection that a calendar year is a cut-off year shall be made by the Secretary and shall be published not later than October 1 of such year.
 
-(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111 Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629.)
+(Added Pub. L. 104–191, title III, §301(a), Aug. 21, 1996, 110 Stat. 2037; amended Pub. L. 105–33, title IV, §4006(b)(2), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title XVI, §1602(a)(2), (3), Aug. 5, 1997, 111Stat. 1093, 1094; Pub. L. 106–554, §1(a)(7) \[title II, §§201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629.)
 
-#### Adjustment of Annual Deductible Amounts for Tax Years Beginning in 2001
+#### Adjustment of Annual Deductible Amounts for Tax Years Beginning in 2002
 
-<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsec. (c)(2)(A) of this section for tax years beginning in 2001, see section 3.11 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of annual deductible amounts in determining “high deductible health plan” under subsec. (c)(2)(A) of this section for tax years beginning in 2002, see section 3.13 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -520,11 +520,11 @@ The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Au
 
 #### Prior Provisions
 
-A prior section 220 was renumbered 222 of this title.
+A prior section 220 was renumbered 223 of this title.
 
 Another prior section 220, added Pub. L. 100–647, title VI, §6007(a), Nov. 10, 1988, 102 Stat. 3687, related to jury duty pay remitted to employer, prior to repeal by Pub. L. 101–508, title XI, §11802(e)(2), Nov. 5, 1990, 104 Stat. 1388–530.
 
-Another prior section 220, added Pub. L. 94–455, title XV, §1501(a), Oct. 4, 1976, 90 Stat. 1734; amended Pub. L.95–600, title I, §§156(c)(3), 157(a)(2), (b)(2), title VII, §703(c)(2), (3), Nov. 6, 1978, 92 Stat. 2803, 2804, 2939; Pub. L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204, related to retirement savings for certain married individuals, prior to repeal by Pub. L. 97–34, title III, §311(e), Aug. 13, 1981, 95 Stat. 280, applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under section 220 of this title, as in effect prior to its repeal, treated as deductions under section 219 of this title.
+Another prior section 220, added Pub. L. 94–455, title XV, §1501(a), Oct. 4, 1976, 90 Stat. 1734; amended Pub. L. 95–600, title I, §§156(c)(3), 157(a)(2), (b)(2), title VII, §703(c)(2), (3), Nov. 6, 1978, 92 Stat. 2803, 2804, 2939; Pub. L. 96–222, title I, §101(a)(14)(B), Apr. 1, 1980, 94 Stat. 204, related to retirement savings for certain married individuals, prior to repeal by Pub. L. 97–34, title III, §311(e), Aug. 13, 1981, 95 Stat. 280, applicable to taxable years beginning after Dec. 31, 1981, and deductions allowed under section 220 of this title, as in effect prior to its repeal, treated as deductions under section 219 of this title.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ There is established in the Office a program to be known as the High Intensity D
 
 #### (b) Designation
 
-The Director, upon consultation with the Attorney General, the Secretary of the Treasury, heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the United States as a high intensity drug trafficking area. After making such a designation and in order to provide Federal assistance to the area so designated, the Director may—
+The Director, upon consultation with the Attorney General, the Secretary of the Treasury,heads of the National Drug Control Program agencies, and the Governor of each applicable State, may designate any specified area of the United States as a high intensity drug trafficking area. After making such a designation and in order to provide Federal assistance to the area so designated, the Director may—
 
 &emsp;(1) obligate such sums as appropriated for the High Intensity Drug Trafficking Areas Program;
 

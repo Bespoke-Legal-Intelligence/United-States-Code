@@ -32,7 +32,7 @@ If a review of a decision to convert a lot to an alternative public use indicate
 
 #### (e) Termination of fee obligation in loss resulting from acts of God or catastrophic events
 
-On a determination by the agency that, because of an act of God or a catastrophic event,a lot cannot be safely occupied and the authorization for the lot should accordingly be terminated, the fee obligation of the cabin owner shall terminate effective on the date of the occurrence of the act or event.
+On a determination by the agency that, because of an act of God or a catastrophic event, a lot cannot be safely occupied and the authorization for the lot should accordingly be terminated, the fee obligation of the cabin owner shall terminate effective on the date of the occurrence of the act or event.
 
 (Pub. L. 106–291, title VI, §607, Oct. 11, 2000, 114 Stat. 1018.)
 

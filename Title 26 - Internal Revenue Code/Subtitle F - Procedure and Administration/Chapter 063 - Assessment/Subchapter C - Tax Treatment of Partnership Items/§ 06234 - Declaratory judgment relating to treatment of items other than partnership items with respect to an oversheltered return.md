@@ -34,7 +34,7 @@ Within 90 days, or 150 days if the notice is addressed to a person outside the U
 
 &emsp;Paragraph (1) shall not apply after the date that the taxpayer—
 
-&emsp;&emsp;(A) files a petition with the Tax Court within the time prescribed in subsection (c) with respect to a subsequent notice of adjustment relating to the same taxable year, or
+&emsp;&emsp;(A) files a petition with the Tax Court within the time prescribed in subsection (c)with respect to a subsequent notice of adjustment relating to the same taxable year, or
 
 &emsp;&emsp;(B) files a claim for refund of an overpayment of tax under section 6511 for the taxable year involved.
 
@@ -52,7 +52,7 @@ Within 90 days, or 150 days if the notice is addressed to a person outside the U
 
 #### (3) Restrictions on assessment
 
-&emsp;Except as otherwise provided in section 6851, 6852, or 6861, no assessment of a deficiency with respect to any tax imposed by subtitle Aattributable to any item (other than a partnership item or any item affected by a partnership item) shall be made—
+&emsp;Except as otherwise provided in section 6851, 6852, or 6861, no assessment of a deficiency with respect to any tax imposed by subtitle A attributable to any item (other than a partnership item or any item affected by a partnership item) shall be made—
 
 &emsp;&emsp;(A) until the expiration of the applicable 90-day or 150-day period set forth in subsection (c) for filing a petition with the Tax Court, or
 

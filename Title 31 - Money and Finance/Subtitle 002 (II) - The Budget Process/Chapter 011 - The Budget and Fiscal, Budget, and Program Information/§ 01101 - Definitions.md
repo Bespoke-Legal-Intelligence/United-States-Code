@@ -48,7 +48,7 @@ Pub. L. 98–501, title II, §201, Oct. 19, 1984, 98 Stat. 2324, provided that: 
 
 #### Executive Order No. 13037
 
-Ex. Ord. No. 13037, Mar. 3, 1997, 62 F.R. 10185, as amended by Ex. Ord. No. 13066, Oct. 29, 1997, 62 F.R. 59273; Ex. Ord. No. 13108, Dec. 11, 1998, 63 F.R. 69175, which established the Commission to Study Capital Budgeting, was revoked by Ex. Ord. No. 13138, §3(d), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13037, Mar. 3, 1997, 62 F.R. 10185, as amended by Ex. Ord. No. 13066, Oct. 29, 1997, 62 F.R. 59273; Ex. Ord. No. 13108, Dec. 11, 1998, 63 F.R. 69175, which established the Commission to Study Capital Budgeting, was revoked by Ex. Ord. No. 13138, §3(d), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Congress finds that certain areas located in the Grand Valley in Mesa County, Co
 
 #### (b) Purpose
 
-The purpose of this subchapter is to conserve, protect, and enhance for the benefit and enjoyment of present and future generations theunique and nationally important values of the public lands described in section 460mmm–2(b) of this title, including geological, cultural, paleontological, natural, scientific, recreational, environmental, biological, wilderness, wildlife education, and scenic resources of such public lands, by establishing the Colorado Canyons National Conservation Area and the Black Ridge Canyons Wilderness in the State of Colorado and the State of Utah.
+The purpose of this subchapter is to conserve, protect, and enhance for the benefit and enjoyment of present and future generations the unique and nationally important values of the public lands described in section 460mmm–2(b) of this title, including geological, cultural, paleontological, natural, scientific, recreational, environmental, biological, wilderness, wildlife education, and scenic resources of such public lands, by establishing the Colorado Canyons National Conservation Area and the Black Ridge Canyons Wilderness in the State of Colorado and the State of Utah.
 
 (Pub. L. 106–353, §2, Oct. 24, 2000, 114 Stat. 1374.)
 

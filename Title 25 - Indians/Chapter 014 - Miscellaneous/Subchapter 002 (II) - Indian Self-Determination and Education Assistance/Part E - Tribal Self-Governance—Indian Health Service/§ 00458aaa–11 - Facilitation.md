@@ -28,7 +28,7 @@ In connection with any compact or funding agreement executed pursuant to this pa
 
 &emsp;(2) may donate to an Indian tribe title to any personal or real property found to be excess to the needs of any agency of the Department, or the General Services Administration, except that—
 
-&emsp;&emsp;(A) subject to the provisions of subparagraph (B), title to property and equipment furnished by the Federal Government for use in the performance of the compact or funding agreement or purchased with funds under any compact or funding agreement shall, unless otherwise requested by the Indian tribe, vest in the appropriate Indian tribe;
+&emsp;&emsp;(A) subject to the provisions of subparagraph (B), title to property and equipment furnished by the Federal Government for use in the performance of the compact or funding agreement or purchased with funds under any compact or funding agreementshall, unless otherwise requested by the Indian tribe, vest in the appropriate Indian tribe;
 
 &emsp;&emsp;(B) if property described in subparagraph (A) has a value in excess of $5,000 at the time of retrocession, withdrawal, or reassumption, at the option of the Secretary upon the retrocession, withdrawal, or reassumption, title to such property and equipment shall revert to the Department of Health and Human Services; and
 

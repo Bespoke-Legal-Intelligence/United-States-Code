@@ -38,7 +38,7 @@ The Director shall monitor the development and implementation of training in inf
 
 #### (j) Informing Congress
 
-The Director shall keep Congress fully informed on the extent to which the executiveagencies are improving the performance of agency programs and the accomplishment of agency missions through the use of the best practices in information resources management.
+The Director shall keep Congress fully informed on the extent to which the executive agencies are improving the performance of agency programs and the accomplishment of agency missions through the use of the best practices in information resources management.
 
 #### (k) Procurement policy and acquisitions of information technology
 

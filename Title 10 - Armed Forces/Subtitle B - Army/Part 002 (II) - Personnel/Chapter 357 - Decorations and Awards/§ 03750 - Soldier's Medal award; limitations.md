@@ -4,7 +4,7 @@
 
 (2) The authority in paragraph (1) includes authority to award the medal to a member of the Ready Reserve who was not in a duty status defined in section 101(d) of this title when the member distinguished himself by heroism.
 
-(b) Not more than one Soldier's Medal may be awarded to a person. However, for each succeeding act that would otherwise justify the awardof such a medal, the President may award a suitable bar or other device to be worn as he directs.
+(b) Not more than one Soldier's Medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal, the President may award a suitable bar or other device to be worn as he directs.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 217; Pub. L. 105–85, div. A, title V, §574(a), Nov. 18, 1997, 111 Stat. 1758.)
 

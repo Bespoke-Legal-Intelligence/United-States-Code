@@ -34,7 +34,7 @@ The agreements and leases authorized by section 801 of this title shall be subje
 
 #### (8) Limitation on alteration and parking facility construction costs
 
-&emsp;the total cost of all alterations referred to in paragraph (1) and all construction referred toin paragraph (3) shall not exceed $16,000,000, except that total cost of such alterations shall not exceed $5,000,000.
+&emsp;the total cost of all alterations referred to in paragraph (1) and all construction referred to in paragraph (3) shall not exceed $16,000,000, except that total cost of such alterations shall not exceed $5,000,000.
 
 #### (b) Other terms and conditions
 
@@ -68,7 +68,7 @@ Pub. L. 96–610, §§2, 3, Dec. 28, 1980, 94 Stat. 3564, provided that:
 
 “Sec. 3. (a) The Office of Legal Counsel of the Department of Justice shall prepare an opinion on the question of whether the United States or the Terminal Realty Baltimore Co. and the Terminal Realty Penn Co. are legally liable for the repairs anticipated by the provisions of this Act \[enacting section 809 of this title and this note\]. If the Office of Legal Counsel determines that there is a reasonable cause to believe a party other than the United States is legally obligated to bear all or a portion of the costs of that repair authorized by this Act, the Attorney General shall institute an action to recover expenditures that were incurred by the Secretary pursuant to this Act.
 
-“(b) None of the actions taken pursuant to the provisions of this Act shall be deemed to limit or affect in any way the rights of the United States under the lease for real property between Terminal Realty Baltimore Co. and Terminal Realty Penn Co. and the United States of America, dated March 1, 1972, or any additions or modifications thereto.”
+“(b) None of the actions taken pursuant to the provisions of this Act shall be deemed to limit or affect in any way the rights of the United States under the lease for real property between Terminal Realty BaltimoreCo. and Terminal Realty Penn Co. and the United States of America, dated March 1, 1972, or any additions or modifications thereto.”
 
 #### Section Referred to in Other Sections
 

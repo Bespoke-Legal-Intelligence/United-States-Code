@@ -6,7 +6,7 @@ In order to achieve the goals set out in section 812 of this title, the Secretar
 
 #### (b) Selection of developers
 
-The Secretary of Transportation shall prescribe the procedures and criteria for selection of a developer for the Union Station complex: <i>Provided</i>, That no final developer selection shall be made unless and until at least two developers meeting minimum criteria prescribed by the Secretary of Transportation have submitted to the Secretary of Transportation specific design and financing proposals for the rehabilitation and redevelopment of the Union Station complex, and specific proposals for the acquisition, conveyance, or lease of real property. The Secretary of Transportation is directed to initiate discussions with potential developers as soon as possible following enactment of this section to assure the earliest possible selection of a developer or developers.
+The Secretary of Transportation shall prescribe the procedures and criteria for selection of a developer for the Union Station complex: <i>Provided</i>, That no final developer selection shall be made unless and until at least two developers meeting minimum criteria prescribed by theSecretary of Transportation have submitted to the Secretary of Transportation specific design and financing proposals for the rehabilitation and redevelopment of the Union Station complex, and specific proposals for the acquisition, conveyance, or lease of real property. The Secretary of Transportation is directed to initiate discussions with potential developers as soon as possible following enactment of this section to assure the earliest possible selection of a developer or developers.
 
 #### (c) Modification or waiver of application of regulations
 
@@ -14,7 +14,7 @@ Development agreements entered into under this section shall be considered coope
 
 #### (d) Other agreements and contracts; assignment
 
-The Secretary of Transportation is further authorized to enter into such other agreements and contracts, except any agreement or contract to sell property rights at the Union Station complex, with such persons, corporations, financial institutions, Federal, regional, or local agencies, or the Architect of the Capitol as theSecretary of Transportation deems necessary or desirable to carry out the purposes of this part. Any such agreement may be made assignable to a selected developer or developers of the Union Station complex.
+The Secretary of Transportation is further authorized to enter into such other agreements and contracts, except any agreement or contract to sell property rights at the Union Station complex, with such persons, corporations, financial institutions, Federal, regional, or local agencies, or the Architect of the Capitol as the Secretary of Transportation deems necessary or desirable to carry out the purposes of this part. Any such agreement may be made assignable to a selected developer or developers of the Union Station complex.
 
 (Pub. L. 90–264, title I, §115, as added Pub. L. 97–125, §3(3), Dec. 29, 1981, 95 Stat. 1670.)
 

@@ -14,7 +14,7 @@ Activities authorized under subsection (a) of this section include—
 
 &emsp;(3) providing assistance to States in removing abandoned fishing gear, marine debris, and abandoned vessels from coral reefs to conserve living marine resources; and
 
-&emsp;(4) cooperative conservation and management of coral reefs and coral reef ecosystemswith local, regional, or international programs and partners.
+&emsp;(4) cooperative conservation and management of coral reefs and coral reef ecosystems with local, regional, or international programs and partners.
 
 (Pub. L. 106–562, title II, §207, Dec. 23, 2000, 114 Stat. 2804.)
 
@@ -28,7 +28,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 The Endangered Species Act of 1973, referred to in subsec. (a), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (a), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (a), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat.1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

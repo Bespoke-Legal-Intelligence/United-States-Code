@@ -6,7 +6,7 @@ Except as otherwise provided in this subchapter, the Secretary shall enforce the
 
 #### (b) State officers and employees
 
-The Secretary may also designate officers and employees of any State or of any possession of the United States to enforce the provisions ofthis subchapter. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes, but they shall not be held and considered as employees of the United States for the purposes of any laws administered by the Director of the Office of Personnel Management.
+The Secretary may also designate officers and employees of any State or of any possession of the United States to enforce the provisions of this subchapter. When so designated, such officers and employees are authorized to function as Federal law enforcement agents for these purposes, but they shall not be held and considered as employees of the United States for the purposes of any laws administered by the Director of the Office of Personnel Management.
 
 #### (c) Warrants and other process for enforcement
 
@@ -36,7 +36,7 @@ Any person authorized by the Secretary to enforce this subchapter may execute an
 
 (4) If with respect to any marine mammal or marine mammal product or other cargo so seized—
 
-&emsp;(A) a civil penalty is assessed under section 1375(a) of this title and no judicial action is commenced to obtain the forfeiture of such mammal or product within thirty days after such assessment, such marine mammal or marine mammal product or other cargo shall be immediately returned to the owner or the consignee; or
+&emsp;(A) a civil penalty is assessed under section 1375(a) of this title and no judicial action is commenced to obtain the forfeiture of such mammal or product within thirty days after such assessment, such marine mammal or marine mammal product or other cargo shall beimmediately returned to the owner or the consignee; or
 
 &emsp;(B) no conviction results from an alleged violation of section 1375(b) of this title, such marine mammal or marine mammal product or other cargo shall immediately be returned to the owner or consignee if the Secretary does not, with <sup>1</sup> thirty days after the final disposition of the case involving such alleged violation, commence proceedings for the assessment of a civil penalty under section 1375(a) of this title.
 

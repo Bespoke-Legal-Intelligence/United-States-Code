@@ -16,7 +16,7 @@
 
 #### (A) Eligibility for benefits and services
 
-&emsp;&emsp;Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, an alien who is a victim of a severe form of trafficking in persons shall be eligible for benefits and servicesunder any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8.
+&emsp;&emsp;Notwithstanding title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, an alien who is a victim of a severe form of trafficking in persons shall be eligible for benefits and services under any Federal or State program or activity funded or administered by any official or agency described in subparagraph (B) to the same extent as an alien who is admitted to the United States as a refugee under section 1157 of title 8.
 
 #### (B) Requirement to expand benefits and services
 

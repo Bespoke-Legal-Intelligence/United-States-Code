@@ -40,13 +40,9 @@
 
 (g) Shippers’ Export Declarations (or any successor document), wherever located, shall be exempt from public disclosure unless the Secretary determines that such exemption would be contrary to the national interest.
 
-(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 93–618, title VI, §609(a), Jan. 3, 1975, 88 Stat. 2074; Pub. L. 96–39, title XI, §1108(a), July 26, 1979, 93 Stat. 313; Pub. L. 96–275, §1, June 17, 1980, 94 Stat. 539; Pub. L. 100–418, title I, §§1214(a)(2), 1931(a), 1932, Aug. 23, 1988, 102 Stat. 1155, 1320; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1252(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–506.)
-
-#### Enactment of Subsection (h)
-
-<i>Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1252(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–506, provided that, effective as provided in an Effective Date of 1999 Amendment note set out below, this section is amended by adding at the end a new subsection (h) as follows:</i>
-
 (h) The Secretary is authorized to require by regulation the filing of Shippers’ Export Declarations under this chapter through an automated and electronic system for the filing of export information established by the Department of the Treasury.
+
+(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 93–618, title VI, §609(a), Jan. 3, 1975, 88 Stat. 2074; Pub. L. 96–39, title XI, §1108(a), July 26, 1979, 93 Stat. 313; Pub. L. 96–275, §1, June 17, 1980, 94 Stat. 539; Pub. L. 100–418, title I, §§1214(a)(2), 1931(a), 1932, Aug. 23, 1988, 102 Stat. 1155, 1320; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1252(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–506.)
 
 #### References in Text
 
@@ -57,6 +53,8 @@ The Agricultural Trade Development and Assistance Act of 1954, referred to in su
 The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2), (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Amendments
+
+1999—Subsec. (h). Pub. L. 106–113 added subsec. (h).
 
 1988—Subsec. (b). Pub. L. 100–418, §1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
 
@@ -76,7 +74,7 @@ Subsec. (f). Pub. L. 100–418, §1214(a)(2)(C), substituted “heading or subhe
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1252(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–506, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 270 days after the Secretary of Commerce, the Secretary of the Treasury, and the Director of the National Institute of Standards and Technology jointly provide a certification to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that a secure Automated Export System available through the Internet that is capable of handling the expected volume of information required to be filed under subsection (b) \[set out below\], plus the anticipated volume from voluntary use of the Automated Export System, has been successfully implemented and tested and is fully functional with respect to reporting all items on the United States Munitions List, including their quantities and destinations.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1252(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–506, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 270 days after the Secretary of Commerce, the Secretary of the Treasury, and the Director of the National Institute of Standards and Technology jointly provide a certification to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that a secure Automated Export System available through the Internet that is capable of handling the expected volume of information required to be filed under subsection (b) \[set out below\], plus the anticipated volume from voluntary use of the Automated Export System, has been successfully implemented and tested and is fully functional with respect to reporting all items on the United States Munitions List, including their quantities and destinations.” \[The Automated Export System Certification Report was submitted to the Committee on Foreign Relations of the Senate on June 11, 2001, and to the Committee on International Relations of the House of Representatives on May 31, 2001. See 66 F.R. 39006.\]
 
 #### Effective Date of 1988 Amendment
 

@@ -14,7 +14,7 @@ The enactment of this Act does not increase or decrease the pay or allowances of
 
 #### (d) References in other laws, regulations, and orders
 
-A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provisions enacted by this Act.
+A reference to a law replaced by this Act, including a reference in a regulation, order, orother law, is deemed to refer to the corresponding provisions enacted by this Act.
 
 #### (e) Rules, regulations, and orders; continuing effect
 

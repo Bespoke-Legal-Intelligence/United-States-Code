@@ -38,7 +38,7 @@ For purposes of this subpart—
 
 #### (A) In general
 
-&emsp;&emsp;At the election of the taxpayer with respect to any obligation, the daily portion of the acquisition discount for any day is the portion of the acquisition discount accruing on such day determined (under regulations prescribed by the Secretary) on the basis of—
+&emsp;&emsp;At the election of the taxpayer with respect to any obligation, the daily portion of the acquisition discount for any day is the portion of the acquisition discount accruingon such day determined (under regulations prescribed by the Secretary) on the basis of—
 
 &emsp;&emsp;&emsp;(i) the taxpayer's yield to maturity based on the taxpayer's cost of acquiring the obligation, and
 

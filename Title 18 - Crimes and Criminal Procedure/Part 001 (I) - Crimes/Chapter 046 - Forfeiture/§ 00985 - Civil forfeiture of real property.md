@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(i) issues a notice of application for warrant, causes the notice to be served on the property owner and posted on the property, and conducts a hearing in which the property owner has a meaningful opportunity to be heard; or
 
-&emsp;&emsp;(ii) makes an ex parte determination that there is probable cause for the forfeiture andthat there are exigent circumstances that permit the Government to seize the property without prior notice and an opportunity for the property owner to be heard.
+&emsp;&emsp;(ii) makes an ex parte determination that there is probable cause for the forfeiture and that there are exigent circumstances that permit the Government to seize the property without prior notice and an opportunity for the property owner to be heard.
 
 (2) For purposes of paragraph (1)(B)(ii), to establish exigent circumstances, the Government shall show that less restrictive measures such as a lis pendens, restraining order, or bond would not suffice to protect the Government's interests in preventing the sale, destruction, or continued unlawful use of the real property.
 

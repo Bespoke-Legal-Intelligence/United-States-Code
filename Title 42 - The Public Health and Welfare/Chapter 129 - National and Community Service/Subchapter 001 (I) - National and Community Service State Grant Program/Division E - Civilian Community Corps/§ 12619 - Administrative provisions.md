@@ -26,7 +26,7 @@ The Chief Executive Officer shall—
 
 #### (A) Appointment
 
-&emsp;&emsp;Upon the establishment of the Program, the Chief Executive Officer shall appoint a Director. The Director may be selected from among retired commissioned officers of the Armed Forces of the United States.
+&emsp;&emsp;Upon the establishment of the Program, the Chief Executive Officer shall appoint aDirector. The Director may be selected from among retired commissioned officers of the Armed Forces of the United States.
 
 #### (B) Duties
 

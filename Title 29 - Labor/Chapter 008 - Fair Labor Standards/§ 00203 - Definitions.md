@@ -32,7 +32,7 @@ As used in this chapter—
 
 &emsp;(C) any individual employed by a State, political subdivision of a State, or an interstate governmental agency, other than such an individual—
 
-&emsp;&emsp;(i) who is not subject to the civil service laws of the State, political subdivision, or agency which employes him; and
+&emsp;&emsp;(i) who is not subject to the civil service laws of the State, political subdivision, or agency which employs him; and
 
 &emsp;&emsp;(ii) who—
 
@@ -66,7 +66,7 @@ As used in this chapter—
 
 (i) “Goods” means goods (including ships and marine equipment), wares, products, commodities, merchandise, or articles or subjects of commerce of any character, or any part or ingredient thereof, but does not include goods after their delivery into the actual physical possession of the ultimate consumer thereof other than a producer, manufacturer, or processor thereof.
 
-(j) “Produced” means produced, manufactured, mined, handled, or in any other manner worked on in any State; and for the purposes of this chapter an employee shall be deemed to have been engaged in the production of goods if such employee was employed in producing, manufacturing, mining, handling, transporting, or in any other manner working on such goods, or in any closely related process or occupation directly essential to the production thereof, in any State,
+(j) “Produced” means produced, manufactured, mined, handled, or in any other manner worked on in any State; and for the purposes of this chapter an employee shall be deemed to have been engaged in the production of goods if such employee was employed in producing, manufacturing, mining, handling, transporting, or in any other manner working on such goods, or in any closely related process or occupation directly essential to the production thereof, in any State.
 
 (k) “Sale” or “sell” includes any sale, exchange, contract to sell, consignment for sale, shipment for sale, or other disposition.
 
@@ -88,7 +88,7 @@ As used in this chapter—
 
 (q) “Secretary” means the Secretary of Labor.
 
-(r)(1) “Enterprise” means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose, and includes all such activities whether performed in one or more establishments or by one or more corporate or other organizational units including departments of an establishment operated through leasing arrangements, but shall not include the related activities performed for such enterprise by an independent contractor. Within the meaning of this subsection, a retail or service establishment which is under independent ownership shall not be deemed to be so operated or controlled as to be other than a separate and distinct enterprise by reason of any arrangement, which includes, but is not necessarily limited to, and agreement, (A) that it will sell, or sell only, certain goods specified by a particular manufacturer, distributor, or advertiser, or (B) that it will join with other such establishments in the same industry for the purpose of collective purchasing, or (C) that it will have the exclusive right to sell the goods or use the brandname of a manufacturer, distributor, or advertiser within a specified area, or by reason of the fact that it occupies premises leased to it by a person who also leases premises to other retail or service establishments.
+(r)(1) “Enterprise” means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose, and includes all such activities whether performed in one or more establishments or by one or more corporate or other organizational units including departments of an establishment operated through leasing arrangements, but shall not include the related activities performed for such enterprise by an independent contractor. Within the meaning of this subsection, a retail or service establishment which is under independent ownership shall not be deemed to be so operated or controlled as to be other than a separate and distinct enterprise by reason of any arrangement, which includes, but is not necessarily limited to, an agreement, (A) that it will sell, or sell only, certain goods specified by a particular manufacturer, distributor, or advertiser, or (B) that it will join with other such establishments in the same industry for the purpose of collective purchasing, or (C) that it will have the exclusive right to sell the goods or use the brandname of a manufacturer, distributor, or advertiser within a specified area, or by reason of the fact that it occupies premises leased to it by a person who also leases premises to other retail or service establishments.
 
 (2) For purposes of paragraph (1), the activities performed by any person or persons—
 

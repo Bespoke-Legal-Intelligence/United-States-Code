@@ -8,7 +8,7 @@
 
 (2) The exclusive remedy for any alleged breach of a contract entered into under this section shall be an action in an appropriate State court or United States district court, unless the parties otherwise agree. This section does not confer original jurisdiction on the district courts of the United States based on section 1331 or 1337 of title 28, United States Code.
 
-(d)(1) A summary of each contract for the transportation of agricultural products (including grain, as defined in section 3 of the United States Grain Standards Act (7 U.S.C. 75) and products thereof) entered into under this section shall be filed with the Board, containing such nonconfidential information as the Board prescribes. The Board shall publish special rules for such contracts in order to ensure that the essential terms of the contract are available to the general public.
+(d)(1) A summary of each contract for the transportation of agricultural products (including grain, as defined in section 3 of the United States Grain Standards Act (7 U.S.C. 75) and products thereof) entered into under this section shall be filed with the Board, containing suchnonconfidential information as the Board prescribes. The Board shall publish special rules for such contracts in order to ensure that the essential terms of the contract are available to the general public.
 
 (2) Documents, papers, and records (and any copies thereof) relating to a contract described in subsection (a) shall not be subject to the mandatory disclosure requirements of section 552 of title 5.
 
@@ -36,7 +36,7 @@
 
 (3)(A) Within 30 days after the date a proceeding is commenced under paragraph (1) of this subsection, or within such shorter time period after such date as the Board may establish, the Board shall determine whether the contract that is the subject of such proceeding is in violation of this section.
 
-(B) If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of thissubsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
+(B) If the Board determines, on the basis of a complaint filed under paragraph (2)(B)(i) of this subsection, that the grounds for a complaint described in such paragraph have been established with respect to a rail carrier, the Board shall, subject to the provisions of this section, order such rail carrier to provide rates and service substantially similar to the contract at issue with such differentials in terms and conditions as are justified by the evidence.
 
 (h)(1) Any rail carrier may, in accordance with the terms of this section, enter into contracts for the transportation of agricultural commodities (including forest products, but not including wood pulp, wood chips, pulpwood or paper) involving the utilization of carrier owned or leased equipment not in excess of 40 percent of the capacity of such carrier's owned or leased equipment by major car type (plain boxcars, covered hopper cars, gondolas and open top hoppers, coal cars, bulkhead flatcars, pulpwood rackcars, and flatbed equipment, including TOFC/COFC).
 

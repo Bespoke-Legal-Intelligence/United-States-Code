@@ -52,7 +52,7 @@
 
 #### (2) Denial of certification
 
-&emsp;Upon denial of certification with respect to a petition under paragraph (1), the Secretaryshall review the petition in accordance with the requirements of subpart A of this part to determine if the workers may be certified under such subpart.
+&emsp;Upon denial of certification with respect to a petition under paragraph (1), the Secretary shall review the petition in accordance with the requirements of subpart A of this part to determine if the workers may be certified under such subpart.
 
 #### (d) Comprehensive assistance
 

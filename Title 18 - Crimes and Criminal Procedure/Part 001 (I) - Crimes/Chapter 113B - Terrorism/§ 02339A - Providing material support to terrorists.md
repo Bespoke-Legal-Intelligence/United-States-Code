@@ -2,19 +2,31 @@
 
 (a)
 
-Offense.—Whoever, within the United States, provides material support or resources or conceals or disguises the nature, location, source, or ownership of material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, a violation of section 32, 37, 81, 175, 351, 831, 842(m) or (n), 844(f) or (i), 930(c), 956, 1114, 1116, 1203, 1361, 1362, 1363, 1366, 1751, 1992, 2155, 2156, 2280, 2281, 2332, 2332a, 2332b, 2332c,<sup>1</sup> or 2340A of this title or section 46502 of title 49, or in preparation for, or in carrying out, the concealment or an escape from the commission of any such violation, shall be fined under this title, imprisoned not more than 10 years, or both.
+Offense.—Whoever provides material support or resources or conceals or disguises the nature, location, source, or ownership of material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, a violation of section 32, 37, 81, 175, 229, 351, 831, 842(m) or (n), 844(f) or (i), 930(c), 956, 1114, 1116, 1203, 1361, 1362, 1363, 1366, 1751, 1992, 1993, 2155, 2156, 2280, 2281, 2332, 2332a, 2332b, 2332c,<sup>1</sup> or 2340A of this title, section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284), or section 46502 or 60123(b) of title 49, or in preparation for, or in carrying out, the concealment or an escape from the commission of any such violation, or attempts or conspires to do such an act, shall be fined under this title, imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.
 
 (b)
 
-Definition.—In this section, the term “material support or resources” means currency or other financial securities, financial services, lodging, training, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets, except medicine or religious materials.
+Definition.—In this section, the term “material support or resources” means currency or monetary instruments or financial securities, financial services, lodging, training, expert advice or assistance, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets, except medicine or religious materials.
 
-(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506.)
+(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381.)
 
 #### References in Text
 
 Section 2332c of this title, referred to in subsec. (a), was repealed by Pub. L. 105–277, div. I, title II, §201(c)(1), Oct. 21, 1998, 112 Stat. 2681–871.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–56, §811(f), inserted “or attempts or conspires to do such an act,” before “shall be fined”.
+
+Pub. L. 107–56, §810(c)(1), substituted “15 years” for “10 years”.
+
+Pub. L. 107–56, §810(c)(2), which directed substitution of “, and, if the death of any person results, shall be imprisoned for any term of years or for life.” for period, was executed by making the substitution for the period at end of the first sentence to reflect the probable intent of Congress and the intervening amendment by section 805(a)(1)(F) of Pub. L. 107–56. See below.
+
+Pub. L. 107–56, §805(a)(1)(F), inserted at end “A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.”
+
+Pub. L. 107–56, §§805(a)(1)(A)–(E), struck out “, within the United States,” after “Whoever”, and inserted “229,” after “175,”, “1993,” after “1992,”, “, section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284),” after “2340A of this title”, and “or 60123(b)” after “section 46502”.
+
+Subsec. (b). Pub. L. 107–56, §805(a)(2), substituted “or monetary instruments or financial securities” for “or other financial securities” and inserted “expert advice or assistance,” after “training,”.
 
 1996—Pub. L. 104–294, §604(b)(5), amended directory language of Pub. L. 103–322, §120005(a), which enacted this section.
 
@@ -30,7 +42,7 @@ Amendment by section 604(b)(5) of Pub. L. 104–294 effective Sept. 13, 1994, se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1956, 2332b, 2339B of this title; title 22 section 2778; title 28 section 1605.
+This section is referred to in sections 1956, 2332b, 2339B, 2516 of this title; title 22 sections 2778, 7211; title 28 section 1605.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -26,7 +26,7 @@ Operational Flying Duty Requirements.—(1) An eligible career enlisted flyer mu
 
 (3) For the needs of the service, the Secretary concerned may permit, on a case-by-case basis, a member to continue to receive continuous monthly incentive pay despite the member's failure to perform the operational flying duty required during the first 10, 15, or 20 years of aviation service, but only if the member otherwise meets the definition in subsection (a) and has performed at least 5 years of operational flying duties during the first 10 years of aviation service, 8 years of operational flying duties during the first 15 years of aviation service, or 12 years of operational flying duty during the first 20 years of aviation service. The authority of the Secretary concerned under this paragraph may not be delegated below the level of the Service Personnel Chief.
 
-(4) If the eligibility of an eligible career enlisted flyer to continuous monthly incentive pay ceases under subsection (b)(2) or paragraph (2), the member may still receive month-to-monthincentive pay for subsequent frequent and regular performance of operational flying duty. The rate payable is the same rate authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service.
+(4) If the eligibility of an eligible career enlisted flyer to continuous monthly incentive pay ceases under subsection (b)(2) or paragraph (2), the member may still receive month-to-month incentive pay for subsequent frequent and regular performance of operational flying duty. The rate payable is the same rate authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service.
 
 (d)
 
@@ -63,7 +63,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “aviation service” means participation in aerial flight performed, under regulations prescribed by the Secretary concerned, by an eligible career enlisted flyer.
 
-&emsp;(2) The term “operational flying duty” means flying performed under competent orders while serving in assignments, including an assignment as a dropsonde system operator, in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to the award of an enlisted aviation rating or military occupational specialty designated as a career enlisted flyer rating or specialty by the Secretary concerned.
+&emsp;(2) The term “operational flying duty” means flying performed under competent orders while serving in assignments, including an assignment as a dropsonde system operator, in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to the award of an enlisted aviation rating or military occupationalspecialty designated as a career enlisted flyer rating or specialty by the Secretary concerned.
 
 (Added Pub. L. 106–65, div. A, title VI, §628(a)(1), Oct. 5, 1999, 113 Stat. 657.)
 

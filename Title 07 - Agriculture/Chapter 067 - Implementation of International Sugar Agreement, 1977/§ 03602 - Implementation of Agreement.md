@@ -24,7 +24,7 @@ Pub. L. 101–167, title V, §562, Nov. 21, 1989, 103 Stat. 1241, provided that:
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, no sugars, sirups, or molasses that are products of Panama may be imported into the United States after the date of enactment of this Act \[Nov. 21, 1989\] during any period for which a limitation is imposed by authorities provided under any other law on the total quantity of sugars, sirups, and molasses that may be imported into the United States: <i>Provided</i>, That such products may be imported after the beginning of the last week of any quota year if the President certifies that for the entire duration of the quota year, freedom of the press and other constitutional guarantees, including due process of law, have been restored to the Panamanian people.
+In General.—Notwithstanding any other provision of law, no sugars, sirups, or molasses that are products of Panama may be imported into the United States after the date of enactment of this Act \[Nov. 21, 1989\] during any period for which a limitation is imposed by authorities provided under any other law onthe total quantity of sugars, sirups, and molasses that may be imported into the United States: <i>Provided</i>, That such products may be imported after the beginning of the last week of any quota year if the President certifies that for the entire duration of the quota year, freedom of the press and other constitutional guarantees, including due process of law, have been restored to the Panamanian people.
 
 “(b)
 

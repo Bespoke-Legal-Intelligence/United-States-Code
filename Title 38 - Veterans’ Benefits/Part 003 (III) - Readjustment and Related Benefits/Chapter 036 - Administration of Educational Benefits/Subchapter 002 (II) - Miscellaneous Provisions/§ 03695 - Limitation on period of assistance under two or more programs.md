@@ -10,7 +10,7 @@
 
 &emsp;(4) Chapters 30, 32, 34, 35, and 36 of this title, and the former chapter 33.
 
-&emsp;(5) Chapters 107, 1606, and 1610 <sup>1</sup> of title 10.
+&emsp;(5) Chapters 107, 1606, and 1611 of title 10.
 
 &emsp;(6) Section 903 of the Department of Defense Authorization Act, 1981 (Public Law 96–342, 10 U.S.C. 2141 note).
 
@@ -20,7 +20,7 @@
 
 (b) No person may receive assistance under chapter 31 of this title in combination with assistance under any of the provisions of law cited in subsection (a) of this section in excess of 48 months (or the part-time equivalent thereof) unless the Secretary determines that additional months of benefits under chapter 31 of this title are necessary to accomplish the purposes of a rehabilitation program (as defined in section 3101(5) of this title) in the individual case.
 
-(Added Pub. L. 90–631, §1(d)(1), Oct. 23, 1968, 82 Stat. 1331, §1791; renumbered §1795 and amended Pub. L. 92–540, title III, §316(2), title IV, §403(13), Oct. 24, 1972, 86 Stat. 1086, 1090; Pub. L. 96–466, title I, §103, Oct. 17, 1980, 94 Stat. 2187; Pub. L. 98–223, title II, §203(c)(2), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, §703(d), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 101–237, title IV, §423(a)(8)(B), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3695 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–65, div. A, title V, §551(b), Oct. 5, 1999, 113 Stat. 614.)
+(Added Pub. L. 90–631, §1(d)(1), Oct. 23, 1968, 82 Stat. 1331, §1791; renumbered §1795 and amended Pub. L. 92–540, title III, §316(2), title IV, §403(13), Oct. 24, 1972, 86 Stat. 1086, 1090; Pub. L. 96–466, title I, §103, Oct. 17, 1980, 94 Stat. 2187; Pub. L. 98–223, title II, §203(c)(2), Mar. 2, 1984, 98 Stat. 41; Pub. L. 98–525, title VII, §703(d), Oct. 19, 1984, 98 Stat. 2564; Pub. L. 101–237, title IV, §423(a)(8)(B), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3695 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–65, div. A, title V, §551(b), Oct. 5, 1999, 113 Stat. 614; Pub. L. 107–103, title V, §509(d), Dec. 27, 2001, 115 Stat. 997; Pub. L. 107–107, div. A, title X, §1048(i)(8), Dec. 28, 2001, 115 Stat. 1229.)
 
 #### References in Text
 
@@ -39,6 +39,8 @@ The Hostage Relief Act of 1980, referred to in subsec. (a)(7), is Pub. L. 96–4
 The Omnibus Diplomatic Security and Antiterrorism Act of 1986, referred to in subsec. (a)(8), is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22, Foreign Relations and Intercourse, and Tables.
 
 #### Amendments
+
+2001—Subsec. (a)(5). Pub. L. 107–103 and Pub. L. 107–107 amended par. (5) identically, substituting “1611” for “1610”.
 
 1999—Subsec. (a)(5). Pub. L. 106–65 substituted “Chapters 107, 1606, and 1610” for “Chapters 106 and 107”.
 
@@ -70,7 +72,5 @@ Section effective first day of second calendar month which begins after Oct. 23,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3013, 3231, 3511 of this title; title 10 section 16131.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “1611”.</i>
+This section is referred to in sections 3013, 3105, 3231, 3511 of this title; title 10 section 16131.
 

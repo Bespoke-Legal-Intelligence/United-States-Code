@@ -16,7 +16,7 @@
 
 #### (B) Banking business of United States branch of foreign corporation
 
-&emsp;&emsp;The term “bank” also includes any corporation to which subparagraph (A) wouldapply except for the fact that it is a foreign corporation. In the case of any such foreign corporation, this section shall apply only with respect to loans outstanding the interest on which is effectively connected with the conduct of a banking business within the United States.
+&emsp;&emsp;The term “bank” also includes any corporation to which subparagraph (A) would apply except for the fact that it is a foreign corporation. In the case of any such foreign corporation, this section shall apply only with respect to loans outstanding the interest on which is effectively connected with the conduct of a banking business within the United States.
 
 #### (b) Addition to reserves for bad debts
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) the balance of the reserve at the close of the base year, or
 
-&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less than the amount of loans outstanding at the close of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
+&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less than the amount of loans outstanding at the close of the base year, the amount whichbears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
 
 > &emsp;For purposes of this paragraph, the base year shall be the last taxable year before the most recent adoption of the experience method, except that for taxable years beginning after 1987 the base year shall be the last taxable year beginning before 1988.
 
@@ -98,7 +98,7 @@
 
 #### (iii) Financially troubled bank
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bankif, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “financially troubled bank” means any bank if, for the taxable year, the nonperforming loan percentage of such bank exceeds 75 percent.
 
 #### (iv) Nonperforming loan percentage
 

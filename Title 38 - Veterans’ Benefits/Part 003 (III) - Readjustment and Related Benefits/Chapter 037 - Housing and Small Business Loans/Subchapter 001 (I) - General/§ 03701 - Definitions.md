@@ -14,7 +14,7 @@
 
 &emsp;(5)(A) The term “veteran” also includes an individual who is not otherwise eligible for the benefits of this chapter and (i) who has completed a total service of at least 6 years in the Selected Reserve and, following the completion of such service, was discharged from service with an honorable discharge, was placed on the retired list, was transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service, or continues serving in the Selected Reserve, or (ii) who was discharged or released from the Selected Reserve before completing 6 years of service because of a service-connected disability.
 
-&emsp;(B) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of anyof the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
+&emsp;(B) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 
 (c) Benefits shall not be afforded under this chapter to any individual on account of service as a commissioned officer of the National Oceanic and Atmospheric Administration (or predecessor entity), or of the Regular or Reserve Corps of the Public Health Service, unless such service would have qualified such individual for benefits under title III of the Servicemen's Readjustment Act of 1944.
 
@@ -62,7 +62,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 of Pub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
+Amendment by Pub. L. 97–72 effective at end of 180-day period beginning on Nov. 3, 1981, see section 305 ofPub. L. 97–72, set out as an Effective Date note under section 3741 of this title.
 
 #### Effective Date of 1976 Amendment
 

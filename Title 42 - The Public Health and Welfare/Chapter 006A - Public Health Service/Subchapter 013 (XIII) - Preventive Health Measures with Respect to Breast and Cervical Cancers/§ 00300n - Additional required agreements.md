@@ -22,7 +22,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 #### (2) Waiver
 
-&emsp;The Secretary may waive the requirement established in paragraph (1) for a State if theSecretary determines that compliance by the State with the requirement would result in an inefficient allocation of resources with respect to carrying out the purpose described in section 300k(a) of this title.
+&emsp;The Secretary may waive the requirement established in paragraph (1) for a State if the Secretary determines that compliance by the State with the requirement would result in an inefficient allocation of resources with respect to carrying out the purpose described in section 300k(a) of this title.
 
 #### (3) Grants to tribes and tribal organizations
 

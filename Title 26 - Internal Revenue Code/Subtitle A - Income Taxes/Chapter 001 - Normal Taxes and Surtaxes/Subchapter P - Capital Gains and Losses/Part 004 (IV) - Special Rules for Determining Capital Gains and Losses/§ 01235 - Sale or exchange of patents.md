@@ -2,7 +2,7 @@
 
 #### (a) General
 
-A transfer (other than by gift, inheritance, or devise) of property consisting of all substantial rights to a patent, or an undivided interest therein which includes a part of all such rights, by any holder shall be considered the sale or exchange of a capital asset held for more than 1 year, regardless of whether or not payments in consideration of such transfer are—
+A transfer (other than by gift, inheritance, or devise) of property consisting of all substantial rights to a patent, or an undivided interest therein which includes a part of all such rights,by any holder shall be considered the sale or exchange of a capital asset held for more than 1 year, regardless of whether or not payments in consideration of such transfer are—
 
 &emsp;(1) payable periodically over a period generally coterminous with the transferee's use of the patent, or
 

@@ -6,7 +6,7 @@ The Administrator is authorized, in his discretion, in order to provide for the 
 
 #### References in Text
 
-This Act, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. Forcomplete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
+This Act, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
 #### Codification
 

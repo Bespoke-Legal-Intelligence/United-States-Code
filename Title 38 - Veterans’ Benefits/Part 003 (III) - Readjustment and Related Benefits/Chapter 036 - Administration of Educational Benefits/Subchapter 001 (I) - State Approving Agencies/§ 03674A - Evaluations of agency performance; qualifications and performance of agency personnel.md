@@ -4,7 +4,7 @@
 
 &emsp;(1)(A) conduct, in conjunction with State approving agencies, an annual evaluation of each State approving agency on the basis of standards developed by the Secretary in conjunction with the State approving agencies, and (B) provide each such agency an opportunity to comment on the evaluation;
 
-&emsp;(2) take into account the results of annual evaluations carried out under clause (1) when negotiating the terms and conditions of a contract or agreement under section 3674 of this title;
+&emsp;(2) take into account the results of annual evaluations carried out under paragraph (1) when negotiating the terms and conditions of a contract or agreement under section 3674 of this title;
 
 &emsp;(3) cooperate with State approving agencies in developing and implementing a uniform national curriculum, to the extent practicable, for training new employees and for continuing the training of employees of such agencies, and sponsor, with the agencies, such training and continuation of training; and
 
@@ -20,9 +20,11 @@
 
 (3) The Secretary shall provide assistance in developing such standards to a State approving agency that requests it.
 
-(Added Pub. L. 100–323, §13(b)(1)(A), May 20, 1988, 102 Stat. 572, §1774A; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3674A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §606(c), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 105–368, title X, §1005(b)(8), Nov. 11, 1998, 112 Stat. 3365.)
+(Added Pub. L. 100–323, §13(b)(1)(A), May 20, 1988, 102 Stat. 572, §1774A; amended Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3674A and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title VI, §606(c), Nov. 2, 1994, 108 Stat. 4672; Pub. L. 105–368, title X, §1005(b)(8), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–14, §8(a)(8), June 5, 2001, 115 Stat. 35.)
 
 #### Amendments
+
+2001—Subsec. (a)(2). Pub. L. 107–14 substituted “paragraph (1)” for “clause (1)”.
 
 1998—Subsec. (b)(1). Pub. L. 105–368 struck out “after the 18-month period beginning on the date of the enactment of this section” after “section 3674(a) of this title” in introductory provisions.
 

@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 95–432, §1, struck out subsec. (d) which provided that n
 
 Subsec. (d). Pub. L. 92–584, §3, added subsec. (d).
 
-1966—Subsec. (a)(7). Pub. L. 89–770 authorized periods of employment with the United States Government or with an international organization by the citizen parent, or any periods during which the citizen parent is physically present abroad as the dependent unmarried son or daughter and a member of the household of a person (A) honorably serving with the Armed Forces ofthe United States, or (B) employed by the United States Government or an international organization, to be included in order to satisfy the physical presence requirement, and permitted the proviso to be applicable to persons born on or after December 24, 1952.
+1966—Subsec. (a)(7). Pub. L. 89–770 authorized periods of employment with the United States Government or with an international organization by the citizen parent, or any periods during which the citizen parent is physically present abroad as the dependent unmarried son or daughter and a member of the household of a person (A) honorably serving with the Armed Forces of the United States, or (B) employed by the United States Government or an international organization, to be included in order to satisfy the physical presence requirement, and permitted the proviso to be applicable to persons born on or after December 24, 1952.
 
 #### Effective Date of 1986 Amendment
 

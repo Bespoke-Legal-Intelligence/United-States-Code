@@ -28,9 +28,11 @@ Except as limited by subsection (c) of this section, there shall be deposited in
 
 &emsp;(2) penalty assessments collected under section 3013 of title 18; <sup>1</sup>
 
-&emsp;(3) the proceeds of forfeited appearance bonds, bail bonds, and collateral collected under section 3146 of title 18; and
+&emsp;(3) the proceeds of forfeited appearance bonds, bail bonds, and collateral collected under section 3146 of title 18;
 
-&emsp;(4) any money ordered to be paid into the Fund under section 3671(c)(2) of title 18.<sup>1</sup>
+&emsp;(4) any money ordered to be paid into the Fund under section 3671(c)(2) of title 18; and
+
+&emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals.
 
 #### (c) Retention of sums in Fund; availability for expenditure without fiscal year limitation
 
@@ -48,19 +50,21 @@ The Fund shall be available as follows:
 
 &emsp;(ii) Amounts available under this subparagraph for any fiscal year shall not exceed $20,000,000.
 
-&emsp;(3) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system.
+&emsp;(3) Of the sums remaining in the Fund in any particular fiscal year after compliance with paragraph (2), such sums as may be necessary shall be available for the United States Attorneys Offices and the Federal Bureau of Investigation to improve services for the benefit of crime victims in the Federal criminal justice system, and for a Victim Notification System.
 
-&emsp;(4) Of the remaining amount deposited in the Fund in a particular fiscal year—
+&emsp;(4) Of the remaining amount to be distributed from the Fund in a particular fiscal year—
 
-&emsp;&emsp;(A) 48.5 percent shall be available for grants under section 10602 of this title;
+&emsp;&emsp;(A) 47.5 percent shall be available for grants under section 10602 of this title;
 
-&emsp;&emsp;(B) 48.5 percent shall be available for grants under section 10603(a) of this title; and
+&emsp;&emsp;(B) 47.5 percent shall be available for grants under section 10603(a) of this title; and
 
-&emsp;&emsp;(C) 3 percent shall be available for grants under section 10603(c) of this title.
+&emsp;&emsp;(C) 5 percent shall be available for grants under section 10603(c) of this title.
 
-&emsp;(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $100,000,000.
+&emsp;(5)(A) In addition to the amounts distributed under paragraphs (2), (3), and (4), the Director may set aside up to $50,000,000 from the amounts transferred to the Fund in response to the airplane hijackings and terrorist acts that occurred on September 11, 2001, as an antiterrorism emergency reserve. The Director may replenish any amounts expended from such reserve in subsequent fiscal years by setting aside up to 5 percent of the amounts remaining in the Fund in any fiscal year after distributing amounts under paragraphs (2), (3) and (4). Such reserve shall not exceed $50,000,000.
 
-&emsp;(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.
+&emsp;(B) The antiterrorism emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title and to provide compensation to victims of international terrorism under section 10603c of this title.
+
+&emsp;(C) Amounts in the antiterrorism emergency reserve established pursuant to subparagraph (A) may be carried over from fiscal year to fiscal year. Notwithstanding subsection (c) ofthis section and section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (and any similar limitation on Fund obligations in any future Act, unless the same should expressly refer to this section), any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
 
 #### (e) Amounts awarded and unspent
 
@@ -86,7 +90,7 @@ As used in this section, the term “offenses against the United States” does 
 
 (2) As used in this subsection, the term “tribe” <sup>2</sup> has the meaning given that term in section 450b(b) <sup>3</sup> of title 25.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179.)
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; amended Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765.)
 
 #### References in Text
 
@@ -96,11 +100,33 @@ Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed eff
 
 Section 3671(c)(2) of title 18, referred to in subsec. (b)(4), was renumbered section 3681(c)(2) by Pub. L. 99–646, §41(a), Nov. 10, 1986, 100 Stat. 3600.
 
+Section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, referred to in subsec. (d)(5)(C), is section 1(a)(2) \[title VI, §619\] of Pub. L. 106–553, which was formerly set out as a note below.
+
 The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classified generally to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
 
 Section 450b of title 25, referred to in subsec. (g)(2), has been amended, and subsec. (b) of section 450b no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+
+2001—Subsec. (b)(5). Pub. L. 107–56, §621(a), added par. (5).
+
+Subsec. (c). Pub. L. 107–77, §111(b), amended heading and text of subsec. (c) to read as it did the day before enactment of amendment by Pub. L. 107–56. Text, as amended generally by Pub. L. 107–56, read as follows:
+
+“(1) Subject to the availability of money in the Fund, in each fiscal year, beginning with fiscal year 2003, the Director shall distribute not less than 90 percent nor more than 110 percent of the amount distributed from the Fund in the previous fiscal year, except the Director may distribute up to 120 percent of the amount distributed in the previous fiscal year in any fiscal year that the total amount available in the Fund is more than 2 times the amount distributed in the previous fiscal year.
+
+“(2) In each fiscal year, the Director shall distribute amounts from the Fund in accordance with subsection (d) of this section. All sums not distributed during a fiscal year shall remain in reserve in the Fund to be distributed during a subsequent fiscal year. Notwithstanding any other provision of law, all sums deposited in the Fund that are not distributed shall remain in reserve in the Fund for obligation in future fiscal years, without fiscal year limitation.”
+
+Pub. L. 107–56, §621(b), amended heading and text of subsec. (c) generally.
+
+Subsec. (d)(3). Pub. L. 107–77, §111(a), inserted before period at end “, and for a Victim Notification System”.
+
+Subsec. (d)(4). Pub. L. 107–56, §621(c), substituted “to be distributed from” for “deposited in” in introductory provisions, “47.5 percent” for “48.5 percent” in subpars. (A) and (B), and “5 percent” for “3 percent” in subpar. (C).
+
+Subsec. (d)(5). Pub. L. 107–56, §621(d), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
+
+“(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $100,000,000.
+
+“(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.”
 
 2000—Subsec. (c). Pub. L. 106–386, §2003(d), which directed insertion of “Notwithstanding subsection (d)(5) of this section, all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.” at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
 
@@ -250,17 +276,27 @@ Section 231 of title II of Pub. L. 104–132 provided that: “This subtitle \[s
 
 #### Short Title of 1990 Amendment
 
-Section 501 of title V of Pub. L. 101–647 provided that: “This title \[enacting sections 10606 and 10607 of thistitle, amending this section, enacting provisions set out as a note under section 10606 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Victims’ Rights and Restitution Act of 1990’.”
+Section 501 of title V of Pub. L. 101–647 provided that: “This title \[enacting sections 10606 and 10607 of this title, amending this section, enacting provisions set out as a note under section 10606 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Victims’ Rights and Restitution Act of 1990’.”
 
 #### Short Title
 
 Section 1401 of chapter XIV (§§1401–1411) of title II of Pub. L. 98–473 provided that: “This chapter \[enacting this chapter and sections 3013, 3671 and 3672 of Title 18, Crimes and Criminal Procedure, and amending sections 3150a, 4207, and 4215 of Title 18 and provisions set out as a note under section 1512 of Title 18\] may be cited as the ‘Victims of Crime Act of 1984’.”
 
+#### Victims of September 11, 2001
+
+Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided that: “Amounts transferred to the Crime Victims Fund for use in responding to the airplane hijackings and terrorist acts (including any related search, rescue, relief, assistance, or other similar activities) that occurred on September 11, 2001, shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund, notwithstanding—
+
+&emsp;“(1) section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 \[section 1(a)(2) \[title VI, §619\] of Pub. L. 106–553, formerly set out as a note below\], and any similar limitation on Fund obligations in such Act for Fiscal Year 2002 \[see Pub. L. 107–77, title VI, §619, Nov. 28, 2001, 115 Stat. 802, set out as a note below\]; and
+
+&emsp;“(2) subsections (c) and (d) of section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601).”
+
 #### Limitation on Amounts Available for Obligation
 
-Pub. L. 106–553, §1(a)(2) \[title VI, §619\], Dec. 21, 2000, 114 Stat. 2762, 2762A–107, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $537,500,000 shall not be available for obligation until the following fiscal year.”
+Pub. L. 107–77, title VI, §619, Nov. 28, 2001, 115 Stat. 802, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $550,000,000 shall not be available for obligation until the following fiscal year, with the exceptionof emergency appropriations made available by Public Law 107–38 \[115 Stat. 220\] and transferred to the Fund.”
 
-Similar provisions were contained in the following prior appropriations act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–553, §1(a)(2) \[title VI, §619\], Dec. 21, 2000, 114 Stat. 2762, 2762A–107.
 
 Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §620\], Nov. 29, 1999, 113 Stat. 1535, 1501A–55.
 

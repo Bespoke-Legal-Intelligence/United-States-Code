@@ -14,5 +14,5 @@ Section 286e, based on H. Res. No. 988, §203(f), Ninety-third Congress, Oct. 8,
 
 Section 286f, based on H. Res. No. 988, §203(g), Ninety-third Congress, Oct. 8, 1974, enacted into permanent law by Pub. L. 93–554, title I, ch. III, §101, Dec. 27, 1974, 88 Stat. 1777, related to expenditures of Legislative Classification Office.
 
-Section 286g, based on H. Res. No. 988, §203(h), Ninety-third Congress, Oct. 8, 1974, enacted into permanent law by Pub. L. 93–554, title I, ch. III, §101, Dec. 27, 1974, 88 Stat. 1777, provided that contingent fund of House was available to carry out this chapter.
+Section 286g, based on H. Res. No. 988, §203(h), Ninety-third Congress, Oct. 8, 1974, enacted into permanent law by Pub. L. 93–554, title I, ch. III, §101, Dec. 27, 1974, 88Stat. 1777, provided that contingent fund of House was available to carry out this chapter.
 

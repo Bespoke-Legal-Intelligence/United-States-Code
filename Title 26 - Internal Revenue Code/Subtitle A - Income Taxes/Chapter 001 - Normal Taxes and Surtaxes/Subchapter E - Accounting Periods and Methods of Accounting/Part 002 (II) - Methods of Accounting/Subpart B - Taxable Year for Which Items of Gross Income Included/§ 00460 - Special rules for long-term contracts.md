@@ -22,7 +22,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(A) first <sup>1</sup> allocating income under the contract among taxable years before the year in which the contract is completed on the basis of the actual contract price and costs instead of the estimated contract price and costs,
 
-&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A) which would result solely from the application of subparagraph (A), and
+&emsp;&emsp;(B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A)which would result solely from the application of subparagraph (A), and
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
@@ -250,7 +250,7 @@ For purposes of this section—
 
 #### (2) Special rules for certain taxable entities
 
-&emsp;For purposes of paragraph (1), the rules of section 168(h)(2)(D) (relating to certain taxableentities not treated as instrumentalities) shall apply.
+&emsp;For purposes of paragraph (1), the rules of section 168(h)(2)(D) (relating to certain taxable entities not treated as instrumentalities) shall apply.
 
 #### (e) Exception for certain construction contracts
 
@@ -552,7 +552,7 @@ In general.—The amendments made by this section shall not apply in the case of
 
 &emsp;“(B)
 
-Qualified ship contract.—For purposes of subparagraph (A), the term ‘qualified ship contract’means any contract for the construction in the United States of not more than 5 ships if—
+Qualified ship contract.—For purposes of subparagraph (A), the term ‘qualified ship contract’ means any contract for the construction in the United States of not more than 5 ships if—
 
 &emsp;&emsp;“(i) such ships will not be constructed (directly or indirectly) for the Federal Government, and
 

@@ -18,7 +18,7 @@ Congress reserves for the purposes of this reservation, a quantity of water suff
 
 #### (e) Enforcement
 
-Any person who violates any provision of this subchapter or any regulation promulgated bythe Secretary to implement this subchapter shall be subject to a fine of up to $10,000, or imprisonment for up to one year, or both.
+Any person who violates any provision of this subchapter or any regulation promulgated by the Secretary to implement this subchapter shall be subject to a fine of up to $10,000, or imprisonment for up to one year, or both.
 
 (Pub. L. 100–696, title I, §102, Nov. 18, 1988, 102 Stat. 4571.)
 

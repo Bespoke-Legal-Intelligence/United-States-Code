@@ -128,6 +128,7 @@
 | (t) | Inclusion in strategic plans. |
 | (u) | Coordination of technology development programs. |
 | (v) | Simplified reporting requirements. |
+| (w) | STTR model agreement for intellectual property rights. |
 | [639\.](%C2%A7%2000639%20-%20Reporting%20requirements%20and%20agency%20cooperation.md) | Reporting requirements and agency cooperation. |
 | (a) | Annual reports to President and Congressional officers and committees. |
 | (b) | Report of expenditures in conduct of activities; contents; information to Congressional committees. |
@@ -309,7 +310,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 662, 687 of this title; title 7 section 2000; title 10 section 2855; title 16 sections 472a, 535a, 539d; title 19 sections 2345, 2346; title 25 section 450j; title 38 section 3742; title 42 section 7661f; title 49 section 13709; title 50 App. section 2017<i>l.</i>
+This chapter is referred to in sections 662, 687 of this title; title 7 section 2000; title 10 section 2855; title 16 sections 472a, 535a, 539d; title 19 sections 2345, 2346; title 25 section 450j; title 38 section 3742; title 42 section 7661f; title 49 sections 13709, 40110; title 50 App. section 2017<i>l.</i>
 
 
 ---

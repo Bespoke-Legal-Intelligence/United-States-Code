@@ -34,5 +34,5 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 #### Codification
 
-Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and notas part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+Section was enacted as part of the Mining and Mineral Resources Research Institute Act of 1984, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 

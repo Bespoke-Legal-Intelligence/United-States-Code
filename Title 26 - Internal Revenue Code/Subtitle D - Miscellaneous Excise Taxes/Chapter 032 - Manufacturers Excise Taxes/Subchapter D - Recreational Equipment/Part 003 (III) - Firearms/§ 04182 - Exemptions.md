@@ -6,7 +6,7 @@ The tax imposed by section 4181 shall not apply to any firearm on which the tax 
 
 #### (b) Sales to defense department
 
-No firearms, pistols, revolvers, shells, and cartridges purchased with funds appropriated for the military department shall be subject to any tax imposed on the sale or transfer of such articles.
+No firearms, pistols, revolvers, shells, and cartridges purchased with funds appropriated forthe military department shall be subject to any tax imposed on the sale or transfer of such articles.
 
 #### (c) Records
 

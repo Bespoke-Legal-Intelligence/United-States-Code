@@ -114,7 +114,7 @@ When due.—The reports required by paragraph (1) shall be submitted not later t
 
 #### Consultation by United States Postal Service Regarding Prevention of Deceptive Mailings
 
-United States Postal Service to consult and coordinate functions of Secretary of Department of Health and Human Services in administration of this section, see section 4 of Pub. L. 101–524, set out as a Coordination of Functions With Department of Health andHuman Services note under section 3001 of Title 39, Postal Service.
+United States Postal Service to consult and coordinate functions of Secretary of Department of Health and Human Services in administration of this section, see section 4 of Pub. L. 101–524, set out as a Coordination of Functions With Department of Health and Human Services note under section 3001 of Title 39, Postal Service.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

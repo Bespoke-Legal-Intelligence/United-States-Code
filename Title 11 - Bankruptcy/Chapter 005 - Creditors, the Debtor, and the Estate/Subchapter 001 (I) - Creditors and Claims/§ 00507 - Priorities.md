@@ -250,7 +250,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (a)(3), (4)(B)(i), (5), (6) of this section by the Judicial Conference of the United States, effective Apr. 1, 1998, see note set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (a)(3), (4)(B)(i), (5), (6) of this section by the Judicial Conference of the United States, effective Apr. 1, 2001, see note set out under section 104 of this title.
 
 #### Section Referred to in Other Sections
 

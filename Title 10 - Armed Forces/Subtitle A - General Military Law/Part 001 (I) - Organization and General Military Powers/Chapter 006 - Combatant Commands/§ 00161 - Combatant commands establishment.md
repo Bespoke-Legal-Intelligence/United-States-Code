@@ -40,7 +40,7 @@ Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, prov
 
 &emsp;“(1) Whether there exists an adequate distribution of threats, mission requirements, and responsibilities for geographic areas among the regional unified combatant commands.
 
-&emsp;“(2) Whether reductions in the overall force structure of the Armed Forces permit the United States to better execute its warfighting plans through fewer or differently configured unified combatant commands, including—
+&emsp;“(2) Whether reductions in the overall force structure of the Armed Forces permit the United States to better execute its warfighting plans through fewer ordifferently configured unified combatant commands, including—
 
 &emsp;&emsp;“(A) a total of five or fewer commands, all of which are regional;
 

@@ -46,7 +46,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;&emsp;(B) minimize the mortality of bycatch which cannot be avoided;
 
-&emsp;(12) assess the type and amount of fish caught and released alive during recreationalfishing under catch and release fishery management programs and the mortality of such fish, and include conservation and management measures that, to the extent practicable, minimize mortality and ensure the extended survival of such fish;
+&emsp;(12) assess the type and amount of fish caught and released alive during recreational fishing under catch and release fishery management programs and the mortality of such fish, and include conservation and management measures that, to the extent practicable, minimize mortality and ensure the extended survival of such fish;
 
 &emsp;(13) include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors; and
 
@@ -172,7 +172,7 @@ Subsec. (a)(9)(A). Pub. L. 104–297, §108(a)(5), inserted “and fishing commu
 
 Subsec. (a)(10) to (14). Pub. L. 104–297, §108(a)(4), (6), (7), added pars. (10) to (14).
 
-Subsec. (b)(3). Pub. L. 104–297, §108(c)(1), added par. (3) and struck out former par. (3) which read as follows:“establish specified limitations on the catch of fish (based on area, species, size, number, weight, sex, incidental catch, total biomass, or other factors), which are necessary and appropriate for the conservation and management of the fishery;”.
+Subsec. (b)(3). Pub. L. 104–297, §108(c)(1), added par. (3) and struck out former par. (3) which read as follows: “establish specified limitations on the catch of fish (based on area, species, size, number, weight, sex, incidental catch, total biomass, or other factors), which are necessary and appropriate for the conservation and management of the fishery;”.
 
 Subsec. (b)(6). Pub. L. 104–297, §108(c)(2), substituted “limited access system for” for “system for limiting access to” in introductory provisions.
 
@@ -206,7 +206,7 @@ Subsec. (f). Pub. L. 101–627, §109(d), added subsec. (f).
 
 Subsec. (b)(1). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsec. (d). Pub. L. 99–659, §105(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any statistics submitted to the Secretary by any person in compliance with any requirement under subsection (a)(5) of this section shall be confidential and shall not be disclosed except when required under court order.”
+Subsec. (d). Pub. L. 99–659, §105(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any statistics submitted to the Secretary by any person in compliance with any requirement under subsection (a)(5) of this section shall beconfidential and shall not be disclosed except when required under court order.”
 
 1983—Subsec. (b)(7), (8). Pub. L. 97–453, §6(1), added par. (7) and redesignated former par. (7) as (8).
 
@@ -238,7 +238,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 S
 
 &emsp;“(2) sets cumulative trip limit periods, up to 12 months in any calendar year, that allow fishing vessels a reasonable opportunity to harvest the full amount of the associated trip limits.
 
-> Notwithstanding subsection (a) \[amending this section and section 1883 of this title\], the Gulf of Mexico Fishery Management Council may develop a biological, economic, and social profile of any fishery under its jurisdiction that may be considered for management under a quota management system, including the benefits and consequences of the quota management systems considered. The North Pacific Fishery Management Council shall examine the fisheries under its jurisdiction, particularly the Gulf of Alaska groundfish andBering Sea crab fisheries, to determine whether rationalization is needed. In particular, the North Pacific Council shall analyze individual fishing quotas, processor quotas, cooperatives, and quotas held by communities. The analysis should include an economic analysis of the impact of all options on communities and processors as well as the fishing fleets. The North Pacific Council shall present its analysis to the appropriations and authorizing committees of the Senate and House of Representatives in a timely manner.”
+> Notwithstanding subsection (a) \[amending this section and section 1883 of this title\], the Gulf of Mexico Fishery Management Council may develop a biological, economic, and social profile of any fishery under its jurisdiction that may be considered for management under a quota management system, including the benefits and consequences of the quota management systems considered. The North Pacific Fishery Management Council shall examine the fisheries under its jurisdiction, particularly the Gulf of Alaska groundfish and Bering Sea crab fisheries, to determine whether rationalization is needed. In particular, the North Pacific Council shall analyze individual fishing quotas, processor quotas, cooperatives, and quotas held by communities. The analysis should include an economic analysis of the impact of all options on communities and processors as well as the fishing fleets. The North Pacific Council shall present its analysis to the appropriations and authorizing committees of the Senate and House of Representatives in a timely manner.”
 
 #### Implementation of Amendments to Plans Required by Section 108(a) of Pub. L. 104–297
 
@@ -264,7 +264,7 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 &emsp;“(G) threshold criteria for determining whether a fishery may be considered for individual fishing quota management, including criteria related to the geographical range, population dynamics and condition of a fish stock, the socioeconomic characteristics of a fishery (including participants’ involvement in multiple fisheries in the region), and participation by commercial, charter, and recreational fishing sectors in the fishery;
 
-&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initial allocations, to require persons holding individual fishing quotas to be on board the vessel using such quotas, and to facilitate new entry under individual fishing quota programs;
+&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initialallocations, to require persons holding individual fishing quotas to be on board the vessel using such quotas, and to facilitate new entry under individual fishing quota programs;
 
 &emsp;“(I) potential social and economic costs and benefits to the nation, individual fishing quota recipients, and any recipients of Federal permits described in subparagraph (D) under individual fishing quota programs, including from capital gains revenue, the allocation of such quotas or permits through Federal auctions, annual fees and transfer fees at various levels, or other measures;
 

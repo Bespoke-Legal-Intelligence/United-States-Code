@@ -18,7 +18,7 @@ In authorizing the operation of vending facilities on Federal property, priority
 
 #### Codification
 
-The content of Pub. L. 93–516, including provisions thereof which amended and enacted various sections of this chapter, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
+The content of Pub. L. 93–516, including provisions thereof which amended and enacted various sections ofthis chapter, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
 Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this chapter should be deemed to have been amended by Pub. L. 93–651, Nov. 21, 1974, 89 Stat. 2–3, in exactly the same manner as it was amended by Pub. L. 93–516.
 
@@ -36,7 +36,7 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 
 #### Short Title of 1974 Amendment
 
-Section 200 of title II of Pub. L. 93–516 provided that: “This title \[enacting sections 107b–1 to 107b–3 and107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor\] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
+Section 200 of title II of Pub. L. 93–516 provided that: “This title \[enacting sections 107b–1 to 107b–3 and 107d–1 to 107d–4 of this title, amending this section, sections 107a, 107b, 107d, 107e of this title, and section 5108 of Title 5, Government Organization and Employees, repealing sections 107c and 107e–1 of this title, and enacting provisions set out as notes under this section and section 702 of Title 29, Labor\] may be cited as the ‘Randolph-Sheppard Act Amendments of 1974’.”
 
 An identical provision is in section 200 of Pub. L. 93–651. See Codification note above.
 

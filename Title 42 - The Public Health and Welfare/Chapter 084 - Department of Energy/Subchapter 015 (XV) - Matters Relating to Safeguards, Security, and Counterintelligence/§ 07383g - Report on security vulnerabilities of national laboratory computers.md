@@ -14,7 +14,7 @@ Not later than March 1 of each year, the report shall be submitted in classified
 
 #### (d) Forwarding to congressional committees
 
-Not later than 30 days after the report is submitted, the Secretary and the Director shall each separately forward that report, with the recommendations in classified and unclassified form of the Secretary or the Director, as applicable, in response to the findings of that report, to the following:
+Not later than 30 days after the report is submitted, the Secretary and the Director shalleach separately forward that report, with the recommendations in classified and unclassified form of the Secretary or the Director, as applicable, in response to the findings of that report, to the following:
 
 &emsp;(1) The Committee on Armed Services and the Select Committee on Intelligence of the Senate.
 

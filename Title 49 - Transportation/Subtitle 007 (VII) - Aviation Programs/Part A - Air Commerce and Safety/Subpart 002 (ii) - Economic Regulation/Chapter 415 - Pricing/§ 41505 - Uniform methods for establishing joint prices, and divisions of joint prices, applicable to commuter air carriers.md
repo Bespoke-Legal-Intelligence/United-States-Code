@@ -6,7 +6,7 @@ Definition.—In this section, “commuter air carrier” means an air carrier p
 
 (b)
 
-General.—Except as provided in subsection (c) of this section, when the Secretary of Transportation prescribes under section 41508 or 41509 of this title a uniform method generally applicable to establishing joint prices and divisions of joint prices for and between air carriers holding certificates issued under section 41102 of this title, the Secretary shall make that uniform method apply to establishing joint prices and divisions of joint prices for and between air carriers and commuter air carriers.
+General.—Except as provided in subsection (c) of this section, when the Secretary of Transportation prescribes under section 41508 or 41509 of this title a uniform method generallyapplicable to establishing joint prices and divisions of joint prices for and between air carriers holding certificates issued under section 41102 of this title, the Secretary shall make that uniform method apply to establishing joint prices and divisions of joint prices for and between air carriers and commuter air carriers.
 
 (c)
 

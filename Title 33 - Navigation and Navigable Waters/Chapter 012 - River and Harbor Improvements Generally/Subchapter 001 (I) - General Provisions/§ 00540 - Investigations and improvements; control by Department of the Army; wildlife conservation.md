@@ -18,5 +18,5 @@ Pub. L. 94–587, §158, Oct. 22, 1976, 90 Stat. 2933, directed the Secretary of
 
 #### Reimbursement of States for Water Resources Projects; Study
 
-Pub. L. 89–298, title III, §314, Oct. 27, 1965, 79 Stat. 1096, authorized the Secretary of the Army, through theChief of Engineers, to study the need for and feasibility of Federal reimbursement of certain public entities for their expenses incurred in connection with authorized projects for improvements of rivers, harbors, and certain other waterways, for various purposes, and to submit a report to Congress no later than Jan. 31, 1967, together with his recommendations in connection therewith.
+Pub. L. 89–298, title III, §314, Oct. 27, 1965, 79 Stat. 1096, authorized the Secretary of the Army, through the Chief of Engineers, to study the need for and feasibility of Federal reimbursement of certain public entities for their expenses incurred in connection with authorized projects for improvements of rivers, harbors, and certain other waterways, for various purposes, and to submit a report to Congress no later than Jan. 31, 1967, together with his recommendations in connection therewith.
 

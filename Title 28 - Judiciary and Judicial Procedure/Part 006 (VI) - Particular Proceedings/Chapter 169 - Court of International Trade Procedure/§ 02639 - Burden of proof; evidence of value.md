@@ -16,7 +16,7 @@
 
 #### References in Text
 
-Sections 515, 516, and 516A of the Tariff Act of 1930, referred to in subsec. (a)(1), are classified to sections 1515, 1516, and 1516a, respectively, of Title 19, Customs Duties.
+Sections 515, 516, and 516A of the Tariff Act of 1930, referred to in subsec. (a)(1), are classified to sections 1515,1516, and 1516a, respectively, of Title 19, Customs Duties.
 
 #### Prior Provisions
 

@@ -22,13 +22,13 @@ Any local government receiving assistance under this part may distribute all or 
 
 #### (e) Allocations to territories
 
-In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession ofthe United States, in accordance with an allocation formula established by the Secretary.
+In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
 
 (Pub. L. 100–77, title IV, §413, July 22, 1987, 101 Stat. 496; Pub. L. 100–628, title IV, §421, Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(f)(3)–(5), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(3), Oct. 26, 1996, 110 Stat. 4044.)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–330, §506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and “, or for Indian tribes” after “or urban county” in two places.
+1996—Subsec. (a). Pub. L. 104–330, §506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and“, or for Indian tribes” after “or urban county” in two places.
 
 Subsec. (c). Pub. L. 104–330, §506(a)(3)(B), struck out “or Indian tribe” after “Any local government”.
 

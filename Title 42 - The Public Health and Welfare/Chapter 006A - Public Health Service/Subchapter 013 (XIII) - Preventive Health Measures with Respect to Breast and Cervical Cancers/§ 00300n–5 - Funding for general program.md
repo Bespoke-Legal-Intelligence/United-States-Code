@@ -6,7 +6,7 @@ For the purpose of carrying out this subchapter, there are authorized to be appr
 
 #### (b) Set-aside for technical assistance and provision of supplies and services
 
-Of the amounts appropriated under subsection (a) of this section for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out section 300n–3 of this title.
+Of the amounts appropriated under subsection (a) of this section for a fiscal year, the Secretaryshall reserve not more than 20 percent for carrying out section 300n–3 of this title.
 
 (July 1, 1944, ch. 373, title XV, §1510, formerly §1509, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 415; renumbered §1510 and amended Pub. L. 103–183, title I, §§102(a)(1), (b), 103, Dec. 14, 1993, 107 Stat. 2229, 2230; Pub. L. 105–340, title II, §203(c)(2), Oct. 31, 1998, 112 Stat. 3194.)
 
@@ -16,7 +16,7 @@ Prior sections 300n–5 and 300n–6 were repealed by Pub. L. 99–660, title VI
 
 Section 300n–5, act July 1, 1944, ch. 373, title XV, §1536, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2257; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(p), (q), 91 Stat. 385; Oct. 4, 1979, Pub. L. 96–79, title I, §104(c)(1), 93 Stat. 596; Aug. 13, 1981, Pub. L. 97–35, title IX, §935(a), 95 Stat. 571; Jan. 4, 1983, Pub. L. 97–414, §8(p), 96 Stat. 2062, made special provisions for certain States and territories.
 
-Section 300n–6, act July 1, 1944, ch. 373, title XV, §1537, as added Aug. 13, 1981, Pub. L. 97–35, title IX,§933(b), 95 Stat. 570, authorized appropriations for grants and contracts under former sections 300<i>l</i>–5(a), 300m–4(a), and 300n–3(a) of this title.
+Section 300n–6, act July 1, 1944, ch. 373, title XV, §1537, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §933(b), 95 Stat. 570, authorized appropriations for grants and contracts under former sections 300<i>l</i>–5(a), 300m–4(a), and 300n–3(a) of this title.
 
 #### Amendments
 

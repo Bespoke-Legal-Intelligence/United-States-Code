@@ -25,6 +25,7 @@
 | (a) | Establishment and operation. |
 | (b) | Tuition and assistance when schools unavailable. |
 | (c) | Continuation of enrollment for certain dependents of members of Armed Forces involuntarily separated. |
+| (d) | Auxiliary services available to home school students. |
 | [927\.](%C2%A7%2000927%20-%20Allotment%20formula.md) | Allotment formula. |
 | (a) | Establishment by regulation of minimum allotment formula; criteria. |
 | (b) | Issuance, etc., of regulations. |

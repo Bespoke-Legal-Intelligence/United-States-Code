@@ -4,7 +4,7 @@
 
 (1) The Director of the Institute may provide, in accordance with subsection (c) of this section, for the development of—
 
-&emsp;(A) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (includingmethods of providing emergency medical services) for heart and blood vessel diseases;
+&emsp;(A) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (including methods of providing emergency medical services) for heart and blood vessel diseases;
 
 &emsp;(B) ten centers for basic and clinical research into, training in, and demonstration of, advanced diagnostic, prevention, and treatment and rehabilitation methods (including methods of providing emergency medical services) for lung diseases (including bronchitis, emphysema, asthma, cystic fibrosis, and other lung diseases of children);
 
@@ -48,7 +48,7 @@ The Director of the Institute shall provide, in accordance with subsection (c) o
 
 > As used in this subsection, the term “construction” does not include the acquisition of land, and the term “training” does not include research training for which National Research Service Awards may be provided under section 288 of this title.
 
-(4) Support of a center under paragraph (1) may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+(4) Support of a center under paragraph (1) may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five yearseach if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 (July 1, 1944, ch. 373, title IV, §422, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 839; amended Pub. L. 100–607, title I, §128, Nov. 4, 1988, 102 Stat. 3055; Pub. L. 103–43, title V, §502, June 10, 1993, 107 Stat. 158.)
 

@@ -64,7 +64,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (1) Establishment and inspection
 
-&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition in which any eligible low income housing project receiving incentives under this subchapter shall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
+&emsp;The Secretary shall, by regulation, establish standards regarding the physical condition in which any eligible low income housing project receiving incentives under this subchaptershall be maintained. The Secretary shall inspect each such project not less than annually to ensure that the project is in compliance with such standards.
 
 #### (2) Sanctions
 
@@ -98,7 +98,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### References in Text
 
-This title, referred to in subsecs. (a)(1) and (c)(1), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249,known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in subsecs. (a)(1) and (c)(1), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 Section 1715z–6(f) of this title, referred to in subsec. (d)(2)(A)(i), (C)(ii), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
 
@@ -154,7 +154,7 @@ Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported J
 
 “(1)
 
-In general.—Except as provided in paragraph (2), this section \[amending this section and section 4119 ofthis title\] shall take effect on the date of enactment of this Act \[Sept. 28, 1994\].
+In general.—Except as provided in paragraph (2), this section \[amending this section and section 4119 of this title\] shall take effect on the date of enactment of this Act \[Sept. 28, 1994\].
 
 “(2)
 

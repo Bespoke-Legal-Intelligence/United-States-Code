@@ -30,5 +30,5 @@ In clause (2), the words “chief executive officers” are substituted for “G
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–277, div. C, title I, §142(a), Oct. 21, 1998, 112 Stat. 2681–603, provided that: “This section \[enacting section 220512 of this title, amending sections 220501, 220503 to 220506, 220509 to 220511, 220521 to 220524, and 220528 of this title, and enacting provisions set out as a note under section 220501 of this title\] may be cited as the ‘Olympic and Amateur Sports Act Amendments of 1998’.”
+Pub. L. 105–277, div. C, title I, §142(a), Oct. 21, 1998, 112 Stat. 2681–603, provided that: “This section \[enacting section 220512 of this title, amending sections 220501,220503 to 220506, 220509 to 220511, 220521 to 220524, and 220528 of this title, and enacting provisions set out as a note under section 220501 of this title\] may be cited as the ‘Olympic and Amateur Sports Act Amendments of 1998’.”
 

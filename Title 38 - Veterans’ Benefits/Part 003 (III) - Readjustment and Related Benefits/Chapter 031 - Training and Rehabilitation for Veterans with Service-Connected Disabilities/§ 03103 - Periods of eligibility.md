@@ -24,13 +24,17 @@
 
 (d) In any case in which the Secretary has determined that a veteran's disability or disabilities are so severe that the achievement of a vocational goal currently is not reasonably feasible, such veteran may be afforded a program of independent living services and assistance in accordance with the provisions of section 3120 of this title after the expiration of the period of eligibility otherwise applicable to such veteran if the Secretary also determines that an extension of the period of eligibility of such veteran is necessary for such veteran to achieve maximum independence in daily living.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1503; amended Pub. L. 99–576, title III, §333(b)(2), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3103 and amended, Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(8), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §101(c), Oct. 9, 1996, 110 Stat. 3324.)
+(e) In any case in which the Secretary has determined that a veteran was prevented from participating in a vocational rehabilitation program under this chapter within the period of eligibility otherwise prescribed in this section as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, such period of eligibility shall not run for the period of such active duty service plus four months.
+
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2173, §1503; amended Pub. L. 99–576, title III, §333(b)(2), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3103 and amended, Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(8), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §101(c), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(2), Dec. 27, 2001, 115 Stat. 979.)
 
 #### Prior Provisions
 
 Prior section 3103 was renumbered section 5303 of this title.
 
 #### Amendments
+
+2001—Subsec. (e). Pub. L. 107–103 added subsec. (e).
 
 1996—Subsec. (b)(3). Pub. L. 104–275, §101(c)(1), substituted “rated at 10 percent or more” for “described in section 3102(1)(A)(i) of this title”.
 
@@ -51,6 +55,10 @@ Subsec. (b)(3). Pub. L. 102–83, §5(c)(1), substituted “3102(1)(A)” for �
 1989—Subsecs. (b) to (d). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
 1986—Subsec. (d). Pub. L. 99–576 inserted “currently” after “goal”.
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of Pub. L. 107–103, set out as a note under section 3013 of this title.
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ System for Monitoring Adverse Reactions.—(1) The Secretary shall establish a s
 
 Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that: “The Secretary of Defense shall—
 
-&emsp;“(1) not later than April 1, 2001, establish the uniform procedures for exemption from participation in the anthrax vaccine immunization program of theDepartment of Defense required under subsection (a) of section 1110 of title 10, United States Code (as added by subsection (b));
+&emsp;“(1) not later than April 1, 2001, establish the uniform procedures for exemption from participation in the anthrax vaccine immunization program of the Department of Defense required under subsection (a) of section 1110 of title 10, United States Code (as added by subsection (b));
 
 &emsp;“(2) not later than July 1, 2001, establish the system for monitoring adverse reactions of members of the Armed Forces to the anthrax vaccine required under subsection (b)(1) of such section;
 

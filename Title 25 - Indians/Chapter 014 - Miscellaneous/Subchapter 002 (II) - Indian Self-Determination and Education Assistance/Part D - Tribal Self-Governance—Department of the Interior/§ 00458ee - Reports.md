@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-The Secretary shall submit to Congress a written report on January 1 of each year following October 25, 1994, regarding the administration of this part.
+The Secretary shall submit to Congress a written report on January 1 of each year followingOctober 25, 1994, regarding the administration of this part.
 
 #### (b) Contents
 

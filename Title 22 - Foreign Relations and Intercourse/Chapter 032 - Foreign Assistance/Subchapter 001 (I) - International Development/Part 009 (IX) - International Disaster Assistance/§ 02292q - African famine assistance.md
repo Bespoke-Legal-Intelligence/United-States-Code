@@ -4,7 +4,7 @@
 
 The President is authorized to provide assistance for famine relief, rehabilitation, and recovery in Africa. Assistance under this section shall be provided for humanitarian purposes and shall be provided on a grant basis. Such assistance shall include—
 
-&emsp;(1) relief, rehabilitation, and recovery projects to benefit the poorest people, including the furnishing of seeds for planting, fertilizer, pesticides, farm implements, farm animals and vaccine and veterinary services toprotect livestock upon which people depend, blankets, clothing, and shelter, disease prevention and health care projects, water projects (including water purification and well-drilling), small-scale agricultural projects, and food protection and preservation projects; and
+&emsp;(1) relief, rehabilitation, and recovery projects to benefit the poorest people, including the furnishing of seeds for planting, fertilizer, pesticides, farm implements, farm animals and vaccine and veterinary services to protect livestock upon which people depend, blankets, clothing, and shelter, disease prevention and health care projects, water projects (including water purification and well-drilling), small-scale agricultural projects, and food protection and preservation projects; and
 
 &emsp;(2) projects to meet emergency health needs, including vaccinations.
 
@@ -16,7 +16,7 @@ The President is authorized to provide assistance for famine relief, rehabilitat
 
 #### (2) Emergency health projects
 
-&emsp;A significant portion of the funds authorized to be appropriated by this section shall be used for emergency health projects pursuant to subsection (a)(2) of this section.
+&emsp;A significant portion of the funds authorized to be appropriated by this section shall beused for emergency health projects pursuant to subsection (a)(2) of this section.
 
 #### (3) Management support activities
 

@@ -6,7 +6,7 @@ Relocation Program Requirements.—Financial assistance may be provided under se
 
 &emsp;(1) an adequate relocation program is being carried out for families displaced by a project; and
 
-&emsp;(2) an equal number of decent, safe, and sanitary dwellings are being, or will be, providedto those families in the same area or in another area generally not less desirable for public utilities and public and commercial facilities, at rents or prices within the financial means of those families, and with reasonable access to their places of employment.
+&emsp;(2) an equal number of decent, safe, and sanitary dwellings are being, or will be, provided to those families in the same area or in another area generally not less desirable for public utilities and public and commercial facilities, at rents or prices within the financial means of those families, and with reasonable access to their places of employment.
 
 (b)
 

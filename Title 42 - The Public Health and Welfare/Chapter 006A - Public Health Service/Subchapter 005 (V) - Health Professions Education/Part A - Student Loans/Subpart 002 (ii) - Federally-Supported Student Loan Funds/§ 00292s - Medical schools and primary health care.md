@@ -90,7 +90,7 @@
 
 #### (6) Reports by schools
 
-&emsp;Each agreement under section 292q of this title with a school of medicine or osteopathic medicine shall provide that the school will submit to the Secretary a report for each 1-year period under paragraph (1) that provides such information as the Secretary determines to be necessary for carrying out this subsection. Each such report shall include statistics concerning the current training or practice status of all graduates of such school whose date of graduation from the school occurred approximately 4 years before the end of the 1-year period involved.
+&emsp;Each agreement under section 292q of this title with a school of medicine or osteopathicmedicine shall provide that the school will submit to the Secretary a report for each 1-year period under paragraph (1) that provides such information as the Secretary determines to be necessary for carrying out this subsection. Each such report shall include statistics concerning the current training or practice status of all graduates of such school whose date of graduation from the school occurred approximately 4 years before the end of the 1-year period involved.
 
 #### (c) Definitions
 

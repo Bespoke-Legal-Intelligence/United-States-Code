@@ -1,6 +1,6 @@
 ### §6613. Functions of the Director
 
-(a) The primary function of the Director is to provide, within the Executive Office of the President, advice on the scientific, engineering, and technological aspects of issues that require attention at the highest levels of Government.
+(a) The primary function of the Director is to provide, within the Executive Office of thePresident, advice on the scientific, engineering, and technological aspects of issues that require attention at the highest levels of Government.
 
 (b) In addition to such other functions and activities as the President may assign, the Director shall—
 

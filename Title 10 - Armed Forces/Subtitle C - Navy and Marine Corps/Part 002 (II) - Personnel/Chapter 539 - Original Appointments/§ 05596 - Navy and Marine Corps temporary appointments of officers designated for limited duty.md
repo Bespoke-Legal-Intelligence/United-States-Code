@@ -1,6 +1,6 @@
 ### §5596. Navy and Marine Corps: temporary appointments of officers designated for limited duty
 
-(a) Under such regulations as he may prescribe, the Secretary of the Navy may make temporary appointments of officers designated for limited duty in the Regular Navy in grades not above lieutenant and in the Regular Marine Corps in grades not above captain from sources authorized under section 5589 of this title. Such appointments shall be made by warrant if in the grade of warrant officer, W–1, and by commission if in a higher grade.
+(a) Under such regulations as he may prescribe, the Secretary of the Navy may make temporary appointments of officers designated for limited duty in the Regular Navy in grades not above lieutenant and in the Regular Marine Corps in grades not above captain from sources authorized under section 5589 of this title. Suchappointments shall be made by warrant if in the grade of warrant officer, W–1, and by commission if in a higher grade.
 
 (b) Temporary appointments under this section do not change the permanent, probationary, or acting status of members so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. A person receiving a temporary appointment under this section may not suffer any reduction in the pay and allowances to which he was entitled because of his permanent status at the time of his temporary appointment, or any reduction in the pay and allowances to which he was entitled under a prior temporary appointment in a lower grade.
 
@@ -164,5 +164,5 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 532, 631, 632, 633, 5589, 6383 of this title.
+This section is referred to in sections 532, 631, 632, 633, 5589, 6221, 6383 of this title.
 

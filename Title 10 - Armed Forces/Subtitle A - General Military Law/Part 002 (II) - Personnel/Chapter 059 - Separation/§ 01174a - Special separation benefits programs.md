@@ -112,7 +112,7 @@ Subsec. (c)(2). Pub. L. 102–484, §§1052(15), 4422(a)(2), substituted “Dece
 
 Subsec. (c)(3). Pub. L. 102–484, §4422(a)(3), as amended by Pub. L. 103–35, §202(a)(17)(A), inserted “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty”.
 
-Subsec. (c)(4). Pub. L. 102–484, §4422(a)(4), as amended by Pub. L. 103–35, §202(a)(17)(B), inserted “and” aftersemicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
+Subsec. (c)(4). Pub. L. 102–484, §4422(a)(4), as amended by Pub. L. 103–35, §202(a)(17)(B), inserted “and” after semicolon at end and “or full-time National Guard duty or any combination of active duty and full-time National Guard duty” after “active duty” the first place it appeared.
 
 Subsec. (c)(5), (6). Pub. L. 102–484, §4424(a)(5), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “if a Reserve, is on an active duty list; and”.
 

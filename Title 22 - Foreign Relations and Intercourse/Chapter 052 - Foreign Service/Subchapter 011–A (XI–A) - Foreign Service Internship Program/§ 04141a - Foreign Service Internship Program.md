@@ -18,7 +18,7 @@ The program shall introduce interns to the practice of diplomacy and the unique 
 
 #### (d) Summer internships
 
-(1) The primary focus of the first internship shall be the study of international relations, the functions of the Department of State and other agencies which utilize the Foreign Service system, and the nature of the Foreign Service. The internship shall be held in Washington, District of Columbia, at the Department of State. As appropriate, the Secretary shall utilize the personnel and facilities of the Foreign Service Institute.
+(1) The primary focus of the first internship shall be the study of international relations, the functions of the Department of State and other agencies which utilize the Foreign Service system, and the nature of the Foreign Service. The internship shall be held in Washington, District of Columbia, at the Department of State. As appropriate, the Secretary shall utilize the personnel and facilities of the George P. Shultz National Foreign Affairs Training Center.
 
 (2) The second internship shall be, principally, an assignment to a specific bureau of the Department of State. Emphasis shall be on providing insight into the economic and political functional areas.
 
@@ -28,7 +28,7 @@ The program shall introduce interns to the practice of diplomacy and the unique 
 
 #### (e) Administration
 
-The Secretary of State shall determine the academic requirements, other selection criteria, and standards for successful completion of each internship period. The Secretary shall be responsible for the design, implementation, and operation of the program.
+The Secretary of State shall determine the academic requirements, other selection criteria,and standards for successful completion of each internship period. The Secretary shall be responsible for the design, implementation, and operation of the program.
 
 #### (f) Mentors
 
@@ -42,17 +42,17 @@ Interns shall be compensated at a rate determined by the Secretary which shall n
 
 The Secretary of State shall study the feasibility of administering the Foreign Service examination in separate segments over several years. Not later than 180 days after February 16, 1990, the Secretary shall submit a report summarizing the findings of such a study to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 96–465, title I, §1202, as added Pub. L. 101–246, title I, §149(b), Feb. 16, 1990, 104 Stat. 40.)
+(Pub. L. 96–465, title I, §1202, as added Pub. L. 101–246, title I, §149(b), Feb. 16, 1990, 104 Stat. 40; amended Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 #### Codification
 
 February 16, 1990, referred to in subsec. (h), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 101–246, which enacted this subchapter, to reflect the probable intent of Congress.
 
+#### Amendments
+
+2002—Subsec. (d)(1). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
+
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
-#### Authority of Secretary of State
-
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 

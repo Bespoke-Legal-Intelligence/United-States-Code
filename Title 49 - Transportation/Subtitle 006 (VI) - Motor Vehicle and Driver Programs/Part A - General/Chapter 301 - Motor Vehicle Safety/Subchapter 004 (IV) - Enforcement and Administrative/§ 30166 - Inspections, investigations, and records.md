@@ -38,7 +38,7 @@ Reasonable Compensation.—When a motor vehicle (except a vehicle subject to sub
 
 (e)
 
-Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whetherthe manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
+Records and Making Reports.—The Secretary of Transportation reasonably may require a manufacturer of a motor vehicle or motor vehicle equipment to keep records, and a manufacturer, distributor, or dealer to make reports, to enable the Secretary to decide whether the manufacturer, distributor, or dealer has complied or is complying with this chapter or a regulation prescribed or order issued under this chapter. This subsection does not impose a recordkeeping requirement on a distributor or dealer in addition to those imposed under subsection (f) of this section and section 30117(b) of this title or a regulation prescribed or order issued under subsection (f) or section 30117(b).
 
 (f)
 
@@ -134,7 +134,7 @@ Secretary's specifications.—In requiring the reporting of any information requ
 
 &emsp;&emsp;(B)
 
-Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
+Information in possession of manufacturer.—The regulations promulgated bythe Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
 
 &emsp;&emsp;(C)
 
@@ -304,7 +304,7 @@ This amends 49:30166(h) to clarify the restatement of 15:1401(c)(4) by section 1
 
 #### References in Text
 
-The date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation\(TREAD) Act, referred to in subsecs. (m)(1) and (n)(1), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
+The date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, referred to in subsecs. (m)(1) and (n)(1), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
 
 #### Amendments
 

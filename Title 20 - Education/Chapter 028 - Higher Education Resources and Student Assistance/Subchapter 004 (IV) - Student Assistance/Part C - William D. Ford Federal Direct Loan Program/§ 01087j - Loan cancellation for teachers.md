@@ -8,7 +8,7 @@ It is the purpose of this section to encourage individuals to enter and continue
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out a program of canceling the obligation to repay a qualified loan amount in accordance with subsection (c) of this section for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans made under this part for any new borrower on or after October 1, 1998, who—
+&emsp;The Secretary shall carry out a program of canceling the obligation to repay a qualified loan amount in accordance with subsection (c) of this section for Federal Direct StaffordLoans and Federal Direct Unsubsidized Stafford Loans made under this part for any new borrower on or after October 1, 1998, who—
 
 &emsp;&emsp;(A) has been employed as a full-time teacher for 5 consecutive complete school years—
 
@@ -28,7 +28,7 @@ It is the purpose of this section to encourage individuals to enter and continue
 
 #### (1) In general
 
-&emsp;The Secretary shall cancel not more than $5,000 in the aggregate of the loan obligationon a Federal Direct Stafford Loan or a Federal Direct Unsubsidized Stafford Loan that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1)(A) of this section.
+&emsp;The Secretary shall cancel not more than $5,000 in the aggregate of the loan obligation on a Federal Direct Stafford Loan or a Federal Direct Unsubsidized Stafford Loan that is outstanding after the completion of the fifth complete school year of teaching described in subsection (b)(1)(A) of this section.
 
 #### (2) Treatment of consolidation loans
 

@@ -6,7 +6,7 @@ In addition to amounts otherwise available for such purposes, there are authoriz
 
 #### (b) Transfer of funds
 
-For the purpose of providing the assistance described in subsection (a) of this section, funds appropriated pursuant to the authorizations in that subsection may be transferred by the President for obligation in accordance with the authorities of subchapter I of this chapter (including part IV of subchapter II of this chapter), the Peace Corps Act \[22 U.S.C. 2501 et seq.\], the Migration and Refugee Assistance Act of 1962 \[22 U.S.C. 2601 et seq.\], the United States Information and Education Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\], the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\], the National Endowment for Democracy Act \[22 U.S.C. 4411 et seq.\], and the State Department Basic Authorities Act of 1956.
+For the purpose of providing the assistance described in subsection (a) of this section, fundsappropriated pursuant to the authorizations in that subsection may be transferred by the President for obligation in accordance with the authorities of subchapter I of this chapter (including part IV of subchapter II of this chapter), the Peace Corps Act \[22 U.S.C. 2501 et seq.\], the Migration and Refugee Assistance Act of 1962 \[22 U.S.C. 2601 et seq.\], the United States Information and Education Exchange Act of 1948 \[22 U.S.C. 1431 et seq.\], the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\], the National Endowment for Democracy Act \[22 U.S.C. 4411 et seq.\], and the State Department Basic Authorities Act of 1956.
 
 (Pub. L. 87–195, pt. I, §465, as added Pub. L. 99–83, title VII, §701, Aug. 8, 1985, 99 Stat. 237.)
 
@@ -22,7 +22,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec.
 
 The National Endowment for Democracy Act, referred to in subsec. (b), is title V of Pub. L. 98–164, Nov. 22, 1983, 97 Stat. 1039, as amended, which is classified generally to subchapter II (§4411 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4411 of this title and Tables.
 
-The State Department Basic Authorities Act of 1956, referred to in subsec. (b), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, which enacted sections 2651a, 2669 to 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, and 2696 to 2724 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1956 Amendment note set out under section 2651 of this title and Tables.
+The State Department Basic Authorities Act of 1956, referred to in subsec. (b), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, which enacted sections 2651a, 2669 to 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, and 2696 to 2724 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -34,5 +34,5 @@ Another section 465 of Pub. L. 87–195 is classified to section 2285 of this ti
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

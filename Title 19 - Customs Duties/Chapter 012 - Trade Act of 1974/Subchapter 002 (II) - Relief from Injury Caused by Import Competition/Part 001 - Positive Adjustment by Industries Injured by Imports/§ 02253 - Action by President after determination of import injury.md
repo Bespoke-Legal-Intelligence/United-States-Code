@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1)(A) After receiving a report under section 2252(f) of this title containing an affirmative finding regarding serious injury, or the threat thereof, to a domestic industry, the Presidentshall take all appropriate and feasible action within his power which the President determines will facilitate efforts by the domestic industry to make a positive adjustment to import competition and provide greater economic and social benefits than costs.
+(1)(A) After receiving a report under section 2252(f) of this title containing an affirmative finding regarding serious injury, or the threat thereof, to a domestic industry, the President shall take all appropriate and feasible action within his power which the President determines will facilitate efforts by the domestic industry to make a positive adjustment to import competition and provide greater economic and social benefits than costs.
 
 (B) The action taken by the President under subparagraph (A) shall be to such extent, and for such duration, subject to subsection (e)(1) of this section, that the President determines to be appropriate and feasible under such subparagraph.
 
@@ -88,7 +88,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 #### (d) Time for taking effect of certain relief
 
-(1) Except as provided in paragraph (2), any action described in subsection (a)(3)(A), (B), or (C) of this section, that is taken under subsection (a)(1) of this section shall take effect within 15 days after the day on which the President proclaims the action, unless the President announces, on the date he decides to take such action, his intention to negotiate one or more agreements described in subsection (a)(3)(E) of this section in which case the action under subsection (a)(3)(A), (B), or (C) of this section shall be proclaimed and take effect within 90 days after the date of such decision.
+(1) Except as provided in paragraph (2), any action described in subsection (a)(3)(A), (B), or (C) of this section, that is taken under subsection (a)(1) of this section shall take effect within 15 days after the day on which the President proclaims the action, unless the President announces, on the date he decides to take such action, his intention to negotiate one or more agreements described in subsection (a)(3)(E) ofthis section in which case the action under subsection (a)(3)(A), (B), or (C) of this section shall be proclaimed and take effect within 90 days after the date of such decision.
 
 (2) If the contingency set forth in subsection (c) of this section occurs, the President shall, within 30 days after the date of the enactment of the joint resolution referred to in such subsection, proclaim the action recommended by the Commission under section 2252(e)(1) of this title.
 
@@ -142,13 +142,13 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 #### (f) Certain agreements
 
-(1) If the President takes action under this section other than the implemention of agreements of the type described in subsection (a)(3)(E) of this section, the President may, after such action takes effect, negotiate agreements of the type described in subsection (a)(3)(E) of this section, and may, after such agreements take effect, suspend or terminate, in whole or in part, any action previously taken.
+(1) If the President takes action under this section other than the implemention <sup>1</sup> of agreements of the type described in subsection (a)(3)(E) of this section, the President may, after such action takes effect, negotiate agreements of the type described in subsection (a)(3)(E) of this section, and may, after such agreements take effect, suspend or terminate, in whole or in part, any action previously taken.
 
 (2) If an agreement implemented under subsection (a)(3)(E) of this section is not effective, the President may, consistent with the limitations contained in subsection (e) of this section, take additional action under subsection (a) of this section.
 
 #### (g) Regulations
 
-(1) The President shall by regulation provide for the efficient and fair administration of all actions taken for the purpose of providing import relief under this part.
+(1) The President shall by regulation provide for the efficient and fair administration of allactions taken for the purpose of providing import relief under this part.
 
 (2) In order to carry out an international agreement concluded under this part, the President may prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement. In addition, in order to carry out any agreement of the type described in subsection (a)(3)(E) of this section that is concluded under this part with one or more countries accounting for a major part of United States imports of the article covered by such agreement, including imports into a major geographic area of the United States, the President may issue regulations governing the entry or withdrawal from warehouse of like articles which are the product of countries not parties to such agreement.
 
@@ -255,4 +255,6 @@ Pub. L. 88–482, §2, Aug. 22, 1964, 78 Stat. 594, as amended by Pub. L. 96–1
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1330, 1981, 2114d, 2133, 2137, 2192, 2194, 2252, 2254, 2436, 2463, 2581, 2703, 3203, 3602 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “implementation”.</i>
 

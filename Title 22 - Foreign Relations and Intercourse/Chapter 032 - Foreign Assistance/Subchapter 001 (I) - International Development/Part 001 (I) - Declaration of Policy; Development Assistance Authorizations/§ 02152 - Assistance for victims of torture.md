@@ -6,7 +6,7 @@ The President is authorized to provide assistance for the rehabilitation of vict
 
 #### (b) Eligibility for grants
 
-Such assistance shall be provided in the form of grants to treatment centers and programs in foreign countries that are carrying out projects or activities specifically designed to treat victims of torture for the physical and psychological effects of the torture.
+Such assistance shall be provided in the form of grants to treatment centers and programs inforeign countries that are carrying out projects or activities specifically designed to treat victims of torture for the physical and psychological effects of the torture.
 
 #### (c) Use of funds
 
@@ -52,7 +52,7 @@ Pub. L. 105–320, Oct. 30, 1998, 112 Stat. 3016, as amended by Pub. L. 106–87
 
 #### “SEC. 3. DEFINITION.
 
-“As used in this Act, the term ‘torture’ has the meaning given the term in section 2340(1) of title 18, UnitedStates Code, and includes the use of rape and other forms of sexual violence by a person acting under the color of law upon another person under his custody or physical control.
+“As used in this Act, the term ‘torture’ has the meaning given the term in section 2340(1) of title 18, United States Code, and includes the use of rape and other forms of sexual violence by a person acting under the color of law upon another person under his custody or physical control.
 
 #### “SEC. 4. FOREIGN TREATMENT CENTERS.
 

@@ -96,7 +96,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In subsections (a)–(c)(1), the word “Administrator” in section 603 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
 
-In subsection (a)(1), the text of 49 App.:1423(a)(2) (1st sentence 1st–16th words) and the words “in regulations” are omitted as surplus. The words “properly designed and manufactured, performs properly” are substituted for “of proper design, material, specification, construction, and performance for safe operation” to eliminate unnecessary words. The word “rules” is omitted as being synonymous with “regulations”. The words “under section 44701(a) of this title” and “for a type certificate” are added for clarity. The words “including flight tests and tests of raw materials or any part or appurtenance of such aircraft, aircraft engine, propeller, or appliance” are omitted as surplus.
+In subsection (a)(1), the text of 49 App.:1423(a)(2) (1st sentence 1st–16th words) and the words “in regulations” are omitted as surplus. The words “properly designed and manufactured, performs properly” are substituted for “of proper design, material, specification, construction, and performance for safe operation” toeliminate unnecessary words. The word “rules” is omitted as being synonymous with “regulations”. The words “under section 44701(a) of this title” and “for a type certificate” are added for clarity. The words “including flight tests and tests of raw materials or any part or appurtenance of such aircraft, aircraft engine, propeller, or appliance” are omitted as surplus.
 
 In subsection (a)(2)(A), the words “issuance of” are omitted as surplus.
 

@@ -48,7 +48,7 @@ There is hereby established a National Maritime Heritage Grants Advisory Committ
 
 #### (3) Term
 
-&emsp;The term of a member of the Committee appointed under paragraph (1) shall be 3 years, except that of the members first appointed 4 shall be appointed for an initial term of 1 year and 4 shall be appointed for an initial term of 2 years, as specified by the Secretary at the time of appointment.
+&emsp;The term of a member of the Committee appointed under paragraph (1) shall be 3 years, except that of the members first appointed 4 shall be appointed for an initial term of 1 year and 4 shall be appointed for an initial term of2 years, as specified by the Secretary at the time of appointment.
 
 #### (4) Completion of appointments
 

@@ -216,7 +216,7 @@ For purposes of this section—
 
 #### (4) Allocation
 
-&emsp;For purposes of this subsection, in the case of a facility in which more than 1 person hasan interest, productive capacity shall be allocated among such persons in such manner as the Secretary may prescribe.
+&emsp;For purposes of this subsection, in the case of a facility in which more than 1 person has an interest, productive capacity shall be allocated among such persons in such manner as the Secretary may prescribe.
 
 #### (5) Regulations
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (2) Amounts
 
-&emsp;For purposes of paragraph (1), the blender amount and the low-proof blender amount shall be determined in accordance with the following table:
+&emsp;For purposes of paragraph (1), the blender amount and the low-proof blender amountshall be determined in accordance with the following table:
 
 &nbsp;
 
@@ -334,7 +334,7 @@ Subsec. (d)(3)(A), (B). Pub. L. 97–424, §511(d)(3), substituted “50 cents�
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–178, title IX, §9003(b)(3), June 9, 1998, 112 Stat. 503, provided that: “The amendments made by this subsection \[amending this section and sections 4041, 4081, and 4091 of this title\] shall take effect on January 1, 2001.”
+Pub. L. 105–178, title IX, §9003(b)(3), June 9, 1998, 112 Stat. 503, provided that: “The amendments made bythis subsection \[amending this section and sections 4041, 4081, and 4091 of this title\] shall take effect on January 1, 2001.”
 
 #### Effective Date of 1996 Amendment
 

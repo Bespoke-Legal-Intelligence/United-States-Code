@@ -10,7 +10,7 @@ Application to Certain Set-Asides.—No funds may be transferred under this sect
 
 (c)
 
-Application to Certain CMAQ Funds.—The maximum amount that a State may transfer under this section of the State's apportionment under section 104(b)(2) for a fiscal year may not exceed 50 percent of (1) the amount of such apportionment, less (2) the amount that the State's apportionment under section 104(b)(2) for such fiscal year would have been had the program been funded at $1,350,000,000. Any such funds apportioned under section 104(b)(2) and transferred under this section may only beobligated in geographic areas eligible for the obligation of funds apportioned under section 104(b)(2).
+Application to Certain CMAQ Funds.—The maximum amount that a State may transfer under this section of the State's apportionment under section 104(b)(2) for a fiscal year may not exceed 50 percent of (1) the amount of such apportionment, less (2) the amount that the State's apportionment under section 104(b)(2) for such fiscal year would have been had the program been funded at $1,350,000,000. Any such funds apportioned under section 104(b)(2) and transferred under this section may only be obligated in geographic areas eligible for the obligation of funds apportioned under section 104(b)(2).
 
 (Added Pub. L. 105–178, title I, §1310(a), June 9, 1998, 112 Stat. 234, §110; renumbered §126, Pub. L. 106–159, title I, §102(a)(1), Dec. 9, 1999, 113 Stat. 1752.)
 

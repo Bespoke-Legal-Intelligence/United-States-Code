@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (d) Carryover of credit
 
-If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under subpart A of part IV of subchapter A (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under subpart A of part IV of subchapter A (other than this section and sections 23, 24, and 25B), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
 
 #### (e) Special rules
 
@@ -94,9 +94,19 @@ For purposes of this subtitle, if a credit is allowed under this section with re
 
 This section shall apply to property purchased after August 4, 1997, and before January 1, 2004.
 
-(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 867; amended Pub. L. 105–206, title VI, §6008(d)(1)–(5), July 22, 1998, 112 Stat. 811, 812; Pub. L. 106–170, title V, §510, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–554, §1(a)(7) \[title I, §163\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625.)
+(Added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 Stat. 867; amended Pub. L. 105–206, title VI, §6008(d)(1)–(5), July 22, 1998, 112 Stat. 811, 812; Pub. L. 106–170, title V, §510, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–554, §1(a)(7) \[title I, §163\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 107–16, title II, §§201(b)(2)(H), 202(f)(2)(C), title VI, §618(b)(2)(E), June 7, 2001, 115 Stat. 46, 49, 108.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (d). Pub. L. 107–16, §§618(b)(2)(E), 901, temporarily substituted “, 24, and 25B” for “and 24”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§202(f)(2)(C), 901, temporarily substituted “sections 23 and 24” for “section 24”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§201(b)(2)(H), 901, temporarily inserted “and section 24” after “this section”. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (i). Pub. L. 106–554 substituted “2004” for “2002”.
 
@@ -111,6 +121,16 @@ Subsec. (e)(2)(B). Pub. L. 105–206, §6008(d)(3), inserted “on the date the 
 Subsec. (e)(3). Pub. L. 105–206, §6008(d)(4), substituted “on the date such residence is purchased.” for “on the date of acquisition (within the meaning of section 72(t)(8)(D)(iii)).”
 
 Subsec. (i). Pub. L. 105–206, §6008(d)(5), substituted “Application of section” for “Termination” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply to any property purchased after December 31, 2000.”
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 201(b)(2)(H) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
+
+Amendment by section 202(f)(2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
+
+Amendment by section 618(b)(2)(E) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as a note under section 24 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

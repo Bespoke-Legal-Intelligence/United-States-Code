@@ -6,7 +6,7 @@ Policy Required.—The Secretary of Defense shall issue a single, uniform policy
 
 &emsp;(1) establish maximum levels for inventory items sufficient to achieve and maintain only those levels for inventory items necessary for the national defense;
 
-&emsp;(2) provide guidance to item managers and other appropriate officials on how effectively to eliminate wasteful practices in the acquisition and management of inventory items; and
+&emsp;(2) provide guidance to item managers and other appropriate officials on how effectivelyto eliminate wasteful practices in the acquisition and management of inventory items; and
 
 &emsp;(3) set forth a uniform system for the valuation of inventory items by the military departments and Defense Agencies.
 

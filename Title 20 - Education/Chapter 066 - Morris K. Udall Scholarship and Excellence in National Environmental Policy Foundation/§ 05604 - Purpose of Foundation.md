@@ -16,7 +16,7 @@ It is the purpose of the Foundation to—
 
 &emsp;(7) develop resources to properly train Native American and Alaska Native professionals in health care and public policy, by conducting management and leadership training of Native Americans, Alaska Natives, and others involved in tribal leadership, providing assistance and resources for policy analysis, and carrying out other appropriate activities.; <sup>1</sup>
 
-&emsp;(8) establish as part of the Foundation the United States Institute for Environmental Conflict Resolution to assist the Federal Government in implementing section 4331 of title 42 by providing assessment, mediation, andother related services to resolve environmental disputes involving agencies and instrumentalities of the United States; and
+&emsp;(8) establish as part of the Foundation the United States Institute for Environmental Conflict Resolution to assist the Federal Government in implementing section 4331 of title 42 by providing assessment, mediation, and other related services to resolve environmental disputes involving agencies and instrumentalities of the United States; and
 
 &emsp;(9) complement the direction established by the President in Executive Order No. 12988 (61 Fed. Reg. 4729; relating to civil justice reform).
 

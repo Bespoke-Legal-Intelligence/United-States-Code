@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-To be eligible to receive a grant award under this chapter, a State shall submit an applicationat such time and in such form as the Attorney General may reasonably require.
+To be eligible to receive a grant award under this chapter, a State shall submit an application at such time and in such form as the Attorney General may reasonably require.
 
 #### (b) Contents
 

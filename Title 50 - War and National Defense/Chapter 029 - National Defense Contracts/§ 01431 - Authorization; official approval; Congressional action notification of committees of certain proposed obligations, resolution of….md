@@ -10,7 +10,7 @@ The President may authorize any department or agency of the Government which exe
 
 Pub. L. 102–25, §705(f)(2), in fourth sentence, inserted “at the end of a Congress” after “sine die” and “, or because of an adjournment sine die other than at the end of a Congress,” after “to a day certain”.
 
-1990—Pub. L. 101–510 struck out before period at end of third sentence “and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such obligation”.
+1990—Pub. L. 101–510 struck out before period at end of third sentence “and 60 days of continuous session of Congress have expired following the date on which suchnotice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such obligation”.
 
 1973—Pub. L. 93–155 provided for notification of Congressional Committees with respect to certain proposed obligations, Congressional resolution of disapproval, continuity of Congressional session, and computation of period.
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 93–155 not affecting the carrying out of any contract, lo
 
 #### Ex. Ord. No. 10789. Contracting Authority of Government Agencies in Connection With National Defense Functions
 
-Ex. Ord. No. 10789, Nov. 14, 1958, 23 F.R. 8897, as amended by Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11610, July 22, 1971, 36 F.R. 13755; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12919, §904(b), June 3, 1994, 59 F.R. 29534, provided:
+Ex. Ord. No. 10789, Nov. 14, 1958, 23 F.R. 8897, as amended by Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11610, July 22, 1971, 36 F.R. 13755; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12919, §904(b), June 3, 1994, 59 F.R. 29534; Ex. Ord. No. 13232, Oct. 20, 2001, 66 F.R. 53941, provided:
 
 By virtue of the authority vested in me by the act of August 28, 1958, 72 Stat. 972, hereinafter called the act \[this chapter\], and as President of the United States, and deeming that such action will facilitate the national defense, it is hereby ordered as follows:
 
@@ -50,7 +50,7 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 (D) Claims arising (i) from indemnification agreements between the contractor and a subcontractor or subcontractors, or (ii) from such arrangements and further indemnification arrangements between subcontractors at any tier; provided that all such arrangements were entered into pursuant to regulations prescribed or approved by the Secretaries of Defense, the Army, the Navy, or the Air Force.
 
-(2) Indemnification and hold harmless agreements entered into pursuant to this subsection, whether between the United States and a contractor, or between a contractor and a subcontractor, or between two subcontractors, shall not cover claims or losses caused by the willful misconduct or lack of good faith on the partof any of the contractor's or subcontractor's directors or officers or principal officials which are (i) claims by the United States (other than those arising through subrogation) against the contractor or subcontractor, or (ii) losses affecting the property of such contractor or subcontractor. Regulations to be prescribed or approved by the Secretaries of Defense, the Army, the Navy or the Air Force shall define the scope of the term principal officials.
+(2) Indemnification and hold harmless agreements entered into pursuant to this subsection, whether between the United States and a contractor, or between a contractor and a subcontractor, or between two subcontractors, shall not cover claims or losses caused by the willful misconduct or lack of good faith on the part of any of the contractor's or subcontractor's directors or officers or principal officials which are (i) claims by the United States (other than those arising through subrogation) against the contractor or subcontractor, or (ii) losses affecting the property of such contractor or subcontractor. Regulations to be prescribed or approved by the Secretaries of Defense, the Army, the Navy or the Air Force shall define the scope of the term principal officials.
 
 (3) The United States may discharge its obligation under a provision authorized by subparagraph (a) by making payments directly to subcontractors or to third persons to whom a contractor or subcontractor may be liable.
 
@@ -102,7 +102,7 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 (e) the amendment of a contract negotiated under section 2304(a)(15) of Title 10 of the United States Code to increase the contract price to an amount higher than the lowest rejected bid of any responsible bidder; or
 
-(f) the formalization of an informal commitment, unless the Secretary of Defense, the Secretary of theArmy, the Secretary of the Navy, or the Secretary of the Air Force, or the duly authorized representative of any such Secretary, finds that at the time the commitment was made it was impracticable to use normal procurement procedures.
+(f) the formalization of an informal commitment, unless the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force, or the duly authorized representative of any such Secretary, finds that at the time the commitment was made it was impracticable to use normal procurement procedures.
 
 13\. The provisions of the Walsh-Healey Act (49 Stat. 2036), as amended \[sections 35 to 45 of Title 41, Public Contracts\], the Davis-Bacon Act (49 Stat. 1011), as amended \[sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works\], the Copeland Act (48 Stat. 948), as amended, and the Eight-Hour Law (37 Stat. 137), as amended \[sections 321 to 323 of Title 40\], if otherwise applicable, shall apply to contracts made and performed under the authority of this order.
 
@@ -121,6 +121,8 @@ Department of the Interior.
 Department of Agriculture.
 
 Department of Commerce.
+
+Department of Health and Human Services\[.\]
 
 Department of Transportation.
 

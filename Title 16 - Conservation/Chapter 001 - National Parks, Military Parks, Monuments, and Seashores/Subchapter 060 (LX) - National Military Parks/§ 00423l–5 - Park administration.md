@@ -2,11 +2,11 @@
 
 #### (a) Applicable laws
 
-The Secretary, acting through the Director of the National Park Service, shall administer the battlefield park in accordance with sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title and laws generally applicable to units of the National Park System, including sections 1, 2, 3, 4 of this title and sections 461 to 467 of this title.
+The Secretary, acting through the Director of the National Park Service, shall administer the battlefield park in accordance with sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title and laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (b) New Market Heights Battlefield
 
-The Secretary shall provide for the establishment of a monument or memorial suitable to honor the 14 Medal of Honor recipients from the United States Colored Troops who fought in the Battle of New Market Heights. The Secretaryshall include the Battle of New Market Heights and the role of black Union soldiers in the battle in historical interpretations provided to the public at the battlefield park.
+The Secretary shall provide for the establishment of a monument or memorial suitable to honor the 14 Medal of Honor recipients from the United States Colored Troops who fought in the Battle of New Market Heights. The Secretary shall include the Battle of New Market Heights and the role of black Union soldiers in the battle in historical interpretations provided to the public at the battlefield park.
 
 #### (c) Cooperative agreements
 

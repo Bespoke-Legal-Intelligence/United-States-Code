@@ -2,9 +2,9 @@
 
 (a)
 
-Program for Employees of Air Carriers and Foreign Air Carriers.—(1) In the interest of aviation safety, the Administrator of the Federal Aviation Administration shall prescribe regulations that establish a program requiring air carriers and foreign air carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of airmen, crew members, airport security screening contract personnel, and other air carrier employees responsible for safety-sensitive functions (as decided by the Administrator) for the use of a controlled substance in violation of law or a United States Government regulation; and to conduct reasonable suspicion, random, and post-accident testing of airmen, crew members, airport security screening contract personnel, and other air carrier employees responsible for safety-sensitive functions (as decided by the Administrator) for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit air carriers and foreign air carriers to conduct preemployment testing of airmen, crew members, airport security screening contract personnel, and other air carrier employees responsible for safety-sensitive functions (as decided by the Administrator) for the use of alcohol.
+Program for Employees of Air Carriers and Foreign Air Carriers.—(1) In the interest of aviation safety, the Administrator of the Federal Aviation Administration shall prescribe regulations that establish a program requiring air carriers and foreign air carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of airmen, crew members, airport security screening personnel, and other air carrier employees responsible for safety-sensitive functions (as decided by the Administrator) for the use of a controlled substance in violation of law or a United States Government regulation; and to conduct reasonable suspicion, random, and post-accident testing of airmen, crew members, airport security screening personnel, and other air carrier employees responsible for safety-sensitive functions (as decided by the Administrator) for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit air carriers and foreign air carriers to conduct preemployment testing of airmen, crew members, airport security screening personnel, and other air carrier employees responsible for safety-sensitive functions (as decided by the Administrator) for the use of alcohol.
 
-(2) When the Administrator considers it appropriate in the interest of safety, the Administrator may prescribe regulations for conducting periodic recurring testing of airmen, crewmembers, airport security screening contract personnel, and other air carrier employees responsible for safety-sensitive functions for the use of alcohol or a controlled substance in violation of law or a Government regulation.
+(2) When the Administrator considers it appropriate in the interest of safety, the Administrator may prescribe regulations for conducting periodic recurring testing of airmen, crewmembers, airport security screening personnel, and other air carrier employees responsible for safety-sensitive functions for the use of alcohol or a controlled substance in violation of law or a Government regulation.
 
 (b)
 
@@ -16,7 +16,7 @@ Program for Employees of the Federal Aviation Administration.—(1) The Administ
 
 Sanctions.—In prescribing regulations under the programs required by this section, the Administrator shall require, as the Administrator considers appropriate, the suspension or revocation of any certificate issued to an individual referred to in this section, or the disqualification or dismissal of the individual, under this chapter when a test conducted and confirmed under this chapter indicates the individual has used alcohol or a controlled substance in violation of law or a Government regulation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1221; Pub. L. 104–59, title III, §342(d), Nov. 28, 1995, 109 Stat. 609.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1221; Pub. L. 104–59, title III, §342(d), Nov. 28, 1995, 109 Stat. 609; Pub. L. 107–71, title I, §139(1), Nov. 19, 2001, 115 Stat. 640.)
 
 Historical and Revision Notes
 
@@ -46,6 +46,8 @@ In subsections (a)(2) and (b)(2), the word “also” is omitted as surplus.
 
 #### Amendments
 
+2001—Subsec. (a). Pub. L. 107–71 substituted “personnel” for “contract personnel” wherever appearing.
+
 1995—Subsec. (a)(1). Pub. L. 104–59, §342(d)(1), added par. (1) and struck out former par. (1) which read as follows: “In the interest of aviation safety, the Administrator of the Federal Aviation Administration shall prescribe regulations not later than October 28, 1992, that establish a program requiring air carriers and foreign air carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of airmen, crewmembers, airport security screening contract personnel, and other air carrier employees responsible for safety-sensitive functions (as decided by the Administrator) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
 
 Subsec. (b)(1). Pub. L. 104–59, §342(d)(2), added par. (1) and struck out former par. (1) which read as follows: “The Administrator shall establish a program of preemployment, reasonable suspicion, random, and post-accident testing for the use of alcohol or a controlled substance in violation of law or a Government regulation for employees of the Administration whose duties include responsibility for safety-sensitive functions.”
@@ -56,5 +58,5 @@ Pub. L. 103–305, title V, §501, Aug. 23, 1994, 108 Stat. 1594, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 45104, 45105 of this title.
+This section is referred to in sections 45104, 45105, 45107 of this title.
 

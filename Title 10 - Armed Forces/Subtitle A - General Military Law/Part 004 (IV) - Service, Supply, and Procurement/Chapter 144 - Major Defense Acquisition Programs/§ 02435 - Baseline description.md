@@ -8,17 +8,17 @@ Baseline Description Requirement.—(1) The Secretary of a military department s
 
 (b)
 
-Funding Limit.—No amount appropriated or otherwise made available to the Department of Defense for carrying out a major defense acquisition program may be obligated after the program enters engineering and manufacturing development without an approved baseline description unless such obligation is specifically approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+Funding Limit.—No amount appropriated or otherwise made available to the Department of Defense for carrying out a major defense acquisition program may be obligated after the program enters system development and demonstration without an approved baseline description unless such obligation is specifically approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
 (c)
 
 Schedule.—A baseline description for a major defense acquisition program shall be prepared under this section—
 
-&emsp;(1) before the program enters demonstration and validation;
+&emsp;(1) before the program enters system development and demonstration;
 
-&emsp;(2) before the program enters engineering and manufacturing development; and
+&emsp;(2) before the program enters production and deployment; and
 
-&emsp;(3) before the program enters production and deployment.
+&emsp;(3) before the program enters full rate production.
 
 (d)
 
@@ -32,7 +32,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 &emsp;(4) Procedures for submission to, and approval by, the Secretary of Defense of revised baseline descriptions.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §904(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §904(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(b)(6), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, §803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, §1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, §1207(b), title XIV, §1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, §3005(a), Oct. 13, 1994, 108 Stat. 3330; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
+(Added Pub. L. 99–500, §101(c) \[title X, §904(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §904(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, §7(b)(6), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, §803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, §1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, §1207(b), title XIV, §1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, §3005(a), Oct. 13, 1994, 108 Stat. 3330; Pub. L. 107–107, div. A, title VIII, §821(d), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1182, 1225.)
 
 #### Historical and Revision Notes
 
@@ -48,7 +48,15 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 #### Amendments
 
-1999—Subsecs. (b), (d)(2). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+2001—Subsec. (b). Pub. L. 107–107, §§821(d)(1), 1048(b)(2), substituted “system development and demonstration” for “engineering and manufacturing development” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+
+Subsec. (c)(1). Pub. L. 107–107, §821(d)(2)(A), substituted “system development and demonstration” for “demonstration and validation”.
+
+Subsec. (c)(2). Pub. L. 107–107, §821(d)(2)(B), substituted “production and deployment” for “engineering and manufacturing development”.
+
+Subsec. (c)(3). Pub. L. 107–107, §821(d)(2)(C), substituted “full rate production” for “production and deployment”.
+
+Subsec. (d)(2). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1994—Pub. L. 103–355 amended section generally. Prior to amendment, section related to enhanced program stability.
 

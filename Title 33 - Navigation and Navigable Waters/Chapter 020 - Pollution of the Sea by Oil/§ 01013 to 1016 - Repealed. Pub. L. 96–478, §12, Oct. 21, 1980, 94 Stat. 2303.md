@@ -6,7 +6,7 @@ Section 1014, Pub. L. 87–167, §15, formerly §16, Aug. 30, 1961, 75 Stat. 407
 
 Section 1015, Pub. L. 87–167, §17, Aug. 30, 1961, 75 Stat. 407; Pub. L. 89–551, §1(10), Sept. 1, 1966, 80 Stat. 375, specified the effective date of this chapter and provided savings provision for rights, liabilities, procedures, or regulations existing on the effective date of this chapter. Pub. L. 93–119, §2(15), Oct. 4, 1973, 87 Stat. 428, which provided for the repeal of this section was repealed by section 12 of Pub. L. 96–478.
 
-Section 1016, Pub. L. 93–119, §3, Oct. 4, 1973, 87 Stat. 428, provided effective date of 1973 amendments to this chapter by Pub. L. 93–119, the subsections covering thefollowing subject matter: subsec. (a) general effective date; subsec. (b) savings provision; and subsec. (c) effective date of section 1004(d) and (e) of this title.
+Section 1016, Pub. L. 93–119, §3, Oct. 4, 1973, 87 Stat. 428, provided effective date of 1973 amendments to this chapter by Pub. L. 93–119, the subsections covering the following subject matter: subsec. (a) general effective date; subsec. (b) savings provision; and subsec. (c) effective date of section 1004(d) and (e) of this title.
 
 #### Effective Date of Repeal
 

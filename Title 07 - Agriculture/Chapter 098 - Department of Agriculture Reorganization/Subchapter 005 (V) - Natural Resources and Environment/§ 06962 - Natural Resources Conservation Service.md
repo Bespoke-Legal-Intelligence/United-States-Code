@@ -18,7 +18,7 @@ If the Secretary establishes the Natural Resources Conservation Service under su
 
 &emsp;(5) The Farms for the Future Act of 1990 (7 U.S.C. 4201 note).
 
-&emsp;(6) Such other functions as the Secretary considers appropriate, except functions under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831–3836).
+&emsp;(6) Such other functions as the Secretary considers appropriate, except functions under subchapter B of chapter 1 of subtitle D of titleXII of the Food Security Act of 1985 (16 U.S.C. 3831–3836).
 
 #### (c) Special concurrence requirements for certain functions
 

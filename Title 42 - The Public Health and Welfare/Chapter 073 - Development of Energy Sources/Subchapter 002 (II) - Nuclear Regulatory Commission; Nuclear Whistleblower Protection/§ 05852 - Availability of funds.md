@@ -2,7 +2,7 @@
 
 #### (a) Appropriations for salaries and expenses; additional purposes
 
-Funds appropriated for “Nuclear Regulatory Commission—Salaries and Expenses” shall be available to the Commission for the following additional purposes:
+Funds appropriated for “Nuclear Regulatory Commission—Salaries and Expenses” shall beavailable to the Commission for the following additional purposes:
 
 &emsp;(1) Employment of aliens.
 

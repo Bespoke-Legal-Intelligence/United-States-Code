@@ -30,7 +30,7 @@ Fund Purposes.—(1) Funds in the National Defense Sealift Fund shall be availab
 
 Deposits.—There shall be deposited in the Fund the following:
 
-&emsp;(1) All funds appropriated to the Department of Defense for fiscal years after fiscal year 1993 for—
+&emsp;(1) All funds appropriated to the Department of Defense for—
 
 &emsp;&emsp;(A) construction (including design of vessels), purchase, alteration, and conversion of national defense sealift vessels;
 
@@ -88,7 +88,7 @@ Authority for Certain Use of Funds.—Upon a determination by the Secretary of D
 
 Contracts for Incorporation of Defense Features in Commercial Vessels.—(1) The head of an agency may enter into a contract with a company submitting an offer for that company to install and maintain defense features for national defense purposes in one or more commercial vessels owned or controlled by that company in accordance with the purpose for which funds in the National Defense Sealift Fund are available under subsection (c)(1)(C). The head of the agency may enter into such a contract only after the head of the agency makes a determination of the economic soundness of the offer. As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.
 
-(2) The head of an agency may make advance payments to the contractor under a contractunder paragraph (1) in a lump sum, in annual payments, or in a combination thereof for costs associated with the installation and maintenance of the defense features on a vessel covered by the contract, as follows:
+(2) The head of an agency may make advance payments to the contractor under a contract under paragraph (1) in a lump sum, in annual payments, or in a combination thereof for costs associated with the installation and maintenance of the defense features on a vessel covered by the contract, as follows:
 
 &emsp;(A) The costs to build, procure, and install a defense feature in the vessel.
 
@@ -152,7 +152,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term “head of an agency” has the meaning given that term in section 2302(1) of this title.
 
-(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251.)
+(Added Pub. L. 102–484, div. A, title X, §1024(a)(1), Oct. 23, 1992, 106 Stat. 2486; amended Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896; Pub. L. 104–106, div. A, title X, §1014(a), title XV, §1502(a)(15), Feb. 10, 1996, 110 Stat. 423, 503; Pub. L. 106–65, div. A, title X, §§1014(b), 1015, 1067(1), Oct. 5, 1999, 113 Stat. 742, 743, 774; Pub. L. 106–398, §1 \[\[div. A\], title X, §1011\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251; Pub. L. 107–107, div. A, title X, §1048(e)(9), Dec. 28, 2001, 115 Stat. 1228.)
 
 #### References in Text
 
@@ -163,6 +163,8 @@ Section 1424 of Public Law 101–510, referred to in subsecs. (d)(3), (f)(2), an
 Pub. L. 102–396, title V, Oct. 6, 1992, 106 Stat. 1896, provided that section 1024 of the National Defense Authorization Act for Fiscal Year 1993 \[H.R. 5006, Pub. L. 102–484\], as it passed the Senate on Oct. 3, 1992, shall be amended in subsection 2218(c)(2) proposed for inclusion in this chapter by deleting all after “expended only” down to and including “appropriations Act” and inserting in lieu thereof “in amounts authorized by law”. It further provided that for purposes of that amendment, Pub. L. 102–396 shall be treated as having been enacted after Pub. L. 102–484, regardless of the actual dates of enactment. The date of Oct. 3, 1992, referred to as the date the Senate passed the National Defense Authorization Act for Fiscal Year 1993, apparently is based on an order adopted by the Senate on Oct. 3, 1992 \[Cong. Rec., vol. 138, p. 30919\] providing that when the conference report on the National Defense Authorization Act for Fiscal Year 1993 was received by the Senate from the House of Representatives it would be deemed to have been agreed to. On Oct. 5, 1992, the Senate received the conference report from the House, and it was considered adopted pursuant to that order \[Cong. Rec., vol. 138, p. 31565\].
 
 #### Amendments
+
+2001—Subsec. (d)(1). Pub. L. 107–107 struck out “for fiscal years after fiscal year 1993” after “Department of Defense” in introductory provisions.
 
 2000—Subsec. (k)(1). Pub. L. 106–398, §1 \[\[div. A\], title X, §1011(1)\], inserted at end “As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.”
 

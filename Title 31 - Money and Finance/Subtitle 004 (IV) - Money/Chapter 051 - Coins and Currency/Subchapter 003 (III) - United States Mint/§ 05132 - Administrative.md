@@ -24,7 +24,7 @@
 
 (c) The Secretary shall make an annual report at the end of each fiscal year on the operation of the United States Mint.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L.99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, §2(a), Nov. 6, 2000, 114 Stat. 1931.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, §1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, §123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, §1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, §204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, §2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, §2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, §2(a), Nov. 6, 2000, 114 Stat. 1931.)
 
 Historical and Revision Notes<br>1982
 

@@ -20,7 +20,7 @@ Subject to the availability of appropriations, for any fiscal year in which each
 
 #### (d) Additional grants
 
-For any fiscal year in which each Center described in subsection (a) of this section receivesa grant award of not less than $500,000 under subsection (a) of this section (adjusted in accordance with subsection (b) of this section), after making the grant awards, the Secretary may make grants under section 15061(a) of this title for activities described in section 15063(a) of this title to additional Centers, or additional grants to Centers, for States or populations that are unserved or underserved by Centers due to such factors as—
+For any fiscal year in which each Center described in subsection (a) of this section receives a grant award of not less than $500,000 under subsection (a) of this section (adjusted in accordance with subsection (b) of this section), after making the grant awards, the Secretary may make grants under section 15061(a) of this title for activities described in section 15063(a) of this title to additional Centers, or additional grants to Centers, for States or populations that are unserved or underserved by Centers due to such factors as—
 
 &emsp;(1) population;
 

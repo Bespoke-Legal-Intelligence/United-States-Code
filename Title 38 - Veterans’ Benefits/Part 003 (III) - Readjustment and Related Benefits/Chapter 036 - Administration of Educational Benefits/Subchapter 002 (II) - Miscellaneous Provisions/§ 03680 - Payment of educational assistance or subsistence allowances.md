@@ -68,11 +68,25 @@
 
 ### Determination of Enrollment, Pursuit, and Attendance
 
-(g) The Secretary may, pursuant to regulations which the Secretary shall prescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education or training or course by an eligible veteran or eligible person for any period for which the veteran or person receives an educational assistance or subsistence allowance under this chapter for pursuing such program or course. Subject to such reports and proof as the Secretary may require to show an eligible veteran's or eligible person's enrollment in and satisfactory pursuit of such person's program, the Secretary may withhold payment of benefits to such eligible veteran or eligible person until the required proof is received and the amount of the payment is appropriately adjusted. The Secretary may accept such veteran's or person's monthly certification of enrollment in and satisfactory pursuit of such veteran's or person's program as sufficient proof of the certified matters.
+(g)(1) The Secretary may, pursuant to regulations which the Secretary shall prescribe, determine and define with respect to an eligible veteran and eligible person the following:
 
-(Added Pub. L. 92–540, title II, §201, Oct. 24, 1972, 86 Stat. 1076, §1780; amended Pub. L. 93–208, Dec. 28, 1973, 87 Stat. 907; Pub. L. 93–508, title II, §209, Dec. 3, 1974, 88 Stat. 1584; Pub. L. 94–502, title V, §§505, 506, 513(a)(5)–(12), Oct. 15, 1976, 90 Stat. 2400, 2402, 2403; Pub. L. 96–466, title III, §§341, 342, title VI, §§601(c), (d), 602(c), Oct. 17, 1980, 94 Stat. 2198, 2208, 2209; Pub. L. 97–35, title XX, §2003(c), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–295, §4(52), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 97–306, title II, §205(c), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 99–576, title III, §§315(a)(1), 316, title VII, §701(59), Oct. 28, 1986, 100 Stat. 3274, 3296; Pub. L. 100–689, title I, §121(a), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 101–237, title IV, §§412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3680 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §6(a), Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title III, §314, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, §605(a)(2)(B), title XII, §1201(i)(6), Nov. 2, 1994, 108 Stat. 4672, 4688; Pub. L. 106–419, title I, §121(a), Nov. 1, 2000, 114 Stat. 1833.)
+&emsp;(A) Enrollment in a course or program of education or training.
+
+&emsp;(B) Pursuit of a course or program of education or training.
+
+&emsp;(C) Attendance at a course or program of education or training.
+
+(2) The Secretary may withhold payment of benefits to an eligible veteran or eligible person until the Secretary receives such proof as the Secretary may require of enrollment in and satisfactory pursuit of a program of education by the eligible veteran or eligible person. The Secretary shall adjust the payment withheld, when necessary, on the basis of the proof the Secretary receives.
+
+(3) In the case of an individual other than an individual described in paragraph (4), the Secretary may accept the individual's monthly certification of enrollment in and satisfactory pursuit of a program of education as sufficient proof of the certified matters.
+
+(4) In the case of an individual who has received an accelerated payment of basic educational assistance under section 3014A of this title during an enrollment period for a program of education, the Secretary may accept the individual's certification of enrollment in and satisfactory pursuit of the program of education as sufficient proof of the certified matters if the certification is submitted after the enrollment period has ended.
+
+(Added Pub. L. 92–540, title II, §201, Oct. 24, 1972, 86 Stat. 1076, §1780; amended Pub. L. 93–208, Dec. 28, 1973, 87 Stat. 907; Pub. L. 93–508, title II, §209, Dec. 3, 1974, 88 Stat. 1584; Pub. L. 94–502, title V, §§505, 506, 513(a)(5)–(12), Oct. 15, 1976, 90 Stat. 2400, 2402, 2403; Pub. L. 96–466, title III, §§341, 342, title VI, §§601(c), (d), 602(c), Oct. 17, 1980, 94 Stat. 2198, 2208, 2209; Pub. L. 97–35, title XX, §2003(c), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–295, §4(52), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 97–306, title II, §205(c), Oct. 14, 1982, 96 Stat. 1434; Pub. L. 99–576, title III, §§315(a)(1), 316, title VII, §701(59), Oct. 28, 1986, 100 Stat. 3274, 3296; Pub. L. 100–689, title I, §121(a), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 101–237, title IV, §§412(a), 415(a), 423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2085, 2086, 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3680 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §6(a), Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title III, §314, Oct. 29, 1992, 106 Stat. 4333; Pub. L. 103–446, title VI, §605(a)(2)(B), title XII, §1201(i)(6), Nov. 2, 1994, 108 Stat. 4672, 4688; Pub. L. 106–419, title I, §121(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §104(b), Dec. 27, 2001, 115 Stat. 981.)
 
 #### Amendments
+
+2001—Subsec. (g). Pub. L. 107–103 amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary may, pursuant to regulations which the Secretary shall prescribe, determine and define enrollment in, pursuit of, and attendance at, any program of education or training or course by an eligible veteran or eligible person for any period for which the veteran or person receives an educational assistance or subsistence allowance under this chapter for pursuing such program or course. Subject to such reports and proof as the Secretary may require to show an eligible veteran's or eligible person's enrollment in and satisfactory pursuit of such person's program, the Secretary may withhold payment of benefits to such eligible veteran or eligible person until the required proof is received and the amount of the payment is appropriately adjusted. The Secretary may accept such veteran's or person's monthly certification of enrollment in and satisfactory pursuit of such veteran's or person's program as sufficient proof of the certified matters.”
 
 2000—Subsec. (a)(C). Pub. L. 106–419 amended subcl. (C) generally. Prior to amendment, subcl. (C) read as follows: “during periods between a semester, term, or quarter where the educational institution certifies the enrollment of the eligible veteran or eligible person on an individual semester, term, or quarter basis if the interval between such periods does not exceed one full calendar month.”
 
@@ -164,6 +178,10 @@ Subsecs. (g), (h). Pub. L. 94–502, §513(a)(10), (12), redesignated subsec. (h
 
 1973—Subsec. (a). Pub. L. 93–208 inserted provisions that the Administrator may continue to pay allowances to eligible veterans and eligible persons enrolled in courses set forth in cl. (1) or (2) of this subsection during periods when the schools are temporarily closed under an established policy based upon an Executive Order of the President or due to an emergency situation, and that such periods shall not be counted as absences for the purposes of cl. (2).
 
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–103 effective Oct. 1, 2002, and applicable with respect to enrollments in courses or programs of education or training beginning on or after that date, see section 104(c) of Pub. L. 107–103, set out as an Effective Date note under section 3014A of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–419, title I, §121(b), Nov. 1, 2000, 114 Stat. 1833, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to payments of educational assistance under title 38, United States Code, for months beginning on or after the date of the enactment of this Act \[Nov. 1, 2000\].”
@@ -226,5 +244,5 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3034, 3108, 3684, 3698, 5113 of this title.
+This section is referred to in sections 3014A, 3034, 3108, 3684, 3698, 5113 of this title.
 

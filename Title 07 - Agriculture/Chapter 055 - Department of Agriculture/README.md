@@ -87,6 +87,7 @@
 | [2233\.](%C2%A7%2002233%20-%20Funds%20available%20for%20expenses%20of%20advisory%20committees.md) | Funds available for expenses of advisory committees. |
 | [2234\.](%C2%A7%2002234%20-%20Purchases%20for%20bureaus%20from%20appropriations%20for%20contingent%20expenses.md) | Purchases for bureaus from appropriations for contingent expenses. |
 | [2235\.](%C2%A7%2002235%20-%20Working%20capital%20fund%20established%3B%20use%20of%20central%20services%20by%20bureaus%2C%20etc.%2C%20of%20the%20Department.md) | Working capital fund established; use of central services by bureaus, etc., of the Department. |
+| [2235a.](%C2%A7%2002235a%20-%20Deposit%20and%20retention%20of%20credit%20card%20refunds%20or%20rebates.md) | Deposit and retention of credit card refunds or rebates. |
 | [2236\.](%C2%A7%2002236%20-%20Working%20capital%20fund%20for%20Agricultural%20Research%20Center%3B%20establishment.md) | Working capital fund for Agricultural Research Center; establishment. |
 | [2237\.](%C2%A7%2002237%20-%20Use%20of%20field%20work%20funds%20for%20employment%20of%20men%20with%20equipment%2C%20etc.md) | Use of field work funds for employment of men with equipment, etc. |
 | [2238\.](%C2%A7%2002238%20-%20Use%20of%20field%20work%20funds%20for%20purchase%20of%20arms%20and%20ammunition.md) | Use of field work funds for purchase of arms and ammunition. |
@@ -266,6 +267,7 @@
 - [&sect; 02233 - Funds available for expenses of advisory committees](%C2%A7%2002233%20-%20Funds%20available%20for%20expenses%20of%20advisory%20committees.md)
 - [&sect; 02234 - Purchases for bureaus from appropriations for contingent expenses](%C2%A7%2002234%20-%20Purchases%20for%20bureaus%20from%20appropriations%20for%20contingent%20expenses.md)
 - [&sect; 02235 - Working capital fund established; use of central services by bureaus, etc., of the Department](%C2%A7%2002235%20-%20Working%20capital%20fund%20established%3B%20use%20of%20central%20services%20by%20bureaus%2C%20etc.%2C%20of%20the%20Department.md)
+- [&sect; 02235a - Deposit and retention of credit card refunds or rebates](%C2%A7%2002235a%20-%20Deposit%20and%20retention%20of%20credit%20card%20refunds%20or%20rebates.md)
 - [&sect; 02236 - Working capital fund for Agricultural Research Center; establishment](%C2%A7%2002236%20-%20Working%20capital%20fund%20for%20Agricultural%20Research%20Center%3B%20establishment.md)
 - [&sect; 02237 - Use of field work funds for employment of men with equipment, etc](%C2%A7%2002237%20-%20Use%20of%20field%20work%20funds%20for%20employment%20of%20men%20with%20equipment%2C%20etc.md)
 - [&sect; 02238 - Use of field work funds for purchase of arms and ammunition](%C2%A7%2002238%20-%20Use%20of%20field%20work%20funds%20for%20purchase%20of%20arms%20and%20ammunition.md)

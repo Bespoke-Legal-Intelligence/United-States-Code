@@ -178,11 +178,11 @@
 
 &emsp;&emsp;&emsp;(v) Involvement in the program by private entities, organizations, neighborhood organizations, and community groups, particularly those in the renewal community, including a commitment from such private entities to provide jobs and job training for, and technical, financial, or other assistance to, employers, employees, and residents from the renewal community.
 
-&emsp;&emsp;&emsp;(vi) The gift (or sale at below fair market value) of surplus real property (such as land, homes, and commercial or industrialstructures) in the renewal community to neighborhood organizations, community development corporations, or private companies.
+&emsp;&emsp;&emsp;(vi) The gift (or sale at below fair market value) of surplus real property (such as land, homes, and commercial or industrial structures) in the renewal community to neighborhood organizations, community development corporations, or private companies.
 
 #### (B) Recognition of past efforts
 
-&emsp;&emsp;For purposes of this section, in evaluating the course of action agreed to by any State or local government, the Secretary of Housing and Urban Development shall take into account the past efforts of such State or local government in reducing the various burdens borne by employers and employees in the area involved.
+&emsp;&emsp;For purposes of this section, in evaluating the course of action agreed to by any State or local government, the Secretary of Housing and Urban Development shall take into account the past efforts of such State or local government in reducing the variousburdens borne by employers and employees in the area involved.
 
 #### (3) Economic growth promotion requirements
 
@@ -298,7 +298,7 @@ Meetings.—The Advisory Council shall meet at the call of the Secretary or the 
 
 “(a)
 
-Hearings and Sessions.—The Advisory Council may, for the purpose of carrying out this part, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Advisory Council considers appropriate. The Advisory Council may administer oaths or affirmations to witnesses appearing before it.
+Hearings and Sessions.—The Advisory Council may, for the purpose of carrying out this part, holdhearings, sit and act at times and places, take testimony, and receive evidence as the Advisory Council considers appropriate. The Advisory Council may administer oaths or affirmations to witnesses appearing before it.
 
 “(b)
 

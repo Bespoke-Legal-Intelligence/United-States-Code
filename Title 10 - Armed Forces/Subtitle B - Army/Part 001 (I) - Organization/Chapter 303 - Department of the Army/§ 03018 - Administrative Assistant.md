@@ -46,5 +46,5 @@ In subsection (c), the words “during the temporary absence of the Secretary”
 
 #### Prior Provisions
 
-A prior section 3018, added Pub. L. 85–861, §1(59)(A), Sept. 2, 1958, 72 Stat. 1462, prescribed compensation ofGeneral Counsel of Department of the Army, prior to repeal by Pub. L. 88–426, title III, §305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964.
+A prior section 3018, added Pub. L. 85–861, §1(59)(A), Sept. 2, 1958, 72 Stat. 1462, prescribed compensation of General Counsel of Department of the Army, prior to repeal by Pub. L. 88–426, title III, §305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964.
 

@@ -58,11 +58,11 @@ On roll-your-own tobacco, manufactured in or imported into the United States, th
 
 The taxes imposed by this section on tobacco products and cigarette papers and tubes imported into the United States shall be in addition to any import duties imposed on such articles, unless such import duties are imposed in lieu of internal revenue tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81 Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 705; Mar. 30, 1955, ch. 18, §3(a)(9), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(9), 70 Stat. 66; Pub. L. 85–12, §3(a)(7), Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §3(a)(7), June 30, 1958, 72 Stat. 259; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1414; Pub. L. 86–75, §3(a)(7), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(9), June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §1, Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–72, §3(a)(9), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(8), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(9), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(9), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §§501(f), 502(a), June 21, 1965, 79 Stat. 150; Pub. L. 90–240, §4(a), Jan. 2, 1968, 81Stat. 776; Pub. L. 94–455, title XIX, §1905(a)(24), title XXI, §2128(a), Oct. 4, 1976, 90 Stat. 1821, 1921; Pub. L. 97–248, title II, §283(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 99–272, title XIII, §13202(a), Apr. 7, 1986, 100 Stat. 311; Pub. L. 100–647, title V, §5061(a), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(a)–(f), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(a)–(g)(1), (h)(3), Aug. 5, 1997, 111 Stat. 671, 672, 674.)
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §9302(b)(1), substituted “$1.828 cents per thousand ($1.594 cents perthousand on cigars removed during 2000 or 2001)” for “$1.125 cents per thousand (93.75 cents per thousand on cigars removed during 1991 or 1992)”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §9302(b)(1), substituted “$1.828 cents per thousand ($1.594 cents per thousand on cigars removed during 2000 or 2001)” for “$1.125 cents per thousand (93.75 cents per thousand on cigars removed during 1991 or 1992)”.
 
 Subsec. (a)(2). Pub. L. 105–33, §9302(b)(2), substituted “equal to 20.719 percent (18.063 percent on cigars removed during 2000 or 2001) of the price for which sold but not more than $48.75 per thousand ($42.50 per thousand on cigars removed during 2000 or 2001).” for “equal to—
 
@@ -138,7 +138,7 @@ Subsec. (c)(1). Pub. L. 86–564 substituted “July 1, 1961” for “July 1, 1
 
 <b>1959</b>—Subsec. (c)(1). Pub. L. 86–75 substituted “July 1, 1960” for “July 1, 1959” in two places.
 
-<b>1958</b>—Subsec. (b). Pub. L. 85–859 provided that in determining the retail price, for tax purposes, regard shall be had to the ordinary retail price of a single cigar in its principal market, exclusive of any State or local taxes imposed on the retail sale of cigars, and required cigars not exempt from tax under this chapter which are removed but not intended for sale to be taxed at the same rate as similar cigars removed for sale.
+<b>1958</b>—Subsec. (b). Pub. L. 85–859 provided that in determining the retail price, for tax purposes, regard shall be had to the ordinary retail price of a singlecigar in its principal market, exclusive of any State or local taxes imposed on the retail sale of cigars, and required cigars not exempt from tax under this chapter which are removed but not intended for sale to be taxed at the same rate as similar cigars removed for sale.
 
 Subsec. (c)(1). Pub. L. 85–475 substituted “July 1, 1959” for “July 1, 1958” in two places.
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 #### Coordination With Tobacco Industry Settlement Agreement
 
-Section 9302(k) of Pub. L. 105–33, as added by Pub. L. 105–34, title XVI, §1604(f)(3), Aug. 5, 1997, 111 Stat. 1099, which provided that the increase in excise taxes collected as a result of the amendments made by subsections (a), (e), and (g) of section 9302 of Pub. L. 105–33 (amending this section and section 5702 of this title) were to be credited against the total payments made byparties pursuant to Federal legislation implementing the tobacco industry settlement agreement of June 20, 1997, was repealed by Pub. L. 105–78, title V, §519, Nov. 13, 1997, 111 Stat. 1519.
+Section 9302(k) of Pub. L. 105–33, as added by Pub. L. 105–34, title XVI, §1604(f)(3), Aug. 5, 1997, 111 Stat. 1099, which provided that the increase in excise taxes collected as a result of the amendments made by subsections (a), (e), and (g) of section 9302 of Pub. L. 105–33 (amending this section and section 5702 of this title) were to be credited against the total payments made by parties pursuant to Federal legislation implementing the tobacco industry settlement agreement of June 20, 1997, was repealed by Pub. L. 105–78, title V, §519, Nov. 13, 1997, 111 Stat. 1519.
 
 #### Floor Stocks Taxes
 

@@ -6,7 +6,7 @@
 
 (c)(1) The notification required by subsection (b) of this section shall be given to the following persons in the following manner:
 
-&emsp;(A) by certified mail to the first purchaser for other than resale, except that the requirement for notification of the first purchaser shall be satisfied if the recreational vesselmanufacturer exercises reasonable diligence in establishing and maintaining a list of those purchasers and their current addresses, and sends the required notice to each person on that list at the address appearing on the list.
+&emsp;(A) by certified mail to the first purchaser for other than resale, except that the requirement for notification of the first purchaser shall be satisfied if the recreational vessel manufacturer exercises reasonable diligence in establishing and maintaining a list of those purchasers and their current addresses, and sends the required notice to each person on that list at the address appearing on the list.
 
 &emsp;(B) by certified mail to subsequent purchasers if known to the manufacturer.
 

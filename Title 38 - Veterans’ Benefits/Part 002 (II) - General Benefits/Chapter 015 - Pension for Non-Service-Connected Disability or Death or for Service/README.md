@@ -23,6 +23,7 @@
 | :--- | ---: |
 | [1511\.](Subchapter%20002%20%28II%29%20-%20Veterans%E2%80%99%20Pensions/Service%20Pension/%C2%A7%2001511%20-%20Indian%20War%20veterans.md) | Indian War veterans. |
 | [1512\.](Subchapter%20002%20%28II%29%20-%20Veterans%E2%80%99%20Pensions/Service%20Pension/%C2%A7%2001512%20-%20Spanish-American%20War%20veterans.md) | Spanish-American War veterans. |
+| [1513\.](Subchapter%20002%20%28II%29%20-%20Veterans%E2%80%99%20Pensions/Service%20Pension/%C2%A7%2001513%20-%20Veterans%2065%20years%20of%20age%20and%20older.md) | Veterans 65 years of age and older. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -75,6 +76,8 @@
 
 #### Amendments
 
+2001—Pub. L. 107–103, title II, §207(a)(2), Dec. 27, 2001, 115 Stat. 991, added item 1513.
+
 1992—Pub. L. 102–568, title IV, §§402(c)(2)(B), 403(b)(2), Oct. 29, 1992, 106 Stat. 4337, 4338, substituted “Vocational training for certain pension recipients” for “Temporary program of vocational training for certain new pension recipients” in item 1524 and “Protection” for “Temporary protection” in item 1525.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 501 to 562 as 1501 to 1562, respectively.
@@ -111,7 +114,7 @@ Surviving Spouses of Veterans of All Periods of War” following item 543, and s
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1312, 1315, 1717, 1718, 5125, 5304, 5306, 5310, 5317 of this title; title 26 section 6103; title 31 section 3803; title 42 section 6862.
+This chapter is referred to in sections 1312, 1315, 1717, 1718, 5125, 5304, 5306, 5310, 5313B, 5317 of this title; title 26 section 6103; title 31 section 3803; title 42 section 6862.
 
 
 ---

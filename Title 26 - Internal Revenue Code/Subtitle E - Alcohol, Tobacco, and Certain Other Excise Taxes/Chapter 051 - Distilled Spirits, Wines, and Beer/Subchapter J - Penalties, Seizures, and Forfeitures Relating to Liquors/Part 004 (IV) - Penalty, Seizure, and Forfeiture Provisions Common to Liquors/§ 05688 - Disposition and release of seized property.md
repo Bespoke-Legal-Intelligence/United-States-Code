@@ -18,7 +18,7 @@
 
 #### (3) Limitation on disposal
 
-&emsp;Except as otherwise provided by law, no distilled spirits, wines, or beer which have been seized under any law of the United States may be disposed of in any manner whatsoever except after forfeiture and as provided in this subsection.
+&emsp;Except as otherwise provided by law, no distilled spirits, wines, or beer which have been seized under any law of the United States maybe disposed of in any manner whatsoever except after forfeiture and as provided in this subsection.
 
 #### (4) Regulations
 
@@ -26,7 +26,7 @@
 
 #### (5) Remission or mitigation of forfeitures
 
-&emsp;Nothing in this section shall affect the authority of the Secretary, under the customs or internal revenue laws, to remit or mitigate the forfeiture, or alleged forfeiture, of such distilled spirits, wines, or beer, or the authority of the Secretary, to compromise any civilor criminal case in respect of such distilled spirits, wines, or beer prior to commencement of suit thereon, or the authority of the Secretary to compromise any claim under the customs laws in respect to such distilled spirits, wines, or beer.
+&emsp;Nothing in this section shall affect the authority of the Secretary, under the customs or internal revenue laws, to remit or mitigate the forfeiture, or alleged forfeiture, of such distilled spirits, wines, or beer, or the authority of the Secretary, to compromise any civil or criminal case in respect of such distilled spirits, wines, or beer prior to commencement of suit thereon, or the authority of the Secretary to compromise any claim under the customs laws in respect to such distilled spirits, wines, or beer.
 
 #### (b) Distraint or judicial process
 

@@ -6,11 +6,11 @@ Providing Information.—Under guidelines the Secretary of Transportation prescr
 
 (b)
 
-Flight Cancellation.—If a decision is made that a particular threat cannot be addressed in a way adequate to ensure, to the extent feasible, the safety of passengers and crew of a particular flight or series of flights, the Administrator of the Federal Aviation Administration shall cancel the flight or series of flights.
+Flight Cancellation.—If a decision is made that a particular threat cannot be addressed in a way adequate to ensure, to the extent feasible, the safety of passengers and crew of a particular flight or series of flights, the Under Secretary of Transportation for Security shall cancel the flight or series of flights.
 
 (c)
 
-Guidelines on Public Notice.—(1) The President shall develop guidelines for ensuring that public notice is provided in appropriate cases about threats to civil aviation. The guidelines shall identify officials responsible for—
+Guidelines on Public Notice.—(1) The President shall develop guidelines for ensuring that public notice is provided in appropriatecases about threats to civil aviation. The guidelines shall identify officials responsible for—
 
 &emsp;(A) deciding, on a case-by-case basis, if public notice of a threat is in the best interest of the United States and the traveling public;
 
@@ -28,15 +28,15 @@ Guidelines on Public Notice.—(1) The President shall develop guidelines for en
 
 &emsp;(D) the protection of intelligence information sources and methods;
 
-&emsp;(E) cancellation, by an air carrier or the Administrator, of a flight or series of flights instead of public notice;
+&emsp;(E) cancellation, by an air carrier or the Under Secretary, of a flight or series of flights instead of public notice;
 
 &emsp;(F) the ability of passengers and crew to take steps to reduce the risk to their safety after receiving public notice of a threat; and
 
-&emsp;(G) other factors the Administrator considers appropriate.
+&emsp;(G) other factors the Under Secretary considers appropriate.
 
 (d)
 
-Guidelines on Notice to Crews.—The Administrator shall develop guidelines for ensuring that notice in appropriate cases of threats to the security of an air carrier flight is provided to the flight crew and cabin crew of that flight.
+Guidelines on Notice to Crews.—The Under Secretary shall develop guidelines for ensuring that notice in appropriate cases of threats to the security of an air carrier flight is provided to the flight crew and cabin crew of that flight.
 
 (e)
 
@@ -44,13 +44,13 @@ Limitation on Notice to Selective Travelers.—Notice of a threat to civil aviat
 
 (f)
 
-Restricting Access to Information.—In cooperation with the departments, agencies, and instrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Administrator shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction onaccess to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
+Restricting Access to Information.—In cooperation with the departments, agencies, and instrumentalities of the Government that collect, receive, and analyze intelligence information related to aviation security, the Under Secretary shall develop procedures to minimize the number of individuals who have access to information about threats. However, a restriction on access to that information may be imposed only if the restriction does not diminish the ability of the Government to carry out its duties and powers related to aviation security effectively, including providing notice to the public and flight and cabin crews under this section.
 
 (g)
 
 Distribution of Guidelines.—The guidelines developed under this section shall be distributed for use by appropriate officials of the Department of Transportation, the Department of State, the Department of Justice, and air carriers.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1207.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1207; Pub. L. 107–71, title I, §101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -105,6 +105,12 @@ In subsection (c)(1)(B), the words “when considered appropriate” are omitted
 In subsection (e), the words “selective potential travelers” are substituted for “only selective potential travelers” to eliminate an unnecessary word.
 
 In subsection (f), the words “departments, agencies, and instrumentalities of the Government” are substituted for “agencies” for clarity and consistency in the revised title and with other titles of the United States Code. The words “However, a restriction on access to that information may be imposed only if the restriction does not diminish” are substituted for “Any restriction adopted pursuant to this subsection shall not diminish” for clarity.
+
+#### Amendments
+
+2001—Subsec. (b). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+
+Subsecs. (c)(2)(E), (G), (d), (f). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
 
 #### Section Referred to in Other Sections
 

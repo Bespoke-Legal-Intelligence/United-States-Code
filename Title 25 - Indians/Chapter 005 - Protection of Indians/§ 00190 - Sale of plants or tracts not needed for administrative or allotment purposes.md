@@ -4,7 +4,7 @@ Subject to applicable regulations under the Federal Property and Administrative 
 
 And the Secretary of the Interior is further authorized, where a tract to be disposed of under this section or any other Act authorizing the disposition of tribal lands requires survey as basis for a deed or patent, to accept from the grantee, in addition to the purchase price, an amount sufficient to cover the survey costs.
 
-The net proceeds of sale of any tribal site, plant, or tract shall be deposited in the Treasury of the United States to the credit of the Indians owning the same, to be disposed of for their benefit in accordance with existing law.
+The net proceeds of sale of any tribal site, plant, or tract shall be deposited in the Treasuryof the United States to the credit of the Indians owning the same, to be disposed of for their benefit in accordance with existing law.
 
 (Apr. 12, 1924, ch. 93, 43 Stat. 93; Oct. 31, 1951, ch. 654, §2(16), 65 Stat. 707.)
 

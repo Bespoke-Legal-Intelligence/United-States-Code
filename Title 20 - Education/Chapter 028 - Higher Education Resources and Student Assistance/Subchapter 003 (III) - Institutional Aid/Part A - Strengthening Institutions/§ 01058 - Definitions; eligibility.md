@@ -58,7 +58,7 @@ For the purpose of this part, the term “full-time equivalent students” means
 
 For the purpose of this part, the term “junior or community college” means an institution of higher education—
 
-&emsp;(1) that admits as regular students persons who are beyond the age of compulsory schoolattendance in the State in which the institution is located and who have the ability to benefit from the training offered by the institution;
+&emsp;(1) that admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located and who have the ability to benefit from the training offered by the institution;
 
 &emsp;(2) that does not provide an educational program for which it awards a bachelor's degree (or an equivalent degree); and
 

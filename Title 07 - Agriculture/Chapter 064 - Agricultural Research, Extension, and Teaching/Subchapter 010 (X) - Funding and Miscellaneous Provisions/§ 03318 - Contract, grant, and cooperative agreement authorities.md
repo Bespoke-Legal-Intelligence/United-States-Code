@@ -26,7 +26,7 @@ The Secretary may vest title to expendable and nonexpendable equipment and suppl
 
 Unless otherwise provided in this chapter, the Secretary may enter into contracts, grants, or cooperative agreements, as authorized by this section, without regard to any requirements for competition, the provisions of section 5 of title 41, and the provisions of section 3324(a) and (b) of title 31.
 
-(Pub. L. 95–113, title XIV, §1472, as added Pub. L. 97–98, title XIV, §1439(a), Dec. 22, 1981, 95 Stat.1315; amended Pub. L. 99–198, title XIV, §1424, Dec. 23, 1985, 99 Stat. 1552.)
+(Pub. L. 95–113, title XIV, §1472, as added Pub. L. 97–98, title XIV, §1439(a), Dec. 22, 1981, 95 Stat. 1315; amended Pub. L. 99–198, title XIV, §1424, Dec. 23, 1985, 99 Stat. 1552.)
 
 #### References in Text
 

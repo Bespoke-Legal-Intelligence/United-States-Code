@@ -8,3 +8,7 @@ There is in the Department a Deputy Secretary of Veterans Affairs, who is appoin
 
 Provisions similar to those in this section were contained in section 210(d) of this title and in section 3(a) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(3).
 
+#### Order of Succession
+
+For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+

@@ -8,7 +8,7 @@ Until otherwise provided by law and notwithstanding any other provision of law, 
 
 No person shall be paid compensation as a Lyndon Baines Johnson congressional intern who does not have on file with the Chief Administrative Officer of the House of Representatives, at all times during the period of his employment as such intern, an appropriate certificate which is applicable to his intern status, as described below:
 
-&emsp;(1) if the intern is a student, a certificate that such intern was during the academic year immediately preceding his employment, a bona fide student at a college, university, or similar institution of higher learning; or
+&emsp;(1) if the intern is a student, a certificate that such intern was during the academic year immediately preceding his employment, abona fide student at a college, university, or similar institution of higher learning; or
 
 &emsp;(2) if the intern is a teacher, a certificate that such intern was, in the year immediately preceding his employment, a bona fide teacher in government or social studies at a secondary school or a postsecondary school.
 
@@ -40,5 +40,5 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date
 
-Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into permanent law by Pub. L.93–245, provided that: “The provisions of this resolution \[enacting this section and repealing House Resolution No. 416, Eighty-ninth Congress, formerly classified to this section\] shall become effective on January 1, 1974.”
+Section 3 of House Resolution No. 420, Ninety-third Congress, as enacted into permanent law by Pub. L. 93–245, provided that: “The provisions of this resolution \[enacting this section and repealing House Resolution No. 416, Eighty-ninth Congress, formerly classified to this section\] shall become effective on January 1, 1974.”
 

@@ -24,7 +24,7 @@ The Advisory Board should provide advice and guidance to the Board of Trustees o
 
 #### (2) United States representative
 
-&emsp;Notwithstanding any other provision of law (including an international agreement), a representative of the United States on the Advisory Board may not accept compensation forservices performed as a member of the Board, except that such representative may accept travel expenses, including per diem in lieu of subsistence, while away from the representative's home or regular place of business in the performance of services for the Board.
+&emsp;Notwithstanding any other provision of law (including an international agreement), a representative of the United States on the Advisory Board may not accept compensation for services performed as a member of the Board, except that such representative may accept travel expenses, including per diem in lieu of subsistence, while away from the representative's home or regular place of business in the performance of services for the Board.
 
 (Pub. L. 106–264, title I, §124, Aug. 19, 2000, 114 Stat. 756.)
 

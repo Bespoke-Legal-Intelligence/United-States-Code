@@ -48,7 +48,7 @@ The State plan shall provide that in the case of individuals other than those de
 
 (3) A State shall not require prepayment of a premium imposed pursuant to paragraph (1) and shall not terminate eligibility of an individual for medical assistance under this subchapter on the basis of failure to pay any such premium until such failure continues for a period of not less than 60 days. The State may waive payment of any such premium in any case where the State determines that requiring such payment would create an undue hardship.
 
-(4) A State may permit State or local funds available under other programs to be used forpayment of a premium imposed under paragraph (1). Payment of a premium with such funds shall not be counted as income to the individual with respect to whom such payment is made.
+(4) A State may permit State or local funds available under other programs to be used for payment of a premium imposed under paragraph (1). Payment of a premium with such funds shall not be counted as income to the individual with respect to whom such payment is made.
 
 #### (d) Premiums for qualified disabled and working individuals described in section 1396d(s)
 
@@ -70,7 +70,7 @@ No deduction, cost sharing, or similar charge may be imposed under any waiver au
 
 &emsp;(4) is based on a reasonable hypothesis which the demonstration is designed to test in a methodologically sound manner, including the use of control groups of similar recipients of medical assistance in the area, and
 
-&emsp;(5) is voluntary, or makes provision for assumption of liability for preventable damage to the health of recipients of medical assistance resulting from involuntary participation.
+&emsp;(5) is voluntary, or makes provision for assumption of liability for preventable damageto the health of recipients of medical assistance resulting from involuntary participation.
 
 #### (g) Individuals provided medical assistance under section 1396a(a)(10)(A)(ii)(XV) or (XVI)
 
@@ -146,7 +146,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 Section 4101(d)(2) of Pub. L. 100–203 provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on July 1, 1988.”
 
-Amendment by section 4211(h)(11) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by section 4211(h)(11) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated bysuch date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 #### Effective Date of 1986 Amendments
 

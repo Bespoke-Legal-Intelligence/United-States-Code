@@ -30,7 +30,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;(2) more than one committee of the House or the Senate is directed to determine and recommend changes, each such committee so directed shall promptly make such determination and recommendations and submit such recommendations to the Committee on the Budget of its House, which, upon receiving all such recommendations, shall report to its House reconciliation legislation carrying out all such recommendations without any substantive revision.
 
-> For purposes of this subsection, a reconciliation resolution is a concurrent resolution directingthe Clerk of the House of Representatives or the Secretary of the Senate, as the case may be, to make specified changes in bills and resolutions which have not been enrolled.
+> For purposes of this subsection, a reconciliation resolution is a concurrent resolution directing the Clerk of the House of Representatives or the Secretary of the Senate, as the case may be, to make specified changes in bills and resolutions which have not been enrolled.
 
 #### (c) Compliance with reconciliation directions
 
@@ -128,7 +128,7 @@ Subsec. (g). Pub. L. 99–177, in amending section generally, added subsec. (g).
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginningafter Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
 
 #### Section Referred to in Other Sections
 

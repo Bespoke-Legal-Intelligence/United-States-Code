@@ -96,7 +96,7 @@ For purposes of this chapter:
 
 &emsp;(30) The term “Yucca Mountain site” means the candidate site in the State of Nevada recommended by the Secretary to the President under section 10132(b)(1)(B) of this title on May 27, 1986.
 
-&emsp;(31) The term “affected unit of local government” means the unit of local government with jurisdiction over the site of a repository or a monitored retrievable storage facility. Such term may, at the discretion of the Secretary, include units of local government that are contiguous with such unit.
+&emsp;(31) The term “affected unit of local government” means the unit of local government with jurisdiction over the site of a repositoryor a monitored retrievable storage facility. Such term may, at the discretion of the Secretary, include units of local government that are contiguous with such unit.
 
 &emsp;(32) The term “Negotiator” means the Nuclear Waste Negotiator.
 
@@ -108,7 +108,7 @@ For purposes of this chapter:
 
 #### References in Text
 
-Section 10224 of this title, referred to in par. (17), was in the original a reference to section 305 of Pub. L.97–425, which is classified to section 10225 of this title, and was translated as section 10224 of this title as the probable intent of Congress, in view of the Office of Civilian Radioactive Waste Management being established by section 10224 of this title.
+Section 10224 of this title, referred to in par. (17), was in the original a reference to section 305 of Pub. L. 97–425, which is classified to section 10225 of this title, and was translated as section 10224 of this title as the probable intent of Congress, in view of the Office of Civilian Radioactive Waste Management being established by section 10224 of this title.
 
 The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

@@ -98,7 +98,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (A) In general
 
-&emsp;&emsp;Each capital structure plan of a Federal home loan bank shall require each memberof the bank to maintain a minimum investment in the stock of the bank, the amount of which shall be determined in a manner to be prescribed by the board of directors of each bank and to be included as part of the plan.
+&emsp;&emsp;Each capital structure plan of a Federal home loan bank shall require each member of the bank to maintain a minimum investment in the stock of the bank, the amount of which shall be determined in a manner to be prescribed by the board of directors of each bank and to be included as part of the plan.
 
 #### (B) Investment alternatives
 
@@ -168,7 +168,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 &emsp;&emsp;(A) an independent certified public accountant, to ensure, to the extent possible, that implementation of the plan would not result in any write-down of the redeemable bank stock investment of its members; and
 
-&emsp;&emsp;(B) at least one major credit rating agency, to determine, to the extent possible,whether implementation of the plan would have any material effect on the credit ratings of the bank.
+&emsp;&emsp;(B) at least one major credit rating agency, to determine, to the extent possible, whether implementation of the plan would have any material effect on the credit ratings of the bank.
 
 #### (d) Termination of membership
 

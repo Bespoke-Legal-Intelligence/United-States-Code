@@ -4,5 +4,5 @@ Section, added Pub. L. 102–484, div. D, title XLIV, §4441(a)(1), Oct. 23, 199
 
 #### Savings Provision
 
-Pub. L. 106–65, div. A, title XVII, §1707(a)(3), Oct. 5, 1999, 113 Stat. 823, provided that: “The repeal of such section \[this section\] shall not affect the validity or terms of any agreement entered into before the date of the enactment of this Act \[Oct. 5, 1999\] under subsection (f) of such section, or to pay assistance, make grants, or obtain reimbursement in connection with such an agreement under subsections (g), (h), and (i) of such section, as in effect before its repeal.”
+Pub. L. 106–65, div. A, title XVII, §1707(a)(3), Oct. 5, 1999, 113 Stat. 823, which provided that the repeal of this section would not affect the validity or terms of any agreement entered into before Oct. 5, 1999, or the payment of assistance, making of grants, or obtaining of reimbursement in connection with such an agreement, was repealed by Pub. L. 107–110, title X, §1011(6), Jan. 8, 2002, 115 Stat. 1986.
 

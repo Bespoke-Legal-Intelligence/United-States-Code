@@ -78,7 +78,7 @@ The duties of the Commission are as follows:
 
 &emsp;The Commission may appoint and fix the pay of not to exceed 10 individuals, including an individual to serve as the executive director of the Commission. Staff appointed under this paragraph shall be appointed subject to the provisions of title 5 governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates; except that—
 
-&emsp;&emsp;(A) the individual appointed to serve as the executive director and one other individual appointed to the staff of the Commissionmay be appointed and compensated without regard to such provisions; and
+&emsp;&emsp;(A) the individual appointed to serve as the executive director and one other individual appointed to the staff of the Commission may be appointed and compensated without regard to such provisions; and
 
 &emsp;&emsp;(B) the pay of any individual (other than the 2 individuals referred to in subparagraph (A)) appointed under this paragraph shall be at a rate not to exceed the maximum rate of basic pay payable for GS–17 of the General Schedule.
 
@@ -134,7 +134,7 @@ Upon request of the Commission, the Secretary of State, the Secretary of Commerc
 
 #### (1) Requests for transfers
 
-&emsp;If the Commission incurs any expenses in carrying out its duties under this chapter, the Commission may request the Secretary of State, the Administrator, or any other Federal official referred to in subsection (c)(1) of this section to transfer to the Commission an amount equal to such expenses from funds appropriated to such official.
+&emsp;If the Commission incurs any expenses in carrying out its duties under this chapter, theCommission may request the Secretary of State, the Administrator, or any other Federal official referred to in subsection (c)(1) of this section to transfer to the Commission an amount equal to such expenses from funds appropriated to such official.
 
 #### (2) Authority for transfers
 

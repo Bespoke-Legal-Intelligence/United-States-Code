@@ -80,7 +80,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 22 section 3224a; title 31 section 1512; title 42 section 6240.
+This chapter is referred to in title 22 section 3224a; title 31 section 1512.
 
 
 ---

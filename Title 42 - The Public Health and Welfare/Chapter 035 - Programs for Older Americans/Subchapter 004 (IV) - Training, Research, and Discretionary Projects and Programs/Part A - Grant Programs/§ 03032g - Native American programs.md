@@ -42,7 +42,7 @@
 
 #### (5) Eligible entities
 
-&emsp;To be eligible to receive a grant or enter into a contract under paragraph (1), an entity shall be an institution of higher education with experience conducting research and assessment on the needs of older individuals.
+&emsp;To be eligible to receive a grant or enter into a contract under paragraph (1), an entityshall be an institution of higher education with experience conducting research and assessment on the needs of older individuals.
 
 #### (6) Report to Congress
 

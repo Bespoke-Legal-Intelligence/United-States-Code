@@ -14,7 +14,7 @@
 
 &emsp;(i) is capable of use as a human food;
 
-&emsp;(ii) has been inspected under this chapter and found to be wholesome and not to be adulterated within the meaning of paragraphs (1) through (7) of section 453(g) of this title and a determination is made at the time of the entry of the decree that such article is wholesome and not so adulterated; and
+&emsp;(ii) has been inspected under this chapter and found to be wholesome and not to be adulterated within the meaning of paragraphs (1) through (7) of section 453(g) of this title and a determination is made at the time of theentry of the decree that such article is wholesome and not so adulterated; and
 
 &emsp;(iii) is plainly marked “Not for Sale” on such article or its container.
 
@@ -38,7 +38,7 @@ The provisions of this section shall in no way derogate from authority for conde
 
 #### Amendments
 
-1989—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence aspar. (2) and inserted “(A) be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).
+1989—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence as par. (2) and inserted “(A) be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).
 
 #### Section Referred to in Other Sections
 

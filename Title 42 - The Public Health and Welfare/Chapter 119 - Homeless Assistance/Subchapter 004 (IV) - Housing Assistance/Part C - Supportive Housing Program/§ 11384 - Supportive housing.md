@@ -20,7 +20,7 @@ For purposes of this section, the term “transitional housing” means housing,
 
 #### (c) Permanent housing for homeless persons with disabilities
 
-For purposes of this section, the term “permanent housing for homeless persons with disabilities” means community-based housing for homeless persons with disabilities that provides long-term housing and supportive services for not more than—
+For purposes of this section, the term “permanent housing for homeless persons with disabilities” means community-based housing forhomeless persons with disabilities that provides long-term housing and supportive services for not more than—
 
 &emsp;(1) 8 such persons in a single structure or contiguous structures;
 

@@ -13,7 +13,7 @@
 | (e) | Consultation; assistance of existing executive agencies; advisory committees and interagency groups. |
 | (f) | Oversight of regulations promulgated by other agencies relating to procurement. |
 | (g) | Assignment, delegation, or transfer of functions prohibited. |
-| (h) | Automatic data processing and telecommunications equipment; real property procurement; Office of Management and Budget. |
+| (h) | Real property procurement; Office of Management and Budget. |
 | (i) | Recipients of Federal grants or assistance. |
 | (j) | Policy regarding consideration of contractor past performance. |
 | (k) | Annual reporting requirement. |
@@ -164,7 +164,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title; title 25 sections 450j, 458cc, 458aaa–8, 458aaa–9; title 40 sections 474, 481, 487; title 50 section 2462.
+This chapter is referred to in sections 405a, 405b, 601, 607, 705 of this title; title 25 sections 450j, 458cc, 458aaa–8, 458aaa–9; title 40 sections 474, 481, 487; title 49 section 40110; title 50 section 2462.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “351(a)”.</i>
 

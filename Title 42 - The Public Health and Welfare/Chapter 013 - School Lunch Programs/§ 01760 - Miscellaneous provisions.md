@@ -30,7 +30,7 @@ In general.—The term “child” includes an individual, regardless of age, wh
 
 &emsp;&emsp;(B)
 
-Relationship to child and adult care food program.—No institution that is not otherwise eligible to participate in the program under section 1766 of this title shall be considered eligible because of this paragraph.
+Relationship to child and adult care food program.—No institution that is nototherwise eligible to participate in the program under section 1766 of this title shall be considered eligible because of this paragraph.
 
 &emsp;(2) “Commodity only schools” means schools that do not participate in the school lunch program under this chapter, but which receive commodities made available by the Secretary for use by such schools in nonprofit lunch programs.
 
@@ -96,7 +96,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(ii) the State or eligible service provider has provided notice and information to the public regarding the proposed waiver; and
 
-&emsp;(iii) the State or eligible service provider demonstrates to the satisfaction of the Secretary that the waiver will not increase the overall cost of the program to the FederalGovernment, and, if the waiver does increase the overall cost to the Federal Government, the cost will be paid from non-Federal funds.
+&emsp;(iii) the State or eligible service provider demonstrates to the satisfaction of the Secretary that the waiver will not increase the overall cost of the program to the Federal Government, and, if the waiver does increase the overall cost to the Federal Government, the cost will be paid from non-Federal funds.
 
 (B) The notice and information referred to in subparagraph (A)(ii) shall be provided in the same manner in which the State or eligible service provider customarily provides similar notices and information to the public.
 
@@ -176,7 +176,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (m) Food and nutrition projects
 
-(1) The Secretary, acting through the Administrator of the Food and Nutrition Service or through the Extension Service, shall award on an annual basis grants to a private nonprofit organization or educational institution in each of 3 States to create, operate, and demonstrate food and nutrition projects that are fully integrated with elementary school curricula.
+(1) The Secretary, acting through the Administrator of the Food and Nutrition Service orthrough the Extension Service, shall award on an annual basis grants to a private nonprofit organization or educational institution in each of 3 States to create, operate, and demonstrate food and nutrition projects that are fully integrated with elementary school curricula.
 
 (2) Each organization or institution referred to in paragraph (1) shall be selected by the Secretary and shall—
 
@@ -188,7 +188,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 &emsp;(D) be experienced in assisting in the creation of curriculum-based models in elementary schools;
 
-&emsp;(E) be sponsored by an organization or institution, or be an organization or institution,that provides information, or conducts other educational efforts, concerning the success and productivity of American agriculture and the importance of the free enterprise system to the quality of life in the United States; and
+&emsp;(E) be sponsored by an organization or institution, or be an organization or institution, that provides information, or conducts other educational efforts, concerning the success and productivity of American agriculture and the importance of the free enterprise system to the quality of life in the United States; and
 
 &emsp;(F) be able to provide model curricula, examples, advice, and guidance to schools, community groups, States, and local organizations regarding means of carrying out similar projects.
 
@@ -264,13 +264,13 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### (A) In general
 
-&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Secretary to carry out this subsection $1,000,000 for the period of fiscal years 2001 through 2004, to remain available until expended but not later than September 30, 2004.
+&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of theTreasury shall provide to the Secretary to carry out this subsection $1,000,000 for the period of fiscal years 2001 through 2004, to remain available until expended but not later than September 30, 2004.
 
 #### (B) Receipt and acceptance
 
 &emsp;&emsp;The Secretary shall be entitled to receive the funds and shall accept the funds provided under subparagraph (A), without further appropriation.
 
-(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c),Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412.)
+(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412.)
 
 #### References in Text
 
@@ -324,7 +324,7 @@ Subsec. (d)(2). Pub. L. 104–193, §705(c)(3), redesignated par. (7) as (2). Fo
 
 Subsec. (d)(3). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (5) as (3) and struck out former par. (3) which read as follows: “ ‘Participation rate’ for a State means a number equal to the number of lunches, consisting of a combination of foods and meeting the minimum requirements prescribed by the Secretary pursuant to section 1758 of this title, served in the fiscal year beginning two years immediately prior to the fiscal year for which the Federal funds are appropriated by schools participating in the program under this chapter in the State, as determined by the Secretary.”
 
-Subsec. (d)(4). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “ ‘Assistance need rate’ (A) in the case of any State having an average annual per capita income equal to or greater than the average annual per capita income for all the States, shall be 5; and (B) in the case of any State having an average annual per capita income less than the average annual per capita income for all the States, shall be the product of 5 and the quotient obtained by dividing the average annual per capita income for all the States by the average annual per capita income for such State, except that such product may not exceed 9 for any such State. For the purposes of this paragraph (i) the average annual per capita income for any State and for all the States shall be determined by the Secretary on the basis of the average annual per capita income for each State and for all the States for the three most recent years for which such data are available and certified to the Secretary by the Department of Commerce; and (ii) the average annual per capita income for American Samoa shall be disregarded in determining the average annual per capita income for all the States for periods ending before July 1, 1967.”
+Subsec. (d)(4). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “ ‘Assistance need rate’ (A) in the case of any State having an average annual per capita income equal to or greater than the average annual per capita income for all the States, shall be 5; and (B) in the case of any State having an average annual per capita income less than the average annual per capita income for all the States, shall be the product of 5 and the quotient obtained by dividing the average annual per capita income for all the States by the average annual per capita income for such State, except that such product may not exceed 9 for any such State. For thepurposes of this paragraph (i) the average annual per capita income for any State and for all the States shall be determined by the Secretary on the basis of the average annual per capita income for each State and for all the States for the three most recent years for which such data are available and certified to the Secretary by the Department of Commerce; and (ii) the average annual per capita income for American Samoa shall be disregarded in determining the average annual per capita income for all the States for periods ending before July 1, 1967.”
 
 Subsec. (d)(5). Pub. L. 104–193, §705(c)(3), redesignated par. (8) as (5). Former par. (5) redesignated (3).
 
@@ -408,11 +408,11 @@ Subsec. (g). Pub. L. 101–147, §306(b)(3), substituted “personal” for “h
 
 Subsec. (i). Pub. L. 101–147, §306(b)(4), struck out “(42 U.S.C. 1771 et seq.)” after “Child Nutrition Act of 1966” and “(42 U.S.C. 3001 et seq.)” after “Older Americans Act of 1965”.
 
-Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by Pub. L. 99–500 and 99–591, §326, and Pub. L. 99–661, §4206, to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
+Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by Pub. L. 99–500 and 99–591, §326,and Pub. L. 99–661, §4206, to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
 
 1987—Subsec. (d)(5). Pub. L. 100–71 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘School’ means (A) any public or nonprofit private school of high school grade or under, (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor), and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico. For purposes of clauses (A) and (B) of this paragraph, the term ‘nonprofit’, when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26. On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
-1986—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted “On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amountprescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
+1986—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted “On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
 Subsec. (d)(5)(A). Pub. L. 99–500 and Pub. L. 99–591, §325(a), which directed the amendment of subpar. (A) by striking out “except private schools whose average yearly tuition exceeds $1,500 per child,” after “grade or under,” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “grade or under,” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(a)(1). See below.
 
@@ -492,7 +492,7 @@ Section 325(c) of Pub. L. 99–500 and Pub. L. 99–591 provided that: “The am
 
 #### Effective Date of 1981 Amendment
 
-Amendment by sections 808 and 819 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 of Pub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3)–(5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by sections 808 and 819 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 ofPub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3)–(5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -512,7 +512,7 @@ Amendment by act July 12, 1952, effective only with respect to funds appropriate
 
 #### Study of Cost Accounting Requirements
 
-Section 21 of Pub. L. 94–105 prohibited Secretary from delaying or withholding or causing any State to delayor withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
+Section 21 of Pub. L. 94–105 prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
 
 #### Section Referred to in Other Sections
 

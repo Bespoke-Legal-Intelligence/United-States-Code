@@ -24,7 +24,7 @@
 | [2219\.](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md) | Retention of morale, welfare, and recreation funds by military installations: limitation. |
 | [2220\.](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md) | Performance based management: acquisition programs. |
 | \[2221. | Repealed.\] |
-| [2222\.](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md) | Biennial financial management improvement plan. |
+| [2222\.](%C2%A7%2002222%20-%20Annual%20financial%20management%20improvement%20plan.md) | Annual financial management improvement plan. |
 | [2223\.](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md) | Information technology: additional responsibilities of Chief Information Officers. |
 | [2224\.](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md) | Defense Information Assurance Program. |
 | [2225\.](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md) | Information technology purchases: tracking and management. |
@@ -34,6 +34,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title X, §1009(b)(3)(B), Dec. 28, 2001, 115 Stat. 1209, substituted “Annual” for “Biennial” in item 2222.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(2), title X, §§1006(a)(2), 1008(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
 
@@ -100,7 +102,7 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 - [&sect; 02219 - Retention of morale, welfare, and recreation funds by military installations limitation](%C2%A7%2002219%20-%20Retention%20of%20morale%2C%20welfare%2C%20and%20recreation%20funds%20by%20military%20installations%20limitation.md)
 - [&sect; 02220 - Performance based management acquisition programs](%C2%A7%2002220%20-%20Performance%20based%20management%20acquisition%20programs.md)
 - [&sect; 02221 - Repealed. Pub. L. 105&#8211;261, div. A, title IX, &sect;906(f)(1), Oct. 17, 1998, 112 Stat. 2096](%C2%A7%2002221%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93261%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7906%28f%29%281%29%2C%20Oct.%2017%2C%201998%2C%20112%20Stat.%202096.md)
-- [&sect; 02222 - Biennial financial management improvement plan](%C2%A7%2002222%20-%20Biennial%20financial%20management%20improvement%20plan.md)
+- [&sect; 02222 - Annual financial management improvement plan](%C2%A7%2002222%20-%20Annual%20financial%20management%20improvement%20plan.md)
 - [&sect; 02223 - Information technology additional responsibilities of Chief Information Officers](%C2%A7%2002223%20-%20Information%20technology%20additional%20responsibilities%20of%20Chief%20Information%20Officers.md)
 - [&sect; 02224 - Defense Information Assurance Program](%C2%A7%2002224%20-%20Defense%20Information%20Assurance%20Program.md)
 - [&sect; 02225 - Information technology purchases tracking and management](%C2%A7%2002225%20-%20Information%20technology%20purchases%20tracking%20and%20management.md)

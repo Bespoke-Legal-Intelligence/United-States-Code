@@ -1,8 +1,8 @@
 ### §479. Uttering counterfeit foreign obligations or securities
 
-Whoever, within the United States, knowingly and with intent to defraud, utters, passes, or puts off, in payment or negotiation, any false, forged, or counterfeited bond, certificate, obligation, security, treasury note, bill, or promise to pay, mentioned in section 478 of this title, whether or not the same was made, altered, forged, or counterfeited within the United States, shall be fined under this title or imprisoned not more than three years, or both.
+Whoever, within the United States, knowingly and with intent to defraud, utters, passes, or puts off, in payment or negotiation, any false, forged, or counterfeited bond, certificate, obligation, security, treasury note, bill, or promise to pay, mentioned in section 478 of this title, whether or not the same was made, altered, forged, or counterfeited within the United States, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, §330016(1)(J), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §375(b), Oct. 26, 2001, 115 Stat. 341.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +14,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
+2001—Pub. L. 107–56 substituted “20 years” for “three years”.
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

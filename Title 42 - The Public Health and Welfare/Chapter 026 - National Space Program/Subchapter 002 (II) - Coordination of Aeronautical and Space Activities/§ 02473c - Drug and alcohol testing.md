@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(2) the success of the United States civil space program is contingent upon the safe and successful development and deployment of the many varied components of that program;
 
-&emsp;(3) the greatest efforts must be expended to eliminate the abuse of alcohol and use of illegal drugs, whether on duty or off duty, by those individuals who are involved in the positions affecting safety, security, and national security;
+&emsp;(3) the greatest efforts must be expended to eliminate the abuse of alcohol and use of illegal drugs, whether on duty or off duty, bythose individuals who are involved in the positions affecting safety, security, and national security;
 
 &emsp;(4) the use of alcohol and illegal drugs has been demonstrated to adversely affect the performance of individuals, and has been proven to have been a critical factor in accidents in the workplace;
 
@@ -48,7 +48,7 @@ The Congress finds that—
 
 #### (e) Program for rehabilitation
 
-(1) The Administrator shall prescribe regulations setting forth requirements for rehabilitation programs which at a minimum provide for the identification and opportunity for treatment of employees referred to in subsection (c) of this section in need of assistance in resolving problems with the use, in violation of applicable lawor Federal regulation, of alcohol or a controlled substance. Each contractor is encouraged to make such a program available to all of its employees in addition to those employees referred to in subsection (c)(2) of this section. The Administrator shall determine the circumstances under which such employees shall be required to participate in such a program. Nothing in this subsection shall preclude any National Aeronautics and Space Administration contractor from establishing a program under this subsection in cooperation with any other such contractor.
+(1) The Administrator shall prescribe regulations setting forth requirements for rehabilitation programs which at a minimum provide for the identification and opportunity for treatment of employees referred to in subsection (c) of this section in need of assistance in resolving problems with the use, in violation of applicable law or Federal regulation, of alcohol or a controlled substance. Each contractor is encouraged to make such a program available to all of its employees in addition to those employees referred to in subsection (c)(2) of this section. The Administrator shall determine the circumstances under which such employees shall be required to participate in such a program. Nothing in this subsection shall preclude any National Aeronautics and Space Administration contractor from establishing a program under this subsection in cooperation with any other such contractor.
 
 (2) The Administrator shall establish and maintain a rehabilitation program which at a minimum provides for the identification and opportunity for treatment of those employees of the National Aeronautics and Space Administration whose duties include responsibility for safety-sensitive, security, or national security functions who are in need of assistance in resolving problems with the use of alcohol or controlled substances.
 

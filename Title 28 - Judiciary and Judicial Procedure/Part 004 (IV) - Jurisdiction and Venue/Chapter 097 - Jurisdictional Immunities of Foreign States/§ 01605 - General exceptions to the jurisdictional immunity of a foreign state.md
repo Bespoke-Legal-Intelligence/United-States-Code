@@ -6,7 +6,7 @@
 
 &emsp;(2) in which the action is based upon a commercial activity carried on in the United States by the foreign state; or upon an act performed in the United States in connection with a commercial activity of the foreign state elsewhere; or upon an act outside the territory of the United States in connection with a commercial activity of the foreign state elsewhere and that act causes a direct effect in the United States;
 
-&emsp;(3) in which rights in property taken in violation of international law are in issue and that property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreign state; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
+&emsp;(3) in which rights in property taken in violation of international law are in issue andthat property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreign state; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
 
 &emsp;(4) in which rights in property in the United States acquired by succession or gift or rights in immovable property situated in the United States are in issue;
 
@@ -20,7 +20,7 @@
 
 &emsp;(7) not otherwise covered by paragraph (2), in which money damages are sought against a foreign state for personal injury or death that was caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources (as defined in section 2339A of title 18) for such an act if such act or provision of material support is engaged in by an official, employee, or agent of such foreign state while acting within the scope of his or her office, employment, or agency, except that the court shall decline to hear a claim under this paragraph—
 
-&emsp;&emsp;(A) if the foreign state was not designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) or section 620A of theForeign Assistance Act of 1961 (22 U.S.C. 2371) at the time the act occurred, unless later so designated as a result of such act; and
+&emsp;&emsp;(A) if the foreign state was not designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) or section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371) at the time the act occurred, unless later so designated as a result of such act or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia; and
 
 &emsp;&emsp;(B) even if the foreign state is or was so designated, if—
 
@@ -34,7 +34,7 @@
 
 &emsp;(2) notice to the foreign state of the commencement of suit as provided in section 1608 of this title is initiated within ten days either of the delivery of notice as provided in paragraph (1) of this subsection or, in the case of a party who was unaware that the vessel or cargo of a foreign state was involved, of the date such party determined the existence of the foreign state's interest.
 
-(c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privately owned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritime jurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
+(c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privately owned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritimejurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
 
 (d) A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in the Ship Mortgage Act, 1920 (46 U.S.C. 911 and following). Such action shall be brought, heard, and determined in accordance with the provisions of that Act and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
 
@@ -82,7 +82,7 @@ Bar on motions to dismiss.—A stay of discovery under this subsection shall con
 
 Construction.—Nothing in this subsection shall prevent the United States from seeking protective orders or asserting privileges ordinarily available to the United States.
 
-(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, §1, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22.)
+(Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 100–640, §1, Nov. 9, 1988, 102 Stat. 3333; Pub. L. 100–669, §2, Nov. 16, 1988, 102 Stat. 3969; Pub. L. 101–650, title III, §325(b)(8), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 104–132, title II, §221(a), Apr. 24, 1996, 110 Stat. 1241; Pub. L. 105–11, Apr. 25, 1997, 111 Stat. 22; Pub. L. 107–77, title VI, §626(c), Nov. 28, 2001, 115 Stat. 803; Pub. L. 107–117, div. B, §208, Jan. 10, 2002, 115 Stat. 2299.)
 
 #### References in Text
 
@@ -95,6 +95,10 @@ Section 3 of the Torture Victim Protection Act of 1991, referred to in subsec. (
 Rules 12(b)(6) and 56 of the Federal Rules of Civil Procedure, referred to in subsec. (g)(4), are set out in the Appendix to this title.
 
 #### Amendments
+
+<b>2002</b>—Subsec. (a)(7)(A). Pub. L. 107–117 amended Pub. L. 107–77. See 2001 Amendment note below.
+
+<b>2001</b>—Subsec. (a)(7)(A). Pub. L. 107–77, as amended by Pub. L. 107–117, inserted before semicolon “or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia”.
 
 <b>1997</b>—Subsec. (a)(7)(B)(ii). Pub. L. 105–11 substituted “neither the claimant nor the victim was” for “the claimant or victim was not”.
 

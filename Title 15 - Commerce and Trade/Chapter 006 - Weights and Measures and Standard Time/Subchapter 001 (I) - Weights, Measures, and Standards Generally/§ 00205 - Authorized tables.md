@@ -10,6 +10,8 @@ MEASURES OF LENGTH
 | --- | --- |
 | &nbsp; | &nbsp; |
 
+&nbsp;
+
 | &nbsp; | &nbsp; | &nbsp; |
 | :--- | :---: | ---: |
 | Myriameter | 10,000 meters | 6\.2137 miles. |
@@ -39,6 +41,8 @@ MEASURES OF SURFACE
 | <i>Metric denominations and values</i> | <i>Equivalents in denominations in use</i> |
 | --- | --- |
 | &nbsp; | &nbsp; |
+
+&nbsp;
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :--- | :---: | ---: |

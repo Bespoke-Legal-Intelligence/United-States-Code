@@ -84,6 +84,124 @@ Amendment by Pub. L. 100–180 applicable as if included in enactment of the Gol
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Ballistic Missile Defense Organization Test Program
+
+Pub. L. 107–107, div. A, title II, §232(c)–(h), Dec. 28, 2001, 115 Stat. 1037–1039, provided that:
+
+“(c)
+
+Requirement for Annual Program Goals.—(1) The Secretary of Defense shall each year establish cost, schedule, testing, and performance goals for the ballistic missile defense programs of the Department of Defense for the period covered by the future-years defense program that is submitted to Congress that year under section 221 of title 10, United States Code. Not later than February 1 each year, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a statement of the goals so established.
+
+“(2) The statement of goals submitted under paragraph (1) for any year after 2002 shall be an update of the statement submitted under that paragraph for the preceding year.
+
+“(3) Each statement of goals submitted under paragraph (1) shall set forth cost, schedule, testing, and performance goals that pertain to each functional area program element identified in subsection (a), and each program element identified in subsection (b), of section 223 of title 10, United States Code.
+
+“(d)
+
+Annual Program Plan.—(1) With the submission of the statement of goals under subsection (c) for any year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a program of activities planned to be carried out for each missile defense program that enters engineering and manufacturing development (as defined in section 223(b)(2) of title 10, United States Code, as added by subsection (b)).
+
+“(2) Each program plan under paragraph (1) shall include the following:
+
+&emsp;“(A) A funding profile that includes an estimate of—
+
+&emsp;&emsp;“(i) the total expenditures to be made in the fiscal year in which the plan is submitted and the following fiscal year, together with the estimated total life-cycle costs of the program; and
+
+&emsp;&emsp;“(ii) a display of such expenditures (shown for significant procurement, construction, and research and development) for the fiscal year in which the plan is submitted and the following fiscal year.
+
+&emsp;“(B) A program schedule for the fiscal year in which the plan is submitted and the following fiscal year for each of the following:
+
+&emsp;&emsp;“(i) Significant procurement.
+
+&emsp;&emsp;“(ii) Construction.
+
+&emsp;&emsp;“(iii) Research and development.
+
+&emsp;&emsp;“(iv) Flight tests.
+
+&emsp;&emsp;“(v) Other significant testing activities.
+
+“(3) Information specified in paragraph (2) need not be included in the plan for any year under paragraph (1) to the extent such information has already been provided, or will be provided in the current fiscal year, in annual budget justification documents of the Department of Defense submitted to Congress or in other required reports to Congress.
+
+“(e)
+
+Internal DOD Reviews.—(1) The officials and elements of the Department of Defense specified in paragraph (2) shall on an ongoing basis—
+
+&emsp;“(A) review the development of goals under subsection (c) and the annual program plan under subsection (d); and
+
+&emsp;“(B) provide to the Secretary of Defense and the Director of the Ballistic Missile Defense Organization any comments on such matters as considered appropriate.
+
+“(2) Paragraph (1) applies with respect to the following:
+
+&emsp;“(A) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+&emsp;“(B) The Director of Operational Test and Evaluation.
+
+&emsp;“(C) The Director of Program Analysis and Evaluation.
+
+&emsp;“(D) The Joint Requirements Oversight Council.
+
+&emsp;“(E) The Cost Analysis and Improvement Group.
+
+“(f)
+
+Demonstration of Critical Technologies.—(1) The Director of the Ballistic Missile Defense Organization shall develop a plan for ensuring that each critical technology for a missile defense program is successfully demonstrated in an appropriate environment before that technology enters into operational service as part of a missile defense program.
+
+“(2) The Director of Operational Test and Evaluation of the Department of Defense shall monitor the development of the plan under paragraph (1) and shall submit to the Director of the Ballistic Missile Defense Organization any comments regarding that plan that the Director of Operational Test and Evaluation considers appropriate.
+
+“(g)
+
+Comptroller General Assessment.—(1) At the conclusion of each of fiscal years 2002 and 2003, the Comptroller General of the United States shall assess the extent to which the Ballistic Missile Defense Organization achieved the goals established under subsection (c) for such fiscal year.
+
+“(2) Not later than February 15, 2003, and February 15, 2004, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the Comptroller General's assessment under paragraph (1) with respect to the preceding fiscal year.
+
+“(h)
+
+Annual OT\&E Assessment of Test Program.—(1) The Director of Operational Test and Evaluation shall each year assess the adequacy and sufficiency of the Ballistic Missile Defense Organization test program during the preceding fiscal year.
+
+“(2) Not later than February 15 each year the Director shall submit to the congressional defense committees a report on the assessment under paragraph (1) with respect to the preceding fiscal year.”
+
+#### Missile Defense Testing Initiative
+
+Pub. L. 107–107, div. A, title II, §234, Dec. 28, 2001, 115 Stat. 1039, provided that:
+
+“(a)
+
+Testing Infrastructure.—(1) The Secretary of Defense shall ensure that each annual budget request of the Department of Defense—
+
+&emsp;“(A) is designed to provide for comprehensive testing of ballistic missile defense programs during early stages of development; and
+
+&emsp;“(B) includes necessary funding to support and improve test infrastructure and provide adequate test assets for the testing of such programs.
+
+“(2) The Secretary shall ensure that ballistic missile defense programs incorporate, to the greatest possibleextent, operationally realistic test configurations (referred to as ‘test bed’ configurations) to demonstrate system performance across a broad range of capability and, during final stages of operational testing, to demonstrate reliable performance.
+
+“(3) The Secretary shall ensure that the test infrastructure for ballistic missile defense programs is capable of supporting continued testing of ballistic missile defense systems after deployment.
+
+“(b)
+
+Requirements for Early Stages of System Development.—In order to demonstrate acceptable risk and developmental stability, the Secretary of Defense shall ensure that any ballistic missile defense program incorporates, to the maximum extent practicable, the following elements during the early stages of system development:
+
+&emsp;“(1) Pursuit of parallel conceptual approaches and technological paths for all critical problematic components until effective and reliable solutions can be demonstrated.
+
+&emsp;“(2) Comprehensive ground testing in conjunction with flight-testing for key elements of the proposed system that are considered to present high risk, with such ground testing to make use of existing facilities and combinations of facilities that support testing at the highest possible levels of integration.
+
+&emsp;“(3) Where appropriate, expenditures to enhance the capabilities of existing test facilities, or to construct new test facilities, to support alternative complementary test methodologies.
+
+&emsp;“(4) Sufficient funding of test instrumentation to ensure accurate measurement of all critical test events.
+
+&emsp;“(5) Incorporation into the program of sufficient schedule flexibility and expendable test assets, including missile interceptors and targets, to ensure that failed or aborted tests can be repeated in a prudent, but expeditious manner.
+
+&emsp;“(6) Incorporation into flight-test planning for the program, where possible, of—
+
+&emsp;&emsp;“(A) methods that make the most cost-effective use of test opportunities;
+
+&emsp;&emsp;“(B) events to demonstrate engagement of multiple targets, ‘shoot-look-shoot’, and other planned operational concepts; and
+
+&emsp;&emsp;“(C) exploitation of opportunities to facilitate early development and demonstration of ‘family of systems’ concepts.
+
+“(c)
+
+Specific Requirements for Ground-Based Mid-Course Interceptor Systems.—For ground-based mid-course interceptor systems, the Secretary of Defense shall initiate steps during fiscal year 2002 to establish a flight-test capability of launching not less than three missile defense interceptors and not less than two ballistic missile targets to provide a realistic test infrastructure.”
+
 #### National Missile Defense Policy
 
 Pub. L. 106–38, §2, July 22, 1999, 113 Stat. 205, provided that: “It is the policy of the United States to deploy as soon as is technologically possible an effective National Missile Defense system capable of defending the territory of the United States against limited ballistic missile attack (whether accidental, unauthorized, or deliberate) with funding subject to the annual authorization of appropriations and the annual appropriation of funds for National Missile Defense.”
@@ -248,7 +366,7 @@ Use of Streamlined Acquisition Procedures.—The Secretary of Defense shall pres
 
 “(c)
 
-Interoperability and Support of Core Systems.—To maximize effectiveness and flexibility of the systems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—
+Interoperability and Support of Core Systems.—To maximize effectiveness and flexibility of thesystems comprising the core theater missile defense program, the Secretary of Defense shall ensure that those systems are integrated and complementary and are fully capable of exploiting external sensor and battle management support from systems such as—
 
 &emsp;“(A) the Cooperative Engagement Capability (CEC) system of the Navy;
 
@@ -296,7 +414,7 @@ Findings.—(1) Congress hereby reaffirms—
 
 &emsp;“(B) the statement in section 232 of the National Defense Authorization Act for Fiscal Year 1995 (Public Law 103–337; 108 Stat. 2700) that the United States shall not be bound by any international agreement entered into by the President that would substantively modify the ABM Treaty unless the agreement is entered into pursuant to the treaty making power of the President under the Constitution.
 
-“(2) Congress also finds that the demarcation standard described in subsection (b)(1) for compliance of amissile defense system, system upgrade, or system component with the ABM Treaty is based upon current technology.
+“(2) Congress also finds that the demarcation standard described in subsection (b)(1) for compliance of a missile defense system, system upgrade, or system component with the ABM Treaty is based upon current technology.
 
 “(b)
 
@@ -376,7 +494,7 @@ Compliance Review for Brilliant Eyes.—The Secretary of Defense shall review th
 
 Compliance Review for Navy Upper Tier System.—(1) The Secretary of Defense shall review the theater ballistic missile program known as the Navy Upper Tier program to determine whether the development, testing, and deployment of the system being developed under that program would be in compliance with the ABM Treaty, including the interpretation of the Treaty set forth in the enclosure to the July 13, 1993, ACDA letter.
 
-“(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, asdetermined under the compliance review under paragraph (1).
+“(2) Of the funds made available to the Department of Defense for fiscal year 1995, not more than $40,000,000 may be obligated for the Navy Upper Tier program before the date on which the Secretary submits to the appropriate congressional committees a report on the compliance of that program with the ABM Treaty, as determined under the compliance review under paragraph (1).
 
 “(e)
 
@@ -410,7 +528,7 @@ Integration and Compatibility.—In carrying out the Theater Missile Defense Ini
 
 “(b) TMD
 
-Master Plan.—The Secretary of Defense shall submit to Congress a report (which shall constitute the TMD master plan) containing a thorough and complete analysis of the future of theater missile defense programs. The report shall include the following:
+Master Plan.—The Secretary of Defense shall submit to Congress a report (which shall constitute the TMD master plan) containing a thoroughand complete analysis of the future of theater missile defense programs. The report shall include the following:
 
 &emsp;“(1) A description of the mission and scope of Theater Missile Defense.
 
@@ -550,7 +668,7 @@ Section 222 of Pub. L. 100–180 provided that:
 
 “(a)
 
-SDI Contracts With Foreign Entities.—Funds appropriated to or for the use of the Department of Defense may not be used for the purpose of entering into or carrying out any contract with a foreign government or a foreign firm if the contract provides for the conduct of research, development, test, or evaluationin connection with the Strategic Defense Initiative program.
+SDI Contracts With Foreign Entities.—Funds appropriated to or for the use of the Department of Defense may not be used for the purpose of entering into or carrying out any contract with a foreign government or a foreign firm if the contract provides for the conduct of research, development, test, or evaluation in connection with the Strategic Defense Initiative program.
 
 “(b)
 
@@ -588,7 +706,7 @@ Section 224 of Pub. L. 100–180 provided that: “No agency of the Federal Gove
 
 #### Prohibition on Deployment of Anti-Ballistic Missile System Unless Authorized by Law
 
-Section 226 of Pub. L. 100–180 prohibited Secretary of Defense from deploying anti-ballistic missile system unless such deployment was specifically authoried by law after Dec. 4, 1987, prior to repeal by Pub. L. 104–106, div. A, title II, §253(3), Feb. 10, 1996, 110 Stat. 234.
+Section 226 of Pub. L. 100–180 prohibited Secretary of Defense from deploying anti-ballistic missile system unless such deployment was specifically authorized by law after Dec. 4, 1987, prior to repeal by Pub. L. 104–106, div. A, title II, §253(3), Feb. 10, 1996, 110 Stat. 234.
 
 #### Establishment of Federally Funded Research and Development Center To Support SDI Program
 
@@ -654,7 +772,7 @@ Requirements Applicable to FFRDC.—The Secretary of Defense shall—
 
 “(e)
 
-Funding.—The Secretary of Defense shall provide that all funds for the new FFRDC within the Department of Defense budget for any fiscal year shall be separately identified and set forth in the budget presentation materials submitted to Congress for that fiscal year.
+Funding.—The Secretary of Defense shall provide that all funds for the new FFRDC within the Department of Defense budget for any fiscal year shall beseparately identified and set forth in the budget presentation materials submitted to Congress for that fiscal year.
 
 “(f)
 
@@ -740,7 +858,7 @@ Pub. L. 99–145, title IX, §915, Nov. 8, 1985, 99 Stat. 688, as amended by Pub
 
 #### Requirement for Specific Authorization for Deployment of Strategic Defense Initiative System
 
-Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed asconsequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
+Pub. L. 99–145, title II, §222, Nov. 8, 1985, 99 Stat. 613, provided that strategic defense system developed as consequence of research, development, test, and evaluation conducted on Strategic Defense Initiative program could not be deployed in whole or in part unless President made a certain determination and certification to Congress and funding for deployment of such system was specifically authorized by legislation enacted after date of certification, prior to repeal by Pub. L. 104–106, div. A, title II, §253(1), Feb. 10, 1996, 110 Stat. 234.
 
 #### Annual Report on Ballistic Missile Defense Program
 
@@ -752,7 +870,7 @@ Pub. L. 98–525, title XI, §1102, Oct. 19, 1984, 98 Stat. 2580, required Secre
 
 #### Plans for Management of Technical Data and Computer Capability Improvements
 
-Section 1252 of Pub. L. 98–525 directed Secretary of Defense, not later than one year after Oct. 19, 1984, to develop a plan for an improved system for the management of technical data relating to any major system of the Department of Defense and, not later than 5 years after Oct. 19, 1984, to complete implementation of the management plan, directed Comptroller General, not later than 18 months after Oct. 19, 1984, to transmit to Congress a report evaluating the plan developed, and directed Secretary of Defense, not later than 180 days after Oct. 19, 1984, to transmit to Congress a plan to improve substantially the computer capability of each of the military departments and of the Defense Logistics Agency to store and access rapidly data that is needed for the efficient procurement of supplies.
+Section 1252 of Pub. L. 98–525 directed Secretary of Defense, not later than one year after Oct. 19, 1984, todevelop a plan for an improved system for the management of technical data relating to any major system of the Department of Defense and, not later than 5 years after Oct. 19, 1984, to complete implementation of the management plan, directed Comptroller General, not later than 18 months after Oct. 19, 1984, to transmit to Congress a report evaluating the plan developed, and directed Secretary of Defense, not later than 180 days after Oct. 19, 1984, to transmit to Congress a plan to improve substantially the computer capability of each of the military departments and of the Defense Logistics Agency to store and access rapidly data that is needed for the efficient procurement of supplies.
 
 #### Consultation With Allies on Strategic Defense Initiative Program
 
@@ -810,7 +928,7 @@ Pub. L. 98–473, title I, §101(h) \[title VIII, §8100\], Oct. 12, 1984, 98 S
 
 &emsp;“(4) that such testing is fully consistent with the rights and obligations of the United States under the Anti-Ballistic Missile Treaty of 1972 as those rights and obligations exist at the time of such testing.
 
-“(b) During fiscal year 1985, funds appropriated for the purpose of testing the F–15 launched miniature homing vehicle anti-satellite warhead may not be usedto conduct more than three tests of that warhead against objects in space.
+“(b) During fiscal year 1985, funds appropriated for the purpose of testing the F–15 launched miniature homing vehicle anti-satellite warhead may not be used to conduct more than three tests of that warhead against objects in space.
 
 “(c) The limitation on the expenditure of funds provided by subsection (a) of this section shall cease to apply fifteen calendar days after the date of the receipt by Congress of the certification referred to in subsection (a) or March 1, 1985, whichever occurs later.”
 
@@ -886,7 +1004,7 @@ Section 608 of Pub. L. 93–552, title VI, Dec. 27, 1974, 88 Stat. 1763, provide
 
 “(a) The Secretary of Defense is authorized to assist communities located near the TRIDENT Support Site Bangor, Washington, in meeting the costs of providing increased municipal services and facilities to the residents of such communities, if the Secretary determines that there is an immediate and substantial increase in the need for such services and facilities in such communities as a direct result of work being carried out in connection with the construction, installation, testing, and operation of the TRIDENT Weapon System and that an unfair and excessive financial burden will be incurred by such communities as a result of the increased need for such services and facilities.
 
-“(b) The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplement funds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
+“(b) The Secretary of Defense shall carry out the provisions of this section through existing Federal programs. The Secretary is authorized to supplementfunds made available under such Federal programs to the extent necessary to carry out the provisions of this section, and is authorized to provide financial assistance to communities described in subsection (a) of this section to help such communities pay their share of the costs under such programs. The heads of all departments and agencies concerned shall cooperate fully with the Secretary of Defense in carrying out the provisions of this section on a priority basis.
 
 “(c) In determining the amount of financial assistance to be made available under this section to any local community for any community service or facility, the Secretary of Defense shall consult with the head of the department or agency of the Federal Government concerned with the type of service or facility for which financial assistance is being made available and shall take into consideration (1) the time lag between the initial impact of increased population in any such community and any increase in the local tax base which will result from such increased population, (2) the possible temporary nature of the increased population and the long-range cost impact on the permanent residents of any such community, and (3) such other pertinent factors as the Secretary of Defense deems appropriate.
 

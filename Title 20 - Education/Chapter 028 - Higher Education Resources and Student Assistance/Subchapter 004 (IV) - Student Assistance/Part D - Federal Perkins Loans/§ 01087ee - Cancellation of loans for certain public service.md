@@ -56,7 +56,7 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 #### (1) List
 
-&emsp;If the list of schools in which a teacher may perform service pursuant to subsection\(a)(2)(A) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
+&emsp;If the list of schools in which a teacher may perform service pursuant to subsection (a)(2)(A) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (2) Continuing eligibility
 
@@ -72,7 +72,7 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 Section 111(c) of the Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), was classified to section 2711(c) of this title, prior to its omission in the general revision of the Elementary and Secondary Education Act of 1965 by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 140.
 

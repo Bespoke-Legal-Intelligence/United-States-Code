@@ -24,7 +24,7 @@ Participants and crew leaders shall be responsible to, or be the responsibility 
 
 #### (4) Allowance for quarters
 
-&emsp;For purposes of section 5911 of title 5, relating to allowances for quarters, a participant or crew leader shall be considered an employee of the United States within the meaning of the term “employee” as defined in paragraph (3) of subsection (a) of such section.
+&emsp;For purposes of section 5911 of title 5, relating to allowances for quarters, a participant or crew leader shall be considered an employee of the United States within the meaning of theterm “employee” as defined in paragraph (3) of subsection (a) of such section.
 
 #### (c) Availability of appropriation
 

@@ -6,7 +6,7 @@ In order to provide credit that is not available from private money markets, or 
 
 #### References in Text
 
-Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of chapter 14 of this title. Provisions of the act establishing the revolving fund are set out in section 470 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of chapter 14 of this title. Provisions of the act establishing the revolving fund are set out in section 470 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 461 of this title and Tables.
 
 Act of June 26, 1936, referred to in text, popularly known as the Oklahoma Welfare Act, is classified generally to subchapter VIII (§501 et seq.) of chapter 14 of this title. Provisions of the act relating to the revolving fund appear in section 506 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 501 of this title and Tables.
 

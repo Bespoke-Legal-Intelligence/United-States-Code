@@ -2,7 +2,7 @@
 
 #### (a) Institution or center for training
 
-The Secretary of State shall maintain and operate an institution or center for training (hereinafter in this subchapter referred to as the “institution”), originally established under section 701 of the Foreign Service Act of 1946, in order to promote career development within the Service and to provide necessary training and instruction in the field of foreign relations to members of the Service and to employees of the Department and of other agencies. The institution shall be headed by a Director, who shall be appointed by the Secretary of State.
+The Secretary of State shall maintain and operate an institution or center for training (hereinafter in this subchapter referred to as the “institution”), originally established under section 701 of the Foreign Service Act of 1946, in order to promote career development within the Service and to provide necessary training and instruction in the field of foreign relations to members of the Service and to employees of the Department and of other agencies. The institution shall be headed by a Director, who shall be appointed by the Secretary of State. The institution shall be designated the “George P. Shultz National Foreign Affairs Training Center” <sup>1</sup>
 
 #### (b) Provision of training
 
@@ -10,7 +10,7 @@ To the extent practicable, the Secretary of State shall provide training under t
 
 #### (c) Training and instruction to citizens of Trust Territory of the Pacific Islands
 
-Training and instruction may be provided at the Institute <sup>1</sup> for not to exceed sixty citizens of the Trust Territory of the Pacific Islands in order to prepare them to serve as members of the foreign services of the Federated States of Micronesia, the Marshall Islands, and Palau. The authority of this subsection shall expire when the Compact of Free Association is approved by the Congress.
+Training and instruction may be provided at the Institute <sup>2</sup> for not to exceed sixty citizens of the Trust Territory of the Pacific Islands in order to prepare them to serve as members of the foreign services of the Federated States of Micronesia, the Marshall Islands, and Palau. The authority of this subsection shall expire when the Compact of Free Association is approved by the Congress.
 
 #### (d) Training and instruction of employees of foreign governments
 
@@ -50,7 +50,7 @@ Training and instruction may be provided at the Institute <sup>1</sup> for not 
 
 The authorities of section 4024 of this title shall apply to training and instruction provided under this section.
 
-(Pub. L. 96–465, title I, §701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, §126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, §126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, §1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809.)
+(Pub. L. 96–465, title I, §701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, §126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, §126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, §1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809; Pub. L. 107–132, §1(a), Jan. 16, 2002, 115 Stat. 2412.)
 
 #### Amendment of Section
 
@@ -61,6 +61,8 @@ The authorities of section 4024 of this title shall apply to training and instru
 Section 701 of the Foreign Service Act of 1946, referred to in subsec. (a), which was classified to section 1041 of this title, was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–132 inserted at end “The institution shall be designated the ‘George P. Shultz National Foreign Affairs Training Center’ ”.
 
 1998—Subsec. (d)(4). Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
 
@@ -79,6 +81,10 @@ Subsec. (b). Pub. L. 103–236, §126(3), substituted “institution” for “I
 Subsec. (d). Pub. L. 103–236, §126(2)(C), added subsec. (d).
 
 1983—Subsec. (c). Pub. L. 98–164 added subsec. (c).
+
+#### Change of Name
+
+Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: “Any reference in any provision of law to the National Foreign Affairs Training Center or the Foreign Service Institute shall be considered to be a reference to the ‘George P. Shultz National Foreign Affairs Training Center’.”
 
 #### Effective Date of 1998 Amendment
 
@@ -170,5 +176,7 @@ Pub. L. 95–105, title IV, §414, Aug. 17, 1977, 91 Stat. 857, as amended by Pu
 
 This section is referred to in title 10 section 2002.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “institution”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “institution”.</i>
 

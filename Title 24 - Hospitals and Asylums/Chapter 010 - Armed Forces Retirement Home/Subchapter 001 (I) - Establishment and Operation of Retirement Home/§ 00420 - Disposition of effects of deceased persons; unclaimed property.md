@@ -2,7 +2,7 @@
 
 #### (a) Disposition of effects of deceased persons
 
-The Director of each facility that is maintained as a separate establishment of the Retirement Home shall safeguard and dispose of the estate and personal effects of deceased residents, including effects delivered to such facility under sections 4712(f) and 9712(f) of title 10, and shall ensure the following:
+The Director of a facility of the Retirement Home shall safeguard and dispose of the estate and personal effects of deceased residents, including effects delivered to such facility under sections 4712(f) and 9712(f) of title 10, and shall ensure the following:
 
 &emsp;(1) A will or other instrument of a testamentary nature involving property rights executed by a resident shall be promptly delivered, upon the death of the resident, to the proper court of record.
 
@@ -22,11 +22,11 @@ The Director of each facility that is maintained as a separate establishment of 
 
 (1)(A) If the disposition of the estate of a resident of the Retirement Home cannot be accomplished under subsection (a)(2) of this section or if a resident dies testate and the nominated fiduciary, legatees, or heirs of the resident cannot be immediately ascertained, the entirety of the deceased resident's domiciliary estate and the entirety of any ancillary estate that is unclaimed at the end of the three-year period beginning on the date of the death of the resident shall escheat to the Retirement Home.
 
-(B) Upon the sale of any such unclaimed estate property, the proceeds of the sale shall be deposited in the Retirement Home Trust Fund.
+(B) Upon the sale of any such unclaimed estate property, the proceeds of the sale shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(C) If a personal representative or other fiduciary is appointed to administer a deceased resident's estate and the administration is completed before the end of such three-year period, the balance of the entire net proceeds of the estate, less expenses, shall be deposited directly in the Retirement Home Trust Fund. The heirs or legatees of the deceased resident may file a claim made with the Secretary of Defense to reclaim such proceeds. A determination of theclaim by the Secretary shall be subject to judicial review exclusively by the United States Court of Federal Claims.
+(C) If a personal representative or other fiduciary is appointed to administer a deceased resident's estate and the administration is completed before the end of such three-year period, the balance of the entire net proceeds of the estate, less expenses, shall be deposited directly in the Retirement Home Trust Fund. <sup>1</sup> The heirs or legatees of the deceased resident may file a claim made with the Secretary of Defense to reclaim such proceeds. A determination of the claim by the Secretary shall be subject to judicial review exclusively by the United States Court of Federal Claims.
 
-(2)(A) The Director of a facility maintained as a separate establishment of the Retirement Home may designate an attorney to serve as attorney or agent for the facility in any probate proceeding in which the Retirement Home may have a legal interest as nominated fiduciary, testamentary legatee, escheat legatee, or in any other capacity.
+(2)(A) The Director of a facility of the Retirement Home may designate an attorney who is a full-time officer or employee of the United States or a member of the Armed Forces on active duty to serve as attorney or agent for the facility in any probate proceeding in which the Retirement Home may have a legal interest as nominated fiduciary, testamentary legatee, escheat legatee, or in any other capacity.
 
 (B) An attorney designated under this paragraph may, in the domiciliary jurisdiction of the deceased resident and in any ancillary jurisdiction, petition for appointment as fiduciary. The attorney shall have priority over any petitioners (other than the deceased resident's nominated fiduciary, named legatees, or heirs) to serve as fiduciary. In a probate proceeding in which the heirs of an intestate deceased resident cannot be located and in a probate proceeding in which the nominated fiduciary, legatees, or heirs of a testate deceased resident cannot be located, the attorney shall be appointed as the fiduciary of the deceased resident's estate.
 
@@ -54,11 +54,19 @@ The net proceeds received by the Directors from the sale of effects under subsec
 
 #### (e) Unclaimed property
 
-In the case of property delivered to the Retirement Home under section 2575 of title 10, the Directors shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Directors within two years after the delivery.
+In the case of property delivered to the Retirement Home under section 2575 of title 10, the Director of the facility shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Director of the facility within two years after the delivery.
 
-(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843.)
+(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 107–107, div. A, title XIV, §§1408, 1410(a)(3), Dec. 28, 2001, 115 Stat. 1265, 1266.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §1410(a)(3)(A), substituted “a facility” for “each facility that is maintained as a separate establishment” in introductory provisions.
+
+Subsec. (b)(1)(B). Pub. L. 107–107, §1408(b), inserted “Armed Forces” before “Retirement Home Trust Fund”.
+
+Subsec. (b)(2)(A). Pub. L. 107–107, §§1408(a), 1410(a)(3)(B), struck out “maintained as a separate establishment” before “of the Retirement Home” and inserted “who is a full-time officer or employee of the United States or a member of the Armed Forces on active duty” after “may designate an attorney”.
+
+Subsec. (e). Pub. L. 107–107, §1410(a)(3)(C), which directed the amendment of subsec. (e) by substituting “Director of the facility” for “Directors”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
 1996—Subsec. (b)(1)(C). Pub. L. 104–316, §202(j)(1), substituted “Secretary of Defense” for “Comptroller General of the United States” and “Secretary” for “Comptroller General”.
 
@@ -96,5 +104,7 @@ Subsec. (b). Pub. L. 103–160, §366(e), amended heading and text of subsec. (b
 
 #### Effective Date
 
-Section applicable to estate of each resident of Armed Forces Retirement Home, including United States Soldiers’ and Airmen's Home and Naval Home, who dies after Nov. 29, 1989, see section 1541(d) of Pub. L. 101–510, set out as a note under section 401 of this title.
+Section applicable to estate of each resident of Armed Forces Retirement Home, including United States Soldiers’ and Airmen's Home and Naval Home, who dies after Nov. 29, 1989, see section 1541(d) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Armed Forces Retirement Home Trust Fund”.</i>
 

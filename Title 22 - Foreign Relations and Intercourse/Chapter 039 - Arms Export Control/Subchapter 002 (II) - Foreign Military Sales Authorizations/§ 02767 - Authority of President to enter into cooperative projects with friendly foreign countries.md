@@ -18,7 +18,7 @@ As used in this section—
 
 &emsp;(2) the term “cooperative project”, in the case of an agreement entered into under subsection (j) of this section, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to enhance the ongoing multinational effort of the participants to improve the conventional defense capabilities of the participants and which provides—
 
-&emsp;&emsp;(A) for one or more of the other participants to share with the United States the costs of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
+&emsp;&emsp;(A) for one or more of the other participants to share with the United States thecosts of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
 
 &emsp;&emsp;(B) for concurrent production in the United States and in the country of another participant of a defense article jointly developed in accordance with subparagraph (A); or
 
@@ -28,7 +28,7 @@ As used in this section—
 
 #### (c) Agreements for equitable share of costs; limiting nature of agreements
 
-Each agreement for a cooperative project shall provide that the United States and each of the other participants will contribute to the cooperative project its equitable share of the full cost of such cooperative project and will receive an equitable share of the results of such cooperative project. The full costs of such cooperative project shall include overhead costs, administrative costs, and costs of claims. The United States and the other participants may contribute their equitable shares of the full cost of such cooperative project in funds or in defense articles or defense services needed for such cooperative project. Military assistance and financing received from the United States Government may not be used by any other participant to provide its share of the cost of such cooperative project. Such agreements shall provide that norequirement shall be imposed by a participant for worksharing or other industrial or commercial compensation in connection with such agreement that is not in accordance with such agreement.
+Each agreement for a cooperative project shall provide that the United States and each of the other participants will contribute to the cooperative project its equitable share of the full cost of such cooperative project and will receive an equitable share of the results of such cooperative project. The full costs of such cooperative project shall include overhead costs, administrative costs, and costs of claims. The United States and the other participants may contribute their equitable shares of the full cost of such cooperative project in funds or in defense articles or defense services needed for such cooperative project. Military assistance and financing received from the United States Government may not be used by any other participant to provide its share of the cost of such cooperative project. Such agreements shall provide that no requirement shall be imposed by a participant for worksharing or other industrial or commercial compensation in connection with such agreement that is not in accordance with such agreement.
 
 #### (d) Contractual or other obligation; preconditions
 
@@ -74,7 +74,7 @@ The authority under this section is in addition to the authority under sections 
 
 #### (j) Cooperative project agreements with friendly foreign countries not members of NATO
 
-(1) The President may enter into a cooperative project agreement with any friendly foreigncountry not a member of the North Atlantic Treaty Organization under the same general terms and conditions as the President is authorized to enter into such an agreement with one or more member countries of the North Atlantic Treaty Organization if the President determines that the cooperative project agreement with such country would be in the foreign policy or national security interests of the United States.
+(1) The President may enter into a cooperative project agreement with any friendly foreign country not a member of the North Atlantic Treaty Organization under the same general terms and conditions as the President is authorized to enter into such an agreement with one or more member countries of the North Atlantic Treaty Organization if the President determines that the cooperative project agreement with such country would be in the foreign policy or national security interests of the United States.
 
 (2) Omitted.
 

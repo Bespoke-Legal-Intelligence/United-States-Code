@@ -28,7 +28,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not require, asa condition of providing assistance to any family under the State program funded under this part, that a member of the family assign to the State any rights to support described in subparagraph (A) which accrue after the date the family ceases to receive assistance under the program.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not require, as a condition of providing assistance to any family under the State program funded under this part, that a member of the family assign to the State any rights to support described in subparagraph (A) which accrue after the date the family ceases to receive assistance under the program.
 
 #### (4) No assistance for teenage parents who do not attend high school or other equivalent training program
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use anypart of the grant to provide assistance to a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences, subject to this paragraph.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance to a family that includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences, subject to this paragraph.
 
 #### (B) Minor child exception
 
@@ -210,7 +210,7 @@
 
 #### (1) Assessment
 
-&emsp;The State agency responsible for administering the State program funded under this part shall make an initial assessment of the skills, prior work experience, and employability ofeach recipient of assistance under the program who—
+&emsp;The State agency responsible for administering the State program funded under this part shall make an initial assessment of the skills, prior work experience, and employability of each recipient of assistance under the program who—
 
 &emsp;&emsp;(A) has attained 18 years of age; or
 
@@ -242,7 +242,7 @@
 
 #### (3) Penalty for noncompliance by individual
 
-&emsp;In addition to any other penalties required under the State program funded under this part, the State may reduce, by such amount as the State considers appropriate, the amount of assistance otherwise payable under the State program to a family that includes an individual who fails without good cause to comply with an individual responsibility plan signed by the individual.
+&emsp;In addition to any other penalties required under the State program funded under this part, the State may reduce, by such amount as the State considers appropriate, the amount ofassistance otherwise payable under the State program to a family that includes an individual who fails without good cause to comply with an individual responsibility plan signed by the individual.
 
 #### (4) State discretion
 
@@ -354,7 +354,7 @@ The Age Discrimination Act of 1975, referred to in subsec. (d)(1), is title III 
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, asamended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (e), is title IV (§400 et seq.) of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260. For complete classification of title IV to the Code, see Tables.
 
@@ -386,7 +386,7 @@ Subsec. (a)(5)(A)(ii). Pub. L. 105–33, §5505(c), made technical correction to
 
 Subsec. (a)(7)(C)(ii). Pub. L. 105–33, §5505(d)(1), substituted “The average monthly number” for “The number” and inserted “during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect” before period at end.
 
-Subsec. (a)(7)(D). Pub. L. 105–33, §5505(d)(2), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In determining the number of months for which an adult has received assistance under the State program funded under this part, the State shall disregard any month during which the adult lived on an Indian reservation or in an Alaskan Native village if, during the month—
+Subsec. (a)(7)(D). Pub. L. 105–33, §5505(d)(2), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In determining the number of months for which an adult has received assistance under the State program funded under thispart, the State shall disregard any month during which the adult lived on an Indian reservation or in an Alaskan Native village if, during the month—
 
 &emsp;“(i) at least 1,000 individuals were living on the reservation or in the village; and
 
@@ -432,5 +432,5 @@ Section effective July 1, 1997, with transition rules relating to State options 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 602, 603, 609, 611, 652, 654, 658, 664, 666 of this title; title 10 section 1408; title 11 section 523.
+This section is referred to in sections 602, 603, 609, 611, 652, 654, 664, 666 of this title; title 10 section 1408; title 11 section 523.
 

@@ -32,7 +32,7 @@ No funds appropriated to carry out this subchapter may be combined with funds ap
 
 #### Amendments
 
-1999—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating toappropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
+1999—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating to appropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
 
 Subsec. (a)(4). Pub. L. 106–71, §3(n)(2), added par. (4).
 

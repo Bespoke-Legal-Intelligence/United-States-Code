@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 97–60, §121(c), substituted “that is owned by the memb
 
 #### Effective Date of 1998 Amendment
 
-For provisions relating to the applicability of amendment by Pub. L. 105–261, see section 653(e) of Pub. L. 105–261, set out as a note under section 2634 of Title 10, Armed Forces.
+For provisions relating to the applicability of amendment by Pub. L. 105–261, see section 653(e) of Pub. L.105–261, set out as a note under section 2634 of Title 10, Armed Forces.
 
 #### Effective Date of 1996 Amendment
 

@@ -80,13 +80,13 @@ Subsec. (b)(5). Pub. L. 100–690, §7253(b)(1), amended par. (5) generally. Pri
 
 Subsec. (b)(6), (7). Pub. L. 100–690, §7253(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide technical assistance and training assistance to Federal, State, and local governments, courts, public and private agencies, institutions, and individuals, in the planning, establishment, funding, operation, or evaluation of juvenile delinquency programs; and”.
 
-Subsec. (c). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (f) as (c) and struck out former subsec. (c) which read as follows: “The President shall, no later than ninety days after receiving each annual reportunder subsection (b)(5) of this section, submit a report to the Congress and to the Council containing a detailed statement of any action taken or anticipated with respect to recommendations made by each annual report.”
+Subsec. (c). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (f) as (c) and struck out former subsec. (c) which read as follows: “The President shall, no later than ninety days after receiving each annual report under subsection (b)(5) of this section, submit a report to the Congress and to the Council containing a detailed statement of any action taken or anticipated with respect to recommendations made by each annual report.”
 
 Subsec. (d). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (g) as (d) and struck out former subsec. (d) which read as follows:
 
 “(1) The first annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to information required by subsection (b)(5) of this section, a detailed statement of criteria developed by the Administrator for identifying the characteristics of juvenile delinquency, juvenile delinquency prevention, diversion of youths from the juvenile justice system, and the training, treatment, and rehabilitation of juvenile delinquents.
 
-“(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programs which are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
+“(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programswhich are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
 
 Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (<i>l</i>) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 #### Effective Date
 
-Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at close of thirty-first day of twelfthcalendar month of 1974, and subsec. (<i>l</i>) effective at close of thirtieth day of eleventh calendar month of 1976, see section 263(a), (b) of Pub. L. 93–415, set out as a note under section 5601 of this title.
+Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at close of thirty-first day of twelfth calendar month of 1974, and subsec. (<i>l</i>) effective at close of thirtieth day of eleventh calendar month of 1976, see section 263(a), (b) of Pub. L. 93–415, set out as a note under section 5601 of this title.
 
 #### Termination of Advisory Committees
 

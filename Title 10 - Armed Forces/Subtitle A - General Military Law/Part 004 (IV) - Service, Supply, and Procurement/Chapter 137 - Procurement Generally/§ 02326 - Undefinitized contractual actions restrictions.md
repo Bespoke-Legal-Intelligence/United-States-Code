@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “qualifying proposal” means a proposal that contains sufficient information to enable the Department of Defense to conduct complete and meaningful audits of the information contained in the proposal and of any other information that the Department is entitled to review in connection with the contract, as determined by the contracting officer.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82,1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831.)
+(Added Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 101–189, div. A, title XVI, §1622(c)(6), Nov. 29, 1989, 103 Stat. 1604; Pub. L. 102–25, title VII, §701(d)(5), Apr. 6, 1991, 105 Stat. 114; Pub. L. 103–355, title I, §1505, Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831.)
 
 #### Codification
 
@@ -82,7 +82,7 @@ A prior section 2326 was renumbered section 2346 of this title.
 
 #### Amendments
 
-1997—Subsec. (b)(4). Pub. L. 105–85 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The head of an agency may waive the provisions of this subsection with respect to a contract of that agency if such head of an agency determines that the waiver is necessary in order to support a contingency operation.”
+1997—Subsec. (b)(4). Pub. L. 105–85 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The head of an agency may waive the provisions ofthis subsection with respect to a contract of that agency if such head of an agency determines that the waiver is necessary in order to support a contingency operation.”
 
 1994—Subsec. (b). Pub. L. 103–355, §1505(a)(1), struck out “and expenditure” after “obligation” in heading.
 

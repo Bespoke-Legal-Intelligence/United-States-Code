@@ -4,7 +4,7 @@
 
 The Secretary may make a grant under section 300x of this title only if—
 
-&emsp;(1) the State involved submits to the Secretary a plan for providing comprehensive community mental health services to adultswith a serious mental illness and to children with a serious emotional disturbance;
+&emsp;(1) the State involved submits to the Secretary a plan for providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance;
 
 &emsp;(2) the plan meets the criteria specified in subsection (b) of this section; and
 
@@ -60,7 +60,7 @@ With respect to the provision of comprehensive community mental health services 
 
 #### (1) Complete implementation
 
-&emsp;Except as provided in paragraph (2), in making a grant under section 300x of this title to a State for a fiscal year, the Secretary shall make a determination of the extent to which the State has implemented the plan required in subsection (a) of this section. If the Secretary determines that a State has not completely implemented the plan, the Secretary shall reduce the amount of the allotment under section 300x of this title for the State for the fiscal year involved by an amount equal to 10 percent of the amount determined under section 300x–7 of this title for the State for the fiscal year.
+&emsp;Except as provided in paragraph (2), in making a grant under section 300x of this title to a State for a fiscal year, the Secretary shallmake a determination of the extent to which the State has implemented the plan required in subsection (a) of this section. If the Secretary determines that a State has not completely implemented the plan, the Secretary shall reduce the amount of the allotment under section 300x of this title for the State for the fiscal year involved by an amount equal to 10 percent of the amount determined under section 300x–7 of this title for the State for the fiscal year.
 
 #### (2) Substantial implementation and good faith effort regarding fiscal year 1993
 
@@ -92,7 +92,7 @@ Section 300x–1b, act July 1, 1944, ch. 373, title XIX, §1913, as added Oct. 1
 
 #### Amendments
 
-Subsec. (b). Pub. L. 106–310 added pars. (1) to (5) and concluding provisions and struck out former pars. (1) to (12) relating to criteria for plan.
+2000—Subsec. (b). Pub. L. 106–310 added pars. (1) to (5) and concluding provisions and struck out former pars. (1) to (12) relating to criteria for plan.
 
 #### Section Referred to in Other Sections
 

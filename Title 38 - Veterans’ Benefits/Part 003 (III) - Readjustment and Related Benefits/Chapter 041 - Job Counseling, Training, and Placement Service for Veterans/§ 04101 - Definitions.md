@@ -24,7 +24,7 @@ For the purposes of this chapter—
 
 &emsp;(8) The term “Secretary” means the Secretary of Labor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub.L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### References in Text
 

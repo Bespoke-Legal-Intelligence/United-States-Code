@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;<b>(3) Search warrants with respect to property used in violation of the internal revenue laws, see section 7302.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 903, §7607; renumbered §7608, July 18, 1956, ch. 629, title I, §104(a), 70 Stat. 570; renumbered §7609 and amended Pub. L. 85–859, title II, §204(14), (15), Sept. 2, 1958, 72 Stat. 1429, 1430; Pub. L. 91–513, title III, §1102(h), Oct. 27, 1970, 84 Stat. 1293; renumbered §7611 and amended Pub. L. 94–455, title XII, §1205(a), title XIX, §1904(b)(7)(D), (9)(E), Oct. 4, 1976, 90 Stat. 1699, 1815, 1816; renumbered §7612, Pub. L. 98–369, div. A, title X, §1033(a), July 18, 1984, 98 Stat. 1034; renumbered §7613, Pub. L. 105–206, title III, §3413(a), July 22, 1998, 112 Stat. 751.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 903, §7607; renumbered §7608, July 18, 1956, ch. 629, title I, §104(a), 70 Stat. 570; renumbered §7609 and amended Pub. L. 85–859, title II, §204(14), (15), Sept. 2, 1958, 72 Stat. 1429, 1430; Pub. L. 91–513, title III, §1102(h), Oct. 27, 1970, 84 Stat. 1293; renumbered §7611 and amended Pub. L. 94–455, title XII, §1205(a), title XIX, §1904(b)(7)(D), (9)(E), Oct.4, 1976, 90 Stat. 1699, 1815, 1816; renumbered §7612, Pub. L. 98–369, div. A, title X, §1033(a), July 18, 1984, 98 Stat. 1034; renumbered §7613, Pub. L. 105–206, title III, §3413(a), July 22, 1998, 112 Stat. 751.)
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Not later than 180 days after October 21, 1998, the Secretary of State shall establish, implement, and submit to Congress a comprehensive, long-term strategy to carry out the counterdrug responsibilities of the Department of State in a manner consistent with the National Drug Control Strategy. The strategy shall involve all elements of the Department in the United States and abroad.
+&emsp;Not later than 180 days after October 21, 1998, the Secretary of State shall establish, implement, and submit to Congress a comprehensive, long-term strategy to carry out thecounterdrug responsibilities of the Department of State in a manner consistent with the National Drug Control Strategy. The strategy shall involve all elements of the Department in the United States and abroad.
 
 #### (2) Objectives
 
@@ -66,7 +66,7 @@
 
 #### (3) Report to Congress
 
-&emsp;Not later than 180 days after October 21, 1998, the Secretary shall submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report on the status of any proposals for action or on action undertaken to improve staffing and personnel management at diplomatic missions of the United States in order to carry out the responsibility set forth in paragraph (1).
+&emsp;Not later than 180 days after October 21, 1998, the Secretary shall submit to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report on the status of any proposals for action or on action undertaken to improve staffing and personnel management at diplomatic missions of theUnited States in order to carry out the responsibility set forth in paragraph (1).
 
 (Pub. L. 105–277, div. G, subdiv. B, title XXII, §2214, Oct. 21, 1998, 112 Stat. 2681–812.)
 

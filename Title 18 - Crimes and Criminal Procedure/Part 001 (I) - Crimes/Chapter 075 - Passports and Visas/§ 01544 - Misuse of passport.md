@@ -24,7 +24,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in last par.
+1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15years (in the case of any other offense)” for “imprisoned not more than 10 years” in last par.
 
 1994—Pub. L. 103–322, §330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, §130009(a)(2). See below.
 

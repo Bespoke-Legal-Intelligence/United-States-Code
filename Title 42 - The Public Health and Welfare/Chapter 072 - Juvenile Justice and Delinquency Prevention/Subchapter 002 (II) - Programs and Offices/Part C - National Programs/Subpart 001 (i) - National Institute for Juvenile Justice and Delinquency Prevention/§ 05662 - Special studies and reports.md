@@ -20,7 +20,7 @@
 
 &emsp;(iii) the extent to which such tribes and organizations comply with the requirements specified in paragraphs (12)(A), (13), and (14) of section 5633(a) of this title, applicable to the detention and confinement of juveniles.
 
-(B)(i) for <sup>1</sup> purposes of section 450e(b) of title 25, any contract, subcontract, grant, or subgrant made under paragraph (1) shall be deemed to be a contract, subcontract, grant, or subgrant made for the benefit of Indians.
+(B)(i) for <sup>1</sup> purposes of section 450e(b) of title 25, any contract, subcontract, grant, or subgrant made under paragraph (1) shall be deemed to bea contract, subcontract, grant, or subgrant made for the benefit of Indians.
 
 (ii) for <sup>1</sup> purposes of section 450e(b) of title 25 and subparagraph (A) of this paragraph, references to Indians and Indian organizations shall be deemed to include Alaskan Natives and Alaskan Native organizations, respectively.
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;(ii) a comparison of access to and the quality of counsel afforded juveniles charged in adult court proceedings with those of juveniles charged in juvenile court proceedings; and
 
-&emsp;(B) submit to Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings made in the study andrecommendations to improve access to counsel for juveniles in juvenile court proceedings.
+&emsp;(B) submit to Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate a report on the findings made in the study and recommendations to improve access to counsel for juveniles in juvenile court proceedings.
 
 (6)(A) Not later than 180 days after November 4, 1992, the Administrator shall begin to conduct a study and continue any pending study of the incidence of violence committed by or against juveniles in urban and rural areas in the United States.
 

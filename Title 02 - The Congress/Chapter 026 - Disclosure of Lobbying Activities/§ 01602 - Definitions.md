@@ -24,7 +24,7 @@ As used in this chapter:
 
 &emsp;&emsp;(E) any member of the uniformed services whose pay grade is at or above O–7 under section 201 of title 37; and
 
-&emsp;&emsp;(F) any officer or employee serving in a position of a confidential, policy-determining, policy-making, or policy-advocating character described in section 7511(b)(2)(B) of title 5.
+&emsp;&emsp;(F) any officer or employee serving in a position of a confidential, policy-determining,policy-making, or policy-advocating character described in section 7511(b)(2)(B) of title 5.
 
 #### (4) Covered legislative branch official
 

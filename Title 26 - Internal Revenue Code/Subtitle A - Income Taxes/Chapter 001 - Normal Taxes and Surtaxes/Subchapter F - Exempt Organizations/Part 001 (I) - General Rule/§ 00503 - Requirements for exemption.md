@@ -12,7 +12,7 @@
 
 #### (2) Taxable years affected
 
-&emsp;An organization described in section 501(c) (17) or (18) or paragraph (1)(B) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
+&emsp;An organization described in section 501(c) (17) or (18) or paragraph (1)(B) shall be deniedexemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
 
 #### (b) Prohibited transactions
 
@@ -60,13 +60,13 @@ For purposes of subsection (b)(1), a bond, debenture, note, or certificate or ot
 
 #### (f) Loans with respect to which employers are prohibited from pledging certain assets
 
-Subsection (b)(1) shall not apply to a loan made by a trust described in section 401(a) to the employer (or to a renewal of such a loan or,if the loan is repayable upon demand, to a continuation of such a loan) if the loan bears a reasonable rate of interest, and if (in the case of a making or renewal)—
+Subsection (b)(1) shall not apply to a loan made by a trust described in section 401(a) to the employer (or to a renewal of such a loan or, if the loan is repayable upon demand, to a continuation of such a loan) if the loan bears a reasonable rate of interest, and if (in the case of a making or renewal)—
 
 &emsp;(1) the employer is prohibited (at the time of such making or renewal) by any law of the United States or regulation thereunder from directly or indirectly pledging, as security for such a loan, a particular class or classes of his assets the value of which (at such time) represents more than one-half of the value of all his assets;
 
 &emsp;(2) the making or renewal, as the case may be, is approved in writing as an investment which is consistent with the exempt purposes of the trust by a trustee who is independent of the employer, and no other such trustee had previously refused to give such written approval; and
 
-&emsp;(3) immediately following the making or renewal, as the case may be, the aggregate amount loaned by the trust to the employer, without the receipt of adequate security, does not exceed 25 percent of the value of all the assets of the trust.
+&emsp;(3) immediately following the making or renewal, as the case may be, the aggregate amount loaned by the trust to the employer,without the receipt of adequate security, does not exceed 25 percent of the value of all the assets of the trust.
 
 > For purposes of paragraph (2), the term “trustee” means, with respect to any trust for which there is more than one trustee who is independent of the employer, a majority of such independent trustees. For purposes of paragraph (3), the determination as to whether any amount loaned by the trust to the employer is loaned without the receipt of adequate security shall be made without regard to subsection (e).
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 93–406 effective Jan. 1, 1975, but with provision for an 
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 101(j)(7)–(14) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L.91–172, set out as an Effective Date note under section 4940 of this title.
+Amendment by section 101(j)(7)–(14) of Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
 Amendment by section 121(b)(6)(B) of Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 121(g) of Pub. L. 91–172, set out as a note under section 511 of this title.
 
@@ -150,7 +150,7 @@ Section 30(c) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after March 15, 1956. The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to periods after such date.
+In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending thissection\] shall apply with respect to taxable years ending after March 15, 1956. The amendment made by subsection (b) \[amending this section\] shall apply with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\], but only with respect to periods after such date.
 
 “(2)
 

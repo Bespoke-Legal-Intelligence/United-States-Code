@@ -41,12 +41,49 @@ The tax imposed by this section shall be the amount equal to the excess (if any)
 | Over $1,250,000 but not over $1,500,000 | $448,300, plus 43 percent of the excess of such amount over $1,250,000. |
 | Over $1,500,000 but not over $2,000,000 | $555,800, plus 45 percent of the excess of such amount over $1,500,000. |
 | Over $2,000,000 but not over $2,500,000 | $780,800, plus 49 percent of the excess of such amount over $2,000,000. |
-| Over $2,500,000 but not over $3,000,000 | $1,025,800, plus 53% of the excess over $2,500,000. |
-| Over $3,000,000 | $1,290,800, plus 55% of the excess over $3,000,000. |
+| Over $2,500,000 | $1,025,800, plus 50% of the excess over $2,500,000. |
 
-#### (2) Phaseout of graduated rates and unified credit
+#### (2) Phasedown of maximum rate of tax
 
-&emsp;The tentative tax determined under paragraph (1) shall be increased by an amount equal to 5 percent of so much of the amount (with respect to which the tentative tax is to be computed) as exceeds $10,000,000 but does not exceed the amount at which the average tax rate under this section is 55 percent.
+#### (A) In general
+
+&emsp;&emsp;In the case of estates of decedents dying, and gifts made, in calendar years after 2002 and before 2010, the tentative tax under this subsection shall be determined by using a table prescribed by the Secretary (in lieu of using the table contained in paragraph (1)) which is the same as such table; except that—
+
+&emsp;&emsp;&emsp;(i) the maximum rate of tax for any calendar year shall be determined in the table under subparagraph (B), and
+
+&emsp;&emsp;&emsp;(ii) the brackets and the amounts setting forth the tax shall be adjusted to the extent necessary to reflect the adjustments under subparagraph (A).
+
+#### (B) Maximum rate
+
+&nbsp;
+
+<b>The maximum</b>
+
+<b>In calendar year:</b>
+
+<b>rate is:</b>
+
+&emsp;&emsp;&nbsp;&nbsp;2003
+
+49 percent&nbsp;&nbsp;
+
+&emsp;&emsp;&nbsp;&nbsp;2004
+
+48 percent&nbsp;&nbsp;
+
+&emsp;&emsp;&nbsp;&nbsp;2005
+
+47 percent&nbsp;&nbsp;
+
+&emsp;&emsp;&nbsp;&nbsp;2006
+
+46 percent&nbsp;&nbsp;
+
+&emsp;&emsp;&nbsp;&nbsp;2007, 2008, and 2009
+
+45 percent.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### (d) Adjustment for gift tax paid by spouse
 
@@ -72,7 +109,7 @@ If—
 
 #### (1) In general
 
-&emsp;If the time has expired under section 6501 within which a tax may be assessed underchapter 12 (or under corresponding provisions of prior laws) on—
+&emsp;If the time has expired under section 6501 within which a tax may be assessed under chapter 12 (or under corresponding provisions of prior laws) on—
 
 &emsp;&emsp;(A) the transfer of property by gift made during a preceding calendar period (as defined in section 2502(b)); or
 
@@ -92,9 +129,19 @@ If—
 
 > &emsp;For purposes of subparagraph (A), the value of an item shall be treated as shown on a return if the item is disclosed in the return, or in a statement attached to the return, in a manner adequate to apprise the Secretary of the nature of such item.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–16, §§511(a), 901, temporarily substituted in table provisions that if the amount on which the tax is computed is over $2,500,000, then the tentative tax is $1,025,800, plus 50% of the excess over $2,500,000 for provisions that if the amount on which the tax is computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800, plus 53% of the excess over $2,500,000, and if the amount on which the tax is computed is over $3,000,000, then the tentative tax is $1,290,800, plus 55% of the excess over $3,000,000. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(2). Pub. L. 107–16, §§511(c), 901, temporarily added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§511(b), 901, temporarily struck out heading and text of par. (2). Text read as follows: “The tentative tax determined under paragraph (1) shall be increased by an amount equal to 5 percent of so much of the amount (with respect to which the tentative tax is to be computed) as exceeds $10,000,000 but does not exceed the amount at which the average tax rate under this section is 55 percent.” See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–206, §6007(e)(2)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If—
 
@@ -128,11 +175,27 @@ Subsec. (c)(3). Pub. L. 100–203, §10401(b)(1), added par. (3).
 
 <b>1981</b>—Subsec. (b)(2). Pub. L. 97–34, §402(c), inserted “which would have been” before “payable” and “, if the rate schedule set forth in subsection (c) (as in effect at the decedent's death) had been applicable at the time of such gifts” after “December 31, 1976,”.
 
-Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as par. (1), inserted heading “In general” and substituted in table provision that if the amount computed is over $2,500,000 then the tentative tax is $1,025,800 plus 50% of the excess over $2,500,000 for provisions that if the amount computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800 plus 53% of the excess over $2,500,000, over $3,000,000 but not over $3,500,000 then the tentative tax is $1,290,000 plus 57% of the excess over $3,000,000, over $3,500,000 but not over $4,000,000 then the tentative tax is $1,575,800 plus 61% of the excess over $3,500,000, over $4,000,000 but not over $4,500,000 then the tentative tax is $1,880,800 plus 65% of the excess over $4,000,000, over $4,500,000 but not over $5,000,000 then the tentative tax is $2,205,800 plus 69% of the excess over $4,500,000, over $5,000,000 then the tentative tax is $2,550,800 plus 70% of the excess over $5,000,000, and added par. (2).
+Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as par. (1), inserted heading “In general” and substituted in table provision that if the amount computed is over $2,500,000 then the tentative tax is $1,025,800 plus 50% of the excess over $2,500,000 for provisions that if the amount computed is over $2,500,000 but not over $3,000,000, then the tentative tax is $1,025,800 plus 53% of the excess over $2,500,000, over $3,000,000 but not over $3,500,000 then the tentative tax is $1,290,000 plus 57% of the excess over $3,000,000, over $3,500,000 but not over $4,000,000 then the tentative tax is $1,575,800 plus 61% of the excess over $3,500,000, over$4,000,000 but not over $4,500,000 then the tentative tax is $1,880,800 plus 65% of the excess over $4,000,000, over $4,500,000 but not over $5,000,000 then the tentative tax is $2,205,800 plus 69% of the excess over $4,500,000, over $5,000,000 then the tentative tax is $2,550,800 plus 70% of the excess over $5,000,000, and added par. (2).
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–600 added subsec. (e).
 
 <b>1976</b>—Pub. L. 94–455 substituted provisions setting a unified rate schedule for estate and gift taxes ranging from 18 percent for the first $10,000 in taxable transfers to 70 percent of taxable transfers in excess of $5,000,000, with provision for adjustments for gift taxes paid by spouses, for provisions setting an estate tax of 3 percent of the first $5,000 of the taxable estate to 77 percent of the taxable estate in excess of $10,000,000.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title V, §511(f)(1), (2), June 7, 2001, 115 Stat. 71, provided that:
+
+“(1)
+
+Subsections (a)
+
+and (b).—The amendments made by subsections (a) and (b) \[amending this section\] shall apply to estates of decedents dying, and gifts made, after December 31, 2001.
+
+“(2)
+
+Subsection (c).—The amendment made by subsection (c) \[amending this section\] shall apply to estates of decedents dying, and gifts made, after December 31, 2002.”
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendments
 
@@ -212,5 +275,5 @@ Penalty for Failure to Report.—Any taxpayer failing to provide the information
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 163, 691, 1016, 2010, 2011, 2012, 2013, 2014, 2015, 2031, 2032A, 2051, 2053, 2054, 2055, 2056, 2056A, 2057, 2101, 2107, 2502, 2504, 2641, 2661, 6018, 6019, 6166, 6601, 7422, 7481 of this title.
+This section is referred to in sections 163, 691, 1016, 2010, 2011, 2012, 2013, 2014, 2015, 2031, 2032A, 2051, 2053, 2054, 2055, 2056, 2056A, 2057, 2058, 2101, 2107, 2201, 2502, 2504, 2641, 2642, 2661, 6018, 6019, 6166, 6601, 7422, 7481 of this title.
 

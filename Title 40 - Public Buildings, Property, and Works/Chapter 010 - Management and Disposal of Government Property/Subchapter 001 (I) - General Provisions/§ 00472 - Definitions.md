@@ -8,7 +8,7 @@ As used in titles I through VI of this Act—
 
 (c) The term “Administrator” means the Administrator of General Services provided for in chapter 16 of this title.
 
-(d) The term “property” means any interest in property except (1) the public domain; lands reserved or dedicated for national forest or national park purposes; minerals in lands or portions of lands withdrawn or reserved from the public domain which the Secretary of the Interior determines are suitable for disposition under the public land mining and mineral leasing laws; and lands withdrawn or reserved from the public domain except lands or portions of lands so withdrawn or reserved which the Secretary of the Interior, with the concurrence of the Administrator, determines are not suitable for return to the public domain for disposition under the general public-land laws because such lands are substantially changed in character by improvements or otherwise; (2) naval vessels of the following categories: Battleships, cruisers, aircraft carriers, destroyers, and submarines; and (3) records of the Federal Government.
+(d) The term “property” means any interest in property except (1) the public domain; lands reserved or dedicated for national forest or national park purposes; minerals in lands or portions of lands withdrawn or reserved from the public domain which the Secretary of the Interior determines are suitable for disposition under the public land mining and mineral leasing laws; and lands withdrawn or reserved fromthe public domain except lands or portions of lands so withdrawn or reserved which the Secretary of the Interior, with the concurrence of the Administrator, determines are not suitable for return to the public domain for disposition under the general public-land laws because such lands are substantially changed in character by improvements or otherwise; (2) naval vessels of the following categories: Battleships, cruisers, aircraft carriers, destroyers, and submarines; and (3) records of the Federal Government.
 
 (e) The term “excess property” means any property under the control of any Federal agency which is not required for its needs and the discharge of its responsibilities, as determined by the head thereof.
 
@@ -74,5 +74,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 762 of this title; title 10 sections 2667, 2667a; title 15 section 278g–3; title 16 section 470w–7; title 20 section 3479; title 31 section 3551; title 41 section 423; title 42 sections 7259, 11411; title 43 section 1702; title 44 section 2901.
+This section is referred to in section 762 of this title; title 10 sections 2667, 2667a; title 15 section 278g–3; title16 section 470w–7; title 20 section 3479; title 31 section 3551; title 41 section 423; title 42 sections 7259, 11411; title 43 section 1702; title 44 section 2901.
 

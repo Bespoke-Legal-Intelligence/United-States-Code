@@ -24,7 +24,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(i) that is budget authority provided by law (other than an appropriation law), to prevent such budget authority from having legal force or effect;
 
-&emsp;&emsp;&emsp;(ii) that is entitlement authority, to prevent the specific legal obligation of theUnited States from having legal force or effect; or
+&emsp;&emsp;&emsp;(ii) that is entitlement authority, to prevent the specific legal obligation of the United States from having legal force or effect; or
 
 &emsp;&emsp;&emsp;(iii) through the food stamp program, to prevent the specific provision of law that results in an increase in budget authority or outlays for that program from having legal force or effect; and
 

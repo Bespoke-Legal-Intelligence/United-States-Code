@@ -6,7 +6,7 @@ In all cases of sale pursuant to section 6335 of property (other than real prope
 
 #### (1) As evidence
 
-&emsp;Shall be prima facie evidence of the right of the officer to make such sale, and conclusiveevidence of the regularity of his proceedings in making the sale; and
+&emsp;Shall be prima facie evidence of the right of the officer to make such sale, and conclusive evidence of the regularity of his proceedings in making the sale; and
 
 #### (2) As conveyances
 

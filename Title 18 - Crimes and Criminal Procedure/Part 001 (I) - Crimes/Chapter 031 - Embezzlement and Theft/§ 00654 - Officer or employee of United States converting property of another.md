@@ -20,7 +20,7 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 substituted “$1,000” for “$100”.
 
-1994—Pub. L. 103–322, §330016(2)(H), substituted “shall be fined under this title or not more than the value of the money and property thus embezzled or converted, whichever is greater, or imprisoned” for “shall be fined not more than the value of the money and property thus embezzled or converted, or imprisoned”.
+1994—Pub. L. 103–322, §330016(2)(H), substituted “shall be fined under this title or not more than the value of the money and property thus embezzled or converted, whichever is greater, or imprisoned” for “shall be finednot more than the value of the money and property thus embezzled or converted, or imprisoned”.
 
 Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” after “he shall be”.
 

@@ -10,7 +10,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 162, 416, 1016, 3510, 5041, 6017, 6103, 6414, 6511, 6521, 6654, 7651, 7655, 7701, 7851 of this title; title 42 sections 401, 405, 408, 1307; title 48 sections 1421h, 1421i.
+This chapter is referred to in sections 139, 162, 416, 1016, 3510, 5041, 6017, 6103, 6414, 6511, 6521, 6654, 7651, 7655, 7701, 7851 of this title; title 42 sections 401, 405, 408, 1307; title 48 sections 1421h, 1421i.
 
 
 ---

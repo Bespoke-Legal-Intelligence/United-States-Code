@@ -44,7 +44,7 @@ Transcript.—The term “transcript” includes any written depiction of visual
 
 (b)
 
-Reports.—No part of a report of the Board, related to an accident or an investigation of anaccident, may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report.
+Reports.—No part of a report of the Board, related to an accident or an investigation of an accident, may be admitted into evidence or used in a civil action for damages resulting from a matter mentioned in the report.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 757; Pub. L. 106–424, §5(c)(1), Nov. 1, 2000, 114 Stat. 1885.)
 

@@ -20,7 +20,7 @@ To the extent specified in this section, the Secretary, upon request, may author
 
 &emsp;&emsp;(C) take appropriate steps to limit the liability of the United States arising from the provision of services under such an authorization; and
 
-&emsp;&emsp;(D) have no authority under this section to issue more authorizations than are consistent with the preservation and proper management of park resources and values, and shall establish such other conditions for issuance of such an authorization as the Secretary determines appropriate for the protection of visitors, provision of adequate andappropriate visitor services, and protection and proper management of the resources and values of the park.
+&emsp;&emsp;(D) have no authority under this section to issue more authorizations than are consistent with the preservation and proper management of park resources and values, and shall establish such other conditions for issuance of such an authorization as the Secretary determines appropriate for the protection of visitors, provision of adequate and appropriate visitor services, and protection and proper management of the resources and values of the park.
 
 #### (c) Limitations
 

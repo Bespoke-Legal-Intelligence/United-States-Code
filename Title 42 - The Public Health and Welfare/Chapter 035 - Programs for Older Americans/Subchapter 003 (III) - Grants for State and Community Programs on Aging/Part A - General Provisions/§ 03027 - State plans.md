@@ -72,7 +72,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;(A) the plan contains assurances that area agencies on aging will (i) enter into contracts with providers of legal assistance which can demonstrate the experience or capacity to deliver legal assistance; (ii) include in any such contract provisions to assure that any recipient of funds under division (i) will be subject to specific restrictions and regulations promulgated under the Legal Services Corporation Act \[42 U.S.C. 2996 et seq.\] (other than restrictions and regulations governing eligibility for legal assistance under such Act and governing membership of local governing boards) as determined appropriate by the Assistant Secretary; and (iii) attempt to involve the private bar in legal assistance activities authorized under this subchapter, including groups within the private bar furnishing services to older individuals on a pro bono and reduced fee basis;
 
-&emsp;&emsp;(B) the plan contains assurances that no legal assistance will be furnished unless the grantee administers a program designed to provide legal assistance to older individuals with social or economic need and has agreed, if the grantee is not a Legal Services Corporation project grantee, to coordinate its services with existing Legal Services Corporation projects in the planning and service area in order to concentrate the use of funds provided under this subchapter on individuals with the greatest such need; and the area agency on aging makes a finding, after assessment, pursuant to standards for service promulgated by the Assistant Secretary, that any grantee selected is the entity best able to provide the particular services;
+&emsp;&emsp;(B) the plan contains assurances that no legal assistance will be furnished unless the grantee administers a program designed to provide legal assistance to older individuals with social or economic need and has agreed, if the grantee is not a Legal Services Corporation project grantee, to coordinate its services with existing Legal Services Corporation projects in the planning and servicearea in order to concentrate the use of funds provided under this subchapter on individuals with the greatest such need; and the area agency on aging makes a finding, after assessment, pursuant to standards for service promulgated by the Assistant Secretary, that any grantee selected is the entity best able to provide the particular services;
 
 &emsp;&emsp;(C) the State agency will provide for the coordination of the furnishing of legal services to older individuals within the State, and provide advice and technical assistance in the provision of legal services to older individuals within the State and support the furnishing of training and technical assistance for legal services for older individuals;
 
@@ -174,7 +174,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 #### (c) Notice and hearing prior to disapproval
 
-(1) The Assistant Secretary shall not make a final determination disapproving any State plan, or any modification thereof, or make afinal determination that a State is ineligible under section 3025 of this title, without first affording the State reasonable notice and opportunity for a hearing.
+(1) The Assistant Secretary shall not make a final determination disapproving any State plan, or any modification thereof, or make a final determination that a State is ineligible under section 3025 of this title, without first affording the State reasonable notice and opportunity for a hearing.
 
 (2) Not later than 30 days after such final determination, a State dissatisfied with such final determination may appeal such final determination to the Secretary for review. If the State timely appeals such final determination in accordance with subsection (e)(1) of this section, the Secretary shall dismiss the appeal filed under this paragraph.
 
@@ -210,7 +210,7 @@ Neither a State, nor a State agency, may require any provider of legal assistanc
 
 Section 3012(a) of this title, referred to in subsec. (a)(2)(A), does not contain a par. (29). A former section 3012(a)(29) of this title, relating to uniform data collection procedures, was redesignated section 3012(a)(26) by Pub. L. 106–501, title II, §201(1)(B), Nov. 13, 2000, 114 Stat. 2229.
 
-The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378, as amended, which is classified generally to subchapter X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2996 of this title and Tables.
+The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title X of Pub. L. 88–452, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378, as amended, which is classified generally to subchapter X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Prior Provisions
 
@@ -532,7 +532,7 @@ Subsec. (a)(21)(B). Pub. L. 98–459, §307(a)(8), substituted “Commonwealth o
 
 Subsec. (b)(1). Pub. L. 98–459, §307(b), substituted “the Commissioner finds” for “he finds”.
 
-Subsec. (d). Pub. L. 98–459, §307(c), substituted “in the Commissioner's discretion” for “in his discretion”, “until the Commissioner is satisfied” for “until he is satisfied”, “Until the Commissioner is so satisfied” for“Until he is so satisfied”, “the Commissioner shall prescribe” for “he shall prescribe”, and “the provisions of this section” for “the provisions of section 307”.
+Subsec. (d). Pub. L. 98–459, §307(c), substituted “in the Commissioner's discretion” for “in his discretion”, “until the Commissioner is satisfied” for “until he is satisfied”, “Until the Commissioner is so satisfied” for “Until he is so satisfied”, “the Commissioner shall prescribe” for “he shall prescribe”, and “the provisions of this section” for “the provisions of section 307”.
 
 Subsec. (e)(1). Pub. L. 98–459, §307(d)(1), substituted “designated by the Commissioner” for “designated by him” and “the Commissioner's action is based” for “he based his action”.
 
@@ -546,7 +546,7 @@ Subsec. (a)(3)(A), (10). Pub. L. 97–115, §3(d), substituted “supportive ser
 
 Subsec. (a)(13)(A). Pub. L. 97–115, §7(b), substituted “aged 60 or older and to their spouses, and may be made available to handicapped or disabled individuals who have not attained 60 years of age but who reside in housing facilities occupied primarily by the elderly at which congregate nutrition services are provided” for “aged 60 or older, and to their spouses”.
 
-Subsec. (a)(13)(B). Pub. L. 97–115, §7(c), substituted “primary consideration shall be given to the provision of meals in a congregate setting, except that each area agency (i) may award funds made available under this subchapter to organizations for the provision of home delivered meals to older individuals in accordance with the provisions of subpart II of part C, based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter, without requiring that such organizations also provide meals to older individuals in a congregate setting; and (ii) shall, in awarding such funds, select such organizations in a manner which complies with the provisions of subparagraph (H)” for “each project will provide meals in a congregate setting, except that each such project may provide home delivered meals based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter”.
+Subsec. (a)(13)(B). Pub. L. 97–115, §7(c), substituted “primary consideration shall be given to the provision of meals in a congregate setting, except that each area agency (i) may award funds made available under this subchapter to organizations for the provision of home delivered meals to older individuals in accordance with the provisions of subpart II of part C, based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter, without requiring that such organizations also provide meals to older individuals in a congregate setting; and (ii) shall,in awarding such funds, select such organizations in a manner which complies with the provisions of subparagraph (H)” for “each project will provide meals in a congregate setting, except that each such project may provide home delivered meals based upon a determination of need made by the recipient of a grant or contract entered into under this subchapter”.
 
 Subsec. (a)(13)(C)(ii). Pub. L. 97–115, §7(d), inserted “, to facilitate access to such meals, and to provide other supportive services directly related to nutrition services” after “the project involved”.
 

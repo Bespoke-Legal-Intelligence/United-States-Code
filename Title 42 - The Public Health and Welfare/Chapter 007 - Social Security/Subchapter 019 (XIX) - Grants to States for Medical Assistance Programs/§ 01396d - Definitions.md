@@ -50,7 +50,7 @@ The term “medical assistance” means payment of part or all of the cost of th
 
 &emsp;(8) private duty nursing services;
 
-&emsp;(9) clinic services furnished by or under the direction of a physician, without regard to whether the clinic itself is administered by aphysician, including such services furnished outside the clinic by clinic personnel to an eligible individual who does not reside in a permanent dwelling or does not have a fixed home or mailing address;
+&emsp;(9) clinic services furnished by or under the direction of a physician, without regard to whether the clinic itself is administered by a physician, including such services furnished outside the clinic by clinic personnel to an eligible individual who does not reside in a permanent dwelling or does not have a fixed home or mailing address;
 
 &emsp;(10) dental services;
 
@@ -110,7 +110,7 @@ The term “intermediate care facility for the mentally retarded” means an ins
 
 &emsp;(1) the primary purpose of such institution (or distinct part thereof) is to provide health or rehabilitative services for mentally retarded individuals and the institution meets such standards as may be prescribed by the Secretary;
 
-&emsp;(2) the mentally retarded individual with respect to whom a request for payment is made under a plan approved under this subchapter is receiving active treatment under such a program; and
+&emsp;(2) the mentally retarded individual with respect to whom a request for payment is madeunder a plan approved under this subchapter is receiving active treatment under such a program; and
 
 &emsp;(3) in the case of a public institution, the State or political subdivision responsible for the operation of such institution has agreed that the non-Federal expenditures in any calendar quarter prior to January 1, 1975, with respect to services furnished to patients in such institution (or distinct part thereof) in the State will not, because of payments made under this subchapter, be reduced below the average amount expended for such services in such institution in the four quarters immediately preceding the quarter in which the State in which such institution is located elected to make such services available under its plan approved under this subchapter.
 
@@ -140,7 +140,7 @@ If the State plan includes provision of chiropractors’ services, such services
 
 (1) For purposes of paragraph (16) of subsection (a) of this section, the term “inpatient psychiatric hospital services for individuals under age 21” includes only—
 
-&emsp;(A) inpatient services which are provided in an institution (or distinct part thereof) which is a psychiatric hospital as defined in section1395x(f) of this title or in another inpatient setting that the Secretary has specified in regulations;
+&emsp;(A) inpatient services which are provided in an institution (or distinct part thereof) which is a psychiatric hospital as defined in section 1395x(f) of this title or in another inpatient setting that the Secretary has specified in regulations;
 
 &emsp;(B) inpatient services which, in the case of any individual (i) involve active treatment which meets such standards as may be prescribed in regulations by the Secretary, and (ii) a team, consisting of physicians and other personnel qualified to make determinations with respect to mental health conditions and the treatment thereof, has determined are necessary on an inpatient basis and can reasonably be expected to improve the condition, by reason of which such services are necessary, to the extent that eventually such services will no longer be necessary; and
 
@@ -182,7 +182,7 @@ Increased supplemental security income benefits payable pursuant to section 211 
 
 #### (m) Qualified family member
 
-(1) Subject to paragraph (2), the term “qualified family member” means an individual (other than a qualified pregnant woman or child, as defined in subsection (n) of this section) who is a member of a family that would be receiving aid under the State plan under part A of subchapter IV of this chapter pursuant to section 607 <sup>5</sup> ofthis title if the State had not exercised the option under section 607(b)(2)(B)(i) <sup>5</sup> of this title.
+(1) Subject to paragraph (2), the term “qualified family member” means an individual (other than a qualified pregnant woman or child, as defined in subsection (n) of this section) who is a member of a family that would be receiving aid under the State plan under part A of subchapter IV of this chapter pursuant to section 607 <sup>5</sup> of this title if the State had not exercised the option under section 607(b)(2)(B)(i) <sup>5</sup> of this title.
 
 (2) No individual shall be a qualified family member for any period after September 30, 1998.
 
@@ -210,7 +210,7 @@ The term “qualified pregnant woman or child” means—
 
 &emsp;(A) shall be made in accordance with procedures that are established by the State and that are consistent with the procedures established under section 1395d(d)(2) of this title;
 
-&emsp;(B) shall be for such a period or periods (which need not be the same periods described in section 1395d(d)(1) of this title) as the State may establish; and
+&emsp;(B) shall be for such a period or periods (which need not be the same periods describedin section 1395d(d)(1) of this title) as the State may establish; and
 
 &emsp;(C) may be revoked at any time without a showing of cause and may be modified so as to change the hospice program with respect to which a previous election was made.
 
@@ -374,7 +374,7 @@ The term “qualified disabled and working individual” means an individual—
 
 &emsp;(2) whose income (as determined under section 1382a of this title for purposes of the supplemental security income program) does not exceed 200 percent of the official poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved;
 
-&emsp;(3) whose resources (as determined under section 1382b of this title for purposes of thesupplemental security income program) do not exceed twice the maximum amount of resources that an individual or a couple (in the case of an individual with a spouse) may have and obtain benefits for supplemental security income benefits under subchapter XVI of this chapter; and
+&emsp;(3) whose resources (as determined under section 1382b of this title for purposes of the supplemental security income program) do not exceed twice the maximum amount of resources that an individual or a couple (in the case of an individual with a spouse) may have and obtain benefits for supplemental security income benefits under subchapter XVI of this chapter; and
 
 &emsp;(4) who is not otherwise eligible for medical assistance under this subchapter.
 
@@ -408,7 +408,7 @@ The term “qualified disabled and working individual” means an individual—
 
 &emsp;(F) complies with the other applicable provisions of section 1396u–2 of this title.
 
-(4) For purposes of this subsection, the term “primary care” includes all health care services customarily provided in accordance with State licensure and certification laws and regulations, and all laboratory services customarily provided by or through, a general practitioner, family medicine physician, internal medicine physician, obstetrician/gynecologist, or pediatrician.
+(4) For purposes of this subsection, the term “primary care” includes all health care services customarily provided in accordance with Statelicensure and certification laws and regulations, and all laboratory services customarily provided by or through, a general practitioner, family medicine physician, internal medicine physician, obstetrician/gynecologist, or pediatrician.
 
 #### (u) Conditions for State plans
 
@@ -458,7 +458,7 @@ The term “qualified disabled and working individual” means an individual—
 
 (3) A State may limit the eligibility of independent foster care adolescents under section 1396a(a)(10)(A)(ii)(XVII) of this title to those individuals with respect to whom foster care maintenance payments or independent living services were furnished under a program funded under part E of subchapter IV of this chapter before the date the individuals attained 18 years of age.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1905, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 351; amended Pub. L. 90–248, title II, §§230, 233, 241(f)(6), 248(e), title III, §302(a), Jan. 2, 1968, 81 Stat. 905, 917, 919, 929; Pub. L. 92–223, §4(a), Dec. 28, 1971, 85 Stat. 809; Pub. L. 92–603, title II, §§212(a), 247(b), 275(a), 278(a)(21)–(23), 280, 297(a), 299, 299B, 299E(b), 299L, Oct. 30, 1972, 86 Stat. 1384, 1425, 1452–1454, 1459–1462, 1464; Pub. L. 93–233, §§13(a)(13)–(88), 18(w), (x)(7)–(10), (y)(2), Dec. 31, 1973, 87 Stat. 963, 964, 972, 973; Pub. L. 94–437, title IV, §402(e), Sept. 30, 1976, 90 Stat. 1410; Pub. L. 95–210, §2(a), (b), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 95–292, §8(a), (b), June 13, 1978, 92 Stat. 316; Pub. L. 96–473, §6(k), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §965(a), Dec. 5, 1980, 94 Stat. 2651; Pub. L. 97–35, title XXI, §§2162(a)(2), 2172(b), Aug. 13, 1981, 95 Stat. 806, 808; Pub. L. 97–248, title I, §§136(c), 137(b)(17), (18), (f), Sept. 3, 1982, 96 Stat. 376, 379, 381; Pub. L. 98–369, div. B, title III, §§2335(f), 2340(b), 2361(b), 2371(a), 2373(b)(15)–(20), July 18, 1984, 98 Stat. 1091, 1093, 1104, 1110, 1112; Pub. L. 99–272, title IX, §§9501(a), 9505(a), 9511(a), Apr. 7, 1986, 100 Stat. 201, 208, 212; Pub. L. 99–509, title IX, §§9403(b), (d), (g)(3), 9404(b), 9408(c)(1), 9435(b)(2), Oct. 21, 1986, 100 Stat. 2053, 2054, 2056, 2061, 2070; Pub. L. 99–514, title XVIII, §1895(c)(3)(A), Oct. 22, 1986, 100 Stat. 2935; Pub. L. 100–203, title IV, §§4073(d), 4101(c)(1), 4103(a), 4105(a), 4114, 4118(p)(8), 4211(e), (f), (h)(6), Dec. 22, 1987, 101 Stat. 1330–119, 1330–141, 1330–146, 1330–147, 1330–152, 1330–159, 1330–204 to 1330–206; Pub. L. 100–360, title III, §301(a)(2)–(d), (g)(2), title IV, §411(h)(4)(E), (k)(4), (8), (14)(A), July 1, 1988, 102 Stat. 748–750, 787, 791, 794, 798; Pub. L. 100–485, title III, §303(b)(2), title IV, §401(d)(2), title VI, §608(d)(14)(A)–(G), (J), (f)(3), Oct. 13, 1988, 102 Stat. 2392, 2396, 2415, 2416, 2424; Pub. L. 100–647, title VIII, §8434(a), (b)(3), (4), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–234, title II, §201(b), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6402(c)(1), 6403(a), (c), (d)(2), 6404(a), (b), 6405(a), 6408(d)(2), (4)(A), (B), Dec. 19, 1989, 103 Stat. 2261–2265, 2268, 2269; Pub. L. 101–508, title IV, §§4402(d)(2), 4501(a), (c), (e)(1), 4601(a)(2), 4704(c), (d), (e)(1), 4705(a), 4711(a), 4712(a), 4713(b), 4717, 4719(a), 4721(a), 4722, 4755(a)(1)(A), Nov. 5, 1990, 104 Stat. 1388–163 to 1388–166, 1388–172, 1388–174, 1388–187, 1388–191, 1388–193, 1388–194, 1388–209; Pub. L. 103–66, title XIII, §§13601(a), 13603(e), 13605(a), 13606(a), 13631(f)(2), (g)(1), Aug. 10, 1993, 107 Stat. 612, 620, 621, 644, 645; Pub. L. 103–296, title I, §108(d)(2), (3), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–299, §4(b)(2), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4702(a), 4711(c)(1), 4712(d)(1), 4714(a)(2), 4725(b)(1), 4732(b), 4802(a)(1), 4911(a), Aug. 5, 1997, 111 Stat. 494, 508–510, 518, 520, 538, 570; Pub. L. 105–100, title I, §162(1), (2), Nov. 19, 1997, 111 Stat. 2188; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§605(a), 608(<i>l</i>), (m), (aa)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396 to 1501A–398; Pub. L. 106–169, title I, §121(a)(2), (c)(5), Dec. 14, 1999, 113 Stat. 1829, 1830; Pub. L. 106–170, title II, §201(a)(2)(B), (C), Dec. 17, 1999, 113 Stat. 1892; Pub. L. 106–354, §2(a)(4), (c), Oct. 24, 2000, 114 Stat. 1382, 1384; Pub. L. 106–554, §1(a)(6) \[title VII, §709(a), title VIII, §802(d)(1), (2), title IX, §911(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581, 2763A–584.)
+(Aug. 14, 1935, ch. 531, title XIX, §1905, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 351; amended Pub. L. 90–248, title II, §§230, 233, 241(f)(6), 248(e), title III, §302(a), Jan. 2, 1968, 81 Stat. 905, 917, 919, 929; Pub. L. 92–223, §4(a), Dec. 28, 1971, 85 Stat. 809; Pub. L. 92–603, title II, §§212(a), 247(b), 275(a), 278(a)(21)–(23), 280, 297(a), 299, 299B, 299E(b), 299L, Oct. 30, 1972, 86 Stat. 1384, 1425, 1452–1454, 1459–1462, 1464; Pub. L. 93–233, §§13(a)(13)–(88), 18(w), (x)(7)–(10), (y)(2), Dec. 31, 1973, 87 Stat. 963, 964, 972, 973; Pub. L. 94–437, title IV, §402(e), Sept. 30, 1976, 90 Stat. 1410; Pub. L. 95–210, §2(a), (b), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 95–292, §8(a), (b), June 13, 1978, 92 Stat. 316; Pub. L. 96–473, §6(k), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §965(a), Dec. 5, 1980, 94 Stat. 2651; Pub. L. 97–35, title XXI, §§2162(a)(2), 2172(b), Aug. 13, 1981, 95 Stat. 806, 808; Pub. L. 97–248, title I, §§136(c), 137(b)(17), (18), (f), Sept. 3, 1982, 96 Stat. 376, 379, 381; Pub. L. 98–369, div. B, title III, §§2335(f), 2340(b), 2361(b), 2371(a), 2373(b)(15)–(20), July 18, 1984, 98 Stat. 1091, 1093, 1104, 1110, 1112; Pub. L. 99–272, title IX, §§9501(a), 9505(a), 9511(a), Apr. 7, 1986, 100 Stat. 201, 208, 212; Pub. L. 99–509, title IX, §§9403(b), (d), (g)(3), 9404(b), 9408(c)(1), 9435(b)(2), Oct. 21, 1986, 100 Stat. 2053, 2054, 2056, 2061, 2070; Pub. L. 99–514, title XVIII, §1895(c)(3)(A), Oct. 22, 1986, 100 Stat. 2935; Pub. L. 100–203, title IV, §§4073(d), 4101(c)(1), 4103(a), 4105(a), 4114, 4118(p)(8), 4211(e), (f), (h)(6), Dec. 22, 1987, 101 Stat. 1330–119, 1330–141, 1330–146, 1330–147, 1330–152, 1330–159, 1330–204 to 1330–206; Pub. L. 100–360, title III, §301(a)(2)–(d), (g)(2), title IV, §411(h)(4)(E), (k)(4), (8), (14)(A), July 1, 1988, 102 Stat. 748–750, 787, 791, 794, 798; Pub. L. 100–485, title III, §303(b)(2), title IV, §401(d)(2),title VI, §608(d)(14)(A)–(G), (J), (f)(3), Oct. 13, 1988, 102 Stat. 2392, 2396, 2415, 2416, 2424; Pub. L. 100–647, title VIII, §8434(a), (b)(3), (4), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–234, title II, §201(b), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6402(c)(1), 6403(a), (c), (d)(2), 6404(a), (b), 6405(a), 6408(d)(2), (4)(A), (B), Dec. 19, 1989, 103 Stat. 2261–2265, 2268, 2269; Pub. L. 101–508, title IV, §§4402(d)(2), 4501(a), (c), (e)(1), 4601(a)(2), 4704(c), (d), (e)(1), 4705(a), 4711(a), 4712(a), 4713(b), 4717, 4719(a), 4721(a), 4722, 4755(a)(1)(A), Nov. 5, 1990, 104 Stat. 1388–163 to 1388–166, 1388–172, 1388–174, 1388–187, 1388–191, 1388–193, 1388–194, 1388–209; Pub. L. 103–66, title XIII, §§13601(a), 13603(e), 13605(a), 13606(a), 13631(f)(2), (g)(1), Aug. 10, 1993, 107 Stat. 612, 620, 621, 644, 645; Pub. L. 103–296, title I, §108(d)(2), (3), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–299, §4(b)(2), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4702(a), 4711(c)(1), 4712(d)(1), 4714(a)(2), 4725(b)(1), 4732(b), 4802(a)(1), 4911(a), Aug. 5, 1997, 111 Stat. 494, 508–510, 518, 520, 538, 570; Pub. L. 105–100, title I, §162(1), (2), Nov. 19, 1997, 111 Stat. 2188; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§605(a), 608(<i>l</i>), (m), (aa)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396 to 1501A–398; Pub. L. 106–169, title I, §121(a)(2), (c)(5), Dec. 14, 1999, 113 Stat. 1829, 1830; Pub. L. 106–170, title II, §201(a)(2)(B), (C), Dec. 17, 1999, 113 Stat. 1892; Pub. L. 106–354, §2(a)(4), (c), Oct. 24, 2000, 114 Stat. 1382, 1384; Pub. L. 106–554, §1(a)(6) \[title VII, §709(a), title VIII, §802(d)(1), (2), title IX, §911(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581, 2763A–584.)
 
 #### References in Text
 
@@ -478,7 +478,7 @@ Clause (ii), referred to in subsec. (<i>l</i>)(2)(B), was redesignated as cl. (i
 
 Section 607 of this title, referred to in subsec. (m)(1), was repealed and a new section 607 enacted by Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains a subsec. (b)(2)(B)(i).
 
-Section 212 of Public Law 93–66, referred to in subsec. (q)(1)(A), is section 212 of Pub. L. 93–66, title II, July 9,1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212 of Public Law 93–66, referred to in subsec. (q)(1)(A), is section 212 of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 
 #### Amendments
 
@@ -714,7 +714,7 @@ Subsec. (p)(2)(C). Pub. L. 100–360, §301(b)(2), formerly §301(b)(3), as renu
 
 Subsec. (p)(3). Pub. L. 100–360, §301(d)(1), as added by Pub. L. 100–485, §608(d)(14)(G)(ii), inserted “without regard to whether the costs incurred were for items and services for which medical assistance is otherwise available under the plan” after “qualified medicare beneficiary” in introductory provisions.
 
-Subsec. (p)(3)(A). Pub. L. 100–360, §301(d)(2), formerly §301(d)(1), as renumbered by Pub. L. 100–485, §608(d)(14)(G)(i), substituted “under subchapter XVIIIof this chapter (including under part B and, if applicable, under section 1395i–2 of this title)” for “under part B and (if applicable) under section 1395i–2 of this title”.
+Subsec. (p)(3)(A). Pub. L. 100–360, §301(d)(2), formerly §301(d)(1), as renumbered by Pub. L. 100–485, §608(d)(14)(G)(i), substituted “under subchapter XVIII of this chapter (including under part B and, if applicable, under section 1395i–2 of this title)” for “under part B and (if applicable) under section 1395i–2 of this title”.
 
 Subsec. (p)(3)(B). Pub. L. 100–360, §301(d)(3), formerly §301(d)(2), as renumbered by Pub. L. 100–485, §608(d)(14)(G)(i), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Deductibles and coinsurance described in section 1395e of this title.”
 
@@ -860,7 +860,7 @@ Subsecs. (j), (k). Pub. L. 93–233, §13(a)(18), added subsecs. (j) and (k).
 
 Subsec. (a)(4). Pub. L. 92–603, §§278(a)(21), 299E(b), substituted “skilled nursing facility” for “skilled nursing home” and added cl. (C).
 
-Subsec. (a)(5). Pub. L. 92–603, §§278(a)(22), 280, substituted “skilled nursing facility” for “skilled nursing home” and inserted “furnished by a physician (as defined in section 1395x(r)(1) of this title) after “physicians’ services”.
+Subsec. (a)(5). Pub. L. 92–603, §§278(a)(22), 280, substituted “skilled nursing facility” for “skilled nursinghome” and inserted “furnished by a physician (as defined in section 1395x(r)(1) of this title) after “physicians’ services”.
 
 Subsec. (a)(14). Pub. L. 92–603, §§278(a)(23), 297(a), substituted “skilled nursing facility” for “skilled nursing home” and inserted reference to intermediate care facility services.
 
@@ -972,7 +972,7 @@ Amendment by section 4601(a)(2) of Pub. L. 101–508 applicable, except as other
 
 Amendment by section 4704(c), (d), (e)(1) of Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4704(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
-Section 4705(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the amendments made by section 6408(c)(1) of the Omnibus BudgetReconciliation Act of 1989 \[Pub. L. 101–239, amending section 1396a of this title\].”
+Section 4705(b) of Pub. L. 101–508 provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the amendments made by section 6408(c)(1) of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, amending section 1396a of this title\].”
 
 Amendment by section 4711(a) of Pub. L. 101–508 applicable to home and community care furnished on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4711 of Pub. L. 101–508 have been promulgated by such date, see section 4711(e) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
@@ -1086,7 +1086,7 @@ Section 8(d)(1) of Pub. L. 95–292 provided that: “The amendments made by sub
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–210 applicable to medical assistance provided, under a State plan approved under subchapter XIX of this chapter, on and after the first day of the first calender quarter that begins more than six months after Dec. 13, 1977, with exception for plans requiring State legislation, see section 2(f) of Pub. L. 95–210, set out as a note under section 1395cc of this title.
+Amendment by Pub. L. 95–210 applicable to medical assistance provided, under a State plan approved under subchapter XIX of this chapter, on and after the first day of the first calendar quarter that begins more than six months after Dec. 13, 1977, with exception for plans requiring State legislation, see section 2(f) of Pub. L. 95–210, set out as a note under section 1395cc of this title.
 
 #### Effective Date of 1973 Amendment
 
@@ -1178,7 +1178,7 @@ Section 9514 of Pub. L. 99–272 provided that: “The Secretary of Health and H
 
 #### Life Safety Code Recognition
 
-Section 9515 of Pub. L. 99–272 provided that: “For purposes of section 1905(c) of the Social Security Act \[subsec. (c) of this section\], an intermediate care facilityfor the mentally retarded (as defined in section 1905(d) of such Act) which meets the requirements of the relevant sections of the 1985 edition of the Life Safety Code of the National Fire Protection Association shall be deemed to meet the fire safety requirements for intermediate care facilities for the mentally retarded until such time as the Secretary specifies a later edition of the Life Safety Code for purposes of such section, or the Secretary determines that more stringent standards are necessary to protect the safety of residents of such facilities.”
+Section 9515 of Pub. L. 99–272 provided that: “For purposes of section 1905(c) of the Social Security Act \[subsec. (c) of this section\], an intermediate care facility for the mentally retarded (as defined in section 1905(d) of such Act) which meets the requirements of the relevant sections of the 1985 edition of the Life Safety Code of the National Fire Protection Association shall be deemed to meet the fire safety requirements for intermediate care facilities for the mentally retarded until such time as the Secretary specifies a later edition of the Life Safety Code for purposes of such section, or the Secretary determines that more stringent standards are necessary to protect the safety of residents of such facilities.”
 
 #### Study of Federal Medical Assistance Percentage Formula and of Adjustments of Target Amounts for Federal Medicaid Expenditures; Report to Congress
 

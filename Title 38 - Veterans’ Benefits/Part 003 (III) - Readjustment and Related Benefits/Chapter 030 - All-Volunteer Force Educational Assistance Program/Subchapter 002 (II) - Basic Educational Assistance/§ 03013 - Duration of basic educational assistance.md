@@ -30,27 +30,27 @@
 
 &emsp;(B) be counted toward the aggregate period for which section 3695 of this title limits an individual's receipt of assistance.
 
-(2) Subject to paragraph (3), the payment of the educational assistance allowance referred to in paragraph (1) is the payment of such an allowance to an individual for pursuit of a course orcourses under this chapter if the Secretary finds that the individual—
+(2) Subject to paragraph (3), the payment of the educational assistance allowance referred to in paragraph (1) is the payment of such an allowance to an individual for pursuit of a course or courses under this chapter if the Secretary finds that the individual—
 
-&emsp;(A) in the case of a person not serving on active duty, had to discontinue such course pursuit as a result of being ordered, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b,<sup>1</sup> or 688 of title 10; or
+&emsp;(A) in the case of a person not serving on active duty, had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10; or
 
-&emsp;(B) in the case of a person serving on active duty, had to discontinue such course pursuit as a result of being ordered, in connection with such War, to a new duty location or assignment or to perform an increased amount of work; and
+&emsp;(B) in the case of a person serving on active duty, had to discontinue such course pursuit as a result of being ordered to a new duty location or assignment or to perform an increased amount of work; and
 
 &emsp;(C) failed to receive credit or lost training time toward completion of the individual's approved education, professional, or vocational objective as a result of having to discontinue, as described in subparagraph (A) or (B), his or her course pursuit.
 
 (3) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(C) of this subsection.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1413; amended Pub. L. 99–576, title III, §321(3), Oct. 28, 1986, 100 Stat. 3277; Pub. L. 100–689, title I, §§102(b)(2), 103(b)(2), 111(a)(4), Nov. 18, 1988, 102 Stat. 4163, 4165, 4171; Pub. L. 101–237, title IV, §423(a)(2), Dec. 18, 1989, 103 Stat. 2091; Pub. L. 101–510, div. A, title V, §561(b)(1), Nov. 5, 1990, 104 Stat. 1573; renumbered §3013 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(a), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–484, div. D, title XLIV, §4404(b)(2), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 104–275, title I, §106(b)(2), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–419, title I, §103(c), Nov. 1, 2000, 114 Stat. 1826.)
-
-#### References in Text
-
-Sections 672, 673, and 673b of title 10, referred to in subsec. (f)(2)(A), were renumbered sections 12301, 12302, and 12304, respectively, of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992. A new section 672 of Title 10 was enacted by section 1662(e)(4) of Pub. L. 103–337.
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2557, §1413; amended Pub. L. 99–576, title III, §321(3), Oct. 28, 1986, 100 Stat. 3277; Pub. L. 100–689, title I, §§102(b)(2), 103(b)(2), 111(a)(4), Nov. 18, 1988, 102 Stat. 4163, 4165, 4171; Pub. L. 101–237, title IV, §423(a)(2), Dec. 18, 1989, 103 Stat. 2091; Pub. L. 101–510, div. A, title V, §561(b)(1), Nov. 5, 1990, 104 Stat. 1573; renumbered §3013 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(a), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–484, div. D, title XLIV, §4404(b)(2), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 104–275, title I, §106(b)(2), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–419, title I, §103(c), Nov. 1, 2000, 114 Stat. 1826; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979.)
 
 #### Prior Provisions
 
 Prior section 3013 was renumbered section 5113 of this title.
 
 #### Amendments
+
+2001—Subsec. (f)(2)(A). Pub. L. 107–103, §103(a), substituted “to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10;” for “, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b, or 688 of title 10;”.
+
+Subsec. (f)(2)(B). Pub. L. 107–103, §103(d), struck out “, in connection with such War,” after “being ordered”.
 
 2000—Subsecs. (a)(2), (b)(1). Pub. L. 106–419 substituted “obligated period of active duty on which such entitlement is based” for “individual's initial obligated period of active duty”.
 
@@ -96,6 +96,10 @@ Subsec. (b)(1). Pub. L. 99–576, §321(3)(B)(i), inserted “after the date of 
 
 Subsec. (b)(2). Pub. L. 99–576, §321(3)(B)(ii), inserted “after the applicable date specified in clause (1) of this subsection” after “Selected Reserve”.
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–103, title I, §103(e), Dec. 27, 2001, 115 Stat. 980, provided that: “The amendments made by this section \[amending this section and sections 3103, 3105, 3231, 3511, and 3512 of this title\] shall take effect as of September 11, 2001.”
+
 #### Effective Date of 1988 Amendment
 
 Amendment by section 102(b)(2) of Pub. L. 100–689 effective July 1, 1985, with respect to individuals discharged or released for medical condition which preexisted service on active duty or in Selected Reserve and which Administrator determines is not service connected, and effective Oct. 1, 1987, with respect to individuals involuntarily discharged or released for convenience of Government as a result of reduction in force, see section 102(c) of Pub. L. 100–689, set out as a note under section 3011 of this title.
@@ -103,6 +107,4 @@ Amendment by section 102(b)(2) of Pub. L. 100–689 effective July 1, 1985, with
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3031 of this title; title 42 section 12603.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out sections 12337 and 12338 of this title such sums as may be necessary for each of the fiscal years 1995 through 1998.
+&emsp;There are authorized to be appropriated to carry out sections 12337 and 12338 of this titlesuch sums as may be necessary for each of the fiscal years 1995 through 1998.
 
 #### (2) Availability of appropriation
 
@@ -50,7 +50,7 @@ A State shall not use in excess of 10 percent of a grant awarded under section 1
 
 #### (f) Grants for Indians
 
-The Commissioner shall use 1 percent of the amount appropriated under this section for eachfiscal year to make allotments to Indian tribes and tribal organizations (such terms having the same meaning given to such terms in section 450b(b) and (c) <sup>1</sup> of title 25) that submit to the Commissioner a plan that meets criteria consistent with the provisions of this part and that comply with other requirements established by the Commissioner.
+The Commissioner shall use 1 percent of the amount appropriated under this section for each fiscal year to make allotments to Indian tribes and tribal organizations (such terms having the same meaning given to such terms in section 450b(b) and (c) <sup>1</sup> of title 25) that submit to the Commissioner a plan that meets criteria consistent with the provisions of this part and that comply with other requirements established by the Commissioner.
 
 #### (g) Limitation
 

@@ -82,7 +82,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (1) In general
 
-&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has failed to maintain adequate accounting records, to adequately service loans guaranteed under thissection, to exercise proper credit or underwriting judgment, or has engaged in practices otherwise detrimental to the interest of a borrower or the United States, the Secretary may—
+&emsp;If the Secretary determines that any lender or holder of a guarantee certificate under subsection (c) of this section has failed to maintain adequate accounting records, to adequately service loans guaranteed under this section, to exercise proper credit or underwriting judgment, or has engaged in practices otherwise detrimental to the interest of a borrower or the United States, the Secretary may—
 
 &emsp;&emsp;(A) refuse, either temporarily or permanently, to guarantee any further loans made by such lender or holder;
 
@@ -224,7 +224,7 @@ The Secretary shall, by regulation, establish housing safety and quality standar
 
 #### (k) Environmental review
 
-For purposes of environmental,<sup>3</sup> review, decisionmaking, and action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 etseq.) and any other law that furthers the purposes of that Act, a loan guarantee under this section shall—
+For purposes of environmental,<sup>3</sup> review, decisionmaking, and action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and any other law that furthers the purposes of that Act, a loan guarantee under this section shall—
 
 &emsp;(1) be treated as a grant under the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq.); and
 
@@ -276,9 +276,9 @@ The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934
 
 The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act tothe Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (<i>l</i>)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -334,7 +334,7 @@ Subsec. (k)(8). Pub. L. 104–330, §701(h)(3), added par. (8) and struck out fo
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by this section \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by thissection \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Section Referred to in Other Sections
 

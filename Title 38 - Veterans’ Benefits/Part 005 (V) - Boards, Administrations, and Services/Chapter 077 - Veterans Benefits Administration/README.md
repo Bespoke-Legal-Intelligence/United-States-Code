@@ -19,6 +19,7 @@
 | [7724\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007724%20-%20Outstationing%20of%20counseling%20and%20outreach%20personnel.md) | Outstationing of counseling and outreach personnel. |
 | [7725\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007725%20-%20Use%20of%20other%20agencies.md) | Use of other agencies. |
 | [7726\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007726%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| [7727\.](Subchapter%20002%20%28II%29%20-%20Veterans%20Outreach%20Services%20Program/%C2%A7%2007727%20-%20Outreach%20for%20eligible%20dependents.md) | Outreach for eligible dependents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,11 +36,13 @@
 
 #### Amendments
 
+2001—Pub. L. 107–14, §6(b)(2), June 5, 2001, 115 Stat. 31, added item 7727.
+
 1999—Pub. L. 106–117, title VIII, §801(a)(2), Nov. 30, 1999, 113 Stat. 1586, added heading for subchapter III and items 7731 to 7734.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 317, 318 of this title.
+This chapter is referred to in sections 317, 318, 3672 of this title.
 
 
 ---

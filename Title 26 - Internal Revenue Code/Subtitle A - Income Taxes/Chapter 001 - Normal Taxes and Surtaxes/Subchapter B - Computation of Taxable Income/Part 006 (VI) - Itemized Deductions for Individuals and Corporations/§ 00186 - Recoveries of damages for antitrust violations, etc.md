@@ -56,7 +56,7 @@ For purposes of this section, the term “compensatory amount” means the amoun
 
 #### (e) Effect on net operating loss carryovers
 
-If for the taxable year in which a compensatory amount is received or accrued any portion of a net operating loss carryover to such year is attributable to the compensable injury for which such amount is received or accrued, such portion of such net operating loss carryover shall be reduced by an amount equal to—
+If for the taxable year in which a compensatory amount is received or accrued any portion of a net operating loss carryover to such year is attributable to the compensable injury for which such amount is received or accrued,such portion of such net operating loss carryover shall be reduced by an amount equal to—
 
 &emsp;(1) the deduction allowed under subsection (a) with respect to such compensatory amount, reduced by
 

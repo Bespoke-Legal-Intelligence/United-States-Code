@@ -74,7 +74,7 @@ Subsec. (a)(4). Pub. L. 94–530 substituted “6427(g)” for “6427(f)”.
 
 Subsec. (b). Pub. L. 94–530, which directed the amendment of subsec. (c) by substituting “6427(g)” for “6427(f)”, was executed to subsec. (b) to reflect the probable intent of Congress and the redesignation of subsec. (c) as (b) by Pub. L. 94–455.
 
-Pub. L. 94–455, §1901(a)(3), redesignated subsec. (c) as (b) and substituted “section 6421(i), 6424(f), or 6427(f), is payable” for “section 6421(i), 6424(g) or 6427(f) is payable”. Former subsec. (b), relating to determination oftaxpayers first taxable year with respect to tax credit for certain uses of gasoline and lubricating oil, was struck out.
+Pub. L. 94–455, §1901(a)(3), redesignated subsec. (c) as (b) and substituted “section 6421(i), 6424(f), or 6427(f), is payable” for “section 6421(i), 6424(g) or 6427(f) is payable”. Former subsec. (b), relating to determination of taxpayers first taxable year with respect to tax credit for certain uses of gasoline and lubricating oil, was struck out.
 
 Subsec. (c). Pub. L. 94–455, §1901(a)(3), redesignated subsec. (c) as (b).
 
@@ -138,7 +138,7 @@ Section applicable to taxable years beginning on or after July 1, 1965, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 32, 774, 874, 882, 995, 1366, 1374, 1375, 1503, 4682, 6211, 6213, 6420, 6421, 6427, 9502, 9503, 9508 of this title.
+This section is referred to in sections 774, 874, 882, 995, 1366, 1374, 1375, 1503, 4682, 6211, 6213, 6420, 6421, 6427, 9502, 9503, 9508 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

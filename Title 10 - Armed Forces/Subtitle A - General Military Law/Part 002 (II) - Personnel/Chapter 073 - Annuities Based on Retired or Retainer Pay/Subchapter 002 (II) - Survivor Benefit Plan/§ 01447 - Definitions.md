@@ -90,7 +90,7 @@ In general.—The term “dependent child” means a person who—
 
 &emsp;&emsp;(B)
 
-Special rules for college students.—For the purpose of subparagraph (A), a child whose twenty-second birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, is considered to have become 22 years of age on the first day of July after that birthday. A child who is a student is considered not to have ceased to be a student during an interim between school years if the interim is not more than 150 days and if the child shows to the satisfaction of the Secretary of Defense that the child has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester (or other period into which the school year is divided) immediately after the interim.
+Special rules for college students.—For the purpose of subparagraph\(A), a child whose twenty-second birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, is considered to have become 22 years of age on the first day of July after that birthday. A child who is a student is considered not to have ceased to be a student during an interim between school years if the interim is not more than 150 days and if the child shows to the satisfaction of the Secretary of Defense that the child has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester (or other period into which the school year is divided) immediately after the interim.
 
 &emsp;&emsp;(C)
 

@@ -20,7 +20,7 @@ Section was formerly classified to section 1203 of this title, and prior thereto
 
 #### Amendments
 
-1998—Pub. L. 105–277 inserted after first sentence “At any post, port, or place where there is no consular officer, the Secretary of State may authorize any other officer or employee of the United States Government who is a United States citizen serving overseas, including any contract employee of the United States Government, to perform such acts, and any such contractor so authorized shall not be considered to be a consular officer.”
+1998—Pub. L. 105–277 inserted after first sentence “At any post, port, or place where there is no consular officer, the Secretary of State may authorize any other officer or employee of the United States Government who is a United States citizen serving overseas, including any contract employee of the United States Government, to perform such acts, and any such contractor soauthorized shall not be considered to be a consular officer.”
 
 1994—Pub. L. 103–415, which directed amendment of section 24 of the Act of August 18, 1856 (11 Stat. 61, 22 U.S.C. 4221) by inserting at end “Pursuant to such regulations as the Secretary of State may prescribe, the Secretary may designate any other employee of the Department of State who is a citizen of the United States to perform any notarial function authorized to be performed by a consular officer of the United States under this Act.”, was executed to this section, which is section 1750 of the Revised Statutes, to reflect the probable intent of Congress. Section 24 of the Act of Aug. 18, 1856, was restated in section 1750 of the Revised Statutes and repealed by section 5596 of the Revised Statutes.
 

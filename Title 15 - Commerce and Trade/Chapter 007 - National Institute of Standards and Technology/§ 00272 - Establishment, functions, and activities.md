@@ -2,7 +2,7 @@
 
 #### (a) Establishment of National Institute of Standards and Technology
 
-There is established within the Department of Commerce a science, engineering, technology, and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
+There is established within the Department of Commerce a science, engineering, technology, and measurement laboratory to be known as theNational Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
 
 #### (b) Functions of Secretary and Institute
 
@@ -10,7 +10,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the “Secre
 
 &emsp;(1) to assist industry in the development of technology and procedures needed to improve quality, to modernize manufacturing processes, to ensure product reliability, manufacturability, functionality, and cost-effectiveness, and to facilitate the more rapid commercialization, especially by small- and medium-sized companies throughout the United States, of products based on new scientific discoveries in fields such as automation, electronics, advanced materials, biotechnology, and optical technologies;
 
-&emsp;(2) to develop, maintain, and retain custody of the national standards of measurement, and provide the means and methods for makingmeasurements consistent with those standards;
+&emsp;(2) to develop, maintain, and retain custody of the national standards of measurement, and provide the means and methods for making measurements consistent with those standards;
 
 &emsp;(3) to compare standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government and to coordinate the use by Federal agencies of private sector standards, emphasizing where possible the use of standards developed by private, consensus organizations;
 
@@ -140,7 +140,7 @@ In general.—Not later than 1 year after the date of the enactment of this Act 
 
 &emsp;&emsp;“(B)
 
-Contents of report.—The report prepared by the Director under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
+Contents of report.—The report prepared by the Director under this paragraph shall describeany donations of educationally useful Federal equipment to schools made during the period covered by the report.”
 
 #### Transmittal of Plan for Standards Conformity to Congress
 
@@ -148,7 +148,7 @@ Section 12(c) of Pub. L. 104–113 provided that: “The National Institute of S
 
 #### Utilization of Consensus Technical Standards by Federal Agencies
 
-Section 12(d) of Pub. L. 104–113 provided that:
+Pub. L. 104–113, §12(d), Mar. 7, 1996, 110 Stat. 783, as amended by Pub. L. 107–107, div. A, title XI, §1115, Dec. 28, 2001, 115 Stat. 1241, provided that:
 
 “(1)
 
@@ -160,9 +160,13 @@ Consultation; participation.—In carrying out paragraph (1) of this subsection,
 
 “(3)
 
-Exception.—If compliance with paragraph (1) of this subsection is inconsistent with applicable law orotherwise impractical, a Federal agency or department may elect to use technical standards that are not developed or adopted by voluntary consensus standards bodies if the head of each such agency or department transmits to the Office of Management and Budget an explanation of the reasons for using such standards. Each year, beginning with fiscal year 1997, the Office of Management and Budget shall transmit to Congress and its committees a report summarizing all explanations received in the preceding year under this paragraph.
+Exception.—If compliance with paragraph (1) of this subsection is inconsistent with applicable law or otherwise impractical, a Federal agency or department may elect to use technical standards that are not developed or adopted by voluntary consensus standards bodies if the head of each such agency or department transmits to the Office of Management and Budget an explanation of the reasons for using such standards. Each year, beginning with fiscal year 1997, the Office of Management and Budget shall transmit to Congress and its committees a report summarizing all explanations received in the preceding year under this paragraph.
 
 “(4)
+
+Expenses of government personnel.—Section 5946 of title 5, United States Code, shall not apply with respect to any activity of an employee of a Federal agency or department that is determined by the head of that agency or department as being an activity undertaken in carrying out this subsection.
+
+“(5)
 
 Definition of technical standards.—As used in this subsection, the term ‘technical standards’ means performance-based or design-specific technical specifications and related management systems practices.”
 

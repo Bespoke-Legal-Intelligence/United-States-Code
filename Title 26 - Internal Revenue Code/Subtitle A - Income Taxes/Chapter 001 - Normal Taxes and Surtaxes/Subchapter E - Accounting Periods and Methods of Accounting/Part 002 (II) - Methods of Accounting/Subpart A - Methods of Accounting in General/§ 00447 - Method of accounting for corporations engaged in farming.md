@@ -148,7 +148,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (ii) Effect of election
 
-&emsp;&emsp;&emsp;For purposes of paragraphs (1) and (2) of section 263A(e), any election under this subparagraph shall be treated as if it were an election under subsection (d)(3) of section 263A.
+&emsp;&emsp;&emsp;For purposes of paragraphs (1) and (2) of section 263A(e), any election under thissubparagraph shall be treated as if it were an election under subsection (d)(3) of section 263A.
 
 #### (iii) Election
 
@@ -162,7 +162,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 &emsp;&emsp;(A) members of 2 families (within the meaning of subsection (e)(1)) have owned (directly or through the application of subsection (e)) at least 65 percent of the total combined voting power of all classes of stock of such corporation entitled to vote, and at least 65 percent of the total number of shares of all other classes of stock of such corporation; or
 
-&emsp;&emsp;(B)(i) members of 3 families (within the meaning of subsection (e)(1)) have owned (directly or through the application of subsection (e)) at least 50 percent of the totalcombined voting power of all classes of stock of such corporation entitled to vote, and at least 50 percent of the total number of shares of all other classes of stock of such corporation; and
+&emsp;&emsp;(B)(i) members of 3 families (within the meaning of subsection (e)(1)) have owned (directly or through the application of subsection (e)) at least 50 percent of the total combined voting power of all classes of stock of such corporation entitled to vote, and at least 50 percent of the total number of shares of all other classes of stock of such corporation; and
 
 &emsp;&emsp;(ii) substantially all of the stock of such corporation which is not so owned (directly or through the application of subsection (e)) by members of such 3 families is owned directly—
 
@@ -242,7 +242,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (iv) <sup>2</sup> Inclusion in income
 
-&emsp;&emsp;&emsp;Any reduction in a suspense account under this paragraph shall be included ingross income for the taxable year of the reduction.
+&emsp;&emsp;&emsp;Any reduction in a suspense account under this paragraph shall be included in gross income for the taxable year of the reduction.
 
 #### (C) Applicable portion
 
@@ -452,7 +452,7 @@ Certain corporate reorganizations.—For purposes of this paragraph, if a corpor
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 263A, 354 of this title.
+This section is referred to in sections 263A, 354, 4972 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -46,7 +46,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(A) means a product that, when sold at retail, includes a regulated battery as a primary energy supply, and that is primarily intended for personal or household use; but
 
-&emsp;&emsp;(B) does not include a product that only uses a battery solely as a source of backup power for memory or program instruction storage, timekeeping, or any similar purpose that requires uninterrupted electrical power in order to function if the primary energy supply fails or fluctuates momentarily.
+&emsp;&emsp;(B) does not include a product that only uses a battery solely as a source of backuppower for memory or program instruction storage, timekeeping, or any similar purpose that requires uninterrupted electrical power in order to function if the primary energy supply fails or fluctuates momentarily.
 
 #### (7) Regulated battery
 

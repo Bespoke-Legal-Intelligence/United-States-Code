@@ -36,7 +36,7 @@ In subsec. (a)(1), “section 6503(a) of title 31” substituted for “section 
 
 #### Amendments
 
-1998—Subsec. (b)(2)(B). Pub. L. 105–285 struck out “and not transferred pursuant to section 8623(f) of this title” after “such prior fiscal year” in first sentence and “but not transferred by the State” after “the amount payable to a State” in second sentence.
+1998—Subsec. (b)(2)(B). Pub. L. 105–285 struck out “and not transferred pursuant to section 8623(f) of thistitle” after “such prior fiscal year” in first sentence and “but not transferred by the State” after “the amount payable to a State” in second sentence.
 
 1994—Subsec. (a). Pub. L. 103–252 designated existing provisions as par. (1) and added par. (2).
 

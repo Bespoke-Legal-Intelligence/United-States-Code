@@ -2,7 +2,7 @@
 
 #### (a) Sugarcane
 
-The Secretary shall make loans available to processors of domestically grown sugarcane at arate equal to 18 cents per pound for raw cane sugar.
+The Secretary shall make loans available to processors of domestically grown sugarcane at a rate equal to 18 cents per pound for raw cane sugar.
 
 #### (b) Sugar beets
 

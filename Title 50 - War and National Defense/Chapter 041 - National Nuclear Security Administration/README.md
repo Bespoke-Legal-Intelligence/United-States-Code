@@ -14,16 +14,13 @@
 | (c) | Procurement authority. |
 | (d) | Policy authority. |
 | (e) | Membership on Joint Nuclear Weapons Council. |
-| (e) | Reorganization authority. |
-| [2403\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002403%20-%20Status%20of%20Administration%20and%20contractor%20personnel%20within%20Department%20of%20Energy.md) | Status of Administration and contractor personnel within Department of Energy. |
-| (a) | Status of Administration personnel. |
-| (b) | Status of contractor personnel. |
-| (c) | Construction of section. |
-| (d) | Prohibition on dual office holding. |
+| (f) | Reorganization authority. |
+| [2403\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002403%20-%20Principal%20Deputy%20Administrator%20for%20Nuclear%20Security.md) | Principal Deputy Administrator for Nuclear Security. |
+| (a) | In general. |
+| (b) | Duties. |
 | [2404\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002404%20-%20Deputy%20Administrator%20for%20Defense%20Programs.md) | Deputy Administrator for Defense Programs. |
 | (a) | In general. |
 | (b) | Duties. |
-| (c) | Relationship to laboratories and facilities. |
 | [2405\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002405%20-%20Deputy%20Administrator%20for%20Defense%20Nuclear%20Nonproliferation.md) | Deputy Administrator for Defense Nuclear Nonproliferation. |
 | (a) | In general. |
 | (b) | Duties. |
@@ -37,6 +34,11 @@
 | (a) | In general. |
 | (b) | Responsibilities. |
 | [2409\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002409%20-%20Scope%20of%20authority%20of%20Secretary%20of%20Energy%20to%20modify%20organization%20of%20Administration.md) | Scope of authority of Secretary of Energy to modify organization of Administration. |
+| [2410\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002410%20-%20Status%20of%20Administration%20and%20contractor%20personnel%20within%20Department%20of%20Energy.md) | Status of Administration and contractor personnel within Department of Energy. |
+| (a) | Status of Administration personnel. |
+| (b) | Status of contractor personnel. |
+| (c) | Construction of section. |
+| (d) | Prohibition on dual office holding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -80,7 +82,7 @@
 | (c) | Treatment of employees. |
 | (d) | Definitions. |
 | (e) | Limitation and termination of authority. |
-| [2443\.](Subchapter%20003%20%28III%29%20-%20Matters%20Relating%20to%20Personnel/%C2%A7%2002443%20-%20Prohibition%20on%20pay%20of%20personnel%20engaged%20in%20concurrent%20service%20or%20duties%20inside%20and%20outside%20Administration.md) | Prohibition on pay of personnel engaged in concurrent service or duties inside and outside Administration. |
+| [2443\.](Subchapter%20003%20%28III%29%20-%20Matters%20Relating%20to%20Personnel/%C2%A7%2002443%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73143%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201371.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

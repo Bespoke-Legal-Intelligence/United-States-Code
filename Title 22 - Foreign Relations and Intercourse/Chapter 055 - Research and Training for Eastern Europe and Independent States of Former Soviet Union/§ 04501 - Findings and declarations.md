@@ -28,7 +28,7 @@ The Congress finds and declares that—
 
 #### Short Title
 
-Section 801 of title VIII of Pub. L. 98–164, as amended by Pub. L. 103–199, title III, §302(2), Dec. 17, 1993, 107 Stat. 2322, provided that: “This title \[enacting this chapter\] may be cited as the ‘Research and Training for Eastern Europe and the Independent States of the Former Soviet Union Act of 1983’.”
+Section 801 of title VIII of Pub. L. 98–164, as amended by Pub. L. 103–199, title III, §302(2), Dec. 17, 1993, 107 Stat. 2322, provided that: “This title \[enacting thischapter\] may be cited as the ‘Research and Training for Eastern Europe and the Independent States of the Former Soviet Union Act of 1983’.”
 
 #### Definitions
 

@@ -8,7 +8,7 @@
 
 #### (2) Single parents
 
-&emsp;No individual who is a single parent may be denied eligibility under any Federal program to assist first-time homebuyers on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse.
+&emsp;No individual who is a single parent may be denied eligibility under any Federal programto assist first-time homebuyers on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse.
 
 #### (b) Definitions
 
@@ -46,5 +46,5 @@ This section shall apply to any Federal program to assist first-time homebuyers,
 
 #### Codification
 
-Section was enacted as part of title IX of the Cranston-Gonzalez National Affordable Housing Act, andnot as part of title I of such Act which comprises this subchapter.
+Section was enacted as part of title IX of the Cranston-Gonzalez National Affordable Housing Act, and not as part of title I of such Act which comprises this subchapter.
 

@@ -54,7 +54,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), no amount may be appropriated to the HighwayTrust Fund on and after the date of any expenditure from the Highway Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
+&emsp;&emsp;Except as provided in subparagraph (B), no amount may be appropriated to the Highway Trust Fund on and after the date of any expenditure from the Highway Trust Fund which is not permitted by this section. The determination of whether an expenditure is so permitted shall be made without regard to—
 
 &emsp;&emsp;&emsp;(i) any provision of law which is not contained or referenced in this title or in a revenue Act, and
 
@@ -214,7 +214,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (4) Apportionment of amounts previously withheld from apportionment
 
-&emsp;If, after funds have been withheld from apportionment under paragraph (3)(B), the Secretary of the Treasury determines that theamount described in paragraph (1)(A) does not exceed the amount described in paragraph (1)(B) or that the excess described in paragraph (1)(B) is less than the amount previously determined, he shall so advise the Secretary of Transportation. The Secretary of Transportation shall apportion to the States such portion of the funds so withheld from apportionment as the Secretary of the Treasury has advised him may be so apportioned without causing the amount described in paragraph (1)(A) to exceed the amount described in paragraph (1)(B). Any funds apportioned pursuant to the preceding sentence shall remain available for the period for which they would be available if such apportionment took effect with the fiscal year in which they are apportioned pursuant to the preceding sentence.
+&emsp;If, after funds have been withheld from apportionment under paragraph (3)(B), the Secretary of the Treasury determines that the amount described in paragraph (1)(A) does not exceed the amount described in paragraph (1)(B) or that the excess described in paragraph (1)(B) is less than the amount previously determined, he shall so advise the Secretary of Transportation. The Secretary of Transportation shall apportion to the States such portion of the funds so withheld from apportionment as the Secretary of the Treasury has advised him may be so apportioned without causing the amount described in paragraph (1)(A) to exceed the amount described in paragraph (1)(B). Any funds apportioned pursuant to the preceding sentence shall remain available for the period for which they would be available if such apportionment took effect with the fiscal year in which they are apportioned pursuant to the preceding sentence.
 
 #### (5) Definitions
 
@@ -348,7 +348,7 @@ Subsec. (b)(6). Pub. L. 105–178, §9004(c), added par. (6).
 
 Subsec. (c)(1). Pub. L. 105–178, §9002(f)(4), as added by Pub. L. 105–206, §9015(a), substituted “the date of the enactment of the TEA 21 Restoration Act” for “the date of enactment of the Transportation Equity Act for the 21st Century” in concluding provisions.
 
-Pub. L. 105–178, §9002(d)(1), substituted “2003” for “1998” in introductory provisions, added subpar. (E), and substituted in concluding provisions “In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of enactment of the Transportation Equity Act for the 21st Century.” for “In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of this sentence.”
+Pub. L. 105–178, §9002(d)(1), substituted “2003” for “1998” in introductory provisions, added subpar. (E), and substituted in concluding provisions “In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied asin effect on the date of enactment of the Transportation Equity Act for the 21st Century.” for “In determining the authorizations under the Acts referred to in the preceding subparagraphs, such Acts shall be applied as in effect on the date of the enactment of this sentence.”
 
 Subsec. (c)(2)(A)(i). Pub. L. 105–178, §9002(c)(1), substituted “2006” for “2000” in introductory provisions and “2005” for “1999” in concluding provisions.
 
@@ -526,7 +526,7 @@ Subsec. (c)(4)(A). Pub. L. 98–369, §1016(b)(1)(C), substituted “Boat Safety
 
 Subsec. (c)(4)(A)(i). Pub. L. 98–369, §1016(b)(1)(A), substituted “the Boat Safety Account in the Aquatic Resources Trust Fund” for “the National Recreational Boating Safety and Facilities Improvement Fund established by section 202 of the Recreational Boating Fund Act”.
 
-Subsec. (c)(4)(A)(ii)(II). Pub. L. 98–369, §1016(b)(1)(B), substituted “the amount in the Boat Safety Account”for “the amount in the National Recreational Boating and Facilities Improvement Fund”.
+Subsec. (c)(4)(A)(ii)(II). Pub. L. 98–369, §1016(b)(1)(B), substituted “the amount in the Boat Safety Account” for “the amount in the National Recreational Boating and Facilities Improvement Fund”.
 
 Subsec. (c)(4)(B) to (D). Pub. L. 98–369, §1016(b)(2), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which provided for the transfer of excess funds to the Land and Water Conservation Fund.
 
@@ -604,7 +604,7 @@ Amendment by section 474(r)(43) of Pub. L. 98–369 applicable to taxable years 
 
 Amendment by section 911(d)(1) of Pub. L. 98–369 effective Aug. 1, 1984, see section 911(e) of Pub. L. 98–369, set out as a note under section 6427 of this title.
 
-Amendment by section 1016(b) of Pub. L. 98–369 effective Oct. 1, 1984, see section 1016(e) of Pub. L. 98–369, set out as an Effective Date note under section 9504 of this title.
+Amendment by section 1016(b) of Pub. L. 98–369 effective Oct. 1, 1984, see section 1016(e) of Pub. L. 98–369, setout as an Effective Date note under section 9504 of this title.
 
 #### Effective Date; Savings Provision
 

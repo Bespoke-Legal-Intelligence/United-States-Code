@@ -2,7 +2,7 @@
 
 (a)
 
-Selection Criteria and Procedures.—Selection for membership in an Acquisition Corps shall be made in accordance with criteria and procedures established by the Secretary of Defense. Such criteria and procedures shall be in effect on and after October 1, 1993.
+Selection Criteria and Procedures.—Selection for membership in an Acquisition Corps shall be made in accordance with criteria and procedures established by the Secretary of Defense.
 
 (b)
 
@@ -36,7 +36,7 @@ Eligibility Criteria.—Except as provided in subsections (c) and (d), only pers
 
 Exceptions.—(1) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
 
-(2) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management. The Secretary of Defense shall submit examinations to be given to civilian employees under this paragraph to the Director of the Office of Personnel Management for approval. If the Director does not disapprove an examination within 30 days after the date on which the Director receives the examination, the examination is deemed to be approved by the Director.
+(2) The requirements of subsections (b)(2)(A) and (b)(2)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management,marketing, quantitative methods, and organization and management. The Secretary of Defense shall submit examinations to be given to civilian employees under this paragraph to the Director of the Office of Personnel Management for approval. If the Director does not disapprove an examination within 30 days after the date on which the Director receives the examination, the examination is deemed to be approved by the Director.
 
 (3) Paragraph (1) of subsection (b) shall not apply to an employee who—
 
@@ -56,13 +56,17 @@ Mobility Statements.—(1) The Secretary of Defense is authorized to require civ
 
 (2) The Secretary of Defense shall identify which categories of civilians in an Acquisition Corps, as a condition of serving in the Corps, shall be required to sign mobility statements. The Secretary shall make available published information on such identification of categories.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L.102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, §811, Oct. 17, 1998, 112 Stat. 2086.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1644; amended Pub. L. 102–484, div. A, title VIII, §812(e)(1), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–89, §3(b)(3)(B), Sept. 30, 1993, 107 Stat. 982; Pub. L. 105–261, div. A, title VIII, §811, Oct. 17, 1998, 112 Stat. 2086; Pub. L. 107–107, div. A, title VIII, §824(b), title X, §1048(e)(4), Dec. 28, 2001, 115 Stat. 1185, 1227.)
 
 #### References in Text
 
 The General Schedule, referred to in subsecs. (b)(1)(A) and (c)(3)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §1048(e)(4), struck out at end “Such criteria and procedures shall be in effect on and after October 1, 1993.”
+
+Subsec. (c)(2). Pub. L. 107–107, §824(b), inserted a comma after “business”.
 
 1998—Subsec. (c)(3). Pub. L. 105–261 added par. (3).
 
@@ -80,5 +84,5 @@ Section 812(e)(2) of Pub. L. 102–484 provided that: “The Secretary of Defens
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1731, 1762 of this title.
+This section is referred to in section 1731 of this title.
 

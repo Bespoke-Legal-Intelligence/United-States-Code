@@ -16,7 +16,7 @@
 
 (c) On full and final discharge of the indebtedness that is the basis for a claim recorded under subsection (b) of this section, on request of the Secretary or owner, the person having the claim shall provide the Secretary with an acknowledged certificate of discharge of the indebtedness. The Secretary shall record the certificate.
 
-(d) A person claiming a lien on a vessel covered by a preferred mortgage under section 31322(d) of this title must record and discharge the lien as provided by the law of the State in which the vessel is titled.
+(d) A person claiming a lien on a vessel covered by a preferred mortgage under section31322(d) of this title must record and discharge the lien as provided by the law of the State in which the vessel is titled.
 
 (Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4748.)
 

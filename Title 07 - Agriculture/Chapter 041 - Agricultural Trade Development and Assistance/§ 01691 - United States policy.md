@@ -26,7 +26,7 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 #### Effective Date of 1990 Amendment
 
-Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
+Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
 
 #### Effective Date of 1966 Amendment
 
@@ -108,7 +108,7 @@ Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the 
 
 #### Executive Order No. 10560
 
-Ex. Ord. No. 10560, Sept. 13, 1954, 19 F.R. 5927, as amended by Ex. Ord. No. 10575, Nov. 8, 1954, 19 F.R. 7249; Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261; Ex. Ord.No. 10708, May 6, 1957, 22 F.R. 3213; Ex. Ord. No. 10746, Dec. 13, 1957, 22 F.R. 10027; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971; Ex. Ord. No. 10799, Jan. 16, 1959, 24 F.R. 447; Ex. Ord. No. 10827, June 25, 1959, 24 F.R. 5233; Ex. Ord. No. 10884, Aug. 17, 1960, 25 F.R. 8019, which provided for the delegation of administrative functions, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(a) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
+Ex. Ord. No. 10560, Sept. 13, 1954, 19 F.R. 5927, as amended by Ex. Ord. No. 10575, Nov. 8, 1954, 19 F.R. 7249; Ex. Ord. No. 10685, Oct. 29, 1956, 21 F.R. 8261; Ex. Ord. No. 10708, May 6, 1957, 22 F.R. 3213; Ex. Ord. No. 10746, Dec. 13, 1957, 22 F.R. 10027; Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 8, 1958, 23 F.R. 6971; Ex. Ord. No. 10799, Jan. 16, 1959, 24 F.R. 447; Ex. Ord. No. 10827, June 25, 1959, 24 F.R. 5233; Ex. Ord. No. 10884, Aug. 17, 1960, 25 F.R. 8019, which provided for the delegation of administrative functions, was superseded by Ex. Ord. No. 10900, Jan. 5, 1961, 26 F.R. 143, formerly set out as a note under this section, and was revoked by section 1–502(a) of Ex. Ord. No. 12220, June 27, 1980, 45 F.R. 44247, formerly set out below.
 
 #### Executive Order No. 10685
 

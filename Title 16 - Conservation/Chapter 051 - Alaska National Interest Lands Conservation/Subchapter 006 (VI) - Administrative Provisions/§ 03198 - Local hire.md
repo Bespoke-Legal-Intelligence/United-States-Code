@@ -2,7 +2,7 @@
 
 #### (a) Program
 
-After consultation with the Office of Personnel Management, the Secretary shall establish a program under which any individual who, by reason of having lived or worked in or near public lands, has special knowledge or expertise concerning the natural or cultural resources of public lands and the management thereof (as determined by the Secretary) shall be considered for selection for any position within public lands without regard to—
+After consultation with the Office of Personnel Management, the Secretary shall establish a program under which any individual who, by reason of having lived or worked in or near public lands, has special knowledge or expertise concerning the natural or cultural resources of public lands and the management thereof (as determined by the Secretary) shall be consideredfor selection for any position within public lands without regard to—
 
 &emsp;(1) any provision of the civil service laws or regulations thereunder which require minimum periods of formal training or experience,
 
@@ -50,7 +50,7 @@ Pub. L. 106–488, §2, Nov. 9, 2000, 114 Stat. 2205, provided that:
 
 &emsp;“(2) report on the results of the programs within one year to the Committee on Energy and Natural Resources of the United States \[Senate\] and the Committee on Resources of the House of Representatives.
 
-“(b) In implementing the programs, the Secretary shall consult with the Native Corporations, nonprofitorganizations, and Tribal entities in the immediate vicinity of such units and shall also, to the extent practicable, involve such groups in the development of interpretive materials and the pilot programs relating to such units.”
+“(b) In implementing the programs, the Secretary shall consult with the Native Corporations, nonprofit organizations, and Tribal entities in the immediate vicinity of such units and shall also, to the extent practicable, involve such groups in the development of interpretive materials and the pilot programs relating to such units.”
 
 #### Local Hire Report
 

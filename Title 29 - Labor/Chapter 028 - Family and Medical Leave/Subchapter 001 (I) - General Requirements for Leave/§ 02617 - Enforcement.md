@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) any wages, salary, employment benefits, or other compensation denied or lost to such employee by reason of the violation; or
 
-&emsp;&emsp;&emsp;&emsp;(II) in a case in which wages, salary, employment benefits, or other compensation have not been denied or lost to the employee, any actual monetary losses sustained by the employee as a direct result of the violation, such as the cost of providing care, up to a sum equal to 12 weeks of wages or salary for the employee;
+&emsp;&emsp;&emsp;&emsp;(II) in a case in which wages, salary, employment benefits, or other compensation have not been denied or lost to the employee, any actual monetarylosses sustained by the employee as a direct result of the violation, such as the cost of providing care, up to a sum equal to 12 weeks of wages or salary for the employee;
 
 &emsp;&emsp;&emsp;(ii) the interest on the amount described in clause (i) calculated at the prevailing rate; and
 

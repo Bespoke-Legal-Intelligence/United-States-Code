@@ -12,3 +12,59 @@ This Act, referred to in text, is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 27
 
 Section 1(a) of Pub. L. 102–486 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Energy Policy Act of 1992’.”
 
+#### Ex. Ord. No. 13211. Actions Concerning Regulations That Significantly Affect Energy Supply, Distribution, or Use
+
+Ex. Ord. No. 13211, May 18, 2001, 66 F.R. 28355, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to appropriately weigh and consider the effects of the Federal Government's regulations on the supply, distribution, and use of energy, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The Federal Government can significantly affect the supply, distribution, and use of energy. Yet there is often too little information regarding the effects that governmental regulatory action can have on energy. In order to provide more useful energy-related information and hence improve the quality of agency decisionmaking, I am requiring that agencies shall prepare a Statement of Energy Effects when undertaking certain agency actions. As described more fully below, such Statements of Energy Effects shall describe the effects of certain regulatory actions on energy supply, distribution, or use.
+
+Sec. 2. <i>Preparation of a Statement of Energy Effects</i>. (a) To the extent permitted by law, agencies shall prepare and submit a Statement of Energy Effects to the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, for those matters identified as significant energy actions.
+
+(b) A Statement of Energy Effects shall consist of a detailed statement by the agency responsible for the significant energy action relating to:
+
+&emsp;(i) any adverse effects on energy supply, distribution, or use (including a shortfall in supply, price increases, and increased use of foreign supplies) should the proposal be implemented, and
+
+&emsp;(ii) reasonable alternatives to the action with adverse energy effects and the expected effects of such alternatives on energy supply, distribution, and use.
+
+(c) The Administrator of the Office of Information and Regulatory Affairs shall provide guidance to the agencies on the implementation of this order and shall consult with other agencies as appropriate in the implementation of this order.
+
+Sec. 3. <i>Submission and Publication of Statements</i>. (a) Agencies shall submit their Statements of Energy Effects to the Administrator of the Office of Information and Regulatory Affairs, Office of Management and Budget, whenever they present the related submission under Executive Order 12866 of September 30, 1993 \[5 U.S.C. 601 note\], or any successor order.
+
+(b) Agencies shall publish their Statements of Energy Effects, or a summary thereof, in each related Notice of Proposed Rulemaking and in any resulting Final Rule.
+
+Sec. 4. <i>Definitions</i>. For purposes of this order:
+
+(a) “Regulation” and “rule” have the same meaning as they do in Executive Order 12866 \[5 U.S.C. 601 note\] or any successor order.
+
+(b) “Significant energy action” means any action by an agency (normally published in the Federal Register) that promulgates or is expected to lead to the promulgation of a final rule or regulation, including notices of inquiry, advance notices of proposed rulemaking, and notices of proposed rulemaking:
+
+&emsp;(1)(i) that is a significant regulatory action under Executive Order 12866 or any successor order, and
+
+&emsp;(ii) is likely to have a significant adverse effect on the supply, distribution, or use of energy; or
+
+&emsp;(2) that is designated by the Administrator of the Office of Information and Regulatory Affairs as a significant energy action.
+
+(c) “Agency” means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5).
+
+Sec. 5. <i>Judicial Review</i>. Nothing in this order shall affect any otherwise available judicial review of agency action. This order is intended only to improve the internal management of the Federal Government and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13212. Actions To Expedite Energy-Related Projects
+
+Ex. Ord. No. 13212, May 18, 2001, 66 F.R. 28357, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to take additional steps to expedite the increased supply and availability of energy to our Nation, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The increased production and transmission of energy in a safe and environmentally sound manner is essential to the well-being of the American people. In general, it is the policy of this Administration that executive departments and agencies (agencies) shall take appropriate actions, to the extent consistent with applicable law, to expedite projects that will increase the production, transmission, or conservation of energy.
+
+Sec. 2. <i>Actions to Expedite Energy-Related Projects</i>. For energy-related projects, agencies shall expedite their review of permits or take other actions as necessary to accelerate the completion of such projects, while maintaining safety, public health, and environmental protections. The agencies shall take such actions to the extent permitted by law and regulation, and where appropriate.
+
+Sec. 3. <i>Interagency Task Force</i>. There is established an interagency task force (Task Force) to monitor and assist the agencies in their efforts to expedite their review of permits or similar actions, as necessary, to accelerate the completion of energy-related projects, increase energy production and conservation, and improve transmission of energy. The Task Force also shall monitor and assist agencies in setting up appropriate mechanisms to coordinate Federal, State, tribal, and local permitting in geographic areas where increased permitting activity is expected. The Task Force shall be composed of representatives from the Departments of State, the Treasury, Defense, Agriculture, Housing and Urban Development, Justice, Commerce, Transportation, the Interior, Labor, Education, Health and Human Services, Energy, Veterans Affairs, the Environmental Protection Agency, Central Intelligence Agency, General Services Administration, Office of Management and Budget, Council of Economic Advisers, Domestic Policy Council, National Economic Council, and such other representatives as may be determined by the Chairman of the Council on Environmental Quality. The Task Force shall be chaired by the Chairman of the Council on Environmental Quality and housed at the Department of Energy for administrative purposes.
+
+Sec. 4. <i>Judicial Review</i>. Nothing in this order shall affect any otherwise available judicial review of agency action. This order is intended only to improve the internal management of the Federal Government and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

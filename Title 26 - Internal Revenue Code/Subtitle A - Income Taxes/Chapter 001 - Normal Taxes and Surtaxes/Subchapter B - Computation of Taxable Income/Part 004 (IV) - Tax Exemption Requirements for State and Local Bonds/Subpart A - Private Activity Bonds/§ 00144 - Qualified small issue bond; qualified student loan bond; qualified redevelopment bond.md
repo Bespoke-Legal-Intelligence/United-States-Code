@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) to replace property destroyed or damaged by fire, storm, or other casualty, to the extent of the fair market value of the property replaced,
 
-&emsp;&emsp;&emsp;(ii) required by a change made after the date of issue of the issue in question in aFederal or State law or local ordinance of general application or required by a change made after such date in rules and regulations of general application issued under such a law or ordinance,
+&emsp;&emsp;&emsp;(ii) required by a change made after the date of issue of the issue in question in a Federal or State law or local ordinance of general application or required by a change made after such date in rules and regulations of general application issued under such a law or ordinance,
 
 &emsp;&emsp;&emsp;(iii) required by circumstances which could not be reasonably foreseen on such date of issue or arising out of a mistake of law or fact (but the aggregate amount of expenditures not taken into account under this clause with respect to any issue shall not exceed $1,000,000), or
 
@@ -100,7 +100,7 @@
 
 #### (7) Subsection not to apply if bonds issued with certain other tax-exempt bonds
 
-&emsp;This subsection shall not apply to any bond issued as part of an issue (other than an issue to which paragraph (4) applies) if the interest on any other bond which is part of such issue is excluded from gross income under any provision of law other than this subsection.
+&emsp;This subsection shall not apply to any bond issued as part of an issue (other than an issue to which paragraph (4) applies) if the intereston any other bond which is part of such issue is excluded from gross income under any provision of law other than this subsection.
 
 #### (8) Restrictions on financing certain facilities
 
@@ -202,7 +202,7 @@
 
 #### (C) Manufacturing facility
 
-&emsp;&emsp;For purposes of this paragraph, the term “manufacturing facility” means any facility which is used in the manufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.For purposes of the 1st sentence of this subparagraph, the term “manufacturing facility” includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
+&emsp;&emsp;For purposes of this paragraph, the term “manufacturing facility” means any facility which is used in the manufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence. For purposes of the 1st sentence of this subparagraph, the term “manufacturing facility” includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
 
 &emsp;&emsp;&emsp;(i) such facilities are located on the same site as the manufacturing facility, and
 
@@ -346,7 +346,7 @@ For purposes of this part—
 
 #### (ii) 10-acre minimum in certain cases
 
-&emsp;&emsp;&emsp;Clause (i) shall be applied by substituting “10 acres” for “100 acres” if not more than 25 percent of the financed area is to be provided (pursuant to the issue and all other such issues) to 1 person. For purposes of the preceding sentence, all related persons (as defined in subsection (a)(3)) shall be treated as 1 person. For purposes of this clause, an area provided to a developer on a short-term interim basis shall not be treated as provided to such developer.
+&emsp;&emsp;&emsp;Clause (i) shall be applied by substituting “10 acres” for “100 acres” if not more than 25 percent of the financed area is to be provided (pursuant to the issue and all other such issues) to 1 person. For purposes of the preceding sentence, all related persons (as defined in subsection (a)(3)) shall be treated as 1 person. For purposesof this clause, an area provided to a developer on a short-term interim basis shall not be treated as provided to such developer.
 
 #### (5) No additional charge requirements
 
@@ -444,7 +444,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 Refundings.—The amendment made by subsection (a) shall not apply to any bond issued to refund (or which is part of a series of bonds issued to refund) a bond issued on or before the date of the enactment of this Act if—
 
-&emsp;“(A) the average maturity date of the issue of which the refunding bond is a part is not later thanthe average maturity date of the bonds to be refunded by such issue, and
+&emsp;“(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue, and
 
 &emsp;“(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond.
 

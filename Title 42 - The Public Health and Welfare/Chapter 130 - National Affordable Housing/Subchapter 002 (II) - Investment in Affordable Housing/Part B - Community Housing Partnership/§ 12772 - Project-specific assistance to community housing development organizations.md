@@ -12,7 +12,7 @@ Amounts reserved under section 12771 of this title may be used for activities el
 
 #### (2) Allowable expenses
 
-&emsp;A loan under this subsection may be provided to cover project expenses necessary to determine project feasibility (including costs of an initial feasibility study), consulting fees, costs of preliminary financial applications, legal fees, architectural fees, engineering fees, engagement of a development team, site control and title clearance.
+&emsp;A loan under this subsection may be provided to cover project expenses necessary todetermine project feasibility (including costs of an initial feasibility study), consulting fees, costs of preliminary financial applications, legal fees, architectural fees, engineering fees, engagement of a development team, site control and title clearance.
 
 #### (3) Repayment
 

@@ -4,7 +4,7 @@ The National Science Foundation is authorized and directed to establish an Offic
 
 &emsp;(1) foster communication between the National Science Foundation and the small business community, and insure that the set-aside for small business concerns provided under this Act or any other Act authorizing appropriations for the National Science Foundation is fully and effectively utilized;
 
-&emsp;(2) collect, analyze, compile, and publish information concerning grants and contracts awarded to small business concerns by the Foundation, and the procedures for handling proposals submitted by small business concerns;
+&emsp;(2) collect, analyze, compile, and publish information concerning grants and contracts awarded to small business concerns by theFoundation, and the procedures for handling proposals submitted by small business concerns;
 
 &emsp;(3) assist individual small business concerns in obtaining information regarding programs, policies, and procedures of the Foundation, and assure the expeditious processing of proposals by small business concerns based on scientific and technical merit; and
 
@@ -18,7 +18,7 @@ This Act, referred to in par. (1), is Pub. L. 94–471, Oct. 11, 1976, 90 Stat. 
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act, 1977, and not as part ofthe National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act, 1977, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

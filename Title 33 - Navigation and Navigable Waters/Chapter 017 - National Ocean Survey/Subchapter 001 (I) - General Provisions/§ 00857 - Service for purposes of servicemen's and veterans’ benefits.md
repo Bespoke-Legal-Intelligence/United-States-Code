@@ -1,6 +1,6 @@
 ### §857. Service for purposes of servicemen's and veterans’ benefits
 
-Active service of commissioned officers of the National Oceanic and Atmospheric Administration shall be deemed to be active military service for the purposes of all laws administered by the Secretary of Veterans Affairs (except the Servicemen's Indemnity Act of 1951) and section 417 of title 42, and for the purposes of section 410 of title 42 as in effect prior to the Social Security Act Amendments of 1950.
+Active service of commissioned officers of the National Oceanic and Atmospheric Administration shall be deemed to be active military service for the purposes of all laws administered by the Secretary of Veterans Affairs (except the Servicemen's Indemnity Act of 1951) and section417 of title 42, and for the purposes of section 410 of title 42 as in effect prior to the Social Security Act Amendments of 1950.
 
 (May 22, 1917, ch. 20, §16, 40 Stat. 88; Aug. 1, 1956, ch. 837, title V, §501(d)(1), 70 Stat. 883; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–54, §13(m)(2), June 13, 1991, 105 Stat. 277.)
 
@@ -22,7 +22,7 @@ Section is part of section 16 of Act May 22, 1917. Section 16 is also classified
 
 #### Effective Date of 1956 Amendment; Applicability
 
-Section 501(d)(2) of act Aug. 1, 1956, provided that: “The amendment made by this subsection \[to this section\] (A) shall apply only with respect to service performed on or after July 29, 1945, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[section 901 et seq. of former Title 38, Pensions, Bonuses and Veterans’ Relief\], (C) shall not be construed to authorize any payment under section 202(i) ofthe Social Security Act \[section 402(i) of Title 42, The Public Health and Welfare\], or under Veterans Regulation Numbered 9(a) \[formerly classified to Chapter 12A of former title 38\], for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
+Section 501(d)(2) of act Aug. 1, 1956, provided that: “The amendment made by this subsection \[to this section\] (A) shall apply only with respect to service performed on or after July 29, 1945, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[section 901 et seq. of former Title 38, Pensions, Bonuses and Veterans’ Relief\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[section 402(i) of Title 42, The Public Health and Welfare\], or under Veterans Regulation Numbered 9(a) \[formerly classified to Chapter 12A of former title 38\], for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
 
 #### Transfer of Functions
 

@@ -26,7 +26,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pu
 
 #### Codification
 
-The provisions of subsec. (b) of this section, which contain the text of the boundary descriptions, havebeen omitted. Such provisions appear at 106 Stat. 2614 to 2618.
+The provisions of subsec. (b) of this section, which contain the text of the boundary descriptions, have been omitted. Such provisions appear at 106 Stat. 2614 to 2618.
 
 #### “Secretary” Defined
 

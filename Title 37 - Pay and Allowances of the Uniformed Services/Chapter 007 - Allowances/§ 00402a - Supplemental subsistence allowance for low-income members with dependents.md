@@ -4,7 +4,7 @@
 
 Supplemental Allowance Required.—(1) The Secretary concerned shall increase the basic allowance for subsistence to which a member of the armed forces described in subsection (b) is otherwise entitled under section 402 of this title by an amount (in this section referred to as the “supplemental subsistence allowance”) designed to remove the member's household from eligibility for benefits under the food stamp program.
 
-(2) The supplemental subsistence allowance may not exceed $500 per month. In establishing the amount of the supplemental subsistence allowance to be paid an eligible member under this paragraph, the Secretary shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States ora housing facility under the jurisdiction of a uniformed service.
+(2) The supplemental subsistence allowance may not exceed $500 per month. In establishing the amount of the supplemental subsistence allowance to be paid an eligible member under this paragraph, the Secretary shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
 (3) In the case of a member described in subsection (b) who establishes to the satisfaction of the Secretary concerned that the allotment of the member's household under the food stamp program, calculated in the absence of the supplemental subsistence allowance, would exceed the amount established by the Secretary concerned under paragraph (2), the amount of the supplemental subsistence allowance for the member shall be equal to the lesser of the following:
 
@@ -14,7 +14,7 @@ Supplemental Allowance Required.—(1) The Secretary concerned shall increase th
 
 (b)
 
-Members Entitled to Allowance.—(1) Subject to subsection (d), a member of the armed forces is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food Stamp Act of 1977 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the food stamp program.
+Members Entitled to Allowance.—(1) Subject to subsection (d), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food Stamp Act of 1977 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the food stamp program.
 
 (2) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary—
 
@@ -24,7 +24,7 @@ Members Entitled to Allowance.—(1) Subject to subsection (d), a member of the 
 
 (c)
 
-Application for Allowance.—To request the supplemental subsistence allowance, a member shall submit an application to the Secretary concerned in such form and containing such information as the Secretary concerned may prescribe. A member applying for the supplemental subsistence allowance shall furnish such evidence regarding the member's satisfaction of the eligibility criteria under subsection (b) as the Secretary concerned may require.
+Application for Allowance.—To request the supplemental subsistence allowance, a member shall submit an application to the Secretaryconcerned in such form and containing such information as the Secretary concerned may prescribe. A member applying for the supplemental subsistence allowance shall furnish such evidence regarding the member's satisfaction of the eligibility criteria under subsection (b) as the Secretary concerned may require.
 
 (d)
 
@@ -62,7 +62,11 @@ Definitions.—In this section:
 
 Termination of Authority.—No supplemental subsistence allowance may be provided under this section after September 30, 2006.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134.)
+
+#### Amendments
+
+2001—Subsec. (b)(1). Pub. L. 107–107 inserted “with dependents” after “a member of the armed forces”.
 
 #### Effective Date
 

@@ -52,7 +52,7 @@
 
 #### (c) Exceptions for taxicabs, etc.
 
-The tax imposed by this section shall not apply to the sale of any passenger vehicle foruse by the purchaser exclusively in the active conduct of a trade or business of transporting persons or property for compensation or hire.
+The tax imposed by this section shall not apply to the sale of any passenger vehicle for use by the purchaser exclusively in the active conduct of a trade or business of transporting persons or property for compensation or hire.
 
 #### (d) Exemption for law enforcement uses, etc.
 
@@ -120,9 +120,9 @@ The taxes imposed by this section and section 4003 shall not apply to any sale, 
 
 (Added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449; Pub. L. 104–188, title I, §§1607(a), (b), 1703(c)(1), Aug. 20, 1996, 110 Stat. 1839, 1875; Pub. L. 105–34, title IX, §906(a)–(b)(2), title XVI, §1601(f)(3)(A), (B), Aug. 5, 1997, 111 Stat. 874, 875, 1090.)
 
-#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Calendar Year 2001
+#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Calendar Year 2002
 
-<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for calendar year 2001, see section 3.19 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for calendar year 2002, see section 3.21 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

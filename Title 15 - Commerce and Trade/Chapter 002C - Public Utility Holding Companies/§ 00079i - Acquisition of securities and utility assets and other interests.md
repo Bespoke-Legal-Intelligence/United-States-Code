@@ -6,7 +6,7 @@ Unless the acquisition has been approved by the Commission under section 79j of 
 
 &emsp;(1) for any registered holding company or any subsidiary company thereof, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, to acquire, directly or indirectly, any securities or utility assets or any other interest in any business;
 
-&emsp;(2) for any person, by use of the mails or any means or instrumentality of interstate commerce, to acquire, directly or indirectly, any security of any public-utility company, if such person is an affiliate under clause (A) of paragraph (11) of subsection (a) of section 79b of this title, of such company and of any other public utility or holding company, or will by virtue of such acquisition become such an affiliate.
+&emsp;(2) for any person, by use of the mails or any means or instrumentality of interstate commerce, to acquire, directly or indirectly, any security of any public-utility company, if suchperson is an affiliate under clause (A) of paragraph (11) of subsection (a) of section 79b of this title, of such company and of any other public utility or holding company, or will by virtue of such acquisition become such an affiliate.
 
 #### (b) Acquisition of utility assets authorized by State Commission; holding company systems organized in same State
 
@@ -24,7 +24,7 @@ Subsection (a) of this section shall not apply to the acquisition by a registere
 
 &emsp;(2) such other readily marketable securities within the limitation of such amounts, as the Commission may by rules and regulations prescribe as appropriate for investment of current funds and as not detrimental to the public interest or the interest of investors or consumers; or
 
-&emsp;(3) such commercial paper and other securities, within such limitations, as the Commission may by rules and regulations or order prescribe as appropriate in the ordinary courseof business of a registered holding company or subsidiary company thereof and as not detrimental to the public interest or the interest of investors or consumers.
+&emsp;(3) such commercial paper and other securities, within such limitations, as the Commission may by rules and regulations or order prescribe as appropriate in the ordinary course of business of a registered holding company or subsidiary company thereof and as not detrimental to the public interest or the interest of investors or consumers.
 
 (Aug. 26, 1935, ch. 687, title I, §9, 49 Stat. 817.)
 

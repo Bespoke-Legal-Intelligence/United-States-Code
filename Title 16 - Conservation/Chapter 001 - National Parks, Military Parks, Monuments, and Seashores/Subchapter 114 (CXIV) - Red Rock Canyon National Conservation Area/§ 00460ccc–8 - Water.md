@@ -24,7 +24,7 @@ The Federal water rights reserved by this subchapter are specific to the conserv
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–450 inserted before period at end “, except that as related to rights associated with lands added to the conservation area after November 16, 1990, the priority date shall be the date of enactment of the Act adding such lands to the conservation area”.
+1994—Subsec. (b). Pub. L. 103–450 inserted before period at end “, except that as related to rights associated with lands added to the conservation area afterNovember 16, 1990, the priority date shall be the date of enactment of the Act adding such lands to the conservation area”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

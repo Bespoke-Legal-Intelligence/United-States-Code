@@ -14,7 +14,9 @@
 
 &emsp;(6) All other veterans eligible for hospital care, medical services, and nursing home care under section 1710(a)(2) of this title.
 
-&emsp;(7) Veterans described in section 1710(a)(3) of this title.
+&emsp;(7) Veterans described in section 1710(a)(3) of this title who are eligible for treatment as a low-income family under section 3(b) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)) for the area in which such veterans reside, regardless of whether such veterans are treated as single person families under paragraph (3)(A) of such section 3(b) or as families under paragraph (3)(B) of such section 3(b).
+
+&emsp;(8) Veterans described in section 1710(a)(3) of this title who are not covered by paragraph (7).
 
 (b) In the design of an enrollment system under subsection (a), the Secretary—
 
@@ -24,15 +26,21 @@
 
 &emsp;(3) may provide for exceptions to the specified priorities where dictated by compelling medical reasons.
 
-(c)(1) Effective on October 1, 1998, the Secretary may not provide hospital care or medical services to a veteran under paragraph (2) or (3) of section 1710(a) of this title unless the veteran enrolls in the system of patient enrollment established by the Secretary under subsection (a).
+(c)(1) Effective on October 1, 1998, the Secretary may not provide hospital care or medicalservices to a veteran under paragraph (2) or (3) of section 1710(a) of this title unless the veteran enrolls in the system of patient enrollment established by the Secretary under subsection (a).
 
 (2) The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran's discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
 
-(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, §112(2), Nov. 30, 1999, 113 Stat. 1556.)
+(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, §112(2), Nov. 30, 1999, 113 Stat. 1556; Pub. L. 107–135, title II, §202(a), Jan. 23, 2002, 115 Stat. 2457.)
 
 #### Amendments
 
+2002—Subsec. (a)(7), (8). Pub. L. 107–135 added pars. (7) and (8) and struck out former par. (7) which read as follows: “Veterans described in section 1710(a)(3) of this title.”
+
 1999—Subsec. (a)(3). Pub. L. 106–117 inserted “or who were awarded the Purple Heart” after “former prisoners of war”.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–135, title II, §202(c), Jan. 23, 2002, 115 Stat. 2457, provided that: “The amendments made by this section \[amending this section and section 1710 of this title\] shall take effect on October 1, 2002.”
 
 #### Assessment of Implementation and Operation of Amendments by Pub. L. 104–262
 
@@ -78,5 +86,5 @@ Matters To Be Included.—The report under subsection (b) shall include detailed
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1718, 1720, 1725 of this title; title 10 section 1076c.
+This section is referred to in sections 1710, 1714, 1718, 1720, 1725, 2062 of this title; title 10 section 1076c.
 

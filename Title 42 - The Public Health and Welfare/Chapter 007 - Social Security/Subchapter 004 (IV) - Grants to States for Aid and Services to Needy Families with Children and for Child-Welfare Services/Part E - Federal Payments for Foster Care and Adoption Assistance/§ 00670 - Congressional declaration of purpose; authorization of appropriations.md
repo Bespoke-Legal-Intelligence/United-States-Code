@@ -48,7 +48,7 @@ Pub. L. 106–314, Oct. 17, 2000, 114 Stat. 1266, provided that:
 
 &emsp;“(6) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be substantially improved by the acquisition and implementation of computerized case-tracking systems to identify and eliminate existing backlogs, to move abuse and neglect caseloads forward in a timely manner, and to move children into safe and stable families. Such systems could also be used to evaluate the effectiveness of such courts in meeting the purposes of the amendments made by, and provisions of, the Adoption and Safe Families Act of 1997.
 
-&emsp;“(7) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would also be improved by the identification and implementation of projects designed to eliminate the backlog of abuse and neglect cases, including the temporary hiring of additional judges, extension of court hours, and other projects designed to reduce existing caseloads.
+&emsp;“(7) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would alsobe improved by the identification and implementation of projects designed to eliminate the backlog of abuse and neglect cases, including the temporary hiring of additional judges, extension of court hours, and other projects designed to reduce existing caseloads.
 
 &emsp;“(8) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be further strengthened by improving the quality and availability of training for judges, court personnel, agency attorneys, guardians ad litem, volunteers who participate in court-appointed special advocate (CASA) programs, and attorneys who represent the children and the parents of children in abuse and neglect proceedings.
 
@@ -134,11 +134,11 @@ Information required.—An application for a grant authorized under this section
 
 &emsp;&emsp;&emsp;“(iii) relevant information about the subject child, including family information and the reason for court supervision.
 
-&emsp;&emsp;“(C) In the case of an application submitted by a local court, a description of how the plan to implement the proposed system was developed in consultation with related State courts, particularly with regard to a State court improvement plan funded under section 13712 of the Omnibus Budget Reconciliation Act of 1993 \[Pub. L. 103–66\] (42 U.S.C. 670 note) if there is such a plan in the State.
+&emsp;&emsp;“(C) In the case of an application submitted by a local court, a description of how the plan to implement the proposed system was developed in consultation with related State courts, particularly with regard to a State court improvement plan funded under section 13712 of the Omnibus Budget Reconciliation Act of 1993 (42 U.S.C. 670 note) \[now 42 U.S.C. 629h\] if there is such a plan in the State.
 
 &emsp;&emsp;“(D) In the case of an application that is submitted by a State court, a description of how the proposed system will integrate with a State court improvement plan funded under section 13712 of such Act if there is such a plan in the State.
 
-&emsp;&emsp;“(E) After consultation with the State agency responsible for the administration of parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.)—
+&emsp;&emsp;“(E) After consultation with the State agency responsible for the administration of parts B and E oftitle IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.)—
 
 &emsp;&emsp;&emsp;“(i) a description of the coordination of the proposed system with other child welfare data collection systems, including the statewide automated child welfare information system (SACWIS) and the adoption and foster care analysis and reporting system (AFCARS) established pursuant to section 479 of the Social Security Act (42 U.S.C. 679); and
 
@@ -238,7 +238,7 @@ Considerations.—In evaluating an application for a grant under this section th
 
 &emsp;“(4)
 
-Diversity of awards.—The Attorney General shall award grants under this section in a manner that results in a reasonable balance among grantsawarded to State courts and grants awarded to local courts, grants awarded to courts located in urban areas and courts located in rural areas, and grants awarded in diverse geographical locations.
+Diversity of awards.—The Attorney General shall award grants under this section in a manner that results in a reasonable balance among grants awarded to State courts and grants awarded to local courts, grants awarded to courts located in urban areas and courts located in rural areas, and grants awarded in diverse geographical locations.
 
 “(d)
 
@@ -366,51 +366,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to mak
 
 #### Entitlement Funding for State Courts To Assess and Improve Handling of Proceedings Relating to Foster Care and Adoption
 
-Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended by Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130, provided that:
-
-“(a)
-
-In General.—The Secretary shall make grants, in accordance with this section, to the highest State courts in States participating in the program under part E of title IV of the Social Security Act \[this part\], for the purpose of enabling such courts—
-
-&emsp;“(1) to conduct assessments, in accordance with such requirements as the Secretary shall publish, of the role, responsibilities, and effectiveness of State courts in carrying out State laws requiring proceedings (conducted by or under the supervision of the courts)—
-
-&emsp;&emsp;“(A) that implement parts B and E of title IV of such Act \[part B of this subchapter and this part\];
-
-&emsp;&emsp;“(B) that determine the advisability or appropriateness of foster care placement;
-
-&emsp;&emsp;“(C) that determine whether to terminate parental rights; and
-
-&emsp;&emsp;“(D) that determine whether to approve the adoption or other permanent placement of a child; and
-
-&emsp;“(2) to implement changes deemed necessary as a result of the assessments.
-
-“(b)
-
-Applications.—In order to be eligible for a grant under this section, a highest State court shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary shall require.
-
-“(c)
-
-Allotments.—
-
-&emsp;“(1)
-
-In general.—Each highest State court which has an application approved under subsection (b), and is conducting assessment activities in accordance with this section, shall be entitled to payment, for each of fiscal years 1995 through 2001, from amounts reserved pursuant to section 430(d)(2) of the Social Security Act \[section 629(d)(2) of this title\], of an amount equal to the sum of—
-
-&emsp;&emsp;“(A) for fiscal year 1995, $75,000 plus the amount described in paragraph (2) for fiscal year 1995; and
-
-&emsp;&emsp;“(B) for each of fiscal years 1996 through 2001, $85,000 plus the amount described in paragraph (2) for each of such fiscal years.
-
-&emsp;“(2)
-
-Formula.—The amount described in this paragraph for any fiscal year is the amount that bears the same ratio to the amount reserved pursuant to section 430(d)(2) of the Social Security Act for the fiscal year (reduced by the dollar amount specified in paragraph (1) of this subsection for the fiscal year) as the number of individuals in the State who have not attained 21 years of age bears to the total number of such individuals in all States the highest State courts of which have approved applications under subsection (b).
-
-“(d)
-
-Use of Grant Funds.—Each highest State court which receives funds paid under this section may use such funds to pay—
-
-&emsp;“(1) any or all costs of activities under this section in fiscal year 1995; and
-
-&emsp;“(2) not more than 75 percent of the cost of activities under this section in each of fiscal years 1996, 1997, 1998, 1999, 2000, and 2001.”
+Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended by Pub. L. 105–89, title III,§305(a)(3), Nov. 19, 1997, 111 Stat. 2130; Pub. L. 107–133, title I, §107(a)–(d), Jan. 17, 2002, 115 Stat. 2418, which was formerly set out as a note under this section, was renumbered section 438 of the Social Security Act by Pub. L. 107–133, title I, §107(e), Jan. 17, 2002, 115 Stat. 2419, and is classified to section 629h of this title.
 
 #### Abandoned Infants Assistance
 
@@ -498,7 +454,7 @@ Administration of Grant.—
 
 &emsp;&emsp;“(C) to report to the Secretary annually on the utilization, cost, and outcome of activities conducted, and services furnished, under this section; and
 
-&emsp;&emsp;“(D) that if, during the majority of the 180-day period preceding the date of the enactment of this Act \[Oct. 18, 1988\], the applicant has carried out any program with respect to the care of abandoned infants and young children, the applicant will expend the grant only for the purpose of significantly expanding, in accordance with subsection (a), activities under such program above the level provided under such program during the majority of such period.
+&emsp;&emsp;“(D) that if, during the majority of the 180-day period preceding the date of the enactment of this Act \[Oct. 18, 1988\], the applicant has carried out any program with respect to the care of abandoned infants and young children, the applicant will expendthe grant only for the purpose of significantly expanding, in accordance with subsection (a), activities under such program above the level provided under such program during the majority of such period.
 
 &emsp;“(2) Subject to the availability of amounts made available in appropriations Acts for the fiscal year involved, the duration of a grant under subsection (a) shall be for a period of 3 years, except that the Secretary—
 
@@ -596,7 +552,7 @@ Study and Report on Effective Care Methods.—
 
 In General.—
 
-&emsp;“(1) For the purpose of carrying out this title (other than section 102(b)), there are authorized to be appropriated $35,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2001.
+&emsp;“(1) For the purpose of carrying out this title (other than section 102(b)), there are authorized to be appropriated $35,000,000 for fiscal year 1997 and suchsums as may be necessary for each of the fiscal years 1998 through 2001.
 
 &emsp;“(2)(A) Of the amounts appropriated under paragraph (1) for any fiscal year in excess of the amount appropriated under this subsection for fiscal year 1991, as adjusted in accordance with subparagraph (B), the Secretary shall make available not less than 50 percent for grants under section 101(a) to carry out projects described in paragraph (8) of such section.
 

@@ -28,7 +28,7 @@ Any order issued by the President under section 904 of this title shall make the
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), if a reduction is made under paragraph (1) in payment amounts pursuant to a sequestration order, the reduction shall be applied to payment for services furnished during the effective period of the order. For purposes of the previous sentence, in the case of inpatient services furnished for an individual, the services shall be considered to be furnished on the date of the individual's discharge from the inpatient facility.
+&emsp;&emsp;Except as provided in subparagraph (B), if a reduction is made under paragraph (1) inpayment amounts pursuant to a sequestration order, the reduction shall be applied to payment for services furnished during the effective period of the order. For purposes of the previous sentence, in the case of inpatient services furnished for an individual, the services shall be considered to be furnished on the date of the individual's discharge from the inpatient facility.
 
 #### (B) Payment on the basis of cost reporting periods
 
@@ -36,7 +36,7 @@ Any order issued by the President under section 904 of this title shall make the
 
 #### (3) No increase in beneficiary charges in assignment-related cases
 
-&emsp;If a reduction in payment amounts is made under paragraph (1) for services for which payment under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] is made on the basis of an assignment described insection 1842(b)(3)(B)(ii) \[42 U.S.C. 1395u(b)(3)(B)(ii)\], in accordance with section 1842(b)(6)(B) \[42 U.S.C. 1395u(b)(6)(B)\], or under the procedure described in section 1870(f)(1) \[42 U.S.C. 1395gg(f)(1)\], of such Act, the person furnishing the services shall be considered to have accepted payment of the reasonable charge for the services, less any reduction in payment amount made pursuant to a sequestration order, as payment in full.
+&emsp;If a reduction in payment amounts is made under paragraph (1) for services for which payment under part B of title XVIII of the Social Security Act \[42 U.S.C. 1395j et seq.\] is made on the basis of an assignment described in section 1842(b)(3)(B)(ii) \[42 U.S.C. 1395u(b)(3)(B)(ii)\], in accordance with section 1842(b)(6)(B) \[42 U.S.C. 1395u(b)(6)(B)\], or under the procedure described in section 1870(f)(1) \[42 U.S.C. 1395gg(f)(1)\], of such Act, the person furnishing the services shall be considered to have accepted payment of the reasonable charge for the services, less any reduction in payment amount made pursuant to a sequestration order, as payment in full.
 
 #### (4) No effect on computation of AAPCC
 
@@ -94,7 +94,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (h) Treatment of Federal administrative expenses
 
-(1) Notwithstanding any other provision of this title,<sup>1</sup> administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under section 904 of this title, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
+(1) Notwithstanding any other provision of this title,<sup>1</sup> administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government inconnection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under section 904 of this title, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
 
 (2) Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
 
@@ -160,7 +160,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (6) Certain authority not to be limited
 
-&emsp;Nothing in this joint resolution shall limit or reduce, in any way, any appropriation thatprovides the Commodity Credit Corporation with budget authority to cover the Corporation's net realized losses.
+&emsp;Nothing in this joint resolution shall limit or reduce, in any way, any appropriation that provides the Commodity Credit Corporation with budget authority to cover the Corporation's net realized losses.
 
 #### (k) Effects of sequestration
 
@@ -194,7 +194,7 @@ Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to 
 
 This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
-This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
+This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109,and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
 Subsec. (h)(1) of this section, referred to in subsec. (h)(3), was redesignated subsec. (i)(1) of this section by Pub. L. 101–508, title XIII, §13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
 
@@ -298,7 +298,7 @@ Subsec. (d)(1)(B). Pub. L. 100–119, §102(b)(11), inserted “(or such higher 
 
 Subsec. (e). Pub. L. 100–119, §104(a)(4), substituted “Notwithstanding any change in the display of budget accounts, any order” for “Any order”.
 
-Subsec. (<i>l</i>). Pub. L. 100–119, §102(b)(3), amended subsec. (<i>l</i>) generally, striking out provisions which had created an “existing contract” exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of thistitle, under an order issued under section 902 of this title.
+Subsec. (<i>l</i>). Pub. L. 100–119, §102(b)(3), amended subsec. (<i>l</i>) generally, striking out provisions which had created an “existing contract” exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
 
 1986—Subsec. (h)(2)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 

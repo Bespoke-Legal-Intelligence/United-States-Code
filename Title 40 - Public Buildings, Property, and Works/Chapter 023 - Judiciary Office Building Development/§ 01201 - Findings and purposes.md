@@ -22,7 +22,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(2) To authorize the Architect to acquire by lease space primarily for use by the judicial branch of the Government by entering into contracts for the design and construction of a building adjacent to Union Station.
 
-&emsp;(3) To ensure that the design and construction of such building will insofar as practicable result in a building which is efficientand economical and which provides visual testimony to the dignity, enterprise, vigor, and stability of the Federal Government.
+&emsp;(3) To ensure that the design and construction of such building will insofar as practicable result in a building which is efficient and economical and which provides visual testimony to the dignity, enterprise, vigor, and stability of the Federal Government.
 
 (Pub. L. 100–480, §2, Oct. 7, 1988, 102 Stat. 2328.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Injurious Animals.—Any injurious animal, the importation or interstate shipment of whichis prohibited pursuant to section 42 of title 18, constitutes nonmailable matter.
+Injurious Animals.—Any injurious animal, the importation or interstate shipment of which is prohibited pursuant to section 42 of title 18, constitutes nonmailable matter.
 
 (b)
 
@@ -130,7 +130,7 @@ Authority.—The Postal Service shall use to carry out this paragraph the author
 
 &emsp;“(4)
 
-Cooperative programs.—Any program conducted jointly by the State of Hawaii and any Federal agency under this subsection that in any way affects the mail or the postal system of the United States shall comply with postal regulations and shall be conducted under terms and conditions acceptable to the Postal Service.
+Cooperative programs.—Any program conducted jointly by the State of Hawaii and any Federal agency under this subsection that in any way affects the mail or the postal system of the United States shall comply with postal regulations and shallbe conducted under terms and conditions acceptable to the Postal Service.
 
 &emsp;“(5)
 

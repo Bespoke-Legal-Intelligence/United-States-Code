@@ -14,7 +14,7 @@
 
 > may elect to become entitled to basic educational assistance under this chapter.
 
-(b) With respect to an individual who makes an election under subsection (a) or (e) to become entitled to basic education assistance under this chapter—
+(b) With respect to an individual who makes an election under subsection (a) to become entitled to basic education assistance under this chapter—
 
 &emsp;(1) the basic pay of the individual shall be reduced (in a manner determined by the Secretary of Defense) until the total amount by which such basic pay is reduced is $1,200; or
 
@@ -70,13 +70,15 @@
 
 (5) The Secretary, in conjunction with the Secretary of Defense, shall provide for notice to participants in the educational benefits program under chapter 32 of this title of the opportunity under this subsection to elect to become entitled to basic educational assistance under this chapter.
 
-(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, title IV, §401(c), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], Oct. 30, 2000, 114 Stat. 1654, 1654A–357; Pub. L. 106–419, title I, §104(a)–(c)(1), Nov. 1, 2000, 114 Stat. 1827, 1828.)
+(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, title IV, §401(c), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], Oct. 30, 2000, 114 Stat. 1654, 1654A–357; Pub. L. 106–419, title I, §104(a)–(c)(1), Nov. 1, 2000, 114 Stat. 1827, 1828; Pub. L. 107–14, §7(e)(1), June 5, 2001, 115 Stat. 33.)
 
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 106–419, which was approved Nov. 1, 2000.
 
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–14 struck out “or (e)” after “subsection (a)” in introductory provisions.
 
 2000—Pub. L. 106–419, §104(c)(1), provided that as of the enactment of Pub. L. 106–419, the amendments made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], were deemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], ceased to be in effect. See Amendment notes below.
 
@@ -100,9 +102,13 @@ Subsec. (a)(5). Pub. L. 105–114, §401(c)(3), substituted “October 9, 1996�
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 203(b) of Pub. L. 105–368, set out as a note under section 3011 of this title.
 
+#### Treatment of Certain Contributions
+
+Pub. L. 107–14, §7(e)(2), June 5, 2001, 115 Stat. 33, provided that: “Any amount collected under section 3018C(b) of title 38, United States Code (whether by reduction in basic pay under paragraph (1) of that section, collection under paragraph (2) of that section, or both), with respect to an individual who enrolled in basic educational assistance under section 3018C(e) of that title, during the period beginning on November 1, 2000, and ending on the date of the enactment of this Act \[June 5, 2001\], shall be treated as an amount collected with respect to the individual under section 3018C(e)(3)(A) of that title (whether as a reduction in basic pay under clause (i) of that section, a collection under clause (ii) of that section, or both) for basic educational assistance under section 3018C of that title.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3013, 3015 of this title.
+This section is referred to in sections 3013, 3015, 3017 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -10,7 +10,7 @@ The Secretary is authorized and directed to require that in connection with any 
 
 1967—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing, and “Secretary's” for “Commissioner's”.
 
-1961—Pub. L. 87–70 inserted references to sections 1715x and 1715y of this title, and substituted “or on thebasis of any other estimates of the Commissioner, that a written statement setting forth such estimate or estimates, as the case may be,” for “that a written statement setting forth such estimate”.
+1961—Pub. L. 87–70 inserted references to sections 1715x and 1715y of this title, and substituted “or on the basis of any other estimates of the Commissioner, that a written statement setting forth such estimate or estimates, as the case may be,” for “that a written statement setting forth such estimate”.
 
 1957—Pub. L. 85–104 inserted sentence authorizing estimate of replacement cost in lieu of an estimate of value where mortgage amount is based upon replacement cost.
 

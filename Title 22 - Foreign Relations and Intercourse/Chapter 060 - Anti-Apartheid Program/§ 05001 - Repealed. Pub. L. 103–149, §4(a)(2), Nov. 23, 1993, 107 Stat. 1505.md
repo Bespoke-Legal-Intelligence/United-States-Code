@@ -140,7 +140,7 @@ Continuation of UN Special Sanctions.—It is the sense of the Congress that the
 
 “(a)
 
-In General.—The President is authorized and encouraged to provide assistance under chapter 10 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2293 et seq.\] (relating to the Development Fund for Africa) or chapter 4 of part II of that Act \[22 U.S.C. 2346 et seq.\] (relating to the Economic Support Fund) to support the transition to nonracial democracy in South Africa. Such assistance shall—
+In General.—The President is authorized and encouraged to provide assistance under chapter 10 ofpart I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2293 et seq.\] (relating to the Development Fund for Africa) or chapter 4 of part II of that Act \[22 U.S.C. 2346 et seq.\] (relating to the Economic Support Fund) to support the transition to nonracial democracy in South Africa. Such assistance shall—
 
 &emsp;“(1) focus on building the capacity of disadvantaged South Africans to take their rightful place in the political, social, and economic systems of their country;
 
@@ -176,7 +176,7 @@ Exceptions.—Notwithstanding paragraph (1), assistance may be provided for—
 
 &emsp;&emsp;“(B) South African higher education institutions, particularly those traditionally disadvantaged by apartheid policies; and
 
-&emsp;&emsp;“(C) any other organization, entity, or activity if the President determines that the assistance wouldpromote the transition to nonracial democracy in South Africa.
+&emsp;&emsp;“(C) any other organization, entity, or activity if the President determines that the assistance would promote the transition to nonracial democracy in South Africa.
 
 > &emsp;Any determination under subparagraph (C) should be based on consultations with South African individuals and organizations representative of the majority population in South Africa (particularly consultations through the Transitional Executive Council) and consultations with the appropriate congressional committees.
 

@@ -108,7 +108,7 @@ Subsecs. (d), (e). Pub. L. 103–337, §1630(2), added subsec. (d) and struck ou
 
 1958—Subsec. (b)(1). Pub. L. 85–861, §33(c)(2), substituted “the Regular Army or the Army National Guard of the United States, or both” for “a regular or reserve component of the Army”.
 
-Subsec. (b)(2). Pub. L. 85–861, §33(c)(2), substituted “the Regular Air Force or the Air National Guard ofthe United States, or both” for “a regular or reserve component of the Air Force”.
+Subsec. (b)(2). Pub. L. 85–861, §33(c)(2), substituted “the Regular Air Force or the Air National Guard of the United States, or both” for “a regular or reserve component of the Air Force”.
 
 Subsecs. (d), (e). Pub. L. 85–861, §2(11), added subsecs. (d) and (e).
 

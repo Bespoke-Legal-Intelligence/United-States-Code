@@ -22,7 +22,7 @@
 
 (f) The Archivist shall make an annual report to the Congress concerning the disposal of records under this chapter, including general descriptions of the types of records disposed of and such other information as he considers appropriate to keep the Congress fully informed regarding the disposal of records under this chapter.
 
-(Added Pub. L. 91–287, §1, June 23, 1970, 84 Stat. 320; amended Pub. L. 95–440, §1, Oct. 10, 1978, 92 Stat. 1063; Pub. L. 98–497, title I, §107(b)(24), (25)(B), title II, §204, Oct. 19, 1984, 98 Stat. 2290,2294; Pub. L. 104–186, title II, §223(10), Aug. 20, 1996, 110 Stat. 1752.)
+(Added Pub. L. 91–287, §1, June 23, 1970, 84 Stat. 320; amended Pub. L. 95–440, §1, Oct. 10, 1978, 92 Stat. 1063; Pub. L. 98–497, title I, §107(b)(24), (25)(B), title II, §204, Oct. 19, 1984, 98 Stat. 2290, 2294; Pub. L. 104–186, title II, §223(10), Aug. 20, 1996, 110 Stat. 1752.)
 
 #### Amendments
 

@@ -1,8 +1,8 @@
 ### §44937. Prohibition on transferring duties and powers
 
-Except as specifically provided by law, the Administrator of the Federal Aviation Administration may not transfer a duty or power under section 44903(a), (b), (c), or (e), 44906, 44912, 44935, 44936, or 44938(b)(3) of this title to another department, agency, or instrumentality of the United States Government.
+Except as specifically provided by law, the Under Secretary of Transportation for Security may not transfer a duty or power under section 44903(a), (b), (c), or (e), 44906, 44912, 44935, 44936, or 44938(b)(3) of this title to another department, agency, or instrumentality of the United States Government.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1219; Pub. L. 103–429, §6(57), Oct. 31, 1994, 108 Stat. 4385.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1219; Pub. L. 103–429, §6(57), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 107–71, title I, §101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -29,6 +29,8 @@ The word “otherwise” is omitted as surplus. The word “assigned” is omitt
 This amends 49:44937 to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1219).
 
 #### Amendments
+
+2001—Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
 1994—Pub. L. 103–429 substituted “44906” for “44906(a)(1) or (b)”.
 

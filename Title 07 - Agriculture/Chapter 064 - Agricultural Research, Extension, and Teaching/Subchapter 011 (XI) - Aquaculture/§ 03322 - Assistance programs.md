@@ -2,7 +2,7 @@
 
 #### (a) Research and extension program
 
-The Secretary may develop and implement a cooperative research and extension program to encourage the development, management, and production of important aquatic food species within the several States and territories of the United States and to enhance further the safety of food products derived from the aquaculture industry, in accordance with the national aquaculture development plan, and revisions thereto,developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
+The Secretary may develop and implement a cooperative research and extension program to encourage the development, management, and production of important aquatic food species within the several States and territories of the United States and to enhance further the safety of food products derived from the aquaculture industry, in accordance with the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
 
 #### (b) Grants
 
@@ -16,7 +16,7 @@ The Secretary may make grants to—
 
 &emsp;(4) nonprofit private research institutions;
 
-> for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds. Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
+> for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds. Exceptin the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
 
 #### (c) Aquaculture development plans
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of the mines, wells, and other natural deposits listed in subsection (b), the allowance for depletion under section 611 shall be the percentage, specified in subsection (b), of the gross income from the property excluding from such gross income an amount equal to any rents or royalties paid or incurred by the taxpayer in respect of the property. Such allowance shall not exceed 50 percent (100 percent in the case of oil and gas properties) of the taxpayer's taxable income from the property (computed without allowance for depletion). For purposes of the preceding sentence, the allowable deductions taken into account with respect to expenses of miningin computing the taxable income from the property shall be decreased by an amount equal to so much of any gain which (1) is treated under section 1245 (relating to gain from disposition of certain depreciable property) as ordinary income, and (2) is properly allocable to the property. In no case shall the allowance for depletion under section 611 be less than it would be if computed without reference to this section.
+In the case of the mines, wells, and other natural deposits listed in subsection (b), the allowance for depletion under section 611 shall be the percentage, specified in subsection (b), of the gross income from the property excluding from such gross income an amount equal to any rents or royalties paid or incurred by the taxpayer in respect of the property. Such allowance shall not exceed 50 percent (100 percent in the case of oil and gas properties) of the taxpayer's taxable income from the property (computed without allowance for depletion). For purposes of the preceding sentence, the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property shall be decreased by an amount equal to so much of any gain which (1) is treated under section 1245 (relating to gain from disposition of certain depreciable property) as ordinary income, and (2) is properly allocable to the property. In no case shall the allowance for depletion under section 611 be less than it would be if computed without reference to this section.
 
 #### (b) Percentage depletion rates
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (4) Treatment processes considered as mining
 
-&emsp;The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect ofwhich he is entitled to a deduction for depletion under section 611:
+&emsp;The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611:
 
 &emsp;&emsp;(A) In the case of coal—cleaning, breaking, sizing, dust allaying, treating to prevent freezing, and loading for shipment;
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 &emsp;&emsp;(G) in the case of clay to which paragraph (5) or (6)(B) of subsection (b) applies—crushing, grinding, and separating the mineral from waste, but not including any subsequent process;
 
-&emsp;&emsp;(H) in the case of oil shale—extraction from the ground, crushing, loading into the retort, and retorting, but not hydrogenation, refining, or any other process subsequent to retorting; and
+&emsp;&emsp;(H) in the case of oil shale—extraction from the ground, crushing, loading into the retort, and retorting, but not hydrogenation,refining, or any other process subsequent to retorting; and
 
 &emsp;&emsp;(I) any other treatment process provided for by regulations prescribed by the Secretary which, with respect to the particular ore or mineral, is not inconsistent with the preceding provisions of this paragraph.
 
@@ -162,7 +162,7 @@ Subsec. (b)(3)(B). Pub. L. 89–809, §§207(a)(2), 209(a)(2), substituted “if
 
 Subsec. (b)(5). Pub. L. 89–809, §209(a)(1), added par. (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 89–809, §§208(a)(1), 209(a)(1), (3), (4), redesignated par. (5) as (6), struck out “mollusk shells (including clam shells and oyster shells),”, substituted “shale (except shale described in paragraph (5)), and stone (except stone described in paragraph (7))” for “shale, and stone, except stone described in paragraph (6)” in subpar. (A), and struck out “building or paving brick,” and “sewer pipe,” in subpar. (B). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 89–809, §§208(a)(1), 209(a)(1), (3), (4), redesignated par. (5) as (6), struck out “mollusk shells (including clam shells and oyster shells),”, substituted “shale (except shale described in paragraph (5)), and stone (except stone described in paragraph (7))” for “shale, and stone, except stone described in paragraph (6)” in subpar. (A), and struck out “buildingor paving brick,” and “sewer pipe,” in subpar. (B). Former par. (6) redesignated (7).
 
 Subsec. (b)(7). Pub. L. 89–809, §§208(a)(2), 209(a)(1), (5), redesignated par. (6) as (7) and inserted “mollusk shells (including clam shells and oyster shells),” after “marble,” and “(other than slate to which paragraph (5) applies)” after “any other such mineral”.
 
@@ -298,7 +298,7 @@ Pub. L. 87–312, Sept. 26, 1961, 75 Stat. 674, provided for the election of, an
 
 #### Election for Quartzite and Clay Used in Production of Refractory Products
 
-Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rateof depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
+Pub. L. 87–321, §2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
 
 #### Refund or Credit of Overpayments; Limitations; Interest
 

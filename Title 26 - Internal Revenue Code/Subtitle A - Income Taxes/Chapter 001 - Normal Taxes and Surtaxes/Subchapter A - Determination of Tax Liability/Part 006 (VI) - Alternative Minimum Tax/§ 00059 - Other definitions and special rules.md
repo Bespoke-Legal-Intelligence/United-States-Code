@@ -176,9 +176,9 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 
 (Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824.)
 
-#### Adjustment of Alternative Minimum Tax Exemption Amount for Tax Years Beginning in 2001
+#### Adjustment of Alternative Minimum Tax Exemption Amount for Tax Years Beginning in 2002
 
-<i>For adjustment of alternative minimum tax exemption amount under subsec. (j) of this section in the case of a child to whom the “kiddie tax” applies for tax years beginning in 2001, see section 3.04 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of alternative minimum tax exemption amount under subsec. (j) of this section in the case of a child to whom the “kiddie tax” applies for tax years beginning in 2002, see section 3.06 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Exception.—Subparagraph (A) shall not apply to any domestic corporation if—
 
 &emsp;“(i) more than 50 percent of the stock of such domestic corporation (by vote and value) is owned by United States persons who are not members of an affiliated group (as defined in section 1504 of such Code) which includes such corporation,
 
-&emsp;“(ii) all of the activities of such corporation are conducted in 1 foreign country with which the United States has an income tax treaty in effect and such treaty provides for the exchange of information between such foreign country and the United States,
+&emsp;“(ii) all of the activities of such corporation are conducted in 1 foreign country with which the United States has an income tax treaty in effect and suchtreaty provides for the exchange of information between such foreign country and the United States,
 
 &emsp;“(iii) all of the current earnings and profits of such corporation are distributed at least annually (other than current earnings and profits retained for normal maintenance or capital replacements or improvements of an existing business), and
 
@@ -280,13 +280,13 @@ Amendment by section 1601(b)(2)(D) of Pub. L. 104–188 applicable to taxable ye
 
 Amendment by section 1702(a)(1) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
-Amendment by section 1703(e) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, towhich such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by section 1703(e) of Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 Amendment by section 1704(m)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1704(m)(4) of Pub. L. 104–188, set out as a note under section 1 of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 31, 1992, see section 1915(d) of Pub. L. 102–486, set out as a note under section 56 of this title.
+Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 31, 1992, see section 1915(d) ofPub. L. 102–486, set out as a note under section 56 of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -66,7 +66,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;&emsp;(C) sections 2799aa and 2799aa–1 of this title and sections 5604 and 5605 of this title, to the extent that they apply to assistance to governments; and
 
-&emsp;&emsp;(D) section 1341 of title 31 (commonly referred to as the “Anti-Deficiency Act”), the Congressional Budget and ImpoundmentControl Act of 1974, the Balanced Budget and Emergency Deficit Control Act of 1985, and the Budget Enforcement Act of 1990.
+&emsp;&emsp;(D) section 1341 of title 31 (commonly referred to as the “Anti-Deficiency Act”), the Congressional Budget and Impoundment Control Act of 1974, the Balanced Budget and Emergency Deficit Control Act of 1985, and the Budget Enforcement Act of 1990.
 
 #### (2) Nuclear reactor safety and related activities
 
@@ -76,7 +76,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (1) Appropriate congressional committees
 
-&emsp;As used in this part, the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+&emsp;As used in this part, the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relationsand the Committee on Appropriations of the Senate.
 
 #### (2) Independent states of the former Soviet Union
 

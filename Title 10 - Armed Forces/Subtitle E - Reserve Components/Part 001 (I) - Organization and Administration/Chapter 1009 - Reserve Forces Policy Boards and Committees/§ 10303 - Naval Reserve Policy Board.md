@@ -10,5 +10,5 @@ Provisions similar to those in this section were contained in section 5251(c) of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 523, 641, 10301 of this title.
+This section is referred to in sections 523, 641, 10301, 12011 of this title.
 

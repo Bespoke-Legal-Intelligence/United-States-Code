@@ -14,7 +14,7 @@ The period during which payments are made to a State from a grant under section 
 
 (2) The Secretary may not make a grant under section 280c(a) of this title to a State unless the State agrees to make available, directly or through donations from public or private entities, non-Federal contributions toward the costs of services to be provided pursuant to such section in an amount equal to—
 
-&emsp;(A) for the first year of payments to the State from the grant, not less than $25 (in cashor in kind under subsection (c) of this section) for each $75 of Federal funds provided in the grant;
+&emsp;(A) for the first year of payments to the State from the grant, not less than $25 (in cash or in kind under subsection (c) of this section) for each $75 of Federal funds provided in the grant;
 
 &emsp;(B) for the second year of such payments to the State, not less than $35 (in cash or in kind under subsection (c) of this section) for each $65 of such Federal funds; and
 

@@ -26,7 +26,7 @@ Fees.—
 
 &emsp;“(1)
 
-Imposition and collection.—Under the pilot program, the Secretary of Agriculture shall also charge and collect fees from persons who harvest forest botanical products on National Forest System lands to recover all costs to the Department of Agriculture associated with the granting, modifying, or monitoring the authorization for harvest of the forest botanical products, including the costs of any environmental or other analysis.
+Imposition and collection.—Under the pilot program, the Secretary of Agriculture shall also charge and collect fees from persons who harvest forest botanical products on National Forest System lands to recover all costs to the Department of Agriculture associated with the granting, modifying, or monitoring the authorization for harvest of the forestbotanical products, including the costs of any environmental or other analysis.
 
 &emsp;“(2)
 

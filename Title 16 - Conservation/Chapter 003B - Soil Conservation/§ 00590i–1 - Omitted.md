@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, act July 22, 1942, ch. 516, 56 Stat. 691 (the Department of Agriculture Appropriation Act, 1943), which related to furnishing photographs, mosaics, and maps required by the Soil Conservation Service, was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Section, act July 22, 1942, ch. 516, 56 Stat. 691 (the Department of Agriculture Appropriation Act, 1943), which related to furnishing photographs, mosaics, andmaps required by the Soil Conservation Service, was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 July 1, 1941, ch. 267, 55 Stat. 434.
 

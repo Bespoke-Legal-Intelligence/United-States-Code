@@ -4,7 +4,7 @@
 
 (1) Upon receipt of information that foreign sales to the United States are being offered involving foreign official export credits which exceed limits under existing standstills, minutes, or practices to which the United States and other major exporting countries have agreed, irrespective of whether these credits are being offered by governments which are signatories to such standstills, minutes, or practices, the Secretary of the Treasury shall immediately conduct an inquiry to determine whether “noncompetitive financing” is being offered. The inquiry, and where appropriate, the determination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
 
-(2) If the Secretary determines that such foreign “noncompetitive” financing is being offered, the Secretary shall request the immediate withdrawal of such financing by the foreign official export credit agency involved.
+(2) If the Secretary determines that such foreign “noncompetitive” financing is being offered, the Secretary shall request the immediatewithdrawal of such financing by the foreign official export credit agency involved.
 
 (3) If the offer is not withdrawn or if there is no immediate response to the withdrawal request, the Secretary of the Treasury shall notify the country offering such financing and all parties to the proposed transaction that the Eximbank may be authorized to provide competing United States sellers with financing to match that available through the foreign official export financing entity.
 
@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 99–472, §15(a), amended subsec. (b) generally. Prior to 
 
 &emsp;“(2) the foreign noncompetitive financing has not been withdrawn on the date the Bank is authorized to provide competitive financing.”
 
-1983—Subsec. (a)(1). Pub. L. 98–181, §631(1), inserted provision that the inquiry, and where appropriate, thedetermination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
+1983—Subsec. (a)(1). Pub. L. 98–181, §631(1), inserted provision that the inquiry, and where appropriate, the determination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
 
 Subsec. (a)(2). Pub. L. 98–181, §633(b), substituted “the Secretary shall request” for “he shall request”.
 

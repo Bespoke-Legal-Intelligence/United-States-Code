@@ -18,6 +18,10 @@ R.S. §1821 derived from acts Mar. 2, 1867, ch. 167, §2, 14 Stat. 466; Mar. 3, 
 
 Section 7 of Pub. L. 96–152 provided that: “This Act \[enacting section 206–1 of this title and amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[Dec. 1979\].”
 
+#### Compensation of Assistant Chief of Capitol Police
+
+Pub. L. 107–117, div. B, §907(b), Jan. 10, 2002, 115 Stat. 2319, provided that: “The Assistant Chief of the Capitol Police shall receive compensation at a rate determined by the Capitol Police Board, but not to exceed $1,000 less than the annual salary for the chief of the United States Capitol Police.”
+
 #### Selection of Privates
 
 Similar provisions as to the selection of privates were contained in the following acts:
@@ -114,17 +118,17 @@ House Resolution No. 244, Ninety-seventh Congress, Dec. 16, 1981, made permanent
 
 House Resolution No. 229, Ninety-sixth Congress, May 4, 1979, made permanent law by section 101 of H.R. 7593, as passed the House of Representatives July 21, 1980, and incorporated by reference in section 101(c) of Pub. L. 96–536, Dec. 16, 1980, 94 Stat. 3167, to be effective as if enacted into law.
 
-House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law Sept. 30, 1978, Pub. L. 95–391, title I, §111, 92 Stat. 777.
+House Resolution No. 661, Ninety-fifth Congress, July 29, 1977, made permanent law Sept. 30, 1978, Pub. L. 95–391, title I, §111, 92 Stat. 777, and amended by Pub. L. 104–186, title II, §221(9)(A), Aug. 20, 1996, 110 Stat. 1749.
 
 House Resolution No. 360, Ninety-fourth Congress, Mar. 26, 1975, made permanent law July 25, 1975, Pub. L. 94–59, title II, §201, 89 Stat. 282.
 
 House Resolution No. 398, Ninety-third Congress, June 4, 1973, made permanent law Jan. 3, 1974, Pub. L. 93–245, ch. VI, 87 Stat. 1079.
 
-House Resolution No. 449, Ninety-second Congress, June 2, 1971, made permanent law Dec. 15, 1971, Pub. L. 92–184, ch. IV, 85 Stat. 636.
+House Resolution No. 449, Ninety-second Congress, June 2, 1971, made permanent law Dec. 15, 1971, Pub. L. 92–184, ch. IV, 85 Stat. 636, and amended by House Resolution No. 398, Ninety-third Congress, June 4, 1973, made permanent law Jan. 3, 1974, Pub. L. 93–245, ch. VI, 87 Stat. 1079.
 
 House Resolution No. 1293, Ninety-first Congress, Dec. 17, 1970, as readopted and continued with respect to the Ninety-second Congress without break in application and effect by section 1 of House Resolution No. 150, Ninety-second Congress, Jan. 25, 1971, made permanent law July 9, 1971, Pub. L. 92–51, §103, 85 Stat. 144.
 
-House Resolution No. 1211, Ninetieth Congress, Oct. 11, 1968, made permanent law Dec. 12, 1969, Pub. L. 91–145, §103, 83 Stat. 359.
+House Resolution No. 1211, Ninetieth Congress, Oct. 11, 1968, made permanent law Dec. 12, 1969, Pub. L. 91–145, §103, 83 Stat. 359, and amended by House Resolution No. 449, Ninety-second Congress, June 2, 1971, made permanent law Dec. 15, 1971, Pub. L. 92–184, ch. IV, 85 Stat. 636.
 
 House Resolution No. 464, Ninetieth Congress, May 11, 1967, made permanent law July 9, 1968, Pub. L. 90–392, title I, 82 Stat. 318.
 

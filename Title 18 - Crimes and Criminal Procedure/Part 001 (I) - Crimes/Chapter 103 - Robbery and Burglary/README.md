@@ -22,6 +22,10 @@
 
 1966—Pub. L. 89–654, §2(d), Oct. 14, 1966, 80 Stat. 904, substituted “Breaking or entering carrier facilities” for “Railroad car entered or seal broken” in item 2117.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 42 section 14135a.
+
 
 ---
 

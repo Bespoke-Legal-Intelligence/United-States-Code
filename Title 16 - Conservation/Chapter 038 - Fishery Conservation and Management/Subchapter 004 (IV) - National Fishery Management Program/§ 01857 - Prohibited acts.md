@@ -66,7 +66,7 @@ It is unlawful—
 
 &emsp;&emsp;(C) except as permitted under section 1856(c) of this title, in fish processing (as defined in paragraph (4)(A) of such section) within the internal waters of a State (as defined in paragraph (4)(B) of such section);
 
-&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of theUnited States, to transfer at sea directly or indirectly, or attempt to so transfer at sea, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone or within the boundaries of any State except to the extent that the foreign fishing vessel has been permitted under section 1824(d) of this title or section 1856(c) of this title to receive such fish;
+&emsp;(3) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer at sea directly or indirectly, or attempt to so transfer at sea, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone or within the boundaries of any State except to the extent that the foreign fishing vessel has been permitted under section 1824(d) of this title or section 1856(c) of this title to receive such fish;
 
 &emsp;(4) for any fishing vessel other than a vessel of the United States to operate, and for the owner or operator of a fishing vessel other than a vessel of the United States to operate such vessel, in the exclusive economic zone or within the boundaries of any State, if—
 
@@ -82,7 +82,7 @@ It is unlawful—
 
 #### Amendment of Section
 
-<i>Pub. L. 102–251, title III, §§301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
+<i>Pub. L. 102–251, title III, §§301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1,</i><i>1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
 
 <i>(1) in paragraph (1)(K), by inserting “or special areas” immediately after “exclusive economic zone”;</i>
 
@@ -130,7 +130,7 @@ Par. (5). Pub. L. 101–627, §113(b), added par. (5).
 
 Pars. (2)(B), (3). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) ofthis title” for “in fishing within the boundaries of any State”.
+1983—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
 
 Par. (2)(B). Pub. L. 97–453, §15(b)(B), inserted “, except recreational fishing permitted under section 1821(j) of this title,” after “in fishing”.
 

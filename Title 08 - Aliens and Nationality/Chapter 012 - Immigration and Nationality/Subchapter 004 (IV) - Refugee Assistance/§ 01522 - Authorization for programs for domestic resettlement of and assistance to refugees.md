@@ -12,7 +12,7 @@
 
 &emsp;(iii) local voluntary agency activities should be conducted in close cooperation and advance consultation with State and local governments.
 
-(2)(A) The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerning the sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
+(2)(A) The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerningthe sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
 
 (B) The Director shall develop and implement, in consultation with representatives of voluntary agencies and State and local governments, policies and strategies for the placement and resettlement of refugees within the United States.
 
@@ -20,7 +20,7 @@
 
 &emsp;(i) insure that a refugee is not initially placed or resettled in an area highly impacted (as determined under regulations prescribed by the Director after consultation with such agencies and governments) by the presence of refugees or comparable populations unless the refugee has a spouse, parent, sibling, son, or daughter residing in that area,
 
-&emsp;(ii) provide for a mechanism whereby representatives of local affiliates of voluntary agencies regularly (not less often than quarterly) meet with representatives of State andlocal governments to plan and coordinate in advance of their arrival the appropriate placement of refugees among the various States and localities, and
+&emsp;(ii) provide for a mechanism whereby representatives of local affiliates of voluntary agencies regularly (not less often than quarterly) meet with representatives of State and local governments to plan and coordinate in advance of their arrival the appropriate placement of refugees among the various States and localities, and
 
 &emsp;(iii) take into account—
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(v) for the identification of refugees who at the time of resettlement in the State are determined to have medical conditions requiring, or medical histories indicating a need for, treatment or observation and such monitoring of such treatment or observation as may be necessary;
 
-&emsp;(B) meet standards, goals, and priorities, developed by the Director, which assure the effective resettlement of refugees and which promote their economic self-sufficiency as quickly as possible and the efficient provision of services; and
+&emsp;(B) meet standards, goals, and priorities, developed by the Director, which assure the effective resettlement of refugees and whichpromote their economic self-sufficiency as quickly as possible and the efficient provision of services; and
 
 &emsp;(C) submit to the Director, within a reasonable period of time after the end of each fiscal year, a report on the uses of funds provided under this subchapter which the State is responsible for administering.
 
@@ -82,7 +82,7 @@
 
 &emsp;(C) data collection on the services provided and the results achieved.
 
-(8) The Attorney General shall provide the Director with information supplied by refugees inconjunction with their applications to the Attorney General for adjustment of status, and the Director shall compile, summarize, and evaluate such information.
+(8) The Attorney General shall provide the Director with information supplied by refugees in conjunction with their applications to the Attorney General for adjustment of status, and the Director shall compile, summarize, and evaluate such information.
 
 (9) The Secretary, the Secretary of Education, the Attorney General, and the Secretary of State may issue such regulations as each deems appropriate to carry out this subchapter.
 
@@ -182,7 +182,7 @@
 
 &emsp;(i) primarily for the purpose of facilitating refugee employment and achievement of self-sufficiency,
 
-&emsp;(ii) in a manner that does not supplant other refugee program funds and that assures that not less than 95 percent of the amount of the grant award is made available to the county or other local entity.
+&emsp;(ii) in a manner that does not supplant other refugee program funds and that assures thatnot less than 95 percent of the amount of the grant award is made available to the county or other local entity.
 
 #### (d) Assistance for refugee children
 
@@ -278,7 +278,7 @@
 
 The Renegotiation Act of 1951, referred to in subsec. (b)(3), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See note preceding section 1211 of Title 50, Appendix.
 
-Section 106 of the Job Training Partnership Act, referred to in subsec. (c)(1)(C), which was classified to section 1516 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Section 106 of the Job Training Partnership Act, referred to in subsec. (c)(1)(C), which was classified to section 1516 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Social Security Act, referred to in subsecs. (d)(2)(B)(i) and (e)(4), (5), (7)(B), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title IV of the Social Security Act are classified generally to part A (§601 et seq.) and part B (§620 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI and XIX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -364,7 +364,7 @@ Subsec. (b)(6). Pub. L. 97–363, §5(4), added par. (6).
 
 Subsec. (e)(1). Pub. L. 97–363, §6(a), struck out “up to” before “100 per centum”.
 
-Subsec. (e)(2). Pub. L. 97–363, §6(b), redesignated existing provisions of par. (2) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (iii), respectively, added cl. (ii), inserted provision that cash assistance be cut off, after opportunity for hearing, to a refugee who refuses appropriate offer of employment or participation in available social service program, and added subpar. (B).
+Subsec. (e)(2). Pub. L. 97–363, §6(b), redesignated existing provisions of par. (2) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (iii), respectively, added cl. (ii), inserted provision that cash assistance be cut off, after opportunity for hearing, to arefugee who refuses appropriate offer of employment or participation in available social service program, and added subpar. (B).
 
 Subsec. (e)(6). Pub. L. 97–363, §6(c), added par. (6).
 
@@ -376,7 +376,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier,see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1988 Amendment
 
@@ -458,7 +458,7 @@ Section 401 of Pub. L. 96–212, as amended by Pub. L. 104–208, div. C, title 
 
 #### Eligibility of Certain Cuban-Haitian Entrants Entering After Nov. 1, 1979
 
-Pub. L. 97–35, title V, §§543(a)(2), 547, Aug. 13, 1981, 95 Stat. 459, 463, eff. Oct. 1, 1981, provided that: “For purposes of the Refugee Education Assistance Act of 1980\[set out below\], an alien who entered the United States on or after November 1, 1979, and is in the United States with the immigration status of a Cuban-Haitian entrant (status pending) shall be considered to be an eligible participant (within the meaning of section 101(3) of such Act) but only during the 36-month period beginning with the first month in which the alien entered the United States as such an entrant or otherwise first acquired such status.”
+Pub. L. 97–35, title V, §§543(a)(2), 547, Aug. 13, 1981, 95 Stat. 459, 463, eff. Oct. 1, 1981, provided that: “For purposes of the Refugee Education Assistance Act of 1980 \[set out below\], an alien who entered the United States on or after November 1, 1979, and is in the United States with the immigration status of a Cuban-Haitian entrant (status pending) shall be considered to be an eligible participant (within the meaning of section 101(3) of such Act) but only during the 36-month period beginning with the first month in which the alien entered the United States as such an entrant or otherwise first acquired such status.”
 
 #### Cuban Refugees; Incarceration and Deportation of Certain Cubans
 
@@ -466,7 +466,7 @@ Pub. L. 96–533, title VII, §716, Dec. 16, 1980, 94 Stat. 3162, provided that:
 
 #### Refugee Education Assistance Act of 1980
 
-Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, Oct. 10, 1980, 94 Stat. 1820; Pub. L. 97–35, title V, §§543(a)(1), (b)–(d), 544–547, Aug. 13, 1981, 95 Stat. 459–463, eff. Oct. 1, 1981; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–382, title III, §391(a), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–208, div. C, title III, §308(d)(4)(T), Sept. 30, 1996, 110 Stat. 3009–619; Pub. L. 105–220, title II, §251(b)(1), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(5), (f)(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430, provided: “That this Act may be cited as the ‘Refugee Education Assistance Act of 1980’.
+Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, Oct. 10, 1980, 94 Stat. 1820; Pub. L. 97–35, title V, §§543(a)(1), (b)–(d), 544–547, Aug. 13, 1981, 95 Stat. 459–463, eff. Oct. 1, 1981; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–382, title III, §391(a), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–208, div. C, title III, §308(d)(4)(T), Sept. 30, 1996, 110 Stat. 3009–619; Pub. L. 105–220, title II, §251(b)(1), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(5), (f)(5)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–110, title X, §1076(d), Jan. 8, 2002, 115 Stat. 2091, provided: “That this Act may be cited as the ‘Refugee Education Assistance Act of 1980’.
 
 #### “Title I—General Provisions
 
@@ -474,7 +474,7 @@ I74“definitions
 
 “Sec. 101. As used in this Act—
 
-&emsp;“(1) The terms ‘elementary school’, ‘local educational agency’, ‘secondary school’, ‘State’, and ‘State educational agency’ have the meanings given such terms under section 14101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 8801\].
+&emsp;“(1) The terms ‘elementary school’, ‘local educational agency’, ‘secondary school’, ‘State’, and ‘State educational agency’ have the meanings given such terms under section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;“(2) The term ‘elementary or secondary nonpublic schools’ means schools which comply with the compulsory education laws of the State and which are exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\].
 
@@ -558,7 +558,7 @@ I74“state entitlements
 
 #### “payments and authorizations
 
-“Sec. 203. (a) The Secretary shall pay to each State educational agency having an application approved under section 202 the amount which that State is entitled to receive under this title.
+“Sec. 203. (a) The Secretary shall pay to each State educational agency having an application approvedunder section 202 the amount which that State is entitled to receive under this title.
 
 “(b) For fiscal year 1981 and for each subsequent fiscal year, there is authorized to be appropriated, in the manner specified under section 102, to make payments under this title an amount equal to the product of—
 
@@ -614,7 +614,7 @@ I74“state entitlements
 
 &emsp;&emsp;“(C) special materials and supplies;
 
-&emsp;“(2) additional basic instructional services which are directly attributable to the presence in the school district of eligible participants, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental of space, costs of transportation, or such other costs as are directly attributable to such additional basis instructional services; and
+&emsp;“(2) additional basic instructional services which are directly attributable to the presence in the school district of eligible participants, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental ofspace, costs of transportation, or such other costs as are directly attributable to such additional basis instructional services; and
 
 &emsp;“(3) special inservice training for personnel who will be providing instruction described in either paragraph (1) or (2) of this subsection.
 
@@ -626,7 +626,7 @@ I74“state entitlements
 
 &emsp;“(2) provide assurances that payments under this title will be used for purposes set forth in section 302;
 
-&emsp;“(3) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with section 301, subject to any reductions in payments for local educational agencies identified under paragraph (5) to take into account the funds described by section 301(b)(3) that are made available for educational, or education-related, services or activities for eligible participantsenrolled in elementary or secondary public schools under the jurisdiction of such agencies or elementary or secondary nonpublic schools within the districts served by such agencies;
+&emsp;“(3) provide assurances that such payments will be distributed among local educational agencies within that State in accordance with section 301, subject to any reductions in payments for local educational agencies identified under paragraph (5) to take into account the funds described by section 301(b)(3) that are made available for educational, or education-related, services or activities for eligible participants enrolled in elementary or secondary public schools under the jurisdiction of such agencies or elementary or secondary nonpublic schools within the districts served by such agencies;
 
 &emsp;“(4) provide assurances that the State educational agency will not finally disapprove in whole or in part any application for funds received under this title without first affording the local educational agency submitting an application for such funds reasonable notice and opportunity for a hearing;
 
@@ -668,13 +668,13 @@ I74“state entitlements
 
 “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 402 shall be considered to be payments under this title.
 
-“(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
+“(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction undersubsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
 #### “use of funds
 
 “Sec. 402. (a) Funds made available to State educational agencies under this title shall be used by such agencies to provide for programs of adult education and adult basic education to eligible participants aged 16 or older in need for such services who are not enrolled in elementary or secondary public schools under the jurisdiction of local educational agencies. Such programs may be provided directly by the State educational agency, or such agency may make grants, or enter into contracts, with local educational agencies, and other public or private nonprofit agencies, organizations, or institutions to provide for such programs. Funds available under this title may be used for—
 
-&emsp;“(1) programs of instruction of such adult refugees in basic reading and mathematics, in developmentand enhancement of necessary skills, and for the promotion of literacy among such refugees;
+&emsp;“(1) programs of instruction of such adult refugees in basic reading and mathematics, in development and enhancement of necessary skills, and for the promotion of literacy among such refugees;
 
 &emsp;“(2) administrative costs of planning and operating such programs of instruction;
 
@@ -750,7 +750,7 @@ I74“authorities for other programs and activities
 
 #### Consolidated Refugee Education Assistance Act
 
-Pub. L. 97–35, title V, subtitle C, §541, Aug. 13, 1981, 95 Stat. 458, provided that: “This subtitle \[repealing sections 239a and 1211b of Title 20, Education, amending the Refugee Education Assistance Act of 1980, set out above, and repealing provisions set out as a note under section 1211b of Title 20\] may be cited as the ‘Consolidated Refugee Education Assistance Act’.”
+Pub. L. 97–35, title V, §541, Aug. 13, 1981, 95 Stat. 458, provided that: “This subtitle \[subtitle C (§§541–546), repealing sections 239a and 1211b of Title 20, Education, amending the Refugee Education Assistance Act of 1980, set out above, and repealing provisions set out as a note under section 1211b of Title 20\] may be cited as the ‘Consolidated Refugee Education Assistance Act’.”
 
 #### Executive Order No. 12246
 

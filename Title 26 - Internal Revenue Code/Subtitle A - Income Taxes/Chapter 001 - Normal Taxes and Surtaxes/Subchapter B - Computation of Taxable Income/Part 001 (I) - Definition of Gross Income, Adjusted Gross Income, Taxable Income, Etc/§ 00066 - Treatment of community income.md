@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;The term “community property laws” means the community property laws of a State, a foreign country, or a possession of the United States.
 
-(Added Pub. L. 96–605, title I, §101(a), Dec. 28, 1980, 94 Stat. 3521; amended Pub. L. 98–369, div. A, title IV, §424(b)(1)–(2)(B), July 18, 1984, 98 Stat. 802, 803; Pub. L. 101–239, title VII, §7841(d)(8), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–206, title III, §3201(b), July 22, 1998, 112 Stat. 739.)
+(Added Pub. L. 96–605, title I, §101(a), Dec. 28, 1980, 94 Stat. 3521; amended Pub. L. 98–369, div.A, title IV, §424(b)(1)–(2)(B), July 18, 1984, 98 Stat. 802, 803; Pub. L. 101–239, title VII, §7841(d)(8), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–206, title III, §3201(b), July 22, 1998, 112 Stat. 739.)
 
 #### Amendments
 

@@ -40,7 +40,7 @@ Not later than one year after October 24, 1992, the Secretary, through the Energ
 
 #### (4) Establishment of data base
 
-&emsp;Not later than 18 months after October 24, 1992, the Secretary, through the Administratorof the Energy Information Administration, shall establish a data base comprised of information voluntarily reported under this subsection. Such information may be used by the reporting entity to demonstrate achieved reductions of greenhouse gases.
+&emsp;Not later than 18 months after October 24, 1992, the Secretary, through the Administrator of the Energy Information Administration, shall establish a data base comprised of information voluntarily reported under this subsection. Such information may be used by the reporting entity to demonstrate achieved reductions of greenhouse gases.
 
 #### (c) Consultation
 

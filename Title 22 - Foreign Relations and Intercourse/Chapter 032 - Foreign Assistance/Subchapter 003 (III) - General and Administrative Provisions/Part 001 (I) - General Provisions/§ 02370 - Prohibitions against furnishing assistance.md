@@ -34,7 +34,7 @@ Upon request of the President (within seventy days after such action referred to
 
 #### (f) Prohibition against assistance to Communist countries; conditions for waiver of restriction by President; enumeration of Communist countries; removal from application of provisions; preconditions
 
-(1) No assistance shall be furnished under this chapter, (except section 2174(b) of this title) toany Communist country. This restriction may not be waived pursuant to any authority contained in this chapter unless the President finds and promptly reports to Congress that: (A) such assistance is vital to the security of the United States; (B) the recipient country is not controlled by the international Communist conspiracy; and (C) such assistance will further promote the independence of the recipient country from international communism. For the purposes of this subsection, the phrase “Communist country” includes specifically, but is not limited to, the following countries:
+(1) No assistance shall be furnished under this chapter, (except section 2174(b) of this title) to any Communist country. This restriction may not be waived pursuant to any authority contained in this chapter unless the President finds and promptly reports to Congress that: (A) such assistance is vital to the security of the United States; (B) the recipient country is not controlled by the international Communist conspiracy; and (C) such assistance will further promote the independence of the recipient country from international communism. For the purposes of this subsection, the phrase “Communist country” includes specifically, but is not limited to, the following countries:
 
 &emsp;Democratic People's Republic of Korea,
 
@@ -76,13 +76,13 @@ The President shall consider denying assistance under this chapter to the govern
 
 #### (<i>o</i>) Exclusion from assistance of countries seizing or imposing penalties or sanctions against United States fishing vessels
 
-In determining whether or not to furnish assistance under this chapter, consideration shallbe given to excluding from such assistance any country which hereafter seizes, or imposes any penalty or sanction against, any United States fishing vessel on account of its fishing activities in international waters. The provisions of this subsection shall not be applicable in any case governed by international agreement to which the United States is a party.
+In determining whether or not to furnish assistance under this chapter, consideration shall be given to excluding from such assistance any country which hereafter seizes, or imposes any penalty or sanction against, any United States fishing vessel on account of its fishing activities in international waters. The provisions of this subsection shall not be applicable in any case governed by international agreement to which the United States is a party.
 
 #### (p) Repealed. Pub. L. 93–559, §44, Dec. 30, 1974, 88 Stat. 1813
 
 #### (q) Defaults in principal or interest payments on loans; meeting obligations under loans; notice to Congressional committees
 
-No assistance shall be furnished under this chapter to any country which is in default, during a period in excess of six calendar months, in payment to the United States of principal or interest on any loan made to such country under this chapter, unless such country meets its obligations under the loan or unless the President determines that assistance to such country is in the national interest and notifies the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of such determination.
+No assistance shall be furnished under this chapter to any country which is in default, during a period in excess of six calendar months, inpayment to the United States of principal or interest on any loan made to such country under this chapter, unless such country meets its obligations under the loan or unless the President determines that assistance to such country is in the national interest and notifies the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of such determination.
 
 #### (r) Liability for repayment of principal or interest on loans outstanding after September 19, 1966
 
@@ -126,7 +126,7 @@ In any decision to provide or continue to provide any program of assistance to a
 
 (3) The Secretary of State shall prepare and submit to the Congress each year a report containing a description of the amount of nuclear fuel and related assistance and credits provided by any country, or any entity of a country, to Cuba during the preceding year, including the terms of each transfer of such fuel, assistance, or credits.
 
-(Pub. L. 87–195, pt. III, §620, Sept. 4, 1961, 75 Stat. 444; Pub. L. 87–565, pt. III, §301(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. III, §301(e), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–633, pt. III,§301(d)–(g), Oct. 7, 1964, 78 Stat. 1013; Pub. L. 89–171, pt. III, §301(d), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(h), Sept. 19, 1966, 80 Stat. 805, 806; Pub. L. 90–137, pt. III, §301(f), Nov. 14, 1967, 81 Stat. 459; Pub. L. 90–554, pt. III, §301(c), Oct. 8, 1968, 82 Stat. 963; Pub. L. 91–175, pt. III, §303, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. III, §301, Feb. 7, 1972, 86 Stat. 27; Pub. L. 93–189, §15, Dec. 17, 1973, 87 Stat. 722; Pub. L. 93–559, §§22–24, 44, Dec. 30, 1974, 88 Stat. 1801, 1802, 1813; Pub. L. 94–104, §2(c)(1), (2), Oct. 6, 1975, 89 Stat. 509; Pub. L. 94–329, title IV, §403, title VI, §606, June 30, 1976, 90 Stat. 757, 768; Pub. L. 95–88, title I, §123(a), (b), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–92, §22(d), Aug. 4, 1977, 91 Stat. 624; Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737; Pub. L. 95–424, title I, §§102(g)(2)(F), 115(k), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 943, 952, 959; Pub. L. 96–533, title II, §203, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title VII, §§702, 707, 734(a)(1), (13), (b), Dec. 29, 1981, 95 Stat. 1544, 1546, 1560; Pub. L. 99–83, title XII, §§1202, 1203, Aug. 8, 1985, 99 Stat. 276, 277; Pub. L. 102–511, title IX, §901, Oct. 24, 1992, 106 Stat. 3355; Pub. L. 103–199, title VII, §705(3), Dec. 17, 1993, 107 Stat. 2328; Pub. L. 103–306, title V, §573, Aug. 23, 1994, 108 Stat. 1653; Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(a), Oct. 21, 1998, 112 Stat. 2681–850.)
+(Pub. L. 87–195, pt. III, §620, Sept. 4, 1961, 75 Stat. 444; Pub. L. 87–565, pt. III, §301(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. III, §301(e), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–633, pt. III, §301(d)–(g), Oct. 7, 1964, 78 Stat. 1013; Pub. L. 89–171, pt. III, §301(d), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(h), Sept. 19, 1966, 80 Stat. 805, 806; Pub. L. 90–137, pt. III, §301(f), Nov. 14, 1967, 81 Stat. 459; Pub. L. 90–554, pt. III, §301(c), Oct. 8, 1968, 82 Stat. 963; Pub. L. 91–175, pt. III, §303, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. III, §301, Feb. 7, 1972, 86 Stat. 27; Pub. L. 93–189, §15, Dec. 17, 1973, 87 Stat. 722; Pub. L. 93–559, §§22–24, 44, Dec. 30, 1974, 88 Stat. 1801, 1802, 1813; Pub. L. 94–104, §2(c)(1), (2), Oct. 6, 1975, 89 Stat. 509; Pub. L. 94–329, title IV, §403, title VI, §606, June 30, 1976, 90 Stat. 757, 768; Pub. L. 95–88, title I, §123(a), (b), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–92, §22(d), Aug. 4, 1977, 91 Stat. 624; Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737; Pub. L. 95–424, title I, §§102(g)(2)(F), 115(k), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 943, 952, 959; Pub.L. 96–533, title II, §203, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title VII, §§702, 707, 734(a)(1), (13), (b), Dec. 29, 1981, 95 Stat. 1544, 1546, 1560; Pub. L. 99–83, title XII, §§1202, 1203, Aug. 8, 1985, 99 Stat. 276, 277; Pub. L. 102–511, title IX, §901, Oct. 24, 1992, 106 Stat. 3355; Pub. L. 103–199, title VII, §705(3), Dec. 17, 1993, 107 Stat. 2328; Pub. L. 103–306, title V, §573, Aug. 23, 1994, 108 Stat. 1653; Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(a), Oct. 21, 1998, 112 Stat. 2681–850.)
 
 #### Amendment of Section
 
@@ -226,7 +226,7 @@ Subsecs. (s) to (u). Pub. L. 90–137, §301(f)(4), added subsecs. (s) to (u).
 
 1966—Subsec. (i). Pub. L. 89–583, §301(h)(1), provided for denial of assistance to any country which hereafter is officially represented at any international conference when that representation includes planning of activities involving insurrection or subversion, which military efforts, insurrection, or subversion are directed as described in the subsec., for Executive determination that such representation has ceased and for report to Congress that such representation will not be renewed or repeated.
 
-Subsec. (k). Pub. L. 89–583, §301(h)(2), made permanent the temporary (calendar year 1965) prohibition against the initiation of projects exceeding $100,000,000without the express approval of Congress and included military assistance amounting in the aggregate to more than $100,000,000.
+Subsec. (k). Pub. L. 89–583, §301(h)(2), made permanent the temporary (calendar year 1965) prohibition against the initiation of projects exceeding $100,000,000 without the express approval of Congress and included military assistance amounting in the aggregate to more than $100,000,000.
 
 Subsec. (<i>l</i>). Pub. L. 89–583, §301(h)(3), substituted “The President shall consider denying assistance under this chapter to the government of any less developed country which, after December 31, 1966,” for “No assistance shall be provided under this chapter after December 31, 1966, to the government of any less developed country which”.
 
@@ -308,13 +308,13 @@ Section 726(b), (c) of Pub. L. 97–113, as amended by Pub. L. 99–83, title VI
 
 &emsp;“(B) that the provision of such assistance, articles or services is in the national interest of the United States; and
 
-&emsp;“(C) that the Government of Chile is not aiding or abetting international terrorism and has taken appropriate steps to cooperate to bring to justice by all legal means available in the United States or Chilethose indicted by a United States grand jury in connection with the murders of Orlando Letelier and Ronni Moffitt.
+&emsp;“(C) that the Government of Chile is not aiding or abetting international terrorism and has taken appropriate steps to cooperate to bring to justice by all legal means available in the United States or Chile those indicted by a United States grand jury in connection with the murders of Orlando Letelier and Ronni Moffitt.
 
 “(c) The prohibition contained in subsection (b) does not prohibit the sale, or the licensing for export, of cartridge actuated devices, propellant actuated devices, components, parts, tools, technical manuals, time compliance to technical orders (TCTOs), or TCTO retrofits for aircraft of the F–5E/F, A/T–37, or C–130E/H type owned by the Chilean Air Force, so long as the items are provided only for purposes of enhancing the safety of the aircraft crew.”
 
 Section 406 of Pub. L. 94–329, as amended by Pub. L. 95–384, §§10(b)(5), 12(c)(5), Sept. 26, 1978, 92 Stat. 735, 737, set forth limitations with respect to assistance, sales and credit for Chile, prior to repeal by Pub. L. 97–113, title VII, §726(a), Dec. 29, 1981, 95 Stat. 1554.
 
-Section 25 of Pub. L. 93–559 provided that notwithstanding any other provision of law, the total amount of assistance that was to be made available for Chile under this chapter, and the Foreign Military Sales Act, section 2751 et seq. of this title, during fiscal year 1975, was not to exceed $25,000,000, none of which was to be made available for the purpose of providing military assistance (including security supporting assistance, sales, credit sales, or guaranties or the furnishing by any means of excess defense articles or items from stockpiles of the Department of Defense), prior to repeal by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
+Section 25 of Pub. L. 93–559 provided that notwithstanding any other provision of law, the total amount of assistance that was to be made available for Chileunder this chapter, and the Foreign Military Sales Act, section 2751 et seq. of this title, during fiscal year 1975, was not to exceed $25,000,000, none of which was to be made available for the purpose of providing military assistance (including security supporting assistance, sales, credit sales, or guaranties or the furnishing by any means of excess defense articles or items from stockpiles of the Department of Defense), prior to repeal by Pub. L. 97–113, title VII, §734(a)(8), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Assistance for El Salvador
 
@@ -402,13 +402,13 @@ Requirement for Resumption of Assistance.—Assistance prohibited under paragrap
 
 “(f)
 
-Establishment of a Fund for Cease-Fire Monitoring, Demobilization, and Transition to Peace.—\(1)
+Establishment of a Fund for Cease-Fire Monitoring, Demobilization, and Transition to Peace.—(1)
 
 Establishment of Fund.—There is hereby established in the Treasury of the United States a fund to assist with the costs of monitoring a permanent settlement of the conflict, including a cease-fire, and the demobilization of combatants in the conflict in El Salvador, and their transition to peaceful pursuits, which shall be known as the ‘Demobilization and Transition Fund’ (hereafter in this section referred to as the ‘Fund’). Amounts in this Fund shall be available for obligation and expenditure only upon notification by the President to the Congress that the Government of El Salvador and representatives of the FMLN have reached a permanent settlement of the conflict, including a final agreement on a cease-fire.
 
 “(2)
 
-Transfer of Certain Military Assistance Funds.—Upon notification of the Congress of a permanent settlement of the conflict, including an agreement on a cease-fire, or on September 30, 1991, if no such notification has occurred prior to that date, the President shall transfer to the Fund any United States military assistance funds withheld pursuant to subsection (d) of this section.
+Transfer of Certain Military Assistance Funds.—Upon notification of the Congress of a permanent settlement of the conflict, including an agreement on a cease-fire, or on September 30, 1991, if no such notification has occurred prior to that date, the Presidentshall transfer to the Fund any United States military assistance funds withheld pursuant to subsection (d) of this section.
 
 “(3)
 
@@ -476,7 +476,7 @@ Pub. L. 95–426, title VI, §613, Oct. 7, 1978, 92 Stat. 990, as amended by Pub
 
 #### Resumption of Military Assistance to Turkey; Determination and Certification to Congress by President of Military Cooperation as in Best Interests of United States and NATO
 
-Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, provided that: “Section 620(x) of the Foreign Assistance Act of 1961 \[subsec. (x) of this section\] shall be of no further force and effect upon the President's determination and certification to the Congress that the resumption of full military cooperation with Turkey is inthe national interest of the United States and in the interest of the North Atlantic Treaty Organization and that the Government of Turkey is acting in good faith to achieve a just and peaceful settlement of the Cyprus problem, the early peaceable return of refugees to their homes and properties, and continued removal of Turkish military troops from Cyprus in the context of a solution to the Cyprus problem, and the early serious resumption of inter-communal talks aimed at a just, negotiated settlement.”
+Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, provided that: “Section 620(x) of the Foreign Assistance Act of 1961 \[subsec. (x) of this section\] shall be of no further force and effect upon the President's determination and certification to the Congress that the resumption of full military cooperation with Turkey is in the national interest of the United States and in the interest of the North Atlantic Treaty Organization and that the Government of Turkey is acting in good faith to achieve a just and peaceful settlement of the Cyprus problem, the early peaceable return of refugees to their homes and properties, and continued removal of Turkish military troops from Cyprus in the context of a solution to the Cyprus problem, and the early serious resumption of inter-communal talks aimed at a just, negotiated settlement.”
 
 #### Determination and Certification Regarding Resumption of Full Military Cooperation With Turkey
 
@@ -562,7 +562,7 @@ Pub. L. 87–872, title I, §107, Oct. 23, 1962, 76 Stat. 1165.
 
 #### Restrictions on Assistance to Countries Selling, Furnishing or Permitting Ships To Carry Certain Items to North Vietnam
 
-Pub. L. 91–194, title I, §116, Feb. 9, 1970, 84 Stat. 10, forbid assistance under the Foreign Assistance Act of 1961, as amended, to any country that sold, furnished or permitted any ships under its registry to carry to North Vietnam certain enumerated items unless the President determined that the withholding of such assistance was contrary to the national interest of the United States and reported such determination to Congress.
+Pub. L. 91–194, title I, §116, Feb. 9, 1970, 84 Stat. 10, forbid assistance under the Foreign Assistance Act of1961, as amended, to any country that sold, furnished or permitted any ships under its registry to carry to North Vietnam certain enumerated items unless the President determined that the withholding of such assistance was contrary to the national interest of the United States and reported such determination to Congress.
 
 Similar provisions were contained in the following prior acts:
 

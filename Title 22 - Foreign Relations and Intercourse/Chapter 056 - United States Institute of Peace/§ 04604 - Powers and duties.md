@@ -40,7 +40,7 @@ The Institute, acting through the Board, may—
 
 (2) The Board shall establish an advisory panel composed of persons eminent in peacemaking, diplomacy, public affairs, and scholarship, and such advisory panel shall advise the Board during its consideration of the selection of the recipient of the award.
 
-(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate andthe Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any other matters relevant to making the award and emphasizing its prominence and significance.
+(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate and the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any other matters relevant to making the award and emphasizing its prominence and significance.
 
 #### (d) Description of extension and outreach activities
 
@@ -78,7 +78,7 @@ The Institute may fix the duties of its officers, employees, and agents, and est
 
 (3) Notwithstanding any other provision of this chapter, the Institute and the legal entity described in section 4603(c) of this title may not obtain any grant or contract or receive any gift or contribution from any private agency, organization, corporation or other legal entity, institution, or individual, except such Institute or legal entity may accept such a gift or contribution to—
 
-&emsp;(A) purchase, lease for purchase, or otherwise acquire, construct, improve, furnish, or maintain a suitable permanent headquarters, any related facility, or any site or sites for such facilities for the Institute and the legal entity described in section 4603(c) of this title; or
+&emsp;(A) purchase, lease for purchase, or otherwise acquire, construct, improve, furnish, or maintain a suitable permanent headquarters,any related facility, or any site or sites for such facilities for the Institute and the legal entity described in section 4603(c) of this title; or
 
 &emsp;(B) provide program-related hospitality, including such hospitality connected with the presentation of the Spark M. Matsunaga Medal of Peace.
 
@@ -104,7 +104,7 @@ The Institute may do any and all lawful acts and things necessary or desirable t
 
 #### (n) Legislative influencing-activity prohibition; communications or testimony of personnel
 
-The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by anyState or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
+The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
 
 #### (<i>o</i>) Administrative services from General Services Administration
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of Title 20, Education.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of Title 20, Education.
 
 #### Transfer of Functions
 

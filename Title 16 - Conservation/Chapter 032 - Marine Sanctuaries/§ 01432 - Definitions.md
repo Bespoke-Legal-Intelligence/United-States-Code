@@ -80,7 +80,7 @@ Par. (9). Pub. L. 102–587, §2102(d), added par. (9).
 
 1984—Pub. L. 98–498 amended section generally, substituting provisions which set forth definitions for provisions which related to the designation of sanctuaries. See section 1433 of this title.
 
-1982—Subsec. (d). Pub. L. 97–375 substituted provision that Secretary submit a biennial report on or beforeMarch 1 of every other year beginning in 1984 for provision that Secretary submit an annual report on or before November 1 of each year, and substituted reference to previous two fiscal years for reference to previous fiscal year.
+1982—Subsec. (d). Pub. L. 97–375 substituted provision that Secretary submit a biennial report on or before March 1 of every other year beginning in 1984 for provision that Secretary submit an annual report on or before November 1 of each year, and substituted reference to previous two fiscal years for reference to previous fiscal year.
 
 1980—Subsec. (b). Pub. L. 96–332, §2(1), designated existing provisions as par. (1), struck out provision that a designation under this section would become effective sixty days after it was published unless the Governor of any State involved, before the expiration of the sixty-day period, certified to Secretary that the designation, or a specified portion thereof, was unacceptable to his State, in which case the designated sanctuary would not include the area certified as unacceptable until such time as the Governor withdrew his certification of unacceptability, and added par. (2).
 

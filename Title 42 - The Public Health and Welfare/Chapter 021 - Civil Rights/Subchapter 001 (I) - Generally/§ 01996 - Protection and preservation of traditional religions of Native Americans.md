@@ -14,7 +14,7 @@ Pub. L. 95–341, as amended, which enacted this section, section 1996a of this 
 
 #### Federal Implementation of Protective and Preservation Functions Relating to Native American Religious Cultural Rights and Practices; Presidential Report to Congress
 
-Section 2 of Pub. L. 95–341 provided that the President direct the various Federal departments, agencies, and other instrumentalities responsible for administering relevant laws to evaluate their policies and procedures in consultation with native traditional religious leaders to determine changes necessary to preserve Native American religious cultural rights and practices and report to the Congress 12 months after Aug. 11, 1978.
+Section 2 of Pub. L. 95–341 provided that the President direct the various Federal departments, agencies,and other instrumentalities responsible for administering relevant laws to evaluate their policies and procedures in consultation with native traditional religious leaders to determine changes necessary to preserve Native American religious cultural rights and practices and report to the Congress 12 months after Aug. 11, 1978.
 
 #### Ex. Ord. No. 13007. Indian Sacred Sites
 
@@ -32,7 +32,7 @@ Section 1. <i>Accommodation of Sacred Sites</i>. (a) In managing Federal lands, 
 
 (iii) “Sacred site” means any specific, discrete, narrowly delineated location on Federal land that is identified by an Indian tribe, or Indian individual determined to be an appropriately authoritative representative of an Indian religion, as sacred by virtue of its established religious significance to, or ceremonial use by, an Indian religion; provided that the tribe or appropriately authoritative representative of an Indian religion has informed the agency of the existence of such a site.
 
-Sec. 2. <i>Procedures</i>. (a) Each executive branch agency with statutory or administrative responsibility for themanagement of Federal lands shall, as appropriate, promptly implement procedures for the purposes of carrying out the provisions of section 1 of this order, including, where practicable and appropriate, procedures to ensure reasonable notice is provided of proposed actions or land management policies that may restrict future access to or ceremonial use of, or adversely affect the physical integrity of, sacred sites. In all actions pursuant to this section, agencies shall comply with the Executive memorandum of April 29, 1994, “Government-to-Government Relations with Native American Tribal Governments” \[25 U.S.C. 450 note\].
+Sec. 2. <i>Procedures</i>. (a) Each executive branch agency with statutory or administrative responsibility for the management of Federal lands shall, as appropriate, promptly implement procedures for the purposes of carrying out the provisions of section 1 of this order, including, where practicable and appropriate, procedures to ensure reasonable notice is provided of proposed actions or land management policies that may restrict future access to or ceremonial use of, or adversely affect the physical integrity of, sacred sites. In all actions pursuant to this section, agencies shall comply with the Executive memorandum of April 29, 1994, “Government-to-Government Relations with Native American Tribal Governments” \[25 U.S.C. 450 note\].
 
 (b) Within 1 year of the effective date of this order, the head of each executive branch agency with statutory or administrative responsibility for the management of Federal lands shall report to the President, through the Assistant to the President for Domestic Policy, on the implementation of this order. Such reports shall address, among other things, (i) any changes necessary to accommodate access to and ceremonial use of Indian sacred sites; (ii) any changes necessary to avoid adversely affecting the physical integrity of Indian sacred sites; and (iii) procedures implemented or proposed to facilitate consultation with appropriate Indian tribes and religious leaders and the expeditious resolution of disputes relating to agency action on Federal lands that may adversely affect access to, ceremonial use of, or the physical integrity of sacred sites.
 
@@ -44,5 +44,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1996a, 11701 of this title; title 16 sections 410aaa–75, 460uu–47, 460jjj–1, 470ii, 543f, 698v–6; title 20 sections 4424, 7902.
+This section is referred to in sections 1996a, 11701 of this title; title 16 sections 410aaa–75, 460uu–47, 460jjj–1, 470ii, 543f, 698v–6; title 20 sections 4424, 7512.
 

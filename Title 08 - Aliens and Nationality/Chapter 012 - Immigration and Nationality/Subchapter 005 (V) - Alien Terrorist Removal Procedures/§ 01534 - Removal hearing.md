@@ -100,7 +100,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (ii) Revised summary
 
-&emsp;&emsp;&emsp;If the revised unclassified summary is not approved by the court within 15 days of its submission pursuant to subparagraph (C), the removal hearing shall be terminated unless the judge makes the findings under clause (iii).
+&emsp;&emsp;&emsp;If the revised unclassified summary is not approved by the court within 15 daysof its submission pursuant to subparagraph (C), the removal hearing shall be terminated unless the judge makes the findings under clause (iii).
 
 #### (iii) Findings
 
@@ -114,7 +114,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 &emsp;&emsp;If a judge makes the findings described in subparagraph (D)(iii)—
 
-&emsp;&emsp;&emsp;(i) if the alien involved is an alien lawfully admitted for permanent residence,the procedures described in subparagraph (F) shall apply; and
+&emsp;&emsp;&emsp;(i) if the alien involved is an alien lawfully admitted for permanent residence, the procedures described in subparagraph (F) shall apply; and
 
 &emsp;&emsp;&emsp;(ii) in all cases the special removal hearing shall continue, the Department of Justice shall cause to be delivered to the alien a statement that no summary is possible, and the classified information submitted in camera and ex parte may be used pursuant to this paragraph.
 
@@ -172,17 +172,25 @@ At no time shall the judge consider or provide for relief from removal based on�
 
 &emsp;(6) registry under section 1259 of this title.
 
-(June 27, 1952, ch. 477, title V, §504, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1260; amended Pub. L. 104–208, div. C, title III, §§308(g)(7)(B), (8)(B), 354(a)(1), (2), (b), 357, Sept. 30, 1996, 110 Stat. 3009–623, 3009–624, 3009–641 to 3009–644.)
+#### (<i>l</i>) Report on terrorist removal proceedings
+
+Not later than 3 months from December 28, 2001, the Attorney General shall submit to Congress a report concerning the effect and efficacy of alien terrorist removal proceedings, including the reasons why proceedings pursuant to this section have not been used by the Attorney General in the past and the effect on the use of these proceedings after the enactment of the USA PATRIOT Act of 2001 (Public Law 107–56).
+
+(June 27, 1952, ch. 477, title V, §504, as added Pub. L. 104–132, title IV, §401(a), Apr. 24, 1996, 110 Stat. 1260; amended Pub. L. 104–208, div. C, title III, §§308(g)(7)(B), (8)(B), 354(a)(1), (2), (b), 357, Sept. 30, 1996, 110 Stat. 3009–623, 3009–624, 3009–641 to 3009–644; Pub. L. 107–108, title III, §313, Dec. 28, 2001, 115 Stat. 1401.)
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1)(A), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1)(A), is Pub. L. 95–511, Oct. 25,1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 Section 1254a(e) of this title, referred to in subsec. (k)(4), was in the original a reference to “section 244(e)”, meaning section 244(e) of act June 27, 1952, which was classified to section 1254(e) of this title. Pub. L. 104–208, div. C, title III, §308(b)(7), Sept. 30, 1996, 110 Stat. 3009–615, repealed section 244 and renumbered section 244A as section 244, which is classified to section 1254a of this title. For provisions relating to voluntary departure, see section 1229c of this title.
 
+The USA PATRIOT Act of 2001, referred to in subsec. (<i>l</i>), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, known as the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+
 #### Amendments
+
+2001—Subsec. (<i>l</i>). Pub. L. 107–108 added subsec. (<i>l</i>).
 
 1996—Subsec. (e)(1)(A). Pub. L. 104–208, §354(b)(1)(A)(ii), substituted “pursuant to such Act” for “pursuant to the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)”.
 

@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;A corporation or partnership meets the $5,000,000 gross receipts test of this subsection for any prior taxable year if the average annual gross receipts of such entity for the 3-taxable-year period ending with such prior taxable year does not exceed $5,000,000.
+&emsp;A corporation or partnership meets the $5,000,000 gross receipts test of this subsectionfor any prior taxable year if the average annual gross receipts of such entity for the 3-taxable-year period ending with such prior taxable year does not exceed $5,000,000.
 
 #### (2) Aggregation rules
 

@@ -1,6 +1,6 @@
 ### §2642. Analysis of imported merchandise
 
-The Court of International Trade may order an analysis of imported merchandise and reportsthereon by laboratories or agencies of the United States or laboratories accredited by the Customs Service under section 499(b) of the Tariff Act of 1930.
+The Court of International Trade may order an analysis of imported merchandise and reports thereon by laboratories or agencies of the United States or laboratories accredited by the Customs Service under section 499(b) of the Tariff Act of 1930.
 
 (Added Pub. L. 96–417, title III, §301, Oct. 10, 1980, 94 Stat. 1737; amended Pub. L. 103–182, title VI, §684(a)(5), Dec. 8, 1993, 107 Stat. 2219.)
 

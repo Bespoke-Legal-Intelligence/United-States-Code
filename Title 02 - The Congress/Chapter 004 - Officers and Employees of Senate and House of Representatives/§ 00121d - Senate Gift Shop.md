@@ -10,11 +10,13 @@ All moneys received from sales and other services by the Senate Gift Shop shall 
 
 #### (c) Revolving fund
 
-There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Gift Shop Revolving Fund (hereafter referred to in this section as the “fund”). The fund shall consist of all amounts collected or received by the Secretary of the Senate from sales and services by the Senate Gift Shop. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate in connection with the operation of the Senate Gift Shop, including supplies, equipment, and other expenses. In addition, such moneys may be used by the Secretary of the Senate to reimburse the Senate appropriations account, appropriated under the heading “
+(1) There is established in the Treasury of the United States a revolving fund within the contingent fund of the Senate to be known as the Senate Gift Shop Revolving Fund (hereafter referred to in this section as the “fund”). The fund shall consist of all amounts collected or received by the Secretary of the Senate from sales and services by the Senate Gift Shop. All moneys in the fund shall be available without fiscal year limitation for disbursement by the Secretary of the Senate in connection with the operation of the Senate Gift Shop, including supplies, equipment, and other expenses. In addition, such moneys may be used by the Secretary of the Senate to reimburse the Senate appropriations account, appropriated under the heading “
 
 Salaries, Officers and Employees” and “
 
 Office of the Secretary”, for amounts used from such account to pay the salaries of employees of the Senate Gift Shop.
+
+(2) The Secretary of the Senate may transfer from the fund to the Capitol Preservation Fund the net profits (as determined by the Secretary) from sales of items by the Senate Gift Shop which are intended to benefit the Capitol Visitor Center.
 
 #### (d) Exception to prohibition of sale or solicitation on Capitol Grounds
 
@@ -36,7 +38,7 @@ Disbursements from the fund shall be made upon vouchers approved by the Secretar
 
 The Secretary of the Senate is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 102–392, title I, §2, Oct. 6, 1992, 106 Stat. 1706.)
+(Pub. L. 102–392, title I, §2, Oct. 6, 1992, 106 Stat. 1706; Pub. L. 107–68, title I, §107(a), Nov. 12, 2001, 115 Stat. 568.)
 
 #### References in Text
 
@@ -45,6 +47,14 @@ The Legislative Branch Appropriations Act, 1991, referred to in subsec. (f), is 
 #### Codification
 
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
+
+#### Amendments
+
+2001—Subsec. (c). Pub. L. 107–68 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–68, title I, §107(b), Nov. 12, 2001, 115 Stat. 569, provided that: “The amendments made by this section \[amending this section\] shall apply to fiscal years beginning before, on, or after the date of enactment of this Act \[Nov. 12, 2001\].”
 
 #### Additional Capitalization
 

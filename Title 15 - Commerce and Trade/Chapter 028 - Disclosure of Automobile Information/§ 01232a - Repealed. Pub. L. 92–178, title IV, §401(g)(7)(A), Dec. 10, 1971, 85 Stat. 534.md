@@ -4,5 +4,5 @@ Section, Pub. L. 91–614, title III, §304, Dec. 31, 1970, 84 Stat. 1845, relat
 
 #### Effective Date of Repeal
 
-Section 401(g)(7)(B) of Pub. L. 92–178 provided that: “Subparagraph (A) \[repealing this section\] shall apply to acts (or failures to act) after the date of the enactment of this Act \[Dec. 10, 1971\].”
+Section 401(g)(7)(B) of Pub. L. 92–178 provided that: “Subparagraph (A) \[repealing this section\] shall applyto acts (or failures to act) after the date of the enactment of this Act \[Dec. 10, 1971\].”
 

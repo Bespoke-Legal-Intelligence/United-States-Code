@@ -48,7 +48,7 @@ Section 541(c), (d) of Pub. L. 103–337, as amended by Pub. L. 104–106, div. 
 
 “(c)
 
-Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W–5.—(1) A regular warrantofficer of the Coast Guard who on the effective date of this section \[see Effective Date of 1994 Amendment note above\] is on active duty and—
+Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W–5.—(1) A regular warrant officer of the Coast Guard who on the effective date of this section \[see Effective Date of 1994 Amendment note above\] is on active duty and—
 
 &emsp;“(A) is serving in a temporary grade below chief warrant officer, W–5, that is higher than that warrant officer's permanent grade;
 
@@ -132,7 +132,7 @@ Reserves on Active Duty.—A reserve warrant officer who on the effective date o
 
 &emsp;“(3) holds a permanent grade higher than the temporary grade in which he is serving,
 
-> shall while continuing on active duty retain such temporary grade and shall be considered for promotion toa grade equal to or lower than his permanent grade as if such temporary grade is a permanent grade. If such warrant officer is recommended for promotion, his appointment to such grade shall be a temporary appointment.
+> shall while continuing on active duty retain such temporary grade and shall be considered for promotion to a grade equal to or lower than his permanent grade as if such temporary grade is a permanent grade. If such warrant officer is recommended for promotion, his appointment to such grade shall be a temporary appointment.
 
 #### “SEC. 1123. CONTINUATION OF CERTAIN TEMPORARY APPOINTMENTS OF NAVY AND MARINE CORPS WARRANT OFFICERS.
 

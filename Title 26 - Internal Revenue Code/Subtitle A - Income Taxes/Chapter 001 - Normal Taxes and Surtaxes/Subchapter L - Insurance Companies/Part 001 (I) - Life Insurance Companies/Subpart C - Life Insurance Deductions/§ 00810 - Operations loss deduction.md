@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (b)(2), the term “offset” means, with respect to any taxable year, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804) <sup>1</sup> or such year to zero.
+&emsp;For purposes of subsection (b)(2), the term “offset” means, with respect to any taxableyear, an amount equal to that increase in the operations loss deduction for the taxable year which reduces the life insurance company taxable income (computed without regard to paragraphs (2) and (3) of section 804) <sup>1</sup> or such year to zero.
 
 #### (2) Operations loss deduction
 
@@ -80,7 +80,7 @@ The Life Insurance Tax Act of 1984, referred to in subsec. (g), probably means t
 
 #### Prior Provisions
 
-A prior section 810, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I,§121(b)(5)(B), title IX, §907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, §211(a).
+A prior section 810, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I, §121(b)(5)(B), title IX, §907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
 #### Effective Date
 

@@ -272,7 +272,7 @@ Pub. L. 105–261, div. A, title IX, §906(f)(3), Oct. 17, 1998, 112 Stat. 2096,
 
 #### Effective Date of 1989 Amendment
 
-Section 341(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of the United States Soldiers’ and Airmen's Home made for fiscal years after fiscal year 1990.”
+Section 341(b) of Pub. L. 101–189 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of the United States Soldiers’ and Airmen's Home \[now Armed Forces Retirement Home—Washington\] made for fiscal years after fiscal year 1990.”
 
 #### Effective Date of 1984 Amendment
 
@@ -284,5 +284,5 @@ Section 725s of former Title 31 (now this section) was modified by act June 25, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1322 of this title; title 20 section 225; title 24 section 431; title 25 section 385a; title 33 section 770; title 38 sections 8502, 8520.
+This section is referred to in section 1322 of this title; title 20 section 225; title 25 section 385a; title 33 section 770; title 38 sections 8502, 8520.
 

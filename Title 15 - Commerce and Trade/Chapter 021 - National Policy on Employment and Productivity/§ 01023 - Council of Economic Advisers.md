@@ -6,7 +6,7 @@ There is created in the Executive Office of the President a Council of Economic 
 
 #### (b) Employment of specialists, experts, and other personnel
 
-The Council is authorized to employ, and fix the compensation of, such specialists and other experts as may be necessary for the carrying out of its functions under this chapter, without regard to the civil-service laws, and is authorized, subject to the civil-service laws, to employ such other officers and employees as may be necessary for carrying out its functions under this chapter, and fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+The Council is authorized to employ, and fix the compensation of, such specialists and otherexperts as may be necessary for the carrying out of its functions under this chapter, without regard to the civil-service laws, and is authorized, subject to the civil-service laws, to employ such other officers and employees as may be necessary for carrying out its functions under this chapter, and fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
 #### (c) Duties
 
@@ -88,7 +88,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### COUNCIL OF ECONOMIC ADVISERS
 
-The functions vested in the Council of Economic Advisers by section 4(b) of the Employment Act of 1946 (60Stat. 24) \[subsec. (b) of this section\], and so much of the functions vested in the Council by section 4(c) of that Act \[subsec. (c) of this section\] as consists of reporting to the President with respect to any function of the Council under the said section 4(c) \[subsec. (c) of this section\], are hereby transferred to the Chairman of the Council of Economic Advisers. The position of Vice Chairman of the Council of Economic Advisers, provided for in the last sentence of section 4(a) of the said Act \[subsec. (a) of this section\] is hereby abolished.
+The functions vested in the Council of Economic Advisers by section 4(b) of the Employment Act of 1946 (60 Stat. 24) \[subsec. (b) of this section\], and so much of the functions vested in the Council by section 4(c) of that Act \[subsec. (c) of this section\] as consists of reporting to the President with respect to any function of the Council under the said section 4(c) \[subsec. (c) of this section\], are hereby transferred to the Chairman of the Council of Economic Advisers. The position of Vice Chairman of the Council of Economic Advisers, provided for in the last sentence of section 4(a) of the said Act \[subsec. (a) of this section\] is hereby abolished.
 
 #### Executive Order No. 10802
 
@@ -102,13 +102,13 @@ Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet C
 
 Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1984, see Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1985, see Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1987, see Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1989, see Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the President's Economic Policy Advisory Board extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Ex. Ord. No. 12835. Establishment of National Economic Council
 

@@ -20,7 +20,7 @@ Reporting Requirements.—
 
 &emsp;(1)
 
-Initial lists.—A satellite carrier that makes secondary transmissions of a primary transmission made by a network station under subsection (a) shall, within 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name in alphabetical order and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a).
+Initial lists.—A satellite carrier that makes secondary transmissions of a primarytransmission made by a network station under subsection (a) shall, within 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name in alphabetical order and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a).
 
 &emsp;(2)
 
@@ -32,7 +32,7 @@ Use of subscriber information.—Subscriber information submitted by a satellite
 
 &emsp;(4)
 
-Requirements of networks.—The submission requirements of this subsection shallapply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register of Copyrights shall maintain for public inspection a file of all such documents.
+Requirements of networks.—The submission requirements of this subsection shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register of Copyrights shall maintain for public inspection a file of all such documents.
 
 (c)
 
@@ -138,5 +138,5 @@ Section effective July 1, 1999, see section 1000(a)(9) \[title I, §1012\] of Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 119, 501 of this title; title 47 sections 325, 338, 339.
+This section is referred to in sections 119, 501 of this title; title 47 sections 325, 338, 339, 1103.
 

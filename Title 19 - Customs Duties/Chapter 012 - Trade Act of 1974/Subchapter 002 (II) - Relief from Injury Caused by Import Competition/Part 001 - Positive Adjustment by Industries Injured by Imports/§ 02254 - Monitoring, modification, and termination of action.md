@@ -12,7 +12,7 @@
 
 #### (b) Reduction, modification, and termination of action
 
-(1) Action taken under section 2253 of this title may be reduced, modified, or terminated by the President (but not before the President receives the report required under subsection (a)(2)(A) of this section) if the President—
+(1) Action taken under section 2253 of this title may be reduced, modified, or terminated by thePresident (but not before the President receives the report required under subsection (a)(2)(A) of this section) if the President—
 
 &emsp;(A) after taking into account any report or advice submitted by the Commission under subsection (a) of this section and after seeking the advice of the Secretary of Commerce and the Secretary of Labor, determines, on the basis that either—
 
@@ -76,7 +76,7 @@ Amendment by section 302(c), (d) of Pub. L. 103–465 effective on the date on w
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
+Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
 
 #### Effective Date
 

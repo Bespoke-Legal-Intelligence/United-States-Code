@@ -48,7 +48,7 @@
 
 #### (1) Financial information
 
-&emsp;The Corporation shall continue to provide to the Director of the Office of Management andBudget financial information consistent with that contained in the reports that were being provided to the Director immediately prior to the effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;The Corporation shall continue to provide to the Director of the Office of Management and Budget financial information consistent with that contained in the reports that were being provided to the Director immediately prior to the effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (2) Financial operating plans and forecasts
 
@@ -140,5 +140,5 @@ Time for Submission.—The reports described in subsection (a) shall be transmit
 
 #### Report to Congress on Risk-Based Assessments
 
-Section 220(b)(1) of Pub. L. 101–73 directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable, Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
+Section 220(b)(1) of Pub. L. 101–73 directed Federal Deposit Insurance Corporation to study establishment of premium assessment categories related to types of risk to insurance funds and report its recommendations to Congress not later than Jan. 1, 1991; if Corporation recommended establishment of such a risk-based assessment plan, it was to provide a timetable and plan for implementation; and not later than 180 days after receipt of report and accompanying plan and timetable,Congress was to make a recommendation to Chairperson of Board of Directors regarding disposition of such plan and timetable.
 

@@ -2,13 +2,19 @@
 
 (a)
 
-Periodic Assessments.—The Administrator shall require each air carrier and airport (including the airport owner or operator in cooperation with the air carriers and vendors serving each airport) that provides for intrastate, interstate, or foreign air transportation to conduct periodic vulnerability assessments of the security systems of that air carrier or airport, respectively. The Administration shall perform periodic audits of such assessments.
+Periodic Assessments.—The Under Secretary of Transportation for Security shall require each air carrier and airport (including the airport owner or operator in cooperation with the air carriers and vendors serving each airport) that provides for intrastate, interstate, or foreign air transportation to conduct periodic vulnerability assessments of the security systems of that air carrier or airport, respectively. The Transportation Security Administration shall perform periodic audits of such assessments.
 
 (b)
 
-Investigations.—The Administrator shall conduct periodic and unannounced inspections of security systems of airports and air carriers to determine the effectiveness and vulnerabilities of such systems. To the extent allowable by law, the Administrator may provide for anonymous tests of those security systems.
+Investigations.—The Under Secretary shall conduct periodic and unannounced inspections of security systems of airports and air carriers to determine the effectiveness and vulnerabilities of such systems. To the extent allowable by law, the Under Secretary may provide for anonymous tests of those security systems.
 
-(Added Pub. L. 104–264, title III, §312(a), Oct. 9, 1996, 110 Stat. 3253.)
+(Added Pub. L. 104–264, title III, §312(a), Oct. 9, 1996, 110 Stat. 3253; amended Pub. L. 107–71, title I, §101(f)(3), (7), Nov. 19, 2001, 115 Stat. 603.)
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–71, §101(f)(3), substituted “Under Secretary of Transportation for Security” for “Administrator” in first sentence and “Transportation Security Administration” for “Administration” in second sentence.
+
+Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 
 #### Effective Date
 

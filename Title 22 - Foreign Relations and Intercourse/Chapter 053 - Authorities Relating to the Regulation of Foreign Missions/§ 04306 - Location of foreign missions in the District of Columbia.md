@@ -24,7 +24,7 @@ The location, replacement, or expansion of chanceries in the District of Columbi
 
 (2) Regulations issued to carry out this section shall provide appropriate opportunities for participation by the public in proceedings concerning the location, replacement, or expansion of chanceries.
 
-(3) A final determination concerning the location, replacement, or expansion of a chanceryshall be made not later than six months after the date of the filing of an application with respect to such location, replacement, or expansion. Such determination shall not be subject to the administrative proceedings of any other agency or official except as provided in this chapter.
+(3) A final determination concerning the location, replacement, or expansion of a chancery shall be made not later than six months after the date of the filing of an application with respect to such location, replacement, or expansion. Such determination shall not be subject to the administrative proceedings of any other agency or official except as provided in this chapter.
 
 #### (d) Criteria for determination
 

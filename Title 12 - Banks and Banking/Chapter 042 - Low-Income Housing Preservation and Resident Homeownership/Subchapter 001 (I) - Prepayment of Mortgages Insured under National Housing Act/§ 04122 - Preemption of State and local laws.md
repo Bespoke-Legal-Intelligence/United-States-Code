@@ -8,7 +8,7 @@ No State or political subdivision of a State may establish, continue in effect, 
 
 &emsp;(2) restricts or inhibits an owner of such housing from receiving the authorized annual return provided under section 4104 of this title;
 
-&emsp;(3) is inconsistent with any provision of this subchapter, including any law, regulation, or other restriction that limits or impairs the ability of any owner of eligible low income housing to receive incentives authorized underthis subchapter (including authorization to increase rental rates, transfer the housing, obtain secondary financing, or use the proceeds of any of such incentives); or
+&emsp;(3) is inconsistent with any provision of this subchapter, including any law, regulation, or other restriction that limits or impairs the ability of any owner of eligible low income housing to receive incentives authorized under this subchapter (including authorization to increase rental rates, transfer the housing, obtain secondary financing, or use the proceeds of any of such incentives); or
 
 &emsp;(4) in its applicability to low-income housing is limited only to eligible low-income housing for which the owner has prepaid the mortgage or terminated the insurance contract.
 

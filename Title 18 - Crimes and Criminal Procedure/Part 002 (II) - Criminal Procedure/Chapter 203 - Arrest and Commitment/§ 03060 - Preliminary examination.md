@@ -14,7 +14,7 @@
 
 (e) No preliminary examination in compliance with subsection (a) of this section shall be required to be accorded an arrested person, nor shall such arrested person be discharged from custody or from the requirement of bail or any other condition of release pursuant to subsection (d), if at any time subsequent to the initial appearance of such person before a judge or magistrate judge and prior to the date fixed for the preliminary examination pursuant to subsections (b) and (c) an indictment is returned or, in appropriate cases, an information is filed against such person in a court of the United States.
 
-(f) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. A copy of the record of such proceeding shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
+(f) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. A copy of the recordof such proceeding shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
 
 (June 25, 1948, ch. 645, 62 Stat. 819; Pub. L. 90–578, title III, §303(a), Oct. 17, 1968, 82 Stat. 1117; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

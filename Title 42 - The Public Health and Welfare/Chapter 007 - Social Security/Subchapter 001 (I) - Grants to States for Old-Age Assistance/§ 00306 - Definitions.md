@@ -2,7 +2,7 @@
 
 (a) For the purposes of this subchapter, the term “old-age assistance” means money payments to, or (if provided in or after the third month before the month in which the recipient makes application for assistance) medical care in behalf of or any type of remedial care recognized under State law in behalf of, needy individuals who are 65 years of age or older, but does not include any such payments to or care in behalf of any individual who is an inmate of a public institution (except as a patient in a medical institution). Such term also includes payments which are not included within the meaning of such term under the preceding sentence, but which would be so included except that they are made on behalf of such a needy individual to another individual who (as determined in accordance with standards prescribed by the Secretary) is interested in or concerned with the welfare of such needy individual, but only with respect to a State whose State plan approved under section 302 of this title includes provision for—
 
-&emsp;(1) determination by the State agency that such needy individual has, by reason of his physical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such assistance through payments described in this sentence;
+&emsp;(1) determination by the State agency that such needy individual has, by reason of hisphysical or mental condition, such inability to manage funds that making payments to him would be contrary to his welfare and, therefore, it is necessary to provide such assistance through payments described in this sentence;
 
 &emsp;(2) making such payments only in cases in which such payments will, under the rules otherwise applicable under the State plan for determining need and the amount of old-age assistance to be paid (and in conjunction with other income and resources), meet all the need of the individuals with respect to whom such payments are made;
 
@@ -12,7 +12,7 @@
 
 &emsp;(5) opportunity for a fair hearing before the State agency on the determination referred to in paragraph (1) of this subsection for any individual with respect to whom it is made.
 
-> At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not include money payments to an individual who has been absent from such State for a period in excess of 90 consecutive days (regardless of whether he has maintained his residencein such State during such period) until he has been present in such State for 30 consecutive days in the case of such an individual who has maintained his residence in such State during such period or 90 consecutive days in the case of any other such individual, and (ii) may include rent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of assistance under such plan.
+> At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not include money payments to an individual who has been absent from such State for a period in excess of 90 consecutive days (regardless of whether he has maintained his residence in such State during such period) until he has been present in such State for 30 consecutive days in the case of such an individual who has maintained his residence in such State during such period or 90 consecutive days in the case of any other such individual, and (ii) may include rent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of assistance under such plan.
 
 (b), (c) Repealed. Pub. L. 97–35, title XXI, §2184(a)(5), Aug. 13, 1981, 95 Stat. 817.
 
@@ -50,7 +50,7 @@ Subsecs. (b), (c). Pub. L. 86–778, §601(f)(2), added subsecs. (b) and (c).
 
 Amendment by section 221 of Pub. L. 89–97 applicable in the case of expenditures made after Dec. 31, 1965, under a State plan approved under this subchapter, see section 221(e) of Pub. L. 89–97, set out as a note under section 302 of this title.
 
-Section 222(c) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and section 1385 of this title\] shall apply in the case of expenditures under a State plan approved under title I or XVI of the Social Security Act \[subchapter I or XVI of this chapter\] with respect to care and services provided under such plan after June 1965.”
+Section 222(c) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and section 1385 of this title\] shall apply in thecase of expenditures under a State plan approved under title I or XVI of the Social Security Act \[subchapter I or XVI of this chapter\] with respect to care and services provided under such plan after June 1965.”
 
 Section 402(e) of Pub. L. 89–97 provided that: “The amendments made by this section \[amending this section and sections 1206, 1355, and 1385 of this title\] shall apply in the case of expenditures made after December 31, 1965, under a State plan approved under title I, X, XIV or XVI of the Social Security Act \[subchapter I, X, XIV, or XVI of this chapter\].”
 

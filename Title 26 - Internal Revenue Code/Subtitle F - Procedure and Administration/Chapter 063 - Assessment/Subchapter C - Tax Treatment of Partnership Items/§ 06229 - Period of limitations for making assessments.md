@@ -40,7 +40,7 @@ Except as otherwise provided in this section, the period for assessing any tax i
 
 #### (2) Substantial omission of income
 
-&emsp;If any partnership omits from gross income an amount properly includible therein which is in excess of 25 percent of the amount of gross income stated in its return, subsection (a) shall be applied by substituting “6 years” for “3 years”.
+&emsp;If any partnership omits from gross income an amount properly includible therein which is in excess of 25 percent of the amount of gross income stated in its return, subsection\(a) shall be applied by substituting “6 years” for “3 years”.
 
 #### (3) No return
 
@@ -116,7 +116,7 @@ Section 1233(d) of Pub. L. 105–34 provided that:
 
 Subsections (a)
 
-and (b).—The amendments made by subsections (a) and (b) \[amending this section\] shall apply to partnership taxable years with respect to which the period under section 6229 of the Internal Revenue Code of 1986 \[26 U.S.C. 6229\] for assessing tax has not expired on or before the date of the enactment of this Act \[Aug. 5, 1997\].
+and (b).—The amendments made by subsections (a) and (b) \[amending this section\] shall apply to partnership taxable years with respect to which the period under section 6229 of the Internal Revenue Code of 1986 \[26 U.S.C. 6229\] for assessing tax hasnot expired on or before the date of the enactment of this Act \[Aug. 5, 1997\].
 
 “(2)
 

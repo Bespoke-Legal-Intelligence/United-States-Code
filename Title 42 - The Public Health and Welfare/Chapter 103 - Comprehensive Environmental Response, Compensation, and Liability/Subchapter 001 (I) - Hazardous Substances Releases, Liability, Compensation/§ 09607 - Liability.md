@@ -30,7 +30,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 &emsp;(2) an act of war;
 
-&emsp;(3) an act or omission of a third party other than an employee or agent of the defendant, or than one whose act or omission occurs in connection with a contractual relationship, existing directly or indirectly, with the defendant (except where the sole contractual arrangement arises from a published tariff and acceptance for carriage by a common carrier by rail), if the defendant establishes by a preponderance of the evidence that (a) he exercised due care with respect to the hazardous substance concerned, taking into consideration the characteristics of such hazardous substance, in light of all relevant facts and circumstances, and (b) he took precautions against foreseeable acts or omissions of any such third party and the consequences that could foreseeably result from such acts or omissions; or
+&emsp;(3) an act or omission of a third party other than an employee or agent of the defendant, or than one whose act or omission occurs in connection with a contractual relationship, existing directly or indirectly, with the defendant (except where the sole contractual arrangement arises from a published tariff and acceptance for carriage by a common carrier by rail), if the defendant establishes by a preponderance of the evidence that (a) he exercised due care with respect to the hazardous substance concerned, taking into consideration the characteristics of such hazardous substance, in light of all relevant facts and circumstances, and (b) he took precautions against foreseeable acts or omissions of any such third partyand the consequences that could foreseeably result from such acts or omissions; or
 
 &emsp;(4) any combination of the foregoing paragraphs.
 
@@ -74,7 +74,7 @@ There shall be no liability under subsection (a) of this section for a person ot
 
 #### (1) Natural resources liability
 
-&emsp;In the case of an injury to, destruction of, or loss of natural resources under subparagraph (C) of subsection (a) of this section liability shall be to the United States Government and to any State for natural resources within the State or belonging to, managed by, controlled by, or appertaining to such State and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation: <i>Provided, however</i>, That no liability to the United States or State or Indian tribe shall be imposed under subparagraph (C) of subsection (a) of this section, where the party sought to be charged hasdemonstrated that the damages to natural resources complained of were specifically identified as an irreversible and irretrievable commitment of natural resources in an environmental impact statement, or other comparable environment analysis, and the decision to grant a permit or license authorizes such commitment of natural resources, and the facility or project was otherwise operating within the terms of its permit or license, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe. The President, or the authorized representative of any State, shall act on behalf of the public as trustee of such natural resources to recover for such damages. Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource. There shall be no recovery under the authority of subparagraph (C) of subsection (a) of this section where such damages and the release of a hazardous substance from which such damages resulted have occurred wholly before December 11, 1980.
+&emsp;In the case of an injury to, destruction of, or loss of natural resources under subparagraph (C) of subsection (a) of this section liabilityshall be to the United States Government and to any State for natural resources within the State or belonging to, managed by, controlled by, or appertaining to such State and to any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation: <i>Provided, however</i>, That no liability to the United States or State or Indian tribe shall be imposed under subparagraph (C) of subsection (a) of this section, where the party sought to be charged has demonstrated that the damages to natural resources complained of were specifically identified as an irreversible and irretrievable commitment of natural resources in an environmental impact statement, or other comparable environment analysis, and the decision to grant a permit or license authorizes such commitment of natural resources, and the facility or project was otherwise operating within the terms of its permit or license, so long as, in the case of damages to an Indian tribe occurring pursuant to a Federal permit or license, the issuance of that permit or license was not inconsistent with the fiduciary duty of the United States with respect to such Indian tribe. The President, or the authorized representative of any State, shall act on behalf of the public as trustee of such natural resources to recover for such damages. Sums recovered by the United States Government as trustee under this subsection shall be retained by the trustee, without further appropriation, for use only to restore, replace, or acquire the equivalent of such natural resources. Sums recovered by a State as trustee under this subsection shall be available for use only to restore, replace, or acquire the equivalent of such natural resources by the State. The measure of damages in any action under subparagraph (C) of subsection (a) of this section shall not be limited by the sums which can be used to restore or replace such resources. There shall be no double recovery under this chapter for natural resource damages, including the costs of damage assessment or restoration, rehabilitation, or acquisition for the same release and natural resource. There shall be no recovery under the authority of subparagraph (C) of subsection (a) of this section where such damages and the release of a hazardous substance from which such damages resulted have occurred wholly before December 11, 1980.
 
 #### (2) Designation of Federal and State officials
 
@@ -104,7 +104,7 @@ No person (including the United States or any State or Indian tribe) may recover
 
 #### (j) Obligations or liability pursuant to federally permitted release
 
-Recovery by any person (including the United States or any State or Indian tribe) for response costs or damages resulting from a federally permitted release shall be pursuant to existing law in lieu of this section. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance. In addition, costs of response incurred by the Federal Government in connection with a discharge specified in section 9601(10)(B) or (C) of this title shall be recoverable in an action brought under section 1319(b) of title 33.
+Recovery by any person (including the United States or any State or Indian tribe) for response costs or damages resulting from a federally permitted release shall be pursuant to existing law in lieu of this section. Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action of such hazardous substance.In addition, costs of response incurred by the Federal Government in connection with a discharge specified in section 9601(10)(B) or (C) of this title shall be recoverable in an action brought under section 1319(b) of title 33.
 
 #### (k) Transfer to, and assumption by, Post-Closure Liability Fund of liability of owner or operator of hazardous waste disposal facility in receipt of permit under applicable solid waste disposal law; time, criteria applicable, procedures, etc.; monitoring costs; reports
 
@@ -128,7 +128,7 @@ Recovery by any person (including the United States or any State or Indian tribe
 
 (5)
 
-Suspension of liability transfer.—Notwithstanding paragraphs (1), (2), (3), and (4) of this subsection and subsection (j) of section 9611 of this title, no liability shall be transferred to or assumed by the Post-Closure Liability Trust Fund established by section 9641 <sup>1</sup> of this title prior to completion of the study required under paragraph (6) of this subsection, transmission of a report of such study to both Houses of Congress, and authorization of such a transfer or assumption by Act of Congress following receipt of such study and report.
+Suspension of liability transfer.—Notwithstanding paragraphs (1), (2), (3), and (4) of this subsection and subsection (j) of section 9611 of this title, no liability shall be transferred to or assumed by the Post-Closure Liability TrustFund established by section 9641 <sup>1</sup> of this title prior to completion of the study required under paragraph (6) of this subsection, transmission of a report of such study to both Houses of Congress, and authorization of such a transfer or assumption by Act of Congress following receipt of such study and report.
 
 (6)
 
@@ -136,7 +136,7 @@ Study of options for post-closure program.—
 
 &emsp;(A)
 
-Study.—The Comptroller General shall conduct a study of options for a program for the management of the liabilities associated with hazardous waste treatment, storage, anddisposal sites after their closure which complements the policies set forth in the Hazardous and Solid Waste Amendments of 1984 and assures the protection of human health and the environment.
+Study.—The Comptroller General shall conduct a study of options for a program for the management of the liabilities associated with hazardous waste treatment, storage, and disposal sites after their closure which complements the policies set forth in the Hazardous and Solid Waste Amendments of 1984 and assures the protection of human health and the environment.
 
 &emsp;(B)
 
@@ -288,7 +288,7 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 &emsp;&emsp;&emsp;(ii) does not include—
 
-&emsp;&emsp;&emsp;&emsp;(I) a person that is acting as a fiduciary with respect to a trust or other fiduciary estate that was organized for the primary purpose of, or is engaged in, actively carrying on a trade or business for profit, unless the trust or other fiduciaryestate was created as part of, or to facilitate, 1 or more estate plans or because of the incapacity of a natural person; or
+&emsp;&emsp;&emsp;&emsp;(I) a person that is acting as a fiduciary with respect to a trust or other fiduciary estate that was organized for the primary purpose of, or is engaged in, actively carrying on a trade or business for profit, unless the trust or other fiduciary estate was created as part of, or to facilitate, 1 or more estate plans or because of the incapacity of a natural person; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a person that acquires ownership or control of a vessel or facility with the objective purpose of avoiding liability of the person or of any other person.
 
@@ -324,7 +324,217 @@ All costs and damages for which the owner or operator of a vessel is liable unde
 
 &emsp;&emsp;(B) a nonemployee agent or independent contractor retained by a fiduciary.
 
-(Pub. L. 96–510, title I, §107, Dec. 11, 1980, 94 Stat. 2781; Pub. L. 99–499, title I, §§107(a)–(d)(2), (e), (f), 127(b), (e), title II, §§201, 207(c), Oct. 17, 1986, 100 Stat. 1628–1630, 1692, 1693, 1705; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–429, §7(e)(2), Oct. 31, 1994, 108 Stat. 4390; Pub. L. 104–208, div. A, title II, §2502(a), Sept. 30, 1996, 110 Stat. 3009–462; Pub. L. 104–287, §6(j)(2), Oct. 11, 1996, 110 Stat. 3400.)
+#### (<i>o</i>) De micromis exemption
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), a person shall not be liable, with respect to response costs at a facility on the National Priorities List, under this chapter if liability is based solely on paragraph (3) or (4) of subsection (a) of this section, and the person, except as provided in paragraph (4) of this subsection, can demonstrate that—
+
+&emsp;&emsp;(A) the total amount of the material containing hazardous substances that the person arranged for disposal or treatment of, arranged with a transporter for transport for disposal or treatment of, or accepted for transport for disposal or treatment, at the facility was less than 110 gallons of liquid materials or less than 200 pounds of solid materials (or such greater or lesser amounts as the Administrator may determine by regulation); and
+
+&emsp;&emsp;(B) all or part of the disposal, treatment, or transport concerned occurred before April 1, 2001.
+
+#### (2) Exceptions
+
+&emsp;Paragraph (1) shall not apply in a case in which—
+
+&emsp;&emsp;(A) the President determines that—
+
+&emsp;&emsp;&emsp;(i) the materials containing hazardous substances referred to in paragraph (1) have contributed significantly or could contribute significantly, either individually or in the aggregate, to the cost of the response action or natural resource restoration with respect to the facility; or
+
+&emsp;&emsp;&emsp;(ii) the person has failed to comply with an information request or administrative subpoena issued by the President under this chapter or has impeded or is impeding, through action or inaction, the performance of a response action or natural resource restoration with respect to the facility; or
+
+&emsp;&emsp;(B) a person has been convicted of a criminal violation for the conduct to which the exemption would apply, and that conviction has not been vitiated on appeal or otherwise.
+
+#### (3) No judicial review
+
+&emsp;A determination by the President under paragraph (2)(A) shall not be subject to judicial review.
+
+#### (4) Nongovernmental third-party contribution actions
+
+&emsp;In the case of a contribution action, with respect to response costs at a facility on the National Priorities List, brought by a party, other than a Federal, State, or local government, under this chapter, the burden of proof shall be on the party bringing the action to demonstrate that the conditions described in paragraph (1)(A) and (B) of this subsection are not met.
+
+#### (p) Municipal solid waste exemption
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2) of this subsection, a person shall not be liable, with respect to response costs at a facility on the National Priorities List, under paragraph (3) of subsection (a) of this section for municipal solid waste disposed of at a facility if the person, except as provided in paragraph (5) of this subsection, can demonstrate that the person is—
+
+&emsp;&emsp;(A) an owner, operator, or lessee of residential property from which all of the person's municipal solid waste was generated with respect to the facility;
+
+&emsp;&emsp;(B) a business entity (including a parent, subsidiary, or affiliate of the entity) that, during its 3 taxable years preceding the dateof transmittal of written notification from the President of its potential liability under this section, employed on average not more than 100 full-time individuals, or the equivalent thereof, and that is a small business concern (within the meaning of the Small Business Act (15 U.S.C. 631 et seq.)) from which was generated all of the municipal solid waste attributable to the entity with respect to the facility; or
+
+&emsp;&emsp;(C) an organization described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title that, during its taxable year preceding the date of transmittal of written notification from the President of its potential liability under this section, employed not more than 100 paid individuals at the location from which was generated all of the municipal solid waste attributable to the organization with respect to the facility.
+
+> &emsp;For purposes of this subsection, the term “affiliate” has the meaning of that term provided in the definition of “small business concern” in regulations promulgated by the Small Business Administration in accordance with the Small Business Act (15 U.S.C. 631 et seq.).
+
+#### (2) Exception
+
+&emsp;Paragraph (1) shall not apply in a case in which the President determines that—
+
+&emsp;&emsp;(A) the municipal solid waste referred to in paragraph (1) has contributed significantly or could contribute significantly, either individually or in the aggregate, to the cost of the response action or natural resource restoration with respect to the facility;
+
+&emsp;&emsp;(B) the person has failed to comply with an information request or administrative subpoena issued by the President under this chapter; or
+
+&emsp;&emsp;(C) the person has impeded or is impeding, through action or inaction, the performance of a response action or natural resource restoration with respect to the facility.
+
+#### (3) No judicial review
+
+&emsp;A determination by the President under paragraph (2) shall not be subject to judicial review.
+
+#### (4) Definition of municipal solid waste
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this subsection, the term “municipal solid waste” means waste material—
+
+&emsp;&emsp;&emsp;(i) generated by a household (including a single or multifamily residence); and
+
+&emsp;&emsp;&emsp;(ii) generated by a commercial, industrial, or institutional entity, to the extent that the waste material—
+
+&emsp;&emsp;&emsp;&emsp;(I) is essentially the same as waste normally generated by a household;
+
+&emsp;&emsp;&emsp;&emsp;(II) is collected and disposed of with other municipal solid waste as part of normal municipal solid waste collection services; and
+
+&emsp;&emsp;&emsp;&emsp;(III) contains a relative quantity of hazardous substances no greater than the relative quantity of hazardous substances contained in waste material generated by a typical single-family household.
+
+#### (B) Examples
+
+&emsp;&emsp;Examples of municipal solid waste under subparagraph (A) include food and yard waste, paper, clothing, appliances, consumer product packaging, disposable diapers, office supplies, cosmetics, glass and metal food containers, elementary or secondary school science laboratory waste, and household hazardous waste.
+
+#### (C) Exclusions
+
+&emsp;&emsp;The term “municipal solid waste” does not include—
+
+&emsp;&emsp;&emsp;(i) combustion ash generated by resource recovery facilities or municipal incinerators; or
+
+&emsp;&emsp;&emsp;(ii) waste material from manufacturing or processing operations (including pollution control operations) that is not essentially the same as waste normally generated by households.
+
+#### (5) Burden of proof
+
+&emsp;In the case of an action, with respect to response costs at a facility on the National Priorities List, brought under this section or section 9613 of this title by—
+
+&emsp;&emsp;(A) a party, other than a Federal, State, or local government, with respect to municipal solid waste disposed of on or after April 1, 2001; or
+
+&emsp;&emsp;(B) any party with respect to municipal solid waste disposed of before April 1, 2001, the burden of proof shall be on the party bringing the action to demonstrate that the conditions described in paragraphs (1) and (4) for exemption for entities and organizations described in paragraph (1)(B) and (C) are not met.
+
+#### (6) Certain actions not permitted
+
+&emsp;No contribution action may be brought by a party, other than a Federal, State, or local government, under this chapter with respect to circumstances described in paragraph (1)(A).
+
+#### (7) Costs and fees
+
+&emsp;A nongovernmental entity that commences, after January 11, 2002, a contribution action under this chapter shall be liable to the defendant for all reasonable costs of defending the action, including all reasonable attorney's fees and expert witness fees, if the defendant is not liable for contribution based on an exemption under this subsection or subsection (<i>o</i>) of this section.
+
+#### (q) Contiguous properties
+
+#### (1) Not considered to be an owner or operator
+
+#### (A) In general
+
+&emsp;&emsp;A person that owns real property that is contiguous to or otherwise similarly situated with respect to, and that is or may be contaminated by a release or threatened release of a hazardous substance from, real property that is not owned by that person shall not be considered to be an owner or operator of a vessel or facility under paragraph (1) or (2) of subsection (a) of this section solely by reason of the contamination if—
+
+&emsp;&emsp;&emsp;(i) the person did not cause, contribute, or consent to the release or threatened release;
+
+&emsp;&emsp;&emsp;(ii) the person is not—
+
+&emsp;&emsp;&emsp;&emsp;(I) potentially liable, or affiliated with any other person that is potentially liable, for response costs at a facility through any direct or indirect familial relationship or any contractual, corporate, or financial relationship (other than a contractual, corporate, or financial relationship that is created by a contract for the sale of goods or services); or
+
+&emsp;&emsp;&emsp;&emsp;(II) the result of a reorganization of a business entity that was potentially liable;
+
+&emsp;&emsp;&emsp;(iii) the person takes reasonable steps to—
+
+&emsp;&emsp;&emsp;&emsp;(I) stop any continuing release;
+
+&emsp;&emsp;&emsp;&emsp;(II) prevent any threatened future release; and
+
+&emsp;&emsp;&emsp;&emsp;(III) prevent or limit human, environmental, or natural resource exposure to any hazardous substance released on or from property owned by that person;
+
+&emsp;&emsp;&emsp;(iv) the person provides full cooperation, assistance, and access to persons that are authorized to conduct response actions or natural resource restoration at the vessel or facility from which there has been a release or threatened release (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response action or natural resource restoration at the vessel or facility);
+
+&emsp;&emsp;&emsp;(v) the person—
+
+&emsp;&emsp;&emsp;&emsp;(I) is in compliance with any land use restrictions established or relied on in connection with the response action at the facility; and
+
+&emsp;&emsp;&emsp;&emsp;(II) does not impede the effectiveness or integrity of any institutional control employed in connection with a response action;
+
+&emsp;&emsp;&emsp;(vi) the person is in compliance with any request for information or administrative subpoena issued by the President under this chapter;
+
+&emsp;&emsp;&emsp;(vii) the person provides all legally required notices with respect to the discovery or release of any hazardous substances at the facility; and
+
+&emsp;&emsp;&emsp;(viii) at the time at which the person acquired the property, the person—
+
+&emsp;&emsp;&emsp;&emsp;(I) conducted all appropriate inquiry within the meaning of section 9601(35)(B) of this title with respect to the property; and
+
+&emsp;&emsp;&emsp;&emsp;(II) did not know or have reason to know that the property was or could be contaminated by a release or threatened release of one or more hazardous substances from other real property not owned or operated by the person.
+
+#### (B) Demonstration
+
+&emsp;&emsp;To qualify as a person described in subparagraph (A), a person must establish by a preponderance of the evidence that the conditions in clauses (i) through (viii) of subparagraph (A) have been met.
+
+#### (C) Bona fide prospective purchaser
+
+&emsp;&emsp;Any person that does not qualify as a person described in this paragraph because the person had, or had reason to have, knowledge specified in subparagraph (A)(viii) at the time of acquisition of the real property may qualify as a bona fide prospective purchaser under section 9601(40) of this title if the person is otherwise described in that section.
+
+#### (D) Ground water
+
+&emsp;&emsp;With respect to a hazardous substance from one or more sources that are not on the property of a person that is a contiguous property owner that enters ground water beneath the property of the person solely as a result of subsurface migration in an aquifer, subparagraph (A)(iii) shall not require the person to conduct ground water investigations or to install ground water remediation systems, except in accordance with the policy of the Environmental Protection Agency concerning owners of property containing contaminated aquifers, dated May 24, 1995.
+
+#### (2) Effect of law
+
+&emsp;With respect to a person described in this subsection, nothing in this subsection—
+
+&emsp;&emsp;(A) limits any defense to liability that may be available to the person under any other provision of law; or
+
+&emsp;&emsp;(B) imposes liability on the person that is not otherwise imposed by subsection (a) of this section.
+
+#### (3) Assurances
+
+&emsp;The Administrator may—
+
+&emsp;&emsp;(A) issue an assurance that no enforcement action under this chapter will be initiated against a person described in paragraph (1); and
+
+&emsp;&emsp;(B) grant a person described in paragraph (1) protection against a cost recovery or contribution action under section 9613(f) of this title.
+
+#### (r) Prospective purchaser and windfall lien
+
+#### (1) Limitation on liability
+
+&emsp;Notwithstanding subsection (a)(1) of this section, a bona fide prospective purchaser whose potential liability for a release or threatened release is based solely on the purchaser's being considered to be an owner or operator of a facility shall not be liable as long as the bona fide prospective purchaser does not impede the performance of a response action or natural resource restoration.
+
+#### (2) Lien
+
+&emsp;If there are unrecovered response costs incurred by the United States at a facility for which an owner of the facility is not liable by reason of paragraph (1), and if each of the conditions described in paragraph (3) is met, theUnited States shall have a lien on the facility, or may by agreement with the owner, obtain from the owner a lien on any other property or other assurance of payment satisfactory to the Administrator, for the unrecovered response costs.
+
+#### (3) Conditions
+
+&emsp;The conditions referred to in paragraph (2) are the following:
+
+#### (A) Response action
+
+&emsp;&emsp;A response action for which there are unrecovered costs of the United States is carried out at the facility.
+
+#### (B) Fair market value
+
+&emsp;&emsp;The response action increases the fair market value of the facility above the fair market value of the facility that existed before the response action was initiated.
+
+#### (4) Amount; duration
+
+&emsp;A lien under paragraph (2)—
+
+&emsp;&emsp;(A) shall be in an amount not to exceed the increase in fair market value of the property attributable to the response action at the time of a sale or other disposition of the property;
+
+&emsp;&emsp;(B) shall arise at the time at which costs are first incurred by the United States with respect to a response action at the facility;
+
+&emsp;&emsp;(C) shall be subject to the requirements of subsection (<i>l</i>)(3) of this section; and
+
+&emsp;&emsp;(D) shall continue until the earlier of—
+
+&emsp;&emsp;&emsp;(i) satisfaction of the lien by sale or other means; or
+
+&emsp;&emsp;&emsp;(ii) notwithstanding any statute of limitations under section 9613 of this title, recovery of all response costs incurred at the facility.
+
+(Pub. L. 96–510, title I, §107, Dec. 11, 1980, 94 Stat. 2781; Pub. L. 99–499, title I, §§107(a)–(d)(2), (e), (f), 127(b), (e), title II, §§201, 207(c), Oct. 17, 1986, 100 Stat. 1628–1630, 1692, 1693, 1705; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–429, §7(e)(2), Oct. 31, 1994, 108 Stat. 4390; Pub. L. 104–208, div. A, title II, §2502(a), Sept. 30, 1996, 110 Stat. 3009–462; Pub. L. 104–287, §6(j)(2), Oct. 11, 1996, 110 Stat. 3400; Pub. L. 107–118, title I, §102(a), title II, §§221, 222(b), Jan. 11, 2002, 115 Stat. 2356, 2368, 2371.)
 
 #### References in Text
 
@@ -342,7 +552,15 @@ Subchapter II of this chapter, referred to in subsec. (k)(4)(A) and (C), was in 
 
 The Hazardous and Solid Waste Amendments of 1984, referred to in subsec. (k)(6)(A), (E), is Pub. L. 98–616, Nov. 8, 1984, 98 Stat. 3221. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 6901 of this title and Tables.
 
+The Small Business Act, referred to in subsec. (p)(1), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+
 #### Amendments
+
+2002—Subsecs. (<i>o</i>), (p). Pub. L. 107–118, §102(a), added subsecs. (<i>o</i>) and (p).
+
+Subsec. (q). Pub. L. 107–118, §221, added subsec. (q).
+
+Subsec. (r). Pub. L. 107–118, §222(b), added subsec. (r).
 
 1996—Subsec. (c)(1)(C). Pub. L. 104–287 substituted “section 60101(a) of title 49” for “the Hazardous Liquid Pipeline Safety Act of 1979”.
 
@@ -366,7 +584,7 @@ Subsec. (c)(1)(B). Pub. L. 99–499, §127(b)(4), inserted “other than an inci
 
 Subsec. (c)(1)(D). Pub. L. 99–499, §127(b)(5), inserted “any incineration vessel or” before “any facility”.
 
-Subsec. (d). Pub. L. 99–499, §107(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No person shall be liable under this subchapter for damages as a result of actions taken or omitted in the course of rendering care, assistance, or advice in accordance with the national contingency plan or at the direction of an onscene coordinator appointed under such plan, with respect to an incident creating a danger to public health or welfare or the environment as a result of any release of a hazardous substance or the threat thereof. This subsection shall not preclude liability for damages as the result of gross negligence or intentional misconduct on the part of such person. For the purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.”
+Subsec. (d). Pub. L. 99–499, §107(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No person shall be liable under this subchapter for damages as a result of actions taken or omitted in the course of rendering care, assistance, oradvice in accordance with the national contingency plan or at the direction of an onscene coordinator appointed under such plan, with respect to an incident creating a danger to public health or welfare or the environment as a result of any release of a hazardous substance or the threat thereof. This subsection shall not preclude liability for damages as the result of gross negligence or intentional misconduct on the part of such person. For the purposes of the preceding sentence, reckless, willful, or wanton misconduct shall constitute gross negligence.”
 
 Subsec. (f)(1). Pub. L. 99–499, §107(d)(1), designated existing provisions as par. (1) and added heading.
 
@@ -402,6 +620,10 @@ Subsec. (m). Pub. L. 99–499, §107(f), added subsec. (m).
 
 Amendment by Pub. L. 104–208 applicable with respect to any claim that has not been finally adjudicated as of Sept. 30, 1996, see section 2505 of Pub. L. 104–208, set out as a note under section 6991b of this title.
 
+#### Effect on Concluded Actions
+
+Pub. L. 107–118, title I, §103, Jan. 11, 2002, 115 Stat. 2360, provided that: “The amendments made by this title \[amending this section and section 9622 of this title\] shall not apply to or in any way affect any settlement lodged in, or judgment issued by, a United States District Court, or any administrative settlement or order entered into or issued by the United States or any State, before the date of the enactment of this Act \[Jan. 11, 2002\].”
+
 #### Recovery of Costs
 
 Pub. L. 104–303, title II, §209, Oct. 12, 1996, 110 Stat. 3681, provided that: “Amounts recovered under section 107 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9607) for any response action taken by the Secretary in support of the civil works program of the Department of the Army and any other amounts recovered by the Secretary from a contractor, insurer, surety, or other person to reimburse the Department of the Army for any expenditure for environmental response activities in support of the Army civil works program shall be credited to the appropriate trust fund account from which the cost of such response action has been paid or will be charged.”
@@ -412,7 +634,7 @@ Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6924, 6939a, 6991b, 6991c, 9601, 9603, 9606, 9608, 9611, 9612, 9613, 9614, 9619, 9620, 9622, 9624, 9627, 9651, 9656, 9658 of this title; title 14 section 692; title 16 sections 1437, 1443; title 26 section 9507.
+This section is referred to in sections 6924, 6939a, 6991b, 6991c, 9601, 9603, 9604, 9606, 9608, 9611, 9612, 9613, 9614, 9619, 9620, 9622, 9624, 9627, 9628, 9651, 9656, 9658 of this title; title 14 section 692; title 16 sections 1437, 1443; title 26 section 9507.
 
 <i><sup>1</sup></i><i>See References in Text note below.</i>
 

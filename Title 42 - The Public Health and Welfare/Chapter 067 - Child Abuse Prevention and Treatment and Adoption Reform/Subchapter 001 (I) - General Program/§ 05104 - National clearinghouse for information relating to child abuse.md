@@ -44,7 +44,7 @@ The Secretary shall, through the clearinghouse established by subsection (a) of 
 
 &emsp;In carrying out paragraph (1)(D), the Secretary shall ensure that methods are established and implemented to preserve the confidentiality of records relating to case specific data.
 
-(Pub. L. 93–247, title I, §103, formerly §5, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §104, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §104, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 105; renumbered title I, §104, and amended Pub. L. 101–126, §§3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, 103 Stat. 764, 765, 768; renumbered §103 and amended Pub. L. 104–235, title I, §§104, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3066, 3079.)
+(Pub. L. 93–247, title I, §103, formerly §5, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §104, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §104, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 105; renumbered titleI, §104, and amended Pub. L. 101–126, §§3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, 103 Stat. 764, 765, 768; renumbered §103 and amended Pub. L. 104–235, title I, §§104, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3066, 3079.)
 
 #### References in Text
 

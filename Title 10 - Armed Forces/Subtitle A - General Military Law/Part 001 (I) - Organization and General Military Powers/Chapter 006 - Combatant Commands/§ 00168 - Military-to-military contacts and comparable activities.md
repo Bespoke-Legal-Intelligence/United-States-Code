@@ -120,7 +120,7 @@ Exceptions.—Subsection (a) does not apply to any search-and-rescue or humanita
 
 “(d)
 
-Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than December 31 each year, a certification in writing as to whether or not any military-to-militaryexchange or contact during that calendar year was conducted in violation of subsection (a).
+Annual Certification by Secretary.—The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, not later than December 31 each year, a certification in writing as to whether or not any military-to-military exchange or contact during that calendar year was conducted in violation of subsection (a).
 
 “(e)
 
@@ -142,7 +142,7 @@ Report of Past Military-to-Military Exchanges and Contacts With the PRC.—Not l
 
 &emsp;“(1) A list of the general and flag grade officers of the People's Liberation Army who have visited United States military installations since January 1, 1993.
 
-&emsp;“(2) The itinerary of the visits referred to in paragraph (2)\[(1)\], including the installations visited, the duration of the visits, and the activities conducted during the visits.
+&emsp;“(2) The itinerary of the visits referred to in paragraph (2)\[(1)\], including the installations visited, theduration of the visits, and the activities conducted during the visits.
 
 &emsp;“(3) The involvement, if any, of the general and flag officers referred to in paragraph (1) in the Tiananmen Square massacre of June 1989.
 

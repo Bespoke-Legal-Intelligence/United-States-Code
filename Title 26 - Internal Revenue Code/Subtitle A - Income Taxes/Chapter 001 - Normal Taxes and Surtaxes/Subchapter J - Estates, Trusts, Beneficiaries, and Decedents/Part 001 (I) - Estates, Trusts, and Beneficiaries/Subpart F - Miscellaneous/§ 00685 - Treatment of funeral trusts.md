@@ -30,7 +30,7 @@ For purposes of this subsection, the term “qualified funeral trust” means an
 
 #### (1) In general
 
-&emsp;The term “qualified funeral trust” shall not include any trust which accepts aggregatecontributions by or for the benefit of an individual in excess of $7,000.
+&emsp;The term “qualified funeral trust” shall not include any trust which accepts aggregate contributions by or for the benefit of an individual in excess of $7,000.
 
 #### (2) Related trusts
 
@@ -58,7 +58,7 @@ Section 1(e) shall be applied to each qualified funeral trust by treating each b
 
 #### (e) Treatment of amounts refunded to purchaser on cancellation
 
-No gain or loss shall be recognized to a purchaser of a contract described in subsection (b)(1) by reason of any payment from such trust to such purchaser by reason of cancellation of such contract. If any payment referred to in the preceding sentence consists of property other than money, the basis of such property in the hands of such purchaser shall be the same as the trust's basis in such property immediately before the payment.
+No gain or loss shall be recognized to a purchaser of a contract described in subsection (b)(1) by reason of any payment from such trust to such purchaser by reason of cancellation of such contract. If any payment referred to in thepreceding sentence consists of property other than money, the basis of such property in the hands of such purchaser shall be the same as the trust's basis in such property immediately before the payment.
 
 #### (f) Simplified reporting
 
@@ -66,9 +66,9 @@ The Secretary may prescribe rules for simplified reporting of all trusts having 
 
 (Added Pub. L. 105–34, title XIII, §1309(a), Aug. 5, 1997, 111 Stat. 1042; amended Pub. L. 105–206, title VI, §6013(b), July 22, 1998, 112 Stat. 820.)
 
-#### Limitation on Contributions Received By Trust During Calendar Year 2001
+#### Limitation on Contributions Received By Trust During Calendar Year 2002
 
-<i>For limitation on aggregate contributions received by qualified funeral trust by or for the benefit of an individual for contracts entered into during calendar year 2001, see section 3.14 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For limitation on aggregate contributions received by qualified funeral trust by or for the benefit of an individual for contracts entered into during calendar year 2002, see section 3.16 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 

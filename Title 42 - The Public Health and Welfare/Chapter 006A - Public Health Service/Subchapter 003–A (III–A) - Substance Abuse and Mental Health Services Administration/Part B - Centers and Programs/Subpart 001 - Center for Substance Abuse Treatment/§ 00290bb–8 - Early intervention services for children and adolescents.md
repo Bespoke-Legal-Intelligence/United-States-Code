@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including local educational agencies (as defined in section 8801 of title 20), for the purpose of providing early intervention substance abuse services for children and adolescents.
+The Secretary shall award grants, contracts, or cooperative agreements to public and private nonprofit entities, including local educational agencies (as defined in section 8801 of title 20),<sup>1</sup> for the purpose of providing early intervention substance abuse services for children and adolescents.
 
 #### (b) Priority
 
@@ -37,4 +37,10 @@ An entity that receives a grant, contract, or cooperative agreement under subsec
 There are authorized to be appropriated to carry out this section, $20,000,000 for fiscal year 2001, and such sums as may be necessary for fiscal years 2002 and 2003.
 
 (July 1, 1944, ch. 373, title V, §514A, as added Pub. L. 106–310, div. B, title XXXI, §3104(a), Oct. 17, 2000, 114 Stat. 1172.)
+
+#### References in Text
+
+Section 8801 of title 20, referred to in subsec. (a), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

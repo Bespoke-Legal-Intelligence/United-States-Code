@@ -6,7 +6,7 @@ Nothing in this chapter shall be construed to supersede or limit the authority o
 
 #### (b) Duplication of services
 
-The Secretary shall work with all appropriate Federal departments and agencies to avoid duplication of programs and services currentlyavailable to Indian tribes and landowners from other sources.
+The Secretary shall work with all appropriate Federal departments and agencies to avoid duplication of programs and services currently available to Indian tribes and landowners from other sources.
 
 (Pub. L. 103–177, title III, §304, Dec. 3, 1993, 107 Stat. 2022.)
 

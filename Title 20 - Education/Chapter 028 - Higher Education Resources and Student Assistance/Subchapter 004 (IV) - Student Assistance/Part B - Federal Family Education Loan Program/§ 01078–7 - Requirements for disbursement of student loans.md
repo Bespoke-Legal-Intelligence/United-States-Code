@@ -8,7 +8,7 @@
 
 #### (2) Minimum interval required
 
-&emsp;The interval between the first and second such installments shall be not less than one-half of such period of enrollment, except as necessary to permit the second installment to be disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment.
+&emsp;The interval between the first and second such installments shall be not less than one-half of such period of enrollment, except as necessary to permit the second installment tobe disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment.
 
 #### (3) Special rule
 
@@ -22,7 +22,7 @@
 
 #### (2) Other students
 
-&emsp;The proceeds of any loan made, insured, or guaranteed under this part that is made to any student other than a student described in paragraph (1) shall not be disbursed more than30 days prior to the beginning of the period of enrollment for which the loan is made.
+&emsp;The proceeds of any loan made, insured, or guaranteed under this part that is made to any student other than a student described in paragraph (1) shall not be disbursed more than 30 days prior to the beginning of the period of enrollment for which the loan is made.
 
 #### (c) Method of multiple disbursement
 
@@ -68,7 +68,7 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 #### References in Text
 
-Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV, §417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
+Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV,§417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
 
 Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
@@ -86,7 +86,7 @@ Subsec. (e). Pub. L. 103–66 substituted “consolidation” for “PLUS, conso
 
 1992—Subsec. (c)(3). Pub. L. 102–325, §421(a), added par. (3).
 
-Subsec. (d)(2). Pub. L. 102–325, §421(b), inserted “, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to beoverawards for purposes of this paragraph” before period at end of first sentence.
+Subsec. (d)(2). Pub. L. 102–325, §421(b), inserted “, except that overawards permitted pursuant to section 2753(b)(4) of title 42 shall not be construed to be overawards for purposes of this paragraph” before period at end of first sentence.
 
 Subsec. (g). Pub. L. 102–325, §421(c), added subsec. (g).
 

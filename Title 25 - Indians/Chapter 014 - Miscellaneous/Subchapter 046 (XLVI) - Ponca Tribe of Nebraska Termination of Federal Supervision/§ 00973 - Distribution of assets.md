@@ -18,7 +18,7 @@ All assets of the tribe that are not selected and conveyed to members shall be s
 
 #### (e) Proceeds and tribal funds for payment of tribal debts; distributive share; set off; member purchases of tribal property
 
-The net proceeds of all sales of tribal property, and all other tribal funds, shall be used to pay, as authorized by the Secretary, any debts of thetribe. The remainder of such proceeds and funds shall be divided equally among the members whose names are on the final roll, or their heirs or legatees. Any debt owed by a member, heir, or legatee to the tribe or to the United States may be set off as authorized by the Secretary against the distributive share of such person. Any member of the tribe who purchases tribal property in accordance with this section may apply on the purchase price his share of the proceeds of all sales of tribal property, and the Secretary of the Interior shall adopt sales procedures that permit such action.
+The net proceeds of all sales of tribal property, and all other tribal funds, shall be used to pay, as authorized by the Secretary, any debts of the tribe. The remainder of such proceeds and funds shall be divided equally among the members whose names are on the final roll, or their heirs or legatees. Any debt owed by a member, heir, or legatee to the tribe or to the United States may be set off as authorized by the Secretary against the distributive share of such person. Any member of the tribe who purchases tribal property in accordance with this section may apply on the purchase price his share of the proceeds of all sales of tribal property, and the Secretary of the Interior shall adopt sales procedures that permit such action.
 
 (Pub. L. 87–629, §3, Sept. 5, 1962, 76 Stat. 429.)
 

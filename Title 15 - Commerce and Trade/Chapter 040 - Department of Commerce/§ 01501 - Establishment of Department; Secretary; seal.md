@@ -10,7 +10,7 @@ Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions
 
 #### Codification
 
-Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 591 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
 
@@ -26,7 +26,7 @@ Creation of the Office of Deputy Secretary of Commerce by section 2(b)(1) of 197
 
 #### Order of Succession
 
-For order of succession in case of absence, disability or vacancy in office of both the Secretary and Deputy Secretary, see Ex. Ord. No. 11880, Oct. 2, 1975, 40 F.R. 46089, as amended, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Commerce are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 5 OF 1950</b>
 
@@ -40,7 +40,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (a) Except as otherwise provided in subsection (b) of this section, there are hereby transferred to the Secretary of Commerce all functions of all other officers of the Department of Commerce and all functions of all agencies and employees of such Department.
 
-(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237)\[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Commerce, nor to the functions of the Civil Aeronautics Board, of the Inland Waterways Corporation, or of the Advisory Board of the Inland Waterways Corporation.
+(b) This section shall not apply to the functions vested by the Administrative Procedure Act (60 Stat. 237) \[see 5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Commerce, nor to the functions of the Civil Aeronautics Board, of the Inland Waterways Corporation, or of the Advisory Board of the Inland Waterways Corporation.
 
 #### Sec. 2. Performance of Functions of Secretary
 

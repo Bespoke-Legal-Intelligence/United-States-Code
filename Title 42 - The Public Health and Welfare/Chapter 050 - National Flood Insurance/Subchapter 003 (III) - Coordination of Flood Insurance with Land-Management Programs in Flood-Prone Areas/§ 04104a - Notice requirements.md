@@ -26,7 +26,7 @@
 
 #### (1) Lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1) of this section, to notify the Director (or the designee of the Director) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify the Director (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1) of this section, to notify the Director (or the designee of the Director) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify theDirector (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
 
 #### (2) Federal agency lenders
 
@@ -34,7 +34,7 @@
 
 #### (c) Notification of expiration of insurance
 
-The Director (or the designee of the Director) shall, not less than 45 days before the expirationof any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Director) the owner of the loan.
+The Director (or the designee of the Director) shall, not less than 45 days before the expiration of any contract for flood insurance under this chapter, issue notice of such expiration by first class mail to the owner of the property covered by the contract, the servicer of any loan secured by the property covered by the contract, and (if known to the Director) the owner of the loan.
 
 (Pub. L. 90–448, title XIII, §1364, as added Pub. L. 93–383, title VIII, §816(a), Aug. 22, 1974, 88 Stat. 739; amended Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §527, Sept. 23, 1994, 108 Stat. 2263.)
 

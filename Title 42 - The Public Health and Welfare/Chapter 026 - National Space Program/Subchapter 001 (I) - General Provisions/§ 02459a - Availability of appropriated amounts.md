@@ -1,6 +1,6 @@
 ### §2459a. Availability of appropriated amounts
 
-Appropriations authorized under this Act for “Research and Development”, for “SpaceFlight, Control, and Data Communications”, or for “Construction of Facilities” may remain available until expended. Contracts may be entered into under “Inspector General” and “Research and Program Management” for training, investigations, and costs associated with personnel relocation and for other services provided during the fiscal year following the fiscal year in which funds are appropriated.
+Appropriations authorized under this Act for “Research and Development”, for “Space Flight, Control, and Data Communications”, or for “Construction of Facilities” may remain available until expended. Contracts may be entered into under “Inspector General” and “Research and Program Management” for training, investigations, and costs associated with personnel relocation and for other services provided during the fiscal year following the fiscal year in which funds are appropriated.
 
 (Pub. L. 102–588, title II, §202, Nov. 4, 1992, 106 Stat. 5112.)
 

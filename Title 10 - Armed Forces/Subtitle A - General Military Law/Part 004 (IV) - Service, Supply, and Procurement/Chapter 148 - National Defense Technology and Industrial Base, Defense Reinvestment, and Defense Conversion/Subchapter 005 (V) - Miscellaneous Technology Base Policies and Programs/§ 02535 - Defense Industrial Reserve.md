@@ -2,13 +2,21 @@
 
 (a)
 
-Declaration of Purpose and Policy.—It is the intent of Congress (1) to provide a comprehensive and continuous program for the future safety and for the defense of the United States by providing adequate measures whereby an essential nucleus of Government-owned industrial plants and an industrial reserve of machine tools and other industrial manufacturing equipment may be assured for immediate use to supply the needs of the Armed Forces in time of national emergency or in anticipation thereof; (2) that such Government-owned plants and such reserve shall not exceed in number or kind the minimum requirements for immediate use in time of national emergency, and that any such items which shall become excess to such requirements shall be disposed of as expeditiously as possible; (3) that to the maximum extent practicable, reliance will be placed upon private industry for support of defense production; and (4) that machine tools and other industrial manufacturing equipment may be held in plant equipment packages or in a general reserve to maintain a high state of readiness for production of critical items of defense materiel, to provide production capacity not available in private industry for defense materiel, or to assist private industry in time of national disaster.
+Declaration of Purpose and Policy.—It is the intent of Congress—
+
+&emsp;(1) to provide a comprehensive and continuous program for the future safety and for the defense of the United States by providing adequate measures whereby an essential nucleus of Government-owned industrial plants and an industrial reserve of machine tools and other industrial manufacturing equipment may be assured for immediate use to supply the needs of the armed forces in time of national emergency or in anticipation thereof;
+
+&emsp;(2) that such Government-owned plants and such reserve shall not exceed in number or kind the minimum requirements for immediate use in time of national emergency, and that any such items which shall become excess to such requirements shall be disposed of as expeditiously as possible;
+
+&emsp;(3) that to the maximum extent practicable, reliance will be placed upon private industry for support of defense production; and
+
+&emsp;(4) that machine tools and other industrial manufacturing equipment may be held inplant equipment packages or in a general reserve to maintain a high state of readiness for production of critical items of defense materiel, to provide production capacity not available in private industry for defense materiel, or to assist private industry in time of national disaster.
 
 (b)
 
-Powers and Duties of the Secretary of Defense.—(1) To execute the policy set forth in this section, the Secretary is authorized and directed to—
+Powers and Duties of the Secretary of Defense.—(1) To execute the policy set forth in subsection (a), the Secretary of Defense shall—
 
-&emsp;(A) determine which industrial plants and installations (including machine tools and other industrial manufacturing equipment) should become a part of the defense industrial reserve;
+&emsp;(A) determine which industrial plants and installations (including machine tools and other industrial manufacturing equipment) should become a part of the Defense Industrial Reserve;
 
 &emsp;(B) designate what excess industrial property shall be disposed of;
 
@@ -36,13 +44,17 @@ Powers and Duties of the Secretary of Defense.—(1) To execute the policy set f
 
 Definitions.—In this section:
 
-&emsp;(1) The term “Secretary” means Secretary of Defense.
+&emsp;(1) The term “Defense Industrial Reserve” means—
 
-&emsp;(2) The term “Defense Industrial Reserve” means (A) a general reserve of industrial manufacturing equipment, including machine tools, selected by the Secretary of Defense for retention for national defense or for other emergency use; (B) those industrial plants and installations held by and under the control of the Department of Defense in active or inactive status, including Government-owned/Government-operated plants and installations and Government-owned/contractor-operated plants and installations which are retained for use in their entirety, or in part, for production of military weapons systems, munitions, components, or supplies; (C) those industrial plants and installations under the control of the Secretary which are not required for the immediate need of any department or agency of the Government and which should be sold, leased, or otherwise disposed of.
+&emsp;&emsp;(A) a general reserve of industrial manufacturing equipment, including machine tools, selected by the Secretary of Defense for retention for national defense or for other emergency use;
 
-&emsp;(3) The term “plant equipment package” means a complement of active and idle machine tools and other industrial manufacturing equipment held by and under the control of the Department of Defense and approved by the Secretary for retention to produce particular defense materiel or defense supporting items at a specific level of output in the event of emergency.
+&emsp;&emsp;(B) those industrial plants and installations held by and under the control of the Department of Defense in active or inactive status, including Government-owned/Government-operated plants and installations and Government-owned/contractor-operated plants and installations which are retained for use in their entirety, or in part, for production of military weapons systems, munitions, components, or supplies; and
 
-(Added and amended Pub. L. 102–484, div. D, title XLII, §4235, Oct. 23, 1992, 106 Stat. 2690; Pub. L. 103–35, title II, §201(c)(8), May 31, 1993, 107 Stat. 98; Pub. L. 103–337, div. A, title III, §379(a), Oct. 5, 1994, 108 Stat. 2737.)
+&emsp;&emsp;(C) those industrial plants and installations under the control of the Secretary which are not required for the immediate need of any department or agency of the Government and which should be sold, leased, or otherwise disposed of.
+
+&emsp;(2) The term “plant equipment package” means a complement of active and idle machine tools and other industrial manufacturing equipment held by and under the control of the Department of Defense and approved by the Secretary for retention to produce particular defense materiel or defense supporting items at a specific level of output in the event of emergency.
+
+(Added and amended Pub. L. 102–484, div. D, title XLII, §4235, Oct. 23, 1992, 106 Stat. 2690; Pub. L. 103–35, title II, §201(c)(8), May 31, 1993, 107 Stat. 98; Pub. L. 103–337, div. A, title III, §379(a), Oct. 5, 1994, 108 Stat. 2737; Pub. L. 107–107, div. A, title X, §1048(a)(23), Dec. 28, 2001, 115 Stat. 1224.)
 
 #### References in Text
 
@@ -52,11 +64,23 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 The text of section 451 of Title 50, War and National Defense, which was transferred to this section, designated subsec. (a), and amended by Pub. L. 102–484, §4235(a)(2), was based on acts July 2, 1948, ch. 811, §2, 62 Stat. 1225; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617.
 
-The text of section 453 of Title 50 which was transferred to this section, designated subsec. (b), and amended by Pub. L. 102–484, §4235(a)(3), was based on acts July 2, 1948, ch. 811, §4, 62 Stat. 1226; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1359(a), 100 Stat. 3999.For effective date of 1986 amendment, see section 1359(b) of Pub. L. 99–661.
+The text of section 453 of Title 50 which was transferred to this section, designated subsec. (b), and amended by Pub. L. 102–484, §4235(a)(3), was based on acts July 2, 1948, ch. 811, §4, 62 Stat. 1226; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1359(a), 100 Stat. 3999. For effective date of 1986 amendment, see section 1359(b) of Pub. L. 99–661.
 
 The text of section 452 of Title 50 which was transferred to this section, designated subsec. (c), and amended by Pub. L. 102–484, §4235(b), was based on acts July 2, 1948, ch. 811, §3, 62 Stat. 1225; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §1048(a)(23)(A)(i), substituted “intent of Congress—” for “intent of Congress” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 107–107, §1048(a)(23)(A)(ii), (iii), substituted “armed forces” for “Armed Forces” and realigned margins.
+
+Subsec. (a)(2) to (4). Pub. L. 107–107, §1048(a)(23)(A)(ii), realigned margins.
+
+Subsec. (b)(1). Pub. L. 107–107, §1048(a)(23)(B)(i), substituted “in subsection (a), the Secretary of Defense shall—” for “in this section, the Secretary is authorized and directed to—” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 107–107, §1048(a)(23)(B)(ii), substituted “Defense Industrial Reserve” for “defense industrial reserve”.
+
+Subsec. (c). Pub. L. 107–107, §1048(a)(23)(C), redesignated par. (2) as (1), substituted “means—” for “means” in introductory provisions, realigned margins of subpars. (A) to (C) of par. (1) and inserted “and” after semicolon in subpar. (B), redesignated par. (3) as (2), and struck out former par. (1) which read as follows: “The term ‘Secretary’ means Secretary of Defense.”
 
 1994—Subsec. (b)(1)(G). Pub. L. 103–337 amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “authorize and regulate the lending of any such property to any nonprofit educational institution or training school whenever (i) the program proposed by such institution or school for the use of such property will contribute materially to national defense, and (ii) such institution or school shall by agreement make such provision as the Secretary shall deem satisfactory for the proper maintenance and care of such property and for its return, without expense to the Government, upon request of the Secretary.”
 

@@ -10,7 +10,7 @@ The Secretary of Housing and Urban Development shall establish the first plan un
 
 #### (c) Updates
 
-The Secretary of Housing and Urban Development shall revise and update the plan under thissection not less than once for each 2-year period, the first such 2-year period beginning on the date of the submission of the initial plan under subsection (b) of this section to the Congress (as provided in subsection (d) of this section). Each such update shall revise the plan for the 5-year period beginning upon the submission of the updated plan to the Congress.
+The Secretary of Housing and Urban Development shall revise and update the plan under this section not less than once for each 2-year period, the first such 2-year period beginning on the date of the submission of the initial plan under subsection (b) of this section to the Congress (as provided in subsection (d) of this section). Each such update shall revise the plan for the 5-year period beginning upon the submission of the updated plan to the Congress.
 
 #### (d) Submission to Congress
 
@@ -80,7 +80,7 @@ Promotion of pilot program.—The Secretary shall encourage participation in the
 
 &emsp;“(5)
 
-Training program.—Not later than 9 months after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary, in consultation with the Secretary of Energy, shall establish and implement a program for training personnel at relevant lending agencies, real estate companies, and other appropriate organizations regarding the benefits of energy efficient mortgages and the operation of the pilot program under this subsection.
+Training program.—Not later than 9 months after the date of enactment of this Act \[Oct. 28, 1992\], the Secretary, in consultation with the Secretary of Energy, shall establish and implement a program for training personnel at relevant lending agencies, realestate companies, and other appropriate organizations regarding the benefits of energy efficient mortgages and the operation of the pilot program under this subsection.
 
 &emsp;“(6)
 

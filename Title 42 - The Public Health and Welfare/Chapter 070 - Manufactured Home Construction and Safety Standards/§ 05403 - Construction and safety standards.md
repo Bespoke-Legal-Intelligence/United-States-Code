@@ -80,7 +80,7 @@
 
 #### (ii) Users
 
-&emsp;&emsp;&emsp;Seven persons representing consumer interests, such as consumer organizations,recognized consumer leaders, and owners who are residents of manufactured homes.
+&emsp;&emsp;&emsp;Seven persons representing consumer interests, such as consumer organizations, recognized consumer leaders, and owners who are residents of manufactured homes.
 
 #### (iii) General interest and public officials
 
@@ -166,7 +166,7 @@
 
 #### (ii) Publication of rejected proposed revised standards
 
-&emsp;&emsp;&emsp;If the Secretary rejects the proposed revised standard, the Secretary shall causeto be published in the Federal Register the rejected proposed revised standard, the reasons for rejection, and any recommended modifications set forth.
+&emsp;&emsp;&emsp;If the Secretary rejects the proposed revised standard, the Secretary shall cause to be published in the Federal Register the rejected proposed revised standard, the reasons for rejection, and any recommended modifications set forth.
 
 #### (C) Presentation of public comments; publication of recommended revisions
 
@@ -176,7 +176,7 @@
 
 #### (ii) Publication by the Secretary
 
-&emsp;&emsp;&emsp;The consensus committee shall provide to the Secretary any revision proposed by the consensus committee, which the Secretary shall, not later than 30 calendar days after receipt, cause to be published in the Federal Register a notice of the recommended revisions of the consensus committee to the standards, a notice of the submission of the recommended revisions to the Secretary, and a description of the circumstances under which the proposed revised standards could become effective.
+&emsp;&emsp;&emsp;The consensus committee shall provide to the Secretary any revision proposed by the consensus committee, which the Secretary shall, not later than 30 calendar days after receipt, cause to be published inthe Federal Register a notice of the recommended revisions of the consensus committee to the standards, a notice of the submission of the recommended revisions to the Secretary, and a description of the circumstances under which the proposed revised standards could become effective.
 
 #### (iii) Publication of rejected proposed revised standards
 
@@ -294,7 +294,7 @@ Whenever a Federal manufactured home construction and safety standard establishe
 
 The consensus committee, in recommending standards, regulations, and interpretations, and the Secretary, in establishing standards or regulations or issuing interpretations under this section, shall—
 
-&emsp;(1) consider relevant available manufactured home construction and safety data, includingthe results of the research, development, testing, and evaluation activities conducted pursuant to this chapter, and those activities conducted by private organizations and other governmental agencies to determine how to best protect the public;
+&emsp;(1) consider relevant available manufactured home construction and safety data, including the results of the research, development, testing, and evaluation activities conducted pursuant to this chapter, and those activities conducted by private organizations and other governmental agencies to determine how to best protect the public;
 
 &emsp;(2) consult with such State or interstate agencies (including legislative committees) as he deems appropriate;
 
@@ -342,7 +342,7 @@ Subsec. (b). Pub. L. 106–569, §604(1), added subsec. (b) and struck out forme
 
 Subsec. (d). Pub. L. 106–569, §604(2), inserted at end “Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to section 5404 of this title, there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on which manufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.”
 
-Subsec. (e). Pub. L. 106–569, §604(3), (4), redesignated subsec. (f) as (e), inserted heading, substituted “The consensus committee, in recommending standards, regulations, and interpretations, and the Secretary, in establishing standards or regulations or issuing interpretations under this section, shall—” for “In establishing standards under this section, the Secretary shall—” in introductory provisions, and struck out former subsec. (e) which read as follows: “The Secretary may by order amend or revoke any Federal manufactured home construction or safety standard established under this section. Such order shall specify the date on which such amendment or revocation is to take effect, which shall not be sooner than one hundred and eighty days or later than one year from the date the order is issued, unless the Secretary finds, for good cause shown, thatan earlier or later date is in the public interest, and publishes his reasons for such finding.”
+Subsec. (e). Pub. L. 106–569, §604(3), (4), redesignated subsec. (f) as (e), inserted heading, substituted “The consensus committee, in recommending standards, regulations, and interpretations, and the Secretary, in establishing standards or regulations or issuing interpretations under this section, shall—” for “In establishing standards under this section, the Secretary shall—” in introductory provisions, and struck out former subsec. (e) which read as follows: “The Secretary may by order amend or revoke any Federal manufactured home construction or safety standard established under this section. Such order shall specify the date on which such amendment or revocation is to take effect, which shall not be sooner than one hundred and eighty days or later than one year from the date the order is issued, unless the Secretary finds, for good cause shown, that an earlier or later date is in the public interest, and publishes his reasons for such finding.”
 
 Subsec. (f). Pub. L. 106–569, §604(7), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (e).
 
@@ -366,7 +366,7 @@ Subsec. (j). Pub. L. 106–569, §604(6), (7), substituted “subsection (e) of 
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order orinterpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 
 #### Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards
 

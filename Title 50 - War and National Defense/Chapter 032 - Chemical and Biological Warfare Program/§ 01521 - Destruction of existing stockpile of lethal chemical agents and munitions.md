@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 &emsp;&emsp;(vi) travel and associated travel costs for Citizens’ Advisory Commissioners under section 172(g) of Public Law 102–484 (50 U.S.C. 1521 note); and
 
-&emsp;&emsp;(vii) grants to State and local governments to assist those governments in carrying out functions relating to emergency preparedness and response in accordance with subsection (c)(3) <sup>1</sup> of this section.
+&emsp;&emsp;(vii) grants to State and local governments to assist those governments in carrying out functions relating to emergency preparedness and response in accordance with subsection (c)(4) of this section.
 
 &emsp;(D) An assessment of the safety status and the integrity of the stockpile of lethal chemical agents and munitions subject to this section, including—
 
@@ -152,23 +152,21 @@ For purposes of this section:
 
 #### (k) Operational verification
 
-(1) Until the Secretary of the Army successfully completes (through the prove-out work to be conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitions under this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>2</sup> and munitions weapons is to take place under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
+(1) Until the Secretary of the Army successfully completes (through the prove-out work to be conducted at Johnston Atoll) operational verification of the technology to be used for the destruction of live chemical agents and munitions under this section, the Secretary may not conduct any activity for equipment prove out and systems test before live chemical agents are introduced at a facility (other than the Johnston Atoll facility) at which the destruction of chemical agent <sup>1</sup> and munitions weapons is to take place under this section. The limitation in the preceding sentence shall not apply with respect to the Chemical Agent Munition Disposal System in Tooele, Utah.
 
 (2) Upon the successful completion of the prove out of the equipment and facility at Johnston Atoll, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report certifying that the prove out is completed.
 
-(3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referredto in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
+(3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referred to in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775.)
-
-#### References in Text
-
-Subsection (c)(3) of this section, referred to in subsec. (g)(2)(C)(vii), was redesignated subsec. (c)(4) of this section by Pub. L. 106–65, div. A, title I, §141(b)(1)(B), Oct. 5, 1999, 113 Stat. 538.
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229.)
 
 #### Codification
 
 Section was enacted as part of the Department of Defense Authorization Act, 1986, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+
+2001—Subsec. (g)(2)(C)(vii). Pub. L. 107–107 substituted “(c)(4)” for “(c)(3)”.
 
 1999—Subsec. (b)(4). Pub. L. 106–65, §1067(11), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -542,7 +540,7 @@ Section 178 of Pub. L. 102–484 provided that: “It is the sense of Congress t
 
 #### “Low-Volume Site” Defined
 
-Section 180 of Pub. L. 102–484 provided that: “For purposes of this subtitle \[subtitle G (§§171–180) of title I of div. A of Pub. L. 102–484, amending this section and enacting provisions set out as notes above\], the term ‘low-volume site’ means one of the three chemical weapons storage sites in the United States at whichthere is stored 5 percent or less of the total United States stockpile of unitary chemical weapons.”
+Section 180 of Pub. L. 102–484 provided that: “For purposes of this subtitle \[subtitle G (§§171–180) of title I of div. A of Pub. L. 102–484, amending this section and enacting provisions set out as notes above\], the term ‘low-volume site’ means one of the three chemical weapons storage sites in the United States at which there is stored 5 percent or less of the total United States stockpile of unitary chemical weapons.”
 
 #### Revision of Chemical Demilitarization Program
 
@@ -586,7 +584,5 @@ Surveillance and Assessment Program.—The Secretary of Defense shall conduct an
 
 &emsp;“(2) assessment of the condition of the stockpile.”
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “agents”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “agents”.</i>
 

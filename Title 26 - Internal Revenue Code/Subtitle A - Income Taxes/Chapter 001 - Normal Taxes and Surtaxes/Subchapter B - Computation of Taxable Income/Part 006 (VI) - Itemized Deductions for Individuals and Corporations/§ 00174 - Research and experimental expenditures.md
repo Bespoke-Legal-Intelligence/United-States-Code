@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;At the election of the taxpayer, made in accordance with regulations prescribed by the Secretary, research or experimental expenditures which are—
+&emsp;At the election of the taxpayer, made in accordance with regulations prescribed by theSecretary, research or experimental expenditures which are—
 
 &emsp;&emsp;(A) paid or incurred by the taxpayer in connection with his trade or business,
 

@@ -292,5 +292,5 @@ Section 705(b) of Pub. L. 102–484 provided that: “Subsection (d) of section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1072, 1074g, 1079, 1082, 1086a, 1087, 1095, 1096, 1097, 1097b, 1098, 1100, 1104, 1105 of this title; title 38 section 1713; title 42 sections 300e–1, 1395cc, 1395ggg.
+This section is referred to in sections 1072, 1074g, 1079, 1082, 1086a, 1087, 1095, 1096, 1097, 1097b, 1098, 1100, 1104, 1105, 1111 of this title; title 38 section 1713; title 42 sections 300e–1, 1395cc, 1395ggg.
 

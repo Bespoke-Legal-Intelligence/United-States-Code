@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(III) knew that the actions described in subclause (I) were violative of law, and
 
-&emsp;&emsp;&emsp;(IV) did not report such actions, or did not cause such actions to be reported, to an officer, employee, or agent of the Department or to an appropriate law enforcement officer, or failed to take other appropriate action that would have ensured that the process for the regulation of drugs was not undermined, within a reasonable time after such agent first knew of such actions,
+&emsp;&emsp;&emsp;(IV) did not report such actions, or did not cause such actions to be reported, toan officer, employee, or agent of the Department or to an appropriate law enforcement officer, or failed to take other appropriate action that would have ensured that the process for the regulation of drugs was not undermined, within a reasonable time after such agent first knew of such actions,
 
 > &emsp;&emsp;if the Secretary finds that the type of conduct which served as the basis for such other individual's conviction undermines the process for the regulation of drugs.
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(A) shall not accept or review (other than in connection with an audit under this section) any abbreviated drug application submitted by or with the assistance of a person debarred under subsection (a)(1) or (b)(2)(A) of this section during the period such person is debarred,
 
-&emsp;&emsp;(B) shall, during the period of a debarment under subsection (a)(2) or (b)(2)(B) of thissection, debar an individual from providing services in any capacity to a person that has an approved or pending drug product application and shall not accept or review (other than in connection with an audit under this section) an abbreviated drug application from such individual, and
+&emsp;&emsp;(B) shall, during the period of a debarment under subsection (a)(2) or (b)(2)(B) of this section, debar an individual from providing services in any capacity to a person that has an approved or pending drug product application and shall not accept or review (other than in connection with an audit under this section) an abbreviated drug application from such individual, and
 
 &emsp;&emsp;(C) shall, if the Secretary makes the finding described in paragraph (6) or (7) of section 335b(a) of this title, assess a civil penalty in accordance with section 335b of this title.
 
@@ -142,7 +142,7 @@
 
 #### (i) Conviction reversal
 
-&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of a person under subsection (a)(1) or (b)(2)(A) of this section is reversed, the Secretary shall withdraw the order of debarment.
+&emsp;&emsp;&emsp;If the conviction which served as the basis for the debarment of a person undersubsection (a)(1) or (b)(2)(A) of this section is reversed, the Secretary shall withdraw the order of debarment.
 
 #### (ii) Application
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) sufficient audits, conducted by the Food and Drug Administration or by independent experts acceptable to the Food and Drug Administration, demonstrate that pending applications and the development of drugs being tested before the submission of an application are free of fraud or material false statements.
 
-&emsp;&emsp;&nbsp;In the case of persons debarred under subsection (a)(1) of this section, such termination shall take effect no earlier than theexpiration of one year from the date of the debarment.
+&emsp;&emsp;&nbsp;In the case of persons debarred under subsection (a)(1) of this section, such termination shall take effect no earlier than the expiration of one year from the date of the debarment.
 
 #### (B) Individuals
 
@@ -266,7 +266,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 #### (2) Public health waiver
 
-&emsp;The Secretary shall, on the Secretary's own initiative or in response to a petition, waive the suspension under paragraph (1) (involving an action described in paragraph (1)(A)(i)) with respect to any drug if the Secretary finds that such waiver is necessary to protect the public health because sufficient quantities of the drug would not otherwise be available. The Secretary shall act on any petition seeking action under this paragraph within 180 days of the date the petition is submitted to the Secretary.
+&emsp;The Secretary shall, on the Secretary's own initiative or in response to a petition, waive the suspension under paragraph (1) (involving an action described in paragraph (1)(A)(i)) withrespect to any drug if the Secretary finds that such waiver is necessary to protect the public health because sufficient quantities of the drug would not otherwise be available. The Secretary shall act on any petition seeking action under this paragraph within 180 days of the date the petition is submitted to the Secretary.
 
 #### (h) Termination of suspension
 

@@ -14,7 +14,7 @@ Nothing in this section or section 301(f) of title 31 shall be considered to aff
 
 #### Amendments
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–258, §5(b), struck out subsec. (b) which related to Office of General Counsel ofDepartment of the Treasury. See section 301 of Title 31, Money and Finance.
+<b>1982</b>—Subsec. (b). Pub. L. 97–258, §5(b), struck out subsec. (b) which related to Office of General Counsel of Department of the Treasury. See section 301 of Title 31, Money and Finance.
 
 Subsec. (c). Pub. L. 97–258, §2(f)(1), inserted “or section 301(f) of title 31” after “Nothing in this section”.
 
@@ -38,11 +38,47 @@ Section 3 of Pub. L. 86–368 provided that:
 
 #### Repeals
 
-Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; and Pub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834, cited as credits to this section, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1079, 1080, 1082.
+Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 648; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; andPub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834, cited as credits to this section, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1079, 1080, 1082.
 
 #### Savings Provision
 
 Section 4 of Pub. L. 86–368 provided that the position of Assistant General Counsel serving as Chief Counsel of the Internal Revenue Service was abolished as of the time that the Chief Counsel for the Internal Revenue Service appointed pursuant to the amendment to this section by Pub. L. 86–368, took office, but that Pub. L. 86–368 was not to be construed to otherwise abolish, terminate, or change any office or position, or employment of any officer or employee existing immediately preceding Sept. 22, 1959, and that any delegation of authority pursuant to Reorg. Plan No. 26 of 1950 or Reorg. Plan No. 2 of 1952 including any redelegation of authority, in effect immediately preceding Sept. 22, 1959, was to remain in effect unless distinctly inconsistent or manifestly incompatible with the amendment made to this section by Pub. L. 86–368.
+
+#### Order of Succession
+
+For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+
+#### Elimination of User Fee for Requests to IRS Regarding Pension Plans
+
+Pub. L. 107–16, title VI, §620, June 7, 2001, 115 Stat. 110, provided that:
+
+“(a)
+
+Elimination of Certain User Fees.—The Secretary of the Treasury or the Secretary's delegate shall not require payment of user fees under the program established under section 10511 of the Revenue Act of 1987 \[Pub. L. 100–203, title X, set out as a note below\] for requests to the Internal Revenue Service for determination letters with respect to the qualified status of a pension benefit plan maintained solely by one or more eligible employers or any trust which is part of the plan. The preceding sentence shall not apply to any request—
+
+&emsp;“(1) made after the later of—
+
+&emsp;&emsp;“(A) the fifth plan year the pension benefit plan is in existence; or
+
+&emsp;&emsp;“(B) the end of any remedial amendment period with respect to the plan beginning within the first 5 plan years; or
+
+&emsp;“(2) made by the sponsor of any prototype or similar plan which the sponsor intends to market to participating employers.
+
+“(b)
+
+Pension Benefit Plan.—For purposes of this section, the term ‘pension benefit plan’ means a pension, profit-sharing, stock bonus, annuity, or employee stock ownership plan.
+
+“(c)
+
+Eligible Employer.—For purposes of this section, the term ‘eligible employer’ means an eligible employer (as defined in section 408(p)(2)(C)(i)(I) of the Internal Revenue Code of 1986) which has at least one employee who is not a highly compensated employee (as defined in section 414(q)) and is participating in the plan. The determination of whether an employer is an eligible employer under this section shall be made as of the date of the request described in subsection (a).
+
+“(d)
+
+Determination of Average Fees Charged.—For purposes of any determination of average fees charged, any request to which subsection (a) applies shall not be taken into account.
+
+“(e)
+
+Effective Date.—The provisions of this section shall apply with respect to requests made after December 31, 2001.”
 
 #### Itemized Income Tax Receipt
 
@@ -330,7 +366,7 @@ Report.—The Commissioner shall not later than March 1 of each year report the 
 
 #### National Commission on Restructuring Internal Revenue Service
 
-Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a), Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
+Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a),Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
 
 “(a)
 
@@ -553,10 +589,6 @@ Transmission to Committees of Congress.—The Secretary of the Treasury shall tr
 “(c)
 
 Distribution.—The statement prepared in accordance with subsections (a) and (b) shall be distributed by the Secretary of the Treasury to all taxpayers the Secretary contacts with respect to the determination or collection of any tax (other than by providing tax forms). The Secretary shall take such actions as the Secretary deems necessary to ensure that such distribution does not result in multiple statements being sent to any one taxpayer.”
-
-#### Designation of Officers To Act as Secretary of Treasury
-
-Designation of officers of Treasury Department to act as Secretary of Treasury, during any period when, byreason of absence, disability, or vacancy in office, either the Secretary of Treasury or his Deputy Secretary is not available to exercise the powers or perform the duties of the office of the Secretary, see Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Fees for Requests for Ruling, Determination, and Similar Letters
 

@@ -16,7 +16,7 @@
 
 #### (4) Effect on existing agreements
 
-&emsp;In the case of a rebate agreement in effect between a State and a manufacturer on November 5, 1990, such agreement, for the initialagreement period specified therein, shall be considered to be a rebate agreement in compliance with this section with respect to that State, if the State agrees to report to the Secretary any rebates paid pursuant to the agreement and such agreement provides for a minimum aggregate rebate of 10 percent of the State's total expenditures under the State plan for coverage of the manufacturer's drugs under this subchapter. If, after the initial agreement period, the State establishes to the satisfaction of the Secretary that an agreement in effect on November 5, 1990, provides for rebates that are at least as large as the rebates otherwise required under this section, and the State agrees to report any rebates under the agreement to the Secretary, the agreement shall be considered to be a rebate agreement in compliance with the section for the renewal periods of such agreement.
+&emsp;In the case of a rebate agreement in effect between a State and a manufacturer on November 5, 1990, such agreement, for the initial agreement period specified therein, shall be considered to be a rebate agreement in compliance with this section with respect to that State, if the State agrees to report to the Secretary any rebates paid pursuant to the agreement and such agreement provides for a minimum aggregate rebate of 10 percent of the State's total expenditures under the State plan for coverage of the manufacturer's drugs under this subchapter. If, after the initial agreement period, the State establishes to the satisfaction of the Secretary that an agreement in effect on November 5, 1990, provides for rebates that are at least as large as the rebates otherwise required under this section, and the State agrees to report any rebates under the agreement to the Secretary, the agreement shall be considered to be a rebate agreement in compliance with the section for the renewal periods of such agreement.
 
 #### (5) Limitation on prices of drugs purchased by covered entities
 
@@ -72,7 +72,7 @@
 
 #### (B) Offset against medical assistance
 
-&emsp;&emsp;Amounts received by a State under this section (or under an agreement authorized by the Secretary under subsection (a)(1) ofthis section or an agreement described in subsection (a)(4) of this section) in any quarter shall be considered to be a reduction in the amount expended under the State plan in the quarter for medical assistance for purposes of section 1396b(a)(1) of this title.
+&emsp;&emsp;Amounts received by a State under this section (or under an agreement authorized by the Secretary under subsection (a)(1) of this section or an agreement described in subsection (a)(4) of this section) in any quarter shall be considered to be a reduction in the amount expended under the State plan in the quarter for medical assistance for purposes of section 1396b(a)(1) of this title.
 
 #### (2) State provision of information
 
@@ -96,7 +96,7 @@
 
 #### (B) Verification surveys of average manufacturer price
 
-&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute their covered outpatient drugs, when necessary, to verify manufacturer prices reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of a covered outpatient drug refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute their covered outpatient drugs, when necessary, to verify manufacturer prices reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of a covered outpatient drug refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly providesfalse information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (C) Penalties
 
@@ -212,7 +212,7 @@
 
 &emsp;&emsp;&emsp;The term “best price”—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be inclusive of cash discounts, free goods that are contingent on anypurchase requirement, volume discounts, and rebates (other than rebates under this section);
+&emsp;&emsp;&emsp;&emsp;(I) shall be inclusive of cash discounts, free goods that are contingent on any purchase requirement, volume discounts, and rebates (other than rebates under this section);
 
 &emsp;&emsp;&emsp;&emsp;(II) shall be determined without regard to special packaging, labeling, or identifiers on the dosage form or product or package; and
 
@@ -358,7 +358,7 @@
 
 #### (1) In general
 
-&emsp;(A) In order to meet the requirement of section 1396b(i)(10)(B) of this title, a State shall provide, by not later than January 1, 1993, fora drug use review program described in paragraph (2) for covered outpatient drugs in order to assure that prescriptions (i) are appropriate, (ii) are medically necessary, and (iii) are not likely to result in adverse medical results. The program shall be designed to educate physicians and pharmacists to identify and reduce the frequency of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists, and patients, or associated with specific drugs or groups of drugs, as well as potential and actual severe adverse reactions to drugs including education on therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, drug-allergy interactions, and clinical abuse/misuse.
+&emsp;(A) In order to meet the requirement of section 1396b(i)(10)(B) of this title, a State shall provide, by not later than January 1, 1993, for a drug use review program described in paragraph (2) for covered outpatient drugs in order to assure that prescriptions (i) are appropriate, (ii) are medically necessary, and (iii) are not likely to result in adverse medical results. The program shall be designed to educate physicians and pharmacists to identify and reduce the frequency of patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists, and patients, or associated with specific drugs or groups of drugs, as well as potential and actual severe adverse reactions to drugs including education on therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, drug-allergy interactions, and clinical abuse/misuse.
 
 &emsp;(B) The program shall assess data on drug use against predetermined standards, consistent with the following:
 
@@ -418,7 +418,7 @@
 
 #### (B) Retrospective drug use review
 
-&emsp;&emsp;The program shall provide, through its mechanized drug claims processing and information retrieval systems (approved by the Secretary under section 1396b(r) of this title) or otherwise, for the ongoing periodicexamination of claims data and other records in order to identify patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists and individuals receiving benefits under this subchapter, or associated with specific drugs or groups of drugs.
+&emsp;&emsp;The program shall provide, through its mechanized drug claims processing and information retrieval systems (approved by the Secretary under section 1396b(r) of this title) or otherwise, for the ongoing periodic examination of claims data and other records in order to identify patterns of fraud, abuse, gross overuse, or inappropriate or medically unnecessary care, among physicians, pharmacists and individuals receiving benefits under this subchapter, or associated with specific drugs or groups of drugs.
 
 #### (C) Application of standards
 
@@ -508,7 +508,7 @@ In this section—
 
 &emsp;Subject to the exceptions in paragraph (3), the term “covered outpatient drug” means—
 
-&emsp;&emsp;(A) of those drugs which are treated as prescribed drugs for purposes of section 1396d(a)(12) of this title, a drug which may be dispensed only upon prescription (except as provided in paragraph (5)), and—
+&emsp;&emsp;(A) of those drugs which are treated as prescribed drugs for purposes of section1396d(a)(12) of this title, a drug which may be dispensed only upon prescription (except as provided in paragraph (5)), and—
 
 &emsp;&emsp;&emsp;(i) which is approved for safety and effectiveness as a prescription drug under section 505 \[21 U.S.C. 355\] or 507 <sup>6</sup> of the Federal Food, Drug, and Cosmetic Act or which is approved under section 505(j) of such Act \[21 U.S.C. 355(j)\];
 
@@ -572,7 +572,7 @@ In this section—
 
 #### (i) Multiple source drug
 
-&emsp;&emsp;&emsp;The term “multiple source drug” means, with respect to a rebate period, a covered outpatient drug (not including any drug described in paragraph (5)) for which there are 2 or more drug products which—
+&emsp;&emsp;&emsp;The term “multiple source drug” means, with respect to a rebate period, a coveredoutpatient drug (not including any drug described in paragraph (5)) for which there are 2 or more drug products which—
 
 &emsp;&emsp;&emsp;&emsp;(I) are rated as therapeutically equivalent (under the Food and Drug Administration's most recent publication of “Approved Drug Products with Therapeutic Equivalence Evaluations”),
 
@@ -608,7 +608,7 @@ In this section—
 
 #### (8) Rebate period
 
-&emsp;The term “rebate period” means, with respect to an agreement under subsection (a) ofthis section, a calendar quarter or other period specified by the Secretary with respect to the payment of rebates under such agreement.
+&emsp;The term “rebate period” means, with respect to an agreement under subsection (a) of this section, a calendar quarter or other period specified by the Secretary with respect to the payment of rebates under such agreement.
 
 #### (9) State agency
 
@@ -672,7 +672,7 @@ Subsec. (k)(3)(E). Pub. L. 103–66, §13602(a)(2)(B)(ii)(I), struck out “\* 
 
 Subsec. (k)(3)(F). Pub. L. 103–66, §13602(a)(2)(B)(ii)(II), which directed amendment of subpar. (F) by substituting “services and services provided by an intermediate care facility for the mentally retarded” for “services”, was executed by making the substitution for “sevices” to reflect the probable intent of Congress because the word “services” did not appear.
 
-Subsec. (k)(6). Pub. L. 103–66, §13602(a)(2)(B)(iii), substituted “or the use of which is supported by one ormore citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.” for “, which appears in peer-reviewed medical literature or which is accepted by one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, and the United States Pharmacopeia-Drug Information.”
+Subsec. (k)(6). Pub. L. 103–66, §13602(a)(2)(B)(iii), substituted “or the use of which is supported by one or more citations included or approved for inclusion in any of the compendia described in subsection (g)(1)(B)(i) of this section.” for “, which appears in peer-reviewed medical literature or which is accepted by one or more of the following compendia: the American Hospital Formulary Service-Drug Information, the American Medical Association Drug Evaluations, and the United States Pharmacopeia-Drug Information.”
 
 Subsec. (k)(7)(A)(i). Pub. L. 103–66, §13602(a)(2)(B)(iv), substituted “rebate period” for “calendar quarter” in introductory provisions.
 
@@ -706,7 +706,7 @@ Amendment by section 1000(a)(6) \[title VI, §608(u)\] of Pub. L. 106–113 effe
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
+Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed onor after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
 
 #### Effective Date of 1993 Amendments
 

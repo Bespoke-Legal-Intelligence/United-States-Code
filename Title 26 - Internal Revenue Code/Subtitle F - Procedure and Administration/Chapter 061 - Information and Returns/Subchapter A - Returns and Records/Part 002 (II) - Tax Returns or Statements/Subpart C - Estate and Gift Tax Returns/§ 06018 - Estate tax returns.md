@@ -22,7 +22,81 @@
 
 If the executor is unable to make a complete return as to any part of the gross estate of the decedent, he shall include in his return a description of such part and the name of every person holding a legal or beneficial interest therein. Upon notice from the Secretary such person shall in like manner make a return as to such part of the gross estate.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 739; Pub. L. 89–809, title I, §108(g), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(J), Oct. 4, 1976, 90 Stat. 1834, 1852; Pub. L. 97–34, title IV, §401(a)(2)(B), Aug. 13, 1981, 95 Stat. 299; Pub. L. 98–369, div. A, title V, §544(b)(3), July 18, 1984, 98 Stat. 894; Pub. L. 100–647, title I, §1011A(g)(12), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7304(b)(2)(B), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 101–508, title XI, §11801(a)(43), (c)(19)(C), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, §501(a)(1)(C), title X, §1073(b)(4), Aug. 5, 1997, 111 Stat. 845, 948.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 739; Pub. L. 89–809, title I, §108(g), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(J), Oct. 4, 1976, 90 Stat. 1834, 1852; Pub. L. 97–34, title IV, §401(a)(2)(B), Aug. 13, 1981, 95 Stat. 299; Pub. L. 98–369, div. A, title V, §544(b)(3), July 18, 1984, 98 Stat. 894; Pub. L. 100–647, title I, §1011A(g)(12), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7304(b)(2)(B), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 101–508, title XI, §11801(a)(43), (c)(19)(C), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, §501(a)(1)(C), title X, §1073(b)(4), Aug. 5, 1997, 111 Stat. 845, 948; Pub. L. 107–16, title V, §542(b)(1), June 7, 2001, 115 Stat. 81.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–16, title V, §542(b)(1), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 81, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is temporarily amended to read as follows:</i>
+
+#### §6018. Returns relating to large transfers at death
+
+#### <i>(a) In general</i>
+
+<i>If this section applies to property acquired from a decedent, the executor of the estate of such decedent shall make a return containing the information specified in subsection (c) with respect to such property.</i>
+
+#### <i>(b) Property to which section applies</i>
+
+#### <i>(1) Large transfers</i>
+
+&emsp;<i>This section shall apply to all property (other than cash) acquired from a decedent if the fair</i><i>market value of such property acquired from the decedent exceeds the dollar amount applicable under section 1022(b)(2)(B) (without regard to section 1022(b)(2)(C)).</i>
+
+#### <i>(2) Transfers of certain gifts received by decedent within 3 years of death</i>
+
+&emsp;<i>This section shall apply to any appreciated property acquired from the decedent if—</i>
+
+&emsp;&emsp;<i>(A) subsections (b) and (c) of section 1022 do not apply to such property by reason of section 1022(d)(1)(C), and</i>
+
+&emsp;&emsp;<i>(B) such property was required to be included on a return required to be filed under section 6019.</i>
+
+#### <i>(3) Nonresidents not citizens of the United States</i>
+
+&emsp;<i>In the case of a decedent who is a nonresident not a citizen of the United States, paragraphs (1) and (2) shall be applied—</i>
+
+&emsp;&emsp;<i>(A) by taking into account only—</i>
+
+&emsp;&emsp;&emsp;<i>(i) tangible property situated in the United States, and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) other property acquired from the decedent by a United States person, and</i>
+
+&emsp;&emsp;<i>(B) by substituting the dollar amount applicable under section 1022(b)(3) for the dollar amount referred to in paragraph (1).</i>
+
+#### <i>(4) Returns by trustees or beneficiaries</i>
+
+&emsp;<i>If the executor is unable to make a complete return as to any property acquired from or passing from the decedent, the executor shall include in the return a description of such property and the name of every person holding a legal or beneficial interest therein. Upon notice from the Secretary, such person shall in like manner make a return as to such property.</i>
+
+#### <i>(c) Information required to be furnished</i>
+
+<i>The information specified in this subsection with respect to any property acquired from the decedent is—</i>
+
+&emsp;<i>(1) the name and TIN of the recipient of such property,</i>
+
+&emsp;<i>(2) an accurate description of such property,</i>
+
+&emsp;<i>(3) the adjusted basis of such property in the hands of the decedent and its fair market value at the time of death,</i>
+
+&emsp;<i>(4) the decedent's holding period for such property,</i>
+
+&emsp;<i>(5) sufficient information to determine whether any gain on the sale of the property would be treated as ordinary income,</i>
+
+&emsp;<i>(6) the amount of basis increase allocated to the property under subsection (b) or (c) of section 1022, and</i>
+
+&emsp;<i>(7) such other information as the Secretary may by regulations prescribe.</i>
+
+#### <i>(d) Property acquired from decedent</i>
+
+<i>For purposes of this section, section 1022 shall apply for purposes of determining the property acquired from a decedent.</i>
+
+#### <i>(e) Statements to be furnished to certain persons</i>
+
+<i>Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return (other than the person required to make such return) a written statement showing—</i>
+
+&emsp;<i>(1) the name, address, and phone number of the person required to make such return, and</i>
+
+&emsp;<i>(2) the information specified in subsection (c) with respect to property acquired from, or passing from, the decedent to the person required to receive such statement.</i>
+
+> <i>The written statement required under the preceding sentence shall be furnished not later than 30 days after the date that the return required by subsection (a) is filed.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -32,7 +106,7 @@ Section 2521 of this title, referred to in subsec. (a)(3)(B), was repealed by se
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §501(a)(1)(C), substituted “the applicable exclusion amount in effectunder section 2010(c) for the calendar year which includes the date of death” for “$600,000”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §501(a)(1)(C), substituted “the applicable exclusion amount in effect under section 2010(c) for the calendar year which includes the date of death” for “$600,000”.
 
 Subsec. (a)(4). Pub. L. 105–34, §1073(b)(4), struck out par. (4) which read as follows:
 
@@ -74,6 +148,12 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate�
 
 <b>1966</b>—Subsec. (a)(2). Pub. L. 89–809 substituted “$30,000” for “$2,000”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 501(a)(1)(C) of Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
@@ -110,5 +190,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2011, 2014, 2106, 2108, 6075, 6091, 7269 of this title.
+This section is referred to in sections 1022, 2011, 2014, 2058, 2106, 2108, 6075, 6091, 6716, 7269 of this title.
 

@@ -20,7 +20,7 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 &emsp;(v) to request information from, and make comments and recommendations to, the Secretary regarding any activities taken under this part with respect to such site.
 
-(B) The amount of funds provided to any affected Indian tribe under this paragraph in anyfiscal year may not exceed 100 percent of the costs incurred by such Indian tribe with respect to the activities described in clauses (i) through (v) of subparagraph (A). Any salary or travel expense that would ordinarily be incurred by such Indian tribe may not be considered eligible for funding under this paragraph.
+(B) The amount of funds provided to any affected Indian tribe under this paragraph in any fiscal year may not exceed 100 percent of the costs incurred by such Indian tribe with respect to the activities described in clauses (i) through (v) of subparagraph (A). Any salary or travel expense that would ordinarily be incurred by such Indian tribe may not be considered eligible for funding under this paragraph.
 
 (3)(A) The Secretary shall provide financial and technical assistance to any affected Indian tribe requesting such assistance and where there is a site with respect to which the Commission has authorized construction of a repository. Such assistance shall be designed to mitigate the impact on such Indian tribe of the development of such repository. Such assistance to such Indian tribe shall commence within 6 months following the granting by the Commission of a construction authorization for such repository and following the initiation of construction activities at such site.
 

@@ -52,7 +52,7 @@ Priority for Disaster Relief Assistance.—In processing applications for the tr
 
 “(b)
 
-Modification of Applications.—The Administrator of the United States Agency for International Development shall take all possible actions to assist applicants for the transportation of humanitarian assistance abroad under such section 402 in modifying or completing applications submitted under such section in order to meet applicable requirements under such section. The actions shall include efforts to contact such applicants for purposes of the modification or completion of such applications.”
+Modification of Applications.—The Administrator of the United States Agency for International Development shall take all possible actions to assistapplicants for the transportation of humanitarian assistance abroad under such section 402 in modifying or completing applications submitted under such section in order to meet applicable requirements under such section. The actions shall include efforts to contact such applicants for purposes of the modification or completion of such applications.”
 
 #### First Report Deadline
 

@@ -8,7 +8,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 #### (A) In general
 
-&emsp;&emsp;In the taxable year when paid, if the contributions are paid into a pension trust, and if such taxable year ends within or with a taxable year of the trust for which the trust is exempt under section 501(a), in an amount determined as follows:
+&emsp;&emsp;In the taxable year when paid, if the contributions are paid into a pension trust (other than a trust to which paragraph (3) applies), and if such taxable year ends within or with a taxable year of the trust for which the trust is exempt under section 501(a), in an amount determined as follows:
 
 &emsp;&emsp;&emsp;(i) the amount necessary to satisfy the minimum funding standard provided by section 412(a) for plan years ending within or with such taxable year (or for any prior plan year), if such amount is greater than the amount determined under clause (ii) or (iii) (whichever is applicable with respect to the plan),
 
@@ -34,7 +34,21 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 #### (D) Special rule in case of certain plans
 
-&emsp;&emsp;In the case of any defined benefit plan (other than a multiemployer plan) which has more than 100 participants for the plan year, except as provided in regulations, the maximum amount deductible under the limitations of this paragraph shall not be less than the unfunded current liability determined under section 412(<i>l</i>). For purposes of determining whether a plan has more than 100 participants, all defined benefit plans maintained by the same employer (or any member of such employer's controlled group (within the meaning of section 412(<i>l</i>)(8)(c))) shall be treated as 1 plan, but only employees of such member or employer shall be taken into account.
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of any defined benefit plan, except as provided in regulations, the maximum amount deductible under the limitations of this paragraph shall not be less than the unfunded current liability determined under section 412(<i>l</i>).
+
+#### (ii) Plans with 100 or less participants
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, in the case of a plan which has 100 or less participants for the plan year, unfunded current liability shall not include the liability attributable to benefit increases for highly compensated employees (as defined in section 414(q)) resulting from a plan amendment which is made or becomes effective, whichever is later, within the last 2 years.
+
+#### (iii) Rule for determining number of participants
+
+&emsp;&emsp;&emsp;For purposes of determining the number of plan participants, all defined benefit plans maintained by the same employer (or any member of such employer's controlled group (within the meaning of section 412(<i>l</i>)(8)(C))) shall be treated as one plan, but only employees of such member or employer shall be taken into account.
+
+#### (iv) Plans maintained by professional service employers
+
+&emsp;&emsp;&emsp;In the case of a plan which, subject to section 4041 of the Employee Retirement Income Security Act of 1974, terminates during the plan year, clause (i) shall be applied by substituting for unfunded current liability the amount required to make the plan sufficient for benefit liabilities (within the meaning of section 4041(d) of such Act).
 
 #### (E) Carryover
 
@@ -42,7 +56,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 #### (2) Employees’ annuities
 
-&emsp;In the taxable year when paid, in an amount determined in accordance with paragraph (1), if the contributions are paid toward the purchase of retirement annuities, or retirement annuities and medical benefits as described in section 401(h), and such purchase is part of a plan which meets the requirements of section 401(a)(3), (4), (5), (6), (7), (8), (9), (11), (12), (13), (14), (15), (16), (17),<sup>1</sup> (19), (20), (22), (26), (27), and (31) and, if applicable, the requirements of section 401(a)(10) and of section 401(d), and if refunds of premiums, if any, are applied within the current taxable year or next succeeding taxable year toward the purchase of such retirement annuities, or such retirement annuities and medical benefits.
+&emsp;In the taxable year when paid, in an amount determined in accordance with paragraph (1),if the contributions are paid toward the purchase of retirement annuities, or retirement annuities and medical benefits as described in section 401(h), and such purchase is part of a plan which meets the requirements of section 401(a)(3), (4), (5), (6), (7), (8), (9), (11), (12), (13), (14), (15), (16), (17),<sup>1</sup> (19), (20), (22), (26), (27), and (31) and, if applicable, the requirements of section 401(a)(10) and of section 401(d), and if refunds of premiums, if any, are applied within the current taxable year or next succeeding taxable year toward the purchase of such retirement annuities, or such retirement annuities and medical benefits.
 
 #### (3) Stock bonus and profit-sharing trusts
 
@@ -52,7 +66,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 &emsp;&emsp;&emsp;In the taxable year when paid, if the contributions are paid into a stock bonus or profit-sharing trust, and if such taxable year ends within or with a taxable year of the trust with respect to which the trust is exempt under section 501(a), in an amount not in excess of the greater of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 15 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under the stock bonus or profit-sharing plan, or
+&emsp;&emsp;&emsp;&emsp;(I) 25 percent of the compensation otherwise paid or accrued during the taxable year to the beneficiaries under the stock bonus or profit-sharing plan, or
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount such employer is required to contribute to such trust under section 401(k)(11) for such year.
 
@@ -68,19 +82,13 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 &emsp;&emsp;&emsp;If the contributions are made to 2 or more stock bonus or profit-sharing trusts, such trusts shall be considered a single trust for purposes of applying the limitations in this subparagraph.
 
-#### (v) Pre-87 limitation carryforwards
+#### (v) Defined contribution plans subject to the funding standards
 
-#### (I) In general
-
-&emsp;&emsp;&emsp;&emsp;The limitation of clause (i) for any taxable year shall be increased by the unused pre-87 limitation carryforwards (but not to an amount in excess of 25 percent of the compensation described in clause (i)).
-
-#### (II) Unused pre-87 limitation carryforwards
-
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “unused pre-87 limitation carryforwards” means the amount by which the limitation of the first sentence of this subparagraph (as in effect on theday before the date of the enactment of the Tax Reform Act of 1986) for any taxable year beginning before January 1, 1987, exceeded the amount paid to the trust for such taxable year (to the extent such excess was not taken into account in prior taxable years).
+&emsp;&emsp;&emsp;Except as provided by the Secretary, a defined contribution plan which is subject to the funding standards of section 412 shall be treated in the same manner as a stock bonus or profit-sharing plan for purposes of this subparagraph.
 
 #### (B) Profit-sharing plan of affiliated group
 
-&emsp;&emsp;In the case of a profit-sharing plan, or a stock bonus plan in which contributions are determined with reference to profits, of a group of corporations which is an affiliated group within the meaning of section 1504, if any member of such affiliated group is prevented from making a contribution which it would otherwise have made under the plan, by reason of having no current or accumulated earnings or profits or because such earnings or profits are less than the contributions which it would otherwise have made, then so much of the contribution which such member was so prevented from making may be made, for the benefit of the employees of such member, by the other members of the group, to the extent of current or accumulated earnings or profits, except that such contribution by each such other member shall be limited, where the group does not file a consolidated return, to that proportion of its total current and accumulated earnings or profits remaining after adjustment for its contribution deductible without regard to this subparagraph which the total prevented contribution bears to the total current and accumulated earnings or profits of all the members of the group remaining after adjustment for all contributions deductible without regard to this subparagraph. Contributions made under the preceding sentence shall be deductible under subparagraph (A) of this paragraph by the employer making such contribution, and, for the purpose of determining amounts which may be carried forward and deducted under the second sentence of subparagraph (A) of this paragraph in succeeding taxable years, shall be deemed to have been made by the employer on behalf of whose employees such contributions were made. The term “compensation otherwise paid or accrued during the taxable year to all employees” shall include any amount with respect to which an election under section 415(c)(3)(C) is in effect, but only to the extent that any contribution with respect to such amount is nonforfeitable.
+&emsp;&emsp;In the case of a profit-sharing plan, or a stock bonus plan in which contributions are determined with reference to profits, of a group of corporations which is an affiliated group within the meaning of section 1504, if any member of such affiliated group is prevented from making a contribution which it would otherwise have made under the plan, by reason of having no current or accumulated earnings or profits or because such earnings or profits are less than the contributions which it would otherwise have made, then so much of the contribution which such member was so prevented from making may be made, for the benefit of the employees of such member, by the other members of the group, to the extent of current or accumulated earnings or profits, except that such contribution by each such other member shall be limited, where the group does not file a consolidated return, to that proportion of its total current and accumulated earnings or profits remaining after adjustment for its contribution deductible without regard to this subparagraph which the total prevented contribution bears to the total current and accumulated earnings or profits of all the members of the group remaining after adjustment for all contributions deductible without regard to this subparagraph. Contributions made under the preceding sentence shall be deductible under subparagraph (A) of this paragraph by the employer making such contribution, and, for the purpose of determining amounts which may be carried forward and deducted under the second sentence of subparagraph (A) of this paragraph in succeeding taxable years, shall be deemed to have been made by the employer on behalf of whose employees such contributions were made.
 
 #### (4) Trusts created or organized outside the United States
 
@@ -108,7 +116,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 #### (B) Carryover of contributions in excess of the deductible limit
 
-&emsp;&emsp;Any amount paid under the plans in any taxable year in excess of the limitation of subparagraph (A) shall be deductible in the succeeding taxable years in order of time, but the amount so deductible under this subparagraph in any 1 such succeeding taxable year together with the amount allowable under subparagraph (A) shall not exceed 25percent of the compensation otherwise paid or accrued during such taxable year to the beneficiaries under the plans.
+&emsp;&emsp;Any amount paid under the plans in any taxable year in excess of the limitation of subparagraph (A) shall be deductible in the succeeding taxable years in order of time, but the amount so deductible under this subparagraph in any 1 such succeeding taxable year together with the amount allowable under subparagraph (A) shall not exceed 25 percent of the compensation otherwise paid or accrued during such taxable year to the beneficiaries under the plans.
 
 #### (C) Paragraph not to apply in certain cases
 
@@ -154,7 +162,7 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 
 &emsp;&emsp;(A) shall be treated as made to a trust which is exempt from tax under section 501(a) and which is part of a plan which is described in section 401(a), and
 
-&emsp;&emsp;(B) shall be deductible under this subsection to the extent such contributions do not exceed the limit on elective deferrals under section 402(g), the exclusion allowance under section 403(b)(2), or the limit on annual additions under section 415.
+&emsp;&emsp;(B) shall be deductible under this subsection to the extent such contributions do not exceed the limit on elective deferrals under section 402(g) or the limit on annual additions under section 415.
 
 > &emsp;For purposes of this paragraph, all plans in which the minister is a participant shall be treated as one plan.
 
@@ -167,6 +175,10 @@ If contributions are paid by an employer to or under a stock bonus, pension, pro
 &emsp;&emsp;(B) when deferred compensation is paid,
 
 > &emsp;no amount shall be treated as received by the employee, or paid, until it is actually received by the employee.
+
+#### (12) Definition of compensation
+
+&emsp;For purposes of paragraphs (3), (7), (8), and (9), the term “compensation” shall include amounts treated as “participant's compensation” under subparagraph (C) or (D) of section 415(c)(3).
 
 #### (b) Method of contributions, etc., having the effect of a plan; certain deferred benefits
 
@@ -206,7 +218,7 @@ If contributions are paid by an employer—
 
 &emsp;(C) such individual shall be treated as an employee of a participating employer under the plan with respect to service before July 1, 1975, covered by the plan.
 
-> Section 277 (relating to deductions incurred by certain membership organizations in transactions with members) does not apply to any trust described in this subsection. The first and third sentences of this subsection shall have no application with respect to amounts contributed to a trust on or after any date on which such trust is qualified for exemption from tax under section 501(a).
+> Section 277 (relating to deductions incurred by certain membership organizations in transactions with members) does not apply to anytrust described in this subsection. The first and third sentences of this subsection shall have no application with respect to amounts contributed to a trust on or after any date on which such trust is qualified for exemption from tax under section 501(a).
 
 #### (d) Deductibility of payments of deferred compensation, etc., to independent contractors
 
@@ -264,11 +276,11 @@ In the case of a self-employed individual described in section 401(c)(1), contri
 
 &emsp;&emsp;(B) Contributions shall be treated for purposes of this subsection as if they were made for a taxable year if such contributions are made on account of such taxable year and are made not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof).
 
-&emsp;&emsp;(C) The amount deductible in a taxable year for a simplified employee pension shall not exceed 15 percent of the compensation paid to the employees during the calendar year ending with or within the taxable year (or during the taxable year in the case of a taxable year described in subparagraph (A)(ii)). The excess of the amount contributed over the amount deductible for a taxable year shall be deductible in the succeeding taxable years in order of time, subject to the 15 percent limit of the preceding sentence.
+&emsp;&emsp;(C) The amount deductible in a taxable year for a simplified employee pension shall not exceed 25 percent of the compensation paid to the employees during the calendar year ending with or within the taxable year (or during the taxable year in the case of a taxable year described in subparagraph (A)(ii)). The excess of the amount contributed over the amount deductible for a taxable year shall be deductible in the succeeding taxable years in order of time, subject to the 25 percent limit of the preceding sentence.
 
-#### (2) Effect on stock bonus and profit-sharing trust
+#### (2) Effect on certain trusts
 
-&emsp;For any taxable year for which the employer has a deduction under paragraph (1), the otherwise applicable limitations in subsection (a)(3)(A) shall be reduced by the amount of the allowable deductions under paragraph (1) with respect to participants in the stock bonus or profit-sharing trust.
+&emsp;For any taxable year for which the employer has a deduction under paragraph (1), the otherwise applicable limitations in subsection (a)(3)(A) shall be reduced by the amount of the allowable deductions under paragraph (1) with respect to participants in the trust subject to subsection (a)(3)(A).
 
 #### (3) Coordination with subsection (a)(7)
 
@@ -306,9 +318,15 @@ In the case of a self-employed individual described in section 401(c)(1), contri
 
 &emsp;&emsp;&emsp;(i) is paid in cash to the participants in the plan or their beneficiaries,
 
-&emsp;&emsp;&emsp;(ii) is paid to the plan and is distributed in cash to participants in the plan or their beneficiaries not later than 90 days after the close of the plan year in which paid, or
+&emsp;&emsp;&emsp;(ii) is paid to the plan and is distributed in cash to participants in the plan or their beneficiaries not later than 90 days after the close of the plan year in which paid,
 
-&emsp;&emsp;&emsp;(iii) is used to make payments on a loan described in subsection (a)(9) the proceedsof which were used to acquire the employer securities (whether or not allocated to participants) with respect to which the dividend is paid.
+&emsp;&emsp;&emsp;(iii) is, at the election of such participants or their beneficiaries—
+
+&emsp;&emsp;&emsp;&emsp;(I) payable as provided in clause (i) or (ii), or
+
+&emsp;&emsp;&emsp;&emsp;(II) paid to the plan and reinvested in qualifying employer securities, or
+
+&emsp;&emsp;&emsp;(iv) is used to make payments on a loan described in subsection (a)(9) the proceeds of which were used to acquire the employer securities (whether or not allocated to participants) with respect to which the dividend is paid.
 
 #### (B) Limitation on certain dividends
 
@@ -338,7 +356,7 @@ In the case of a self-employed individual described in section 401(c)(1), contri
 
 #### (A) Disallowance of deduction
 
-&emsp;&emsp;The Secretary may disallow the deduction under paragraph (1) for any dividend if the Secretary determines that such dividend constitutes, in substance, an evasion of taxation.
+&emsp;&emsp;The Secretary may disallow the deduction under paragraph (1) for any dividend if the Secretary determines that such dividend constitutes, in substance, an avoidance or evasion of taxation.
 
 #### (B) Plan qualification
 
@@ -358,7 +376,7 @@ In the case of a self-employed individual described in section 401(c)(1), contri
 
 #### (<i>l</i>) Limitation on amount of annual compensation taken into account
 
-For purposes of applying the limitations of this section, the amount of annual compensation of each employee taken into account under the plan for any year shall not exceed $150,000. The Secretary shall adjust the $150,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B). For purposes of clause (i), (ii), or (iii) of subsection (a)(1)(A), and in computing the full funding limitation, any adjustment under the preceding sentence shall not be taken into account for any year before the year for which such adjustment first takes effect.
+For purposes of applying the limitations of this section, the amount of annual compensation of each employee taken into account under the plan for any year shall not exceed $200,000. The Secretary shall adjust the $200,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B). For purposes of clause (i), (ii), or (iii) of subsection (a)(1)(A), and in computing the full funding limitation, any adjustment under the preceding sentence shall not be taken into account for any year before the year for which such adjustment first takes effect.
 
 #### (m) Special rules for simple retirement accounts
 
@@ -376,7 +394,15 @@ For purposes of applying the limitations of this section, the amount of annual c
 
 &emsp;&emsp;For purposes of this subsection, contributions shall be treated as made for a taxable year if they are made on account of the taxable year and are made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 138; Pub. L. 85–866, title I, §24, Sept. 2, 1958, 72 Stat. 1623; Pub. L. 87–792, §3, Oct. 10, 1962, 76 Stat. 819; Pub. L. 87–863, §2(b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 89–809, title II, §204(a), (b)(2), (3), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 91–172, title III, §321(b)(3), Dec. 30, 1969, 83 Stat. 591; Pub. L. 93–406, title II, §§1013(c), 1016(a)(3), 2001(a), (g)(2)(E), (F), 2004(b), (c)(1), 2007(a), (b), title IV, §4401(a), formerly §4081(a), Sept. 2, 1974, 88 Stat. 921, 929, 952, 957, 986, 993, 994, 1033, renumbered §4401(a), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–267, §1(c)(3), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title XV, §1502(a)(2), title XIX, §§1901(a)(59), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1737, 1774, 1834; Pub. L. 95–600, title I, §§133(a), (b), 141(f)(9), 152(f), Nov. 6, 1978, 92 Stat. 2783, 2795, 2799; Pub. L. 96–222, title I, §101(a)(10)(E), (J)(ii), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 96–364, title II, §205, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 97–34, title III, §§312(a), 331(b), 333(a), Aug. 13, 1981, 95 Stat. 283, 293, 296; Pub. L. 97–248, title II, §§235(f), 237(e)(2), 238(a), 253(b), Sept. 3, 1982, 96 Stat. 507, 512, 533; Pub. L. 98–369, div. A, title IV, §474(r)(14), title V, §§512(a), 542(a), title VII, §713(b)(3), (d)(4)(A), (5), (6), (9), July 18, 1984, 98 Stat. 842, 862, 890, 957, 958; Pub. L. 99–272, title XI, §11011(c)(1), (2), Apr. 7, 1986, 100 Stat. 257, 258;Pub. L. 99–514, title XI, §§1106(d)(2), 1108(c), 1112(d)(2), 1131(a), (b), 1136(b), 1171(b)(6), 1173(a), title XVIII, §§1848(c), 1851(b)(2)(A)–(C)(ii), 1854(b)(2)–(5), 1875(c)(7), Oct. 22, 1986, 100 Stat. 2424, 2433, 2445, 2476, 2477, 2486, 2513, 2515, 2857, 2863, 2878, 2895; Pub. L. 100–203, title IX, §9307(c), (d), title X, §10201(b)(2), (3), Dec. 22, 1987, 101 Stat. 1330–357, 1330–387; Pub. L. 100–647, title I, §§1011(d)(1), (4), (f)(6), 1011A(e)(4), 1011B(h)(3), (6), 1018(t)(4)(A), (5), title II, §2005(b), Nov. 10, 1988, 102 Stat. 3459, 3463, 3478, 3491, 3492, 3588, 3589, 3610; Pub. L. 101–239, title VII, §§7302(a), 7841(b)(1), Dec. 19, 1989, 103 Stat. 2351, 2428; Pub. L. 101–508, title XI, §11812(b)(7), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 102–318, title V, §522(a)(2), July 3, 1992, 106 Stat. 314; Pub. L. 103–66, title XIII, §13212(c)(1), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §751(a)(11), Dec. 8, 1994, 108 Stat. 5022; Pub. L. 104–188, title I, §§1316(d)(1), (2), 1421(b)(2), 1431(b)(3), 1461(b), 1704(q)(1), (t)(76), Aug. 20, 1996, 110 Stat. 1786, 1795, 1803, 1823, 1887, 1891; Pub. L. 105–34, title XV, §1530(c)(2), title XVI, §1601(d)(2)(C), Aug. 5, 1997, 111 Stat. 1078, 1088; Pub. L. 105–206, title VI, §6015(d), title VII, §7001(a), July 22, 1998, 112 Stat. 821, 827.)
+#### (n) Elective deferrals not taken into account for purposes of deduction limits
+
+Elective deferrals (as defined in section 402(g)(3)) shall not be subject to any limitation contained in paragraph (3), (7), or (9) of subsection (a), and such elective deferrals shall not be taken into account in applying any such limitation to any other contributions.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 138; Pub. L. 85–866, title I, §24, Sept. 2, 1958, 72 Stat. 1623; Pub. L. 87–792, §3, Oct. 10, 1962, 76 Stat. 819; Pub. L. 87–863, §2(b), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 89–809, title II, §204(a), (b)(2), (3), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 91–172, title III, §321(b)(3), Dec. 30, 1969, 83 Stat. 591; Pub. L. 93–406, title II, §§1013(c), 1016(a)(3), 2001(a), (g)(2)(E), (F), 2004(b), (c)(1), 2007(a), (b), title IV, §4401(a), formerly §4081(a), Sept. 2, 1974, 88 Stat. 921, 929, 952, 957, 986, 993, 994, 1033, renumbered §4401(a), Pub. L. 96–364, title I, §108(a), Sept. 26, 1980, 94 Stat. 1267; Pub. L. 94–267, §1(c)(3), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title XV, §1502(a)(2), title XIX, §§1901(a)(59), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1737, 1774, 1834; Pub. L. 95–600, title I, §§133(a), (b), 141(f)(9), 152(f), Nov. 6, 1978, 92 Stat. 2783, 2795, 2799; Pub. L. 96–222, title I, §101(a)(10)(E), (J)(ii), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 96–364, title II, §205, Sept. 26, 1980, 94 Stat. 1287; Pub. L. 97–34, title III, §§312(a), 331(b), 333(a), Aug. 13, 1981, 95 Stat. 283, 293, 296; Pub. L. 97–248, title II, §§235(f), 237(e)(2), 238(a), 253(b), Sept. 3, 1982, 96 Stat. 507, 512, 533; Pub. L. 98–369, div. A, title IV, §474(r)(14), title V, §§512(a), 542(a), title VII, §713(b)(3), (d)(4)(A), (5), (6), (9), July 18, 1984, 98 Stat. 842, 862, 890, 957, 958; Pub. L. 99–272, title XI, §11011(c)(1), (2), Apr. 7, 1986, 100 Stat. 257, 258; Pub. L. 99–514, title XI, §§1106(d)(2), 1108(c), 1112(d)(2), 1131(a), (b), 1136(b), 1171(b)(6), 1173(a), title XVIII, §§1848(c), 1851(b)(2)(A)–(C)(ii), 1854(b)(2)–(5), 1875(c)(7), Oct. 22, 1986, 100 Stat. 2424, 2433, 2445, 2476, 2477, 2486, 2513, 2515, 2857, 2863, 2878, 2895; Pub. L. 100–203, title IX, §9307(c), (d), title X, §10201(b)(2), (3), Dec. 22, 1987, 101 Stat. 1330–357, 1330–387; Pub. L. 100–647, title I, §§1011(d)(1), (4), (f)(6), 1011A(e)(4), 1011B(h)(3), (6), 1018(t)(4)(A), (5), title II, §2005(b), Nov. 10, 1988, 102 Stat. 3459, 3463, 3478, 3491, 3492, 3588, 3589, 3610; Pub. L. 101–239, title VII, §§7302(a), 7841(b)(1), Dec. 19, 1989, 103 Stat. 2351, 2428; Pub. L. 101–508, title XI, §11812(b)(7), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 102–318, title V, §522(a)(2), July 3, 1992, 106 Stat. 314; Pub. L. 103–66, title XIII, §13212(c)(1), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §751(a)(11), Dec. 8, 1994, 108 Stat. 5022; Pub. L. 104–188, title I, §§1316(d)(1), (2), 1421(b)(2), 1431(b)(3), 1461(b), 1704(q)(1), (t)(76), Aug. 20, 1996, 110 Stat. 1786, 1795, 1803, 1823, 1887, 1891; Pub. L. 105–34, title XV, §1530(c)(2), title XVI, §1601(d)(2)(C), Aug. 5, 1997, 111 Stat. 1078, 1088; Pub. L. 105–206, title VI, §6015(d), title VII, §7001(a), July 22, 1998, 112 Stat. 821, 827; Pub. L. 107–16, title VI, §§611(c)(1), 614(a), 616(a)–(b)(2)(A), 632(a)(3)(B), 652(a), 662(a), (b), June 7, 2001, 115 Stat. 97, 102, 103, 114, 129, 142.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -386,11 +412,37 @@ Section 401(a)(17), referred to in subsec. (a)(2), was repealed by Pub. L. 97–
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(3)(A)(v)(II), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(1), (3)(B), (C), (4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 4022, 4041, 4062, 4063, and 4064 of the Employee Retirement Income Security Act of 1974 are classified to sections 1322, 1341, 1362, 1363, and 1364, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(1)(D)(iv), (g)(1), (3)(B), (C), (4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 4022, 4041, 4062, 4063, and 4064 of the Employee Retirement Income Security Act of 1974 are classified to sections 1322, 1341, 1362, 1363, and 1364, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of the Retirement Protection Act of 1994, referred to in subsec. (g)(4), is the date of enactment of subtitle F (§§750–781) of title VII of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–16, §§616(a)(2)(B)(i), 901, temporarily inserted “(other than a trust to which paragraph (3) applies)” after “pension trust” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (a)(1)(D). Pub. L. 107–16, §§652(a), 901, temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any defined benefit plan (other than a multiemployer plan) which has more than 100 participants for the plan year, except as provided in regulations, the maximum amount deductible under the limitations of this paragraph shall not be less than the unfunded current liability determined under section 412(<i>l</i>). For purposes of determining whether a plan has more than 100 participants, all defined benefit plans maintained by the same employer (or any member of such employer's controlled group (within the meaning of section 412(<i>l</i>)(8)(C))) shall be treated as 1 plan, but only employees of such member or employer shall be taken into account.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (a)(3)(A)(i)(I). Pub. L. 107–16, §§616(a)(1)(A), 901, temporarily substituted “25 percent” for “15 percent”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (a)(3)(A)(v). Pub. L. 107–16, §§616(a)(2)(A), 901, temporarily amended cl. (v) generally, substituting present provisions for provisions which directed that the limitation of cl. (i) for any taxable year would be increased by the unused pre-87 limitation carryforwards and defined “unused pre-87 limitation carryforwards”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (a)(3)(B). Pub. L. 107–16, §§616(b)(2)(A), 901, temporarily struck out at end “The term ‘compensation otherwise paid or accrued during the taxable year to all employees’ shall include any amount with respect to which an election under section 415(c)(3)(C) is in effect, but only to the extent that any contribution with respect to such amount is nonforfeitable.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (a)(10)(B). Pub. L. 107–16, §§632(a)(3)(B), 901, temporarily struck out “, the exclusion allowance under section 403(b)(2),” after “deferrals under section 402(g)”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (a)(12). Pub. L. 107–16, §§616(b)(1), 901, temporarily added par. (12). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (h)(1)(C). Pub. L. 107–16, §§616(a)(1)(B), 901, temporarily substituted “25 percent” for “15 percent” in two places. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (h)(2). Pub. L. 107–16, §§616(a)(2)(B)(ii), (iii), 901, temporarily substituted “certain trusts” for “stock bonus and profit-sharing trust” in heading and “trust subject to subsection (a)(3)(A)” for “stock bonus or profit-sharing trust” in text. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (k)(2)(A)(iii), (iv). Pub. L. 107–16, §§662(a), 901, temporarily added cl. (iii) and redesignated former cl. (iii) as (iv). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (k)(5)(A). Pub. L. 107–16, §§662(b), 901, temporarily inserted “avoidance or” before “evasion”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (<i>l</i>). Pub. L. 107–16, §§611(c)(1), 901, temporarily substituted “$200,000” for “$150,000” in two places. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (n). Pub. L. 107–16, §§614(a), 901, temporarily added subsec. (n). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1998</b>—Subsec. (a)(9)(C), (D). Pub. L. 105–206, §6015(d), redesignated subpar. (C), relating to qualified gratuitous transfers, as (D) and inserted heading.
 
@@ -440,7 +492,7 @@ Subsec. (a)(8)(D). Pub. L. 100–647, §1018(t)(5), made technical correction to
 
 Subsec. (h)(1)(C). Pub. L. 100–647, §1011(f)(6), inserted “(or during the taxable year in the case of a taxable year described in subparagraph (A)(ii))” after “within the taxable year”.
 
-Subsec. (h)(3). Pub. L. 100–647, §1011A(e)(4)(B), substituted “Coordination with subsection (a)(7)” for “Effect on limit on deductions” in heading and amended text generally. Prior to amendment, text read as follows: “For any taxable year for which the employer has a deduction under paragraph (1), the otherwise applicable 25 percent limitations in subsection (a)(7) shall bereduced by the amount of the allowable deductions under paragraph (1) with respect to participants in the stock bonus or profit-sharing trust.”
+Subsec. (h)(3). Pub. L. 100–647, §1011A(e)(4)(B), substituted “Coordination with subsection (a)(7)” for “Effect on limit on deductions” in heading and amended text generally. Prior to amendment, text read as follows: “For any taxable year for which the employer has a deduction under paragraph (1), the otherwise applicable 25 percent limitations in subsection (a)(7) shall be reduced by the amount of the allowable deductions under paragraph (1) with respect to participants in the stock bonus or profit-sharing trust.”
 
 Subsec. (k). Pub. L. 100–647, §1011B(h)(3)(A), inserted “(whether or not allocated to participants)” after “to employer securities” in par. (2)(C).
 
@@ -606,6 +658,22 @@ Subsecs. (e), (f). Pub. L. 87–792, §3(b), added subsecs. (e) and (f).
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–866 substituted “income); but, if” for “income) but if” preceding par. (1).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 611(c)(1) of Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
+
+Pub. L. 107–16, title VI, §614(b), June 7, 2001, 115 Stat. 102, provided that: “The amendment made by this section \[amending this section\] shall apply to years beginning after December 31, 2001.”
+
+Pub. L. 107–16, title VI, §616(c), June 7, 2001, 115 Stat. 103, provided that: “The amendments made by this section \[amending this section and section 4972 of this title\] shall apply to years beginning after December 31, 2001.”
+
+Amendment by section 632(a)(3)(B) of Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 632(a)(4) of Pub. L. 107–16, set out as a note under section 72 of this title.
+
+Pub. L. 107–16, title VI, §652(c), June 7, 2001, 115 Stat. 130, provided that: “The amendments made by this section \[amending this section and section 4972 of this title\] shall apply to plan years beginning after December 31, 2001.”
+
+Pub. L. 107–16, title VI, §662(c), June 7, 2001, 115 Stat. 142, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 6015(d) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
@@ -690,7 +758,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Amortization of gains and losses.—Sections 412(b)(2)(B)(iv) and 412(b)(3)(B)(ii) of the Internal Revenue Code of 1986 and sections 302(b)(2)(B)(iv) and302(b)(3)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1082(b)(2)(B)(iv), (3)(B)(ii)\] (as amended by paragraphs (1)(A) and (2)(A) of subsection (a)) shall apply to gains and losses established in years beginning after December 31, 1987. For purposes of the preceding sentence, any gain or loss determined by a valuation occurring as of January 1, 1988, shall be treated as established in years beginning before 1988, or at the election of the employer, shall be amortized in accordance with Internal Revenue Service Notice 89–52.”
+Amortization of gains and losses.—Sections 412(b)(2)(B)(iv) and 412(b)(3)(B)(ii) of the Internal Revenue Code of 1986 and sections 302(b)(2)(B)(iv) and 302(b)(3)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1082(b)(2)(B)(iv), (3)(B)(ii)\] (as amended by paragraphs (1)(A) and (2)(A) of subsection (a)) shall apply to gains and losses established in years beginning after December 31, 1987. For purposes of the preceding sentence, any gain or loss determined by a valuation occurring as of January 1, 1988, shall be treated as established in years beginning before 1988, or at the election of the employer, shall be amortized in accordance with Internal Revenue Service Notice 89–52.”
 
 Section 10201(c)(1) of Pub. L. 100–203 provided that: “The amendments made by this section \[amending this section and sections 419 and 461 of this title, and repealing sections 81 and 463 of this title\] shall apply to taxable years beginning after December 31, 1987.”
 
@@ -856,9 +924,25 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
+#### Clarification of Treatment of Contributions to Multiemployer Plan
+
+Pub. L. 107–16, title VI, §658, June 7, 2001, 115 Stat. 137, provided that:
+
+“(a)
+
+Not Considered Method of Accounting.—For purposes of section 446 of the Internal Revenue Code of 1986, a determination under section 404(a)(6) of such Code regarding the taxable year with respect to which a contribution to a multiemployer pension plan is deemed made shall not be treated as a method of accounting of the taxpayer. No deduction shall be allowed for any taxable year for any contribution to a multiemployer pension plan with respect to which a deduction was previously allowed.
+
+“(b)
+
+Regulations.—The Secretary of the Treasury shall promulgate such regulations as necessary to clarify that a taxpayer shall not be allowed an aggregate amount of deductions for contributions to a multiemployer pension plan which exceeds the amount of such contributions made or deemed made under section 404(a)(6) of the Internal Revenue Code of 1986 to such plan.
+
+“(c)
+
+Effective Date.—Subsection (a), and any regulations promulgated under subsection (b), shall be effective for years ending after the date of the enactment of this Act \[June 7, 2001\].”
+
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to bemade before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 
@@ -894,11 +978,11 @@ Section 1022(j) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 2
 
 &emsp;“(3) such employer establishes a trust (whether organized within or outside the United States) for the purpose of funding the payments required by such law,
 
-> then, in determining for purposes of paragraph (5) of section 404(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the taxable year in which any contribution to or under the plan is includible in the gross income of the nonresident alien employees of such employer, such paragraph (5) shall be treated as not requiring that separate accounts be maintained for such nonresident alien employees.”
+> then, in determining for purposes of paragraph (5) of section 404(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the taxable year in which any contribution to or under the plan is includible in the grossincome of the nonresident alien employees of such employer, such paragraph (5) shall be treated as not requiring that separate accounts be maintained for such nonresident alien employees.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 62, 72, 83, 104, 162, 172, 381, 401, 402, 403, 404A, 406, 407, 408, 409, 411, 413, 414, 415, 419, 465, 467, 542, 556, 664, 3405, 4941, 4972, 6047, 6048, 6662, 9701, 9704 of this title; title 15 sections 77c, 78c, 78<i>l</i>, 80a–3; title 19 section 2345; title 29 sections 1053, 1055, 1103, 1321, 1322, 1385, 1391, 1396.
+This section is referred to in sections 25B, 62, 72, 83, 104, 162, 172, 381, 401, 402, 403, 404A, 406, 407, 408, 409, 411, 413, 414, 415, 419, 465, 467, 542, 556, 664, 3405, 4941, 4972, 6047, 6048, 6662, 9701, 9704 of this title; title 15 sections 77c, 78c, 78<i>l</i>, 80a–3; title 19 section 2345; title 29 sections 1053, 1055, 1103, 1321, 1322, 1385, 1391, 1396.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

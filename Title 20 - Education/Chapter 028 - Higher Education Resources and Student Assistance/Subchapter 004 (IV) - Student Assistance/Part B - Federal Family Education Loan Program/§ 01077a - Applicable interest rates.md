@@ -154,7 +154,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) Consultation
 
-&emsp;The Secretary shall determine the applicable rate of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+&emsp;The Secretary shall determine the applicable rate of interest under this subsection afterconsultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
 #### (i) Treatment of excess interest payments on new borrower accounts resulting from decline in Treasury bill rates
 
@@ -180,7 +180,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) Excess interest on loans after 1992 amendments, to borrowers with outstanding balances
 
-&emsp;If, with respect to a loan made on or after July 23, 1992, to a borrower, who on the date of entering into the note or other written evidence of the loan, has an outstanding balance of principal or interest on any other loan made, insured, or guaranteed under this part, the sum of the average of the bond equivalentrates of 91-day Treasury bills auctioned for that quarter and 3.1 percent is less than the applicable interest rate, then an adjustment shall be made—
+&emsp;If, with respect to a loan made on or after July 23, 1992, to a borrower, who on the date of entering into the note or other written evidence of the loan, has an outstanding balance of principal or interest on any other loan made, insured, or guaranteed under this part, the sum of the average of the bond equivalent rates of 91-day Treasury bills auctioned for that quarter and 3.1 percent is less than the applicable interest rate, then an adjustment shall be made—
 
 &emsp;&emsp;(A) by calculating excess interest in the amount computed under paragraph (4) of this subsection; and
 
@@ -208,7 +208,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (7) Conversion to variable rate
 
-&emsp;(A) Subject to subparagraphs (C) and (D), a lender or holder shall convert the interest rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. Such conversion shall occur not later than January 1, 1995, and, commencing on the date of conversion, the applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 shall be determined by the Secretary on the June 1 preceding each such 12-month period and be equal to the sum of (i) the bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to such June 1; and (ii) 3.25 percent in the case of loans described in paragraph (1), or 3.10 percent in the case of loans described in paragraph (3).
+&emsp;(A) Subject to subparagraphs (C) and (D), a lender or holder shall convert the interest rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. Such conversion shall occur not later than January 1, 1995, and, commencing on the date of conversion, the applicable interest rate for each 12-month period beginning on July 1 and ending on June 30 shall be determined by the Secretary on the June 1 preceding each such 12-month periodand be equal to the sum of (i) the bond equivalent rate of the 91-day Treasury bills auctioned at the final auction prior to such June 1; and (ii) 3.25 percent in the case of loans described in paragraph (1), or 3.10 percent in the case of loans described in paragraph (3).
 
 &emsp;(B) In connection with the conversion specified in subparagraph (A) for any period prior to such conversion, and subject to paragraphs (C) and (D), a lender or holder shall convert the interest rate to a variable rate on a loan that is made pursuant to this part and is subject to the provisions of this subsection to a variable rate. The interest rates for such period shall be reset on a quarterly basis and the applicable interest rate for any quarter or portion thereof shall equal the sum of (i) the average of the bond equivalent rates of 91-Treasury bills auctioned for the preceding 3-month period, and (ii) 3.25 percent in the case of loans described in paragraph (1) or 3.10 percent in the case of loans described in paragraph (3). The rebate of excess interest derived through this conversion shall be provided to the borrower as specified in paragraph (5) for loans described in paragraph (1) or to the Government and borrower as specified in paragraph (3).
 
@@ -268,7 +268,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (2) In school and grace period rules
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest for interest which accrues—
+&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under this part\(other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(A) prior to the beginning of the repayment period of the loan; or
 
@@ -352,7 +352,7 @@ Subsec. (i). Pub. L. 103–66, §4101(2), redesignated subsec. (f) as (i).
 
 Subsec. (i)(1)(B). Pub. L. 103–208, §2(c)(6), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “by crediting the excess interest to the reduction of principal to the extent provided for under paragraph (5) of this subsection.” See Codification note above.
 
-Subsec. (i)(2)(B). Pub. L. 103–208, §2(c)(7), substituted “average daily principal balance” for “outstanding principal balance” and “during” for “at the end of”. See Codification note above.
+Subsec. (i)(2)(B). Pub. L. 103–208, §2(c)(7), substituted “average daily principal balance” for “outstandingprincipal balance” and “during” for “at the end of”. See Codification note above.
 
 Subsec. (i)(4)(B). Pub. L. 103–208, §2(c)(8), substituted “average daily principal balance” for “outstanding principal balance” and “during” for “at the end of”. See Codification note above.
 
@@ -382,7 +382,7 @@ Subsec. (c)(4)(B). Pub. L. 100–50, §10(d)(1)(C), added subpar. (B) and struck
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–244, title IV, §416(c), Oct. 7, 1998, 112 Stat. 1682, provided that: “The amendments made by thissection \[amending this section and sections 1078–2, 1078–3, and 1087–1 of this title\] shall apply with respect to any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, except that such amendments shall apply with respect to any loan made under section 428C of such Act \[20 U.S.C. 1078–3\] for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003.”
+Pub. L. 105–244, title IV, §416(c), Oct. 7, 1998, 112 Stat. 1682, provided that: “The amendments made by this section \[amending this section and sections 1078–2, 1078–3, and 1087–1 of this title\] shall apply with respect to any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq.\] for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, except that such amendments shall apply with respect to any loan made under section 428C of such Act \[20 U.S.C. 1078–3\] for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003.”
 
 #### Effective Date of 1993 Amendment
 

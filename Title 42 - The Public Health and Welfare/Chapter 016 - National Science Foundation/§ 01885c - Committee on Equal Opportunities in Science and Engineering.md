@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purposes
 
-There is established within the Foundation a Committee on Equal Opportunities in Science and Engineering (hereinafter referred to as the “Committee”). The Committee shall provide advice to the Foundation concerning (1) the implementation of the provisions of sections 1885 to 1885d of this title and (2) other policies and activities of the Foundation to encourage full participation of women, minorities, and persons with disabilities in scientific, engineering, and professional fields.
+There is established within the Foundation a Committee on Equal Opportunities in Scienceand Engineering (hereinafter referred to as the “Committee”). The Committee shall provide advice to the Foundation concerning (1) the implementation of the provisions of sections 1885 to 1885d of this title and (2) other policies and activities of the Foundation to encourage full participation of women, minorities, and persons with disabilities in scientific, engineering, and professional fields.
 
 #### (b) Membership; Chairperson; term of members
 

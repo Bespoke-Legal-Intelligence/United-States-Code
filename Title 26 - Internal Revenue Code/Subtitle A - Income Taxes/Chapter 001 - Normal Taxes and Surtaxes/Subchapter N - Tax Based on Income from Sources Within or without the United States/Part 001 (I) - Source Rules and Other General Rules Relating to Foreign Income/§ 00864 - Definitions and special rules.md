@@ -14,7 +14,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(A) for a nonresident alien individual, foreign partnership, or foreign corporation, not engaged in trade or business within the United States, or
 
-&emsp;&emsp;(B) for an office or place of business maintained in a foreign country or in a possession of the United States by an individual who is a citizen or resident of the United States or by a domestic partnership or a domestic corporation,
+&emsp;&emsp;(B) for an office or place of business maintained in a foreign country or in a possession of the United States by an individual who is a citizen or resident of the United States orby a domestic partnership or a domestic corporation,
 
 > &emsp;by a nonresident alien individual temporarily present in the United States for a period or periods not exceeding a total of 90 days during the taxable year and whose compensation for such services does not exceed in the aggregate $3,000.
 
@@ -60,7 +60,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 #### (2) Periodical, etc., income from sources within United States—factors
 
-&emsp;In determining whether income from sources within the United States of the types described in section 871(a)(1), section 871(h), section 881(a), or section 881(c), or whether gain or loss from sources within the United Statesfrom the sale or exchange of capital assets, is effectively connected with the conduct of a trade or business within the United States, the factors taken into account shall include whether—
+&emsp;In determining whether income from sources within the United States of the types described in section 871(a)(1), section 871(h), section 881(a), or section 881(c), or whether gain or loss from sources within the United States from the sale or exchange of capital assets, is effectively connected with the conduct of a trade or business within the United States, the factors taken into account shall include whether—
 
 &emsp;&emsp;(A) the income, gain, or loss is derived from assets used in or held for use in the conduct of such trade or business, or
 
@@ -110,7 +110,7 @@ For purposes of this part, part II, and chapter 3, the term “trade or business
 
 &emsp;&emsp;(B) is attributable to a sale or exchange of property or the performance of services (or any other transaction) in any other taxable year,
 
-> &emsp;the determination of whether such income or gain is taxable under section 871(b) or 882 (asthe case may be) shall be made as if such income or gain were taken into account in such other taxable year and without regard to the requirement that the taxpayer be engaged in a trade or business within the United States during the taxable year referred to in subparagraph (A).
+> &emsp;the determination of whether such income or gain is taxable under section 871(b) or 882 (as the case may be) shall be made as if such income or gain were taken into account in such other taxable year and without regard to the requirement that the taxpayer be engaged in a trade or business within the United States during the taxable year referred to in subparagraph (A).
 
 #### (7) Treatment of certain property transactions
 
@@ -302,7 +302,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(E) for appropriate adjustments in the application of paragraph (3) in the case of an insurance company, and
 
-&emsp;&emsp;(F) that this subsection shall not apply for purposes of any provision of this subchapter to the extent the Secretary determines that the application of this subsection for such purposes would not be appropriate.
+&emsp;&emsp;(F) that this subsection shall not apply for purposes of any provision of this subchapter to the extent the Secretary determines thatthe application of this subsection for such purposes would not be appropriate.
 
 #### (f) Allocation of research and experimental expenditures
 
@@ -336,7 +336,7 @@ For purposes of this subchapter—
 
 #### (B) Description of expenditures
 
-&emsp;&emsp;For purposes of subparagraph (A), qualified research and experimental expendituresare described in this subparagraph if such expenditures are attributable to activities conducted—
+&emsp;&emsp;For purposes of subparagraph (A), qualified research and experimental expenditures are described in this subparagraph if such expenditures are attributable to activities conducted—
 
 &emsp;&emsp;&emsp;(i) in space,
 
@@ -364,7 +364,7 @@ For purposes of this subchapter—
 
 #### (5) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection, including regulations relating to the determination of whether any expenses are attributable to activities conducted in the United States or outside the United States and regulations providing such adjustments to the provisions of this subsection as may be appropriate in the case of cost-sharing arrangements and contract research.
+&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out thepurposes of this subsection, including regulations relating to the determination of whether any expenses are attributable to activities conducted in the United States or outside the United States and regulations providing such adjustments to the provisions of this subsection as may be appropriate in the case of cost-sharing arrangements and contract research.
 
 #### (6) Applicability
 
@@ -410,7 +410,7 @@ In general.—Except as provided in this paragraph, this subsection shall apply 
 
 “(B)
 
-Reduction.—Notwithstanding subparagraph (A), this subsection shall only apply to that portion of the qualified research and experimental expenditures forthe taxable year referred to in subparagraph (A) which bears the same ratio to the total amount of such expenditures as—
+Reduction.—Notwithstanding subparagraph (A), this subsection shall only apply to that portion of the qualified research and experimental expenditures for the taxable year referred to in subparagraph (A) which bears the same ratio to the total amount of such expenditures as—
 
 &emsp;“(i) the lesser of 9 months or the number of months in the taxable year, bears to
 
@@ -436,7 +436,7 @@ Subsec. (e). Pub. L. 100–647, §1012(h)(6)(B), struck out “(except as provid
 
 Subsec. (e)(1). Pub. L. 100–647, §1012(h)(2)(A), struck out “from sources outside the United States” after “affiliated group”.
 
-Subsec. (e)(3). Pub. L. 100–647, §1012(h)(3), inserted sentence at end and struck out former last sentence which read as follows: “A similar rule shall apply in the case of any dividend (other than a qualifying dividend as defined in section 243(b)) for which a deduction is allowable under section 243 or 245(a) and any stock the dividends on which would be so deductible and would not be qualifying dividends (as so defined).”
+Subsec. (e)(3). Pub. L. 100–647, §1012(h)(3), inserted sentence at end and struck out former last sentence which read as follows: “A similar rule shall apply in the case of any dividend (other than a qualifying dividend as defined in section 243(b)) for which a deduction is allowable under section 243 or 245(a) and any stockthe dividends on which would be so deductible and would not be qualifying dividends (as so defined).”
 
 Subsec. (e)(4). Pub. L. 100–647, §1012(h)(1), substituted “nonaffiliated 10-percent owned corporations” for “certain corporations” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of allocating and apportioning expenses on the basis of assets, the adjusted basis of any asset which is stock in a corporation which is not included in the affiliated group and in which members of the affiliated group own 10 percent or more of the total combined voting power of all classes of stock entitled to vote in such corporation shall be—
 
@@ -676,7 +676,7 @@ Special rules.—
 
 &emsp;&emsp;1st taxable year
 
-90&nbsp;&nbsp;
+90  
 
 &emsp;&emsp;2nd taxable year
 
@@ -776,7 +776,7 @@ Special rules for allocating general and administrative expenses.—
 
 &emsp;“(A)
 
-In general.—In the case of an affiliated group of domestic corporations the common parent of which has its principal office in New Brunswick, New Jersey, and has a certificate of organization which wasfiled with the Secretary of the State of New Jersey on November 10, 1887, the amendments made by this section shall not apply to the phase-in percentage of general and administrative expenses paid or incurred in its 1st 3 taxable years beginning after December 31, 1986.
+In general.—In the case of an affiliated group of domestic corporations the common parent of which has its principal office in New Brunswick, New Jersey, and has a certificate of organization which was filed with the Secretary of the State of New Jersey on November 10, 1887, the amendments made by this section shall not apply to the phase-in percentage of general and administrative expenses paid or incurred in its 1st 3 taxable years beginning after December 31, 1986.
 
 &emsp;“(B)
 
@@ -818,7 +818,7 @@ Section 123(c) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 956 of this title\] shall apply to accounts receivable and evidences of indebtedness transferred after March 1, 1984, in taxable years ending after such date.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 956 of this title\] shall apply to accounts receivable and evidences of indebtedness transferred after March 1, 1984, in taxable years ending after such date.
 
 “(2)
 

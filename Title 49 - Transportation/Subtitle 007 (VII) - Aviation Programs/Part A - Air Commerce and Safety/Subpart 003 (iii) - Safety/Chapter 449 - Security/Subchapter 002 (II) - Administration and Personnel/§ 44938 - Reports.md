@@ -2,7 +2,7 @@
 
 (a)
 
-Transportation Security.—Not later than March 31 of each year, the Secretary of Transportation shall submit to Congress a report on transportation security with recommendations the Secretary considers appropriate. The report shall be prepared in conjunction with the biennial report the Administrator of the Federal Aviation Administration submits under subsection (b) of this section in each year the Administrator submits the biennial report, but may not duplicate the information submitted under subsection (b) or section 44907(a)(3) of this title. The Secretary may submit the report in classified and unclassified parts. The report shall include—
+Transportation Security.—Not later than March 31 of each year, the Secretary of Transportation shall submit to Congress a report on transportation security with recommendations the Secretary considers appropriate. The report shall be prepared in conjunction with the biennial report the Under Secretary of Transportation for Security submits under subsection (b) of this section in each year the Under Secretary submits the biennial report, but may not duplicate the information submitted under subsection (b) or section 44907(a)(3) of this title. The Secretary may submit the report in classified and unclassified parts. The report shall include—
 
 &emsp;(1) an assessment of trends and developments in terrorist activities, methods, and other threats to transportation;
 
@@ -20,13 +20,13 @@ Transportation Security.—Not later than March 31 of each year, the Secretary o
 
 &emsp;(8) financial and staffing requirements of the Director;
 
-&emsp;(9) an assessment of financial and staffing requirements, and attainment of existing staffing goals, for carrying out duties and powers of the Administrator related to security; and
+&emsp;(9) an assessment of financial and staffing requirements, and attainment of existing staffing goals, for carrying out duties and powers of the Under Secretary related to security; and
 
 &emsp;(10) appropriate legislative and regulatory recommendations.
 
 (b)
 
-Screening and Foreign Air Carrier and Airport Security.—The Administrator shall submit biennially to Congress a report—
+Screening and Foreign Air Carrier and Airport Security.—The Under Secretary shall submit biennially to Congress a report—
 
 &emsp;(1) on the effectiveness of procedures under section 44901 of this title;
 
@@ -34,11 +34,11 @@ Screening and Foreign Air Carrier and Airport Security.—The Administrator shal
 
 &emsp;(3) that includes an assessment of the steps being taken, and the progress being made, in ensuring compliance with section 44906 of this title for each foreign air carrier security program at airports outside the United States—
 
-&emsp;&emsp;(A) at which the Administrator decides that Foreign Security Liaison Officers are necessary for air transportation security; and
+&emsp;&emsp;(A) at which the Under Secretary decides that Foreign Security Liaison Officers are necessary for air transportation security; and
 
 &emsp;&emsp;(B) for which extraordinary security measures are in place.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1220; Pub. L. 103–305, title V, §502, Aug. 23, 1994, 108 Stat. 1595; Pub. L. 105–362, title XV, §1502(b), Nov. 10, 1998, 112 Stat. 3295.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1220; Pub. L. 103–305, title V, §502, Aug. 23, 1994, 108 Stat. 1595; Pub. L. 105–362, title XV, §1502(b), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 107–71, title I, §101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -83,6 +83,12 @@ In subsection (b)(2), the words “a summary of the assessments conducted under 
 In subsection (b)(3), before clause (A), the words “that includes” are substituted for “The Administrator shall submit to Congress as part of the annual report required by section 315(a)” because of the restatement.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), in introductory provisions, substituted “Under Secretary” for “Administrator” in two places and “of Transportation for Security” for “of the Federal Aviation Administration”.
+
+Subsec. (a)(9). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
+
+Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions and par. (3)(A).
 
 1998—Subsec. (a). Pub. L. 105–362, §1502(b)(1), in second sentence of introductory provisions, substituted “biennial report” for “annual report” and inserted “in each year the Administrator submits the biennial report” after “subsection (b) of this section”.
 

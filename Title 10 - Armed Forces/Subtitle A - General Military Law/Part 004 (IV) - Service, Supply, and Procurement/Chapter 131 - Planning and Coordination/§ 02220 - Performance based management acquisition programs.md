@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 104–106, §4321(b)(1), substituted “October 13, 1994”
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 ofPub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by section 4321(b)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Pilot Programs for Testing Program Manager Performance of Product Support Oversight Responsibilities for Life Cycle of Acquisition Programs
 
@@ -60,7 +60,7 @@ Section 5001(b) of Pub. L. 103–355 provided that: “Within one year after the
 
 &emsp;“(1) relate pay to performance (including the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant to section 2220(a) of title 10, as added by subsection (a)); and
 
-&emsp;“(2) provide for consideration, in personnel evaluations and promotion decisions, of the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant to section 2220(a) of title 10, United States Code, as added by subsection (a).”
+&emsp;“(2) provide for consideration, in personnel evaluations and promotion decisions, of the extent to which the performance of personnel in such programs contributes to achieving the cost goals, performance goals, and schedule goals established for acquisition programs of the Department of Defense pursuant tosection 2220(a) of title 10, United States Code, as added by subsection (a).”
 
 #### Recommended Legislation
 

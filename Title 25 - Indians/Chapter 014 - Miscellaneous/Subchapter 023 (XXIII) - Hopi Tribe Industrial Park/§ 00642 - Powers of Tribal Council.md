@@ -16,7 +16,7 @@ To pledge any revenue or other income from lands within said Hopi Industrial Par
 
 #### (d) Issuance of bonds and payment of costs thereof; sale of bonds at public or private sale
 
-To issue bonds for and on behalf of the Hopi Tribe, and pay the costs thereof, to accomplish the purposes of this subchapter, in one or more series, in such denomination or denominations, maturing at such time or times, and in such amount or amounts, bearing interest at such rate or rates, in such form either coupon or registered, to be executed in such manner, payable in such medium of payment, at such place or places, subject to such terms of redemption, with or without premium, and containing such other restrictive terms as may be provided by tribal ordinance. Such bonds may be sold at not less than par at either public or private sale and shall be fully negotiable.
+To issue bonds for and on behalf of the Hopi Tribe, and pay the costs thereof, to accomplish the purposes of this subchapter, in one or more series, in such denomination or denominations, maturing at such time or times, and in such amount or amounts, bearing interest at suchrate or rates, in such form either coupon or registered, to be executed in such manner, payable in such medium of payment, at such place or places, subject to such terms of redemption, with or without premium, and containing such other restrictive terms as may be provided by tribal ordinance. Such bonds may be sold at not less than par at either public or private sale and shall be fully negotiable.
 
 #### (e) Appointment of bank or trust company as trustee for purposes of authorization and creation of issue of bonds; authority to commence action to enforce obligations to tribe without joining United States as party
 

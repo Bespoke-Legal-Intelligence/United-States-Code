@@ -32,7 +32,7 @@ There is established a corporation to be known as the Resolution Funding Corpora
 
 #### (4) Equal representation of banks
 
-&emsp;No president of a Federal Home Loan Bank may be appointed to serve an additional term on the Directorate until such time as the presidents of each of the other Federal Home Loan Banks have served as many terms as the president of such bank.
+&emsp;No president of a Federal Home Loan Bank may be appointed to serve an additional termon the Directorate until such time as the presidents of each of the other Federal Home Loan Banks have served as many terms as the president of such bank.
 
 #### (5) Chairperson
 
@@ -128,7 +128,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (2) Par value; transferability
 
-&emsp;Each share of stock issued by the Funding Corporation to a Federal Home Loan Bank shall have a par value in an amount determined by the Thrift Depositor Protection Oversight Board and shall be transferable at not less than par value only among the Federal Home Loan Banks in the manner and to the extent prescribed by the Thrift Depositor Protection Oversight Board.
+&emsp;Each share of stock issued by the Funding Corporation to a Federal Home Loan Bankshall have a par value in an amount determined by the Thrift Depositor Protection Oversight Board and shall be transferable at not less than par value only among the Federal Home Loan Banks in the manner and to the extent prescribed by the Thrift Depositor Protection Oversight Board.
 
 #### (3) Maximum investment amount limitation for each Federal Home Loan Bank
 
@@ -164,7 +164,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (ii) Decrease in limit
 
-&emsp;&emsp;&emsp;If the aggregate amount for all Federal Home Loan Banks determined under subparagraph (B)(i) is more than $300,000,000 per year, the limit for each Bank shall bedecreased by an amount determined by the Thrift Depositor Protection Oversight Board by multiplying the aggregate excess by the percentage applicable to such Bank arrived at in the manner described in paragraph (5).
+&emsp;&emsp;&emsp;If the aggregate amount for all Federal Home Loan Banks determined under subparagraph (B)(i) is more than $300,000,000 per year, the limit for each Bank shall be decreased by an amount determined by the Thrift Depositor Protection Oversight Board by multiplying the aggregate excess by the percentage applicable to such Bank arrived at in the manner described in paragraph (5).
 
 #### (4) Pro rata distribution of first $1,000,000,000 invested in Funding Corporation by Federal Home Loan Banks
 
@@ -234,7 +234,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (A) In general
 
-&emsp;&emsp;If the amount of any Federal Home Loan Bank's allocation under paragraph (5) exceeds the maximum amount applicable with respect to such Bank (in this paragraph referred to as a “deficient Bank”) under paragraph (3) at the time of such determination (in this paragraph referred to as the “excess amount”)—
+&emsp;&emsp;If the amount of any Federal Home Loan Bank's allocation under paragraph (5) exceeds the maximum amount applicable with respect to such Bank (in this paragraph referred to as a “deficient Bank”) under paragraph (3) at the time of such determination\(in this paragraph referred to as the “excess amount”)—
 
 &emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceeds its maximum under paragraph (3) (in this paragraph referred to as a “remaining Bank”) to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
 
@@ -260,7 +260,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by other Banks plus interest which shall accrue at a rate equal to the annual average cost offunds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
+&emsp;&emsp;&emsp;A Bank on whose behalf stock is purchased under subparagraph (A)(i) shall make payments annually from amounts, if any, in its reserve account (as described in subparagraph (D)) to each Bank that made payments on its behalf until a full reimbursement has been completed. A full reimbursement shall require repayment of the excess amounts invested by other Banks plus interest which shall accrue at a rate equal to the annual average cost of funds in the most recent year to all Federal Home Loan Banks and which shall begin to accrue 2 years after the investments under subparagraph (A)(i) are made.
 
 #### (ii) Determination of amounts
 
@@ -354,7 +354,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;To the extent the amounts available pursuant to subparagraphs (A), (B), (C), and (D) are insufficient to cover the amount of interest payments, the Secretary of the Treasury shall pay to the Funding Corporation the additional amount due, which shall be used by the Funding Corporation to pay such interest.
+&emsp;&emsp;&emsp;To the extent the amounts available pursuant to subparagraphs (A), (B), (C), and\(D) are insufficient to cover the amount of interest payments, the Secretary of the Treasury shall pay to the Funding Corporation the additional amount due, which shall be used by the Funding Corporation to pay such interest.
 
 #### (ii) Liability of Funding Corporation
 
@@ -420,7 +420,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (1) In general
 
-&emsp;Subject to regulations, restrictions, and limitations prescribed by the Thrift Depositor Protection Oversight Board, assets of the Funding Corporation which are not required to be invested in capital certificates issued by the Resolution Trust Corporation under section 1441a of this title and are not needed for current interest payments shall be invested in direct obligations of the United States issued by the Secretary.
+&emsp;Subject to regulations, restrictions, and limitations prescribed by the Thrift Depositor Protection Oversight Board, assets of the Funding Corporation which are not required to be invested in capital certificates issued by the Resolution Trust Corporation under section 1441a of this title and are not needed for current interest payments shall be invested indirect obligations of the United States issued by the Secretary.
 
 #### (2) Separate account for zero coupon instruments held to ensure payment of principal
 

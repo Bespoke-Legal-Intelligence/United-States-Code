@@ -20,7 +20,7 @@
 
 &emsp;(1) Written comments about an application, including comments of the Attorney General and the Secretary of Transportation, may be filed with the Board within 30 days after notice of the application is published under subsection (a) of this section.
 
-&emsp;(2) The Board shall require that applications inconsistent with an application, notice of which was published under subsection (a) of this section, and applications for inclusion in the transaction, be filed with it by the 60th day after publication of notice under that subsection.
+&emsp;(2) The Board shall require that applications inconsistent with an application, notice ofwhich was published under subsection (a) of this section, and applications for inclusion in the transaction, be filed with it by the 60th day after publication of notice under that subsection.
 
 &emsp;(3) The Board must conclude any evidentiary proceedings by the 180th day after the date of publication of notice under subsection (a) of this section. The Board must issue a final decision by the 90th day after the date on which it concludes the evidentiary proceedings.
 

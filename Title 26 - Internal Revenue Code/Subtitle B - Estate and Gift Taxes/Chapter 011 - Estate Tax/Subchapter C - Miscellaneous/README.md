@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2201\.](%C2%A7%2002201%20-%20Members%20of%20the%20Armed%20Forces%20dying%20in%20combat%20zone%20or%20by%20reason%20of%20combat-zone-incurred%20wounds%2C%20etc.md) | Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc. |
+| [2201\.](%C2%A7%2002201%20-%20Combat%20zone-related%20deaths%20of%20members%20of%20the%20Armed%20Forces%20and%20deaths%20of%20victims%20of%20certain%20terrorist%20attacks.md) | Combat zone-related deaths of members of the Armed Forces and deaths of victims of certain terrorist attacks. |
 | \[2202. | Repealed.\] |
 | [2203\.](%C2%A7%2002203%20-%20Definition%20of%20executor.md) | Definition of executor. |
 | [2204\.](%C2%A7%2002204%20-%20Discharge%20of%20fiduciary%20from%20personal%20liability.md) | Discharge of fiduciary from personal liability. |
@@ -13,11 +13,15 @@
 | [2207B.](%C2%A7%2002207B%20-%20Right%20of%20recovery%20where%20decedent%20retained%20interest.md) | Right of recovery where decedent retained interest. |
 | [2208\.](%C2%A7%2002208%20-%20Certain%20residents%20of%20possessions%20considered%20citizens%20of%20the%20United%20States.md) | Certain residents of possessions considered citizens of the United States. |
 | [2209\.](%C2%A7%2002209%20-%20Certain%20residents%20of%20possessions%20considered%20nonresidents%20not%20citizens%20of%20the%20United%20States.md) | Certain residents of possessions considered nonresidents not citizens of the United States. |
-| \[2210. | Repealed.\] |
+| [2210\.](%C2%A7%2002210%20-%20Termination.md) | Termination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2002</b>—Pub. L. 107–134, title I, §103(c), Jan. 23, 2002, 115 Stat. 2431, substituted “Combat zone-related deaths of members of the Armed Forces and deaths of victims of certain terrorist attacks.” for “Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc.” in item 2201.
+
+<b>2001</b>—Pub. L. 107–16, title V, §501(c)(1), June 7, 2001, 115 Stat. 69, added item 2210.
 
 <b>1989</b>—Pub. L. 101–239, title VII, §7304(b)(2)(C), Dec. 19, 1989, 103 Stat. 2353, struck out item 2210 “Liability for payment in case of transfer of employer securities to an employee stock ownership plan or a worker-owned cooperative”.
 
@@ -42,7 +46,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02201 - Members of the Armed Forces dying in combat zone or by reason of combat-zone-incurred wounds, etc](%C2%A7%2002201%20-%20Members%20of%20the%20Armed%20Forces%20dying%20in%20combat%20zone%20or%20by%20reason%20of%20combat-zone-incurred%20wounds%2C%20etc.md)
+- [&sect; 02201 - Combat zone-related deaths of members of the Armed Forces and deaths of victims of certain terrorist attacks](%C2%A7%2002201%20-%20Combat%20zone-related%20deaths%20of%20members%20of%20the%20Armed%20Forces%20and%20deaths%20of%20victims%20of%20certain%20terrorist%20attacks.md)
 - [&sect; 02202 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1902(a)(8), Oct. 4, 1976, 90 Stat. 1805](%C2%A7%2002202%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71902%28a%29%288%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201805.md)
 - [&sect; 02203 - Definition of executor](%C2%A7%2002203%20-%20Definition%20of%20executor.md)
 - [&sect; 02204 - Discharge of fiduciary from personal liability](%C2%A7%2002204%20-%20Discharge%20of%20fiduciary%20from%20personal%20liability.md)
@@ -53,4 +57,4 @@
 - [&sect; 02207B - Right of recovery where decedent retained interest](%C2%A7%2002207B%20-%20Right%20of%20recovery%20where%20decedent%20retained%20interest.md)
 - [&sect; 02208 - Certain residents of possessions considered citizens of the United States](%C2%A7%2002208%20-%20Certain%20residents%20of%20possessions%20considered%20citizens%20of%20the%20United%20States.md)
 - [&sect; 02209 - Certain residents of possessions considered nonresidents not citizens of the United States](%C2%A7%2002209%20-%20Certain%20residents%20of%20possessions%20considered%20nonresidents%20not%20citizens%20of%20the%20United%20States.md)
-- [&sect; 02210 - Repealed. Pub. L. 101&#8211;239, title VII, &sect;7304(b)(1), Dec. 19, 1989, 103 Stat. 2353](%C2%A7%2002210%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93239%2C%20title%20VII%2C%20%C2%A77304%28b%29%281%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202353.md)
+- [&sect; 02210 - Termination](%C2%A7%2002210%20-%20Termination.md)

@@ -44,7 +44,7 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 
 #### Effective and Termination Dates of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, but to cease to applyfor taxable years ending after Dec. 31, 1975, see section 305(b)(1) of Pub. L. 94–12, set out as a note under section 11 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, but to cease to apply for taxable years ending after Dec. 31, 1975, see section 305(b)(1) of Pub. L. 94–12, set out as a note under section 11 of this title.
 
 #### Effective Date of 1969 Amendment
 

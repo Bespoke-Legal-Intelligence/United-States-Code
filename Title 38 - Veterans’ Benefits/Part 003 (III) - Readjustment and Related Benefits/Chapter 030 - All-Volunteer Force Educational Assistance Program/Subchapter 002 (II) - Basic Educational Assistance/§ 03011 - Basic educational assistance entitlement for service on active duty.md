@@ -6,15 +6,27 @@
 
 &emsp;&emsp;(A) after June 30, 1985, first becomes a member of the Armed Forces or first enters on active duty as a member of the Armed Forces and—
 
-&emsp;&emsp;&emsp;(i) who serves an obligated period of active duty of at least two years of continuous active duty in the Armed Forces; or
+&emsp;&emsp;&emsp;(i) who (I) in the case of an individual whose obligated period of active duty is three years or more, serves at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose obligated period of active duty is less than three years, serves at least two years of continuous active duty in the Armed Forces; or
 
-&emsp;&emsp;&emsp;(ii) who serves in the Armed Forces and is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability and did not result from the individual's own willful misconduct but did interfere with the individual's performance of duty, as determined by the Secretary of each military department in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy; (II) for the convenience of the Government, if, in the case of an individual with an obligated period of service of two years, the individual completes not less than 20 months of continuous active duty under that period of obligated service, or, in the case of an individual with an obligated period of service of at least three years, the individual completes not less than 30 months of continuous active duty under that period of obligated service; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy; or
+&emsp;&emsp;&emsp;(ii) who serves in the Armed Forces and is discharged or released from active duty (I) for a service-connected disability, for amedical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability and did not result from the individual's own willful misconduct but did interfere with the individual's performance of duty, as determined by the Secretary of each military department in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy; (II) for the convenience of the Government, if, in the case of an individual with an obligated period of service of two years, the individual completes not less than 20 months of continuous active duty under that period of obligated service, or, in the case of an individual with an obligated period of service of at least three years, the individual completes not less than 30 months of continuous active duty under that period of obligated service; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy;
 
 &emsp;&emsp;(B) as of December 31, 1989, is eligible for educational assistance benefits under chapter 34 of this title and was on active duty at any time during the period beginning on October 19, 1984, and ending on July 1, 1985, continued on active duty without a break in service and—
 
 &emsp;&emsp;&emsp;(i) after June 30, 1985, serves at least three years of continuous active duty in the Armed Forces; or
 
-&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy;
+&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy; or
+
+&emsp;&emsp;(C) as of December 31, 1989, was eligible for educational assistance benefits under chapter 34 of this title and—
+
+&emsp;&emsp;&emsp;(i) was not on active duty on October 19, 1984;
+
+&emsp;&emsp;&emsp;(ii) reenlists or reenters on a period of active duty on or after October 19, 1984; and
+
+&emsp;&emsp;&emsp;(iii) on or after July 1, 1985, either—
+
+&emsp;&emsp;&emsp;&emsp;(I) serves at least three years of continuous active duty in the Armed Forces; or
+
+&emsp;&emsp;&emsp;&emsp;(II) is discharged or released from active duty (aa) for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph, (bb) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date, or (cc) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy;
 
 &emsp;(2) who completes the requirements of a secondary school diploma (or equivalency certificate), or successfully completes (or otherwise receives academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree, before applying for benefits under this section; and
 
@@ -32,7 +44,7 @@
 
 (b) The basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (c)(1) of this section shall be reduced by $100 for each of the first 12 months that such individual is entitled to such pay. Any amount by which the basic pay of an individual is reduced under this chapter shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual.
 
-(c)(1) An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
+(c)(1) An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made at the time the individual initially enters on activeduty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
 
 (2) An individual who after December 31, 1976, receives a commission as an officer in the Armed Forces upon graduation from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy is not eligible for educational assistance under this section.
 
@@ -40,7 +52,7 @@
 
 &emsp;(A) before October 1, 1996; or
 
-&emsp;(B) after September 30, 1996, and while participating in such program received more than $2,000 for each year of such participation.
+&emsp;(B) after September 30, 1996, and while participating in such program received more than $3,400 for each year of such participation.
 
 (d)(1) For purposes of this chapter, any period of service described in paragraphs (2) and (3) of this subsection shall not be considered a part of an obligated period of active duty on which an individual's entitlement to assistance under this section is based.
 
@@ -56,11 +68,11 @@
 
 (e)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (c)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title. Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (b).
 
-(2) An individual covered by paragraph (1) may make the contributions authorized by that paragraph at any time while on active duty.
+(2) An individual covered by paragraph (1) may make the contributions authorized by that paragraph at any time while on active duty, but not more frequently than monthly.
 
-(3) The total amount of the contributions made by an individual under paragraph (1) may not exceed $600. Such contributions shall be made in multiples of $4.
+(3) The total amount of the contributions made by an individual under paragraph (1) may not exceed $600. Such contributions shall be made in multiples of $20.
 
-(4) Contributions under this subsection shall be made to the Secretary. The Secretary shall deposit any amounts received by the Secretary as contributions under this subsection into the Treasury as miscellaneous receipts.
+(4) Contributions under this subsection shall be made to the Secretary of the military department concerned. That Secretary shall deposit any amounts received as contributions under this subsection into the Treasury as miscellaneous receipts.
 
 (f)(1) For the purposes of this chapter, a member referred to in paragraph (2) or (3) of this subsection who serves the periods of active duty referred to in that paragraph shall be deemed to have served a continuous period of active duty the length of which is the aggregate length of the periods of active duty referred to in that paragraph.
 
@@ -90,7 +102,7 @@
 
 (i) The Secretary concerned shall inform any member of the Armed Forces who has not completed that member's obligated period of active duty (as described in subsection (a)(1)(A)) and who indicates the intent to be discharged or released from such duty for the convenience of the Government of the minimum active duty requirements for entitlement to educational assistance benefits under this chapter. Such information shall be provided to the member in a timely manner.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1411; amended Pub. L. 99–145, title VI, §674(1), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(1), 307(a)(1), 321(1), title VII, §702(8), Oct. 28, 1986, 100 Stat. 3268, 3269, 3277, 3302; Pub. L. 100–48, §3(a), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(a), 103(b)(1), 104(a), 111(a)(2)(A), (3), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4170, 4171; Pub. L. 101–237, title IV, §§409, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2092; Pub. L. 101–510, div. A, title V, §562(a)(1), (2), (b), Nov. 5, 1990, 104 Stat. 1573, 1574; Pub. L. 102–16, §10(a)(1), Mar. 22, 1991, 105 Stat. 55; renumbered §3011, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§302(a)(1), 303(a)(1), 304(a), 305(a), 306(a), Oct. 29, 1992, 106 Stat. 4326–4328; Pub. L. 103–446, title XII, §1201(e)(10), (f)(2), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(A), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(a), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(a), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §§702(a), 704, Nov. 30, 1999, 113 Stat. 1583, 1584; Pub. L. 106–419, title I, §§102(a)(1), 103(a), 105(a)(1), Nov. 1, 2000, 114 Stat. 1824, 1825, 1828.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1411; amended Pub. L. 99–145, title VI, §674(1), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(1), 307(a)(1), 321(1), title VII, §702(8), Oct. 28, 1986, 100 Stat. 3268, 3269, 3277, 3302; Pub. L. 100–48, §3(a), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(a), 103(b)(1), 104(a), 111(a)(2)(A), (3), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4170, 4171; Pub. L. 101–237, title IV, §§409, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2092; Pub. L. 101–510, div. A, title V, §562(a)(1), (2), (b), Nov. 5, 1990, 104 Stat. 1573,1574; Pub. L. 102–16, §10(a)(1), Mar. 22, 1991, 105 Stat. 55; renumbered §3011, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §§302(a)(1), 303(a)(1), 304(a), 305(a), 306(a), Oct. 29, 1992, 106 Stat. 4326–4328; Pub. L. 103–446, title XII, §1201(e)(10), (f)(2), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(A), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(a), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(a), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §§702(a), 704, Nov. 30, 1999, 113 Stat. 1583, 1584; Pub. L. 106–419, title I, §§102(a)(1), 103(a), 105(a)(1), Nov. 1, 2000, 114 Stat. 1824, 1825, 1828; Pub. L. 107–14, §7(a)(1), (c)(1), June 5, 2001, 115 Stat. 31, 32; Pub. L. 107–103, title I, §§105(a), 106(a), Dec. 27, 2001, 115 Stat. 982, 983.)
 
 #### Prior Provisions
 
@@ -99,6 +111,18 @@ Prior section 3011 was renumbered section 5111 of this title.
 Another prior section 3011, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227; Pub. L. 86–490, June 8, 1960, 74 Stat. 161, related to the effective date of an award of increased compensation, dependency and indemnity compensation, or pension, prior to repeal by Pub. L. 87–825, §5(a), Oct. 15, 1962, 76 Stat. 950.
 
 #### Amendments
+
+2001—Subsec. (a)(1)(A)(i). Pub. L. 107–14, §7(a)(1), substituted “(I) in the case of an individual whose obligated period of active duty is three years or more, serves at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose obligated period of active duty is less than three years, serves” for “serves an obligated period of active duty of”.
+
+Subsec. (a)(1)(C). Pub. L. 107–103, §105(a), added subpar. (C).
+
+Subsec. (c)(3)(B). Pub. L. 107–103, §106(a), substituted “$3,400” for “$2,000”.
+
+Subsec. (e)(2). Pub. L. 107–14, §7(c)(1)(A), inserted “, but not more frequently than monthly” before period.
+
+Subsec. (e)(3). Pub. L. 107–14, §7(c)(1)(B), substituted “multiples of $20” for “multiples of $4”.
+
+Subsec. (e)(4). Pub. L. 107–14, §7(c)(1)(C), substituted “Secretary of the military department concerned. That” for “Secretary. The” and struck out “by the Secretary” after “any amounts received”.
 
 2000—Subsec. (a)(1)(A)(i). Pub. L. 106–419, §103(a)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “who (I) serves, as the individual's initial obligated period of active duty, at least three years of continuous active duty in the Armed Forces, or (II) in the case of an individual whose initial period of active duty is less than three years, serves at least two years of continuous active duty in the Armed Forces; or”.
 
@@ -200,6 +224,14 @@ Subsec. (b). Pub. L. 99–576, §303(a)(1), substituted “Any amount by which t
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
 
+#### Effective Date of 2001 Amendments
+
+Pub. L. 107–103, title I, §106(b), Dec. 27, 2001, 115 Stat. 983, provided that: “The amendments made by subsection (a) \[amending this section and section 3012 of this title\] shall apply with respect to educational assistance allowances paid under chapter 30 of title 38, United States Code, for months beginning after the date of the enactment of this Act \[Dec. 27, 2001\].”
+
+Pub. L. 107–14, §7(a)(2), June 5, 2001, 115 Stat. 31, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if enacted on November 1, 2000, immediately after the enactment of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419).”
+
+Pub. L. 107–14, §7(c)(4), June 5, 2001, 115 Stat. 33, provided that: “The amendments made by this subsection \[amending this section and sections 3012 and 3015 of this title\] shall take effect as if included in the enactment of section 105 of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419; 114 Stat. 1828).”
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–419, title I, §105(c), Nov. 1, 2000, 114 Stat. 1829, provided that: “The amendments made by this section \[amending this section and sections 3012 and 3015 of this title\] shall take effect on May 1, 2001.”
@@ -226,7 +258,7 @@ Section 304(b) of Pub. L. 102–568 provided that: “The amendments made by sub
 
 Section 305(b) of Pub. L. 102–568 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if enacted on October 19, 1984.”
 
-Section 306(b) of Pub. L. 102–568 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if enacted on June 30, 1985, and apply to the payment of educational assistance for education or training pursued on or after October 1, 1993.”
+Section 306(b) of Pub. L. 102–568 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if enacted on June 30, 1985, andapply to the payment of educational assistance for education or training pursued on or after October 1, 1993.”
 
 #### Effective Date of 1990 Amendment
 
@@ -262,5 +294,5 @@ Section 303(b) of Pub. L. 102–568 directed Secretary of each military departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3012, 3013, 3015, 3016, 3017, 3018, 3018A, 3018B, 3018C, 3021, 3031, 3034, 3036, 3232, 3462, 4214, 5303A of this title; title 10 section 2006; title 42 section 12603.
+This section is referred to in sections 3012, 3013, 3015, 3016, 3017, 3018, 3018A, 3018B, 3018C, 3020, 3021, 3031, 3034, 3036, 3232, 3462, 4214, 5303A of this title; title 10 section 2006; title 42 section 12603.
 

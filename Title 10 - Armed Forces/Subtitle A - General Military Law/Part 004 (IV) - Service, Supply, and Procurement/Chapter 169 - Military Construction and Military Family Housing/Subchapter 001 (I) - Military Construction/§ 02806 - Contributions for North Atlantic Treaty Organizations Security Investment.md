@@ -1,6 +1,6 @@
 ### §2806. Contributions for North Atlantic Treaty Organizations Security Investment
 
-(a) Within amounts authorized by law for such purpose, the Secretary of Defense may makecontributions for the United States share of the cost of multilateral programs for the acquisition and construction of military facilities and installations (including international military headquarters) and for related expenses for the collective defense of the North Atlantic Treaty Area.
+(a) Within amounts authorized by law for such purpose, the Secretary of Defense may make contributions for the United States share of the cost of multilateral programs for the acquisition and construction of military facilities and installations (including international military headquarters) and for related expenses for the collective defense of the North Atlantic Treaty Area.
 
 (b) Funds may not be obligated or expended in connection with the North Atlantic Treaty Organization Security Investment program in any year unless such funds have been authorized by law for such program.
 
@@ -39,8 +39,4 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 #### Restriction on Certain Funding
 
 Section 2504 of Pub. L. 99–661 prohibited Secretary of Defense from obligating or expending any funds after fiscal year 1987 with respect to NATO infrastructure program under this section until Secretary submitted to Committees on Armed Services of Senate and House (1) a comprehensive master plan for establishing adequate active defenses for air bases in Europe at which operations of United States aircraft are planned, sites in Europe used by United States for logistic support of NATO or for prepositioned overseas mate�AE1riel configured to unit sets, and (2) a report containing a certification by Secretary that sufficient funds have been budgeted by Department of Defense in fiscal year 1988 five-year defense plan to meet objectives of such comprehensive master plan.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2861 of this title.
 

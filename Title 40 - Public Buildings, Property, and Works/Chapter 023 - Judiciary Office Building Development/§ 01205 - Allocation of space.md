@@ -8,7 +8,7 @@
 
 #### (2) Other
 
-&emsp;Any space in the building and other improvements constructed under this chapter which the Chief Justice determines is not needed by the judicial branch of the United States may be made available by the Architect, on a reimbursable basis, to Federal governmental entities which are not part of the judicial branch and which are not staff of Members of Congress or Congressional Committees.
+&emsp;Any space in the building and other improvements constructed under this chapterwhich the Chief Justice determines is not needed by the judicial branch of the United States may be made available by the Architect, on a reimbursable basis, to Federal governmental entities which are not part of the judicial branch and which are not staff of Members of Congress or Congressional Committees.
 
 #### (3) Terms and conditions
 

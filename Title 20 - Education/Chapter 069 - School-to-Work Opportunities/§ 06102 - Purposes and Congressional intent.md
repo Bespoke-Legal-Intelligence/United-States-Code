@@ -18,7 +18,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;&emsp;(iii) increase their opportunities for further education, including education in a 4-year college or university;
 
-&emsp;(2) to facilitate the creation of a universal, high-quality school-to-work transition systemthat enables youths in the United States to identify and navigate paths to productive and progressively more rewarding roles in the workplace;
+&emsp;(2) to facilitate the creation of a universal, high-quality school-to-work transition system that enables youths in the United States to identify and navigate paths to productive and progressively more rewarding roles in the workplace;
 
 &emsp;(3) to utilize workplaces as active learning environments in the educational process by making employers joint partners with educators in providing opportunities for all students to participate in high-quality, work-based learning experiences;
 

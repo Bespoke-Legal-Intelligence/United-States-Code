@@ -22,7 +22,7 @@ For purposes of subsection (c) of this section, the determinations of updated co
 
 #### (e) Inflation adjustment of dollar amount
 
-The $100 amount set forth in subsection (c) of this section shall be adjusted annually by the Secretary for changes in the Consumer Price Index of All Urban Consumers published by the Bureau of Labor Statistics.
+The $100 amount set forth in subsection (c) of this section shall be adjusted annually by theSecretary for changes in the Consumer Price Index of All Urban Consumers published by the Bureau of Labor Statistics.
 
 #### (f) Non-Federal responsibilities
 

@@ -518,9 +518,9 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 (Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997, 111 Stat. 845, 853, 854, 860, 1045.)
 
-#### Adjustment of Decrease in Value of Qualified Real Property for Decedents Dying in Calendar Year 2001
+#### Adjustment of Decrease in Value of Qualified Real Property for Decedents Dying in Calendar Year 2002
 
-<i>For adjustment of aggregate decrease in value of qualified real property resulting from election under this section for estates of decedents dying in calendar year 2001, see section 3.16 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of aggregate decrease in value of qualified real property resulting from election under this section for estates of decedents dying in calendar year 2002, see section 3.18 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -719,6 +719,10 @@ Section 2003(e) of Pub. L. 94–455 provided that: “The amendments made by thi
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+
+#### Waiver of Statute of Limitation for Taxes on Certain Farm Valuations
+
+Pub. L. 107–16, title V, §581, June 7, 2001, 115 Stat. 93, provided that: “If on the date of the enactment of this Act \[June 7, 2001\] (or at any time within 1 year after the date of the enactment) a refund or credit of any overpayment of tax resulting from the application of section 2032A(c)(7)(E) of the Internal Revenue Code of 1986 is barred by any law or rule of law, the refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act.”
 
 #### Information Necessary for Valid Special Use Valuation Election
 

@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(4) “fusion engineering device” means a magnetic fusion facility which achieves at least a burning plasma and serves to test components for engineering purposes;
 
-&emsp;(5) “demonstration plant” means a prototype energy system which is of sufficient size to provide safety, environmental reliability,availability, and ready engineering extrapolation of all components to commercial size but which system need not be economically competitive with then alternative energy sources; and
+&emsp;(5) “demonstration plant” means a prototype energy system which is of sufficient size to provide safety, environmental reliability, availability, and ready engineering extrapolation of all components to commercial size but which system need not be economically competitive with then alternative energy sources; and
 
 &emsp;(6) “Secretary” means Secretary of Energy.
 

@@ -1354,5 +1354,5 @@ Section 6102(e)(11) of Pub. L. 101–239, as amended by Pub. L. 101–508, title
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395a, 1395b–6, 1395<i>l</i>, 1395m, 1395u, 1395w–22, 1395w–23, 1395y, 1395qq, 1395rr, 1395ww of this title; title 5 section 8904.
+This section is referred to in sections 1395a, 1395b–6, 1395<i>l</i>, 1395m, 1395u, 1395w–22, 1395w–23, 1395y, 1395qq, 1395rr, 1395ww of this title; title 5 section 8904; title 10 section 1079.
 

@@ -40,7 +40,7 @@ Any covered class action brought in any State court involving a covered security
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this section, nothing in this section may be construed to preclude a State or political subdivision thereof or a State pension plan from bringing an action involving a covered security on its own behalf, or as a member of a class comprised solely of other States, political subdivisions, or State pension plans that are named plaintiffs, and that have authorized participation, in such action.
+&emsp;&emsp;Notwithstanding any other provision of this section, nothing in this section may be construed to preclude a State or political subdivision thereof or a State pension plan from bringing an action involving a covered security on its own behalf, or as a member ofa class comprised solely of other States, political subdivisions, or State pension plans that are named plaintiffs, and that have authorized participation, in such action.
 
 #### (B) “State pension plan” defined
 

@@ -4,7 +4,7 @@
 
 (1) Not later than 18 months after October 11, 1996, the Secretary shall publish in the Federal Register, after notice and an opportunity for public comment, a list of all fisheries—
 
-&emsp;(A) under the authority of each Council and all fishing gear used in such fisheries, based on information submitted by the Councils under section 1853(a) of this title; and
+&emsp;(A) under the authority of each Council and all fishing gear used in such fisheries, based oninformation submitted by the Councils under section 1853(a) of this title; and
 
 &emsp;(B) to which section 1852(a)(3) of this title applies and all fishing gear used in such fisheries.
 
@@ -48,7 +48,7 @@
 
 &emsp;(A) the Secretary shall promulgate emergency regulations or interim measures under paragraph (1) to address the emergency or overfishing if the Council, by unanimous vote of the members who are voting members, requests the taking of such action; and
 
-&emsp;(B) the Secretary may promulgate emergency regulations or interim measures under paragraph (1) to address the emergency or overfishing if the Council, by less than a unanimous vote, requests the taking of such action.
+&emsp;(B) the Secretary may promulgate emergency regulations or interim measures underparagraph (1) to address the emergency or overfishing if the Council, by less than a unanimous vote, requests the taking of such action.
 
 (3) Any emergency regulation or interim measure which changes any existing fishery management plan or amendment shall be treated as an amendment to such plan for the period in which such regulation is in effect. Any emergency regulation or interim measure promulgated under this subsection—
 
@@ -70,7 +70,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (f) Judicial review
 
-(1) Regulations promulgated by the Secretary under this chapter and actions described in paragraph (2) shall be subject to judicial reviewto the extent authorized by, and in accordance with, chapter 7 of title 5, if a petition for such review is filed within 30 days after the date on which the regulations are promulgated or the action is published in the Federal Register, as applicable; except that—
+(1) Regulations promulgated by the Secretary under this chapter and actions described in paragraph (2) shall be subject to judicial review to the extent authorized by, and in accordance with, chapter 7 of title 5, if a petition for such review is filed within 30 days after the date on which the regulations are promulgated or the action is published in the Federal Register, as applicable; except that—
 
 &emsp;(A) section 705 of such title is not applicable, and
 
@@ -136,7 +136,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;(vi) not have previously developed harvesting or processing capability sufficient to support substantial participation in the groundfish fisheries in the Bering Sea, unless the community can show that the benefits from an approved Community Development Plan would be the only way for the community to realize a return from previous investments.
 
-(C)(i) Prior to October 1, 2001, the North Pacific Council may not submit to the Secretary any fishery management plan, plan amendment, or regulation that allocates to the western Alaska community development quota program a percentage of the total allowable catch of any Bering Sea fishery for which, prior to October 1, 1995, the Council had not approved a percentage of the total allowable catch for allocation to such community development quota program. The expiration of any plan, amendment, or regulation that meets the requirements of clause (ii) prior to October 1, 2001, shall not be construed to prohibit the Council from submitting a revision or extension of such plan, amendment, or regulation to the Secretary if such revision or extension complies with the other requirements of this paragraph.
+(C)(i) Prior to October 1, 2001, the North Pacific Council may not submit to the Secretary any fishery management plan, plan amendment, or regulation that allocates to the western Alaska community development quota program a percentage of the total allowable catch of any Bering Sea fishery for which, prior to October 1,1995, the Council had not approved a percentage of the total allowable catch for allocation to such community development quota program. The expiration of any plan, amendment, or regulation that meets the requirements of clause (ii) prior to October 1, 2001, shall not be construed to prohibit the Council from submitting a revision or extension of such plan, amendment, or regulation to the Secretary if such revision or extension complies with the other requirements of this paragraph.
 
 (ii) With respect to a fishery management plan, plan amendment, or regulation for a Bering Sea fishery that—
 
@@ -184,7 +184,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### References in Text
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (e), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (e), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, seeShort Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 The Regulatory Flexibility Act (5 U.S.C. 601 et seq.), referred to in subsec. (e), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of the Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
@@ -302,7 +302,7 @@ Section 111(b) of Pub. L. 104–297, as amended by Pub. L. 104–208, div. A, ti
 
 “(4) The Western Pacific Fishery Management Council shall, with the assistance of such advisory panel, submit an annual report to the Congress assessing the status and progress of demonstration projects carried out under this subsection.
 
-“(5) Appropriate Federal agencies may provide technical assistance to western Pacific community-based entities to assist in carrying out demonstration projects under this subsection.
+“(5) Appropriate Federal agencies may provide technical assistance to western Pacific community-basedentities to assist in carrying out demonstration projects under this subsection.
 
 “(6) For the purposes of this subsection, ‘western Pacific community’ shall mean a community eligible to participate under section 305(i)(2)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1855(i)(2)(B)\], as amended by this Act.”
 

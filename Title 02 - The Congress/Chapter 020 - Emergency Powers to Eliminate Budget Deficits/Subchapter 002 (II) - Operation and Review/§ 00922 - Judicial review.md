@@ -24,7 +24,7 @@ It shall be the duty of the District Court for the District of Columbia and the 
 
 #### (d) Noncompliance with sequestration procedures
 
-(1) If it is finally determined by a court of competent jurisdiction that an order issued bythe President under section 904 of this title for any fiscal year—
+(1) If it is finally determined by a court of competent jurisdiction that an order issued by the President under section 904 of this title for any fiscal year—
 
 &emsp;(A) does not reduce automatic spending increases under any program specified in section 906(a) of this title if such increases are required to be reduced by subchapter I of this chapter (or reduces such increases by a greater extent than is so required), or
 

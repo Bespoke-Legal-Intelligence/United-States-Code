@@ -56,7 +56,7 @@ The Board shall adopt the regulations referred to in subsection (a)(1) of this s
 
 #### (4) One-House resolution or concurrent resolution
 
-&emsp;In the case of a resolution of the House of Representatives or the Senate or a concurrent resolution referred to in paragraph (1), the matter after the resolving clause shall be the following: “The following regulations issued by the Office of Compliance on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ are hereby approved:” (the blank space beingappropriately filled in, and the text of the regulations being set forth).
+&emsp;In the case of a resolution of the House of Representatives or the Senate or a concurrent resolution referred to in paragraph (1), the matter after the resolving clause shall be the following: “The following regulations issued by the Office of Compliance on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ are hereby approved:” (the blank space being appropriately filled in, and the text of the regulations being set forth).
 
 #### (5) Joint resolution
 

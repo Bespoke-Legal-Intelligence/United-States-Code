@@ -21,7 +21,7 @@
 | [1113\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001113%20-%20Presumptions%20rebuttable.md) | Presumptions rebuttable. |
 | [1114\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001114%20-%20Rates%20of%20wartime%20disability%20compensation.md) | Rates of wartime disability compensation. |
 | [1115\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001115%20-%20Additional%20compensation%20for%20dependents.md) | Additional compensation for dependents. |
-| [1116\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116%20-%20Presumptions%20of%20service%20connection%20for%20diseases%20associated%20with%20exposure%20to%20certain%20herbicide%20agents.md) | Presumptions of service connection for diseases associated with exposure to certain herbicide agents. |
+| [1116\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116%20-%20Presumptions%20of%20service%20connection%20for%20diseases%20associated%20with%20exposure%20to%20certain%20herbicide%20agents%3B%20presumption%20of%20exposure%20for%20veterans%E2%80%A6.md) | Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam. |
 | [1117\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001117%20-%20Compensation%20for%20disabilities%20occurring%20in%20Persian%20Gulf%20War%20veterans.md) | Compensation for disabilities occurring in Persian Gulf War veterans. |
 | [1118\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001118%20-%20Presumptions%20of%20service%20connection%20for%20illnesses%20associated%20with%20service%20in%20the%20Persian%20Gulf%20during%20the%20Persian%20Gulf%20War.md) | Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War. |
 
@@ -79,6 +79,8 @@
 
 #### Amendments
 
+2001—Pub. L. 107–103, title II, §201(c)(2)(B), Dec. 27, 2001, 115 Stat. 988, substituted “Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam” for “Presumptions of service connection for diseases associated with exposure to certain herbicide agents” in item 1116.
+
 1998—Pub. L. 105–368, title X, §1005(a), Nov. 11, 1998, 112 Stat. 3364, renumbered item 1103 “Cost-of-living adjustments” as 1104.
 
 Pub. L. 105–277, div. C, title XVI, §1602(a)(2), Oct. 21, 1998, 112 Stat. 2681–744, added item 1118.
@@ -119,7 +121,7 @@ Pub. L. 102–4, §2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 106, 107, 1310, 1315, 1712, 1822, 2101, 3102, 3485, 3501, 3901, 4213, 5125, 5303A, 5310, 5317 of this title; title 10 sections 1086, 1437, 1446, 1450; title 26 section 6103; title 31 section 3803; title 42 section 6862.
+This chapter is referred to in sections 106, 107, 1310, 1315, 1712, 1822, 2101, 3102, 3485, 3501, 3901, 4213, 5125, 5303A, 5310, 5313B, 5317 of this title; title 10 sections 1086, 1437, 1446, 1450; title 26 section 6103; title 31 section 3803; title 42 section 6862.
 
 
 ---

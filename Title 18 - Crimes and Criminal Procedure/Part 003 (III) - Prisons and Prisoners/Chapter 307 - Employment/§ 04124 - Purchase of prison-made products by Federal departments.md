@@ -40,5 +40,5 @@ The date of the enactment of this subsection, referred to in subsec. (d), is the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 section 657a; title 41 section 48.
+This section is referred to in title 10 section 2410n; title 15 section 657a; title 41 section 48.
 

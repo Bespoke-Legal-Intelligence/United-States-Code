@@ -8,6 +8,10 @@ It is hereby declared to be the policy of the United States that certain selecte
 
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
 
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–65, §1, Nov. 6, 2001, 115 Stat. 484, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Eightmile River Wild and Scenic River Study Act of 2001’.”
+
 #### Short Title of 2000 Amendments
 
 Pub. L. 106–418, §1, Nov. 1, 2000, 114 Stat. 1817, provided that: “This Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lower Delaware Wild and Scenic Rivers Act’.”

@@ -90,7 +90,7 @@ Report.—(1) A board appointed under this section shall submit to the Secretary
 
 (2) A board shall submit a report under this subsection with respect to the inquiry carried out by the board not later than 30 days after the date of the appointment of the board to carry out the inquiry. The report may include a classified annex.
 
-(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that the report may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
+(3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that thereport may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
 
 (i)
 
@@ -140,7 +140,7 @@ Subsec. (f)(4). Pub. L. 105–85, §599(d)(2), inserted at end “The primary ne
 
 Subsec. (c)(1). Pub. L. 104–201, §578(a)(2)(A), substituted “one military officer” for “one individual described in paragraph (2)”.
 
-Subsec. (c)(2) to (4). Pub. L. 104–201, §578(a)(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out former par. (2) which read as follows: “An individual referred to in paragraph (1) is the following:
+Subsec. (c)(2) to (4). Pub. L. 104–201, §578(a)(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “An individual referred to in paragraph (1) is the following:
 
 &emsp;“(A) A military officer, in the case of an inquiry with respect to a member of the armed forces.
 

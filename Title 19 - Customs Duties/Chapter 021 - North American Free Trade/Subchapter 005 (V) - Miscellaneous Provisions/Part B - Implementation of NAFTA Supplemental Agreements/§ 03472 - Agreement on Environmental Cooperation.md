@@ -8,7 +8,7 @@
 
 #### (2) Contributions to budget
 
-&emsp;There are authorized to be appropriated to the President (or such agency as the Presidentmay designate) $5,000,000 for each of fiscal years 1994 and 1995 for United States contributions to the annual budget of the Commission for Environmental Cooperation pursuant to Article 43 of the North American Agreement on Environmental Cooperation. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
+&emsp;There are authorized to be appropriated to the President (or such agency as the President may designate) $5,000,000 for each of fiscal years 1994 and 1995 for United States contributions to the annual budget of the Commission for Environmental Cooperation pursuant to Article 43 of the North American Agreement on Environmental Cooperation. Funds authorized to be appropriated for such contributions by this paragraph are in addition to any funds otherwise available for such contributions. Funds authorized to be appropriated by this paragraph are authorized to be made available until expended.
 
 #### (b) Definitions
 
@@ -62,7 +62,7 @@ Sec. 2. IMPLEMENTATION OF THE ENVIRONMENTAL COOPERATION AGREEMENT.
 
 (5) Consistent with the Environmental Cooperation Agreement, the EPA Administrator shall develop procedures to inform the public of arbitral proceedings and Commission activities under the Environmental Cooperation Agreement, and to provide appropriate mechanisms for receiving public comment with respect to such arbitral proceedings and Commission activities involving the United States.
 
-(6) As a disputing party, the United States shall seek to ensure, pursuant to Article 30 of the EnvironmentalCooperation Agreement, that the arbitral panels consult with appropriate experts for information and technical advice.
+(6) As a disputing party, the United States shall seek to ensure, pursuant to Article 30 of the Environmental Cooperation Agreement, that the arbitral panels consult with appropriate experts for information and technical advice.
 
 (e) <i>Consultation with States</i>. (1) Pursuant to Article 18 of the Environmental Cooperation Agreement, the EPA Administrator shall establish a governmental committee to furnish advice regarding implementation and further elaboration of the Agreement. Through this committee, or through other means as appropriate, the EPA Administrator and other relevant Federal agencies shall:
 

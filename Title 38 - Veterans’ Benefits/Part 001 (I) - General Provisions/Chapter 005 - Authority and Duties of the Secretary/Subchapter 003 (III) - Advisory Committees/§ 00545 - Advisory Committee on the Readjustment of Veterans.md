@@ -1,6 +1,6 @@
 ### §545. Advisory Committee on the Readjustment of Veterans
 
-(a)(1) There is in the Department the Advisory Committee on the Readjustment of Veterans (hereafter in this section referred to as the “Committee”).
+(a)(1) There is in the Department the Advisory Committee on the Readjustment of Veterans (hereinafter in this section referred to as the “Committee”).
 
 (2) The Committee shall consist of not more than 18 members appointed by the Secretary from among individuals who—
 
@@ -8,7 +8,7 @@
 
 &emsp;(B) have experience with the provision of veterans benefits and services by the Department.
 
-(3) The Secretary shall seek to ensure that members appointed to the Committee include individuals from a wide variety of geographic areas and ethnic backgrounds, individuals from veterans service organizations, individuals with combat experience, and women.
+(3) The Secretary shall seek to ensure that members appointed to the Committee includeindividuals from a wide variety of geographic areas and ethnic backgrounds, individuals from veterans service organizations, individuals with combat experience, and women.
 
 (4) The Secretary shall determine the terms of service and pay and allowances of the members of the Committee, except that a term of service may not exceed two years. The Secretary may reappoint any member for additional terms of service.
 
@@ -44,7 +44,7 @@
 
 (2) Section 14 of such Act shall not apply to the Committee.
 
-(Added Pub. L. 104–262, title III, §333(a)(1), Oct. 9, 1996, 110 Stat. 3199.)
+(Added Pub. L. 104–262, title III, §333(a)(1), Oct. 9, 1996, 110 Stat. 3199; amended Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35.)
 
 #### References in Text
 
@@ -78,9 +78,13 @@ Another prior section 632, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146; Pub. 
 
 Prior sections 633 to 635 and 641 to 643 were renumbered sections 1733 to 1735 and 1741 to 1743 of this title, respectively.
 
-Prior section 644, added Pub. L. 91–178, §2(a), Dec. 30, 1969, 83 Stat. 836; amended Pub. L. 93–82, title IV, §403(b), Aug. 2, 1973, 87 Stat. 196, authorized appropriations to be used for making grants to States which had submitted and had approved applications for assistance in remodeling, modification, or alteration of existing hospital or domiciliary facilities in State homes providing care and treatment for veterans, prior to repeal by Pub. L. 95–62, §§2, 5, July 5, 1977, 91 Stat. 262, 263, effective Oct. 1, 1977, but with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under prior section 644 and with additional provision for the modification of the terms and conditions of both grants made under that section prior to Oct. 1, 1977, and of grants made under subchapter III of chapter 81 of this title prior to Oct. 1, 1977.
+Prior section 644, added Pub. L. 91–178, §2(a), Dec. 30, 1969, 83 Stat. 836; amended Pub. L. 93–82, title IV, §403(b), Aug. 2, 1973, 87 Stat. 196, authorized appropriations to be used for making grants to States which had submitted and had approved applications for assistance in remodeling, modification, or alteration of existing hospital or domiciliary facilities in State homes providing care and treatment for veterans, prior to repeal by Pub. L. 95–62, §§2, 5, July 5, 1977, 91 Stat. 262, 263, effective Oct. 1, 1977, but with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under prior section 644 and with additional provision for the modification ofthe terms and conditions of both grants made under that section prior to Oct. 1, 1977, and of grants made under subchapter III of chapter 81 of this title prior to Oct. 1, 1977.
 
 Prior sections 651 to 654 and 661 to 664 were renumbered sections 1751 to 1754 and 1761 to 1764 of this title, respectively.
+
+#### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
 #### Commission on Servicemembers and Veterans Transition Assistance
 
@@ -166,7 +170,7 @@ In General.—The Commission shall—
 
 “(b)
 
-Review of Programs To Assist Members of the Armed Forces at Separation.—(1) While carrying outthe general duties specified in subsection (a), the members of the Commission appointed under subparagraphs (C) and (D) of section 701(b)(1) and the member specified in subparagraph (B) of section 701(b)(3) shall review primarily the programs intended to assist members of the Armed Forces at the time of their separation from service in the Armed Forces, including programs designed to assist families of such members.
+Review of Programs To Assist Members of the Armed Forces at Separation.—(1) While carrying out the general duties specified in subsection (a), the members of the Commission appointed under subparagraphs (C) and (D) of section 701(b)(1) and the member specified in subparagraph (B) of section 701(b)(3) shall review primarily the programs intended to assist members of the Armed Forces at the time of their separation from service in the Armed Forces, including programs designed to assist families of such members.
 
 “(2) In carrying out the review, those members of the Commission shall determine the following:
 
@@ -270,7 +274,7 @@ Travel and Travel Expenses.—(1) Members and personnel of the Commission may tr
 
 “(c)
 
-Staff.—(1) The chairman of the Commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to five additional staff members as may be necessary to enable the Commission to perform its duties. In appointing an individual as executive director, thechairman shall, to the maximum extent practicable, attempt to appoint an individual who is a veteran. The employment of an executive director shall be subject to confirmation by the Commission.
+Staff.—(1) The chairman of the Commission may, without regard to civil service laws and regulations, appoint and terminate an executive director and up to five additional staff members as may be necessary to enable the Commission to perform its duties. In appointing an individual as executive director, the chairman shall, to the maximum extent practicable, attempt to appoint an individual who is a veteran. The employment of an executive director shall be subject to confirmation by the Commission.
 
 “(2) The chairman of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other staff members may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 

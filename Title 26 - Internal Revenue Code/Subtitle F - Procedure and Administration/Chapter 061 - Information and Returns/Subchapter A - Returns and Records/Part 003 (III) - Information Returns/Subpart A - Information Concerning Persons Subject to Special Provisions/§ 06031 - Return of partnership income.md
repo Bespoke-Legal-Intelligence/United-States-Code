@@ -6,13 +6,13 @@ Every partnership (as defined in section 761(a)) shall make a return for each ta
 
 #### (b) Copies to partners
 
-Each partnership required to file a return under subsection (a) for any partnership taxable year shall (on or before the day on which the return for such taxable year was required to be filed) furnish to each person who is a partner or who holds an interest in such partnership as a nominee for another person at any time during such taxable year a copy of such information required to be shown on such return as may be required by regulations. In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.
+Each partnership required to file a return under subsection (a) for any partnership taxable year shall (on or before the day on which the return for such taxable year was required to be filed) furnish to each person who is a partner orwho holds an interest in such partnership as a nominee for another person at any time during such taxable year a copy of such information required to be shown on such return as may be required by regulations. In the case of an electing large partnership (as defined in section 775), such information shall be furnished on or before the first March 15 following the close of such taxable year.
 
 #### (c) Nominee reporting
 
 Any person who holds an interest in a partnership as a nominee for another person—
 
-&emsp;(1) shall furnish to the partnership, in the manner prescribed by the Secretary, the nameand address of such other person, and any other information for such taxable year as the Secretary may by form and regulation prescribe, and
+&emsp;(1) shall furnish to the partnership, in the manner prescribed by the Secretary, the name and address of such other person, and any other information for such taxable year as the Secretary may by form and regulation prescribe, and
 
 &emsp;(2) shall furnish in the manner prescribed by the Secretary such other person the information provided by such partnership under subsection (b).
 

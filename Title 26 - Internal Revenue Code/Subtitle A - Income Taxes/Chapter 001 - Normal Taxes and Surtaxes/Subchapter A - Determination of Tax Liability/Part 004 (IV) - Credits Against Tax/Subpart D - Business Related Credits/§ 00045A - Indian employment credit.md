@@ -74,7 +74,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) any 5-percent owner (as defined in section 416(i)(1)(B)), and
 
-&emsp;&emsp;(C) any individual if the services performed by such individual for the employerinvolve the conduct of class I, II, or III gaming as defined in section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703), or are performed in a building housing such gaming activity.
+&emsp;&emsp;(C) any individual if the services performed by such individual for the employer involve the conduct of class I, II, or III gaming as defined in section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703), or are performed in a building housing such gaming activity.
 
 #### (6) Indian tribe defined
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) no wages (or qualified employee health insurance costs) with respect to such employee shall be taken into account under subsection (a) for the taxable year in which such employment is terminated, and
 
-&emsp;&emsp;(B) the tax under this chapter for the taxable year in which such employment is terminated shall be increased by the aggregate credits (if any) allowed under section 38(a) for prior taxable years by reason of wages (or qualified employee health insurance costs) taken into account with respect to such employee.
+&emsp;&emsp;(B) the tax under this chapter for the taxable year in which such employment is terminated shall be increased by the aggregate credits (if any) allowed under section 38(a)for prior taxable years by reason of wages (or qualified employee health insurance costs) taken into account with respect to such employee.
 
 #### (2) Carrybacks and carryovers adjusted
 
@@ -160,7 +160,7 @@ This section shall not apply to taxable years beginning after December 31, 2003.
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 

@@ -16,7 +16,7 @@ Not later than 1 year after December 27, 2000, the Secretary shall, after consul
 
 &emsp;(D) such individual is a lineal descendant of an individual, living or dead, identified in subparagraph (A), (B), or (C).
 
-(2) After adoption of a tribal constitution under section 1300n–6 of this title, such tribalconstitution shall govern membership in the Tribe.
+(2) After adoption of a tribal constitution under section 1300n–6 of this title, such tribal constitution shall govern membership in the Tribe.
 
 #### (c) Conclusive proof of Graton Indian ancestry
 

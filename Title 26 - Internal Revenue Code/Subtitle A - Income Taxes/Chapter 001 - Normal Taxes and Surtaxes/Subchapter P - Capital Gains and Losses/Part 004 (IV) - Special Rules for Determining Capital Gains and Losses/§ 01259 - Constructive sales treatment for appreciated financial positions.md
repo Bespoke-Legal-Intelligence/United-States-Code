@@ -124,7 +124,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) such position is subsequently disposed of, and
 
-&emsp;&emsp;(C) at the time of such disposition, the transaction resulting in the constructive sale of such position is open with respect to the taxpayer or any related person,
+&emsp;&emsp;(C) at the time of such disposition, the transaction resulting in the constructivesale of such position is open with respect to the taxpayer or any related person,
 
 > &emsp;solely for purposes of determining whether the taxpayer has entered into a constructive sale of any other appreciated financial position held by the taxpayer, the taxpayer shall be treated as entering into such transaction immediately after such disposition. For purposes of the preceding sentence, an assignment or other termination shall be treated as a disposition.
 

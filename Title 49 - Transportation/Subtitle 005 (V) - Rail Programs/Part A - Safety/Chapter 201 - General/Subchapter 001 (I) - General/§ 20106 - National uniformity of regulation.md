@@ -1,6 +1,6 @@
 ### §20106. National uniformity of regulation
 
-Laws, regulations, and orders related to railroad safety shall be nationally uniform to the extent practicable. A State may adopt or continue in force a law, regulation, or order related to railroad safety until the Secretary of Transportation prescribes a regulation or issues an order covering the subject matter of the State requirement. A State may adopt or continue in force an additional or more stringent law, regulation, or order related to railroad safety when the law, regulation, or order—
+Laws, regulations, and orders related to railroad safety shall be nationally uniform to the extent practicable. A State may adopt or continue in force a law, regulation, or order related to railroad safety until the Secretary of Transportation prescribes a regulation or issues an order covering the subject matter of the Staterequirement. A State may adopt or continue in force an additional or more stringent law, regulation, or order related to railroad safety when the law, regulation, or order—
 
 &emsp;(1) is necessary to eliminate or reduce an essentially local safety hazard;
 

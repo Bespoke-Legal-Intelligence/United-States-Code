@@ -42,7 +42,7 @@ The Secretary shall make competitive grants to, or enter into contracts or coope
 
 &emsp;&emsp;(D) Studying and promoting improved alignment and compatibility of general and special education reforms concerned with curricular and instructional reform, evaluation and accountability of such reforms, and administrative procedures.
 
-&emsp;&emsp;(E) Advancing the design, development, and integration of technology, assistive technology devices, media, and materials, to improve early intervention, educational, and transitional services and results for children with disabilities.
+&emsp;&emsp;(E) Advancing the design, development, and integration of technology, assistive technology devices, media, and materials, toimprove early intervention, educational, and transitional services and results for children with disabilities.
 
 &emsp;&emsp;(F) Improving designs, processes, and results of personnel preparation for personnel who provide services to children with disabilities through the acquisition of information on, and implementation of, research-based practices.
 

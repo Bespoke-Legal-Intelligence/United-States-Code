@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970, and shall be updated and republished on an annual basis thereafter.
+There are established five schedules of controlled substances, to be known as schedules I,II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970, and shall be updated and republished on an annual basis thereafter.
 
 #### (b) Placement on schedules; findings required
 
@@ -150,7 +150,7 @@ Schedule I
 
 &emsp;(42) Trimeperidine.
 
-(b) Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, their salts, isomers, and salt of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
+(b) Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 &emsp;(1) Acetorphine.
 
@@ -308,7 +308,7 @@ Schedule III
 
 &emsp;(2) Chorhexadol.
 
-&emsp;(3) Glutehimide.
+&emsp;(3) Glutethimide.
 
 &emsp;(4) Lysergic acid.
 
@@ -338,7 +338,7 @@ Schedule III
 
 &emsp;(5) Not more than 1.8 grams of dihydrocodeine per 100 milliliters or not more than 90 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
-&emsp;(6) Not more than 300 milligrams of ethylmorphine per 100 milliliters or not more than15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
+&emsp;(6) Not more than 300 milligrams of ethylmorphine per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
 &emsp;(7) Not more than 500 milligrams of opium per 100 milliliters or per 100 grams, or not more than 25 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
@@ -454,7 +454,7 @@ Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 384, 811, 1115, 1523, 1703 of this title; title 10 section 912a; title 19 section 2484; title 20 section 1415; title 29 sections 705, 2006; title 41 section 706; title 42 sections 12111, 12210.
+This section is referred to in sections 384, 811, 1115, 1523, 1703 of this title; title 10 section 912a; title 19 section 2484; title 20 sections 1415, 7161; title 29 sections 705, 2006; title 41 section 706; title 42 sections 12111, 12210.
 
 <i><sup>1</sup></i><i> Revised schedules are published in the Code of Federal Regulations, Part 1308 of Title 21, Food and Drugs.</i>
 

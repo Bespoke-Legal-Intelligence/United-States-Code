@@ -6,7 +6,7 @@ As soon as feasible, and utilizing data available from the demonstration program
 
 &emsp;(2) definitive performance criteria (relating to suitability for solar heating and for combined solar heating and cooling) for such dwellings, taking into account climatic variations existing between different geographic areas; and
 
-&emsp;(3) procedures whereby manufacturers of solar heating and combined solar heating andcooling components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under paragraph (1).
+&emsp;(3) procedures whereby manufacturers of solar heating and combined solar heating and cooling components and systems shall have their products tested in order to provide certification that such products conform to the performance criteria established under paragraph (1).
 
 (Pub. L. 93–409, §8, Sept. 3, 1974, 88 Stat. 1073; Pub. L. 93–438, title I, §104(f), title III, §301(h), Oct. 11, 1974, 88 Stat. 1238, 1250; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 

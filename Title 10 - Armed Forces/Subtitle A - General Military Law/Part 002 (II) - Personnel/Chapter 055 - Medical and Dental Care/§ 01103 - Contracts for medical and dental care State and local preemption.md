@@ -14,7 +14,7 @@ Effect of Preemption.—In the case of the preemption under subsection (a) of a 
 
 (c)
 
-State Defined.—In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each Territory and possession of the United States.
+State Defined.—In this section, the term “State” includes the District of Columbia, theCommonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each Territory and possession of the United States.
 
 (Added Pub. L. 100–180, div. A, title VII, §725(a)(1), Dec. 4, 1987, 101 Stat. 1116; amended Pub. L. 103–160, div. A, title VII, §715(a), Nov. 30, 1993, 107 Stat. 1690.)
 

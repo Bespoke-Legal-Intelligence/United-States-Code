@@ -26,7 +26,7 @@ The Secretary of Transportation shall complete the engineering survey required b
 
 #### (d) Availability of appropriated funds
 
-Of amounts appropriated under section 704(a)(1) and (2) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 854(a)(1) and (2)), $1,000,000 shall be available toand be utilized by the Secretary of Transportation to carry out the purposes of subsections (a) and (b) of this section.
+Of amounts appropriated under section 704(a)(1) and (2) of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 854(a)(1) and (2)), $1,000,000 shall be available to and be utilized by the Secretary of Transportation to carry out the purposes of subsections (a) and (b) of this section.
 
 #### (e) Reports to Congress; commitment of Federal funds
 

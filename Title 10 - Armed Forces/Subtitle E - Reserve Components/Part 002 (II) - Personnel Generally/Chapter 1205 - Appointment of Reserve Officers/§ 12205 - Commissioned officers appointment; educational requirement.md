@@ -28,13 +28,23 @@ Qualifying Educational Institutions.—(1) A qualifying educational institution 
 
 (C) In the case of a person with a degree from an unaccredited institution that is a qualifying educational institution under this paragraph, the degree may not have been awarded more than eight years before the date on which the person is to be appointed to, or recognized in, the grade of captain or, in the case of the Naval Reserve, lieutenant, in order for that person to be considered for purposes of subsection (a) to have been awarded a baccalaureate degree by a qualifying educational institution.
 
-(Added Pub. L. 102–484, div. A, title V, §515(a), Oct. 23, 1992, 106 Stat. 2406, §596; renumbered §12205 and amended Pub. L. 103–337, div. A, title V, §§519, 520, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2755, 2990; Pub. L. 104–201, div. A, title V, §§504, 505, title X, §1074(a)(22), Sept. 23, 1996, 110 Stat. 2512, 2660.)
+(d)
+
+Waiver Authority for Army OCS Graduates and Certain Marine Corps Officers.—(1) The Secretary of the Army may waive the applicability of subsection (a) to any officer whose original appointment in the Army as a Reserve officer is through the Army Officer Candidate School program.
+
+(2) The Secretary of the Navy may waive the applicability of subsection (a) to any officer whose original appointment in the Marine Corps as a Reserve officer is through the Marine Corps meritorious commissioning program.
+
+(3) Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than two years after the waiver is granted. The Secretary concerned may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
+
+(Added Pub. L. 102–484, div. A, title V, §515(a), Oct. 23, 1992, 106 Stat. 2406, §596; renumbered §12205 and amended Pub. L. 103–337, div. A, title V, §§519, 520, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2755, 2990; Pub. L. 104–201, div. A, title V, §§504, 505, title X, §1074(a)(22), Sept. 23, 1996, 110 Stat. 2512, 2660; Pub. L. 107–107, div. A, title V, §512(a), Dec. 28, 2001, 115 Stat. 1092.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 102–190, div. A, title V, §523, Dec. 5, 1991, 105 Stat. 1363, which was set out as a note under section 591 \[now 12201\] of this title, prior to repeal by Pub. L. 103–35, §203(a).
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
 1996—Subsec. (a). Pub. L. 104–201, §1074(a)(22), substituted “No person” for “After September 30, 1995, no person”.
 
@@ -51,6 +61,10 @@ Subsec. (b)(2), (3). Pub. L. 103–337, §520(b), substituted “a person” for
 Subsec. (b)(5). Pub. L. 103–337, §520(a), added par. (5).
 
 Subsec. (c). Pub. L. 103–337, §519(2), added subsec. (c).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §512(b), Dec. 28, 2001, 115 Stat. 1092, provided that: “Subsection (d) of section 12205 of title 10, United States Code, as added by subsection (a), shall apply with respect to officers appointed before, on, or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Authority for Temporary Waiver for Certain Army Reserve Officers of Baccalaureate Degree Requirement for Promotion of Reserve Officers
 

@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) 65 percent of the depreciation allowances for the taxable year with respect to long-life qualified tangible property.
 
-&emsp;&emsp;&emsp;(iii) If the possession corporation does not have an election to use the method described in subsection (h)(5)(C)(ii) (relatingto profit split) in effect for the taxable year, the amount of qualified possession income taxes for the taxable year allocable to nonsheltered income.
+&emsp;&emsp;&emsp;(iii) If the possession corporation does not have an election to use the method described in subsection (h)(5)(C)(ii) (relating to profit split) in effect for the taxable year, the amount of qualified possession income taxes for the taxable year allocable to nonsheltered income.
 
 #### (B) Election to take reduced credit
 
@@ -158,13 +158,13 @@ For purposes of this section—
 
 #### (B) Exception for possessions corporations, etc.
 
-&emsp;&emsp;For purposes of subparagraph (A), the holding of any asset by another person shallnot be taken into account if throughout the period for which such asset was held by such person section 931, this section, or section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such person.
+&emsp;&emsp;For purposes of subparagraph (A), the holding of any asset by another person shall not be taken into account if throughout the period for which such asset was held by such person section 931, this section, or section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such person.
 
 #### (4) Investment in qualified Caribbean Basin countries
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (2)(B), an investment in a financial institution shall, subject to such conditions as the Secretary may prescribe by regulations, be treated as for use in Puerto Rico to the extent used by such financial institution (or by the Government Development Bank for Puerto Rico or the Puerto Rico Economic Development Bank)—
+&emsp;&emsp;For purposes of paragraph (2)(B), an investment in a financial institution shall,subject to such conditions as the Secretary may prescribe by regulations, be treated as for use in Puerto Rico to the extent used by such financial institution (or by the Government Development Bank for Puerto Rico or the Puerto Rico Economic Development Bank)—
 
 &emsp;&emsp;&emsp;(i) for investment, consistent with the goals and purposes of the Caribbean Basin Economic Recovery Act, in—
 
@@ -406,7 +406,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (c) Possession sales
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term “possession sales” means the aggregate sales or other dispositions for the taxable year to persons who arenot members of the affiliated group by members of the affiliated group of products produced, in whole or in part, by the electing corporation in the possession which are in the same product area as is used for determining the amount of product area research, and of services rendered, in whole or in part, in the possession in such product area to persons who are not members of the affiliated group.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term “possession sales” means the aggregate sales or other dispositions for the taxable year to persons who are not members of the affiliated group by members of the affiliated group of products produced, in whole or in part, by the electing corporation in the possession which are in the same product area as is used for determining the amount of product area research, and of services rendered, in whole or in part, in the possession in such product area to persons who are not members of the affiliated group.
 
 #### (d) Total sales
 
@@ -428,7 +428,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (IV) Special rules
 
-&emsp;&emsp;&emsp;&emsp;(a) The amount of the cost sharing payment determined under subparagraph (C)(i)(I), and any increase in the amount thereof in accordance with subparagraph (C)(i)(III)(a), shall not be treated as income of the recipient, but shall reducethe amount of the deductions (and the amount of reductions in earnings and profits) otherwise allowable to the appropriate domestic member or members (other than an electing corporation) of the affiliated group, or, if there is no such domestic member, to the foreign member or members of such affiliated group as the Secretary may provide under regulations.
+&emsp;&emsp;&emsp;&emsp;(a) The amount of the cost sharing payment determined under subparagraph (C)(i)(I), and any increase in the amount thereof in accordance with subparagraph (C)(i)(III)(a), shall not be treated as income of the recipient, but shall reduce the amount of the deductions (and the amount of reductions in earnings and profits) otherwise allowable to the appropriate domestic member or members (other than an electing corporation) of the affiliated group, or, if there is no such domestic member, to the foreign member or members of such affiliated group as the Secretary may provide under regulations.
 
 &emsp;&emsp;&emsp;&emsp;(b) If an election of this method is in effect, the electing corporation shall determine its intercompany pricing under the appropriate section 482 method, provided, however, that an electing corporation shall not be denied use of the resale price method for purposes of such intercompany pricing merely because the reseller adds more than an insubstantial amount to the value of the product by the use of intangible property.
 
@@ -464,7 +464,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An election under subparagraph (A) to use one of the methods under subparagraph (C) shall be made only on or before the due date prescribed by law (including extensions) for filing the tax return of the electing corporation for its first taxable year beginning after December 31, 1982. If an election of one of such methods is made, such election shall be binding on the electing corporation and such method must be used for each taxable year thereafter until such election is revoked by the electing corporation under subparagraph (F)(iii). If any such election is revoked by the electing corporation under subparagraph (F)(iii), such electing corporation may make a subsequent election under subparagraph (A) only with the consent of the Secretary.
+&emsp;&emsp;&emsp;An election under subparagraph (A) to use one of the methods under subparagraph (C) shall be made only on or before the due date prescribed by law (including extensions) for filing the tax return of the electing corporation for its first taxable year beginning after December 31, 1982. If an election of one of such methods is made, such election shall be binding on the electing corporation and such method must be used for each taxable year thereafter until such election is revoked by the electing corporation under subparagraph (F)(iii). If any such election is revoked by the electing corporation under subparagraph (F)(iii), such electing corporation may make a subsequent election undersubparagraph (A) only with the consent of the Secretary.
 
 #### (ii) Manner of making election
 
@@ -534,7 +534,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (C) Treatment of certain employees
 
-&emsp;&emsp;The term “qualified possession wages” shall not include any wages paid to employees who are assigned by the employer to perform services for another person, unless the principal trade or business of the employer is to make employees available for temporary periods to other persons in return for compensation. All possession corporations treated as 1 corporation under paragraph (5) shall be treated as 1 employer for purposes of the preceding sentence.
+&emsp;&emsp;The term “qualified possession wages” shall not include any wages paid to employees who are assigned by the employer to perform services for another person, unless theprincipal trade or business of the employer is to make employees available for temporary periods to other persons in return for compensation. All possession corporations treated as 1 corporation under paragraph (5) shall be treated as 1 employer for purposes of the preceding sentence.
 
 #### (D) Wages
 
@@ -702,7 +702,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (B) Inflation-adjusted possession income
 
-&emsp;&emsp;For purposes of subparagraph (A), the inflation-adjusted possession income of anycorporation for any base period year shall be an amount equal to the sum of—
+&emsp;&emsp;For purposes of subparagraph (A), the inflation-adjusted possession income of any corporation for any base period year shall be an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) the possession income of such corporation for such base period year, plus
 
@@ -790,7 +790,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (7) Short years
 
-&emsp;If the current year or a base period year is a short taxable year, the application of thissubsection shall be made with such annualizations as the Secretary shall prescribe.
+&emsp;If the current year or a base period year is a short taxable year, the application of this subsection shall be made with such annualizations as the Secretary shall prescribe.
 
 #### (8) Special rules for certain possessions
 
@@ -872,7 +872,7 @@ Subsec. (e)(1). Pub. L. 101–508 substituted “subsection (a)(2)” for “sub
 
 <b>1988</b>—Subsec. (d)(3)(B). Pub. L. 100–647, §1012(j), inserted “(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)” after “section 957(c)”.
 
-Subsec. (d)(4)(A)(ii). Pub. L. 100–647, §1012(n)(5)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii)read as follows: “in accordance with a specific authorization granted by the Government Development Bank for Puerto Rico pursuant to regulations issued by the Secretary of the Treasury of Puerto Rico.”
+Subsec. (d)(4)(A)(ii). Pub. L. 100–647, §1012(n)(5)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in accordance with a specific authorization granted by the Government Development Bank for Puerto Rico pursuant to regulations issued by the Secretary of the Treasury of Puerto Rico.”
 
 Subsec. (d)(4)(B). Pub. L. 100–647, §6132(a), inserted “and the Virgin Islands” after “274(h)(6)(A)”.
 
@@ -988,7 +988,7 @@ Special rule for transfer of intangibles.—
 
 &emsp;“(A)
 
-In general.—The amendments made by subsection (e) \[amending sections 367 and 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is not to a foreign person, the preceding sentence shall be applied by substituting ‘August 16, 1986’ for ‘November 16, 1985’.
+In general.—The amendments made by subsection (e) \[amending sections 367 and 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after suchdate (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is not to a foreign person, the preceding sentence shall be applied by substituting ‘August 16, 1986’ for ‘November 16, 1985’.
 
 &emsp;“(B)
 
@@ -1084,7 +1084,7 @@ Section applicable to taxable years beginning after Dec. 31, 1975, except that q
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(e)(4)(I) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(e)(4)(I) of Pub. L. 99–514 notwithstanding any treaty obligationof the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

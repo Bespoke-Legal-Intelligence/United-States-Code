@@ -10,7 +10,7 @@
 
 &emsp;(A) The matter after the resolving clause in any joint resolution introduced pursuant to paragraph (1) shall be as follows: “That the Congress declares that the conditions specified in section 254(j) <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 are met, and the implementation of the Congressional Budget and Impoundment Control Act of 1974, chapter 11 of title 31, United States Code, and part C of the Balanced Budget and Emergency Deficit Control Act of 1985 are modified as described in section 258(b) of the Balanced Budget and Emergency Deficit Control Act of 1985.”
 
-&emsp;(B) The title of the joint resolution shall be “Joint resolution suspending certain provisions of law pursuant to section 258(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985.”; and the joint resolution shall not contain any preamble.
+&emsp;(B) The title of the joint resolution shall be “Joint resolution suspending certain provisions of law pursuant to section 258(a)(2) of theBalanced Budget and Emergency Deficit Control Act of 1985.”; and the joint resolution shall not contain any preamble.
 
 #### (3) Committee action
 

@@ -4,7 +4,7 @@
 
 (b) Reports printed prior to June 12, 1926, shall not be furnished the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force.
 
-(c) The Public Printer, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required to be distributed under the provisions of this section.
+(c) The Public Printer, or other printer designated by the Supreme Court of the United States, upon request, shall furnish to the Superintendent of Documents the reports required tobe distributed under the provisions of this section.
 
 (June 25, 1948, ch. 646, 62 Stat. 904; May 24, 1949, ch. 139, §68, 63 Stat. 99; Oct. 31, 1951, ch. 655, §41, 65 Stat. 725; July 10, 1952, ch. 632, §4, 66 Stat. 540.)
 

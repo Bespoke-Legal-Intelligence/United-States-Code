@@ -4,13 +4,21 @@ The Retired Reserve consists of the following Reserves:
 
 &emsp;(1) Reserves who are or have been retired under section 3911, 6323, or 8911 of this title or under section 291 of title 14.
 
-&emsp;(2) Reserves who have been transferred to the Retired Reserve upon their request, retain their status as Reserves, and are otherwise qualified.
+&emsp;(2) Reserves who have been transferred to the Retired Reserve, retain their status as Reserves, and are otherwise qualified.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2975.)
+(Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2975; amended Pub. L. 107–107, div. A, title V, §517(a), Dec. 28, 2001, 115 Stat. 1094.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 274 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
+
+#### Amendments
+
+2001—Par. (2). Pub. L. 107–107 struck out “upon their request” after “Retired Reserve”.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §517(g), Dec. 28, 2001, 115 Stat. 1096, provided that: “The amendments made by this section \[enacting sections 12108 and 12244 of this title and amending this section and sections 14513 to 14515 of this title\] shall take effect on the first day of the first month that begins more than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\].
 
 #### Authority To Issue Military Identification Cards to So-Called Honorary Retirees of the Naval and Marine Corps Reserves
 
@@ -22,7 +30,7 @@ Authority.—The Secretary of the Navy may issue a military identification card 
 
 “(b)
 
-Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of the Naval Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility forretired pay under chapter 67 \[see 1223\] of such title or who after November 30, 1994, transferred to the Retired Reserve under section 10154(2) of title 10, United States Code, without having completed the years of service required under section 12731(a)(2) of such title for eligibility for retired pay under chapter 1223 of such title.
+Covered Members.—A member of the Retired Reserve referred to in subsection (a) is a member of the Naval Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility for retired pay under chapter 67 \[see 1223\] of such title or who after November 30, 1994, transferred to the Retired Reserve under section 10154(2) of title 10, United States Code, without having completed the years of service required under section 12731(a)(2) of such title for eligibility for retired pay under chapter 1223 of such title.
 
 “(c)
 

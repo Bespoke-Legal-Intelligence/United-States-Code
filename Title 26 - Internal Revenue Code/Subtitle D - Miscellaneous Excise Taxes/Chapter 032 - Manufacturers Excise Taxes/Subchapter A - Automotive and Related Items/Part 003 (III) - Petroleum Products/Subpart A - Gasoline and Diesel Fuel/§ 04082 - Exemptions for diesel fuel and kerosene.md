@@ -76,7 +76,7 @@ The date of the enactment of this subsection, referred to in subsec. (c)(1), is 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–206, §6010(h)(3), reenacted heading without change and amended text of par.\(1) generally. Prior to amendment, text read as follows: “Subsection (a)(2) shall not apply to a removal, entry, or sale of aviation-grade kerosene (as determined under regulations prescribed by the Secretary) if the person receiving the kerosene is registered under section 4101 with respect to the tax imposed by section 4091.”
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–206, §6010(h)(3), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Subsection (a)(2) shall not apply to a removal, entry, or sale of aviation-grade kerosene (as determined under regulations prescribed by the Secretary) if the person receiving the kerosene is registered under section 4101 with respect to the tax imposed by section 4091.”
 
 Subsec. (d)(3). Pub. L. 105–206, §6010(h)(4), substituted “kerosene received by” for “a removal, entry, or sale of kerosene to” in introductory provisions.
 

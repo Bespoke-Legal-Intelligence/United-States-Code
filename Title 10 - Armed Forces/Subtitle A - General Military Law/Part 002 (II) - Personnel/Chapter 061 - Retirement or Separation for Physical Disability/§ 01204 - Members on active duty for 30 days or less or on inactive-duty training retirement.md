@@ -20,7 +20,7 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 &emsp;&emsp;&emsp;(ii) while traveling directly to or from the place at which such duty is performed; or
 
-&emsp;&emsp;&emsp;(iii) while remaining overnight, immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site of the inactive-duty training is outside reasonable commuting distance of the member's residence; or
+&emsp;&emsp;&emsp;(iii) while remaining overnight, immediately before the commencement of inactive-duty training, or while remaining overnight between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training; or
 
 &emsp;&emsp;(C) is a result of an injury, illness, or disease incurred or aggravated in line of duty—
 
@@ -38,7 +38,7 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
 &emsp;&emsp;(B) the disability is at least 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 93; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, §604(d)(1), (2)(A), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, §534, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–85, div. A, title V, §513(c)(1), (d)(1), Nov. 18, 1997, 111 Stat. 1730, 1731; Pub. L. 106–65, div. A, title V, §578(i)(3), Oct. 5, 1999, 113 Stat. 629.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 93; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 99–661, div. A, title VI, §604(d)(1), (2)(A), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 102–484, div. A, title V, §516(a), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, §534, Sept. 23, 1996, 110 Stat. 2521; Pub. L. 105–85, div. A, title V, §513(c)(1), (d)(1), Nov. 18, 1997, 111 Stat. 1730, 1731; Pub. L. 106–65, div. A, title V, §578(i)(3), Oct. 5, 1999, 113 Stat. 629; Pub. L. 107–107, div. A, title V, §513(b), Dec. 28, 2001, 115 Stat. 1093.)
 
 Historical and Revision Notes
 
@@ -71,6 +71,8 @@ Clause (4)(A) is substituted for 37:272(f) (as applicable to 37:272(c)). 37:272(
 In clause (4)(B), the words “at the time of the determination” are substituted for the word “current”, in 37:272(c).
 
 #### Amendments
+
+2001—Par. (2)(B)(iii). Pub. L. 107–107, struck out “, if the site of the inactive-duty training is outside reasonable commuting distance of the member's residence” before semicolon.
 
 1999—Par. (2)(C). Pub. L. 106–65 added subpar. (C).
 

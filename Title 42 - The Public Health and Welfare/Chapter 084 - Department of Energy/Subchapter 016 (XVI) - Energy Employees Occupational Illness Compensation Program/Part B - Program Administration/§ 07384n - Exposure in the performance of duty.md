@@ -58,9 +58,9 @@ Section 7(b) of the Orphan Drug Act, referred to in subsec. (c)(3)(A), is sectio
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, set out as a note under section 7384 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000,65 F.R. 77487, set out as a note under section 7384 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7384<i>l</i>, 7384<i>o</i> of this title.
+This section is referred to in sections 7384<i>l</i>, 7384<i>o</i>, 7385d of this title.
 

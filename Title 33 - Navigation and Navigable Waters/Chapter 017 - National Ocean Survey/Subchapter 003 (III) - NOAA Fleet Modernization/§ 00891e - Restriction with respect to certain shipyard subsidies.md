@@ -30,7 +30,7 @@ In this section, the term “significant subsidy” includes, but is not limited
 
 &emsp;(6) Any official regulation or practice that authorizes or encourages persons or firms engaged in shipbuilding or repair to enter into anticompetitive arrangements.
 
-&emsp;(7) Any indirect support directly related, in law or in fact, to shipbuilding and repair at national yards, including any public assistance favoring shipowners with an indirect effect on shipbuilding or repair activities, and any assistance provided to suppliers of significant inputs to shipbuilding, which results in benefits to domestic shipbuilders.
+&emsp;(7) Any indirect support directly related, in law or in fact, to shipbuilding and repair atnational yards, including any public assistance favoring shipowners with an indirect effect on shipbuilding or repair activities, and any assistance provided to suppliers of significant inputs to shipbuilding, which results in benefits to domestic shipbuilders.
 
 &emsp;(8) Any export subsidy identified in the Illustrative List of Export Subsidies in the Annex to the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19, or any other export subsidy prohibited by that agreement.
 

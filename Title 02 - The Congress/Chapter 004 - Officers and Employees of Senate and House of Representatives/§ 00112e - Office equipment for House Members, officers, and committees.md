@@ -30,7 +30,7 @@ Subsec. (b). Pub. L. 104–186, §204(59)(A)(ii), substituted “Chief Administr
 
 Subsec. (c). Pub. L. 104–186, §204(59)(B)(ii), substituted “applicable accounts” for “contingent fund”.
 
-Subsec. (d). Pub. L. 104–186, §204(59)(B)(i), (iii), substituted “House Oversight” for “House Administration” and struck out at end “The regulations shalllimit, on such basis as the committee considers appropriate, the total value of office equipment, with allowance for equipment depreciation, which may be in use at any one time in the office of a Member or the Resident Commissioner.”
+Subsec. (d). Pub. L. 104–186, §204(59)(B)(i), (iii), substituted “House Oversight” for “House Administration” and struck out at end “The regulations shall limit, on such basis as the committee considers appropriate, the total value of office equipment, with allowance for equipment depreciation, which may be in use at any one time in the office of a Member or the Resident Commissioner.”
 
 #### Change of Name
 

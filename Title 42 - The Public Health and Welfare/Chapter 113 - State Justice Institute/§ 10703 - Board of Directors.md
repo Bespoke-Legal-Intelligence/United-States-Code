@@ -22,7 +22,7 @@
 
 #### (b) Term of office
 
-(1) Except as provided in paragraph (2), the term of each voting member of the Board shallbe three years. Each member of the Board shall continue to serve until the successor to such member has been appointed and qualified.
+(1) Except as provided in paragraph (2), the term of each voting member of the Board shall be three years. Each member of the Board shall continue to serve until the successor to such member has been appointed and qualified.
 
 (2) Five of the members first appointed by the President shall serve for a term of two years. Any member appointed to serve an unexpired term which has arisen by virtue of the death, disability, retirement, or resignation of a member shall be appointed only for such unexpired term, but shall be eligible for reappointment.
 
@@ -46,7 +46,7 @@ Each member of the Board shall be entitled to one vote. A simple majority of the
 
 #### (g) Chairman; initial selection and term of office; subsequent annual election
 
-The Board shall select from among the voting members of the Board a chairman, the first of whom shall serve for a term of three years. Thereafter, the Board shall annually elect a chairman from among its voting members.
+The Board shall select from among the voting members of the Board a chairman, the first of whom shall serve for a term of three years.Thereafter, the Board shall annually elect a chairman from among its voting members.
 
 #### (h) Grounds for removal of members
 

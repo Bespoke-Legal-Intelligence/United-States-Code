@@ -6,7 +6,7 @@ Transportation Provided at Rates Other Than Legal Tariff Rates.—
 
 &emsp;(1)
 
-In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II of chapter 105 (as in effect on December 31, 1995) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billed and collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
+In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II ofchapter 105 (as in effect on December 31, 1995) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billed and collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
 
 &emsp;&emsp;(A) the carrier or freight forwarder is no longer transporting property or is transporting property for the purpose of avoiding the application of this section; and
 
@@ -40,7 +40,7 @@ Pounds or Less.—A person from whom the additional legally applicable and effec
 
 Claims Involving Shipments Weighing More Than 10,000
 
-Pounds.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect tosatisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Pounds.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed more than 10,000 pounds, by payment of 15 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (d)
 
@@ -72,7 +72,7 @@ Demands for payment initially made after december 3, 1993.—If the carrier or f
 
 &emsp;(3)
 
-Pending suits for collection made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has filed, before December 4, 1993, a suit for the collection of additional freight charges and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the 90th day following the date on which such notification is received.
+Pending suits for collection made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has filed, before December 4, 1993, a suit for the collection of additional freight charges and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the90th day following the date on which such notification is received.
 
 &emsp;(4)
 

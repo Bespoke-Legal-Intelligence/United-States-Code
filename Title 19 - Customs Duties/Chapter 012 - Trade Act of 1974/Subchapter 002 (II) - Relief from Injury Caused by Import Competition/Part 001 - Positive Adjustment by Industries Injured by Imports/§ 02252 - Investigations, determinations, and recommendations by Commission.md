@@ -40,7 +40,7 @@
 
 (7) Nothing in paragraphs (5) and (6) may be construed to provide immunity under the antitrust laws.
 
-(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part and part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\]. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
+(8) The procedures concerning the release of confidential business information set forth in section 332(g) of the Tariff Act of 1930 \[19 U.S.C. 1332(g)\] shall apply with respect to information received by the Commission in the course of investigations conducted under this part, part 1 of title III of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3351 et seq.\], and title II of the United States-Jordan Free Trade Area Implementation Act. The Commission may request that parties providing confidential business information furnish nonconfidential summaries thereof or, if such parties indicate that the information in the submission cannot be summarized, the reasons why a summary cannot be provided. If the Commission finds that a request for confidentiality is not warranted and if the party concerned is either unwilling to make the information public or to authorize its disclosure in generalized or summarized form, the Commission may disregard the submission.
 
 #### (b) Investigations and determinations by Commission
 
@@ -92,7 +92,7 @@
 
 &emsp;(B) may, in the case of a domestic producer which produces more than one article, treat as part of such domestic industry only that portion or subdivision of the producer which produces the like or directly competitive article; and
 
-&emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industry in the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
+&emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industryin the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
 
 (5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
 
@@ -140,7 +140,7 @@
 
 (2)(A) When a petition filed under subsection (a) of this section alleges that critical circumstances exist and requests that provisional relief be provided under this subsection with respect to imports of the article identified in the petition, the Commission shall, not later than 60 days after the petition containing the request was filed, determine, on the basis of available information, whether—
 
-&emsp;(i) there is clear evidence that increased imports (either actual or relative to domestic production) of the article are a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article; and
+&emsp;(i) there is clear evidence that increased imports (either actual or relative to domestic production) of the article are a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an articlelike or directly competitive with the imported article; and
 
 &emsp;(ii) delay in taking action under this part would cause damage to that industry that would be difficult to repair.
 
@@ -274,7 +274,7 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 #### (h) Limitations on investigations
 
-(1) Except for good cause determined by the Commission to exist, no investigation for the purposes of this section shall be made with respect to the same subject matter as a previous investigation under this part, unless 1 year has elapsed since the Commission made its report to the President of the results of such previous investigation.
+(1) Except for good cause determined by the Commission to exist, no investigation for the purposes of this section shall be made with respect to the same subject matter as a previous investigation under this part, unless 1 year has elapsed since the Commission made its report tothe President of the results of such previous investigation.
 
 (2) No new investigation shall be conducted with respect to an article that is or has been the subject of an action under section 2253(a)(3)(A), (B), (C), or (E) of this title if the last day on which the President could take action under section 2253 of this title in the new investigation is a date earlier than that permitted under section 2253(e)(7) of this title.
 
@@ -290,7 +290,11 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 The Commission shall promulgate regulations to provide access to confidential business information under protective order to authorized representatives of interested parties who are parties to an investigation under this section.
 
-(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 93–618, title II, §202, Jan. 3, 1975, 88 Stat. 2014; Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225; Pub. L. 103–182, title III, §§315, 317(b), Dec. 8, 1993, 107 Stat. 2107, 2108; Pub. L. 103–465, title III, §§301(a)–(d)(2), (4), (e), (f), 302(b)(4)(B), 303(1)–(6), Dec. 8, 1994, 108 Stat. 4932–4934, 4936, 4937; Pub. L. 104–295, §20(c)(5), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 107–43, title II, §222, Sept. 28, 2001, 115 Stat. 250.)
+
+#### Termination of Amendment
+
+<i>For termination of amendment by section 404(c) of Pub. L. 107–43, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -298,9 +302,13 @@ The antitrust laws, referred to in subsec. (a)(7), are classified generally to c
 
 The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
+Title II of the United States-Jordan Free Trade Area Implementation Act, referred to in subsec. (a)(8), is title II of Pub. L. 107–43, Sept. 28, 2001, 115 Stat. 243, which is set out in a note under section 2112 of this title.
+
 The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 #### Amendments
+
+2001—Subsec. (a)(8). Pub. L. 107–43, in first sentence, temporarily substituted “, part 1” for “and part 1” and inserted before period at end “, and title II of the United States-Jordan Free Trade Area Implementation Act”. See Effective and Termination Dates of 2001 Amendment note below.
 
 1996—Subsec. (d)(4)(A)(i). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to subsection (b) of this section.
 
@@ -357,6 +365,10 @@ Subsec. (d)(1)(C). Pub. L. 103–182, §315(2), in cl. (i) and provisions before
 Subsec. (d)(5). Pub. L. 103–182, §315(3), (4), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 1988—Pub. L. 100–418, in amending section generally, substituted provisions relating to investigations, determinations and recommendations by Commission for provisions relating to Presidential action after investigations. See section 2253 of this title.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–43 effective on the date the Agreement between the United States of America and the Hashemite Kingdom of Jordan on the Establishment of a Free Trade Area enters into force (Dec. 17, 2001), and ceases to be effective on the date the Agreement ceases to be in force, see section 404(a), (c), of Pub. L. 107–43, set out in a note under section 2112 of this title.
 
 #### Effective Date of 1994 Amendment
 

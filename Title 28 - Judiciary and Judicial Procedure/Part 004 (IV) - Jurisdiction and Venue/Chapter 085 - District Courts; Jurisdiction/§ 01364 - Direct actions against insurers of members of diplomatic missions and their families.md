@@ -22,7 +22,7 @@ Section 138(b) of Pub. L. 100–204 provided that: “The amendment made by subs
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–241 effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 97–241 effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an EffectiveDate note under section 4301 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 

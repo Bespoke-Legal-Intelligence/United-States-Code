@@ -34,7 +34,7 @@ The practices and procedures specifically enumerated in this subsection shall be
 
 #### (c) Other authorized treatment
 
-The Secretary may by regulations prescribe limitations on the preparation and use of clarifying, stabilizing, preserving, fermenting, andcorrective methods or materials, to the extent that such preparation or use is not acceptable in good commercial practice.
+The Secretary may by regulations prescribe limitations on the preparation and use of clarifying, stabilizing, preserving, fermenting, and corrective methods or materials, to the extent that such preparation or use is not acceptable in good commercial practice.
 
 #### (d) Use of juice or must from which volatile fruit flavor has been removed
 

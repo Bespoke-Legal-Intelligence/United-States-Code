@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, except as provided in subsection (b)
 
 #### (b) Exception
 
-A law enforcement agency described in subsection (a) of this section shall provide information under this paragraph relating to any criminal conviction of a juvenile only to the extent that the release of such information is authorized under the law of the applicable State, tribe, or locality.
+A law enforcement agency described in subsection (a) of this section shall provide information under this paragraph relating to any criminal conviction of a juvenile only to the extentthat the release of such information is authorized under the law of the applicable State, tribe, or locality.
 
 #### (c) Confidentiality
 

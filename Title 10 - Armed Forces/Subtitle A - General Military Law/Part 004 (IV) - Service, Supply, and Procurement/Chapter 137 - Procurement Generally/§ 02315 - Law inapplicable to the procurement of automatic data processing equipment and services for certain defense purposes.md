@@ -14,7 +14,7 @@
 
 (b) Subsection (a)(5) does not include procurement of automatic data processing equipment or services to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
 
-(Added Pub. L. 97–86, title IX, §908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, §1(25), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, §5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title X, §1073(a)(49), Nov. 18, 1997, 111 Stat. 1903.)
+(Added Pub. L. 97–86, title IX, §908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, §1(25), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, §5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div.A, title X, §1073(a)(49), Nov. 18, 1997, 111 Stat. 1903.)
 
 #### References in Text
 

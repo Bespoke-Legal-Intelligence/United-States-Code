@@ -30,7 +30,7 @@ The purposes of the Foundation shall be—
 
 #### (1) In general
 
-&emsp;The Board of Directors shall be the governing body of the Foundation. The Board mayexercise, or provide for the exercise of, the powers of the Foundation.
+&emsp;The Board of Directors shall be the governing body of the Foundation. The Board may exercise, or provide for the exercise of, the powers of the Foundation.
 
 #### (2) Selection
 
@@ -48,7 +48,7 @@ The purposes of the Foundation shall be—
 
 #### (1) In general
 
-&emsp;The officers of the Foundation shall be a secretary, elected from among the members of the Board, and any other officers provided for in the constitution and bylaws of the Foundation.
+&emsp;The officers of the Foundation shall be a secretary, elected from among the members ofthe Board, and any other officers provided for in the constitution and bylaws of the Foundation.
 
 #### (2) Secretary of Foundation
 

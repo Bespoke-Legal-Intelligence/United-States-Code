@@ -24,7 +24,7 @@ For the purpose of carrying out section 285a–7 of this title, there are author
 
 #### (1) In general
 
-&emsp;Of the amounts appropriated for the National Cancer Institute for a fiscal year, theDirector of the Institute shall make available not less than the applicable percentage specified in paragraph (2) for carrying out the cancer control activities authorized in section 285a–1 of this title and for which budget estimates are made under section 285a–2(b)(9) of this title for the fiscal year.
+&emsp;Of the amounts appropriated for the National Cancer Institute for a fiscal year, the Director of the Institute shall make available not less than the applicable percentage specified in paragraph (2) for carrying out the cancer control activities authorized in section 285a–1 of this title and for which budget estimates are made under section 285a–2(b)(9) of this title for the fiscal year.
 
 #### (2) Applicable percentage
 

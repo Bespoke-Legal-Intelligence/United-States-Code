@@ -76,7 +76,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (3) The Attorney General shall assure that any property transferred to a State or local law enforcement agency under paragraph (1)(A)—
 
-&emsp;(A) has a value that bears a reasonable relationship to the degree of direct participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of allproperty forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
+&emsp;(A) has a value that bears a reasonable relationship to the degree of direct participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of all property forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
 
 &emsp;(B) will serve to encourage further cooperation between the recipient State or local agency and Federal law enforcement agencies.
 
@@ -212,7 +212,7 @@ Subsec. (e). Pub. L. 98–473, §§306(e), 309, inserted “civilly or criminall
 
 Subsecs. (h) to (j). Pub. L. 98–473, §306(f), added subsecs. (h) to (j).
 
-1979—Subsec. (d). Pub. L. 96–132 substituted “The provisions” for “All provisions” and struck out “and the award of compensation to informers in respect of such forfeitures” after “compromise of claims”.
+1979—Subsec. (d). Pub. L. 96–132 substituted “The provisions” for “All provisions” and struck out “and theaward of compensation to informers in respect of such forfeitures” after “compromise of claims”.
 
 1978—Subsec. (a)(6). Pub. L. 95–633, §301(1), added par. (6).
 

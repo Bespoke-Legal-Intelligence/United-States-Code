@@ -18,7 +18,7 @@ Any Federal agency disposing of surplus property under this subchapter (1) may d
 
 #### (e) Sale proceeds offset against price or cost of contractor's work
 
-Where any contract entered into by an executive agency or any subcontract under such contract authorizes the proceeds of any sale of property in the custody of the contractor or subcontractor to be credited to the price or cost ofthe work covered by such contract or subcontract, the proceeds of any such sale shall be credited in accordance with the contract or subcontract.
+Where any contract entered into by an executive agency or any subcontract under such contract authorizes the proceeds of any sale of property in the custody of the contractor or subcontractor to be credited to the price or cost of the work covered by such contract or subcontract, the proceeds of any such sale shall becredited in accordance with the contract or subcontract.
 
 #### (f) Acceptance of property in lieu of cash
 
@@ -30,25 +30,29 @@ Where credit has been extended in connection with any disposition of surplus pro
 
 #### (h) Property under control of a military department
 
-(1) If the Secretary of a military department determines that real property, and improvements thereon, under the control of that department (other than property at a military installation designated for closure or realignment) is excess to the needs of that department, the Secretary of Defense shall provide that the property be made available for transfer without reimbursement to the other military departments within the Department of Defense. If the property is not transferred to another military department, the Secretary of the military department concerned shall request the Administrator to transfer or dispose of such property in accordance with the provisions of this Act, section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g)), or other applicable law.
+(1) If the Secretary of a military department determines that real property, and improvements thereon, under the control of that department (other than property at a military installation designated for closure or realignment pursuant to a base closure law) is excess to the needs of that department, the Secretary of Defense shall provide that the property be made available for transfer without reimbursement to the other military departments within the Department of Defense. If the property is not transferred to another military department, the Secretary of the military department concerned shall request the Administrator to transfer or dispose of such property in accordance with the provisions of this Act, section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g)), or other applicable law.
 
 (2) The Administrator shall deposit any proceeds (less expenses of transferring or disposing of the property as provided in subsection (b) of this section) in a special account in the Treasury of the United States. The amount deposited in such account with respect to the transfer or disposal of any such property shall be available, to the extent provided in appropriation Acts, as follows:
 
-&emsp;(A) 50 percent of such amount shall be available for facility maintenance and repair or environmental restoration at the military installation where the property is located.
+&emsp;(A) In the case of property located at a military installation that is closed, such amount shall be available for facility maintenance and repair or environmental restoration by the military department that had jurisdiction over such property before the closure of the military installation.
 
-&emsp;(B) 50 percent of such amount shall be available for facility maintenance and repair and for environmental restoration by the military department that had jurisdiction over the property before it was disposed of or transferred.
+&emsp;(B) In the case of property located at any other military installation—
+
+&emsp;&emsp;(i) 50 percent of such amount shall be available for facility maintenance and repair or environmental restoration at the military installation where such property was located before it was disposed of or transferred; and
+
+&emsp;&emsp;(ii) 50 percent of such amount shall be available for facility maintenance and repair and for environmental restoration by the military department that had jurisdiction over such property before it was disposed of or transferred.
 
 (3) As part of the annual request for authorizations of appropriations to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made, including a detailed explanation of each such transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
 
 (4) This subsection does not apply to damaged or deteriorated military family housing facilities conveyed under section 2854a of title 10.
 
-(5) For purposes of this subsection, the term “military installation” shall have the meaning given that term in section 2687(e)(1) of title 10.
+(5) For purposes of this subsection, the term “military installation” shall have the meaning given that term in section 2687(e)(1) of title 10, and the term “base closure law” shall have the meaning given that term in section 2667(h)(2) of such title.
 
 #### (i) Recovery of costs incurred in sales of personal property
 
 The Administrator may retain from the proceeds of sales of personal property conducted by the General Services Administration amounts necessary to recover, to the extent practicable, costs incurred by the General Services Administration (or its agent) in conducting such sales. The Administrator shall deposit amounts retained into the General Supply Fund established under section 756(a) of this title and may use such portion of amounts so deposited as is necessary to pay (1) direct costs incurred by the General Services Administration in conducting sales of personal property, and (2) indirect costs incurred by the General Services Administration that are reasonably related to those sales. Amounts retained that are not needed to pay the direct and indirect costs incurred shall periodically, but not less than annually, be transferred from the General Supply Fund to the general fund or another appropriate account in the Treasury.
 
-(June 30, 1949, ch. 288, title II, §204, 63 Stat. 388; Aug. 31, 1954, ch. 1178, 68 Stat. 1051; Pub. L. 86–215, Sept. 1, 1959, 73 Stat. 446; Pub. L. 96–41, §3(d), July 30, 1979, 93 Stat. 325; Pub. L. 100–612, §6, Nov. 5, 1988, 102 Stat. 3181; Pub. L. 101–510, div. B, title XXVIII, §2805, Nov. 5, 1990, 104 Stat. 1786; Pub. L. 103–123, title IV, §7, Oct. 28, 1993, 107 Stat. 1247; Pub. L. 104–106, div. A, title XV, §1502(f)(7), div. B, title XXVIII, §2818(b), Feb. 10, 1996, 110 Stat. 510, 555; Pub. L. 106–65, div. A, title X, §1067(18), Oct. 5, 1999, 113 Stat. 775.)
+(June 30, 1949, ch. 288, title II, §204, 63 Stat. 388; Aug. 31, 1954, ch. 1178, 68 Stat. 1051; Pub. L. 86–215, Sept. 1, 1959, 73 Stat. 446; Pub. L. 96–41, §3(d), July 30, 1979, 93 Stat. 325; Pub. L. 100–612, §6, Nov. 5, 1988, 102 Stat. 3181; Pub. L. 101–510, div. B, title XXVIII, §2805, Nov. 5, 1990, 104 Stat. 1786; Pub. L. 103–123, title IV, §7, Oct. 28, 1993, 107 Stat. 1247; Pub. L. 104–106, div. A, title XV, §1502(f)(7), div. B, title XXVIII, §2818(b), Feb. 10, 1996, 110 Stat. 510, 555; Pub. L. 106–65, div. A, title X, §1067(18), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–107, div. B, title XXVIII, §2812, Dec. 28, 2001, 115 Stat. 1307.)
 
 #### References in Text
 
@@ -65,6 +69,16 @@ Section was formerly classified to section 234 of Title 41, Public Contracts.
 Provisions similar to those comprising subsec. (a) of this section were contained in act June 30, 1949, ch. 286, title I, §101, 63 Stat. 363; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380, which was classified to section 314a of this title.
 
 #### Amendments
+
+2001—Subsec. (h)(1). Pub. L. 107–107, §2812(b)(1), inserted “pursuant to a base closure law” after “realignment” in first sentence.
+
+Subsec. (h)(2)(A), (B). Pub. L. 107–107, §2812(a), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) 50 percent of such amount shall be available for facility maintenance and repair or environmental restoration at the military installation where the property is located.
+
+“(B) 50 percent of such amount shall be available for facility maintenance and repair and for environmental restoration by the military department that had jurisdiction over the property before it was disposed of or transferred.”
+
+Subsec. (h)(5). Pub. L. 107–107, §2812(b)(2), inserted “, and the term ‘base closure law’ shall have the meaning given that term in section 2667(h)(2) of such title” before period at end.
 
 1999—Subsec. (h)(3). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 

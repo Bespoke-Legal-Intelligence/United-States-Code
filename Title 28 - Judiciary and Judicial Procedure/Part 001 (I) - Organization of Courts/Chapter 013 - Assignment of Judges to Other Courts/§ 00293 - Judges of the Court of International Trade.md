@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 85–755 designated existing second par. as subsec. (b).
 
 Subsecs. (c), (d). Pub. L. 85–755 added subsecs. (c) and (d).
 
-<b>1956</b>—Act July 14, 1956, authorized the Chief Justice of the United States to designate and assign temporarily a judge of the Customs Court to perform judicial duties in a district court in any circuit.
+<b>1956</b>—Act July 14, 1956, authorized the Chief Justice of the United States to designate and assign temporarilya judge of the Customs Court to perform judicial duties in a district court in any circuit.
 
 #### Effective Date of 1982 Amendment
 

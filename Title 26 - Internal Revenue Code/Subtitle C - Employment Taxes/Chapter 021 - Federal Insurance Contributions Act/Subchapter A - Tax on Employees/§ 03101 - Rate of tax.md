@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 89–97, §111(c)(5), struck out “, but without regard t
 
 <b>1961</b>—Pub. L. 87–64 increased rate of tax for calendar year 1962 from 3 to 31/8 percent, calendar years 1963 to 1965, inclusive, from 31/2 to 35/8 percent, calendar years 1966 and 1967 from 4 to 41/8 percent, calendar year 1968 from 4 to 45/8 percent, and for calendar years after December 31, 1968, from 41/2 to 45/8 percent.
 
-<b>1958</b>—Pub. L. 85–840 increased rate of tax by substituting provisions imposing a tax of 21/2% for calendar year 1959, 3% for calendar years 1960 to 1962, 31/2% for calendar years 1963 to 1965, 4% for calendar years 1966 to 1968, and 41/2% for calendar years beginning after Dec. 31, 1968, for provisions which imposed a tax of 21/4% forcalendar years 1957 to 1959, 23/4% for calendar years 1960 to 1964, 31/4% for calendar years 1965 to 1969, 33/4% for calendar years 1970 to 1974, and 41/4% for calendar years beginning after Dec. 31, 1974.
+<b>1958</b>—Pub. L. 85–840 increased rate of tax by substituting provisions imposing a tax of 21/2% for calendar year 1959, 3% for calendar years 1960 to 1962, 31/2% for calendar years 1963 to 1965, 4% for calendar years 1966 to 1968, and 41/2% for calendar years beginning after Dec. 31, 1968, for provisions which imposed a tax of 21/4% for calendar years 1957 to 1959, 23/4% for calendar years 1960 to 1964, 31/4% for calendar years 1965 to 1969, 33/4% for calendar years 1970 to 1974, and 41/4% for calendar years beginning after Dec. 31, 1974.
 
 <b>1956</b>—Act Aug. 1, 1956, increased rate of tax with respect to wages received during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 95–216 applicable with respect to remuneration paid or re
 
 #### Effective Date of 1976 Amendment
 
-Section 1903(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[see Tables for classification of section 1903 of Pub. L. 94–455\] shall apply with respect to wages paid after December 31, 1976, except that the amendments made to chapter 22 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 3201 et seq. of this title\] shall apply with respect to compensation paid for services rendered after December 31, 1976.”
+Section 1903(d) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by this section \[see Tables for classification of section 1903 of Pub. L. 94–455\] shall apply with respect to wages paid after December 31, 1976, except that the amendments made to chapter 22 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 3201 et seq. of this title\] shall apply with respect to compensation paid for services rendered after December 31, 1976.”
 
 #### Effective Date of 1973 Amendment
 
@@ -166,5 +166,5 @@ Section 402 of act Sept. 1, 1954, as amended by act Oct. 22, 1986, Pub. L. 99–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 275, 406, 1402, 3102, 3121, 3125, 3126, 3127, 3201, 3211, 3231, 3306, 3502, 6051, 6053, 6205, 6413, 6521, 6652 of this title; title 2 sections 658a, 1503; title 5 sections 8334, 8422; title 22 section 4071e; title 42 sections 401, 409, 418, 429, 910, 911, 1395i; title 45 section 231e; title 50 section 2021.
+This section is referred to in sections 24, 275, 406, 1402, 3102, 3121, 3125, 3126, 3127, 3201, 3211, 3231, 3306, 3502, 6051, 6053, 6205, 6413, 6521, 6652 of this title; title 2 sections 658a, 1503; title 5 sections 8334, 8422; title 22 section 4071e; title 42 sections 401, 409, 418, 429, 910, 911, 1395i, 1395i–2; title 45 section 231e; title 50 section 2021.
 

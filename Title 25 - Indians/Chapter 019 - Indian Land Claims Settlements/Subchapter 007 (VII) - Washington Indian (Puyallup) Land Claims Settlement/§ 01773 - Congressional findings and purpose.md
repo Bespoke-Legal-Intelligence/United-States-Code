@@ -28,7 +28,7 @@ The Congress finds and declares that:
 
 &emsp;&emsp;(C) the Executive Order of 1873, clarifying and extending the Puyallup Reservation in the Washington Territory;
 
-&emsp;&emsp;(D) the March 11, 1891, Report of the Puyallup Indian Commission on allotments and the 1896 report by a second Puyallup Indian Commission describing the problems with sales of allotted lands; and
+&emsp;&emsp;(D) the March 11, 1891, Report of the Puyallup Indian Commission on allotments andthe 1896 report by a second Puyallup Indian Commission describing the problems with sales of allotted lands; and
 
 &emsp;&emsp;(E) the 1909 District Court for Tacoma decision of the United States of America against J.M. Ashton and the 1910 Supreme Court decision of United States of America against J.M. Ashton.
 

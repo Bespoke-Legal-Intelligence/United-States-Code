@@ -46,7 +46,7 @@ It shall be the function of each Council to evaluate the unemployment compensati
 
 #### (2) Assistance from Secretary of Labor
 
-&emsp;The Secretary of Labor shall provide each Council with any staff, office facilities, andother assistance, and any data prepared by the Department of Labor, required by the Council to carry out its functions under this section.
+&emsp;The Secretary of Labor shall provide each Council with any staff, office facilities, and other assistance, and any data prepared by the Department of Labor, required by the Council to carry out its functions under this section.
 
 #### (e) Compensation
 
@@ -70,7 +70,7 @@ Each member of any Council—
 
 #### Codification
 
-Section 9 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 547, which contained provisions substantially identical to those of section 303 of Pub. L. 102–164, amending this section, did not become effective pursuant to section 10(b) of Pub. L. 102–107, because the President did not take the action required by that section by Aug. 17, 1991.
+Section 9 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 547, which contained provisions substantially identicalto those of section 303 of Pub. L. 102–164, amending this section, did not become effective pursuant to section 10(b) of Pub. L. 102–107, because the President did not take the action required by that section by Aug. 17, 1991.
 
 #### Prior Provisions
 

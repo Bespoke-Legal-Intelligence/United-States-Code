@@ -26,5 +26,5 @@ Section 1051(i) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 2
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 26, 29, 30, 55, 59, 108, 469, 691, 1351 of this title.
+This section is referred to in sections 23, 24, 25B, 26, 29, 30, 55, 59, 108, 469, 691, 1351 of this title.
 

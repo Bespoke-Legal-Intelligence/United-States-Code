@@ -16,7 +16,7 @@ Section was formerly classified to section 611a of Title 5 prior to the general 
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6, of 1950, §§1, 2, 15 F.R. 3174, 64Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws
 
@@ -28,5 +28,5 @@ Section 2(f)(1) of Pub. L. 99–619 provided that: “The incumbent in the posit
 
 #### Order of Succession
 
-For order of succession in case of absence, sickness, resignation, or death of Secretary and Under Secretary, see Ex. Ord. No. 10513, Jan. 19, 1954, 19 F.R. 369 set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Labor are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13245, Dec. 18, 2001, 66 F.R. 66268, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 

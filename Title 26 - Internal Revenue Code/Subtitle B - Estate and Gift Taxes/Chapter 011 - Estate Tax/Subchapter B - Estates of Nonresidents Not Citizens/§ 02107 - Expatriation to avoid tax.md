@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), an individual shall be treated as having a principalpurpose to avoid such taxes if such individual is so treated under section 877(a)(2).
+&emsp;&emsp;For purposes of paragraph (1), an individual shall be treated as having a principal purpose to avoid such taxes if such individual is so treated under section 877(a)(2).
 
 #### (B) Exception
 
@@ -76,7 +76,11 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 &emsp;&emsp;<b>For comparable treatment of long-term lawful permanent residents who ceased to be taxed as residents, see section 877(e).</b>
 
-(Added Pub. L. 89–809, title I, §108(f), Nov. 13, 1966, 80 Stat. 1573; amended Pub. L. 94–455, title XIX, §§1902(a)(6), 1906(b)(13)(A), title XX, §2001(c)(1)(E)(ii), Oct. 4, 1976, 90 Stat. 1805, 1834, 1851; Pub. L. 104–191, title V, §511(e)(1), (f)(2)(A), Aug. 21, 1996, 110 Stat. 2097, 2099; Pub. L. 105–34, title XVI, §1602(g)(6), Aug. 5, 1997, 111 Stat. 1095.)
+(Added Pub. L. 89–809, title I, §108(f), Nov. 13, 1966, 80 Stat. 1573; amended Pub. L. 94–455, title XIX, §§1902(a)(6), 1906(b)(13)(A), title XX, §2001(c)(1)(E)(ii), Oct. 4, 1976, 90 Stat. 1805, 1834, 1851; Pub. L. 104–191, title V, §511(e)(1), (f)(2)(A), Aug. 21, 1996, 110 Stat. 2097, 2099; Pub. L. 105–34, title XVI, §1602(g)(6), Aug. 5, 1997, 111 Stat. 1095; Pub. L. 107–16, title V, §532(c)(7)(C), June 7, 2001, 115 Stat. 75.)
+
+#### Amendment of Subsection (c)(3)
+
+<i>Pub. L. 107–16, title V, §532(c)(7)(C), (d), title IX, §901, June 7, 2001, 115 Stat. 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (c)(3) of this section is temporarily amended by substituting “2012 and 2013” for “2011 to 2013, inclusive,”. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -84,7 +88,7 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 Subsec. (c)(2)(C). Pub. L. 105–34, §1602(g)(6)(B), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (B), a property's proportionate share is the percentage of the value of the property which is included in the gross estate solely by reason of subsection (b) bears to the total value of the gross estate.”
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–191, §511(e)(1)(A), substituted “Treatment of expatriates” for “Rate of tax” in heading and amended text generally. Prior toamendment, text read as follows: “A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States dying after November 13, 1966, if after March 8, 1965, and within the 10-year period ending with the date of death such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–191, §511(e)(1)(A), substituted “Treatment of expatriates” for “Rate of tax” in heading and amended text generally. Prior to amendment, text read as follows: “A tax computed in accordance with the table contained in section 2001 is hereby imposed on the transfer of the taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States dying after November 13, 1966, if after March 8, 1965, and within the 10-year period ending with the date of death such decedent lost United States citizenship, unless such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
 
 Subsec. (b)(2). Pub. L. 104–191, §511(e)(1)(C), substituted “more than 50 percent of—” for “more than 50 percent of the total combined voting power of all classes of stock entitled to vote of such foreign corporation,” and added subpars. (A) and (B).
 
@@ -103,6 +107,12 @@ Subsec. (e). Pub. L. 104–191, §511(f)(2)(A), added subsec. (e). Former subsec
 Subsec. (c). Pub. L. 94–455, §2001(c)(1)(E)(ii), substituted provisions relating to unified credit for “The tax imposed by subsection (a) shall be credited with the amounts determined in accordance with section 2102.”
 
 Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

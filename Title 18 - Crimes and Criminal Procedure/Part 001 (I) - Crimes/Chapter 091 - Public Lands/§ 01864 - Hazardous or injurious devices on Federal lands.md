@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(E) any other injury to the body, no matter how temporary;
 
-&emsp;(3) the term “hazardous or injurious device” means a device, which when assembled orplaced, is capable of causing bodily injury, or damage to property, by the action of any person making contact with such device subsequent to the assembly or placement. Such term includes guns attached to trip wires or other triggering mechanisms, ammunition attached to trip wires or other triggering mechanisms, or explosive devices attached to trip wires or other triggering mechanisms, sharpened stakes, lines or wires, lines or wires with hooks attached, nails placed so that the sharpened ends are positioned in an upright manner, or tree spiking devices including spikes, nails, or other objects hammered, driven, fastened, or otherwise placed into or on any timber, whether or not severed from the stump; and
+&emsp;(3) the term “hazardous or injurious device” means a device, which when assembled or placed, is capable of causing bodily injury, or damage to property, by the action of any person making contact with such device subsequent to the assembly or placement. Such term includes guns attached to trip wires or other triggering mechanisms, ammunition attached to trip wires or other triggering mechanisms, or explosive devices attached to trip wires or other triggering mechanisms, sharpened stakes, lines or wires, lines or wires with hooks attached, nails placed so that the sharpened ends are positioned in an upright manner, or tree spiking devices including spikes, nails, or other objects hammered, driven, fastened, or otherwise placed into or on any timber, whether or not severed from the stump; and
 
 &emsp;(4) the term “avoidance costs” means costs incurred by any individual for the purpose of—
 
@@ -70,7 +70,7 @@ The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub
 
 Subsec. (b)(3). Pub. L. 104–134, §101(c) \[title III, §330(1)(B)\], substituted “20” for “ten”.
 
-Subsec. (b)(4). Pub. L. 104–134, §101(c) \[title III, §330(1)(C), (D)\], substituted “if damage to the property of any individual results or if avoidance costs have been incurred exceeding $10,000, in the aggregate,” for “if damage exceeding $10,000 to the property of any individual results,” and “20” for “ten”.
+Subsec. (b)(4). Pub. L. 104–134, §101(c) \[title III, §330(1)(C), (D)\], substituted “if damage to the property of any individual results or if avoidance costs have been incurred exceeding $10,000, in the aggregate,” for“if damage exceeding $10,000 to the property of any individual results,” and “20” for “ten”.
 
 Subsec. (c). Pub. L. 104–134, §101(c) \[title III, §330(2)\], substituted “20” for “ten”.
 

@@ -64,5 +64,5 @@ Pub. L. 94–482, title III, §327, Oct. 12, 1976, 90 Stat. 2220, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6338 of this title.
+This section is referred to in section 6339 of this title.
 

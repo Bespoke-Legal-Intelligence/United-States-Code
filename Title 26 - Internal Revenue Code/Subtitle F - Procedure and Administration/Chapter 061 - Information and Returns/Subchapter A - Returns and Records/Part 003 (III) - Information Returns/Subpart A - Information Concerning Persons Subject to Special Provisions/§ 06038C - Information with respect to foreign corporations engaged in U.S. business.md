@@ -42,7 +42,7 @@ The provisions of subsection (d) of section 6038A shall apply to—
 
 &emsp;&emsp;(C) the reporting corporation does not substantially comply in a timely manner with such summons and the Secretary has sent by certified or registered mail a notice to such reporting corporation that such reporting corporation has not so substantially complied,
 
-> &emsp;the Secretary may apply the rules of paragraph (3) with respect to any transaction or item to which such summons relates (whether or not the Secretary begins a proceeding toenforce such summons). If the reporting corporation fails to maintain (or cause another to maintain) records as required by subsection (a), and by reason of that failure, the summons is quashed in a proceeding described in subparagraph (B) or the reporting corporation is not able to provide the records requested in the summons, the Secretary may apply the rules of paragraph (3) with respect to any transaction or item to which the records relate.
+> &emsp;the Secretary may apply the rules of paragraph (3) with respect to any transaction or item to which such summons relates (whether or not the Secretary begins a proceeding to enforce such summons). If the reporting corporation fails to maintain (or cause another to maintain) records as required by subsection (a), and by reason of that failure, the summons is quashed in a proceeding described in subparagraph (B) or the reporting corporation is not able to provide the records requested in the summons, the Secretary may apply the rules of paragraph (3) with respect to any transaction or item to which the records relate.
 
 #### (3) Applicable rules
 

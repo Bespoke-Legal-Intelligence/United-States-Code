@@ -98,7 +98,7 @@ In the case of returns of tax required under authority of part II of this subcha
 
 Subsec. (b)(6). Pub. L. 99–514, §1879(r)(1), added par. (6).
 
-<b>1981</b>—Subsec. (b)(1)(B)(iii). Pub. L. 97–34 substituted “section 911 (relating to citizens or residents of the United States living abroad)” for “section 911 (relatingto income earned by employees in certain camps)” and struck out “section 913 (relating to deduction for certain expenses of living abroad)”.
+<b>1981</b>—Subsec. (b)(1)(B)(iii). Pub. L. 97–34 substituted “section 911 (relating to citizens or residents of the United States living abroad)” for “section 911 (relating to income earned by employees in certain camps)” and struck out “section 913 (relating to deduction for certain expenses of living abroad)”.
 
 <b>1978</b>—Subsec. (b)(1)(B)(iii). Pub. L. 95–615 substituted “(relating to income earned by employees in certain camps)” for “(relating to earned income from sources without the United States)” and inserted “section 913 (relating to deduction for certain expenses of living abroad),” before “section 931”.
 

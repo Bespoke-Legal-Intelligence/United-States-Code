@@ -24,7 +24,7 @@ Prior to and as a condition of the receipt each fiscal year of funds appropriate
 
 #### (e) Evaluation of water resources research program
 
-The Secretary shall conduct a careful and detailed evaluation of each institute at least once every 5 years to determine that the quality and relevance of its water resources research and its effectiveness as an institution for planning, conducting, and arranging for research warrants its continued support under this section. If, as a result of any such evaluation, the Secretary determines that an institute does not qualify for further support under this section, then no further grants to the institute may be made until the institute's qualifications are reestablished to the satisfaction of the Secretary.
+The Secretary shall conduct a careful and detailed evaluation of each institute at least once every 5 years to determine that the quality and relevance of its water resources research and its effectiveness as an institution for planning, conducting, and arranging for research warrants its continued support under this section. If, as a result of any such evaluation, the Secretary determines that an institute does not qualify for further support under this section, then no further grants to the institute may be made until theinstitute's qualifications are reestablished to the satisfaction of the Secretary.
 
 #### (f) Authorization of appropriations in general
 
@@ -34,7 +34,7 @@ The Secretary shall conduct a careful and detailed evaluation of each institute 
 
 #### (g) Additional appropriations where research focused on water problems of interstate nature
 
-(1) There is further authorized to be appropriated to the Secretary of the Interior the sum of $3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstatenature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
+(1) There is further authorized to be appropriated to the Secretary of the Interior the sum of $3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
 
 (2) Research funds made available under this subsection shall be made on a competitive basis subject to the merit of the proposal, the need for the information to be produced, and the opportunity such funds will provide for training of water resources scientists or professionals.
 
@@ -88,7 +88,7 @@ Subsec. (h). Pub. L. 104–147, §6, added subsec. (h).
 
 Subsec. (b). Pub. L. 101–397, §1(c), inserted “promoting” after “for the purpose of” in last sentence.
 
-Subsec. (b)(1). Pub. L. 101–397, §1(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research with respect to water resources, including investigations and experiments of either a basic or practical nature, or both; promote the dissemination and application of the results of these efforts; and provide for the training of scientists and engineers through such research, investigations, and experiments, and”.
+Subsec. (b)(1). Pub. L. 101–397, §1(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research with respect to water resources, including investigations and experiments of either a basic or practical nature, or both; promote the dissemination and application of the results of these efforts; and provide forthe training of scientists and engineers through such research, investigations, and experiments, and”.
 
 Subsec. (c). Pub. L. 101–397, §1(e), substituted for period at end “and thereafter, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.”
 
@@ -104,7 +104,7 @@ Subsec. (g). Pub. L. 101–397, §1(m), added subsec. (g).
 
 Section 2 of Pub. L. 101–397 provided that:
 
-“(a) The Secretary of the Interior, in consultation with the Secretary of Agriculture and the Administrator of the Environmental Protection Agency, is authorized to enter into contracts or cooperative agreements, as the Secretary deems appropriate, with national laboratories (including Los Alamos NationalLaboratory) to carry out water resources research, development, and demonstration projects within the authorities of Public Law 98–242 \[42 U.S.C. 10301 et seq.\] (including the effects of potential climate changes on surface and ground water quality and quantity and the elimination of contamination of ground water aquifers).
+“(a) The Secretary of the Interior, in consultation with the Secretary of Agriculture and the Administrator of the Environmental Protection Agency, is authorized to enter into contracts or cooperative agreements, as the Secretary deems appropriate, with national laboratories (including Los Alamos National Laboratory) to carry out water resources research, development, and demonstration projects within the authorities of Public Law 98–242 \[42 U.S.C. 10301 et seq.\] (including the effects of potential climate changes on surface and ground water quality and quantity and the elimination of contamination of ground water aquifers).
 
 “(b) The water resources research authorized in this section shall be undertaken under such rules and regulations as the Secretary deems appropriate and shall be carried out in close consultation and collaboration with the institutes established pursuant to Public Law 98–242 \[42 U.S.C. 10301 et seq.\], to the extent such research work affects the State in which the institute exists, and to the extent such institute agrees to consult and collaborate.
 

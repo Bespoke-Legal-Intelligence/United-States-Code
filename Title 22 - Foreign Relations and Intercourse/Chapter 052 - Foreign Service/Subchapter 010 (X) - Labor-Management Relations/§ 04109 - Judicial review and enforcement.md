@@ -6,7 +6,7 @@ Except as provided in section 4114(d) of this title, any person aggrieved by a f
 
 #### (b) Enforcement of order; temporary relief or restraining order
 
-The Board may petition the United States Court of Appeals for the District of Columbia for the enforcement of any order of the Board under this subchapter and for any appropriate temporary relief or restraining order.
+The Board may petition the United States Court of Appeals for the District of Columbia forthe enforcement of any order of the Board under this subchapter and for any appropriate temporary relief or restraining order.
 
 #### (c) Applicability of other provisions of law
 

@@ -70,7 +70,7 @@ A management conference convened under this section shall be convened for a peri
 
 #### (2) Implementation
 
-&emsp;Upon approval of a conservation and management plan under this section, such plan shall be implemented. Funds authorized to be appropriated under subchapters II and VI of this chapter and section 1329 of this title may be used in accordance with the applicable requirements of this chapter to assist States with the implementation of such plan.
+&emsp;Upon approval of a conservation and management plan under this section, such planshall be implemented. Funds authorized to be appropriated under subchapters II and VI of this chapter and section 1329 of this title may be used in accordance with the applicable requirements of this chapter to assist States with the implementation of such plan.
 
 #### (g) Grants
 
@@ -204,7 +204,7 @@ Purpose.—The purpose of this title is to protect and enhance the environmental
 
 #### “SEC. 1005. FUNDING SOURCES.
 
-“Within one year of enactment \[Nov. 14, 1988\], the Administrator of the United States Environmental Protection Agency and the Governor of Massachusetts shall undertake to identify and make available sources of funding to support activities pertaining to Massachusetts Bay undertaken pursuant to or authorized bysection 320 of the Clean Water Act \[33 U.S.C. 1330\], and shall make every effort to coordinate existing research, monitoring or control efforts with such activities.”
+“Within one year of enactment \[Nov. 14, 1988\], the Administrator of the United States Environmental Protection Agency and the Governor of Massachusetts shall undertake to identify and make available sources of funding to support activities pertaining to Massachusetts Bay undertaken pursuant to or authorized by section 320 of the Clean Water Act \[33 U.S.C. 1330\], and shall make every effort to coordinate existing research, monitoring or control efforts with such activities.”
 
 #### Purposes and Policies of National Estuary Program
 

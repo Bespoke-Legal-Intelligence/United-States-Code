@@ -52,6 +52,22 @@ Amendment by Pub. L. 89–132 effective Sept. 1, 1965, see section 10 of Pub. L.
 
 Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as an Effective Date of 1963 Amendment note under section 201 of this title.
 
+#### Retroactive Authorization for Imminent Danger Pay for Service in Connection With Operation Enduring Freedom
+
+Pub. L. 107–107, div. A, title VI, §624, Dec. 28, 2001, 115 Stat. 1143, provided that:
+
+“(a)
+
+Retroactive Authorization.—The Secretary of Defense may provide for the payment of imminent danger pay under section 310 of title 37, United States Code, to members of the Armed Forces assigned to duty in the areas specified in subsection (b) in connection with the contingency operation known as Operation Enduring Freedom with respect to periods of duty served in those areas during the period beginning on September 19, 2001, and ending October 31, 2001.
+
+“(b)
+
+Specified Areas.—The areas referred to in subsection (a) are the following:
+
+&emsp;“(1) The land areas of Kyrgyzstan, Oman, the United Arab Emirates, and Uzbekistan.
+
+&emsp;“(2) The Red Sea, the Gulf of Aden, the Gulf of Oman, and the Arabian Sea (that portion north of 10° north latitude and west of 68° east longitude).”
+
 #### Temporary Increase in Special Pay in Connection With Persian Gulf Conflict
 
 Pub. L. 102–25, title III, §301, Apr. 6, 1991, 105 Stat. 80, provided that:
@@ -64,7 +80,7 @@ Increased Rate.—In lieu of the rate of special pay specified in section 310(a)
 
 Period of Applicability.—Subsection (a) shall apply during the period beginning on August 1, 1990, and ending on the first day of the first month beginning on or after the date 180 days after the end of the Persian Gulf conflict.”
 
-#### Imminent Danger Pay
+#### Imminent Danger Pay in Connection With Operation Desert Shield
 
 Section 1111(a) of Pub. L. 101–510 provided that: “The Secretary of Defense may provide for the payment of imminent danger pay under section 310 of title 37, United States Code, to members of the Armed Forces assigned to duty in the Persian Gulf area in connection with Operation Desert Shield with respect to periods of duty served after August 1, 1990, and before the date of the enactment of this Act \[Nov. 5, 1990\].”
 

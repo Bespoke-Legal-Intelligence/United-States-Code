@@ -28,7 +28,7 @@ Providing that the Egg Board shall, subject to the provisions of subsection (g) 
 
 (C) The order may be amended to decrease the assessment rate after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title.
 
-(3) To facilitate the collection of such assessments, the order of the Egg Board may designate different handlers or classes of handlers to recognize differences in marketing practicesor procedures utilized in the industry. The Secretary may maintain a suit against any person subject to the order for the collection of such assessment, and the several district courts of the United States are hereby vested with jurisdiction to entertain such suits regardless of the amount in controversy.
+(3) To facilitate the collection of such assessments, the order of the Egg Board may designate different handlers or classes of handlers to recognize differences in marketing practices or procedures utilized in the industry. The Secretary may maintain a suit against any person subject to the order for the collection of such assessment, and the several district courts of the United States are hereby vested with jurisdiction to entertain such suits regardless of the amount in controversy.
 
 #### (f) Recordkeeping and reporting requirements; accounting by Board
 
@@ -36,7 +36,7 @@ Providing that the Egg Board shall maintain such books and records and prepare a
 
 #### (g) Contracts or agreements by Board for implementation of orders and payment of costs; required provisions
 
-Providing that the Egg Board, with the approval of the Secretary, may enter into contracts or agreements for development and carrying out of the activities authorized under the order pursuant to section 2706(a) and (b) of this title and for the payment of the cost thereof with funds collected pursuant to the order. Any such contract or agreement shall provide that such contractors shall develop and submit to the Egg Board a plan or project together with a budget or budgets which shall show estimated costs to be incurred for such plan or project, and that any such plan or project shall become effective upon the approval of the Secretary, and further, shall provide that the contracting party shall keep accurate records of all of its transactions and make periodic reports to the Egg Board of activities carried out and an accounting for funds received and expended, and such other reports as the Secretary may require.
+Providing that the Egg Board, with the approval of the Secretary, may enter into contracts or agreements for development and carrying out of the activities authorized under the order pursuant to section 2706(a) and (b) of this title and for the payment of the cost thereof with funds collected pursuant to the order. Any such contract or agreement shall provide that such contractors shall develop and submit to the Egg Board a plan or project together with abudget or budgets which shall show estimated costs to be incurred for such plan or project, and that any such plan or project shall become effective upon the approval of the Secretary, and further, shall provide that the contracting party shall keep accurate records of all of its transactions and make periodic reports to the Egg Board of activities carried out and an accounting for funds received and expended, and such other reports as the Secretary may require.
 
 #### (h) Restriction on use of funds collected by Board for political purposes
 

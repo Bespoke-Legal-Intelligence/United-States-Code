@@ -8,7 +8,7 @@
 
 (b) An enlisted member who is discharged from the National Guard is entitled to a discharge certificate similar in form and classification to the corresponding certificate prescribed for members of the Regular Army or the Regular Air Force, as the case may be.
 
-(c) In time of peace, an enlisted member of the National Guard may be discharged before his enlistment expires, under such regulations as may be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be.
+(c) In time of peace, an enlisted member of the National Guard may be discharged before his enlistment expires, under such regulations as may be prescribed by the Secretary of the Army orthe Secretary of the Air Force, as the case may be.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 606.)
 
@@ -42,7 +42,7 @@ June 3, 1916, ch. 134, §110 (last par., less 1st 30, and last 25, words); resta
 
 Subsection (a) is substituted for 32:154 (last par., less 1st 26, and last 26, words) to reflect an opinion of the Judge Advocate General of the Army (JAGA 1953/9033, 3 Dec. 1953).
 
-In subsection (b), the words “is entitled to a discharge certificate similar in form and classification to the corresponding certificate” are substituted for thewords “shall receive a discharge in writing in such form and with such classification as is or shall be”. The words “service in” are omitted as surplusage.
+In subsection (b), the words “is entitled to a discharge certificate similar in form and classification to the corresponding certificate” are substituted for the words “shall receive a discharge in writing in such form and with such classification as is or shall be”. The words “service in” are omitted as surplusage.
 
 In subsection (c), the words “his enlistment expires” are substituted for the words “the expiration of terms of enlistment”.
 

@@ -8,7 +8,7 @@ It shall be unlawful to export from the United States any narcotic drug in sched
 
 &emsp;&emsp;(A) the International Opium Convention of 1912 for the Suppression of the Abuses of Opium, Morphine, Cocaine, and Derivative Drugs, or to the International Opium Convention signed at Geneva on February 19, 1925; or
 
-&emsp;&emsp;(B) the Convention for Limiting the Manufacture and Regulating the Distribution of Narcotic Drugs concluded at Geneva, July 13, 1931, as amended by the protocol signed at Lake Success on December 11, 1946, and the protocol bringing under international control drugs outside the scope of the convention on July 13, 1931, for limiting the manufacture and regulating the distribution of narcotic drugs (as amended by the protocol signed at Lake Success on December 11, 1946), signed at Paris, November 19, 1948; or
+&emsp;&emsp;(B) the Convention for Limiting the Manufacture and Regulating the Distribution of Narcotic Drugs concluded at Geneva, July 13, 1931, as amended by the protocol signed at Lake Success on December 11, 1946, and the protocol bringing under international control drugs outside the scope of the convention of July 13, 1931, for limiting the manufacture and regulating the distribution of narcotic drugs (as amended by the protocol signed at Lake Success on December 11, 1946), signed at Paris, November 19, 1948; or
 
 &emsp;&emsp;(C) the Single Convention on Narcotic Drugs, 1961, signed at New York, March 30, 1961;
 
@@ -22,7 +22,7 @@ It shall be unlawful to export from the United States any narcotic drug in sched
 
 #### (b) Exception for exportation for special scientific purposes
 
-Notwithstanding subsection (a) of this section, the Attorney General may authorize any narcotic drug (including crude opium and cocaleaves) in schedule I, II, III, or IV to be exported from the United States to a country which is a party to any of the international instruments mentioned in subsection (a) of this section if the particular drug is to be applied to a special scientific purpose in the country of destination and the authorities of such country will permit the importation of the particular drug for such purpose.
+Notwithstanding subsection (a) of this section, the Attorney General may authorize any narcotic drug (including crude opium and coca leaves) in schedule I, II, III, or IV to be exported from the United States to a country which is a party to any of the international instruments mentioned in subsection (a) of this section if the particular drug is to be applied to a special scientific purpose in the country of destination and the authorities of such country will permit the importation of the particular drug for such purpose.
 
 #### (c) Nonnarcotic controlled substances in schedule I or II
 

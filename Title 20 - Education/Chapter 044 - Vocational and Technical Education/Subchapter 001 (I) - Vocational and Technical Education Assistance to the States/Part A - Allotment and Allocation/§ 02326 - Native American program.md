@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Bureau funded school
 
-&emsp;The term “Bureau funded school” has the meaning given the term in section 2026 of title 25.
+&emsp;The term “Bureau funded school” has the meaning given the term in section 2026 of title 25.<sup>1</sup>
 
 #### (3) Indian, Indian tribe, and tribal organization
 
@@ -22,17 +22,17 @@ In this section:
 
 #### (5) Native Hawaiian organization
 
-&emsp;The term “Native Hawaiian organization” has the meaning given the term in section 7912 of this title.
+&emsp;The term “Native Hawaiian organization” has the meaning given the term in section 7517 of this title.
 
 #### (b) Program authorized
 
 #### (1) Authority
 
-&emsp;From funds reserved under section 2321(a)(1)(B)(i) of this title, the Secretary shall make grants to and enter into contracts with Indian tribes, tribal organizations, and Alaska Native entities to carry out the authorized programs described in subsection (d) <sup>1</sup> of this section, except that such grants or contracts shall not be awarded to secondary school programs in Bureau funded schools.
+&emsp;From funds reserved under section 2321(a)(1)(B)(i) of this title, the Secretary shallmake grants to and enter into contracts with Indian tribes, tribal organizations, and Alaska Native entities to carry out the authorized programs described in subsection (d) <sup>2</sup> of this section, except that such grants or contracts shall not be awarded to secondary school programs in Bureau funded schools.
 
 #### (2) Indian tribes and tribal organizations
 
-&emsp;The grants or contracts described in this section (other than in subsection (i) <sup>2</sup> of this section) that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
+&emsp;The grants or contracts described in this section (other than in subsection (i) <sup>3</sup> of this section) that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
 
 #### (3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Affairs
 
@@ -88,7 +88,7 @@ The Secretary may not place upon grants awarded or contracts entered into under 
 
 #### (f) Consolidation of funds
 
-Each organization, tribe, or entity receiving assistance under this section may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
+Each organization, tribe, or entity receiving assistance under this section may consolidatesuch assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
 
 #### (g) Nonduplicative and nonexclusive services
 
@@ -102,9 +102,11 @@ Nothing in this section shall be construed—
 
 From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title, the Secretary shall award grants to or enter into contracts with organizations primarily serving and representing Native Hawaiians which are recognized by the Governor of the State of Hawaii to plan, conduct, and administer programs, or portions thereof, which are authorized by and consistent with the provisions of this section for the benefit of Native Hawaiians.
 
-(Pub. L. 88–210, title I, §116, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3094.)
+(Pub. L. 88–210, title I, §116, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3094; amended Pub. L. 107–110, title VII, §702(b), (c), Jan. 8, 2002, 115 Stat. 1946, 1947.)
 
 #### References in Text
+
+Section 2026 of title 25, referred to in subsec. (a)(2), was omitted in the general amendment of chapter 22 (§2001 et seq.) of Title 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. For definition of “Bureau-funded school”, see section 2021 of Title 25.
 
 The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§3401 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 
@@ -114,11 +116,23 @@ Provisions similar to this section were contained in section 2313 of this title,
 
 A prior section 2326, Pub. L. 88–210, title I, §116, as added Pub. L. 101–392, title I, §116, Sept. 25, 1990, 104 Stat. 772, related to State assessments of program quality, prior to the general amendment of this chapter by Pub. L. 105–332.
 
+#### Amendments
+
+2002—Subsec. (a)(5). Pub. L. 107–110, §702(c), which directed amendment of subsec. (a)(5) by substituting “section 7517 of this title” for “section 7912 of this title.”, could not be executed subsequent to amendment by Pub. L. 107–110, §702(b), see below.
+
+Pub. L. 107–110, §702(b), substituted “section 7517 of this title” for “section 7912 of this title”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2321 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(c)”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. This section does not contain a subsection (i).</i>
+<i><sup>2</sup></i><i> So in original. Probably should be subsection “(c)”.</i>
+
+<i><sup>3</sup></i><i> So in original. This section does not contain a subsection (i).</i>
 

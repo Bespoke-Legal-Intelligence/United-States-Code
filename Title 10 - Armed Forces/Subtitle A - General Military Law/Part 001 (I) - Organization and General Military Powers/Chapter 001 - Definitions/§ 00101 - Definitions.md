@@ -440,7 +440,7 @@ Sept. 3, 1954, ch. 1257, §102(6), 68 Stat. 1150.
 
 The words “, other than a commissioned warrant officer,” are inserted to reflect 50:1181(1).
 
-\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his current series of appointments and excludes any appointment made before a lapse in service.
+\[Clause (35).\] The word “original” is defined to make clear that when used in relation to an appointment it refers to the member's first appointment in his currentseries of appointments and excludes any appointment made before a lapse in service.
 
 #### References in Text
 
@@ -608,6 +608,8 @@ Authority vested by this title in “military departments”, “the Secretary c
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
 
+Pub. L. 107–107, div. A, title X, §1048(j), Dec. 28, 2001, 115 Stat. 1230, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
+
 Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[section 1087 of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
 
 Pub. L. 106–65, div. A, title X, §1066(e), Oct. 5, 1999, 113 Stat. 773, provided that: “For purposes of applying amendments made by provisions of this Act other than provisions of this section \[see Tables for classification\], this section shall be treated as having been enacted immediately before the other provisions of this Act.”
@@ -640,5 +642,5 @@ Pub. L. 102–25, §3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3750, 6246, 8750 of this title; title 5 sections 8331, 8401; title 8 section 1154; title 14 section 423; title 15 section 636; title 18 section 232; title 20 sections 1078, 1087dd; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 sections 101, 308; title 39 section 3401; title 41 section 259; title 42 sections 2651, 5170b, 7235, 12639; title 46 App. section 1187b; title 50 App. section 592.
+This section is referred to in sections 3750, 6246, 8750 of this title; title 5 sections 8331, 8401, 8906; title 8 section 1154; title 14 section 423; title 15 section 636; title 18 sections 232, 3267; title 20 sections 1078, 1087dd; title 31 section 3711; title 33 sections 853<i>o</i>, 857–1; title 37 sections 101, 308; title 39 section 3401; title 41 section 259; title 42 sections 2651, 5170b, 7235, 12639; title 46 App. section 1187b; title 49 section 40125; title 50 App. section 592.
 

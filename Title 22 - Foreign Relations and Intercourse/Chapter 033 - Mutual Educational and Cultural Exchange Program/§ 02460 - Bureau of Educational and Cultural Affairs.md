@@ -24,7 +24,7 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 #### (b) Revocation or diminution of grants
 
-(1) All recipients of Fulbright Academic Exchange and Humphrey Fellowship awards shallhave full academic and artistic freedom, including freedom to write, publish, and create. No award granted pursuant to this chapter may be revoked or diminished on account of the political views expressed by the recipient or on account of any scholarly or artistic activity that would be subject to the protections of academic and artistic freedom normally observed in universities in the United States. The Board shall ensure that the academic and artistic freedoms of all persons receiving grants are protected.
+(1) All recipients of Fulbright Academic Exchange and Humphrey Fellowship awards shall have full academic and artistic freedom, including freedom to write, publish, and create. No award granted pursuant to this chapter may be revoked or diminished on account of the political views expressed by the recipient or on account of any scholarly or artistic activity that would be subject to the protections of academic and artistic freedom normally observed in universities in the United States. The Board shall ensure that the academic and artistic freedoms of all persons receiving grants are protected.
 
 (2) The J. William Fulbright Foreign Scholarship Board shall formulate a policy on revocation of Fulbright grants which shall be made known to all grantees. Such policy shall fully protect the right to due process as well as the academic and artistic freedom of all grantees.
 
@@ -48,7 +48,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 #### (g) Working Group on United States Government-Sponsored International Exchanges and Training
 
-(1) In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the United States Information Agency a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
+(1) In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness ofUnited States Government-sponsored international exchanges and training, there is established within the United States Information Agency a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
 
 (2) For purposes of this subsection, the term “Government-sponsored international exchanges and training” means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
 
@@ -102,7 +102,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 (11) With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
 
-(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832.)
+(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17,1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832.)
 
 #### References in Text
 
@@ -170,7 +170,7 @@ Sec. 4. The Working Group shall have the following responsibilities:
 
 (f) Develop strategies for expanding public and private partnerships in, and leveraging private sector support for, United States Government-sponsored international exchange and training activities.
 
-Sec. 5. All reports prepared by the Working Group pursuant to section 4 shall be made to the President, through the Director of the United States Information Agency.
+Sec. 5. All reports prepared by the Working Group pursuant to section 4 shall be made to the President,through the Director of the United States Information Agency.
 
 Sec. 6. The Working Group shall meet on at least a quarterly basis.
 

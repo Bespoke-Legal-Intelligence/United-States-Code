@@ -68,7 +68,7 @@ With regard to the repatriation loan program, the Secretary of State shall—
 
 &emsp;(9) assess charges, in addition to the interest provided for in paragraph (8), to cover the costs of processing and handling delinquent claims, as of May 1, 1983;
 
-&emsp;(10) assess a penalty charge, in addition to the interest provided for in paragraphs (8) and\(9), of 6 per centum per year for failure to pay any portion of a debt more than ninety days past due; and
+&emsp;(10) assess a penalty charge, in addition to the interest provided for in paragraphs (8) and (9), of 6 per centum per year for failure to pay any portion of a debt more than ninety days past due; and
 
 &emsp;(11) implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983.
 

@@ -6,7 +6,7 @@ Title III of the Higher Education Act of 1965, comprising this subchapter, was o
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 7476 of this title.
+This subchapter is referred to in section 6951 of this title.
 
 
 ---

@@ -138,7 +138,7 @@
 
 #### (2) Certain private activity bonds
 
-&emsp;An issue is described in this paragraph if any bond (issued as part of such issue) is issued toadvance refund a private activity bond (other than a qualified 501(c)(3) bond).
+&emsp;An issue is described in this paragraph if any bond (issued as part of such issue) is issued to advance refund a private activity bond (other than a qualified 501(c)(3) bond).
 
 #### (3) Other bonds
 
@@ -392,7 +392,7 @@
 
 #### References in Text
 
-The Northwest Power Act, referred to in subsecs. (b)(3)(A)(iii) and (c)(2)(C)(i), probably means the Pacific Northwest Electric Power Planning and Conservation Act, Pub. L. 96–501, Dec. 5, 1980, 94 Stat 2697, which isclassified principally to chapter 12H (§839 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 839 of Title 16 and Tables.
+The Northwest Power Act, referred to in subsecs. (b)(3)(A)(iii) and (c)(2)(C)(i), probably means the Pacific Northwest Electric Power Planning and Conservation Act, Pub. L. 96–501, Dec. 5, 1980, 94 Stat 2697, which is classified principally to chapter 12H (§839 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 839 of Title 16 and Tables.
 
 The date of the enactment of the Tax Reform Act of 1984, referred to in subsec. (b)(3)(A)(iii), is the date of enactment of Pub. L. 98–369, div. A, which was approved July 18, 1984.
 

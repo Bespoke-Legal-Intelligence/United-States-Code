@@ -4,7 +4,7 @@
 
 The Secretary is authorized to—
 
-&emsp;(1) identify opportunities to accelerate the commercial applications of new energy technologies, and provide Federal assistance for or participation in demonstration projects (including pilot plants demonstrating technological advances and field demonstrations of new methods and procedures, and demonstrations of prototype commercial applications forthe exploration, development, production, transportation, conversion, and utilization of energy resources); and
+&emsp;(1) identify opportunities to accelerate the commercial applications of new energy technologies, and provide Federal assistance for or participation in demonstration projects (including pilot plants demonstrating technological advances and field demonstrations of new methods and procedures, and demonstrations of prototype commercial applications for the exploration, development, production, transportation, conversion, and utilization of energy resources); and
 
 &emsp;(2) enter into cooperative agreements with non-Federal entities to demonstrate the technical feasibility and economic potential of energy technologies on a prototype or full-scale basis.
 
@@ -22,7 +22,7 @@ In reviewing potential projects, the Secretary shall consider criteria including
 
 &emsp;(5) the total estimated cost including the Federal investment and the probable time schedule;
 
-&emsp;(6) the proposed participants and the proposed financial contributions of the Federal Government and of the non-Federal participants; and
+&emsp;(6) the proposed participants and the proposed financial contributions of the FederalGovernment and of the non-Federal participants; and
 
 &emsp;(7) the proposed cooperative arrangement, agreements among the participants, and form of management of the activities.
 
@@ -70,7 +70,7 @@ If the estimate of the Federal investment with respect to construction costs of 
 
 #### (f) Amount of estimated Federal contribution authorizing Secretary to proceed with negotiation of agreements and implementation of proposal; amount of Federal contribution requiring Secretary to submit report to Congress as prerequisite to expenditure of funds
 
-If the total estimated amount of the Federal contribution to the construction cost of a demonstration project does not exceed $50,000,000, the Secretary is authorized to proceed with the negotiation of agreements and implementation of the proposal subject to the availability of funds under the authorization of appropriations pursuant to section 5915 of this title: <i>Provided</i>, That if such Federal contribution to the construction cost is estimated to exceed $25,000,000 the Secretary shall provide a full and comprehensive report on the proposed demonstration project to the appropriate committees of the Congress and no funds may be expended for any agreement under the authority granted by this section prior to the expiration of sixty calendardays (not including any day on which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which the Secretary's report on the proposed project is received by the Congress. Such reports shall contain an analysis of the extent to which the proposed demonstration satisfies the criteria specified in subsection (b) of this section.
+If the total estimated amount of the Federal contribution to the construction cost of a demonstration project does not exceed $50,000,000, the Secretary is authorized to proceed with the negotiation of agreements and implementation of the proposal subject to the availability of funds under the authorization of appropriations pursuant to section 5915 of this title: <i>Provided</i>, That if such Federal contribution to the construction cost is estimated to exceed $25,000,000 the Secretary shall provide a full and comprehensive report on the proposed demonstration project to the appropriate committees of the Congress and no funds may be expended for any agreement under the authority granted by this section prior to the expiration of sixty calendar days (not including any day on which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which the Secretary's report on the proposed project is received by the Congress. Such reports shall contain an analysis of the extent to which the proposed demonstration satisfies the criteria specified in subsection (b) of this section.
 
 (Pub. L. 93–577, §8, Dec. 31, 1974, 88 Stat. 1886; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607.)
 
@@ -80,7 +80,7 @@ If the total estimated amount of the Federal contribution to the construction co
 
 #### Report to Congress on Environmental, Monitoring, Assessment, and Control Efforts Required for Demonstration Projects; Submission to Congress by December 3, 1977
 
-Pub. L. 95–39, title I, §113, June 3, 1977, 91 Stat. 187, directed Administrator of Energy Research and Development Administration, in consultation with Administrator of Environmental Protection Agency, to submit a report to Congress six months after June 3, 1977, on the environmental monitoring, assessment, and control efforts, relating to environment, safety, and health, which are required to successfully demonstrate any project which is subject to subsecs. (e) and (f) of this section and is authorized by this Act or any prior Act.
+Pub. L. 95–39, title I, §113, June 3, 1977, 91 Stat. 187, directed Administrator of Energy Research and Development Administration, in consultation with Administrator of Environmental Protection Agency, to submita report to Congress six months after June 3, 1977, on the environmental monitoring, assessment, and control efforts, relating to environment, safety, and health, which are required to successfully demonstrate any project which is subject to subsecs. (e) and (f) of this section and is authorized by this Act or any prior Act.
 
 #### Section Referred to in Other Sections
 

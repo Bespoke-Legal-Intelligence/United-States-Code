@@ -22,7 +22,7 @@
 
 &emsp;(3) for any period of time if a child was born of the marriage, or was born to them before the marriage.
 
-(g) In determining the annual income of a surviving spouse for the purposes of this section, if there is a child of the veteran in the custody of the surviving spouse, that portion of the annual income of the child that is reasonably available to or for the surviving spouse shall be considered to be income of the surviving spouse, unless in the judgment of the Secretary to do so would work a hardship on the surviving spouse.
+(g) In determining the annual income of a surviving spouse for the purposes of this section, if there is a child of the veteran in the custody of the surviving spouse, that portion of the annual income of the child that is reasonably availableto or for the surviving spouse shall be considered to be income of the surviving spouse, unless in the judgment of the Secretary to do so would work a hardship on the surviving spouse.
 
 (h) As used in this section and section 1542 of this title, the term “veteran” includes a person who has completed at least two years of honorable active military, naval, or air service, as certified by the Secretary concerned, but whose death in such service was not in line of duty.
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 94–169, §103(1), increased, effective for period beginni
 
 Subsec. (d). Pub. L. 94–169, §103(2), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “surviving spouse” for “widow” and “$22” for “$20”.
 
-Subsec. (e). Pub. L. 94–169, §101(2)(C), substituted “to a surviving spouse of a veteran under this section unless the spouse was married to the veteran” for “to a widow of a veteran under this section unless she was married to him”, and “(D) May 8, 1985, in the case of a surviving spouse of a Vietnam era veteran” for “(D) before the expiration of ten years following termination of the Vietnam era in the case of a widow of a Vietnam era veteran”.
+Subsec. (e). Pub. L. 94–169, §101(2)(C), substituted “to a surviving spouse of a veteran under this section unless the spouse was married to the veteran” for “to a widow of a veteran under this section unless she was married to him”, and “(D) May 8, 1985, in the case of asurviving spouse of a Vietnam era veteran” for “(D) before the expiration of ten years following termination of the Vietnam era in the case of a widow of a Vietnam era veteran”.
 
 Subsec. (e)(1). Pub. L. 94–169, §106(40), substituted “surviving spouse” for “widow” in subcls. (A), (B) and (C).
 
@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 88–664, §3(d), increased monthly pension rate in column 
 
 1959—Pub. L. 86–211 included widows of World War II and Korean conflict veterans in section catchline.
 
-Subsec. (a). Pub. L. 86–211 included widows of World War II and Korean conflict veterans, and struck out provisions which authorized payment of a monthly pension of $50.40 to a widow with no child and $63 to awidow with one child, with $7.56 for each additional child. See subsecs. (b) to (d) of this section.
+Subsec. (a). Pub. L. 86–211 included widows of World War II and Korean conflict veterans, and struck out provisions which authorized payment of a monthly pension of $50.40 to a widow with no child and $63 to a widow with one child, with $7.56 for each additional child. See subsecs. (b) to (d) of this section.
 
 Subsecs. (b) to (e). Pub. L. 86–211 added subsecs. (b) to (d), redesignated former subsec. (b) as (e), and inserted provisions relating to the date by which a widow was required to be married to a veteran of World War II or the Korean conflict.
 

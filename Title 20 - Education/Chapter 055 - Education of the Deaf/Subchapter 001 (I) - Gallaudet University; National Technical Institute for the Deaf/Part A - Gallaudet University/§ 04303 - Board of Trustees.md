@@ -30,7 +30,7 @@ The Board of Trustees is authorized to—
 
 &emsp;(7) confer such degrees and marks of honor as are conferred by colleges and universities generally, and issue such diplomas and certificates of graduation as, in its opinion, may be deemed advisable, and consistent with academic standards;
 
-&emsp;(8) subject to section 4353 of this title, control expenditures of all moneys appropriated by Congress for the benefit of Gallaudet University; and
+&emsp;(8) subject to section 4353 of this title, control expenditures of all moneys appropriatedby Congress for the benefit of Gallaudet University; and
 
 &emsp;(9) control the expenditure and investment of any moneys or funds or property which Gallaudet University may have or may receive from sources other than appropriations by Congress.
 

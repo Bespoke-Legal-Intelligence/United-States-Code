@@ -10,7 +10,7 @@
 | [1704\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001704%20-%20Preventive%20health%20services%20annual%20report.md) | Preventive health services: annual report. |
 | [1705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001705%20-%20Management%20of%20health%20care%20patient%20enrollment%20system.md) | Management of health care: patient enrollment system. |
 | [1706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001706%20-%20Management%20of%20health%20care%20other%20requirements.md) | Management of health care: other requirements. |
-| [1707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001707%20-%20Restriction%20on%20use%20of%20funds%20for%20assisted%20suicide%2C%20euthanasia%2C%20or%20mercy%20killing.md) | Restriction on use of funds for assisted suicide, euthanasia, or mercy killing. |
+| [1707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001707%20-%20Limitations.md) | Limitations. |
 | [1708\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2001708%20-%20Temporary%20lodging.md) | Temporary lodging. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,8 +26,8 @@
 | [1712\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712%20-%20Dental%20care%3B%20drugs%20and%20medicines%20for%20certain%20disabled%20veterans%3B%20vaccines.md) | Dental care; drugs and medicines for certain disabled veterans; vaccines. |
 | [1712A.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712A%20-%20Eligibility%20for%20readjustment%20counseling%20and%20related%20mental%20health%20services.md) | Eligibility for readjustment counseling and related mental health services. |
 | [1712B.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001712B%20-%20Counseling%20for%20former%20prisoners%20of%20war.md) | Counseling for former prisoners of war. |
-| [1713\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001713%20-%20Medical%20care%20for%20survivors%20and%20dependents%20of%20certain%20veterans.md) | Medical care for survivors and dependents of certain veterans. |
-| [1714\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001714%20-%20Fitting%20and%20training%20in%20use%20of%20prosthetic%20appliances%3B%20seeing-eye%20dogs.md) | Fitting and training in use of prosthetic appliances; seeing-eye dogs. |
+| \[1713. | Renumbered.\] |
+| [1714\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001714%20-%20Fitting%20and%20training%20in%20use%20of%20prosthetic%20appliances%3B%20guide%20dogs%3B%20service%20dogs.md) | Fitting and training in use of prosthetic appliances; guide dogs; service dogs. |
 | [1715\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001715%20-%20Tobacco%20for%20hospitalized%20veterans.md) | Tobacco for hospitalized veterans. |
 | [1716\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001716%20-%20Hospital%20care%20by%20other%20agencies%20of%20the%20United%20States.md) | Hospital care by other agencies of the United States. |
 | [1717\.](Subchapter%20002%20%28II%29%20-%20Hospital%2C%20Nursing%20Home%2C%20or%20Domiciliary%20Care%20and%20Medical%20Treatment/%C2%A7%2001717%20-%20Home%20health%20services%3B%20invalid%20lifts%20and%20other%20devices.md) | Home health services; invalid lifts and other devices. |
@@ -96,18 +96,32 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VII—TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOMELESS VETERANS
+#### \[SUBCHAPTER VII—TRANSFERRED\]
+
+|  |
+| :--- |
+| \[1771 to 1774. Renumbered.\] |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS
 
 |  |  |
 | :--- | ---: |
-| [1771\.](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/%C2%A7%2001771%20-%20General%20treatment.md) | General treatment. |
-| [1772\.](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/%C2%A7%2001772%20-%20Therapeutic%20housing.md) | Therapeutic housing. |
-| [1773\.](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/%C2%A7%2001773%20-%20Additional%20services%20at%20certain%20locations.md) | Additional services at certain locations. |
-| [1774\.](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/%C2%A7%2001774%20-%20Coordination%20with%20other%20agencies%20and%20organizations.md) | Coordination with other agencies and organizations. |
+| [1781\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001781%20-%20Medical%20care%20for%20survivors%20and%20dependents%20of%20certain%20veterans.md) | Medical care for survivors and dependents of certain veterans. |
+| [1782\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001782%20-%20Counseling%2C%20training%2C%20and%20mental%20health%20services%20for%20immediate%20family%20members.md) | Counseling, training, and mental health services for immediate family members. |
+| [1783\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001783%20-%20Bereavement%20counseling.md) | Bereavement counseling. |
+| [1784\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001784%20-%20Humanitarian%20care.md) | Humanitarian care. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–135, title II, §§201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 2457, 2464, substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” in item 1707, struck out item 1713 “Medical care for survivors and dependents of certain veterans”, substituted “guide dogs; service dogs” for “seeing-eye dogs” in item 1714, and added item for subchapter VIII and items 1781 to 1784.
+
+2001—Pub. L. 107–95, §5(g)(1), Dec. 21, 2001, 115 Stat. 918, struck out subchapter VII heading “TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOMELESS VETERANS” and items 1771 “General treatment”, 1772 “Therapeutic housing”, 1773 “Additional services at certain locations”, and 1774 “Coordination with other agencies and organizations”.
+
+§
 
 2000—Pub. L. 106–419, title II, §221(b), Nov. 1, 2000, 114 Stat. 1845, added item 1708.
 
@@ -125,7 +139,7 @@ Pub. L. 105–12, §9(i)(2), Apr. 30, 1997, 111 Stat. 27, added item 1707.
 
 1994—Pub. L. 103–452, title I, §101(f)(2)(B), Nov. 2, 1994, 108 Stat. 4784, substituted “and treatment” for “to women veterans” in item 1720D.
 
-1992—Pub. L. 102–585, title I, §102(a)(2), title V, §§512(b), 514(b), Nov. 4, 1992, 106 Stat. 4946, 4958, added items 1704 and 1720D and struck out subchapter VII heading “PREVENTIVE HEALTH-CARE SERVICES PILOT PROGRAM” and items 1761 “Purpose”, 1762 “Definition”, 1763 “Preventive health-care services”, and 1764 “Reports”.
+1992—Pub. L. 102–585, title I, §102(a)(2), title V, §§512(b), 514(b), Nov. 4, 1992, 106 Stat. 4946, 4958, addeditems 1704 and 1720D and struck out subchapter VII heading “PREVENTIVE HEALTH-CARE SERVICES PILOT PROGRAM” and items 1761 “Purpose”, 1762 “Definition”, 1763 “Preventive health-care services”, and 1764 “Reports”.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 601 to 664 as 1701 to 1764, respectively.
 
@@ -177,7 +191,7 @@ Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5315, 5503, 7333, 8107, 8153 of this title; title 10 section 2641a; title 31 section 3803; title 42 sections 1320d, 1395w–21, 2651, 14402.
+This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5313B, 5315, 5503, 7333, 8107, 8153 of this title; title 10 section 2641a; title 31 section 3803; title 42 sections 1320d, 1395w–21, 2651, 14402.
 
 
 ---
@@ -190,4 +204,5 @@ This chapter is referred to in sections 106, 111, 521, 3104, 3115, 3485, 3903, 5
 - [Subchapter 004 (IV) - Hospital Care and Medical Treatment for Veterans in the Republic of the Philippines](Subchapter%20004%20%28IV%29%20-%20Hospital%20Care%20and%20Medical%20Treatment%20for%20Veterans%20in%20the%20Republic%20of%20the%20Philippines/README.md)
 - [Subchapter 005 (V) - Payments to State Homes](Subchapter%20005%20%28V%29%20-%20Payments%20to%20State%20Homes/README.md)
 - [Subchapter 006 (VI) - Sickle Cell Anemia](Subchapter%20006%20%28VI%29%20-%20Sickle%20Cell%20Anemia/README.md)
-- [Subchapter 007 (VII) - Treatment and Rehabilitation for Seriously Mentally Ill and Homeless Veterans](Subchapter%20007%20%28VII%29%20-%20Treatment%20and%20Rehabilitation%20for%20Seriously%20Mentally%20Ill%20and%20Homeless%20Veterans/README.md)
+- [Subchapter 007 (VII) - Transferred](Subchapter%20007%20%28VII%29%20-%20Transferred/README.md)
+- [Subchapter 008 (VIII) - Health Care of Persons Other Than Veterans](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/README.md)

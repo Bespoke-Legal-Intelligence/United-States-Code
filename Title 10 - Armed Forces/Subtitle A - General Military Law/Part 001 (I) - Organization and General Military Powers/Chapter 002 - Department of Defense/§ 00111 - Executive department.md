@@ -64,7 +64,7 @@ References.—Any reference in any law, regulation, document, record, or other p
 
 #### Short Title of 1986 Amendment
 
-Section 1(a) of Pub. L. 99–433 provided that: “This Act \[see Tables for classification\] may be cited as the ‘Goldwater-Nichols Department of Defense Reorganization Act of 1986’.”
+Section 1(a) of Pub. L. 99–433 provided that: “This Act \[see Tables for classification\] may be cited as the‘Goldwater-Nichols Department of Defense Reorganization Act of 1986’.”
 
 #### Transfer of Functions
 
@@ -72,173 +72,11 @@ Missions and functions of elements of Department of Defense as specified in clas
 
 #### Commission To Assess United States National Security Space Management and Organization
 
-Pub. L. 106–65, div. A, title XVI, subtitle C, Oct. 5, 1999, 113 Stat. 813, as amended by Pub. L. 106–398, §1 \[\[div. A\], title X, §1091\], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, provided that:
-
-#### “SEC. 1621. ESTABLISHMENT OF COMMISSION.
-
-“(a)
-
-Establishment.—There is hereby established a commission known as the Commission To AssessUnited States National Security Space Management and Organization (in this subtitle referred to as the ‘Commission’).
-
-“(b)
-
-Composition.—The Commission shall be composed of 13 members appointed as follows:
-
-&emsp;“(1) Four members shall be appointed by the chairman of the Committee on Armed Services of the Senate.
-
-&emsp;“(2) Four members shall be appointed by the chairman of the Committee on Armed Services of the House of Representatives.
-
-&emsp;“(3) Three members shall be appointed jointly by the ranking minority member of the Committee on Armed Services of the Senate and the ranking minority member of the Committee on Armed Services of the House of Representatives.
-
-&emsp;“(4) Two members shall be appointed by the Secretary of Defense, in consultation with the Director of Central Intelligence.
-
-“(c)
-
-Qualifications.—Members of the Commission shall be appointed from among private citizens of the United States who have knowledge and expertise in the areas of national security space policy, programs, organizations, and future national security concepts.
-
-“(d)
-
-Chairman.—The chairman of the Committee on Armed Services of the Senate, after consultation with the chairman of the Armed Services Committee of the House of Representatives and the ranking minority members of the Committees on Armed Services of the House of Representatives and the Senate, shall designate one of the members of the Commission to serve as chairman of the Commission.
-
-“(e)
-
-Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall be filled in the same manner as the original appointment.
-
-“(f)
-
-Security Clearances.—All members of the Commission shall hold appropriate security clearances.
-
-“(g)
-
-Initial Organization Requirements.—(1) All appointments to the Commission shall be made not later than 90 days after the date of the enactment of this Act \[Oct. 5, 1999\].
-
-“(2) The Commission shall convene its first meeting not later than 60 days after the date as of which all members of the Commission have been appointed, but not earlier than October 15, 1999.
-
-#### “SEC. 1622. DUTIES OF COMMISSION.
-
-“(a)
-
-Assessment of United States National Security Space Management and Organization.—The Commission shall, concerning changes to be implemented over the near-term, medium-term, and long-term that would strengthen United States national security, assess the following:
-
-&emsp;“(1) The manner in which military space assets may be exploited to provide support for United States military operations.
-
-&emsp;“(2) The current interagency coordination process regarding the operation of national security space assets, including identification of interoperability and communications issues.
-
-&emsp;“(3) The relationship between the intelligence and nonintelligence aspects of national security space (so-called ‘white space’ and ‘black space’), and the potential costs and benefits of a partial or complete merger of the programs, projects, or activities that are differentiated by those two aspects.
-
-&emsp;“(4) The manner in which military space issues are addressed by professional military education institutions.
-
-&emsp;“(5) The potential costs and benefits of establishing any of the following:
-
-&emsp;&emsp;“(A) An independent military department and service dedicated to the national security space mission.
-
-&emsp;&emsp;“(B) A corps within the Air Force dedicated to the national security space mission.
-
-&emsp;&emsp;“(C) A position of Assistant Secretary of Defense for Space within the Office of the Secretary of Defense.
-
-&emsp;&emsp;“(D) A new major force program, or other budget mechanism, for managing national security space funding within the Department of Defense.
-
-&emsp;&emsp;“(E) Any other change to the existing organizational structure of the Department of Defense for national security space management and organization.
-
-&emsp;“(6) The advisability of—
-
-&emsp;&emsp;“(A) various actions to eliminate the de facto requirement that specified officers in the United States Space Command be flight rated that results from the dual assignment of officers to that command and to one or more other commands in positions in which such officers are expressly required to be flight rated;
-
-&emsp;&emsp;“(B) the establishment of a requirement that, as a condition of the assignment of a general or flag officer to the United States Space Command, the officer have experience in space, missile, or information operations that was gained through either acquisition or operational experience; and
-
-&emsp;&emsp;“(C) rotating the command of the United States Space Command among the Armed Forces.
-
-“(b)
-
-Cooperation From Government Officials.—In carrying out its duties, the Commission should receive the full and timely cooperation of the Secretary of Defense, the Director of Central Intelligence, and any other United States Government official responsible for providing the Commission with analyses, briefings, and other information necessary for the fulfillment of its responsibilities.
-
-#### “SEC. 1623. REPORT.
-
-“The Commission shall, not later than six months after the date of its first meeting, submit to Congress and to the Secretary of Defense a report on its findings and conclusions.
-
-#### “SEC. 1624. ASSESSMENT BY THE SECRETARY OF DEFENSE.
-
-“The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an assessment of the Commission's findings not later than 90 days after the submission of the Commission's report.
-
-#### “SEC. 1625. POWERS.
-
-“(a)
-
-Hearings.—The Commission or, at its direction, any panel or member of the Commission, may, for the purpose of carrying out the provisions of this subtitle, hold hearings, sit and act at times and places, take testimony, receive evidence, and administer oaths to the extent that the Commission or any panel or member considers advisable.
-
-“(b)
-
-Information.—The Commission may secure directly from the Department of Defense, the other departments and agencies of the intelligence community, and any other Federal department or agency information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this subtitle.
-
-#### “SEC. 1626. COMMISSION PROCEDURES.
-
-“(a)
-
-Meetings.—The Commission shall meet at the call of the chairman.
-
-“(b)
-
-Quorum.—(1) Seven members of the Commission shall constitute a quorum other than for the purpose of holding hearings.
-
-“(2) The Commission shall act by resolution agreed to by a majority of the members of the Commission.
-
-“(c)
-
-Commission.—The Commission may establish panels composed of less than full membership of the Commission for the purpose of carrying out the Commission's duties. The actions of each such panel shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
-
-“(d)
-
-Authority of Individuals To Act for Commission.—Any member or agent of the Commission may, ifauthorized by the Commission, take any action which the Commission is authorized to take under this subtitle.
-
-#### “SEC. 1627. PERSONNEL MATTERS.
-
-“(a)
-
-Pay of Members.—Members of the Commission shall serve without pay by reason of their work on the Commission.
-
-“(b)
-
-Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
-
-“(c)
-
-Staff.—(1) The chairman of the Commission may, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, appoint a staff director and such additional personnel as may be necessary to enable the Commission to perform its duties. The appointment of a staff director shall be subject to the approval of the Commission.
-
-“(2) The chairman of the Commission may fix the pay of the staff director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay fixed under this paragraph for the staff director may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title and the rate of pay for other personnel may not exceed the maximum rate payable for grade GS–15 of the General Schedule.
-
-“(d)
-
-Detail of Government Employees.—Upon request of the chairman of the Commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties.
-
-“(e)
-
-Procurement of Temporary and Intermittent Services.—The chairman of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay payable for level V of the Executive Schedule under section 5316 of such title.
-
-#### “SEC. 1628. MISCELLANEOUS ADMINISTRATIVE PROVISIONS.
-
-“(a)
-
-Postal and Printing Services.—The Commission may use the United States mails and obtain printing and binding services in the same manner and under the same conditions as other departments and agencies of the Federal Government.
-
-“(b)
-
-Miscellaneous Administrative and Support Services.—The Secretary of Defense shall furnish the Commission, on a reimbursable basis, any administrative and support services requested by the Commission.
-
-“(c)
-
-National Security Information.—The Secretary of Defense, in consultation with the Director of Central Intelligence, shall assume responsibility for the handling and disposition of national security information received and used by the Commission.
-
-#### “SEC. 1629. FUNDING.
-
-“Funds for activities of the Commission shall be provided from amounts appropriated for the Department of Defense for operation and maintenance for Defense-wide activities for fiscal year 2000. Upon receipt of a written certification from the chairman of the Commission specifying the funds required for the activities of the Commission, the Secretary of Defense shall promptly disburse to the Commission, from such amounts, the funds required by the Commission as stated in such certification.
-
-#### “SEC. 1630. TERMINATION OF THE COMMISSION.
-
-“The Commission shall terminate 60 days after the date of the submission of its report under section 1623.”
+Pub. L. 106–65, div. A, title XVI, subtitle C, Oct. 5, 1999, 113 Stat. 813, as amended by Pub. L. 106–398, §1 \[\[div. A\], title X, §1091\], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, established Commission To Assess United States National Security Space Management and Organization for purpose of assessing (1) manner in which military space assets may be exploited to provide support for United States military operations, (2) current interagency coordination process regarding operation of national security space assets, (3) relationship between intelligence and nonintelligence aspects of national security space, and potential costs and benefits of partial or complete merger of programs, projects, (4) manner in which military space issues are addressed by professional military education institutions, (5) potential costs and benefits of establishing changes to existing organizational structure of Department of Defense for national security space management and organization, and (6) advisability of certain actions relating to assignment of specified officers in United States Space Command; and further provided for report to Congress and Secretary of Defense on its findings and conclusions not later than six months after first meeting, submission to Congress by Secretary of Defense of assessment of Commission's report not later than 90 days after submission of Commission's report, and for termination of Commission 60 days after submission of its report to Congress.
 
 #### Commission on National Military Museum
 
-Pub. L. 106–65, div. B, title XXIX, Oct. 5, 1999, 113 Stat. 881, provided that:
+Pub. L. 106–65, div. B, title XXIX, Oct. 5, 1999, 113 Stat. 881, as amended by Pub. L. 107–107, div. A, title X, §1048(g)(9), Dec. 28, 2001, 115 Stat. 1228, provided that:
 
 #### “SEC. 2901. ESTABLISHMENT.
 
@@ -312,7 +150,7 @@ Study Elements.—In conducting the study, the Commission shall do the following
 
 &emsp;&emsp;“(D) to foster public pride in the achievements and activities of the Armed Forces.
 
-&emsp;“(2) Determine whether adequate inventories of artifacts and representations of the Armed Forces andof the wars in which the United States has been engaged are available, either in current inventories or in private or public collections, for loan or other provision to a national military museum.
+&emsp;“(2) Determine whether adequate inventories of artifacts and representations of the Armed Forces and of the wars in which the United States has been engaged are available, either in current inventories or in private or public collections, for loan or other provision to a national military museum.
 
 &emsp;“(3) Develop preliminary proposals for—
 
@@ -340,7 +178,7 @@ Additional Duties.—If the Commission determines to recommend that Congress aut
 
 “(d)
 
-Requirements for Location on Navy Annex Property.—In the case of a recommendation under subsection (c)(1) to authorize construction of a national military museum on the Navy Annex property authorized for reservation for such purpose by section 2871(b) \[probably means section 2881(b) of Pub. L. 106–65, 113 Stat. 879\], the design of the national military museum on such property shall be subject to the following requirements:
+Requirements for Location on Navy Annex Property.—In the case of a recommendation under subsection (c)(1) to authorize construction of a national military museum on the Navy Annex property authorized for reservation for such purpose by section 2881(b) \[113 Stat. 879\], the design of the national military museum on such property shall be subject to the following requirements:
 
 &emsp;“(1) The design shall be prepared in consultation with the Superintendent of Arlington National Cemetery.
 
@@ -644,7 +482,7 @@ Hearings.—The Commission or, at its direction, any panel or member of the Comm
 
 “(b)
 
-Information.—The Commission may secure directly from the Department of Defense and any otherFederal department or agency any information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this subtitle. Upon request of the chairman of the Commission, the head of such department or agency shall furnish such information expeditiously to the Commission.
+Information.—The Commission may secure directly from the Department of Defense and any other Federal department or agency any information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this subtitle. Upon request of the chairman of the Commission, the head of such department or agency shall furnish such information expeditiously to the Commission.
 
 #### “SEC. 956. COMMISSION PROCEDURES.
 
@@ -664,7 +502,7 @@ Panels.—The Commission may establish panels composed of less than the full mem
 
 “(d)
 
-Authority of Individuals To Act for Commission.—Any member or agent of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take under this subtitle.
+Authority of Individuals To Act for Commission.—Any member or agent of the Commission may, ifauthorized by the Commission, take any action which the Commission is authorized to take under this subtitle.
 
 #### “SEC. 957. PERSONNEL MATTERS; EXPERT SERVICES.
 
@@ -734,7 +572,7 @@ Pub. L. 103–160, div. A, title XI, §1151, Nov. 30, 1993, 107 Stat. 1758, prov
 
 “(a)
 
-Termination of Report Requirements.—Unless otherwise provided by a law enacted after the date of the enactment of this Act \[Nov. 30, 1993\], each provisionof law requiring the submittal to Congress (or any committee of Congress) of any report specified in the list submitted under subsection (b) shall, with respect to that requirement, cease to be effective on October 30, 1995.
+Termination of Report Requirements.—Unless otherwise provided by a law enacted after the date of the enactment of this Act \[Nov. 30, 1993\], each provision of law requiring the submittal to Congress (or any committee of Congress) of any report specified in the list submitted under subsection (b) shall, with respect to that requirement, cease to be effective on October 30, 1995.
 
 “(b)
 
@@ -742,7 +580,7 @@ Preparation of List.—(1) The Secretary of Defense shall submit to Congress a l
 
 “(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit that report is unnecessary or incompatible with the efficient management of the Department of Defense.
 
-“(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
+“(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary orincompatible with the efficient management of the Department of Defense.
 
 “(c)
 
@@ -802,7 +640,7 @@ Pub. L. 93–155, title VII, §§701–708, Nov. 16, 1973, 87 Stat. 609–611, e
 
 #### Air Force Reserve and Air National Guard of United States; Study and Investigation of Relative Status; Advantages and Disadvantages of Alternatives; Modernization and Manpower Needs; Report to President and Congress
 
-Pub. L. 93–155, title VIII, §810, Nov. 16, 1973, 87 Stat. 618, directed the Secretary of Defense to study the relative status of the Air Force Reserve and the Air National Guard of the United States; to measure the effects on costs and combat capability as well as otheradvantages and disadvantages of (1) merging the Reserve into the Guard, (2) merging the Guard into the Reserve, and (3) retaining the status quo; and to consider the modernization needs and manpower problems of both; and also directed that a report of such study be submitted to the President and to the Congress no later than Jan. 31, 1975.
+Pub. L. 93–155, title VIII, §810, Nov. 16, 1973, 87 Stat. 618, directed the Secretary of Defense to study the relative status of the Air Force Reserve and the Air National Guard of the United States; to measure the effects on costs and combat capability as well as other advantages and disadvantages of (1) merging the Reserve into the Guard, (2) merging the Guard into the Reserve, and (3) retaining the status quo; and to consider the modernization needs and manpower problems of both; and also directed that a report of such study be submitted to the President and to the Congress no later than Jan. 31, 1975.
 
 #### <b>REORGANIZATION PLAN NO. 6 OF 1953</b>
 
@@ -814,7 +652,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 I74Section 1. Transfers of Functions
 
-(a) All functions of the Munitions Board, the Research and Development Board, the Defense Supply Management Agency, and the Director of Installations are hereby transferred to the Secretary of Defense.
+(a) All functions of the Munitions Board, the Research and Development Board, the Defense SupplyManagement Agency, and the Director of Installations are hereby transferred to the Secretary of Defense.
 
 (b) The selection of the Director of the Joint Staff by the Joint Chiefs of Staff, and his tenure, shall be subject to the approval of the Secretary of Defense.
 

@@ -6,7 +6,7 @@ In order to preserve for public use and enjoyment certain areas of Marin and San
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–350, §1, Oct. 24, 2000, 114 Stat. 1361, provided that: “This Act \[amending section 460bb–1 of thistitle\] may be cited as the ‘Golden Gate National Recreation Area Boundary Adjustment Act of 2000’.”
+Pub. L. 106–350, §1, Oct. 24, 2000, 114 Stat. 1361, provided that: “This Act \[amending section 460bb–1 of this title\] may be cited as the ‘Golden Gate National Recreation Area Boundary Adjustment Act of 2000’.”
 
 #### Short Title of 1992 Amendment
 
@@ -20,7 +20,7 @@ Similar provisions were contained in Pub. L. 106–113, div. B, §1000(a)(3) \[t
 
 #### The Presidio of San Francisco
 
-Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §334\], Nov. 29, 1999, 113 Stat. 1535, 1501A–198; Pub. L. 106–176, title I, §101, Mar. 10, 2000, 114 Stat. 23, provided that:
+Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, §351, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §334\], Nov. 29, 1999, 113 Stat. 1535, 1501A–198; Pub. L. 106–176, title I, §101, Mar. 10, 2000, 114 Stat. 23; Pub. L. 107–107, div. B, title XXVIII, §2861, Dec. 28, 2001, 115 Stat. 1328, provided that:
 
 #### “SEC. 101. FINDINGS.
 
@@ -134,7 +134,7 @@ Overall Requirements of the Trust.—The Trust shall manage the leasing, mainten
 
 “(b)
 
-Authorities.—The Trust may participate in the development of programs and activities at the properties transferred to the Trust, except that the Trust shall have the authority to negotiate and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including, without limitation, entities of Federal, State and local governments as are necessary and appropriate to carry out its authorized activities. The National Park Service or any other Federal agency is authorized to enter into agreements, leases, contracts and other arrangements with the Presidio Trust which are necessary and appropriateto carry out the purposes of this title. Any such agreement may be entered into without regard to section 321 of the Act of June 30, 1932 (40 U.S.C. 303b). The Trust may use alternative means of dispute resolution authorized under subchapter IV of chapter 5 of title 5, United States Code (5 U.S.C. 571 et seq.). The Trust shall establish procedures for lease agreements and other agreements for use and occupancy of Presidio facilities, including a requirement that in entering into such agreements the Trust shall obtain reasonable competition. The Trust may not dispose of or convey fee title to any real property transferred to it under this title. Federal laws and regulations governing procurement by Federal agencies shall not apply to the Trust, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the provisions of sections 276a–276a–6 of title 40, United States Code (Davis-Bacon Act), and any civil rights provisions otherwise applicable thereto. The Trust, in consultation with the Administrator of Federal Procurement Policy, shall establish and promulgate procedures applicable to the Trust's procurement of goods and services including, but not limited to, the award of contracts on the basis of contractor qualifications, price, commercially reasonable buying practices, and reasonable competition. The Trust is authorized to use funds available to the Trust to purchase insurance and for reasonable reception and representation expenses, including membership dues, business cards and business related meal expenditures.
+Authorities.—The Trust may participate in the development of programs and activities at the properties transferred to the Trust, except that the Trust shall have the authority to negotiate and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including, without limitation, entities of Federal, State and local governments as are necessary and appropriate to carry out its authorized activities. The National Park Service or any other Federal agency is authorized to enter into agreements, leases, contracts and other arrangements with the Presidio Trust which are necessary and appropriate to carry out the purposes of this title. Any such agreement may be entered into without regard to section 321 of the Act of June 30, 1932 (40 U.S.C. 303b). The Trust may use alternative means of dispute resolution authorized under subchapter IV of chapter 5 of title 5, United States Code (5 U.S.C. 571 et seq.). The Trust shall establish procedures for lease agreements and other agreements for use and occupancy of Presidio facilities, including a requirement that in entering into such agreements the Trust shall obtain reasonable competition. The Trust may not dispose of or convey fee title to any real property transferred to it under this title. Federal laws and regulations governing procurement by Federal agencies shall not apply to the Trust, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the provisions of sections 276a–276a–6 of title 40, United States Code (Davis-Bacon Act), and any civil rights provisions otherwise applicable thereto. The Trust, in consultation with the Administrator of Federal Procurement Policy, shall establish and promulgate procedures applicable to the Trust's procurement of goods and services including, but not limited to, the award of contracts on the basis of contractor qualifications, price, commercially reasonable buying practices, and reasonable competition. The Trust is authorized to use funds available to the Trust to purchase insurance and for reasonable reception and representation expenses, including membership dues, business cards and business related meal expenditures.
 
 “(c)
 
@@ -160,13 +160,13 @@ Financial Authorities.—(1) To augment or encourage the use of non-Federal fund
 
 &emsp;&emsp;“(ii) adequate subsidy budget authority is provided in advance in appropriations Acts; and
 
-&emsp;&emsp;“(iii) such guarantees are structured so as to minimize potential cost to the Federal Government. No loan guarantee under this title shall cover more than 75 percent of the unpaid balance of the loan. The Trust may collect a fee sufficient to cover its costs in connection with each loan guaranteed under this title. The authority to enter into any such loan guarantee agreement shall expire at the end of 15 years after the date of enactment of this title \[Nov. 12, 1996\].
+&emsp;&emsp;“(iii) such guarantees are structured so as to minimize potential cost to the Federal Government. No loan guarantee under this title shall cover more than 75 percent of the unpaid balance of the loan.The Trust may collect a fee sufficient to cover its costs in connection with each loan guaranteed under this title. The authority to enter into any such loan guarantee agreement shall expire at the end of 15 years after the date of enactment of this title \[Nov. 12, 1996\].
 
 &emsp;“(B) The authority, subject to appropriations, to make loans to the occupants of property managed by the Trust for the preservation, restoration, maintenance, or repair of such property.
 
 “(2) The Trust shall also have the authority to issue obligations to the Secretary of the Treasury, but only if the Secretary of the Treasury agrees to purchase such obligations to the extent authorized in advance in appropriations acts. The Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such notes or obligations acquired by the Secretary of the Treasury under this subsection. Obligations issued under this subparagraph shall be in such forms and denominations, bearing such maturities, and subject to such terms and conditions, including a review of the creditworthiness of the loan and establishment of a repayment schedule, as may be prescribed by the Secretary of the Treasury, and shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. No funds appropriated to the Trust may be used for repayment of principal or interest on, or redemption of, obligations issued under this paragraph.
 
-“(3) The aggregate amount of obligations issued under paragraph (2) of this subsection which are outstanding at any one time may not exceed $50,000,000.
+“(3) The aggregate amount of obligations issued under paragraph (2) of this subsection which are outstanding at any one time may not exceed $150,000,000.
 
 “(e)
 
@@ -218,7 +218,7 @@ Exclusive Rights to Name and Insignia.—The Trust shall have the sole and exclu
 
 #### “SEC. 105. LIMITATIONS ON FUNDING.
 
-“(a)(1) From amounts made available to the Secretary for the operation of areas within the Golden Gate National Recreation Area, not more than $25,000,000 shall be available to carry out this title in each fiscal year after the enactment of this title \[Nov. 12, 1996\] until the plan is submitted under subsection (b). Such sums shall remain available until expended.
+“(a)(1) From amounts made available to the Secretary for the operation of areas within the Golden Gate National Recreation Area, not more than $25,000,000 shall be available to carry out this title in each fiscal year after the enactment of this title \[Nov.12, 1996\] until the plan is submitted under subsection (b). Such sums shall remain available until expended.
 
 “(2) After the plan required in subsection (b) is submitted, and for each of the 14 fiscal years thereafter, there are authorized to be appropriated to the Trust not more than the amounts specified in such plan. Such sums shall remain available until expended. Of such sums, funds shall be available through the Trust for law enforcement activities and services to be provided by the United States Park Police at the Presidio in accordance with section 104(i) of this title.
 
@@ -232,9 +232,19 @@ Exclusive Rights to Name and Insignia.—The Trust shall have the sole and exclu
 
 “(b) In consultation with the Trust, the General Accounting Office shall develop an interim schedule and plan to reduce and replace the Federal appropriations to the extent practicable for interpretive services conducted by the National Park Service, and law enforcement activities and services, fire and public safety programs conducted by the Trust.
 
-“(c) Seven years after the first meeting of the Board of Directors of the Trust, the General Accounting Office shall conduct a comprehensive study of the activities of the Trust, including the Trust's progress in meeting its obligations under this title, taking into consideration the results of the study described in subsection (a) and the implementation of plan and schedule required in subsection (b). The General Accounting Office shall report the results of the study, including any adjustments to the plan and schedule, to the Committee on Energy and Natural Resources and the Committee on Appropriations of the United States Senate, and the Committee on Resources and Committee on Appropriations of the House of Representatives.”
+“(c) Seven years after the first meeting of the Board of Directors of the Trust, the General Accounting Office shall conduct a comprehensive study of the activities of the Trust, including the Trust's progress in meeting its obligations under this title, taking into consideration the results of the study described in subsection (a) and the implementation of plan and schedule required in subsection (b). The General Accounting Office shall report the results of the study, including any adjustments to the plan and schedule, to the Committee on Energy and Natural Resources and the Committee on Appropriations of the United States Senate, and the Committee on Resources and Committee on Appropriations of the House of Representatives.
 
-\[Pub. L. 106–176, §101(13)(H),(ii),(iii), which directed amendments to section 104(d)(2) of Pub. L. 104–333, set out above, that were identical to amendments by Pub. L. 106–113 was not executed.\]
+#### “SEC. 107. CONDITIONAL AUTHORITY TO LEASE CERTAIN HOUSING UNITS WITHIN THE PRESIDIO.
 
-\[Pub. L. 106–176, §101(13)(I), which directed amendment of section 104(d)(3) of Pub. L. 104–333, set out above, by inserting “paragraph (2) of” before “this subsection”, was executed by substituting “paragraph (2) of” for “paragraph (3) of” before “this subsection” to reflect the probable intent of Congress.\]
+“(a)
+
+Availability of Housing Units for Long-Term Army Lease.—Subject to subsection (c), the Trust shall make available for lease, to those persons designated by the Secretary of the Army and for such length of time as requested by the Secretary of the Army, 22 housing units located within the Presidio that are under the administrative jurisdiction of the Trust and specified in the agreement between the Trust and the Secretary of the Army in existence as of the date of the enactment of this section \[Dec. 28, 2001\].
+
+“(b)
+
+Lease Amount.—The monthly amount charged by the Trust for the lease of a housing unit under this section shall be equivalent to the monthly rate of the basic allowance for housing that the occupant of the housing unit is entitled to receive under section 403 of title 37, United States Code.
+
+“(c)
+
+Condition on Continued Availability of Housing Units.—Effective after the end of the four-year period beginning on the date of the enactment of this section, the Trust shall have no obligation to make housing units available under subsection (a) unless, during that four-year period, the Secretary of the Treasury purchases new obligations of at least $80,000,000 issued by the Trust under section 104(d)(2). In the event that this condition is not satisfied, the existing agreement referred to in subsection (a) shall be renewed on the same terms and conditions for an additional five years.”
 

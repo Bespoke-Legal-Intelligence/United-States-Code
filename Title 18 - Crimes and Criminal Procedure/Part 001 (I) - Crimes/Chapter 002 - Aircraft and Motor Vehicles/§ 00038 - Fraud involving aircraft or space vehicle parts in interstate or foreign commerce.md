@@ -92,7 +92,7 @@ Territorial Scope.—This section also applies to conduct occurring outside the 
 
 &emsp;(1) the offender is a natural person who is a citizen or permanent resident alien of the United States, or an organization organized under the laws of the United States or political subdivision thereof;
 
-&emsp;(2) the aircraft or spacecraft part as to which the violation relates was installed in an aircraft or space vehicle owned or operated at the time of the offense by a citizen or permanent resident alien of the United States, or by an organization thereof; or
+&emsp;(2) the aircraft or spacecraft part as to which the violation relates was installed in an aircraft or space vehicle owned or operated at the time of the offense by a citizen or permanentresident alien of the United States, or by an organization thereof; or
 
 &emsp;(3) an act in furtherance of the offense was committed in the United States.
 
@@ -100,5 +100,9 @@ Territorial Scope.—This section also applies to conduct occurring outside the 
 
 #### Effective Date
 
-Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendment note under section 106 of Title 49, Transportation.
+Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of Title 49, Transportation.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2516 of this title.
 

@@ -40,7 +40,7 @@ Pub. L. 95–306, §1, June 30, 1978, 92 Stat. 349, provided: “That this Act \
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–588 provided: “That this Act \[enacting this section and sections 472a, 521b, and 1611to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title\] may be cited as the ‘National Forest Management Act of 1976’.”
+Section 1 of Pub. L. 94–588 provided: “That this Act \[enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title\] may be cited as the ‘National Forest Management Act of 1976’.”
 
 #### Short Title
 

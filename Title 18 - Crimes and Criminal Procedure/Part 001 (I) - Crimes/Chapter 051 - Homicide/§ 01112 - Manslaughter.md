@@ -44,5 +44,5 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 351, 924, 930, 1114, 1116, 1119, 1120, 1503, 1512, 1513, 1751, 2332, 3559 of this title; title 15 section 1825; title 21 section 1041; title 42 sections 671, 2283, 5106a; title 49 section 46506.
+This section is referred to in sections 351, 924, 930, 1114, 1116, 1119, 1120, 1503, 1512, 1513, 1751, 2332, 3559 of this title; title 15 section 1825; title 21 section 1041; title 42 sections 671, 2283, 5106a, 14135a; title 49 section 46506.
 

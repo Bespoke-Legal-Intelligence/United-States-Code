@@ -148,7 +148,7 @@ A program or project conducted under this chapter shall not make any reference t
 
 #### (B) Availability of information
 
-&emsp;&emsp;Except as otherwise provided in this chapter, information obtained under this chapter may be made available to another agency ofthe Federal Government for a civil or criminal law enforcement activity if the activity is authorized by law and if the head of the agency has made a written request to the Secretary specifying the particular information desired and the law enforcement activity for which the information is sought.
+&emsp;&emsp;Except as otherwise provided in this chapter, information obtained under this chapter may be made available to another agency of the Federal Government for a civil or criminal law enforcement activity if the activity is authorized by law and if the head of the agency has made a written request to the Secretary specifying the particular information desired and the law enforcement activity for which the information is sought.
 
 #### (C) Other exceptions
 

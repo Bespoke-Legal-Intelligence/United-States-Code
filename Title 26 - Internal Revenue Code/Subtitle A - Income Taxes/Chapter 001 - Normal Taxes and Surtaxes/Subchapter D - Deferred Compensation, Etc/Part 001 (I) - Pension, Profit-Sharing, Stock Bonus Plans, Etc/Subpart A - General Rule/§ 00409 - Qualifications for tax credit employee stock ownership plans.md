@@ -112,7 +112,7 @@ A plan meets the requirement of this subsection only if it provides that amounts
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A plan to which this subparagraph applies shall not be treated as failing to meet the requirements of this subsection or section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that the participant entitled to a distribution has a right to receive the distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).
+&emsp;&emsp;&emsp;A plan to which this subparagraph applies shall not be treated as failing to meetthe requirements of this subsection or section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that the participant entitled to a distribution has a right to receive the distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).
 
 #### (ii) Applicable plans
 
@@ -238,7 +238,7 @@ No gain or loss shall be recognized to the taxpayer with respect to the transfer
 
 #### (1) In general
 
-&emsp;A plan to which section 1042 applies and an eligible worker-owned cooperative (within the meaning of section 1042(c)) shall provide that no portion of the assets of the plan or cooperative attributable to (or allocable in lieu of) employer securities acquired by the plan or cooperative in a sale to which section 1042 applies may accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a))—
+&emsp;A plan to which section 1042 applies and an eligible worker-owned cooperative (within the meaning of section 1042(c)) shall provide that no portion of the assets of the plan or cooperative attributable to (or allocable in lieu of)employer securities acquired by the plan or cooperative in a sale to which section 1042 applies may accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a))—
 
 &emsp;&emsp;(A) during the nonallocation period, for the benefit of—
 
@@ -326,7 +326,133 @@ A plan meets the requirements of this subsection if—
 
 &emsp;The Secretary shall adjust the dollar amounts under paragraph (1)(C) at the same time and in the same manner as under section 415(d).
 
-#### (p) Cross references
+#### (p) Prohibited allocations of securities in an S corporation
+
+#### (1) In general
+
+&emsp;An employee stock ownership plan holding employer securities consisting of stock in an S corporation shall provide that no portion of the assets of the plan attributable to (or allocable in lieu of) such employer securities may, during a nonallocation year, accrue (or be allocated directly or indirectly under any plan of the employer meeting the requirements of section 401(a)) for the benefit of any disqualified person.
+
+#### (2) Failure to meet requirements
+
+#### (A) In general
+
+&emsp;&emsp;If a plan fails to meet the requirements of paragraph (1), the plan shall be treated as having distributed to any disqualified person the amount allocated to the account of such person in violation of paragraph (1) at the time of such allocation.
+
+#### (B) Cross reference
+
+&emsp;&emsp;<b>For excise tax relating to violations of paragraph (1) and ownership of synthetic equity, see section 4979A.</b>
+
+#### (3) Nonallocation year
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “nonallocation year” means any plan year of an employee stock ownership plan if, at any time during such plan year—
+
+&emsp;&emsp;&emsp;(i) such plan holds employer securities consisting of stock in an S corporation, and
+
+&emsp;&emsp;&emsp;(ii) disqualified persons own at least 50 percent of the number of shares of stock in the S corporation.
+
+#### (B) Attribution rules
+
+&emsp;&emsp;For purposes of subparagraph (A)—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The rules of section 318(a) shall apply for purposes of determining ownership, except that—
+
+&emsp;&emsp;&emsp;&emsp;(I) in applying paragraph (1) thereof, the members of an individual's family shall include members of the family described in paragraph (4)(D), and
+
+&emsp;&emsp;&emsp;&emsp;(II) paragraph (4) thereof shall not apply.
+
+#### (ii) Deemed-owned shares
+
+&emsp;&emsp;&emsp;Notwithstanding the employee trust exception in section 318(a)(2)(B)(i), an individual shall be treated as owning deemed-owned shares of the individual.
+
+> &emsp;&emsp;Solely for purposes of applying paragraph (5), this subparagraph shall be applied after the attribution rules of paragraph (5) have been applied.
+
+#### (4) Disqualified person
+
+&emsp;For purposes of this subsection—
+
+#### (A) In general
+
+&emsp;&emsp;The term “disqualified person” means any person if—
+
+&emsp;&emsp;&emsp;(i) the aggregate number of deemed-owned shares of such person and the members of such person's family is at least 20 percent of the number of deemed-owned shares of stock in the S corporation, or
+
+&emsp;&emsp;&emsp;(ii) in the case of a person not described in clause (i), the number of deemed-owned shares of such person is at least 10 percent of the number of deemed-owned shares of stock in such corporation.
+
+#### (B) Treatment of family members
+
+&emsp;&emsp;In the case of a disqualified person described in subparagraph (A)(i), any member of such person's family with deemed-owned shares shall be treated as a disqualified person if not otherwise treated as a disqualified person under subparagraph (A).
+
+#### (C) Deemed-owned shares
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “deemed-owned shares” means, with respect to any person—
+
+&emsp;&emsp;&emsp;&emsp;(I) the stock in the S corporation constituting employer securities of an employee stock ownership plan which is allocated to such person under the plan, and
+
+&emsp;&emsp;&emsp;&emsp;(II) such person's share of the stock in such corporation which is held by such plan but which is not allocated under the plan to participants.
+
+#### (ii) Person's share of unallocated stock
+
+&emsp;&emsp;&emsp;For purposes of clause (i)(II), a person's share of unallocated S corporation stock held by such plan is the amount of the unallocated stock which would be allocated to such person if the unallocated stock were allocated to all participants in the same proportions as the most recent stock allocation under the plan.
+
+#### (D) Member of family
+
+&emsp;&emsp;For purposes of this paragraph, the term “member of the family” means, with respect to any individual—
+
+&emsp;&emsp;&emsp;(i) the spouse of the individual,
+
+&emsp;&emsp;&emsp;(ii) an ancestor or lineal descendant of the individual or the individual's spouse,
+
+&emsp;&emsp;&emsp;(iii) a brother or sister of the individual or the individual's spouse and any lineal descendant of the brother or sister, and
+
+&emsp;&emsp;&emsp;(iv) the spouse of any individual described in clause (ii) or (iii).
+
+> &emsp;&emsp;A spouse of an individual who is legally separated from such individual under a decree of divorce or separate maintenance shall not be treated as such individual's spouse for purposes of this subparagraph.
+
+#### (5) Treatment of synthetic equity
+
+&emsp;For purposes of paragraphs (3) and (4), in the case of a person who owns synthetic equity in the S corporation, except to the extent provided in regulations, the shares of stock in such corporation on which such synthetic equity is based shall be treated as outstanding stock in such corporation and deemed-owned shares of such person if such treatment of synthetic equity of 1 or more such persons results in—
+
+&emsp;&emsp;(A) the treatment of any person as a disqualified person, or
+
+&emsp;&emsp;(B) the treatment of any year as a nonallocation year.
+
+> &emsp;For purposes of this paragraph, synthetic equity shall be treated as owned by a person in the same manner as stock is treated as owned by a person under the rules of paragraphs (2) and (3) of section 318(a). If, without regard to this paragraph, a person is treated as a disqualified person or a year is treated as a nonallocation year, this paragraph shall not be construed to result in the person or year not being so treated.
+
+#### (6) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Employee stock ownership plan
+
+&emsp;&emsp;The term “employee stock ownership plan” has the meaning given such term by section 4975(e)(7).
+
+#### (B) Employer securities
+
+&emsp;&emsp;The term “employer security” has the meaning given such term by section 409(<i>l</i>).
+
+#### (C) Synthetic equity
+
+&emsp;&emsp;The term “synthetic equity” means any stock option, warrant, restricted stock, deferred issuance stock right, or similar interest or right that gives the holder the right to acquire or receive stock of the S corporation in the future. Except to the extent provided in regulations, synthetic equity also includes a stock appreciation right, phantom stock unit, or similar right to a future cash payment based on the value of such stock or appreciation in such value.
+
+#### (7) Regulations and guidance
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection.
+
+#### (B) Avoidance or evasion
+
+&emsp;&emsp;The Secretary may, by regulation or other guidance of general applicability, provide that a nonallocation year occurs in any case in which the principal purpose of the ownership structure of an S corporation constitutes an avoidance or evasion of this subsection.
+
+#### (q) Cross references
 
 &emsp;&emsp;<b>(1) For requirements for allowance of employee plan credit, see section 48(n).</b><b><sup>6</sup></b>
 
@@ -334,7 +460,11 @@ A plan meets the requirements of this subsection if—
 
 &emsp;&emsp;<b>(3) For requirements for allowance of an employee stock ownership credit, see section 41.</b><b><sup>6</sup></b>
 
-(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064.)
+(Added Pub. L. 95–600, title I, §141(a), Nov. 6, 1978, 92 Stat. 2787, §409A; amended Pub. L. 96–222, title I, §101(a)(7)(D)–(F), (I), (J), (L)(i)(VI), (ii)(I), (II), (iii)(V), (v)(VI), (VII), Apr. 1, 1980, 94 Stat. 198–200; Pub. L. 96–605, title II, §224(a), Dec. 28, 1980, 94 Stat. 3528; Pub. L. 97–34, title III, §§331(c)(1), 334, 336, 337(a), Aug. 13, 1981, 95 Stat. 293, 297, 298; Pub. L. 97–448, title I, §103(h), (i), Jan. 12, 1983, 96 Stat. 2379; renumbered §409 and amended Pub. L. 98–369, div. A, title IV, §§474(r)(15), 491(e)(1), July 18, 1984, 98 Stat. 843, 852; Pub. L. 99–514, title XI, §§1172(b)(1), 1174(a)(1), (b)(1), (2), (c)(1)(A), 1176(b), title XVIII, §§1852(a)(4)(B), 1854(a)(3)(A), (f)(1), (3)(C), 1899A(11), Oct. 22, 1986, 100 Stat. 2514, 2516, 2517, 2520, 2865, 2873, 2881, 2882, 2958; Pub. L. 100–647, title I, §§1011B(g)(1), (2), (i)(1), (3), (j)(3), (5), (k)(3), 1018(t)(4)(B), (C), (H), Nov. 10, 1988, 102 Stat. 3490, 3492, 3493, 3588, 3589; Pub. L. 101–239, title VII, §§7304(a)(2)(A), (B), 7811(h)(1), Dec. 19, 1989, 103 Stat. 2352, 2353, 2409; Pub. L. 105–34, title XV, §1506(a), Aug. 5, 1997, 111 Stat. 1064; Pub. L. 107–16, title VI, §656(a), June 7, 2001, 115 Stat. 131.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -356,7 +486,9 @@ A prior section 409, added Pub. L. 93–406, title II, §2002(c), Sept. 2, 1974,
 
 #### Amendments
 
-<b>1997</b>—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading, struck out “In the case of an employer whose charter or bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meet the requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).” after “employer securities.”, and added subpar. (B).
+<b>2001</b>—Subsecs. (p), (q). Pub. L. 107–16, §§656(a), 901, temporarily added subsec. (p) and redesignated former subsec. (p) as (q). See Effective and Termination Dates of 2001 Amendment note below.
+
+<b>1997</b>—Subsec. (h)(2). Pub. L. 105–34 designated existing provisions as subpar. (A), inserted subpar. heading, struck out “In the case of an employer whose charter or bylaws restrict the ownership of substantially all outstanding employer securities to employees or to a trust described in section 401(a), a plan which otherwise meets the requirements of this subsection or section 4975(e)(7) shall not be considered to have failed to meetthe requirements of this subsection or of section 401(a) merely because it does not permit a participant to exercise the right described in paragraph (1)(A) if such plan provides that participants entitled to a distribution from the plan shall have a right to receive such distribution in cash, except that such plan may distribute employer securities subject to a requirement that such securities may be resold to the employer under terms which meet the requirements of paragraph (1)(B).” after “employer securities.”, and added subpar. (B).
 
 <b>1989</b>—Subsec. (<i>l</i>)(5). Pub. L. 101–239, §7811(h)(1), substituted “the second sentence” for “the last sentence”.
 
@@ -484,6 +616,26 @@ Subsec. (m). Pub. L. 96–222, §101(a)(7)(D), (L)(i), substituted provisions re
 
 Subsec. (n). Pub. L. 96–222, §101(a)(7)(L)(iii)(V), substituted “employee plan credit” for “ESOP credit” in pars. (1) and (2).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title VI, §656(d), June 7, 2001, 115 Stat. 135, provided that:
+
+“(1)
+
+In general.—The amendments made by this section \[amending this section and sections 4975 and 4979A of this title\] shall apply to plan years beginning after December 31, 2004.
+
+“(2)
+
+Exception for certain plans.—In the case of any—
+
+&emsp;“(A) employee stock ownership plan established after March 14, 2001, or
+
+&emsp;“(B) employee stock ownership plan established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of the Internal Revenue Code of 1986 is not in effect on such date,
+
+> the amendments made by this section shall apply to plan years ending after March 14, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 1506(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section, section 4975 of this title, and section 1108 of Title 29, Labor\] shall apply to taxable years beginning after December 31, 1997.”
@@ -510,7 +662,7 @@ Section 1174(c)(1)(B) of Pub. L. 99–514 provided that: “The amendment made b
 
 Amendment by section 1176(b) of Pub. L. 99–514 applicable to acquisitions of securities after Dec. 31, 1986, see section 1176(c) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
-Amendment by section 1852(a)(4)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1852(a)(4)(B) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Section 1854(a)(3)(C) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1018(t)(4)(G), Nov. 10, 1988, 102 Stat. 3588, provided that:
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of Administrator
 
-The Administrator is authorized and directed to make a continuing investigation and surveyof the public buildings needs of the Federal Government in order that he may carry out his duties under this chapter, and to submit to Congress prospectuses of proposed projects in accordance with section 606(a) of this title.
+The Administrator is authorized and directed to make a continuing investigation and survey of the public buildings needs of the Federal Government in order that he may carry out his duties under this chapter, and to submit to Congress prospectuses of proposed projects in accordance with section 606(a) of this title.
 
 #### (b) Cooperation with Federal agencies
 

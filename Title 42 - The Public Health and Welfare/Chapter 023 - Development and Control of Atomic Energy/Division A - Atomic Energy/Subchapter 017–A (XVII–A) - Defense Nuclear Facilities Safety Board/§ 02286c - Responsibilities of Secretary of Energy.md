@@ -2,7 +2,7 @@
 
 #### (a) Cooperation
 
-The Secretary of Energy shall fully cooperate with the Board and provide the Board with ready access to such facilities, personnel, and information as the Board considers necessary to carry out its responsibilities under this subchapter. Each contractor operating a Department of Energy defense nuclear facility under a contract awarded by the Secretary shall, to the extent provided in such contract or otherwise with the contractor's consent, fully cooperate with the Board and provide the Board with ready access to such facilities, personnel, and information of the contractor as the Board considers necessary to carry out its responsibilities under this subchapter.
+The Secretary of Energy shall fully cooperate with the Board and provide the Board with ready access to such facilities, personnel, and information as the Board considers necessary to carry out its responsibilities under this subchapter. Each contractor operating a Department of Energy defense nuclear facility under a contract awarded by the Secretary shall, to the extent provided in such contract or otherwise with the contractor's consent, fully cooperate with the Board and provide the Board with ready access to such facilities, personnel, andinformation of the contractor as the Board considers necessary to carry out its responsibilities under this subchapter.
 
 #### (b) Access to information
 

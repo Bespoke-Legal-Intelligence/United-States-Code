@@ -10,7 +10,7 @@ It shall be unlawful for any member, officer, or employee of the Commission to d
 
 #### (c) Confidential disclosures
 
-The Commission may, in its discretion and upon a showing that such information is needed, provide all “records” (as defined in subsection (a) of this section) and other information in itspossession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
+The Commission may, in its discretion and upon a showing that such information is needed, provide all “records” (as defined in subsection (a) of this section) and other information in its possession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
 
 #### (d) Records obtained from foreign securities authorities
 

@@ -1,8 +1,8 @@
 ### §5311. Declaration of purpose
 
-It is the purpose of this subchapter (except section 5315) to require certain reports or records where they have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings.
+It is the purpose of this subchapter (except section 5315) to require certain reports or records where they have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 107–56, title III, §358(a), Oct. 26, 2001, 115 Stat. 326.)
 
 Historical and Revision Notes
 
@@ -17,6 +17,204 @@ Historical and Revision Notes
 31:1051.
 
 Oct. 26, 1970, Pub. L. 91–508, §202, 84 Stat. 1118.
+
+#### Amendments
+
+2001—Pub. L. 107–56 inserted “, or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism” before period at end.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under this section.
+
+Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of Title 12, Banks and Banking.
+
+#### Short Title
+
+This subchapter and chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, are each popularly known as the “Bank Secrecy Act”. See Short Title note set out under section 1951 of Title 12.
+
+#### International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001; Findings and Purposes
+
+Pub. L. 107–56, title III, §302, Oct. 26, 2001, 115 Stat. 296, provided that:
+
+“(a)
+
+Findings.—The Congress finds that—
+
+&emsp;“(1) money laundering, estimated by the International Monetary Fund to amount to between 2 and 5 percent of global gross domestic product, which is at least $600,000,000,000 annually, provides the financial fuel that permits transnational criminal enterprises to conduct and expand their operations to the detriment of the safety and security of American citizens;
+
+&emsp;“(2) money laundering, and the defects in financial transparency on which money launderers rely, are critical to the financing of global terrorism and the provision of funds for terrorist attacks;
+
+&emsp;“(3) money launderers subvert legitimate financial mechanisms and banking relationships by using them as protective covering for the movement of criminal proceeds and the financing of crime and terrorism, and, by so doing, can threaten the safety of United States citizens and undermine the integrity of United States financial institutions and of the global financial and trading systems upon which prosperity and growth depend;
+
+&emsp;“(4) certain jurisdictions outside of the United States that offer ‘offshore’ banking and related facilities designed to provide anonymity, coupled with weak financial supervisory and enforcement regimes, provide essential tools to disguise ownership and movement of criminal funds, derived from, or used to commit, offenses ranging from narcotics trafficking, terrorism, arms smuggling, and trafficking in human beings, to financial frauds that prey on law-abiding citizens;
+
+&emsp;“(5) transactions involving such offshore jurisdictions make it difficult for law enforcement officials and regulators to follow the trail of money earned by criminals, organized international criminal enterprises, and global terrorist organizations;
+
+&emsp;“(6) correspondent banking facilities are one of the banking mechanisms susceptible in some circumstances to manipulation by foreign banks to permit the laundering of funds by hiding the identity of real parties in interest to financial transactions;
+
+&emsp;“(7) private banking services can be susceptible to manipulation by money launderers, for example corrupt foreign government officials, particularly if those services include the creation of offshore accounts and facilities for large personal funds transfers to channel funds into accounts around the globe;
+
+&emsp;“(8) United States anti-money laundering efforts are impeded by outmoded and inadequate statutory provisions that make investigations, prosecutions, and forfeitures more difficult, particularly in cases in which money laundering involves foreign persons, foreign banks, or foreign countries;
+
+&emsp;“(9) the ability to mount effective counter-measures to international money launderers requires national, as well as bilateral and multilateral action, using tools specially designed for that effort; and
+
+&emsp;“(10) the Basle Committee on Banking Regulation and Supervisory Practices and the Financial Action Task Force on Money Laundering, of both of which the United States is a member, have each adopted international anti-money laundering principles and recommendations.
+
+“(b)
+
+Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\] are—
+
+&emsp;“(1) to increase the strength of United States measures to prevent, detect, and prosecute international money laundering and the financing of terrorism;
+
+&emsp;“(2) to ensure that—
+
+&emsp;&emsp;“(A) banking transactions and financial relationships and the conduct of such transactions and relationships, do not contravene the purposes of subchapter II of chapter 53 of title 31, United States Code, section 21 of the Federal Deposit Insurance Act \[12 U.S.C. 1829b\], or chapter 2 of title I of Public Law 91–508 (84 Stat. 1116) \[12 U.S.C. 1951 et seq.\], or facilitate the evasion of any such provision; and
+
+&emsp;&emsp;“(B) the purposes of such provisions of law continue to be fulfilled, and such provisions of law are effectively and efficiently administered;
+
+&emsp;“(3) to strengthen the provisions put into place by the Money Laundering Control Act of 1986 (18 U.S.C. 981 note) \[see Short Title of 1986 Amendment note set out under section 981 of Title 18, Crimes and Criminal Procedure\], especially with respect to crimes by non-United States nationals and foreign financial institutions;
+
+&emsp;“(4) to provide a clear national mandate for subjecting to special scrutiny those foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that pose particular, identifiable opportunities for criminal abuse;
+
+&emsp;“(5) to provide the Secretary of the Treasury (in this title referred to as the ‘Secretary’) with broad discretion, subject to the safeguards provided by the Administrative Procedure Act under title 5, United States Code \[5 U.S.C. 551 et seq., 701 et seq.\], to take measures tailored to the particular money laundering problems presented by specific foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts;
+
+&emsp;“(6) to ensure that the employment of such measures by the Secretary permits appropriate opportunity for comment by affected financial institutions;
+
+&emsp;“(7) to provide guidance to domestic financial institutions on particular foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions that are of primary money laundering concern to the United States Government;
+
+&emsp;“(8) to ensure that the forfeiture of any assets in connection with the anti-terrorist efforts of the United States permits for adequate challenge consistent with providing due process rights;
+
+&emsp;“(9) to clarify the terms of the safe harbor from civil liability for filing suspicious activity reports;
+
+&emsp;“(10) to strengthen the authority of the Secretary to issue and administer geographic targeting orders, and to clarify that violations of such orders or any other requirement imposed under the authority contained in chapter 2 of title I of Public Law 91–508 \[12 U.S.C. 1951 et seq.\] and subchapters II and III of chapter 53 of title 31, United States Code, may result in criminal and civil penalties;
+
+&emsp;“(11) to ensure that all appropriate elements of the financial services industry are subject to appropriate requirements to report potential money laundering transactions to proper authorities, and that jurisdictional disputes do not hinder examination of compliance by financial institutions with relevant reporting requirements;
+
+&emsp;“(12) to strengthen the ability of financial institutions to maintain the integrity of their employee population; and
+
+&emsp;“(13) to strengthen measures to prevent the use of the United States financial system for personal gain by corrupt foreign officials and to facilitate the repatriation of any stolen assets to the citizens of countries to whom such assets belong.”
+
+#### Four-Year Congressional Review; Expedited Consideration
+
+Pub. L. 107–56, title III, §303, Oct. 26, 2001, 115 Stat. 298, provided that:
+
+“(a)
+
+In General.—Effective on and after the first day of fiscal year 2005, the provisions of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\] and the amendments made by this title shall terminate if the Congress enacts a joint resolution, the text after the resolving clause of which is as follows: ‘That provisions of the International Money Laundering Abatement and Anti-Terrorist Financing Act of 2001, and the amendments made thereby, shall no longer have the force of law.’
+
+“(b)
+
+Expedited Consideration.—Any joint resolution submitted pursuant to this section should be considered by the Congress expeditiously. In particular, it shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Control Act of 1976 \[Pub. L. 94–329, 90 Stat. 765\].”
+
+#### Cooperative Efforts To Deter Money Laundering
+
+Pub. L. 107–56, title III, §314, Oct. 26, 2001, 115 Stat. 307, provided that:
+
+“(a)
+
+Cooperation Among Financial Institutions, Regulatory Authorities, and Law Enforcement Authorities.—
+
+&emsp;“(1)
+
+Regulations.—The Secretary \[of the Treasury\] shall, within 120 days after the date of enactment of this Act \[Oct. 26, 2001\], adopt regulations to encourage further cooperation among financial institutions, their regulatory authorities, and law enforcement authorities, with the specific purpose of encouraging regulatory authorities and law enforcement authorities to share with financial institutions information regarding individuals, entities, and organizations engaged in or reasonably suspected based on credible evidence of engaging in terrorist acts or money laundering activities.
+
+&emsp;“(2)
+
+Cooperation and information sharing procedures.—The regulations adopted under paragraph (1) may include or create procedures for cooperation and information sharing focusing on—
+
+&emsp;&emsp;“(A) matters specifically related to the finances of terrorist groups, the means by which terrorist groups transfer funds around the world and within the United States, including through the use of charitable organizations, nonprofit organizations, and nongovernmental organizations, and the extent to which financial institutions in the United States are unwittingly involved in such finances and the extent to which such institutions are at risk as a result;
+
+&emsp;&emsp;“(B) the relationship, particularly the financial relationship, between international narcotics traffickers and foreign terrorist organizations, the extent to which their memberships overlap and engage in joint activities, and the extent to which they cooperate with each other in raising and transferring funds for their respective purposes; and
+
+&emsp;&emsp;“(C) means of facilitating the identification of accounts and transactions involving terrorist groups and facilitating the exchange of information concerning such accounts and transactions between financial institutions and law enforcement organizations.
+
+&emsp;“(3)
+
+Contents.—The regulations adopted pursuant to paragraph (1) may—
+
+&emsp;&emsp;“(A) require that each financial institution designate 1 or more persons to receive information concerning, and to monitor accounts of individuals, entities, and organizations identified, pursuant to paragraph (1); and
+
+&emsp;&emsp;“(B) further establish procedures for the protection of the shared information, consistent with the capacity, size, and nature of the institution to which the particular procedures apply.
+
+&emsp;“(4)
+
+Rule of construction.—The receipt of information by a financial institution pursuant to this section shall not relieve or otherwise modify the obligations of the financial institution with respect to any other person or account.
+
+&emsp;“(5)
+
+Use of information.—Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve terrorist acts or money laundering activities.
+
+“(b)
+
+Cooperation Among Financial Institutions.—Upon notice provided to the Secretary, 2 or more financial institutions and any association of financial institutions may share information with one another regarding individuals, entities, organizations, and countries suspected of possible terrorist or money laundering activities. A financial institution or association that transmits, receives, or shares such information for the purposes of identifying and reporting activities that may involve terrorist acts or money laundering activities shall not be liable to any person under any law or regulation of the United States, any constitution, law, or regulation of any State or political subdivision thereof, or under any contract or other legally enforceable agreement (including any arbitration agreement), for such disclosure or for any failure to provide notice of such disclosure to the person who is the subject of such disclosure, or any other person identified in the disclosure, except where such transmission, receipt, or sharing violates this section or regulations promulgated pursuant to this section.
+
+“(c)
+
+Rule of Construction.—Compliance with the provisions of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\] requiring or allowing financial institutions and any association of financial institutions to disclose or share information regarding individuals, entities, and organizations engaged in or suspected of engaging in terrorist acts or money laundering activities shall not constitute a violation of the provisions of title V of the Gramm-Leach-Bliley Act (Public Law 106–102) \[15 U.S.C. 6801 et seq.\].
+
+“(d)
+
+Reports to the Financial Services Industry on Suspicious Financial Activities.—At least semiannually, the Secretary shall—
+
+&emsp;“(1) publish a report containing a detailed analysis identifying patterns of suspicious activity and other investigative insights derived from suspicious activity reports and investigations conducted by Federal, State, and local law enforcement agencies to the extent appropriate; and
+
+&emsp;“(2) distribute such report to financial institutions (as defined in section 5312 of title 31, United States Code).”
+
+#### Report and Recommendation on Legislative Action on International Counter Money Laundering Provisions
+
+Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: “Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
+
+#### International Cooperation on Identification of Originators of Wire Transfers
+
+Pub. L. 107–56, title III, §328, Oct. 26, 2001, 115 Stat. 319, provided that: “The Secretary \[of the Treasury\] shall—
+
+&emsp;“(1) in consultation with the Attorney General and the Secretary of State, take all reasonable steps to encourage foreign governments to require the inclusion of the name of the originator in wire transfer instructions sent to the United States and other countries, with the information to remain with the transfer from its origination until the point of disbursement; and
+
+&emsp;“(2) report annually to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on—
+
+&emsp;&emsp;“(A) progress toward the goal enumerated in paragraph (1), as well as impediments to implementation and an estimated compliance rate; and
+
+&emsp;&emsp;“(B) impediments to instituting a regime in which all appropriate identification, as defined by the Secretary, about wire transfer recipients shall be included with wire transfers from their point of origination until disbursement.”
+
+#### Criminal Penalties
+
+Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that: “Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
+
+&emsp;“(1) being influenced in the performance of any official act;
+
+&emsp;“(2) being influenced to commit or aid in the committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or
+
+&emsp;“(3) being induced to do or omit to do any act in violation of the official duty of such official or person,
+
+> shall be fined in an amount not more than 3 times the monetary equivalent of the thing of value, or imprisoned for not more than 15 years, or both. A violation of this section shall be subject to chapter 227 of title 18, United States Code, and the provisions of the United States Sentencing Guidelines.”
+
+#### Report on Investment Companies
+
+Pub. L. 107–56, title III, §356(c), Oct. 26, 2001, 115 Stat. 324, provided that:
+
+“(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companies pursuant to section 5312(a)(2)(I) of title 31, United States Code.
+
+“(2)
+
+Definition.—For purposes of this subsection, the term ‘investment company’—
+
+&emsp;“(A) has the same meaning as in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a–3); and
+
+&emsp;“(B) includes any person that, but for the exceptions provided for in paragraph (1) or (7) of section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(c)), would be an investment company.
+
+“(3)
+
+Additional recommendations.—The report required by paragraph (1) may make different recommendations for different types of entities covered by this subsection.
+
+“(4)
+
+Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation or business or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.”
+
+#### Report on Need for Additional Legislation Relating to Informal Money Transfer Systems
+
+Pub. L. 107–56, title III, §359(d), Oct. 26, 2001, 115 Stat. 329, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether the threshold for the filing of suspicious activity reports under section 5318(g) of title 31, United States Code should be lowered in the case of such systems.”
 
 #### Uniform State Licensing and Regulation of Check Cashing, Currency Exchange, and Money Transmitting Businesses
 
@@ -106,7 +304,7 @@ Study Required.—The Secretary of the Treasury shall conduct a study of—
 
 “(d)
 
-Report Required.—Not later than the end of the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\] and not later than the end of each of the first two 1-year periods beginning after the end of such 3-year period, the Secretary of the Treasury shall submit a report to the Congress containing the findings and recommendations of the Secretary in connection with the study under subsection (c), togetherwith such recommendations for legislative and administrative action as the Secretary may determine to be appropriate.
+Report Required.—Not later than the end of the 3-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\] and not later than the end of each of the first two 1-year periods beginning after the end of such 3-year period, the Secretary of the Treasury shall submit a report to the Congress containing the findings and recommendations of the Secretary in connection with the study under subsection (c), together with such recommendations for legislative and administrative action as the Secretary may determine to be appropriate.
 
 “(e)
 
@@ -194,7 +392,7 @@ Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that:
 
 &emsp;“(1) the number of each type of report filed pursuant to subchapter II of chapter 53 of title 31, United States Code (or regulations promulgated thereunder) in the previous fiscal year;
 
-&emsp;“(2) the number of reports filed pursuant to section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C. 6050I\] (regarding transactions involving currency) in the previous fiscal year;
+&emsp;“(2) the number of reports filed pursuant to section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C.6050I\] (regarding transactions involving currency) in the previous fiscal year;
 
 &emsp;“(3) an estimate of the rate of compliance with the reporting requirements by persons required to file the reports referred to in paragraphs (1) and (2);
 

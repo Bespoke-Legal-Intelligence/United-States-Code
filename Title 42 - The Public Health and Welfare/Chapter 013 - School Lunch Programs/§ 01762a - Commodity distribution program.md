@@ -74,7 +74,7 @@ Subsec. (f). Pub. L. 105–336, §101(b), substituted “1755(c)” for “1755(
 
 1996—Subsec. (b). Pub. L. 104–193, §707(a), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “Among the products to be included in the food donations to the school lunch program shall be cereal and shortening and oil products.”
 
-Subsec. (e). Pub. L. 104–193, §707(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each State educational agency that receives food assistance payments under this section for any school year shall establish for such year an advisory council, which shall be composed of representatives of schools in the State that participate in the school lunch program. The council shall advise such State agency with respect to the needs of such schools relating to the manner of selection and distribution of commodity assistance for such program.”
+Subsec. (e). Pub. L. 104–193, §707(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each State educational agency that receives food assistance payments under this section for any school year shall establish for such year an advisory council, which shall be composed of representatives of schools in the State that participate in the schoollunch program. The council shall advise such State agency with respect to the needs of such schools relating to the manner of selection and distribution of commodity assistance for such program.”
 
 Subsec. (g)(3). Pub. L. 104–193, §707(c), struck out par. (3) relating to cash compensation for losses due to changed methodology of study during 1982–1983 school year.
 

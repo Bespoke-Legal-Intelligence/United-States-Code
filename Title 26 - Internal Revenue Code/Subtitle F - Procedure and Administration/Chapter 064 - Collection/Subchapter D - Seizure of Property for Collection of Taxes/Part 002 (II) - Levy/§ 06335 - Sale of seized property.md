@@ -2,7 +2,7 @@
 
 #### (a) Notice of seizure
 
-As soon as practicable after seizure of property, notice in writing shall be given by the Secretary to the owner of the property (or, in the case of personal property, the possessor thereof), or shall be left at his usual place of abode orbusiness if he has such within the internal revenue district where the seizure is made. If the owner cannot be readily located, or has no dwelling or place of business within such district, the notice may be mailed to his last known address. Such notice shall specify the sum demanded and shall contain, in the case of personal property, an account of the property seized and, in the case of real property, a description with reasonable certainty of the property seized.
+As soon as practicable after seizure of property, notice in writing shall be given by the Secretary to the owner of the property (or, in the case of personal property, the possessor thereof), or shall be left at his usual place of abode or business if he has such within the internal revenue district where the seizure is made. If the owner cannot be readily located, or has no dwelling or place of business within such district, the notice may be mailed to his last known address. Such notice shall specify the sum demanded and shall contain, in the case of personal property, an account of the property seized and, in the case of real property, a description with reasonable certainty of the property seized.
 
 #### (b) Notice of sale
 
@@ -34,7 +34,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (C) Property deemed sold to United States at minimum price in certain cases
 
-&emsp;&emsp;If no person offers the amount of the minimum price for such property at the sale and the Secretary has determined that the purchase of such property by the United States would be in the best interest of the United States, the property shall be declared to be sold to the United States at such minimum price.
+&emsp;&emsp;If no person offers the amount of the minimum price for such property at the sale andthe Secretary has determined that the purchase of such property by the United States would be in the best interest of the United States, the property shall be declared to be sold to the United States at such minimum price.
 
 #### (D) Release to owner in other cases
 
@@ -62,7 +62,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (3) Payment of amount bid
 
-&emsp;If payment in full is required at the time of acceptance of a bid and is not then and there paid, the Secretary shall forthwith proceed to again sell the property in the manner provided in this subsection. If the conditions of the sale permit part of the payment to be deferred, and if such part is not paid within the prescribed period, suit may be instituted against the purchaser for the purchase price or such part thereof as has not been paid, together with interest at the rate of 6 percent per annum from the date of the sale; or, in the discretion of the Secretary, the sale may be declared by the Secretary to be null and void for failure tomake full payment of the purchase price and the property may again be advertised and sold as provided in subsections (b) and (c) and this subsection. In the event of such readvertisement and sale any new purchaser shall receive such property or rights to property, free and clear of any claim or right of the former defaulting purchaser, of any nature whatsoever, and the amount paid upon the bid price by such defaulting purchaser shall be forfeited.
+&emsp;If payment in full is required at the time of acceptance of a bid and is not then and there paid, the Secretary shall forthwith proceed to again sell the property in the manner provided in this subsection. If the conditions of the sale permit part of the payment to be deferred, and if such part is not paid within the prescribed period, suit may be instituted against the purchaser for the purchase price or such part thereof as has not been paid, together with interest at the rate of 6 percent per annum from the date of the sale; or, in the discretion of the Secretary, the sale may be declared by the Secretary to be null and void for failure to make full payment of the purchase price and the property may again be advertised and sold as provided in subsections (b) and (c) and this subsection. In the event of such readvertisement and sale any new purchaser shall receive such property or rights to property, free and clear of any claim or right of the former defaulting purchaser, of any nature whatsoever, and the amount paid upon the bid price by such defaulting purchaser shall be forfeited.
 
 #### (4) Cross reference
 
@@ -98,7 +98,7 @@ Pub. L. 105–206, title III, §3441(c), July 22, 1998, 112 Stat. 761, provided 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to requests made on or after Jan. 1, 1989, see section 6236(h)(2) of Pub. L. 100–647, set out as a note under section 6331 of this title.
+Amendment by Pub. L. 100–647 applicable to requests made on or after Jan. 1, 1989, see section 6236(h)(2) ofPub. L. 100–647, set out as a note under section 6331 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -22,7 +22,7 @@ The penalty described in this subsection is—
 
 #### (c) Duration of penalty
 
-The duration of the applicable period, with respect to a determination by the Commissioner under subsection (a) of this section that a person has engaged in conduct described in subsection (a) of this section, shall be—
+The duration of the applicable period, with respect to a determination by the Commissionerunder subsection (a) of this section that a person has engaged in conduct described in subsection (a) of this section, shall be—
 
 &emsp;(1) six consecutive months, in the case of the first such determination with respect to the person;
 

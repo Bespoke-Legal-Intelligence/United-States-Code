@@ -116,7 +116,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term “affiliate” shall have the same meaning as in section 153 of this title, except that, for purposes of paragraph (1)(B)—
+&emsp;&emsp;(A) The term “affiliate” shall have the same meaning as in section 153 of this title,except that, for purposes of paragraph (1)(B)—
 
 &emsp;&emsp;&emsp;(i) an aggregate voting equity interest in Bell Communications Research, Inc., of at least 5 percent of its total voting equity, owned directly or indirectly by more than 1 otherwise unaffiliated Bell operating company, shall constitute an affiliate relationship; and
 

@@ -92,5 +92,5 @@ For provisions relating to Regular Navy or Regular Marine Corps officers designa
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 532, 5596 of this title.
+This section is referred to in sections 532, 5596, 6221 of this title.
 

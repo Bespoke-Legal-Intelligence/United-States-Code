@@ -2,7 +2,7 @@
 
 It shall be the duty of the Commission—
 
-&emsp;(1) to engage in such activities and to make such studies and investigations as are necessary or desirable in the accomplishment ofthe purposes set forth in section 4272 of this title;
+&emsp;(1) to engage in such activities and to make such studies and investigations as are necessary or desirable in the accomplishment of the purposes set forth in section 4272 of this title;
 
 &emsp;(2) to consider, on its own initiative, ways and means for fostering better relations between the levels of government;
 

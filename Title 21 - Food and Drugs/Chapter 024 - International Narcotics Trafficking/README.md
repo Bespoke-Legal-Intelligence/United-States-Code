@@ -21,7 +21,6 @@
 | (c) | Prohibited transactions. |
 | (d) | Law enforcement and intelligence activities not affected. |
 | (e) | Implementation. |
-| (f) | Judicial review. |
 | [1905\.](%C2%A7%2001905%20-%20Authorities.md) | Authorities. |
 | (a) | In general. |
 | (b) | Recordkeeping. |
@@ -45,6 +44,10 @@
 | (j) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 22 section 7210.
 
 
 ---

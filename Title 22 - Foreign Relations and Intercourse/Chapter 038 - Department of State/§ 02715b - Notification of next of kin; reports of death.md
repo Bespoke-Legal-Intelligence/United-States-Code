@@ -24,7 +24,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §234(c)\], Nov. 29,
 
 #### Administrative Assistance in Arrangements Following Death of United States Citizen Abroad
 
-Pub. L. 95–426, title I, §121, Oct. 7, 1978, 92 Stat. 970, as amended by Pub. L. 97–241, title V, §505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “The Congress finds that the Department of State should, in the performance of its consular duties, render all reasonable administrative assistance to a United States citizen who is making necessary arrangements following the death of another United States citizen abroad.”
+Pub. L. 95–426, title I, §121, Oct. 7, 1978, 92 Stat. 970, as amended by Pub. L. 97–241, title V, §505(a)(2), (b)(1),Aug. 24, 1982, 96 Stat. 299, provided that: “The Congress finds that the Department of State should, in the performance of its consular duties, render all reasonable administrative assistance to a United States citizen who is making necessary arrangements following the death of another United States citizen abroad.”
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) to dispose of such installations, when excess to the needs of the agency, and where not excess to grant an option to purchase, to the purchasers or transferees of such housing, for an amount not less than the appraised value of the installations and upon such terms and conditions as the head of the agency shall establish.
 
-(b) Any Federal agency (including any wholly owned Government corporation) having under its jurisdiction lands across which run any part of a utility system for housing under the jurisdiction of the Secretary is authorized to grant to the Secretary, or to the purchasers or transferees of such housing, easements (which may be perpetual) on such land for utility purposes.
+(b) Any Federal agency (including any wholly owned Government corporation) having underits jurisdiction lands across which run any part of a utility system for housing under the jurisdiction of the Secretary is authorized to grant to the Secretary, or to the purchasers or transferees of such housing, easements (which may be perpetual) on such land for utility purposes.
 
 (June 28, 1948, ch. 688, §2, 62 Stat. 1063; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
@@ -18,5 +18,5 @@ Section was not enacted as part of title II of act June 28, 1948, ch. 440, 54 St
 
 #### Transfer of Functions
 
-Functions of Public Housing Administration and Housing and Home Finance Agency (of which Public Housing Administration was a constituent agency) and of heads thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to section 3534(a) of this title. Section 9(c) of such act, set out as a note under section 3531 of this title, provided that referencesto Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
+Functions of Public Housing Administration and Housing and Home Finance Agency (of which Public Housing Administration was a constituent agency) and of heads thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to section 3534(a) of this title. Section 9(c) of such act, set out as a note under section 3531 of this title, provided that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency and Public Housing Administration have lapsed.
 

@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(2) the use of large-scale driftnets is expanding into new regions of the world's oceans, including the Atlantic Ocean and Caribbean Sea;
 
-&emsp;(3) there is a pressing need for detailed and reliable information on the number of seabirds, sea turtles, nontarget fish, and marine mammals that become entangled and die inactively fished large-scale driftnets and in large-scale driftnets that are lost, abandoned, or discarded;
+&emsp;(3) there is a pressing need for detailed and reliable information on the number of seabirds, sea turtles, nontarget fish, and marine mammals that become entangled and die in actively fished large-scale driftnets and in large-scale driftnets that are lost, abandoned, or discarded;
 
 &emsp;(4) increased efforts, including reliable observer data and enforcement mechanisms, are needed to monitor, assess, control, and reduce the adverse impact of large-scale driftnet fishing on living marine resources;
 
@@ -40,7 +40,7 @@ The Secretary, through the Secretary of State and the Secretary of the departmen
 
 &emsp;(2) each large-scale driftnet fishing vessel of a foreign nation that is party to the agreement, which operates beyond the exclusive economic zone of any nation, is equipped with satellite transmitters which provide real-time position information accessible to the United States;
 
-&emsp;(3) statistically reliable monitoring by the United States is carried out, through the use of on-board observers or through dedicated platforms provided by foreign nations that are parties to the agreement, of all target and nontarget fish species, marine mammals, sea turtles, and sea birds entangled or killed by large-scale driftnets used by fishing vessels of foreign nations that are parties to the agreement;
+&emsp;(3) statistically reliable monitoring by the United States is carried out, through the useof on-board observers or through dedicated platforms provided by foreign nations that are parties to the agreement, of all target and nontarget fish species, marine mammals, sea turtles, and sea birds entangled or killed by large-scale driftnets used by fishing vessels of foreign nations that are parties to the agreement;
 
 &emsp;(4) officials of the United States have the right to board and inspect for violations of the agreement any large-scale driftnet fishing vessels operating under the flag of a foreign nation that is party to the agreement at any time while such vessel is operating in designated areas beyond the exclusive economic zone of any nation;
 
@@ -66,7 +66,7 @@ Not later than January 1, 1991, and every year thereafter until the purposes of 
 
 &emsp;(3) containing a list and description of any new fisheries developed by nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation; and
 
-&emsp;(4) containing a list of the nations that conduct, or authorize their nationals to conduct,large-scale driftnet fishing beyond the exclusive economic zone of any nation in a manner that diminishes the effectiveness of or is inconsistent with any international agreement governing large-scale driftnet fishing to which the United States is a party or otherwise subscribes.
+&emsp;(4) containing a list of the nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation in a manner that diminishes the effectiveness of or is inconsistent with any international agreement governing large-scale driftnet fishing to which the United States is a party or otherwise subscribes.
 
 #### (f) Certification
 
@@ -104,5 +104,5 @@ Subsec. (f). Pub. L. 104–297, §105(f)(2), substituted “subsection (e)(4) of
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiontransferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

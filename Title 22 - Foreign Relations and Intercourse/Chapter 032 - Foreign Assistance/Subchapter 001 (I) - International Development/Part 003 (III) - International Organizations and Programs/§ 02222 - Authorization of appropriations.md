@@ -102,7 +102,7 @@ Subsec. (a)(3). Pub. L. 97–113 struck out par. (3) which prohibited, for fisca
 
 1979—Subsec. (a)(1). Pub. L. 96–53 substituted provisions authorizing appropriations of $267,280,000 for fiscal year 1980, for provisions authorizing appropriations of $285,450,000 for fiscal year 1979 and provisions respecting availability of funds for United Nations Trust Fund on South Africa, and the Namibia Institute, and availability of appropriations for fiscal year 1978.
 
-1978—Subsec. (a)(1). Pub. L. 95–424, §117(a), (b)(1), substituted “$285,450,000 for the fiscal year 1979 of which not to exceed $300,000 shall be available for contributions to the United Nations Trust Fund on South Africa” for “for the fiscal year 1977, $219,900,000 and for the fiscal year 1978, $252,000,000”; substituted “fiscal year 1978, not to exceed $52,000,000” for “fiscal year 1978, not to exceed $42,500,000”, and inserted provision relating to voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
+1978—Subsec. (a)(1). Pub. L. 95–424, §117(a), (b)(1), substituted “$285,450,000 for the fiscal year 1979 of whichnot to exceed $300,000 shall be available for contributions to the United Nations Trust Fund on South Africa” for “for the fiscal year 1977, $219,900,000 and for the fiscal year 1978, $252,000,000”; substituted “fiscal year 1978, not to exceed $52,000,000” for “fiscal year 1978, not to exceed $42,500,000”, and inserted provision relating to voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
 
 Subsec. (a)(3). Pub. L. 95–424, §117(c), added par. (3).
 

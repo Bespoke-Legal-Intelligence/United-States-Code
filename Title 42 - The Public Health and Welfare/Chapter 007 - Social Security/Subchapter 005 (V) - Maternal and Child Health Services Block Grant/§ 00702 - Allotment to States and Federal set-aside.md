@@ -52,7 +52,7 @@ From the remaining amounts appropriated under section 701(a) of this title for a
 
 #### Prior Provisions
 
-A prior section 702, act Aug. 14, 1935, ch. 531, title V, §502, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 921; amended July 10, 1972, Pub. L. 92–345, §1, 86 Stat. 456; July 1, 1973, Pub. L. 93–53, §4(a)(1), (2), 87 Stat. 135, prescribed purposes for which funds were available,prior to the general revision of this subchapter by section 2192(a) of Pub. L. 97–35. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
+A prior section 702, act Aug. 14, 1935, ch. 531, title V, §502, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 921; amended July 10, 1972, Pub. L. 92–345, §1, 86 Stat. 456; July 1, 1973, Pub. L. 93–53, §4(a)(1), (2), 87 Stat. 135, prescribed purposes for which funds were available, prior to the general revision of this subchapter by section 2192(a) of Pub. L. 97–35. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
 Another prior section 702, acts Aug. 14, 1935, ch. 531, title V, §502, 49 Stat. 629; Aug. 10, 1939, ch. 666, title V, §502, 53 Stat. 1380; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §401(b)(2), (3), 60 Stat. 986; Aug. 28, 1950, ch. 809, title III, pt. 3, §331(b), pt. 6, §361(e), 64 Stat. 551, 558; Aug. 28, 1958, Pub. L. 85–840, title VI, §602(b), (c), 72 Stat. 1055; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(a)(1)(B), (C), (b)(1)(A), 74 Stat. 995, 996; Oct. 24, 1963, Pub. L. 88–156, §2(b), (c), 77 Stat. 273, provided for allotment to States for maternal and child health services, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 703 of this title.
 
@@ -64,7 +64,7 @@ Subsec. (a)(3). Pub. L. 101–239, §6502(a)(2), inserted “or subsection (b) o
 
 Subsec. (b). Pub. L. 101–239, §6502(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 101–239, §6503(c)(4), which directed amendment of subsec. (b) by substituting “705(a)” for “705”, was executed to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of former subsec. (b) as (c) by Pub. L. 101–239, §6502(a)(3), see below.
+Subsec. (c). Pub. L. 101–239, §6503(c)(4), which directed amendment of subsec. (b) by substituting “705(a)” for“705”, was executed to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of former subsec. (b) as (c) by Pub. L. 101–239, §6502(a)(3), see below.
 
 Pub. L. 101–239, §6503(c)(1), substituted “an application” for “a description of intended activities and statement of assurances” in introductory provisions.
 

@@ -18,7 +18,7 @@ For purposes of subsection (a)—
 
 #### (2) Certain factors not taken into account with respect to meals
 
-&emsp;In determining whether meals are furnished for the convenience of the employer, the fact that a charge is made for such meals, and the fact that the employee may accept or decline such meals, shall not be taken into account.
+&emsp;In determining whether meals are furnished for the convenience of the employer, the factthat a charge is made for such meals, and the fact that the employee may accept or decline such meals, shall not be taken into account.
 
 #### (3) Certain fixed charges for meals
 
@@ -42,7 +42,7 @@ For purposes of subsection (a)—
 
 #### (4) Meals furnished to employees on business premises where meals of most employees are otherwise excludable
 
-&emsp;All meals furnished on the business premises of an employer to such employer's employeesshall be treated as furnished for the convenience of the employer if, without regard to this paragraph, more than half of the employees to whom such meals are furnished on such premises are furnished such meals for the convenience of the employer.
+&emsp;All meals furnished on the business premises of an employer to such employer's employees shall be treated as furnished for the convenience of the employer if, without regard to this paragraph, more than half of the employees to whom such meals are furnished on such premises are furnished such meals for the convenience of the employer.
 
 #### (c) Employees living in certain camps
 
@@ -132,7 +132,7 @@ Educational institution.—For purposes of this paragraph, the term ‘education
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–222 struck out “General rule” in subsec. (a) as in effect on the day before the date of enactment of the Foreign Earned Income Act of 1978 to correct a legislative oversight in the amendment of subsec. (a) of this section by section 205 of Pub. L. 95–615. The amendment by Pub. L. 95–615, however, was executed without reference to “General rule” as the probable intent of Congress, thereby requiring no change in text.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–615 designated existing provisions as subsec. (a), added subsec. (a) heading, andsubstituted “furnished to him, his spouse, or any of his dependents by or on behalf of his employer for the convenience of the employer” for “furnished to him by his employer for the convenience of the employer”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–615 designated existing provisions as subsec. (a), added subsec. (a) heading, and substituted “furnished to him, his spouse, or any of his dependents by or on behalf of his employer for the convenience of the employer” for “furnished to him by his employer for the convenience of the employer”.
 
 Pub. L. 95–427 inserted provisions relating to factors not taken into account with respect to meals and certain fixed charges for meals.
 
@@ -214,7 +214,7 @@ Limitation on Deduction.—If any individual receives a subsistence allowance wh
 
 “(e)
 
-Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or before April 15, 1979, by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979.”
+Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or before April 15, 1979, by the operation of any law or rule of law\(including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979.”
 
 #### Section Referred to in Other Sections
 

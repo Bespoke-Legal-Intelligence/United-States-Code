@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 450a–1, 941h, 1645, 1683, 1809, 1812, 2001, 2008, 2212, 2411, 2501, 2505, 2506, 2508, 2802, 3207, 3302, 3304, 3305, 3322, 3325, 3613, 3614, 3711, 3731, 3803, 3905, 4101, 4103 of this title; title 7 sections 178g, 178h; title 12 section 1715z–13a; title 16 section 410ii–5; title 20 sections 969, 2327, 8034; title 23 sections 202, 204; title 29 section 2911; title 40 section 276d–3; title 42 sections 612, 1471, 1490p–2, 5302, 11432; title 43 section 1600<i>l.</i>
+This subchapter is referred to in sections 450a–1, 941h, 1645, 1683, 1809, 1812, 2001, 2006, 2008, 2212, 2411, 2501, 2502, 2504, 2505, 2507, 2802, 3207, 3302, 3304, 3305, 3322, 3325, 3613, 3614, 3711, 3731, 3803, 3905, 4101, 4103 of this title; title 7 sections 178g, 178h; title 12 section 1715z–13a; title 16 section 410ii–5; title 20 sections 969, 2327; title 23 sections 202, 204; title 29 section 2911; title 40 section 276d–3; title 42 sections 612, 1471, 1490p–2, 5302, 11432; title 43 section 1600<i>l.</i>
 
 
 ---

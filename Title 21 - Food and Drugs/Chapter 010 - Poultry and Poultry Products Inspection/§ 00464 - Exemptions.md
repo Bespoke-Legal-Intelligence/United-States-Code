@@ -82,7 +82,7 @@ Section 1016(c) of Pub. L. 102–237 provided that: “No later than August 1, 1
 
 #### Studies Concerning Grant of Future Exemptions for Poultry and Meat Food Products
 
-Section 1016(d) of Pub. L. 102–237 directed Secretary of Agriculture in consultation with National Academy of Sciences to conduct a study on meat food and poultry products inspection exemptions under Federal Meat Inspection Act and Poultry Products Inspection Act and a study on an exemption from requirements of such Acts for certain wholesale meat outlets selling to hotels and other similar institutional users not later than 24 months after Dec. 13, 1991, and on completion of each study to provide the results to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
+Section 1016(d) of Pub. L. 102–237 directed Secretary of Agriculture in consultation with National Academy of Sciences to conduct a study on meat food and poultry products inspection exemptions under Federal Meat Inspection Act and Poultry Products Inspection Act and a study on an exemption from requirements of such Acts for certain wholesale meat outlets selling to hotels and other similar institutional users not later than 24 months after Dec. 13, 1991, and on completion of eachstudy to provide the results to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
 
 #### Section Referred to in Other Sections
 

@@ -48,7 +48,7 @@ A copy of the complaint or notice of appeal in any action under this section sha
 
 #### (B) Special rule for plaintiffs who are fiduciaries
 
-&emsp;&emsp;In the case of a plaintiff who is a fiduciary bringing the action in the exercise of fiduciary duties, the applicable date specified inthis paragraph is the date on which the plaintiff became a fiduciary with respect to the plan if such date is later than the date described in subparagraph (A).
+&emsp;&emsp;In the case of a plaintiff who is a fiduciary bringing the action in the exercise of fiduciary duties, the applicable date specified in this paragraph is the date on which the plaintiff became a fiduciary with respect to the plan if such date is later than the date described in subparagraph (A).
 
 #### (3) Cases of fraud or concealment
 

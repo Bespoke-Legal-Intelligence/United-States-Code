@@ -44,7 +44,7 @@ Pub. L. 97–248, §271(b)(2)(C), substituted “0.8” for “0.7”.
 
 Pub. L. 94–455, §1906(a)(11)(B), (b)(13)(A), substituted “subsection (c)” for “subsections (c) and (d)” and struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–566, §211(e)(3) \[(c)(3)\], substituted “In the case of wages paid in any calendar quarter or other period during a calendar year to which paragraph (1) of section 3301 applies, the amount of such wages shall be multiplied by 0.7 percent in lieu of 0.5 percent” for “In the case of wages paid in any calendar quarter or other period during 1973, the amount of such wages shall be multiplied by 0.58 percent in lieu of 0.5 percent”.
+Subsec. (b). Pub. L. 94–566, §211(e)(3) \[(c)(3)\], substituted “In the case of wages paid in any calendar quarter or other period during a calendar year to which paragraph (1) of section 3301 applies, the amount of such wages shall be multiplied by 0.7 percent in lieu of0.5 percent” for “In the case of wages paid in any calendar quarter or other period during 1973, the amount of such wages shall be multiplied by 0.58 percent in lieu of 0.5 percent”.
 
 Subsecs. (c), (d). Pub. L. 94–455, §1906(a)(11)(A), redesignated subsec. (d) as (c). Former subsec. (c), which related to the percentage reduction for 1970 and 1971 of the tax computed in subsec. (b), was struck out.
 

@@ -20,15 +20,11 @@ The Director of National Institutes of Health, in cooperation with the Directors
 
 The Director of National Institutes of Health shall establish peer review mechanisms to evaluate applications for the awards and fellowships provided for in subsection (b)(2) of this section and section 284<i>l</i> of this title. Such review mechanisms shall include individuals who are exceptionally qualified to appraise the merits of potential clinical research training and research grant proposals.
 
-(July 1, 1944, ch. 373, title IV, §409C, as added Pub. L. 106–505, title II, §203, Nov. 13, 2000, 114 Stat. 2326.)
+(July 1, 1944, ch. 373, title IV, §409G, formerly §409C, as added Pub. L. 106–505, title II, §203, Nov. 13, 2000, 114 Stat. 2326; renumbered §409G, Pub. L. 107–109, §3(1), Jan. 4, 2002, 115 Stat. 1408.)
 
 #### References in Text
 
-Section 284<i>l</i> of this title, referred to in subsec. (d), was in the original “section 409D”, and was translated as meaning the section 409D of act July 1, 1944, ch. 373, as added by section 204(b) of Pub. L. 106–505, relating to enhancement awards, to reflect the probable intent of Congress. Another section 409D of act July 1, 1944, ch. 373 is classified to section 284h of this title.
-
-#### Codification
-
-Another section 409C of act July 1, 1944, is classified to section 284g of this title.
+Section 284<i>l</i> of this title, referred to in subsec. (d), was in the original “section 409D”, and was translated as meaning section 409D of act July 1, 1944, ch. 373, as added by section 204(b) of Pub. L. 106–505. Such section 409D was renumbered section 409H of act July 1, 1944, ch. 373, by Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408. Another section 409D of act July 1, 1944, ch. 373, as added by section 1001 of Pub. L. 106–310, is classified to section 284h of this title.
 
 #### Findings and Purpose
 
@@ -72,7 +68,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;“(E) The almost complete absence of clinical research training in the curriculum of training grant awardees.
 
-&emsp;&emsp;“(F) Academic Medical Centers are experiencing difficulties in maintaining a proper environment for research in a highly competitive health care marketplace, which are compounded by the decreased willingness of third party payers to cover health care costs for patients engaged in research studies and research procedures.
+&emsp;&emsp;“(F) Academic Medical Centers are experiencing difficulties in maintaining a proper environmentfor research in a highly competitive health care marketplace, which are compounded by the decreased willingness of third party payers to cover health care costs for patients engaged in research studies and research procedures.
 
 &emsp;“(10) In 1960, general clinical research centers were established under the Office of the Director of the National Institutes of Health with an initial appropriation of $3,000,000.
 
@@ -88,5 +84,5 @@ Purpose.—It is the purpose of this title \[see Short Title of 2000 Amendments 
 
 #### Oversight by General Accounting Office
 
-Pub. L. 106–505, title II, §207, Nov. 13, 2000, 114 Stat. 2330, provided that: “Not later than 18 months after the date of the enactment of this Act\[Nov. 13, 2000\], the Comptroller General of the United States shall submit to the Congress a reporting \[sic\] describing the extent to which the National Institutes of Health has complied with the amendments made by this title \[see Short Title of 2000 Amendments note set out under section 201 of this title\].”
+Pub. L. 106–505, title II, §207, Nov. 13, 2000, 114 Stat. 2330, provided that: “Not later than 18 months after the date of the enactment of this Act \[Nov. 13, 2000\], the Comptroller General of the United States shall submit to the Congress a reporting \[sic\] describing the extent to which the National Institutes of Health has complied with the amendments made by this title \[see Short Title of 2000 Amendments note set out under section 201 of this title\].”
 

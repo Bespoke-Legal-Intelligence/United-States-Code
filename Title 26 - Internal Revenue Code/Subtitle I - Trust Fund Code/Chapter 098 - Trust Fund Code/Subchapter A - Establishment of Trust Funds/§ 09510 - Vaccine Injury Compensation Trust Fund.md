@@ -112,7 +112,7 @@ Section 7841(g)(2) of Pub. L. 101–239 provided that: “The amendment made by 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective as if included in the amendments made by section 9201 of the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, see section 2006(c) of Pub. L. 100–647, set out as a note under section 4132 of this title.
+Amendment by Pub. L. 100–647 effective as if included in the amendments made by section 9201 of the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203,see section 2006(c) of Pub. L. 100–647, set out as a note under section 4132 of this title.
 
 #### Effective Date
 

@@ -18,7 +18,7 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 
 #### (2) Transition standard
 
-&emsp;Before the date occurring 12 months after the date of the effectiveness of the regulations under section 4611(e) of this title establishing the risk-based capital test, the Secretary shall approve any new program of an enterprise for purposes of subsection (a) of this section unless—
+&emsp;Before the date occurring 12 months after the date of the effectiveness of the regulationsunder section 4611(e) of this title establishing the risk-based capital test, the Secretary shall approve any new program of an enterprise for purposes of subsection (a) of this section unless—
 
 &emsp;&emsp;(A) The <sup>1</sup> Secretary makes a determination as described in paragraph (1)(A), (B), or (C); or
 
@@ -28,7 +28,7 @@ The Secretary shall require each enterprise to obtain the approval of the Secret
 
 #### (1) Submission of request
 
-&emsp;To obtain the approval of the Secretary for purposes of subsection (a) of this section, anenterprise shall submit to the Secretary a written request for approval of the new program that describes the program.
+&emsp;To obtain the approval of the Secretary for purposes of subsection (a) of this section, an enterprise shall submit to the Secretary a written request for approval of the new program that describes the program.
 
 #### (2) Response
 

@@ -6,7 +6,7 @@ The Commission shall have authority from time to time to make, issue, amend, and
 
 #### (b) Rules and regulations effective upon publication
 
-Subject to the provisions of chapter 15 of title 44 and regulations prescribed under the authority thereof, the rules and regulations of theCommission under this subchapter shall be effective upon publication in the manner which the Commission shall prescribe, or upon such later date as may be provided in such rules and regulations.
+Subject to the provisions of chapter 15 of title 44 and regulations prescribed under the authority thereof, the rules and regulations of the Commission under this subchapter shall be effective upon publication in the manner which the Commission shall prescribe, or upon such later date as may be provided in such rules and regulations.
 
 #### (c) Exemption from liability for any acts taken in good faith in conformity with rules, etc.
 

@@ -62,5 +62,5 @@ Ex. Ord. No. 11191, Jan. 4, 1965, 30 F.R. 29, as amended by Ex. Ord. No. 11556, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 735, 765d, 902 of this title.
+This section is referred to in sections 765d, 902 of this title.
 

@@ -12,7 +12,7 @@ On or after November 13, 1998, a concessioner that constructs a capital improvem
 
 &emsp;&emsp;(B) shall be transferred by the concessioner in connection with any transfer of the concessions contract and may be relinquished or waived by the concessioner; and
 
-&emsp;&emsp;(C) shall not be extinguished by the expiration or other termination of a concessionscontract and may not be taken for public use except on payment of just compensation.
+&emsp;&emsp;(C) shall not be extinguished by the expiration or other termination of a concessions contract and may not be taken for public use except on payment of just compensation.
 
 &emsp;(3) The value of a leasehold surrender interest in a capital improvement shall be an amount equal to the initial value (construction cost of the capital improvement), increased (or decreased) in the same percentage increase (or decrease) as the percentage increase (or decrease) in the Consumer Price Index, from the date of making the investment in the capital improvement by the concessioner to the date of payment of the value of the leasehold surrender interest, less depreciation of the capital improvement as evidenced by the condition and prospective serviceability in comparison with a new unit of like kind.
 

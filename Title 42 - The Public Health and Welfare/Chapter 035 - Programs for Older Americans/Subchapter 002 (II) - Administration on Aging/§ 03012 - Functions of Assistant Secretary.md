@@ -124,7 +124,7 @@ In order to strengthen the involvement of the Administration in the development 
 
 #### (c) Encouragement by Assistant Secretary of program and activity by voluntary social services group
 
-In executing the duties and functions of the Administration under this chapter and carryingout the programs and activities provided for by this chapter, the Assistant Secretary, in consultation with the Corporation for National and Community Service, shall take all possible steps to encourage and permit voluntary groups active in supportive services, including youth organizations active at the high school or college levels, to participate and be involved individually or through representative groups in such programs or activities to the maximum extent feasible, through the performance of advisory or consultative functions, and in other appropriate ways.
+In executing the duties and functions of the Administration under this chapter and carrying out the programs and activities provided for by this chapter, the Assistant Secretary, in consultation with the Corporation for National and Community Service, shall take all possible steps to encourage and permit voluntary groups active in supportive services, including youth organizations active at the high school or college levels, to participate and be involved individually or through representative groups in such programs or activities to the maximum extent feasible, through the performance of advisory or consultative functions, and in other appropriate ways.
 
 #### (d) National Center on Elder Abuse
 
@@ -256,7 +256,7 @@ Subsec. (a)(17). Pub. L. 106–501, §201(1)(B), redesignated par. (20) as (17).
 
 Subsec. (a)(18). Pub. L. 106–501, §201(1)(B), (D), redesignated par. (21) as (18) and substituted “2000” for “1990” in subpar. (B). Former par. (18) redesignated (15).
 
-Subsec. (a)(19). Pub. L. 106–501, §201(1)(E), added par. (19) and struck out former par. (19) which directed theAdministration to issue regulations, and conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships, and to include in such regulations certain conditions for being designated as an area agency on aging.
+Subsec. (a)(19). Pub. L. 106–501, §201(1)(E), added par. (19) and struck out former par. (19) which directed the Administration to issue regulations, and conduct strict monitoring of State compliance with the requirements in effect, under this chapter to prohibit conflicts of interest and to maintain the integrity and public purpose of services provided and service providers, under this chapter in all contractual and commercial relationships, and to include in such regulations certain conditions for being designated as an area agency on aging.
 
 Pub. L. 106–501, §201(1)(B), redesignated par. (22) as (19). Former par. (19) redesignated (16).
 

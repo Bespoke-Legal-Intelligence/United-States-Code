@@ -44,7 +44,7 @@ Nomination and appointment of Secretary of Housing and Urban Development any tim
 
 #### Order of Succession
 
-For order of succession in event of vacancy in office of Secretary, or during his absence or disability, see Ex. Ord. No. 11274, Mar. 30, 1966, 31 F.R. 5243, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Housing and Urban Development are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13243, Dec. 18, 2001, 66 F.R. 66262, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Office of Lead Based Paint Abatement and Poisoning Prevention
 
@@ -92,7 +92,7 @@ Section 1. <i>Functions of the Secretary of Housing and Urban Development</i>. (
 
 Section 2. <i>Agency responsibilities</i>. The heads of Federal departments and agencies have programs which have an impact on urban areas, or representatives designated by them, shall participate in meetings convened pursuant to this Order and, to the extent permitted by law and funds available, shall furnish information, at the request of the Secretary, pertaining to programs within the responsibilities of such departments or agencies, and such additional information as will assist the Secretary in providing a clearinghouse service to aid State and local governments in developing solutions to community and metropolitan development problems.
 
-Section 3. <i>Construction</i>. Nothing in this Order shall be construed as subjecting any function vested by law in, or assigned pursuant to law to, any Federal department or agency or head thereof to the authority of any other agency or officer or as abrogating or restricting any such function in any manner.
+Section 3. <i>Construction</i>. Nothing in this Order shall be construed as subjecting any function vested by law in,or assigned pursuant to law to, any Federal department or agency or head thereof to the authority of any other agency or officer or as abrogating or restricting any such function in any manner.
 
 Section 4. <i>Administrative arrangements</i>. (a) Each executive department and agency participating under section 1 or section 2 shall furnish necessary assistance for effectuating the provisions of this Order as authorized by section 214 of the Act of May 3, 1945, 59 Stat. 134 (31 U.S.C. 691) \[31 U.S.C. 1346(b)\].
 

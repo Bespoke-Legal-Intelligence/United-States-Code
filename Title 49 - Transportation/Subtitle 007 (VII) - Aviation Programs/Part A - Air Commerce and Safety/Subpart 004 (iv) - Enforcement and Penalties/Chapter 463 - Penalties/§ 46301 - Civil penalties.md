@@ -34,7 +34,7 @@ General Penalty.—(1) A person is liable to the United States Government for a 
 
 (5)
 
-Penalty for diversion of aviation revenues.—The amount of a civil penalty assessed under this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
+Penalty for diversion of aviation revenues.—The amount of a civil penalty assessedunder this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
 
 (6)
 
@@ -76,11 +76,11 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(D) “repairman” means an individual who holds a repairman certificate issued under part 65 of title 14, Code of Federal Regulations.
 
-(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909), or section 46301(b), 46302, 46303, 46318, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Administrator shall give written notice of the finding of a violation and the penalty.
+(2) The Administrator of the Federal Aviation Administration may impose a civil penalty for a violation of chapter 401 (except sections 40103(a) and (d), 40105, 40106(b), 40116, and 40117), chapter 441 (except section 44109), section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723) or section 46301(b), 46302, 46303, 46318, or 47107(b) (as further defined by the Secretary under section 47107(<i>l</i>) and including any assurance made under section 47107(b)) of this title or a regulation prescribed or order issued under any of those provisions. The Under Secretary of Transportation for Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909) or a regulation prescribed or order issued under such chapter 449. The Under Secretary or Administrator shall give written notice of the finding of a violation and the penalty.
 
-(3) In a civil action to collect a civil penalty imposed by the Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
+(3) In a civil action to collect a civil penalty imposed by the Under Secretary or Administrator under this subsection, the issues of liability and the amount of the penalty may not be reexamined.
 
-(4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Administrator initiates if—
+(4) Notwithstanding paragraph (2) of this subsection, the district courts of the United States have exclusive jurisdiction of a civil action involving a penalty the Under Secretary or Administrator initiates if—
 
 &emsp;(A) the amount in controversy is more than $50,000;
 
@@ -94,11 +94,11 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 (B) An individual acting as a pilot, flight engineer, mechanic, or repairman may appeal an order imposing a penalty under this subsection to the National Transportation Safety Board. After notice and an opportunity for a hearing on the record, the Board shall affirm, modify, or reverse the order. The Board may modify a civil penalty imposed to a suspension or revocation of a certificate.
 
-(C) When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to thepublic related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
+(C) When conducting a hearing under this paragraph, the Board is not bound by findings of fact of the Administrator but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law.
 
 (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator is stayed.
 
-(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Boardunder paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (7)(A) The Administrator may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
 
@@ -120,7 +120,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 &emsp;(iii) judicial review of any order assessing a civil penalty may be obtained only pursuant to section 46110 of this title.
 
-(8) The maximum civil penalty the Administrator or Board may impose under this subsection is $50,000.
+(8) The maximum civil penalty the Under Secretary, Administrator, or Board may impose under this subsection is $50,000.
 
 (9) This subsection applies only to a violation occurring after August 25, 1992.
 
@@ -158,9 +158,9 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 &emsp;(B) a civilian employee of the Department of Defense subject to the Uniform Code of Military Justice.
 
-(2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
+(2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642.)
 
 Historical and Revision Notes
 
@@ -345,6 +345,18 @@ These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the
 Section 41715, referred to in subsec. (a)(4), (6), was renumbered section 41719 of this title and a new section 41715 of this title was enacted by Pub. L. 106–181, title II, §231(b), Apr. 5, 2000, 114 Stat. 108.
 
 #### Amendments
+
+2001—Subsec. (d)(2). Pub. L. 107–71, §140(d)(1)(C), inserted “Under Secretary or” before “Administrator shall”.
+
+Pub. L. 107–71, §140(d)(1)(B), inserted after first sentence “The Under Secretary of Transportation for Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909) or a regulation prescribed or order issued under such chapter 449.”
+
+Pub. L. 107–71, §140(d)(1)(A), which directed amendment of subsec. (d)(2) by striking out “, chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909),”, was executed by striking out “, chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909),” before “or section 46301(b)”, to reflect the probable intent of Congress.
+
+Subsec. (d)(3), (4). Pub. L. 107–71, §140(d)(2), substituted “Under Secretary or Administrator” for “Administrator”.
+
+Subsec. (d)(8). Pub. L. 107–71, §140(d)(3), substituted “Under Secretary, Administrator,” for “Administrator”.
+
+Subsec. (h)(2). Pub. L. 107–71, §140(d)(4), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 2000—Subsec. (a)(1)(A). Pub. L. 106–181, §§519(c), 720(1), substituted “subchapter II or III of chapter 421” for “subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
 

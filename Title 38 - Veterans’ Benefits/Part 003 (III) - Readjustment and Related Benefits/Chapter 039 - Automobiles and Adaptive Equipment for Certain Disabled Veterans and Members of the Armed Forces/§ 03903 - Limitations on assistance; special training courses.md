@@ -48,7 +48,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 1981—Subsec. (b). Pub. L. 97–66 substituted “the Administrator shall prescribe” for “he shall prescribe” and “such person's” for “his” in two places.
 
-1976—Subsec. (e)(1). Pub. L. 94–581, §108(1), substituted “any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined” for “any veteran or member of the Armed Forces, eligible for care under chapter 17 of this title, who is determined”.
+1976—Subsec. (e)(1). Pub. L. 94–581, §108(1), substituted “any veteran, eligible for care under chapter 17 of thistitle or member of the Armed Forces, who is determined” for “any veteran or member of the Armed Forces, eligible for care under chapter 17 of this title, who is determined”.
 
 Subsec. (e)(3). Pub. L. 94–581, §108(2), added par. (3).
 

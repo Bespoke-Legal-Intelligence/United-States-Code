@@ -4,7 +4,7 @@
 
 Except as provided in subsection (d) of this section, the Secretary may make loan deficiency payments available to—
 
-&emsp;(1) producers who, although eligible to obtain a marketing assistance loan under section 7231 of this title with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for payments under this section; and
+&emsp;(1) producers who, although eligible to obtain a marketing assistance loan under section 7231 of this title with respect to a loan commodity, agree to forgo obtaining the loanfor the commodity in return for payments under this section; and
 
 &emsp;(2) effective only for the 2000 crop year, producers that, although not eligible to obtain such a marketing assistance loan under section 7231 of this title, produce a contract commodity.
 

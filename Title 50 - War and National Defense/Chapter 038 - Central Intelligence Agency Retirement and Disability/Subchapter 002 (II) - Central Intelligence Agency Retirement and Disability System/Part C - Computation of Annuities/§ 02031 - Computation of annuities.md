@@ -134,7 +134,7 @@
 
 #### (4) Reductions in annuity
 
-&emsp;An annuity that is reduced in connection with an election under this subsection shall be reduced by the same percentage reductions as were in effect at the time of the retirement of the participant or former participant whose annuity is so reduced.
+&emsp;An annuity that is reduced in connection with an election under this subsection shall bereduced by the same percentage reductions as were in effect at the time of the retirement of the participant or former participant whose annuity is so reduced.
 
 #### (5) Rights and obligations resulting from reduced annuity election
 
@@ -202,7 +202,7 @@
 
 #### (A) Authority to make designation
 
-&emsp;&emsp;Subject to the rights of former spouses under subsection (b) of this section and section 2032 of this title, at the time of retirement an unmarried participant found by the Director to be in good health may elect to receive an annuity reduced in accordance with subparagraph (B) and designate in writing an individual having an insurable interest in the participant to receive an annuity under the system after the participant's death. The amount of such an annuity shall be equal to 55 percent of the participant's reduced annuity.
+&emsp;&emsp;Subject to the rights of former spouses under subsection (b) of this section and section 2032 of this title, at the time of retirement an unmarried participant found by the Director to be in good health may elect to receive an annuity reduced in accordancewith subparagraph (B) and designate in writing an individual having an insurable interest in the participant to receive an annuity under the system after the participant's death. The amount of such an annuity shall be equal to 55 percent of the participant's reduced annuity.
 
 #### (B) Reduction in participant's annuity
 
@@ -240,7 +240,7 @@
 
 #### (ii) Deposit required
 
-&emsp;&emsp;&emsp;(I) The retired participant shall, within one year after the date of the remarriage (or by August 14, 1993 for any remarriagethat occurred before August 14, 1991), deposit in the fund an amount determined by the Director, as nearly as may be administratively feasible, to reflect the amount by which the retired participant's annuity would have been reduced if the election had been in effect since the date the annuity commenced, plus interest.
+&emsp;&emsp;&emsp;(I) The retired participant shall, within one year after the date of the remarriage (or by August 14, 1993 for any remarriage that occurred before August 14, 1991), deposit in the fund an amount determined by the Director, as nearly as may be administratively feasible, to reflect the amount by which the retired participant's annuity would have been reduced if the election had been in effect since the date the annuity commenced, plus interest.
 
 &emsp;&emsp;&emsp;(II) The annual rate of interest for each year during which the retired participant's annuity would have been reduced if the election had been in effect since the date the annuity commenced shall be 6 percent.
 
@@ -256,7 +256,7 @@
 
 #### (1) Surviving spouse
 
-&emsp;A surviving spouse whose survivor annuity was terminated because of remarriage before attaining age 55 shall not be entitled under subsection (b)(3)(C) of this section to the restoration of that survivor annuity payable from the fund unless the surviving spouse elects to receive it instead of any other survivor annuity to which the surviving spouse may be entitled under the system or any other retirement system for Government employees by reason of the remarriage.
+&emsp;A surviving spouse whose survivor annuity was terminated because of remarriage before attaining age 55 shall not be entitled under subsection (b)(3)(C) of this section to the restoration of that survivor annuity payable from the fund unless the surviving spouse elects toreceive it instead of any other survivor annuity to which the surviving spouse may be entitled under the system or any other retirement system for Government employees by reason of the remarriage.
 
 #### (2) Former spouse
 

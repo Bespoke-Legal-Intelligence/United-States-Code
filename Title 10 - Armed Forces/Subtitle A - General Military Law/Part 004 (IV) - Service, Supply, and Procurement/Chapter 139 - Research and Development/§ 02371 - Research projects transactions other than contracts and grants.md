@@ -56,13 +56,13 @@ Annual Report.—(1) Not later than 90 days after the end of each fiscal year, t
 
 &emsp;&emsp;(ii) has fostered within the technology and industrial base new relationships and practices that support the national security of the United States.
 
-&emsp;(D) The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection (d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
+&emsp;(D) The total amount of payments, if any, that were received by the Federal Government during the fiscal year covered by the report pursuant to a clause described in subsection\(d) that was included in the cooperative agreements and other transactions, and the amount of such payments, if any, that were credited to each account established under subsection (f).
 
 (i)
 
 Protection of Certain Information From Disclosure.—(1) Disclosure of information described in paragraph (2) is not required, and may not be compelled, under section 552 of title 5 for five years after the date on which the information is received by the Department of Defense.
 
-(2)(A) Paragraph (1) applies to information described in subparagraph (B) that is in the records of the Department of Defense if the information was submitted to the Department in acompetitive or noncompetitive process having the potential for resulting in an award, to the party submitting the information, of a cooperative agreement for performance of basic, applied, or advanced research authorized by section 2358 of this title or another transaction authorized by subsection (a).
+(2)(A) Paragraph (1) applies to information described in subparagraph (B) that is in the records of the Department of Defense if the information was submitted to the Department in a competitive or noncompetitive process having the potential for resulting in an award, to the party submitting the information, of a cooperative agreement for performance of basic, applied, or advanced research authorized by section 2358 of this title or another transaction authorized by subsection (a).
 
 (B) The information referred to in subparagraph (A) is the following:
 
@@ -118,7 +118,7 @@ Subsec. (b). Pub. L. 103–160, §827(b)(1)(B), redesignated subsec. (c) as (b).
 
 Subsec. (c). Pub. L. 103–160, §827(b)(1)(B), (2)(A), redesignated subsec. (d) as (c) and inserted “and development” after “research” in two places in par. (1). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 103–160, §827(b)(1)(B), (D), (2)(B), redesignated subsec. (e), as amended by Pub. L. 103–160, §1182(a)(6), (h), as (d) and substituted “section 2358 of this title” for “subsection (a)” and “research and development” for “advanced research”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 103–160, §827(b)(1)(B), (D), (2)(B), redesignated subsec. (e), as amended by Pub. L. 103–160, §1182(a)(6), (h), as (d) and substituted “section 2358 ofthis title” for “subsection (a)” and “research and development” for “advanced research”. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 103–160, §827(b)(1)(B), (E), (2)(B), (C), redesignated subsec. (f) as (e), in par. (1) substituted “research and development are” for “advanced research is”, in par. (3) substituted “research and development” for “advanced research”, in par. (4) substituted “subsection (a)” for “subsection (b)”, and in par. (5) substituted “subsection (d)” for “subsection (e)”. Former subsec. (e) redesignated (d).
 
@@ -156,7 +156,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Authority of Defense Advanced Research Projects Agency To Carry Out Certain Prototype Projects
 
-Section 845 of Pub. L. 103–160, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206, provided that:
+Pub. L. 103–160, div. A, title VIII, §845, Nov. 30, 1993, 107 Stat. 1721, as amended by Pub. L. 104–201, div. A, title VIII, §804, title X, §1073(e)(1)(D), (2)(A), Sept. 23, 1996, 110 Stat. 2605, 2658; Pub. L. 105–261, div. A, title II, §241, Oct. 17, 1998, 112 Stat. 1954; Pub. L. 106–65, div. A, title VIII, §801, title X, §1066(d)(6), Oct. 5, 1999, 113 Stat. 700, 773; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§803, 804(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–206; Pub. L. 107–107, div. A, title VIII, §822, title X, §1048(i)(2), Dec. 28, 2001, 115 Stat. 1182, 1229, provided that:
 
 “(a)
 
@@ -192,11 +192,11 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 &emsp;&emsp;“(i) At least one third of the total cost of the prototype project is to be paid out of funds provided by parties to the transaction other than the Federal Government.
 
-&emsp;&emsp;“(ii) The senior procurement executive for the agency (as designated for the purposes of section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))\[)\] determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
+&emsp;&emsp;“(ii) The senior procurement executive for the agency (as designated for the purposes of section16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))) determines in writing that exceptional circumstances justify the use of a transaction that provides for innovative business arrangements or structures that would not be feasible or appropriate under a contract.
 
 “(2)(A) Except as provided in subparagraph (B), the amounts counted for the purposes of this subsection as being provided, or to be provided, by a party to a transaction with respect to a prototype project that is entered into under this section other than the Federal Government do not include costs that were incurred before the date on which the transaction becomes effective.
 
-“(B) Costs that were incurred for a prototype project by a party after the beginning of negotiations resulting in a transaction (other than a contract, grant, or cooperative agreement) with respect to the project before the date on which the transaction becomes effective may be counted for purposes of this subsection as beingprovided, or to be provided, by the party to the transaction if and to the extent that the official responsible for entering into the transaction determines in writing that—
+“(B) Costs that were incurred for a prototype project by a party after the beginning of negotiations resulting in a transaction (other than a contract, grant, or cooperative agreement) with respect to the project before the date on which the transaction becomes effective may be counted for purposes of this subsection as being provided, or to be provided, by the party to the transaction if and to the extent that the official responsible for entering into the transaction determines in writing that—
 
 &emsp;“(i) the party incurred the costs in anticipation of entering into the transaction; and
 
@@ -211,6 +211,20 @@ Nontraditional Defense Contractor Defined.—In this section, the term ‘nontra
 &emsp;“(2) any other contract in excess of $500,000 to carry out prototype projects or to perform basic, applied, or advanced research projects for a Federal agency, that is subject to the Federal Acquisition Regulation.
 
 “(f)
+
+Follow-On Production Contracts.—(1) A transaction entered into under this section for a prototype project that satisfies the conditions set forth in subsection (d)(1)(B)(i) may provide for the award of a follow-on production contract to the participants in the transaction for a specific number of units at specific target prices. The number of units specified in the transaction shall be determined on the basis of a balancing of the level of the investment made in the project by the participants other than the Federal Government with the interest of the Federal Government in having competition among sources in the acquisition of the product or products prototyped under the project.
+
+“(2) A follow-on production contract provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of section 2304 of title 10, United States Code, if—
+
+&emsp;“(A) competitive procedures were used for the selection of parties for participation in the transaction;
+
+&emsp;“(B) the participants in the transaction successfully completed the prototype project provided for in the transaction;
+
+&emsp;“(C) the number of units provided for in the follow-on production contract does not exceed the number of units specified in the transaction for such a follow-on production contract; and
+
+&emsp;“(D) the prices established in the follow-on production contract do not exceed the target prices specified in the transaction for such a follow-on production contract.
+
+“(g)
 
 Period of Authority.—The authority to carry out projects under subsection (a) shall terminate at the end of September 30, 2004.”
 

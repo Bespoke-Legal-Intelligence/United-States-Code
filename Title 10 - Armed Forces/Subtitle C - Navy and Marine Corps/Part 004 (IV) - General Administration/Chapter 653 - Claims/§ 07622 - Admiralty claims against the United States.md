@@ -1,6 +1,6 @@
 ### §7622. Admiralty claims against the United States
 
-(a) The Secretary of the Navy may settle, or compromise, and pay in an amount not more than $1,000,000 an admiralty claim against the United States for—
+(a) The Secretary of the Navy may settle, or compromise, and pay in an amount not more than $15,000,000 an admiralty claim against the United States for—
 
 &emsp;(1) damage caused by a vessel in the naval service or by other property under the jurisdiction of the Department of the Navy;
 
@@ -8,13 +8,13 @@
 
 &emsp;(3) damage caused by a maritime tort committed by any agent or employee of the Department of the Navy or by property under the jurisdiction of the Department of the Navy.
 
-(b) If a claim under this section is settled or compromised for more than $1,000,000, the Secretary shall certify it to Congress.
+(b) If a claim under this section is settled or compromised for more than $15,000,000, the Secretary shall certify it to Congress.
 
-(c) In any case where the amount to be paid is not more than $100,000, the Secretary may delegate his authority under this section to any person designated by him.
+(c) In any case where the amount to be paid is not more than $1,000,000, the Secretary may delegate his authority under this section to any person designated by him.
 
 (d) Upon acceptance of payment by the claimant, the settlement or compromise of a claim under this section is final and conclusive notwithstanding any other provision of law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 472; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, §1(5), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 472; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 92–417, §1(5), Aug. 29, 1972, 86 Stat. 654; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 107–107, div. A, title X, §1014(a), Dec. 28, 2001, 115 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -36,7 +36,7 @@ July 3, 1944, ch. 399, §7, 58 Stat. 726.
 
 July 3, 1944, ch. 399, §9; added Aug. 2, 1946, ch. 739, 60 Stat. 803.
 
-In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in §7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in §7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a net amount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
+In subsection (a) the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in §7621(b) of this title. The words “vessel in the naval service” are substituted for the words “vessels of the Navy or in the naval service”, in view of the definition in §7621(a) of this title. The words “pay in an amount not more than $1,000,000, a claim” are substituted for the words “pay the amount of any claim, so determined, compromised, or settled” and for the words “the payment of any claim on which a netamount exceeding $1,000,000 is determined to be due from the United States, or which is compromised or settled at a net amount exceeding $1,000,000 payable by the United States, shall not be authorized by this section”.
 
 In subsection (c) the words “In any case where the amount to be paid is not more than” are substituted for the words “When the net amount paid in settlement does not exceed” for clarity, since the delegation necessarily precedes payment. The words “the Secretary may delegate his authority” are substituted for the words “the authority of the Secretary of the Navy \* \* \* may be exercised by” for clarity.
 
@@ -46,9 +46,17 @@ The first proviso in 46 U.S.C. 797, stating that this section is supplementary t
 
 #### Amendments
 
+2001—Subsecs. (a), (b). Pub. L. 107–107, §1014(a)(1), substituted “$15,000,000” for “$1,000,000”.
+
+Subsec. (c). Pub. L. 107–107, §1014(a)(2), substituted “$1,000,000” for “$100,000”.
+
 1989—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
 
 1972—Subsec. (a). Pub. L. 92–417 substituted “an admiralty claim against the United States” for “a claim against the United States” in text preceding par. (1), in par. (1) inserted “or by other property under the jurisdiction of the Department of the Navy”, in par. (2) inserted “or to other property under the jurisdiction of the Department of the Navy”, and added par. (3).
 
 1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title X, §1014(c), Dec. 28, 2001, 115 Stat. 1212, provided that: “The amendments made by this section \[amending this section and section 7623 of this title\] shall apply with respect to any claim accruing on or after February 1, 2001.”
 

@@ -58,7 +58,7 @@ In this chapter—
 
 &emsp;&emsp;&emsp;(ii) under section 31305(a)(5) for the type of cargo the vehicle is carrying; and
 
-&emsp;&emsp;(G) any other similar violation of a State or local law on motor vehicle traffic control\(except a parking violation) that the Secretary designates by regulation as serious.
+&emsp;&emsp;(G) any other similar violation of a State or local law on motor vehicle traffic control (except a parking violation) that the Secretary designates by regulation as serious.
 
 &emsp;(13) “State” means a State of the United States and the District of Columbia.
 

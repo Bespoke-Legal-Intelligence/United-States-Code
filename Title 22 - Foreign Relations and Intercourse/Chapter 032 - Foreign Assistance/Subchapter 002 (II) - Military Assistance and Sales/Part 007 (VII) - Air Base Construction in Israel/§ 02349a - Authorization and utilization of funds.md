@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriation
 
-There is authorized to be appropriated to the President to carry out this part not to exceed $800,000,000, which may be made available until expended.
+There is authorized to be appropriated to the President to carry out this part not to exceed$800,000,000, which may be made available until expended.
 
 #### (b) Presidential authority to incur obligations and enter into contracts
 

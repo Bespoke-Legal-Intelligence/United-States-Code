@@ -2,17 +2,45 @@
 
 (a)
 
-Authority.—The Secretary concerned shall pay to each eligible disabled uniformed services retiree a monthly amount determined under subsection (b).
+Authority.—The Secretary concerned shall pay to each eligible disabled uniformed services retiree a monthly amount determined under subsection (b). If the provisions of subsection (a) of section 1414 of this title become effective in accordance with subsection (f) of that section, payments under this section shall be terminated effective as of the month beginning on the effective date specified in subsection (e) of that section.
 
 (b)
 
 Amount.—The amount to be paid to an eligible disabled uniformed services retiree in accordance with subsection (a) is the following:
 
-&emsp;(1) For any month for which the retiree has a qualifying service-connected disability rated as total, $300.
+&emsp;(1) For payments for months beginning with February 2002 and ending with December 2002, the following:
 
-&emsp;(2) For any month for which the retiree has a qualifying service-connected disability rated as 90 percent, $200.
+&emsp;&emsp;(A) For any month for which the retiree has a qualifying service-connected disability rated as total, $300.
 
-&emsp;(3) For any month for which the retiree has a qualifying service-connected disability rated as 80 percent or 70 percent, $100.
+&emsp;&emsp;(B) For any month for which the retiree has a qualifying service-connected disability rated as 90 percent, $200.
+
+&emsp;&emsp;(C) For any month for which the retiree has a qualifying service-connected disability rated as 80 percent or 70 percent, $100.
+
+&emsp;&emsp;(D) For any month for which the retiree has a qualifying service-connected disability rated as 60 percent, $50.
+
+&emsp;(2) For payments for months beginning with January 2003 and ending with September 2004, the following:
+
+&emsp;&emsp;(A) For any month for which the retiree has a qualifying service-connected disability rated as total, $325.
+
+&emsp;&emsp;(B) For any month for which the retiree has a qualifying service-connected disability rated as 90 percent, $225.
+
+&emsp;&emsp;(C) For any month for which the retiree has a qualifying service-connected disability rated as 80 percent, $125.
+
+&emsp;&emsp;(D) For any month for which the retiree has a qualifying service-connected disability rated as 70 percent, $100.
+
+&emsp;&emsp;(E) For any month for which the retiree has a qualifying service-connected disability rated as 60 percent, $50.
+
+&emsp;(3) For payments for months after September 2004, the following:
+
+&emsp;&emsp;(A) For any month for which the retiree has a qualifying service-connected disability rated as total, $350.
+
+&emsp;&emsp;(B) For any month for which the retiree has a qualifying service-connected disability rated as 90 percent, $250.
+
+&emsp;&emsp;(C) For any month for which the retiree has a qualifying service-connected disability rated as 80 percent, $150.
+
+&emsp;&emsp;(D) For any month for which the retiree has a qualifying service-connected disability rated as 70 percent, $125.
+
+&emsp;&emsp;(E) For any month for which the retiree has a qualifying service-connected disability rated as 60 percent, $50.
 
 (c)
 
@@ -28,7 +56,7 @@ Qualifying Service-Connected Disability Defined.—In this section, the term “
 
 &emsp;(1) was incurred or aggravated in the performance of duty as a member of a uniformed service, as determined by the Secretary concerned; and
 
-&emsp;(2) is rated as not less than 70 percent disabling—
+&emsp;(2) is rated as not less than 60 percent disabling—
 
 &emsp;&emsp;(A) by the Secretary concerned as of the date on which the member is retired from the uniformed services; or
 
@@ -56,11 +84,27 @@ Other Definitions.—In this section:
 
 &emsp;(3) The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
 
-(Added Pub. L. 106–65, div. A, title VI, §658(a)(1), Oct. 5, 1999, 113 Stat. 668; amended Pub. L. 106–398, §1 \[\[div. A\], title VI, §657(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166.)
+(Added Pub. L. 106–65, div. A, title VI, §658(a)(1), Oct. 5, 1999, 113 Stat. 668; amended Pub. L. 106–398, §1 \[\[div. A\], title VI, §657(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166; Pub. L. 107–107, div. A, title VI, §641(b), (e)(1), (2), Dec. 28, 2001, 115 Stat. 1150, 1151.)
 
 #### Amendments
 
+2001—Subsec. (a). Pub. L. 107–107, §641(b), inserted at end “If the provisions of subsection (a) of section 1414 of this title become effective in accordance with subsection (f) of that section, payments under this section shall be terminated effective as of the month beginning on the effective date specified in subsection (e) of that section.”
+
+Subsec. (b)(1) to (3). Pub. L. 107–107, §641(e)(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+
+“(1) For any month for which the retiree has a qualifying service-connected disability rated as total, $300.
+
+“(2) For any month for which the retiree has a qualifying service-connected disability rated as 90 percent, $200.
+
+“(3) For any month for which the retiree has a qualifying service-connected disability rated as 80 percent or 70 percent, $100.”
+
+Subsec. (d)(2). Pub. L. 107–107, §641(e)(2), substituted “60 percent” for “70 percent” in introductory provisions.
+
 2000—Subsec. (c). Pub. L. 106–398 struck out “(other than a member who is retired under chapter 61 of this title)” after “retired status” in introductory provisions.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VI, §641(e)(3), Dec. 28, 2001, 115 Stat. 1151, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on February 1, 2002.”
 
 #### Effective Date of 2000 Amendment
 

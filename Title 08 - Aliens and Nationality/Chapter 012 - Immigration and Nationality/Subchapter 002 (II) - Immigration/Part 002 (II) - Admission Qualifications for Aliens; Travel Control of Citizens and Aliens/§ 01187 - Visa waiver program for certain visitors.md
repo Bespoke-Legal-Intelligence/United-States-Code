@@ -18,7 +18,17 @@ The Attorney General and the Secretary of State are authorized to establish a pr
 
 #### (3) Machine readable passport
 
-&emsp;On and after October 1, 2007, the alien at the time of application for admission is in possession of a valid unexpired machine-readable passport that satisfies the internationally accepted standard for machine readability.
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), on or after October 1, 2003, the alien at the time of application for admission is in possession of a valid unexpired machine-readable passport that satisfies the internationally accepted standard for machine readability.
+
+#### (B) Limited waiver authority
+
+&emsp;&emsp;For the period beginning October 1, 2003, and ending September 30, 2007, the Secretary of State may waive the requirement of subparagraph (A) with respect to nationals of a program country (as designated under subsection (c) of this section), if the Secretary of State finds that the program country—
+
+&emsp;&emsp;&emsp;(i) is making progress toward ensuring that passports meeting the requirement of subparagraph (A) are generally available to its nationals; and
+
+&emsp;&emsp;&emsp;(ii) has taken appropriate measures to protect against misuse of passports the country has issued that do not meet the requirement of subparagraph (A).
 
 #### (4) Executes immigration forms
 
@@ -42,7 +52,7 @@ The Attorney General and the Secretary of State are authorized to establish a pr
 
 #### (9) Automated system check
 
-&emsp;The identity of the alien has been checked using an automated electronic database containing information about the inadmissibility of aliens to uncover any grounds on which the alien may be inadmissible to the United States, and no such ground has been found.
+&emsp;The identity of the alien has been checked using an automated electronic database containing information about the inadmissibility of aliens to uncover any grounds on which thealien may be inadmissible to the United States, and no such ground has been found.
 
 > Operators of aircraft under part 135 of title 14, Code of Federal Regulations, or operators of noncommercial aircraft that are owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, carrying any alien passenger who will apply for admission under this section shall furnish such information as the Attorney General by regulation shall prescribe as necessary for the identification of any alien passenger being transported and for the enforcement of the immigration laws. Such information shall be electronically transmitted not less than one hour prior to arrival at the port of entry for purposes of checking for inadmissibility using the automated electronic database.
 
@@ -84,7 +94,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Deadline for compliance for certain countries
 
-&emsp;&emsp;&emsp;In the case of a country designated as a program country under this subsectionprior to May 1, 2000, as a condition on the continuation of that designation, the country—
+&emsp;&emsp;&emsp;In the case of a country designated as a program country under this subsection prior to May 1, 2000, as a condition on the continuation of that designation, the country—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall certify, not later than October 1, 2000, that it has a program to issue machine-readable passports to its citizens not later than October 1, 2003; and
 
@@ -150,7 +160,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (iii) Redesignation
 
-&emsp;&emsp;&emsp;In the case of a termination under this subparagraph, the Attorney General shall redesignate the country as a program country, without regard to subsection (f)of this section or paragraph (2) or (3), when the Attorney General, in consultation with the Secretary of State, determines that all causes of the termination have been eliminated.
+&emsp;&emsp;&emsp;In the case of a termination under this subparagraph, the Attorney General shall redesignate the country as a program country, without regard to subsection (f) of this section or paragraph (2) or (3), when the Attorney General, in consultation with the Secretary of State, determines that all causes of the termination have been eliminated.
 
 #### (B) Emergency termination
 
@@ -246,7 +256,7 @@ Notwithstanding any other provision of this section, the Attorney General, in co
 
 #### (2) Termination of agreements
 
-&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
+&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
 
 #### (3) Business aircraft requirements
 
@@ -272,7 +282,7 @@ Notwithstanding any other provision of this section, the Attorney General, in co
 
 #### (C) Termination of designation
 
-&emsp;&emsp;Subject to paragraph (3), if the program country's disqualification rate is 3.5 percent or more, the Attorney General shall terminate the country's designation as a program country effective at the beginning of the second fiscal year following the fiscal year inwhich the determination under subparagraph (A) is made.
+&emsp;&emsp;Subject to paragraph (3), if the program country's disqualification rate is 3.5 percent or more, the Attorney General shall terminate the country's designation as a program country effective at the beginning of the second fiscal year following the fiscal year in which the determination under subparagraph (A) is made.
 
 #### (2) Termination of probationary status
 
@@ -302,7 +312,7 @@ Notwithstanding any other provision of this section, the Attorney General, in co
 
 #### (g) Visa application sole method to dispute denial of waiver based on a ground of inadmissibility
 
-In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in section 1182(a) of this title that is discovered at the time of the alien's application for the waiver or through the use of an automated electronic database required under subsection (a)(9) of this section, the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial review of such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
+In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in section 1182(a) of this title that is discovered at the time of the alien's application for the waiver or through the use of an automated electronic database required under subsection (a)(9) of this section, the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial reviewof such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
 
 #### (h) Use of information technology systems
 
@@ -338,7 +348,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;&emsp;Not later than December 31, 2004, the Attorney General shall submit a written report to the Committee on the Judiciary of the United States House of Representatives and of the Senate containing the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) The conclusions of the Attorney General regarding the effectiveness of the automated entry and exit controlsystem to be developed and implemented under this paragraph.
+&emsp;&emsp;&emsp;&emsp;(I) The conclusions of the Attorney General regarding the effectiveness of the automated entry and exit control system to be developed and implemented under this paragraph.
 
 &emsp;&emsp;&emsp;&emsp;(II) The recommendations of the Attorney General regarding the use of the calculation described in subparagraph (B)(iii) as a basis for evaluating whether to terminate or continue the designation of a country as a program country.
 
@@ -376,9 +386,15 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;&emsp;&emsp;(III) The results of the application.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355.)
 
 #### Amendments
+
+2001—Subsec. (a)(3). Pub. L. 107–56, §417(d), which directed the substitution of “(A)
+
+In general.—Except as provided in subparagraph (B), on or after” for “On or after” and the addition of subpar. (B), was executed making the substitution for “On and after” and adding subpar. (B) to reflect the probable intent of Congress.
+
+Pub. L. 107–56, §417(c), substituted “2003,” for “2007,”.
 
 2000—Pub. L. 106–396, §101(a)(1), in section catchline struck out “pilot” before “program”.
 
@@ -410,7 +426,7 @@ Subsec. (c). Pub. L. 106–396, §101(a)(4)(A), in heading struck out “pilot�
 
 Subsec. (c)(1). Pub. L. 106–396, §101(a)(4)(B), struck out “pilot” before “program”.
 
-Subsec. (c)(2). Pub. L. 106–396, §101(a)(4)(C), in introductory provisions, substituted “subsection (f)” for“subsection (g)” and struck out “pilot” before “program”.
+Subsec. (c)(2). Pub. L. 106–396, §101(a)(4)(C), in introductory provisions, substituted “subsection (f)” for “subsection (g)” and struck out “pilot” before “program”.
 
 Subsec. (c)(2)(B). Pub. L. 106–396, §202(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The government of the country certifies that it has or is in the process of developing a program to issue machine-readable passports to its citizens.”
 
@@ -448,7 +464,7 @@ Subsec. (g). Pub. L. 106–396, §203(b), added subsec. (g). Former subsec. (g) 
 
 Subsec. (h). Pub. L. 106–396, §205(a), added subsec. (h).
 
-1998—Subsec. (c)(2). Pub. L. 105–173, §3, reenacted heading without change and amended text generally. Prior to amendment, text consisted of introductory provisions and subpars. (A) to (D) relating to low nonimmigrant visa refusal rate for previous 2-year period, low nonimmigrant visa refusal rate for each of 2 previous years, machine readable passport program, and law enforcement interests.
+1998—Subsec. (c)(2). Pub. L. 105–173, §3, reenacted heading without change and amended text generally. Prior to amendment, text consisted of introductory provisions and subpars. (A) to (D) relating to low nonimmigrant visa refusal rate for previous 2-year period,low nonimmigrant visa refusal rate for each of 2 previous years, machine readable passport program, and law enforcement interests.
 
 Subsec. (f). Pub. L. 105–173, §1, substituted “2000” for “1998”.
 
@@ -535,6 +551,24 @@ Section 201(d) of Pub. L. 101–649 provided that: “The amendments made by thi
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+
+#### Machine Readable Passports
+
+Pub. L. 107–56, title IV, §417(a), (b), Oct. 26, 2001, 115 Stat. 355, provided that:
+
+“(a)
+
+Audits.—The Secretary of State shall, each fiscal year until September 30, 2007—
+
+&emsp;“(1) perform annual audits of the implementation of section 217(c)(2)(B) of the Immigration and Nationality Act (8 U.S.C. 1187(c)(2)(B));
+
+&emsp;“(2) check for the implementation of precautionary measures to prevent the counterfeiting and theft of passports; and
+
+&emsp;“(3) ascertain that countries designated under the visa waiver program have established a program to develop tamper-resistant passports.
+
+“(b)
+
+Periodic Reports.—Beginning one year after the date of enactment of this Act \[Oct. 26, 2001\], and every year thereafter until 2007, the Secretary of State shall submit a report to Congress setting forth the findings of the most recent audit conducted under subsection (a)(1).”
 
 #### Report Required
 

@@ -12,7 +12,7 @@
 
 &emsp;(D) an estimate of (i) the environmental impact, (ii) the economic and social costs necessary to achieve the objective of this chapter in such State, (iii) the economic and social benefits of such achievement, and (iv) an estimate of the date of such achievement; and
 
-&emsp;(E) a description of the nature and extent of nonpoint sources of pollutants, and recommendations as to the programs which must be undertaken to control each category of such sources, including an estimate of the costs of implementing such programs.
+&emsp;(E) a description of the nature and extent of nonpoint sources of pollutants, and recommendations as to the programs which must beundertaken to control each category of such sources, including an estimate of the costs of implementing such programs.
 
 (2) Omitted.
 

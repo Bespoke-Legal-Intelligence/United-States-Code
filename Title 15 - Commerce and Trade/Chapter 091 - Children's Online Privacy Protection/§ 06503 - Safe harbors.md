@@ -8,11 +8,11 @@ An operator may satisfy the requirements of regulations issued under section 650
 
 #### (1) Self-regulatory incentives
 
-&emsp;In prescribing regulations under section 6502 of this title, the Commission shall provide incentives for self-regulation by operators to implement the protections afforded children under the regulatory requirements described in subsection (b) of that section.
+&emsp;In prescribing regulations under section 6502 of this title, the Commission shall provide incentives for self-regulation by operators to implement the protections afforded childrenunder the regulatory requirements described in subsection (b) of that section.
 
 #### (2) Deemed compliance
 
-&emsp;Such incentives shall include provisions for ensuring that a person will be deemed to be in compliance with the requirements of the regulations under section 6502 of this title if that person complies with guidelines that, after notice and comment, are approved by the Commission upon making a determination that the guidelines meet the requirements of theregulations issued under section 6502 of this title.
+&emsp;Such incentives shall include provisions for ensuring that a person will be deemed to be in compliance with the requirements of the regulations under section 6502 of this title if that person complies with guidelines that, after notice and comment, are approved by the Commission upon making a determination that the guidelines meet the requirements of the regulations issued under section 6502 of this title.
 
 #### (3) Expedited response to requests
 

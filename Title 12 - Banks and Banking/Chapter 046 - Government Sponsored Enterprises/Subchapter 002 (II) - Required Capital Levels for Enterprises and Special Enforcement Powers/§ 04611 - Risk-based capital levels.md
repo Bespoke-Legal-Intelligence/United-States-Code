@@ -16,7 +16,7 @@ The Director shall, by regulation, establish a risk-based capital test under thi
 
 #### (B) Decreases
 
-&emsp;&emsp;The 10-year constant maturity Treasury yield decreases during the first year of the stress period and will remain at the new level for the remainder of the stress period. The yield decreases to the lesser of—
+&emsp;&emsp;The 10-year constant maturity Treasury yield decreases during the first year of thestress period and will remain at the new level for the remainder of the stress period. The yield decreases to the lesser of—
 
 &emsp;&emsp;&emsp;(i) 600 basis points below the average yield during the preceding 9 months, or
 

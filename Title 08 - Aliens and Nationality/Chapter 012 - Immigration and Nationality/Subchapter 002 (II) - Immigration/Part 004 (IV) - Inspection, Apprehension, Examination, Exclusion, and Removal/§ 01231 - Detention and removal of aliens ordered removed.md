@@ -42,19 +42,19 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in section 259(a) of title 42 and paragraph (2),<sup>1</sup> the Attorney General may not remove an alien who is sentenced to imprisonment until the alien is released from imprisonment. Parole, supervised release, probation, or possibility of arrest or further imprisonment is not a reason to defer removal.
+&emsp;&emsp;Except as provided in section 259(a) <sup>1</sup> of title 42 and paragraph (2),<sup>2</sup> the Attorney General may not remove an alien who is sentenced to imprisonment until the alien is released from imprisonment. Parole, supervised release, probation, or possibility of arrest or further imprisonment is not a reason to defer removal.
 
 #### (B) Exception for removal of nonviolent offenders prior to completion of sentence of imprisonment
 
 &emsp;&emsp;The Attorney General is authorized to remove an alien in accordance with applicable procedures under this chapter before the alien has completed a sentence of imprisonment—
 
-&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>2</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
+&emsp;&emsp;&emsp;(i) in the case of an alien in the custody of the Attorney General, if the Attorney General determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense related to smuggling or harboring of aliens or an offense described in section 1101(a)(43)(B), (C), (E), (I), or (L) of this title <sup>3</sup> and (II) the removal of the alien is appropriate and in the best interest of the United States; or
 
 &emsp;&emsp;&emsp;(ii) in the case of an alien in the custody of a State (or a political subdivision of a State), if the chief State official exercising authority with respect to the incarceration of the alien determines that (I) the alien is confined pursuant to a final conviction for a nonviolent offense (other than an offense described in section 1101(a)(43)(C) or (E) of this title), (II) the removal is appropriate and in the best interest of the State, and (III) submits a written request to the Attorney General that such alien be so removed.
 
 #### (C) Notice
 
-&emsp;&emsp;Any alien removed pursuant to this paragraph shall be notified of the penalties under the laws of the United States relating to the reentry of deported aliens, particularly the expanded penalties for aliens removed under subparagraph (B).
+&emsp;&emsp;Any alien removed pursuant to this paragraph shall be notified of the penalties under the laws of the United States relating to the reentry of deported aliens, particularly theexpanded penalties for aliens removed under subparagraph (B).
 
 #### (D) No private right
 
@@ -232,7 +232,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d) <sup>3</sup> of this section, an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
+&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d) <sup>4</sup> of this section, an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
 
 &emsp;&emsp;&emsp;(i) while the alien is detained under subsection (d)(1) of this section, and
 
@@ -300,7 +300,7 @@
 
 #### (1) Costs of removal at time of arrival
 
-&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>4</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
 
 &emsp;&emsp;(A) pay the cost from the appropriation “Immigration and Naturalization Service—Salaries and Expenses”; and
 
@@ -380,7 +380,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 (4)(A) In carrying out paragraph (1), the Attorney General shall give priority to the Federal incarceration of undocumented criminal aliens who have committed aggravated felonies.
 
-(B) The Attorney General shall ensure that undocumented criminal aliens incarcerated inFederal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
+(B) The Attorney General shall ensure that undocumented criminal aliens incarcerated in Federal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
 
 (5) There are authorized to be appropriated such sums as may be necessary to carry out this subsection, of which the following amounts may be appropriated from the Violent Crime Reduction Trust Fund:
 
@@ -399,6 +399,10 @@ Nothing in this section shall be construed to create any substantive or procedur
 (6) To the extent of available appropriations, funds otherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, 110 Stat. 3009–598, 3009–607, 3009–630.)
+
+#### References in Text
+
+Section 259 of title 42, referred to in subsec. (a)(4)(A), was repealed by Pub. L. 106–310, div. B, title XXXIV, §3405(a), Oct. 17, 2000, 114 Stat. 1221.
 
 #### Codification
 
@@ -502,5 +506,5 @@ Section 20301(c) of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1158, 1159, 1182, 1184, 1229a, 1229b, 1252, 1253, 1324c, 1326, 1368, 1371, 1534, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 42 sections 1436a, 13710.
+This section is referred to in sections 1158, 1159, 1182, 1184, 1226a, 1229a, 1229b, 1252, 1253, 1324c, 1326, 1368, 1371, 1534, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 42 sections 1436a, 13710.
 

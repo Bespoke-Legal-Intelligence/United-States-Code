@@ -6,9 +6,27 @@
 
 Searches at Border.—For purposes of ensuring compliance with the requirements of section 5316, a customs officer may stop and search, at the border and without a search warrant, any vehicle, vessel, aircraft, or other conveyance, any envelope or other container, and any person entering or departing from the United States.
 
-(c) If a report required under section 5316 with respect to any monetary instrument is not filed (or if filed, contains a material omission or misstatement of fact), the instrument and any interest in property, including a deposit in a financial institution, traceable to such instrument may be seized and forfeited to the United States Government. Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(b), or any property traceable to such property, may be seized and forfeited to the United States Government. A monetary instrument transported by mail or a common carrier, messenger, or bailee is being transported under this subsection from the time the instrument is delivered to the United States Postal Service, common carrier, messenger, or bailee through the time it is delivered to the addressee, intended recipient, or agent of the addressee or intended recipient without being transported further in, or taken out of, the United States.
+(c)
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 998; Pub. L. 98–473, title II, §901(d), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §1355, Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 102–550, title XV, §1525(c)(2), Oct. 28, 1992, 106 Stat. 4065.)
+Forfeiture.—
+
+&emsp;(1)
+
+Criminal forfeiture.—
+
+&emsp;&emsp;(A)
+
+In general.—The court in imposing sentence for any violation of section 5313, 5316, or 5324 of this title, or any conspiracy to commit such violation, shall order the defendant to forfeit all property, real or personal, involved in the offense and any property traceable thereto.
+
+&emsp;&emsp;(B)
+
+Procedure.—Forfeitures under this paragraph shall be governed by the procedures established in section 413 of the Controlled Substances Act.
+
+&emsp;(2)
+
+Civil forfeiture.—Any property involved in a violation of section 5313, 5316, or 5324 of this title, or any conspiracy to commit any such violation, and any property traceable to any such violation or conspiracy, may be seized and forfeited to the United States in accordance with the procedures governing civil forfeitures in money laundering cases pursuant to section 981(a)(1)(A) of title 18, United States Code.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 998; Pub. L. 98–473, title II, §901(d), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §1355, Oct. 27, 1986, 100 Stat. 3207–22; Pub. L. 102–550, title XV, §1525(c)(2), Oct. 28, 1992, 106 Stat. 4065; Pub. L. 107–56, title III, §§365(b)(2)(B), 372(a), Oct. 26, 2001, 115 Stat. 335, 338.)
 
 Historical and Revision Notes
 
@@ -32,7 +50,15 @@ In subsection (a), the words “The Secretary shall include a statement of infor
 
 In subsection (b), the words “either” and “the possession of” are omitted as surplus. The words “United States Postal Service” are substituted for “postal service” for consistency with title 39. The words “or retained in” are omitted as surplus.
 
+#### References in Text
+
+Section 413 of the Controlled Substances Act, referred to in subsec. (c)(1)(B), is classified to section 853 of Title 21, Food and Drugs.
+
 #### Amendments
+
+2001—Subsec. (c). Pub. L. 107–56, §372(a), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “If a report required under section 5316 with respect to any monetary instrument is not filed (or if filed, contains a material omission or misstatement of fact), the instrument and any interest in property, including a deposit in a financial institution, traceable to such instrument may be seized and forfeited to the United States Government. Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(c), or any property traceable to such property, may be seized and forfeited to the United States Government. A monetary instrument transported by mail or a common carrier, messenger, or bailee is being transported under this subsection from the time the instrument is delivered to the United States Postal Service, common carrier, messenger, or bailee through the time it is delivered to the addressee, intended recipient, or agent of the addressee or intended recipient without being transported further in, or taken out of, the United States.”
+
+Pub. L. 107–56, §365(b)(2)(B), substituted “section 5324(c)” for “section 5324(b)”.
 
 1992—Subsec. (c). Pub. L. 102–550 inserted after first sentence “Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5324(b), or any property traceable to such property, may be seized and forfeited to the United States Government.”
 
@@ -41,6 +67,10 @@ In subsection (b), the words “either” and “the possession of” are omitte
 Subsec. (c). Pub. L. 99–570, §1355(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “A monetary instrument being transported may be seized and forfeited to the United States Government when a report on the instrument under section 5316 of this title has not been filed or contains a material omission or misstatement.”
 
 1984—Subsecs. (b), (c). Pub. L. 98–473, §901, added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 #### Effective Date of 1986 Amendment
 

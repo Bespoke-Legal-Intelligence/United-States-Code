@@ -6,19 +6,21 @@ In carrying out the provisions of this subchapter, the Secretary may utilize his
 
 #### (b) Gifts, bequests, and devises
 
-The Secretary may, in administering the provisions of this subchapter, accept from public and private sources money and property to be utilized in carrying out the purposes and functions of the Center. In utilizing any gifts, bequests, or devises accepted there shall be available to the Secretary the same authorities as are available to him in accepting and utilizing gifts, bequests, and devises to the Foreign Service Institute under the provisions of section 2697 of this title. For the purposes of Federal income, estate, and gift taxes, any gift, devise, or bequest accepted by the Secretary under the authority of this subchapter shall be deemed to be a gift, devise, or bequest to or for the use of the United States.
+The Secretary may, in administering the provisions of this subchapter, accept from public and private sources money and property to be utilized in carrying out the purposes and functions of the Center. In utilizing any gifts, bequests, or devises accepted there shall be available to the Secretary the same authorities as are available to him in accepting and utilizing gifts, bequests, and devises to the George P. Shultz National Foreign Affairs Training Center under the provisions of section 2697 of this title. For the purposes of Federal income, estate, and gift taxes, any gift, devise, or bequest accepted by the Secretary under the authority of this subchapter shall be deemed to be a gift, devise, or bequest to or for the use of the United States.
 
 #### (c) Report to Congress
 
 The Director of the United States Information Agency shall make periodic reports, as he deems necessary, to the Congress with respect to his activities under the provisions of this subchapter, and such reports shall include any recommendations for needed revisions in this subchapter.
 
-(Pub. L. 86–472, ch. VII, §704, May 14, 1960, 74 Stat. 141; Pub. L. 96–465, title II, §2206(a)(8), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–470, title II, §212(b), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291.)
+(Pub. L. 86–472, ch. VII, §704, May 14, 1960, 74 Stat. 141; Pub. L. 96–465, title II, §2206(a)(8), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–470, title II, §212(b), Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 #### References in Text
 
 The United States Information and Educational Exchange Act of 1948, as amended, referred to in subsec. (a), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
 
 1980—Subsec. (b). Pub. L. 96–465 substituted reference to section 2697 of this title for reference to section 809 of this title.
 
@@ -31,10 +33,6 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Transfer of Functions
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (c), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title which redesignated International Communication Agency, and Director thereof, as United States Information Agency, and Director thereof. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
-
-#### Authority of Secretary of State
-
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
 #### Section Referred to in Other Sections
 

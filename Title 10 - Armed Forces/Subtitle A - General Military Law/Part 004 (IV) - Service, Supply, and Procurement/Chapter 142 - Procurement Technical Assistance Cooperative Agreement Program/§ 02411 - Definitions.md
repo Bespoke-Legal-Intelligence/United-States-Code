@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;&emsp;(C) A private, nonprofit organization.
 
-&emsp;&emsp;(D) A tribal organization, as defined in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; 25 U.S.C. 450b(<i>l</i>)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; 25 U.S.C. 1452(e)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
+&emsp;&emsp;(D) A tribal organization, as defined in section 4(<i>l</i>) of the Indian Self-Determination and Education Assistance Act (Public Law 93–638; 25 U.S.C. 450b(<i>l</i>)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law93–262; 25 U.S.C. 1452(e)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
 
 &emsp;(2) The term “distressed area” means—
 
@@ -46,7 +46,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Par. (2). Pub. L. 100–180, §807(b)(2), substituted “means—” for “means”, designated existing text beginning with “the area of a unit” as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “are available; or” for “are available.”, and added subpar. (B).
 
-1986—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section generally identically, striking out inpar. (1) reference to section 6302(5) and 6302(2) of title 31, in par. (2) substituting “The term ‘distressed area’ means the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government)” for “ ‘Distressed entity’ means an eligible entity (within the meaning of paragraph (1)(B))”, and adding par. (4).
+1986—Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section generally identically, striking out in par. (1) reference to section 6302(5) and 6302(2) of title 31, in par. (2) substituting “The term ‘distressed area’ means the area of a unit of local government (or such area excluding the area of any defined political jurisdiction within the area of such unit of local government)” for “ ‘Distressed entity’ means an eligible entity (within the meaning of paragraph (1)(B))”, and adding par. (4).
 
 1985—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows: “In this chapter:
 

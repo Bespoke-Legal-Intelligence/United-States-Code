@@ -102,7 +102,7 @@ Section 154 of Pub. L. 87–543 provided that the amendment made by that section
 
 #### Effective Date of 1960 Amendment
 
-Section 710(a) of Pub. L. 86–778 provided that the amendment made by that section is effective for theperiod beginning with first day of calendar quarter which begins after Sept. 13, 1960, and ending with close of June 30, 1962.
+Section 710(a) of Pub. L. 86–778 provided that the amendment made by that section is effective for the period beginning with first day of calendar quarter which begins after Sept. 13, 1960, and ending with close of June 30, 1962.
 
 Section 710(b) of Pub. L. 86–778 provided that the amendment made by that section is effective July 1, 1962.
 

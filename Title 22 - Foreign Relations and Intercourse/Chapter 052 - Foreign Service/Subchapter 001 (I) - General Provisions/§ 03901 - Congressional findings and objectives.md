@@ -68,7 +68,7 @@ Pub. L. 105–382, §1, Nov. 13, 1998, 112 Stat. 3406, provided that: “This Ac
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–335, title IV, §401(a), June 6, 1986, 100 Stat. 609, provided that: “This title \[enacting sections 4068 and 4071 to 4071k of this title, amending sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067of this title, and enacting provisions set out as a note under section 4046 of this title\] may be cited as the ‘Foreign Service Pension System Act of 1986’.”
+Pub. L. 99–335, title IV, §401(a), June 6, 1986, 100 Stat. 609, provided that: “This title \[enacting sections 4068 and 4071 to 4071k of this title, amending sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of this title, and enacting provisions set out as a note under section 4046 of this title\] may be cited as the ‘Foreign Service Pension System Act of 1986’.”
 
 #### Short Title
 
@@ -246,7 +246,7 @@ Sec. 6. (a) Pursuant to Section 211 of the Act (22 U.S.C. 3931), there is establ
 
 (d) The Secretary of State shall provide all necessary administrative services and facilities for the Board.
 
-Sec. 7. For the purpose of ensuring the accuracy of information used in the administration of the Foreign Service Retirement and Disability System, the Secretary of State may request from the Secretary of Defense and the Administrator of Veterans Affairs such information as the Secretary deems necessary. To the extent permitted by law: (a) The Secretary of Defense shall provide information on retired or retainer pay provided under Title 10, United States Code; and, (b) the Administrator of Veterans Affairs shall provide information on pensions or compensation provided under Title 38 of the United States Code. The Secretary, in consultation with the officials from whom information is requested, shall ensure that information made available under this Order is used only for the purpose authorized.
+Sec. 7. For the purpose of ensuring the accuracy of information used in the administration of the Foreign Service Retirement and Disability System, the Secretary of State may request from the Secretary of Defense and the Administrator of Veterans Affairs such information as the Secretary deems necessary. To the extent permitted by law: (a) The Secretary of Defense shall provide information on retired or retainer payprovided under Title 10, United States Code; and, (b) the Administrator of Veterans Affairs shall provide information on pensions or compensation provided under Title 38 of the United States Code. The Secretary, in consultation with the officials from whom information is requested, shall ensure that information made available under this Order is used only for the purpose authorized.
 
 Sec. 8. The first seven Sections of this Order shall be effective as of February 15, 1981.
 
@@ -272,7 +272,7 @@ Sec. 9. (a) Pursuant to Section 210 of the Act there is established in the Depar
 
 (9) Equal Employment Opportunity Commission, one member;
 
-(c) The membership of the Board shall be selected from among officials who are knowledgeable in mattersconcerning the management of the Foreign Service. Except for the career members of the Senior Foreign Service from the Department of Agriculture, the Department of Commerce, the United States Information Agency, and the United States Agency for International Development, the members of the Board shall be selected from among those who have the rank of Assistant Secretary or higher or a position of comparable responsibility.
+(c) The membership of the Board shall be selected from among officials who are knowledgeable in matters concerning the management of the Foreign Service. Except for the career members of the Senior Foreign Service from the Department of Agriculture, the Department of Commerce, the United States Information Agency, and the United States Agency for International Development, the members of the Board shall be selected from among those who have the rank of Assistant Secretary or higher or a position of comparable responsibility.
 
 (d) The Secretary of State may from time to time request the heads of other agencies to designate representatives to participate in the functions of the Board on a regular or occasional basis.
 

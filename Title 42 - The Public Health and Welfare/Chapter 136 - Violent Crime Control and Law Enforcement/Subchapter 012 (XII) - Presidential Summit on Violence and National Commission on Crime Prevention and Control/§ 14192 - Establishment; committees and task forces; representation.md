@@ -12,7 +12,7 @@ There is established a commission to be known as the “National Commission on C
 
 #### (b) Committees and task forces
 
-The Commission shall establish committees or task forces from among its members for the examination of specific subject areas and the carrying out of other functions or responsibilities of the Commission, including committees or task forces for the examination of the subject areas of crime and violence generally, the causes of the demand for drugs, violence in schools, and violence against women, as described in subsections (b) through (e) of section 14194 of this title.
+The Commission shall establish committees or task forces from among its members for the examination of specific subject areas and the carrying out of other functions or responsibilities of the Commission, including committees or task forces for the examination of the subjectareas of crime and violence generally, the causes of the demand for drugs, violence in schools, and violence against women, as described in subsections (b) through (e) of section 14194 of this title.
 
 #### (c) Representation
 
@@ -22,7 +22,7 @@ The Commission shall establish committees or task forces from among its members 
 
 (3) At least 1 member of the Commission appointed by the President, at least 2 members of the Commission appointed by the President pro tempore of the Senate, and at least 2 members of the Commission appointed by the Speaker of the House of Representatives shall be persons well-qualified to participate in the Commission's examination of the subject area of violence in schools, with education, training, expertise, or experience in such areas as law enforcement, education, school governance policy and teaching, law, sociology, psychology, and ethnography and urban poverty (including health care, housing, education, and employment).
 
-(4) At least 1 member of the Commission appointed by the President, at least 2 members of the Commission appointed by the President pro tempore of the Senate, and at least 2 members of the Commission appointed by the Speaker of the House of Representatives shall be persons well-qualified to participate in the Commission's examination of the subject area of violence against women, as survivors of violence, oras persons with education, training, expertise, or experience in such areas as law enforcement, law, judicial administration, prosecution, defense, victim services or advocacy in sexual assault or domestic violence cases (including medical services and counseling), and protection of victims’ rights.
+(4) At least 1 member of the Commission appointed by the President, at least 2 members of the Commission appointed by the President pro tempore of the Senate, and at least 2 members of the Commission appointed by the Speaker of the House of Representatives shall be persons well-qualified to participate in the Commission's examination of the subject area of violence against women, as survivors of violence, or as persons with education, training, expertise, or experience in such areas as law enforcement, law, judicial administration, prosecution, defense, victim services or advocacy in sexual assault or domestic violence cases (including medical services and counseling), and protection of victims’ rights.
 
 (Pub. L. 103–322, title XXVII, §270002, Sept. 13, 1994, 108 Stat. 2089.)
 

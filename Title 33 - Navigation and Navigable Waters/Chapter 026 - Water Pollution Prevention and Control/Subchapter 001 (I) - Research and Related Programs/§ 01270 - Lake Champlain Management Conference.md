@@ -122,7 +122,7 @@ Cooperation of the United States Fish and Wildlife Service of the Department of 
 
 &emsp;“(1)
 
-Resource conservation program.—The Secretary of the Interior, acting through the UnitedStates Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—
+Resource conservation program.—The Secretary of the Interior, acting through the United States Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—
 
 &emsp;&emsp;“(A) establish and implement a fisheries resources restoration, development and conservation program, including dedicating a level of hatchery production within the Lake Champlain basin at or above the level that existed immediately preceding the date of enactment of this Act \[Nov. 16, 1990\]; and
 

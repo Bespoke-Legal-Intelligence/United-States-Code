@@ -52,5 +52,5 @@ Amendment by section 604(b)(33) of Pub. L. 104–294 effective Sept. 13, 1994, s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1961, 2253, 2254, 2255, 3486, 3559 of this title; title 8 section 1101.
+This section is referred to in sections 14, 1961, 2253, 2254, 2255, 3486, 3559 of this title; title 8 section 1101; title 42 section 14135a.
 

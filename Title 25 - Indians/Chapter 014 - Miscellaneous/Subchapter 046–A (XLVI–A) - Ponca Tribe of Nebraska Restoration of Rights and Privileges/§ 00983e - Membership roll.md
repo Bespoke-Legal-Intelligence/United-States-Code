@@ -18,7 +18,7 @@ Until a tribal constitution is adopted in accordance with section 983f of this t
 
 &emsp;&emsp;(iii) is a lineal descendant of an individual, living or deceased, who is described in clause (i) or (ii).
 
-(2) Any individual who is excluded from the membership roll of the Tribe by the Interim Council may appeal to the Secretary for a determination of the eligibility of the individual for membership in the Tribe. Such determination by the Secretary shall be final. The Interim Council shall include on the membership roll any such individual that the Secretary determines in such an appeal to be eligible for membership in the Tribe.
+(2) Any individual who is excluded from the membership roll of the Tribe by the Interim Council may appeal to the Secretary for a determination of the eligibility of the individual formembership in the Tribe. Such determination by the Secretary shall be final. The Interim Council shall include on the membership roll any such individual that the Secretary determines in such an appeal to be eligible for membership in the Tribe.
 
 #### (c) Constitution as governing
 

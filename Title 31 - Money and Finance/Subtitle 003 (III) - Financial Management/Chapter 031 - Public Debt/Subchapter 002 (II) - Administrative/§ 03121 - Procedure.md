@@ -60,7 +60,7 @@
 
 (5) As used in this subsection—
 
-&emsp;(A) “depository institution” has the meaning stated in clauses (i) through (vi) of section 19(b)(1)(A) of the Federal Reserve Act and also includes a foreign bank, an agency or branch of a foreign bank, and a commercial lending company owned or controlled by a foreign bank (as such terms are defined in the International Banking Act of 1978).
+&emsp;(A) “depository institution” has the meaning stated in clauses (i) through (vi) of section19(b)(1)(A) of the Federal Reserve Act and also includes a foreign bank, an agency or branch of a foreign bank, and a commercial lending company owned or controlled by a foreign bank (as such terms are defined in the International Banking Act of 1978).
 
 &emsp;(B) “government securities broker” has the meaning prescribed in section 3(a)(43) of the Securities Exchange Act of 1934.
 
@@ -322,7 +322,7 @@ Removal from advisory committee for violations of this paragraph.—In addition 
 
 &emsp;&emsp;&emsp;“(i) remove a member of the advisory committee who violates a provision of this paragraph from the advisory committee and permanently bar such person from serving as a member of the advisory committee; and
 
-&emsp;&emsp;&emsp;“(ii) prohibit any director, officer, or employee of the firm of which the member referred to in clause (i) is a director, officer, or employee (at the time the member is removed from the advisory committee) from serving as a member of theadvisory committee at any time during the 5-year period beginning on the date of such removal.
+&emsp;&emsp;&emsp;“(ii) prohibit any director, officer, or employee of the firm of which the member referred to in clause (i) is a director, officer, or employee (at the time the member is removed from the advisory committee) from serving as a member of the advisory committee at any time during the 5-year period beginning on the date of such removal.
 
 “(d)
 

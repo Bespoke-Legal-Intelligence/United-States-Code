@@ -24,7 +24,7 @@ The head of each executive agency shall ensure that systems, technologies, proce
 
 The Administrator shall, in carrying out the requirements of this section—
 
-&emsp;(1) issue policies to promote, to the maximum extent practicable, uniform implementation of this section by executive agencies, with due regard for differences in program requirements among agencies that may require departures from uniform procedures and processes in appropriate cases, when warranted because of the agency mission;
+&emsp;(1) issue policies to promote, to the maximum extent practicable, uniform implementation of this section by executive agencies,with due regard for differences in program requirements among agencies that may require departures from uniform procedures and processes in appropriate cases, when warranted because of the agency mission;
 
 &emsp;(2) ensure that the head of each executive agency complies with the requirements of subsection (c) of this section with respect to the agency systems, technologies, procedures, and processes established pursuant to this section; and
 

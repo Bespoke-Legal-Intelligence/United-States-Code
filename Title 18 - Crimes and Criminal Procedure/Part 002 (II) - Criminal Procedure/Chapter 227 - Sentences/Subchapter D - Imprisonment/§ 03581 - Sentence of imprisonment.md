@@ -34,5 +34,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3552, 5037 of this title; title 16 section 460n–8; title 28 section 2901.
+This section is referred to in sections 3552, 5037 of this title; title 16 section 460n–8; title 28 section 636.
 

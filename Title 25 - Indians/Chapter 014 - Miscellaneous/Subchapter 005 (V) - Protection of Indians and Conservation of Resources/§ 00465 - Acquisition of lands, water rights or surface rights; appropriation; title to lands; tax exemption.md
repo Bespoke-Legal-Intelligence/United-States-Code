@@ -2,7 +2,7 @@
 
 The Secretary of the Interior is authorized, in his discretion, to acquire, through purchase, relinquishment, gift, exchange, or assignment, any interest in lands, water rights, or surface rights to lands, within or without existing reservations, including trust or otherwise restricted allotments, whether the allottee be living or deceased, for the purpose of providing land for Indians.
 
-For the acquisition of such lands, interests in lands, water rights, and surface rights, and for expenses incident to such acquisition, there is authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, asum not to exceed $2,000,000 in any one fiscal year: <i>Provided</i>, That no part of such funds shall be used to acquire additional land outside of the exterior boundaries of Navajo Indian Reservation for the Navajo Indians in Arizona, nor in New Mexico, in the event that legislation to define the exterior boundaries of the Navajo Indian Reservation in New Mexico, and for other purposes, or similar legislation, becomes law.
+For the acquisition of such lands, interests in lands, water rights, and surface rights, and for expenses incident to such acquisition, there is authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, a sum not to exceed $2,000,000 in any one fiscal year: <i>Provided</i>, That no part of such funds shall be used to acquire additional land outside of the exterior boundaries of Navajo Indian Reservation for the Navajo Indians in Arizona, nor in New Mexico, in the event that legislation to define the exterior boundaries of the Navajo Indian Reservation in New Mexico, and for other purposes, or similar legislation, becomes law.
 
 The unexpended balances of any appropriations made pursuant to this section shall remain available until expended.
 
@@ -22,7 +22,7 @@ Act of July 28, 1955, referred to in text, is act July 28, 1955, ch. 423, 69 Sta
 
 #### Payson Band, Yavapai-Apache Indian Reservation
 
-Pub. L. 92–470, Oct. 6, 1972, 86 Stat. 783, provided: “That (a) a suitable site (of not to exceed eighty-five acres) for a village for the Payson Community of Yavapai-Apache Indians shall be selected in the Tonto National Forest within Gila County, Arizona, by the leaders of the community, subject to approval by the Secretary of the Interior and the Secretary of Agriculture. The site so selected is hereby declared to be held by the United States in trust as an Indian reservation for the use and benefit of the Payson Community of Yavapai-Apache Indians.
+Pub. L. 92–470, Oct. 6, 1972, 86 Stat. 783, provided: “That (a) a suitable site (of not to exceed eighty-five acres) for a village for the Payson Community ofYavapai-Apache Indians shall be selected in the Tonto National Forest within Gila County, Arizona, by the leaders of the community, subject to approval by the Secretary of the Interior and the Secretary of Agriculture. The site so selected is hereby declared to be held by the United States in trust as an Indian reservation for the use and benefit of the Payson Community of Yavapai-Apache Indians.
 
 “(b) The Payson Community of Yavapai-Apache Indians shall be recognized as a tribe of Indians within the purview of the Act of June 18, 1934, as amended (25 U.S.C. 461–479, relating to the protection of Indians and conservation of resources), and shall be subject to all of the provisions thereof.”
 

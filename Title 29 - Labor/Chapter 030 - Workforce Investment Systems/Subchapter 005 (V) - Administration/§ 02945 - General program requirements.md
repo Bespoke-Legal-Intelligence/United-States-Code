@@ -12,7 +12,7 @@ Except as otherwise provided in this chapter, the following conditions are appli
 
 &emsp;(4) On-the-job training contracts under this chapter shall not be entered into with employers who have received payments under previous contracts and have exhibited a pattern of failing to provide on-the-job training participants with continued long-term employment as regular employees with wages and employment benefits (including health benefits) and working conditions at the same level and to the same extent as other employees working a similar length of time and doing the same type of work.
 
-&emsp;(5) No person or organization may charge an individual a fee for the placement or referral of the individual in or to a workforce investment activity under this chapter.
+&emsp;(5) No person or organization may charge an individual a fee for the placement or referralof the individual in or to a workforce investment activity under this chapter.
 
 &emsp;(6) The Secretary shall not provide financial assistance for any program under this chapter that involves political activities.
 

@@ -66,7 +66,7 @@ If the S corporation establishes to the satisfaction of the Secretary that—
 
 #### Prior Provisions
 
-A prior section 1375, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1654; amended Pub. L. 88–272, title II, §§201(d)(13), 233(b), Feb. 26, 1964, 78 Stat. 32, 112; Pub. L. 89–389, §§1(a), (b), 2(b)(4), Apr. 14, 1966, 80 Stat. 111, 114; Pub. L. 91–172, title III, §301(b)(11), Dec. 30, 1969, 83 Stat. 586; Pub. L. 94–455, title XIX,§§1901(a)(151), (b)(33)(Q), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1788, 1802, 1834; Pub. L. 95–600, title VII, §703(j)(6), Nov. 6, 1978, 92 Stat. 2941, related to special rules applicable to distributions of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
+A prior section 1375, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1654; amended Pub. L. 88–272, title II, §§201(d)(13), 233(b), Feb. 26, 1964, 78 Stat. 32, 112; Pub. L. 89–389, §§1(a), (b), 2(b)(4), Apr. 14, 1966, 80 Stat. 111, 114; Pub. L. 91–172, title III, §301(b)(11), Dec. 30, 1969, 83 Stat. 586; Pub. L. 94–455, title XIX, §§1901(a)(151), (b)(33)(Q), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1788, 1802, 1834; Pub. L. 95–600, title VII, §703(j)(6), Nov. 6, 1978, 92 Stat. 2941, related to special rules applicable to distributions of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 A prior section 1376, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1655, related to adjustment to basis of stock of, and indebtedness owing, shareholders, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 

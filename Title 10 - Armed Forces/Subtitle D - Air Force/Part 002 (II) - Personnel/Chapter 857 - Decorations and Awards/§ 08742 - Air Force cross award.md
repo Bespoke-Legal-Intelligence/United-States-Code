@@ -30,7 +30,7 @@ The words “but not in the name of Congress” are omitted as surplusage, since
 
 1963—Pub. L. 88–77 enlarged the authority to award the Air Force cross, which was limited to those cases in which persons distinguished themselves in connection with military operations against an armed enemy, to permit its award for extraordinary heroism not justifying the award of a medal of honor, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-1960—Pub. L. 86–593 substituted “Air Force cross” for “Distinguished-service cross” in section catchline, andsubstituted “an Air Force cross” for “a distinguished-service cross” in text.
+1960—Pub. L. 86–593 substituted “Air Force cross” for “Distinguished-service cross” in section catchline, and substituted “an Air Force cross” for “a distinguished-service cross” in text.
 
 #### References to Distinguished-Service Cross and Soldier's Medal Considered Made to Air Force Cross and Airman's Medal
 

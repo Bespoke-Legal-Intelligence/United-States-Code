@@ -40,7 +40,7 @@ Certification.—(1) At least once every 3 years, the Secretary shall ensure and
 
 (f)
 
-Additional Requirements for Certain Nonattainment Areas.—Government amounts may be made available for a mass transportation project resulting in a significant increasein carrying capacity for single occupant vehicles in a transportation management area classified as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) only if the project is part of an approved congestion management system.
+Additional Requirements for Certain Nonattainment Areas.—Government amounts may be made available for a mass transportation project resulting in a significant increase in carrying capacity for single occupant vehicles in a transportation management area classified as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.) only if the project is part of an approved congestion management system.
 
 (g)
 

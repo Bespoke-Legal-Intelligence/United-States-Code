@@ -38,7 +38,7 @@ As used in this section—
 
 #### (B) Special rules
 
-&emsp;&emsp;In the case of a minor or incompetent plaintiff, the term “federally required commencement date” means the later of the date referred to in subparagraph (A) or the following:
+&emsp;&emsp;In the case of a minor or incompetent plaintiff, the term “federally required commencement date” means the later of thedate referred to in subparagraph (A) or the following:
 
 &emsp;&emsp;&emsp;(i) In the case of a minor, the date on which the minor reaches the age of majority, as determined by State law, or has a legal representative appointed.
 

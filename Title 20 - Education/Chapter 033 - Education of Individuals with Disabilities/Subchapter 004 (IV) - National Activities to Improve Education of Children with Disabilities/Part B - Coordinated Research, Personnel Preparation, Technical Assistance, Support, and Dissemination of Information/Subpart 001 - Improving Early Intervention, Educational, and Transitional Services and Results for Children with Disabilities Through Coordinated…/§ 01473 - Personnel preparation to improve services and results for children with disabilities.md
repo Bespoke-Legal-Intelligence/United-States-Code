@@ -42,7 +42,7 @@ The Secretary shall, on a competitive basis, make grants to, or enter into contr
 
 &emsp;&emsp;(B) a significant cognitive impairment; or
 
-&emsp;&emsp;(C) any impairment for which a small number of personnel with highly specializedskills and knowledge are needed in order for children with that impairment to receive early intervention services or a free appropriate public education.
+&emsp;&emsp;(C) any impairment for which a small number of personnel with highly specialized skills and knowledge are needed in order for children with that impairment to receive early intervention services or a free appropriate public education.
 
 #### (4) Selection of recipients
 
@@ -80,7 +80,7 @@ The Secretary shall, on a competitive basis, make grants to, or enter into contr
 
 &emsp;&emsp;(B) Demonstrating the application of significant knowledge derived from research and other sources in the development of programs to prepare personnel to provide services to children with disabilities.
 
-&emsp;&emsp;(C) Demonstrating models for the preparation of, and interdisciplinary training of, early intervention, special education, and general education personnel, to enable the personnel—
+&emsp;&emsp;(C) Demonstrating models for the preparation of, and interdisciplinary training of, early intervention, special education, andgeneral education personnel, to enable the personnel—
 
 &emsp;&emsp;&emsp;(i) to acquire the collaboration skills necessary to work within teams to assist children with disabilities; and
 

@@ -16,7 +16,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;(2) marginal pasture lands converted to wetland or established as wildlife habitat prior to November 28, 1990;
 
-&emsp;(3) marginal pasture lands to be devoted to trees in or near riparian areas or for similar water quality purposes, not to exceed 10 percent of the number of acres of land that isplaced in the conservation reserve under this subpart in each of the 1991 through 2002 calendar years;
+&emsp;(3) marginal pasture lands to be devoted to trees in or near riparian areas or for similar water quality purposes, not to exceed 10 percent of the number of acres of land that is placed in the conservation reserve under this subpart in each of the 1991 through 2002 calendar years;
 
 &emsp;(4) croplands that are otherwise not eligible—
 
@@ -88,7 +88,7 @@ For purposes of this subpart, alfalfa and other multi-year grasses and legumes i
 
 &emsp;&emsp;Subject to subparagraphs (B) through (D), an owner or operator may enroll in the conservation reserve under this subsection—
 
-&emsp;&emsp;&emsp;(i) a wetland (including a converted wetland described in section 3822(b)(1)(A) of this title) that was cropped during at leastthree of the immediately preceding 10 crop years; and
+&emsp;&emsp;&emsp;(i) a wetland (including a converted wetland described in section 3822(b)(1)(A) of this title) that was cropped during at least three of the immediately preceding 10 crop years; and
 
 &emsp;&emsp;&emsp;(ii) buffer acreage that—
 
@@ -136,7 +136,7 @@ For purposes of this subpart, alfalfa and other multi-year grasses and legumes i
 
 #### (ii) Buffer acreage
 
-&emsp;&emsp;&emsp;The maximum size of any buffer acreage described in subparagraph (A)(ii) of an owner or operator enrolled in the conservation reserve under this subsection shall be the greater of—
+&emsp;&emsp;&emsp;The maximum size of any buffer acreage described in subparagraph (A)(ii) of anowner or operator enrolled in the conservation reserve under this subsection shall be the greater of—
 
 &emsp;&emsp;&emsp;&emsp;(I) three times the size of any wetland described in subparagraph (A)(i) to which the buffer acreage is contiguous; or
 
@@ -152,7 +152,7 @@ For purposes of this subpart, alfalfa and other multi-year grasses and legumes i
 
 &emsp;&emsp;(A) to restore the hydrology of the wetland within the eligible acreage to the maximum extent practicable, as determined by the Secretary;
 
-&emsp;&emsp;(B) to establish vegetative cover on the eligible acreage, as determined by the Secretary; and
+&emsp;&emsp;(B) to establish vegetative cover (which may include emerging vegetation in water) on the eligible acreage, as determined by the Secretary; and
 
 &emsp;&emsp;(C) to carry out other duties described in section 3832 of this title.
 
@@ -170,13 +170,15 @@ For purposes of this subpart, alfalfa and other multi-year grasses and legumes i
 
 &emsp;&emsp;The amounts payable to owners and operators in the form of rental payments under contracts entered into under this subsection shall reflect incentives that are provided to owners and operators to enroll filterstrips in the conservation reserve under section 3834 of this title.
 
-(Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–387, §1(a) \[title XI, §1102(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75.)
+(Pub. L. 99–198, title XII, §1231, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 99–500, §101(a) \[title VI, §643\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §643\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §205, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XIV, §§1432(2), 1447(a), Nov. 28, 1990, 104 Stat. 3577, 3605; Pub. L. 102–324, §1(a), July 22, 1992, 106 Stat. 447; Pub. L. 103–66, title I, §1402(b), Aug. 10, 1993, 107 Stat. 332; Pub. L. 104–127, title III, §332(a)(1), (b), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–387, §1(a) \[title XI, §1102(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75; Pub. L. 107–76, title VII, §758(a), Nov. 28, 2001, 115 Stat. 741.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2001—Subsec. (h)(4)(B). Pub. L. 107–76 inserted “(which may include emerging vegetation in water)” after “vegetative cover”.
 
 2000—Subsec. (h). Pub. L. 106–387 added subsec. (h).
 

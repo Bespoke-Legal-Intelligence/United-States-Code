@@ -2,19 +2,17 @@
 
 #### (a) Maintenance of account; authorization of appropriations
 
-The Railroad Retirement Account established by section 15(a) of the Railroad Retirement Act of 1937 \[45 U.S.C. 228<i>o</i>(a)\] shall continue to be maintained in the Treasury of the United States. There is hereby appropriated to such Account for each fiscal year, beginning with the fiscal year ending June 30, 1975, to provide for the payment of benefits to be made from such Account in accordance with the provisions of section 231f(c)(1) of this title, and to provide for expenses necessary for the Board in the administration of all provisions of this subchapter, an amount equal to amounts covered into the Treasury (minus refunds) during each fiscal year under the Railroad Retirement Tax Act \[26 U.S.C. 3201 et seq.\], except those portions of the amounts covered into the Treasury under section 3211(b), 3221(c), and 3221(d) of such Tax Act \[26 U.S.C. 3211(b), 3221(c), 3221(d)\] as are necessary to provide sufficient funds to meet the obligation to pay supplemental annuities at the level provided under section 231b(e) of this title and, with respect to those entitled to supplemental annuities under section 205(a) of title II of this Act, at the level provided under section 205(a). The Board is directed to determine what portion of the taxes collected under sections 3211(b), 3221(c), and 3221(d) of the Railroad Retirement Tax Act \[26 U.S.C. 3211(b), 3221(c), 3221(d)\] is to be credited to the Railroad Retirement Account pursuant to the preceding provisions this subsection and what portion of such taxes is to be credited to the Railroad Retirement Supplemental Account pursuant to the provisions of subsection (c) of this section. The Board shall make such a determination with respect to each calendar quarter commencing with the quarter beginning January 1, 1975, shall make each such determination not later than fifteen days before each calendar quarter, and shall, as soon as practicable after each such determination, advise the Secretary of the Treasury of the determination made. The Secretary of the Treasury shall credit the amounts covered into the Treasury under sections 3211(b), 3221(c), and 3221(d) of the Railroad Retirement Tax Act \[26 U.S.C. 3211(b), 3221(c), 3221(d)\] to the Railroad Retirement Account and the Railroad Retirement Supplemental Account in such proportions as is determined by the Board pursuant to the provisions of this subsection.
+The Railroad Retirement Account established by section 15(a) of the Railroad Retirement Act of 1937 \[45 U.S.C. 228<i>o</i>(a)\] shall continue to be maintained in the Treasury of the United States. There is hereby appropriated to such Account for each fiscal year, beginning with the fiscal year ending June 30, 1975, to provide for the payment of benefits to be made from such Account in accordance with the provisions of section 231f(c)(1) of this title, and to provide for expenses necessary for the Board in the administration of all provisions of this subchapter, an amount equal to amounts covered into the Treasury (minus refunds) during each fiscal year under the Railroad Retirement Tax Act \[26 U.S.C. 3201 et seq.\].
 
 #### (b) Authorization of appropriations; military service costs and administrative expenses
 
-In addition to the amount appropriated in subsection (a) of this section, there is hereby authorized to be appropriated to the Railroad Retirement Account for each fiscal year, beginning with the fiscal year ending June 30, 1975, such amount as the Board determines to be necessary to meet (A) the additional costs, resulting from the crediting of military service under this subchapter, of benefits payable under section 231a of this title, but only to the extent that such Account is not reimbursed for such costs under section 231f(c)(2) of this title, (B) the additional administrative expenses resulting from the crediting of military service under this subchapter, and (C) any loss in interest to such Account resulting from the payment of additional benefits based on military service credited under this subchapter: <i>Provided, however</i>, That, in determining the amount to be appropriated to the Railroad Retirement Account for any fiscal year pursuant to the provisions of this subsection, there shall not be considered any costs resulting from the crediting of military service under this subchapter for which appropriations to such Account have already been made pursuant to section 4(<i>l</i>) of the Railroad Retirement Act of 1937 \[45 U.S.C. 228c–1(<i>l</i>)\]. Any determination as to loss in interest to the Railroad Retirement Account pursuant to clause (C) of the first sentence of this subsection shall take into account interest from the date each annuity based, in part, on military service began to accrue or was increased to the date or dates on which the amount appropriated is credited to the Account. The cost resulting from the payment of additional benefits under this subchapter based on military service determined pursuant to the preceding provisions of this subsection shall be adjusted by applying thereto the ratio of the total net level cost of all benefits under this subchapter to the portion of such net level cost remaining after the exclusion of administrative expenses and interest charges on the unfunded accrued liability as determined under the last completed actuarial valuation pursuant to the provisions of subsection (g) of this section. At the close of the fiscal year ending June 30, 1975, and each fiscal year thereafter, the Board shall, as promptly as practicable, determine the amount to be appropriated to the Account pursuant to the provisions of this subsection, and shall certify such amount to the Secretary of the Treasury for transfer from the general fund in the Treasury to the Railroad Retirement Account. When authorized by an appropriation Act, the Secretary of the Treasury shall transfer to the Railroad Retirement Account from the general fund in the Treasury such amounts as, from time to time, may be determined by the Board pursuant to the provisions of this subsection and certified by the Board for transfer to such Account. In any determination made pursuant to section 231f(c)(2) of this title, no further charges shall be made against the Trust Funds established by title II of the Social Security Act \[42 U.S.C. 401 et seq.\] for military service rendered before January 1, 1957, and with respect to which appropriations authorized by clause (2) of the first sentence of section 4(<i>l</i>) of the Railroad Retirement Act of 1937 shall have been credited to the Railroad Retirement Account, but the additional benefit payments incurred by such Trust Funds by reason of such military service shall be taken in account in making any such determination.
+In addition to the amount appropriated in subsection (a) of this section, there is hereby authorized to be appropriated to the Railroad Retirement Account for each fiscal year, beginning with the fiscal year ending June 30, 1975, such amount as the Board determines to be necessary to meet (A) the additional costs, resulting from the crediting of military service under this subchapter, of benefits payable under section 231a of this title, but only to the extent that such Account is not reimbursed for such costs under section 231f(c)(2) of this title, (B) the additional administrative expenses resulting from the crediting of military service under this subchapter, and (C) any loss in interest to such Account resulting from the payment of additional benefits based on military service credited under this subchapter: <i>Provided, however</i>, That, in determining the amount to be appropriated to the Railroad Retirement Account for any fiscal year pursuant to the provisions of this subsection, there shall not be considered any costs resulting from the crediting of military service under this subchapter for which appropriations to such Account have already been made pursuant to section 4(<i>l</i>) of the Railroad Retirement Act of 1937 \[45 U.S.C. 228c–1(<i>l</i>)\]. Any determination as to loss in interest to the Railroad Retirement Account pursuant to clause (C) of the first sentence of this subsection shall take into account interest from the date each annuity based, in part, on military service began to accrue or was increased to the date or dates on which the amount appropriated is credited to the Account. The cost resulting from the payment of additional benefits under this subchapter based on military service determined pursuant to the preceding provisions of this subsection shall be adjusted by applying thereto the ratio of the total net level cost of all benefits under this subchapter to the portion of such net level cost remaining after the exclusion of administrative expenses and interest charges on the unfunded accrued liability as determined under the last completed actuarial valuation pursuant to the provisions of subsection (g) of this section. At the close of the fiscal year ending June 30, 1975, and each fiscal year thereafter, the Board shall,as promptly as practicable, determine the amount to be appropriated to the Account pursuant to the provisions of this subsection, and shall certify such amount to the Secretary of the Treasury for transfer from the general fund in the Treasury to the Railroad Retirement Account. When authorized by an appropriation Act, the Secretary of the Treasury shall transfer to the Railroad Retirement Account from the general fund in the Treasury such amounts as, from time to time, may be determined by the Board pursuant to the provisions of this subsection and certified by the Board for transfer to such Account. In any determination made pursuant to section 231f(c)(2) of this title, no further charges shall be made against the Trust Funds established by title II of the Social Security Act \[42 U.S.C. 401 et seq.\] for military service rendered before January 1, 1957, and with respect to which appropriations authorized by clause (2) of the first sentence of section 4(<i>l</i>) of the Railroad Retirement Act of 1937 shall have been credited to the Railroad Retirement Account, but the additional benefit payments incurred by such Trust Funds by reason of such military service shall be taken in account in making any such determination.
 
-#### (c) Maintenance of Railroad Retirement Supplemental Account; authorization of appropriations
-
-The Railroad Retirement Supplemental Account established by section 15(b) of the Railroad Retirement Act of 1937 \[45 U.S.C. 228<i>o</i>(b)\] shall continue to be maintained in the Treasury of the United States. There is hereby appropriated to such account for each fiscal year, beginning with the fiscal year ending June 30, 1975, out of any moneys in the Treasury not otherwise appropriated, to provide for the payment of supplemental annuities under section 231a(b) of this title, and to provide for the expenses necessary for the Board in the administration of the payment of such supplemental annuities, an amount equal to such portions of the amounts covered into the Treasury (minus refunds) during each fiscal year under sections 3211(b), 3221(c), and 3221(d) of the Railroad Retirement Tax Act \[26 U.S.C. 3211(b), 3221(c), 3221(d)\] as are not appropriated to the Railroad Retirement Account pursuant to the provisions of subsection (a) of this section. Whenever the Board finds at any time that the balance in the Railroad Retirement Supplemental Account will be insufficient to pay the supplemental annuities which it estimates are due, or will become due, under section 231a(b) of this title, it shall request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the credit of the Railroad Retirement Supplemental Account such moneys as the Board estimates would be necessary for the payment of such supplemental annuities, and the Secretary shall make such transfer. Whenever the Board finds that the balance in the Railroad Retirement Supplemental Account, without regard to the amounts transferred pursuant to the next preceding sentence, is sufficient to pay such supplemental annuities, it shall request the Secretary of the Treasury to retransfer from the Railroad Retirement Supplemental Account to the credit of the Railroad Retirement Account such moneys as in its judgment are not needed for the payment of such supplemental annuities, plus interest at an annual rate equal to the average rate of interest borne by all special obligations held by the Railroad Retirement Account on the last day of the preceding fiscal year, rounded to the nearest multiple of one-eighth of 1 per centum, and the Secretary shall make such retransfer.
+#### (c) Repealed. Pub. L. 107–90, title I, §106(b), Dec. 21, 2001, 115 Stat. 887
 
 #### (d) Dual Benefits Payments Account
 
-(1) There is hereby created an account in the Treasury of the United States to be known as the Dual Benefits Payments Account. There is hereby authorized to be appropriated to such account for each fiscal year beginning with the fiscal year ending September 30, 1982, such sums as are necessary to pay during such fiscal year the amounts of annuities estimated by the Board to be paid under sections 231b(h), 231c(e), and 231c(h) of this title and under sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445. Not more than 30 days prior to each fiscal year beginning with the fiscal year ending September 30, 1982, the Board may request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the credit of the Dual Benefits Payments Account any amount not exceeding the amount that the Board estimates will be necessary to pay on the first day of the next succeeding month the annuity amounts under sections 231b(h), 231c(e), and 231c(h) of this title and under sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445, taking into account any reduction in such annuity amounts as determined under section 231f(c)(1) of this title, and the Secretary of the Treasury shall make such transfer, but at no time shall the total amount of money outstanding to the Dual Benefits Payments Account from the Railroad Retirement Account exceed the amount necessary to pay the annuity amounts under sections 231b(h), 231c(e), and 231c(h) of this title and sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445 for one month. Not more than 10 days after the funds appropriated to the Dual Benefits Payments Account for each such fiscal year are received into such Account, the Board shall request the Secretary of the Treasury to retransfer from the Dual Benefits Payments Account to the credit of the Railroad Retirement Account an amount equal to the amount transferred to the Dual Benefits Payments Account prior to or during such fiscal year under the preceding sentence, together with such additional amount determined by the Board to be equal to the loss of interest to the Railroad Retirement Account resulting from such transfer, and the Secretary of the Treasury shall make such retransfer.
+(1) There is hereby created an account in the Treasury of the United States to be known as the Dual Benefits Payments Account. There is hereby authorized to be appropriated to such account for each fiscal year beginning with the fiscal year ending September 30, 1982, such sums as are necessary to pay during such fiscal year the amounts of annuities estimated by the Board to be paid under sections 231b(h), 231c(e), and 231c(h) of this title and under sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445. Not more than 30 days prior to each fiscal year beginning with the fiscal year ending September 30, 1982, the Board may request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the credit of the Dual Benefits Payments Account any amount not exceeding the amount that the Board estimates will be necessary to pay on the first day of the next succeeding month the annuity amounts under sections 231b(h), 231c(e), and 231c(h) of this title and under sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445, taking into account any reduction in such annuity amounts as determined under section 231f(c)(1) of this title, and the Secretary of the Treasury shall make such transfer, but at no time shall the total amount of money outstanding to the Dual Benefits Payments Account from the Railroad Retirement Account exceed the amount necessary to pay the annuity amounts under sections 231b(h), 231c(e), and 231c(h) of this title and sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445 for one month. Not more than 10 days after the funds appropriated to the Dual Benefits Payments Account for each such fiscal year are received into such Account, the Board shall request the Secretary of the Treasury to retransfer from the Dual Benefits Payments Account to the credit of the Railroad Retirement Account an amount equal to the amount transferred to the Dual Benefits Payments Account prior to or during such fiscal year under the preceding sentence, together with such additional amount determined by the Board to be equal to the loss of interest to the Railroad Retirement Account resulting from such transfer, and the Secretary of the Treasury shall make such retransfer. The Secretary of the Treasury shall from time to time transfer from the Dual Benefits Payments Account to the disbursing agent under section 231f(b)(4) of this title amounts necessary to pay benefits payable from that Account.
 
 (2) The Secretary of the Treasury—
 
@@ -34,11 +32,11 @@ The Railroad Retirement Supplemental Account established by section 15(b) of the
 
 #### (e) Investments
 
-At the request and direction of the Board, it shall be the duty of the Secretary of the Treasury (hereinafter referred to as the “Secretary”) to invest such portion of the amounts credited to the Railroad Retirement Account, the Dual Benefits Payments Account and the Railroad Retirement Supplemental Account as, in the judgment of the Board, is not immediately required for the payment of annuities, supplemental annuities, and death benefits. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (A) on original issue at the issue price; or (B) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the accounts. Such obligations issued for purchase by the accounts shall have maturities fixed with due regard for the needs of the accounts, and shall bear interest at a rate equal to the average market yield, computed as of the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing notes of the United States then forming a part of the public debt that are not due or callable until after the expiration of three years from the end of such calendar month, except that where such rate is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligation shall be the multiple of one-eighth of 1 per centum nearest such rate: <i>Provided</i>, That the rate of interest on such obligations shall in no case be less than 3 per centum per annum. At the request of the Board the Secretary shall purchase other interest-bearing obligations of the United States, or obligations guaranteed as to both principal and interest by the United States, or other obligations which are lawful investments for trust funds of the United States, on original issue or at the market price: <i>Provided</i>, That the interest yield of such obligations shall not be less than the interest rate determined in accordance with the preceding sentence. At the request of the Board, the Secretary shall sell at the market price such obligations in the accounts (other than special obligations issued exclusively to the accounts) as the Board designates. The Board shall from time to time request the Secretary to redeem such special obligations issued exclusively to the accounts as the Board designates and upon such request the Secretary shall redeem such obligations at par plus accrued interest. All requests of the Board to the Secretary, provided for in this subsection, shall be mandatory upon the Secretary. It shall be the duty of the Board to determine at all times what proportion of the accounts shall be invested in other than special obligations issued to the accounts and further to determine which of such obligations available to the accounts consistent with the foregoing requirements will provide the greatest rate of return on the funds invested.
+At the request and direction of the Board, it shall be the duty of the Secretary of the Treasury (hereinafter referred to as the “Secretary”)to invest such portion of the amounts credited to the Railroad Retirement Account and the Dual Benefits Payments Account as are not transferred to the National Railroad Retirement Investment Trust as the Board may determine in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose such obligations may be acquired (A) on original issue at the issue price; or (B) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31, are hereby extended to authorize the issuance at par of special obligations exclusively to the accounts. Such obligations issued for purchase by the accounts shall have maturities fixed with due regard for the needs of the accounts, and shall bear interest at a rate equal to the average market yield, computed as of the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing notes of the United States then forming a part of the public debt that are not due or callable until after the expiration of three years from the end of such calendar month, except that where such rate is not a multiple of one-eighth of 1 per centum, the rate of interest on such obligation shall be the multiple of one-eighth of 1 per centum nearest such rate: <i>Provided</i>, That the rate of interest on such obligations shall in no case be less than 3 per centum per annum. At the request of the Board the Secretary shall purchase other interest-bearing obligations of the United States, or obligations guaranteed as to both principal and interest by the United States, or other obligations which are lawful investments for trust funds of the United States, on original issue or at the market price: <i>Provided</i>, That the interest yield of such obligations shall not be less than the interest rate determined in accordance with the preceding sentence. At the request of the Board, the Secretary shall sell at the market price such obligations in the accounts (other than special obligations issued exclusively to the accounts) as the Board designates. The Board shall from time to time request the Secretary to redeem such special obligations issued exclusively to the accounts as the Board designates and upon such request the Secretary shall redeem such obligations at par plus accrued interest. All requests of the Board to the Secretary, provided for in this subsection, shall be mandatory upon the Secretary. It shall be the duty of the Board to determine at all times what proportion of the accounts shall be invested in other than special obligations issued to the accounts and further to determine which of such obligations available to the accounts consistent with the requirements of this subsection will provide the greatest rate of return on the funds invested.
 
 #### (f) Actuarial Advisory Committee
 
-The Board is hereby authorized and directed to select two actuaries, one from recommendations made by representatives of employees and the other from recommendations made by representatives of employers as defined in paragraph (i) of section 231(a)(1) of this title. These actuaries, along with a third who shall be designated by the Secretary of the Treasury, shall be known as the Actuarial Advisory Committee with respect to the Railroad Retirement Account. The actuaries so selected shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of pension plans: <i>Provided, however</i>, That these requirements shall not apply to any actuary who served as a member of the Committee prior to January 1, 1975. The Committee shall examine the actuarial reports and estimates made by theBoard and shall have authority to recommend to the Board such changes in actuarial methods as they may deem necessary. The compensation of the members of the Committee, exclusive of the member designated by the Secretary, shall be fixed by the Board on a per diem basis.
+The Board is hereby authorized and directed to select two actuaries, one from recommendations made by representatives of employees and the other from recommendations made by representatives of employers as defined in paragraph (i) of section 231(a)(1) of this title. These actuaries, along with a third who shall be designated by the Secretary of the Treasury, shall be known as the Actuarial Advisory Committee with respect to the Railroad Retirement Account. The actuaries so selected shall hold membership in the American Academy of Actuaries and shall be qualified in the evaluation of pension plans: <i>Provided, however</i>, That these requirements shall not apply to any actuary who served as a member of the Committee prior to January 1, 1975. The Committee shall examine the actuarial reports and estimates made by the Board and shall have authority to recommend to the Board such changes in actuarial methods as they may deem necessary. The compensation of the members of the Committee, exclusive of the member designated by the Secretary, shall be fixed by the Board on a per diem basis.
 
 #### (g) Annual report
 
@@ -58,27 +56,193 @@ There are hereby authorized to be appropriated from time to time such sums as ma
 
 (4) A benefit check bearing a current date may be issued to an individual who did not negotiate the original benefit check and who surrenders such check for cancellation if the Secretary of the Treasury determines it is necessary to effect proper payment of benefits.
 
-(Aug. 29, 1935, ch. 812, §15, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1346; amended Pub. L. 94–92, title II, §201(a)–(d), Aug. 9, 1975, 89 Stat. 464, 465; Pub. L. 94–547, §3(a), Oct. 18, 1976, 90 Stat. 2525; Pub. L. 97–34, title VII, §742, Aug. 13, 1981, 95 Stat. 348; Pub. L. 97–35, title XI, §§1124, 1127(a), Aug. 13, 1981, 95 Stat. 639, 641; Pub. L. 98–76, title III, §301(b), title IV, §§401(a), 417(a), Aug. 12, 1983, 97 Stat. 431, 433, 437.)
+#### (j) National Railroad Retirement Investment Trust
+
+#### (1) Establishment
+
+&emsp;The National Railroad Retirement Investment Trust (hereinafter in this subsection referred to as the “Trust”) is hereby established as a trust domiciled in the District of Columbia and shall, to the extent not inconsistent with this subchapter, be subject to the laws of the District of Columbia applicable to such trusts. The Trust shall manage and invest its assets in the manner set forth in this subsection.
+
+#### (2) Not a Federal agency or instrumentality
+
+&emsp;The Trust is not a department, agency, or instrumentality of the Government of the United States and shall not be subject to title 31.
+
+#### (3) Board of Trustees
+
+#### (A) Generally
+
+#### (i) Membership
+
+&emsp;&emsp;&emsp;The Trust shall have a Board of Trustees, consisting of 7 members. Three shall represent the interests of labor, 3 shall represent the interests of management, and 1 shall be an independent Trustee. The members of the Board of Trustees shall not be considered officers or employees of the Government of the United States.
+
+#### (ii) Selection
+
+&emsp;&emsp;&emsp;(I) The 3 members representing the interests of labor shall be selected by the joint recommendation of labor organizations, national in scope, organized in accordance with sections 151a and 152 of this title, and representing at least 2/3 of all active employees, represented by such national labor organizations, covered under this subchapter.
+
+&emsp;&emsp;&emsp;(II) The 3 members representing the interests of management shall be selected by the joint recommendation of carriers as defined in section 151 of this title employing at least 2/3 of all active employees covered under this subchapter.
+
+&emsp;&emsp;&emsp;(III) The independent member shall be selected by a majority of the other 6 members of the Board of Trustees.
+
+&emsp;&emsp;&nbsp;A member of the Board of Trustees may be removed in the same manner and by the same constituency that selected that member.
+
+#### (iii) Dispute resolution
+
+&emsp;&emsp;&emsp;In the event that the parties specified in subclause (I), (II), or (III) of the previous clause cannot agree on the selection of Trustees within 60 days of the date of enactment or 60 days from any subsequent date that a position of the Board of Trustees becomes vacant, an impartial umpire to decide such dispute shall, on the petition of a party to the dispute, be appointed by the District Court of the United States for the District of Columbia.
+
+#### (B) Qualifications
+
+&emsp;&emsp;Members of the Board of Trustees shall be appointed only from among persons who have experience and expertise in the management of financial investments and pension plans. No member of the Railroad Retirement Board shall be eligible to be a member of the Board of Trustees.
+
+#### (C) Terms
+
+&emsp;&emsp;Except as provided in this subparagraph, each member shall be appointed for a 3-year term. The initial members appointed under this paragraph shall be divided into equal groups so nearly as may be, of which one group will be appointed for a 1-year term, one for a 2-year term, and one for a 3-year term. The Trustee initially selected pursuant to clause (ii)(III) shall be appointed to a 3-year term. A vacancy in the Board of Trustees shall not affect the powers of the Board of Trustees and shall be filled in the same manner as the selection of the member whose departure caused the vacancy. Upon the expiration of a term of a member of the Board of Trustees, that member shall continue to serve until a successor is appointed.
+
+#### (4) Powers of the Board of Trustees
+
+&emsp;The Board of Trustees shall—
+
+&emsp;&emsp;(A) retain independent advisers to assist it in the formulation and adoption of its investment guidelines;
+
+&emsp;&emsp;(B) retain independent investment managers to invest the assets of the Trust in a manner consistent with such investment guidelines;
+
+&emsp;&emsp;(C) invest assets in the Trust, pursuant to the policies adopted in subparagraph (A);
+
+&emsp;&emsp;(D) pay administrative expenses of the Trust from the assets in the Trust; and
+
+&emsp;&emsp;(E) transfer money to the disbursing agent or as otherwise provided in section 231f(b)(4) of this title, to pay benefits payable under this subchapter from the assets of the Trust.
+
+#### (5) Reporting requirements and fiduciary standards
+
+&emsp;The following reporting requirements and fiduciary standards shall apply with respect to the Trust:
+
+#### (A) Duties of the Board of Trustees
+
+&emsp;&emsp;The Trust and each member of the Board of Trustees shall discharge their duties (including the voting of proxies) with respect to the assets of the Trust solely in the interest of the Railroad Retirement Board and through it, the participants and beneficiaries of the programs funded under this subchapter—
+
+&emsp;&emsp;&emsp;(i) for the exclusive purpose of—
+
+&emsp;&emsp;&emsp;&emsp;(I) providing benefits to participants and their beneficiaries; and
+
+&emsp;&emsp;&emsp;&emsp;(II) defraying reasonable expenses of administering the functions of the Trust;
+
+&emsp;&emsp;&emsp;(ii) with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims;
+
+&emsp;&emsp;&emsp;(iii) by diversifying investments so as to minimize the risk of large losses and toavoid disproportionate influence over a particular industry or firm, unless under the circumstances it is clearly prudent not to do so; and
+
+&emsp;&emsp;&emsp;(iv) in accordance with Trust governing documents and instruments insofar as such documents and instruments are consistent with this subchapter.
+
+#### (B) Prohibitions with respect to members of the Board of Trustees
+
+&emsp;&emsp;No member of the Board of Trustees shall—
+
+&emsp;&emsp;&emsp;(i) deal with the assets of the Trust in the trustee's own interest or for the trustee's own account;
+
+&emsp;&emsp;&emsp;(ii) in an individual or in any other capacity act in any transaction involving the assets of the Trust on behalf of a party (or represent a party) whose interests are adverse to the interests of the Trust, the Railroad Retirement Board, or the interests of participants or beneficiaries; or
+
+&emsp;&emsp;&emsp;(iii) receive any consideration for the trustee's own personal account from any party dealing with the assets of the Trust.
+
+#### (C) Exculpatory provisions and insurance
+
+&emsp;&emsp;Any provision in an agreement or instrument that purports to relieve a trustee from responsibility or liability for any responsibility, obligation, or duty under this subchapter shall be void: <i>Provided, however</i>, That nothing shall preclude—
+
+&emsp;&emsp;&emsp;(i) the Trust from purchasing insurance for its trustees or for itself to cover liability or losses occurring by reason of the act or omission of a trustee, if such insurance permits recourse by the insurer against the trustee in the case of a breach of a fiduciary obligation by such trustee;
+
+&emsp;&emsp;&emsp;(ii) a trustee from purchasing insurance to cover liability under this section from and for his own account; or
+
+&emsp;&emsp;&emsp;(iii) an employer or an employee organization from purchasing insurance to cover potential liability of one or more trustees with respect to their fiduciary responsibilities, obligations, and duties under this section.
+
+#### (D) Bonding
+
+&emsp;&emsp;Every trustee and every person who handles funds or other property of the Trust (hereafter in this subsection referred to as “Trust official”) shall be bonded. Such bond shall provide protection to the Trust against loss by reason of acts of fraud or dishonesty on the part of any Trust official, directly or through the connivance of others, and shall be in accordance with the following:
+
+&emsp;&emsp;&emsp;(i) The amount of such bond shall be fixed at the beginning of each fiscal year of the Trust by the Railroad Retirement Board. Such amount shall not be less than 10 percent of the amount of the funds handled. In no case shall such bond be less than $1,000 nor more than $500,000, except that the Railroad Retirement Board, after consideration of the record, may prescribe an amount in excess of $500,000, subject to the 10 per centum limitation of the preceding sentence.
+
+&emsp;&emsp;&emsp;(ii) It shall be unlawful for any Trust official to receive, handle, disburse, or otherwise exercise custody or control of any of the funds or other property of the Trust without being bonded as required by this subsection and it shall be unlawful for any Trust official, or any other person having authority to direct the performance of such functions, to permit such functions, or any of them, to be performed by any Trust official, with respect to whom the requirements of this subsection have not been met.
+
+&emsp;&emsp;&emsp;(iii) It shall be unlawful for any person to procure any bond required by this subsection from any surety or other company or through any agent or broker in whose business operations such person has any control or significant financial interest, direct or indirect.
+
+#### (E) Audit and report
+
+&emsp;&emsp;(i) The Trust shall annually engage an independent qualified public accountant to audit the financial statements of the Trust.
+
+&emsp;&emsp;(ii) The Trust shall submit an annual management report to the Congress not later than 180 days after the end of the Trust's fiscal year. A management report under this subsection shall include—
+
+&emsp;&emsp;&emsp;(I) a statement of financial position;
+
+&emsp;&emsp;&emsp;(II) a statement of operations;
+
+&emsp;&emsp;&emsp;(III) a statement of cash flows;
+
+&emsp;&emsp;&emsp;(IV) a statement on internal accounting and administrative control systems;
+
+&emsp;&emsp;&emsp;(V) the report resulting from an audit of the financial statements of the Trust conducted under clause (i); and
+
+&emsp;&emsp;&emsp;(VI) any other comments and information necessary to inform the Congress about the operations and financial condition of the Trust.
+
+&emsp;&emsp;(iii) The Trust shall provide the President, the Railroad Retirement Board, and the Director of the Office of Management and Budget a copy of the management report when it is submitted to Congress.
+
+#### (F) Enforcement
+
+&emsp;&emsp;The Railroad Retirement Board may bring a civil action—
+
+&emsp;&emsp;&emsp;(i) to enjoin any act or practice by the Trust, its Board of Trustees, or its employees or agents that violates any provision of this subchapter; or
+
+&emsp;&emsp;&emsp;(ii) to obtain other appropriate relief to redress such violations, or to enforce any provisions of this subchapter.
+
+#### (6) Rules and administrative powers
+
+&emsp;The Board of Trustees shall have the authority to make rules to govern its operations, employ professional staff, and contract with outside advisers, including the Railroad Retirement Board, to provide legal, accounting, investment advisory, or other services necessary for the proper administration of this subsection. In the case of contracts with investment advisory services, compensation for such services may be on a fixed contract fee basis or on such other terms and conditions as are customary for such services.
+
+#### (7) Quorum
+
+&emsp;Five members of the Board of Trustees constitute a quorum to do business. Investment guidelines must be adopted by a unanimous vote of the entire Board of Trustees. All other decisions of the Board of Trustees shall be decided by a majority vote of the quorum present. All decisions of the Board of Trustees shall be entered upon the records of the Board of Trustees.
+
+#### (8) Funding
+
+&emsp;The expenses of the Trust and the Board of Trustees incurred under this subsection shall be paid from the Trust.
+
+#### (k) Transfers to the Trust
+
+The Board shall, upon establishment of the National Railroad Retirement Investment Trust and from time to time thereafter, direct the Secretary of the Treasury to transfer, in such manner as will maximize the investment returns to the Railroad Retirement system, that portion of the Railroad Retirement Account that is not needed to pay current administrative expenses of the Board to the National Railroad Retirement Investment Trust. The Secretary shall make that transfer.
+
+#### (<i>l</i>) National Railroad Retirement Investment Trust
+
+The National Railroad Retirement Investment Trust shall from time to time transfer to the disbursing agent described in section 231f(b)(4) of this title or as otherwise directed by the Railroad Retirement Board pursuant to section 231f(b)(4) of this title, such amounts as may be necessary to pay benefits under this subchapter (other than benefits paid from the Social Security Equivalent Benefit Account or the Dual Benefit Payments Account).
+
+(Aug. 29, 1935, ch. 812, §15, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1346; amended Pub. L. 94–92, title II, §201(a)–(d), Aug. 9, 1975, 89 Stat. 464, 465; Pub. L. 94–547, §3(a), Oct. 18, 1976, 90 Stat. 2525; Pub. L. 97–34, title VII, §742, Aug. 13, 1981, 95 Stat. 348; Pub. L. 97–35, title XI, §§1124, 1127(a), Aug. 13, 1981, 95 Stat. 639, 641; Pub. L. 98–76, title III, §301(b), title IV, §§401(a), 417(a), Aug. 12, 1983, 97 Stat. 431, 433, 437; Pub. L. 107–90, title I, §§105(a), (b), 106(b), (c), 107(a), (b), (d), Dec. 21, 2001, 115 Stat. 882, 886–889.)
 
 #### References in Text
 
-Sections 4 and 15 of the Railroad Retirement Act of 1937, referred to in subsecs. (a), (b)(1), and (c), which were classified to sections 228c–1 and 228<i>o</i> of this title, have been omitted from the Code.
+Sections 4 and 15 of the Railroad Retirement Act of 1937, referred to in subsecs. (a) and (b)(1), which were classified to sections 228c–1 and 228<i>o</i> of this title, have been omitted from the Code.
 
-The Railroad Retirement Tax Act, referred to in subsecs. (a) and (c), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
+The Railroad Retirement Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 
-Section 205 of title II of this Act and sections 204, 206, and 207 of Pub. L. 93–445, referred to in subsecs. (a) and (d)(1), (3), are sections 204, 205, 206, and 207 of title II of Pub. L. 93–445, and are set out as part of a Transitional Provisions note under section 231 of this title.
+Sections 204, 206, and 207 of Pub. L. 93–445, referred to in subsec. (d)(1), (3), are sections 204, 206, and 207 of title II of Pub. L. 93–445, and are set out as part of a Transitional Provisions note under section 231 of this title.
 
 The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-#### Codification
-
-In subsec. (e), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended,” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+Within 60 days of the date of enactment, referred to in subsec. (j)(3)(A)(iii), probably means within 60 days of the date of enactment of Pub. L. 107–90, which enacted subsec. (j) and was approved Dec. 21, 2001.
 
 #### Amendments
 
+2001—Subsec. (a). Pub. L. 107–90, §106(c), struck out before period at end “, except those portions of the amounts covered into the Treasury under sections 3211(b), 3221(c), and 3221(d) of such Tax Act as are necessary to provide sufficient funds to meet the obligation to pay supplemental annuities at the level provided under section 231b(e) of this title and, with respect to those entitled to supplemental annuities under section 205(a) of title II of this Act, at the level provided under section 205(a). The Board is directed to determine what portion of the taxes collected under sections 3211(b), 3221(c), and 3221(d) of the Railroad Retirement Tax Act is to be credited to the Railroad Retirement Account pursuant to the preceding provisions of this subsection and what portion of such taxes is to be credited to the Railroad Retirement Supplemental Account pursuant to the provisions of subsection (c) of this section. The Board shall make such a determination with respect to each calendar quarter commencing with the quarter beginning January 1, 1975, shall make each such determination not later than fifteen days before each calendar quarter, and shall, as soon as practicable after each such determination, advise the Secretary of the Treasury of the determination made. The Secretary of the Treasury shall credit the amounts covered into the Treasury under sections 3211(b), 3221(c), and 3221(d) of the Railroad Retirement Tax Act to the Railroad Retirement Account and the Railroad Retirement Supplemental Account in such proportions as is determined by the Board pursuant to the provisions of this subsection”.
+
+Subsec. (c). Pub. L. 107–90, §106(b), struck out subsec. (c) which read as follows: “The Railroad Retirement Supplemental Account established by section 15(b) of the Railroad Retirement Act of 1937 shall continue to be maintained in the Treasury of the United States. There is hereby appropriated to such account for each fiscal year, beginning with the fiscal year ending June 30, 1975, out of any moneys in the Treasury not otherwise appropriated, to provide for the payment of supplemental annuities under section 231a(b) of this title, and to provide for the expenses necessary for the Board in the administration of the payment of such supplemental annuities, an amount equal to such portions of the amounts covered into the Treasury (minus refunds) during each fiscal year under sections 3211(b), 3221(c), and 3221(d) of the Railroad Retirement Tax Act as are not appropriated to the Railroad Retirement Account pursuant to the provisions of subsection (a) of this section. Whenever the Board finds at any time that the balance in the Railroad Retirement Supplemental Account will be insufficient to pay the supplemental annuities which it estimates are due, or will become due, under section 231a(b) of this title, it shall request the Secretary of the Treasury to transfer from the Railroad Retirement Account to the credit of the Railroad Retirement Supplemental Account such moneys as the Board estimates would be necessary for the payment of such supplemental annuities, and the Secretary shall make such transfer. Whenever the Board finds that the balance in the Railroad Retirement Supplemental Account, without regard to the amounts transferred pursuant to the next preceding sentence, is sufficient to pay such supplemental annuities, it shall request the Secretary of the Treasury to retransfer from the Railroad Retirement Supplemental Account to the credit of the Railroad Retirement Account such moneys as in its judgment are not needed for the payment of such supplemental annuities, plus interest at an annual rateequal to the average rate of interest borne by all special obligations held by the Railroad Retirement Account on the last day of the preceding fiscal year, rounded to the nearest multiple of one-eighth of 1 per centum, and the Secretary shall make such retransfer.”
+
+Subsec. (d)(1). Pub. L. 107–90, §107(d), inserted at end “The Secretary of the Treasury shall from time to time transfer from the Dual Benefits Payments Account to the disbursing agent under section 231f(b)(4) of this title amounts necessary to pay benefits payable from that Account.”
+
+Subsec. (e). Pub. L. 107–90, §105(b)(1), substituted “and the Dual Benefits Payments Account as are not transferred to the National Railroad Retirement Investment Trust as the Board may determine” for “, the Dual Benefits Payments Account and the Railroad Retirement Supplemental Account as, in the judgment of the Board, is not immediately required for the payment of annuities, supplemental annuities, and death benefits. Such investments may be made only”.
+
+Pub. L. 107–90, §105(b)(2), (3), substituted “chapter 31 of title 31” for “the Second Liberty Bond Act, as amended” and “the requirements of this subsection” for “the foregoing requirements”.
+
+Subsec. (j). Pub. L. 107–90, §105(a), added subsec. (j).
+
+Subsec. (k). Pub. L. 107–90, §107(a), added subsec. (k).
+
+Subsec. (<i>l</i>). Pub. L. 107–90, §107(b), added subsec. (<i>l</i>).
+
 1983—Subsec. (b). Pub. L. 98–76, §301(b), amended subsec. (b) generally, redesignating par. (1) as subsec. (b) and striking out par. (2) which read as follows: “In any month when the Board finds that the balance in the Railroad Retirement Account is insufficient to pay annuity amounts due to be paid during the following month, the Board shall report to the Secretary of the Treasury the additional amount of money necessary in order to make such annuity payments, and the Secretary shall transfer to the credit of the Railroad Retirement Account such additional amount upon receiving such report from the Board. The total amount of money outstanding to the Railroad Retirement Account from the general fund at any time during any fiscal year shall not exceed the total amount of money the Board and the Trustees of the Social Security Trust Fund estimate will be transferred to the Railroad Retirement Account pursuant to section 231f(c)(2) of this title with respect to such fiscal year. Whenever the Board determines that the sums in the Railroad Retirement Account are sufficient to pay annuity amounts, the Board shall request the Secretary of the Treasury to retransfer to the general fund from the Railroad Retirement Account all or any part of the amount outstanding, and the Secretary of the Treasury shall make such retransfer of the amount requested. Not later than 10 days after a transfer to the Railroad Retirement Account under section 231f(c)(2) of this title, any amount of money outstanding to the Railroad Retirement Account from the general fund under this subdivision shall be retransferred in accordance with this subdivision. Any amount retransferred shall include an amount of interest computed at a rate determined in accordance with the following two sentences: The rate of interest payable with respect to an amount outstanding for any month shall be equal to the average investment yield for the most recent auction (before such month) of United States Treasury bills with maturities of 52 weeks, deeming any amount outstanding at the beginning of a month to have been borrowed at the beginning of such month. For this purpose the amount of interest computed in accordance with the preceding sentence but not repaid by the end of such month shall be added to the amount outstanding at the beginning of the next month.”
 
-Subsec. (d)(1). Pub. L. 98–76, §401(a)(1)–(3), designated existing provisions as par. (1), substituted “the amount that the Board estimates will be necessary to pay on the first day of the next succeeding month the annuityamounts under sections 231b(h), 231c(e), and 231c(h) of this title and under sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445, taking into account any reduction in such annuity amounts as determined under section 231f(c)(1) of this title, and the Secretary of the Treasury shall make such transfer, but at no time shall the total amount of money outstanding to the Dual Benefits Payments Account from the Railroad Retirement Account exceed the amount necessary to pay the annuity amounts under sections 231b(h), 231c(e), and 231c(h) of this title and sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445 for one month” for “one-twelfth of the amount which the Board has determined will be the amount of the appropriation to be made to the Dual Benefits Payments Account under the applicable public law making such appropriation for such fiscal year, and the Secretary of the Treasury shall make such transfer”, and inserted “or during” after “prior to” in last sentence.
+Subsec. (d)(1). Pub. L. 98–76, §401(a)(1)–(3), designated existing provisions as par. (1), substituted “the amount that the Board estimates will be necessary to pay on the first day of the next succeeding month the annuity amounts under sections 231b(h), 231c(e), and 231c(h) of this title and under sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445, taking into account any reduction in such annuity amounts as determined under section 231f(c)(1) of this title, and the Secretary of the Treasury shall make such transfer, but at no time shall the total amount of money outstanding to the Dual Benefits Payments Account from the Railroad Retirement Account exceed the amount necessary to pay the annuity amounts under sections 231b(h), 231c(e), and 231c(h) of this title and sections 204(a)(3), 204(a)(4), 206(3), and 207(3) of Public Law 93–445 for one month” for “one-twelfth of the amount which the Board has determined will be the amount of the appropriation to be made to the Dual Benefits Payments Account under the applicable public law making such appropriation for such fiscal year, and the Secretary of the Treasury shall make such transfer”, and inserted “or during” after “prior to” in last sentence.
 
 Subsec. (d)(2) to (6). Pub. L. 98–76, §401(a)(4), added pars. (2) to (6).
 
@@ -102,9 +266,23 @@ Subsec. (c). Pub. L. 94–92, §201(c), substituted in second sentence “is her
 
 Subsec. (h). Pub. L. 94–92, §201(d), added subsec. (h).
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–90, title I, §105(d), Dec. 21, 2001, 115 Stat. 887, provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the month that begins more than 30 days after enactment \[Dec. 21, 2001\].”
+
+Pub. L. 107–90, title I, §106(e), Dec. 21, 2001, 115 Stat. 887, provided that:
+
+“(1)
+
+In general.—Subject to paragraph (2), the amendments made by subsections (a), (b), and (c) \[amending this section and section 231f of this title\] shall take effect January 1, 2002.
+
+“(2)
+
+Account in existence until transfer made.—The Railroad Retirement Supplemental Account under section 15(c) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n(c)) shall continue to exist until the date that the Secretary of the Treasury makes the transfer described in subsection (d)(2) \[set out as a note below\].”
+
 #### Effective Date of 1983 Amendment
 
-Section 301(c)(2) of Pub. L. 98–76 provided that: “The amendments made by subsection (b) of this section \[amending this section\] shall be effective on the date immediately following the day in June 1984 when the total amount of money outstanding to the Railroad Retirement Account under section 15(b)(2) of the Railroad Retirement Act of 1974 \[subsec. (b)(2) of this section\] is retransferred to the general fund under that section.”
+Section 301(c)(2) of Pub. L. 98–76 provided that: “The amendments made by subsection (b) of this section\[amending this section\] shall be effective on the date immediately following the day in June 1984 when the total amount of money outstanding to the Railroad Retirement Account under section 15(b)(2) of the Railroad Retirement Act of 1974 \[subsec. (b)(2) of this section\] is retransferred to the general fund under that section.”
 
 Section 401(b) of Pub. L. 98–76 provided that: “The amendments made by this section \[amending this section\] shall be effective upon enactment \[Aug. 12, 1983\].”
 
@@ -125,6 +303,30 @@ Section 201(e) of Pub. L. 94–92 provided that: “The amendments \[amending th
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Purchase or Sale of Non-Federal Assets; Means of Financing
+
+Pub. L. 107–90, title I, §105(c), Dec. 21, 2001, 115 Stat. 887, provided that: “For all purposes of the Congressional Budget Act of 1974 \[see Short Title note set out under section 621 of Title 2, The Congress\], the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2\], and chapter 11 of title 31, United States Code, and notwithstanding section 20 of the Office of Management and Budget Circular No. A–11, the purchase or sale of non-Federal assets (other than gains or losses from such transactions) by the National Railroad Retirement Investment Trust shall be treated as a means of financing.”
+
+#### Transfer of Funds in the Railroad Retirement Supplemental Account
+
+Pub. L. 107–90, title I, §106(d), Dec. 21, 2001, 115 Stat. 887, provided that:
+
+“(1)
+
+Determination.—As soon as possible after December 31, 2001, the Railroad Retirement Board shall—
+
+&emsp;“(A) determine the amount of funds in the Railroad Retirement Supplemental Account under section 15(c) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n(c)) as of the date of such determination; and
+
+&emsp;“(B) direct the Secretary of the Treasury to transfer such funds to the National Railroad Retirement Investment Trust under section 15(j) of such Act \[45 U.S.C. 231n(j)\] (as added by section 105).
+
+“(2)
+
+Transfer by the secretary of the treasury.—The Secretary of the Treasury shall make the transfer described in paragraph (1).”
+
+#### Transitional Rule for Existing Obligation
+
+Pub. L. 107–90, title I, §107(g), Dec. 21, 2001, 115 Stat. 889, provided that: “In making transfers under sections 15(k) and 15A(d)(2) of the Railroad Retirement Act of 1974 \[45 U.S.C. 231n(k), 231n–1(d)(2)\], as amended by subsections (a) and (c), respectively, the Railroad Retirement Board shall consult with the Secretary of the Treasury to design an appropriate method to transfer obligations held as of the date of enactment of this Act \[Dec. 21, 2001\] or to convert such obligations to cash at the discretion of the Railroad Retirement Board prior to transfer. The National Railroad Retirement Investment Trust may hold to maturity any obligations so received or may redeem them prior to maturity, as the Trust deems appropriate.”
 
 #### Commission on Railroad Retirement Reform
 
@@ -148,7 +350,7 @@ Revenue increases attributable to windfall benefits received after september 30,
 
 &emsp;“(C)
 
-Windfall benefits defined.—For purposes of this paragraph, the term ‘windfall benefits’ meansany benefit paid under section 3(h), 4(e), or 4(h) of the Railroad Retirement Act of 1974 \[sections 231b(h), 231(e), (h) of this title\].
+Windfall benefits defined.—For purposes of this paragraph, the term ‘windfall benefits’ means any benefit paid under section 3(h), 4(e), or 4(h) of the Railroad Retirement Act of 1974 \[sections 231b(h), 231(e), (h) of this title\].
 
 “(2)
 
@@ -230,5 +432,5 @@ Section 1126(a) of Pub. L. 97–35 directed President, not later than Oct. 1, 19
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 231n–1 of this title.
+This section is referred to in section 231n–1 of this title; title 26 section 501.
 

@@ -54,7 +54,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(E) the Secretary of State distributes regularly as prescribed by the State to each buyer, commission merchant, and selling agent on the list described in subparagraph (D) a copy in written or printed form of those portions of the master list described in paragraph <sup>1</sup> (C) that cover the farm products in which such buyer, commission merchant, or selling agent has registered an interest;
 
-&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>2</sup> oral confirmation within 24 hours of any effective financing statement on request followed by writtenconfirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
+&emsp;&emsp;(F) the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section <sup>2</sup> oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
 &emsp;(3) The term “commission merchant” means any person engaged in the business of receiving any farm product for sale, on commission, or for or on behalf of another person.
 
@@ -124,7 +124,7 @@ A buyer of farm products takes subject to a security interest created by the sel
 
 &emsp;&emsp;(iii) must be amended in writing, within 3 months, similarly signed and transmitted, to reflect material changes;
 
-&emsp;&emsp;(iv) will lapse on either the expiration period of the statement or the transmission ofa notice signed by the secured party that the statement has lapsed, whichever occurs first; and
+&emsp;&emsp;(iv) will lapse on either the expiration period of the statement or the transmission of a notice signed by the secured party that the statement has lapsed, whichever occurs first; and
 
 &emsp;&emsp;(v) any <sup>4</sup> payment obligations imposed on the buyer by the secured party as conditions for waiver or release of the security interest; and
 
@@ -182,7 +182,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 &emsp;(D) in the case of a farm product produced in a State that has established a central filing system, the commission merchant or selling agent—
 
-&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
+&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as beingsubject to an effective financing statement or notice; and
 
 &emsp;&emsp;(ii) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 
@@ -190,7 +190,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 #### (h) Security agreements; identity lists; notice of identity or accounting for proceeds; violations
 
-(1) A security agreement in which a person engaged in farming operations creates a security interest in a farm product may require the person to furnish to the secured party a list of the buyers, commission merchants, and selling agents to or through whom the person engagedin farming operations may sell such farm product.
+(1) A security agreement in which a person engaged in farming operations creates a security interest in a farm product may require the person to furnish to the secured party a list of the buyers, commission merchants, and selling agents to or through whom the person engaged in farming operations may sell such farm product.
 
 (2) If a security agreement contains a provision described in paragraph (1) and such person engaged in farming operations sells the farm product collateral to a buyer or through a commission merchant or selling agent not included on such list, the person engaged in farming operations shall be subject to paragraph (3) unless the person—
 

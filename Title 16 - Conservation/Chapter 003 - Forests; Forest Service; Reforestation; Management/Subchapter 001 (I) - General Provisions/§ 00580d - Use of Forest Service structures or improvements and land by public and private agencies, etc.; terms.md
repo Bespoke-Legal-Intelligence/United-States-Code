@@ -8,6 +8,26 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 1998—Pub. L. 105–277, which directed the substitution of “renovate, recondition, improve, and maintain” for “recondition and maintain,”, was executed by making the substitution for language which did not include a comma after “maintain” to reflect the probable intent of Congress.
 
+#### Conveyance of Excess Forest Service Structures
+
+Pub. L. 107–63, title III, §329, Nov. 5, 2001, 115 Stat. 471, provided that:
+
+“(a)
+
+Pilot Program Authorizing Conveyance of Excess Forest Service Structures.—The Secretary of Agriculture may convey, by sale or exchange, any or all right, title, and interest of the United States in and to excess buildings and other structures located on National Forest System lands and under the jurisdiction of the Forest Service. The conveyance may include the land on which the building or other structure is located and such other land immediately adjacent to the building or structure as the Secretary considers necessary.
+
+“(b)
+
+Limitation.—Conveyances on not more than 10 sites may be made under the authority of this section, and the Secretary of Agriculture shall obtain the concurrence of the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate in advance of each conveyance.
+
+“(c)
+
+Use of Proceeds.—The proceeds derived from the sale of a building or other structure under this section shall be retained by the Secretary of Agriculture and shall be available to the Secretary, without further appropriation until expended, for maintenance and rehabilitation activities within the Forest Service Region in which the building or structure is located.
+
+“(d)
+
+Duration of Authority.—The authority provided by this section expires on September 30, 2005.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 580k of this title.

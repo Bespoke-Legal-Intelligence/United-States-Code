@@ -6,7 +6,7 @@ If the Commissioner of Social Security, on the basis of information obtained by 
 
 #### (b) Continued payments during rehabilitation program
 
-Notwithstanding any other provision of this subchapter, payment to an individual of benefits based on disability (as described in the first sentence of subsection (a) of this section) shall not be terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
+Notwithstanding any other provision of this subchapter, payment to an individual of benefits based on disability (as described in the first sentence of subsection (a) of this section) shall notbe terminated or suspended because the physical or mental impairment, on which the individual's entitlement to such benefits is based, has or may have ceased, if—
 
 &emsp;(1) such individual is participating in a program consisting of the Ticket to Work and Self-Sufficiency Program under section 1320b–19 of this title or another program of vocational rehabilitation services, employment services, or other support services approved by the Commissioner of Social Security, and
 
@@ -82,7 +82,7 @@ Referral and monitoring agencies.—Section 225(c)(5) of the Social Security Act
 
 &emsp;“(iii)
 
-Termination after 36 months.—Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) of this section\] (added by this subsection) shall apply with respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
+Termination after 36 months.—Section 225(c)(7) of the Social Security Act \[subsec. (c)(7) of this section\] (added by this subsection) shall applywith respect to benefits based on disability (as so defined) for months beginning after 180 days after the date of the enactment of this Act.”
 
 #### Effective Date of 1990 Amendment
 
@@ -116,7 +116,7 @@ Section applicable only with respect to monthly benefits under this subchapter f
 
 #### Report on Referral, Monitoring, Testing and Treatment of Individuals Where Entitlement to or Termination of Benefits Involves Alcoholism or Drug Addiction
 
-Section 201(a)(3)(B) of Pub. L. 103–296 provided that not later than Dec. 31, 1996, the Secretary was to submit to Congress a full and complete report on the Secretary's activities under former subsec. (c)(5) of this section, which was to include the number and percentage of individuals referred to in such provision who had not received regular drug testing since the effectivedate of such provision, prior to repeal by Pub. L. 105–33, title V, §5525(c), Aug. 5, 1997, 111 Stat. 625.
+Section 201(a)(3)(B) of Pub. L. 103–296 provided that not later than Dec. 31, 1996, the Secretary was to submit to Congress a full and complete report on the Secretary's activities under former subsec. (c)(5) of this section, which was to include the number and percentage of individuals referred to in such provision who had not received regular drug testing since the effective date of such provision, prior to repeal by Pub. L. 105–33, title V, §5525(c), Aug. 5, 1997, 111 Stat. 625.
 
 #### Transition Rules for Current Beneficiaries
 

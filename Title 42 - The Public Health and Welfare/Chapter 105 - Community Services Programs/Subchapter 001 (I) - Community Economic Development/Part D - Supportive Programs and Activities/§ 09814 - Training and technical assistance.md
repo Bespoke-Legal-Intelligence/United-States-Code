@@ -10,7 +10,7 @@ Technical assistance to community development corporations and both urban and ru
 
 #### (c) Training for employees of community development corporations and employees and members of urban and rural cooperatives
 
-Training for employees of community development corporations and for employees and members of urban and rural cooperatives shall include on-the-job training, classroom instruction, and scholarships to assist them in development, managerial, entrepreneurial, planning, and other technical and organizational skills which will contribute to the effectiveness of programs assisted under this subchapter.
+Training for employees of community development corporations and for employees and members of urban and rural cooperatives shall include on-the-job training, classroom instruction, and scholarships to assist them in development, managerial, entrepreneurial, planning, andother technical and organizational skills which will contribute to the effectiveness of programs assisted under this subchapter.
 
 (Pub. L. 97–35, title VI, §625, Aug. 13, 1981, 95 Stat. 496.)
 

@@ -18,7 +18,7 @@ Reporting of Information for the Database.—The Secretary shall require that th
 
 #### Defense Task Force on Domestic Violence
 
-Pub. L. 106–65, div. A, title V, §591, Oct. 5, 1999, 113 Stat. 639, provided that:
+Pub. L. 106–65, div. A, title V, §591, Oct. 5, 1999, 113 Stat. 639, as amended by Pub. L. 107–107, div. A, title V, §575, Dec. 28, 2001, 115 Stat. 1123, provided that:
 
 “(a)
 
@@ -92,7 +92,7 @@ Annual Report.—(1) The task force shall submit to the Secretary an annual repo
 
 “(f)
 
-Membership.—(1) The task force shall consist of not more than 24 members, to be appointed by the Secretary of Defense. Members shall be appointed from each of the Army, Navy, Air Force, and Marine Corpsand shall include an equal number of Department of Defense personnel (military or civilian) and persons from outside the Department of Defense. Members appointed from outside the Department of Defense may be appointed from other Federal departments and agencies, from State and local agencies, or from the private sector.
+Membership.—(1) The task force shall consist of not more than 24 members, to be appointed by the Secretary of Defense. Members shall be appointed from each of the Army, Navy, Air Force, and Marine Corps and shall include an equal number of Department of Defense personnel (military or civilian) and persons from outside the Department of Defense. Members appointed from outside the Department of Defense may be appointed from other Federal departments and agencies, from State and local agencies, or from the private sector.
 
 “(2) The Secretary shall ensure that the membership of the task force includes a judge advocate representative from each of the Army, Navy, Air Force, and Marine Corps.
 
@@ -124,7 +124,7 @@ Co-Chairs of the Task Force.—There shall be two co-chairs of the task force. O
 
 “(h)
 
-Administrative Support.—(1) Each member of the task force shall serve without compensation (other than the compensation to which entitled as a member of the Armed Forces or an officer or employee of the United States, as the case may be), but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from the member's home or regular places of business in the performance of services for the task force.
+Administrative Support.—(1) Each member of the task force who is a member of the Armed Forces or civilian officer or employee of the United States shall serve without compensation (other than the compensation to which entitled as a member of the Armed Forces or an officer or employee of the United States, as the case may be). Other members of the task force shall be appointed in accordance with, and subject to, section 3161 of title 5, United States Code.
 
 “(2) The Assistant Secretary of Defense for Force Management Policy, under the direction of the Under Secretary of Defense for Personnel and Readiness, shall provide oversight of the task force. The Washington Headquarters Service shall provide the task force with the personnel, facilities, and other administrative support that is necessary for the performance of the task force's duties.
 
@@ -136,7 +136,7 @@ Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. A
 
 “(j)
 
-Termination.—The task force shall terminate three years after the date of the enactment of this Act \[Oct. 5, 1999\].”
+Termination.—The task force shall terminate on April 24, 2003.”
 
 #### Incentive Program for Improving Responses to Domestic Violence Involving Members of the Armed Forces and Military Family Members
 
@@ -152,7 +152,7 @@ Program.—The Secretary of Defense shall establish a program to provide funds a
 
 &emsp;“(1) To improve coordination between military and civilian law enforcement authorities in policies, training, and responses to, and tracking of, cases involving military domestic violence.
 
-&emsp;“(2) To develop, implement, and coordinate with appropriate civilian authorities tracking systems (A) for protective orders issued to or on behalf of members of the Armed Forces by civilian courts, and (B) for orders issued by military commanders to members of the Armed Forces ordering them not to have contact with a dependent.
+&emsp;“(2) To develop, implement, and coordinate with appropriate civilian authorities tracking systems (A) for protective orders issued to or on behalf of members of the Armed Forces by civilian courts, and (B)for orders issued by military commanders to members of the Armed Forces ordering them not to have contact with a dependent.
 
 &emsp;“(3) To strengthen the capacity of attorneys and other legal advocates to respond appropriately to victims of military domestic violence.
 

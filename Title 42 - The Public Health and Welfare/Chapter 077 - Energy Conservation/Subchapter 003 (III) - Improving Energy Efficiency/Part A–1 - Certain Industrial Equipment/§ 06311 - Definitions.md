@@ -66,7 +66,7 @@ For purposes of this part—
 
 &emsp;(8) The term “small commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated below 135,000 Btu per hour (cooling capacity).
 
-&emsp;(9) The term “large commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground watersource) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).
+&emsp;(9) The term “large commercial package air conditioning and heating equipment” means air-cooled, water-cooled, evaporatively-cooled, or water source (not including ground water source) electrically operated, unitary central air conditioners and central air conditioning heat pumps for commercial application which are rated at or above 135,000 Btu per hour and below 240,000 Btu per hour (cooling capacity).
 
 &emsp;(10)(A) The term “packaged terminal air conditioner” means a wall sleeve and a separate unencased combination of heating and cooling assemblies specified by the builder and intended for mounting through the wall. It includes a prime source of refrigeration, separable outdoor louvers, forced ventilation, and heating availability by builder's choice of hot water, steam, or electricity.
 

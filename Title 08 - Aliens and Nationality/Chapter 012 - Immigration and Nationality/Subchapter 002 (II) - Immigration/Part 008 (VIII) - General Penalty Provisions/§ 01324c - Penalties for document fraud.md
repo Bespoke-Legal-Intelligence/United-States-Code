@@ -10,7 +10,7 @@ It is unlawful for any person or entity knowingly—
 
 &emsp;(3) to use or attempt to use or to provide or attempt to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of satisfying a requirement of this chapter or obtaining a benefit under this chapter,
 
-&emsp;(4) to accept or receive or to provide any document lawfully issued to or with respect toa person other than the possessor (including a deceased individual) for the purpose of complying with section 1324a(b) of this title or obtaining a benefit under this chapter, or
+&emsp;(4) to accept or receive or to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of complying with section 1324a(b) of this title or obtaining a benefit under this chapter, or
 
 &emsp;(5) to prepare, file, or assist another in preparing or filing, any application for benefits under this chapter, or any document required under this chapter, or any document submitted in connection with such application or document, with knowledge or in reckless disregard of the fact that such application or document was falsely made or, in whole or in part, does not relate to the person on whose behalf it was or is being submitted, or
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date
 

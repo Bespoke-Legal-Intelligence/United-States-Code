@@ -6,7 +6,7 @@ If the Administrator determines that a State has not complied with its agreement
 
 #### (b) Withholding of payments
 
-If a State does not take corrective action within 60 days after the date a State receives notification of such action under subsection (a) ofthis section, the Administrator shall withhold additional payments to the State until the Administrator is satisfied that the State has taken the necessary corrective action.
+If a State does not take corrective action within 60 days after the date a State receives notification of such action under subsection (a) of this section, the Administrator shall withhold additional payments to the State until the Administrator is satisfied that the State has taken the necessary corrective action.
 
 #### (c) Reallotment of withheld payments
 

@@ -42,7 +42,7 @@
 
 &emsp;(7) prescribe such organization and position titles as may be appropriate to carry out the purposes of this chapter.
 
-> All such actions of the committee shall be binding on the House officer and organization unit concerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
+> All such actions of the committee shall be binding on the House officer and organization unitconcerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
 
 (Pub. L. 88–652, §5, Oct. 13, 1964, 78 Stat. 1080; Pub. L. 104–53, title I, §108(3), (4), Nov. 19, 1995, 109 Stat. 522; Pub. L. 104–186, title II, §209(2), Aug. 20, 1996, 110 Stat. 1743.)
 

@@ -58,7 +58,7 @@ The Secretary shall assist Corps members in establishing appropriate professiona
 
 #### (5) Sole providers of health services
 
-&emsp;In the case of any Corps member who is the sole provider of health services in the geographic area involved, the Secretary may, from amounts appropriated under section 254k of this title, obligate on behalf of the member such sums as the Secretary determines to be necessary for purposes of providing temporary relief under paragraph (1).
+&emsp;In the case of any Corps member who is the sole provider of health services in the geographic area involved, the Secretary may, from amounts appropriated under section 254k of this title, obligate on behalf of the membersuch sums as the Secretary determines to be necessary for purposes of providing temporary relief under paragraph (1).
 
 #### (f) Determinations regarding effective service
 

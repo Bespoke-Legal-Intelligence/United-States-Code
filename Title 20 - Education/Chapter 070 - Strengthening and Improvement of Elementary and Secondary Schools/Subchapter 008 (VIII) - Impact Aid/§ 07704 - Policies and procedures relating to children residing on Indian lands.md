@@ -66,7 +66,7 @@ The Secretary shall—
 
 #### (7) Consolidation
 
-&emsp;In all actions under this subsection, the Secretary shall have discretion to consolidatecomplaints involving the same tribe or local educational agency.
+&emsp;In all actions under this subsection, the Secretary shall have discretion to consolidate complaints involving the same tribe or local educational agency.
 
 #### (8) Withholding
 
@@ -74,7 +74,7 @@ The Secretary shall—
 
 #### (9) Rejection of determination
 
-&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of the Education Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educational agency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
+&emsp;If the local educational agency rejects the determination of the Secretary and a tribe exercises the option under section 1101(d) of the Education Amendments of 1978, to have education services provided either directly by the Bureau of Indian Affairs or by contract with the Bureau of Indian Affairs, any Indian students affiliated with that tribe who wish to remain in attendance at the local educationalagency against whom the complaint which led to the tribal action under such subsection (d) of this section was lodged may be counted with respect to that local educational agency for the purpose of receiving funds under section 7703 of this title. In such event, funds under such section shall not be withheld pursuant to paragraph (8) and no further complaints with respect to such students may be filed under paragraph (1).
 
 #### (f) Construction
 
@@ -85,6 +85,10 @@ This section is based upon the special relationship between the Indian nations a
 #### References in Text
 
 Section 1101(d) of the Education Amendments of 1978, referred to in subsec. (e)(9), is section 1101(d) of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2315, set out below.
+
+#### Prior Provisions
+
+A prior section 8004 of Pub. L. 89–10 was renumbered section 9004 and was classified to section 3384 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
 #### Contract Authority of Indian Tribes if Remedial Action Is Not Taken; Election To Have Services Provided by Bureau Schools; Special Regulations
 

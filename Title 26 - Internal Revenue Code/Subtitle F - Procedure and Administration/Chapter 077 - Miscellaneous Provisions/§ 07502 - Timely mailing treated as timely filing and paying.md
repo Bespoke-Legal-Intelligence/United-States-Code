@@ -28,7 +28,7 @@ This section shall apply in the case of postmarks not made by the United States 
 
 &emsp;For purposes of this section, if any return, claim, statement, or other document, or payment, is sent by United States registered mail—
 
-&emsp;&emsp;(A) such registration shall be prima facie evidence that the return, claim, statement, or other document was delivered to the agency, officer, or office to which addressed; and
+&emsp;&emsp;(A) such registration shall be prima facie evidence that the return, claim, statement,or other document was delivered to the agency, officer, or office to which addressed; and
 
 &emsp;&emsp;(B) the date of registration shall be deemed the postmark date.
 

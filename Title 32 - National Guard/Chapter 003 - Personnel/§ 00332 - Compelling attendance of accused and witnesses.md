@@ -6,7 +6,7 @@ In the National Guard not in Federal service, the president of a court-martial o
 
 &emsp;(2) issue subpenas duces tecum and other subpenas;
 
-&emsp;(3) enforce by attachment the attendance or witnesses and the production of books and papers; and
+&emsp;(3) enforce by attachment the attendance of witnesses and the production of books and papers; and
 
 &emsp;(4) sentence for refusal to be sworn or to answer, as provided in actions before civil courts.
 

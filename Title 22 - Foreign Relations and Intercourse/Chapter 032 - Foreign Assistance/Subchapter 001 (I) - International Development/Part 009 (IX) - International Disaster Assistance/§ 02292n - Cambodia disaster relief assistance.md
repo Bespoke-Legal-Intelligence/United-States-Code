@@ -32,7 +32,7 @@ Assistance under this section shall be provided in accordance with the policies 
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of thisAct to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Agricultural Trade Development and Assistance Act of 1954, referred to in subsec. (d)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, as amended, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7, and Tables.
 

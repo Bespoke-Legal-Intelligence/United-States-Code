@@ -134,7 +134,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (II) Down payment loans
 
-&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretary shall reserve 60 percent for the down payment loan program under section 1935 of this title until April 1 of the fiscal year.
+&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretaryshall reserve 60 percent for the down payment loan program under section 1935 of this title until April 1 of the fiscal year.
 
 #### (ii) Operating loans
 
@@ -228,7 +228,7 @@ Subsec. (b)(5), (6). Pub. L. 102–554, §20(a), (e), added pars. (5) and (6).
 
 Subsec. (b)(3)(C). Pub. L. 102–237, §701(h)(1)(F), substituted “this chapter” for “this Act” in two places.
 
-1990—Subsec. (b). Pub. L. 101–624, §2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C),\(D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, §702(i). See Construction of 1990 Amendment note below.
+1990—Subsec. (b). Pub. L. 101–624, §2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C), (D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, §702(i). See Construction of 1990 Amendment note below.
 
 Pub. L. 101–508, §1202(a), amended subsec. (b) generally, substituting present provisions for provisions relating to maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for fiscal years 1986 through 1988.
 

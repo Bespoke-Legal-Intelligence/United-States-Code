@@ -68,7 +68,7 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 #### (k) EEOC Education, Technical Assistance, and Training Revolving Fund
 
-(1) There is hereby established in the Treasury of the United States a revolving fund to be known as the “EEOC Education, Technical Assistance, and Training Revolving Fund” (hereinafter in this subsection referred to as the “Fund”) and to pay the cost (including administrative and personnel expenses) of providing education, technical assistance, and training relating to laws administered by the Commission. Monies in the Fund shall be available without fiscal year limitation to the Commission for such purposes.
+(1) There is hereby established in the Treasury of the United States a revolving fund to be known as the “EEOC Education, Technical Assistance, and Training Revolving Fund” (hereinafter in this subsection referred to as the “Fund”) and to pay the cost (including administrative and personnel expenses) of providingeducation, technical assistance, and training relating to laws administered by the Commission. Monies in the Fund shall be available without fiscal year limitation to the Commission for such purposes.
 
 (2)(A) The Commission shall charge fees in accordance with the provisions of this paragraph to offset the costs of education, technical assistance, and training provided with monies in the Fund. Such fees for any education, technical assistance, or training—
 
@@ -92,7 +92,7 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 (4) There is hereby transferred to the Fund $1,000,000 from the Salaries and Expenses appropriation of the Commission.
 
-(Pub. L. 88–352, title VII, §705, July 2, 1964, 78 Stat. 258; Pub. L. 92–261, §8(d)–(f), Mar. 24, 1972, 86 Stat. 109, 110; Pub. L. 93–608, §3(1), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, §2(a)(11), Mar. 27,1978, 92 Stat. 183; Pub. L. 102–166, title I, §§110(a), 111, Nov. 21, 1991, 105 Stat. 1078; Pub. L. 102–411, §2, Oct. 14, 1992, 106 Stat. 2102; Pub. L. 104–66, title II, §2031, Dec. 21, 1995, 109 Stat. 728.)
+(Pub. L. 88–352, title VII, §705, July 2, 1964, 78 Stat. 258; Pub. L. 92–261, §8(d)–(f), Mar. 24, 1972, 86 Stat. 109, 110; Pub. L. 93–608, §3(1), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, §2(a)(11), Mar. 27, 1978, 92 Stat. 183; Pub. L. 102–166, title I, §§110(a), 111, Nov. 21, 1991, 105 Stat. 1078; Pub. L. 102–411, §2, Oct. 14, 1992, 106 Stat. 2102; Pub. L. 104–66, title II, §2031, Dec. 21, 1995, 109 Stat. 728.)
 
 #### References in Text
 
@@ -160,7 +160,7 @@ All functions related to enforcing or administering Section 6(d) of the Fair Lab
 
 #### Sec. 2. Transfer of Age Discrimination Enforcement Functions
 
-All functions vested in the Secretary of Labor or in the Civil Service Commission pursuant to Sections 2, 4, 7, 8, 9, 10, 11, 12, 13, 14, and 15 of the Age Discrimination in Employment Act of 1967, as amended, (29 U.S.C. 621,623, 626, 627, 628, 629, 630, 631, 632, 633, and 633a) are hereby transferred to the Equal Employment Opportunity Commission. All functions related to age discrimination administration and enforcement pursuant to Sections 6 and 16 of the Age Discrimination in Employment Act of 1967, as amended, (29 U.S.C. 625 and 634) are hereby transferred to the Equal Employment Opportunity Commission.
+All functions vested in the Secretary of Labor or in the Civil Service Commission pursuant to Sections 2, 4, 7, 8, 9, 10, 11, 12, 13, 14, and 15 of the Age Discrimination in Employment Act of 1967, as amended, (29 U.S.C. 621, 623, 626, 627, 628, 629, 630, 631, 632, 633, and 633a) are hereby transferred to the Equal Employment Opportunity Commission. All functions related to age discrimination administration and enforcement pursuant to Sections 6 and 16 of the Age Discrimination in Employment Act of 1967, as amended, (29 U.S.C. 625 and 634) are hereby transferred to the Equal Employment Opportunity Commission.
 
 #### Sec. 3. Transfer of Equal Opportunity in Federal Employment Enforcement Functions
 
@@ -186,7 +186,7 @@ Administrative proceedings including administrative appeals from the acts of an 
 
 #### Sec. 8. Incidental Transfers
 
-So much of the personnel, property, records and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate department, agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of the Council abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate department, agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall beused for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of the Council abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 9. Effective Date
 
@@ -266,7 +266,7 @@ It should be stressed, however, that affected agencies will be consulted before 
 
 Transfer of the Civil Service Commission's equal employment opportunity responsibilities to EEOC is needed to ensure that: (1) Federal employees have the same rights and remedies as those in the private sector and in State and local government; (2) Federal agencies meet the same standards as are required of other employers; and (3) potential conflicts between an agency's equal employment opportunity and personnel management functions are minimized. The Federal government must not fall below the standard of performance it expects of private employers.
 
-The Civil Service Commission has in the past been lethargic in enforcing fair employment requirementswithin the Federal government. While the Chairman and other Commissioners I have appointed have already demonstrated their personal commitment to expanding equal employment opportunity, responsibility for ensuring fair employment for Federal employees should rest ultimately with the EEOC.
+The Civil Service Commission has in the past been lethargic in enforcing fair employment requirements within the Federal government. While the Chairman and other Commissioners I have appointed have already demonstrated their personal commitment to expanding equal employment opportunity, responsibility for ensuring fair employment for Federal employees should rest ultimately with the EEOC.
 
 We must ensure that the transfer in no way undermines the important objectives of the comprehensive civil service reorganization which will be submitted to Congress in the near future. When the two plans take effect; I will direct the EEOC and the CSC to coordinate their procedures to prevent any duplication and overlap.
 

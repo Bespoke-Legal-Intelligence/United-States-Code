@@ -12,7 +12,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (1) In general
 
-&emsp;This section shall apply to any obligation which arises from the disposition of any property under the installment method, but only if the sales price of such property exceeds $150,000.
+&emsp;This section shall apply to any obligation which arises from the disposition of any property under the installment method, but only ifthe sales price of such property exceeds $150,000.
 
 #### (2) Special rule for interest payments
 
@@ -100,7 +100,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (3) Later payments treated as receipt of tax paid amounts
 
-&emsp;If any amount is treated as received under paragraph (1) with respect to any installment obligation, subsequent payments received on such obligation shall not be taken into account for purposes of section 453 to the extent that the aggregate of such subsequent payments does not exceed the aggregate amount treated as received under paragraph (1).
+&emsp;If any amount is treated as received under paragraph (1) with respect to any installmentobligation, subsequent payments received on such obligation shall not be taken into account for purposes of section 453 to the extent that the aggregate of such subsequent payments does not exceed the aggregate amount treated as received under paragraph (1).
 
 #### (4) Secured indebtedness
 

@@ -2,7 +2,7 @@
 
 If the Federal estimate of the cost of—
 
-&emsp;(1) repairing, restoring, reconstructing, or replacing under section 5172 of this title anydamaged or destroyed public facility or private nonprofit facility,
+&emsp;(1) repairing, restoring, reconstructing, or replacing under section 5172 of this title any damaged or destroyed public facility or private nonprofit facility,
 
 &emsp;(2) emergency assistance under section 5170b or 5192 of this title, or
 

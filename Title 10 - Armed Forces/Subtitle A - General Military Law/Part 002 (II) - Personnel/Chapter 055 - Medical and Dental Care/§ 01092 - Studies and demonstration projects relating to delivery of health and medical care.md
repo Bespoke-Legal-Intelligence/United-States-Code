@@ -20,7 +20,7 @@
 
 (c) The Secretary of Defense may obtain the advice and recommendations of such advisory committees as the Secretary considers appropriate. Each such committee consulted by the Secretary under this subsection shall evaluate the proposed study or demonstration project as to the soundness of the objectives of such study or demonstration project, the likelihood of obtaining productive results based on such study or demonstration project, the resources which were required to conduct such study or demonstration project, and the relationship of such study or demonstration project to other ongoing or completed studies and demonstration projects.
 
-(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, §1031(a), Oct. 17, 1998, 112 Stat. 2123.)
+(Added Pub. L. 98–94, title IX, §933(a)(1), Sept. 24, 1983, 97 Stat. 650; amended Pub. L. 98–557, §19(14),Oct. 30, 1984, 98 Stat. 2870; Pub. L. 105–261, div. A, title X, §1031(a), Oct. 17, 1998, 112 Stat. 2123.)
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Services To Be Provided.—The services provided under the demonstration project
 
 “(c)
 
-Selection of Locations.—(1) The Secretaries may carry out the demonstration projects described in subsection (a) at not more than five locations selectedby the Secretaries from locations in which are located both a uniformed services treatment facility and a Department of Veterans Affairs medical center that are affiliated with academic institutions having a demonstrated expertise in the provision of health care services or pharmacy services by means of telecommunications.
+Selection of Locations.—(1) The Secretaries may carry out the demonstration projects described in subsection (a) at not more than five locations selected by the Secretaries from locations in which are located both a uniformed services treatment facility and a Department of Veterans Affairs medical center that are affiliated with academic institutions having a demonstrated expertise in the provision of health care services or pharmacy services by means of telecommunications.
 
 “(2) Representatives of a facility and medical center selected under paragraph (1) shall, to the maximum extent practicable, carry out the demonstration project in consultation with representatives of the academic institution or institutions with which affiliated.
 
@@ -308,7 +308,7 @@ Definition.—For purposes of this section, the term ‘base closure law’ mean
 
 &emsp;“(3) Section 2687 of title 10, United States Code.”
 
-Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: “The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law)may be provided as appropriate under chapter 55 of title 10, United States Code.”
+Pub. L. 98–525, title VI, §632(b), Oct. 19, 1984, 98 Stat. 2543, provided that: “The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall conduct demonstration projects under section 1092 of title 10, United States Code, for the purpose of evaluating the cost-effectiveness of chiropractic care. In the conduct of such demonstration projects, chiropractic care (including manual manipulation of the spine and other routine chiropractic procedures authorized under joint regulations prescribed by the Secretary of Defense and the Secretary of Health and Human Services and not otherwise prohibited by law) may be provided as appropriate under chapter 55 of title 10, United States Code.”
 
 #### Section Referred to in Other Sections
 

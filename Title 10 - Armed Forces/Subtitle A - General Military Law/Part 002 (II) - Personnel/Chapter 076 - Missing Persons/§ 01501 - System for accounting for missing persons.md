@@ -26,7 +26,7 @@ Uniform DoD Procedures.—(1) The Secretary of Defense shall prescribe procedure
 
 (3) Such procedures shall be prescribed in a single directive applicable to all elements of the Department of Defense.
 
-(4) As part of such procedures, the Secretary may provide for the extension, on a case-by-case basis, of any time limit specified in section 1502, 1503, or 1504 of this title. Any such extension may not be for a period in excess of the period with respect to which the extension is provided. Subsequent extensions may be provided on the same basis.
+(4) As part of such procedures, the Secretary may provide for the extension, on a case-by-casebasis, of any time limit specified in section 1502, 1503, or 1504 of this title. Any such extension may not be for a period in excess of the period with respect to which the extension is provided. Subsequent extensions may be provided on the same basis.
 
 (c)
 
@@ -80,7 +80,7 @@ Secretary Concerned.—In this chapter, the term ‘Secretary concerned’ inclu
 
 #### Recovery and Identification of Remains of Certain World War II Servicemen Lost in Pacific Theater of Operations
 
-Pub. L. 106–65, div. A, title V, §576, Oct. 5, 1999, 113 Stat. 624, provided that:
+Pub. L. 106–65, div. A, title V, §576, Oct. 5, 1999, 113 Stat. 624, as amended by Pub. L. 107–107, div. A, title X, §1048(g)(3), Dec. 28, 2001, 115 Stat. 1228, provided that:
 
 “(a)
 
@@ -88,7 +88,7 @@ Recovery of Remains.—(1) The Secretary of Defense shall make every reasonable 
 
 “(2) In order to provide high priority to carrying out paragraph (1), the Secretary of Defense shall consider increasing the number of personnel assigned to the Central Identification Laboratory, Hawaii.
 
-“(3) Not later than September 30, 2000, the Secretary shall submit to Congress a report setting forth the efforts made to accomplish the objectives specified in paragraph (1). The Secretary shall include in the report a statement of the backlog of cases at the Central Identification Laboratory, Hawaii, shown by conflict, and the status of the joint manning plan required by section 566(c) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2029)\[.\]
+“(3) Not later than September 30, 2000, the Secretary shall submit to Congress a report setting forth the efforts made to accomplish the objectives specified in paragraph (1). The Secretary shall include in the report a statement of the backlog of cases at the Central Identification Laboratory, Hawaii, shown by conflict, and the status of the joint manning plan required by section 566(c) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2029).
 
 “(b)
 
@@ -100,7 +100,7 @@ Pub. L. 105–85, div. A, title IX, §934, Nov. 18, 1997, 111 Stat. 1866, as ame
 
 “(a)
 
-Intelligence Analysis.—The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
+Intelligence Analysis.—The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on mattersconcerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
 
 “(b)
 

@@ -90,7 +90,7 @@ Each State program under this section shall provide for the implementation, at a
 
 &emsp;&emsp;(D) For fiscal year 1999 and each fiscal year thereafter, 30 percent of the amount awarded for fiscal year 1998 or other preceding fiscal year.
 
-> &emsp;The Administrator shall make amounts withheld under this paragraph available to States having programs approved pursuant to this subsection.
+> &emsp;The Administrator shall make amounts withheld under this paragraph available to Stateshaving programs approved pursuant to this subsection.
 
 #### (d) Technical assistance
 
@@ -108,7 +108,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) Review
 
-&emsp;The Secretary, in consultation with the Administrator of the Environmental ProtectionAgency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
+&emsp;The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall, within 18 months after November 5, 1990, review the inland coastal zone boundary of each coastal State program which has been approved or is proposed for approval under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], and evaluate whether the State's coastal zone boundary extends inland to the extent necessary to control the land and water uses that have a significant impact on coastal waters of the State.
 
 #### (2) Recommendation
 

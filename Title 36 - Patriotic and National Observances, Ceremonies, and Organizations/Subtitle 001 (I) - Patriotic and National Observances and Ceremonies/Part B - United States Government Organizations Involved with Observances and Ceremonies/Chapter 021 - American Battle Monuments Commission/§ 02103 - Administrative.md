@@ -56,7 +56,7 @@ Financial Statements and Audits.—(1) The Commission shall have a system of fin
 
 &emsp;&emsp;(ii) submit the financial statement, together with a narrative summary, to the Committees on Veterans’ Affairs of the Senate and House of Representatives; and
 
-&emsp;(B) obtain an audit by the Comptroller General of each financial statement prepared under subparagraph (A) of this paragraph, which shall be conducted in accordance with applicable generally accepted government auditing standards and shall be in lieu of any audit otherwise required by law.
+&emsp;(B) obtain an audit by the Comptroller General of each financial statement prepared under subparagraph (A) of this paragraph, which shall be conducted in accordance withapplicable generally accepted government auditing standards and shall be in lieu of any audit otherwise required by law.
 
 (i)
 

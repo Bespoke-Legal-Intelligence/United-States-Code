@@ -22,7 +22,7 @@ The indenture trustee shall exercise in case of default (as such term is defined
 
 The indenture to be qualified shall not contain any provisions relieving the indenture trustee from liability for its own negligent action, its own negligent failure to act, or its own willful misconduct, except that—
 
-&emsp;(1) such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain the provisions authorized by paragraphs (1) and (2) of subsection (a) of this section;
+&emsp;(1) such indenture shall automatically be deemed (unless it is expressly provided thereinthat any such provision is excluded) to contain the provisions authorized by paragraphs (1) and (2) of subsection (a) of this section;
 
 &emsp;(2) such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions protecting the indenture trustee from liability for any error of judgment made in good faith by a responsible officer or officers of such trustee, unless it shall be proved that such trustee was negligent in ascertaining the pertinent facts; and
 
@@ -38,7 +38,7 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 1990—Subsec. (a). Pub. L. 101–550, §414(1), (2), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may” and “the indenture trustee shall examine” for “such indenture shall contain provisions requiring the indenture trustee to examine”.
 
-Subsec. (b). Pub. L. 101–550, §414(3), (4), substituted “The indenture trustee shall” for “The indenture to bequalified shall contain provisions requiring the indenture trustee to” and “That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to” for “That such indenture may”.
+Subsec. (b). Pub. L. 101–550, §414(3), (4), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and “That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to” for “That such indenture may”.
 
 Subsec. (c). Pub. L. 101–550, §414(3), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to”.
 

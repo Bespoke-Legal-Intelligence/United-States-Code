@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) the enterprise has incurred or is reasonably likely to incur losses that would deplete substantially all of its core capital and it is unlikely that the enterprise will replenish its core capital within a reasonable period;
 
-&emsp;&emsp;&emsp;(iii) the enterprise has concealed or is concealing books, papers, records, or assets of the enterprise that are material to the discharge of the Director's responsibilities under this subchapter, or has refused or is refusing to submit such books, papers, records, or information regarding the affairs of the enterprise for inspection to the Director upon request; or
+&emsp;&emsp;&emsp;(iii) the enterprise has concealed or is concealing books, papers, records, or assets of the enterprise that are material to the discharge of the Director's responsibilities under this subchapter, or has refusedor is refusing to submit such books, papers, records, or information regarding the affairs of the enterprise for inspection to the Director upon request; or
 
 &emsp;&emsp;&emsp;(iv) the enterprise has willfully violated, or is willfully violating, a final cease-and-desist order under section 4631 of this title.
 
@@ -24,7 +24,7 @@
 
 #### (3) Notice
 
-&emsp;Upon making a determination under paragraph (1) of this subsection or under section4616 or 4617 of this title to appoint a conservator for an enterprise, or upon consent of the enterprise under paragraph (2) to such an appointment, the Director shall provide written notice to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate—
+&emsp;Upon making a determination under paragraph (1) of this subsection or under section 4616 or 4617 of this title to appoint a conservator for an enterprise, or upon consent of the enterprise under paragraph (2) to such an appointment, the Director shall provide written notice to the enterprise, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate—
 
 &emsp;&emsp;(A) that a conservator will be appointed for the enterprise;
 
@@ -92,7 +92,7 @@ This chapter, referred to in subsec. (a)(1)(A), was in the original “this titl
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House ofRepresentatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Section Referred to in Other Sections
 

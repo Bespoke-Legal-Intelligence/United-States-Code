@@ -26,7 +26,7 @@ Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment
 
 #### Subtitle Referred to in Other Sections
 
-This subtitle is referred to in sections 1314, 1398, 6242, 6305, 6331, 6656, 7436, 7508, 7512, 7519, 7873 of this title; title 33 section 902.
+This subtitle is referred to in sections 139, 1314, 1398, 6242, 6305, 6331, 6656, 7436, 7508, 7512, 7519, 7873 of this title; title 33 section 902.
 
 <i><sup>1</sup></i><i> Section numbers editorially supplied.</i>
 

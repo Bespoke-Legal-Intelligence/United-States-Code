@@ -10,7 +10,7 @@
 
 &emsp;(4) of an appeal from a decision of—
 
-&emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
+&emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appealshall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
 
 &emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
 
@@ -38,7 +38,7 @@
 
 (b) The head of any executive department or agency may, with the approval of the Attorney General, refer to the Court of Appeals for the Federal Circuit for judicial review any final decision rendered by a board of contract appeals pursuant to the terms of any contract with the United States awarded by that department or agency which the head of such department or agency has concluded is not entitled to finality pursuant to the review standards specified in section 10(b) of the Contract Disputes Act of 1978 (41 U.S.C. 609(b)). The head of each executive department or agency shall make any referral under this section within one hundred and twenty days after the receipt of a copy of the final appeal decision.
 
-(c) The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 10(b) of the Contract Disputes Act of 1978. The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, andshall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
+(c) The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 10(b) of the Contract Disputes Act of 1978. The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, and shall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
 
 (Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(2), 4732(b)(14)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–584.)
 

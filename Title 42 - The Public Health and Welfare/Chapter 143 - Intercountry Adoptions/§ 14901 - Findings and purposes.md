@@ -36,7 +36,7 @@ Effective Dates.—
 
 &emsp;“(1)
 
-Provisions effective upon enactment.—Sections 2, 3, 101 through 103, 202 through 205, 401(a), 403,503, and 505(a) \[enacting this section and sections 14902, 14911 to 14913, 14922 to 14924, 14941(a), 14943, and 14953 of this title and amending section 622 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 6, 2000\].
+Provisions effective upon enactment.—Sections 2, 3, 101 through 103, 202 through 205, 401(a), 403, 503, and 505(a) \[enacting this section and sections 14902, 14911 to 14913, 14922 to 14924, 14941(a), 14943, and 14953 of this title and amending section 622 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 6, 2000\].
 
 &emsp;“(2)
 

@@ -68,7 +68,7 @@ In subsec. (e), “section 558(c) of title 5” substituted for “section 1008(
 
 #### Repeals
 
-Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub. L. 93–443, title II, §205(b), Oct. 15,1974, 88 Stat. 1278, has been construed as not repealing the amendment to this section made by section 103(a)(2)(A) of such title I.
+Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub. L. 93–443, title II, §205(b), Oct. 15, 1974, 88 Stat. 1278, has been construed as not repealing the amendment to this section made by section 103(a)(2)(A) of such title I.
 
 #### Declination of Political Advertising by Educational Broadcast Stations
 

@@ -156,7 +156,7 @@ Subsec. (b)(1)(D) to (G). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(
 
 Subsec. (b)(2). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(ii), (iii)\], in introductory provisions, substituted “subparagraph (F)” for “subparagraph (G)” and “subparagraphs (D), (E), and (F)” for “subparagraphs (E), (F), and (G)”.
 
-Subsec. (b)(3). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(ii)\], substituted “subparagraphs (D), (E), and (F)” for “subparagraphs (E), (F), and (G)” wherever appearing.
+Subsec. (b)(3). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(ii)\], substituted “subparagraphs (D), (E),and (F)” for “subparagraphs (E), (F), and (G)” wherever appearing.
 
 Subsec. (b)(4). Pub. L. 104–134, §101(d) \[title VII, §703(a)(17)(A)(iv)\], substituted “and (C)” for “(C), and (D)”.
 

@@ -188,7 +188,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 &emsp;&emsp;(B) an extended repayment plan, with a fixed annual repayment amount paid over an extended period of time, except that the borrower shall annually repay a minimum amount determined by the Secretary in accordance with section 1078(b)(1)(L) of this title;
 
-&emsp;&emsp;(C) a graduated repayment plan, with annual repayment amounts established at 2 ormore graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on the amount owed would be if the loan were repaid under the standard repayment plan; and
+&emsp;&emsp;(C) a graduated repayment plan, with annual repayment amounts established at 2 or more graduated levels and paid over a fixed or extended period of time, except that the borrower's scheduled payments shall not be less than 50 percent, nor more than 150 percent, of what the amortized payment on the amount owed would be if the loan were repaid under the standard repayment plan; and
 
 &emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan.
 
@@ -296,7 +296,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (1) In general
 
-&emsp;Proceeds of loans to students under this part shall be applied to the student's account for tuition and fees, and, in the case of institutionally owned housing, to room and board. Loan proceeds that remain after the application of the previous sentence shall be delivered to the borrower by check or other means that is payable to and requires the endorsement or other certification by such borrower.
+&emsp;Proceeds of loans to students under this part shall be applied to the student's account fortuition and fees, and, in the case of institutionally owned housing, to room and board. Loan proceeds that remain after the application of the previous sentence shall be delivered to the borrower by check or other means that is payable to and requires the endorsement or other certification by such borrower.
 
 #### (2) Payment periods
 

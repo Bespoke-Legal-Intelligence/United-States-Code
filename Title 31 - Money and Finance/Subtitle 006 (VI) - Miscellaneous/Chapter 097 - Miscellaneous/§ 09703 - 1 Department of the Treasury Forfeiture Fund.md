@@ -4,7 +4,7 @@
 
 In General.—There is established in the Treasury of the United States a fund to be known as the “Department of the Treasury Forfeiture Fund” (referred to in this section as the “Fund”). The Fund shall be available to the Secretary, without fiscal year limitation, with respect to seizures and forfeitures made pursuant to any law (other than section 7301 or 7302 of the Internal Revenue Code of 1986) enforced or administered by the Department of the Treasury or the United States Coast Guard for the following law enforcement purposes:
 
-&emsp;(1)(A) Payment of all proper expenses of seizure (including investigative costs incurred by a Department of the Treasury law enforcement organization leading to seizure) or the proceedings of forfeiture and sale, including the expenses of detention, inventory, security, maintenance, advertisement, or disposal of theproperty, and if condemned by a court and a bond for such costs was not given, the costs as taxed by the court.
+&emsp;(1)(A) Payment of all proper expenses of seizure (including investigative costs incurred by a Department of the Treasury law enforcement organization leading to seizure) or the proceedings of forfeiture and sale, including the expenses of detention, inventory, security, maintenance, advertisement, or disposal of the property, and if condemned by a court and a bond for such costs was not given, the costs as taxed by the court.
 
 &emsp;(B) Payment for—
 
@@ -144,7 +144,7 @@ Deposits and Credits.—
 
 &emsp;&emsp;(B) all income from investments made under subsection (e); and
 
-&emsp;&emsp;(C) all amounts representing the equitable share of a Department of the Treasury lawenforcement organization or the United States Coast Guard from the forfeiture of property under any Federal, State, local, or foreign law.
+&emsp;&emsp;(C) all amounts representing the equitable share of a Department of the Treasury law enforcement organization or the United States Coast Guard from the forfeiture of property under any Federal, State, local, or foreign law.
 
 (e)
 
@@ -168,7 +168,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;(A) the balance of the Fund at the beginning of the preceding fiscal year;
 
-&emsp;&emsp;(B) liens and mortgages paid and the amount of money shared with Federal, State, local, and foreign law enforcement agencies during the preceding fiscal year;
+&emsp;&emsp;(B) liens and mortgages paid and the amount of money shared with Federal,State, local, and foreign law enforcement agencies during the preceding fiscal year;
 
 &emsp;&emsp;(C) the net amount realized from the operations of the Fund during the preceding fiscal year, the amount of seized cash being held as evidence, and the amount of money that has been carried over into the current fiscal year;
 
@@ -206,7 +206,7 @@ Appropriations.—
 
 &emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
-&emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year <sup>7</sup> 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remainingpursuant to section 4(B) of 9703(g) <sup>8</sup> shall also be carried forward.
+&emsp;(C) The Secretary of the Treasury shall reserve an amount not to exceed $30,000,000 from the unobligated balances remaining in the Customs Forfeiture Fund on September 30, 1992, and such amount shall be transferred to the Fund on October 1, 1992, or, if later, the date that is 15 days after the date of the enactment of this section. Such amount shall be available for any expenses or activities authorized under this section. At the end of fiscal year <sup>7</sup> 1993, 1994, 1995, and 1996, the Secretary shall reserve in the Fund an amount not to exceed $50,000,000 of the unobligated balances in the Fund, or, if the Secretary determines that a greater amount is necessary for asset specific expenses, an amount equal to not more than 10 percent of the total obligations from the Fund in the preceding fiscal year. At the end of fiscal year 1997, and at the end of each fiscal year thereafter, the Secretary shall reserve any amounts that are required to be retained in the Fund to ensure the availability of amounts in the subsequent fiscal year for purposes authorized under subsection (a). Unobligated balances remaining pursuant to section 4(B) of 9703(g) <sup>8</sup> shall also be carried forward.
 
 &emsp;(4)(A) After reserving any amount authorized by paragraph (3)(C), any unobligated balances remaining in the Fund on September 30, 1993, shall be deposited into the general fund of the Treasury of the United States.
 
@@ -298,7 +298,7 @@ Bureau of Alcohol, Tobacco and Firearms.—
 
 &emsp;&emsp;(C) the compromise of claims,
 
-> &emsp;shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms.
+> &emsp;shall apply to seizures and forfeitures incurred, or alleged to have been incurred, underany applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms.
 
 &emsp;(2) For purposes of paragraph (1), duties that are imposed upon a Customs officer or any other person with respect to the seizure and forfeiture of property under the Customs laws of the United States shall be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as may be authorized or designated for that purpose by the Secretary.
 
@@ -320,7 +320,7 @@ Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
 Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (<i>o</i>)(1), is classified to section 5872(b)(2) of Title 26.
 
-The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, as amended, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Tables.
+The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, as amended, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to section 1630 of Title 19, Customs Duties.
 
@@ -362,7 +362,7 @@ Subsec. (e). Pub. L. 103–182, §685(3), substituted “may” for “shall” 
 
 #### Unavailable Collections
 
-Section 122(a) of Pub. L. 105–61 provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 \[6073\] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B).”
+Section 122(a) of Pub. L. 105–61 provided that: “The Secretary of the Treasury is authorized to receive allunavailable collections transferred from the Special Forfeiture Fund established by section 26073 \[6073\] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B).”
 
 #### Section Referred to in Other Sections
 

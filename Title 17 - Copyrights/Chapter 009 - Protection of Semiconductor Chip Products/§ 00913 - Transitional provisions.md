@@ -1,6 +1,6 @@
 ### §913. Transitional provisions
 
-(a) No application for registration under section 908 may be filed, and no civil action under section 910 or other enforcement proceeding under this chapter may be instituted, until sixty days after the date of the enactment of this chapter.
+(a) No application for registration under section 908 may be filed, and no civil action undersection 910 or other enforcement proceeding under this chapter may be instituted, until sixty days after the date of the enactment of this chapter.
 
 (b) No monetary relief under section 911 may be granted with respect to any conduct that occurred before the date of the enactment of this chapter, except as provided in subsection (d).
 

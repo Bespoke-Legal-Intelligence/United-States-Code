@@ -18,11 +18,11 @@ The Secretary may not make a grant under subsection (a) of this section for a me
 
 #### (B) Limitation
 
-&emsp;&emsp;Subparagraph (A) does not apply to any metropolitan area that was an eligible area under this part for fiscal year 1995 or any prior fiscal year.
+&emsp;&emsp;Subparagraph (A) does not apply to any metropolitan area that was an eligible areaunder this part for fiscal year 1995 or any prior fiscal year.
 
 #### (2) Geographic boundaries
 
-&emsp;For purposes of eligibility under this part, the boundaries of each metropolitan area arethe boundaries that were in effect for the area for fiscal year 1994.
+&emsp;For purposes of eligibility under this part, the boundaries of each metropolitan area are the boundaries that were in effect for the area for fiscal year 1994.
 
 #### (d) Continued status as eligible area
 

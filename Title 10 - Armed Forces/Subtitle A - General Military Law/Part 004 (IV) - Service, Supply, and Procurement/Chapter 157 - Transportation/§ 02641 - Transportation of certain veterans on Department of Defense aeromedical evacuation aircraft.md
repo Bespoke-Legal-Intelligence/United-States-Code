@@ -22,7 +22,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–337, §652(b)(1), inserted before period “or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the place from which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place”.
+1994—Subsec. (a). Pub. L. 103–337, §652(b)(1), inserted before period “or of transporting the remains of a deceased veteran who died at such a facility after being transported to the facility under this subsection. Transportation of the remains of a deceased veteran under this subsection may be provided to the placefrom which the veteran was transported to the facility or to any other destination which is not farther away from the facility than such place”.
 
 Subsec. (b). Pub. L. 103–337, §652(b)(2)(A)(i), inserted “(or for the remains of a veteran)” after “furnished to a veteran” in introductory provisions.
 

@@ -78,7 +78,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a person subject to this subchapter fails to obey an order issued under this paragraph after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, the United States may apply to the appropriate United States district court for enforcement of the order.
+&emsp;&emsp;&emsp;If a person subject to this subchapter fails to obey an order issued under this paragraph after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary,the United States may apply to the appropriate United States district court for enforcement of the order.
 
 #### (ii) Enforcement
 

@@ -24,11 +24,15 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 #### Effective Date
 
-Section 902(a) of act June 25, 1938, provided that: “This Act \[enacting this chapter and repealing sections 1 to 5 and 7 to 15 of this title\], shall take effect twelve months after the date of its enactment \[June 25, 1938\]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: <i>Provided</i>, That the provisions of section 701 \[section 371 of this title\] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) \[section 343(i) of this title\] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 \[section 341 of this title\]: <i>Provided further</i>,That sections 502(j), 505, and 601(a) \[sections 352(j), 355, 361(a), respectively of this title\], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section 601(a) \[section 361(a) of this title\], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: <i>Provided further</i>, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 \[section 321a of this title\]; 42 Stat. 1500, ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 \[section 321b of this title\]; 41 Stat. 271, ch. 26\], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a \[section 372a of this title\]) shall remain in force and effect and be applicable to the provisions of this Act.”
+Section 902(a) of act June 25, 1938, provided that: “This Act \[enacting this chapter and repealing sections1 to 5 and 7 to 15 of this title\], shall take effect twelve months after the date of its enactment \[June 25, 1938\]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: <i>Provided</i>, That the provisions of section 701 \[section 371 of this title\] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) \[section 343(i) of this title\] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 \[section 341 of this title\]: <i>Provided further</i>, That sections 502(j), 505, and 601(a) \[sections 352(j), 355, 361(a), respectively of this title\], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section 601(a) \[section 361(a) of this title\], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: <i>Provided further</i>, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 \[section 321a of this title\]; 42 Stat. 1500, ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 \[section 321b of this title\]; 41 Stat. 271, ch. 26\], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a \[section 372a of this title\]) shall remain in force and effect and be applicable to the provisions of this Act.”
 
 #### Hazardous Substances
 
 Federal Hazardous Substances Act as not modifying this chapter, see Pub. L. 86–613, §18, July 12, 1960, 74 Stat. 380, set out as an Effect Upon Federal and State Laws note under section 1261 of Title 15, Commerce and Trade.
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–109, §1, Jan. 4, 2002, 115 Stat. 1408, provided that: “This Act \[enacting sections 355b and 393a of this title and section 284m of Title 42, The Public Health and Welfare, amending sections 321, 355, 355a, and 379h of this title and sections 282, 284k, 284<i>l</i>, 285a–2, and 290b of Title 42, and enacting provisions set out as notes under sections 355 and 355a of this title and sections 284m and 289 of Title 42\] may be cited as the ‘Best Pharmaceuticals for Children Act’.”
 
 #### Short Title of 2000 Amendment
 
@@ -66,7 +70,7 @@ Pub. L. 103–80, §1, Aug. 13, 1993, 107 Stat. 773, provided that: “This Act 
 
 #### Short Title of 1992 Amendments
 
-Pub. L. 102–571, title I, §101(a), Oct. 29, 1992, 106 Stat. 4491, provided that: “This title \[enacting sections 379g and 379h of this title, transferring sections 372a, 376, and 379c of this title to sections 376, 379e and 379f, respectively, of this title, amending sections 321, 331, 342, 343, 346a, 351, 352, 360j, 361, 362, 453, 601, and 1033 of this title, enacting provisions set out as notes under section 379g of this title, and amending provisions set out as notes under sections 343 and 343–1 of this title\] may be cited as the ‘Prescription Drug User Fee Act of 1992’.”
+Pub. L. 102–571, title I, §101(a), Oct. 29, 1992, 106 Stat. 4491, provided that: “This title \[enacting sections 379g and 379h of this title, transferring sections 372a, 376, and 379c of this title to sections 376, 379e and 379f, respectively, of this title, amending sections 321, 331, 342, 343, 346a, 351, 352, 360j, 361, 362, 453, 601, and 1033 of this title, enacting provisions set out as notes under section379g of this title, and amending provisions set out as notes under sections 343 and 343–1 of this title\] may be cited as the ‘Prescription Drug User Fee Act of 1992’.”
 
 Pub. L. 102–571, title II, §201, Oct. 29, 1992, 106 Stat. 4500, provided that: “This title \[enacting provisions set out as notes under sections 343 and 393 of this title and amending provisions set out as notes under sections 343 and 343–1 of this title\] may be cited as the ‘Dietary Supplement Act of 1992’.”
 
@@ -78,7 +82,7 @@ Pub. L. 102–282, §1(a), May 13, 1992, 106 Stat. 149, provided that: “This A
 
 #### Short Title of 1990 Amendments
 
-Pub. L. 101–635, §1(a), Nov. 28, 1990, 104 Stat. 4583, provided that: “This Act \[enacting sections 379b to 379dand 394 of this title\] may be cited as the ‘Food and Drug Administration Revitalization Act’.”
+Pub. L. 101–635, §1(a), Nov. 28, 1990, 104 Stat. 4583, provided that: “This Act \[enacting sections 379b to 379d and 394 of this title\] may be cited as the ‘Food and Drug Administration Revitalization Act’.”
 
 Pub. L. 101–629, §1(a), Nov. 28, 1990, 104 Stat. 4511, provided that: “This Act \[enacting sections 360<i>l</i> and 383 of this title, amending sections 321, 333, 351, 353, and 360c to 360j of this title and sections 263b to 263n of Title 42, The Public Health and Welfare, redesignating sections 263b to 263n of Title 42 as sections 360gg to 360ss of this title, repealing section 263b of Title 42, and enacting provisions set out as notes under sections 333, 360c, 360i, 360j, 360hh and 383 of this title\] may be cited as the ‘Safe Medical Devices Act of 1990’.”
 
@@ -126,7 +130,7 @@ Pub. L. 95–203, §1, Nov. 23, 1977, 91 Stat. 1451, provided that: “This Act 
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–295, §1(a), May 28, 1976, 90 Stat. 539, provided that: “This Act \[enacting sections 360c to 360k, 379, and 379a of this title and section 3512 of Title 42, The Public Health and Welfare, and amending sections 321, 331, 334, 351, 352, 358, 360, 374, 379e, and 381 of this title and section 55 of Title 15, Commerce and Trade\] may be cited as the ‘Medical Device Amendments of 1976’.”
+Pub. L. 94–295, §1(a), May 28, 1976, 90 Stat. 539, provided that: “This Act \[enacting sections 360c to 360k,379, and 379a of this title and section 3512 of Title 42, The Public Health and Welfare, and amending sections 321, 331, 334, 351, 352, 358, 360, 374, 379e, and 381 of this title and section 55 of Title 15, Commerce and Trade\] may be cited as the ‘Medical Device Amendments of 1976’.”
 
 #### Short Title of 1972 Amendment
 
@@ -140,7 +144,7 @@ Pub. L. 90–399, §1, July 13, 1968, 82 Stat. 342, provided: “That this Act \
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–74, §1, July 15, 1965, 79 Stat. 226, provided: “That this Act \[amending sections 321, 331, 333, 334, 360,and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321 and 352 of this title\] may be cited as the ‘Drug Abuse Control Amendments of 1965’.”
+Pub. L. 89–74, §1, July 15, 1965, 79 Stat. 226, provided: “That this Act \[amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321 and 352 of this title\] may be cited as the ‘Drug Abuse Control Amendments of 1965’.”
 
 #### Short Title of 1962 Amendment
 

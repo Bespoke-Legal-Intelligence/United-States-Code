@@ -14,7 +14,7 @@ Nothing in subsection (a) of this section shall be construed to exclude as a qua
 
 &emsp;(3) is erroneously regarded as engaging in such use, but is not engaging in such use;
 
-> except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed toensure that an individual described in paragraph (1) or (2) is no longer engaging in the illegal use of drugs.
+> except that it shall not be a violation of this chapter for a covered entity to adopt or administer reasonable policies or procedures, including but not limited to drug testing, designed to ensure that an individual described in paragraph (1) or (2) is no longer engaging in the illegal use of drugs.
 
 #### (c) Authority of covered entity
 

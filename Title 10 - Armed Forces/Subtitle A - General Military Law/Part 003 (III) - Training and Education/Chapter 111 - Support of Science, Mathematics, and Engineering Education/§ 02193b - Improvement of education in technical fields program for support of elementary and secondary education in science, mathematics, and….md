@@ -26,7 +26,9 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 
 (f)
 
-Authority to Accept Financial and Other Support.—The Secretary of Defense and the Secretaries of the military departments may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
+Authority to Accept Financial and Other Support.—(1) The Secretary of Defense and the Secretaries of the military departments may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
+
+(2) The Secretary of Defense shall remain the executive agent to carry out the program regardless of the source of funds for the program or any transfer of jurisdiction over the program within the executive branch.
 
 (g)
 
@@ -36,11 +38,15 @@ Annual Report.—Not later than 90 days after the end of each fiscal year, the S
 
 State Defined.—In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.
 
-(Added Pub. L. 106–65, div. A, title V, §580(a), Oct. 5, 1999, 113 Stat. 631.)
+(Added Pub. L. 106–65, div. A, title V, §580(a), Oct. 5, 1999, 113 Stat. 631; amended Pub. L. 107–107, div. A, title V, §596(b), Dec. 28, 2001, 115 Stat. 1127.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 106–65, which was approved Oct. 5, 1999.
+
+#### Amendments
+
+2001—Subsec. (f). Pub. L. 107–107 designated existing provisions as par. (1) and added par. (2).
 
 #### Existing STARBASE Academies
 

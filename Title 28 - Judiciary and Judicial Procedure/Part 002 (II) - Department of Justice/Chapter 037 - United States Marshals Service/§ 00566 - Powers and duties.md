@@ -10,7 +10,7 @@
 
 (e)(1) The United States Marshals Service is authorized to—
 
-&emsp;(A) provide for the personal protection of Federal jurists, court officers, witnesses, and other threatened persons in the interests ofjustice where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding; and
+&emsp;(A) provide for the personal protection of Federal jurists, court officers, witnesses, and other threatened persons in the interests of justice where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding; and
 
 &emsp;(B) investigate such fugitive matters, both within and outside the United States, as directed by the Attorney General.
 

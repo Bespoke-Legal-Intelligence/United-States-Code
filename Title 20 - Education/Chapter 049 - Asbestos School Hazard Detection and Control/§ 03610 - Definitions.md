@@ -10,7 +10,7 @@ For purposes of this chapter—
 
 &emsp;(2) the term “Attorney General” means the Attorney General of the United States;
 
-&emsp;(3) the term “imminent hazard to the health and safety” means, for purposes of section 3605of this title, that an asbestos material is, according to standards established by the Secretary, friable or easily damaged, or within easy reach of students or otherwise susceptible to damage (including damage from water or air circulation) which could result in the dispersal of asbestos fibers into the school environment;
+&emsp;(3) the term “imminent hazard to the health and safety” means, for purposes of section 3605 of this title, that an asbestos material is, according to standards established by the Secretary, friable or easily damaged, or within easy reach of students or otherwise susceptible to damage (including damage from water or air circulation) which could result in the dispersal of asbestos fibers into the school environment;
 
 &emsp;(4) the term “local educational agency” means—
 
@@ -44,7 +44,7 @@ For purposes of this chapter—
 
 #### References in Text
 
-Section 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (4)(A), (5)(A), and (9), is section 198 of Pub. L. 89–10, title I, as added by Pub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to section 2854 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definitions, see section 8801 of this title.
+Section 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (4)(A), (5)(A), and (9), is section 198 of Pub. L. 89–10, title I, as added by Pub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to section 2854 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definitions, see section 7801 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

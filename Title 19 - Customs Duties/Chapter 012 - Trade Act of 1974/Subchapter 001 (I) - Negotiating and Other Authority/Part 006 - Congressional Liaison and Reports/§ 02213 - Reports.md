@@ -16,7 +16,7 @@
 
 &emsp;(C) reciprocal concessions obtained;
 
-&emsp;(D) changes in trade agreements (including the incorporation therein of actions taken forimport relief and compensation provided therefor);
+&emsp;(D) changes in trade agreements (including the incorporation therein of actions taken for import relief and compensation provided therefor);
 
 &emsp;(E) the extension or withdrawal of nondiscriminatory treatment by the United States with respect to the products of foreign countries;
 
@@ -90,7 +90,7 @@
 
 #### (c) ITC reports
 
-The United States International Trade Commission shall submit to the Congress, at leastonce a year, a factual report on the operation of the trade agreements program.
+The United States International Trade Commission shall submit to the Congress, at least once a year, a factual report on the operation of the trade agreements program.
 
 (Pub. L. 93–618, title I, §163, Jan. 3, 1975, 88 Stat. 2009; Pub. L. 100–418, title I, §1641, Aug. 23, 1988, 102 Stat. 1271.)
 
@@ -104,7 +104,7 @@ This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original “
 
 #### Trade Deficit Review Commission
 
-Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, as amended by Pub. L. 106–57, title III, §311, Sept. 29, 1999, 113 Stat. 427; Pub. L. 106–246, div. B, title II, §2501, July 13, 2000, 114 Stat. 556, provided that:
+Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, as amended by Pub. L. 106–57, title III, §311, Sept. 29, 1999, 113 Stat. 427; Pub. L. 106–246, div. B, title II, §2501, July 13, 2000, 114 Stat. 556; Pub. L. 107–107, div. A, title X, §1048(i)(10), Dec. 28, 2001, 115 Stat. 1229, provided that:
 
 “(a)
 
@@ -332,15 +332,7 @@ Procurement of temporary and intermittent services.—The Chairperson of the Com
 
 &emsp;“(6)
 
-Applicability of certain pay authorities.—
-
-&emsp;&emsp;“(A)
-
-In general.—An individual who is a member of the Commission and is an annuitant or otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the Commission is not subject to the provisions of section8344 or 8468 (whichever is applicable) with respect to such membership.
-
-&emsp;&emsp;“(B)
-
-Uniformed service.—An individual who is a member of the Commission and is a member or former member of a uniformed service is not subject to the provisions of subsections (b) and (c) of section 5532 \[of title 5\], United States Code, with respect to membership on the Commission.
+Applicability of certain pay authorities.—An individual who is a member of the Commission and is an annuitant or otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the Commission is not subject to the provisions of section 8344 or 8468 (whichever is applicable) with respect to such membership.
 
 “(h)
 

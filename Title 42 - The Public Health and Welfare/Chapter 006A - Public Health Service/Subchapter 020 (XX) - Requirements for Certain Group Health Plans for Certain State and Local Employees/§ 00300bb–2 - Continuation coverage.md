@@ -36,7 +36,7 @@ For purposes of section 300bb–1 of this title, the term “continuation covera
 
 #### (C) Failure to pay premium
 
-&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 daysafter the date due or within such longer period as applies to or under the plan.
+&emsp;&emsp;The date on which coverage ceases under the plan by reason of a failure to make timely payment of any premium required under the plan with respect to the qualified beneficiary. The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.
 
 #### (D) Group health plan coverage or medicare entitlement
 
@@ -90,7 +90,7 @@ Par. (2)(A)(iv). Pub. L. 104–188 amended heading and text of cl. (iv) generall
 
 Par. (2)(D)(i). Pub. L. 104–191, §421(a)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or subchapter XXV of this chapter)” before “, or”.
 
-Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
+Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted “at any time during the first 60 days of continuationcoverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
 
 1989—Par. (2)(A). Pub. L. 101–239, §6702(a)(1), inserted after cl. (iii) “In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months.”
 

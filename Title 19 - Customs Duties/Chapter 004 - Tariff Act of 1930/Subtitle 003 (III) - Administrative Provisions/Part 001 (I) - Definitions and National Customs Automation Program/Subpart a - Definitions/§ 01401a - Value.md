@@ -376,5 +376,5 @@ Section 6 of act Aug. 2, 1956, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 58c, 1332, 1351, 1500, 2112, 2481 of this title; title 26 sections 904, 927, 993.
+This section is referred to in sections 58c, 1332, 1351, 1500, 2112, 2481 of this title; title 26 sections 904, 927, 943, 993.
 

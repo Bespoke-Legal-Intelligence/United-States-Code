@@ -66,7 +66,7 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;&emsp;(A) is, subject to subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) in the case of an imported product, the actual entered value at United States Customs (exclusive of any freight, insurance, and applicable duty), and
+&emsp;&emsp;&emsp;(i) in the case of an imported product, the actual entered value at United StatesCustoms (exclusive of any freight, insurance, and applicable duty), and
 
 &emsp;&emsp;&emsp;(ii) in the case of a domestic product, the manufacturer's transfer price (FOB the manufacturer, and exclusive of any direct sales taxes or excise taxes incurred in connection with the sale); and
 

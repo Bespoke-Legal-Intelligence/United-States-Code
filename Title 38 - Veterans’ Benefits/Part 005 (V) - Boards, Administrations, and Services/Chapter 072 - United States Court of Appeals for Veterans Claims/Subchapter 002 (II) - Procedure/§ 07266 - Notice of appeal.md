@@ -1,22 +1,22 @@
 ### §7266. Notice of appeal
 
-(a)(1) In order to obtain review by the Court of Appeals for Veterans Claims of a final decision of the Board of Veterans’ Appeals, a person adversely affected by such decision shall file a notice of appeal with the Court within 120 days after the date on which notice of the decision is mailed pursuant to section 7104(e) of this title.
+(a) In order to obtain review by the Court of Appeals for Veterans Claims of a final decision of the Board of Veterans’ Appeals, a person adversely affected by such decision shall file a notice of appeal with the Court within 120 days after the date on which notice of the decision is mailed pursuant to section 7104(e) of this title.
 
-(2) An appellant shall file a notice of appeal under this section by delivering or mailing the notice to the Court.
+(b) An appellant shall file a notice of appeal under this section by delivering or mailing the notice to the Court.
 
-(3) A notice of appeal shall be deemed to be received by the Court as follows:
+(c) A notice of appeal shall be deemed to be received by the Court as follows:
 
-&emsp;(A) On the date of receipt by the Court, if the notice is delivered.
+&emsp;(1) On the date of receipt by the Court, if the notice is delivered.
 
-&emsp;(B) On the date of the United States Postal Service postmark stamped on the cover in which the notice is posted, if the notice is properly addressed to the Court and is mailed.
+&emsp;(2) On the date of the United States Postal Service postmark stamped on the cover in which the notice is posted, if the notice is properly addressed to the Court and is mailed.
 
-(4) For a notice of appeal mailed to the Court to be deemed to be received under paragraph (3)(B) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
+(d) For a notice of appeal mailed to the Court to be deemed to be received under subsection (c)(2) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
 
-(b) The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section.
-
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, §507, Dec. 27, 2001, 115 Stat. 997.)
 
 #### Amendments
+
+2001—Pub. L. 107–103 struck out “(1)” before “In order to”, redesignated par. (2) of subsec. (a) as subsec. (b),redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted “subsection (c)(2)” for “paragraph (3)(B)”, and struck out former subsec. (b) which read as follows: “The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section.”
 
 1998—Subsec. (a)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 

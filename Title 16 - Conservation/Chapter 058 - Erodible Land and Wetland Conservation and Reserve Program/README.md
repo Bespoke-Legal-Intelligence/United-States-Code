@@ -125,10 +125,9 @@ I74subpart a—general provisions
 | (c) | Limitation. |
 | (d) | Condition of contract. |
 | [3836\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Environmental%20Conservation%20Acreage%20Reserve%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003836%20-%20Base%20history.md) | Base history. |
-| (a) | Reductions. |
-| (b) | Basis for participation in other Federal programs. |
-| (c) | Extension of preservation of cropland base and allotment history. |
-| (d) | Additional remedy for violations. |
+| (a) | Basis for participation in other Federal programs. |
+| (b) | Extension of preservation of cropland base and allotment history. |
+| (c) | Additional remedy for violations. |
 | [3836a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Resources%20Conservation%20Program/Part%20001%20%28I%29%20-%20Environmental%20Conservation%20Acreage%20Reserve%20Program/Subpart%20b%20-%20Conservation%20Reserve/%C2%A7%2003836a%20-%20Wildlife%20Habitat%20Incentive%20Program.md) | Wildlife Habitat Incentive Program. |
 | (a) | In general. |
 | (b) | Cost-share payments. |

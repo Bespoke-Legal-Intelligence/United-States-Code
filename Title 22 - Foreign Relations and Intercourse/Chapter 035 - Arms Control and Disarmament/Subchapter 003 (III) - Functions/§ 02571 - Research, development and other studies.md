@@ -78,7 +78,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### Report on International Transfer of Conventional Arms
 
-Pub. L. 92–352, title III, §302, July 13, 1972, 86 Stat. 495, directed Arms Control and Disarmament Agency, withcooperation of other agencies, to prepare a comprehensive report on international transfer of conventional arms and submit this report no later than one year after July 13, 1972, with an interim report submitted no later than six months after July 13, 1972.
+Pub. L. 92–352, title III, §302, July 13, 1972, 86 Stat. 495, directed Arms Control and Disarmament Agency, with cooperation of other agencies, to prepare a comprehensive report on international transfer of conventional arms and submit this report no later than one year after July 13, 1972, with an interim report submitted no later than six months after July 13, 1972.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

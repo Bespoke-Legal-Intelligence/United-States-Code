@@ -12,7 +12,7 @@
 
 #### (3) Transmittal of list
 
-&emsp;No later than one year after November 29, 1990, the Secretary shall transmit to the Congress the list of priority coastal wetlands restoration projects required by paragraph (1) of this subsection. Thereafter, the list shall be updated annually by the Task Force members and transmitted by the Secretary to the Congress as part of the President's annual budget submission. Annual transmittals of the list to the Congress shall include a status report oneach project and a statement from the Secretary of the Treasury indicating the amounts available for expenditure to carry out this chapter.
+&emsp;No later than one year after November 29, 1990, the Secretary shall transmit to the Congress the list of priority coastal wetlands restoration projects required by paragraph (1) of this subsection. Thereafter, the list shall be updated annually by the Task Force members and transmitted by the Secretary to the Congress as part of the President's annual budget submission. Annual transmittals of the list to the Congress shall include a status report on each project and a statement from the Secretary of the Treasury indicating the amounts available for expenditure to carry out this chapter.
 
 #### (4) List of contents
 
@@ -86,7 +86,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (7) Plan evaluation
 
-&emsp;Not less than three years after the completion and submission of the restoration plan required by this subsection and at least every three years thereafter, the Task Force shallprovide a report to the Congress containing a scientific evaluation of the effectiveness of the coastal wetlands restoration projects carried out under the plan in creating, restoring, protecting and enhancing coastal wetlands in Louisiana.
+&emsp;Not less than three years after the completion and submission of the restoration plan required by this subsection and at least every three years thereafter, the Task Force shall provide a report to the Congress containing a scientific evaluation of the effectiveness of the coastal wetlands restoration projects carried out under the plan in creating, restoring, protecting and enhancing coastal wetlands in Louisiana.
 
 #### (c) Coastal wetlands restoration project benefits
 
@@ -110,7 +110,7 @@ The Secretary shall, with the funds made available in accordance with this chapt
 
 #### (2) Federal share upon conservation plan approval
 
-&emsp;Notwithstanding the previous paragraph, if the State develops a Coastal Wetlands Conservation Plan pursuant to this chapter, and such conservation plan is approved pursuant to section 3953 of this title, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project under this section shall be 85 percent of the cost of the project. In the event that the Secretary, the Director, and the Administrator jointly determine that the State is not taking reasonable steps to implement and administer a conservation plan developed and approved pursuant to this chapter, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project shall revert to 75 percent of the cost of the project: <i>Provided, however</i>, that <sup>1</sup> such reversion to the lower cost share level shall not occur until the Governor has been provided notice of, and opportunity for hearing on, any such determination by the Secretary, the Director, and Administrator, and the State has been given ninety days from such notice or hearing to take corrective action.
+&emsp;Notwithstanding the previous paragraph, if the State develops a Coastal Wetlands Conservation Plan pursuant to this chapter, and such conservation plan is approved pursuant to section 3953 of this title, amounts made available in accordance with section 3955 of this title for any coastal wetlands restorationproject under this section shall be 85 percent of the cost of the project. In the event that the Secretary, the Director, and the Administrator jointly determine that the State is not taking reasonable steps to implement and administer a conservation plan developed and approved pursuant to this chapter, amounts made available in accordance with section 3955 of this title for any coastal wetlands restoration project shall revert to 75 percent of the cost of the project: <i>Provided, however</i>, that <sup>1</sup> such reversion to the lower cost share level shall not occur until the Governor has been provided notice of, and opportunity for hearing on, any such determination by the Secretary, the Director, and Administrator, and the State has been given ninety days from such notice or hearing to take corrective action.
 
 #### (3) Form of State share
 

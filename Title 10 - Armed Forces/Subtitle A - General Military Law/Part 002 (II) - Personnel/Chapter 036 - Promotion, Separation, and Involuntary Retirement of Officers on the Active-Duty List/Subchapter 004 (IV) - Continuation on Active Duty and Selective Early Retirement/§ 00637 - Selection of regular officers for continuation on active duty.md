@@ -20,7 +20,7 @@
 
 (b)(1) An officer subject to retirement under section 633 or 634 of this title may, subject to the needs of the service, have his retirement deferred and be continued on active duty if he is selected for continuation on active duty by a selection board convened under section 611(b) of this title.
 
-(2) An officer subject to retirement under section 635 or 636 of this title who is serving in the grade of brigadier general, rear admiral (lower half), major general, or rear admiral may, subject to the needs of the service, have his retirement deferred and be continued on active duty by the Secretary concerned. An officer subject to retirement under section 635 or 636 of this title who is serving in a grade above major general or rear admiral may have his retirement deferred and be continued on active duty by the President.
+(2) An officer subject to retirement under section 635 or 636 of this title who is serving in the grade of brigadier general, rear admiral (lower half), major general, or rear admiral may, subject to the needs of the service, have his retirement deferred and be continued on active dutyby the Secretary concerned. An officer subject to retirement under section 635 or 636 of this title who is serving in a grade above major general or rear admiral may have his retirement deferred and be continued on active duty by the President.
 
 (3) Any deferral of retirement and continuation on active duty under this subsection shall be for a period not to exceed five years, but such period may not (except as provided under section 1251(b) of this title) extend beyond the date of the officer's sixty-second birthday.
 
@@ -64,5 +64,5 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 611, 632, 633, 634, 635, 636, 638a of this title.
+This section is referred to in sections 611, 632, 633, 634, 635, 636, 638a, 1558 of this title.
 

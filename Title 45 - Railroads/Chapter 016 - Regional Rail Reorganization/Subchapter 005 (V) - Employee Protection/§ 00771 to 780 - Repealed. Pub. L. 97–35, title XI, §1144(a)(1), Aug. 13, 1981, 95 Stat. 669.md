@@ -6,7 +6,7 @@ Section 772, Pub. L. 93–236, title V, §502, Jan. 2, 1974, 87 Stat. 1013; Pub.
 
 Section 773, Pub. L. 93–236, title V, §503, Jan. 2, 1974, 87 Stat. 1014, related to assignment of work.
 
-Section 774, Pub. L. 93–236, title V, §504, Jan. 2, 1974, 87 Stat. 1014; Pub. L. 94–210, title VI, §615, Feb. 5, 1976,90 Stat. 113; Pub. L. 94–555, title II, §§207(b), 208, Oct. 19, 1976, 90 Stat. 2622; Pub. L. 96–448, title V, §506, Oct. 14, 1980, 94 Stat. 1956, set forth provisions respecting collective bargaining agreements.
+Section 774, Pub. L. 93–236, title V, §504, Jan. 2, 1974, 87 Stat. 1014; Pub. L. 94–210, title VI, §615, Feb. 5, 1976, 90 Stat. 113; Pub. L. 94–555, title II, §§207(b), 208, Oct. 19, 1976, 90 Stat. 2622; Pub. L. 96–448, title V, §506, Oct. 14, 1980, 94 Stat. 1956, set forth provisions respecting collective bargaining agreements.
 
 Section 775, Pub. L. 93–236, title V, §505, Jan. 2, 1974, 87 Stat. 1015; Pub. L. 94–210, title VI, §616(a)–(g), Feb. 5, 1976, 90 Stat. 115, 116; Pub. L. 94–555, title II, §§209, 210, Oct. 19, 1976, 90 Stat. 2623; Pub. L. 96–448, title V, §§501–503, Oct. 14, 1980, 94 Stat. 1948–1954, set forth provisions relating to employee protection programs.
 
@@ -30,7 +30,7 @@ Pub. L. 97–35, title XI, §1144(a)(2)–(4), Aug. 13, 1981, 95 Stat. 669, prov
 
 &emsp;“(B) any dispute or controversy regarding such benefits shall be determined under the terms of the law in effect on the date the claim arose.
 
-“(3) Benefits shall not be disbursed under paragraph (2)(A) unless the employee has filed a claim for such benefits within 90 days after the date of repeal; except that, with respect to a claim which is the subject of or is based upon any arbitration decision issued after the date of repeal, such 90-day period shall not commence until such arbitration decision is issued to the employee and the employee's representative; and no benefits shall be disbursed unless appropriations for such purposes are or become available.
+“(3) Benefits shall not be disbursed under paragraph (2)(A) unless the employee has filed a claim for suchbenefits within 90 days after the date of repeal; except that, with respect to a claim which is the subject of or is based upon any arbitration decision issued after the date of repeal, such 90-day period shall not commence until such arbitration decision is issued to the employee and the employee's representative; and no benefits shall be disbursed unless appropriations for such purposes are or become available.
 
 “(4) The provisions of this subsection shall take effect on the first day of the first month beginning after the date of enactment of this subtitle \[Aug. 13, 1981\].”
 

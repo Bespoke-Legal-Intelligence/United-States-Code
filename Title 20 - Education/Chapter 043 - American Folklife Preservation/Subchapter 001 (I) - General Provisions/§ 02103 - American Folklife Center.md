@@ -90,7 +90,7 @@ Subsec. (e)(2). Pub. L. 105–275, §312(b)(1)(C)(i), inserted “currently serv
 
 Subsec. (e)(3). Pub. L. 105–275, §312(b)(1)(C)(ii), added par. (3).
 
-Subsec. (f). Pub. L. 105–275, §312(b)(1)(D), added subsec. (f) and struck out former subsec. (f) which read asfollows: “After consultation with the Board, the Librarian shall appoint the Director of the Center. The basic pay of the Director shall be at a per year rate not to exceed GS–18 of the General Schedule under section 5332 of title 5. The Librarian upon the recommendation of the Director shall appoint a Deputy Director of the Center. The basic pay of the Deputy Director shall be fixed at a rate not to exceed GS–16 of the General Schedule under section 5332 of such title.”
+Subsec. (f). Pub. L. 105–275, §312(b)(1)(D), added subsec. (f) and struck out former subsec. (f) which read as follows: “After consultation with the Board, the Librarian shall appoint the Director of the Center. The basic pay of the Director shall be at a per year rate not to exceed GS–18 of the General Schedule under section 5332 of title 5. The Librarian upon the recommendation of the Director shall appoint a Deputy Director of the Center. The basic pay of the Deputy Director shall be fixed at a rate not to exceed GS–16 of the General Schedule under section 5332 of such title.”
 
 Subsec. (g). Pub. L. 105–275, §312(b)(1)(E), struck out “(1)” before “The Director” and struck out par. (2) which read as follows: “The Deputy Director shall perform such functions as the Director, with the approval of the Librarian, may prescribe, and shall serve as Acting Director during the absence or disability of the Director or in the event of a vacancy in the office of the Director.”
 

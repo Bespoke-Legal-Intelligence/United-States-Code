@@ -52,7 +52,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 #### (d) Fishery Observer Fund
 
-There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of thissection, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist of all monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+There is established in the Treasury a North Pacific Fishery Observer Fund. The Fund shall be available, without appropriation or fiscal year limitation, only to the Secretary for the purpose of carrying out the provisions of this section, subject to the restrictions in subsection (b)(2) of this section. The Fund shall consist of all monies deposited into it in accordance with this section. Sums in the Fund that are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 #### (e) Special provisions regarding observers
 
@@ -76,7 +76,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (1) Notwithstanding section 1854(d) of this title, the North Pacific Council may submit, and the Secretary may approve, consistent with the provisions of this chapter, a system of fines in a fishery to provide incentives to reduce bycatch and bycatch rates; except that such fines shall not exceed $25,000 per vessel per season. Any fines collected shall be deposited in the North Pacific Fishery Observer Fund, and may be made available by the Secretary to offset costs related to the reduction of bycatch in the fishery from which such fines were derived, including conservation and management measures and research, and to the State of Alaska to offset costs incurred by the State in the fishery from which such penalties were derived or in fisheries in which the State is directly involved in management or enforcement and which are directly affected by the fishery from which such penalties were derived.
 
-(2)(A) Notwithstanding section 1853(d) of this title, and in addition to the authority provided in section 1853(b)(10) of this title, the North Pacific Council may submit, and the Secretary may approve, conservation and management measures which provide allocations of regulatory discards to individual fishing vessels as an incentive to reduce per vessel bycatch and bycatch rates in a fishery, <i>Provided</i>, That—
+(2)(A) Notwithstanding section 1853(d) of this title, and in addition to the authority providedin section 1853(b)(10) of this title, the North Pacific Council may submit, and the Secretary may approve, conservation and management measures which provide allocations of regulatory discards to individual fishing vessels as an incentive to reduce per vessel bycatch and bycatch rates in a fishery, <i>Provided</i>, That—
 
 &emsp;(i) such allocations may not be transferred for monetary consideration and are made only on an annual basis; and
 

@@ -12,7 +12,7 @@ As used in this subchapter:
 
 &emsp;(C) The interest rate used for expenditures made after October 12, 1982, shall be determined by the Secretary of the Treasury on the basis of the arithmetic average of—
 
-&emsp;&emsp;(i) the rate as of the beginning of the fiscal year in which expenditures are made on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations which areneither due nor callable for redemption for fifteen years from the date of issuance; and
+&emsp;&emsp;(i) the rate as of the beginning of the fiscal year in which expenditures are made on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations which are neither due nor callable for redemption for fifteen years from the date of issuance; and
 
 &emsp;&emsp;(ii) the weighted average yield on all interest-bearing, marketable issues sold by the Treasury during the fiscal year preceding the fiscal year in which the expenditures are made.
 

@@ -12,7 +12,7 @@ Section 582 of title 18, U.S.C., 1940 ed., and section 746(g) of title 8, U.S.C.
 
 The proviso contained in the act of 1927 “That nothing herein contained shall apply to any offense for which an indictment has been heretofore found or an information instituted, or to any proceedings under any such indictment or information,” was omitted as no longer necessary.
 
-In the consolidation of these sections the 5-year period of limitation for violations of the Nationality Code, provided for in said section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, is reduced to 3 years. There seemed no sound basis for considering 3 years adequate in the case of heinous felonies and gross frauds against the United States but inadequate formisuse of a passport or false statement to a naturalization examiner.
+In the consolidation of these sections the 5-year period of limitation for violations of the Nationality Code, provided for in said section 746(g) of title 8, U.S.C., 1940 ed., Aliens and Nationality, is reduced to 3 years. There seemed no sound basis for considering 3 years adequate in the case of heinous felonies and gross frauds against the United States but inadequate for misuse of a passport or false statement to a naturalization examiner.
 
 #### Amendments
 

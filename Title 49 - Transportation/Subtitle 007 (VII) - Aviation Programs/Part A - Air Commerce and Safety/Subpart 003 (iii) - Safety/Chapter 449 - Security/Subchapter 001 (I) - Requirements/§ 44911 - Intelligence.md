@@ -26,11 +26,11 @@ Definition.—In this section, “intelligence community” means the intelligen
 
 (b)
 
-Policies and Procedures on Report Availability.—The head of each unit in the intelligence community shall prescribe policies and procedures to ensure that intelligence reports about international terrorism are made available, as appropriate, to the heads of other units in the intelligence community, the Secretary of Transportation, and the Administrator of the Federal Aviation Administration.
+Policies and Procedures on Report Availability.—The head of each unit in the intelligence community shall prescribe policies and procedures to ensure that intelligence reports about terrorism are made available, as appropriate, to the heads of other units in the intelligence community, the Secretary of Transportation, and the Under Secretary of Transportation for Security.
 
 (c)
 
-Unit for Strategic Planning on Terrorism.—The heads of the units in the intelligence community shall consider placing greater emphasis on strategic intelligence efforts by establishing a unit for strategic planning on terrorism.
+Unit for Strategic Planning on Terrorism.—The heads of the units in the intelligence community shall place greater emphasis on strategic intelligence efforts by establishing a unit for strategic planning on terrorism.
 
 (d)
 
@@ -38,9 +38,9 @@ Designation of Intelligence Officer.—At the request of the Secretary, the Dire
 
 (e)
 
-Written Working Agreements.—The heads of units in the intelligence community, the Secretary, and the Administrator shall review and, as appropriate, revise written workingagreements between the intelligence community and the Administrator.
+Written Working Agreements.—The heads of units in the intelligence community, the Secretary, and the Under Secretary shall review and, as appropriate, revise written working agreements between the intelligence community and the Under Secretary.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1212.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1212; Pub. L. 107–71, title I, §§101(f)(7), (9), 102(b), (c), Nov. 19, 2001, 115 Stat. 603, 605.)
 
 Historical and Revision Notes
 
@@ -91,6 +91,16 @@ In subsection (b), the words “the heads of other units in the intelligence com
 In subsections (c) and (e), the words “heads of units in the intelligence community” are substituted for “intelligence community” for clarity and consistency in the revised title and with other titles of the Code.
 
 In subsection (e), the words “memorandums of understanding” are omitted as being included in “written working agreements”.
+
+#### Amendments
+
+2001—Subsec. (b). Pub. L. 107–71, §102(b), struck out “international” before “terrorism”.
+
+Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+
+Subsec. (c). Pub. L. 107–71, §102(c), substituted “place” for “consider placing”.
+
+Subsec. (e). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
 
 #### Section Referred to in Other Sections
 

@@ -106,7 +106,7 @@ An eligible trade organization shall be—
 
 #### (2) Limitation
 
-&emsp;Assistance provided under this section for activities described in subsection (e)(4) of this section shall not exceed 50 percent of the cost of implementing the marketing plan, except that the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria for determining that the limitation shall not apply shall be consistent and documented.
+&emsp;Assistance provided under this section for activities described in subsection (e)(4) of this section shall not exceed 50 percent of the cost of implementing the marketing plan, exceptthat the Secretary may determine not to apply such limitation in the case of agricultural commodities with respect to which there has been a favorable decision by the United States Trade Representative under section 2411 of title 19. Criteria for determining that the limitation shall not apply shall be consistent and documented.
 
 #### (3) Staged reduction in assistance
 
@@ -184,7 +184,7 @@ Increases in contribution level.—The Secretary may increase the contribution l
 
 &emsp;&emsp;“(D)
 
-Additionality.—The Secretary should require each participant in the program to certifythat any Federal funds received supplement, but do not supplant, private or third party participant funds or other contributions to program activities.
+Additionality.—The Secretary should require each participant in the program to certify that any Federal funds received supplement, but do not supplant, private or third party participant funds or other contributions to program activities.
 
 &emsp;&emsp;“(E)
 

@@ -96,7 +96,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (e) Action by United States Court of Federal Claims
 
-(1) Upon issuance of the special master's decision, the parties shall have 30 days to file withthe clerk of the United States Court of Federal Claims a motion to have the court review the decision. If such a motion is filed, the other party shall file a response with the clerk of the United States Court of Federal Claims no later than 30 days after the filing of such motion.
+(1) Upon issuance of the special master's decision, the parties shall have 30 days to file with the clerk of the United States Court of Federal Claims a motion to have the court review the decision. If such a motion is filed, the other party shall file a response with the clerk of the United States Court of Federal Claims no later than 30 days after the filing of such motion.
 
 (2) Upon the filing of a motion under paragraph (1) with respect to a petition, the United States Court of Federal Claims shall have jurisdiction to undertake a review of the record of the proceedings and may thereafter—
 
@@ -154,9 +154,9 @@ Pub. L. 102–168, §201(d)(1), substituted “or the petitioner may choose unde
 
 Subsec. (g). Pub. L. 101–502, §5(b)(2), added subsec. (g).
 
-1989—Subsec. (a). Pub. L. 101–239, §6601(d), substituted “and the United States Claims Court special masters shall, in accordance with this section, have jurisdiction” for “shall have jurisdiction (1)”, “. The United States Claims Court may issue” for “, and (2) to issue”, and “deems” for “deem”.
+1989—Subsec. (a). Pub. L. 101–239, §6601(d), substituted “and the United States Claims Court special mastersshall, in accordance with this section, have jurisdiction” for “shall have jurisdiction (1)”, “. The United States Claims Court may issue” for “, and (2) to issue”, and “deems” for “deem”.
 
-Subsec. (b)(1). Pub. L. 101–239, §6601(f), substituted “In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall berepresented in accordance with section 518(a) of title 28.” for “The Secretary shall be named as the respondent in all proceedings brought by the filing of a petition under section 300aa–11(b) of this title. Except as provided in paragraph (2), no other person may intervene in any such proceeding.”
+Subsec. (b)(1). Pub. L. 101–239, §6601(f), substituted “In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.” for “The Secretary shall be named as the respondent in all proceedings brought by the filing of a petition under section 300aa–11(b) of this title. Except as provided in paragraph (2), no other person may intervene in any such proceeding.”
 
 Subsec. (c). Pub. L. 101–239, §6601(e)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -232,7 +232,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(6)(E) of t
 
 #### Review by 3-Judge Panel
 
-Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
+Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panelshall not include the judge who participated in such judgment.”
 
 \[Enactment of section 322(c) of Pub. L. 99–660 by section 5(g)(2) of Pub. L. 101–502, set out above, effective Nov. 14, 1986, see section 5(h) of Pub. L. 101–502, set out as an Effective Date of 1990 Amendment note under section 300aa–11 of this title.\]
 

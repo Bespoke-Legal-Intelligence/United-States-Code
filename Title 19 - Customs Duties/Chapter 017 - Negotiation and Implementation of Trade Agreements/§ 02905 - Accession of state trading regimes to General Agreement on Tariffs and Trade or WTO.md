@@ -82,3 +82,31 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 For delegation of certain functions of President under this section to United States Trade Representative, see section 1–101 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
 
+#### Determinations Regarding State Trading Enterprises—People's Republic of China
+
+Memorandum of President of the United States, Nov. 9, 2001, 66 F.R. 57357, provided:
+
+Memorandum for the United States Trade Representative
+
+Pursuant to section 1106(a) of the Omnibus Trade and Competitiveness Act of 1988, (19 U.S.C. 2905(a)), I determine that state trading enterprises account for a significant share of the exports of the People's Republic of China (China) and goods that compete with imports into China. I further determine that such state trading enterprises unduly burden and restrict, or adversely affect, the foreign trade of the United States or the United States economy, or are likely to result in such a burden, restriction, or effect.
+
+China is seeking to become a member of the World Trade Organization (WTO). The terms and conditions for China's accession to the WTO include China's commitments that it will ensure that all state-owned and state-invested enterprises will make purchases and sales based solely on commercial considerations, such as price, quality, marketability, and availability, and that U.S. business firms will have an adequate opportunity to compete for sales to and purchases from these enterprises on nondiscriminatory terms and conditions. In addition, the Government of China will not influence, directly or indirectly, commercial decisions on the part of state-owned or state-invested enterprises, including on the quantity, value, or country of origin of any goods purchased or sold, except in a manner consistent with the Marrakesh Agreement Establishing the World Trade Organization (WTO Agreement). China has also confirmed that state trading enterprises will make purchases that are not for government use. The obligations that China will assume under the WTO Agreement, including China's protocol of accession, meet the requirements of section 1106(b)(2)(A), (19 U.S.C. 2905(b)(2)(A)), and thus my determinations under section 1106(a) do not require invocation of the nonapplication provisions of the WTO Agreement.
+
+You are directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Determinations Regarding State Trading Enterprises—Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu
+
+Memorandum of President of the United States, Nov. 9, 2001, 66 F.R. 57359, provided:
+
+Memorandum for the United States Trade Representative
+
+Section 1106(a) of the Omnibus Trade and Competitiveness Act of 1988, (19 U.S.C. 2905(a)) (the “1988 Act”), requires the President to determine for any major trading country that is acceding to the World Trade Organization (WTO) whether state trading enterprises account for a significant share of the exports of that major trading country or goods that compete with imports into that country and whether such state trading enterprises unduly burden and restrict, or adversely affect, the foreign trade of the United States or the United States economy, or are likely to result in such a burden, restriction, or effect.
+
+Taiwan, known in the WTO as “the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu,” is in the final stage of its accession to the WTO. Thus, pursuant to section 1106(a) of the 1988 Act \[19 U.S.C. 2905(a)\], I determine that state trading enterprises do not account for a significant share of the exports of the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu or of goods that compete with exports to the Separate Customs Territory. Further, I determine that such state trading enterprises do not unduly burden and restrict, or adversely affect, the foreign trade of the United States or the United States economy, and are not likely to result in such a burden, restriction, or effect.
+
+You are directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

@@ -12,7 +12,7 @@ For purposes of this section—
 
 &emsp;(2) the term “employee” means an employee of the National Security Agency, serving under an appointment without time limitation, who has been currently employed by the National Security Agency for a continuous period of at least 12 months prior to the effective date of the program established under subsection (c) of this section, except that such term does not include—
 
-&emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5 or another retirement system for employees of the Government; or
+&emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title5 or another retirement system for employees of the Government; or
 
 &emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
 
@@ -50,7 +50,7 @@ An employee who—
 
 #### (f) Reemployment restrictions
 
-An employee who receives separation pay under such program may not be reemployed bythe National Security Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after March 30, 1994, and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the National Security Agency. If the employment is with an Executive agency (as defined by section 105 of title 5), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+An employee who receives separation pay under such program may not be reemployed by the National Security Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after March 30, 1994, and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the National Security Agency. If the employment is with an Executive agency (as defined by section 105 of title 5), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 #### (g) Bar on certain employment
 
@@ -86,7 +86,7 @@ Before an employee may be eligible for early retirement, separation pay, or both
 
 #### (1) Notification
 
-&emsp;The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h) of this section, and includes <sup>1</sup> the proposed regulations issued pursuant to subsection (i) of this section.
+&emsp;The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h) of this section,and includes <sup>1</sup> the proposed regulations issued pursuant to subsection (i) of this section.
 
 #### (2) Annual report
 

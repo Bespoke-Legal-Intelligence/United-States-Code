@@ -20,9 +20,11 @@
 
 &emsp;(9) involving frequent and regular exposure to highly toxic pesticides or involving laboratory work that utilizes live dangerous viruses or bacteria;
 
-&emsp;(10) involving (A) the servicing of aircraft or missiles with highly toxic fuels or propellants, (B) the testing of aircraft or missile systems (or components of such systems) during which highly toxic fuels or propellants are used, or (C) the handling of chemical munitions (or components of such munitions); or
+&emsp;(10) involving (A) the servicing of aircraft or missiles with highly toxic fuels or propellants, (B) the testing of aircraft or missile systems (or components of such systems) during which highly toxic fuels or propellants are used, or (C) the handling of chemical munitions (or components of such munitions);
 
-&emsp;(11) involving frequent and regular participation in aerial flight by a member who is serving as an air weapons controller crew member (as defined by the Secretary concerned) aboard an airborne warning and control system aircraft (as designated by such Secretary) and who is not entitled to incentive pay under section 301a of this title.
+&emsp;(11) involving regular participation as a member of a team conducting visit, board, search, and seizure operations aboard vessels in support of maritime interdiction operations; or
+
+&emsp;(12) involving frequent and regular participation in aerial flight by a member who is serving as an air weapons controller crew member (as defined by the Secretary concerned) aboard an airborne warning and control system aircraft (as designated by such Secretary) and who is not entitled to incentive pay under section 301a of this title.
 
 (b) For the performance of hazardous duty described in clause (1) of subsection (a), a member is entitled to monthly incentive pay as follows:
 
@@ -88,7 +90,7 @@ $150&nbsp;&nbsp;
 
 &nbsp;&nbsp;W–1
 
-150&nbsp;&nbsp;
+150  
 
 &nbsp;&nbsp;E–9
 
@@ -128,9 +130,9 @@ $150&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(c)(1) For the performance of hazardous duty described in clauses (2) through (10) of subsection (a), a member is entitled to $150 a month. However, a member performing hazardous duty described in clause (3) of that subsection who also performs as an essential part of such duty parachute jumping in military free fall operations involving parachute deployment by the jumper without the use of a static line is entitled to $225 a month.
+(c)(1) For the performance of hazardous duty described in clauses (2) through (11) of subsection (a), a member is entitled to $150 a month. However, a member performing hazardous duty described in clause (3) of that subsection who also performs as an essential part of such duty parachute jumping in military free fall operations involving parachute deployment by the jumper without the use of a static line is entitled to $225 a month.
 
-(2)(A) For the performance of hazardous duty described in clause (11) of subsection (a), a member is entitled to monthly incentive pay based upon his years of service as an air weapons controller as follows:
+(2)(A) For the performance of hazardous duty described in clause (12) of subsection (a), a member is entitled to monthly incentive pay based upon his years of service as an air weapons controller as follows:
 
 &nbsp;
 
@@ -191,7 +193,7 @@ $150&nbsp;&nbsp;
 
 (C) In this paragraph, the term,<sup>1</sup> “units” means the significant increments of performance prescribed as qualifying standards in regulations promulgated by the President pursuant to this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–132, §§6–8, Oct. 2, 1963, 77 Stat. 215, 216; Pub. L. 89–149, §§1–3, Aug. 28, 1965, 79 Stat. 585; Pub. L. 89–278, Oct. 20, 1965, 79 Stat. 1011; Pub. L. 89–718, §52, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–436, title VI, §605, Sept. 26, 1972, 86 Stat. 740; Pub. L. 93–294, §2(1), (2), May 31, 1974, 88 Stat. 177; Pub. L. 96–343, §2(a), Sept. 8, 1980, 94 Stat. 1123; Pub. L. 96–513, title V, §516(5), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §3(a)–(c), Dec. 23, 1980, 94 Stat. 3360; Pub. L. 97–60, title I, §111(a)–(c), Oct. 14, 1981, 95 Stat. 992, 993; Pub. L. 98–94, title IX, §903(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §624(a), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 99–145, title VI, §§635(a), 647(a), title XIII, §1303(b)(2), Nov. 8, 1985, 99 Stat. 647, 655, 740; Pub. L. 99–661, div. A, title XIII, §1342(a), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–26, §8(d)(1), (e)(2), Apr. 21, 1987, 101 Stat. 285, 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §614, title XI, §1111(d)(1), Dec. 5, 1991, 105 Stat. 1377, 1492; Pub. L. 104–106, div. A, title VI, §615, Feb. 10, 1996, 110 Stat. 361; Pub. L. 105–85, div. A, title VI, §614, Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §614(a), Oct. 17, 1998, 112 Stat. 2039.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–132, §§6–8, Oct. 2, 1963, 77 Stat. 215, 216; Pub. L. 89–149, §§1–3, Aug. 28, 1965, 79 Stat. 585; Pub. L. 89–278, Oct. 20, 1965, 79 Stat. 1011; Pub. L. 89–718, §52, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–436, title VI, §605, Sept. 26, 1972, 86 Stat. 740; Pub. L. 93–294, §2(1), (2), May 31, 1974, 88 Stat. 177; Pub.L. 96–343, §2(a), Sept. 8, 1980, 94 Stat. 1123; Pub. L. 96–513, title V, §516(5), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §3(a)–(c), Dec. 23, 1980, 94 Stat. 3360; Pub. L. 97–60, title I, §111(a)–(c), Oct. 14, 1981, 95 Stat. 992, 993; Pub. L. 98–94, title IX, §903(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 98–525, title VI, §624(a), Oct. 19, 1984, 98 Stat. 2542; Pub. L. 99–145, title VI, §§635(a), 647(a), title XIII, §1303(b)(2), Nov. 8, 1985, 99 Stat. 647, 655, 740; Pub. L. 99–661, div. A, title XIII, §1342(a), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–26, §8(d)(1), (e)(2), Apr. 21, 1987, 101 Stat. 285, 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §614, title XI, §1111(d)(1), Dec. 5, 1991, 105 Stat. 1377, 1492; Pub. L. 104–106, div. A, title VI, §615, Feb. 10, 1996, 110 Stat. 361; Pub. L. 105–85, div. A, title VI, §614, Nov. 18, 1997, 111 Stat. 1786; Pub. L. 105–261, div. A, title VI, §614(a), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 107–107, div. A, title VI, §615(a), (b), Dec. 28, 2001, 115 Stat. 1136.)
 
 Historical and Revision Notes
 
@@ -249,6 +251,12 @@ In subsection (g), the words “entitled to incentive pay under section 301(a)(1
 
 #### Amendments
 
+2001—Subsec. (a)(11), (12). Pub. L. 107–107, §615(a), added par. (11) and redesignated former par. (11) as (12).
+
+Subsec. (c)(1). Pub. L. 107–107, §615(b)(1), substituted “(11) of subsection (a)” for “(10) of subsection (a)”.
+
+Subsec. (c)(2)(A). Pub. L. 107–107, §615(b)(2), substituted “(12) of subsection (a)” for “(11) of subsection (a)”.
+
 1998—Subsec. (b). Pub. L. 105–261 in table substituted “165” for “150” as monthly rate for pay grade E–4, “190” for “150” as monthly rate for pay grade E–5, “215” for “175” as monthly rate for pay grade E–6, and “240” for “200” as monthly rate for pay grades E–7 to E–9.
 
 1997—Subsec. (b). Pub. L. 105–85, §614(a)(2), in table substituted “150” for “125” as monthly rate for pay grades O–1, W–1, and E–4.
@@ -257,7 +265,7 @@ Pub. L. 105–85, §614(a)(1), in table substituted “150” for “110” as m
 
 Subsec. (c)(1). Pub. L. 105–85, §614(c), substituted “$150” for “$110” and “$225” for “$165”.
 
-Subsec. (c)(2)(A). Pub. L. 105–85, §614(b), in table substituted “150” for “100” in first column for pay grade W–1, “150” for “110” in last column for pay grade O–7 and above, and “150” for “125” in first column for paygrades O–1 to O–3, E–4 and below, and E–5, in second column for pay grade W–1, and in fourteenth and fifteenth columns for pay grade E–4 and below.
+Subsec. (c)(2)(A). Pub. L. 105–85, §614(b), in table substituted “150” for “100” in first column for pay grade W–1, “150” for “110” in last column for pay grade O–7 and above, and “150” for “125” in first column for pay grades O–1 to O–3, E–4 and below, and E–5, in second column for pay grade W–1, and in fourteenth and fifteenth columns for pay grade E–4 and below.
 
 1996—Subsec. (a)(11). Pub. L. 104–106, §615(a), substituted “a member” for “an officer (other than a warrant officer)”.
 
@@ -285,7 +293,7 @@ Subsec. (f)(2)(C). Pub. L. 100–26, §8(e)(2)(B), substituted “paragraph, the
 
 Subsec. (a)(10). Pub. L. 99–145, §635(a)(1)(B), in amending cl. (10) generally, designated existing provisions as cls. (A) and (B) and added cl. (C).
 
-Subsec. (b). Pub. L. 99–145, §635(a)(2), amended table generally, striking out differentiation in pay rates based upon years of service and reflect an upward adjustment in the monthly incentive pay with respect to pay grades E–9 through E–1, and inserted provisions relating to monthly incentive pay for pay grades O–10 through O–1 and W–4 through W–1, respectively.
+Subsec. (b). Pub. L. 99–145, §635(a)(2), amended table generally, striking out differentiation in pay ratesbased upon years of service and reflect an upward adjustment in the monthly incentive pay with respect to pay grades E–9 through E–1, and inserted provisions relating to monthly incentive pay for pay grades O–10 through O–1 and W–4 through W–1, respectively.
 
 Subsec. (c)(1). Pub. L. 99–145, §1303(b)(2), directed the substitution of “(10),” for “(10),,”. See amendment note below.
 
@@ -349,13 +357,17 @@ Subsec. (a)(9). Pub. L. 88–132, §7, substituted “inside a high- or low-pres
 
 Subsec. (e). Pub. L. 88–132, §8, substituted “not more than two payments” for “only one payment”.
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VI, §615(c), Dec. 28, 2001, 115 Stat. 1136, provided that: “Paragraph (11) of section 301(a) of title 37, United States Code, as added by subsection (a)(3), shall apply to duty described in such paragraph that is performed on or after January 1, 2002.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. A, title VI, §614(b), Oct. 17, 1998, 112 Stat. 2040, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to months beginning on or after that date.”
 
 #### Effective Date of 1991 Amendment
 
-Amendment by section 1111(d)(1) of Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under section 521 of Title 10, Armed Forces.
+Amendment by section 1111(d)(1) of Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190,set out as a note under section 521 of Title 10, Armed Forces.
 
 #### Effective Date of 1986 Amendment
 
@@ -431,7 +443,7 @@ Reports.—(1) Not later than December 1, 1998, the Secretary of Defense shall s
 
 #### Persons Entitled To Receive Incentive Pay for Duty Involving Contact With Persons Afflicted With Leprosy
 
-Section 624(b) of Pub. L. 98–525 provided that: “A member of the uniformed services who is entitled on the day before the date of the enactment of this Act \[Oct. 19, 1984\] to receive incentive pay under section 301(a)(5) \[subsec. (a)(5) of this section\] (for the performance of duty involving intimate contact with personsafflicted with leprosy) shall continue to be entitled to such pay under such section as in effect on that day so long as the member continues (without a break) to be assigned to perform such duties on and after that day.”
+Section 624(b) of Pub. L. 98–525 provided that: “A member of the uniformed services who is entitled on the day before the date of the enactment of this Act \[Oct. 19, 1984\] to receive incentive pay under section 301(a)(5) \[subsec. (a)(5) of this section\] (for the performance of duty involving intimate contact with persons afflicted with leprosy) shall continue to be entitled to such pay under such section as in effect on that day so long as the member continues (without a break) to be assigned to perform such duties on and after that day.”
 
 #### Executive Order No. 10152
 
@@ -439,7 +451,7 @@ Ex. Ord. No. 10152, Aug. 17, 1950, 15 F.R. 5489, as amended by Ex. Ord. No. 1061
 
 #### Ex. Ord. No. 11157. Regulations Relating to Incentive Pay, Special Pay, and Allowances
 
-Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1, 1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, provided:
+Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, as amended by Ex. Ord. No. 11242, Aug. 28, 1965, 30 F.R. 11205; Ex. Ord. No. 11253, Oct. 20, 1965, 30 F.R. 13509; Ex. Ord. No. 11259, Dec. 3, 1965, 30 F.R. 15057; Ex. Ord. No. 11292, Aug. 1, 1966, 31 F.R. 10447; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11424, Aug. 29, 1968, 33 F.R. 12361; Ex. Ord. No. 11473, June 14, 1969, 34 F.R. 9485; Ex. Ord. No. 11511, Feb. 27, 1970, 35 F.R. 3877; Ex. Ord. No. 11591, Apr. 23, 1971, 36 F.R. 7833; Ex. Ord. No. 11716, Apr. 26, 1973, 38 F.R. 10621; Ex. Ord. No. 11728, July 12, 1973, 38 F.R. 18861; Ex. Ord. No. 11897, Jan. 13, 1976, 41 F.R. 2071; Ex. Ord. No. 11929, July 26, 1976, 41 F.R. 31159; Ex. Ord. No. 11939, Sept. 30, 1976, 41 F.R. 43705; Ex. Ord. No. 12094, Nov. 1, 1978, 43 F.R. 51379; Ex. Ord. No. 12243, Oct. 3, 1980, 45 F.R. 66439; Ex. Ord. No. 12274, Jan. 16, 1981, 46 F.R. 5855; Ex. Ord. No. 12337, Jan. 11, 1982, 47 F.R. 1367, eff. Sept. 15, 1981; Ex. Ord. No. 12380, Aug. 18, 1982, 47 F.R. 36605, eff. Jan. 1, 1981; Ex. Ord. No. 12394, Nov. 18, 1982, 47 F.R. 52405, eff. Oct. 1, 1981; Ex. Ord. No. 12420, May 11, 1983, 48 F.R. 21525, eff. Oct. 1, 1981; Ex. Ord. No. 12488, Sept. 27, 1984, 49 F.R. 38525, eff. Oct. 1,1983; Ex. Ord. No. 12494, Dec. 6, 1984, 49 F.R. 48175; Ex. Ord. No. 12541, Dec. 30, 1985, 51 F.R. 585, eff. Jan. 1, 1986; Ex. Ord. No. 12573, Nov. 6, 1986, 51 F.R. 40954, eff. in part Oct. 1, 1985; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 12762, June 4, 1991, 56 F.R. 25993; Ex. Ord. No. 12935, Oct. 28, 1994, 59 F.R. 54511, provided:
 
 By virtue of the authority vested in me by sections 301(a) and (f), 305(a), 402(f), and 403(g) of title 37 of the United States Code, and as President of the United States and Commander in Chief of the armed forces of the United States, it is hereby ordered as follows:
 
@@ -501,7 +513,7 @@ Sec. 105. Members shall not be entitled to receive incentive pay for participati
 
 Sec. 106. (a) As determined by the Secretary of the Navy, a member who is entitled to basic pay, who holds or is in training leading to a submarine duty designator, and who is in and remains in the submarine service on a career basis, is entitled to continuous monthly submarine duty incentive pay, subject to the performance of the required number of years of operational submarine duty (37 U.S.C. 301c(a)(3)–(4)), except as provided by 37 U.S.C. 301c(c).
 
-(b) As determined by the Secretary of the Navy, a member who is entitled to basic pay but is not entitled to continuous monthly submarine duty incentive pay is entitled to submarine duty incentive pay for any period during which such member performs frequent and regular operational submarine duty required by orders.
+(b) As determined by the Secretary of the Navy, a member who is entitled to basic pay but is not entitled to continuous monthly submarine duty incentive pay is entitled to submarine duty incentive pay for any periodduring which such member performs frequent and regular operational submarine duty required by orders.
 
 (c) To the extent provided for by appropriations, a member of the Naval Reserve who is entitled to compensation under Section 206 of Title 37 of the United States Code, and who performs, under orders, duty on a submarine during underway operations, is eligible for an increase in such compensation equal to one-thirtieth of the monthly submarine duty incentive pay for the performance of that duty by a member of a corresponding grade and years of service who is entitled to basic pay when those orders specify such increased entitlement. Such member is eligible for the increase for each day served, for as long as he is qualified for it, during each regular period of appropriate duty.
 
@@ -529,7 +541,7 @@ Sec. 109. As used in section 301(a) of title 37 of the United States Code—
 
 (c) The term “duty inside a high- or low-pressure chamber” shall be construed to mean duty performed within pressure chambers at physiological facilities by members assigned to that duty.
 
-(d) The term “duty as human acceleration or deceleration experimental subject” shall be construed tomean duty performed by members exposed as human acceleration or deceleration experimental subjects utilizing experimental acceleration or deceleration devices.
+(d) The term “duty as human acceleration or deceleration experimental subject” shall be construed to mean duty performed by members exposed as human acceleration or deceleration experimental subjects utilizing experimental acceleration or deceleration devices.
 
 (e) The term “duty as human test subject in thermal stress experiments” shall be construed to mean duty performed by members exposed as human thermal experimental subjects in thermal stress experiments conducted under the supervision of any laboratory designated by the Secretary concerned.
 
@@ -541,7 +553,7 @@ Sec. 109. As used in section 301(a) of title 37 of the United States Code—
 
 (i) The term “duty involving laboratory work that utilizes live dangerous viruses or bacteria” shall be construed to mean primary duty performed by members who work with micro-organisms (1) that cause disease (A) with a high potential for mortality, and (B) for which effective therapeutic procedures are not available, and (2) for which no effective prophylactic immunization exists, while such members are assigned by competent orders for a period of 30 consecutive days or more to participate in or conduct applied or basic research that is characterized by a changing variety of techniques, procedures, equipment, and experiments.
 
-(j) The term “the handling of chemical munitions (or components of such munitions)” shall be construed to mean duty performed by members as a primary duty which routinely requires (1) direct physical handling of toxic chemical munitions incident to storage, maintenance, testing, surveillance, assembly, disassembly, demilitarization, or disposal of said munitions; (2) direct physical handling of chemical surety material, as defined by the Secretary concerned, incident to manufacture, storage, testing, laboratory analysis, detoxification, or disposal of said material; (3) direct physical handling of toxic chemical munitions incident to technical escort of shipments of said munitions; (4) direct physical handling of chemical surety material, as defined by the Secretary concerned incident to technical escort of shipments of said material. The term does not include the handling of the individual components of binary chemical agents or munitions. The term does not include user handling incident to loading, firing, or otherwise launching the toxic chemical munitions nor field storage operations during hostilities. The term also excludes the handling of Research, Development, Testing and Evaluation Dilute Solutions of toxic chemicals as defined by the Secretary concerned. It also excludes the handling of riot control agents, chemical defoliants and herbicides, smoke, flame and incendiaries, and industrial chemicals. The entitlement to the pay provided for in this subsection is based upon the performance of such duty that has the potential for accidental exposure to chemical agents and not upon actual quantifiable exposure to such agents. Therefore, neither the construction of the term nor the receipt ofpay provided for in this subsection may be construed as indicating that any person entitled to such pay actually has been exposed to chemical agents contrary to the provisions of any statute, executive order, rule, or regulations relating to the health and safety which is applicable to the uniformed services.
+(j) The term “the handling of chemical munitions (or components of such munitions)” shall be construed to mean duty performed by members as a primary duty which routinely requires (1) direct physical handling of toxic chemical munitions incident to storage, maintenance, testing, surveillance, assembly, disassembly, demilitarization, or disposal of said munitions; (2) direct physical handling of chemical surety material, as defined by the Secretary concerned, incident to manufacture, storage, testing, laboratory analysis, detoxification, or disposal of said material; (3) direct physical handling of toxic chemical munitions incident to technical escort of shipments of said munitions; (4) direct physical handling of chemical surety material, as defined by the Secretary concerned incident to technical escort of shipments of said material. The term does not include the handling of the individual components of binary chemical agents or munitions. The term does not include user handling incident to loading, firing, or otherwise launching the toxic chemical munitions nor field storage operations during hostilities. The term also excludes the handling of Research, Development, Testing and Evaluation Dilute Solutions of toxic chemicals as defined by the Secretary concerned. It also excludes the handling of riot control agents, chemical defoliants and herbicides, smoke, flame and incendiaries, and industrial chemicals. The entitlement to the pay provided for in this subsection is based upon the performance of such duty that has the potential for accidental exposure to chemical agents and not upon actual quantifiable exposure to such agents. Therefore, neither the construction of the term nor the receipt of pay provided for in this subsection may be construed as indicating that any person entitled to such pay actually has been exposed to chemical agents contrary to the provisions of any statute, executive order, rule, or regulations relating to the health and safety which is applicable to the uniformed services.
 
 Sec. 110. Any member who is required by competent orders to perform hazardous duty, or multiple hazardous duties, and who becomes injured or otherwise incapacitated as a result of the performance of any such hazardous duty, by aviation accident or otherwise, shall be deemed to have fulfilled all of the requirements for the performance of all hazardous duties which he is required by competent orders to perform, for a period not to exceed three months following the date as of which such incapacity is determined by the appropriate medical authority.
 
@@ -581,7 +593,7 @@ Sec. 206. (a) No enlisted member shall be entitled under this order to receive b
 
 #### Part III—Basic Allowances for Subsistence
 
-Sec. 301. Enlisted members who are being subsisted in kind in a mess and whose duties require them to be absent from their station during one or more meals shall be entitled for each such meal to a prorated share of the daily basic allowance for subsistence authorized for members on duty at stations where rations in kind are not available. The Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce are hereby authorized to establish the amount of the prorated share of the daily basic allowance for subsistence applicable to each one of the three daily meals, which amount shall be uniform for all the services concerned. The total of the amounts of the shares for the three daily meals shall not exceed the amount of the basicdaily allowance for subsistence authorized by section 402 of title 37 of the United States Code.
+Sec. 301. Enlisted members who are being subsisted in kind in a mess and whose duties require them to be absent from their station during one or more meals shall be entitled for each such meal to a prorated share of the daily basic allowance for subsistence authorized for members on duty at stations where rations in kind are not available. The Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce are hereby authorized to establish the amount of the prorated share of the daily basic allowance for subsistence applicable to each one of the three daily meals, which amount shall be uniform for all the services concerned. The total of the amounts of the shares for the three daily meals shall not exceed the amount of the basic daily allowance for subsistence authorized by section 402 of title 37 of the United States Code.
 
 Sec. 302. The Secretary of Defense, the Secretary of Transportation, the Secretary of Commerce, and the Secretary of Health and Human Services with respect to the personnel of the uniformed services within their respective agencies, are hereby authorized, subject to the provisions of section 303 hereof, to prescribe such supplemental regulations, inconsistent herewith, as they may deem necessary or desirable for carrying out the provisions of this part and of the said section 402 of title 37 of the United States Code: <i>Provided</i>, That such regulations shall be uniform so far as practicable for all the services concerned.
 
@@ -591,7 +603,7 @@ Sec. 303. As used in regulations prescribed pursuant to section 302 hereof, thos
 
 (b) The term “when rations in kind are not available” shall be considered applicable in the case of enlisted members on duty at stations where it is determined, in accordance with regulations prescribed pursuant to section 302 hereof, that it is impracticable for subsistence in kind to be furnished by the United States.
 
-(c) The term “when permission to mess separately is granted” shall be considered applicable in the case of enlisted members on duty at stations or while sick in hospitals where a mess for subsisting enlisted members is available and when such enlisted members are authorized to subsist themselves independently. Such term shall also be considered applicable in the case of enlisted members during all periods of authorized leave, including periods of leave or delay while en route between duty stations.
+(c) The term “when permission to mess separately is granted” shall be considered applicable in the case of enlisted members on duty at stations or while sick in hospitals where a mess for subsisting enlisted membersis available and when such enlisted members are authorized to subsist themselves independently. Such term shall also be considered applicable in the case of enlisted members during all periods of authorized leave, including periods of leave or delay while en route between duty stations.
 
 (d) The term “when assigned to duty under emergency conditions where no messing facilities of the United States are available” shall be considered applicable in the case of enlisted members assigned to duty under conditions requiring extraordinary expenses for subsistence as determined in accordance with regulations prescribed pursuant to section 302 hereof.
 
@@ -619,7 +631,7 @@ Sec. 402. Except as otherwise by statute heretofore or hereafter provided, a mem
 
 Sec. 403. (a) Any quarters of housing facilities under the jurisdiction of any of the uniformed services in fact occupied without payment of rental charges (1) by a member and his dependents, or (2) by a member without dependents, or (3) by the dependents of a member on field duty or on sea duty or on duty at a station where adequate quarters are not available for his dependents, shall be deemed to have been assigned to such member as appropriate and adequate quarters, and no basic allowance for quarters shall accrue to such member under such circumstances unless the occupancy (A) occurs while such member is in a duty or leave status incident to a change of permanent station and is of a temporary nature under standards prescribed by regulations issued by the Secretary of Defense in the case of members of the Army, Navy, Air Force, or Marine Corps, and the reserve components thereof, or by the appropriate Secretary in the case of members of the other uniformed services, or (B) occurs while such member is in a duty or leave status not incident to a change of permanent station and does not exceed thirty consecutive days at one location: Provided, That occupancy of quarters under such circumstances for a period in excess of such 30-day period or such other temporary period as may be authorized under standards prescribed by regulations issued by the Secretary concerned shall not result in a forfeiture of basic allowance for quarters for such 30-day or other authorized period: Provided, further, That this paragraph shall not apply to occupancy of quarters as a guest of another member.
 
-(b) Whenever the President exercises his authority under Section 1009(c) of Title 37 of the United States Code, to allocate up to 25 percent of certain increases in basic pay to basic allowances for quarters, a member without dependents who, under Section 403(b) or (c) ofthat title, is not entitled to a basic allowance for quarters shall become entitled to a portion of such basic allowance for quarters. The amount of such partial basic allowance for quarters shall equal the amount of any increases in basic pay which are allocated by the President to the basic allowance for quarters.
+(b) Whenever the President exercises his authority under Section 1009(c) of Title 37 of the United States Code, to allocate up to 25 percent of certain increases in basic pay to basic allowances for quarters, a member without dependents who, under Section 403(b) or (c) of that title, is not entitled to a basic allowance for quarters shall become entitled to a portion of such basic allowance for quarters. The amount of such partial basic allowance for quarters shall equal the amount of any increases in basic pay which are allocated by the President to the basic allowance for quarters.
 
 (c) For purposes of Section 403 of Title 37 of the United States Code, a member shall be deemed to be living in a “high housing cost area” whenever the average monthly cost of housing, including utilities, for housing appropriate for the member's grade, exceeds 115 percent of the amount of the basic allowance for quarters of that member.
 
@@ -627,7 +639,7 @@ Sec. 403. (a) Any quarters of housing facilities under the jurisdiction of any o
 
 Sec. 404. When adequate quarters for his dependents are not available for assignment at his permanent station to a member with dependents, he may occupy quarters of the United States designated for members without dependents without affecting his right to receive payment of basic allowances for quarters, if permitted or required to occupy quarters at such station. Under such circumstances, a member may not occupy quarters of the United States which exceed the minimum standards for members of his grade without dependents, as prescribed by the Secretary concerned, unless the only quarters available (a) exceed the minimum standards, and (b) are made available for joint occupancy with other members.
 
-Sec. 405. A member away from his permanent station may occupy quarters of the United States designated for members without dependents at his temporary duty station without affecting his right to receive payment of basic allowances for quarters or assignment of quarters, if any, at his permanent station. Under such circumstances, a member may not occupy quarters of the United States which exceed the minimum standards for members of his grade without dependents, as prescribed by the Secretary concerned, unless the only quarters available (a) exceed the minimum standards, and (b) are made available for joint occupancy with other members.
+Sec. 405. A member away from his permanent station may occupy quarters of the United States designatedfor members without dependents at his temporary duty station without affecting his right to receive payment of basic allowances for quarters or assignment of quarters, if any, at his permanent station. Under such circumstances, a member may not occupy quarters of the United States which exceed the minimum standards for members of his grade without dependents, as prescribed by the Secretary concerned, unless the only quarters available (a) exceed the minimum standards, and (b) are made available for joint occupancy with other members.
 
 Sec. 406. A member serving outside the United States, its territories, or possessions in a duty assignment which has official or diplomatic responsibilities involving officials of foreign governments may be assigned quarters in excess of the minimum standards set forth in sections 404 and 405 hereof, as prescribed by the Secretary concerned: <i>Provided</i>, That no such quarters shall be available on a continuous basis for single occupancy, if such quarters are otherwise adequate for assignment as family housing to members of similar rank.
 

@@ -24,7 +24,7 @@ Regulations and Exceptions.—The Secretary of Defense shall prescribe regulatio
 
 (e)
 
-No Copayment for Immediate Family.—No copayment shall be charged a member for care provided under TRICARE Prime to a dependent of a member of the uniformed services described in subparagraph (A), (D), or (I) of section 1072 <sup>1</sup> of this title.
+No Copayment for Immediate Family.—No copayment shall be charged a member for care provided under TRICARE Prime to a dependent of a member of the uniformed services described in subparagraph (A), (D), or (I) of section 1072(2) of this title.
 
 (f)
 
@@ -34,9 +34,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term “catchment area”, with respect to a facility of a uniformed service, means the service area of the facility, as designated under regulations prescribed by the administering Secretaries.
 
-(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195.)
+(Added Pub. L. 105–261, div. A, title VII, §712(a)(1), Oct. 17, 1998, 112 Stat. 2058; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–195; Pub. L. 107–107, div. A, title X, §1048(a)(11), Dec. 28, 2001, 115 Stat. 1223.)
 
 #### Amendments
+
+2001—Subsec. (e). Pub. L. 107–107 substituted “section 1072(2)” for “section 1072”.
 
 2000—Subsecs. (e), (f). Pub. L. 106–398 added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -47,6 +49,4 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §752(b)\], Oct. 30, 2000, 114 S
 #### Effective Date
 
 Pub. L. 105–261, div. A, title VII, §712(b), Oct. 17, 1998, 112 Stat. 2059, provided that: “The regulations required under subsection (d) of section 1097a of title 10, United States Code (as added by subsection (a)), shall be prescribed to take effect not later than September 30, 1999. The section shall be applied under TRICARE Prime on and after the date on which the regulations take effect.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “1072(2)”.</i>
 

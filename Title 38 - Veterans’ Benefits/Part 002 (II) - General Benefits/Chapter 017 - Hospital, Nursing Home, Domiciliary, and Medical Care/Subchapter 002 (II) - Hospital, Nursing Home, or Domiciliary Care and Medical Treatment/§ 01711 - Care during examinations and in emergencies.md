@@ -2,19 +2,21 @@
 
 (a) The Secretary may furnish hospital care incident to physical examinations where such examinations are necessary in carrying out the provisions of other laws administered by the Secretary.
 
-(b) The Secretary may furnish hospital care or medical services as a humanitarian service in emergency cases, but the Secretary shall charge for such care at rates prescribed by the Secretary.
+\[(b) Repealed. Pub. L. 107–135, title II, §208(d), Jan. 23, 2002, 115 Stat. 2463.\]
 
 (c)(1) The Secretary may contract with any organization named in, or approved by the Secretary under, section 5902 of this title to provide for the furnishing by the Secretary, on a reimbursable basis (as prescribed by the Secretary), of emergency medical services to individuals attending any national convention of such organization, except that reimbursement shall not be required for services furnished under this subsection to the extent that the individual receiving such services would otherwise be eligible under this chapter for medical services.
 
 (2) The authority of the Secretary to enter into contracts under this subsection shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, §611; Pub. L. 94–581, title II, §§202(e), 210(a)(2), Oct. 21, 1976, 90 Stat. 2856, 2862; Pub. L. 96–22, title II, §202, June 13, 1979, 93 Stat. 54; Pub. L. 96–128, title V, §501(a), Nov. 28, 1979, 93 Stat. 987; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1711 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, §611; Pub. L. 94–581, title II, §§202(e), 210(a)(2), Oct. 21, 1976, 90 Stat. 2856, 2862; Pub. L. 96–22, title II, §202, June 13, 1979, 93 Stat. 54; Pub. L. 96–128, title V, §501(a), Nov. 28, 1979, 93 Stat. 987; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1711 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §208(d), Jan. 23, 2002, 115 Stat. 2463.)
 
 #### Prior Provisions
 
 Prior section 1711 was renumbered section 3511 of this title.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–135 struck out subsec. (b) which read as follows: “The Secretary may furnish hospital care or medical services as a humanitarian service in emergency cases, but the Secretary shall charge for such care at rates prescribed by the Secretary.”
 
 1991—Pub. L. 102–83, §5(a), renumbered section 611 of this title as this section.
 
@@ -42,5 +44,5 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1712A, 1729, 1729A, 2303, 8111 of this title.
+This section is referred to in sections 1729A, 2303 of this title.
 

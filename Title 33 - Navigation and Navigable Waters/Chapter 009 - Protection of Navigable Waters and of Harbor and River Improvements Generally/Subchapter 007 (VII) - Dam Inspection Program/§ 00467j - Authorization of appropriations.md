@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of dams in the State that are listed as State-regulated dams on the inventory of dams maintained under section 467d of this title; as compared to
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of dams in all States that are listed as State-regulated dams on the inventory of dams maintained under section 467d of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the number of dams in all States that are listed as State-regulated damson the inventory of dams maintained under section 467d of this title.
 
 #### (B) Maximum amount of allocation
 

@@ -204,6 +204,22 @@ In this section, the term “policy” means a policy, plan of insurance, provis
 
 Section effective Oct. 1, 2000, see section 171(b)(1)(A) of Pub. L. 106–224, set out as an Effective Date of 2000 Amendment note under section 1501 of this title.
 
+#### Reimbursement Regulations
+
+Pub. L. 107–20, title II, §2103, July 24, 2001, 115 Stat. 165, provided that:
+
+“(a) Not later than August 1, 2001, the Federal Crop Insurance Corporation shall promulgate final regulations to carry out section 522(b) of the Federal Crop Insurance Act (7 U.S.C. 522(b) \[1522(b)\]), without regard to—
+
+&emsp;“(1) the notice and comment provisions of section 553 of title 5, United States Code;
+
+&emsp;“(2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+&emsp;“(3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+
+“(b) In carrying out this section, the Corporation shall use the authority provided under section 808 of title 5, United States Code.
+
+“(c) The final regulations promulgated under subsection (a) shall take effect on the date of publication of the final regulations.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1508, 1516, 1523 of this title.

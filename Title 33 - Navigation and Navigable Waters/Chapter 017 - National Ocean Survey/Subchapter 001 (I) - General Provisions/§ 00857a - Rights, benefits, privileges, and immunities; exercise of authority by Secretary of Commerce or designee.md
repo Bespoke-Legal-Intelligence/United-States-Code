@@ -34,9 +34,11 @@
 
 &emsp;(16) Section 1052, Reimbursement for adoption expenses.
 
+&emsp;(17) Section 1059, Transitional compensation and commissary and exchange benefits for dependents of members separated for dependent abuse.
+
 (b) The authority vested by title 10 in the “military department”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) of this section shall be exercised, with respect to the commissioned officer corps of the National Oceanic and Atmospheric Administration by the Secretary of Commerce or his designee.
 
-(Aug. 10, 1956, ch. 1041, §3, 70A Stat. 619; Pub. L. 85–861, §3, Sept. 2, 1958, 72 Stat. 1546; Pub. L. 86–160, §2, Aug. 14, 1959, 73 Stat. 358; Pub. L. 87–233, §4, Sept. 14, 1961, 75 Stat. 507; Pub. L. 87–649, §9(a), Sept. 7, 1962, 76 Stat. 495; Pub. L. 88–132, §5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, §1(c)(1), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–538, §3(a), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, §5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–215, §1, Mar. 25, 1980, 94 Stat. 123; Pub. L. 96–357, §4, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–513, title V, §507(f)(1), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 98–94, title X, §1007(d), Sept. 24, 1983, 97 Stat. 662; Pub. L. 104–106, div. A, title V, §566(a), (b), Feb. 10, 1996, 110 Stat. 327; Pub. L. 105–85, div. A, title VI, §653(b), title X, §1073(f), Nov. 18, 1997, 111 Stat. 1804, 1906.)
+(Aug. 10, 1956, ch. 1041, §3, 70A Stat. 619; Pub. L. 85–861, §3, Sept. 2, 1958, 72 Stat. 1546; Pub. L. 86–160, §2, Aug. 14, 1959, 73 Stat. 358; Pub. L. 87–233, §4, Sept. 14, 1961, 75 Stat. 507; Pub. L. 87–649, §9(a), Sept. 7, 1962, 76 Stat. 495; Pub. L. 88–132, §5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, §1(c)(1), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–538, §3(a), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, §5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–215, §1, Mar. 25, 1980, 94 Stat. 123; Pub. L. 96–357, §4, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–513, title V, §507(f)(1), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 98–94, title X, §1007(d), Sept. 24, 1983, 97 Stat. 662; Pub. L. 104–106, div. A, title V, §566(a), (b), Feb. 10, 1996, 110 Stat. 327; Pub. L. 105–85, div. A, title VI, §653(b), title X, §1073(f), Nov. 18, 1997, 111 Stat. 1804, 1906; Pub. L. 107–107, div. A, title VI, §653(b), Dec. 28, 2001, 115 Stat. 1153.)
 
 #### References in Text
 
@@ -48,13 +50,15 @@ Section was formerly classified to section 316 of Title 37 prior to the general 
 
 #### Amendments
 
+2001—Subsec. (a)(17). Pub. L. 107–107 added par. (17).
+
 1997—Subsec. (a)(3). Pub. L. 105–85, §1073(f), struck out “1374,” after “1370,”.
 
 Subsec. (a)(16). Pub. L. 105–85, §653(b), added par. (16).
 
 1996—Subsec. (a). Pub. L. 104–106, §566(b)(2), substituted “as those provisions are in effect from time to time” for “including changes in those rules made after August 10, 1956”.
 
-Pub. L. 104–106, §566(b)(1), substituted “commissioned officer corps of the National Oceanic and Atmospheric Administration” for “Coast and Geodetic Survey” in introductory provisions and in par. (9).
+Pub. L. 104–106, §566(b)(1), substituted “commissioned officer corps of the National Oceanic and AtmosphericAdministration” for “Coast and Geodetic Survey” in introductory provisions and in par. (9).
 
 Subsec. (a)(15). Pub. L. 104–106, §566(a), added par. (15).
 

@@ -38,7 +38,7 @@ Determining Theft Rate for Passenger Vehicles.—(1) In this subsection, “new 
 
 (c)
 
-Providing Information.—The Secretary by regulation shall require each manufacturer to provide information necessary to select under subsection (a)(3) of this section the high theft lines and the major parts to be subject to the standard.
+Providing Information.—The Secretary by regulation shall require each manufacturer to provide information necessary to select under subsection (a)(3) of this section the high theftlines and the major parts to be subject to the standard.
 
 (d)
 

@@ -30,7 +30,7 @@ If the Secretary establishes the position of Under Secretary of Agriculture for 
 
 #### (3) Officer-in-charge
 
-&emsp;If the Secretary establishes the position of Under Secretary of Agriculture for Research, Education, and Economics, the officer incharge of the Cooperative State Research, Education, and Extension Service shall report directly to the Under Secretary.
+&emsp;If the Secretary establishes the position of Under Secretary of Agriculture for Research, Education, and Economics, the officer in charge of the Cooperative State Research, Education, and Extension Service shall report directly to the Under Secretary.
 
 (Pub. L. 103–354, title II, §251, Oct. 13, 1994, 108 Stat. 3226.)
 

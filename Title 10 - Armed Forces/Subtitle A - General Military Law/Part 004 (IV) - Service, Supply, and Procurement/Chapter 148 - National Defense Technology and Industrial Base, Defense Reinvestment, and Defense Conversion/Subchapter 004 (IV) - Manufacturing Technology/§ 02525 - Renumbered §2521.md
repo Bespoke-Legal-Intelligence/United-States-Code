@@ -1,4 +1,4 @@
-### \[§2525.Renumbered §2521\]
+### \[§2525. Renumbered §2521\]
 
 #### Prior Provisions
 

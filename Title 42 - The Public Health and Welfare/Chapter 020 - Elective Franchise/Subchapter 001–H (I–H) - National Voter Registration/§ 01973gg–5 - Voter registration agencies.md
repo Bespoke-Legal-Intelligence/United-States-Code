@@ -76,7 +76,7 @@ All departments, agencies, and other entities of the executive branch of the Fed
 
 #### (c) Armed Forces recruitment offices
 
-(1) Each State and the Secretary of Defense shall jointly develop and implement procedures for persons to apply to register to vote at recruitment offices of the Armed Forces of the United States.
+(1) Each State and the Secretary of Defense shall jointly develop and implement proceduresfor persons to apply to register to vote at recruitment offices of the Armed Forces of the United States.
 
 (2) A recruitment office of the Armed Forces of the United States shall be considered to be a voter registration agency designated under subsection (a)(2) of this section for all purposes of this subchapter.
 
@@ -100,7 +100,7 @@ Section 1. <i>Assistance to States</i>. To the greatest extent practicable, depa
 
 (c) designate an office or staff to be available to provide technical assistance to such State agencies.
 
-Sec. 2. <i>Armed Forces Recruitment Offices</i>. The Secretary of Defense is directed to work with the appropriate State elections authorities in each State to develop procedures for persons to apply to register tovote at Armed Forces recruitment offices as required by section 7(c) of the Act.
+Sec. 2. <i>Armed Forces Recruitment Offices</i>. The Secretary of Defense is directed to work with the appropriate State elections authorities in each State to develop procedures for persons to apply to register to vote at Armed Forces recruitment offices as required by section 7(c) of the Act.
 
 Sec. 3. <i>Acceptance of Designation</i>. To the greatest extent practicable, departments, agencies, or other entities of the executive branch of the Federal Government, if requested to be designated as a voter registration agency pursuant to section 7(a)(3)(B)(ii) of the Act, shall: (a) agree to such a designation if agreement is consistent with the department's, agency's, or entity's legal authority and availability of funds; and
 

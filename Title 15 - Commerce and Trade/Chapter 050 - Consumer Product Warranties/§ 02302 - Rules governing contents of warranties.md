@@ -32,7 +32,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 #### (b) Availability of terms to consumer; manner and form for presentation and display of information; duration; extension of period for written warranty or service contract
 
-(1)(A) The Commission shall prescribe rules requiring that the terms of any written warranty on a consumer product be made available to theconsumer (or prospective consumer) prior to the sale of the product to him.
+(1)(A) The Commission shall prescribe rules requiring that the terms of any written warranty on a consumer product be made available to the consumer (or prospective consumer) prior to the sale of the product to him.
 
 (B) The Commission may prescribe rules for determining the manner and form in which information with respect to any written warranty of a consumer product shall be clearly and conspicuously presented or displayed so as not to mislead the reasonable, average consumer, when such information is contained in advertising, labeling, point-of-sale material, or other representations in writing.
 

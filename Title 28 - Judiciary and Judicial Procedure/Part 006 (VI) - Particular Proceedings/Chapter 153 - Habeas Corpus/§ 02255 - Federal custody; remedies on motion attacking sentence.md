@@ -2,7 +2,7 @@
 
 A prisoner in custody under sentence of a court established by Act of Congress claiming the right to be released upon the ground that the sentence was imposed in violation of the Constitution or laws of the United States, or that the court was without jurisdiction to impose such sentence, or that the sentence was in excess of the maximum authorized by law, or is otherwise subject to collateral attack, may move the court which imposed the sentence to vacate, set aside or correct the sentence.
 
-Unless the motion and the files and records of the case conclusively show that the prisoner is entitled to no relief, the court shall cause notice thereof to be served upon the United States attorney, grant a prompt hearing thereon, determine the issues and make findings of fact and conclusions of law with respect thereto. If the court finds that the judgment was rendered without jurisdiction, or that the sentence imposed was not authorized by law or otherwise open to collateral attack, or that there has been such a denial or infringement of the constitutional rights of the prisoner as to render the judgment vulnerable to collateral attack, the court shall vacate and set the judgment aside and shall discharge the prisoner or resentence him or grant a new trial or correct the sentence as may appear appropriate.
+Unless the motion and the files and records of the case conclusively show that the prisoner is entitled to no relief, the court shall cause notice thereof to be served upon the United States attorney, grant a prompt hearing thereon, determine the issues and make findings of fact andconclusions of law with respect thereto. If the court finds that the judgment was rendered without jurisdiction, or that the sentence imposed was not authorized by law or otherwise open to collateral attack, or that there has been such a denial or infringement of the constitutional rights of the prisoner as to render the judgment vulnerable to collateral attack, the court shall vacate and set the judgment aside and shall discharge the prisoner or resentence him or grant a new trial or correct the sentence as may appear appropriate.
 
 A court may entertain and determine such motion without requiring the production of the prisoner at the hearing.
 
@@ -34,7 +34,7 @@ A second or successive motion must be certified as provided in section 2244 by a
 
 #### 1948 Act
 
-This section restates, clarifies and simplifies the procedure in the nature of the ancient writ of error coram nobis. It provides an expeditious remedy for correcting erroneous sentences without resort to habeas corpus. It has the approval of the Judicial Conference of theUnited States. Its principal provisions are incorporated in H.R. 4233, Seventy-ninth Congress.
+This section restates, clarifies and simplifies the procedure in the nature of the ancient writ of error coram nobis. It provides an expeditious remedy for correcting erroneous sentences without resort to habeas corpus. It has the approval of the Judicial Conference of the United States. Its principal provisions are incorporated in H.R. 4233, Seventy-ninth Congress.
 
 #### 1949 Act
 
@@ -64,7 +64,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective February 1, 1977, as amended to January 2, 2001)</i>
+#### (<i>Effective February 1, 1977, as amended to January 22, 2002)</i>
 
 Rule
 
@@ -144,7 +144,7 @@ Whereas sections 2241–2254 (dealing with federal habeas corpus for those in st
 
 The two main advantages of such motion remedy over the present habeas corpus are as follows:
 
-First, habeas corpus is a separate civil action and not a further step in the criminal case in which petitioneris sentenced (<i>Ex parte Tom Tong</i>, 108 U.S. 556, 559 (1883)). It is not a determination of guilt or innocence of the charge upon which petitioner was sentenced. Where a prisoner sustains his right to discharge in habeas corpus, it is usually because some right—such as lack of counsel—has been denied which reflects no determination of his guilt or innocence but affects solely the fairness of his earlier criminal trial. Even under the broad power in the statute “to dispose of the party as law and justice require” (28 U.S.C.A., sec. 461), the court or judge is by no means in the same advantageous position in habeas corpus to do justice as would be so if the matter were determined in the criminal proceeding (see <i>Medley</i>, petitioner, 134 U.S. 160, 174 (1890)). For instance, the judge (by habeas corpus) cannot grant a new trial in the criminal case. Since the motion remedy is in the criminal proceeding, this section 2 affords the opportunity and expressly gives the broad powers to set aside the judgment and to “discharge the prisoner or resentence him or grant a new trial or correct the sentence as may appear appropriate.”
+First, habeas corpus is a separate civil action and not a further step in the criminal case in which petitioner is sentenced (<i>Ex parte Tom Tong</i>, 108 U.S. 556, 559 (1883)). It is not a determination of guilt or innocence of the charge upon which petitioner was sentenced. Where a prisoner sustains his right to discharge in habeas corpus, it is usually because some right—such as lack of counsel—has been denied which reflects no determination of his guilt or innocence but affects solely the fairness of his earlier criminal trial. Even under the broad power in the statute “to dispose of the party as law and justice require” (28 U.S.C.A., sec. 461), the court or judge is by no means in the same advantageous position in habeas corpus to do justice as would be so if the matter were determined in the criminal proceeding (see <i>Medley</i>, petitioner, 134 U.S. 160, 174 (1890)). For instance, the judge (by habeas corpus) cannot grant a new trial in the criminal case. Since the motion remedy is in the criminal proceeding, this section 2 affords the opportunity and expressly gives the broad powers to set aside the judgment and to “discharge the prisoner or resentence him or grant a new trial or correct the sentence as may appear appropriate.”
 
 The fact that a motion under §2255 is a further step in the movant's criminal case rather than a separate civil action has significance at several points in these rules. See, <i>e.g</i>., advisory committee note to rule 3 (re no filing fee), advisory committee note to rule 4 (re availability of files, etc., relating to the judgment), advisory committee note to rule 6 (re availability of discovery under criminal procedure rules), advisory committee note to rule 11 (re no extension of time for appeal), and advisory committee not to rule 12 (re applicability of federal criminal rules). However, the fact that Congress has characterized the motion as a further step in the criminal proceedings does <i>not</i> mean that proceedings upon such a motion are of necessity governed by the legal principles which are applicable at a criminal trial regarding such matters as counsel, presence, confrontation, self-incrimination, and burden of proof.
 
@@ -158,7 +158,7 @@ For a discussion of the “custody” requirement and the intended limited scope
 
 (a)
 
-Nature of application for relief. If the person is presently in custody pursuant to the federal judgment in question, or if not presently in custody may be subject to such custody in the future pursuant to such judgment, the application for relief shall be in the form of a motion to vacate, set aside, or correct the sentence.
+Nature of application for relief. If the person is presently in custody pursuant to thefederal judgment in question, or if not presently in custody may be subject to such custody in the future pursuant to such judgment, the application for relief shall be in the form of a motion to vacate, set aside, or correct the sentence.
 
 (b)
 
@@ -184,7 +184,7 @@ There is presently a split among the courts as to whether a person currently in 
 
 Under rule 35, Federal Rules of Criminal Procedure, the court may correct an illegal sentence or a sentence imposed in an illegal manner, or may reduce the sentence. This remedy should be used, rather than a motion under these §2255 rules, whenever applicable, but there is some overlap between the two proceedings which has caused the courts difficulty.
 
-The movant should not be barred from an appropriate remedy because he has misstyled his motion. See <i>United States v. Morgan</i>, 346 U.S. 502, 505 (1954). The court should construe it as whichever one is proper under the circumstances and decide it on its merits.For a §2255 motion construed as a rule 35 motion, see <i>Heflin v. United States</i>, 358 U.S. 415 (1959); and <i>United States v. Coke</i>, 404 F.2d 836 (2d Cir. 1968). For writ of error coram nobis treated as a rule 35 motion, see <i>Hawkins v. United States</i>, 324 F.Supp. 223 (E.D.Texas, Tyler Division 1971). For a rule 35 motion treated as a §2255 motion, see <i>Moss v. United States</i>, 263 F.2d 615 (5th Cir. 1959); <i>Jones v. United States</i>, 400 F.2d 892 (8th Cir. 1968), cert. denied 394 U.S. 991 (1969); and <i>United States v. Brown</i>, 413 F.2d 878 (9th Cir. 1969), cert. denied, 397 U.S. 947 (1970).
+The movant should not be barred from an appropriate remedy because he has misstyled his motion. See <i>United States v. Morgan</i>, 346 U.S. 502, 505 (1954). The court should construe it as whichever one is proper under the circumstances and decide it on its merits. For a §2255 motion construed as a rule 35 motion, see <i>Heflin v. United States</i>, 358 U.S. 415 (1959); and <i>United States v. Coke</i>, 404 F.2d 836 (2d Cir. 1968). For writ of error coram nobis treated as a rule 35 motion, see <i>Hawkins v. United States</i>, 324 F.Supp. 223 (E.D.Texas, Tyler Division 1971). For a rule 35 motion treated as a §2255 motion, see <i>Moss v. United States</i>, 263 F.2d 615 (5th Cir. 1959); <i>Jones v. United States</i>, 400 F.2d 892 (8th Cir. 1968), cert. denied 394 U.S. 991 (1969); and <i>United States v. Brown</i>, 413 F.2d 878 (9th Cir. 1969), cert. denied, 397 U.S. 947 (1970).
 
 One area of difference between §2255 and rule 35 motions is that for the latter there is no requirement that the movant be “in custody.” <i>Heflin v. United States</i>, 358 U.S. 415, 418, 422 (1959); <i>Duggins v. United States</i>, 240 F.2d 479, 483 (6th Cir. 1957). Compare with rule 1 and advisory committee note for §2255 motions. The importance of this distinction has decreased since <i>Peyton v. Rowe</i>, 391 U.S. 54 (1968), but it might still make a difference in particular situations.
 
@@ -198,7 +198,7 @@ A rule 35 motion is used to attack the sentence imposed, not the basis for the s
 
 A major difficulty in deciding whether rule 35 or §2255 is the proper remedy is the uncertainty as to what is meant by an “illegal sentence.” The Supreme Court dealt with this issue in <i>Hill v. United States</i>, 368 U.S. 424 (1962). The prisoner brought a §2255 motion to vacate sentence on the ground that he had not been given a Fed.R.Crim. P. 32(a) opportunity to make a statement in his own behalf at the time of sentencing. The majority held this was not an error subject to collateral attack under §2255. The five-member majority considered the motion as one brought pursuant to rule 35, but denied relief, stating:
 
-> &emsp;\[T\]he narrow function of Rule 35 is to permit correction at any time of an illegal <i>sentence</i>, not to re-examine errors occurring at the trial or other proceedings prior to the imposition of sentence. The sentence in this case was not illegal. The punishment meted out was not in excess of that prescribed by the relevant statutes, multiple terms were not imposed for the same offense, nor were the terms of the sentence itself legally or constitutionally invalid in any other respect.
+> &emsp;\[T\]he narrow function of Rule 35 is to permit correction at any time of an illegal <i>sentence</i>, not to re-examine errors occurring at the trial or other proceedings prior to the imposition of sentence. The sentencein this case was not illegal. The punishment meted out was not in excess of that prescribed by the relevant statutes, multiple terms were not imposed for the same offense, nor were the terms of the sentence itself legally or constitutionally invalid in any other respect.
 
 #### 368 U.S. at 430
 
@@ -224,7 +224,7 @@ See the advisory committee note to rule 2 of the §2254 rules for further discus
 
 #### 1982 Amendment
 
-Subdivision (b). The amendment takes into account 28 U.S.C. §1746, enacted after adoption of the §2255 rules. Section 1746 provides that in lieu of an affidavit an unsworn statement may be given under penalty of perjury in substantially the following form if executedwithin the United States, its territories, possessions or commonwealths: “I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on (date). (Signature).” The statute is “intended to encompass prisoner litigation,” and the statutory alternative is especially appropriate in such cases because a notary might not be readily available. <i>Carter v. Clark</i>, 616 F.2d 228 (5th Cir. 1980). The §2255 forms have been revised accordingly.
+Subdivision (b). The amendment takes into account 28 U.S.C. §1746, enacted after adoption of the §2255 rules. Section 1746 provides that in lieu of an affidavit an unsworn statement may be given under penalty of perjury in substantially the following form if executed within the United States, its territories, possessions or commonwealths: “I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on (date). (Signature).” The statute is “intended to encompass prisoner litigation,” and the statutory alternative is especially appropriate in such cases because a notary might not be readily available. <i>Carter v. Clark</i>, 616 F.2d 228 (5th Cir. 1980). The §2255 forms have been revised accordingly.
 
 #### Amendments
 
@@ -252,7 +252,7 @@ The long-standing practice of requiring a $15 filing fee has followed from 28 U.
 
 <i>McCune</i> v. <i>United States</i>, 406 F.2d 417, 419 (6th Cir. 1969).
 
-Although the motion has been considered to be a new civil action in the nature of habeas corpus for filing purposes, the reduced fee for habeas has been held not applicable. The Tenth Circuit considered the specific issue in <i>Martin</i> v. <i>United States</i>, 273 F.2d 775 (10th Cir. 1960), cert. denied, 365 U.S. 853 (1961), holding that the reduced fee was exclusive to habeas petitions.
+Although the motion has been considered to be a new civil action in the nature of habeas corpus for filingpurposes, the reduced fee for habeas has been held not applicable. The Tenth Circuit considered the specific issue in <i>Martin</i> v. <i>United States</i>, 273 F.2d 775 (10th Cir. 1960), cert. denied, 365 U.S. 853 (1961), holding that the reduced fee was exclusive to habeas petitions.
 
 &emsp;Counsel for Martin insists that, if a docket fee must be paid, the amount is $5 rather than $15 and bases his contention on the exception contained in 28 U.S.C. §1914 that in habeas corpus the fee is $5. This reads into §1914 language which is not there. While an application under §2255 may afford the same relief as that previously obtainable by habeas corpus, it is not a petition for a writ of habeas corpus. A change in §1914 must come from Congress.
 
@@ -278,7 +278,7 @@ Initial consideration by judge. The motion, together with all the files, records
 
 Rule 4 outlines the procedure for assigning the motion to a specific judge of the district court and the options available to the judge and the government after the motion is properly filed.
 
-The long-standing majority practice in assigning motions made pursuant to §2255 has been for the trial judge to determine the merits of the motion. In cases where the §2255 motion is directed against the sentence, the merits have traditionally been decided by the judge who imposed sentence. The reasoning for thiswas first noted in <i>Currell v. United States</i>, 173 F.2d 348, 348–349 (4th Cir. 1949):
+The long-standing majority practice in assigning motions made pursuant to §2255 has been for the trial judge to determine the merits of the motion. In cases where the §2255 motion is directed against the sentence, the merits have traditionally been decided by the judge who imposed sentence. The reasoning for this was first noted in <i>Currell v. United States</i>, 173 F.2d 348, 348–349 (4th Cir. 1949):
 
 &emsp;Complaint is made that the judge who tried the case passed upon the motion. Not only was there no impropriety in this, but it is highly desirable in such cases that the motions be passed on by the judge who is familiar with the facts and circumstances surrounding the trial, and is consequently not likely to be misled by false allegations as to what occurred.
 
@@ -296,7 +296,7 @@ The Court of Appeals for the First Circuit has held that a judge other than the 
 
 There is a procedure by which the movant can have a judge other than the trial judge decide his motion in courts adhering to the majority rule. He can file an affidavit alleging bias in order to disqualify the trial judge. And there are circumstances in which the trial judge will, on his own, disqualify himself. See, <i>e.g., Webster v. United States</i>, 330 F.Supp. 1080 (1972). However, there has been some questioning of the effectiveness of this procedure. See Developments in the Law—Federal Habeas Corpus, 83 Harv.L.Rev. 1038, 1200–1207 (1970).
 
-Subdivision (a) adopts the majority rule and provides that the trial judge, or sentencing judge if different and appropriate for the particular motion, will decide the motion made pursuant to these rules, recognizing that, under some circumstances, he may want to disqualify himself. A movant is not without remedy if he feels this is unfair to him. He can file an affidavit of bias. And there is the right to appellate review if the trial judge refuses to grant his motion. Because the trial judge is thoroughly familiar with the case, there is obvious administrative advantage in giving him the first opportunity to decide whether there are grounds for granting the motion.
+Subdivision (a) adopts the majority rule and provides that the trial judge, or sentencing judge if different and appropriate for the particular motion, will decide the motion made pursuant to these rules, recognizing that, under some circumstances, he may want to disqualify himself. A movant is not without remedy if he feelsthis is unfair to him. He can file an affidavit of bias. And there is the right to appellate review if the trial judge refuses to grant his motion. Because the trial judge is thoroughly familiar with the case, there is obvious administrative advantage in giving him the first opportunity to decide whether there are grounds for granting the motion.
 
 Since the motion is part of the criminal action in which was entered the judgment to which it is directed, the files, records, transcripts, and correspondence relating to that judgment are automatically available to the judge in his consideration of the motion. He no longer need order them incorporated for that purpose.
 
@@ -326,7 +326,7 @@ There is no requirement that the movant exhaust his remedies prior to seeking re
 
 > Also see <i>Masters v. Eide</i>, 353 F.2d 517 (8th Cir. 1965). The answer may thus cut short consideration of the motion if it discloses the taking of an appeal which was omitted from the form motion filed by the movant.
 
-There is nothing in §2255 which corresponds to the §2248 requirement of a traverse to the answer. Numerous cases have held that the government's answer and affidavits are not conclusive against the movant, and if they raise disputed issues of fact a hearing must be held. <i>Machibroda v. United States</i>, 368 U.S. 487, 494, 495 (1962); <i>United States v. Salerno</i>, 290 F.2d 105, 106 (2d Cir. 1961); <i>Romero v. United States</i>, 327 F.2d 711, 712 (5th Cir. 1964); <i>Scott v. United States</i>, 349 F.2d 641, 642, 643 (6th Cir. 1965); <i>Schiebelhut v. United States</i>, 357 F.2d 743, 745 (6th Cir. 1966); and <i>Del Piano v. United States</i>, 362 F.2d 931,932, 933 (3d Cir. 1966). None of these cases make any mention of a traverse by the movant to the government's answer. As under rule 5 of the §2254 rules, there is no intention here that such a traverse be required, except under special circumstances. See advisory committee note to rule 9.
+There is nothing in §2255 which corresponds to the §2248 requirement of a traverse to the answer. Numerous cases have held that the government's answer and affidavits are not conclusive against the movant, and if they raise disputed issues of fact a hearing must be held. <i>Machibroda v. United States</i>, 368 U.S. 487, 494, 495 (1962); <i>United States v. Salerno</i>, 290 F.2d 105, 106 (2d Cir. 1961); <i>Romero v. United States</i>, 327 F.2d 711, 712 (5th Cir. 1964); <i>Scott v. United States</i>, 349 F.2d 641, 642, 643 (6th Cir. 1965); <i>Schiebelhut v. United States</i>, 357 F.2d 743, 745 (6th Cir. 1966); and <i>Del Piano v. United States</i>, 362 F.2d 931, 932, 933 (3d Cir. 1966). None of these cases make any mention of a traverse by the movant to the government's answer. As under rule 5 of the §2254 rules, there is no intention here that such a traverse be required, except under special circumstances. See advisory committee note to rule 9.
 
 Subdivision (b) provides for the government to supplement its answers with appropriate copies of transcripts or briefs if for some reason the judge does not already have them under his control. This is because the government will in all probability have easier access to such papers than the movant, and it will conserve the court's time to have the government produce them rather than the movant, who would in most instances have to apply in forma pauperis for the government to supply them for him anyway.
 
@@ -356,7 +356,7 @@ See the advisory committee note to rule 6 of the §2254 rules. The discussion th
 
 (a)
 
-Direction for expansion. If the motion is not dismissed summarily, the judge may direct that the record be expanded by the parties by the inclusion of additional materials relevant to the determination of the merits of the motion.
+Direction for expansion. If the motion is not dismissed summarily, the judge may direct that the record be expanded by the parties bythe inclusion of additional materials relevant to the determination of the merits of the motion.
 
 (b)
 
@@ -408,7 +408,7 @@ In general. Federal Rule of Criminal Procedure 26.2(a)–(d), and (f) applies at
 
 &emsp;(2)
 
-Sanctions for failure to produce statement. If a party elects not to complywith an order under Federal Rule of Criminal Procedure 26.2(a) to deliver a statement to the moving party, at the evidentiary hearing the court may not consider the testimony of the witness whose statement is withheld.
+Sanctions for failure to produce statement. If a party elects not to comply with an order under Federal Rule of Criminal Procedure 26.2(a) to deliver a statement to the moving party, at the evidentiary hearing the court may not consider the testimony of the witness whose statement is withheld.
 
 (As amended Pub. L. 94–426, §2(6), Sept. 28, 1976, 90 Stat. 1335; Pub. L. 94–577, §2(a)(2), (b)(2), Oct. 21, 1976, 90 Stat. 2730, 2731; Apr. 22, 1993, eff. Dec. 1, 1993.)
 
@@ -496,7 +496,7 @@ A requirement that the movant display reasonable diligence in filing a §2255 mo
 
 One of the major arguments advanced by the courts which would penalize a movant who waits an unduly long time before filing a §2255 motion is that such delay is highly prejudicial to the prosecution. In <i>Desmond v. United States</i>, writing of a §2255 motion alleging denial of effective appeal because of deception by movant's own counsel, the court said:
 
-> &emsp;\[A\]pplications for relief such as this must be made promptly. It will not do for a prisoner to wait until government witnesses have become unavailable as by death, serious illness or absence from the country, or until the memory of available government witnesses has faded. It will not even do for a prisoner to wait any longer than is reasonably necessary to prepare appropriate moving papers, however inartistic, after discovery of the deception practiced upon him by his attorney.
+> &emsp;\[A\]pplications for relief such as this must be made promptly. It will not do for a prisoner to wait untilgovernment witnesses have become unavailable as by death, serious illness or absence from the country, or until the memory of available government witnesses has faded. It will not even do for a prisoner to wait any longer than is reasonably necessary to prepare appropriate moving papers, however inartistic, after discovery of the deception practiced upon him by his attorney.
 
 #### 333 F.2d at 381
 
@@ -1114,19 +1114,19 @@ I hereby certify that the movant herein has the sum of $\_\_\_\_\_\_\_\_ on acco
 
 > I further certify that movant likewise has the following securities to his credit according to the records of said \_\_\_\_\_\_\_\_ institution:
 
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Authorized Officer of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Authorized Officer of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 > (As amended Apr. 28, 1982, eff. Aug. 1, 1982.)
 

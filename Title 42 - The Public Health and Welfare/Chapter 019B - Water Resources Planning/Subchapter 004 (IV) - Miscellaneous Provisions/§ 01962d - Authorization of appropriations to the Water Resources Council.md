@@ -4,7 +4,7 @@ There are authorized to be appropriated to the Water Resources Council:
 
 #### (a) Limitation for single river basin commission
 
-&emsp;The sum of $2,886,000 for fiscal year 1979 for the Federal share of the expenses of administration and operation of river basin commissions, including salaries and expenses of the chairmen, but not including funds authorizedby subsection (c) below: <i>Provided</i>, That not more than $750,000 annually shall be available under this subsection for any single river basin commission;
+&emsp;The sum of $2,886,000 for fiscal year 1979 for the Federal share of the expenses of administration and operation of river basin commissions, including salaries and expenses of the chairmen, but not including funds authorized by subsection (c) below: <i>Provided</i>, That not more than $750,000 annually shall be available under this subsection for any single river basin commission;
 
 #### (b) Limitation on the expenses of the Water Resources Council
 

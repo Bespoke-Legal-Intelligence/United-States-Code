@@ -64,7 +64,7 @@ For purposes of this part, in applying the percentage limitations of sections 42
 
 #### (e) Parent corporation
 
-For purposes of this part, the term “parent corporation” means any corporation (other thanthe employer corporation) in an unbroken chain of corporations ending with the employer corporation if, at the time of the granting of the option, each of the corporations other than the employer corporation owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
+For purposes of this part, the term “parent corporation” means any corporation (other than the employer corporation) in an unbroken chain of corporations ending with the employer corporation if, at the time of the granting of the option, each of the corporations other than the employer corporation owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
 #### (f) Subsidiary corporation
 

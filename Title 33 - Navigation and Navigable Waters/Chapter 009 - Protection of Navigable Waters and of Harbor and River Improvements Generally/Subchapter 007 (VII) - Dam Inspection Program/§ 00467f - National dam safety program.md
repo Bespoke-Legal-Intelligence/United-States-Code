@@ -168,7 +168,7 @@ The Director shall—
 
 #### (C) Notification of disapproval
 
-&emsp;&emsp;If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shall immediately notify the State in writing and provide the reasons for the determinationand the changes that are necessary for the plan to be approved.
+&emsp;&emsp;If the Director determines that a State dam safety program does not meet the requirements for approval, the Director shall immediately notify the State in writing and provide the reasons for the determination and the changes that are necessary for the plan to be approved.
 
 #### (6) Review of State dam safety programs
 
@@ -232,7 +232,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(6), is Pub. L. 92
 
 #### Prior Provisions
 
-A prior section 467f, Pub. L. 92–367, §7, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4260; amended Pub. L. 102–580, title II, §209(a), Oct. 31, 1992, 106 Stat. 4830, related to funding for State dam safety programs, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467f, Pub. L. 92–367, §7, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4260;amended Pub. L. 102–580, title II, §209(a), Oct. 31, 1992, 106 Stat. 4830, related to funding for State dam safety programs, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 8 of Pub. L. 92–367 was classified to section 467g of this title prior to repeal by Pub. L. 104–303.
 

@@ -66,9 +66,11 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 &emsp;(19) which are for items or services which are furnished pursuant to a private contract described in section 1395a(b) of this title;
 
-&emsp;(20) in the case of outpatient occupational therapy services or outpatient physical therapy services furnished as an incident to a physician's professional services (as described in section 1395x(s)(2)(A) of this title), that do not meet the standards and conditions (other than any licensing requirement specified by the Secretary) under the second sentence of section 1395x(p) of this title (or under such sentence through the operation of section 1395x(g) of this title) as such standards and conditions would apply to such therapy services if furnished by a therapist; or
+&emsp;(20) in the case of outpatient occupational therapy services or outpatient physical therapy services furnished as an incident to a physician's professional services (as described in section 1395x(s)(2)(A) of this title), that do not meet the standards and conditions (other than any licensing requirement specified by the Secretary) under the second sentence of section 1395x(p) of this title (or under such sentence through the operation of section 1395x(g) of this title) as such standards and conditions would apply to such therapy services if furnished by a therapist;
 
-&emsp;(21) where such expenses are for home health services (including medical supplies described in section 1395x(m)(5) of this title, but excluding durable medical equipment to the extent provided for in such section) furnished to an individual who is under a plan of care of the home health agency if the claim for payment for such services is not submitted by the agency.
+&emsp;(21) where such expenses are for home health services (including medical supplies described in section 1395x(m)(5) of this title, but excluding durable medical equipment to the extent provided for in such section) furnished to an individual who is under a plan of care of the home health agency if the claim for payment for such services is not submitted by the agency; or
+
+&emsp;(22) subject to subsection (h) of this section, for which a claim is submitted other than in an electronic form specified by the Secretary.
 
 > Paragraph (7) shall not apply to Federally qualified health center services described in section 1395x(aa)(3)(B) of this title. In making a national coverage determination (as defined in paragraph (1)(B) of section 1395ff(f) of this title) the Secretary shall ensure that the public is afforded notice and opportunity to comment prior to implementation by the Secretary of the determination; meetings of advisory committees established under section 1314(f) of this title with respect to the determination are made on the record; in making the determination, the Secretary has considered applicable information (including clinical experience and medical, technical, and scientific evidence) with respect to the subject matter of the determination; and in the determination, provide a clear statement of the basis for the determination (including responses to comments received from the public), the assumptions underlying that basis, and make available to the public the data (other than proprietary data) considered in making the determination.
 
@@ -308,7 +310,23 @@ The Secretary shall establish utilization guidelines for the determination of wh
 
 The Secretary shall, in making the determinations under paragraphs (1) and (9) of subsection (a) of this section, and for the purposes of promoting the effective, efficient, and economical delivery of health care services, and of promoting the quality of services of the type for which payment may be made under this subchapter, enter into contracts with utilization and quality control peer review organizations pursuant to part B of subchapter XI of this chapter.
 
-#### (h) Repealed. Pub. L. 104–224, §1, Oct. 2, 1996, 110 Stat. 3031
+#### (h) Waiver of electronic form requirement
+
+(1) The Secretary—
+
+&emsp;(A) shall waive the application of subsection (a)(22) of this section in cases in which—
+
+&emsp;&emsp;(i) there is no method available for the submission of claims in an electronic form; or
+
+&emsp;&emsp;(ii) the entity submitting the claim is a small provider of services or supplier; and
+
+&emsp;(B) may waive the application of such subsection in such unusual cases as the Secretary finds appropriate.
+
+(2) For purposes of this subsection, the term “small provider of services or supplier” means—
+
+&emsp;(A) a provider of services with fewer than 25 full-time equivalent employees; or
+
+&emsp;(B) a physician, practitioner, facility, or supplier (other than provider of services) with fewer than 10 full-time equivalent employees.
 
 #### (i) Awards and contracts for original research and experimentation of new and existing medical procedures; conditions
 
@@ -320,7 +338,7 @@ In order to supplement the activities of the Medicare Payment Advisory Commissio
 
 &emsp;(3) such procedure has the potential to be more cost-effective in the treatment of a condition than procedures currently in use with respect to such condition.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1862, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 325; amended Pub. L. 90–248, title I, §§127(b), 128, Jan. 2, 1968, 81 Stat. 846, 847; Pub. L. 92–603, title II, §§210, 211(c)(1), 229(a), 256(c), Oct. 30, 1972, 86 Stat. 1382, 1384, 1408, 1447; Pub. L. 93–233, §18(k)(3), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–480, §4(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–182, title I, §103, Dec. 31, 1975, 89 Stat. 1051; Pub. L. 95–142, §§7(a), 13(a), (b)(1), (2), Oct. 25, 1977, 91 Stat. 1192, 1197, 1198; Pub. L. 95–210, §1(f), Dec. 13, 1977, 91 Stat. 1487; Pub. L. 96–272, title III, §308(a), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §§913(b), 936(c), 939(a), 953, Dec. 5, 1980, 94 Stat. 2620, 2640, 2647; Pub. L. 96–611, §1(a)(3), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2103(a)(1), 2146(a), 2152(a), Aug. 13, 1981, 95 Stat. 787, 800, 802; Pub. L. 97–248, title I, §§116(b), 122(f), (g)(1), 128(a)(2)–(4), 142, 148(a), Sept. 3, 1982, 96 Stat. 353, 362, 366, 381, 394; Pub. L. 97–448, title III, §309(b)(10), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §§601(f), 602(e), Apr. 20, 1983, 97 Stat. 162, 163; Pub. L. 98–369, div. B, title III, §§2301(a), 2304(c), 2313(c), 2344(a)–(c), 2354(b)(30), (31), July 18, 1984, 98 Stat. 1063, 1068, 1078, 1095, 1101, 1102; Pub. L. 99–272, title IX, §§9201(a), 9307(a), 9401(c)(1), Apr. 7, 1986, 100 Stat. 170, 193, 199; Pub. L. 99–509, title IX, §§9316(b), 9319(a), (b), 9320(h)(1), 9343(c)(1), Oct. 21, 1986, 100 Stat. 2007, 2010, 2011, 2016, 2040; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–93, §§8(c)(1), (3), 10, Aug. 18, 1987, 101 Stat. 692, 693, 696; Pub. L. 100–203, title IV, §§4009(j)(6)(C), 4034(a), 4036(a)(1), 4039(c)(1), 4072(c), 4085(i)(15), (16), Dec. 22, 1987, 101 Stat. 1330–59, 1330–77, 1330–79, 1330–82, 1330–117, 1330–133; Pub. L. 100–360, title II, §§202(d), 204(d)(2), 205(e)(1), title IV, §411(f)(4)(D)(i), (i)(4)(D), July 1, 1988, 102 Stat. 715, 729, 731, 778, 790; Pub. L. 100–485, title VI, §608(d)(7), (24)(C), Oct. 13, 1988, 102 Stat. 2415, 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xi), 6103(b)(3)(B), 6115(b), 6202(a)(2)(A), (b)(1), (e)(1), 6411(d)(2), Dec. 19, 1989, 103 Stat. 2154, 2199, 2219, 2228, 2229, 2234, 2271; Pub. L. 101–508, title IV, §§4107(b), 4153(b)(2)(B), 4157(c)(1), 4161(a)(3)(C), 4163(d)(2), 4203(a)(1), (b), (c)(1), 4204(g)(1), Nov. 5, 1990, 104 Stat. 1388–62, 1388–84, 1388–89, 1388–94, 1388–100, 1388–107, 1388–112; Pub. L. 103–66, title XIII, §§13561(a)(1), (b)–(d)(1), (e)(1), 13581(b)(1), Aug. 10, 1993, 107 Stat. 593, 594, 611; Pub. L. 103–432, title I, §§145(c)(1), 147(e)(6), 151(a)(1)(A), (C), (2)(A), (b)(3)(A), (B), (c)(1), (4)–(6), (9)(B), 156(a)(2)(D), 157(b)(7), Oct. 31, 1994, 108 Stat. 4427, 4430, 4432–4436, 4441, 4442; Pub. L. 104–224, §1, Oct. 2, 1996, 110 Stat. 3031; Pub. L. 104–226, §1(b)(1), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 105–12, §9(a)(1), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4022(b)(1)(B), 4102(c), 4103(c), 4104(c)(3), 4201(c)(1), 4319(b), 4432(b)(1), 4507(a)(2)(B), 4511(a)(2)(C), 4541(b), 4603(c)(2)(C), 4614(a), 4631(a)(1), (b), (c)(1), 4632(a), 4633(a), (b), Aug. 5, 1997, 111 Stat. 354, 361, 362, 365, 373, 394, 420, 441, 442, 456, 471, 474, 486, 487; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§305(b), 321(k)(10)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–362, 1501A–367; Pub. L. 106–554, §1(a)(6) \[title I, §102(c), title III, §313(a), title IV, §432(b)(1), title V, §522(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–499, 2763A–526, 2763A–546.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1862, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 325; amended Pub. L. 90–248, title I, §§127(b), 128, Jan. 2, 1968, 81 Stat. 846, 847; Pub. L. 92–603, title II, §§210, 211(c)(1), 229(a), 256(c), Oct. 30, 1972, 86 Stat. 1382, 1384, 1408, 1447; Pub. L. 93–233, §18(k)(3), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–480, §4(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–182, title I, §103, Dec. 31, 1975, 89 Stat. 1051; Pub. L. 95–142, §§7(a), 13(a), (b)(1), (2), Oct. 25, 1977, 91 Stat. 1192, 1197, 1198; Pub. L. 95–210, §1(f), Dec. 13, 1977, 91 Stat. 1487; Pub. L. 96–272, title III, §308(a), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §§913(b), 936(c), 939(a), 953, Dec. 5, 1980, 94 Stat. 2620, 2640, 2647; Pub. L. 96–611, §1(a)(3), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §§2103(a)(1), 2146(a), 2152(a), Aug. 13, 1981, 95 Stat. 787, 800, 802; Pub. L. 97–248, title I, §§116(b), 122(f), (g)(1), 128(a)(2)–(4), 142, 148(a), Sept. 3, 1982, 96 Stat. 353, 362, 366, 381, 394; Pub. L. 97–448, title III, §309(b)(10), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §§601(f), 602(e), Apr. 20, 1983, 97 Stat. 162, 163; Pub. L. 98–369, div. B, title III, §§2301(a), 2304(c), 2313(c), 2344(a)–(c), 2354(b)(30), (31), July 18, 1984, 98 Stat. 1063, 1068, 1078, 1095, 1101, 1102; Pub. L. 99–272, title IX, §§9201(a), 9307(a), 9401(c)(1), Apr. 7, 1986, 100 Stat. 170, 193, 199; Pub. L. 99–509, title IX, §§9316(b), 9319(a), (b), 9320(h)(1), 9343(c)(1), Oct. 21, 1986, 100 Stat. 2007, 2010, 2011, 2016, 2040; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–93, §§8(c)(1), (3), 10, Aug. 18, 1987, 101 Stat. 692, 693, 696; Pub. L. 100–203, title IV, §§4009(j)(6)(C), 4034(a), 4036(a)(1), 4039(c)(1), 4072(c), 4085(i)(15), (16), Dec. 22, 1987, 101 Stat. 1330–59, 1330–77, 1330–79, 1330–82, 1330–117, 1330–133; Pub. L. 100–360, title II, §§202(d), 204(d)(2), 205(e)(1), title IV, §411(f)(4)(D)(i), (i)(4)(D), July 1, 1988, 102 Stat. 715, 729, 731, 778, 790; Pub. L. 100–485, title VI, §608(d)(7), (24)(C), Oct. 13, 1988, 102 Stat. 2415, 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xi), 6103(b)(3)(B), 6115(b), 6202(a)(2)(A), (b)(1), (e)(1), 6411(d)(2), Dec. 19, 1989, 103 Stat. 2154, 2199, 2219, 2228, 2229, 2234, 2271; Pub. L. 101–508, title IV, §§4107(b), 4153(b)(2)(B), 4157(c)(1), 4161(a)(3)(C), 4163(d)(2), 4203(a)(1), (b), (c)(1), 4204(g)(1), Nov. 5, 1990, 104 Stat. 1388–62, 1388–84, 1388–89, 1388–94, 1388–100, 1388–107, 1388–112; Pub. L. 103–66, title XIII, §§13561(a)(1), (b)–(d)(1), (e)(1), 13581(b)(1), Aug. 10, 1993, 107 Stat. 593, 594, 611; Pub. L. 103–432, title I, §§145(c)(1), 147(e)(6), 151(a)(1)(A), (C), (2)(A), (b)(3)(A), (B), (c)(1), (4)–(6), (9)(B), 156(a)(2)(D), 157(b)(7), Oct. 31, 1994, 108 Stat. 4427, 4430, 4432–4436, 4441, 4442; Pub. L. 104–224, §1, Oct. 2, 1996, 110 Stat. 3031; Pub. L. 104–226, §1(b)(1), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 105–12, §9(a)(1), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4022(b)(1)(B), 4102(c), 4103(c), 4104(c)(3), 4201(c)(1), 4319(b), 4432(b)(1), 4507(a)(2)(B), 4511(a)(2)(C), 4541(b), 4603(c)(2)(C), 4614(a), 4631(a)(1), (b), (c)(1), 4632(a), 4633(a), (b), Aug. 5, 1997, 111 Stat. 354, 361, 362, 365, 373, 394, 420, 441, 442, 456, 471, 474, 486, 487; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §§305(b), 321(k)(10)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–362, 1501A–367; Pub. L. 106–554, §1(a)(6) \[title I, §102(c), title III, §313(a), title IV, §432(b)(1), title V, §522(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–468, 2763A–499, 2763A–526, 2763A–546; Pub. L. 107–105, §3(a), Dec. 27, 2001, 115 Stat. 1006.)
 
 #### References in Text
 
@@ -337,6 +355,10 @@ The Internal Revenue Code of 1986, referred to in subsec. (b), is classified gen
 Section 107(c)(3) of the Drug Amendments of 1962, referred to in subsec. (c)(1)(A), is section 107(c)(3) of Pub. L. 87–781, title I, Oct. 10, 1962, 76 Stat. 788, which is set out as an Effective Date of 1962 Amendment note under section 321 of Title 21, Food and Drugs.
 
 #### Amendments
+
+2001—Subsec. (a)(22). Pub. L. 107–105, §3(a)(1), added par. (22).
+
+Subsec. (h). Pub. L. 107–105, §3(a)(2), added subsec. (h).
 
 2000—Subsec. (a). Pub. L. 106–554, §1(a)(6) \[title V, §522(b)\], inserted at end “In making a national coverage determination (as defined in paragraph (1)(B) of section 1395ff(f) of this title) the Secretary shall ensure that the public is afforded notice and opportunity to comment prior to implementation by the Secretary of the determination; meetings of advisory committees established under section 1314(f) of this title with respect to the determination are made on the record; in making the determination, the Secretary has considered applicable information (including clinical experience and medical, technical, and scientific evidence) with respect to the subject matter of the determination; and in the determination, provide a clear statement of the basis for the determination (including responses to comments received from the public), the assumptions underlying that basis, and make available to the public the data (other than proprietary data) considered in making the determination.”
 
@@ -428,7 +450,7 @@ Subsec. (b)(1)(C). Pub. L. 103–432, §151(c)(5), substituted “paying benefit
 
 Pub. L. 103–432, §151(c)(4), substituted “this subparagraph” for “clauses (i) and (ii)” after “February 1, 1990),” in last sentence.
 
-Subsec. (b)(2)(B)(i). Pub. L. 103–432, §151(b)(3)(A), (B), substituted “Repayment required” for “Primary plans” in heading and inserted at end “If reimbursement is not made to the appropriate Trust Fund before the expiration of the 60-day period that begins on the date such notice or other information is received, the Secretary may charge interest (beginning with the date on which the notice or other information is received) on the amount of the reimbursement until reimbursement is made (at a rate determined by the Secretary in accordance with regulations of the Secretary of the Treasury applicable to charges for late payments).”
+Subsec. (b)(2)(B)(i). Pub. L. 103–432, §151(b)(3)(A), (B), substituted “Repayment required” for “Primary plans” in heading and inserted at end “If reimbursement is not made to the appropriate Trust Fund before the expiration of the 60-day period that begins on the date such notice or other information is received, the Secretary may charge interest (beginning with the date on which the notice or other information is received) on theamount of the reimbursement until reimbursement is made (at a rate determined by the Secretary in accordance with regulations of the Secretary of the Treasury applicable to charges for late payments).”
 
 Subsec. (b)(2)(C). Pub. L. 103–432, §151(a)(1)(C), added subpar. (C).
 
@@ -442,7 +464,7 @@ Subsec. (b)(6). Pub. L. 103–432, §151(a)(2)(A), added par. (6).
 
 1993—Subsec. (b)(1)(A)(i). Pub. L. 103–66, §13561(e)(1)(A), amended subcls. (I) and (II) generally. Prior to amendment, subcls. (I) and (II) read as follows:
 
-“(I) may not take into account, for any item or service furnished to an individual 65 years of age or older at the time the individual is covered under the plan by reason of the current employment of the individual (orthe individual's spouse), that the individual is entitled to benefits under this subchapter under section 426(a) of this title, and
+“(I) may not take into account, for any item or service furnished to an individual 65 years of age or older at the time the individual is covered under the plan by reason of the current employment of the individual (or the individual's spouse), that the individual is entitled to benefits under this subchapter under section 426(a) of this title, and
 
 “(II) shall provide that any employee age 65 or older, and any employee's spouse age 65 or older, shall be entitled to the same benefits under the plan under the same conditions as any employee, and the spouse of such employee, under age 65.”
 
@@ -522,7 +544,7 @@ Subsec. (a)(1)(G), (6), (7). Pub. L. 101–234 repealed Pub. L. 100–360, §§2
 
 Subsec. (a)(14). Pub. L. 101–239, §6003(g)(3)(D)(xi), substituted “hospital or rural primary care hospital” for “hospital” in three places.
 
-Subsec. (b). Pub. L. 101–239, §6202(b)(1)(B), amended heading and text generally, substituting pars. (1) to (4) relating to medicare as secondary payer for former pars. (1) to (5) relating to items or services paid underworkmen's compensation laws and end stage renal disease program.
+Subsec. (b). Pub. L. 101–239, §6202(b)(1)(B), amended heading and text generally, substituting pars. (1) to (4) relating to medicare as secondary payer for former pars. (1) to (5) relating to items or services paid under workmen's compensation laws and end stage renal disease program.
 
 Subsec. (b)(1)(D). Pub. L. 101–239, §6202(e)(1), added subpar. (D).
 
@@ -590,7 +612,7 @@ Subsec. (a)(16). Pub. L. 99–272, §9401(c)(1), added par. (16).
 
 Subsec. (b)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (b)(3)(A)(i). Pub. L. 99–272, §9201(a)(1), substituted “(or to the spouse of such individual)” for “who is under 70 years of age during any part of such month (or to the spouse of such individual, if the spouse is under 70 years of age during any part of such month)”.
+Subsec. (b)(3)(A)(i). Pub. L. 99–272, §9201(a)(1), substituted “(or to the spouse of such individual)” for“who is under 70 years of age during any part of such month (or to the spouse of such individual, if the spouse is under 70 years of age during any part of such month)”.
 
 Subsec. (b)(3)(A)(iii). Pub. L. 99–272, §9201(a)(2), struck out “and ending with the month before the month in which such individual attains the age of 70” after “section 426(a) of this title”.
 
@@ -693,6 +715,10 @@ Subsec. (d). Pub. L. 92–603, §229(a), added subsec. (d).
 1968—Subsec. (a)(7). Pub. L. 90–248, §128, prohibited payment for procedures performed (during the course of any eye examination) to determine the refractive state of the eyes.
 
 Subsec. (a)(13). Pub. L. 90–248, §127(b), added par. (13).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–105, §3(b), Dec. 27, 2001, 115 Stat. 1007, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to claims submitted on or after October 16, 2003.”
 
 #### Effective Date of 2000 Amendment
 
@@ -812,7 +838,7 @@ Section 411(f)(4)(D)(ii) of Pub. L. 100–360 provided that: “The amendment ma
 
 Section 4009(j)(6) of Pub. L. 100–203, provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 99–509.
 
-Section 4034(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of section 9319(a) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Section 4034(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactmentof section 9319(a) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
 Section 4036(a)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to items and services furnished on or after 30 days after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
@@ -906,7 +932,7 @@ Section 4614(b) of Pub. L. 105–33 provided that: “The Secretary of Health an
 
 #### Distribution of Questionnaire by Contractor
 
-Section 151(a)(1)(B) of Pub. L. 103–432 provided that: “The Secretary of Health and Human Services shallenter into an agreement with an entity not later than 60 days after the date of the enactment of the Social Security Act Amendments of 1994 \[Oct. 31, 1994\], to distribute the questionnaire described in section 1862(b)(5)(D) of the Social Security Act \[subsec. (b)(5)(D) of this section\] (as added by subparagraph (A)).”
+Section 151(a)(1)(B) of Pub. L. 103–432 provided that: “The Secretary of Health and Human Services shall enter into an agreement with an entity not later than 60 days after the date of the enactment of the Social Security Act Amendments of 1994 \[Oct. 31, 1994\], to distribute the questionnaire described in section 1862(b)(5)(D) of the Social Security Act \[subsec. (b)(5)(D) of this section\] (as added by subparagraph (A)).”
 
 #### Retroactive Exemption for Certain Situations Involving Religious Orders
 
@@ -956,7 +982,7 @@ Effective date.—Paragraph (1) shall apply to hospice care furnished on or afte
 
 #### Study of Impact on Disabled Beneficiaries and Family of Amendments Relating to Large Group Health Plans and Medicare as Secondary Payer
 
-Section 9319(e) of Pub. L. 99–509 directed Comptroller General to study and report to Congress, not later than Mar. 1, 1990, the impact of the amendments made by this section (enacting section 5000 of Title 26, Internal Revenue Code, and amending this section and sections 1395p and 1395r of this title) on access of disabled individuals and members of their family to employment and health insurance, such report to include information relating to number of disabled medicare beneficiaries for whom medicare has become secondary, either through their employment or the employment of a family member, amount of savings to the medicare program achieved annually through this provision, and effect on employment, and employment-based health coverage, of disabled individuals and family members.
+Section 9319(e) of Pub. L. 99–509 directed Comptroller General to study and report to Congress, not later than Mar. 1, 1990, the impact of the amendments made by this section (enacting section 5000 of Title 26, Internal Revenue Code, and amending this section and sections 1395p and 1395r of this title) on access of disabled individuals and members of their family to employment and health insurance, such report to include information relating to number of disabled medicare beneficiaries for whom medicare has become secondary, either through their employment or the employment of a family member, amount of savings to the medicareprogram achieved annually through this provision, and effect on employment, and employment-based health coverage, of disabled individuals and family members.
 
 #### Reinstatement of Waiver of Liability Presumption
 
@@ -1006,7 +1032,7 @@ Section 115(b) of Pub. L. 97–248 provided that: “No provision of law limitin
 
 #### Establishment and Implementation of Guidelines
 
-Section 2152(b) of Pub. L. 97–35 directed the Secretary of Health and Human Services to establish, and provide for the implementation of, the guidelines described in subsec. (f) of this section not later than Oct. 1, 1981.
+Section 2152(b) of Pub. L. 97–35 directed the Secretary of Health and Human Services to establish, and providefor the implementation of, the guidelines described in subsec. (f) of this section not later than Oct. 1, 1981.
 
 #### Report to Congressional Committees on Implementation of Certification Requirements Relating to Modification of Health Benefits Plan or Program; Failure To Submit Report
 

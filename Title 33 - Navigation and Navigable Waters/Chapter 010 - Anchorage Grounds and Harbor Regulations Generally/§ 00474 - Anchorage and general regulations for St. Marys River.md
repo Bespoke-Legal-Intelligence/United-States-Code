@@ -10,7 +10,7 @@ In the event of the violation of any such regulations or rules of the Commandant
 
 #### References in Text
 
-Chapter 4 of this title, referred to in last par., was in the original “the Act entitled ‘An Act to regulate navigation on the Great Lakes, and their connecting and tributary waters as far east as Montreal,’ approved February eighth, eighteen hundred and ninety-five”, which was classified generally to chapter 4 (§241 et seq.) of this title and was repealed by Pub. L. 96–591, §8(b), Dec. 24, 1980, 94 Stat. 3435, eff. Mar. 1, 1983, pursuant to47 F.R. 15135, Apr. 8, 1982. See section 7 of Pub. L. 96–591, set out as an Effective Date note under section 2001 of this title.
+Chapter 4 of this title, referred to in last par., was in the original “the Act entitled ‘An Act to regulate navigation on the Great Lakes, and their connecting and tributary waters as far east as Montreal,’ approved February eighth, eighteen hundred and ninety-five”, which was classified generally to chapter 4 (§241 et seq.) of this title and was repealed by Pub. L. 96–591, §8(b), Dec. 24, 1980, 94 Stat. 3435, eff. Mar. 1, 1983, pursuant to 47 F.R. 15135, Apr. 8, 1982. See section 7 of Pub. L. 96–591, set out as an Effective Date note under section 2001 of this title.
 
 #### Transfer of Functions
 

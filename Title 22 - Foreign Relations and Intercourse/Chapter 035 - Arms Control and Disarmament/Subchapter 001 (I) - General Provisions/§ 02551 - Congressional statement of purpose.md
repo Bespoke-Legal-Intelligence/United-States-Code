@@ -1,6 +1,6 @@
 ### §2551. Congressional statement of purpose
 
-An ultimate goal of the United States is a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to therule of law; and in which international adjustments to a changing world are achieved peacefully. It is the purpose of this chapter to provide impetus toward this goal by addressing the problem of reduction and control of armaments looking toward ultimate world disarmament.
+An ultimate goal of the United States is a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. It is the purpose of this chapter to provide impetus toward this goal by addressing the problem of reduction and control of armaments looking toward ultimate world disarmament.
 
 The Secretary of State must have the capacity to provide the essential scientific, economic, political, military, psychological, and technological information upon which realistic arms control, nonproliferation, and disarmament policy must be based. The Secretary shall have the authority, under the direction of the President, to carry out the following primary functions:
 
@@ -12,7 +12,7 @@ The Secretary of State must have the capacity to provide the essential scientifi
 
 &emsp;(4) The dissemination and coordination of public information concerning arms control, nonproliferation, and disarmament.
 
-(Pub. L. 87–297, title I, §102, formerly §2, Sept. 26, 1961, 75 Stat. 631; Pub. L. 94–141, title I, §144, Nov. 29, 1975, 89 Stat. 758; Pub. L. 103–236, title VII, §§703, 719(a), Apr. 30, 1994, 108 Stat. 491, 501; renumbered §102 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(1), (21), Oct. 21, 1998, 112 Stat. 2681–768, 2681–772.)
+(Pub. L. 87–297, title I, §102, formerly §2, Sept. 26, 1961, 75 Stat. 631; Pub. L. 94–141, title I, §144,Nov. 29, 1975, 89 Stat. 758; Pub. L. 103–236, title VII, §§703, 719(a), Apr. 30, 1994, 108 Stat. 491, 501; renumbered §102 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(1), (21), Oct. 21, 1998, 112 Stat. 2681–768, 2681–772.)
 
 #### Amendments
 

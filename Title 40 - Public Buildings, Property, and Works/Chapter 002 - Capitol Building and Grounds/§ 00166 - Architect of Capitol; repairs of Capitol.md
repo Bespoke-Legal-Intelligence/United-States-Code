@@ -78,7 +78,7 @@ Utility incentive programs.—In carrying out this section, the Architect is aut
 
 &emsp;&emsp;&emsp;“(iii) provides for the adoption of energy efficiency technologies or practices that the Architect determines are cost-effective for the buildings described in subsection (a); and
 
-&emsp;&emsp;“(B) enter into negotiations with electric and natural gas utilities to design a special demandmanagement and conservation incentive program to address the unique needs of the buildings described in subsection (a).
+&emsp;&emsp;“(B) enter into negotiations with electric and natural gas utilities to design a special demand management and conservation incentive program to address the unique needs of the buildings described in subsection (a).
 
 &emsp;“(5)
 
@@ -96,7 +96,7 @@ Pub. L. 101–520, title III, §306, Nov. 5, 1990, 104 Stat. 2277, provided that
 
 &emsp;“(1) have been acquired competitively; and
 
-&emsp;“(2) in the case of long distance service, have been determined by the Architect of the Capitol to be at least equal in quality to, and not greater in cost than, the systems and services available under the procurement conducted by the Administrator of General Services known as ‘FTS2000’.
+&emsp;“(2) in the case of long distance service, have been determined by the Architect of the Capitol to be at least equal in quality to, and not greater in cost than, the systems and services available under theprocurement conducted by the Administrator of General Services known as ‘FTS2000’.
 
 “(b) As used in this section, the term ‘agency of the legislative branch’ means the office of the Architect of the Capitol, the Botanic Garden, the General Accounting Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office.”
 
@@ -178,7 +178,7 @@ Act Aug. 5, 1955, ch. 568, §101, 69 Stat. 515, as amended by Pub. L. 91–77, S
 
 Pub. L. 91–510, title IV, §499, Oct. 26, 1970, 84 Stat. 1200, provided that:
 
-“(a) The Speaker of the House of Representatives shall appoint a special commission of the House, to be designated the ‘Special Commission on Modernization of House Gallery Facilities’, composed of five Members of the House, three from the majority party and two from the minority party. The Speaker shall designate as chairman of the commission one of the Members so appointed. A vacancy in the membership of the commission shall be filled in the same manner as the original appointment. The commission shall conduct a study of the structure and uses of the gallery facilities in the Chamber of the House of Representatives and shall formulate and develop a program for the modernization and improvement of the House gallery facilities in order to improve the physical conditions under which the proceedings on the floor of the House are conducted and to provide for spectators in the House galleries modernized and improved accommodations for their enlightenment, information, and understanding with respect to the proceedings on the floor of the House and the role of the House generally in the legislative branch of the Government. Any such programformulated and developed by the commission shall provide for—
+“(a) The Speaker of the House of Representatives shall appoint a special commission of the House, to be designated the ‘Special Commission on Modernization of House Gallery Facilities’, composed of five Members of the House, three from the majority party and two from the minority party. The Speaker shall designate as chairman of the commission one of the Members so appointed. A vacancy in the membership of the commission shall be filled in the same manner as the original appointment. The commission shall conduct a study of the structure and uses of the gallery facilities in the Chamber of the House of Representatives and shall formulate and develop a program for the modernization and improvement of the House gallery facilities in order to improve the physical conditions under which the proceedings on the floor of the House are conducted and to provide for spectators in the House galleries modernized and improved accommodations for their enlightenment, information, and understanding with respect to the proceedings on the floor of the House and the role of the House generally in the legislative branch of the Government. Any such program formulated and developed by the commission shall provide for—
 
 &emsp;“(1) the enclosure of the galleries with soundproof and transparent coverage in such manner as to preserve the visibility from the galleries of proceedings on the House floor and eliminate the audibility on the House floor of noise in the galleries;
 

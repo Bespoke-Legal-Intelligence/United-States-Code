@@ -36,7 +36,7 @@ For the purposes of making any such payments, an “award” shall be deemed to 
 
 #### (d) Consolidated award
 
-With respect to any claim which, at the time of the award, is vested in persons other than the person to whom the claim originally accrued, the Commission may issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimants therein; and all suchclaimants shall participate, in proportion to their indicated interests, in the payments provided by this section in all respects as if the award had been in favor of a single person.
+With respect to any claim which, at the time of the award, is vested in persons other than the person to whom the claim originally accrued, the Commission may issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimants therein; and all such claimants shall participate, in proportion to their indicated interests, in the payments provided by this section in all respects as if the award had been in favor of a single person.
 
 (Mar. 10, 1950, ch. 54, title III, §310, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 573; amended Pub. L. 90–421, §1(13), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, §1(5), Oct. 20, 1974, 88 Stat. 1386.)
 

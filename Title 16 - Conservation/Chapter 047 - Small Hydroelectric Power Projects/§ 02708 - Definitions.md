@@ -12,7 +12,7 @@
 
 &emsp;(5) “nonprofit organization” means any organization described in section 501(c)(3) or 501(c)(4) of title 26 and exempt from tax under section 501(a) of title 26 (but only with respect to a trade or business carried on by such organization which is not an unrelated trade or business, determined by applying section 513(a) of title 26 to such organization);
 
-&emsp;(6) “existing dam” means any dam, the construction of which was completed or on before April 20, 1977, and which does not require any construction or enlargement of impoundment structures (other than repairs or reconstruction) in connection with the installation of any small hydroelectric power project;
+&emsp;(6) “existing dam” means any dam, the construction of which was completed or on <sup>2</sup> before April 20, 1977, and which does not require any construction or enlargement of impoundment structures (other than repairs or reconstruction) in connection with the installation of any small hydroelectric power project;
 
 &emsp;(7) “municipality” has the meaning provided in section 796 of this title; and
 

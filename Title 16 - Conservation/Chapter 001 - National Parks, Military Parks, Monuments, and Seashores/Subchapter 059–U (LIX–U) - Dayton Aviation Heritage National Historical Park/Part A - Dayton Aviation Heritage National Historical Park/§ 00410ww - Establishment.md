@@ -24,7 +24,7 @@ The park shall consist of the following sites, as generally depicted on a map en
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–356 amended heading and text of subsec. (b) generally. Prior to amendment,text read as follows: “The park shall consist of the following sites, as generally depicted on a map entitled ‘Proposed Dayton Aviation Heritage National Historical Park’, numbered NHP–DAH 80,000, and dated February 1992:
+2000—Subsec. (b). Pub. L. 106–356 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The park shall consist of the following sites, as generally depicted on a map entitled ‘Proposed Dayton Aviation Heritage National Historical Park’, numbered NHP–DAH 80,000, and dated February 1992:
 
 &emsp;“(1) A core parcel in Dayton, Ohio, which shall consist of the Wright Cycle Company Building, Hoover Block, and lands between.
 

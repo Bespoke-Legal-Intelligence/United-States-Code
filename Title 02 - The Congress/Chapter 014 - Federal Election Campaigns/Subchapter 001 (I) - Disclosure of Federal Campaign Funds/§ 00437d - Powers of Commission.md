@@ -24,7 +24,7 @@ The Commission has the power—
 
 #### (b) Judicial orders for compliance with subpenas and orders of Commission; contempt of court
 
-Upon petition by the Commission, any United States district court within the jurisdiction of which any inquiry is being carried on may, in case of refusal to obey a subpena or order of the Commission issued under subsection (a) of thissection, issue an order requiring compliance. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
+Upon petition by the Commission, any United States district court within the jurisdiction of which any inquiry is being carried on may, in case of refusal to obey a subpena or order of the Commission issued under subsection (a) of this section, issue an order requiring compliance. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 #### (c) Civil liability for disclosure of information
 

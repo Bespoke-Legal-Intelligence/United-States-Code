@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Director of NIH shall establish a program for the conduct and support of research and training, the dissemination of health information, and other programs with respect to the diagnosis and treatment of conditions associated with exposure to the drug diethylstilbestrol (in this section referred to as “DES”).
+The Director of NIH shall establish a program for the conduct and support of research andtraining, the dissemination of health information, and other programs with respect to the diagnosis and treatment of conditions associated with exposure to the drug diethylstilbestrol (in this section referred to as “DES”).
 
 #### (b) Education programs
 
-In carrying out subsection (a) of this section, the Director of NIH, after consultation withnonprofit private entities representing individuals who have been exposed to DES, shall conduct or support programs to educate health professionals and the public on the drug, including the importance of identifying and treating individuals who have been exposed to the drug.
+In carrying out subsection (a) of this section, the Director of NIH, after consultation with nonprofit private entities representing individuals who have been exposed to DES, shall conduct or support programs to educate health professionals and the public on the drug, including the importance of identifying and treating individuals who have been exposed to the drug.
 
 #### (c) Longitudinal studies
 

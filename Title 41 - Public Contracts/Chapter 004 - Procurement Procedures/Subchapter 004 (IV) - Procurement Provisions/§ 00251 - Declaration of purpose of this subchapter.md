@@ -256,6 +256,50 @@ Sec. 7. <i>Judicial Review</i>. This Executive order does not create any right o
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13202. Preservation of Open Competition and Government Neutrality Towards Government Contractors’ Labor Relations on Federal and Federally Funded Construction Projects
+
+Ex. Ord. No. 13202, Feb. 17, 2001, 66 F.R. 11225, as amended by Ex. Ord. No. 13208, Apr. 6, 2001, 66 F.R. 18717, provided:
+
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 471 <i>et seq</i>., and in order to (1) promote and ensure open competition on Federal and federally funded or assisted construction projects; (2) maintain Government neutrality towards Government contractors’ labor relations on Federal and federally funded or assisted construction projects; (3) reduce construction costs to the Federal Government and to the taxpayers; (4) expand job opportunities, especially for small and disadvantaged businesses; and (5) prevent discrimination against Government contractors or their employees based upon labor affiliation or lack thereof; thereby promoting the economical, nondiscriminatory, and efficient administration and completion of Federal and federally funded or assisted construction projects, it is hereby ordered that:
+
+Section 1. To the extent permitted by law, any executive agency awarding any construction contract after the date of this order, or obligating funds pursuant to such a contract, shall ensure that neither the awarding Government authority nor any construction manager acting on behalf of the Government shall, in its bid specifications, project agreements, or other controlling documents:
+
+(a) Require or prohibit bidders, offerors, contractors, or subcontractors to enter into or adhere to agreements with one or more labor organizations, on the same or other related construction project(s); or
+
+(b) Otherwise discriminate against bidders, offerors, contractors, or subcontractors for becoming or refusing to become or remain signatories or otherwise to adhere to agreements with one or more labor organizations, on the same or other related construction project(s).
+
+(c) Nothing in this section shall prohibit contractors or subcontractors from voluntarily entering into agreements described in subsection (a).
+
+Sec. 2. Contracts awarded before the date of this order, and subcontracts awarded pursuant to such contracts, whenever awarded, shall not be governed by this order.
+
+Sec. 3. To the extent permitted by law, any executive agency issuing grants, providing financial assistance, or entering into cooperative agreements for construction projects, shall ensure that neither the bid specifications, project agreements, nor other controlling documents for construction contracts awarded after the date of this order by recipients of grants or financial assistance or by parties to cooperative agreements, nor those of any construction manager acting on their behalf, shall contain any of the requirements or prohibitions set forth in section 1(a) or (b) of this order.
+
+Sec. 4. In the event that an awarding authority, a recipient of grants or financial assistance, a party to a cooperative agreement, or a construction manager acting on behalf of the foregoing, performs in a manner contrary to the provisions of sections 1 or 3 of this order, the executive agency awarding the contract, grant, or assistance shall take such action, consistent with law and regulation, as the agency determines may be appropriate.
+
+Sec. 5. (a) The head of an executive agency may exempt a particular project, contract, subcontract, grant, or cooperative agreement from the requirements of any or all of the provisions of sections 1 and 3 of this order, if the agency head finds that special circumstances require an exemption in order to avert an imminent threat to public health or safety or to serve the national security.
+
+(b) A finding of “special circumstances” under section 5(a) may not be based on the possibility or presence of a labor dispute concerning the use of contractors or subcontractors who are nonsignatories to, or otherwise do not adhere to, agreements with one or more labor organizations, or concerning employees on the project who are not members of or affiliated with a labor organization.
+
+(c) The head of an executive agency, upon application of an awarding authority, a recipient of grants or financial assistance, a party to a cooperative agreement, or a construction manager acting on behalf of the foregoing, may exempt a particular project from the requirements of any or all of the provisions of sections 1 and 3 of this order, if the agency head finds: (i) that the awarding authority, recipient of grants or financial assistance, party to a cooperative agreement, or construction manager acting on behalf of the foregoing had issued or was a party to, as of the date of this order, bid specifications, project agreements, agreements with one or more labor organizations, or other controlling documents with respect to that particular project, which contained any of the requirements or prohibitions set forth in sections 1(a) or (b) of this order; and (ii) that one or more construction contracts subject to such requirements or prohibitions had been awarded as of the date of this order.
+
+Sec. 6. (a) The term “construction contract” as used in this order means any contract for the construction, rehabilitation, alteration, conversion, extension, or repair of buildings, highways, or other improvements to real property.
+
+(b) The term “executive agency” as used in this order shall have the same meaning it has in 5 U.S.C. 105, excluding the General Accounting Office.
+
+(c) The term “labor organization” as used in this order shall have the same meaning it has in 42 U.S.C. 2000e(d).
+
+Sec. 7. With respect to Federal contracts, within 60 days of the issuance of this order, the Federal Acquisition Regulatory Council shall take whatever action is required to amend the Federal Acquisition Regulation in order to implement the provisions of this order.
+
+Sec. 8. As it relates to project agreements, Executive Order 12836 of February 1, 1993, which, among other things, revoked Executive Order 12818 of October 23, 1992, is revoked.
+
+Sec. 9. The Presidential Memorandum of June 5, 1997, entitled “Use of Project Labor Agreements for Federal Construction Projects” (the “Memorandum”), is also revoked.
+
+Sec. 10. The heads of executive departments and agencies shall revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing the Memorandum or Executive Order 12836 of February 1, 1993, as it relates to project agreements, to the extent consistent with law.
+
+Sec. 11. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Definitions
 
 The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.

@@ -16,7 +16,7 @@
 
 #### (b) Unused sick leave credit
 
-In computing any annuity under this part, the total service of a participant who retires on an immediate annuity or who dies leaving a survivor or survivors entitled to annuity includes\(without regard to the 35-year limitation imposed by section 4046(a) of this title) the days of unused sick leave to the credit of the participant, except that these days shall not be counted in determining average basic salary or annuity eligibility under this part. A contribution to the Fund shall not be required from a participant for this service credit.
+In computing any annuity under this part, the total service of a participant who retires on an immediate annuity or who dies leaving a survivor or survivors entitled to annuity includes (without regard to the 35-year limitation imposed by section 4046(a) of this title) the days of unused sick leave to the credit of the participant, except that these days shall not be counted in determining average basic salary or annuity eligibility under this part. A contribution to the Fund shall not be required from a participant for this service credit.
 
 #### (c) Service with other Government agency when on approved leave without pay; arrangement for payment of retirement deductions and agency contributions; special contribution
 
@@ -84,7 +84,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 “(a) Section 816(a) of the Act (22 U.S.C. 4056(a)) is deemed to be further amended so that the provisions of section 8332(j) of Title 5 of the United States Code, relating to credit for military service, shall not apply with respect to any individual who is entitled to an annuity under such Act \[this chapter\] on or before the date of approval of this Order \[Oct. 17, 1983\], or who is entitled to an annuity based on a separation from service occurring on or before such date.
 
-“(b) Subject to subsection (c), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under chapter 8 of the Act \[this subchapter\] (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors insurance benefit for the determination month by a fraction—
+“(b) Subject to subsection (c), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled underchapter 8 of the Act \[this subchapter\] (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors insurance benefit for the determination month by a fraction—
 
 &emsp;“(1) the numerator of which is the total of the wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) for service referred to in section 210(1) of such Act \[42 U.S.C. 410\] (relating to service in the uniformed services) and deemed additional wages (within the meaning of section 229 of such Act \[42 U.S.C. 429\]) of such individual credited for years after 1956 and before the calendar year in which the determination month occurs, up to the contribution and benefit base determined under section 230 of the Social Security Act \[42 U.S.C. 430\] (or other applicable maximum annual amount referred to in section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\]) for each such year, and
 
@@ -98,7 +98,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 &emsp;“(2) the first day of the month following the month in which this Order is issued \[Oct. 1983\] in the case of any individual so entitled to such benefits for such month.
 
-“(e) The preceding provisions of this section shall take effect with respect to any annuity payment payable under chapter 8 of the Act \[this subchapter\]for calendar months beginning after the date of this Order \[Oct. 17, 1983\].
+“(e) The preceding provisions of this section shall take effect with respect to any annuity payment payable under chapter 8 of the Act \[this subchapter\] for calendar months beginning after the date of this Order \[Oct. 17, 1983\].
 
 “(f) The Secretary of Health and Human Services shall furnish such information to the Secretary of State as may be necessary to carry out the preceding provisions of this section.”
 

@@ -28,7 +28,7 @@ Under regulations prescribed by the Secretary—
 
 #### (A) In general
 
-&emsp;&emsp;If during any taxable year any building to which section 47(d) applied ceases (by reason of sale or other disposition, cancellation or abandonment of contract, or otherwise) to be, with respect to the taxpayer, property which, when placed in service, will be a qualified rehabilitated building, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero the credit determined under this subpart with respect to such building.
+&emsp;&emsp;If during any taxable year any building to which section 47(d) applied ceases (by reason of sale or other disposition, cancellation or abandonment of contract, or otherwise) to be, with respect to the taxpayer, property which, when placed in service, will be a qualified rehabilitated building, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in the credits allowed under section 38 for all prior taxable yearswhich would have resulted solely from reducing to zero the credit determined under this subpart with respect to such building.
 
 #### (B) Certain excess credit recaptured
 
@@ -106,7 +106,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (3) Property used by certain tax-exempt organization
 
-&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.
+&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into accountfor purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.
 
 #### (4) Property used by governmental units or foreign persons or entities
 
@@ -196,7 +196,7 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 #### References in Text
 
-The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (d), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (d), is the dateof enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Prior Provisions
 

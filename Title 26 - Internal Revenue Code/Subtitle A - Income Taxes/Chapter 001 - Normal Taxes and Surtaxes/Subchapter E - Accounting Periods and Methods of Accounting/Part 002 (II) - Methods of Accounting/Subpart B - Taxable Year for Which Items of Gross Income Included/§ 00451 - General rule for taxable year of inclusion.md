@@ -10,7 +10,7 @@ In the case of the death of a taxpayer whose taxable income is computed under an
 
 #### (c) Special rule for employee tips
 
-For purposes of subsection (a), tips included in a written statement furnished an employer by an employee pursuant to section 6053(a) shall bedeemed to be received at the time the written statement including such tips is furnished to the employer.
+For purposes of subsection (a), tips included in a written statement furnished an employer by an employee pursuant to section 6053(a) shall be deemed to be received at the time the written statement including such tips is furnished to the employer.
 
 #### (d) Special rule for crop insurance proceeds or disaster payments
 
@@ -278,7 +278,7 @@ In general.—The term ‘extended period long-term contract’ does not include
 
 Determination of taxpayer's gross receipts.—For purposes of subparagraph (A), the gross receipts of—
 
-&emsp;&emsp;&emsp;“(i) all trades or businesses (whether or not incorporated) which are under common control with the taxpayer (within the meaning of section 52(b)), and
+&emsp;&emsp;&emsp;“(i) all trades or businesses (whether or not incorporated) which are under common controlwith the taxpayer (within the meaning of section 52(b)), and
 
 &emsp;&emsp;&emsp;“(ii) all members of any controlled group of corporations of which the taxpayer is a member,
 
@@ -298,7 +298,7 @@ Construction contract.—The term ‘construction contract’ means any contract
 
 &emsp;“(4)
 
-Contract commencement date.—The term ‘contract commencement date’ means, with respect to any contract, the first date on which any costs\(other than costs such as bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
+Contract commencement date.—The term ‘contract commencement date’ means, with respect to any contract, the first date on which any costs (other than costs such as bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
 
 “(c)
 

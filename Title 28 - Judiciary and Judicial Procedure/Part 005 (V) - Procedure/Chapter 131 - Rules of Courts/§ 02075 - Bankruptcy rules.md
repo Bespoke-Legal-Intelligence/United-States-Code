@@ -10,7 +10,7 @@ The Supreme Court shall transmit to Congress not later than May 1 of the year in
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–394 amended third par. generally. Prior to amendment, third par. read as follows: “Such rules shall not take effect until they have been reported to Congress by the Chief Justice at or after thebeginning of a regular session thereof but not later than the first day of May and until the expiration of ninety days after they have been thus reported.”
+<b>1994</b>—Pub. L. 103–394 amended third par. generally. Prior to amendment, third par. read as follows: “Such rules shall not take effect until they have been reported to Congress by the Chief Justice at or after the beginning of a regular session thereof but not later than the first day of May and until the expiration of ninety days after they have been thus reported.”
 
 <b>1978</b>—Pub. L. 95–598 substituted “in cases under title 11” for “under the Bankruptcy Act” and struck out provisions directing that all laws in conflict with bankruptcy rules be of no further force or effect after such rules have taken effect.
 

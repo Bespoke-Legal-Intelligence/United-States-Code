@@ -30,7 +30,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 702(h)(2) of Pub. L. 95–600 applicable to estates of decedents dying after Dec. 31, 1976, except that such amendment shall not apply to transfers made before Jan. 1, 1977, see section 702(h)(3) of Pub. L. 95–600, set out as a note under section 2001 of this title.
+Amendment by section 702(h)(2) of Pub. L. 95–600 applicable to estates of decedents dying after Dec. 31,1976, except that such amendment shall not apply to transfers made before Jan. 1, 1977, see section 702(h)(3) of Pub. L. 95–600, set out as a note under section 2001 of this title.
 
 Amendment by section 702(n)(4) of Pub. L. 95–600 effective as if included in this chapter as added by section 2006 of Pub. L. 94–455, see section 702(n)(5) of Pub. L. 95–600, set out as a note under section 2613 of this title.
 

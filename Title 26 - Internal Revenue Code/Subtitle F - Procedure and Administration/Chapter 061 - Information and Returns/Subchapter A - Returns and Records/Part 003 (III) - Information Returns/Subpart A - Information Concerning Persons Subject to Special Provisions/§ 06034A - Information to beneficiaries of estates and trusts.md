@@ -104,5 +104,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6048, 6724 of this title.
+This section is referred to in sections 6039H, 6048, 6724 of this title.
 

@@ -22,7 +22,7 @@ Act Apr. 14, 1949, ch. 51, 63 Stat. 45, authorized appointment of a commission o
 
 #### White House; Administration; Preservation of Museum Character; Articles of Historic or Artistic Interest
 
-Pub. L. 87–286, Sept. 22, 1961, 75 Stat. 586, provided: “That all of that portion of reservation numbered 1 inthe city of Washington, District of Columbia, which is within the President's park enclosure, comprising eighteen and seven one-hundredths acres, shall continue to be known as the White House and shall be administered pursuant to the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–3), and Acts supplementary thereto and amendatory thereof. In carrying out this Act primary attention shall be given to the preservation and interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House, but nothing done under this Act shall conflict with the administration of the Executive offices of the President or with the use and occupancy of the buildings and grounds as the home of the President and his family and for his official purposes.
+Pub. L. 87–286, Sept. 22, 1961, 75 Stat. 586, provided: “That all of that portion of reservation numbered 1 in the city of Washington, District of Columbia, which is within the President's park enclosure, comprising eighteen and seven one-hundredths acres, shall continue to be known as the White House and shall be administered pursuant to the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–3), and Acts supplementary thereto and amendatory thereof. In carrying out this Act primary attention shall be given to the preservation and interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House, but nothing done under this Act shall conflict with the administration of the Executive offices of the President or with the use and occupancy of the buildings and grounds as the home of the President and his family and for his official purposes.
 
 “
 
@@ -100,5 +100,7 @@ Term of the Committee for the Preservation of the White House extended until Sep
 
 Term of the Committee for the Preservation of the White House extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of the Committee for the Preservation of the White House extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 

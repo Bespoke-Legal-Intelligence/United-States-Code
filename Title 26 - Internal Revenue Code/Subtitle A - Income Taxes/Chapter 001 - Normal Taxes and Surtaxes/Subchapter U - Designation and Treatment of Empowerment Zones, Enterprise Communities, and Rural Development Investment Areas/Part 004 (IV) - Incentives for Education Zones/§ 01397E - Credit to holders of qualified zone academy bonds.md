@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (B) Eligible local education agency
 
-&emsp;&emsp;The term “eligible local education agency” means any local educational agency as defined in section 14101 of the Elementary and Secondary Education Act of 1965.
+&emsp;&emsp;The term “eligible local education agency” means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
 
 #### (5) Qualified purpose
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (3) Designation subject to limitation amount
 
-&emsp;The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (d)(1) withrespect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph (2) for such calendar year.
+&emsp;The maximum aggregate face amount of bonds issued during any calendar year which may be designated under subsection (d)(1) with respect to any qualified zone academy shall not exceed the limitation amount allocated to such academy under paragraph (2) for such calendar year.
 
 #### (4) Carryover of unused limitation
 
@@ -162,7 +162,7 @@ Gross income includes the amount of the credit allowed to the taxpayer under thi
 
 For purposes of subtitle F, the credit allowed by this section shall be treated as a credit allowable under part IV of subchapter A of this chapter.
 
-(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924.)
+(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### References in Text
 
@@ -170,9 +170,11 @@ The date of the enactment of this section, referred to in subsec. (d)(4)(A)(iv)(
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(4)(A)(iv)(II), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-Section 14101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4)(B), is classified to section 8801 of Title 20, Education.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(4)(B), is classified to section 7801 of Title 20, Education.
 
 #### Amendments
+
+<b>2002</b>—Subsec. (d)(4)(B). Pub. L. 107–110 substituted “9101” for “14101”.
 
 <b>1999</b>—Subsec. (d)(4)(A)(iv)(II). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
@@ -185,6 +187,10 @@ Subsec. (e)(4). Pub. L. 106–170, §509(b), inserted at end “Any carryforward
 Subsec. (g). Pub. L. 105–206, §6004(g)(4), inserted “(determined without regard to subsection (c))” after “section”.
 
 Subsec. (h). Pub. L. 105–206, §6004(g)(3), added subsec. (h).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Effective Date of 1998 Amendment
 

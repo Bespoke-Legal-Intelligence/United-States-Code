@@ -10,7 +10,7 @@ The President should establish a working group—
 
 #### (b) Information and data base
 
-(1) The Agency shall allocate sufficient resources to develop and maintain a comprehensive information and data base on verification concepts, research, technologies, and systems.The Agency shall collect, maintain, analyze, and disseminate information pertaining to arms control verification and monitoring, including information regarding—
+(1) The Agency shall allocate sufficient resources to develop and maintain a comprehensive information and data base on verification concepts, research, technologies, and systems. The Agency shall collect, maintain, analyze, and disseminate information pertaining to arms control verification and monitoring, including information regarding—
 
 &emsp;(A) all current United States bilateral and multilateral arms treaties; and
 

@@ -50,7 +50,7 @@ Subsec. (e). Pub. L. 101–239, §7733(d), substituted “returns” for “retu
 
 > unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection on any person with respect to any return period shall not exceed $20,000.”
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–44 repealed Pub. L. 98–369, §179(b)(2), which amended subsec. (b), and provided that the Internal Revenue Code of 1954 \[now 1986\]\[this title\] shall be applied and administered as if section 179(b)(2) (and the amendments made by such section) had not been enacted. See 1984 Amendment note and Effective Date of 1985 Amendment note below.
+<b>1985</b>—Subsec. (b). Pub. L. 99–44 repealed Pub. L. 98–369, §179(b)(2), which amended subsec. (b), and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered as if section 179(b)(2) (and the amendments made by such section) had not been enacted. See 1984 Amendment note and Effective Date of 1985 Amendment note below.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with failure to inform taxpayer of certain recordkeeping requirements of section 274(d) of this title or to sign returns, for provisions dealing with failure to sign returns. See 1985 Amendment note above.
 

@@ -28,7 +28,7 @@
 
 (4) If the Secretary disapproves or partially approves a plan or amendment, the Council may submit a revised plan or amendment to the Secretary for review under this subsection.
 
-(5) For purposes of this subsection and subsection (b) of this section, the term “immediately” means on or before the 5th day after the day on which a Council transmits to the Secretary a fishery management plan, plan amendment, or proposed regulation that the Council characterizes as final.
+(5) For purposes of this subsection and subsection (b) of this section, the term “immediately” means on or before the 5th day after the day on which a Council transmits to the Secretary a fishery management plan, planamendment, or proposed regulation that the Council characterizes as final.
 
 #### (b) Review of regulations
 
@@ -94,7 +94,7 @@
 
 (2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservation and management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
 
-(3) Within one year of an identification under paragraph (1) or notification under paragraphs (2) or (7), the appropriate Council (or the Secretary, for fisheries under section 1852(a)(3) of this title) shall prepare a fishery management plan, plan amendment, or proposed regulationsfor the fishery to which the identification or notice applies—
+(3) Within one year of an identification under paragraph (1) or notification under paragraphs (2) or (7), the appropriate Council (or the Secretary, for fisheries under section 1852(a)(3) of this title) shall prepare a fishery management plan, plan amendment, or proposed regulations for the fishery to which the identification or notice applies—
 
 &emsp;(A) to end overfishing in the fishery and to rebuild affected stocks of fish; or
 
@@ -182,7 +182,7 @@ The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub
 
 #### Amendments
 
-1996—Subsecs. (a), (b). Pub. L. 104–297, §109(a), added subsecs. (a) and (b) and struck out former subsecs. (a) which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
+1996—Subsecs. (a), (b). Pub. L. 104–297, §109(a), added subsecs. (a) and (b) and struck out former subsecs. (a)which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
 
 Subsec. (c). Pub. L. 104–297, §109(b)(1), amended heading to read “Preparation and review of Secretarial plans”.
 
@@ -220,7 +220,7 @@ Subsec. (c)(2)(B). Pub. L. 101–627, §120(d), substituted “appropriate Counc
 
 Pub. L. 101–627, §111(a)(2)(C), substituted “section 1855(a)” for “section 1855(c)”.
 
-Subsec. (e). Pub. L. 101–627, §110(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries,including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish. The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
+Subsec. (e). Pub. L. 101–627, §110(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries, including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish. The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
 Subsec. (f). Pub. L. 101–627, §110(b)(1), in heading substituted “Fisheries under authority of more than one Council” for “Miscellaneous duties”, in par. (1) substituted “Except as provided in paragraph (3), if” for “If”, and added par. (3).
 

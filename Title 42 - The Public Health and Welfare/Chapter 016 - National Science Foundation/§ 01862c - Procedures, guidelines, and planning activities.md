@@ -20,7 +20,7 @@ The Director shall conduct comprehensive planning activities, including surveys 
 
 #### (c) Guidelines
 
-Prior to the issuance of the comprehensive plan required by subsection (d) of this section, and consistent with the Program criteria set forth in section 1862b(c) of this title, the Director shall publish in the Federal Register proposed Program guidelines for public review for a comment period of 30 days. Such guidelines shall provide detailed information on eligibility, criteria, terms, and conditions and shall include, but not be limited to—
+Prior to the issuance of the comprehensive plan required by subsection (d) of this section, and consistent with the Program criteria set forth in section 1862b(c) of this title, the Director shall publish in the Federal Register proposed Program guidelines for public review for a comment period of 30 days. Such guidelines shallprovide detailed information on eligibility, criteria, terms, and conditions and shall include, but not be limited to—
 
 &emsp;(1) definitions for the terms “institutions of higher education”, “private non-profit research organizations”, “research museums”, “consortia”, “facilities”, “facilities primarily devoted to research”, “instrumentation”, “equipment”, “repair”, “renovation”, and “replacement”;
 
@@ -30,7 +30,7 @@ Prior to the issuance of the comprehensive plan required by subsection (d) of th
 
 #### (d) Comprehensive plan
 
-The Director, after gathering appropriate information and after considering comments onthe proposed Program guidelines published in the Federal Register pursuant to subsection (c) of this section, shall develop a comprehensive plan for the Program that—
+The Director, after gathering appropriate information and after considering comments on the proposed Program guidelines published in the Federal Register pursuant to subsection (c) of this section, shall develop a comprehensive plan for the Program that—
 
 &emsp;(1) defines the appropriate roles and responsibilities of the Federal Government, institutions of higher education, State governments, private foundations, and other appropriate organizations;
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) delivers nuclear reprocessing equipment, materials, or technology to any other country on or after August 4, 1977, or receives such equipment, materials, or technology from any other country on or after August 4, 1977 (except for the transfer of reprocessing technology associated with the investigation, under international evaluation programs in which the United States participates, of technologies which are alternatives to pure plutonium reprocessing), or
 
-&emsp;(B) is a non-nuclear-weapon state which, on or after August 8, 1985, exports illegally (or attempts to export illegally) from the United States any material, equipment, or technology which would contribute significantly to the ability of such country to manufacture a nuclear explosive device, if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of a nuclear explosive device.
+&emsp;(B) is a non-nuclear-weapon state which, on or after August 8, 1985, exports illegally (or attempts to export illegally) from the United States any material, equipment, or technology which would contribute significantly to theability of such country to manufacture a nuclear explosive device, if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of a nuclear explosive device.
 
 > For purposes of clause (B), an export (or attempted export) by a person who is an agent of, or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
 
@@ -66,7 +66,7 @@
 
 &emsp;(B) the term “component” means a specific component of a nuclear explosive device.
 
-(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
+(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period ofnot more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
 
 (B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) of this subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
 
@@ -118,6 +118,16 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 Pub. L. 105–194, §2(d), July 14, 1998, 112 Stat. 627, provided that: “The amendment made by subsection (a)(3) \[amending this section\] shall apply to any credit, credit guarantee, or other financial assistance provided by the Department of Agriculture before, on, or after the date of enactment of this Act \[July 14, 1998\] through September 30, 1999.”
 
+#### Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs
+
+Pub. L. 107–63, title I, Nov. 5, 2001, 115 Stat. 421, provided in part: “That funds made available under this Act \[see Tables for classification\], Public Law 106–291 \[see Tables for classification\], and Public Law 106–554 \[see Tables for classification\] and hereafter in annual appropriations Acts for rhinoceros, tiger, Asian elephant, and great ape conservation programs are exempt from any sanctions imposed against any country under section 102 of the Arms Export Control Act (22 U.S.C. 2799aa–1).”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 927.
+
+Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–141.
+
 #### Waiver of Certain Sanctions Against India and Pakistan
 
 Pub. L. 106–79, title IX, §9001, Oct. 25, 1999, 113 Stat. 1283, provided that:
@@ -132,7 +142,7 @@ Exception.—The authority to waive the application of a sanction or prohibition
 
 “(c)
 
-Termination of Waiver.—The President may not exercise the authority of subsection (a), and any waiver previously issued under subsection (a) shall cease to apply, with respect to India or Pakistan, if that country detonates a nuclear explosive device after the dateof the enactment of this Act \[Oct. 25, 1999\] or otherwise takes such action which would cause the President to report pursuant to section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)\].
+Termination of Waiver.—The President may not exercise the authority of subsection (a), and any waiver previously issued under subsection (a) shall cease to apply, with respect to India or Pakistan, if that country detonates a nuclear explosive device after the date of the enactment of this Act \[Oct. 25, 1999\] or otherwise takes such action which would cause the President to report pursuant to section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)\].
 
 “(d)
 
@@ -168,53 +178,27 @@ Pub. L. 105–194, §2(e), July 14, 1998, 112 Stat. 627, provided that: “Any s
 
 #### Sanctions Against India for Detonation of a Nuclear Explosive Device
 
-Determination of President of the United States, No. 98–22, May 13, 1998, 63 F.R. 27665, provided:
-
-Memorandum for the Secretary of State
-
-In accordance with section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)\], I hereby determine that India, a non-nuclear-weapon state, detonated a nuclear explosive device on May 11, 1998. The relevant agencies and instrumentalities of the United States Government are hereby directed to take the necessary actions to impose the sanctions described in section 102(b)(2) of that Act.
-
-You are hereby authorized and directed to transmit this determination to the appropriate committees of the Congress and to arrange for its publication in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Determination of President of the United States, No. 98–22, May 13, 1998, 63 F.R. 27665, provided a determination that India, a non-nuclear-weapon state, detonated a nuclear explosive device on May 11, 1998, and imposed sanctions described in subsec. (b)(2) of this section.
 
 #### Sanctions Against Pakistan for Detonation of a Nuclear Explosive Device
 
-Determination of President of the United States, No. 98–25, May 30, 1998, 63 F.R. 31881, provided:
-
-Memorandum for the Secretary of State
-
-In accordance with section 102(b)(1) of the Arms Export Control Act \[22 U.S.C. 2799aa–1(b)(1)\], I hereby determine that Pakistan, a non-nuclear-weapon state, detonated a nuclear explosive device on May 28, 1998. The relevant agencies and instrumentalities of the United States Government are hereby directed to take the necessary actions to impose the sanctions described in section 102(b)(2) of that Act.
-
-You are hereby authorized and directed to transmit this determination to the appropriate committees of the Congress and to arrange for its publication in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Pakistan and India
-
-Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649, provided:
-
-Memorandum for the Secretary of State
-
-Pursuant to the authority vested in me as President of the United States, including under title IX of the Department of Defense Appropriations Act, 2000 (Public Law 106–79) \[set out as a note above\], I hereby waive the sanctions contained in sections 101 and 102 of the Arms Export Control Act \[22 U.S.C. 2799aa, 2799aa–1\], section 620E(e) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2375(e)\], and section 2(b)(4) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635(b)(4)\]:
-
-&emsp;(1) with respect to India, insofar as such sanctions would otherwise apply to activities of the Export-Import Bank, the Overseas Private Investment Corporation, and the Trade and Development Agency; assistance under the “International Military Education and Training” program; the making of any loan or the providing of any credit to the Government of India by any U.S. bank; assistance to the Asian Elephant Conservation Fund, the Rhinoceros and Tiger Conservation Fund, and the Indo-American Environmental Leadership program; and any credit, credit guarantee, or other financial assistance provided by the Department of Agriculture to support the purchase of food or other agricultural commodity; and
-
-&emsp;(2) with respect to Pakistan, insofar as such sanctions would otherwise apply to any credit, credit guarantee, or other financial assistance provided by the Department of Agriculture to support the purchase of food or other agricultural commodity; and the making of any loan or the providing of any credit to the Government of Pakistan by any U.S. bank.
-
-You are hereby authorized and directed to report this determination to the Congress and to arrange for its publication in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Determination of President of the United States, No. 98–25, May 30, 1998, 63 F.R. 31881, provided a determination that Pakistan, a non-nuclear-weapon state, detonated a nuclear explosive device on May 28, 1998, and imposed sanctions described in subsec. (b)(2) of this section.
 
 #### Waiver of Certain Sanctions Against India and Pakistan
 
-Provisions relating to waiver of sanctions against India and Pakistan consistent with section 9001 of Pub. L. 106–79, set out as a note above, were contained in the following:
+Provisions relating to waiver of sanctions against India and Pakistan consistent with section 9001 of Pub. L. 106–79, set out as a note above, or section 101(a) \[title IX, §902\] of Pub. L. 105–277, formerly set out in a note above, were contained in the following:
+
+Determination of President of the United States, No. 2001–28, Sept. 22, 2001, 66 F.R. 50095.
+
+Determination of President of the United States, No. 2001–23, Aug. 9, 2001, 66 F.R. 44521.
 
 Determination of President of the United States, No. 2001–11, Jan. 19, 2001, 66 F.R. 8503.
 
 Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 65 F.R. 16297.
 
 Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649.
+
+Determination of President of the United States, No. 99–7, Dec. 1, 1998, 34 Weekly Compilation of Presidential Documents 2402, Dec. 7, 1998.
 
 #### Section Referred to in Other Sections
 

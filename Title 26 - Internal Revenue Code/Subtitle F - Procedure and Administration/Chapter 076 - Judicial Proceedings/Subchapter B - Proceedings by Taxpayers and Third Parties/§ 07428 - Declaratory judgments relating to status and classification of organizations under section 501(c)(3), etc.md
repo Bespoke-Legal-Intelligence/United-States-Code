@@ -14,7 +14,7 @@ In a case of actual controversy involving—
 
 &emsp;(2) a failure by the Secretary to make a determination with respect to an issue referred to in paragraph (1),
 
-> upon the filing of an appropriate pleading, the United States Tax Court, the United States Court of Federal Claims, or the district court of the United States for the District of Columbia may make a declaration with respect to such initial qualification or continuing qualification or with respect to such initial classification or continuing classification. Any such declaration shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. For purposes of this section, a determination with respect to a continuing qualification or continuing classification includes any revocation of or other change in a qualification or classification.
+> upon the filing of an appropriate pleading, the United States Tax Court, the United States Court of Federal Claims, or the district court of the United States for the District of Columbia may make a declaration with respect to such initial qualification or continuing qualification or with respect to such initial classification or continuing classification. Any such declaration shall have the force and effect of a decision of the Tax Court or a final judgment or decree ofthe district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. For purposes of this section, a determination with respect to a continuing qualification or continuing classification includes any revocation of or other change in a qualification or classification.
 
 #### (b) Limitations
 
@@ -96,11 +96,11 @@ Amendment by Pub. L. 98–369 applicable with respect to inquiries and examinati
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 effective as if included in this section at the time section was added to thistitle, see section 701(dd)(3) of Pub. L. 95–600, set out as a note under section 7476 of this title.
+Amendment by Pub. L. 95–600 effective as if included in this section at the time section was added to this title, see section 701(dd)(3) of Pub. L. 95–600, set out as a note under section 7476 of this title.
 
 #### Effective Date
 

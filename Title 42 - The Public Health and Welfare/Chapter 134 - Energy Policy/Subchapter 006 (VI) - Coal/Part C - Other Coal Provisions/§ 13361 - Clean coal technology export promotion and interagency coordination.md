@@ -6,7 +6,7 @@ There shall be established within the Trade Promotion Coordinating Committee (es
 
 #### (b) Membership
 
-The CCT Subgroup shall include 1 member from each agency represented on the Energy,Environment, and Infrastructure Working Group of the Trade Promotion Coordinating Committee as of October 24, 1992. The Secretary shall serve as chair of the CCT Subgroup and shall be responsible for ensuring that the functions of the CCT Subgroup are carried out through its member agencies.
+The CCT Subgroup shall include 1 member from each agency represented on the Energy, Environment, and Infrastructure Working Group of the Trade Promotion Coordinating Committee as of October 24, 1992. The Secretary shall serve as chair of the CCT Subgroup and shall be responsible for ensuring that the functions of the CCT Subgroup are carried out through its member agencies.
 
 #### (c) Consultation
 
@@ -46,7 +46,7 @@ The Secretary, acting through the CCT Subgroup, shall—
 
 #### (e) Data and information
 
-(1) The CCT Subgroup, consistent with other applicable provisions of law, shall ensure the development of a comprehensive data base and information dissemination system, using the National Trade Data Bank and the Commercial Information Management System of the Department of Commerce, relating to the availability of clean coal technologies and the potential need for such technologies, particularly in developing countries and countries making the transition from nonmarket to market economies.
+(1) The CCT Subgroup, consistent with other applicable provisions of law, shall ensure the development of a comprehensive data base and information dissemination system, using the National Trade Data Bank and the Commercial Information Management System of the Department of Commerce, relating to the availability of clean coal technologies and the potential need for such technologies, particularly in developingcountries and countries making the transition from nonmarket to market economies.
 
 (2) The Secretary, acting through the CCT Subgroup, shall assess and prioritize foreign markets that have the most potential for the export of clean coal technologies that are developed, manufactured, or controlled by United States firms. Such assessment shall include—
 

@@ -10,7 +10,7 @@ A prior section 2517, Pub. L. 87–293, title I, §18, Sept. 22, 1961, 75 Stat. 
 
 #### Paul D. Coverdell World Wise Schools Program
 
-Pub. L. 106–570, title VI, Dec. 27, 2000, 114 Stat. 3051, provided that:
+Pub. L. 106–570, title VI, Dec. 27, 2000, 114 Stat. 3051, as amended by Pub. L. 107–21, §2, July 26, 2001, 115 Stat. 194, provided that:
 
 #### “SEC. 601. SHORT TITLE.
 
@@ -44,7 +44,11 @@ In General.—Effective on the date of enactment of this Act \[Dec. 27, 2000\], 
 
 “(b)
 
-References.—Any reference before the date of enactment of this Act \[Dec. 27, 2000\] in any law, regulation, order, document, record, or other paper of the United States to the Peace Corps World Wise Schools Program shall, on and after such date, be considered to refer to the Paul D. Coverdell World Wise Schools Program.”
+References.—Any reference before the date of enactment of this Act \[Dec. 27, 2000\] in any law, regulation, order, document, record, or other paper of theUnited States to the Peace Corps World Wise Schools Program shall, on and after such date, be considered to refer to the Paul D. Coverdell World Wise Schools Program.
+
+“(c)
+
+New References in Peace Corps Documents.—The Director of the Peace Corps shall ensure that any reference in any public document, record, or other paper of the Peace Corps, including any promotional material, produced on or after the date of enactment of this subsection \[July 26, 2001\], to the program described in subsection (a) be a reference to the ‘Paul D. Coverdell World Wise Schools Program’.”
 
 #### Paul D. Coverdell Fellows Program
 

@@ -22,7 +22,7 @@ In order that the Congress and the American people may be better and more curren
 
 &emsp;&emsp;(E) as proposed for the fiscal year following the year in which the report is presented; and
 
-&emsp;&emsp;(F) of any contract in excess of $100,000 administered by the Agency for InternationalDevelopment which was entered into in the preceding fiscal year without competitive selection procedures, and the reasons for doing so;
+&emsp;&emsp;(F) of any contract in excess of $100,000 administered by the Agency for International Development which was entered into in the preceding fiscal year without competitive selection procedures, and the reasons for doing so;
 
 &emsp;(3) a summary of repayments, by country, to the United States from previous foreign assistance loans;
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;(2) “provided by the United States Government” includes, but is not limited to, foreign assistance provided by means of gift, loan, sale, credit, or guaranty.
 
-(Pub. L. 87–195, pt. III, §634, Sept. 4, 1961, 75 Stat. 455; Pub. L. 87–565, pt. III, §302(e), (f), Aug. 1, 1962, 76 Stat. 262; Pub. L. 89–583, pt. III, §302(c), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(h), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–629, ch. 4, §45(a), (b)(4), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 91–175, pt. III, §305, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §304(a)(3), (c)(2), Feb. 7, 1972, 86 Stat. 28, 32; Pub. L. 93–189, §17, Dec. 17, 1973, 87 Stat. 724; Pub. L. 93–559, §14, Dec. 30, 1974, 88 Stat. 1799; Pub. L. 94–273, §6(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–329, title II, §209(b), June 30, 1976, 90 Stat. 739; Pub. L. 95–424, title V, §502(a)(1), (2), Oct. 6, 1978, 92 Stat. 957; Pub. L. 96–533, title VII, §707, Dec. 16, 1980, 94 Stat. 3159; Pub. L. 97–113, title VII, §733, Dec. 29, 1981, 95 Stat. 1559; Pub. L. 99–83, title III, §312(b), Aug. 8, 1985, 99 Stat. 216.)
+(Pub. L. 87–195, pt. III, §634, Sept. 4, 1961, 75 Stat. 455; Pub. L. 87–565, pt. III, §302(e), (f), Aug. 1,1962, 76 Stat. 262; Pub. L. 89–583, pt. III, §302(c), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(h), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–629, ch. 4, §45(a), (b)(4), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 91–175, pt. III, §305, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §304(a)(3), (c)(2), Feb. 7, 1972, 86 Stat. 28, 32; Pub. L. 93–189, §17, Dec. 17, 1973, 87 Stat. 724; Pub. L. 93–559, §14, Dec. 30, 1974, 88 Stat. 1799; Pub. L. 94–273, §6(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–329, title II, §209(b), June 30, 1976, 90 Stat. 739; Pub. L. 95–424, title V, §502(a)(1), (2), Oct. 6, 1978, 92 Stat. 957; Pub. L. 96–533, title VII, §707, Dec. 16, 1980, 94 Stat. 3159; Pub. L. 97–113, title VII, §733, Dec. 29, 1981, 95 Stat. 1559; Pub. L. 99–83, title III, §312(b), Aug. 8, 1985, 99 Stat. 216.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 94–273 substituted “September” for “June” and “
 
 Subsec. (g). Pub. L. 93–189 added subsec. (g).
 
-1972—Subsec. (a). Pub. L. 92–226, §304(c)(2), struck out provisions for annual report to Congress concerning operations under this chapter, including information on the progress of the freedom of navigation and nondiscrimination declaration. See annual foreign assistance report provisions of section 2417 of this title.
+1972—Subsec. (a). Pub. L. 92–226, §304(c)(2), struck out provisions for annual report to Congress concerning operations under this chapter, including information onthe progress of the freedom of navigation and nondiscrimination declaration. See annual foreign assistance report provisions of section 2417 of this title.
 
 Subsec. (d). Pub. L. 92–226, §304(a)(3), substituted in last sentence reference to section “2360(b)” for prior reference to sections “2360, 2364(a)”.
 

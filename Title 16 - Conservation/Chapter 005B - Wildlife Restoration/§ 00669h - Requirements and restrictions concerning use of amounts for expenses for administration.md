@@ -64,7 +64,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (A) In general
 
-&emsp;&emsp;An audit under this subsection shall be performed under a contract that is awarded under competitive procedures (as defined in section 403 of title 41) by a person or entity that is not associated in any way with the Department of the Interior (except by way of a contract for the performance of an audit or other review).
+&emsp;&emsp;An audit under this subsection shall be performed under a contract that is awarded under competitive procedures (as defined insection 403 of title 41) by a person or entity that is not associated in any way with the Department of the Interior (except by way of a contract for the performance of an audit or other review).
 
 #### (B) Supervision of auditor
 
@@ -72,7 +72,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (3) Report to Congress
 
-&emsp;The Inspector General of the Department of the Interior shall promptly submit to theCommittee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
+&emsp;The Inspector General of the Department of the Interior shall promptly submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
 
 &emsp;&emsp;(A) a report on the results of each audit under this subsection; and
 

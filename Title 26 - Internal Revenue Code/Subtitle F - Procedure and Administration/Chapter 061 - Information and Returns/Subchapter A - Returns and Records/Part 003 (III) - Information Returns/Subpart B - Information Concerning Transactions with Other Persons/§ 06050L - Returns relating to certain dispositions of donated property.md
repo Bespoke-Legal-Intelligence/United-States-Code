@@ -16,7 +16,7 @@ If the donee of any charitable deduction property sells, exchanges, or otherwise
 
 #### (b) Charitable deduction property
 
-For purposes of this section, the term “charitable deduction property” means any property (other than publicly traded securities) contributed in a contribution for which a deduction was claimed under section 170 if the claimed value of such property (plus the claimed value of allsimilar items of property donated by the donor to 1 or more donees) exceeds $5,000.
+For purposes of this section, the term “charitable deduction property” means any property (other than publicly traded securities) contributed in a contribution for which a deduction was claimed under section 170 if the claimed value of such property (plus the claimed value of all similar items of property donated by the donor to 1 or more donees) exceeds $5,000.
 
 #### (c) Statement to be furnished to donors
 

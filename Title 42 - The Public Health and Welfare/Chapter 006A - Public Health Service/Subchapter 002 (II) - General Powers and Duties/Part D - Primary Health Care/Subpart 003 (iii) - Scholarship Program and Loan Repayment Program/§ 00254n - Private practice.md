@@ -46,7 +46,7 @@ The Secretary may, out of appropriations authorized under section 254k of this t
 
 &emsp;(D) $2,500 in the fourth year of obligated service; or
 
-&emsp;(2) an amount determined by subtracting such individual's net income before taxes from the income the individual would have received as a member of the Corps for each such year of obligated service.
+&emsp;(2) an amount determined by subtracting such individual's net income before taxes from the income the individual would have receivedas a member of the Corps for each such year of obligated service.
 
 #### (g) Technical assistance
 

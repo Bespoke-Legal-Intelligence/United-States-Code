@@ -4,7 +4,7 @@
 
 (b) If an eligible veteran contracts for the construction of a property in a project on which the Secretary has issued a Certificate of Reasonable Value and such construction is to be financed with the assistance of a construction loan to be guaranteed, insured, or made under the provisions of this chapter, it may be considered an unfair marketing practice under section 3704(b) of this title if any deposit or downpayment of the veteran is not maintained in a special trust account by the recipient until it is either (1) applied on behalf of the veteran to the cost of the land or to the cost of construction or (2), if the transaction does not materialize, is otherwise disposed of in accordance with the terms of the contract.
 
-(Added Pub. L. 86–665, §6(a), July 14, 1960, 74 Stat. 532, §1806; amended Pub. L. 94–324, §7(10), June 30, 1976, 90 Stat. 721; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3706 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(e)(13), Nov. 2, 1994, 108 Stat. 4685.)
+(Added Pub. L. 86–665, §6(a), July 14, 1960, 74 Stat. 532, §1806; amended Pub. L. 94–324, §7(10),June 30, 1976, 90 Stat. 721; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3706 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(e)(13), Nov. 2, 1994, 108 Stat. 4685.)
 
 #### Amendments
 

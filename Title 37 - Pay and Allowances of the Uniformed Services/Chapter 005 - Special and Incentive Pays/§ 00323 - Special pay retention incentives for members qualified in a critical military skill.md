@@ -10,7 +10,7 @@ Retention Bonus Authorized.—An officer or enlisted member of the armed forces 
 
 (b)
 
-Designation of Critical Skills.—(1) A designated critical military skill referred to in subsection (a) is a military skill designated as critical by the Secretary of Defense, or by the Secretary of Transportation with respect to theCoast Guard when it is not operating as a service in the Navy.
+Designation of Critical Skills.—(1) A designated critical military skill referred to in subsection (a) is a military skill designated as critical by the Secretary of Defense, or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (2) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, shall notify Congress, in advance, of each military skill to be designated by the Secretary as critical for purposes of this section. The notice shall be submitted at least 90 days before any bonus with regard to that critical skill is offered under subsection (a) and shall include a discussion of the necessity for the bonus, the amount and method of payment of the bonus, and the retention results that the bonus is expected to achieve.
 
@@ -52,9 +52,13 @@ Annual Report.—Not later than February 15 of each year, the Secretary of Defen
 
 (i)
 
-Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2001, and no agreement under this section may be entered into after that date.
+Termination of Bonus Authority.—No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after December 31, 2002, and no agreement under this section may be entered into after that date.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §633(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–157; amended Pub. L. 107–107, div. A, title VI, §614(d), Dec. 28, 2001, 115 Stat. 1136.)
+
+#### Amendments
+
+2001—Subsec. (i). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
 #### Effective Date
 

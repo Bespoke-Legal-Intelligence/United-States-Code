@@ -76,7 +76,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 > &emsp;&emsp;and that meet the requirements under section 9910 of this title;
 
-&emsp;&emsp;(D) establish an advisory council consisting of older individuals (including minority individuals and older individuals residing in rural areas) who are participants or who are eligible to participate in programs assisted under this chapter, representatives of older individuals, local elected officials, providers of veterans’ health care (if appropriate), and the general public, to advise continuouslythe area agency on aging on all matters relating to the development of the area plan, the administration of the plan and operations conducted under the plan;
+&emsp;&emsp;(D) establish an advisory council consisting of older individuals (including minority individuals and older individuals residing in rural areas) who are participants or who are eligible to participate in programs assisted under this chapter, representatives of older individuals, local elected officials, providers of veterans’ health care (if appropriate), and the general public, to advise continuously the area agency on aging on all matters relating to the development of the area plan, the administration of the plan and operations conducted under the plan;
 
 &emsp;&emsp;(E) establish effective and efficient procedures for coordination of—
 
@@ -90,7 +90,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(7) provide that the area agency on aging will facilitate the coordination of community-based, long-term care services designed to enable older individuals to remain in their homes, by means including—
 
-&emsp;&emsp;(A) development of case management services as a component of the long-term care services, consistent with the requirements of paragraph (8);
+&emsp;&emsp;(A) development of case management services as a component of the long-term careservices, consistent with the requirements of paragraph (8);
 
 &emsp;&emsp;(B) involvement of long-term care providers in the coordination of such services; and
 
@@ -148,7 +148,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(15) <sup>5</sup> provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter; <sup>6</sup>
 
-&emsp;(16) provide assurances that preference in receiving services under this subchapter will not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship that is not carried out to implement this subchapter; <sup>7</sup>
+&emsp;(16) provide assurances that preference in receiving services under this subchapter will notbe given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship that is not carried out to implement this subchapter; <sup>7</sup>
 
 #### (b) Waiver of requirements
 
@@ -196,7 +196,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112,
 
 A prior section 3026, Pub. L. 89–73, title III, §306, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 43; amended Pub. L. 94–135, title I, §107, Nov. 28, 1975, 89 Stat. 716, related to the planning, coordination, evaluation, and administration of State plans, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3028 of this title.
 
-Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; amended Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
+Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; amended Pub. L. 94–135, title I, §§105, 106(c), Nov. 28,1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
 
@@ -264,7 +264,7 @@ Subsec. (a)(13). Pub. L. 106–501, §305(a)(11), (12), redesignated par. (14) a
 
 Subsec. (a)(14). Pub. L. 106–501, §305(a)(13), added par. (14). Former par. (14) redesignated (13).
 
-Subsec. (a)(15). Pub. L. 106–501, §305(a)(13), added par. (15) relating to assurances that preference in receiving services under this subchapter would not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship not being carried out to implement this subchapter.
+Subsec. (a)(15). Pub. L. 106–501, §305(a)(13), added par. (15) relating to assurances that preference in receivingservices under this subchapter would not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship not being carried out to implement this subchapter.
 
 Subsec. (a)(17) to (20). Pub. L. 106–501, §305(a)(14), struck out pars. (17) to (20) which required each area plan to provide: in par. (17), assurances that projects in the planning and service area would reasonably accommodate particular dietary needs of participants, in par. (18), assurances that the area agency on aging would coordinate its services under this subchapter with services provided under subchapter X of this chapter, in par. (19), assurance that the area agency on aging would pursue activities to increase access by older individuals who are Native Americans to all aging programs and benefits provided by the agency, and, in par. (20), that case management services provided under this subchapter through the area agency on aging would be coordinated with and not duplicate other Federal and State programs and would be provided by a public agency or a nonprofit private agency either not providing services other than case management services or located in a rural area and having obtained a waiver of that requirement.
 
@@ -320,7 +320,7 @@ Subsec. (a)(6)(G). Pub. L. 102–375, §904(a)(12)(A)(iv)(II), substituted “pa
 
 Subsec. (a)(6)(H). Pub. L. 102–375, §306(d)(4), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “establish effective and efficient procedures for coordination between the programs assisted under this subchapter and programs described in section 3013(b) of this title;”.
 
-Subsec. (a)(6)(I). Pub. L. 102–375, §306(d)(5), substituted “include the development of case managementservices as a component of the long-term care services” for “emphasize the development of client-centered case management systems as a component of such services”.
+Subsec. (a)(6)(I). Pub. L. 102–375, §306(d)(5), substituted “include the development of case management services as a component of the long-term care services” for “emphasize the development of client-centered case management systems as a component of such services”.
 
 Subsec. (a)(6)(N). Pub. L. 102–375, §904(a)(12) (A)(iv)(IV), which directed substitution of “such individuals in such area and shall inform such individuals” for “elder Indians in such area and shall inform such older Indians”, was executed by making the substitution for “older Indians in such area and shall inform such older Indians” to reflect the probable intent of Congress.
 

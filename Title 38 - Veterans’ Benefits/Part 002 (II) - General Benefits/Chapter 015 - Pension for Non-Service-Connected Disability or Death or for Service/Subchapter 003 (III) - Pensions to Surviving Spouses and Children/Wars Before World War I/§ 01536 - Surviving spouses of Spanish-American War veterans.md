@@ -74,7 +74,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Increase in Aid and Attendance Rates for Veterans Eligible for Pension
 
-Maximum annual pension rates under subsec. (d)(2) of this section increased by $600, effective Oct. 1, 1998, see section 8206 of Pub. L. 105–178, set out as a note under section 1521 of this title.
+Maximum annual pension rates under subsec. (d)(2) of this section increased by $600, effective Oct. 1, 1998, seesection 8206 of Pub. L. 105–178, set out as a note under section 1521 of this title.
 
 #### Section Referred to in Other Sections
 

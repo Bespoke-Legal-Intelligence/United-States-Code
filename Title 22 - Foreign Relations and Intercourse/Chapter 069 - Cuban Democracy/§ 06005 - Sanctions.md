@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) the term “vessel” includes every description of water craft or other contrivance used, or capable of being used, as a means of transportation in water, but does not include aircraft;
 
-&emsp;&emsp;(B) the term “United States” includes the territories and possessions of the United States and the customs waters of the United States (as defined in section 1401 of title 19; and
+&emsp;&emsp;(B) the term “United States” includes the territories and possessions of the United States and the customs waters of the UnitedStates (as defined in section 1401 of title 19; and
 
 &emsp;&emsp;(C) the term “Cuban national” means a national of Cuba, as the term “national” is defined in section 515.302 of title 31, Code of Federal Regulations, as of August 1, 1992.
 

@@ -10,11 +10,11 @@ Assistance under this chapter on behalf of a homeowner may be made available in 
 
 #### (c) Monthly payments; extension of time; report of increase in income
 
-Monthly payments may be provided under this chapter either with the proceeds of an insured loan or advance of credit or with emergency mortgage relief payments for up to twelve months, and, in accordance with criteria prescribed by the Secretary, such monthly payments may be extended once for up to twelve additional months. A mortgagor receiving the benefit of mortgage relief assistance pursuant to this chapter shall be required, in accordance with criteria prescribed by the Secretary, to report any increase in income which will permit areduction or termination of such assistance during this period.
+Monthly payments may be provided under this chapter either with the proceeds of an insured loan or advance of credit or with emergency mortgage relief payments for up to twelve months, and, in accordance with criteria prescribed by the Secretary, such monthly payments may be extended once for up to twelve additional months. A mortgagor receiving the benefit of mortgage relief assistance pursuant to this chapter shall be required, in accordance with criteria prescribed by the Secretary, to report any increase in income which will permit a reduction or termination of such assistance during this period.
 
 #### (d) Conditions and terms of repayment; interest rate
 
-Emergency loans or advances of credit made and insured under section 2704 of this title, and emergency mortgage relief payments made under section 2705 of this title, shall be repayable by the homeowner upon such terms and conditions as the Secretary shall prescribe, except that interest on a loan or advance of credit insured under section 2704 of this title or emergency mortgage relief payments made under section 2705 of this title shall not be charged at a rate which exceeds the maximum interest rate applicable with respect to mortgages insured pursuant to section 1709(b) of this title.
+Emergency loans or advances of credit made and insured under section 2704 of this title, and emergency mortgage relief payments made under section 2705 of this title, shall be repayable by the homeowner upon such terms andconditions as the Secretary shall prescribe, except that interest on a loan or advance of credit insured under section 2704 of this title or emergency mortgage relief payments made under section 2705 of this title shall not be charged at a rate which exceeds the maximum interest rate applicable with respect to mortgages insured pursuant to section 1709(b) of this title.
 
 #### (e) Deferral of commencement of repayment; security for repayment
 

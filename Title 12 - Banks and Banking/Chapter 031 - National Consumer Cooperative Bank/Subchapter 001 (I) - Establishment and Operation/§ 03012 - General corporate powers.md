@@ -1,6 +1,6 @@
 ### §3012. General corporate powers
 
-The Bank shall have the power to make and service loans, commitments for credit, guarantees, furnish financially related services, technical assistance and the results of research, issue its obligations within the limitations imposed by section 3017 of this title in such amounts, at such times, and on such terms as the Bank may determine, and to exercise the other powers and duties prescribed in this chapter, and shall have the power to—
+The Bank shall have the power to make and service loans, commitments for credit, guarantees, furnish financially related services, technical assistance and the results of research, issue its obligations within the limitations imposed by section 3017 of this title in suchamounts, at such times, and on such terms as the Bank may determine, and to exercise the other powers and duties prescribed in this chapter, and shall have the power to—
 
 &emsp;(1) operate under the direction of its Board of Directors;
 
@@ -52,7 +52,7 @@ In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for
 
 #### Amendments
 
-1981—Pub. L. 97–35 substituted provisions relating to a public offering for purposes of the Securities Act of 1933, for provisions setting forth criteria for the term “exempt securities”.
+1981—Pub. L. 97–35 substituted provisions relating to a public offering for purposes of the Securities Act of1933, for provisions setting forth criteria for the term “exempt securities”.
 
 #### Effective Date of 1981 Amendment
 

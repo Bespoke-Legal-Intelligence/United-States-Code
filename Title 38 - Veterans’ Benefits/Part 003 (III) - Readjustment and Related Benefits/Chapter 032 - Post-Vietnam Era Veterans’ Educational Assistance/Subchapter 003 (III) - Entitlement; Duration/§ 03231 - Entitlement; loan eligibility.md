@@ -16,9 +16,9 @@
 
 (B) The payment of an educational assistance allowance referred to in subparagraph (A) of this paragraph is any payment of a monthly benefit under this chapter to an eligible veteran for pursuit of a course or courses under this chapter if the Secretary finds that the eligible veteran—
 
-&emsp;(i) in the case of a person not serving on active duty, had to discontinue such course pursuit as a result of being ordered, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b,<sup>1</sup> or 688 of title 10; or
+&emsp;(i) in the case of a person not serving on active duty, had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10; or
 
-&emsp;(ii) in the case of a person serving on active duty, had to discontinue such course pursuitas a result of being ordered, in connection with such War, to a new duty location or assignment or to perform an increased amount of work; and
+&emsp;(ii) in the case of a person serving on active duty, had to discontinue such course pursuit as a result of being ordered to a new duty location or assignment or to perform an increased amount of work; and
 
 &emsp;(iii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i) or (ii) of this subparagraph, his or her course pursuit.
 
@@ -50,13 +50,13 @@
 
 (4) The number of solo flying hours for which an individual may be paid an educational assistance allowance under this subsection may not exceed the minimum number of solo flying hours required by the Federal Aviation Administration for the flight rating or certification which is the goal of the individual's flight training.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–368, title X, §1005(b)(7), Nov. 11, 1998, 112 Stat. 3365.)
-
-#### References in Text
-
-Sections 672, 673, and 673b of title 10, referred to in subsec. (a)(5)(B)(i), were renumbered sections 12301, 12302, and 12304, respectively, of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992. A new section 672 of Title 10 was enacted by section 1662(e)(4) of Pub. L. 103–337.
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2396, §1631; amended Pub. L. 96–466, title IV, §§403, 404, Oct. 17, 1980, 94 Stat. 2201; Pub. L. 97–35, title XX, §§2003(a)(1), 2005(a), Aug. 13, 1981, 95 Stat. 782; Pub. L. 99–576, title III, §310(b)(1), Oct. 28, 1986, 100 Stat. 3271; Pub. L. 100–689, title I, §§108(b)(2), 122, Nov. 18, 1988, 102 Stat. 4170, 4174; Pub. L. 101–237, title IV, §423(b)(1), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §7(b), Mar. 22, 1991, 105 Stat. 51; renumbered §3231 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(b), Oct. 10, 1991, 105 Stat. 619; Pub. L. 102–568, title III, §310(c), Oct. 29, 1992, 106 Stat. 4330; Pub. L. 104–275, title I, §105(b), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–368, title X, §1005(b)(7), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §103(a), (d), Dec. 27, 2001, 115 Stat. 979.)
 
 #### Amendments
+
+2001—Subsec. (a)(5)(B)(i). Pub. L. 107–103, §103(a), substituted “to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10;” for “, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b, or 688 of title 10;”.
+
+Subsec. (a)(5)(B)(ii). Pub. L. 107–103, §103(d), struck out “, in connection with such War,” after “being ordered”.
 
 1998—Subsec. (a)(2). Pub. L. 105–368 substituted “subsection (e)” for “subsection (f)”.
 
@@ -110,6 +110,10 @@ Subsec. (d). Pub. L. 97–35, §2005(a), struck out subsec. (d) which related to
 
 Subsec. (b). Pub. L. 96–466, §403, substituted reference to enrolling in a course, courses, or program of education for the purpose of attaining a secondary school diploma or an equivalency certificate during the last six months of such member's first enlistment and at any time thereafter, for reference to participating in the Predischarge Education Program authorized by subchapter VI of chapter 34 of this title during the last 6 months of such member's first enlistment.
 
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of Pub. L. 107–103, set out as a note under section 3013 of this title.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–568 applicable to flight training received under this chapter, chapter 30 of this title, and chapter 106 of Title 10, Armed Forces, after Sept. 30, 1992, see section 310(d) of Pub. L. 102–568, set out as a note under section 16131 of Title 10.
@@ -137,6 +141,4 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(d)(2) of P
 #### Section Referred to in Other Section
 
 This section is referred to in section 3222 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

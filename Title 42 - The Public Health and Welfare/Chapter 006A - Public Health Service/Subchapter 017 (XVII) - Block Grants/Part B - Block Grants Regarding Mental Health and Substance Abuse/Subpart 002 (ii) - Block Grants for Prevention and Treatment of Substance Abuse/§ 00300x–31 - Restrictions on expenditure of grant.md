@@ -24,7 +24,7 @@
 
 #### (3) Limitation regarding penal and correctional institutions
 
-&emsp;A funding agreement for a State for a grant under section 300x–21 of this title is that, in expending the grant for the purpose of providing treatment services in penal or correctional institutions of the State, the State will not expend more than an amount equal to the amount expended for such purpose by the State from the grant made under section 300x–1a <sup>1</sup> of this title to the State for fiscal year 1991 (as section 300x–1a <sup>1</sup> of this title was in effect for such fiscal year).
+&emsp;A funding agreement for a State for a grant under section 300x–21 of this title is that, inexpending the grant for the purpose of providing treatment services in penal or correctional institutions of the State, the State will not expend more than an amount equal to the amount expended for such purpose by the State from the grant made under section 300x–1a <sup>1</sup> of this title to the State for fiscal year 1991 (as section 300x–1a <sup>1</sup> of this title was in effect for such fiscal year).
 
 #### (b) Exception regarding inpatient hospital services
 
@@ -72,7 +72,7 @@ Another prior section 1931 of act July 1, 1944, was classified to section 300y�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300x–21, 300x–24, 300x–32, 300x–34 of this title.
+This section is referred to in sections 300x–21, 300x–24, 300x–32, 300x–34, 1395x of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

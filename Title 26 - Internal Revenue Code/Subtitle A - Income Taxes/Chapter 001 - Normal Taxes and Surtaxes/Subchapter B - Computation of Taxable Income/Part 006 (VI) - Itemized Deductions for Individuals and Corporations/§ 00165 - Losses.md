@@ -24,7 +24,7 @@ Losses from wagering transactions shall be allowed only to the extent of the gai
 
 #### (e) Theft losses
 
-For purposes of subsection (a), any loss arising from theft shall be treated as sustained duringthe taxable year in which the taxpayer discovers such loss.
+For purposes of subsection (a), any loss arising from theft shall be treated as sustained during the taxable year in which the taxpayer discovers such loss.
 
 #### (f) Capital losses
 
@@ -104,7 +104,7 @@ Losses from sales or exchanges of capital assets shall be allowed only to the ex
 
 #### (C) Determination of adjusted gross income in case of estates and trusts
 
-&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
+&emsp;&emsp;For purposes of paragraph (2), the adjusted gross income of an estate or trust shall becomputed in the same manner as in the case of an individual, except that the deductions for costs paid or incurred in connection with the administration of the estate or trust shall be treated as allowable in arriving at adjusted gross income.
 
 #### (D) Coordination with estate tax
 
@@ -194,7 +194,7 @@ In the case of a taxpayer whose residence is located in an area which has been d
 
 &emsp;&emsp;(B) who is an officer of the qualified financial institution,
 
-&emsp;&emsp;(C) who is a sibling (whether by the whole or half blood), spouse, aunt, uncle, nephew,niece, ancestor, or lineal descendant of an individual described in subparagraph (A) or (B), or
+&emsp;&emsp;(C) who is a sibling (whether by the whole or half blood), spouse, aunt, uncle, nephew, niece, ancestor, or lineal descendant of an individual described in subparagraph (A) or (B), or
 
 &emsp;&emsp;(D) who otherwise is a related person (as defined in section 267(b)) with respect to an individual described in subparagraph (A) or (B).
 
@@ -272,7 +272,7 @@ Subsec. (g)(3)(A). Pub. L. 106–554, §1(a)(7) \[title III, §318(b)(1)\], amen
 
 Subsec. (<i>l</i>)(5) to (7). Pub. L. 100–647 added pars. (5) and (6), redesignated former par. (6) as (7), and struck out former par. (5) which read as follows: “
 
-Election.—Any election by the taxpayer under this subsection may be revoked only with the consent of the Secretary andshall apply to all losses of the taxpayer on deposits in the institution with respect to which such election was made.”
+Election.—Any election by the taxpayer under this subsection may be revoked only with the consent of the Secretary and shall apply to all losses of the taxpayer on deposits in the institution with respect to which such election was made.”
 
 <b>1986</b>—Subsec. (h)(4)(E). Pub. L. 99–514, §1004(a), added subpar. (E).
 
@@ -662,5 +662,5 @@ Section 1(b)(2) of Pub. L. 91–677 authorized refund or credit of overpayment a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 56, 62, 67, 68, 80, 86, 148, 166, 172, 195, 271, 272, 451, 593, 709, 832, 873, 877, 897, 1042, 1212, 1351, 1367, 6227, 6405, 6511 of this title.
+This section is referred to in sections 56, 62, 67, 68, 80, 86, 148, 166, 172, 195, 271, 272, 451, 593, 709, 832, 873, 877, 897, 1022, 1042, 1212, 1351, 1367, 6227, 6405, 6511 of this title.
 

@@ -12,7 +12,7 @@ This section shall apply to—
 
 &emsp;(2) any notice generated out of any information return matching program, and
 
-&emsp;(3) the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals.
+&emsp;(3) the 1st letter of proposed deficiency which allows the taxpayer an opportunity foradministrative review in the Internal Revenue Service Office of Appeals.
 
 (Added Pub. L. 100–647, title VI, §6233(a), Nov. 10, 1988, 102 Stat. 3735, §7521; renumbered §7522, Pub. L. 101–508, title XI, §11704(a)(30), Nov. 5, 1990, 104 Stat. 1388–519.)
 

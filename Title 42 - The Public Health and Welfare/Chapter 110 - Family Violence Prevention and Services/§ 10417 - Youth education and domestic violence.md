@@ -6,7 +6,7 @@ For purposes of this section, the Secretary may, in consultation with the Secret
 
 #### (b) Nature of program
 
-The Secretary shall select, implement and evaluate separate model programs for 4 different audiences: primary schools, middle schools, secondary schools, and institutions of higher education. The model programs shall be selected, implemented, and evaluated in consultation with educational experts, legal and psychological experts on battering, and victim advocate organizations such as battered women's shelters, State coalitions and resource centers.
+The Secretary shall select, implement and evaluate separate model programs for 4 different audiences: primary schools, middle schools, secondary schools, and institutions of higher education. The model programs shall be selected, implemented, and evaluated in consultationwith educational experts, legal and psychological experts on battering, and victim advocate organizations such as battered women's shelters, State coalitions and resource centers.
 
 #### (c) Review and dissemination
 
@@ -20,7 +20,7 @@ There are authorized to be appropriated to carry out this section $400,000 for f
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in Pub. L. 102–295, title III, §322, May 28, 1992, 106 Stat. 211, which directed Secretary of Education, in consultation with Secretary of Health and Human Services, to develop three separate programs, one each for primary and middle schools, secondary schools, and institutions of higher learning, for the purpose of educating young people about domestic violence and violence among intimate partners, further provided that such programs would be developed with input from educational experts, law enforcement personnel, legal and psychological experts on battering, and victim advocate organizations, further provided that not later than 9 months after May 28, 1992, the Secretary was to transmit model programs, along with plan and cost estimatefor nationwide distribution, to Congress for review, and further provided appropriation of $200,000 for fiscal year 1992, to carry out these functions.
+Provisions similar to this section were contained in Pub. L. 102–295, title III, §322, May 28, 1992, 106 Stat. 211, which directed Secretary of Education, in consultation with Secretary of Health and Human Services, to develop three separate programs, one each for primary and middle schools, secondary schools, and institutions of higher learning, for the purpose of educating young people about domestic violence and violence among intimate partners, further provided that such programs would be developed with input from educational experts, law enforcement personnel, legal and psychological experts on battering, and victim advocate organizations, further provided that not later than 9 months after May 28, 1992, the Secretary was to transmit model programs, along with plan and cost estimate for nationwide distribution, to Congress for review, and further provided appropriation of $200,000 for fiscal year 1992, to carry out these functions.
 
 #### Section Referred to in Other Sections
 

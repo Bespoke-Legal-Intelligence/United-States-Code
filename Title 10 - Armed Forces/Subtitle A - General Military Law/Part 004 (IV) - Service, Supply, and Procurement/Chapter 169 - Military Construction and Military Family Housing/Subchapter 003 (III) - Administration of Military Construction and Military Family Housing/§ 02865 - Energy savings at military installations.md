@@ -16,7 +16,7 @@ Energy Performance Goal and Plan.—(1) The Secretary of Defense shall designate
 
 &emsp;&emsp;(ii) will meet the same end needs as the equipment or system being repaired; and
 
-&emsp;(B) improvements in an operation or maintenance process, such as improved training orimproved controls, that result in reduced costs through energy savings or water cost savings.
+&emsp;(B) improvements in an operation or maintenance process, such as improved training or improved controls, that result in reduced costs through energy savings or water cost savings.
 
 (b)
 
@@ -68,7 +68,7 @@ Energy Saving Activities.—(1) The Secretary of Defense shall permit and encour
 
 (e)
 
-Energy Conservation Construction Projects.—(1) The Secretary of Defense maycarry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
+Energy Conservation Construction Projects.—(1) The Secretary of Defense may carry out a military construction project for energy conservation, not previously authorized, using funds appropriated or otherwise made available for that purpose.
 
 (2) When a decision is made to carry out a project under paragraph (1), the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees.
 
@@ -131,6 +131,54 @@ Subsec. (c). Pub. L. 102–484, §2801(e)(3), inserted heading.
 Subsecs. (d), (e). Pub. L. 102–484, §2801(a)(3), (b), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
 Subsec. (f). Pub. L. 102–484, §2801(a)(2), (d), (e)(4), redesignated subsec. (d) as (f), inserted heading, and substituted “not later than December 31 of each year” for “Beginning with fiscal year 1991 and by no later than December 31, 1991, and of each year thereafter”.
+
+#### Department of Defense Energy Efficiency Program
+
+Pub. L. 107–107, div. A, title III, §317, Dec. 28, 2001, 115 Stat. 1054, provided that:
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that the Secretary of Defense should work to implement fuel efficiency reforms that allow for investment decisions based on the true cost of delivered fuel, strengthen the linkage between warfighting capability and fuel logistics requirements, provide high-level leadership encouraging fuel efficiency, target fuel efficiency improvements through science and technology investment, and include fuel efficiency in requirements and acquisition processes.
+
+“(b)
+
+Energy Efficiency Program.—The Secretary shall carry out a program to significantly improve the energy efficiency of facilities of the Department of Defense through 2010. The Secretary shall designate a senior official of the Department of Defense to be responsible for managing the program for the Department and a senior official of each military department to be responsible for managing the program for such department.
+
+“(c)
+
+Energy Efficiency Goals.—The goal of the energy efficiency program shall be to achieve reductions in energy consumption by facilities of the Department of Defense as follows:
+
+&emsp;“(1) In the case of industrial and laboratory facilities, reductions in the average energy consumption per square foot of such facilities, per unit of production or other applicable unit, relative to energy consumption in 1990—
+
+&emsp;&emsp;“(A) by 20 percent by 2005; and
+
+&emsp;&emsp;“(B) by 25 percent by 2010.
+
+&emsp;“(2) In the case of other facilities, reductions in average energy consumption per gross square foot of such facilities, relative to energy consumption per gross square foot in 1985—
+
+&emsp;&emsp;“(A) by 30 percent by 2005; and
+
+&emsp;&emsp;“(B) by 35 percent by 2010.
+
+“(d)
+
+Strategies for Improving Energy Efficiency.—In order to achieve the goals set forth in subsection (c), the Secretary shall, to the maximum extent practicable—
+
+&emsp;“(1) purchase energy-efficient products, as so designated by the Environmental Protection Agency and the Department of Energy, and other products that are energy-efficient;
+
+&emsp;“(2) utilize energy savings performance contracts, utility energy-efficiency service contracts, and other contracts designed to achieve energy conservation;
+
+&emsp;“(3) use life-cycle cost analysis, including assessment of life-cycle energy costs, in making decisions about investments in products, services, construction, and other projects;
+
+&emsp;“(4) conduct energy efficiency audits for approximately 10 percent of all Department of Defense facilities each year;
+
+&emsp;“(5) explore opportunities for energy efficiency in industrial facilities for steam systems, boiler operation, air compressor systems, industrial processes, and fuel switching; and
+
+&emsp;“(6) retire inefficient equipment on an accelerated basis where replacement results in lower life-cycle costs.
+
+“(e)
+
+Reporting Requirements.—Not later than January 1, 2002, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123 (64 Fed. Reg. 30851; 42 U.S.C. 8251 note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense.”
 
 #### Section Referred to in Other Sections
 

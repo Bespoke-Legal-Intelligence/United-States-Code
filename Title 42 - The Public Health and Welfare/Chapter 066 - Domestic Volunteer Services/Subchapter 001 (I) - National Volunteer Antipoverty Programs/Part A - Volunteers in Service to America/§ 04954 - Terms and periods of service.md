@@ -14,7 +14,7 @@ Volunteers serving under this part shall be required to make a full-time persona
 
 #### (c) Oath or affirmation
 
-Volunteers under this part shall, upon enrollment, take the oath of office as prescribed for persons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (oraffirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except that persons legally residing within a State but who are not citizens or nationals of the United States, may serve under this part without taking or subscribing to such oath, if the Director determines that the service of such persons will further the interests of the United States. Such persons shall take such alternative oath or affirmation as the Director shall deem appropriate.
+Volunteers under this part shall, upon enrollment, take the oath of office as prescribed for persons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (or affirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except that persons legally residing within a State but who are not citizens or nationals of the United States, may serve under this part without taking or subscribing to such oath, if the Director determines that the service of such persons will further the interests of the United States. Such persons shall take such alternative oath or affirmation as the Director shall deem appropriate.
 
 #### (d) Grievance and personal view presentation procedure; notice and hearing; information
 
@@ -50,7 +50,7 @@ Section 101(c) of Pub. L. 101–204, as amended by Pub. L. 103–82, title IV, �
 
 “(1)
 
-In general.—Notwithstanding the limitations established in section 104(b) of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4954(b)) for the maximum period of service as a volunteer under part A of title I of such Act (42 U.S.C. 4951 et seq.), the Chief Executive Officer of the Corporation for National and Community Service may, subject to paragraphs (2) and (3), extend beyond such maximum the period of service for such volunteer in any case in which—
+In general.—Notwithstanding the limitations established in section 104(b) of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4954(b)) for the maximumperiod of service as a volunteer under part A of title I of such Act (42 U.S.C. 4951 et seq.), the Chief Executive Officer of the Corporation for National and Community Service may, subject to paragraphs (2) and (3), extend beyond such maximum the period of service for such volunteer in any case in which—
 
 &emsp;“(A) such extension is requested by the project or program to which such volunteer involved is assigned; and
 

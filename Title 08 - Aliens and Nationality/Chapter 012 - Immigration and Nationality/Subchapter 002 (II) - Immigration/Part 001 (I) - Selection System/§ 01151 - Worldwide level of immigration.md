@@ -118,7 +118,7 @@ Subsecs. (c) to (e). Pub. L. 94–571, §2(2), struck out subsec. (c) which prov
 
 1965—Subsec. (a). Pub. L. 89–236 substituted provisions setting up a 170,000 maximum on total annual immigration and 45,000 maximum on total quarterly immigration without regard to national origins, for provisions setting an annual quota for quota areas which allowed admission of one-sixth of one per centum of portion of national population of continental United States in 1920 attributable by national origin of that quota area and setting a minimum quota of 100 for each quota area.
 
-Subsec. (b). Pub. L. 89–236 substituted provisions defining “immediate relatives” for provisions calling for a determination of annual quota for each quota area by Secretaries of State and Commerce and Attorney General, and proclamation of quotas by President.
+Subsec. (b). Pub. L. 89–236 substituted provisions defining “immediate relatives” for provisions calling fora determination of annual quota for each quota area by Secretaries of State and Commerce and Attorney General, and proclamation of quotas by President.
 
 Subsec. (c). Pub. L. 89–236 substituted provisions allowing carryover through June 30, 1968, of quotas for quota areas in effect on June 30, 1965, and redistribution of unused quota numbers, for provisions which limited issuance of immigrant visas.
 

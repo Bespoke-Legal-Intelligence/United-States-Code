@@ -66,7 +66,7 @@ For purposes of this section, any distribution to shareholders shall be treated 
 
 #### (e) Existing policyholders surplus account
 
-For purposes of this section, the term “existing policyholders surplus account” means anypolicyholders surplus account which has a balance as of the close of December 31, 1983.
+For purposes of this section, the term “existing policyholders surplus account” means any policyholders surplus account which has a balance as of the close of December 31, 1983.
 
 #### (f) Other rules applicable to policyholders surplus account continued
 

@@ -16,7 +16,7 @@ Every employer shall pay to each of his employees who in any workweek is engaged
 
 #### (b) Additional applicability to employees pursuant to subsequent amendatory provisions
 
-Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) of this section applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to thischapter by the Fair Labor Standards Amendments of 1966; title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1) of this section.
+Every employer shall pay to each of his employees (other than an employee to whom subsection (a)(5) of this section applies) who in any workweek is engaged in commerce or in the production of goods for commerce, or is employed in an enterprise engaged in commerce or in the production of goods for commerce, and who in such workweek is brought within the purview of this section by the amendments made to thischapter by the Fair Labor Standards Amendments of 1966, title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or the Fair Labor Standards Amendments of 1974, wages at the following rate: Effective after December 31, 1977, not less than the minimum wage rate in effect under subsection (a)(1) of this section.
 
 #### (c) Repealed. Pub. L. 104–188, \[title II\], §2104(c), Aug. 20, 1996, 110 Stat. 1929
 
@@ -388,5 +388,5 @@ The term “Administrator” as meaning the Administrator of the Wage and Hour D
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 203, 205, 207, 208, 213, 214, 215, 216, 218, 721, 2617, 2931 of this title; title 2 sections 60k, 1313; title 3 section 413; title 5 sections 2302, 5343, 5349, 7702; title 7 sections 2015, 2026; title 10 section 1588; title 15 section 1673; title 20 section 1085; title 21 section 849; title 22 sections 2506, 3905, 3967, 3968, 3969, 4131; title 24 section 422; title 26 section 45B; title 38 sections 1720, 3485; title 41 section 351; title 42 sections 300e–9, 431, 1320b–22, 1396d, 2000e–2, 2753, 3056, 8009, 8011, 9848.
+This section is referred to in sections 203, 205, 207, 208, 213, 214, 215, 216, 218, 721, 2617, 2931 of this title; title 2 sections 60k, 1313; title 3 section 413; title 5 sections 2302, 5343, 5349, 7702; title 7 sections 2015, 2026; title 10 section 1588; title 15 section 1673; title 20 section 1085; title 21 section 849; title 22 sections 2506, 3905, 3967, 3968, 3969, 4131; title 24 section 422; title 26 section 45B; title 38 sections 1720, 3485; title 41 section 351; title 42 sections 300e–9, 431, 1320b–22, 1396d, 2000e–2, 2753, 3056, 3056d, 8009, 8011, 9848.
 

@@ -2,7 +2,7 @@
 
 #### (a) Submission; contractual nature of approval by Administrator; agreement on eligible costs; single grant
 
-(1) Each applicant for a grant shall submit to the Administrator for his approval, plans, specifications, and estimates for each proposed project for the construction of treatment works for which a grant is applied for under section 1281(g)(1) of this title from funds allotted to the State under section 1285 of this title and whichotherwise meets the requirements of this chapter. The Administrator shall act upon such plans, specifications, and estimates as soon as practicable after the same have been submitted, and his approval of any such plans, specifications, and estimates shall be deemed a contractual obligation of the United States for the payment of its proportional contribution to such project.
+(1) Each applicant for a grant shall submit to the Administrator for his approval, plans, specifications, and estimates for each proposed project for the construction of treatment works for which a grant is applied for under section 1281(g)(1) of this title from funds allotted to the State under section 1285 of this title and which otherwise meets the requirements of this chapter. The Administrator shall act upon such plans, specifications, and estimates as soon as practicable after the same have been submitted, and his approval of any such plans, specifications, and estimates shall be deemed a contractual obligation of the United States for the payment of its proportional contribution to such project.
 
 (2)
 

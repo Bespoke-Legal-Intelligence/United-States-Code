@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(F) Import-sensitive semimanufactured and manufactured glass products.
 
-&emsp;&emsp;(G) Any other articles which the President determines to be import-sensitive in the context of the Generalized System of Preferences.
+&emsp;&emsp;(G) Any other articles which the President determines to be import-sensitive in thecontext of the Generalized System of Preferences.
 
 #### (2) Articles against which other actions taken
 
@@ -194,7 +194,7 @@
 
 #### (e) International Trade Commission advice
 
-Before designating articles as eligible articles under subsection (a)(1) of this section, the President shall publish and furnish the International Trade Commission with lists of articles which may be considered for designation as eligible articles for purposes of this subchapter. The provisions of sections 2151, 2152, 2153, and 2154 of this title shall be complied with as though action under section 2461 of this title and this sectionwere action under section 2133 of this title to carry out a trade agreement entered into under section 2133 of this title.
+Before designating articles as eligible articles under subsection (a)(1) of this section, the President shall publish and furnish the International Trade Commission with lists of articles which may be considered for designation as eligible articles for purposes of this subchapter. The provisions of sections 2151, 2152, 2153, and 2154 of this title shall be complied with as though action under section 2461 of this title and this section were action under section 2133 of this title to carry out a trade agreement entered into under section 2133 of this title.
 
 #### (f) Special rule concerning Puerto Rico
 

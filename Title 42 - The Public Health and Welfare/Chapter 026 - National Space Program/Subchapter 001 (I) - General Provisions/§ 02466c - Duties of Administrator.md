@@ -10,7 +10,7 @@ Each year the Administrator shall submit to the President of the Senate, the Spe
 
 #### (c) Reduction of base price
 
-(1) If at any time the Administrator finds that the policy goals contained in section 2466a of this title are not being achieved, the Administrator shall have authority to reduce the baseprice established in subsection (a) of this section after forty-five days following receipt by the President of the Senate, the Speaker of the House, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives of a notice by the Administrator containing a description of the proposed reduction together with a full and complete statement of the facts and circumstances which necessitate such proposed reduction.
+(1) If at any time the Administrator finds that the policy goals contained in section 2466a of this title are not being achieved, the Administrator shall have authority to reduce the base price established in subsection (a) of this section after forty-five days following receipt by the President of the Senate, the Speaker of the House, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives of a notice by the Administrator containing a description of the proposed reduction together with a full and complete statement of the facts and circumstances which necessitate such proposed reduction.
 
 (2) In no case shall the minimum price established under subsection (c)(1) of this section be less than additive cost.
 
@@ -38,7 +38,7 @@ Committee on Science, Space, and Technology of House of Representatives treated 
 
 #### Effective Date
 
-Section applicable to flights of the Space Transportation System beginning on and after Oct. 1, 1988, see section 205 of Pub. L. 99–170, set out as a note under section 2466 of this title.
+Section applicable to flights of the Space Transportation System beginning on and after Oct. 1, 1988, seesection 205 of Pub. L. 99–170, set out as a note under section 2466 of this title.
 
 #### Feasibility of Providing Space Shuttle Launch Services on Basis of Royalty Recovery Over Economic Life of Commercial Products Processed in Space
 

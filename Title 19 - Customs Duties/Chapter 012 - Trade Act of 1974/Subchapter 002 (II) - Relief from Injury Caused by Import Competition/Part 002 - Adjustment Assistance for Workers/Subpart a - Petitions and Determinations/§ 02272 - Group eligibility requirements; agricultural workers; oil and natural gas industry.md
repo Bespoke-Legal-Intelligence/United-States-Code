@@ -1,6 +1,6 @@
 ### §2272. Group eligibility requirements; agricultural workers; oil and natural gas industry
 
-(a) The Secretary shall certify a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) as eligible to apply for adjustment assistance under this subpart if he determines—
+(a) The Secretary shall certify a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) aseligible to apply for adjustment assistance under this subpart if he determines—
 
 &emsp;(1) that a significant number or proportion of the workers in such workers’ firm or an appropriate subdivision of the firm have become totally or partially separated, or are threatened to become totally or partially separated,
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 97–35 applicable to petitions filed on or after Oct. 1, 1
 
 #### Termination Date
 
-No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of thispart after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Workers Covered by Certification Notwithstanding Other Law
 

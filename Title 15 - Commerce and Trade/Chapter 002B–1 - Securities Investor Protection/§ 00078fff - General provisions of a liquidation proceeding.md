@@ -22,7 +22,7 @@ To the extent consistent with the provisions of this chapter, a liquidation proc
 
 #### (c) Determination of customer status
 
-In a liquidation proceeding under this chapter, whenever a person has acted with respect tocash or securities with the debtor after the filing date and in a manner which would have given him the status of a customer with respect to such cash or securities had the action occurred prior to the filing date, and the trustee is satisfied that such action was taken by the customer in good faith and prior to the appointment of the trustee, the date on which such action was taken shall be deemed to be the filing date for purposes of determining the net equity of such customer with respect to such cash or securities.
+In a liquidation proceeding under this chapter, whenever a person has acted with respect to cash or securities with the debtor after the filing date and in a manner which would have given him the status of a customer with respect to such cash or securities had the action occurred prior to the filing date, and the trustee is satisfied that such action was taken by the customer in good faith and prior to the appointment of the trustee, the date on which such action was taken shall be deemed to be the filing date for purposes of determining the net equity of such customer with respect to such cash or securities.
 
 #### (d) Apportionment
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 95–598, §308(g), in heading substituted “title 11” f
 
 Pub. L. 95–283 in heading substituted “Application of Bankruptcy Act” for “Powers and Duties of Trustee”, and in text substituted provisions relating to applicability of Bankruptcy Act to liquidation proceedings, for provisions relating to the powers and duties of trustees. See section 78fff–1 of this title.
 
-Subsec. (c). Pub. L. 95–283 in heading substituted “Determination of customer status” for “Application of Bankruptcy Act”, and in text substituted provisions relating to determination of status of a customer with respect to cash or securities, for provisions setting forth general and special provisions of the Bankruptcy Act applicable to liquidation proceedings, and defining terms for purposes of such applicability and the provisions of this section. See subsec. (b) of this section and section 78fff–2(c) of this title.
+Subsec. (c). Pub. L. 95–283 in heading substituted “Determination of customer status” for “Application ofBankruptcy Act”, and in text substituted provisions relating to determination of status of a customer with respect to cash or securities, for provisions setting forth general and special provisions of the Bankruptcy Act applicable to liquidation proceedings, and defining terms for purposes of such applicability and the provisions of this section. See subsec. (b) of this section and section 78fff–2(c) of this title.
 
 Subsec. (d). Pub. L. 95–283 in heading substituted “Apportionment” for “Completion of open contractual commitments”, and in text substituted provisions relating to apportionment of cash or securities remaining after the liquidation of a lien or pledge made by a debtor, for provisions relating to completion by the trustee of open contractual commitments, which were made in the ordinary course of the debtor's business and which were outstanding on the filing date. See section 78fff–2(e) of this title.
 

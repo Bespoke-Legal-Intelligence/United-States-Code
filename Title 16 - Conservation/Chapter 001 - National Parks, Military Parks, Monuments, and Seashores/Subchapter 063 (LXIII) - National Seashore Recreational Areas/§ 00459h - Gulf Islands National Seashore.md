@@ -28,7 +28,7 @@ In order to preserve for public use and enjoyment certain areas possessing outst
 
 #### (3) Cat Island
 
-&emsp;Upon its acquisition by the Secretary, the area described in this paragraph is the parcel consisting of approximately 2,000 acres of land on Cat Island, Mississippi, as generally depicted on the map entitled “Boundary Map,Gulf Islands National Seashore, Cat Island, Mississippi”, numbered 635/80085, and dated November 9, 1999 (referred to in sections 459h to 459h–10 of this title <sup>1</sup> as the “Cat Island Map”).
+&emsp;Upon its acquisition by the Secretary, the area described in this paragraph is the parcel consisting of approximately 2,000 acres of land on Cat Island, Mississippi, as generally depicted on the map entitled “Boundary Map, Gulf Islands National Seashore, Cat Island, Mississippi”, numbered 635/80085, and dated November 9, 1999 (referred to in sections 459h to 459h–10 of this title <sup>1</sup> as the “Cat Island Map”).
 
 #### (4) Availability of Map
 

@@ -44,5 +44,5 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4308, 4310 of this title.
+This section is referred to in section 4308 of this title.
 

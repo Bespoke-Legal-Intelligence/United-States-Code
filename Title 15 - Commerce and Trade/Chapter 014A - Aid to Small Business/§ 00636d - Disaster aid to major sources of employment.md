@@ -6,7 +6,7 @@ The Small Business Administration in the case of a nonagricultural enterprise, a
 
 #### (b) Interest; deferred payments
 
-Assistance under this section shall be in addition to any other Federal disaster assistance, except that such other assistance may be adjusted or modified to the extent deemed appropriate by the Director under the authority of section 4418 <sup>1</sup> of title 42. Any loan made under this section shall be subject to the interest requirements of section 636b of this title, but the President, if he deems it necessary, may defer payments of principal and interest for a period not to exceed three years after the date of the loan. Any such deferred payments shall bear interest at the rate determined under section 636b of this title.
+Assistance under this section shall be in addition to any other Federal disaster assistance,except that such other assistance may be adjusted or modified to the extent deemed appropriate by the Director under the authority of section 4418 <sup>1</sup> of title 42. Any loan made under this section shall be subject to the interest requirements of section 636b of this title, but the President, if he deems it necessary, may defer payments of principal and interest for a period not to exceed three years after the date of the loan. Any such deferred payments shall bear interest at the rate determined under section 636b of this title.
 
 (Pub. L. 91–606, title II, §237, Dec. 31, 1970, 84 Stat. 1754.)
 

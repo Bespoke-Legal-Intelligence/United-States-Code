@@ -146,7 +146,7 @@ In subsection (b)(2), the words “Amounts made available under section 404(a)(2
 
 In subsection (c), the words “Funds authorized to be appropriated” are omitted because of the omission of 49 App.:2304(a)(1) as obsolete.
 
-In subsection (e), the words “for administrative expenses incurred in carrying out section 31102 of this title” are substituted for “for administration of this section” for clarity and consistency with the source provisions restated in this section and section 31102 of the revised title.
+In subsection (e), the words “for administrative expenses incurred in carrying out section 31102 of thistitle” are substituted for “for administration of this section” for clarity and consistency with the source provisions restated in this section and section 31102 of the revised title.
 
 In subsection (i), before clause (1), the words “Not later than 6 months after December 18, 1991” are omitted as obsolete. The words “for grants under section 31102(a) of this title” are substituted for “under the motor carrier safety assistance program” for clarity and because of the restatement. The words “In prescribing those regulations” are substituted for “In conducting such a revision” because of the restatement.
 

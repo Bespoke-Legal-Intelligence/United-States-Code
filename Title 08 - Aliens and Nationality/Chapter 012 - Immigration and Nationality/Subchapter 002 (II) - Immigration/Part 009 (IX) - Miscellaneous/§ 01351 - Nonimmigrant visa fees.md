@@ -30,9 +30,11 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Surcharge for Processing Machine Readable Nonimmigrant Visas
 
-Pub. L. 106–553, §1(a)(2) \[title IV\], Dec. 21, 2000, 114 Stat. 2762, 2762A–90, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[Pub. L. 103–236, set out below\], fees may be collected during fiscal years 2001 and 2002, under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 2001 and 2002 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended”.
+Pub. L. 107–77, title IV, Nov. 28, 2001, 115 Stat. 783, provided in part: “That notwithstanding section 140(a)(5), and the second sentence of section 140(a)(3), of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[Pub. L. 103–236, set out below\], fees may be collected during fiscal years 2002 and 2003, under the authority of section 140(a)(1) of that Act: <i>Provided further</i>, That all fees collected under the preceding proviso shall be deposited in fiscal years 2002 and 2003 as an offsetting collection to appropriations made under this heading to recover costs as set forth under section 140(a)(2) of that Act and shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriations acts:
+
+Pub. L. 106–553, §1(a)(2) \[title IV\], Dec. 21, 2000, 114 Stat. 2762, 2762A–90.
 
 Pub. L. 106–113, div. B, §1000(a)(1) \[title IV\], Nov. 29, 1999, 113 Stat. 1535, 1501A–39.
 
@@ -72,7 +74,7 @@ Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended b
 
 “(1) Notwithstanding any other provision of law, the Secretary of State is authorized to charge a fee or surcharge for processing machine readable nonimmigrant visas and machine readable combined border crossing identification cards and nonimmigrant visas.
 
-“(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to anyDepartment of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
+“(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to any Department of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
 
 “(3) For each of the fiscal years 2000, 2001, and 2002, any amount collected under paragraph (1) that exceeds $316,715,000 for fiscal year 2000, $316,715,000 for fiscal year 2001, and $316,715,000 for fiscal year 2002 may be made available only if a notification is submitted to Congress in accordance with the procedures applicable to reprogramming notifications under section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\]. For subsequent fiscal years, fees may be collected under the authority of paragraph (1) only in such amounts as shall be prescribed in subsequent authorization Acts.”
 

@@ -10,21 +10,25 @@ No principal underwriter for or depositor of a registered unit investment trust 
 
 &emsp;(3) provides, in substance, that the trustee or custodian shall not resign until either (A) the trust has been completely liquidated and the proceeds of the liquidation distributed to the security holders of the trust, or (B) a successor trustee or custodian, having the qualifications prescribed in paragraph (1) of this subsection, has been designated and has accepted such trusteeship or custodianship; and
 
-&emsp;(4) provides, in substance, (A) that a record will be kept by the depositor or an agent of the depositor of the name and address of, and the shares issued by the trust and held by, every holder of any security issued pursuant to such instrument, insofar as such information is known to the depositor or agent; and (B) that whenever a security is deposited with the trustee in substitution for any security in which such security holder has an undivided interest, the depositor or the agent of the depositor will, within five days after such substitution, either deliver or mail to such security holder a notice of substitution, including an identification of the securities eliminated and the securities substituted, and a specification of the shares of such security holder affected by the substitution.
+&emsp;(4) provides, in substance, (A) that a record will be kept by the depositor or an agent of the depositor of the name and address of, and the shares issued by the trust and held by, every holder of any security issued pursuant to such instrument, insofar as such information is known to the depositor or agent; and (B) that whenever a security is deposited with the trustee in substitution for any security in which such security holder has an undivided interest, the depositor or the agent of the depositor will, within five days after such substitution, either deliver or mail to such security holder a notice of substitution, including an identification of the securities eliminated andthe securities substituted, and a specification of the shares of such security holder affected by the substitution.
 
-#### (b) Substitution of securities
+#### (b) Bank or affiliated person of bank as trustee or custodian
+
+The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person of a principal underwriter for, or depositor of, a registered unit investment trust, may serve as trustee or custodian under subsection (a)(1) of this section.
+
+#### (c) Substitution of securities
 
 It shall be unlawful for any depositor or trustee of a registered unit investment trust holding the security of a single issuer to substitute another security for such security unless the Commission shall have approved such substitution. The Commission shall issue an order approving such substitution if the evidence establishes that it is consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter.
 
-#### (c) Binding contract or agreement embodying applicable provisions deemed to qualify non-complying instrument by which securities were issued
+#### (d) Binding contract or agreement embodying applicable provisions deemed to qualify non-complying instrument by which securities were issued
 
-In the event that a trust indenture, agreement of custodianship, or other instrument pursuantto which securities of a registered unit investment trust are issued does not comply with the requirements of subsection (a) of this section, such instrument will be deemed to meet such requirements if a written contract or agreement binding on the parties and embodying such requirements has been executed by the depositor on the one part and the trustee or custodian on the other part, and three copies of such contract or agreement have been filed with the Commission.
+In the event that a trust indenture, agreement of custodianship, or other instrument pursuant to which securities of a registered unit investment trust are issued does not comply with the requirements of subsection (a) of this section, such instrument will be deemed to meet such requirements if a written contract or agreement binding on the parties and embodying such requirements has been executed by the depositor on the one part and the trustee or custodian on the other part, and three copies of such contract or agreement have been filed with the Commission.
 
-#### (d) Liquidation of unit investment trust
+#### (e) Liquidation of unit investment trust
 
 Whenever the Commission has reason to believe that a unit investment trust is inactive and that its liquidation is in the interest of the security holders of such trust, the Commission may file a complaint seeking the liquidation of such trust in the district court of the United States in any district wherein any trustee of such trust resides or has its principal place of business. A copy of such complaint shall be served on every trustee of such trust, and notice of the proceeding shall be given such other interested persons in such manner and at such times as the court may direct. If the court determines that such liquidation is in the interest of the security holders of such trust, the court shall order such liquidation and, after payment of necessary expenses, the distribution of the proceeds to the security holders of the trust in such manner and on such terms as may to the court appear equitable.
 
-#### (e) Exemption
+#### (f) Exemption
 
 #### (1) In general
 
@@ -54,19 +58,9 @@ Whenever the Commission has reason to believe that a unit investment trust is in
 
 (Aug. 22, 1940, ch. 686, title I, §26, 54 Stat. 827; Pub. L. 91–547, §15, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 100–181, title VI, §§618, 619, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 104–290, title II, §205(a), Oct. 11, 1996, 110 Stat. 3429; Pub. L. 106–102, title II, §211(b), Nov. 12, 1999, 113 Stat. 1396.)
 
-#### Amendment of Section
-
-<i>Pub. L. 106–102, title II, §§211(b), 225, Nov. 12, 1999, 113 Stat. 1396, 1402, provided that, effective 18 months after Nov. 12, 1999, this section is amended—</i>
-
-<i>(1) by redesignating subsections (b) through (e) as subsections (c) through (f), respectively; and</i>
-
-<i>(2) by inserting after subsection (a) the following new subsection:</i>
-
-#### (b) Bank or affiliated person of bank as trustee or custodian
-
-The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person of a principal underwriter for, or depositor of, a registered unit investment trust, may serve as trustee or custodian under subsection (a)(1) of this section.
-
 #### Amendments
+
+1999—Subsecs. (b) to (f). Pub. L. 106–102 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
 1996—Subsec. (e). Pub. L. 104–290 added subsec. (e).
 

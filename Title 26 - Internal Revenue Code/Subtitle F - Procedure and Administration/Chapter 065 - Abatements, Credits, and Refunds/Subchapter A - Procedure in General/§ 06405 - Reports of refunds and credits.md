@@ -40,7 +40,7 @@ Subsec. (e). Pub. L. 92–512 added subsec. (e).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: “Theamendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\], except that such amendment shall not apply with respect to any refund or credit with respect to a report that has been made before such date of the enactment under section 6405 of the Internal Revenue Code of 1986.”
+Pub. L. 106–554, §1(a)(7) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\], except that such amendment shall not apply with respect to any refund or credit with respect to a report that has been made before such date of the enactment under section 6405 of the Internal Revenue Code of 1986.”
 
 #### Effective Date of 1990 Amendment
 

@@ -46,7 +46,7 @@ The Commission may, by rule, condition the importation of a consumer product on 
 
 (3) The Commission shall periodically report to the Congress the results of the surveillance program under paragraph (1).
 
-(Pub. L. 92–573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §114, Nov. 16, 1990, 104 Stat. 3118.)
+(Pub. L. 92–573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102Stat. 1156; Pub. L. 101–608, title I, §114, Nov. 16, 1990, 104 Stat. 3118.)
 
 #### References in Text
 

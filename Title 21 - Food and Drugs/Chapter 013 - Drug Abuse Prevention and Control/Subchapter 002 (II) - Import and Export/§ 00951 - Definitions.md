@@ -22,7 +22,7 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date
 
@@ -36,7 +36,7 @@ Section 1105(a)–(c) of title III of Pub. L. 91–513, as amended by Pub. L. 99
 
 “(2) Effective for any period of postponement, by paragraph (1) of this subsection, of the repeal of provisions of the Narcotics Manufacturing Act of 1960 \[sections 501 to 517 of this title\], that Act shall be applied subject to the following modifications:
 
-“(A) The term ‘narcotic drug’ shall mean a narcotic drug as defined in section 102(16) of title II \[section 802(16) of this title\], and all references, in the Narcotics Manufacturing Act of 1960 \[sections 501 to 517 of this title\], to a narcotic drug as defined by section 4731 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4731 of Title 26\] are amended to refer to a narcotic drug as defined by such section 102(16) \[section 802(16) of this title\].
+“(A) The term ‘narcotic drug’ shall mean a narcotic drug as defined in section 102(16) of title II \[section802(16) of this title\], and all references, in the Narcotics Manufacturing Act of 1960 \[sections 501 to 517 of this title\], to a narcotic drug as defined by section 4731 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4731 of Title 26\] are amended to refer to a narcotic drug as defined by such section 102(16) \[section 802(16) of this title\].
 
 “(B) On and after the date prescribed by the Attorney General pursuant to clause (2) of section 703(c) of title II, \[set out as a note under section 822 of this title\], the requirements of a manufacturer's license with respect to a basic class of narcotic drug under the Narcotics Manufacturing Act of 1960 \[sections 501 to 517 of this title\], and of a registration under section 4722 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4722 of Title 26\] as a prerequisite to issuance of such a license, shall be superseded by a requirement of actual registration (as distinguished from provisional registration) as a manufacturer of that class of drug under section 303(a) of title II \[section 823(a) of this title\].
 

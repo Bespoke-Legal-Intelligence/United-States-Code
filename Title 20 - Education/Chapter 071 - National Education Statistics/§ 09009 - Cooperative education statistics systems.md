@@ -10,7 +10,3 @@ The Commissioner, working through the cooperative education statistics system, s
 
 (Pub. L. 103–382, title IV, §410, Oct. 20, 1994, 108 Stat. 4036.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 8824 of this title.
-

@@ -56,7 +56,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;The Commissioner may not make financial assistance available to a grant recipient for a subsequent year until the Commissioner has received and evaluated the annual report of the recipient under subparagraph (A) for the current year.
+&emsp;&emsp;The Commissioner may not make financial assistance available to a grant recipient for a subsequent year until the Commissionerhas received and evaluated the annual report of the recipient under subparagraph (A) for the current year.
 
 #### (b) Authorization of appropriations
 

@@ -16,7 +16,7 @@ There shall not be considered as a day of unemployment, or as a day of sickness,
 
 (B) if the Board finds that he left work voluntarily with good cause, the provisions of subdivision (A) shall not apply, with respect to him, to any day in a registration period if such period does not include any day which is in a period for which he could receive benefits under an unemployment compensation law other than this chapter, and he so certifies. Such certification shall, in the absence of evidence to the contrary, be accepted subject to the penalty provisions of section 359(a) of this title;
 
-(ii) any of the thirty days beginning with the day with respect to which the Board finds that he failed, without good cause, to accept suitablework available on such day and offered to him, or to comply with instructions from the Board requiring him to apply for suitable work or to report, in person or by mail as the Board may require, to an employment office;
+(ii) any of the thirty days beginning with the day with respect to which the Board finds that he failed, without good cause, to accept suitable work available on such day and offered to him, or to comply with instructions from the Board requiring him to apply for suitable work or to report, in person or by mail as the Board may require, to an employment office;
 
 (iii) subject to the provisions of subsection (b) of this section, any day with respect to which the Board finds that his unemployment was due to a stoppage of work because of a strike in the establishment, premises, or enterprise at which he was last employed, and the Board finds that such strike was commenced in violation of the provisions of the Railway Labor Act \[45 U.S.C. 151 et seq.\] or in violation of the established rules and practices of a bona fide labor organization of which he was a member.
 
@@ -26,7 +26,7 @@ The disqualification provided in subsection (a–2)(iii) of this section shall n
 
 &emsp;(i) the employee is not participating in or financing or directly interested in the strike which causes the stoppage of work: <i>Provided</i>, That payment of regular union dues shall not be construed to constitute financing a strike or direct interest in a strike within the meaning of this and the following paragraphs; and
 
-&emsp;(ii) he does not belong to a grade or class of workers of which, immediately before the commencement of the stoppage, there were members employed in the establishment, premises, or enterprise at which the stoppage occurs, any of whom are participating in or financing or directly interested in the dispute: <i>Provided</i>, That if separate types of work are commonly conducted in separate departments of a single enterprise, each such department shall, for the purposes of this subsection, be deemed to be a separate establishment, enterprise, or other premises.
+&emsp;(ii) he does not belong to a grade or class of workers of which, immediately before the commencement of the stoppage, there were members employed in the establishment, premises, or enterprise at which the stoppage occurs, any of whom are participating in or financing or directly interested in the dispute: <i>Provided</i>, That if separate types of work arecommonly conducted in separate departments of a single enterprise, each such department shall, for the purposes of this subsection, be deemed to be a separate establishment, enterprise, or other premises.
 
 #### (c) Unsuitable work
 
@@ -78,7 +78,7 @@ Subsec. (a–2)(i)(A). Pub. L. 90–257, §204(b), substituted “$1,000” for 
 
 1958—Subsec. (a–1)(ii). Pub. L. 85–927 substituted “other than this chapter or any other social-insurance payments under any law” for “of any State of the United States other than this chapter, or any other social-insurance payments under a law of any State or of the United States”.
 
-1951—Subsec. (a–1). Act Oct. 30, 1951, struck out cls. (iii) and (iv) which excepted from consideration as a day of unemployment or as a day of sickness, any days in any registration period in which the employee had certain specified earnings.
+1951—Subsec. (a–1). Act Oct. 30, 1951, struck out cls. (iii) and (iv) which excepted from consideration as aday of unemployment or as a day of sickness, any days in any registration period in which the employee had certain specified earnings.
 
 1946—Subsec. (a–1). Act July 31, 1946, §309(a), (b), designated provisions of former subsec. (a) which apply both to days of unemployment and to days of sickness as subsec. (a–1) and changed cl. (ii) to include sickness and maternity benefits.
 

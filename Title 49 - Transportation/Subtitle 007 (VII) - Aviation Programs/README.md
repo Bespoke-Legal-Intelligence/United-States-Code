@@ -63,6 +63,7 @@
 | :--- | :---: | ---: |
 | [<b>481.</b>](Part%20C%20-%20Financing/Chapter%20481%20-%20Airport%20and%20Airway%20Trust%20Fund%20Authorizations/README.md) | <b>Airport and Airway Trust Fund Authorizations</b> | <b>48101</b> |
 | [<b>482.</b>](Part%20C%20-%20Financing/Chapter%20482%20-%20Advance%20Appropriations%20for%20Airport%20and%20Airway%20Trust%20Facilities/README.md) | <b>Advance Appropriations for Airport and Airway Trust Facilities</b> | <b>48201</b> |
+| [<b>483.</b>](Part%20C%20-%20Financing/Chapter%20483%20-%20Aviation%20Security%20Funding/README.md) | <b>Aviation Security Funding</b> | <b>48301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -83,6 +84,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–71, title I, §118(c)(2), Nov. 19, 2001, 115 Stat. 628, added item for chapter 483.
 
 1997—Pub. L. 105–102, §2(20), Nov. 20, 1997, 111 Stat. 2205, substituted “PUBLIC AIRPORTS” for “RESERVED” in item for part D and added item for chapter 491.
 

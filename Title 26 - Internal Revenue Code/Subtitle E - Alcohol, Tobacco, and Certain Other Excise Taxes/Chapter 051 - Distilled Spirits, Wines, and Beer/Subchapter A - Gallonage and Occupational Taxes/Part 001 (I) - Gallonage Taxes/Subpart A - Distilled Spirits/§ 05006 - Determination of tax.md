@@ -28,7 +28,7 @@
 
 #### (1) General
 
-&emsp;The tax on any distilled spirits, removed from the place where they were distilled and (except as otherwise provided by law) not deposited in storage on bonded premises of a distilled spirits plant, shall, at any time within the period of limitation provided in section 6501, when knowledge of such fact is obtained by the Secretary, be assessed on the distiller of such distilled spirits (or other person liable for the tax) and payment of such tax immediately demanded and, on the neglect or refusal of payment, the Secretary shall proceed to collect the same by distraint. This paragraph shall not exclude any other remedy or proceeding provided by law.
+&emsp;The tax on any distilled spirits, removed from the place where they were distilled and (except as otherwise provided by law) not deposited in storage on bonded premises of a distilled spirits plant, shall, at any time within the period of limitation provided in section 6501, when knowledge of such fact is obtained by the Secretary, be assessed on the distiller of such distilled spirits (or other person liablefor the tax) and payment of such tax immediately demanded and, on the neglect or refusal of payment, the Secretary shall proceed to collect the same by distraint. This paragraph shall not exclude any other remedy or proceeding provided by law.
 
 #### (2) Production at other than qualified plants
 

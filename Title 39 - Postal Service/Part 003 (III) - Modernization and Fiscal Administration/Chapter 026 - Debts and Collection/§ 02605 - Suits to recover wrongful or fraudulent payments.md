@@ -1,6 +1,6 @@
 ### §2605. Suits to recover wrongful or fraudulent payments
 
-The Postal Service shall request the Attorney General to bring a suit to recover with interestany payment made from moneys of, or credit granted by, the Postal Service as a result of—
+The Postal Service shall request the Attorney General to bring a suit to recover with interest any payment made from moneys of, or credit granted by, the Postal Service as a result of—
 
 &emsp;(1) mistake;
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) willfully fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure,
 
-&emsp;&emsp;(C) connives or conspires, or takes any other action, designed to prevent or hamper or with the purpose of preventing or hampering the alien's departure pursuant to such, or
+&emsp;&emsp;(C) connives or conspires, or takes any other action, designed to prevent or hamperor with the purpose of preventing or hampering the alien's departure pursuant to such, or
 
 &emsp;&emsp;(D) willfully fails or refuses to present himself or herself for removal at the time and place required by the Attorney General pursuant to such order,
 
@@ -82,7 +82,7 @@ Subsec. (h)(3). Pub. L. 104–132, §413(f), added par. (3) which read as follow
 
 &emsp;“(A) such alien's life or freedom would be threatened, in the country to which such alien would be deported or returned, on account of race, religion, nationality, membership in a particular social group, or political opinion; and
 
-&emsp;“(B) the application of paragraph (1) to such alien is necessary to ensure compliance with the 1967 United Nations Protocol Relating to the Status of Refugees.”
+&emsp;“(B) the application of paragraph (1) to such alien is necessary to ensure compliance with the 1967United Nations Protocol Relating to the Status of Refugees.”
 
 1990—Subsec. (h)(1). Pub. L. 101–649, §603(b)(3), substituted “1251(a)(4)(D)” for “1251(a)(19)”.
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–212 effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscalyear beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 96–212 effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1965 Amendment
 

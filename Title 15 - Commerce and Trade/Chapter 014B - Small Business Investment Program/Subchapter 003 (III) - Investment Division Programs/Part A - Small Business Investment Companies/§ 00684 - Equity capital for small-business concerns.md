@@ -10,7 +10,7 @@ Before any capital is provided to a small-business concern under this section—
 
 &emsp;(1) the company may require such concern to refinance any or all of its outstanding indebtedness so that the company is the only holder of any evidence of indebtedness of such concern; and
 
-&emsp;(2) except as provided in regulations issued by the Administration, such concern shallagree that it will not thereafter incur any indebtedness without first securing the approval of the company and giving the company the first opportunity to finance such indebtedness.
+&emsp;(2) except as provided in regulations issued by the Administration, such concern shall agree that it will not thereafter incur any indebtedness without first securing the approval of the company and giving the company the first opportunity to finance such indebtedness.
 
 #### (c) Repealed. Pub. L. 90–104, title II, §206, Oct. 11, 1967, 81 Stat. 271
 

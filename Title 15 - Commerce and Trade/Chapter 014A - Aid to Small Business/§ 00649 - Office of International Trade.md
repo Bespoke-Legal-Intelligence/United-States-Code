@@ -58,11 +58,11 @@ The Office shall promote sales opportunities for small business goods and servic
 
 &emsp;&emsp;(D) provide advice to Administration personnel involved in granting loans, loan guarantees, and extensions and revolving lines of credit, and providing other forms of assistance to small businesses engaged in exports; and
 
-&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments andagencies, to study export programs and to examine small businesses’ needs for export information and assistance.
+&emsp;&emsp;(E) within one hundred and eighty days of their appointment, participate in training programs designed by the Administrator, in conjunction with the Department of Commerce and other Federal departments and agencies, to study export programs and to examine small businesses’ needs for export information and assistance.
 
 #### (d) Access to export and pre-export financing programs
 
-The Office shall work in cooperation with the Export-Import Bank of the United States, the Department of Commerce, other relevant Federal agencies, and the States to develop a program through which export specialists in the regional offices of the Administration, regional and local loan officers, and Small Business Development Center personnel can facilitate the access of small businesses to relevant export financing programs of the Export-Import Bank of the United States and to export and pre-export financing programs available from the Administration and the private sector. To accomplish this goal, the Office shall work in cooperation with the Export-Import Bank and the small business community, including small business trade associations, to—
+The Office shall work in cooperation with the Export-Import Bank of the United States, the Department of Commerce, other relevant Federal agencies, and the States to develop a program through which export specialists in the regional offices of the Administration, regional and local loan officers, and Small Business Development Center personnel can facilitate the access of small businesses to relevant export financing programs of the Export-Import Bank of the United States and to export and pre-exportfinancing programs available from the Administration and the private sector. To accomplish this goal, the Office shall work in cooperation with the Export-Import Bank and the small business community, including small business trade associations, to—
 
 &emsp;(1) aggressively market existing Administration export financing and pre-export financing programs;
 
@@ -138,7 +138,7 @@ Section 111 of title I of Pub. L. 96–481 provided that:
 
 &emsp;“(7) it is in the national interest to systematically and consistently promote and encourage small business participation in international markets.
 
-“(b) It is therefore the purpose of this part \[enacting this section, amending section 636 of this title, and enacting provisions set out as notes under sections 631 and 649 of this title\] to encourage and promote small business exporting by—
+“(b) It is therefore the purpose of this part \[enacting this section, amending section 636 of this title, and enacting provisions set out as notes under sections 631and 649 of this title\] to encourage and promote small business exporting by—
 
 &emsp;“(1) providing educational and marketing assistance to small businesses;
 

@@ -72,7 +72,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (1) Deposits
 
-&emsp;Amounts received by the Director from assessments under this section (other than an assessment under subsection (d)(2) of this section) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
+&emsp;Amounts received by the Director from assessments under this section (other than anassessment under subsection (d)(2) of this section) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
 
 #### (2) Assessments are not Government funds
 
@@ -102,7 +102,7 @@ The Director is authorized to use the combined resources retained through fees a
 
 #### Prior Provisions
 
-A prior section 1467, acts June 13, 1933, ch. 64, §8, 48 Stat. 134; Apr. 27, 1934, ch. 168, §12, 48 Stat. 647; May 28, 1935, ch. 150, §§20, 21, 49 Stat. 298, related to penalties, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat.862, eff. Sept. 1, 1948. See sections 223, 433, 493, 657, 1006, and 1014 of Title 18, Crimes and Criminal Procedure.
+A prior section 1467, acts June 13, 1933, ch. 64, §8, 48 Stat. 134; Apr. 27, 1934, ch. 168, §12, 48 Stat. 647; May 28, 1935, ch. 150, §§20, 21, 49 Stat. 298, related to penalties, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See sections 223, 433, 493, 657, 1006, and 1014 of Title 18, Crimes and Criminal Procedure.
 
 A prior section 9 of act June 13, 1933, was renumbered section 11 and is classified to section 1468 of this title.
 

@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the status of the cultures and languages of Native Americans is unique and the United States has the responsibility to act together with Native Americans to ensure the survival of these unique cultures and languages;
+&emsp;(1) the status of the cultures and languages of Native Americans is unique and the UnitedStates has the responsibility to act together with Native Americans to ensure the survival of these unique cultures and languages;
 
 &emsp;(2) special status is accorded Native Americans in the United States, a status that recognizes distinct cultural and political rights, including the right to continue separate identities;
 
@@ -27,6 +27,10 @@ The Congress finds that—
 #### Short Title
 
 Section 101 of title I of Pub. L. 101–477 provided that: “This title \[enacting this chapter\] may be cited as the ‘Native American Languages Act’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 20 section 7801.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “American”.</i>
 

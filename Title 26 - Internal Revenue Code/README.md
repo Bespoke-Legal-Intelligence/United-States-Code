@@ -1,5 +1,5 @@
 
-26 U.S.C.<br>United States Code, 2000 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
+26 U.S.C.<br>United States Code, 2001 Edition<br>Title 26 - INTERNAL REVENUE CODE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 26—INTERNAL REVENUE CODE
 
@@ -15692,6 +15692,7 @@ This title is referred to in title 2 sections 31a–2, 31a–3, 31a–4, 60c–1
 | [<b>52.</b>](Subtitle%20E%20-%20Alcohol%2C%20Tobacco%2C%20and%20Certain%20Other%20Excise%20Taxes/Chapter%20052%20-%20Tobacco%20Products%20and%20Cigarette%20Papers%20and%20Tubes/README.md) | <b>Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes</b> | <b>5701</b> |
 | [<b>53.</b>](Subtitle%20E%20-%20Alcohol%2C%20Tobacco%2C%20and%20Certain%20Other%20Excise%20Taxes/Chapter%20053%20-%20Machine%20Guns%2C%20Destructive%20Devices%2C%20and%20Certain%20Other%20Firearms/README.md) | <b>Machine guns, destructive devices, and certain other firearms</b> | <b>5801</b> |
 | [<b>54.</b>](Subtitle%20E%20-%20Alcohol%2C%20Tobacco%2C%20and%20Certain%20Other%20Excise%20Taxes/Chapter%20054%20-%20Greenmail/README.md) | <b>Greenmail</b> | <b>5881</b> |
+| [<b>55.</b>](Subtitle%20E%20-%20Alcohol%2C%20Tobacco%2C%20and%20Certain%20Other%20Excise%20Taxes/Chapter%20055%20-%20Structured%20Settlement%20Factoring%20Transactions/README.md) | <b>Structured settlement factoring transactions</b> | <b>5891</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -128,7 +128,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1015(d)(1), substituted “Federal short-te
 
 Subsec. (b). Pub. L. 99–514, §1511(a), added subsec. (b) relating to determination of Federal short-term rate and struck out former subsec. (b) which related to interest rate adjustments and establishment of adjusted rates.
 
-Subsec. (c). Pub. L. 99–514, §1511(a), (c)(1), redesignated subsec. (d) as (c), in par. (1), struck out “annual”before “rate of interest” and substituted “the underpayment rate established under this section” for “the adjusted rate established under subsection (b)”, and struck out former subsec. (c) definition of prime rate, which read as follows: “For purposes of subsection (b), the term ‘adjusted prime rate charged by banks’ means the average predominant prime rate quoted by commercial banks to large businesses, as determined by the Board of Governors of the Federal Reserve System.”
+Subsec. (c). Pub. L. 99–514, §1511(a), (c)(1), redesignated subsec. (d) as (c), in par. (1), struck out “annual” before “rate of interest” and substituted “the underpayment rate established under this section” for “the adjusted rate established under subsection (b)”, and struck out former subsec. (c) definition of prime rate, which read as follows: “For purposes of subsection (b), the term ‘adjusted prime rate charged by banks’ means the average predominant prime rate quoted by commercial banks to large businesses, as determined by the Board of Governors of the Federal Reserve System.”
 
 Subsec. (c)(3)(A)(v). Pub. L. 99–514, §1535(a), added cl. (v).
 

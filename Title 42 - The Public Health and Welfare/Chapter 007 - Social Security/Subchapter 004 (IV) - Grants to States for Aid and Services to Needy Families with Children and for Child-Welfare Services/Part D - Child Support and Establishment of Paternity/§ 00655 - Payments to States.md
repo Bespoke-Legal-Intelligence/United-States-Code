@@ -10,7 +10,7 @@
 
 &emsp;(C) equal to 90 percent (rather than the percentage specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to laboratory costs incurred in determining paternity, and
 
-&emsp;(D) equal to 66 percent of the sums expended by the State during the quarter for an alternative statewide system for which a waiver has been granted under section 652(d)(3) of this title, but only to the extent that the total of the sums so expended by the State on or after July 16, 1998, does not exceed the least total cost estimate submitted by the State pursuant to section 652(d)(3)(C) of this title in the request for the waiver;
+&emsp;(D) equal to 66 percent of the sums expended by the State during the quarter for an alternative statewide system for which a waiver has been granted under section 652(d)(3) of this title, but only to the extent that the total of the sums so expended by the State on or after July 16, 1998, does not exceed the least totalcost estimate submitted by the State pursuant to section 652(d)(3)(C) of this title in the request for the waiver;
 
 > except that no amount shall be paid to any State on account of amounts expended to carry out an agreement which it has entered into pursuant to section 663 of this title. In determining the total amounts expended by any State during a quarter, for purposes of this subsection, there shall be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
 
@@ -32,7 +32,7 @@
 
 (4)(A)(i) If—
 
-&emsp;(I) the Secretary determines that a State plan under section 654 of this title would (in the absence of this paragraph) be disapproved for the failure of the State to comply with a particular subparagraph of section 654(24) ofthis title, and that the State has made and is continuing to make a good faith effort to so comply; and
+&emsp;(I) the Secretary determines that a State plan under section 654 of this title would (in the absence of this paragraph) be disapproved for the failure of the State to comply with a particular subparagraph of section 654(24) of this title, and that the State has made and is continuing to make a good faith effort to so comply; and
 
 &emsp;(II) the State has submitted to the Secretary a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(V) 30 percent of the penalty base, in the case of the 5th or any subsequent such fiscal year.
 
-&emsp;(ii) The term “penalty base” means, with respect to a failure of a State to comply withsubparagraphs (A) and (B)(i) of section 654(27) of this title during a fiscal year, the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the preceding fiscal year.
+&emsp;(ii) The term “penalty base” means, with respect to a failure of a State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title during a fiscal year, the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the preceding fiscal year.
 
 (C)(i) The Secretary shall waive all penalties imposed against a State under this paragraph for any failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title if the Secretary determines that, before April 1, 2000, the State has achieved such compliance.
 
@@ -118,13 +118,13 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 #### (e) Special project grants for interstate enforcement; appropriations
 
-(1) In order to encourage and promote the development and use of more effective methods of enforcing support obligations under this part in cases where either the children on whose behalf the support is sought or their noncustodial parents do not reside in the State where such cases are filed, the Secretary is authorized to make grants, in such amounts and on such terms and conditions as the Secretary determines to be appropriate, to States which propose to undertake new or innovative methods of support collection in such cases and which will use the proceeds of such grants to carry out special projects designed to demonstrate and test such methods.
+(1) In order to encourage and promote the development and use of more effective methods ofenforcing support obligations under this part in cases where either the children on whose behalf the support is sought or their noncustodial parents do not reside in the State where such cases are filed, the Secretary is authorized to make grants, in such amounts and on such terms and conditions as the Secretary determines to be appropriate, to States which propose to undertake new or innovative methods of support collection in such cases and which will use the proceeds of such grants to carry out special projects designed to demonstrate and test such methods.
 
 (2) A grant under this subsection shall be made only upon a finding by the Secretary that the project involved is likely to be of significant assistance in carrying out the purpose of this subsection; and with respect to such project the Secretary may waive any of the requirements of this part which would otherwise be applicable, to such extent and for such period as the Secretary determines is necessary or desirable in order to enable the State to carry out the project.
 
 (3) At the time of its application for a grant under this subsection the State shall submit to the Secretary a statement describing in reasonable detail the project for which the proceeds of the grant are to be used, and the State shall from time to time thereafter submit to the Secretary such reports with respect to the project as the Secretary may specify.
 
-(4) Amounts expended by a State in carrying out a special project assisted under this section shall be considered, for purposes of section 658(b) of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), to have been expended for the operation of the State's plan approved under section 654 of this title.
+(4) Amounts expended by a State in carrying out a special project assisted under this section shall be considered, for purposes of section 658(b) <sup>2</sup> of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), to have been expended for the operation of the State's plan approved under section 654 of this title.
 
 (5) There is authorized to be appropriated the sum of $7,000,000 for fiscal year 1985, $12,000,000 for fiscal year 1986, and $15,000,000 for each fiscal year thereafter, to be used by the Secretary in making grants under this subsection.
 
@@ -134,21 +134,11 @@ The Secretary may make direct payments under this part to an Indian tribe or tri
 
 (Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858.)
 
-#### Amendment of Subsection (a)(4)(C)(iii)
-
-<i>Pub. L. 105–200, title II, §201(f)(2)(B), (3), July 16, 1998, 112 Stat. 658, provided that, effective Oct. 1, 2001, subsection (a)(4)(C)(iii) of this section is amended—</i>
-
-<i>(1) by striking “658a(b)(4)” and inserting “658(b)(4)”;</i>
-
-<i>(2) by striking “658a(b)(6)” and inserting “658(b)(6)”; and</i>
-
-<i>(3) by striking “658a(b)(5)(B)” and inserting “658(b)(5)(B)”.</i>
-
 #### References in Text
 
 The Family Support Act of 1988, referred to in subsec. (a)(3)(B)(iii), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
 
-Section 5(a) of the Child Support Enforcement Amendments of 1984, referred to in subsec. (e)(4), is section 5(a) of Pub. L. 98–378, which amended section 658 of this title.
+Section 658(b) of this title (as amended by section 5(a) of the Child Support Enforcement Amendments of 1984), referred to in subsec. (e)(4), was in the original a reference to “section 458(b)”, meaning section 458(b) of act of Aug. 14, 1935, as amended by section 5(a) of Pub. L. 98–378, which was classified to section 658(b) of this title. Pub. L. 105–200, title II, §201(f)(1), (2)(A), July 16, 1998, 112 Stat. 657, 658, repealed section 458 and renumbered section 458A of the act of Aug. 14, 1935, as section 458, which is classified to section 658a of this title.
 
 #### Amendments
 
@@ -162,6 +152,8 @@ Subsec. (a)(4). Pub. L. 105–200, §101(a), added par. (4).
 
 Subsec. (a)(4)(C)(iii). Pub. L. 105–306 added cl. (iii).
 
+Pub. L. 105–200, §201(f)(2)(B), made technical amendments to references in original act which appear in text as references to section 658a(b)(4), section 658a(b)(6), and section 658a(b)(5)(B) of this title.
+
 1997—Subsec. (a)(3)(B)(i). Pub. L. 105–33, §5555(a)(1), inserted “or system described in clause (iii)” after “each State” and “or system” after “the State”.
 
 Subsec. (a)(3)(B)(iii). Pub. L. 105–33, §5555(a)(2), added cl. (iii).
@@ -174,7 +166,7 @@ Pub. L. 105–33, §5546(b), redesignated subsec. (b), relating to direct Federa
 
 1996—Subsec. (a)(1). Pub. L. 104–193, §344(c), which directed repeal of Pub. L. 100–485, §123(c), was executed by restoring the provisions of this section amended by §123(c) to read as if §123(c) had not been enacted, to reflect the probable intent of Congress. See 1988 Amendment note below.
 
-Subsec. (a)(1)(B). Pub. L. 104–193, §344(b)(1)(A), as amended by Pub. L. 106–169, added subpar. (B) and struck out former subpar. (B) which read as follows: “equal to 90 percent (rather than the percent specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system) which the Secretary finds meets the requirements specified in section 654(16) of this title, or meets such requirements without regard to clause (D) thereof, and”.
+Subsec. (a)(1)(B). Pub. L. 104–193, §344(b)(1)(A), as amended by Pub. L. 106–169, added subpar. (B) andstruck out former subpar. (B) which read as follows: “equal to 90 percent (rather than the percent specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system) which the Secretary finds meets the requirements specified in section 654(16) of this title, or meets such requirements without regard to clause (D) thereof, and”.
 
 Subsec. (a)(3). Pub. L. 104–193, §344(b)(1)(B), added par. (3).
 
@@ -196,7 +188,7 @@ Subsec. (e). Pub. L. 98–378, §8, added subsec. (e).
 
 1982—Subsec. (a)(1). Pub. L. 97–248, §174(a), substituted “70 percent” for “75 percent”.
 
-Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provided that expenditures of courts of a State or its political subdivisions in connection with performance of services related to the operation of aplan approved under section 654 of this title, would be included in determining the amounts expended by a State during any quarter for the operation of such plan, that the aggregate amount of such expenditures would be reduced by the total amount of those expenditures made by a State for the 12-month period beginning on Jan. 1, 1978, and that a State agency could, under State law, pay the courts of the State from amounts received under subsec. (a) of this section.
+Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provided that expenditures of courts of a State or its political subdivisions in connection with performance of services related to the operation of a plan approved under section 654 of this title, would be included in determining the amounts expended by a State during any quarter for the operation of such plan, that the aggregate amount of such expenditures would be reduced by the total amount of those expenditures made by a State for the 12-month period beginning on Jan. 1, 1978, and that a State agency could, under State law, pay the courts of the State from amounts received under subsec. (a) of this section.
 
 1981—Subsec. (a). Pub. L. 97–35, as amended by Pub. L. 97–248, §171(b)(2), inserted provision that in determining the total amounts expended by any State during a quarter, for purposes of this subsection, there be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
 
@@ -242,7 +234,7 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 #### Effective Date of 1988 Amendment
 
-Section 112(b) of Pub. L. 100–485 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to laboratory costs incurred on or after October 1, 1988.”
+Section 112(b) of Pub. L. 100–485 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to laboratory costs incurred on or after October 1, 1988.”
 
 Section 123(c) of Pub. L. 100–485 which provided that the amendment made by that section was effective Sept. 30, 1995, was repealed by Pub. L. 104–193, title III, §344(c), Aug. 22, 1996, 110 Stat. 2237.
 
@@ -302,7 +294,9 @@ Section 206 of Pub. L. 94–88 provided that amounts expended in good faith by a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 655a, 658, 658a, 1315 of this title; title 2 section 906.
+This section is referred to in sections 655a, 658a, 1315 of this title; title 2 section 906.
 
 <i><sup>1</sup></i><i> So in original. The “; and” probably should be a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

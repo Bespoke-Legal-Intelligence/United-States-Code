@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In making a recommendation to the Secretary under paragraph (1), an accredited person shall notify the Secretary in writing of the reasons for the recommendation.
+&emsp;&emsp;In making a recommendation to the Secretary under paragraph (1), an accreditedperson shall notify the Secretary in writing of the reasons for the recommendation.
 
 #### (B) Time period for review
 
@@ -18,7 +18,7 @@
 
 #### (C) Special rule
 
-&emsp;&emsp;The Secretary may change the initial classification under section 360c(f)(1) of this titlethat is recommended under paragraph (1) by an accredited person, and in such case shall provide to such person, and the person who submitted the report under section 360(k) of this title for the device, a statement explaining in detail the reasons for the change.
+&emsp;&emsp;The Secretary may change the initial classification under section 360c(f)(1) of this title that is recommended under paragraph (1) by an accredited person, and in such case shall provide to such person, and the person who submitted the report under section 360(k) of this title for the device, a statement explaining in detail the reasons for the change.
 
 #### (3) Certain devices
 
@@ -90,7 +90,7 @@
 
 #### (4) Selection of accredited persons
 
-&emsp;The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons fromwhich the regulated person may select one for a specific regulatory function.
+&emsp;The Secretary shall provide each person who chooses to use an accredited person to receive a section 360(k) of this title report a panel of at least two or more accredited persons from which the regulated person may select one for a specific regulatory function.
 
 #### (5) Compensation of accredited persons
 

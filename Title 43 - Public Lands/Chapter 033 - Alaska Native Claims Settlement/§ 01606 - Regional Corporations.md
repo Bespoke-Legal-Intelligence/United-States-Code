@@ -108,7 +108,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;&emsp;(I) Natives who have attained the age of sixty-five;
 
-&emsp;&emsp;&emsp;(II) other identifiable groups of Natives or identifiable groups of descendants ofNatives defined in terms of general applicability and not in any way by reference to place of residence or family;
+&emsp;&emsp;&emsp;(II) other identifiable groups of Natives or identifiable groups of descendants of Natives defined in terms of general applicability and not in any way by reference to place of residence or family;
 
 &emsp;&emsp;&emsp;(III) Settlement Trusts; or
 
@@ -232,7 +232,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(i) a restriction denying voting rights to any holder of Replacement Common Stock who is not a Native or a descendant of a Native;
 
-&emsp;&emsp;(ii) a restriction granting the Regional Corporation, or the Regional Corporation and members of the shareholder's immediate family who are Natives or descendants of Natives, the first right to purchase, on reasonable terms, the Replacement CommonStock of the shareholder prior to the sale or transfer of such stock (other than a transfer by will or intestate succession) to any other party, including a transfer in satisfaction of a lien, writ of attachment, judgment execution, pledge, or other encumbrance; and
+&emsp;&emsp;(ii) a restriction granting the Regional Corporation, or the Regional Corporation and members of the shareholder's immediate family who are Natives or descendants of Natives, the first right to purchase, on reasonable terms, the Replacement Common Stock of the shareholder prior to the sale or transfer of such stock (other than a transfer by will or intestate succession) to any other party, including a transfer in satisfaction of a lien, writ of attachment, judgment execution, pledge, or other encumbrance; and
 
 &emsp;&emsp;(iii) any other term, restriction, limitation, or provision authorized by the laws of the State.
 
@@ -304,7 +304,7 @@ The management of the Regional Corporation shall be vested in a board of directo
 
 &emsp;&emsp;(III) otherwise in accordance with this paragraph.
 
-&emsp;(K) The consideration given for the purchase of Settlement Common Stock made pursuant to an offer to purchase that provides for such consideration may be in the form of cash, securities, or a combination of cash and securities, as determined by the board of directors of Cook Inlet Regional Corporation, in a manner consistent with an amendment made pursuant to subparagraph (B).
+&emsp;(K) The consideration given for the purchase of Settlement Common Stock made pursuant to an offer to purchase that provides for such consideration may be in the form of cash, securities, or a combination of cash and securities, as determined by the board of directors ofCook Inlet Regional Corporation, in a manner consistent with an amendment made pursuant to subparagraph (B).
 
 &emsp;(L) Sale of Settlement Common Stock in accordance with this paragraph shall not diminish a shareholder's status as an Alaska Native or descendant of a Native for the purpose of qualifying for those programs, benefits and services or other rights or privileges set out for the benefit of Alaska Natives and Native Americans. Proceeds from the sale of Settlement Common Stock shall not be excluded in determining eligibility for any needs-based programs that may be provided by Federal, State or local agencies.
 
@@ -330,7 +330,7 @@ Funds distributed to a Village Corporation may be withheld until the village has
 
 #### (m) Distributions among Village Corporations in a region; computation of dividends for nonresidents of village; financing regional projects with equitably withheld dividends and Village Corporation funds
 
-When funds are distributed among Village Corporations in a region, an amount computed asfollows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
+When funds are distributed among Village Corporations in a region, an amount computed as follows shall be distributed as dividends to the class of stockholders who are not residents of those villages: The amount distributed as dividends shall bear the same ratio to the amount distributed among the Village Corporations that the number of shares of stock registered on the books of the Regional Corporation in the names of nonresidents of villages bears to the number of shares of stock registered in the names of village residents: <i>Provided</i>, That an equitable portion of the amount distributed as dividends may be withheld and combined with Village Corporation funds to finance projects that will benefit the region generally.
 
 #### (n) Projects for Village Corporations
 
@@ -390,7 +390,7 @@ Section 109(b) of Pub. L. 104–42 provided that: “This amendment \[amending t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1602, 1604, 1605, 1607, 1618, 1620, 1621, 1625, 1626, 1627, 1628, 1629, 1629b, 1629c, 1629d, 1629e, 1636 of this title; title 16 section 3181; title 25 section 1903; title 42 section 1382b; title 50 App. section 1989c–1.
+This section is referred to in sections 1602, 1604, 1605, 1607, 1618, 1620, 1621, 1625, 1626, 1627, 1628, 1629, 1629b, 1629c, 1629d, 1629e, 1636 of this title; title 16 section 3181; title 25 section 1903; title 26 section 646; title 42 section 1382b; title 50 App. section 1989c–1.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

@@ -2,11 +2,11 @@
 
 #### (a) Procurement through full and open competition; competitive procedures
 
-(1) Except as provided in subsections (b), (c), and (g) of this section and except in the case ofprocurement procedures otherwise expressly authorized by statute, an executive agency in conducting a procurement for property or services—
+(1) Except as provided in subsections (b), (c), and (g) of this section and except in the case of procurement procedures otherwise expressly authorized by statute, an executive agency in conducting a procurement for property or services—
 
-&emsp;(A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this title and the Federal Acquisition Regulation; and
+&emsp;(A) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this subchapter and the Federal Acquisition Regulation; and
 
-&emsp;(B) shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
+&emsp;(B) shall use the competitive procedure or combination of competitive procedures that isbest suited under the circumstances of the procurement.
 
 (2) In determining the competitive procedures appropriate under the circumstance, an executive agency—
 
@@ -70,7 +70,7 @@ An executive agency may use procedures other than competitive procedures only wh
 
 (1) For the purposes of applying subsection (c)(1) of this section—
 
-&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, the property or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
+&emsp;(A) in the case of a contract for property or services to be awarded on the basis of acceptance of an unsolicited research proposal, theproperty or services shall be considered to be available from only one source if the source has submitted an unsolicited research proposal that demonstrates a unique and innovative concept the substance of which is not otherwise available to the United States and does not resemble the substance of a pending competitive procurement; and
 
 &emsp;(B) in the case of a follow-on contract for the continued development or production of a major system or highly specialized equipment when it is likely that award to a source other than the original source would result in (i) substantial duplication of cost to the Government which is not expected to be recovered through competition, or (ii) unacceptable delays in fulfilling the executive agency's needs, such property may be deemed to be available only from the original source and may be procured through procedures other than competitive procedures.
 
@@ -134,9 +134,9 @@ An executive agency using procedures other than competitive procedures to procur
 
 (1) In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for—
 
-&emsp;(A) special simplified procedures for purchases of property and services for amountsnot greater than the simplified acquisition threshold; and
+&emsp;(A) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
 
-&emsp;(B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+&emsp;(B) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonablyexpects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
 (2)(A) The Administrator of General Services shall prescribe regulations that provide special simplified procedures for acquisitions of leasehold interests in real property at rental rates that do not exceed the simplified acquisition threshold.
 
@@ -208,7 +208,7 @@ Subsec. (c)(5). Pub. L. 103–355, §7203(b)(1)(A), inserted “subject to subse
 
 Subsec. (f)(1)(B)(i). Pub. L. 103–355, §1053, inserted before semicolon at end “or by an official referred to in clause (ii), (iii), or (iv)”.
 
-Pub. L. 103–355, §4402(a)(1)(A), substituted “purchases of property and services for amounts not greater than the simplified acquisition threshold” for “small purchases of property and services”.
+Subsec. (g)(1). Pub. L. 103–355, §4402(a)(1)(A), substituted “purchases of property and services for amounts not greater than the simplified acquisitionthreshold” for “small purchases of property and services”.
 
 Pub. L. 103–355, §§1051(2), 4402(a)(1)(B), amended par. (1) identically, substituting “Federal Acquisition Regulation” for “regulations modified, in accordance with section 2752 of the Competition in Contracting Act of 1984,”.
 
@@ -290,7 +290,7 @@ The definitions in section 472 of Title 40, Public Buildings, Property, and Work
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427 of this title; title 15 section 637;title 20 section 1018a; title 22 section 2669; title 29 section 2887; title 38 section 8153; title 40 section 618; title 49 section 40110; title 50 App. section 2077.
+This section is referred to in sections 252, 253h, 253i, 253j, 257, 416, 417, 427 of this title; title 15 section 637; title 20 section 1018a; title 22 section 2669; title 29 section 2887; title 38 section 8153; title 40 section 618; title 49 section 40110; title 50 App. section 2077.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

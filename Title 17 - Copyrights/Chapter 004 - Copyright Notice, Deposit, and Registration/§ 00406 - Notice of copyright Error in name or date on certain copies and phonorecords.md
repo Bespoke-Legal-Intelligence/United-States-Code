@@ -2,7 +2,7 @@
 
 (a)
 
-Error in Name.—With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where the person named in the copyright notice on copies or phonorecords publicly distributed by authority of the copyright owner is not the owner of copyright, the validity and ownership of the copyright are not affected. In such a case, however, any person who innocently begins an undertaking that infringes the copyright has a complete defense to any action for such infringement if such person proves that he or she was misled by the notice and began the undertaking in good faith under a purported transfer or license from the person named therein, unless before the undertaking was begun—
+Error in Name.—With respect to copies and phonorecords publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, where the person named in the copyright notice on copies or phonorecords publicly distributed by authority of the copyright owner is not the owner of copyright, the validity and ownership of the copyright are not affected. In such a case, however, any person who innocently begins an undertaking that infringes thecopyright has a complete defense to any action for such infringement if such person proves that he or she was misled by the notice and began the undertaking in good faith under a purported transfer or license from the person named therein, unless before the undertaking was begun—
 
 &emsp;(1) registration for the work had been made in the name of the owner of copyright; or
 

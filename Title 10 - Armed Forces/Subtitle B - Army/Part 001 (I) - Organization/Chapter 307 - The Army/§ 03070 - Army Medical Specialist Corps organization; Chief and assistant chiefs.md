@@ -16,7 +16,7 @@
 
 (c) The Surgeon General shall appoint up to five assistant chiefs from officers of the Regular Army in that corps whose regular grade is above captain. Each assistant chief is the chief of a section of that corps. An assistant chief serves during the pleasure of the Surgeon General, but not for more than four years, and may not be reappointed to the same position.
 
-(d) Chiropractors who are qualified under regulations prescribed by the Secretary of the Army may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.
+(d) Chiropractors who are qualified under regulations prescribed by the Secretary of theArmy may be appointed as commissioned officers in the Chiropractic Section of the Army Medical Specialist Corps.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 169; Pub. L. 85–155, title I, §101(2), Aug. 21, 1957, 71 Stat. 375; Pub. L. 87–649, §6(b)(2), (3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–609, §1(2), (3), Sept. 30, 1966, 80 Stat. 852; Pub. L. 90–130, §1(8)(B), Nov. 8, 1967, 81 Stat. 374; Pub. L. 102–190, div. A, title V, §551(a), Dec. 5, 1991, 105 Stat. 1370; Pub. L. 102–484, div. A, title V, §505(a), Oct. 23, 1992, 106 Stat. 2404.)
 
@@ -96,7 +96,7 @@ Section 551(b) of Pub. L. 102–190 provided that: “Notwithstanding the requir
 
 Section 551(c) of Pub. L. 102–190 provided that: “A member of the Army who on the date of the enactment of this Act \[Dec. 5, 1991\] is a warrant officer serving on active duty (other than for training) as a physician assistant and who is subsequently appointed as a commissioned officer in, or is assigned to, the Physician Assistant Section of the Army Medical Specialist Corps may elect at the time of the officer's retirement after 20 years or more of active service that could be credited to the officer under section 511 of the Career Compensation Act of 1949, as amended \[act Oct. 12, 1949, ch. 681, title V, §511, 63 Stat. 829, as amended, set out as a note under section 580 of this title\]—
 
-&emsp;“(1) to revert to the highest warrant officer grade in which the officer served on active duty (other than for training) satisfactorily (as determined by the Secretary of the Army) for a period of more than 30 days; and
+&emsp;“(1) to revert to the highest warrant officer grade in which the officer served on active duty (other thanfor training) satisfactorily (as determined by the Secretary of the Army) for a period of more than 30 days; and
 
 &emsp;“(2) to be retired under chapter 65 of title 10, United States Code.”
 

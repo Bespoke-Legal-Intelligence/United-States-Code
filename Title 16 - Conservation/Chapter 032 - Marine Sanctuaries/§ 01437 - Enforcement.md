@@ -64,7 +64,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (1) In general
 
-&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained, in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the United States pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
+&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained, in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the UnitedStates pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
 
 #### (2) Application of the customs laws
 
@@ -72,7 +72,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (3) Disposal of sanctuary resources
 
-&emsp;Any sanctuary resource seized pursuant to this chapter may be disposed of pursuant to anorder of the appropriate court, or, if perishable, in a manner prescribed by regulations promulgated by the Secretary. Any proceeds from the sale of such sanctuary resource shall for all purposes represent the sanctuary resource so disposed of in any subsequent legal proceedings.
+&emsp;Any sanctuary resource seized pursuant to this chapter may be disposed of pursuant to an order of the appropriate court, or, if perishable, in a manner prescribed by regulations promulgated by the Secretary. Any proceeds from the sale of such sanctuary resource shall for all purposes represent the sanctuary resource so disposed of in any subsequent legal proceedings.
 
 #### (4) Presumption
 

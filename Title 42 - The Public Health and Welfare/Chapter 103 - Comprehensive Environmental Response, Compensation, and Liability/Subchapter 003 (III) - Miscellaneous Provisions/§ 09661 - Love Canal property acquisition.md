@@ -10,11 +10,11 @@ No property shall be acquired pursuant to this section unless the property owner
 
 #### (c) State ownership
 
-The Administrator shall not provide any funds under this section for the acquisition of any properties pursuant to this section unless a public agency or authority of the State of New York first enters into a cooperative agreement with the Administrator providing assurances deemed adequate by the Administrator that the State or an agency created under the laws of the State shall take title to the properties to be so acquired.
+The Administrator shall not provide any funds under this section for the acquisition of anyproperties pursuant to this section unless a public agency or authority of the State of New York first enters into a cooperative agreement with the Administrator providing assurances deemed adequate by the Administrator that the State or an agency created under the laws of the State shall take title to the properties to be so acquired.
 
 #### (d) Maintenance of property
 
-The Administrator shall enter into a cooperative agreement with an appropriate public agency or authority of the State of New York under which the Administrator shall maintain or arrange for the maintenance of all properties within the Emergency Declaration Area that have been acquired by any public agency or authority of the State. Ninety (90) percent of the costs of such maintenance shall be paid by the Administrator. The remaining portion of suchcosts shall be paid by the State (unless a credit is available under section 9604(c) of this title). The Administrator is authorized, in his discretion, to provide technical assistance to any public agency or authority of the State of New York in order to implement the recommendations of the habitability and land-use study in order to put the land within the Emergency Declaration Area to its best use.
+The Administrator shall enter into a cooperative agreement with an appropriate public agency or authority of the State of New York under which the Administrator shall maintain or arrange for the maintenance of all properties within the Emergency Declaration Area that have been acquired by any public agency or authority of the State. Ninety (90) percent of the costs of such maintenance shall be paid by the Administrator. The remaining portion of such costs shall be paid by the State (unless a credit is available under section 9604(c) of this title). The Administrator is authorized, in his discretion, to provide technical assistance to any public agency or authority of the State of New York in order to implement the recommendations of the habitability and land-use study in order to put the land within the Emergency Declaration Area to its best use.
 
 #### (e) Habitability and land use study
 

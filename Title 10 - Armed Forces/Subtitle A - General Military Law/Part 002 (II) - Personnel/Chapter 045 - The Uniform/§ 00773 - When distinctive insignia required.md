@@ -10,7 +10,7 @@
 
 &emsp;(2) The uniform prescribed by a military society composed of persons discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps to be worn by a member of that society when authorized by regulations prescribed by the President.
 
-(b) A uniform prescribed under subsection (a) may not include insignia of grade the same as, or similar to, those prescribed for officers of the Army, Navy, Air Force, or Marine Corps.
+(b) A uniform prescribed under subsection (a) may not include insignia of grade the same as,or similar to, those prescribed for officers of the Army, Navy, Air Force, or Marine Corps.
 
 (c) Under such regulations as the Secretary of the military department concerned may prescribe, any person who is permitted to attend a course of instruction prescribed for members of a reserve officers’ training corps, and who is not a member of that corps, may, while attending that course of instruction, wear the uniform of that corps.
 

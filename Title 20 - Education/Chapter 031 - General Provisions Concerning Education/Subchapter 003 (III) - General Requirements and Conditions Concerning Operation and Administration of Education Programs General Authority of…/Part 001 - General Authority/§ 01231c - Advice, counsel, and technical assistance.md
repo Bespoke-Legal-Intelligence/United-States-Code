@@ -14,7 +14,7 @@ For the purpose of carrying out more effectively Federal education programs, the
 
 #### (b) Cost allocation, collection, etc., by local educational agencies
 
-The Secretary shall permit local educational agencies to use organized and systematic approaches in determining cost allocation, collection, measurement, and reporting under any applicable program, if he determines (1) that the use of such approaches will not in any manner lessen the effectiveness and impact of such program in achieving purposes for which it is intended, (2) that the agency will use such procedures as will insure adequate evaluation of each of the programs involved, and (3) that such approaches are consistent with criteria prescribed by the Comptroller General of the United States for the purposes of audit. For the purpose of this subsection a cost is allocable to a particular cost objective to the extent of relative benefits received by such objective.
+The Secretary shall permit local educational agencies to use organized and systematic approaches in determining cost allocation, collection, measurement, and reporting under any applicable program, if he determines (1) that the use of such approaches will not in any manner lessen the effectiveness and impact of such program in achieving purposes for which it is intended, (2) that the agency will use such procedures as will insure adequate evaluation of eachof the programs involved, and (3) that such approaches are consistent with criteria prescribed by the Comptroller General of the United States for the purposes of audit. For the purpose of this subsection a cost is allocable to a particular cost objective to the extent of relative benefits received by such objective.
 
 #### (c) Dissemination
 
@@ -30,7 +30,7 @@ In awarding contracts and grants for the development of curricula or instruction
 
 The Secretary's annual report shall contain a statement of the Secretary's activities under this section.
 
-(Pub. L. 90–247, title IV, §433, formerly §414, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 167; renumbered §424, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §426, Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 95–561, title XII, §1248, Nov. 1, 1978, 92 Stat.2354; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; renumbered §433, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, §433, formerly §414, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 167; renumbered §424, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §426, Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; amended Pub. L. 95–561, title XII, §1248, Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; renumbered §433, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
 
 #### Prior Provisions
 

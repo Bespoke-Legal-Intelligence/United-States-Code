@@ -12,7 +12,7 @@ The Secretary shall carry out a program of stimulating and assisting in the esta
 
 #### (c) Use of appropriations
 
-Any sums appropriated pursuant to subsection (b) of this section for any fiscal year shall be available for apportionment pursuant to section 1087bb of this title and for payments of Federal capital contributions therefrom to institutions of higher education which have agreements with the Secretary under section 1087cc of this title.Such Federal capital contributions and all contributions from such institutions shall be used for the establishment, expansion, and maintenance of student loan funds.
+Any sums appropriated pursuant to subsection (b) of this section for any fiscal year shall be available for apportionment pursuant to section 1087bb of this title and for payments of Federal capital contributions therefrom to institutions of higher education which have agreements with the Secretary under section 1087cc of this title. Such Federal capital contributions and all contributions from such institutions shall be used for the establishment, expansion, and maintenance of student loan funds.
 
 (Pub. L. 89–329, title IV, §461, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §461(a)(2)–(c), July 23, 1992, 106 Stat. 576; Pub. L. 105–244, title IV, §461, Oct. 7, 1998, 112 Stat. 1720.)
 

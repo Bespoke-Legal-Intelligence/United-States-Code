@@ -26,7 +26,7 @@ The Secretary is also authorized to make project grants to States and, in consul
 
 &emsp;(3) interstate epidemiologic referral and followup activities respecting sexually transmitted diseases; and
 
-&emsp;(4) such special studies or demonstrations to evaluate or test sexually transmitted diseases prevention and control strategies and activities as may be prescribed by the Secretary.
+&emsp;(4) such special studies or demonstrations to evaluate or test sexually transmitted diseasesprevention and control strategies and activities as may be prescribed by the Secretary.
 
 #### (d) Grants for innovative, interdisciplinary approaches
 
@@ -54,7 +54,7 @@ The Secretary may make grants to States and political subdivisions of States for
 
 Nothing in this section shall be construed to require any State or any political subdivision of a State to have a sexually transmitted diseases program which would require any person, who objects to any treatment provided under such a program, to be treated under such a program.
 
-(July 1, 1944, ch. 373, title III, §318, as added Pub. L. 92–449, title II, §203, Sept. 30, 1972, 86 Stat. 751; amended Pub. L. 94–317, title II, §203(b)–(i), June 23, 1976, 90 Stat. 704, 705; Pub. L. 94–484, title IX, §905(b)(2), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–626, title II, §204(b)(1), (c), (d), Nov. 10, 1978, 92 Stat. 3583; Pub. L. 96–32, §6(j), July 10, 1979, 93Stat. 84; Pub. L. 97–35, title IX, §929, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §3, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 100–607, title III, §311, Nov. 4, 1988, 102 Stat. 3112; Pub. L. 103–183, title IV, §401, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 105–392, title IV, §401(b)(2), (c), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title III, §318, as added Pub. L. 92–449, title II, §203, Sept. 30, 1972, 86 Stat. 751; amended Pub. L. 94–317, title II, §203(b)–(i), June 23, 1976, 90 Stat. 704, 705; Pub. L. 94–484, title IX, §905(b)(2), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–626, title II, §204(b)(1), (c), (d), Nov. 10, 1978, 92 Stat. 3583; Pub. L. 96–32, §6(j), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §929, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §3, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 100–607, title III, §311, Nov. 4, 1988, 102 Stat. 3112; Pub. L. 103–183, title IV, §401, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 105–392, title IV, §401(b)(2), (c), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### Prior Provisions
 
@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 103–183, §401(a)(1), redesignated subsec. (d), relating 
 
 Subsec. (e)(1). Pub. L. 103–183, §401(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of making grants under subsections (b) and (c) of this section there are authorized to be appropriated $45,000,000 for the fiscal year ending September 30, 1979, $51,500,000 for the fiscal year ending September 30, 1980, $59,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for the fiscal year ending September 30, 1982, $46,500,000 for the fiscal year ending September 30, 1983, $50,000,000 for the fiscal year ending September 30, 1984, $57,000,000 for the fiscal year ending September 30, 1985, $62,500,000 for the fiscal year ending September 30, 1986, $68,000,000 for the fiscal year ending September 30, 1987, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991. For grants under subsection (b) of this section in any fiscal year, the Secretary shall obligate not less than 10 per centum of the amount appropriated for such fiscal year under the preceding sentence. Grants made under subsection (b) or (c) of this section shall be made on such terms and conditions as the Secretary finds necessary to carry out the purposes of such subsection, and payments under any such grants shall be made in advance or by way of reimbursement and in such installments as the Secretary finds necessary.”
 
-Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), as amended by Pub. L. 105–392, §401(c), substituted “form; or” for “form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
+Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), as amended by Pub. L. 105–392, §401(c), substituted “form; or” for“form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
 
 1988—Pub. L. 100–607, §311(1), amended section catchline.
 

@@ -34,9 +34,11 @@
 
 &emsp;(16) Section 1052, Reimbursement for adoption expenses.
 
+&emsp;(17) Section 1059, Transitional compensation and commissary and exchange benefits for dependents of members separated for dependent abuse.
+
 (b) The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) of this section shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or his designee.
 
-(July 1, 1944, ch. 373, title II, §221, as added Aug. 10, 1956, ch. 1041, §4, 70A Stat. 619; amended Pub. L. 85–861, §4, Sept. 2, 1958, 72 Stat. 1547; Pub. L. 86–160, §3, Aug. 14, 1959, 73 Stat. 359; Pub. L. 87–555, §2, July 27, 1962, 76 Stat. 244; Pub. L. 88–132, §5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, §1(d), Aug. 14, 1964, 78 Stat. 440; Pub. L. 89–538, §3(b), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, §5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–76, title III, §312, Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–513, title V, §507(f)(2), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 99–117, §4, Oct. 7, 1985, 99 Stat. 492; Pub. L. 105–85, div. A, title VI, §653(a), Nov. 18, 1997, 111 Stat. 1804.)
+(July 1, 1944, ch. 373, title II, §221, as added Aug. 10, 1956, ch. 1041, §4, 70A Stat. 619; amended Pub. L. 85–861, §4, Sept. 2, 1958, 72 Stat. 1547; Pub. L. 86–160, §3, Aug. 14, 1959, 73 Stat. 359; Pub. L. 87–555, §2, July 27, 1962, 76 Stat. 244; Pub. L. 88–132, §5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, §1(d), Aug. 14, 1964, 78 Stat. 440; Pub. L. 89–538, §3(b), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, §5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–76, title III, §312, Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–513, title V, §507(f)(2), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 99–117, §4, Oct. 7, 1985, 99 Stat. 492; Pub. L. 105–85, div. A, title VI, §653(a), Nov. 18, 1997, 111 Stat. 1804; Pub. L. 107–107, div. A, title VI, §653(a), Dec. 28, 2001, 115 Stat. 1153.)
 
 #### References in Text
 
@@ -47,6 +49,8 @@ Section 1374 of title 10, referred to in subsec. (a)(3), was repealed by Pub. L.
 Section was formerly classified to section 316 of title 37 prior to the general revision and enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451.
 
 #### Amendments
+
+2001—Subsec. (a)(17). Pub. L. 107–107 added cl. (17).
 
 1997—Subsec. (a)(16). Pub. L. 105–85 added cl. (16).
 

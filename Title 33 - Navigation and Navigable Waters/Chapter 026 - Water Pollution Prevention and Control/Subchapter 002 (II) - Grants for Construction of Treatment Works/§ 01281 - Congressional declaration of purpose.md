@@ -52,7 +52,7 @@ The Administrator shall encourage waste treatment management which combines “o
 
 #### (h) Grants to construct privately owned treatment works
 
-A grant may be made under this section to construct a privately owned treatment worksserving one or more principal residences or small commercial establishments constructed prior to, and inhabited on, December 27, 1977, where the Administrator finds that—
+A grant may be made under this section to construct a privately owned treatment works serving one or more principal residences or small commercial establishments constructed prior to, and inhabited on, December 27, 1977, where the Administrator finds that—
 
 &emsp;(1) a public body otherwise eligible for a grant under subsection (g) of this section has applied on behalf of a number of such units and certified that public ownership of such works is not feasible;
 
@@ -92,7 +92,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 #### (n) Water quality problems; funds, scope, etc.
 
-(1) On and after October 1, 1984, upon the request of the Governor of an affected State, theAdministrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
+(1) On and after October 1, 1984, upon the request of the Governor of an affected State, the Administrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
 
 (2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
 
@@ -102,7 +102,7 @@ The Administrator shall encourage and assist applicants for grant assistance und
 
 &emsp;(1) projects the future requirements for waste treatment services within the applicant's jurisdiction for a period of no less than ten years;
 
-&emsp;(2) projects the nature, extent, timing, and costs of future expansion and reconstruction of treatment works which will be necessary to satisfy the applicant's projected future requirements for waste treatment services; and
+&emsp;(2) projects the nature, extent, timing, and costs of future expansion and reconstructionof treatment works which will be necessary to satisfy the applicant's projected future requirements for waste treatment services; and
 
 &emsp;(3) sets forth with specificity the manner in which the applicant intends to finance such future expansion and reconstruction.
 
@@ -204,7 +204,7 @@ Grants for Wastewater Assistance.—The Administrator of the Environmental Prote
 
 “(c)
 
-Use of Funds.—Each grant awarded pursuant to subsection (b) shall be used to provide assistance to one or more eligible communities with respect to which the residents are subject to a significant health risk (as determined by the Administrator or the head of the Federal agency making the grant) attributable to the lack of access to an adequate and affordable treatment works for wastewater.
+Use of Funds.—Each grant awarded pursuant to subsection (b) shall be used to provide assistance to one or more eligible communities with respect to which the residents are subject to a significant health risk (as determined by the Administrator or the head of the Federal agency making the grant) attributable to the lackof access to an adequate and affordable treatment works for wastewater.
 
 “(d)
 
@@ -268,7 +268,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(2) The Board of Directors shall meet at the call of its Chairman. The Board shall determine the general policies which shall govern the operations of the Authority. The Chairman of the Board shall select and effect the appointment of qualified persons to fill the offices as may be provided for in the bylaws, with such executive functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the executive officers of the Authority and shall discharge all such executive functions, powers, and duties. The members of the Board, as such, shall not receive compensation for their services.
 
-“(e) \[Purchase of State and Local Obligations\] (1) Until July 1, 1975, the Authority is authorized to make commitments to purchase, and to purchase on terms and conditions determined by the Authority, any obligation or participation therein which is issued by a State or local public body to finance the non-Federal share of the cost of any project for the construction of waste treatment works which the Administrator of the Environmental Protection Agency has determined to be eligible for Federal financial assistance under the Federal Water Pollution Control Act \[this chapter\].
+“(e) \[Purchase of State and Local Obligations\] (1) Until July 1, 1975, the Authority is authorized to makecommitments to purchase, and to purchase on terms and conditions determined by the Authority, any obligation or participation therein which is issued by a State or local public body to finance the non-Federal share of the cost of any project for the construction of waste treatment works which the Administrator of the Environmental Protection Agency has determined to be eligible for Federal financial assistance under the Federal Water Pollution Control Act \[this chapter\].
 
 “(2) No commitment shall be entered into, and no purchase shall be made, unless the Administrator of the Environmental Protection Agency (A) has certified that the public body is unable to obtain on reasonable terms sufficient credit to finance its actual needs; (B) has approved the project as eligible under the Federal Water Pollution Control Act \[this chapter\], and (C) has agreed to guarantee timely payment of principal and interest on the obligation. The Administrator is authorized to guarantee such timely payments and to issue regulations as he deems necessary and proper to protect such guarantees. Appropriations are hereby authorized to be made to the Administrator in such sums as are necessary to make payments under such guarantees, and such payments are authorized to be made from such appropriations.
 
@@ -296,7 +296,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 &emsp;“(4) to conduct its business, carry on its operations, and have offices and exercise the powers granted by this section in any State without regard to any qualification or similar statute in any State;
 
-&emsp;“(5) to lease, purchase, or otherwise acquire, own, hold, improve, use, or otherwise deal in and with anyproperty, real, personal, or mixed, or any interest therein, wherever situated;
+&emsp;“(5) to lease, purchase, or otherwise acquire, own, hold, improve, use, or otherwise deal in and with any property, real, personal, or mixed, or any interest therein, wherever situated;
 
 &emsp;“(6) to accept gifts or donations of services, or of property, real, personal, or mixed, tangible or intangible, in aid of any of the purposes of the Authority;
 

@@ -80,7 +80,7 @@ Pub. L. 98–370, §1, July 18, 1984, 98 Stat. 1211, provided: “That this Act 
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–229, §1, Aug. 3, 1982, 96 Stat. 248, provided that: “This Act \[enacting sections 6281, 6282, and 6385 of this title, amons 6239, 6240, 6247, 6271, and 6272 of this title, and enacting provisions set out as notes under sections 6234, 6240, and 6245 of this title\] may be cited as the ‘Energy Emergency Preparedness Act of 1982’.”
+Pub. L. 97–229, §1, Aug. 3, 1982, 96 Stat. 248, provided that: “This Act \[enacting sections 6281, 6282, and 6385 of this title, amending sections 6239, 6240, 6247, 6271, and 6272 of this title, and enacting provisions set out as notes under sections 6234, 6240, and 6245 of this title\] may be cited as the ‘Energy Emergency Preparedness Act of 1982’.”
 
 #### Short Title of 1981 Amendment
 
@@ -246,7 +246,7 @@ In general.—Subject to subparagraph (B), on approval of persons representing t
 
 &emsp;&emsp;“(B)
 
-Requirement of majority of retail marketers.—Except as provided in subsection (b), the oilheat industry in a State shall not participate inthe Alliance if less than 50 percent of the retail marketer vote in the State approves establishment of the Alliance.
+Requirement of majority of retail marketers.—Except as provided in subsection (b), the oilheat industry in a State shall not participate in the Alliance if less than 50 percent of the retail marketer vote in the State approves establishment of the Alliance.
 
 &emsp;“(6)
 
@@ -800,7 +800,7 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 
 (c) Section 254(a) of the Energy Policy and Conservation Act (89 Stat. 899, 42 U.S.C. 6274(a)), including the receipt of petitions under section 254(a)(3)(B); <i>provided that</i>, the authority under section 254(a) may be exercised only after consultation with the Secretary of State;
 
-(d) Section 254(b) of the Energy Policy and Conservation Act (89 Stat. 900, 42 U.S.C. 6274(b)); <i>provided that</i>, indetermining whether the transmittal of data would prejudice competition or violate the antitrust laws, the Secretary shall consult with the Attorney General, and in determining whether the transmittal of data would be inconsistent with national security interests, he shall consult with the Secretaries of State and Defense, and the heads of such other agencies as he deems appropriate;
+(d) Section 254(b) of the Energy Policy and Conservation Act (89 Stat. 900, 42 U.S.C. 6274(b)); <i>provided that</i>, in determining whether the transmittal of data would prejudice competition or violate the antitrust laws, the Secretary shall consult with the Attorney General, and in determining whether the transmittal of data would be inconsistent with national security interests, he shall consult with the Secretaries of State and Defense, and the heads of such other agencies as he deems appropriate;
 
 (e) Section 523(a)(2)(A) of the Energy Policy and Conservation Act (89 Stat. 962, 42 U.S.C. 6393(a)(2)(A)), but only to the extent applicable to other functions delegated or assigned by this Order to the Secretary of Energy.
 
@@ -808,7 +808,7 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 
 Secs. 7 and 8. Revoked by Ex. Ord. No. 12919, §904(a)(7), June 3, 1994, 59 F.R. 29533.\]
 
-Sec. 9. All orders, regulations, circulars or other directives issued and all other action taken prior to the date of this order that would be valid under the authority delegated by this Order, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
+Sec. 9. All orders, regulations, circulars or other directives issued and all other action taken prior to thedate of this order that would be valid under the authority delegated by this Order, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
 
 Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretary, shall develop, with the concurrence of the Director of the Office of Management and Budget, and in consultation with the Secretary of Defense, the Secretary of Housing and Urban Development, the Administrator of Veterans’ Affairs, the Administrator of General Services, and the heads of such other Executive agencies as he deems appropriate, the ten-year plan for energy conservation with respect to Government buildings, as provided by section 381(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6361(a)(2)).
 
@@ -838,13 +838,13 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 (2) By July 1 of each year, each Executive agency shall submit a report to the Secretary on progress made toward achieving the goals established in the overall plan required by paragraph (1) of this subsection. The annual report shall include quantitative measures and accomplishment with respect to energy saving actions taken, the cost of these actions, the energy saved, the costs saved, and other benefits realized.
 
-(3) The Secretary shall prepare a consolidated annual report on Federal government progress toward achieving the goals, including aggregate quantitative measures of accomplishment as well as suggested revisionsto the ten-year plan, and submit the report to the President by August 15 of each year.
+(3) The Secretary shall prepare a consolidated annual report on Federal government progress toward achieving the goals, including aggregate quantitative measures of accomplishment as well as suggested revisions to the ten-year plan, and submit the report to the President by August 15 of each year.
 
 (h) Each agency required to submit a plan shall submit to the Director of the Office of Management and Budget with the agency's annual budget submission, and in accordance with procedures and requirements that the Director shall establish, estimates for implementation of the agency's plan. The Director of the Office of Management and Budget shall consult with the Secretary about the agency budget estimates.
 
 (i) Each agency shall program its proposed energy conservation improvements of buildings so as to give the highest priority to the most cost-effective projects.
 
-(j) No agency of the Federal government may enter into a lease or a commitment to lease a building the construction of which has not commenced by the effective date of this Order unless the building will likely meet or exceed the general goal set forth in subsection (b)(2).
+(j) No agency of the Federal government may enter into a lease or a commitment to lease a building the construction of which has not commenced by the effective date of this Order unless the building will likelymeet or exceed the general goal set forth in subsection (b)(2).
 
 (k) The provisions of this Section do not apply to housing units repossessed by the Federal Government.
 

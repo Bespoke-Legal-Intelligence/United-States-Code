@@ -98,7 +98,7 @@ In undertaking activities under this section, the Secretary shall—
 
 #### (e) Water use activities and policies
 
-The Secretary may provide technical assistance to the Great Lakes States to develop interstate guidelines to improve the consistency and efficiency of State-level water use activities and policies in the Great Lakes basin.
+The Secretary may provide technical assistance to the Great Lakes States to develop interstate guidelines to improve the consistency andefficiency of State-level water use activities and policies in the Great Lakes basin.
 
 #### (f) Cost sharing
 

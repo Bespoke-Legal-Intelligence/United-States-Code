@@ -35,7 +35,7 @@ Pub. L. 104–294, title VI, §604(b)(25), Oct. 11, 1996, 110 Stat. 3508, amende
 
 1990—Pub. L. 101–647, title XXXV, §3536, Nov. 29, 1990, 104 Stat. 4925, struck out item 1157 “Livestock sold or removed”.
 
-Pub. L. 101–644, title I, §104(b), Nov. 29, 1990, 104 Stat. 4663, substituted “Misrepresentation of Indian producedgoods and products” for “Misrepresentation in sale of products” in item 1159.
+Pub. L. 101–644, title I, §104(b), Nov. 29, 1990, 104 Stat. 4663, substituted “Misrepresentation of Indian produced goods and products” for “Misrepresentation in sale of products” in item 1159.
 
 Pub. L. 101–630, title IV, §404(a)(2), Nov. 28, 1990, 104 Stat. 4548, as amended, effective on the date section 404(a)(2) of Pub. L. 101–630 took effect, by Pub. L. 103–322, title XXXIII, §330011(d), Sept. 13, 1994, 108 Stat. 2144, as amended by Pub. L. 104–294, title VI, §604(b)(25), Oct. 11, 1996, 110 Stat. 3508, added item 1169.
 

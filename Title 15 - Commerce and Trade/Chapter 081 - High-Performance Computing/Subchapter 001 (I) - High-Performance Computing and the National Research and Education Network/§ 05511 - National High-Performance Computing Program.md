@@ -114,21 +114,17 @@ Subsec. (b). Pub. L. 105–305, §4(b), struck out “High-performance computing
 
 1995—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (a)(3)(A) of this section is listed on page 185), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment,unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13035. President's Information Technology Advisory Committee
 
-Ex. Ord. No. 13035, Feb. 11, 1997, 62 F.R. 7131, as amended by Ex. Ord. No. 13092, July 24, 1998, 63 F.R. 40167; Ex. Ord. No. 13113, Feb. 10, 1999, 64 F.R. 7489, provided:
+Ex. Ord. No. 13035, Feb. 11, 1997, 62 F.R. 7131, as amended by Ex. Ord. No. 13092, July 24, 1998, 63 F.R. 40167; Ex. Ord. No. 13113, Feb. 10, 1999, 64 F.R. 7489; Ex. Ord. No. 13200, Feb. 11, 2001, 66 F.R. 10183; Ex. Ord. No. 13215, May 31, 2001, 66 F.R. 30285, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the High-Performance Computing Act of 1991 (Public Law 102–194) (“Act”) \[15 U.S.C. 5501 et seq.\], as amended by the Next Generation Internet Research Act of 1998 (Public Law 105–305) (“Research Act”) \[see Short Title of 1998 Amendment note set out under section 5501 of this title\], and in order to establish an advisory committee on high-performance computing and communications, Information Technology \[sic\], and the Next Generation Internet, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the “President's Information Technology Advisory Committee” (“Committee”). The Committee shall consist of not more than 30 nonfederal members appointed by the President, including representatives of the research, education, and library communities, network providers, and representatives from critical industries. The President shall designate co-chairs from among the members of the Committee.
+Section 1. <i>Establishment</i>. There is established the “President's Information Technology Advisory Committee” (“Committee”). The Committee shall consist of not more than 30 nonfederal members appointed by the President, including representatives of the research, education, and library communities, network providers, and representatives from critical industries. Members appointed prior to June 1, 2001, shall serve until December 1, 2001, unless reappointed by the President. Members appointed or reappointed on or after June 1, 2001, shall serve for no more than 2 years from the date of their appointment, unless their period of service is extended by the President. The President shall designate two co-chairs from among the members of the Committee. A co-chair may serve for a term of 2 years or until the end of his or her service as a member of the Committee, whichever is the shorter period.
 
 Sec. 2. <i>Functions</i>. (a) The Committee shall provide the National Science and Technology Council (NSTC), through the Director of the Office of Science and Technology Policy (“Director”), with advice and information on high-performance computing and communications, information technology, and the Next Generation Internet. The Committee shall provide an independent assessment of:
 
@@ -156,9 +152,7 @@ Sec. 3. <i>Administration</i>. To the extent permitted by law and subject to the
 
 Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 App. U.S.C.\], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
 
-(b) The Committee shall terminate February 11, 2001, unless extended by the President prior to such date.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(b) The Committee shall terminate June 1, 2003., \[sic\] unless extended by the President prior to such date.
 
 #### Section Referred to in Other Sections
 

@@ -68,7 +68,7 @@ Pub. L. 88–426, §306(a)(2), Aug. 14, 1962, 78 Stat. 428, as amended by Pub. L
 
 #### Alaska, Canal Zone and Virgin Islands
 
-Act Mar. 2, 1955, ch. 9, §2(b), 69 Stat. 10, provided that: “The salaries of United States attorneys and assistant United States attorneys for the districts of Alaska, Canal Zone, and the Virgin Islands are subject to the provisions of section 508 of title 28, United States Code \[now this section.\]”
+Act Mar. 2, 1955, ch. 9, §2(b), 69 Stat. 10, provided that: “The salaries of United States attorneys and assistant United States attorneys for the districts of Alaska, Canal Zone, and the Virgin Islands are subject to theprovisions of section 508 of title 28, United States Code \[now this section.\]”
 
 #### Salary Limitations
 

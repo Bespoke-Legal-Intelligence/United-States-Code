@@ -6,7 +6,7 @@ Prior to expiration of the authority provided for in section 2212(a)(2)(A) of th
 
 &emsp;(1) the number of fractional interests in trust or restricted lands acquired; and
 
-&emsp;(2) the impact of the resulting reduction in the number of such fractional interests on the financial and realty recordkeeping systems of the Bureau of Indian Affairs.
+&emsp;(2) the impact of the resulting reduction in the number of such fractional interests on thefinancial and realty recordkeeping systems of the Bureau of Indian Affairs.
 
 #### (b) Report
 

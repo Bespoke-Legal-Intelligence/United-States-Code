@@ -62,7 +62,7 @@ For the purposes of this subchapter—
 
 &emsp;“(ii) which is regulated under the Hazardous Liquid Pipeline Safety Act of 1979 (49 U.S.C. App. 2001 et seq.), or
 
-&emsp;“(iii) which is an intrastate pipeline facility regulated under State laws as provided in the provisionsof law referred to in clause (i) or (ii) of this subparagraph,
+&emsp;“(iii) which is an intrastate pipeline facility regulated under State laws as provided in the provisions of law referred to in clause (i) or (ii) of this subparagraph,
 
 > and which is determined by the Secretary to be connected to a pipeline or to be operated or intended to be capable of operating at pipeline pressure or as an integral part of a pipeline,”.
 

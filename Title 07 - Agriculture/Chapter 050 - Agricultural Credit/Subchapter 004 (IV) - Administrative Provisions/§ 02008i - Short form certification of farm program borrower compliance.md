@@ -1,6 +1,6 @@
 ### §2008i. Short form certification of farm program borrower compliance
 
-The Secretary shall develop and utilize a consolidated short form for farm program borrowers to use in certifying compliance with any applicable provision of law (including a regulation) that serves as an eligibility prerequisite for a loan made under this chapter.
+The Secretary shall develop and utilize a consolidated short form for farm program borrowersto use in certifying compliance with any applicable provision of law (including a regulation) that serves as an eligibility prerequisite for a loan made under this chapter.
 
 (Pub. L. 87–128, title III, §374, as added Pub. L. 104–127, title VI, §649, Apr. 4, 1996, 110 Stat. 1105.)
 

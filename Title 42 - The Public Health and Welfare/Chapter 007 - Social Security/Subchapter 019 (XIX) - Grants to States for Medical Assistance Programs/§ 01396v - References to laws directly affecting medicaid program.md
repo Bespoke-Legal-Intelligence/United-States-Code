@@ -120,7 +120,7 @@ Subsec. (a)(3). Pub. L. 99–514, §1895(c)(5)(C), substituted “Sections 672(h
 
 #### Effective Date of 1988 Amendments
 
-Amendment by section 202(c)(5) of Pub. L. 100–485 effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary ofHealth and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204 of Pub. L. 100–485, set out as a note under section 671 of this title.
+Amendment by section 202(c)(5) of Pub. L. 100–485 effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485, at such earlier effective dates, see section 204 of Pub. L. 100–485, set out as a note under section 671 of this title.
 
 Amendment by section 608(d)(28) of Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 

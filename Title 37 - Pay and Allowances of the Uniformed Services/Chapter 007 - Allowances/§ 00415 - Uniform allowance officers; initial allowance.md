@@ -68,7 +68,7 @@ In subsection (b), the words “heretofore or hereafter” are omitted as surplu
 
 In subsection (c), the words “An officer” are substituted for the words “any individual”, since the revised section applies only to officers.
 
-In subsection (d), the words “who is in pay grade O–1, O–2, or O–3” are substituted for the words “is receiving the pay of the junior assistant, assistant, or senior assistant grade” to reflect current terminology. (Seechapter 3 of this revised title.) The last sentence is substituted for section 214 (words following semicolon) of title 14.
+In subsection (d), the words “who is in pay grade O–1, O–2, or O–3” are substituted for the words “is receiving the pay of the junior assistant, assistant, or senior assistant grade” to reflect current terminology. (See chapter 3 of this revised title.) The last sentence is substituted for section 214 (words following semicolon) of title 14.
 
 In subsection (e), the words “as a temporary officer” are inserted for clarity. The words “5596 or” are substituted for section 302(f) of the Act of August 7, 1947, cited above.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and all functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and all functions of all agencies of or in Public Health Service transferredto Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 #### (1) Bottled distilled spirits withdrawn from bonded premises
 
-&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may be withdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefrom as provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
+&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may be withdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefrom as provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section 5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
 
 #### (2) Bottled distilled spirits eligible for export with benefit of drawback
 

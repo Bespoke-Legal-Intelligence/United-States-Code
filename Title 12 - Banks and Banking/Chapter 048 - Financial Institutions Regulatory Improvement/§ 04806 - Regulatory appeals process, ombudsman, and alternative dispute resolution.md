@@ -26,7 +26,7 @@ Not later than 90 days after September 23, 1994, each appropriate Federal bankin
 
 &emsp;The ombudsman appointed in accordance with paragraph (1) for any agency shall—
 
-&emsp;&emsp;(A) act as a liaison between the agency and any affected person with respect to any problem such party may have in dealing with the agency resulting from the regulatory activities of the agency; and
+&emsp;&emsp;(A) act as a liaison between the agency and any affected person with respect to any problem such party may have in dealingwith the agency resulting from the regulatory activities of the agency; and
 
 &emsp;&emsp;(B) assure that safeguards exist to encourage complainants to come forward and preserve confidentiality.
 
@@ -34,7 +34,7 @@ Not later than 90 days after September 23, 1994, each appropriate Federal bankin
 
 #### (1) In general
 
-&emsp;Not later than 18 months after September 23, 1994, each Federal banking agency and the National Credit Union Administration Board shall develop and implement a pilot program for using alternative means of dispute resolution of issues in controversy (hereafter in this section referred to as the “alternative dispute resolution program”) that is consistent with the requirements of subchapter IV <sup>1</sup> of chapter 5 of title 5 if the parties to the dispute, including the agency, agree to such proceeding.
+&emsp;Not later than 18 months after September 23, 1994, each Federal banking agency and the National Credit Union Administration Board shall develop and implement a pilot program for using alternative means of dispute resolution of issues in controversy (hereafter in this section referred to as the “alternative dispute resolution program”) that is consistent with the requirements of subchapter IV of chapter 5 of title 5 if the parties to the dispute, including the agency, agree to such proceeding.
 
 #### (2) Standards
 
@@ -96,7 +96,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Alternative means of dispute resolution
 
-&emsp;The term “alternative means of dispute resolution” has the meaning given to such term in section 571 <sup>1</sup> of title 5.
+&emsp;The term “alternative means of dispute resolution” has the meaning given to such term in section 571 of title 5.
 
 #### (4) Issues in controversy
 
@@ -121,6 +121,4 @@ For termination of Administrative Conference of United States, see provision of 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1790d of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

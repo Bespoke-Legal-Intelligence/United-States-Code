@@ -140,7 +140,7 @@ Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect 
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference ofthe United States, effective Apr. 1, 1998, see note set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference ofthe United States, effective Apr. 1, 2001, see note set out under section 104 of this title.
 
 #### Section Referred to in Other Sections
 

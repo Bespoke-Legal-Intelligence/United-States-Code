@@ -36,7 +36,7 @@ When used in this chapter—
 
 #### (g) Manufacturer of cigarette papers and tubes
 
-“Manufacturer of cigarette papers and tubes” means any person who manufactures cigarette paper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
+“Manufacturer of cigarette papers and tubes” means any person who manufactures cigarettepaper, or makes up cigarette paper into tubes, except for his own personal use or consumption.
 
 #### (h) Export warehouse
 
@@ -114,7 +114,7 @@ Subsec. (k). Pub. L. 105–33, §9302(h)(4), inserted “under section 5704” a
 
 Subsec. (p). Pub. L. 105–33, §9302(g)(2), added subsec. (p).
 
-<b>1990</b>—Subsec. (m). Pub. L. 101–508 substituted heading for one which read: “Wholesale price” and amended text generally. Prior to amendment, text read as follows: “ ‘Wholesale price’ means the manufacturer's, or importer's, suggested delivered price at which the cigars are to be sold to retailers, inclusive of the tax imposed by this chapter or section 7652, but exclusive of any State or local taxes imposed on cigars as a commodity, and before any trade, cash, or other discounts, or any promotion, advertising, display, or similar allowances. Where the manufacturer's or importer's suggested delivered price to retailers is not adequately supported by bona fide arm's length sales, or where the manufacturer or importer has no suggested delivered price to retailers, the wholesale price shall be the price for which cigars of comparable retail price are sold to retailers in the ordinary course of trade as determined by the Secretary.”
+<b>1990</b>—Subsec. (m). Pub. L. 101–508 substituted heading for one which read: “Wholesale price” and amended text generally. Prior to amendment, text read as follows: “ ‘Wholesale price’ means the manufacturer's, or importer's, suggested delivered price at which the cigars are to be sold to retailers, inclusive of the tax imposed by this chapter or section 7652, but exclusive of any State or local taxes imposed on cigars as a commodity, and before any trade, cash, or other discounts, or any promotion, advertising, display, or similar allowances. Where the manufacturer's or importer's suggested delivered price to retailers is not adequately supported by bona fide arm's length sales, or where the manufacturer or importer has no suggested delivered price to retailers, the wholesale price shall be the pricefor which cigars of comparable retail price are sold to retailers in the ordinary course of trade as determined by the Secretary.”
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647, §5061(c)(1), inserted reference to pipe tobacco.
 
@@ -198,7 +198,7 @@ Amendment by section 2128(b) of Pub. L. 94–455 effective on first month which 
 
 #### Effective Date of 1965 Amendment
 
-Amendment by section 502(b)(3) of Pub. L. 89–44 applicable on and after Jan. 1, 1966, see section 701(d) of Pub. L. 89–44, set out as a note under section 5701 of this title.
+Amendment by section 502(b)(3) of Pub. L. 89–44 applicable on and after Jan. 1, 1966, see section 701(d) of Pub.L. 89–44, set out as a note under section 5701 of this title.
 
 Section 808(d)(1) of Pub. L. 89–44 provided that: “The amendments made by subsections (a) and (b)(3) \[amending this section and section 7652 of this title\] shall take effect on July 1, 1965.”
 

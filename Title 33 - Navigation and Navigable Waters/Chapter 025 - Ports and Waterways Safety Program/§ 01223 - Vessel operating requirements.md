@@ -40,7 +40,7 @@ The Secretary may order any vessel, in a port or place subject to the jurisdicti
 
 (3) Prior to making a designation pursuant to paragraph (1) hereof, and in accordance with the requirements of section 1224 of this title, the Secretary shall—
 
-&emsp;(A) within six months after date of enactment of this Act (and may, from time to time thereafter), undertake a study of the potentialtraffic density and the need for safe access routes for vessels in any area for which fairways or traffic separation schemes are proposed or which may otherwise be considered and shall publish notice of such undertaking in the Federal Register;
+&emsp;(A) within six months after date of enactment of this Act (and may, from time to time thereafter), undertake a study of the potential traffic density and the need for safe access routes for vessels in any area for which fairways or traffic separation schemes are proposed or which may otherwise be considered and shall publish notice of such undertaking in the Federal Register;
 
 &emsp;(B) in consultation with the Secretary of State, the Secretary of the Interior, the Secretary of Commerce, the Secretary of the Army, and the Governors of affected States, as their responsibilities may require, take into account all other uses of the area under consideration (including, as appropriate, the exploration for, or exploitation of, oil, gas, or other mineral resources, the construction or operation of deepwater ports or other structures on or above the seabed or subsoil of the submerged lands or the Outer Continental Shelf of the United States, the establishment or operation of marine or estuarine sanctuaries, and activities involving recreational or commercial fishing); and
 
@@ -106,7 +106,7 @@ Study.—The Secretary shall conduct a study—
 
 &emsp;“(A) of whether the Secretary should be given additional authority to direct the movement of vessels on navigable waters and should exercise such authority; and
 
-&emsp;“(B) to determine and prioritize the United States ports and channels that are in need of new, expanded,or improved vessel traffic service systems, by evaluating—
+&emsp;“(B) to determine and prioritize the United States ports and channels that are in need of new, expanded, or improved vessel traffic service systems, by evaluating—
 
 &emsp;&emsp;“(i) the nature, volume, and frequency of vessel traffic;
 

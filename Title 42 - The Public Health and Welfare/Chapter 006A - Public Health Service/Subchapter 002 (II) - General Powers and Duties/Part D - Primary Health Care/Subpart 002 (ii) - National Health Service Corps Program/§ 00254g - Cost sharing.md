@@ -22,7 +22,7 @@ The Secretary shall require, as a condition to the approval of an application un
 
 #### (b) Waiver of payment; use of funds
 
-(1) The Secretary may waive in whole or in part, on a prospective or retrospective basis, theapplication of the requirement of subsection (a)(3) of this section for an entity which is not a small health center if he determines that the entity is financially unable to meet such requirement or if he determines that compliance with such requirement would unreasonably limit the ability of the entity to provide for the adequate support of the provision of health services by Corps members.
+(1) The Secretary may waive in whole or in part, on a prospective or retrospective basis, the application of the requirement of subsection (a)(3) of this section for an entity which is not a small health center if he determines that the entity is financially unable to meet such requirement or if he determines that compliance with such requirement would unreasonably limit the ability of the entity to provide for the adequate support of the provision of health services by Corps members.
 
 (2) The Secretary may waive in whole or in part, on a prospective or retrospective basis, the application of the requirement of subsection (a)(3) of this section for any entity which is not a small health center and which is located in a health professional shortage area in which a significant percentage of the individuals are elderly, living in poverty, or have other characteristics which indicate an inability to repay, in whole or in part, the amounts required in subsection (a)(3) of this section.
 
@@ -46,7 +46,7 @@ The Secretary shall require, as a condition to the approval of an application un
 
 #### (c) Excess funds
 
-The excess (if any) of the amount of funds collected by an entity which is not a small health center in accordance with subsection (a)(2) of this section over the amount paid to the United States in accordance with subsection (a)(3) of this section or subsection (b)(5)(A) of this section shall be used by the entity to expand and improve the provision of health services to the individuals in the health professional shortage area for which the entity submitted an application or to recruit and retain health manpower to provide health services for such individuals.
+The excess (if any) of the amount of funds collected by an entity which is not a small healthcenter in accordance with subsection (a)(2) of this section over the amount paid to the United States in accordance with subsection (a)(3) of this section or subsection (b)(5)(A) of this section shall be used by the entity to expand and improve the provision of health services to the individuals in the health professional shortage area for which the entity submitted an application or to recruit and retain health manpower to provide health services for such individuals.
 
 #### (d) Charge for services; reduced rate; no charge
 
@@ -100,7 +100,7 @@ Funds received by the Secretary under an agreement entered into under this secti
 
 &emsp;(E) establish a financial reserve to assure its ability to continue providing health services.
 
-(4) The excess (if any) of the amount of funds collected by an entity which is a small health center in accordance with subsection (a)(2) of this section over the amount paid to the United States in accordance with paragraph (1) of this subsection shall be used by the center for the purposes set out in subparagraphs (A) through (E) of paragraph (3) of this subsection or to recruit and retain health manpower to provide health services to the individuals in the health professional shortage area for which the entity submitted an application.
+(4) The excess (if any) of the amount of funds collected by an entity which is a small health center in accordance with subsection (a)(2) ofthis section over the amount paid to the United States in accordance with paragraph (1) of this subsection shall be used by the center for the purposes set out in subparagraphs (A) through (E) of paragraph (3) of this subsection or to recruit and retain health manpower to provide health services to the individuals in the health professional shortage area for which the entity submitted an application.
 
 (5) For purposes of this section, the term “small health center” means an entity other than—
 
@@ -136,7 +136,7 @@ Subsec. (b)(1). Pub. L. 98–194, §3(b)(1), (2), inserted “, on a prospectiv
 
 Subsec. (b)(2). Pub. L. 98–194, §3(b)(3), (4), inserted “, on a prospective or retrospective basis,” after “in whole or in part”, and “is not a small health center and which” after “for any entity which”.
 
-Subsec. (b)(3). Pub. L. 98–194, §3(b)(5), inserted “and does not, pursuant to paragraph (5), require payment bythe entity in the amount described in subsection (f)(1) of this section,” after “paragraph (1) or (2),”.
+Subsec. (b)(3). Pub. L. 98–194, §3(b)(5), inserted “and does not, pursuant to paragraph (5), require payment by the entity in the amount described in subsection (f)(1) of this section,” after “paragraph (1) or (2),”.
 
 Subsec. (b)(5). Pub. L. 98–194, §3(b)(6), added par. (5).
 

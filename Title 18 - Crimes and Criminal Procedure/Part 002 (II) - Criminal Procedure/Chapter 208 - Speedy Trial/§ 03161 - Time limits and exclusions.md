@@ -1,6 +1,6 @@
 ### §3161. Time limits and exclusions
 
-(a) In any case involving a defendant charged with an offense, the appropriate judicial officer,at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
+(a) In any case involving a defendant charged with an offense, the appropriate judicial officer, at the earliest practicable time, shall, after consultation with the counsel for the defendant and the attorney for the Government, set the case for trial on a day certain, or list it for trial on a weekly or other short-term trial calendar at a place within the judicial district, so as to assure a speedy trial.
 
 (b) Any information or indictment charging an individual with the commission of an offense shall be filed within thirty days from the date on which such individual was arrested or served with a summons in connection with such charges. If an individual has been charged with a felony in a district in which no grand jury has been in session during such thirty-day period, the period of time for filing of the indictment shall be extended an additional thirty days.
 
@@ -72,7 +72,7 @@
 
 &emsp;(9) Any period of delay, not to exceed one year, ordered by a district court upon an application of a party and a finding by a preponderance of the evidence that an official request, as defined in section 3292 of this title, has been made for evidence of any such offense and that it reasonably appears, or reasonably appeared at the time the request was made, that such evidence is, or was, in such foreign country.
 
-(i) If trial did not commence within the time limitation specified in section 3161 because the defendant had entered a plea of guilty or nolo contendere subsequently withdrawn to any or all charges in an indictment or information, the defendant shall be deemed indicted with respect to all charges therein contained within themeaning of section 3161, on the day the order permitting withdrawal of the plea becomes final.
+(i) If trial did not commence within the time limitation specified in section 3161 because the defendant had entered a plea of guilty or nolo contendere subsequently withdrawn to any or all charges in an indictment or information, the defendant shall be deemed indicted with respect to all charges therein contained within the meaning of section 3161, on the day the order permitting withdrawal of the plea becomes final.
 
 (j)(1) If the attorney for the Government knows that a person charged with an offense is serving a term of imprisonment in any penal institution, he shall promptly—
 
@@ -80,7 +80,7 @@
 
 &emsp;(B) cause a detainer to be filed with the person having custody of the prisoner and request him to so advise the prisoner and to advise the prisoner of his right to demand trial.
 
-(2) If the person having custody of such prisoner receives a detainer, he shall promptly advise the prisoner of the charge and of the prisoner's right to demand trial. If at any time thereafter the prisoner informs the person having custody that he does demand trial, such person shall cause notice to that effect to be sent promptly to the attorney for the Government who caused the detainer to be filed.
+(2) If the person having custody of such prisoner receives a detainer, he shall promptly advise the prisoner of the charge and of the prisoner's right to demand trial. If at any timethereafter the prisoner informs the person having custody that he does demand trial, such person shall cause notice to that effect to be sent promptly to the attorney for the Government who caused the detainer to be filed.
 
 (3) Upon receipt of such notice, the attorney for the Government shall promptly seek to obtain the presence of the prisoner for trial.
 

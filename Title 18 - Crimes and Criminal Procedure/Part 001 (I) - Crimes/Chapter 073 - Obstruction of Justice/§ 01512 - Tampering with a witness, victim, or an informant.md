@@ -6,7 +6,7 @@
 
 &emsp;(B) prevent the production of a record, document, or other object, in an official proceeding; or
 
-&emsp;(C) prevent the communication by any person to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions ofprobation, parole, or release pending judicial proceedings;
+&emsp;(C) prevent the communication by any person to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, or release pending judicial proceedings;
 
 > shall be punished as provided in paragraph (2).
 
@@ -86,7 +86,7 @@ Subsec. (h). Pub. L. 100–690, §7029(a), added subsec. (h).
 
 1986—Subsec. (a). Pub. L. 99–646, §61(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
 
-Subsecs. (b) to (g). Pub. L. 99–646, §61(1), (3), redesignated former subsec. (a) as (b), inserted “, delay, orprevent”, and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+Subsecs. (b) to (g). Pub. L. 99–646, §61(1), (3), redesignated former subsec. (a) as (b), inserted “, delay, or prevent”, and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
 #### Change of Name
 
@@ -124,7 +124,7 @@ Section 2 of Pub. L. 97–291 provided that:
 
 &emsp;“(6) The victim and witness who cooperate with the prosecutor often find that the transportation, parking facilities, and child care services at the court are unsatisfactory and they must often share the pretrial waiting room with the defendant or his family and friends.
 
-&emsp;“(7) The victim may lose valuable property to a criminal only to lose it again for long periods of time to Federal law enforcement officials, until the trial and sometimes and \[sic\] appeals are over; many times that property is damaged or lost, which is particularly stressful for the elderly or poor.
+&emsp;“(7) The victim may lose valuable property to a criminal only to lose it again for long periods of timeto Federal law enforcement officials, until the trial and sometimes and \[sic\] appeals are over; many times that property is damaged or lost, which is particularly stressful for the elderly or poor.
 
 “(b) The Congress declares that the purposes of this Act \[see Short Title of 1982 Amendment note set out under section 1501 of this title\] are—
 

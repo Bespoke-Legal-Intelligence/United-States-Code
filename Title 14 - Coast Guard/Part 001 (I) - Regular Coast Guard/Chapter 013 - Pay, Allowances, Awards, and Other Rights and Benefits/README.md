@@ -39,7 +39,8 @@
 | [501\.](%C2%A7%2000501%20-%20Replacement%20of%20medals.md) | Replacement of medals. |
 | [502\.](%C2%A7%2000502%20-%20Award%20of%20other%20medals.md) | Award of other medals. |
 | [503\.](%C2%A7%2000503%20-%20Awards%20and%20insignia%20for%20excellence%20in%20service%20or%20conduct.md) | Awards and insignia for excellence in service or conduct. |
-| \[504 to 506. Repealed.\] |  |
+| [504\.](%C2%A7%2000504%20-%20Medal%20of%20honor%20duplicate%20medal.md) | Medal of honor: duplicate medal. |
+| \[505, 506. | Repealed.\] |
 | [507\.](%C2%A7%2000507%20-%20Disposition%20of%20effects%20of%20decedents.md) | Disposition of effects of decedents. |
 | [508\.](%C2%A7%2000508%20-%20Deserters%3B%20payment%20of%20expenses%20incident%20to%20apprehension%20and%20delivery%3B%20penalties.md) | Deserters; payment of expenses incident to apprehension and delivery; penalties. |
 | [509\.](%C2%A7%2000509%20-%20Persons%20discharged%20as%20result%20of%20court-martial%3B%20allowances%20to.md) | Persons discharged as result of court-martial; allowances to. |
@@ -58,6 +59,8 @@
 Chapter 13 of this title deals with pay, allowances, awards, and other rights and benefits for personnel of the Coast Guard. Some of these sections are new as applied to the Coast Guard, some clarify and consolidate existing law, and others merely restate existing law. There is no intention to amend, enlarge or curtail the Pay Readjustment Act of 1942, as amended. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title V, §553(d)(1)(B), Dec. 28, 2001, 115 Stat. 1117, added item 504.
 
 1998—Pub. L. 105–261, div. A, title VI, §644(d)(2), Oct. 17, 1998, 112 Stat. 2049, added item 516.
 
@@ -157,7 +160,8 @@ This chapter is referred to in section 705 of this title.
 - [&sect; 00501 - Replacement of medals](%C2%A7%2000501%20-%20Replacement%20of%20medals.md)
 - [&sect; 00502 - Award of other medals](%C2%A7%2000502%20-%20Award%20of%20other%20medals.md)
 - [&sect; 00503 - Awards and insignia for excellence in service or conduct](%C2%A7%2000503%20-%20Awards%20and%20insignia%20for%20excellence%20in%20service%20or%20conduct.md)
-- [&sect; 00504 to 506 - Repealed. July 15, 1954, ch. 507, &sect;14(c)(5), 68 Stat. 481](%C2%A7%2000504%20to%20506%20-%20Repealed.%20July%2015%2C%201954%2C%20ch.%20507%2C%20%C2%A714%28c%29%285%29%2C%2068%20Stat.%20481.md)
+- [&sect; 00504 - Medal of honor duplicate medal](%C2%A7%2000504%20-%20Medal%20of%20honor%20duplicate%20medal.md)
+- [&sect; 00505, 506 - Repealed. July 15, 1954, ch. 507, &sect;14(c)(5), 68 Stat. 481](%C2%A7%2000505%2C%20506%20-%20Repealed.%20July%2015%2C%201954%2C%20ch.%20507%2C%20%C2%A714%28c%29%285%29%2C%2068%20Stat.%20481.md)
 - [&sect; 00507 - Disposition of effects of decedents](%C2%A7%2000507%20-%20Disposition%20of%20effects%20of%20decedents.md)
 - [&sect; 00508 - Deserters; payment of expenses incident to apprehension and delivery; penalties](%C2%A7%2000508%20-%20Deserters%3B%20payment%20of%20expenses%20incident%20to%20apprehension%20and%20delivery%3B%20penalties.md)
 - [&sect; 00509 - Persons discharged as result of court-martial; allowances to](%C2%A7%2000509%20-%20Persons%20discharged%20as%20result%20of%20court-martial%3B%20allowances%20to.md)

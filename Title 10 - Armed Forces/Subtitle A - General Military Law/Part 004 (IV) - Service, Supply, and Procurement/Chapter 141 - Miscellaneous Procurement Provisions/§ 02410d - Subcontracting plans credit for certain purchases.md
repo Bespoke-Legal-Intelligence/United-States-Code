@@ -16,7 +16,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) a qualified nonprofit agency for other severely handicapped, as defined in section 5(4) of such Act (41 U.S.C. 48b(4)); and
 
-&emsp;&emsp;(C) a central nonprofit agency designated by the Committee for Purchase from PeopleWho Are Blind or Severely Disabled under section 2(c) of such Act (41 U.S.C. 47(c)).
+&emsp;&emsp;(C) a central nonprofit agency designated by the Committee for Purchase from People Who Are Blind or Severely Disabled under section 2(c) of such Act (41 U.S.C. 47(c)).
 
 (Added Pub. L. 102–484, div. A, title VIII, §808(b)(1), Oct. 23, 1992, 106 Stat. 2449; amended Pub. L. 103–337, div. A, title VIII, §804, Oct. 5, 1994, 108 Stat. 2815; Pub. L. 104–106, div. D, title XLIII, §4321(b)(15), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title VIII, §835, Nov. 18, 1997, 111 Stat. 1843; Pub. L. 106–65, div. A, title VIII, §807, Oct. 5, 1999, 113 Stat. 705.)
 

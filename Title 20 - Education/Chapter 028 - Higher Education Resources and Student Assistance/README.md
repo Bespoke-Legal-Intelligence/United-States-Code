@@ -122,19 +122,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—TEACHER QUALITY ENHANCEMENT GRANTS FOR STATES AND PARTNERSHIPS
+#### SUBCHAPTER II—TEACHER QUALITY ENHANCEMENT
+
+#### Part A—Teacher Quality Enhancement Grants for States and Partnerships
 
 |  |  |
 | :--- | ---: |
-| [1021\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001021%20-%20Purposes%3B%20definitions.md) | Purposes; definitions. |
+| [1021\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001021%20-%20Purposes%3B%20definitions.md) | Purposes; definitions. |
 | (a) | Purposes. |
 | (b) | Definitions. |
-| [1022\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001022%20-%20State%20grants.md) | State grants. |
+| [1022\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001022%20-%20State%20grants.md) | State grants. |
 | (a) | In general. |
 | (b) | Eligible State. |
 | (c) | Application. |
 | (d) | Uses of funds. |
-| [1023\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001023%20-%20Partnership%20grants.md) | Partnership grants. |
+| [1023\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001023%20-%20Partnership%20grants.md) | Partnership grants. |
 | (a) | Grants. |
 | (b) | Definitions. |
 | (c) | Application. |
@@ -142,39 +144,57 @@
 | (e) | Allowable uses of funds. |
 | (f) | Special rule. |
 | (g) | Construction. |
-| [1024\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001024%20-%20Teacher%20recruitment%20grants.md) | Teacher recruitment grants. |
+| [1024\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001024%20-%20Teacher%20recruitment%20grants.md) | Teacher recruitment grants. |
 | (a) | Program authorized. |
 | (b) | “Eligible applicant” defined. |
 | (c) | Application. |
 | (d) | Uses of funds. |
 | (e) | Service requirements. |
-| [1025\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001025%20-%20Administrative%20provisions.md) | Administrative provisions. |
+| [1025\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001025%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | (a) | Duration; one-time awards; payments. |
 | (b) | Peer review. |
 | (c) | Matching requirements. |
 | (d) | Limitation on administrative expenses. |
 | (e) | Teacher qualifications provided to parents upon request. |
-| [1026\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001026%20-%20Accountability%20and%20evaluation.md) | Accountability and evaluation. |
+| [1026\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001026%20-%20Accountability%20and%20evaluation.md) | Accountability and evaluation. |
 | (a) | State grant accountability report. |
 | (b) | Eligible partnership evaluation. |
 | (c) | Revocation of grant. |
 | (d) | Evaluation and dissemination. |
-| [1027\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001027%20-%20Accountability%20for%20programs%20that%20prepare%20teachers.md) | Accountability for programs that prepare teachers. |
+| [1027\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001027%20-%20Accountability%20for%20programs%20that%20prepare%20teachers.md) | Accountability for programs that prepare teachers. |
 | (a) | Development of definitions and reporting methods. |
 | (b) | State report card on quality of teacher preparation. |
 | (c) | Initial report. |
 | (d) | Report of Secretary on quality of teacher preparation. |
 | (e) | Coordination. |
 | (f) | Institutional report cards on quality of teacher preparation. |
-| [1028\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001028%20-%20State%20functions.md) | State functions. |
+| [1028\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001028%20-%20State%20functions.md) | State functions. |
 | (a) | State assessment. |
 | (b) | Termination of eligibility. |
 | (c) | Negotiated rulemaking. |
-| [1029\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001029%20-%20General%20provisions.md) | General provisions. |
+| [1029\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001029%20-%20General%20provisions.md) | General provisions. |
 | (a) | Methods. |
 | (b) | Special rule. |
 | (c) | Limitations. |
-| [1030\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001030%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [1030\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20A%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/%C2%A7%2001030%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part B—Preparing Tomorrow's Teachers To Use Technology
+
+|  |  |
+| :--- | ---: |
+| [1041\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Preparing%20Tomorrow%27s%20Teachers%20to%20Use%20Technology/%C2%A7%2001041%20-%20Purpose%20and%20program%20authority.md) | Purpose and program authority. |
+| (a) | Purpose. |
+| (b) | Program authority. |
+| [1042\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Preparing%20Tomorrow%27s%20Teachers%20to%20Use%20Technology/%C2%A7%2001042%20-%20Eligibility.md) | Eligibility. |
+| (a) | Eligible applicants. |
+| (b) | Application requirements. |
+| (c) | Matching requirements. |
+| [1043\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Preparing%20Tomorrow%27s%20Teachers%20to%20Use%20Technology/%C2%A7%2001043%20-%20Use%20of%20funds.md) | Use of funds. |
+| (a) | Required uses. |
+| (b) | Permissible uses. |
+| [1044\.](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/Part%20B%20-%20Preparing%20Tomorrow%27s%20Teachers%20to%20Use%20Technology/%C2%A7%2001044%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1714,7 +1734,7 @@ I74subpart 1—jacob k. javits fellowship program
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1232g, 1234i, 2327, 3441, 6143 of this title; title 11 sections 362, 541;title 25 sections 13, 13d–2, 309b, 640c–2, 1809; title 26 sections 144, 150; title 42 sections 292a, 12651d, 14117.
+This chapter is referred to in sections 1232g, 1234i, 2327, 3441, 6143 of this title; title 11 sections 362, 541; title 25 sections 13, 13d–2, 309b, 640c–2, 1809; title 26 sections 144, 150; title 42 sections 292a, 12651d, 14117.
 
 
 ---
@@ -1722,7 +1742,7 @@ This chapter is referred to in sections 1232g, 1234i, 2327, 3441, 6143 of this t
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
-- [Subchapter 002 (II) - Teacher Quality Enhancement Grants for States and Partnerships](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement%20Grants%20for%20States%20and%20Partnerships/README.md)
+- [Subchapter 002 (II) - Teacher Quality Enhancement](Subchapter%20002%20%28II%29%20-%20Teacher%20Quality%20Enhancement/README.md)
 - [Subchapter 003 (III) - Institutional Aid](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/README.md)
 - [Subchapter 004 (IV) - Student Assistance](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/README.md)
 - [Subchapter 005 (V) - Developing Institutions](Subchapter%20005%20%28V%29%20-%20Developing%20Institutions/README.md)

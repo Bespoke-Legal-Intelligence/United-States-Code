@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, a Federal income tax return of, or t
 
 &emsp;(2) the fifteenth day of the third month after the month in which an executor, administrator, or conservator of the estate of the taxpayer is appointed.
 
-> That due date is prescribed subject to the power of the Secretary of the Treasury or his delegate to extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of the Internal Revenue Code of 1986 in cases in which the assessment or collection is jeopardized and in cases of bankruptcy or receivership.
+> That due date is prescribed subject to the power of the Secretary of the Treasury or his delegate to extend the time for filing the return or paying the tax, as in other cases, and to assess and collect the tax as provided by sections 6851, 6861, and 6871 of the Internal Revenue Code of 1986 in cases in which the assessment or collection isjeopardized and in cases of bankruptcy or receivership.
 
 (Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 631; amended Pub. L. 96–513, title V, §516(16), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 100–26, §8(c), Apr. 21, 1987, 101 Stat. 285.)
 

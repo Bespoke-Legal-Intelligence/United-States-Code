@@ -15,3 +15,4 @@ This subchapter is referred to in sections 3485, 4103 of this title; title 29 se
 - [&sect; 07724 - Outstationing of counseling and outreach personnel](%C2%A7%2007724%20-%20Outstationing%20of%20counseling%20and%20outreach%20personnel.md)
 - [&sect; 07725 - Use of other agencies](%C2%A7%2007725%20-%20Use%20of%20other%20agencies.md)
 - [&sect; 07726 - Annual report to Congress](%C2%A7%2007726%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 07727 - Outreach for eligible dependents](%C2%A7%2007727%20-%20Outreach%20for%20eligible%20dependents.md)

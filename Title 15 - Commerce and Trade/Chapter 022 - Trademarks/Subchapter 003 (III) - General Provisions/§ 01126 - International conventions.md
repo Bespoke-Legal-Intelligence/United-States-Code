@@ -26,7 +26,7 @@ An application for registration of a mark under section 1051, 1053, 1054, or 109
 
 &emsp;(4) nothing in this subsection shall entitle the owner of a registration granted under this section to sue for acts committed prior to the date on which his mark was registered in this country unless the registration is based on use in commerce.
 
-In like manner and subject to the same conditions and requirements, the right provided in this section may be based upon a subsequent regularly filed application in the same foreign country, instead of the first filed foreign application: <i>Provided</i>, That any foreign application filed prior to such subsequent application has been withdrawn, abandoned, or otherwise disposed of, without having been laid open to public inspection and without leaving any rights outstanding, and has not served, nor thereafter shall serve, as a basis for claiming a right of priority.
+In like manner and subject to the same conditions and requirements, the right provided in this section may be based upon a subsequent regularly filed application in the same foreigncountry, instead of the first filed foreign application: <i>Provided</i>, That any foreign application filed prior to such subsequent application has been withdrawn, abandoned, or otherwise disposed of, without having been laid open to public inspection and without leaving any rights outstanding, and has not served, nor thereafter shall serve, as a basis for claiming a right of priority.
 
 #### (e) Registration on principal or supplemental register; copy of foreign registration
 
@@ -46,7 +46,7 @@ Any person designated in subsection (b) of this section as entitled to the benef
 
 #### (i) Citizens or residents of United States entitled to benefits of section
 
-Citizens or residents of the United States shall have the same benefits as are granted by thissection to persons described in subsection (b) of this section.
+Citizens or residents of the United States shall have the same benefits as are granted by this section to persons described in subsection (b) of this section.
 
 (July 5, 1946, ch. 540, title IX, §44, 60 Stat. 441; Pub. L. 87–333, §2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, §20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, §108, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 

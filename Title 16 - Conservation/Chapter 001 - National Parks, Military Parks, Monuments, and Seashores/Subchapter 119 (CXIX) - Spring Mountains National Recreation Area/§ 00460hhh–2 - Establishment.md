@@ -10,7 +10,7 @@ The Recreation Area shall consist of approximately 316,000 acres of federally ow
 
 #### (c) Map filing
 
-As soon as practicable after August 4, 1993, the Secretary shall file a map of the Recreation Area with the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
+As soon as practicable after August 4, 1993, the Secretary shall file a map of the RecreationArea with the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
 
 #### (d) Public inspection
 

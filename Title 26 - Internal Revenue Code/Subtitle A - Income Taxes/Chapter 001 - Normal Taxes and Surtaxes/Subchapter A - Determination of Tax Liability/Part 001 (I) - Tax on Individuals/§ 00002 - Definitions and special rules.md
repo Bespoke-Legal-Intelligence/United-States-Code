@@ -32,7 +32,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this subtitle, an individual shall be considered a head of a household if, and only if, such individual is not married at the close of his taxable year, is not a surviving spouse (as defined in subsection (a)), and either—
+&emsp;For purposes of this subtitle, an individual shall be considered a head of a household if, and only if, such individual is not married at the close of his taxable year, is not a survivingspouse (as defined in subsection (a)), and either—
 
 &emsp;&emsp;(A) maintains as his home a household which constitutes for more than one-half of such taxable year the principal place of abode, as a member of such household, of—
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(C) a taxpayer shall be considered as not married at the close of his taxable year if at any time during the taxable year his spouse is a nonresident alien; and
 
-&emsp;&emsp;(D) a taxpayer shall be considered as married at the close of his taxable year if hisspouse (other than a spouse described in subparagraph (C)) died during the taxable year.
+&emsp;&emsp;(D) a taxpayer shall be considered as married at the close of his taxable year if his spouse (other than a spouse described in subparagraph (C)) died during the taxable year.
 
 #### (3) Limitations
 
@@ -152,5 +152,5 @@ Amendment by Pub. L. 88–272, except for purposes of section 21 of this title, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 32, 55, 63, 151, 3402, 6012, 6013 of this title; title 20 sections 1087nn, 1087<i>oo</i>, 1087qq; title 38 section 1503.
+This section is referred to in sections 1, 32, 63, 151, 3402, 6012, 6013 of this title; title 20 sections 1087nn, 1087<i>oo</i>, 1087qq; title 38 section 1503.
 

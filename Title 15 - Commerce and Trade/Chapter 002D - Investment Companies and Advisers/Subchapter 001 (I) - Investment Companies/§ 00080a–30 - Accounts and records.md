@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 For purposes of this section—
 
-&emsp;(1) the term “internal compliance policies and procedures” means policies and procedures designed by subject persons to promote compliance with the Federal securities laws; and
+&emsp;(1) the term “internal compliance policies and procedures” means policies and procedures designed by subject persons to promotecompliance with the Federal securities laws; and
 
 &emsp;(2) the term “internal compliance and audit record” means any record prepared by a subject person in accordance with internal compliance policies and procedures.
 

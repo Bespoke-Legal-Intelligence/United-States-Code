@@ -65,7 +65,23 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—RECOVERY AUDITS
+
+|  |  |
+| :--- | ---: |
+| [3561\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003561%20-%20Identification%20of%20errors%20made%20by%20executive%20agencies%20in%20payments%20to%20contractors%20and%20recovery%20of%20amounts%20erroneously%20paid.md) | Identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid. |
+| [3562\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003562%20-%20Disposition%20of%20recovered%20funds.md) | Disposition of recovered funds. |
+| [3563\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003563%20-%20Sources%20of%20recovery%20services.md) | Sources of recovery services. |
+| [3564\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003564%20-%20Management%20improvement%20programs.md) | Management improvement programs. |
+| [3565\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003565%20-%20Relationship%20to%20authority%20of%20Inspectors%20General.md) | Relationship to authority of Inspectors General. |
+| [3566\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003566%20-%20Privacy%20protections.md) | Privacy protections. |
+| [3567\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003567%20-%20Definition%20of%20executive%20agency.md) | Definition of executive agency. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title VIII, §831(a)(2), Dec. 28, 2001, 115 Stat. 1188, added subchapter VI heading and items 3561 to 3567.
 
 2000—Pub. L. 106–531, §3(c), Nov. 22, 2000, 114 Stat. 2539, added item 3516.
 
@@ -77,7 +93,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3726 of this title; title 20 section 8508; title 22 section 2421; title 38 section 7807; title 40 section 756; title 48 sections 1469b, 1683; title 49 sections 5334, 44308.
+This chapter is referred to in section 3726 of this title; title 22 section 2421; title 38 section 7807; title 40 section 756; title 48 sections 1469b, 1683; title 49 sections 5334, 44308.
 
 
 ---
@@ -89,3 +105,4 @@ This chapter is referred to in section 3726 of this title; title 20 section 8508
 - [Subchapter 003 (III) - Auditing and Settling Accounts](Subchapter%20003%20%28III%29%20-%20Auditing%20and%20Settling%20Accounts/README.md)
 - [Subchapter 004 (IV) - Collection](Subchapter%20004%20%28IV%29%20-%20Collection/README.md)
 - [Subchapter 005 (V) - Procurement Protest System](Subchapter%20005%20%28V%29%20-%20Procurement%20Protest%20System/README.md)
+- [Subchapter 006 (VI) - Recovery Audits](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/README.md)

@@ -6,7 +6,7 @@ Provisions similar to those in this subchapter were contained in chapters 13 (§
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1228, 8802, 8892 of this title.
+This subchapter is referred to in sections 1228, 7802 of this title.
 
 
 ---

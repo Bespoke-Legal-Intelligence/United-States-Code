@@ -34,7 +34,7 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 &emsp;&emsp;(C) to describe the function and activities to be carried out by such public housing agencies affected by the plan; and
 
-&emsp;&emsp;(D) to demonstrate that the amounts received by the jurisdiction will be maintained separate from other funds available to thejurisdiction and will be used only to carry out the plan;
+&emsp;&emsp;(D) to demonstrate that the amounts received by the jurisdiction will be maintained separate from other funds available to the jurisdiction and will be used only to carry out the plan;
 
 &emsp;(8) shall include information describing how the jurisdiction will make decisions regarding asset management of housing for low-income families under programs for covered housing assistance or assisted with grant amounts under this subchapter;
 

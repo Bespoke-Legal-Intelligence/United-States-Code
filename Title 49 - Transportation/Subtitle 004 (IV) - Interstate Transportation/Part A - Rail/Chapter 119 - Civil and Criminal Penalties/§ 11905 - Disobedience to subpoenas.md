@@ -1,6 +1,6 @@
 ### §11905. Disobedience to subpoenas
 
-A person not obeying a subpoena or requirement of the Board to appear and testify or produce records shall be fined at least $100 but not more than $5,000, imprisoned for not more than one year, or both.
+A person not obeying a subpoena or requirement of the Board to appear and testify orproduce records shall be fined at least $100 but not more than $5,000, imprisoned for not more than one year, or both.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 852.)
 

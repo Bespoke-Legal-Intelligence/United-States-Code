@@ -42,7 +42,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 &emsp;(2) prior to selecting a foreign government or foreign central bank to receive assistance under the program, shall receive the concurrence of the Secretary of State with respect to the selection of such government or central bank and with respect to the cost of the assistance to such government or central bank;
 
-&emsp;(3) shall consult with the heads of appropriate Executive agencies of the United States, including the Secretary of State and the Administrator of the United States Agency for International Development, and appropriate international financial institutions to avoid duplicative efforts with respect to those foreign countries for which such agencies or organizations provide similar assistance;
+&emsp;(3) shall consult with the heads of appropriate Executive agencies of the UnitedStates, including the Secretary of State and the Administrator of the United States Agency for International Development, and appropriate international financial institutions to avoid duplicative efforts with respect to those foreign countries for which such agencies or organizations provide similar assistance;
 
 &emsp;(4) shall ensure that the program is consistent with the International Affairs Strategic Plan and Mission Performance Plan of the United States Agency for International Development;
 

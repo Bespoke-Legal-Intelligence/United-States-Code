@@ -50,7 +50,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(B) A footnote to the category referred to in paragraph (1)(C) showing that such category consists of agriculture, natural resources, environment, transportation, education, job training, economic development, space, energy, and general science.
 
-&emsp;&emsp;(C) A footnote to the category referred to in paragraph (1)(D) showing the percentageof the total outlays which is for medicaid, food stamps, and assistance under a State program funded under part A of title IV of the Social Security Act and the percentage of total outlays which is for public health, unemployment, assisted housing, and social services.
+&emsp;&emsp;(C) A footnote to the category referred to in paragraph (1)(D) showing the percentage of the total outlays which is for medicaid, food stamps, and assistance under a State program funded under part A of title IV of the Social Security Act and the percentage of total outlays which is for public health, unemployment, assisted housing, and social services.
 
 #### (4) Data on which graphs are based
 

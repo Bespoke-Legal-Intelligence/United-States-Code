@@ -38,7 +38,7 @@
 
 (2) A vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel of less than 5,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14) before January 1, 1994, may not operate in the navigable waters or the Exclusive Economic Zone of the United States after January 1, 2015, unless the vessel is equipped with a double hull or with a double containment system determined by the Secretary to be as effective as a double hull for the prevention of a discharge of oil.
 
-(3) A vessel for which a building contract or contract for major conversion was placed before June 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14) before January 1, 1994, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
+(3) A vessel for which a building contract or contract for major conversion was placed beforeJune 30, 1990, and that is delivered under that contract before January 1, 1994, and a vessel that had its appraised salvage value determined by the Coast Guard before June 30, 1990, and that qualifies for documentation under section 4136 of the Revised Statutes of the United States (46 App. U.S.C. 14) before January 1, 1994, may not operate in the navigable waters or Exclusive Economic Zone of the United States unless equipped with a double hull—
 
 &emsp;(A) in the case of a vessel of at least 5,000 gross tons but less than 15,000 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
@@ -102,7 +102,7 @@
 
 (d) The operation of barges described in subsection (b)(5) outside waters described in that subsection shall be on any conditions as the Secretary may require.
 
-(e)(1) For the purposes of this section and except as otherwise provided in paragraphs (2) and (3) of this subsection, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997, as the tonnage measured under section 14502 of this title, or as an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
+(e)(1) For the purposes of this section and except as otherwise provided in paragraphs (2) and (3) of this subsection, the gross tonnage of a vessel shall be the gross tonnage that would have been recognized by the Secretary on July 1, 1997, as the tonnage measured under section 14502 of this title, or as an alternate tonnage measuredunder section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
 (2)(A) The Secretary may waive the application of paragraph (1) to a tank vessel if—
 
@@ -182,7 +182,7 @@ Review and assessment.—The Secretary shall—
 
 &emsp;“(C) report the results of the review and assessment to the Congress with recommendations for legislative or other action.
 
-“(3)(A) The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council to conduct the necessary research and development of a rationally based equivalency assessment approach, which accounts for the overall environmental performance of alternative tank vessel designs. Notwithstanding the Coast Guard opinion of the application of sections 101 and 311 of the Clean Water Act (33 U.S.C. 1251 and 1321), the intent of this study is to establish an equivalency evaluation procedure that maintains a high standard of environmental protection, while encouraging innovative ship design. The study shall include:
+“(3)(A) The Secretary of Transportation shall coordinate with the Marine Board of the National ResearchCouncil to conduct the necessary research and development of a rationally based equivalency assessment approach, which accounts for the overall environmental performance of alternative tank vessel designs. Notwithstanding the Coast Guard opinion of the application of sections 101 and 311 of the Clean Water Act (33 U.S.C. 1251 and 1321), the intent of this study is to establish an equivalency evaluation procedure that maintains a high standard of environmental protection, while encouraging innovative ship design. The study shall include:
 
 &emsp;“(i) development of a generalized cost spill data base, which includes all relevant costs such as clean-up costs and environmental impact costs as a function of spill size;
 

@@ -20,7 +20,7 @@ During a moratorium period, it is unlawful for any person—
 
 #### (1) Civil penalty
 
-&emsp;Any person who commits any act that is unlawful under subsection (b) of this section shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson Act (16 U.S.C. 1858).
+&emsp;Any person who commits any act that is unlawful under subsection (b) of this section shall be liable to the United States for a civilpenalty as provided by section 308 of the Magnuson Act (16 U.S.C. 1858).
 
 #### (2) Civil forfeitures
 

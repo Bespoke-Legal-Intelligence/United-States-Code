@@ -6,11 +6,11 @@ The Secretary may make grants to, and enter into contracts or cooperative agreem
 
 #### (b) Projects
 
-The Secretary shall establish criteria to ensure that services will be available under this section to States that have a fundamental basis for the collection, analysis, and reporting of mental health and substance abuse performance measures and States that do not have such basis. The Secretary will establish criteria for determining whether a State has a fundamental basis for the collection, analysis, and reporting of data.
+The Secretary shall establish criteria to ensure that services will be available under this section to States that have a fundamental basis for the collection, analysis, and reporting ofmental health and substance abuse performance measures and States that do not have such basis. The Secretary will establish criteria for determining whether a State has a fundamental basis for the collection, analysis, and reporting of data.
 
 #### (c) Condition of receipt of funds
 
-As a condition of the receipt of an award under this section a State shall agree to collect, analyze, and report to the Secretary within 2 yearsof the date of the award on a core set of performance measures to be determined by the Secretary in conjunction with the States.
+As a condition of the receipt of an award under this section a State shall agree to collect, analyze, and report to the Secretary within 2 years of the date of the award on a core set of performance measures to be determined by the Secretary in conjunction with the States.
 
 #### (d) Matching requirement
 

@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 104–93, §502(a)(3), added subsec. (d).
 
 1992—Subsec. (a). Pub. L. 102–496 substituted “the Central Intelligence Agency Retirement Act” for “the Central Intelligence Agency Retirement Act of 1964 for Certain Employees” and inserted “(50 U.S.C. 403r)” after “the Central Intelligence Agency Act of 1949”.
 
-1989—Subsec. (a). Pub. L. 101–193 struck out “who are subject to chapter 84 of title 5,” after “such civilian personnel” in last sentence and inserted reference to section 18 of the Central Intelligence Agency Act of 1949.
+1989—Subsec. (a). Pub. L. 101–193 struck out “who are subject to chapter 84 of title 5,” after “such civilian personnel” in last sentence and inserted reference tosection 18 of the Central Intelligence Agency Act of 1949.
 
 1986—Subsec. (a). Pub. L. 99–569 inserted reference to par. (5) of section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081(5)).
 

@@ -2,7 +2,7 @@
 
 #### (a) Functions of Secretary and Department of the Interior
 
-There are hereby transferred to and vested in the Administrator all functions of the Secretaryof the Interior, the Department of the Interior, and officers and components of that Department—
+There are hereby transferred to and vested in the Administrator all functions of the Secretary of the Interior, the Department of the Interior, and officers and components of that Department—
 
 &emsp;(1) as relate to or are utilized by the Office of Petroleum Allocation;
 
@@ -24,5 +24,5 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 #### Abolition of Cost of Living Council
 
-Cost of Living Council abolished July 1, 1974, by Ex. Ord. No. 11788, §1, June 18, 1974, 39 F.R. 22113, formerly set out as a note under section 1904 of Title 12, Banks and Banking.
+Cost of Living Council abolished July 1, 1974, by Ex. Ord. No. 11788, §1, June 18, 1974, 39 F.R. 22113.
 

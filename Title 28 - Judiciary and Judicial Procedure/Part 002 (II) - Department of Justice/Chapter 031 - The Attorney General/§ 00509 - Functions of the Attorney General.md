@@ -46,6 +46,122 @@ Section 235(a)(1)(B)(ii)(IV) of Pub. L. 98–473 provided that the amendment mad
 
 For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
+#### Development and Support of Cybersecurity Forensic Capabilities
+
+Pub. L. 107–56, title VIII, §816, Oct. 26, 2001, 115 Stat. 385, provided that:
+
+“(a)
+
+In General.—The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
+
+&emsp;“(1) to provide forensic examinations with respect to seized or intercepted computer evidence relating to criminal activity (including cyberterrorism);
+
+&emsp;“(2) to provide training and education for Federal, State, and local law enforcement personnel and prosecutors regarding investigations, forensic analyses, and prosecutions of computer-related crime (including cyberterrorism);
+
+&emsp;“(3) to assist Federal, State, and local law enforcement in enforcing Federal, State, and local criminal laws relating to computer-related crime;
+
+&emsp;“(4) to facilitate and promote the sharing of Federal law enforcement expertise and information about the investigation, analysis, and prosecution of computer-related crime with State and local law enforcement personnel and prosecutors, including the use of multijurisdictional task forces; and
+
+&emsp;“(5) to carry out such other activities as the Attorney General considers appropriate.
+
+“(b)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+Authorization.—There is hereby authorized to be appropriated in each fiscal year $50,000,000 for purposes of carrying out this section.
+
+&emsp;“(2)
+
+Availability.—Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.”
+
+#### Training of Government Officials Regarding Identification and Use of Foreign Intelligence
+
+Pub. L. 107–56, title IX, §908, Oct. 26, 2001, 115 Stat. 391, provided that:
+
+“(a)
+
+Program Required.—The Attorney General shall, in consultation with the Director of Central Intelligence, carry out a program to provide appropriate training to officials described in subsection (b) in order to assist such officials in—
+
+&emsp;“(1) identifying foreign intelligence information in the course of their duties; and
+
+&emsp;“(2) utilizing foreign intelligence information in the course of their duties, to the extent that the utilization of such information is appropriate for such duties.
+
+“(b)
+
+Officials.—The officials provided training under subsection (a) are, at the discretion of the Attorney General and the Director, the following:
+
+&emsp;“(1) Officials of the Federal Government who are not ordinarily engaged in the collection, dissemination, and use of foreign intelligence in the performance of their duties.
+
+&emsp;“(2) Officials of State and local governments who encounter, or may encounter in the course of a terrorist event, foreign intelligence in the performance of their duties.
+
+“(c)
+
+Authorization of Appropriations.—There is hereby authorized to be appropriated for the Department of Justice such sums as may be necessary for purposes of carrying out the program required by subsection (a).”
+
+#### First Responders Assistance Act
+
+Pub. L. 107–56, title X, §1005, Oct. 26, 2001, 115 Stat. 393, provided that:
+
+“(a)
+
+Grant Authorization.—The Attorney General shall make grants described in subsections (b) and (c) to States and units of local government to improve the ability of State and local law enforcement, fire department and first responders to respond to and prevent acts of terrorism.
+
+“(b)
+
+Terrorism Prevention Grants.—Terrorism prevention grants under this subsection may be used for programs, projects, and other activities to—
+
+&emsp;“(1) hire additional law enforcement personnel dedicated to intelligence gathering and analysis functions, including the formation of full-time intelligence and analysis units;
+
+&emsp;“(2) purchase technology and equipment for intelligence gathering and analysis functions, including wire-tap, pen links, cameras, and computer hardware and software;
+
+&emsp;“(3) purchase equipment for responding to a critical incident, including protective equipment for patrol officers such as quick masks;
+
+&emsp;“(4) purchase equipment for managing a critical incident, such as communications equipment for improved interoperability among surrounding jurisdictions and mobile command posts for overall scene management; and
+
+&emsp;“(5) fund technical assistance programs that emphasize coordination among neighboring law enforcement agencies for sharing resources, and resources coordination among law enforcement agencies for combining intelligence gathering and analysis functions, and the development of policy, procedures, memorandums of understanding, and other best practices.
+
+“(c)
+
+Antiterrorism Training Grants.—Antiterrorism training grants under this subsection may be used for programs, projects, and other activities to address—
+
+&emsp;“(1) intelligence gathering and analysis techniques;
+
+&emsp;“(2) community engagement and outreach;
+
+&emsp;“(3) critical incident management for all forms of terrorist attack;
+
+&emsp;“(4) threat assessment capabilities;
+
+&emsp;“(5) conducting followup investigations; and
+
+&emsp;“(6) stabilizing a community after a terrorist incident.
+
+“(d)
+
+Application.—
+
+&emsp;“(1)
+
+In general.—Each eligible entity that desires to receive a grant under this section shall submit an application to the Attorney General, at such time, in such manner, and accompanied by such additional information as the Attorney General may reasonably require.
+
+&emsp;“(2)
+
+Contents.—Each application submitted pursuant to paragraph (1) shall—
+
+&emsp;&emsp;“(A) describe the activities for which assistance under this section is sought; and
+
+&emsp;&emsp;“(B) provide such additional assurances as the Attorney General determines to be essential to ensure compliance with the requirements of this section.
+
+“(e)
+
+Minimum Amount.—If all applications submitted by a State or units of local government within that State have not been funded under this section in any fiscal year, that State, if it qualifies, and the units of local government within that State, shall receive in that fiscal year not less than 0.5 percent of the total amount appropriated in that fiscal year for grants under this section.
+
+“(f)
+
+Authorization of Appropriations.—There are authorized to be appropriated $25,000,000 for each of the fiscal years 2003 through 2007.”
+
 #### Reimbursement of Employees Traveling on Behalf of United States in Temporary Duty Status
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: “Effective with the enactment of this Act \[Sept. 30, 1996\] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: <i>Provided</i>, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement.”
@@ -74,7 +190,7 @@ Pub. L. 101–647, title XXV, §§2536–2539, Nov. 29, 1990, 104 Stat. 4883, 48
 
 “(a)
 
-Establishment.—There is established within the Office of the Deputy Attorney General in the Department of Justice a Financial Institutions Fraud Unit to be headed by a special counsel (hereafter in this title \[probably means this subtitle which is subtitle D\(§§2536–2540) of title XXV of Pub. L. 101–647, which amended section 1441a of Title 12, Banks and Banking, and enacted this note\] referred to as the ‘Special Counsel’).
+Establishment.—There is established within the Office of the Deputy Attorney General in the Department of Justice a Financial Institutions Fraud Unit to be headed by a special counsel (hereafter in this title \[probably means this subtitle which is subtitle D (§§2536–2540) of title XXV of Pub. L. 101–647, which amended section 1441a of Title 12, Banks and Banking, and enacted this note\] referred to as the ‘Special Counsel’).
 
 “(b)
 
@@ -172,7 +288,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 &emsp;“(2) shall expire on December 31, 2004.
 
-“(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the Federal Government to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority.”
+“(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the Federal Government to conduct or to assist the Department ofJustice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority.”
 
 #### Processing of Name Checks and Background Records for Noncriminal Employment, Licensing, and Humanitarian Purposes
 
@@ -412,9 +528,9 @@ The response of the Federal Government must be unified. And it must be total.
 
 Today, in my Message on Crime, I recommended strong new laws to control dangerous drugs. I also recommended an increase of more than thirty percent in the number of Federal agents enforcing the narcotic and dangerous drug laws.
 
-I now propose that a single Bureau of Narcotics and Dangerous Drugs be established in the Department of Justice to administer those laws and to bring to theAmerican people the most efficient and effective Federal enforcement machinery we can devise.
+I now propose that a single Bureau of Narcotics and Dangerous Drugs be established in the Department of Justice to administer those laws and to bring to the American people the most efficient and effective Federal enforcement machinery we can devise.
 
-Under this Reorganization Plan the Attorney General will have full authority and responsibility for enforcing the Federal laws relating to narcotics and dangerous drugs. The new Bureau of Narcotics and Dangerous Drugs, to be headed by a Director appointed by the Attorney General, will:
+Under this Reorganization Plan the Attorney General will have full authority and responsibility for enforcingthe Federal laws relating to narcotics and dangerous drugs. The new Bureau of Narcotics and Dangerous Drugs, to be headed by a Director appointed by the Attorney General, will:
 
 &emsp;—consolidate the authority and preserve the experience and manpower of the Bureau of Narcotics and the Bureau of Drug Abuse Control.
 
@@ -536,7 +652,7 @@ More specifically, the drug law enforcement activities of the United States now 
 
 This aggregation of Federal activities has grown up rapidly over the past few years in response to the urgent need for stronger anti-drug measures. It has enabled us to make a very encouraging beginning in the accelerated drug enforcement drive of this Administration.
 
-But it also has serious operational and organizational shortcomings. Certainly the cold-blooded underworld networks that funnel narcotics from suppliers all over the world into the veins of American drug victims are no respecters of the bureaucratic dividing lines that now complicate our anti-drug efforts. On the contrary,these modern-day slave traders can derive only advantage from the limitations of the existing organizational patchwork. Experience has now given us a good basis for correcting those limitations, and it is time to do so.
+But it also has serious operational and organizational shortcomings. Certainly the cold-blooded underworld networks that funnel narcotics from suppliers all over the world into the veins of American drug victims are no respecters of the bureaucratic dividing lines that now complicate our anti-drug efforts. On the contrary, these modern-day slave traders can derive only advantage from the limitations of the existing organizational patchwork. Experience has now given us a good basis for correcting those limitations, and it is time to do so.
 
 I therefore propose creation of a single, comprehensive Federal agency within the Department of Justice to lead the war against illicit drug traffic.
 

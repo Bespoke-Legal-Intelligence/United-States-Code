@@ -2,7 +2,7 @@
 
 (a)
 
-Making of Additional Copy or Adaptation by Owner of Copy.—Notwithstanding the provisions of section 106, it is not an infringement for the owner of a copy of a computer program to make or authorize the making of another copy or adaptation of that computer program provided:
+Making of Additional Copy or Adaptation by Owner of Copy.—Notwithstanding theprovisions of section 106, it is not an infringement for the owner of a copy of a computer program to make or authorize the making of another copy or adaptation of that computer program provided:
 
 &emsp;(1) that such a new copy or adaptation is created as an essential step in the utilization of the computer program in conjunction with a machine and that it is used in no other manner, or
 
@@ -14,7 +14,7 @@ Lease, Sale, or Other Transfer of Additional Copy or Adaptation.—Any exact cop
 
 (c)
 
-Machine Maintenance or Repair.—Notwithstanding the provisions of section 106, it isnot an infringement for the owner or lessee of a machine to make or authorize the making of a copy of a computer program if such copy is made solely by virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for purposes only of maintenance or repair of that machine, if—
+Machine Maintenance or Repair.—Notwithstanding the provisions of section 106, it is not an infringement for the owner or lessee of a machine to make or authorize the making of a copy of a computer program if such copy is made solely by virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for purposes only of maintenance or repair of that machine, if—
 
 &emsp;(1) such new copy is used in no other manner and is destroyed immediately after the maintenance or repair is completed; and
 

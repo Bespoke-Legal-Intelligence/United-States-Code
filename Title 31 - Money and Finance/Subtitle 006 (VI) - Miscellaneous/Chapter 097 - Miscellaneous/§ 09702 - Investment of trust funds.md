@@ -26,5 +26,5 @@ The section is substituted for 31:547a for clarity and consistency in the revise
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2350k; title 50 App. sections 1989b–3, 1989c–2.
+This section is referred to in title 10 section 2350k; title 42 section 7384e; title 50 App. sections 1989b–3, 1989c–2.
 

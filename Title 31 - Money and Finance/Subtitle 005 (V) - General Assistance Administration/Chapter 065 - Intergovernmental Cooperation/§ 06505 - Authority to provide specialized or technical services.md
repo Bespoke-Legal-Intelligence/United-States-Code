@@ -1,6 +1,6 @@
 ### §6505. Authority to provide specialized or technical services
 
-(a) The President may prescribe statistical and other studies and compilations, development projects, technical tests and evaluations, technical information, training activities, surveys, reports, documents, and other similar services that an executive agency is especially competent and authorized by law to provide.The services prescribed must be consistent with and further the policy of the United States Government of relying on the private enterprise system to provide services reasonably and quickly available through ordinary business channels.
+(a) The President may prescribe statistical and other studies and compilations, development projects, technical tests and evaluations, technical information, training activities, surveys, reports, documents, and other similar services that an executive agency is especially competent and authorized by law to provide. The services prescribed must be consistent with and further the policy of the United States Government of relying on the private enterprise system to provide services reasonably and quickly available through ordinary business channels.
 
 (b) The head of an executive agency may provide services prescribed by the President under this section to a State or local government when—
 
@@ -58,7 +58,7 @@ In subsection (d), the words “and does not supersede” are omitted as unneces
 
 #### Performance of Specialized or Technical Services
 
-Pub. L. 106–541, title II, §211, Dec. 11, 2000, 114 Stat. 2592, provided that:
+Pub. L. 106–541, title II, §211, Dec. 11, 2000, 114 Stat. 2592, as amended by Pub. L. 107–66, title I, §109, Nov. 12, 2001, 115 Stat. 496, provided that:
 
 “(a)
 
@@ -104,7 +104,11 @@ Contents of report.—The report shall include, with respect to each request des
 
 &emsp;&emsp;“(F) a description of the scope of services performed; and
 
-&emsp;&emsp;“(G) copies of all certifications in support of the request.”
+&emsp;&emsp;“(G) copies of all certifications in support of the request.
+
+“(e)
+
+Engineering Research and Development Center.—The Engineering Research and Development Center is exempt from the requirements of this section.”
 
 #### Transportation of State Prisoners
 

@@ -6,7 +6,7 @@ Any proceeding to enjoin, set aside, annul, or suspend any order of the Commissi
 
 #### (b) Right to appeal
 
-Appeals may be taken from decisions and orders of the Commission to the United States Court of Appeals for the District of Columbia in any of the following cases:
+Appeals may be taken from decisions and orders of the Commission to the United StatesCourt of Appeals for the District of Columbia in any of the following cases:
 
 &emsp;(1) By any applicant for a construction permit or station license, whose application is denied by the Commission.
 

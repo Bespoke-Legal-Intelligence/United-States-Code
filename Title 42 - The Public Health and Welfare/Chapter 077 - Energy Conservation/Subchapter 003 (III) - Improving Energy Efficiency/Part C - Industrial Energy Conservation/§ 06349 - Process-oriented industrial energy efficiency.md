@@ -4,7 +4,7 @@
 
 For the purposes of this section—
 
-&emsp;(1) the term “covered industry” means the food and food products industry, lumber and wood products industry, petroleum and coal products industry, and all other manufacturing industries specified in Standard Industrial Classification Codes 20 through 39 (or successor classification codes);
+&emsp;(1) the term “covered industry” means the food and food products industry, lumber andwood products industry, petroleum and coal products industry, and all other manufacturing industries specified in Standard Industrial Classification Codes 20 through 39 (or successor classification codes);
 
 &emsp;(2) the term “process-oriented industrial assessment” means—
 
@@ -78,7 +78,7 @@ For the purposes of this section—
 
 #### (2) Directory
 
-&emsp;The Secretary shall establish a nationwide directory of organizations offering industrial energy efficiency assessments, technologies, and services consistent with the purposes of this section. Such directory shall be made available to State governments, public utility commissions, utilities, industry representatives, and other interested parties.
+&emsp;The Secretary shall establish a nationwide directory of organizations offering industrial energy efficiency assessments, technologies, and services consistent with the purposes ofthis section. Such directory shall be made available to State governments, public utility commissions, utilities, industry representatives, and other interested parties.
 
 #### (3) Award program
 

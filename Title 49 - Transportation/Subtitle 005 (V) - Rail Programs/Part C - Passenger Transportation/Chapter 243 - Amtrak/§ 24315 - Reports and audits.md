@@ -144,7 +144,7 @@ In subsection (g), the word “giving” is substituted for “The report to the
 
 #### References in Text
 
-Section 24902(b) of this title, referred to in subsec. (b)(1)(A), was redesignated section 24902(a) and section24902(e) was redesignated section 24902(b) by Pub. L. 105–134, title IV, §405(b)(1)(A), Dec. 2, 1997, 111 Stat. 2586.
+Section 24902(b) of this title, referred to in subsec. (b)(1)(A), was redesignated section 24902(a) and section 24902(e) was redesignated section 24902(b) by Pub. L. 105–134, title IV, §405(b)(1)(A), Dec. 2, 1997, 111 Stat. 2586.
 
 #### Amendments
 

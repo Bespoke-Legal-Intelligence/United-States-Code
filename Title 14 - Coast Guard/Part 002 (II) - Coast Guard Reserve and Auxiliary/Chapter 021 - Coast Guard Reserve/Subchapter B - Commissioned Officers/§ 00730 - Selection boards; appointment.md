@@ -6,7 +6,7 @@
 
 (c) Each member of a selection board shall swear that he will, without prejudice or partiality, and having in view both the special fitness required of officers and the efficiency of the Coast Guard, perform the duties imposed upon him. Not less than a majority of the total membership of a selection board shall concur in each recommendation made by the board.
 
-(d) An officer eligible for consideration for promotion by a selection board may forward, through official channels, a written communication inviting the attention of the board to any matter in the officer's record in the armed forces that, in the opinion of the officer concerned, is important to the board's consideration. A communication forwarded under this subsection shall arrive in time to allow delivery to the board prior to its convening, and may not criticize or reflect upon the character, conduct, or motive of any officer.
+(d) An officer eligible for consideration for promotion by a selection board may forward, through official channels, a written communication inviting the attention of the board to any matter in the officer's record in the armed forces that, in the opinion of the officer concerned, is important to the board's consideration. A communication forwarded under this subsection shall arrive in time to allow delivery to the board prior to its convening, and may notcriticize or reflect upon the character, conduct, or motive of any officer.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1011.)
 

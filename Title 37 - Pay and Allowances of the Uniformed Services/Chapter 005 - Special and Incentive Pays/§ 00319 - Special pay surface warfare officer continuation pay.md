@@ -8,7 +8,7 @@ Eligible Surface Warfare Officer Defined.—In this section, the term “eligibl
 
 &emsp;(2) has been selected for assignment as a department head on a surface vessel; and
 
-&emsp;(3) has completed any service commitment incurred through the officer's original commissioning program.
+&emsp;(3) has completed any service commitment incurred through the officer's original commissioning program or is within one year of completing such commitment.
 
 (b)
 
@@ -38,7 +38,11 @@ Repayment.—(1) If an officer who has entered into a written agreement under su
 
 Regulations.—The Secretary of the Navy shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VI, §627(a)(1), Oct. 5, 1999, 113 Stat. 656.)
+(Added Pub. L. 106–65, div. A, title VI, §627(a)(1), Oct. 5, 1999, 113 Stat. 656; amended Pub. L. 107–107, div. A, title VI, §616(b), Dec. 28, 2001, 115 Stat. 1137.)
+
+#### Amendments
+
+2001—Subsec. (a)(3). Pub. L. 107–107 inserted “or is within one year of completing such commitment” before period at end.
 
 #### Effective Date
 

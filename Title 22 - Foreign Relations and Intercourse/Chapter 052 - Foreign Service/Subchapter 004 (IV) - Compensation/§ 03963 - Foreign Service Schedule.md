@@ -1,6 +1,6 @@
 ### §3963. Foreign Service Schedule
 
-The President shall establish a Foreign Service Schedule which shall consist of 9 salary classes and which shall apply to members of the Service who are citizens of the United States and for whom salary rates are not otherwise provided for by this subchapter. The maximum salary rate for the highest class established under this section, which shall be designated class 1, may not exceed the maximum rate of basic pay prescribed for GS–15 of the General Schedule under section 5332 of title 5. Salary rates established under this section shall be adjusted in accordance with section 5303 of title 5.
+The President shall establish a Foreign Service Schedule which shall consist of 9 salary classes and which shall apply to members of the Service who are citizens of the United States and for whom salary rates are not otherwise provided for by this subchapter. The maximum salary rate for the highest class established underthis section, which shall be designated class 1, may not exceed the maximum rate of basic pay prescribed for GS–15 of the General Schedule under section 5332 of title 5. Salary rates established under this section shall be adjusted in accordance with section 5303 of title 5.
 
 (Pub. L. 96–465, title I, §403, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 101–509, title V, §529 \[title I, §101(b)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1439.)
 
@@ -16,11 +16,11 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 Section effective Feb. 15, 1981, except that for purposes of implementing section 4151 of this title it is effective Oct. 17, 1980, see section 2403(a) and (d)(2) of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-#### Adjustment of Foreign Service Schedule Effective for Pay Periods Beginning On or After January 1, 2001
+#### Adjustment of Foreign Service Schedule Effective for Pay Periods Beginning On or After January 1, 2002
 
-Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided in part for an adjustment of the Foreign Service Schedule pay rates effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2001. See Schedule set out as follows:
+Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided in part for an adjustment of the Foreign Service Schedule pay rates effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2002. See Schedule set out as follows:
 
-Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2001)
+Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2002)
 
 Step
 
@@ -44,283 +44,283 @@ Class 9
 
 1
 
-$79,710
+$82,580
 
-$64,588
+$66,914
 
-$52,335
+$54,220
 
-$42,407
+$43,934
 
-$34,362
+$35,599
 
-$30,719
+$31,825
 
-$27,462
+$28,450
 
-$24,550
+$25,434
 
-$21,947
+$22,737
 
 2
 
-82,101
+85,057
 
-66,526
+68,921
 
-53,905
+55,847
 
-43,679
+45,252
 
-35,393
+36,667
 
-31,641
+32,780
 
-28,286
+29,304
 
-25,287
+26,197
 
-22,605
+23,419
 
 3
 
-84,564
+87,609
 
-68,521
+70,989
 
-55,522
+57,522
 
-44,990
+46,610
 
-36,455
+37,767
 
-32,590
+33,763
 
-29,134
+30,183
 
-26,045
+26,983
 
-23,284
+24,122
 
 4
 
-87,101
+90,237
 
-70,577
+73,119
 
-57,188
+59,248
 
-46,339
+48,008
 
-37,548
+38,900
 
-33,567
+34,776
 
-30,008
+31,088
 
-26,826
+27,792
 
-23,982
+24,845
 
 5
 
-89,714
+92,945
 
-72,694
+75,312
 
-58,904
+61,025
 
-47,729
+49,448
 
-38,675
+40,067
 
-34,575
+35,819
 
-30,909
+32,021
 
-27,631
+28,626
 
-24,702
+25,591
 
 6
 
-92,406
+95,733
 
-74,875
+77,572
 
-60,671
+62,856
 
-49,161
+50,932
 
-39,835
+41,269
 
-35,612
+36,894
 
-31,836
+32,981
 
-28,460
+29,485
 
-25,443
+26,358
 
 7
 
-95,178
+98,605
 
-77,121
+79,899
 
-62,491
+64,742
 
-50,636
+52,459
 
-41,030
+42,507
 
-36,680
+38,001
 
-32,791
+33,971
 
-29,314
+30,370
 
-26,206
+27,149
 
 8
 
-98,033
+101,563
 
-79,435
+82,296
 
-64,365
+66,684
 
-52,155
+54,033
 
-42,261
+43,782
 
-37,780
+39,141
 
-33,775
+34,990
 
-30,193
+31,281
 
-26,992
+27,964
 
 9
 
-100,974
+104,610
 
-81,818
+84,765
 
-66,296
+68,684
 
-53,720
+55,654
 
-43,529
+45,096
 
-38,914
+40,315
 
-34,788
+36,040
 
-31,099
+32,219
 
-27,802
+28,803
 
 10
 
-103,623
+107,357
 
-84,273
+87,308
 
-68,285
+70,745
 
-55,332
+57,324
 
-44,835
+46,449
 
-40,081
+41,524
 
-35,832
+37,121
 
-32,032
+33,186
 
-28,636
+29,667
 
 11
 
-103,623
+107,357
 
-86,801
+89,927
 
-70,334
+72,867
 
-56,991
+59,044
 
-46,180
+47,842
 
-41,284
+42,770
 
-36,907
+38,234
 
-32,993
+34,181
 
-29,495
+30,557
 
 12
 
-103,623
+107,357
 
-89,405
+92,625
 
-72,444
+75,053
 
-58,701
+60,815
 
-47,565
+49,277
 
-42,522
+44,053
 
-38,014
+39,381
 
-33,983
+35,207
 
-30,380
+31,473
 
 13
 
-103,623
+107,357
 
-92,087
+95,403
 
-74,617
+77,305
 
-60,462
+62,639
 
-48,992
+50,756
 
-43,798
+45,375
 
-39,154
+40,563
 
-35,002
+36,263
 
-31,291
+32,418
 
 14
 
-103,623
+107,357
 
-94,850
+98,265
 
-76,856
+79,624
 
-62,276
+64,519
 
-50,462
+52,278
 
-45,112
+46,736
 
-40,329
+41,780
 
-36,053
+37,351
 
-32,230
+33,390
 
 #### Executive Order No. 12249
 
@@ -364,7 +364,7 @@ Ex. Ord. No. 12736, Dec. 12, 1990, 55 F.R. 51385, which provided for adjustments
 
 #### Executive Order No. 12786
 
-Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 12826, Dec. 30, 1992, 57 F.R. 62909, formerly set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 12786, Dec. 26, 1991, 56 F.R. 67453, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 12826, Dec. 30, 1992,57 F.R. 62909, formerly set out as a note under section 5332 of Title 5.
 
 #### Executive Order No. 12826
 
@@ -388,11 +388,15 @@ Ex. Ord. No. 13071, Dec. 29, 1997, 62 F.R. 68521, which provided for adjustments
 
 #### Executive Order No. 13106
 
-Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for adjustments in the Foreign Service Schedule, was substantially superseded by Ex. Ord. No. 13144,Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for adjustments in the Foreign Service Schedule, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
 
 #### Executive Order No. 13144
 
-Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, formerly set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 13182
+
+Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, which provided for adjustments in the Foreign Service Schedule, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5.
 
 #### Section Referred to in Other Sections
 

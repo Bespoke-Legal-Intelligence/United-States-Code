@@ -24,7 +24,7 @@ As used in this section:
 
 #### (4) Inspection
 
-&emsp;The term “inspection” means an onsite evaluation of the facility by the Secretary, or State or local agency on behalf of the Secretary.
+&emsp;The term “inspection” means an onsite evaluation of the facility by the Secretary, orState or local agency on behalf of the Secretary.
 
 #### (5) Mammogram
 
@@ -84,7 +84,7 @@ As used in this section:
 
 #### (2) Provisional certificate
 
-&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1) of this section, except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A) of this section. A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic areaserved by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1) of this section.
+&emsp;The Secretary may issue a provisional certificate for an entity to enable the entity to qualify as a facility. The applicant for a provisional certificate shall meet the requirements of subsection (d)(1) of this section, except providing information required by clauses (iii) and (iv) of subsection (d)(1)(A) of this section. A provisional certificate may be in effect no longer than 6 months from the date it is issued, except that it may be extended once for a period of not more than 90 days if the owner, lessor, or agent of the facility demonstrates to the Secretary that without such extension access to mammography in the geographic area served by the facility would be significantly reduced and if the owner, lessor, or agent of the facility will describe in a report to the Secretary steps that will be taken to qualify the facility for certification under subsection (b)(1) of this section.
 
 #### (d) Application for certificate
 
@@ -332,7 +332,7 @@ As used in this section:
 
 #### (F) Records and annual reports
 
-&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Sucha State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
+&emsp;&emsp;The Secretary or a State or local agency acting on behalf of the Secretary which is responsible for inspecting mammography facilities shall maintain records of annual inspections required under this paragraph for a period as prescribed by the Secretary. Such a State or local agency shall annually prepare and submit to the Secretary a report concerning the inspections carried out under this paragraph. Such reports shall include a description of the facilities inspected and the results of such inspections.
 
 #### (2) Inspection of accredited facilities
 
@@ -402,7 +402,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;The certificate of a facility issued under subsection (c) of this section may be suspended or revoked if the Secretary finds, after providing,except as provided in paragraph (2), reasonable notice and an opportunity for a hearing to the owner or operator of the facility, that the owner, operator, or any employee of the facility—
+&emsp;The certificate of a facility issued under subsection (c) of this section may be suspended or revoked if the Secretary finds, after providing, except as provided in paragraph (2), reasonable notice and an opportunity for a hearing to the owner or operator of the facility, that the owner, operator, or any employee of the facility—
 
 &emsp;&emsp;(A) has been guilty of misrepresentation in obtaining the certificate;
 
@@ -456,7 +456,7 @@ If the Secretary determines that—
 
 #### (3) Judgment of court
 
-&emsp;Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to affirm the action, or to set the action asidein whole or in part, temporarily or permanently. The findings of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive.
+&emsp;Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to affirm the action, or to set the action aside in whole or in part, temporarily or permanently. The findings of the Secretary as to the facts, if supported by substantial evidence, shall be conclusive.
 
 #### (4) Finality of judgment
 
@@ -548,7 +548,7 @@ Nothing in this section shall be construed to limit the authority of any State t
 
 #### (<i>o</i>) Consultations
 
-In carrying out this section, the Secretary shall consult with appropriate Federal agencieswithin the Department of Health and Human Services for the purposes of developing standards, regulations, evaluations, and procedures for compliance and oversight.
+In carrying out this section, the Secretary shall consult with appropriate Federal agencies within the Department of Health and Human Services for the purposes of developing standards, regulations, evaluations, and procedures for compliance and oversight.
 
 #### (p) Breast cancer screening surveillance research grants
 
@@ -736,7 +736,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the PublicHealth Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Regulations
 

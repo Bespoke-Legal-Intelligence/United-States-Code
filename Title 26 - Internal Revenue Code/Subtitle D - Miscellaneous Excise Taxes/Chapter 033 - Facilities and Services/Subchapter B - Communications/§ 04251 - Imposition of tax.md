@@ -88,7 +88,7 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 <b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 substituted “During 1983, 1984, 1986, or 1987” for “During 1983, 1984, or 1985” in item relating to an applicable percentage of 3 and substituted “During 1988 or thereafter” for “During 1986 or thereafter” in item relating to an applicable percentage of 0.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–248 added subsec. (a) and struck out former subsec. (a) which provided that there was a tax on communication services specified as local telephone service, toll telephone service, and teletypewriter exchange service, directed that the tax was to be paid by the person paying for such services, and designated the tax as the percentage of the amount paid for the services as set out in the following table:
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 added subsec. (a) and struck out former subsec. (a) which provided that there was a tax on communication services specified as local telephone service, toll telephone service, and teletypewriter exchange service, directed that the tax was to bepaid by the person paying for such services, and designated the tax as the percentage of the amount paid for the services as set out in the following table:
 
 &nbsp;
 
@@ -115,7 +115,7 @@ Subsec. (b). Pub. L. 97–34, §821(b), extended termination date to Jan. 1, 198
 
 Subsec. (b). Pub. L. 96–499, §1151(b), substituted “1983” for “1982”.
 
-<b>1970</b>—Subsec. (a)(2). Pub. L. 91–614, §201(b)(1), substituted provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1973 is 10% of such amount, amounts paid pursuant to bills first rendered during 1973 is 9% of such amount, during 1974 is 8% of such amount, during 1975 is 7% of such amount, during 1976 is 6% of such amount, during 1977 is 5% of such amount, during 1978 is 4% of such amount, during 1979is 3% of such amount, during 1980 is 2% of such amount, and during 1981 is 1% of such amount for provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1971 is 10% of such amount, amounts paid pursuant to bills first rendered during 1971 is 5% of such amount, during 1972 is 3% of such amount, and during 1973 is 1% of such amount.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–614, §201(b)(1), substituted provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1973 is 10% of such amount, amounts paid pursuant to bills first rendered during 1973 is 9% of such amount, during 1974 is 8% of such amount, during 1975 is 7% of such amount, during 1976 is 6% of such amount, during 1977 is 5% of such amount, during 1978 is 4% of such amount, during 1979 is 3% of such amount, during 1980 is 2% of such amount, and during 1981 is 1% of such amount for provisions providing the rate of tax on amounts paid for communication services pursuant to bills first rendered before Jan. 1, 1971 is 10% of such amount, amounts paid pursuant to bills first rendered during 1971 is 5% of such amount, during 1972 is 3% of such amount, and during 1973 is 1% of such amount.
 
 Subsec. (b). Pub. L. 91–614, §201(b)(2), substituted “January 1, 1982” for “January 1, 1974”.
 
@@ -185,7 +185,7 @@ Section 202(c) of Pub. L. 89–368 provided that: “The amendments made by subs
 
 #### Effective Date of 1965 Amendment
 
-Section 701(b)(2)(A) of Pub. L. 89–44 provided that: “The amendments made by section 302 \[amending this section and sections 4252, 4253, and 4254 of this title\] (relating to communication services) shall apply to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after January 1, 1966, for services whichwere rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered shall apply to the amounts paid for such services.”
+Section 701(b)(2)(A) of Pub. L. 89–44 provided that: “The amendments made by section 302 \[amending this section and sections 4252, 4253, and 4254 of this title\] (relating to communication services) shall apply to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date. In the case of amounts paid pursuant to bills rendered on or after January 1, 1966, for services which were rendered before such date and for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Code in effect at the time such services were rendered shall apply to the amounts paid for such services.”
 
 #### Effective Date of 1958 Amendment
 

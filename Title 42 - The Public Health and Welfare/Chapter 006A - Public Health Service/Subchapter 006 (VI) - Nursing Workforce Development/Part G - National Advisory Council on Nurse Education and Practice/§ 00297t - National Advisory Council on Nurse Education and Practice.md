@@ -140,7 +140,7 @@ Section 298c–6, act July 1, 1944, ch. 373, title VIII, §867, as added Nov. 3,
 
 A prior section 298c–7, act July 1, 1944, ch. 373, title VIII, §868, as added Nov. 3, 1966, Pub. L. 89–751, §8(b), 80 Stat. 1239; amended Nov. 18, 1971, Pub. L. 92–158, §8, 85 Stat. 478; July 29, 1975, Pub. L. 94–63, title IX, §902(g), 89 Stat. 355, authorized grants and contracts to encourage full utilization of educational talent for nursing profession and authorized appropriations from fiscal year ending June 30, 1972 through fiscal year ending June 30, 1975 for implementation, prior to repeal by Pub. L. 94–63, title IX, §§905, 931(b), July 29, 1975, 89 Stat. 355, 362, effective July 1, 1975.
 
-A prior section 298c–8, act July 1, 1944, ch. 373, title VIII, §869, as added Nov. 3, 1966, Pub. L. 89–751, §8(b), 80 Stat. 1240, defined “academic year”, prior to repeal by Pub. L. 94–63, title IX, §§941(j)(4), 942, July 29, 1975, 89 Stat. 366, 367, effective July 1, 1975.
+A prior section 298c–8, act July 1, 1944, ch. 373, title VIII, §869, as added Nov. 3, 1966, Pub. L. 89–751, §8(b), 80Stat. 1240, defined “academic year”, prior to repeal by Pub. L. 94–63, title IX, §§941(j)(4), 942, July 29, 1975, 89 Stat. 366, 367, effective July 1, 1975.
 
 #### Change of Name
 

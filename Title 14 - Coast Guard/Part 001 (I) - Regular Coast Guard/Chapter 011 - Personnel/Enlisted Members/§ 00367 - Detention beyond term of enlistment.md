@@ -26,11 +26,15 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1984—Pub. L. 98–557 struck out subsec. “(a)” designation; in provisions preceding cl. (1) substituted “enlisted member” for “enlisted man”; and in provisions following cl. (4) substituted “member detained” for “person detained”, “Enlisted members” for “Enlisted men”, and “clause (1)” for “(1) of this subsection”.
 
-1956—Subsec. (a). Act July 24, 1956, §§2(4), 3, repealed cl. (3) permitting detention of enlisted members beyond term of their enlistment while waiting disciplinary action or trial and disposition of their case, struck out provisions prohibiting payment of pay or allowances for any period beyond term of enlistment if trial of such members results in conviction, and redesignated cls. (4) and (5) as (3) and (4), respectively. See section 972(a) of Title 10, Armed Forces.
+1956—Subsec. (a). Act July 24, 1956, §§2(4), 3, repealed cl. (3) permitting detention of enlisted members beyond term of their enlistment while waiting disciplinary action or trial and disposition of their case, struck out provisions prohibiting payment of pay or allowancesfor any period beyond term of enlistment if trial of such members results in conviction, and redesignated cls. (4) and (5) as (3) and (4), respectively. See section 972(a) of Title 10, Armed Forces.
 
 Subsecs. (b), (c). Act July 24, 1956, §2(4), repealed subsecs. (b) and (c) which required enlisted members to make good time lost by unauthorized absence from duty, or by confinement under sentence or pending trial, or by reason of sickness resulting from misconduct. See section 972(a) of Title 10.
 
 1950—Subsec. (c). Act Aug. 3, 1950, added subsec. (c).
+
+#### Delegation of Authority
+
+For delegation of authority under this section, as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, to Secretary of Transportation when Coast Guard is not serving as part of Navy, see section 5 of Ex. Ord. No. 13223, set out as a note under section 12302 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 > &emsp;&emsp;except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;
 
-&emsp;(3) conduct outreach activities designed to assure that eligible households, especiallyhouseholds with elderly individuals or disabled individuals, or both, and households with high home energy burdens, are made aware of the assistance available under this subchapter, and any similar energy-related assistance available under subtitle B of title VI (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\] or under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981;
+&emsp;(3) conduct outreach activities designed to assure that eligible households, especially households with elderly individuals or disabled individuals, or both, and households with high home energy burdens, are made aware of the assistance available under this subchapter, and any similar energy-related assistance available under subtitle B of title VI (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\] or under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981;
 
 &emsp;(4) coordinate its activities under this subchapter with similar and related programs administered by the Federal Government and such State, particularly low-income energy-related programs under subtitle B of title VI (relating to community services block grant program) \[42 U.S.C. 9901 et seq.\], under the supplemental security income program, under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\], under the low-income weatherization assistance program under title IV of the Energy Conservation and Production Act \[42 U.S.C. 6851 et seq.\], or under any other provision of law which carries out programs which were administered under the Economic Opportunity Act of 1964 \[42 U.S.C. 2701 et seq.\] before August 13, 1981;
 
@@ -70,7 +70,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(A) the State may use for planning and administering the use of funds under this subchapter an amount not to exceed 10 percent of the funds payable to such State under this subchapter for a fiscal year; and
 
-&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except for the costs of the activities described in paragraph (16));
+&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted underthis subchapter and will not use Federal funds for such remaining costs (except for the costs of the activities described in paragraph (16));
 
 &emsp;(10) provide that such fiscal control and fund accounting procedures will be established as may be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this subchapter, including procedures for monitoring the assistance provided under this subchapter, and provide that the State will comply with the provisions of chapter 75 of title 31 (commonly known as the “Single Audit Act”);
 
@@ -128,7 +128,7 @@ The State shall expend funds in accordance with the State plan under this subcha
 
 #### (e) Conduct of audits
 
-Each State shall, in carrying out the requirements of subsection (b)(10) of this section, obtain financial and compliance audits of any funds which the State receives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall beconducted in accordance with chapter 75 of title 31.
+Each State shall, in carrying out the requirements of subsection (b)(10) of this section, obtain financial and compliance audits of any funds which the State receives under this subchapter. Such audits shall be made public within the State on a timely basis. The audits shall be conducted in accordance with chapter 75 of title 31.
 
 #### (f) Payments or assistance not to be deemed income or resources for any purpose under Federal or State law; determination of excess shelter expense deduction
 
@@ -184,7 +184,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 &emsp;(i)(I) the number of households in the State that will receive benefits, other than weatherization and energy-related home repair, under this subchapter in such fiscal year will not be fewer than the number of households in the State that received benefits, other than weatherization and energy-related home repair, under this subchapter in the preceding fiscal year;
 
-&emsp;(II) the aggregate amounts of benefits that will be received under this subchapter by all households in the State in such fiscal year will not be less than the aggregate amount of suchbenefits that were received under this subchapter by all households in the State in the preceding fiscal year; and
+&emsp;(II) the aggregate amounts of benefits that will be received under this subchapter by all households in the State in such fiscal year will not be less than the aggregate amount of such benefits that were received under this subchapter by all households in the State in the preceding fiscal year; and
 
 &emsp;(III) such weatherization activities have been demonstrated to produce measurable savings in energy expenditures by low-income households; or
 
@@ -232,7 +232,7 @@ Subsec. (c)(1)(B). Pub. L. 105–285, §306(2)(A), substituted “State” for �
 
 Subsec. (c)(1)(G)(i). Pub. L. 105–285, §306(2)(B), substituted “had” for “has”.
 
-Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at end “, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy”.
+Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at end “, particularly those low-incomehouseholds with the lowest incomes that pay a high proportion of household income for home energy”.
 
 1996—Subsec. (b)(2)(A)(i). Pub. L. 104–193 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “aid to families with dependent children under the State's plan approved under part A of title IV of the Social Security Act (other than such aid in the form of foster care in accordance with section 408 of such Act);”.
 
@@ -242,7 +242,7 @@ Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at e
 
 Pub. L. 103–252, §311(b), inserted at end “Not later than 18 months after May 18, 1994, the Secretary shall develop model performance goals and measurements in consultation with State, territorial, tribal, and local grantees, that the States may use to assess the success of the States in achieving the purposes of this subchapter. The model performance goals and measurements shall be made available to States to be incorporated, at the option of the States, into the plans for fiscal year 1997. The Secretary may request data relevant to the development of model performance goals and measurements.”
 
-Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in section 8621(a) of this titleand otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
+Subsec. (b)(1). Pub. L. 103–252, §305(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “use the funds available under this subchapter for the purposes described in section 8621(a) of this title and otherwise in accordance with the requirements of this subchapter, and agrees not to use such funds for any payments other than payments specified in this section;”.
 
 Subsec. (b)(2)(B). Pub. L. 103–252, §306(a), in concluding provisions substituted “except that a State may not exclude a household from eligibility in a fiscal year solely on the basis of household income if such income is less than 110 percent of the poverty level for such State, but the State may give priority to those households with the highest home energy costs or needs in relation to household income;” for “except that no household may be excluded from eligibility under this subclause for payments under this subchapter for fiscal year 1986 and thereafter if the household has an income which is less than 110 percent of the poverty level for such State for such fiscal year”.
 

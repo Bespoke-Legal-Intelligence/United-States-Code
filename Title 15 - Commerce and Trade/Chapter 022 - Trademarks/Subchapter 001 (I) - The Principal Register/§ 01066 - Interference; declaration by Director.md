@@ -1,6 +1,6 @@
 ### §1066. Interference; declaration by Director
 
-Upon petition showing extraordinary circumstances, the Director may declare that an interference exists when application is made for theregistration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when used on or in connection with the goods or services of the applicant to cause confusion or mistake or to deceive. No interference shall be declared between an application and the registration of a mark the right to the use of which has become incontestable.
+Upon petition showing extraordinary circumstances, the Director may declare that an interference exists when application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when used on or in connection with the goods or services of the applicant to cause confusion or mistake or to deceive. No interference shall be declared between an application and the registration of a mark the right to the use of which has become incontestable.
 
 (July 5, 1946, ch. 540, title I, §16, 60 Stat. 434; Pub. L. 87–772, §11, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, §11, Aug. 27, 1982, 96 Stat. 321; Pub. L. 100–667, title I, §117, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 

@@ -10,7 +10,7 @@ Section 1 of Pub. L. 92–70 provided that: “This Act \[enacting this chapter\
 
 #### Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans
 
-Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478, provided that:
+Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472, provided that:
 
 #### “CHAPTER 1
 
@@ -122,7 +122,7 @@ Terms and Conditions of Loan Guarantees.—
 
 &emsp;“(1)
 
-Loan duration.—All loans guaranteed under this section shall be payable in full not later than December 31, 2005, and the terms and conditions of each such loan shall provide that the loan may not be amended, or any provision thereof waived, without the consent of the Board.
+Loan duration.—All loans guaranteed under this section shall be payable in full not later than December 31, 2015, and the terms and conditions of each such loan shall provide that the loan may not be amended, or any provision thereof waived, without the consent of the Board.
 
 &emsp;“(2)
 
@@ -134,7 +134,27 @@ Fees.—A qualified steel company receiving a guarantee under this section shall
 
 &emsp;“(4)
 
-Guarantee level.—No loan guarantee may be provided under this section if the guarantee exceeds 85 percent of the amount of principal of the loan.
+Guarantee level.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraphs (B) and (C), any loan guarantee provided under this section shall not exceed 85 percent of the amount of principal of the loan.
+
+&emsp;&emsp;“(B)
+
+Increased level one.—A loan guarantee may be provided under this section in excess of 85 percent, but not more than 90 percent, of the amount of principal of the loan, if—
+
+&emsp;&emsp;&emsp;“(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
+
+&emsp;&emsp;&emsp;“(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
+
+&emsp;&emsp;“(C)
+
+Increased level two.—A loan guarantee may be provided under this section in excess of 85 percent, but not more than 95 percent, of the amount of principal of the loan, if—
+
+&emsp;&emsp;&emsp;“(i) the aggregate amount of loans guaranteed at such percentage and outstanding under this section at any one time does not exceed $100,000,000; and
+
+&emsp;&emsp;&emsp;“(ii) the aggregate amount of loans guaranteed at such percentage under this section with respect to a single qualified steel company does not exceed $50,000,000.
 
 “(i)
 
@@ -146,7 +166,7 @@ Salaries and Administrative Expenses.—For necessary expenses to administer the
 
 “(k)
 
-Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2001.
+Termination of Guarantee Authority.—The authority of the Board to make commitments to guarantee any loan under this section shall terminate on December 31, 2003.
 
 “(<i>l</i>)
 
@@ -172,7 +192,7 @@ I74“(rescissions)
 
 Sec. 102. (a) Of the funds available in the nondefense category to the agencies of the Federal Government, $145,000,000 are hereby rescinded: <i>Provided</i>, That rescissions pursuant to this subsection shall be taken only from administrative and travel accounts: <i>Provided further</i>, That rescissions shall be taken on a pro rata basis from funds available to every Federal agency, department, and office in the executive branch, including the Office of the President.
 
-“(b) Within 30 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Director of the Office of Management and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a listing of the amounts by account of the reductions made pursuant to the provisions of subsection (a) of this section.
+“(b) Within 30 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Director of the Office ofManagement and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a listing of the amounts by account of the reductions made pursuant to the provisions of subsection (a) of this section.
 
 #### “CHAPTER 2
 
@@ -292,7 +312,7 @@ Terms and Conditions of Loan Guarantees.—
 
 &emsp;“(1)
 
-Loan duration.—All loans guaranteed under this section shall be repayable in full not later thanDecember 31, 2010, and the terms and conditions of each such loan shall provide that the loan agreement may not be amended, or any provision of the loan agreement waived, without the consent of the Board.
+Loan duration.—All loans guaranteed under this section shall be repayable in full not later than December 31, 2010, and the terms and conditions of each such loan shall provide that the loan agreement may not be amended, or any provision of the loan agreement waived, without the consent of the Board.
 
 &emsp;“(2)
 
@@ -300,7 +320,7 @@ Loan security.—A commitment to issue a loan guarantee under this section shall
 
 &emsp;“(3)
 
-Fees.—A qualified oil and gas company receiving a loan guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceed an amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
+Fees.—A qualified oil and gas company receiving a loan guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceedan amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
 
 &emsp;“(4)
 
@@ -341,4 +361,6 @@ Sec. 202. (a) Of the funds available in the nondefense category to the agencies 
 Sec. 301. No part of any appropriation contained in the Act shall remain available for obligation beyond the current fiscal year unless expressly so provided herein.
 
 “This Act may be cited as the ‘Emergency Steel Loan Guarantee and Emergency Oil and Gas Guaranteed Loan Act of 1999’.”
+
+\[Pub. L. 107–63, title III, §336(b), Nov. 5, 2001, 115 Stat. 472, provided that: “The amendments made by this section \[amending section 101 of Pub. L. 106–51, set out above\] shall apply only with respect to any guarantee issued on or after the date of the enactment of this Act \[Nov. 5, 2001\].”\]
 

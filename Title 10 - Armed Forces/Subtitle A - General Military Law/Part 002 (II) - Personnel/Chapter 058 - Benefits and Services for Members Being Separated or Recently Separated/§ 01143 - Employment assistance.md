@@ -34,7 +34,7 @@ Subsec. (d). Pub. L. 103–337, §542(a)(2)(E), inserted at end “The Secretary
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated afterSept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
 #### Demonstration Program for Training Recently Discharged Veterans for Employment in Construction and Hazardous Waste Remediation
 
@@ -76,7 +76,7 @@ Eligible Veterans.—An individual is an eligible veteran for the purposes of th
 
 “(d)
 
-Preference.—In carrying out the demonstration program under this section, the Secretary shall ensurethat a preference is given to eligible veterans who had a primary or secondary occupational specialty in the Armed Forces that (as determined under regulations prescribed by the Secretary and in effect before the date of such separation) is not readily transferable to the civilian work force.
+Preference.—In carrying out the demonstration program under this section, the Secretary shall ensure that a preference is given to eligible veterans who had a primary or secondary occupational specialty in the Armed Forces that (as determined under regulations prescribed by the Secretary and in effect before the date of such separation) is not readily transferable to the civilian work force.
 
 “(e)
 
@@ -118,7 +118,7 @@ Termination.—Not later than October 1, 1994, the Secretary shall obligate, in 
 
 #### Improved Coordination of Job Training and Placement Programs for Members of Armed Forces
 
-Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(B), (f)(6)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(b), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: “The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of the Armed Forces who are discharged or released from active duty:
+Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(B), (f)(6)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, §3(b), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–107, div. A, title X, §1048(h)(3), Dec. 28, 2001, 115 Stat. 1229, provided that: “The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of the Armed Forces who are discharged or released from active duty:
 
 &emsp;“(1) Title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
@@ -128,7 +128,7 @@ Pub. L. 102–484, div. D, title XLIV, §4461, Oct. 23, 1992, 106 Stat. 2738, as
 
 &emsp;“(4) The Act of August 16, 1937 (Chapter 663; 50 Stat 664; 29 U.S.C. 50 et seq.), commonly known as the National Apprenticeship Act.
 
-&emsp;“(5) The Wagner-Peyser Act (29 U.S.C. 49 et seq.)\[.\]”
+&emsp;“(5) The Wagner-Peyser Act (29 U.S.C. 49 et seq.).”
 
 #### Participation of Discharged Military Personnel in Upward Bound Projects To Prepare for College
 
@@ -166,7 +166,7 @@ Consultation.—The Secretary of Education may assist the Secretary of Defense i
 
 “(e)
 
-Use of Assistance.—A member of the Armed Forces who is selected to participate in the program may receive services through any upward bound project assisted under section 402C of the Higher Education Act of 1965 (20 U.S.C. 1070a–13) to the same extent as other individuals eligible to receive such services. A membermay not participate after the end of the two-year period beginning on the date on which the member is discharged or released from active duty, except that, in the case of a member described in subsection (b) who was discharged or released from active duty before the date of the enactment of this Act \[Oct. 23, 1993\], the period for participation in the program shall be two years from the date of the enactment of this Act.
+Use of Assistance.—A member of the Armed Forces who is selected to participate in the program may receive services through any upward bound project assisted under section 402C of the Higher Education Act of 1965 (20 U.S.C. 1070a–13) to the same extent as other individuals eligible to receive such services. A member may not participate after the end of the two-year period beginning on the date on which the member is discharged or released from active duty, except that, in the case of a member described in subsection (b) who was discharged or released from active duty before the date of the enactment of this Act \[Oct. 23, 1993\], the period for participation in the program shall be two years from the date of the enactment of this Act.
 
 “(f)
 
@@ -248,7 +248,7 @@ In General.—(1) To be eligible for participation in a program of job training 
 
 &emsp;“(ii) has been unemployed for at least 8 of the 15 weeks immediately preceding the date of such eligible person's application for participation in a program under this subtitle;
 
-&emsp;“(B) separates from the active military, naval, or air service and whose primary or secondary occupational specialty in the Armed Forces is (as determined under regulations prescribed by the Secretaryand in effect before the date of such separation) not readily transferable to the civilian workforce; or
+&emsp;“(B) separates from the active military, naval, or air service and whose primary or secondary occupational specialty in the Armed Forces is (as determined under regulations prescribed by the Secretary and in effect before the date of such separation) not readily transferable to the civilian workforce; or
 
 &emsp;“(C) served in the active military, naval, or air service and is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under the laws administered by the Secretary of Veterans Affairs for a disability rated at 30 percent or more.
 
@@ -338,7 +338,7 @@ Certification.—An application under subsection (c) shall include a certificati
 
 &emsp;“(7) That each participating eligible person will be employed full time in the program of job training.
 
-&emsp;“(8) That the training period under the proposed program is not longer than the training periods that employers in the community customarily requirenew employees to complete in order to become competent in the occupation or job for which training is to be provided.
+&emsp;“(8) That the training period under the proposed program is not longer than the training periods that employers in the community customarily require new employees to complete in order to become competent in the occupation or job for which training is to be provided.
 
 &emsp;“(9) That there are in the training establishment or place of employment such space, equipment, instructional material, and instructor personnel as are needed to accomplish the training objective certified under subsection (e)(2).
 
@@ -386,7 +386,7 @@ Payments.—(1)(A) Except as provided in subsections (b) and (c) and subject to 
 
 &emsp;“(ii) $10,000 for an eligible person not described in clause (i).
 
-“(C) Assistance may be paid under this subtitle on behalf of an eligible person to that person's employer for training under two or more programs of job training under this subtitle if such employer has not received (or is not due) on that person's behalf assistance in an amount aggregating the applicable amount set forth in subparagraph (B).
+“(C) Assistance may be paid under this subtitle on behalf of an eligible person to that person's employer for training under two or more programs of job trainingunder this subtitle if such employer has not received (or is not due) on that person's behalf assistance in an amount aggregating the applicable amount set forth in subparagraph (B).
 
 “(b)
 
@@ -412,7 +412,7 @@ Overpayments.—(1)(A) Whenever the implementing official finds that an overpaym
 
 “(B) Whenever such official finds that an employer has failed in any substantial respect to comply for a period of time with a requirement established under this subtitle (unless the employer's failure is the result of false or incomplete information provided by the eligible person), each amount paid to the employer on behalf of an eligible person for that period shall be considered to be an overpayment under this subtitle, and the amount of such overpayment shall constitute a liability of the employer to the United States.
 
-“(2) Whenever such official finds that an overpayment under this subtitle has been made to an employer on behalf of an eligible person as a result of a certification by the eligible person, or as a result of information provided to an employer or contained in an application submitted by the eligible person, which was willfully or negligently false in any material respect,the amount of such overpayment shall constitute a liability of the eligible person to the United States.
+“(2) Whenever such official finds that an overpayment under this subtitle has been made to an employer on behalf of an eligible person as a result of a certification by the eligible person, or as a result of information provided to an employer or contained in an application submitted by the eligible person, which was willfully or negligently false in any material respect, the amount of such overpayment shall constitute a liability of the eligible person to the United States.
 
 “(3) Any overpayment referred to in paragraph (1) or (2) may be recovered in the same manner as any other debt due the United States. Any overpayment recovered shall be credited to funds available to make payments under this subtitle. If there are no such funds, any overpayment recovered shall be deposited into the Treasury.
 
@@ -556,7 +556,7 @@ Coordination.—The Secretary, the Secretary of Veterans Affairs, and the Secret
 
 “(c)
 
-Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Laborshall make available such personnel as are necessary to facilitate the effective implementation of this subtitle.
+Agency Resources.—(1) The Secretary, the Secretary of Veterans Affairs, and the Secretary of Labor shall make available such personnel as are necessary to facilitate the effective implementation of this subtitle.
 
 “(2) In carrying out the responsibilities of the Secretary of Labor under this subtitle, the Secretary of Labor shall make maximum use of the services of Directors and Assistant Directors for Veterans’ Employment and Training, disabled veterans’ outreach program specialists, and employees of local offices, appointed pursuant to sections 4103, 4103A, and 4104 of title 38, United States Code. To the extent that the implementing official withholds approval of eligible persons’ applications under this subtitle pursuant to section 4485(b)(2)(B), the Secretary of Labor shall take steps to assist such eligible persons in taking advantage of opportunities that may be available to them under any other program carried out with funds provided by the Secretary of Labor.
 

@@ -122,7 +122,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;(D) each participant who is entitled to a distribution from the plan has the rights described in subparagraphs (A) and (B) of section 409(h)(1),
 
-&emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated each year, up to the limitations under section 415(c), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),<sup>1</sup> and
+&emsp;&emsp;(E) such securities are held in a suspense account under the plan to be allocated each year, up to the applicable limitation under paragraph (7), after first allocating all other annual additions for the limitation year, up to the limitations under sections 415(c) and (e),<sup>1</sup> and
 
 &emsp;&emsp;(F) on termination of the plan, all securities so transferred which are not allocated to plan participants as of such termination are to be transferred to, or for the use of, an organization described in section 170(c).
 
@@ -164,13 +164,35 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;(B) interest on such amount at the underpayment rate under section 6621 (and compounded daily) from the due date for filing the return of the tax imposed by chapter 11.
 
-(Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b), (c)(5), 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817; Pub. L. 106–554, §1(a)(7) \[title III, §319(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+#### (7) Applicable limitation
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (3)(E), the applicable limitation under this paragraph with respect to a participant is an amount equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) $30,000, or
+
+&emsp;&emsp;&emsp;(ii) 25 percent of the participant's compensation (as defined in section 415(c)(3)).
+
+#### (B) Cost-of-living adjustment
+
+&emsp;&emsp;The Secretary shall adjust annually the $30,000 amount under subparagraph (A)(i) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning October 1, 1993, and any increase under this subparagraph which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
+
+(Added Pub. L. 91–172, title II, §201(e)(1), Dec. 30, 1969, 83 Stat. 562; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834;Pub. L. 98–369, div. A, title X, §1022(d), July 18, 1984, 98 Stat. 1029; Pub. L. 105–34, title X, §1089(a)(1), (b)(1), (2), (4), title XV, §1530(a), (b), (c)(5), 111 Stat. 960, 1075, 1078; Pub. L. 105–206, title VI, §6010(r), July 22, 1998, 112 Stat. 817; Pub. L. 106–554, §1(a)(7) \[title III, §319(7)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §632(a)(3)(H), June 7, 2001, 115 Stat. 114.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
 Section 415(e) of this title, referred to in subsec. (g)(3)(E), was repealed by Pub. L. 104–188, title I, §1452(a), Aug. 20, 1996, 110 Stat. 1816.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (g)(3)(E). Pub. L. 107–16, §§632(a)(3)(H)(i), 901, temporarily substituted “applicable limitation under paragraph (7)” for “limitations under section 415(c)”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (g)(7). Pub. L. 107–16, §§632(a)(3)(H)(ii), 901, temporarily added par. (7). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (d)(1)(C), (2)(C). Pub. L. 106–554 struck out period after “(as defined by subsection (g))”. See 1997 Amendment notes below.
 
@@ -208,6 +230,12 @@ Subsec. (g). Pub. L. 105–34, §1530(b), added subsec. (g).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 632(a)(4) of Pub. L. 107–16, set out as a note under section 72 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
@@ -242,7 +270,7 @@ Section applicable to transfers in trust made after July 31, 1969, see section 2
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 170, 401, 404, 415, 674, 1361, 2055, 2056, 2207B, 2522, 2652, 4947, 4975, 4978, 4979A, 6049 of this title; title 15 sections 37a, 80a–3.
+This section is referred to in sections 170, 401, 404, 415, 674, 1361, 2055, 2056, 2207B, 2522, 2632, 2652, 4947, 4975, 4978, 4979A, 6049 of this title; title 15 sections 37a, 80a–3.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

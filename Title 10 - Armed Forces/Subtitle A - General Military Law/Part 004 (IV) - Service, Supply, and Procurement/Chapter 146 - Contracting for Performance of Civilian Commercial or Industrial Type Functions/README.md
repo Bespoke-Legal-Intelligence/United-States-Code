@@ -11,7 +11,7 @@
 | [2465\.](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md) | Prohibition on contracts for performance of firefighting or security-guard functions. |
 | [2466\.](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md) | Limitations on the performance of depot-level maintenance of materiel. |
 | [2467\.](%C2%A7%2002467%20-%20Cost%20comparisons%20inclusion%20of%20retirement%20costs%3B%20consultation%20with%20employees%3B%20waiver%20of%20comparison.md) | Cost comparisons: inclusion of retirement costs; consultation with employees; waiver of comparison. |
-| [2468\.](%C2%A7%2002468%20-%20Military%20installations%20authority%20of%20base%20commanders%20over%20contracting%20for%20commercial%20activities.md) | Military installations: authority of base commanders over contracting for commercial activities. |
+| \[2468. | Repealed.\] |
 | [2469\.](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md) | Contracts to perform workloads previously performed by depot-level activities of the Department of Defense: requirement of competition. |
 | [2469a.](%C2%A7%2002469a%20-%20Use%20of%20competitive%20procedures%20in%20contracting%20for%20performance%20of%20depot-level%20maintenance%20and%20repair%20workloads%20formerly%20performed%20at%E2%80%A6.md) | Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at certain military installations. |
 | [2470\.](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md) | Depot-level activities of the Department of Defense: authority to compete for maintenance and repair workloads of other Federal agencies. |
@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title X, §1048(e)(10)(B), Dec. 28, 2001, 115 Stat. 1228, struck out item 2468 “Military installations: authority of base commanders over contracting for commercial activities”.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title III, §§341(g)(2), 353(b), 354(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64, 1654A–73, 1654A–75, added items 2461a and 2475 and struck out item 2471 “Persons outside the Department of Defense: lease of excess depot-level equipment and facilities by”.
 
@@ -61,7 +63,7 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02465 - Prohibition on contracts for performance of firefighting or security-guard functions](%C2%A7%2002465%20-%20Prohibition%20on%20contracts%20for%20performance%20of%20firefighting%20or%20security-guard%20functions.md)
 - [&sect; 02466 - Limitations on the performance of depot-level maintenance of materiel](%C2%A7%2002466%20-%20Limitations%20on%20the%20performance%20of%20depot-level%20maintenance%20of%20materiel.md)
 - [&sect; 02467 - Cost comparisons inclusion of retirement costs; consultation with employees; waiver of comparison](%C2%A7%2002467%20-%20Cost%20comparisons%20inclusion%20of%20retirement%20costs%3B%20consultation%20with%20employees%3B%20waiver%20of%20comparison.md)
-- [&sect; 02468 - Military installations authority of base commanders over contracting for commercial activities](%C2%A7%2002468%20-%20Military%20installations%20authority%20of%20base%20commanders%20over%20contracting%20for%20commercial%20activities.md)
+- [&sect; 02468 - Repealed. Pub. L. 107&#8211;107, div. A, title X, &sect;1048(e)(10)(A), Dec. 28, 2001, 115 Stat. 1228](%C2%A7%2002468%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71048%28e%29%2810%29%28A%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201228.md)
 - [&sect; 02469 - Contracts to perform workloads previously performed by depot-level activities of the Department of Defense requirement of competition](%C2%A7%2002469%20-%20Contracts%20to%20perform%20workloads%20previously%20performed%20by%20depot-level%20activities%20of%20the%20Department%20of%20Defense%20requirement%20of%20competition.md)
 - [&sect; 02469a - Use of competitive procedures in contracting for performance of depot-level maintenance and repair workloads formerly performed at&#8230;](%C2%A7%2002469a%20-%20Use%20of%20competitive%20procedures%20in%20contracting%20for%20performance%20of%20depot-level%20maintenance%20and%20repair%20workloads%20formerly%20performed%20at%E2%80%A6.md)
 - [&sect; 02470 - Depot-level activities of the Department of Defense authority to compete for maintenance and repair workloads of other Federal agencies](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md)

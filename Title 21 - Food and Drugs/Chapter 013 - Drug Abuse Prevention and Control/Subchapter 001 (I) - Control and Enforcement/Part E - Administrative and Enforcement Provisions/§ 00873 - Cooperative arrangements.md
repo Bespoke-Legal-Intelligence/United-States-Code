@@ -30,7 +30,7 @@ When requested by the Attorney General, it shall be the duty of any agency or in
 
 #### (c) Descriptive and analytic reports by Attorney General to State agencies of distribution patterns of schedule II substances having highest rates of abuse
 
-The Attorney General shall annually (1) select the controlled substances (or controlled substances) contained in schedule II which, in the Attorney General's discretion, is determined to have the highest rate of abuse, and (2) prepare and make available to regulatory, licensing, and law enforcement agencies of States descriptive and analytic reports on the actual distribution patterns in such States of each such controlled substance.
+The Attorney General shall annually (1) select the controlled substance (or controlled substances) contained in schedule II which, in the Attorney General's discretion, is determined to have the highest rate of abuse, and (2) prepare and make available to regulatory, licensing, and law enforcement agencies of States descriptive and analytic reports on the actual distribution patterns in such States of each such controlled substance.
 
 #### (d) Grants by Attorney General
 
@@ -88,7 +88,7 @@ Activities.—In order to combat the illegal manufacturing and trafficking in am
 
 &emsp;“(5) enhance the investigative and related functions of the Chemical Control Program of the Administration to implement more fully the provisions of the Comprehensive Methamphetamine Control Act of 1996 (Public Law 104–237) \[see Short Title of 1996 Amendments note set out under section 801 of this title\];
 
-&emsp;“(6) design an effective means of requiring an accurate accounting of the import and export of list Ichemicals, and coordinate investigations relating to the diversion of such chemicals;
+&emsp;“(6) design an effective means of requiring an accurate accounting of the import and export of list I chemicals, and coordinate investigations relating to the diversion of such chemicals;
 
 &emsp;“(7) develop a computer infrastructure sufficient to receive, process, analyze, and redistribute time-sensitive enforcement information from suspicious order reporting to field offices of the Administration and other law enforcement and regulatory agencies, including the continuing development of the Suspicious Order Reporting and Tracking System (SORTS) and the Chemical Transaction Database (CTRANS) of the Administration;
 
@@ -114,11 +114,11 @@ Authorization of Appropriations.—There are authorized to be appropriated for t
 
 #### National Drug Intelligence Center
 
-Pub. L. 106–567, title I, §104(e), Dec. 27, 2000, 114 Stat. 2834, provided that:
+Pub. L. 107–108, title I, §104(e), Dec. 28, 2001, 115 Stat. 1396, provided that:
 
 “(1)
 
-In general.—Of the amount authorized to be appropriated in subsection (a) \[114 Stat. 2833\], $34,100,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, test, and evaluation purposes shall remain available until September 30, 2002, and funds provided for procurement purposes shall remain available until September 30, 2003.
+In general.—Of the amount authorized to be appropriated in subsection (a) \[115 Stat. 1396\], $44,000,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, testing, and evaluation purposes shall remain available until September 30, 2003, and funds provided for procurement purposes shall remain available until September 30, 2004.
 
 “(2)
 
@@ -133,6 +133,8 @@ Limitation.—Amounts available for the National Drug Intelligence Center may no
 Authority.—Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the National Drug Intelligence Center.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–567, title I, §104(e), Dec. 27, 2000, 114 Stat. 2834.
 
 Pub. L. 106–120, title I, §104(e), Dec. 3, 1999, 113 Stat. 1609.
 

@@ -32,7 +32,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 &emsp;Any person against whom a violation is found and a civil penalty assessed or cease and desist order issued under subsection (c) of this section may obtain review of the penalty or order by—
 
-&emsp;&emsp;(A) filing, within the 30-day period beginning on the date such penalty is assessed ororder issued, a notice of appeal in the district court of the United States for the district in which such person resides or does business, or in the United States District Court for the District of Columbia; and
+&emsp;&emsp;(A) filing, within the 30-day period beginning on the date such penalty is assessed or order issued, a notice of appeal in the district court of the United States for the district in which such person resides or does business, or in the United States District Court for the District of Columbia; and
 
 &emsp;&emsp;(B) simultaneously sending a copy of the notice by certified mail to the Secretary.
 
@@ -46,7 +46,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (e) Failure to obey orders
 
-A person who fails to obey a cease and desist order after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d) of this section, of not more than $500 for each offense. Each day during which such failure continues shall be considered as a separate violation of such order.
+A person who fails to obey a cease and desist order after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicialreview under the procedures specified in subsections (c) and (d) of this section, of not more than $500 for each offense. Each day during which such failure continues shall be considered as a separate violation of such order.
 
 #### (f) Failure to pay penalties
 

@@ -42,7 +42,7 @@ If the Secretary finds that a severe energy supply interruption may be imminent,
 
 &emsp;(B) shall not exceed the price that would have been paid if the Secretary had acquired petroleum products of a similar quality on the open market under competitive bid procedures without regard to the source of the petroleum products.
 
-(Pub. L. 94–163, title I, §160, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–294, title VIII, §§801(a), 802(a), 803, June 30, 1980, 94 Stat. 775, 776; Pub. L. 97–35, title X, §1033, Aug. 13, 1981, 95 Stat. 618; Pub. L. 97–229, §4(a)(1), (b)(2)(C), Aug. 3, 1982, 96 Stat. 250, 252; Pub. L. 99–58, title I, §§102(b), 103(b)(1), July 2, 1985, 99 Stat. 103, 104; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 342; Pub. L. 99–272, title VII, §7102, Apr. 7, 1986, 100 Stat. 141; Pub. L. 99–509, title III, §3202, Oct. 21, 1986, 100 Stat. 1889; Pub. L. 101–383, §§4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, 104 Stat. 728, 729, 734; Pub. L. 101–548, §1, Nov. 14, 1990, 104 Stat. 2398; Pub. L. 102–486, title XIV, §1404(a), (b)(2), Oct. 24, 1992, 106 Stat. 2994, 2995; Pub. L. 104–66, title I, §1051(f), Dec. 21, 1995, 109 Stat. 716; Pub. L.106–469, title I, §103(14), Nov. 9, 2000, 114 Stat. 2031.)
+(Pub. L. 94–163, title I, §160, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–294, title VIII, §§801(a), 802(a), 803, June 30, 1980, 94 Stat. 775, 776; Pub. L. 97–35, title X, §1033, Aug. 13, 1981, 95 Stat. 618; Pub. L. 97–229, §4(a)(1), (b)(2)(C), Aug. 3, 1982, 96 Stat. 250, 252; Pub. L. 99–58, title I, §§102(b), 103(b)(1), July 2, 1985, 99 Stat. 103, 104; Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 342; Pub. L. 99–272, title VII, §7102, Apr. 7, 1986, 100 Stat. 141; Pub. L. 99–509, title III, §3202, Oct. 21, 1986, 100 Stat. 1889; Pub. L. 101–383, §§4(b), (c), 5(a), (b)(3), 7, Sept. 15, 1990, 104 Stat. 728, 729, 734; Pub. L. 101–548, §1, Nov. 14, 1990, 104 Stat. 2398; Pub. L. 102–486, title XIV, §1404(a), (b)(2), Oct. 24, 1992, 106 Stat. 2994, 2995; Pub. L. 104–66, title I, §1051(f), Dec. 21, 1995, 109 Stat. 716; Pub. L. 106–469, title I, §103(14), Nov. 9, 2000, 114 Stat. 2031.)
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Section 4(a)(2) of Pub. L. 97–229 provided that: “The amendment made by para
 
 #### Effective Date of 1981 Amendment
 
-Section 1038 of title X of Pub. L. 97–35 provided that: “The provisions of this title \[enacting sections 6247, 8341, and 8484 of this title, amending this section and sections 6245, 6246, 6831 to 6833, 6835, 6837 to 6839, 8372, 8421, 8422, and 8803 of this title, repealing sections 6834, 6836 and 8341 of this title, and enacting provisions set out as notes under sections 6201, 6231, 6247, 7270, and 8341 of this title, section 3620 of Title 12, Banks and Banking, and section 719e of Title 15, Commerce and Trade\] shall take effect on the date of enactment of this Act \[Aug. 13, 1981\].”
+Section 1038 of title X of Pub. L. 97–35 provided that: “The provisions of this title \[enacting sections 6247,8341, and 8484 of this title, amending this section and sections 6245, 6246, 6831 to 6833, 6835, 6837 to 6839, 8372, 8421, 8422, and 8803 of this title, repealing sections 6834, 6836 and 8341 of this title, and enacting provisions set out as notes under sections 6201, 6231, 6247, 7270, and 8341 of this title, section 3620 of Title 12, Banks and Banking, and section 719e of Title 15, Commerce and Trade\] shall take effect on the date of enactment of this Act \[Aug. 13, 1981\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -170,7 +170,7 @@ Section 805 of Pub. L. 96–294 provided that:
 
 “(2)(A) Subject to the provisions of any Act enacted pursuant to section 660 of the Department of Energy Organization Act \[42 U.S.C. 7270\], such account shall be available (except as provided in subparagraph (B)) for use by the Secretary of Energy, without fiscal year limitation, for the purchase of crude oil for the Strategic Petroleum Reserve, to the extent provided in advance in appropriation Acts.
 
-“(B) Amounts in such account attributable to the proceeds from the sale of entitlements under the amendment to the regulation under subsection (a) arehereby appropriated for fiscal year 1981 for acquisition of crude oil for the Strategic Petroleum Reserve pursuant to subsection (a).
+“(B) Amounts in such account attributable to the proceeds from the sale of entitlements under the amendment to the regulation under subsection (a) are hereby appropriated for fiscal year 1981 for acquisition of crude oil for the Strategic Petroleum Reserve pursuant to subsection (a).
 
 “(d) For purposes of this section—
 

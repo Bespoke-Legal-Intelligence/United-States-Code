@@ -6,7 +6,7 @@ No water for irrigation may be delivered from the works of any project construct
 
 #### (b) “Reimbursable construction cost” defined
 
-The term “reimbursable construction costs” as used in this subchapter means that part of the costs of investigating, constructing, and operating and maintaining the project, which are allocated by the Secretary to irrigation, and which are met by expenditures of moneys therefor appropriated under the authority of section 590z–10(1) of this title, plus such amounts as the President, under section 590z(1) of this title, may determine to be reimbursable: <i>Provided</i>, That administrative expenses incurred in the District of Columbia in connection with the investigation construction, or operation and maintenance of a project shall not be included in the reimbursable construction costs nor shall they be charged to the water users in any way.
+The term “reimbursable construction costs” as used in this subchapter means that part of the costs of investigating, constructing, and operating and maintaining the project, which are allocated by the Secretary to irrigation, and which are met by expenditures of moneys therefor appropriated under the authority of section 590z–10(1) of this title, plus such amounts as the President, under section 590z(1) of this title, may determine to be reimbursable: <i>Provided</i>,That administrative expenses incurred in the District of Columbia in connection with the investigation construction, or operation and maintenance of a project shall not be included in the reimbursable construction costs nor shall they be charged to the water users in any way.
 
 #### (c) Terms
 
@@ -42,7 +42,7 @@ Subsection (d) of this section, by the terms thereof, ceased to be of force and 
 
 #### Extension of Variable Payment Plan
 
-Authority of Secretary to extend benefits of variable payment plan to organizations with which he contracts or has contracted for the repayment of construction costs allocated to irrigation on any project undertaken by the United States, including contracts under this subchapter, see section 2 of Pub. L. 85–611, Aug. 8, 1958, 72 Stat. 542, set out as a note under section 485h of Title 43, Public Lands.
+Authority of Secretary to extend benefits of variable payment plan to organizations with which he contractsor has contracted for the repayment of construction costs allocated to irrigation on any project undertaken by the United States, including contracts under this subchapter, see section 2 of Pub. L. 85–611, Aug. 8, 1958, 72 Stat. 542, set out as a note under section 485h of Title 43, Public Lands.
 
 #### Section Referred to in Other Sections
 

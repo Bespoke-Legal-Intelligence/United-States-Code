@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (4) Time for payment of tax
 
-&emsp;For purposes of subtitle F, the time for payment of the tax imposed by subsection (a) shall be the last day of the month following the month in which the employer reversion occurs.
+&emsp;For purposes of subtitle F, the time for payment of the tax imposed by subsection (a)shall be the last day of the month following the month in which the employer reversion occurs.
 
 #### (d) Increase in tax for failure to establish replacement plan or increase benefits
 
@@ -182,7 +182,7 @@ For purposes of this section—
 
 #### (B) Pro rata increase
 
-&emsp;&emsp;For purposes of subparagraph (A), a pro rata increase is an increase in the present value of the accrued benefit of each qualified participant in an amount which bears the same ratio to the aggregate amount determined under subparagraph (A)(i) as—
+&emsp;&emsp;For purposes of subparagraph (A), a pro rata increase is an increase in the presentvalue of the accrued benefit of each qualified participant in an amount which bears the same ratio to the aggregate amount determined under subparagraph (A)(i) as—
 
 &emsp;&emsp;&emsp;(i) the present value of such participant's accrued benefit (determined without regard to this subsection), bears to
 
@@ -262,7 +262,7 @@ Subsec. (d). Pub. L. 101–508, §12002(a), which directed the addition of subse
 
 Subsec. (c)(1)(A). Pub. L. 100–647, §1011A(f)(1), substituted “subtitle A” for “this subtitle”.
 
-Subsec. (c)(3)(A). Pub. L. 100–647, §1011A(f)(2), inserted “or a tax credit employee stock ownership plan (as described in section 409)” after “section 4975(e)(7)” in introductory text, and “, except to the extent necessary to meet the requirements of section 401(a)(28),” after “must” in cl. (ii).
+Subsec. (c)(3)(A). Pub. L. 100–647, §1011A(f)(2), inserted “or a tax credit employee stock ownership plan (as described in section 409)” after “section 4975(e)(7)” in introductory text, and “, except to the extent necessaryto meet the requirements of section 401(a)(28),” after “must” in cl. (ii).
 
 Subsec. (c)(3)(C). Pub. L. 100–647, §1011A(f)(3), struck out “(by reason of the limitations of section 415)” after “not allocated” in introductory text, and inserted sentence at end relating to minimum amount allocated in year of transfer.
 

@@ -14,7 +14,7 @@ The national recreation area also shall be administered according to the followi
 
 &emsp;(3) The Secretary shall permit the use of snowmobiles on Federal lands in the national recreation area in accordance with the rules and regulations of the National Forest System and consistent with the management plan developed pursuant to section 460aaa–6 of this title. Such use shall be regulated to protect the resources of the national recreation area in a way that minimizes the degradation of these resources.
 
-&emsp;(4) Timber management shall be utilized only as a tool to enhance public recreation, scenic quality, game and nongame wildlife species, and the protection and enhancement of threatened, endangered, or sensitive species. Trees damaged or downed due to fire, insects, disease, or blowdown may be utilized, salvaged, or removed from the recreation area as authorized by the Secretary to further the purposes of the national recreation area.
+&emsp;(4) Timber management shall be utilized only as a tool to enhance public recreation,scenic quality, game and nongame wildlife species, and the protection and enhancement of threatened, endangered, or sensitive species. Trees damaged or downed due to fire, insects, disease, or blowdown may be utilized, salvaged, or removed from the recreation area as authorized by the Secretary to further the purposes of the national recreation area.
 
 &emsp;(5) The Secretary shall, after acquiring fee title to at least 10,000 acres of land on Grand Island, provide reasonable water transportation from the mainland to Grand Island. Transportation may be provided through concession, permit, or other means, and a reasonable charge may be imposed. Transportation shall be subject to reasonable regulation by the Secretary and shall not be required when the Secretary deems it to be unsafe because of factors such as weather and water conditions.
 
@@ -30,7 +30,7 @@ The national recreation area also shall be administered according to the followi
 
 &emsp;&emsp;(C) The Secretary shall collect fees on an annual basis based on the fair market value of the occupancy permitted.
 
-&emsp;&emsp;(D) The expansion, remodeling, or reconstruction of such homes shall be subject to approval of and regulation by the Secretary. No expansion, remodeling, or reconstruction may increase the height of structure or result in an increase of more than 25 percent of the sum of the exterior dimensions of a structure as it existed on May 17, 1990. Any expansion, remodeling, or reconstruction shall be consistent with the criteria developed pursuant to section 460aaa–6(b)(4) of this title and shall be subject to such otherterms and conditions as the Secretary may prescribe.
+&emsp;&emsp;(D) The expansion, remodeling, or reconstruction of such homes shall be subject to approval of and regulation by the Secretary. No expansion, remodeling, or reconstruction may increase the height of structure or result in an increase of more than 25 percent of the sum of the exterior dimensions of a structure as it existed on May 17, 1990. Any expansion, remodeling, or reconstruction shall be consistent with the criteria developed pursuant to section 460aaa–6(b)(4) of this title and shall be subject to such other terms and conditions as the Secretary may prescribe.
 
 &emsp;&emsp;(E) Any such home may be purchased at the fair market value of the structure and improvements by the Secretary on a willing seller basis.
 

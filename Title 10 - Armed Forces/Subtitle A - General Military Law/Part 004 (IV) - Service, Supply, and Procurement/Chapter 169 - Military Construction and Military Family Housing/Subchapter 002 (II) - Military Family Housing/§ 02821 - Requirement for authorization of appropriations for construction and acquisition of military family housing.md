@@ -30,9 +30,11 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Repair and Maintenance of Family Housing Units
 
-Pub. L. 106–246, div. A, §127, July 13, 2000, 114 Stat. 518, provided that: “Notwithstanding this or any other provision of law, funds appropriated in Military Construction Appropriations Acts for operations and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including flag and general officer quarters: <i>Provided</i>, That not more than $25,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days advance prior notification of the appropriate committees of Congress: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations all operations and maintenance expenditures for each individual flag and general officer quarters for the prior fiscal year.”
+Pub. L. 107–64, §127, Nov. 5, 2001, 115 Stat. 482, provided that: “Notwithstanding this or any other provision of law, funds appropriated in Military Construction Appropriations Acts for operations and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days advance prior notification to the appropriate committees of Congress: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations all operations and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–246, div. A, §127, July 13, 2000, 114 Stat. 518.
 
 Pub. L. 106–52, §128, Aug. 17, 1999, 113 Stat. 267.
 
@@ -42,7 +44,7 @@ Pub. L. 100–180, div. B, subdiv. 3, title II, §2321, Dec. 4, 1987, 101 Stat. 
 
 #### Military Housing Rental Guarantee Program
 
-Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended by Pub. L. 98–407, title VIII, §806(b), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §801(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. B, title VII, §2713(a), Nov. 14, 1986, 100 Stat. 4042; Pub. L.100–180, div. B, subdiv. 3, title I, §2307, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–189, div. B, title XXVIII, §2801, Nov. 29, 1989, 103 Stat. 1646; Pub. L. 101–510, div. B, title XXVIII, §2811, Nov. 5, 1990, 104 Stat. 1788, provided for agreements and contracts relating to military housing rental guarantee program, prior to repeal by Pub. L. 102–190, div. B, title XXVIII, §2809(b), (c), Dec. 5, 1991, 105 Stat. 1543, such repeal not to affect the validity of any contract entered into before Dec. 5, 1991, under section 802 of Pub. L. 98–115 as in effect on Dec. 4, 1991. See section 2836 of this title.
+Pub. L. 98–115, title VIII, §802, Oct. 11, 1983, 97 Stat. 783, as amended by Pub. L. 98–407, title VIII, §806(b), Aug. 28, 1984, 98 Stat. 1521; Pub. L. 99–167, title VIII, §801(a), Dec. 3, 1985, 99 Stat. 985; Pub. L. 99–661, div. B, title VII, §2713(a), Nov. 14, 1986, 100 Stat. 4042; Pub. L. 100–180, div. B, subdiv. 3, title I, §2307, Dec. 4, 1987, 101 Stat. 1216; Pub. L. 101–189, div. B, title XXVIII, §2801, Nov. 29, 1989, 103 Stat. 1646; Pub. L. 101–510, div. B, title XXVIII, §2811, Nov. 5, 1990, 104 Stat. 1788, provided for agreements and contracts relating to military housing rental guarantee program, prior to repeal by Pub. L. 102–190, div. B, title XXVIII, §2809(b), (c), Dec. 5, 1991, 105 Stat. 1543, such repeal not to affect the validity of any contract entered into before Dec. 5, 1991, under section 802 of Pub. L. 98–115 as in effect on Dec. 4, 1991. See section 2836 of this title.
 
 #### Family Housing Constructed Overseas
 

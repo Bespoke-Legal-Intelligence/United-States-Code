@@ -48,7 +48,7 @@
 
 #### (B) Terms and conditions
 
-&emsp;&emsp;An agreement entered into under this subsection shall be subject to such terms and conditions as the Commission determines are appropriate to carry out the objectives of this chapter. The rental rate per square foot of occupiable space for space subleased under this subsection shall be determined in accordance with subsection (c) of this section; except that the Commission may adjust such rate with respect to any space subleased to a foreign mission in accordancewith the recommendations of the Secretary of State acting in accordance with section 204(b) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4304(b)). The Secretary of State may reimburse the Commission for any expenses which are incurred by the Commission as a result of making adjustments in the rental rate for space under this subparagraph.
+&emsp;&emsp;An agreement entered into under this subsection shall be subject to such terms and conditions as the Commission determines are appropriate to carry out the objectives of this chapter. The rental rate per square foot of occupiable space for space subleased under this subsection shall be determined in accordance with subsection (c) of this section; except that the Commission may adjust such rate with respect to any space subleased to a foreign mission in accordance with the recommendations of the Secretary of State acting in accordance with section 204(b) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4304(b)). The Secretary of State may reimburse the Commission for any expenses which are incurred by the Commission as a result of making adjustments in the rental rate for space under this subparagraph.
 
 #### (4) Reference facility and cultural events
 

@@ -20,7 +20,7 @@ Under a program, the Secretary shall, based on an evaluation by the Secretary of
 
 #### (2) Determination of amount of funds
 
-&emsp;For each fiscal year of a program, the amount of funds made available under subsection (b)(2) of this section shall be equal to90 percent of the average annual value of United States agricultural exports to the country with respect to which exports are suspended during the most recent 3 years prior to the suspension for which data are available.
+&emsp;For each fiscal year of a program, the amount of funds made available under subsection (b)(2) of this section shall be equal to 90 percent of the average annual value of United States agricultural exports to the country with respect to which exports are suspended during the most recent 3 years prior to the suspension for which data are available.
 
 #### (d) Duration of program
 

@@ -1,6 +1,6 @@
 ### §5741. Records to be maintained
 
-Every manufacturer of tobacco products or cigarette papers and tubes, every importer, andevery export warehouse proprietor shall keep such records in such manner as the Secretary shall by regulation prescribe. The records required under this section shall be available for inspection by any internal revenue officer during business hours.
+Every manufacturer of tobacco products or cigarette papers and tubes, every importer, and every export warehouse proprietor shall keep such records in such manner as the Secretary shall by regulation prescribe. The records required under this section shall be available for inspection by any internal revenue officer during business hours.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 715; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1423; Pub. L. 89–44, title V, §502(b)(9), June 21, 1965, 79 Stat. 151; Pub. L. 94–455, title XXI, §2128(c), Oct. 4, 1976, 90 Stat. 1921.)
 

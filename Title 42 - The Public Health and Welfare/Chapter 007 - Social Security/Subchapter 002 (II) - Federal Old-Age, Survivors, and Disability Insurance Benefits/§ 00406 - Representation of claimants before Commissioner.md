@@ -30,7 +30,7 @@
 
 (D) In the case of a claim with respect to which the Commissioner of Social Security has approved an agreement pursuant to subparagraph (A), the Commissioner of Social Security shall provide the claimant and the person representing the claimant a written notice of—
 
-&emsp;(i) the dollar amount of the past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title) and the dollar amount of the past-due benefits payable to the claimant,
+&emsp;(i) the dollar amount of the past-due benefits (as determined before any applicable reductionunder section 1320a–6(a) of this title) and the dollar amount of the past-due benefits payable to the claimant,
 
 &emsp;(ii) the dollar amount of the maximum fee which may be charged or recovered as determined under this paragraph, and
 
@@ -52,7 +52,7 @@
 
 (4) Subject to subsection (d) of this section, if the claimant is determined to be entitled to past-due benefits under this subchapter and the person representing the claimant is an attorney, the Commissioner of Social Security shall, notwithstanding section 405(i) of this title, certify for payment out of such past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title) to such attorney an amount equal to so much of the maximum fee as does not exceed 25 percent of such past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title).
 
-(5) Any person who shall, with intent to defraud, in any manner willfully and knowinglydeceive, mislead, or threaten any claimant or prospective claimant or beneficiary under this subchapter by word, circular, letter or advertisement, or who shall knowingly charge or collect directly or indirectly any fee in excess of the maximum fee, or make any agreement directly or indirectly to charge or collect any fee in excess of the maximum fee, prescribed by the Commissioner of Social Security shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall for each offense be punished by a fine not exceeding $500 or by imprisonment not exceeding one year, or both. The Commissioner of Social Security shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Commissioner of Social Security, of the identity of any person representing such claimant in accordance with this subsection.
+(5) Any person who shall, with intent to defraud, in any manner willfully and knowingly deceive, mislead, or threaten any claimant or prospective claimant or beneficiary under this subchapter by word, circular, letter or advertisement, or who shall knowingly charge or collect directly or indirectly any fee in excess of the maximum fee, or make any agreement directly or indirectly to charge or collect any fee in excess of the maximum fee, prescribed by the Commissioner of Social Security shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall for each offense be punished by a fine not exceeding $500 or by imprisonment not exceeding one year, or both. The Commissioner of Social Security shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Commissioner of Social Security, of the identity of any person representing such claimant in accordance with this subsection.
 
 #### (b) Fees for representation before court
 
@@ -68,7 +68,7 @@
 
 #### (c) Notification of options for obtaining attorneys
 
-The Commissioner of Social Security shall notify each claimant in writing, together with the notice to such claimant of an adverse determination, of the options for obtaining attorneys to represent individuals in presenting their cases before the Commissioner of Social Security. Such notification shall also advise the claimant of the availability to qualifying claimants of legal services organizations which provide legal services free of charge.
+The Commissioner of Social Security shall notify each claimant in writing, together with thenotice to such claimant of an adverse determination, of the options for obtaining attorneys to represent individuals in presenting their cases before the Commissioner of Social Security. Such notification shall also advise the claimant of the availability to qualifying claimants of legal services organizations which provide legal services free of charge.
 
 #### (d) Assessment on attorneys
 
@@ -102,7 +102,7 @@ The Commissioner of Social Security shall notify each claimant in writing, toget
 
 &emsp;The assessments authorized under this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Amounts so appropriated are authorized to remain available until expended, for administrative expenses in carrying out this subchapter and related laws.
 
-(Aug. 14, 1935, ch. 531, title II, §206, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Pub. L. 85–840, title III, §309, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 89–97, title III, §332, July 30, 1965, 79 Stat. 403; Pub. L. 90–248, title I, §173, Jan. 2, 1968, 81 Stat. 877; Pub. L. 101–239, title X, §10307(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2484, 2485; Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 101–508, title V,§5106(a)(1), Nov. 5, 1990, 104 Stat. 1388–266; Pub. L. 103–296, title I, §107(a)(4), title III, §321(f)(3)(B)(i), (4), Aug. 15, 1994, 108 Stat. 1478, 1541, 1542; Pub. L. 106–170, title IV, §406(a), (b), Dec. 17, 1999, 113 Stat. 1911, 1912.)
+(Aug. 14, 1935, ch. 531, title II, §206, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1372; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Pub. L. 85–840, title III, §309, Aug. 28, 1958, 72 Stat. 1034; Pub. L. 89–97, title III, §332, July 30, 1965, 79 Stat. 403; Pub. L. 90–248, title I, §173, Jan. 2, 1968, 81 Stat. 877; Pub. L. 101–239, title X, §10307(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2484, 2485; Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 101–508, title V, §5106(a)(1), Nov. 5, 1990, 104 Stat. 1388–266; Pub. L. 103–296, title I, §107(a)(4), title III, §321(f)(3)(B)(i), (4), Aug. 15, 1994, 108 Stat. 1478, 1541, 1542; Pub. L. 106–170, title IV, §406(a), (b), Dec. 17, 1999, 113 Stat. 1911, 1912.)
 
 #### Amendments
 
@@ -134,7 +134,7 @@ Subsec. (b)(1)(A). Pub. L. 103–296, §107(a)(4), in subpar. (A) as designated 
 
 Subsec. (c). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
 
-1990—Subsec. (a). Pub. L. 101–508 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2)(A), whenever” for “Whenever” in fifth sentence, substituted pars. (2) to (4) for “If as a result of such determination, such claimant is entitled to past-due benefits under this subchapter, the Secretary shall, notwithstanding section 405(i) of this title, certify for payment (out of such past-due benefits) to such attorney an amount equal to whichever of the following is the smaller: (A) 25 per centum of the total amount of such past-due benefits, (B) the amount of the attorney's fee so fixed, or (C) the amount agreed upon between the claimant and such attorney as the fee for such attorney's services.”, and inserted “(5)” before “Any person who”.
+1990—Subsec. (a). Pub. L. 101–508 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2)(A), whenever” for “Whenever” in fifth sentence, substituted pars. (2) to (4) for “If as a result of such determination, such claimant is entitled to past-due benefits under this subchapter, the Secretary shall, notwithstanding section 405(i) of this title, certify for payment (out of such past-due benefits) to such attorney an amount equal to whichever of the following is the smaller: (A) 25 per centum of the totalamount of such past-due benefits, (B) the amount of the attorney's fee so fixed, or (C) the amount agreed upon between the claimant and such attorney as the fee for such attorney's services.”, and inserted “(5)” before “Any person who”.
 
 1989—Subsec. (a). Pub. L. 101–239, §10307(a)(1), inserted at end “The Secretary shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Secretary, of the identity of any person representing such claimant in accordance with this subsection.”
 

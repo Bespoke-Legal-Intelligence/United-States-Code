@@ -78,7 +78,7 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), years of service shall be determined under the rules of paragraphs (4), (5), and (6) of section 411(a).
+&emsp;&emsp;&emsp;Except as provided in clause (ii) or (iii), years of service shall be determined under the rules of paragraphs (4), (5), and (6) of section 411(a).
 
 #### (ii) Exception for years during which plan was not top-heavy
 
@@ -87,6 +87,10 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 &emsp;&emsp;&emsp;&emsp;(I) the plan was not a top-heavy plan for any plan year ending during such year of service, or
 
 &emsp;&emsp;&emsp;&emsp;(II) such year of service was completed in a plan year beginning before January 1, 1984.
+
+#### (iii) Exception for frozen plan
+
+&emsp;&emsp;&emsp;For purposes of determining an employee's years of service with the employer, any service with the employer shall be disregarded to the extent that such service occurs during a plan year when the plan benefits (within the meaning of section 410(b)) no key employee or former key employee.
 
 #### (D) Average compensation for high 5 years
 
@@ -116,13 +120,13 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 #### (A) In general
 
-&emsp;&emsp;A defined contribution plan meets the requirements of the subsection if the employer contribution for the year for each participant who is a non-key employee is not less than 3 percent of such participant's compensation (within the meaning of section 415).
+&emsp;&emsp;A defined contribution plan meets the requirements of the subsection if the employer contribution for the year for each participant who is a non-key employee is not less than 3 percent of such participant's compensation (within the meaning of section 415). Employer matching contributions (as defined in section 401(m)(4)(A)) shall be taken into account for purposes of this subparagraph (and any reduction under this sentence shall not be taken into account in determining whether section 401(k)(4)(A) applies).
 
 #### (B) Special rule where maximum contribution less than 3 percent
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The percentage referred to in subparagraph (A) for any year shall not exceed thepercentage at which contributions are made (or required to be made) under the plan for the year for the key employee for whom such percentage is the highest for the year.
+&emsp;&emsp;&emsp;The percentage referred to in subparagraph (A) for any year shall not exceed the percentage at which contributions are made (or required to be made) under the plan for the year for the key employee for whom such percentage is the highest for the year.
 
 #### (ii) Treatment of aggregation groups
 
@@ -150,7 +154,7 @@ For purposes of this section—
 
 &emsp;&emsp;Except as provided in subparagraph (B), the term “top-heavy plan” means, with respect to any plan year—
 
-&emsp;&emsp;&emsp;(i) any defined benefit plan if, as of the determination date, the present value of the cumulative accrued benefits under the plan for key employees exceeds 60 percent of the present value of the cumulative accrued benefits under the plan for all employees, and
+&emsp;&emsp;&emsp;(i) any defined benefit plan if, as of the determination date, the present value of the cumulative accrued benefits under the plan for key employees exceeds 60 percentof the present value of the cumulative accrued benefits under the plan for all employees, and
 
 &emsp;&emsp;&emsp;(ii) any defined contribution plan if, as of the determination date, the aggregate of the accounts of key employees under the plan exceeds 60 percent of the aggregate of the accounts of all employees under such plan.
 
@@ -188,15 +192,21 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) exceeds 60 percent of a similar sum determined for all employees.
 
-#### (3) Distributions during last 5 years taken into account
+#### (3) Distributions during last year before determination date taken into account
 
-&emsp;For purposes of determining—
+#### (A) In general
 
-&emsp;&emsp;(A) the present value of the cumulative accrued benefit for any employee, or
+&emsp;&emsp;For purposes of determining—
 
-&emsp;&emsp;(B) the amount of the account of any employee,
+&emsp;&emsp;&emsp;(i) the present value of the cumulative accrued benefit for any employee, or
 
-> &emsp;such present value or amount shall be increased by the aggregate distributions made with respect to such employee under the plan during the 5-year period ending on the determination date. The preceding sentence shall also apply to distributions under a terminated plan which if it had not been terminated would have been required to be included in an aggregation group.
+&emsp;&emsp;&emsp;(ii) the amount of the account of any employee,
+
+> &emsp;&emsp;such present value or amount shall be increased by the aggregate distributions made with respect to such employee under the plan during the 1-year period ending on the determination date. The preceding sentence shall also apply to distributions under a terminated plan which if it had not been terminated would have been required to be included in an aggregation group.
+
+#### (B) 5-year period in case of in-service distribution
+
+&emsp;&emsp;In the case of any distribution made for a reason other than separation from service, death, or disability, subparagraph (A) shall be applied by substituting “5-year period” for “1-year period”.
 
 #### (4) Other special rules
 
@@ -208,7 +218,7 @@ For purposes of this section—
 
 #### (B) Benefits not taken into account if employee ceases to be key employee
 
-&emsp;&emsp;If any individual is a non-key employee with respect to any plan for any plan year, but such individual was a key employee withrespect to such plan for any prior plan year, any accrued benefit for such employee (and the account of such employee) shall not be taken into account.
+&emsp;&emsp;If any individual is a non-key employee with respect to any plan for any plan year, but such individual was a key employee with respect to such plan for any prior plan year, any accrued benefit for such employee (and the account of such employee) shall not be taken into account.
 
 #### (C) Determination date
 
@@ -222,9 +232,9 @@ For purposes of this section—
 
 &emsp;&emsp;To the extent provided in regulations, this section shall be applied on the basis of any year specified in such regulations in lieu of plan years.
 
-#### (E) Benefits not taken into account if employee not employed for last 5 years
+#### (E) Benefits not taken into account if employee not employed for last year before determination date
 
-&emsp;&emsp;If any individual has not performed services for the employer maintaining the plan at any time during the 5-year period ending on the determination date, any accrued benefit for such individual (and the account of such individual) shall not be taken into account.
+&emsp;&emsp;If any individual has not performed services for the employer maintaining the plan at any time during the 1-year period ending on the determination date, any accrued benefit for such individual (and the account of such individual) shall not be taken into account.
 
 #### (F) Accrued benefits treated as accruing ratably
 
@@ -238,6 +248,16 @@ For purposes of this section—
 
 &emsp;&emsp;The term “top-heavy plan” shall not include a simple retirement account under section 408(p).
 
+#### (H) Cash or deferred arrangements using alternative methods of meeting nondiscrimination requirements
+
+&emsp;&emsp;The term “top-heavy plan” shall not include a plan which consists solely of—
+
+&emsp;&emsp;&emsp;(i) a cash or deferred arrangement which meets the requirements of section 401(k)(12), and
+
+&emsp;&emsp;&emsp;(ii) matching contributions with respect to which the requirements of section 401(m)(11) are met.
+
+> &emsp;&emsp;If, but for this subparagraph, a plan would be treated as a top-heavy plan because it is a member of an aggregation group which is a top-heavy group, contributions under the plan may be taken into account in determining whether any other plan in the group meets the requirements of subsection (c)(2).
+
 #### \[(h) Repealed. Pub. L. 104–188, title I, §1452(c)(7), Aug. 20, 1996, 110 Stat. 1816\]
 
 #### (i) Definitions
@@ -248,17 +268,15 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “key employee” means an employee who, at any time during the plan year or any of the 4 preceding plan years, is—
+&emsp;&emsp;The term “key employee” means an employee who, at any time during the plan year, is—
 
-&emsp;&emsp;&emsp;(i) an officer of the employer having an annual compensation greater than 50 percent of the amount in effect under section 415(b)(1)(A) for any such plan year,
+&emsp;&emsp;&emsp;(i) an officer of the employer having an annual compensation greater than $130,000,
 
-&emsp;&emsp;&emsp;(ii) 1 of the 10 employees having annual compensation from the employer of more than the limitation in effect under section 415(c)(1)(A) and owning (or considered as owning within the meaning of section 318) the largest interests in the employer,
+&emsp;&emsp;&emsp;(ii) a 5-percent owner of the employer, or
 
-&emsp;&emsp;&emsp;(iii) a 5-percent owner of the employer, or
+&emsp;&emsp;&emsp;(iii) a 1-percent owner of the employer having an annual compensation from the employer of more than $150,000.
 
-&emsp;&emsp;&emsp;(iv) a 1-percent owner of the employer having an annual compensation from the employer of more than $150,000.
-
-> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annual compensation from the employer shall be treated as having a larger interest. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
+> &emsp;&emsp;For purposes of clause (i), no more than 50 employees (or, if lesser, the greater of 3 or 10 percent of the employees) shall be treated as officers. in <sup>1</sup> the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000. Such term shall not include any officer or employee of an entity referred to in section 414(d) (relating to governmental plans). For purposes of determining the number of officers taken into account under clause (i), employees described in section 414(q)(5) shall be excluded.
 
 #### (B) Percentage owners
 
@@ -276,7 +294,7 @@ For purposes of this section—
 
 #### (iii) Constructive ownership rules
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph and subparagraph (A)(ii)—
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
 
 &emsp;&emsp;&emsp;&emsp;(I) subparagraph (C) of section 318(a)(2) shall be applied by substituting “5 percent” for “50 percent”, and
 
@@ -320,7 +338,11 @@ For purposes of this section—
 
 &emsp;&emsp;In the case of a simplified employee pension, at the election of the employer, paragraphs (1)(A)(ii) and (2)(B) of subsection (g) shall be applied by taking into account aggregate employer contributions in lieu of the aggregate of the accounts of employees.
 
-(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A, title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816.)
+(Added Pub. L. 97–248, title II, §240(a), Sept. 3, 1982, 96 Stat. 514; amended Pub. L. 98–369, div. A,title V, §524(a)(1), (b)(1), (c)(1), title VII, §713(f)(1), (4), (5)(A), (6), July 18, 1984, 98 Stat. 872, 958–960; Pub. L. 99–514, title XI, §§1106(d)(3)(A), (B), 1118(a), title XVIII, §1852(d), Oct. 22, 1986, 100 Stat. 2424, 2463, 2867; Pub. L. 100–647, title I, §1011(d)(8), (i)(4)(B), (j)(3)(A), Nov. 10, 1988, 102 Stat. 3460, 3467, 3468; Pub. L. 104–188, title I, §§1421(b)(7), 1431(c)(1)(B), (C), 1452(c)(7), Aug. 20, 1996, 110 Stat. 1797, 1803, 1816; Pub. L. 107–16, title VI, §613(a)–(e), June 7, 2001, 115 Stat. 100–102.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -329,6 +351,36 @@ The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug.
 The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c)(1)(C)(i). Pub. L. 107–16, §§613(e)(A), 901, temporarily substituted “clause (ii) or (iii)” for “clause (ii)”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(1)(C)(iii). Pub. L. 107–16, §§613(e)(B), 901, temporarily added cl. (iii). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(2)(A). Pub. L. 107–16, §§613(b), 901, temporarily inserted at end “Employer matching contributions (as defined in section 401(m)(4)(A)) shall be taken into account for purposes of this subparagraph (and any reduction under this sentence shall not be taken into account in determining whether section 401(k)(4)(A) applies).” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (g)(3). Pub. L. 107–16, §§613(c)(1), 901, temporarily amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of determining—
+
+&emsp;“(A) the present value of the cumulative accrued benefit for any employee, or
+
+&emsp;“(B) the amount of the account of any employee,
+
+> such present value or amount shall be increased by the aggregate distributions made with respect to such employee under the plan during the 5-year period ending on the determination date. The preceding sentence shall also apply to distributions under a terminated plan which if it had not been terminated would have been required to be included in an aggregation group.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (g)(4)(E). Pub. L. 107–16, §§613(c)(2), 901, in heading temporarily substituted “last year before determination date” for “last 5 years” and in text temporarily substituted “1-year period” for “5-year period”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (g)(4)(H). Pub. L. 107–16, §§613(d), 901, temporarily added subpar. (H). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (i)(1)(A). Pub. L. 107–16, §§613(a)(1)(D), 901, in concluding provisions, temporarily substituted “in the case of plan years beginning after December 31, 2002, the $130,000 amount in clause (i) shall be adjusted at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase under this sentence which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000.” for “For purposes of clause (ii), if 2 employees have the same interest in the employer, the employee having greater annual compensation from the employer shall be treated as having a larger interest.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§613(a)(1)(A), 901, temporarily struck out “or any of the 4 preceding plan years” after “plan year” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (i)(1)(A)(i). Pub. L. 107–16, §§ 613(a)(1)(B), 901, temporarily added cl. (i) and struck out former cl. (i) which read as follows: “an officer of the employer having an annual compensation greater than 50 percent of the amount in effect under section 415(b)(1)(A) for any such plan year,”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (i)(1)(A)(ii)–(iv). Pub. L. 107–16, §§613(a)(1)(C), 901, temporarily redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: “1 of the 10 employees having annual compensation from the employer of more than the limitation in effect under section 415(c)(1)(A) and owning (or considered as owning within the meaning of section 318) the largest interests in the employer,”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (i)(1)(B)(iii). Pub. L. 107–16, §§613(a)(2), 901, temporarily struck out “and subparagraph (A)(ii)” after “this subparagraph” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1996</b>—Subsec. (g)(4)(G). Pub. L. 104–188, §1421(b)(7), added subpar. (G).
 
@@ -378,9 +430,15 @@ Subsec. (i)(1)(B)(iii). Pub. L. 98–369, §713(f)(6)(B), substituted subparagra
 
 Subsec. (i)(1)(C). Pub. L. 98–369, §713(f)(1)(A), substituted in heading “ownership in the employer” for “5-percent or 1-percent owners”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title VI, §613(f), June 7, 2001, 115 Stat. 102, provided that: “The amendments made by this section \[amending this section\] shall apply to years beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1421(b)(7) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996,see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
+Amendment by section 1421(b)(7) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
 Amendment by section 1431(c)(1)(B), (C) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1996, except that in determining whether an employee is a highly compensated employee for years beginning in 1997, such amendment to be treated as having been in effect for years beginning in 1996, see section 1431(d)(1) of Pub. L. 104–188, set out as a note under section 414 of this title.
 
@@ -433,4 +491,6 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 45A, 72, 79, 125, 280F, 401, 408, 414, 415, 419A, 420, 469, 1396 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

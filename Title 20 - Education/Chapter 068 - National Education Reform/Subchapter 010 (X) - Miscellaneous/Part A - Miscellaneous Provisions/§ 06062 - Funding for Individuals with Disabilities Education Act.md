@@ -20,3 +20,7 @@ It is the sense of the Congress that the Federal Government should provide State
 
 The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
+#### Codification
+
+Another section 1012 of Pub. L. 103–227 is classified to section 6054a of this title.
+

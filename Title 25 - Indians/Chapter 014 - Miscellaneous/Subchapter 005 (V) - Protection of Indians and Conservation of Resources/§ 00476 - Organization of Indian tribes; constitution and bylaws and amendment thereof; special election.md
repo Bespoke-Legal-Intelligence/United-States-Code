@@ -10,7 +10,7 @@ Any Indian tribe shall have the right to organize for its common welfare, and ma
 
 #### (b) Revocation
 
-Any constitution or bylaws ratified and approved by the Secretary shall be revocable by an election open to the same voters and conductedin the same manner as provided in subsection (a) of this section for the adoption of a constitution or bylaws.
+Any constitution or bylaws ratified and approved by the Secretary shall be revocable by an election open to the same voters and conducted in the same manner as provided in subsection (a) of this section for the adoption of a constitution or bylaws.
 
 #### (c) Election procedure; technical assistance; review of proposals; notification of contrary-to-applicable law findings
 

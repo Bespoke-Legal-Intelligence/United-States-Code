@@ -1,18 +1,18 @@
 ### §2805. Unspecified minor construction
 
-(a)(1) Except as provided in paragraph (2), within an amount equal to 125 percent of the amount authorized by law for such purpose, the Secretary concerned may carry out unspecified minor military construction projects not otherwise authorized by law. An unspecified minor military construction project is a military construction project that has an approved cost equal to or less than $1,500,000. However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, an unspecified minor military construction project may have an approved cost equal to or less than $3,000,000.
+(a)(1) Except as provided in paragraph (2), within an amount equal to 125 percent of theamount authorized by law for such purpose, the Secretary concerned may carry out unspecified minor military construction projects not otherwise authorized by law. An unspecified minor military construction project is a military construction project that has an approved cost equal to or less than $1,500,000. However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, an unspecified minor military construction project may have an approved cost equal to or less than $3,000,000.
 
 (2) A Secretary may not use more than $5,000,000 for exercise-related unspecified minor military construction projects coordinated or directed by the Joint Chiefs of Staff outside the United States during any fiscal year.
 
-(b)(1) An unspecified minor military construction project costing more than $500,000 may not be carried out under this section unless approved in advance by the Secretary concerned. This paragraph shall apply even though the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.
+(b)(1) An unspecified minor military construction project costing more than $750,000 may not be carried out under this section unless approved in advance by the Secretary concerned. This paragraph shall apply even though the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.
 
 (2) When a decision is made to carry out an unspecified minor military construction project to which paragraph (1) is applicable, the Secretary concerned shall notify in writing the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by the committees.
 
 (c)(1) Except as provided in paragraphs (2) and (3), the Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than—
 
-&emsp;(A) $1,000,000, in the case of an unspecified minor military construction project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
+&emsp;(A) $1,500,000, in the case of an unspecified minor military construction project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
 
-&emsp;(B) $500,000, in the case of any other unspecified minor military construction project.
+&emsp;(B) $750,000, in the case of any other unspecified minor military construction project.
 
 (2) The authority provided in paragraph (1) may not be used with respect to any exercise-related unspecified minor military construction project coordinated or directed by the Joint Chiefs of Staff outside the United States.
 
@@ -20,9 +20,15 @@
 
 (d) Military family housing projects for construction of new housing units may not be carried out under the authority of this section.
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 155; amended Pub. L. 99–167, title VIII, §809, Dec. 3, 1985, 99 Stat. 989; Pub. L. 99–661, div. B, title VII, §2702(a), Nov. 14, 1986, 100 Stat. 4040; Pub. L. 100–180, div. B, subdiv. 3, title I, §2310, Dec. 4, 1987, 101 Stat. 1217; Pub. L. 101–510, div. A, title XIII, §1301(16), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 102–190, div. B, title XXVIII, §§2807, 2870(4), Dec. 5, 1991, 105 Stat. 1540, 1563; Pub. L. 104–106, div. B, title XXVIII, §§2811(a), 2812, Feb. 10, 1996, 110 Stat. 552; Pub. L. 104–201, div. B, title XXVIII, §2801(a), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 105–85, div. B, title XXVIII, §2801, Nov. 18, 1997, 111 Stat. 1989; Pub. L. 107–107, div. B, title XXVIII, §2801, Dec. 28, 2001, 115 Stat. 1305.)
 
 #### Amendments
+
+2001—Subsec. (b)(1). Pub. L. 107–107, §2801(a), substituted “$750,000” for “$500,000”.
+
+Subsec. (c)(1)(A). Pub. L. 107–107, §2801(b)(1), substituted “$1,500,000” for “$1,000,000”.
+
+Subsec. (c)(1)(B). Pub. L. 107–107, §2801(b)(2), substituted “$750,000” for “$500,000”.
 
 1997—Subsec. (a)(1). Pub. L. 105–85, §2801(c)(1), substituted “unspecified minor military construction projects” for “minor military construction projects”, “An unspecified minor” for “A minor”, and “an unspecified minor” for “a minor”.
 
@@ -130,5 +136,5 @@ Maximum amount of $1,000,000 for unspecified minor military construction project
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2208, 2806, 2853, 2861, 2867, 18233a of this title.
+This section is referred to in sections 2208, 2806, 2853, 2867, 18233a of this title.
 

@@ -114,7 +114,7 @@ Subsec. (a)(7). Pub. L. 104–208, §101(f) \[title V, §529(d)(2)\], added par.
 
 Section 303(b) of Pub. L. 104–329 provided that: “Of the members appointed to the Citizens Commemorative Coin Advisory Committee under clause (i) or (iii) of section 5135(a)(3)(A) of title 31, United States Code, who are serving on the Advisory Committee as of the date of the enactment of this Act \[Oct. 20, 1996\]—
 
-&emsp;“(1) 1 member appointed under clause (i) and 1 member appointed under clause (iii), as designated bythe Secretary, shall be deemed to have been appointed to a term which ends on December 31, 1997;
+&emsp;“(1) 1 member appointed under clause (i) and 1 member appointed under clause (iii), as designated by the Secretary, shall be deemed to have been appointed to a term which ends on December 31, 1997;
 
 &emsp;“(2) 1 member appointed under clause (i) and 1 member appointed under clause (iii), as designated by the Secretary, shall be deemed to have been appointed to a term which ends on December 31, 1998; and
 

@@ -6,7 +6,7 @@ Civil Actions To Enforce Section 40106(b).—The Attorney General may bring a ci
 
 (b)
 
-Civil Actions To Enforce This Part.—(1) On request of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator), the Attorney General may bring a civil action in an appropriate court—
+Civil Actions To Enforce This Part.—(1) On request of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator), the Attorney General may bring a civil action in an appropriate court—
 
 &emsp;(A) to enforce this part or a requirement or regulation prescribed, or an order or any term of a certificate or permit issued, under this part; and
 
@@ -16,9 +16,9 @@ Civil Actions To Enforce This Part.—(1) On request of the Secretary of Transpo
 
 (c)
 
-Participation of Secretary or Administrator.—On request of the Attorney General, the Secretary or Administrator, as appropriate, may participate in a civil action under this part.
+Participation of Secretary, Under Secretary, or Administrator.—On request of the Attorney General, the Secretary, Under Secretary, or Administrator, as appropriate, may participate in a civil action under this part.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1229.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1229; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001, 115 Stat. 641.)
 
 Historical and Revision Notes
 
@@ -73,4 +73,10 @@ In subsection (b)(1), before clause (A), the words “Attorney General” are su
 In subsection (b)(2), the words “civil action” are substituted for “prosecutions” for consistency in the revised title and with other titles of the Code.
 
 In subsection (c), the words “civil action” are substituted for “proceeding in court” for consistency in the revised title and with other titles of the Code and rule 2 of the Federal Rules of Civil Procedure.
+
+#### Amendments
+
+2001—Subsec. (b)(1). Pub. L. 107–71, §140(b)(1), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+
+Subsec. (c). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” in heading and text.
 

@@ -86,7 +86,7 @@ Attendance of Family Members and Certain Other Interested Persons at Proceedings
 
 &emsp;(ii) submit to the president of the board the objections in writing not later than 30 days after the date on which the recommendations are made.
 
-(B) The president of a board shall include any objections to a recommendation of the board that are submitted to the president of the board under subparagraph (A) in the report of the board containing the recommendation under subsection (i).
+(B) The president of a board shall include any objections to a recommendation of the board that are submitted to the president of the boardunder subparagraph (A) in the report of the board containing the recommendation under subsection (i).
 
 (6) An individual referred to in paragraph (1) who attends the proceedings of a board under this subsection shall not be entitled to reimbursement by the United States for any costs (including travel, lodging, meals, local transportation, legal fees, transcription costs, witness expenses, and other expenses) incurred by that individual in attending such proceedings.
 

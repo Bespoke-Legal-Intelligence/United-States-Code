@@ -32,7 +32,7 @@ A State that establishes and operates a nutrition project under this chapter <s
 
 &emsp;&emsp;(G) ensures that meal providers carry out such project with the advice of dietitians (or individuals with comparable expertise), meal participants, and other individuals knowledgeable with regard to the needs of older individuals,
 
-&emsp;&emsp;(H) ensures that each participating area agency on aging establishes procedures that allow nutrition project administrators the option to offer a meal, on the same basis asmeals provided to participating older individuals, to individuals providing volunteer services during the meal hours, and to individuals with disabilities who reside at home with and accompany older individuals eligible under this chapter,<sup>1</sup>
+&emsp;&emsp;(H) ensures that each participating area agency on aging establishes procedures that allow nutrition project administrators the option to offer a meal, on the same basis as meals provided to participating older individuals, to individuals providing volunteer services during the meal hours, and to individuals with disabilities who reside at home with and accompany older individuals eligible under this chapter,<sup>1</sup>
 
 &emsp;&emsp;(I) ensures that nutrition services will be available to older individuals and to their spouses, and may be made available to individuals with disabilities who are not older individuals but who reside in housing facilities occupied primarily by older individuals at which congregate nutrition services are provided, and
 

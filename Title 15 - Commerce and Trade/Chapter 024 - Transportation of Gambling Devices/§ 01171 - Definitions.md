@@ -14,7 +14,7 @@ As used in this chapter—
 
 (c) The term “possession of the United States” means any possession of the United States which is not named in subsection (b) of this section.
 
-(d) The term “interstate or foreign commerce” means commerce (1) between any State or possession of the United States and any place outside of such State or possession, or (2) between points in the same State or possession of theUnited States but through any place outside thereof.
+(d) The term “interstate or foreign commerce” means commerce (1) between any State or possession of the United States and any place outside of such State or possession, or (2) between points in the same State or possession of the United States but through any place outside thereof.
 
 (e) The term “intrastate commerce” means commerce wholly within one State or possession of the United States.
 

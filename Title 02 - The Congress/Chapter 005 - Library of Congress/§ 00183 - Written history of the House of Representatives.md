@@ -44,7 +44,7 @@ The Librarian of Congress shall make the history available for sale to the publi
 
 #### (e) Private funding
 
-The Librarian of Congress shall solicit and accept funding for the preparation, publication,marketing, and public distribution of the history from private individuals, organizations, or entities.
+The Librarian of Congress shall solicit and accept funding for the preparation, publication, marketing, and public distribution of the history from private individuals, organizations, or entities.
 
 (Pub. L. 106–99, §2, Nov. 12, 1999, 113 Stat. 1330.)
 

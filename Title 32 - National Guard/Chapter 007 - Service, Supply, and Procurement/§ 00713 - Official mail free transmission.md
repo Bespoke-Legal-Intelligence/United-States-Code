@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Aug. 1, 1953, ch. 305, §643, 67 Stat. 357.
 
-The word “Hereafter” is omitted as executed. The words “and the Air National Guard” are omitted, since “National Guard”, as defined in section 101(2) of this title, includes the Army National Guard and the Air National Guard. The words “Federal service” are substituted for the words “active service of the UnitedStates”. The words “mailing of official matter” are substituted for the words “transmission of official mail matter”.
+The word “Hereafter” is omitted as executed. The words “and the Air National Guard” are omitted, since “National Guard”, as defined in section 101(2) of this title, includes the Army National Guard and the Air National Guard. The words “Federal service” are substituted for the words “active service of the United States”. The words “mailing of official matter” are substituted for the words “transmission of official mail matter”.
 

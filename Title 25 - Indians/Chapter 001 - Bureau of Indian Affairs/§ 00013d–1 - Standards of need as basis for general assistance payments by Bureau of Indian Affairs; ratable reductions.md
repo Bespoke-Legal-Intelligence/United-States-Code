@@ -8,7 +8,7 @@ General assistance payments made by the Bureau of Indian Affairs shall be made�
 
 > except that where a State ratably reduces its AFDC or State program payments, the Bureau shall reduce general assistance payments in such State by the same percentage as the State has reduced the AFDC or State program payment.
 
-(Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 338; (As amended Pub. L. 104–193, title I, §110(k), Aug. 22, 1996, 110 Stat. 2172.)
+(Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 338; Pub. L. 104–193, title I, §110(k), Aug. 22, 1996, 110 Stat. 2172.)
 
 #### References in Text
 

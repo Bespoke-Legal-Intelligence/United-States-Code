@@ -12,7 +12,7 @@
 
 > For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.
 
-(b) Except when express provision therefor is otherwise made in a statute of the UnitedStates, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
+(b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
 
 (c) For the purposes of this section and section 1441 of this title—
 
@@ -36,7 +36,7 @@ Words “all civil actions” were substituted for “all suits of a civil natur
 
 Words “or citizens of the District of Columbia, Territory of Hawaii, or Alaska, and any State or Territory” which were inserted by the amendatory act April 20, 1940, are omitted. The word “States” is defined in this section and enumeration of the references is unnecessary.
 
-The revised section conforms with the views of Philip F. Herrick, United States Attorney, Puerto Rico, who observed that the act of April 20, 1940, permitted action between a citizen of Hawaii and of Puerto Rico, but not between a citizen of New York and Puerto Rico, in the district court.
+The revised section conforms with the views of Philip F. Herrick, United States Attorney, Puerto Rico, who observed that the act of April 20, 1940, permitted action between a citizen of Hawaii and of Puerto Rico, but notbetween a citizen of New York and Puerto Rico, in the district court.
 
 This changes the law to insure uniformity. The 1940 amendment applied only to the provision as to controversies between “citizens of different States.” The new definition in subsection (b) extends the 1940 amendment to apply to controversies between citizens of the Territories or the District of Columbia, and foreign states or citizens or subjects thereof.
 
@@ -712,7 +712,7 @@ Pub. L. 100–702, §203(a), inserted at end “For the purposes of this section
 
 Subsec. (b). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000”.
 
-Subsec. (c). Pub. L. 100–702, §202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: <i>Provided further</i>, That in any direct action against the insurer of a policy or contract of liability insurance,whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
+Subsec. (c). Pub. L. 100–702, §202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: <i>Provided further</i>, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
 
 <b>1976</b>—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
 

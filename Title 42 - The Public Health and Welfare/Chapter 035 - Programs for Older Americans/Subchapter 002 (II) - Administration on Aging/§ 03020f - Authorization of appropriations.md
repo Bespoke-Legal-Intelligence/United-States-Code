@@ -12,7 +12,7 @@ There are authorized to be appropriated to carry out section 3012(a)(24) <sup>2
 
 There are authorized to be appropriated to carry out section 3020e–1 of this title, such sums as may be necessary for fiscal year 2001 and for each of the 4 succeeding fiscal years.
 
-(Pub. L. 89–73, title II, §216, formerly §215, as added Pub. L. 102–375, title II, §210, Sept. 30, 1992, 106 Stat. 1215; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; renumbered §216 andamended Pub. L. 106–501, title II, §§202(4), 205, Nov. 13, 2000, 114 Stat. 2231, 2234.)
+(Pub. L. 89–73, title II, §216, formerly §215, as added Pub. L. 102–375, title II, §210, Sept. 30, 1992, 106 Stat. 1215; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; renumbered §216 and amended Pub. L. 106–501, title II, §§202(4), 205, Nov. 13, 2000, 114 Stat. 2231, 2234.)
 
 #### References in Text
 

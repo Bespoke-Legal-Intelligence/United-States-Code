@@ -6,7 +6,7 @@
 
 (2) Within 1 year after December 20, 1993, the Commission shall establish standards and procedures to govern the preparation of coastal fishery management plans under this chapter, including standards and procedures to ensure that—
 
-&emsp;(A) such plans promote the conservation of fish stocks throughout their ranges and are based on the best scientific information available; and
+&emsp;(A) such plans promote the conservation of fish stocks throughout their ranges and arebased on the best scientific information available; and
 
 &emsp;(B) the Commission provides adequate opportunity for public participation in the plan preparation process, including at least four public hearings and procedures for the submission of written comments to the Commission.
 

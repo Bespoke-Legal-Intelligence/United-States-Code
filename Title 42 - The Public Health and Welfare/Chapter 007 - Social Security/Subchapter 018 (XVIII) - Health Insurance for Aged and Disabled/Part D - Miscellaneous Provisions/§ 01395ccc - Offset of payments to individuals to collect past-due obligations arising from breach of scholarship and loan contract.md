@@ -28,7 +28,7 @@
 
 (3) If the individual refuses to enter into an agreement or breaches any provision of the agreement—
 
-&emsp;(A) the Secretary shall immediately inform the Attorney General, and the Attorney General shall immediately commence an action torecover the full amount of the past-due obligation, and
+&emsp;(A) the Secretary shall immediately inform the Attorney General, and the Attorney General shall immediately commence an action to recover the full amount of the past-due obligation, and
 
 &emsp;(B) subject to paragraph (4), the Secretary shall immediately exclude the individual from the program under this subchapter, until such time as the entire past-due obligation has been repaid.
 
@@ -62,7 +62,7 @@ This section shall not preclude the United States from applying other provisions
 
 #### (e) Transfer from trust funds
 
-Amounts equal to the amounts deducted pursuant to this section shall be transferred from the Trust Fund from which the payment to the individual, provider, or other entity would otherwise have been made, to the general fund in the Treasury, and shall be credited as payment of the past-due obligation of the individual from whom (or with respect to whom) the deduction was made.
+Amounts equal to the amounts deducted pursuant to this section shall be transferred fromthe Trust Fund from which the payment to the individual, provider, or other entity would otherwise have been made, to the general fund in the Treasury, and shall be credited as payment of the past-due obligation of the individual from whom (or with respect to whom) the deduction was made.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Pub. L. 100–203, title IV, §4052(a), Dec. 22, 1987, 101 Stat. 1330–95; amended Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), July 1, 1988, 102 Stat. 780; Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), Oct. 13, 1988, 102 Stat. 2420.)
 
@@ -76,7 +76,7 @@ The Public Health Service Act, referred to in subsecs. (a)(1)(B)(iii) and (b), i
 
 1988—Pub. L. 100–360, §411(f)(10)(C)(i)(I), substituted “individuals” for “physicians” and inserted “and loan” in section catchline.
 
-Subsec. (a)(1)(A). Pub. L. 100–360, §411(f)(10)(C)(i)(IV), as amended by Pub. L. 100–485, §608(d)(21)(H), inserted“, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program”.
+Subsec. (a)(1)(A). Pub. L. 100–360, §411(f)(10)(C)(i)(IV), as amended by Pub. L. 100–485, §608(d)(21)(H), inserted “, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program”.
 
 Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “individual” for “physician” in two places.
 

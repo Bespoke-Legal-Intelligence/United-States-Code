@@ -6,17 +6,27 @@ Qualifications.—The Secretary of Defense shall ensure that the qualifications 
 
 &emsp;(1) officers who are serving on, or have served on, the Joint Staff are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force;
 
-&emsp;(2) officers who have the joint specialty are expected, as a group, to be promoted at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and
+&emsp;(2) officers who have the joint specialty are expected, as a group, to be promoted—
+
+&emsp;&emsp;(A) during the three-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002, at a rate not less than the rate for officers of the same armed force in the same grade and competitive category; and
+
+&emsp;&emsp;(B) after the end of the period specified in subparagraph (A), at a rate not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and
 
 &emsp;(3) officers who are serving in, or have served in, joint duty assignments (other than officers covered in paragraphs (1) and (2)) are expected, as a group, to be promoted to the next higher grade at a rate not less than the rate for all officers of the same armed force in the same grade and competitive category.
 
 (b)
 
-Annual Report.—Not later than January 1 of each year, the Secretary of Defense shall submit to Congress a report on the promotion rates during the preceding fiscal year of officers who are serving in, or have served in, joint duty assignments, especially with respect to the record of officer selection boards in meeting the objectives of paragraphs (1), (2), and (3) of subsection (a). If such promotion rates fail to meet such objectives for any fiscal year, the Secretary shall include in the report for that fiscal year information on such failure and on what action the Secretary has taken or plans to take to prevent further failures.
+Annual Report.—Not later than January 1 of each year, the Secretary of Defense shall submit to Congress a report on the promotion ratesduring the preceding fiscal year of officers who are serving in, or have served in, joint duty assignments, especially with respect to the record of officer selection boards in meeting the objectives of paragraphs (1), (2), and (3) of subsection (a). If such promotion rates fail to meet such objectives for any fiscal year, the Secretary shall include in the report for that fiscal year information on such failure and on what action the Secretary has taken or plans to take to prevent further failures.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1026; amended Pub. L. 100–456, div. A, title V, §513, Sept. 29, 1988, 102 Stat. 1969; Pub. L. 101–510, div. A, title XIII, §1311(3), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–201, div. A, title V, §510, Sept. 23, 1996, 110 Stat. 2514.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1026; amended Pub. L. 100–456, div. A, title V, §513, Sept. 29, 1988, 102 Stat. 1969; Pub. L. 101–510, div. A, title XIII, §1311(3), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–201, div. A, title V, §510, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 107–107, div. A, title V, §521(b), Dec. 28, 2001, 115 Stat. 1097.)
+
+#### References in Text
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2002, referred to in subsec. (a)(2)(A), is the date of enactment of Pub. L. 107–107, which was approved Dec. 28, 2001.
 
 #### Amendments
+
+2001—Subsec. (a)(2). Pub. L. 107–107 substituted “promoted—” for “promoted at a rate”, added subpar. (A), designated “not less than the rate for officers of the same armed force in the same grade and competitive category who are serving on, or have served on, the headquarters staff of their armed force; and” as subpar. (B), and inserted “after the end of the period specified in subparagraph (A), at a rate” after subpar. (B) designation.
 
 1996—Subsec. (b). Pub. L. 104–201, §510(b), in first sentence, substituted “paragraphs” for “clauses” and, in second sentence, inserted “for any fiscal year” after “such objectives” and substituted “report for that fiscal year” for “periodic report required by this subsection”.
 

@@ -6,7 +6,7 @@
 
 (2) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Manpower and Reserve Affairs. He shall have as his principal duty the overall supervision of manpower and reserve component affairs of the Department of the Army.
 
-(3) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Civil Works. He shall have as his principal duty the overall supervision of the functions of the Department of the Army relating to programs for conservation and development of the national water resources, including flood control, navigation, shore protection, and related purposes.
+(3) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Civil Works. He shall have as his principal duty theoverall supervision of the functions of the Department of the Army relating to programs for conservation and development of the national water resources, including flood control, navigation, shore protection, and related purposes.
 
 (4) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Financial Management. The Assistant Secretary shall have as his principal responsibility the exercise of the comptroller functions of the Department of the Army, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Army and shall advise the Secretary of the Army on financial management.
 

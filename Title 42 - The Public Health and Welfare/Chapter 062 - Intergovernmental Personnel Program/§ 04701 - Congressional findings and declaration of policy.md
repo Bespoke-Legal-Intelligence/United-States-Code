@@ -20,7 +20,7 @@ That the quality of public service at all levels of government can be improved b
 
 &emsp;(6) assuring that employees are protected against coercion for partisan political purposes and are prohibited from using their official authority for the purpose of interfering with or affecting the result of an election or a nomination for office.
 
-That Federal financial and technical assistance to State and local governments for strengthening their personnel administration in a manner consistent with these principles is in the national interest.
+That Federal financial and technical assistance to State and local governments forstrengthening their personnel administration in a manner consistent with these principles is in the national interest.
 
 (Pub. L. 91–648, §2, Jan. 5, 1971, 84 Stat. 1909.)
 

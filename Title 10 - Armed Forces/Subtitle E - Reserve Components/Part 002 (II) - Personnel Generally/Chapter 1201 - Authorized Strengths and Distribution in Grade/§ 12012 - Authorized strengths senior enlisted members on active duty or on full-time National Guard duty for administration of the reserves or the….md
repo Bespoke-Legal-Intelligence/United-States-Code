@@ -1,27 +1,147 @@
 ### §12012. Authorized strengths: senior enlisted members on active duty or on full-time National Guard duty for administration of the reserves or the National Guard
 
-(a) The number of enlisted members in pay grades E–8 and E–9 who may be on active duty (other than for training) or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard may not exceed the number for that grade and armed force in the following table:
+(a)
+
+Limitations.—Of the total number of members of a reserve component who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members in each of pay grades of E–8 and E–9 who may be serving on active duty under section 10211 or 12310, or on full-time National Guard duty under the authority of section 502(f) of title 32 (other than for training) in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
 
 &nbsp;
 
-| Grade | Army | Navy | Air Force | Marine Corps |
-| :--- | :---: | :---: | :---: | ---: |
-| E–9 | &nbsp;764 | 202 | 502 | 20 |
-| E–8 | 2,821 | 429 | 1,117 | 94 |
+| Total number of members of a reserve component serving on full-time reserve component duty: | Number of members of that reserve component who may be serving in the grade of: |  |
+| :--- | :---: | ---: |
+| E–8 | E–9 |  |
+| Army Reserve: |  |  |
+| 10,000 | 1,052 | 154&nbsp;&nbsp; |
+| 11,000 | 1,126 | 168&nbsp;&nbsp; |
+| 12,000 | 1,195 | 180&nbsp;&nbsp; |
+| 13,000 | 1,261 | 191&nbsp;&nbsp; |
+| 14,000 | 1,327 | 202&nbsp;&nbsp; |
+| 15,000 | 1,391 | 213&nbsp;&nbsp; |
+| 16,000 | 1,455 | 224&nbsp;&nbsp; |
+| 17,000 | 1,519 | 235&nbsp;&nbsp; |
+| 18,000 | 1,583 | 246&nbsp;&nbsp; |
+| 19,000 | 1,647 | 257&nbsp;&nbsp; |
+| 20,000 | 1,711 | 268&nbsp;&nbsp; |
+| 21,000 | 1,775 | 278&nbsp;&nbsp; |
+| &nbsp; |  |  |
+| Army National Guard: |  |  |
+| 20,000 | 1,650 | 550&nbsp;&nbsp; |
+| 22,000 | 1,775 | 615&nbsp;&nbsp; |
+| 24,000 | 1,900 | 645&nbsp;&nbsp; |
+| 26,000 | 1,945 | 675&nbsp;&nbsp; |
+| 28,000 | 1,945 | 705&nbsp;&nbsp; |
+| 30,000 | 1,945 | 725&nbsp;&nbsp; |
+| 32,000 | 1,945 | 730&nbsp;&nbsp; |
+| 34,000 | 1,945 | 735&nbsp;&nbsp; |
+| 36,000 | 1,945 | 738&nbsp;&nbsp; |
+| 38,000 | 1,945 | 741&nbsp;&nbsp; |
+| 40,000 | 1,945 | 743&nbsp;&nbsp; |
+| 42,000 | 1,945 | 743&nbsp;&nbsp; |
+| &nbsp; |  |  |
+| Naval Reserve: |  |  |
+| 10,000 | 340 | 143&nbsp;&nbsp; |
+| 11,000 | 364 | 156&nbsp;&nbsp; |
+| 12,000 | 386 | 169&nbsp;&nbsp; |
+| 13,000 | 407 | 182&nbsp;&nbsp; |
+| 14,000 | 423 | 195&nbsp;&nbsp; |
+| 15,000 | 435 | 208&nbsp;&nbsp; |
+| 16,000 | 447 | 221&nbsp;&nbsp; |
+| 17,000 | 459 | 234&nbsp;&nbsp; |
+| 18,000 | 471 | 247&nbsp;&nbsp; |
+| 19,000 | 483 | 260&nbsp;&nbsp; |
+| 20,000 | 495 | 273&nbsp;&nbsp; |
+| 21,000 | 507 | 286&nbsp;&nbsp; |
+| 22,000 | 519 | 299&nbsp;&nbsp; |
+| 23,000 | 531 | 312&nbsp;&nbsp; |
+| 24,000 | 540 | 325&nbsp;&nbsp; |
+| &nbsp; |  |  |
+| Marine Corps Reserve: |  |  |
+| 1,100 | 50 | 11&nbsp;&nbsp; |
+| 1,200 | 55 | 12&nbsp;&nbsp; |
+| 1,300 | 60 | 13&nbsp;&nbsp; |
+| 1,400 | 65 | 14&nbsp;&nbsp; |
+| 1,500 | 70 | 15&nbsp;&nbsp; |
+| 1,600 | 75 | 16&nbsp;&nbsp; |
+| 1,700 | 80 | 17&nbsp;&nbsp; |
+| 1,800 | 85 | 18&nbsp;&nbsp; |
+| 1,900 | 89 | 19&nbsp;&nbsp; |
+| 2,000 | 93 | 20&nbsp;&nbsp; |
+| 2,100 | 96 | 21&nbsp;&nbsp; |
+| 2,200 | 99 | 22&nbsp;&nbsp; |
+| 2,300 | 101 | 23&nbsp;&nbsp; |
+| 2,400 | 103 | 24&nbsp;&nbsp; |
+| 2,500 | 105 | 25&nbsp;&nbsp; |
+| 2,600 | 107 | 26&nbsp;&nbsp; |
+| &nbsp; |  |  |
+| Air Force Reserve: |  |  |
+| 500 | 75 | 40&nbsp;&nbsp; |
+| 1,000 | 145 | 75&nbsp;&nbsp; |
+| 1,500 | 208 | 105&nbsp;&nbsp; |
+| 2,000 | 270 | 130&nbsp;&nbsp; |
+| 2,500 | 325 | 150&nbsp;&nbsp; |
+| 3,000 | 375 | 170&nbsp;&nbsp; |
+| 3,500 | 420 | 190&nbsp;&nbsp; |
+| 4,000 | 460 | 210&nbsp;&nbsp; |
+| 4,500 | 495 | 230&nbsp;&nbsp; |
+| 5,000 | 530 | 250&nbsp;&nbsp; |
+| 5,500 | 565 | 270&nbsp;&nbsp; |
+| 6,000 | 600 | 290&nbsp;&nbsp; |
+| 7,000 | 670 | 330&nbsp;&nbsp; |
+| 8,000 | 740 | 370&nbsp;&nbsp; |
+| 10,000 | 800 | 400&nbsp;&nbsp; |
+| &nbsp; |  |  |
+| Air National Guard |  |  |
+| 5,000 | 1,020 | 405&nbsp;&nbsp; |
+| 6,000 | 1,070 | 435&nbsp;&nbsp; |
+| 7,000 | 1,120 | 465&nbsp;&nbsp; |
+| 8,000 | 1,170 | 490&nbsp;&nbsp; |
+| 9,000 | 1,220 | 510&nbsp;&nbsp; |
+| 10,000 | 1,270 | 530&nbsp;&nbsp; |
+| 11,000 | 1,320 | 550&nbsp;&nbsp; |
+| 12,000 | 1,370 | 570&nbsp;&nbsp; |
+| 13,000 | 1,420 | 589&nbsp;&nbsp; |
+| 14,000 | 1,470 | 608&nbsp;&nbsp; |
+| 15,000 | 1,520 | 626&nbsp;&nbsp; |
+| 16,000 | 1,570 | 644&nbsp;&nbsp; |
+| 17,000 | 1,620 | 661   |
+| 18,000 | 1,670 | 678&nbsp;&nbsp; |
+| 19,000 | 1,720 | 695&nbsp;&nbsp; |
+| 20,000 | 1,770 | 712\. |
 
-(b) Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.
+(b)
 
-(c) Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.
+Determinations by Interpolation.—If the total number of members of a reserve component serving on full-time reserve component duty is between any two consecutive numbers in the first column of the table in subsection (a), the corresponding authorized strengths for each of the grades shown in that table for that component are determined by mathematical interpolation between the respective numbers of the two strengths. If the total number of members of a reserve component serving on full-time reserve component duty is more or less than the highest or lowest number, respectively, set forth in the first column of the table in subsection (a), the Secretary concerned shall fix the corresponding strengths for the grades shown in the table at the same proportion as is reflected in the nearest limit shown in the table.
 
-(d) Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of enlisted members of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.
+(c)
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96.)
+Reallocations to Lower Grade.—Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for pay grade E–8.
+
+(d)
+
+Secretarial Waiver.—(1) Upon determining that it is in the national interest to do so, the Secretary of Defense may increase for a particular fiscal year the number of reserve enlisted members that may be on active duty or full-time National Guard duty as described in subsection (a) for a reserve component in a pay grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for that grade and reserve component in the table.
+
+(2) Whenever the Secretary exercises the authority provided in paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice in writing of the adjustment made.
+
+(e)
+
+Full-Time Reserve Component Duty Defined.—In this section, the term “full-time reserve component duty” has the meaning given the term in section 12011(e) of this title.
+
+(Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 517(b), (c) of this title, prior to amendment by Pub. L. 103–337, §1662(a)(4).
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107 inserted heading and amended text of subsec. (a) generally. Prior to amendment, text consisted of table setting out maximum number of enlisted members in pay grades E–8 and E–9 who may be on active duty (other than for training) or on full-time National Guard duty (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard.
+
+Subsec. (b). Pub. L. 107–107 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.”
+
+Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.”
+
+Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of enlisted members of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.”
+
+Subsec. (e). Pub. L. 107–107 added subsec. (e).
 
 2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
 

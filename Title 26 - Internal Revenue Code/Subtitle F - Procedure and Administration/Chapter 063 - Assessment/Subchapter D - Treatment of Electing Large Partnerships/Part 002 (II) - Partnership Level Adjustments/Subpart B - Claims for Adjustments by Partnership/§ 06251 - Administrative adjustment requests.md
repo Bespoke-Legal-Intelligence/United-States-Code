@@ -18,7 +18,7 @@ If a partnership files an administrative adjustment request under subsection (a)
 
 #### (c) Special rule in case of extension under section 6248
 
-If the period described in section 6248(a) is extended pursuant to an agreement under section6248(b), the period prescribed by subsection (a)(1) shall not expire before the date 6 months after the expiration of the extension under section 6248(b).
+If the period described in section 6248(a) is extended pursuant to an agreement under section 6248(b), the period prescribed by subsection (a)(1) shall not expire before the date 6 months after the expiration of the extension under section 6248(b).
 
 (Added Pub. L. 105–34, title XII, §1222(a), Aug. 5, 1997, 111 Stat. 1016.)
 

@@ -71,7 +71,7 @@
 
 1999—Subsec. (b)(4). Pub. L. 106–65 added par. (4).
 
-1998—Subsec. (a)(4). Pub. L. 105–261, §615(c)(1)(A), substituted “22 years of aviation service of the officer” for “22 years of the officer's service as an officer” and “25 years of aviation service” for “25 years of service as an officer (as computed under section 205 of this title)”.
+1998—Subsec. (a)(4). Pub. L. 105–261, §615(c)(1)(A), substituted “22 years of aviation service of the officer” for“22 years of the officer's service as an officer” and “25 years of aviation service” for “25 years of service as an officer (as computed under section 205 of this title)”.
 
 Subsec. (a)(6). Pub. L. 105–261, §615(a)(1), added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 

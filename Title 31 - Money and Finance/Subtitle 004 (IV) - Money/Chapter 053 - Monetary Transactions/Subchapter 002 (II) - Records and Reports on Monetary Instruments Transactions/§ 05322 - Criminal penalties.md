@@ -1,12 +1,14 @@
 ### §5322. Criminal penalties
 
-(a) A person willfully violating this subchapter or a regulation prescribed under this subchapter (except section 5315 or 5324 of this title or a regulation prescribed under section 5315 or 5324) shall be fined not more than $250,000, or imprisoned for not more than five years, or both.
+(a) A person willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except section 5315 or 5324 of this title or a regulation prescribed under section 5315 or 5324), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, shall be fined not more than $250,000, or imprisoned for not more than five years, or both.
 
-(b) A person willfully violating this subchapter or a regulation prescribed under this subchapter (except section 5315 or 5324 of this title or a regulation prescribed under section 5315 or 5324), while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
+(b) A person willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except section 5315 or 5324 of this title or a regulation prescribed under section 5315 or 5324), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
 
 (c) For a violation of section 5318(a)(2) of this title or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–473, title II, §901(b), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(g), Oct. 27, 1986, 100 Stat. 3207–24, 3207–26; Pub. L. 102–550, title XV, §1504(d)(2), Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–325, title IV, §411(c)(1), Sept. 23, 1994, 108 Stat. 2253.)
+(d) A financial institution or agency that violates any provision of subsection (i) or (j) of section 5318, or any special measures imposed under section 5318A, or any regulation prescribed under subsection (i) or (j) of section 5318 or section 5318A, shall be fined in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1000; Pub. L. 98–473, title II, §901(b), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(g), Oct. 27, 1986, 100 Stat. 3207–24, 3207–26; Pub. L. 102–550, title XV, §1504(d)(2), Oct. 28, 1992, 106 Stat. 4055; Pub. L. 103–325, title IV, §411(c)(1), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 107–56, title III, §§353(b), 363(b), Oct. 26, 2001, 115 Stat. 323, 332.)
 
 Historical and Revision Notes
 
@@ -38,7 +40,19 @@ In subsection (b), the words “or a regulation prescribed under this subchapter
 
 In subsection (c), the words “the purposes of both civil and criminal penalties for” are omitted because of the restatement. The word “separate” before “office” is omitted as surplus.
 
+#### References in Text
+
+Section 21 of the Federal Deposit Insurance Act, referred to in subsecs. (a) and (b), is classified to section 1829b of Title 12, Banks and Banking.
+
+Section 123 of Public Law 91–508, referred to in subsecs. (a) and (b), is classified to section 1953 of Title 12, Banks and Banking.
+
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–56, §353(b)(1), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324)”.
+
+Subsec. (b). Pub. L. 107–56, §353(b)(2), inserted “or order issued” after “willfully violating this subchapter or a regulation prescribed” and “or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “under section 5315 or 5324),”.
+
+Subsec. (d). Pub. L. 107–56, §363(b), added subsec. (d).
 
 1994—Subsecs. (a), (b). Pub. L. 103–325 inserted “or 5324” after “section 5315” wherever appearing.
 
@@ -49,6 +63,10 @@ In subsection (c), the words “the purposes of both civil and criminal penaltie
 Subsec. (c). Pub. L. 99–570, §1356(c)(1), substituted “5318(a)(2)” for “5318(2)” in two places.
 
 1984—Subsec. (a). Pub. L. 98–473, which directed the substitution of “$250,000, or imprisonment not more than five years, or both” for “$1,000, or imprisonment not more than one year, or both”, was executed by substituting the quoted wording for “$1,000, imprisoned for not more than one year, or both” to reflect the probable intent of Congress.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 #### Effective Date of 1986 Amendment
 

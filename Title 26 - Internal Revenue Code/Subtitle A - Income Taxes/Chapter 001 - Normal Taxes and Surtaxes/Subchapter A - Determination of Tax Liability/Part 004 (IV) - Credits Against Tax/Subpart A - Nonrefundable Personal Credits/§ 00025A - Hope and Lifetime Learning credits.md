@@ -86,15 +86,9 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 &emsp;The term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 
-#### (e) Election to have section apply
+#### (e) Election not to have section apply
 
-#### (1) In general
-
-&emsp;No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
-
-#### (2) Coordination with exclusions
-
-&emsp;An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).
+A taxpayer may elect not to have this section apply with respect to the qualified tuition and related expenses of an individual for any taxable year.
 
 #### (f) Definitions
 
@@ -134,7 +128,7 @@ For purposes of this section—
 
 #### (1) Identification requirement
 
-&emsp;No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
+&emsp;No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualifiedtuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
 
 #### (2) Adjustment for certain scholarships, etc.
 
@@ -204,13 +198,41 @@ For purposes of this section—
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59.)
+
+#### Inflation Adjusted Items for Tax Years Beginning in 2002
+
+<i>For inflation adjustment of amounts in subsection (b)(1) of this section used in determining Hope Scholarship Credit and amounts in subsection (d)(2)(A)(ii) of this section used in determining reduction in amount of credits otherwise allowable for tax years beginning in 2002, see section 3.04 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and (f)(2)(A), is the date of enactment of Pub. L. 105–34 which was approved Aug. 5, 1997.
 
 The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+#### Amendments
+
+<b>2001</b>—Subsec. (e). Pub. L. 107–16, §§401(g)(2)(A), 901, temporarily amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
+
+“(1)
+
+In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
+
+“(2)
+
+Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title IV, §401(h), June 7, 2001, 115 Stat. 60, provided that: “The amendments made by this section \[amending this section and sections 135, 530, and 4973 of this title\] shall apply to taxable years beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date
 
@@ -226,5 +248,5 @@ Lifetime learning credit.—Section 25A(a)(2) of the Internal Revenue Code of 19
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 72, 135, 221, 529, 530, 6050S, 6213 of this title; title 20 sections 1087<i>oo</i>, 1087pp, 1087qq, 1087ss, 1087vv.
+This section is referred to in sections 72, 135, 221, 222, 529, 530, 6050S, 6213 of this title; title 20 sections 1087<i>oo</i>, 1087pp, 1087qq, 1087ss, 1087vv.
 

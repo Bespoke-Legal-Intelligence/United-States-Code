@@ -2,17 +2,17 @@
 
 #### (a) Grants authorized
 
-The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary vocational and technical institutions to provide basic support for the education and training of Indian students.
+The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary vocational and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) to provide basic support for the education and training of Indian students.
 
 #### (b) Use of grants
 
-Amounts made available pursuant to this section shall be used for vocational and technical education programs.
+Amounts made available pursuant to this section shall be used for institutional support of vocational and technical education programs.
 
 #### (c) Amount of grants
 
 #### (1) In general
 
-&emsp;If the sums appropriated for any fiscal year for grants under this section are not sufficient to pay in full the total amount which approved applicants are eligible to receive under this section for such fiscal year, the Secretary shall first allocate to each such applicant who received funds under this part for the preceding fiscal year an amount equal to 100 percent of the product of the per capita payment for the preceding fiscal year and such applicant'sIndian student count for the current program year, plus an amount equal to the actual cost of any increase to the per capita figure resulting from inflationary increases to necessary costs beyond the institution's control.
+&emsp;If the sums appropriated for any fiscal year for grants under this section are not sufficient to pay in full the total amount which approved applicants are eligible to receive under this section for such fiscal year, the Secretary shall first allocate to each such applicant who received funds under this part for the preceding fiscal year an amount equal to 100 percent of the product of the per capita payment for the preceding fiscal year and such applicant's Indian student count for the current program year, plus an amount equal to the actual cost of any increase to the per capita figure resulting from inflationary increases to necessary costs beyond the institution's control.
 
 #### (2) Per capita determination
 
@@ -20,7 +20,7 @@ Amounts made available pursuant to this section shall be used for vocational and
 
 #### (d) Applications
 
-Any tribally controlled postsecondary vocational and technical institution that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require.
+Any tribally controlled postsecondary vocational and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require.
 
 #### (e) Expenses
 
@@ -30,9 +30,11 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 &emsp;&emsp;(A) the maintenance and operation of the program, including development costs, costs of basic and special instruction (including special programs for individuals with disabilities and academic instruction), materials, student costs, administrative expenses, boarding costs, transportation, student services, daycare and family support programs for students and their families (including contributions to the costs of education for dependents), and student stipends;
 
-&emsp;&emsp;(B) capital expenditures, including operations and maintenance, and minor improvements and repair, and physical plant maintenance costs, for the conduct of programs funded under this section; and
+&emsp;&emsp;(B) capital expenditures, including operations and maintenance, and minor improvements and repair, and physical plant maintenance costs, for the conduct of programs funded under this section;
 
-&emsp;&emsp;(C) costs associated with repair, upkeep, replacement, and upgrading of the instructional equipment.
+&emsp;&emsp;(C) costs associated with repair, upkeep, replacement, and upgrading of the instructional equipment; and
+
+&emsp;&emsp;(D) institutional support of vocational and technical education.
 
 #### (2) Accounting
 
@@ -76,7 +78,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (C) Contents
 
-&emsp;&emsp;The report required by subparagraph (B) shall include the number, type, and cost ofmeeting the needs described in subparagraph (A), and rank each institution by relative need.
+&emsp;&emsp;The report required by subparagraph (B) shall include the number, type, and cost of meeting the needs described in subparagraph (A), and rank each institution by relative need.
 
 #### (D) Priority
 
@@ -90,7 +92,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (B) Contents
 
-&emsp;&emsp;The study required by subparagraph (A) shall include a 5-year projection of training facilities, equipment, and housing needs and shall consider such factors as projected service population, employment, and economic development forecasting, based on the most current and accurate data available from the institutions and Indian tribes affected.
+&emsp;&emsp;The study required by subparagraph (A) shall include a 5-year projection of training facilities, equipment, and housing needs and shall consider such factors as projected service population, employment, and economic development forecasting, based on the mostcurrent and accurate data available from the institutions and Indian tribes affected.
 
 #### (C) Submission
 
@@ -132,9 +134,13 @@ In this section:
 
 There are authorized to be appropriated to carry out this section $4,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
-(Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46.)
+(Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, §2701(a), July 24, 2001, 115 Stat. 181.)
 
 #### References in Text
+
+The Tribally Controlled College or University Assistance Act of 1978, referred to in subsecs. (a) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+
+The Navajo Community College Act, referred to in subsecs. (a) and (d), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -154,7 +160,23 @@ A prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 101–3
 
 #### Amendments
 
+2001—Subsec. (a). Pub. L. 107–20, §2701(a)(1), inserted “that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.)” after “institutions”.
+
+Subsec. (b). Pub. L. 107–20, §2701(a)(2), inserted “institutional support of” after “for”.
+
+Subsec. (d). Pub. L. 107–20, §2701(a)(3), inserted “that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.)” after “institution”.
+
+Subsec. (e)(1)(D). Pub. L. 107–20, §2701(a)(4), added subpar. (D).
+
 2000—Subsec. (i). Pub. L. 106–554 inserted “such sums as may be necessary for” before “each of the 4 succeeding fiscal years”.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–20, title II, §2701(b), July 24, 2001, 115 Stat. 182, provided that:
+
+“(1) The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this section \[July 24, 2001\].
+
+“(2) The amendments made by subsection (a) shall apply to grants made for fiscal year 2001 only if this section is enacted before August 4, 2001.”
 
 #### Section Referred to in Other Sections
 

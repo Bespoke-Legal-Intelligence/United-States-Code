@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this subtitle, if both the executor (if any) of an estate and the trustee of a qualified revocable trust elect the treatment provided in this section, such trust shall be treated and taxed as part of such estate (and not as a separate trust) for all taxable years of the estate ending after the date of the decedent's death and before the applicable date.
+For purposes of this subtitle, if both the executor (if any) of an estate and the trustee of a qualified revocable trust elect the treatmentprovided in this section, such trust shall be treated and taxed as part of such estate (and not as a separate trust) for all taxable years of the estate ending after the date of the decedent's death and before the applicable date.
 
 #### (b) Definitions
 
@@ -40,5 +40,5 @@ Section 1305(d) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2654, 7491 of this title.
+This section is referred to in sections 121, 1022, 2654, 7491 of this title.
 

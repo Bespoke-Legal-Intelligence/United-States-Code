@@ -2,7 +2,7 @@
 
 For purposes of subchapters I, X, XIV, and XVI of this chapter, and part A of subchapter IV of this chapter, payments on behalf of an individual, made to another person who has been judicially appointed, under the law of the State in which such individual resides, as legal representative of such individual for the purpose of receiving and managing such payments (whether or not he is such individual's legal representative for other purposes), shall be regarded as money payments to such individual.
 
-(Aug. 14, 1935, ch. 531, title XI, §1111, as added Pub. L. 85–840, title V, §511(a), Aug. 28, 1958, 72Stat. 1051; amended Pub. L. 87–543, title I, §141(d), July 25, 1962, 76 Stat. 205; Pub. L. 90–248, title II, §241(c)(3), Jan. 2, 1968, 81 Stat. 917.)
+(Aug. 14, 1935, ch. 531, title XI, §1111, as added Pub. L. 85–840, title V, §511(a), Aug. 28, 1958, 72 Stat. 1051; amended Pub. L. 87–543, title I, §141(d), July 25, 1962, 76 Stat. 205; Pub. L. 90–248, title II, §241(c)(3), Jan. 2, 1968, 81 Stat. 917.)
 
 #### References in Text
 

@@ -8,13 +8,13 @@ As used in this part—
 
 #### (2) Lead free
 
-&emsp;The term “lead free” means, with respect to a drinking water cooler, that each part or component of the cooler which may come in contact with drinking water contains not more than 8 percent lead, except that no drinking water cooler which contains any solder, flux, or storage tank interior surface which may come in contact with drinking water shall be considered lead free if the solder, flux, or storage tank interior surface contains more than 0.2 percent lead. The Administrator may establish more stringent requirements for treating any part or component of adrinking water cooler as lead free for purposes of this part whenever he determines that any such part may constitute an important source of lead in drinking water.
+&emsp;The term “lead free” means, with respect to a drinking water cooler, that each part or component of the cooler which may come in contact with drinking water contains not more than 8 percent lead, except that no drinking water cooler which contains any solder, flux, or storage tank interior surface which may come in contact with drinking water shall be considered lead free if the solder, flux, or storage tank interior surface contains more than 0.2 percent lead. The Administrator may establish more stringent requirements for treating any part or component of a drinking water cooler as lead free for purposes of this part whenever he determines that any such part may constitute an important source of lead in drinking water.
 
 #### (3) Local educational agency
 
 &emsp;The term “local educational agency” means—
 
-&emsp;&emsp;(A) any local educational agency as defined in section 8801 of title 20,
+&emsp;&emsp;(A) any local educational agency as defined in section 7801 of title 20,
 
 &emsp;&emsp;(B) the owner of any private, nonprofit elementary or secondary school building, and
 
@@ -30,13 +30,13 @@ As used in this part—
 
 #### (6) School
 
-&emsp;The term “school” means any elementary school or secondary school as defined in section 8801 of title 20 and any kindergarten or day care facility.
+&emsp;The term “school” means any elementary school or secondary school as defined in section 7801 of title 20 and any kindergarten or day care facility.
 
 #### (7) Lead-lined tank
 
 &emsp;The term “lead-lined tank” means a water reservoir container in a drinking water cooler which container is constructed of lead or which has an interior surface which is not lead free.
 
-(July 1, 1944, ch. 373, title XIV, §1461, as added Pub. L. 100–572, §2(a), Oct. 31, 1988, 102 Stat. 2884; amended Pub. L. 103–382, title III, §391(p), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 104–182, title V, §501(f)(7), Aug. 6, 1996, 110 Stat. 1692.)
+(July 1, 1944, ch. 373, title XIV, §1461, as added Pub. L. 100–572, §2(a), Oct. 31, 1988, 102 Stat. 2884; amended Pub. L. 103–382, title III, §391(p), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 104–182, title V, §501(f)(7), Aug. 6, 1996, 110 Stat. 1692; Pub. L. 107–110, title X, §1076(x), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### References in Text
 
@@ -44,9 +44,15 @@ The Defense Dependent's Education Act of 1978, referred to in par. (3)(C), proba
 
 #### Amendments
 
+2002—Pars. (3)(A), (6). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
+
 1996—Pub. L. 104–182 made technical amendment to section catchline and first word of text.
 
 1994—Par. (3)(A). Pub. L. 103–382, §391(p)(1), substituted “section 8801 of title 20” for “section 198 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 3381)”.
 
 Par. (6). Pub. L. 103–382, §391(p)(2), substituted “section 8801 of title 20” for “section 198 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2854)”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 

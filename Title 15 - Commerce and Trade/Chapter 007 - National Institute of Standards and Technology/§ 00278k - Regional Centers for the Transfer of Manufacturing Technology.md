@@ -6,7 +6,7 @@ The Secretary, through the Director and, if appropriate, through other officials
 
 &emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
-&emsp;(2) the participation of individuals from industry, universities, State governments, other Federal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
+&emsp;(2) the participation of individuals from industry, universities, State governments, otherFederal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
 
 &emsp;(3) efforts to make new manufacturing technology and processes usable by United States-based small- and medium-sized companies;
 

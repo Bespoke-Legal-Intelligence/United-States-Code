@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) a postsecondary vocational institution (as defined in subsection (c) of this section); and
 
-&emsp;&emsp;(C) only for the purposes of part B of subchapter IV of this chapter, an institution outside the United States that is comparableto an institution of higher education as defined in section 1001 of this title and that has been approved by the Secretary for the purpose of part B of subchapter IV of this chapter.
+&emsp;&emsp;(C) only for the purposes of part B of subchapter IV of this chapter, an institution outside the United States that is comparable to an institution of higher education as defined in section 1001 of this title and that has been approved by the Secretary for the purpose of part B of subchapter IV of this chapter.
 
 #### (2) Institutions outside the United States
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(II) at least 60 percent of the individuals who were students or graduates of the graduate medical school outside the United States (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; or
 
-&emsp;&emsp;&emsp;(ii) the institution has a clinical training program that was approved by a State as of January 1, 1992, or the institution's students complete their clinical training at an approved veterinary school located in the United States.
+&emsp;&emsp;&emsp;(ii) the institution has a clinical training program that was approved by a State as of January 1, 1992, or the institution's students complete their clinical training atan approved veterinary school located in the United States.
 
 #### (B) Advisory panel
 
@@ -72,7 +72,7 @@
 
 #### (6) Loss of eligibility
 
-&emsp;An institution of higher education shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution is removed from eligibility for funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 as a result of an action pursuant to part G of subchapter IV of this chapter.
+&emsp;An institution of higher education shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution is removed from eligibility for funds under subchapter IV of this chapterand part C of subchapter I of chapter 34 of title 42 as a result of an action pursuant to part G of subchapter IV of this chapter.
 
 #### (b) Proprietary institution of higher education
 
@@ -128,7 +128,7 @@ Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 9
 
 Another prior section 1002, Pub. L. 89–329, title I, §102, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1374, provided for establishment of Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 94–482, title I, §101(b)(1), (g)(2), Oct. 12, 1976, 90 Stat. 2083, 2086, defined the terms “community service program”, “continuingeducation program”, and “resource materials sharing programs”, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 94–482, title I, §101(b)(1), (g)(2), Oct. 12, 1976, 90 Stat. 2083, 2086, defined the terms “community service program”, “continuing education program”, and “resource materials sharing programs”, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Section Referred to in Other Sections
 

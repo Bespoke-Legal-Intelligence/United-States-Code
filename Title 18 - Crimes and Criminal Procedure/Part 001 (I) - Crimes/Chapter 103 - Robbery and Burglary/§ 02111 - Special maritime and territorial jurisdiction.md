@@ -22,5 +22,5 @@ Pub. L. 104–217, §1, Oct. 1, 1996, 110 Stat. 3020, provided that: “This Act
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3559, 5032 of this title; title 49 section 46506.
+This section is referred to in sections 3559, 5032 of this title; title 42 section 14135a; title 49 section 46506.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Penalty.—(1) A person violating section 1132, section 1134(b), section 1134(f)(1), or section 1136(g) (related to an aircraft accident) of this title or a regulation prescribed or order issued under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000. A separate violation occurs for each day a violation continues.
+Civil Penalty.—(1) A person violating section 1132, section 1134(b), section 1134(f)(1), or section 1136(g) (related to an aircraft accident)of this title or a regulation prescribed or order issued under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000. A separate violation occurs for each day a violation continues.
 
 (2) This subsection does not apply to a member of the armed forces of the United States or an employee of the Department of Defense subject to the Uniform Code of Military Justice when the member or employee is performing official duties. The appropriate military authorities are responsible for taking necessary disciplinary action and submitting to the National Transportation Safety Board a timely report on action taken.
 
@@ -90,7 +90,7 @@ In subsection (a)(1), the words “section 1132 or 1134(b) or (f)(1) (related to
 
 In subsection (a)(2), the word “civilian” is omitted as unnecessary. The words “with respect thereto” are omitted as surplus.
 
-In subsection (a)(4), the words “imposed or compromised” are substituted for “finally determined orfixed by order of the Board, or the amount agreed upon in compromise” in 49 App.:1471(a)(2) for consistency and to eliminate unnecessary words.
+In subsection (a)(4), the words “imposed or compromised” are substituted for “finally determined or fixed by order of the Board, or the amount agreed upon in compromise” in 49 App.:1471(a)(2) for consistency and to eliminate unnecessary words.
 
 In subsection (a)(5), the words “imposed or assessed” are omitted as surplus. The words “civil action against the person” are substituted for “proceedings in personam against the person” in 49 App.:1473(b)(1) for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.) and to eliminate unnecessary words. The text of 49 App.:1473(b)(1) (1st sentence words after 1st comma and last sentence) is omitted as unnecessary because penalties imposed by the National Transportation Safety Board do not involve liens on aircraft. The text of 49 App.:1473(b)(4) is omitted as unnecessary because of 28:ch. 131.
 

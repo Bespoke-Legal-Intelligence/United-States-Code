@@ -60,9 +60,11 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(15) criminal justice information systems with a capacity to provide statistical and research products including incident-based reporting systems that are compatible with the National Incident-Based Reporting System (NIBRS) and uniform crime reports;
 
-&emsp;(16) multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies; and
+&emsp;(16) multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies;
 
-&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care.
+&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and
+
+&emsp;(18) notwithstanding subsection (c) of this section, antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.
 
 #### (c) Assurances
 
@@ -90,13 +92,13 @@ Grants under this section may be used for programs to establish, develop, update
 
 #### (d) Matching funds
 
-The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the Attorney General waives, wholly or in part, the requirements of this subsection.
+The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the Attorney General waives,wholly or in part, the requirements of this subsection.
 
 #### (e) Authorization of appropriations
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 1999 through 2003.
+&emsp;There is authorized to be appropriated to carry out this section $250,000,000 for each of fiscal years 2002 through 2007.
 
 #### (2) Limitations
 
@@ -112,7 +114,7 @@ The Federal share of a grant received under this subchapter may not exceed 90 pe
 
 Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
-(Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791.)
+(Pub. L. 105–251, title I, §102, Oct. 9, 1998, 112 Stat. 1871; Pub. L. 106–177, title I, §102, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–561, §2(c)(4), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title X, §1015, Oct. 26, 2001, 115 Stat. 400.)
 
 #### References in Text
 
@@ -123,6 +125,10 @@ The Departments of Commerce, Justice, and State, the Judiciary, and Related Agen
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197, as amended. Part Q of title I of the Act is classified generally to subchapter XII–E (§3796dd et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3711 of this title and Tables.
 
 #### Amendments
+
+2001—Subsec. (b)(18). Pub. L. 107–56, §1015(1), added par. (18).
+
+Subsec. (e)(1). Pub. L. 107–56, §1015(2), substituted “this section $250,000,000 for each of fiscal years 2002 through 2007” for “this section $250,000,000 for each of fiscal years 1999 through 2003”.
 
 2000—Subsec. (b)(17). Pub. L. 106–177 added par. (17).
 

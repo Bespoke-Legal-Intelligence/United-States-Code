@@ -164,7 +164,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (A) In general
 
-&emsp;&emsp;If the amount any Federal Home Loan Bank is required to invest in capital stock of the Financing Corporation pursuant to a determination by the Federal Housing Finance Board under paragraph (5) (or under subparagraph (B) of this paragraph) exceeds the maximum investment amount applicable with respect to such bank under paragraph (3) at the time of such determination (hereinafter in this paragraph referred to as the “excess amount”)—
+&emsp;&emsp;If the amount any Federal Home Loan Bank is required to invest in capital stock of the Financing Corporation pursuant to a determination by the Federal Housing Finance Board under paragraph (5) (or under subparagraph (B) of this paragraph) exceeds themaximum investment amount applicable with respect to such bank under paragraph (3) at the time of such determination (hereinafter in this paragraph referred to as the “excess amount”)—
 
 &emsp;&emsp;&emsp;(i) the Federal Housing Finance Board shall require each remaining Federal Home Loan Bank to invest (in addition to the amount determined under paragraph (5) for such remaining bank and subject to the maximum investment amount applicable with respect to such remaining bank under paragraph (3) at the time of such determination) in such capital stock on behalf of the bank in the amount determined under subparagraph (B);
 
@@ -190,7 +190,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (E) Transfer to account for purchase of stock required
 
-&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Federal Housing FinanceBoard shall prescribe by regulations) the balance in which shall be available only for such purchases.
+&emsp;&emsp;Of the net earnings for any year of a bank on whose behalf an investment is made under subparagraph (A)(i), such amount as is necessary to make the purchases of stock required under subparagraph (A)(ii) shall be placed in a reserve account (established in such manner as the Federal Housing Finance Board shall prescribe by regulations) the balance in which shall be available only for such purchases.
 
 #### (7) Undivided profits defined
 
@@ -246,7 +246,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (4) Investment of United States funds in obligations
 
-&emsp;Obligations issued under this section by the Financing Corporation with the approval of the Federal Housing Finance Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
+&emsp;Obligations issued under this section by the Financing Corporation with the approval of the Federal Housing Finance Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and publicfunds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
 
 #### (5) Market for obligations
 
@@ -280,7 +280,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (1) Preenactment assessments
 
-&emsp;The Financing Corporation assessments which were assessed on insured institutionspursuant to this section as in effect prior to August 9, 1989.
+&emsp;The Financing Corporation assessments which were assessed on insured institutions pursuant to this section as in effect prior to August 9, 1989.
 
 #### (2) New assessment authority
 
@@ -350,7 +350,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 &emsp;&emsp;&emsp;(i) any fee incurred by the Financing Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under paragraph (2); and
 
-&emsp;&emsp;&emsp;(ii) any other expense incurred by the Financing Corporation in connection withthe establishment or maintenance of such account.
+&emsp;&emsp;&emsp;(ii) any other expense incurred by the Financing Corporation in connection with the establishment or maintenance of such account.
 
 #### (h) Miscellaneous provisions relating to Financing Corporation
 
@@ -394,7 +394,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Net earnings
 
-&emsp;The term “net earnings” means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title.
+&emsp;The term “net earnings” means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the FinancingCorporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title.
 
 #### (3) Insured depository institution
 
@@ -474,7 +474,7 @@ Subsec. (c)(9). Pub. L. 101–73, §512(4), struck out “or section 1725(b) of 
 
 Subsec. (d)(1). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
 
-Subsec. (d)(4). Pub. L. 101–73, §512(5), amended generally the portion of par. (4) appearing before the table. Prior to amendment, such portion read as follows: “With respect to the first $1,000,000,000 which the Board may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Board by applying to the total amount of such investment by all such banks the percentage appearing in the following table for each such bank:”.
+Subsec. (d)(4). Pub. L. 101–73, §512(5), amended generally the portion of par. (4) appearing before the table. Prior to amendment, such portion read as follows: “With respect to the first $1,000,000,000 which the Board may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Board by applying to the totalamount of such investment by all such banks the percentage appearing in the following table for each such bank:”.
 
 Subsec. (d)(5). Pub. L. 101–73, §512(6), substituted “the $1,000,000,000 amount referred to in paragraph (4) which the Federal Housing Finance Board” for “$1,000,000,000 which the Board”.
 

@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The amount of losses to which subsection (a) or (b) applies shall be reduced by the amount (if any) by which the taxpayer is insolvent as of the close of the taxable year.
+&emsp;&emsp;The amount of losses to which subsection (a) or (b) applies shall be reduced by theamount (if any) by which the taxpayer is insolvent as of the close of the taxable year.
 
 #### (B) Insolvent
 

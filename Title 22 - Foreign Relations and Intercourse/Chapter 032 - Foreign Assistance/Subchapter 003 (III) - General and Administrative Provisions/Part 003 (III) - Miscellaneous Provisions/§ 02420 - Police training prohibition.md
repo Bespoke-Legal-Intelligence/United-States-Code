@@ -8,7 +8,7 @@ On and after July 1, 1975, none of the funds made available to carry out this ch
 
 Subsection (a) of this section shall not apply—
 
-&emsp;(1) with respect to assistance rendered under section 3763(c) <sup>1</sup> of title 42, with respect to any authority of the Drug Enforcement Administration or the Federal Bureau of Investigation which relates to crimes of the nature which are unlawful under the laws of the United States, or with respect to assistance authorized under section 2291a of this title;
+&emsp;(1) with respect to assistance rendered under section 3763(c) <sup>1</sup> of title 42, with respect to any authority of the Drug Enforcement Administration or the Federal Bureau of Investigationwhich relates to crimes of the nature which are unlawful under the laws of the United States, or with respect to assistance authorized under section 2291a of this title;
 
 &emsp;(2) to any contract entered into prior to December 30, 1974, with any person, organization, or agency of the United States Government to provide personnel to conduct, or assist in conducting, any such program;
 
@@ -20,7 +20,7 @@ Subsection (a) of this section shall not apply—
 
 &emsp;(6) with respect to assistance provided to reconstitute civilian police authority and capability in the post-conflict restoration of host nation infrastructure for the purposes of supporting a nation emerging from instability, and the provision of professional public safety training, to include training in internationally recognized standards of human rights, the rule of law, anti-corruption, and the promotion of civilian police roles that support democracy;
 
-&emsp;(7) with respect to assistance provided to customs authorities and personnel, includingtraining, technical assistance and equipment, for customs law enforcement and the improvement of customs laws, systems and procedures.
+&emsp;(7) with respect to assistance provided to customs authorities and personnel, including training, technical assistance and equipment, for customs law enforcement and the improvement of customs laws, systems and procedures.
 
 > Notwithstanding clause (2), subsection (a) of this section shall apply to any renewal or extension of any contract referred to in such paragraph entered into on or after December 30, 1974.
 
@@ -96,7 +96,7 @@ Memorandum for the Honorable George P. Shultz, the Secretary of State
 
 Pursuant to Section 660(d) of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2420(d)\], I hereby determine that the Government of El Salvador has made significant progress, during the six month period preceding this determination, in eliminating any human rights violations including torture, incommunicado detention, detention of persons solely for the non-violent expression of their political views, or prolonged detention without trial.
 
-You are requested to report this determination to the Congress immediately, together with a full description of the assistance to be provided and of the purposes towhich it is to be directed. None of the assistance so provided shall be furnished until 30 days after such a report has been made, as required by law.
+You are requested to report this determination to the Congress immediately, together with a full description of the assistance to be provided and of the purposes to which it is to be directed. None of the assistance so provided shall be furnished until 30 days after such a report has been made, as required by law.
 
 I hereby delegate to the Secretary of State authority to make such determinations and reports as called for in the future under Section 660(d).
 

@@ -18,7 +18,7 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;&emsp;(C) undertaking programs for the optimal development of the various forms of energy production and conservation; and
 
-&emsp;&emsp;(D) disseminating information resulting from such programs, including disseminating information on the commercial feasibility and use of energy from fossil, nuclear, solar, geothermal, and other energy technologies.
+&emsp;&emsp;(D) disseminating information resulting from such programs, including disseminating information on the commercial feasibility and use of energy from fossil, nuclear,solar, geothermal, and other energy technologies.
 
 &emsp;(6) To place major emphasis on the development and commercial use of solar, geothermal, recycling and other technologies utilizing renewable energy resources.
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) an assessment of the data systems used in adjudicating and reporting on the status of immigration benefit applications, including—
 
-&emsp;&emsp;&emsp;(i) a description of the adequacy of existing computer hardware, computer software, and other mechanisms to comply with the adjudications and reporting requirements of this subchapter; and
+&emsp;&emsp;&emsp;(i) a description of the adequacy of existing computer hardware, computer software, and other mechanisms to complywith the adjudications and reporting requirements of this subchapter; and
 
 &emsp;&emsp;&emsp;(ii) a plan for implementing improvements to existing data systems to accomplish the purpose of this subchapter, as described in section 1571(a) of this title;
 

@@ -70,7 +70,7 @@
 
 (2) All sealed bids or competitive proposals received in response to a solicitation may be rejected if the head of the agency determines that such action is in the public interest.
 
-(3) Sealed bids shall be opened publicly at the time and place stated in the solicitation. The head of the agency shall evaluate the bids in accordance with paragraph (1) without discussions with the bidders and, except as provided in paragraph (2), shall award a contract with reasonable promptness to the responsible bidder whose bid conforms to the solicitation and is most advantageous to the United States, considering only price and the other price-related factors included in the solicitation. The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within three days after the date of contract award, the head of the agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.
+(3) Sealed bids shall be opened publicly at the time and place stated in the solicitation. The head of the agency shall evaluate the bids in accordance with paragraph (1) without discussions with the bidders and, except as provided in paragraph (2), shall award a contract with reasonablepromptness to the responsible bidder whose bid conforms to the solicitation and is most advantageous to the United States, considering only price and the other price-related factors included in the solicitation. The award of a contract shall be made by transmitting, in writing or by electronic means, notice of the award to the successful bidder. Within three days after the date of contract award, the head of the agency shall notify, in writing or by electronic means, each bidder not awarded the contract that the contract has been awarded.
 
 (4)(A) The head of an agency shall evaluate competitive proposals in accordance with paragraph (1) and may award a contract—
 
@@ -102,7 +102,7 @@
 
 (D) Each solicitation for competitive proposals shall include a statement that information described in subparagraph (B) may be disclosed in post-award debriefings.
 
-(E) If, within one year after the date of the contract award and as a result of a successfulprocurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
+(E) If, within one year after the date of the contract award and as a result of a successful procurement protest, the agency seeks to fulfill the requirement under the protested contract either on the basis of a new solicitation of offers or on the basis of new best and final offers requested for that contract, the agency shall make available to all offerors—
 
 &emsp;(i) the information provided in debriefings under this paragraph regarding the offer of the contractor awarded the contract; and
 
@@ -150,7 +150,7 @@
 
 (B) Proposals referred to in the first sentence of subparagraph (A) are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 
-&emsp;(i) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost tothe United States, if any, of acquiring such technical data and the right to use such data.
+&emsp;(i) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost to the United States, if any, of acquiring such technical data and the right to use such data.
 
 &emsp;(ii) Proposals for the qualification or development of multiple sources of supply for the item.
 
@@ -324,7 +324,7 @@ Subsec. (b)(4)(B) to (E). Pub. L. 101–510, §802(d)(3)(B)–(D), redesignated 
 
 1988—Subsec. (d)(1)(B). Pub. L. 100–456, §806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a development contract are”.
 
-Subsec. (d)(2)(B). Pub. L. 100–456, §806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of anagency is to consider requiring in a solicitation for the award of a production contract are”.
+Subsec. (d)(2)(B). Pub. L. 100–456, §806(b), substituted “Proposals referred to in the first sentence of subparagraph (A) are” for “The proposals that the head of an agency is to consider requiring in a solicitation for the award of a production contract are”.
 
 Subsec. (d)(3). Pub. L. 100–456, §806(a)(2), inserted provision that objectives may not impair the rights of prospective contractors or subcontractors otherwise provided by law.
 

@@ -22,7 +22,7 @@ The Secretary may (directly or through grants or contracts) provide technical as
 
 #### (d) Evaluations
 
-The Secretary shall (directly or through grants or contracts) provide for the evaluation of activities under subsection (a) of this section in order to determine the extent to which such activities have been effective in carrying out the purposes of the program under such subsection, including the effects on various demographicpopulations. Methods of evaluation under the preceding sentence may include surveys of knowledge and attitudes on the consumption of folic acid and on blood folate levels. Such methods may include complete and timely monitoring of infants who are born with neural tube defects.
+The Secretary shall (directly or through grants or contracts) provide for the evaluation of activities under subsection (a) of this section in order to determine the extent to which such activities have been effective in carrying out the purposes of the program under such subsection, including the effects on various demographic populations. Methods of evaluation under the preceding sentence may include surveys of knowledge and attitudes on the consumption of folic acid and on blood folate levels. Such methods may include complete and timely monitoring of infants who are born with neural tube defects.
 
 #### (e) Authorization of appropriations
 

@@ -1,0 +1,44 @@
+### §44918. Crew training
+
+(a)
+
+In General.—Not later than 60 days after the date of enactment of the Aviation and Transportation Security Act, the Administrator of the Federal Aviation Administration, in consultation with the Under Secretary of Transportation for Security, appropriate law enforcement, security, and terrorism experts, representatives of air carriers and labor organizations representing individuals employed in commercial aviation, shall develop detailed guidance for a scheduled passenger air carrier flight and cabin crew training program to prepare crew members for potential threat conditions.
+
+(b)
+
+Program Elements.—The guidance shall require such a program to include, at a minimum, elements that address the following:
+
+&emsp;(1) Determination of the seriousness of any occurrence.
+
+&emsp;(2) Crew communication and coordination.
+
+&emsp;(3) Appropriate responses to defend oneself.
+
+&emsp;(4) Use of protective devices assigned to crew members (to the extent such devices are required by the Administrator or Under Secretary).
+
+&emsp;(5) Psychology of terrorists to cope with hijacker behavior and passenger responses.
+
+&emsp;(6) Live situational training exercises regarding various threat conditions.
+
+&emsp;(7) Flight deck procedures or aircraft maneuvers to defend the aircraft.
+
+&emsp;(8) Any other subject matter deemed appropriate by the Administrator.
+
+(c)
+
+Air Carrier Programs.—Within 60 days after the Administrator issues the guidance under subsection (a) in final form, each air carrier shall develop a flight and cabin crew training program in accordance with that guidance and submit it to the Administrator for approval. Within 30 days after receiving an air carrier's program under this subsection, the Administrator shall review the program and approve it or require the air carrier to make any revisions deemed necessary by the Administrator for the program to meet the guidance requirements.
+
+(d)
+
+Training.—Within 180 days after the Administrator approves the training program developed by an air carrier under this section, the air carrier shall complete the training of all flight and cabin crews in accordance with that program.
+
+(e)
+
+Updates.—The Administrator shall update the training guidance issued under subsection (a) from time to time to reflect new or different security threats and require air carriers to revise their programs accordingly and provide additional training to their flight and cabin crews.
+
+(Added Pub. L. 107–71, title I, §107(a), Nov. 19, 2001, 115 Stat. 610.)
+
+#### References in Text
+
+The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (a), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+

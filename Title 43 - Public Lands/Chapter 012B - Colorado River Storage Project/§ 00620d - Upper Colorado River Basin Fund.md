@@ -6,7 +6,7 @@ There is authorized a separate fund in the Treasury of the United States to be k
 
 #### (b) Crediting of appropriations
 
-All appropriations made for the purpose of carrying out the provisions of this chapter,other than section 620g of this title shall be credited to the Basin Fund as advances from the general fund of the Treasury.
+All appropriations made for the purpose of carrying out the provisions of this chapter, other than section 620g of this title shall be credited to the Basin Fund as advances from the general fund of the Treasury.
 
 #### (c) Crediting and availability of revenues
 
@@ -22,7 +22,7 @@ Revenues in the Basin Fund in excess of operating needs shall be paid annually t
 
 &emsp;(3) interest on the unamortized balance of the investment (including interest during construction) in the power and municipal water supply features of each unit, participating project, or any separable feature thereof, at a rate determined by the Secretary of the Treasury as provided in subsection (f) of this section, and interest due shall be a first charge;
 
-&emsp;(4) the costs of each storage unit which are allocated to irrigation pursuant to section 620e of this title within a period not exceeding fifty years; and
+&emsp;(4) the costs of each storage unit which are allocated to irrigation pursuant to section620e of this title within a period not exceeding fifty years; and
 
 &emsp;(5) the costs of each salinity control unit or separable feature thereof, the costs of measures to replace incidental fish and wildlife values foregone, and the costs of the on-farm measures payable from the Upper Colorado River Basin Fund in accordance with sections 1595(a)(2), 1595(a)(3), and 1595(c) of this title.
 

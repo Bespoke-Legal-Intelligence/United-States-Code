@@ -16,7 +16,7 @@ The findings of fact by the Secretary of Labor, if supported by substantial evid
 
 #### (c) Affirmance or setting aside of Secretary's action; review by Supreme Court
 
-The court shall have jurisdiction to affirm the action of the Secretary of Labor or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+The court shall have jurisdiction to affirm the action of the Secretary of Labor or to set itaside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 #### (d) Stay of Secretary's action
 

@@ -62,7 +62,7 @@ Oct. 16, 1970, Pub. L. 91–458, §202(d), 84 Stat. 971; restated July 8, 1976, 
 
 In this part, the word “rule” is omitted as being synonymous with “regulation”. The word “standard” is omitted as being included in “regulation”.
 
-In subsection (a), the words “(hereafter in this subchapter referred to as the ‘Secretary’)” in 45:431(a) (1st sentence cl. (1)) are omitted as surplus because thecomplete name of the Secretary of Transportation is used the first time the term appears in a section.
+In subsection (a), the words “(hereafter in this subchapter referred to as the ‘Secretary’)” in 45:431(a) (1st sentence cl. (1)) are omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section.
 
 In subsection (b), the words “within 180 days after July 8, 1976” are omitted as expired. The word “prescribe” is substituted for “take such action as may be necessary to develop and publish” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 

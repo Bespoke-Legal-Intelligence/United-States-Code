@@ -18,7 +18,7 @@
 
 (c) A withdrawal referred to in subsection (a)(3) of this section is irrevocable.
 
-(d)(1) Except as provided in paragraph (3) of this subsection, an individual who is enrolled in the educational benefits program provided by chapter 32 of this title and who makes the election described in subsection (a)(4) of this subsection <sup>1</sup> shall be disenrolled from such chapter 32 program as of the date of such election.
+(d)(1) Except as provided in paragraph (3) of this subsection, an individual who is enrolled inthe educational benefits program provided by chapter 32 of this title and who makes the election described in subsection (a)(4) of this subsection <sup>1</sup> shall be disenrolled from such chapter 32 program as of the date of such election.
 
 (2) For each individual who is disenrolled from such program, the Secretary shall refund—
 
@@ -52,7 +52,7 @@ Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 203(b) of Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3013, 3015, 3035, 4214 of this title.
+This section is referred to in sections 3013, 3015, 3017, 3035, 4214 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -10,11 +10,11 @@ The Presidential designee shall—
 
 &emsp;(1) consult State and local election officials in carrying out this subchapter;
 
-&emsp;(2) prescribe an official post card form, containing both an absentee voter registration application and an absentee ballot application, for use by the States as recommended in section 1973ff–3 of this title;
+&emsp;(2) prescribe an official post card form, containing both an absentee voter registration application and an absentee ballot application, for use by the States as required under section 1973ff–1(4) of this title;
 
 &emsp;(3) carry out section 1973ff–2 of this title with respect to the Federal write-in absentee ballot for overseas voters in general elections for Federal office;
 
-&emsp;(4) prescribe a suggested design for absentee ballot mailing envelopes for use by the States as recommended in section 1973ff–3 of this title;
+&emsp;(4) prescribe a suggested design for absentee ballot mailing envelopes for use by the States as recommended in section 1973ff–3 <sup>1</sup> of this title;
 
 &emsp;(5) compile and distribute (A) descriptive material on State absentee registration and voting procedures, and (B) to the extent practicable, facts relating to specific elections, including dates, offices involved, and the text of ballot questions; and
 
@@ -30,9 +30,15 @@ The Presidential designee shall—
 
 &emsp;As directed by the Presidential designee, the Administrator of General Services shall furnish official post card forms (prescribed under subsection (b) of this section) and Federal write-in absentee ballots (prescribed under section 1973ff–2 of this title).
 
-(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817.)
+(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L. 107–107, div. A, title XVI, §1606(a)(2), Dec. 28, 2001, 115 Stat. 1279.)
+
+#### References in Text
+
+Section 1973ff–3 of this title, referred to in subsec. (b)(4), was amended generally by Pub. L. 107–107, div. A, title XVI, §1606(b), Dec. 28, 2001, 115 Stat. 1279, and, as so amended, no longer contains provisions relating to designs for absentee ballot mailing envelopes.
 
 #### Amendments
+
+2001—Subsec. (b)(2). Pub. L. 107–107 substituted “as required under section 1973ff–1(4) of this title” for “as recommended in section 1973ff–3 of this title”.
 
 1998—Subsec. (b)(6). Pub. L. 105–277 substituted “of uniformed services voter participation, a general assessment of overseas nonmilitary participation,” for “of voter participation”.
 
@@ -40,9 +46,97 @@ The Presidential designee shall—
 
 Section 204 of Pub. L. 99–410 provided that: “The amendments and repeals made by this Act \[see Short Title note below\] shall apply with respect to elections taking place after December 31, 1987.”
 
-#### Short Title
+#### Sense of Congress Regarding the Importance of Voting
 
-Section 1 of Pub. L. 99–410 provided that: “This Act \[enacting this subchapter, sections 608 and 609 of Title 18, Crimes and Criminal Procedure, and section 3406 of Title 39, Postal Service, amending sections 2401, 3627, and 3684 of Title 39, repealing subchapters I–D and I–E of this chapter, and enacting provisions set out as a note under this section\] may be cited as the ‘Uniformed and Overseas Citizens Absentee Voting Act’.”
+Pub. L. 107–107, div. A, title XVI, §1601, Dec. 28, 2001, 115 Stat. 1274, provided that:
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that each person who is an administrator of a Federal, State, or local election—
+
+&emsp;“(1) should be aware of the importance of the ability of each uniformed services voter to exercise the right to vote; and
+
+&emsp;“(2) should perform that person's duties as an election administrator with the intent to ensure that—
+
+&emsp;&emsp;“(A) each uniformed services voter receives the utmost consideration and cooperation when voting;
+
+&emsp;&emsp;“(B) each valid ballot cast by such a voter is duly counted; and
+
+&emsp;&emsp;“(C) all eligible American voters, regardless of race, ethnicity, disability, the language they speak, or the resources of the community in which they live, should have an equal opportunity to cast a vote and to have that vote counted.
+
+“(b)
+
+Uniformed Services Voter Defined.—In this section, the term ‘uniformed services voter’ means—
+
+&emsp;“(1) a member of a uniformed service (as defined in section 101(a)(5) of title 10, United States Code) in active service;
+
+&emsp;“(2) a member of the merchant marine (as defined in section 107 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6)); and
+
+&emsp;“(3) a spouse or dependent of a member referred to in paragraph (1) or (2) who is qualified to vote.”
+
+#### Electronic Voting Demonstration Project
+
+Pub. L. 107–107, div. A, title XVI, §1604, Dec. 28, 2001, 115 Stat. 1277, provided that:
+
+“(a)
+
+Establishment of Demonstration Project.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), the Secretary of Defense shall carry out a demonstration project under which absent uniformed services voters are permitted to cast ballots in the regularly scheduled general election for Federal office for November 2002 through an electronic voting system. The project shall be carried out with participation of sufficient numbers of absent uniformed services voters so that the results are statistically relevant.
+
+&emsp;“(2)
+
+Authority to delay implementation.—If the Secretary of Defense determines that the implementation of the demonstration project under paragraph (1) with respect to the regularly scheduled general election for Federal office for November 2002 may adversely affect the national security of the United States, the Secretary may delay the implementation of such demonstration project until the regularly scheduled general election for Federal office for November 2004. The Secretary shall notify the Committee on Armed Services and the Committee on Rules and Administration of the Senate and the Committee on Armed Services and the Committee on House Administration of the House of Representatives of any decision to delay implementation of the demonstration project.
+
+“(b)
+
+Coordination With State Election Officials.—The Secretary shall carry out the demonstration project under this section through cooperative agreements with State election officials of States that agree to participate in the project.
+
+“(c)
+
+Report to Congress.—Not later than June 1 of the year following the year in which the demonstration project is conducted under this section, the Secretary of Defense shall submit to Congress a report analyzing the demonstration project. The Secretary shall include in the report any recommendations the Secretary considers appropriate for continuing the project on an expanded basis for absent uniformed services voters during the next regularly scheduled general election for Federal office.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Absent uniformed services voter.—The term ‘absent uniformed services voter’ has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).
+
+&emsp;“(2)
+
+State.—The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa.”
+
+#### Governors’ Reports on Implementation of Recommendations for Changes in State Law Made Under Federal Voting Assistance Program
+
+Pub. L. 107–107, div. A, title XVI, §1605, Dec. 28, 2001, 115 Stat. 1277, provided that:
+
+“(a)
+
+Reports.—(1) Whenever a State receives a uniformed services voting assistance legislative recommendation from the Secretary of Defense, acting as the Presidential designee, the chief executive authority of that State shall, not later than 90 days after receipt of that recommendation, provide a report on the status of implementation of that recommendation by that State.
+
+“(2) If a legislative recommendation referred to in paragraph (1) has been implemented, in whole or in part, by a State, the report of the chief executive authority of that State under that paragraph with respect to that recommendation shall include a description of the changes made to State law to implement the recommendation. If the recommendation has not been implemented, the report shall include a statement of the status of the recommendation before the State legislature and a statement of any recommendation the chief executive officer has made or intends to make to the legislature with respect to that recommendation.
+
+“(3) Any report under paragraph (1) shall be transmitted to the Secretary of Defense, acting as the Presidential designee. The Secretary shall transmit a copy of the response to each Member of Congress who represents that State.
+
+“(b)
+
+Period of Applicability.—This section applies with respect to any uniformed services voting assistance legislative recommendation transmitted to a State by the Secretary of Defense, acting as the Presidential designee, during the three-year period beginning on the date of the enactment of this Act \[Dec. 28, 2001\].
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘uniformed services voting assistance legislative recommendation’ means a recommendation of the Presidential designee for a modification in the laws of a State for the purpose of improving the access to the polls of absent uniformed services voters and overseas voters.
+
+&emsp;“(2) The term ‘Presidential designee’ means the head of the executive department designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).
+
+&emsp;“(3) The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa.
+
+&emsp;“(4) The term ‘Member of Congress’ includes a Delegate or Resident Commissioner to the Congress.”
 
 #### Ex. Ord. No. 12642. Designation of Secretary of Defense as Presidential Designee
 
@@ -58,5 +152,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1973ff–3, 1973ff–6 of this title.
+This section is referred to in sections 1973ff–1, 1973ff–3, 1973ff–6 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

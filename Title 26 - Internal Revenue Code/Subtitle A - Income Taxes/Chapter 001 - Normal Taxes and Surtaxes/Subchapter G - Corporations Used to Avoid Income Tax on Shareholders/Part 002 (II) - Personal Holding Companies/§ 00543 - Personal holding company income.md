@@ -108,7 +108,7 @@ For purposes of this subtitle, the term “personal holding company income” me
 
 &emsp;&emsp;(B) amounts received from the sale or other disposition of such a contract.
 
-> &emsp;This paragraph shall apply with respect to amounts received for services under a particular contract only if at some time during the taxable year 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for the individual who has performed, is to perform, or may be designated (by name or by description) as the one to perform, such services.
+> &emsp;This paragraph shall apply with respect to amounts received for services under a particular contract only if at some time during the taxable year 25 percent or more in value of the outstanding stock of the corporation is owned, directly or indirectly, by or for the individual who has performed, is to perform, or may bedesignated (by name or by description) as the one to perform, such services.
 
 #### (8) Estates and trusts
 
@@ -170,7 +170,7 @@ For purposes of this part—
 
 #### (D) Certain excluded rents
 
-&emsp;&emsp;From the gross income consisting of compensation described in subparagraph (D) of paragraph (3) subtract the amount allowable as deductions for the items described in clauses (i), (ii), (iii), and (iv) of subparagraph (A) to the extent allocable, under regulations prescribed by the Secretary, to suchgross income. The amount subtracted under this subparagraph shall not exceed such gross income.
+&emsp;&emsp;From the gross income consisting of compensation described in subparagraph (D) of paragraph (3) subtract the amount allowable as deductions for the items described in clauses (i), (ii), (iii), and (iv) of subparagraph (A) to the extent allocable, under regulations prescribed by the Secretary, to such gross income. The amount subtracted under this subparagraph shall not exceed such gross income.
 
 #### (3) Adjusted income from rents
 
@@ -426,7 +426,7 @@ Qualified Bank Holding Company.—For purposes of this section, the term ‘qual
 
 “(d) 25-
 
-Percent Owned Bank.—For purposes of this section, the term ‘25-percent owned bank’ means any bank (as defined in section 581 of the 1986 Code) if at least 25 percent of the stock of such bank (by vote and value) is owned by the bank holding company.”
+Percent Owned Bank.—For purposes of this section, the term ‘25-percent owned bank’ means any bank (as defined in section 581 of the 1986 Code) if atleast 25 percent of the stock of such bank (by vote and value) is owned by the bank holding company.”
 
 #### Special Rules for Broker-Dealers, Royalties Received by Qualified Taxpayer, and Treatment of Active Business Computer Royalties for S Corporation Purposes
 

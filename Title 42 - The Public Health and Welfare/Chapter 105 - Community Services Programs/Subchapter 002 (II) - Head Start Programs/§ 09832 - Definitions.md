@@ -46,7 +46,7 @@ For purposes of this subchapter:
 
 &emsp;(14) The term “poverty line” means the official poverty line (as defined by the Office of Management and Budget)—
 
-&emsp;&emsp;(A) adjusted to reflect the percentage change in the Consumer Price Index For <sup>1</sup> All Urban Consumers, issued by the Bureau of Labor Statistics, occurring in the 1-year period or other interval immediately preceding the date such adjustment is made; and
+&emsp;&emsp;(A) adjusted to reflect the percentage change in the Consumer Price Index For <sup>1</sup> AllUrban Consumers, issued by the Bureau of Labor Statistics, occurring in the 1-year period or other interval immediately preceding the date such adjustment is made; and
 
 &emsp;&emsp;(B) adjusted for family size.
 
@@ -74,7 +74,7 @@ For purposes of this subchapter:
 
 The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in par. (11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in par. (11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
 

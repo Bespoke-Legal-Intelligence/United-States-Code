@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The preferential treatment under section 3721(a) of this title shall not be provided totextile and apparel articles that are imported from a beneficiary sub-Saharan African country unless that country—
+&emsp;The preferential treatment under section 3721(a) of this title shall not be provided to textile and apparel articles that are imported from a beneficiary sub-Saharan African country unless that country—
 
 &emsp;&emsp;(A) has adopted an effective visa system, domestic laws, and enforcement procedures applicable to covered articles to prevent unlawful transshipment of the articles and the use of counterfeit documents relating to the importation of the articles into the United States;
 
@@ -60,7 +60,7 @@
 
 #### (4) Transshipment described
 
-&emsp;Transshipment within the meaning of this subsection has occurred when preferential treatment for a textile or apparel article under this chapter <sup>1</sup> has been claimed on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under section 3721 of this title.
+&emsp;Transshipment within the meaning of this subsection has occurred when preferentialtreatment for a textile or apparel article under this chapter <sup>1</sup> has been claimed on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under section 3721 of this title.
 
 #### (5) Monitoring and reports to Congress
 

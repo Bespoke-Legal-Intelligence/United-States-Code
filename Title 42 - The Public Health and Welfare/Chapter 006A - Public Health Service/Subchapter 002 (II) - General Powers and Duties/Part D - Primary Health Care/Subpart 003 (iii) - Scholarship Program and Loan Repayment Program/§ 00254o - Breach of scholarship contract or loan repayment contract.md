@@ -16,7 +16,7 @@
 
 (2) An individual who has entered into a written contract with the Secretary under section 254<i>l</i>–1 of this title and who—
 
-&emsp;(A) in the case of an individual who is enrolled in the final year of a course of study, fails to maintain an acceptable level of academic standing in the educational institution in which such individual is enrolled (such level determined by the educational institution under regulations of the Secretary) or voluntarily terminates such enrollment or is dismissed from such educational institution before completion of such course of study; or
+&emsp;(A) in the case of an individual who is enrolled in the final year of a course of study, fails to maintain an acceptable level of academic standing in the educational institution in which such individual is enrolled (such leveldetermined by the educational institution under regulations of the Secretary) or voluntarily terminates such enrollment or is dismissed from such educational institution before completion of such course of study; or
 
 &emsp;(B) in the case of an individual who is enrolled in a graduate training program, fails to complete such training program and does not receive a waiver from the Secretary under section 254<i>l</i>–1(b)(1)(B)(ii) of this title,
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(i) the total of the amounts paid by the United States under section 254<i>l</i>–1(g)(2) of this title on behalf of the individual for any period of obligated service not served; and
 
-&emsp;&emsp;(ii) if the individual breaching the contract failed to give the Secretary notice, that the individual intends to take action which constitutes a breach of the contract, at least 1 year (or such shorter period of time as the Secretary determines is adequate for finding a replacement) prior to the breach, $10,000.
+&emsp;&emsp;(ii) if the individual breaching the contract failed to give the Secretary notice, that the individual intends to take action which constitutes a breach of the contract,at least 1 year (or such shorter period of time as the Secretary determines is adequate for finding a replacement) prior to the breach, $10,000.
 
 (2) For purposes of paragraph (1), the term “unserved obligation penalty” means the amount equal to the product of the number of months of obligated service that were not completed by an individual, multiplied by $1,000, except that in any case in which the individual fails to serve 1 year, the unserved obligation penalty shall be equal to the full period of obligated service multiplied by $1,000.
 
@@ -88,7 +88,7 @@
 
 (ii) The provision of law referred to in clause (i) is subsection (f) of section 234 <sup>2</sup> of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484.
 
-(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV,§408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027.)
+(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027.)
 
 #### References in Text
 

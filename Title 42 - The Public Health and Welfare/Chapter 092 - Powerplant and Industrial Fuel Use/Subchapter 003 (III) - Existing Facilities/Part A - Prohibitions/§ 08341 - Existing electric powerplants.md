@@ -4,7 +4,7 @@
 
 At any time, the owner or operator of an existing electric powerplant may certify to the Secretary, for purposes of subsection (b) of this section—
 
-&emsp;(1) whether or not such powerplant has or previously had the technical capability to use coal or another alternate fuel as a primary energy source;
+&emsp;(1) whether or not such powerplant has or previously had the technical capability to usecoal or another alternate fuel as a primary energy source;
 
 &emsp;(2) whether or not such powerplant could have the technical capability to use coal or another alternate fuel as a primary energy source without having—
 

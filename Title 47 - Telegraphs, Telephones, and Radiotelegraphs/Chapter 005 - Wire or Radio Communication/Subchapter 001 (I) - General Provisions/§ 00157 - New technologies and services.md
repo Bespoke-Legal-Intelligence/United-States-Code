@@ -12,7 +12,7 @@
 
 #### Advanced Telecommunications Incentives
 
-Pub. L. 104–104, title VII, §706, Feb. 8, 1996, 110 Stat. 153, provided that:
+Pub. L. 104–104, title VII, §706, Feb. 8, 1996, 110 Stat. 153, as amended by Pub. L. 107–110, title X, §1076(gg), Jan. 8, 2002, 115 Stat. 2093, provided that:
 
 “(a)
 
@@ -32,7 +32,7 @@ Advanced telecommunications capability.—The term ‘advanced telecommunication
 
 &emsp;“(2)
 
-Elementary and secondary schools.—The term ‘elementary and secondary schools’ means elementary and secondary schools, as defined in paragraphs (14) and (25), respectively, of section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801).”
+Elementary and secondary schools.—The term ‘elementary and secondary schools’ means elementary and secondary schools, as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].”
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) that the person seeking exclusion furnish proof, of a specified nature and in accordance with prescribed procedures, that the copyright in which such person claims an interest is valid and that the importation would violate the prohibition in section 602; the person seeking exclusion may also be required to post a surety bond for any injury that may result if the detention or exclusion of the articles proves to be unjustified.
 
-(c) Articles imported in violation of the importation prohibitions of this title are subject to seizure and forfeiture in the same manner as property imported in violation of the customs revenue laws. Forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be.
+(c) Articles imported in violation of the importation prohibitions of this title are subject toseizure and forfeiture in the same manner as property imported in violation of the customs revenue laws. Forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2590; Pub. L. 104–153, §8, July 2, 1996, 110 Stat. 1388.)
 
@@ -16,7 +16,7 @@
 
 I74house report no. 94–1476
 
-The importation prohibitions of both sections 601 and 602 would be enforced under section 603, which is similar to section 109 of the statute now in effect \[section 109 of former title 17\]. Subsection (a) would authorize the Secretary of the Treasury and the United StatesPostal Service to make regulations for this purpose, and subsection (c) provides for the disposition of excluded articles.
+The importation prohibitions of both sections 601 and 602 would be enforced under section 603, which is similar to section 109 of the statute now in effect \[section 109 of former title 17\]. Subsection (a) would authorize the Secretary of the Treasury and the United States Postal Service to make regulations for this purpose, and subsection (c) provides for the disposition of excluded articles.
 
 Subsection (b) of section 603 deals only with the prohibition against importation of “piratical” copies or phonorecords, and is aimed at solving problems that have arisen under the present statute. Since the United States Customs Service is often in no position to make determinations as to whether particular articles are “piratical,” section 603(b) would permit the Customs regulations to require the person seeking exclusion either to obtain a court order enjoining importation, or to furnish proof of his claim and to post bond.
 

@@ -30,5 +30,5 @@ No deduction shall be allowed under subsection (a) in respect of any portion of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 67, 642, 643, 662, 663, 665, 666, 677, 678, 6166 of this title.
+This section is referred to in sections 67, 642, 643, 646, 662, 663, 665, 666, 677, 678, 6166 of this title.
 

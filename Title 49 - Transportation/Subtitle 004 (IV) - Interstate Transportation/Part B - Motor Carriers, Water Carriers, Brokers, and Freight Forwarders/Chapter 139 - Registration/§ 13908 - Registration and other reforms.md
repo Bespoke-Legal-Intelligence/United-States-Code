@@ -22,7 +22,7 @@ Factors To Be Considered.—In conducting the rulemaking under subsection (a), t
 
 (c)
 
-Fee System.—The Secretary may establish, under section 9701 of title 31, a fee system for registration and filing evidence of financial responsibility under the new system under subsection (a). Fees collected under the fee system shall cover the costs of operating and upgrading the registration system, including all personnel costs associated with the system. Fees collected under this subsection may be credited to the Department of Transportation appropriations account for purposes for which such fees are collected, and shall be available for expenditure until expended.
+Fee System.—The Secretary may establish, under section 9701 of title 31, a fee system for registration and filing evidence of financial responsibility under the new system under subsection (a). Fees collected under the fee system shall cover the costs of operating and upgrading the registration system, including all personnelcosts associated with the system. Fees collected under this subsection may be credited to the Department of Transportation appropriations account for purposes for which such fees are collected, and shall be available for expenditure until expended.
 
 (d)
 

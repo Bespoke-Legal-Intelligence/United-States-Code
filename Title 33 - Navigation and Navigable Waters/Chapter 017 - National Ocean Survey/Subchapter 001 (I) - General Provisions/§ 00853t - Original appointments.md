@@ -2,7 +2,7 @@
 
 #### (a) Eligible grades; examination; revocation of commission
 
-Original appointments may be made in grades up to and including lieutenant after passage of a mental and physical examination given in accordance with regulations prescribed by the Secretary of Commerce: <i>Provided</i>, That the President, under such regulations as he may prescribe, may revoke the commission of any officer appointed under this section during his first three years of service if he is found not qualified for the service.
+Original appointments may be made in grades up to and including lieutenant after passage of amental and physical examination given in accordance with regulations prescribed by the Secretary of Commerce: <i>Provided</i>, That the President, under such regulations as he may prescribe, may revoke the commission of any officer appointed under this section during his first three years of service if he is found not qualified for the service.
 
 #### (b) Lineal list
 

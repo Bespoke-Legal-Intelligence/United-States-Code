@@ -34,7 +34,7 @@ Service Agreement for Scholarship Recipients.—(1) To receive financial assista
 
 (c)
 
-Amount of Assistance.—The amount of the financial assistance provided for a personunder this section shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, and expenses of room and board. The expenses paid, however, shall be limited to those educational expenses normally incurred by students at the institution of higher education involved.
+Amount of Assistance.—The amount of the financial assistance provided for a person under this section shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, and expenses of room and board. The expenses paid, however, shall be limited to those educational expenses normally incurred by students at the institution of higher education involved.
 
 (d)
 

@@ -102,7 +102,7 @@ Notwithstanding any other provisions of this chapter it shall be unlawful to dis
 
 #### (D) Deadline for approval of petition
 
-&emsp;&emsp;A decision to add a pollutant to the list of pollutants for which modifications underthis subsection are authorized must be made within 270 days after the date of promulgation of an applicable effluent guideline under section 1314 of this title.
+&emsp;&emsp;A decision to add a pollutant to the list of pollutants for which modifications under this subsection are authorized must be made within 270 days after the date of promulgation of an applicable effluent guideline under section 1314 of this title.
 
 #### (E) Burden of proof
 
@@ -120,7 +120,7 @@ The Administrator, with the concurrence of the State, may issue a permit under s
 
 &emsp;(2) the discharge of pollutants in accordance with such modified requirements will not interfere, alone or in combination with pollutants from other sources, with the attainment or maintenance of that water quality which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water;
 
-&emsp;(3) the applicant has established a system for monitoring the impact of such discharge on a representative sample of aquatic biota, to the extent practicable, and the scope of such monitoring is limited to include only those scientific investigations which are necessary to study the effects of the proposed discharge;
+&emsp;(3) the applicant has established a system for monitoring the impact of such dischargeon a representative sample of aquatic biota, to the extent practicable, and the scope of such monitoring is limited to include only those scientific investigations which are necessary to study the effects of the proposed discharge;
 
 &emsp;(4) such modified requirements will not result in any additional requirements on any other point or nonpoint source;
 
@@ -178,7 +178,7 @@ Effect of disapproval.—Disapproval of an application for a modification under 
 
 Deadline for subsection (g)
 
-decision.—An application for a modification with respect to a pollutant filed under subsection (g) of this section must be approved or disapproved not later than 365 days after the date of such filing; except that in any case in which a petition for listing such pollutant as a pollutant for which modifications are authorized under such subsection is approved, such application must be approved or disapproved not later than 365 days after the date of approval of such petition.
+decision.—An application for a modification with respect to a pollutant filed under subsection (g) of this section must be approved or disapproved not laterthan 365 days after the date of such filing; except that in any case in which a petition for listing such pollutant as a pollutant for which modifications are authorized under such subsection is approved, such application must be approved or disapproved not later than 365 days after the date of approval of such petition.
 
 (5)
 
@@ -216,7 +216,7 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 (1) The Administrator, with the concurrence of the State, may issue a permit under section 1342 of this title which modifies the requirements of subsections (b)(1)(A) and (b)(2)(E) of this section, and of section 1343 of this title, with respect to effluent limitations to the extent such limitations relate to biochemical oxygen demand and pH from discharges by an industrial discharger in such State into deep waters of the territorial seas, if the applicant demonstrates and the Administrator finds that—
 
-&emsp;(A) the facility for which modification is sought is covered at the time of the enactmentof this subsection by National Pollutant Discharge Elimination System permit number CA0005894 or CA0005282;
+&emsp;(A) the facility for which modification is sought is covered at the time of the enactment of this subsection by National Pollutant Discharge Elimination System permit number CA0005894 or CA0005282;
 
 &emsp;(B) the energy and environmental costs of meeting such requirements of subsections (b)(1)(A) and (b)(2)(E) of this section and section 1343 of this title exceed by an unreasonable amount the benefits to be obtained, including the objectives of this chapter;
 
@@ -232,7 +232,7 @@ Other than as provided in subsection (n) of this section, the Administrator may 
 
 &emsp;(H) the facts and circumstances present a unique situation which, if relief is granted, will not establish a precedent or the relaxation of the requirements of this chapter applicable to similarly situated discharges; and
 
-&emsp;(I) no owner or operator of a facility comparable to that of the applicant situated in the United States has demonstrated that it would be put at a competitive disadvantage to the applicant (or the parent company or any subsidiary thereof) as a result of the issuance of a permit under this subsection.
+&emsp;(I) no owner or operator of a facility comparable to that of the applicant situated in the United States has demonstrated that it would be put at a competitive disadvantage to theapplicant (or the parent company or any subsidiary thereof) as a result of the issuance of a permit under this subsection.
 
 (2) The effluent limitations established under a permit issued under paragraph (1) shall be sufficient to implement the applicable State water quality standards, to assure the protection of public water supplies and protection and propagation of a balanced, indigenous population of shellfish, fish, fauna, wildlife, and other aquatic organisms, and to allow recreational activities in and on the water. In setting such limitations, the Administrator shall take into account any seasonal variations and the need for an adequate margin of safety, considering the lack of essential knowledge concerning the relationship between effluent limitations and water quality and the lack of essential knowledge of the effects of discharges on beneficial uses of the receiving waters.
 
@@ -455,7 +455,7 @@ Pub. L. 98–67, title II, §214(g), Aug. 5, 1983, 97 Stat. 393, as amended by P
 
 #### Certain Municipal Compliance Deadlines Unaffected; Exception
 
-Section 21(a) of Pub. L. 97–117 provided in part that: “The amendment made by this subsection \[amending this section\] shall not be interpreted or applied to extend the date for compliance with section 301(b)(1)(B) or (C) of the Federal Water Pollution Control Act \[33 U.S.C. 1311(b)(1)(B), (C)\] beyond schedules for compliance in effect as of the date of enactment of this Act \[Dec. 29, 1981\], except in cases where reductions in the amount of financial assistance under this Act \[Pub. L. 97–117, see Short Title of 1981 Amendment note set outunder section 1251 of this title\] or changed conditions affecting the rate of construction beyond the control of the owner or operator will make it impossible to complete construction by July 1, 1983.”
+Section 21(a) of Pub. L. 97–117 provided in part that: “The amendment made by this subsection \[amending this section\] shall not be interpreted or applied to extend the date for compliance with section 301(b)(1)(B) or (C) of the Federal Water Pollution Control Act \[33 U.S.C. 1311(b)(1)(B), (C)\] beyond schedules for compliance in effect as of the date of enactment of this Act \[Dec. 29, 1981\], except in cases where reductions in the amount of financial assistance under this Act \[Pub. L. 97–117, see Short Title of 1981 Amendment note set out under section 1251 of this title\] or changed conditions affecting the rate of construction beyond the control of the owner or operator will make it impossible to complete construction by July 1, 1983.”
 
 #### Territorial Sea and Contiguous Zone of United States
 

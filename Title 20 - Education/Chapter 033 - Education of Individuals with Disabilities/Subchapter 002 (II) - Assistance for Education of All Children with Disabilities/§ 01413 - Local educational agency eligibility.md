@@ -178,10 +178,6 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;&emsp;(D) interagency personnel development for individuals working on coordinated services.
 
-#### (3) Coordination with certain projects under Elementary and Secondary Education Act of 1965
-
-&emsp;If a local educational agency is carrying out a coordinated services project under title XI of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 8401 et seq.\] and a coordinated services project under this subchapter in the same schools, such agency shall use amounts under this subsection in accordance with the requirements of that title.
-
 #### (g) School-based improvement plan
 
 #### (1) In general
@@ -222,7 +218,7 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;&emsp;&emsp;(i) criteria that shall be used by such local educational agency in the selection of an eligible school under subparagraph (A);
 
-&emsp;&emsp;&emsp;(ii) criteria that shall be used by a public school selected under subparagraph (A) in the establishment of a school-based standing panel to carry out the duties described in paragraph (3)(B) and that shall ensure that the membership of such panel reflects the diversity of the community in which the public school is located and includes, at a minimum—
+&emsp;&emsp;&emsp;(ii) criteria that shall be used by a public school selected under subparagraph (A) inthe establishment of a school-based standing panel to carry out the duties described in paragraph (3)(B) and that shall ensure that the membership of such panel reflects the diversity of the community in which the public school is located and includes, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) parents of children with disabilities who attend such public school, including parents of children with disabilities from unserved and underserved populations, as appropriate;
 
@@ -252,7 +248,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (B) Plan approval
 
-&emsp;&emsp;A local educational agency may approve a school-based improvement plan of a publicschool within the jurisdiction of such agency for a period of 3 years, if—
+&emsp;&emsp;A local educational agency may approve a school-based improvement plan of a public school within the jurisdiction of such agency for a period of 3 years, if—
 
 &emsp;&emsp;&emsp;(i) the approval is consistent with the policies, procedures, and practices established by such local educational agency and in accordance with this subsection; and
 
@@ -292,7 +288,7 @@ Any State agency that desires to receive a subgrant for any fiscal year under se
 
 The State may require that a local educational agency include in the records of a child with a disability a statement of any current or previous disciplinary action that has been taken against the child and transmit such statement to the same extent that such disciplinary information is included in, and transmitted with, the student records of nondisabled children. The statement may include a description of any behavior engaged in by the child that required disciplinary action, a description of the disciplinary action taken, and any other information that is relevant to the safety of the child and other individuals involved with the child. If the State adopts such a policy, and the child transfers from one school to another, the transmission of any of the child's records must include both the child's current individualized education program and any such statement of current or previous disciplinary action that has been taken against the child.
 
-(Pub. L. 91–230, title VI, §613, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 73.)
+(Pub. L. 91–230, title VI, §613, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 73; amended Pub. L. 107–110, title X, §1076(i), Jan. 8, 2002, 115 Stat. 2091.)
 
 #### References in Text
 
@@ -302,15 +298,21 @@ The Rehabilitation Act of 1973, referred to in subsec. (f)(2)(B), is Pub. L. 93�
 
 The Social Security Act, referred to in subsec. (f)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title XI of the Act is classified generally to subchapter XI (§8401 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
-
 #### Prior Provisions
 
-A prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2),Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+
+#### Amendments
+
+2002—Subsec. (f)(3). Pub. L. 107–110 struck out heading and text of par. (3). Text read as follows: “If a local educational agency is carrying out a coordinated services project under title XI of the Elementary and Secondary Education Act of 1965 and a coordinated services project under this subchapter in the same schools, such agency shall use amounts under this subsection in accordance with the requirements of that title.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1411, 1412, 1419, 8063 of this title.
+This section is referred to in sections 1411, 1412, 1419, 6314, 7221b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “educational”.</i>
 

@@ -76,7 +76,7 @@ The following Federal standards are hereby established:
 
 #### (9) Energy efficiency investments in power generation and supply
 
-&emsp;The rates charged by any electric utility shall be such that the utility is encouraged to make investments in, and expenditures for, allcost-effective improvements in the energy efficiency of power generation, transmission and distribution. In considering regulatory changes to achieve the objectives of this paragraph, State regulatory authorities and nonregulated electric utilities shall consider the disincentives caused by existing ratemaking policies, and practices, and consider incentives that would encourage better maintenance, and investment in more efficient power generation, transmission and distribution equipment.
+&emsp;The rates charged by any electric utility shall be such that the utility is encouraged to make investments in, and expenditures for, all cost-effective improvements in the energy efficiency of power generation, transmission and distribution. In considering regulatory changes to achieve the objectives of this paragraph, State regulatory authorities and nonregulated electric utilities shall consider the disincentives caused by existing ratemaking policies, and practices, and consider incentives that would encourage better maintenance, and investment in more efficient power generation, transmission and distribution equipment.
 
 #### (10) Consideration of the effects of wholesale power purchases on utility cost of capital; effects of leveraged capital structures on the reliability of wholesale power sellers; and assurance of adequate fuel supplies
 

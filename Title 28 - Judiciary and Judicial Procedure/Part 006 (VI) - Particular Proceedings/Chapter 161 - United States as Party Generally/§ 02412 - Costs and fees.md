@@ -4,7 +4,7 @@
 
 (2) A judgment for costs, when awarded in favor of the United States in an action brought by the United States, may include an amount equal to the filing fee prescribed under section 1914(a) of this title. The preceding sentence shall not be construed as requiring the United States to pay any filing fee.
 
-(b) Unless expressly prohibited by statute, a court may award reasonable fees and expenses of attorneys, in addition to the costs which may be awarded pursuant to subsection (a), to the prevailing party in any civil action brought by or against the United States or any agency or any official of the United States acting in his or her official capacity in any court having jurisdiction of such action. The United States shall beliable for such fees and expenses to the same extent that any other party would be liable under the common law or under the terms of any statute which specifically provides for such an award.
+(b) Unless expressly prohibited by statute, a court may award reasonable fees and expenses of attorneys, in addition to the costs which may be awarded pursuant to subsection (a), to the prevailing party in any civil action brought by or against the United States or any agency or any official of the United States acting in his or her official capacity in any court having jurisdiction of such action. The United States shall be liable for such fees and expenses to the same extent that any other party would be liable under the common law or under the terms of any statute which specifically provides for such an award.
 
 (c)(1) Any judgment against the United States or any agency and any official of the United States acting in his or her official capacity for costs pursuant to subsection (a) shall be paid as provided in sections 2414 and 2517 of this title and shall be in addition to any relief provided in the judgment.
 
@@ -16,7 +16,7 @@
 
 (C) The court, in its discretion, may reduce the amount to be awarded pursuant to this subsection, or deny an award, to the extent that the prevailing party during the course of the proceedings engaged in conduct which unduly and unreasonably protracted the final resolution of the matter in controversy.
 
-(D) If, in a civil action brought by the United States or a proceeding for judicial review of an adversary adjudication described in section 504(a)(4) of title 5, the demand by the United States is substantially in excess of the judgment finally obtained by the United States and is unreasonable when compared with such judgment, under the facts and circumstances of the case, the court shall award to the party the fees and other expenses related to defending against the excessive demand, unless the party has committed a willful violation of law or otherwise acted in bad faith, or special circumstances make an award unjust. Fees and expenses awarded under this subparagraph shall be paid only as a consequence of appropriations provided in advance.
+(D) If, in a civil action brought by the United States or a proceeding for judicial review of an adversary adjudication described in section 504(a)(4) of title 5, the demand by the United States is substantially in excess of the judgment finally obtained by the United States and is unreasonable when compared with such judgment,under the facts and circumstances of the case, the court shall award to the party the fees and other expenses related to defending against the excessive demand, unless the party has committed a willful violation of law or otherwise acted in bad faith, or special circumstances make an award unjust. Fees and expenses awarded under this subparagraph shall be paid only as a consequence of appropriations provided in advance.
 
 (2) For the purposes of this subsection—
 
@@ -46,7 +46,7 @@
 
 (f) If the United States appeals an award of costs or fees and other expenses made against the United States under this section and the award is affirmed in whole or in part, interest shall be paid on the amount of the award as affirmed. Such interest shall be computed at the rate determined under section 1961(a) of this title, and shall run from the date of the award through the day before the date of the mandate of affirmance.
 
-(June 25, 1948, ch. 646, 62 Stat. 973; Pub. L. 89–507, §1, July 18, 1966, 80 Stat. 308; Pub. L. 96–481, title II, §204(a), (c), Oct. 21, 1980, 94 Stat. 2327, 2329; Pub. L. 97–248, title II, §292(c), Sept. 3, 1982, 96 Stat. 574; Pub. L. 99–80, §§2, 6, Aug. 5, 1985, 99 Stat. 184, 186; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title III, §301(a), title V, §§502(b), 506(a), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4511–4513, 4516; Pub. L. 104–66, title I, §1091(b), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–121, title II, §232, Mar. 29, 1996, 110 Stat. 863; Pub. L. 105–368, title V, §512(b)(1)(B), Nov. 11, 1998, 112 Stat. 3342.)
+(June 25, 1948, ch. 646, 62 Stat. 973; Pub. L. 89–507, §1, July 18, 1966, 80 Stat. 308; Pub. L. 96–481, title II, §204(a), (c), Oct. 21, 1980, 94 Stat. 2327, 2329; Pub. L. 97–248, title II, §292(c), Sept. 3, 1982, 96 Stat. 574; Pub. L. 99–80, §§2, 6, Aug. 5, 1985, 99 Stat. 184, 186; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title III, §301(a), title V, §§502(b), 506(a), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4511–4513, 4516; Pub. L. 104–66, title I, §1091(b), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–121, title II, §232, Mar. 29, 1996, 110 Stat. 863;Pub. L. 105–368, title V, §512(b)(1)(B), Nov. 11, 1998, 112 Stat. 3342.)
 
 #### Historical and Revision Notes
 
@@ -180,5 +180,5 @@ Section 506(c) of Pub. L. 102–572 provided that: “Section 5904(d) of title 3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1931 of this title; title 5 section 504; title 10 section 2321; title 11 section 106; title 15 section 2060; title 18 section 293; title 25 section 450m–1; title 26 section 7430; title 31 section 3730; title 41 section 253d; title 42 sections 3612, 3614, 9606.
+This section is referred to in section 1931 of this title; title 5 section 504; title 10 section 2321; title 11 section106; title 15 section 2060; title 18 section 293; title 25 section 450m–1; title 26 section 7430; title 31 section 3730; title 41 section 253d; title 42 sections 3612, 3614, 9606.
 

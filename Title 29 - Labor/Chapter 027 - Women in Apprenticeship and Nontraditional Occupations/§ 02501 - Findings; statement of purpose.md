@@ -22,7 +22,7 @@ It is the purpose of this chapter to provide technical assistance to employers a
 
 &emsp;(2) providing grants to community-based organizations to deliver technical assistance to employers and labor unions to prepare them to recruit, train, and employ women in apprenticeable occupations and nontraditional occupations;
 
-&emsp;(3) authorizing the Department of Labor to serve as a liaison between employers, labor, and the community-based organizations providing technical assistance, through its national office and its regional administrators; and
+&emsp;(3) authorizing the Department of Labor to serve as a liaison between employers, labor,and the community-based organizations providing technical assistance, through its national office and its regional administrators; and
 
 &emsp;(4) conducting a comprehensive study to examine the barriers to the participation of women in apprenticeable occupations and nontraditional occupations and to develop recommendations for the workplace to eliminate such barriers.
 

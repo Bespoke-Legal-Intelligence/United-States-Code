@@ -26,7 +26,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) making the determinations applicable to a foreign antitrust authority under section 6207(a)(1) of this title (other than the determination regarding the assurance described in subparagraph (A) of this paragraph), with respect to each additional governmental entity, if any, to be provided such antitrust evidence in the course of such disclosure or use, after having received adequate written assurances applicable to each such governmental entity.
 
-&emsp;&emsp;(F) An assurance that antitrust evidence received under section 6201, 6202, or 6203 of this title from the Attorney General or the Commission, and all copies of such evidence, in the possession or control of the foreign antitrust authority will be returned to the Attorney General or the Commission, respectively, at the conclusion of the foreign investigation or proceeding with respect to which such evidence was so received.
+&emsp;&emsp;(F) An assurance that antitrust evidence received under section 6201, 6202, or 6203 of this title from the Attorney General or the Commission, and all copies of such evidence, in the possession or control of the foreign antitrust authority will be returned to the Attorney General or the Commission, respectively, at the conclusion of the foreigninvestigation or proceeding with respect to which such evidence was so received.
 
 &emsp;&emsp;(G) Terms and conditions that specifically provide that such agreement or such memorandum will be terminated if—
 

@@ -52,7 +52,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;&emsp;(B) Public Land Order 5563 of December 16, 1975, which made hot or medicinal springs available to other Native Corporations for selection and conveyance, is hereby modified to the extent necessary to permit the selection by Elim of the lands heretofore encompassed in any withdrawal of hot or medicinal springs and is withdrawn pursuant to this subsection. The Secretary is authorized and directed to convey such selections of hot or medicinal springs (hereinafter referred to as “hot springs”) subject to applicable covenants, reservations, terms and conditions contained in paragraphs (5) and (6).
 
-&emsp;&emsp;(C) Should Elim select and have conveyed to it lands encompassing portions of the Tubutulik River or Clear Creek, or both, Elim shall not permit surface occupancy or knowingly permit any other activity on those portions of land lying within the bed of or within 300 feet of the ordinary high waterline of either or both of these water courses for purposes associated with mineral or other development or activity if they would cause or are likely to cause erosion orsiltation of either water course to an extent that would significantly adversely impact water quality or fish habitat.
+&emsp;&emsp;(C) Should Elim select and have conveyed to it lands encompassing portions of the Tubutulik River or Clear Creek, or both, Elim shall not permit surface occupancy or knowingly permit any other activity on those portions of land lying within the bed of or within 300 feet of the ordinary high waterline of either or both of these water courses for purposes associated with mineral or other development or activity if they would cause or are likely to cause erosion or siltation of either water course to an extent that would significantly adversely impact water quality or fish habitat.
 
 #### (5) Rights retained by the United States
 
@@ -120,7 +120,7 @@ Section 1616(b) of this title, referred to in subsec. (c)(5)(D), (6)(C) was omit
 
 #### Grants to Native Group Corporations for Planning, Development, and Other Purposes
 
-Pub. L. 96–487, title XIV, §1413, Dec. 2, 1980, 94 Stat. 2498, provided that: “The Secretary shall pay by grant to each of the Native Group Corporations established pursuant to section 14(h)(2) of the Alaska Native Claims Settlement Act \[section 1613(h)(2) of this title\] and finally certified as a Native Group, an amount not more than $100,000 or less than $50,000 adjusted according to population of each Group. Funds authorized under this section may be used only for planning, development, and other purposes for which the Native Group Corporations are organized under the Settlement Act \[this chapter\].”
+Pub. L. 96–487, title XIV, §1413, Dec. 2, 1980, 94 Stat. 2498, provided that: “The Secretary shall pay by grantto each of the Native Group Corporations established pursuant to section 14(h)(2) of the Alaska Native Claims Settlement Act \[section 1613(h)(2) of this title\] and finally certified as a Native Group, an amount not more than $100,000 or less than $50,000 adjusted according to population of each Group. Funds authorized under this section may be used only for planning, development, and other purposes for which the Native Group Corporations are organized under the Settlement Act \[this chapter\].”
 
 #### Grants to Village Corporations for Planning, Development and Other Purposes
 

@@ -17,8 +17,6 @@
 
 1960—Pub. L. 86–533, §1(7)(B), June 29, 1960, 74 Stat. 247, struck out item 9805 “Reports to Congress”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “40102(a)(2)”.</i>
-
 
 ---
 

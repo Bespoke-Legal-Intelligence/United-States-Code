@@ -4,7 +4,7 @@
 
 (b) The Secretary may enter into multiyear lease agreements under subsection (a) of this section whenever the Secretary finds that—
 
-&emsp;(1) the use of such a lease agreement will promote the efficiency of the ATON, VTS, orNDS programs and will result in reduced total costs under the agreement;
+&emsp;(1) the use of such a lease agreement will promote the efficiency of the ATON, VTS, or NDS programs and will result in reduced total costs under the agreement;
 
 &emsp;(2) the minimum need for the real property or interest therein to be leased is expected to remain substantially unchanged during the contemplated lease period; and
 

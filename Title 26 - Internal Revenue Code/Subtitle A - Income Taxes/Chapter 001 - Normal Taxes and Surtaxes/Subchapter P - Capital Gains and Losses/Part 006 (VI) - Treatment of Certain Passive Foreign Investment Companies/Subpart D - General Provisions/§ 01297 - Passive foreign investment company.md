@@ -24,7 +24,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) derived in the active conduct of an insurance business by a corporation which is predominantly engaged in an insurance business and which would be subject to tax under subchapter L if it were a domestic corporation,
 
-&emsp;&emsp;(C) which is interest, a dividend, or a rent or royalty, which is received or accrued from a related person (within the meaning of section 954(d)(3)) to the extent such amount isproperly allocable (under regulations prescribed by the Secretary) to income of such related person which is not passive income, or
+&emsp;&emsp;(C) which is interest, a dividend, or a rent or royalty, which is received or accrued from a related person (within the meaning of section 954(d)(3)) to the extent such amount is properly allocable (under regulations prescribed by the Secretary) to income of such related person which is not passive income, or
 
 &emsp;&emsp;(D) which is foreign trade income of an FSC or export trade income of an export trade corporation (as defined in section 971).
 
@@ -46,7 +46,7 @@ For purposes of this part, the term “passive foreign investment company” doe
 
 #### (1) In general
 
-&emsp;For purposes of this part, a corporation shall not be treated with respect to a shareholder as a passive foreign investment company during the qualified portion of such shareholder's holding period with respect to stock in such corporation.
+&emsp;For purposes of this part, a corporation shall not be treated with respect to a shareholder asa passive foreign investment company during the qualified portion of such shareholder's holding period with respect to stock in such corporation.
 
 #### (2) Qualified portion
 

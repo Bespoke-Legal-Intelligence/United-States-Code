@@ -1,6 +1,6 @@
 ### §6396. State laws or programs
 
-No State law or State program in effect on December 22, 1975, or which may become effective thereafter, shall be superseded by any provision of subchapter I or II of this chapter or any rule, regulation, or order thereunder, except insofar as such State law or State program is in conflict with such provision, rule, regulation, or order.
+No State law or State program in effect on December 22, 1975, or which may become effective thereafter, shall be superseded by any provision of subchapter I or II of this chapter or any rule, regulation, or order thereunder, except insofaras such State law or State program is in conflict with such provision, rule, regulation, or order.
 
 (Pub. L. 94–163, title V, §526, Dec. 22, 1975, 89 Stat. 964.)
 

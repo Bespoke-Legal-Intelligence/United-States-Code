@@ -2,7 +2,7 @@
 
 #### (a) Practices adversely affecting public
 
-Upon the basis of facts disclosed by the reports of the Securities and Exchange Commission made to the Congress pursuant to section 78jj of this title and otherwise disclosed and ascertained, it is hereby declared that the national public interest and the interest of investors innotes, bonds, debentures, evidences of indebtedness, and certificates of interest or participation therein, which are offered to the public, are adversely affected—
+Upon the basis of facts disclosed by the reports of the Securities and Exchange Commission made to the Congress pursuant to section 78jj of this title and otherwise disclosed and ascertained, it is hereby declared that the national public interest and the interest of investors in notes, bonds, debentures, evidences of indebtedness, and certificates of interest or participation therein, which are offered to the public, are adversely affected—
 
 &emsp;(1) when the obligor fails to provide a trustee to protect and enforce the rights and to represent the interests of such investors, notwithstanding the fact that (A) individual action by such investors for the purpose of protecting and enforcing their rights is rendered impracticable by reason of the disproportionate expense of taking such action, and (B) concerted action by such investors in their common interest through representatives of their own selection is impeded by reason of the wide dispersion of such investors through many States, and by reason of the fact that information as to the names and addresses of such investors generally is not available to such investors;
 
@@ -18,7 +18,7 @@ Upon the basis of facts disclosed by the reports of the Securities and Exchange 
 
 #### (b) Declaration of policy
 
-Practices of the character above enumerated have existed to such an extent that, unless regulated, the public offering of notes, bonds, debentures, evidences of indebtedness, and certificates of interest or participation therein, by the use of means and instruments of transportation and communication in interstate commerce and of the mails, is injurious to the capital markets, to investors, and to the general public; and it is hereby declared to be the policy of this subchapter, in accordance with which policy all the provisions of this subchapter shall be interpreted, to meet the problems and eliminate the practices, enumerated in this section, connected with such public offerings.
+Practices of the character above enumerated have existed to such an extent that, unless regulated, the public offering of notes, bonds, debentures, evidences of indebtedness, and certificates of interest or participation therein, by the use of means and instruments of transportation and communication in interstate commerce and of the mails, is injurious to the capital markets, toinvestors, and to the general public; and it is hereby declared to be the policy of this subchapter, in accordance with which policy all the provisions of this subchapter shall be interpreted, to meet the problems and eliminate the practices, enumerated in this section, connected with such public offerings.
 
 (May 27, 1933, ch. 38, title III, §302, as added Aug. 3, 1939, ch. 411, 53 Stat. 1150.)
 

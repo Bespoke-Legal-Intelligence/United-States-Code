@@ -32,7 +32,7 @@
 
 &emsp;(ii) are reimbursable under any other provision of Federal law and a portion of such costs have already been paid under such other provision of Federal law.
 
-(C) The provisions of this paragraph shall not apply to, or take into account, any funds provided under any other provision of Federal law which are used for any purpose other than the direct payment of the costs incurred in training a particular adversely affected worker, even if such use has the effect of indirectly paying or reducing any portion of the costs involved in training the adversely affected worker.
+(C) The provisions of this paragraph shall not apply to, or take into account, any funds provided under any other provision of Federal law which are used for any purpose other than the direct payment of the costs incurred in training a particular adversely affected worker, even ifsuch use has the effect of indirectly paying or reducing any portion of the costs involved in training the adversely affected worker.
 
 (5) The training programs that may be approved under paragraph (1) include, but are not limited to—
 
@@ -102,7 +102,7 @@ The Secretary shall pay the costs of any on-the-job training of an adversely aff
 
 &emsp;(9) the employer has not received payment under subsection (a)(1) of this section with respect to any other on-the-job training provided by such employer which failed to meet the requirements of paragraphs (1), (2), (3), (4), (5), and (6), and
 
-&emsp;(10) the employer has not taken, at any time, any action which violated the terms of any certification described in paragraph (8) made by such employer with respect to any other on-the-job training provided by such employer for which the Secretary has made a payment under subsection (a)(1) of this section.
+&emsp;(10) the employer has not taken, at any time, any action which violated the terms of any certification described in paragraph (8) made by such employer with respect to anyother on-the-job training provided by such employer for which the Secretary has made a payment under subsection (a)(1) of this section.
 
 #### (d) Eligibility for unemployment insurance
 
@@ -120,7 +120,7 @@ Section 195(2) of the Vocational Education Act of 1963, referred to in subsec. (
 
 The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
 

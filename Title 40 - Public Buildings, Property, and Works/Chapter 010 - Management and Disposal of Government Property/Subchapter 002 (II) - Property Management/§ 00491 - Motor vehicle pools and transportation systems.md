@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to carry out the policy, expressed in section 471 of this title, to provide for an economical and efficient system for transportation of Government personnel and property, it is further intended by the Congress in enacting thissection to (1) provide for the proper identification of Government motor vehicles; (2) establish effective means of limiting their use to official governmental purposes; (3) reduce the number of Government-owned vehicles to the minimum necessary for transaction of the public business; (4) provide wherever practicable for centrally operated interagency pools or systems for local transportation of Government personnel and property; and (5) establish procedures to insure safe operation of motor vehicles on Government business.
+In order to carry out the policy, expressed in section 471 of this title, to provide for an economical and efficient system for transportation of Government personnel and property, it is further intended by the Congress in enacting this section to (1) provide for the proper identification of Government motor vehicles; (2) establish effective means of limiting their use to official governmental purposes; (3) reduce the number of Government-owned vehicles to the minimum necessary for transaction of the public business; (4) provide wherever practicable for centrally operated interagency pools or systems for local transportation of Government personnel and property; and (5) establish procedures to insure safe operation of motor vehicles on Government business.
 
 #### (b) Determinations by Administrator
 
@@ -20,7 +20,7 @@ The President shall, within ninety days after the effective date of this section
 
 #### (e) Justification for each vehicle pool and system
 
-Any determination made by the Administrator pursuant to subsection (b) of this section shall set forth in writing an analytical justification for the establishment, maintenance, and operation of each such motor vehicle pool and system. Such justification shall include a detailed comparison of estimated costs of present and proposed modes of operation, and a showing that savings can be realized by the establishment, maintenance, and operation of such pool or system.
+Any determination made by the Administrator pursuant to subsection (b) of this section shall set forth in writing an analytical justification for the establishment, maintenance, and operation of each such motor vehicle pool and system. Such justification shall include a detailed comparison of estimated costs of presentand proposed modes of operation, and a showing that savings can be realized by the establishment, maintenance, and operation of such pool or system.
 
 #### (f) Maintenance records; discontinuance of vehicle pool or system
 
@@ -28,7 +28,7 @@ Whenever any such motor vehicle pool or system has been established pursuant to 
 
 #### (g) Reimbursement for equipment
 
-Whenever the Administrator takes over pursuant to subsection (b) of this section any motor vehicle or other related equipment or supplies from any Government corporation, or from any other agency if such vehicle, equipment or supplies have been acquired by such agency through expenditures made from, and not theretofore reimbursed to, any revolving or trust fund authorized by law, the Administrator shall reimbursesuch corporation or fund by an amount equal to the fair market value of the vehicle, equipment or supplies so taken over. If thereafter, pursuant to subsection (f) of this section, the Administrator returns to such corporation or agency any motor vehicle, equipment or supplies, the Administrator shall be reimbursed by the payment to him, by such corporation or from such fund, of an amount equal to the fair market value of the vehicle, equipment or supplies so returned.
+Whenever the Administrator takes over pursuant to subsection (b) of this section any motor vehicle or other related equipment or supplies from any Government corporation, or from any other agency if such vehicle, equipment or supplies have been acquired by such agency through expenditures made from, and not theretofore reimbursed to, any revolving or trust fund authorized by law, the Administrator shall reimburse such corporation or fund by an amount equal to the fair market value of the vehicle, equipment or supplies so taken over. If thereafter, pursuant to subsection (f) of this section, the Administrator returns to such corporation or agency any motor vehicle, equipment or supplies, the Administrator shall be reimbursed by the payment to him, by such corporation or from such fund, of an amount equal to the fair market value of the vehicle, equipment or supplies so returned.
 
 #### (h) Additions to General Supply Fund capital
 
@@ -58,7 +58,7 @@ The effective date of this section, referred to in subsec. (c), means the effect
 
 #### Codification
 
-In subsecs. (b) and (<i>l</i>), “chapter 91 of title 31” substituted for “the Government Corporation Control Act \[31 U.S.C. 841 et seq.\]”, and “sections 1343, 1344, and 1349(b) of title 31” substituted for “section 5 of the Act of July 16, 1914, as amended \[31 U.S.C. 638a\]” and “such section 5”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsecs. (b) and (<i>l</i>), “chapter 91 of title 31” substituted for “the Government Corporation Control Act\[31 U.S.C. 841 et seq.\]”, and “sections 1343, 1344, and 1349(b) of title 31” substituted for “section 5 of the Act of July 16, 1914, as amended \[31 U.S.C. 638a\]” and “such section 5”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 239b of Title 41, Public Contracts.
 
@@ -74,7 +74,7 @@ Section was formerly classified to section 239b of Title 41, Public Contracts.
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “United States Civil Service Commission” in subsec. (j) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as providedby section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “United States Civil Service Commission” in subsec. (j) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Obligations for Multiyear Agreements for Lease or Other Acquisition of Motor Vehicles Entered Into by Administrator of General Services
 

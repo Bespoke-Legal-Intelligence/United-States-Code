@@ -20,7 +20,9 @@ Rates of Allowance Based on Food Costs.—(1) Through December 31, 2001, the mon
 
 &emsp;(B) the product of the monthly rate under subparagraph (A) and the percentage increase in the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age over the preceding fiscal year, as determined by the Secretary of Agriculture each October 1.
 
-(3) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shall be the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by thesame percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
+(3) The monthly rate of basic allowance for subsistence to be in effect for an officer for a year (beginning on January 1 of that year) shall be the amount equal to the monthly rate of basic allowance for subsistence in effect for officers for the preceding year, increased by the same percentage by which the rate of basic allowance for subsistence for enlisted members for the preceding year is increased effective on such January 1.
+
+(4) For purposes of implementing paragraph (2), the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for calendar year 2001 is deemed to be $233.
 
 (c)
 
@@ -46,7 +48,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations for the 
 
 (2) The regulations shall include the specific rates of basic allowance for subsistence required by subsection (b).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145; Pub. L. 107–107, div. A, title VI, §604(a), Dec. 28, 2001, 115 Stat. 1133.)
 
 Historical and Revision Notes
 
@@ -126,6 +128,8 @@ In subsection (e), the words “Effective April 15, 1955,” are omitted as exec
 
 #### Amendments
 
+2001—Subsec. (b)(4). Pub. L. 107–107 added par. (4).
+
 2000—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a)(1)\], substituted “Through December 31, 2001, the monthly rate” for “The monthly rate” in introductory provisions.
 
 Subsec. (b)(2), (3). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a)(2), (3)\], added par. (2) and redesignated former par. (2) as (3).
@@ -136,7 +140,7 @@ Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(b)\], subst
 
 1997—Pub. L. 105–85 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to basic allowance for subsistence for members of the uniformed services.
 
-1996—Subsec. (b). Pub. L. 104–106, §602(a), (b), designated first sentence as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of par. (1), designated second to fourth sentencesas par. (2), designated fifth and sixth sentences as par. (3), and added par. (4).
+1996—Subsec. (b). Pub. L. 104–106, §602(a), (b), designated first sentence as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of par. (1), designated second to fourth sentences as par. (2), designated fifth and sixth sentences as par. (3), and added par. (4).
 
 Subsec. (e)(1). Pub. L. 104–106, §602(c)(1)(A), substituted “subsection (b)(2)” for “the third sentence of subsection (b)”.
 
@@ -182,7 +186,17 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 Amendment by Pub. L. 93–419 effective Sept. 19, 1974, see section 9 of Pub. L. 93–419, set out as an Effective Date note under section 1009 of this title.
 
+#### Rate for Enlisted Members When Messing Facilities Not Available
+
+Pub. L. 107–107, div. A, title VI, §604(b), Dec. 28, 2001, 115 Stat. 1133, provided that:
+
+“(1) Notwithstanding section 402 of title 37, United States Code, the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe a rate of basic allowance for subsistence to apply to enlisted members of the uniformed services when messing facilities of the United States are not available. The rate may be higher than the rate of basic allowance for subsistence that would otherwise be applicable to the members under that section, but may not be higher than the highest rate that was in effect for enlisted members of the uniformed services under those circumstances before the date of the enactment of this Act \[Dec. 28, 2001\].
+
+“(2) Paragraph (1) shall cease to be effective on the first day of the first month for which the basic allowance for subsistence calculated for enlisted members of the uniformed services under section 402 of title 37, United States Code, exceeds the rate of the basic allowance for subsistence prescribed under paragraph (1).”
+
 #### Transitional Authority To Provide Basic Allowance for Subsistence
+
+Pub. L. 107–107, div. A, title VI, §604(c), Dec. 28, 2001, 115 Stat. 1134, provided that: “Notwithstanding the repeal of subsections (c) through (f) of section 602 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 37 U.S.C. 402 note) by section 603(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–145) \[see below\], the basic allowance for subsistence shall be paid in accordance with such subsections for October, November, and December of 2001.”
 
 Pub. L. 105–85, div. A, title VI, §602(c)–(f), Nov. 18, 1997, 111 Stat. 1772, as amended by Pub. L. 105–261, div. A, title VI, §604(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–398, §1 \[\[div. A, title X, §1087(e)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, which provided that a basic allowance for subsistence was to be paid to members of the uniformed services according to the conditions and at the rates provided in this note and not under the authority of this section during the period beginning on Jan. 1, 1998, and ending on the first day of the month immediately following the first month for which the monthly equivalent of the rate of basic allowance for subsistence payable to enlisted members of the uniformed services determined under this note was equal to or exceeded by the amount that would otherwise have been the monthly rate of basic allowance for subsistence under subsec. (b)(1) of this section, was repealed by Pub. L. 106–398, §1 \[\[div. A, title VI, §603(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145, effective Oct. 1, 2001.
 

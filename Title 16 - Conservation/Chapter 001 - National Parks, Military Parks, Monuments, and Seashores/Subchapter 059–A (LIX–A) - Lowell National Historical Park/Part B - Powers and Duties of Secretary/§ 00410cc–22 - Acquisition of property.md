@@ -32,7 +32,7 @@ Until the date on which the Commission conducts its first meeting, the Secretary
 
 #### (c) Easements; manner of acquisition
 
-The Secretary may acquire easements within the park for the purpose of carrying out this subchapter. Such easements may be acquired only as provided in subsection (a)(1) of this section.
+The Secretary may acquire easements within the park for the purpose of carrying out thissubchapter. Such easements may be acquired only as provided in subsection (a)(1) of this section.
 
 (Pub. L. 95–290, title II, §202, June 5, 1978, 92 Stat. 293.)
 

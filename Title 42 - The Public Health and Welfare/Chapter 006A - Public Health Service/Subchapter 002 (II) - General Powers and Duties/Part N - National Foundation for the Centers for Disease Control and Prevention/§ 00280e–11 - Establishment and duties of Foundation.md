@@ -204,7 +204,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(A) For the purpose of grants under paragraph (1), there is authorized to be appropriated $500,000 for each fiscal year.
 
-&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscal year make available not more than $500,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
+&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscalyear make available not more than $500,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
 
 #### (3) Certain restriction
 
@@ -274,7 +274,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;&emsp;(i) the entity will establish a committee that is composed in accordance with paragraph (4); and
 
-&emsp;&emsp;(ii) the entity will not select an individual for membership on the Committee unless the individual agrees that the Committee will operate in accordance with each of the provisions of this subsection that relate to the operation of the Committee.
+&emsp;&emsp;(ii) the entity will not select an individual for membership on the Committee unless theindividual agrees that the Committee will operate in accordance with each of the provisions of this subsection that relate to the operation of the Committee.
 
 &emsp;(C) The Secretary may make a grant referred to in subparagraph (A) only if the applicant for the grant makes an agreement that the grant will not be expended for any purpose other than carrying out subparagraph (B). Such a grant may be made only if an application for the grant is submitted to the Secretary containing such agreement, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Secretary determines to be necessary to carry out this paragraph.
 

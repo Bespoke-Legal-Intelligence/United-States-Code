@@ -4,7 +4,7 @@ An executive agency shall use a grant agreement as the legal instrument reflecti
 
 &emsp;(1) the principal purpose of the relationship is to transfer a thing of value to the State or local government or other recipient to carry out a public purpose of support or stimulation authorized by a law of the United States instead of acquiring (by purchase, lease, or barter) property or services for the direct benefit or use of the United States Government; and
 
-&emsp;(2) substantial involvement is not expected between the executive agency and the State, local government, or other recipient when carrying out the activity contemplated in the agreement.
+&emsp;(2) substantial involvement is not expected between the executive agency and the State,local government, or other recipient when carrying out the activity contemplated in the agreement.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1004.)
 

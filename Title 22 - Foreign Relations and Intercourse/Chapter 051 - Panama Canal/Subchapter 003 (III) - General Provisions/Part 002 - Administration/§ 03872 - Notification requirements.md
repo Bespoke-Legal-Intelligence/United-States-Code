@@ -6,7 +6,7 @@ The Panama Canal Commission shall provide written advance notification to the Co
 
 &emsp;(2) any payment estimated to be due the Republic of Panama under paragraph 4(c) of Article XIII of the Panama Canal Treaty of 1977, as provided by section 3751 of this title; and
 
-&emsp;(3) the initiation of any major capital acquisition or construction project exceeding $10,000,000 unless the proposed acquisition or project was included in the budget estimatessubmitted to Congress for the fiscal year in which the acquisition or project is to be undertaken.
+&emsp;(3) the initiation of any major capital acquisition or construction project exceeding $10,000,000 unless the proposed acquisition or project was included in the budget estimates submitted to Congress for the fiscal year in which the acquisition or project is to be undertaken.
 
 (Pub. L. 101–189, div. C, title XXXV, §3503, Nov. 29, 1989, 103 Stat. 1689.)
 

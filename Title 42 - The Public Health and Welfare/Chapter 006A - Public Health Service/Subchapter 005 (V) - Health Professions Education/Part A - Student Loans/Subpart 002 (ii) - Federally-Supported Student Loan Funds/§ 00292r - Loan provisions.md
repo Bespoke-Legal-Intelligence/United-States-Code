@@ -94,7 +94,7 @@ The Secretary is authorized to attempt to collect any loan which was made under 
 
 #### (2) Prohibition
 
-&emsp;Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school that has an agreement with the Secretary pursuant to section 292q of this title that is seeking the repayment of the amount due from a borrower on a loan made under this subpart after the default of the borrower on such loan.
+&emsp;Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school that has an agreement with the Secretary pursuant to section 292q of thistitle that is seeking the repayment of the amount due from a borrower on a loan made under this subpart after the default of the borrower on such loan.
 
 (July 1, 1944, ch. 373, title VII, §722, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2012; amended Pub. L. 103–43, title XX, §2014(b), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §134(a), (b)(1), Nov. 13, 1998, 112 Stat. 3577, 3578.)
 

@@ -8,7 +8,7 @@ In the case of each failure to file a statement of a payment to another person r
 
 &emsp;(2) section 6044(a)(2) (relating to payments of patronage dividends aggregating less than $10),
 
-> on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid (upon notice and demand by the Secretary and in the same manner as tax) by the person failing to so file the statement, $1 for each such statement not so filed, but the totalamount imposed on the delinquent person for all such failures during the calendar year shall not exceed $1,000.
+> on the date prescribed therefor (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not to willful neglect, there shall be paid (upon notice and demand by the Secretary and in the same manner as tax) by the person failing to so file the statement, $1 for each such statement not so filed, but the total amount imposed on the delinquent person for all such failures during the calendar year shall not exceed $1,000.
 
 #### (b) Failure to report tips
 
@@ -194,7 +194,7 @@ Subsec. (m). Pub. L. 101–239, §7208(b)(2), redesignated subsec. (<i>l</i>) as
 
 <b>1988</b>—Subsec. (j). Pub. L. 100–647, §1017(b), amended subsec. (j) as it existed prior to its repeal by Pub. L. 100–203, §10502(d)(11), by inserting “(and the corresponding provision of section 4041(d)(1))” after “section 4041(a)(1)”, see 1987 Amendment note below.
 
-Subsec. (k)(2)(B). Pub. L. 100–647, §3021(a)(10), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the employer-provided benefit (within the meaning of section 89 without regard to subsection (g)(3) thereof) with respect to the employee to whom such failure relates.” See Codification note above.
+Subsec. (k)(2)(B). Pub. L. 100–647, §3021(a)(10), amended subpar. (B) generally. Prior to amendment, subpar.\(B) read as follows: “the employer-provided benefit (within the meaning of section 89 without regard to subsection (g)(3) thereof) with respect to the employee to whom such failure relates.” See Codification note above.
 
 Pub. L. 100–647, §1011B(a)(10), substituted “subsection (g)(3)(C)(i)” for “subsection (g)(3)”. See Codification note above.
 
@@ -270,7 +270,7 @@ Subsec. (a)(2), (3). Pub. L. 98–67, §105(b)(1)(A), (C), added par. (2), redes
 
 Subsec. (a). Pub. L. 97–448, which directed that “or” be struck out at end of subpar. (F) of par. (1), “or” be inserted at end of par. (2), a new par. (3) be added, and that in provision following par. (3), “paragraph (2) or (3)” be substituted for “paragraph (2)”, was executed by striking out “or” at end of subpar. (A)(vi) of par. (1), inserting “or” at end of subpar. (B)(iv) of par. (1), redesignating par. (3) as subpar. (C) and adding such subpar. (C), to par. (1), and in provision following subpar. (C) substituting “subparagraph (B) or (C)” for “subparagraph (B)”, to reflect the probable intent of Congress and the intervening amendment of subsec. (a) by section 315(a) of Pub. L. 97–248 which redesignated former par. (1) as subpar. (A), former subpars. (A) to (F) as cls. (i) to (vi), and former par. (2) as subpar. (B), and in provision following subpar. (B) as so redesignated, substituted “subparagraph (B)” for “paragraph (2)”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–248, §315(a), designated existing provisions as par. (1) with a heading “In general”, redesignated former par. (1) as subpar. (A), in subpar. (A) as so redesignated struck out “aggregate” before “amount”, redesignated former subpars. (A) through (F) as cls. (i) through (vi), respectively, in cls. (ii) and (iii) as so redesignated struck out “aggregating $10 or more” after “dividends”, in cl. (iv) as so redesignated substituted “(a)” for “(a)(1)” and struck out “aggregating $10 or more” after “interest”, in cl. (vi) as so redesignated inserted “6042(e), 6044(f), 6049(e), or” before “6051(d)”, redesignated former par. (2) as subpar. (B), in subpar. (B) as so redesignated designated from “section 6052(a)” through the end of the parenthesis as cl. (iii) and struck out “with respect to group-term life insurance on the life of an employee” thereafter, added cls. (i), (ii), and (iv), in text after cl. (iv) substituted “subparagraph (A)” for “paragraph (1)”, “subparagraph (B)” for “paragraph (2)”, “$50 for each such failure” for “$10 for each such failure”, and “shall not exceed $50,000” for “shall not exceed $25,000”, and added par. (2).
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §315(a), designated existing provisions as par. (1) with a heading “In general”, redesignated former par. (1) as subpar. (A), insubpar. (A) as so redesignated struck out “aggregate” before “amount”, redesignated former subpars. (A) through (F) as cls. (i) through (vi), respectively, in cls. (ii) and (iii) as so redesignated struck out “aggregating $10 or more” after “dividends”, in cl. (iv) as so redesignated substituted “(a)” for “(a)(1)” and struck out “aggregating $10 or more” after “interest”, in cl. (vi) as so redesignated inserted “6042(e), 6044(f), 6049(e), or” before “6051(d)”, redesignated former par. (2) as subpar. (B), in subpar. (B) as so redesignated designated from “section 6052(a)” through the end of the parenthesis as cl. (iii) and struck out “with respect to group-term life insurance on the life of an employee” thereafter, added cls. (i), (ii), and (iv), in text after cl. (iv) substituted “subparagraph (A)” for “paragraph (1)”, “subparagraph (B)” for “paragraph (2)”, “$50 for each such failure” for “$10 for each such failure”, and “shall not exceed $50,000” for “shall not exceed $25,000”, and added par. (2).
 
 Subsec. (b). Pub. L. 97–248, §309(b)(2), struck out pars. (3) and (4) which referred to section 6049(a)(2) and section 6049(a)(3), respectively, as sources of authority for the requirement of filing a statement of payment to another person.
 
@@ -384,7 +384,7 @@ Amendment by section 1151(b) of Pub. L. 99–514 applicable to years beginning a
 
 Amendment by section 1301(g) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Amendment by section 1501(d)(1)(A) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31,1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by section 1501(d)(1)(A) of Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 Amendment by section 1702(b) of Pub. L. 99–514 applicable to sales after first calendar quarter beginning more than 60 days after Oct. 22, 1986, see section 1702(c) of Pub. L. 99–514, set out as a note under section 4041 of this title.
 
@@ -518,7 +518,7 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

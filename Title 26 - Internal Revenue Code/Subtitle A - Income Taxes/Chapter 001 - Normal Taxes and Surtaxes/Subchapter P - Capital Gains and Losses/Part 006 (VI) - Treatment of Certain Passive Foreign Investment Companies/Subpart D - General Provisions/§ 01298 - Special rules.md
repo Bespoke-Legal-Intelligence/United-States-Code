@@ -20,7 +20,7 @@ For purposes of this part—
 
 #### (B) 50-percent limitation not to apply to PFIC
 
-&emsp;&emsp;For purposes of determining whether a shareholder of a passive foreign investment company is treated as owning stock owned directly or indirectly by or for such company, subparagraph (A) shall be applied without regard to the 50-percent limitation contained therein. Section 1297(e) shall notapply in determining whether a corporation is a passive foreign investment company for purposes of this subparagraph.
+&emsp;&emsp;For purposes of determining whether a shareholder of a passive foreign investment company is treated as owning stock owned directly or indirectly by or for such company, subparagraph (A) shall be applied without regard to the 50-percent limitation contained therein. Section 1297(e) shall not apply in determining whether a corporation is a passive foreign investment company for purposes of this subparagraph.
 
 #### (3) Partnerships, etc.
 
@@ -100,7 +100,7 @@ For purposes of this part—
 
 &emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;(i) a foreign corporation is subject to the tax imposed by section 531 (or waives anybenefit under any treaty which would otherwise prevent the imposition of such tax), and
+&emsp;&emsp;&emsp;(i) a foreign corporation is subject to the tax imposed by section 531 (or waives any benefit under any treaty which would otherwise prevent the imposition of such tax), and
 
 &emsp;&emsp;&emsp;(ii) such foreign corporation owns at least 25 percent (by value) of the stock of a domestic corporation,
 
@@ -118,7 +118,7 @@ For purposes of this part—
 
 If stock in a passive foreign investment company is owned (or treated as owned under subsection (a)) by a pooled income fund (as defined in section 642(c)(5)) and no portion of any gain from a disposition of such stock may be allocated to income under the terms of the governing instrument of such fund—
 
-&emsp;(1) section 1291 shall not apply to any gain on a disposition of such stock by such fund if (without regard to section 1291) a deduction would be allowable with respect to such gain under section 642(c)(3),
+&emsp;(1) section 1291 shall not apply to any gain on a disposition of such stock by such fund if\(without regard to section 1291) a deduction would be allowable with respect to such gain under section 642(c)(3),
 
 &emsp;(2) section 1293 shall not apply with respect to such stock, and
 
@@ -206,7 +206,7 @@ Subsec. (b)(1). Pub. L. 105–34, §1122(e), inserted “(determined without reg
 
 Subsec. (d)(2). Pub. L. 104–188, §1703(i)(5)(B), in heading substituted “Amount taken into account” for “Determination of adjusted basis”.
 
-Subsec. (d)(2)(A). Pub. L. 104–188, §1703(i)(5)(A), substituted “The amount taken into account under section 1296(a)(2) with respect to any asset” for “The adjusted basis of any asset”.
+Subsec. (d)(2)(A). Pub. L. 104–188, §1703(i)(5)(A), substituted “The amount taken into account under section1296(a)(2) with respect to any asset” for “The adjusted basis of any asset”.
 
 Subsec. (d)(3)(B). Pub. L. 104–188, §1501(b)(11), struck out “or section 956A” after “this part”.
 

@@ -84,7 +84,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12700
 
-Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30,1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493, set out below. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
+Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30, 1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
 
 #### Ex. Ord. No. 12881. Establishment of National Science and Technology Council
 
@@ -150,43 +150,9 @@ Sec. 5. <i>Administration</i>. (a) The Council will oversee the duties of the Fe
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 12882. President's Committee of Advisors on Science and Technology
+#### Executive Order No. 12882
 
-Ex. Ord. No. 12882, Nov. 23, 1993, 58 F.R. 62493, as amended by Ex. Ord. No. 12907, Apr. 14, 1994, 59 F.R. 18291, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to establish an advisory committee on science and technology, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. There is established the President's Committee of Advisors on Science and Technology (“PCAST”). PCAST shall be composed of not more than 19 members, one of whom shall be the Assistant to the President for Science and Technology (“Assistant”), and 18 of whom shall be distinguished individuals from the nonfederal sector appointed by the President. The nonfederal sector members shall be representative of the diverse perspectives and expertise in this Nation's investments in science and technology. The Assistant to the President for Science and Technology shall co-chair PCAST with a nonfederal sector member selected by the President.
-
-Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, through the Assistant, on matters involving science and technology.
-
-(b) In the performance of its advisory duties, PCAST shall assist the National Science and Technology Council (“Council”) in securing private sector involvement in its activities.
-
-Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide PCAST such information with respect to scientific and technological matters as required for the purpose of carrying out its functions.
-
-(b) In consultation with the Assistant to the President for Science and Technology, PCAST is authorized to convene ad hoc working groups to assist the Council.
-
-(c) Members of PCAST shall serve without any compensation for their work on PCAST. However, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
-
-(d) Any expenses of PCAST shall be paid from the funds available for the expenses of the Office of Science and Technology Policy.
-
-(e) The Office of Science and Technology Policy shall provide such administrative services as may be required.
-
-Sec. 4. <i>General</i>. (a) I have determined that the Committee shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.). Notwithstanding any other Executive order, the functions of the President under the Federal AdvisoryCommittee Act, as amended, except that of reporting to the Congress, which are applicable to PCAST shall be performed by the Office of Science and Technology Policy in accordance with the guidelines and procedures established by the Administrator of General Services.
-
-(b) PCAST shall terminate 2 years from the date of this order unless extended prior to that date.
-
-(c) Executive Orders Nos. 12700, 12768, and Section 2 of Executive Order No. 12869 \[set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees\] are hereby revoked.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Extension of Term of President's Committee of Advisors on Science and Technology
-
-Term of the President's Committee of Advisors on Science and Technology extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-Term of the President's Committee of Advisors on Science and Technology extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(g), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Committee on Advisors on Science and Technology extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Ex. Ord. No. 12882, Nov. 23, 1993, 58 F.R. 62493, as amended by Ex. Ord. No. 12907, Apr. 14, 1994, 59 F.R. 18291, which established the President's Committee of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13226, §4(c), Sept. 30, 2001, 66 F.R. 50524, set out below.
 
 #### Ex. Ord. No. 12975. Protection of Human Research Subjects and Creation of National Bioethics Advisory Commission
 
@@ -236,7 +202,7 @@ Sec. 6. <i>Priorities</i>. (a) As a first priority, NBAC shall direct its attent
 
 Sec. 7. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide NBAC with such information as it may require for purposes of carrying out its functions.
 
-(b) NBAC may conduct inquiries, hold hearings, and establish subcommittees, as necessary. The Assistantto the President for Science and Technology and the Secretary of Health and Human Services shall be notified upon establishment of each subcommittee, and shall be provided information on the name, membership (including chair), function, estimated duration, and estimated frequency of meetings of the subcommittee.
+(b) NBAC may conduct inquiries, hold hearings, and establish subcommittees, as necessary. The Assistant to the President for Science and Technology and the Secretary of Health and Human Services shall be notified upon establishment of each subcommittee, and shall be provided information on the name, membership (including chair), function, estimated duration, and estimated frequency of meetings of the subcommittee.
 
 (c) NBAC is authorized to conduct analyses and develop reports or other materials. In order to augment the expertise present on NBAC, the Secretary of Health and Human Services may contract for the services of nongovernmental consultants who may conduct analyses, prepare reports and background papers, or prepare other materials for consideration by NBAC, as appropriate.
 
@@ -252,6 +218,100 @@ Sec. 8. <i>General Provisions</i>. (a) Notwithstanding the provisions of any oth
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13226. President's Council of Advisors on Science and Technology
+
+Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to establish an advisory committee on science and technology, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is established the President's Council of Advisors on Science and Technology (PCAST). The PCAST shall be composed of not more than 25 members, one of whom shall be a Federal Government official designated by the President (the “Official”), and 24 of whom shall be nonfederal members appointed by the President and have diverse perspectives and expertise in science, technology, and the impact of science and technology on the Nation. The Official shall co-chair PCAST with a nonfederal member designated by the President.
+
+Sec. 2. <i>Functions</i>. (a) The PCAST shall advise the President, through the Official, on matters involving science and technology policy.
+
+(b) In performance of its advisory duties, the PCAST shall assist the National Science and Technology Council (NSTC) in securing private sector involvement in its activities.
+
+Sec. 3. <i>Administration</i>. (a) The heads of the executive departments and agencies shall, to the extent permitted by law, provide the PCAST with information concerning scientific and technological matters when requested by the PCAST co-chairs.
+
+(b) In consultation with the Official, the PCAST is authorized to convene ad hoc working groups to provide preliminary nonbinding information and advice directly to the PCAST.
+
+(c) Members shall serve without compensation for their work on the PCAST. However, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
+
+(d) Any expenses of the PCAST shall be paid from the funds available for the expenses of the Office of Science and Technology Policy.
+
+(e) The Office of Science and Technology Policy shall provide such administrative services as the PCAST may require, with the approval of the Official.
+
+Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive Order, the functions of the President with respect to the PCAST under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, shall be performed by the Office of Science and Technology Policy in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+(b) The PCAST shall terminate 2 years from the date of this order unless extended by the President prior to that date.
+
+(c) Executive Order 12882 of November 23, 1993; Executive Order 12907 of April 14, 1994; and section 1(h) of Executive Order 13138 of September 30, 1999 \[formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees\], are hereby revoked.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13237. Creation of the President's Council on Bioethics
+
+Ex. Ord. No. 13237, Nov. 28, 2001, 66 F.R. 59851, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is established the President's Council on Bioethics (the “Council”).
+
+Sec. 2. <i>Mission.</i>
+
+(a) The Council shall advise the President on bioethical issues that may emerge as a consequence of advances in biomedical science and technology. In connection with its advisory role, the mission of the Council includes the following functions:
+
+&emsp;(1) to undertake fundamental inquiry into the human and moral significance of developments in biomedical and behavioral science and technology;
+
+&emsp;(2) to explore specific ethical and policy questions related to these developments;
+
+&emsp;(3) to provide a forum for a national discussion of bioethical issues;
+
+&emsp;(4) to facilitate a greater understanding of bioethical issues; and
+
+&emsp;(5) to explore possibilities for useful international collaboration on bioethical issues.
+
+(b) In support of its mission, the Council may study ethical issues connected with specific technological activities, such as embryo and stem cell research, assisted reproduction, cloning, uses of knowledge and techniques derived from human genetics or the neurosciences, and end of life issues. The Council may also study broader ethical and social issues not tied to a specific technology, such as questions regarding the protection of human subjects in research, the appropriate uses of biomedical technologies, the moral implications of biomedical technologies, and the consequences of limiting scientific research.
+
+(c) The Council shall strive to develop a deep and comprehensive understanding of the issues that it considers. In pursuit of this goal, the Council shall be guided by the need to articulate fully the complex and often competing moral positions on any given issue, rather than by an overriding concern to find consensus. The Council may therefore choose to proceed by offering a variety of views on a particular issue, rather than attempt to reach a single consensus position.
+
+(d) The Council shall not be responsible for the review and approval of specific projects or for devising and overseeing regulations for specific government agencies.
+
+(e) In support of its mission, the Council may accept suggestions of issues for consideration from the heads of other Government agencies and other sources, as it deems appropriate.
+
+(f) In establishing priorities for its activities, the Council shall consider the urgency and gravity of the particular issue; the need for policy guidance and public education on the particular issue; the connection of the bioethical issue to the goal of Federal advancement of science and technology; and the existence of another entity available to deliberate appropriately on the bioethical issue.
+
+Sec. 3. <i>Membership.</i>
+
+(a) The Council shall be composed of not more than 18 members appointed by the President from among individuals who are not officers or employees of the Federal Government. The Council shall include members drawn from the fields of science and medicine, law and government, philosophy and theology, and other areas of the humanities and social sciences.
+
+(b) The President shall designate a member of the Council to serve as Chairperson.
+
+(c) The term of office of a member shall be 2 years, and members shall be eligible for reappointment. Members may continue to serve after the expiration of their terms until the President appoints a successor. A member appointed to fill a vacancy shall serve only for the unexpired term of such vacancy.
+
+Sec. 4. <i>Administration.</i>
+
+(a) Upon the request of the Chairperson, the heads of executive departments and agencies shall, to the extent permitted by law, provide the Council with information it needs for purposes of carrying out its functions.
+
+(b) The Council may conduct inquiries, hold hearings, and establish subcommittees, as necessary.
+
+(c) The Council is authorized to conduct analyses and develop reports or other materials.
+
+(d) Members of the Council may be compensated to the extent permitted by Federal law for their work on the Council. Members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), to the extent funds are available.
+
+(e) To the extent permitted by law, and subject to the availability of appropriations, the Department of Health and Human Services shall provide the Council with administrative support and with such funds as may be necessary for the performance of the Council's functions.
+
+(f) The Council shall have a staff headed by an Executive Director, who shall be appointed by the Secretary of Health and Human Services in consultation with the Chairperson. To the extent permitted by law, office space, analytical support, and additional staff support for the Council shall be provided by the Department of Health and Human Services or other executive branch departments and agencies as directed by the President.
+
+Sec. 5. <i>General Provisions.</i>
+
+(a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Council, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
+
+(b) The Council shall terminate 2 years from the date of this order unless extended by the President prior to that date.
+
+(c) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit, trust, or responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Strengthened Protections for Human Subjects of Classified Research
 
 Memorandum of President of the United States, Mar. 27, 1997, 62 F.R. 26369, provided:
@@ -262,7 +322,7 @@ I have worked hard to restore trust and ensure openness in government. This memo
 
 In January 1994, I established the Advisory Committee on Human Radiation Experiments (the “Advisory Committee”) to examine reports that the government had funded and conducted unethical human radiation experiments during the Cold War \[see Ex. Ord. No. 12891, set out as a note under section 2210 of this title\]. I directed the Advisory Committee to uncover the truth, recommend steps to right past wrongs, and propose ways to prevent unethical human subjects research from occurring in the future. In its October 1995 final report, the Advisory Committee recommended, among other things, that the government modify its policy governing classified research on human subjects (“Recommendations for Balancing National Security Interests and the Rights of the Public,” Recommendation 15, Final Report, Advisory Committee on Human Radiation Experiments). This memorandum sets forth policy changes in response to those recommendations.
 
-The Advisory Committee acknowledged that it is in the Nation's interest to continue to allow the government to conduct classified research involving human subjects where such research serves important national security interests. The Advisory Committee found, however, that classified human subjects research should be a “rare event” and that the “subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections.” The Advisory Committee was concerned about “exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified.” The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
+The Advisory Committee acknowledged that it is in the Nation's interest to continue to allow the government to conduct classified research involving humansubjects where such research serves important national security interests. The Advisory Committee found, however, that classified human subjects research should be a “rare event” and that the “subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections.” The Advisory Committee was concerned about “exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified.” The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
 
 —obtain informed consent from all human subjects;
 

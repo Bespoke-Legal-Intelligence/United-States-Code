@@ -24,7 +24,7 @@
 
 &emsp;(11) Ambulance service and home calls when medically necessary.
 
-&emsp;(12) Durable equipment, such as wheelchairs, iron lungs, and hospital beds may be provided on a loan basis.
+&emsp;(12) Durable equipment, which may be provided on a loan basis.
 
 &emsp;(13) Primary and preventive health care services for women (as defined in section 1074d(b) of this title).
 
@@ -32,21 +32,59 @@
 
 &emsp;(15) Prosthetic devices, as determined by the Secretary of Defense to be necessary because of significant conditions resulting from trauma, congenital anomalies, or disease.
 
+&emsp;(16) A hearing aid, but only for a dependent of a member of the uniformed services on active duty and only if the dependent has a profound hearing loss, as determined under standards prescribed in regulations by the Secretary of Defense in consultation with the administering Secretaries.
+
+&emsp;(17) Any rehabilitative therapy to improve, restore, or maintain function, or to minimize or prevent deterioration of function, of a patient when prescribed by a physician.
+
 (b) The following types of health care may not be provided under section 1076 of this title:
 
 &emsp;(1) Domiciliary or custodial care.
 
-&emsp;(2) Hearing aids, orthopedic footwear, and spectacles, except that, outside of the United States and at stations inside the United States where adequate civilian facilities are unavailable, such items may be sold to dependents at cost to the United States.
+&emsp;(2) Orthopedic footwear and spectacles, except that, outside of the United States and at stations inside the United States where adequate civilian facilities are unavailable, such items may be sold to dependents at cost to the United States.
 
 &emsp;(3) The elective correction of minor dermatological blemishes and marks or minor anatomical anomalies.
 
-(c) A dependent participating under a dental plan established under section 1076a of this title may not be provided dental care under section 1076(a) of this title except for emergency dental care, dental care provided outside the UnitedStates, and dental care that is not covered by such plan.
+(c) A dependent participating under a dental plan established under section 1076a of this title may not be provided dental care under section 1076(a) of this title except for emergency dental care, dental care provided outside the United States, and dental care that is not covered by such plan.
 
-(d)(1) Notwithstanding subsection (b)(1), hospice care may be provided under section 1076 of this title in facilities of the uniformed services to a terminally ill patient who chooses (pursuant to regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries) to receive hospice care rather than continuing hospitalization or other health care services for treatment of the patient's terminal illness.
+(d)(1) Notwithstanding subsection (b)(1), hospice care may be provided under section 1076 of this title in facilities of the uniformed services to a terminally ill patient who chooses (pursuant to regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries) to receive hospice care rather than continuing hospitalization or otherhealth care services for treatment of the patient's terminal illness.
 
 (2) In this section, the term “hospice care” means the items and services described in section 1861(dd) of the Social Security Act (42 U.S.C. 1395x(dd)).
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807.)
+(e)(1) Authority to provide a prosthetic device under subsection (a)(15) includes authority to provide the following:
+
+&emsp;(A) Any accessory or item of supply that is used in conjunction with the device for the purpose of achieving therapeutic benefit and proper functioning.
+
+&emsp;(B) Services necessary to train the recipient of the device in the use of the device.
+
+&emsp;(C) Repair of the device for normal wear and tear or damage.
+
+&emsp;(D) Replacement of the device if the device is lost or irreparably damaged or the cost of repair would exceed 60 percent of the cost of replacement.
+
+(2) An augmentative communication device may be provided as a voice prosthesis under subsection (a)(15).
+
+(3) A prosthetic device customized for a patient may be provided under this section only by a prosthetic practitioner who is qualified to customize the device, as determined under regulations prescribed by the Secretary of Defense in consultation with the administering Secretaries.
+
+(f)(1) Items that may be provided to a patient under subsection (a)(12) include the following:
+
+&emsp;(A) Any durable medical equipment that can improve, restore, or maintain the function of a malformed, diseased, or injured body part, or can otherwise minimize or prevent the deterioration of the patient's function or condition.
+
+&emsp;(B) Any durable medical equipment that can maximize the patient's function consistent with the patient's physiological or medical needs.
+
+&emsp;(C) Wheelchairs.
+
+&emsp;(D) Iron lungs.
+
+&emsp;(E) Hospital beds.
+
+(2) In addition to the authority to provide durable medical equipment under subsection (a)(12), any customization of equipment owned by the patient that is durable medical equipment authorized to be provided to the patient under this section or section 1079(a)(5) of this title, and any accessory or item of supply for any such equipment, may be provided to the patient if the customization, accessory, or item of supply is essential for—
+
+&emsp;(A) achieving therapeutic benefit for the patient;
+
+&emsp;(B) making the equipment serviceable; or
+
+&emsp;(C) otherwise assuring the proper functioning of the equipment.
+
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1447; amended Pub. L. 89–614, §2(4), Sept. 30, 1966, 80 Stat. 863; Pub. L. 98–525, title VI, §633(a), title XIV, §§1401(e)(3), 1405(22), Oct. 19, 1984, 98 Stat. 2544, 2617, 2623; Pub. L. 99–145, title VI, §651(b), Nov. 8, 1985, 99 Stat. 656; Pub. L. 102–190, div. A, title VII, §§702(a), 703, Dec. 5, 1991, 105 Stat. 1400, 1401; Pub. L. 103–160, div. A, title VII, §701(b), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §§703(b), 705, Oct. 5, 1994, 108 Stat. 2798, 2799; Pub. L. 104–201, div. A, title VII, §701(b)(1), Sept. 23, 1996, 110 Stat. 2587; Pub. L. 105–85, div. A, title VII, §702, Nov. 18, 1997, 111 Stat. 1807; Pub. L. 107–107, div. A, title VII, §§702, 703(a), 704, Dec. 28, 2001, 115 Stat. 1161, 1162.)
 
 Historical and Revision Notes
 
@@ -96,6 +134,18 @@ A prior section 1077, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to dist
 
 #### Amendments
 
+2001—Subsec. (a)(12). Pub. L. 107–107, §703(a)(1), substituted “which” for “such as wheelchairs, iron lungs, and hospital beds”.
+
+Subsec. (a)(16). Pub. L. 107–107, §702(1), added par. (16).
+
+Subsec. (a)(17). Pub. L. 107–107, §704, added par. (17).
+
+Subsec. (b)(2). Pub. L. 107–107, §702(2), substituted “Orthopedic footwear” for “Hearing aids, orthopedic footwear,”.
+
+Subsec. (e). Pub. L. 107–107, §702(3), added subsec. (e).
+
+Subsec. (f). Pub. L. 107–107, §703(a)(2), added subsec. (f).
+
 1997—Subsec. (a)(15). Pub. L. 105–85, §702(a), added cl. (15).
 
 Subsec. (b)(2). Pub. L. 105–85, §702(b), added par. (2) and struck out former par. (2) which read as follows: “Prosthetic devices, hearing aids, orthopedic footwear, and spectacles except that—
@@ -144,41 +194,7 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 #### Provision of Domiciliary and Custodial Care for Certain CHAMPUS Beneficiaries
 
-Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, § 701(a), (b), (c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, provided that:
-
-“(a)
-
-Continuation of Care.—(1) The Secretary of Defense may, in any case in which the Secretary makes the determination described in paragraph (2), continue to provide payment under the Civilian Health and Medical Program of the Uniformed Services (as defined in section 1072 of title 10, United States Code), for domiciliary or custodial care services provided to an eligible beneficiary that would otherwise be excluded from coverage under regulations implementing section 1077(b)(1) of such title or by the prohibition in section 1086(d)(1) of such title.
-
-“(2) A determination under this paragraph is a determination that discontinuation of payment for domiciliary or custodial care services or transition to provision of care under the individual case management program authorized by section 1079(a)(17) of such title would be—
-
-&emsp;“(A) inadequate to meet the needs of the eligible beneficiary; and
-
-&emsp;“(B) unjust to such beneficiary.
-
-“(3) As used in this section, the term ‘eligible beneficiary’ means a covered beneficiary (as that term is defined in section 1072 of title 10, United States Code) who, before the effective date of final regulations to implement the individual case management program authorized by section 1079(a)(17) of such title, were provided domiciliary or custodial care services for which the Secretary provided payment.
-
-“(4) The Secretary may provide payment for domiciliary or custodial care services provided to an eligible beneficiary for which payment was discontinued by reason of section 1086(d) of title 10, United States Code, and subsequently reestablished under other legal authority. Such payment is authorized for the period beginning on the date of discontinuation of payment for domiciliary or custodial care services and ending on the date of reestablishment of payment for such services.
-
-“(b)
-
-Prohibition on Establishment of Limited Transition Period.—The Secretary of Defense shall not place a time limit on the period during which the custodial care exclusions of the Department of Defense may be waived as part of the case management program of the Department.
-
-“(c)
-
-Survey of Case Management and Custodial Care Policies.—The Secretary of Defense shall conduct a survey of federally funded and State funded programs for the medical care and management of persons whose care is considered to be custodial in nature. The survey shall examine, but shall not be limited to—
-
-&emsp;“(1) a comparison of the case management program of the Department of Defense with similar Federal and State programs; and
-
-&emsp;“(2) a comparison between the case management program of the Department of Defense and the case management and custodial care coverage offered by at least 10 of the most subscribed private health insurance plans in the Federal Employees Health Benefits Program (at least 5 of which shall be managed care organizations), as determined in consultation with the Office of Personnel Management.
-
-“(d)
-
-Report on Survey of Case Management and Custodial Care Policies.—Not later than March 31, 2000, the Secretary shall submit a report on the survey required by subsection (c) to Congress. The Secretary shall include in the report any recommendations for legislative changes that the Secretary determines necessary to facilitate the case management of the Department of Defense, and a plan for any regulatory changes determined necessary by the Secretary. Such plan shall include any regulatory provisions that the Secretary determines necessary to address equitably the unique needs of the family members of active duty military personnel and to ensure the full integration of the case management program of the Department of Defense with other available family support services activities.
-
-“(e)
-
-Cost Limitation.—The total amount paid for services for eligible beneficiaries under subsection (a) for a fiscal year (together with the costs of administering the authority under that subsection) shall be included in the expenditures limited by section 1079(a)(17)(B) of title 10, United States Code.”
+Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, § 701(a), (b), (c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, related to the continued provision of domiciliary and custodial care for certain CHAMPUS beneficiaries, prohibited the establishment of a limited transition period for such program, required a survey and report of case management and custodial care policies, and provided for cost limitations for each fiscal year, prior to repeal by Pub. L. 107–107, div. A, title VII, §701(g)(1)(A), Dec. 28, 2001, 115 Stat. 1161.
 
 #### Obstetrical Care Facilities
 

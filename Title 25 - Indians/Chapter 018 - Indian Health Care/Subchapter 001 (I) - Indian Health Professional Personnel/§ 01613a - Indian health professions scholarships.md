@@ -24,7 +24,7 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 &emsp;(i) No period of internship, residency, or other advanced clinical training shall be counted as satisfying any period of obligated service that is required under this section.
 
-&emsp;(ii) The active duty service obligation of that individual shall commence not later than 90 days after the completion of that advanced clinical training (or by a date specified by the Secretary).
+&emsp;(ii) The active duty service obligation of that individual shall commence not later than 90 days after the completion of that advancedclinical training (or by a date specified by the Secretary).
 
 &emsp;(iii) The active duty service obligation will be served in the health profession of that individual, in a manner consistent with clauses (i) through (v) of subparagraph (A).
 

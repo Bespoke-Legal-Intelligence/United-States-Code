@@ -20,7 +20,7 @@ There is hereby established as an independent entity in the executive branch the
 
 (2) There are hereby transferred to the Commissioner, on January 31, 1989—
 
-&emsp;(A) all powers and duties of the Bureau of Indian Affairs derived from Public Law 99–190 (99Stat. at 1236) that relate to the relocation of members of the Navajo Tribe from lands partitioned to the Hopi Tribe, and
+&emsp;(A) all powers and duties of the Bureau of Indian Affairs derived from Public Law 99–190 (99 Stat. at 1236) that relate to the relocation of members of the Navajo Tribe from lands partitioned to the Hopi Tribe, and
 
 &emsp;(B) all funds appropriated for activities relating to such relocation pursuant to Public Law 99–190 (99 Stat. at 1236): <i>Provided</i>, That such funds shall be used by the Commissioner for the purpose for which such funds were appropriated to the Bureau of Indian Affairs. (B) <sup>1</sup> : <i>Provided further</i>, That for administrative purposes such funds shall be maintained in a separate account.
 
@@ -38,7 +38,7 @@ There is hereby established as an independent entity in the executive branch the
 
 #### (e) Administrative, fiscal, and housekeeping services; implementation of relocation plan; reasonable assistance by Federal departments or agencies; report to Congress
 
-(1) The Commissioner is authorized to provide for the administrative, fiscal, and housekeeping services of the Office of Navajo and Hopi Indian Relocation and is authorized to call upon any department or agency of the United States to assist him in implementing the relocation plan, except that the control over and responsibility for completing relocation shall remain in the Commissioner. In any case in which the Office calls upon any such department or agency for assistance under this section, such department or agency shall provide reasonable assistance so requested.
+(1) The Commissioner is authorized to provide for the administrative, fiscal, and housekeeping services of the Office of Navajo and Hopi Indian Relocation and is authorized to call upon any department or agency of the United States to assist him in implementing the relocation plan, except that the control over and responsibility for completing relocation shall remain in the Commissioner. In any case in which the Office calls upon any such department or agency for assistance under this section, such departmentor agency shall provide reasonable assistance so requested.
 
 (2) On failure of any agency to provide reasonable assistance as required under paragraph (1) of this subsection, the Commissioner shall report such failure to the Congress.
 

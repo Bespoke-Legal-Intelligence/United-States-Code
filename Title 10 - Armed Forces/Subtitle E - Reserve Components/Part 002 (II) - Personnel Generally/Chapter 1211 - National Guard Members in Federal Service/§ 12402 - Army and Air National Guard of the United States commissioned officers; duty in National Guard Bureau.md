@@ -22,5 +22,5 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 523, 641, 10507 of this title; title 32 section 107; title 37 section 204.
+This section is referred to in sections 523, 641, 10507, 12011 of this title; title 32 section 107; title 37 section 204.
 

@@ -1,6 +1,6 @@
 ### §1463. Sealed vessels and vehicles
 
-To avoid unnecessary inspection of merchandise imported from a contiguous country at the first port of arrival, the master of the vessel or the person in charge of the vehicle in which such merchandise is imported may apply to the customs officer of the United States stationed in the place from which such merchandise isshipped, and such officer may seal such vessel or vehicle. Any vessel or vehicle so sealed may proceed with such merchandise to the port of destination under such regulations as the Secretary of the Treasury may prescribe.
+To avoid unnecessary inspection of merchandise imported from a contiguous country at thefirst port of arrival, the master of the vessel or the person in charge of the vehicle in which such merchandise is imported may apply to the customs officer of the United States stationed in the place from which such merchandise is shipped, and such officer may seal such vessel or vehicle. Any vessel or vehicle so sealed may proceed with such merchandise to the port of destination under such regulations as the Secretary of the Treasury may prescribe.
 
 (June 17, 1930, ch. 497, title IV, §463, 46 Stat. 718.)
 

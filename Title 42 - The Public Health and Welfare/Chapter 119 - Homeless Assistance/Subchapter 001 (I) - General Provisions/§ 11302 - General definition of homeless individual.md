@@ -52,7 +52,7 @@ Amendment by section 101(f) \[title VIII, §405(d)(41)\] of Pub. L. 105–277 ef
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1486, 11362, 11403c, 12899f of this title; title 12 sections 1441a, 1821; title 26 section 42; title 29 section 2801; title 38 section 3771.
+This section is referred to in sections 1486, 11362, 11403c, 11434a, 12899f of this title; title 12 sections 1441a, 1821; title 26 section 42; title 29 section 2801; title 38 section 2002.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “ ‘homeless individual’ or ‘homeless person’ ”.</i>
 

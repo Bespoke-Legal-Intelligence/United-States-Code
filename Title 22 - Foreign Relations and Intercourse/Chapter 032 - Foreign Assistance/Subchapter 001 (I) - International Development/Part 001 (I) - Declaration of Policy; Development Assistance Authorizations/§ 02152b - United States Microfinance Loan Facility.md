@@ -62,7 +62,7 @@ The Administrator is authorized to establish a United States Microfinance Loan F
 
 #### (1) Allocation of funds
 
-&emsp;Of the amounts made available to carry out subchapter I of this chapter for the fiscal year2001, up to $5,000,000 may be made available for—
+&emsp;Of the amounts made available to carry out subchapter I of this chapter for the fiscal year 2001, up to $5,000,000 may be made available for—
 
 &emsp;&emsp;(A) the subsidy cost, as defined in section 661a(5) of title 2, to carry out this section; and
 

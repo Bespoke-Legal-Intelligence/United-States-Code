@@ -57,10 +57,14 @@
 | [321\.](%C2%A7%2000321%20-%20Special%20pay%20judge%20advocate%20continuation%20pay.md) | Special pay: judge advocate continuation pay. |
 | [322\.](%C2%A7%2000322%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md) | Special pay: 15-year career status bonus for members entering service on or after August 1, 1986. |
 | [323\.](%C2%A7%2000323%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20a%20critical%20military%20skill.md) | Special pay: retention incentives for members qualified in a critical military skill. |
+| [324\.](%C2%A7%2000324%20-%20Special%20pay%20accession%20bonus%20for%20new%20officers%20in%20critical%20skills.md) | Special pay: accession bonus for new officers in critical skills. |
+| [325\.](%C2%A7%2000325%20-%20Incentive%20bonus%20savings%20plan%20for%20education%20expenses%20and%20other%20contingencies.md) | Incentive bonus: savings plan for education expenses and other contingencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title VI, §§621(b), 622(a)(2), Dec. 28, 2001, 115 Stat. 1140, 1142, added items 324 and 325.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title VI, §§624(a)(2), (b)(2), 628(c), 633(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152, 1654A–153, 1654A–155, 1654A–158, added items 302i, 302j, 309, and 323 and struck out items 308a “Special pay: enlistment bonus” and 308f “Special pay: bonus for enlistment in the Army”.
 
@@ -86,7 +90,7 @@ Pub. L. 102–25, title VII, §702(a)(1), Apr. 6, 1991, 105 Stat. 117, substitut
 
 1986—Pub. L. 99–661, div. A, title VI, §634(a)(2), Nov. 14, 1986, 100 Stat. 3885, added item 316.
 
-1985—Pub. L. 99–145, title VI, §§639(e), 644(a)(2), Nov. 8, 1985, 99 Stat. 651, 653, substituted “dental officers of the armed forces” for “dentists” in item 302b, added item 308i, and struck out item 311 “Special pay: continuation pay for dentists in the armed forces”.
+1985—Pub. L. 99–145, title VI, §§639(e), 644(a)(2), Nov. 8, 1985, 99 Stat. 651, 653, substituted “dental officers of thearmed forces” for “dentists” in item 302b, added item 308i, and struck out item 311 “Special pay: continuation pay for dentists in the armed forces”.
 
 1984—Pub. L. 98–525, title VI, §623(b)(2), title XIV, §1402(b)(2), Oct. 19, 1984, 98 Stat. 2542, 2621, substituted “special duty assignment pay for enlisted members” for “proficiency pay for enlisted members” in item 307, and added item 306a.
 
@@ -124,9 +128,9 @@ Pub. L. 93–274, §1(1), (2), (4), May 6, 1974, 88 Stat. 94, 95, substituted �
 
 1963—Pub. L. 88–132, §§9(a)(2), 12(c), Oct. 2, 1963, 77 Stat. 216, 218, substituted “while on sea duty or duty at certain places” for “sea and foreign duty” in item 305, and added item 310.
 
-Chapter Referred to in Other Sections
+#### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 907, 1003 of this title; title 5 section 8440e; title 42 section 254d.
+This chapter is referred to in sections 907, 909, 1003 of this title; title 5 section 8440e; title 42 section 254d.
 
 
 ---
@@ -188,3 +192,5 @@ This chapter is referred to in sections 907, 1003 of this title; title 5 section
 - [&sect; 00321 - Special pay judge advocate continuation pay](%C2%A7%2000321%20-%20Special%20pay%20judge%20advocate%20continuation%20pay.md)
 - [&sect; 00322 - Special pay 15-year career status bonus for members entering service on or after August 1, 1986](%C2%A7%2000322%20-%20Special%20pay%2015-year%20career%20status%20bonus%20for%20members%20entering%20service%20on%20or%20after%20August%201%2C%201986.md)
 - [&sect; 00323 - Special pay retention incentives for members qualified in a critical military skill](%C2%A7%2000323%20-%20Special%20pay%20retention%20incentives%20for%20members%20qualified%20in%20a%20critical%20military%20skill.md)
+- [&sect; 00324 - Special pay accession bonus for new officers in critical skills](%C2%A7%2000324%20-%20Special%20pay%20accession%20bonus%20for%20new%20officers%20in%20critical%20skills.md)
+- [&sect; 00325 - Incentive bonus savings plan for education expenses and other contingencies](%C2%A7%2000325%20-%20Incentive%20bonus%20savings%20plan%20for%20education%20expenses%20and%20other%20contingencies.md)

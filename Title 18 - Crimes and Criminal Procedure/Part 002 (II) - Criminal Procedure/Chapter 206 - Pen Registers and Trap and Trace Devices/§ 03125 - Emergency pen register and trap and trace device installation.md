@@ -36,5 +36,5 @@ Subsec. (d). Pub. L. 103–322, §330008(3)(C), substituted “provider of” fo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3124 of this title; title 47 section 1002.
+This section is referred to in sections 2707, 3124 of this title; title 47 section 1002.
 

@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 104–208, §2408(d)(1), added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 ofPub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -20,7 +20,7 @@ It shall be unlawful for any person—
 
 &emsp;(8) to use, to his own advantage, or to reveal, other than to duly authorized officers or employees of the United States, or to the courts when relevant in any judicial proceeding under this subchapter or subchapter II of this chapter, any information acquired in the course of an inspection authorized by this subchapter concerning any method or process which as a trade secret is entitled to protection, or to use to his own advantage or reveal (other than as authorized by section 830 of this title) any information that is confidential under such section;
 
-&emsp;(9) who is a regulated person to engage in a regulated transaction without obtaining the identification required by 830(a)(3) of this title;
+&emsp;(9) who is a regulated person to engage in a regulated transaction without obtaining the identification required by 830(a)(3) of this title.<sup>1</sup>
 
 &emsp;(10) negligently to fail to keep a record or make a report under section 830 of this title; or
 
@@ -50,7 +50,7 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 (3) Except under the conditions specified in paragraph (2) of this subsection, a violation of this section does not constitute a crime, and a judgment for the United States and imposition of a civil penalty pursuant to paragraph (1) shall not give rise to any disability or legal disadvantage based on conviction for a criminal offense.
 
-(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68.)
+(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2),Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68.)
 
 #### References in Text
 
@@ -95,4 +95,6 @@ Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d)
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 843, 961 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section 830(a)(3) of this title;”.</i>
 

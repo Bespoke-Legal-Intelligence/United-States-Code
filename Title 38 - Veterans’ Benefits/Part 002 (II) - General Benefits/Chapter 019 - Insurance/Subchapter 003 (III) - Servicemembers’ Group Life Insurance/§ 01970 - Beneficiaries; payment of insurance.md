@@ -18,17 +18,19 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 (c) If, within two years after the death of the member or former member, no claim for payment has been filed by any person entitled under the order of precedence set forth in this section, and neither the Secretary nor the administrative office established by the insurance company or companies pursuant to section 1966(b) of this title has received any notice that any such claim will be made, payment may be made to a claimant as may in the judgment of the Secretary be equitably entitled thereto, and such payment shall be a bar to recovery by any other person.
 
-(d) The member may elect settlement of insurance under this subchapter either in a lump sumor in thirty-six equal monthly installments. If no such election is made by the member the beneficiary or beneficiaries may elect settlement either in a lump sum or in thirty-six equal monthly installments. If the member has elected settlement in a lump sum, the beneficiary or beneficiaries may elect settlement in thirty-six equal monthly installments.
+(d) The member may elect settlement of insurance under this subchapter either in a lump sum or in thirty-six equal monthly installments. If no such election is made by the member the beneficiary or beneficiaries may elect settlement either in a lump sum or in thirty-six equal monthly installments. If the member has elected settlement in a lump sum, the beneficiary or beneficiaries may elect settlement in thirty-six equal monthly installments.
 
 (e) Until and unless otherwise changed, a beneficiary designation and settlement option filed by a member with the member's uniformed service under prior provisions of law will be effective with respect to the increased insurance authorized under the Veterans’ Insurance Act of 1974 and the insurance shall be settled in the same proportionate amount as the portion designated for such beneficiary or beneficiaries bore to the amount of insurance heretofore in effect.
 
 (f) Notwithstanding the provisions of any other law, payment of matured Servicemembers’ Group Life Insurance or Veterans’ Group Life Insurance benefits may be made directly to a minor widow or widower on his or her own behalf, and payment in such case shall be a complete acquittance to the insurer.
 
-(g) Any payments due or to become due under Servicemembers’ Group Life Insurance or Veterans’ Group Life Insurance made to, or on account of, an insured or a beneficiary shall be exempt from taxation, shall be exempt from the claims of creditors, and shall not be liable to attachment, levy, or seizure by or under any legal or equitable process whatever, either before or after receipt by the beneficiary. The preceding sentence shall not apply to (1) collection of amounts not deducted from the member's pay, or collected from him by the Secretary concerned under section 1969(a) of this title, (2) levy under subchapter D of chapter 64 of the Internal Revenue Code of 1986 (26 U.S.C. 6331 et seq.) (relating to the seizure of property for collection of taxes), and (3) the taxation of any property purchased in part or wholly out of such payments.
+(g) Any payments due or to become due under Servicemembers’ Group Life Insurance or Veterans’ Group Life Insurance made to, or on account of, an insured or a beneficiary shall be exempt from taxation, shall be exempt from the claims of creditors, and shall not be liable to attachment, levy, or seizure by or under any legal or equitable process whatever, either before orafter receipt by the beneficiary. The preceding sentence shall not apply to (1) collection of amounts not deducted from the member's pay, or collected from him by the Secretary concerned under section 1969(a) of this title, (2) levy under subchapter D of chapter 64 of the Internal Revenue Code of 1986 (26 U.S.C. 6331 et seq.) (relating to the seizure of property for collection of taxes), and (3) the taxation of any property purchased in part or wholly out of such payments.
 
 (h) Insurance payable under this subchapter may not be paid in any amount to the extent that such amount would escheat to a State. Payment of insurance under this subchapter may not be made to the estate of the insured or the estate of any beneficiary of the insured unless it is affirmatively shown that any amount to be paid will not escheat to a State. Any amount to be paid under this subchapter shall be reduced to the extent necessary to comply with this subsection.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 883, §770; amended Pub. L. 91–291, §5, June 25, 1970, 84 Stat. 330; Pub. L. 93–289, §7, May 24, 1974, 88 Stat. 169; Pub. L. 97–295, §4(31), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title IV, §401(a), Oct. 14, 1982, 96 Stat. 1442; Pub. L. 99–576, title VII, §701(40), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, §14(b)(17), June 13, 1991, 105 Stat. 284; renumbered §1970 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title IV, §405(b)(1)(D), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 105–368, title III, §302(b), Nov. 11, 1998, 112 Stat. 3333.)
+(i) Any amount of insurance in force on an insurable dependent of a member under this subchapter on the date of the dependent's death shall be paid, upon the establishment of a valid claim therefor, to the member or, in the event of the member's death before payment to the member can be made, then to the person or persons entitled to receive payment of the proceeds of insurance on the member's life under this subchapter.
+
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 883, §770; amended Pub. L. 91–291, §5, June 25, 1970, 84 Stat. 330; Pub. L. 93–289, §7, May 24, 1974, 88 Stat. 169; Pub. L. 97–295, §4(31), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title IV, §401(a), Oct. 14, 1982, 96 Stat. 1442; Pub. L. 99–576, title VII, §701(40), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, §14(b)(17), June 13, 1991, 105 Stat. 284; renumbered §1970 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title IV, §405(b)(1)(D), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 105–368, title III, §302(b), Nov. 11, 1998, 112 Stat. 3333; Pub. L. 107–14, §4(e), June 5, 2001, 115 Stat. 29.)
 
 #### References in Text
 
@@ -37,6 +39,8 @@ Veterans’ Insurance Act of 1974, referred to in subsec. (e), is Pub. L. 93–2
 Subchapter D of chapter 64 of the Internal Revenue Code of 1986, referred to in subsec. (g)(3), is classified to subchapter D (§6331 et seq.) of chapter 64 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2001—Subsec. (i). Pub. L. 107–14 added subsec. (i).
 
 1998—Subsec. (g). Pub. L. 105–368, in first sentence, substituted “Any payments” for “Payments of benefits” and inserted “an insured or” after “or on account of,”.
 
@@ -71,6 +75,10 @@ Subsec. (e). Pub. L. 93–289, §7(2), substituted “the Veterans’ Insurance 
 Subsecs. (f), (g). Pub. L. 93–289, §7(3), included payment of benefits under Veterans’ Group Life Insurance.
 
 1970—Subsecs. (e) to (g). Pub. L. 91–291 added subsecs. (e) to (g).
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 days after June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 

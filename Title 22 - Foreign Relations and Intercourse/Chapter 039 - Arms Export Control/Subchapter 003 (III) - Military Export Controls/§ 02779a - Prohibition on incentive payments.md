@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) any corporation, business association, partnership, trust, or other juridical entity—
 
-&emsp;&emsp;&emsp;(i) organized under the laws of the United States or any State, the District of Columbia, or any territory or possession of the United States; or
+&emsp;&emsp;&emsp;(i) organized under the laws of the United States or any State, the District ofColumbia, or any territory or possession of the United States; or
 
 &emsp;&emsp;&emsp;(ii) owned or controlled in fact by individuals described in subparagraph (A) or by an entity described in clause (i).
 

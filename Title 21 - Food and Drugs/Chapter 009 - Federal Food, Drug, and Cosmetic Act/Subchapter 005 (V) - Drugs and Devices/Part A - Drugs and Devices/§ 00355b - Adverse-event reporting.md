@@ -1,0 +1,34 @@
+### §355b. Adverse-event reporting
+
+#### (a) Toll-free number in labeling
+
+Not later than one year after January 4, 2002, the Secretary of Health and Human Services shall promulgate a final rule requiring that the labeling of each drug for which an application is approved under section 505 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355\] (regardless of the date on which approved) include the toll-free number maintained by the Secretary for the purpose of receiving reports of adverse events regarding drugs and a statement that such number is to be used for reporting purposes only, not to receive medical advice. With respect to the final rule:
+
+&emsp;(1) The rule shall provide for the implementation of such labeling requirement in a manner that the Secretary considers to be most likely to reach the broadest consumer audience.
+
+&emsp;(2) In promulgating the rule, the Secretary shall seek to minimize the cost of the rule on the pharmacy profession.
+
+&emsp;(3) The rule shall take effect not later than 60 days after the date on which the rule is promulgated.
+
+#### (b) Drugs with pediatric market exclusivity
+
+#### (1) In general
+
+&emsp;During the one year beginning on the date on which a drug receives a period of market exclusivity under 505A <sup>1</sup> of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], any report of an adverse event regarding the drug that the Secretary of Health and Human Services receives shall be referred to the Office of Pediatric Therapeutics established under section 393a of this title. In considering the report, the Director of such Office shall provide for the review of the report by the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee, including obtaining any recommendations of such subcommittee regarding whether the Secretary should take action under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] in response to the report.
+
+#### (2) Rule of construction
+
+&emsp;Paragraph (1) may not be construed as restricting the authority of the Secretary of Health and Human Services to continue carrying out the activities described in such paragraph regarding a drug after the one-year period described in such paragraph regarding the drug has expired.
+
+(Pub. L. 107–109, §17, Jan. 4, 2002, 115 Stat. 1422.)
+
+#### References in Text
+
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+
+#### Codification
+
+Section was enacted as part of the Best Pharmaceuticals for Children Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+

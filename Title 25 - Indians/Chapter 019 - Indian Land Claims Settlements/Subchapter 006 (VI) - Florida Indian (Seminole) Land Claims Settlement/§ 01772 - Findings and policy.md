@@ -4,7 +4,7 @@ Congress finds and declares that—
 
 &emsp;(1) there is pending before the United States District Court for the southern district of Florida a lawsuit by the Seminole Tribe which involves certain lands within the State and there are also claims by the tribe to other areas of Florida by virtue of an 1839 Executive order of the President and by right of non-extinguishment of aboriginal possession which has been asserted but not filed in court;
 
-&emsp;(2) the pendency of this lawsuit and these claims may result in economic hardships forresidents of the State by clouding the titles to lands in the State, including lands not now involved in the lawsuit;
+&emsp;(2) the pendency of this lawsuit and these claims may result in economic hardships for residents of the State by clouding the titles to lands in the State, including lands not now involved in the lawsuit;
 
 &emsp;(3) the pendency of this lawsuit and these claims also have clouded the easement rights of the South Florida Water Management District in lands necessary for use as a water flowage and storage area, which is part of a federally authorized project for flood control and water management in central and southern Florida, and which is being used to provide and regulate a water supply for the residents of south Florida;
 

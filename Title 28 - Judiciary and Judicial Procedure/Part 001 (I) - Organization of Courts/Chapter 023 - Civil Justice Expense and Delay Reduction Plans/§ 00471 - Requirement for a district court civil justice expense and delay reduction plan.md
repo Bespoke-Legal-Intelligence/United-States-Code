@@ -1,6 +1,6 @@
 ### §471. Requirement for a district court civil justice expense and delay reduction plan
 
-There shall be implemented by each United States district court, in accordance with this chapter, a civil justice expense and delay reduction plan. The plan may be a plan developed by such district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and inexpensive resolutions of civil disputes.
+There shall be implemented by each United States district court, in accordance with thischapter, a civil justice expense and delay reduction plan. The plan may be a plan developed by such district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and inexpensive resolutions of civil disputes.
 
 (Added Pub. L. 101–650, title I, §103(a), Dec. 1, 1990, 104 Stat. 5090; amended Pub. L. 102–198, §2(1), Dec. 9, 1991, 105 Stat. 1623.)
 
@@ -30,7 +30,7 @@ Section 102 of Pub. L. 101–650 provided that: “The Congress makes the follow
 
 &emsp;&emsp;“(D) utilization of alternative dispute resolution programs in appropriate cases.
 
-&emsp;“(6) Because the increasing volume and complexity of civil and criminal cases imposes increasinglyheavy workload burdens on judicial officers, clerks of court, and other court personnel, it is necessary to create an effective administrative structure to ensure ongoing consultation and communication regarding effective litigation management and cost and delay reduction principles and techniques.”
+&emsp;“(6) Because the increasing volume and complexity of civil and criminal cases imposes increasingly heavy workload burdens on judicial officers, clerks of court, and other court personnel, it is necessary to create an effective administrative structure to ensure ongoing consultation and communication regarding effective litigation management and cost and delay reduction principles and techniques.”
 
 #### Implementation of Plans
 
@@ -108,7 +108,7 @@ Program Requirements.—(1) Ten district courts (in this section referred to as 
 
 Program Study Report.—(1) Not later than June 30, 1997, the Judicial Conference shall submit to the Committees on the Judiciary of the Senate and House of Representatives a report on the results of the pilot program under this section that includes an assessment of the extent to which costs and delays were reduced as a result of the program. The report shall compare those results to the impact on costs and delays in ten comparable judicial districts for which the application of section 473(a) of title 28, United States Code, had been discretionary. That comparison shall be based on a study conducted by an independent organization with expertise in the area of Federal court management.
 
-“(2)(A) The Judicial Conference shall include in its report a recommendation as to whether some or all district courts should be required to include, in their expense and delay reduction plans, the 6 principles andguidelines of litigation management and cost and delay reduction identified in section 473(a) of title 28, United States Code.
+“(2)(A) The Judicial Conference shall include in its report a recommendation as to whether some or all district courts should be required to include, in their expense and delay reduction plans, the 6 principles and guidelines of litigation management and cost and delay reduction identified in section 473(a) of title 28, United States Code.
 
 “(B) If the Judicial Conference recommends in its report that some or all district courts be required to include such principles and guidelines in their expense and delay reduction plans, the Judicial Conference shall initiate proceedings for the prescription of rules implementing its recommendation, pursuant to chapter 131 of title 28, United States Code.
 

@@ -44,7 +44,7 @@ In this subchapter, the following definitions apply:
 
 #### (5) Federal Guidelines for Dam Safety
 
-&emsp;The term “Federal Guidelines for Dam Safety” means the FEMA publication, numbered93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.
+&emsp;The term “Federal Guidelines for Dam Safety” means the FEMA publication, numbered 93 and dated June 1979, that defines management practices for dam safety at all Federal agencies.
 
 #### (6) FEMA
 
@@ -100,7 +100,7 @@ Section 215(a) of Pub. L. 104–303 provided that: “The purpose of this sectio
 
 #### Effect on Other Dam Safety Programs
 
-Section 215(b) of Pub. L. 104–303 provided that: “Nothing in this section (including the amendments made by this section) \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
+Section 215(b) of Pub. L. 104–303 provided that: “Nothing in this section (including the amendments made by this section) \[enacting this section and sections 467d to467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
 
 #### Section Referred to in Other Sections
 

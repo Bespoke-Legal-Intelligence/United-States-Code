@@ -2,7 +2,7 @@
 
 #### (a) “Biobased product” defined
 
-In this section, the term “biobased product” means a product suitable for food or nonfood usethat is derived in whole or in part from renewable agricultural and forestry materials.
+In this section, the term “biobased product” means a product suitable for food or nonfood use that is derived in whole or in part from renewable agricultural and forestry materials.
 
 #### (b) Coordination of biobased product activities
 
@@ -310,7 +310,7 @@ Meetings.—The Board shall meet at least quarterly to enable the Board to carry
 
 “(a)
 
-Establishment.—There is established the Biomass Research and Development Technical Advisory Committee, which shall supersede the Advisory Committee on Biobased Products and Bioenergy established by Executive Order No. 13134 \[set out below\]—
+Establishment.—There is established the Biomass Research and Development Technical AdvisoryCommittee, which shall supersede the Advisory Committee on Biobased Products and Bioenergy established by Executive Order No. 13134 \[set out below\]—
 
 &emsp;“(1) to advise the Secretary of Energy, the Secretary of Agriculture, and the points of contact concerning—
 
@@ -562,7 +562,7 @@ Initial Report.—Not later than 180 days after the date of the enactment of thi
 
 &emsp;“(2) describes the status of current biobased industrial product research and development efforts in both the Federal Government and private sector;
 
-&emsp;“(3) includes a section prepared by the Board that establishes a set of criteria to assess the potential of biobased industrial products, which shall include for both biomass production and transformation into biobased industrial products—
+&emsp;“(3) includes a section prepared by the Board that establishes a set of criteria to assess the potential ofbiobased industrial products, which shall include for both biomass production and transformation into biobased industrial products—
 
 &emsp;&emsp;“(A) an energy accounting;
 
@@ -594,7 +594,7 @@ Annual Reports.—For each fiscal year for which funds are made available to car
 
 #### Ex. Ord. No. 13134. Developing and Promoting Biobased Products and Bioenergy
 
-Ex. Ord. No. 13134, Aug. 12, 1999, 64 F.R. 44639, provided:
+Ex. Ord. No. 13134, Aug. 12, 1999, 64 F.R. 44639, as amended by Ex. Ord. No. 13225, §3(a), Sept. 28, 2001, 66 F.R. 50291, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to stimulate the creation and early adoption of technologies needed to make biobased products and bioenergy cost-competitive in large national and international markets, it is hereby ordered as follows:
 
@@ -622,23 +622,9 @@ Sec. 2. <i>Establishment of the Interagency Council on Biobased Products and Bio
 
 (f) The Council shall coordinate its activities with actions called for in all relevant Executive orders and shall not be in conflict with proposals advocated by other Executive orders.
 
-Sec. 3. <i>Establishment of Advisory Committee on Biobased Products and Bioenergy</i>. (a) The Secretary of Energy shall establish an “Advisory Committee on Biobased Products and Bioenergy” (“Committee”), under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), to provide information and advice for consideration by the Council. The Secretary of Energy shall, in consultation with other members of the Council, appoint up to 20 members of the advisory committee representing stakeholders including representatives from the farm, forestry, chemical manufacturing and other businesses, energy companies, electric utilities, environmental organizations, conservation organizations, the university research community, and other critical sectors. The Secretary of Energy shall designate Co-Chairs from among the members of the Committee.
+\[
 
-(b) Among other things, the Committee shall provide the Council with an independent assessment of:
-
-&emsp;(1) the goals established by the Federal agencies for developing and promoting biobased products and bioenergy;
-
-&emsp;(2) the balance of proposed research and development activities;
-
-&emsp;(3) the effectiveness of programs designed to encourage adoption and use of biobased products and bioenergy; and
-
-&emsp;(4) the environmental and economic consequences of biobased products and bioenergy use.
-
-Sec. 4. <i>Administration of the Advisory Committee</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the Department of Energy shall serve as the secretariat for, and provide the financial and administrative support to, the Committee.
-
-(b) The heads of agencies shall, to the extent permitted by law, provide to the Committee such information as it may reasonably require for the purpose of carrying out its functions.
-
-(c) The Committee Co-Chairs may, from time to time, invite experts to submit information to the Committee and may form subcommittees or working groups within the Committee to review specific issues.
+Secs. 3 and 4. Revoked by Ex. Ord. No. 13225, §3(a), Sept. 28, 2001, 66 F.R. 50291.\]
 
 Sec. 5. <i>Duties of the Departments of Agriculture and Energy</i>. The Secretaries of the Departments of Agriculture and Energy, to the extent permitted by law and subject to the availability of appropriations, shall each establish a working group on biobased products and biobased activities in their respective Departments. Consistent with the Federal biobased products and bioenergy strategic plans described in sections 2(c) and (d) of this order, the working groups shall:
 
@@ -646,7 +632,7 @@ Sec. 5. <i>Duties of the Departments of Agriculture and Energy</i>. The Secretar
 
 &emsp;(2) identify research activities and demonstration projects to address new opportunities in the areas of biomass production, biobased product and bioenergy production, and related fundamental research.
 
-The chair of each Department's working group shall be a senior official who reports directly to the agency head. If the Secretary of Agriculture or Energy serves on the Interagency Council on Biobased Products and Bioenergy through a designee, the designee should be the chair of the Department's working group.
+The chair of each Department's working group shall be a senior official who reports directly to the agency head. If the Secretary of Agriculture or Energy serveson the Interagency Council on Biobased Products and Bioenergy through a designee, the designee should be the chair of the Department's working group.
 
 Sec. 6. <i>Establishment of a National Biobased Products and Bioenergy Coordination Office</i>. Within 120 days of this order, the Secretaries of Agriculture and Energy shall establish a joint National Biobased Products and Bioenergy Coordination Office (“Office”) to ensure effective day-to-day coordination of actions designed to implement the strategic plans and guidance provided by the Council and respond to recommendations made by the Committee. All agencies represented on the Council, or that have capabilities and missions related to the work of the Council, shall be invited to participate in the operation of the Office. The Office shall:
 
@@ -665,6 +651,4 @@ Sec. 7. <i>Definitions</i>. For the purposes of this order: (a) The term “biom
 (d) The term “old growth timber” means timber of a forest from the late successional stage of forest development. The forest contains live and dead trees of various sizes, species, composition, and age class structure. The age and structure of old growth varies significantly by forest type and from one biogeoclimatic zone to another.
 
 Sec. 8. <i>Judicial Review</i>. This order does not create any enforceable rights against the Unites States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -34,7 +34,7 @@ Any permit issued under this section shall—
 
 &emsp;(iii) maintains facilities for the public display of marine mammals that are open to the public on a regularly scheduled basis and that access to such facilities is not limited or restricted other than by charging of an admission fee.
 
-(B) A permit under this paragraph shall grant to the person to which it is issued the right, without obtaining any additional permit or authorization under this chapter, to—
+(B) A permit under this paragraph shall grant to the person to which it is issued the right,without obtaining any additional permit or authorization under this chapter, to—
 
 &emsp;(i) take, import, purchase, offer to purchase, possess, or transport the marine mammal that is the subject of the permit; and
 
@@ -86,7 +86,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) taking or importation is likely to contribute significantly to maintaining or increasing distribution or numbers necessary to ensure the survival or recovery of the species or stock; and
 
-&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by the Secretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survival or recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
+&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by theSecretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survival or recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
 
 (B) A permit issued in accordance with this paragraph may allow the captive maintenance of a marine mammal from a depleted species or stock only if the Secretary—
 
@@ -126,7 +126,7 @@ Any permit issued under this section shall—
 
 &emsp;(C) meets the requirements of paragraph (4), in the case of a request for a permit under that paragraph.
 
-(8)(A) No additional permit or authorization shall be required to possess, sell, purchase, transport, export, or offer to sell or purchase the progeny of marine mammals taken or imported under this subsection, if such possession, sale, purchase, transport, export, or offer to sell or purchase is—
+(8)(A) No additional permit or authorization shall be required to possess, sell, purchase,transport, export, or offer to sell or purchase the progeny of marine mammals taken or imported under this subsection, if such possession, sale, purchase, transport, export, or offer to sell or purchase is—
 
 &emsp;(i) for the purpose of public display, and by or to, respectively, a person which meets the requirements of clauses (i), (ii), and (iii) of paragraph (2)(A);
 
@@ -210,7 +210,7 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 #### (h) General permits
 
-(1) Consistent with the regulations prescribed pursuant to section 1373 of this title and to therequirements of section 1371 of this title, the Secretary may issue an annual permit to a United States purse seine fishing vessel for the taking of such marine mammals, and shall issue regulations to cover the use of any such annual permits.
+(1) Consistent with the regulations prescribed pursuant to section 1373 of this title and to the requirements of section 1371 of this title, the Secretary may issue an annual permit to a United States purse seine fishing vessel for the taking of such marine mammals, and shall issue regulations to cover the use of any such annual permits.
 
 (2) Such annual permits for the incidental taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean shall be governed by section 1416 of this title, subject to the regulations issued pursuant to section 1413 of this title.
 

@@ -62,7 +62,7 @@ The least-cost energy strategy shall identify Federal priorities, including poli
 
 #### (e) Assumptions
 
-The Secretary shall include in the least-cost energy strategy an identification of all of the assumptions used in developing the strategy and priorities thereunder, and the reasons for such assumptions.
+The Secretary shall include in the least-cost energy strategy an identification of all of theassumptions used in developing the strategy and priorities thereunder, and the reasons for such assumptions.
 
 #### (f) Preference
 
@@ -76,7 +76,7 @@ The Secretary shall provide for a period of public review and comment of the lea
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original “this title” meaning title XVI of Pub. L.102–486, Oct. 24, 1992, 106 Stat. 2999, which enacted this subchapter and repealed sections 7361 to 7364 of this title.
+This subchapter, referred to in subsec. (a), was in the original “this title” meaning title XVI of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2999, which enacted this subchapter and repealed sections 7361 to 7364 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ The Congress commits itself to a sound balance between rural and urban America. 
 
 #### (b) Location of Federal facilities
 
-Congress hereby directs the heads of all executive departments and agencies of the Government to establish and maintain departmentalpolicies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception in section 1926(a)(7) <sup>1</sup> of this title.
+Congress hereby directs the heads of all executive departments and agencies of the Government to establish and maintain departmental policies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception in section 1926(a)(7) <sup>1</sup> of this title.
 
 (Pub. L. 91–524, title IX, §901, Nov. 30, 1970, 84 Stat. 1383; Pub. L. 92–419, title VI, §601, Aug. 30, 1972, 86 Stat. 674; Pub. L. 94–273, §7(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–355, §6, Sept. 24, 1980, 94 Stat. 1174.)
 

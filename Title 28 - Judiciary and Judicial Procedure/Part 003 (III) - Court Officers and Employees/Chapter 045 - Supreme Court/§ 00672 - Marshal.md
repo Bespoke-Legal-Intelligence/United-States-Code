@@ -2,7 +2,7 @@
 
 (a) The Supreme Court may appoint a marshal, who shall be subject to removal by the Court, and may fix his compensation.
 
-(b) The marshal may, with the approval of the Chief Justice of the United States, appoint andfix the compensation of necessary assistants and other employees to attend the Court, and necessary custodial employees.
+(b) The marshal may, with the approval of the Chief Justice of the United States, appoint and fix the compensation of necessary assistants and other employees to attend the Court, and necessary custodial employees.
 
 (c) The marshal shall:
 

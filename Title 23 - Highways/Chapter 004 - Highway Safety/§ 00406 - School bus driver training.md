@@ -4,7 +4,7 @@
 
 (b) A State program under this section shall be approved by the Secretary if such program—
 
-&emsp;(1) provide for the establishment and enforcement of qualifications for persons driving school buses;
+&emsp;(1) provides for the establishment and enforcement of qualifications for persons driving school buses;
 
 &emsp;(2) provides for initial education and training and for refresher courses;
 

@@ -44,7 +44,7 @@ For the purposes of the park established under this section, effective October 1
 
 #### (<i>l</i>) Monument
 
-Within the boundaries of the park, the Secretary is authorized to construct a monument which shall commemorate the loyalty of the people of Guam and the herosim of the American forces that liberated Guam.
+Within the boundaries of the park, the Secretary is authorized to construct a monument which shall commemorate the loyalty of the people of Guam and the herosim <sup>1</sup> of the American forces that liberated Guam.
 
 #### (m) Interpretive programs
 
@@ -52,7 +52,7 @@ Within the boundaries of the park, the Secretary is authorized to implement prog
 
 #### (n) Report on projected development costs
 
-Within six months after December 17, 1993, the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections (<i>l</i>) and (m) of this section, including, at a minimum, cost estimates for the design and construction of the monument authorized in section <sup>1</sup> (<i>l</i>) of this section.
+Within six months after December 17, 1993, the Secretary, through the Director of the National Park Service, shall develop and transmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report containing updated cost estimates for the development of the park. Further, this report shall contain a general plan to implement subsections (<i>l</i>) and (m) of this section, including, at a minimum, cost estimates for the design and construction of the monument authorized in section <sup>2</sup> (<i>l</i>) of this section.
 
 #### (<i>o</i>) Protection of vintage weapons and fortifications
 
@@ -86,7 +86,7 @@ Section 1 of Pub. L. 103–197 provided that: “Congress finds that—
 
 &emsp;“(4) Army, Navy, Marine Corps, and Coast Guard units distinguished themselves with their heroic bravery and sacrifice;
 
-&emsp;“(5) the Guam Insular Force Guard, the Guam militia, and the people of Guam earned the highest respect for their defense of the island during the Japanese invasion and their resistance during the occupation; their assistance to the American forces as scouts for the American invasion was invaluable; and their role, as members of the Guam Combat Patrol, was instrumental in seeking out the remaining Japanese forces and restoring peace to the island;
+&emsp;“(5) the Guam Insular Force Guard, the Guam militia, and the people of Guam earned the highest respect for their defense of the island during the Japanese invasion and their resistance during the occupation; their assistance to the American forces as scouts for the American invasion was invaluable; andtheir role, as members of the Guam Combat Patrol, was instrumental in seeking out the remaining Japanese forces and restoring peace to the island;
 
 &emsp;“(6) during the occupation, the people of Guam—
 
@@ -100,7 +100,7 @@ Section 1 of Pub. L. 103–197 provided that: “Congress finds that—
 
 &emsp;“(7) the liberation of the Mariana Islands marked a pivotal point in the Pacific war and led to the American victories at Iwo Jima, Okinawa, the Philippines, Taiwan, and the south China coast, and ultimately against the Japanese home islands;
 
-&emsp;“(8) the Mariana Islands of Guam, Saipan, and Tinian provided, for the first time during the war, airbases which allowed land-based American bombers to reach strategic targets in Japan; and
+&emsp;“(8) the Mariana Islands of Guam, Saipan, and Tinian provided, for the first time during the war, air bases which allowed land-based American bombers to reach strategic targets in Japan; and
 
 &emsp;“(9) the air offensive conducted from the Marianas against the Japanese war-making capability helped shorten the war and ultimately reduced the toll of lives to secure peace in the Pacific.”
 

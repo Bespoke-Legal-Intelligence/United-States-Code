@@ -34,7 +34,7 @@ For purposes of this section, the last date prescribed for payment of the tax sh
 
 #### (c) Suspension of interest in certain income, estate, gift, and certain excise tax cases
 
-In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period. In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.
+In the case of a deficiency as defined in section 6211 (relating to income, estate, gift, and certain excise taxes), if a waiver of restrictions under section 6213(d) on the assessment of such deficiency has been filed, and if notice and demand by the Secretary for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed onsuch deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand and interest shall not be imposed during such period on any interest with respect to such deficiency for any prior period. In the case of a settlement under section 6224(c) which results in the conversion of partnership items to nonpartnership items pursuant to section 6231(b)(1)(C), the preceding sentence shall apply to a computational adjustment resulting from such settlement in the same manner as if such adjustment were a deficiency and such settlement were a waiver referred to in the preceding sentence.
 
 #### (d) Income tax reduced by carryback or adjustment for certain unused deductions
 
@@ -50,7 +50,7 @@ In the case of a deficiency as defined in section 6211 (relating to income, esta
 
 #### (A) In general
 
-&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback,such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
+&emsp;&emsp;If any credit allowed for any taxable year is increased by reason of a credit carryback, such increase shall not affect the computation of interest under this section for the period ending with the filing date for the taxable year in which the credit carryback arises, or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, capital loss carryback, or other credit carryback from a subsequent taxable year, such increase shall not affect the computation of interest under this section for the period ending with the filing date for such subsequent taxable year.
 
 #### (B) Credit carryback defined
 
@@ -146,7 +146,7 @@ This section shall not apply to any failure to make a payment of tax imposed by 
 
 #### Adjustment of Dollar Amount Used in Determining “2-Percent Portion”
 
-<i>For adjustment of dollar amount used in determining “2-percent portion” for purpose of calculating interest under subsec. (j) of this section in the case of decedents dying in calendar year 2001, see section 3.25 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount used in determining “2-percent portion” for purpose of calculating interest under subsec. (j) of this section in the case of decedents dying in calendar year 2002, see section 3.27 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -436,7 +436,7 @@ Pub. L. 105–206, title III, §3801, July 22, 1998, 112 Stat. 782, provided tha
 
 #### Interest Not Payable on Underpayments Created or Increased by Tax Reform Act of 1976
 
-Section 305 of Pub. L. 95–30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“No interest shall be payable for any period before April 16, 1977 (March 16, 1977, in the case of a corporation), on any underpayment of a tax imposed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
+Section 305 of Pub. L. 95–30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “No interest shall be payable for any period before April 16, 1977 (March 16, 1977, in the case of a corporation), on any underpayment of a tax imposed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], to the extent that such underpayment was created or increased by any provision of the Tax Reform Act of 1976 \[Pub. L. 94–455\].”
 
 #### Interest on Underpayment
 
@@ -448,7 +448,7 @@ Section 83(e) of Pub. L. 85–866 provided that if by reason of the enactment of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 163, 815, 860, 936, 995, 1016, 1260, 1291, 1363, 2053, 5684, 6166, 6167, 6404, 6504, 6621, 7404, 7518 of this title; title 29 section 1307; title 46 App. section 1177.
+This section is referred to in sections 163, 815, 860, 936, 995, 1016, 1260, 1291, 1363, 2053, 5684, 6166, 6167, 6504, 6621, 7404, 7518 of this title; title 29 section 1307; title 46 App. section 1177.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

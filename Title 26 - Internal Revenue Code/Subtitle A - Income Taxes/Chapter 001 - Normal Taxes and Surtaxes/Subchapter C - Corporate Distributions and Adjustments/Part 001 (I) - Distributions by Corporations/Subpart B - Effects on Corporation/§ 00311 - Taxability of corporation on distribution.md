@@ -306,5 +306,5 @@ Section 905(c) of Pub. L. 91–172, as amended by Pub. L. 91–675, Jan. 12, 197
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 351, 355, 361, 852, 1248 of this title.
+This section is referred to in sections 351, 355, 361, 646, 852, 1248 of this title.
 

@@ -16,7 +16,7 @@ The other provisions of said section are obsolete and are no longer needed.
 
 Subsection (a) is new, but the provision contained in it is expressed or implied in numerous statutes relating to retirement of military personnel. It is believed desirable to include such a provision to prevent any misconstruction of retirement statutes, even though no change in existing law is intended on the point covered, either by other sections dealing with retirement or by this section.
 
-Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946 ed., §174, that it is desired to retain, and in addition designated the next higher grade for commissioned warrant officers as lieutenant (juniorgrade) because the pay of the commissioned warrant officers is the same as for the grade of lieutenant (junior grade) and advancing such officers to the grade of ensign would in some aspects not appear to be a promotion. 81st Congress, House Report No. 557.
+Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946 ed., §174, that it is desired to retain, and in addition designated the next higher grade for commissioned warrant officers as lieutenant (junior grade) because the pay of the commissioned warrant officers is the same as for the grade of lieutenant (junior grade) and advancing such officers to the grade of ensign would in some aspects not appear to be a promotion. 81st Congress, House Report No. 557.
 
 #### Amendments
 

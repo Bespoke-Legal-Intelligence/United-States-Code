@@ -1,6 +1,6 @@
 ### §377. Reimbursement
 
-(a) To the extent otherwise required by section 1535 of title 31 (popularly known as the “Economy Act”) or other applicable law, the Secretary of Defense shall require a civilian law enforcement agency to which support is provided under this chapter to reimburse the Department of Defense for that support.
+(a) To the extent otherwise required by section 1535 of title 31 (popularly known as the“Economy Act”) or other applicable law, the Secretary of Defense shall require a civilian law enforcement agency to which support is provided under this chapter to reimburse the Department of Defense for that support.
 
 (b) An agency to which support is provided under this chapter is not required to reimburse the Department of Defense for such support if such support—
 

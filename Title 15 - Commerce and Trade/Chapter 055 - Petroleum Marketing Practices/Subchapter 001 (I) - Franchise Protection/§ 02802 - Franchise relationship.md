@@ -98,7 +98,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 #### (c) Definition
 
-As used in subsection (b)(2)(C) of this section, the term “an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable” includes events such as—
+As used in subsection (b)(2)(C) of this section, the term “an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal ofthe franchise relationship is reasonable” includes events such as—
 
 &emsp;(1) fraud or criminal misconduct by the franchisee relevant to the operation of the marketing premises;
 

@@ -18,7 +18,7 @@ Another prior section 3711, Pub. L. 90–351, title I, §101, June 19, 1968, 82 
 
 Section 609AA of Pub. L. 98–473 provided that:
 
-“(a) Except as provided in subsection (b), this division and the amendments made by this title \[probablymeans division, see Short Title of 1984 Amendment note below\] shall take effect on the date of the enactment of this joint resolution \[Oct. 12, 1984\] or October 1, 1984, whichever is later.
+“(a) Except as provided in subsection (b), this division and the amendments made by this title \[probably means division, see Short Title of 1984 Amendment note below\] shall take effect on the date of the enactment of this joint resolution \[Oct. 12, 1984\] or October 1, 1984, whichever is later.
 
 “(b)(1) The amendment made by section 609F \[amending sections 3796 to 3796c of this title\] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984.
 
@@ -74,7 +74,7 @@ Pub. L. 94–430, §1, Sept. 29, 1976, 90 Stat. 1346, provided: “That this Act
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–83, §1, Aug. 6, 1973, 87 Stat. 197, provided: “That this Act \[enacting sections 3738, 3770, and 3771 of this title, reenacting sections 3334(a), 3734, 3735, 3745, 3750, 3750a, 3751 to 3755, 3757 to 3759, 3761 to 3765, and 3792 of this title and section 5314(55) of Title 5, Government Organization and Employees, renumbering former section 3748 as 3747 and repealing former section 3747 of this title, and amending this section, sections 3701, 3721 to 3725, 3731 to 3733, 3736, 3737, 3741 to 3744, 3746, 3750b to 3750d, 3756, 3760, 3766 to 3769, 3781, 3791, 3793, and 3795 of this title, sections 5108(c)(10), 5315(90), and 5316(133) of Title 5, and section 484(n) of Title 40, Public Buildings, Property, and Works\] may be cited as the ‘Crime Control Act of 1973’.”
+Pub. L. 93–83, §1, Aug. 6, 1973, 87 Stat. 197, provided: “That this Act \[enacting sections 3738, 3770, and 3771 ofthis title, reenacting sections 3334(a), 3734, 3735, 3745, 3750, 3750a, 3751 to 3755, 3757 to 3759, 3761 to 3765, and 3792 of this title and section 5314(55) of Title 5, Government Organization and Employees, renumbering former section 3748 as 3747 and repealing former section 3747 of this title, and amending this section, sections 3701, 3721 to 3725, 3731 to 3733, 3736, 3737, 3741 to 3744, 3746, 3750b to 3750d, 3756, 3760, 3766 to 3769, 3781, 3791, 3793, and 3795 of this title, sections 5108(c)(10), 5315(90), and 5316(133) of Title 5, and section 484(n) of Title 40, Public Buildings, Property, and Works\] may be cited as the ‘Crime Control Act of 1973’.”
 
 #### Short Title of 1970 Amendment
 

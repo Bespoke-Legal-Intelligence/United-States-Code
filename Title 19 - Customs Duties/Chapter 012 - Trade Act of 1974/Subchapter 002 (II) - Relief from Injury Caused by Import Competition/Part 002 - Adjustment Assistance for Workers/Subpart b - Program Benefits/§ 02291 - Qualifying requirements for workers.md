@@ -32,7 +32,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(C) does not have an unexpired waiting period applicable to him for any such unemployment insurance.
 
-&emsp;(4) Such worker, with respect to such week of unemployment, would not be disqualified for extended compensation payable under the Federal-State Extended Unemployment Compensation Act of 1970 by reason of the work acceptance and job search requirements in section 202(a)(3) of such Act.
+&emsp;(4) Such worker, with respect to such week of unemployment, would not be disqualifiedfor extended compensation payable under the Federal-State Extended Unemployment Compensation Act of 1970 by reason of the work acceptance and job search requirements in section 202(a)(3) of such Act.
 
 &emsp;(5) Such worker—
 
@@ -98,7 +98,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 &emsp;“(B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a job search program approved by the Secretary under section 2297(c) of this title.”
 
-Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
+Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating towithholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
 
 Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
@@ -166,7 +166,7 @@ Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204
 
 &emsp;“(2) with respect to weeks of unemployment beginning after September 30, 1981, payments of trade readjustment allowances as determined under such chapter 2 as amended by this subtitle, except that the maximum amount of trade readjustment allowances payable to such an individual for such weeks of unemployment shall be an amount equal to the product of the trade readjustment allowance payable to the individual for a week of total unemployment (as determined under section 232(a) as so amended \[section 2292(a) of this title\]) multiplied by a factor determined by subtracting from fifty-two the sum of—
 
-&emsp;&emsp;“(A) the number of weeks preceding the first week which begins after September 30, 1981, and which are within the period covered by the same certification under such chapter 2 as such week of unemployment, for which the individual was entitled to a trade readjustment allowance or unemployment insurance, or would have been entitled to such allowance or unemployment insurance if he had applied therefor, and
+&emsp;&emsp;“(A) the number of weeks preceding the first week which begins after September 30, 1981, and which are within the period covered by the samecertification under such chapter 2 as such week of unemployment, for which the individual was entitled to a trade readjustment allowance or unemployment insurance, or would have been entitled to such allowance or unemployment insurance if he had applied therefor, and
 
 &emsp;&emsp;“(B) the number of weeks preceding such first week that are deductible under section 232(d) (as in effect before the amendments made by section 2504) \[section 2392(d) of this title\];
 

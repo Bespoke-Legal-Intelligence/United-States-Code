@@ -12,7 +12,7 @@ Any person, upon whom any demand under section 1312 of this title for the produc
 
 (1) The custodian to whom any documentary material, answers to interrogatories, or transcripts of oral testimony are delivered shall take physical possession thereof, and shall be responsible for the use made thereof and for the return of documentary material, pursuant to this chapter.
 
-(2) The custodian may cause the preparation of such copies of such documentary material, answers to interrogatories, or transcripts of oral testimony as may be required for official use byany duly authorized official, employee, or agent of the Department of Justice under regulations which shall be promulgated by the Attorney General. Notwithstanding paragraph (3) of this subsection, such material, answers, and transcripts may be used by any such official, employee, or agent in connection with the taking of oral testimony pursuant to this chapter.
+(2) The custodian may cause the preparation of such copies of such documentary material, answers to interrogatories, or transcripts of oral testimony as may be required for official use by any duly authorized official, employee, or agent of the Department of Justice under regulations which shall be promulgated by the Attorney General. Notwithstanding paragraph (3) of this subsection, such material, answers, and transcripts may be used by any such official, employee, or agent in connection with the taking of oral testimony pursuant to this chapter.
 
 (3) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, answers to interrogatories, or transcripts of oral testimony, or copies thereof, so produced shall be available for examination, without the consent of the person who produced such material, answers, or transcripts, and, in the case of any product of discovery produced pursuant to an express demand for such material, of the person from whom the discovery was obtained, by any individual other than a duly authorized official, employee, or agent of the Department of Justice. Nothing in this section is intended to prevent disclosure to either body of the Congress or to any authorized committee or subcommittee thereof.
 
@@ -32,7 +32,7 @@ If any documentary material has been produced in the course of any antitrust inv
 
 &emsp;(2) no case or proceeding, in which such material may be used, has been commenced within a reasonable time after completion of the examination and analysis of all documentary material and other information assembled in the course of such investigation,
 
-> the custodian shall, upon written request of the person who produced such material, return to such person any such material (other than copies thereof furnished to the custodian pursuant to subsection (b) of this section or made by the Department of Justice pursuant to subsection (c) of this section) which has not passed into the control of any court, grand jury, or agency through the introduction thereof into the record of such case or proceeding.
+> the custodian shall, upon written request of the person who produced such material, return tosuch person any such material (other than copies thereof furnished to the custodian pursuant to subsection (b) of this section or made by the Department of Justice pursuant to subsection (c) of this section) which has not passed into the control of any court, grand jury, or agency through the introduction thereof into the record of such case or proceeding.
 
 #### (f) Appointment of successor custodians
 

@@ -16,7 +16,7 @@ Section 201 of the Revenue and Expenditure Control Act of 1968 (82 Stat. 251, 27
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
+Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
 #### Number of Inspectors
 

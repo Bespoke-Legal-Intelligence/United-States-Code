@@ -16,7 +16,7 @@ Section was not enacted as part of the Internal Security Act of 1950 which compr
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–208 substituted “chapter 4 of title II of the Immigration and Nationality Act” for “chapter 5, title II, of the Immigration and Nationality Act (66 Stat. 163)”.
+1996—Subsec. (b). Pub. L. 104–208 substituted “chapter 4 of title II of the Immigration and Nationality Act”for “chapter 5, title II, of the Immigration and Nationality Act (66 Stat. 163)”.
 
 #### Effective Date of 1996 Amendment
 

@@ -12,7 +12,7 @@ For the purposes of this chapter—
 
 &emsp;(5) The term “Indian” means a person who is a member of an Indian tribe.
 
-&emsp;(6) Except for the purposes of subchapter X of this chapter, the term “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians (including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims SettlementAct (Public Law 92–203; 85 Stat. 688) \[43 U.S.C. 1601 et seq.\]) which (A) is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or (B) is located on, or in proximity to, a Federal or State reservation or rancheria.
+&emsp;(6) Except for the purposes of subchapter X of this chapter, the term “Indian tribe” means any tribe, band, nation, or other organized group or community of Indians (including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (Public Law 92–203; 85 Stat. 688) \[43 U.S.C. 1601 et seq.\]) which (A) is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or (B) is located on, or in proximity to, a Federal or State reservation or rancheria.
 
 &emsp;(7) Except for the purposes of subchapter X of this chapter, the term “tribal organization” means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.
 
@@ -42,7 +42,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;&emsp;(i) an institution of higher education;
 
-&emsp;&emsp;&emsp;(ii) a local educational agency, as defined in section 8801 of title 20; or
+&emsp;&emsp;&emsp;(ii) a local educational agency, as defined in section 8801 <sup>1</sup> of title 20; or
 
 &emsp;&emsp;&emsp;(iii) a community-based organization;
 
@@ -238,7 +238,7 @@ For the purposes of this chapter—
 
 &emsp;(41) The term “supportive service” means a service described in section 3030d(a) of this title.
 
-&emsp;(42) The term “family violence” has the same meaning given the term in the Family Violence Prevention and Services Act (42 U.S.C. 10408) of this title.
+&emsp;(42) The term “family violence” has the same meaning given the term in the Family Violence Prevention and Services Act (42 U.S.C. 10408).
 
 &emsp;(43) The term “sexual assault” has the meaning given the term in section 3796gg–2 of this title.
 
@@ -249,6 +249,8 @@ For the purposes of this chapter—
 The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act of the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Social Security Act, referred to in par. (12), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+Section 8801 of title 20, referred to in par. (12)(E)(ii), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
 
 The Family Violence Prevention and Services Act, referred to in par. (42), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, as amended, which is classified generally to chapter 110 (§10401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10401 of this title and Tables.
 
@@ -359,4 +361,6 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3030s–1, 3796hh, 6862, 14041 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

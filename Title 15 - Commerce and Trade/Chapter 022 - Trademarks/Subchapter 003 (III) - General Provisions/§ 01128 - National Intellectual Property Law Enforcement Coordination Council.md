@@ -36,7 +36,7 @@ The Council shall report annually on its coordination activities to the Presiden
 
 Notwithstanding section 1346 of title 31 or section 610 of this Act, funds made available for fiscal year 2000 and hereafter by this or any other Act shall be available for interagency funding of the National Intellectual Property Law Enforcement Coordination Council.
 
-(Pub. L. 106–58, title VI, §653, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4741(b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–586.)
+(Pub. L. 106–58, title VI, §653, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–113, div. B, §1000(a)(9) \[titleIV, §4741(b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–586.)
 
 #### References in Text
 

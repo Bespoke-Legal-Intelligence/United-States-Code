@@ -8,7 +8,7 @@ Not later than 1 year after November 13, 2000, and every 10 years thereafter, th
 
 #### (1) In general
 
-&emsp;A State, or a consortium of two or more States or political subdivisions of States, may contract with an outside entity to perform the evaluation described in subsection (a) of this section.
+&emsp;A State, or a consortium of two or more States or political subdivisions of States, may contract with an outside entity to perform theevaluation described in subsection (a) of this section.
 
 #### (2) Methods
 

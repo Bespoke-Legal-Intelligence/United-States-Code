@@ -34,7 +34,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (F)(i) If the Secretary pays a claim under a guarantee issued under this subsection, the claim shall be subrogated fully to the rights satisfied by such payment, as may be provided by the Secretary.
 
-(ii) No State or local law, and no Federal law, shall preclude or limit the exercise by the Secretary of the Secretary's ownership rights in the portions of loans constituting the pool against which the certificates are issued.
+(ii) No State or local law, and no Federal law, shall preclude or limit the exercise by the Secretary of the Secretary's ownership rights in theportions of loans constituting the pool against which the certificates are issued.
 
 (3) On the adoption of final rules and regulations, the Secretary shall do the following:
 

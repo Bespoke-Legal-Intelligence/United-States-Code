@@ -4,7 +4,7 @@
 
 #### (1) Voluntary employees’ beneficiary associations, etc.
 
-&emsp;An organization described in paragraph (9) or (20) of subsection (c) of section 501 which ispart of a plan shall not be exempt from tax under section 501(a) unless such plan meets the requirements of subsection (b) of this section.
+&emsp;An organization described in paragraph (9) or (20) of subsection (c) of section 501 which is part of a plan shall not be exempt from tax under section 501(a) unless such plan meets the requirements of subsection (b) of this section.
 
 #### (2) Exception for collective bargaining agreements
 
@@ -54,7 +54,7 @@
 
 #### (7) Compensation limit
 
-&emsp;A plan shall not be treated as meeting the requirements of this subsection unless under the plan the annual compensation of each employee taken into account for any year does not exceed $150,000. The Secretary shall adjust the $150,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B). This paragraph shall not apply in determining whether the requirements of section 79(d) are met.
+&emsp;A plan shall not be treated as meeting the requirements of this subsection unless under the plan the annual compensation of each employee taken into account for any year does not exceed $200,000. The Secretary shall adjust the $200,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B). This paragraph shall not apply in determining whether the requirements of section 79(d) are met.
 
 #### (c) Requirement that organization notify Secretary that it is applying for tax-exempt status
 
@@ -70,11 +70,17 @@
 
 &emsp;In the case of any organization in existence on July 18, 1984, the time for giving notice under paragraph (1) shall not expire before the date 1 year after such date of the enactment.
 
-(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506–2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov. 10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472.)
+(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506–2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov. 10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472; Pub. L. 107–16, title VI, §611(c)(1), June 7, 2001, 115 Stat. 97.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(7). Pub. L. 103–66 substituted “Compensation limit” for “$200,000 compensation limit” in heading and “exceed $150,000. The Secretary shall adjust the $150,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B).” for “exceed $200,000. The Secretary shalladjust the $200,000 amount at the same time and in the same manner as under section 415(d).” in text.
+<b>2001</b>—Subsec. (b)(7). Pub. L. 107–16, §§611(c)(1), 901, temporarily substituted “$200,000” for “$150,000” in two places. See Effective and Termination Dates of 2001 Amendment note below.
+
+<b>1993</b>—Subsec. (b)(7). Pub. L. 103–66 substituted “Compensation limit” for “$200,000 compensation limit” in heading and “exceed $150,000. The Secretary shall adjust the $150,000 amount at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B).” for “exceed $200,000. The Secretary shall adjust the $200,000 amount at the same time and in the same manner as under section 415(d).” in text.
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–140, §203(a)(2), amended par. (1) to read as if amendments by Pub. L. 100–647, §1011B(a)(27)(C), had not been enacted, see 1988 Amendment note below.
 
@@ -123,6 +129,12 @@ Subsec. (b)(5). Pub. L. 99–514, §1114(b)(16), amended par. (5) generally. Pri
 Subsec. (b)(6). Pub. L. 99–514, §1151(j)(3), added par. (6).
 
 Subsec. (c)(2). Pub. L. 99–514, §1899A(16), substituted “July 18, 1984” for “the date of the enactment of the Tax Reform Act of 1984”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1993 Amendment
 

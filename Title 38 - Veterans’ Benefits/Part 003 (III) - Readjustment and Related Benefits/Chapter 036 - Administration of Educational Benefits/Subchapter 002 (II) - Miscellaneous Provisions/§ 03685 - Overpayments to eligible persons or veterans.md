@@ -8,7 +8,7 @@
 
 (d) Any overpayment referred to in subsection (a) or (b) of this section may be waived as to a veteran or eligible person as provided in section 5302 of this title. Waiver of any such overpayment as to a veteran or eligible person shall in no way release any educational institution from liability under subsection (b) of this section.
 
-(e)(1) Any amount collected from a veteran or eligible person pursuant to this section shall bereimbursed to the educational institution which is liable pursuant to subsection (b) of this section to the extent that collection was made from the educational institution.
+(e)(1) Any amount collected from a veteran or eligible person pursuant to this section shall be reimbursed to the educational institution which is liable pursuant to subsection (b) of this section to the extent that collection was made from the educational institution.
 
 (2) Nothing in this section or any other provision of this title shall be construed as (A) precluding the imposition of any civil or criminal liability under this title or any other law, or (B) requiring any institution of higher learning to maintain daily attendance records for any course leading to a standard college degree.
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 95–202 effective Nov. 23, 1977, see section 501 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3684, 3689 of this title.
+This section is referred to in sections 3020, 3684, 3689 of this title.
 

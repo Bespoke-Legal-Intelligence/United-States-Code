@@ -32,6 +32,10 @@ It is the purpose of this chapter—
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–110, title X, §1031, Jan. 8, 2002, 115 Stat. 1989, provided that: “This part \[part C (§§1031–1034) of title X of Pub. L. 107–110, enacting sections 11431 to 11435 of this title and provisions set out as a note below and amending provisions set out as a note below\] may be cited as the ‘McKinney-Vento Homeless Education Assistance Improvements Act of 2001’.”
+
 #### Short Title of 1994 Amendment
 
 Pub. L. 103–421, §1, Oct. 25, 1994, 108 Stat. 4346, provided that: “This Act \[amending section 11411 of this title and enacting and amending provisions set out as notes under section 2687 of Title 10, Armed Forces\] may cited as the ‘Base Closure Community Redevelopment and Homeless Assistance Act of 1994’.”
@@ -42,7 +46,7 @@ Pub. L. 103–120, §1, Oct. 27, 1993, 107 Stat. 1144, provided that: “This Ac
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: “This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b,11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this title to sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381 to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the ‘Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992’.”
+Pub. L. 102–550, title XIV, §1401, Oct. 28, 1992, 106 Stat. 4012, provided that: “This title \[enacting sections 11381 to 11389, 11391 to 11399, 11403e–4, 11404, 11405 to 11405b, 11406 to 11406b, 11407 to 11407b, 11408, and 11408a of this title, transferring sections 11404c to 11404e of this title to sections 11403e–1 to 11403e–3 of this title, respectively, amending sections 11318, 11319, 11346, 11352, 11374, 11375, 11377, 11401, 11403a, 11403c to 11403e, 11403g, 11403h, 11404a, and 11404b of this title, repealing sections 11381 to 11388, 11391 to 11394, 11404, 11405 to 11405c, and 11406 to 11406c of this title, enacting provisions set out as notes preceding section 11361 and under sections 11361, 11381, and 11411 of this title, amending provisions set out as a note under this section, and repealing provisions set out as notes under sections 11361, 11391, and 11399 of this title\] may be cited as the ‘Stewart B. McKinney Homeless Housing Assistance Amendments Act of 1992’.”
 
 #### Short Title of 1990 Amendment
 
@@ -56,9 +60,11 @@ Pub. L. 100–628, §1(a), Nov. 7, 1988, 102 Stat. 3224, provided that: “This 
 
 #### Short Title
 
-Section 101(a) of Pub. L. 100–77, as amended by Pub. L. 106–400, §1, Oct. 30, 2000, 114 Stat. 1675, provided that: “This Act \[enacting this chapter and sections 256 and 290cc–21 to 290cc–36 of this title, amending sections 254e, 290bb–1a, 290bb–2, and 5302 of this title, sections 2012, 2014, 2020, and 2025 of Title 7, Agriculture, sections 1205 and 1207a of Title 20, Education, sections 1503 and 1551 of Title 29, Labor, and section 484 of Title 40, Public Buildings, Property, and Works, repealing section 256a of this title, enacting provisions set out as notes under this section and section 290aa–3 of this title and sections 2012, 2014, and 2020 of Title 7, and amending provisions set out as notes under section 612c of Title 7 and section 1721 of Title 29\] may be cited as the ‘McKinney-Vento Homeless Assistance Act’.”
+Section 101(a) of Pub. L. 100–77, as amended by Pub. L. 106–400, §1, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–110, title X, §1034(a), Jan. 8, 2002, 115 Stat. 2006; Pub. L. 107–116, title VI, §634(a), Jan. 10, 2002, 115 Stat. 2228, provided that: “This Act \[enacting this chapter and sections 256 and 290cc–21 to 290cc–36 of this title, amending sections 254e, 290bb–1a, 290bb–2, and 5302 of this title, sections 2012, 2014, 2020, and 2025 of Title 7, Agriculture, sections 1205 and 1207a of Title 20, Education, sections 1503 and 1551 of Title 29, Labor, and section 484 of Title 40, Public Buildings, Property, and Works, repealing section 256a of this title, enacting provisions set out as notes under this section and section 290aa–3 of this title and sections 2012, 2014, and 2020 of Title 7, and amending provisions set out as notes under section 612c of Title 7 and section 1721 of Title 29\] may be cited as the ‘McKinney-Vento Homeless Assistance Act’.”
 
-\[Pub. L. 106–400, §1, which directed amendment of section 1(a) of Pub. L. 100–77, was executed by amending section 101(a) of Pub. L. 100–77, set out above, to reflect the probable intent of Congress.\]
+\[Pub. L. 107–110, title X, §1034(b), Jan. 8, 2002, 115 Stat. 2007, provided that: “The amendment made by subsection (a) \[amending section 1 of Pub. L. 106–400, which amended section 101(a) of Pub. L. 100–77 set out above\] shall be deemed to be effective on the date of enactment of Public Law 106–400.”\]
+
+\[Pub. L. 107–116, title VI, §634(b), Jan. 10, 2002, 115 Stat. 2228, provided that: “The amendment made by subsection (a) of this section \[which directed the amendment of section 101(a) of Pub. L. 100–77, set out above\] is deemed to have taken effect immediately after the enactment of Public Law 106–400 \[which was approved Oct. 30, 2000\] (114 Stat. 1675).”\]
 
 #### Regulations
 
@@ -78,7 +84,7 @@ Pub. L. 101–625, title VIII, §825, Nov. 28, 1990, 104 Stat. 4356, as amended 
 
 #### Report on Effect of Rent Control on Homelessness
 
-Pub. L. 100–628, title IV, §483, Nov. 7, 1988, 102 Stat. 3238, directed Secretary of Housing and Urban Development, within 12 months after Nov. 7, 1988, to submit to Congress a report evaluating the impact of local housing rent controls and regulations on rate of homelessness, and on the development, supply, availability, and affordability of housing, in major cities in the UnitedStates, with report to include additional specified information.
+Pub. L. 100–628, title IV, §483, Nov. 7, 1988, 102 Stat. 3238, directed Secretary of Housing and Urban Development, within 12 months after Nov. 7, 1988, to submit to Congress a report evaluating the impact of local housing rent controls and regulations on rate of homelessness, and on the development, supply, availability, and affordability of housing, in major cities in the United States, with report to include additional specified information.
 
 #### Requirement of Certain Study With Respect to Homelessness
 

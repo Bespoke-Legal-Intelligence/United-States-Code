@@ -32,13 +32,13 @@ For the purpose of carrying out this part—
 
 &emsp;(5) there are authorized to be appropriated such sums as may be necessary for the purpose of paying an administrative cost allowance in accordance with section 1078(f) of this title to guaranty agencies.
 
-> Sums appropriated under paragraphs (1), (2), (4), and (5) of this subsection shall remain available until expended. No additional sums are authorized to be appropriated under paragraphs (3) or (4) of this subsection by reason of the reenactment of such paragraphs by the Higher Education Amendments of 1986.
+> Sums appropriated under paragraphs (1), (2), (4), and (5) of this subsection shall remain available until expended. No additional sums are authorized to be appropriated under paragraph (3) or (4) of this subsection by reason of the reenactment of such paragraphs by the Higher Education Amendments of 1986.
 
 #### (c) Designation
 
 The program established under this part shall be referred to as the “Robert T. Stafford Federal Student Loan Program”. Loans made pursuant to sections 1077 and 1078 of this title shall be known as “Federal Stafford Loans”.
 
-(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673.)
+(Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8,July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673.)
 
 #### References in Text
 
@@ -60,7 +60,7 @@ A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 
 
 Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 
-1988—Subsec. (c). Pub. L. 100–369 substituted “shall be referred” for “may be referred” and inserted provisionidentifying loans made under this part as “Stafford Loans”.
+1988—Subsec. (c). Pub. L. 100–369 substituted “shall be referred” for “may be referred” and inserted provision identifying loans made under this part as “Stafford Loans”.
 
 Pub. L. 100–297 added subsec. (c).
 
@@ -92,7 +92,7 @@ Special Rules.—(1) Any provision of this Act or any amendment made by this Act
 
 &emsp;“(B) National programs under the Adult Education Act \[formerly 20 U.S.C. 1201 et seq.\].
 
-&emsp;“(C) Programs under the Indian Education Act \[Pub. L. 92–318, title IV, see Short Title note set out under former section 241aa of this title\].
+&emsp;“(C) Programs under the Indian Education Act \[Pub. L. 92–318, title IV, see Tables for classification\].
 
 &emsp;“(D) Programs under title II of the Education for Economic Security Act \[formerly 20 U.S.C. 3961 et seq.\].
 
@@ -114,7 +114,7 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 &emsp;“(1) as otherwise provided in such part B;
 
-&emsp;“(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to new borrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1987; or (B) are disbursed on or after July 1, 1987;
+&emsp;“(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to new borrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on orafter July 1, 1987; or (B) are disbursed on or after July 1, 1987;
 
 &emsp;“(3) the changes made in sections 425(a), 428(b)(1)(A), and 428(b)(1)(B) of the Act \[20 U.S.C. 1075(a), 1078(b)(1)(A), (B)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
 
@@ -136,7 +136,7 @@ New Borrowers.—For the purpose of this section, the term ‘new borrower’ me
 
 #### Study of Role of Guaranty Agencies
 
-Section 1401 of Pub. L. 102–325 directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1year of July 23, 1992, on the review, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Section 1401 of Pub. L. 102–325 directed Secretary of Education to review role of guaranty agencies within Federal Family Education Loan Program by examining administrative and financial operations of such agencies and the relationships between guaranty agencies and State governments and report to Congress within 1 year of July 23, 1992, on the review, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### General Accounting Office Reports
 

@@ -16,7 +16,7 @@ The Attorney General may deem a person or persons unable to initiate and maintai
 
 #### (c) “Parent” and “complaint” defined
 
-The term “parent” as used in this section includes any person standing in loco parentis. A “complaint” as used in this section is a writing or document within the meaning of section 1001, title 18.
+The term “parent” as used in this section includes any person standing in loco parentis. A“complaint” as used in this section is a writing or document within the meaning of section 1001, title 18.
 
 (Pub. L. 88–352, title IV, §407, July 2, 1964, 78 Stat. 248; Pub. L. 92–318, title IX, §906(a), June 23, 1972, 86 Stat. 375.)
 

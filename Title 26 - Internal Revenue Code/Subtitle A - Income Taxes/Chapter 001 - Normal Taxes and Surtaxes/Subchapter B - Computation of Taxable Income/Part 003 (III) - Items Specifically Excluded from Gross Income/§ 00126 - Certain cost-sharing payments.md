@@ -74,7 +74,7 @@ The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a)(7), is act July 2
 
 #### Prior Provisions
 
-A prior section 126 was renumbered section 139 of this title.
+A prior section 126 was renumbered section 140 of this title.
 
 #### Amendments
 

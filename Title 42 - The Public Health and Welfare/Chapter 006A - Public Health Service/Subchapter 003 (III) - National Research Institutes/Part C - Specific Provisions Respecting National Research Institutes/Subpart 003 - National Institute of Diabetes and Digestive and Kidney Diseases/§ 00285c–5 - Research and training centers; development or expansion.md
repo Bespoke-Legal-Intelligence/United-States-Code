@@ -2,7 +2,7 @@
 
 #### (a) Diabetes mellitus and related endocrine and metabolic diseases
 
-(1) Consistent with applicable recommendations of the National Commission on Diabetes, the Director of the Institute shall provide for the development or substantial expansion of centers for research and training in diabetes mellitus and related endocrine and metabolic diseases. Each center developed or expanded under this subsection shall—
+(1) Consistent with applicable recommendations of the National Commission on Diabetes, the Director of the Institute shall provide for the development or substantial expansion ofcenters for research and training in diabetes mellitus and related endocrine and metabolic diseases. Each center developed or expanded under this subsection shall—
 
 &emsp;(A) utilize the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such research and training qualifications as may be prescribed by the Secretary; and
 
@@ -18,7 +18,7 @@
 
 #### (b) Digestive diseases and related functional, congenital, metabolic disorders, and normal development of digestive tract
 
-Consistent with applicable recommendations of the National Digestive Diseases Advisory Board, the Director shall provide for the development or substantial expansion of centers for research in digestive diseases and related functional, congenital, metabolic disorders, and normal development of the digestive tract. Eachcenter developed or expanded under this subsection—
+Consistent with applicable recommendations of the National Digestive Diseases Advisory Board, the Director shall provide for the development or substantial expansion of centers for research in digestive diseases and related functional, congenital, metabolic disorders, and normal development of the digestive tract. Each center developed or expanded under this subsection—
 
 &emsp;(1) shall utilize the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such research qualifications as may be prescribed by the Secretary;
 

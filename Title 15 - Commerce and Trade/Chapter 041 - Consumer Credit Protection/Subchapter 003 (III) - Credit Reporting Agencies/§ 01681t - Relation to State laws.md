@@ -48,11 +48,11 @@ Subsections (b) and (c) of this section—
 
 &emsp;&emsp;(C) gives greater protection to consumers than is provided under this subchapter.
 
-(Pub. L. 90–321, title VI, §624, formerly §622, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970,84 Stat. 1136; renumbered §623, Pub. L. 102–537, §2(a), Oct. 27, 1992, 106 Stat. 3531; renumbered §624 and amended Pub. L. 104–208, div. A, title II, §§2413(a)(1), 2419, Sept. 30, 1996, 110 Stat. 3009–447, 3009–452.)
+(Pub. L. 90–321, title VI, §624, formerly §622, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1136; renumbered §623, Pub. L. 102–537, §2(a), Oct. 27, 1992, 106 Stat. 3531; renumbered §624 and amended Pub. L. 104–208, div. A, title II, §§2413(a)(1), 2419, Sept. 30, 1996, 110 Stat. 3009–447, 3009–452.)
 
 #### Codification
 
-Another section 624 of Pub. L. 90–321 is classified to section 1681u of this title.
+Another section 624 of Pub. L. 90–321 was renumbered section 625 and is classified to section 1681u of this title.
 
 #### Amendments
 

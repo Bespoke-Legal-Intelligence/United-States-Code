@@ -36,7 +36,7 @@ If a notice of the disposition of a mail voter registration application under se
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (c)(2)(A), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which is classified principally to subchapter I–G (§1973ff et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1973ff of this title and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (c)(2)(A), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

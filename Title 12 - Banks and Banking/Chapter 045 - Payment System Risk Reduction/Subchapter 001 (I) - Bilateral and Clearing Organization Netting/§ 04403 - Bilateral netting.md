@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the covered contractual payment obli
 
 #### (b) Limitation on obligation to make payment
 
-The only obligation, if any, of a financial institution to make payment with respect to covered contractual payment obligations to another financial institution shall be equal to its net obligation to such other financial institution, and no such obligation shall exist if there is no net obligation.
+The only obligation, if any, of a financial institution to make payment with respect to covered contractual payment obligations to another financial institution shall be equal to itsnet obligation to such other financial institution, and no such obligation shall exist if there is no net obligation.
 
 #### (c) Limitation on right to receive payment
 

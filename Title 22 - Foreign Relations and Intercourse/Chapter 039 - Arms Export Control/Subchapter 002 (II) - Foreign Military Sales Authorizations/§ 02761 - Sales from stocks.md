@@ -58,7 +58,7 @@ If the President determines it to be in the national interest pursuant to subsec
 
 &emsp;(ii) a NATO/SHAPE project.
 
-(B) The Secretary of Defense may reimburse the fund established to carry out section 2792(b) of this title in the amount of the charges waived under subparagraph (A) of this paragraph. Anysuch reimbursement may be made from any funds available to the Department of Defense.
+(B) The Secretary of Defense may reimburse the fund established to carry out section 2792(b) of this title in the amount of the charges waived under subparagraph (A) of this paragraph. Any such reimbursement may be made from any funds available to the Department of Defense.
 
 (C) As used in this paragraph—
 
@@ -90,7 +90,7 @@ The President may enter into North Atlantic Treaty Organization standardization 
 
 #### (i) Sales affecting combat readiness of Armed Forces; statement to Congress; limitation on delivery
 
-(1) Sales of defense articles and defense services which could have significant adverse effect on the combat readiness of the Armed Forces of the United States shall be kept to an absolute minimum. The President shall transmit to the Speaker of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate on the same day a written statement giving a complete explanation with respect to any proposal to sell, under this section or under authority of subchapter II–B of this chapter, any defense articles or defense services if such sale could have a significant adverse effect on the combat readiness of the Armed Forces of the United States. Each such statement shall be unclassified except to the extent that public disclosure of any item of information contained therein would be clearly detrimental to the security of the United States. Any necessarily classified information shall be confined to a supplemental report. Each such statement shall include an explanation relating to only one such proposal to sell and shall set forth—
+(1) Sales of defense articles and defense services which could have significant adverse effect on the combat readiness of the Armed Forces of the United States shall be kept to an absolute minimum. The President shall transmit to the Speaker of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate on the same day a written statement giving a complete explanation with respect to any proposal to sell, under this section or under authority of subchapter II–B ofthis chapter, any defense articles or defense services if such sale could have a significant adverse effect on the combat readiness of the Armed Forces of the United States. Each such statement shall be unclassified except to the extent that public disclosure of any item of information contained therein would be clearly detrimental to the security of the United States. Any necessarily classified information shall be confined to a supplemental report. Each such statement shall include an explanation relating to only one such proposal to sell and shall set forth—
 
 &emsp;(A) the country or international organization to which the sale is proposed to be made;
 
@@ -172,13 +172,13 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 #### (3) Credit for transaction
 
-&emsp;Upon acquisition and acceptance by the United States Government of a defense article under paragraph (1), the appropriate Foreign Military Sales account of the provider shall be credited to reflect the transaction.
+&emsp;Upon acquisition and acceptance by the United States Government of a defense articleunder paragraph (1), the appropriate Foreign Military Sales account of the provider shall be credited to reflect the transaction.
 
 #### (4) Relationship to certain other provisions of law
 
 &emsp;The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 
-(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428,1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498.)
+(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498.)
 
 #### References in Text
 
@@ -262,7 +262,7 @@ Subsec. (e)(2). Pub. L. 97–113, §104, authorized reduction or waiver of charg
 
 1980—Subsec. (a)(3). Pub. L. 96–533, §115(b)(2), included payment, in case of training sold to a purchaser currently receiving international military education and training assistance, of additional costs incurred by the United States Government in furnishing the training.
 
-Subsec. (c). Pub. L. 96–533, §102, designated existing provision as par. (1), substituted “training and advisingthat may engage United States personnel in combat activities” for “training, advising, or otherwise providing assistance regarding combat activities”, and added par. (2).
+Subsec. (c). Pub. L. 96–533, §102, designated existing provision as par. (1), substituted “training and advising that may engage United States personnel in combat activities” for “training, advising, or otherwise providing assistance regarding combat activities”, and added par. (2).
 
 Subsec. (g). Pub. L. 96–533, §103, authorized the President to enter into standardization agreements with Japan, Australia, and New Zealand.
 
@@ -306,7 +306,7 @@ Definitions.—For purposes of this section:
 
 &emsp;“(2) The term ‘PayGo scorecard’ means the estimates that are made by the Director of the Congressional Budget Office and the Director of the Office of Management and Budget under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\].”
 
-\[Qualifying offsetting legislation was enacted by Pub. L. 104–201, §3303, set out as a note under section 98d of Title 50, War and National Defense.\]
+\[Qualifying offsetting legislation was enacted by Pub. L. 104–201, §3303, listed in a Materials in the National Defense Stockpile table under section 98d of Title 50, War and National Defense.\]
 
 #### Effective Date of 1985 Amendment
 

@@ -44,7 +44,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 (2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall be subject to a registration requirement as a sex offender. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (4) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
-(3) The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.
+(3) The Director of the Bureau of Prisons shall inform a person described in paragraph (4) whois released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
 (4) A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
 
@@ -95,6 +95,50 @@ Subsecs. (c), (d). Pub. L. 105–119, §115(a)(8)(A)(iv), added subsec. (c) and 
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under section 14071 of Title 42, The Public Health and Welfare.
+
+#### Amenities or Personal Comforts
+
+Pub. L. 107–77, title VI, §611, Nov. 28, 2001, 115 Stat. 800, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Bureau of Prisons shall be used to provide the following amenities or personal comforts in the Federal prison system—
+
+&emsp;“(1) in-cell television viewing except for prisoners who are segregated from the general prison population for their own safety;
+
+&emsp;“(2) the viewing of R, X, and NC–17 rated movies, through whatever medium presented;
+
+&emsp;“(3) any instruction (live or through broadcasts) or training equipment for boxing, wrestling, judo, karate, or other martial art, or any bodybuilding or weightlifting equipment of any sort;
+
+&emsp;“(4) possession of in-cell coffee pots, hot plates or heating elements; or
+
+&emsp;“(5) the use or possession of any electric or electronic musical instrument.”
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 106–553, §1(a)(2) \[title VI, §611\], Dec. 21, 2000, 114 Stat. 2762, 2762A–105.
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §612\], Nov. 29, 1999, 113 Stat. 1535, 1501A–54.
+
+Pub. L. 105–277, div. A, §101(b) \[title VI, §611\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–113.
+
+Pub. L. 105–119, title VI, §611, Nov. 26, 1997, 111 Stat. 2517.
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §611\], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
+
+Pub. L. 104–134, title I, §101\[(a)\] \[title VI, §611\], Apr. 26, 1996, 110 Stat. 1321, 1321–64; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+#### Sexually Explicit Commercially Published Material
+
+Pub. L. 107–77, title VI, §614, Nov. 28, 2001, 115 Stat. 801, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Federal Bureau of Prisons may be used to distribute or make available any commercially published information or material to a prisoner when it is made known to the Federal official having authority to obligate or expend such funds that such information or material is sexually explicit or features nudity.”
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 106–553, §1(a)(2) \[title VI, §614\], Dec. 21, 2000, 114 Stat. 2762, 2762A–106.
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §615\], Nov. 29, 1999, 113 Stat. 1535, 1501A–54.
+
+Pub. L. 105–277, div. A, §101(b) \[title VI, §614\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–113.
+
+Pub. L. 105–119, title VI, §614, Nov. 26, 1997, 111 Stat. 2518.
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §614\], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
 
 #### Reimbursement for Certain Expenses Outside of Federal Institutions
 

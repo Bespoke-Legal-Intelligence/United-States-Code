@@ -6,7 +6,7 @@
 
 &emsp;The Commissioner shall make grants to, and enter into contracts with, States and public or nonprofit agencies and organizations (including institutions of higher education) to pay part of the cost of projects to provide training, traineeships, and related activities, including the provision of technical assistance, that are designed to assist in increasing the numbers of, and upgrading the skills of, qualified personnel (especially rehabilitation counselors) who are trained in providing vocational, medical, social, and psychological rehabilitation services, who are trained to assist individuals with communication and related disorders, who are trained to provide other services provided under this chapter, to individuals with disabilities, and who may include—
 
-&emsp;&emsp;(A) personnel specifically trained in providing employment assistance to individualswith disabilities through job development and job placement services;
+&emsp;&emsp;(A) personnel specifically trained in providing employment assistance to individuals with disabilities through job development and job placement services;
 
 &emsp;&emsp;(B) personnel specifically trained to identify, assess, and meet the individual rehabilitation needs of individuals with disabilities, including needs for rehabilitation technology;
 
@@ -136,7 +136,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of training a sufficient number of qualified interpreters to meet the communications needs of individuals who are deaf or hard of hearing, and individuals who are deaf-blind, the Commissioner, acting through a Federal office responsible for deafness and communicative disorders, may award grants to public or private nonprofitagencies or organizations to pay part of the costs—
+&emsp;&emsp;For the purpose of training a sufficient number of qualified interpreters to meet the communications needs of individuals who are deaf or hard of hearing, and individuals who are deaf-blind, the Commissioner, acting through a Federal office responsible for deafness and communicative disorders, may award grants to public or private nonprofit agencies or organizations to pay part of the costs—
 
 &emsp;&emsp;&emsp;(i) for the establishment of interpreter training programs; or
 

@@ -86,7 +86,7 @@ Federal Endangered Species Acts, referred to in subsec. (<i>l</i>)(3), are class
 
 #### Short Title
 
-Section 1 of Pub. L. 99–663 provided that: “This Act \[enacting this section and sections 544a to 544p of thistitle and amending sections 1274 and 1276 of this title\] may be referred to as the ‘Columbia River Gorge National Scenic Area Act’.”
+Section 1 of Pub. L. 99–663 provided that: “This Act \[enacting this section and sections 544a to 544p of this title and amending sections 1274 and 1276 of this title\] may be referred to as the ‘Columbia River Gorge National Scenic Area Act’.”
 
 #### Section Referred to in Other Sections
 

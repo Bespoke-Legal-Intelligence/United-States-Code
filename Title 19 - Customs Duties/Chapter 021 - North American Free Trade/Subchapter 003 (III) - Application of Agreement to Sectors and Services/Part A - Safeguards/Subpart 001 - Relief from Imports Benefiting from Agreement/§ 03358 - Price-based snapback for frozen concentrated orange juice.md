@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) each period of 5 consecutive business days in which the daily price for frozen concentrated orange juice is less than the trigger price; and
 
-&emsp;&emsp;(B) for each period determined under subparagraph (A), the first period occurringthereafter of 5 consecutive business days in which the daily price for frozen concentrated orange juice is greater than the trigger price.
+&emsp;&emsp;(B) for each period determined under subparagraph (A), the first period occurring thereafter of 5 consecutive business days in which the daily price for frozen concentrated orange juice is greater than the trigger price.
 
 #### (2) Notice of determinations
 

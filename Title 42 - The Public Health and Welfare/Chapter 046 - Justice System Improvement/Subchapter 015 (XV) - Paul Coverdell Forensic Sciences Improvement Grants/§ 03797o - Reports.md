@@ -2,7 +2,7 @@
 
 #### (a) Reports to Attorney General
 
-For each fiscal year for which a grant is awarded under this subchapter, each State thatreceives such a grant shall submit to the Attorney General a report, at such time and in such manner as the Attorney General may reasonably require, which report shall include—
+For each fiscal year for which a grant is awarded under this subchapter, each State that receives such a grant shall submit to the Attorney General a report, at such time and in such manner as the Attorney General may reasonably require, which report shall include—
 
 &emsp;(1) a summary and assessment of the program carried out with the grant;
 

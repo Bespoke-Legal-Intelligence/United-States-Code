@@ -128,7 +128,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (4) Programs
 
-&emsp;The Secretary shall ensure that the research focuses primarily on Head Start programs thatoperate in the 50 States, the Commonwealth of Puerto Rico, or the District of Columbia and that do not specifically target special populations.
+&emsp;The Secretary shall ensure that the research focuses primarily on Head Start programs that operate in the 50 States, the Commonwealth of Puerto Rico, or the District of Columbia and that do not specifically target special populations.
 
 #### (5) Analysis
 

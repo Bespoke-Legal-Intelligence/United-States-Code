@@ -74,7 +74,7 @@ Every establishment in any State registered with the Secretary pursuant to this 
 
 (2) Each person who registers with the Secretary under this section shall report to the Secretary once during the month of June of each year and once during the month of December of each year the following information:
 
-&emsp;(A) A list of each drug or device introduced by the registrant for commercial distribution which has not been included in any list previously filed by him with the Secretary under this subparagraph or paragraph (1) of this subsection. A list under this subparagraph shall list a drug or device by its established name (as defined in section 352(e) of this title), and by any proprietary name it may have and shall be accompanied by the other information required by paragraph (1).
+&emsp;(A) A list of each drug or device introduced by the registrant for commercial distribution which has not been included in any list previously filed by him with the Secretary under this subparagraph or paragraph (1) of this subsection. A list under this subparagraph shall list a drug or device by its established name\(as defined in section 352(e) of this title), and by any proprietary name it may have and shall be accompanied by the other information required by paragraph (1).
 
 &emsp;(B) If since the date the registrant last made a report under this paragraph (or if he has not made a report under this paragraph, since February 1, 1973) he has discontinued the manufacture, preparation, propagation, compounding, or processing for commercial distribution of a drug or device included in a list filed by him under subparagraph (A) or paragraph (1); notice of such discontinuance, the date of such discontinuance, and the identity (by established name (as defined in section 352(e) of this title) and by any proprietary name) of such drug or device.
 
@@ -176,7 +176,7 @@ Subsec. (a)(2), (3). Pub. L. 89–74, §4(a), added par. (2) and redesignated fo
 
 Subsecs. (b), (c). Pub. L. 89–74, §4(b), (c), inserted “or in the wholesaling, jobbing, or distributing of any depressant or stimulant drug” after “drug or drugs” and inserted requirement that establishment indicate activity in depressant or stimulant drugs at time of registration.
 
-Subsec. (d). Pub. L. 89–74 §4(d), designated existing provisions as par. (1), inserted “or the wholesaling, jobbing, or distributing of any depressant or stimulant drug” and the requirement that the additional establishment indicate activity in depressant or stimulant drugs at time of registration, and added par. (2).
+Subsec. (d). Pub. L. 89–74 §4(d), designated existing provisions as par. (1), inserted “or the wholesaling, jobbing, or distributing of any depressant or stimulantdrug” and the requirement that the additional establishment indicate activity in depressant or stimulant drugs at time of registration, and added par. (2).
 
 #### Effective Date of 1997 Amendment
 
@@ -184,7 +184,7 @@ Amendment by sections 206(a), 209(a), 213(b), and 417 of Pub. L. 105–115 effec
 
 #### Effective Date of 1972 Amendment
 
-Section 5 of Pub. L. 92–387 provided that: “The amendments made by this Act \[amending this sectionand sections 331 and 335 of this title and enacting provisions set out below\] shall take effect on the first day of the sixth month beginning after the date of enactment of this Act \[Aug. 16, 1972\].”
+Section 5 of Pub. L. 92–387 provided that: “The amendments made by this Act \[amending this section and sections 331 and 335 of this title and enacting provisions set out below\] shall take effect on the first day of the sixth month beginning after the date of enactment of this Act \[Aug. 16, 1972\].”
 
 #### Effective Date of 1970 Amendment
 

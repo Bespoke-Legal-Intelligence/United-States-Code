@@ -6,7 +6,7 @@ Notwithstanding any other provision of this subpart, the Secretary is authorized
 
 &emsp;(1) a fiscal audit of an eligible institution with regard to any funds obtained from a borrower who has received a loan insured under this subpart;
 
-&emsp;(2) the establishment of reasonable standards of financial responsibility and appropriate institutional capability for the administration by an eligible institution of a program of student financial aid with respect to funds obtained from a student who has received a loan insured under this subpart;
+&emsp;(2) the establishment of reasonable standards of financial responsibility and appropriate institutional capability for the administration by an eligible institution of a program of student financial aid with respect to fundsobtained from a student who has received a loan insured under this subpart;
 
 &emsp;(3) the limitation, suspension, or termination of the eligibility under this subpart of any otherwise eligible institution, whenever the Secretary has determined, after notice and affording an opportunity for hearing, that such institution has violated or failed to carry out any regulation prescribed under this subpart;
 
@@ -14,7 +14,7 @@ Notwithstanding any other provision of this subpart, the Secretary is authorized
 
 &emsp;(5) the assessing of tuition or fees to borrowers in amounts that are the same or less than the amount of tuition and fees assessed to nonborrowers;
 
-&emsp;(6) the submission, by the institution or the lender to the Office of Health Education Assistance Loan Default Reduction, of information concerning each loan made under thissubpart, including the date when each such loan was originated, the date when each such loan is sold, the identity of the loan holder and information concerning a change in the borrower's status;
+&emsp;(6) the submission, by the institution or the lender to the Office of Health Education Assistance Loan Default Reduction, of information concerning each loan made under this subpart, including the date when each such loan was originated, the date when each such loan is sold, the identity of the loan holder and information concerning a change in the borrower's status;
 
 &emsp;(7) the withholding of services, including academic transcripts, financial aid transcripts, and alumni services, by an institution from a borrower upon the default of such borrower of a loan under this subpart, except in case of a borrower who has filed for bankruptcy; and
 

@@ -46,5 +46,5 @@ Section 508(b) of Pub. L. 104–275 provided that: “The amendments made by thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 521, 1711, 3735 of this title; title 10 section 2679.
+This section is referred to in sections 521, 1711, 2041 of this title; title 10 section 2679.
 

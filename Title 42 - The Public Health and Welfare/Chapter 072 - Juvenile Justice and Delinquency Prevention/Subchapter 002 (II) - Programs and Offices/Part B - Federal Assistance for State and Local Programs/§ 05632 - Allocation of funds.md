@@ -22,7 +22,7 @@ In accordance with regulations promulgated under this part, a portion of any all
 
 In accordance with regulations promulgated under this part, 5 per centum of the minimum annual allocation to any State under this part shall be available to assist the advisory group established under section 5633(a)(3) of this title.
 
-(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II,§625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75.)
+(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, §625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75.)
 
 #### Amendments
 

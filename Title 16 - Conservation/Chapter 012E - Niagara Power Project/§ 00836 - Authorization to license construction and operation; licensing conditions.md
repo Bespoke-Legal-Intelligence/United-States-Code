@@ -1,6 +1,6 @@
 ### §836. Authorization to license construction and operation; licensing conditions
 
-(a) The Federal Energy Regulatory Commission is expressly authorized and directed to issue a license to the Power Authority of the State of New York for the construction and operation of a power project with capacity to utilize all of the United States share of the water of the Niagara River permitted to be used by international agreement.
+(a) The Federal Energy Regulatory Commission is expressly authorized and directed toissue a license to the Power Authority of the State of New York for the construction and operation of a power project with capacity to utilize all of the United States share of the water of the Niagara River permitted to be used by international agreement.
 
 (b) The Federal Energy Regulatory Commission shall include among the licensing conditions, in addition to those deemed necessary and required under the terms of the Federal Power Act \[16 U.S.C. 791a et seq.\], the following:
 
@@ -22,7 +22,7 @@
 
 #### References in Text
 
-The Federal Power Act, referred to in subsec. (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended,which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsec. (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Transfer of Functions
 

@@ -34,7 +34,7 @@ Items Sold.—Merchandise sold by ship stores afloat shall include items in the 
 
 &emsp;(11) Tobacco products.
 
-(Added Pub. L. 101–510, div. A, title III, §329(a)(1), Nov. 5, 1990, 104 Stat. 1534; amended Pub. L. 103–160, div. A, title III, §371(a), formerly §371(c), Nov. 30, 1993, 107 Stat. 1635, renumbered §371(a), Pub. L. 104–106, div. A, title III, §340(a)(2), Feb. 10, 1996, 110 Stat. 265.)
+(Added Pub. L. 101–510, div. A, title III, §329(a)(1), Nov. 5, 1990, 104 Stat. 1534; amendedPub. L. 103–160, div. A, title III, §371(a), formerly §371(c), Nov. 30, 1993, 107 Stat. 1635, renumbered §371(a), Pub. L. 104–106, div. A, title III, §340(a)(2), Feb. 10, 1996, 110 Stat. 265.)
 
 #### Prior Provisions
 

@@ -48,13 +48,21 @@ For the purpose of this subchapter—
 
 &emsp;(9) The term “parent” means a father of a legitimate child, mother of a legitimate child, father through adoption, mother through adoption, mother of an illegitimate child, and father of an illegitimate child but only if (A) he acknowledged paternity of the child in writing signed by him before the child's death; or (B) he has been judicially ordered to contribute to the child's support; or (C) he has been judicially decreed to be the father of such child; or (D) proof of paternity is established by a certified copy of the public record of birth or church record of baptism showing that the claimant was the informant and was named as father of the child; or (E) proof of paternity is established from service department or other public records, such as school or welfare agencies, which show that with his knowledge the claimant was named as father of the child. No person who abandoned or willfully failed to support a child during the child's minority, or consented to the child's adoption may be recognized as a parent for the purpose of this subchapter. However, the immediately preceding sentence shall not be applied so as to require duplicate payments in any case in which insurance benefits have been paid prior to receipt in the administrative office established under subsection 1966(b) of this title of sufficient evidence to clearly establish that the person so paid could not qualify as a parent solely by reason of such sentence.
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, §765; amended Pub. L. 91–291, §1, June 25, 1970, 84 Stat. 326; Pub. L. 92–185, §1, Dec. 15, 1971, 85 Stat. 642; Pub. L. 92–315, June 20, 1972, 86 Stat. 227; Pub. L. 93–289, §§3, 10(1), May 24, 1974, 88 Stat. 165, 172; Pub. L. 99–576, title VII, §701(35), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–54, §14(b)(16), June 13, 1991, 105 Stat. 284; renumbered §1965 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title VI, §651(a), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–275, title IV, §402(a), Oct. 9, 1996, 110 Stat. 3337; Pub. L. 106–419, title III, §313(a), Nov. 1, 2000, 114 Stat. 1854.)
+&emsp;(10) The term “insurable dependent”, with respect to a member, means the following:
+
+&emsp;&emsp;(A) The member's spouse.
+
+&emsp;&emsp;(B) The member's child, as defined in the first sentence of section 101(4)(A) of this title.
+
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 880, §765; amended Pub. L. 91–291, §1, June 25, 1970, 84 Stat. 326; Pub. L. 92–185, §1, Dec. 15, 1971, 85 Stat. 642; Pub. L. 92–315, June 20, 1972, 86 Stat. 227; Pub. L. 93–289, §§3, 10(1), May 24, 1974, 88 Stat. 165, 172; Pub. L. 99–576, title VII, §701(35), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–54, §14(b)(16), June 13, 1991, 105 Stat. 284; renumbered §1965 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title VI, §651(a), title XVI, §1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–275, title IV, §402(a), Oct. 9, 1996, 110 Stat. 3337; Pub. L. 106–419, title III, §313(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 107–14, §4(a)(1), June 5, 2001, 115 Stat. 26.)
 
 #### References in Text
 
 Chapter 67 of title 10 as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5)(B), means chapter 67 (§1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
 
 #### Amendments
+
+2001—Par. (10). Pub. L. 107–14 added par. (10).
 
 2000—Par. (5)(C), (D). Pub. L. 106–419 added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -98,6 +106,10 @@ Par. (5)(A). Pub. L. 92–315, §1(4), expanded definition of “member” to in
 
 1970—Pub. L. 91–291 struck out from definition of “active duty” a reference to calls or orders to duty which specify a period of 30 days or less, inserted definitions for “active duty for training” and “inactive duty training”, and, in definition of “uniformed services”, inserted provisions limiting the scope of that term in the case of personnel of the Public Health Service and the Environmental Science Services Administration to the commissioned corps thereof respectively.
 
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 daysafter June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 1677(d)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
@@ -126,5 +138,5 @@ Section 405(d) of Pub. L. 104–275 provided that: “Any reference to Serviceme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1967, 1968, 1969 of this title.
+This section is referred to in sections 101, 1967, 1968, 1969 of this title.
 

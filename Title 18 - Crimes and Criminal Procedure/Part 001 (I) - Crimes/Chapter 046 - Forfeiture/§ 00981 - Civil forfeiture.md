@@ -2,9 +2,15 @@
 
 (a)(1) The following property is subject to forfeiture to the United States:
 
-&emsp;(A) Any property, real or personal, involved in a transaction or attempted transaction in violation of section 5313(a) or 5324(a) of title 31, or of section 1956 or 1957 of this title, or any property traceable to such property. However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.
+&emsp;(A) Any property, real or personal, involved in a transaction or attempted transaction in violation of section 1956, 1957 or 1960 of this title, or any property traceable to such property.
 
-&emsp;(B) Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation involving the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act), within whose jurisdiction such offense would be punishable by death or imprisonment for a term exceeding one year and which would be punishable under the laws of the United States by imprisonment for a term exceeding one year if such act or activity constituting the offense against the foreign nation had occurred within the jurisdiction of the United States.
+&emsp;(B) Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation, or any property used to facilitate such an offense, if the offense—
+
+&emsp;&emsp;(i) involves the manufacture, importation, sale, or distribution of a controlled substance (as that term is defined for purposes of the Controlled Substances Act), or any other conduct described in section 1956(c)(7)(B);
+
+&emsp;&emsp;(ii) would be punishable within the jurisdiction of the foreign nation by death or imprisonment for a term exceeding 1 year; and
+
+&emsp;&emsp;(iii) would be punishable under the laws of the United States by imprisonment for a term exceeding 1 year, if the act or activity constituting the offense had occurred within the jurisdiction of the United States.
 
 &emsp;(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 471, 472, 473, 474, 476, 477, 478, 479, 480, 481, 485, 486, 487, 488, 501, 502, 510, 542, 545, 656, 657, 842, 844, 1005, 1006, 1007, 1014, 1028, 1029, 1030, 1032, or 1344 of this title or any offense constituting “specified unlawful activity” (as defined in section 1956(c)(7) of this title), or a conspiracy to commit such offense.
 
@@ -38,6 +44,14 @@
 
 &emsp;&emsp;(v) section 2313 (possessing or selling a stolen motor vehicle that has moved in interstate commerce).
 
+&emsp;(G) All assets, foreign or domestic—
+
+&emsp;&emsp;(i) of any individual, entity, or organization engaged in planning or perpetrating any act of domestic or international terrorism (as defined in section 2331) against the United States, citizens or residents of the United States, or their property, and all assets, foreign or domestic, affording any person a source of influence over any such entity or organization;
+
+&emsp;&emsp;(ii) acquired or maintained by any person with the intent and for the purpose of supporting, planning, conducting, or concealing an act of domestic or international terrorism (as defined in section 2331) against the United States, citizens or residents of the United States, or their property; or
+
+&emsp;&emsp;(iii) derived from, involved in, or used or intended to be used to commit any act of domestic or international terrorism (as defined in section 2331) against the United States, citizens or residents of the United States, or their property.
+
 (2) For purposes of paragraph (1), the term “proceeds” is defined as follows:
 
 &emsp;(A) In cases involving illegal goods, illegal services, unlawful activities, and telemarketing and health care fraud schemes, the term “proceeds” means property of any kind obtained directly or indirectly, as the result of the commission of the offense giving rise to forfeiture, and any property traceable thereto, and is not limited to the net gain or profit realized from the offense.
@@ -62,7 +76,7 @@
 
 (3) Notwithstanding the provisions of rule 41(a) of the Federal Rules of Criminal Procedure, a seizure warrant may be issued pursuant to this subsection by a judicial officer in any district in which a forfeiture action against the property may be filed under section 1355(b) of title 28, and may be executed in any district in which the property is found, or transmitted to the central authority of any foreign state for service in accordance with any treaty or other international agreement. Any motion for the return of property seized under this section shall be filed in the district court in which the seizure warrant was issued or in the district court for the district in which the property was seized.
 
-(4)(A) If any person is arrested or charged in a foreign country in connection with an offense that would give rise to the forfeiture of property in the United States under this section or under the Controlled Substances Act, the Attorney General may apply to any Federal judge or magistrate judge in the district in which the property is located for an ex parte order restraining the property subject to forfeiture for not more than 30 days, except that the time may be extended for good cause shown at a hearing conducted in the manner provided in rule 43(e) of the Federal Rules of Civil Procedure.
+(4)(A) If any person is arrested or charged in a foreign country in connection with an offense that would give rise to the forfeiture of property in the United States under this section or under the Controlled Substances Act, the AttorneyGeneral may apply to any Federal judge or magistrate judge in the district in which the property is located for an ex parte order restraining the property subject to forfeiture for not more than 30 days, except that the time may be extended for good cause shown at a hearing conducted in the manner provided in rule 43(e) of the Federal Rules of Civil Procedure.
 
 (B) The application for the restraining order shall set forth the nature and circumstances of the foreign charges and the basis for belief that the person arrested or charged has property in the United States that would be subject to forfeiture, and shall contain a statement that the restraining order is needed to preserve the availability of property for such time as is necessary to receive evidence from the foreign country or elsewhere in support of probable cause for the seizure of the property under this subsection.
 
@@ -122,7 +136,7 @@
 
 (h) In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
-(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the AttorneyGeneral or the Secretary of the Treasury, as the case may be, may transfer the forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
+(i)(1) Whenever property is civilly or criminally forfeited under this chapter, the Attorney General or the Secretary of the Treasury, as the case may be, may transfer the forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
 
 &emsp;(A) has been agreed to by the Secretary of State;
 
@@ -146,11 +160,63 @@
 
 &emsp;(2) the term “Secretary of the Treasury” means the Secretary of the Treasury or his delegate.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224.)
+(k)
+
+Interbank Accounts.—
+
+&emsp;(1)
+
+In general.—
+
+&emsp;&emsp;(A)
+
+In general.—For the purpose of a forfeiture under this section or under the Controlled Substances Act (21 U.S.C. 801 et seq.), if funds are deposited into an account at a foreign bank, and that foreign bank has an interbank account in the United States with a covered financial institution (as defined in section 5318(j)(1) of title 31), the funds shall be deemed to have been deposited into the interbank account in the United States, and any restraining order, seizure warrant, or arrest warrant in rem regarding the funds may be served on the covered financial institution, and funds in the interbank account, up to the value of the funds deposited into the account at the foreign bank, may be restrained, seized, or arrested.
+
+&emsp;&emsp;(B)
+
+Authority to suspend.—The Attorney General, in consultation with the Secretary of the Treasury, may suspend or terminate a forfeiture under this section if the Attorney General determines that a conflict of law exists between the laws of the jurisdiction in which the foreign bank is located and the laws of the United States with respect to liabilities arising from the restraint, seizure, or arrest of such funds, and that such suspension or termination would be in the interest of justice and would not harm the national interests of the United States.
+
+&emsp;(2)
+
+No requirement for government to trace funds.—If a forfeiture action is brought against funds that are restrained, seized, or arrested under paragraph (1), it shall not be necessary for the Government to establish that the funds are directly traceable to the funds that were deposited into the foreign bank, nor shall it be necessary for the Government to rely on the application of section 984.
+
+&emsp;(3)
+
+Claims brought by owner of the funds.—If a forfeiture action is instituted against funds restrained, seized, or arrested under paragraph (1), the owner of the funds deposited into the account at the foreign bank may contest the forfeiture by filing a claim under section 983.
+
+&emsp;(4)
+
+Definitions.—For purposes of this subsection, the following definitions shall apply:
+
+&emsp;&emsp;(A)
+
+Interbank account.—The term “interbank account” has the same meaning as in section 984(c)(2)(B).
+
+&emsp;&emsp;(B)
+
+Owner.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Except as provided in clause (ii), the term “owner”—
+
+&emsp;&emsp;&emsp;&emsp;(I) means the person who was the owner, as that term is defined in section 983(d)(6), of the funds that were deposited into the foreign bank at the time such funds were deposited; and
+
+&emsp;&emsp;&emsp;&emsp;(II) does not include either the foreign bank or any financial institution acting as an intermediary in the transfer of the funds into the interbank account.
+
+&emsp;&emsp;&emsp;(ii)
+
+Exception.—The foreign bank may be considered the “owner” of the funds (and no other person shall qualify as the owner of such funds) only if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the basis for the forfeiture action is wrongdoing committed by the foreign bank; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the foreign bank establishes, by a preponderance of the evidence, that prior to the restraint, seizure, or arrest of the funds, the foreign bank had discharged all or part of its obligation to the prior owner of the funds, in which case the foreign bank shall be deemed the owner of the funds to the extent of such discharged obligation.
+
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–35; amended Pub. L. 100–690, title VI, §§6463(a), (b), 6469(b), 6470(b), (e), (f), 6471(c), Nov. 18, 1988, 102 Stat. 4374, 4377, 4378; Pub. L. 101–73, title IX, §963(a), (b), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title I, §103, title XXV, §§2508, 2524, 2525(a), title XXXV, §3531, Nov. 29, 1990, 104 Stat. 4791, 4862, 4873, 4874, 4924; Pub. L. 102–393, title VI, §638(d), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(a), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §§1525(c)(1), 1533, Oct. 28, 1992, 106 Stat. 4065, 4066; Pub. L. 103–322, title XXXIII, §330011(s)(2), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–447, title I, §102(b), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 106–185, §§2(c)(1), 5(a), 6, 8(a), 20, Apr. 25, 2000, 114 Stat. 210, 213–215, 224; Pub. L. 107–56, title III, §§319(a), 320, 372(b)(1), 373(b), title VIII, §806, Oct. 26, 2001, 115 Stat. 311, 315, 339, 340, 378.)
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsecs. (a)(1)(B) and (b)(4)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), and (k)(1)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended,which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
@@ -167,6 +233,14 @@ Section 8(e)(7)(D) of the Federal Deposit Insurance Act, referred to in subsec. 
 Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (i)(1)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
 #### Amendments
+
+2001—Subsec. (a)(1)(A). Pub. L. 107–56, §§372(b)(1), 373(b), struck out “of section 5313(a) or 5324(a) of title 31, or” after “transaction or attempted transaction in violation”, substituted “, 1957 or 1960” for “or 1957”, and struck out at end “However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.”
+
+Subsec. (a)(1)(B). Pub. L. 107–56, §320, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Any property, real or personal, within the jurisdiction of the United States, constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from an offense against a foreign nation involving the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act), within whose jurisdiction such offense would be punishable by death or imprisonment for a term exceeding one year and which would be punishable under the laws of the United States by imprisonment for a term exceeding one year if such act or activity constituting the offense against the foreign nation had occurred within the jurisdiction of the United States.”
+
+Subsec. (a)(1)(G). Pub. L. 107–56, §806, added subpar. (G).
+
+Subsec. (k). Pub. L. 107–56, §319(a), added subsec. (k).
 
 2000—Subsec. (a)(1). Pub. L. 106–185, §2(c)(1)(A), substituted “The” for “Except as provided in paragraph (2), the” in introductory provisions.
 
@@ -212,7 +286,7 @@ Subsec. (e). Pub. L. 102–550, §1533, struck out penultimate sentence of concl
 
 Subsec. (a)(1)(D), (E). Pub. L. 101–647, §2525(a)(1), added subpars. (D) and (E).
 
-Subsec. (b). Pub. L. 101–647, §2524(2), added par. (1) and par. (2) introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (2), and struck out former introductory provisions which read as follows: “Any property subject to forfeiture to the United States under subsection (a)(1)(A) or (a)(1)(B) of this section may be seized by the Attorney General or, with respect to property involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury or the Postal Service may be seized by the Secretary of the Treasury or the Postal Service, in each case upon process issued pursuant to the Supplemental Rules for certain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—”.
+Subsec. (b). Pub. L. 101–647, §2524(2), added par. (1) and par. (2) introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (2), and struck out former introductory provisions which read as follows: “Any property subject to forfeiture to theUnited States under subsection (a)(1)(A) or (a)(1)(B) of this section may be seized by the Attorney General or, with respect to property involved in a violation of section 5313(a) or 5324 of title 31 or of section 1956 or 1957 of this title investigated by the Secretary of the Treasury or the Postal Service may be seized by the Secretary of the Treasury or the Postal Service, in each case upon process issued pursuant to the Supplemental Rules for certain Admiralty and Maritime Claims by any district court of the United States having jurisdiction over the property, except that seizure without such process may be made when—”.
 
 Subsec. (d). Pub. L. 101–647, §3531, inserted a period at end.
 
@@ -238,7 +312,7 @@ Subsec. (e). Pub. L. 101–73, §963(b), substituted “determine—” for “d
 
 “(2) any State or local law enforcement agency which participated directly in any of the acts which led to the seizure or forfeiture of the property.”
 
-1988—Subsec. (a)(1)(A). Pub. L. 100–690, §6463(a)(1), added subpar. (A) and struck out former subpar. (A)which read as follows: “Any property, real or personal, which represents the gross receipts a person obtains, directly or indirectly, as a result of a violation of section 1956 or 1957 of this title, or which is traceable to such gross receipts.”
+1988—Subsec. (a)(1)(A). Pub. L. 100–690, §6463(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “Any property, real or personal, which represents the gross receipts a person obtains, directly or indirectly, as a result of a violation of section 1956 or 1957 of this title, or which is traceable to such gross receipts.”
 
 Subsec. (a)(1)(B). Pub. L. 100–690, §6470(b), inserted “, real or personal,” after “property”, substituted “constituting, derived from, or traceable to, any proceeds obtained directly or indirectly from” for “which represents the proceeds of”, “such offense would” for “such offense or activity would”, and “punishable under the laws of the United States by imprisonment” for “punishable by imprisonment”, and inserted “constituting the offense against the foreign nation” after “such act or activity”.
 
@@ -263,6 +337,10 @@ Pub. L. 100–690, §6469(b)(4), inserted provision that the authority granted t
 Subsec. (g). Pub. L. 100–690, §6471(c), inserted “, Federal, State or local,” after “law”.
 
 Subsec. (i)(1). Pub. L. 100–690, §6470(f), substituted “subsection” for “subchapter” in fourth sentence.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Effective Date of 2000 Amendment
 
@@ -290,7 +368,7 @@ Section 1367 of Pub. L. 99–570 provided that: “If any provision of this subt
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 8 section 1324; title 12 sections 1831k, 3412; title 19 section 1613b; title 21 section 881; title 31 section 9703.
+This section is referred to in section 1956 of this title; title 8 section 1324; title 12 sections 1831k, 3412; title 19 section 1613b; title 21 section 881; title 31 sections 5317, 5332, 9703.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

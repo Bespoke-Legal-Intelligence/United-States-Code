@@ -12,7 +12,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 &emsp;(4) on-the-spot coverage of bona fide news events (including but not limited to political conventions and activities incidental thereto),
 
-> shall not be deemed to be use of a broadcasting station within the meaning of this subsection. Nothing in the foregoing sentence shall be construed as relieving broadcasters, in connection with the presentation of newscasts, news interviews, news documentaries, and on-the-spot coverage of news events, from the obligation imposed upon them under this chapter to operate in the public interest and to afford reasonable opportunity for the discussion of conflicting views on issues of public importance.
+> shall not be deemed to be use of a broadcasting station within the meaning of this subsection.Nothing in the foregoing sentence shall be construed as relieving broadcasters, in connection with the presentation of newscasts, news interviews, news documentaries, and on-the-spot coverage of news events, from the obligation imposed upon them under this chapter to operate in the public interest and to afford reasonable opportunity for the discussion of conflicting views on issues of public importance.
 
 #### (b) Broadcast media rates
 
@@ -46,7 +46,7 @@ Subsecs. (e) to (g). Pub. L. 93–443, §402(a), struck out subsec. (e) provisio
 
 1972—Subsec. (a). Pub. L. 92–225, §103(a)(2)(B), inserted “under this subsection” after “No obligation is imposed”.
 
-Subsec. (b). Pub. L. 92–225, §103(a)(1), substituted in introductory text “by any person who is a legallyqualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office”, for “for any of the purposes set forth in this section”, added par. (1), designated existing provisions as par. (2), inserted therein the opening words “at any other time,” and substituted “by other users thereof” for “for other purposes”.
+Subsec. (b). Pub. L. 92–225, §103(a)(1), substituted in introductory text “by any person who is a legally qualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office”, for “for any of the purposes set forth in this section”, added par. (1), designated existing provisions as par. (2), inserted therein the opening words “at any other time,” and substituted “by other users thereof” for “for other purposes”.
 
 Subsecs. (c) to (g). Pub. L. 92–225, §104(c), added subsecs. (c) to (f) and redesignated former subsec. (c) as (g).
 

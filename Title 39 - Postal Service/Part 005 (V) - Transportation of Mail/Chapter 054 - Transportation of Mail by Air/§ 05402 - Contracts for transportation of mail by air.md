@@ -6,7 +6,13 @@
 
 (c) If the Postal Service determines that service by certificated air carriers or combination of air carriers between any pair or pairs of points in foreign air transportation is not adequate for its purposes, it may contract for a period of not more than 4 years, without advertising for bids, in such manner and under such terms and conditions as it may deem appropriate, with any air taxi operator or combination thereof for such air transportation service. Contracts made under this subsection may be renewed at the existing rate by mutual agreement between the holder and the Postal Service. The Postal Service, with the consent of the air taxi operator, may adjust the compensation under such contracts for increased or decreased costs occasioned by changed conditions occurring during the contract term. The Postal Service shall cancel such a contract when the Secretary of Transportation authorizes an additional certificated carrier or carriers to provide service between any pair or pairs of points covered by the contract, and such carrier or carriers inaugurate schedules adequate for its purposes.
 
-(d) The Postal Service may determine rates and contract with any air carrier for the transportation of mail by aircraft in interstate air transportation either through negotiations or competitive bidding.
+(d)(1) The Postal Service may determine rates and contract with any air carrier for the transportation of mail by aircraft in interstate air transportation either through negotiations or competitive bidding.
+
+(2)(A) In the exercise of its authority under paragraph (1), the Postal Service may require any air carrier to accept as mail shipments of day-old poultry and such other live animals as postal regulations allow to be transmitted as mail matter. The authority of the Postal Service under this subparagraph shall not apply in the case of any air carrier who commonly and regularly refuses to accept any live animals as cargo.
+
+(B) Notwithstanding any other provision of law, the Postal Service is authorized to assess, as postage to be paid by the mailers of any shipments covered by subparagraph (A), a reasonable surcharge that the Postal Service determines in its discretion to be adequate to compensate air carriers for any necessary additional expense incurred in handling such shipments.
+
+(C) The authority of the Postal Service under subparagraph (B) shall apply during the period beginning on the date of enactment of this paragraph, and ending June 30, 2002.
 
 (e) For purposes of this section, the terms “air carrier”, “interstate air transportation”, and “foreign air transportation” have the meanings given such terms in section 40102(a) of title 49.
 
@@ -40,9 +46,15 @@
 
 &emsp;(ii) after giving 12 months public notice before any such change takes effect.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L.100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 772; Pub. L. 98–443, §9(g)(4), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 100–238, title I, §137, Jan. 8, 1988, 101 Stat. 1767; Pub. L. 103–272, §4(g)(2), July 5, 1994, 108 Stat. 1364; Pub. L. 103–429, §5, Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–52, title VI, §631(a), Nov. 19, 1995, 109 Stat. 505; Pub. L. 107–67, title VI, §651, Nov. 12, 2001, 115 Stat. 557.)
+
+#### References in Text
+
+The date of enactment of this paragraph, referred to in subsec. (d)(2)(C), is the date of enactment of Pub. L. 107–67, which was approved Nov. 12, 2001.
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–67 designated existing provisions as par. (1) and added par. (2).
 
 1995—Subsec. (f). Pub. L. 104–52, §631(a)(1), substituted “The” for “During the period beginning January 1, 1985, and ending January 1, 1999, the”.
 

@@ -8,7 +8,7 @@ The Secretary may—
 
 > research in the biomedical, contraceptive development, behavioral, and program implementation fields related to family planning and population.
 
-(July 1, 1944, ch. 373, title X, §1004, as added Pub. L. 91–572, §6(c), Dec. 24, 1970, 84 Stat. 1507;amended Pub. L. 93–45, title I, §111(c), June 18, 1973, 87 Stat. 93; Pub. L. 94–63, title II, §202(c), title VII, §701(d), July 29, 1975, 89 Stat. 306, 352; Pub. L. 95–83, title III, §305(c), Aug. 1, 1977, 91 Stat. 389; Pub. L. 95–613, §1(b)(3), Nov. 8, 1978, 92 Stat. 3093; Pub. L. 96–32, §1(a), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §931(b)(2), Aug. 13, 1981, 95 Stat. 570.)
+(July 1, 1944, ch. 373, title X, §1004, as added Pub. L. 91–572, §6(c), Dec. 24, 1970, 84 Stat. 1507; amended Pub. L. 93–45, title I, §111(c), June 18, 1973, 87 Stat. 93; Pub. L. 94–63, title II, §202(c), title VII, §701(d), July 29, 1975, 89 Stat. 306, 352; Pub. L. 95–83, title III, §305(c), Aug. 1, 1977, 91 Stat. 389; Pub. L. 95–613, §1(b)(3), Nov. 8, 1978, 92 Stat. 3093; Pub. L. 96–32, §1(a), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §931(b)(2), Aug. 13, 1981, 95 Stat. 570.)
 
 #### Amendments
 

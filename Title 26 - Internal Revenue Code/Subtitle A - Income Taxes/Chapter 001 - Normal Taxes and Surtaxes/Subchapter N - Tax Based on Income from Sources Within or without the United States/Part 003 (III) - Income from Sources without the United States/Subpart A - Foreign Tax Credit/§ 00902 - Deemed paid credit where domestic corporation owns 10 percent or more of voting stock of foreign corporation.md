@@ -34,7 +34,7 @@ For purposes of this subpart, a domestic corporation which owns 10 percent or mo
 
 &emsp;&emsp;&emsp;(iii) such other corporation is not below the sixth tier in such chain.
 
-> &emsp;The term “qualified group” shall not include any foreign corporation below the third tier in the chain referred to in clause (i) unless such foreign corporation is a controlled foreign corporation (as defined in section 957) and the domestic corporation is a United States shareholder (as defined in section 951(b)) in such foreign corporation. Paragraph (1) shall apply to those taxes paid by a member of the qualified group below the third tier only with respect toperiods during which it was a controlled foreign corporation.
+> &emsp;The term “qualified group” shall not include any foreign corporation below the third tier in the chain referred to in clause (i) unless such foreign corporation is a controlled foreign corporation (as defined in section 957) and the domestic corporation is a United States shareholder (as defined in section 951(b)) in such foreign corporation. Paragraph (1) shall apply to those taxes paid by a member of the qualified group below the third tier only with respect to periods during which it was a controlled foreign corporation.
 
 #### (c) Definitions and special rules
 
@@ -146,7 +146,7 @@ Subsec. (c)(7). Pub. L. 100–647, §1012(b)(1), substituted “section 960” f
 
 <b>1975</b>—Subsec. (d). Pub. L. 94–12 substituted “paragraph (3) or (4)”, “paragraph (3)”, “paragraph (3)(A)”, and “paragraph (3)(B)” for “section 955(c)(1) or (2)”, “section 955(c)(1)”, “section 955(c)(1)(A)”, and “section 955(c)(1)(B)”, respectively, in existing provisions and added pars. (3), (4), and (5) and provisions following par. (5).
 
-<b>1971</b>—Subsec. (b). Pub. L. 91–684, §1, substituted “Foreign subsidiary of first and second foreign corporation” for “Foreign subsidiary of foreign corporation” in heading, designated existing provisions as par. (1) and inserted terminology denominating corporations involved as first foreign corporation and second foreign corporation, and reduced the ownership percentage requirement in voting stock from 50 percent to 10 percent between the first and second foreign corporations, and added pars. (2) and (3).
+<b>1971</b>—Subsec. (b). Pub. L. 91–684, §1, substituted “Foreign subsidiary of first and second foreign corporation” for “Foreign subsidiary of foreign corporation” inheading, designated existing provisions as par. (1) and inserted terminology denominating corporations involved as first foreign corporation and second foreign corporation, and reduced the ownership percentage requirement in voting stock from 50 percent to 10 percent between the first and second foreign corporations, and added pars. (2) and (3).
 
 Subsec. (c)(1)(A). Pub. L. 91–684, §2(1), substituted “(b)(1)(A), and (b)(2)(A)” for “and (b)(1)”.
 
@@ -180,7 +180,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 “(2)
 
-Special rule.—In the case of any chain of foreign corporations described in clauses (i) and (ii) of section 902(b)(2)(B) of the Internal Revenue Code of 1986 (as amended by this section), no liquidation, reorganization, or similar transaction in a taxable year beginningafter the date of the enactment of this Act shall have the effect of permitting taxes to be taken into account under section 902 of the Internal Revenue Code of 1986 which could not have been taken into account under such section but for such transaction.”
+Special rule.—In the case of any chain of foreign corporations described in clauses (i) and (ii) of section 902(b)(2)(B) of the Internal Revenue Code of 1986 (as amended by this section), no liquidation, reorganization, or similar transaction in a taxable year beginning after the date of the enactment of this Act shall have the effect of permitting taxes to be taken into account under section 902 of the Internal Revenue Code of 1986 which could not have been taken into account under such section but for such transaction.”
 
 Section 1163(c) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section and section 904 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].”
 

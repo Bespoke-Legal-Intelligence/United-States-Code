@@ -10,7 +10,7 @@ It shall be the duty of the Commission to assemble and keep current pertinent in
 
 #### (c) Availability of services, etc., of other agencies
 
-In carrying out the purposes of this chapter, the Commission shall, so far as practicable, avail itself of the services, records, reports, and information of the executive departments and other agencies of the Government, and the President may, from time to time, direct that such services and facilities be made available to the Commission.
+In carrying out the purposes of this chapter, the Commission shall, so far as practicable, avail itself of the services, records, reports, and information of the executive departments and other agencies of the Government, and thePresident may, from time to time, direct that such services and facilities be made available to the Commission.
 
 (June 21, 1938, ch. 556, §11, 52 Stat. 827.)
 

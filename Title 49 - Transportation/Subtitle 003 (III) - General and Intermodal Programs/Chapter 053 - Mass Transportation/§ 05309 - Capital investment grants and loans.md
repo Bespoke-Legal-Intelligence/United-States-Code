@@ -150,7 +150,7 @@ Previously issued letter of intent or full funding grant agreement.—This subse
 
 (g)
 
-Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreements.—(1)(A) The Secretary of Transportation may issue a letter of intent to an applicant announcing an intention to obligate, for a project under this section, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the project. The amount shall be sufficient to complete at least an operable segment when a letter is issued for a fixed guideway project.
+Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreements.—(1)(A) The Secretary of Transportation may issue a letter of intent to an applicant announcing an intention to obligate, for a project under this section, an amount from future available budget authority specified in law that isnot more than the amount stipulated as the financial participation of the Secretary in the project. The amount shall be sufficient to complete at least an operable segment when a letter is issued for a fixed guideway project.
 
 (B) At least 60 days before issuing a letter under subparagraph (A) of this paragraph or entering into a full funding grant agreement, the Secretary of Transportation shall notify in writing the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate and the House and Senate Committees on Appropriations of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
 
@@ -168,7 +168,7 @@ Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreeme
 
 &emsp;(iv) make timely and efficient management of the project easier according to the law of the United States.
 
-(B) An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph,to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary of Transportation, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. The amount stipulated in an agreement under this paragraph for a fixed guideway project shall be sufficient to complete at least an operable segment.
+(B) An agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law. The agreement shall state that the contingent commitment is not an obligation of the Government. Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary of Transportation, that the applicant has shown reasonable diligence in seeking the most favorable financing terms. The amount stipulated in an agreement under this paragraph for a fixed guideway project shall be sufficient to complete at least an operable segment.
 
 (3)(A) The Secretary of Transportation may make an early systems work agreement with an applicant if a record of decision under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) has been issued on the project and the Secretary finds there is reason to believe—
 
@@ -196,7 +196,7 @@ Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreeme
 
 &emsp;(2) $217,800,000 for the Dulles corridor bus rapid transit project, that consists of a rail extension from the West Falls Church metrorail station to Tysons Corner, Virginia and bus rapid transit from Tysons Corner to the Dulles International Airport.
 
-(E) Any amount that would be available under subparagraph (A) if subparagraph (B) were not in effect and would have otherwise been allocated by the Federal Transit Administration to those projects referred to in subparagraphs (C)(1) and (C)(2), shall not be available for allocation by the department or for making future obligations of the Government and contingent commitments until April 1, 2001, except for thoseprojects referred to in subparagraph (D)(1) and (D)(2).
+(E) Any amount that would be available under subparagraph (A) if subparagraph (B) were not in effect and would have otherwise been allocated by the Federal Transit Administration to those projects referred to in subparagraphs (C)(1) and (C)(2), shall not be available for allocation by the department or for making future obligations of the Government and contingent commitments until April 1, 2001, except for those projects referred to in subparagraph (D)(1) and (D)(2).
 
 (F) Future obligations of the Government and contingent commitments made against the contingent commitment authority under section 3032(g)(2) of the Intermodal Surface Transportation Efficiency Act of 1991 for the San Francisco BART to the Airport project for fiscal years 2002, 2003, 2004, 2005 and 2006 shall be charged against section 3032(g)(2) of the Intermodal Surface Transportation Efficiency Act of 1991.
 
@@ -576,7 +576,7 @@ Section 103 of title 23, referred to in subsec. (n)(1), was amended generally by
 
 Subsec. (g)(4)(D)(2). Pub. L. 106–554 struck out “light” before “rail extension”.
 
-1999—Subsec. (g)(1)(B). Pub. L. 106–69 inserted “and the House and Senate Committees on Appropriations”after “Committee on Banking, Housing, and Urban Affairs of the Senate”.
+1999—Subsec. (g)(1)(B). Pub. L. 106–69 inserted “and the House and Senate Committees on Appropriations” after “Committee on Banking, Housing, and Urban Affairs of the Senate”.
 
 1998—Pub. L. 105–178, §3009(a), substituted “Capital investment” for “Discretionary” in section catchline.
 
@@ -756,7 +756,7 @@ Qualified entity.—The term ‘qualified entity’ means—
 
 &emsp;&emsp;“(A) with respect to any proposed eligible project in an urbanized area with a population of at least 200,000, the applicant or applicants selected by the appropriate metropolitan planning organization that meets the requirements of this section, including the planning and coordination requirements in subsection (i), from among designated recipients under section 5307(a)(2) of title 49, United States Code, local governmental authorities and agencies, and nonprofit organizations; and
 
-&emsp;&emsp;“(B) with respect to any proposed eligible project in an urbanized area with a population of less than 200,000, or an area other than an urbanized area, the applicant or applicants selected by the chief executive officer of the State in which the area is locatedthat meets the requirements of this section, including the planning and coordination requirements in subsection (i), from among designated recipients under section 5307(a)(2) of title 49, United States Code, local governmental authorities and agencies, and nonprofit organizations.
+&emsp;&emsp;“(B) with respect to any proposed eligible project in an urbanized area with a population of less than 200,000, or an area other than an urbanized area, the applicant or applicants selected by the chief executive officer of the State in which the area is located that meets the requirements of this section, including the planning and coordination requirements in subsection (i), from among designated recipients under section 5307(a)(2) of title 49, United States Code, local governmental authorities and agencies, and nonprofit organizations.
 
 &emsp;“(5)
 

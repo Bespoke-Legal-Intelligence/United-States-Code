@@ -6,7 +6,7 @@ Before construction of any project for local flood protection, or any project fo
 
 #### (b) Floodplain management plans
 
-Within 1 year after the date of signing a project cooperation agreement for construction of a project to which subsection (a) of this section applies, the non-Federal interest shall prepare a floodplain management plan designed to reduce the impacts of future flood events in the project area. Such plan shall be implemented by the non-Federal interest not later than 1 year after completion of construction of the project.
+Within 1 year after the date of signing a project cooperation agreement for construction of a project to which subsection (a) of this section applies, the non-Federal interest shall prepare a floodplain management plan designed to reduce the impacts of future flood events in the project area. Such plan shall be implemented bythe non-Federal interest not later than 1 year after completion of construction of the project.
 
 #### (c) Guidelines
 
@@ -36,7 +36,7 @@ The Secretary may provide technical support to a non-Federal interest for a proj
 
 2000—Subsec. (b). Pub. L. 106–541, §209(c), substituted “Floodplain” for “Flood plain” in heading and “floodplain” for “flood plain” in first sentence.
 
-Subsec. (c). Pub. L. 106–541, §209(a), in first sentence substituted “The” for “Within 6 months after October12, 1996, the”, designated second sentence as par. (2), inserted heading, substituted “The guidelines developed under paragraph (1) shall—” for “Such guidelines shall”, designated remainder of sentence as subpar. (A), inserted “to be undertaken by non-Federal interests to” after “policies”, added subpar. (B), and redesignated former par. (2) as (3).
+Subsec. (c). Pub. L. 106–541, §209(a), in first sentence substituted “The” for “Within 6 months after October 12, 1996, the”, designated second sentence as par. (2), inserted heading, substituted “The guidelines developed under paragraph (1) shall—” for “Such guidelines shall”, designated remainder of sentence as subpar. (A), inserted “to be undertaken by non-Federal interests to” after “policies”, added subpar. (B), and redesignated former par. (2) as (3).
 
 1996—Pub. L. 104–303 substituted “Floodplain management requirements” for “Compliance with flood plain management and insurance programs” in section catchline and amended text generally. Prior to amendment, text read as follows: “Before construction of any project for local flood protection or any project for hurricane or storm damage reduction, the non-Federal interests shall agree to participate in and comply with applicable Federal flood plain management and flood insurance programs.”
 

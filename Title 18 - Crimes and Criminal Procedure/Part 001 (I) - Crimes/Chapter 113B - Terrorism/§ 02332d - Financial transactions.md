@@ -30,3 +30,7 @@ Another section 2332d was renumbered section 2332e of this title.
 
 Section 321(c) of Pub. L. 104–132 provided that: “The amendments made by this section \[enacting this section\] shall become effective 120 days after the date of enactment of this Act \[Apr. 24, 1996\].”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2516 of this title.
+

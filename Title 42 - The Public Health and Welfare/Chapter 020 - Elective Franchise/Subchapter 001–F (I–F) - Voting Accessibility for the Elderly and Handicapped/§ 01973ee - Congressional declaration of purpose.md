@@ -10,5 +10,5 @@ Section 9 of Pub. L. 98–435 provided that: “This Act \[enacting this subchap
 
 #### Short Title
 
-Section 1 of Pub. L. 98–435 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Voting Accessibility for the Elderly and Handicapped Act’.”
+This subchapter is known as the “Voting Accessibility for the Elderly and Handicapped Act”, see Short Title note set out under section 1971 of this title.
 

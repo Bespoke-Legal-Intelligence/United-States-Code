@@ -1,6 +1,6 @@
 ### §508. Annual estimates of quantity of paper required for public printing and binding
 
-At the beginning of each session of Congress, the Public Printer shall submit to the JointCommittee on Printing estimates of the quantity of paper of all descriptions required for the public printing and binding during the ensuing year.
+At the beginning of each session of Congress, the Public Printer shall submit to the Joint Committee on Printing estimates of the quantity of paper of all descriptions required for the public printing and binding during the ensuing year.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1244.)
 

@@ -30,7 +30,7 @@ The Secretary shall have at least one opportunity to approve project planning an
 
 #### (g) Wages
 
-All laborers and mechanics employed by contractors and subcontractors (excluding tribesand tribal organizations) in the construction, alteration, or repair, including painting or decorating of a building or other facilities in connection with construction projects funded by the United States under this subchapter shall be paid wages at not less than those prevailing wages on similar construction in the locality as determined by the Secretary of Labor in accordance with the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494) \[40 U.S.C. 276a et seq.\]. With respect to construction alteration, or repair work to which the Act of March 3, 1931, is applicable under this section, the Secretary of Labor shall have the authority and functions set forth in the Reorganization Plan numbered 14, of 1950, and section 276c of title 40.
+All laborers and mechanics employed by contractors and subcontractors (excluding tribes and tribal organizations) in the construction, alteration, or repair, including painting or decorating of a building or other facilities in connection with construction projects funded by the United States under this subchapter shall be paid wages at not less than those prevailing wages on similar construction in the locality as determined by the Secretary of Labor in accordance with the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494) \[40 U.S.C. 276a et seq.\]. With respect to construction alteration, or repair work to which the Act of March 3, 1931, is applicable under this section, the Secretary of Labor shall have the authority and functions set forth in the Reorganization Plan numbered 14, of 1950, and section 276c of title 40.
 
 #### (h) Application of other laws
 
@@ -40,7 +40,7 @@ Unless otherwise agreed to by the Indian tribe, no provision of the Office of Fe
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act tothe Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (a), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see section 470(a) of Title 16 and Tables.
 

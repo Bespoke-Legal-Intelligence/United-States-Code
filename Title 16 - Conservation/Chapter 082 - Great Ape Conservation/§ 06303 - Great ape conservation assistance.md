@@ -88,7 +88,7 @@ To the maximum extent practicable, in determining whether to approve project pro
 
 #### (f) Matching funds
 
-In determining whether to approve project proposals under this section, the Secretary shallgive preference to projects for which matching funds are available.
+In determining whether to approve project proposals under this section, the Secretary shall give preference to projects for which matching funds are available.
 
 #### (g) Project reporting
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization; terms and conditions
 
-The Secretary is authorized to insure and make commitments to insure loans made by lenders other than the United States to the owner of any farm or any association of farmers for the purpose of providing housing and related facilities for domestic farm labor, or to any Indian tribe for such purpose, or to any State (or political subdivision thereof), or any broad-based public or private nonprofit organization, or any limited partnership in which the general partner is a nonprofit entity, or any nonprofit organization of farmworkers incorporated within the State for the purpose of providing housing and related facilities for domestic farm labor any place within the State where a need exists. All such loans shall be made in accordance withterms and conditions substantially identical with those specified in section 1472 of this title, except that—
+The Secretary is authorized to insure and make commitments to insure loans made by lenders other than the United States to the owner of any farm or any association of farmers for the purpose of providing housing and related facilities for domestic farm labor, or to any Indian tribe for such purpose, or to any State (or political subdivision thereof), or any broad-based public or private nonprofit organization, or any limited partnership in which the general partner is a nonprofit entity, or any nonprofit organization of farmworkers incorporated within the State for the purpose of providing housing and related facilities for domestic farm labor any place within the State where a need exists. All such loans shall be made in accordance with terms and conditions substantially identical with those specified in section 1472 of this title, except that—
 
 &emsp;(1) no such loan shall be insured in an amount in excess of the value of the farm involved less any prior liens in the case of a loan to an individual owner of a farm, or the total estimated value of the structures and facilities with respect to which the loan is made in the case of any other loan;
 
@@ -40,7 +40,7 @@ As used in this section—
 
 &emsp;(1) the term “housing” means (A) new structures (including household furnishings) suitable for dwelling use by domestic farm labor, and (B) existing structures (including household furnishings) which can be made suitable for dwelling use by domestic farm labor by rehabilitation, alteration, conversion, or improvement;
 
-&emsp;(2) the term “related facilities” means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or for other essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the above uses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
+&emsp;(2) the term “related facilities” means (A) new structures (including household furnishings) suitable for use as dining halls, community rooms or buildings, or infirmaries, or forother essential services facilities, and (B) existing structures (including household furnishings) which can be made suitable for the above uses by rehabilitation, alteration, conversion, or improvement and (C) land necessary for an adequate site; and
 
 &emsp;(3) the term “domestic farm labor” means any person (and the family of such person) who receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities or the handling of such commodities in the unprocessed stage, without respect to the source of employment, except that—
 
@@ -58,7 +58,7 @@ As used in this section—
 
 #### (g) Waiver of interest rate limitations
 
-The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available andare not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
+The Secretary may waive the interest rate limitation contained in subsection (a)(2) of this section and the requirement of section 1471(c)(3) of this title in any case in which the Secretary determines that qualified public or private nonprofit sponsors are not currently available and are not likely to become available within a reasonable period of time and such waiver is necessary to permit farmers to provide housing and related facilities for migrant domestic farm laborers, except that the benefits resulting from such waiver shall accrue to the tenants, and the interest rate on a loan insured under this section and for which the Secretary permits such waiver shall be no less than one-eighth of 1 per centum above the average interest rate on notes or other obligations which are issued under section 1481 of this title and have maturities comparable to such a loan.
 
 #### (h) Determination of need for assistance
 
@@ -98,7 +98,7 @@ Subsec. (j). Pub. L. 106–569, §708(b), struck out heading and text of subsec.
 
 1988—Subsec. (f)(1). Pub. L. 100–242, §316(b), struck out “and” at end.
 
-Subsec. (f)(3). Pub. L. 100–242, §305(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘domestic farm labor’ means persons who receive a substantial portion (as determined by the Secretary) of their income as laborers on farms situated in the United States, Puerto Rico, or the Virgin Islands and either (A) are citizens of the United States, or (B) reside in the United States, Puerto Rico, or the Virgin Islands after being legally admitted for permanent residence therein.”
+Subsec. (f)(3). Pub. L. 100–242, §305(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘domestic farm labor’ means persons who receive a substantial portion (as determined by the Secretary) of their income as laborers on farms situated in the United States, Puerto Rico, or the Virgin Islands and either (A) are citizens of the United States,or (B) reside in the United States, Puerto Rico, or the Virgin Islands after being legally admitted for permanent residence therein.”
 
 Subsec. (i). Pub. L. 100–628 added subsec. (i).
 

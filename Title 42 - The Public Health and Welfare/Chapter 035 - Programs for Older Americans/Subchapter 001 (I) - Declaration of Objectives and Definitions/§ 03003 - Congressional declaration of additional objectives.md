@@ -14,7 +14,7 @@ The Congress finds that millions of older citizens in this Nation are suffering 
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 93–29, May 3, 1973, 87 Stat. 30, as amended, known as the Older Americans Comprehensive Services Amendments of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 3001 of this title and Tables.
+This Act, referred to in text, means Pub. L. 93–29, May 3, 1973, 87 Stat. 30, as amended, known as the OlderAmericans Comprehensive Services Amendments of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 3001 of this title and Tables.
 
 #### Codification
 

@@ -116,7 +116,7 @@ For purposes of this section, the term “section 1256 contract” means—
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partner or limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for such taxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
+&emsp;&emsp;&emsp;Any hedging loss for a taxable year which is allocable to any limited partneror limited entrepreneur (within the meaning of paragraph (3)) shall be allowed only to the extent of the taxable income of such limited partner or entrepreneur for such taxable year attributable to the trade or business in which the hedging transactions were entered into. For purposes of the preceding sentence, taxable income shall be determined by not taking into account items attributable to hedging transactions.
 
 #### (ii) Carryover of disallowed loss
 
@@ -388,7 +388,7 @@ Special rule for self-employment tax.—Except as provided in subsection (g)(2),
 
 &emsp;“(4)
 
-Gains or losses from certain terminations.—The amendment made by subsection (d)(9) \[probably means subsec. (e)(9), which amended section 1234A of this title\] shall apply as if included in the amendment made by section 505(a) \[probably means section 507(a)\] of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34\], as amended by section 105(e) of the Technical Corrections Act of 1982 \[Pub. L. 97–448\].
+Gains or losses from certain terminations.—The amendment made by subsection (d)(9) \[probably means subsec. (e)(9), which amended section 1234A ofthis title\] shall apply as if included in the amendment made by section 505(a) \[probably means section 507(a)\] of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34\], as amended by section 105(e) of the Technical Corrections Act of 1982 \[Pub. L. 97–448\].
 
 “(g)
 
@@ -418,7 +418,7 @@ In general.—If the taxpayer makes an election under subsection (g)(2) and unde
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) any stock which was a part of a straddle including any such stock options,
 
-&emsp;&emsp;&nbsp;as having been acquired for a purchase price equal to their fair market value on the last business day of the preceding taxable year. Stock options and stock shall be taken into account under subparagraph (B)(ii) only if such options or stockwere held on the last day of the preceding taxable year and only if income on such options or stock would have been ordinary income if such options or stock were sold at a gain on such last day.
+&emsp;&emsp;&nbsp;as having been acquired for a purchase price equal to their fair market value on the last business day of the preceding taxable year. Stock options and stock shall be taken into account under subparagraph (B)(ii) only if such options or stock were held on the last day of the preceding taxable year and only if income on such options or stock would have been ordinary income if such options or stock were sold at a gain on such last day.
 
 &emsp;“(2)
 
@@ -498,7 +498,7 @@ Additional choices with respect to 1981.—If the taxpayer held a foreign curren
 
 &emsp;“(III)
 
-Additional choices apply to all regulated futures contracts.—Except as provided in subclause (IV), in the case of any taxpayer who makes an election under subclause (I), any election under section 508(c) or 509(a) of such Act or any revocation of such an election shall apply to all regulated futures contracts (including foreign currency contracts).
+Additional choices apply to all regulated futures contracts.—Except as provided in subclause (IV), in the case of any taxpayer who makes an election under subclause (I), any election under section 508(c) or 509(a) of such Act or any revocation of suchan election shall apply to all regulated futures contracts (including foreign currency contracts).
 
 &emsp;“(IV)
 

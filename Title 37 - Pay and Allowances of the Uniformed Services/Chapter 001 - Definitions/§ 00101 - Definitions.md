@@ -78,7 +78,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;&emsp;(B) special additional duties authorized for members of a reserve component by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned;
 
-> &emsp;and includes those duties when performed by members of a reserve component in their status as members of the National Guard, but does not include work or study in connection with a correspondence course of a uniformed service.
+> &emsp;and includes those duties when performed by members of a reserve component in their status as members of the National Guard, but (except as provided in section 206(d)(2) of this title) does not include work or study in connection with a correspondence course of a uniformed service.
 
 &emsp;(23) The term “member” means a person appointed or enlisted in, or conscripted into, a uniformed service.
 
@@ -104,7 +104,7 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;(26) The term “contingency operation” has the meaning given that term in section 101 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, §1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, §11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, §3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, §414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, §8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, §1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, §631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, §1182(c)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 105–85, div. A, title VI, §603(d)(1)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 105–261, div. A, title VI, §651, Oct. 17, 1998, 112 Stat. 2051.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, §3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–492, §3, Oct. 13, 1972, 86 Stat. 810; Pub. L. 93–419, §1, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title V, §§506(1), 516(1), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 96–579, §11, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 96–600, §3(b), Dec. 24, 1980, 94 Stat. 3494; Pub. L. 98–525, title IV, §414(c), Oct. 19, 1984, 98 Stat. 2520; Pub. L. 100–26, §8(e)(1), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–456, div. A, title XII, §1233(f)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–190, div. A, title VI, §631(b), Dec. 5, 1991, 105 Stat. 1380; Pub. L. 102–484, div. A, title X, §1051(b)(2), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title XI, §1182(c)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 105–85, div. A, title VI, §603(d)(1)(A), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 105–261, div. A, title VI, §651, Oct. 17, 1998, 112 Stat. 2051; Pub. L. 107–107, div. A, title VI, §603(b), Dec. 28, 2001, 115 Stat. 1133.)
 
 Historical and Revision Notes
 
@@ -240,6 +240,8 @@ For definition of Canal Zone, referred to in pars. (7) and (9), see section 3602
 
 #### Amendments
 
+2001—Par. (22). Pub. L. 107–107 inserted “(except as provided in section 206(d)(2) of this title)” after “but” in concluding provisions.
+
 1998—Par. (2). Pub. L. 105–261 struck out “the Canal Zone,” after “includes”.
 
 1997—Par. (25). Pub. L. 105–85 substituted “basic allowance for housing” for “basic allowance for quarters (including any variable housing allowance or station housing allowance)”.
@@ -258,7 +260,7 @@ Pub. L. 100–26, §8(e)(1)(B), inserted “The term” at beginning of pars. (1
 
 Pub. L. 100–26, §8(e)(1)(C), which directed that this section be amended by revising first word after open quotation marks in each paragraph (other than par. (1) and (6) through (10)) so that initial letter of such word is lowercase, was executed to par. (5) only because specified words in other pars. began with lowercase letters.
 
-Pub. L. 100–26, §8(e)(1)(D), (E), which directed a period be substituted for the semicolon at end of pars. (1) to (24) and that “and” be struck out at end of par. (24), was executed by making the substitution in pars. (1) to (23) and by striking “and” at end of par. (23), to reflect the probable intent of Congress, because par. (24) already ended in a period and “and” appeared at end of par. (23), not par. (24).
+Pub. L. 100–26, §8(e)(1)(D), (E), which directed a period be substituted for the semicolon at end of pars. (1) to (24) and that “and” be struck out at end of par. (24), was executed by making the substitution in pars. (1) to (23) and by striking “and” at end of par. (23), to reflectthe probable intent of Congress, because par. (24) already ended in a period and “and” appeared at end of par. (23), not par. (24).
 
 1984—Cl. (18). Pub. L. 98–525 inserted “full-time National Guard duty,” after “annual training duty,”.
 
@@ -322,7 +324,7 @@ Pub. L. 93–277, §1, May 10, 1974, 88 Stat. 119, provided: “That this Act \[
 
 Pub. L. 88–132, §1, Oct. 2, 1963, 77 Stat. 210, provided: “That this Act \[enacting sections 310 and 427 of this title and section 1401a of Title 10, Armed Forces, amending sections 201, 203, 301, 302, 305, 403, and 421 of this title, sections 1401, 1402, 3991, 6151, 6323, 6325 to 6327, 6381, 6383, 6390, 6394, 6396, 6398 to 6400, 6483, and 8991 of Title 10, section 423 of Title 14, Coast Guard, section 857a of Title 33, Navigation and Navigable Waters, and section 213a of Title 42, The Public Health and Welfare, repealing section 6149 of Title 10 and sections 2351 to 2356 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 201, 203, and 305 of this title, section 1402 of Title 10, and section 411 (now 1311) of Title 38, Veterans’ Benefits\] may be cited as the ‘Uniformed Services Pay Act of 1963’.”
 
-Section Referred to in Other Sections
+#### Section Referred to in Other Sections
 
 This section is referred to in title 2 section 906; title 5 sections 3326, 3501, 5531, 6323; title 10 sections 1032, 2774; title 20 section 7703; title 22 section 4833; title 26 section 6013; title 31 section 3702; title 32 section 716; title 33 section 857–1; title 38 section 5301; title 42 sections 292d, 659, 665.
 

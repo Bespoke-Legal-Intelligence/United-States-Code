@@ -90,6 +90,8 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 Provisions authorizing the travel expenses of the judges of the United States Tax Court to be paid upon the written certificate of the judge were contained in the following appropriation acts:
 
+Pub. L. 107–67, title IV, Nov. 12, 2001, 115 Stat. 543.
+
 Pub. L. 106–554, §1(a)(3) \[title IV\], Dec. 21, 2000, 114 Stat. 2763, 2763A–150.
 
 Pub. L. 106–58, title IV, Sept. 29, 1999, 113 Stat. 463.

@@ -12,7 +12,7 @@
 
 &emsp;(3) a partnership whose general partners are citizens of the United States, and the controlling interest in the partnership is owned by citizens of the United States;
 
-&emsp;(4) a corporation established under the laws of the United States or of a State, whose chief executive officer, by whatever title, and chairman of its board of directors are citizens of the United States and no more of its directorsare noncitizens than a minority of the number necessary to constitute a quorum;
+&emsp;(4) a corporation established under the laws of the United States or of a State, whose chief executive officer, by whatever title, and chairman of its board of directors are citizens of the United States and no more of its directors are noncitizens than a minority of the number necessary to constitute a quorum;
 
 &emsp;(5) the United States Government; or
 
@@ -20,9 +20,33 @@
 
 (b) A vessel is eligible for documentation only if it has been measured under part J of this subtitle. However, the Secretary of Transportation may issue a temporary certificate of documentation for a vessel before it is measured.
 
-(c)(1) A vessel owned by a corporation is not eligible for a fishery endorsement under section 12108 of this title unless the controlling interest (as measured by a majority of voting shares in that corporation) is owned by individuals who are citizens of the United States. However, if the corporation is owned in whole or in part by other United States corporations, the controlling interest in those corporations, in the aggregate, must be owned by individuals who are citizens of the United States.
+(c)(1) A vessel owned by a corporation, partnership, association, trust, joint venture, limited liability company, limited liability partnership, or any other entity is not eligible for a fishery endorsement under section 12108 of this title unless at least 75 per centum of the interest in such entity, at each tier of ownership of such entity and in the aggregate, is owned and controlled by citizens of the United States.
 
-(2) The Secretary shall apply the restrictions on controlling interest in section 2(b) of the Shipping Act, 1916 (46 App. U.S.C. 802(b)) when applying this subsection.
+(2) The Secretary shall apply section 2(c) of the Shipping Act, 1916 (46 App. U.S.C. 802(c)) in determining under this subsection whether at least 75 per centum of the interest in a corporation, partnership, association, trust, joint venture, limited liability company, limited liability partnership, or any other entity is owned and controlled by citizens of the United States. For the purposes of this subsection and of applying the restrictions on controlling interest in section 2(c) of such Act, the terms “control” or “controlled”—
+
+&emsp;(A) shall include—
+
+&emsp;&emsp;(i) the right to direct the business of the entity which owns the vessel;
+
+&emsp;&emsp;(ii) the right to limit the actions of or replace the chief executive officer, a majority of the board of directors, any general partner, or any person serving in a management capacity of the entity which owns the vessel; or
+
+&emsp;&emsp;(iii) the right to direct the transfer, operation or manning of a vessel with a fishery endorsement; and
+
+&emsp;(B) shall not include the right to simply participate in the activities under subparagraph (A), or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under section 31322(a) of this title, provided that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such a vessel to the extent necessary for the immediate safety of the vessel or for repairs, drydocking or berthing changes.
+
+(3) A fishery endorsement for a vessel that is chartered or leased to an individual who is not a citizen of the United States or to an entity that is not eligible to own a vessel with a fishery endorsement and used as a fishing vessel shall be invalid immediately upon such use.
+
+(4) The requirements of this subsection shall not apply to a vessel when it is engaged in fisheries in the exclusive economic zone under the authority of the Western Pacific Fishery Management Council established under section 302(a)(1)(H) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)(H)) or to a purse seine vessel when it is engaged in tuna fishing in the Pacific Ocean outside the exclusive economic zone of the United States or pursuant to the South Pacific Regional Fisheries Treaty, provided that the owner of the vessel continues to comply with the eligibility requirements for a fishery endorsement under the federal <sup>1</sup> law that was in effect on October 1, 1998. A fishery endorsement issued by the Secretary pursuant to this paragraph shall be valid for engaging only in fisheries in the exclusive economic zone under the authority of such Council, in such tuna fishing in the Pacific Ocean, or pursuant to such Treaty.
+
+(5) A vessel greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower is not eligible for a fishery endorsement under section 12108 of this title unless—
+
+&emsp;(A)(i) a certificate of documentation was issued for the vessel and endorsed with a fishery endorsement that was effective on September 25, 1997;
+
+&emsp;(ii) the vessel is not placed under foreign registry after the date of the enactment of the American Fisheries Act; and
+
+&emsp;(iii) in the event of the invalidation of the fishery endorsement after the date of the enactment of the American Fisheries Act, application is made for a new fishery endorsement within fifteen (15) business days of such invalidation; or
+
+&emsp;(B) the owner of such vessel demonstrates to the Secretary that the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)) has recommended after the date of the enactment of the American Fisheries Act, and the Secretary of Commerce has approved, conservation and management measures in accordance with such Act to allow such vessel to be used in fisheries under such council's authority.
 
 (d)(1) For the issuance of a certificate of documentation with only a registry endorsement, subsection (a)(2)(A) of this section does not apply to a beneficiary of a trust that is qualified under paragraph (2) of this subsection if the vessel is subject to a charter to a citizen of the United States.
 
@@ -38,57 +62,7 @@
 
 (4) If a person chartering a vessel from a trust that is qualified under paragraph (2) of this subsection is a citizen of the United States under section 2 of the Shipping Act, 1916 (46 App. U.S.C. 802), then the vessel is deemed to be owned by a citizen of the United States for purposes of that section and related laws, except for subtitle B of title VI of the Merchant Marine Act, 1936.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, §5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, §7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, §104(a)(4), (5), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(2), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 104–324, title XI, §1136(a), Oct. 19, 1996, 110 Stat. 3986; Pub. L. 105–277, div. C, title II, §202(a), Oct. 21, 1998, 112 Stat. 2681–617; Pub. L. 105–383, title IV, §§401(a)(1), 421, Nov. 13, 1998, 112 Stat. 3424, 3439.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 105–277, div. C, title II, §§202(a), 203(a), Oct. 21, 1998, 112 Stat. 2681–617, 2681–619, provided that, effective Oct. 1, 2001, subsection (c) of this section is amended to read as follows—</i>
-
-(c)(1) A vessel owned by a corporation, partnership, association, trust, joint venture, limited liability company, limited liability partnership, or any other entity is not eligible for a fishery endorsement under section 12108 of this title unless at least 75 per centum of the interest in such entity, at each tier of ownership of such entity and in the aggregate, is owned and controlled by citizens of the United States.
-
-(2) The Secretary shall apply section 2(c) of the Shipping Act, 1916 (46 App. U.S.C. 802(c)) in determining under this subsection whether at least 75 per centum of the interest in a corporation, partnership, association, trust, joint venture, limited liability company, limited liability partnership, or any other entity is owned and controlled by citizens of the United States. For the purposes of this subsection and of applying the restrictions on controlling interest in section 2(c) of such Act, the terms “control” or “controlled”—
-
-&emsp;(A) shall include—
-
-&emsp;&emsp;(i) the right to direct the business of the entity which owns the vessel;
-
-&emsp;&emsp;(ii) the right to limit the actions of or replace the chief executive officer, a majority of the board of directors, any general partner, or any person serving in a management capacity of the entity which owns the vessel; or
-
-&emsp;&emsp;(iii) the right to direct the transfer, operation or manning of a vessel with a fishery endorsement; and
-
-&emsp;(B) shall not include the right to simply participate in the activities under subparagraph (A), or the use by a mortgagee under paragraph (4) of loan covenants approved by the Secretary.
-
-(3) A fishery endorsement for a vessel that is chartered or leased to an individual who is not a citizen of the United States or to an entity that is not eligible to own a vessel with a fishery endorsement and used as a fishing vessel shall be invalid immediately upon such use.
-
-(4)(A) An individual or entity that is otherwise eligible to own a vessel with a fishery endorsement shall be ineligible by reason of an instrument or evidence of indebtedness, secured by a mortgage of the vessel to a trustee eligible to own a vessel with a fishery endorsement that is issued, assigned, transferred or held in trust for a person not eligible to own a vessel with a fishery endorsement, unless the Secretary determines that the issuance, assignment, transfer, or trust arrangement does not result in an impermissible transfer of control of the vessel and that the trustee—
-
-&emsp;(i) is organized as a corporation, and is doing business, under the laws of the United States or of a State;
-
-&emsp;(ii) is authorized under those laws to exercise corporate trust powers;
-
-&emsp;(iii) is subject to supervision or examination by an official of the United States Government or a State;
-
-&emsp;(iv) has a combined capital and surplus (as stated in its most recent published report of condition) of at least $3,000,000; and
-
-&emsp;(v) meets any other requirements prescribed by the Secretary.
-
-(B) A vessel with a fishery endorsement may be operated by a trustee only with the approval of the Secretary.
-
-(C) A right under a mortgage of a vessel with a fishery endorsement may be issued, assigned, or transferred to a person not eligible to be a mortgagee of that vessel under section 31322(a)(4) of this title only with the approval of the Secretary.
-
-(D) The issuance, assignment, or transfer of an instrument or evidence of indebtedness contrary to this paragraph is voidable by the Secretary.
-
-(5) The requirements of this subsection shall not apply to a vessel when it is engaged in fisheries in the exclusive economic zone under the authority of the Western Pacific Fishery Management Council established under section 302(a)(1)(H) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)(H)) or to a purse seine vessel when it is engaged in tuna fishing in the Pacific Ocean outside the exclusive economic zone of the United States or pursuant to the South Pacific Regional Fisheries Treaty, provided that the owner of the vessel continues to comply with the eligibility requirements for a fishery endorsement under the federal law that was in effect on October 1, 1998. A fishery endorsement issued by the Secretary pursuant to this paragraph shall be valid for engaging only in fisheries in the exclusive economic zone under the authority of such Council, in such tuna fishing in the Pacific Ocean, or pursuant to such Treaty.
-
-(6) A vessel greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower is not eligible for a fishery endorsement under section 12108 of this title unless—
-
-&emsp;(A)(i) a certificate of documentation was issued for the vessel and endorsed with a fishery endorsement that was effective on September 25, 1997;
-
-&emsp;(ii) the vessel is not placed under foreign registry after the date of the enactment of the American Fisheries Act; and
-
-&emsp;(iii) in the event of the invalidation of the fishery endorsement after the date of the enactment of the American Fisheries Act, application is made for a new fishery endorsement within fifteen (15) business days of such invalidation; or
-
-&emsp;(B) the owner of such vessel demonstrates to the Secretary that the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)) has recommended after the date of the enactment of the American Fisheries Act, and the Secretary of Commerce has approved, conservation and management measures in accordance with such Act to allow such vessel to be used in fisheries under such council's authority.
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, §5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, §7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, §104(a)(4), (5), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(2), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 104–324, title XI, §1136(a), Oct. 19, 1996, 110 Stat. 3986; Pub. L. 105–277, div. C, title II, §202(a), Oct. 21, 1998, 112 Stat. 2681–617; Pub. L. 105–383, title IV, §§401(a)(1), 421, Nov. 13, 1998, 112 Stat. 3424, 3439; Pub. L. 107–20, title II, §2202(a), July 24, 2001, 115 Stat. 168.)
 
 Historical and Revision Notes
 
@@ -104,13 +78,45 @@ Section 12102 provides that vessels of at least five net tons, not registered un
 
 #### References in Text
 
+The date of the enactment of the American Fisheries Act, referred to in subsec. (c)(5), is the date of enactment of title II of div. C of Pub. L. 105–277, which was approved Oct. 21, 1998.
+
+Such Act, referred to in subsec. (c)(5)(B), probably means the Magnuson-Stevens Fishery Conservation and Management Act, Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+
 The Merchant Marine Act, 1936, referred to in subsec. (d)(4), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Subtitle B of title VI of the Act is classified generally to part B (§1187 et seq.) of subchapter VI of chapter 27 of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
 
 #### Amendments
 
+2001—Subsec. (c)(2)(B). Pub. L. 107–20, §2202(a)(1), substituted “or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under section 31322(a) of this title, provided that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such a vessel to the extent necessary for the immediate safety of the vessel or for repairs, drydocking or berthing changes” for “or the use by a mortgagee under paragraph (4) of loan covenants approved by the Secretary”.
+
+Subsec. (c)(4) to (6). Pub. L. 107–20, §2202(a)(2), which directed amendment of subsec. (c) “by striking paragraph (4) and renumbering the remaining paragraph accordingly”, was executed by striking par. (4) and redesignating pars. (5) and (6) as (4) and (5), respectively, to reflect the probable intent of Congress. Prior to amendment, par. (4) read as follows:
+
+“(4)(A) An individual or entity that is otherwise eligible to own a vessel with a fishery endorsement shall be ineligible by reason of an instrument or evidence of indebtedness, secured by a mortgage of the vessel to a trustee eligible to own a vessel with a fishery endorsement that is issued, assigned, transferred or held in trust for a person not eligible to own a vessel with a fishery endorsement, unless the Secretary determines that the issuance, assignment, transfer, or trust arrangement does not result in an impermissible transfer of control of the vessel and that the trustee—
+
+&emsp;“(i) is organized as a corporation, and is doing business, under the laws of the United States or of a State;
+
+&emsp;“(ii) is authorized under those laws to exercise corporate trust powers;
+
+&emsp;“(iii) is subject to supervision or examination by an official of the United States Government or a State;
+
+&emsp;“(iv) has a combined capital and surplus (as stated in its most recent published report of condition) of at least $3,000,000; and
+
+&emsp;“(v) meets any other requirements prescribed by the Secretary.
+
+“(B) A vessel with a fishery endorsement may be operated by a trustee only with the approval of the Secretary.
+
+“(C) A right under a mortgage of a vessel with a fishery endorsement may be issued, assigned, or transferred to a person not eligible to be a mortgagee of that vessel under section 31322(a)(4) of this title only with the approval of the Secretary.
+
+“(D) The issuance, assignment, or transfer of an instrument or evidence of indebtedness contrary to this paragraph is voidable by the Secretary.”
+
 1998—Subsec. (a). Pub. L. 105–383, §401(a)(1), struck out “or is not titled in a State” after “a foreign country” in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 105–383, §421, struck out “president or other” after “a State, whose” and inserted “, by whatever title,” after “chief executive officer”.
+
+Subsec. (c). Pub. L. 105–277 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+
+“(c)(1) A vessel owned by a corporation is not eligible for a fishery endorsement under section 12108 of this title unless the controlling interest (as measured by a majority of voting shares in that corporation) is owned by individuals who are citizens of the United States. However, if the corporation is owned in whole or inpart by other United States corporations, the controlling interest in those corporations, in the aggregate, must be owned by individuals who are citizens of the United States.
+
+“(2) The Secretary shall apply the restrictions on controlling interest in section 2(b) of the Shipping Act, 1916 (46 App. U.S.C. 802(b)) when applying this subsection.”
 
 1996—Subsec. (d). Pub. L. 104–324 added subsec. (d).
 
@@ -124,13 +130,17 @@ Pub. L. 100–239, §7(a), directed that “(a)” be inserted before “A vesse
 
 1986—Pub. L. 99–509 designated existing provisions as subsec. (a) and added subsec. (b) relating to eligibility of a vessel for documentation after having been measured under part J.
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–20, title II, §2202(d), July 24, 2001, 115 Stat. 170, provided that: “Section 31322 of title 46, United States Code as amended in this section, and as amended by section 202(b) of the American Fisheries Act (Public Law 105–277, division C, title II) shall not take effect until April 1, 2003, nor shall the Secretary of Transportation, in determining whether a vessel owner complies with the requirements of section 12102(c) of title 46, United States Code, consider the citizenship status of a lender, in its capacity as a lender with respect to that vessel owner, until after April 1, 2003.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–277, div. C, title II, §203(a), Oct. 21, 1998, 112 Stat. 2681–619, provided that: “The amendments made by section 202 \[amending this section and section 31322 of this title\] shall take effect on October 1, 2001.”
 
 #### Effective Date of 1989 Amendment
 
-Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
+Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section 301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -162,9 +172,9 @@ Feet.—The Secretary of Transportation shall establish such requirements as are
 
 Endorsements Revoked.—The Secretary of Transportation shall revoke the fishery endorsement of any vessel subject to section 12102(c) of title 46, United States Code, as amended by this Act, whose owner does not comply with such section.”
 
-#### Inapplicability of Subsection (c)(6) to Certain Menhaden Fisheries
+#### Inapplicability of Subsection (c)(5) to Certain Menhaden Fisheries
 
-Pub. L. 106–31, title III, §3027(c), May 21, 1999, 113 Stat. 102, provided that: “The limitation on registered length contained in section 12102(c)(6) of title 46, United States Code, shall not apply to a vessel used solely in any menhaden fishery which is located in the Gulf of Mexico or along the Atlantic coast south of the area under the authority of the New England Fishery Management Council for so long as such vessel is used in such fishery.”
+Pub. L. 106–31, title III, §3027(c), May 21, 1999, 113 Stat. 102, provided that: “The limitation on registered length contained in section 12102(c)(6) \[now section 12102(c)(5)\] of title 46, United States Code, shall not apply to a vessel used solely in any menhaden fishery which is located in the Gulf of Mexico or along the Atlantic coast south of the area under the authority of the New England Fishery Management Council for so long as such vessel is used in such fishery.”
 
 #### Application of Section to Fishing Vessels in California
 
@@ -172,13 +182,7 @@ Citizen of the United States to include an alien lawfully admitted for permanent
 
 #### Applicability of Subsection (b)
 
-Section 7(b) of Pub. L. 100–239 provided that: “Section 12102(b) of title 46, United States Code (as enacted by subsection (a) of this section) applies to vessels issued a fishery license after July 28, 1987. However, that section does not apply if before that date the vessel—
-
-&emsp;“(1) was documented under chapter 121 of title 46 and operating as a fishing, fish processing, or fish tender vessel in the navigable waters of the United States or the Exclusive Economic Zone; or
-
-&emsp;“(2) was contracted for purchase for use as a fishing, fish tender, or fish processing vessel in the navigable waters of the United States or the Exclusive Economic Zone, if the purchase is shown by the contract or similarly reliable evidence acceptable to the Secretary to have been made for the purpose of using the vessel in the fisheries.”
-
-\[Pub. L. 105–277, div. C, title II, §204, Oct. 21, 1998, 112 Stat. 2681–620, provided that, effective Oct. 1, 2001, section 7(b) of Pub. L. 100–239, set out above, is repealed.\]
+Section 7(b) of Pub. L. 100–239 provided that subsec. (b) of this section applied to vessels issued a fishery license after July 28, 1987, with exceptions for certain vessels documented under this chapter or contracted for purchase for use as fishing or fish processing vessels, prior to repeal by Pub. L. 105–277, div. C, title II, §204, Oct. 21, 1998, 112 Stat. 2681–620, effective Oct. 1, 2001.
 
 #### Temporary Restriction on Documentation of Foreign-Built Fish Processing Vessels
 
@@ -187,4 +191,6 @@ Pub. L. 100–111, Aug. 20, 1987, 101 Stat. 733, as amended by Pub. L. 100–151
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 12106, 12112, 12122, 31322, 31329 of this title; section 1704 of Appendix to this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

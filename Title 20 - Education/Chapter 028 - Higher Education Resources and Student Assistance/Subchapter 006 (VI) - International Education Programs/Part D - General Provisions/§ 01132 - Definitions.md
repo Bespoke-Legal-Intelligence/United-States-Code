@@ -18,7 +18,7 @@ As used in this subchapter—
 
 &emsp;(7) the term “critical languages” means each of the languages contained in the list of critical languages designated by the Secretary pursuant to section 212(d) of the Education for Economic Security Act (50 Fed. Reg. 149, 31413), except that, in the implementation of this definition, the Secretary may set priorities according to the purposes of this subchapter;
 
-&emsp;(8) the term “institution of higher education” means, in addition to institutions which meet the definition of section 1001 of this title, institutions which meet the requirements of section 1001 of this title except that (1) they are not located in the United States, and (2) they apply for assistance under this title in consortia with institutions which meet the definition of section 1001 of this title; and
+&emsp;(8) the term “institution of higher education” means, in addition to institutions which meet the definition of section 1001 of this title, institutions which meet the requirements of section 1001 of this title except that (1) they are not located in the United States, and (2) they apply for assistance under this subchapter in consortia with institutions which meet the definition of section 1001 of this title; and
 
 &emsp;(9) the term “educational programs abroad” means programs of study, internships, or service learning outside the United States which are part of a foreign language or other international curriculum at the undergraduate or graduate education levels.
 

@@ -120,7 +120,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;(i) an amount equal to the original issue discount, or
 
-&emsp;&emsp;&emsp;(ii) if at the time of original issue there was no intention to call the debt instrument before maturity, an amount whichbears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity,
+&emsp;&emsp;&emsp;(ii) if at the time of original issue there was no intention to call the debt instrument before maturity, an amount which bears the same ratio to the original issue discount as the number of complete months that the debt instrument was held by the taxpayer bears to the number of complete months from the date of original issue to the date of maturity,
 
 > &emsp;&emsp;shall be considered as ordinary income.
 
@@ -198,7 +198,7 @@ Treatment of Debt Instruments Received in Exchange for Property.—
 
 In general.—
 
-&emsp;&emsp;“(A) Except as otherwise provided in this subsection, section 1274 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 41) and the amendment made by section 41(b) (relating to amendment of section 483) shall apply to sales or exchanges after December 31, 1984.
+&emsp;&emsp;“(A) Except as otherwise provided in this subsection, section 1274 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 41)and the amendment made by section 41(b) (relating to amendment of section 483) shall apply to sales or exchanges after December 31, 1984.
 
 &emsp;&emsp;“(B) Section 1274 of such Code and the amendment made by section 41(b) shall not apply to any sale or exchange pursuant to a written contract which was binding on March 1, 1984, and at all times thereafter before the sale or exchange.
 
@@ -526,7 +526,7 @@ Spread period.—For purposes of this paragraph, the term ‘spread period’ me
 
 &emsp;&emsp;“(D)
 
-Cash basis income.—For purposes of this paragraph, the term ‘cash basis income’ means for any taxable year the aggregate amount which would be includible in the gross income of the taxpayer with respect to short-term obligations described in subsection (b) of section 1281 of such Codeif the provisions of section 1281 of such Code did not apply to such taxable year and all prior taxable years within the spread period.
+Cash basis income.—For purposes of this paragraph, the term ‘cash basis income’ means for any taxable year the aggregate amount which would be includible in the gross income of the taxpayer with respect to short-term obligations described in subsection (b) of section 1281 of such Code if the provisions of section 1281 of such Code did not apply to such taxable year and all prior taxable years within the spread period.
 
 &emsp;&emsp;“(E)
 

@@ -32,7 +32,7 @@ The board shall recommend to the Secretary 1 or more rates of assessment to be l
 
 #### (f) Investment of assessments
 
-Pending disbursement of assessments under a budget approved by the Secretary, a board may invest assessments collected under this section in—
+Pending disbursement of assessments under a budget approved by the Secretary, a board mayinvest assessments collected under this section in—
 
 &emsp;(1) obligations of the United States or any agency of the United States;
 

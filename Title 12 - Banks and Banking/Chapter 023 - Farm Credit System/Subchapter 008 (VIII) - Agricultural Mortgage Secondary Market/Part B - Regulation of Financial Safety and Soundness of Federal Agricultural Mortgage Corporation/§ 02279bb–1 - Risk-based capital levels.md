@@ -2,7 +2,7 @@
 
 #### (a) Risk-based capital test
 
-Not sooner than the expiration of the 3-year period beginning on February 10, 1996, the Director of the Office of Secondary Market Oversightshall, by regulation, establish a risk-based capital test under this section for the Corporation. When applied to the Corporation, the risk-based capital test shall determine the amount of regulatory capital for the Corporation that is sufficient for the Corporation to maintain positive capital during a 10-year period in which both of the following circumstances occur:
+Not sooner than the expiration of the 3-year period beginning on February 10, 1996, the Director of the Office of Secondary Market Oversight shall, by regulation, establish a risk-based capital test under this section for the Corporation. When applied to the Corporation, the risk-based capital test shall determine the amount of regulatory capital for the Corporation that is sufficient for the Corporation to maintain positive capital during a 10-year period in which both of the following circumstances occur:
 
 #### (1) Credit risk
 
@@ -66,7 +66,7 @@ The Director shall make copies of the statistical model or models used to implem
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted “Not sooner than the expiration of the 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
+1996—Subsec. (a). Pub. L. 104–105, §113(1), in first sentence, substituted “Not sooner than the expiration ofthe 3-year period beginning on February 10, 1996,” for “Not later than the expiration of the 2-year period beginning on December 13, 1991,”.
 
 Subsec. (b)(1)(C). Pub. L. 104–105, §109(b)(3), substituted “Director may” for “Director shall” and inserted before semicolon at end “(as in effect before February 10, 1996)”.
 

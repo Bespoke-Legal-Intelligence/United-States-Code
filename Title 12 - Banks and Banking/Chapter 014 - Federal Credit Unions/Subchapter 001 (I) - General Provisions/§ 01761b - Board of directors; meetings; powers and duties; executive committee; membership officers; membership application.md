@@ -54,7 +54,7 @@ Provisions similar to those comprising this section were contained in section 11
 
 1987—Par. (1). Pub. L. 100–86, §705, substituted “of the credit union” for “of the board of directors”.
 
-Par. (2). Pub. L. 100–86, §704(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character in compliance with regulations of the Board, and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union;”.
+Par. (2). Pub. L. 100–86, §704(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character in compliance withregulations of the Board, and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union;”.
 
 1983—Pub. L. 97–457, §28(1), substituted “direction” for “directions” after “shall have the general”.
 

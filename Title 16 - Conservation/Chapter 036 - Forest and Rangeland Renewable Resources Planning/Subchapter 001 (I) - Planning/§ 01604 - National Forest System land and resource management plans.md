@@ -34,7 +34,7 @@ Plans developed in accordance with this section shall—
 
 &emsp;(3) be prepared by an interdisciplinary team. Each team shall prepare its plan based on inventories of the applicable resources of the forest;
 
-&emsp;(4) be amended in any manner whatsoever after final adoption after public notice, and, if such amendment would result in a significant change in such plan, in accordance with the provisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section; and
+&emsp;(4) be amended in any manner whatsoever after final adoption after public notice, and, if such amendment would result in a significant change in such plan, in accordance with theprovisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section; and
 
 &emsp;(5) be revised (A) from time to time when the Secretary finds conditions in a unit have significantly changed, but at least every fifteen years, and (B) in accordance with the provisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section.
 
@@ -110,7 +110,7 @@ The Secretary shall—
 
 &emsp;(1) formulate and implement, as soon as practicable, a process for estimating long-terms <sup>1</sup> costs and benefits to support the program evaluation requirements of this subchapter. This process shall include requirements to provide information on a representative sample basis of estimated expenditures associated with the reforestation, timber stand improvement, and sale of timber from the National Forest System, and shall provide a comparison of these expenditures to the return to the Government resulting from the sale of timber; and
 
-&emsp;(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and
+&emsp;(2) include a summary of data and findings resulting from these estimates as a part of the annual report required pursuant to section 1606(c) of this title, including an identification on a representative sample basis of those advertised timber sales made below the estimated expenditures for such timber as determined by the above cost process; and <sup>2</sup>
 
 #### (m) Establishment of standards to ensure culmination of mean annual increment of growth; silvicultural practices; salvage harvesting; exceptions
 
@@ -138,6 +138,10 @@ Subsecs. (c) to (m). Pub. L. 94–588, §6, added subsecs. (c) to (m).
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 1601 of this title.
 
+#### Revision of Forest Plans
+
+Pub. L. 107–63, title III, §327, Nov. 5, 2001, 115 Stat. 470, provided that: “Prior to October 1, 2002, the Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
+
 #### Expeditious Completion of Management Plans of Forest Service and Bureau of Land Management; Continuation of Existing Plans; Judicial Review
 
 Pub. L. 101–121, title III, §312, Oct. 23, 1989, 103 Stat. 743, provided that: “The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) \[16 U.S.C. 1604(c)\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: <i>Provided, however</i>, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: <i>Provided further</i>, That any and all particular activities to be carried out under existing plans may nevertheless be challenged.”
@@ -155,4 +159,6 @@ Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 17
 This section is referred to in sections 460<i>oo</i>, 460vv–4, 460hhh–4, 460jjj–1, 539d, 542d, 545a, 546a–1, 1611 of this title; title 42 section 8855; title 43 section 1752.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “long-term”.</i>
+
+<i><sup>2</sup></i><i> So in original. The “; and” probably should be a period.</i>
 

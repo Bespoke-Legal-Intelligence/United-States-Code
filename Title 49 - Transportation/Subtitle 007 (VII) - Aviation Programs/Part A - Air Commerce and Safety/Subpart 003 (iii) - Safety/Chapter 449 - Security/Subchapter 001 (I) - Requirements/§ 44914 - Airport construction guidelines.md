@@ -1,8 +1,8 @@
 ### §44914. Airport construction guidelines
 
-In consultation with air carriers, airport authorities, and others the Administrator of the Federal Aviation Administration considers appropriate, the Administrator shall develop guidelines for airport design and construction to allow for maximum security enhancement. In developing the guidelines, the Administrator shall consider the results of the assessment carried out under section 44904(a) of this title.
+In consultation with air carriers, airport authorities, and others the Under Secretary of Transportation for Security considers appropriate, the Under Secretary shall develop guidelines for airport design and construction to allow for maximum security enhancement. In developing the guidelines, the Under Secretary shall consider the results of the assessment carried out under section 44904(a) of this title.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1214.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1214; Pub. L. 107–71, title I, §101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -27,4 +27,8 @@ Nov. 16, 1990, Pub. L. 101–604, §106(f), 104 Stat. 3075.
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §612(d); added Nov. 16, 1990, Pub. L. 101–604, §110(a), 104 Stat. 3080.
 
 The words “In developing the guidelines” are substituted for “In developing airport construction guidelines under subsection (d) of section 612 of the Federal Aviation Act of 1958, as added by section 110 of this Act” in section 106(f) of the Aviation Security Improvement Act of 1990 (Public Law 101–604, 104 Stat. 3075) to eliminate unnecessary words.
+
+#### Amendments
+
+2001—Pub. L. 107–71 substituted “Under Secretary” for “Administrator” wherever appearing and “of Transportation for Security” for “of the Federal Aviation Administration”.
 

@@ -76,7 +76,7 @@ No lands or waters, or interests therein, that are owned by the Foundation and a
 
 (5)
 
-Reconveyance of real property.—The Foundation shall convey at not less than fair market value any real property acquired by theFoundation in whole or in part with Federal funds if the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided, and the agency does not disagree within 60 calendar days after the date of the notification, that—
+Reconveyance of real property.—The Foundation shall convey at not less than fair market value any real property acquired by the Foundation in whole or in part with Federal funds if the Foundation notifies the Federal agency that administers the Federal program under which the funds were provided, and the agency does not disagree within 60 calendar days after the date of the notification, that—
 
 &emsp;(A) the property is no longer valuable for the purpose of conservation or management of fish, wildlife, plants, and other natural resources; and
 
@@ -106,7 +106,7 @@ Reconveyance of real property.—The Foundation shall convey at not less than fa
 
 #### (g) Consultation
 
-In carrying out any action on the part of the Foundation under subsection (f) of this section, the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
+In carrying out any action on the part of the Foundation under subsection (f) of this section,the Directors of the Board shall consult with the Administrator of the National Oceanic and Atmospheric Administration and the Marine Mammal Commission.
 
 #### (h) Expenditures for printing services or capital equipment
 
@@ -194,7 +194,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IX, §902\], Oct. 21, 1998, 112 Stat
 
 #### Draw Down of Federal Funds; Exemption From Audit Requirements
 
-Pub. L. 102–440, title III, §304, Oct. 23, 1992, 106 Stat. 2235, which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by Pub. L. 106–408, title II, §204(d), Nov. 1, 2000, 114 Stat. 1779.
+Pub. L. 102–440, title III, §304, Oct. 23, 1992, 106 Stat. 2235, which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would beexempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by Pub. L. 106–408, title II, §204(d), Nov. 1, 2000, 114 Stat. 1779.
 
 #### Section Referred to in Other Sections
 

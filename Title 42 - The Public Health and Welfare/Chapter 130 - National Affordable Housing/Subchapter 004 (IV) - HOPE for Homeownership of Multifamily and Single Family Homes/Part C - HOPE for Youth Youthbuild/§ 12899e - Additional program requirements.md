@@ -26,7 +26,7 @@ A Youthbuild program receiving assistance under this part shall be structured so
 
 #### (c) Authority restriction
 
-No provision of this part may be construed to authorize any agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system, or over the selection of library resources, textbooks, or other printed or published instructional materials by any educational institution or school system.
+No provision of this part may be construed to authorize any agency, officer, or employee ofthe United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system, or over the selection of library resources, textbooks, or other printed or published instructional materials by any educational institution or school system.
 
 #### (d) State and local standards
 
@@ -40,7 +40,7 @@ To the extent consistent with the provisions of this part, sections 142, 143 and
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (e), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Sections 142, 143, and 167 of the Act were classified to sections 1552, 1553, and 1577, respectively, of Title 29 prior to repeal. For complete classification of this Act to the Code, see Tables.
+The Job Training Partnership Act, referred to in subsec. (e), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Sections 142, 143, and 167 of the Act were classified to sections 1552, 1553, and 1577, respectively, of Title 29 prior to repeal. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

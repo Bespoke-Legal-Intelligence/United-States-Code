@@ -12,7 +12,7 @@ Wages, fees, or salary of any employee of a foreign government or of an internat
 
 #### (b) Certificate by Secretary of State
 
-The Secretary of State shall certify to the Secretary of the Treasury the names of the foreign countries which grant an equivalent exemption to the employees of the Government of theUnited States performing services in such foreign countries, and the character of the services performed by employees of the Government of the United States in foreign countries.
+The Secretary of State shall certify to the Secretary of the Treasury the names of the foreign countries which grant an equivalent exemption to the employees of the Government of the United States performing services in such foreign countries, and the character of the services performed by employees of the Government of the United States in foreign countries.
 
 #### (c) Limitation on exclusion
 

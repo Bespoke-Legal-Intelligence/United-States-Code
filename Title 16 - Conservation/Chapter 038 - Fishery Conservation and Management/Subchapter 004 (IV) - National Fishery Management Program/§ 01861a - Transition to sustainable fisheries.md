@@ -64,7 +64,7 @@
 
 (B) The industry fee system shall be considered approved if the referendum votes which are cast in favor of the proposed system constitute a two-thirds majority of the participants voting.
 
-(2) Notwithstanding section 1854(d) of this title and consistent with an approved industry fee system, the Secretary is authorized to establish such a system to fund the program and repay debt obligations incurred pursuant to section 1279f <sup>1</sup> of title 46, Appendix. The fees for a program established under this section shall—
+(2) Notwithstanding section 1854(d) of this title and consistent with an approved industry fee system, the Secretary is authorized to establishsuch a system to fund the program and repay debt obligations incurred pursuant to section 1279f <sup>1</sup> of title 46, Appendix. The fees for a program established under this section shall—
 
 &emsp;(A) be determined by the Secretary and adjusted from time to time as the Secretary considers necessary to ensure the availability of sufficient funds to repay such debt obligations;
 
@@ -98,7 +98,7 @@ Section 1279f of title 46, Appendix, referred to in subsecs. (b)(1)(C), (c)(1)(C
 
 #### Prior Provisions
 
-A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date noteunder section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
+A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date note under section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
 
 #### Study of Federal Investment in Fisheries
 

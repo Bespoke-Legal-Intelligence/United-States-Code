@@ -20,7 +20,7 @@
 
 #### (b) Relative rank; proportion
 
-Of the total authorized number of commissioned officers on the active list of the NationalOceanic and Atmospheric Administration, there are authorized numbers in permanent grade, in relative rank with officers of the Navy, in the proportion of eight in the grade of captain, to fourteen in the grade of commander, to nineteen in the grade of lieutenant commander, to twenty-three in the grade of lieutenant, to eighteen in the grade of lieutenant (junior grade), to eighteen in the grade of ensign.
+Of the total authorized number of commissioned officers on the active list of the National Oceanic and Atmospheric Administration, there are authorized numbers in permanent grade, in relative rank with officers of the Navy, in the proportion of eight in the grade of captain, to fourteen in the grade of commander, to nineteen in the grade of lieutenant commander, to twenty-three in the grade of lieutenant, to eighteen in the grade of lieutenant (junior grade), to eighteen in the grade of ensign.
 
 #### (c) Computation of number in grade
 

@@ -16,7 +16,7 @@ Types of Programs.—The programs authorized under this chapter are as follows:
 
 #### Report
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, provided that: “Not later than April 1, 2001, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementing the programs under chapter 112 of title 10, United States Code.”
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, provided that: “Not laterthan April 1, 2001, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementing the programs under chapter 112 of title 10, United States Code.”
 
 #### Section Referred to in Other Sections
 

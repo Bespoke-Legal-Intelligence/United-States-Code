@@ -82,7 +82,7 @@ The Federal Advisory Committee Act, referred to in subsecs. (c)(2) and (f)(1), i
 
 2000—Subsec. (b)(2)(A). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(1)\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “three members who are practicing Great Lakes pilots and who reflect a regional balance;”.
 
-Subsec. (b)(2)(E). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(2)\], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “one member representing the interests of the general public, who is an independent expert on the Great Lakes maritime industry.”
+Subsec. (b)(2)(E). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(2)\], amended subpar. (E) generally. Prior toamendment, subpar. (E) read as follows: “one member representing the interests of the general public, who is an independent expert on the Great Lakes maritime industry.”
 
 Subsec. (c)(2). Pub. L. 106–554, §1(a)(4) \[div. A, §1118(3)\], which directed the striking out of second sentence in subsec. (C)(2), was executed by striking out the second sentence in subsec. (c)(2), “The representatives shall, as appropriate, report to and advise the Committee on matters relating to Great Lakes pilotage.”, to reflect the probable intent of Congress.
 

@@ -24,9 +24,9 @@ An academic department, program or unit of an institution of higher education, i
 
 &emsp;&emsp;(C) plan to pursue the highest possible degree available in their course of study;
 
-&emsp;(6) set forth policies and procedures to ensure that Federal funds made available under this subpart for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purpose of this subpart and in no case to supplant those funds;
+&emsp;(6) set forth policies and procedures to ensure that Federal funds made available under this subpart for any fiscal year will be used tosupplement and, to the extent practical, increase the funds that would otherwise be made available for the purpose of this subpart and in no case to supplant those funds;
 
-&emsp;(7) provide assurances that, in the event that funds made available to the academic department, program or unit under this subpart areinsufficient to provide the assistance due a student under the commitment entered into between the academic department, program or unit and the student, the academic department, program or unit will, from any funds available to the department, program or unit, fulfill the commitment to the student;
+&emsp;(7) provide assurances that, in the event that funds made available to the academic department, program or unit under this subpart are insufficient to provide the assistance due a student under the commitment entered into between the academic department, program or unit and the student, the academic department, program or unit will, from any funds available to the department, program or unit, fulfill the commitment to the student;
 
 &emsp;(8) provide that the applicant will comply with the limitations set forth in section 1135d of this title;
 

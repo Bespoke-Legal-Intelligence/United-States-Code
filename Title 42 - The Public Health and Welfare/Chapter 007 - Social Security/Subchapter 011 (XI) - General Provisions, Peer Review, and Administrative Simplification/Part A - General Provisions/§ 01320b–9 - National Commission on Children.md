@@ -34,7 +34,7 @@
 
 (1) It shall be the duty and function of the Commission to serve as a forum on behalf of the children of the Nation and to conduct the studies and issue the report required by subsection (d) of this section.
 
-(2) The Commission (and any committees that it may form) shall conduct public hearings in different geographic areas of the country, both urban and rural, in order to receive the views of a broad spectrum of the public on the status of the Nation's children and on ways to safeguard and enhance the physical, mental, and emotional well-being of all of the children of the Nation, including those with physical or mental disabilities, and others whose circumstancesdeny them a full share of the opportunities that parents of the Nation may rightfully expect for their children.
+(2) The Commission (and any committees that it may form) shall conduct public hearings in different geographic areas of the country, both urban and rural, in order to receive the views of a broad spectrum of the public on the status of the Nation's children and on ways to safeguard and enhance the physical, mental, and emotional well-being of all of the children of the Nation, including those with physical or mental disabilities, and others whose circumstances deny them a full share of the opportunities that parents of the Nation may rightfully expect for their children.
 
 (3) The Commission shall receive testimony from individuals, and from representatives of public and private organizations and institutions with an interest in the welfare of children, including educators, health care professionals, religious leaders, providers of social services, representatives of organizations with children as members, elected and appointed public officials, and from parents and children speaking in their own behalf.
 
@@ -142,7 +142,7 @@ The Commission shall submit to the President, and to the Committees on Finance a
 
 (5) Decisions of the Commission shall be according to the vote of a simple majority of those present and voting at a properly called meeting.
 
-(6) Members of the Commission shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Commission.
+(6) Members of the Commission shall serve without compensation, but shall be reimbursedfor travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Commission.
 
 #### (f) Executive Director and additional personnel; appointment and compensation; consultants
 

@@ -18,7 +18,7 @@
 
 &emsp;(D) a final written decision.
 
-(5) Any member suspended pursuant to subsection (a)(3) of this section shall be entitled to grieve such action in accordance with procedures applicable to grievances under subchapter XI of this chapter. The Board review, however, shall be limited only to a determination of whether the conviction requirements of subsection (a)(3) of this section have been fulfilled, and whether there is a nexus between the conduct and the efficiency of the Service.
+(5) Any member suspended pursuant to subsection (a)(3) of this section shall be entitled togrieve such action in accordance with procedures applicable to grievances under subchapter XI of this chapter. The Board review, however, shall be limited only to a determination of whether the conviction requirements of subsection (a)(3) of this section have been fulfilled, and whether there is a nexus between the conduct and the efficiency of the Service.
 
 (6) Notwithstanding the hearing required by paragraph (2), at the time the Secretary recommends that a member of the Service be separated for cause, that member shall be placed on leave without pay pending final resolution of the underlying matter, subject to reinstatement with back pay if cause for separation is not established in a hearing before the Board.
 
@@ -26,7 +26,7 @@
 
 Any participant in the Foreign Service Retirement and Disability System who is separated under subsection (a) of this section shall be entitled to receive a refund as provided in section 4055 of this title of the contributions made by the participant to the Foreign Service Retirement and Disability Fund. Except in cases where the Secretary determines that separation was based in whole or in part on the ground of disloyalty to the United States, a participant who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect, in lieu of such refund, to an annuity, computed under section 4046 of this title, commencing at age 60.
 
-(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, titleI, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
+(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
 
 #### Amendments
 

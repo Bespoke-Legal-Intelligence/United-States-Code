@@ -14,7 +14,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 #### (1) Participation
 
-&emsp;Section 410 shall be applied as if all employees of each of the employers who are parties to the collective-bargaining agreement and who are subject to the same benefit computation formula under the plan were employed by a single employer.
+&emsp;Section 410 shall be applied as if all employees of each of the employers who are parties tothe collective-bargaining agreement and who are subject to the same benefit computation formula under the plan were employed by a single employer.
 
 #### (2) Discrimination, etc.
 
@@ -82,7 +82,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (5) Liability for funding tax
 
-&emsp;For a plan year the liability under section 4971 of each employer who maintains the plan shall be determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary—
+&emsp;For a plan year the liability under section 4971 of each employer who maintains the planshall be determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) first on the basis of their respective delinquencies in meeting required employer contributions under the plan, and
 

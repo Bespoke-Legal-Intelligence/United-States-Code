@@ -6,7 +6,7 @@
 
 (c)(1) Notwithstanding any other provision of this section, the Secretary may, after receiving a request under paragraph (2) of this subsection relating to a veteran, collect by offset of any compensation or pension payable to the veteran under laws administered by the Secretary the uncollected portion of the amount of any indebtedness associated with the veteran's participation in a plan prescribed in chapter 73 of title 10.
 
-(2) If the Secretary concerned (as defined in section 101(5) of title 37) has tried under section 3711(a) of title 31 to collect an amount described in paragraph (1) of this subsection in the case of any veteran, has been unable to collect such amount, and has determined that the uncollected portion of such amount is not collectible from amounts payable by that Secretary to the veteran or that the veteran is not receiving anypayment from that Secretary, that Secretary may request the Secretary to make collections in the case of such veteran as authorized in paragraph (1) of this subsection.
+(2) If the Secretary concerned (as defined in section 101(5) of title 37) has tried under section 3711(a) of title 31 to collect an amount described in paragraph (1) of this subsection in the case of any veteran, has been unable to collect such amount, and has determined that the uncollected portion of such amount is not collectible from amounts payable by that Secretary to the veteran or that the veteran is not receiving any payment from that Secretary, that Secretary may request the Secretary to make collections in the case of such veteran as authorized in paragraph (1) of this subsection.
 
 (3)(A) A collection authorized by paragraph (1) of this subsection shall be conducted in accordance with the procedures prescribed in section 3716 of title 31 for administrative offset collections made after attempts to collect claims under section 3711(a) of such title.
 
@@ -96,5 +96,5 @@ Pub. L. 95–202, title III, §305(c), Nov. 23, 1977, 91 Stat. 1444, provided th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1908 of this title; title 26 section 139; title 42 sections 417, 659.
+This section is referred to in section 1908 of this title; title 26 section 140; title 42 sections 417, 659.
 

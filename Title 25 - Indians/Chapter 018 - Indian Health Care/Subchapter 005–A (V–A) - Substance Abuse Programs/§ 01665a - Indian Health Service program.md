@@ -20,7 +20,7 @@
 
 (1) The Secretary, acting through the Service, may enter into contracts with public or private providers of alcohol and substance abuse treatment services for the purpose of assisting the Service in carrying out the program required under subsection (a) of this section.
 
-(2) In carrying out this subsection, the Secretary shall provide assistance to Indian tribes to develop criteria for the certification of alcohol and substance abuse service providers and accreditation of service facilities which meet minimum standards for such services and facilities as may be determined pursuant to section 2411(a)(3) of this title.
+(2) In carrying out this subsection, the Secretary shall provide assistance to Indian tribesto develop criteria for the certification of alcohol and substance abuse service providers and accreditation of service facilities which meet minimum standards for such services and facilities as may be determined pursuant to section 2411(a)(3) of this title.
 
 #### (c) Grants for model program
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A Bell operating company (including any affiliate) which is a local exchange carrier thatis subject to the requirements of section 251(c) of this title may not provide any service described in paragraph (2) unless it provides that service through one or more affiliates that—
+&emsp;A Bell operating company (including any affiliate) which is a local exchange carrier that is subject to the requirements of section 251(c) of this title may not provide any service described in paragraph (2) unless it provides that service through one or more affiliates that—
 
 &emsp;&emsp;(A) are separate from any operating company entity that is subject to the requirements of section 251(c) of this title; and
 

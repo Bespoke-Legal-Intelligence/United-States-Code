@@ -60,7 +60,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §9(r); added May 30, 1980, Pub. 
 
 49:1657(r)(4).
 
-In subsection (a), the words “Department of Transportation has” are substituted for “Secretary is authorized to establish” because the working capital fund has been established. The text of 49:1657(r)(1) (2d sentence words before last comma) are omitted as executed. The words “The Transportation Systems Center is authorized to perform” are omitted as unnecessary because of the restatement. The word “approves” is substituted for “direct . . . and, when approved by the Secretary” to eliminate unnecessary words. The words “or his designee” are omitted because of section 322(b) of the revised title.
+In subsection (a), the words “Department of Transportation has” are substituted for “Secretary is authorized to establish” because the working capital fund has been established. The text of 49:1657(r)(1) (2d sentence words before last comma) are omitted as executed. The words “The Transportation Systems Centeris authorized to perform” are omitted as unnecessary because of the restatement. The word “approves” is substituted for “direct . . . and, when approved by the Secretary” to eliminate unnecessary words. The words “or his designee” are omitted because of section 322(b) of the revised title.
 
 In subsection (c)(3) and (4), the words “fair and” are omitted as surplus.
 

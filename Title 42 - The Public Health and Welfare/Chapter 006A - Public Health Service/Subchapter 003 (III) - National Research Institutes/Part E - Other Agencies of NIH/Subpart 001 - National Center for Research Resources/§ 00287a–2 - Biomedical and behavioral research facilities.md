@@ -60,7 +60,7 @@
 
 &emsp;In selecting individuals for membership on the Board, the Director of the Center shall ensure that the members are individuals who, by virtue of their training or experience, are eminently qualified to perform peer review functions. In selecting such individuals for such membership, the Director of the Center shall ensure that the members of the Board collectively—
 
-&emsp;&emsp;(A) are experienced in the planning, construction, financing, and administration ofentities that conduct biomedical or behavioral research sciences;
+&emsp;&emsp;(A) are experienced in the planning, construction, financing, and administration of entities that conduct biomedical or behavioral research sciences;
 
 &emsp;&emsp;(B) are knowledgeable in making determinations of the need of entities for biomedical or behavioral research facilities, including such facilities for the dentistry, nursing, pharmacy, and allied health professions;
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;&emsp;(i) has been designated as a center of excellence under section 293c <sup>1</sup> of this title;
 
-&emsp;&emsp;&emsp;(ii) is located in a geographic area whose population includes a significant numberof individuals with health status deficit, and the applicant provides health services to such individuals; or
+&emsp;&emsp;&emsp;(ii) is located in a geographic area whose population includes a significant number of individuals with health status deficit, and the applicant provides health services to such individuals; or
 
 &emsp;&emsp;&emsp;(iii) is located in a geographic area in which a deficit in health care technology, services, or research resources may adversely affect the health status of the population of the area in the future, and the applicant is carrying out activities with respect to protecting the health status of such population.
 

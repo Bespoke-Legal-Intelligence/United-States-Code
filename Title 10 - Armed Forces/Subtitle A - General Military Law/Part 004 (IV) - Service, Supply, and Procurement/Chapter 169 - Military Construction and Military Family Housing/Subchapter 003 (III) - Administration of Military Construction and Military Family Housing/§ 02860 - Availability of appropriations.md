@@ -10,7 +10,7 @@ Funds appropriated to a military department or to the Secretary of Defense for a
 
 1985—Pub. L. 99–173 substituted “Availability of appropriations” for “Availability of appropriations for five years” as section catchline, and amended text generally. Prior to amendment, text read as follows: “Subject to the provisions of appropriation Acts, any funds appropriated to a military department or defense agency for the construction of military projects may be obligated for a military construction project or contract, or for any portion of such a project or contract, at any time before the end of the fourth fiscal year after the fiscal year for which funds for such project were appropriated if the funds obligated for such project (1) are obligated from funds available for military construction projects, and (2) do not exceed the amount appropriated for such project, plus any amount by which the cost of such project is increased pursuant to law.”
 
-Pub. L. 99–167 struck out subsection designation “(a)” and “and except as otherwise provided under subsection (b)” after “provisions of appropriation Acts”, andstruck out subsec. (b) which provided: “Should a requirement develop to obligate funds for a military construction project after the end of the fourth fiscal year after the fiscal year for which such funds were appropriated, such obligation may be made after the end of the 21-day period beginning on the date on which the appropriate committees of Congress receive notification of the need for such obligation and the reasons therefor.”
+Pub. L. 99–167 struck out subsection designation “(a)” and “and except as otherwise provided under subsection (b)” after “provisions of appropriation Acts”, and struck out subsec. (b) which provided: “Should a requirement develop to obligate funds for a military construction project after the end of the fourth fiscal year after the fiscal year for which such funds were appropriated, such obligation may be made after the end of the 21-day period beginning on the date on which the appropriate committees of Congress receive notification of the need for such obligation and the reasons therefor.”
 
 #### Effective Date of 1985 Amendments
 
@@ -24,9 +24,11 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 #### Availability of Appropriations for Five Years
 
-Pub. L. 106–246, div. A, §117, July 13, 2000, 114 Stat. 516, provided that: “Notwithstanding any other provision of law, any funds appropriated to a military department or defense agency for the construction of military projects may be obligated for a military construction project or contract, or for any portion of such a project or contract, at any time before the end of the fourth fiscal year after the fiscal year for which funds for such project were appropriated if the funds obligated for such project: (1) are obligated from funds available for military construction projects; and (2) do not exceed the amount appropriated for such project, plus any amount by which the cost of such project is increased pursuant to law.”
+Pub. L. 107–64, §117, Nov. 5, 2001, 115 Stat. 479, provided that: “Notwithstanding any other provision of law, any funds appropriated to a military department or defense agency for the construction of military projects may be obligated for a military construction project or contract, or for any portion of such a project or contract, at any time before the end of the fourth fiscal year after the fiscal year for which funds for such project were appropriated if the funds obligated for such project: (1) are obligated from funds available for military construction projects; and (2) do not exceed the amount appropriated for such project, plus any amount by which the cost of such project is increased pursuant to law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–246, div. A, §117, July 13, 2000, 114 Stat. 516.
 
 Pub. L. 106–52, §117, Aug. 17, 1999, 113 Stat. 264.
 
@@ -54,9 +56,11 @@ Pub. L. 100–447, §124, Sept. 27, 1988, 102 Stat. 1835.
 
 #### Transfer of Funds for Foreign Currency Fluctuations
 
-Pub. L. 106–246, div. A, §118, July 13, 2000, 114 Stat. 516, provided that: “During the 5-year period after appropriations available to the Department of Defense for military construction and family housing operation and maintenance and construction have expired for obligation, upon a determination that such appropriations will not be necessary for the liquidation of obligations or for making authorized adjustments to such appropriations for obligations incurred during the period of availability of such appropriations, unobligated balances of such appropriations may be transferred into the appropriation ‘Foreign Currency Fluctuations, Construction, Defense’ to be merged with and to be available for the same time period and for the same purposes as the appropriation to which transferred.”
+Pub. L. 107–64, §118, Nov. 5, 2001, 115 Stat. 480, provided that: “During the 5-year period after appropriations available to the Department of Defense for military construction and family housing operation and maintenance and construction have expired for obligation, upon a determination that such appropriations will not be necessary for the liquidation of obligations or for making authorized adjustments to such appropriations for obligations incurred during the period of availability of such appropriations, unobligated balances of such appropriations may be transferred into the appropriation ‘Foreign Currency Fluctuations, Construction, Defense’ to be merged with and to be available for the same time period and for the same purposes as the appropriation to which transferred.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–246, div. A, §118, July 13, 2000, 114 Stat. 516.
 
 Pub. L. 106–52, §118, Aug. 17, 1999, 113 Stat. 264.
 

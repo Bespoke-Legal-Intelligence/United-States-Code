@@ -74,7 +74,7 @@ Requirement for Replacement of United States Government Pilots by Host Country P
 
 “(c)
 
-Aircraft Subject to Requirements.—As used in this section, the term ‘host country aircraft’ means any aircraft made available to an Andean country by the United States Government under chapter 8 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291 et seq.\], or any other provision of law, for use by that country for narcotics-related purposes.”
+Aircraft Subject to Requirements.—As used in this section, the term ‘host country aircraft’ meansany aircraft made available to an Andean country by the United States Government under chapter 8 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291 et seq.\], or any other provision of law, for use by that country for narcotics-related purposes.”
 
 \[Functions of President under section 13 of Pub. L. 101–623, set out above, delegated to Secretary of State in consultation with Secretary of Defense by Determination of President of the United States, No. 91–20, Jan. 25, 1991, 56 F.R. 8681, set out as a note under section 2291 of this title.\]
 

@@ -38,7 +38,7 @@ In carrying out the provisions of this subchapter, the Secretary shall have the 
 
 #### (f) Processing of applications received prior to determination of nonrural status; assistance
 
-&emsp;continue processing as expeditiously as possible applications on hand received prior to the time an area has been determined by the Secretary not to be “rural” or a “rural area”, as those terms are defined in section 1490 of this title, and make loans or grants to such applicants who are found to be eligible on the same basis as though the area were still rural;
+&emsp;continue processing as expeditiously as possible applications on hand received prior to the time an area has been determined by the Secretary not to be “rural” or a “rural area”, as those terms are defined in section 1490 of this title, and make loans or grants to suchapplicants who are found to be eligible on the same basis as though the area were still rural;
 
 #### (g) Rules and regulations for written notice of denial or reduction of assistance
 
@@ -92,7 +92,11 @@ Subsec. (h). Pub. L. 96–399, §510, inserted provisions respecting subsequent 
 
 1976—Subsecs. (f) to (i). Pub. L. 94–375 added subsecs. (f) and (g) and redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (d)(2) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the last item on page 47 of House Document No. 103–7.
+
 #### Study of Problems Caused by Remote Claims
 
-Section 509 of Pub. L. 95–557 directed Secretary of Agriculture to make a detailed study of problems associated with obtaining title insurance by persons in rural areas with respect to real property encumbered by remote claims and make a final report to Congress with respect to such study not later than one year after Oct. 31, 1978.
+Section 509 of Pub. L. 95–557 directed Secretary of Agriculture to make a detailed study of problems associated with obtaining title insurance by persons in ruralareas with respect to real property encumbered by remote claims and make a final report to Congress with respect to such study not later than one year after Oct. 31, 1978.
 

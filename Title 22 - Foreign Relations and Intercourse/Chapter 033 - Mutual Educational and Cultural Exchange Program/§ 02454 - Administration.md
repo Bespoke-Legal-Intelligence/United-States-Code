@@ -2,7 +2,7 @@
 
 #### (a) Delegation of powers; submission of proposal for delegation to Congress
 
-The President may delegate, to such officers of the Government as he determines to be appropriate, any of the powers conferred upon him by this chapter to the extent that he finds suchdelegation to be in the interest of the purposes expressed in this chapter and the efficient administration of the programs undertaken pursuant to this chapter: <i>Provided</i>, That where the President has delegated any of such powers to any officer, before the President implements any proposal for the delegation of any of such powers to another officer, that proposal shall be submitted to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate, and thereafter a period of not less than sixty days shall have elapsed while Congress is in session. In computing such sixty days, there shall be excluded the days on which either House is not in session because of an adjournment of more than three days.
+The President may delegate, to such officers of the Government as he determines to be appropriate, any of the powers conferred upon him by this chapter to the extent that he finds such delegation to be in the interest of the purposes expressed in this chapter and the efficient administration of the programs undertaken pursuant to this chapter: <i>Provided</i>, That where the President has delegated any of such powers to any officer, before the President implements any proposal for the delegation of any of such powers to another officer, that proposal shall be submitted to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate, and thereafter a period of not less than sixty days shall have elapsed while Congress is in session. In computing such sixty days, there shall be excluded the days on which either House is not in session because of an adjournment of more than three days.
 
 #### (b) Employment of personnel
 
@@ -16,7 +16,7 @@ For the purpose of performing functions under this chapter outside the United St
 
 #### (e) Grants; use of funds, counseling service; publicity and promotion abroad
 
-(1) In providing for the activities and interchanges authorized by section 2452 of this title, grants may be made to or for individuals, either directly or through foundations or educational or other institutions, which foundations or institutions are public or private nonprofit, and may include funds for tuition and other necessary incidental expenses, for travel expenses from their places of residence and return for themselves, and, whenever it would further the purposes of this chapter, for the dependent members of their immediate families, for health and accident insurance premiums, emergency medical expenses, costs of preparing and transporting to their former homes the remains of any of such persons who may die while away from their homes as participants or dependents of participants in any program under this chapter, and for per diem in lieu of subsistence at rates prescribed by the Director of the United States Information Agency, for all such persons, and for such other expenses as are necessary for the successful accomplishment of the purposes of this chapter.
+(1) In providing for the activities and interchanges authorized by section 2452 of this title, grants may be made to or for individuals, either directly or through foundations or educational or other institutions, which foundations or institutions are public or private nonprofit, and may include funds for tuition and other necessary incidental expenses, for travel expenses from their places of residence and return for themselves, and, whenever it would further the purposes of this chapter, for the dependent members of their immediate families, for health and accident insurance premiums, emergencymedical expenses, costs of preparing and transporting to their former homes the remains of any of such persons who may die while away from their homes as participants or dependents of participants in any program under this chapter, and for per diem in lieu of subsistence at rates prescribed by the Director of the United States Information Agency, for all such persons, and for such other expenses as are necessary for the successful accomplishment of the purposes of this chapter.
 
 (2) Funds available for programs under this chapter may be used (i) to provide for orientation courses, language training, or other appropriate services and materials for persons traveling out of the countries of their residence for educational and cultural purposes which further the purposes of this chapter, whether or not they are receiving other financial support from the Government, and (ii) to provide or continue services to increase the effectiveness of such programs following the return of such persons to the countries of their residence.
 
@@ -34,7 +34,7 @@ For the purpose of performing functions under this chapter outside the United St
 
 (3) The total amount of United States dollars acquired by any individual through currency exchanges under the authority of section 2452(b)(10) of this title shall in no event exceed $3,000 during any academic year.
 
-(4) An individual shall be eligible to exchange foreign currency for United States dollars at United States embassies under section 2452(b)(10) of this title only if he gives satisfactory assurances that (A) he will devote essentially full time to his proposed educational activity in the United States and will maintain good standing in relation to such program; (B) he will return to the country of his citizenship or nationality prior to coming to the United States and will render such public service as isdetermined acceptable for a period of time determined reasonable and necessary by the government of such country; and (C) he will not apply for an immigrant visa or for permanent residence or for a nonimmigrant visa under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] after having received any benefits under such section for a period of time equal to the period of study, research, instruction, or other educational activity he performed pursuant to such section.
+(4) An individual shall be eligible to exchange foreign currency for United States dollars at United States embassies under section 2452(b)(10) of this title only if he gives satisfactory assurances that (A) he will devote essentially full time to his proposed educational activity in the United States and will maintain good standing in relation to such program; (B) he will return to the country of his citizenship or nationality prior to coming to the United States and will render such public service as is determined acceptable for a period of time determined reasonable and necessary by the government of such country; and (C) he will not apply for an immigrant visa or for permanent residence or for a nonimmigrant visa under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] after having received any benefits under such section for a period of time equal to the period of study, research, instruction, or other educational activity he performed pursuant to such section.
 
 (5) As used in section 2452(b)(10) of this title, the term “excess foreign currencies” means foreign currencies, which if acquired by the United States (A) would be in excess of the normal requirements of departments, agencies, and embassies of the United States for such currencies, as determined by the President, and (B) would be available for the use of the United States Government under applicable agreements with the foreign country concerned.
 
@@ -52,7 +52,7 @@ In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and
 
 #### Amendments
 
-1994—Subsec. (e)(4). Pub. L. 103–236 inserted before period at end “, and of similar services and opportunities for interchange not supported by the United States Government”.
+1994—Subsec. (e)(4). Pub. L. 103–236 inserted before period at end “, and of similar services and opportunitiesfor interchange not supported by the United States Government”.
 
 1980—Subsec. (c). Pub. L. 96–465, §2205(7), struck out subsec. (c) which related to employment or assignment of persons in or to Foreign Service Reserve or Foreign Service Staff and alien clerks and employees.
 
@@ -86,7 +86,7 @@ For transfer of functions and offices (relating to education) of Secretary and D
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Ex. Ord. No. 11034. Administration of Programs
 
@@ -156,7 +156,7 @@ Sec. 7. <i>Functions reserved to the President</i>. (a) There are hereby exclude
 
 Sec. 8. <i>Waivers</i>. (a) It is hereby determined that the performance by any department or other executive agency of functions authorized by Sections 102(a)(2) and 102(a)(3) of the Act (22 U.S.C. 2452(a)(2) and (3)) without regard to prohibitions and limitations of authority contained in the following-specified provisions of law is in furtherance of the purposes of the Act:
 
-(1) Section 15 of the Administrative Expenses Act of 1946 (c. 744, August 2, 1946; 60 Stat. 810), as amended (5 U.S.C. 55a) \[section 3109(b) of Title 5, Government Organization and Employees\] (experts and consultants; but the compensation paid individuals in pursuance of this paragraph shall not exceed the rate of $100.00 per diem.
+(1) Section 15 of the Administrative Expenses Act of 1946 (c. 744, August 2, 1946; 60 Stat. 810), as amended (5U.S.C. 55a) \[section 3109(b) of Title 5, Government Organization and Employees\] (experts and consultants; but the compensation paid individuals in pursuance of this paragraph shall not exceed the rate of $100.00 per diem.
 
 (2) Section 16(a) of the Administrative Expenses Act of 1946 (c. 744, August 2, 1946; 60 Stat. 810; 5 U.S.C. 78) \[section 1343, 1344, and 1349(b) of Title 31, Money and Finance\] to the extent that it pertains to hiring automobiles and aircraft.
 
@@ -232,7 +232,7 @@ Section 101. Executive Order No. 11034 of June 25, 1962 \[set out as a note abov
 
 “(c) References in this order to this order shall be deemed to include references thereto as amended from time to time.”
 
-Sec. 2. It is hereby determined that the performance by any department or other executive agency of functions authorized by sections 102(a)(2) and 102(a)(3) of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2452(a)(2) and (3)) without regard to the provisions and limitations referred to in section (8)(a)(15) of Executive Order No. 11034 of June 25, 1962 (to the extent set forth in the latter section) is in furtherance of the purposes of that Act.
+Sec. 2. It is hereby determined that the performance by any department or other executive agency of functions authorized by sections 102(a)(2) and 102(a)(3) of the Mutual Educational and Cultural Exchange Act of 1961\(22 U.S.C. 2452(a)(2) and (3)) without regard to the provisions and limitations referred to in section (8)(a)(15) of Executive Order No. 11034 of June 25, 1962 (to the extent set forth in the latter section) is in furtherance of the purposes of that Act.
 
 #### Part II—Approval of Certain Regulations Relating to Living Quarters
 

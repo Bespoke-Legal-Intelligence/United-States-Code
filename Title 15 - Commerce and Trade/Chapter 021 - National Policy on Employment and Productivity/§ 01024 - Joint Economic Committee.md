@@ -66,6 +66,12 @@ Pub. L. 93–554 provided that the amendment made by Pub. L. 93–554 is effecti
 
 Amendment by act Aug. 2, 1946, effective Aug. 2, 1946, see section 245 of that act, set out as a note under section 72a of Title 2, The Congress.
 
+#### Senate Members of Joint Economic Committee for 107th Congress
+
+Pub. L. 107–20, title II, §2806, July 24, 2001, 115 Stat. 185, provided: “That notwithstanding any other provision of law, and specifically section 5(a) of the Employment Act of 1946 (15 U.S.C. 1024(a)), the Members of the Senate to be appointed by the President of the Senate shall for the duration of the One Hundred Seventh Congress, be represented by six Members of the majority party and five Members of the minority party.”
+
+Similar provisions were contained in Pub. L. 107–3, Mar. 13, 2001, 115 Stat. 5.
+
 #### Agency Contributions for Employees of Joint Economic Committee
 
 Pub. L. 106–554, §1(a)(2) \[title I, §7\], Dec. 21, 2000, 114 Stat. 2763, 2763A–98, provided that:

@@ -36,7 +36,7 @@ It is the purpose of this chapter to promote aquaculture in the United States by
 
 #### (c) Policy
 
-Congress declares that aquaculture has the potential for reducing the United States trade deficit in fisheries products, for augmenting existing commercial and recreational fisheries and for producing other renewable resources, thereby assisting the United States in meeting its future food needs and contributing to the solution of world resource problems. It is, therefore, in the national interest, and it is the national policy, to encourage the development of aquaculture in the United States.
+Congress declares that aquaculture has the potential for reducing the United States trade deficit in fisheries products, for augmenting existing commercial and recreational fisheries andfor producing other renewable resources, thereby assisting the United States in meeting its future food needs and contributing to the solution of world resource problems. It is, therefore, in the national interest, and it is the national policy, to encourage the development of aquaculture in the United States.
 
 (Pub. L. 96–362, §2, Sept. 26, 1980, 94 Stat. 1198; Pub. L. 99–198, title XVII, §1732, Dec. 23, 1985, 99 Stat. 1641.)
 

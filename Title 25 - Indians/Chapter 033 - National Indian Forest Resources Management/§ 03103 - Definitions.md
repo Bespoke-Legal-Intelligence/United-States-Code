@@ -28,7 +28,7 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(B) all aspects of the development, preparation and revision of forest inventory and management plans, including aerial photography, mapping, field management inventories and re-inventories, inventory analysis, growth studies, allowable annual cut calculations, environmental assessment, and forest history, consistent with and reflective of tribal integrated resource management plans;
 
-&emsp;&emsp;(C) forest land development, including forestation, thinning, tree improvement activities, and the use of silvicultural treatmentsto restore or increase growth and yield to the full productive capacity of the forest environment;
+&emsp;&emsp;(C) forest land development, including forestation, thinning, tree improvement activities, and the use of silvicultural treatments to restore or increase growth and yield to the full productive capacity of the forest environment;
 
 &emsp;&emsp;(D) protection against losses from wildfire, including acquisition and maintenance of fire fighting equipment and fire detection systems, construction of firebreaks, hazard reduction, prescribed burning, and the development of cooperative wildfire management agreements;
 

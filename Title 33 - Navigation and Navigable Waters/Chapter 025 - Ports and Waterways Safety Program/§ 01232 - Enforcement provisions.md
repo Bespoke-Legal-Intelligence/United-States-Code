@@ -40,7 +40,7 @@ Except as provided in section 1228 of this title, the Secretary may, subject to 
 
 1990—Subsec. (b)(1). Pub. L. 101–380, §4302(j)(1), substituted “commits a class D felony” for “shall be fined not more than $50,000 for each violation or imprisoned for not more than five years, or both”.
 
-Subsec. (b)(2). Pub. L. 101–380, §4302(j)(2), which directed the substitution of “commits a class C felony.” for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than 10 years, or both.”, was executed by making the substitution for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not morethan $100,000, or imprisoned for not more than ten years, or both.”
+Subsec. (b)(2). Pub. L. 101–380, §4302(j)(2), which directed the substitution of “commits a class C felony.” for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than 10 years, or both.”, was executed by making the substitution for “shall, in lieu of the penalties prescribed in paragraph (1), be fined not more than $100,000, or imprisoned for not more than ten years, or both.”
 
 #### Effective Date of 1990 Amendment
 

@@ -4,5 +4,5 @@ Section, acts Mar. 3, 1883, ch. 130, §1, 22 Stat. 564; July 26, 1947, ch. 343, 
 
 #### Effective Date of Repeal
 
-Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, set out as an Effective Date note under section 401 of this title.
+Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of this title.
 

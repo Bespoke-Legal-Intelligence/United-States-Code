@@ -6,7 +6,7 @@ There is established a separate account in the Treasury, known as the “Violent
 
 #### (b) Transfers into Fund
 
-On the first day of the following fiscal years (or as soon thereafter as possible for fiscal year1995), the following amounts shall be transferred from the general fund to the Fund—
+On the first day of the following fiscal years (or as soon thereafter as possible for fiscal year 1995), the following amounts shall be transferred from the general fund to the Fund—
 
 &emsp;(1) for fiscal year 1995, $2,423,000,000;
 

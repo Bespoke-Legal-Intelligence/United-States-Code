@@ -30,7 +30,7 @@ Pub. L. 106–50, title I, §101, Aug. 17, 1999, 113 Stat. 234, provided that: �
 
 &emsp;“(3) The United States has done too little to assist veterans, particularly service-disabled veterans, in playing a greater role in the economy of the United States by forming and expanding small business enterprises.
 
-&emsp;“(4) Medical advances and new medical technologies have made it possible for service-disabled veterans to play a much more active role in the formation and expansion of small business enterprises in the United States.
+&emsp;“(4) Medical advances and new medical technologies have made it possible for service-disabledveterans to play a much more active role in the formation and expansion of small business enterprises in the United States.
 
 &emsp;“(5) The United States must provide additional assistance and support to veterans to better equip them to form and expand small business enterprises, thereby enabling them to realize the American dream that they fought to protect.”
 

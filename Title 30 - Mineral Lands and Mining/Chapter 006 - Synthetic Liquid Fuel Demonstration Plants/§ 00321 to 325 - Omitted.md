@@ -18,5 +18,5 @@ Section 6 of act Apr. 5, 1944, as amended by acts Mar. 15, 1948, and Sept. 22, 1
 
 #### Morgantown, W. Va., Experiment Station
 
-Section 2 of act Sept. 22, 1950, provided that out of the $87,600,000 authorized to carry out this chapter, not to exceed $2,600,000 be used for the construction and equipment of an experiment station in or near Morgantown, West Virginia, for research in mining, preparation, and utilization of coal, petroleum, natural gas, peat, and other minerals.
+Section 2 of act Sept. 22, 1950, provided that out of the $87,600,000 authorized to carry out this chapter, not to exceed $2,600,000 be used for the construction and equipment of an experiment station in or near Morgantown, West Virginia, for research in mining, preparation, andutilization of coal, petroleum, natural gas, peat, and other minerals.
 

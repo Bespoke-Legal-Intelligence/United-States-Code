@@ -18,7 +18,7 @@ Transportation by air carrier or carrier affiliated with a direct air carrier.�
 
 &emsp;(A)
 
-General rule.—Except as provided in subparagraph (B), a State, political subdivision of a State, or political authority of 2 or more States may not enact or enforce a law,regulation, or other provision having the force and effect of law related to a price, route, or service of an air carrier or carrier affiliated with a direct air carrier through common controlling ownership when such carrier is transporting property by aircraft or by motor vehicle (whether or not such property has had or will have a prior or subsequent air movement).
+General rule.—Except as provided in subparagraph (B), a State, political subdivision of a State, or political authority of 2 or more States may not enact or enforce a law, regulation, or other provision having the force and effect of law related to a price, route, or service of an air carrier or carrier affiliated with a direct air carrier through common controlling ownership when such carrier is transporting property by aircraft or by motor vehicle (whether or not such property has had or will have a prior or subsequent air movement).
 
 &emsp;(B)
 

@@ -24,7 +24,7 @@
 
 &emsp;(C) All royalties or other payments retained by the agency or laboratory after payments have been made pursuant to subparagraphs (A) and (B) that is unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury.
 
-(2) If, after payments to inventors under paragraph (1), the royalties or other payments received by an agency in any fiscal year exceed 5 percent of the budget of the agency for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25 percent may be used or obligated under paragraph (1)(B). Any funds not so used or obligated shall be paid into the Treasury of the United States.
+(2) If, after payments to inventors under paragraph (1), the royalties or other payments received by an agency in any fiscal year exceed 5percent of the budget of the agency for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25 percent may be used or obligated under paragraph (1)(B). Any funds not so used or obligated shall be paid into the Treasury of the United States.
 
 (3) Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which he is otherwise entitled or for which he is otherwise eligible or limit the amount thereof. Any payment made to an inventor as such shall continue after the inventor leaves the laboratory or agency. Payments made under this section shall not exceed $150,000 per year to any one person, unless the President approves a larger award (with the excess over $150,000 being treated as a Presidential award under section 4504 of title 5).
 
@@ -74,7 +74,7 @@ Subsec. (b)(1). Pub. L. 104–113, §5(5), amended par. (1) generally. Prior to 
 
 1989—Subsec. (a)(1). Pub. L. 101–189, §3133(c)(1), in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” and made technical amendment to reference to section 3710a of this title to correct reference to corresponding section of original Act, requiring no change in text.
 
-Subsec. (a)(1)(B)(ii). Pub. L. 101–189, §3133(c)(2), inserted “, including payments to inventors and developers of sensitive or classified technology, regardless of whether the technology has commercial applications” after “that laboratory”.
+Subsec. (a)(1)(B)(ii). Pub. L. 101–189, §3133(c)(2), inserted “, including payments to inventors and developers of sensitive or classified technology, regardless ofwhether the technology has commercial applications” after “that laboratory”.
 
 Subsec. (a)(1)(B)(iv). Pub. L. 101–189, §3133(c)(3), substituted “technology of the laboratories” for “technology of the Government-operated laboratories”.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Commissary stores are similar to commercial grocery stores and may sellmerchandise similar to that sold in commercial grocery stores.
+In General.—Commissary stores are similar to commercial grocery stores and may sell merchandise similar to that sold in commercial grocery stores.
 
 (b)
 
@@ -78,7 +78,7 @@ Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a cha
 
 (5) In this subsection, the term “commissary trust revolving fund” means the trust revolving fund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
 
-(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\],title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60.)
+(Added Pub. L. 99–661, div. A, title III, §313(a), Nov. 14, 1986, 100 Stat. 3852; amended Pub. L. 100–180, div. A, title III, §313(a)(1), (2), Dec. 4, 1987, 101 Stat. 1073, 1074; Pub. L. 104–201, div. A, title III, §342(a), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–85, div. A, title III, §§372(a)–(e), 373, Nov. 18, 1997, 111 Stat. 1706, 1707; Pub. L. 105–261, div. A, title III, §364, Oct. 17, 1998, 112 Stat. 1986; Pub. L. 106–65, div. A, title X, §1066(a)(21), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §§332(a), 334\], Oct. 30, 2000, 114 Stat. 1654, 1654A–59, 1654A–60.)
 
 #### Amendments
 
@@ -141,4 +141,8 @@ Section 342(b) of Pub. L. 104–201 provided that: “Section 2486(e) of title 1
 #### Report on Merchandise Categories
 
 Section 372(f) of Pub. L. 105–85 provided that: “Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense shall submit to Congress a report specifying the merchandise categories authorized for sale sold in, at, or by commissary stores pursuant to regulations prescribed under subsection (b)(11) of section 2486 of title 10, United States Code, as in effect before such date.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2483, 2487 of this title.
 

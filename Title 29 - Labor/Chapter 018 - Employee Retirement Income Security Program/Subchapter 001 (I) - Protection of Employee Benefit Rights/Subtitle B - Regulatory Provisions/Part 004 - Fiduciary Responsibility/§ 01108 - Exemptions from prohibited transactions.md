@@ -38,7 +38,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(A) the employer maintaining the plan, or
 
-&emsp;&emsp;(B) a party in interest which is wholly owned (directly or indirectly) by the employer maintaining the plan, or by any person which is a party in interest with respect to the plan, but only if the total premiums and annuity consideration written by such insurers for life insurance, health insurance, or annuities for all plans (and their employers) with respect to which such insurers are parties in interest (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (not including premiums or annuity considerations written by the employer maintaining the plan).
+&emsp;&emsp;(B) a party in interest which is wholly owned (directly or indirectly) by the employer maintaining the plan, or by any person which is a party in interest with respect to the plan, but only if the total premiums and annuity considerations written by such insurers for life insurance, health insurance, or annuities for all plans (and their employers) with respect to which such insurers are parties in interest (not including premiums or annuity considerations written by the employer maintaining the plan) do not exceed 5 percent of the total premiums and annuity considerations written for all lines of insurance in that year by such insurers (not including premiums or annuity considerations written by the employer maintaining the plan).
 
 &emsp;(6) The providing of any ancillary service by a bank or similar financial institution supervised by the United States or a State, if such bank or other institution is a fiduciary of such plan, and if—
 
@@ -106,6 +106,8 @@ Nothing in section 1106 of this title shall be construed to prohibit any fiducia
 
 (B) Paragraph (1)(C) shall not apply to a transaction which consists of a sale of employer securities to an employee stock ownership plan (as defined in section 1107(d)(6) of this title) by a shareholder-employee, a member of the family (as defined in section 267(c)(4) of such title) of any such owner-employee, or a corporation in which such a shareholder-employee owns stock representing a 50 percent or greater interest described in paragraph (1).
 
+(C) For purposes of paragraph (1)(A), the term “owner-employee” shall only include a person described in clause (ii) or (iii) of subparagraph (A).
+
 (3) For purposes of paragraph (2), the term “shareholder-employee” means an employee or officer of an S corporation (as defined in section 1361(a)(1) of such title) who owns (or is considered as owning within the meaning of section 318(a)(1) of such title) more than 5 percent of the outstanding stock of the corporation on any day during the taxable year of such corporation.
 
 #### (e) Acquisition or sale by plan of qualifying employer securities; acquisition, sale, or lease by plan of qualifying employer real property
@@ -126,13 +128,19 @@ Sections 1106 and 1107 of this title shall not apply to the acquisition or sale 
 
 Section 1106(b)(2) of this title shall not apply to any merger or transfer described in subsection (b)(11) of this section.
 
-(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934.)
+(Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(<i>l</i>)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+2001—Subsec. (d)(2)(C). Pub. L. 107–16, §§612(b), 901, temporarily added subpar. (C). See Effective and Termination Dates of 2001 Amendment note below.
 
 1999—Subsec. (b)(13). Pub. L. 106–170 substituted “made before January 1, 2006” for “in a taxable year beginning before January 1, 2001” and “December 17, 1999” for “January 1, 1995”.
 
@@ -161,6 +169,12 @@ Subsec. (d). Pub. L. 99–514, §1898(i)(1), struck out “(a),” before “(b)
 1980—Subsec. (b)(10), (11). Pub. L. 96–364, §308(a), added pars. (10) and (11).
 
 Subsec. (f). Pub. L. 96–364, §308(b), added subsec. (f).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 612(c) of Pub. L. 107–16, set out as a note under section 4975 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1999 Amendment
 

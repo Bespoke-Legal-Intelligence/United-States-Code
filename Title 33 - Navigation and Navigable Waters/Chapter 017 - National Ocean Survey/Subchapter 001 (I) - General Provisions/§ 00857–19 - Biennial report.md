@@ -6,9 +6,11 @@ Beginning in September, 2001, the President shall transmit to the Congress bienn
 
 #### National Ocean Policy
 
-Pub. L. 106–553, §1(a)(2) \[title V\], Dec. 21, 2000, 114 Stat. 2762, 2762A–98, provided in part: “That the Commission \[on Ocean Policy\] shall present to the Congress within 18 months of appointment its recommendations for a national ocean policy.”
+Pub. L. 107–77, title V, Nov. 28, 2001, 115 Stat. 792, as amended by Pub. L. 107–117, div. B, §207, Jan. 10, 2002, 115 Stat. 2298, provided in part: “That the Commission \[on Ocean Policy\] shall present to the Congress within 18 months of the first meeting of the Commission its recommendations for a national ocean policy.”
 
-Similar provisions are contained in section 3(f)(1) of Pub. L. 106–256, set out below.
+Similar provisions were contained in section 3(f)(1) of Pub. L. 106–256, set out below, and in the following prior appropriation act:
+
+Pub. L. 106–553, §1(a)(2) \[title V\], Dec. 21, 2000, 114 Stat. 2762, 2762A–98.
 
 Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, provided that:
 
@@ -30,7 +32,7 @@ Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, provided that:
 
 &emsp;“(5) the expansion of human knowledge of the marine environment including the role of the oceans in climate and global environmental change and the advancement of education and training in fields related to ocean and coastal activities;
 
-&emsp;“(6) the continued investment in and development and improvement of the capabilities, performance,use, and efficiency of technologies for use in ocean and coastal activities, including investments and technologies designed to promote national energy and food security;
+&emsp;“(6) the continued investment in and development and improvement of the capabilities, performance, use, and efficiency of technologies for use in ocean and coastal activities, including investments and technologies designed to promote national energy and food security;
 
 &emsp;“(7) close cooperation among all government agencies and departments and the private sector to ensure—
 
@@ -86,7 +88,7 @@ Vacancies.—Any vacancy on the Commission shall be filled in the same manner as
 
 Resources.—In carrying out its functions under this section, the Commission—
 
-&emsp;“(1) is authorized to secure directly from any Federal agency or department any information it deems necessary to carry out its functions under this Act, and each such agency or department is authorized to cooperate with the Commission and, to the extent permitted by law, to furnish such information (other than information described in section 552(b)(1)(A) of title 5, United States Code) to the Commission, upon the request of the Commission;
+&emsp;“(1) is authorized to secure directly from any Federal agency or department any information it deems necessary to carry out its functions under this Act,and each such agency or department is authorized to cooperate with the Commission and, to the extent permitted by law, to furnish such information (other than information described in section 552(b)(1)(A) of title 5, United States Code) to the Commission, upon the request of the Commission;
 
 &emsp;“(2) may enter into contracts, subject to the availability of appropriations for contracting, and employ such staff experts and consultants as may be necessary to carry out the duties of the Commission, as provided by section 3109 of title 5, United States Code; and
 
@@ -132,7 +134,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Within 18 months after the establishment of the Commission, the Commission shallsubmit to Congress and the President a final report of its findings and recommendations regarding United States ocean policy.
+In general.—Within 18 months after the establishment of the Commission, the Commission shall submit to Congress and the President a final report of its findings and recommendations regarding United States ocean policy.
 
 &emsp;“(2)
 

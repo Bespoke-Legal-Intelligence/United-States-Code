@@ -2,7 +2,7 @@
 
 #### (a) Procedural, investigative, and enforcement powers of Federal Trade Commission
 
-The Federal Trade Commission shall have procedural, investigative, and enforcement powers, including the power to issue procedural rules in enforcing compliance with the requirements of this subchapter and rules prescribed pursuant to the requirements of this subchapter, to further define terms used in this subchapter, and to require the filing of reports, the production of documents, and the appearance of witnesses, as though the applicable terms and conditions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were part of this subchapter.
+The Federal Trade Commission shall have procedural, investigative, and enforcement powers,including the power to issue procedural rules in enforcing compliance with the requirements of this subchapter and rules prescribed pursuant to the requirements of this subchapter, to further define terms used in this subchapter, and to require the filing of reports, the production of documents, and the appearance of witnesses, as though the applicable terms and conditions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were part of this subchapter.
 
 #### (b) Testing, certification, and notice requirements of Environmental Protection Agency; interagency enforcement agreements between Federal Trade Commission and Environmental Protection Agency and other Federal agencies
 
@@ -76,7 +76,7 @@ Subsec. (e). Pub. L. 102–586, §1502(b), struck out before end of second sente
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 1501(c)(3) of Pub. L. 102–486 effective at the end of the one-year period beginning Oct.24, 1992, see section 1501(d)(1) of Pub. L. 102–486, set out as a note under section 2821 of this title.
+Amendment by section 1501(c)(3) of Pub. L. 102–486 effective at the end of the one-year period beginning Oct. 24, 1992, see section 1501(d)(1) of Pub. L. 102–486, set out as a note under section 2821 of this title.
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ The Office is authorized to make grants to State and general local governments t
 
 &emsp;(1) the necessary costs of the fellowship recipient's books, travel, and transportation, and such related expenses as may be authorized by the Office;
 
-&emsp;(2) reimbursement to the State or local government for not to exceed one-fourth of the salary of each fellow during the period of the fellowship; and
+&emsp;(2) reimbursement to the State or local government for not to exceed one-fourth of thesalary of each fellow during the period of the fellowship; and
 
 &emsp;(3) payment to the educational institutions involved of such amounts as the Office determines to be consistent with prevailing practices under comparable federally supported programs for each fellow, less any amount charged the fellow for tuition and nonrefundable fees and deposits.
 
@@ -28,7 +28,7 @@ The State or local government concerned shall—
 
 #### Transfer of Functions
 
-“Office”, meaning Office of Personnel Management, substituted for “Commission”, meaning Civil Service Commission, in subsecs. (a) and (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, setout under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Office”, meaning Office of Personnel Management, substituted for “Commission”, meaning Civil Service Commission, in subsecs. (a) and (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Section Referred to in Other Sections
 

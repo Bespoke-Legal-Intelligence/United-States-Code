@@ -10,19 +10,19 @@ Compensation of Faculty Members.—The compensation of persons employed under th
 
 (c)
 
-Application to Certain Faculty Members.—(1) Except as provided in paragraph (2), this section shall apply with respect to persons who are selected by the Secretary for employment as professors, instructors, and lecturers at the Army War College or the United States Army Command and General Staff College after the end of the 90-day period beginning on the date of the enactment of this section.
+Application to Certain Faculty Members.—(1) Except as provided in paragraph (2), this section shall apply with respect to persons who are selected by the Secretary for employment as professors, instructors, and lecturers at the Army War College or the United States Army Command and General Staff College after the end of the 90-day period beginning on November 29, 1989.
 
 (2) This section shall not apply with respect to professors, instructors, and lecturers employed at the Army War College or the United States Army Command and General Staff College if the duration of the principal course of instruction offered at the college involved is less than 10 months.
 
-(Added Pub. L. 101–189, div. A, title XI, §1124(b)(1), Nov. 29, 1989, 103 Stat. 1558.)
-
-#### References in Text
-
-The date of the enactment of this section, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 101–189, which was approved Nov. 29, 1989.
+(Added Pub. L. 101–189, div. A, title XI, §1124(b)(1), Nov. 29, 1989, 103 Stat. 1558; amended Pub. L. 107–107, div. A, title X, §1048(c)(12), Dec. 28, 2001, 115 Stat. 1226.)
 
 #### Prior Provisions
 
 A prior section 4021, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, §36B(11), Sept. 2, 1958, 72 Stat. 1570.
+
+#### Amendments
+
+2001—Subsec. (c)(1). Pub. L. 107–107 substituted “November 29, 1989” for “the date of the enactment of this section”.
 
 #### Section Referred to in Other Sections
 

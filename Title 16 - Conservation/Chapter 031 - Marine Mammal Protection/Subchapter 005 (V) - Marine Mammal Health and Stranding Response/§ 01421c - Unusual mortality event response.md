@@ -66,7 +66,7 @@
 
 #### (2) Functions
 
-&emsp;(A) An Onsite Coordinator designated under this subsection shall coordinate and direct theactivities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b) of this section, except that—
+&emsp;(A) An Onsite Coordinator designated under this subsection shall coordinate and direct the activities of all persons responding to an unusual mortality event in accordance with the contingency plan issued under subsection (b) of this section, except that—
 
 &emsp;&emsp;(i) with respect to any matter that is not covered by the contingency plan, an Onsite Coordinator shall use his or her best professional judgment; and
 

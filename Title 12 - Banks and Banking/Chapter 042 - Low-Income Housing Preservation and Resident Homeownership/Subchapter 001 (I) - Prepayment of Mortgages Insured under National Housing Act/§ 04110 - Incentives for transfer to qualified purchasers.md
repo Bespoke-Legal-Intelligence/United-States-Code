@@ -8,7 +8,7 @@ With respect to any eligible low-income housing for which an owner has submitted
 
 #### (1) Negotiation period
 
-&emsp;For the 12-month period beginning on the receipt by the Secretary of a second notice of intent under section 4106(d) of this title with respect to such housing, the owner may offer to sell and negotiate a sale of the housing onlywith priority purchasers. The negotiated sale price may not exceed the preservation value of the housing determined under section 4103(b)(2) of this title. The owner or the purchaser shall submit a plan of action under section 4107 of this title for any sale under this subsection, which shall include any request for assistance under this section, upon the acceptance of any bona fide offer meeting the requirements of this paragraph.
+&emsp;For the 12-month period beginning on the receipt by the Secretary of a second notice of intent under section 4106(d) of this title with respect to such housing, the owner may offer to sell and negotiate a sale of the housing only with priority purchasers. The negotiated sale price may not exceed the preservation value of the housing determined under section 4103(b)(2) of this title. The owner or the purchaser shall submit a plan of action under section 4107 of this title for any sale under this subsection, which shall include any request for assistance under this section, upon the acceptance of any bona fide offer meeting the requirements of this paragraph.
 
 #### (2) Expression of interest
 
@@ -26,7 +26,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### (1) Approval
 
-&emsp;If the qualified purchaser is a resident council, the Secretary may not approve a plan of action for assistance under this section unless the council's proposed resident homeownership program meets the requirements under section 4116 of this title. For all other qualified purchasers, the Secretary may not approve the plan unless the Secretary finds that the criteria for approval under section 4112 of this title have been satisfied.
+&emsp;If the qualified purchaser is a resident council, the Secretary may not approve a plan ofaction for assistance under this section unless the council's proposed resident homeownership program meets the requirements under section 4116 of this title. For all other qualified purchasers, the Secretary may not approve the plan unless the Secretary finds that the criteria for approval under section 4112 of this title have been satisfied.
 
 #### (2) Amount
 
@@ -60,7 +60,7 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### References in Text
 
-This title, referred to in subsec. (d)(2)(E), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and ResidentHomeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This title, referred to in subsec. (d)(2)(E), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 Section 1715z–6(f) of this title, referred to in subsec. (d)(3)(A), was repealed by Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885.
 

@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1997—Subsec. (c). Pub. L. 105–85 struck out “and shall be paid to the member on or before the date on whichthe muster duty is performed” after “disbursed in kind” in first sentence and inserted “The allowance may be paid to the member before, on, or after the date on which the muster duty is performed, but not later than 30 days after that date.” after first sentence.
+1997—Subsec. (c). Pub. L. 105–85 struck out “and shall be paid to the member on or before the date on which the muster duty is performed” after “disbursed in kind” in first sentence and inserted “The allowance may be paid to the member before, on, or after the date on which the muster duty is performed, but not later than 30 days after that date.” after first sentence.
 
 1996—Subsec. (a). Pub. L. 104–106 substituted “section 12319 of title 10” for “section 687 of title 10”.
 

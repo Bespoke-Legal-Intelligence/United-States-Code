@@ -16,13 +16,13 @@ A private voluntary organization or cooperative submitting a proposal to enter i
 
 Foreign currencies generated from any partial or full sale or barter of commodities by a private voluntary organization or cooperative under a non-emergency food assistance agreement under this subchapter may—
 
-&emsp;(1) be used to transport, store, distribute, and otherwise enhance the effectiveness of the use of agricultural commodities provided under this subchapter;
+&emsp;(1) be used to transport, store, distribute, and otherwise enhance the effectiveness of theuse of agricultural commodities provided under this subchapter;
 
 &emsp;(2) be used to implement income generating, community development, health, nutrition, cooperative development, agricultural, and other developmental activities within the recipient country or within a country in the same region; or
 
 &emsp;(3) be invested and any interest earned on such investment may be used for the purposes for which the assistance was provided to that organization, without further appropriation by Congress.
 
-(July 10, 1954, ch. 469, title II, §203, 68 Stat. 458; May 28, 1956, ch. 327, title II, §208(c), 70 Stat. 201; Pub. L. 85–128, §1(3), Aug. 13, 1957, 71 Stat. 345; Pub. L. 86–341, title I, §3, Sept. 21, 1959, 73 Stat. 606; Pub. L. 86–472, ch. VI, §601(b), May 14, 1960, 74 Stat. 140; Pub. L. 87–128, title II, §202(1), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, §1(13), (14), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–88, title II, §209, Aug. 3, 1977, 91 Stat. 548; Pub. L. 98–473, title III, §305, Oct. 12, 1984, 98 Stat. 2195; Pub. L.101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3638; Pub. L. 104–127, title II, §208, Apr. 4, 1996, 110 Stat. 954.)
+(July 10, 1954, ch. 469, title II, §203, 68 Stat. 458; May 28, 1956, ch. 327, title II, §208(c), 70 Stat. 201; Pub. L. 85–128, §1(3), Aug. 13, 1957, 71 Stat. 345; Pub. L. 86–341, title I, §3, Sept. 21, 1959, 73 Stat. 606; Pub. L. 86–472, ch. VI, §601(b), May 14, 1960, 74 Stat. 140; Pub. L. 87–128, title II, §202(1), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, §1(13), (14), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–88, title II, §209, Aug. 3, 1977, 91 Stat. 548; Pub. L. 98–473, title III, §305, Oct. 12, 1984, 98 Stat. 2195; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3638; Pub. L. 104–127, title II, §208, Apr. 4, 1996, 110 Stat. 954.)
 
 #### Amendments
 

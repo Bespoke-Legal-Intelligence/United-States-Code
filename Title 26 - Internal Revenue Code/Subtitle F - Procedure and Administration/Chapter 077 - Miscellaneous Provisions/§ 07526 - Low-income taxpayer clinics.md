@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the existence of other low-income taxpayer clinics serving the same population;
 
-&emsp;&emsp;(C) the quality of the program offered by the low-income taxpayer clinic, including the qualifications of its administrators and qualified representatives, and its record, if any, in providing service to low-income taxpayers; and
+&emsp;&emsp;(C) the quality of the program offered by the low-income taxpayer clinic, including the qualifications of its administrators and qualified representatives, and its record, ifany, in providing service to low-income taxpayers; and
 
 &emsp;&emsp;(D) alternative funding sources available to the clinic, including amounts received from other grants and contributions, and the endowment and resources of the institution sponsoring the clinic.
 

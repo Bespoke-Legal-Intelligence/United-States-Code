@@ -72,13 +72,13 @@ To develop and promulgate, for the use and at the request of any Federal agency 
 
 #### (m) Promotion of research for handling, storing, preserving, etc.
 
-To conduct, assist, encourage, and promote research, investigation, and experimentation to determine the most efficient and practical means, methods, and processes for the handling, storing, preserving, protecting, processing, and distributing of agricultural commodities to the end that such commodities may be marketed in an orderly manner and to the best interest of the producers thereof.
+To conduct, assist, encourage, and promote research, investigation, and experimentation todetermine the most efficient and practical means, methods, and processes for the handling, storing, preserving, protecting, processing, and distributing of agricultural commodities to the end that such commodities may be marketed in an orderly manner and to the best interest of the producers thereof.
 
 #### (n) General research, services, and activities
 
 To conduct such other research and services and to perform such other activities as will facilitate the marketing, distribution, processing, and utilization of agricultural products through commercial channels.
 
-(Aug. 14, 1946, ch. 966, title II, §203, 60 Stat. 1087; Aug. 9, 1955, ch. 632, §1, 69 Stat. 553; Pub. L. 95–113, title II, §206, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–31, §12(2), Aug. 6, 1981, 95 Stat. 153; Pub. L. 98–403, §2, Aug. 28, 1984, 98 Stat. 1480;Pub. L. 98–443, §9(j), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 105–277, div. A, §101(a) \[title VII, §755(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–34; Pub. L. 106–472, title III, §303, Nov. 9, 2000, 114 Stat. 2069.)
+(Aug. 14, 1946, ch. 966, title II, §203, 60 Stat. 1087; Aug. 9, 1955, ch. 632, §1, 69 Stat. 553; Pub. L. 95–113, title II, §206, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–31, §12(2), Aug. 6, 1981, 95 Stat. 153; Pub. L. 98–403, §2, Aug. 28, 1984, 98 Stat. 1480; Pub. L. 98–443, §9(j), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 105–277, div. A, §101(a) \[title VII, §755(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–34; Pub. L. 106–472, title III, §303, Nov. 9, 2000, 114 Stat. 2069.)
 
 #### Amendments
 

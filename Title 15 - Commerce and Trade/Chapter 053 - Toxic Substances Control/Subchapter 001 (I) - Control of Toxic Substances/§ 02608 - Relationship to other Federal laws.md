@@ -20,11 +20,11 @@
 
 > the Administrator may not take any action under section 2605 or 2606 of this title with respect to such risk.
 
-(3) If the Administrator has initiated action under section 2605 or 2606 of this title with respect to a risk associated with a chemical substance or mixture which was the subject of a report made to an agency under paragraph (1), such agency shall before taking action under the law (or laws) administered by it to protect against such risk consult with the Administrator for the purpose of avoiding duplication of Federal action against such risk.
+(3) If the Administrator has initiated action under section 2605 or 2606 of this title with respect to a risk associated with a chemical substance or mixture which was the subject of a report made to an agency under paragraph (1),such agency shall before taking action under the law (or laws) administered by it to protect against such risk consult with the Administrator for the purpose of avoiding duplication of Federal action against such risk.
 
 #### (b) Laws administered by the Administrator
 
-The Administrator shall coordinate actions taken under this chapter with actions taken under other Federal laws administered in wholeor in part by the Administrator. If the Administrator determines that a risk to health or the environment associated with a chemical substance or mixture could be eliminated or reduced to a sufficient extent by actions taken under the authorities contained in such other Federal laws, the Administrator shall use such authorities to protect against such risk unless the Administrator determines, in the Administrator's discretion, that it is in the public interest to protect against such risk by actions taken under this chapter. This subsection shall not be construed to relieve the Administrator of any requirement imposed on the Administrator by such other Federal laws.
+The Administrator shall coordinate actions taken under this chapter with actions taken under other Federal laws administered in whole or in part by the Administrator. If the Administrator determines that a risk to health or the environment associated with a chemical substance or mixture could be eliminated or reduced to a sufficient extent by actions taken under the authorities contained in such other Federal laws, the Administrator shall use such authorities to protect against such risk unless the Administrator determines, in the Administrator's discretion, that it is in the public interest to protect against such risk by actions taken under this chapter. This subsection shall not be construed to relieve the Administrator of any requirement imposed on the Administrator by such other Federal laws.
 
 #### (c) Occupational safety and health
 

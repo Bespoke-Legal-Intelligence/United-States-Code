@@ -16,12 +16,15 @@
 | [2881\.](%C2%A7%2002881%20-%20Ancillary%20supporting%20facilities.md) | Ancillary supporting facilities. |
 | [2882\.](%C2%A7%2002882%20-%20Assignment%20of%20members%20of%20the%20armed%20forces%20to%20housing%20units.md) | Assignment of members of the armed forces to housing units. |
 | [2883\.](%C2%A7%2002883%20-%20Department%20of%20Defense%20Housing%20Funds.md) | Department of Defense Housing Funds. |
+| [2883a.](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md) | Funds for housing allowances of members of the armed forces assigned to certain military family housing units. |
 | [2884\.](%C2%A7%2002884%20-%20Reports.md) | Reports. |
 | [2885\.](%C2%A7%2002885%20-%20Expiration%20of%20authority.md) | Expiration of authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. B, title XXVIII, §2804(b), Dec. 28, 2001, 115 Stat. 1306, added item 2883a.
 
 2000—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2805(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–415, added item 2872a.
 
@@ -50,5 +53,6 @@ This subchapter is referred to in section 2814 of this title.
 - [&sect; 02881 - Ancillary supporting facilities](%C2%A7%2002881%20-%20Ancillary%20supporting%20facilities.md)
 - [&sect; 02882 - Assignment of members of the armed forces to housing units](%C2%A7%2002882%20-%20Assignment%20of%20members%20of%20the%20armed%20forces%20to%20housing%20units.md)
 - [&sect; 02883 - Department of Defense Housing Funds](%C2%A7%2002883%20-%20Department%20of%20Defense%20Housing%20Funds.md)
+- [&sect; 02883a - Funds for housing allowances of members of the armed forces assigned to certain military family housing units](%C2%A7%2002883a%20-%20Funds%20for%20housing%20allowances%20of%20members%20of%20the%20armed%20forces%20assigned%20to%20certain%20military%20family%20housing%20units.md)
 - [&sect; 02884 - Reports](%C2%A7%2002884%20-%20Reports.md)
 - [&sect; 02885 - Expiration of authority](%C2%A7%2002885%20-%20Expiration%20of%20authority.md)

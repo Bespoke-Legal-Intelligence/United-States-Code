@@ -124,7 +124,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (ii) Suspension of grants
 
-&emsp;&emsp;&emsp;If such grant recipient fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+&emsp;&emsp;&emsp;If such grant recipient fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing writtennotice to the grant recipient and an opportunity to appeal.
 
 #### (iii) Renewal grants
 
@@ -176,11 +176,57 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (ii) Awards
 
-&emsp;&emsp;&emsp;With respect to a county referred to in subparagraph (A), the Administrator may award a grant under this section to notmore than 1 eligible coalition that represents the county.
+&emsp;&emsp;&emsp;With respect to a county referred to in subparagraph (A), the Administrator may award a grant under this section to not more than 1 eligible coalition that represents the county.
 
-(Pub. L. 100–690, title I, §1032, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 227.)
+#### (3) Additional grants
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (F), the Administrator may award an additional grant under this paragraph to an eligible coalition awarded a grant under paragraph (1) or (2) for any first fiscal year after the end of the 4-year period following the period of the initial grant under paragraph (1) or (2), as the case may be.
+
+#### (B) Scope of grants
+
+&emsp;&emsp;A coalition awarded a grant under paragraph (1) or (2), including a renewal grant under such paragraph, may not be awarded another grant under such paragraph, and is eligible for an additional grant under this section only under this paragraph.
+
+#### (C) No priority for applications
+
+&emsp;&emsp;The Administrator may not afford a higher priority in the award of an additional grant under this paragraph than the Administrator would afford the applicant for the grant if the applicant were submitting an application for an initial grant under paragraph (1) or (2) rather than an application for a grant under this paragraph.
+
+#### (D) Renewal grants
+
+&emsp;&emsp;Subject to subparagraph (F), the Administrator may award a renewal grant to a grant recipient under this paragraph for each of the fiscal years of the 4-fiscal-year period following the fiscal year for which the initial additional grant under subparagraph (A) is awarded in an amount not to exceed amounts as follows:
+
+&emsp;&emsp;&emsp;(i) For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+
+&emsp;&emsp;&emsp;(ii) For the third and fourth fiscal years of that 4-fiscal-year period, the amountequal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+
+#### (E) Suspension
+
+&emsp;&emsp;If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+
+#### (F) Limitation
+
+&emsp;&emsp;The amount of a grant award under this paragraph may not exceed $100,000 for a fiscal year.
+
+#### (c) Treatment of funds for coalitions representing certain organizations
+
+Funds appropriated for the substance abuse activities of a coalition that includes a representative of the Bureau of Indian Affairs, the Indian Health Service, or a tribal government agency with expertise in the field of substance abuse may be counted as non-Federal funds raised by the coalition for purposes of this section.
+
+#### (d) Priority in awarding grants
+
+In awarding grants under subsection (b)(1)(A)(i) of this section, priority shall be given to a coalition serving economically disadvantaged areas.
+
+(Pub. L. 100–690, title I, §1032, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 227; amended Pub. L. 107–82, §1(d), (g), (h), Dec. 14, 2001, 115 Stat. 818, 819.)
+
+#### Amendments
+
+2001—Subsec. (b)(3). Pub. L. 107–82, §1(d), added par. (3).
+
+Subsec. (c). Pub. L. 107–82, §1(g), added subsec. (c).
+
+Subsec. (d). Pub. L. 107–82, §1(h), added subsec. (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1523, 1533 of this title.
+This section is referred to in sections 1523, 1533, 1535 of this title.
 

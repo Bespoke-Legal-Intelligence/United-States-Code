@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A reduction of debt pursuant to this section shall not be considered assistance for purposes of any provision of law limiting assistance to a country.
+&emsp;&emsp;A reduction of debt pursuant to this section shall not be considered assistance forpurposes of any provision of law limiting assistance to a country.
 
 #### (B) Additional requirement
 
@@ -50,7 +50,17 @@ The following additional terms and conditions shall apply to the reduction of de
 
 &emsp;(2) The provisions relating to interest on new obligations under section 2430e of this title.
 
-(Pub. L. 87–195, pt. V, §806, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887.)
+#### (d) Authorization of appropriations for fiscal years after fiscal year 2001
+
+For the cost (as defined in section 661a(5) of title 2) for the reduction of any debt pursuant to this section or section 2431e of this title, there are authorized to be appropriated to the President the following:
+
+&emsp;(1) $50,000,000 for fiscal year 2002.
+
+&emsp;(2) $75,000,000 for fiscal year 2003.
+
+&emsp;(3) $100,000,000 for fiscal year 2004.
+
+(Pub. L. 87–195, pt. V, §806, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 887; amended Pub. L. 107–26, §2(a), Aug. 17, 2001, 115 Stat. 206.)
 
 #### References in Text
 
@@ -65,6 +75,10 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 #### Prior Provisions
 
 A prior section 806 of Pub. L. 87–195, pt. V, was classified to section 2435 of this title prior to repeal by Pub. L. 94–329.
+
+#### Amendments
+
+2001—Subsec. (d). Pub. L. 107–26 added subsec. (d).
 
 #### Delegation of Functions
 

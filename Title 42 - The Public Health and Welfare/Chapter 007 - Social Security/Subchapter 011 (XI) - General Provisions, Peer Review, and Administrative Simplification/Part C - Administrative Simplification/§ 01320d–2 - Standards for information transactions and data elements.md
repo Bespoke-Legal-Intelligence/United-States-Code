@@ -102,7 +102,7 @@
 
 #### (2) Effect of compliance
 
-&emsp;Compliance with the standards adopted under paragraph (1) shall be deemed to satisfy Federal and State statutory requirements forwritten signatures with respect to the transactions referred to in subsection (a)(1) of this section.
+&emsp;Compliance with the standards adopted under paragraph (1) shall be deemed to satisfy Federal and State statutory requirements for written signatures with respect to the transactions referred to in subsection (a)(1) of this section.
 
 #### (f) Transfer of information among health plans
 
@@ -144,7 +144,7 @@ Sec. 2. <i>Definitions.</i>
 
 Sec. 3. <i>Implementation.</i>
 
-(a) Protected health information concerning an individual patient discovered during the course of healthoversight activities shall not be used against that individual patient in an unrelated civil, administrative, or criminal investigation of a non-health oversight matter unless the Deputy Attorney General of the U.S Department of Justice, or insofar as the protected health information involves members of the Armed Forces, the General Counsel of the U.S. Department of Defense, has authorized such use.
+(a) Protected health information concerning an individual patient discovered during the course of health oversight activities shall not be used against that individual patient in an unrelated civil, administrative, or criminal investigation of a non-health oversight matter unless the Deputy Attorney General of the U.S Department of Justice, or insofar as the protected health information involves members of the Armed Forces, the General Counsel of the U.S. Department of Defense, has authorized such use.
 
 (b) In assessing whether protected health information should be used under subparagraph (a) of this section, the Deputy Attorney General shall permit such use upon concluding that the balance of relevant factors weighs clearly in favor of its use. That is, the Deputy Attorney General shall permit disclosure if the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services.
 
@@ -160,7 +160,7 @@ Sec. 3. <i>Implementation.</i>
 
 (iv) the uses for which the protected health information was authorized.
 
-(e) The General Counsel of the U.S. Department of Defense will comply with the requirements of subparagraphs (b), (c), and (d), above. The General Counsel also will prepare a report, consistent with the requirements of subparagraphs (d)(i) through (d)(iv), above, and will forward it to the Department of Justice where it will be incorporated into the Department's annual report to the President.
+(e) The General Counsel of the U.S. Department of Defense will comply with the requirements of subparagraphs (b), (c), and (d), above. The General Counsel also will prepare a report, consistent with the requirements of subparagraphs (d)(i) through (d)(iv), above, and will forward it to the Department of Justice where it will beincorporated into the Department's annual report to the President.
 
 Sec. 4. <i>Exceptions.</i>
 

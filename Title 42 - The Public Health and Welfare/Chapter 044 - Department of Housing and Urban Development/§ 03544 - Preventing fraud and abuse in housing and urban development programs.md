@@ -32,7 +32,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 &emsp;(4) only in the case of an applicant or participant that is a member of a family described in section 3(f)(2) of the United States Housing Act of 1937 (42 U.S.C. 1437a(f)(2)), sign an agreement under which the applicant or participant agrees to provide to the appropriate public housing agency, or the owner responsible for determining the participant's eligibility or level of benefits, the information required under section 3(f)(1) of such Act \[42 U.S.C. 1437a(f)(1)\] for the sole purpose of verifying income information pertinent to the applicant's or participant's eligibility or level of benefits, and comply with such agreement.
 
-> Except as provided in this subsection, this consent form shall not be used to request taxpayer return information protected by section 6103 of title 26.
+> Except as provided in this subsection, this consent form shall not be used to request taxpayerreturn information protected by section 6103 of title 26.
 
 #### (c) Access to records
 
@@ -74,7 +74,7 @@ As a condition of initial or continuing eligibility for participation in any pro
 
 #### (3) Requirements for State agencies
 
-&emsp;In the case of any State the legislature of which has not been in session for at least 30 calendar days (whether or not consecutive) between November 7, 1988, and September 30, 1989, the amendments made by subsection (c)(1) shall take effect 30 calendar days after the first day on which such legislature is in session on or after September 30, 1989.
+&emsp;In the case of any State the legislature of which has not been in session for at least 30calendar days (whether or not consecutive) between November 7, 1988, and September 30, 1989, the amendments made by subsection (c)(1) shall take effect 30 calendar days after the first day on which such legislature is in session on or after September 30, 1989.
 
 #### (e) Conditions of release of information by third parties
 

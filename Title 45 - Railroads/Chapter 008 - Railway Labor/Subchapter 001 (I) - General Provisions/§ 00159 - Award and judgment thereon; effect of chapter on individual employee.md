@@ -20,7 +20,7 @@ Such petition for the impeachment or contesting of any award so filed shall be e
 
 #### Fourth. Effect of partial invalidity of award
 
-If the court shall determine that a part of the award is invalid on some ground or grounds designated in this section as a ground of invalidity, but shall determine that apart of the award is valid, the court shall set aside the entire award: <i>Provided, however</i>, That, if the parties shall agree thereto, and if such valid and invalid parts are separable, the court shall set aside the invalid part, and order judgment to stand as to the valid part.
+If the court shall determine that a part of the award is invalid on some ground or grounds designated in this section as a ground of invalidity, but shall determine that a part of the award is valid, the court shall set aside the entire award: <i>Provided, however</i>, That, if the parties shall agree thereto, and if such valid and invalid parts are separable, the court shall set aside the invalid part, and order judgment to stand as to the valid part.
 
 #### Fifth. Appeal; record
 

@@ -12,11 +12,11 @@ The authorization made by this section shall be in addition to any other authori
 
 (Pub. L. 99–662, title IX, §910, Nov. 17, 1986, 100 Stat. 4189.)
 
-#### Change of Name
-
-Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
-
 #### Codification
 
 Subsec. (b) of this section, which required the Secretary to prepare and transmit an annual report to certain committees of Congress on activities undertaken under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 72 of House Document No. 103–7.
+
+#### Change of Name
+
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

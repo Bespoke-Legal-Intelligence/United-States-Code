@@ -100,7 +100,7 @@ Pub. L. 100–323, §13(b)(1)(B), May 20, 1988, 102 Stat. 573, added item 1774A.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 113, 1713, 3013, 3231, 3241, 3452, 3461, 3462, 3470, 3471, 3481, 3485, 3501, 3511, 3521, 3531, 3532, 3565, 4213 of this title; title 5 section 5569; title 10 sections 2185, 16131; title 45 sections 911, 1014.
+This chapter is referred to in sections 113, 1781, 3013, 3105, 3231, 3241, 3452, 3461, 3462, 3470, 3471, 3481, 3485, 3501, 3511, 3521, 3531, 3532, 3565, 4213 of this title; title 5 section 5569; title 10 sections 2185, 16131; title 45 sections 911, 1014.
 
 
 ---

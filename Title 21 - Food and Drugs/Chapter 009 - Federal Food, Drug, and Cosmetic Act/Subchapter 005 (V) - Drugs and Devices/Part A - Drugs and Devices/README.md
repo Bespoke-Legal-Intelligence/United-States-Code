@@ -12,6 +12,7 @@ Part A—Drugs and Devices
 - [&sect; 00354 - Veterinary feed directive drugs](%C2%A7%2000354%20-%20Veterinary%20feed%20directive%20drugs.md)
 - [&sect; 00355 - New drugs](%C2%A7%2000355%20-%20New%20drugs.md)
 - [&sect; 00355a - Pediatric studies of drugs](%C2%A7%2000355a%20-%20Pediatric%20studies%20of%20drugs.md)
+- [&sect; 00355b - Adverse-event reporting](%C2%A7%2000355b%20-%20Adverse-event%20reporting.md)
 - [&sect; 00356 - Fast track products](%C2%A7%2000356%20-%20Fast%20track%20products.md)
 - [&sect; 00356a - Manufacturing changes](%C2%A7%2000356a%20-%20Manufacturing%20changes.md)
 - [&sect; 00356b - Reports of postmarketing studies](%C2%A7%2000356b%20-%20Reports%20of%20postmarketing%20studies.md)

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The value of the gross estate shall include the value of all property.
+The value of the gross estate shall include the value of all property—
 
 #### (1) Transfers after June 22, 1936
 

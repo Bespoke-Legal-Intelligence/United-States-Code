@@ -30,7 +30,7 @@ Beneficiary initially under 62 years of age.—If the beneficiary is under 62 ye
 
 &emsp;(3)
 
-Exclusion of dic offset.—Computations under paragraphs (1) and (2) shall be made without regard to any reduction required under section 1450(c) of this title (or any other provision of law) with respect to the receipt of dependency and indemnity compensation under section 1311 of title 38.
+Exclusion of dic offset.—Computations under paragraphs (1) and (2) shall be made without regard to any reduction required under section 1450(c) of this title (or any otherprovision of law) with respect to the receipt of dependency and indemnity compensation under section 1311 of title 38.
 
 (d)
 

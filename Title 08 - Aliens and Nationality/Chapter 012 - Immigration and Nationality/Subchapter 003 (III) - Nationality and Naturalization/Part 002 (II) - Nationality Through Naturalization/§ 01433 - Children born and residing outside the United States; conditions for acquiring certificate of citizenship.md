@@ -24,7 +24,7 @@ Upon approval of the application (which may be filed from abroad) and, except as
 
 Subsections (a) and (b) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under section 1101(b)(1) of this title.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §322, 66 Stat. 246; Pub. L. 95–417, §6, Oct. 5, 1978, 92 Stat. 918; Pub. L. 97–116, §18(m), (n), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §16, Nov. 14, 1986,100 Stat. 3658; Pub. L. 100–525, §8(<i>l</i>), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 101–649, title IV, §407(b)(2), (c)(6), (d)(5), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(m)(3), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §102(a), Oct. 25, 1994, 108 Stat. 4306; Pub. L. 106–139, §1(b)(2), Dec. 7, 1999, 113 Stat. 1697; Pub. L. 106–395, title I, §102(a), Oct. 30, 2000, 114 Stat. 1632.)
+(June 27, 1952, ch. 477, title III, ch. 2, §322, 66 Stat. 246; Pub. L. 95–417, §6, Oct. 5, 1978, 92 Stat. 918; Pub. L. 97–116, §18(m), (n), Dec. 29, 1981, 95 Stat. 1620, 1621; Pub. L. 99–653, §16, Nov. 14, 1986, 100 Stat. 3658; Pub. L. 100–525, §8(<i>l</i>), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 101–649, title IV, §407(b)(2), (c)(6), (d)(5), Nov. 29, 1990, 104 Stat. 5040–5042; Pub. L. 102–232, title III, §305(m)(3), Dec. 12, 1991, 105 Stat. 1750; Pub. L. 103–416, title I, §102(a), Oct. 25, 1994, 108 Stat. 4306; Pub. L. 106–139, §1(b)(2), Dec. 7, 1999, 113 Stat. 1697; Pub. L. 106–395, title I, §102(a), Oct. 30, 2000, 114 Stat. 1632.)
 
 #### Amendments
 

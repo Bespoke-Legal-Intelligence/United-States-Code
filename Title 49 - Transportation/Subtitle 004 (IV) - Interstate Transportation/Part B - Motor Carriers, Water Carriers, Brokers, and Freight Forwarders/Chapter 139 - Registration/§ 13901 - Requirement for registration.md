@@ -1,6 +1,6 @@
 ### §13901. Requirement for registration
 
-A person may provide transportation or service subject to jurisdiction under subchapter I or III of chapter 135 or be a broker for transportation subject to jurisdiction under subchapter I of that chapter, only if the person is registered under this chapter to provide the transportation or service.
+A person may provide transportation or service subject to jurisdiction under subchapter I orIII of chapter 135 or be a broker for transportation subject to jurisdiction under subchapter I of that chapter, only if the person is registered under this chapter to provide the transportation or service.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 879.)
 

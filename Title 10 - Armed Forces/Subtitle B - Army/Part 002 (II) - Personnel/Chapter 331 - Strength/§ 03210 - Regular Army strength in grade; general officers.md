@@ -84,7 +84,7 @@ Under section 208(e) of the National Security Act of 1947 (5 U.S.C. 626c(e)), al
 |  |  |  |
 | &nbsp;&nbsp;&nbsp;Total | 201 | 156 |
 
-After the enactment of the Officer Personnel Act of 1947, section 308 of the Army Organization Act of 1950 (10:61–1) provided for an Assistant Judge Advocate General and three brigadier generals in the Judge Advocate General's Corps of the Army. The creation of these four general officer spaces served to increase the mentioned authorized strength figure from 357 to 361, and the figure 201 to 205. The opinion of the Judge Advocate General of the Army (JAGA 1948/5806, 2 Sept. 1948) is in accord with that conclusion.
+After the enactment of the Officer Personnel Act of 1947, section 308 of the Army Organization Act of 1950 (10:61–1) provided for an Assistant Judge Advocate General and three brigadier generals in the Judge Advocate General's Corps of the Army. The creation of these four general officer spaces served to increase the mentionedauthorized strength figure from 357 to 361, and the figure 201 to 205. The opinion of the Judge Advocate General of the Army (JAGA 1948/5806, 2 Sept. 1948) is in accord with that conclusion.
 
 The revised section reflects the authorized strength of the Regular Army in general officers on the active list resulting from the mentioned allocation to the Air Force and the addition of four general officer spaces in the Judge Advocate General's Corps.
 

@@ -4,7 +4,7 @@
 
 #### (1) On self-dealer
 
-&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person anda trust described in section 501(c)(21). The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a trustee acting only as a trustee of the trust) who participates in the act of self-dealing.
+&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person and a trust described in section 501(c)(21). The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a trustee acting only as a trustee of the trust) who participates in the act of self-dealing.
 
 #### (2) On trustee
 
@@ -46,7 +46,7 @@ If more than one person is liable under any paragraph of subsection (a) or (b) w
 
 &emsp;&emsp;(A) the transfer of personal property by a disqualified person to such a trust shall be treated as a sale or exchange if the property is subject to a mortgage or similar lien;
 
-&emsp;&emsp;(B) the furnishing of goods, services, or facilities by a disqualified person to such a trust shall not be an act of self-dealing if the furnishing is without charge and if the goods, services, or facilities so furnished are used exclusively for the purposes specified in section 501(c)(21)(A); and
+&emsp;&emsp;(B) the furnishing of goods, services, or facilities by a disqualified person to such atrust shall not be an act of self-dealing if the furnishing is without charge and if the goods, services, or facilities so furnished are used exclusively for the purposes specified in section 501(c)(21)(A); and
 
 &emsp;&emsp;(C) the payment of compensation (and the payment or reimbursement of expenses) by such a trust to a disqualified person for personal services which are reasonable and necessary to carrying out the exempt purpose of the trust shall not be an act of self-dealing if the compensation (or payment or reimbursement) is not excessive.
 
@@ -126,7 +126,7 @@ Subsec. (e)(4), (5). Pub. L. 96–596, §2(a)(3)(E), redesignated par. (5) as (4
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 31, 1991, see section 1940(d) of Pub. L. 102–486, set out as a note under section 192 of this title.
+Amendment by Pub. L. 102–486 applicable to taxable years beginning after Dec. 31, 1991, see section 1940(d) ofPub. L. 102–486, set out as a note under section 192 of this title.
 
 #### Effective Date of 1980 Amendment
 

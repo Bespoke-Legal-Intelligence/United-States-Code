@@ -74,13 +74,13 @@
 
 #### (1) Submission of plan
 
-&emsp;A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) of this section for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meets criteria established by the Administrator by regulation.
+&emsp;A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) of this section for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meetscriteria established by the Administrator by regulation.
 
 #### (2) Reimbursement
 
 &emsp;Within a reasonable period of time after such storage costs are incurred and paid by the registrant, the Administrator shall reimburse the registrant, on request, for—
 
-&emsp;&emsp;(A) none of the costs incurred by the registrant before the date of submission of theplan referred to in paragraph (1) to the Administrator;
+&emsp;&emsp;(A) none of the costs incurred by the registrant before the date of submission of the plan referred to in paragraph (1) to the Administrator;
 
 &emsp;&emsp;(B) 100 percent of the costs incurred by the registrant after the date of submission of the plan to the Administrator or the date of cancellation of the registration of the pesticide, whichever is later, but before the approval of the plan by the Administrator;
 

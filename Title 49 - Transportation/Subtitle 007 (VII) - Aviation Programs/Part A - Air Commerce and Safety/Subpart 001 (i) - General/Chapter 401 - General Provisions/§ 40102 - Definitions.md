@@ -84,7 +84,7 @@ General Definitions.—In this part—
 
 &emsp;(23) “foreign air transportation” means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft, between a place in the United States and a place outside the United States when any part of the transportation is by aircraft.
 
-&emsp;(24) “interstate air commerce” means the transportation of passengers or property by aircraft for compensation, the transportation of mail by aircraft, or the operation of aircraft in furthering a business or vocation—
+&emsp;(24) “interstate air commerce” means the transportation of passengers or property byaircraft for compensation, the transportation of mail by aircraft, or the operation of aircraft in furthering a business or vocation—
 
 &emsp;&emsp;(A) between a place in—
 
@@ -98,7 +98,7 @@ General Definitions.—In this part—
 
 &emsp;&emsp;(B) when any part of the transportation or operation is by aircraft.
 
-&emsp;(25) “interstate air transportation” means the transportation of passengers or propertyby aircraft as a common carrier for compensation, or the transportation of mail by aircraft—
+&emsp;(25) “interstate air transportation” means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft—
 
 &emsp;&emsp;(A) between a place in—
 
@@ -470,6 +470,10 @@ Amendment by Pub. L. 103–305 effective Jan. 1, 1995, see section 601(d) of Pub
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
+#### Definitions of Terms in Pub. L. 107–71
+
+Pub. L. 107–71, title I, §133, Nov. 19, 2001, 115 Stat. 636, provided that: “Except as otherwise explicitly provided, any term used in this title \[see Tables for classification\] that is defined in section 40102 of title 49, United States Code, has the meaning given that term in that section.”
+
 #### Definitions Applicable to Pub. L. 106–181
 
 Pub. L. 106–181, §4, Apr. 5, 2000, 114 Stat. 64, provided that: “Except as otherwise provided in this Act \[see Tables for classification\], the following definitions apply:
@@ -496,5 +500,5 @@ Secretary.—The term ‘Secretary’ means the Secretary of Transportation.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 321, 1101, 1131, 5114, 40125, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 229F, 553; title 19 sections 1627a, 1644a, 2492; title 22 sections 5605, 6701; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
+This section is referred to in sections 106, 321, 1101, 1131, 5114, 40125, 47129, 47302, 47522 of this title; title 8 section 1184; title 10 sections 2640, 9511, 9783; title 11 sections 365, 1110; title 15 section 2052; title 18 sections 31, 229F, 553; title 19 sections 1627a, 1644a, 2492; title 22 sections 5605, 6701; title 29 section 1301; title 31 section 3726; title 39 sections 5005, 5007, 5402; title 42 sections 4902, 7574.
 

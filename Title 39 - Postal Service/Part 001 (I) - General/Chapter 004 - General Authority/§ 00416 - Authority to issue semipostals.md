@@ -4,7 +4,7 @@
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “semipostal” means a postage stamp which is issued and sold by the Postal Service, at a premium, in order to help provide funding for a cause described in subsection (b); and
+&emsp;(1) the term “semipostal” means a postage stamp which is issued and sold by the PostalService, at a premium, in order to help provide funding for a cause described in subsection (b); and
 
 &emsp;(2) the term “agency” means an Executive agency within the meaning of section 105 of title 5.
 
@@ -16,11 +16,11 @@ Discretionary Authority.—The Postal Service is hereby authorized to issue and 
 
 Rate of Postage.—The rate of postage on a semipostal issued under this section shall be established by the Governors, in accordance with such procedures as they shall by regulation prescribe (in lieu of the procedures under chapter 36), except that—
 
-&emsp;(1) the rate established for a semipostal under this section shall be equal to the rate of postage that would otherwise regularly apply, plus a differential of not to exceed 25 percent; and
+&emsp;(1) the rate established for a semipostal under this section shall be equal to the rate of postage that would otherwise regularly apply, plus a differential of not less than 15 percent; and
 
-&emsp;(2) no regular rates of postage or fees for postal services under chapter 36 shall be anydifferent from what they otherwise would have been if this section had not been enacted.
+&emsp;(2) no regular rates of postage or fees for postal services under chapter 36 shall be any different from what they otherwise would have been if this section had not been enacted.
 
-> The use of any semipostal issued under this section shall be voluntary on the part of postal patrons.
+> The use of any semipostal issued under this section shall be voluntary on the part of postal patrons. The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.
 
 (d)
 
@@ -96,11 +96,101 @@ Specific requirement.—If any semipostal ceases to be offered during the period
 
 Termination.—This section shall cease to be effective at the end of the 10-year period beginning on the date on which semipostals are first made available to the public under this section.
 
-(Added Pub. L. 106–253, §2(a), July 28, 2000, 114 Stat. 634.)
+(Added Pub. L. 106–253, §2(a), July 28, 2000, 114 Stat. 634; amended Pub. L. 107–67, title VI, §652(c)(1), Nov. 12, 2001, 115 Stat. 557; Pub. L. 107–117, div. B, §1201, Jan. 10, 2002, 115 Stat. 2335.)
+
+#### Amendments
+
+2002—Subsec. (c). Pub. L. 107–117 amended Pub. L. 107–67. See 2001 Amendment note below.
+
+2001—Subsec. (c). Pub. L. 107–67, as amended by Pub. L. 107–117, substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
 
 #### Effective Date
 
 Pub. L. 106–253, §2(e), July 28, 2000, 114 Stat. 636, provided that: “The program under section 416 of title 39, United States Code (as amended by this section) shall be established within 6 months after the date of the enactment of this Act \[July 28, 2000\].”
+
+#### The 9/11 Heroes Stamp
+
+Pub. L. 107–67, title VI, §652, Nov. 12, 2001, 115 Stat. 557, as amended by Pub. L. 107–117, div. B, §1201, Jan. 10, 2002, 115 Stat. 2335, provided that:
+
+“(a)
+
+Short Title.—This section may be cited as the ‘9/11 Heroes Stamp Act of 2001’.
+
+“(b)
+
+In General.—In order to afford the public a direct and tangible way to provide assistance to the families of emergency relief personnel killed or permanently disabled in the line of duty in connection with the terrorist attacks against the United States on September 11, 2001, the United States Postal Service shall issue a semipostal in accordance with subsection (c).
+
+“(c)
+
+Requirements.—The provisions of section 416(a), (c), (d), and (f) of title 39, United States Code, shall apply as practicable with respect to the semipostal described in subsection (b), subject to the following:
+
+&emsp;“(1)
+
+Rate of postage.—\[Amended subsec. (c) of this section.\]
+
+&emsp;“(2)
+
+Disposition of amounts becoming available.—All amounts becoming available from the sale of the semipostal (as determined under such section) shall be transferred to the Federal Emergency Management Agency under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section.
+
+&emsp;“(3)
+
+Commencement and termination dates.—Stamps under this section shall be issued—
+
+&emsp;&emsp;“(A) beginning on the earliest date practicable; and
+
+&emsp;&emsp;“(B) for such period of time as the Postal Service considers necessary and appropriate, but in no event after December 31, 2004.
+
+“(d)
+
+Limitation.—For purposes of section 416 of title 39, United States Code (including any regulation prescribed under subsection (e)(1)(C) of that section), the semipostal postage stamp issued under this section shall not apply to any limitation relating to whether more than one semipostal may be offered for sale at the same time.
+
+“(e)
+
+Design.—It is the sense of the Congress that the semipostal issued under this section should depict, by such design as the Postal Service considers to be most appropriate, the efforts of emergency relief personnel at the site of the World Trade Center in New York City and the Pentagon in Arlington, Virginia.
+
+“(f)
+
+Definitions.—For purposes of this section—
+
+&emsp;“(1) the term ‘emergency relief personnel’ means firefighters, law enforcement officers, paramedics, emergency medical technicians, members of the clergy, and other individuals (including employees of legally organized and recognized volunteer organizations, whether compensated or not) who, in the course of professional duties, respond to fire, medical, hazardous material, or other similar emergencies; and
+
+&emsp;“(2) the term ‘semipostal’ has the meaning given such term by section 416 of title 39, United States Code.”
+
+#### Domestic Violence Semipostal Stamp
+
+Pub. L. 107–67, title VI, §653, Nov. 12, 2001, 115 Stat. 558, provided that:
+
+“(a)
+
+Short Title.—This section may be cited as the ‘Stamp Out Domestic Violence Act of 2001’.
+
+“(b)
+
+In General.—In order to afford the public a direct and tangible way to contribute to funding for domestic violence programs, the United States Postal Service shall issue a semipostal in accordance with subsection (c).
+
+“(c)
+
+Requirements.—The provisions of section 416 of title 39, United States Code, shall apply as practicable with respect to the semipostal described in subsection (b), subject to the following:
+
+&emsp;“(1)
+
+Disposition of amounts becoming available.—All amounts becoming available from the sale of the semipostal (as determined under such section) shall be transferred to the Department of Health and Human Services under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section.
+
+&emsp;“(2)
+
+Commencement and termination dates.—Stamps under this section shall be issued—
+
+&emsp;&emsp;“(A) beginning on the earliest date practicable, but not later than January 1, 2004; and
+
+&emsp;&emsp;“(B) for such period of time as the Postal Service considers necessary and appropriate, but in no event after December 31, 2006.
+
+“(d)
+
+Limitation.—For purposes of section 416 of title 39, United States Code (including any regulation prescribed under subsection (e)(1)(C) of that section), the semipostal stamp issued under this section shall not apply to any limitation relating to whether more than one semipostal may be offered for sale at the same time.
+
+“(e)
+
+Definition.—For purposes of this section the term ‘semipostal’ has the meaning given such term by section 416 of title 39, United States Code.”
 
 #### Reports by Agencies
 
@@ -122,5 +212,9 @@ Interim report.—The General Accounting Office shall submit to the President an
 
 “(2)
 
-Final report.—The General Accounting Office shall transmit to the President and each House of Congress a final report on the operation of the program established under such section 416, not later than 6months before the date on which it is scheduled to expire. The final report shall contain a detailed statement of the findings and conclusions of the General Accounting Office, together with any recommendations it considers appropriate.”
+Final report.—The General Accounting Office shall transmit to the President and each House of Congress a final report on the operation of the program established under such section 416, not later than 6 months before the date on which it is scheduled to expire. The final report shall contain a detailed statement of the findings and conclusions of the General Accounting Office, together with any recommendations it considers appropriate.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 414 of this title.
 

@@ -6,7 +6,7 @@ The Secretary shall, in cooperation with the Secretary of the department in whic
 
 &emsp;(1) be designed to standardize the requirements of vessel registration and information collection systems required by this chapter, the Marine Mammal Protection Act (16 U.S.C. 1361 et seq.), and any other marine resource law implemented by the Secretary, and, with the permission of a State, any marine resource law implemented by such State;
 
-&emsp;(2) integrate information collection programs under existing fishery managementplans into a non-duplicative information collection and management system;
+&emsp;(2) integrate information collection programs under existing fishery management plans into a non-duplicative information collection and management system;
 
 &emsp;(3) avoid duplication of existing State, tribal, or Federal systems and shall utilize, to the maximum extent practicable, information collected from existing systems;
 
@@ -82,7 +82,7 @@ Within 15 months after October 11, 1996, the Secretary shall report to Congress 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (d), was in the original “this Act”, meaning Pub. L. 94–265, Apr.13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (d), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 

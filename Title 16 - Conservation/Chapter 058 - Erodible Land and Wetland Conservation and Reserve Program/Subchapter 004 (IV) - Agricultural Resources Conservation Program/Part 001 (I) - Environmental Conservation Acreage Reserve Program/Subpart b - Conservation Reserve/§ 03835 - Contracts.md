@@ -46,7 +46,7 @@ If during the term of a contract entered into under this subpart an owner or ope
 
 &emsp;&emsp;(iii) to achieve such other goals as the Secretary determines are appropriate, consistent with this subpart.
 
-(2) The Secretary may modify or waive a term or condition of a contract entered into under this subpart in order to permit all or part of the land subject to such contract to be devoted to the production of an agricultural commodity during a crop year, subject to such conditions as the Secretary determines are appropriate.
+(2) The Secretary may modify or waive a term or condition of a contract entered into underthis subpart in order to permit all or part of the land subject to such contract to be devoted to the production of an agricultural commodity during a crop year, subject to such conditions as the Secretary determines are appropriate.
 
 #### (d) Termination; notice to Congressional Committees
 
@@ -90,7 +90,7 @@ If during the term of a contract entered into under this subpart an owner or ope
 
 &emsp;If land that was subject to a contract is returned to production of an agricultural commodity, the conservation requirements under subchapters II and III of this chapter shall apply to the use of the land to the extent that the requirements are similar to those requirements imposed on other similar lands in the area, except that the requirements may not be more onerous than the requirements imposed on other lands.
 
-(Pub. L. 99–198, title XII, §1235, Dec. 23, 1985, 99 Stat. 1513; Pub. L. 100–233, title VIII, §801, Jan.6, 1988, 101 Stat. 1710; Pub. L. 101–624, title XIV, §1447(a), Nov. 28, 1990, 104 Stat. 3605; Pub. L. 104–127, title III, §332(c), Apr. 4, 1996, 110 Stat. 994.)
+(Pub. L. 99–198, title XII, §1235, Dec. 23, 1985, 99 Stat. 1513; Pub. L. 100–233, title VIII, §801, Jan. 6, 1988, 101 Stat. 1710; Pub. L. 101–624, title XIV, §1447(a), Nov. 28, 1990, 104 Stat. 3605; Pub. L. 104–127, title III, §332(c), Apr. 4, 1996, 110 Stat. 994.)
 
 #### Amendments
 

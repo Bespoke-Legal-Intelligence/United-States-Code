@@ -18,7 +18,7 @@
 
 (5) The Secretary may include, as part of a loan to finance a purchase of real property from the Secretary described in paragraph (1) of this subsection, an amount to be used only for the purpose of rehabilitating such property. Such amount may not exceed the amount necessary to rehabilitate the property to a habitable state, and payments shall be made available periodically as such rehabilitation is completed.
 
-(6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) of this subsection at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in the interest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title.
+(6) The Secretary shall make a loan to finance the sale of real property described in paragraph (1) of this subsection at an interest rate that is lower than the prevailing mortgage market interest rate in areas where, and to the extent, the Secretary determines, in light of prevailing conditions in the real estate market involved, that such lower interest rate is necessary in order to market the property competitively and is in theinterest of the long-term stability and solvency of the Veterans Housing Benefit Program Fund established by section 3722(a) of this title.
 
 (b) The Secretary may not make a loan to finance a purchase of property acquired by the Secretary as a result of a default on a loan guaranteed under this chapter unless the purchaser meets the credit underwriting standards established under section 3710(g)(2)(A) of this title.
 
@@ -146,7 +146,7 @@ Section 7004(b) of title VII of Pub. L. 100–203 provided that: “In applying 
 
 &emsp;“(1) the identical provisions of title 38, United States Code, amended by the provisions of this title and the provisions of such Act shall be treated as having been amended only once; and
 
-&emsp;“(2) in executing to title 38, United States Code, the amendments made by this title and by such Act, suchamendments shall be executed so as to appear only once in the law.”
+&emsp;“(2) in executing to title 38, United States Code, the amendments made by this title and by such Act, such amendments shall be executed so as to appear only once in the law.”
 
 #### Report to Congress
 
@@ -154,5 +154,5 @@ Section 6(c) of Pub. L. 100–198 directed Administrator of Veterans’ Affairs,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3714, 3722, 3735 of this title.
+This section is referred to in sections 2041, 3714, 3722 of this title.
 

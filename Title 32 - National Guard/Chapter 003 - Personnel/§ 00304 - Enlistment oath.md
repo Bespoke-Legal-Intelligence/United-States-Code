@@ -6,7 +6,7 @@ Each person enlisting in the National Guard shall sign an enlistment contract an
 
 &emsp;“I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them; and that I will obey the orders of the President of the United States and the Governor of \_\_\_\_\_\_\_\_\_\_\_\_ and the orders of the officers appointed over me, according to law and regulations. So help me God.”
 
-> The oath may be taken before any officer of the National Guard of the State or Territory, or of Puerto Rico, or the District of Columbia, as the case may be, or before any other person authorized by the law of the jurisdiction concerned to administer oaths of enlistment in the National Guard.
+> The oath may be taken before any officer of the National Guard of the State or Territory, or of Puerto Rico, or the District of Columbia, as thecase may be, or before any other person authorized by the law of the jurisdiction concerned to administer oaths of enlistment in the National Guard.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 87–751, §2, Oct. 5, 1962, 76 Stat. 748; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §70; restated June 4, 1920, ch. 227, subch. I, §38; restated June 15, 1933, ch. 87, §8, 48 Stat. 156; June 19, 1935, ch. 277, §3, 49 Stat. 391; July 9, 1952, ch. 608, §806(b), 66 Stat. 506.
 
-The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “Each person” are substituted for the word “Men”. The words “\_\_\_\_\_\_\_\_\_\_\_\_ National Guard”are substituted for the words “National Guard (Air National Guard)”.
+The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “Each person” are substituted for the word “Men”. The words “\_\_\_\_\_\_\_\_\_\_\_\_ National Guard” are substituted for the words “National Guard (Air National Guard)”.
 
 #### Amendments
 

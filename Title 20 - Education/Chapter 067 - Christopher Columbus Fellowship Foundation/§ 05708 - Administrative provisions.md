@@ -2,7 +2,7 @@
 
 (a) The Foundation may—
 
-&emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees (other than the Executive Secretary) be compensated at a rate in excess of the rate of basic pay payable for GS–15 of the General Schedule;
+&emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry outthe provisions of this chapter, except that in no case shall employees (other than the Executive Secretary) be compensated at a rate in excess of the rate of basic pay payable for GS–15 of the General Schedule;
 
 &emsp;(2) procure temporary and intermittent services of such experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not in excess of the rate of basic pay payable for Executive Level V;
 

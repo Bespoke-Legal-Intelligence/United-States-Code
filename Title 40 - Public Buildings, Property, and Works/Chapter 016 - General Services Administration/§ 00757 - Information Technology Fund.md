@@ -10,7 +10,7 @@
 
 &emsp;(C) the supplies and equipment transferred to the Administrator under sections 759 <sup>2</sup> and 486(f) of this title, subject to any liabilities assumed with respect to such supplies and equipment.
 
-(2) The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall submit plans concerningsuch requirements and such other information as may be requested for the review and approval of the Director of the Office of Management and Budget. Any change to the cost and capital requirements of the Fund for a fiscal year shall be made in the same manner as provided by this section for the initial fiscal year determination. If approved by the Director, the Administrator shall establish rates to be charged agencies provided, or to be provided, information technology resources through the Fund consistent with such approvals. Such cost and capital requirements may include funds—
+(2) The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall submit plans concerning such requirements and such other information as may be requested for the review and approval of the Director of the Office of Management and Budget. Any change to the cost and capital requirements of the Fund for a fiscal year shall be made in the same manner as provided by this section for the initial fiscal year determination. If approved by the Director, the Administrator shall establish rates to be charged agencies provided, or to be provided, information technology resources through the Fund consistent with such approvals. Such cost and capital requirements may include funds—
 
 &emsp;(A) needed for the purchase (if the Administrator has determined that purchase is the least costly alternative <sup>3</sup> of information processing and transmission equipment, software, systems, and operating facilities necessary for the provision of such services;
 
@@ -58,7 +58,7 @@ A report on the operation of the Fund shall be made annually by the Administrato
 
 #### (f) Information technology resources
 
-For purposes of this section, the term “information technology resources” includes any service or equipment which had been acquired or provided under this section or section 759 <sup>4</sup> of this title, including other information processing and transmission equipment, software, systems, operating facilities, supplies, and services related thereto, and maintenance and repair thereof.
+For purposes of this section, the term “information technology resources” includes any service or equipment which had been acquired or provided under this section or section 759 <sup>4</sup> of this title, including other information processing and transmission equipment, software, systems, operating facilities, supplies, and servicesrelated thereto, and maintenance and repair thereof.
 
 (June 30, 1949, ch. 288, title I, §110, as added Pub. L. 87–847, Oct. 23, 1962, 76 Stat. 1117; amended Pub. L. 99–500, §101(m) \[title VIII, §821(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–340, and Pub. L. 99–591, §101(m) \[title VIII, §821(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–340; Pub. L. 101–136, title IV, §25, Nov. 3, 1989, 103 Stat. 808.)
 
@@ -80,7 +80,7 @@ Section was formerly classified to section 630g–1 of Title 5 prior to the gene
 
 #### Effective Date of 1986 Amendment
 
-Section 101(m) \[title VIII, §833\] of Pub. L. 99–500 and Pub. L. 99–591 provided that: “This title and the amendments made by this title \[amending this section, sections 751 and 759 of this title, and sections 3501 to 3507, 3511, 3514, and 3520 of Title 44, Public Printing and Documents, enacting provisions set out as notes under sections 101 and 3503 of Title 44, amending provisions setout as a note under section 3503 of Title 44, and repealing provisions set out as a note under section 759 of this title\] shall take effect on the date of enactment of this Act \[Oct. 18, 1986\], except as provided in section 813(b) \[set out as a note under section 3503 of Title 44\] and except that the provisions of section 821 and the amendments made by such section \[amending this section and section 759 of this title, section 3504 of Title 44, and provisions set out as a note under section 3503 of Title 44\] shall take effect on January 1, 1987.”
+Section 101(m) \[title VIII, §833\] of Pub. L. 99–500 and Pub. L. 99–591 provided that: “This title and the amendments made by this title \[amending this section, sections 751 and 759 of this title, and sections 3501 to 3507, 3511, 3514, and 3520 of Title 44, Public Printing and Documents, enacting provisions set out as notes under sections 101 and 3503 of Title 44, amending provisions set out as a note under section 3503 of Title 44, and repealing provisions set out as a note under section 759 of this title\] shall take effect on the date of enactment of this Act \[Oct. 18, 1986\], except as provided in section 813(b) \[set out as a note under section 3503 of Title 44\] and except that the provisions of section 821 and the amendments made by such section \[amending this section and section 759 of this title, section 3504 of Title 44, and provisions set out as a note under section 3503 of Title 44\] shall take effect on January 1, 1987.”
 
 #### Definitions
 

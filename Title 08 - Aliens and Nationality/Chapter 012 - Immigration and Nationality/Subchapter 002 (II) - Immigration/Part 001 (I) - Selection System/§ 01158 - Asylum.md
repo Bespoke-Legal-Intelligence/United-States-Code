@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(iv) there are reasonable grounds for regarding the alien as a danger to the security of the United States;
 
-&emsp;&emsp;&emsp;(v) the alien is inadmissible under subclause (I), (II), (III), or (IV) of section 1182(a)(3)(B)(i) of this title or removable under section 1227(a)(4)(B) of this title (relating to terrorist activity), unless, in the case only of an alien inadmissible under subclause (IV) of section 1182(a)(3)(B)(i) of this title, the Attorney General determines, in the Attorney General's discretion, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States; or
+&emsp;&emsp;&emsp;(v) the alien is inadmissible under subclause (I), (II), (III), (IV), or (VI) of section 1182(a)(3)(B)(i) of this title or removable under section 1227(a)(4)(B) of this title (relating to terrorist activity), unless, in the case only of an alien inadmissible under subclause (IV) of section 1182(a)(3)(B)(i) of this title, the Attorney General determines, in the Attorney General's discretion, that there are not reasonable grounds for regarding the alien as a danger to the security of the United States; or
 
 &emsp;&emsp;&emsp;(vi) the alien was firmly resettled in another country prior to arriving in the United States.
 
@@ -154,9 +154,11 @@
 
 &emsp;Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690.)
+(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348.)
 
 #### Amendments
+
+2001—Subsec. (b)(2)(A)(v). Pub. L. 107–56 substituted “(III), (IV), or (VI)” for “(III), or (IV)”.
 
 1996—Pub. L. 104–208 substituted “Asylum” for “Asylum procedure” as section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (e).
 
@@ -165,6 +167,10 @@ Subsec. (a). Pub. L. 104–132, §421(a), inserted at end “The Attorney Genera
 1994—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
 1990—Subsec. (d). Pub. L. 101–649 added subsec. (d).
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) of Pub. L. 107–56, set out as a note under section 1182 of this title.
 
 #### Effective Date of 1996 Amendments
 
@@ -176,7 +182,7 @@ Section 421(b) of Pub. L. 104–132 provided that: “The amendment made by subs
 
 Section 515(b) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §306(a)(13), Dec. 12, 1991, 105 Stat. 1752, provided that:
 
-“(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply to convictions entered before, on, or after the date of the enactment ofthis Act \[Nov. 29, 1990\] and to applications for asylum made on or after such date.
+“(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for asylum made on or after such date.
 
 “(2) The amendment made by subsection (a)(2) \[amending section 1253 of this title\] shall apply to convictions entered before, on, or after the date of the enactment of this Act \[Nov. 29, 1990\] and to applications for withholding of deportation made on or after such date.”
 

@@ -26,7 +26,7 @@ The Congress finds that:
 
 &emsp;(10) Queen Lili'uokalani, the lawful monarch of Hawaii, and the Hawaiian Patriotic League, representing the aboriginal citizens of Hawaii, promptly petitioned the United States for redress of these wrongs and for restoration of the indigenous government of the Hawaiian nation, but this petition was not acted upon.
 
-&emsp;(11) In 1898, the United States annexed Hawaii through the Newlands Resolution without the consent of or compensation to the indigenous people of Hawaii or their sovereign government who were thereby denied the mechanism for expression of their inherent sovereignty through self-government and self-determination, their lands and ocean resources.
+&emsp;(11) In 1898, the United States annexed Hawaii through the Newlands Resolution withoutthe consent of or compensation to the indigenous people of Hawaii or their sovereign government who were thereby denied the mechanism for expression of their inherent sovereignty through self-government and self-determination, their lands and ocean resources.
 
 &emsp;(12) Through the Newlands Resolution and the 1900 Organic Act, the United States Congress received 1.75 million acres of lands formerly owned by the Crown and Government of the Hawaiian Kingdom and exempted the lands from then existing public land laws of the United States by mandating that the revenue and proceeds from these lands be “used solely for the benefit of the inhabitants of the Hawaiian Islands for education and other public purposes”, thereby establishing a special trust relationship between the United States and the inhabitants of Hawaii.
 
@@ -106,5 +106,5 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Short Title
 
-Section 1 of Pub. L. 100–579, and section 2301 of subtitle D of title II of Pub. L. 100–690, as amended by Pub.L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948, provided that: “This Act \[enacting this chapter and repealing section 1621d of Title 25, Indians\] may be cited as the ‘Native Hawaiian Health Care Improvement Act’.”
+Section 1 of Pub. L. 100–579, and section 2301 of subtitle D of title II of Pub. L. 100–690, as amended by Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948, provided that: “This Act \[enacting this chapter and repealing section 1621d of Title 25, Indians\] may be cited as the ‘Native Hawaiian Health Care Improvement Act’.”
 

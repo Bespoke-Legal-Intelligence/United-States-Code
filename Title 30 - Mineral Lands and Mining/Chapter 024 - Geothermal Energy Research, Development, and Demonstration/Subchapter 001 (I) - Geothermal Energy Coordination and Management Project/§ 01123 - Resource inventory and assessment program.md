@@ -20,7 +20,7 @@
 
 &emsp;(4) make such recommendations for legislation or administrative regulations as may from time to time appear to be necessary to make Federal leasing, environmental and taxing policy for geothermal resources consistent with known inventories of various resource types, with the current state of technologies for geothermal energy development, and with current evaluations of the environmental impacts of such development; and
 
-&emsp;(5) participate with appropriate Federal agencies and non-Federal entitles in research to develop, improve, and test technologies for the discovery and evaluation of all forms of geothermal resources, and conduct research into the principles controlling the location, occurrence, size, temperature, energy content, producibility, and economic lifetimes of geothermal reservoirs.
+&emsp;(5) participate with appropriate Federal agencies and non-Federal entities in research to develop, improve, and test technologies for the discovery and evaluation of all forms of geothermal resources, and conduct research into the principles controlling the location, occurrence, size, temperature, energy content, producibility, and economic lifetimes of geothermal reservoirs.
 
 (Pub. L. 93–410, title I, §103, Sept. 3, 1974, 88 Stat. 1082; Pub. L. 95–238, title V, §503, Feb. 25, 1978, 92 Stat. 86; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 

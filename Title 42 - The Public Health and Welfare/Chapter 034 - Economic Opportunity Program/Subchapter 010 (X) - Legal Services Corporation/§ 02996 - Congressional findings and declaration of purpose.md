@@ -24,13 +24,7 @@ The Congress finds and declares that—
 
 Section 17(b) of Pub. L. 95–222 provided that: “The amendments made by provisions of this Act other than sections 11 and 15 \[amending this section and sections 2996c, 2996e, 2996f, 2996g, 2996h, 2996i, and 2996j of this title\] shall be effective on the date of enactment of this Act \[Dec. 28, 1977\].”
 
-#### Short Title of 1977 Amendment
-
-Section 1 of Pub. L. 95–222 provided that: “This Act \[amending this section and sections 2996c and 2996e to 2996j of this title, and enacting provisions set out as notes under sections 2701, 2996, 2996f and 2996i of this title\] may be cited as the ‘Legal Services Corporation Act Amendments of 1977’.”
-
 #### Short Title
 
-Pub. L. 93–355, §1, July 25, 1974, 88 Stat. 378, provided: “That this Act \[enacting this subchapter and section 2971e of this title, amending section 2809 of this title, and enacting provisions set out as notes under this section and sections 2809 and 2996b of this title\] may be cited as the ‘Legal Services Corporation Act of 1974’.”
-
-Pub. L. 88–452, title X, §1014, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 389, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Legal Services Corporation Act’.”
+This subchapter is known as the “Legal Services Corporation Act”, see Short Title note set out under section 2701 of this title.
 

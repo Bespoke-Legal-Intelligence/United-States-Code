@@ -6,7 +6,7 @@ Except as otherwise provided by law, any party may appeal to the Supreme Court f
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§47, 47a, 380 and 380a (Mar. 3, 1911, ch. 231, §§210, 266, 36 Stat. 1150, 1162;Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38, Stat. 220; Feb. 13, 1925, ch. 229, §1, 43 Stat. 938; Aug. 24, 1937, ch. 754, §3, 50 Stat. 752).
+Based on title 28, U.S.C., 1940 ed., §§47, 47a, 380 and 380a (Mar. 3, 1911, ch. 231, §§210, 266, 36 Stat. 1150, 1162; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38, Stat. 220; Feb. 13, 1925, ch. 229, §1, 43 Stat. 938; Aug. 24, 1937, ch. 754, §3, 50 Stat. 752).
 
 This section consolidates the provisions of sections 47, 47a, 380, and 380a of title 28, U.S.C., 1940 ed., relating to direct appeals from decisions of three-judge courts involving orders of the Interstate Commerce Commission or holding State or Federal laws repugnant to the Constitution of the United States.
 

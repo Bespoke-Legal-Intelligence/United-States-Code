@@ -26,7 +26,7 @@ The following data elements are considered in determining the expected family co
 
 &emsp;(6) the age of the older parent, in the case of a dependent student, and the student; and
 
-&emsp;(7) the additional expenses incurred (A) in the case of a dependent student, when bothparents of the student are employed or when the family is headed by a single parent who is employed, or (B) in the case of an independent student, when the student is married and the student's spouse is employed, or when the employed student qualifies as a surviving spouse or as a head of a household under section 2 of title 26.
+&emsp;(7) the additional expenses incurred (A) in the case of a dependent student, when both parents of the student are employed or when the family is headed by a single parent who is employed, or (B) in the case of an independent student, when the student is married and the student's spouse is employed, or when the employed student qualifies as a surviving spouse or as a head of a household under section 2 of title 26.
 
 (Pub. L. 89–329, title IV, §474, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1456; amended Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 587; Pub. L. 105–244, title IV, §472, Oct. 7, 1998, 112 Stat. 1729.)
 

@@ -16,7 +16,7 @@ Each plan for a unit established, redesignated, or expanded by subchapter LIX–
 
 &emsp;(4) A plan for access to, and circulation within, such unit, indicating the type and location of transportation routes and facilities, if any.
 
-&emsp;(5) A description of the programs and methods which the Secretary plans to use for thepurposes of (A) encouraging the recognition and protection of the culture and history of the individuals residing, on December 2, 1980, in such unit and areas in the vicinity of such unit, and (B) providing and encouraging employment of such individuals.
+&emsp;(5) A description of the programs and methods which the Secretary plans to use for the purposes of (A) encouraging the recognition and protection of the culture and history of the individuals residing, on December 2, 1980, in such unit and areas in the vicinity of such unit, and (B) providing and encouraging employment of such individuals.
 
 &emsp;(6) A plan for acquiring land with respect to such unit, including proposed modifications in the boundaries of such unit.
 

@@ -1,6 +1,6 @@
 ### §2611. Congressional findings and declaration of policy
 
-Potatoes are a basic food in the United States and foreign countries. They are produced by many individual potato growers in every State in the United States and imported into the United States from foreign countries. In 1966, there were one million four hundred and ninety-seven thousand acres of cropland in the United States devoted to the production of potatoes.
+Potatoes are a basic food in the United States and foreign countries. They are produced bymany individual potato growers in every State in the United States and imported into the United States from foreign countries. In 1966, there were one million four hundred and ninety-seven thousand acres of cropland in the United States devoted to the production of potatoes.
 
 Potatoes and potato products move in the channels of interstate or foreign commerce, and potatoes which do not move in such channels directly burden or affect interstate commerce in potatoes and potato products.
 

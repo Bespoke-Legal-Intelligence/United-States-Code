@@ -16,7 +16,7 @@ Any relevant wildlife management authority of a nation within the range of Asian
 
 &emsp;(4) An estimate of the funds and time required to complete the project.
 
-&emsp;(5) Evidence of support of the project by appropriate governmental entities of countries in which the project will be conducted, if theSecretary determines that the support is required for the success of the project.
+&emsp;(5) Evidence of support of the project by appropriate governmental entities of countries in which the project will be conducted, if the Secretary determines that the support is required for the success of the project.
 
 &emsp;(6) Information regarding the source and amount of matching funding available to the applicant.
 

@@ -30,7 +30,7 @@ Person complying with requests.—Subsection (a) does not apply to a person comp
 
 &emsp;&emsp;(A) the complying person and any agents of the complying person have taken all precautions reasonably necessary to ensure the accuracy of the records and have complied with the regulations issued by the Secretary in furnishing the records, including the requirement that the individual who is the subject of the records be afforded a reasonable opportunity to review and comment on the records; and
 
-&emsp;&emsp;(B) the complying person and any agents and insurers of the complying person have taken all precautions reasonably necessaryto protect the records from disclosure to any person, except for such an insurer, not directly involved in forwarding the records.
+&emsp;&emsp;(B) the complying person and any agents and insurers of the complying person have taken all precautions reasonably necessary to protect the records from disclosure to any person, except for such an insurer, not directly involved in forwarding the records.
 
 &emsp;(3)
 
@@ -48,7 +48,7 @@ Pub. L. 105–178, title IV, §4014(a)(1), June 9, 1998, 112 Stat. 409, which di
 
 #### Prior Provisions
 
-A prior section 508, added Pub. L. 102–548, §2(a), Oct. 28, 1992, 106 Stat. 3646, related to certification of weights and description, prior to repeal by Pub. L. 103–272, §4(j)(11)(B), July 5, 1994, 108 Stat. 1368. See chapter 59 of this title.
+A prior section 508, added Pub. L. 102–548, §2(a), Oct. 28, 1992, 106 Stat. 3646, related to certification ofweights and description, prior to repeal by Pub. L. 103–272, §4(j)(11)(B), July 5, 1994, 108 Stat. 1368. See chapter 59 of this title.
 
 #### Effective Date
 

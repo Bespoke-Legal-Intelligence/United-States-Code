@@ -1,6 +1,6 @@
 ### §1045. Voluntary withholding of State income tax from retired or retainer pay
 
-(a) The Secretary concerned shall enter into an agreement under this section with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Secretary concerned shall withhold State income tax from the monthly retired or retainer pay of any member or former member entitled to such pay who voluntarily requests such withholding in writing. The amounts withheld during any calendar quarter shall be retained by the Secretary concerned and disbursed to the States during the month following that calendar quarter.
+(a) The Secretary concerned shall enter into an agreement under this section with any State within 120 days of a request for agreement from the proper State official. The agreement shallprovide that the Secretary concerned shall withhold State income tax from the monthly retired or retainer pay of any member or former member entitled to such pay who voluntarily requests such withholding in writing. The amounts withheld during any calendar quarter shall be retained by the Secretary concerned and disbursed to the States during the month following that calendar quarter.
 
 (b) A member or former member may request that the State designated for withholding be changed and that the withholdings be remitted in accordance with such change. A member or former member also may revoke any request of such member or former member for withholding. Any request for a change in the State designated and any revocation is effective on the first day of the month after the month in which the request or revocation is processed by the Secretary concerned, but in no event later than on the first day of the second month beginning after the day on which the request or revocation is received by the Secretary concerned.
 
@@ -10,7 +10,7 @@
 
 (2) The Secretary concerned may not accept pay from a State for services performed in withholding State income taxes from retired or retainer pay.
 
-(3) Any amount erroneously withheld from retired or retainer pay and paid to a State by theSecretary concerned shall be repaid by the State in accordance with regulations prescribed by the Secretary concerned.
+(3) Any amount erroneously withheld from retired or retainer pay and paid to a State by the Secretary concerned shall be repaid by the State in accordance with regulations prescribed by the Secretary concerned.
 
 (e) In this section:
 

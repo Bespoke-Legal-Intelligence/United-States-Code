@@ -50,7 +50,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 &emsp;&emsp;&emsp;(i) the Secretary has recommended to the Attorney General a grand jury investigation of, or the criminal prosecution of, such person for any offense connected with the administration or enforcement of the internal revenue laws, or
 
-&emsp;&emsp;&emsp;(ii) any request is made under section 6103(h)(3)(B) for the disclosure of any return or return information (within themeaning of section 6103(b)) relating to such person.
+&emsp;&emsp;&emsp;(ii) any request is made under section 6103(h)(3)(B) for the disclosure of any return or return information (within the meaning of section 6103(b)) relating to such person.
 
 #### (B) Termination
 
@@ -98,7 +98,7 @@ Pub. L. 105–206, title III, §3417(b), July 22, 1998, 112 Stat. 758, provided 
 
 #### Effective Date of 1982 Amendment
 
-Section 333(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 333(b) of Pub. L. 97–248 provided that: “The amendments made by subsection (a) \[amending thissection\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ Repayment.—
 
 &emsp;&emsp;(A)
 
-Schedule.—The Secretary shall establish a repayment schedule for each securedloan under this section based on the projected cash flow from aircraft revenues and other repayment sources.
+Schedule.—The Secretary shall establish a repayment schedule for each secured loan under this section based on the projected cash flow from aircraft revenues and other repayment sources.
 
 &emsp;&emsp;(B)
 

@@ -22,7 +22,7 @@ Availability of Amounts in Accounts.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other law, in addition to the purposes for which they are now available, amounts in the accounts described in paragraph (2) shall, after December 22, 1987, be available for use in any fiscal year for all purposes (including use for purchase) involving any public sale of property by an agency of the United States. In conducting any such sale, such an agency shall accept, in the same manner as cash, any amount tendered from such an account, and the balance of the account shall be adjusted by the Secretary of the Treasury or the Administrator of General Services, as applicable, to reflect that transaction.
+In general.—Notwithstanding any other law, in addition to the purposes for which they are now available, amounts in the accounts described in paragraph (2) shall, after December 22, 1987, be available for use in any fiscal year for all purposes (including use for purchase) involving any public sale of property by an agency of the United States. In conducting any such sale, such an agency shall accept, in the same manner as cash, any amount tendered from such an account, and the balance of the account shallbe adjusted by the Secretary of the Treasury or the Administrator of General Services, as applicable, to reflect that transaction.
 
 &emsp;“(2)
 
@@ -34,7 +34,7 @@ Accounts described.—The accounts referred to in subparagraph (B) are—
 
 “(b)
 
-Treatment of Amount Received by Agencies From Accounts.—In any case in which an agency of theUnited States that conducts a public sale of property is authorized by law to use the proceeds of such sale for a specific purpose, the Secretary of the Treasury shall, without restriction, treat as cash receipts any amount which is—
+Treatment of Amount Received by Agencies From Accounts.—In any case in which an agency of the United States that conducts a public sale of property is authorized by law to use the proceeds of such sale for a specific purpose, the Secretary of the Treasury shall, without restriction, treat as cash receipts any amount which is—
 
 &emsp;“(1) tendered from an account described in subsection (a)(2);
 

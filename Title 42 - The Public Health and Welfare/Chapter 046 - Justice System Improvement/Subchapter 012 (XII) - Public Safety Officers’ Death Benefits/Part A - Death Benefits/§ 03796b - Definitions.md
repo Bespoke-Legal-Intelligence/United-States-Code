@@ -36,7 +36,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(ii) are determined by the Director of the Federal Emergency Management Agency to be hazardous duties; or
 
-&emsp;&emsp;(C) an employee of a State, local, or tribal emergency management or civil defenseagency who is performing official duties in cooperation with the Federal Emergency Management Agency in an area, if those official duties—
+&emsp;&emsp;(C) an employee of a State, local, or tribal emergency management or civil defense agency who is performing official duties in cooperation with the Federal Emergency Management Agency in an area, if those official duties—
 
 &emsp;&emsp;&emsp;(i) are related to a major disaster or emergency that has been, or is later, declared to exist with respect to the area under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
 
@@ -96,5 +96,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 26 section 101; title 28 section 1863.
+This section is referred to in section 3796c–1 of this title; title 26 section 101; title 28 section 1863.
 

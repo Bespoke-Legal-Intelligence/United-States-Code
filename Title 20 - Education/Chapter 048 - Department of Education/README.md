@@ -39,7 +39,7 @@
 | [3417\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003417%20-%20Office%20of%20Special%20Education%20and%20Rehabilitative%20Services.md) | Office of Special Education and Rehabilitative Services. |
 | [3418\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003418%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20XII%2C%20%C2%A71204%28a%29%281%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20720.md) | Repealed. |
 | [3419\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003419%20-%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Office of Educational Research and Improvement. |
-| [3420\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003420%20-%20Office%20of%20Bilingual%20Education%20and%20Minority%20Languages%20Affairs.md) | Office of Bilingual Education and Minority Languages Affairs. |
+| [3420\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003420%20-%20Office%20of%20English%20Language%20Acquisition%2C%20Language%20Enhancement%2C%20and%20Academic%20Achievement%20for%20Limited%20English%20Proficient%20Students.md) | Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students. |
 | [3421\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003421%20-%20Office%20of%20General%20Counsel.md) | Office of General Counsel. |
 | [3422\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003422%20-%20Office%20of%20Inspector%20General.md) | Office of Inspector General. |
 | [3423\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003423%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93392%2C%20title%20VI%2C%20%C2%A7602%28a%29%281%29%2C%20Sept.%2025%2C%201990%2C%20104%20Stat.%20840.md) | Repealed. |
@@ -54,7 +54,7 @@
 | (a) | Office of Indian Education. |
 | (b) | Director. |
 | (c) | Indian preference in employment. |
-| [3423d.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003423d%20-%20Office%20of%20Bilingual%20Education%20and%20Minority%20Languages%20Affairs.md) | Office of Bilingual Education and Minority Languages Affairs. |
+| [3423d.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003423d%20-%20Office%20of%20English%20Language%20Acquisition%2C%20Language%20Enhancement%2C%20and%20Academic%20Achievement%20for%20Limited%20English%20Proficient%20Students.md) | Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students. |
 | (a) | Establishment. |
 | (b) | Director. |
 | [3424\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003424%20-%20Federal%20Interagency%20Committee%20on%20Education.md) | Federal Interagency Committee on Education. |
@@ -74,6 +74,11 @@
 | (a) | Establishment. |
 | (b) | Appointment. |
 | (c) | Duties. |
+| [3427\.](Subchapter%20002%20%28II%29%20-%20Establishment%20of%20the%20Department/%C2%A7%2003427%20-%20Coordinator%20for%20the%20outlying%20areas.md) | Coordinator for the outlying areas. |
+| (a) | Establishment. |
+| (b) | Appointment. |
+| (c) | Duties. |
+| (d) | Outlying areas defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

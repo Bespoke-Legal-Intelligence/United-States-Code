@@ -16,11 +16,15 @@ Word “action” was substituted for “suit”, in view of Rule 2 of the Feder
 
 Section 117 of title 28, U.S.C., 1940 ed., applied to land or other property of a fixed character lying in different States within the same circuit. Words “property, real, personal or mixed, situated in different districts”, were inserted to broaden the scope of this section to cover all property in different districts without respect to situs “within different states within same judicial circuit”.
 
-The revised section permits the receiver appointed by any district court to control all property of the defendant in whatever district the property is situated. The provisions of section 117 of title 28, U.S.C., 1940 ed., for divesting the receiver's jurisdiction and control of property in other districts upon disapproval by the circuit court of appeals or a judge thereof of the circuit embracing the district of appointment was omitted as unnecessary in view of sections 1292 and 2107 of this title. Said section 1292 provides for review of the order of appointment and the directions of the reviewing court will control the receiver.
+The revised section permits the receiver appointed by any district court to control all property of the defendant in whatever district the property is situated. The provisions of section 117 of title 28, U.S.C., 1940 ed., for divesting the receiver's jurisdiction and control of property in other districts upon disapproval by the circuit court of appeals or a judge thereof of the circuit embracing the district of appointment was omitted as unnecessary in view of sections 1292 and 2107 of this title. Said section 1292 provides for review of the orderof appointment and the directions of the reviewing court will control the receiver.
 
 Provisions of section 117 of title 28, U.S.C., 1940 ed., relating to process are the basis of section 1692 of this title.
 
 Under section 117 of title 28, U.S.C., 1940 ed., failure to file copies of the complaint and order of appointment in any district where part of the property was located divested the receiver of jurisdiction over all the property except that part located in the State where the suit was brought. This has been changed by limiting the exception to the district where the copies are not filed. Obviously the election of the receiver not to take control of property in one district ought not to preclude his control in those districts in which he did file such copies.
 
 Changes were made in phraseology.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 18 section 1956.
 

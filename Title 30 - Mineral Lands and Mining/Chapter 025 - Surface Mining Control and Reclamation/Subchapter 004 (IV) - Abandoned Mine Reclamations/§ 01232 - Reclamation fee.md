@@ -10,7 +10,7 @@ Such fee shall be paid no later than thirty days after the end of each calendar 
 
 #### (c) Submission of statement
 
-Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple,<sup>1</sup> or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
+Together with such reclamation fee, all operators of coal mine operations shall submit a statement of the amount of coal produced during the calendar quarter, the method of coal removal and the type of coal, the accuracy of which shall be sworn to by the operator and notarized. Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple,<sup>1</sup> or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.
 
 #### (d) Penalty
 
@@ -48,7 +48,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (2) 20 percent of the amounts available in the fund in any fiscal year which are not allocated under paragraph (1) in that fiscal year (including that interest accruing as provided in section 1231(e) of this title and including funds available for reallocation pursuant to paragraph (1)(D)), shall be allocated to the Secretary only for the purpose of making the annual transfer to the Secretary of Agriculture under section 1231(c)(2) of this title.
 
-(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraphs (2) and (5) are authorized to be expended by the Secretary for any of the following:
+(3) Amounts available in the fund which are not allocated to States and Indian tribes underparagraph (1) or allocated under paragraphs (2) and (5) are authorized to be expended by the Secretary for any of the following:
 
 &emsp;(A) For the purpose of section 1257(c) of this title, either directly or through grants to the States, subject to the limitation contained in section 1231(c)(11) of this title.
 
@@ -58,7 +58,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;(D) For the administration of this subchapter by the Secretary.
 
-(4)(A) Amounts available in the fund which are not allocated under paragraphs (1), (2), and (5) or expended under paragraph (3) in any fiscal year are authorized to be expended by the Secretary under this paragraph for the reclamation or drainage abatement of lands and waters withinunreclaimed sites which are mined for coal or which were affected by such mining, wastebanks, coal processing or other coal mining processes and left in an inadequate reclamation status.
+(4)(A) Amounts available in the fund which are not allocated under paragraphs (1), (2), and (5) or expended under paragraph (3) in any fiscal year are authorized to be expended by the Secretary under this paragraph for the reclamation or drainage abatement of lands and waters within unreclaimed sites which are mined for coal or which were affected by such mining, wastebanks, coal processing or other coal mining processes and left in an inadequate reclamation status.
 
 (B) Funds made available under this paragraph may be used for reclamation or drainage abatement at a site referred to in subparagraph (A) if the Secretary makes either of the following findings:
 
@@ -100,7 +100,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;(vii) An analysis of the cost-effectiveness and environmental benefits of abatement and treatment measures.
 
-(C) The Secretary may approve any plan under this paragraph only after determining that such plan meets the requirements of this paragraph. In conducting an analysis of the items referred to in clauses (iv), (v), and (vii) the Director ofthe Office of Surface Mining shall obtain the comments of the Director of the United States Bureau of Mines. In approving plans under this paragraph, the Secretary shall give a priority to those plans which will be implemented in coordination with measures undertaken by the Secretary of Agriculture under section 1236 of this title.
+(C) The Secretary may approve any plan under this paragraph only after determining that such plan meets the requirements of this paragraph. In conducting an analysis of the items referred to in clauses (iv), (v), and (vii) the Director of the Office of Surface Mining shall obtain the comments of the Director of the United States Bureau of Mines. In approving plans under this paragraph, the Secretary shall give a priority to those plans which will be implemented in coordination with measures undertaken by the Secretary of Agriculture under section 1236 of this title.
 
 (D) For purposes of this paragraph, the term “qualified hydrologic unit” means a hydrologic unit—
 
@@ -148,13 +148,13 @@ Subsec. (h). Pub. L. 102–486, §19143(b)(2), added subsec. (h).
 
 1990—Subsec. (b). Pub. L. 101–508, §6003(a), substituted “ending September 30, 1995” for “ending fifteen years after August 3, 1977, unless extended by an Act of Congress”.
 
-Subsec. (c). Pub. L. 101–508, §6003(b), inserted at end “Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
+Subsec. (c). Pub. L. 101–508, §6003(b), inserted at end “Such statement shall include an identification of thepermittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
 
 Subsec. (d). Pub. L. 101–508, §6003(c), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (f). Pub. L. 101–508, §6003(d), inserted at end “Whenever the Secretary believes that any person has not paid the full amount of the fee payable under subsection (a) of this section the Secretary shall notify the Federal agency responsible for ensuring compliance with the provisions of section 4121 of title 26.”
 
-Subsec. (g). Pub. L. 101–508, §6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizingexpenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
+Subsec. (g). Pub. L. 101–508, §6004, amended subsec. (g) generally, substituting present provisions for provisions relating to geographic allocation of expenditures from the fund, providing for allocation of 50 percent of funds collected annually in any State or Indian reservation to that State or Indian reservation pursuant to approved reclamation program, providing for special State set-aside for future expenditure, and authorizing expenditure of balance of funds collected at discretion of Secretary in order to meet the purposes of this subchapter.
 
 1987—Subsec. (g)(3), (4). Pub. L. 100–34 added par. (3) and redesignated former par. (3) as (4).
 

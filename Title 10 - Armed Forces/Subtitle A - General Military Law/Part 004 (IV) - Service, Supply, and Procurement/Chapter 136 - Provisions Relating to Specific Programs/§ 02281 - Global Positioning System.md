@@ -130,7 +130,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;“(A) there has emerged in the United States a new commercial industry to provide Global Positioning System equipment and related services to the many and varied users of the system; and
 
-&emsp;&emsp;“(B) there have been rapid technical advancements in Global Positioning System equipment and services that have contributed significantly to reductions in the cost of the Global Positioning System and increases in the technical capabilities and availability of the system for military uses.
+&emsp;&emsp;“(B) there have been rapid technical advancements in Global Positioning System equipment andservices that have contributed significantly to reductions in the cost of the Global Positioning System and increases in the technical capabilities and availability of the system for military uses.
 
 &emsp;“(5) It is in the national interest of the United States for the United States—
 
@@ -152,7 +152,7 @@ International Cooperation.—Congress urges the President to promote the securit
 
 &emsp;“(3) Undertaking efforts to eliminate any barriers to, and other restrictions of foreign governments on, peaceful uses of the Global Positioning System.
 
-&emsp;“(4) Requiring that any proposed international agreement involving nonmilitary use of the GlobalPositioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
+&emsp;“(4) Requiring that any proposed international agreement involving nonmilitary use of the Global Positioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
 
 #### Access to Global Positioning System
 

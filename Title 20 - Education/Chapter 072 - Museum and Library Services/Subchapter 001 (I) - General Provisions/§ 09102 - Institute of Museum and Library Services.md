@@ -70,7 +70,7 @@ In general.—Except as otherwise provided by this section, the transfer pursuan
 
 &emsp;“(2)
 
-Executive schedule positions.—Except as otherwise provided in this section, any person who, on the day preceding the effective date of this section \[Sept. 30, 1996\], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Institute of Museum and Library Services to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
+Executive schedule positions.—Except as otherwise provided in this section, any person who,on the day preceding the effective date of this section \[Sept. 30, 1996\], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Institute of Museum and Library Services to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
 
 “(j)
 
@@ -128,7 +128,7 @@ Recommended legislation.—After consultation with the appropriate committees of
 
 &emsp;“(2)
 
-Submission to congress.—Not later than 6 months after the effective date of this section \[Sept. 30, 1996\], the Director of the Institute of Museum and Library Services shall submit to the appropriatecommittees of Congress the recommended legislation referred to under paragraph (1).”
+Submission to congress.—Not later than 6 months after the effective date of this section \[Sept. 30, 1996\], the Director of the Institute of Museum and Library Services shall submit to the appropriate committees of Congress the recommended legislation referred to under paragraph (1).”
 
 #### Transition and Transfer of Funds
 

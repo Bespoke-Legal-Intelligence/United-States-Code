@@ -140,7 +140,7 @@ In general.—The amendments made by subsections (a) and (b) of section 5525 of 
 
 &emsp;“(2)
 
-Repeals.—The repeals made by section 5525(c) \[repealing provisions set out as notes under sections425 and 1382 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
+Repeals.—The repeals made by section 5525(c) \[repealing provisions set out as notes under sections 425 and 1382 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
 “(d)
 

@@ -48,7 +48,7 @@
 
 (f)(1) Each Federal agency which provides Federal awards to a recipient shall—
 
-&emsp;(A) provide such recipient the program names (and any identifying numbers) from which such awards are derived, and the Federal requirements which govern the use of such awards and the requirements of this chapter; and
+&emsp;(A) provide such recipient the program names (and any identifying numbers) from which such awards are derived, and the Federal requirements which govern the use ofsuch awards and the requirements of this chapter; and
 
 &emsp;(B) review the audit of a recipient as necessary to determine whether prompt and appropriate corrective action has been taken with respect to audit findings, as defined by the Director, pertaining to Federal awards provided to the recipient by the Federal agency.
 
@@ -100,5 +100,5 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7501, 7503, 7504, 7505 of this title; title 49 section 47107.
+This section is referred to in sections 7501, 7503, 7504, 7505 of this title; title 42 section 300ff–75a; title 49 section 47107.
 

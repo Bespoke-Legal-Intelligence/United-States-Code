@@ -1037,12 +1037,12 @@ Costs.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Education for Homeless Children and Youth
+#### Part B—Education for Homeless Children and Youths
 
 |  |  |
 | :--- | ---: |
-| [11431\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011431%20-%20Statement%20of%20policy.md) | Statement of policy. |
-| [11432\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011432%20-%20Grants%20for%20State%20and%20local%20activities%20for%20education%20of%20homeless%20children%20and%20youth.md) | Grants for State and local activities for education of homeless children and youth. |
+| [11431\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youths/%C2%A7%2011431%20-%20Statement%20of%20policy.md) | Statement of policy. |
+| [11432\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youths/%C2%A7%2011432%20-%20Grants%20for%20State%20and%20local%20activities%20for%20the%20education%20of%20homeless%20children%20and%20youths.md) | Grants for State and local activities for the education of homeless children and youths. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1064,11 +1064,11 @@ Activities.
 
 (e)
 
-State and local grants.
+State and local subgrants.
 
 (f)
 
-Functions of Office of Coordinator.
+Functions of the Office of Coordinator.
 
 (g)
 
@@ -1076,7 +1076,7 @@ State plan.
 
 |  |  |
 | :--- | ---: |
-| [11433\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011433%20-%20Local%20educational%20agency%20grants%20for%20education%20of%20homeless%20children%20and%20youth.md) | Local educational agency grants for education of homeless children and youth. |
+| [11433\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youths/%C2%A7%2011433%20-%20Local%20educational%20agency%20subgrants%20for%20the%20education%20of%20homeless%20children%20and%20youths.md) | Local educational agency subgrants for the education of homeless children and youths. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1098,13 +1098,13 @@ Authorized activities.
 
 |  |  |
 | :--- | ---: |
-| [11434\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011434%20-%20Secretarial%20responsibilities.md) | Secretarial responsibilities. |
+| [11434\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youths/%C2%A7%2011434%20-%20Secretarial%20responsibilities.md) | Secretarial responsibilities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Review of plans.
+Review of State plans.
 
 (b)
 
@@ -1112,24 +1112,36 @@ Technical assistance.
 
 (c)
 
-Evaluation and dissemination.
+Notice.
 
 (d)
 
-Submission and distribution.
+Evaluation and dissemination.
 
 (e)
 
-Determination by Secretary.
+Submission and distribution.
 
 (f)
 
-Reports.
+Determination by Secretary.
+
+(g)
+
+Guidelines.
+
+(h)
+
+Information.
+
+(i)
+
+Report.
 
 |  |  |
 | :--- | ---: |
-| [11434a.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011434a%20-%20Definitions.md) | Definitions. |
-| [11435\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youth/%C2%A7%2011435%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [11434a.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youths/%C2%A7%2011434a%20-%20Definitions.md) | Definitions. |
+| [11435\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20B%20-%20Education%20for%20Homeless%20Children%20and%20Youths/%C2%A7%2011435%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1137,34 +1149,7 @@ Reports.
 
 |  |  |
 | :--- | ---: |
-| 11441 to 11447. | Repealed. |
-| [11448\.](Subchapter%20006%20%28VI%29%20-%20Education%20and%20Training/Part%20C%20-%20Job%20Training%20for%20Homeless/%C2%A7%2011448%20-%20Homeless%20veterans%E2%80%99%20reintegration%20projects.md) | Homeless veterans’ reintegration projects. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-General authority.
-
-(b)
-
-Authority to monitor expenditure of funds.
-
-(c)
-
-Administration through Assistant Secretary of Labor for Veterans’ Employment and Training.
-
-(d)
-
-“Homeless veteran” defined.
-
-(e)
-
-Authorization of appropriations.
-
-|  |  |
-| :--- | ---: |
-| 11449, 11450. | Repealed. |
+| 11441 to 11450. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1194,7 +1179,7 @@ Authorization of appropriations.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437bbb–5, 12705, 12706 of this title; title 14 section 685; title 16 section 470w–7; title 26 section 42; title 35 section 2.
+This chapter is referred to in sections 1437bbb–5, 12705, 12706 of this title; title 14 section 685; title 16 section 470w–7; title 20 sections 6311, 6312; title 26 section 42; title 35 section 2.
 
 
 ---

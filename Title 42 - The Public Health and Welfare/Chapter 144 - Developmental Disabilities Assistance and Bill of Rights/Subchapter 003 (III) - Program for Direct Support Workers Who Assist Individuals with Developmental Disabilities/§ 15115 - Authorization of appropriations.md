@@ -2,7 +2,7 @@
 
 #### (a) Scholarships
 
-There are authorized to be appropriated to carry out section 15113 of this title $800,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2007.
+There are authorized to be appropriated to carry out section 15113 of this title $800,000 forfiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2007.
 
 #### (b) Staff development curriculum
 

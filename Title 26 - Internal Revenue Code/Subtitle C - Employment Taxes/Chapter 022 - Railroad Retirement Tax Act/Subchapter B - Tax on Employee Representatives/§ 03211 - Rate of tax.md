@@ -1,40 +1,40 @@
 ### §3211. Rate of tax
 
-#### (a) Imposition of taxes
+#### (a) Tier 1 tax
 
-#### (1) Tier 1 tax
+In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the applicable percentage of the compensation received during any calendar year by such employee representative for services rendered by such employee representative. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 and subsections (a) and (b) of section 3111 for the calendar year.
 
-&emsp;In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the applicable percentage of the compensation received during any calendar year by such employee representative for services rendered by such employee representative. For purposes of the preceding sentence, the term “applicable percentage” means the percentage equal to the sum of the rates of tax in effect under subsections (a) and (b) of section 3101 and subsections (a) and (b) of section 3111 for the calendar year.
+#### (b) Tier 2 tax
 
-#### (2) Tier 2 tax
+#### (1) In general
 
-&emsp;In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the following percentage of the compensation received during any calendar year by such employee representatives for services rendered by such employee representative:
+&emsp;In addition to other taxes, there is hereby imposed on the income of each employee representative a tax equal to the applicable percentage of the compensation received during any calendar year by such employee representatives for services rendered by such employee representative.
 
-<b> In the case of compensation</b>
+#### (2) Applicable percentage
 
-<b>  received during:</b>
+&emsp;For purposes of paragraph (1), the term “applicable percentage” means—
 
-<b>The rate shall be:</b>
+&emsp;&emsp;(A) 14.75 percent in the case of compensation received during 2002,
 
-&emsp;&emsp;1985
+&emsp;&emsp;(B) 14.20 percent in the case of compensation received during 2003, and
 
-13\.75&nbsp;&nbsp;
+&emsp;&emsp;(C) in the case of compensation received during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
 
-&emsp;&emsp;1986 or thereafter
+#### (c) Cross reference
 
-14\.75.
+&emsp;&emsp;<b>For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### (3) Cross reference
-
-&emsp;&emsp;<b>For application of different contribution bases with respect to the taxes imposed by paragraphs (1) and (2), see section 3231(e)(2).</b>
-
-(b) In addition to other taxes, there is hereby imposed on the income of each employee representative a tax at a rate equal to the rate of excise tax imposed on every employer, provided for in section 3221(c), for each man-hour for which compensation is paid to him for services rendered as an employee representative.
-
-(Aug. 16, 1954, ch. 736, 68A Stat. 432; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(c), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(2), 111(c)(2), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(b), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301 (b), (d), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §4, Mar. 17, 1970, 84 Stat. 70; Pub. L. 93–69, title I, §102(c),July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §202, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(8), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(b), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(c), 223, Aug. 12, 1983, 97 Stat. 419, 421; Pub. L. 101–508, title V, §5125(b), Nov. 5, 1990, 104 Stat. 1388–285.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 432; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(c), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(2), 111(c)(2), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(b), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301 (b), (d), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §4, Mar. 17, 1970, 84 Stat. 70; Pub. L. 93–69, title I, §102(c), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §202, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(8), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(b), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(c), 223, Aug. 12, 1983, 97 Stat. 419, 421; Pub. L. 101–508, title V, §5125(b), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §§203(a), 204(b), Dec. 21, 2001, 115 Stat. 891.)
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a). Pub. L. 107–90, §204(b), added subsec. (a) and struck out former subsec. (a), which related to imposition of tier 1 and 2 taxes.
+
+Subsec. (b). Pub. L. 107–90, §204(b), added subsec. (b).
+
+Pub. L. 107–90, §203(a), struck out subsec. (b) which read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee representative a tax at a rate equal to the rate of excise tax imposed on every employer, provided for in section 3221(c), for each man-hour for which compensation is paid to him for services rendered as an employee representative.”
+
+Subsec. (c). Pub. L. 107–90, §204(b), added subsec. (c).
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of the” and provision defining the term “applicable percentage” for provision specifying that in the case of compensation received during 1985 the rate of tax was 14.10 percent, for 1986 or 1987 the rate was 14.30 percent, for 1988 or 1989 the rate was 15.02 percent, and for 1990 or thereafter the rate was 15.30 percent.
 
@@ -64,9 +64,15 @@ Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages
 
 <b>1963</b>—Pub. L. 88–133 limited the existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
-<b>1959</b>—Pub. L. 86–28 increased the tax from 121/2 percent of the compensation not in excess of $350 for any calendar month to 131/2 percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 141/2 percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after December 31, 1964, by a number of percentage points equal at any given time to twice the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
+<b>1959</b>—Pub. L. 86–28 increased the tax from 121/2 percent of the compensation not in excess of $350 for any calendar month to 131/2 percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 141/2 percent for services rendered after Dec. 31, 1961, and required an increase inthe rate of tax with respect to compensation paid for services rendered after December 31, 1964, by a number of percentage points equal at any given time to twice the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
 <b>1954</b>—Act Aug. 31, 1954, substituted “$350” for “$300”.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–90, title II, §203(c), Dec. 21, 2001, 115 Stat. 891, provided that: “The amendments made by this section \[amending this section and section 3221 of this title\] shall apply to calendar years beginning after December 31, 2001.”
+
+Amendment by section 204(b) of Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as an Effective and Termination Dates of 2001 Amendments note under section 24 of this title.
 
 #### Effective and Termination Dates of 1983 Amendment
 
@@ -120,5 +126,5 @@ For provision that no penalties or interest shall be assessed on account of any 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 72, 275, 1402, 3231, 3502, 6051 of this title; title 45 sections 231, 231e, 231f–1, 231n, 231n–1.
+This section is referred to in sections 24, 72, 275, 1402, 3231, 3241, 3502, 6051 of this title; title 45 sections 231, 231e, 231f–1, 231n–1.
 

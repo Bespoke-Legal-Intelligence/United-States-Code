@@ -14,7 +14,7 @@ With respect to natural gas which is imported into the United States from a nati
 
 #### (c) Expedited application and approval process
 
-For purposes of subsection (a) of this section, the importation of the natural gas referred to in subsection (b) of this section, or the exportation of natural gas to a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas, shall be deemed to be consistent with the public interest, and applications for such importation or exportation shall be granted without modification or delay.
+For purposes of subsection (a) of this section, the importation of the natural gas referred to in subsection (b) of this section, or the exportation of natural gas to a nation with which there is ineffect a free trade agreement requiring national treatment for trade in natural gas, shall be deemed to be consistent with the public interest, and applications for such importation or exportation shall be granted without modification or delay.
 
 (June 21, 1938, ch. 556, §3, 52 Stat. 822; Pub. L. 102–486, title II, §201, Oct. 24, 1992, 106 Stat. 2866.)
 

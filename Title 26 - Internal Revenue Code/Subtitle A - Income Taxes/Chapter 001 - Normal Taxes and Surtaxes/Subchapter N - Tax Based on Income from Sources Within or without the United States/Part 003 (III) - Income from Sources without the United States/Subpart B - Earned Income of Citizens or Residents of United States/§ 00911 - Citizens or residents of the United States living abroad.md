@@ -216,7 +216,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the term “foreign earned income” shall not include any income from sources within such country attributable to services performed during such period,
 
-&emsp;&emsp;&emsp;(ii) the term “housing expenses” shall not include any expenses allocable to such period for housing in such country or for housing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
+&emsp;&emsp;&emsp;(ii) the term “housing expenses” shall not include any expenses allocable to such period for housing in such country or forhousing of the spouse or dependents of the taxpayer in another country while the taxpayer is present in such country, and
 
 &emsp;&emsp;&emsp;(iii) an individual shall not be treated as a bona fide resident of, or as present in, a foreign country for any day during which such individual was present in such country during such period.
 
@@ -298,13 +298,13 @@ $80,000&nbsp;&nbsp;
 
 Subsec. (d)(8), (9). Pub. L. 99–514, §1233(b), added par. (8) and redesignated former par. (8) as (9).
 
-<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–369 amended table by striking out item which set the annual rate at $75,000 for taxable years beginning in 1982, substituted item setting the annual rate at $80,000 for taxable yearsbeginning in 1983, 1984, 1985, 1986, or 1987 for items which had set annual rates of $80,000 for taxable years beginning in 1983, $85,000 for taxable years beginning in 1984, $90,000 for taxable years beginning in 1985, and $95,000 for taxable years beginning in 1986 and thereafter, and added items setting annual rates of $85,000 for taxable years beginning in 1988, $90,000 for taxable years beginning in 1989, and $95,000 for taxable years beginning in 1990 and thereafter.
+<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–369 amended table by striking out item which set the annual rate at $75,000 for taxable years beginning in 1982, substituted item setting the annual rate at $80,000 for taxable years beginning in 1983, 1984, 1985, 1986, or 1987 for items which had set annual rates of $80,000 for taxable years beginning in 1983, $85,000 for taxable years beginning in 1984, $90,000 for taxable years beginning in 1985, and $95,000 for taxable years beginning in 1986 and thereafter, and added items setting annual rates of $85,000 for taxable years beginning in 1988, $90,000 for taxable years beginning in 1989, and $95,000 for taxable years beginning in 1990 and thereafter.
 
 <b>1983</b>—Subsec. (c)(3)(B)(ii). Pub. L. 97–448, §101(c)(2), substituted “subsection (a)” for “subsection (a)(1)”.
 
 Subsec. (d)(7), (8). Pub. L. 97–448, §101(c)(1), added par. (7) and redesignated former par. (7) as (8).
 
-<b>1981</b>—Pub. L. 97–34 amended section generally, modifying the eligibility standards of existing law, replacing the existing system of deduction for excess living costs with an exclusion of a portion of foreign earned income, and providing for an individual's election to exclude a portion of his income or to deduct an amount for housing, based on his housing expenses.
+<b>1981</b>—Pub. L. 97–34 amended section generally, modifying the eligibility standards of existing law, replacing the existing system of deduction for excess living costs with an exclusion of a portion of foreign earned income, and providing for an individual's election toexclude a portion of his income or to deduct an amount for housing, based on his housing expenses.
 
 <b>1980</b>—Pub. L. 96–595 §4(c)(1), inserted “or from charitable services” after “camps” in section catchline.
 
@@ -458,7 +458,7 @@ Section 1232(a) of Pub. L. 99–514 provided that: “Nothing in the Panama Cana
 
 #### Taxable Years Beginning in 1977 or 1978; Individuals Who Leave Foreign Country After August 31, 1978
 
-Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the case of an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as an Effective Date of 1980 Amendment note under section 913 of this title.
+Rules similar to the rules of section 913(j)(4) of this title to apply for the purposes of applying this section for taxable years beginning in 1977 or 1978 in the caseof an individual who leaves a foreign country after Aug. 31, 1978, see section 1(b) of Pub. L. 96–608, set out as an Effective Date of 1980 Amendment note under section 913 of this title.
 
 #### Individuals for Whom Unused Zero Bracket Amount Computation Is Provided for Taxable Years Beginning in 1977
 
@@ -484,5 +484,5 @@ Information From Federal Agencies.—Each agency of the Federal Government which
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 23, 24, 25A, 32, 59, 66, 72, 79, 86, 105, 135, 137, 219, 221, 403, 410, 414, 415, 469, 505, 530, 865, 879, 988, 1400C, 1402, 3401, 4980B, 6012, 6091, 7701 of this title; title 22 section 3310; title 29 section 1322; title 42 sections 411, 604.
+This section is referred to in sections 1, 23, 24, 25A, 25B, 32, 59, 66, 72, 79, 86, 105, 135, 137, 219, 221, 222, 403, 410, 414, 415, 469, 505, 530, 865, 879, 988, 1400C, 1402, 3401, 4980B, 6012, 6091, 7701 of this title; title 22 section 3310; title 29 section 1322; title 42 sections 411, 604.
 

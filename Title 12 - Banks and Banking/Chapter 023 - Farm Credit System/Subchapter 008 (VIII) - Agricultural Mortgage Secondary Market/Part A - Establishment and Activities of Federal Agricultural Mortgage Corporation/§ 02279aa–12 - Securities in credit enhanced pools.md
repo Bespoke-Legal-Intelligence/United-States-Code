@@ -54,6 +54,12 @@ A provision of the Constitution or law of any State shall not apply to an agricu
 
 (Pub. L. 92–181, title VIII, §8.12, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1703; amended Pub. L. 100–399, title VI, §601(k), (<i>l</i>), Aug. 17, 1988, 102 Stat. 1006; Pub. L. 104–105, title I, §112, Feb. 10, 1996, 110 Stat. 165.)
 
+#### References in Text
+
+The Securities Exchange Act of 1934, referred to in subsec. (a)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+
+The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+
 #### Amendments
 
 1996—Subsec. (d). Pub. L. 104–105 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee.”
@@ -65,10 +71,4 @@ Subsec. (b)(2). Pub. L. 100–399, §601(<i>l</i>), substituted “date of the e
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
-
-#### References in Text
-
-The Securities Exchange Act of 1934, referred to in subsec. (a)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
-
-The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 

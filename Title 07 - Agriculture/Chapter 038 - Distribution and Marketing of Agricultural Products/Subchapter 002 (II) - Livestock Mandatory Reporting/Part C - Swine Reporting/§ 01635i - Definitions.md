@@ -86,7 +86,7 @@ In this part:
 
 &emsp;The term “packer-sold swine” means the swine that are—
 
-&emsp;&emsp;(A) owned by a packer (including a subsidiary or affiliate of the packer) for more than14 days immediately before sale for slaughter; and
+&emsp;&emsp;(A) owned by a packer (including a subsidiary or affiliate of the packer) for more than 14 days immediately before sale for slaughter; and
 
 &emsp;&emsp;(B) sold for slaughter to another packer.
 

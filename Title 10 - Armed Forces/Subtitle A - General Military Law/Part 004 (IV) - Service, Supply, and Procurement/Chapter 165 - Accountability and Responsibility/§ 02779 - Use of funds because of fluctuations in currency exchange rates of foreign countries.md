@@ -34,7 +34,7 @@ Transfers to Foreign Currency Fluctuations Account.—(1) The Secretary of Defen
 
 Conditions of Availability for Transferred Funds.—Amounts transferred under subsection (c) or (d) shall be merged with and be available for the same purposes and for the same period as the appropriations to which transferred.
 
-(Added Pub. L. 97–258, §2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1056; amended Pub. L. 101–510, div. A,title XIII, §1301(15), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 104–106, div. A, title IX, §911(a)–(c), (e), Feb. 10, 1996, 110 Stat. 406, 407.)
+(Added Pub. L. 97–258, §2(b)(8)(B), Sept. 13, 1982, 96 Stat. 1056; amended Pub. L. 101–510, div. A, title XIII, §1301(15), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 104–106, div. A, title IX, §911(a)–(c), (e), Feb. 10, 1996, 110 Stat. 406, 407.)
 
 Historical and Revision Notes
 

@@ -38,7 +38,7 @@ Eligible Activities.—(1) A corridor planning activity is eligible for financia
 
 (c)
 
-Criteria for Determining Financial Assistance.—Selection by the Secretary of recipients of financial assistance under this section shall be based on such criteria as the Secretary considers appropriate, including—
+Criteria for Determining Financial Assistance.—Selection by the Secretary of recipients of financial assistance under this sectionshall be based on such criteria as the Secretary considers appropriate, including—
 
 &emsp;(1) the relationship of the corridor to the Secretary's national high-speed ground transportation policy;
 

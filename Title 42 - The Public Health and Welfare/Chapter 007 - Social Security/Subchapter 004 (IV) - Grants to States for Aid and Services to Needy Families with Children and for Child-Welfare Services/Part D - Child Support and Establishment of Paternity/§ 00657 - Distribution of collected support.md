@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsections (e) and (f) of this section, an amount collected on behalf of a family as support by a State pursuant to a plan approved under this part shall be distributed as follows:
+Subject to subsections (d) and (e) of this section, an amount collected on behalf of a family as support by a State pursuant to a plan approved under this part shall be distributed as follows:
 
 #### (1) Families receiving assistance
 
@@ -68,7 +68,7 @@ Subject to subsections (e) and (f) of this section, an amount collected on behal
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than any amount described in clause (iv)) to the family to the extent necessary to satisfy any support arrearages with respect to the family that accrued before the family received assistance from the State.
+&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than anyamount described in clause (iv)) to the family to the extent necessary to satisfy any support arrearages with respect to the family that accrued before the family received assistance from the State.
 
 #### (bb) Reimbursement of governments for assistance provided to the family
 
@@ -88,7 +88,7 @@ Subject to subsections (e) and (f) of this section, an amount collected on behal
 
 #### (v) Ordering rules for distributions
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, unless an earlier effective date is required bythis section, effective October 1, 2000, the State shall treat any support arrearages collected, except for amounts collected pursuant to section 664 of this title, as accruing in the following order:
+&emsp;&emsp;&emsp;For purposes of this subparagraph, unless an earlier effective date is required by this section, effective October 1, 2000, the State shall treat any support arrearages collected, except for amounts collected pursuant to section 664 of this title, as accruing in the following order:
 
 &emsp;&emsp;&emsp;&emsp;(I) To the period after the family ceased to receive assistance.
 
@@ -138,7 +138,7 @@ As used in subsection (a) of this section:
 
 #### (2) Federal share
 
-&emsp;The term “Federal share” means that portion of the amount collected resulting from the application of the Federal medical assistance percentage in effect for the fiscal year in which the amount is distributed.
+&emsp;The term “Federal share” means that portion of the amount collected resulting fromthe application of the Federal medical assistance percentage in effect for the fiscal year in which the amount is distributed.
 
 #### (3) Federal medical assistance percentage
 
@@ -152,23 +152,11 @@ As used in subsection (a) of this section:
 
 &emsp;The term “State share” means 100 percent minus the Federal share.
 
-#### (d) Hold-harmless provision
+#### (d) Gap payments not subject to distribution under this section
 
-If—
+At State option, this section shall not apply to any amount collected on behalf of a family as support by the State (and paid to the family in addition to the amount of assistance otherwise payable to the family) pursuant to a plan approved under this part if such amount would have been paid to the family by the State under section 602(a)(28) of this title, as in effect and applied on the day before August 22, 1996.
 
-&emsp;(1) the State share of amounts collected in the fiscal year which could be retained to reimburse the State for amounts paid to families as assistance by the State is less than the State share of such amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on August 21, 1996); and
-
-&emsp;(2)(A) the State has distributed to families that include an adult receiving assistance under the program under part A of this subchapter at least 80 percent of the current support payments collected during the preceding fiscal year on behalf of such families, and the amounts distributed were disregarded in determining the amount or type of assistance provided under the program under part A of this subchapter; or
-
-&emsp;(B) the State has distributed to families that formerly received assistance under the program under part A of this subchapter the State share of the amounts collected pursuant to section 664 of this title that could have been retained as reimbursement for assistance paid to such families,
-
-> then the State share otherwise determined for the fiscal year shall be increased by an amount equal to one-half of the amount (if any) by which the State share for fiscal year 1995 exceeds the State share for the fiscal year (determined without regard to this subsection).
-
-#### (e) Gap payments not subject to distribution under this section
-
-At State option, this section shall not apply to any amount collected on behalf of a family as support by the State (and paid to the family in addition to the amount of assistance otherwise payable to the family) pursuant to a plan approved under this part if such amount would have been paid to the family by the State under section 602(a)(28) of this title, as in effect and applied on the day before August 22, 1996. For purposes of subsection (d) of this section, the State share of such amount paid to the family shall be considered amounts which could be retained by the State if such payments were reported by the State as part of the State share of amounts collected in fiscal year 1995.
-
-#### (f) Amounts collected for child for whom foster care maintenance payments are made
+#### (e) Amounts collected for child for whom foster care maintenance payments are made
 
 Notwithstanding the preceding provisions of this section, amounts collected by a State as child support for months in any period on behalf of a child for whom a public agency is making foster care maintenance payments under part E of this subchapter—
 
@@ -182,35 +170,41 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 (Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858.)
 
-#### Amendment of Section
-
-<i>Pub. L. 106–169, title III, §301(c), Dec. 14, 1999, 113 Stat. 1857, provided that, effective Oct. 1, 2001, this section is amended as follows:</i>
-
-<i>(1) in subsection (a), by substituting “subsections (d) and (e)” for “subsections (e) and (f)”;</i>
-
-<i>(2) by striking out subsection (d);</i>
-
-<i>(3) in subsection (e), by striking out the second sentence; and</i>
-
-<i>(4) by redesignating subsections (e) and (f) as (d) and (e), respectively.</i>
-
 #### References in Text
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(5)(C), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of this title and Tables.
 
-Parts A and E of this subchapter, referred to in subsecs. (b), (c)(1), (d)(2), and (f), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
+Parts A and E of this subchapter, referred to in subsecs. (b), (c)(1), and (e), are classified to sections 601 et seq. and 670 et seq., respectively, of this title.
 
 #### Amendments
 
-1999—Subsec. (a)(2)(B)(i)(I). Pub. L. 106–169, §401(j), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
+1999—Subsec. (a). Pub. L. 106–169, §301(c)(1), substituted “subsections (d) and (e)” for “subsections (e) and (f)” in introductory provisions.
+
+Subsec. (a)(2)(B)(i)(I). Pub. L. 106–169, §401(j), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
 Subsec. (a)(5)(C). Pub. L. 106–169, §401(k), substituted “Opportunity Reconciliation Act” for “Opportunity Act”.
 
 Subsecs. (a)(6), (c)(1)(A). Pub. L. 106–169, §401(k), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
 
-Subsec. (d). Pub. L. 106–169, §301(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the amounts collected which could be retained by the State in the fiscal year (to the extent necessary to reimburse the State for amounts paid to families as assistance by the State) are less than the State share of the amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on the day before August 22, 1996), the State share for the fiscal year shall be an amount equal to the State share in fiscal year 1995.”
+Subsec. (d). Pub. L. 106–169, §301(c)(2), (4), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “If—
+
+&emsp;“(1) the State share of amounts collected in the fiscal year which could be retained to reimburse the State for amounts paid to families as assistance by the State is less than the State share of such amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on August 21, 1996); and
+
+&emsp;“(2)(A) the State has distributed to families that include an adult receiving assistance under the program under part A of this subchapter at least 80 percent of the current support payments collected during the preceding fiscal year on behalf of such families, and the amounts distributed were disregarded in determining the amount or type of assistance provided under the program under part A of this subchapter; or
+
+&emsp;“(B) the State has distributed to families that formerly received assistance under the program under part A of this subchapter the State share of the amounts collected pursuant to section 664 of this title that could have been retained as reimbursement for assistance paid to such families,
+
+> then the State share otherwise determined for the fiscal year shall be increased by an amount equal to one-half of the amount (if any) by which the State share for fiscal year 1995 exceeds the State share for the fiscal year (determined without regard to this subsection).”
+
+Pub. L. 106–169, §301(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the amounts collected which could be retained by the State in the fiscal year (to the extent necessary to reimburse the State for amounts paid to families as assistance by the State) are less than the State share of the amounts collected in fiscal year 1995 (determined in accordance with this section as in effect on the day before August 22, 1996), the State share for the fiscal year shall be an amount equal to the State share in fiscal year 1995.”
 
 Pub. L. 106–169, §401(k), made technical amendment to reference in original act which appears in text as reference to August 22, 1996.
+
+Subsec. (e). Pub. L. 106–169, §301(c)(4), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Pub. L. 106–169, §301(c)(3), struck out at end “For purposes of subsection (d) of this section, the State share of such amount paid to the family shall be considered amounts which could be retained by the State if such payments were reported by the State as part of the State share of amounts collected in fiscal year 1995.”
+
+Subsec. (f). Pub. L. 106–169, §301(c)(4), redesignated subsec. (f) as (e).
 
 1997—Subsec. (a). Pub. L. 105–33, §5547(1), substituted “subsections (e) and (f)” for “subsection (e)” in introductory provisions.
 
@@ -274,7 +268,7 @@ Pub. L. 106–169, title III, §301(b), Dec. 14, 1999, 113 Stat. 1857, provided 
 
 Pub. L. 106–169, title III, §301(c), Dec. 14, 1999, 113 Stat. 1857, provided that the amendment made by section 301(c) is effective Oct. 1, 2001.
 
-Amendment by section 401(j), (k) of Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
+Amendment by section 401(j), (k) of Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity ReconciliationAct of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
 #### Effective Date of 1997 Amendment
 

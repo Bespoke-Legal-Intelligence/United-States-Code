@@ -18,7 +18,7 @@ General Rule.—Not later than April 1 of each year, the Secretary of Transporta
 
 Special Rule for Listing Noncompliant Airports.—The Secretary does not have to conduct an audit or make a final determination before including an airport on the list referred to in subsection (a)(5).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278, §47129; renumbered §47131, Pub. L. 103–305, title I, §113(a)(1), Aug. 23, 1994, 108 Stat. 1577; amendedPub. L. 106–181, title VII, §722, Apr. 5, 2000, 114 Stat. 165.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278, §47129; renumbered §47131, Pub. L. 103–305, title I, §113(a)(1), Aug. 23, 1994, 108 Stat. 1577; amended Pub. L. 106–181, title VII, §722, Apr. 5, 2000, 114 Stat. 165.)
 
 Historical and Revision Notes
 

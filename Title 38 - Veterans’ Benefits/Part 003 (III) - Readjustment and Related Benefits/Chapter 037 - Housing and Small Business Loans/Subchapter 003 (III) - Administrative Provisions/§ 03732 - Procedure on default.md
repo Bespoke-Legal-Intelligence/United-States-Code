@@ -32,7 +32,7 @@
 
 &emsp;(C) The term “net value”, with respect to real property, means the amount equal to (i) the fair market value of the property, minus (ii) the total of the amounts which the Secretary estimates the Secretary would incur (if the Secretary were to acquire and dispose of the property) for property taxes, assessments, liens, property maintenance, property improvement, administration, resale (including losses sustained on the resale of the property), and other costs resulting from the acquisition and disposition of the property, excluding any amount attributed to the cost to the Government of borrowing funds.
 
-&emsp;(D) Except as provided in subparagraph (D) of paragraph (10) of this subsection, the term “total indebtedness”, with respect to a defaulted loan, means the amount equal to the total of (i) the unpaid principal of the loan, (ii) the interest on the loan as of the date applicable under paragraph (10) of this subsection, and (iii) such reasonably necessary and proper charges (as specified in the loan instrument and permitted by regulations prescribed by the Secretary to implement this subsection) associated with liquidation of the loan, including advances for taxes, insurance, and maintenance or repair of the real property securing the loan.
+&emsp;(D) Except as provided in subparagraph (D) of paragraph (10) of this subsection, the term “total indebtedness”, with respect to a defaulted loan, means the amount equal to the total of (i) the unpaid principal of the loan, (ii) the interest on the loan as of the date applicable under paragraph (10) of this subsection, and (iii) such reasonably necessary and proper charges (as specified in the loan instrumentand permitted by regulations prescribed by the Secretary to implement this subsection) associated with liquidation of the loan, including advances for taxes, insurance, and maintenance or repair of the real property securing the loan.
 
 (2)(A) Except as provided in subparagraph (B) of this paragraph, this subsection applies to any case in which the holder of a defaulted loan undertakes to liquidate the loan by means of a liquidation sale.
 
@@ -68,7 +68,7 @@
 
 (9) In no event may the liability of the United States under a guaranteed loan exceed the amount guaranteed with respect to that loan under section 3703(b) of this title. All determinations under this subsection of net value and total indebtedness shall be made by the Secretary.
 
-(10)(A) Except as provided in subparagraphs (B) and (C) of this paragraph, the date referredto in paragraph (1)(D)(ii) of this subsection shall be the date of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Secretary may specify pursuant to regulations prescribed by the Secretary to implement this subsection).
+(10)(A) Except as provided in subparagraphs (B) and (C) of this paragraph, the date referred to in paragraph (1)(D)(ii) of this subsection shall be the date of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Secretary may specify pursuant to regulations prescribed by the Secretary to implement this subsection).
 
 (B)(i) Subject to division (ii) of this subparagraph, in any case in which there is a substantial delay in such sale caused by the holder of the loan exercising forebearance at the request of the Secretary, the date referred to in paragraph (1)(D)(ii) of this subsection shall be such date, on or after the date on which forebearance was requested and prior to the date of such sale, as the Secretary specifies pursuant to regulations which the Secretary shall prescribe to implement this paragraph.
 
@@ -84,11 +84,13 @@
 
 (D) For the purpose of determining the liability of the United States under a loan guaranty under clause (B) of paragraphs (5), (6),<sup>1</sup> (7), and (8) of this subsection, the amount of the total indebtedness with respect to such loan guaranty shall include, in any case in which there was an excessive delay caused by the Department of Veterans Affairs in the liquidation sale of the property securing such loan, any interest which had accrued as of the date of such sale and which would not be included, except for this subparagraph, in the calculation of such total indebtedness as a result of the specification of an earlier date under subparagraph (C)(i) of this paragraph.
 
-(11) This subsection shall apply to loans closed before October 1, 2008.
+(11) This subsection shall apply to loans closed before October 1, 2011.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(c), Nov. 1, 2000, 114 Stat. 1863.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1212, §1816(a)–(c); Pub. L. 89–117, title I, §107(f), Aug. 10, 1965, 79 Stat. 460; Pub. L. 94–324, §7(17), June 30, 1976, 90 Stat. 722; Pub. L. 98–369, div. B, title V, §2512(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§4(a), 5(a), Dec. 21, 1987, 101 Stat. 1316; renumbered §1832 and amended Pub. L. 100–322, title IV, §415(b)(1)(A)–(C), (5), May 20, 1988, 102 Stat. 550, 551; Pub. L. 101–237, title III, §§304(b), 307–308(b)(1), 313(b)(1), (2), Dec. 18, 1989, 103 Stat. 2073–2075, 2077; Pub. L. 102–54, §§1, 3(a), 14(g)(1), June 13, 1991, 105 Stat. 267, 288; renumbered §3732 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–66, title XII, §12006(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §907, Nov. 2, 1994, 108 Stat. 4677; Pub. L. 105–33, title VIII, §8013, Aug. 5, 1997, 111 Stat. 664; Pub. L. 106–419, title IV, §402(c), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 107–103, title IV, §405(d), Dec. 27, 2001, 115 Stat. 994.)
 
 #### Amendments
+
+2001—Subsec. (c)(11). Pub. L. 107–103 substituted “October 1, 2011” for “October 1, 2008”.
 
 2000—Subsec. (c)(11). Pub. L. 106–419 substituted “October 1, 2008” for “October 1, 2002”.
 
@@ -142,7 +144,7 @@ Subsec. (c). Pub. L. 100–322, §415(b)(1)(B), (C), redesignated subsec. (c) of
 
 1987—Subsec. (a)(4). Pub. L. 100–198, §4(a), added par. (4).
 
-Subsec. (c)(1)(D). Pub. L. 100–198, §5(a)(1)–(3), substituted “Except as provided in subparagraph (D) of paragraph (10) of this subsection, the” for “The” at beginning, “applicable under paragraph (10) of this subsection, and” for “of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for such sale to occur as the Administrator may specify pursuant to regulations prescribed by the Administrator to implement this subsection), and” in cl. (ii), and “regulations prescribed by the Administrator to implement this subsection” for “such regulations” in cl. (iii).
+Subsec. (c)(1)(D). Pub. L. 100–198, §5(a)(1)–(3), substituted “Except as provided in subparagraph (D) of paragraph (10) of this subsection, the” for “The” at beginning, “applicable under paragraph (10) of this subsection, and” for “of the liquidation sale of the property securing the loan (or such earlier date following the expiration of a reasonable period of time for suchsale to occur as the Administrator may specify pursuant to regulations prescribed by the Administrator to implement this subsection), and” in cl. (ii), and “regulations prescribed by the Administrator to implement this subsection” for “such regulations” in cl. (iii).
 
 Subsec. (c)(10), (11). Pub. L. 100–198, §5(a)(4), added pars. (10) and (11).
 

@@ -126,7 +126,7 @@ Conditions of Sale.—Aircraft and aircraft parts sold under subsection (a)—
 
 &emsp;“(1) may be used only for the provision of airtanker services for wildfire suppression purposes; and
 
-&emsp;“(2) may not be flown or otherwise removed from the United States unless dispatched by the National Interagency Fire Center in support of an international agreement to assist in wildfire suppression efforts or for other purposes jointly approved by the Secretary of Defense and the Secretary of Agriculture in writing in advance.
+&emsp;“(2) may not be flown or otherwise removed from the United States unless dispatched by the NationalInteragency Fire Center in support of an international agreement to assist in wildfire suppression efforts or for other purposes jointly approved by the Secretary of Defense and the Secretary of Agriculture in writing in advance.
 
 “(c)
 

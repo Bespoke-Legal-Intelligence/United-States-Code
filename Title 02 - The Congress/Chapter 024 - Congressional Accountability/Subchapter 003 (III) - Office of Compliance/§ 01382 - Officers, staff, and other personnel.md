@@ -98,7 +98,7 @@ The Executive Director shall appoint, and fix the compensation of, and may remov
 
 #### (e) Detailed personnel
 
-The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services of personnel of any such department or agency, including the services of members or personnel of the General Accounting Office Personnel Appeals Board.
+The Executive Director may, with the prior consent of the department or agency of the Federal Government concerned, use on a reimbursable or nonreimbursable basis the services ofpersonnel of any such department or agency, including the services of members or personnel of the General Accounting Office Personnel Appeals Board.
 
 #### (f) Consultants
 

@@ -50,7 +50,7 @@
 
 #### (ii) Rebuttal of presumption
 
-&emsp;&emsp;&emsp;The presumption established by clause (i) may be rebutted by the employer onlythrough the presentation of clear and convincing evidence that the employer did not know (and could not reasonably have known) that the individual at the time of hiring or afterward was an alien not authorized to work in the United States.
+&emsp;&emsp;&emsp;The presumption established by clause (i) may be rebutted by the employer only through the presentation of clear and convincing evidence that the employer did not know (and could not reasonably have known) that the individual at the time of hiring or afterward was an alien not authorized to work in the United States.
 
 #### (iii) Exception
 
@@ -166,7 +166,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (A) Monitoring
 
-&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree to which the employment verification system established under subsection (b) of this section provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
+&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree towhich the employment verification system established under subsection (b) of this section provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
 
 #### (B) Improvements to establish secure system
 
@@ -330,7 +330,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (7) Administrative appellate review
 
-&emsp;The decision and order of an administrative law judge shall become the final agency decision and order of the Attorney General unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations, in which case the decision and order of the Attorney General shallbecome the final agency decision and order under this subsection. The Attorney General may not delegate the Attorney General's authority under this paragraph to any entity which has review authority over immigration-related matters.
+&emsp;The decision and order of an administrative law judge shall become the final agency decision and order of the Attorney General unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations, in which case the decision and order of the Attorney General shall become the final agency decision and order under this subsection. The Attorney General may not delegate the Attorney General's authority under this paragraph to any entity which has review authority over immigration-related matters.
 
 #### (8) Judicial review
 
@@ -506,7 +506,7 @@ Authority of President under subsec. (d)(4) of this section to undertake demonst
 
 #### Pilot Programs for Employment Eligibility Confirmation
 
-Subtitle A of title IV of div. C of Pub. L. 104–208 provided that:
+Subtitle A of title IV of div. C of Pub. L. 104–208, as amended by Pub. L. 107–128, §2, Jan. 16, 2002, 115 Stat. 2407, provided that:
 
 #### “SEC. 401. ESTABLISHMENT OF PROGRAMS.
 
@@ -516,7 +516,7 @@ In General.—The Attorney General shall conduct 3 pilot programs of employment 
 
 “(b)
 
-Implementation Deadline; Termination.—The Attorney General shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Attorney General shall terminate a pilot program at the end of the 4-year period beginning on the first day the pilot program is in effect.
+Implementation Deadline; Termination.—The Attorney General shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Attorney General shall terminate a pilot program at the end of the 6-year period beginning on the first day the pilot program is in effect.
 
 “(c)
 
@@ -931,6 +931,8 @@ No national identification card.—Nothing in this subtitle shall be construed t
 &emsp;“(2) include recommendations on whether or not the pilot programs should be continued or modified, and
 
 &emsp;“(3) assess the benefits of the pilot programs to employers and the degree to which they assist in the enforcement of section 274A.”
+
+\[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: “The amendment made by this Act \[amending section 401(b) of Pub. L. 104–208, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 16, 2002\].”\]
 
 #### Report on Additional Authority or Resources Needed for Enforcement of Employer Sanctions Provisions
 

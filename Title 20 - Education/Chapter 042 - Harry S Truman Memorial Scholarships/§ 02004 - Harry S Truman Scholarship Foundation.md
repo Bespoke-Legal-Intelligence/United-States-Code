@@ -12,7 +12,7 @@ There is established, as an independent establishment of the executive branch of
 
 &emsp;(B) two Members of the House of Representatives, one from each political party, to be appointed by the Speaker;
 
-&emsp;(C) eight members, not more than four of whom shall be of the same political party, to be appointed by the President with the advice and consent of the Senate, of whom one shall be a chief executive officer of a State, one a chief executive officer of a city or county, one a member of a Federal court, one a member ofa State court, one a person active in postsecondary education, and three representatives of the general public; and
+&emsp;(C) eight members, not more than four of whom shall be of the same political party, to be appointed by the President with the advice and consent of the Senate, of whom one shall be a chief executive officer of a State, one a chief executive officer of a city or county, one a member of a Federal court, one a member of a State court, one a person active in postsecondary education, and three representatives of the general public; and
 
 &emsp;(D) the Secretary of Education or his designate, who shall serve ex officio as a member of the Board, but shall not be eligible to serve as Chairman.
 

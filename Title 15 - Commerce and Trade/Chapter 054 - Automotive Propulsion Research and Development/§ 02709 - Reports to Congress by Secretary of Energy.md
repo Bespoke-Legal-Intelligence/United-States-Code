@@ -2,7 +2,7 @@
 
 #### (a) Comprehensive program, etc.
 
-As a separate part of the annual report submitted under section 5914(a) of title 42 with respect to the comprehensive plan and program then in effect under section 5905(a) and (b) of title 42, the Secretary of Energy shall submit to Congress an annual report of activities under this chapter. Such report shall include—
+As a separate part of the annual report submitted under section 5914(a) <sup>1</sup> of title 42 with respect to the comprehensive plan and program then in effect under section 5905(a) and (b) of title 42, the Secretary of Energy shall submit to Congress an annual report of activities under this chapter. Such report shall include—
 
 &emsp;(1) a current comprehensive program definition for implementing this chapter;
 
@@ -20,7 +20,13 @@ The Secretary of Energy shall conduct a survey of developers, lending institutio
 
 (Pub. L. 95–238, title III, §310, Feb. 25, 1978, 92 Stat. 83.)
 
+#### References in Text
+
+Section 5914 of title 42, referred to in subsec. (a), was omitted from the Code.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2703 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ A State may receive a development grant under section 6122 of this title for a f
 
 &emsp;(1) the amount of State funds expended per student by the State for school-to-work activities of the type described in subchapter I of this chapter for the preceding fiscal year was not less than 90 percent of the amount so expended for the second preceding fiscal year; or
 
-&emsp;(2) the aggregate amount of State funds expended by the State for such activities for thepreceding fiscal year was not less than 90 percent of the amount so expended for the second preceding fiscal year.
+&emsp;(2) the aggregate amount of State funds expended by the State for such activities for the preceding fiscal year was not less than 90 percent of the amount so expended for the second preceding fiscal year.
 
 #### (b) Waiver
 

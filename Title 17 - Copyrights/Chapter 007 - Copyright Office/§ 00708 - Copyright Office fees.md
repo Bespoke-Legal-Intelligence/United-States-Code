@@ -90,7 +90,7 @@ Subsec. (d). Pub. L. 105–80, §7(b), amended subsec. (d) generally. Prior to a
 
 1990—Subsec. (a). Pub. L. 101–318, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The following fees shall be paid to the Register of Copyrights:
 
-&emsp;“(1) on filing each application for registration of a copyright claim or a supplementary registrationunder section 408, including the issuance of a certificate of registration if registration is made, $10;
+&emsp;“(1) on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, $10;
 
 &emsp;“(2) on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, $6;
 

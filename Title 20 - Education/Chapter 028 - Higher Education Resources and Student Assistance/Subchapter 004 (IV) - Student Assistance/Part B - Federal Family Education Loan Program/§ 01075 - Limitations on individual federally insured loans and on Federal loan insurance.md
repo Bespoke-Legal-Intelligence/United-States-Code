@@ -4,7 +4,7 @@
 
 #### (1) Annual limits
 
-&emsp;(A) The total of loans made to a student in any academic year or its equivalent (as determined by the Secretary) which may be coveredby Federal loan insurance under this part may not exceed—
+&emsp;(A) The total of loans made to a student in any academic year or its equivalent (as determined by the Secretary) which may be covered by Federal loan insurance under this part may not exceed—
 
 &emsp;&emsp;(i) in the case of a student at an eligible institution who has not successfully completed the first year of a program of undergraduate education—
 

@@ -36,7 +36,7 @@ Computation of High-Three Average for Members and Former Members Entitled to Ret
 
 Retired pay under chapter 1223.—The high-three average of a member or former member entitled to retired pay under section 12731 of this title is the amount equal to—
 
-&emsp;&emsp;(A) the total amount of monthly basic pay to which the member or former member was entitled during the member or former member's high-36 months (or to which the member or former member would have been entitled if the member or former member had served on active duty during the entire period of the member or former member's high-36 months), divided by
+&emsp;&emsp;(A) the total amount of monthly basic pay to which the member or former member wasentitled during the member or former member's high-36 months (or to which the member or former member would have been entitled if the member or former member had served on active duty during the entire period of the member or former member's high-36 months), divided by
 
 &emsp;&emsp;(B) 36.
 
@@ -76,7 +76,7 @@ Computation based on pre-high-three rules.—In the case of a member or former m
 
 &emsp;(2)
 
-Affected members.—A member or former member referred to in paragraph (1) is a member or former member who by reason of conduct occurring after the date of the enactment of this subsection—
+Affected members.—A member or former member referred to in paragraph (1) is a member or former member who by reason of conduct occurring after October 30, 2000—
 
 &emsp;&emsp;(A) in the case of a member retired in an enlisted grade or transferred to the Fleet Reserve or Fleet Marine Corps Reserve, was at any time reduced in grade as the result of a court-martial sentence, nonjudicial punishment, or an administrative action, unless the member was subsequently promoted to a higher enlisted grade or appointed to a commissioned or warrant grade; and
 
@@ -86,17 +86,15 @@ Affected members.—A member or former member referred to in paragraph (1) is a 
 
 Special rule for enlisted members.—In the case of a member who retires within three years after having been reduced in grade as described in paragraph (2)(A), who retires in an enlisted grade that is lower than the grade from which reduced, and who would be subject to paragraph (1) but for a subsequent promotion to a higher enlisted grade or a subsequent appointment to a warrant or commissioned grade, the rates of basic pay used in the computation of the member's high-36 average for the period of the member's service in a grade higher than the grade in which retired shall be the rates of pay that would apply if the member had been serving for that period in the grade in which retired.
 
-(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 689; amended Pub. L. 101–189, div. A, title VI, §651(a), (b)(2), Nov. 29, 1989, 103 Stat. 1459, 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(5), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 104–106, div. A, title XV, §1501(c)(15), Feb. 10, 1996, 110 Stat. 499; Pub. L. 106–398, §1 \[\[div. A\], title VI, §651\], Oct. 30, 2000, 114 Stat. 1654, 1654A–163.)
-
-#### References in Text
-
-The date of the enactment of this subsection, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 106–398, which was approved Oct. 30, 2000.
+(Added Pub. L. 99–348, title I, §104(b), July 1, 1986, 100 Stat. 689; amended Pub. L. 101–189, div. A, title VI, §651(a), (b)(2), Nov. 29, 1989, 103 Stat. 1459, 1460; Pub. L. 103–337, div. A, title XVI, §1662(j)(5), Oct. 5, 1994, 108 Stat. 3004; Pub. L. 104–106, div. A, title XV, §1501(c)(15), Feb. 10, 1996, 110 Stat. 499; Pub. L. 106–398, §1 \[\[div. A\], title VI, §651\], Oct. 30, 2000, 114 Stat. 1654, 1654A–163; Pub. L. 107–107, div. A, title X, §1048(c)(8), Dec. 28, 2001, 115 Stat. 1226.)
 
 #### Prior Provisions
 
 A prior section 1407, added Pub. L. 96–342, title VIII, §813(a)(1), Sept. 8, 1980, 94 Stat. 1100; amended Pub. L. 96–513, title I, §113(c), title V, §§501(21), 511(53), Dec. 12, 1980, 94 Stat. 2877, 2908, 2925, related to determination of retired base pay, prior to repeal by Pub. L. 99–348, §104(b).
 
 #### Amendments
+
+2001—Subsec. (f)(2). Pub. L. 107–107 substituted “October 30, 2000—” for “the date of the enactment of this subsection—” in introductory provisions.
 
 2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §651(1)\], substituted “Except as provided in subsection (f), the retired pay base” for “The retired pay base”.
 
@@ -112,7 +110,7 @@ chapter 67” and in text “section 12731” for “section 1331”.
 
 1994—Subsec. (c)(2)(B). Pub. L. 103–337, §1662(j)(5)(A), which directed substitution of “chapter 1223” for “chapter 67”, could not be executed because the words “chapter 67” did not appear subsequent to amendment by Pub. L. 101–189, §651(a)(2), (4). See 1989 Amendment note below.
 
-Subsec. (f)(2). Pub. L. 103–337, §1662(j)(5)(B), which directed amendment of subsec. (f)(2) by substituting“Chapter 1223” for “Chapter 67” in heading and “section 12731” for “section 1331” in text, could not be executed because of previous repeal of subsec. (f) by Pub. L. 101–189, §651(a)(2). See 1989 Amendment note below.
+Subsec. (f)(2). Pub. L. 103–337, §1662(j)(5)(B), which directed amendment of subsec. (f)(2) by substituting “Chapter 1223” for “Chapter 67” in heading and “section 12731” for “section 1331” in text, could not be executed because of previous repeal of subsec. (f) by Pub. L. 101–189, §651(a)(2). See 1989 Amendment note below.
 
 1989—Subsec. (b). Pub. L. 101–189, §651(a)(1), (b)(2), substituted “person” for “member”, “person's” for “member's”, and “subsection (c) or (d)” for “subsection (c)”.
 

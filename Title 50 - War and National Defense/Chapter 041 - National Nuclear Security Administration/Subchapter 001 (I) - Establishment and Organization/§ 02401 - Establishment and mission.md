@@ -48,6 +48,40 @@ Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting sections 
 
 Pub. L. 106–65, div. C, title XXXII, §3201, Oct. 5, 1999, 113 Stat. 953, provided that: “This title \[enacting this chapter and sections 7144 to 7144c of Title 42, The Public Health and Welfare, amending sections 5314, 5315, 5595, and 8905a of Title 5, Government Organization and Employees, and sections 7132, 7133, and 7158 of Title 42, repealing sections 2122a, 7143, and 7271b of Title 42, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 435 of this title\] may be cited as the ‘National Nuclear Security Administration Act’.”
 
+#### Preparation of Infrastructure Plan for the Nuclear Weapons Complex
+
+Pub. L. 107–107, div. B, title XXX, §3008, Dec. 28, 2001, 115 Stat. 1352, provided that:
+
+“(a)
+
+Infrastructure Plan for Nuclear Weapons Complex.—
+
+&emsp;“(1)
+
+Preparation and submission.—Not later than the date on which the budget for the Department of Energy for fiscal year 2004 is submitted to Congress, the Secretary of Energy shall submit to Congress an infrastructure plan for the nuclear weapons complex adequate to support the nuclear weapons stockpile, the naval reactors program, and nonproliferation and national security activities.
+
+&emsp;“(2)
+
+Special considerations.—In preparing the infrastructure plan, the Secretary shall take into consideration the following:
+
+&emsp;&emsp;“(A) The Department of Defense Nuclear Posture Review required pursuant to section 1041 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–262 \[10 U.S.C. 118 note\]).
+
+&emsp;&emsp;“(B) Any efficiencies and security benefits of consolidation of facilities of the nuclear weapons complex.
+
+&emsp;&emsp;“(C) The necessity to have a residual production capability.
+
+“(b)
+
+Recommendations Regarding Realignments and Closures.—On the basis of the infrastructure plan prepared under subsection (a), the Secretary shall make such recommendations regarding the need to close or realign facilities of the nuclear weapons complex as the Secretary considers appropriate, including the Secretary's recommendations on whether to establish a process by which a round of closures and realignments would be carried out and any additional legislative authority necessary to implement the recommendations. The Secretary shall submit the recommendations as part of the infrastructure plan under subsection (a).
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The terms ‘Secretary’ and ‘Secretary of Energy’ mean the Secretary of Energy, acting after consideration of the recommendations of the Administrator for Nuclear Security.
+
+&emsp;“(2) The term ‘nuclear weapons complex’ means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act (50 U.S.C. 2406)).”
+
 #### Study and Report Related to Improving Mission Effectiveness, Partnerships, and Technology Transfer at National Security Laboratories and Nuclear Weapons Production Facilities
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3163\], Oct. 30, 2000, 114 Stat. 1654, 1654A–473, provided that:

@@ -12,7 +12,7 @@ A prior section 2101 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Effective Date
 
-Section 323 of title III of Pub. L. 99–660, as amended by Pub. L. 100–203, title IV, §4302(a), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 102–168, title II, §201(a), Nov. 26, 1991, 105 Stat. 1102, provided that: “Subtitle 1 of title XXI of the Public Health Service Act \[part 1 of this subchapter (42 U.S.C. 300aa–1 to 300aa–6)\] shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\] and parts A and B of subtitle 2 of such title \[subparts A and B of part 2 of this subchapter (42 U.S.C. 300aa–10 to 300aa–23)\] shall take effect on October 1, 1988 and parts C and D of such title \[subparts C and D of part 2 of this subchapter (42 U.S.C. 300aa–25 to 300aa–33)\] and this title \[probably means provisions of title III of Pub. L. 99–660 other than those that enacted this subchapter and redesignated former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title; these other provisions amended sections 218, 242c, 262, 286, and 289f of this title and enacted provisions set out as notes under sections 201, 300aa–1, and 300aa–4 of this title\] shall take effect on the date of the enactment of the Vaccine Compensation Amendments of 1987 \[Dec. 22, 1987\].”
+Section 323 of title III of Pub. L. 99–660, as amended by Pub. L. 100–203, title IV, §4302(a), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 102–168, title II, §201(a), Nov. 26, 1991, 105 Stat. 1102, provided that: “Subtitle 1 of title XXI of the Public Health Service Act \[part 1 of this subchapter (42 U.S.C. 300aa–1 to 300aa–6)\] shall take effect on the date of the enactment of this Act \[Nov. 14, 1986\] and parts A and B of subtitle 2 of such title \[subparts A and B of part 2 of this subchapter (42 U.S.C. 300aa–10 to 300aa–23)\] shall take effect on October 1, 1988 and parts C and D of such title \[subparts C and D of part 2 of this subchapter (42 U.S.C. 300aa–25 to 300aa–33)\] and this title \[probably means provisions of title III of Pub. L. 99–660 other than those that enacted this subchapter and redesignated former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title; these other provisions amended sections 218, 242c, 262, 286, and 289f of this title and enacted provisions set out as notes under sections 201, 300aa–1, and 300aa–4 of this title\] shall take effect on the date of theenactment of the Vaccine Compensation Amendments of 1987 \[Dec. 22, 1987\].”
 
 #### Severability
 
@@ -20,7 +20,7 @@ Section 322 of title III of Pub. L. 99–660, as amended by Pub. L. 101–239, t
 
 “(a)
 
-In General.—Except as provided in subsection (b), if any provision \[of\] part A or B of subtitle 2 of titleXXI of the Public Health Service Act \[subparts A and B of part 2 of this subchapter\], as added by section 311(a), or the application of such a provision to any person or circumstance is held invalid by reason of a violation of the Constitution, both such parts shall be considered invalid.
+In General.—Except as provided in subsection (b), if any provision \[of\] part A or B of subtitle 2 of title XXI of the Public Health Service Act \[subparts A and B of part 2 of this subchapter\], as added by section 311(a), or the application of such a provision to any person or circumstance is held invalid by reason of a violation of the Constitution, both such parts shall be considered invalid.
 
 “(b)
 
@@ -96,7 +96,7 @@ Section 314 of title III of Pub. L. 99–660 directed Secretary of Health and Hu
 
 Section 316 of title III of Pub. L. 99–660 provided that: “On June 30, 1987, and on June 30 of each second year thereafter, the Secretary of Health and Human Services shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate—
 
-&emsp;“(1) an assessment of the impact of the amendments made by this title \[enacting this subchapter,amending sections 218, 242c, 262, 286, and 289f of this title, redesignating former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title, and enacting provisions set out as notes under this section and sections 201 and 300aa–1 of this title\] on the supply of vaccines listed in the Vaccine Injury Table under section 2114 of the Public Health Service Act \[section 300aa–14 of this title\], and
+&emsp;“(1) an assessment of the impact of the amendments made by this title \[enacting this subchapter, amending sections 218, 242c, 262, 286, and 289f of this title, redesignating former sections 300aa to 300aa–15 of this title as sections 300cc to 300cc–15 of this title, and enacting provisions set out as notes under this section and sections 201 and 300aa–1 of this title\] on the supply of vaccines listed in the Vaccine Injury Table under section 2114 of the Public Health Service Act \[section 300aa–14 of this title\], and
 
 &emsp;“(2) an assessment of the ability of the administrators of vaccines (including public clinics and private administrators) to provide such vaccines to children.”
 

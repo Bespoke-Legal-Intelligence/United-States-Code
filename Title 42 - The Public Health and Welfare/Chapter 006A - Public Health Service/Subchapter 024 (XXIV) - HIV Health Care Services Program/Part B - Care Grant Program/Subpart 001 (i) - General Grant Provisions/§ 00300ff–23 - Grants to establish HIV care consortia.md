@@ -18,9 +18,9 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 #### (1) Requirement
 
-&emsp;To receive assistance from a State under subsection (a) of this section, an applicant consortium shall provide the State with assurances that—
+&emsp;To receive assistance from a State under subsection (a) of this section, an applicantconsortium shall provide the State with assurances that—
 
-&emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations andsubpopulations of individuals and families with HIV disease have been identified by the consortium, particularly those experiencing disparities in access and services and those who reside in historically underserved communities;
+&emsp;&emsp;(A) within any locality in which such consortium is to operate, the populations and subpopulations of individuals and families with HIV disease have been identified by the consortium, particularly those experiencing disparities in access and services and those who reside in historically underserved communities;
 
 &emsp;&emsp;(B) the service plan established under subsection (c)(2) of this section by such consortium is consistent with the comprehensive plan under section 300ff–27(b)(4) of this title and addresses the special care and service needs of the populations and subpopulations identified under subparagraph (A); and
 
@@ -86,7 +86,7 @@ A State may use amounts provided under a grant awarded under this part to provid
 
 #### (d) “Family centered care” defined
 
-As used in this part, the term “family centered care” means the system of services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV disease.
+As used in this part, the term “family centered care” means the system of services described in this section that is targeted specifically to the special needs of infants, children,women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV disease.
 
 #### (e) Priority
 

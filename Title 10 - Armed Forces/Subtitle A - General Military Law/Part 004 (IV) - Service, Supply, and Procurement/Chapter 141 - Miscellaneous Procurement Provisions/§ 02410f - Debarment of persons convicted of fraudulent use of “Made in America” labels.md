@@ -1,12 +1,14 @@
 ### §2410f. Debarment of persons convicted of fraudulent use of “Made in America” labels
 
-(a) If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States that is not made in America, the Secretary shall determine, not later than 90 days after determining that the person has been so convicted, whether the person should be debarred from contracting with the Department of Defense.
+(a) If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription, or another inscription with the same meaning, to any product sold in or shipped to the United States that is not made in America, the Secretary shall determine, not later than 90 days after determining that the person has been so convicted, whether the person should be debarred from contracting with the Department of Defense.
 
 (b) In this section, the term “debar” has the meaning given that term by section 2393(c) of this title.
 
-(Added Pub. L. 102–484, div. A, title VIII, §834(a)(1), Oct. 23, 1992, 106 Stat. 2461; amended Pub. L. 104–106, div. A, title X, §1062(f), title XV, §1503(a)(22), Feb. 10, 1996, 110 Stat. 444, 512.)
+(Added Pub. L. 102–484, div. A, title VIII, §834(a)(1), Oct. 23, 1992, 106 Stat. 2461; amended Pub. L. 104–106, div. A, title X, §1062(f), title XV, §1503(a)(22), Feb. 10, 1996, 110 Stat. 444, 512; Pub. L. 107–107, div. A, title X, §1048(a)(20), Dec. 28, 2001, 115 Stat. 1223.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107 inserted “, or another inscription with the same meaning,” after “inscription”.
 
 1996—Subsec. (a). Pub. L. 104–106, §1062(f), struck out at end “If the Secretary determines that the person should not be debarred, the Secretary shall submit to Congress a report on such determination not later than 30 days after the determination is made.”
 

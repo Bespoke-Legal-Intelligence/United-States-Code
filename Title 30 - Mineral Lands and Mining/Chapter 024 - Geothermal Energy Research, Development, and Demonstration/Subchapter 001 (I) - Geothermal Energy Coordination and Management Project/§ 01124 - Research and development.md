@@ -16,7 +16,7 @@
 
 &emsp;(7) the development and evaluation of waste disposal control technologies and the evaluation of surface and subsurface environmental effects of geothermal development;
 
-&emsp;(8) the improvement of the technical capability to predict environmental impacts resulting from the development of geothermal resources, the preparation of environmental impact statements, and the assuring of compliance with applicable standards and criteria;
+&emsp;(8) the improvement of the technical capability to predict environmental impacts resulting from the development of geothermalresources, the preparation of environmental impact statements, and the assuring of compliance with applicable standards and criteria;
 
 &emsp;(9) the identification of social, legal, and economic problems associated with geothermal development (both locally and regionally) for the purpose of developing policy and providing a framework of policy alternatives for the commercial utilization of geothermal resources;
 

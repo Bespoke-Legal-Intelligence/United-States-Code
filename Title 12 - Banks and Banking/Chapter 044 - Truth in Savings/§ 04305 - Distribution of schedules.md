@@ -18,7 +18,7 @@ If—
 
 &emsp;(2) the schedule required under section 4303(a) of this title has not been furnished previously to such depositor,
 
-> the depository institution shall mail the schedule to the depositor at the address shown on therecords of the depository institution for such account no later than 10 days after the date of the initial deposit.
+> the depository institution shall mail the schedule to the depositor at the address shown on the records of the depository institution for such account no later than 10 days after the date of the initial deposit.
 
 #### (c) Distribution of notice of certain changes
 

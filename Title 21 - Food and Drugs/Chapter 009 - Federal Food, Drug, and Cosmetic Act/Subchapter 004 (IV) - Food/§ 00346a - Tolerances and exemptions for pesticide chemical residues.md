@@ -16,13 +16,13 @@
 
 &emsp;Notwithstanding paragraph (1)—
 
-&emsp;&emsp;(A) if a tolerance is in effect under this section for a pesticide chemical residue in or on a raw agricultural commodity, a pesticide chemical residue that is present in or on a processed food because the food is made from that raw agricultural commodity shall not be considered unsafe within the meaning of section 342(a)(2)(B) of this title despite the lack of a tolerance for the pesticide chemical residue in or on the processed food if the pesticide chemical has been used in or on the raw agricultural commodity in conformity with a tolerance under this section, such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice, and the concentration of the pesticide chemical residue in the processed food is not greater than the tolerance prescribed for the pesticide chemical residue in the raw agricultural commodity; or
+&emsp;&emsp;(A) if a tolerance is in effect under this section for a pesticide chemical residue in or on a raw agricultural commodity, a pesticide chemical residue that is present in or on a processed food because the food is made from that raw agricultural commodity shall not be considered unsafe within the meaning of section 342(a)(2)(B) of this title despite the lack of a tolerance for the pesticide chemical residue in or on the processed food if the pesticide chemical has been used in or on the raw agricultural commodity in conformity with a tolerance under this section, such residue in or on the raw agricultural commodity has been removed to the extent possible in good manufacturing practice, and the concentration of the pesticide chemical residue in the processed food is not greater thanthe tolerance prescribed for the pesticide chemical residue in the raw agricultural commodity; or
 
 &emsp;&emsp;(B) if an exemption for the requirement for a tolerance is in effect under this section for a pesticide chemical residue in or on a raw agricultural commodity, a pesticide chemical residue that is present in or on a processed food because the food is made from that raw agricultural commodity shall not be considered unsafe within the meaning of section 342(a)(2)(B) of this title.
 
 #### (3) Residues of degradation products
 
-&emsp;If a pesticide chemical residue is present in or on a food because it is a metabolite or other degradation product of a precursor substancethat itself is a pesticide chemical or pesticide chemical residue, such a residue shall not be considered to be unsafe within the meaning of section 342(a)(2)(B) of this title despite the lack of a tolerance or exemption from the need for a tolerance for such residue in or on such food if—
+&emsp;If a pesticide chemical residue is present in or on a food because it is a metabolite or other degradation product of a precursor substance that itself is a pesticide chemical or pesticide chemical residue, such a residue shall not be considered to be unsafe within the meaning of section 342(a)(2)(B) of this title despite the lack of a tolerance or exemption from the need for a tolerance for such residue in or on such food if—
 
 &emsp;&emsp;(A) the Administrator has not determined that the degradation product is likely to pose any potential health risk from dietary exposure that is of a different type than, or of a greater significance than, any risk posed by dietary exposure to the precursor substance;
 
@@ -88,7 +88,7 @@
 
 #### (iii) Conditions regarding use
 
-&emsp;&emsp;&emsp;For purposes of clause (ii), the conditions described in this clause with respect to a tolerance for an eligible pesticide chemical residue are the following:
+&emsp;&emsp;&emsp;For purposes of clause (ii), the conditions described in this clause with respectto a tolerance for an eligible pesticide chemical residue are the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Use of the pesticide chemical that produces the residue protects consumers from adverse effects on health that would pose a greater risk than the dietary risk from the residue.
 
@@ -144,13 +144,13 @@
 
 &emsp;&emsp;&emsp;(v) available information concerning the cumulative effects of such residues and other substances that have a common mechanism of toxicity;
 
-&emsp;&emsp;&emsp;(vi) available information concerning the aggregate exposure levels of consumers (and major identifiable subgroups of consumers) to the pesticide chemical residue and to other related substances, including dietary exposure under the tolerance and all other tolerances in effect for the pesticide chemical residue, and exposure from other non-occupational sources;
+&emsp;&emsp;&emsp;(vi) available information concerning the aggregate exposure levels of consumers\(and major identifiable subgroups of consumers) to the pesticide chemical residue and to other related substances, including dietary exposure under the tolerance and all other tolerances in effect for the pesticide chemical residue, and exposure from other non-occupational sources;
 
 &emsp;&emsp;&emsp;(vii) available information concerning the variability of the sensitivities of major identifiable subgroups of consumers;
 
 &emsp;&emsp;&emsp;(viii) such information as the Administrator may require on whether the pesticide chemical may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen or other endocrine effects; and
 
-&emsp;&emsp;&emsp;(ix) safety factors which in the opinion of experts qualified by scientific training and experience to evaluate the safety offood additives are generally recognized as appropriate for the use of animal experimentation data.
+&emsp;&emsp;&emsp;(ix) safety factors which in the opinion of experts qualified by scientific training and experience to evaluate the safety of food additives are generally recognized as appropriate for the use of animal experimentation data.
 
 #### (E) Data and information regarding anticipated and actual residue levels
 
@@ -216,7 +216,7 @@
 
 #### (3) Limitation
 
-&emsp;An exemption from the requirement for a tolerance for a pesticide chemical residue inor on food shall not be established or modified by the Administrator unless the Administrator determines, after consultation with the Secretary—
+&emsp;An exemption from the requirement for a tolerance for a pesticide chemical residue in or on food shall not be established or modified by the Administrator unless the Administrator determines, after consultation with the Secretary—
 
 &emsp;&emsp;(A) that there is a practical method for detecting and measuring the levels of such pesticide chemical residue in or on food; or
 
@@ -274,7 +274,7 @@
 
 #### (3) Notice
 
-&emsp;A notice of the filing of a petition that the Administrator determines has met the requirements of paragraph (2) shall be published by the Administrator within 30 days after such determination. The notice shall announce the availability of a description of the analytical methods available to the Administrator for the detection and measurement of the pesticide chemical residue with respect to which the petition is filed or shall set forth the petitioner's statement of why such a method is not needed. The notice shall include the summary required by paragraph (2)(A)(i)(I).
+&emsp;A notice of the filing of a petition that the Administrator determines has met the requirements of paragraph (2) shall be published by the Administrator within 30 days after such determination. The notice shall announce the availability of a description of the analytical methods available to the Administrator for the detection and measurement of the pesticide chemical residue with respect to whichthe petition is filed or shall set forth the petitioner's statement of why such a method is not needed. The notice shall include the summary required by paragraph (2)(A)(i)(I).
 
 #### (4) Actions by the Administrator
 
@@ -344,7 +344,7 @@
 
 #### (2) Noncompliance
 
-&emsp;If a submission required by a notice issued in accordance with paragraph (1)(A), a rule issued under paragraph (1)(B), or an order issued under paragraph (1)(C) is not made by the time specified in such notice, rule, or order, the Administrator may by order published in the Federal Register modify or revoke the tolerance or exemption in question. In any review of such an order under subsection (g)(2) of this section, the only material issue shall bewhether a submission required under paragraph (1) was not made by the time specified.
+&emsp;If a submission required by a notice issued in accordance with paragraph (1)(A), a rule issued under paragraph (1)(B), or an order issued under paragraph (1)(C) is not made by the time specified in such notice, rule, or order, the Administrator may by order published in the Federal Register modify or revoke the tolerance or exemption in question. In any review of such an order under subsection (g)(2) of this section, the only material issue shall be whether a submission required under paragraph (1) was not made by the time specified.
 
 #### (g) Effective date, objections, hearings, and administrative review
 
@@ -378,7 +378,7 @@
 
 #### (3) Additional evidence
 
-&emsp;If a party applies to the court for leave to adduce additional evidence and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce the evidence in the proceeding before the Administrator, the court may order that the additional evidence (and evidence in rebuttal thereof) shall be taken before the Administrator in the manner and upon the terms and conditions the court deems proper. The Administrator may modify prior findings as to the facts by reason of the additional evidence so taken and may modify the order or regulation accordingly. The Administrator shall file with the court any such modified finding, order, or regulation.
+&emsp;If a party applies to the court for leave to adduce additional evidence and shows to the satisfaction of the court that the additional evidence is material and that there were reasonable grounds for the failure to adduce the evidence in the proceeding before the Administrator, the court may order that the additional evidence (and evidence in rebuttal thereof) shall be taken before the Administrator in the manner and upon the terms andconditions the court deems proper. The Administrator may modify prior findings as to the facts by reason of the additional evidence so taken and may modify the order or regulation accordingly. The Administrator shall file with the court any such modified finding, order, or regulation.
 
 #### (4) Final judgment; Supreme Court review
 
@@ -448,7 +448,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (1) Coordination with FIFRA
 
-&emsp;To the extent practicable and consistent with the review deadlines in subsection (q) ofthis section, in issuing a final rule under this subsection that suspends or revokes a tolerance or exemption for a pesticide chemical residue in or on food, the Administrator shall coordinate such action with any related necessary action under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
+&emsp;To the extent practicable and consistent with the review deadlines in subsection (q) of this section, in issuing a final rule under this subsection that suspends or revokes a tolerance or exemption for a pesticide chemical residue in or on food, the Administrator shall coordinate such action with any related necessary action under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
 
 #### (2) Revocation of tolerance or exemption following cancellation of associated registrations
 
@@ -480,7 +480,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 &emsp;&emsp;(B) the residue does not exceed a level that was authorized at the time of that application or use to be present on the food under a tolerance, exemption, food additive regulation, or other sanction then in effect under this chapter;
 
-> &emsp;unless, in the case of any tolerance or exemption revoked, suspended, or modified under this subsection or subsection (d) or (e) of this section, the Administrator has issued a determination that consumption of the legally treated food during the period of its likely availability in commerce will pose an unreasonable dietary risk.
+> &emsp;unless, in the case of any tolerance or exemption revoked, suspended, or modified underthis subsection or subsection (d) or (e) of this section, the Administrator has issued a determination that consumption of the legally treated food during the period of its likely availability in commerce will pose an unreasonable dietary risk.
 
 #### (6) Tolerance for use of pesticides under an emergency exemption
 
@@ -592,7 +592,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (1) Development
 
-&emsp;Not later than 2 years after August 3, 1996, the Administrator shall in consultation with the Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, or such other endocrine effect as the Administrator may designate.
+&emsp;Not later than 2 years after August 3, 1996, the Administrator shall in consultation with the Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, orsuch other endocrine effect as the Administrator may designate.
 
 #### (2) Implementation
 
@@ -656,7 +656,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (1) In general
 
-&emsp;The Administrator shall review tolerances and exemptions for pesticide chemical residues in effect on the day before August 3, 1996, as expeditiously as practicable, assuring that—
+&emsp;The Administrator shall review tolerances and exemptions for pesticide chemical residues in effect on the day before August 3, 1996,as expeditiously as practicable, assuring that—
 
 &emsp;&emsp;(A) 33 percent of such tolerances and exemptions are reviewed within 3 years of August 3, 1996;
 
@@ -664,7 +664,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 &emsp;&emsp;(C) 100 percent of such tolerances and exemptions are reviewed within 10 years of August 3, 1996.
 
-> &emsp;In conducting a review of a tolerance or exemption, the Administrator shall determine whether the tolerance or exemption meets the requirements of subsections <sup>3</sup> (b)(2) or (c)(2) of this section and shall, by the deadline for the review of the tolerance or exemption, issue a regulation under subsection (d)(4) or (e)(1) ofthis section to modify or revoke the tolerance or exemption if the tolerance or exemption does not meet such requirements.
+> &emsp;In conducting a review of a tolerance or exemption, the Administrator shall determine whether the tolerance or exemption meets the requirements of subsections <sup>3</sup> (b)(2) or (c)(2) of this section and shall, by the deadline for the review of the tolerance or exemption, issue a regulation under subsection (d)(4) or (e)(1) of this section to modify or revoke the tolerance or exemption if the tolerance or exemption does not meet such requirements.
 
 #### (2) Priorities
 

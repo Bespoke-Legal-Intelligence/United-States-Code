@@ -62,7 +62,7 @@ There is hereby established the Foreign Claims Settlement Commission of the Unit
 
 #### Sec. 3. Certain Functions of Chairman
 
-There are hereby vested in the Chairman all functions of the Commission with respect to the internalmanagement of the affairs of the Commission, including but not limited to functions with respect to: (a) the appointment of personnel employed under the Commission, (b) the direction of employees of the Commission and the supervision of their official activities, (c) the distribution of business among employees and organizational units under the Commission, (d) the preparation of budget estimates, and (e) the use and expenditure of funds of the Commission available for expenses of administration.
+There are hereby vested in the Chairman all functions of the Commission with respect to the internal management of the affairs of the Commission, including but not limited to functions with respect to: (a) the appointment of personnel employed under the Commission, (b) the direction of employees of the Commission and the supervision of their official activities, (c) the distribution of business among employees and organizational units under the Commission, (d) the preparation of budget estimates, and (e) the use and expenditure of funds of the Commission available for expenses of administration.
 
 #### Sec. 4. Abolitions
 
@@ -78,7 +78,7 @@ The Commission is hereby authorized to delegate any of its functions to one or m
 
 (a) Any person who is a member or acting member of the War Claims Commission or of the International Claims Commission immediately prior to the taking effect of the provisions of this reorganization plan may be designated by the President as an acting member of the Foreign Claims Settlement Commission of the United States in respect of an office of member the initial appointment to which has not then been made under section 1 of this reorganization plan. Each such acting member of the said Foreign Claims Settlement Commission shall perform the duties and receive the compensation of member. Unless sooner terminated, the tenure of any acting member designated hereunder shall terminate when the office of member concerned is filled in pursuance of section 1 hereof, or 120 days after the effective date of this reorganization plan, whichever is earlier.
 
-(b) The Chairman shall make such provisions as may be necessary with respect to winding up any affairs of the agencies abolished by the provisions of this reorganization plan not otherwise provided for herein.
+(b) The Chairman shall make such provisions as may be necessary with respect to winding up any affairs ofthe agencies abolished by the provisions of this reorganization plan not otherwise provided for herein.
 
 (c) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, used, available, or to be made available, in connection with the functions transferred by section 2 of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Commission at such time or times as the said Director shall direct.
 

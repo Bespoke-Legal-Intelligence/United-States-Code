@@ -10,7 +10,7 @@
 
 (2) The inventory made by the Secretary of the Smithsonian Institution under paragraph (1) shall be completed not later than June 1, 1998.
 
-(3) For purposes of this subsection, the term “inventory” means a simple, itemized list that, to the extent practicable, identifies, based upon available information held by the Smithsonian Institution, the geographic and cultural affiliation of the remains and objects referred to in paragraph (1).
+(3) For purposes of this subsection, the term “inventory” means a simple, itemized list that,to the extent practicable, identifies, based upon available information held by the Smithsonian Institution, the geographic and cultural affiliation of the remains and objects referred to in paragraph (1).
 
 #### (b) Notice in case of identification of tribal origin
 
@@ -30,7 +30,7 @@ Nothing in this section shall be interpreted as—
 
 &emsp;(1) limiting the authority of the Smithsonian Institution to return or repatriate Indian human remains or Indian funerary objects to Indian tribes or individuals; or
 
-&emsp;(2) delaying actions on pending repatriation requests, denying or otherwise affecting accessto the courts, or limiting any procedural or substantive rights which may otherwise be secured to Indian tribes or individuals.
+&emsp;(2) delaying actions on pending repatriation requests, denying or otherwise affecting access to the courts, or limiting any procedural or substantive rights which may otherwise be secured to Indian tribes or individuals.
 
 #### (f) Authorization of appropriations
 

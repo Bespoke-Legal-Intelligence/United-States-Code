@@ -40,7 +40,7 @@ In determining whether and to what extent agricultural commodities shall be made
 
 #### Prior Provisions
 
-A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, which amended section 1431 of this title, was renumbered section 309 by Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548.
+A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, which amended section 1431 of thistitle, was renumbered section 309 by Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548.
 
 #### Amendments
 

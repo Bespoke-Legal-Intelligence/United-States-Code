@@ -1,8 +1,8 @@
 ### §44303. Coverage
 
-The Secretary of Transportation may provide insurance and reinsurance authorized under section 44302 of this title for the following:
+The Secretary of Transportation may provide insurance and reinsurance, or reimburse insurance costs, as authorized under section 44302 of this title for the following:
 
-&emsp;(1) an American aircraft or foreign-flag aircraft engaged in aircraft operations the President decides are necessary to carry out the foreign policy of the United States Government.
+&emsp;(1) an American aircraft or foreign-flag aircraft engaged in aircraft operations the President decides are necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
 
 &emsp;(2) property transported or to be transported on aircraft referred to in clause (1) of this section, including—
 
@@ -30,7 +30,7 @@ The Secretary of Transportation may provide insurance and reinsurance authorized
 
 &emsp;(5) statutory or contractual obligations or other liabilities, customarily covered by insurance, of an aircraft referred to in clause (1) of this section or of the owner or operator of that aircraft.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1169; Pub. L. 107–42, title II, §201(b)(1), Sept. 22, 2001, 115 Stat. 235.)
 
 Historical and Revision Notes
 
@@ -49,4 +49,14 @@ Historical and Revision Notes
 Aug. 23, 1958, Pub. L. 85–726, §1303, 72 Stat. 801; restated Nov. 9, 1977, Pub. L. 95–163, §3, 91 Stat. 1279.
 
 In this section, before clause (1), the words “persons, property, or interest” are omitted as unnecessary. In clause (2), the word “property” is substituted for “Cargoes” and “air cargoes” for consistency in the revised title. In clause (2)(B) and (C), the words “its territories, or possessions” are omitted as unnecessary because of the definition of “United States” in section 40102(a) of the revised title. In clause (2)(C)(ii), the word “contract” is substituted for “contracts of sale or purchase”, and the words “putting . . . on” are substituted for “is assumed by or falls upon”, to eliminate unnecessary words. In clause (2)(D), the word “place” is substituted for “point” for consistency in the revised title. In subclause (i), the words “a State or the District of Columbia” are substituted for “the United States” for clarity and consistency because the definition of “United States” in section 40102(a) of the revised title is too broad for the context of the clause. The definition in section 40102(a) includes territories and possession and would therefore overlap with subclauses (ii) and (iii). In subclause (iii), the words “2 places in the same territory or possession of the United States” are substituted for “any point in any such territory or possession and any other point in the same territory or possession” for clarity. In clauses (3) and (4), the word “individuals” is substituted for “persons” as being more appropriate. The words “captains” and “pilots” are omitted as being included in “officers and members of the crew”.
+
+#### Amendments
+
+2001—Pub. L. 107–42, §201(b)(1)(A), inserted “, or reimburse insurance costs, as” after “insurance and reinsurance” in introductory provisions.
+
+Par. (1). Pub. L. 107–42, §201(b)(1)(B), inserted “in the interest of air commerce or national security or” before “to carry out the foreign policy”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 44302 of this title.
 

@@ -458,7 +458,7 @@ Act July 8, 1947, ch. 210, title II, §201, 61 Stat. 269, provided: “That as o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 290bb–1 of this title; title 20 section 7131.
+This section is referred to in section 290bb–1 of this title; title 20 section 7134.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Administrator”.</i>
 

@@ -1,6 +1,6 @@
 ### §277d–19. Compensation of owners and tenants to prevent economic injury; regulations
 
-The United States Commissioner, under regulations approved by the Secretary of State, andupon application of the owners and tenants of lands to be acquired by the United States to fulfill and accomplish the purposes of said convention, and to the extent administratively determined by the Commissioner to be fair and reasonable, is authorized to—
+The United States Commissioner, under regulations approved by the Secretary of State, and upon application of the owners and tenants of lands to be acquired by the United States to fulfill and accomplish the purposes of said convention, and to the extent administratively determined by the Commissioner to be fair and reasonable, is authorized to—
 
 &emsp;a. Reimburse the owners and tenants for expenses and other losses and damages incurred by them in the process and as a direct result of such moving of themselves, their families, and their possessions as is occasioned by said acquisition: <i>Provided</i>, That the total of such reimbursement to the owners and tenants of any parcel of land shall in no event exceed 25 per centum of its fair value, as determined by the Commissioner. No payment under this subsection shall be made unless application therefor is supported by an itemized and certified statement of the expenses, losses, and damages incurred.
 

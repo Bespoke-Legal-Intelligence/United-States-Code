@@ -1,6 +1,6 @@
 ### §8111. Sharing of Department and Department of Defense health-care resources
 
-(a) The Secretary and the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy may enter into agreements and contracts for the mutual use or exchange of use of hospital and domiciliary facilities, and such supplies, equipment, material, and other resources as may be needed to operate such facilities properly, except that the Secretary may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Department hospital beds and nursing home beds to a level below the minimum number of such beds required by section 8110(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained or in any way subordinate or transfer the operation of the Department to any other agency of the Government.
+(a) The Secretary and the Secretary of the Army, the Secretary of the Air Force, and theSecretary of the Navy may enter into agreements and contracts for the mutual use or exchange of use of hospital and domiciliary facilities, and such supplies, equipment, material, and other resources as may be needed to operate such facilities properly, except that the Secretary may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Department hospital beds and nursing home beds to a level below the minimum number of such beds required by section 8110(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained or in any way subordinate or transfer the operation of the Department to any other agency of the Government.
 
 (b)(1) In order to promote the sharing of health-care resources between the Department and the Department of Defense (hereinafter in this section referred to as the “agencies”), there is established an interagency committee to be known as the Department/Department of Defense Health-Care Resources Sharing Committee (hereinafter in this subsection referred to as the “Committee”).
 
@@ -36,9 +36,9 @@
 
 (3) Each such agreement shall provide, and shall specify procedures designed to ensure, that the availability of direct health care to individuals who are not primary beneficiaries of the providing agency (A) is on a referral basis from the facility of the other agency, and (B) does not (as determined by the head of the facility of the providing agency) adversely affect the range of services, the quality of care, or the established priorities for care provided to the primary beneficiaries of the providing agency.
 
-(4) Each such agreement shall provide that a providing agency shall be reimbursed for the cost of the health-care resources provided underthe agreement and that the rate for such reimbursement shall be determined in accordance with the methodology agreed to pursuant to subsection (e) of this section.
+(4) Each such agreement shall provide that a providing agency shall be reimbursed for the cost of the health-care resources provided under the agreement and that the rate for such reimbursement shall be determined in accordance with the methodology agreed to pursuant to subsection (e) of this section.
 
-(5) Each proposal for an agreement under paragraph (1) of this subsection shall be submitted to the Under Secretary for Health and the Assistant Secretary and shall be effective as an agreement in accordance with its terms (A) on the forty-sixth day after the receipt of such proposal by both such officials, unless earlier disapproved by either such official, or (B) if earlier approved by both such officials, on the date of such approval.
+(5) Each proposal for an agreement under paragraph (1) of this subsection shall be submitted tothe Under Secretary for Health and the Assistant Secretary and shall be effective as an agreement in accordance with its terms (A) on the forty-sixth day after the receipt of such proposal by both such officials, unless earlier disapproved by either such official, or (B) if earlier approved by both such officials, on the date of such approval.
 
 (e) Reimbursement under any sharing agreement entered into under subsection (d) of this section shall be based upon a methodology that is agreed upon by the Under Secretary for Health and the Assistant Secretary and that provides appropriate flexibility to the heads of the facilities concerned to take into account local conditions and needs and the actual costs to the providing agency's facility of the health-care resources provided. Any funds received through such a reimbursement shall be credited to funds that have been allotted to the facility that provided the care or services.
 
@@ -64,19 +64,23 @@
 
 &emsp;(3) The term “head of a medical facility” (A) with respect to a medical facility of the Department, means the director of the facility, and (B) with respect to a medical facility of the Department of Defense, means the medical or dental officer in charge or the contract surgeon in charge.
 
-&emsp;(4) The term “health-care resource” includes hospital care, medical services, and rehabilitative services, as those terms are defined in paragraphs (5), (6), and (8), respectively, of section 1701 of this title, any other health-care service, and any health-care support or administrative resource.
+&emsp;(4) The term “health-care resource” includes hospital care, medical services, and rehabilitative services, as those terms are defined in paragraphs (5), (6), and (8), respectively, of section 1701 of this title, services under sections 1782 and 1783 of this title <sup>1</sup> any other health-care service, and any health-care support or administrative resource.
 
-&emsp;(5) The term “primary beneficiary” (A) with respect to the Department means a person who is eligible under this title (other than under section 1711(b) or 1713 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
+&emsp;(5) The term “primary beneficiary” (A) with respect to the Department means a person who is eligible under this title (other than under section 1782, 1783, or 1784 or subsection (d) of this section) or any other provision of law for care or services in Department medical facilities, and (B) with respect to the Department of Defense, means a member or former member of the Armed Forces who is eligible for care under section 1074 of title 10.
 
 &emsp;(6) The term “providing agency” means the Department, in the case of care or services furnished by a facility of the Department, and the Department of Defense, in the case of care or services furnished by a facility of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464.)
 
 #### Prior Provisions
 
 Provisions similar to those comprising this section were contained in former section 5003 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+2002—Subsec. (g)(4). Pub. L. 107–135, §208(e)(6)(A), inserted “services under sections 1782 and 1783 of this title” after “of this title,”.
+
+Subsec. (g)(5). Pub. L. 107–135, §208(e)(6)(B), substituted “section 1782, 1783, or 1784” for “section 1711(b) or 1713”.
 
 1994—Subsec. (b)(2). Pub. L. 103–446, §1201(g)(8)(A), in concluding provisions, substituted “During odd-numbered fiscal years” for “During fiscal years 1982 and 1983” and “During even-numbered fiscal years” for “During fiscal year 1984” and struck out after third sentence “Thereafter, the chairmanship of the Committee shall alternate each fiscal year between the Under Secretary for Health and the Assistant Secretary.”
 
@@ -174,7 +178,7 @@ Primacy of Sharing Agreements.—The Secretary of Defense shall—
 
 &emsp;“(1) give full force and effect to any agreement into which the Secretary or the Secretary of a military department entered under section 8111 of title 38, United States Code, or under section 1535 of title 31, United States Code, which was in effect on September 30, 1999; and
 
-&emsp;“(2) ensure that the Secretary of the military department concerned directly reimburses the Secretary of Veterans Affairs for any services or resources provided under such agreement in accordance with the terms of such agreement, including termsproviding for reimbursement from funds available for that military department.
+&emsp;“(2) ensure that the Secretary of the military department concerned directly reimburses the Secretary of Veterans Affairs for any services or resources provided under such agreement in accordance with the terms of such agreement, including terms providing for reimbursement from funds available for that military department.
 
 “(b)
 
@@ -194,7 +198,7 @@ Authority.—The Secretary of Veterans Affairs may enter into an agreement with 
 
 &emsp;“(2) the term ‘primary beneficiary’ shall be treated as including—
 
-&emsp;&emsp;“(A) with respect to the Department of Veterans Affairs, any person who is described in section 1713 of title 38, United States Code; and
+&emsp;&emsp;“(A) with respect to the Department of Veterans Affairs, any person who is described in section 1713 \[now 1781\] of title 38, United States Code; and
 
 &emsp;&emsp;“(B) with respect to the Department of Defense, any person who is a covered beneficiary under chapter 55 of title 10, United States Code.
 
@@ -212,7 +216,7 @@ Use of Funds.—Any amount received by the Secretary from a non-Federal entity a
 
 #### “SEC. 203. EXPANDED SHARING AGREEMENTS WITH DEPARTMENT OF DEFENSE.
 
-“Under an agreement under section 201, guidelines under section 8111(b) of title 38, United States Code, may be modified to provide that, notwithstanding any other provision of law, any person who is a covered beneficiary under chapter 55 of title 10 and who is furnished care or services by a facility of the Department of Veterans Affairs under an agreement entered into under section 8111 of that title, or who is described in section 1713 of title 38, United States Code, and who is furnished care or services by a facility of the Department of Defense, may be authorized to receive such care or services—
+“Under an agreement under section 201, guidelines under section 8111(b) of title 38, United States Code, may be modified to provide that, notwithstanding any other provision of law, any person who is a covered beneficiary under chapter 55 of title 10 and who is furnished care or services by a facility of the Department of Veterans Affairs under an agreement entered into under section 8111 of that title, or who is described in section 1713 \[now 1781\] of title 38, United States Code, and who is furnished care or services by a facility of the Department of Defense, may be authorized to receive such care or services—
 
 &emsp;“(1) without regard to any otherwise applicable requirement for the payment of a copayment or deductible; or
 
@@ -238,7 +242,7 @@ Report.—In the report under subsection (a) for fiscal year 1996, the Secretari
 
 &emsp;“(1) An assessment of the effect of agreements entered into under section 201 on the delivery of health care to eligible veterans.
 
-&emsp;“(2) An assessment of the cost savings, if any, associated with provision of services under such agreements to retired members of the Armed Forces, dependents of members or former members of a uniformed service, and beneficiaries under section 1713 of title 38, United States Code.
+&emsp;“(2) An assessment of the cost savings, if any, associated with provision of services under such agreements to retired members of the Armed Forces, dependents of members or former members of a uniformed service, and beneficiaries under section 1713 \[now 1781\] of title 38, United States Code.
 
 &emsp;“(3) Any plans for administrative action, and any recommendations for legislation, that the Secretaries consider appropriate to include in the report.
 
@@ -270,7 +274,47 @@ Section 3(c) of Pub. L. 97–174 provided that: “The Assistant Secretary of De
 
 Section 3(d) of Pub. L. 97–174 provided that: “The guidelines required to be established under subsection (c) of section 5011 \[now 8111\] of title 38, United States Code, as added by subsection (a) of this section, shall initially be established not later than twelve months after the date of the enactment of this Act \[May 4, 1982\].”
 
+#### Ex. Ord. No. 13214. President's Task Force To Improve Health Care Delivery for Our Nation's Veterans
+
+Ex. Ord. No. 13214, May 28, 2001, 66 F.R. 29447, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide prompt and efficient access to consistently high quality health care for veterans who have served the Nation, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. There is established the President's Task Force to Improve Health Care Delivery for Our Nation's Veterans (Task Force).
+
+Sec. 2. <i>Membership</i>. The Task Force shall be comprised of 15 members appointed by the President. Two of the 15 members shall serve as co-chairs of the Task Force. The Task Force membership shall include health care experts, officials familiar with Department of Veterans Affairs and Department of Defense health care systems, and representatives from veteran and military service organizations.
+
+Sec. 3. <i>Mission</i>. The mission of the Task Force shall be to:
+
+&emsp;(a) identify ways to improve benefits and services for Department of Veterans Affairs beneficiaries and Department of Defense military retirees who are also eligible for benefits from the Department of Veterans Affairs through better coordination of the activities of the two departments;
+
+&emsp;(b) review barriers and challenges that impede Department of Veterans Affairs and Department of Defense coordination, including budgeting processes, timely billing, cost accounting, information technology, and reimbursement. Identify opportunities to improve such business practices to ensure high quality and cost effective health care; and
+
+&emsp;(c) identify opportunities for improved resource utilization through partnership between the Department of Veterans Affairs and the Department of Defense to maximize the use of resources and infrastructure, including: buildings, information technology and data sharing systems, procurement of supplies, equipment and services, and delivery of care.
+
+Sec. 4. <i>Administration.</i>
+
+&emsp;(a) The Department of Veterans Affairs shall, to the extent permitted by law, provide administrative support and funding for the Task Force.
+
+&emsp;(b) Members of the Task Force shall serve without any compensation for their work on the Task Force. Members appointed from among private citizens of the United States, however, while engaged in the work of the Task Force, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), to the extent funds are available.
+
+&emsp;(c) The co-chairs of the Task Force shall appoint an Executive Director to coordinate administration of the Task Force. To the extent permitted by law, office space, analytical support, and additional staff support for the Commission shall be provided by executive branch departments and agencies as directed by the President.
+
+&emsp;(d) The heads of the executive branch departments and agencies shall, to the extent permitted by law, provide the Task Force with information as requested by the co-chairs.
+
+&emsp;(e) At the call of the co-chairs, the Task Force shall meet as necessary to accomplish its mission.
+
+&emsp;(f) The functions of the President under the Federal Advisory Committee Act, as amended, except for those in section 6 of that Act, that are applicable to the Task Force, shall be performed by the Department of Veterans Affairs, in accordance with the guidelines that have been issued by the Administrator of General Services.
+
+Sec. 5. <i>Reports</i>. The Task Force shall report its findings and recommendations to the President, through the Secretary of Veterans Affairs and Secretary of Defense. The Task Force shall issue an interim report in 9 months from the date of the first meeting of the Task Force. The Task Force shall issue a final report prior to the end of the second year of operation.
+
+Sec. 6. <i>Termination</i>. The Task Force shall terminate 30 days after submitting its final report, but no later than 2 years from the date of this order.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 712, 8102, 8104, 8107 of this title; title 10 sections 1104, 2641.
+This section is referred to in sections 8102, 8104, 8107 of this title; title 10 sections 1104, 2641.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -14,7 +14,7 @@
 
 (B) The payments to the Commonwealth for any fiscal year shall not exceed the expenditures by that jurisdiction during that year for the provision of the assistance the provision of which is included in the plan of the Commonwealth approved under subsection (b) of this section and 50 per centum of the related administrative expenses.
 
-(2) The Secretary shall, subject to the provisions of subsection (b) of this section, pay to the Commonwealth for the applicable fiscal year, at such times and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv) of this section, reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
+(2) The Secretary shall, subject to the provisions of subsection (b) of this section, pay to the Commonwealth for the applicable fiscal year, atsuch times and in such manner as the Secretary may determine, the amount estimated by the Commonwealth pursuant to subsection (b)(1)(A)(iv) of this section, reduced or increased to the extent of any prior overpayment or current underpayment which the Secretary determines has been made under this section and with respect to which adjustment has not already been made under this subsection.
 
 #### (b) Plan for provision of assistance; approval; noncompliance
 
@@ -52,7 +52,7 @@
 
 #### (d) Penalty for violations
 
-Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fraud, false statement, or forgery, any funds, assets, or property provided or financed under this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both, but if the value of the funds, assets or property involved is not over $200, the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both.
+Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fraud, falsestatement, or forgery, any funds, assets, or property provided or financed under this section shall be fined not more than $10,000 or imprisoned for not more than five years, or both, but if the value of the funds, assets or property involved is not over $200, the penalty shall be a fine of not more than $1,000 or imprisonment for not more than one year, or both.
 
 (Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59.)
 

@@ -8,7 +8,7 @@ The Director of the Institute may make grants to public and private nonprofit en
 
 Projects supported under this section shall include—
 
-&emsp;(1) programs which emphasize the development and demonstration of new and improved methods of screening and early detection, referral for treatment, and diagnosis of individuals with a risk of developing arthritis and musculoskeletal diseases;
+&emsp;(1) programs which emphasize the development and demonstration of new and improvedmethods of screening and early detection, referral for treatment, and diagnosis of individuals with a risk of developing arthritis and musculoskeletal diseases;
 
 &emsp;(2) programs which emphasize the development and demonstration of new and improved methods for patient referral from local hospitals and physicians to appropriate centers for early diagnosis and treatment;
 

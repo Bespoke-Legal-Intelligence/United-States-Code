@@ -180,5 +180,5 @@ For provision that no penalties or interest shall be assessed on account of any 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 45B, 401, 3112, 3121, 3122, 3125, 3126, 3127, 3211, 3221, 3507, 6051, 6205, 6413, 6674, 6690 of this title; title 2 sections 162b, 658a, 1503; title 10 section 2467; title 40 section 214d; title 42 sections 401, 401a, 418, 429, 910, 1395i, 1395ww, 12594.
+This section is referred to in sections 45B, 401, 3112, 3121, 3122, 3125, 3126, 3127, 3211, 3221, 3507, 6051, 6205, 6413, 6674, 6690 of this title; title 2 sections 162b, 658a, 1503; title 10 section 2467; title 40 section 214d; title 42 sections 401, 401a, 418, 429, 910, 1395i, 1395i–2, 1395ww, 12594.
 

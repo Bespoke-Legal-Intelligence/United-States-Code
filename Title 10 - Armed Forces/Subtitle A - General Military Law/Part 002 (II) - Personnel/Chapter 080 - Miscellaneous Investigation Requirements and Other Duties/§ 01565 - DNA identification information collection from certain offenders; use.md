@@ -4,7 +4,7 @@
 
 Collection of DNA Samples.—(1) The Secretary concerned shall collect a DNA sample from each member of the armed forces under the Secretary's jurisdiction who is, or has been, convicted of a qualifying military offense (as determined under subsection (d)).
 
-(2) For each member described in paragraph (1), if the Combined DNA Index System (in thissection referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that member, or if a DNA sample has been or is to be collected from that member under section 3(a) of the DNA Analysis Backlog Elimination Act of 2000, the Secretary concerned may (but need not) collect a DNA sample from that member.
+(2) For each member described in paragraph (1), if the Combined DNA Index System (in this section referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that member, or if a DNA sample has been or is to be collected from that member under section 3(a) of the DNA Analysis Backlog Elimination Act of 2000, the Secretary concerned may (but need not) collect a DNA sample from that member.
 
 (3) The Secretary concerned may enter into agreements with other Federal agencies, units of State or local government, or private entities to provide for the collection of samples described in paragraph (1).
 
@@ -65,4 +65,8 @@ Pub. L. 106–546, §5(b), Dec. 19, 2000, 114 Stat. 2733, provided that: “The 
 #### Commencement of Collection
 
 Pub. L. 106–546, §5(c), Dec. 19, 2000, 114 Stat. 2733, provided that: “Collection of DNA samples under section 1565(a) of such title, as added by subsection (a)(1), shall, subject to the availability of appropriations, commence not later than the date that is 60 days after the date of the initial determination referred to in subsection (b) \[set out above\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 18 section 4209; title 42 sections 14132, 14135a, 14135c.
 

@@ -28,7 +28,7 @@
 
 #### (7) Prohibition on payments for bids and designs
 
-&emsp;The Architect may not make any payment to any person for any bid or design proposal under any competition conducted under this subsection.
+&emsp;The Architect may not make any payment to any person for any bid or design proposalunder any competition conducted under this subsection.
 
 #### (8) Limitations
 
@@ -48,7 +48,7 @@
 
 #### (1) Authority to enter
 
-&emsp;The Architect may enter into with the person selected to develop squares 721 and 722 under subsection (a) of this section an agreement for the development of such squares. Except as otherwise provided in this chapter, such agreement shall provide for development of such squares substantially in accordance with (A) alternative D of the report to Congress entitled “The Study of Alternatives forthe Construction of an Office Building(s) for the Administrative Office of the United States Courts”, submitted to Congress on August 10, 1987, by the Architect and the Secretary of Transportation, and (B) the Master Plan for the United States Capitol, dated 1981.
+&emsp;The Architect may enter into with the person selected to develop squares 721 and 722 under subsection (a) of this section an agreement for the development of such squares. Except as otherwise provided in this chapter, such agreement shall provide for development of such squares substantially in accordance with (A) alternative D of the report to Congress entitled “The Study of Alternatives for the Construction of an Office Building(s) for the Administrative Office of the United States Courts”, submitted to Congress on August 10, 1987, by the Architect and the Secretary of Transportation, and (B) the Master Plan for the United States Capitol, dated 1981.
 
 #### (2) Contents
 

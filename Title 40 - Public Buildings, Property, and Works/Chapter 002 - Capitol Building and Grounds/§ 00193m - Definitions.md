@@ -36,5 +36,5 @@ Amendment by Pub. L. 90–108 effective Oct. 20, 1967, see section 3 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 71a, 136, 174b–1, 184a, 193h, 193i, 193k, 210, 212a of this title.
+This section is referred to in sections 71a, 136, 174b–1, 184a, 193h, 193i, 193k, 210, 212a, 212c of this title.
 

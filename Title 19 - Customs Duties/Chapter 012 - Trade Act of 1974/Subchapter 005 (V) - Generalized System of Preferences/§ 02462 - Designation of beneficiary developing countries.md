@@ -94,7 +94,7 @@ In determining whether to designate any country as a beneficiary developing coun
 
 &emsp;(3) whether or not other major developed countries are extending generalized preferential tariff treatment to such country;
 
-&emsp;(4) the extent to which such country has assured the United States that it will provide equitable and reasonable access to the markets and basic commodity resources of such country and the extent to which such country has assured the United States that it will refrain from engaging in unreasonable export practices;
+&emsp;(4) the extent to which such country has assured the United States that it will provideequitable and reasonable access to the markets and basic commodity resources of such country and the extent to which such country has assured the United States that it will refrain from engaging in unreasonable export practices;
 
 &emsp;(5) the extent to which such country is providing adequate and effective protection of intellectual property rights;
 
@@ -138,7 +138,7 @@ If the President determines that a beneficiary developing country has become a �
 
 #### (2) Notification of termination
 
-&emsp;If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country ofthe President's intention to terminate such designation, together with the considerations entering into such decision.
+&emsp;If the President has designated any country as a beneficiary developing country under this subchapter, the President shall not terminate such designation unless, at least 60 days before such termination, the President has notified the Congress and has notified such country of the President's intention to terminate such designation, together with the considerations entering into such decision.
 
 (Pub. L. 93–618, title V, §502, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1917; amended Pub. L. 104–295, §35(a), Oct. 11, 1996, 110 Stat. 3538; Pub. L. 106–200, title IV, §412(a), May 18, 2000, 114 Stat. 298.)
 
@@ -160,7 +160,7 @@ Section 35(b) of Pub. L. 104–295 provided that: “The amendment made by subse
 
 #### Delegation of Functions
 
-Proc. No. 6942, Oct. 17, 1996, 61 F.R. 54719, provided in par. (5) that powers of the President granted in subsec. (f)(2) of this section to notify a country of the President's intention to terminate that country's status as a beneficiary developing country for purposes of the Generalized System of Preferences were delegated to the United States Trade Representative.
+Proc. No. 6942, Oct. 17, 1996, 61 F.R. 54719, provided in par. (5) that powers of the President granted in subsec.\(f)(2) of this section to notify a country of the President's intention to terminate that country's status as a beneficiary developing country for purposes of the Generalized System of Preferences were delegated to the United States Trade Representative.
 
 #### Section Referred to in Other Sections
 

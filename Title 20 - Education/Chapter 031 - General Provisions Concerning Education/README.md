@@ -421,7 +421,7 @@ Effective term of general application.
 
 (a)
 
-Records kept by recipient; full disclosure; five-year maintenance period.
+Records kept by recipient; full disclosure; maintenance period.
 
 (b)
 
@@ -469,6 +469,10 @@ Disciplinary records; disclosure.
 
 Drug and alcohol violation disclosures.
 
+(j)
+
+Investigation and prosecution of terrorism.
+
 |  |  |
 | :--- | ---: |
 | [1232h.](Subchapter%20003%20%28III%29%20-%20General%20Requirements%20and%20Conditions%20Concerning%20Operation%20and%20Administration%20of%20Education%20Programs%20General%20Authority%20of%E2%80%A6/Part%20004%20-%20Records%3B%20Privacy%3B%20Limitation%20on%20Withholding%20Federal%20Funds/%C2%A7%2001232h%20-%20Protection%20of%20pupil%20rights.md) | Protection of pupil rights. |
@@ -485,13 +489,17 @@ Limits on survey, analysis, or evaluations.
 
 (c)
 
-Notice.
+Development of local policies concerning student privacy, parental access to information, and administration of certain physical examinations to minors.
 
 (d)
 
-Enforcement.
+Notice.
 
 (e)
+
+Enforcement.
+
+(f)
 
 Office and review board.
 
@@ -774,72 +782,9 @@ Publication in Federal Register of notice of intent to enter into repayment arra
 
 #### SUBCHAPTER V—READY TO LEARN TELEVISION
 
-|  |  |
-| :--- | ---: |
-| [1235\.](Subchapter%20005%20%28V%29%20-%20Ready%20to%20Learn%20Television/%C2%A7%2001235%20-%20Ready%20to%20learn.md) | Ready to learn. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Availability.
-
-|  |  |
-| :--- | ---: |
-| [1235a.](Subchapter%20005%20%28V%29%20-%20Ready%20to%20Learn%20Television/%C2%A7%2001235a%20-%20Educational%20programming.md) | Educational programming. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Awards.
-
-(b)
-
-Eligible entities.
-
-(c)
-
-Cultural experiences.
-
-|  |  |
-| :--- | ---: |
-| [1235b.](Subchapter%20005%20%28V%29%20-%20Ready%20to%20Learn%20Television/%C2%A7%2001235b%20-%20Duties%20of%20Secretary.md) | Duties of Secretary. |
-| [1235c.](Subchapter%20005%20%28V%29%20-%20Ready%20to%20Learn%20Television/%C2%A7%2001235c%20-%20Applications.md) | Applications. |
-| [1235d.](Subchapter%20005%20%28V%29%20-%20Ready%20to%20Learn%20Television/%C2%A7%2001235d%20-%20Reports%20and%20evaluation.md) | Reports and evaluation. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Annual report to Secretary.
-
-(b)
-
-Report to Congress.
-
-|  |  |
-| :--- | ---: |
-| [1235e.](Subchapter%20005%20%28V%29%20-%20Ready%20to%20Learn%20Television/%C2%A7%2001235e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Special projects.
-
-|  |  |
-| :--- | ---: |
-| [1235f.](Subchapter%20005%20%28V%29%20-%20Ready%20to%20Learn%20Television/%C2%A7%2001235f%20-%20Administrative%20costs.md) | Administrative costs. |
-| [1235g.](Subchapter%20005%20%28V%29%20-%20Ready%20to%20Learn%20Television/%C2%A7%2001235g%20-%20%E2%80%9CDistance%20learning%E2%80%9D%20defined.md) | “Distance learning” defined. |
+|  |
+| :--- |
+| 1235 to 1235g. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -849,7 +794,7 @@ Special projects.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1652, 3441, 3489, 6104, 6512, 7001, 8901, 9134 of this title; title 42 section 2473b.
+This chapter is referred to in sections 1652, 3441, 3489, 6104, 6777, 7001, 9134 of this title; title 42 section 2473b.
 
 
 ---

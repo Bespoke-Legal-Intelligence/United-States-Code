@@ -1,6 +1,6 @@
 ### §12112. Vessels procured outside the United States
 
-(a) The Secretary of Transportation and the Secretary of State, acting jointly, may providefor the issuance of a certificate of documentation with an appropriate endorsement for a vessel procured outside the United States meeting the ownership requirements of section 12102 of this title.
+(a) The Secretary of Transportation and the Secretary of State, acting jointly, may provide for the issuance of a certificate of documentation with an appropriate endorsement for a vessel procured outside the United States meeting the ownership requirements of section 12102 of this title.
 
 (b) Subject to limitations the Secretary of Transportation may prescribe, a vessel for which a document is issued under this section may proceed to the United States and engage en route in the foreign trade or trade with Guam, American Samoa, Wake, Midway, or Kingman Reef. On the vessel's arrival in the United States, the document shall be surrendered as provided by regulations prescribed by the Secretary.
 

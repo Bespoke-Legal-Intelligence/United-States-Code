@@ -2,7 +2,7 @@
 
 #### (a) General
 
-(1) During a period of 3 years beginning on the sale date, no person, directly or indirectly, may acquire or hold securities representing morethan 10 percent of the total votes of all outstanding voting securities of the Corporation.
+(1) During a period of 3 years beginning on the sale date, no person, directly or indirectly, may acquire or hold securities representing more than 10 percent of the total votes of all outstanding voting securities of the Corporation.
 
 (2) This subsection shall not apply—
 

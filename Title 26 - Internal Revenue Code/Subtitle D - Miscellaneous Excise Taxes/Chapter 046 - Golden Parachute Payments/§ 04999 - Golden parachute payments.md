@@ -12,7 +12,7 @@ For purposes of this section, the term “excess parachute payment” has the me
 
 #### (1) Withholding
 
-&emsp;In the case of any excess parachute payment which is wages (within the meaning of section 3401) the amount deducted and withheld under section 3402 shall be increased by the amount of the tax imposed by this section on such payment.
+&emsp;In the case of any excess parachute payment which is wages (within the meaning of section 3401) the amount deducted and withheld under section 3402 shall be increased by the amountof the tax imposed by this section on such payment.
 
 #### (2) Other administrative provisions
 

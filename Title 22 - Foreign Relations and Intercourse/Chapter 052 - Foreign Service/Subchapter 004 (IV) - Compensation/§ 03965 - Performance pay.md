@@ -18,7 +18,7 @@ Awards of performance pay shall take into account the criteria established by th
 
 &emsp;(2) Except as provided in paragraph (3), performance pay for a member of the Senior Foreign Service may not exceed 20 percent of the annual rate of basic salary for that member.
 
-&emsp;(3) Not more than 6 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year in an amount which exceeds the percentage limitation specified in paragraph (2). Payments under this paragraph to a member of the Senior Foreign Service may not exceed $10,000 in any fiscal year, except that payments of up to $20,000 in any fiscal year may be made under this paragraph to up to 1 percent of the members of the Senior Foreign Service.
+&emsp;(3) Not more than 6 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year in an amountwhich exceeds the percentage limitation specified in paragraph (2). Payments under this paragraph to a member of the Senior Foreign Service may not exceed $10,000 in any fiscal year, except that payments of up to $20,000 in any fiscal year may be made under this paragraph to up to 1 percent of the members of the Senior Foreign Service.
 
 &emsp;(4) Any award under this section shall be subject to the limitation on certain payments under section 5307 of title 5.
 

@@ -158,7 +158,7 @@ Section 1 of Pub. L. 105–17 provided that: “This Act \[enacting subchapters 
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–119, §1, Oct. 7, 1991, 105 Stat. 587, provided that: “This Act \[see Tables for classification\] may becited as the ‘Individuals with Disabilities Education Act Amendments of 1991’.”
+Pub. L. 102–119, §1, Oct. 7, 1991, 105 Stat. 587, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Individuals with Disabilities Education Act Amendments of 1991’.”
 
 #### Short Title of 1990 Amendment
 
@@ -180,7 +180,7 @@ Pub. L. 98–199, §1, Dec. 2, 1983, 97 Stat. 1357, provided: “That this Act \
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–49, §1, June 17, 1977, 91 Stat. 230, provided: “That this Act \[amending sections 1426, 1436, 1441, 1444, and 1454 of this title, and enacting provisions set out as a note under section 1426 of this title\] may be cited as the ‘Education of the Handicapped Amendments of 1977’.”
+Pub. L. 95–49, §1, June 17, 1977, 91 Stat. 230, provided: “That this Act \[amending sections 1426, 1436, 1441, 1444,and 1454 of this title, and enacting provisions set out as a note under section 1426 of this title\] may be cited as the ‘Education of the Handicapped Amendments of 1977’.”
 
 #### Short Title of 1975 Amendment
 

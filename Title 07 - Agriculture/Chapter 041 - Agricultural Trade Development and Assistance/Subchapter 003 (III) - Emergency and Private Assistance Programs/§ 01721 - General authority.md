@@ -26,7 +26,7 @@ The President shall establish a program under this subchapter to provide agricul
 
 &emsp;“(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
 
-&emsp;“(2) for fiscal year 1981 shall be 1,650,000 metric tons, of which not less than 1,350,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program; and
+&emsp;“(2) for fiscal year 1981 shall be 1,650,000 metric tons, of which not less than 1,350,000 metric tons shallbe distributed through nonprofit voluntary agencies and the World Food Program; and
 
 &emsp;“(3) for fiscal year 1982 and each fiscal year thereafter shall be 1,700,000 metric tons, of which not less than 1,200,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program, except that for fiscal year 1986 the minimum quantity distributed shall be 1,800,000 metric tons, of which not less than 1,300,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program, and for fiscal year 1987 the minimum quantity distributed shall be 1,900,000 metric tons, of which not less than 1,425,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program;
 

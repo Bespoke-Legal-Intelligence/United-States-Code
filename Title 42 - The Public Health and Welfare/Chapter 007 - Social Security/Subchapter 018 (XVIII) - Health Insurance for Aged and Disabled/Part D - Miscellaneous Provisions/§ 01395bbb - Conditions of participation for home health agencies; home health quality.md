@@ -8,7 +8,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;&emsp;(A) The right to be fully informed in advance about the care and treatment to be provided by the agency, to be fully informed in advance of any changes in the care or treatment to be provided by the agency that may affect the individual's well-being, and (except with respect to an individual adjudged incompetent) to participate in planning care and treatment or changes in care or treatment.
 
-&emsp;&emsp;(B) The right to voice grievances with respect to treatment or care that is (or fails to be) furnished without discrimination or reprisal for voicing grievances.
+&emsp;&emsp;(B) The right to voice grievances with respect to treatment or care that is (or fails tobe) furnished without discrimination or reprisal for voicing grievances.
 
 &emsp;&emsp;(C) The right to confidentiality of the clinical records described in section 1395x(<i>o</i>)(3) of this title.
 
@@ -116,7 +116,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 &emsp;&emsp;(III) who has no personal or familial financial interest in the home health agency surveyed.
 
-(D) Each home health agency that is found, under a standard survey, to have provided substandard care shall be subject to an extended survey to review and identify the policies and procedures which produced such substandard care and to determine whether the agency has complied with the conditions of participation specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section. Any other agency may, at the Secretary's or State's discretion, be subject to such an extended survey (or a partial extended survey). The extended survey shall be conducted immediately after the standard survey (or, if not practical, not later than 2 weeks after the date of completion of the standard survey).
+(D) Each home health agency that is found, under a standard survey, to have provided substandard care shall be subject to an extended survey to review and identify the policies and procedures which produced such substandard care and to determine whether the agency has complied with the conditions of participation specified in or pursuant to section 1395x(<i>o</i>) ofthis title or subsection (a) of this section. Any other agency may, at the Secretary's or State's discretion, be subject to such an extended survey (or a partial extended survey). The extended survey shall be conducted immediately after the standard survey (or, if not practical, not later than 2 weeks after the date of completion of the standard survey).
 
 (E) Nothing in this paragraph shall be construed as requiring an extended (or partial extended) survey as a prerequisite to imposing a sanction against an agency under subsection (e) of this section on the basis of the findings of a standard survey.
 
@@ -176,7 +176,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (C) A finding to suspend payment under subparagraph (A)(ii) shall terminate when the Secretary finds that the home health agency is in substantial compliance with all the requirements specified in or pursuant to section 1395x(<i>o</i>) of this title and subsection (a) of this section.
 
-(3) The Secretary shall develop and implement, by not later than April 1, 1989, specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity of each of these sanctions. Such procedures shall be designed so as to minimize the time betweenidentification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
+(3) The Secretary shall develop and implement, by not later than April 1, 1989, specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity of each of these sanctions. Such procedures shall be designed so as to minimize the time between identification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
 
 #### (g) Payment on basis of location of service
 
@@ -246,7 +246,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Section 4022(b) of Pub. L. 100–203 provided that: “Except as otherwise specifically provided in section1891(d) of the Social Security Act \[subsec. (d) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Section 4022(b) of Pub. L. 100–203 provided that: “Except as otherwise specifically provided in section 1891(d) of the Social Security Act \[subsec. (d) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 Section 4023(b) of Pub. L. 100–203, as amended by Pub. L. 100–360, title IV, §411(d)(3)(C), July 1, 1988, 102 Stat. 774, provided that: “Except as otherwise specifically provided in subsections (e) and (f) of section 1891 of the Social Security Act \[subsecs. (e) and (f) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\], and no intermediate sanction described in section 1891(f)(2)(A) of such Act \[subsec. (f)(2)(A) of this section\] shall be imposed for violations occurring before such effective date.”
 

@@ -70,6 +70,7 @@
 | (a) | Establishment. |
 | (b) | Eligibility. |
 | (c) | Application and selection. |
+| [2463\.](%C2%A7%2002463%20-%20Allocation%20of%20funds%20transferred%20to%20the%20Bureau%20of%20Educational%20and%20Cultural%20Affairs.md) | Allocation of funds transferred to the Bureau of Educational and Cultural Affairs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -98,3 +99,4 @@ This chapter is referred to in sections 1461–1a, 1475d, 1475e, 1475h, 2075, 22
 - [&sect; 02460 - Bureau of Educational and Cultural Affairs](%C2%A7%2002460%20-%20Bureau%20of%20Educational%20and%20Cultural%20Affairs.md)
 - [&sect; 02461 - Exchanges between United States and independent states of the former Soviet Union](%C2%A7%2002461%20-%20Exchanges%20between%20United%20States%20and%20independent%20states%20of%20the%20former%20Soviet%20Union.md)
 - [&sect; 02462 - Establishment of grant program for foreign study by American college students of limited financial means](%C2%A7%2002462%20-%20Establishment%20of%20grant%20program%20for%20foreign%20study%20by%20American%20college%20students%20of%20limited%20financial%20means.md)
+- [&sect; 02463 - Allocation of funds transferred to the Bureau of Educational and Cultural Affairs](%C2%A7%2002463%20-%20Allocation%20of%20funds%20transferred%20to%20the%20Bureau%20of%20Educational%20and%20Cultural%20Affairs.md)

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) evaluated the public comments received under section 3506(c)(2);
 
-&emsp;&emsp;(C) submitted to the Director the certification required under section 3506(c)(3), the proposed collection of information, copies of pertinent statutory authority, regulations, and other related materials as the Director may specify; and
+&emsp;&emsp;(C) submitted to the Director the certification required under section 3506(c)(3), the proposed collection of information, copies of pertinent statutory authority, regulations,and other related materials as the Director may specify; and
 
 &emsp;&emsp;(D) published a notice in the Federal Register—
 
@@ -86,7 +86,7 @@
 
 &emsp;(A) any information which is protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy; or
 
-&emsp;(B) any communication relating to a collection of information which is not approved under this subchapter, the disclosure of which could lead to retaliation or discrimination against the communicator.
+&emsp;(B) any communication relating to a collection of information which is not approvedunder this subchapter, the disclosure of which could lead to retaliation or discrimination against the communicator.
 
 (f)(1) An independent regulatory agency which is administered by 2 or more members of a commission, board, or similar body, may by majority vote void—
 
@@ -150,7 +150,7 @@ Another prior section 3507, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, prov
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
 
 #### Effective Date of 1996 Amendment
 

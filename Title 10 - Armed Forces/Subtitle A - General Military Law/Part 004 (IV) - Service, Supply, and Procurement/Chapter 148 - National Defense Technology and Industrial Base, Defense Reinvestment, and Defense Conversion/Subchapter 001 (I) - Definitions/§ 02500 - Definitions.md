@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;&emsp;(B) a defense critical technology.
 
-&emsp;(7) The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(d)).
+&emsp;(7) The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) <sup>1</sup> of the National Science and Technology Policy, Organization, and Priorities Act of 1976 (42 U.S.C. 6683(d)).
 
 &emsp;(8) The term “defense critical technology” means a technology that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title.
 
@@ -34,7 +34,7 @@ In this chapter:
 
 > &emsp;Such term includes a consortium of such companies or other business entities, as determined by the Secretary of Commerce.
 
-&emsp;(10) The term “manufacturing technology” means techniques and processes designed to improve manufacturing quality, productivity, and practices, including quality control, shop floor management, inventory management,and worker training, as well as manufacturing equipment and software.
+&emsp;(10) The term “manufacturing technology” means techniques and processes designed to improve manufacturing quality, productivity, and practices, including quality control, shop floor management, inventory management, and worker training, as well as manufacturing equipment and software.
 
 &emsp;(11) The term “Small Business Innovation Research Program” means the program established under the following provisions of section 9 of the Small Business Act (15 U.S.C. 638):
 
@@ -57,6 +57,10 @@ In this chapter:
 &emsp;(14) The term “person of a foreign country” has the meaning given such term in section 3502(d) of the Primary Dealers Act of 1988 (22 U.S.C. 5342(d)).
 
 (Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903.)
+
+#### References in Text
+
+Section 603 of the National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (7), was classified to section 6683 of Title 42, The Public Health and Welfare, and was omitted from the Code.
 
 #### Prior Provisions
 
@@ -114,7 +118,7 @@ Section 4101 of Pub. L. 102–484 provided that: “Congress makes the following
 
 &emsp;“(2) The change in the military threat presents a unique opportunity to restructure and reduce the military requirements of the United States.
 
-&emsp;“(3) As the United States proceeds with the post-Cold War defense build down, the Nation must recognize and address the impact of reduced defense spending on the military personnel, civilian employees,and defense industry workers who have been the foundation of the national defense policies of the United States.
+&emsp;“(3) As the United States proceeds with the post-Cold War defense build down, the Nation must recognize and address the impact of reduced defense spending on the military personnel, civilian employees, and defense industry workers who have been the foundation of the national defense policies of the United States.
 
 &emsp;“(4) The defense build down will have a significant impact on communities as procurements are reduced and military installations are closed and realigned.
 

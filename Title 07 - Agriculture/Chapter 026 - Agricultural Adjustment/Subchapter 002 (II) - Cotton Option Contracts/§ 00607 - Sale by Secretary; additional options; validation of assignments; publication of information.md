@@ -10,7 +10,7 @@ Notwithstanding any provision of existing law, the Secretary of Agriculture may,
 
 #### Amendments
 
-1935—Act Aug. 24, 1935, among other changes, inserted provisions as to presumption of validity of assignmentsmade prior to Jan. 11, 1934 of option contracts exercised prior to Jan. 18, 1934 if in good faith, for full value, and without fraud or speculation by the assignee.
+1935—Act Aug. 24, 1935, among other changes, inserted provisions as to presumption of validity of assignments made prior to Jan. 11, 1934 of option contracts exercised prior to Jan. 18, 1934 if in good faith, for full value, and without fraud or speculation by the assignee.
 
 1933—Act June 16, 1933, amended section generally.
 

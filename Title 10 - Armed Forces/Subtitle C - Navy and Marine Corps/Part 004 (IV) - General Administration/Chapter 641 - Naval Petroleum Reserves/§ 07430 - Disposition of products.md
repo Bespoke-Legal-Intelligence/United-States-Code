@@ -4,11 +4,7 @@
 
 (b)(1) Subject to paragraph (2) and notwithstanding any other provision of law, each sale of the United States share of petroleum shall be made by the Secretary at public sale to the highest qualified bidder, at such time, in such amounts, and after such advertising as the Secretary considers proper and without regard to Federal, State, or local regulations controlling sales or allocation of petroleum products. Each sale of the United States share of petroleum shall be for periods of not more than one year, except that a sale of natural gas may be made for a period of more than one year.
 
-(2) The Secretary may not sell any part of the United States share of petroleum produced from Naval Petroleum Reserves Numbered 2 and 3 at a price less than the higher of—
-
-&emsp;(A) the current sales price, as estimated by the Secretary, of comparable petroleum in the same area; or
-
-&emsp;(B) the price of petroleum being purchased for the Strategic Petroleum Reserve, minus the cost of transporting petroleum from the naval petroleum reserve concerned to the nearest storage area of the Strategic Petroleum Reserve, with adjustments for the difference in the quality of the petroleum being purchased for the Strategic Petroleum Reserve and petroleum being produced from the naval petroleum reserve concerned.
+(2) The Secretary may not sell any part of the United States share of petroleum produced from Naval Petroleum Reserves Numbered 2 and 3 at a price less than the current sales price, as estimated by the Secretary, of comparable petroleum in the same area.
 
 (3) For purposes of paragraph (2), the term “petroleum” does not include natural gas liquids.
 
@@ -56,7 +52,7 @@
 
 (2) The requirements of section 159 of the Energy Policy and Conservation Act (42 U.S.C. 6239) do not apply to actions taken under this subsection.
 
-(<i>l</i>)(1) Notwithstanding any other provision of this chapter (but subject to paragraph (2)), during any period in which the production of petroleum is authorized from Naval Petroleum Reserves Numbered 1, 2, or 3, the Secretary, at the request of the Secretary of Defense, may provide any portion of the United States share of petroleum so produced to the Department of Defense for its use, exchange, or sale in order to meet petroleum product requirements of the Department of Defense.
+(<i>l</i>)(1) Notwithstanding any other provision of this chapter (but subject to paragraph (2)), during any period in which the production of petroleum is authorized from Naval Petroleum Reserves Numbered 1, 2, or 3, the Secretary, at the request of the Secretary of Defense, may provide any portion of the United States share of petroleum so produced to the Department of Defensefor its use, exchange, or sale in order to meet petroleum product requirements of the Department of Defense.
 
 (2) Petroleum may be provided to the Department of Defense under paragraph (1) either directly or by such exchange as the Secretary deems appropriate. Appropriate reimbursement reasonably reflecting the fair market value shall be provided by the Secretary of Defense for petroleum provided under this subsection.
 
@@ -64,7 +60,7 @@
 
 (4) Paragraph (1) does not apply to any petroleum set aside for small refiners under subsection (d) or placed in the Strategic Petroleum Reserve under subsection (k).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–599, §2, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(6), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(11), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–294, title VIII, §804, June 30, 1980, 94 Stat. 777; Pub. L. 96–513, title V, §513(34), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–22, §11(a)(10), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, §1405(53), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(b), (c), Aug. 29, 1986, 100 Stat. 944, 945; Pub. L. 100–26, §7(k)(9), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 100–456, div. A, title XII, §1233(e)(2), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3401\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460; Pub. L. 87–599, §2, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(6), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, §201(11), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–294, title VIII, §804, June 30, 1980, 94 Stat. 777; Pub. L. 96–513, title V, §513(34), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–22, §11(a)(10), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, §1405(53), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(b), (c), Aug. 29, 1986, 100 Stat. 944, 945; Pub. L. 100–26, §7(k)(9), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 100–456, div. A, title XII, §1233(e)(2), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3401\], Oct. 30, 2000, 114 Stat. 1654, 1654A–484; Pub. L. 107–107, div. A, title X, §1048(e)(12), Dec. 28, 2001, 115 Stat. 1228.)
 
 Historical and Revision Notes
 
@@ -102,11 +98,13 @@ The Federal Trade Commission Act, referred to in subsec. (i)(3), is act Sept. 26
 
 Sections 73 and 74 of the Wilson Tariff Act, referred to in subsec. (i)(4), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, which enacted sections 8 and 9, respectively, of Title 15.
 
-Act of June 19, 1936, referred to in subsec. (i)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Anti-discrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15 and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
+Act of June 19, 1936, referred to in subsec. (i)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15 and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
 The Natural Gas Act, referred to in subsec. (j), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 #### Amendments
+
+2001—Subsec. (b)(2). Pub. L. 107–107 substituted “at a price less than the current sales price” for “at a price less than the higher of— (A) the current sales price”, substituted a period for “; or” after “petroleum in the same area”, and struck out subpar. (B) which read as follows: “the price of petroleum being purchased for the Strategic Petroleum Reserve, minus the cost of transporting petroleum from the naval petroleum reserve concerned to the nearest storage area of the Strategic Petroleum Reserve, with adjustments for the difference in the quality of the petroleum being purchased for the Strategic Petroleum Reserve and petroleum being produced from the naval petroleum reserve concerned.”
 
 2000—Subsec. (b)(2). Pub. L. 106–398 substituted “Naval Petroleum Reserves Numbered 2 and 3” for “Naval Petroleum Reserves Numbered 1, 2, and 3” in introductory provisions and struck out “90 percent of” before “the current sales price” in subpar. (A).
 
@@ -168,8 +166,6 @@ Functions vested in President by subsec. (k) of this section delegated to Secret
 
 Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 976, provided in part: “That the requirements of 10 U.S.C. 7430(b)(2)(B) shall not apply to fiscal year 2001 and any fiscal year thereafter”.
 
-Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–179.
-
 Similar provisions were contained in the following appropriation and authorization acts:
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–179.
@@ -196,5 +192,5 @@ Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1405.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7422 of this title; title 42 sections 6240, 6505; title 43 section 1601.
+This section is referred to in section 7422 of this title; title 42 section 6506; title 43 section 1601.
 

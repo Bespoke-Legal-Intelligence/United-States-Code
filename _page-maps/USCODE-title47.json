@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title47",
- "package": "USCODE-2000-title47",
+ "package": "USCODE-2001-title47",
  "pieces": [
   {
    "id": "47_",
@@ -1714,14 +1714,18 @@
      ]
     ],
     [
-     "L",
-     186,
-     "[Page 93]",
-     true
+     "I",
+     184,
+     [
+      [
+       143,
+       "[Page 93]"
+      ]
+     ]
     ],
     [
      "L",
-     256,
+     252,
      "[Page 94]",
      true
     ],
@@ -1730,7 +1734,7 @@
      312,
      [
       [
-       222,
+       100,
        "[Page 95]"
       ]
      ]
@@ -1747,7 +1751,7 @@
     ],
     [
      "L",
-     486,
+     488,
      "[Page 97]",
      true
     ]
@@ -1769,26 +1773,30 @@
   },
   {
    "id": "47_256",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       222,
+       "[Page 98]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 002 (II) - Development of Competitive Markets/§ 00256 - Coordination for interconnectivity.md",
    "printed_pages": [
     97,
-    97
+    98
    ]
   },
   {
    "id": "47_257",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 98]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 002 (II) - Development of Competitive Markets/§ 00257 - Market entry barriers proceeding.md",
    "printed_pages": [
-    97,
+    98,
     98
    ]
   },
@@ -1806,7 +1814,7 @@
    "marks": [
     [
      "L",
-     32,
+     14,
      "[Page 99]",
      true
     ]
@@ -1828,11 +1836,18 @@
   },
   {
    "id": "47_261",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 100]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 002 (II) - Development of Competitive Markets/§ 00261 - Effect on other requirements.md",
    "printed_pages": [
     99,
-    99
+    100
    ]
   },
   {
@@ -1840,44 +1855,40 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/README.md",
    "printed_pages": [
-    99,
-    99
+    100,
+    100
    ]
   },
   {
    "id": "47_271",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       134,
-       "[Page 100]"
-      ]
-     ]
-    ],
-    [
      "L",
-     88,
+     60,
      "[Page 101]",
      true
     ],
     [
      "I",
-     158,
+     132,
      [
       [
-       393,
+       95,
        "[Page 102]"
       ]
      ]
+    ],
+    [
+     "L",
+     190,
+     "[Page 103]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00271 - Bell operating company entry into interLATA services.md",
    "printed_pages": [
-    99,
-    102
+    100,
+    103
    ]
   },
   {
@@ -1885,24 +1896,18 @@
    "marks": [
     [
      "I",
-     6,
+     58,
      [
       [
-       95,
-       "[Page 103]"
+       96,
+       "[Page 104]"
       ]
      ]
-    ],
-    [
-     "L",
-     82,
-     "[Page 104]",
-     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00272 - Separate affiliate; safeguards.md",
    "printed_pages": [
-    102,
+    103,
     104
    ]
   },
@@ -1910,26 +1915,30 @@
    "id": "47_273",
    "marks": [
     [
+     "L",
+     6,
+     "[Page 105]",
+     true
+    ],
+    [
      "I",
-     36,
+     72,
      [
       [
-       91,
-       "[Page 105]"
+       92,
+       "[Page 106]"
       ]
      ]
     ],
     [
-     "L",
-     90,
-     "[Page 106]",
-     true
-    ],
-    [
-     "L",
-     142,
-     "[Page 107]",
-     true
+     "I",
+     118,
+     [
+      [
+       97,
+       "[Page 107]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00273 - Manufacturing by Bell operating companies.md",
@@ -1943,25 +1952,33 @@
    "marks": [
     [
      "I",
-     36,
+     4,
      [
       [
-       93,
+       232,
        "[Page 108]"
       ]
      ]
     ],
     [
-     "L",
-     94,
-     "[Page 109]",
-     true
+     "I",
+     64,
+     [
+      [
+       976,
+       "[Page 109]"
+      ]
+     ]
     ],
     [
-     "L",
-     164,
-     "[Page 110]",
-     true
+     "I",
+     138,
+     [
+      [
+       185,
+       "[Page 110]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00274 - Electronic publishing by Bell operating companies.md",
@@ -1972,40 +1989,47 @@
   },
   {
    "id": "47_275",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00275 - Alarm monitoring services.md",
-   "printed_pages": [
-    110,
-    110
-   ]
-  },
-  {
-   "id": "47_276",
    "marks": [
     [
      "I",
-     18,
+     26,
      [
       [
-       216,
+       234,
        "[Page 111]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00276 - Provision of payphone service.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00275 - Alarm monitoring services.md",
    "printed_pages": [
     110,
     111
    ]
   },
   {
-   "id": "47_-ch5-scIII",
+   "id": "47_276",
    "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/README.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00276 - Provision of payphone service.md",
    "printed_pages": [
     111,
     111
+   ]
+  },
+  {
+   "id": "47_-ch5-scIII",
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 112]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/README.md",
+   "printed_pages": [
+    111,
+    112
    ]
   },
   {
@@ -2013,8 +2037,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    111,
-    111
+    112,
+    112
    ]
   },
   {
@@ -2022,23 +2046,16 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00301 - License for radio communication or transmission of energy.md",
    "printed_pages": [
-    111,
-    111
+    112,
+    112
    ]
   },
   {
    "id": "47_302",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 112]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00302 - Repealed. June 5, 1936, ch. 511, §1, 49 Stat. 1475.md",
    "printed_pages": [
-    111,
+    112,
     112
    ]
   },
@@ -2046,10 +2063,14 @@
    "id": "47_302a",
    "marks": [
     [
-     "L",
-     56,
-     "[Page 113]",
-     true
+     "I",
+     24,
+     [
+      [
+       244,
+       "[Page 113]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00302a - Devices which interfere with radio reception.md",
@@ -2062,40 +2083,44 @@
    "id": "47_303",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 114]",
-     true
+     "I",
+     2,
+     [
+      [
+       89,
+       "[Page 114]"
+      ]
+     ]
     ],
     [
      "I",
-     64,
+     50,
      [
       [
-       98,
+       811,
        "[Page 115]"
       ]
      ]
     ],
     [
      "L",
-     120,
+     88,
      "[Page 116]",
      true
     ],
     [
      "I",
-     196,
+     162,
      [
       [
-       164,
+       355,
        "[Page 117]"
       ]
      ]
     ],
     [
      "L",
-     276,
+     238,
      "[Page 118]",
      true
     ]
@@ -2108,11 +2133,22 @@
   },
   {
    "id": "47_303a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     42,
+     [
+      [
+       107,
+       "[Page 119]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00303a - Standards for children's television programming.md",
    "printed_pages": [
     118,
-    118
+    119
    ]
   },
   {
@@ -2120,27 +2156,16 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00303b - Consideration of children's television service in broadcast license renewal.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
    "id": "47_303c",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       403,
-       "[Page 119]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00303c - Television program improvement.md",
    "printed_pages": [
-    118,
+    119,
     119
    ]
   },
@@ -2158,47 +2183,57 @@
    "marks": [
     [
      "I",
-     24,
+     4,
      [
       [
-       153,
+       235,
        "[Page 120]"
       ]
      ]
     ],
     [
-     "L",
-     90,
-     "[Page 121]",
-     true
+     "I",
+     64,
+     [
+      [
+       207,
+       "[Page 121]"
+      ]
+     ]
     ],
     [
      "L",
-     148,
+     110,
      "[Page 122]",
      true
     ],
     [
      "I",
-     216,
+     186,
      [
       [
-       98,
+       210,
        "[Page 123]"
       ]
      ]
     ],
     [
      "L",
-     310,
+     256,
      "[Page 124]",
+     true
+    ],
+    [
+     "L",
+     352,
+     "[Page 125]",
      true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00305 - Government owned stations.md",
    "printed_pages": [
     119,
-    124
+    125
    ]
   },
   {
@@ -2206,8 +2241,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00306 - Foreign ships; application of section 301.md",
    "printed_pages": [
-    124,
-    124
+    125,
+    125
    ]
   },
   {
@@ -2215,20 +2250,10 @@
    "marks": [
     [
      "I",
-     14,
+     34,
      [
       [
-       97,
-       "[Page 125]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     62,
-     [
-      [
-       215,
+       140,
        "[Page 126]"
       ]
      ]
@@ -2236,7 +2261,7 @@
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00307 - Licenses.md",
    "printed_pages": [
-    124,
+    125,
     126
    ]
   },
@@ -2244,10 +2269,14 @@
    "id": "47_308",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 127]",
-     true
+     "I",
+     8,
+     [
+      [
+       719,
+       "[Page 127]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00308 - Requirements for license.md",
@@ -2260,88 +2289,98 @@
    "id": "47_309",
    "marks": [
     [
-     "I",
-     60,
-     [
-      [
-       333,
-       "[Page 128]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 128]",
+     true
+    ],
+    [
+     "L",
+     74,
+     "[Page 129]",
+     true
     ],
     [
      "I",
-     98,
+     132,
      [
       [
-       139,
-       "[Page 129]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     156,
-     [
-      [
-       96,
+       445,
        "[Page 130]"
       ]
      ]
     ],
     [
-     "I",
-     210,
-     [
-      [
-       527,
-       "[Page 131]"
-      ]
-     ]
-    ],
-    [
      "L",
-     286,
-     "[Page 132]",
+     180,
+     "[Page 131]",
      true
     ],
     [
      "I",
-     340,
+     246,
      [
       [
-       222,
+       92,
+       "[Page 132]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     314,
+     [
+      [
+       257,
        "[Page 133]"
       ]
      ]
     ],
     [
-     "L",
-     408,
-     "[Page 134]",
-     true
+     "I",
+     368,
+     [
+      [
+       221,
+       "[Page 134]"
+      ]
+     ]
     ],
     [
      "I",
-     478,
+     436,
      [
       [
-       277,
+       626,
        "[Page 135]"
       ]
      ]
     ],
     [
-     "L",
-     546,
-     "[Page 136]",
-     true
+     "I",
+     514,
+     [
+      [
+       109,
+       "[Page 136]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     574,
+     [
+      [
+       147,
+       "[Page 137]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00309 - Application for license.md",
    "printed_pages": [
     127,
-    136
+    137
    ]
   },
   {
@@ -2349,24 +2388,18 @@
    "marks": [
     [
      "I",
-     16,
+     30,
      [
       [
-       273,
-       "[Page 137]"
+       428,
+       "[Page 138]"
       ]
      ]
-    ],
-    [
-     "L",
-     64,
-     "[Page 138]",
-     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00310 - License ownership restrictions.md",
    "printed_pages": [
-    136,
+    137,
     138
    ]
   },
@@ -2374,10 +2407,14 @@
    "id": "47_311",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 139]",
-     true
+     "I",
+     28,
+     [
+      [
+       96,
+       "[Page 139]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00311 - Requirements as to certain applications in broadcasting service.md",
@@ -2390,14 +2427,10 @@
    "id": "47_312",
    "marks": [
     [
-     "I",
-     70,
-     [
-      [
-       118,
-       "[Page 140]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 140]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00312 - Administrative sanctions.md",
@@ -2417,30 +2450,30 @@
   },
   {
    "id": "47_313",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00313 - Application of antitrust laws to manufacture, sale, and trade in radio apparatus.md",
-   "printed_pages": [
-    140,
-    140
-   ]
-  },
-  {
-   "id": "47_314",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       1229,
+       656,
        "[Page 141]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00314 - Competition in commerce; preservation.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00313 - Application of antitrust laws to manufacture, sale, and trade in radio apparatus.md",
    "printed_pages": [
     140,
+    141
+   ]
+  },
+  {
+   "id": "47_314",
+   "marks": [],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00314 - Competition in commerce; preservation.md",
+   "printed_pages": [
+    141,
     141
    ]
   },
@@ -2449,10 +2482,10 @@
    "marks": [
     [
      "I",
-     48,
+     14,
      [
       [
-       105,
+       96,
        "[Page 142]"
       ]
      ]
@@ -2466,40 +2499,51 @@
   },
   {
    "id": "47_316",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00316 - Modification by Commission of station licenses or construction permits; burden of proof.md",
-   "printed_pages": [
-    142,
-    142
-   ]
-  },
-  {
-   "id": "47_317",
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       386,
+       183,
        "[Page 143]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00317 - Announcement of payment for broadcast.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00316 - Modification by Commission of station licenses or construction permits; burden of proof.md",
    "printed_pages": [
     142,
     143
    ]
   },
   {
-   "id": "47_318",
+   "id": "47_317",
    "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00318 - Transmitting apparatus; operator's license.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00317 - Announcement of payment for broadcast.md",
    "printed_pages": [
     143,
     143
+   ]
+  },
+  {
+   "id": "47_318",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       194,
+       "[Page 144]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00318 - Transmitting apparatus; operator's license.md",
+   "printed_pages": [
+    143,
+    144
    ]
   },
   {
@@ -2507,24 +2551,18 @@
    "marks": [
     [
      "I",
-     4,
+     22,
      [
       [
-       1029,
-       "[Page 144]"
+       103,
+       "[Page 145]"
       ]
      ]
-    ],
-    [
-     "L",
-     44,
-     "[Page 145]",
-     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00319 - Construction permits.md",
    "printed_pages": [
-    143,
+    144,
     145
    ]
   },
@@ -2548,11 +2586,22 @@
   },
   {
    "id": "47_322",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       235,
+       "[Page 146]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00322 - Exchanging radio communications between land and ship stations and from ship to ship.md",
    "printed_pages": [
     145,
-    145
+    146
    ]
   },
   {
@@ -2560,8 +2609,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00323 - Interference between Government and commercial stations.md",
    "printed_pages": [
-    145,
-    145
+    146,
+    146
    ]
   },
   {
@@ -2569,8 +2618,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00324 - Use of minimum power.md",
    "printed_pages": [
-    145,
-    145
+    146,
+    146
    ]
   },
   {
@@ -2578,46 +2627,32 @@
    "marks": [
     [
      "I",
-     8,
+     44,
      [
       [
-       88,
-       "[Page 146]"
+       282,
+       "[Page 147]"
       ]
      ]
     ],
     [
      "L",
-     58,
-     "[Page 147]",
+     90,
+     "[Page 148]",
+     true
+    ],
+    [
+     "L",
+     146,
+     "[Page 149]",
      true
     ],
     [
      "I",
-     114,
+     182,
      [
       [
-       143,
-       "[Page 148]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     168,
-     [
-      [
-       972,
-       "[Page 149]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     226,
-     [
-      [
-       340,
+       229,
        "[Page 150]"
       ]
      ]
@@ -2625,7 +2660,7 @@
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00325 - False, fraudulent, or unauthorized transmissions.md",
    "printed_pages": [
-    145,
+    146,
     150
    ]
   },
@@ -2640,11 +2675,22 @@
   },
   {
    "id": "47_327",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       1374,
+       "[Page 151]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00327 - Naval stations; use for commercial messages; rates.md",
    "printed_pages": [
     150,
-    150
+    151
    ]
   },
   {
@@ -2652,8 +2698,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00328 - Repealed. Pub. L. 103–414, title III, §304(a)(10), Oct. 25, 1994, 108 Stat. 4297.md",
    "printed_pages": [
-    150,
-    150
+    151,
+    151
    ]
   },
   {
@@ -2661,8 +2707,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00329 - Administration of radio laws in Territories and possessions.md",
    "printed_pages": [
-    150,
-    150
+    151,
+    151
    ]
   },
   {
@@ -2670,34 +2716,27 @@
    "marks": [
     [
      "I",
-     4,
+     24,
      [
       [
-       273,
-       "[Page 151]"
+       131,
+       "[Page 152]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00330 - Prohibition against shipment of certain television receivers.md",
    "printed_pages": [
-    150,
-    151
+    151,
+    152
    ]
   },
   {
    "id": "47_331",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 152]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00331 - Very high frequency stations and AM radio stations.md",
    "printed_pages": [
-    151,
+    152,
     152
    ]
   },
@@ -2705,36 +2744,42 @@
    "id": "47_332",
    "marks": [
     [
+     "L",
+     14,
+     "[Page 153]",
+     true
+    ],
+    [
      "I",
-     38,
+     50,
      [
       [
-       397,
-       "[Page 153]"
+       95,
+       "[Page 154]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     94,
+     [
+      [
+       97,
+       "[Page 155]"
       ]
      ]
     ],
     [
      "L",
-     62,
-     "[Page 154]",
+     162,
+     "[Page 156]",
      true
-    ],
-    [
-     "I",
-     118,
-     [
-      [
-       188,
-       "[Page 155]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00332 - Mobile services.md",
    "printed_pages": [
     152,
-    155
+    156
    ]
   },
   {
@@ -2742,81 +2787,93 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00333 - Willful or malicious interference.md",
    "printed_pages": [
-    155,
-    155
+    156,
+    156
    ]
   },
   {
    "id": "47_334",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 156]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00334 - Limitation on revision of equal employment opportunity regulations.md",
    "printed_pages": [
-    155,
+    156,
     156
    ]
   },
   {
    "id": "47_335",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     14,
+     [
+      [
+       179,
+       "[Page 157]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00335 - Direct broadcast satellite service obligations.md",
    "printed_pages": [
     156,
-    156
+    157
    ]
   },
   {
    "id": "47_336",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 157]",
-     true
-    ],
-    [
      "I",
-     66,
+     30,
      [
       [
-       91,
+       519,
        "[Page 158]"
       ]
      ]
     ],
     [
+     "L",
+     94,
+     "[Page 159]",
+     true
+    ],
+    [
      "I",
-     124,
+     148,
      [
       [
-       416,
-       "[Page 159]"
+       307,
+       "[Page 160]"
       ]
      ]
     ],
     [
-     "L",
-     188,
-     "[Page 160]",
-     true
+     "I",
+     230,
+     [
+      [
+       89,
+       "[Page 161]"
+      ]
+     ]
     ],
     [
-     "L",
-     256,
-     "[Page 161]",
-     true
+     "I",
+     302,
+     [
+      [
+       220,
+       "[Page 162]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00336 - Broadcast spectrum flexibility.md",
    "printed_pages": [
-    156,
-    161
+    157,
+    162
    ]
   },
   {
@@ -2824,25 +2881,29 @@
    "marks": [
     [
      "I",
-     12,
+     54,
      [
       [
-       91,
-       "[Page 162]"
+       93,
+       "[Page 163]"
       ]
      ]
     ],
     [
-     "L",
-     102,
-     "[Page 163]",
-     true
+     "I",
+     138,
+     [
+      [
+       112,
+       "[Page 164]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00337 - Allocation and assignment of new public safety services licenses and commercial licenses.md",
    "printed_pages": [
-    161,
-    163
+    162,
+    164
    ]
   },
   {
@@ -2850,46 +2911,44 @@
    "marks": [
     [
      "I",
-     20,
+     48,
      [
       [
-       144,
-       "[Page 164]"
+       96,
+       "[Page 165]"
       ]
      ]
     ],
     [
      "L",
-     78,
-     "[Page 165]",
+     134,
+     "[Page 166]",
      true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00338 - Carriage of local television signals by satellite carriers.md",
    "printed_pages": [
-    163,
-    165
+    164,
+    166
    ]
   },
   {
    "id": "47_339",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 166]",
-     true
-    ],
-    [
-     "L",
-     82,
-     "[Page 167]",
-     true
+     "I",
+     54,
+     [
+      [
+       147,
+       "[Page 167]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00339 - Carriage of distant television stations by satellite carriers.md",
    "printed_pages": [
-    165,
+    166,
     167
    ]
   },
@@ -2906,14 +2965,10 @@
    "id": "47_351",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       313,
-       "[Page 168]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 168]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00351 - Ship radio stations and operations.md",
@@ -2927,10 +2982,10 @@
    "marks": [
     [
      "I",
-     58,
+     26,
      [
       [
-       102,
+       92,
        "[Page 169]"
       ]
      ]
@@ -2944,30 +2999,30 @@
   },
   {
    "id": "47_353",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00353 - Radio equipment and operators.md",
-   "printed_pages": [
-    169,
-    169
-   ]
-  },
-  {
-   "id": "47_353a",
    "marks": [
     [
      "I",
-     10,
+     22,
      [
       [
-       368,
+       103,
        "[Page 170]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00353a - Operators and watches on radiotelephone equipped ships.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00353 - Radio equipment and operators.md",
    "printed_pages": [
     169,
+    170
+   ]
+  },
+  {
+   "id": "47_353a",
+   "marks": [],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00353a - Operators and watches on radiotelephone equipped ships.md",
+   "printed_pages": [
+    170,
     170
    ]
   },
@@ -2975,14 +3030,10 @@
    "id": "47_354",
    "marks": [
     [
-     "I",
-     38,
-     [
-      [
-       107,
-       "[Page 171]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 171]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00354 - Technical requirements of equipment on radiotelegraph equipped ships.md",
@@ -2993,30 +3044,30 @@
   },
   {
    "id": "47_354a",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00354a - Technical requirements of equipment on radiotelephone equipped ships.md",
-   "printed_pages": [
-    171,
-    171
-   ]
-  },
-  {
-   "id": "47_355",
    "marks": [
     [
      "I",
      2,
      [
       [
-       322,
+       89,
        "[Page 172]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00355 - Survival craft.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00354a - Technical requirements of equipment on radiotelephone equipped ships.md",
    "printed_pages": [
     171,
+    172
+   ]
+  },
+  {
+   "id": "47_355",
+   "marks": [],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00355 - Survival craft.md",
+   "printed_pages": [
+    172,
     172
    ]
   },
@@ -3034,10 +3085,10 @@
    "marks": [
     [
      "I",
-     26,
+     4,
      [
       [
-       270,
+       134,
        "[Page 173]"
       ]
      ]
@@ -3060,30 +3111,30 @@
   },
   {
    "id": "47_359",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00359 - Certificates of compliance; issuance, modification, and cancellation.md",
-   "printed_pages": [
-    173,
-    173
-   ]
-  },
-  {
-   "id": "47_360",
    "marks": [
     [
      "I",
      6,
      [
       [
-       185,
+       99,
        "[Page 174]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00360 - Station licenses; inspection of equipment by Commission.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00359 - Certificates of compliance; issuance, modification, and cancellation.md",
    "printed_pages": [
     173,
+    174
+   ]
+  },
+  {
+   "id": "47_360",
+   "marks": [],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00360 - Station licenses; inspection of equipment by Commission.md",
+   "printed_pages": [
+    174,
     174
    ]
   },
@@ -3098,11 +3149,22 @@
   },
   {
    "id": "47_362",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       237,
+       "[Page 175]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00362 - Forfeitures; recovery.md",
    "printed_pages": [
     174,
-    174
+    175
    ]
   },
   {
@@ -3110,8 +3172,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 002 (II) - Radio Equipment and Radio Operators on Board Ship/§ 00363 - Automated ship distress and safety systems.md",
    "printed_pages": [
-    174,
-    174
+    175,
+    175
    ]
   },
   {
@@ -3119,27 +3181,16 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 003 (III) - Radio Installations on Vessels Carrying Passengers for Hire/README.md",
    "printed_pages": [
-    174,
-    174
+    175,
+    175
    ]
   },
   {
    "id": "47_381",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       193,
-       "[Page 175]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 003 (III) - Radio Installations on Vessels Carrying Passengers for Hire/§ 00381 - Vessels transporting more than six passengers for hire required to be equipped with radiotelephone.md",
    "printed_pages": [
-    174,
+    175,
     175
    ]
   },
@@ -3154,11 +3205,18 @@
   },
   {
    "id": "47_383",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 176]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 003 (III) - Radio Installations on Vessels Carrying Passengers for Hire/§ 00383 - Exemptions by Commission.md",
    "printed_pages": [
     175,
-    175
+    176
    ]
   },
   {
@@ -3166,23 +3224,16 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 003 (III) - Radio Installations on Vessels Carrying Passengers for Hire/§ 00384 - Authority of Commission; operations, installations, and additional equipment.md",
    "printed_pages": [
-    175,
-    175
+    176,
+    176
    ]
   },
   {
    "id": "47_385",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 176]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 003 (III) - Radio Installations on Vessels Carrying Passengers for Hire/§ 00385 - Inspections.md",
    "printed_pages": [
-    175,
+    176,
     176
    ]
   },
@@ -3218,7 +3269,7 @@
    "marks": [
     [
      "L",
-     30,
+     6,
      "[Page 177]",
      true
     ]
@@ -3231,38 +3282,51 @@
   },
   {
    "id": "47_391",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       769,
+       "[Page 178]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart a - Assistance for Planning and Construction of Public Telecommunications Facilities/§ 00391 - Authorization of appropriations.md",
    "printed_pages": [
     177,
-    177
+    178
    ]
   },
   {
    "id": "47_392",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 178]",
-     true
+     "I",
+     36,
+     [
+      [
+       291,
+       "[Page 179]"
+      ]
+     ]
     ],
     [
-     "L",
-     58,
-     "[Page 179]",
-     true
-    ],
-    [
-     "L",
-     126,
-     "[Page 180]",
-     true
+     "I",
+     88,
+     [
+      [
+       157,
+       "[Page 180]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart a - Assistance for Planning and Construction of Public Telecommunications Facilities/§ 00392 - Grants for construction.md",
    "printed_pages": [
-    177,
+    178,
     180
    ]
   },
@@ -3277,11 +3341,22 @@
   },
   {
    "id": "47_393",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       106,
+       "[Page 181]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart a - Assistance for Planning and Construction of Public Telecommunications Facilities/§ 00393 - Criteria for approval and expenditures by Secretary.md",
    "printed_pages": [
     180,
-    180
+    181
    ]
   },
   {
@@ -3289,8 +3364,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart a - Assistance for Planning and Construction of Public Telecommunications Facilities/§ 00393a - Long-range planning for facilities.md",
    "printed_pages": [
-    180,
-    180
+    181,
+    181
    ]
   },
   {
@@ -3298,38 +3373,34 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart b - National Endowment for Children's Educational Television/README.md",
    "printed_pages": [
-    180,
-    180
+    181,
+    181
    ]
   },
   {
    "id": "47_394",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       93,
-       "[Page 181]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 182]",
+     true
     ],
     [
      "I",
-     68,
+     106,
      [
       [
-       242,
-       "[Page 182]"
+       106,
+       "[Page 183]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart b - National Endowment for Children's Educational Television/§ 00394 - Establishment of National Endowment.md",
    "printed_pages": [
-    180,
-    182
+    181,
+    183
    ]
   },
   {
@@ -3337,8 +3408,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart c - Telecommunications Demonstrations/README.md",
    "printed_pages": [
-    182,
-    182
+    183,
+    183
    ]
   },
   {
@@ -3346,19 +3417,19 @@
    "marks": [
     [
      "I",
-     24,
+     50,
      [
       [
-       93,
-       "[Page 183]"
+       424,
+       "[Page 184]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart c - Telecommunications Demonstrations/§ 00395 - Assistance for demonstration projects.md",
    "printed_pages": [
-    182,
-    183
+    183,
+    184
    ]
   },
   {
@@ -3366,140 +3437,132 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart d - Corporation for Public Broadcasting/README.md",
    "printed_pages": [
-    183,
-    183
+    184,
+    184
    ]
   },
   {
    "id": "47_396",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       90,
-       "[Page 184]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 185]",
+     true
     ],
     [
      "I",
-     54,
+     82,
      [
       [
-       1026,
-       "[Page 185]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     106,
-     [
-      [
-       92,
+       217,
        "[Page 186]"
       ]
      ]
     ],
     [
      "I",
-     150,
+     128,
      [
       [
-       509,
+       215,
        "[Page 187]"
       ]
      ]
     ],
     [
-     "I",
-     190,
-     [
-      [
-       145,
-       "[Page 188]"
-      ]
-     ]
+     "L",
+     166,
+     "[Page 188]",
+     true
     ],
     [
      "I",
-     218,
+     206,
      [
       [
-       93,
+       281,
        "[Page 189]"
       ]
      ]
     ],
     [
-     "L",
-     252,
-     "[Page 190]",
-     true
+     "I",
+     232,
+     [
+      [
+       138,
+       "[Page 190]"
+      ]
+     ]
     ],
     [
      "I",
-     298,
+     286,
      [
       [
-       93,
+       606,
        "[Page 191]"
       ]
      ]
     ],
     [
-     "I",
-     334,
-     [
-      [
-       203,
-       "[Page 192]"
-      ]
-     ]
+     "L",
+     314,
+     "[Page 192]",
+     true
     ],
     [
      "I",
-     400,
+     362,
      [
       [
-       103,
+       329,
        "[Page 193]"
       ]
      ]
     ],
     [
      "I",
-     472,
+     432,
      [
       [
-       695,
+       105,
        "[Page 194]"
       ]
      ]
     ],
     [
      "I",
-     514,
+     484,
      [
       [
-       162,
+       551,
        "[Page 195]"
       ]
      ]
     ],
     [
      "L",
-     592,
+     556,
      "[Page 196]",
      true
+    ],
+    [
+     "I",
+     614,
+     [
+      [
+       767,
+       "[Page 197]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart d - Corporation for Public Broadcasting/§ 00396 - Corporation for Public Broadcasting.md",
    "printed_pages": [
-    183,
-    196
+    184,
+    197
    ]
   },
   {
@@ -3507,30 +3570,38 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart e - General Provisions/README.md",
    "printed_pages": [
-    196,
-    196
+    197,
+    197
    ]
   },
   {
    "id": "47_397",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 197]",
-     true
+     "I",
+     28,
+     [
+      [
+       186,
+       "[Page 198]"
+      ]
+     ]
     ],
     [
-     "L",
-     48,
-     "[Page 198]",
-     true
+     "I",
+     76,
+     [
+      [
+       258,
+       "[Page 199]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart e - General Provisions/§ 00397 - Definitions.md",
    "printed_pages": [
-    196,
-    198
+    197,
+    199
    ]
   },
   {
@@ -3538,20 +3609,10 @@
    "marks": [
     [
      "I",
-     8,
+     18,
      [
       [
-       475,
-       "[Page 199]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     48,
-     [
-      [
-       103,
+       90,
        "[Page 200]"
       ]
      ]
@@ -3559,7 +3620,7 @@
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart e - General Provisions/§ 00398 - Federal interference or control.md",
    "printed_pages": [
-    198,
+    199,
     200
    ]
   },
@@ -3574,11 +3635,22 @@
   },
   {
    "id": "47_399a",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       94,
+       "[Page 201]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart e - General Provisions/§ 00399a - Use of business or institutional logograms.md",
    "printed_pages": [
     200,
-    200
+    201
    ]
   },
   {
@@ -3586,8 +3658,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 004 (IV) - Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for…/Subpart e - General Provisions/§ 00399b - Offering of certain services, facilities, or products by public broadcast station.md",
    "printed_pages": [
-    200,
-    200
+    201,
+    201
    ]
   },
   {
@@ -3595,27 +3667,16 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/README.md",
    "printed_pages": [
-    200,
-    200
+    201,
+    201
    ]
   },
   {
    "id": "47_401",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       185,
-       "[Page 201]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00401 - Enforcement provisions.md",
    "printed_pages": [
-    200,
+    201,
     201
    ]
   },
@@ -3623,35 +3684,34 @@
    "id": "47_402",
    "marks": [
     [
+     "I",
+     8,
+     [
+      [
+       85,
+       "[Page 202]"
+      ]
+     ]
+    ],
+    [
      "L",
-     36,
-     "[Page 202]",
+     62,
+     "[Page 203]",
      true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00402 - Judicial review of Commission's orders and decisions.md",
    "printed_pages": [
     201,
-    202
+    203
    ]
   },
   {
    "id": "47_403",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       189,
-       "[Page 203]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00403 - Inquiry by Commission on its own motion.md",
    "printed_pages": [
-    202,
+    203,
     203
    ]
   },
@@ -3668,10 +3728,14 @@
    "id": "47_405",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 204]",
-     true
+     "I",
+     2,
+     [
+      [
+       1424,
+       "[Page 204]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00405 - Petition for reconsideration; procedure; disposition; time of filing; additional evidence; time for disposition of petition for….md",
@@ -3691,11 +3755,22 @@
   },
   {
    "id": "47_407",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       658,
+       "[Page 205]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00407 - Order for payment of money; petition for enforcement; procedure; order of Commission as prima facie evidence; costs; attorneys’ fees.md",
    "printed_pages": [
     204,
-    204
+    205
    ]
   },
   {
@@ -3703,38 +3778,34 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00408 - Order not for payment of money; when effective.md",
    "printed_pages": [
-    204,
-    204
+    205,
+    205
    ]
   },
   {
    "id": "47_409",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       489,
-       "[Page 205]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 206]",
+     true
     ],
     [
      "I",
-     52,
+     72,
      [
       [
-       88,
-       "[Page 206]"
+       439,
+       "[Page 207]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00409 - Hearings.md",
    "printed_pages": [
-    204,
-    206
+    205,
+    207
    ]
   },
   {
@@ -3742,34 +3813,27 @@
    "marks": [
     [
      "I",
-     4,
+     12,
      [
       [
-       749,
-       "[Page 207]"
+       1111,
+       "[Page 208]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00410 - Joint boards and commissions.md",
    "printed_pages": [
-    206,
-    207
+    207,
+    208
    ]
   },
   {
    "id": "47_411",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 208]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00411 - Joinder of parties.md",
    "printed_pages": [
-    207,
+    208,
     208
    ]
   },
@@ -3784,11 +3848,18 @@
   },
   {
    "id": "47_413",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 209]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00413 - Designation of agent for service; method of service.md",
    "printed_pages": [
     208,
-    208
+    209
    ]
   },
   {
@@ -3796,27 +3867,16 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00414 - Exclusiveness of chapter.md",
    "printed_pages": [
-    208,
-    208
+    209,
+    209
    ]
   },
   {
    "id": "47_415",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       87,
-       "[Page 209]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00415 - Limitations of actions.md",
    "printed_pages": [
-    208,
+    209,
     209
    ]
   },
@@ -3840,11 +3900,22 @@
   },
   {
    "id": "47_501",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     12,
+     [
+      [
+       104,
+       "[Page 210]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00501 - General penalty.md",
    "printed_pages": [
     209,
-    209
+    210
    ]
   },
   {
@@ -3852,30 +3923,38 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00502 - Violation of rules, regulations, etc.md",
    "printed_pages": [
-    209,
-    209
+    210,
+    210
    ]
   },
   {
    "id": "47_503",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 210]",
-     true
+     "I",
+     30,
+     [
+      [
+       374,
+       "[Page 211]"
+      ]
+     ]
     ],
     [
-     "L",
-     44,
-     "[Page 211]",
-     true
+     "I",
+     74,
+     [
+      [
+       111,
+       "[Page 212]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00503 - Forfeitures.md",
    "printed_pages": [
-    209,
-    211
+    210,
+    212
    ]
   },
   {
@@ -3883,19 +3962,19 @@
    "marks": [
     [
      "I",
-     4,
+     44,
      [
       [
-       1118,
-       "[Page 212]"
+       106,
+       "[Page 213]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00504 - Forfeitures.md",
    "printed_pages": [
-    211,
-    212
+    212,
+    213
    ]
   },
   {
@@ -3903,8 +3982,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00505 - Venue of trials.md",
    "printed_pages": [
-    212,
-    212
+    213,
+    213
    ]
   },
   {
@@ -3912,62 +3991,62 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00506 - Repealed. Pub. L. 96–507, §1, Dec. 8, 1980, 94 Stat. 2747.md",
    "printed_pages": [
-    212,
-    212
+    213,
+    213
    ]
   },
   {
    "id": "47_507",
-   "marks": [
-    [
-     "L",
-     8,
-     "[Page 213]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00507 - Violation of Great Lakes Agreement.md",
    "printed_pages": [
-    212,
+    213,
     213
    ]
   },
   {
    "id": "47_508",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00508 - Disclosure of payments to individuals connected with broadcasts.md",
-   "printed_pages": [
-    213,
-    213
-   ]
-  },
-  {
-   "id": "47_509",
    "marks": [
     [
      "I",
-     12,
+     20,
      [
       [
-       415,
+       92,
        "[Page 214]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00509 - Prohibited practices in contests of knowledge, skill, or chance.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00508 - Disclosure of payments to individuals connected with broadcasts.md",
    "printed_pages": [
     213,
     214
    ]
   },
   {
-   "id": "47_510",
+   "id": "47_509",
    "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00510 - Forfeiture of communications devices.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00509 - Prohibited practices in contests of knowledge, skill, or chance.md",
    "printed_pages": [
     214,
     214
+   ]
+  },
+  {
+   "id": "47_510",
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 215]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005 (V) - Penal Provisions; Forfeitures/§ 00510 - Forfeiture of communications devices.md",
+   "printed_pages": [
+    214,
+    215
    ]
   },
   {
@@ -3975,8 +4054,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/README.md",
    "printed_pages": [
-    214,
-    214
+    215,
+    215
    ]
   },
   {
@@ -3984,8 +4063,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    214,
-    214
+    215,
+    215
    ]
   },
   {
@@ -3993,25 +4072,21 @@
    "marks": [
     [
      "L",
-     18,
-     "[Page 215]",
+     44,
+     "[Page 216]",
      true
     ],
     [
-     "I",
-     70,
-     [
-      [
-       577,
-       "[Page 216]"
-      ]
-     ]
+     "L",
+     96,
+     "[Page 217]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 001 (I) - General Provisions/§ 00521 - Purposes.md",
    "printed_pages": [
-    214,
-    216
+    215,
+    217
    ]
   },
   {
@@ -4019,24 +4094,18 @@
    "marks": [
     [
      "I",
-     12,
+     32,
      [
       [
-       89,
-       "[Page 217]"
+       272,
+       "[Page 218]"
       ]
      ]
-    ],
-    [
-     "L",
-     78,
-     "[Page 218]",
-     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 001 (I) - General Provisions/§ 00522 - Definitions.md",
    "printed_pages": [
-    216,
+    217,
     218
    ]
   },
@@ -4051,11 +4120,22 @@
   },
   {
    "id": "47_531",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     28,
+     [
+      [
+       180,
+       "[Page 219]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 002 (II) - Use of Cable Channels and Cable Ownership Restrictions/§ 00531 - Cable channels for public, educational, or governmental use.md",
    "printed_pages": [
     218,
-    218
+    219
    ]
   },
   {
@@ -4063,113 +4143,11 @@
    "marks": [
     [
      "I",
-     16,
+     36,
      [
       [
-       223,
-       "[Page 219]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     56,
-     [
-      [
-       95,
+       92,
        "[Page 220]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     102,
-     "[Page 221]",
-     true
-    ]
-   ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 002 (II) - Use of Cable Channels and Cable Ownership Restrictions/§ 00532 - Cable channels for commercial use.md",
-   "printed_pages": [
-    218,
-    221
-   ]
-  },
-  {
-   "id": "47_533",
-   "marks": [
-    [
-     "I",
-     42,
-     [
-      [
-       134,
-       "[Page 222]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 002 (II) - Use of Cable Channels and Cable Ownership Restrictions/§ 00533 - Ownership restrictions.md",
-   "printed_pages": [
-    221,
-    222
-   ]
-  },
-  {
-   "id": "47_534",
-   "marks": [
-    [
-     "I",
-     24,
-     [
-      [
-       93,
-       "[Page 223]"
-      ]
-     ]
-    ],
-    [
-     "L",
-     64,
-     "[Page 224]",
-     true
-    ],
-    [
-     "I",
-     116,
-     [
-      [
-       611,
-       "[Page 225]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     160,
-     [
-      [
-       603,
-       "[Page 226]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 002 (II) - Use of Cable Channels and Cable Ownership Restrictions/§ 00534 - Carriage of local commercial television signals.md",
-   "printed_pages": [
-    222,
-    226
-   ]
-  },
-  {
-   "id": "47_535",
-   "marks": [
-    [
-     "I",
-     32,
-     [
-      [
-       139,
-       "[Page 227]"
       ]
      ]
     ],
@@ -4178,21 +4156,117 @@
      74,
      [
       [
-       363,
-       "[Page 228]"
+       641,
+       "[Page 221]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 002 (II) - Use of Cable Channels and Cable Ownership Restrictions/§ 00532 - Cable channels for commercial use.md",
+   "printed_pages": [
+    219,
+    221
+   ]
+  },
+  {
+   "id": "47_533",
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       88,
+       "[Page 222]"
       ]
      ]
     ],
     [
      "L",
-     138,
-     "[Page 229]",
+     76,
+     "[Page 223]",
      true
+    ]
+   ],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 002 (II) - Use of Cable Channels and Cable Ownership Restrictions/§ 00533 - Ownership restrictions.md",
+   "printed_pages": [
+    221,
+    223
+   ]
+  },
+  {
+   "id": "47_534",
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       814,
+       "[Page 224]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     86,
+     [
+      [
+       1140,
+       "[Page 225]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     138,
+     [
+      [
+       181,
+       "[Page 226]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     196,
+     "[Page 227]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 002 (II) - Use of Cable Channels and Cable Ownership Restrictions/§ 00534 - Carriage of local commercial television signals.md",
+   "printed_pages": [
+    223,
+    227
+   ]
+  },
+  {
+   "id": "47_535",
+   "marks": [
+    [
+     "I",
+     52,
+     [
+      [
+       279,
+       "[Page 228]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     102,
+     [
+      [
+       492,
+       "[Page 229]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 002 (II) - Use of Cable Channels and Cable Ownership Restrictions/§ 00535 - Carriage of noncommercial educational television.md",
    "printed_pages": [
-    226,
+    227,
     229
    ]
   },
@@ -4207,11 +4281,22 @@
   },
   {
    "id": "47_537",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       283,
+       "[Page 230]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 002 (II) - Use of Cable Channels and Cable Ownership Restrictions/§ 00537 - Sales of cable systems.md",
    "printed_pages": [
     229,
-    229
+    230
    ]
   },
   {
@@ -4219,37 +4304,23 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/README.md",
    "printed_pages": [
-    229,
-    229
+    230,
+    230
    ]
   },
   {
    "id": "47_541",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       137,
-       "[Page 230]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     78,
-     [
-      [
-       376,
-       "[Page 231]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 231]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00541 - General franchise requirements.md",
    "printed_pages": [
-    229,
+    230,
     231
    ]
   },
@@ -4257,14 +4328,10 @@
    "id": "47_542",
    "marks": [
     [
-     "I",
-     60,
-     [
-      [
-       147,
-       "[Page 232]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 232]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00542 - Franchise fees.md",
@@ -4278,49 +4345,41 @@
    "marks": [
     [
      "I",
-     44,
+     18,
      [
       [
-       321,
+       90,
        "[Page 233]"
       ]
      ]
     ],
     [
-     "I",
-     106,
-     [
-      [
-       269,
-       "[Page 234]"
-      ]
-     ]
+     "L",
+     78,
+     "[Page 234]",
+     true
     ],
     [
      "I",
-     170,
+     138,
      [
       [
-       96,
+       313,
        "[Page 235]"
       ]
      ]
     ],
     [
      "L",
-     236,
+     196,
      "[Page 236]",
      true
     ],
     [
-     "I",
-     292,
-     [
-      [
-       104,
-       "[Page 237]"
-      ]
-     ]
+     "L",
+     264,
+     "[Page 237]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00543 - Regulation of rates.md",
@@ -4334,19 +4393,25 @@
    "marks": [
     [
      "I",
-     56,
+     24,
      [
       [
-       266,
+       282,
        "[Page 238]"
       ]
      ]
+    ],
+    [
+     "L",
+     96,
+     "[Page 239]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00544 - Regulation of services, facilities, and equipment.md",
    "printed_pages": [
     237,
-    238
+    239
    ]
   },
   {
@@ -4354,34 +4419,35 @@
    "marks": [
     [
      "I",
-     18,
+     52,
      [
       [
-       594,
-       "[Page 239]"
+       100,
+       "[Page 240]"
       ]
      ]
-    ],
-    [
-     "L",
-     86,
-     "[Page 240]",
-     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00544a - Consumer electronics equipment compatibility.md",
    "printed_pages": [
-    238,
+    239,
     240
    ]
   },
   {
    "id": "47_545",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 241]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00545 - Modification of franchise obligations.md",
    "printed_pages": [
     240,
-    240
+    241
    ]
   },
   {
@@ -4389,25 +4455,21 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 241]",
+     34,
+     "[Page 242]",
      true
     ],
     [
-     "I",
-     56,
-     [
-      [
-       90,
-       "[Page 242]"
-      ]
-     ]
+     "L",
+     88,
+     "[Page 243]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00546 - Renewal.md",
    "printed_pages": [
-    240,
-    242
+    241,
+    243
    ]
   },
   {
@@ -4415,8 +4477,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00547 - Conditions of sale.md",
    "printed_pages": [
-    242,
-    242
+    243,
+    243
    ]
   },
   {
@@ -4424,40 +4486,45 @@
    "marks": [
     [
      "I",
-     4,
+     28,
      [
       [
-       321,
-       "[Page 243]"
+       183,
+       "[Page 244]"
       ]
      ]
     ],
     [
-     "L",
-     54,
-     "[Page 244]",
-     true
-    ],
-    [
-     "L",
-     132,
-     "[Page 245]",
-     true
+     "I",
+     96,
+     [
+      [
+       97,
+       "[Page 245]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00548 - Development of competition and diversity in video programming distribution.md",
    "printed_pages": [
-    242,
+    243,
     245
    ]
   },
   {
    "id": "47_549",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 246]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 003 (III) - Franchising and Regulation/§ 00549 - Competitive availability of navigation devices.md",
    "printed_pages": [
     245,
-    245
+    246
    ]
   },
   {
@@ -4465,95 +4532,96 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/README.md",
    "printed_pages": [
-    245,
-    245
+    246,
+    246
    ]
   },
   {
    "id": "47_551",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       146,
-       "[Page 246]"
-      ]
-     ]
-    ],
-    [
      "L",
-     96,
+     56,
      "[Page 247]",
      true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00551 - Protection of subscriber privacy.md",
    "printed_pages": [
-    245,
+    246,
     247
    ]
   },
   {
    "id": "47_552",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00552 - Consumer protection and customer service.md",
-   "printed_pages": [
-    247,
-    247
-   ]
-  },
-  {
-   "id": "47_553",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 248]",
-     true
+     "I",
+     22,
+     [
+      [
+       385,
+       "[Page 248]"
+      ]
+     ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00553 - Unauthorized reception of cable service.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00552 - Consumer protection and customer service.md",
    "printed_pages": [
     247,
     248
    ]
   },
   {
-   "id": "47_554",
+   "id": "47_553",
    "marks": [
     [
      "I",
-     20,
+     34,
      [
       [
-       140,
+       186,
        "[Page 249]"
       ]
      ]
-    ],
+    ]
+   ],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00553 - Unauthorized reception of cable service.md",
+   "printed_pages": [
+    248,
+    249
+   ]
+  },
+  {
+   "id": "47_554",
+   "marks": [
     [
-     "I",
-     86,
-     [
-      [
-       94,
-       "[Page 250]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 250]",
+     true
     ],
     [
      "L",
-     142,
+     98,
      "[Page 251]",
      true
+    ],
+    [
+     "I",
+     180,
+     [
+      [
+       710,
+       "[Page 252]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00554 - Equal employment opportunity.md",
    "printed_pages": [
-    248,
-    251
+    249,
+    252
    ]
   },
   {
@@ -4561,37 +4629,37 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00555 - Judicial proceedings.md",
    "printed_pages": [
-    251,
-    251
+    252,
+    252
    ]
   },
   {
    "id": "47_555a",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       321,
-       "[Page 252]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00555a - Limitation of franchising authority liability.md",
    "printed_pages": [
-    251,
+    252,
     252
    ]
   },
   {
    "id": "47_556",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       94,
+       "[Page 253]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00556 - Coordination of Federal, State, and local authority.md",
    "printed_pages": [
     252,
-    252
+    253
    ]
   },
   {
@@ -4599,27 +4667,16 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00557 - Existing franchises.md",
    "printed_pages": [
-    252,
-    252
+    253,
+    253
    ]
   },
   {
    "id": "47_558",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       289,
-       "[Page 253]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00558 - Criminal and civil liability.md",
    "printed_pages": [
-    252,
+    253,
     253
    ]
   },
@@ -4634,11 +4691,18 @@
   },
   {
    "id": "47_560",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 254]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00560 - Scrambling of cable channels for nonsubscribers.md",
    "printed_pages": [
     253,
-    253
+    254
    ]
   },
   {
@@ -4646,8 +4710,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 004 (IV) - Miscellaneous Provisions/§ 00561 - Scrambling of sexually explicit adult video service programming.md",
    "printed_pages": [
-    253,
-    253
+    254,
+    254
    ]
   },
   {
@@ -4655,27 +4719,16 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 005 (V) - Video Programming Services Provided by Telephone Companies/README.md",
    "printed_pages": [
-    253,
-    253
+    254,
+    254
    ]
   },
   {
    "id": "47_571",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       179,
-       "[Page 254]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 005 (V) - Video Programming Services Provided by Telephone Companies/§ 00571 - Regulatory treatment of video programming services.md",
    "printed_pages": [
-    253,
+    254,
     254
    ]
   },
@@ -4684,40 +4737,40 @@
    "marks": [
     [
      "L",
-     44,
+     6,
      "[Page 255]",
      true
+    ],
+    [
+     "I",
+     68,
+     [
+      [
+       178,
+       "[Page 256]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 005 (V) - Video Programming Services Provided by Telephone Companies/§ 00572 - Prohibition on buy outs.md",
    "printed_pages": [
     254,
-    255
+    256
    ]
   },
   {
    "id": "47_573",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       229,
-       "[Page 256]"
-      ]
-     ]
-    ],
-    [
      "L",
-     80,
+     38,
      "[Page 257]",
      true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 005–A (V–A) - Cable Communications/Part 005 (V) - Video Programming Services Provided by Telephone Companies/§ 00573 - Establishment of open video systems.md",
    "printed_pages": [
-    255,
+    256,
     257
    ]
   },
@@ -4741,30 +4794,30 @@
   },
   {
    "id": "47_602,_603",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00602, 603 - Repealed. Pub. L. 103–414, title III, §304(a)(13), Oct. 25, 1994, 108 Stat. 4297.md",
-   "printed_pages": [
-    257,
-    257
-   ]
-  },
-  {
-   "id": "47_604",
    "marks": [
     [
      "I",
-     20,
+     2,
      [
       [
-       489,
+       114,
        "[Page 258]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00604 - Effect of transfer.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00602, 603 - Repealed. Pub. L. 103–414, title III, §304(a)(13), Oct. 25, 1994, 108 Stat. 4297.md",
    "printed_pages": [
     257,
+    258
+   ]
+  },
+  {
+   "id": "47_604",
+   "marks": [],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00604 - Effect of transfer.md",
+   "printed_pages": [
+    258,
     258
    ]
   },
@@ -4772,22 +4825,36 @@
    "id": "47_605",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 259]",
-     true
+     "I",
+     4,
+     [
+      [
+       1267,
+       "[Page 259]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     58,
+     [
+      [
+       375,
+       "[Page 260]"
+      ]
+     ]
     ],
     [
      "L",
-     88,
-     "[Page 260]",
+     120,
+     "[Page 261]",
      true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00605 - Unauthorized publication or use of communications.md",
    "printed_pages": [
     258,
-    260
+    261
    ]
   },
   {
@@ -4795,29 +4862,25 @@
    "marks": [
     [
      "I",
-     4,
+     12,
      [
       [
-       234,
-       "[Page 261]"
+       1270,
+       "[Page 262]"
       ]
      ]
     ],
     [
-     "I",
-     32,
-     [
-      [
-       629,
-       "[Page 262]"
-      ]
-     ]
+     "L",
+     70,
+     "[Page 263]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00606 - War powers of President.md",
    "printed_pages": [
-    260,
-    262
+    261,
+    263
    ]
   },
   {
@@ -4825,8 +4888,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00607 - Effective date of chapter.md",
    "printed_pages": [
-    262,
-    262
+    263,
+    263
    ]
   },
   {
@@ -4834,8 +4897,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00608 - Separability.md",
    "printed_pages": [
-    262,
-    262
+    263,
+    263
    ]
   },
   {
@@ -4843,64 +4906,61 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 263]",
+     34,
+     "[Page 264]",
      true
     ],
     [
      "I",
-     66,
+     96,
      [
       [
-       111,
-       "[Page 264]"
+       114,
+       "[Page 265]"
       ]
      ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00609 - Short title.md",
    "printed_pages": [
-    262,
-    264
+    263,
+    265
    ]
   },
   {
    "id": "47_610",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       92,
-       "[Page 265]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     80,
-     [
-      [
-       218,
-       "[Page 266]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 266]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00610 - Telephone service for disabled.md",
    "printed_pages": [
-    264,
+    265,
     266
    ]
   },
   {
    "id": "47_611",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     6,
+     [
+      [
+       91,
+       "[Page 267]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00611 - Closed-captioning of public service announcements.md",
    "printed_pages": [
     266,
-    266
+    267
    ]
   },
   {
@@ -4908,79 +4968,79 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00612 - Syndicated exclusivity.md",
    "printed_pages": [
-    266,
-    266
+    267,
+    267
    ]
   },
   {
    "id": "47_613",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 267]",
-     true
+     "I",
+     42,
+     [
+      [
+       86,
+       "[Page 268]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00613 - Video programming accessibility.md",
    "printed_pages": [
-    266,
-    267
+    267,
+    268
    ]
   },
   {
    "id": "47_614",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 268]",
-     true
-    ],
-    [
      "I",
-     108,
+     62,
      [
       [
-       410,
+       92,
        "[Page 269]"
       ]
      ]
+    ],
+    [
+     "L",
+     140,
+     "[Page 270]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00614 - Telecommunications Development Fund.md",
    "printed_pages": [
-    267,
-    269
+    268,
+    270
    ]
   },
   {
    "id": "47_615",
-   "marks": [
-    [
-     "I",
-     28,
-     [
-      [
-       107,
-       "[Page 270]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00615 - Support for universal emergency telephone number.md",
    "printed_pages": [
-    269,
+    270,
     270
    ]
   },
   {
    "id": "47_615a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 271]",
+     true
+    ]
+   ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00615a - Parity of protection for provision or use of wireless service.md",
    "printed_pages": [
     270,
-    270
+    271
    ]
   },
   {
@@ -4988,8 +5048,8 @@
    "marks": [],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 006 (VI) - Miscellaneous Provisions/§ 00615b - Definitions.md",
    "printed_pages": [
-    270,
-    270
+    271,
+    271
    ]
   },
   {
@@ -4997,19 +5057,19 @@
    "marks": [
     [
      "I",
-     7,
+     71,
      [
       [
-       15,
-       "[Page 271]"
+       54,
+       "[Page 272]"
       ]
      ]
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/README.md",
    "printed_pages": [
-    270,
-    271
+    271,
+    272
    ]
   },
   {
@@ -5017,37 +5077,23 @@
    "marks": [],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    271,
-    271
+    272,
+    272
    ]
   },
   {
    "id": "47_701",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       87,
-       "[Page 272]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     80,
-     [
-      [
-       97,
-       "[Page 273]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 273]",
+     true
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 001 (I) - General Provisions/§ 00701 - Congressional declaration of policy and purpose.md",
    "printed_pages": [
-    271,
+    272,
     273
    ]
   },
@@ -5055,10 +5101,14 @@
    "id": "47_702",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 274]",
-     true
+     "I",
+     8,
+     [
+      [
+       85,
+       "[Page 274]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 001 (I) - General Provisions/§ 00702 - Definitions.md",
@@ -5081,7 +5131,7 @@
    "marks": [
     [
      "L",
-     66,
+     32,
      "[Page 275]",
      true
     ]
@@ -5112,11 +5162,18 @@
   },
   {
    "id": "47_732",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 276]",
+     true
+    ]
+   ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 003 (III) - Communications Satellite Corporation/§ 00732 - Applicable laws.md",
    "printed_pages": [
     275,
-    275
+    276
    ]
   },
   {
@@ -5124,27 +5181,16 @@
    "marks": [],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 003 (III) - Communications Satellite Corporation/§ 00733, 734 - Omitted.md",
    "printed_pages": [
-    275,
-    275
+    276,
+    276
    ]
   },
   {
    "id": "47_735",
-   "marks": [
-    [
-     "I",
-     38,
-     [
-      [
-       111,
-       "[Page 276]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 006 - Communications Satellite System/Subchapter 003 (III) - Communications Satellite Corporation/§ 00735 - Powers of corporation.md",
+   "marks": [],
+   "path": "Chapter 006 - Communications Satellite System/Subchapter 003 (III) - Communications Satellite Corporation/§ 00735 - Omitted.md",
    "printed_pages": [
-    275,
+    276,
     276
    ]
   },
@@ -5180,7 +5226,7 @@
    "marks": [
     [
      "L",
-     20,
+     10,
      "[Page 277]",
      true
     ]
@@ -5223,7 +5269,7 @@
    "marks": [
     [
      "L",
-     38,
+     30,
      "[Page 278]",
      true
     ]
@@ -5274,10 +5320,14 @@
    "id": "47_761",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 279]",
-     true
+     "I",
+     26,
+     [
+      [
+       94,
+       "[Page 279]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part A - Actions to Ensure Pro-Competitive Privatization/§ 00761 - Federal Communications Commission licensing.md",
@@ -5288,11 +5338,18 @@
   },
   {
    "id": "47_761a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 280]",
+     true
+    ]
+   ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part A - Actions to Ensure Pro-Competitive Privatization/§ 00761a - Incentives; limitation on expansion pending privatization.md",
    "printed_pages": [
     279,
-    279
+    280
    ]
   },
   {
@@ -5300,33 +5357,23 @@
    "marks": [],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part B - Federal Communications Commission Licensing Criteria Privatization Criteria/README.md",
    "printed_pages": [
-    279,
-    279
+    280,
+    280
    ]
   },
   {
    "id": "47_763",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       266,
-       "[Page 280]"
-      ]
-     ]
-    ],
-    [
      "L",
-     66,
+     60,
      "[Page 281]",
      true
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part B - Federal Communications Commission Licensing Criteria Privatization Criteria/§ 00763 - General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat.md",
    "printed_pages": [
-    279,
+    280,
     281
    ]
   },
@@ -5350,19 +5397,10 @@
   },
   {
    "id": "47_763c",
-   "marks": [],
-   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part B - Federal Communications Commission Licensing Criteria Privatization Criteria/§ 00763c - Specific criteria for Inmarsat.md",
-   "printed_pages": [
-    281,
-    281
-   ]
-  },
-  {
-   "id": "47_763d",
    "marks": [
     [
      "I",
-     6,
+     10,
      [
       [
        95,
@@ -5371,9 +5409,18 @@
      ]
     ]
    ],
-   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part B - Federal Communications Commission Licensing Criteria Privatization Criteria/§ 00763d - Encouraging market access and privatization.md",
+   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part B - Federal Communications Commission Licensing Criteria Privatization Criteria/§ 00763c - Specific criteria for Inmarsat.md",
    "printed_pages": [
     281,
+    282
+   ]
+  },
+  {
+   "id": "47_763d",
+   "marks": [],
+   "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part B - Federal Communications Commission Licensing Criteria Privatization Criteria/§ 00763d - Encouraging market access and privatization.md",
+   "printed_pages": [
+    282,
     282
    ]
   },
@@ -5399,10 +5446,14 @@
    "id": "47_765a",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 283]",
-     true
+     "I",
+     16,
+     [
+      [
+       91,
+       "[Page 283]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765a - Signatory role.md",
@@ -5442,14 +5493,10 @@
    "id": "47_765e",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       271,
-       "[Page 284]"
-      ]
-     ]
+     "L",
+     18,
+     "[Page 284]",
+     true
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part C - Deregulation and Other Statutory Changes/§ 00765e - Reports to Congress.md",
@@ -5507,14 +5554,10 @@
    "id": "47_769",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       92,
-       "[Page 285]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 285]",
+     true
     ]
    ],
    "path": "Chapter 006 - Communications Satellite System/Subchapter 006 (VI) - Communications Competition and Privatization/Part E - Definitions/§ 00769 - Definitions.md",
@@ -5534,30 +5577,26 @@
   },
   {
    "id": "47_801_to_805",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 286]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Campaign Communications/§ 00801 to 805 - Repealed. Pub. L. 93–443, title II, §205(b), Oct. 15, 1974, 88 Stat. 1278.md",
    "printed_pages": [
     285,
-    285
+    286
    ]
   },
   {
    "id": "47_-ch8",
-   "marks": [
-    [
-     "I",
-     9,
-     [
-      [
-       15,
-       "[Page 286]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - National Telecommunications and Information Administration/README.md",
    "printed_pages": [
-    285,
+    286,
     286
    ]
   },
@@ -5574,10 +5613,14 @@
    "id": "47_901",
    "marks": [
     [
-     "L",
-     48,
-     "[Page 287]",
-     true
+     "I",
+     36,
+     [
+      [
+       96,
+       "[Page 287]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 001 (I) - Organization and Functions/§ 00901 - Definitions; findings; policy.md",
@@ -5591,19 +5634,15 @@
    "marks": [
     [
      "L",
-     48,
+     40,
      "[Page 288]",
      true
     ],
     [
-     "I",
-     110,
-     [
-      [
-       168,
-       "[Page 289]"
-      ]
-     ]
+     "L",
+     98,
+     "[Page 289]",
+     true
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 001 (I) - Organization and Functions/§ 00902 - Establishment; assigned functions.md",
@@ -5617,10 +5656,10 @@
    "marks": [
     [
      "I",
-     46,
+     36,
      [
       [
-       95,
+       174,
        "[Page 290]"
       ]
      ]
@@ -5636,10 +5675,14 @@
    "id": "47_904",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 291]",
-     true
+     "I",
+     18,
+     [
+      [
+       222,
+       "[Page 291]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 001 (I) - Organization and Functions/§ 00904 - General administrative provisions.md",
@@ -5670,16 +5713,24 @@
    "id": "47_921",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 292]",
-     true
+     "I",
+     18,
+     [
+      [
+       114,
+       "[Page 292]"
+      ]
+     ]
     ],
     [
-     "L",
-     106,
-     "[Page 293]",
-     true
+     "I",
+     98,
+     [
+      [
+       111,
+       "[Page 293]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00921 - Definitions.md",
@@ -5702,35 +5753,39 @@
    "marks": [
     [
      "L",
-     60,
+     42,
      "[Page 294]",
      true
     ],
     [
      "I",
-     132,
+     126,
      [
       [
-       141,
+       134,
        "[Page 295]"
       ]
      ]
     ],
     [
      "I",
-     184,
+     180,
      [
       [
-       326,
+       292,
        "[Page 296]"
       ]
      ]
     ],
     [
-     "L",
-     238,
-     "[Page 297]",
-     true
+     "I",
+     236,
+     [
+      [
+       213,
+       "[Page 297]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00923 - Identification of reallocable frequencies.md",
@@ -5744,7 +5799,7 @@
    "marks": [
     [
      "L",
-     64,
+     52,
      "[Page 298]",
      true
     ]
@@ -5760,7 +5815,7 @@
    "marks": [
     [
      "L",
-     80,
+     72,
      "[Page 299]",
      true
     ]
@@ -5773,26 +5828,26 @@
   },
   {
    "id": "47_926",
-   "marks": [],
-   "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00926 - Authority to recover reassigned frequencies.md",
-   "printed_pages": [
-    299,
-    299
-   ]
-  },
-  {
-   "id": "47_927",
    "marks": [
     [
      "L",
-     6,
+     32,
      "[Page 300]",
      true
     ]
    ],
-   "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00927 - Existing allocation and transfer authority retained.md",
+   "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00926 - Authority to recover reassigned frequencies.md",
    "printed_pages": [
     299,
+    300
+   ]
+  },
+  {
+   "id": "47_927",
+   "marks": [],
+   "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00927 - Existing allocation and transfer authority retained.md",
+   "printed_pages": [
+    300,
     300
    ]
   },
@@ -5818,14 +5873,10 @@
    "id": "47_1001",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       92,
-       "[Page 301]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 301]",
+     true
     ]
    ],
    "path": "Chapter 009 - Interception of Digital and Other Communications/Subchapter 001 (I) - Interception of Digital and Other Communications/§ 01001 - Definitions.md",
@@ -5839,10 +5890,10 @@
    "marks": [
     [
      "I",
-     44,
+     32,
      [
       [
-       91,
+       176,
        "[Page 302]"
       ]
      ]
@@ -5859,10 +5910,10 @@
    "marks": [
     [
      "I",
-     38,
+     32,
      [
       [
-       184,
+       95,
        "[Page 303]"
       ]
      ]
@@ -5897,10 +5948,10 @@
    "marks": [
     [
      "I",
-     14,
+     10,
      [
       [
-       91,
+       183,
        "[Page 304]"
       ]
      ]
@@ -5917,10 +5968,10 @@
    "marks": [
     [
      "I",
-     24,
+     20,
      [
       [
-       135,
+       151,
        "[Page 305]"
       ]
      ]
@@ -5937,10 +5988,10 @@
    "marks": [
     [
      "I",
-     62,
+     58,
      [
       [
-       267,
+       90,
        "[Page 306]"
       ]
      ]
@@ -5963,11 +6014,18 @@
   },
   {
    "id": "47_1010",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 307]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Interception of Digital and Other Communications/Subchapter 001 (I) - Interception of Digital and Other Communications/§ 01010 - Reports.md",
    "printed_pages": [
     306,
-    306
+    307
    ]
   },
   {
@@ -5975,23 +6033,16 @@
    "marks": [],
    "path": "Chapter 009 - Interception of Digital and Other Communications/Subchapter 002 (II) - Telecommunications Carrier Compliance Payments/README.md",
    "printed_pages": [
-    306,
-    306
+    307,
+    307
    ]
   },
   {
    "id": "47_1021",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 307]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 009 - Interception of Digital and Other Communications/Subchapter 002 (II) - Telecommunications Carrier Compliance Payments/§ 01021 - Department of Justice Telecommunications Carrier Compliance Fund.md",
    "printed_pages": [
-    306,
+    307,
     307
    ]
   },
@@ -6000,10 +6051,10 @@
    "marks": [
     [
      "I",
-     25,
+     11,
      [
       [
-       52,
+       20,
        "[Page 308]"
       ]
      ]
@@ -6029,7 +6080,7 @@
    "marks": [
     [
      "L",
-     56,
+     46,
      "[Page 309]",
      true
     ]
@@ -6045,30 +6096,26 @@
    "marks": [
     [
      "I",
-     64,
+     62,
      [
       [
-       186,
+       97,
        "[Page 310]"
       ]
      ]
     ],
     [
-     "I",
-     138,
-     [
-      [
-       90,
-       "[Page 311]"
-      ]
-     ]
+     "L",
+     132,
+     "[Page 311]",
+     true
     ],
     [
      "I",
-     204,
+     196,
      [
       [
-       98,
+       279,
        "[Page 312]"
       ]
      ]
@@ -6084,17 +6131,21 @@
    "id": "47_1104",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 313]",
-     true
+     "I",
+     52,
+     [
+      [
+       98,
+       "[Page 313]"
+      ]
+     ]
     ],
     [
      "I",
-     138,
+     132,
      [
       [
-       90,
+       85,
        "[Page 314]"
       ]
      ]
@@ -6110,10 +6161,14 @@
    "id": "47_1105",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 315]",
-     true
+     "I",
+     22,
+     [
+      [
+       97,
+       "[Page 315]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 010 - Local TV/§ 01105 - Annual audit.md",
@@ -6126,14 +6181,10 @@
    "id": "47_1106",
    "marks": [
     [
-     "I",
-     76,
-     [
-      [
-       135,
-       "[Page 316]"
-      ]
-     ]
+     "L",
+     70,
+     "[Page 316]",
+     true
     ]
    ],
    "path": "Chapter 010 - Local TV/§ 01106 - Improved cellular service in rural areas.md",
@@ -6174,10 +6225,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       187,
+       181,
        "[Page 317]"
       ]
      ]
@@ -6190,6 +6241,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2000-title47 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2001-title47 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 47 - Telegraphs, Telephones, and Radiotelegraphs"
 }

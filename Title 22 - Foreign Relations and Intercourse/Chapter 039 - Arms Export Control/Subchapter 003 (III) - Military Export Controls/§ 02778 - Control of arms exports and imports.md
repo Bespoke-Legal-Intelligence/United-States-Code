@@ -4,7 +4,7 @@
 
 (1) In furtherance of world peace and the security and foreign policy of the United States, the President is authorized to control the import and the export of defense articles and defense services and to provide foreign policy guidance to persons of the United States involved in the export and import of such articles and services. The President is authorized to designate those items which shall be considered as defense articles and defense services for the purposes of this section and to promulgate regulations for the import and export of such articles and services. The items so designated shall constitute the United States Munitions List.
 
-(2) Decisions on issuing export licenses under this section shall take into account whether the export of an article would contribute to an arms race, aid in the development of weapons of massdestruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements.
+(2) Decisions on issuing export licenses under this section shall take into account whether the export of an article would contribute to an arms race, aid in the development of weapons of mass destruction, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control or nonproliferation agreements or other arrangements.
 
 (3) In exercising the authorities conferred by this section, the President may require that any defense article or defense service be sold under this chapter as a condition of its eligibility for export, and may require that persons engaged in the negotiation for the export of defense articles and services keep the President fully and currently informed of the progress and future prospects of such negotiations.
 
@@ -86,7 +86,7 @@ In carrying out functions under this section with respect to the export of defen
 
 &emsp;&emsp;(viii) section 4(b) of the Internal Security Act of 1950 (relating to communication of classified information; 50 U.S.C. 783(b)),
 
-&emsp;&emsp;(ix) section 57, 92, 101, 104, 222, 224, 225, or 226 of the Atomic Energy Act of 1954 (42U.S.C. 2077, 2122, 2131, 2134, 2272, 2274, 2275, and 2276),
+&emsp;&emsp;(ix) section 57, 92, 101, 104, 222, 224, 225, or 226 of the Atomic Energy Act of 1954 (42 U.S.C. 2077, 2122, 2131, 2134, 2272, 2274, 2275, and 2276),
 
 &emsp;&emsp;(x) section 601 of the National Security Act of 1947 (relating to intelligence identities protection; 50 U.S.C. 421), or
 
@@ -266,7 +266,7 @@ Subsec. (h). Pub. L. 101–222, §6, added subsec. (h).
 
 1987—Subsec. (b)(1). Pub. L. 100–204, §1255(b), designated existing provisions as subpar. (A) and added subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
 
-Pub. L. 100–202 designated existing provisions as subpar. (A) and added subpar. (B) relating to allowance of return to United States of certain military firearms, etc., under certain circumstances.
+Pub. L. 100–202 designated existing provisions as subpar. (A) and added subpar. (B) relating to allowance ofreturn to United States of certain military firearms, etc., under certain circumstances.
 
 Subsec. (b)(3). Pub. L. 100–204, §1255(c), added par. (3).
 
@@ -366,7 +366,7 @@ Additional requirements.—In establishing the regulatory regime under paragraph
 
 “(b)
 
-Financial and Personnel Resources.—Of the funds authorized to be appropriated in section 101(1)(A) \[113 Stat. 1501A–410\], $9,000,000 is authorized to be appropriated for the Office of Defense Trade Controls of the Department of State for each of the fiscal years2000 and 2001, to enable that office to carry out its responsibilities.
+Financial and Personnel Resources.—Of the funds authorized to be appropriated in section 101(1)(A) \[113 Stat. 1501A–410\], $9,000,000 is authorized to be appropriated for the Office of Defense Trade Controls of the Department of State for each of the fiscal years 2000 and 2001, to enable that office to carry out its responsibilities.
 
 “(c)
 
@@ -378,7 +378,7 @@ Improvement and Assessment.—The Secretary of State should, not later than 6 mo
 
 #### Proliferation and Export Controls
 
-Pub. L. 106–65, div. A, title XIV, §§1402–1405, 1408–1412, Oct. 5, 1999, 113 Stat. 798–804, as amended by Pub. L. 106–398, §1 \[\[div. A\], title XII, §1204\], Oct. 30, 2000, 114 Stat. 1654, 1654A–325, provided that:
+Pub. L. 106–65, div. A, title XIV, §§1402–1405, 1408–1412, Oct. 5, 1999, 113 Stat. 798–804, as amended by Pub. L. 106–398, §1 \[\[div. A\], title XII, §1204\], Oct. 30, 2000, 114 Stat. 1654, 1654A–325; Pub. L. 107–107, div. A, title X, §1048(g)(8), Dec. 28, 2001, 115 Stat. 1228, provided that:
 
 #### “SEC. 1402. ANNUAL REPORT ON TRANSFERS OF MILITARILY SENSITIVE TECHNOLOGY TO COUNTRIES AND ENTITIES OF CONCERN
 
@@ -422,7 +422,7 @@ Definition.—As used in this section, the term ‘countries and entities of con
 
 &emsp;“(2) any country that—
 
-&emsp;&emsp;“(A) has detonated a nuclear explosive device (as defined in section 830(4) of the Nuclear Proliferation Prevention Act of 1994 \[22 U.S.C. 6305(4)\] (22 U.S.C. 3201 note)); and
+&emsp;&emsp;“(A) has detonated a nuclear explosive device (as defined in section 830(4) of the Nuclear Proliferation Prevention Act of 1994 (22 U.S.C. 6305(4))); and
 
 &emsp;&emsp;“(B) is not a member of the North Atlantic Treaty Organization; and
 
@@ -458,7 +458,7 @@ Updating of State Department Report.—Not later than March 1, 2000, the Secreta
 
 “As a condition of the export license for any satellite to be launched in a country subject to section 1514 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] (22 U.S.C. 2778 note), the Secretary of State shall require the following:
 
-&emsp;“(1) That the technology transfer control plan required by section 1514(a)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (22 U.S.C. 2778 note) be prepared by the Department of Defense and the licensee, and that the planset forth enhanced security arrangements for the launch of the satellite, both before and during launch operations.
+&emsp;“(1) That the technology transfer control plan required by section 1514(a)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (22 U.S.C. 2778 note) be prepared by the Department of Defense and the licensee, and that the plan set forth enhanced security arrangements for the launch of the satellite, both before and during launch operations.
 
 &emsp;“(2) That each person providing security for the launch of that satellite—
 
@@ -548,7 +548,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 “(b)
 
-Annual Report on Implementation of Satellite Technology Safeguards.—(1) The Secretary ofDefense and the Secretary of State shall each submit to Congress each year, as part of the annual report for that year under section 1514(a)(8) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261, 22 U.S.C. 2778 note\], the following:
+Annual Report on Implementation of Satellite Technology Safeguards.—(1) The Secretary of Defense and the Secretary of State shall each submit to Congress each year, as part of the annual report for that year under section 1514(a)(8) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261, 22 U.S.C. 2778 note\], the following:
 
 &emsp;“(A) A summary of the satellite launch campaigns and related activities monitored by the Defense Threat Reduction Agency during the preceding fiscal year.
 
@@ -632,7 +632,7 @@ Definitions.—As used in this section:
 
 &emsp;&emsp;“(B) The Committee on Armed Services, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-&emsp;“(2) The term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concernwhich is controlled in fact by such domestic concern, as determined under regulations of the President.”
+&emsp;“(2) The term ‘United States person’ means any United States resident or national (other than an individual resident outside the United States and employed by other than a United States person), any domestic concern (including any permanent domestic establishment of any foreign concern), and any foreign subsidiary or affiliate (including any permanent foreign establishment) of any domestic concern which is controlled in fact by such domestic concern, as determined under regulations of the President.”
 
 \[Memorandum of President of the United States, Jan. 5, 2000, 65 F.R. 2279, delegated to Secretary of Defense the duties and responsibilities of the President under section 1402 of Public Law 106–65 and directed Department of Defense to prepare the report required by section 1402 with the assistance of Department of State, Department of Commerce, Department of Energy, Department of the Treasury, Director of Central Intelligence, and Federal Bureau of Investigation and to obtain concurrence on the report from Department of State, Department of Commerce, Director of Central Intelligence on behalf of Intelligence Community, Department of the Treasury, and Federal Bureau of Investigation prior to submission to Congress.\]
 
@@ -790,7 +790,7 @@ Requirement for Report.—Each report to Congress submitted pursuant to subsecti
 
 &emsp;“(4) The reasons why the proposed satellite launch is in the national security interest of the United States.
 
-&emsp;“(5) The impact of the proposed export on employment in the United States, including the number of new jobs created in the United States, on a State-by-State basis, as a direct result of the proposed export.
+&emsp;“(5) The impact of the proposed export on employment in the United States, including the number ofnew jobs created in the United States, on a State-by-State basis, as a direct result of the proposed export.
 
 &emsp;“(6) The number of existing jobs in the United States that would be lost, on a State-by-State basis, as a direct result of the proposed export not being licensed.
 
@@ -806,7 +806,7 @@ Requirement for Report.—Each report to Congress submitted pursuant to subsecti
 
 &emsp;“(12) The impact of the proposed export on the willingness of the People's Republic of China to modify its commercial and trade laws, practices, and regulations to make United States-made goods and services more accessible to that market.
 
-&emsp;“(13) The impact of the proposed export on the willingness of the People's Republic of China to reduce formal and informal trade barriers and tariffs, duties,and other fees on United States-made goods and services entering that country.
+&emsp;“(13) The impact of the proposed export on the willingness of the People's Republic of China to reduce formal and informal trade barriers and tariffs, duties, and other fees on United States-made goods and services entering that country.
 
 “(b)
 
@@ -826,7 +826,7 @@ Militarily Sensitive Characteristics Defined.—In this section, the term ‘mil
 
 #### Landmine Export Moratorium
 
-Pub. L. 102–484, div. A, title XIII, §1365, Oct. 23, 1992, 106 Stat. 2561, as amended by Pub. L. 103–160, div. A, title XI, §1182(c)(3), title XIV, §1423(c), Nov. 30, 1993, 107 Stat. 1772, 1832; Pub. L. 104–107, title V, §558, Feb. 12, 1996, 110 Stat. 743; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §556\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §553\], Nov. 29, 1999, 113 Stat. 1535, 1501A–99, provided that:
+Pub. L. 102–484, div. A, title XIII, §1365, Oct. 23, 1992, 106 Stat. 2561, as amended by Pub. L. 103–160, div. A, title XI, §1182(c)(3), title XIV, §1423(c), Nov. 30, 1993, 107 Stat. 1772, 1832; Pub. L. 104–107, title V, §558, Feb. 12, 1996, 110 Stat. 743; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §556\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §553\], Nov. 29, 1999, 113 Stat. 1535, 1501A–99; Pub. L. 107–115, title V, §548, Jan. 10, 2002, 115 Stat. 2156, provided that:
 
 “(a)
 
@@ -854,7 +854,7 @@ Statement of Policy.—(1) It shall be the policy of the United States to seek v
 
 “(c)
 
-Moratorium on Transfers of Anti-Personnel Landmines Abroad.—During the 11-year period beginning on October 23, 1992—
+Moratorium on Transfers of Anti-Personnel Landmines Abroad.—During the 16-year period beginning on October 23, 1992—
 
 &emsp;“(1) no sale may be made or financed, no transfer may be made, and no license for export may be issued, under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], with respect to any anti-personnel landmine; and
 
@@ -1046,15 +1046,17 @@ Annual Reports on Transfers and Regional Military Balance.—Beginning July 15, 
 
 “As used in this title, the term ‘relevant congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.”
 
-\[Ex. Ord. No. 12851, §3, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title, delegated to Secretary of State, in consultation with Secretary of Defense and other agencies, certification and reporting functions of the President under sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
+\[Ex. Ord. No. 12851, §3, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title, delegated to Secretary of State, in consultation with Secretary of Defense and other agencies, certification and reportingfunctions of the President under sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
 
 \[Memorandum of President of the United States, Dec. 27, 1991, 56 F.R. 1069, delegated to Secretary of State, in consultation with heads of other executive agencies and departments, certification and reporting obligations of the President under sections 403 and 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.\]
 
 #### Continuation of Export Control Regulations
 
-Section 3 of Ex. Ord. No. 12924, Aug. 19, 1994, 59 F.R. 43437, set out as a note under section 1701 of Title 50, War and National Defense, provided that: “Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).”
+Section 3 of Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, set out as a note under section 1701 of Title 50, War and National Defense, provided that: “Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).”
 
 Prior provisions relating to issuance and continued effect of rules, regulations, orders, licenses, and other forms of administrative action relating to administration of subsec. (e) of this section were contained in the following:
+
+Ex. Ord. No. 12924, §3, Aug. 19, 1994, 59 F.R. 43437, formerly set out as a note under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 13206, §1, Apr. 4, 2001, 66 F.R. 18397.
 
 Ex. Ord. No. 12923, §3, June 30, 1994, 59 F.R. 34551, formerly set out as a note under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12924, §4, Aug. 19, 1994, 59 F.R. 43438.
 

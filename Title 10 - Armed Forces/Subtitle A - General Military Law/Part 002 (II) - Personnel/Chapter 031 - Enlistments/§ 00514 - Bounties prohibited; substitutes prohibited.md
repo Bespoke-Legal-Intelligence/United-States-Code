@@ -32,5 +32,5 @@ In subsection (b), the words “active duty” are substituted for the words “
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 37 section 308a.
+This section is referred to in title 37 section 309.
 

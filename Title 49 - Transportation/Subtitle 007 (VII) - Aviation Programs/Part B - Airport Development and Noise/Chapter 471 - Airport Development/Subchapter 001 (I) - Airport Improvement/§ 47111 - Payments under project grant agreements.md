@@ -34,7 +34,7 @@ Action on Grant Assurances Concerning Airport Revenues.—If, after notice and o
 
 (f)
 
-Judicial Enforcement.—For any violation of this chapter or any grant assurance madeunder this chapter, the Secretary may apply to the district court of the United States for any district in which the violation occurred for enforcement. Such court shall have jurisdiction to enforce obedience thereto by a writ of injunction or other process, mandatory or otherwise, restraining any person from further violation.
+Judicial Enforcement.—For any violation of this chapter or any grant assurance made under this chapter, the Secretary may apply to the district court of the United States for any district in which the violation occurred for enforcement. Such court shall have jurisdiction to enforce obedience thereto by a writ of injunction or other process, mandatory or otherwise, restraining any person from further violation.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1266; Pub. L. 103–305, title I, §112(b), Aug. 23, 1994, 108 Stat. 1575.)
 

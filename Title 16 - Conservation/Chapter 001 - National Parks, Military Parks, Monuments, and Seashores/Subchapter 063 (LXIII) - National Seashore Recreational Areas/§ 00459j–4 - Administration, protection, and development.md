@@ -20,13 +20,15 @@ The Secretary shall cause to be issued a well defined division of management aut
 
 #### References in Text
 
-The National Wildlife Refuge System Administration Act, as amended, referred to in subsec. (b), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd, 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
+The National Wildlife Refuge System Administration Act, as amended, referred to in subsec. (b), consists ofsections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd, 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
 #### Clothing-Optional Areas Prohibited
 
-Pub. L. 106–291, title III, §316, Oct. 11, 2000, 114 Stat. 989, provided that: “None of the funds made available in this or any other Act for any fiscal year may be used to designate, or to post any sign designating, any portion of Canaveral National Seashore in Brevard County, Florida, as a clothing-optional area or as an area in which public nudity is permitted, if such designation would be contrary to county ordinance.”
+Pub. L. 107–63, title III, §313, Nov. 5, 2001, 115 Stat. 467, provided that: “None of the funds made available in this or any other Act for any fiscal year may be used to designate, or to post any sign designating, any portion of Canaveral National Seashore in Brevard County, Florida, as a clothing-optional area or as an area in which public nudity is permitted, if such designation would be contrary to county ordinance.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–291, title III, §316, Oct. 11, 2000, 114 Stat. 989.
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §317\], Nov. 29, 1999, 113 Stat. 1535, 1501A–192.
 

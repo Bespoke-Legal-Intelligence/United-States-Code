@@ -28,7 +28,7 @@ The Secretary shall provide one of the grants authorized under subsection (a) of
 
 By no later than the date that is 3 years after November 23, 1988, the Secretary shall submit a report to the Congress on the program established under this section including recommendations for expansion or changes to the program.
 
-(Pub. L. 94–437, title I, §114, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4796; amended Pub. L. 102–573, title I, §§109, 117(b)(6), Oct. 29, 1992, 106 Stat. 4538, 4544.)
+(Pub. L. 94–437, title I, §114, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4796;amended Pub. L. 102–573, title I, §§109, 117(b)(6), Oct. 29, 1992, 106 Stat. 4538, 4544.)
 
 #### Amendments
 

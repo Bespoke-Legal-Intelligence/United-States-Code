@@ -20,7 +20,7 @@
 
 #### (3) Non-11002(a) substance which requires CERCLA notice
 
-&emsp;If a release of a substance which is not on the list referred to in section 11002(a) of thistitle occurs at a facility at which a hazardous chemical is produced, used, or stored, and such release requires notification under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator shall provide notice as follows:
+&emsp;If a release of a substance which is not on the list referred to in section 11002(a) of this title occurs at a facility at which a hazardous chemical is produced, used, or stored, and such release requires notification under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator shall provide notice as follows:
 
 &emsp;&emsp;(A) If the substance is one for which a reportable quantity has been established under section 102(a) of CERCLA \[42 U.S.C. 9602(a)\], the owner or operator shall provide notice as described in subsection (b) of this section.
 
@@ -38,7 +38,7 @@
 
 #### (1) Recipients of notice
 
-&emsp;Notice required under subsection (a) of this section shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to section 11001(c) of this title, for any area likely to be affected by the release and to the State emergency planning commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
+&emsp;Notice required under subsection (a) of this section shall be given immediately after therelease by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to section 11001(c) of this title, for any area likely to be affected by the release and to the State emergency planning commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
 
 #### (2) Contents
 

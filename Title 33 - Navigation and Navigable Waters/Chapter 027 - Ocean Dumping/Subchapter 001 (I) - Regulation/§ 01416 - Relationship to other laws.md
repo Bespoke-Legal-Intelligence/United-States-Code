@@ -52,7 +52,7 @@ Nothing in this Act shall restrict, affect or modify the rights of any person (1
 
 #### References in Text
 
-The effective date of this subchapter, referred to in subsecs. (a) and (b), means the effective date of title Iof Pub. L. 92–532, which is six months after Oct. 23, 1972. See section 110(a) of Pub. L. 92–532, set out as an Effective Date note under section 1411 of this title.
+The effective date of this subchapter, referred to in subsecs. (a) and (b), means the effective date of title I of Pub. L. 92–532, which is six months after Oct. 23, 1972. See section 110(a) of Pub. L. 92–532, set out as an Effective Date note under section 1411 of this title.
 
 The Rivers and Harbors Act of 1899, referred to in subsec. (b), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 

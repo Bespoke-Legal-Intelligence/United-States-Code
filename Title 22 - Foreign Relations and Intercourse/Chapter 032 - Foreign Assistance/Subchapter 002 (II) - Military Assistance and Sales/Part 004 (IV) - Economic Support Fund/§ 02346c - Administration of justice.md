@@ -48,7 +48,7 @@ Personnel of the Department of Defense and members of the United States Armed Fo
 
 A prior section 2346c, Pub. L. 87–195, pt. II, §534, as added Pub. L. 97–113, title II, §202, Dec. 29, 1981, 95 Stat. 1530, prohibited the use of funds for nuclear facilities in foreign countries except under certain circumstances, prior to repeal by Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210.
 
-Another prior section 2346c, Pub. L. 87–195, pt. II, §534, as added Pub. L. 95–384, §10(a), Sept. 26, 1978, 92 Stat. 735; amended Pub. L. 96–92, §8(d), Oct. 29, 1979, 93 Stat. 704, provided economic support for Turkey and Cyprus in amounts of $98,000,000 and $15,000,000 for fiscal year 1980, prior to repeal by Pub. L. 96–533, title II, §202, Dec. 16, 1980, 94 Stat. 3142.
+Another prior section 2346c, Pub. L. 87–195, pt. II, §534, as added Pub. L. 95–384, §10(a), Sept. 26, 1978, 92Stat. 735; amended Pub. L. 96–92, §8(d), Oct. 29, 1979, 93 Stat. 704, provided economic support for Turkey and Cyprus in amounts of $98,000,000 and $15,000,000 for fiscal year 1980, prior to repeal by Pub. L. 96–533, title II, §202, Dec. 16, 1980, 94 Stat. 3142.
 
 #### Amendments
 

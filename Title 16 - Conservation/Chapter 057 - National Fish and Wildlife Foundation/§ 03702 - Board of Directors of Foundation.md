@@ -50,7 +50,7 @@
 
 #### (B) Initial appointments to new member positions
 
-&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph (2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
+&emsp;&emsp;Of the Directors appointed by the Secretary of the Interior under paragraph\(2)(B)(ii), the Secretary shall appoint, in fiscal year 2001, three Directors for a term of 6 years.
 
 #### (C) Subsequent appointments to new member positions
 

@@ -8,7 +8,7 @@
 
 #### (2) All shareholders must consent to election
 
-&emsp;An election under this subsection shall be valid only if all persons who are shareholdersin such corporation on the day on which such election is made consent to such election.
+&emsp;An election under this subsection shall be valid only if all persons who are shareholders in such corporation on the day on which such election is made consent to such election.
 
 #### (b) When made
 
@@ -110,7 +110,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (ii) When effective
 
-&emsp;&emsp;&emsp;Any termination under this paragraph shall be effective on and after the first dayof the first taxable year beginning after the third consecutive taxable year referred to in clause (i).
+&emsp;&emsp;&emsp;Any termination under this paragraph shall be effective on and after the first day of the first taxable year beginning after the third consecutive taxable year referred to in clause (i).
 
 #### (iii) Years taken into account
 
@@ -214,7 +214,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (A) In general
 
-&emsp;&emsp;The taxable income for the short year described in subparagraph (B) of paragraph (1) shall be placed on an annual basis by multiplying the taxable income for such short year by the number of days in the S termination year and by dividing the result by the number of days in the short year. The tax shall be the same part of the tax computed on the annual basis as the number of days in such short year is of the number of days in the S termination year.
+&emsp;&emsp;The taxable income for the short year described in subparagraph (B) of paragraph (1)shall be placed on an annual basis by multiplying the taxable income for such short year by the number of days in the S termination year and by dividing the result by the number of days in the short year. The tax shall be the same part of the tax computed on the annual basis as the number of days in such short year is of the number of days in the S termination year.
 
 #### (B) Section 443(d)(2) to apply
 

@@ -28,5 +28,5 @@ Amendment by Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1221, 1330 of this title.
+This section is referred to in section 1330 of this title.
 

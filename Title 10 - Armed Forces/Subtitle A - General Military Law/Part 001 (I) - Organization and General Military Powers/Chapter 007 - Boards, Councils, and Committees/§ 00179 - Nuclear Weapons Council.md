@@ -70,17 +70,17 @@
 
 &emsp;(5) An assessment of the extent to which the requirements referred to in paragraph (4) are being addressed by the Department of Energy as of that date.
 
-(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110Stat. 403, 502; Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 717, 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464.)
+(Added Pub. L. 99–661, div. C, title I, §3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, §1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, §1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, §3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, §3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, §904(b)(1), title XV, §1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 104–201, div. C, title XXXI, §3159(c), Sept. 23, 1996, 110 Stat. 2842; Pub. L. 106–65, div. A, title X, §1067(1), div. C, title XXXI, §3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 2000—Subsec. (a)(3). Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)(1)\], added par. (3) and struck out former par. (3) which read as follows: “One senior representative of the Department of Energy designated by the Secretary of Energy.”
 
 Subsec. (b)(2). Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(a)(2)\], substituted “the Under Secretary for Nuclear Security of the Department of Energy” for “the representative designated under subsection (a)(3)”.
 
-1999—Subsec. (a)(1). Pub. L. 106–65, §911(a)(1), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
-
-Subsec. (b)(3). Pub. L. 106–65, §3163(a)(1), added par. (3).
+1999—Subsec. (b)(3). Pub. L. 106–65, §3163(a)(1), added par. (3).
 
 Subsec. (c)(3). Pub. L. 106–65, §3163(a)(2), added par. (3).
 
@@ -116,5 +116,5 @@ Section 3137(b) of Pub. L. 99–661 provided that: “If on the date of the enac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 142 of this title; title 42 section 7274p.
+This section is referred to in section 142 of this title; title 42 section 7274p; title 50 section 2402.
 

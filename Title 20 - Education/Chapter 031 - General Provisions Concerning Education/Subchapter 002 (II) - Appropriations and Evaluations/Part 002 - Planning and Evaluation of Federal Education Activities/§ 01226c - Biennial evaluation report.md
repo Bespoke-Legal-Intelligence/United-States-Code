@@ -12,9 +12,9 @@ Not later than March 31, 1995, and every two years after such date, the Secretar
 
 &emsp;(5) be prepared in concise summary form with necessary detailed data and appendixes, including available data to indicate the effectiveness of the programs and projects by the race, sex, disability and age of beneficiaries of such programs and projects; and
 
-&emsp;(6) include the results of the program evaluations conducted in accordance with section 8941 of this title.
+&emsp;(6) include the results of the program evaluations conducted in accordance with section 7941 of this title.
 
-(Pub. L. 90–247, title IV, §425, formerly §417, as added Pub. L. 93–380, title V, §506(a)(3)(C), Aug. 21, 1974, 88 Stat. 564; amended Pub. L. 95–561, title XII, §1246(a), (b), Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–46, §4(b), Aug. 6, 1979, 93 Stat. 342; Pub. L. 96–374, title XIII, §1305, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 98–511, title VII, §705, Oct. 19, 1984, 98 Stat. 2406; renumbered §425 and amended Pub. L. 103–382, title II, §§212(b)(1), 235, Oct. 20, 1994, 108 Stat. 3913, 3916; Pub. L. 103–437, §7(a)(2), Nov. 2, 1994, 108 Stat. 4587.)
+(Pub. L. 90–247, title IV, §425, formerly §417, as added Pub. L. 93–380, title V, §506(a)(3)(C), Aug. 21, 1974, 88 Stat. 564; amended Pub. L. 95–561, title XII, §1246(a), (b), Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–46, §4(b), Aug. 6, 1979, 93 Stat. 342; Pub. L. 96–374, title XIII, §1305, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 98–511, title VII, §705, Oct. 19, 1984, 98 Stat. 2406; renumbered §425 and amended Pub. L. 103–382, title II, §§212(b)(1), 235, Oct. 20, 1994, 108 Stat. 3913, 3916; Pub. L. 103–437, §7(a)(2), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 107–110, title X, §1076(h), Jan. 8, 2002, 115 Stat. 2091.)
 
 #### Prior Provisions
 
@@ -25,6 +25,8 @@ Another prior section 425 of Pub. L. 90–247 was renumbered section 434, and is
 Another prior section 425 of Pub. L. 90–247 was renumbered section 423, and is classified to section 1226a–1 of this title.
 
 #### Amendments
+
+2002—Par. (6). Pub. L. 107–110 substituted “7941” for “8941”.
 
 1994—Pub. L. 103–437, which directed that section 417(a) of Pub. L. 90–247 be amended by substituting “Labor and Human Resources” for “Human Resources”, could not be executed because this section, which was section 417 of Pub. L. 90–247, was renumbered section 425 and amended generally by Pub. L. 103–382.
 
@@ -41,6 +43,10 @@ Pub. L. 103–382, §235, amended section generally, substituting single undesig
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1984 Amendment
 

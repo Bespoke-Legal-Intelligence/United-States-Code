@@ -20,7 +20,7 @@
 
 &emsp;(3) the training is of the type prescribed by the Secretary concerned.
 
-(e) An appropriately rated member of the National Guard who performs an aerial flightunder competent orders may receive credit for attending drill for the purposes of this section, if the flight prevented him from attending a regularly scheduled drill.
+(e) An appropriately rated member of the National Guard who performs an aerial flight under competent orders may receive credit for attending drill for the purposes of this section, if the flight prevented him from attending a regularly scheduled drill.
 
 (f) Under regulations to be prescribed by the Secretary of the Army or Secretary of the Air Force, as the case may be, a member of the National Guard may—
 
@@ -98,5 +98,5 @@ Amendment by Pub. L. 90–168 effective first day of first calendar month follow
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 101, 112, 509, 715 of this title; title 5 sections 5517, 6323; title 10 sections 101, 701, 1054, 1089, 1208, 10143, 12011, 12012, 12310, 12602, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965, 4312; title 50 App. section 456.
+This section is referred to in sections 101, 112, 509, 715 of this title; title 5 sections 5517, 6323; title 10 sections 101, 701, 1054, 1063, 1089, 1208, 10143, 12011, 12012, 12310, 12602, 12732, 12733; title 28 section 2671; title 38 sections 101, 1965, 4312; title 50 App. section 456.
 

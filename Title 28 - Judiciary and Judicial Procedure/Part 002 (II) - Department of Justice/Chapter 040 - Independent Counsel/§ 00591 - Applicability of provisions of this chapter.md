@@ -64,7 +64,7 @@ When recusal is required.—(A) If information received under this chapter invol
 
 &emsp;(2)
 
-Requirements for recusal determination.—Before personally making any other determination under this chapter with respect to information received under this chapter, the Attorney General shall determine under paragraph (1)(B) whether recusal is necessary. The Attorney General shall set forth this determination in writing, identify the facts considered by the Attorney General, and set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to such information.
+Requirements for recusal determination.—Before personally making any other determination under this chapter with respect toinformation received under this chapter, the Attorney General shall determine under paragraph (1)(B) whether recusal is necessary. The Attorney General shall set forth this determination in writing, identify the facts considered by the Attorney General, and set forth the reasons for the recusal. The Attorney General shall file this determination with any notification or application submitted to the division of the court under this chapter with respect to such information.
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1867; amended Pub. L. 97–409, §§3, 4(a), Jan. 3, 1983, 96 Stat. 2039, 2040; Pub. L. 98–473, title II, §228(b), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1293; Pub. L. 103–270, §§3(j), (k), 4, June 30, 1994, 108 Stat. 735, 736.)
 
@@ -166,7 +166,7 @@ In General.—Subject to subsection (b), the amendments made by this Act \[enact
 
 “(b)
 
-Pending Proceedings.—With respect to any proceeding under chapter 39 of title 28, United States Code\(before the redesignation of such chapter as chapter 40 by section 144(g) of Public Law 99–554), or under chapter 40 of such title (after such redesignation), which is pending on the date of the enactment of this Act \[Dec. 15, 1987\], the following shall apply:
+Pending Proceedings.—With respect to any proceeding under chapter 39 of title 28, United States Code (before the redesignation of such chapter as chapter 40 by section 144(g) of Public Law 99–554), or under chapter 40 of such title (after such redesignation), which is pending on the date of the enactment of this Act \[Dec. 15, 1987\], the following shall apply:
 
 &emsp;“(1) Except as provided in paragraphs (2) and (3), the provisions of chapter 40 of such title as in effect on the day before such date of enactment shall, in lieu of the amendments made by this Act, continue to apply on or after such date to such proceeding until such proceeding is terminated in accordance with such chapter.
 
@@ -206,7 +206,7 @@ Section 604 of Pub. L. 95–521 provided that: “Except as provided in this sec
 
 #### Permanent Appropriation for Expenses of Independent Counsels
 
-Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–9, provided: “That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law: <i>Provided further</i>, That the Comptroller General shall perform semiannual financial reviews of expenditures from the Independent Counsel permanent indefinite appropriation, and report their findings to the Committees on Appropriations of the House and Senate”.
+Pub. L. 100–202, §101(a) \[title II\], Dec. 22, 1987, 101 Stat. 1329, 1329–9, provided: “That a permanent indefinite appropriation is established within the Department of Justice to pay all necessary expenses of investigations and prosecutions by independent counsel appointed pursuant to the provisions of 28 U.S.C. 591 et seq. or other law: <i>Provided further</i>, That the Comptroller General shall perform semiannual financial reviews of expenditures from the Independent Counsel permanent indefinite appropriation, and report their findingsto the Committees on Appropriations of the House and Senate”.
 
 \[For termination, effective May 15, 2000, of provisions of section 101(a) \[title II\] of Pub. L. 100–202, set out above, which require the Comptroller General to report findings of semiannual financial reviews to the Committees on Appropriations of the House and Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 9 of House Document No. 103–7.\]
 

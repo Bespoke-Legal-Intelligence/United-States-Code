@@ -26,7 +26,7 @@
 
 #### (1) Administrative costs
 
-&emsp;Not more than 3 percent of the funds received by a Local Council under this chapter shall be used to pay for the administrativecosts of the Local Council in carrying out this chapter.
+&emsp;Not more than 3 percent of the funds received by a Local Council under this chapter shall be used to pay for the administrative costs of the Local Council in carrying out this chapter.
 
 #### (2) Fiscal agent
 

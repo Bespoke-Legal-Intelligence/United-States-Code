@@ -8,7 +8,7 @@ At the request of a Member of Congress or Resident Commissioner the Public Print
 
 The Public Printer may also, at the request of a Member or Resident Commissioner, print on envelopes authorized to be furnished, the name of the Member or Resident Commissioner, and State or Commonwealth, the date, and the topic or subject matter, not exceeding twelve words.
 
-The Public Printer shall deposit moneys accruing under this section in the Treasury of the United States to the credit of the appropriation made for the working capital of the Government Printing Office for the year in which the work is done. He shall account for them in his annual report to Congress.
+The Public Printer shall deposit moneys accruing under this section in the Treasury of theUnited States to the credit of the appropriation made for the working capital of the Government Printing Office for the year in which the work is done. He shall account for them in his annual report to Congress.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1253; Pub. L. 93–191, §8(a), Dec. 18, 1973, 87 Stat. 745; Pub. L. 93–255, §2(b), Mar. 27, 1974, 88 Stat. 52; Pub. L. 99–87, §1(c)(2), Aug. 9, 1985, 99 Stat. 291.)
 

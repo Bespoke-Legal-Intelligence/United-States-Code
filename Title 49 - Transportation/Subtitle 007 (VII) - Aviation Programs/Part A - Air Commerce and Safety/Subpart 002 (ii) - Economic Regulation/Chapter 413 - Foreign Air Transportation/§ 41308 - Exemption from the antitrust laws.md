@@ -6,7 +6,7 @@ Definition.—In this section, “antitrust laws” has the same meaning given t
 
 (b)
 
-Exemption Authorized.—When the Secretary of Transportation decides it is required by the public interest, the Secretary, as part of an order under section 41309 or 42111 of this title, may exempt a person affected by the order from the antitrust laws to the extent necessary to allow the person to proceed with the transaction specifically approved by the order and with any transaction necessarily contemplated by the order.
+Exemption Authorized.—When the Secretary of Transportation decides it is required by the public interest, the Secretary, as part of an order under section 41309 or 42111 of this title, may exempt a person affected by the order from the antitrust laws to the extent necessary to allow the person to proceed with the transaction specifically approved by the order and with anytransaction necessarily contemplated by the order.
 
 (c)
 
@@ -42,7 +42,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(a)(6) (related to §414); 
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(C) (related to §414); added Oct. 24, 1978, Pub. L. 95–504, §40(a), 92 Stat. 1745; Oct. 14, 1982, Pub. L. 97–309, §4(b), 96 Stat. 1454; Oct. 4, 1984, Pub. L. 98–443, §3(a), 98 Stat. 1703.
 
-Subsection (a) is substituted for “the ‘anti-trust laws’ set forth in subsection (a) of section 12 of title 15”for consistency in the revised title and with other titles of the United States Code.
+Subsection (a) is substituted for “the ‘anti-trust laws’ set forth in subsection (a) of section 12 of title 15” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), reference to 49 App.:1378 and 1379 is omitted as obsolete.
 

@@ -4,9 +4,9 @@
 
 It shall be unlawful for any of the following persons to serve or act in the capacity of employee, officer, director, member of an advisory board, investment adviser, or depositor of any registered investment company, or principal underwriter for any registered open-end company, registered unit investment trust, or registered face-amount certificate company:
 
-&emsp;(1) any person who within 10 years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, transfer agent, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act;
+&emsp;(1) any person who within 10 years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act;
 
-&emsp;(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, transfer agent, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registeredunder the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or
+&emsp;(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, bank, transfer agent, or entity or person required to be registered under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or
 
 &emsp;(3) a company any affiliated person of which is ineligible, by reason of paragraph (1) or (2) of this subsection, to serve or act in the foregoing capacities.
 
@@ -32,7 +32,7 @@ The Commission may, after notice and opportunity for hearing, by order prohibit,
 
 &emsp;(5) within 10 years has been convicted by a foreign court of competent jurisdiction of a crime, however denominated by the laws of the relevant foreign government, that is substantially equivalent to an offense set forth in paragraph (1) of subsection (a) of this section; or
 
-&emsp;(6) by reason of any misconduct, is temporarily or permanently enjoined by any foreign court of competent jurisdiction from acting in any of the capacities, set forth in paragraph (2) of subsection (a) of this section, or a substantially equivalent foreign capacity, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security.
+&emsp;(6) by reason of any misconduct, is temporarily or permanently enjoined by any foreign court of competent jurisdiction from acting in any of the capacities, set forth in paragraph (2) of subsection (a) of this section, or a substantially equivalent foreign capacity, or fromengaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security.
 
 #### (c) Application of ineligible person for exemption
 
@@ -148,19 +148,17 @@ For the purposes of this section, the term “investment adviser” includes a c
 
 (Aug. 22, 1940, ch. 686, title I, §9, 54 Stat. 805; Pub. L. 91–547, §4, Dec. 14, 1970, 84 Stat. 1415; Pub. L. 94–29, §28(6), June 4, 1975, 89 Stat. 166; Pub. L. 99–571, title I, §102(<i>l</i>), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VI, §609, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 101–429, title III, §301, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §205(a), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–102, title II, §222, Nov. 12, 1999, 113 Stat. 1401.)
 
-#### Amendment of Subsection (a)(1), (2)
-
-<i>Pub. L. 106–102, title II, §§222, 225, Nov. 12, 1999, 113 Stat. 1401, 1402, provided that, effective 18 months after Nov. 12, 1999, subsection (a) of this section is amended in paragraphs (1) and (2) by striking “securities dealer, transfer agent,” and inserting “securities dealer, bank, transfer agent,”.</i>
-
 #### References in Text
 
 The Commodity Exchange Act, referred to in subsecs. (a)(1), (2) and (b)(2), (3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Securities Act of 1933, referred to in subsecs. (b)(2), (3) and (d)(1)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title.For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (b)(2), (3) and (d)(1)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsecs. (b)(2), (3) and (d)(1)(A), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (a)(1), (2). Pub. L. 106–102 substituted “securities dealer, bank, transfer agent,” for “securities dealer, transfer agent,”.
 
 1990—Subsec. (b)(4) to (6). Pub. L. 101–550 added pars. (4) to (6).
 

@@ -22,7 +22,7 @@ The Administrator may provide liability insurance for, or indemnification to, th
 
 #### (B) Maximum required
 
-&emsp;&emsp;The Administrator shall determine the amount of insurance required, but, except as provided in subparagraph (C), that amount shall not be greater than the amount required under section 70112(a)(3) of title 49 for a launch. The Administrator shall publish notice of the Administrator's determination and the applicable amount or amounts in the Federal Register within 10 days after making the determination.
+&emsp;&emsp;The Administrator shall determine the amount of insurance required, but, except asprovided in subparagraph (C), that amount shall not be greater than the amount required under section 70112(a)(3) of title 49 for a launch. The Administrator shall publish notice of the Administrator's determination and the applicable amount or amounts in the Federal Register within 10 days after making the determination.
 
 #### (C) Increase in dollar amounts
 

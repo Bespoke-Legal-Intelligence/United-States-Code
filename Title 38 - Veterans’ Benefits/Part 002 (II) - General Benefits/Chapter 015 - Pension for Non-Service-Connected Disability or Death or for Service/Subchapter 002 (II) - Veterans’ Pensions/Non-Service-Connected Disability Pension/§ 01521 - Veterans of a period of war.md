@@ -12,7 +12,7 @@
 
 (e) If the veteran has a disability rated as permanent and total and (1) has additional disability or disabilities independently ratable at 60 per centum or more, or (2) by reason of a disability or disabilities, is permanently housebound but does not qualify for pension at the aid and attendance rate provided by subsection (d) of this section, the annual rate of pension payable to the veteran under subsection (b) of this section shall be $4,340 and the annual rate of pension payable to the veteran under subsection (c) of this section shall be $5,441. If such veteran has two or more family members, as described in subsection (c) of this section, the annual rate of pension shall be increased by $600 for each such family member in excess of one. The rate payable shall be reduced by the amount of the veteran's annual income and, subject to subsection (h)(1) of this section, the annual income of such family members.
 
-(f)(1) If two veterans are married to one another and each meets the disability and service requirements prescribed in subsections (a) and (j), respectively, of this section, the annual rate of pension payable to such veterans shall be a combined annual rate of $4,651.
+(f)(1) If two veterans are married to one another and each meets the disability and service requirements prescribed in subsections (a) and (j), respectively, of this section, or the age and service requirements prescribed in section 1513 of this title, the annual rate of pension payable to such veterans shall be a combined annual rate of $4,651.
 
 (2) If either such veteran is in need of regular aid and attendance, the annual rate provided by paragraph (1) of this subsection shall be $6,781. If both such veterans are in need of regular aid and attendance, such rate shall be $8,911.
 
@@ -22,7 +22,7 @@
 
 (5) The annual rate provided by paragraph (1), (2), (3), or (4) of this subsection, as appropriate, shall (A) be increased by $600 for each child of such veterans (or of either such veteran) who is in the custody of either or both such veterans or to whose support either such veteran is, or both such veterans are, reasonably contributing, and (B) be reduced by the amount of the annual income of both such veterans and, subject to subsection (h)(1) of this section, the annual income of each such child.
 
-(g) The annual rate of pension payable under subsection (b), (c), (d), (e), or (f) of this section to any veteran who is a veteran of a period of war shall be increased by $800 if veterans of such period of war were not provided educational benefits or home loan benefits similar to those provided to veterans of later periods of war underchapters 34 and 37, respectively, of this title or under prior corresponding provisions of law.
+(g) The annual rate of pension payable under subsection (b), (c), (d), (e), or (f) of this section to any veteran who is a veteran of a period of war shall be increased by $800 if veterans of such period of war were not provided educational benefits or home loan benefits similar to those provided to veterans of later periods of war under chapters 34 and 37, respectively, of this title or under prior corresponding provisions of law.
 
 (h) For the purposes of this section:
 
@@ -42,13 +42,15 @@
 
 &emsp;(4) for an aggregate of ninety days or more in two or more separate periods of service during more than one period of war.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, §521; Pub. L. 86–211, §3(a), Aug. 29, 1959, 73 Stat. 433; Pub. L. 87–101, §1, July 21, 1961, 75 Stat. 218; Pub. L. 88–664, §§3(a), (b), 5, 6(a), 7, Oct. 13, 1964, 78 Stat. 1094, 1095; Pub. L. 90–77, title I, §104, title II, §202(a)–(c), Aug. 31, 1967, 81 Stat. 179, 182; Pub. L. 90–275, §1(a), (b), Mar. 28, 1968, 82 Stat. 64, 65; Pub. L. 91–588, §§1(a), (b), 3(b), 9(c), Dec. 24, 1970, 84 Stat. 1580, 1583, 1584; Pub. L. 92–198, §§1(a), (b), 5(b), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(a), (b), Dec. 6, 1973, 87 Stat. 694; Pub. L. 93–527, §2, Dec. 21, 1974, 88 Stat. 1702; Pub. L. 94–169, title I, §§102, 106(18), Dec. 23, 1975, 89 Stat. 1014, 1018; Pub. L. 94–432, title II, §202, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 95–204, title I, §101, Dec. 2, 1977, 91 Stat. 1455; Pub. L. 95–588, title I, §106(a), Nov. 4, 1978, 92 Stat. 2500; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1521 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, §521; Pub. L. 86–211, §3(a), Aug. 29, 1959, 73 Stat. 433; Pub. L. 87–101, §1, July 21, 1961, 75 Stat. 218; Pub. L. 88–664, §§3(a), (b), 5, 6(a), 7, Oct. 13, 1964, 78 Stat. 1094, 1095; Pub. L. 90–77, title I, §104, title II, §202(a)–(c), Aug. 31, 1967, 81 Stat. 179, 182; Pub. L. 90–275, §1(a), (b), Mar. 28, 1968, 82 Stat. 64, 65; Pub. L. 91–588, §§1(a), (b), 3(b), 9(c), Dec. 24, 1970, 84 Stat. 1580, 1583, 1584; Pub. L. 92–198, §§1(a), (b), 5(b), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(a), (b), Dec. 6, 1973, 87 Stat. 694; Pub. L. 93–527, §2, Dec. 21, 1974, 88 Stat. 1702; Pub. L. 94–169, title I, §§102, 106(18), Dec. 23, 1975, 89 Stat. 1014, 1018; Pub. L. 94–432, title II, §202, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 95–204, title I, §101, Dec. 2, 1977, 91 Stat. 1455; Pub. L. 95–588, title I, §106(a), Nov. 4, 1978, 92 Stat. 2500; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1521 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, §207(b)(1), Dec. 27, 2001, 115 Stat. 991.)
 
 #### Prior Provisions
 
 Prior section 1521 was renumbered section 3121 of this title.
 
 #### Amendments
+
+2001—Subsec. (f)(1). Pub. L. 107–103 inserted “or the age and service requirements prescribed in section 1513 of this title,” after “of this section,”.
 
 1991—Pub. L. 102–83, §5(a), renumbered section 521 of this title as this section.
 
@@ -118,7 +120,7 @@ Subsec. (c). Pub. L. 93–527, §2(2), substituted “$172” for “$154”, �
 
 Subsec. (d). Pub. L. 93–527, §2(3), substituted “$123” for “$110”.
 
-Subsec. (e). Pub. L. 93–527, §2(4), substituted “$49” for “$44”
+Subsec. (e). Pub. L. 93–527, §2(4), substituted “$49” for “$44”.
 
 1973—Subsec. (b). Pub. L. 93–177, §1(a), substituted “$143” for “$130”, “$800” for “$1,000”, “$1,300” for “$1,500”, “$1,600” for “$1,800”, and “$2,500” for “$2,600” in existing provisions and inserted provision for a reduction of 8 cents in monthly rate for each $1 of annual income in excess of $2,500 up to and including $2,600.
 
@@ -136,7 +138,7 @@ Subsec. (a). Pub. L. 91–588, §9(c)(1), inserted reference to Mexican border p
 
 Subsec. (b). Pub. L. 91–588, §1(a), provided new annual income limits to measure monthly pension rates of single veteran by adding minimum income limits of $2,000, $2,100 and $2,200 with maximum limits of $2,100, $2,200 and $2,300 for monthly benefits of $45, $37 and $29, respectively, and within existing annual income limits from a maximum of $300 to a maximum of $2,000, as well as the in-between limits set out in one-hundred dollar increments, the applicable monthly benefit for each limit was amended, respectively by substituting in column II “121” for “$110”, “119” for “108”, “117” for “106”, “115” for “104”, “112” for “100”, “108” for “96”, “104” for “92”, “100” for “88”, “96” for “84”, “92” for “79”, “88” for “75”, “84” for “69” “79” for “63” “75” for “57”, “69” for “51”, “63” for “45”, “57” for “37”, and “51” for “29”.
 
-Subsec. (c). Pub. L. 91–588, §1(b), provided new annual income limits to measure monthly pension rates of veteran with dependents by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $50, and within existing annual income limits from a maximum of $500 to a maximum of $3,200, as well as in-between limits set out in one-hundred dollar increments, the applicable monthly benefits for each limit was amended, respectively, by substituting in column II (one dependent) “$132” for “$120”, “130” for “118”, “128” for “116”, “126” for “114”, “124” for “112”, “122” for “109”, in column III (two dependents) “$137” for “$125”, “135” for “123, “133” for “121”, “131” for “119”, “129” for “117”, “127” for “114”, in column IV (three or more dependents) “$142” for “$130”, “140” for “128”, “138” for “126”, “136” for “124”, “134” for “122”, “132” for “119”, and in columns II, III, and IV (for any number of dependents)“119” for “107”, “116” for “105”, “113” for “103”, “110” for “101”, “107” for “99”, “104” for “96”, “101” for “93” “99” for “90”, “96” for “87”, “93” for “84”, “90” for “81”, “87” for “78”, “84” for “75”, “81” for “72”, “78” for “69”, “75” for “66”, “72” for “62”, “69” for “58”, “66” for “54”, “62” for “50”, “58” for “42”, and “54” for “34”.
+Subsec. (c). Pub. L. 91–588, §1(b), provided new annual income limits to measure monthly pension rates of veteran with dependents by adding minimum income limits of $3,200, $3,300, and $3,400 with maximum limits of $3,300, $3,400, and $3,500 for monthly benefits of $50, and within existing annual income limits from a maximum of $500 to a maximum of $3,200, as well as in-between limits set out in one-hundred dollar increments, the applicable monthly benefits for each limit was amended, respectively, by substituting in column II (one dependent) “$132” for “$120”, “130” for “118”, “128” for “116”, “126” for “114”, “124” for “112”, “122” for “109”, in column III (two dependents) “$137” for “$125”, “135” for “123, “133” for “121”, “131” for “119”, “129” for “117”, “127” for “114”, in column IV (three or more dependents) “$142” for “$130”, “140” for “128”, “138” for “126”, “136” for “124”, “134” for “122”, “132” for “119”, and in columns II, III, and IV (for any number of dependents) “119” for “107”, “116” for “105”, “113” for “103”, “110” for “101”, “107” for “99”, “104” for “96”, “101” for “93” “99” for “90”, “96” for “87”, “93” for “84”, “90” for “81”, “87” for “78”, “84” for “75”, “81” for “72”, “78” for “69”, “75” for “66”, “72” for “62”, “69” for “58”, “66” for “54”, “62” for “50”, “58” for “42”, and “54” for “34”.
 
 Subsec. (d). Pub. L. 91–588, §3(b)(1), substituted “$110” for “$100”.
 
@@ -177,6 +179,10 @@ Subsec. (g). Pub. L. 88–664, §6(a), redesignated former subsec. (f) as (g).
 Subsecs. (b) to (e). Pub. L. 86–211, §3(a)(3), added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
 
 Subsec. (f). Pub. L. 86–211, §3(a)(1), redesignated former subsec. (b) as (f).
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–103 effective Sept. 17, 2001, see section 207(c) of Pub. L. 107–103, set out as an Effective Date note under section 1513 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -290,9 +296,9 @@ Section 306 of Pub. L. 95–588, as amended by Pub. L. 102–40, title IV, §402
 
 > shall be adjudicated under title 38, United States Code, as in effect on December 31, 1978. Any benefits determined to be payable as the result of the adjudication of such a claim shall be subject to the provisions of subsection (a).
 
-“(d) In any case in which any person who as of December 31, 1978, is entitled to receive pension under section 1521, 1541, or 1542 \[formerly 521, 541, or 542\] of title38, United States Code, or under section 9(b) of the Veterans’ Pension Act of 1959 Pub. L. 86–211, 6, 9(b), Aug. 29, 1959, 73 Stat. 436 \[formerly set out as a note under this section\], elects (in accordance with subsection (a)(1) or (b)(2), as appropriate) before October 1, 1979, to receive pension under such section as in effect after December 31, 1978, the Administrator of Veterans’ Affairs shall pay to such person an amount equal to the amount by which the amount of pension benefits such person would have received had such election been made on January 1, 1979, exceeds the amount of pension benefits actually paid to such person for the period beginning on January 1, 1979, and ending on the date preceding the date of such election.
+“(d) In any case in which any person who as of December 31, 1978, is entitled to receive pension under section 1521, 1541, or 1542 \[formerly 521, 541, or 542\] of title 38, United States Code, or under section 9(b) of the Veterans’ Pension Act of 1959 Pub. L. 86–211, 6, 9(b), Aug. 29, 1959, 73 Stat. 436 \[formerly set out as a note under this section\], elects (in accordance with subsection (a)(1) or (b)(2), as appropriate) before October 1, 1979, to receive pension under such section as in effect after December 31, 1978, the Administrator of Veterans’ Affairs shall pay to such person an amount equal to the amount by which the amount of pension benefits such person would have received had such election been made on January 1, 1979, exceeds the amount of pension benefits actually paid to such person for the period beginning on January 1, 1979, and ending on the date preceding the date of such election.
 
-“(e) Whenever there is an increase under subsections (a)(3) and (b)(4) in the annual income limitations with respect to persons being paid pension under subsections (a)(2) and (b)(3), the Secretary shall publish such annual income limitations, as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act \[section 415(i)(2)(D) of Title 42, The Public Health and Welfare\] is published by reason of a determination under section 215(i) of such Act.”
+“(e) Whenever there is an increase under subsections (a)(3) and (b)(4) in the annual income limitations withrespect to persons being paid pension under subsections (a)(2) and (b)(3), the Secretary shall publish such annual income limitations, as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act \[section 415(i)(2)(D) of Title 42, The Public Health and Welfare\] is published by reason of a determination under section 215(i) of such Act.”
 
 #### Savings Provision
 
@@ -356,5 +362,5 @@ Section 10 of Pub. L. 88–664 provided that: “In computing the income of pers
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 107, 111, 1506, 1508, 1511, 1512, 1522, 1523, 1541, 1542, 1710, 1710B, 1722, 1722A, 5123, 5304, 5312, 5503 of this title; title 42 section 8624.
+This section is referred to in sections 107, 111, 1506, 1508, 1511, 1512, 1513, 1522, 1523, 1541, 1542, 1710, 1710B, 1722, 1722A, 5123, 5304, 5312, 5503 of this title; title 42 section 8624.
 

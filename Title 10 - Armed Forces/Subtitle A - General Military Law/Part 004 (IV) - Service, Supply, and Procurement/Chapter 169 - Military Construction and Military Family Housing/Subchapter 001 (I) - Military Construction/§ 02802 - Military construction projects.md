@@ -1,6 +1,6 @@
 ### §2802. Military construction projects
 
-(a) The Secretary of Defense and the Secretaries of the military departments may carry outsuch military construction projects as are authorized by law.
+(a) The Secretary of Defense and the Secretaries of the military departments may carry out such military construction projects as are authorized by law.
 
 (b) Authority provided by law to carry out a military construction project includes authority for—
 
@@ -44,7 +44,7 @@ New Construction.—The Secretary of Defense shall develop specific guidelines f
 
 “(d)
 
-Completion of Assessment and Demonstration.—The assessment conducted under subsection (a) and the demonstration projects, if any, conducted under subsection (b) shall be completed not later than September 30, 2006.
+Completion of Assessment and Demonstration.—The assessment conducted under subsection (a)and the demonstration projects, if any, conducted under subsection (b) shall be completed not later than September 30, 2006.
 
 “(e)
 

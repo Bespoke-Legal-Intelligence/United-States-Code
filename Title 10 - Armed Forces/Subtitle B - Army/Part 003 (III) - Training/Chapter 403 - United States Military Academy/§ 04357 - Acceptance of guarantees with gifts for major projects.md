@@ -64,7 +64,7 @@ Major united states commercial bank.—The term “major United States commercia
 
 &emsp;(5)
 
-Major united states investment management firm.—The term “major United States investment management firm” means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c) or section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2)) or a major United States commercial bank that—
+Major united states investment management firm.—The term “major United States investment management firm” means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities ExchangeAct of 1934 (15 U.S.C. 78c) or section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2)) or a major United States commercial bank that—
 
 &emsp;&emsp;(A) is headquartered in the United States; and
 

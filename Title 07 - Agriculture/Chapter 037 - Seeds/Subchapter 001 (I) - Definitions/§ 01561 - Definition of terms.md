@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) by the rules and regulations of the Secretary of Agriculture under this chapter, when after investigation he shall determine that a weed is noxious in the United States or in any specifically designated area thereof.
 
-&emsp;(B) For the purpose of subchapter III of this chapter, the term “noxious-weed seeds” means the seeds of Lepidium draba L., Lepidium repens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv., quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
+&emsp;(B) For the purpose of subchapter III of this chapter, the term “noxious-weed seeds” means the seeds of Lepidium draba L., Lepidium repens (Schrenk) Boiss., Hymenophysa pubescens C. A., Mey., white top; Cirsium arvense (L.) Scop., Canada thistle; Cuscuta spp., dodder; Agropyron repens (L.) Beauv.,quackgrass; Sorghum halepense (L.) Pers., Johnson grass; Convolvulus arvensis L., bindweed; Centaurea picris Pall., Russian knapweed; Sonchus arvensis L., perennial sowthistle; Euphorbia esula L., leafy spurge; and seeds or bulblets of any other kinds which after investigation the Secretary of Agriculture finds should be included.
 
 &emsp;(10) The term “origin” means the State, District of Columbia, Puerto Rico, or possession of the United States, or the foreign country, or designated portion thereof, where the seed was grown.
 
@@ -92,7 +92,7 @@ Former subsec. (a)(6)(b), which extended the former term “circuit court of app
 
 Subsec. (a)(8)(A). Pub. L. 97–439, §5(a)(1)(C), substituted “(A)” for “(i)” before “The State into which”.
 
-Subsec. (a)(8)(B). Pub. L. 97–439, §5(a)(1)(A), (D), substituted “(B)” for “(ii)” before “Puerto Rico, Guam, or District of Columbia” and struck out a former subpar. (B) which had, for purposes of subchapter III, defined “weed seeds” to mean seeds or bulblets of plants found by Secretary to be detrimental to agricultural interests of the United States or any part thereof.
+Subsec. (a)(8)(B). Pub. L. 97–439, §5(a)(1)(A), (D), substituted “(B)” for “(ii)” before “Puerto Rico, Guam, or District of Columbia” and struck out a former subpar.\(B) which had, for purposes of subchapter III, defined “weed seeds” to mean seeds or bulblets of plants found by Secretary to be detrimental to agricultural interests of the United States or any part thereof.
 
 Subsec. (a)(17). Pub. L. 97–439, §5(a)(2), redesignated par. (18) as (17). Former par. (17), which, for purposes of subchapter III, had defined “pure live seed” as the portion of any lot of seed subject to this chapter consisting of live agricultural or vegetable seed determined by methods prescribed under section 1593 of this title, was struck out.
 

@@ -68,7 +68,7 @@ Each plan approved by the Secretary shall—
 
 &emsp;&emsp;(B) the prevention of the degradation of farmland soils, the long-term improvement of the fertility and physical properties of such soils; and
 
-&emsp;&emsp;(C) the protection of water supplies from contamination by managing or minimizingagricultural pollutants if their management or minimization results in positive economic and environmental benefits;
+&emsp;&emsp;(C) the protection of water supplies from contamination by managing or minimizing agricultural pollutants if their management or minimization results in positive economic and environmental benefits;
 
 &emsp;(5) assist the producer to comply with all Federal, State, and local requirements designed to protect soil, wetland, wildlife habitat, and the quality of groundwater and surface water; and
 
@@ -146,7 +146,7 @@ Each plan approved by the Secretary shall—
 
 #### (6) Base acre adjustments
 
-&emsp;The Secretary, only for the purpose of establishing a producer's crop acreage base under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may make such adjustments as the Secretary determines to be fair and equitable to reflect resource-conserving crop rotation practices that were maintained by producers prior to participation in the program and to reflect such other factors as the Secretary determines should be considered, except that the total of such adjustments in any year shall not exceed the total farm program savings in the same year that would result from the implementation of plans.
+&emsp;The Secretary, only for the purpose of establishing a producer's crop acreage base underthe Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may make such adjustments as the Secretary determines to be fair and equitable to reflect resource-conserving crop rotation practices that were maintained by producers prior to participation in the program and to reflect such other factors as the Secretary determines should be considered, except that the total of such adjustments in any year shall not exceed the total farm program savings in the same year that would result from the implementation of plans.
 
 #### (7) Payment acreage limitation
 
@@ -188,7 +188,7 @@ Subsec. (f)(5). Pub. L. 102–237, §201(a)(3), substituted “assist” for “
 
 Subsec. (h)(7)(B)(i). Pub. L. 102–237, §201(a)(4)(A), inserted before period at end of first sentence “, but only to the extent that such number exceeds the number of acres resulting from the reduction in payment acres under an amendment made by section 1101 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–1)”.
 
-Subsec. (h)(7)(B)(ii). Pub. L. 102–237, §201(a)(4)(B), substituted “under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)” for “under section101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)”.
+Subsec. (h)(7)(B)(ii). Pub. L. 102–237, §201(a)(4)(B), substituted “under section 101B(c)(1)(D), 103B(c)(1)(D), 105B(c)(1)(E), or 107B(c)(1)(E)” for “under section 101B(c)(1)(B), section 103B(c)(1)(B), section 105A(c)(1)(B), or section 107A(c)(1)(B)”.
 
 1990—Subsec. (d). Pub. L. 101–508, §1204(a)(1), substituted “enroll not less than” for “enroll not more than”.
 

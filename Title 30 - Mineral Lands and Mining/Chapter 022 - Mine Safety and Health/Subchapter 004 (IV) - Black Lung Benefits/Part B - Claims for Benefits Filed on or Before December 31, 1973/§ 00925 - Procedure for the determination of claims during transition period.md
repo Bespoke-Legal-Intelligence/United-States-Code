@@ -6,7 +6,7 @@
 
 &emsp;(2) The manner and place of filing such claim shall be in accordance with regulations issued jointly by the Commissioner of Social Security and the Secretary of Labor, which regulations shall provide, among other things, that such claims may be filed in district offices of the Social Security Administration and thereafter transferred to the jurisdiction of the Department of Labor for further consideration.
 
-&emsp;(3) The Secretary of Labor shall promptly notify any operator who he believes, on the basis of information contained in the claim, or any other information available to him, may be liable to pay benefits to the claimant under part C of this subchapter for any month after December 31, 1973.
+&emsp;(3) The Secretary of Labor shall promptly notify any operator who he believes, on the basis of information contained in the claim, or any other information available to him, may be liable to pay benefits to the claimant underpart C of this subchapter for any month after December 31, 1973.
 
 &emsp;(4) In determining such claims, the Secretary of Labor shall, to the extent appropriate, follow the procedures described in subsections (b), (c), and (d) of section 919 of title 33.
 

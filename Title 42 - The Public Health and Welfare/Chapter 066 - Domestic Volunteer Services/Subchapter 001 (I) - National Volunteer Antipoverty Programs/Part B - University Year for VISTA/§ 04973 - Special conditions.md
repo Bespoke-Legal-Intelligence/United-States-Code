@@ -18,11 +18,11 @@ Grants to and contracts with institutions to administer programs under this part
 
 #### References in Text
 
-The Economic Opportunity Act of 1964, as amended, referred to in subsec. (c)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of such Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of this title. Title VIII of the Economic Opportunity Act of 1964 as so added and amended was repealed by Pub. L. 93–113, title VI, §603, and its provisions are covered by this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Economic Opportunity Act of 1964, as amended, referred to in subsec. (c)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VIII of such Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of this title. Title VIII of the Economic Opportunity Act of 1964 as so added and amended was repealed by Pub. L. 93–113, title VI, §603, and its provisions are covered by this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-1993—Subsec. (a). Pub. L. 103–82, §330(a)(2), (b), substituted “VISTA program” for “ACTION program” and “semester or its equivalent” for “year” after “duration of an academic” and inserted at end “Volunteers may receive a living allowance and such other support or allowances as the Director determines to be appropriate.”
+1993—Subsec. (a). Pub. L. 103–82, §330(a)(2), (b), substituted “VISTA program” for “ACTION program” and“semester or its equivalent” for “year” after “duration of an academic” and inserted at end “Volunteers may receive a living allowance and such other support or allowances as the Director determines to be appropriate.”
 
 Subsec. (c)(1). Pub. L. 103–82, §330(a)(3), substituted “UYV programs” for “UYA programs”.
 

@@ -52,7 +52,7 @@
 
 #### (4) Costs
 
-&emsp;In any civil action brought for damages pursuant to paragraph (3), the appropriate courtmay award court costs to the party commencing such action, together with reasonable attorney fees and any expert witness fees, if that party prevails.
+&emsp;In any civil action brought for damages pursuant to paragraph (3), the appropriate court may award court costs to the party commencing such action, together with reasonable attorney fees and any expert witness fees, if that party prevails.
 
 #### (5) Prohibited act
 

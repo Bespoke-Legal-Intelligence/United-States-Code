@@ -26,5 +26,5 @@ Rule 1, referred to in pars. (a) and (b), is classified to section 2001 of this 
 
 #### Amendments
 
-1996—Par. (d). Pub. L. 104–324 inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by section 91 of title 46, Appendix, of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
+1996—Par. (d). Pub. L. 104–324 inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall withhold or revoke, at the request of the Secretary, the clearance, required by section 91 of title 46, Appendix,of any vessel, the owner or operator of which is subject to any of the penalties in this section. Clearance may be granted in such cases upon the filing of a bond or other surety satisfactory to the Secretary.”
 

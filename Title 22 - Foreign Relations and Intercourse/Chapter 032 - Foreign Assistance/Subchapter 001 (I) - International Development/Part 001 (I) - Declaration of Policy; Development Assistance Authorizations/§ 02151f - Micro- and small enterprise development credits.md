@@ -118,7 +118,7 @@ Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that:
 
 &emsp;“(9) Microfinance institutions leverage foreign assistance resources because loans are recycled, generating new benefits to program participants.
 
-&emsp;“(10)(A) The development of sustainable microfinance institutions that provide credit and training,and mobilize domestic savings, is a critical component to a global strategy of poverty reduction and broad-based economic development.
+&emsp;“(10)(A) The development of sustainable microfinance institutions that provide credit and training, and mobilize domestic savings, is a critical component to a global strategy of poverty reduction and broad-based economic development.
 
 &emsp;“(B) In the efforts of the United States to lead the development of a new global financial architecture, microenterprise should play a vital role. The recent shocks to international financial markets demonstrate how the financial sector can shape the destiny of nations. Microfinance can serve as a powerful tool for building a more inclusive financial sector which serves the broad majority of the world's population including the very poor and women and thus generate more social stability and prosperity.
 

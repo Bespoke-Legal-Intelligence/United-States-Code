@@ -92,7 +92,7 @@ From among the nominated areas eligible for designation under section 1391 by th
 
 #### (d) Special eligibility for nominated areas located in Alaska or Hawaii
 
-A nominated area in Alaska or Hawaii shall be treated as meeting the requirements of paragraphs (2), (3), and (4) of subsection (a) if for each census tract or block group within sucharea 20 percent or more of the families have income which is 50 percent or less of the statewide median family income (as determined under section 143).
+A nominated area in Alaska or Hawaii shall be treated as meeting the requirements of paragraphs (2), (3), and (4) of subsection (a) if for each census tract or block group within such area 20 percent or more of the families have income which is 50 percent or less of the statewide median family income (as determined under section 143).
 
 (Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 545; amended Pub. L. 105–34, title IX, §954, Aug. 5, 1997, 111 Stat. 888.)
 

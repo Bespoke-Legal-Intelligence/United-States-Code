@@ -44,7 +44,7 @@ Nothing in this section shall restrict any right which any person (or class of p
 
 #### (f) Effluent standard or limitation
 
-For purposes of this section, the term “effluent standard or limitation under this chapter”means (1) effective July 1, 1973, an unlawful act under subsection (a) of section 1311 of this title, (2) an effluent limitation or other limitation under section 1311 or 1312 of this title; (3) standard of performance under section 1316 of this title; (4) prohibition, effluent standard or pretreatment standards under section 1317 of this title; (5) certification under section 1341 of this title; (6) a permit or condition thereof issued under section 1342 of this title, which is in effect under this chapter (including a requirement applicable by reason of section 1323 of this title); or (7) a regulation under section 1345(d) of this title,.<sup>1</sup>
+For purposes of this section, the term “effluent standard or limitation under this chapter” means (1) effective July 1, 1973, an unlawful act under subsection (a) of section 1311 of this title; (2) an effluent limitation or other limitation under section 1311 or 1312 of this title; (3) standard of performance under section 1316 of this title; (4) prohibition, effluent standard or pretreatment standards under section 1317 of this title; (5) certification under section 1341 of this title; (6) a permit or condition thereof issued under section 1342 of this title, which is in effect under this chapter (including a requirement applicable by reason of section 1323 of this title); or (7) a regulation under section 1345(d) of this title,.<sup>1</sup>
 
 #### (g) “Citizen” defined
 
@@ -52,7 +52,7 @@ For the purposes of this section the term “citizen” means a person or person
 
 #### (h) Civil action by State Governors
 
-A Governor of a State may commence a civil action under subsection (a) of this section, without regard to the limitations of subsection (b) of this section, against the Administrator where there is alleged a failure of the Administrator to enforce an effluent standard or limitation under this chapter the violation of which is occurring in another State and is causing an adverse effect on the public health or welfare in his State, or is causing a violation of any water quality requirement in his State.
+A Governor of a State may commence a civil action under subsection (a) of this section, without regard to the limitations of subsection (b) of this section, against the Administrator where there is alleged a failure of the Administrator to enforce an effluent standard or limitation under this chapter the violation of which is occurring in another State and is causing an adverse effect on the public health or welfare in his State, oris causing a violation of any water quality requirement in his State.
 
 (June 30, 1948, ch. 758, title V, §505, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 888; amended Pub. L. 100–4, title III, §314(c), title IV, §406(d)(2), title V, §§504, 505(c), Feb. 4, 1987, 101 Stat. 49, 73, 75, 76.)
 

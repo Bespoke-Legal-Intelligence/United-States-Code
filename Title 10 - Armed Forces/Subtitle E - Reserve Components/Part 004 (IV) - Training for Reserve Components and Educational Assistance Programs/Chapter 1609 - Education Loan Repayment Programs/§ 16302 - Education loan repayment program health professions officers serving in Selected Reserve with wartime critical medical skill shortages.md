@@ -24,9 +24,9 @@
 
 (3) The total amount that may be repaid on behalf of any person under this section may not exceed $50,000.
 
-(d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer before January 1, 2002.
+(d) The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer before January 1, 2003.
 
-(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 662, §2172; amended Pub. L. 100–180, div. A, title VII, §713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, §612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered §16302 and amended Pub. L. 103–337, div. A, title VI, §613(e), title X, §1070(a)(9), title XVI, §1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009; Pub. L. 104–106, div. A, title VI, §613(h), title X, §1079(c), Feb. 10, 1996, 110 Stat. 360, 452; Pub. L. 104–201, div. A, title VI, §613(g), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §611(h), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §§611(h), 654, Oct. 17, 1998, 112 Stat. 2039, 2052; Pub. L. 106–65, div. A, title VI, §611(h), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151.)
+(Added Pub. L. 99–145, title VI, §671(a)(1), Nov. 8, 1985, 99 Stat. 662, §2172; amended Pub. L. 100–180, div. A, title VII, §713, Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §701(a)–(c), Nov. 29, 1989, 103 Stat. 1467; Pub. L. 102–484, div. A, title VI, §612(f), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §613(f), Nov. 30, 1993, 107 Stat. 1681; renumbered §16302 and amended Pub. L. 103–337, div. A, title VI, §613(e), title X, §1070(a)(9), title XVI, §1663(d)(2), Oct. 5, 1994, 108 Stat. 2783, 2855, 3009; Pub. L. 104–106, div. A, title VI, §613(h), title X, §1079(c), Feb. 10, 1996, 110 Stat. 360, 452; Pub. L. 104–201, div. A, title VI, §613(g), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §611(h), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §§611(h), 654, Oct. 17, 1998, 112 Stat. 2039, 2052; Pub. L. 106–65, div. A, title VI, §611(h), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(h), Dec. 28, 2001, 115 Stat. 1135.)
 
 #### References in Text
 
@@ -36,11 +36,13 @@ The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 194
 
 #### Amendments
 
+2001—Subsec. (d). Pub. L. 107–107 substituted “January 1, 2003” for “January 1, 2002”.
+
 2000—Subsec. (d). Pub. L. 106–398 substituted “January 1, 2002” for “January 1, 2001”.
 
 1999—Subsec. (d). Pub. L. 106–65 substituted “January 1, 2001” for “January 1, 2000”.
 
-1998—Subsec. (b)(2). Pub. L. 105–261, §654(a), inserted “, or is enrolled in a program of education leading toprofessional qualifications,” after “possesses professional qualifications”.
+1998—Subsec. (b)(2). Pub. L. 105–261, §654(a), inserted “, or is enrolled in a program of education leading to professional qualifications,” after “possesses professional qualifications”.
 
 Subsec. (c)(2). Pub. L. 105–261, §654(b)(1), substituted “$20,000” for “$3,000”.
 

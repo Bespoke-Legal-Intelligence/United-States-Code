@@ -16,7 +16,7 @@ The purposes of this section are—
 
 #### (2) General authority
 
-To enhance the ability of the Secretary of the Interior (hereafter in this section referred to as “the Secretary”), acting through the Director of the National Park Service, to effectively manage units of the National Park System, the Secretary is authorized where necessary and justified to make available employee housing, on oroff the lands under the administrative jurisdiction of the National Park Service, and to rent or lease such housing to field employees of the National Park Service at rates based on the reasonable value of the housing in accordance with requirements applicable under section 5911 of title 5.
+To enhance the ability of the Secretary of the Interior (hereafter in this section referred to as “the Secretary”), acting through the Director of the National Park Service, to effectively manage units of the National Park System, the Secretary is authorized where necessary and justified to make available employee housing, on or off the lands under the administrative jurisdiction of the National Park Service, and to rent or lease such housing to field employees of the National Park Service at rates based on the reasonable value of the housing in accordance with requirements applicable under section 5911 of title 5.
 
 #### (3) Review and revision of housing criteria
 

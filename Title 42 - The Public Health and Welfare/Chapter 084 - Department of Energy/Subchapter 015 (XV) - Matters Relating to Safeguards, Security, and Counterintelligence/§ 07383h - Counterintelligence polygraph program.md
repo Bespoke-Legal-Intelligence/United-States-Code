@@ -2,7 +2,7 @@
 
 #### (a) Program required
 
-The Secretary of Energy, acting through the Director of Counterintelligence, shall carry out a counterintelligence polygraph program for the defense-related activities of the Department. The counterintelligence polygraph program shall consist of the administration of counterintelligence polygraph examinations to eachcovered person who has access to high-risk programs.
+The Secretary of Energy, acting through the Director of Counterintelligence, shall carry out a counterintelligence polygraph program for the defense-related activities of the Department. The counterintelligence polygraph program shall consist of the administration of counterintelligence polygraph examinations to each covered person who has access to high-risk programs.
 
 #### (b) Covered persons
 
@@ -62,7 +62,7 @@ For purposes of this section, high-risk programs are the following:
 
 &emsp;(B) The Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(6) It is the sense of Congress that the waiver authority in paragraph (2) not be used by the Secretary to exempt from the applicability of paragraph (1) any covered persons in the highest risk categories, such as persons who have access to the most sensitive weapons design information and other highly sensitive programs, including special access programs.
+(6) It is the sense of Congress that the waiver authority in paragraph (2) not be used by theSecretary to exempt from the applicability of paragraph (1) any covered persons in the highest risk categories, such as persons who have access to the most sensitive weapons design information and other highly sensitive programs, including special access programs.
 
 (7) The authority under paragraph (2) to waive the applicability of paragraph (1) to a covered person shall expire on September 30, 2002.
 
@@ -96,6 +96,10 @@ Not later than 180 days after October 5, 1999, the Secretary shall submit to the
 
 (Pub. L. 106–65, div. C, title XXXI, §3154, Oct. 5, 1999, 113 Stat. 941; Pub. L. 106–398, §1 \[div. C, title XXXI, §3135\], Oct. 30, 2000, 114 Stat. 1654, 1654A–456.)
 
+#### Repeal of Section
+
+<i>Pub. L. 107–107, div. C, title XXXI, §3152(c), Dec. 28, 2001, 115 Stat. 1377, provided that, effective 30 days after the Secretary submits to the Committees on Armed Services and Appropriations of Senate and House of Representatives the Secretary's certification that the final rule for the new counterintelligence polygraph program required by section 7383h–1(a) of this title has been fully implemented, this section is repealed.</i>
+
 #### Amendments
 
 2000—Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3135(a)\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For purposes of this section, a covered person is one of the following:
@@ -115,4 +119,8 @@ Subsec. (c). Pub. L. 106–398, §1 \[div. C, title XXXI, §3135(b)\], amended h
 Subsec. (d). Pub. L. 106–398, §1 \[div. C, title XXXI, §3135(c)\], designated existing provisions as par. (1) and added pars. (2) to (7).
 
 Subsec. (f). Pub. L. 106–398, §1 \[div. C, title XXXI, §3135(d)\], inserted “terrorism,” after “sabotage,” and “deliberate damage to or malicious misuse of a United States Government information or defense system,” before “and unauthorized”.
+
+#### Effective Date of Repeal
+
+Pub. L. 107–107, div. C, title XXXI, §3152(c), Dec. 28, 2001, 115 Stat. 1377, provided that this section is repealed effective 30 days after the Secretary of Energy submits to the Committees on Armed Services and Appropriations of Senate and House of Representatives the Secretary's certification that the final rule for the new counterintelligence polygraph program required by section 7383h–1(a) of this title has been fully implemented.
 

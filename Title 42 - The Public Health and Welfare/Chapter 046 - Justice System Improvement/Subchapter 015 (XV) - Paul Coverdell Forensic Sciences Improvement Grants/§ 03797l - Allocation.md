@@ -8,7 +8,7 @@
 
 #### (2) Discretionary allocation
 
-&emsp;Twenty-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated pursuant to the Attorney General's discretion to States with above average rates of part 1 violent crimes based on the average annual number of part 1 violent crimes reported by such State to theFederal Bureau of Investigation for the 3 most recent calendar years for which such data is available.
+&emsp;Twenty-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated pursuant to the Attorney General's discretion to States with above average rates of part 1 violent crimes based on the average annual number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 most recent calendar years for which such data is available.
 
 #### (3) Minimum requirement
 

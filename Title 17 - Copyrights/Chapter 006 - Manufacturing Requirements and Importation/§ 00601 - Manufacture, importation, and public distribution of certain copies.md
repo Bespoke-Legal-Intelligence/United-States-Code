@@ -24,7 +24,7 @@
 
 &emsp;(7) where, on the date when importation is sought or public distribution in the United States is made—
 
-&emsp;&emsp;(A) the author of any substantial part of such material is an individual and receivescompensation for the transfer or license of the right to distribute the work in the United States; and
+&emsp;&emsp;(A) the author of any substantial part of such material is an individual and receives compensation for the transfer or license of the right to distribute the work in the United States; and
 
 &emsp;&emsp;(B) the first publication of the work has previously taken place outside the United States under a transfer or license granted by such author to a transferee or licensee who was not a national or domiciliary of the United States or a domestic corporation or enterprise; and
 
@@ -68,7 +68,7 @@ The principal arguments for elimination of the manufacturing requirement can be 
 
 &emsp;2\. The provision places unjustified burdens on the author, who is treated as a hostage. It hurts the author most where it benefits the manufacturer least: in cases where the author must publish abroad or not at all. It unfairly discriminates between American authors and other authors, and between authors of books and authors of other works.
 
-&emsp;3\. The manufacturing clause violates the basic principle that an author's rights should not be dependent on the circumstances of manufacture. Complete repeal would substantially reduce friction with foreign authors and publishers, increase opportunities for American authors to have their works published, encourage international publishing ventures, and eliminate the tangle of procedural requirements now burdening authors, publishers, the Copyright Office, and the United States Customs Service.
+&emsp;3\. The manufacturing clause violates the basic principle that an author's rights should not be dependenton the circumstances of manufacture. Complete repeal would substantially reduce friction with foreign authors and publishers, increase opportunities for American authors to have their works published, encourage international publishing ventures, and eliminate the tangle of procedural requirements now burdening authors, publishers, the Copyright Office, and the United States Customs Service.
 
 &emsp;4\. Studies prove that the economic fears of the printing industry and unions are unfounded. The vast bulk of American titles are completely manufactured in the United States, and U.S. exports of printed matter are much greater than imports. The American book manufacturing industry is healthy and growing, to the extent that it cannot keep pace with its orders. There are increasing advantages to domestic manufacture because of improved technology, and because of the delays, inconveniences, and other disadvantages of foreign manufacture. Even with repeal, foreign manufacturing would be confined to small editions and scholarly works, some of which could not be published otherwise.
 

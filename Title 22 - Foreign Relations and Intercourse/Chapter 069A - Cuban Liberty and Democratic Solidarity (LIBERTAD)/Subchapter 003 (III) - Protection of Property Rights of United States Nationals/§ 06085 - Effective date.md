@@ -12,7 +12,7 @@ Subject to subsections (b) and (c) of this section, this subchapter and the amen
 
 #### (2) Additional suspensions
 
-&emsp;The President may suspend the effective date under subsection (a) of this section for additional periods of not more than 6 months each, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
+&emsp;The President may suspend the effective date under subsection (a) of this section for additional periods of not more than 6 monthseach, each of which shall begin on the day after the last day of the period during which a suspension is in effect under this subsection, if the President determines and reports in writing to the appropriate congressional committees at least 15 days before the date on which the additional suspension is to begin that the suspension is necessary to the national interests of the United States and will expedite a transition to democracy in Cuba.
 
 #### (c) Other authorities
 
@@ -34,7 +34,7 @@ Subject to subsections (b) and (c) of this section, this subchapter and the amen
 
 #### (d) Rescission of suspension
 
-The President may rescind any suspension made under subsection (b) or (c) of this sectionupon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
+The President may rescind any suspension made under subsection (b) or (c) of this section upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
 
 (Pub. L. 104–114, title III, §306, Mar. 12, 1996, 110 Stat. 821.)
 

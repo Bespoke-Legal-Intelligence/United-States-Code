@@ -6,7 +6,7 @@ Upon the termination of the detail of an officer to the position of Superintende
 
 #### Prior Provisions
 
-A prior section 3921, acts Aug. 10, 1956, ch. 1041, 70A Stat. 226; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115, provided for retirement of a promotion-list colonel, except as provided by section 8301 of title 5, on the 30th day after he completes 30 years of service or the 5th anniversary of the date of his appointment in that regular grade, whichever is later, with authority for the Secretary of the Army to defer retirement in certain cases. See section 634 of this title, prior to repeal by Pub. L. 96–513, title II, §217(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2886, 2955, effective Sept. 15, 1981.
+A prior section 3921, acts Aug. 10, 1956, ch. 1041, 70A Stat. 226; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115, provided for retirement of a promotion-list colonel, except as provided by section 8301 of title 5, on the 30th day after he completes 30 years of service or the 5th anniversary of the date of his appointment in that regular grade, whichever is later, with authority for the Secretary of the Army to defer retirement in certain cases, prior to repeal by Pub. L. 96–513, title II, §217(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2886, 2955, effective Sept. 15, 1981. See section 634 of this title.
 
 #### Application of Section to Superintendents Serving on October 5, 1999
 

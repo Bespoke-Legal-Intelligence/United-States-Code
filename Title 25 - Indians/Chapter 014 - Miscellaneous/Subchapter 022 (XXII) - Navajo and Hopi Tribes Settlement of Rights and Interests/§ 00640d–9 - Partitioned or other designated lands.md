@@ -6,7 +6,7 @@ Subject to the provisions of sections 640d–8 and 640d–16(a) of this title, a
 
 #### (b) Lands to be held in trust for Hopi Tribe
 
-Subject to the provisions of sections 640d–8 and 640d–16(a) of this title, any lands partitioned to the Hopi Tribe pursuant to sections 640d–2 and 640d–3 of this title and the lands as described in section 640d–7 of this title shall be held in trust by the United States exclusively for the Hopi Tribe and as a part of the Hopi Reservation.
+Subject to the provisions of sections 640d–8 and 640d–16(a) of this title, any lands partitionedto the Hopi Tribe pursuant to sections 640d–2 and 640d–3 of this title and the lands as described in section 640d–7 of this title shall be held in trust by the United States exclusively for the Hopi Tribe and as a part of the Hopi Reservation.
 
 #### (c) Protection of rights and property of individuals subject to relocation
 

@@ -46,7 +46,7 @@ In addition to any other powers granted to the Corporation under this subchapter
 
 &emsp;(7) may provide for and designate such committees, and the functions of the committees, as the Corporate Board considers necessary or desirable;
 
-&emsp;(8) may indemnify the Executive Director and other officers of the Corporation, as the Corporate Board considers necessary and desirable, except that the Executive Director and officers shall not be indemnified for an act outside the scope of employment;
+&emsp;(8) may indemnify the Executive Director and other officers of the Corporation, as theCorporate Board considers necessary and desirable, except that the Executive Director and officers shall not be indemnified for an act outside the scope of employment;
 
 &emsp;(9) may, with the consent of any board, commission, independent establishment, or executive department of the Federal Government, including any field service, use information, services, facilities, officials, and employees in carrying out this subchapter, and pay for the use, which payments shall be transferred to the applicable appropriation account that incurred the expense;
 
@@ -108,7 +108,7 @@ Feasibility Study and Report.—
 
 &emsp;“(1)
 
-Study.—The Secretary of Agriculture shall conduct a study of, and prepare a report on, the continued feasibility of the Alternative Agricultural Research and Commercialization Corporation. In conducting the study, the Secretary shall examine options for privatizing the Corporation and convertingthe Corporation to a Government-sponsored enterprise.
+Study.—The Secretary of Agriculture shall conduct a study of, and prepare a report on, the continued feasibility of the Alternative Agricultural Research and Commercialization Corporation. In conducting the study, the Secretary shall examine options for privatizing the Corporation and converting the Corporation to a Government-sponsored enterprise.
 
 &emsp;“(2)
 

@@ -2,7 +2,7 @@
 
 The purposes of this subchapter are to—
 
-&emsp;(1) minimize the paperwork burden for individuals, small businesses, educational andnonprofit institutions, Federal contractors, State, local and tribal governments, and other persons resulting from the collection of information by or for the Federal Government;
+&emsp;(1) minimize the paperwork burden for individuals, small businesses, educational and nonprofit institutions, Federal contractors, State, local and tribal governments, and other persons resulting from the collection of information by or for the Federal Government;
 
 &emsp;(2) ensure the greatest possible public benefit from and maximize the utility of information created, collected, maintained, used, shared and disseminated by or for the Federal Government;
 
@@ -80,5 +80,5 @@ This chapter is popularly known as the “Paperwork Reduction Act”.
 
 #### Waiver of Paperwork Reduction
 
-Pub. L. 101–508, title IV, §4711(f), Nov. 5, 1990, 104 Stat. 1388–187, provided that: “Chapter 35 of title 44, United States Code, and Executive Order 12291 \[formerly set out as a note under section 601 of Title 5, Government Organization and Employees\] shall not apply to information and regulations required for purposes of carrying out this Act \[see Tables for classification\] and implementing the amendments made by this Act.”
+Pub. L. 101–508, title IV, §4711(f), Nov. 5, 1990, 104 Stat. 1388–187, provided that: “Chapter 35 of title 44, UnitedStates Code, and Executive Order 12291 \[formerly set out as a note under section 601 of Title 5, Government Organization and Employees\] shall not apply to information and regulations required for purposes of carrying out this Act \[see Tables for classification\] and implementing the amendments made by this Act.”
 

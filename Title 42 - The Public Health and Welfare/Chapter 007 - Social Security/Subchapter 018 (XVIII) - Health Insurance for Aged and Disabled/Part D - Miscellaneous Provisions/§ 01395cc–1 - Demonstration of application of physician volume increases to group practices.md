@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) a base expenditure amount, equal to the average total payments under parts A and B of this subchapter for patients served by the health care group on a fee-for-service basis in a base period determined by the Secretary; and
 
-&emsp;&emsp;(B) an annual per capita expenditure target for patients determined to be within the scope of the demonstration, reflecting the base expenditure amount adjusted for risk and expected growth rates.
+&emsp;&emsp;(B) an annual per capita expenditure target for patients determined to be within thescope of the demonstration, reflecting the base expenditure amount adjusted for risk and expected growth rates.
 
 #### (2) Incentive bonus
 

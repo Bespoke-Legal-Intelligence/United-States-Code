@@ -2,17 +2,17 @@
 
 (a)
 
-Effectiveness of Orders.—Except as provided in this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) takes effect within a reasonable time prescribed by the Secretary or Administrator. The regulation or order remains in effect under its own terms or until superseded. Except as provided in this part, the Secretary or Administrator may amend, modify, or suspend an order in the way, and by giving the notice, the Secretary or Administrator decides.
+Effectiveness of Orders.—Except as provided in this part, a regulation prescribed or order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) takes effect within a reasonable time prescribed by the Secretary, Under Secretary, or Administrator. The regulation or order remains in effect under its own terms or until superseded. Except as provided in this part, the Secretary, Under Secretary, or Administrator may amend, modify, or suspend an order in the way, and by giving the notice, the Secretary, Under Secretary, or Administrator decides.
 
 (b)
 
-Contents and Service of Orders.—An order of the Secretary or Administrator shall include the findings of fact on which the order is based and shall be served on the parties to the proceeding and the persons affected by the order.
+Contents and Service of Orders.—An order of the Secretary, Under Secretary, or Administrator shall include the findings of fact on which the order is based and shall be served on the parties to the proceeding and the persons affected by the order.
 
 (c)
 
 Emergencies.—When the Administrator is of the opinion that an emergency exists related to safety in air commerce and requires immediate action, the Administrator, on the initiative of the Administrator or on complaint, may prescribe regulations and issue orders immediately to meet the emergency, with or without notice and without regard to this part and subchapter II of chapter 5 of title 5. The Administrator shall begin a proceeding immediately about an emergency under this subsection and give preference, when practicable, to the proceeding.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1228.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1228; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001, 115 Stat. 641.)
 
 Historical and Revision Notes
 
@@ -65,4 +65,10 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 In subsection (a), the words “under its own terms or until superseded” are substituted for “until their further order, rule, or regulation, or for a specified period of time, as shall be prescribed in the order, rule, or regulation” for clarity and to eliminate unnecessary words. The word “amend” is added for consistency in the revised title. The text of 49 App.:1485(e) is omitted as surplus.
 
 In subsection (c), the words “without complaint” and “if he so orders” are omitted as surplus. The words “prescribe . . . issue” are substituted for “make” for consistency in the revised title and with other titles of the United States Code. The words “just and reasonable” and “as may be essential in the interest of safety in air commerce” are omitted as surplus. The words “without regard to this part and subchapter II of chapter 5 of title 5” are substituted for “without answer or other form of pleading by the interested person or persons, and . . . hearing, or the making or filing of a report” to eliminate unnecessary words. The words “over all others under this chapter” are omitted as surplus.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–71, §140(b)(1), (2), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or” and substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
+
+Subsec. (b). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
 

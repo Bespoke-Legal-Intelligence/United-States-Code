@@ -20,5 +20,5 @@
 
 #### Effective Date
 
-Section 617(c) of Pub. L. 100–180 provided that: “Subsection (h) of section 404 of title 37, United States Code (as added by subsection (a)), and section 1591 of title 10, United States Code (as added by subsection (b)), shall apply with respect to travel performed after the date of the enactment of this Act \[Dec. 4, 1987\].”
+Section 617(c) of Pub. L. 100–180 provided that: “Subsection (h) of section 404 of title 37, United States Code\(as added by subsection (a)), and section 1591 of title 10, United States Code (as added by subsection (b)), shall apply with respect to travel performed after the date of the enactment of this Act \[Dec. 4, 1987\].”
 

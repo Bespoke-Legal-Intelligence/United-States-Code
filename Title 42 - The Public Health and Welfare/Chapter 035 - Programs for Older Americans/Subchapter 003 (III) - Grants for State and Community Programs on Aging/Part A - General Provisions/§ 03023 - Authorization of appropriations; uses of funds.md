@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 106–501, §302(2), added subsec. (b) and struck out forme
 
 “(2) There are authorized to be appropriated $120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, for the purpose of making grants under subpart II of part C of this subchapter (relating to home delivered nutrition services).
 
-“(3) There are authorized to be appropriated $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, to carryout subpart III of part C of this subchapter (relating to school-based meals for volunteer older individuals and multigenerational programs).”
+“(3) There are authorized to be appropriated $15,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995, to carry out subpart III of part C of this subchapter (relating to school-based meals for volunteer older individuals and multigenerational programs).”
 
 Subsecs. (d) to (g). Pub. L. 106–501, §302(3), added subsecs. (d) and (e) and struck out former subsecs. (d) to (g) which authorized appropriations for fiscal years 1992 to 1995 to carry out parts D to G of this subchapter.
 
@@ -58,7 +58,7 @@ Subsec. (a)(3). Pub. L. 102–375, §303(a)(3), struck out par. (3) which read a
 
 Subsec. (b)(1). Pub. L. 102–375, §303(b)(1), substituted “$505,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for “$414,750,000 for the fiscal year 1988, $435,488,000 for the fiscal year 1989, $457,262,000 for the fiscal year 1990, and $480,125,000 for the fiscal year 1991”.
 
-Subsec. (b)(2). Pub. L. 102–375, §303(b)(2), substituted “$120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for “$79,380,000 for the fiscal year 1988, $83,349,000 for the fiscal year 1989, $87,516,000 for the fiscal year 1990, and $91,892,000 for the fiscal year 1991”.
+Subsec. (b)(2). Pub. L. 102–375, §303(b)(2), substituted “$120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for“$79,380,000 for the fiscal year 1988, $83,349,000 for the fiscal year 1989, $87,516,000 for the fiscal year 1990, and $91,892,000 for the fiscal year 1991”.
 
 Subsec. (b)(3). Pub. L. 102–375, §303(b)(3), added par. (3).
 

@@ -20,7 +20,7 @@
 
 1999—Pub. L. 106–65, div. A, title IX, §915(b), Oct. 5, 1999, 113 Stat. 722, added item 2611.
 
-1996—Pub. L. 104–201, div. A, title X, §1074(a)(15), Sept. 23, 1996, 110 Stat. 2659, struck out item 2609 “Theater Missile Defense: acceptance of contributions from allies; Theater Missile Defense Cooperation Account”.
+1996—Pub. L. 104–201, div. A, title X, §1074(a)(15), Sept. 23, 1996, 110 Stat. 2659, struck out item 2609 “TheaterMissile Defense: acceptance of contributions from allies; Theater Missile Defense Cooperation Account”.
 
 Pub. L. 104–106, div. A, title III, §377(b), Feb. 10, 1996, 110 Stat. 284, added item 2610.
 
@@ -41,8 +41,6 @@ Pub. L. 104–106, div. A, title III, §377(b), Feb. 10, 1996, 110 Stat. 284, ad
 1970—Pub. L. 91–603, §3(2), Dec. 31, 1970, 84 Stat. 1675, added item 2604.
 
 1962—Pub. L. 87–555, §1(2), July 27, 1962, 76 Stat. 244, added item 2603.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “2583”.</i>
 
 
 ---

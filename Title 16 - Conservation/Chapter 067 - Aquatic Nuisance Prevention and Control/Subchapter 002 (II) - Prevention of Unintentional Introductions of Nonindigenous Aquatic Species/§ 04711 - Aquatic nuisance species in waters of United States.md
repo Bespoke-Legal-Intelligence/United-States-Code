@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(J) not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of the United States under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); and
 
-&emsp;&emsp;(K) provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systems that are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
+&emsp;&emsp;(K) provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systemsthat are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
 
 &emsp;&emsp;(L) not apply to crude oil tankers engaged in the coastwise trade.
 
@@ -132,7 +132,7 @@
 
 #### (d) Report to Congress
 
-Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) of this section and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretaryshall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e) of this section.
+Not sooner than 24 months after the date of issuance of guidelines pursuant to subsection (c) of this section and not later than 30 months after such date, and after consultation with interested and affected persons, the Secretary shall prepare and submit to Congress a report containing the information required pursuant to paragraphs (1) and (2) of subsection (e) of this section.
 
 #### (e) Periodic review and revision
 
@@ -226,7 +226,7 @@ Not sooner than 24 months after the date of issuance of guidelines pursuant to s
 
 #### (h) Coordination with other agencies
 
-In carrying out the programs under this section, the Secretary is encouraged to use, to themaximum extent practicable, the expertise, facilities, members, or personnel of established agencies and organizations that have routine contact with vessels, including the Animal and Plant Health Inspection Service of the Department of Agriculture, the National Cargo Bureau, port administrations, and ship pilots’ associations.
+In carrying out the programs under this section, the Secretary is encouraged to use, to the maximum extent practicable, the expertise, facilities, members, or personnel of established agencies and organizations that have routine contact with vessels, including the Animal and Plant Health Inspection Service of the Department of Agriculture, the National Cargo Bureau, port administrations, and ship pilots’ associations.
 
 #### (i) Consultation with Canada, Mexico, and other foreign governments
 
@@ -276,7 +276,7 @@ October 26, 1996, referred to in subsec. (k)(3), was in the original “the date
 
 #### Amendments
 
-1996—Pub. L. 104–332 amended section generally, substituting subsecs. (a) to (<i>l</i>) relating to aquatic nuisance species in waters of the United States for former subsecs. (a) to (e) relating to aquatic nuisance species in the Great Lakes.
+1996—Pub. L. 104–332 amended section generally, substituting subsecs. (a) to (<i>l</i>) relating to aquatic nuisancespecies in waters of the United States for former subsecs. (a) to (e) relating to aquatic nuisance species in the Great Lakes.
 
 1992—Subsec. (b)(3). Pub. L. 102–580 and Pub. L. 102–587 made substantively identical amendments, adding par. (3). Par. (3) is based on text of Pub. L. 102–587.
 

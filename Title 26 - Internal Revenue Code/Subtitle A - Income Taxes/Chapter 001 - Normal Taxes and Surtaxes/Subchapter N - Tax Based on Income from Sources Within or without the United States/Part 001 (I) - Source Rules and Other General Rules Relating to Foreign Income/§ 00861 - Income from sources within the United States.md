@@ -44,7 +44,7 @@ The following items of gross income shall be treated as income from sources with
 
 &emsp;&emsp;&emsp;(ii) an individual who is a citizen or resident of the United States, a domestic partnership, or a domestic corporation, if such labor or services are performed for an office or place of business maintained in a foreign country or in a possession of the United States by such individual, partnership, or corporation.
 
-> &emsp;In addition, except for purposes of sections 79 and 105 and subchapter D, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual in connection with the individual's temporary presence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.
+> &emsp;In addition, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual in connection with the individual's temporary presence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.
 
 #### (4) Rentals and royalties
 
@@ -56,7 +56,7 @@ The following items of gross income shall be treated as income from sources with
 
 #### (6) Sale or exchange of inventory property
 
-&emsp;Gains, profits, and income derived from the purchase of inventory property (within themeaning of section 865(i)(1)) without the United States (other than within a possession of the United States) and its sale or exchange within the United States.
+&emsp;Gains, profits, and income derived from the purchase of inventory property (within the meaning of section 865(i)(1)) without the United States (other than within a possession of the United States) and its sale or exchange within the United States.
 
 &emsp;(7) Amounts received as underwriting income (as defined in section 832(b)(3)) derived from the issuing (or reinsuring) of any insurance or annuity contract—
 
@@ -88,7 +88,7 @@ From the items of gross income specified in subsection (a) as being income from 
 
 &emsp;&emsp;&emsp;(ii) is attributable to the active conduct of a trade or business in a foreign country or possession of the United States by the individual or corporation (or by a subsidiary.)
 
-> &emsp;&emsp;For purposes of this subparagraph, the term “subsidiary” means any corporation in which the corporation referred to in this subparagraph owns (directly or indirectly) stock meeting the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
+> &emsp;&emsp;For purposes of this subparagraph, the term “subsidiary” means any corporation inwhich the corporation referred to in this subparagraph owns (directly or indirectly) stock meeting the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears).
 
 #### (C) Testing period
 
@@ -140,9 +140,15 @@ For purposes of subsection (a)(2)(B), if the foreign corporation has no gross in
 
 &emsp;&emsp;<b>For treatment of interest paid by the branch of a foreign corporation, see section 884(f).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 275; Pub. L. 86–779, §3(b), Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–834, §9(c), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), Nov. 13, 1966, 80 Stat. 1541–1543; Pub. L. 91–172, title IV, §435(a), Dec. 30, 1969, 83 Stat. 625; Pub. L. 92–9, §3(a)(2), Apr. 1, 1971, 85 Stat. 15; Pub. L. 92–178, title III, §314(a), title V, §503, Dec. 10, 1971, 85 Stat. 528, 550; Pub. L. 93–625, §§8, 9(a), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; Pub. L. 95–30, title I, §102(b)(9), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title III, §370(a), title V, §540(a), Nov. 6, 1978, 92 Stat. 2858, 2887; Pub. L. 96–499, title XI, §1124, Dec. 5, 1980, 94 Stat. 2690; Pub. L. 96–605, title I, §104(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 98–21, title I, §121(d), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), Oct. 22, 1986, 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Pub. L. 100–203, title X, §10221(d)(4), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), Nov. 10, 1988, 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), Dec. 19, 1989, 103 Stat. 2409, 2428; Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), Nov. 5, 1990, 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555; Pub. L. 104–188, title I, §1702(h)(9), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XI, §1174(a)(1), Aug. 5, 1997, 111 Stat. 989.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 275; Pub. L. 86–779, §3(b), Sept. 14, 1960, 74 Stat. 998; Pub. L. 87–834, §9(c), Oct. 16, 1962, 76 Stat. 1001; Pub. L. 89–809, title I, §102(a)(1)–(3), (b), (c), Nov. 13, 1966, 80 Stat. 1541–1543; Pub. L. 91–172, title IV, §435(a), Dec. 30, 1969, 83 Stat. 625; Pub. L. 92–9, §3(a)(2), Apr. 1, 1971, 85 Stat. 15; Pub. L. 92–178, title III, §314(a), title V, §503, Dec. 10, 1971, 85 Stat. 528, 550; Pub. L. 93–625, §§8, 9(a), Jan. 3, 1975, 88 Stat. 2116; Pub. L. 94–455, title X, §§1036(a), 1041, 1051(h)(3), title XIX, §§1901(b)(26)(A), (B), (c)(7), 1904(b)(10)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1633, 1634, 1647, 1798, 1803, 1817, 1834; Pub. L. 95–30, title I, §102(b)(9), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title III, §370(a), title V, §540(a), Nov. 6, 1978, 92 Stat. 2858, 2887; Pub. L. 96–499, title XI, §1124, Dec. 5, 1980, 94 Stat. 2690; Pub. L. 96–605, title I, §104(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 98–21, title I, §121(d), Apr. 20, 1983, 97 Stat. 83; Pub. L. 99–514, title I, §104(b)(11), title XII, §§1211(b)(1)(B), 1212(d), 1214(a), (b), (c)(5), 1241(b), Oct. 22, 1986, 100 Stat. 2105, 2536, 2539, 2541–2543, 2579; Pub. L. 100–203, title X, §10221(d)(4), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1012(g)(3), (i)(10), (14)(B), (q)(7), (9), (15), 1018(u)(39), Nov. 10, 1988, 102 Stat. 3501, 3509, 3510, 3524, 3525, 3592; Pub. L. 101–239, title VII, §§7811(i)(2), 7841(d)(9), Dec. 19, 1989, 103 Stat. 2409, 2428; Pub. L. 101–508, title XI, §§11801(a)(29), (c)(6)(C), (14), 11813(b)(17), Nov. 5, 1990, 104 Stat. 1388–521, 1388–524, 1388–527, 1388–555; Pub. L. 104–188, title I, §1702(h)(9), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XI, §1174(a)(1), Aug. 5,1997, 111 Stat. 989; Pub. L. 107–16, title VI, §621(a), June 7, 2001, 115 Stat. 111.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–16, §§621(a), 901, temporarily struck out “except for purposes of sections 79 and 105 and subchapter D,” after “In addition,” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1997</b>—Subsec. (a)(3). Pub. L. 105–34 inserted concluding provisions “In addition, except for purposes of sections 79 and 105 and subchapter D, compensation for labor or services performed in the United States shall not be deemed to be income from sources within the United States if the labor or services are performed by a nonresident alien individual in connection with the individual's temporary presence in the United States as a regular member of the crew of a foreign vessel engaged in transportation between the United States and a foreign country or a possession of the United States.”
 
@@ -180,7 +186,7 @@ Subsec. (a)(6). Pub. L. 100–647, §1018(u)(39), substituted “inventory prope
 
 Subsec. (a)(7). Pub. L. 100–647, §1012(i)(10), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Amounts received as underwriting income (as defined in section 832(b)(3)) derived from the insurance of United States risks (as defined in section 953(a)).”
 
-Subsec. (c)(1)(B). Pub. L. 100–647, §1012(g)(3), inserted “or, in the case of a corporation, is attributable to income so derived by a subsidiary of such corporation” after parenthetical in cl. (i), struck out “or chain ofsubsidiaries of such corporation” after “by a subsidiary” in cl. (ii), and inserted sentence at end defining “subsidiary”.
+Subsec. (c)(1)(B). Pub. L. 100–647, §1012(g)(3), inserted “or, in the case of a corporation, is attributable to income so derived by a subsidiary of such corporation” after parenthetical in cl. (i), struck out “or chain of subsidiaries of such corporation” after “by a subsidiary” in cl. (ii), and inserted sentence at end defining “subsidiary”.
 
 Subsec. (c)(2)(B)(ii). Pub. L. 100–647, §1012(i)(14)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “such section shall be applied by substituting ‘10 percent’ for ‘50 percent’ each place it appears.”
 
@@ -285,6 +291,12 @@ Subsecs. (c), (d). Pub. L. 89–809, §102(a)(1)(B), (3), added subsecs. (c) and
 <b>1962</b>—Subsec. (a)(2)(B). Pub. L. 87–834 substituted “to the extent exceeding the amount which is 100/85ths of the amount of the deduction allowable under section 245 in respect of such dividends” for “to the extent exceeding the amount of the deduction allowable under section 245 in respect of such dividends.”
 
 <b>1960</b>—Subsec. (a)(2)(C). Pub. L. 86–779 added subpar. (C).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title VI, §621(b), June 7, 2001, 115 Stat. 111, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to remuneration for services performed in plan years beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -424,7 +436,7 @@ Section 9(c) of Pub. L. 93–625 provided that: “The amendment made by subsect
 
 #### Effective Date of 1971 Amendments
 
-Section 3(a)(3) of Pub. L. 92–9 provided that: “The amendments made by this subsection \[amending thissection and section 4912 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 1, 1971\].”
+Section 3(a)(3) of Pub. L. 92–9 provided that: “The amendments made by this subsection \[amending this section and section 4912 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 1, 1971\].”
 
 Section 314(c) of Pub. L. 92–178 provided that: “The amendments made by this section \[amending this section and section 862 of this title\] shall apply to taxable years ending after August 15, 1971, but only with respect to leases entered into after such date.”
 
@@ -452,7 +464,7 @@ Amendment by Pub. L. 86–779 applicable to dividends received after Dec. 31, 19
 
 #### Short Title of 1971 Amendment
 
-Section 1(a) of Pub. L. 92–9 provided that: “This Act \[amending this section and sections 4911, 4912, 4914 to 4916, 4919 to 4921, 6651, 6680, and 6681 of this title and enacting provisions set out as notes under this section and sections 6680 and 6681 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1971’.”
+Section 1(a) of Pub. L. 92–9 provided that: “This Act \[amending this section and sections 4911, 4912, 4914 to4916, 4919 to 4921, 6651, 6680, and 6681 of this title and enacting provisions set out as notes under this section and sections 6680 and 6681 of this title\] may be cited as the ‘Interest Equalization Tax Extension Act of 1971’.”
 
 #### Short Title of 1966 Amendment
 
@@ -498,7 +510,7 @@ Certain amendments not to apply to the extent inconsistent with treaties.—The 
 
 &emsp;“(F) The amendment made by section 1241(b)(2)(A) of the Reform Act \[amending this section\].
 
-&emsp;“(G) The amendment made by section 1241(a) of the Reform Act \[enacting section 884 of this title and renumbering former section 884 as 885\] to the extentsuch amendment relates to section 884(f)(1)(B) of the 1986 Code.
+&emsp;“(G) The amendment made by section 1241(a) of the Reform Act \[enacting section 884 of this title and renumbering former section 884 as 885\] to the extent such amendment relates to section 884(f)(1)(B) of the 1986 Code.
 
 &emsp;“(H) The amendments made by section 1242 of the Reform Act \[amending section 864 of this title\] to the extent they relate to paragraph (7) of section 864(c) of the 1986 Code.
 
@@ -526,7 +538,7 @@ General Rule.—For purposes of sections 861(b), 862(b), and 863(b) of the 1986 
 
 &emsp;&emsp;“(B) that such expenditures are attributable to activities conducted outside the United States, 64 percent of such expenditures shall be allocated and apportioned to income from sources outside the United States and deducted from such income in determining the amount of taxable income from sources outside the United States.
 
-&emsp;“(3) The remaining portion of qualified research and experimental expenditures (not allocated under paragraphs (1) and (2)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayer elects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall be at least 30 percent of the amount which would be so apportioned on the basis of gross sales.
+&emsp;“(3) The remaining portion of qualified research and experimental expenditures (not allocated under paragraphs (1) and (2)) shall be apportioned, at the annual election of the taxpayer, on the basis of gross sales or gross income, except that, if the taxpayerelects to apportion on the basis of gross income, the amount apportioned to income from sources outside the United States shall be at least 30 percent of the amount which would be so apportioned on the basis of gross sales.
 
 “(b)
 
@@ -658,7 +670,7 @@ In general.—This section shall apply to taxable years beginning after August 1
 
 &emsp;“(2)
 
-Special rule.—If the taxpayer's 4th taxable year beginning after August 13, 1981, is not described in paragraph (1), this section shall apply also to such 4th taxable year.”
+Special rule.—If the taxpayer's 4th taxable year beginning after August 13, 1981, is not describedin paragraph (1), this section shall apply also to such 4th taxable year.”
 
 #### Conformity of Amendments Made by Foreign Investors Tax Act of 1966 With Treaty Obligations of the United States
 

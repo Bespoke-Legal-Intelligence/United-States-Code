@@ -38,7 +38,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (ii) Realizable disposition value
 
-&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that the Corporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the Resolution Trust Corporation under section 1441a(c) of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
+&emsp;&emsp;&emsp;The term “realizable disposition value” means the estimated sale price that the Corporation reasonably would be able to obtain upon the sale of a property by the Corporation under the provisions of this chapter, not including this section, and any other applicable laws. Not later than the expiration of the 120-day period beginning upon the commencement of the first fiscal year for which amounts are provided pursuant to paragraph (2)(A), the Corporation shall establish, and publish in the Federal Register, procedures for determining the realizable disposition value of a property transferred under this section, which shall take into consideration such factors as the Corporation considers appropriate, including the actual sale prices of properties disposed of by the ResolutionTrust Corporation under section 1441a(c) of this title, the prices of other properties sold under similar programs, and the appraised value of the property transferred under this section. Until such procedures are established, the Corporation may consider the realizable disposition value of any eligible residential or condominium property to be equal to the appraised value of the property.
 
 #### (3) Existing contracts
 
@@ -76,7 +76,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (5) Exception to avoid displacement of existing residents
 
-&emsp;Notwithstanding the first sentence of paragraph (2), during the 180-day period following the date on which the Corporation makes an eligible single family property available for sale, the Corporation may sell the property to the household residing in the property, but only if (A) such household was residing in the property at the time notice regarding the property was provided to clearinghouses under paragraph (1), (B) such sale is necessary to avoid the displacement of, and unnecessary hardship to, the resident household, (C) the resident household intends to occupy the property as a principal residence for at least 12 months, and (D) the resident household certifies in writing that the household intends to occupy the property for at least 12 months.
+&emsp;Notwithstanding the first sentence of paragraph (2), during the 180-day period following the date on which the Corporation makes an eligible single family property available for sale, the Corporation may sell the property to the household residing in the property, but only if (A) such household was residing in the property at the time notice regarding the property was provided to clearinghouses under paragraph (1), (B) such sale is necessary to avoid the displacement of, and unnecessary hardship to, the resident household, (C) theresident household intends to occupy the property as a principal residence for at least 12 months, and (D) the resident household certifies in writing that the household intends to occupy the property for at least 12 months.
 
 #### (d) Rules governing disposition of eligible multifamily housing properties
 
@@ -134,7 +134,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 &emsp;&emsp;With respect to any purchase under paragraph (4) or (5) by a qualifying multifamily purchaser involving more than one eligible multifamily housing property as a part of the same negotiation, with respect to which the purchaser intends to aggregate the low-income occupancy required under this paragraph over the total number of units so purchased—
 
-&emsp;&emsp;&emsp;(i) not less than 40 percent of the aggregate number of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for low-income and very low-income families during the remaining useful life of the building or structure in which the units are located; provided that
+&emsp;&emsp;&emsp;(i) not less than 40 percent of the aggregate number of all dwelling units purchased shall be made available for occupancy by and maintained as affordable forlow-income and very low-income families during the remaining useful life of the building or structure in which the units are located; provided that
 
 &emsp;&emsp;&emsp;(ii) not less than 20 percent of the aggregate number of all dwelling units purchased shall be made available for occupancy by and maintained as affordable for very low-income families during the remaining useful life of the building or structure in which the units are located; and further provided that
 
@@ -186,7 +186,7 @@ The purpose of this section is to provide homeownership and rental housing oppor
 
 #### (B) Purchase loan
 
-&emsp;&emsp;The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property and permit (i) a low-income family to purchase an eligible single family property under subsection (c) of this section, or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d) of this section. The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms “women-owned business” and “minority-owned business”have the meanings given such terms in section 1441a(r) of this title, and the term “minority” has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;&emsp;The Corporation may provide a loan at market interest rates to any purchaser of eligible residential property for all or a portion of the purchase price, which loan shall be secured by a first or second mortgage on the property. The Corporation may provide the loan at below market interest rates to the extent necessary to facilitate an expedited sale of eligible residential property and permit (i) a low-income family to purchase an eligible single family property under subsection (c) of this section, or (ii) a public agency or nonprofit organization to comply with the low-income occupancy requirements applicable to the purchase of an eligible residential property under subsection (c) or (d) of this section. The Corporation shall provide loans under this subparagraph in a form permitting sale or transfer of the loan to a subsequent holder. In providing financing for combinations of eligible multifamily housing properties under this section, the Corporation may hold a participating share, including a subordinate participation. The Corporation shall periodically provide, to a wide range of minority- and women-owned businesses engaged in providing affordable housing and to nonprofit organizations, more than 50 percent of the control of which is held by 1 or more minority individuals, that are engaged in providing affordable housing, information that is sufficient to inform such businesses and organizations of the availability and terms of financing under this subparagraph; such information may be provided directly, by notices published in periodicals and other publications that regularly provide information to such businesses or organizations, and through persons and organizations that regularly provide information or services to such businesses or organizations. For purposes of this subparagraph, the terms “women-owned business” and “minority-owned business” have the meanings given such terms in section 1441a(r) of this title, and the term “minority” has the meaning given such term in section 1204(c)(3) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (2) Assistance by HUD
 
@@ -298,7 +298,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (B) Eligible multifamily housing property
 
-&emsp;&emsp;Any eligible multifamily housing property sold under this subsection shall comply with the low-income occupancy requirements under subsection (d)(7) of this section and shall be subject to the rent limitations under subsection (e)(1) of this section.
+&emsp;&emsp;Any eligible multifamily housing property sold under this subsection shall comply with the low-income occupancy requirementsunder subsection (d)(7) of this section and shall be subject to the rent limitations under subsection (e)(1) of this section.
 
 #### (<i>l</i>) Rules governing disposition of eligible condominium property
 
@@ -322,7 +322,7 @@ Notwithstanding subsections (c), (d), (f), and (g) of this section, the Corporat
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property availablefor purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
+&emsp;&emsp;Except as provided in subparagraph (B), any nonprofit organization, public agency, or for-profit entity that purchases an eligible condominium property shall (i) make the property available for occupancy by and maintain it as affordable for low-income families for the remaining useful life of the property, or (ii) make the property available for purchase by any such family who, except as provided in paragraph (5), agrees to occupy the property as a principal residence for at least 12 months and certifies in writing that the family intends to occupy the property for at least 12 months. The restriction described in clause (i) of the preceding sentence shall be contained in the deed or other recorded instrument.
 
 #### (B) Multiple-unit purchases
 
@@ -508,7 +508,7 @@ For purposes of this section:
 
 #### (16) Very low-income families
 
-&emsp;The term “very low-income families” means families and individuals whose incomes do not exceed 50 percent of the median income of the area involved, as determined by the Secretary, with adjustment for family size.
+&emsp;The term “very low-income families” means families and individuals whose incomes do notexceed 50 percent of the median income of the area involved, as determined by the Secretary, with adjustment for family size.
 
 #### (q) Notice to clearinghouses regarding ineligible properties
 
@@ -644,7 +644,7 @@ Interim members.—The members of the Advisory Board under paragraph (2)(E) shal
 
 “(5)
 
-Vacancies.—Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
+Vacancies.—Any member appointed to fill a vacancy occurring before the expiration of the term forwhich the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 “(6)
 

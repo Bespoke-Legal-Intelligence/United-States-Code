@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) describes the process, including intergovernmental coordination and public participation, for identifying best management practices and measures to control each category and subcategory of nonpoint sources and, where appropriate, particular nonpoint sources identified under subparagraph (B) and to reduce, to the maximum extent practicable, the level of pollution resulting from such category, subcategory, or source; and
 
-&emsp;&emsp;(D) identifies and describes State and local programs for controlling pollution addedfrom nonpoint sources to, and improving the quality of, each such portion of the navigable waters, including but not limited to those programs which are receiving Federal assistance under subsections (h) and (i) of this section.
+&emsp;&emsp;(D) identifies and describes State and local programs for controlling pollution added from nonpoint sources to, and improving the quality of, each such portion of the navigable waters, including but not limited to those programs which are receiving Federal assistance under subsections (h) and (i) of this section.
 
 #### (2) Information used in preparation
 
@@ -162,7 +162,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (1) Eligible applicants and activities
 
-&emsp;Upon application of a State for which a report submitted under subsection (a) of this section and a plan submitted under subsection (b) of this section is approved under this section, the Administrator shall make grants under this subsection to such State for the purpose of assisting such State in carrying out groundwater quality protection activities which the Administrator determines will advance the State toward implementation of a comprehensive nonpoint source pollution control program. Such activities shall include, but not be limited to, research, planning, groundwater assessments, demonstration programs, enforcement, technical assistance, education and training to protect the quality of groundwater and to prevent contamination of groundwater from nonpoint sources of pollution.
+&emsp;Upon application of a State for which a report submitted under subsection (a) of thissection and a plan submitted under subsection (b) of this section is approved under this section, the Administrator shall make grants under this subsection to such State for the purpose of assisting such State in carrying out groundwater quality protection activities which the Administrator determines will advance the State toward implementation of a comprehensive nonpoint source pollution control program. Such activities shall include, but not be limited to, research, planning, groundwater assessments, demonstration programs, enforcement, technical assistance, education and training to protect the quality of groundwater and to prevent contamination of groundwater from nonpoint sources of pollution.
 
 #### (2) Applications
 
@@ -198,7 +198,7 @@ The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is
 
 #### Amendments
 
-1998—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), struck out heading and text of par. (4). Text read as follows:“The Administrator shall include in each report transmitted under subsection (m) of this section a report on the activities and programs implemented under this subsection during the preceding fiscal year.”
+1998—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), struck out heading and text of par. (4). Text read as follows: “The Administrator shall include in each report transmitted under subsection (m) of this section a report on the activities and programs implemented under this subsection during the preceding fiscal year.”
 
 Subsecs. (m), (n). Pub. L. 105–362, §501(c)(2), (3), redesignated subsec. (n) as (m) and struck out heading and text of former subsec. (m) which related to reports of Administrator.
 

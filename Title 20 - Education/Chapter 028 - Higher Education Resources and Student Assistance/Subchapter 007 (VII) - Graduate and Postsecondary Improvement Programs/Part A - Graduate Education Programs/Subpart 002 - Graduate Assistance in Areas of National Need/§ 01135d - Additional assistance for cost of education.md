@@ -8,11 +8,11 @@
 
 #### (2) Reduction
 
-&emsp;The institutional allowance paid under paragraph (1) shall be reduced by the amount the institution charges and collects from a fellowship recipient for tuition and other expenses as part of the recipient's instructional program.
+&emsp;The institutional allowance paid under paragraph (1) shall be reduced by the amount theinstitution charges and collects from a fellowship recipient for tuition and other expenses as part of the recipient's instructional program.
 
 #### (b) Use for overhead prohibited
 
-Funds made available pursuant to this subpart may not be used for the general operationaloverhead of the academic department or program.
+Funds made available pursuant to this subpart may not be used for the general operational overhead of the academic department or program.
 
 (Pub. L. 89–329, title VII, §715, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1793.)
 

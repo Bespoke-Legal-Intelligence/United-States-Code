@@ -14,3 +14,11 @@ Whenever an employee whose compensation is disbursed by the Secretary of the Sen
 
 (Pub. L. 94–440, title I, §104, Oct. 1, 1976, 90 Stat. 1443.)
 
+#### Codification
+
+Section is from the Legislative Branch Appropriation Act, 1977.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 60c–5 of this title.
+

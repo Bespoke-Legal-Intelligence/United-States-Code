@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(iii) the expenses of the spouse's burial to the extent that such expenses are not reimbursed under chapter 23 or chapter 51 of this title;
 
-&emsp;(I) reimbursements of any kind for any casualty loss (as defined in regulations which theSecretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or the reasonable replacement value of the property involved at the time immediately preceding the loss;
+&emsp;(I) reimbursements of any kind for any casualty loss (as defined in regulations which the Secretary shall prescribe), but the amount excluded under this clause may not exceed the greater of the fair market value or the reasonable replacement value of the property involved at the time immediately preceding the loss;
 
 &emsp;(J) amounts equal to amounts paid by a parent of a deceased veteran for—
 
@@ -174,7 +174,7 @@ Subsec. (b)(2). Pub. L. 94–169, §201(1), redesignated, effective for period b
 
 Subsec. (c). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, monthly rate of compensation from $86 to $93, substituted $1100 to $1600 for $1100 to $2100, $1600 to $2400 for $2100 to $2500 and $2400 to $3300 for $2500 to $3000, the minimum and maximum income ranges for which the compensation rate will be reduced 4, 5 and 6 cents, respectively, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $3000 to $3300 the income in excess of which no compensation will be paid.
 
-Subsec. (d). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, basic rate of monthly compensation from $83 to $90, substituted $1000 to $2300 for $1100 to $2500, $2300 to $3300 for $2500 to $3500 and $3300 to $4500 for $3500 to $4200 the minimum and maximum income ranges for which the compensation rate will be reduced by 2, 3, and 4 cents, respectively, struck out the income range of $1000 to $1100 for which the reduction rate is 1 cent per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $4200 to $4500 the income in excess of which no compensation will be paid.
+Subsec. (d). Pub. L. 94–169, §201(3), increased, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, basic rate of monthly compensation from $83 to $90, substituted $1000 to $2300 for $1100 to $2500, $2300 to$3300 for $2500 to $3500 and $3300 to $4500 for $3500 to $4200 the minimum and maximum income ranges for which the compensation rate will be reduced by 2, 3, and 4 cents, respectively, struck out the income range of $1000 to $1100 for which the reduction rate is 1 cent per dollar, increased from $4.00 to $5.00 the minimum payable compensation, and increased from $4200 to $4500 the income in excess of which no compensation will be paid.
 
 Subsec. (e). Pub. L. 94–169, §201(4), substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “with the Administrator” for “with him” and “prescribed by the Administrator” for “prescribed by him”.
 
@@ -238,7 +238,7 @@ Subsec. (d). Pub. L. 90–275, §2(c), in providing new annual income limits to 
 
 Subsec. (c). Pub. L. 89–730, §1(b), amended table by providing for increased indemnity compensation while permitting the recipient to earn a higher maximum annual income.
 
-Subsec. (d). Pub. L. 89–730, §1(c), amended table by providing for increased indemnity compensation whilepermitting the recipients to earn a higher combined maximum annual income.
+Subsec. (d). Pub. L. 89–730, §1(c), amended table by providing for increased indemnity compensation while permitting the recipients to earn a higher combined maximum annual income.
 
 Subsec. (g)(1). Pub. L. 89–730, §2, in cl. (C) struck out “chapter 11” and substituted “chapters 11 and 15”, and added cls. (F) to (L).
 
@@ -306,7 +306,7 @@ Amendment by Pub. L. 87–268 effective Oct. 1, 1961, see section 3 of Pub. L. 8
 
 #### Pension, Dependency, and Indemnity Compensation; Relation to Social Security Amendments of 1967
 
-Payments for balance of calendar year 1968 and calendar year 1969, calendar year 1970, and during each successive calendar year at prescribed monthly rates when payments would be less under this title as a result of increase in monthly insurance benefits provided by Social Security Amendments of 1967, see section 3 of Pub. L. 90–275, set out as a note under section 1521 of this title.
+Payments for balance of calendar year 1968 and calendar year 1969, calendar year 1970, and during each successive calendar year at prescribed monthly rates when payments would be less under this title as a result of increase in monthly insurance benefits provided by Social Security Amendments of 1967, see section 3 ofPub. L. 90–275, set out as a note under section 1521 of this title.
 
 #### Section Referred to in Other Sections
 

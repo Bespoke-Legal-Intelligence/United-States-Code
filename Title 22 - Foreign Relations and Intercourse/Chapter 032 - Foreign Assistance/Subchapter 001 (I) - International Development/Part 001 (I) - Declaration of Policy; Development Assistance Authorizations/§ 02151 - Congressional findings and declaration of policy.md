@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 95–424 substituted provisions relating to the responsibil
 
 Subsecs. (c) to (e). Pub. L. 95–424 struck out subsecs. (c) to (e).
 
-1977—Subsec. (a). Pub. L. 95–88, §113(b)(1), inserted “environment and natural resources” to enumeration of fundamental needs of the people of less developed countries which development assistance must be used in meeting.
+1977—Subsec. (a). Pub. L. 95–88, §113(b)(1), inserted “environment and natural resources” to enumerationof fundamental needs of the people of less developed countries which development assistance must be used in meeting.
 
 Subsec. (b)(2). Pub. L. 95–88, §113(b)(2), inserted “environment and natural resources;” after “population planning and health;”.
 
@@ -52,7 +52,7 @@ Subsec. (e). Pub. L. 95–88, §101(b), added subsec. (e).
 
 1973—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1967—Pub. L. 90–137, in providing a new statement of policy, reaffirming basic foreign assistance principles, and recognizing new problems and need for new priorities, substituted five pars. concerned with (1) freedom, security, prosperity, aggression, subversion, ignorance, want, despair, and national security; (2) economic cooperation and trade among countries, etc. (a reenactment of former sixth par. less provision for resort to international law procedures in adjudication of issuesamong friendly countries in support of such economic cooperation, etc.); (3) seven principles pertaining to: self-help efforts and responsibility of the country, multilateral basis of involvement and cooperation, regional cooperation, food production and voluntary family planning, balance of payments, maximum dollar effectiveness, and coordination of overall assistance; (4) Permanent Peace in the Middle East; and (5) suspension of assistance after severance of diplomatic relations for former sixteen pars. relating to: (1) dignity and interdependence of man, and freedom; (2) resources development, living standards improvement, and aspirations for justice, education, etc., now covered in par. (1); (4) free economic institutions and flow of private investment capital; (5) investment guaranties; (6) economic cooperation and trade among countries, etc., as described for par. (2); (7) long-range continuity and disposal of surplus property and agricultural crops; (8) world peace, national security, and dangers of international communism; (9) countries sharing United States views on world crisis; (10) loan guarantees and related technical assistance and development program; (11) regional organizations for mutual assistance; (12) prohibition of assistance for short-term emergency purposes; (13) common undertaking of countries to meet goals; (14) discretionary assistance by the President to South Vietnam to gain victory in the war against communism and return to homeland of Americans from that struggle; (15) damage or destruction by mob action of United States property and termination of assistance, now covered in section 2370(j) of this title; and (16) use of United States Armed Forces, now covered in section 2409 of this title.
+1967—Pub. L. 90–137, in providing a new statement of policy, reaffirming basic foreign assistance principles, and recognizing new problems and need for new priorities, substituted five pars. concerned with (1) freedom, security, prosperity, aggression, subversion, ignorance, want, despair, and national security; (2) economic cooperation and trade among countries, etc. (a reenactment of former sixth par. less provision for resort to international law procedures in adjudication of issues among friendly countries in support of such economic cooperation, etc.); (3) seven principles pertaining to: self-help efforts and responsibility of the country, multilateral basis of involvement and cooperation, regional cooperation, food production and voluntary family planning, balance of payments, maximum dollar effectiveness, and coordination of overall assistance; (4) Permanent Peace in the Middle East; and (5) suspension of assistance after severance of diplomatic relations for former sixteen pars. relating to: (1) dignity and interdependence of man, and freedom; (2) resources development, living standards improvement, and aspirations for justice, education, etc., now covered in par. (1); (4) free economic institutions and flow of private investment capital; (5) investment guaranties; (6) economic cooperation and trade among countries, etc., as described for par. (2); (7) long-range continuity and disposal of surplus property and agricultural crops; (8) world peace, national security, and dangers of international communism; (9) countries sharing United States views on world crisis; (10) loan guarantees and related technical assistance and development program; (11) regional organizations for mutual assistance; (12) prohibition of assistance for short-term emergency purposes; (13) common undertaking of countries to meet goals; (14) discretionary assistance by the President to South Vietnam to gain victory in the war against communism and return to homeland of Americans from that struggle; (15) damage or destruction by mob action of United States property and termination of assistance, now covered in section 2370(j) of this title; and (16) use of United States Armed Forces, now covered in section 2409 of this title.
 
 1966—Pub. L. 89–583 provided for termination of assistance to any foreign country which does not take appropriate measures to provide compensation for damage or destruction by mob action of United States property within such country and declared that furnishing assistance shall not be construed as creating a new commitment or as affecting any existing commitment to use armed forces of the United States for the defense of any foreign country.
 
@@ -128,13 +128,13 @@ Pub. L. 101–623, §1(a), Nov. 21, 1990, 104 Stat. 3350, provided that: “This
 
 #### Short Title of 1989 Amendments
 
-Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, and 2291 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
+Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b,283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, and 2291 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
 
 Pub. L. 101–240, title VII, §701, Dec. 19, 1989, 103 Stat. 2521, provided that: “This title \[enacting sections 2281 to 2286 of this title\] may be cited as the ‘Global Environmental Protection Assistance Act of 1989’.”
 
 Pub. L. 101–231, §1(a), Dec. 13, 1989, 103 Stat. 1954, provided that: “This Act \[enacting section 2321k of this title, amending sections 2291, 2291a, 2708, and 2795 of this title and sections 2492 and 2495 of Title 19, Customs Duties, and enacting provisions set out as notes under sections 2291 and 2708 of this title\] may be cited as the ‘International Narcotics Control Act of 1989’.”
 
-Pub. L. 101–222, §1(a), Dec. 12, 1989, 103 Stat. 1892, provided that: “This Act \[amending sections 1732, 2364,2371, 2753, 2776, 2778, and 2780 of this title and section 2405 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note under section 2371 of this title\] may be cited as the ‘Anti-Terrorism and Arms Export Amendments Act of 1989’.”
+Pub. L. 101–222, §1(a), Dec. 12, 1989, 103 Stat. 1892, provided that: “This Act \[amending sections 1732, 2364, 2371, 2753, 2776, 2778, and 2780 of this title and section 2405 of Title 50, Appendix, War and National Defense, and enacting provisions set out as a note under section 2371 of this title\] may be cited as the ‘Anti-Terrorism and Arms Export Amendments Act of 1989’.”
 
 #### Short Title of 1988 Amendments
 
@@ -158,7 +158,7 @@ Pub. L. 99–83, title VI, §601, Aug. 8, 1985, 99 Stat. 228, provided that: “
 
 #### Short Title of 1983 Amendments
 
-Pub. L. 98–164, title VII, §701, Nov. 22, 1984, 97 Stat. 1045, provided that: “This title \[enacting section 2151q of this title and amending section 2452 of this title\] may be cited as the ‘International Environment Protection Act of 1983’.”
+Pub. L. 98–164, title VII, §701, Nov. 22, 1983, 97 Stat. 1045, provided that: “This title \[enacting section 2151q of this title and amending section 2452 of this title\] may be cited as the ‘International Environment Protection Act of 1983’.”
 
 Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 968, provided in part that: “Section 101(b)(2) of this joint resolution \[enacting sections 2151f, and 2349aa to 2349aa–6 of this title, amending sections 2304, 2346a, 2403, and 2771 of this title, and enacting provisions set out as a note under section 2349aa of this title\] may be cited as the ‘International Security and Development Assistance Authorizations Act of 1983’.”
 
@@ -182,7 +182,7 @@ Pub. L. 96–53, §1, Aug. 14, 1979, 93 Stat. 359, provided that: “This Act \[
 
 #### Short Title of 1978 Amendments
 
-Section 1 of Pub. L. 95–424 provided that: “This Act \[enacting sections 2151–1, 2151t, 2151u, 2151v, 2151w, 2201,2292<i>l</i>, 2335a, 2393a, 2394–1, 2394–1a and 2395a of this title, amending this section and sections 2151a, 2151a–1, 2151b, 2151c, 2151d, 2151e, 2151g, 2151h, 2151k, 2151n, 2151p, 2151q, 2151r, 2174, 2181, 2182, 2182a, 2183, 2213, 2220a, 2220d, 2221, 2222, 2292, 2292a, 2292i, 2292k, 2351, 2357, 2358, 2361, 2370, 2381a, 2384, 2394, 2395, 2396, 2397, 2399c, 2403, 2421, and 2427 of this title and sections 1703, 1706, 1727c, and 1727d of Title 7, Agriculture, repealing sections 2151f, 2151<i>l</i>, 2151m, 2151<i>o</i>, 2161, 2162, 2164, 2167, 2168, 2171, 2172, 2175, 2176, 2177, 2178, 2180, 2180a, 2211, 2212, 2213, 2216, 2217, 2217a, 2219, 2219a, 2220, 2224, 2271, 2281, 2292d, 2292g, 2368, 2369, 2408, 2410, 2415, 2416, 2417, 2418, and 2425 of this title, and enacting provisions set out as notes under this section and sections 2151v, 2151u, 2222, 2292d, and 2395 of this title and section 1711 of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1978’.”
+Section 1 of Pub. L. 95–424 provided that: “This Act \[enacting sections 2151–1, 2151t, 2151u, 2151v, 2151w, 2201, 2292<i>l</i>, 2335a, 2393a, 2394–1, 2394–1a and 2395a of this title, amending this section and sections 2151a, 2151a–1, 2151b, 2151c, 2151d, 2151e, 2151g, 2151h, 2151k, 2151n, 2151p, 2151q, 2151r, 2174, 2181, 2182, 2182a, 2183, 2213, 2220a, 2220d, 2221, 2222, 2292, 2292a, 2292i, 2292k, 2351, 2357, 2358, 2361, 2370, 2381a, 2384, 2394, 2395, 2396, 2397, 2399c, 2403, 2421, and 2427 of this title and sections 1703, 1706, 1727c, and 1727d of Title 7, Agriculture, repealing sections 2151f, 2151<i>l</i>, 2151m, 2151<i>o</i>, 2161, 2162, 2164, 2167, 2168, 2171, 2172, 2175, 2176, 2177, 2178, 2180, 2180a, 2211, 2212, 2213, 2216, 2217, 2217a, 2219, 2219a, 2220, 2224, 2271, 2281, 2292d, 2292g, 2368, 2369, 2408, 2410, 2415, 2416, 2417, 2418, and 2425 of this title, and enacting provisions set out as notes under this section and sections 2151v, 2151u, 2222, 2292d, and 2395 of this title and section 1711 of Title 7\] may be cited as the ‘International Development and Food Assistance Act of 1978’.”
 
 Pub. L. 95–384, §1, Sept. 26, 1978, 92 Stat. 730, provided that: “This Act \[enacting sections 2348 to 2348c, 2373, 2417, 2428b, and 2766 of this title, amending sections 1754, 2261, 2291, 2291a, 2304, 2312, 2321b, 2321h to 2321j, 2346 to 2346c, 2347a, 2347b, 2360, 2372, 2413, 2429, 2429a, 2751, 2761, 2762, 2765, 2771, and 2776 of this title and section 2403 of Title 50, Appendix, War and National Defense, repealing sections 2441 to 2443 of this title, and enacting provisions set out as notes under this section and sections 287c, 1754, 2291, 2311, 2346, 2346a, 2370, and 2751 of this title\] may be cited as the ‘International Security Assistance Act of 1978’.”
 
@@ -212,7 +212,7 @@ Pub. L. 93–333, §1, July 8, 1974, 88 Stat. 290, provided: “That this Act \[
 
 #### Short Title of 1973 Amendment
 
-Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
+Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes underthis section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
 
 #### Short Title of 1972 Amendment
 
@@ -224,7 +224,7 @@ Pub. L. 91–652, §1, Jan. 5, 1971, 84 Stat. 1942, provided: “That this Act \
 
 #### Short Title of 1969 Amendment
 
-Pub. L. 91–175, §1, Dec. 30, 1969, 83 Stat. 805, provided that: “This Act \[enacting sections 290f, 2179, 2180, 2194 to 2200a and 2321a of this title, amending sections 2162,2163, 2172, 2174, 2181 to 2183, 2191 to 2193, 2212, 2219a, 2221, 2222, 2242, 2261, 2312, 2318, 2360, 2362, 2370, 2384, 2394, 2396, 2397 and 2402 of this title, section 846 of former Title 31, Money and Finance, and sections 3343, 3581, 3582 and 5314 to 5316 of Title 5, Government Organization and Employees, and enacting provision set out as a note under this section\], may be cited as the ‘Foreign Assistance Act of 1969’.”
+Pub. L. 91–175, §1, Dec. 30, 1969, 83 Stat. 805, provided that: “This Act \[enacting sections 290f, 2179, 2180, 2194 to 2200a and 2321a of this title, amending sections 2162, 2163, 2172, 2174, 2181 to 2183, 2191 to 2193, 2212, 2219a, 2221, 2222, 2242, 2261, 2312, 2318, 2360, 2362, 2370, 2384, 2394, 2396, 2397 and 2402 of this title, section 846 of former Title 31, Money and Finance, and sections 3343, 3581, 3582 and 5314 to 5316 of Title 5, Government Organization and Employees, and enacting provision set out as a note under this section\], may be cited as the ‘Foreign Assistance Act of 1969’.”
 
 #### Short Title of 1968 Amendment
 
@@ -291,6 +291,144 @@ Section 642 of Pub. L. 87–195, as amended by Pub. L. 89–171, pt. III, §303(
 #### United States Agency for International Development Deemed Agency Primarily Responsible for Administering This Subchapter
 
 Any reference in this chapter to the agency primarily responsible for administering this subchapter, or to the Administrator of such agency, deemed reference to the United States Agency for International Development or to the Administrator of that agency, as appropriate, see section 1–200(a) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Assistance for Zimbabwe
+
+Pub. L. 107–115, title V, §560, Jan. 10, 2002, 115 Stat. 2162, provided that: “The Secretary of the Treasury shall instruct the United States executive director to each international financial institution to vote against any extension by the respective institution of any loans, to the Government of Zimbabwe, except to meet basic human needs or to promote democracy, unless the Secretary of State determines and certifies to the Committees on Appropriations that the rule of law has been restored in Zimbabwe, including respect for ownership and title to property, freedom of speech and association.”
+
+Pub. L. 107–99, Dec. 21, 2001, 115 Stat. 962, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Zimbabwe Democracy and Economic Recovery Act of 2001’.
+
+#### “SEC. 2. STATEMENT OF POLICY.
+
+“It is the policy of the United States to support the people of Zimbabwe in their struggle to effect peaceful, democratic change, achieve broad-based and equitable economic growth, and restore the rule of law.
+
+#### “SEC. 3. DEFINITIONS.
+
+“In this Act:
+
+&emsp;“(1)
+
+International financial institutions.—The term ‘international financial institutions’ means the multilateral development banks and the International Monetary Fund.
+
+&emsp;“(2)
+
+Multilateral development banks.—The term ‘multilateral development banks’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency.
+
+#### “SEC. 4. SUPPORT FOR DEMOCRATIC TRANSITION AND ECONOMIC RECOVERY.
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) Through economic mismanagement, undemocratic practices, and the costly deployment of troops to the Democratic Republic of the Congo, the Government of Zimbabwe has rendered itself ineligible to participate in International Bank for Reconstruction and Development and International Monetary Fund programs, which would otherwise be providing substantial resources to assist in the recovery and modernization of Zimbabwe's economy. The people of Zimbabwe have thus been denied the economic and democratic benefits envisioned by the donors to such programs, including the United States.
+
+&emsp;“(2) In September 1999 the IMF suspended its support under a ‘Stand By Arrangement’, approved the previous month, for economic adjustment and reform in Zimbabwe.
+
+&emsp;“(3) In October 1999, the International Development Association (in this section referred to as the ‘IDA’) suspended all structural adjustment loans, credits, and guarantees to the Government of Zimbabwe.
+
+&emsp;“(4) In May 2000, the IDA suspended all other new lending to the Government of Zimbabwe.
+
+&emsp;“(5) In September 2000, the IDA suspended disbursement of funds for ongoing projects under previously-approved loans, credits, and guarantees to the Government of Zimbabwe.
+
+“(b)
+
+Support for Democratic Transition and Economic Recovery.—
+
+&emsp;“(1)
+
+Bilateral debt relief.—Upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury shall undertake a review of the feasibility of restructuring, rescheduling, or eliminating the sovereign debt of Zimbabwe held by any agency of the United States Government.
+
+&emsp;“(2)
+
+Multilateral debt relief and other financial assistance.—It is the sense of Congress that, upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury should—
+
+&emsp;&emsp;“(A) direct the United States executive director of each multilateral development bank to propose that the bank should undertake a review of the feasibility of restructuring, rescheduling, or eliminating the sovereign debt of Zimbabwe held by that bank; and
+
+&emsp;&emsp;“(B) direct the United States executive director of each international financial institution to which the United States is a member to propose to undertake financial and technical support for Zimbabwe, especially support that is intended to promote Zimbabwe's economic recovery and development, the stabilization of the Zimbabwean dollar, and the viability of Zimbabwe's democratic institutions.
+
+“(c)
+
+Multilateral Financing Restriction.—Until the President makes the certification described in subsection (d), and except as may be required to meet basic human needs or for good governance, the Secretary of the Treasury shall instruct the United States executive director to each international financial institution to oppose and vote against—
+
+&emsp;“(1) any extension by the respective institution of any loan, credit, or guarantee to the Government of Zimbabwe; or
+
+&emsp;“(2) any cancellation or reduction of indebtedness owed by the Government of Zimbabwe to the United States or any international financial institution.
+
+“(d)
+
+Presidential Certification That Certain Conditions Are Satisfied.—A certification under this subsection is a certification transmitted to the appropriate congressional committees of a determination made by the President that the following conditions are satisfied:
+
+&emsp;“(1)
+
+Restoration of the rule of law.—The rule of law has been restored in Zimbabwe, including respect for ownership and title to property, freedom of speech and association, and an end to the lawlessness, violence, and intimidation sponsored, condoned, or tolerated by the Government of Zimbabwe, the ruling party, and their supporters or entities.
+
+&emsp;“(2)
+
+Election or pre-election conditions.—Either of the following two conditions is satisfied:
+
+&emsp;&emsp;“(A)
+
+Presidential election.—Zimbabwe has held a presidential election that is widely accepted as free and fair by independent international monitors, and the president-elect is free to assume the duties of the office.
+
+&emsp;&emsp;“(B)
+
+Pre-election conditions.—In the event the certification is made before the presidential election takes place, the Government of Zimbabwe has sufficiently improved the pre-election environment to a degree consistent with accepted international standards for security and freedom of movement and association.
+
+&emsp;“(3)
+
+Commitment to equitable, legal, and transparent land reform.—The Government of Zimbabwe has demonstrated a commitment to an equitable, legal, and transparent land reform program consistent with agreements reached at the International Donors’ Conference on Land Reform and Resettlement in Zimbabwe held in Harare, Zimbabwe, in September 1998.
+
+&emsp;“(4)
+
+Fulfillment of agreement ending war in democratic republic of congo.—The Government of Zimbabwe is making a good faith effort to fulfill the terms of the Lusaka, Zambia, agreement on ending the war in the Democratic Republic of Congo.
+
+&emsp;“(5)
+
+Military and national police subordinate to civilian government.—The Zimbabwean Armed Forces, the National Police of Zimbabwe, and other state security forces are responsible to and serve the elected civilian government.
+
+“(e)
+
+Waiver.—The President may waive the provisions of subsection (b)(1) or subsection (c), if the President determines that it is in the national interest of the United States to do so.
+
+#### “SEC. 5. SUPPORT FOR DEMOCRATIC INSTITUTIONS, THE FREE PRESS AND INDEPENDENT MEDIA, AND THE RULE OF LAW.
+
+“(a)
+
+In General.—The President is authorized to provide assistance under part I \[22 U.S.C. 2151 et seq.\] and chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 to—
+
+&emsp;“(1) support an independent and free press and electronic media in Zimbabwe;
+
+&emsp;“(2) support equitable, legal, and transparent mechanisms of land reform in Zimbabwe, including the payment of costs related to the acquisition of land and the resettlement of individuals, consistent with the International Donors’ Conference on Land Reform and Resettlement in Zimbabwe held in Harare, Zimbabwe, in September 1998, or any subsequent agreement relating thereto; and
+
+&emsp;“(3) provide for democracy and governance programs in Zimbabwe.
+
+“(b)
+
+Funding.—Of the funds authorized to be appropriated to carry out part I \[22 U.S.C. 2151 et seq.\] and chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 for fiscal year 2002—
+
+&emsp;“(1) $20,000,000 is authorized to be available to provide the assistance described in subsection (a)(2); and
+
+&emsp;“(2) $6,000,000 is authorized to be available to provide the assistance described in subsection (a)(3).
+
+“(c)
+
+Supersedes Other Laws.—The authority in this section supersedes any other provision of law.
+
+#### “SEC. 6. SENSE OF CONGRESS ON THE ACTIONS TO BE TAKEN AGAINST INDIVIDUALS RESPONSIBLE FOR VIOLENCE AND THE BREAKDOWN OF THE RULE OF LAW IN ZIMBABWE.
+
+“It is the sense of Congress that the President should begin immediate consultation with the governments of European Union member states, Canada, and other appropriate foreign countries on ways in which to—
+
+&emsp;“(1) identify and share information regarding individuals responsible for the deliberate breakdown of the rule of law, politically motivated violence, and intimidation in Zimbabwe;
+
+&emsp;“(2) identify assets of those individuals held outside Zimbabwe;
+
+&emsp;“(3) implement travel and economic sanctions against those individuals and their associates and families; and
+
+&emsp;“(4) provide for the eventual removal or amendment of those sanctions.”
 
 #### Report on Relations With Vietnam
 
@@ -664,7 +802,7 @@ Date of Submission.—The first report submitted under subsection (a) shall be s
 
 #### Waiver of Restrictions for Narcotics-Related Economic Assistance
 
-Pub. L. 104–164, title I, §133, July 21, 1996, 110 Stat. 1430, provided that: “For each of the fiscal years 1996 and 1997, narcotics-related assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) may be provided notwithstanding any other provision of law that restricts assistance to foreign countries (other than section 490(e) or section 502B of that Act (22 U.S.C. 2291j(e) and 2304)) if, at least 15 days before obligating funds for such assistance, the President notifies the appropriate congressional committees (as defined in section 481(e) of that Act (22 U.S.C. 2291(e)))in accordance with the procedures applicable to reprogramming notifications under section 634A of that Act (22 U.S.C. 2394–1).”
+Pub. L. 104–164, title I, §133, July 21, 1996, 110 Stat. 1430, provided that: “For each of the fiscal years 1996 and 1997, narcotics-related assistance under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) may be provided notwithstanding any other provision of law that restricts assistance to foreign countries (other than section 490(e) or section 502B of that Act (22 U.S.C. 2291j(e) and 2304)) if, at least 15 days before obligating funds for such assistance, the President notifies the appropriate congressional committees (as defined in section 481(e) of that Act (22 U.S.C. 2291(e))) in accordance with the procedures applicable to reprogramming notifications under section 634A of that Act (22 U.S.C. 2394–1).”
 
 #### Similar Provisions
 
@@ -746,7 +884,7 @@ Export of satellites for launch by the people's republic of china.—Exports of 
 
 Nuclear cooperation with the people's republic of china.—(A) Any—
 
-&emsp;&emsp;“(i) application for a license under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\]for the export to the People's Republic of China for use in a nuclear production or utilization facility of any goods or technology which, as determined under section 309(c) of the Nuclear Non-Proliferation Act of 1978 \[42 U.S.C. 2139a(c)\], could be of significance for nuclear explosive purposes, or which, in the judgment of the President, is likely to be diverted for use in such a facility, for any nuclear explosive device, or for research on or development of any nuclear explosive device, shall be suspended,
+&emsp;&emsp;“(i) application for a license under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] for the export to the People's Republic of China for use in a nuclear production or utilization facility of any goods or technology which, as determined under section 309(c) of the Nuclear Non-Proliferation Act of 1978 \[42 U.S.C. 2139a(c)\], could be of significance for nuclear explosive purposes, or which, in the judgment of the President, is likely to be diverted for use in such a facility, for any nuclear explosive device, or for research on or development of any nuclear explosive device, shall be suspended,
 
 &emsp;&emsp;“(ii) application for a license for the export to the People's Republic of China of any nuclear material, facilities, or components subject to the Agreement shall be suspended,
 
@@ -978,7 +1116,7 @@ Section 133 of Pub. L. 95–88, as amended by Pub. L. 96–53, title I, §123, A
 
 “(B) Socially disadvantaged individuals are those who have been subjected to racial or ethnic prejudice or cultural bias because of their identity as a member of a group without regard to their individual qualities.
 
-“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose abilityto compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
+“(C) Economically disadvantaged individuals are those socially disadvantaged individuals whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. In determining the degree of diminished credit and capital opportunities, the Administrator of the agency shall consider, but not be limited to, the assets and net worth of the socially disadvantaged individual.
 
 “(6) \[Repealed. Pub. L. 97–113, title VII, §734(a)(6), Dec. 29, 1981, 95 Stat. 1560.\]
 

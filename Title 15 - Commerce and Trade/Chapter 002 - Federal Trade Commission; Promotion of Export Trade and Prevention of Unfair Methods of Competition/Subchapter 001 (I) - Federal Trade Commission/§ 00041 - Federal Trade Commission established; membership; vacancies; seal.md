@@ -40,7 +40,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfer of Functions to the Chairman
 
-(a) Subject to the provisions of subsection (b) of this section, there are hereby transferred from the Federal Trade Commission, hereinafter referred to as the Commission, to the Chairman of the Commission, hereinafter referred to as the Chairman, the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment and supervision of personnel employedunder the Commission, (2) the distribution of business among such personnel and among administrative units of the Commission, and (3) the use and expenditure of funds.
+(a) Subject to the provisions of subsection (b) of this section, there are hereby transferred from the Federal Trade Commission, hereinafter referred to as the Commission, to the Chairman of the Commission, hereinafter referred to as the Chairman, the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment and supervision of personnel employed under the Commission, (2) the distribution of business among such personnel and among administrative units of the Commission, and (3) the use and expenditure of funds.
 
 (b)(1) In carrying out any of his functions under the provisions of this section the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
 

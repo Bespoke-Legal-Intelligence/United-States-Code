@@ -6,21 +6,241 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(1) The term “exchange” means any organization, association, or group of persons, whether incorporated or unincorporated, which constitutes, maintains, or provides a market place or facilities for bringing together purchasers and sellers of securities or for otherwise performing with respect to securities the functions commonly performed by a stock exchange as that term is generally understood, and includes the market place and the market facilities maintained by such exchange.
 
-&emsp;(2) The term “facility” when used with respect to an exchange includes its premises, tangible or intangible property whether on the premises or not, any right to the use of such premises or property or any service thereof for the purpose of effecting or reporting a transaction on an exchange (including, among other things, any system of communication to or from the exchange, by ticker or otherwise, maintained by or with the consent of the exchange), and any right of the exchange to the use of any property or service.
+&emsp;(2) The term “facility” when used with respect to an exchange includes its premises, tangible or intangible property whether on the premises or not, any right to the use of such premises or property or any service thereof for the purpose of effecting or reporting a transaction on an exchange (including, among other things, any system of communication to orfrom the exchange, by ticker or otherwise, maintained by or with the consent of the exchange), and any right of the exchange to the use of any property or service.
 
 &emsp;(3)(A) The term “member” when used with respect to a national securities exchange means (i) any natural person permitted to effect transactions on the floor of the exchange without the services of another person acting as broker, (ii) any registered broker or dealer with which such a natural person is associated, (iii) any registered broker or dealer permitted to designate as a representative such a natural person, and (iv) any other registered broker or dealer which agrees to be regulated by such exchange and with respect to which the exchange undertakes to enforce compliance with the provisions of this chapter, the rules and regulations thereunder, and its own rules. For purposes of sections 78f(b)(1), 78f(b)(4), 78f(b)(6), 78f(b)(7), 78f(d), 78q(d), 78s(d), 78s(e), 78s(g), 78s(h), and 78u of this title, the term “member” when used with respect to a national securities exchange also means, to the extent of the rules of the exchange specified by the Commission, any person required by the Commission to comply with such rules pursuant to section 78f(f) of this title.
 
 &emsp;(B) The term “member” when used with respect to a registered securities association means any broker or dealer who agrees to be regulated by such association and with respect to whom the association undertakes to enforce compliance with the provisions of this chapter, the rules and regulations thereunder, and its own rules.
 
-&emsp;(4) The term “broker” means any person engaged in the business of effecting transactions in securities for the account of others, but does not include a bank.
+&emsp;(4)
 
-&emsp;(5) The term “dealer” means any person engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, or any person insofar as he buys or sells securities for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business.
+Broker.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “broker” means any person engaged in the business of effecting transactions in securities for the account of others.
+
+&emsp;&emsp;(B)
+
+Exception for certain bank activities.—A bank shall not be considered to be a broker because the bank engages in any one or more of the following activities under the conditions described:
+
+&emsp;&emsp;&emsp;(i)
+
+Third party brokerage arrangements.—The bank enters into a contractual or other written arrangement with a broker or dealer registered under this chapter under which the broker or dealer offers brokerage services on or off the premises of the bank if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such broker or dealer is clearly identified as the person performing the brokerage services;
+
+&emsp;&emsp;&emsp;&emsp;(II) the broker or dealer performs brokerage services in an area that is clearly marked and, to the extent practicable, physically separate from the routine deposit-taking activities of the bank;
+
+&emsp;&emsp;&emsp;&emsp;(III) any materials used by the bank to advertise or promote generally the availability of brokerage services under the arrangement clearly indicate that the brokerage services are being provided by the broker or dealer and not by the bank;
+
+&emsp;&emsp;&emsp;&emsp;(IV) any materials used by the bank to advertise or promote generally the availability of brokerage services under the arrangement are in compliance with the Federal securities laws before distribution;
+
+&emsp;&emsp;&emsp;&emsp;(V) bank employees (other than associated persons of a broker or dealer who are qualified pursuant to the rules of a self-regulatory organization) perform only clerical or ministerial functions in connection with brokerage transactions including scheduling appointments with the associated persons of a broker or dealer, except that bank employees may forward customer funds or securities and may describe in general terms the types of investment vehicles available from the bank and the broker or dealer under the arrangement;
+
+&emsp;&emsp;&emsp;&emsp;(VI) bank employees do not receive incentive compensation for any brokerage transaction unless such employees are associated persons of a broker or dealer and are qualified pursuant to the rules of a self-regulatory organization, except that the bank employees may receive compensation for the referral of any customer if the compensation is a nominal one-time cash fee of a fixed dollar amount and the payment of the fee is not contingent on whether the referral results in a transaction;
+
+&emsp;&emsp;&emsp;&emsp;(VII) such services are provided by the broker or dealer on a basis in which all customers that receive any services are fully disclosed to the broker or dealer;
+
+&emsp;&emsp;&emsp;&emsp;(VIII) the bank does not carry a securities account of the customer except as permitted under clause (ii) or (viii) of this subparagraph; and
+
+&emsp;&emsp;&emsp;&emsp;(IX) the bank, broker, or dealer informs each customer that the brokerage services are provided by the broker or dealer and not by the bank and that the securities are not deposits or other obligations of the bank, are not guaranteed by the bank, and are not insured by the Federal Deposit Insurance Corporation.
+
+&emsp;&emsp;&emsp;(ii)
+
+Trust activities.—The bank effects transactions in a trustee capacity, or effects transactions in a fiduciary capacity in its trust department or other department that is regularly examined by bank examiners for compliance with fiduciary principles and standards, and—
+
+&emsp;&emsp;&emsp;&emsp;(I) is chiefly compensated for such transactions, consistent with fiduciary principles and standards, on the basis of an administration or annual fee (payable on a monthly, quarterly, or other basis), a percentage of assets under management, or a flat or capped per order processing fee equal to not more than the cost incurred by the bank in connection with executing securities transactions for trustee and fiduciary customers, or any combination of such fees; and
+
+&emsp;&emsp;&emsp;&emsp;(II) does not publicly solicit brokerage business, other than by advertising that it effects transactions in securities in conjunction with advertising its other trust activities.
+
+&emsp;&emsp;&emsp;(iii)
+
+Permissible securities transactions.—The bank effects transactions in—
+
+&emsp;&emsp;&emsp;&emsp;(I) commercial paper, bankers acceptances, or commercial bills;
+
+&emsp;&emsp;&emsp;&emsp;(II) exempted securities;
+
+&emsp;&emsp;&emsp;&emsp;(III) qualified Canadian government obligations as defined in section 24 of title 12, in conformity with section 78<i>o</i>–5 of this title and the rules and regulations thereunder, or obligations of the North American Development Bank; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) any standardized, credit enhanced debt security issued by a foreign government pursuant to the March 1989 plan of then Secretary of the Treasury Brady, used by such foreign government to retire outstanding commercial bank loans.
+
+&emsp;&emsp;&emsp;(iv)
+
+Certain stock purchase plans.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+Employee benefit plans.—The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of any pension, retirement, profit-sharing, bonus, thrift, savings, incentive, or other similar benefit plan for the employees of that issuer or its affiliates (as defined in section 1841 of title 12), if the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Dividend reinvestment plans.—The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of that issuer's dividend reinvestment plan, if—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the bank does not net shareholders’ buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.
+
+&emsp;&emsp;&emsp;&emsp;(III)
+
+Issuer plans.—The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of a plan or program for the purchase or sale of that issuer's shares, if—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan or program; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the bank does not net shareholders’ buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.
+
+&emsp;&emsp;&emsp;&emsp;(IV)
+
+Permissible delivery of materials.—The exception to being considered a broker for a bank engaged in activities described in subclauses (I), (II), and (III) will not be affected by delivery of written or electronic plan materials by a bank to employees of the issuer, shareholders of the issuer, or members of affinity groups of the issuer, so long as such materials are—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) comparable in scope or nature to that permitted by the Commission as of November 12, 1999; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) otherwise permitted by the Commission.
+
+&emsp;&emsp;&emsp;(v)
+
+Sweep accounts.—The bank effects transactions as part of a program for the investment or reinvestment of deposit funds into any no-load, open-end management investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] that holds itself out as a money market fund.
+
+&emsp;&emsp;&emsp;(vi)
+
+Affiliate transactions.—The bank effects transactions for the account of any affiliate of the bank (as defined in section 1841 of title 12) other than—
+
+&emsp;&emsp;&emsp;&emsp;(I) a registered broker or dealer; or
+
+&emsp;&emsp;&emsp;&emsp;(II) an affiliate that is engaged in merchant banking, as described in section 1843(k)(4)(H) of title 12.
+
+&emsp;&emsp;&emsp;(vii)
+
+Private securities offerings.—The bank—
+
+&emsp;&emsp;&emsp;&emsp;(I) effects sales as part of a primary offering of securities not involving a public offering, pursuant to section 3(b), 4(2), or 4(6) of the Securities Act of 1933 \[15 U.S.C. 77c(b), 77d(2), 77d(6)\] or the rules and regulations issued thereunder;
+
+&emsp;&emsp;&emsp;&emsp;(II) at any time after the date that is 1 year after November 12, 1999, is not affiliated with a broker or dealer that has been registered for more than 1 year in accordance with this chapter, and engages in dealing, market making, or underwriting activities, other than with respect to exempted securities; and
+
+&emsp;&emsp;&emsp;&emsp;(III) if the bank is not affiliated with a broker or dealer, does not effect any primary offering described in subclause (I) the aggregate amount of which exceeds 25 percent of the capital of the bank, except that the limitation of this subclause shall not apply with respect to any sale of government securities or municipal securities.
+
+&emsp;&emsp;&emsp;(viii)
+
+Safekeeping and custody activities.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—The bank, as part of customary banking activities—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) provides safekeeping or custody services with respect to securities, including the exercise of warrants and other rights on behalf of customers;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) facilitates the transfer of funds or securities, as a custodian or a clearing agency, in connection with the clearance and settlement of its customers’ transactions in securities;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) effects securities lending or borrowing transactions with or on behalf of customers as part of services provided to customers pursuant to division (aa) or (bb) or invests cash collateral pledged in connection with such transactions;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) holds securities pledged by a customer to another person or securities subject to purchase or resale agreements involving a customer, orfacilitates the pledging or transfer of such securities by book entry or as otherwise provided under applicable law, if the bank maintains records separately identifying the securities and the customer; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) serves as a custodian or provider of other related administrative services to any individual retirement account, pension, retirement, profit sharing, bonus, thrift savings, incentive, or other similar benefit plan.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Exception for carrying broker activities.—The exception to being considered a broker for a bank engaged in activities described in subclause (I) shall not apply if the bank, in connection with such activities, acts in the United States as a carrying broker (as such term, and different formulations thereof, are used in section 78<i>o</i>(c)(3) of this title and the rules and regulations thereunder) for any broker or dealer, unless such carrying broker activities are engaged in with respect to government securities (as defined in paragraph (42) of this subsection).
+
+&emsp;&emsp;&emsp;(ix)
+
+Identified banking products.—The bank effects transactions in identified banking products as defined in section 206 of the Gramm-Leach-Bliley Act.
+
+&emsp;&emsp;&emsp;(x)
+
+Municipal securities.—The bank effects transactions in municipal securities.
+
+&emsp;&emsp;&emsp;(xi)
+
+De minimis exception.—The bank effects, other than in transactions referred to in clauses (i) through (x), not more than 500 transactions in securities in any calendar year, and such transactions are not effected by an employee of the bank who is also an employee of a broker or dealer.
+
+&emsp;&emsp;(C)
+
+Execution by broker or dealer.—The exception to being considered a broker for a bank engaged in activities described in clauses (ii), (iv), and (viii) of subparagraph (B) shall not apply if the activities described in such provisions result in the trade in the United States of any security that is a publicly traded security in the United States, unless—
+
+&emsp;&emsp;&emsp;(i) the bank directs such trade to a registered broker or dealer for execution;
+
+&emsp;&emsp;&emsp;(ii) the trade is a cross trade or other substantially similar trade of a security that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is made by the bank or between the bank and an affiliated fiduciary; and
+
+&emsp;&emsp;&emsp;&emsp;(II) is not in contravention of fiduciary principles established under applicable Federal or State law; or
+
+&emsp;&emsp;&emsp;(iii) the trade is conducted in some other manner permitted under rules, regulations, or orders as the Commission may prescribe or issue.
+
+&emsp;&emsp;(D)
+
+Fiduciary capacity.—For purposes of subparagraph (B)(ii), the term “fiduciary capacity” means—
+
+&emsp;&emsp;&emsp;(i) in the capacity as trustee, executor, administrator, registrar of stocks and bonds, transfer agent, guardian, assignee, receiver, or custodian under a uniform gift to minor act, or as an investment adviser if the bank receives a fee for its investment advice;
+
+&emsp;&emsp;&emsp;(ii) in any capacity in which the bank possesses investment discretion on behalf of another; or
+
+&emsp;&emsp;&emsp;(iii) in any other similar capacity.
+
+&emsp;&emsp;(E)
+
+Exception for entities subject to section 78<i>o</i>(e).—The term “broker” does not include a bank that—
+
+&emsp;&emsp;&emsp;(i) was, on the day before November 12, 1999, subject to section 78<i>o</i>(e) of this title; and
+
+&emsp;&emsp;&emsp;(ii) is subject to such restrictions and requirements as the Commission considers appropriate.
+
+&emsp;(5)
+
+Dealer.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “dealer” means any person engaged in the business of buying and selling securities for such person's own account through a broker or otherwise.
+
+&emsp;&emsp;(B)
+
+Exception for person not engaged in the business of dealing.—The term “dealer” does not include a person that buys or sells securities for such person's own account, either individually or in a fiduciary capacity, but not as a part of a regular business.
+
+&emsp;&emsp;(C)
+
+Exception for certain bank activities.—A bank shall not be considered to be a dealer because the bank engages in any of the following activities under the conditions described:
+
+&emsp;&emsp;&emsp;(i)
+
+Permissible securities transactions.—The bank buys or sells—
+
+&emsp;&emsp;&emsp;&emsp;(I) commercial paper, bankers acceptances, or commercial bills;
+
+&emsp;&emsp;&emsp;&emsp;(II) exempted securities;
+
+&emsp;&emsp;&emsp;&emsp;(III) qualified Canadian government obligations as defined in section 24 of title 12, in conformity with section 78<i>o</i>–5 of this title and the rules and regulations thereunder, or obligations of the North American Development Bank; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) any standardized, credit enhanced debt security issued by a foreign government pursuant to the March 1989 plan of then Secretary of the Treasury Brady, used by such foreign government to retire outstanding commercial bank loans.
+
+&emsp;&emsp;&emsp;(ii)
+
+Investment, trustee, and fiduciary transactions.—The bank buys or sells securities for investment purposes—
+
+&emsp;&emsp;&emsp;&emsp;(I) for the bank; or
+
+&emsp;&emsp;&emsp;&emsp;(II) for accounts for which the bank acts as a trustee or fiduciary.
+
+&emsp;&emsp;&emsp;(iii)
+
+Asset-backed transactions.—The bank engages in the issuance or sale to qualified investors, through a grantor trust or other separate entity, of securities backed by or representing an interest in notes, drafts, acceptances, loans, leases, receivables, other obligations (other than securities of which the bank is not the issuer), or pools of any such obligations predominantly originated by—
+
+&emsp;&emsp;&emsp;&emsp;(I) the bank;
+
+&emsp;&emsp;&emsp;&emsp;(II) an affiliate of any such bank other than a broker or dealer; or
+
+&emsp;&emsp;&emsp;&emsp;(III) a syndicate of banks of which the bank is a member, if the obligations or pool of obligations consists of mortgage obligations or consumer-related receivables.
+
+&emsp;&emsp;&emsp;(iv)
+
+Identified banking products.—The bank buys or sells identified banking products, as defined in section 206 of the Gramm-Leach-Bliley Act.
 
 &emsp;(6) The term “bank” means (A) a banking institution organized under the laws of the United States, (B) a member bank of the Federal Reserve System, (C) any other banking institution, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency pursuant to section 92a of title 12, and which is supervised and examined by State or Federal authority having supervision over banks, and which is not operated for the purpose of evading the provisions of this chapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
 &emsp;(7) The term “director” means any director of a corporation or any person performing similar functions with respect to any organization, whether incorporated or unincorporated.
 
-&emsp;(8) The term “issuer” means any person who issues or proposes to issue any security; except that with respect to certificates of deposit for securities, voting-trust certificates, or collateral-trust certificates, or with respect to certificates of interest or shares in an unincorporated investment trust not having a board of directors or of the fixed, restricted management, or unit type, the term “issuer” means the person or persons performing the acts and assuming the duties of depositor or manager pursuant to the provisions of the trust orother agreement or instrument under which such securities are issued; and except that with respect to equipment-trust certificates or like securities, the term “issuer” means the person by whom the equipment or property is, or is to be, used.
+&emsp;(8) The term “issuer” means any person who issues or proposes to issue any security; except that with respect to certificates of deposit for securities, voting-trust certificates, or collateral-trust certificates, or with respect to certificates of interest or shares in an unincorporated investment trust not having a board of directors or of the fixed, restricted management, or unit type, the term “issuer” means the person or persons performing the acts and assuming the duties of depositor or manager pursuant to the provisions of the trust or other agreement or instrument under which such securities are issued; and except that with respect to equipment-trust certificates or like securities, the term “issuer” means the person by whom the equipment or property is, or is to be, used.
 
 &emsp;(9) The term “person” means a natural person, company, government, or political subdivision, agency, or instrumentality of a government.
 
@@ -34,7 +254,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(ii) municipal securities, as defined in paragraph (29) of this subsection;
 
-&emsp;&emsp;(iii) any interest or participation in any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of assets contributed thereto by such bank in its capacity as trustee, executor, administrator, or guardian;
+&emsp;&emsp;(iii) any interest or participation in any common trust fund or similar fund that is excluded from the definition of the term “investment company” under section 3(c)(3) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(3)\];
 
 &emsp;&emsp;(iv) any interest or participation in a single trust fund, or a collective trust fund maintained by a bank, or any security arising out of a contract issued by an insurance company, which interest, participation, or security is issued in connection with a qualified plan as defined in subparagraph (C) of this paragraph;
 
@@ -42,7 +262,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(vi) solely for purposes of sections 78<i>l</i>, 78m, 78n, and 78p of this title, any security issued by or any interest or participation in any church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(14)\]; and
 
-&emsp;&emsp;(vii) such other securities (which may include, among others, unregistered securities, the market in which is predominantly intrastate) as the Commission may, by such rules and regulations as it deems consistent with the public interest and the protection of investors, either unconditionally or upon specified terms and conditions or for stated periods, exempt from the operation of any one or more provisions of this chapter which by their terms do not apply to an “exempted security” or to “exempted securities”.
+&emsp;&emsp;(vii) such other securities (which may include, among others, unregistered securities, the market in which is predominantly intrastate) as the Commission may, by such rules and regulations as it deems consistent with the public interest and the protection of investors, either unconditionally or upon specified terms and conditions or for stated periods, exempt from the operation of any one ormore provisions of this chapter which by their terms do not apply to an “exempted security” or to “exempted securities”.
 
 &emsp;(B)(i) Notwithstanding subparagraph (A)(i) of this paragraph, government securities shall not be deemed to be “exempted securities” for the purposes of section 78q–1 of this title.
 
@@ -52,7 +272,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(13) The terms “buy” and “purchase” each include any contract to buy, purchase, or otherwise acquire. For security futures products, such term includes any contract, agreement, or transaction for future delivery.
 
-&emsp;(14) The terms “sale” and “sell” each include any contract to sell or otherwise disposeof. For security futures products, such term includes any contract, agreement, or transaction for future delivery.
+&emsp;(14) The terms “sale” and “sell” each include any contract to sell or otherwise dispose of. For security futures products, such term includes any contract, agreement, or transaction for future delivery.
 
 &emsp;(15) The term “Commission” means the Securities and Exchange Commission established by section 78d of this title.
 
@@ -70,11 +290,11 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(22)(A) The term “securities information processor” means any person engaged in the business of (i) collecting, processing, or preparing for distribution or publication, or assisting, participating in, or coordinating the distribution or publication of, information with respect to transactions in or quotations for any security (other than an exempted security) or (ii) distributing or publishing (whether by means of a ticker tape, a communications network, a terminal display device, or otherwise) on a current and continuing basis, information with respect to such transactions or quotations. The term “securities information processor” does not include any bona fide newspaper, news magazine, or business or financial publication of general and regular circulation, any self-regulatory organizations, any bank, broker, dealer, building and loan, savings and loan, or homestead association, or cooperative bank, if such bank, broker, dealer, association, or cooperative bank would be deemed to be a securities information processor solely by reason of functions performed by such institutions as part of customary banking, brokerage, dealing, association, or cooperative bank activities, or any common carrier, as defined in section 153 of title 47, subject to the jurisdiction of the Federal Communications Commission or a State commission, as defined in section 153 of title 47, unless the Commission determines that such carrier is engaged in the business of collecting, processing, or preparing for distribution or publication, information with respect to transactions in or quotations for any security.
 
-&emsp;(B) The term “exclusive processor” means any securities information processor or self-regulatory organization which, directly or indirectly, engages on an exclusive basis on behalf of any national securities exchange or registered securities association, or any national securities exchange or registered securities association which engages on an exclusive basis on its own behalf, in collecting, processing, or preparing for distribution or publication any information with respect to (i) transactions or quotations on or effected or made by means of any facility of such exchange or (ii) quotations distributed or published by means of any electronic system operated or controlled by such association.
+&emsp;(B) The term “exclusive processor” means any securities information processor or self-regulatory organization which, directly or indirectly, engages on an exclusive basis on behalf of any national securities exchange orregistered securities association, or any national securities exchange or registered securities association which engages on an exclusive basis on its own behalf, in collecting, processing, or preparing for distribution or publication any information with respect to (i) transactions or quotations on or effected or made by means of any facility of such exchange or (ii) quotations distributed or published by means of any electronic system operated or controlled by such association.
 
 &emsp;(23)(A) The term “clearing agency” means any person who acts as an intermediary in making payments or deliveries or both in connection with transactions in securities or who provides facilities for comparison of data respecting the terms of settlement of securities transactions, to reduce the number of settlements of securities transactions, or for the allocation of securities settlement responsibilities. Such term also means any person, such as a securities depository, who (i) acts as a custodian of securities in connection with a system for the central handling of securities whereby all securities of a particular class or series of any issuer deposited within the system are treated as fungible and may be transferred, loaned, or pledged by bookkeeping entry without physical delivery of securities certificates, or (ii) otherwise permits or facilitates the settlement of securities transactions or the hypothecation or lending of securities without physical delivery of securities certificates.
 
-&emsp;(B) The term “clearing agency” does not include (i) any Federal Reserve bank, Federal home loan bank, or Federal land bank; (ii) any national securities exchange or registered securities association solely by reason of its providing facilities for comparison of data respecting the terms of settlement of securities transactions effected on such exchange or by means of any electronic system operated or controlled by such association; (iii) any bank, broker, dealer, building and loan, savings and loan, or homestead association, or cooperativebank if such bank, broker, dealer, association, or cooperative bank would be deemed to be a clearing agency solely by reason of functions performed by such institution as part of customary banking, brokerage, dealing, association, or cooperative banking activities, or solely by reason of acting on behalf of a clearing agency or a participant therein in connection with the furnishing by the clearing agency of services to its participants or the use of services of the clearing agency by its participants, unless the Commission, by rule, otherwise provides as necessary or appropriate to assure the prompt and accurate clearance and settlement of securities transactions or to prevent evasion of this chapter; (iv) any life insurance company, its registered separate accounts, or a subsidiary of such insurance company solely by reason of functions commonly performed by such entities in connection with variable annuity contracts or variable life policies issued by such insurance company or its separate accounts; (v) any registered open-end investment company or unit investment trust solely by reason of functions commonly performed by it in connection with shares in such registered open-end investment company or unit investment trust, or (vi) any person solely by reason of its performing functions described in paragraph (25)(E) of this subsection.
+&emsp;(B) The term “clearing agency” does not include (i) any Federal Reserve bank, Federal home loan bank, or Federal land bank; (ii) any national securities exchange or registered securities association solely by reason of its providing facilities for comparison of data respecting the terms of settlement of securities transactions effected on such exchange or by means of any electronic system operated or controlled by such association; (iii) any bank, broker, dealer, building and loan, savings and loan, or homestead association, or cooperative bank if such bank, broker, dealer, association, or cooperative bank would be deemed to be a clearing agency solely by reason of functions performed by such institution as part of customary banking, brokerage, dealing, association, or cooperative banking activities, or solely by reason of acting on behalf of a clearing agency or a participant therein in connection with the furnishing by the clearing agency of services to its participants or the use of services of the clearing agency by its participants, unless the Commission, by rule, otherwise provides as necessary or appropriate to assure the prompt and accurate clearance and settlement of securities transactions or to prevent evasion of this chapter; (iv) any life insurance company, its registered separate accounts, or a subsidiary of such insurance company solely by reason of functions commonly performed by such entities in connection with variable annuity contracts or variable life policies issued by such insurance company or its separate accounts; (v) any registered open-end investment company or unit investment trust solely by reason of functions commonly performed by it in connection with shares in such registered open-end investment company or unit investment trust, or (vi) any person solely by reason of its performing functions described in paragraph (25)(E) of this subsection.
 
 &emsp;(24) The term “participant” when used with respect to a clearing agency means any person who uses a clearing agency to clear or settle securities transactions or to transfer, pledge, lend, or hypothecate securities. Such term does not include a person whose only use of a clearing agency is (A) through another person who is a participant or (B) as a pledgee of securities.
 
@@ -86,7 +306,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(28) The term “rules of a self-regulatory organization” means the rules of an exchange which is a national securities exchange, the rules of an association of brokers and dealers which is a registered securities association, the rules of a clearing agency which is a registered clearing agency, or the rules of the Municipal Securities Rulemaking Board.
 
-&emsp;(29) The term “municipal securities” means securities which are direct obligations of, or obligations guaranteed as to principal or interest by, a State or any political subdivision thereof, or any agency or instrumentality of a State or any political subdivision thereof, or any municipal corporate instrumentality of one or more States, or any security which is an industrial development bond (as defined in section 103(c)(2) <sup>1</sup> of title 26) the interest on which is excludable from gross income under section 103(a)(1) <sup>1</sup> of title 26 if, by reason of the application of paragraph (4) or (6) of section 103(c) <sup>1</sup> of title 26 (determined as if paragraphs (4)(A), (5), and (7) were not included in such section 103(c)),<sup>1</sup> paragraph (1) of such section 103(c) <sup>1</sup> does not apply to such security.
+&emsp;(29) The term “municipal securities” means securities which are direct obligations of, or obligations guaranteed as to principal or interest by, a State or any political subdivisionthereof, or any agency or instrumentality of a State or any political subdivision thereof, or any municipal corporate instrumentality of one or more States, or any security which is an industrial development bond (as defined in section 103(c)(2) <sup>1</sup> of title 26) the interest on which is excludable from gross income under section 103(a)(1) <sup>1</sup> of title 26 if, by reason of the application of paragraph (4) or (6) of section 103(c) <sup>1</sup> of title 26 (determined as if paragraphs (4)(A), (5), and (7) were not included in such section 103(c)),<sup>1</sup> paragraph (1) of such section 103(c) <sup>1</sup> does not apply to such security.
 
 &emsp;(30) The term “municipal securities dealer” means any person (including a separately identifiable department or division of a bank) engaged in the business of buying and selling municipal securities for his own account, through a broker or otherwise, but does not include—
 
@@ -132,7 +352,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;&emsp;(iv) the Commission in all other cases.
 
-&emsp;&emsp;(D) When used with respect to an institutional investment manager which is a bank the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]:
+&emsp;&emsp;(D) When used with respect to an institutional investment manager which is a bankthe deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\]:
 
 &emsp;&emsp;&emsp;(i) the Comptroller of the Currency, in the case of a national bank or a bank operating under the Code of Law for the District of Columbia;
 
@@ -178,7 +398,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(35) A person exercises “investment discretion” with respect to an account if, directly or indirectly, such person (A) is authorized to determine what securities or other property shall be purchased or sold by or for the account, (B) makes decisions as to what securities or other property shall be purchased or sold by or for the account even though some other person may have responsibility for such investment decisions, or (C) otherwise exercises such influence with respect to the purchase and sale of securities or other property by or for the account as the Commission, by rule, determines, in the public interest or for the protection of investors, should be subject to the operation of the provisions of this chapter and the rules and regulations thereunder.
 
-&emsp;(36) A class of persons or markets is subject to “equal regulation” if no member of the class has a competitive advantage over any other member thereof resulting from a disparity in their regulation under this chapter which the Commission determines is unfair and not necessary or appropriate in furtherance of the purposes of this chapter.
+&emsp;(36) A class of persons or markets is subject to “equal regulation” if no member of the class has a competitive advantage over any other member thereof resulting from a disparity in their regulation under this chapterwhich the Commission determines is unfair and not necessary or appropriate in furtherance of the purposes of this chapter.
 
 &emsp;(37) The term “records” means accounts, correspondence, memorandums, tapes, discs, papers, books, and other documents or transcribed information of any type, whether expressed in ordinary or machine language.
 
@@ -192,7 +412,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;&emsp;(i) an order of the Commission, other appropriate regulatory agency, or foreign financial regulatory authority—
 
-&emsp;&emsp;&emsp;&emsp;(I) denying, suspending for a period not exceeding 12 months, or revoking his registration as a broker, dealer, municipal securities dealer, government securities broker, or government securitiesdealer or limiting his activities as a foreign person performing a function substantially equivalent to any of the above; or
+&emsp;&emsp;&emsp;&emsp;(I) denying, suspending for a period not exceeding 12 months, or revoking his registration as a broker, dealer, municipal securities dealer, government securities broker, or government securities dealer or limiting his activities as a foreign person performing a function substantially equivalent to any of the above; or
 
 &emsp;&emsp;&emsp;&emsp;(II) barring or suspending for a period not exceeding 12 months his being associated with a broker, dealer, municipal securities dealer, government securities broker, government securities dealer, or foreign person performing a function substantially equivalent to any of the above;
 
@@ -218,7 +438,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;&emsp;(ii) were originated by a savings and loan association, savings bank, commercial bank, credit union, insurance company, or similar institution which is supervised and examined by a Federal or State authority, or by a mortgagee approved by the Secretary of Housing and Urban Development pursuant to sections 1709 and 1715b of title 12, or, where such notes involve a lien on the manufactured home, by any such institution or by any financial institution approved for insurance by the Secretary of Housing and Urban Development pursuant to section 1703 of title 12; or
 
-&emsp;&emsp;(B) is secured by one or more promissory notes or certificates of interest or participations in such notes (with or without recourseto the issuer thereof) and, by its terms, provides for payments of principal in relation to payments, or reasonable projections of payments, on notes meeting the requirements of subparagraphs (A)(i) and (ii) or certificates of interest or participations in promissory notes meeting such requirements.
+&emsp;&emsp;(B) is secured by one or more promissory notes or certificates of interest or participations in such notes (with or without recourse to the issuer thereof) and, by its terms, provides for payments of principal in relation to payments, or reasonable projections of payments, on notes meeting the requirements of subparagraphs (A)(i) and (ii) or certificates of interest or participations in promissory notes meeting such requirements.
 
 > &emsp;For the purpose of this paragraph, the term “promissory note”, when used in connection with a manufactured home, shall also include a loan, advance, or credit sale as evidence <sup>3</sup> by a retail installment sales contract or other instrument.
 
@@ -228,13 +448,15 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(B) securities which are issued or guaranteed by corporations in which the United States has a direct or indirect interest and which are designated by the Secretary of the Treasury for exemption as necessary or appropriate in the public interest or for the protection of investors;
 
-&emsp;&emsp;(C) securities issued or guaranteed as to principal or interest by any corporation the securities of which are designated, by statute specifically naming such corporation, to constitute exempt securities within the meaning of the laws administered by the Commission; or
+&emsp;&emsp;(C) securities issued or guaranteed as to principal or interest by any corporation the securities of which are designated, by statute specifically naming such corporation, to constitute exempt securities within the meaning of the laws administered by the Commission;
 
 &emsp;&emsp;(D) for purposes of sections 78<i>o</i>–5 and 78q–1 of this title, any put, call, straddle, option, or privilege on a security described in subparagraph (A), (B), or (C) other than a put, call, straddle, option, or privilege—
 
 &emsp;&emsp;&emsp;(i) that is traded on one or more national securities exchanges; or
 
-&emsp;&emsp;&emsp;(ii) for which quotations are disseminated through an automated quotation system operated by a registered securities association.
+&emsp;&emsp;&emsp;(ii) for which quotations are disseminated through an automated quotation system operated by a registered securities association; or
+
+&emsp;&emsp;(E) for purposes of sections 78<i>o</i>, 78<i>o</i>–5, and 78q–1 of this title as applied to a bank, a qualified Canadian government obligation as defined in section 24 of title 12.
 
 &emsp;(43) The term “government securities broker” means any person regularly engaged in the business of effecting transactions in government securities for the account of others, but does not include—
 
@@ -250,7 +472,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(C) any bank, unless the bank is engaged in the business of buying and selling government securities for its own account other than in a fiduciary capacity, through a broker or otherwise; or
 
-&emsp;&emsp;(D) any person registered with the Commodity Futures Trading Commission, any contract market designated by the Commodity Futures Trading Commission, such contract market's affiliated clearing organization, or any floor trader on such contract market, solely because such person effects transactions in government securities that the Commission, after consultation with the Commodity Futures Trading Commission, has determined by rule or order to be incidental to such person's futures-related business.
+&emsp;&emsp;(D) any person registered with the Commodity Futures Trading Commission, any contract market designated by the Commodity Futures Trading Commission, such contract market's affiliated clearing organization, or any floor trader on such contract market, solely because such person effects transactions in government securities thatthe Commission, after consultation with the Commodity Futures Trading Commission, has determined by rule or order to be incidental to such person's futures-related business.
 
 &emsp;(45) The term “person associated with a government securities broker or government securities dealer” means any partner, officer, director, or branch manager of such government securities broker or government securities dealer (or any person occupying a similar status or performing similar functions), and any other employee of such government securities broker or government securities dealer who is engaged in the management, direction, supervision, or performance of any activities relating to government securities, and any person directly or indirectly controlling, controlled by, or under common control with such government securities broker or government securities dealer.
 
@@ -264,7 +486,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(47) The term “securities laws” means the Securities Act of 1933 (15 U.S.C. 77a et seq.), the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a et seq.) \[15 U.S.C. 79 et seq.\], the Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.), the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), the Investment Advisers Act of 1940 (15 U.S.C. 80b et seq.) \[15 U.S.C. 80b–1 et seq.\], and the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.).
 
-&emsp;(48) The term “registered broker or dealer” means a broker or dealer registered or required to register pursuant to section 78<i>o</i> or78<i>o</i>–4 of this title, except that in paragraph (3) of this subsection and sections 78f and 78<i>o</i>–3 of this title the term means such a broker or dealer and a government securities broker or government securities dealer registered or required to register pursuant to section 78<i>o</i>–5(a)(1)(A) of this title.
+&emsp;(48) The term “registered broker or dealer” means a broker or dealer registered or required to register pursuant to section 78<i>o</i> or 78<i>o</i>–4 of this title, except that in paragraph (3) of this subsection and sections 78f and 78<i>o</i>–3 of this title the term means such a broker or dealer and a government securities broker or government securities dealer registered or required to register pursuant to section 78<i>o</i>–5(a)(1)(A) of this title.
 
 &emsp;(49) The term “person associated with a transfer agent” and “associated person of a transfer agent” mean any person (except an employee whose functions are solely clerical or ministerial) directly engaged in the management, direction, supervision, or performance of any of the transfer agent's activities with respect to transfer agent functions, and any person directly or indirectly controlling such activities or controlled by the transfer agent in connection with such activities.
 
@@ -316,7 +538,7 @@ Definition.—Except as provided in subparagraph (B), for purposes of this chapt
 
 &emsp;&emsp;&emsp;(ii) any issuer eligible for an exclusion from the definition of investment company pursuant to section 3(c)(7) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)\];
 
-&emsp;&emsp;&emsp;(iii) any bank (as defined in paragraph (6) of this subsection), savings association (as defined in section 3(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(b)\]), broker, dealer, insurance company (as defined in section 2(a)(13) of the SecuritiesAct of 1933 \[15 U.S.C. 77b(a)(13)\]), or business development company (as defined in section 2(a)(48) of the Investment Company Act of 1940 \[15 U.S.C. 80a–2(a)(48)\]);
+&emsp;&emsp;&emsp;(iii) any bank (as defined in paragraph (6) of this subsection), savings association (as defined in section 3(b) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(b)\]), broker, dealer, insurance company (as defined in section 2(a)(13) of the Securities Act of 1933 \[15 U.S.C. 77b(a)(13)\]), or business development company (as defined in section 2(a)(48) of the Investment Company Act of 1940 \[15 U.S.C. 80a–2(a)(48)\]);
 
 &emsp;&emsp;&emsp;(iv) any small business investment company licensed by the United States Small Business Administration under section 301(c) \[15 U.S.C. 681(c)\] or (d) <sup>4</sup> of the Small Business Investment Act of 1958;
 
@@ -416,7 +638,7 @@ The Commission and the Board of Governors of the Federal Reserve System, as to m
 
 #### (c) Application to governmental departments or agencies
 
-No provision of this chapter shall apply to, or be deemed to include, any executive department or independent establishment of the United States, or any lending agency which is wholly owned, directly or indirectly, by the United States, or any officer, agent, or employee of any such department, establishment, or agency, acting in the course of his official duty as such, unless such provision makes specific reference to such department, establishment, or agency.
+No provision of this chapter shall apply to, or be deemed to include, any executive department or independent establishment of the United States, or any lending agency which is wholly owned, directly or indirectly, by the United States, or any officer, agent, or employee of anysuch department, establishment, or agency, acting in the course of his official duty as such, unless such provision makes specific reference to such department, establishment, or agency.
 
 #### (d) Issuers of municipal securities
 
@@ -450,197 +672,17 @@ No church plan described in section 414(e) of title 26, no person or entity elig
 
 &emsp;(2) if no such person or entity receives a commission or other transaction-related sales compensation in connection with any activities conducted in reliance on the exemption provided by this subsection.
 
-(June 6, 1934, ch. 404, title I, §3, 48 Stat. 882; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 86–70, §12(b), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(b), July 12, 1960, 74 Stat. 412; Pub. L. 88–467, §2, Aug. 20, 1964, 78 Stat. 565; Pub. L. 91–373, title IV, §401(b), Aug. 10, 1970, 84 Stat. 718; Pub. L. 91–547, §28(a), (b), Dec. 14, 1970, 84 Stat. 1435; Pub. L. 91–567, §6(b), Dec. 22, 1970, 84 Stat. 1499; Pub. L. 94–29, §3, June 4, 1975, 89 Stat. 97; Pub. L. 95–283, §16, May 21, 1978, 92 Stat. 274; Pub. L. 96–477, title VII, §702, Oct. 21, 1980, 94 Stat. 2295; Pub. L. 97–303, §2, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 98–376, §6(a), Aug. 10, 1984, 98 Stat. 1265; Pub. L. 98–440, title I, §101, Oct. 3, 1984, 98 Stat. 1689; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–571, title I, §102(a)–(d), Oct. 28, 1986, 100 Stat. 3214–3216; Pub. L. 100–181, title III, §§301–306, Dec. 4, 1987, 101 Stat. 1253, 1254; Pub. L. 100–704, §6(a), Nov. 19, 1988, 102 Stat. 4681; Pub. L. 101–73, title VII, §744(u)(1), Aug. 9, 1989, 103 Stat. 441; Pub. L. 101–429, title V, §503, Oct. 15, 1990, 104 Stat. 952; Pub. L. 101–550, title II, §§203(b), 204, Nov. 15, 1990, 104 Stat. 2717, 2718; Pub. L. 103–202, title I, §§106(b)(2)(A), 109(a), Dec. 17, 1993, 107 Stat. 2350, 2352; Pub. L. 103–325, title II, §202, title III, §347(a), Sept. 23, 1994, 108 Stat. 2198, 2241; Pub. L. 104–62, §4(a), (b), Dec. 8, 1995, 109 Stat. 684; Pub. L. 104–290, title I, §106(b), title V, §508(c), Oct. 11, 1996, 110 Stat. 3424, 3447; Pub. L. 105–353, title III, §301(b)(1)–(4), Nov. 3, 1998, 112 Stat. 3235, 3236; Pub. L. 106–102, title II, §§201, 202, 207, 208, 221(b), 231(b)(1), Nov. 12, 1999, 113 Stat. 1385, 1390, 1394, 1395, 1401, 1406; Pub. L. 106–554, §1(a)(5) \[title II, §201\], Dec. 21, 2000, 114 Stat. 2763, 2763A–413.)
-
-#### Amendment of Subsection (a)(4), (5)
-
-<i>Pub. L. 106–102, title II, §§201, 202, 209, Nov. 12, 1999, 113 Stat. 1385, 1390, 1395, provided that, effective at the end of the 18-month period beginning on Nov. 12, 1999, subsection (a)(4), (5) of this section is amended to read as follows:</i>
-
-(4) <i>BROKER.—</i>
-
-&emsp;(A) <i>IN GENERAL</i>.—The term “broker” means any person engaged in the business of effecting transactions in securities for the account of others.
-
-&emsp;(B) <i>EXCEPTION FOR CERTAIN BANK ACTIVITIES</i>.—A bank shall not be considered to be a broker because the bank engages in any one or more of the following activities under the conditions described:
-
-&emsp;&emsp;(i) <i>THIRD PARTY BROKERAGE ARRANGEMENTS</i>g940<i>.—The bank enters into a contractual or other written arrangement with a broker or dealer registered under this chapter under which the broker or dealer offers brokerage services on or off the premises of the bank if—</i>
-
-&emsp;&emsp;&emsp;<i>(I) such broker or dealer is clearly identified as the person performing the brokerage services;</i>
-
-&emsp;&emsp;&emsp;<i>(II) the broker or dealer performs brokerage services in an area that is clearly marked and, to the extent practicable, physically separate from the routine deposit-taking activities of the bank;</i>
-
-&emsp;&emsp;&emsp;<i>(III) any materials used by the bank to advertise or promote generally the availability of brokerage services under the arrangement clearly indicate that the brokerage services are being provided by the broker or dealer and not by the bank;</i>
-
-&emsp;&emsp;&emsp;<i>(IV) any materials used by the bank to advertise or promote generally the availability of brokerage services under the arrangement are in compliance with the Federal securities laws before distribution;</i>
-
-&emsp;&emsp;&emsp;<i>(V) bank employees (other than associated persons of a broker or dealer who are qualified pursuant to the rules of a self-regulatory</i><i>organization) perform only clerical or ministerial functions in connection with brokerage transactions including scheduling appointments with the associated persons of a broker or dealer, except that bank employees may forward customer funds or securities and may describe in general terms the types of investment vehicles available from the bank and the broker or dealer under the arrangement;</i>
-
-&emsp;&emsp;&emsp;<i>(VI) bank employees do not receive incentive compensation for any brokerage transaction unless such employees are associated persons of a broker or dealer and are qualified pursuant to the rules of a self-regulatory organization, except that the bank employees may receive compensation for the referral of any customer if the compensation is a nominal one-time cash fee of a fixed dollar amount and the payment of the fee is not contingent on whether the referral results in a transaction;</i>
-
-&emsp;&emsp;&emsp;<i>(VII) such services are provided by the broker or dealer on a basis in which all customers that receive any services are fully disclosed to the broker or dealer;</i>
-
-&emsp;&emsp;&emsp;<i>(VIII) the bank does not carry a securities account of the customer except as permitted under clause (ii) or (viii) of this subparagraph; and</i>
-
-&emsp;&emsp;&emsp;<i>(IX) the bank, broker, or dealer informs each customer that the brokerage services are provided by the broker or dealer and not by the bank and that the securities are not deposits or other obligations of the bank, are not guaranteed by the bank, and are not insured by the Federal Deposit Insurance Corporation.</i>
-
-&emsp;&emsp;(ii) <i>TRUST ACTIVITIES</i>.—The bank effects transactions in a trustee capacity, or effects transactions in a fiduciary capacity in its trust department or other department that is regularly examined by bank examiners for compliance with fiduciary principles and standards, and—
-
-&emsp;&emsp;&emsp;<i>(I) is chiefly compensated for such transactions, consistent with fiduciary principles and standards, on the basis of an administration or annual fee (payable on a monthly, quarterly, or other basis), a percentage of assets under management, or a flat or capped per order processing fee equal to not more than the cost incurred by the bank in connection with executing securities transactions for trustee and fiduciary customers, or any combination of such fees; and</i>
-
-&emsp;&emsp;&emsp;<i>(II) does not publicly solicit brokerage business, other than by advertising that it effects transactions in securities in conjunction with advertising its other trust activities.</i>
-
-&emsp;&emsp;(iii) <i>PERMISSIBLE SECURITIES TRANSACTIONS</i>g940<i>.—The bank effects transactions in—</i>
-
-&emsp;&emsp;&emsp;<i>(I) commercial paper, bankers acceptances, or commercial bills;</i>
-
-&emsp;&emsp;&emsp;<i>(II) exempted securities;</i>
-
-&emsp;&emsp;&emsp;<i>(III) qualified Canadian government obligations as defined in section 24 of title 12, in conformity with section 78o–5 of this title and the rules and regulations thereunder, or obligations of the North American Development Bank; or</i>
-
-&emsp;&emsp;&emsp;<i>(IV) any standardized, credit enhanced debt security issued by a foreign government pursuant to the March 1989 plan of then Secretary of the Treasury Brady, used by such foreign government to retire outstanding commercial bank loans.</i>
-
-&emsp;&emsp;(iv) <i>CERTAIN STOCK PURCHASE PLANS.—</i>
-
-&emsp;&emsp;&emsp;<i>(I) EMPLOYEE BENEFIT PLANS</i>.—<i>The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of any pension, retirement, profit-sharing, bonus, thrift, savings, incentive, or other similar benefit plan for the employees of that issuer or its affiliates (as defined in section 1841 of title 12), if the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan.</i>
-
-&emsp;&emsp;&emsp;<i>(II) DIVIDEND REINVESTMENT PLANS</i>.—<i>The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of that issuer's dividend reinvestment plan, if—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(aa) the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(bb) the bank does not net shareholders’ buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.</i>
-
-&emsp;&emsp;&emsp;<i>(III) ISSUER PLANS</i>.—<i>The bank effects transactions, as part of its transfer agency activities, in the securities of an issuer as part of a plan or program for the purchase or sale of that issuer's shares, if—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(aa) the bank does not solicit transactions or provide investment advice with respect to the purchase or sale of securities in connection with the plan or program; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(bb) the bank does not net shareholders’ buy and sell orders, other than for programs for odd-lot holders or plans registered with the Commission.</i>
-
-&emsp;&emsp;&emsp;<i>(IV) PERMISSIBLE DELIVERY OF MATERIALS</i>g940<i>.—The exception to being considered a broker for a bank engaged in activities described in subclauses (I), (II), and (III) will not be affected by delivery of written or electronic plan materials by a bank to employees of the issuer, shareholders of the issuer, or members of affinity groups of the issuer, so long as such materials are—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(aa) comparable in scope or nature to that permitted by the Commission as of November 12, 1999; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(bb) otherwise permitted by the Commission.</i>
-
-&emsp;&emsp;(v) <i>SWEEP ACCOUNTS</i>.—The bank effects transactions as part of a program for the investment or reinvestment of deposit funds into any no-load, open-end management investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] that holds itself out as a money market fund.
-
-&emsp;&emsp;(vi) <i>AFFILIATE TRANSACTIONS</i>.—The bank effects transactions for the account of any affiliate of the bank (as defined in section 1841 of title 12) other than—
-
-&emsp;&emsp;&emsp;<i>(I) a registered broker or dealer; or</i>
-
-&emsp;&emsp;&emsp;<i>(II) an affiliate that is engaged in merchant banking, as described in section 1843(k)(4)(H) of title 12.</i>
-
-&emsp;&emsp;(vii) <i>PRIVATE SECURITIES OFFERINGS</i>.—The bank—
-
-&emsp;&emsp;&emsp;<i>(I) effects sales as part of a primary offering of securities not involving a public offering, pursuant to section 3(b), 4(2), or 4(6) of the Securities Act of 1933 \[15 U.S.C. 77c(b), 77d(2), 77d(6)\] or the rules and regulations issued thereunder;</i>
-
-&emsp;&emsp;&emsp;<i>(II) at any time after the date that is 1 year after November 12, 1999, is not affiliated with a broker or dealer that has been registered for more than 1 year in accordance with this chapter, and engages in dealing, market making, or underwriting activities, other than with respect to exempted securities; and</i>
-
-&emsp;&emsp;&emsp;<i>(III) if the bank is not affiliated with a broker or dealer, does not effect any primary offering described in subclause (I) the aggregate amount of which exceeds 25 percent of the capital of the bank, except that the limitation of this subclause shall not apply with respect to any sale of government securities or municipal securities.</i>
-
-&emsp;&emsp;(viii) <i>SAFEKEEPING AND CUSTODY ACTIVITIES.—</i>
-
-&emsp;&emsp;&emsp;<i>(I) IN GENERAL</i>.—<i>The bank, as part of customary banking activities—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(aa) provides safekeeping or custody services with respect to securities, including the exercise of warrants and other rights on behalf of customers;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(bb) facilitates the transfer of funds or securities, as a custodian or a clearing agency, in connection with the clearance and settlement of its customers’ transactions in securities;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(cc) effects securities lending or borrowing transactions with or on behalf of customers as part of services provided to customers pursuant to division (aa) or (bb) or invests cash collateral pledged in connection with such transactions;</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(dd) holds securities pledged by a customer to another person or securities subject to purchase or resale agreements involving a customer, or facilitates the pledging or transfer of such securities by book entry or as otherwise provided under applicable law, if the bank maintains records separately identifying the securities and the customer; or</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(ee) serves as a custodian or provider of other related administrative services to any individual retirement account, pension, retirement, profit sharing, bonus, thrift savings, incentive, or other similar benefit plan.</i>
-
-&emsp;&emsp;&emsp;<i>(II) EXCEPTION FOR CARRYING BROKER ACTIVITIES</i>g940<i>.—The exception to being considered a broker for a bank engaged in activities described in subclause (I) shall not apply if the bank, in connection with such activities, acts in the United States as a carrying broker (as such term, and different formulations thereof, are used in section 78o(c)(3) of this title and the rules and regulations thereunder) for any broker or dealer, unless such carrying broker activities are engaged in with respect to government securities (as defined in paragraph (42) of this subsection).</i>
-
-&emsp;&emsp;(ix) <i>IDENTIFIED BANKING PRODUCTS</i>.—The bank effects transactions in identified banking products as defined in section 206 of the Gramm-Leach-Bliley Act.
-
-&emsp;&emsp;(x) <i>MUNICIPAL SECURITIES</i>.—The bank effects transactions in municipal securities.
-
-&emsp;&emsp;(xi) <i>DE MINIMIS EXCEPTION</i>.—The bank effects, other than in transactions referred to in clauses (i) through (x), not more than 500 transactions in securities in any calendar year, and such transactions are not effected by an employee of the bank who is also an employee of a broker or dealer.
-
-&emsp;(C) <i>EXECUTION BY BROKER OR DEALER</i>.—The exception to being considered a broker for a bank engaged in activities described in clauses (ii), (iv), and (viii) of subparagraph (B) shall not apply if the activities described in such provisions result in the trade in the United States of any security that is a publicly traded security in the United States, unless—
-
-&emsp;&emsp;(i) the bank directs such trade to a registered broker or dealer for execution;
-
-&emsp;&emsp;(ii) the trade is a cross trade or other substantially similar trade of a security that—
-
-&emsp;&emsp;&emsp;<i>(I) is made by the bank or between the bank and an affiliated fiduciary; and</i>
-
-&emsp;&emsp;&emsp;<i>(II) is not in contravention of fiduciary principles established under applicable Federal or State law; or</i>
-
-&emsp;&emsp;(iii) the trade is conducted in some other manner permitted under rules, regulations, or orders as the Commission may prescribe or issue.
-
-&emsp;(D) <i>FIDUCIARY CAPACITY</i>.—For purposes of subparagraph (B)(ii), the term “fiduciary capacity” means—
-
-&emsp;&emsp;(i) in the capacity as trustee, executor, administrator, registrar of stocks and bonds, transfer agent, guardian, assignee, receiver, or custodian under a uniform gift to minor act, or as an investment adviser if the bank receives a fee for its investment advice;
-
-&emsp;&emsp;(ii) in any capacity in which the bank possesses investment discretion on behalf of another; or
-
-&emsp;&emsp;(iii) in any other similar capacity.
-
-&emsp;(E) <i>EXCEPTION FOR ENTITIES SUBJECT TO SECTION 78o</i>(e).—The term “broker” does not include a bank that—
-
-&emsp;&emsp;(i) was, on the day before November 12, 1999, subject to section 78<i>o</i>(e) of this title; and
-
-&emsp;&emsp;(ii) is subject to such restrictions and requirements as the Commission considers appropriate.
-
-(5) <i>DEALER.—</i>
-
-&emsp;(A) <i>IN GENERAL</i>.—The term “dealer” means any person engaged in the business of buying and selling securities for such person's own account through a broker or otherwise.
-
-&emsp;(B) <i>EXCEPTION FOR PERSON NOT ENGAGED IN THE BUSINESS OF DEALING</i>.—The term “dealer” does not include a person that buys or sells securitiesfor such person's own account, either individually or in a fiduciary capacity, but not as a part of a regular business.
-
-&emsp;(C) <i>EXCEPTION FOR CERTAIN BANK ACTIVITIES</i>.—A bank shall not be considered to be a dealer because the bank engages in any of the following activities under the conditions described:
-
-&emsp;&emsp;(i) <i>PERMISSIBLE SECURITIES TRANSACTIONS</i>.—The bank buys or sells—
-
-&emsp;&emsp;&emsp;<i>(I) commercial paper, bankers acceptances, or commercial bills;</i>
-
-&emsp;&emsp;&emsp;<i>(II) exempted securities;</i>
-
-&emsp;&emsp;&emsp;<i>(III) qualified Canadian government obligations as defined in section 24 of title 12, in conformity with section 78o–5 of this title and the rules and regulations thereunder, or obligations of the North American Development Bank; or</i>
-
-&emsp;&emsp;&emsp;<i>(IV) any standardized, credit enhanced debt security issued by a foreign government pursuant to the March 1989 plan of then Secretary of the Treasury Brady, used by such foreign government to retire outstanding commercial bank loans.</i>
-
-&emsp;&emsp;(ii) <i>INVESTMENT, TRUSTEE, AND FIDUCIARY TRANSACTIONS</i>g940<i>.—The bank buys or sells securities for investment purposes—</i>
-
-&emsp;&emsp;&emsp;<i>(I) for the bank; or</i>
-
-&emsp;&emsp;&emsp;<i>(II) for accounts for which the bank acts as a trustee or fiduciary.</i>
-
-&emsp;&emsp;(iii) <i>ASSET-BACKED TRANSACTIONS</i>.—The bank engages in the issuance or sale to qualified investors, through a grantor trust or other separate entity, of securities backed by or representing an interest in notes, drafts, acceptances, loans, leases, receivables, other obligations (other than securities of which the bank is not the issuer), or pools of any such obligations predominantly originated by—
-
-&emsp;&emsp;&emsp;<i>(I) the bank;</i>
-
-&emsp;&emsp;&emsp;<i>(II) an affiliate of any such bank other than a broker or dealer; or</i>
-
-&emsp;&emsp;&emsp;<i>(III) a syndicate of banks of which the bank is a member, if the obligations or pool of obligations consists of mortgage obligations or consumer-related receivables.</i>
-
-&emsp;&emsp;(iv) <i>IDENTIFIED BANKING PRODUCTS</i>.—The bank buys or sells identified banking products, as defined in section 206 of the Gramm-Leach-Bliley Act.
-
-#### Amendment of Subsection (a)(12)(A)(iii)
-
-<i>Pub. L. 106–102, title II, §§221(b), 225, Nov. 12, 1999, 113 Stat. 1401, 1402, provided that, effective 18 months after Nov. 12, 1999, subsection (a)(12)(A)(iii) of this section is amended to read as follows:</i>
-
-(iii) any interest or participation in any common trust fund or similar fund that is excluded from the definition of the term “investment company” under section 3(c)(3) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(3)\];
-
-#### Amendment of Subsection (a)(42)
-
-<i>Pub. L. 106–102, title II, §§208, 209, Nov. 12, 1999, 113 Stat. 1395, provided that, effective at the end of the 18-month period beginning on Nov. 12, 1999, subsection (a)(42) of this section is amended by—</i>
-
-<i>(1) striking “or” at the end of subparagraph (C);</i>
-
-<i>(2) striking the period at the end of subparagraph (D) and inserting “; or”; and</i>
-
-<i>(3) adding at the end the following new subparagraph:</i>
-
-“(E) for purposes of sections 78<i>o</i>, 78<i>o</i>–5, and 78q–1 of this title as applied to a bank, a qualified Canadian government obligation as defined in section 24 of title 12.”
+(June 6, 1934, ch. 404, title I, §3, 48 Stat. 882; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 86–70, §12(b), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(b), July 12, 1960, 74 Stat. 412; Pub. L. 88–467, §2, Aug. 20, 1964, 78 Stat. 565; Pub. L. 91–373, title IV, §401(b), Aug. 10, 1970, 84 Stat. 718; Pub. L. 91–547, §28(a), (b), Dec. 14, 1970, 84 Stat. 1435; Pub. L. 91–567, §6(b), Dec. 22, 1970, 84 Stat. 1499; Pub. L. 94–29, §3, June 4, 1975, 89 Stat. 97; Pub. L. 95–283, §16, May 21, 1978, 92 Stat. 274; Pub. L. 96–477, title VII, §702, Oct. 21, 1980, 94 Stat. 2295; Pub. L. 97–303, §2, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 98–376, §6(a), Aug. 10, 1984, 98 Stat. 1265; Pub. L. 98–440, title I, §101, Oct. 3, 1984, 98 Stat. 1689; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–571, title I, §102(a)–(d), Oct. 28, 1986, 100 Stat. 3214–3216; Pub. L. 100–181, title III, §§301–306, Dec. 4, 1987, 101 Stat. 1253, 1254; Pub. L. 100–704, §6(a), Nov. 19, 1988, 102 Stat. 4681; Pub. L. 101–73, title VII, §744(u)(1), Aug. 9, 1989, 103 Stat. 441; Pub. L. 101–429, title V, §503, Oct. 15, 1990, 104 Stat. 952; Pub. L. 101–550, title II, §§203(b), 204, Nov. 15, 1990, 104 Stat. 2717, 2718; Pub. L. 103–202, title I, §§106(b)(2)(A), 109(a), Dec. 17, 1993, 107 Stat. 2350, 2352; Pub. L. 103–325, title II, §202, title III, §347(a), Sept. 23, 1994, 108 Stat. 2198, 2241; Pub. L. 104–62, §4(a), (b), Dec. 8, 1995, 109 Stat. 684; Pub. L. 104–290, title I, §106(b), title V, §508(c), Oct. 11, 1996, 110 Stat. 3424, 3447; Pub. L. 105–353, title III, §301(b)(1)–(4), Nov. 3, 1998, 112 Stat. 3235, 3236; Pub. L. 106–102, title II, §§201, 202, 207, 208, 221(b), 231(b)(1), Nov. 12, 1999, 113 Stat. 1385, 1390, 1394, 1395, 1401, 1406; Pub. L.106–554, §1(a)(5) \[title II, §201\], Dec. 21, 2000, 114 Stat. 2763, 2763A–413.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b), (c), (e)(1), (f), and (g), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(19), (47), (51)(A)(iii), is title I of act Aug. 20, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(4)(B)(v), (19), (47), (51)(A)(iii), is title I of act Aug. 20, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+
+This chapter, referred to in subsec. (a)(4)(B)(vii)(II), was in the original “this Act”. See References in Text note set out under section 78a of this title.
+
+Section 206 of the Gramm-Leach-Bliley Act, referred to in subsec. (a)(4)(B)(ix), (5)(C)(iv), (54)(B), is section 206 of Pub. L. 106–102, which is set out as a note below.
 
 The Investment Advisers Act of 1940, referred to in subsec. (a)(20), (47), is title II of act Aug. 20, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
@@ -670,8 +712,6 @@ Section 301(d) of the Small Business Investment Act of 1958, referred to in subs
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(54)(A)(v), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-Section 206(a)(5) of the Gramm-Leach-Bliley Act, referred to in subsec. (a)(54)(B), is section 206(a)(5) of Pub. L. 106–102, which is set out as a note below.
-
 #### Codification
 
 Words “Philippine Islands” deleted from definition of term “State” in subsec. (a)(16) under authority of Proc. No. 2695, which granted independence to the Philippine Islands. Proc. No. 2695 was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
@@ -686,7 +726,15 @@ Subsec. (a)(13), (14). Pub. L. 106–554, §1(a)(5) \[title II, §201(3), (4)\],
 
 Subsec. (a)(55) to (57). Pub. L. 106–554, §1(a)(5) \[title II, §201(5)\], added pars. (55) to (57).
 
-1999—Subsec. (a)(34)(H). Pub. L. 106–102, §231(b)(1), which directed insertion of subpar. (H) at end of par. (34), was executed by inserting subpar. (H) after subpar. (G) and before concluding provisions to reflect the probable intent of Congress.
+1999—Subsec. (a)(4). Pub. L. 106–102, §201, inserted heading and amended text of par. (4) generally. Prior to amendment, text read as follows: “The term ‘broker’ means any person engaged in the business of effecting transactions in securities for the account of others, but does not include a bank.”
+
+Subsec. (a)(5). Pub. L. 106–102, §202, inserted heading and amended text of par. (5) generally. Prior to amendment, text read as follows: “The term ‘dealer’ means any person engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, or any person insofar as he buys or sells securities for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business.”
+
+Subsec. (a)(12)(A)(iii). Pub. L. 106–102, §221(b), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “any interest or participation in any common trust fund or similar fund maintained by a bankexclusively for the collective investment and reinvestment of assets contributed thereto by such bank in its capacity as trustee, executor, administrator, or guardian;”.
+
+Subsec. (a)(34)(H). Pub. L. 106–102, §231(b)(1), which directed insertion of subpar. (H) at end of par. (34), was executed by inserting subpar. (H) after subpar. (G) and before concluding provisions to reflect the probable intent of Congress.
+
+Subsec. (a)(42)(E). Pub. L. 106–102, §208, added subpar. (E).
 
 Subsec. (a)(54). Pub. L. 106–102, §207, added par. (54).
 
@@ -800,7 +848,7 @@ Subsec. (a)(9). Pub. L. 94–29, §3(2), substituted “a natural person, compan
 
 Subsec. (a)(12). Pub. L. 94–29, §3(3), brought brokers and dealers engaged exclusively in municipal securities business within the registration provisions of this chapter by transferring the existing description of municipal securities to subsec. (a)(29) and by inserting in its place provisions revoking the exempt status of municipal securities for purposes of sections 78o, 78o–3 (except subsections (b)(6), (b)(11), and (g)(2) thereof) and 78q–1 of this title.
 
-Subsec. (a)(17). Pub. L. 94–29, §3(4), expanded definition of “interstate commerce” to establish that theintrastate use of any facility of an exchange, any telephones or other interstate means of communication, or any other interstate instrumentality constitutes a use of the jurisdictional means for purposes of this chapter.
+Subsec. (a)(17). Pub. L. 94–29, §3(4), expanded definition of “interstate commerce” to establish that the intrastate use of any facility of an exchange, any telephones or other interstate means of communication, or any other interstate instrumentality constitutes a use of the jurisdictional means for purposes of this chapter.
 
 Subsec. (a)(18). Pub. L. 94–29, §3(4), expanded definition to include persons under common control with the broker or dealer and struck out references to the classification of the persons, including employees, controlled by a broker or a dealer.
 
@@ -818,7 +866,7 @@ Subsec. (d). Pub. L. 94–29, §3(8), added subsec. (d).
 
 Pub. L. 91–547, §28(a), struck out reference to industrial development bonds the interest on which is excludable from gross income under section 103(a)(1) of title 26; and included as exempted securities interests or participations in common trust funds maintained by a bank for collective investment of assets held by it in a fiduciary capacity; interests or participations in bank collective trust funds maintained for funding of employees’ stock-bonus, pension, or profit-sharing plans; interests or participations in separate accounts maintained by insurance companies for funding certain stock-bonus, pension, or profit-sharing plans which meet the requirements for qualification under section 401 of title 26; and such other securities as the Commission by rules and regulations deems necessary in the public interest.
 
-Pub. L. 91–373 inserted provisions which brought within definition of “exempted security” any security which is an industrial development bond the interest on which is excludable from gross income under section 103(a)(1) of title 26 if, by reason of the application of section 103(c)(4) or (6) of title 26, section 103(c)(1) does not apply to such security. Such amendment was also made by Pub. L. 91–567.
+Pub. L. 91–373 inserted provisions which brought within definition of “exempted security” any security which is an industrial development bond the interest on which is excludable from gross income under section 103(a)(1) of title 26 if, by reason of the application ofsection 103(c)(4) or (6) of title 26, section 103(c)(1) does not apply to such security. Such amendment was also made by Pub. L. 91–567.
 
 Subsec. (a)(19). Pub. L. 91–547, §28(b), provided for term “separate account” the same meaning as in the Investment Company Act of 1940.
 
@@ -894,7 +942,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### State Opt Out
 
-Section 347(e) of Pub. L. 103–325 provided that: “Notwithstanding the amendments made by this section \[amending this section and section 24 of Title 12, Banks and Banking\], a note that is directly secured by a first lien on one or more parcels of real estate upon which is located one or more commercial structures shall not be considered to be a mortgage related security under section 3(a)(41) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(41)\] in any State that, prior to the expiration of 7 years after the date of enactment of this Act \[Sept. 23, 1994\], enacts a statute that specifically refers to this section and either prohibits or provides for a more limited authority to purchase, hold, or invest in such securities by any person, trust, corporation, partnership, association, business trust, or business entity or class thereof than is provided by the amendments made by this subsection. The enactment by any State of any statute of the type described in the preceding sentence shall not affect the validity of any contractual commitment to purchase, hold, or invest that was made prior thereto, and shall not require the sale or other disposition of any securities acquired prior thereto.”
+Section 347(e) of Pub. L. 103–325 provided that: “Notwithstanding the amendments made by this section \[amending this section and section 24 of Title 12, Banks and Banking\], a note that is directly secured by a first lien on one or more parcels of real estate upon which is located one or more commercial structures shall not be considered to be a mortgage related security under section 3(a)(41) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(41)\] in any State that, prior to the expiration of 7 years after the date of enactment of this Act \[Sept. 23, 1994\], enacts a statute that specifically refers to this section and either prohibits or providesfor a more limited authority to purchase, hold, or invest in such securities by any person, trust, corporation, partnership, association, business trust, or business entity or class thereof than is provided by the amendments made by this subsection. The enactment by any State of any statute of the type described in the preceding sentence shall not affect the validity of any contractual commitment to purchase, hold, or invest that was made prior thereto, and shall not require the sale or other disposition of any securities acquired prior thereto.”
 
 #### Definitions
 
@@ -990,7 +1038,7 @@ Rule of Construction Regarding Master Agreements.—As used in this section, the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77b, 77g, 77r, 77r–1, 77s, 77z–2, 78c–1, 78m, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78w, 78y, 78mm, 78ccc, 78fff–2, 78<i>lll</i>, 80a–2, 80a–3a, 80a–30, 80b–2, 80b–4, 6102, 6603, 6821, 6827 of this title; title 2 section 1602; title 7 sections 1a, 2, 6c, 6d, 7a, 12a, 27; title 10 sections 4357, 6975, 9356; title 11 section 101; title 12 sections 24, 371c–1, 1441b, 1464, 1757, 1787, 1821, 1828, 1831<i>l</i>, 2290, 4421; title 22 sections 282k, 283h, 283ii, 285h, 286k–1, 290i–9, 290<i>l</i>–7, 290m, 290<i>o</i>–7; title 26 sections 543, 7603; title 31 sections 3121, 9110.
+This section is referred to in sections 77b, 77g, 77r, 77r–1, 77s, 77z–2, 78c–1, 78m, 78<i>o</i>–4, 78<i>o</i>–5, 78q, 78w, 78y, 78mm, 78ccc, 78fff–2, 78<i>lll</i>, 80a–2, 80a–3a, 80a–30, 80b–2, 80b–4, 6102, 6603, 6821, 6827 of this title; title 2 section 1602; title 5 section 4802; title 7 sections 1a, 2, 6c, 6d, 7a, 12a, 27; title 10 sections 4357, 6975, 9356; title 11 section 101; title 12 sections 24, 371c–1, 1441b, 1464, 1757, 1787, 1821, 1828, 1831<i>l</i>, 2290; title 22 sections 282k, 283h, 283ii, 285h, 286k–1, 290i–9, 290<i>l</i>–7, 290m, 290<i>o</i>–7; title 26 sections 543, 1234B, 1256, 7603; title 31 sections 3121, 9110.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

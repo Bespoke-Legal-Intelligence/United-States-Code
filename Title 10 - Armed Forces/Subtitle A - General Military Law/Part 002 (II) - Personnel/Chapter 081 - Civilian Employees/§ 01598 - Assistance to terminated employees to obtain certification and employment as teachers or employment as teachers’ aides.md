@@ -38,7 +38,7 @@ Selection of Participants.—(1) Selection of civilian employees to participate 
 
 (2) In selecting participants to receive assistance for placement as elementary or secondary school teachers, the Secretary of Defense shall give priority to civilian employees who—
 
-&emsp;(A) have educational, military, or employment experience in science, mathematics, or engineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
+&emsp;(A) have educational, military, or employment experience in science, mathematics, orengineering and agree to seek employment as science, mathematics, or engineering teachers in elementary or secondary schools; or
 
 &emsp;(B) have educational, military, or employment experience in another subject area identified by the Secretary, in consultation with the Secretary of Education, as important for national educational objectives and agree to seek employment in that subject area in elementary or secondary schools.
 
@@ -76,7 +76,7 @@ Placement of Participants as Teachers and Teachers’ Aides.—Subsections (h) t
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 Section 1151 of this title, referred to in subsecs. (d)(2)(A), (B) and (f), was repealed by Pub. L. 106–65, div. A, title XVII, §1707(a)(1), Oct. 5, 1999, 113 Stat. 823.
 
@@ -96,7 +96,7 @@ Subsec. (d)(2)(A), (B). Pub. L. 104–201 substituted “two school years” for
 
 1993—Subsec. (d)(2)(A), (B). Pub. L. 103–160 substituted “five school years” for “two school years”.
 
-Subsec. (e)(4). Pub. L. 103–35 struck out par. (4) which read as follows: “A person who receives a stipend undersection 4436 of this title shall not be paid a stipend pursuant to paragraph (1).”
+Subsec. (e)(4). Pub. L. 103–35 struck out par. (4) which read as follows: “A person who receives a stipend under section 4436 of this title shall not be paid a stipend pursuant to paragraph (1).”
 
 #### Effective Date of 1993 Amendment
 
@@ -108,5 +108,5 @@ Pub. L. 103–160, div. A, title XIII, §1331(h), Nov. 30, 1993, 107 Stat. 1793,
 
 #### Savings Provision
 
-Pub. L. 104–201, div. A, title V, §576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments made by this section \[amending this section and sections 1151 and 2410j of this title\] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title V, §576(d), Sept. 23, 1996, 110 Stat. 2535, provided that: “The amendments madeby this section \[amending this section and sections 1151 and 2410j of this title\] do not affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of title 10, United States Code, before the date of the enactment of this Act \[Sept. 23, 1996\].”
 

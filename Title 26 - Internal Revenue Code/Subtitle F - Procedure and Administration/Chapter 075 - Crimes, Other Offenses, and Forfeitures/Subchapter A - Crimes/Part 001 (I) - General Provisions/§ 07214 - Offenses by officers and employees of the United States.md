@@ -22,7 +22,7 @@ Any officer or employee of the United States acting in connection with any reven
 
 &emsp;(9) who demands, or accepts, or attempts to collect, directly or indirectly as payment or gift, or otherwise, any sum of money or other thing of value for the compromise, adjustment, or settlement of any charge or complaint for any violation or alleged violation of law, except as expressly authorized by law so to do;
 
-> shall be dismissed from office or discharged from employment and, upon conviction thereof, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both. The court may in its discretion award out of the fine so imposed an amount, not in excess of one-half thereof, for the use of the informer, if any, who shall be ascertained by the judgment of the court. The court also shall render judgment against the said officer or employee for the amount of damages sustained in favor of the party injured, to be collected by execution.
+> shall be dismissed from office or discharged from employment and, upon conviction thereof,shall be fined not more than $10,000, or imprisoned not more than 5 years, or both. The court may in its discretion award out of the fine so imposed an amount, not in excess of one-half thereof, for the use of the informer, if any, who shall be ascertained by the judgment of the court. The court also shall render judgment against the said officer or employee for the amount of damages sustained in favor of the party injured, to be collected by execution.
 
 #### (b) Interest of internal revenue officer or employee in tobacco or liquor production
 

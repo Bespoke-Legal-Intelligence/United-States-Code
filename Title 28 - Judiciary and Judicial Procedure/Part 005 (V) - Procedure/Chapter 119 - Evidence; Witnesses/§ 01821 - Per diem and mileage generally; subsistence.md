@@ -6,7 +6,7 @@
 
 (b) A witness shall be paid an attendance fee of $40 per day for each day's attendance. A witness shall also be paid the attendance fee for the time necessarily occupied in going to and returning from the place of attendance at the beginning and end of such attendance or at any time during such attendance.
 
-(c)(1) A witness who travels by common carrier shall be paid for the actual expenses of travel on the basis of the means of transportation reasonably utilized and the distance necessarily traveled to and from such witness's residence by the shortest practical route in going to and returning from the place of attendance. Such a witness shall utilize a common carrier at the most economical rate reasonably available. A receipt or other evidence of actual cost shall be furnished.
+(c)(1) A witness who travels by common carrier shall be paid for the actual expenses of travel on the basis of the means of transportation reasonably utilized and the distance necessarilytraveled to and from such witness's residence by the shortest practical route in going to and returning from the place of attendance. Such a witness shall utilize a common carrier at the most economical rate reasonably available. A receipt or other evidence of actual cost shall be furnished.
 
 (2) A travel allowance equal to the mileage allowance which the Administrator of General Services has prescribed, pursuant to section 5704 of title 5, for official travel of employees of the Federal Government shall be paid to each witness who travels by privately owned vehicle. Computation of mileage under this paragraph shall be made on the basis of a uniformed table of distances adopted by the Administrator of General Services.
 
@@ -32,7 +32,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §600c, section 1115(a) of title 26, U.S.C., 1940, Internal Revenue Code,and section 11–1514 of the D.C. Code, 1940 ed. (R.S. §§823, 848; Apr. 26, 1926, ch. 183, §3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Feb. 10, 1939, ch. 2, §1115(a), 53 Stat. 160; Dec. 24, 1942, ch. 825, §1, 56 Stat. 1088.
+Based on title 28, U.S.C., 1940 ed., §600c, section 1115(a) of title 26, U.S.C., 1940, Internal Revenue Code, and section 11–1514 of the D.C. Code, 1940 ed. (R.S. §§823, 848; Apr. 26, 1926, ch. 183, §3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Feb. 10, 1939, ch. 2, §1115(a), 53 Stat. 160; Dec. 24, 1942, ch. 825, §1, 56 Stat. 1088.
 
 Section consolidates part of section 600c of title 28, U.S.C., 1940 ed., with section 1115(a) of title 26, U.S.C., 1940 ed., and section 11–1514 of the D.C. Code, 1940 ed.
 
@@ -116,7 +116,7 @@ Pub. L. 102–27, title II, §102, Apr. 10, 1991, 105 Stat. 136.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 604, 2503 of this title; title 12 section 3761; title 38 section 7253.
+This section is referred to in sections 604, 2503 of this title; title 12 section 3761; title 38 section 7253; title 42 section 15202.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

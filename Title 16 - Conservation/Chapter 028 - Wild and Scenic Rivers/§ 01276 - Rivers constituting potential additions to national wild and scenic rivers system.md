@@ -16,7 +16,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (6) Delaware, Pennsylvania and New York: The segment from Hancock, New York, to Matamoras, Pennsylvania.
 
-(7) Flathead, Montana: The North Fork from the Canadian border downstream to its confluence with the Middle Fork; the Middle Fork from its headwaters to its confluence with theSouth Fork; and the South Fork from its origin to Hungry Horse Reservoir.
+(7) Flathead, Montana: The North Fork from the Canadian border downstream to its confluence with the Middle Fork; the Middle Fork from its headwaters to its confluence with the South Fork; and the South Fork from its origin to Hungry Horse Reservoir.
 
 (8) Gasconade, Missouri: The entire river.
 
@@ -184,7 +184,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (90) Horsepasture, North Carolina: The segment from Bohaynee Road (N.C. 281) downstream to Lake Jocassee.
 
-(91) The North Umpqua, Oregon: The segment from the Soda Springs Powerhouse to the confluence of Rock Creek. The provisions of section1278(a) of this title shall apply to tributary Steamboat Creek in the same manner as such provisions apply to the rivers referred to in such section 1278(a) of this title. The Secretary of Agriculture shall, in the Umpqua National Forest plan, provide that management practices for Steamboat Creek and its immediate environment conserve, protect, and enhance the anadromous fish habitat and population.
+(91) The North Umpqua, Oregon: The segment from the Soda Springs Powerhouse to the confluence of Rock Creek. The provisions of section 1278(a) of this title shall apply to tributary Steamboat Creek in the same manner as such provisions apply to the rivers referred to in such section 1278(a) of this title. The Secretary of Agriculture shall, in the Umpqua National Forest plan, provide that management practices for Steamboat Creek and its immediate environment conserve, protect, and enhance the anadromous fish habitat and population.
 
 (92) Farmington, West Branch, Connecticut and Massachusetts: The segment from the intersection of the New Hartford-Canton, Connecticut, town line upstream to the base of the West Branch Reservoir in Hartland, Connecticut; and the segment from the confluence with Thorp Brook in Sandisfield, Massachusetts, to Hayden Pond in Otis, Massachusetts.
 
@@ -268,7 +268,7 @@ Lamprey, New Hampshire.—The segment from the southern Lee town line downstream
 
 (113)
 
-White Clay Creek, Delaware and Pennsylvania.—The headwaters of the river in Pennsylvania to its confluence with the Christina River in Delaware, including the East, West, and Middle Branches, Middle Run, Pike Creek, Mill Creek, and other main branches and tributaries as determined by the Secretary of the Interior (herein after referred to as the White Clay Creek).
+White Clay Creek, Delaware and Pennsylvania.—The headwaters of the river in Pennsylvania to its confluence with the ChristinaRiver in Delaware, including the East, West, and Middle Branches, Middle Run, Pike Creek, Mill Creek, and other main branches and tributaries as determined by the Secretary of the Interior (herein after referred to as the White Clay Creek).
 
 (114)
 
@@ -276,7 +276,7 @@ Brule, Michigan and Wisconsin.—The 33-mile segment from Brule Lake in the nort
 
 (115)
 
-Carp, Michigan.—The 7.6-mile segment from its origin at the confluence of the outlets of Frenchman Lake and Carp Lake in section 26,township 44 north, range 6 west, to the west section line of section 30, township 43 north, range 5 west.
+Carp, Michigan.—The 7.6-mile segment from its origin at the confluence of the outlets of Frenchman Lake and Carp Lake in section 26, township 44 north, range 6 west, to the west section line of section 30, township 43 north, range 5 west.
 
 (116)
 
@@ -410,6 +410,10 @@ Wekiva River, Florida.—(A) The entire river.
 
 Taunton River, Massachusetts.—The segment downstream from the headwaters, from the confluence of the Town River and the Matfield River in Bridgewater to the confluence with the Forge River in Raynham, Massachusetts.
 
+(138)
+
+Eightmile River, Connecticut.—The segment from its headwaters downstream to its confluence with the Connecticut River.
+
 #### (b) Studies and reports
 
 (1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: <i>Provided</i>, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river <sup>2</sup> named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
@@ -434,7 +438,7 @@ Taunton River, Massachusetts.—The segment downstream from the headwaters, from
 
 (11) The study of the Lamprey River, New Hampshire, shall be completed by the Secretary of the Interior and the report thereon submitted not later than 3 years after December 11, 1991.
 
-(12)(A) The study of the White Clay Creek in Delaware and Pennsylvania shall be completedand the report submitted not later than 3 years after December 11, 1991.
+(12)(A) The study of the White Clay Creek in Delaware and Pennsylvania shall be completed and the report submitted not later than 3 years after December 11, 1991.
 
 (B) In carrying out the study, the Secretary of the Interior shall prepare a map of the White Clay Creek watershed in Delaware and Pennsylvania, and shall develop a recommended management plan for the White Clay Creek. The plan shall provide recommendations as to the protection and management of the White Clay Creek, including the role the State and local governments, and affected landowners, should play in the management of the White Clay Creek if it is designated as a component of the National Wild and Scenic Rivers System.
 
@@ -464,6 +468,8 @@ Taunton River, Massachusetts.—Not later than 3 years after October 19, 2000, t
 
 &emsp;(B) shall submit to Congress a report describing the results of the study.
 
+(18) The study of the Eightmile River, Connecticut, named in paragraph (138) of subsection (a) of this section shall be completed by the Secretary of the Interior and the report thereon submitted to Congress not later than 3 years after November 6, 2001.
+
 #### (c) State participation
 
 The study of any of said rivers shall be pursued in as close cooperation with appropriate agencies of the affected State and its political subdivisions as possible, shall be carried on jointly with such agencies if request for such joint study is made by the State and shall include a determination of the degree to which the State or its political subdivisions might participate in the preservation and administration of the river should it be proposed for inclusion in the national wild and scenic rivers system.
@@ -474,7 +480,7 @@ The study of any of said rivers shall be pursued in as close cooperation with ap
 
 (2) The Congress finds that the Secretary of the Interior, in preparing the Nationwide Rivers Inventory as a specific study for possible additions to the National Wild and Scenic Rivers System, identified the Upper Klamath River from below the John Boyle Dam to the Oregon-California State line. The Secretary, acting through the Bureau of Land Management, is authorized under this subsection to complete a study of the eligibility and suitability of such segment for potential addition to the National Wild and Scenic Rivers System. Such study shall be completed, and a report containing the results of the study shall be submitted to Congress by April 1, 1990. Nothing in this paragraph shall affect the authority or responsibilities of any other Federal agency with respect to activities or actions on this segment and its immediate environment.
 
-(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404,Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278.)
+(Pub. L. 90–542, §5, Oct. 2, 1968, 82 Stat. 910; Pub. L. 93–279, §1(b)(2), May 10, 1974, 88 Stat. 123; Pub. L. 93–621, §1(a), (b), Jan. 3, 1975, 88 Stat. 2094, 2095; Pub. L. 94–199, §5(a), Dec. 31, 1975, 89 Stat. 1118; Pub. L. 94–486, title IV, §401, title VII, §701, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–625, title VII, §§721–736, title XI, §1108, Nov. 10, 1978, 92 Stat. 3530–3532, 3547; Pub. L. 96–87, title IV, §404, Oct. 12, 1979, 93 Stat. 667; Pub. L. 96–199, title I, §102, Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–487, title VI, §604, Dec. 2, 1980, 94 Stat. 2415; Pub. L. 98–323, title II, §201, June 19, 1984, 98 Stat. 261; Pub. L. 98–484, §5, Oct. 17, 1984, 98 Stat. 2259; Pub. L. 98–494, §2, Oct. 19, 1984, 98 Stat. 2274; Pub. L. 99–590, title II, §202(b), (c), title III, §301, title V, §503, Oct. 30, 1986, 100 Stat. 3332–3335; Pub. L. 99–663, §13(d), Nov. 17, 1986, 100 Stat. 4294; Pub. L. 100–33, §1, May 7, 1987, 101 Stat. 299; Pub. L. 100–149, §2, Nov. 2, 1987, 101 Stat. 879; Pub. L. 100–557, title I, §§103, 104, Oct. 28, 1988, 102 Stat. 2790; Pub. L. 101–40, §2(b), June 20, 1989, 103 Stat. 82; Pub. L. 101–356, §§2, 3, Aug. 10, 1990, 104 Stat. 417; Pub. L. 101–357, §§2, 3, Aug. 10, 1990, 104 Stat. 418; Pub. L. 101–364, §1, Aug. 15, 1990, 104 Stat. 428; Pub. L. 101–538, §1, Nov. 8, 1990, 104 Stat. 2376; Pub. L. 101–628, title VII, §703, Nov. 28, 1990, 104 Stat. 4497; Pub. L. 102–50, §3(a), May 24, 1991, 105 Stat. 254; Pub. L. 102–214, §§2, 3, Dec. 11, 1991, 105 Stat. 1663; Pub. L. 102–215, §§3, 4, Dec. 11, 1991, 105 Stat. 1664; Pub. L. 102–249, §4, Mar. 3, 1992, 106 Stat. 48; Pub. L. 102–271, §5(a), Apr. 20, 1992, 106 Stat. 110; Pub. L. 102–301, §7(a), June 19, 1992, 106 Stat. 245; Pub. L. 102–432, §2, Oct. 23, 1992, 106 Stat. 2213; Pub. L. 102–460, §1(a), (b), Oct. 23, 1992, 106 Stat. 2270; Pub. L. 102–525, title IV, §401, Oct. 26, 1992, 106 Stat. 3441; Pub. L. 103–242, §3, May 4, 1994, 108 Stat. 611; Pub. L. 104–311, Oct. 19, 1996, 110 Stat. 3818; Pub. L. 104–333, div. I, title IV, §407(b), Nov. 12, 1996, 110 Stat. 4152; Pub. L. 106–318, §§3, 4, Oct. 19, 2000, 114 Stat. 1278; Pub. L. 107–65, §§3, 4, Nov. 6, 2001, 115 Stat. 484.)
 
 #### References in Text
 
@@ -485,6 +491,10 @@ Section 5 of the Michigan Scenic Rivers Act of 1990, referred to in subsec. (b)(
 Section 3183 of this title, referred to in subsec. (b)(6), was in the original “section 1204 of the Alaska National Interest Lands Conservation Act” and has been editorially translated as section 3183 of this title, which is section 1203 of that Act, as the probable intent of Congress, in view of that Act being enacted without a section 1204 and section 1203 of that Act relating to the Bristol Bay Cooperative Region Plan.
 
 #### Amendments
+
+2001—Subsec. (a)(138). Pub. L. 107–65, §3, added par. (138).
+
+Subsec. (b)(18). Pub. L. 107–65, §4, added par. (18).
 
 2000—Subsec. (a)(136). Pub. L. 106–318, §3(1), designated unnumbered par. relating to Wekiva River, Florida, as par. (136).
 
@@ -562,7 +572,7 @@ Subsec. (b)(9). Pub. L. 101–357, §3, added par. (9).
 
 Subsec. (a)(100) to (105). Pub. L. 101–40, §2(b)(2), designated unnumbered paragraphs relating to rivers in Oregon as pars. (100) to (105).
 
-1988—Subsec. (a). Pub. L. 100–557, §103, added unnumbered pars. relating to the following rivers in Oregon:Blue, Chewaucan, North Fork Malheur, South Fork McKenzie, Steamboat Creek, and Wallowa.
+1988—Subsec. (a). Pub. L. 100–557, §103, added unnumbered pars. relating to the following rivers in Oregon: Blue, Chewaucan, North Fork Malheur, South Fork McKenzie, Steamboat Creek, and Wallowa.
 
 Subsec. (d). Pub. L. 100–557, §104, designated existing provisions as par. (1) and added par. (2).
 

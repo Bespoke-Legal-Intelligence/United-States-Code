@@ -2,7 +2,7 @@
 
 #### (a) Construction grants
 
-(1) For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are authorized to be appropriated $2,000,000for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
+(1) For the purpose of making construction grants under sections 640a to 640c–3 of this title, there are authorized to be appropriated $2,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 (2) Sums appropriated pursuant to this subsection for construction shall, unless otherwise provided in appropriations Acts, remain available until expended.
 
@@ -28,7 +28,7 @@
 
 #### (c) Funding requirements
 
-The Secretary of the Interior is authorized and directed to establish by rule procedures to insure that all funds appropriated under sections 640a to 640c–3 of this title are properly identified for grants to the Navajo Community College and that such funds are not commingled with appropriations historically expended by the Bureau of Indian Affairs for programs and projects normally provided on the Navajo Reservation for Navajo beneficiaries.
+The Secretary of the Interior is authorized and directed to establish by rule procedures to insure that all funds appropriated under sections 640a to 640c–3 of this title are properly identified for grants to the Navajo Community College andthat such funds are not commingled with appropriations historically expended by the Bureau of Indian Affairs for programs and projects normally provided on the Navajo Reservation for Navajo beneficiaries.
 
 (Pub. L. 92–189, §5, as added Pub. L. 95–471, title II, §203(a), Oct. 17, 1978, 92 Stat. 1330; amended Pub. L. 96–374, title XIII, §1351(a), (b), Oct. 3, 1980, 94 Stat. 1501; Pub. L. 98–192, §14, Dec. 1, 1983, 97 Stat. 1343; Pub. L. 99–428, §7, Sept. 30, 1986, 100 Stat. 983; Pub. L. 100–297, title V, §5401, Apr. 28, 1988, 102 Stat. 414; Pub. L. 101–477, §2(a), Oct. 30, 1990, 104 Stat. 1153; Pub. L. 102–325, title XIII, §1301(d), July 23, 1992, 106 Stat. 797; Pub. L. 105–244, title IX, §902, Oct. 7, 1998, 112 Stat. 1829.)
 
@@ -84,5 +84,5 @@ The definitions in section 1801 of this title apply to this section.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13d–2, 640a, 640c–2, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 3489.
+This section is referred to in sections 13d–2, 640a, 640c–2, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 2327, 3489.
 

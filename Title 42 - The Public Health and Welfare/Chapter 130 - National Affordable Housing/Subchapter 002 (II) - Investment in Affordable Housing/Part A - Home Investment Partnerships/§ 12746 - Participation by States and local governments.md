@@ -22,7 +22,7 @@ The Secretary shall designate a State or unit of general local government to be 
 
 &emsp;&emsp;(ii) the State has authorized the Secretary to transfer to the jurisdiction a portion of the State's allocation that is equal to or greater than the difference between the jurisdiction's formula allocation and $750,000, or the State or jurisdiction has made available from the State's or jurisdiction's own sources an equal amount for use by the jurisdiction in conformance with the provisions of this part.
 
-&emsp;(B) If a jurisdiction has met the requirements of subparagraph (A), the jurisdiction's formula allocation for a fiscal year shall subsequently be deemed to equal the sum of the jurisdiction's allocation under section12747(a)(1) of this title and the amount made available to the jurisdiction under subparagraph (A)(ii).
+&emsp;(B) If a jurisdiction has met the requirements of subparagraph (A), the jurisdiction's formula allocation for a fiscal year shall subsequently be deemed to equal the sum of the jurisdiction's allocation under section 12747(a)(1) of this title and the amount made available to the jurisdiction under subparagraph (A)(ii).
 
 #### (4) Notification
 

@@ -8,7 +8,7 @@
 
 #### (2) Multiagency, multi-activity conduct of each program
 
-&emsp;Except as otherwise provided in this subchapter, each pilot program conducted under this subchapter shall be carried out in not more than two procuring activities in each of the executive agencies that are designated by the Administrator in accordance with this subchapter to carry out the pilot program. The head of each designated executive agencyshall, with the approval of the Administrator, select the procuring activities of the executive agency that are to participate in the test and shall designate a procurement testing official who shall be responsible for the conduct and evaluation of the pilot program within the executive agency.
+&emsp;Except as otherwise provided in this subchapter, each pilot program conducted under this subchapter shall be carried out in not more than two procuring activities in each of the executive agencies that are designated by the Administrator in accordance with this subchapter to carry out the pilot program. The head of each designated executive agency shall, with the approval of the Administrator, select the procuring activities of the executive agency that are to participate in the test and shall designate a procurement testing official who shall be responsible for the conduct and evaluation of the pilot program within the executive agency.
 
 #### (b) Limitations
 

@@ -14,5 +14,5 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 #### Effective Date
 
-Section 416 of title IV of Pub. L. 93–495 provided that: “This title \[enacting this section and sections 1614 and 1645 of this title, amending sections 1603, 1607, 1635, 1637, 1640, and 1644 of this title, and enacting provision set out as a note under section 1640 of this title\] takes effect upon the date of its enactment \[Oct. 28, 1974\], except that sections 409 \[amending section 1631 of this title\] and 411 \[amending section 1637 of this title\] take effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\].”
+Section 416 of title IV of Pub. L. 93–495 provided that: “This title \[enacting this section and sections 1614 and1645 of this title, amending sections 1603, 1607, 1635, 1637, 1640, and 1644 of this title, and enacting provision set out as a note under section 1640 of this title\] takes effect upon the date of its enactment \[Oct. 28, 1974\], except that sections 409 \[amending section 1631 of this title\] and 411 \[amending section 1637 of this title\] take effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\].”
 

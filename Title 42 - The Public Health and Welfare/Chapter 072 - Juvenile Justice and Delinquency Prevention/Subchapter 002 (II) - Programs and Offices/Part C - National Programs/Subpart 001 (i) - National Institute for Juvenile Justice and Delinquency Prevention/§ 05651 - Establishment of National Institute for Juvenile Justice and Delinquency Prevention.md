@@ -56,7 +56,7 @@ In addition to the other powers, express and implied, the Institute may—
 
 Any Federal agency which receives a request from the Institute under subsection (e)(1) of this section may cooperate with the Institute and shall, to the maximum extent practicable, consult with and furnish information and advice to the Institute.
 
-(Pub. L. 93–415, title II, §241, Sept. 7, 1974, 88 Stat. 1125; Pub. L. 95–115, §§3(a)(3)(A), (5), 5(a), (f), Oct. 3, 1977, 91 Stat. 1048, 1049, 1056, 1057; Pub. L. 96–509, §19(j), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, §631, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, §7259, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, §2(g)(1), Nov. 4, 1992, 106 Stat. 4994.)
+(Pub. L. 93–415, title II, §241, Sept. 7, 1974, 88 Stat. 1125; Pub. L. 95–115, §§3(a)(3)(A), (5), 5(a),\(f), Oct. 3, 1977, 91 Stat. 1048, 1049, 1056, 1057; Pub. L. 96–509, §19(j), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, §631, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, §7259, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, §2(g)(1), Nov. 4, 1992, 106 Stat. 4994.)
 
 #### Amendments
 

@@ -48,7 +48,7 @@
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations, see section 1012(h) of Pub. L. 102–237, set out as a note under section 1034 of this title.
+Amendment by Pub. L. 102–237 effective 12 months after promulgation of final implementing regulations,see section 1012(h) of Pub. L. 102–237, set out as a note under section 1034 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -130,7 +130,7 @@ The National Center for Education Statistics shall collect postsecondary educati
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Part C of title I of the Act is classified generally to part C (§6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part C of title I of the Act is classified generally to part C (§6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -164,7 +164,7 @@ Subsec. (c)(1)(A). Pub. L. 103–382, §391(e)(2), substituted “part C” for 
 
 Subsec. (b)(4). Pub. L. 102–325, §405(a)(1)(B), inserted comma after “concerning” and after “obtaining”.
 
-Subsec. (c). Pub. L. 102–325, §405(a)(2), (b), designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and amended it generally, redesignated par. (2) and its subpars. (A) to (E) as subpar. (B) and cls. (i) to (v), respectively, redesignated par. (3) and its subpars. (A) to (H) as subpar. (C) and cls. (i) to (viii), respectively, redesignated pars. (4) to (6) as subpars. (D) to (F), respectively, and added par. (2). Prior to amendment, par. (1) read as follows: “outreach and recruitment services to reach persons who themselves or whose parents have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork, and who meet the minimum qualifications for attendance at a college or university;”.
+Subsec. (c). Pub. L. 102–325, §405(a)(2), (b), designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and amended it generally, redesignated par. (2) and its subpars. (A) to (E) as subpar. (B) and cls. (i) to (v), respectively, redesignated par. (3) and its subpars. (A) to (H) as subpar. (C) and cls. (i) to (viii), respectively, redesignated pars. (4) to (6) as subpars. (D) to (F), respectively, and added par. (2). Prior to amendment, par. (1) read as follows: “outreach and recruitment services to reach persons who themselves or whose parents have spent a minimum of 75 days during the past 24 months in migrant and seasonal farmwork,and who meet the minimum qualifications for attendance at a college or university;”.
 
 Subsec. (e). Pub. L. 102–325, §405(c), substituted “Five-year” for “Three-year” in heading and “5-year” for “3-year” in text.
 

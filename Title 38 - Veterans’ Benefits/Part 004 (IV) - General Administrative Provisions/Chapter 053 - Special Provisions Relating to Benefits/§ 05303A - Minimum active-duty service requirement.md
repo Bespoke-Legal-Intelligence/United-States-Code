@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(i) a discharge or release from active duty for the convenience of the Government, as described in sections 3011(a)(1)(A)(ii)(II) and 3012(b)(1)(A)(iv) of this title;
 
-&emsp;&emsp;(ii) a discharge or release from active duty for a medical condition which preexisted service on active duty and which the Secretary determines is not service connected, as described in clauses (A)(ii)(I) and (B)(ii)(I) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(ii) of this title;
+&emsp;&emsp;(ii) a discharge or release from active duty for a medical condition which preexistedservice on active duty and which the Secretary determines is not service connected, as described in clauses (A)(ii)(I) and (B)(ii)(I) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(ii) of this title;
 
 &emsp;&emsp;(iii) an involuntary discharge or release from active duty for the convenience of the Government as a result of a reduction in force, as described in clauses (A)(ii)(III) and (B)(ii)(III) of section 3011(a)(1) of this title and in section 3012(b)(1)(A)(v) of this title; or
 

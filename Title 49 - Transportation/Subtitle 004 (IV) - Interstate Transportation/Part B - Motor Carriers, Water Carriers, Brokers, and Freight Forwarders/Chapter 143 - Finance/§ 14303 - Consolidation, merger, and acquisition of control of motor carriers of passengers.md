@@ -60,7 +60,7 @@ Supplemental Orders.—When cause exists, the Board may issue appropriate orders
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 897.)
 
-#### Reference in Text
+#### References in Text
 
 The antitrust laws, referred to in subsec. (f), are classified generally to section 1 et seq. of Title 15, Commerce and Trade.
 

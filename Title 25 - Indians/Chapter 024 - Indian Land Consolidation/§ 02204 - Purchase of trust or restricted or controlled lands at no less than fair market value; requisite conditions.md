@@ -20,7 +20,7 @@ Subsection (a) of this section applies on the condition that—
 
 2001—Pub. L. 106–462, §103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) of this section applies on the condition that—” for “: <i>Provided</i>, That—”, was executed by making the substitution for “<i>Provided</i>, That—” to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, §103(2)(A)(ii). See below.
 
-Pub. L. 106–462, §103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and “Subject to subsection\(b) of this section, any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “<i>Provided</i>, That—”.
+Pub. L. 106–462, §103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b) of this section, any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “<i>Provided</i>, That—”.
 
 Subsec. (b)(2). Pub. L. 106–462, §103(2)(B)(ii), inserted “and” at end.
 

@@ -106,7 +106,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 The Secretary shall maintain a written public record of—
 
-&emsp;(1) the reasons for determinations of the Secretary under this section that property issuitable or unsuitable for use to assist the homeless; and
+&emsp;(1) the reasons for determinations of the Secretary under this section that property is suitable or unsuitable for use to assist the homeless; and
 
 &emsp;(2) the responses of landholding agencies under subsection (b)(1) of this section.
 
@@ -182,7 +182,7 @@ Pub. L. 102–550, title XIV, §1411, Oct. 28, 1992, 106 Stat. 4039, provided th
 
 “(a)
 
-Use of Available Space at National Guard Facilities.—The Secretary of Housing and Urban Development shall consult with the chief executive officers of the States and the Secretary of Defense to determine the availability of space at National Guard facilities for use by homeless organizations in providing overnight shelter for homeless persons and families. The Secretary of Housing and Urban Development shall determine the availability of only such space that can be used for shelter purposes during periods it is not actively being used for National Guard purposes. The Secretary of Housing and Urban Development shall also determine the availability of incidental services at such facilities, including utilities, bedding, security, transportation, renovation of facilities, minor repairs undertaken specifically to make available space in a facility suitable for use as an overnight shelter for homeless individuals, and property liability insurance.
+Use of Available Space at National Guard Facilities.—The Secretary of Housing and Urban Development shall consult with the chief executive officers of the States and the Secretary of Defense to determine the availability of space at National Guard facilities for use by homeless organizations in providing overnight shelter for homeless persons and families. The Secretary of Housing and Urban Development shall determine the availability of only such space that can be used for shelter purposes during periods it is not actively being used for National Guard purposes. The Secretary of Housing and Urban Development shall also determine the availability of incidental services at such facilities, including utilities, bedding, security, transportation, renovation of facilities, minor repairsundertaken specifically to make available space in a facility suitable for use as an overnight shelter for homeless individuals, and property liability insurance.
 
 “(b)
 

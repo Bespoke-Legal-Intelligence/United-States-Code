@@ -34,7 +34,7 @@ Fiscal years 1999 through 2003.—
 
 &emsp;&emsp;(A)
 
-From the trust fund.—There shall be available from the Mass Transit Account ofthe Highway Trust Fund to carry out sections 5307, 5308, 5310, and 5311—
+From the trust fund.—There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5307, 5308, 5310, and 5311—
 
 &emsp;&emsp;&emsp;(i) $2,280,000,000 for fiscal year 1999;
 
@@ -130,7 +130,7 @@ Fiscal years 1999 through 2003.—
 
 &emsp;&emsp;(A)
 
-From the trust fund.—There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5303, 5304, 5305, and 5313(b)—
+From the trust fund.—There shall be available from the Mass Transit Account ofthe Highway Trust Fund to carry out sections 5303, 5304, 5305, and 5313(b)—
 
 &emsp;&emsp;&emsp;(i) $42,200,000 for fiscal year 1999;
 
@@ -580,7 +580,7 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 #### Adjustments for Surface Transportation Extension Act of 1997
 
-Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocations made to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and 5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in section 5337(a) of this title.
+Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocationsmade to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and 5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in section 5337(a) of this title.
 
 #### Training and Curriculum Development
 
@@ -596,9 +596,11 @@ Special rule.—If the institutions identified in paragraph (1) are selected pur
 
 #### Programs of Federal Transit Administration; Limitation on Obligations
 
-Pub. L. 106–346, §101(a) \[title III, §311\], Oct. 23, 2000, 114 Stat. 1356, 1356A–27, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation.”
+Pub. L. 107–87, title III, §309, Dec. 18, 2001, 115 Stat. 855, provided that: “The limitations on obligations for the programs of the Federal Transit Administration shall not apply to any authority under 49 U.S.C. 5338, previously made available for obligation, or to any other authority previously made available for obligation.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–346, §101(a) \[title III, §311\], Oct. 23, 2000, 114 Stat. 1356, 1356A–27.
 
 Pub. L. 106–69, title III, §311, Oct. 9, 1999, 113 Stat. 1018.
 

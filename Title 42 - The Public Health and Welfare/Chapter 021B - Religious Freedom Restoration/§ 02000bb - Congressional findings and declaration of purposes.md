@@ -30,5 +30,5 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Short Title
 
-Section 1 of Pub. L. 103–141 provided that: “This Act \[enacting this chapter and amending section 1988 ofthis title and section 504 of Title 5, Government Organization and Employees\] may be cited as the ‘Religious Freedom Restoration Act of 1993’.”
+Section 1 of Pub. L. 103–141 provided that: “This Act \[enacting this chapter and amending section 1988 of this title and section 504 of Title 5, Government Organization and Employees\] may be cited as the ‘Religious Freedom Restoration Act of 1993’.”
 

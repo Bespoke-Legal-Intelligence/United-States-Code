@@ -64,6 +64,20 @@ Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–
 
 \[For amendment of provisions of section 36 of Pub. L. 93–189, set out above, see Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(h)(2), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–120, set out in an Abolition of the Inter-American Foundation note under section 290f of this title.\]
 
+#### Delegation of Responsibilities Related to the Latin American Development Act of 1960
+
+Memorandum of President of the United States, May 30, 2001, 66 F.R. 30629, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions conferred upon the President by the Latin American Development Act of 1960, 22 U.S.C. 1942 <i>et seq</i>.
+
+The functions delegated by this memorandum may be redelegated as appropriate.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1943, 1945 of this title.

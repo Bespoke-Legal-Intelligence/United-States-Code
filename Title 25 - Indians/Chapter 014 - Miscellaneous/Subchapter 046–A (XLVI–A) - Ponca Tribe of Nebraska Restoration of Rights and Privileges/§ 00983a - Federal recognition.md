@@ -6,7 +6,7 @@ Federal recognition is hereby extended to the Ponca Tribe of Nebraska. All Feder
 
 #### References in Text
 
-Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classifiedgenerally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

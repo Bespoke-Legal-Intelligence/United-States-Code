@@ -10,7 +10,7 @@ In assessing damages under subsection (a) of this section, the court shall, unle
 
 #### (c) Statutory damages for use of counterfeit marks
 
-In a case involving the use of a counterfeit mark (as defined in section 1116(d) of this title) in connection with the sale, offering for sale, or distribution of goods or services, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits under subsection (a) of this section, an award of statutory damages for any such use in connection with the sale, offering for sale, or distribution of goods or services in the amount of—
+In a case involving the use of a counterfeit mark (as defined in section 1116(d) of this title) in connection with the sale, offering for sale, or distribution of goods or services, the plaintiff may elect, at any time before final judgment is rendered by the trial court, to recover, instead of actual damages and profits under subsection (a) of this section, an award of statutory damages for any such use in connection with thesale, offering for sale, or distribution of goods or services in the amount of—
 
 &emsp;(1) not less than $500 or more than $100,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just; or
 

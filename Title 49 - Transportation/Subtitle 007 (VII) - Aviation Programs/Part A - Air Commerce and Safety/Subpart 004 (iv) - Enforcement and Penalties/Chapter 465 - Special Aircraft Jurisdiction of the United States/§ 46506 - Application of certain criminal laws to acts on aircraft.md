@@ -34,5 +34,5 @@ Section 9 of the Act of July 29, 1892, referred to in par. (2), is section 9 of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 46302, 46507 of this title; title 18 sections 2333, 3286.
+This section is referred to in sections 46302, 46507 of this title; title 18 sections 2332b, 2333, 3286.
 

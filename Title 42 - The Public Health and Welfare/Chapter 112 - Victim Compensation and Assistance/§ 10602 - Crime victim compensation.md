@@ -2,9 +2,9 @@
 
 #### (a) Authority of Director; grants
 
-(1) Except as provided in paragraph (2), the Director shall make an annual grant from the Fund to an eligible crime victim compensation program of 40 percent of the amounts awarded during the preceding fiscal year, other than amounts awarded for property damage. Except as provided in paragraph (3), a grant under this section shall be used by such program only for awards of compensation.
+(1) Except as provided in paragraph (2), the Director shall make an annual grant from the Fund to an eligible crime victim compensation program of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years of the amounts awarded during the preceding fiscal year, other than amounts awarded for property damage. Except as provided in paragraph (3), a grant under this section shall be used by such program only for awards of compensation.
 
-(2) If the sums available in the Fund for grants under this section are insufficient to provide grants of 40 percent as provided in paragraph (1), the Director shall make, from the sums available, a grant to each eligible crime victim compensation program so that all such programs receive the same percentage of the amounts awarded by such program during the preceding fiscal year, other than amounts awarded for property damage.
+(2) If the sums available in the Fund for grants under this section are insufficient to provide grants of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years as provided in paragraph (1), the Director shall make, from the sums available, a grant to each eligible crime victim compensation program so that all such programs receive the same percentage of the amounts awarded by such program during the preceding fiscal year, other than amounts awarded for property damage.
 
 (3) Not more than 5 percent of a grant made under this section may be used for the administration of the State crime victim compensation program receiving the grant.
 
@@ -32,17 +32,17 @@ A crime victim compensation program is an eligible crime victim compensation pro
 
 &emsp;&emsp;(A) the crimes would be compensable crimes had they occurred inside that State; and
 
-&emsp;&emsp;(B) the places the crimes occurred in are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or are States not having eligible crime victim compensation programs;
+&emsp;&emsp;(B) the places the crimes occurred in are States not having eligible crime victim compensation programs;
 
 &emsp;(7) such program does not, except pursuant to rules issued by the program to prevent unjust enrichment of the offender, deny compensation to any victim because of that victim's familial relationship to the offender, or because of the sharing of a residence by the victim and the offender;
 
-&emsp;(8) such program does not provide compensation to any person who has been convicted of an offense under Federal law with respect toany time period during which the person is delinquent in paying a fine, other monetary penalty, or restitution imposed for the offense; and
+&emsp;(8) such program does not provide compensation to any person who has been convicted of an offense under Federal law with respect to any time period during which the person is delinquent in paying a fine, other monetary penalty, or restitution imposed for the offense; and
 
 &emsp;(9) such program provides such other information and assurances related to the purposes of this section as the Director may reasonably require.
 
-#### (c) Exclusion from income for purposes of means tests
+#### (c) Exclusion from income, resources, and assets for purposes of means tests
 
-Notwithstanding any other law, for the purpose of any maximum allowed income eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance) that becomes necessary to an applicant for such assistance in full or in part because of the commission of a crime against the applicant, as determined by the Director, any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income of the applicant until the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.
+Notwithstanding any other law (other than title IV of Public Law 107–42), for the purpose of any maximum allowed income, resource, or asset eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance), any amount of crime victim compensation that the applicant receivesthrough a crime victim compensation program under this section shall not be included in the income, resources, or assets of the applicant, nor shall that amount reduce the amount of the assistance available to the applicant from Federal, State, or local government programs using Federal funds, unless the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.
 
 #### (d) Definitions
 
@@ -52,21 +52,37 @@ As used in this section—
 
 &emsp;(2) the term “medical expenses” includes, to the extent provided under the eligible crime victim compensation program, expenses for eyeglasses or other corrective lenses, for dental services and devices and prosthetic devices, and for services rendered in accordance with a method of healing recognized by the law of the State;
 
-&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18, crimes involving terrorism, driving while intoxicated, and domestic violence; and
+&emsp;(3) the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18, driving while intoxicated, and domestic violence; and
 
-&emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any other possession or territory of the United States.
+&emsp;(4) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other possession or territory of the United States.
 
 #### (e) Relationship to certain Federal programs
 
-Notwithstanding any other law, if the compensation paid by an eligible crime victim compensation program would cover costs that a Federal program, or a federally financed State or local program, would otherwise pay,— <sup>1</sup>
+Notwithstanding any other law, if the compensation paid by an eligible crime victim compensation program would cover costs that a Federal program, including the program established under title IV of Public Law 107–42, or a federally financed State or local program, would otherwise pay,— <sup>1</sup>
 
 &emsp;(1) such crime victim compensation program shall not pay that compensation; and
 
 &emsp;(2) the other program shall make its payments without regard to the existence of the crime victim compensation program.
 
-(Pub. L. 98–473, title II, §1403, Oct. 12, 1984, 98 Stat. 2171; Pub. L. 100–690, title VII, §§7123(b)(1)–(3), 7125, 7126, Nov. 18, 1988, 102 Stat. 4421–4423; Pub. L. 103–322, title XXIII, §§230202, 230203, title XXXIII, §330025(b), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§233(a), (b), 234(a)(1), (b), Apr. 24, 1996, 110 Stat. 1244, 1245; Pub. L. 104–155, §5, July 3, 1996, 110 Stat. 1394.)
+(Pub. L. 98–473, title II, §1403, Oct. 12, 1984, 98 Stat. 2171; Pub. L. 100–690, title VII, §§7123(b)(1)–(3), 7125, 7126, Nov. 18, 1988, 102 Stat. 4421–4423; Pub. L. 103–322, title XXIII, §§230202, 230203, title XXXIII, §330025(b), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§233(a), (b), 234(a)(1), (b), Apr. 24, 1996, 110 Stat. 1244, 1245; Pub. L. 104–155, §5, July 3, 1996, 110 Stat. 1394; Pub. L. 107–56, title VI, §622(a)–(e)(1), Oct. 26, 2001, 115 Stat. 371, 372.)
+
+#### References in Text
+
+Title IV of Public Law 107–42, referred to in subsecs. (c) and (e), is set out as a note under section 40101 of Title 49, Transportation.
 
 #### Amendments
+
+2001—Subsec. (a)(1), (2). Pub. L. 107–56, §622(a), inserted “in fiscal year 2002 and of 60 percent in subsequent fiscal years” after “40 percent”.
+
+Subsec. (b)(6)(B). Pub. L. 107–56, §622(b), which directed striking out “are outside the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or”, was executed by striking out “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” after “the places the crimes occurred in” to reflect the probable intent of Congress.
+
+Subsec. (c). Pub. L. 107–56, §622(c), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Notwithstanding any other law, for the purpose of any maximum allowed income eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance) that becomes necessary to an applicant for such assistance in full or in part because of the commission of a crime against the applicant, as determined by the Director, any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income of the applicant until the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.”
+
+Subsec. (d)(3). Pub. L. 107–56, §622(d)(1), struck out “crimes involving terrorism,” after “section 247 of title 18,”.
+
+Subsec. (d)(4). Pub. L. 107–56, §622(d)(2), inserted “the United States Virgin Islands,” after “the Commonwealth of Puerto Rico,”.
+
+Subsec. (e). Pub. L. 107–56, §622(e)(1), inserted “including the program established under title IV of Public Law 107–42,” after “Federal program,” in introductory provisions.
 
 1996—Subsec. (b)(6)(B). Pub. L. 104–132, §233(b), inserted “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” before “are States not having”.
 

@@ -13,7 +13,7 @@
 | [2667a.](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md) | Leases: non-excess property of Defense agencies. |
 | [2668\.](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md) | Easements for rights-of-way. |
 | [2669\.](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md) | Easements for rights-of-way: gas, water, sewer pipe lines. |
-| [2670\.](%C2%A7%2002670%20-%20Licenses%20military%20installations%3B%20erection%20and%20use%20of%20buildings%3B%20American%20National%20Red%20Cross.md) | Licenses: military installations; erection and use of buildings; American National Red Cross. |
+| [2670\.](%C2%A7%2002670%20-%20Military%20installations%20use%20by%20American%20National%20Red%20Cross%3B%20use%20as%20polling%20places.md) | Military installations: use by American National Red Cross; use as polling places. |
 | [2671\.](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md) | Military reservations and facilities: hunting, fishing, and trapping. |
 | [2672\.](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24500%2C000.md) | Acquisition: interests in land when cost is not more than $500,000. |
 | [2672a.](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md) | Acquisition: interests in land when need is urgent. |
@@ -37,7 +37,7 @@
 | [2690\.](%C2%A7%2002690%20-%20Fuel%20sources%20for%20heating%20systems%3B%20prohibition%20on%20converting%20certain%20heating%20facilities.md) | Fuel sources for heating systems; prohibition on converting certain heating facilities. |
 | [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease.md) | Restoration of land used by permit or lease. |
 | [2692\.](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage, treatment, and disposal of nondefense toxic and hazardous materials. |
-| [2693\.](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property.md) | Conveyance of certain property. |
+| [2693\.](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property%20Department%20of%20Justice%20correctional%20options%20program.md) | Conveyance of certain property: Department of Justice correctional options program. |
 | [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
 | [2695\.](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md) | Acceptance of funds to cover administrative expenses relating to certain real property transactions. |
 | [2696\.](%C2%A7%2002696%20-%20Screening%20of%20real%20property%20for%20further%20Federal%20use%20before%20conveyance.md) | Screening of real property for further Federal use before conveyance. |
@@ -51,6 +51,8 @@
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title X, §1048(a)(26)(B)(ii), title XVI, §1607(b)(3), Dec. 28, 2001, 115 Stat. 1225, 1280, substituted “Military installations: use by American National Red Cross; use as polling places” for “Licenses: military installations; erection and use of buildings; American National Red Cross” in item 2670 and “Conveyance of certain property: Department of Justice correctional options program” for “Conveyance of certain property” in item 2693.
 
 1998—Pub. L. 105–261, div. B, title XXVIII, §2812(b)(2), Oct. 17, 1998, 112 Stat. 2206, struck out “from other agencies” after “lease” in item 2691.
 
@@ -138,7 +140,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02667a - Leases non-excess property of Defense agencies](%C2%A7%2002667a%20-%20Leases%20non-excess%20property%20of%20Defense%20agencies.md)
 - [&sect; 02668 - Easements for rights-of-way](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md)
 - [&sect; 02669 - Easements for rights-of-way gas, water, sewer pipe lines](%C2%A7%2002669%20-%20Easements%20for%20rights-of-way%20gas%2C%20water%2C%20sewer%20pipe%20lines.md)
-- [&sect; 02670 - Licenses military installations; erection and use of buildings; American National Red Cross](%C2%A7%2002670%20-%20Licenses%20military%20installations%3B%20erection%20and%20use%20of%20buildings%3B%20American%20National%20Red%20Cross.md)
+- [&sect; 02670 - Military installations use by American National Red Cross; use as polling places](%C2%A7%2002670%20-%20Military%20installations%20use%20by%20American%20National%20Red%20Cross%3B%20use%20as%20polling%20places.md)
 - [&sect; 02671 - Military reservations and facilities hunting, fishing, and trapping](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md)
 - [&sect; 02672 - Acquisition interests in land when cost is not more than $500,000](%C2%A7%2002672%20-%20Acquisition%20interests%20in%20land%20when%20cost%20is%20not%20more%20than%20%24500%2C000.md)
 - [&sect; 02672a - Acquisition interests in land when need is urgent](%C2%A7%2002672a%20-%20Acquisition%20interests%20in%20land%20when%20need%20is%20urgent.md)
@@ -162,7 +164,7 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 - [&sect; 02690 - Fuel sources for heating systems; prohibition on converting certain heating facilities](%C2%A7%2002690%20-%20Fuel%20sources%20for%20heating%20systems%3B%20prohibition%20on%20converting%20certain%20heating%20facilities.md)
 - [&sect; 02691 - Restoration of land used by permit or lease](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20lease.md)
 - [&sect; 02692 - Storage, treatment, and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
-- [&sect; 02693 - Conveyance of certain property](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property.md)
+- [&sect; 02693 - Conveyance of certain property Department of Justice correctional options program](%C2%A7%2002693%20-%20Conveyance%20of%20certain%20property%20Department%20of%20Justice%20correctional%20options%20program.md)
 - [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)
 - [&sect; 02695 - Acceptance of funds to cover administrative expenses relating to certain real property transactions](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md)
 - [&sect; 02696 - Screening of real property for further Federal use before conveyance](%C2%A7%2002696%20-%20Screening%20of%20real%20property%20for%20further%20Federal%20use%20before%20conveyance.md)

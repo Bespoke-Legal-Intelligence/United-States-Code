@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) then ratably increasing the amounts of both (I) the grants determined under subparagraph (A), as increased under clause (i) of this subparagraph, and (II) the grants determined under subparagraph (B).
 
-(2) For purposes of paragraph (1) of this subsection, the term “per capita payment” for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled colleges or universities under section 1807 of this title for such fiscal year by the sum of the Indian student counts of such colleges or universities for such fiscal year. The Secretary shall, on the basis of the most satisfactory data available, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this subchapter.
+(2) For purposes of paragraph (1) of this subsection, the term “per capita payment” for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled colleges or universities under section 1807 of this title for such fiscal year by the sum of the Indian student counts of such colleges or universities for such fiscal year. The Secretary shall, on the basis of the most satisfactory data available, compute the Indian student count forany fiscal year for which such count was not used for the purpose of making allocations under this subchapter.
 
 #### (b) Ratable reduction or increase in funds available for existing schools; excess funds; definition
 

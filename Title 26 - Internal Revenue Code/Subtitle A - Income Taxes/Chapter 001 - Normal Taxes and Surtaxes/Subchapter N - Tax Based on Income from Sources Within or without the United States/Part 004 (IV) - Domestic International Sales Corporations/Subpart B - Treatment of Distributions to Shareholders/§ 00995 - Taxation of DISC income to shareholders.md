@@ -12,7 +12,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;&emsp;(A) the gross interest derived during the taxable year from producer's loans,
 
-&emsp;&emsp;(B) the gain recognized by the DISC during the taxable year on the sale or exchange of property, other than property which in the hands of the DISC is a qualified export asset, previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized,
+&emsp;&emsp;(B) the gain recognized by the DISC during the taxable year on the sale or exchange of property, other than property which in the hands of the DISC is a qualified export asset, previously transferred to it in a transactionin which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized,
 
 &emsp;&emsp;(C) the gain (other than the gain described in subparagraph (B)) recognized by the DISC during the taxable year on the sale or exchange of property (other than property which in the hands of the DISC is stock in trade or other property described in section 1221(a)(1)) previously transferred to it in a transaction in which gain was not recognized in whole or in part, but only to the extent that the transferor's gain on the previous transfer was not recognized and would have been treated as ordinary income if the property has been sold or exchanged rather than transferred to the DISC,
 
@@ -74,7 +74,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (2) Amount included
 
-&emsp;The amounts described in paragraph (1) shall be included in gross income as a dividend to the extent of the accumulated DISC income of the DISC or former DISC which is attributable to the stock disposed of and which was accumulated in taxable years of such corporation during the period or periods the stock disposed of was held by the shareholder which disposed of such stock.
+&emsp;The amounts described in paragraph (1) shall be included in gross income as a dividend to the extent of the accumulated DISC income of the DISC or former DISC which is attributableto the stock disposed of and which was accumulated in taxable years of such corporation during the period or periods the stock disposed of was held by the shareholder which disposed of such stock.
 
 #### (d) Foreign investment attributable to DISC earnings
 
@@ -206,7 +206,7 @@ If—
 
 #### (B) Computation year
 
-&emsp;&emsp;For purposes of applying subparagraph (A) with respect to any taxable year of a shareholder, the computation year is the taxable year of the DISC which ends with (or within) the taxable year of the shareholder which precedes the taxable year of the shareholderfor which the amount of deferred DISC income is being determined.
+&emsp;&emsp;For purposes of applying subparagraph (A) with respect to any taxable year of a shareholder, the computation year is the taxable year of the DISC which ends with (or within) the taxable year of the shareholder which precedes the taxable year of the shareholder for which the amount of deferred DISC income is being determined.
 
 #### (C) Distributions-in-excess-of-income
 
@@ -320,7 +320,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Section 1012(bb)(6)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Section 1012(bb)(6)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply to taxable years beginning after December 31, 1987.”
 
 Amendment by section 1006(e)(15) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -358,7 +358,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Proration of Base Period in Case of Fixed Contracts
 
-Section 1101(g)(5) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(i)(4), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of determining adjusted base period export gross receipts (under section 995(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section), if any DISC has export gross receipts from export property by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975, \[set out as an Effective Date of 1975 Amendment note under section 993 of this title\], then the export gross receipts of such DISC for the taxable years of the base period shall be increased by an amount equal to the amount of gross receipts which were excluded from export gross receipts during each taxable year of thebase period by reason of the last sentence of section 995(e)(3) of such Code multiplied by a fraction, the numerator of which is the amount of the gross receipts in the taxable year which are export gross receipts by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975 and the denominator of which is the amount of total gross receipts which are excluded from export gross receipts in the taxable year by reason of subparagraph (C) or (D) of paragraph (2) of section 993(c) (determined without regard to paragraph (2) of section 603(b) of the Tax Reduction Act of 1975).”
+Section 1101(g)(5) of Pub. L. 94–455, as amended by Pub. L. 95–600, title VII, §703(i)(4), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of determining adjusted base period export gross receipts (under section 995(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section), if any DISC has export gross receipts from export property by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975, \[set out as an Effective Date of 1975 Amendment note under section 993 of this title\], then the export gross receipts of such DISC for the taxable years of the base period shall be increased by an amount equal to the amount of gross receipts which were excluded from export gross receipts during each taxable year of the base period by reason of the last sentence of section 995(e)(3) of such Code multiplied by a fraction, the numerator of which is the amount of the gross receipts in the taxable year which are export gross receipts by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975 and the denominator of which is the amount of total gross receipts which are excluded from export gross receipts in the taxable year by reason of subparagraph (C) or (D) of paragraph (2) of section 993(c) (determined without regard to paragraph (2) of section 603(b) of the Tax Reduction Act of 1975).”
 
 #### Section Referred to in Other Sections
 

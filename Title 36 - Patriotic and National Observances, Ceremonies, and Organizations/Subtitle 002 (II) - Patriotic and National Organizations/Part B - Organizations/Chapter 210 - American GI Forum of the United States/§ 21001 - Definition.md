@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 13, 1998, Pub. L. 105–231, §16, 112 Stat. 1532.
 
-The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands” areomitted as included in “the territories and possessions of the United States”.
+The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands” are omitted as included in “the territories and possessions of the United States”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Suspension of payments of benefits; conditions, amount, etc.
 
-Notwithstanding sections 1053 and 1054 of this title, in any case in which benefit payments under an insolvent multiemployer plan exceed the resource benefit level, any such payments of benefits which are not basic benefits shall be suspended, in accordance with this section, to the extent necessary to reduce the sum of such payments and the payments of such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the corporation under section 1322a(g)(5) of this title.
+Notwithstanding sections 1053 and 1054 of this title, in any case in which benefit payments under an insolvent multiemployer plan exceedthe resource benefit level, any such payments of benefits which are not basic benefits shall be suspended, in accordance with this section, to the extent necessary to reduce the sum of such payments and the payments of such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the corporation under section 1322a(g)(5) of this title.
 
 #### (b) Determination of insolvency status for plan year; definitions
 
@@ -48,7 +48,7 @@ For purposes of this section, for a plan year—
 
 &emsp;(B) inform the parties described in section 1422(a)(2) of this title and the plan participants and beneficiaries that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
-(2) No later than 2 months before the first day of each insolvency year, the plan sponsor of a plan in reorganization shall notify the Secretary of the Treasury, the corporation, and the parties described in paragraph (1)(B) of the resource benefit level determined in writing for that insolvency year.
+(2) No later than 2 months before the first day of each insolvency year, the plan sponsor of aplan in reorganization shall notify the Secretary of the Treasury, the corporation, and the parties described in paragraph (1)(B) of the resource benefit level determined in writing for that insolvency year.
 
 (3) In any case in which the plan sponsor anticipates that the resource benefit level for an insolvency year may not exceed the level of basic benefits, the plan sponsor shall notify the corporation.
 

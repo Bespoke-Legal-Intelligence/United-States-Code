@@ -42,7 +42,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (3) Ensuring policy options that increase the productive participation of the poor
 
-&emsp;The Fund should establish procedures that ensure the focus of future economic reform programs approved by the Fund on policy options that increase the productive participation of the poor in the economy.
+&emsp;The Fund should establish procedures that ensure the focus of future economic reformprograms approved by the Fund on policy options that increase the productive participation of the poor in the economy.
 
 #### (4) Public access to information
 

@@ -8,7 +8,7 @@ The purposes of the environmental quality incentives program established by this
 
 &emsp;&emsp;(B) the Great Plains conservation program established under section 590p(b) of this title (as in effect before the amendment made by section 336(b)(1) of the Federal Agriculture Improvement and Reform Act of 1996);
 
-&emsp;&emsp;(C) the water quality incentives program established under part II of this subchapter (as in effect before the amendment made bysection 336(h) of the Federal Agriculture Improvement and Reform Act of 1996); and
+&emsp;&emsp;(C) the water quality incentives program established under part II of this subchapter (as in effect before the amendment made by section 336(h) of the Federal Agriculture Improvement and Reform Act of 1996); and
 
 &emsp;&emsp;(D) the Colorado River Basin salinity control program established under section 1592(c) of title 43 (as in effect before the amendment made by section 336(c)(1) of the Federal Agriculture Improvement and Reform Act of 1996); and
 

@@ -44,7 +44,7 @@
 | [3732\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003732%20-%20Procedure%20on%20default.md) | Procedure on default. |
 | [3733\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003733%20-%20Property%20management.md) | Property management. |
 | [3734\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003734%20-%20Annual%20submission%20of%20information%20on%20the%20Veterans%20Housing%20Benefit%20Program%20Fund%20and%20housing%20programs.md) | Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs. |
-| [3735\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003735%20-%20Housing%20assistance%20for%20homeless%20veterans.md) | Housing assistance for homeless veterans. |
+| \[3735. | Renumbered.\] |
 | [3736\.](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/%C2%A7%2003736%20-%20Reporting%20requirements.md) | Reporting requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -78,19 +78,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VI—LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING FOR HOMELESS VETERANS
+#### \[SUBCHAPTER VI—TRANSFERRED\]
 
-|  |  |
-| :--- | ---: |
-| [3771\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003771%20-%20Definitions.md) | Definitions. |
-| [3772\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003772%20-%20General%20authority.md) | General authority. |
-| [3773\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003773%20-%20Requirements.md) | Requirements. |
-| [3774\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003774%20-%20Default.md) | Default. |
-| [3775\.](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/%C2%A7%2003775%20-%20Audit.md) | Audit. |
+|  |
+| :--- |
+| \[3771 to 3775. Repealed or renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–95, §5(g)(2), Dec. 21, 2001, 115 Stat. 918, struck out item 3735 “Housing assistance for homeless veterans”, item for subchapter VI “LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING FOR HOMELESS VETERANS”, and items 3771 “Definitions”, 3772 “General authority”, 3773 “Requirements”, 3774 “Default”, and 3775 “Audit”.
 
 1998—Pub. L. 105–368, title VI, §§601(b), 602(e)(3)(C), Nov. 11, 1998, 112 Stat. 3345, 3347, added item 3722, struck out items 3723 “Direct loan revolving fund”, 3724 “Loan Guaranty Revolving Fund”, and 3725 “Guaranty and Indemnity Fund”, substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in item 3734, substituted “Native American Veteran Housing Loan Program Account” for “Housing loan program account” in item 3763, and added item for subchapter VI and items 3771 to 3775.
 
@@ -106,7 +104,7 @@ Pub. L. 102–54, §9(b), June 13, 1991, 105 Stat. 273, added item 1835.
 
 1989—Pub. L. 101–237, title III, §§302(a)(3)(B), (b)(2), 313(b)(1), Dec. 18, 1989, 103 Stat. 2070, 2071, 2077, substituted “Secretary” for “Administrator” in items 1820, 1844, and 1850, “Loan Guaranty Revolving Fund” for “Loan guaranty revolving fund” in item 1824, and “Guaranty and Indemnity Fund” for “Waiver of discharge requirements for hospitalized persons” in item 1825, and added item 1834.
 
-1988—Pub. L. 100–322, title IV, §415(e), May 20, 1988, 102 Stat. 552, in item 1803 substituted “guaranty and insurance” for “guaranty”, struck out item 1807 “Service after July 25, 1947, and prior to June 27, 1950”, reenacted items 1810 and 1811 without change, redesignated item 1819 “Loans to purchase manufactured homes and lots” as item 1812, item 1817 “Release from liability under guaranty” as item 1813, and item 1817A “Assumptions; release from liability” as item 1814, struck out item 1815 “Insurance of loans” and item 1818 “Service after January 31, 1955, and prior to August 5, 1964, or after May 7, 1975”, redesignated item 1816 “Procedureon default” as item 1832, struck out former item 1832 “Furnishing information to real estate professionals to facilitate the disposition of properties”, and added item 1833.
+1988—Pub. L. 100–322, title IV, §415(e), May 20, 1988, 102 Stat. 552, in item 1803 substituted “guaranty and insurance” for “guaranty”, struck out item 1807 “Service after July 25, 1947, and prior to June 27, 1950”, reenacted items 1810 and 1811 without change, redesignated item 1819 “Loans to purchase manufactured homes and lots” as item 1812, item 1817 “Release from liability under guaranty” as item 1813, and item 1817A “Assumptions; release from liability” as item 1814, struck out item 1815 “Insurance of loans” and item 1818 “Service after January 31, 1955, and prior to August 5, 1964, or after May 7, 1975”, redesignated item 1816 “Procedure on default” as item 1832, struck out former item 1832 “Furnishing information to real estate professionals to facilitate the disposition of properties”, and added item 1833.
 
 1987—Pub. L. 100–198, §10(a)(3), Dec. 21, 1987, 101 Stat. 1323, added item 1817A.
 
@@ -146,7 +144,7 @@ Any loan or mortgage secured by a one- to four-family dwelling and insured, guar
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 103, 109, 511, 1521, 1772, 2104, 5302, 5303A, 5701, 5904 of this title; title 12 sections 1464, 1701x, 1709, 1709–1a, 1715y, 1715z–13a, 1715z–13b, 1717, 1721, 1731a, 1735b, 1735g, 2803; title 26 section 6334; title 42 section 1472.
+This chapter is referred to in sections 101, 103, 109, 511, 1521, 2032, 2041, 2104, 5302, 5303A, 5313B, 5701, 5904 of this title; title 12 sections 1464, 1701x, 1709, 1709–1a, 1715y, 1715z–13a, 1715z–13b, 1717, 1721, 1731a, 1735b, 1735g, 2803; title 26 section 6334; title 42 section 1472.
 
 
 ---
@@ -158,4 +156,4 @@ This chapter is referred to in sections 101, 103, 109, 511, 1521, 1772, 2104, 53
 - [Subchapter 003 (III) - Administrative Provisions](Subchapter%20003%20%28III%29%20-%20Administrative%20Provisions/README.md)
 - [Subchapter 004 (IV) - Small Business Loans](Subchapter%20004%20%28IV%29%20-%20Small%20Business%20Loans/README.md)
 - [Subchapter 005 (V) - Native American Veteran Housing Loan Pilot Program](Subchapter%20005%20%28V%29%20-%20Native%20American%20Veteran%20Housing%20Loan%20Pilot%20Program/README.md)
-- [Subchapter 006 (VI) - Loan Guarantee for Multifamily Transitional Housing for Homeless Veterans](Subchapter%20006%20%28VI%29%20-%20Loan%20Guarantee%20for%20Multifamily%20Transitional%20Housing%20for%20Homeless%20Veterans/README.md)
+- [Subchapter 006 (VI) - Transferred](Subchapter%20006%20%28VI%29%20-%20Transferred/README.md)

@@ -232,7 +232,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (3) Payment on loans made in good faith
 
-&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretarymay not refuse to pay a lender or holder of a valid guarantee on that loan, without regard to whether the lender or holder is barred under this subsection.
+&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretary may not refuse to pay a lender or holder of a valid guarantee on that loan, without regard to whether the lender or holder is barred under this subsection.
 
 #### (i) Payment under guarantee
 
@@ -284,7 +284,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) In general
 
-&emsp;&emsp;If a borrower defaults on a loan guaranteed under this section that involves a security interest in restricted Hawaiian Home Land property, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to another eligible Hawaiian family or the Department of Hawaiian Home Lands.
+&emsp;&emsp;If a borrower defaults on a loan guaranteed under this section that involves a securityinterest in restricted Hawaiian Home Land property, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to another eligible Hawaiian family or the Department of Hawaiian Home Lands.
 
 #### (B) Limitation
 
@@ -314,7 +314,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 &emsp;&emsp;(A) fulfilling any obligations of the Secretary with respect to loans guaranteed under this section, including the costs (as that term is defined in section 661a of title 2) of such loans;
 
-&emsp;&emsp;(B) paying taxes, insurance, prior liens, expenses necessary to make fiscal adjustmentin connection with the application and transmittal of collections, and other expenses and advances to protect the Secretary for loans which are guaranteed under this section or held by the Secretary;
+&emsp;&emsp;(B) paying taxes, insurance, prior liens, expenses necessary to make fiscal adjustment in connection with the application and transmittal of collections, and other expenses and advances to protect the Secretary for loans which are guaranteed under this section or held by the Secretary;
 
 &emsp;&emsp;(C) acquiring such security property at foreclosure sales or otherwise;
 
@@ -390,7 +390,7 @@ To the extent that the requirements of title VI of the Civil Rights Act of 1964 
 
 The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), (5), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 204 of the Act was classified to section 698 of Title 48.
 
-The National Housing Act, referred to in subsecs. (c)(4)(B)(i) and (h)(2)(B), is act June 27, 1934, ch. 847, 48Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). Title II of the Act is classified generally to this subchapter (§1707 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (c)(4)(B)(i) and (h)(2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). Title II of the Act is classified generally to this subchapter (§1707 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 The Housing Act of 1949, referred to in subsec. (c)(4)(B)(iii), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
@@ -403,4 +403,8 @@ The Fair Housing Act, referred to in subsec. (<i>l</i>), is title VIII of Pub. L
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
 Pub. L. 106–568, §204, and Pub. L. 106–569, §514, enacted substantially identical sections 184A to Pub. L. 102–550. This section is based on the text of section 184A of Pub. L. 102–550, as added by Pub. L. 106–569.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 25 sections 4223, 4228, 4242.
 

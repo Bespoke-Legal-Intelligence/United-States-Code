@@ -4,8 +4,6 @@ part 6—continuation coverage and additional standards for group health plans
 
 This part is referred to in section 1191b of this title; title 26 section 9832; title 42 sections 300gg–91, 1396a, 1396e.
 
-<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 #### (a) Entry during day
 
-The Secretary may enter, in the daytime, any building or place where any articles or objectssubject to tax are made, produced, or kept, so far as it may be necessary for the purpose of examining said articles or objects.
+The Secretary may enter, in the daytime, any building or place where any articles or objects subject to tax are made, produced, or kept, so far as it may be necessary for the purpose of examining said articles or objects.
 
 #### (b) Entry at night
 

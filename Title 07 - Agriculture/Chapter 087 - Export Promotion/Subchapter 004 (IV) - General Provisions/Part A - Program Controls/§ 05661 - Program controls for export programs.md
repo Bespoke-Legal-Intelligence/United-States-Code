@@ -6,7 +6,7 @@ With respect to a commodity provided, or for which financing or a credit guarant
 
 #### (b) Diversion
 
-The unauthorized diversion of commodities under the programs authorized in sections 5621, 5622, and 5651 of this title is prohibited. The Commodity Credit Corporation shall establish procedures providing for the annual audit of a sufficient number of export transactions under such programs to ensure that the agriculturalcommodities that were the subject of such transactions arrived in the country of destination as provided in the sales agreement.
+The unauthorized diversion of commodities under the programs authorized in sections 5621, 5622, and 5651 of this title is prohibited. The Commodity Credit Corporation shall establish procedures providing for the annual audit of a sufficient number of export transactions under such programs to ensure that the agricultural commodities that were the subject of such transactions arrived in the country of destination as provided in the sales agreement.
 
 #### (c) Good faith
 
@@ -20,7 +20,7 @@ A prior section 401 of Pub. L. 95–501 enacted sections 1765a to 1765h and 1769
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “With respect to commodities or other assistance provided, or for which financing or credit guarantees are made available, under the programs authorized in sections 5621, 5622, and 5651 of this title, the Commodity Credit Corporation shall—
+1996—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a). Textread as follows: “With respect to commodities or other assistance provided, or for which financing or credit guarantees are made available, under the programs authorized in sections 5621, 5622, and 5651 of this title, the Commodity Credit Corporation shall—
 
 &emsp;“(1) require the exporter to maintain records of an official or customary commercial nature or other documents as the Secretary may require, and have access to such documents or records as needed to verify the arrival of agricultural commodities exported in connection with such programs in the countries that were the intended destination of such commodities; and
 

@@ -108,7 +108,7 @@ In general.—The Agreement should provide for the appointment of a staff and an
 
 &emsp;“(2)
 
-Compensation.—Funds made available for the Commission by the United States may be used to pay the compensation of the executive director and other personnel at rates fixed by the Commission that arenot in excess of the rate payable for level V of the Executive Schedule under section 5316 of title 5, United States Code.
+Compensation.—Funds made available for the Commission by the United States may be used to pay the compensation of the executive director and other personnel at rates fixed by the Commission that are not in excess of the rate payable for level V of the Executive Schedule under section 5316 of title 5, United States Code.
 
 “(d)
 
@@ -120,7 +120,7 @@ Meetings.—The Agreement should provide for the Commission to meet at least bia
 
 “(f)
 
-Procurement of Services.—The Agreement should authorize and encourage the Commission to procure by contract, to the maximum extent practicable, the services (including any temporary and intermittent services) that the Commission determines necessary for carrying out the duties of the Commission. In the case of any contract for the services of an individual, funds made available for the Commission by the United States may not be used to pay for the services of the individual at a rate that exceeds the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5, United States Code.
+Procurement of Services.—The Agreement should authorize and encourage the Commission to procure by contract, to the maximum extent practicable, the services (including any temporary and intermittent services) that the Commission determines necessary for carrying out the duties of the Commission. In the case of any contract for the services of an individual, funds made available for the Commission by the United States may not be used to pay for the services of theindividual at a rate that exceeds the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5, United States Code.
 
 #### “SEC. 306. DUTIES.
 

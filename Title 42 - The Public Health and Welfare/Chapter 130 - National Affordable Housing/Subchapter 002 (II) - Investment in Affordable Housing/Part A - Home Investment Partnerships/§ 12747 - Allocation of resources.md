@@ -30,7 +30,7 @@
 
 #### (D) Weights
 
-&emsp;&emsp;When allocation is made among States, the Secretary shall apply the formula in subparagraph (A) giving 20 percent weight to measures of need for the whole State and 80 percent weight to measures of need among units of general local government that are not receiving an allocation under section 12746(1) of this title.
+&emsp;&emsp;When allocation is made among States, the Secretary shall apply the formula insubparagraph (A) giving 20 percent weight to measures of need for the whole State and 80 percent weight to measures of need among units of general local government that are not receiving an allocation under section 12746(1) of this title.
 
 #### (E) Adjustments
 
@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the formula, when applied to funds approved under this section in appropriationsActs for a fiscal year, would allocate less than $3,000,000 to any State, the allocation for such State shall be $3,000,000, and the increase shall be deducted pro rata from the allocations of other States.
+&emsp;&emsp;If the formula, when applied to funds approved under this section in appropriations Acts for a fiscal year, would allocate less than $3,000,000 to any State, the allocation for such State shall be $3,000,000, and the increase shall be deducted pro rata from the allocations of other States.
 
 #### (B) Increased minimum allocation
 

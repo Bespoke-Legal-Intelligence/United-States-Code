@@ -14,7 +14,7 @@ No broadcast or common carrier or aeronautical en route or aeronautical fixed ra
 
 &emsp;(3) any corporation of which more than one-fifth of the capital stock is owned of record or voted by aliens or their representatives or by a foreign government or representative thereof or by any corporation organized under the laws of a foreign country;
 
-&emsp;(4) any corporation directly or indirectly controlled by any other corporation of which more than one-fourth of the capital stock is owned of record or voted by aliens, their representatives, or by a foreign government or representative thereof, or by any corporationorganized under the laws of a foreign country, if the Commission finds that the public interest will be served by the refusal or revocation of such license.
+&emsp;(4) any corporation directly or indirectly controlled by any other corporation of which more than one-fourth of the capital stock is owned of record or voted by aliens, their representatives, or by a foreign government or representative thereof, or by any corporation organized under the laws of a foreign country, if the Commission finds that the public interest will be served by the refusal or revocation of such license.
 
 #### (c) Authorization for aliens licensed by foreign governments; multilateral or bilateral agreement to which United States and foreign country are parties as prerequisite
 

@@ -10,7 +10,7 @@
 
 &emsp;(2) in order to make maximum use of available resources in meeting such needs, encourage all such programs and all grantees under such programs to enter into cooperative arrangements with private industry and business concerns (including small business concerns), educational institutions, trade associations, and labor unions;
 
-&emsp;(3) ensure that maximum effectiveness and efficiency are achieved in providing services and assistance to eligible veterans under all such programs by coordinating and consulting with the Secretary of Veterans Affairs with respect to (A) programs conducted under other provisions of this title, with particular emphasis on coordination of such programs with readjustment counseling activities carried out under section 1712A of this title, apprenticeship or other on-the-job training programs carried out under section 3687 of this title, and rehabilitation and training activities carriedout under chapter 31 of this title, and (B) the Veterans’ Job Training Act (29 U.S.C. 1721 note); <sup>1</sup>
+&emsp;(3) ensure that maximum effectiveness and efficiency are achieved in providing services and assistance to eligible veterans under all such programs by coordinating and consulting with the Secretary of Veterans Affairs with respect to (A) programs conducted under other provisions of this title, with particular emphasis on coordination of such programs with readjustment counseling activities carried out under section 1712A of this title, apprenticeship or other on-the-job training programs carried out under section 3687 of this title, and rehabilitation and training activities carried out under chapter 31 of this title, and (B) the Veterans’ Job Training Act (29 U.S.C. 1721 note); <sup>1</sup>
 
 &emsp;(4) ensure that job placement activities are carried out in coordination and cooperation with appropriate State public employment service officials;
 
@@ -58,7 +58,7 @@ Subsec. (e)(1). Pub. L. 105–368 substituted “A person may not be assigned af
 
 1996—Subsec. (e)(1). Pub. L. 104–275 inserted at end “Each Regional Administrator appointed after the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.”
 
-1994—Subsec. (a). Pub. L. 103–446, §701(a), designated existing provisions as par. (1), redesignated former cls.\(1) and (2) as cls. (A) and (B), respectively, and added par. (2).
+1994—Subsec. (a). Pub. L. 103–446, §701(a), designated existing provisions as par. (1), redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and added par. (2).
 
 Subsec. (e)(1), (2). Pub. L. 103–446, §1201(a)(4), substituted “Regional Administrator” for “Regional Secretary”.
 

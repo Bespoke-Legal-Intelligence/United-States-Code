@@ -22,7 +22,7 @@ The Secretary shall—
 
 #### (ii) Applicability of additional requirements
 
-&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistanceto the outlying areas for adult employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(d) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 202(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for adult employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(d) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 202(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
 
 #### (B) States
 
@@ -90,7 +90,7 @@ The Secretary shall—
 
 #### (III) Area of substantial unemployment
 
-&emsp;&emsp;&emsp;&emsp;The term “area of substantial unemployment” means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this subchapter and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by theSecretary. For purposes of this subclause, determinations of areas of substantial unemployment shall be made once each fiscal year.
+&emsp;&emsp;&emsp;&emsp;The term “area of substantial unemployment” means any area that is of sufficient size and scope to sustain a program of workforce investment activities carried out under this subchapter and that has an average rate of unemployment of at least 6.5 percent for the most recent 12 months, as determined by the Secretary. For purposes of this subclause, determinations of areas of substantial unemployment shall be made once each fiscal year.
 
 #### (IV) Disadvantaged adult
 
@@ -122,7 +122,7 @@ The Secretary shall—
 
 #### (ii) Applicability of additional requirements
 
-&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for dislocated worker employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(a) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 302(e) of the Job Training Partnership Act \[29 U.S.C. 1652(e)\] (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for dislocated worker employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(a) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 302(e) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
 
 #### (B) States
 
@@ -168,7 +168,7 @@ The Secretary shall—
 
 #### (3) Reallotment
 
-&emsp;In making reallotments to eligible States of amounts available pursuant to paragraph (2)for a program year, the Secretary shall allot to each eligible State an amount based on the relative amount allotted to such State under this section for such activities for the prior program year, as compared to the total amount allotted to all eligible States under this section for such activities for such prior program year.
+&emsp;In making reallotments to eligible States of amounts available pursuant to paragraph (2) for a program year, the Secretary shall allot to each eligible State an amount based on the relative amount allotted to such State under this section for such activities for the prior program year, as compared to the total amount allotted to all eligible States under this section for such activities for such prior program year.
 
 #### (4) Eligibility
 
@@ -176,13 +176,13 @@ The Secretary shall—
 
 #### (5) Procedures
 
-&emsp;The Governor of each State shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in the event that a State is required to make funds available for reallotment under this subsection.
+&emsp;The Governor of each State shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in theevent that a State is required to make funds available for reallotment under this subsection.
 
 (Pub. L. 105–220, title I, §132, Aug. 7, 1998, 112 Stat. 983.)
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(I)(bb), (IV), (v)(II), (2)(A)(ii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part A of title II of the Act was classified generally to part A (§1601 et seq.) of subchapter II of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Sections 202, 252, 262, and 302 of the Act were classified to sections 1602, 1631, 1642, and 1652 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(I)(bb), (IV), (v)(II), (2)(A)(ii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part A of title II of the Act was classified generally to part A (§1601 et seq.) of subchapter II of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Sections 202, 252, 262, and 302 of the Act were classified to sections 1602, 1631, 1642, and 1652 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
 
 #### Section Referred to in Other Sections
 

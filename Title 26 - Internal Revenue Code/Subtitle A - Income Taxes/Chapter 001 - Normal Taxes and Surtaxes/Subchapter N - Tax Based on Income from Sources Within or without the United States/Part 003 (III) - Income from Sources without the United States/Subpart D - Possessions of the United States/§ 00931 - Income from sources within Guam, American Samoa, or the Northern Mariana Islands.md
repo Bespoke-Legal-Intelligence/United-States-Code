@@ -154,7 +154,7 @@ Report on Implementing Agreements.—If, during the 1-year period beginning on t
 
 “(e)
 
-Treatment of Certain United States Persons.—Except as otherwise provided in regulations prescribed by the Secretary of the Treasury or his delegate, if a United States person becomes a resident of Guam, American Samoa, or the Northern Mariana Islands, the rules of section 877(c) of the Internal Revenue Code of 1954 \[now 1986\] shall apply to such person during the 10-year period beginning when such person became such a resident. Notwithstanding subsection (b), the preceding sentence shall apply to dispositions after December 31, 1985, in taxable years ending after such date.
+Treatment of Certain United States Persons.—Except as otherwise provided in regulations prescribed by the Secretary of the Treasury or his delegate, if a United States person becomes a resident of Guam, American Samoa, or the Northern Mariana Islands, the rules of section 877(c) of the Internal Revenue Code of 1954 \[now 1986\] shall apply to such person during the 10-year period beginning when such personbecame such a resident. Notwithstanding subsection (b), the preceding sentence shall apply to dispositions after December 31, 1985, in taxable years ending after such date.
 
 “(f)
 
@@ -246,9 +246,9 @@ Mirror system.—For purposes of this section, the mirror system of taxation con
 
 &emsp;“(3)
 
-Special rule for northern mariana islands.—Notwithstanding the provisions of the lastclause of section 601(a) of Public Law 94–241 \[48 U.S.C. 1801 note\], the Commonwealth of the Northern Mariana Islands may elect to continue its mirror system of taxation without regard to whether Guam enacts tax laws under the authority provided in subsection (a).”
+Special rule for northern mariana islands.—Notwithstanding the provisions of the last clause of section 601(a) of Public Law 94–241 \[48 U.S.C. 1801 note\], the Commonwealth of the Northern Mariana Islands may elect to continue its mirror system of taxation without regard to whether Guam enacts tax laws under the authority provided in subsection (a).”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 23, 24, 25A, 86, 135, 137, 168, 221, 530, 865, 876, 901, 936, 1302, 1400C, 1402, 1504, 6091, 7654, 7655 of this title; title 42 section 411; title 48 section 1421i.
+This section is referred to in sections 23, 24, 25A, 25B, 86, 135, 137, 168, 221, 222, 530, 865, 876, 901, 936, 1302, 1400C, 1402, 1504, 6091, 7654, 7655 of this title; title 42 section 411; title 48 section 1421i.
 

@@ -6,7 +6,7 @@ Funds provided under section 1443 of this title may not be used to satisfy a fin
 
 #### (b) Reduction of other benefits
 
-Nothing in this subchapter shall be construed to permit the State to reduce medical or other assistance available or to alter eligibility undertitle V of the Social Security Act \[42 U.S.C. 701 et seq.\] (relating to maternal and child health) or title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (relating to Medicaid for infants or toddlers with disabilities) within the State.
+Nothing in this subchapter shall be construed to permit the State to reduce medical or other assistance available or to alter eligibility under title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (relating to maternal and child health) or title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] (relating to Medicaid for infants or toddlers with disabilities) within the State.
 
 (Pub. L. 91–230, title VI, §640, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 116.)
 

@@ -1,14 +1,16 @@
 ### §4342. Establishment; membership; Chairman; appointments
 
-There is created in the Executive Office of the President a Council on Environmental Quality\(hereinafter referred to as the “Council”). The Council shall be composed of three members who shall be appointed by the President to serve at his pleasure, by and with the advice and consent of the Senate. The President shall designate one of the members of the Council to serve as Chairman. Each member shall be a person who, as a result of his training, experience, and attainments, is exceptionally well qualified to analyze and interpret environmental trends and information of all kinds; to appraise programs and activities of the Federal Government in the light of the policy set forth in subchapter I of this chapter; to be conscious of and responsive to the scientific, economic, social, esthetic, and cultural needs and interests of the Nation; and to formulate and recommend national policies to promote the improvement of the quality of the environment.
+There is created in the Executive Office of the President a Council on Environmental Quality (hereinafter referred to as the “Council”). The Council shall be composed of three members who shall be appointed by the President to serve at his pleasure, by and with the advice and consent of the Senate. The President shall designate one of the members of the Council to serve as Chairman. Each member shall be a person who, as a result of his training, experience, and attainments, is exceptionally well qualified to analyze and interpret environmental trends and information of all kinds; to appraise programs and activities of the Federal Government in the light of the policy set forth in subchapter I of this chapter; to be conscious of and responsive to the scientific, economic, social, esthetic, and cultural needs and interests of the Nation; and to formulate and recommend national policies to promote the improvement of the quality of the environment.
 
 (Pub. L. 91–190, title II, §202, Jan. 1, 1970, 83 Stat. 854.)
 
 #### Council on Environmental Quality; Reduction of Members
 
-Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–45, provided in part: “That notwithstanding section 202 of the National Environmental Policy Act of 1970 \[1969, 42 U.S.C. 4342\], the Council shall consist of one member, appointed by the President, by and with the advice and consent of the Senate, serving as chairman and exercising all powers, functions, and duties of the Council.”
+Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 686, provided in part: “That notwithstanding section 202 of the National Environmental Policy Act of 1970 \[1969, 42 U.S.C. 4342\], the Council shall consist of one member, appointed by the President, by and with the advice and consent of the Senate, serving as chairman and exercising all powers, functions, and duties of the Council.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–45.
 
 Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1084.
 

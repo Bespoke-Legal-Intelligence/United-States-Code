@@ -1,6 +1,6 @@
 ### §2242. Application
 
-Application for a writ of habeas corpus shall be in writing signed and verified by the personfor whose relief it is intended or by someone acting in his behalf.
+Application for a writ of habeas corpus shall be in writing signed and verified by the person for whose relief it is intended or by someone acting in his behalf.
 
 It shall allege the facts concerning the applicant's commitment or detention, the name of the person who has custody over him and by virtue of what claim or authority, if known.
 

@@ -6,9 +6,9 @@ Eligible individuals under this subchapter may be deemed by local workforce inve
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, asamended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Prior Provisions
 
-A prior section 3056h, Pub. L. 89–73, title V, §510, as added Pub. L. 102–375, title V, §506, Sept. 30, 1992, 106 Stat. 1269; amended Pub. L. 103–171, §2(20), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(D), (f)(25)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, related to dual eligibility, prior to the general amendment of this subchapter by Pub. L. 106–501.
+A prior section 3056h, Pub. L. 89–73, title V, §510, as added Pub. L. 102–375, title V, §506, Sept. 30, 1992, 106 Stat. 1269; amended Pub. L. 103–171, §2(20), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(33)(D), (f)(25)(D)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–433, related to dual eligibility, prior tothe general amendment of this subchapter by Pub. L. 106–501.
 

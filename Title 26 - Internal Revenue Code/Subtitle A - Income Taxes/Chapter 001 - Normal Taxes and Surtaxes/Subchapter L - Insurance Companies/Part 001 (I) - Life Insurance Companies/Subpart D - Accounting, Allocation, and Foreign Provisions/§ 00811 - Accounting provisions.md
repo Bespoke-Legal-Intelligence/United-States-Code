@@ -66,7 +66,7 @@ If any return of a corporation made under this part is for a period of less than
 
 #### Prior Provisions
 
-A prior section 811, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 126; amended Pub. L. 97–248, title II, §255(b)(1), Sept. 3, 1982, 96 Stat. 533; Pub. L. 98–369, div. A, title VII, §714(a), July 18, 1984, 98 Stat. 960, relatedto dividends to policyholders, prior to the general revision of this part by Pub. L. 98–369, §211(a).
+A prior section 811, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 126; amended Pub. L. 97–248, title II, §255(b)(1), Sept. 3, 1982, 96 Stat. 533; Pub. L. 98–369, div. A, title VII, §714(a), July 18, 1984, 98 Stat. 960, related to dividends to policyholders, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
 Another prior section 811, act Aug. 16, 1954, ch. 736, §811, as added Mar. 13, 1956, ch. 83, §2, 70 Stat. 44; amended July 24, 1956, ch. 696, §2(c), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, §2(c), 72 Stat. 37, imposed a tax on the life insurance company taxable income of all life insurance companies for taxable years beginning after Dec. 31, 1957, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 

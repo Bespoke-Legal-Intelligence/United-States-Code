@@ -36,7 +36,7 @@
 
 #### (3) Determination of net income
 
-&emsp;For purposes of paragraph (1), the term “net income derived from prohibited transactions” means the excess of the gross income from prohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
+&emsp;For purposes of paragraph (1), the term “net income derived from prohibited transactions” means the excess of the gross income fromprohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
 
 #### (4) Qualified liquidation
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;If the issue price of any regular or residual interest exceeds its adjusted basis as determined under subparagraph (B), for periods during which such interest is held by the transferor (or by any other person whose basis is determined in whole or in part by reference to the basis of such interest in the hand of the transferor)—
 
-&emsp;&emsp;&emsp;(i) in the case of a regular interest, such excess shall be included in gross income\(as determined under rules similar to rules of section 1276(b)), and
+&emsp;&emsp;&emsp;(i) in the case of a regular interest, such excess shall be included in gross income (as determined under rules similar to rules of section 1276(b)), and
 
 &emsp;&emsp;&emsp;(ii) in the case of a residual interest, such excess shall be included in gross income ratably over the anticipated period during which the REMIC will be in existence.
 

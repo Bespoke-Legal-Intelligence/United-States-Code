@@ -12,7 +12,7 @@ The Secretary is authorized to award national emergency grants in a timely manne
 
 #### (b) Administration
 
-The Secretary shall designate a dislocated worker office to coordinate the functions of theSecretary under this chapter relating to employment and training activities for dislocated workers, including activities carried out under the national emergency grants.
+The Secretary shall designate a dislocated worker office to coordinate the functions of the Secretary under this chapter relating to employment and training activities for dislocated workers, including activities carried out under the national emergency grants.
 
 #### (c) Employment and training assistance requirements
 
@@ -20,7 +20,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (A) Application
 
-&emsp;&emsp;To be eligible to receive a grant under subsection (a)(1) of this section, an entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;&emsp;To be eligible to receive a grant under subsection (a)(1) of this section, an entity shall submit an application to the Secretary atsuch time, in such manner, and containing such information as the Secretary may require.
 
 #### (B) Eligible entity
 

@@ -18,11 +18,13 @@
 
 (2) This subsection shall be carried out under regulations prescribed by the Secretary of the Navy.
 
-(e) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2001, execute the required written agreement to remain in active service.
+(e) The provisions of this section shall be effective only in the case of officers who, on or before December 31, 2002, execute the required written agreement to remain in active service.
 
-(Added Pub. L. 91–20, §1(1), June 3, 1969, 83 Stat. 12; amended Pub. L. 92–581, §1(1), (2), Oct. 27, 1972, 86 Stat. 1277; Pub. L. 94–356, §2, July 12, 1976, 90 Stat. 901; Pub. L. 96–513, title V, §516(8), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(a), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 101–189, div. A, title VI, §614(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(g), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(e), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(d), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(d), 624(a), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(d), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(e), 624(a), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152.)
+(Added Pub. L. 91–20, §1(1), June 3, 1969, 83 Stat. 12; amended Pub. L. 92–581, §1(1), (2), Oct. 27, 1972, 86 Stat. 1277; Pub. L. 94–356, §2, July 12, 1976, 90 Stat. 901; Pub. L. 96–513, title V, §516(8), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(a), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(a), Nov. 8, 1985, 99 Stat. 643; Pub. L. 101–189, div. A, title VI, §614(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(g), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §613(e), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(d), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(d), 624(a), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(d), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(e), 624(a), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 \[\[div. A\], title VI, §623(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(a), Dec. 28, 2001, 115 Stat. 1136.)
 
 #### Amendments
+
+2001—Subsec. (e). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
 2000—Subsec. (e). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 
@@ -52,7 +54,7 @@ Subsec. (a)(2) to (4). Pub. L. 99–145, §632(a)(1)(A)–(C), inserted “and�
 
 Subsec. (b). Pub. L. 99–145, §632(a)(2), (3), redesignated subsec. (c) as (b), struck out “of four years” after “complete the full period”, and struck out former subsec. (b) which provided that no more than one agreement for each officer would be accepted under this section.
 
-Subsec. (c). Pub. L. 99–145, §632(a)(4), redesignated subsec. (d) as (c), and substituted “additional period of active service under this section shall in no way obligate the President to accept a resignation submitted by a regular officer.” for “additional period of four years’active service under this section shall in no way obligate the President to accept a resignation submitted by a regular officer at the end of the four-year period.” Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 99–145, §632(a)(4), redesignated subsec. (d) as (c), and substituted “additional period of active service under this section shall in no way obligate the President to accept a resignation submitted by a regular officer.” for “additional period of four years’ active service under this section shall in no way obligate the President to accept a resignation submitted by a regular officer at the end of the four-year period.” Former subsec. (c) redesignated (b).
 
 Subsec. (d). Pub. L. 99–145, §632(a)(5), added subsec. (d). Former subsec. (d) redesignated (c).
 

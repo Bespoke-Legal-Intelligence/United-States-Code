@@ -154,7 +154,7 @@ Special grants programs shall consist of extension and research programs to stre
 
 &emsp;For grants under this subsection, there are authorized to be appropriated $5,000,000 for fiscal year 1991, $10,000,000 for fiscal year 1992, $15,000,000 for fiscal year 1993, and $20,000,000 for fiscal year 1994 and each subsequent fiscal year. Amounts appropriated under this subsection shall remain available until expended.
 
-(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a),Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, §792(a), title VIII, §§871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180.)
+(Pub. L. 92–419, title V, §502, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1323; amended Pub. L. 99–198, title XIV, §1440(a), Dec. 23, 1985, 99 Stat. 1560; Pub. L. 100–219, §2, Dec. 29, 1987, 101 Stat. 1456; Pub. L. 101–624, title XXIII, §§2346, 2349, 2389(a)–(c)(1), 2390(b)(1), Nov. 28, 1990, 104 Stat. 4032, 4037, 4053–4055; Pub. L. 102–237, title IV, §403(a), title VII, §704, Dec. 13, 1991, 105 Stat. 1863, 1881; Pub. L. 104–127, title VII, §792(a), title VIII, §§871, 886, Apr. 4, 1996, 110 Stat. 1152, 1175, 1180.)
 
 #### References in Text
 
@@ -168,7 +168,7 @@ A prior section 2662, Pub. L. 92–419, title V, §502, Aug. 30, 1972, 86 Stat. 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–127, §886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empower capacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
+1996—Subsec. (a). Pub. L. 104–127, §886, inserted after first sentence “The rural development extension programs shall also promote coordinated and integrated rural community initiatives that advance and empowercapacity building through leadership development, entrepreneurship, business development and management training, and strategic planning to increase jobs, income, and quality of life in rural communities.”
 
 Subsec. (f). Pub. L. 104–127, §792(a), struck out subsec. (f), which related to competitive grants for financially stressed farmers, dislocated farmers, and rural families.
 
@@ -236,7 +236,7 @@ Pub. L. 101–624, §2390(b)(1), added subsec. (h) relating to rural health and 
 
 &emsp;“(iv) implement financial planning and management strategies; and
 
-&emsp;“(v) provide linkages to specific resources and opportunities that are available to the farmer, such asreentering agriculture, new business opportunities, other off-farm jobs, job search programs, and retraining skills.
+&emsp;“(v) provide linkages to specific resources and opportunities that are available to the farmer, such as reentering agriculture, new business opportunities, other off-farm jobs, job search programs, and retraining skills.
 
 “(C) The Secretary also may provide support to mental health officials in developing outreach programs in rural areas.
 

@@ -18,7 +18,7 @@ Any person who—
 
 A prior section 5607, act Aug. 16, 1954, ch. 736, 68A Stat. 684, related to penalty for distilling on prohibited premises, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5505(i) and 5601(a)(6) of this title.
 
-Provisions similar to those comprising this section were contained in prior section 5647, act Aug. 16, 1954, ch. 736, 68A Stat. 693, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising this section were contained in prior section 5647, act Aug. 16, 1954,ch. 736, 68A Stat. 693, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Officers and employees
 
-In accordance with this part, the Commission may appoint, fix the compensation of, and define the authority and duties of officers and employees (other than the Administrator and Deputy Administrator) necessary for the management, operation, and maintenance of the Panama Canal and its complementary works, installations, and equipment.
+In accordance with this part, the Commission may appoint, fix the compensation of, and definethe authority and duties of officers and employees (other than the Administrator and Deputy Administrator) necessary for the management, operation, and maintenance of the Panama Canal and its complementary works, installations, and equipment.
 
 #### (b) Eligibility to serve as officer or employee of Commission
 
@@ -18,7 +18,7 @@ In the case of an individual who is an officer or employee of the Commission on 
 
 &emsp;(3) pursuant to a voluntary demotion.
 
-(Pub. L. 96–70, title I, §1202, Sept. 27, 1979, 93 Stat. 461; Pub. L. 104–201, div. C, title XXXV, §3526, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, §3523(b), Nov. 18, 1997, 111Stat. 2065; Pub. L. 105–261, div. C, title XXXV, §3512(a)(1), Oct. 17, 1998, 112 Stat. 2271.)
+(Pub. L. 96–70, title I, §1202, Sept. 27, 1979, 93 Stat. 461; Pub. L. 104–201, div. C, title XXXV, §3526, Sept. 23, 1996, 110 Stat. 2861; Pub. L. 105–85, div. C, title XXXV, §3523(b), Nov. 18, 1997, 111 Stat. 2065; Pub. L. 105–261, div. C, title XXXV, §3512(a)(1), Oct. 17, 1998, 112 Stat. 2271.)
 
 #### Amendments
 

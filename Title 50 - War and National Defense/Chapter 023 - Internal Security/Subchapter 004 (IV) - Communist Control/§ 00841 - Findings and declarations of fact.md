@@ -10,7 +10,7 @@ Section was enacted as part of the Communist Control Act of 1954, and not as par
 
 #### Short Title
 
-Section 1 of act Aug. 24, 1954, provided: “That this Act \[enacting this subchapter and section 792a of this title, amending sections 782, 784, 785, 789 to 792, and 793 of this title, and enacting provisions set out below\] may be cited as the ‘Communist Control Act of 1954’.”
+For short title of this subchapter as the “Communist Control Act of 1954”, see section 1 of act Aug. 24, 1954, set out as a note under section 781 of this title.
 
 #### Separability
 

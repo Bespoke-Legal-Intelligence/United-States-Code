@@ -2,7 +2,7 @@ Part B—Leadership in Educational Technology
 
 #### Prior Provisions
 
-A prior part B, consisting of sections 5841 to 5851 of this title, was repealed by Pub. L. 104–134, title I, §101(d) \[title VII, §701(1)\], Apr. 26, 1996, 110 Stat.1321–211, 1321–251; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+A prior part B, consisting of sections 5841 to 5851 of this title, was repealed by Pub. L. 104–134, title I, §101(d) \[title VII, §701(1)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–251; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 Section 5841, Pub. L. 103–227, title II, §211, Mar. 31, 1994, 108 Stat. 139, stated purpose.
 

@@ -2,27 +2,43 @@
 
 (a)
 
-Insurance and Reinsurance.—(1) Subject to subsection (b) of this section and section 44305(a) of this title, the Secretary of Transportation may provide insurance and reinsurance against loss or damage arising out of any risk from the operation of an American aircraft or foreign-flag aircraft—
-
-&emsp;(A) in foreign air commerce; or
-
-&emsp;(B) between at least 2 places, all of which are outside the United States.
+Insurance and Reinsurance.—(1) Subject to subsection (c) of this section and section 44305(a) of this title, the Secretary of Transportation may provide insurance and reinsurance against loss or damage arising out of any risk from the operation of an American aircraft or foreign-flag aircraft.
 
 (2) An aircraft may be insured or reinsured for not more than its reasonable value as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. Insurance or reinsurance may be provided only when the Secretary decides that the insurance cannot be obtained on reasonable terms from an insurance carrier.
 
 (b)
 
-Presidential Approval.—The Secretary may provide insurance or reinsurance under subsection (a) of this section only with the approval of the President. The President may approve the insurance or reinsurance only after deciding that the continued operation of the American aircraft or foreign-flag aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government.
+Reimbursement of Insurance Cost Increases.—
+
+&emsp;(1)
+
+In general.—The Secretary may reimburse an air carrier for the increase in the cost of insurance, with respect to a premium for coverage ending before October 1, 2002, against loss or damage arising out of any risk from the operation of an American aircraft over the insurance premium that was in effect for a comparable operation during the period beginning September 4, 2001, and ending September 10, 2001, as the Secretary may determine. Such reimbursement is subject to subsections (a)(2), (c), and (d) of this section and to section 44303.
+
+&emsp;(2)
+
+Payment from revolving fund.—A reimbursement under this subsection shall be paid from the revolving fund established by section 44307.
+
+&emsp;(3)
+
+Further conditions.—The Secretary may impose such further conditions on insurance for which the increase in premium is subject to reimbursement under this subsection as the Secretary may deem appropriate in the interest of air commerce.
+
+&emsp;(4)
+
+Termination of authority.—The authority to reimburse air carriers under this subsection shall expire 180 days after the date of enactment of this paragraph.
 
 (c)
 
-Consultation.—The President may require the Secretary to consult with interested departments, agencies, and instrumentalities of the Government before providing insurance or reinsurance under this chapter.
+Presidential Approval.—The Secretary may provide insurance or reinsurance under subsection (a) of this section, or reimburse an air carrier under subsection (b) of this section, only with the approval of the President. The President may approve the insurance or reinsurance or the reimbursement only after deciding that the continued operation of the American aircraft or foreign-flag aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
 
 (d)
 
+Consultation.—The President may require the Secretary to consult with interested departments, agencies, and instrumentalities of the Government before providing insurance or reinsurance or reimbursing an air carrier under this chapter.
+
+(e)
+
 Additional Insurance.—With the approval of the Secretary, a person having an insurable interest in an aircraft may insure with other underwriters in an amount that is more than the amount insured with the Secretary. However, the Secretary may not benefit from the additional insurance. This subsection does not prevent the Secretary from making contracts of coinsurance.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234.)
 
 Historical and Revision Notes
 
@@ -62,7 +78,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1311, 72 Stat. 806.
 
 In subsection (a)(1), before clause (A), the words “Subject to subsection (b) of this section” are added, and the words “American aircraft or foreign-flag aircraft” are substituted for “aircraft” in 49 App.:1532(a), for clarity. The words “in the manner and to the extent provided by this subchapter” are omitted as unnecessary. The words “Insurance shall be issued under this subchapter only to cover any risk from the operation of an aircraft . . . such aircraft is” are omitted because of the restatement. In clause (B), the word “places” is substituted for “points” for consistency in the revised title.
 
-In subsection (a)(2), the words “An aircraft may be insured or reinsured for not more than” are substituted for “and such stated amount shall not exceed” in 49 App.:1537(a) for clarity and because of the restatement. The words “its reasonable value” are substituted for “an amount . . . to represent the fair and reasonable value of the aircraft” to eliminate unnecessary words. The words “Insurance or reinsurance may be provided only” are added because of the restatement. The word “conditions” is omitted as being included in “terms”.
+In subsection (a)(2), the words “An aircraft may be insured or reinsured for not more than” are substituted for “and such stated amount shall not exceed” in 49 App.:1537(a) for clarity and because of the restatement. The words “its reasonable value” are substituted for“an amount . . . to represent the fair and reasonable value of the aircraft” to eliminate unnecessary words. The words “Insurance or reinsurance may be provided only” are added because of the restatement. The word “conditions” is omitted as being included in “terms”.
 
 In subsection (b), the words “The Secretary may provide insurance or reinsurance under subsection (a) of this section only with the approval of the President” are substituted for “with the approval of the President” for clarity and because of the restatement. The words “The President may” are substituted for “The President shall” because the authority of the President is discretionary.
 
@@ -70,7 +86,25 @@ In subsection (c), the words “the Secretary to consult . . . before providin
 
 In subsection (d), the words “However, the Secretary may not benefit from the additional insurance” are substituted for “in that event, the Secretary shall not be entitled to the benefit of such insurance” for clarity.
 
+#### References in Text
+
+The date of enactment of this paragraph, referred to in subsec. (b)(4), is the date of enactment of Pub. L. 107–42, which was approved Sept. 22, 2001.
+
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–42, §201(a)(1), substituted “subsection (c)” for “subsection (b)” and “foreign-flag aircraft.” for “foreign-flag aircraft—” and struck out subpars. (A) and (B) which read as follows:
+
+“(A) in foreign air commerce; or
+
+“(B) between at least 2 places, all of which are outside the United States.”
+
+Subsec. (b). Pub. L. 107–42, §201(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 107–42, §201(a)(2), (4), redesignated subsec. (b) as (c), in first sentence inserted “, or reimburse an air carrier under subsection (b) of this section,” before “only with the approval”, and in second sentence inserted “or the reimbursement” before “only after deciding” and “in the interest of air commerce or national security or” before “to carry out the foreign policy”. Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 107–42, §201(a)(2), (5), redesignated subsec. (c) as (d) and inserted “or reimbursing an air carrier” before “under this chapter”. Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 107–42, §201(a)(2), redesignated subsec. (d) as (e).
 
 1997—Subsec. (a)(2). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
 
@@ -84,13 +118,31 @@ By virtue of the authority vested in me by the Constitution and laws of the Unit
 
 &emsp;(2) approve provision by the Secretary of Transportation of insurance against loss or damage arising out of any risk from the operation of an aircraft in the manner and to the extent provided in 49 U.S.C. 44301–44310, whenever he determines that such insurance cannot be obtained on reasonable terms and conditions from any company authorized to conduct an insurance business in a State of the United States;
 
-&emsp;(3) delegate to the Secretary of Transportation, in consultation with the Secretary of State, the authority vested in me by 49 U.S.C. 44302(b), for purposes of responding to the current crisis in Haiti; and
+&emsp;(3) delegate to the Secretary of Transportation, in consultation with the Secretary of State, the authority vested in me by 49 U.S.C. 44302(b) \[now 44302(c)\], for purposes of responding to the current crisis in Haiti; and
 
-&emsp;(4) delegate to the Secretary of Transportation, in consultation with the Secretary of State, the authority vested in me by 49 U.S.C. 44306(b) for purposes of responding to the current crisis in Haiti.
+&emsp;(4) delegate to the Secretary of Transportation, in consultation with the Secretary of State, the authority vested in me by 49 U.S.C. 44306(b) \[now 44306(c)\] for purposes of responding to the current crisis in Haiti.
 
 The Secretary of Transportation is directed to bring this determination immediately to the attention of all air carriers within the meaning of 49 U.S.C. 40102(a)(2), and to arrange for its publication in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Provision of Aviation Insurance Coverage for Commercial Air Carrier Service in Domestic and International Operations
+
+Determination of President of the United States, No. 01–29, Sept. 23, 2001, 66 F.R. 49075, provided:
+
+Memorandum for the Secretary of Transportation
+
+By virtue of the authority vested in me by 49 U.S.C. 44302, <i>et seq</i>., I hereby:
+
+&emsp;(1) determine that continuation of U.S.-flag commercial air service is necessary in the interest of air commerce, national security, and the foreign policy of the United States;
+
+&emsp;(2) approve provision by the Secretary of Transportation of insurance to U.S.-flag air carriers against loss or damage arising out of any risk from the operation of an aircraft, and/or reimbursement of insurance cost increases, in the manner and to the extent provided in Chapter 443 of 49 U.S.C., whenever he determines that such insurance cannot be obtained on reasonable terms and conditions from any company authorized to conduct an insurance business in a State of the United States; and
+
+&emsp;(3) delegate to the Secretary of Transportation the authority, vested in me by 49 U.S.C. 44306(b) \[now 44306(c)\], to extend this determination for additional 60-day periods, when he finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or the national security, or to carry out the foreign policy of the United States Government.
+
+You are directed to bring this determination immediately to the attention of all air carriers within the meaning of 49 U.S.C. 40102(2), and to arrange for its publication in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

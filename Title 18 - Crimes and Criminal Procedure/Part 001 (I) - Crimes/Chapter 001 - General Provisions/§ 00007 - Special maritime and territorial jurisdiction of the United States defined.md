@@ -18,7 +18,15 @@ The term “special maritime and territorial jurisdiction of the United States�
 
 &emsp;(8) To the extent permitted by international law, any foreign vessel during a voyage having a scheduled departure from or arrival in the United States with respect to an offense committed by or against a national of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 685; July 12, 1952, ch. 695, 66 Stat. 589; Pub. L. 97–96, §6, Dec. 21, 1981, 95 Stat. 1210; Pub. L. 98–473, title II, §1210, Oct. 12, 1984, 98 Stat. 2164; Pub. L. 103–322, title XII, §120002, Sept. 13, 1994, 108 Stat. 2021.)
+&emsp;(9) With respect to offenses committed by or against a national of the United States as that term is used in section 101 of the Immigration and Nationality Act—
+
+&emsp;&emsp;(A) the premises of United States diplomatic, consular, military or other United States Government missions or entities in foreign States, including the buildings, parts of buildings, and land appurtenant or ancillary thereto or used for purposes of those missions or entities, irrespective of ownership; and
+
+&emsp;&emsp;(B) residences in foreign States and the land appurtenant or ancillary thereto, irrespective of ownership, used for purposes of those missions or entities or used by United States personnel assigned to those missions or entities.
+
+> &emsp;Nothing in this paragraph shall be deemed to supersede any treaty or international agreement with which this paragraph conflicts. This paragraph does not apply with respect to an offense committed by a person described in section 3261(a) of this title.
+
+(June 25, 1948, ch. 645, 62 Stat. 685; July 12, 1952, ch. 695, 66 Stat. 589; Pub. L. 97–96, §6, Dec. 21, 1981, 95 Stat. 1210; Pub. L. 98–473, title II, §1210, Oct. 12, 1984, 98 Stat. 2164; Pub. L. 103–322, title XII, §120002, Sept. 13, 1994, 108 Stat. 2021; Pub. L. 107–56, title VIII, §804, Oct. 26, 2001, 115 Stat. 377.)
 
 #### Historical and Revision Notes
 
@@ -36,7 +44,13 @@ Enumeration of names of Great Lakes was omitted as unnecessary.
 
 Other minor changes were necessary now that the section defines a term rather than the place of commission of crime or offense; however, the extent of the special jurisdiction as originally enacted has been carefully followed.
 
+#### References in Text
+
+Section 101 of the Immigration and Nationality Act, referred to in par. (9), is classified to section 1101 of Title 8, Aliens and Nationality.
+
 #### Amendments
+
+2001—Par. (9). Pub. L. 107–56 added par. (9).
 
 1994—Par. (8). Pub. L. 103–322 added par. (8).
 

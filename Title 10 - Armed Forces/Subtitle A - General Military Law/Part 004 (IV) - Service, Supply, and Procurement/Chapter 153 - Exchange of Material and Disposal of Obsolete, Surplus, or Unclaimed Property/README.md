@@ -15,12 +15,14 @@
 | [2579\.](%C2%A7%2002579%20-%20War%20booty%20procedures%20for%20handling%20and%20retaining%20battlefield%20objects.md) | War booty: procedures for handling and retaining battlefield objects. |
 | [2580\.](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md) | Donation of excess chapel property. |
 | [2581\.](%C2%A7%2002581%20-%20Excess%20UH%E2%80%931%20Huey%20and%20AH%E2%80%931%20Cobra%20helicopters%20requirements%20for%20transfer%20to%20foreign%20countries.md) | Excess UH–1 Huey and AH–1 Cobra helicopters: requirements for transfer to foreign countries. |
-| 2582\. | Military equipment identified on United States munitions list: annual report of public sales. |
-| 2582\.<sup>1</sup> | Military working dogs: transfer and adoption at end of useful working life. |
+| [2582\.](%C2%A7%2002582%20-%20Military%20equipment%20identified%20on%20United%20States%20munitions%20list%20annual%20report%20of%20public%20sales.md) | Military equipment identified on United States munitions list: annual report of public sales. |
+| [2583\.](%C2%A7%2002583%20-%20Military%20working%20dogs%20transfer%20and%20adoption%20at%20end%20of%20useful%20working%20life.md) | Military working dogs: transfer and adoption at end of useful working life. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title X, §1048(a)(25), Dec. 28, 2001, 115 Stat. 1224, redesignated item 2582 relating to military working dogs as item 2583.
 
 2000—Pub. L. 106–446, §1(b), Nov. 6, 2000, 114 Stat. 1933, added item 2582 relating to military working dogs.
 
@@ -46,10 +48,6 @@ Pub. L. 100–370, §1(k)(2), July 19, 1988, 102 Stat. 848, added item 2578.
 
 1958—Pub. L. 85–861, §1(50), Sept. 2, 1958, 72 Stat. 1459, substituted “property” for “supplies” in item 2571.
 
-<i><sup>1</sup></i><i> Another section 2555 is set out after section 2554 of this title.</i>
-
-<i><sup>1</sup></i><i> So in original. Probably should be “2583”.</i>
-
 
 ---
 
@@ -69,4 +67,4 @@ Pub. L. 100–370, §1(k)(2), July 19, 1988, 102 Stat. 848, added item 2578.
 - [&sect; 02580 - Donation of excess chapel property](%C2%A7%2002580%20-%20Donation%20of%20excess%20chapel%20property.md)
 - [&sect; 02581 - Excess UH&#8211;1 Huey and AH&#8211;1 Cobra helicopters requirements for transfer to foreign countries](%C2%A7%2002581%20-%20Excess%20UH%E2%80%931%20Huey%20and%20AH%E2%80%931%20Cobra%20helicopters%20requirements%20for%20transfer%20to%20foreign%20countries.md)
 - [&sect; 02582 - Military equipment identified on United States munitions list annual report of public sales](%C2%A7%2002582%20-%20Military%20equipment%20identified%20on%20United%20States%20munitions%20list%20annual%20report%20of%20public%20sales.md)
-- [&sect; 02582 - 1 Military working dogs transfer and adoption at end of useful working life](%C2%A7%2002582%20-%201%20Military%20working%20dogs%20transfer%20and%20adoption%20at%20end%20of%20useful%20working%20life.md)
+- [&sect; 02583 - Military working dogs transfer and adoption at end of useful working life](%C2%A7%2002583%20-%20Military%20working%20dogs%20transfer%20and%20adoption%20at%20end%20of%20useful%20working%20life.md)

@@ -12,7 +12,7 @@ Revocations, Suspensions, and Cancellations.—An employee who has a driver's li
 
 Previous Employment.—(1) Subject to paragraph (2) of this subsection, an individual applying for employment as an operator of a commercial motor vehicle shall notify the prospective employer, at the time of the application, of any previous employment as an operator of a commercial motor vehicle.
 
-(2) The Secretary of Transportation shall prescribe by regulation the period for which notice of previous employment must be given under paragraph (1) of this subsection. However, theperiod may not be less than the 10-year period ending on the date of the application.
+(2) The Secretary of Transportation shall prescribe by regulation the period for which notice of previous employment must be given under paragraph (1) of this subsection. However, the period may not be less than the 10-year period ending on the date of the application.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016.)
 

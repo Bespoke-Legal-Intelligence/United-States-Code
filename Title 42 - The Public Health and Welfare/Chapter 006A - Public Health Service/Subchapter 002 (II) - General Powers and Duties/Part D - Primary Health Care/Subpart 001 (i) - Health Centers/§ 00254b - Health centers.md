@@ -130,7 +130,7 @@ For purposes of this section:
 
 #### (A) Centers
 
-&emsp;&emsp;The Secretary may make grants to public and nonprofit private entities for projects to plan and develop health centers which will serve medically underserved populations. A project for which a grant may be made under this subsection may include the cost of the acquisition and lease of buildings and equipment (including the costs of amortizing the principal of, and paying the interest on, loans) and shall include—
+&emsp;&emsp;The Secretary may make grants to public and nonprofit private entities for projects toplan and develop health centers which will serve medically underserved populations. A project for which a grant may be made under this subsection may include the cost of the acquisition and lease of buildings and equipment (including the costs of amortizing the principal of, and paying the interest on, loans) and shall include—
 
 &emsp;&emsp;&emsp;(i) an assessment of the need that the population proposed to be served by the health center for which the project is undertaken has for required primary health services and additional health services;
 
@@ -186,7 +186,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) the loan would not be available on reasonable terms and conditions without the guarantee under this subsection; and
 
-&emsp;&emsp;&emsp;(iii) amounts appropriated for the program under this subsection are sufficient to provide loan guarantees under this subsection.
+&emsp;&emsp;&emsp;(iii) amounts appropriated for the program under this subsection are sufficientto provide loan guarantees under this subsection.
 
 #### (B) Recovery of payments
 
@@ -222,7 +222,7 @@ For purposes of this section:
 
 #### (C) Waiver
 
-&emsp;&emsp;The Secretary may waive the loan origination fee for a health center applicant whodemonstrates to the Secretary that the applicant will be unable to meet the conditions of the loan if the applicant incurs the additional cost of the fee.
+&emsp;&emsp;The Secretary may waive the loan origination fee for a health center applicant who demonstrates to the Secretary that the applicant will be unable to meet the conditions of the loan if the applicant incurs the additional cost of the fee.
 
 #### (4) Defaults
 
@@ -328,7 +328,7 @@ For purposes of this section:
 
 &emsp;&emsp;(D) the grant will be expended to supplement, and not supplant, the expenditures of the center for primary health services (including prenatal care) with respect to the purpose described in this subsection; and
 
-&emsp;&emsp;(E) the center will coordinate the provision of services with other maternal and child health providers operating in the catchment area.
+&emsp;&emsp;(E) the center will coordinate the provision of services with other maternal andchild health providers operating in the catchment area.
 
 #### (g) Migratory and seasonal agricultural workers
 
@@ -408,7 +408,7 @@ For purposes of this section:
 
 #### (2) Supplement not supplant
 
-&emsp;A grant awarded under this subsection shall be expended to supplement, and not supplant, the expenditures of the health center and the value of in kind contributions for the delivery of services to the population described in paragraph (1).
+&emsp;A grant awarded under this subsection shall be expended to supplement, and not supplant,the expenditures of the health center and the value of in kind contributions for the delivery of services to the population described in paragraph (1).
 
 #### (3) Consultation with residents
 
@@ -468,7 +468,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(iii) has submitted to the Secretary such reports as the Secretary may require to determine compliance with this subparagraph;
 
-&emsp;&emsp;(H) the center has established a governing board which except in the case of an entity operated by an Indian tribe or tribal or Indian organization under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] or an urban Indian organization under the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.)—
+&emsp;&emsp;(H) the center has established a governing board which except in the case of an entityoperated by an Indian tribe or tribal or Indian organization under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\] or an urban Indian organization under the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.)—
 
 &emsp;&emsp;&emsp;(i) is composed of individuals, a majority of whom are being served by the center and who, as a group, represent the individuals being served by the center;
 
@@ -534,7 +534,7 @@ The Secretary may provide (either through the Department of Health and Human Ser
 
 #### (A) Public centers
 
-&emsp;&emsp;The Secretary may not expend in any fiscal year, for grants under this section to public centers (as defined in the second sentence of subsection (j)(3) of this section) the governing boards of which (as described in subsection (j)(3)(G)(ii) <sup>1</sup> of this section) do not establish general policies for such centers, an amount which exceeds 5 percent of the amounts appropriated under this section for that fiscal year. For purposes of applying the preceding sentence, the term “public centers” shall not include health centers that receive grants pursuant to subsection (h) or (i) of this section.
+&emsp;&emsp;The Secretary may not expend in any fiscal year, for grants under this section to public centers (as defined in the second sentence of subsection (j)(3) of this section) thegoverning boards of which (as described in subsection (j)(3)(G)(ii) <sup>1</sup> of this section) do not establish general policies for such centers, an amount which exceeds 5 percent of the amounts appropriated under this section for that fiscal year. For purposes of applying the preceding sentence, the term “public centers” shall not include health centers that receive grants pursuant to subsection (h) or (i) of this section.
 
 #### (B) Distribution of grants
 
@@ -586,7 +586,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (1) In general
 
-&emsp;Each entity which receives a grant under this section shall provide for an independent annual financial audit of any books, accounts, financial records, files, and other papers and property which relate to the disposition or use of the funds received under such grant and such other funds received by or allocated to the project for which such grant was made. For purposes of assuring accurate, current, and complete disclosure of the disposition or use of the funds received, each such audit shall be conducted in accordance with generally accepted accounting principles. Each audit shall evaluate—
+&emsp;Each entity which receives a grant under this section shall provide for an independent annual financial audit of any books, accounts, financial records, files, and other papers and property which relate to the disposition or use of the funds received under such grant and such other funds received by or allocated to the project for which such grant was made. For purposes of assuring accurate, current, and complete disclosure of the disposition oruse of the funds received, each such audit shall be conducted in accordance with generally accepted accounting principles. Each audit shall evaluate—
 
 &emsp;&emsp;(A) the entity's implementation of the guidelines established by the Secretary respecting cost accounting,
 
@@ -616,7 +616,7 @@ The Credit Reform Act of 1990, referred to in subsec. (d)(4)(A), probably means 
 
 The Social Security Act, referred to in subsec. (j)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (j)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of thisAct to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (j)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 The Indian Health Care Improvement Act, referred to in subsec. (j)(3)(H), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 

@@ -160,7 +160,7 @@ Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, prov
 
 1998—Subsec. (a)(1)(B)(vi). Pub. L. 105–277 amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “the acquisition and use of information technology.”
 
-1997—Subsecs. (g)(2), (3), (h)(1)(B). Pub. L. 105–85, §1073(h)(5)(C), substituted “Clinger-Cohen Act of 1996\(40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
+1997—Subsecs. (g)(2), (3), (h)(1)(B). Pub. L. 105–85, §1073(h)(5)(C), substituted “Clinger-Cohen Act of 1996 (40 U.S.C. 1441)” for “Information Technology Management Reform Act of 1996”.
 
 Subsec. (h)(2). Pub. L. 105–85, §1073(h)(5)(B), substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
@@ -244,7 +244,7 @@ Reports.—The Director shall submit to Congress on a periodic basis a report de
 
 #### “SEC. 1707. ENFORCEABILITY AND LEGAL EFFECT OF ELECTRONIC RECORDS.
 
-“Electronic records submitted or maintained in accordance with procedures developed under this title, orelectronic signatures or other forms of electronic authentication used in accordance with such procedures, shall not be denied legal effect, validity, or enforceability because such records are in electronic form.
+“Electronic records submitted or maintained in accordance with procedures developed under this title, or electronic signatures or other forms of electronic authentication used in accordance with such procedures, shall not be denied legal effect, validity, or enforceability because such records are in electronic form.
 
 #### “SEC. 1708. DISCLOSURE OF INFORMATION.
 

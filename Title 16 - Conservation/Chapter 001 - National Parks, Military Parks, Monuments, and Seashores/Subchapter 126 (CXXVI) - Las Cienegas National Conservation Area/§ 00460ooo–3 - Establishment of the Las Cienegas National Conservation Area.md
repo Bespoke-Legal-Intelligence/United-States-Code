@@ -14,7 +14,7 @@ As soon as practicable after December 6, 2000, the Secretary shall submit to Con
 
 #### (d) Forest lands
 
-Any lands included in the Coronado National Forest that are located within the boundaries of the Conservation Area shall be considered to be a part of the Conservation Area. The Secretaryof Agriculture shall revise the boundaries of the Coronado National Forest to reflect the exclusion of such lands from the Coronado National Forest.
+Any lands included in the Coronado National Forest that are located within the boundaries of the Conservation Area shall be considered to be a part of the Conservation Area. The Secretary of Agriculture shall revise the boundaries of the Coronado National Forest to reflect the exclusion of such lands from the Coronado National Forest.
 
 (Pub. L. 106–538, §4, Dec. 6, 2000, 114 Stat. 2564.)
 

@@ -70,7 +70,7 @@ Section 294j, act July 1, 1944, ch. 373, title VII, §737, as added Oct. 12, 197
 
 Section 294j–1, act July 1, 1944, ch. 373, title VII, §737A, as added Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2732, 95 Stat. 919, related to determination of eligible students. See section 292<i>l</i> of this title.
 
-Section 294k, act July 1, 1944, ch. 373, title VII, §738, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2265; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(12), 91 Stat. 1506, related to repayment of loans ofdeceased or disabled borrowers from student loan insurance fund. See section 292m of this title.
+Section 294k, act July 1, 1944, ch. 373, title VII, §738, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2265; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(12), 91 Stat. 1506, related to repayment of loans of deceased or disabled borrowers from student loan insurance fund. See section 292m of this title.
 
 Section 294<i>l</i>, act July 1, 1944, ch. 373, title VII, §739, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2266; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(13), 91 Stat. 1506; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2733, 95 Stat. 920, related to eligibility of institutions and recordation and availability of information. See section 292n of this title.
 

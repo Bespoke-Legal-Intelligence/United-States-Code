@@ -10,5 +10,5 @@ With respect to any fiscal year, the Secretary shall provide a percentage increa
 
 #### Effective Date
 
-Pub. L. 106–419, title I, §111(f)(3), Nov. 1, 2000, 114 Stat. 1831, provided that: “Sections 3654 \[3564\] and 3687(d) of title 38, United States Code, as added by this subsection, shall take effect on October 1, 2001.”
+Pub. L. 106–419, title I, §111(f)(3), Nov. 1, 2000, 114 Stat. 1831, as amended by Pub. L. 107–14, §8(b)(1), June 5, 2001, 115 Stat. 36, provided that: “Sections 3564 and 3687(d) of title 38, United States Code, as added by this subsection, shall take effect on October 1, 2001.”
 

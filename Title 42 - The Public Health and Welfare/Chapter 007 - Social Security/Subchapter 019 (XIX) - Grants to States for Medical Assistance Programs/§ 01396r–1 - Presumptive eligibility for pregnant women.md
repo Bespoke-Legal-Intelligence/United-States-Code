@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;(A) notify the State agency of the determination within 5 working days after the date on which determination is made, and
 
-&emsp;(B) inform the woman at the time the determination is made that she is required to make application for medical assistance under the State plan by not later than the last day of the month following the month during which the determination is made.
+&emsp;(B) inform the woman at the time the determination is made that she is required to make application for medical assistance under the State plan by not later than the last day ofthe month following the month during which the determination is made.
 
 (3) A pregnant woman who is determined by a qualified provider to be presumptively eligible for medical assistance under a State plan shall make application for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made, which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(<i>l</i>)(1)(A) of this title.
 

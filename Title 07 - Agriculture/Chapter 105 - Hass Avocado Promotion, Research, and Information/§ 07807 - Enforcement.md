@@ -26,7 +26,7 @@ A civil action brought under subsection (a) of this section shall be referred to
 
 #### (2) Cease and desist orders
 
-&emsp;In addition to or in lieu of a civil penalty under paragraph (1), the Secretary may issuean order requiring a person to cease and desist from continuing a violation of this chapter, or an order or regulation issued under this chapter.
+&emsp;In addition to or in lieu of a civil penalty under paragraph (1), the Secretary may issue an order requiring a person to cease and desist from continuing a violation of this chapter, or an order or regulation issued under this chapter.
 
 #### (3) Notice and hearing
 

@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) these distortions have caused the United States to lose export sales, with resulting losses in economic growth and employment;
 
-&emsp;(3) these practices undermine market mechanisms that would otherwise result in exportpurchase decisions made on the basis of price, quality, delivery, and other factors directly related to the export, where official financing is not subsidized and would be a neutral factor in the transaction;
+&emsp;(3) these practices undermine market mechanisms that would otherwise result in export purchase decisions made on the basis of price, quality, delivery, and other factors directly related to the export, where official financing is not subsidized and would be a neutral factor in the transaction;
 
 &emsp;(4) support of commercial exports by donor countries with tied aid and partially untied aid credits impedes the growth of developing countries because it diverts development assistance funds from essential developmental purposes; and
 
@@ -78,7 +78,7 @@ The Congress finds that—
 
 #### (d) Consistency with Arrangement
 
-Any export financing involving the use of a grant under the tied aid credit program shall beconsistent with the procedures established by the Arrangement, as in effect at the time such financing is approved.
+Any export financing involving the use of a grant under the tied aid credit program shall be consistent with the procedures established by the Arrangement, as in effect at the time such financing is approved.
 
 #### (e) Authorization
 
@@ -238,7 +238,7 @@ Subsec. (g)(2)(E). Pub. L. 101–240, §101(b)(6), amended subpar. (E) generally
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services ofHouse of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Use of Fund To Discourage Predatory Financing Practices
 

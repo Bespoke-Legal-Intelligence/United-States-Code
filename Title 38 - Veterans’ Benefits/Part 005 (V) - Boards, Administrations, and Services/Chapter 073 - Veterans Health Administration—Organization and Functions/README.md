@@ -30,6 +30,7 @@
 | [7321\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007321%20-%20Committee%20on%20Care%20of%20Severely%20Chronically%20Mentally%20Ill%20Veterans.md) | Committee on Care of Severely Chronically Mentally Ill Veterans. |
 | [7322\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007322%20-%20Breast%20cancer%20mammography%20policy.md) | Breast cancer mammography policy. |
 | [7323\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007323%20-%20Required%20consultations%20with%20nurses.md) | Required consultations with nurses. |
+| [7324\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007324%20-%20Annual%20report%20on%20use%20of%20authorities%20to%20enhance%20retention%20of%20experienced%20nurses.md) | Annual report on use of authorities to enhance retention of experienced nurses. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,12 +55,16 @@
 | [7364\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007364%20-%20General%20powers.md) | General powers. |
 | [7365\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007365%20-%20Applicable%20State%20law.md) | Applicable State law. |
 | [7366\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007366%20-%20Accountability%20and%20oversight.md) | Accountability and oversight. |
-| [7367\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007367%20-%20Report%20to%20Congress.md) | Report to Congress. |
+| \[7367. | Repealed.\] |
 | [7368\.](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/%C2%A7%2007368%20-%20Expiration%20of%20authority.md) | Expiration of authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–135, title I, §125(a)(2), Jan. 23, 2002, 115 Stat. 2453, added item 7324.
+
+2001—Pub. L. 107–14, §8(a)(14)(B), June 5, 2001, 115 Stat. 35, struck out item 7367 “Report to Congress”.
 
 2000—Pub. L. 106–419, title II, §201(b)(2), Nov. 1, 2000, 114 Stat. 1840, added item 7323.
 

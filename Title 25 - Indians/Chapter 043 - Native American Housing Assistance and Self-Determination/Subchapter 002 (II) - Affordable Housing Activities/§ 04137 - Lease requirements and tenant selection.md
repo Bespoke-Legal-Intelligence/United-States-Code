@@ -24,7 +24,7 @@ Except to the extent otherwise provided by or inconsistent with tribal law, in r
 
 #### (b) Tenant and homebuyer selection
 
-The owner or manager of affordable rental housing assisted with grant amounts providedunder this chapter shall adopt and utilize written tenant and homebuyer selection policies and criteria that—
+The owner or manager of affordable rental housing assisted with grant amounts provided under this chapter shall adopt and utilize written tenant and homebuyer selection policies and criteria that—
 
 &emsp;(1) are consistent with the purpose of providing housing for low-income families;
 

@@ -16,7 +16,7 @@ Congress makes the following findings:
 
 &emsp;(6) The gap between rich and poor countries in terms of transmission of HIV from mother to child has been increasing. Moreover, AIDS threatens to reverse years of steady progress of child survival in developing countries. UNAIDS believes that by the year 2010, AIDS may have increased mortality of children under 5 years of age by more than 100 percent in regions most affected by the virus.
 
-&emsp;(7) According to UNAIDS, by the end of 1999, 13,200,000 children have lost at least one parentto AIDS, including 12,100,000 children in sub-Saharan Africa, and are thus considered AIDS orphans.
+&emsp;(7) According to UNAIDS, by the end of 1999, 13,200,000 children have lost at least one parent to AIDS, including 12,100,000 children in sub-Saharan Africa, and are thus considered AIDS orphans.
 
 &emsp;(8) At current infection and growth rates for HIV/AIDS, the National Intelligence Council estimates that the number of AIDS orphans worldwide will increase dramatically, potentially increasing threefold or more in the next 10 years, contributing to economic decay, social fragmentation, and political destabilization in already volatile and strained societies. Children without care or hope are often drawn into prostitution, crime, substance abuse, or child soldiery.
 

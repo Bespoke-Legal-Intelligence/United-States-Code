@@ -52,7 +52,7 @@
 
 #### (D) Disposition
 
-&emsp;&emsp;Upon completion of the use by the Corporation of any property accepted pursuant to subparagraph (A) (other than money or monetary proceeds from sales of property so accepted), such completion shall be reportedto the General Services Administration and such property shall be disposed of in accordance with title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.).
+&emsp;&emsp;Upon completion of the use by the Corporation of any property accepted pursuant to subparagraph (A) (other than money or monetary proceeds from sales of property so accepted), such completion shall be reported to the General Services Administration and such property shall be disposed of in accordance with title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.).
 
 #### (3) Volunteer
 
@@ -70,7 +70,7 @@ Appropriate circulars of the Office of Management and Budget shall apply to the 
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (a)(2)(D) and (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. Provisions of that act relating to contracts are classified to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (a)(2)(D) and (b), isact June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. Provisions of that act relating to contracts are classified to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 #### Amendments
 

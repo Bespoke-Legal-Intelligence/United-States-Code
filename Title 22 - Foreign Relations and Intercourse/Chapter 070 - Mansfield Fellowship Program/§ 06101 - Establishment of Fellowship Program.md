@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is hereby established the “Mike Mansfield Fellowship Program” pursuant to which the Director of the United States Information Agency will make grants, subject to the availability of appropriations, to the Mansfield Center for Pacific Affairs to award fellowships to eligible United States citizens for periods of 2 years each (or, pursuant to section 6102(5)(C) of this title, for such shorter period of time as the Center may determine based on a Fellow's level of proficiency in the Japanese language or knowledge of the political economy of Japan) as follows:
+(1) There is hereby established the “Mike Mansfield Fellowship Program” pursuant to which the Director of the United States Information Agency will make grants, subject to the availability of appropriations, to the Mansfield Center for Pacific Affairs to award fellowships to eligible United States citizens for periods of 2 years each (or, pursuant to section 6102(5)(C) of this title, for such shorter period of time as the Center may determine based on a Fellow's levelof proficiency in the Japanese language or knowledge of the political economy of Japan) as follows:
 
 &emsp;(A) During the first year each fellowship recipient will study the Japanese language as well as Japan's political economy.
 
@@ -24,9 +24,13 @@ The Center is authorized to accept, use, and dispose of gifts or donations of se
 
 #### (e) Use of Federal facilities
 
-The National Foreign Affairs Training Center is authorized and encouraged to assist, on a reimbursable basis, in carrying out Japanese language training by the Center through the provision of teachers, classroom space, teaching materials, and facilities, to the extent that such provision is not detrimental to the Institute's carrying out its other responsibilities under law.
+The George P. Shultz National Foreign Affairs Training Center is authorized and encouraged to assist, on a reimbursable basis, in carrying out Japanese language training by the Center through the provision of teachers, classroom space, teaching materials, and facilities, to the extent that such provision is not detrimental to the Institute's carrying out its other responsibilities under law.
 
-(Pub. L. 103–236, title II, §252, Apr. 30, 1994, 108 Stat. 428.)
+(Pub. L. 103–236, title II, §252, Apr. 30, 1994, 108 Stat. 428; Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412.)
+
+#### Amendments
+
+2002—Subsec. (e). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “National Foreign Affairs Training Center”.
 
 #### Short Title
 

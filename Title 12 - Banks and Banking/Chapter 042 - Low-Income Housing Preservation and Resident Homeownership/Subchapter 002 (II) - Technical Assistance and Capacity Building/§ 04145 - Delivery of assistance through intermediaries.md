@@ -12,7 +12,7 @@ The Secretary shall approve and disburse assistance under section 4143 of this t
 
 #### (2) Priority
 
-&emsp;With respect to all forms of grants available under section 4143 of this title, such criteriashall give priority to applications from eligible intermediaries with demonstrated expertise or experience with the program established under this title <sup>1</sup> or under the Emergency Low Income Housing Preservation Act of 1987.
+&emsp;With respect to all forms of grants available under section 4143 of this title, such criteria shall give priority to applications from eligible intermediaries with demonstrated expertise or experience with the program established under this title <sup>1</sup> or under the Emergency Low Income Housing Preservation Act of 1987.
 
 #### (3) Criteria
 
@@ -38,7 +38,7 @@ The Secretary shall approve and disburse assistance under section 4143 of this t
 
 #### (c) Conflicts of interest
 
-Eligible intermediaries selected under subsection (b) of this section to disburse assistance under section 4143 of this title shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
+Eligible intermediaries selected under subsection (b) of this section to disburse assistance under section 4143 of this title shall certify thatthey will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
 
 &emsp;(1) establish appropriate procedures for grant administration and fiscal management, pursuant to standards established by the Secretary; and
 

@@ -30,7 +30,7 @@ Subsection (a) of this section applies during the period that the individual—
 
 #### (d) Emergency and humanitarian exceptions
 
-Notwithstanding subsection (a) of this section, the Secretary of State may issue a passport, inemergency circumstances or for humanitarian reasons, to an individual with respect to whom that subsection applies.
+Notwithstanding subsection (a) of this section, the Secretary of State may issue a passport, in emergency circumstances or for humanitarian reasons, to an individual with respect to whom that subsection applies.
 
 #### (e) Definitions
 

@@ -22,15 +22,17 @@ Inapplicability of Discharge in Bankruptcy.—A discharge in bankruptcy under ti
 
 (f)
 
-Termination of Agreement Authority.—No agreement under this section may be entered into after December 31, 2001.
+Termination of Agreement Authority.—No agreement under this section may be entered into after December 31, 2002.
 
-(Added Pub. L. 104–106, div. A, title VI, §614(a)(1), Feb. 10, 1996, 110 Stat. 360; amended Pub. L. 104–201, div. A, title VI, §611(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(a), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(a), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(a), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151.)
+(Added Pub. L. 104–106, div. A, title VI, §614(a)(1), Feb. 10, 1996, 110 Stat. 360; amended Pub. L. 104–201, div. A, title VI, §611(a), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(a), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(a), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(a), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(a), Dec. 28, 2001, 115 Stat. 1135.)
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 100–456, div. A, title VI, §613, Sept. 29,1988, 102 Stat. 1981, as amended, which was set out as a note under section 302 of this title, prior to repeal by Pub. L. 104–106, §614(c)(1).
+Provisions similar to those in this section were contained in Pub. L. 100–456, div. A, title VI, §613, Sept. 29, 1988, 102 Stat. 1981, as amended, which was set out as a note under section 302 of this title, prior to repeal by Pub. L. 104–106, §614(c)(1).
 
 #### Amendments
+
+2001—Subsec. (f). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
 2000—Subsec. (f). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 

@@ -78,7 +78,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 > &emsp;&emsp;and has failed substantially to provide medically necessary items and services that are required (under law or the contract with the State under subchapter XIX of this chapter) to be provided to individuals covered under that plan or waiver, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals; or
 
-&emsp;&emsp;(D) is an entity providing items and services as an eligible organization under a risk-sharing contract under section 1395mm of this title and has failed substantially to provide medically necessary items and services that are required (under law or such contract) to be provided to individuals coveredunder the risk-sharing contract, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals.
+&emsp;&emsp;(D) is an entity providing items and services as an eligible organization under a risk-sharing contract under section 1395mm of this title and has failed substantially to provide medically necessary items and services that are required (under law or such contract) to be provided to individuals covered under the risk-sharing contract, if the failure has adversely affected (or has a substantial likelihood of adversely affecting) these individuals.
 
 #### (7) Fraud, kickbacks, and other prohibited activities
 
@@ -88,7 +88,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;Any entity with respect to which the Secretary determines that a person—
 
-&emsp;&emsp;(A)(i) who has a direct or indirect ownership or control interest of 5 percent or more in the entity or with an ownership or control interest (as defined in section 1320a–3(a)(3) of this title) in that entity,
+&emsp;&emsp;(A)(i) who has a direct or indirect ownership or control interest of 5 percent or morein the entity or with an ownership or control interest (as defined in section 1320a–3(a)(3) of this title) in that entity,
 
 &emsp;&emsp;(ii) who is an officer, director, agent, or managing employee (as defined in section 1320a–5(b) of this title) of that entity; or
 
@@ -148,7 +148,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;(B) For purposes of subparagraph (A), the term “sanctioned entity” means an entity—
 
-&emsp;&emsp;(i) that has been convicted of any offense described in subsection (a) of this section or in paragraph (1), (2), or (3) of this subsection; or
+&emsp;&emsp;(i) that has been convicted of any offense described in subsection (a) of this section orin paragraph (1), (2), or (3) of this subsection; or
 
 &emsp;&emsp;(ii) that has been excluded from participation under a program under subchapter XVIII of this chapter or under a State health care program.
 
@@ -198,7 +198,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 &emsp;(B) of the period (described in paragraph (3)) for which the State agency is directed to exclude the individual or entity from participation in the State health care program.
 
-(3)(A) Except as provided in subparagraph (B), the period of the exclusion under a State health care program under paragraph (2) shall be thesame as any period of exclusion under subchapter XVIII of this chapter.
+(3)(A) Except as provided in subparagraph (B), the period of the exclusion under a State health care program under paragraph (2) shall be the same as any period of exclusion under subchapter XVIII of this chapter.
 
 (B)(i) The Secretary may waive an individual's or entity's exclusion under a State health care program under paragraph (2) if the Secretary receives and approves a request for the waiver with respect to the individual or entity from the State agency administering or supervising the administration of the program.
 
@@ -342,7 +342,7 @@ Subsec. (d)(3)(B). Pub. L. 100–203, §4118(e)(2), designated existing provisio
 
 Subsec. (i). Pub. L. 100–203, §4118(e)(5)(A), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “an individual or entity” for “a physician or other individual” in introductory provisions.
 
-Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity”for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
+Pub. L. 100–203, §4118(e)(5)(B), as added by Pub. L. 100–360, §411(k)(10)(D), which directed amendment of pars. (1) to (4) by substituting “individual or entity” for “physician or other individual” each place it appears, was executed by substituting “individual or entity” for “physician or individual” in pars. (1) to (4) as the probable intent of Congress.
 
 Subsec. (i)(4). Pub. L. 100–203, §4118(e)(5)(C), as added by Pub. L. 100–360, §411(k)(10)(D), substituted “first offender, deferred adjudication, or other arrangement or program” for “first offender or other program”.
 
@@ -414,7 +414,7 @@ Clarification of Medicaid Moratorium.—The amendments made by section 9 of this
 
 “(f)
 
-Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participationunder a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
+Treatment of Certain Denials of Payment.—For purposes of section 1128(b)(8)(B)(iii) of the Social Security Act \[subsec. (b)(8)(B)(iii) of this section\] (as amended by section 2 of this Act), a person shall be considered to have been excluded from participation under a program under title XVIII \[subchapter XVIII of this chapter\] if payment to the person has been denied under section 1862(d) of the Social Security Act \[section 1395y(d) of this title\], as in effect before the effective date specified in subsection (a).”
 
 #### Effective Date of 1986 Amendment
 

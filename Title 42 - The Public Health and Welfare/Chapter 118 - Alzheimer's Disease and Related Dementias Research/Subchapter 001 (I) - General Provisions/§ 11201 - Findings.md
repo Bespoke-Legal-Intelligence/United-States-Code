@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) programs initiated as part of the Decade of the Brain are likely to provide significant progress in understanding the fundamental mechanisms underlying the causes of, and treatments for, Alzheimer's disease and related dementias;
 
-&emsp;(7) although substantial progress has been made in recent years in identifying possibleleads to the causes of Alzheimer's disease and related dementias, and more progress can be expected in the near future, there is little likelihood of a breakthrough in the immediate future that would eliminate or substantially reduce—
+&emsp;(7) although substantial progress has been made in recent years in identifying possible leads to the causes of Alzheimer's disease and related dementias, and more progress can be expected in the near future, there is little likelihood of a breakthrough in the immediate future that would eliminate or substantially reduce—
 
 &emsp;&emsp;(A) the number of individuals with the disease and dementias; or
 
@@ -22,7 +22,7 @@ The Congress finds that—
 
 &emsp;(8) the responsibility for care of individuals with Alzheimer's disease and related dementias falls primarily on their families, and the care is financially and emotionally devastating;
 
-&emsp;(9) attempts to reduce the emotional and financial burden of caring for dementia patients is impeded by a lack of knowledge about such patients, how to care for such patients, the costs associated with such care, the effectiveness of various modes of care, the quality and type of care necessary at various stages of the disease, and other appropriate services that are needed to provide quality care;
+&emsp;(9) attempts to reduce the emotional and financial burden of caring for dementia patients is impeded by a lack of knowledge about such patients, how to care for such patients, the costs associated with such care, the effectiveness of various modes of care, the quality and type of care necessary at various stages of thedisease, and other appropriate services that are needed to provide quality care;
 
 &emsp;(10) the results of the little research that has been undertaken concerning dementia has been inadequate or the results have not been widely disseminated;
 

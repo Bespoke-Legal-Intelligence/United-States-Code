@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, the tribe and the members of the tri
 
 #### (d) Effect on property rights and other obligations
 
-Except as otherwise specifically provided in this subchapter, the enactment of this subchapter shall not affect any property right or obligation or any contractual right or obligation in existence before August 18, 1987, or any obligation for taxes levied before August 18, 1987.
+Except as otherwise specifically provided in this subchapter, the enactment of this subchapter shall not affect any property right orobligation or any contractual right or obligation in existence before August 18, 1987, or any obligation for taxes levied before August 18, 1987.
 
 (Pub. L. 100–89, title II, §203, Aug. 18, 1987, 101 Stat. 670.)
 

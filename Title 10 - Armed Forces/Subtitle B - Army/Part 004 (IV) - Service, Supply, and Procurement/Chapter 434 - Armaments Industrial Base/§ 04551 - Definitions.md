@@ -86,7 +86,7 @@ Loan Guarantees.—(1) Subject to paragraph (2), the Secretary of the Army may g
 
 &emsp;“(C) provide any other services to the Secretary of the Army to administer this subsection.
 
-“(4) An Administrator referred to in paragraph (3) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the Administrator administers. To the extent practicable, each Administrator shall use the same procedures for processing loan guarantee applications under this subsection as the Administrator uses for processing loan guarantee applications under other loan guarantee programs that the Administrator administers.
+“(4) An Administrator referred to in paragraph (3) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the Administrator administers. To the extent practicable, each Administrator shall use the same procedures for processing loan guarantee applications under this subsection as the Administrator usesfor processing loan guarantee applications under other loan guarantee programs that the Administrator administers.
 
 “(e)
 

@@ -1,10 +1,14 @@
 ### §1701. Unusual and extraordinary threat; declaration of national emergency; exercise of Presidential authorities
 
-(a) Any authority granted to the President by section 1702 of this title may be exercised to deal with any unusual and extraordinary threat, which has its source in whole or substantial part outside the United States, to the national security, foreign policy, or economy of the United States, if the President declares a national emergency with respect to such threat.
+(a) Any authority granted to the President by section 1702 of this title may be exercised to deal with any unusual and extraordinary threat, which has its source in whole or substantial partoutside the United States, to the national security, foreign policy, or economy of the United States, if the President declares a national emergency with respect to such threat.
 
 (b) The authorities granted to the President by section 1702 of this title may only be exercised to deal with an unusual and extraordinary threat with respect to which a national emergency has been declared for purposes of this chapter and may not be exercised for any other purpose. Any exercise of such authorities to deal with any new threat shall be based on a new declaration of national emergency which must be with respect to such threat.
 
 (Pub. L. 95–223, title II, §202, Dec. 28, 1977, 91 Stat. 1626.)
+
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–24, §1, Aug. 3, 2001, 115 Stat. 199, provided that: “This Act \[enacting and amending provisions set out as notes below\] may be cited as the ‘ILSA Extension Act of 2001’.”
 
 #### Short Title
 
@@ -92,7 +96,7 @@ Arms export prohibition.—Prohibition on United States Government sales to that
 
 &emsp;“(3)
 
-Dual use export prohibition.—Denial of licenses and suspension of existing licenses for the transfer to that person of items the export of which is controlled under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] or the Export Administration Regulations.
+Dual use export prohibition.—Denial of licenses and suspension of existing licenses for thetransfer to that person of items the export of which is controlled under the Export Administration Act of 1979 \[50 App. U.S.C. 2401 et seq.\] or the Export Administration Regulations.
 
 “(c)
 
@@ -182,7 +186,7 @@ Exception for Crew Safety.—
 
 &emsp;“(1)
 
-Exception.—The National Aeronautics and Space Administration may make extraordinary payments that would otherwise be prohibited under this section to the Russian Aviation and Space Agency or any organization or entity under the jurisdiction or control of the Russian Aviation and Space Agency ifthe President has notified the Congress in writing that such payments are necessary to prevent the imminent loss of life by or grievous injury to individuals aboard the International Space Station.
+Exception.—The National Aeronautics and Space Administration may make extraordinary payments that would otherwise be prohibited under this section to the Russian Aviation and Space Agency or any organization or entity under the jurisdiction or control of the Russian Aviation and Space Agency if the President has notified the Congress in writing that such payments are necessary to prevent the imminent loss of life by or grievous injury to individuals aboard the International Space Station.
 
 &emsp;“(2)
 
@@ -362,7 +366,7 @@ People's Liberation Army.—For purposes of this section, the term ‘People's L
 
 #### Iran and Libya Sanctions
 
-Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, provided that:
+Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, as amended by Pub. L. 107–24, §§2(a), 3–5, 115 Stat. 199, 200, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -384,7 +388,7 @@ Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, provided that:
 
 “(a)
 
-Policy With Respect to Iran.—The Congress declares that it is the policy of the United States to deny Iran the ability to support acts of international terrorism and to fund the development and acquisition of weapons of mass destruction and the means to deliver them by limiting the development of Iran's ability to explore for, extract, refine, or transport by pipeline petroleum resources of Iran.
+Policy With Respect to Iran.—The Congress declares that it is the policy of the United States to denyIran the ability to support acts of international terrorism and to fund the development and acquisition of weapons of mass destruction and the means to deliver them by limiting the development of Iran's ability to explore for, extract, refine, or transport by pipeline petroleum resources of Iran.
 
 “(b)
 
@@ -394,7 +398,7 @@ Policy With Respect to Libya.—The Congress further declares that it is the pol
 
 “(a)
 
-Multilateral Negotiations.—In order to further the objectives of section 3, the Congress urges the President to commence immediately diplomatic efforts, both in appropriate international fora such as theUnited Nations, and bilaterally with allies of the United States, to establish a multilateral sanctions regime against Iran, including provisions limiting the development of petroleum resources, that will inhibit Iran's efforts to carry out activities described in section 2.
+Multilateral Negotiations.—In order to further the objectives of section 3, the Congress urges the President to commence immediately diplomatic efforts, both in appropriate international fora such as the United Nations, and bilaterally with allies of the United States, to establish a multilateral sanctions regime against Iran, including provisions limiting the development of petroleum resources, that will inhibit Iran's efforts to carry out activities described in section 2.
 
 “(b)
 
@@ -456,7 +460,7 @@ Violations of prohibited transactions.—Except as provided in subsection (f), t
 
 &emsp;“(2)
 
-Investments that contribute to the development of petroleum resources.—Except as provided in subsection (f), the President shall impose 2 or more of the sanctions described in paragraphs (1) through (6) of section 6 if the President determines that a person has, with actual knowledge, on or after the date of the enactment of this Act \[Aug. 5, 1996\], made an investment of $40,000,000 or more (or any combination of investments of at least $10,000,000 each, which in the aggregate equals or exceeds $40,000,000 in any 12-month period), that directly and significantly contributed to the enhancement of Libya's ability to develop its petroleum resources.
+Investments that contribute to the development of petroleum resources.—Except as provided in subsection (f), the President shall impose 2 or more of the sanctions described in paragraphs (1) through (6) of section 6 if the President determines that a person has, with actual knowledge, on or after the date of the enactment of this Act \[Aug. 5, 1996\], made an investment of $20,000,000 or more (or any combination of investments of at least $10,000,000 each, which in the aggregate equals or exceeds $20,000,000 in any 12-month period), that directly and significantly contributed to the enhancement of Libya's ability to develop its petroleum resources.
 
 “(c)
 
@@ -480,7 +484,7 @@ Publication in Federal Register.—The President shall cause to be published in 
 
 “(e)
 
-Publication of Projects.—The President shall cause to be published in the Federal Register a list of all significant projects which have been publicly tendered in the oil and gas sector in Iran.
+Publication of Projects.—The President shall cause to be published in the Federal Register a list ofall significant projects which have been publicly tendered in the oil and gas sector in Iran.
 
 “(f)
 
@@ -592,7 +596,7 @@ Consultations.—If the President makes a determination described in section 5(a
 
 &emsp;“(2)
 
-Actions by government of jurisdiction.—In order to pursue consultations under paragraph (1) with the government concerned, the President may delay imposition of sanctions under this Act for up to 90 days. Following such consultations, the President shall immediately impose sanctions unless the President determines and certifies to the Congress that the government has taken specific and effective actions, including, as appropriate, the imposition of appropriate penalties, to terminate the involvement of the foreign person in the activities that resulted in the determination by the President under section 5(a) or 5(b) concerning such person.
+Actions by government of jurisdiction.—In order to pursue consultations under paragraph (1) with the government concerned, the President may delay imposition of sanctions under this Act for up to 90 days. Following such consultations, the Presidentshall immediately impose sanctions unless the President determines and certifies to the Congress that the government has taken specific and effective actions, including, as appropriate, the imposition of appropriate penalties, to terminate the involvement of the foreign person in the activities that resulted in the determination by the President under section 5(a) or 5(b) concerning such person.
 
 &emsp;“(3)
 
@@ -600,7 +604,7 @@ Additional delay in imposition of sanctions.—The President may delay the impos
 
 &emsp;“(4)
 
-Report to congress.—Not later than 90 days after making a determination under section 5(a) or5(b), the President shall submit to the appropriate congressional committees a report on the status of consultations with the appropriate foreign government under this subsection, and the basis for any determination under paragraph (3).
+Report to congress.—Not later than 90 days after making a determination under section 5(a) or 5(b), the President shall submit to the appropriate congressional committees a report on the status of consultations with the appropriate foreign government under this subsection, and the basis for any determination under paragraph (3).
 
 “(b)
 
@@ -656,6 +660,20 @@ Report on Certain International Initiatives.—Not later than 6 months after the
 
 “(b)
 
+Report on Effectiveness of Actions Under This Act.—Not earlier than 24 months, and not later than 30 months, after the date of the enactment of the ILSA Extension Act of 2001 \[Aug. 3, 2001\], the President shall transmit to Congress a report that describes—
+
+&emsp;“(1) the extent to which actions relating to trade taken pursuant to this Act—
+
+&emsp;&emsp;“(A) have been effective in achieving the objectives of section 3 and any other foreign policy or national security objectives of the United States with respect to Iran and Libya; and
+
+&emsp;&emsp;“(B) have affected humanitarian interests in Iran and Libya, the country in which the sanctioned person is located, or in other countries; and
+
+&emsp;“(2) the impact of actions relating to trade taken pursuant to this Act on other national security, economic, and foreign policy interests of the United States, including relations with countries friendly to the United States, and on the United States economy.
+
+> The President may include in the report the President's recommendation on whether or not this Act should be terminated or modified.
+
+“(c)
+
 Other Reports.—The President shall ensure the continued transmittal to the Congress of reports describing—
 
 &emsp;“(1) the nuclear and other military capabilities of Iran, as required by section 601(a) of the Nuclear Non-Proliferation Act of 1978 \[22 U.S.C. 3281(a)\] and section 1607 of the National Defense Authorization Act for Fiscal Year 1993 \[Pub. L. 102–484 set out below\]; and
@@ -678,7 +696,7 @@ Effective Date.—This Act shall take effect on the date of the enactment of thi
 
 “(b)
 
-Sunset.—This Act shall cease to be effective on the date that is 5 years after the date of the enactment of this Act.
+Sunset.—This Act shall cease to be effective on the date that is 10 years after the date of the enactment of this Act.
 
 #### “SEC. 14. DEFINITIONS.
 
@@ -714,7 +732,7 @@ Develop and development.—To ‘develop’, or the ‘development’ of, petrol
 
 Financial institution.—The term ‘financial institution’ includes—
 
-&emsp;&emsp;“(A) a depository institution (as defined in section 3(c)(1) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)(1)\]), including a branch or agency of a foreign bank (as defined in section 1(b)(7) of theInternational Banking Act of 1978 \[12 U.S.C. 3101(b)(7)\]);
+&emsp;&emsp;“(A) a depository institution (as defined in section 3(c)(1) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(c)(1)\]), including a branch or agency of a foreign bank (as defined in section 1(b)(7) of the International Banking Act of 1978 \[12 U.S.C. 3101(b)(7)\]);
 
 &emsp;&emsp;“(B) a credit union;
 
@@ -750,7 +768,7 @@ Investment.—The term ‘investment’ means any of the following activities if
 
 &emsp;&emsp;“(C) The entry into a contract providing for the participation in royalties, earnings, or profits in that development, without regard to the form of the participation.
 
-> &emsp;The term ‘investment’ does not include the entry into, performance, or financing of a contract to sell or purchase goods, services, or technology.
+> &emsp;The term ‘investment’ does not include the entry into, performance, or financing of a contract to sell or purchase goods, services, or technology. For purposes of this paragraph, an amendment or other modification that is made, on or after June 13, 2001, to an agreement or contract shall be treated as the entry of an agreement or contract.
 
 &emsp;“(10)
 
@@ -818,7 +836,9 @@ United states person.—The term ‘United States person’ means—
 
 &emsp;&emsp;“(B) a corporation or other legal entity which is organized under the laws of the United States, any State or territory thereof, or the District of Columbia, if natural persons described in subparagraph (A) own, directly or indirectly, more than 50 percent of the outstanding capital stock or other beneficial interest in such legal entity.”
 
-\[Memorandum of President of the United States, Nov. 21, 1996, 61 F.R. 64249, delegated to the Secretary of State, in consultation with the Departments of the Treasury and Commerce and the United States Trade Representative, and with the Export-Import Bank and Federal Reserve Board and other interested agencies as appropriate functions vested in the President by sections 4(c), 5(a), (b), (c), (f), 6(1), (2), and 9(c) of Pub. L. 104–172, set out above, delegated to the Secretary of State functions vested in the President by sections 4(a), (b), (d), (e), 5(d), (e), 9(a), (b), and 10 of Pub. L. 104–172, provided that any reference to provisions of any Act related to the subject of the memorandum be deemed to include references to any subsequent provision of law that is the same or substantially the same as such provisions, and provided that only the functions vested in the President by sections 4(a), (b), (d), (e), 5(d), (e), and 10 of Pub. L. 104–172 and delegated by the memorandum could be redelegated.\]
+\[Pub. L. 107–24, §2(b), Aug. 3, 2001, 115 Stat. 199, provided that: “The amendments made by subsection (a) \[amending section 5 of Pub. L. 104–172, set out above\] shall apply to investments made on or after June 13, 2001.”\]
+
+\[Memorandum of President of the United States, Nov. 21, 1996, 61 F.R. 64249, delegated to the Secretary of State, in consultation with the Departments of the Treasury and Commerce and the United States TradeRepresentative, and with the Export-Import Bank and Federal Reserve Board and other interested agencies as appropriate functions vested in the President by sections 4(c), 5(a), (b), (c), (f), 6(1), (2), and 9(c) of Pub. L. 104–172, set out above, delegated to the Secretary of State functions vested in the President by sections 4(a), (b), (d), (e), 5(d), (e), 9(a), (b), and 10 of Pub. L. 104–172, provided that any reference to provisions of any Act related to the subject of the memorandum be deemed to include references to any subsequent provision of law that is the same or substantially the same as such provisions, and provided that only the functions vested in the President by sections 4(a), (b), (d), (e), 5(d), (e), and 10 of Pub. L. 104–172 and delegated by the memorandum could be redelegated.\]
 
 #### Sanctions Against Serbia and Montenegro
 
@@ -942,7 +962,7 @@ International Financial Institutions.—The Secretary of the Treasury shall inst
 
 “(d)
 
-Exception.—Notwithstanding any other provision of law, the President is authorized and encouragedto exempt from sanctions imposed against Serbia and Montenegro that are described in subsection (a) those United States-supported programs, projects, or activities that involve reform of the electoral process, the development of democratic institutions or democratic political parties, or humanitarian assistance (including refugee care and human rights observation).
+Exception.—Notwithstanding any other provision of law, the President is authorized and encouraged to exempt from sanctions imposed against Serbia and Montenegro that are described in subsection (a) those United States-supported programs, projects, or activities that involve reform of the electoral process, the development of democratic institutions or democratic political parties, or humanitarian assistance (including refugee care and human rights observation).
 
 “(e)
 
@@ -1018,7 +1038,7 @@ Pub. L. 102–484, div. A, title XVI, Oct. 23, 1992, 106 Stat. 2571, as amended 
 
 “(a)
 
-In General.—It shall be the policy of the United States to oppose, and urgently to seek the agreementof other nations also to oppose, any transfer to Iran or Iraq of any goods or technology, including dual-use goods or technology, wherever that transfer could materially contribute to either country's acquiring chemical, biological, nuclear, or destabilizing numbers and types of advanced conventional weapons.
+In General.—It shall be the policy of the United States to oppose, and urgently to seek the agreement of other nations also to oppose, any transfer to Iran or Iraq of any goods or technology, including dual-use goods or technology, wherever that transfer could materially contribute to either country's acquiring chemical, biological, nuclear, or destabilizing numbers and types of advanced conventional weapons.
 
 “(b)
 
@@ -1084,7 +1104,7 @@ Suspension of military and dual-use technical exchange agreements.—The United 
 
 &emsp;“(5)
 
-United states munitions list.—No item on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act) may be exported to the sanctioned country for a period of one year.
+United states munitions list.—No item on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act) may beexported to the sanctioned country for a period of one year.
 
 “(c)
 
@@ -1114,7 +1134,7 @@ Annual Report.—Beginning one year after the date of the enactment of this Act 
 
 “(b)
 
-Report on Individual Transfers.—Whenever the President determines that a person or foreign government has made a transfer which is subject to anysanction under this title, the President shall, within 30 days after such transfer, submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs \[now Committee on International Relations\] of the House of Representatives a report—
+Report on Individual Transfers.—Whenever the President determines that a person or foreign government has made a transfer which is subject to any sanction under this title, the President shall, within 30 days after such transfer, submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs \[now Committee on International Relations\] of the House of Representatives a report—
 
 &emsp;“(1) identifying the person or government and providing the details of the transfer; and
 
@@ -1204,7 +1224,7 @@ Continuation of Embargo.—Except as otherwise provided in this section, the Pre
 
 “(b)
 
-Humanitarian Assistance.—To the extent that transactions involving foodstuffs or payments for foodstuffs are exempted ‘in humanitarian circumstances’ from the prohibitions established by the United States pursuant to United Nations Security Council Resolution 661 (1990), those exemptions shall be limited tofoodstuffs that are to be provided consistent with United Nations Security Council Resolution 666 (1990) and other relevant Security Council resolutions.
+Humanitarian Assistance.—To the extent that transactions involving foodstuffs or payments for foodstuffs are exempted ‘in humanitarian circumstances’ from the prohibitions established by the United States pursuant to United Nations Security Council Resolution 661 (1990), those exemptions shall be limited to foodstuffs that are to be provided consistent with United Nations Security Council Resolution 666 (1990) and other relevant Security Council resolutions.
 
 “(c)
 
@@ -1378,7 +1398,7 @@ Contract Sanctity.—For purposes of the export controls imposed pursuant to sub
 
 “(a)
 
-In General.—The President may waive the requirements of any paragraph of section 586G(a) if the President makes a certification under subsection (b) or subsection (c).
+In General.—The President may waive the requirements of any paragraph of section 586G(a) if thePresident makes a certification under subsection (b) or subsection (c).
 
 “(b)
 
@@ -1471,6 +1491,8 @@ Report on Sanctions Taken by Other Nations Against Iraq.—(1) The President sha
 “(4) Not later than every 6 months after the date of enactment of this Act \[Nov. 5, 1990\], the President shall submit to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs \[now Committee on International Relations\] of the House of Representatives, a report in both classified and unclassified form, setting forth the findings of the study required by paragraph (1) of this subsection.”
 
 \[Provisions similar to section 586D of Pub. L. 101–513, set out above, relating to compliance with sanctions against Iraq were contained in the following appropriations acts:
+
+\[Pub. L. 107–115, title V, §531, Jan. 10, 2002, 115 Stat. 2150.
 
 \[Pub. L. 106–429, §101(a) \[title V, §534\], Nov. 6, 2000, 114 Stat. 1900, 1900A–34.
 
@@ -1578,13 +1600,17 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 12170
 
-Notice of President of the United States, dated Nov. 9, 2000, 65 F.R. 68061, provided:
+Notice of President of the United States, dated Nov. 9, 2001, 66 F.R. 56966, provided:
 
-On November 14, 1979, by Executive Order 12170 \[set out above\], the President declared a national emergency to deal with the threat to the national security, foreign policy, and economy of the United States constituted by the situation in Iran. Since that time, notices of the continuation of this national emergency have been transmitted annually by the President to the Congress and published in the Federal Register. The most recent notice appeared in the Federal Register on November 5, 1999. Because our relations with Iran have not yet returned to normal, and the process of implementing the January 19, 1981, agreements with Iran is still underway, the national emergency declared on November 14, 1979, must continue in effect beyond November 14, 2000. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Iran for 1 year. This notice shall be published in the Federal Register and transmitted to the Congress.
+On November 14, 1979, by Executive Order 12170 \[set out above\], the President declared a national emergency with respect to Iran pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701–1706) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the situation in Iran. Because our relations with Iran have not yet returned to normal, and the process of implementing the January 19, 1981, agreements with Iran is still underway, the national emergency declared on November 14, 1979, must continue in effect beyond November 14, 2001. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year this national emergency with respect to Iran.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This notice shall be published in the Federal Register and transmitted to the Congress.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 12170 were contained in the following:
+
+Notice of President of the United States, dated Nov. 9, 2000, 65 F.R. 68061.
 
 Notice of President of the United States, dated Nov. 5, 1999, 64 F.R. 61471.
 
@@ -1652,7 +1678,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–102. The prohibitions in section 1–101 above shall not apply to transactions by any person subject to the jurisdiction of the United States which is a nonbanking association, corporation, or other organization organized and doing business under the laws of any foreign country.
 
-1–103. The Secretary of the Treasury is delegated, and authorized to exercise, all functions vested in thePresident by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to carry out the purposes of this Order. The Secretary may redelegate any of these functions to other officers and agencies of the Federal government.
+1–103. The Secretary of the Treasury is delegated, and authorized to exercise, all functions vested in the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to carry out the purposes of this Order. The Secretary may redelegate any of these functions to other officers and agencies of the Federal government.
 
 1–104. The Secretary of the Treasury shall ensure that actions taken pursuant to this Order and Executive Order No. 12170 \[set out above\] are accounted for as required by Section 401 of the National Emergencies Act (50 U.S.C. 1641).
 
@@ -1708,7 +1734,7 @@ For provisions relating to the revocation of prohibitions contained in Ex. Ord. 
 
 Ex. Ord. No. 12276, Jan. 19, 1981, 46 F.R. 7913, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States, including Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702), Section 301 of Title 3 of the United States Code, Section 1732 of Title 22 of the United States Code, and Section 301 of the National Emergencies Act (50 U.S.C. 1631), in view of the continuing unusual and extraordinary threat to the national security, foreign policy and economy of the United States upon which I based my declarations of national emergency in Executive Order 12170 \[set out above\], issued November 14, 1979, and in Executive Order 12211 \[set out above\], issued April 17, 1980, in order to implement agreements with the Government of Iran, as reflected in Declarations of the Government of the Democratic and Popular Republic of Algeria dated January 19, 1981, relating to the release of U.S.diplomats and nationals being held as hostages and to the resolution of claims of United States nationals against Iran, and to begin the process of normalization of relations between the United States and Iran, it is hereby ordered that as of the effective date of this Order:
+By the authority vested in me as President by the Constitution and statutes of the United States, including Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702), Section 301 of Title 3 of the United States Code, Section 1732 of Title 22 of the United States Code, and Section 301 of the National Emergencies Act (50 U.S.C. 1631), in view of the continuing unusual and extraordinary threat to the national security, foreign policy and economy of the United States upon which I based my declarations of national emergency in Executive Order 12170 \[set out above\], issued November 14, 1979, and in Executive Order 12211 \[set out above\], issued April 17, 1980, in order to implement agreements with the Government of Iran, as reflected in Declarations of the Government of the Democratic and Popular Republic of Algeria dated January 19, 1981, relating to the release of U.S. diplomats and nationals being held as hostages and to the resolution of claims of United States nationals against Iran, and to begin the process of normalization of relations between the United States and Iran, it is hereby ordered that as of the effective date of this Order:
 
 1–101. The Secretary of the Treasury is authorized to enter into, and to license, authorize, direct, and compel any appropriate official and/or the Federal Reserve Bank of New York, as fiscal agent of the United States, to enter into escrow or related agreements with a foreign central bank and with the Central Bank of Algeria under which certain money and other assets, as and when directed by the Secretary of the Treasury, shall be credited by the foreign central bank to an escrow account on its books in the name of the Central Bank of Algeria for transfer to the Government of Iran if and when the Central Bank of Algeria receives from the Government of Algeria a certification that the 52 U.S. diplomats and nationals being held hostage in Iran have safely departed from Iran. Such agreements shall include other parties and terms as determined by the Secretary of the Treasury to be appropriate to carry out the purposes of this Order.
 
@@ -1742,7 +1768,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–104. The Attorney General shall seek to intervene in any litigation within the United States which arises out of this Order and shall, among other things, defend the legality of, and all actions taken pursuant to, each of its provisions.
 
-1–105. The Secretary of the Treasury is delegated and authorized to exercise all functions vested in the President by the International Emergency Economic PowersAct (50 U.S.C. 1701 et seq.) to carry out the purposes of this Order.
+1–105. The Secretary of the Treasury is delegated and authorized to exercise all functions vested in the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to carry out the purposes of this Order.
 
 1–106. This Order shall be effective immediately.
 
@@ -1766,7 +1792,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 (c) All persons subject to the jurisdiction of the United States are prohibited from acquiring or exercising any right, power, or privilege, whether by court order or otherwise, with respect to the properties (and any income earned thereon) referred to in Sections 1–101 and 1–102 of this Order.
 
-1–105. Compliance with this Order, any other Executive Order licensing, authorizing, directing, or compelling the transfer of the assets described in Sections 1–101 and 1–102 of this Order, or any regulations, instructions, or directions issued thereunder shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same. No person shall be held liable in any court for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuant to and in reliance on, such orders, regulations, instructions, or directions.
+1–105. Compliance with this Order, any other Executive Order licensing, authorizing, directing, or compelling the transfer of the assets described in Sections 1–101 and 1–102 of this Order, or any regulations, instructions, or directions issued thereunder shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making thesame. No person shall be held liable in any court for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuant to and in reliance on, such orders, regulations, instructions, or directions.
 
 1–106. The Attorney General shall seek to intervene in any litigation within the United States which arises out of this Order and shall, among other things, defend the legality of, and all actions taken pursuant to, each of its provisions.
 
@@ -1852,7 +1878,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12282, Jan. 19, 1981, 46 F.R. 7925, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States, including Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702), Section 301 of Title 3 of the United States Code, Section 1732 of Title 22 of the United States Code, and Section 301 of the National Emergencies Act (50 U.S.C. 1631), in view of the continuing unusual and extraordinary threat to the national security, foreign policy and economy of the United States upon which I based my declarations of national emergency in Executive Order 12170 \[set out above\], issued November 14, 1979, and in Executive Order 12211 \[set out above\], issued April 17, 1980, in order to implement agreements with the Government of Iran, as reflected in Declarations of the Government of the Democratic and Popular Republic of Algeria dated January 19, 1981, relating to the release of U.S. diplomats and nationals being held as hostage and to the resolution of claims of United States nationals against Iran, and to begin the process of normalization of relations between the United States and Iran, it is hereby ordered that as of the effective date of this Order:
+By the authority vested in me as President by the Constitution and statutes of the United States, including Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702), Section 301 of Title 3 of the United States Code, Section 1732 of Title 22 of the United States Code, and Section 301 of the National Emergencies Act (50 U.S.C. 1631), in view of the continuing unusual and extraordinary threat to the national security, foreign policy and economy of the United States upon which I based my declarations of national emergency in Executive Order 12170 \[set out above\], issued November 14, 1979, and in Executive Order 12211 \[set out above\], issued April 17, 1980, in order to implement agreements with the Government of Iran, as reflected in Declarations of the Government of the Democratic and Popular Republic of Algeriadated January 19, 1981, relating to the release of U.S. diplomats and nationals being held as hostage and to the resolution of claims of United States nationals against Iran, and to begin the process of normalization of relations between the United States and Iran, it is hereby ordered that as of the effective date of this Order:
 
 1–101. The prohibitions contained in Executive Order 12205 of April 7, 1980 \[set out above\], and Executive Order 12211 of April 17, 1980 \[set out above\], and Proclamation 4702 of November 12, 1979 \[amending Proc. No. 3279, set out under section 1862 of Title 19, Customs Duties\], are hereby revoked.
 
@@ -1868,7 +1894,7 @@ Ex. Ord. No. 12283, Jan. 19, 1981, 46 F.R. 7927, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States, including Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702), Section 301 of Title 3 of the United States Code, Section 1732 of Title 22 of the United States Code, and Section 301 of the National Emergencies Act (50 U.S.C. 1631), in view of the continuing unusual and extraordinary threat to the national security, foreign policy and economy of the United States upon which I based my declarations of national emergency in Executive Order 12170 \[set out above\], issued November 14, 1979, and in Executive Order 12211 \[set out above\], issued April 17, 1980, in order to implement agreements with the Government of Iran, as reflected in Declarations of the Government of the Democratic and Popular Republic of Algeria dated January 19, 1981, relating to the release of U.S. diplomats and nationals being held as hostages and to the resolution of claims of United States nationals against Iran, and to begin the process of normalization of relations between the United States and Iran, it is hereby ordered that as of the effective date of this Order:
 
-1–101. The Secretary of the Treasury shall promulgate regulations: (a) prohibiting any person subject to U.S.jurisdiction from prosecuting in any court within the United States or elsewhere any claim against the Government of Iran arising out of events occurring before the date of this Order relating to (1) the seizure of the hostages on November 4, 1979, (2) their subsequent detention, (3) injury to United States property or property of United States nationals within the United States Embassy compound in Tehran after November 3, 1979, or (4) injury to United States nationals or their property as a result of popular movements in the course of the Islamic Revolution in Iran which were not an act of the Government of Iran; (b) prohibiting any person not a U.S. national from prosecuting any such claim in any court within the United States; (c) ordering the termination of any previously instituted judicial proceedings based upon such claims; and (d) prohibiting the enforcement of any judicial order issued in the course of such proceedings.
+1–101. The Secretary of the Treasury shall promulgate regulations: (a) prohibiting any person subject to U.S. jurisdiction from prosecuting in any court within the United States or elsewhere any claim against the Government of Iran arising out of events occurring before the date of this Order relating to (1) the seizure of the hostages on November 4, 1979, (2) their subsequent detention, (3) injury to United States property or property of United States nationals within the United States Embassy compound in Tehran after November 3, 1979, or (4) injury to United States nationals or their property as a result of popular movements in the course of the Islamic Revolution in Iran which were not an act of the Government of Iran; (b) prohibiting any person not a U.S. national from prosecuting any such claim in any court within the United States; (c) ordering the termination of any previously instituted judicial proceedings based upon such claims; and (d) prohibiting the enforcement of any judicial order issued in the course of such proceedings.
 
 1–102. The Attorney General of the United States is authorized and directed, immediately upon the issuance of regulations in accordance with Section 1–101, to take all appropriate measures to notify all appropriate courts of the existence of this Order and implementing regulations and the resulting termination of litigation.
 
@@ -1906,7 +1932,7 @@ Ex. Ord. No. 12285, Jan. 19, 1981, 46 F.R. 7931, as amended by Ex. Ord. No. 1230
 
 Ex. Ord. No. 12294, Feb. 24, 1981, 46 F.R. 14111, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States, including Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702), Section 301 of Title 3 of the United States Code, Section 1732 of Title 22 of the United States Code, and Section 301 of the National Emergencies Act (50 U.S.C. 1631), in view of the continuing unusual and extraordinary threat to the national security, foreign policy and economy of the United States upon which were based the declarations of national emergency in Executive Order No. 12170, issued November 14, 1979 \[set out above\], and in Executive Order No. 12211, issued April 17, 1980 \[set out above\], in light of the agreement with the Government of Iran, as reflected in the Declarations of the Government of the Democratic and Popular Republic of Algeria dated January 19, 1981, relating to the release of United States diplomats and nationals being held as hostages and to the resolution of claims of United States nationals against Iran, in order to implement Article II of the Declaration of Algeria concerning the settlement of claims and to begin the process of normalization of relations between the United States andIran, it is hereby ordered that as of the effective date of this Order:
+By the authority vested in me as President by the Constitution and statutes of the United States, including Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702), Section 301 of Title 3 of the United States Code, Section 1732 of Title 22 of the United States Code, and Section 301 of the National Emergencies Act (50 U.S.C. 1631), in view of the continuing unusual and extraordinary threat to the national security, foreign policy and economy of the United States upon which were based the declarations of national emergency in Executive Order No. 12170, issued November 14, 1979 \[set out above\], and in Executive Order No. 12211, issued April 17, 1980 \[set out above\], in light of the agreement with the Government of Iran, as reflected in the Declarations of the Government of the Democratic and Popular Republic of Algeria dated January 19, 1981, relating to the release of United States diplomats and nationals being held as hostages and to the resolution of claims of United States nationals against Iran, in order to implement Article II of the Declaration of Algeria concerning the settlement of claims and to begin the process of normalization of relations between the United States and Iran, it is hereby ordered that as of the effective date of this Order:
 
 Section 1. All claims which may be presented to the Iran-United States Claims Tribunal under the terms of Article II of the Declaration of the Government of the Democratic and Popular Republic of Algeria Concerning the Settlement of Claims by the Government of the United States of America and the Government of the Islamic Republic of Iran, and all claims for equitable or other judicial relief in connection with such claims, are hereby suspended, except as they may be presented to the Tribunal. During the period of this suspension, all such claims shall have no legal effect in any action now pending in any court of the United States, including the courts of any state or any locality thereof, the District of Columbia and Puerto Rico, or in any action commenced in any such court after the effective date of this Order. Nothing in this action precludes the commencement of an action after the effective date of this Order for the purpose of tolling the period of limitations for commencement of such action.
 
@@ -1974,7 +2000,7 @@ Ex. Ord. No. 12525, July 12, 1985, 50 F.R. 28757, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702) (hereinafter referred to as “IEEPA”), 22 U.S.C. 287c, and the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.) (hereinafter referred to as “the Act”), it is hereby ordered as follows:
 
-Section 1. In view of the extension by Public Law 99–64 (July 12, 1985) \[amending 50 App. U.S.C. 2419\] of the authorities contained in the Act, Executive Order No. 12470 of March 30, 1984, which continued in effectexport control regulations under IEEPA, is revoked, and the declaration of economic emergency is rescinded.
+Section 1. In view of the extension by Public Law 99–64 (July 12, 1985) \[amending 50 App. U.S.C. 2419\] of the authorities contained in the Act, Executive Order No. 12470 of March 30, 1984, which continued in effect export control regulations under IEEPA, is revoked, and the declaration of economic emergency is rescinded.
 
 Sec. 2. The revocation of Executive Order No. 12470 shall not affect any violation of any rules, regulations, orders, licenses, and other forms of administrative action under that Order that occurred during the period that Order was in effect. All rules and regulations issued or continued in effect under the authority of the IEEPA and that Order, including those published in Title 15, Chapter III, Subchapter C, of the Code of Federal Regulations, Parts 368 to 399 inclusive, and all orders, regulations, licenses, and other forms of administrative action issued, taken or continued in effect pursuant thereto, shall remain in full force and effect, as if issued, taken or continued in effect pursuant to and as authorized by the Act or by other appropriate authority until amended or revoked by the proper authority. Nothing in this Order shall affect the continued applicability of the provision for the administration of the Act and delegations of authority set forth in Executive Order No. 12002 of July 7, 1977, and Executive Order No. 12214 of May 2, 1980 \[set out under 50 App. U.S.C. 2403\].
 
@@ -2018,7 +2044,7 @@ Section 1. The following are prohibited, except to the extent provided in regula
 
 (f) The grant or extension of credits or loans by any United States person to the Government of Libya, its instrumentalities and controlled entities;
 
-(g) Any transaction by a United States person relating to travel by any United States citizen or permanent resident alien to Libya, or to activities by any such person within Libya, after the date of this Order, other than transactions necessary to effect such person's departure from Libya, to perform acts permitted until February 1, 1986, by Section 3 of this Order, or travel for journalistic activity by persons regularly employed in such capacity by a newsgathering organization; and
+(g) Any transaction by a United States person relating to travel by any United States citizen or permanent resident alien to Libya, or to activities by any such person within Libya, after the date of this Order, other than transactions necessary to effect such person's departure from Libya, to perform acts permitted untilFebruary 1, 1986, by Section 3 of this Order, or travel for journalistic activity by persons regularly employed in such capacity by a newsgathering organization; and
 
 (h) Any transaction by any United States person which evades or avoids, or has the purpose of evading or avoiding, any of the prohibitions set forth in this Order.
 
@@ -2036,17 +2062,19 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 12543
 
-Notice of President of the United States, dated Jan. 4, 2001, 66 F.R. 1251, provided:
+Notice of President of the United States, dated Jan. 3, 2002, 67 F.R. 637, provided:
 
 On January 7, 1986, by Executive Order 12543 \[set out above\], President Reagan declared a national emergency to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions and policies of the Government of Libya. On January 8, 1986, by Executive Order 12544 \[set out below\], the President took additional measures to block Libyan assets in the United States. The President has transmitted a notice continuing this emergency to the Congress and the Federal Register every year since 1986.
 
-The crisis between the United States and Libya that led to the declaration of a national emergency on January 7, 1986, has not been resolved. Despite the United Nations Security Council's suspension of U.N. sanctions against Libya upon the Libyan government's hand over of the Pan Am 103 bombing suspects, there are still concerns about the Libyan government's support for terrorist activities and its noncompliance with United Nations Security Council Resolutions 731 (1992), 748 (1992), and 883 (1993).
+The crisis between the United States and Libya that led to the declaration of a national emergency on January 7, 1986, has not been resolved. Despite the United Nations Security Council's suspension of U.N. sanctions against Libya upon the Libyan government's hand over of the Pan Am 103 bombing suspects, Libya has not yet complied with its obligations under U.N. Security Council Resolutions 731 (1992), 748 (1992), and 883 (1993), which include Libya's obligation to accept responsibility for the actions of its officials and pay compensation.
 
-Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Libya. This notice shall be published in the Federal Register and transmitted to the Congress.
+Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency with respect to Libya. This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 12543 were contained in the following:
+
+Notice of President of the United States, dated Jan. 4, 2001, 66 F.R. 1251.
 
 Notice of President of the United States, dated Dec. 29, 1999, 65 F.R. 1999.
 
@@ -2122,7 +2150,7 @@ Ex. Ord. No. 12710, Apr. 5, 1990, 55 F.R. 13099, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (hereinafter referred to as “IEEPA”), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) (hereinafter referred to as “the NEA”), chapter 12 of title 50 of the United States Code (50 U.S.C. 191 <i>et seq</i>.), and section 301 of title 3 of the United States Code.
 
-I, GEORGE BUSH, President of the United States of America, find that the restoration of a democratically elected government in Panama has ended the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States previously posed by the policies and actions of Manuel Antonio Noriega in that country, and the need to continuethe national emergency declared in Executive Order No. 12635 of April 8, 1988, to deal with that threat.
+I, GEORGE BUSH, President of the United States of America, find that the restoration of a democratically elected government in Panama has ended the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States previously posed by the policies and actions of Manuel Antonio Noriega in that country, and the need to continue the national emergency declared in Executive Order No. 12635 of April 8, 1988, to deal with that threat.
 
 I hereby revoke Executive Order No. 12635 and terminate the national emergency declared in that order with respect to Panama.
 
@@ -2166,7 +2194,7 @@ For purposes of this Order, the term “United States person” means any United
 
 Section 3. This Order is effective immediately.
 
-Section 4. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, as may be necessary to carry out the purposes of this Order. Such actions may include prohibiting or regulating payments or transfers of any property or any transactions involving the transfer of anything of economic value by any United States person to the Government of Iraq, its instrumentalities and controlled entities, or to any Iraqi national or entity owned or controlled, directly or indirectly, by Iraq or Iraqi nationals. The Secretary may redelegate any of these functions to other officers and agencies of the Federal government. All agencies of the United States government are directed to take all appropriate measures within their authority to carry out the provisions of this Order, including the suspension or termination of licenses or other authorizations in effect as of the date of this Order.
+Section 4. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, as may be necessary to carry out the purposes of this Order. Such actions may include prohibiting or regulating payments or transfers of any property or any transactions involving the transfer of anything of economic value by any United States person to the Government of Iraq, its instrumentalities and controlled entities, or to any Iraqi national or entity owned or controlled, directly or indirectly, by Iraq or Iraqi nationals. The Secretary may redelegate any of these functions to other officers andagencies of the Federal government. All agencies of the United States government are directed to take all appropriate measures within their authority to carry out the provisions of this Order, including the suspension or termination of licenses or other authorizations in effect as of the date of this Order.
 
 This Order shall be transmitted to the Congress and published in the Federal Register.
 
@@ -2176,15 +2204,17 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 12722
 
-Notice of President of the United States, dated July 28, 2000, 65 F.R. 47241, provided:
+Notice of President of the United States, dated July 31, 2001, 66 F.R. 40105, provided:
 
-On August 2, 1990, by Executive Order 12722 \[set out above\], President Bush declared a national emergency to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions and policies of the Government of Iraq. By Executive Orders 12722 of August 2, 1990, and 12724 of August 9, 1990 \[set out below\], the President imposed trade sanctions on Iraq and blocked Iraqi government assets. Because the Government of Iraq has continued its activities hostile to United States interests in the Middle East, the national emergency declared on August 2, 1990, and the measures adopted on August 2 and August 9, 1990, to deal with that emergency must continue in effect beyond August 2, 2000. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Iraq.
+On August 2, 1990, by Executive Order 12722 \[set out above\], President Bush declared a national emergency to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions and policies of the Government of Iraq. By Executive Orders 12722 of August 2, 1990, and 12724 of August 9, 1990 \[set out below\], the President imposed trade sanctions on Iraq and blocked Iraqi government assets. Because the Government of Iraq has continued its activities hostile to United States interests in the Middle East, the national emergency declared on August 2, 1990, and the measures adopted on August 2 and August 9, 1990, to deal with that emergency must continue in effect beyond August 2, 2001. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Iraq.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 12722 were contained in the following:
+
+Notice of President of the United States, dated July 28, 2000, 65 F.R. 47241.
 
 Notice of President of the United States, dated July 20, 1999, 64 F.R. 39897.
 
@@ -2244,7 +2274,7 @@ Sec. 3. For purposes of this order:
 
 Sec. 4. This order is effective immediately.
 
-Sec. 5. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, as may be necessary to carry out the purposes of this order. Such actions may include prohibiting or regulating payments or transfers of any property or any transactions involving the transfer of anything of economic value by any United States person to the Government of Iraq, or to any Iraqi national or entity owned or controlled, directly or indirectly, by the Government of Iraq or Iraqi nationals. The Secretary of the Treasury may redelegate any of these functions to other officers and agencies of the Federal Government. All agencies of the Federal Government are directed to take all appropriate measures within their authority to carry out the provisions of this order, including the suspension or termination of licenses or other authorizations in effect as of the date of this order.
+Sec. 5. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized totake such actions, including the promulgation of rules and regulations, as may be necessary to carry out the purposes of this order. Such actions may include prohibiting or regulating payments or transfers of any property or any transactions involving the transfer of anything of economic value by any United States person to the Government of Iraq, or to any Iraqi national or entity owned or controlled, directly or indirectly, by the Government of Iraq or Iraqi nationals. The Secretary of the Treasury may redelegate any of these functions to other officers and agencies of the Federal Government. All agencies of the Federal Government are directed to take all appropriate measures within their authority to carry out the provisions of this order, including the suspension or termination of licenses or other authorizations in effect as of the date of this order.
 
 Sec. 6. Executive Order No. 12722 of August 2, 1990 \[set out above\], is hereby revoked to the extent inconsistent with this order. All delegations, rules, regulations, orders, licenses, and other forms of administrative action made, issued, or otherwise taken under Executive Order No. 12722 and not revoked administratively shall remain in full force and effect under this order until amended, modified, or terminated by proper authority. The revocation of any provision of Executive Order No. 12722 pursuant to this section shall not affect any violation of any rules, regulations, orders, licenses, or other forms of administrative action under that order during the period that such provision of that order was in effect.
 
@@ -2320,7 +2350,7 @@ Ex. Ord. No. 12779, Oct. 28, 1991, 56 F.R. 55975, which directed Secretary of th
 
 Ex. Ord. No. 12801, Apr. 15, 1992, 57 F.R. 14319, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701, <i>et seq</i>.), the National Emergencies Act (50 U.S.C. 1601, <i>et seq</i>.), section 1114 of the Federal Aviation Act of 1958, as amended (49 U.S.C. App. 1514) \[now 49 U.S.C. 40106(b)\], section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), and section 301 of title 3 of the United States Code, in view of United Nations Security Council Resolutions Nos. 731 of January 21, 1992, and 748 of March 31, 1992, and in order to take additional steps with respect to Libya's continued support for international terrorism and the national emergency declared in Executive Order No. 12543 of January 7, 1986 \[set out above\], it is hereby ordered that:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including the International Emergency Economic Powers Act (50 U.S.C. 1701, <i>et seq</i>.), the National Emergencies Act (50 U.S.C. 1601, <i>et seq</i>.), section 1114 of the Federal Aviation Act of 1958, as amended (49 U.S.C. App. 1514) \[now 49 U.S.C. 40106(b)\], section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), and section 301 of title 3 of the United States Code, in view of United Nations Security Council Resolutions Nos. 731 of January 21, 1992, and 748 of March 31, 1992, and in order to take additional steps with respect to Libya's continued support for international terrorism and the national emergency declared in Executive Order No. 12543 of January 7, 1986 \[set out above\], it is hereby ordered that:
 
 Section 1. Except to the extent provided in regulations, orders, directives, authorizations, or licenses that may hereafter be issued pursuant to this order, and notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted before the effective date of this order, the granting of permission to any aircraft to take off from, land in, or overfly the United States, if the aircraft, as part of the same flight or as a continuation of that flight, is destined to land in or has taken off from the territory of Libya, is hereby prohibited.
 
@@ -2370,23 +2400,29 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Ex. Ord. Nos. 12808 and 13088
 
-Notice of President of the United States, dated May 25, 2000, 65 F.R. 34379, provided:
+Notice of President of the United States, dated May 24, 2001, 66 F.R. 29007, provided:
 
-In accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared on May 30, 1992 \[see Ex. Ord. No. 12808, set out above\], with respect to the Federal Republic of Yugoslavia (Serbia and Montenegro), as expanded on October 25, 1994 \[see Ex. Ord. No. 12934, set out below\], in response to the actions and policies of the Bosnian Serbs. In addition, I am continuing for 1 year the national emergency declared on June 9, 1998 \[see Ex. Ord. No. 13088, set out below\], with respect to the Federal Republic of Yugoslavia's policies and actions in Kosovo. This notice shall be published in the Federal Register and transmitted to the Congress.
+In accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared on May 30, 1992 \[see Ex. Ord. No. 12808, set out above\], with respect to the Federal Republic of Yugoslavia (Serbia and Montenegro) (the “FRY (S\&M)”), as expanded on October 25, 1994 \[see Ex. Ord. No. 12934, set out below\], in response to the actions and policies of the Bosnian Serbs. In addition, I am continuing for 1 year the national emergency declared on June 9, 1998 \[see Ex. Ord. No. 13088, set out below\], with respect to the FRY (S\&M)'s policies and actions in Kosovo. This notice shall be published in the Federal Register and transmitted to the Congress.
 
-On May 30, 1992, by Executive Order 12808, President Bush declared a national emergency to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the actions and policies of the Governments of Serbia and Montenegro, blocking all property and interests in property of those Governments. President Bush took additional measures to prohibit trade and other transactions with the Federal Republic of Yugoslavia (Serbia and Montenegro) by Executive Orders 12810 and 12831 \[set out below\], issued on June 5, 1992, and January 15, 1993, respectively, and on April 25, 1993, I issued Executive Order 12846 \[set out below\] imposing additional measures.
+On May 30, 1992, by Executive Order 12808 \[set out above\], President Bush declared a national emergency to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the actions and policies of the Governments of Serbia and Montenegro, blocking all property and interests in property of those Governments. President Bush took additional measures to prohibit trade and other transactions with the FRY (S\&M) by Executive Orders 12810 and 12831 \[set out below\], issued on June 5, 1992, and January 15, 1993, respectively, and on April 25, 1993, President Clinton issued Executive Order 12846 \[set out below\] imposing additional measures.
 
-On October 25, 1994, I expanded the scope of the national emergency by issuing Executive Order 12934 to address the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by the actions and policies of the Bosnian Serb forces and the authorities in the territory that they controlled within Bosnia and Herzegovina.
+On October 25, 1994, President Clinton expanded the scope of the national emergency by issuing Executive Order 12934 \[set out below\] to address the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by the actions and policies of the Bosnian Serb forces and the authorities in the territory that they controlled within Bosnia and Herzegovina.
 
-On December 27, 1995, I issued Presidential Determination 96–7 \[set out above\], directing the Secretary of the Treasury, <i>inter alia</i>, to suspend the application of sanctions imposed on the Federal Republic of Yugoslavia (Serbia and Montenegro) pursuant to the above-referenced Executive orders and to continue to blockproperty previously blocked until provision is made to address claims or encumbrances, including the claims of the other successor states of the former Yugoslavia. This sanctions relief, in conformity with United Nations Security Council Resolution 1022 of November 22, 1995 (hereinafter the “Resolution”), was an essential factor motivating Serbia and Montenegro's acceptance of the General Framework Agreement for Peace in Bosnia and Herzegovina initialed by the parties in Dayton on November 21, 1995, and signed in Paris on December 14, 1995 (hereinafter the “Peace Agreement”). The sanctions imposed on the Federal Republic of Yugoslavia (Serbia and Montenegro) were accordingly suspended prospectively, effective January 16, 1996. Sanctions imposed on the Bosnian Serb forces and authorities and on the territory that they control within Bosnia and Herzegovina were subsequently suspended prospectively, effective May 10, 1996, also in conformity with the Peace Agreement and the Resolution. Sanctions against both the Federal Republic of Yugoslavia (Serbia and Montenegro) and the Bosnian Serbs were subsequently terminated by United Nations Security Council Resolution 1074 of October 1, 1996. This termination, however, did not end the requirement of the Resolution that those blocked funds and assets that are subject to claims and encumbrances remain blocked, until unblocked in accordance with applicable law.
+On December 27, 1995, President Clinton issued Presidential Determination 96–7 \[set out above\], directing the Secretary of the Treasury, <i>inter alia</i>, to suspend the application of sanctions imposed on the FRY (S\&M) pursuant to the above-referenced Executive Orders and to continue to block property previously blocked until provision is made to address claims or encumbrances, including the claims of the other successor states of the former Yugoslavia. This sanctions relief, in conformity with United Nations Security Council Resolution 1022 of November 22, 1995 (hereinafter the “Resolution”), was an essential factor motivating the FRY (S\&M)'s acceptance of the General Framework Agreement for Peace in Bosnia and Herzegovina initialed by the parties in Dayton on November 21, 1995, and signed in Paris on December 14, 1995 (hereinafter the “Peace Agreement”). The sanctions imposed on the FRY (S\&M) were accordingly suspended prospectively, effective January 16, 1996. Sanctions imposed on the Bosnian Serb forces and authorities and on the territory that they controlled within Bosnia and Herzegovina were subsequently suspended prospectively, effective May 10, 1996, also in conformity with the Peace Agreement and the Resolution. Sanctions against both the FRY (S\&M) and the Bosnian Serbs were subsequently terminated by United Nations Security Council Resolution 1074 of October 1, 1996. This termination, however, did not end the requirement of the Resolution that those blocked funds and assets that are subject to claims and encumbrances remain blocked, until unblocked in accordance with applicable law.
 
-Until the status of all remaining blocked property is resolved, the Peace Agreement implemented, and the terms of the Resolution met, the national emergency declared on May 30, 1992, as expanded in scope on October 25, 1994, must continue beyond May 30, 2000.
+Until the status of all remaining blocked property is resolved, the Peace Agreement implemented, and the terms of the Resolution met, the national emergency declared on May 30, 1992, as expanded in scope on October 25, 1994, and the measures adopted pursuant thereto to deal with that emergency, must continue beyond May 30, 2001.
 
-On June 9, 1998, by Executive Order 13088, I found that the actions and policies of the Federal Republic of Yugoslavia (Serbia and Montenegro) and the Republic of Serbia with respect to Kosovo, by promoting ethnic conflict and human suffering, threatened to destabilize countries in the region and to disrupt progress in Bosnia and Herzegovina in implementing the Dayton peace agreement, constituted an unusual and extraordinary threat to the national security and foreign policy of the United States. I therefore declared a national emergency to deal with that threat. On April 30, 1999, I issued Executive Order 13121 \[set out below\] to take additional steps with respect to the continuing human rights and humanitarian crisis in Kosovo and the national emergency declared with respect to Kosovo. Because the crisis with respect to the situation in Kosovo has not been resolved, I have determined that it is necessary to maintain in force these emergency authorities beyond June 9, 2000.
+On June 9, 1998, by Executive Order 13088 \[set out below\], President Clinton found that the actions and policies of the FRY (S\&M) and the Republic of Serbia with respect to Kosovo, by promoting ethnic conflict and human suffering, threatened to destabilize countries in the region and to disrupt progress in Bosnia and Herzegovina in implementing the Peace Agreement, constituted an unusual and extraordinary threat to the national security and foreign policy of the United States. President Clinton therefore declared a national emergency to deal with that threat. On April 30, 1999, President Clinton issued Executive Order 13121 \[amending Ex. Ord. No. 13088, set out below\] to take additional steps with respect to the continuing human rights and humanitarian crisis in Kosovo and the national emergency declared with respect to Kosovo.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+On January 17, 2001, President Clinton issued Executive Order 13192 \[amending Ex. Ord. No. 13088, set out below\] in view of the peaceful democratic transition begun in the FRY (S\&M); the continuing need to promote full implementation of United Nations Security Council Resolution 827 of May 25, 1993, and subsequent resolutions calling for all states to cooperate fully with the International Criminal Tribunal for the former Yugoslavia (ICTY); the illegitimate control over FRY (S\&M) political institutions and economic resources or enterprises exercised by former President Slobodan Milosevic, his close associates and other persons, and those individuals’ capacity to repress democracy or perpetrate or promote further human rights abuses; and the continuing threat to regional stability and implementation of the Peace Agreement. Executive Order 13192 amends Executive Order 13088 to lift and modify, with respect to future transactions, most of the economic sanctions imposed against the FRY (S\&M). At the same time, Executive Order 13192 imposes restrictions on transactions with certain persons described in section 1(a) of the order, namely Slobodan Milosevic, his close associates and supporters and persons under open indictment for war crimes by the ICTY. The Executive Order also provides for the continued blocking of property or interests in property blocked prior to the order's effective date due to the need to address claims or encumbrances involving such property.
+
+Because the crisis with respect to the situation in Kosovo and with respect to Slobodan Milosevic, his close associates and supporters and persons under open indictment for war crimes by ICTY has not been resolved, and because the status of all previously blocked property has yet to be resolved, I have determined that the national emergency declared on June 9, 1998, and the measures adopted pursuant thereto to deal with that emergency, must continue beyond June 9, 2001.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 12808 were contained in the following:
+
+Notice of President of the United States, dated May 25, 2000, 65 F.R. 34379.
 
 Notice of President of the United States, dated May 27, 1999, 64 F.R. 29205.
 
@@ -2422,7 +2458,7 @@ Sec. 2. The following are prohibited, notwithstanding the existence of any right
 
 (c) Any dealing by a United States person related to property originating in the Federal Republic of Yugoslavia (Serbia and Montenegro) exported from the Federal Republic of Yugoslavia (Serbia and Montenegro) after May 30, 1992, or property intended for exportation from the Federal Republic of Yugoslavia (Serbia and Montenegro) to any country, or exportation to the Federal Republic of Yugoslavia (Serbia and Montenegro) from any country, or any activity of any kind that promotes or is intended to promote such dealing;
 
-(d) Any transaction by a United States person, or involving the use of U.S.-registered vessels and aircraft, relating to transportation to or from the Federal Republic of Yugoslavia (Serbia and Montenegro), the provision of transportation to or from the United States by any person in the Federal Republic of Yugoslavia (Serbia and Montenegro) or any vessel or aircraft registered in the Federal Republic of Yugoslavia (Serbia and Montenegro), or the sale in the United States byany person holding authority under the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301, <i>et seq</i>.) \[now 49 U.S.C. 40101 et seq.\], of any transportation by air that includes any stop in the Federal Republic of Yugoslavia (Serbia and Montenegro);
+(d) Any transaction by a United States person, or involving the use of U.S.-registered vessels and aircraft, relating to transportation to or from the Federal Republic of Yugoslavia (Serbia and Montenegro), the provision of transportation to or from the United States by any person in the Federal Republic of Yugoslavia (Serbia and Montenegro) or any vessel or aircraft registered in the Federal Republic of Yugoslavia (Serbia and Montenegro), or the sale in the United States by any person holding authority under the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301, <i>et seq</i>.) \[now 49 U.S.C. 40101 et seq.\], of any transportation by air that includes any stop in the Federal Republic of Yugoslavia (Serbia and Montenegro);
 
 (e) The granting of permission to any aircraft to take off from, land in, or overfly the United States, if the aircraft, as part of the same flight or as a continuation of that flight, is destined to land in or has taken off from the territory of the Federal Republic of Yugoslavia (Serbia and Montenegro);
 
@@ -2446,7 +2482,7 @@ Sec. 5. For the purposes of this order:
 
 (c) The term “the Government of the Federal Republic of Yugoslavia (Serbia and Montenegro)” includes the government of the newly constituted Federal Republic of Yugoslavia, the Government of Serbia, and the Government of Montenegro, including any subdivisions thereof or local governments therein, their respective agencies, instrumentalities and controlled entities, and any persons acting or purporting to act for or on behalf of any of the foregoing, including the National Bank of Yugoslavia, the Yugoslav National Army, and the Yugoslav Chamber of Economy, the National Bank of Serbia, the Serbian Chamber of Economy, the National Bank of Montenegro, and the Montenegrin Chamber of Economy.
 
-Sec. 6. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] and the United Nations Participation Act \[22 U.S.C. 287 et seq.\], as may be necessary to carry out the purposes of this order. Such actions may include prohibiting or regulating payments or transfers of any property, or any transactions involving the transfer of anything of economic value by the \[sic\] any United States person to the Government of the Federal Republic of Yugoslavia (Serbia and Montenegro), any person in the Federal Republic of Yugoslavia (Serbia and Montenegro), or any person or entity acting for or on behalf of, or owned or controlled, directly or indirectly, by any of the foregoing. The Secretary of the Treasury may redelegate any of these functions to other officers and agencies of the United States Government, all agencies of which are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order, including suspension or termination of licenses or other authorizations in effect as of the date of this order.
+Sec. 6. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rulesand regulations, and to employ all powers granted to the President by the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] and the United Nations Participation Act \[22 U.S.C. 287 et seq.\], as may be necessary to carry out the purposes of this order. Such actions may include prohibiting or regulating payments or transfers of any property, or any transactions involving the transfer of anything of economic value by the \[sic\] any United States person to the Government of the Federal Republic of Yugoslavia (Serbia and Montenegro), any person in the Federal Republic of Yugoslavia (Serbia and Montenegro), or any person or entity acting for or on behalf of, or owned or controlled, directly or indirectly, by any of the foregoing. The Secretary of the Treasury may redelegate any of these functions to other officers and agencies of the United States Government, all agencies of which are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order, including suspension or termination of licenses or other authorizations in effect as of the date of this order.
 
 Sec. 7. All delegations, rules, regulations, orders, licenses, and other forms of administrative action made, issued, or otherwise taken under Executive Order No. 12808 \[set out above\] and not revoked administratively shall remain in full force and effect under this order until amended, modified, or terminated by proper authority.
 
@@ -2470,7 +2506,7 @@ Section 1. The Secretary of the Treasury is authorized and directed to take all 
 
 Sec. 2. Upon a determination by the Secretary of the Treasury that funds or other assets in which the Government of Iraq or its agencies, instrumentalities, or controlled entities have an interest represent the proceeds of the sale of Iraqi petroleum or petroleum products, paid for by or on behalf of the purchaser on or after August 6, 1990, each and every United States financial institution is directed and compelled to transfer such funds or assets held by it or carried on its books to the Federal Reserve Bank of New York, when, to the extent, and in the manner required by the Secretary of the Treasury.
 
-Sec. 3. The Federal Reserve Bank of New York, as fiscal agent of the United States, is authorized, directed, and compelled to receive funds and other assets inwhich the Government of Iraq or its agencies, instrumentalities, or controlled entities have an interest, and to hold, invest, or transfer such funds and assets, and any earnings thereon, when, to the extent, and in the manner required by the Secretary of the Treasury in order to fulfill the rights and obligations of the United States under United Nations Security Council Resolution No. 778.
+Sec. 3. The Federal Reserve Bank of New York, as fiscal agent of the United States, is authorized, directed, and compelled to receive funds and other assets in which the Government of Iraq or its agencies, instrumentalities, or controlled entities have an interest, and to hold, invest, or transfer such funds and assets, and any earnings thereon, when, to the extent, and in the manner required by the Secretary of the Treasury in order to fulfill the rights and obligations of the United States under United Nations Security Council Resolution No. 778.
 
 Sec. 4. Compliance with this order, or any regulation, instruction, or direction issued under this order, licensing, authorizing, directing, or compelling the transfer of the blocked funds and other assets described in section 2 of this order, or funds and other assets received from the United Nations in repayment of funds and assets transferred pursuant to section 2 of this order, shall, to the extent thereof, be a full acquittance and discharge for all purposes of the obligation of the person making the transfer. No person shall be held liable in any court for or with respect to anything done or omitted in good faith in connection with the administration of, or pursuant to and in reliance on, this order or any regulation, instruction, or direction issued hereunder. The operation of this order shall have no effect on rights, debts, and claims existing with respect to funds or other assets prior to their transfer to the Federal Reserve Bank of New York.
 
@@ -2538,7 +2574,7 @@ Section 1. Notwithstanding the existence of any rights or obligations conferred 
 
 (e) Any dealing by a United States person relating to the importation from, exportation to, or transshipment through the United Nations Protected Areas in the Republic of Croatia and those areas of the Republic of Bosnia-Hercegovina under the control of Bosnian Serb forces, or activity of any kind that promotes or is intended to promote such dealing, is prohibited.
 
-Sec. 2. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] and the United Nations Participation Act \[22 U.S.C. 287 et seq.\] as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may redelegate the authority set forth in this order to other officers and agencies of the Federal Government, all agencies of which are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order, including suspension or termination of licenses or other authorizations in effect as of the date of this order.
+Sec. 2. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] and the United Nations Participation Act \[22 U.S.C. 287 et seq.\] as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may redelegate the authority set forth in this order to other officers and agencies of the Federal Government, all agencies ofwhich are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order, including suspension or termination of licenses or other authorizations in effect as of the date of this order.
 
 Sec. 3. Nothing in this order shall apply to activities related to the United Nations Protection Force, the International Conference on the Former Yugoslavia, and the European Community Monitor Mission.
 
@@ -2606,17 +2642,21 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 12865
 
-Notice of President of the United States, dated Sept. 22, 2000, 65 F.R. 57721, provided:
+Notice of President of the United States, dated Sept. 24, 2001, 66 F.R. 49084, provided:
 
-On September 26, 1993, by Executive Order 12865 \[set out above\], I declared a national emergency to deal with the unusual and extraordinary threat to the foreign policy of the United States constituted by the actions and policies of the National Union for the Total Independence of Angola (UNITA), prohibiting the sale or supply by United States persons or from the United States, or using U.S. registered vessels or aircraft, of arms, related materiel of all types, petroleum, and petroleum products to the territory of Angola, other than through designated points of entry. The order also prohibits the sale or supply of such commodities to UNITA. On December 12, 1997, in order to take additional steps with respect to the national emergency declared in Executive Order 12865, I issued Executive Order 13069 \[set out below\], closing all UNITA offices in the United States and imposing additional sanctions with regard to the sale or supply of aircraft or aircraft parts, the granting of take-off, landing and overflight permission, and the provision of certain aircraft-related services. On August 18, 1998, in order to take further steps with respect to the national emergency declared in Executive Order 12865, I issued Executive Order 13098 \[set out below\], blocking all property and interests in property of UNITA and designated UNITA officials and adult members of their immediate families, prohibiting the importation of certain diamonds exported from Angola, and imposing additional sanctions with regard to the sale or supply of equipment used in mining, motorized vehicles, watercraft, spare parts for motorized vehicles or watercraft, mining services, and ground or waterborne transportation services.
+In accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared by President Clinton on September 26, 1993, by Executive Order 12865\[set out above\], to deal with the unusual and extraordinary threat to the foreign policy of the United States constituted by the actions and policies of the National Union for the Total Independence of Angola (UNITA). The order prohibits the sale or supply by United States persons or from the United States, or using U.S. registered vessels or aircraft, of arms, related materiel of all types, petroleum, and petroleum products to the territory of Angola, other than through designated points of entry. The order also prohibits the sale or supply of such commodities to UNITA.
 
-Because of our continuing international obligations and because of the prejudicial effect that discontinuation of the sanctions would have on prospects for peace in Angola, the national emergency declared on September 26, 1993, and the measures adopted pursuant thereto to deal with that emergency, must continue in effect beyond September 26, 2000. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to UNITA.
+President Clinton took additional measures with respect to the national emergency declared in Executive Order 12865 by issuing Executive Orders 13069 \[set out below\] and 13098 \[set out below\] on December 12, 1997, and August 18, 1998, respectively. Those orders close all UNITA offices in the United States, block all property and interests in property of UNITA and designated UNITA officials and adult members of their immediate families, prohibit the importation of certain diamonds exported from Angola, and impose additional sanctions with respect to the provision of mining and transportation equipment and services.
+
+Because of our continuing international obligations and the prejudicial effect that discontinuation of the sanctions would have on prospects for peace in Angola, the national emergency declared on September 26, 1993, and the measures adopted pursuant thereto to deal with that emergency, must continue in effect beyond September 26, 2001. Therefore, I am continuing the national emergency with respect to UNITA.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 12865 were contained in the following:
+
+Notice of President of the United States, dated Sept. 22, 2000, 65 F.R. 57721.
 
 Notice of President of the United States, dated Sept. 21, 1999, 64 F.R. 51419.
 
@@ -2674,37 +2714,13 @@ Ex. Ord. No. 12922, June 21, 1994, 59 F.R. 32645, which directed Secretary of th
 
 Ex. Ord. No. 12923, June 30, 1994, 59 F.R. 34551, which continued effectiveness of the Export Administration Act of 1979, 50 App. U.S.C. 2401 et seq., and of the orders, rules and regulations promulgated thereunder, was revoked by Ex. Ord. No. 12924, §4, Aug. 19, 1994, 59 F.R. 43438, set out below.
 
-#### Ex. Ord. No. 12924. Continuation of Export Control Regulations
+#### Executive Order No. 12924
 
-Ex. Ord. No. 12924, Aug. 19, 1994, 59 F.R. 43437, provided:
+Ex. Ord. No. 12924, Aug. 19, 1994, 59 F.R. 43437, which continued effectiveness of the Export Administration Act of 1979, 50 App. U.S.C. 2401 et seq., and of the orders, rules and regulations promulgated thereunder, was revoked by Ex. Ord. No. 13206, §1, Apr. 4, 2001, 66 F.R. 18397, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including but not limited to section 203 of the International Emergency Economic Powers Act (“Act”) (50 U.S.C. 1702), I, WILLIAM J. CLINTON, President of the United States of America, find that the unrestricted access of foreign parties to U.S. goods, technology, and technical data and the existence of certain boycott practices of foreign nations, in light of the expiration of the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.), constitute an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States and hereby declare a national emergency with respect to that threat.
+Continuations of national emergency declared by Ex. Ord. No. 12924 were contained in the following:
 
-Accordingly, in order (a) to exercise the necessary vigilance over exports and activities affecting the national security of the United States; (b) to further significantly the foreign policy of the United States, including its policy with respect to cooperation by U.S. persons with certain foreign boycott activities, and to fulfill its international responsibilities; and (c) to protect the domestic economy from the excessive drain of scarce materials and reduce the serious economic impact of foreign demand, it is hereby ordered as follows:
-
-Section 1. To the extent permitted by law, the provisions of the Export Administration Act of 1979, as amended, and the provisions for administration of the Export Administration Act of 1979, as amended, shall be carried out under this order so as to continue in full force and effect and amend, as necessary, the export control system heretofore maintained by the Export Administration regulations issued under the Export Administration Act of 1979, as amended. The delegations of authority set forth in Executive Order No. 12002 of July 7, 1977 \[50 App. U.S.C. 2403 note\], as amended by Executive Order No. 12755 of March 12, 1991; Executive Order No. 12214 of May 2, 1980 \[50 App. U.S.C. 2403 note\]; Executive Order No. 12735 of November 16, 1990; and Executive Order No. 12851 of June 11, 1993 \[22 U.S.C. 2797 note\], shall be incorporated in this order and shall apply to the exercise of authorities under this order.
-
-Sec. 2. All rules and regulations issued or continued in effect by the Secretary of Commerce under the authority of the Export Administration Act of 1979, as amended \[50 App. U.S.C. 2401 et seq.\], including those published in Title 15, Subtitle B, Chapter VII, Subchapter C, of the Code of Federal Regulations, Parts 768 through 799, and all orders, regulations, licenses, and other forms of administrative action issued, taken, or continued in effect pursuant thereto, shall, until amended or revoked by the Secretary of Commerce, remain in full force and effect as if issued or taken pursuant to this order, except that the provisions of sections 203(b)(2) and 206 of the Act (50 U.S.C. 1702(b)(2) and 1705) shall control over any inconsistent provisions in the regulations. Nothing in this section shall affect the continued applicability of administrative sanctions provided for by the regulations described above.
-
-Sec. 3. Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).
-
-Sec. 4. Executive Order No. 12923 of June 30, 1994, is revoked, and that declaration of emergency is rescinded. The revocation of Executive Order No. 12923 shall not affect any violation of any rules, regulations, orders, licenses, and other forms of administrative action under that order that occurred during the period the order was in effect.
-
-Sec. 5. This order shall be effective as of midnight between August 20, 1994, and August 21, 1994, and shall remain in effect until terminated.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Continuation of National Emergency Declared by Ex. Ord. No. 12924
-
-Notice of President of the United States, dated Aug. 3, 2000, 65 F.R. 48347, provided:
-
-On August 19, 1994, consistent with the authority provided me under the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.), I issued Executive Order 12924 \[set out above\]. In that order, I declared a national emergency with respect to the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States in light of the expiration of the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.). Because the Export Administration Act has not been renewed by the Congress, the national emergency declared on August 19, 1994, must continue in effect beyond August 19, 2000. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency declared in Executive Order 12924.
-
-This notice shall be published in the Federal Register and transmitted to the Congress.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Prior continuations of national emergency declared by Ex. Ord. No. 12924 were contained in the following:
+Notice of President of the United States, dated Aug. 3, 2000, 65 F.R. 48347.
 
 Notice of President of the United States, dated Aug. 10, 1999, 64 F.R. 44101.
 
@@ -2752,13 +2768,13 @@ Section 1. Notwithstanding the existence of any rights or obligations conferred 
 
 (d) any person acting for or on behalf of any person included within the scope of paragraph (a), (b), or (c) of this section; that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of United States persons, including their overseas branches, are blocked.
 
-Sec. 2. Notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted before the effective date of this order, except to the extent provided in regulations, orders, directives, or licenses, which may hereafter be issued pursuant to this order: (a) the provision or exportation of services to those areas of the Republic of Bosnia and Herzegovina under the control of Bosnian Serb forces, or to any person for the purpose of any businesscarried on in those areas, either from the United States or by a United States person, is prohibited; and
+Sec. 2. Notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted before the effective date of this order, except to the extent provided in regulations, orders, directives, or licenses, which may hereafter be issued pursuant to this order: (a) the provision or exportation of services to those areas of the Republic of Bosnia and Herzegovina under the control of Bosnian Serb forces, or to any person for the purpose of any business carried on in those areas, either from the United States or by a United States person, is prohibited; and
 
 (b) no vessel registered in the United States or owned or controlled by a United States person, other than a United States naval vessel, may enter the riverine ports of those areas of the Republic of Bosnia and Herzegovina under the control of Bosnian Serb forces.
 
 Sec. 3. Any transaction by any United States person that evades or avoids, or has the purpose of evading or avoiding, or attempts to violate, any of the prohibitions set forth in this order is prohibited.
 
-Sec. 4. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to me by the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] and the United Nations Participation Act of 1945 \[22 U.S.C. 287 et seq.\], as amended, as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may redelegate the authority set forth in this order to other officers and agencies of the United States Government, all agencies of which are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order, including suspension or termination of licenses or other authorizations in effect as of the date of this order.
+Sec. 4. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted tome by the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] and the United Nations Participation Act of 1945 \[22 U.S.C. 287 et seq.\], as amended, as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may redelegate the authority set forth in this order to other officers and agencies of the United States Government, all agencies of which are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order, including suspension or termination of licenses or other authorizations in effect as of the date of this order.
 
 Sec. 5. Nothing in this order shall apply to activities related to the United Nations Protection Force, the International Conference on the Former Yugoslavia, or the European Community Monitoring Missions.
 
@@ -2804,13 +2820,13 @@ Sec. 3. <i>Department of Commerce Controls</i>. (a) The Secretary of Commerce sh
 
 Sec. 4. <i>Measures Against Foreign Persons.</i>
 
-(a) <i>Determination by Secretary of State; Imposition of Measures</i>. Except to the extent provided in section 203(b) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)), where applicable, if the Secretary of State determines that a foreign person, on or after November 16, 1990, the effective date of Executive Order 12735, the predecessor order to Executive Order 12938, has materially contributed or attempted to contribute materially to the efforts of any foreign country, project, or entity of proliferation concern to use, acquire, design, develop, produce, or stockpile weapons of mass destruction or missiles capable of delivering such weapons, the measures set forth in subsections (b), (c), and (d) of this section shall be imposed on that foreign person to the extent determined by the Secretary of State in consultation with the implementing agency and other relevant agencies. Nothing in this section is intended to preclude the imposition on that foreignperson of other measures or sanctions available under this order or under other authorities.
+(a) <i>Determination by Secretary of State; Imposition of Measures</i>. Except to the extent provided in section 203(b) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)), where applicable, if the Secretary of State determines that a foreign person, on or after November 16, 1990, the effective date of Executive Order 12735, the predecessor order to Executive Order 12938, has materially contributed or attempted to contribute materially to the efforts of any foreign country, project, or entity of proliferation concern to use, acquire, design, develop, produce, or stockpile weapons of mass destruction or missiles capable of delivering such weapons, the measures set forth in subsections (b), (c), and (d) of this section shall be imposed on that foreign person to the extent determined by the Secretary of State in consultation with the implementing agency and other relevant agencies. Nothing in this section is intended to preclude the imposition on that foreign person of other measures or sanctions available under this order or under other authorities.
 
 (b) <i>Procurement Ban</i>. No department or agency of the United States Government may procure, or enter into any contract for the procurement of, any goods, technology, or services from any foreign person described in subsection (a) of this section.
 
 (c) <i>Assistance Ban</i>. No department or agency of the United States Government may provide any assistance to any foreign person described in subsection (a) of this section, and no such foreign person shall be eligible to participate in any assistance program of the United States Government.
 
-(d) <i>Import Ban</i>. The Secretary of the Treasury shall prohibit the importation into the United States of goods, technology, or services produced or provided by any foreign person described in subsection (a) of this section, other than information or informational materials within the meaning of section 203(b)(3) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)(3)).
+(d) <i>Import Ban</i>. The Secretary of the Treasury shall prohibit the importation into the United States ofgoods, technology, or services produced or provided by any foreign person described in subsection (a) of this section, other than information or informational materials within the meaning of section 203(b)(3) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)(3)).
 
 (e) <i>Termination</i>. Measures pursuant to this section may be terminated against a foreign person if the Secretary of State determines that there is reliable evidence that such foreign person has ceased all activities referred to in subsection (a) of this section.
 
@@ -2858,15 +2874,17 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 12938
 
-Notice of President of the United States, dated Nov. 9, 2000, 65 F.R. 68063, provided:
+Notice of President of the United States, dated Nov. 9, 2001, 66 F.R. 56965, provided:
 
-On November 14, 1994, by Executive Order 12938 \[set out above\], I declared a national emergency with respect to the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by the proliferation of nuclear, biological, and chemical weapons (weapons of mass destruction) and the means of delivering such weapons. Because the proliferation of weapons of mass destruction and the means of delivering them continues to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States, the national emergency first declared on November 14, 1994, and extended on November 14, 1995, November 12, 1996, November 13, 1997, November 12, 1998, and November 10, 1999, must continue in effect beyond November 14, 2000. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency declared in Executive Order 12938.
+On November 14, 1994, by Executive Order 12938 \[set out above\], President Clinton declared a national emergency with respect to the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by the proliferation of nuclear, biological, and chemical weapons (weapons of mass destruction) and the means of delivering such weapons. Because the proliferation of weapons of mass destruction and the means of delivering them continues to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States, the national emergency first declared on November 14, 1994, and extended on November 14, 1995, November 12, 1996, November 13, 1997, November 12, 1998, November 10, 1999, and November 12, 2000, must continue in effect beyond November 14, 2001. In accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency declared in Executive Order 12938.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 12938 were contained in the following:
+
+Notice of President of the United States, dated Nov. 9, 2000, 65 F.R. 68063.
 
 Notice of President of the United States, dated Nov. 10, 1999, 64 F.R. 61767.
 
@@ -2964,15 +2982,19 @@ Usama bin Muhammad bin Awad bin Ladin (a.k.a. Usama bin Ladin)
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 12947
 
-Notice of President of the United States, dated Jan. 19, 2001, 66 F.R. 7371, provided:
+Notice of President of the United States, dated Jan. 18, 2002, 67 F.R. 3033, provided:
 
-On January 23, 1995, by Executive Order 12947 \[set out above\], I declared a national emergency to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by grave acts of violence committed by foreign terrorists that disrupt the Middle East peace process. The order, issued pursuant to the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\], among other authorities, blocks the assets in the United States, or in the control of United States persons, of foreign terrorists who threaten to disrupt the Middle East peace process. I also prohibited transactions or dealings by United States persons in such property. On August 20, 1998, by Executive Order 13099 \[set out below\], I identified four additional persons, including Usama bin Ladin, who threaten to disrupt the Middle East peace process. I have annually transmitted notices of the continuation of this national emergency to the Congress and the Federal Register. Last year's notice of continuation was published in the Federal Register on January 21, 2000. Because terrorist activities continue to threaten the Middle East peace process and vital interests of the United States in the Middle East, the national emergency declared on January 23, 1995, and the measures made effective on January 24, 1995, to deal with that emergency must continue in effect beyond January 23, 2001. Therefore, in accordance with section 202(d)2 of the National Emergencies Act (50 U.S.C. 1622(d) of the National Emergencies Act (50 U.S.C. 1622(d)) \[sic\], I am continuing the national emergency with respect to foreign terrorists who threaten to disrupt the Middle East peace process.
+On January 23, 1995, by Executive Order 12947 \[set out above\], the President declared a national emergency pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701–1706) to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by grave acts of violence committed by foreign terrorists who threaten to disrupt the Middle East peace process. On August 20, 1998, by Executive Order 13099 \[amending Ex. Ord. No. 12947, set out above\], the President identified four additional persons, including Usama bin Laden, who threaten to disrupt the Middle East peace process.
+
+Because these terrorist activities continue to threaten the Middle East peace process and continue to pose an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States, the national emergency declared on January 23, 1995, as expanded on August 20, 1998, and the measures adopted on those dates to deal with that emergency, must continue in effect beyond January 23, 2002. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency with respect to foreign terrorists who threaten to disrupt the Middle East peace process.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 12947 were contained in the following:
+
+Notice of President of the United States, dated Jan. 19, 2001, 66 F.R. 7371.
 
 Notice of President of the United States, dated Jan. 19, 2000, 65 F.R. 3581.
 
@@ -3022,15 +3044,17 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 12957
 
-Notice of President of the United States, dated Mar. 13, 2000, 65 F.R. 13863, provided:
+Notice of President of the United States, dated Mar. 13, 2001, 66 F.R. 15013, provided:
 
-On March 15, 1995, by Executive Order 12957 \[set out above\], I declared a national emergency with respect to Iran pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701–1706) to deal with the threat to the national security, foreign policy, and economy of the United States constituted by the actions and policies of the Government of Iran, including its support for international terrorism, efforts to undermine the Middle East peace process, and acquisition of weapons of mass destruction and the means to deliver them. On May 6, 1995, I issued Executive Order 12959 \[set out below\] imposing more comprehensive sanctions to further respond to this threat, and on August 19, 1997, I issued Executive Order 13059 \[set out below\] consolidating and clarifying these previous orders. The last notice of continuation was published in the Federal Register on March 12, 1999.
+On March 15, 1995, by Executive Order 12957 \[set out above\], the President declared a national emergency with respect to Iran pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701–1706) to deal with the threat to the national security, foreign policy, and economy of the United States constituted by the actions and policies of the Government of Iran, including its support for international terrorism, efforts to undermine the Middle East peace process, and acquisition of weapons of mass destruction and the means to deliver them. On May 6, 1995, the President issued Executive Order 12959 \[set out below\] imposing more comprehensive sanctions to further respond to this threat, and on August 19, 1997, the President issued Executive Order 13059 \[set out below\] consolidating and clarifying the previous orders. The last notice of continuation was published in the Federal Register on March 14, 2000.
 
-Because the actions and policies of the Government of Iran continue to threaten the national security, foreign policy, and economy of the United States, the national emergency declared on March 15, 1995, must continue in effect beyond March 15, 2000. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Iran. Because the emergency declared by Executive Order 12957 constitutes an emergency separate from that declared on November 14, 1979, by Executive Order 12170 \[set out above\], this renewal is distinct from the emergency renewal of November 1999. This notice shall be published in the Federal Register and transmitted to the Congress.
+Because the actions and policies of the Government of Iran continue to threaten the national security, foreign policy, and economy of the United States, the national emergency declared on March 15, 1995, must continue in effect beyond March 15, 2001. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Iran. Because the emergency declared by Executive Order 12957 constitutes an emergency separate from that declared on November 14, 1979, by Executive Order 12170 \[set out above\], this renewal is distinct from the emergency renewal of November 2000. This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 12957 were contained in the following:
+
+Notice of President of the United States, dated Mar. 13, 2000, 65 F.R. 13863.
 
 Notice of President of the United States, dated Mar. 10, 1999, 64 F.R. 12239.
 
@@ -3146,13 +3170,15 @@ Helmer Herrera Buitrago
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 12978
 
-Notice of President of the United States, dated Oct. 19, 2000, 65 F.R. 63193, provided:
+Notice of President of the United States, dated Oct. 16, 2001, 66 F.R. 53073, provided:
 
-On October 21, 1995, by Executive Order 12978 \[set out above\], I declared a national emergency to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the actions of significant narcotics traffickers centered in Colombia, and the unparalleled violence, corruption, and harm they cause in the United States and abroad. The order blocks all property and interests in property of foreign persons listed in an Annex to the order \[see note above\], as well as persons determined to play a significant role in international narcotics trafficking centered in Colombia, to materially assist in, or provide financial or technological support for or goods or services in support of, narcotics trafficking activities of persons designated in or pursuant to the order, or to be owned or controlled by, or to act for or on behalf of, persons designated in or pursuant to the order. The order also prohibits any transaction or dealing by United States persons or within the United States in such property or interests in property. Because the activities of significant narcotics traffickers centered in Colombia continue to threaten the national security, foreign policy, and economy of the United States and to cause unparalleled violence, corruption, and harm in the United States and abroad, the national emergency declared on October 21, 1995, and the measures adopted pursuant thereto to deal with that emergency, must continue in effect beyond October 21, 2000. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency for 1 year with respect to significant narcotics traffickers centered in Colombia. This notice shall be published in the Federal Register and transmitted to the Congress.
+On October 21, 1995, by Executive Order 12978 \[set out above\], the President declared a national emergency to deal with the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States constituted by the actions of significant narcotics traffickers centered in Colombia, and the unparalleled violence, corruption, and harm such actions cause in the United States and abroad. The order blocks all property and interests in property that are in the United States or within the possession or control of United States persons or foreign persons listed in an annex to the order \[see note above\], as well as of foreign persons determined to play a significant role in international narcotics trafficking centered in Colombia. The order similarly blocks all property and interests in property of foreign persons determined to materially assist in, or provide financial or technological support for, or goods or services in support of, the narcotics trafficking activities of persons designated in or pursuant to the order, or persons determined to be owned or controlled by, or to act for or on behalf of, persons designated in or pursuant to the order. The order also prohibits any transaction or dealing by United States persons or within the United States in such property or interests in property. Because the actions of significant narcotics traffickers centered in Colombia continue to threaten the national security, foreign policy, and economy of the United States and to cause unparalleled violence, corruption, and harm in the United States and abroad, the national emergency declared on October 21, 1995, and the measures adopted pursuant thereto to deal with that emergency, must continue in effect beyond October 21, 2001. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency for 1 year with respect to significant narcotics traffickers centered in Colombia. This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 12978 were contained in the following:
+
+Notice of President of the United States, dated Oct. 19, 2000, 65 F.R. 63193.
 
 Notice of President of the United States, dated Oct. 19, 1999, 64 F.R. 56667.
 
@@ -3224,15 +3250,17 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 13047
 
-Notice of President of the United States, dated May 18, 2000, 65 F.R. 32005, provided:
+Notice of President of the United States, dated May 15, 2001, 66 F.R. 27443, provided:
 
-On May 20, 1997, I issued Executive Order 13047 \[set out above\], effective at 12:01 a.m. eastern daylight time on May 21, 1997, certifying to the Congress under section 570(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (Public Law 104–208 \[110 Stat. 3009–166\]), that the Government of Burma has committed large-scale repression of the democratic opposition in Burma after September 30, 1996, thereby invoking the prohibition on new investment in Burma by United States persons, contained in that section. I also declared a national emergency to deal with the threat posed to the national security and foreign policy of the United States by the actions and policies of the Government of Burma, invoking the authority, <i>inter alia</i>, of the International Emergency Economic Powers Act (50 U.S.C. 1701–1706).
+On May 20, 1997, the President issued Executive Order 13047 \[set out above\], certifying to the Congress under section 570(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997 (Public Law 104–208 \[110 Stat. 3009–166\]), that the Government of Burma has committed large-scale repression of the democratic opposition in Burma after September 30, 1996, thereby invoking the prohibition on new investment in Burma by United States persons, contained in that section. The President also declared a national emergency to deal with the threat posed to the national security and foreign policy of the United States by the actions and policies of the Government of Burma, invoking the authority, <i>inter alia</i>, of the International Emergency Economic Powers Act (50 U.S.C. 1703(c)).
 
-The National Emergency declared on May 20, 1997, must continue beyond May 20, 2000, because the Government of Burma continues its policies of committing large-scale repression of the democratic opposition in Burma. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Burma. This notice shall be published in the Federal Register and transmitted to the Congress.
+The national emergency declared on May 20, 1997, must continue beyond May 20, 2001, because the Government of Burma continues its policies of committing large-scale repression of the democratic opposition in Burma, threatening the national security and foreign policy of the United States. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Burma. This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 13047 were contained in the following:
+
+Notice of President of the United States, dated May 18, 2000, 65 F.R. 32005.
 
 Notice of President of the United States, dated May 18, 1999, 64 F.R. 27443.
 
@@ -3298,7 +3326,7 @@ Sec. 4. For the purposes of this order:
 
 (ii) a loan or other extension of credit, made after the effective date of Executive Order 12957 \[Mar. 16, 1995\] as to transactions prohibited by that order, or otherwise made after the effective date of Executive Order 12959 \[see Ex. Ord. No. 12959, §8(a), set out above\].
 
-Sec. 5. The Secretary of the Treasury, in consultation with the Secretary of State and, as appropriate, otheragencies, is hereby authorized to take such actions, including the promulgation of rules and regulations, the requirement of reports, including reports by United States persons on oil and related transactions engaged in by their foreign affiliates with Iran or the Government of Iran, and to employ all powers granted to me by IEEPA and the ISDCA as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may redelegate any of these functions to other officers and agencies of the United States Government. All agencies of the United States Government are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order.
+Sec. 5. The Secretary of the Treasury, in consultation with the Secretary of State and, as appropriate, other agencies, is hereby authorized to take such actions, including the promulgation of rules and regulations, the requirement of reports, including reports by United States persons on oil and related transactions engaged in by their foreign affiliates with Iran or the Government of Iran, and to employ all powers granted to me by IEEPA and the ISDCA as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may redelegate any of these functions to other officers and agencies of the United States Government. All agencies of the United States Government are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order.
 
 Sec. 6. (a) The Secretary of the Treasury may authorize the exportation or reexportation to Iran or the Government of Iran of any goods, technology, or services also subject to export license application requirements of another agency of the United States Government only if authorization by that agency of the exportation or reexportation to Iran would be permitted by law.
 
@@ -3370,15 +3398,17 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 13067
 
-Notice of President of the United States, dated Oct. 31, 2000, 65 F.R. 66163, provided:
+Notice of President of the United States, dated Oct. 31, 2001, 66 F.R. 55869, provided:
 
-On November 3, 1997, by Executive Order 13067 \[set out above\], I declared a national emergency to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions and policies of the Government of Sudan. By Executive Order 13067, I imposed trade sanctions on Sudan and blocked Sudanese government assets. Because the Government of Sudan has continued its activities hostile to United States interests, the national emergency declared on November 3, 1997, and the measures adopted on that date to deal with that emergency must continue in effect beyond November 3, 2000. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency for 1 year with respect to Sudan.
+On November 3, 1997, by Executive Order 13067 \[set out above\], the President declared a national emergency with respect to Sudan pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701–1706) to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the actions and policies of the Government of Sudan, including continuing concern about its record on terrorism and the prevalence of human rights violations, including slavery, restrictions on religious freedom, and restrictions on political freedom. Because the actions and policies of the Government of Sudan continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States, the national emergency declared on November 3, 1997, and the measures adopted on that date to deal with that emergency must continue in effect beyond November 3, 2001. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency with respect to Sudan.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Ex. Ord. No. 13067 were contained in the following:
+
+Notice of President of the United States, dated Oct. 31, 2000, 65 F.R. 66163.
 
 Notice of President of the United States, dated Oct. 29, 1999, 64 F.R. 59105.
 
@@ -3494,6 +3524,8 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Continuations of national emergency declared by Ex. Ord. No. 13088 were contained in the following Presidential documents, set out above:
 
+Notice of President of the United States, dated May 24, 2001, 66 F.R. 29007.
+
 Notice of President of the United States, dated May 25, 2000, 65 F.R. 34379.
 
 Notice of President of the United States, dated May 27, 1999, 64 F.R. 29205.
@@ -3502,9 +3534,9 @@ Notice of President of the United States, dated May 27, 1999, 64 F.R. 29205.
 
 Ex. Ord. No. 13098, Aug. 18, 1998, 63 F.R. 44771, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c) (UNPA), and section 301 of title 3, United States Code, in view of United Nations Security Council Resolutions 1173 of June 12, 1998, and 1176 of June 24, 1998, and in order to take additional steps with respect to the actions and policies of the National Union for the Total Independence of Angola (UNITA) and the national emergency declared in Executive Order 12865 \[set out above\], I, WILLIAM J. CLINTON, President of the United States of America, hereby order:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c) (UNPA), and section 301 of title 3, United States Code, in view of United Nations Security Council Resolutions 1173 of June 12, 1998, and 1176 of June 24, 1998, and in order to take additionalsteps with respect to the actions and policies of the National Union for the Total Independence of Angola (UNITA) and the national emergency declared in Executive Order 12865 \[set out above\], I, WILLIAM J. CLINTON, President of the United States of America, hereby order:
 
-Section 1. Except to the extent provided in regulations, orders, directives, or licenses issued pursuant tothis order, and notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted prior to the effective date of this order, all property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of United States persons, of UNITA, or of those senior officials of UNITA, or adult members of their immediate families, who are designated pursuant to section 5 of this order, are hereby blocked.
+Section 1. Except to the extent provided in regulations, orders, directives, or licenses issued pursuant to this order, and notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted prior to the effective date of this order, all property and interests in property that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of United States persons, of UNITA, or of those senior officials of UNITA, or adult members of their immediate families, who are designated pursuant to section 5 of this order, are hereby blocked.
 
 Sec. 2. Except to the extent provided in regulations, orders, directives, or licenses issued pursuant to this order, and notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted prior to the effective date of this order, the following are prohibited:
 
@@ -3566,7 +3598,7 @@ Section 1. Except to the extent provided in section 203(b) of IEEPA (50 U.S.C. 1
 
 (ii) to provide financial, material, or technological support for, or services in support of, any of the foregoing, that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of United States persons, are blocked.
 
-Sec. 2. Except to the extent provided in section 203(b) of IEEPA (50 U.S.C. 1702(b)) and in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the effective date:
+Sec. 2. Except to the extent provided in section 203(b) of IEEPA (50 U.S.C. 1702(b)) and in regulations, orders,directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the effective date:
 
 (a) any transaction or dealing by United States persons or within the United States in property or interests in property blocked pursuant to this order is prohibited, including the making or receiving of any contribution of funds, goods, or services to or for the benefit of the Taliban or persons designated pursuant to this order;
 
@@ -3608,13 +3640,17 @@ Mohammed Omar (Amir al-Mumineen \[Commander of the Faithful\]);\[.\]
 
 #### Continuation of National Emergency Declared by Ex. Ord. No. 13129
 
-Notice of President of the United States, dated June 30, 2000, 65 F.R. 41549, provided:
+Notice of President of the United States, dated June 30, 2001, 66 F.R. 35363, provided:
 
-On July 4, 1999, I issued Executive Order 13129, “Blocking Property and Prohibiting Transactions with the Taliban,” \[set out above\] to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States posed by the actions and policies of the Taliban in Afghanistan. The order blocks all property and interests in property of the Taliban and prohibits trade-related transactions by United States persons involving the territory of Afghanistan controlled by the Taliban.
+On July 4, 1999, the President issued Executive Order 13129, “Blocking Property and Prohibiting Transactions with the Taliban,” \[set out above\] to deal with the unusual and extraordinary threat to the national security and foreign policy of the United States posed by the actions and policies of the Taliban in Afghanistan. The order blocks all property and interests in property of the Taliban and prohibits trade-related transactions by United States persons involving the territory of Afghanistan controlled by the Taliban. The last notice of continuation was signed on June 30, 2000.
 
-The Taliban continues to allow territory under its control in Afghanistan to be used as a safe haven and base of operations for Usama bin Laden and the Al-Qaida organization who have committed and threaten to continue to commit acts of violence against the United States and its nationals. For these reasons, I have determined that it is necessary to maintain in force these emergency authorities beyond July 5, 2000. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency declared on July 4, 1999, with respect to the Taliban. This notice shall be published in the Federal Register and transmitted to the Congress.
+The Taliban continues to allow territory under its control in Afghanistan to be used as a safe haven and base of operations for Usama bin Laden and the al-Qaida organization who have committed and threaten to continue to commit acts of violence against the United States and its nationals. For these reasons, I have determined that it is necessary to maintain in force these emergency authorities beyond July 4, 2001. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency declared on July 4, 1999, with respect to the Taliban. This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Prior continuation of national emergency declared by Ex. Ord. No. 13129 was contained in the following:
+
+Notice of President of the United States, dated June 30, 2000, 65 F.R. 41549.
 
 #### Ex. Ord. No. 13159. Blocking Property of the Government of the Russian Federation Relating to the Disposition of Highly Enriched Uranium Extracted From Nuclear Weapons
 
@@ -3626,7 +3662,7 @@ I, WILLIAM J. CLINTON, President of the United States of America, in view of the
 
 I hereby order:
 
-Section 1. A major national security goal of the United States is to ensure that fissile material removed from Russian nuclear weapons pursuant to various arms control and disarmament agreements is dedicated to peaceful uses, subject to transparency measures, and protected from diversion to activities of proliferation concern. As reflected in Executive Order 13085, the full implementation of the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons, dated February 18,1993, and related contracts and agreements (collectively, the “HEU Agreements”) is essential to the attainment of this goal. The HEU Agreements provide for the conversion of approximately 500 metric tons of highly enriched uranium contained in Russian nuclear weapons into low-enriched uranium for use as fuel in commercial nuclear reactors. In furtherance of our national security goals, all heads of departments and agencies of the United States Government shall continue to take all appropriate measures within their authority to further the full implementation of the HEU Agreements.
+Section 1. A major national security goal of the United States is to ensure that fissile material removed from Russian nuclear weapons pursuant to various arms control and disarmament agreements is dedicated to peaceful uses, subject to transparency measures, and protected from diversion to activities of proliferation concern. As reflected in Executive Order 13085, the full implementation of the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons, dated February 18, 1993, and related contracts and agreements (collectively, the “HEU Agreements”) is essential to the attainment of this goal. The HEU Agreements provide for the conversion of approximately 500 metric tons of highly enriched uranium contained in Russian nuclear weapons into low-enriched uranium for use as fuel in commercial nuclear reactors. In furtherance of our national security goals, all heads of departments and agencies of the United States Government shall continue to take all appropriate measures within their authority to further the full implementation of the HEU Agreements.
 
 Sec. 2. Government of the Russian Federation assets directly related to the implementation of the HEU Agreements currently may be subject to attachment, judgment, decree, lien, execution, garnishment, or other judicial process, thereby jeopardizing the full implementation of the HEU Agreements to the detriment of U.S. foreign policy. In order to ensure the preservation and proper and complete transfer to the Government of the Russian Federation of all payments due to it under the HEU Agreements, and except to the extent provided in regulations, orders, directives, or licenses that may hereafter be issued pursuant to this order, all property and interests in property of the Government of the Russian Federation directly related to the implementation of the HEU Agreements that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of United States persons, including their overseas branches, are hereby blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in. Unless licensed or authorized pursuant to this order, any attachment, judgment, decree, lien, execution, garnishment, or other judicial process is null and void with respect to any property or interest in property blocked pursuant to this order.
 
@@ -3650,6 +3686,20 @@ Sec. 6. (a) This order is effective at 12:01 a.m. eastern daylight time on June 
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Continuation of National Emergency Declared by Ex. Ord. No. 13159
+
+Notice of President of the United States, dated June 11, 2001, 66 F.R. 32207, provided:
+
+On June 21, 2000, President Clinton issued Executive Order 13159 \[set out above\] (the “Order”) blocking property and interests in property of the Government of the Russian Federation that are in the United States, that hereafter come within the United States, or that are or hereinafter come within the possession or control of U.S. persons that are directly related to the implementation of the Agreement Between the Government of the United States of America and the Government of the Russian Federation concerning the disposition of highly enriched uranium extracted from nuclear weapons, dated February 18, 1993, and related contracts and agreements (collectively, the “HEU Agreements”). The HEU Agreements allow for the downblending of highly enriched uranium derived from nuclear weapons to low enriched uranium for peaceful commercial purposes. The Order invoked the authority, <i>inter alia</i>, of the International Emergency Economic Powers Act, 50 U.S.C. 1701 <i>et seq</i>., and declared a national emergency to deal with the threat to the national security and foreign policy of the United States posed by the risk of nuclear proliferation created by the accumulation of a large volume of weapons-usable fissile material in the territory of the Russian Federation.
+
+A major national security goal of the United States is to ensure that fissile material removed from Russian nuclear weapons pursuant to various arms control and disarmament agreements is downblended to low enriched uranium for peaceful commercial uses, subject to transparency measures, and protected from diversion to activities of proliferation concern.
+
+Pursuant to the HEU Agreements, weapons-grade uranium extracted from Russian nuclear weapons is converted to low enriched uranium for use as fuel in commercial nuclear reactors. The Order blocks and protects from attachment, judgment, decree, lien, execution, garnishment, or other judicial process the property and interests in property of the Government of the Russian Federation that are directly related to the implementation of the HEU Agreements and that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of United States persons.
+
+The national emergency declared on June 21, 2000, must continue beyond June 21, 2001, to provide continued protection from attachment, judgment, decree, lien, execution, garnishment, or other judicial process the property and interests in property of the Government of the Russian Federation that are directly related to the implementation of the HEU Agreements and subject to U.S. jurisdiction. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to weapons-usable fissile material in the territory of the Russian Federation. This notice shall be published in the Federal Register and transmitted to the Congress.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Ex. Ord. No. 13194. Prohibiting the Importation of Rough Diamonds From Sierra Leone
 
 Ex. Ord. No. 13194, Jan. 18, 2001, 66 F.R. 7389, provided:
@@ -3672,7 +3722,7 @@ Sec. 4. For the purposes of this order:
 
 (c) the term “United States person” means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States;
 
-(d) the term “rough diamond” means all unworked diamonds classifiable in heading 7102 of the Harmonized Tariff Schedule of the United States \[see Publication ofHarmonized Tariff Schedule note set out under 19 U.S.C. 1202\]; and
+(d) the term “rough diamond” means all unworked diamonds classifiable in heading 7102 of the Harmonized Tariff Schedule of the United States \[see Publication of Harmonized Tariff Schedule note set out under 19 U.S.C. 1202\]; and
 
 (e) the term “controlled through the Certificate of Origin regime of the Government of Sierra Leone” means accompanied by a Certificate of Origin or other documentation that demonstrates to the satisfaction of the United States Customs Service (or analogous officials of a United States territory or possession with its own customs administration) that the rough diamonds were legally exported from Sierra Leone with the approval of the Government of Sierra Leone.
 
@@ -3683,6 +3733,330 @@ Sec. 6. This order is not intended to create, nor does it create, any right, ben
 Sec. 7. This order is effective at 12:01 a.m. eastern standard time on January 19, 2001.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Continuation of National Emergency Declared by Ex. Ord. No. 13194
+
+Notice of President of the United States, dated Jan. 15, 2002, 67 F.R. 2547, provided:
+
+On January 18, 2001, by Executive Order 13194 \[set out above\], the President declared a national emergency with respect to Sierra Leone pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701–1706) to deal with the unusual and extraordinary threat to the foreign policy of the United States constituted by the actions and policies of the insurgent Revolutionary United Front (RUF) in Sierra Leone and pursuant to which the United States imposed a general ban on the direct and indirect importation of all rough diamonds from Sierra Leone to the United States, except those imports controlled through the Certificate of Origin regime of the Government of Sierra Leone. On May 22, 2001, I issued Executive Order 13213 \[set out below\], which expanded the scope of the national emergency to include actions of the Government of Liberia in support of the RUF and prohibited the importation of all rough diamonds from Liberia.
+
+Because the actions and policies of the RUF continue to pose an unusual and extraordinary threat to the foreign policy of the United States, the national emergency declared on January 18, 2001, as expanded on May 22, 2001, and the measures adopted on those dates to deal with that emergency must continue in effect beyond January 18, 2002. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing for 1 year the national emergency with respect to Sierra Leone and Liberia.
+
+This notice shall be published in the Federal Register and transmitted to the Congress.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13206. Termination of Emergency Authority for Certain Export Controls
+
+Ex. Ord. No. 13206, Apr. 4, 2001, 66 F.R. 18397, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.) (the “Act”), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. In view of the reauthorization and extension of the Act by Public Law 106–508 \[amending section 2419 of the Appendix to this title\], Executive Order12924 of August 19, 1994, which continued the effect of export control regulations under IEEPA, is revoked, and the declaration of economic emergency is rescinded, as provided in this order.
+
+Sec. 2. The revocation of Executive Order 12924 shall not affect any violation of any rules, regulations, orders, licenses, or other forms of administrative action under that order that occurred during the period the order was in effect. All rules and regulations issued or continued in effect under the authority of IEEPA and Executive Order 12924, including those codified at 15 C.F.R. 730–74 (2000), and all orders, regulations, licenses, and other forms of administrative action issued, taken, or continued in effect pursuant thereto, remain in full force and effect, as if issued, taken, or continued in effect pursuant to and as authorized by the Act or by other appropriate authority until amended or revoked by the proper authority. Nothing in this order shall affect the continued applicability of the provision for the administration of the Act and delegations of authority set forth in Executive Order 12002 of July 7, 1977, Executive Order 12214 of May 2, 1980 \[50 App. U.S.C. 2403 notes\], Executive Order 12938 of November 14, 1994, as amended \[set out above\], Executive Order 12981 of December 5, 1995, as amended, and Executive Order 13026 of November 15, 1996 \[50 App. U.S.C. 2403 notes\].
+
+Sec. 3. All rules, regulations, orders, licenses, and other forms of administrative action issued, taken, or continued in effect pursuant to the authority of IEEPA and Executive Order 12924 relating to the administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) shall remain in full force and effect until amended or revoked under proper authority.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13213. Additional Measures With Respect To Prohibiting the Importation of Rough Diamonds From Sierra Leone
+
+Ex. Ord. No. 13213, May 22, 2001, 66 F.R. 28829, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c) (UNPA), and section 301 of title 3, United States Code, and in view of the national emergency described and declared in Executive Order 13194 of January 18, 2001 \[set out above\], and United Nations Security Council Resolutions 1306 of July 5, 2000, and 1343 of March 7, 2001,
+
+I, GEORGE W. BUSH, President of the United States of America, take note that in Executive Order 13194, the President responded to, among other things, the insurgent Revolutionary United Front's (RUF) illicit trade in diamonds to fund its operations in the civil war in Sierra Leone by declaring a national emergency and, consistent with United Nations Security Council Resolution 1306, by prohibiting the importation into the United States of all rough diamonds from Sierra Leone except for those importations controlled through the Certificate of Origin regime of the Government of Sierra Leone. United Nations Security Council Resolution 1343 takes note that the bulk of RUF diamonds leaves Sierra Leone through Liberia and that such illicit trade cannot be conducted without the permission and involvement of Liberian government officials at the highest levels; determines that the active support provided by the Government of Liberia for the RUF and other armed rebel groups in neighboring countries constitutes a threat to international peace and security in the region; and decides that all states shall take the necessary measures to prevent the importation of all rough diamonds from Liberia, whether or not such diamonds originated in Liberia. The Government of Liberia's complicity in the RUF's illicit trade in diamonds and its other forms of support for the RUF are direct challenges to United States foreign policy objectives in the region as well as to the rule-based international order that is crucial to the peace and prosperity of the United States. Therefore, I find these actions by the Government of Liberia contribute to the unusual and extraordinary threat to the foreign policy of the United States described in Executive Order 13194 with respect to which the President declared a national emergency. In order to deal with that threat and to ensure further that the direct or indirect importation into the United States of rough diamonds from Sierra Leone will not contribute financial support to further aggressive actions by the RUF or to the RUF's procurement of weapons; to implement United Nations Security Council Resolution 1343; and to counteract, among other things, the Government of Liberia's facilitation of and participation in the RUF's illicit trade in diamonds through Liberia, I hereby order the following additional measures be taken with respect to prohibiting the importation of rough diamonds from Sierra Leone:
+
+Section 1. Except to the extent provided in regulations, orders, directives, or licenses issued pursuant to this order, and notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted prior to the effective date of this order, the direct or indirect importation into the United States of all rough diamonds from Liberia, whether or not such diamonds originated in Liberia, on or after the effective date of this order is prohibited.
+
+Sec. 2. Any transaction by a United States person or within the United States that evades or avoids, or has the purpose of evading or avoiding, or attempts to violate, any of the prohibitions set forth in this order is prohibited. Any conspiracy formed to violate any of the prohibitions set forth in this order is prohibited.
+
+Sec. 3. The definitions contained in section 4 of Executive Order 13194 apply to the terms used in this order.
+
+Sec. 4. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by IEEPA and UNPA, as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may redelegate any of these functions to other officers and agencies of the United States Government. All agencies of the United States Government are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order, including modification, suspension, or termination of licenses or authorizations in effect as of the date of this order.
+
+Sec. 5. This order is not intended to create, nor does it create, any right, benefit, or privilege, substantive or procedural, enforceable at law by a party against the United States, its agencies, officers, or any other person.
+
+Sec. 6. (a) This order is effective at 12:01 a.m. eastern daylight time on May 23, 2001.
+
+(b) This order shall be transmitted to the Congress and published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13219. Blocking Property of Persons Who Threaten International Stabilization Efforts in the Western Balkans
+
+Ex. Ord. No. 13219, June 26, 2001, 66 F.R. 34777, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code,
+
+I, GEORGE W. BUSH, President of the United States of America, have determined that the actions of persons engaged in, or assisting, sponsoring, or supporting, (i) extremist violence in the former Yugoslav Republic of Macedonia, southern Serbia, the Federal Republic of Yugoslavia, and elsewhere in the Western Balkans region, or (ii) acts obstructing implementation of the Dayton Accords in Bosnia or United Nations Security Council Resolution 1244 of June 10, 1999, in Kosovo, threaten the peace in or diminish the security and stability of those areas and the wider region, undermine the authority, efforts, and objectives of the United Nations, the North Atlantic Treaty Organization (NATO), and other international organizations and entities present in those areas and the wider region, and endanger the safety of persons participating in or providing support to the activities of those organizations and entities, including United States military forces and Government officials. I find that such actions constitute an unusual and extraordinary threat to the national security and foreign policy of the United States, and hereby declare a national emergency to deal with that threat. I hereby order:
+
+Section 1. (a) Except to the extent provided in section 203(b)(1), (3), and (4) of IEEPA (50 U.S.C. 1702(b)(1), (3), and (4)), the Trade Sanctions Reform and Export Enhancement Act of 2000 (title IX, Public Law 106–387) \[22 U.S.C. 7201 et seq.\], and in regulations, orders, directives, or licenses that may hereafter be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the effective date, all property and interests in property of:
+
+(i) the persons listed in the Annex to this order; and
+
+(ii) persons designated by the Secretary of the Treasury, in consultation with the Secretary of State, because they are found:
+
+&emsp;(A) to have committed, or to pose a significant risk of committing, acts of violence that have the purpose or effect of threatening the peace in or diminishing the stability or security of any area or state in the Western Balkans region, undermining the authority, efforts, or objectives of international organizations or entities present in the region, or endangering the safety of persons participating in or providing support to the activities of those international organizations or entities, or,
+
+&emsp;(B) to have actively obstructed, or to pose a significant risk of actively obstructing, implementation of the Dayton Accords in Bosnia or United Nations Security Council Resolution 1244 in Kosovo, or
+
+&emsp;(C) materially to assist in, sponsor, or provide financial or technological support for, or goods or services in support of, such acts of violence or obstructionism, or
+
+&emsp;(D) to be owned or controlled by, or acting or purporting to act directly or indirectly for or on behalf of, any of the foregoing persons, that are or hereafter come within the United States, or that are or hereafter come within the possession or control of United States persons, are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in.
+
+(b) I hereby determine that the making of donations of the type specified in section 203(b)(2) of IEEPA (50 U.S.C. 1702(b)(2)) by United States persons to persons designated in or pursuant to paragraph (a) of this section would seriously impair my ability to deal with the national emergency declared in this order. Accordingly, the blocking of property and interests in property pursuant to paragraph (a) of this section includes, but is not limited to, the prohibition of the making by a United States person of any such donation to any such designated person, except as otherwise authorized by the Secretary of the Treasury.
+
+(c) The blocking of property and interests in property pursuant to paragraph (a) of this section includes, but is not limited to, the prohibition of the making or receiving by a United States person of any contribution or provision of funds, goods, or services to or for the benefit of a person designated in or pursuant to paragraph (a) of this section.
+
+Sec. 2. Any transaction by a United States person that evades or avoids, or has the purpose of evading or avoiding, or attempts to violate, any of the prohibitions set forth in this order is prohibited. Any conspiracy formed to violate the prohibitions of this order is prohibited.
+
+Sec. 3. For the purposes of this order:
+
+(a) The term “person” means an individual or entity;
+
+(b) The term “entity” means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization; and
+
+(c) The term “United States person” means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States.
+
+Sec. 4. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to me by IEEPA, as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may redelegate any of these functions to other officers and agencies of the United States Government. All agencies of the United States Government are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order and, where appropriate, to advise the Secretary of the Treasury in a timely manner of the measures taken.
+
+Sec. 5. This order is not intended to create, nor does it create, any right, benefit, or privilege, substantive or procedural, enforceable at law by a party against the United States, its agencies, officers, or any other person.
+
+Sec. 6. (a) This order is effective at 12:01 eastern daylight time on June 27, 2001;
+
+(b) This order shall be transmitted to the Congress and published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### ANNEX
+
+I. Individuals
+
+&nbsp;
+
+| <b>Name/DPOB (If Available)</b> | <b>Affiliation</b> |
+| :--- | ---: |
+| Ademi, Xhevat | NLA |
+| DOB: 8 Dec 1962 | &nbsp; |
+| POB: Tetovo, FYROM | &nbsp; |
+| Ahmeti, Ali | NLA |
+| DOB: 4 Jan 1959 | &nbsp; |
+| POB: Kicevo, FYROM | &nbsp; |
+| Bexheti, Nuri | NLA |
+| DOB: 1962 | &nbsp; |
+| POB: Tetovo, FYROM | &nbsp; |
+| Dalipi, Tahir | PCPMB |
+| DOB: 1958 | &nbsp; |
+| POB: Ilince, Presevo mun., FRY | &nbsp; |
+| Elshani, Gafur | LPK |
+| DOB: 29 March 1958 | &nbsp; |
+| POB: Suva Reka, FRY | &nbsp; |
+| Gashi, Sabit | LKCK |
+| DOB: 30 December 1967 | &nbsp; |
+| POB: Suva Reka, FRY | &nbsp; |
+| Habibi, Skender | PDK |
+| DOB: 13 July 1968 | &nbsp; |
+| POB: Ljubiste, FRY | &nbsp; |
+| Haradinaj, Daut | Chief of Staff, KPC |
+| DOB: 6 April 1978 | &nbsp; |
+| POB: Goldane, FRY | &nbsp; |
+| Hasani, Xhavit | NLA |
+| DOB: 5 May 1957 | &nbsp; |
+| POB: Tanishec, FYROM | &nbsp; |
+| Lladrovici, Ramiz   DOB: 3 January 1966   POB: | Deputy Commander, Guard \& Rapid Reaction Group, KPC |
+| Lushtaku, Sami   DOB: 20 February 1961   POB: Srbica, FRY | RTG 2 Commander, KPC |
+| Musliu, Jonusz | PCPMB |
+| DOB: 5 January 1959 | &nbsp; |
+| POB: Konculj, FRY | &nbsp; |
+| Musliu, Shefqet | UCPMB |
+| DOB: 12 February 1963 | &nbsp; |
+| POB: Konculj, FRY | &nbsp; |
+| Mustafa, Rrustem   DOB: 27 February 1971   POB: Podujevo, FRY | RTG 6 Commander, KPC |
+| Ostremi, Gezim | NLA |
+| DOB: 1 November 1942 | &nbsp; |
+| POB: Debar, Macedonia | &nbsp; |
+| Selimi, Rexhep   DOB: 15 March 1971   POB: Iglarevo, FRY | Commander, Guard \& Rapid Reaction Group, KPC |
+| Shakiri, Hisni | NLA |
+| DOB: 1 March 1949 | &nbsp; |
+| POB: Otlja, FYROM | &nbsp; |
+| Shaqiri, Shaqir | UCPMB |
+| DOB: 1 September 1964 | &nbsp; |
+| POB: FRY | &nbsp; |
+| Suma, Emrush | NLA |
+| DOB: 27 May 1974 | &nbsp; |
+| POB: Dimce, FRY | &nbsp; |
+| Syla, Azem | PDK |
+| DOB: 5 April 1951 | &nbsp; |
+| POB: FRY | &nbsp; |
+| Veliu, Fazli | NLA |
+| DOB: 4 January 1945 | &nbsp; |
+| POB: Kercove, FYROM | &nbsp; |
+| Xhemajli, Emrush | LPK |
+| DOB: 5 May 1959 | &nbsp; |
+| POB: Urosevac, FRY | &nbsp; |
+| Xhemajli, Muhamet | UCPMB |
+| DOB: 8 February 1958 | &nbsp; |
+| POB: Muhovac, FRY | &nbsp; |
+
+II. Organizations
+
+&emsp;Liberation Army of Presevo, Medvedja, and Bujanovac (PMBLA a.k.a. UCPMB)
+
+&emsp;National Liberation Army (NLA a.k.a. UCK)
+
+&emsp;National Movement for the Liberation of Kosovo (LKCK)
+
+&emsp;Political Council of Presevo, Medvedja, and Bujanovac (PCPMB)
+
+&emsp;Popular Movement of Kosovo (LPK)
+
+#### Ex. Ord. No. 13222. Continuation of Export Control Regulations
+
+Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including but not limited to section 203 of the International Emergency Economic Powers Act (“Act”) (50 U.S.C. 1702), I, GEORGE W. BUSH, President of the United States of America, find that the unrestricted access of foreign parties to U.S. goods and technology and the existence of certain boycott practices of foreign nations, in light of the expiration of the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.), constitute an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States and hereby declare a national emergency with respect to that threat.
+
+Accordingly, in order (a) to exercise the necessary vigilance over exports and activities affecting the national security of the United States; (b) to further significantly the foreign policy of the United States, including its policy with respect to cooperation by U.S. persons with certain foreign boycott activities, and to fulfill its international responsibilities; and (c) to protect the domestic economy from the excessive drain of scarce materials and reduce the serious economic impact of foreign demand, it is hereby ordered as follows:
+
+Section 1. To the extent permitted by law, the provisions of the Export Administration Act of 1979, as amended, and the provisions for administration of the Export Administration Act of 1979, as amended, shall be carried out under this order so as to continue in full force and effect and amend, as necessary, the export control system heretofore maintained by the Export Administration Regulations issued under the Export Administration Act of 1979, as amended. The delegations of authority set forth in Executive Order 12002 of July 7, 1977 \[50 App. U.S.C. 2403 note\], as amended by Executive Order 12755 of March 12, 1991, and Executive Order 13026 of November 15, 1996 \[50 App. U.S.C. 2403 note\]; Executive Order 12214 of May 2, 1980 \[50 App. U.S.C. 2403 note\]; Executive Order 12735 of November 16, 1990; and Executive Order 12851 of June 11, 1993 \[22 U.S.C. 2797 note\], shall be incorporated in this order and shall apply to the exercise of authorities under this order. All actions under this order shall be in accordance with Presidential directives relating to the export control system heretofore issued and not revoked.
+
+Sec. 2. All rules and regulations issued or continued in effect by the Secretary of Commerce under the authority of the Export Administration Act of 1979, as amended \[50 App. U.S.C. 2401 et seq.\], including those published in Title 15, Subtitle B, Chapter VII, Subchapter C, of the Code of Federal Regulations, Parts 730 through 774, and all orders, regulations, licenses, and other forms of administrative action issued, taken, or continued in effect pursuant thereto, shall, until amended or revoked by the Secretary of Commerce, remain in full force and effect as if issued or taken pursuant to this order, except that the provisions of sections 203(b)(2) and 206 of the Act (50 U.S.C. 1702(b)(2) and 1705) shall control over any inconsistent provisions in the regulations. Nothing in this section shall affect the continued applicability of administrative sanctions provided for by the regulations described above.
+
+Sec. 3. Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).
+
+Sec. 4. This order shall be effective as of midnight between August 20, 2001, and August 21, 2001, eastern daylight time.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13224. Blocking Property and Prohibiting Transactions With Persons Who Commit, Threaten To Commit, or Support Terrorism
+
+Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c) (UNPA), and section 301 of title 3, United States Code, and in view of United Nations Security Council Resolution (UNSCR) 1214 of December 8, 1998, UNSCR 1267 of October 15, 1999, UNSCR 1333 of December 19, 2000, and the multilateral sanctions contained therein, and UNSCR 1363 of July 30, 2001, establishing a mechanism to monitor the implementation of UNSCR 1333,
+
+I, GEORGE W. BUSH, President of the United States of America, find that grave acts of terrorism and threats of terrorism committed by foreign terrorists, including the terrorist attacks in New York, Pennsylvania, and the Pentagon committed on September 11, 2001, acts recognized and condemned in UNSCR 1368 of September 12, 2001, and UNSCR 1269 of October 19, 1999, and the continuing and immediate threat of further attacks on United States nationals or the United States constitute an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States, and in furtherance of my proclamation of September 14, 2001, Declaration of National Emergency by Reason of Certain Terrorist Attacks \[Proc. No. 7463, 50 U.S.C. 1621 note\], hereby declare a national emergency to deal with that threat. I also find that because of the pervasiveness and expansiveness of the financial foundation of foreign terrorists, financial sanctions may be appropriate for those foreign persons that support or otherwise associate with these foreign terrorists. I also find that a need exists for further consultation and cooperation with, and sharing of information by, United States and foreign financial institutions as an additional tool to enable the United States to combat the financing of terrorism.
+
+I hereby order:
+
+Section 1. Except to the extent required by section 203(b) of IEEPA (50 U.S.C. 1702(b)), or provided in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the effective date of this order, all property and interests in property of the following persons that are in the United States or that hereafter come within the United States, or that hereafter come within the possession or control of United States persons are blocked:
+
+(a) foreign persons listed in the Annex to this order;
+
+(b) foreign persons determined by the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General, to have committed, or to pose a significant risk of committing, acts of terrorism that threaten the security of U.S. nationals or the national security, foreign policy, or economy of the United States;
+
+(c) persons determined by the Secretary of the Treasury, in consultation with the Secretary of State and the Attorney General, to be owned or controlled by, or to act for or on behalf of those persons listed in the Annex to this order or those persons determined to be subject to subsection 1(b), 1(c), or 1(d)(i) of this order;
+
+(d) except as provided in section 5 of this order and after such consultation, if any, with foreign authorities as the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General, deems appropriate in the exercise of his discretion, persons determined by the Secretary of the Treasury, in consultation with the Secretary of State and the Attorney General;
+
+&emsp;(i) to assist in, sponsor, or provide financial, material, or technological support for, or financial or other services to or in support of, such acts of terrorism or those persons listed in the Annex to this order or determined to be subject to this order; or
+
+&emsp;(ii) to be otherwise associated with those persons listed in the Annex to this order or those persons determined to be subject to subsection 1(b), 1(c), or 1(d)(i) of this order.
+
+Sec. 2. Except to the extent required by section 203(b) of IEEPA (50 U.S.C. 1702(b)), or provided in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the effective date:
+
+(a) any transaction or dealing by United States persons or within the United States in property or interests in property blocked pursuant to this order is prohibited, including but not limited to the making or receiving of any contribution of funds, goods, or services to or for the benefit of those persons listed in the Annex to this order or determined to be subject to this order;
+
+(b) any transaction by any United States person or within the United States that evades or avoids, or has the purpose of evading or avoiding, or attempts to violate, any of the prohibitions set forth in this order is prohibited; and
+
+(c) any conspiracy formed to violate any of the prohibitions set forth in this order is prohibited.
+
+Sec. 3. For purposes of this order:
+
+(a) the term “person” means an individual or entity;
+
+(b) the term “entity” means a partnership, association, corporation, or other organization, group, or subgroup;
+
+(c) the term “United States person” means any United States citizen, permanent resident alien, entity organized under the laws of the United States (including foreign branches), or any person in the United States; and
+
+(d) the term “terrorism” means an activity that—
+
+&emsp;(i) involves a violent act or an act dangerous to human life, property, or infrastructure; and
+
+&emsp;(ii) appears to be intended—
+
+&emsp;&emsp;(A) to intimidate or coerce a civilian population;
+
+&emsp;&emsp;(B) to influence the policy of a government by intimidation or coercion; or
+
+&emsp;&emsp;(C) to affect the conduct of a government by mass destruction, assassination, kidnapping, or hostage-taking.
+
+Sec. 4. I hereby determine that the making of donations of the type specified in section 203(b)(2) of IEEPA (50 U.S.C. 1702(b)(2)) by United States persons to persons determined to be subject to this order would seriously impair my ability to deal with the national emergency declared in this order, and would endanger Armed Forces of the United States that are in a situation where imminent involvement in hostilities is clearly indicated by the circumstances, and hereby prohibit such donations as provided by section 1 of this order. Furthermore, I hereby determine that the Trade Sanctions Reform and Export Enhancement Act of 2000 (title IX, Public Law 106–387) \[22 U.S.C. 7201 et seq.\] shall not affect the imposition or the continuation of the imposition of any unilateral agricultural sanction or unilateral medical sanction on any person determined to be subject to this order because imminent involvement of the Armed Forces of the United States in hostilities is clearly indicated by the circumstances.
+
+Sec. 5. With respect to those persons designated pursuant to subsection 1(d) of this order, the Secretary of the Treasury, in the exercise of his discretion and in consultation with the Secretary of State and the Attorney General, may take such other actions than thecomplete blocking of property or interests in property as the President is authorized to take under IEEPA and UNPA if the Secretary of the Treasury, in consultation with the Secretary of State and the Attorney General, deems such other actions to be consistent with the national interests of the United States, considering such factors as he deems appropriate.
+
+Sec. 6. The Secretary of State, the Secretary of the Treasury, and other appropriate agencies shall make all relevant efforts to cooperate and coordinate with other countries, including through technical assistance, as well as bilateral and multilateral agreements and arrangements, to achieve the objectives of this order, including the prevention and suppression of acts of terrorism, the denial of financing and financial services to terrorists and terrorist organizations, and the sharing of intelligence about funding activities in support of terrorism.
+
+Sec. 7. The Secretary of the Treasury, in consultation with the Secretary of State and the Attorney General, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by IEEPA and UNPA as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may redelegate any of these functions to other officers and agencies of the United States Government. All agencies of the United States Government are hereby directed to take all appropriate measures within their authority to carry out the provisions of this order.
+
+Sec. 8. Nothing in this order is intended to affect the continued effectiveness of any rules, regulations, orders, licenses, or other forms of administrative action issued, taken, or continued in effect heretofore or hereafter under 31 C.F.R. chapter V, except as expressly terminated, modified, or suspended by or pursuant to this order.
+
+Sec. 9. Nothing contained in this order is intended to create, nor does it create, any right, benefit, or privilege, substantive or procedural, enforceable at law by a party against the United States, its agencies, officers, employees or any other person.
+
+Sec. 10. For those persons listed in the Annex to this order or determined to be subject to this order who might have a constitutional presence in the United States, I find that because of the ability to transfer funds or assets instantaneously, prior notice to such persons of measures to be taken pursuant to this order would render these measures ineffectual. I therefore determine that for these measures to be effective in addressing the national emergency declared in this order, there need be no prior notice of a listing or determination made pursuant to this order.
+
+Sec. 11. (a) This order is effective at 12:01 a.m. eastern daylight time on September 24, 2001.
+
+(b) This order shall be transmitted to the Congress and published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### ANNEX
+
+Al Qaida/Islamic Army
+
+Abu Sayyaf Group
+
+Armed Islamic Group (GIA)
+
+Harakat ul-Mujahidin (HUM)
+
+Al-Jihad (Egyptian Islamic Jihad)
+
+Islamic Movement of Uzbekistan (IMU)
+
+Asbat al-Ansar
+
+Salafist Group for Call and Combat (GSPC)
+
+Libyan Islamic Fighting Group
+
+Al-Itihaad al-Islamiya (AIAI)
+
+Islamic Army of Aden
+
+Usama bin Laden
+
+Muhammad Atif (aka, Subhi Abu Sitta, Abu Hafs Al Masri)
+
+Sayf al-Adl
+
+Shaykh Sai'id (aka, Mustafa Muhammad Ahmad)
+
+Abu Hafs the Mauritanian (aka, Mahfouz Ould al-Walid, Khalid Al-Shanqiti)
+
+Ibn Al-Shaykh al-Libi
+
+Abu Zubaydah (aka, Zayn al-Abidin Muhammad Husayn, Tariq)
+
+Abd al-Hadi al-Iraqi (aka, Abu Abdallah)
+
+Ayman al-Zawahiri
+
+Thirwat Salah Shihata
+
+Tariq Anwar al-Sayyid Ahmad (aka, Fathi, Amr al-Fatih)
+
+Muhammad Salah (aka, Nasr Fahmi Nasr Hasanayn)
+
+Makhtab Al-Khidamat/Al Kifah
+
+Wafa Humanitarian Organization
+
+Al Rashid Trust
+
+Mamoun Darkazanli Import-Export Company
 
 #### Section Referred to in Other Sections
 

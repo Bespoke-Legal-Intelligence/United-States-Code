@@ -2,7 +2,7 @@
 
 (a)
 
-Regulations.—The Secretary of Defense shall promulgate regulations containing the requirement described in subsection (b) and such other provisions as the Secretary considers necessary to administer such requirement. Such regulations shall require that each contract described in subsection (c) shall contain a clauserequiring the contractor to comply with such regulations.
+Regulations.—The Secretary of Defense shall promulgate regulations containing the requirement described in subsection (b) and such other provisions as the Secretary considers necessary to administer such requirement. Such regulations shall require that each contract described in subsection (c) shall contain a clause requiring the contractor to comply with such regulations.
 
 (b)
 

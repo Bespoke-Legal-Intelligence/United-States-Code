@@ -6,7 +6,7 @@ Grade When Ordered to Active Duty.— A Reserve ordered to active duty under sec
 
 (b)
 
-Duties.—A Reserve on active duty as described in subsection (a) may be assigned only duties in connection with the functions described in that subsection, which may include the following:
+Duties.—A Reserve on active duty as described in subsection (a) may be assigned onlyduties in connection with the functions described in that subsection, which may include the following:
 
 &emsp;(1) Supporting operations or missions assigned in whole or in part to reserve components.
 
@@ -86,7 +86,7 @@ Subsec. (c)(4). Pub. L. 106–65, §556(a), struck out first sentence which read
 
 Subsec. (c)(5). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-Subsec. (c)(6). Pub. L. 106–65, §556(b), struck out “or to increase the number of personnel authorized by paragraph (4)” after “requirements of paragraph (3)” in introductory provisions and “or for the requested additional personnel and explain the need for the increase in the context of existing or projected similar capabilities at the local, State, and Federal levels” after “modification” in subpar. (A).
+Subsec. (c)(6). Pub. L. 106–65, §556(b), struck out “or to increase the number of personnel authorized by paragraph (4)” after “requirements of paragraph (3)” inintroductory provisions and “or for the requested additional personnel and explain the need for the increase in the context of existing or projected similar capabilities at the local, State, and Federal levels” after “modification” in subpar. (A).
 
 Subsec. (d). Pub. L. 106–65, §555(a)(1), (b)(3), redesignated subsec. (b) as (d) and inserted heading.
 
@@ -104,5 +104,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 12318 of this title.
+This section is referred to in sections 12011, 12012, 12318 of this title.
 

@@ -28,7 +28,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 (B) Unless the request is frivolous or does not, on its face, state a valid basis for such review, the Administrator shall complete such a review not later than 60 days after receiving the request. The time for completion of the review may be extended if the Administrator determines that an additional period of review is required. The Administrator shall advise the requester of the reasons for the extension and the date by which the review will be completed.
 
-(5) If the Administrator determines that a regulation relating to procurement is inconsistent with the Federal Acquisition Regulation or that the regulation should otherwise be revised to remove an inconsistency with any policies issued under section 405(a) of this title, the Administrator shall rescind or deny the promulgation of the regulation or take such other action authorized under section 405 of this title as may be necessary to remove the inconsistency. If the Administrator determines that such a regulation, although not inconsistent with the Federal Acquisition Regulation or such policies, should be revised to improve compliance with such Regulation or policies, the Administrator shall take such action authorized under section 405 of this title as may be necessary and appropriate.
+(5) If the Administrator determines that a regulation relating to procurement is inconsistentwith the Federal Acquisition Regulation or that the regulation should otherwise be revised to remove an inconsistency with any policies issued under section 405(a) of this title, the Administrator shall rescind or deny the promulgation of the regulation or take such other action authorized under section 405 of this title as may be necessary to remove the inconsistency. If the Administrator determines that such a regulation, although not inconsistent with the Federal Acquisition Regulation or such policies, should be revised to improve compliance with such Regulation or policies, the Administrator shall take such action authorized under section 405 of this title as may be necessary and appropriate.
 
 (6) The decisions of the Administrator shall be in writing and made publicly available. The Administrator shall provide a listing of such decisions in the annual report to Congress required by section 407 <sup>1</sup> of this title.
 
@@ -88,7 +88,7 @@ Subsec. (g)(3). Pub. L. 104–201, §822(3), struck out par. (3) which read as f
 
 &emsp;“(B) the extent to which the Federal procurement system can be streamlined to reduce unnecessary paperwork while at the same time maintaining recordkeeping and reporting requirements necessary to ensure the integrity and accountability of the system.”
 
-1990—Subsec. (b)(2). Pub. L. 101–510 inserted before semicolon at end of cl. (A) “or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition”.
+1990—Subsec. (b)(2). Pub. L. 101–510 inserted before semicolon at end of cl. (A) “or, in the case of the Secretary of Defense, an official at an organizational levelnot lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition”.
 
 #### Effective Date of 1996 Amendment
 

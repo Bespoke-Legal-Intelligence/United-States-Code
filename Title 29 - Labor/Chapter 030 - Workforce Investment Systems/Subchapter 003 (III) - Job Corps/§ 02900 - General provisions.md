@@ -10,7 +10,7 @@ The Secretary is authorized to—
 
 &emsp;&emsp;(A) for printing and binding, in accordance with applicable law (including regulation); and
 
-&emsp;&emsp;(B) without regard to any other law (including regulation), for rent of buildings and space in buildings and for repair, alteration, and improvement of buildings and space in buildings rented by the Secretary, except that the Secretary shall not expend funds under the authority of this subparagraph—
+&emsp;&emsp;(B) without regard to any other law (including regulation), for rent of buildings and space in buildings and for repair, alteration, and improvement of buildings and space inbuildings rented by the Secretary, except that the Secretary shall not expend funds under the authority of this subparagraph—
 
 &emsp;&emsp;&emsp;(i) except when necessary to obtain an item, service, or facility, that is required in the proper administration of this subchapter, and that otherwise could not be obtained, or could not be obtained in the quantity or quality needed, or at the time, in the form, or under the conditions in which the item, service, or facility is needed; and
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this subtitle, if a person makes a qualified disclaimer with respect to any interest in property, this subtitle shall apply with respect to such interest as if the interest had never been transferred to such person.
+For purposes of this subtitle, if a person makes a qualified disclaimer with respect to anyinterest in property, this subtitle shall apply with respect to such interest as if the interest had never been transferred to such person.
 
 #### (b) Qualified disclaimer defined
 

@@ -24,9 +24,11 @@ For purposes of this part, the term “exempt facility bond” means any bond is
 
 &emsp;(10) qualified hazardous waste facilities,
 
-&emsp;(11) high-speed intercity rail facilities, or
+&emsp;(11) high-speed intercity rail facilities,
 
-&emsp;(12) environmental enhancements of hydroelectric generating facilities.
+&emsp;(12) environmental enhancements of hydroelectric generating facilities, or
+
+&emsp;(13) qualified public educational facilities.
 
 #### (b) Special exempt facility bond rules
 
@@ -86,7 +88,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified residential rental project” means any project for residential rental property if, at all times during the qualified project period, such project meets the requirements of subparagraph (A) or (B), whichever is elected by the issuer at the timeof the issuance of the issue with respect to such project:
+&emsp;The term “qualified residential rental project” means any project for residential rental property if, at all times during the qualified project period, such project meets the requirements of subparagraph (A) or (B), whichever is elected by the issuer at the time of the issuance of the issue with respect to such project:
 
 #### (A) 20–50 test
 
@@ -126,7 +128,7 @@ For purposes of this section—
 
 #### (B) Continuing resident's income may increase above the applicable limit
 
-&emsp;&emsp;If the income of a resident of a unit in a project did not exceed the applicable income limit upon commencement of such resident's occupancy of such unit (or as of any prior determination under subparagraph (A)), the income of such resident shall be treated as continuing to not exceed the applicable income limit. The preceding sentence shall cease to apply to any resident whose income as of the most recent determination under subparagraph (A) exceeds 140 percent of the applicable income limit if after such determination, but before the next determination, any residential unit of comparable or smaller size in the same project is occupied by a new resident whose income exceeds the applicable income limit.
+&emsp;&emsp;If the income of a resident of a unit in a project did not exceed the applicable income limit upon commencement of such resident's occupancy of such unit (or as of any prior determination under subparagraph (A)), theincome of such resident shall be treated as continuing to not exceed the applicable income limit. The preceding sentence shall cease to apply to any resident whose income as of the most recent determination under subparagraph (A) exceeds 140 percent of the applicable income limit if after such determination, but before the next determination, any residential unit of comparable or smaller size in the same project is occupied by a new resident whose income exceeds the applicable income limit.
 
 #### (4) Special rule in case of deep rent skewing
 
@@ -204,7 +206,7 @@ For purposes of subsection (a)(8)—
 
 #### (A) In general
 
-&emsp;&emsp;A facility shall not be treated as failing to meet the local furnishing requirement of subsection (a)(8) by reason of electricity transmitted pursuant to an order of the Federal Energy Regulatory Commission under section 211 or 213 of the Federal Power Act (as in effect on the date of the enactment of this paragraph) if the portion of the cost of the facility financed with tax-exempt bonds is not greater than the portion of the cost of the facility which is allocable to the local furnishing of electric energy (determined without regard to this paragraph).
+&emsp;&emsp;A facility shall not be treated as failing to meet the local furnishing requirement of subsection (a)(8) by reason of electricity transmitted pursuant to an order of the Federal Energy Regulatory Commission under section 211 or 213 of the Federal Power Act (as in effect on the date of the enactment of this paragraph) if the portion of the cost of the facility financed with tax-exempt bonds is not greater than the portion of the cost ofthe facility which is allocable to the local furnishing of electric energy (determined without regard to this paragraph).
 
 #### (B) Special rule for existing facilities
 
@@ -326,7 +328,67 @@ For purposes of subsection (a)(10), the term “qualified hazardous waste facili
 
 &emsp;A bond issued as part of an issue described in subsection (a)(12) shall not be considered an exempt facility bond unless at least 80 percent of the net proceeds of the issue of which it is a part are used to finance property described in paragraph (1)(B)(i).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825.)
+#### (k) Qualified public educational facilities
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a)(13), the term “qualified public educational facility” means any school facility which is—
+
+&emsp;&emsp;(A) part of a public elementary school or a public secondary school, and
+
+&emsp;&emsp;(B) owned by a private, for-profit corporation pursuant to a public-private partnership agreement with a State or local educational agency described in paragraph (2).
+
+#### (2) Public-private partnership agreement described
+
+&emsp;A public-private partnership agreement is described in this paragraph if it is an agreement—
+
+&emsp;&emsp;(A) under which the corporation agrees—
+
+&emsp;&emsp;&emsp;(i) to do 1 or more of the following: construct, rehabilitate, refurbish, or equip a school facility, and
+
+&emsp;&emsp;&emsp;(ii) at the end of the term of the agreement, to transfer the school facility to such agency for no additional consideration, and
+
+&emsp;&emsp;(B) the term of which does not exceed the term of the issue to be used to provide the school facility.
+
+#### (3) School facility
+
+&emsp;For purposes of this subsection, the term “school facility” means—
+
+&emsp;&emsp;(A) any school building,
+
+&emsp;&emsp;(B) any functionally related and subordinate facility and land with respect to such building, including any stadium or other facility primarily used for school events, and
+
+&emsp;&emsp;(C) any property, to which section 168 applies (or would apply but for section 179), for use in a facility described in subparagraph (A) or (B).
+
+#### (4) Public schools
+
+&emsp;For purposes of this subsection, the terms “elementary school” and “secondary school” have the meanings given such terms by section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801), as in effect on the date of the enactment of this subsection.
+
+#### (5) Annual aggregate face amount of tax-exempt financing
+
+#### (A) In general
+
+&emsp;&emsp;An issue shall not be treated as an issue described in subsection (a)(13) if the aggregate face amount of bonds issued by the State pursuant thereto (when added to the aggregate face amount of bonds previously so issued during the calendar year) exceeds an amount equal to the greater of—
+
+&emsp;&emsp;&emsp;(i) $10 multiplied by the State population, or
+
+&emsp;&emsp;&emsp;(ii) $5,000,000.
+
+#### (B) Allocation rules
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the State may allocate the amount described in subparagraph (A) for any calendar year in such manner as the State determines appropriate.
+
+#### (ii) Rules for carryforward of unused limitation
+
+&emsp;&emsp;&emsp;A State may elect to carry forward an unused limitation for any calendar year for 3 calendar years following the calendar year in which the unused limitation arose under rules similar to the rules of section 146(f), except that the only purpose for which the carryforward may be elected is the issuance of exempt facility bonds described in subsection (a)(13).
+
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L.101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -342,11 +404,19 @@ The Solid Waste Disposal Act, referred to in subsec. (h)(1), is title II of Pub.
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
+Section 14101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (k)(4), is section 14101 of Pub. L. 89–10, which was classified to section 8801 of Title 20, Education, prior to repeal by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986.
+
+The date of the enactment of this subsection, referred to in subsec. (k)(4), means the date of enactment of Pub. L. 107–16, which was approved June 7, 2001.
+
 #### Prior Provisions
 
 A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated individuals not eligible for standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(13). Pub. L. 107–16, §§422(a), 901, temporarily added par. (13). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (k). Pub. L. 107–16, §§422(b), 901, temporarily added subsec. (k). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1998</b>—Subsec. (f)(3)(A)(ii). Pub. L. 105–206 struck out comma after “1997”.
 
@@ -382,6 +452,12 @@ Subsec. (d)(4)(B)(iii). Pub. L. 100–647, §1013(a)(1), substituted “average 
 
 Subsec. (i). Pub. L. 100–647, §6180(b)(1), added subsec. (i).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title IV, §422(f), June 7, 2001, 115 Stat. 66, provided that: “The amendments made by this section \[amending this section and sections 146 and 147 of this title\] shall apply to bonds issued after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1992 Amendment
 
 Section 1919(b) of Pub. L. 102–486 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued before, on, or after the date of the enactment of this Act \[Oct. 24, 1992\].”
@@ -410,5 +486,5 @@ Section 1804 of Pub. L. 104–188 provided that: “Sections 142(f)(3) (as added
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 42, 141, 143, 144, 145, 146, 148, 150, 168, 6652 of this title; title 12 sections 24, 1430b.
+This section is referred to in sections 42, 141, 143, 144, 145, 146, 147, 148, 150, 168, 6652 of this title; title 12 sections 24, 1430b.
 

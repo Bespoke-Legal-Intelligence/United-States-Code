@@ -10,7 +10,7 @@ The provisions of the Act of June 18, 1934 (48 Stat. 484 <sup>1</sup>), as amen
 
 #### (c) Receipt in trust by United States of land for Pascua Yaqui Tribe; criminal and civil jurisdiction
 
-The Secretary of the Interior is directed, upon request of the Pascua Yaqui Association, Incorporated, and without monetary consideration, to accept on behalf of the United States and in trust for the Pascua Yaqui Tribe, the title to the real property conveyed by the United States to such association under the Act of October 8, 1964 (78 Stat. 1197), and such lands shall be held as Indian lands are held: <i>Provided</i>, That the State ofArizona shall exercise criminal and civil jurisdiction over such lands as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79).
+The Secretary of the Interior is directed, upon request of the Pascua Yaqui Association, Incorporated, and without monetary consideration, to accept on behalf of the United States and in trust for the Pascua Yaqui Tribe, the title to the real property conveyed by the United States to such association under the Act of October 8, 1964 (78 Stat. 1197), and such lands shall be held as Indian lands are held: <i>Provided</i>, That the State of Arizona shall exercise criminal and civil jurisdiction over such lands as if it had assumed jurisdiction pursuant to the Act of August 15, 1953 (67 Stat. 588), as amended by the Act of April 11, 1968 (82 Stat. 79).
 
 (Pub. L. 95–375, §1, Sept. 18, 1978, 92 Stat. 712; Pub. L. 103–357, §1(a), Oct. 14, 1994, 108 Stat. 3418.)
 

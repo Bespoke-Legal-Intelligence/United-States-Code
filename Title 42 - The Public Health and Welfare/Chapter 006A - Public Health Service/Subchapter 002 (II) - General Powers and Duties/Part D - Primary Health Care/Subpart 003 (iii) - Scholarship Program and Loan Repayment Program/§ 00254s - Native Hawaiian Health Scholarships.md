@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-Subject to the availability of funds appropriated under the authority of subsection (d) of this section, the Secretary shall provide funds to Kamehameha Schools/Bishop Estate for the purpose of providing scholarship assistance to students who—
+Subject to the availability of funds appropriated under the authority of subsection (d) of this section, the Secretary shall provide funds to Papa Ola Lokahi for the purpose of providing scholarship assistance to students who—
 
 &emsp;(1) meet the requirements of section 254<i>l</i>(b) of this title, and
 
@@ -34,9 +34,11 @@ For purposes of this section, the term “Native Hawaiian” means any individua
 
 There are authorized to be appropriated $1,800,000 for each of the fiscal years 1990, 1991, and 1992 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title III, §338k, formerly §338J, as added Pub. L. 100–713, title I, §106, Nov. 23, 1988, 102 Stat. 4787; renumbered §338K, Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 101–644, title IV, §401, Nov. 29, 1990, 104 Stat. 4668.)
+(July 1, 1944, ch. 373, title III, §338K, formerly §338J, as added Pub. L. 100–713, title I, §106, Nov. 23, 1988, 102 Stat. 4787; renumbered §338K, Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 101–644, title IV, §401, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 107–116, title V, §514(b), Jan. 10, 2002, 115 Stat. 2220.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–116, which directed the amendment of subsec. (a) by substituting “Papa Ola Lokahi” for “Kamehameha School/Bishop Estate”, was executed by making the substitution for “Kamehameha Schools/Bishop Estate” to reflect the probable intent of Congress.
 
 1990—Subsec. (a). Pub. L. 101–644, which directed the general amendment of subsec. (a) of section 338J of the Public Health Service Act, was executed to subsec. (a) of this section, to reflect the probable intent of Congress and the intervening renumbering of section 338J as 338K by Pub. L. 101–597. Prior to amendment, subsec. (a) read as follows: “Subject to the availability of funds appropriated under the authority of subsection (d) of this section, the Secretary shall provide scholarship assistance, pursuant to a contract with the Kamehameha Schools/Bishop Estate, to students who—
 

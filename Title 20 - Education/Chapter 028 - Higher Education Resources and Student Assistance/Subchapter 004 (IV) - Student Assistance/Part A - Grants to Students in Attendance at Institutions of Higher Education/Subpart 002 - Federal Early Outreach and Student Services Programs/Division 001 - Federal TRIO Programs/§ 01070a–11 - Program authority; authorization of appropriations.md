@@ -58,11 +58,11 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (6) Coordination with other programs for disadvantaged students
 
-&emsp;The Secretary shall encourage coordination of programs assisted under this division withother programs for disadvantaged students operated by the sponsoring institution or agency, regardless of the funding source of such programs. The Secretary shall not limit an entity's eligibility to receive funds under this division because such entity sponsors a program similar to the program to be assisted under this division, regardless of the funding source of such program. The Secretary shall permit the Director of a program receiving funds under this division to administer one or more additional programs for disadvantaged students operated by the sponsoring institution or agency, regardless of the funding sources of such programs.
+&emsp;The Secretary shall encourage coordination of programs assisted under this division with other programs for disadvantaged students operated by the sponsoring institution or agency, regardless of the funding source of such programs. The Secretary shall not limit an entity's eligibility to receive funds under this division because such entity sponsors a program similar to the program to be assisted under this division, regardless of the funding source of such program. The Secretary shall permit the Director of a program receiving funds under this division to administer one or more additional programs for disadvantaged students operated by the sponsoring institution or agency, regardless of the funding sources of such programs.
 
 #### (7) Application status
 
-&emsp;The Secretary shall inform each entity operating programs under this division regarding the status of their application for continued funding at least 8 months prior to the expiration of the grant or contract. The Secretary, in the case of an entity that is continuing to operate a successful program under this division, shall ensure that the start-up date for a new grant or contract for such program immediately follows the termination of the preceding grant or contract so that no interruption of funding occurs for such successful reapplicants. The Secretary shall inform each entity requesting assistance under this division for a new program regarding the status of their application at least 8 months prior to the proposed startup date of such program.
+&emsp;The Secretary shall inform each entity operating programs under this division regarding the status of their application for continued funding at least 8 months prior to the expiration of the grant or contract. The Secretary, in the case of an entity that is continuing to operate a successful program under this division, shall ensure that the start-up date for a new grant or contract for such program immediately follows the termination of the preceding grant or contract so that no interruption of funding occurs for such successful reapplicants. The Secretary shall inform each entity requesting assistance under this division for a new program regarding the status oftheir application at least 8 months prior to the proposed startup date of such program.
 
 #### (d) Outreach
 
@@ -136,7 +136,7 @@ For the purpose of this division:
 
 &emsp;The Secretary may waive the service requirements in subparagraph (A) or (B) of paragraph (3) if the Secretary determines the application of the service requirements to a veteran will defeat the purpose of a program under this division.
 
-(Pub. L. 89–329, title IV, §402A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 482; amended Pub. L. 103–208, §2(b)(6)–(9), Dec. 20, 1993, 107 Stat. 2458; Pub. L. 105–244, title I, §102(b)(1), title IV, §402(a), Oct. 7, 1998, 112 Stat. 1622, 1652.)
+(Pub. L. 89–329, title IV, §402A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 482; amended Pub. L. 103–208, §2(b)(6)–(9), Dec. 20, 1993, 107 Stat. 2458; Pub. L. 105–244, title I,§102(b)(1), title IV, §402(a), Oct. 7, 1998, 112 Stat. 1622, 1652.)
 
 #### References in Text
 
@@ -182,81 +182,9 @@ Amendment by section 2(b)(6), (8), (9) of Pub. L. 103–208 effective as if incl
 
 #### Advanced Placement Fee Payment Program
 
-Pub. L. 105–244, title VIII, §810, Oct. 7, 1998, 112 Stat. 1808, provided that:
+Pub. L. 105–244, title VIII, §810, Oct. 7, 1998, 112 Stat. 1808, which authorized grants to States to enable States to reimburse low-income individuals to cover part or all of the cost of advanced placement test fees, required dissemination of information regarding availability of payments, set forth requirements for approval of applications and funding rules, authorized regulations, required annual report, defined terms, and authorized appropriations, was repealed by Pub. L. 107–110, title X, §1011(2), Jan. 8, 2002, 115 Stat. 1986.
 
-“(a)
-
-Program Established.—The Secretary of Education is authorized to make grants to States having applications approved under subsection (c) to enable the States to reimburse low-income individuals to cover part or all of the cost of advanced placement test fees, if the low-income individuals—
-
-&emsp;“(1) are enrolled in an advanced placement class; and
-
-&emsp;“(2) plan to take an advanced placement test.
-
-“(b)
-
-Information Dissemination.—The State educational agency shall disseminate information regarding the availability of test fee payments under this section to eligible individuals through secondary school teachers and guidance counselors.
-
-“(c)
-
-Requirements for Approval of Applications.—In approving applications for grants the Secretary of Education shall—
-
-&emsp;“(1) require that each such application contain a description of the advanced placement test fees the State will pay on behalf of individual students;
-
-&emsp;“(2) require an assurance that any funds received under this section, other than funds used in accordance with subsection (d), shall be used only to pay advanced placement test fees;
-
-&emsp;“(3) contain such information as the Secretary may require to demonstrate that the State will ensure that a student is eligible for payments under this section, including the documentation required by chapter 1 of subpart 2 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a–11 et seq.); and
-
-&emsp;“(4) consider the number of children eligible to be counted under section 1124(c) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6333(c)\] in the State in relation to the number of such children in all the States in determining grant award amounts.
-
-“(d)
-
-Funding Rules.—
-
-&emsp;“(1)
-
-Use of funds.—A State educational agency in a State in which no eligible low-income individual is required to pay more than a nominal fee to take advanced placement tests in core subjects may use any grant funds provided to that State educational agency, that remain after fees have been paid on behalf of all eligible low-income individuals, for activities directly related to increasing—
-
-&emsp;&emsp;“(A) the enrollment of low-income individuals in advanced placement courses;
-
-&emsp;&emsp;“(B) the participation of low-income individuals in advanced placement tests; and
-
-&emsp;&emsp;“(C) the availability of advanced placement courses in schools serving high poverty areas.
-
-&emsp;“(2)
-
-Supplement, not supplant, rule.—Funds provided under this section shall supplement and not supplant other non-Federal funds that are available to assist low-income individuals in paying advanced placement test fees.
-
-“(e)
-
-Regulations.—The Secretary of Education shall prescribe such regulations as are necessary to carry out this section.
-
-“(f)
-
-Report.—Each State annually shall report to the Secretary of Education regarding—
-
-&emsp;“(1) the number of low-income individuals in the State who receive assistance under this section; and
-
-&emsp;“(2) the activities described in subsection (d)(1), if applicable.
-
-“(g)
-
-Definition.—In this section:
-
-&emsp;“(1)
-
-Advanced placement test.—The term ‘advanced placement test’ includes only an advanced placement test approved by the Secretary of Education for the purposes of this section.
-
-&emsp;“(2)
-
-Low-income individual.—The term ‘low-income individual’ has the meaning given the term in section 402A(g)(2) of the Higher Education Act of 1965 (20 U.S.C. 1070a–11(g)(2)).
-
-“(h)
-
-Authorization of Appropriations.—There are authorized to be appropriated $6,800,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this section.”
-
-Similar provisions were contained in the following prior act:
-
-Pub. L. 102–325, title XV, §1545, July 23, 1992, 106 Stat. 837.
+Similar provisions were contained in Pub. L. 102–325, title XV, §1545, July 23, 1992, 106 Stat. 837, which was repealed by Pub. L. 107–110, title X, §1011(1), Jan. 8, 2002, 115 Stat. 1986.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 &emsp;The Administration may designate a certified development company as a premier certified lender—
 
-&emsp;&emsp;(A) if the company is an active certified development company in good standing and has been an active participant in the accredited lenders program during the entire 12-month period preceding the date on whichthe company submits an application under paragraph (1), except that the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
+&emsp;&emsp;(A) if the company is an active certified development company in good standing and has been an active participant in the accredited lenders program during the entire 12-month period preceding the date on which the company submits an application under paragraph (1), except that the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
 
 &emsp;&emsp;(B) if the company has a history of—
 
@@ -86,11 +86,11 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (1) In general
 
-&emsp;Notwithstanding section 697(b)(6) of this title, and subject to such terms and conditions as the Administration may establish, the Administration may permit a company designated as a premier certified lender under this section to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans that are funded with the proceeds of a debenture issued by such company and may authorize the guarantee of such debenture.
+&emsp;Notwithstanding section 697(b)(6) of this title, and subject to such terms and conditionsas the Administration may establish, the Administration may permit a company designated as a premier certified lender under this section to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans that are funded with the proceeds of a debenture issued by such company and may authorize the guarantee of such debenture.
 
 #### (2) Scope of review
 
-&emsp;The approval of a loan by a premier certified lender shall be subject to final approval as to eligibility of any guarantee by the Administration pursuant to section 697(a) of this title, but such final approval shall not include review of decisions by the lender involving creditworthiness, loan closing, or compliance withlegal requirements imposed by law or regulation.
+&emsp;The approval of a loan by a premier certified lender shall be subject to final approval as to eligibility of any guarantee by the Administration pursuant to section 697(a) of this title, but such final approval shall not include review of decisions by the lender involving creditworthiness, loan closing, or compliance with legal requirements imposed by law or regulation.
 
 #### (f) Review
 

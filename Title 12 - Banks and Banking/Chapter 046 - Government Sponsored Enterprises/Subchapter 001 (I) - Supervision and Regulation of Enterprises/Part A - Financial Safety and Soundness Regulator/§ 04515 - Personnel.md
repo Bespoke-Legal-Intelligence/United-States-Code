@@ -2,7 +2,7 @@
 
 #### (a) Office personnel
 
-The Director may appoint and fix the compensation of such officers and employees of the Office as the Director considers necessary to carry out the functions of the Director and theOffice. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
+The Director may appoint and fix the compensation of such officers and employees of the Office as the Director considers necessary to carry out the functions of the Director and the Office. Officers and employees may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 relating to classification and General Schedule pay rates.
 
 #### (b) Comparability of compensation with Federal banking agencies
 

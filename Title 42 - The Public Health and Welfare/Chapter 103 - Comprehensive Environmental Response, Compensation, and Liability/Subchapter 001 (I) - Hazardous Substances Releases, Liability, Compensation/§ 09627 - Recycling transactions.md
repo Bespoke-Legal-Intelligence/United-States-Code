@@ -54,11 +54,11 @@ Transactions involving scrap paper, scrap plastic, scrap glass, scrap textiles, 
 
 Transactions involving spent lead-acid batteries, spent nickel-cadmium batteries, or other spent batteries shall be deemed to be arranging for recycling if the person who arranged for the transaction (by selling recyclable material or otherwise arranging for the recycling of recyclable material) can demonstrate by a preponderance of the evidence that at the time of the transaction—
 
-&emsp;(1) the person met the criteria set forth in subsection (c) of this section with respect tothe spent lead-acid batteries, spent nickel-cadmium batteries, or other spent batteries, but the person did not recover the valuable components of such batteries; and
+&emsp;(1) the person met the criteria set forth in subsection (c) of this section with respect to the spent lead-acid batteries, spent nickel-cadmium batteries, or other spent batteries, but the person did not recover the valuable components of such batteries; and
 
 &emsp;(2)(A) with respect to transactions involving lead-acid batteries, the person was in compliance with applicable Federal environmental regulations or standards, and any amendments thereto, regarding the storage, transport, management, or other activities associated with the recycling of spent lead-acid batteries;
 
-&emsp;(B) with respect to transactions involving nickel-cadmium batteries, Federal environmental regulations or standards are in effect regarding the storage, transport, management, or other activities associated with the recycling of spent nickel-cadmium batteries, and the person was in compliance with applicable regulations or standards or any amendments thereto; or
+&emsp;(B) with respect to transactions involving nickel-cadmium batteries, Federal environmental regulations or standards are in effect regarding the storage, transport, management, or other activities associated with the recycling of spent nickel-cadmium batteries,and the person was in compliance with applicable regulations or standards or any amendments thereto; or
 
 &emsp;(C) with respect to transactions involving other spent batteries, Federal environmental regulations or standards are in effect regarding the storage, transport, management, or other activities associated with the recycling of such batteries, and the person was in compliance with applicable regulations or standards or any amendments thereto.
 
@@ -129,4 +129,6 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title VI, §6001(a)\], Nov. 29, 1999, 
 &emsp;“(2) to create greater equity in the statutory treatment of recycled versus virgin materials; and
 
 &emsp;“(3) to remove the disincentives and impediments to recycling created as an unintended consequence of the 1980 Superfund liability provisions.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

@@ -38,6 +38,7 @@
 | (f) | Deductions on account of work. |
 | (g) | Employment compensation of survivors; deductions. |
 | (h) | Military service; reductions. |
+| (i) | Limitation; service accrued after 1995. |
 | 231b. | Computation of annuities. |
 | (a) | Amount. |
 | (b) | Increased annuities under subsection (a). |
@@ -54,7 +55,7 @@
 | 231c. | Computation of spouse and survivor annuities. |
 | (a) | Amount of spouses’ annuities; age. |
 | (b) | Increases in spouses’ annuities in accordance with section 231b(b), (c), (d) of this title. |
-| (c) | Reductions in spouses’ annuities. |
+| (c) | Repealed. |
 | (d) | Increases in spouses’ annuities in accordance with section 231b(g) of this title. |
 | (e) | Increases in particular spouses’ annuities. |
 | (f) | Amount of survivors’ annuities; age; entitlement. |
@@ -93,18 +94,21 @@
 | 231n. | Railroad Retirement Account. |
 | (a) | Maintenance of account; authorization of appropriations. |
 | (b) | Authorization of appropriations; military service costs and administrative expenses. |
-| (c) | Maintenance of Railroad Retirement Supplemental Account; authorization of appropriations. |
+| (c) | Repealed. |
 | (d) | Dual Benefits Payments Account. |
 | (e) | Investments. |
 | (f) | Actuarial Advisory Committee. |
 | (g) | Annual report. |
 | (h) | Authorization of appropriations; administrative expenses of subchapter. |
 | (i) | Crediting of accounts for unnegotiated benefit checks. |
+| (j) | National Railroad Retirement Investment Trust. |
+| (k) | Transfers to the Trust. |
+| (<i>l</i>) | National Railroad Retirement Investment Trust. |
 | 231n–1. | Social Security Equivalent Benefit Account. |
 | (a) | Establishment. |
 | (b) | Transfers, etc., to Social Security Equivalent Benefit Account. |
 | (c) | Availability and transfer of funds. |
-| (d) | Transfers from Railroad Retirement Account to Social Security Equivalent Benefit Account; retransfer. |
+| (d) | Transfers to Social Security Equivalent Benefit Account and National Railroad Retirement Investment Trust. |
 | (e) | Applicability of section 231n. |
 | (f) | References to Railroad Retirement Account deemed references to Social Security Equivalent Benefit Account; “social security equivalent benefits” defined. |
 | 231<i>o.</i> | Private pensions. |
@@ -118,7 +122,10 @@
 | 231s. | Separability. |
 | 231t. | Short title. |
 | 231u. | Benefit preservation. |
-| 231v. | Repealed. |
+| 231v. | Computation and certification of account benefit ratios. |
+| (a) | Initial computation and certification. |
+| (b) | Computations and certifications after 2003. |
+| (c) | Definition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

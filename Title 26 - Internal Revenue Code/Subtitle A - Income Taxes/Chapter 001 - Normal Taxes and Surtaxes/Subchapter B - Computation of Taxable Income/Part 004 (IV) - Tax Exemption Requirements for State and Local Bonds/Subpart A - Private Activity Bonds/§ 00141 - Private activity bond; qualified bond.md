@@ -414,7 +414,7 @@ In general.—Except as provided in paragraph (3), the amendments made by sectio
 
 &emsp;&emsp;“(A) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond, and
 
-&emsp;&emsp;“(B)(i) the average maturity of the issue of which the refunding bond is a part does not exceed 120 percent of the average reasonably expected economic life of the facilities being financed with the net proceeds of such issue (determined under section 147(b) of the 1986 Code), or
+&emsp;&emsp;“(B)(i) the average maturity of the issue of which the refunding bond is a part does not exceed 120 percent of the average reasonably expected economiclife of the facilities being financed with the net proceeds of such issue (determined under section 147(b) of the 1986 Code), or
 
 &emsp;&emsp;“(ii) the refunding bond has a maturity date not later than the date which is 17 years after the date on which the qualified bond was issued.
 
@@ -528,7 +528,7 @@ limitation for certain 501(c
 
 )(3) bonds.—Subsection (b) of section 145 of the 1986 Code (relating to $150,000,000 limitation for nonhospital bonds) shall not apply to any bond (or series of bonds) the proceeds of which are used exclusively to refund a tax-exempt bond to which such subsection did not apply if—
 
-&emsp;&emsp;“(A)(i) the average maturity of the issue of which the refunding bond is a part does not exceed 120 percent of the average reasonably expected economic life of the facilities being financed with the net proceeds of such issue (determined under section 147(b) of the 1986 Code), or
+&emsp;&emsp;“(A)(i) the average maturity of the issue of which the refunding bond is a part does not exceed 120 percent of the average reasonably expected economiclife of the facilities being financed with the net proceeds of such issue (determined under section 147(b) of the 1986 Code), or
 
 &emsp;&emsp;“(ii) the refunding bond has a maturity date not later than the later of the date which is 17 years after the date on which the qualified bond (as defined in subsection (a)(2)) was issued, and
 
@@ -686,7 +686,7 @@ Facilities and Purposes Described.—
 
 &emsp;&emsp;“(A) on September 13, 1985, the State public facilities authority took official action authorizing the issuance of bonds for such facility, and
 
-&emsp;&emsp;“(B) on December 30, 1985, there was an executive order of the State Governor granting allocation ofthe State ceiling under section 103(n) of the 1954 Code in the amount of $250,000,000 to the Industrial Development Board of the Parish of East Baton Rouge, Louisiana.
+&emsp;&emsp;“(B) on December 30, 1985, there was an executive order of the State Governor granting allocation of the State ceiling under section 103(n) of the 1954 Code in the amount of $250,000,000 to the Industrial Development Board of the Parish of East Baton Rouge, Louisiana.
 
 > &emsp;The aggregate face amount of bonds to which this paragraph applies shall not exceed $98,500,000.
 
@@ -760,7 +760,7 @@ Certain State Programs.—
 
 &emsp;“(1)
 
-In general.—A bond described in paragraph (2) shall be treated as described in section 141(d)(1) of the 1986 Code and as having a carryforward purpose described in section 146(f)(5) of such Code.
+In general.—A bond described in paragraph (2) shall be treated as described in section 141(d)(1) of the1986 Code and as having a carryforward purpose described in section 146(f)(5) of such Code.
 
 &emsp;“(2)
 
@@ -1064,7 +1064,7 @@ Sports facilities.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;&emsp;“(iii) such stadium or stadiums are located in the city described in (i).
 
-> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $250,000,000. In the case of any carryforward of volume cap for one or more stadiums described in the first sentence of this subparagraph, such carryforward shall be valid with respect to bonds issued for such stadiums notwithstanding any other provision of the 1986 Code or the 1954 Code, and whether or not (i) there is a change in the number of stadiums or the beneficiaries or sites of the stadium or stadiums and (ii) the bonds are issued by either of the state agencies described in the first sentence of this subparagraph.
+> &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $250,000,000. In the case of any carryforward of volume cap for one or more stadiums described in the first sentence of this subparagraph, such carryforward shall be valid with respect to bonds issued for such stadiums notwithstanding any other provision of the 1986 Code or the 1954 Code, and whether or not (i) there is a change in the number of stadiums or the beneficiaries or sitesof the stadium or stadiums and (ii) the bonds are issued by either of the state agencies described in the first sentence of this subparagraph.
 
 &emsp;“(D) A facility is described in this subparagraph if—
 
@@ -1178,7 +1178,7 @@ Sports facilities.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;&emsp;“(i) such facility is described in a feasibility study dated September 1985, and
 
-&emsp;&emsp;“(ii) resolutions were adopted or other actions taken on February 21, 1985, July 18, 1985, August 8, 1985, October 17, 1985, and November 7, 1985, by the Board of Supervisors of the county in which such facility will be located with respect to such feasibility study, appropriations to obtain land for such facility, and approving the location of such facility in the county.
+&emsp;&emsp;“(ii) resolutions were adopted or other actions taken on February 21, 1985, July 18, 1985, August 8, 1985, October 17, 1985, and November 7, 1985, by theBoard of Supervisors of the county in which such facility will be located with respect to such feasibility study, appropriations to obtain land for such facility, and approving the location of such facility in the county.
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $20,000,000.
 
@@ -1218,7 +1218,7 @@ Sports facilities.—A bond issued as part of an issue 95 percent or more of the
 
 &emsp;“(V) A facility is described in this subparagraph if it is a sports arena (and related parking facility) for Grand Rapids, Michigan. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $80,000,000.
 
-&emsp;“(W) A facility is described in this subparagraph if such facility is located adjacent to the AnacostiaRiver in the District of Columbia. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $25,000,000.
+&emsp;“(W) A facility is described in this subparagraph if such facility is located adjacent to the Anacostia River in the District of Columbia. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $25,000,000.
 
 &emsp;“(X) A facility is described in this subparagraph if it is a spectator sports facility for the City of San Antonio, Texas. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $125,000,000.
 
@@ -1296,7 +1296,7 @@ Redevelopment projects.—A bond issued as part of an issue 95 percent or more o
 
 &emsp;“(H) A project is described in this subparagraph if—
 
-&emsp;&emsp;“(i) such project is a project for research and development facilities to be used primarily to benefita State university and related hospital, with respect to which an urban renewal district was created by the city council effective October 11, 1985, and
+&emsp;&emsp;“(i) such project is a project for research and development facilities to be used primarily to benefit a State university and related hospital, with respect to which an urban renewal district was created by the city council effective October 11, 1985, and
 
 &emsp;&emsp;“(ii) such project was announced by the university and the city in March 1985.
 
@@ -1562,7 +1562,7 @@ Sports or convention facilities.—A bond issued as a part of an issue 95 percen
 
 “(9)
 
-Parking facilities.—A bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide a parking facility (within the meaning of section 103(b)(4)(D) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facility is described in any of the following subparagraphs:
+Parking facilities.—A bond issued as part of an issue 95 percent or more of the net proceeds of whichare to be used to provide a parking facility (within the meaning of section 103(b)(4)(D) of the 1954 Code) shall be treated as an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code if such facility is described in any of the following subparagraphs:
 
 &emsp;“(A) A facility is described in this subparagraph if—
 
@@ -1674,7 +1674,7 @@ Certain advance refundings.—
 
 Principal user provisions.—
 
-&emsp;“(A) In the case of a bond issued as part of an issue the proceeds of which are to be used to provide a facility described in subparagraph (B) or (C), the determination of whether such bond is an exempt facility bond shall be made by substituting ‘90 percent’ for ‘95 percent’ in section 142(a) of the 1986 Code.
+&emsp;“(A) In the case of a bond issued as part of an issue the proceeds of which are to be used to provide a facility described in subparagraph (B) or (C), the determination of whether such bond is an exempt facilitybond shall be made by substituting ‘90 percent’ for ‘95 percent’ in section 142(a) of the 1986 Code.
 
 &emsp;“(B) A facility is described in this subparagraph if—
 
@@ -1902,7 +1902,7 @@ Residential rental property projects.—A bond issued as part of an issue 95 per
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $64,000,000.
 
-&emsp;“(Y) A project or projects are described in this subparagraph if they are financed with bonds issued by the Tulare, California, County Housing Authority. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $8,000,000.
+&emsp;“(Y) A project or projects are described in this subparagraph if they are financed with bonds issued bythe Tulare, California, County Housing Authority. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $8,000,000.
 
 &emsp;“(Z) A residential rental project is described in this subparagraph if such project is a multifamily mixed-use housing project located in a city described in paragraph (3)(C), the zoning for which was changed to residential-business planned development on November 26, 1985, and with respect to which both the city on December 4, 1985, and the state housing finance agency on December 20, 1985, adopted inducement resolutions. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $90,000,000.
 
@@ -1944,7 +1944,7 @@ Annuity contracts.—The treatment of annuity contracts as investment property u
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $40,000,000.
 
-&emsp;“(C) A bond is described in this subparagraph if such bond is issued by the South Dakota Building Authority if on September 18, 1985, representatives of such authority and its underwriters met with bondcounsel and approved financing the purchase of an annuity contract through the sale and leaseback of State properties. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $175,000,000.
+&emsp;“(C) A bond is described in this subparagraph if such bond is issued by the South Dakota Building Authority if on September 18, 1985, representatives of such authority and its underwriters met with bond counsel and approved financing the purchase of an annuity contract through the sale and leaseback of State properties. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $175,000,000.
 
 &emsp;“(D) A bond is described in this subparagraph if—
 
@@ -2114,7 +2114,7 @@ Special rules for subparagraph (a).—
 
 &emsp;&emsp;“(i)
 
-Bonds subject to cap.—Section 146 of the 1986 Code shall apply to any bond described in subparagraph (A) which (without regard to subparagraph (A)) is a private activity bond. For purposes of applying section 146(k) of the 1986 Code, the public utility facility described in subparagraph (A) shall be treated as described in paragraph (2) of such section and such paragraph shall be applied without regard to the requirement that the issuer establish that a State's share of the use of a facility (or its output) will equal or exceed the State's share of the private activity bonds issued to finance the facility.
+Bonds subject to cap.—Section 146 of the 1986 Code shall apply to any bond described in subparagraph (A) which (without regard to subparagraph (A)) is a private activity bond. For purposes of applying section 146(k) of the 1986 Code, the public utility facility described in subparagraph (A)shall be treated as described in paragraph (2) of such section and such paragraph shall be applied without regard to the requirement that the issuer establish that a State's share of the use of a facility (or its output) will equal or exceed the State's share of the private activity bonds issued to finance the facility.
 
 &emsp;&emsp;“(ii)
 
@@ -2160,7 +2160,7 @@ Small issue termination.—Section 144(a)(12) of the 1986 Code shall not apply t
 
 > &emsp;The aggregate face amount of bonds to which this subparagraph applies shall not exceed $10,000,000.
 
-&emsp;“(B) A facility is described in this subparagraph if such facility is financed by bonds issued by a State finance authority which was created in April 1985 by Act 1062 of the State General Assembly, and the Bond Guarantee Act (Act 505 of 1985) allowed such authority to pledge the interest from investment of the State's general fund as a guarantee for bonds issued by such authority. The aggregate face amount ofbonds to which this subparagraph applies shall not exceed $75,000,000.
+&emsp;“(B) A facility is described in this subparagraph if such facility is financed by bonds issued by a State finance authority which was created in April 1985 by Act 1062 of the State General Assembly, and the Bond Guarantee Act (Act 505 of 1985) allowed such authority to pledge the interest from investment of the State's general fund as a guarantee for bonds issued by such authority. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $75,000,000.
 
 &emsp;“(C) A facility is described in this subparagraph if such facility is a downtown mall and parking project for Holland, Michigan, with respect to which an initial agreement was formulated with the city in May 1985 and a formal memorandum of understanding was executed on July 2, 1986. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $18,200,000.
 
@@ -2346,7 +2346,7 @@ Application of $150,000,000 limitation for certain qualified 501(c
 
 “(34)
 
-Arbitrage rebate.—Section 148(f) of the 1986 Code shall not apply to any period before October 1, 1990, with respect to any bond the proceeds of which are to be used to provide a high-speed rail system for theState of Ohio. The aggregate face amount of bonds to which this paragraph applies shall not exceed $2,000,000,000.
+Arbitrage rebate.—Section 148(f) of the 1986 Code shall not apply to any period before October 1, 1990, with respect to any bond the proceeds of which are to be used to provide a high-speed rail system for the State of Ohio. The aggregate face amount of bonds to which this paragraph applies shall not exceed $2,000,000,000.
 
 “(35)
 
@@ -2484,7 +2484,7 @@ Treatment of certain obligations.—A bond which is not an industrial developmen
 
 &emsp;“(B) A facility is described in this subparagraph if it is a convention, trade, or spectator facility which is to be located in the State with respect to which paragraph (6)(U) applies and with respect to which feasibility and preliminary design consultants were hired on May 1, 1985 and October 31, 1985. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $175,000,000.
 
-&emsp;“(C) A facility which is part of a project described in paragraph (6)(O). The aggregate face amount of bonds to which this subparagraph applies shall not exceed $20,000,000.
+&emsp;“(C) A facility which is part of a project described in paragraph (6)(O). The aggregate face amount ofbonds to which this subparagraph applies shall not exceed $20,000,000.
 
 “(49)
 

@@ -46,7 +46,7 @@ Exclusions From Tour Length.—The Secretary of Defense may exclude the followin
 
 (e)
 
-Average Tour Lengths.—(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year, measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
+Average Tour Lengths.—(1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year,measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
 
 (2) In computing the average length of joint duty assignments for purposes of paragraph (1), the Secretary may exclude the following service:
 
@@ -114,7 +114,7 @@ Joint Duty Credit for Certain Joint Task Force Assignments.—(1) In the case of
 
 &emsp;(i) to the headquarters staff of a United States joint task force that is part of a unified command or the United States element of the headquarters staff of a multinational force; and
 
-&emsp;(ii) with respect to which the Secretary of Defense determines that service of the officerin that assignment is equivalent to that which would be gained by the officer in a joint duty assignment.
+&emsp;(ii) with respect to which the Secretary of Defense determines that service of the officer in that assignment is equivalent to that which would be gained by the officer in a joint duty assignment.
 
 (B) An officer may not be granted credit under this subsection unless the officer is recommended for such credit by the Chairman of the Joint Chiefs of Staff.
 
@@ -130,15 +130,27 @@ Joint Duty Credit for Certain Joint Task Force Assignments.—(1) In the case of
 
 &emsp;(D) The joint task force must be constituted or designated by the Secretary of Defense or by the commander of a combatant command or of another force.
 
-&emsp;(E) The joint task force must conduct combat or combat-related operations in a unified action under joint or multinational command and control.
+&emsp;(E) Except as provided in subparagraph (F), the joint task force must conduct combat or combat-related operations in a unified action under joint or multinational command and control.
+
+&emsp;(F) Service in a temporary joint task force assignment not involved in combat or combat-related operations may not be credited for the purposes of joint duty, unless, and only if—
+
+&emsp;&emsp;(i) the service of the officer and the nature of the joint task force not only meet all criteria of this section, except subparagraph (E), but also any additional criteria the Secretary may establish;
+
+&emsp;&emsp;(ii) the Secretary has specifically approved the operation conducted by the joint task force as one that qualifies for joint service credit, and notifies Congress upon each approval, providing the criteria that led to that approval; and
+
+&emsp;&emsp;(iii) the operation is conducted by the joint task force in an environment where an extremely fragile state of peace and high potential for hostilities coexist.
 
 (5) Officers for whom joint duty credit is granted pursuant to this subsection may not be taken into account for the purposes of any of the following provisions of this title: section 661(d)(1), section 662(a)(3), section 662(b), subsection (a) of this section, and paragraphs (7), (8), (9), (11), and (12) of section 667.
 
 (6) In the case of an officer credited with having completed a full tour of duty in a joint duty assignment pursuant to this subsection, the Secretary of Defense may waive the requirement in paragraph (1)(B) of section 661(c) of this title that the tour of duty in a joint duty assignment be performed after the officer completes a program of education referred to in paragraph (1)(A) of that section. The provisions of subparagraphs (C) and (D) of section 661(c)(3) of this title shall apply to such a waiver in the same manner as to a waiver under subparagraph (A) of that section.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1028; amended Pub. L. 100–180, div. A, title XIII, §1303(a), Dec. 4, 1987, 101 Stat. 1170; Pub. L. 100–456, div. A, title V, §§514, 517(b), Sept. 29, 1988, 102 Stat. 1969, 1971; Pub. L. 104–106, div. A, title V, §501(b), (e), (f), Feb. 10, 1996, 110 Stat. 290, 292; Pub. L. 106–65, div. A, title X, §1066(a)(5), Oct. 5, 1999, 113 Stat. 770; Pub. L. 107–107, div. A, title V, §522, Dec. 28, 2001, 115 Stat. 1097.)
 
 #### Amendments
+
+2001—Subsec. (i)(4)(E). Pub. L. 107–107, §522(1), substituted “Except as provided in subparagraph (F), the joint task force” for “The joint task force”.
+
+Subsec. (i)(4)(F). Pub. L. 107–107, §522(2), added subpar. (F).
 
 1999—Subsec. (i)(2)(A). Pub. L. 106–65 substituted “February 10, 1996” for “the date of the enactment of this subsection” in introductory provisions.
 
@@ -182,7 +194,7 @@ Subsec. (g)(3). Pub. L. 100–456, §514(5), substituted “shall be excluded if
 
 Subsec. (h). Pub. L. 100–456, §514(6), added subsec. (h).
 
-1987—Subsec. (b). Pub. L. 100–180 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary of Defense may waive subsection (a) in the case of any officer, but the Secretary shall ensure that the average length of joint duty assignments meets the standards prescribed in that subsection.”
+1987—Subsec. (b). Pub. L. 100–180 added subsec. (b) and struck out former subsec. (b) which read as follows:“The Secretary of Defense may waive subsection (a) in the case of any officer, but the Secretary shall ensure that the average length of joint duty assignments meets the standards prescribed in that subsection.”
 
 Subsec. (c). Pub. L. 100–180 added subsec. (c) and struck out former subsec. (c), “Certain officers with critical combat operations skills”, which read as follows: “Joint duty assignments of less than the period prescribed by subsection (a), but not less than two years, may be authorized for the purposes of section 661(c)(2) of this title. Such an assignment may not be counted for the purposes of determining the average length of joint duty assignments under subsection (b).”
 
@@ -199,6 +211,40 @@ Subsec. (d). Pub. L. 100–180 added subsec. (d) and struck out former subsec. (
 “(2) In computing the average length of joint duty assignments for purposes of this section, the Secretary of Defense shall exclude joint duty assignments not completed because of a reason specified in paragraph (1).”
 
 Subsecs. (e) to (g). Pub. L. 100–180 added subsecs. (e) to (g).
+
+#### Retroactive Joint Service Credit for Duty in Certain Joint Task Forces
+
+Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provided that:
+
+“(a)
+
+Authority.—In accordance with section 664(i) of title 10, United States Code, as amended by section 522, the Secretary of Defense may award joint service credit to any officer who served on the staff of a United States joint task force headquarters in an operation and during the period set forth in subsection (b) and who meets the criteria specified in such section. To determine which officers qualify for such retroactive credit, the Secretary shall undertake a case-by-case review of the records of officers.
+
+“(b)
+
+Eligible Operations.—Service in the following operations, during the specified periods, may be counted for credit under subsection (a):
+
+&emsp;“(1) Operation Northern Watch, during the period beginning on August 1, 1992, and ending on a date to be determined.
+
+&emsp;“(2) Operation Southern Watch, during the period beginning on August 27, 1992, and ending on a date to be determined.
+
+&emsp;“(3) Operation Able Sentry, during the period beginning on June 26, 1993, and ending on February 28, 1999.
+
+&emsp;“(4) Operation Joint Endeavor, during the period beginning on December 25, 1995, and ending on December 19, 1996.
+
+&emsp;“(5) Operation Joint Guard, during the period beginning on December 20, 1996, and ending on June 20, 1998.
+
+&emsp;“(6) Operation Desert Thunder, beginning on January 24, 1998, and ending on December 15, 1998.
+
+&emsp;“(7) Operation Joint Forge, beginning on June 20, 1998, and ending on June 10, 1999.
+
+&emsp;“(8) Operation Noble Anvil, beginning on March 24, 1999, and ending on July 20, 1999.
+
+&emsp;“(9) Operation Joint Guardian, beginning on June 11, 1999, and ending on a date to be determined.
+
+“(c)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of Defense shall submit to Congress a report of the numbers, by service, grade, and operation, of the officers given joint service credit in accordance with this section.”
 
 #### Joint Duty Credit for Certain Duty Performed During Operations Desert Shield and Desert Storm
 
@@ -272,7 +318,7 @@ Duration of Authority.—The authority of the Secretary of Defense under this se
 
 #### Length of Joint Duty Assignments
 
-Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 664 of title 10, United States Code\(as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
+Section 406(e) of Pub. L. 99–433 provided that: “Subsection (a) of section 664 of title 10, United States Code (as added by section 401), shall apply to officers assigned to joint duty assignments after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. In computing an average under subsection (b) of such section, only joint duty assignments to which such subsection applies shall be considered.”
 
 #### Waiver of Qualifications for Appointment as Service Chief
 

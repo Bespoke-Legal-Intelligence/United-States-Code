@@ -6,7 +6,7 @@
 
 &emsp;Subject to subsections (c) through (f) of this section, each health insurance issuer that offers health insurance coverage in the small group market in a State—
 
-&emsp;&emsp;(A) must accept every small employer (as defined in section 300gg–91(e)(4) of this title)in the State that applies for such coverage; and
+&emsp;&emsp;(A) must accept every small employer (as defined in section 300gg–91(e)(4) of this title) in the State that applies for such coverage; and
 
 &emsp;&emsp;(B) must accept for enrollment under such coverage every eligible individual (as defined in paragraph (2)) who applies for enrollment during the period in which the individual first becomes eligible to enroll under the terms of the group health plan and may not place any restriction which is inconsistent with section 300gg–1 of this title on an eligible individual being a participant or beneficiary.
 
@@ -74,7 +74,7 @@
 
 #### (1) In general
 
-&emsp;Subsection (a) of this section shall not be construed to preclude a health insurance issuer from establishing employer contributionrules or group participation rules for the offering of health insurance coverage in connection with a group health plan in the small group market, as allowed under applicable State law.
+&emsp;Subsection (a) of this section shall not be construed to preclude a health insurance issuer from establishing employer contribution rules or group participation rules for the offering of health insurance coverage in connection with a group health plan in the small group market, as allowed under applicable State law.
 
 #### (2) Rules defined
 

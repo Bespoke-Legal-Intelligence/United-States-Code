@@ -28,23 +28,53 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) any charitable deduction allowed under section 2055 or 2522 with respect to such property.
 
+#### (3) Severing of trusts
+
+#### (A) In general
+
+&emsp;&emsp;If a trust is severed in a qualified severance, the trusts resulting from such severance shall be treated as separate trusts thereafter for purposes of this chapter.
+
+#### (B) Qualified severance
+
+&emsp;&emsp;For purposes of subparagraph (A)—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “qualified severance” means the division of a single trust and the creation (by any means available under the governing instrument or under local law) of two or more trusts if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the single trust was divided on a fractional basis, and
+
+&emsp;&emsp;&emsp;&emsp;(II) the terms of the new trusts, in the aggregate, provide for the same succession of interests of beneficiaries as are provided in the original trust.
+
+#### (ii) Trusts with inclusion ratio greater than zero
+
+&emsp;&emsp;&emsp;If a trust has an inclusion ratio of greater than zero and less than 1, a severance isa qualified severance only if the single trust is divided into two trusts, one of which receives a fractional share of the total value of all trust assets equal to the applicable fraction of the single trust immediately before the severance. In such case, the trust receiving such fractional share shall have an inclusion ratio of zero and the other trust shall have an inclusion ratio of 1.
+
+#### (iii) Regulations
+
+&emsp;&emsp;&emsp;The term “qualified severance” includes any other severance permitted under regulations prescribed by the Secretary.
+
+#### (C) Timing and manner of severances
+
+&emsp;&emsp;A severance pursuant to this paragraph may be made at any time. The Secretary shall prescribe by forms or regulations the manner in which the qualified severance shall be reported to the Secretary.
+
 #### (b) Valuation rules, etc.
 
 Except as provided in subsection (f)—
 
 #### (1) Gifts for which gift tax return filed or deemed allocation made
 
-&emsp;If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
+&emsp;If the allocation of the GST exemption to any transfers of property is made on a gift tax return filed on or before the date prescribed by section 6075(b) for such transfer or is deemed to be made under section 2632(b)(1) or (c)(1)—
 
-&emsp;&emsp;(A) the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 12, and
+&emsp;&emsp;(A) the value of such property for purposes of subsection (a) shall be its value as finally determined for purposes of chapter 12 (within the meaning of section 2001(f)(2)), or, in the case of an allocation deemed to have been made at the close of an estate tax inclusion period, its value at the time of the close of the estate tax inclusion period, and
 
-&emsp;&emsp;(B) such allocation shall be effective on and after the date of such transfer.
+&emsp;&emsp;(B) such allocation shall be effective on and after the date of such transfer, or, in the case of an allocation deemed to have been made at the close of an estate tax inclusion period, on and after the close of such estate tax inclusion period.
 
 #### (2) Transfers and allocations at or after death
 
 #### (A) Transfers at death
 
-&emsp;&emsp;If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned..<sup>1</sup>
+&emsp;&emsp;If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value as finally determined for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.
 
 #### (B) Allocations to property transferred at death of transferor
 
@@ -202,9 +232,49 @@ Except as provided in regulations—
 
 &emsp;Under regulations, appropriate adjustments shall be made in the application of subsection (d) to take into account the provisions of this subsection.
 
-(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519.)
+#### (g) Relief provisions
+
+#### (1) Relief from late elections
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall by regulation prescribe such circumstances and proceduresunder which extensions of time will be granted to make—
+
+&emsp;&emsp;&emsp;(i) an allocation of GST exemption described in paragraph (1) or (2) of subsection (b), and
+
+&emsp;&emsp;&emsp;(ii) an election under subsection (b)(3) or (c)(5) of section 2632.
+
+> &emsp;&emsp;Such regulations shall include procedures for requesting comparable relief with respect to transfers made before the date of the enactment of this paragraph.
+
+#### (B) Basis for determinations
+
+&emsp;&emsp;In determining whether to grant relief under this paragraph, the Secretary shall take into account all relevant circumstances, including evidence of intent contained in the trust instrument or instrument of transfer and such other factors as the Secretary deems relevant. For purposes of determining whether to grant relief under this paragraph, the time for making the allocation (or election) shall be treated as if not expressly prescribed by statute.
+
+#### (2) Substantial compliance
+
+&emsp;An allocation of GST exemption under section 2632 that demonstrates an intent to have the lowest possible inclusion ratio with respect to a transfer or a trust shall be deemed to be an allocation of so much of the transferor's unused GST exemption as produces the lowest possible inclusion ratio. In determining whether there has been substantial compliance, all relevant circumstances shall be taken into account, including evidence of intent contained in the trust instrument or instrument of transfer and such other factors as the Secretary deems relevant.
+
+(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722; amended Pub. L. 100–647, title I, §1014(g)(3)(A), (4), (17)(A), (B), (18), Nov. 10, 1988, 102 Stat. 3563, 3566, 3567; Pub. L. 101–239, title VII, §7811(j)(4), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11703(c)(1), (2), 11704(a)(17), (36), Nov. 5, 1990, 104 Stat. 1388–517, 1388–519; Pub. L. 107–16, title V, §§562(a), 563(a), (b), 564(a), June 7, 2001, 115 Stat. 89–91.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–16, §§562(a), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(1). Pub. L. 107–16, §§563(a), 901, temporarily reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “If the allocation of the GST exemption to any property is made on a gift tax return filed on or before the date prescribed by section 6075(b) or is deemed to be made under section 2632(b)(1)—
+
+&emsp;“(A) the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 12, and
+
+&emsp;“(B) such allocation shall be effective on and after the date of such transfer.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(2)(A). Pub. L. 107–16, §§563(b), 901, temporarily reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “If property is transferred as a result of the death of the transferor, the value of such property for purposes of subsection (a) shall be its value for purposes of chapter 11; except that, if the requirements prescribed by the Secretary respecting allocation of post-death changes in value are not met, the value of such property shall be determined as of the time of the distribution concerned.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (g). Pub. L. 107–16, §§564(a), 901, temporarily added subsec. (g). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1990</b>—Subsec. (b)(3). Pub. L. 101–508, §11704(a)(36), amended Pub. L. 100–647, §1014(g)(4)(F)(ii). See 1988 Amendment note below.
 
@@ -262,6 +332,24 @@ Subsec. (e). Pub. L. 100–647, §1014(g)(3)(A), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–647, §1014(g)(4)(A), added subsec. (f).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title V, §562(b), June 7, 2001, 115 Stat. 90, provided that: “The amendment made by this section \[amending this section\] shall apply to severances after December 31, 2000.”
+
+Pub. L. 107–16, title V, §563(c), June 7, 2001, 115 Stat. 91, provided that: “The amendments made by this section \[amending this section\] shall apply to transfers subject to chapter 11 or 12 of the Internal Revenue Code of 1986 made after December 31, 2000.”
+
+Pub. L. 107–16, title V, §564(b), June 7, 2001, 115 Stat. 91, provided that:
+
+“(1)
+
+Relief from late elections.—Section 2642(g)(1) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to requests pending on, or filed after, December 31, 2000.
+
+“(2)
+
+Substantial compliance.—Section 2642(g)(2) of such Code (as so added) shall apply to transfers subject to chapter 11 or 12 of the Internal Revenue Code of 1986 made after December 31, 2000. No implication is intended with respect to the availability of relief from late elections or the application of a rule of substantial compliance on or before such date.”
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1990 Amendment
 
 Section 11703(c)(4) of Pub. L. 101–508 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to transfers after March 31, 1988.”
@@ -284,7 +372,5 @@ Section applicable to generation-skipping transfers (within the meaning of secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2654 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
+This section is referred to in sections 2632, 2654 of this title.
 

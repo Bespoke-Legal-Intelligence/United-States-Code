@@ -10,7 +10,7 @@ The Commission shall issue such licenses on a nonexclusive basis to persons appl
 
 #### (c) License period
 
-Each such license shall be issued for a specified period, as determined by the Commission, depending on the type of activity to be licensed, but not exceeding forty years, and may be renewed upon the expiration of such period.
+Each such license shall be issued for a specified period, as determined by the Commission, depending on the type of activity to be licensed,but not exceeding forty years, and may be renewed upon the expiration of such period.
 
 #### (d) Limitations
 

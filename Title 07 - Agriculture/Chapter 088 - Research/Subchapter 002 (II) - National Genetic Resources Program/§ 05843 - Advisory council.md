@@ -60,7 +60,7 @@ The Secretary shall select as the chair of the advisory council one of the membe
 
 #### (g) Meetings
 
-The advisory council shall meet at the call of the chair or on the request of the Director, but at least two times each fiscal year. The location of the meetings of the advisory council shall be subject to the approval of the Director.
+The advisory council shall meet at the call of the chair or on the request of the Director, butat least two times each fiscal year. The location of the meetings of the advisory council shall be subject to the approval of the Director.
 
 #### (h) Staff
 

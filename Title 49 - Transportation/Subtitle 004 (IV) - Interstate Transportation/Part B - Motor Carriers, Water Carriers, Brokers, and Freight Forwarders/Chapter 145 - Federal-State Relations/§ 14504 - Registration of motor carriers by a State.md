@@ -64,7 +64,7 @@ Prohibited fees.—The charging or collection of any fee under this section that
 
 &emsp;&emsp;(D)
 
-Limitation on participation by states.—Only a State which, as of January 1, 1991, charged or collected a fee for a vehicle identification stamp or number underpart 1023 of title 49, Code of Federal Regulations, shall be eligible to participate as a registration State under this subsection or to receive any fee revenue under this subsection.
+Limitation on participation by states.—Only a State which, as of January 1, 1991, charged or collected a fee for a vehicle identification stamp or number under part 1023 of title 49, Code of Federal Regulations, shall be eligible to participate as a registration State under this subsection or to receive any fee revenue under this subsection.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 902.)
 

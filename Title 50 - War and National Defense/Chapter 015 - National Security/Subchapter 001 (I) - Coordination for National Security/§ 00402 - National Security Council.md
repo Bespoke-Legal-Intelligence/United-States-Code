@@ -4,7 +4,7 @@
 
 There is established a council to be known as the National Security Council (hereinafter in this section referred to as the “Council”).
 
-The President of the United States shall preside over meetings of the Council: <i>Provided</i>, That in his absence he may designate a member of the Council to preside in his place.
+The President of the United States shall preside over meetings of the Council: <i>Provided</i>, Thatin his absence he may designate a member of the Council to preside in his place.
 
 The function of the Council shall be to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the military services and the other departments and agencies of the Government to cooperate more effectively in matters involving the national security.
 
@@ -104,7 +104,7 @@ The President shall establish within the National Security Council a board to be
 
 &emsp;(F) Such other members as the President may designate.
 
-(3) The function of the Committee shall be to coordinate and direct the activities of theUnited States Government relating to combatting transnational threats.
+(3) The function of the Committee shall be to coordinate and direct the activities of the United States Government relating to combatting transnational threats.
 
 (4) In carrying out its function, the Committee shall—
 
@@ -174,7 +174,7 @@ Subsec. (f). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended se
 
 1951—Subsec. (a). Act Oct. 10, 1951, inserted cl. (5) relating to Director for Mutual Security, in fourth paragraph, and renumbered former cls. (5) and (6) thereof as cls. (6) and (7), respectively.
 
-1949—Subsec. (a). Act Aug. 10, 1949, added the Vice President to the Council, removed the Secretaries of the military departments, to authorize the President to add, with the consent of the Senate, Secretaries andUnder Secretaries of other executive departments and of the military department, and the Chairmen of the Munitions Board and the Research and Development Board.
+1949—Subsec. (a). Act Aug. 10, 1949, added the Vice President to the Council, removed the Secretaries of the military departments, to authorize the President to add, with the consent of the Senate, Secretaries and Under Secretaries of other executive departments and of the military department, and the Chairmen of the Munitions Board and the Research and Development Board.
 
 Subsec. (c). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923, as amended”.
 
@@ -208,7 +208,7 @@ Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendmen
 
 #### National Security Agency Act of 1959
 
-Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
+Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
 
 “\[
 
@@ -242,7 +242,7 @@ Sec. 8. The foregoing provisions of this Act shall take effect on the first day 
 
 “
 
-Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (40 U.S.C. 278a), section 5536 of title 5, United States Code, and section 2675 of title 10, United States Code, the Director of the National Security Agency, on behalf of the Secretary of Defense, may lease real property outside the United States, for periods not exceeding ten years, for the use of the NationalSecurity Agency for special cryptologic activities and for housing for personnel assigned to such activities.
+Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (40 U.S.C. 278a), section 5536 of title 5, United States Code, and section 2675 of title 10, United States Code, the Director of the National Security Agency, on behalf of the Secretary of Defense, may lease real property outside the United States, for periods not exceeding ten years, for the use of the National Security Agency for special cryptologic activities and for housing for personnel assigned to such activities.
 
 “(b) The Director of the National Security Agency, on behalf of the Secretary of Defense, may provide to certain civilian and military personnel of the Department of Defense who are assigned to special cryptologic activities outside the United States and who are designated by the Secretary of Defense for the purposes of this subsection—
 
@@ -294,7 +294,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 “(c)(1) To the extent not inconsistent, in the opinion of the Secretary of Defense, with the operation of military cryptologic reserve units and in order to maintain necessary capability in foreign language skills and related abilities needed by the National Security Agency, the Director may establish a cryptologic linguist reserve. The cryptologic linguist reserve may consist of former or retired civilian or military cryptologic personnel of the National Security Agency and of other qualified individuals, as determined by the Director of the Agency. Each member of the cryptologic linguist reserve shall agree that, during any period of emergency (as determined by the Director), the member shall return to active civilian status with the National Security Agency and shall perform such linguistic or linguistic-related duties as the Director may assign.
 
-“(2) In order to attract individuals to become members of the cryptologic linguist reserve, the Director, without regard to subchapter IV of chapter 55 of title 5, United States Code, may provide special monetary incentives to individuals eligible to become members of the reserve who agree to become members of the cryptologic linguist reserve and to acquire or retain proficiency in foreign languages or special related abilities.
+“(2) In order to attract individuals to become members of the cryptologic linguist reserve, the Director, without regard to subchapter IV of chapter 55 of title 5, United States Code, may provide special monetary incentives to individuals eligible to become members ofthe reserve who agree to become members of the cryptologic linguist reserve and to acquire or retain proficiency in foreign languages or special related abilities.
 
 “(3) In order to provide training and support for members of the cryptologic linguist reserve, the Director—
 
@@ -306,7 +306,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 &emsp;“(A) in the case of current employees, pertains to continuation of service of the employee, and repayment of the expenses of such training for failure to fulfill the agreement, consistent with the provisions of section 4108 of title 5, United States Code; and
 
-&emsp;“(B) in the case of individuals accepted for membership in the cryptologic linguist reserve, pertains toreturn to service when requested, and repayment of the expenses of such training for failure to fulfill the agreement, consistent with the provisions of section 4108 of title 5, United States Code.
+&emsp;“(B) in the case of individuals accepted for membership in the cryptologic linguist reserve, pertains to return to service when requested, and repayment of the expenses of such training for failure to fulfill the agreement, consistent with the provisions of section 4108 of title 5, United States Code.
 
 “(2) The Director, under regulations prescribed under this section, may waive, in whole or in part, a right of recovery under an agreement made under this subsection if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
@@ -324,7 +324,23 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 “
 
-Sec. 11. The Administrator of General Services, upon the application of the Director of the National Security Agency, may provide for the protection in accordance with section 3 of the Act of June 1, 1948 (40 U.S.C. 318b), of certain facilities (as designated by the Director of such Agency) which are under the administration and control of, or are used by, the National Security Agency in the same manner as if such facilities were property of the United States over which the United States has acquired exclusive or concurrent criminal jurisdiction. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978.\]
+Sec. 11. (a)(1) The Director of the National Security Agency may authorize agency personnel within the United States to perform the same functions as special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ (40 U.S.C. 318) with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
+
+&emsp;“(A) at the National Security Agency Headquarters complex and at any facilities and protected property which are solely under the administration and control of, or are used exclusively by, the National Security Agency; and
+
+&emsp;“(B) in the streets, sidewalks, and the open areas within the zone beginning at the outside boundary of such facilities or protected property and extending outward 500 feet.
+
+“(2) The performance of functions and exercise of powers under subparagraph (B) of paragraph (1) shall be limited to those circumstances where such personnel can identify specific and articulable facts giving such personnel reason to believe that the performance of such functions and exercise of such powers is reasonable to protect against physical damage or injury, or threats of physical damage or injury, to agency installations, property, or employees.
+
+“(3) Nothing in this subsection shall be construed to preclude, or limit in any way, the authority of any Federal, State, or local law enforcement agency, or any other Federal police or Federal protective service.
+
+“(4) The rules and regulations enforced by such personnel shall be the rules and regulations prescribed by the Director and shall only be applicable to the areas referred to in subparagraph (A) of paragraph (1).
+
+“(5) Not later than July 1 each year, the Director shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report that describes in detail the exercise of the authority granted by this subsection and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make each such report available to the Inspector General of the National Security Agency.
+
+“(b) The Director of the National Security Agency is authorized to establish penalties for violations of the rules or regulations prescribed by the Director under subsection (a). Such penalties shall not exceed those specified in the fourth section of the Act referred to in subsection (a) (40 U.S.C. 318c).
+
+“(c) Agency personnel designated by the Director of the National Security Agency under subsection (a) shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) refers. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978; amended Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406.\]
 
 “
 
@@ -334,7 +350,7 @@ Sec. 12. (a)(1) The Secretary of Defense (or his designee) may by regulation est
 
 &emsp;“(B) provide that positions in the Senior Cryptologic Executive Service meet requirements that are consistent with the provisions of section 3132(a)(2) of such title;
 
-&emsp;“(C) provide, without regard to section 2, rates of pay for the Senior Cryptologic Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established for the Senior Executive Service under section 5382 of such title, and that are adjusted at the same time and to the same extent as rates of basic pay for the Senior Executive Service are adjusted;
+&emsp;“(C) provide, without regard to section 2, rates of pay for the Senior Cryptologic Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established for the Senior Executive Service under section 5382 of such title, and that are adjusted at the same timeand to the same extent as rates of basic pay for the Senior Executive Service are adjusted;
 
 &emsp;“(D) provide a performance appraisal system for the Senior Cryptologic Executive Service that conforms to the provisions of subchapter II of chapter 43 of such title;
 
@@ -428,7 +444,347 @@ Ex. Ord. No. 10483, Sept. 2, 1953, 18 F.R. 5379, as amended by Ex. Ord. No. 1059
 
 #### Executive Order No. 10700
 
-Ex. Ord. No. 10700, Feb. 25, 1957, 22 F.R. 1111, as amended by Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061;Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. 10838, Sept. 16, 1959, 24 F.R. 7519, which provided for the Operations Coordinating Board, was revoked by Ex. Ord. No. 10920, Feb. 18, 1961, 26 F.R. 1463.
+Ex. Ord. No. 10700, Feb. 25, 1957, 22 F.R. 1111, as amended by Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. 10838, Sept. 16, 1959, 24 F.R. 7519, which provided for the Operations Coordinating Board, was revoked by Ex. Ord. No. 10920, Feb. 18, 1961, 26 F.R. 1463.
+
+#### Ex. Ord. No. 13228. Establishing the Office of Homeland Security and the Homeland Security Council
+
+Ex. Ord. No. 13228, Oct. 8, 2001, 66 F.R. 51812, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. I hereby establish within the Executive Office of the President an Office of Homeland Security (the “Office”) to be headed by the Assistant to the President for Homeland Security.
+
+Sec. 2. <i>Mission</i>. The mission of the Office shall be to develop and coordinate the implementation of a comprehensive national strategy to secure the United States from terrorist threats or attacks. The Office shall perform the functions necessary to carry out this mission, including the functions specified in section 3 of this order.
+
+Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the executive branch's efforts to detect, prepare for, prevent, protect against, respond to, and recover from terrorist attacks within the United States.
+
+(a) <i>National Strategy</i>. The Office shall work with executive departments and agencies, State and local governments, and private entities to ensure the adequacy of the national strategy for detecting, preparing for, preventing, protecting against, responding to, and recovering from terrorist threats or attacks within the United States and shall periodically review and coordinate revisions to that strategy as necessary.
+
+(b) <i>Detection</i>. The Office shall identify priorities and coordinate efforts for collection and analysis of information within the United States regarding threats of terrorism against the United States and activities of terrorists or terrorist groups within the United States. The Office also shall identify, in coordination with the Assistant to the President for National Security Affairs, priorities for collection of intelligence outside the United States regarding threats of terrorism within the United States.
+
+&emsp;(i) In performing these functions, the Office shall work with Federal, State, and local agencies, as appropriate, to:
+
+&emsp;&emsp;(A) facilitate collection from State and local governments and private entities of information pertaining to terrorist threats or activities within the United States;
+
+&emsp;&emsp;(B) coordinate and prioritize the requirements for foreign intelligence relating to terrorism within the United States of executive departments and agencies responsible for homeland security and provide these requirements and priorities to the Director of Central Intelligence and other agencies responsible for collection of foreign intelligence;
+
+&emsp;&emsp;(C) coordinate efforts to ensure that all executive departments and agencies that have intelligence collection responsibilities have sufficient technological capabilities and resources to collect intelligence and data relating to terrorist activities or possible terrorist acts within the United States, working with the Assistant to the President for National Security Affairs, as appropriate;
+
+&emsp;&emsp;(D) coordinate development of monitoring protocols and equipment for use in detecting the release of biological, chemical, and radiological hazards; and
+
+&emsp;&emsp;(E) ensure that, to the extent permitted by law, all appropriate and necessary intelligence and law enforcement information relating to homeland security is disseminated to and exchanged among appropriate executive departments and agencies responsible for homeland security and, where appropriate for reasons of homeland security, promote exchange of such information with and among State and local governments and private entities.
+
+&emsp;(ii) Executive departments and agencies shall, to the extent permitted by law, make available to the Office all information relating to terrorist threats and activities within the United States.
+
+(c) <i>Preparedness</i>. The Office of Homeland Security shall coordinate national efforts to prepare for and mitigate the consequences of terrorist threats or attacks within the United States. In performing this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
+
+&emsp;(i) review and assess the adequacy of the portions of all Federal emergency response plans that pertain to terrorist threats or attacks within the United States;
+
+&emsp;(ii) coordinate domestic exercises and simulations designed to assess and practice systems that would be called upon to respond to a terrorist threat or attack within the United States and coordinate programs and activities for training Federal, State, and local employees who would be called upon to respond to such a threat or attack;
+
+&emsp;(iii) coordinate national efforts to ensure public health preparedness for a terrorist attack, including reviewing vaccination policies and reviewing the adequacy of and, if necessary, increasing vaccine and pharmaceutical stockpiles and hospital capacity;
+
+&emsp;(iv) coordinate Federal assistance to State and local authorities and nongovernmental organizations to prepare for and respond to terrorist threats or attacks within the United States;
+
+&emsp;(v) ensure that national preparedness programs and activities for terrorist threats or attacks are developed and are regularly evaluated under appropriate standards and that resources are allocated to improving and sustaining preparedness based on such evaluations; and
+
+&emsp;(vi) ensure the readiness and coordinated deployment of Federal response teams to respond to terrorist threats or attacks, working with the Assistant to the President for National Security Affairs, when appropriate.
+
+(d) <i>Prevention</i>. The Office shall coordinate efforts to prevent terrorist attacks within the United States. In performing this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
+
+&emsp;(i) facilitate the exchange of information among such agencies relating to immigration and visa matters and shipments of cargo; and, working with the Assistant to the President for National Security Affairs, ensure coordination among such agencies to prevent the entry of terrorists and terrorist materials and supplies into the United States and facilitate removal of such terrorists from the United States, when appropriate;
+
+&emsp;(ii) coordinate efforts to investigate terrorist threats and attacks within the United States; and
+
+&emsp;(iii) coordinate efforts to improve the security of United States borders, territorial waters, and airspace in order to prevent acts of terrorism within the United States, working with the Assistant to the President for National Security Affairs, when appropriate.
+
+(e) <i>Protection</i>. The Office shall coordinate efforts to protect the United States and its critical infrastructure from the consequences of terrorist attacks. In performing this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
+
+&emsp;(i) strengthen measures for protecting energy production, transmission, and distribution services and critical facilities; other utilities; telecommunications; facilities that produce, use, store, or dispose of nuclear material; and other critical infrastructure services and critical facilities within the United States from terrorist attack;
+
+&emsp;(ii) coordinate efforts to protect critical public and privately owned information systems within the United States from terrorist attack;
+
+&emsp;(iii) develop criteria for reviewing whether appropriate security measures are in place at major public and privately owned facilities within the United States;
+
+&emsp;(iv) coordinate domestic efforts to ensure that special events determined by appropriate senior officials to have national significance are protected from terrorist attack;
+
+&emsp;(v) coordinate efforts to protect transportation systems within the United States, including railways, highways, shipping, ports and waterways, and airports and civilian aircraft, from terrorist attack;
+
+&emsp;(vi) coordinate efforts to protect United States livestock, agriculture, and systems for the provision of water and food for human use and consumption from terrorist attack; and
+
+&emsp;(vii) coordinate efforts to prevent unauthorized access to, development of, and unlawful importation into the United States of, chemical, biological, radiological, nuclear, explosive, or other related materials that have the potential to be used in terrorist attacks.
+
+(f) <i>Response and Recovery</i>. The Office shall coordinate efforts to respond to and promote recovery from terrorist threats or attacks within the United States. In performing this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
+
+&emsp;(i) coordinate efforts to ensure rapid restoration of transportation systems, energy production, transmission, and distribution systems; telecommunications; other utilities; and other critical infrastructure facilities after disruption by a terrorist threat or attack;
+
+&emsp;(ii) coordinate efforts to ensure rapid restoration of public and private critical information systems after disruption by a terrorist threat or attack;
+
+&emsp;(iii) work with the National Economic Council to coordinate efforts to stabilize United States financial markets after a terrorist threat or attack and manage the immediate economic and financial consequences of the incident;
+
+&emsp;(iv) coordinate Federal plans and programs to provide medical, financial, and other assistance to victims of terrorist attacks and their families; and
+
+&emsp;(v) coordinate containment and removal of biological, chemical, radiological, explosive, or other hazardous materials in the event of a terrorist threat or attack involving such hazards and coordinate efforts to mitigate the effects of such an attack.
+
+(g) <i>Incident Management</i>. The Assistant to the President for Homeland Security shall be the individual primarily responsible for coordinating the domestic response efforts of all departments and agencies in the event of an imminent terrorist threat and during and in the immediate aftermath of a terrorist attack within the United States and shall be the principal point of contact for and to the President with respect to coordination of such efforts. The Assistant to the President for Homeland Security shall coordinate with the Assistant to the President for National Security Affairs, as appropriate.
+
+(h) <i>Continuity of Government</i>. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall review plans and preparations for ensuring the continuity of the Federal Government in the event of a terrorist attack that threatens the safety and security of the United States Government or its leadership.
+
+(i) <i>Public Affairs</i>. The Office, subject to the direction of the White House Office of Communications, shall coordinate the strategy of the executive branch for communicating with the public in the event of a terrorist threat or attack within the United States. The Office also shall coordinate the development of programs for educating the public about the nature of terrorist threats and appropriate precautions and responses.
+
+(j) <i>Cooperation with State and Local Governments and Private Entities</i>. The Office shall encourage and invite the participation of State and local governments and private entities, as appropriate, in carrying out the Office's functions.
+
+(k) <i>Review of Legal Authorities and Development of Legislative Proposals</i>. The Office shall coordinate a periodic review and assessment of the legal authorities available to executive departments and agencies to permit them to perform the functions described in this order. When the Office determines that such legal authorities are inadequate, the Office shall develop, in consultation with executive departments and agencies, proposals for presidential action and legislative proposals for submission to the Office of Management and Budget to enhance the ability of executive departments and agencies to perform those functions. The Office shall work with State and local governments in assessing the adequacy of their legal authorities to permit them to detect, prepare for, prevent, protect against, and recover from terrorist threats and attacks.
+
+(l) <i>Budget Review</i>. The Assistant to the President for Homeland Security, in consultation with the Director of the Office of Management and Budget (the “Director”) and the heads of executive departments and agencies, shall identify programs that contribute to the Administration's strategy for homeland security and, in the development of the President's annual budget submission, shall review and provide advice to the heads of departments and agencies for such programs. The Assistant to the President for Homeland Security shall provide advice to the Director on the level and use of funding in departments and agencies for homeland security-related activities and, prior to the Director's forwarding of the proposed annual budget submission to the President for transmittal to the Congress, shall certify to the Director the funding levels that the Assistant to the President for Homeland Security believes are necessary and appropriate for the homeland security-related activities of the executive branch.
+
+Sec. 4. <i>Administration.</i>
+
+(a) The Office of Homeland Security shall be directed by the Assistant to the President for Homeland Security.
+
+(b) The Office of Administration within the Executive Office of the President shall provide the Office of Homeland Security with such personnel, funding, and administrative support, to the extent permitted by law and subject to the availability of appropriations, as directed by the Chief of Staff to carry out the provisions of this order.
+
+(c) Heads of executive departments and agencies are authorized, to the extent permitted by law, to detail or assign personnel of such departments and agencies to the Office of Homeland Security upon request of the Assistant to the President for Homeland Security, subject to the approval of the Chief of Staff.
+
+Sec. 5. <i>Establishment of Homeland Security Council.</i>
+
+(a) I hereby establish a Homeland Security Council (the “Council”), which shall be responsible for advising and assisting the President with respect to all aspects of homeland security. The Council shall serve as the mechanism for ensuring coordination of homeland security-related activities of executive departments and agencies and effective development and implementation of homeland security policies.
+
+(b) The Council shall have as its members the President, the Vice President, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Health and Human Services, the Secretary of Transportation, the Director of the Federal Emergency Management Agency, the Director of the Federal Bureau of Investigation, the Director of Central Intelligence, the Assistant to the President for Homeland Security, and such other officers of the executive branch as the President may from time to time designate. The Chief of Staff, the Chief of Staff to the Vice President, the Assistant to the President for National Security Affairs, the Counsel to the President, and the Director of the Office of Management and Budget also are invited to attend any Council meeting. The Secretary of State, the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Energy, the Secretary of Labor, the Secretary of Commerce, the Secretary of Veterans Affairs, the Administrator of the Environmental Protection Agency, the Assistant to the President for Economic Policy, and the Assistant to the President for Domestic Policy shall be invited to attend meetings pertaining to their responsibilities. The heads of other executive departments and agencies and other senior officials shall be invited to attend Council meetings when appropriate.
+
+(c) The Council shall meet at the President's direction. When the President is absent from a meeting of the Council, at the President's direction the Vice President may preside. The Assistant to the President for Homeland Security shall be responsible, at the President's direction, for determining the agenda, ensuring that necessary papers are prepared, and recording Council actions and Presidential decisions.
+
+Sec. 6. <i>Original Classification Authority</i>. I hereby delegate the authority to classify information originally as Top Secret, in accordance with Executive Order 12958 \[50 U.S.C. 435 note\] or any successor Executive Order, to the Assistant to the President for Homeland Security.
+
+Sec. 7. <i>Continuing Authorities</i>. This order does not alter the existing authorities of United States Government departments and agencies. All executive departments and agencies are directed to assist the Council and the Assistant to the President for Homeland Security in carrying out the purposes of this order.
+
+Sec. 8. <i>General Provisions.</i>
+
+(a) This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its departments, agencies or instrumentalities, its officers or employees, or any other person.
+
+(b) References in this order to State and local governments shall be construed to include tribal governments and United States territories and other possessions.
+
+(c) References to the “United States” shall be construed to include United States territories and possessions.
+
+Sec. 9. \[Amended Ex. Ord. No. 12656, set out as a note under section 5195 of this title.\]
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13231. Critical Infrastructure Protection in the Information Age
+
+Ex. Ord. No. 13231, Oct. 16, 2001, 66 F.R. 53063, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure protection of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, in the information age, it is hereby ordered as follows:
+
+Section 1. <i>Policy.</i>
+
+(a) The information technology revolution has changed the way business is transacted, government operates, and national defense is conducted. Those three functions now depend on an interdependent network of critical information infrastructures. The protection program authorized by this order shall consist of continuous efforts to secure information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems. Protection of these systems is essential to the telecommunications, energy, financial services, manufacturing, water, transportation, health care, and emergency services sectors.
+
+(b) It is the policy of the United States to protect against disruption of the operation of information systems for critical infrastructure and thereby help to protect the people, economy, essential human and government services, and national security of the United States, and to ensure that any disruptions that occur are infrequent, of minimal duration, and manageable, and cause the least damage possible. The implementation of this policy shall include a voluntary public-private partnership, involving corporate and nongovernmental organizations.
+
+Sec. 2. <i>Scope</i>. To achieve this policy, there shall be a senior executive branch board to coordinate and have cognizance of Federal efforts and programs that relate to protection of information systems and involve:
+
+(a) cooperation with and protection of private sector critical infrastructure, State and local governments’ critical infrastructure, and supporting programs in corporate and academic organizations;
+
+(b) protection of Federal departments’ and agencies’ critical infrastructure; and
+
+(c) related national security programs.
+
+Sec. 3. <i>Establishment</i>. I hereby establish the “President's Critical Infrastructure Protection Board” (the “Board”).
+
+Sec. 4. <i>Continuing Authorities</i>. This order does not alter the existing authorities or roles of United States Government departments and agencies. Authorities set forth in 44 U.S.C. Chapter 35, and other applicable law, provide senior officials with responsibility for the security of Federal Government information systems.
+
+(a) <i>Executive Branch Information Systems Security</i>. The Director of the Office of Management and Budget (OMB) has the responsibility to develop and oversee the implementation of government-wide policies, principles, standards, and guidelines for the security of information systems that support the executive branch departments and agencies, except those noted in section 4(b) of this order. The Director of OMB shall advise the President and the appropriate department or agency head when there is a critical deficiency in the security practices within the purview of this section in an executive branch department or agency. The Board shall assist and support the Director of OMB in this function and shall be reasonably cognizant of programs related to security of department and agency information systems.
+
+(b) <i>National Security Information Systems</i>. The Secretary of Defense and the Director of Central Intelligence (DCI) shall have responsibility to oversee, develop, and ensure implementation of policies, principles, standards, and guidelines for the security of information systems that support the operations under their respective control. In consultation with the Assistant to the President for National Security Affairs and the affected departments and agencies, the Secretary of Defense and the DCI shall develop policies, principles, standards, and guidelines for the security of national security information systems that support the operations of other executive branch departments and agencies with national security information.
+
+&emsp;(i) Policies, principles, standards, and guidelines developed under this subsection may require more stringent protection than those developed in accordance with subsection 4(a) of this order.
+
+&emsp;(ii) The Assistant to the President for National Security Affairs shall advise the President and the appropriate department or agency head when there is a critical deficiency in the security practices of a department or agency within the purview of this section. The Board, or one of its standing or ad hoc committees, shall be reasonably cognizant of programs to provide security and continuity to national security information systems.
+
+(c) <i>Additional Responsibilities: The Heads of Executive Branch Departments and Agencies</i>. The heads of executive branch departments and agencies are responsible and accountable for providing and maintaining adequate levels of security for information systems, including emergency preparedness communications systems, for programs under their control. Heads of such departments and agencies shall ensure the development and, within available appropriations, funding of programs that adequately address these mission areas. Cost-effective security shall be built into and made an integral part of government information systems, especially those critical systems that support the national security and other essential government programs. Additionally, security should enable, and not unnecessarily impede, department and agency business operations.
+
+Sec. 5. <i>Board Responsibilities</i>. Consistent with the responsibilities noted in section 4 of this order, the Board shall recommend policies and coordinate programs for protecting information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems. Among its activities to implement these responsibilities, the Board shall:
+
+(a) <i>Outreach to the Private Sector and State and Local Governments</i>. In consultation with affected executive branch departments and agencies, coordinate outreach to and consultation with the private sector, including corporations that own, operate, develop, and equip information, telecommunications, transportation, energy, water, health care, and financial services, on protection of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems; and coordinate outreach to State and local governments, as well as communities and representatives from academia and other relevant elements of society.
+
+&emsp;(i) When requested to do so, assist in the development of voluntary standards and best practices in a manner consistent with 15 U.S.C. Chapter 7;
+
+&emsp;(ii) Consult with potentially affected communities, including the legal, auditing, financial, and insurance communities, to the extent permitted by law, to determine areas of mutual concern; and
+
+&emsp;(iii) Coordinate the activities of senior liaison officers appointed by the Attorney General, the Secretaries of Energy, Commerce, Transportation, the Treasury, and Health and Human Services, and the Director of the Federal Emergency Management Agency for outreach on critical infrastructure protection issues with private sector organizations within the areas of concern to these departments and agencies. In these and other related functions, the Board shall work in coordination with the Critical Infrastructure Assurance Office (CIAO) and the National Institute of Standards and Technology of the Department of Commerce, the National Infrastructure Protection Center (NIPC), and the National Communications System (NCS).
+
+(b) <i>Information Sharing</i>. Work with industry, State and local governments, and nongovernmental organizations to ensure that systems are created and well managed to share threat warning, analysis, and recovery information among government network operation centers, information sharing and analysis centers established on a voluntary basis by industry, and other related operations centers. In this and other related functions, the Board shall work in coordination with the NCS, the Federal Computer Incident Response Center, the NIPC, and other departments and agencies, as appropriate.
+
+(c) <i>Incident Coordination and Crisis Response</i>. Coordinate programs and policies for responding to information systems security incidents that threaten information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems. In this function, the Department of Justice, through the NIPC and the Manager of the NCS and other departments and agencies, as appropriate, shall work in coordination with the Board.
+
+(d) <i>Recruitment, Retention, and Training Executive Branch Security Professionals</i>. In consultation with executive branch departments and agencies, coordinate programs to ensure that government employees with responsibilities for protecting information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, are adequately trained and evaluated. In this function, the Office of Personnel Management shall work in coordination with the Board, as appropriate.
+
+(e) <i>Research and Development</i>. Coordinate with the Director of the Office of Science and Technology Policy (OSTP) on a program of Federal Government research and development for protection of information systemsfor critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, and ensure coordination of government activities in this field with corporations, universities, Federally funded research centers, and national laboratories. In this function, the Board shall work in coordination with the National Science Foundation, the Defense Advanced Research Projects Agency, and with other departments and agencies, as appropriate.
+
+(f) <i>Law Enforcement Coordination with National Security Components</i>. Promote programs against cyber crime and assist Federal law enforcement agencies in gaining necessary cooperation from executive branch departments and agencies. Support Federal law enforcement agencies’ investigation of illegal activities involving information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, and support coordination by these agencies with other departments and agencies with responsibilities to defend the Nation's security. In this function, the Board shall work in coordination with the Department of Justice, through the NIPC, and the Department of the Treasury, through the Secret Service, and with other departments and agencies, as appropriate.
+
+(g) <i>International Information Infrastructure Protection</i>. Support the Department of State's coordination of United States Government programs for international cooperation covering international information infrastructure protection issues.
+
+(h) <i>Legislation</i>. In accordance with OMB circular A–19, advise departments and agencies, the Director of OMB, and the Assistant to the President for Legislative Affairs on legislation relating to protection of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems.
+
+(i) <i>Coordination with Office of Homeland Security</i>. Carry out those functions relating to protection of and recovery from attacks against information systems for critical infrastructure, including emergency preparedness communications, that were assigned to the Office of Homeland Security by Executive Order 13228 of October 8, 2001 \[set out above\]. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall be responsible for defining the responsibilities of the Board in coordinating efforts to protect physical assets that support information systems.
+
+Sec. 6. <i>Membership</i>. (a) Members of the Board shall be drawn from the executive branch departments, agencies, and offices listed below; in addition, concerned Federal departments and agencies may participate in the activities of appropriate committees of the Board. The Board shall be led by a Chair and Vice Chair, designated by the President. Its other members shall be the following senior officials or their designees:
+
+&emsp;(i) Secretary of State;
+
+&emsp;(ii) Secretary of the Treasury;
+
+&emsp;(iii) Secretary of Defense;
+
+&emsp;(iv) Attorney General;
+
+&emsp;(v) Secretary of Commerce;
+
+&emsp;(vi) Secretary of Health and Human Services;
+
+&emsp;(vii) Secretary of Transportation;
+
+&emsp;(viii) Secretary of Energy;
+
+&emsp;(ix) Director of Central Intelligence;
+
+&emsp;(x) Chairman of the Joint Chiefs of Staff;
+
+&emsp;(xi) Director of the Federal Emergency Management Agency;
+
+&emsp;(xii) Administrator of General Services;
+
+&emsp;(xiii) Director of the Office of Management and Budget;
+
+&emsp;(xiv) Director of the Office of Science and Technology Policy;
+
+&emsp;(xv) Chief of Staff to the Vice President;
+
+&emsp;(xvi) Director of the National Economic Council;
+
+&emsp;(xvii) Assistant to the President for National Security Affairs;
+
+&emsp;(xviii) Assistant to the President for Homeland Security;
+
+&emsp;(xix) Chief of Staff to the President; and
+
+&emsp;(xx) Such other executive branch officials as the President may designate.
+
+Members of the Board and their designees shall be full-time or permanent part-time officers or employees of the Federal Government.
+
+(b) In addition, the following officials shall serve as members of the Board and shall form the Board's Coordination Committee:
+
+&emsp;(i) Director, Critical Infrastructure Assurance Office, Department of Commerce;
+
+&emsp;(ii) Manager, National Communications System;
+
+&emsp;(iii) Vice Chair, Chief Information Officers’ (CIO) Council;
+
+&emsp;(iv) Information Assurance Director, National Security Agency;
+
+&emsp;(v) Deputy Director of Central Intelligence for Community Management; and
+
+&emsp;(vi) Director, National Infrastructure Protection Center, Federal Bureau of Investigation, Department of Justice.
+
+(c) The Chairman of the Federal Communications Commission may appoint a representative to the Board.
+
+Sec. 7. <i>Chair</i>. (a) The Chair also shall be the Special Advisor to the President for Cyberspace Security. Executive branch departments and agencies shall make all reasonable efforts to keep the Chair fully informed in a timely manner, and to the greatest extent permitted by law, of all programs and issues within the purview of the Board. The Chair, in consultation with the Board, shall call and preside at meetings of the Board and set the agenda for the Board. The Chair, in consultation with the Board, may propose policies and programs to appropriate officials to ensure the protection of the Nation's information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems. To ensure full coordination between the responsibilities of the National Security Council (NSC) and the Office of Homeland Security, the Chair shall report to both the Assistant to the President for National Security Affairs and to the Assistant to the President for Homeland Security. The Chair shall coordinate with the Assistant to the President for Economic Policy on issues relating to private sector systems and economic effects and with the Director of OMB on issues relating to budgets and the security of computer networks addressed in subsection 4(a) of this order.
+
+(b) The Chair shall be assisted by an appropriately sized staff within the White House Office. In addition, heads of executive branch departments and agencies are authorized, to the extent permitted by law, to detail or assign personnel of such departments and agencies to the Board's staff upon request of the Chair, subject to the approval of the Chief of Staff to the President. Members of the Board's staff with responsibilities relating to national security information systems, communications, and information warfare may, with respect to those responsibilities, also work at the direction of the Assistant to the President for National Security Affairs.
+
+Sec. 8. <i>Standing Committees</i>. (a) The Board may establish standing and ad hoc committees as appropriate. Representation on standing committees shall not be limited to those departments and agencies on the Board, but may include representatives of other concerned executive branch departments and agencies.
+
+(b) Chairs of standing and ad hoc committees shall report fully and regularly on the activities of the committees to the Board, which shall ensure that the committees are well coordinated with each other.
+
+(c) There are established the following standing committees:
+
+&emsp;(i) <i>Private Sector and State and Local Government Outreach</i>, chaired by the designee of the Secretary of Commerce, to work in coordination with the designee of the Chairman of the National Economic Council.
+
+&emsp;(ii) <i>Executive Branch Information Systems Security</i>, chaired by the designee of the Director of OMB. Thecommittee shall assist OMB in fulfilling its responsibilities under 44 U.S.C. Chapter 35 and other applicable law.
+
+&emsp;(iii) <i>National Security Systems</i>. The National Security Telecommunications and Information Systems Security Committee, as established by and consistent with NSD–42 and chaired by the Department of Defense, shall serve as a Board standing committee, and be redesignated the Committee on National Security Systems.
+
+&emsp;(iv) <i>Incident Response Coordination</i>, co-chaired by the designees of the Attorney General and the Secretary of Defense.
+
+&emsp;(v) <i>Research and Development</i>, chaired by a designee of the Director of OSTP.
+
+&emsp;(vi) <i>National Security and Emergency Preparedness Communications</i>. The NCS Committee of Principals is renamed the Board's Committee for National Security and Emergency Preparedness Communications. The reporting functions established above for standing committees are in addition to the functions set forth in Executive Order 12472 of April 3, 1984 \[42 U.S.C. 5195 note\], and do not alter any function or role set forth therein.
+
+&emsp;(vii) <i>Physical Security</i>, co-chaired by the designees of the Secretary of Defense and the Attorney General, to coordinate programs to ensure the physical security of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems. The standing committee shall coordinate its work with the Office of Homeland Security and shall work closely with the Physical Security Working Group of the Records Access and Information Security Policy Coordinating Committee to ensure coordination of efforts.
+
+&emsp;(viii) <i>Infrastructure Interdependencies</i>, co-chaired by the designees of the Secretaries of Transportation and Energy, to coordinate programs to assess the unique risks, threats, and vulnerabilities associated with the interdependency of information systems for critical infrastructures, including the development of effective models, simulations, and other analytic tools and cost-effective technologies in this area.
+
+&emsp;(ix) <i>International Affairs</i>, chaired by a designee of the Secretary of State, to support Department of State coordination of United States Government programs for international cooperation covering international information infrastructure issues.
+
+&emsp;(x) <i>Financial and Banking Information Infrastructure</i>, chaired by a designee of the Secretary of the Treasury and including representatives of the banking and financial institution regulatory agencies.
+
+&emsp;(xi) <i>Other Committees</i>. Such other standing committees as may be established by the Board.
+
+(d) <i>Subcommittees</i>. The chair of each standing committee may form necessary subcommittees with organizational representation as determined by the Chair.
+
+(e) <i>Streamlining</i>. The Board shall develop procedures that specify the manner in which it or a subordinate committee will perform the responsibilities previously assigned to the Policy Coordinating Committee. The Board, in coordination with the Director of OSTP, shall review the functions of the Joint Telecommunications Resources Board, established under Executive Order 12472 \[42 U.S.C. 5195 note\], and make recommendations about its future role.
+
+Sec. 9. <i>Planning and Budget</i>. (a) The Board, on a periodic basis, shall propose a National Plan or plans for subjects within its purview. The Board, in coordination with the Office of Homeland Security, also shall make recommendations to OMB on those portions of executive branch department and agency budgets that fall within the Board's purview, after review of relevant program requirements and resources.
+
+(b) The Office of Administration within the Executive Office of the President shall provide the Board with such personnel, funding, and administrative support, to the extent permitted by law and subject to the availability of appropriations, as directed by the Chief of Staff to carry out the provisions of this order. Only those funds that are available for the Office of Homeland Security, established by Executive Order 13228 \[set out above\], shall be available for such purposes. To the extent permitted by law and as appropriate, agencies represented on the Board also may provide administrative support for the Board. The National Security Agency shall ensure that the Board's information and communications systems are appropriately secured.
+
+(c) The Board may annually request the National Science Foundation, Department of Energy, Department of Transportation, Environmental Protection Agency, Department of Commerce, Department of Defense, and the Intelligence Community, as that term is defined in Executive Order 12333 of December 4, 1981 \[50 U.S.C. 401 note\], to include in their budget requests to OMB funding for demonstration projects and research to support the Board's activities.
+
+Sec. 10. <i>Presidential Advisory Panels</i>. The Chair shall work closely with panels of senior experts from outside of the government that advise the President, in particular: the President's National Security Telecommunications Advisory Committee (NSTAC) created by Executive Order 12382 of September 13, 1982, as amended, and the National Infrastructure Advisory Council (NIAC or Council) created by this Executive Order. The Chair and Vice Chair of these two panels also may meet with the Board, as appropriate and to the extent permitted by law, to provide a private sector perspective.
+
+(a) <i>NSTAC</i>. The NSTAC provides the President advice on the security and continuity of communications systems essential for national security and emergency preparedness.
+
+(b) <i>NIAC</i>. There is hereby established the National Infrastructure Advisory Council, which shall provide the President advice on the security of information systems for critical infrastructure supporting other sectors of the economy: banking and finance, transportation, energy, manufacturing, and emergency government services. The NIAC shall be composed of not more than 30 members appointed by the President. The members of the NIAC shall be selected from the private sector, academia, and State and local government. Members of the NIAC shall have expertise relevant to the functions of the NIAC and generally shall be selected from industry Chief Executive Officers (and equivalently ranked leaders in other organizations) with responsibilities for the security of information infrastructure supporting the critical sectors of the economy, including banking and finance, transportation, energy, communications, and emergency government services. Members shall not be full-time officials or employees of the executive branch of the Federal Government.
+
+&emsp;(i) The President shall designate a Chair and Vice Chair from among the members of the NIAC.
+
+&emsp;(ii) The Chair of the Board established by this order will serve as the Executive Director of the NIAC.
+
+(c) <i>NIAC Functions</i>. The NIAC will meet periodically to:
+
+&emsp;(i) enhance the partnership of the public and private sectors in protecting information systems for critical infrastructures and provide reports on this issue to the President, as appropriate;
+
+&emsp;(ii) propose and develop ways to encourage private industry to perform periodic risk assessments of critical information and telecommunications systems;
+
+&emsp;(iii) monitor the development of private sector Information Sharing and Analysis Centers (ISACs) and provide recommendations to the Board on how these organizations can best foster improved cooperation among the ISACs, the NIPC, and other Federal Government entities;
+
+&emsp;(iv) report to the President through the Board, which shall ensure appropriate coordination with the Assistant to the President for Economic Policy under the terms of this order; and
+
+&emsp;(v) advise lead agencies with critical infrastructure responsibilities, sector coordinators, the NIPC, the ISACs, and the Board.
+
+(d) <i>Administration of the NIAC.</i>
+
+&emsp;(i) The NIAC may hold hearings, conduct inquiries, and establish subcommittees, as appropriate.
+
+&emsp;(ii) Upon the request of the Chair, and to the extent permitted by law, the heads of the executive branch departments and agencies shall provide the Council with information and advice relating to its functions.
+
+&emsp;(iii) Senior Federal Government officials may participate in the meetings of the NIAC, as appropriate.
+
+&emsp;(iv) Members shall serve without compensation for their work on the Council. However, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal Government service (5 U.S.C. 5701–5707).
+
+&emsp;(v) To the extent permitted by law, and subject to the availability of appropriations, the Department of Commerce, through the CIAO, shall provide the NIAC with administrative services, staff, and other support services and such funds as may be necessary for the performance of the NIAC's functions.
+
+(e) <i>General Provisions.</i>
+
+&emsp;(i) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the NIAC, the functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Department of Commerce in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+&emsp;(ii) The Council shall terminate 2 years from the date of this order, unless extended by the President prior to that date.
+
+&emsp;(iii) Executive Order 13130 of July 14, 1999, is hereby revoked.
+
+Sec. 11. <i>National Communications System</i>. Changes in technology are causing the convergence of much of telephony, data relay, and internet communications networks into an interconnected network of networks. The NCS and its National Coordinating Center shall support use of telephony, converged information, voice networks, and next generation networks for emergency preparedness and national security communications functions assigned to them in Executive Order 12472 \[42 U.S.C. 5195 note\]. All authorities and assignments of responsibilities to departments and agencies in that order, including the role of the Manager of NCS, remain unchanged except as explicitly modified by this order.
+
+Sec. 12. <i>Counter-intelligence</i>. The Board shall coordinate its activities with those of the Office of the Counter-intelligence Executive to address the threat to programs within the Board's purview from hostile foreign intelligence services.
+
+Sec. 13. <i>Classification Authority</i>. I hereby delegate to the Chair the authority to classify information originally as Top Secret, in accordance with Executive Order 12958 of April 17, 1995, as amended \[50 U.S.C. 435 note\], or any successor Executive Order.
+
+Sec. 14. <i>General Provisions</i>. (a) Nothing in this order shall supersede any requirement made by or under law.
+
+(b) This order does not create any right or benefit, substantive or procedural, enforceable at law or equity, against the United States, its departments, agencies or other entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

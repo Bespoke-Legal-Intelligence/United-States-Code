@@ -60,7 +60,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(xiii) Failure to maintain the premises, accommodations, any living unit in the project, and the grounds and equipment appurtenant thereto in good repair and condition in accordance with regulations and requirements of the Secretary, except that nothing in this clause shall have the effect of altering the provisions of an existing regulatory agreement or federally insured mortgage on the property.
 
-&emsp;&emsp;(xiv) Failure, by a mortgagor, a general partner of a partnership mortgagor, or an officer or director of a corporate mortgagor, to provide management for the project that is acceptable to the Secretary pursuant to regulations and requirements of the Secretary.
+&emsp;&emsp;(xiv) Failure, by a mortgagor, a general partner of a partnership mortgagor, or an officer or director of a corporate mortgagor, to provide management for the project that isacceptable to the Secretary pursuant to regulations and requirements of the Secretary.
 
 &emsp;&emsp;(xv) Failure to provide access to the books, records, and accounts related to the operations of the mortgaged property and of the project.
 
@@ -114,7 +114,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (4) Order to pay penalty
 
-&emsp;Notwithstanding any other provision of law, in any such review, the court shall have thepower to order payment of the penalty imposed by the Secretary.
+&emsp;Notwithstanding any other provision of law, in any such review, the court shall have the power to order payment of the penalty imposed by the Secretary.
 
 #### (f) Civil money penalties against multifamily mortgagors, general partners of partnership mortgagors, officers and directors of corporate mortgagors, and certain managing agents
 

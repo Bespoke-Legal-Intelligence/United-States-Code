@@ -34,7 +34,7 @@ Section 70m, act Aug. 13, 1946, ch. 959, §14, 60 Stat. 1052, related to informa
 
 Section 70n, act Aug. 13, 1946, ch. 959, §15, 60 Stat. 1053, related to attorneys of claimants and representation of United States by Attorney General before Commission.
 
-Section 70n–1, Pub. L. 88–168, §1, Nov. 4, 1963, 77 Stat. 301; Pub. L. 89–592, Sept. 19, 1966, 80 Stat. 814; Pub. L. 93–37, §2, May 24, 1973, 87 Stat. 73, related to revolving fund for expert assistance for preparation and trial of claims before Commission.
+Section 70n–1, Pub. L. 88–168, §1, Nov. 4, 1963, 77 Stat. 301; Pub. L. 89–592, Sept. 19, 1966, 80 Stat. 814; Pub. L.93–37, §2, May 24, 1973, 87 Stat. 73, related to revolving fund for expert assistance for preparation and trial of claims before Commission.
 
 Section 70n–2, Pub. L. 88–168, §2, Nov. 4, 1963, 77 Stat. 301, related to inability of applicants to pay for assistance required and denial of loans in cases of unreasonable fees.
 

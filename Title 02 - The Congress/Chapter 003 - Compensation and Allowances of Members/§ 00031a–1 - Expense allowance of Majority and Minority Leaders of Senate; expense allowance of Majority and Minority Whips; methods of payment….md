@@ -10,7 +10,7 @@ Section is based on the three provisos in paragraph under heading “Expense All
 
 #### Amendments
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”,which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1983—Pub. L. 98–63 substituted provisions increasing allowances for each Whip to $5,000 each fiscal year, effective fiscal year 1983 and each fiscal year thereafter, for provisions authorizing not to exceed $2,500 each fiscal year for each Whip, effective Apr. 1, 1977.
 

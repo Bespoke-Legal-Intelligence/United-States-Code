@@ -6,7 +6,7 @@ Any person may petition the Administrator for the promulgation, amendment, or re
 
 #### (b) Public participation
 
-(1) Public participation in the development, revision, implementation, and enforcement ofany regulation, guideline, information, or program under this chapter shall be provided for, encouraged, and assisted by the Administrator and the States. The Administrator, in cooperation with the States, shall develop and publish minimum guidelines for public participation in such processes.
+(1) Public participation in the development, revision, implementation, and enforcement of any regulation, guideline, information, or program under this chapter shall be provided for, encouraged, and assisted by the Administrator and the States. The Administrator, in cooperation with the States, shall develop and publish minimum guidelines for public participation in such processes.
 
 (2) Before the issuing of a permit to any person with any respect to any facility for the treatment, storage, or disposal of hazardous wastes under section 6925 of this title, the Administrator shall—
 

@@ -20,7 +20,7 @@ Within 180 days after the effective date of this subchapter, the Executive Commi
 
 #### (d) Election of tribal officers
 
-Within 120 days after the Tribe ratifies and adopts a constitution and bylaws, the Executive Committee shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in the constitution and bylaws. Subsequent elections shall be held in accordance with the Tribe's constitution and bylaws.
+Within 120 days after the Tribe ratifies and adopts a constitution and bylaws, the ExecutiveCommittee shall conduct an election by secret ballot for the purpose of electing tribal officials as provided in the constitution and bylaws. Subsequent elections shall be held in accordance with the Tribe's constitution and bylaws.
 
 #### (e) Extension of time
 

@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(I) an examination of the relationship between domestic violence and maternal complications and mortality;
 
-&emsp;&emsp;(J) preventing and reducing adverse health consequences that may result from smoking, alcohol and illegal drug use before, during and after pregnancy;
+&emsp;&emsp;(J) preventing and reducing adverse health consequences that may result from smoking,alcohol and illegal drug use before, during and after pregnancy;
 
 &emsp;&emsp;(K) preventing infections that cause maternal and infant complications; and
 

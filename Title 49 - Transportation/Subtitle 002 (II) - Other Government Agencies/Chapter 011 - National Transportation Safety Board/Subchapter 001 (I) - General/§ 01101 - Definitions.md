@@ -32,5 +32,5 @@ Pub. L. 106–424, §1(a), Nov. 1, 2000, 114 Stat. 1883, provided that: “This 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–291, title I, §101, Oct. 11, 1996, 110 Stat. 3452, provided that: “This title \[amending sections 1114, 1115, and 1118 of this title\] may be cited as the ‘National Transportation Safety Board Amendments of 1996’.”
+Pub. L. 104–291, title I, §101, Oct. 11, 1996, 110 Stat. 3452, provided that: “This title \[amending sections 1114,1115, and 1118 of this title\] may be cited as the ‘National Transportation Safety Board Amendments of 1996’.”
 

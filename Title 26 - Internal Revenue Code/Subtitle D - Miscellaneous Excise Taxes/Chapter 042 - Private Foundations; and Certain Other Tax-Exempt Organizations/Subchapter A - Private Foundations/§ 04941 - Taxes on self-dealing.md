@@ -70,7 +70,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;&emsp;(i) prizes and awards which are subject to the provisions of section 74(b) (without regard to paragraph (3) thereof), if the recipients of such prizes and awards are selected from the general public,
 
-&emsp;&emsp;&emsp;(ii) scholarships and fellowship grants which would be subject to the provisions of section 117(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),
+&emsp;&emsp;&emsp;(ii) scholarships and fellowship grants which would be subject to the provisions ofsection 117(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),
 
 &emsp;&emsp;&emsp;(iii) any annuity or other payment (forming part of a stock-bonus, pension, or profit-sharing plan) by a trust which is a qualified trust under section 401,
 
@@ -80,7 +80,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;&emsp;(vi) any payment made under chapter 41 of title 5, United States Code, or
 
-&emsp;&emsp;&emsp;(vii) any payment or reimbursement of traveling expenses for travel solely from one point in the United States to another point in the United States, but only if such payment or reimbursement does not exceed the actual cost of the transportationinvolved plus an amount for all other traveling expenses not in excess of 125 percent of the maximum amount payable under section 5702 of title 5, United States Code, for like travel by employees of the United States; and
+&emsp;&emsp;&emsp;(vii) any payment or reimbursement of traveling expenses for travel solely from one point in the United States to another point in the United States, but only if such payment or reimbursement does not exceed the actual cost of the transportation involved plus an amount for all other traveling expenses not in excess of 125 percent of the maximum amount payable under section 5702 of title 5, United States Code, for like travel by employees of the United States; and
 
 &emsp;&emsp;(H) the leasing by a disqualified person to a private foundation of office space for use by the foundation in a building with other tenants who are not disqualified persons shall not be treated as an act of self-dealing if—
 
@@ -156,7 +156,7 @@ Amendment by section 122(a)(2)(A) of Pub. L. 99–514 applicable to prizes and a
 
 Amendment by section 1812(b)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2,1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under section 5701 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 

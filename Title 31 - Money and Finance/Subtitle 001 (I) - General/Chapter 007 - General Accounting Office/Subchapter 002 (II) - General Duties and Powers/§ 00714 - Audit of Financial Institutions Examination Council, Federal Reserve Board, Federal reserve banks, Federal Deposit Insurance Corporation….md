@@ -2,7 +2,7 @@
 
 (a) In this section, “agency” means the Financial Institutions Examination Council, the Federal Reserve Board, Federal reserve banks, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.
 
-(b) Under regulations of the Comptroller General, the Comptroller General shall audit an agency, but may carry out an onsite examination of an open insured bank or bank holding company only if the appropriate agency has consented in writing. Audits of the Federal Reserve Board and Federal reserve banks may not include—
+(b) Under regulations of the Comptroller General, the Comptroller General shall audit an agency, but may carry out an onsite examination of an open insured bank or bank holding company only if the appropriate agency has consented in writing. Audits of the Federal ReserveBoard and Federal reserve banks may not include—
 
 &emsp;(1) transactions for or with a foreign central bank, government of a foreign country, or nonprivate international financing organization;
 
@@ -68,7 +68,7 @@ In subsection (d)(2), the words “records and property of or used by an agency�
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–316 struck out at end of par. (1) “An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities.” and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remain in the agency. The Comptroller General shall prevent unauthorized access to records or property.”
+1996—Subsec. (d). Pub. L. 104–316 struck out at end of par. (1) “An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities.” and amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Except for the temporary removal of workpapers ofthe Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remain in the agency. The Comptroller General shall prevent unauthorized access to records or property.”
 
 1989—Subsec. (a). Pub. L. 101–73 inserted reference to Office of Thrift Supervision.
 

@@ -46,5 +46,5 @@ In reviewing applications for grants and contracts under section 5667(a) of this
 
 The Anti-Drug Abuse Act of 1988, referred to in subsec. (b)(6), is Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of subtitle B of title III of the Act is classified generally to subchapter I (§11801 et seq.) of chapter 123 of this title. For complete classification of this Act to the Code, see Short Title note set out under former section 1501 of Title 21, Food and Drugs, and Tables.
 
-Section 2891 of title 20, referred to in subsec. (c)(1), was in the original “section 1471 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 8801 of Title 20, Education.
+Section 2891 of title 20, referred to in subsec. (c)(1), was in the original “section 1471 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 7801 of Title 20, Education.
 

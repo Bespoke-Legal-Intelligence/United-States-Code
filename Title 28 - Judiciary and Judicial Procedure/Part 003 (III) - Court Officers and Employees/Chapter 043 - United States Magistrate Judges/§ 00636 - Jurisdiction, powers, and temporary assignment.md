@@ -34,7 +34,7 @@
 
 &emsp;(2) If a magistrate judge is designated to exercise civil jurisdiction under paragraph (1) of this subsection, the clerk of court shall, at the time the action is filed, notify the parties of the availability of a magistrate judge to exercise such jurisdiction. The decision of the parties shall be communicated to the clerk of court. Thereafter, either the district court judge or the magistrate judge may again advise the parties of the availability of the magistrate judge, but in so doing, shall also advise the parties that they are free to withhold consent without adverse substantive consequences. Rules of court for the reference of civil matters to magistrate judges shall include procedures to protect the voluntariness of the parties’ consent.
 
-&emsp;(3) Upon entry of judgment in any case referred under paragraph (1) of this subsection, an aggrieved party may appeal directly to the appropriate United States court of appeals from the judgment of the magistrate judge in the same manner as an appeal from any other judgment of a district court. The consent of the parties allows a magistrate judge designated to exercise civil jurisdiction under paragraph (1) of this subsection to direct theentry of a judgment of the district court in accordance with the Federal Rules of Civil Procedure. Nothing in this paragraph shall be construed as a limitation of any party's right to seek review by the Supreme Court of the United States.
+&emsp;(3) Upon entry of judgment in any case referred under paragraph (1) of this subsection, an aggrieved party may appeal directly to the appropriate United States court of appeals from the judgment of the magistrate judge in the same manner as an appeal from any other judgment of a district court. The consent of the parties allows a magistrate judge designated to exercise civil jurisdiction under paragraph (1) of this subsection to direct the entry of a judgment of the district court in accordance with the Federal Rules of Civil Procedure. Nothing in this paragraph shall be construed as a limitation of any party's right to seek review by the Supreme Court of the United States.
 
 &emsp;(4) The court may, for good cause shown on its own motion, or under extraordinary circumstances shown by any party, vacate a reference of a civil matter to a magistrate judge under this subsection.
 
@@ -74,7 +74,7 @@ Certification of other contempts to the district court.—Upon the commission of
 
 &emsp;&emsp;(B) in any other case or proceeding under subsection (a) or (b) of this section, or any other statute, where—
 
-&emsp;&emsp;&emsp;(i) the act committed in the magistrate judge's presence may, in the opinion of the magistrate judge, constitute a serious criminal contempt punishable by penalties exceeding those set forth in paragraph (5) of this subsection,
+&emsp;&emsp;&emsp;(i) the act committed in the magistrate judge's presence may, in the opinion of themagistrate judge, constitute a serious criminal contempt punishable by penalties exceeding those set forth in paragraph (5) of this subsection,
 
 &emsp;&emsp;&emsp;(ii) the act that constitutes a criminal contempt occurs outside the presence of the magistrate judge, or
 
@@ -124,7 +124,7 @@ Changes were made in phraseology.
 
 #### References in Text
 
-The Rules of Criminal Procedure for the United States District Courts, referred to in subsecs. (a)(1) and\(e)(2)–(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+The Rules of Criminal Procedure for the United States District Courts, referred to in subsecs. (a)(1) and (e)(2)–(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 The Federal Rules of Civil Procedure for the United States district courts, referred to in subsecs. (b)(2), (c)(3), and (e)(4), are set out in the Appendix to this title.
 
@@ -204,7 +204,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now UnitedStates magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
 
 #### Section Referred to in Other Sections
 

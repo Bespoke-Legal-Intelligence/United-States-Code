@@ -1,0 +1,16 @@
+### §7909. Prohibition on federally sponsored testing
+
+#### (a) General prohibition
+
+Notwithstanding any other provision of Federal law and except as provided in subsection (b) of this section, no funds provided under this chapter to the Secretary or to the recipient of any award may be used to develop, pilot test, field test, implement, administer, or distribute any federally sponsored national test in reading, mathematics, or any other subject, unless specifically and explicitly authorized by law.
+
+#### (b) Exceptions
+
+Subsection (a) of this section shall not apply to international comparative assessments developed under the authority of section 9003(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
+
+(Pub. L. 89–10, title IX, §9529, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1984.)
+
+#### Prior Provisions
+
+A prior section 7909, Pub. L. 89–10, title IX, §9209, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3803, related to Native Hawaiian curriculum development and teacher training and recruitment programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
+

@@ -12,7 +12,7 @@ Person to Whom Section Applies.—A person described in this subsection is one w
 
 #### Historical and Revision Notes
 
-Based on section 52(a) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, §29a, 30 Stat. 554; May27, 1926, ch. 406, §11 (part), 44 Stat. 665; June 22, 1938, ch. 575, §1 (part), 52 Stat. 855).
+Based on section 52(a) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, §29a, 30 Stat. 554; May 27, 1926, ch. 406, §11 (part), 44 Stat. 665; June 22, 1938, ch. 575, §1 (part), 52 Stat. 855).
 
 Minor changes were made in phraseology.
 

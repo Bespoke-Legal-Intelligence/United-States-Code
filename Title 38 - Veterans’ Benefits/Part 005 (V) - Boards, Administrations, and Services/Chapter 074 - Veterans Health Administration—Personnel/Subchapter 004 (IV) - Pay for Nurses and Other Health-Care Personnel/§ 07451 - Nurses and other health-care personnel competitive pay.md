@@ -20,7 +20,7 @@
 
 (b) The Secretary shall maintain the five grade levels for nurses employed by the Department under section 7401(1) of this title as specified in the Nurse Schedule in section 7404(b) of this title. The Secretary shall, pursuant to regulations prescribed to carry out this subchapter, establish grades for other covered positions as the Secretary considers appropriate.
 
-(c)(1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade toa rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g),<sup>1</sup> provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
+(c)(1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g),<sup>1</sup> provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
 
 (2) The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level V of the Executive Schedule under section 5316 of title 5.
 
@@ -34,13 +34,13 @@
 
 (2) An adjustment in rates of basic pay under this subsection for a grade shall be carried out by adjusting the amount of the minimum rate of basic pay for that grade in accordance with paragraph (3) and then adjusting the other rates for that grade to conform to the requirements of subsection (c). Except as provided in paragraph (1)(A), such an adjustment in the minimum rate of basic pay for a grade shall be made by the director of a Department health-care facility so as to achieve consistency with the beginning rate of compensation for corresponding health-care professionals in the Bureau of Labor Statistics (BLS) labor-market area of that facility.
 
-(3)(A) In the case of a Department health-care facility located in an area for which there is current information, based upon an industry-wage survey by the Bureau of Labor Statistics for that labor market, on beginning rates of compensation for corresponding health-care professionals for the BLS labor-market area of that facility, the director of the facility concerned shall use that information as the basis for making adjustments in rates of pay under this subsection. Whenever the Bureau of Labor Statistics releases the results of a new industry-wage survey for that labor market that includes information on beginning rates of compensation for corresponding health-care professionals, the director of that facility shall determine, not later than 30 days after the results of the survey are released, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
+(3)(A) In the case of a Department health-care facility located in an area for which there is current information, based upon an industry-wage survey by the Bureau of Labor Statistics for that labor market, on compensation for corresponding health-care professionals for the BLS labor-market area of that facility, the director of the facility concerned shall use that information as the basis for making adjustments in rates of pay under this subsection. Whenever the Bureau of Labor Statistics releases the results of a new industry-wage survey for that labor market that includes information on compensation for corresponding health-care professionals, the director of that facility shall determine, not later than 30 days after the results of the survey are released, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
 
-(B) In the case of a Department health-care facility located in an area for which the Bureau of Labor Statistics does not have current information on beginning rates of compensation for corresponding health-care professionals for the labor-market area of that facility for any covered position, the director of that facility shall conduct a survey in accordance with this subparagraph and shall adjust the amount of the minimum rate of basic pay for grades in that covered position at that facility based upon that survey. To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence. Any such survey shall be conducted in accordance with regulations prescribed by the Secretary. Those regulations shall be developed in consultation with the Secretary of Labor in order to ensure that the director of a facility collects information that is valid and reliable and is consistent with standards of the Bureau. The survey should be conducted using methodology comparable to that used by the Bureau in making industry-wage surveys except to the extent determined infeasible by the Secretary. To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section. Upon conducting a survey under this subparagraph, the director concerned shall determine, not later than 30 days after the date on which the collection of information through the survey is completed or published, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
+(B) In the case of a Department health-care facility located in an area for which the Bureau of Labor Statistics does not have current information on compensation for corresponding health-care professionals for the labor-market area of that facility for any covered position, the director of that facility shall conduct a survey in accordance with this subparagraph and shall adjust the amount of the minimum rate of basic pay for grades in that covered position at that facility based upon that survey. To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence. Any such survey shall be conducted in accordance with regulations prescribed by the Secretary. Those regulations shall be developed in consultation with the Secretary of Labor in order to ensure that the director of a facility collects information that is valid and reliable and is consistent with standards of the Bureau. The survey should be conducted using methodology comparable to that used by the Bureau in making industry-wage surveys except to the extent determined infeasible by the Secretary. To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section. Upon conducting a survey under this subparagraph, the director concerned shall determine, not later than 30 days after the date on which the collection of information through the survey is completed or published, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
 
-(C)(i) A director of a Department health-care facility may use data on the beginning rates of compensation paid to certified registered nurse anesthetists who are employed on a salary basis by entities that provide anesthesia services through certified registered nurse anesthetists in the labor-market area only if the director—
+(C)(i) A director of a Department health-care facility may use data on the compensation paid to certified registered nurse anesthetists who are employed on a salary basis by entities that provide anesthesia services through certified registered nurse anesthetists in the labor-market area only if the director—
 
-&emsp;(I) has conducted a survey of beginning rates of compensation for certified registered nurse anesthetists in the local labor-market area of the facility under subparagraph (B);
+&emsp;(I) has conducted a survey of compensation for certified registered nurse anesthetists in the local labor-market area of the facility under subparagraph (B);
 
 &emsp;(II) has used all available administrative authority with regard to collection of survey data; and
 
@@ -52,7 +52,7 @@
 
 (E) The director of a facility or Under Secretary for Health may not adjust rates of basic pay under this subsection for any pay grade so that the minimum rate of basic pay for that grade is greater than the beginning rates of compensation for corresponding positions at non-Department health-care facilities.
 
-(4) If the director of a Department health-care facility, or the Under Secretary for Health with respect to Regional and Central Office employees, determines, after any survey under paragraph (3)(B) or at any other time that an adjustment in rates of pay is scheduled to take place under this subsection, that it is not necessary to adjust the rates of basic pay for employees in a grade of a covered position at that facility in order to carry out the purpose of this section, such an adjustment for employees at that facility in that grade shall not be made. Whenever a director makes such a determination, the director shall within 10 days notify the Under Secretary for Health of the decision and the reasons for the decision.
+(4) If the director of a Department health-care facility, or the Under Secretary for Health with respect to Regional and Central Office employees, determines, after any survey under paragraph (3)(B) that it is not necessary to adjust the rates of basic pay for employees in a grade of a covered position at that facility in order to carry out the purpose of this section, such an adjustment for employees at that facility in that grade shall not be made.
 
 (5) Information collected by the Department in surveys conducted under this subsection is not subject to disclosure under section 552 of title 5.
 
@@ -66,7 +66,7 @@
 
 &emsp;(B) The term “corresponding”, with respect to health-care personnel positions in non-Department health-care facilities, means those positions for which the education, training, and experience requirements are equivalent or similar to the education, training, and experience requirements for health-care personnel positions in Department health-care facilities.
 
-(e)(1) An adjustment in a rate of basic pay under subsection (d) may not reduce the rate of basic pay applicable to any grade of a covered position.
+(e)(1) An adjustment in a rate of basic pay under subsection (d) may not reduce the rate ofbasic pay applicable to any grade of a covered position.
 
 (2) The director of a Department health-care facility, in determining whether to carry out a wage survey under subsection (d)(3) with respect to rates of basic pay for a grade of a covered position, may not consider as a factor in such determination the absence of a current recruitment or retention problem for personnel in that grade of that position. The director shall make such a determination based upon whether, in accordance with criteria established by the Secretary, there is a significant pay-related staffing problem at that facility in any grade for a position. If the director determines that there is such a problem, or that such a problem is likely to exist in the near future, the Director shall provide for a wage survey in accordance with subsection (d)(3).
 
@@ -74,13 +74,13 @@
 
 (4) Each director of a Department health-care facility shall provide to the Secretary, not later than July 31 each year, a report on staffing for covered positions at that facility. The report shall include the following:
 
-&emsp;(A) Information on turnover rates and vacancy rates for each grade in a covered position, including a comparison of those rates with the rates for the preceding three years.
+&emsp;(A) Information on turnover rates and vacancy rates for each covered position, including a comparison of those rates with the rates for the preceding three years.
 
-&emsp;(B) The director's findings concerning the review and evaluation of the facility's staffing situation, including whether there is, or is likely to be, in accordance with criteria established by the Secretary, a significant pay-related staffing problem at that facility for any grade of a covered position and, if so, whether a wage survey was conducted, or will be conducted with respect to that grade.
+&emsp;(B) The director's findings concerning the review and evaluation of the facility's staffing situation, including whether there is, or is likely to be, in accordance with criteria established by the Secretary, a significant pay-related staffing problem at that facility for any covered position and, if so, whether a wage survey was conducted, or will be conducted with respect to that position.
 
 &emsp;(C) In any case in which the director conducts such a wage survey during the period covered by the report, information describing the survey and any actions taken or not taken based on the survey, and the reasons for taking (or not taking) such actions.
 
-&emsp;(D) In any case in which the director, after finding that there is, or is likely to be, in accordance with criteria established by the Secretary, a significant pay-related staffing problem at that facility for any grade of a covered position, determines not to conduct a wage survey with respect to that position, a statement of the reasons why the director did not conduct such a survey.
+&emsp;(D) In any case in which the director, after finding that there is, or is likely to be, in accordance with criteria established by the Secretary, a significant pay-related staffing problem at that facility for any covered position, determines not to conduct a wage survey with respect to that position, a statement of the reasons why the director did not conduct such a survey.
 
 (5) Not later than September 30 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on staffing for covered positions at Department health care facilities. Each such report shall include the following:
 
@@ -92,7 +92,7 @@
 
 (g) For the purposes of this section, the term “health-care facility” means a medical center, an independent outpatient clinic, or an independent domiciliary facility.
 
-(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 and amended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, §101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, §201(a), Nov. 1, 2000, 114 Stat. 1838.)
+(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 and amended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, §101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, §201(a), Nov. 1, 2000, 114 Stat. 1838; Pub. L. 107–135, title I, §133, Jan. 23, 2002, 115 Stat. 2454.)
 
 #### References in Text
 
@@ -101,6 +101,16 @@ Subsection (g), referred to in subsec. (c)(1), was repealed and subsec. (h) was 
 The General Schedule, referred to in subsec. (d)(1)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (d)(3)(A). Pub. L. 107–135, §133(1)(A), struck out “beginning rates of” before “compensation for corresponding health-care professionals” in two places.
+
+Subsec. (d)(3)(B). Pub. L. 107–135, §133(1)(B), struck out “beginning rates of” before “compensation for corresponding health-care professionals”.
+
+Subsec. (d)(3)(C)(i). Pub. L. 107–135, §133(1)(C), struck out “beginning rates of” before “compensation” in introductory provisions and in subcl. (I).
+
+Subsec. (d)(4). Pub. L. 107–135, §133(2), struck out “or at any other time that an adjustment in rates of pay is scheduled to take place under this subsection” after “paragraph (3)(B)” and “Whenever a director makes such a determination, the director shall within 10 days notify the Under Secretary for Health of the decision and the reasons for the decision.” at end.
+
+Subsec. (e)(4). Pub. L. 107–135, §133(3), struck out “grade in a” before “covered position” in subpar. (A), struck out “grade of a” before “covered position” and substituted “that position” for “that grade” in subpar. (B), and struck out “grade of a” before “covered position” in subpar. (D).
 
 2000—Subsec. (d)(1). Pub. L. 106–419, §201(a)(1)(A)(i), substituted “Subject to subsection (e), the rates” for “The rates” in introductory provisions.
 
@@ -191,6 +201,130 @@ New Pay Rates.—The rates of basic pay established pursuant to section 4141 \[n
 #### Savings Provision
 
 Section 301(a) of Pub. L. 102–40 provided that: “Physician assistants and expanded-function dental auxiliaries shall continue to be paid after August 14, 1990, according to the Nurse Schedule in section 4107(b) of title 38 \[former section 4107(b) of this title\], United States Code, as in effect on August 14, 1990, until the effective date of a determination by the Secretary to convert those occupations to ‘covered positions’ and pay them pursuant to section 7451 of such title, as redesignated by section 401(c).”
+
+#### Report on Requests for Waivers of Pay Reductions for Reemployed Annuitants To Fill Nurse Positions
+
+Pub. L. 107–135, title I, §103, Jan. 23, 2002, 115 Stat. 2450, provided that:
+
+“(a)
+
+Report.—Not later than March 28 of each of 2002 and 2003, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives and to the National Commission on VA Nursing established under subtitle D \[set out below\] a report describing each request of the Secretary, during the fiscal year preceding such report, to the Director of the Office of Personnel Management for the following:
+
+&emsp;“(1) A waiver under subsection (i)(1)(A) of section 8344 of title 5, United States Code, of the provisions of such section in order to meet requirements of the Department of Veterans Affairs for appointments to nurse positions in the Veterans Health Administration.
+
+&emsp;“(2) A waiver under subsection (f)(1)(A) of section 8468 of title 5, United States Code, of the provisions of such section in order to meet requirements of the Department for appointments to such positions.
+
+&emsp;“(3) A grant of authority under subsection (i)(1)(B) of section 8344 of title 5, United States Code, for the waiver of the provisions of such section in order to meet requirements of the Department for appointments to such positions.
+
+&emsp;“(4) A grant of authority under subsection (f)(1)(B) of section 8468 of title 5, United States Code, for the waiver of the provisions of such section in order to meet requirements of the Department for appointments to such positions.
+
+“(b)
+
+Information on Responses to Requests.—The report under subsection (a) shall specify for each request covered by the report—
+
+&emsp;“(1) the response of the Director to such request; and
+
+&emsp;“(2) if such request was granted, whether or not the waiver or authority, as the case may be, assisted the Secretary in meeting requirements of the Department for appointments to nurse positions in the Veterans Health Administration.”
+
+#### National Commission on VA Nursing
+
+Pub. L. 107–135, title I, subtitle D, Jan. 23, 2002, 115 Stat. 2454, provided that:
+
+#### “SEC. 141. ESTABLISHMENT OF COMMISSION.
+
+“(a)
+
+Establishment.—There is hereby established in the Department of Veterans Affairs a commission to be known as the ‘National Commission on VA Nursing’ (hereinafter in this subtitle referred to as the ‘Commission’).
+
+“(b)
+
+Composition.—The Commission shall be composed of 12 members appointed by the Secretary of Veterans Affairs as follows:
+
+&emsp;“(1) At least two shall be recognized representatives of employees (including nurses) of the Department of Veterans Affairs.
+
+&emsp;“(2) At least one shall be a representative of professional associations of nurses of the Department or similar organizations affiliated with the Department's health care practitioners.
+
+&emsp;“(3) At least one shall be a nurse from a nursing school affiliated with the Department of Veterans Affairs.
+
+&emsp;“(4) At least two shall be representatives of veterans.
+
+&emsp;“(5) At least one shall be an economist.
+
+&emsp;“(6) The remainder shall be appointed in such manner as the Secretary considers appropriate.
+
+“(c)
+
+Chair of Commission.—The Secretary of Veterans Affairs shall designate one of the members of the Commission to chair the Commission.
+
+“(d)
+
+Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall be filled in the same manner as the original appointment.
+
+“(e)
+
+Initial Organization Requirements.—All appointments to the Commission shall be made not later than 60 days after the date of the enactment of this Act \[Jan. 23, 2002\]. The Commission shall convene its first meeting not later than 60 days after the date as of which all members of the Commission have been appointed.
+
+#### “SEC. 142. DUTIES OF COMMISSION.
+
+“(a)
+
+Assessment.—The Commission shall—
+
+&emsp;“(1) consider legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel by the Department of Veterans Affairs; and
+
+&emsp;“(2) assess the future of the nursing profession within the Department.
+
+“(b)
+
+Recommendations.—The Commission shall recommend legislative and organizational policy changes to enhance the recruitment and retention of nurses and other nursing personnel in the Department.
+
+#### “SEC. 143. REPORTS.
+
+“(a)
+
+Commission Report.—The Commission shall, not later than two years after the date of its first meeting, submit to Congress and the Secretary of Veterans Affairs a report on the Commission's findings and recommendations.
+
+“(b)
+
+Secretary of Veterans Affairs Report.—Not later than 60 days after the date of the Commission's report under subsection (a), the Secretary shall submit to Congress a report—
+
+&emsp;“(1) providing the Secretary's views on the Commission's findings and recommendations; and
+
+&emsp;“(2) explaining what actions, if any, the Secretary intends to take to implement the recommendations of the Commission and the Secretary's reasons for doing so.
+
+#### “SEC. 144. POWERS.
+
+“(a)
+
+Hearings.—The Commission or, at its direction, any panel or member of the Commission, may, for the purpose of carrying out the provisions of this subtitle, hold hearings and take testimony to the extent that the Commission or any member considers advisable.
+
+“(b)
+
+Information.—The Commission may secure directly from any Federal department or agency information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this subtitle.
+
+#### “SEC. 145. PERSONNEL MATTERS.
+
+“(a)
+
+Pay of Members.—Members of the Commission shall serve without pay by reason of their work on the Commission.
+
+“(b)
+
+Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+
+“(c)
+
+Staff.—(1) The Secretary may, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, appoint a staff director and such additional personnel as may be necessary to enable the Commission to perform its duties.
+
+“(2) The Secretary may fix the pay of the staff director and other personnel appointed under paragraph (1) without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay fixed under this paragraph for the staff director may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title and the rate of pay for other personnel may not exceed the maximum rate payable for grade GS–15 of the General Schedule.
+
+“(d)
+
+Detail of Government Employees.—Upon request of the Secretary, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its duties.
+
+#### “SEC. 146. TERMINATION OF COMMISSION.
+
+“The Commission shall terminate 90 days after the date of the submission of its report under section 143(a).”
 
 #### Report on Nurse Locality Pay
 

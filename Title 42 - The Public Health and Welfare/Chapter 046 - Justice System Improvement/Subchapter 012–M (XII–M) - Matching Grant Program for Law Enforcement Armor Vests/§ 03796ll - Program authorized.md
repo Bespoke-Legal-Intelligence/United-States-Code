@@ -54,7 +54,7 @@ A qualifying State, unit of local government, or Indian tribe may not receive mo
 
 #### (g) Allocation of funds
 
-Funds available under this subchapter shall be awarded, without regard to subsection (c) of thissection, to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
+Funds available under this subchapter shall be awarded, without regard to subsection (c) of this section, to each qualifying unit of local government with fewer than 100,000 residents. Any remaining funds available under this subchapter shall be awarded to other qualifying applicants.
 
 (Pub. L. 90–351, title I, §2501, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 513; amended Pub. L. 106–517, §3(a), (b), Nov. 13, 2000, 114 Stat. 2407, 2408.)
 

@@ -8,7 +8,9 @@ In this chapter—
 
 &emsp;(3) the term “CITES Ivory Control System” means the ivory quota and marking system established by CITES to curtail illegal trade in African elephant ivory;
 
-&emsp;(4) the term “Fund” means the African Elephant Conservation Fund established by section 4212 of this title;
+&emsp;(4) the term “Fund” means the account established by division A, section 101(e), title I of Public Law 105–277 under the heading “
+
+multinational species conservation fund” \[16 U.S.C. 4246\];
 
 &emsp;(5) the terms “import” and “importation” have the meanings such terms have in the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 
@@ -28,9 +30,19 @@ In this chapter—
 
 &emsp;(13) the term “worked ivory” means any African elephant tusk, and any piece thereof, which is not raw ivory.
 
-(Pub. L. 100–478, title II, §2305, Oct. 7, 1988, 102 Stat. 2322.)
+(Pub. L. 100–478, title II, §2305, Oct. 7, 1988, 102 Stat. 2322; Pub. L. 107–111, §6(a)(4), Jan. 8, 2002, 115 Stat. 2096.)
 
 #### References in Text
 
+Division A, section 101(e), title I of Public Law 105–277, referred to in par. (4), is Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “
+
+multinational species conservation fund” in Pub. L. 105–277, §101(e) \[title I\] appear at 112 Stat. 2681–237, and are classified in part to section 4246 of this title.
+
 The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
+#### Amendments
+
+2002—Par. (4). Pub. L. 107–111 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘
+
+multinational species conservation fund’ ” for “the African Elephant Conservation Fund established by section 4212 of this title”.
 

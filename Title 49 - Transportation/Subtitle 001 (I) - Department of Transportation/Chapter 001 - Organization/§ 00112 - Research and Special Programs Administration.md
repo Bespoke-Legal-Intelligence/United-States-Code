@@ -60,5 +60,5 @@ In General.—The Secretary of Transportation shall carry out a research and dev
 
 “(b)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section$500,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $500,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
 

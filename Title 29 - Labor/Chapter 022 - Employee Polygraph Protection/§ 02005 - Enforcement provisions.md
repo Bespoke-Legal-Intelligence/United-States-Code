@@ -26,7 +26,7 @@ The Secretary may bring an action under this section to restrain violations of t
 
 #### (2) Court
 
-&emsp;An action to recover the liability prescribed in paragraph (1) may be maintained against the employer in any Federal or State court ofcompetent jurisdiction by an employee or prospective employee for or on behalf of such employee, prospective employee, and other employees or prospective employees similarly situated. No such action may be commenced more than 3 years after the date of the alleged violation.
+&emsp;An action to recover the liability prescribed in paragraph (1) may be maintained against the employer in any Federal or State court of competent jurisdiction by an employee or prospective employee for or on behalf of such employee, prospective employee, and other employees or prospective employees similarly situated. No such action may be commenced more than 3 years after the date of the alleged violation.
 
 #### (3) Costs
 

@@ -6,7 +6,7 @@ To be eligible for assistance under section 5711(a) of this title, an applicant 
 
 #### (b) Provisions of plan
 
-In order to qualify for assistance under section 5711(a) of this title, an applicant shall submit aplan to the Secretary including assurances that the applicant—
+In order to qualify for assistance under section 5711(a) of this title, an applicant shall submit a plan to the Secretary including assurances that the applicant—
 
 &emsp;(1) shall operate a runaway and homeless youth center located in an area which is demonstrably frequented by or easily reachable by runaway and homeless youth;
 

@@ -30,7 +30,7 @@ For purposes of subsection (a), except as provided in subsection (c), the term �
 
 &emsp;&emsp;&emsp;(ii) which is used predominantly in the trade or business of furnishing water or sewerage disposal services,
 
-&emsp;&emsp;(B) the expenditure referred to in subparagraph (A) occurs before the end of the secondtaxable year after the year in which such amount was received, and
+&emsp;&emsp;(B) the expenditure referred to in subparagraph (A) occurs before the end of the second taxable year after the year in which such amount was received, and
 
 &emsp;&emsp;(C) accurate records are kept of the amounts contributed and expenditures made, the expenditures to which contributions are allocated, and the year in which the contributions and expenditures are received and made.
 
@@ -100,7 +100,7 @@ Subsecs. (c), (d). Pub. L. 99–514, §824(a), redesignated former subsec. (d) a
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–589 designated existing provisions as par. (1) and added par. (2).
 
-<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §364(a)(1), (2), substituted in provisions preceding subpar. (A) “electric energy, gas (through a local distribution system or transportation by pipeline), water,” for “water” and in subpar. (B) “electric energy, gas, steam, water,” for “water”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §364(a)(1), (2), substituted in provisions preceding subpar. (A) “electricenergy, gas (through a local distribution system or transportation by pipeline), water,” for “water” and in subpar. (B) “electric energy, gas, steam, water,” for “water”.
 
 Subsec. (b)(2)(A)(ii). Pub. L. 95–600, §364(a)(3), substituted “electric energy, gas, steam, water,” for “water”.
 

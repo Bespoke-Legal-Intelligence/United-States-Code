@@ -142,7 +142,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (6) Treatment of sports franchises
 
-&emsp;A franchise to engage in professional football, basketball, baseball, or other professional sport, and any item acquired in connection with such a franchise.
+&emsp;A franchise to engage in professional football, basketball, baseball, or other professionalsport, and any item acquired in connection with such a franchise.
 
 #### (7) Mortgage servicing
 
@@ -232,7 +232,7 @@ For purposes of this section, the term “section 197 intangible” shall not in
 
 #### (A) In general
 
-&emsp;&emsp;The term “amortizable section 197 intangible” shall not include any section 197 intangible which is described in subparagraph (A) or (B) of subsection (d)(1) (or for which depreciation or amortization would not have been allowable but for this section) and which is acquired by the taxpayer after the date of the enactment of this section, if—
+&emsp;&emsp;The term “amortizable section 197 intangible” shall not include any section 197 intangible which is described in subparagraph (A) or (B) of subsection (d)(1) (or for which depreciation or amortization would not have been allowable but for this section) andwhich is acquired by the taxpayer after the date of the enactment of this section, if—
 
 &emsp;&emsp;&emsp;(i) the intangible was held or used at any time on or after July 25, 1991, and on or before such date of enactment by the taxpayer or a related person,
 
@@ -320,7 +320,7 @@ In general.—If an election under this paragraph applies to the taxpayer—
 
 &emsp;“(B)
 
-Election.—An election under this paragraph shall be made at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe. Such an election by any taxpayer, once made—
+Election.—An election under this paragraph shall be made at such time and in such manner as theSecretary of the Treasury or his delegate may prescribe. Such an election by any taxpayer, once made—
 
 &emsp;&emsp;“(i) may be revoked only with the consent of the Secretary, and
 

@@ -102,5 +102,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 sections 101, 523, 641, 771a, 10503, 12647.
+This section is referred to in title 10 sections 101, 523, 641, 771a, 10503, 12011, 12647.
 

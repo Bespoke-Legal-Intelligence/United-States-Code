@@ -14,7 +14,7 @@ For stocks of fish identified pursuant to subsection (b) of this section, with p
 
 &emsp;(1) a program to collect and evaluate information on the nature and extent (including the spatial and temporal distribution) of incidental mortality of such stocks as a direct result of shrimp trawl fishing activities;
 
-&emsp;(2) an assessment of the status and condition of such stocks, including collection of information which would allow the estimation oflife history parameters with sufficient accuracy and precision to support sound scientific evaluation of the effects of various management alternatives on the status of such stocks; and
+&emsp;(2) an assessment of the status and condition of such stocks, including collection of information which would allow the estimation of life history parameters with sufficient accuracy and precision to support sound scientific evaluation of the effects of various management alternatives on the status of such stocks; and
 
 &emsp;(3) a program of information collection and evaluation for such stocks on the magnitude and distribution of fishing mortality and fishing effort by sources of fishing mortality other than shrimp trawl fishing activity.
 

@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (3) Insurance
 
-&emsp;The term “insurance” means liability insurance which is fair and reasonably priced, asdetermined by the President, and which is made available at the time the contractor enters into the response action contract to provide response action.
+&emsp;The term “insurance” means liability insurance which is fair and reasonably priced, as determined by the President, and which is made available at the time the contractor enters into the response action contract to provide response action.
 
 #### (f) Competition
 
@@ -198,7 +198,7 @@ Any provision of titles I to IV of Pub. L. 99–499, imposing any tax, premium, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 9613 of this title; title 10 sections 2701, 2706; title 14 section 691.
+This section is referred to in section 9613 of this title; title 10 section 2701; title 14 section 691.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

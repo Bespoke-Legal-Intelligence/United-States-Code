@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary and the Board of Directors of the Helen Keller National Center are authorized to establish the Helen Keller National Center Federal Endowment Fund (hereafter in this section referred to as the “Endowment Fund”) in accordance with the provisions of this section, to promote the financial independence of the Helen Keller National Center. The Secretary and the Board may enter into such agreements as may be necessary to carry out the purposes of this section.
+The Secretary and the Board of Directors of the Helen Keller National Center are authorizedto establish the Helen Keller National Center Federal Endowment Fund (hereafter in this section referred to as the “Endowment Fund”) in accordance with the provisions of this section, to promote the financial independence of the Helen Keller National Center. The Secretary and the Board may enter into such agreements as may be necessary to carry out the purposes of this section.
 
 #### (b) Federal payments
 
@@ -24,7 +24,7 @@ The Secretary and the Board of Directors of the Helen Keller National Center are
 
 #### (A) Federally insured investments and other investments
 
-&emsp;&emsp;The Endowment Fund corpus and income shall be invested in federally insured bank savings accounts or comparable interestbearing accounts, certificates of deposit, money market funds, mutual funds, obligations of the United States, or other low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State of New York.
+&emsp;&emsp;The Endowment Fund corpus and income shall be invested in federally insured bank savings accounts or comparable interest bearing accounts, certificates of deposit, money market funds, mutual funds, obligations of the United States, or other low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State of New York.
 
 #### (B) Real estate
 
@@ -88,7 +88,7 @@ The Secretary and the Board of Directors of the Helen Keller National Center are
 
 #### (3) Annual report
 
-&emsp;Not later than 60 days after the end of each fiscal year, the Center shall provide to the Secretary an annual report on the uses of funds provided by the Federal endowment program authorized under this section. Such report shall contain such information, and be in such form as the Secretary may require.
+&emsp;Not later than 60 days after the end of each fiscal year, the Center shall provide to the Secretary an annual report on the uses offunds provided by the Federal endowment program authorized under this section. Such report shall contain such information, and be in such form as the Secretary may require.
 
 #### (f) Recovery of payments
 

@@ -6,7 +6,7 @@ Actions With Notice.—Except as provided in subsection (b), the omission of the
 
 (b)
 
-Actions Without Notice.—The omission of the notice prescribed in section 1306 shall prevent any recovery under section 1323 against a person who began an undertaking leading to infringement under this chapter before receiving written notice of the design protection. No injunction shall be issued under this chapter with respect to such undertaking unless the owner of the design reimburses that person for any reasonable expenditure or contractual obligation in connection with such undertaking that was incurred before receiving written notice of the design protection, as the court in its discretion directs. The burden of providing written notice of design protection shall be on the owner of the design.
+Actions Without Notice.—The omission of the notice prescribed in section 1306 shall prevent any recovery under section 1323 against a person who began an undertaking leading to infringement under this chapter before receivingwritten notice of the design protection. No injunction shall be issued under this chapter with respect to such undertaking unless the owner of the design reimburses that person for any reasonable expenditure or contractual obligation in connection with such undertaking that was incurred before receiving written notice of the design protection, as the court in its discretion directs. The burden of providing written notice of design protection shall be on the owner of the design.
 
 (Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2907.)
 

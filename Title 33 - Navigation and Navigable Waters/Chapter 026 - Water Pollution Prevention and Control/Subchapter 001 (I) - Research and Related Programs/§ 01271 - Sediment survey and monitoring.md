@@ -56,7 +56,7 @@ Sections 501 and 502 of title V of Pub. L. 102–580 provided that:
 
 “(a)
 
-Short Title.—This title \[enacting this section, amending sections 1412 to 1416, 1420, and 1421 of thistitle, and enacting provisions set out below\] may be cited as the ‘National Contaminated Sediment Assessment and Management Act’.
+Short Title.—This title \[enacting this section, amending sections 1412 to 1416, 1420, and 1421 of this title, and enacting provisions set out below\] may be cited as the ‘National Contaminated Sediment Assessment and Management Act’.
 
 “(b)
 

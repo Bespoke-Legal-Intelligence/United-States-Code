@@ -6,7 +6,7 @@
 
 &emsp;(1) supervising Department of Defense acquisition;
 
-&emsp;(2) establishing policies for acquisition (including procurement, research and development, developmental testing, and contract administration) for all elements of the Department of Defense;
+&emsp;(2) establishing policies for acquisition (including procurement of goods and services, research and development, developmental testing, and contract administration) for all elements of the Department of Defense;
 
 &emsp;(3) establishing policies for logistics, maintenance, and sustainment support for all elements of the Department of Defense;
 
@@ -32,7 +32,7 @@
 
 (2) With regard to all matters other than matters for which he has responsibility by law or by direction of the Secretary of Defense, the Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, and the Secretaries of the military departments.
 
-(Added Pub. L. 99–348, title V, §501(a), July 1, 1986, 100 Stat. 707, §134a; renumbered §133 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, 100 Stat. 995, 1002, 1003; Pub. L. 99–500, §101(c) \[title X, §901\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, and Pub. L. 99–591, §101(c) \[title X, §901\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130; Pub. L. 99–661, div. A, title IX, formerly title IV, §901, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §809(d), Sept. 29, 1988, 102 Stat. 2013; Pub. L. 103–160, div. A, title IX, §904(b), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(2), (d)(2), Oct. 5, 1999, 113 Stat. 717, 719.)
+(Added Pub. L. 99–348, title V, §501(a), July 1, 1986, 100 Stat. 707, §134a; renumbered §133 and amended Pub. L. 99–433, title I, §§101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, 100 Stat. 995, 1002, 1003; Pub. L. 99–500, §101(c) \[title X, §901\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, and Pub. L. 99–591, §101(c) \[title X, §901\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130; Pub. L. 99–661, div. A, title IX, formerly title IV, §901, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–456, div. A, title VIII, §809(d), Sept. 29, 1988, 102 Stat. 2013; Pub. L. 103–160, div. A, title IX, §904(b), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(2), (d)(2), Oct. 5, 1999, 113 Stat. 717, 719; Pub. L. 107–107, div. A, title VIII, §801(a), Dec. 28, 2001, 115 Stat. 1174.)
 
 #### References in Text
 
@@ -47,6 +47,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 133 was renumbered section 113 of this title.
 
 #### Amendments
+
+2001—Subsec. (b)(2). Pub. L. 107–107 inserted “of goods and services” after “procurement”.
 
 1999—Pub. L. 106–65, §911(d)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology” in section catchline.
 

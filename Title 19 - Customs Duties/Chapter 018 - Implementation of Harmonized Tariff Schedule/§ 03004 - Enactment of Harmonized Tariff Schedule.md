@@ -46,7 +46,7 @@ At the earliest practicable date after August 23, 1988, the President shall—
 
 (3) If a rate of duty established in column 1 by the President by proclamation or Executive order is higher than the existing rate of duty in column 2, the President may by proclamation or Executive order increase such existing rate to the higher rate.
 
-(4) If a rate of duty is suspended or terminated by the President by proclamation or Executive order and the proclamation or Executive order does not specify the rate that is to apply in lieu of the suspended or terminated rate, the last rate of duty that applied prior to the suspended or terminated rate shall be the efffective <sup>2</sup> rate of duty.
+(4) If a rate of duty is suspended or terminated by the President by proclamation or Executive order and the proclamation or Executive order does not specify the rate that is to apply in lieu of the suspended or terminated rate, the lastrate of duty that applied prior to the suspended or terminated rate shall be the efffective <sup>2</sup> rate of duty.
 
 #### (d) Interim informational use of Harmonized Tariff Schedule classifications
 
@@ -66,7 +66,7 @@ Each—
 
 The Harmonized Tariff Schedule, referred to in text, is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (b)(1)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 The Trade Agreements Act of 1979, referred to in subsec. (b)(1)(A)(i), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 

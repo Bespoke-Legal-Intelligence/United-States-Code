@@ -62,7 +62,7 @@ Subsec. (c)(9) to (11). Pub. L. 105–178 added pars. (9) to (11).
 
 Subsec. (c)(5). Pub. L. 101–239, §8016(2), (3), added par. (5).
 
-1987—Subsec. (a). Pub. L. 100–203, §9135(a)(2)(A), inserted at end “The allotment for fiscal year 1989 and each succeeding fiscal year to American Samoa shall be an amount which bears the same ratio to the amount allotted to the Northern Mariana Islands for that fiscal year as the population of American Samoa bears to the population of the Northern Mariana Islands determinedon the basis of the most recent data available at the time such allotment is determined.”
+1987—Subsec. (a). Pub. L. 100–203, §9135(a)(2)(A), inserted at end “The allotment for fiscal year 1989 and each succeeding fiscal year to American Samoa shall be an amount which bears the same ratio to the amount allotted to the Northern Mariana Islands for that fiscal year as the population of American Samoa bears to the population of the Northern Mariana Islands determined on the basis of the most recent data available at the time such allotment is determined.”
 
 Subsec. (b). Pub. L. 100–203, §9135(a)(2)(B), inserted “American Samoa,” after “the Virgin Islands,” in two places.
 
@@ -108,7 +108,7 @@ Section 9134(b) of Pub. L. 100–203 provided that: “The additional $50,000,00
 
 Pub. L. 98–473, title IV, §401, Oct. 12, 1984, 98 Stat. 2195, provided that:
 
-“(a)(1) Notwithstanding any provision of title XX of the Social Security Act \[this subchapter\], the amount applicable under section 2003(c)(3) of such Act \[subsec. (c)(3) of this section\] shall be $2,725,000,000 for fiscal year 1985. Of such amount, $25,000,000 shall be allotted and used in accordance with this section.
+“(a)(1) Notwithstanding any provision of title XX of the Social Security Act \[this subchapter\], the amountapplicable under section 2003(c)(3) of such Act \[subsec. (c)(3) of this section\] shall be $2,725,000,000 for fiscal year 1985. Of such amount, $25,000,000 shall be allotted and used in accordance with this section.
 
 “(2) In addition to any other amounts appropriated under this resolution \[Pub. L. 98–473\] or any Act, there are hereby appropriated $25,000,000 for fiscal year 1985, for carrying out title XX of the Social Security Act, to be used in accordance with the provisions of this section.
 

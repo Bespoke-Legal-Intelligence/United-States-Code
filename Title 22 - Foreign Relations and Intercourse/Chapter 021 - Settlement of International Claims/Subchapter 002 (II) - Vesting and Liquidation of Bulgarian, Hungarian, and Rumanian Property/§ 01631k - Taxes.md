@@ -2,7 +2,7 @@
 
 #### (a) Liability
 
-The vesting in any officer or agency designated by the President under this subchapterof any property or the receipt by such designee of any earnings, increment, or proceeds thereof shall not render inapplicable any Federal, State, Territorial, or local tax for any period before or after such vesting.
+The vesting in any officer or agency designated by the President under this subchapter of any property or the receipt by such designee of any earnings, increment, or proceeds thereof shall not render inapplicable any Federal, State, Territorial, or local tax for any period before or after such vesting.
 
 #### (b) Payment by designee; liability of former owner; enforcement of tax liability; transfer of property
 

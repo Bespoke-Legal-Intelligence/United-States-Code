@@ -26,7 +26,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 #### (2) Priorities for offset
 
-&emsp;Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 402(a)(26) <sup>1</sup> of the Social Security Act and before such overpayment is reduced pursuant to subsection (e) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpaymentby such person shall be applied against such debts in the order in which such debts accrued.
+&emsp;Any overpayment by a person shall be reduced pursuant to this subsection after such overpayment is reduced pursuant to subsection (c) with respect to past-due support collected pursuant to an assignment under section 402(a)(26) <sup>1</sup> of the Social Security Act and before such overpayment is reduced pursuant to subsection (e) and before such overpayment is credited to the future liability for tax of such person pursuant to subsection (b). If the Secretary receives notice from a Federal agency or agencies of more than one debt subject to paragraph (1) that is owed by a person to such agency or agencies, any overpayment by such person shall be applied against such debts in the order in which such debts accrued.
 
 #### (3) Treatment of OASDI overpayments
 
@@ -100,7 +100,7 @@ The amount of any overpayment to be refunded to the person making the overpaymen
 
 &emsp;&emsp;(C) considers any evidence presented by such person and determines that an amount of such debt is past-due and legally enforceable; and
 
-&emsp;&emsp;(D) satisfies such other conditions as the Secretary may prescribe to ensure that the determination made under subparagraph (C)is valid and that the State has made reasonable efforts to obtain payment of such State income tax obligation.
+&emsp;&emsp;(D) satisfies such other conditions as the Secretary may prescribe to ensure that the determination made under subparagraph (C) is valid and that the State has made reasonable efforts to obtain payment of such State income tax obligation.
 
 #### (5) Past-due, legally enforceable State income tax obligation
 
@@ -198,7 +198,7 @@ Subsecs. (g) to (j). Pub. L. 104–193, §110(<i>l</i>)(7)(B), which directed am
 
 Subsec. (d)(3). Pub. L. 101–508, §5129(c)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “For purposes of this subsection the term ‘OASDI overpayment’ means any overpayment of benefits made to an individual under title II of the Social Security Act.”
 
-Subsec. (e). Pub. L. 101–508, §5129(c)(2), inserted before period at end “or any such action against the Secretary of Health and Human Services which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act”.
+Subsec. (e). Pub. L. 101–508, §5129(c)(2), inserted before period at end “or any such action against the Secretaryof Health and Human Services which is otherwise available with respect to recoveries of overpayments of benefits under section 204 of the Social Security Act”.
 
 <b>1988</b>—Subsec. (i). Pub. L. 100–647 added subsec. (i).
 
@@ -294,7 +294,7 @@ Pub. L. 100–203, title IX, §9402(b), Dec. 22, 1987, 101 Stat. 1330–376, pro
 
 #### Study by General Accounting Office of Operation and Effectiveness of Amendments by Section 2653 of Pub. L. 98–369
 
-Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, provided that: “The Comptroller General of the United States, in consultation with the Secretary of the Treasury or his delegate, shall conduct a study of the operation and effectiveness of the amendments made by section 2653 of the Deficit Reduction Act of 1984 \[enacting section 3720A of Title 31, Money and Finance, and amending this section and sections 6103 and 7213 of this title\]. The study shall compile and evaluate information on the effect of those amendments on voluntary compliance with the income tax laws. Not later than April 1, 1989, the Comptroller General shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report of the study conducted under this subsection, together with such recommendations as he may deem advisable.”
+Pub. L. 100–203, title IX, §9402(c), Dec. 22, 1987, 101 Stat. 1330–376, provided that: “The Comptroller Generalof the United States, in consultation with the Secretary of the Treasury or his delegate, shall conduct a study of the operation and effectiveness of the amendments made by section 2653 of the Deficit Reduction Act of 1984 \[enacting section 3720A of Title 31, Money and Finance, and amending this section and sections 6103 and 7213 of this title\]. The study shall compile and evaluate information on the effect of those amendments on voluntary compliance with the income tax laws. Not later than April 1, 1989, the Comptroller General shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report of the study conducted under this subsection, together with such recommendations as he may deem advisable.”
 
 #### Section Referred to in Other Sections
 

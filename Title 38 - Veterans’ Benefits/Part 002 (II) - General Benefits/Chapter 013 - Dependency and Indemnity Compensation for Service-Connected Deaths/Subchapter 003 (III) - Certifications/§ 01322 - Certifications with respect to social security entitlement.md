@@ -6,7 +6,7 @@
 
 (c) Except with respect to determinations made under subsection (a) of this section, the Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and section 1312(a) of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1132, §422; Pub. L. 87–268, §1(b), (c), Sept. 21, 1961, 75 Stat. 566; Pub. L. 94–433, title IV, §405(18), Sept. 30, 1976, 90 Stat. 1380; Pub. L. 97–295, §4(12), (95)(A), Oct. 12, 1982, 96 Stat. 1305, 1313; renumbered §1322 and amended Pub. L. 102–83, §§4(b)(1), (2)(A), (E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1132, §422; Pub. L. 87–268, §1(b), (c), Sept. 21, 1961, 75 Stat.566; Pub. L. 94–433, title IV, §405(18), Sept. 30, 1976, 90 Stat. 1380; Pub. L. 97–295, §4(12), (95)(A), Oct. 12, 1982, 96 Stat. 1305, 1313; renumbered §1322 and amended Pub. L. 102–83, §§4(b)(1), (2)(A), (E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

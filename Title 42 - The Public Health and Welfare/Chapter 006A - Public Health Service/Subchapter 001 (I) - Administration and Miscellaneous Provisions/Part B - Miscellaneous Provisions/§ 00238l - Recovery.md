@@ -30,7 +30,7 @@ The transferor and transferee of a facility that is sold or transferred as descr
 
 #### (d) Waiver of recovery rights
 
-The Secretary may waive the recovery rights of the United States under subsection (a) of this section with respect to a facility (under such conditions as the Secretary may establish by regulation) if the Secretary determines that there is good cause for waiving such rights.
+The Secretary may waive the recovery rights of the United States under subsection (a) of this section with respect to a facility (under suchconditions as the Secretary may establish by regulation) if the Secretary determines that there is good cause for waiving such rights.
 
 #### (e) Pre-judgment lien
 
@@ -44,7 +44,7 @@ The Community Mental Health Centers Act, referred to in subsec. (a), is title II
 
 #### Codification
 
-Section was classified to section 300aaa–12 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–14 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–14 of this title prior to renumbering by Pub. L. 99–660, to section 229d of this titleprior to renumbering by Pub. L. 98–24, and to section 2689m of this title prior to renumbering by Pub. L. 97–35.
+Section was classified to section 300aaa–12 of this title prior to renumbering by Pub. L. 103–43, to section 300cc–14 of this title prior to renumbering by Pub. L. 100–607, to section 300aa–14 of this title prior to renumbering by Pub. L. 99–660, to section 229d of this title prior to renumbering by Pub. L. 98–24, and to section 2689m of this title prior to renumbering by Pub. L. 97–35.
 
 #### Amendments
 

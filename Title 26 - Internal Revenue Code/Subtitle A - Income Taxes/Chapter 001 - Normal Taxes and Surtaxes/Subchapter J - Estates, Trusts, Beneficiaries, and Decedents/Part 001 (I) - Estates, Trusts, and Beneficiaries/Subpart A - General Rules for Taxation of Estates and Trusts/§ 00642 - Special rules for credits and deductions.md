@@ -6,7 +6,43 @@ An estate or trust shall be allowed the credit against tax for taxes imposed by 
 
 #### (b) Deduction for personal exemption
 
-An estate shall be allowed a deduction of $600. A trust which, under its governing instrument, is required to distribute all of its income currently shall be allowed a deduction of $300. All other trusts shall be allowed a deduction of $100. The deductions allowed by this subsection shall be in lieu of the deductions allowed under section 151 (relating to deduction for personal exemption).
+#### (1) Estates
+
+&emsp;An estate shall be allowed a deduction of $600.
+
+#### (2) Trusts
+
+#### (A) In general
+
+&emsp;&emsp;Except as otherwise provided in this paragraph, a trust shall be allowed a deduction of $100.
+
+#### (B) Trusts distributing income currently
+
+&emsp;&emsp;A trust which, under its governing instrument, is required to distribute all of its income currently shall be allowed a deduction of $300.
+
+#### (C) Disability trusts
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A qualified disability trust shall be allowed a deduction equal to the exemption amount under section 151(d), determined—
+
+&emsp;&emsp;&emsp;&emsp;(I) by treating such trust as an individual described in section 151(d)(3)(C)(iii), and
+
+&emsp;&emsp;&emsp;&emsp;(II) by applying section 67(e) (without the reference to section 642(b)) for purposes of determining the adjusted gross income of the trust.
+
+#### (ii) Qualified disability trust
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “qualified disability trust” means any trust if—
+
+&emsp;&emsp;&emsp;&emsp;(I) such trust is a disability trust described in subsection (c)(2)(B)(iv) of section 1917 of the Social Security Act (42 U.S.C. 1396p), and
+
+&emsp;&emsp;&emsp;&emsp;(II) all of the beneficiaries of the trust as of the close of the taxable year are determined by the Commissioner of Social Security to have been disabled (within the meaning of section 1614(a)(3) of the Social Security Act, 42 U.S.C. 1382c(a)(3)) for some portion of such year.
+
+&emsp;&emsp;&nbsp;A trust shall not fail to meet the requirements of subclause (II) merely because the corpus of the trust may revert to a person who is not so disabled after the trust ceases to have any beneficiary who is so disabled.
+
+#### (3) Deductions in lieu of personal exemption
+
+&emsp;The deductions allowed by this subsection shall be in lieu of the deductions allowed under section 151 (relating to deduction for personal exemption).
 
 #### (c) Deduction for amounts paid or permanently set aside for a charitable purpose
 
@@ -32,7 +68,7 @@ An estate shall be allowed a deduction of $600. A trust which, under its governi
 
 &emsp;&emsp;&emsp;(iii) the will is not republished by codicil or otherwise before October 9, 1972, and the testator is on such date and at all times thereafter under a mental disability to republish the will by codicil or otherwise,
 
-> &emsp;there shall also be allowed as a deduction in computing its taxable income any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, permanently set aside for a purpose specified in section 170(c), or is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, or for the establishment, acquisition, maintenance, or operation of a public cemetery not operated for profit. In the case of a trust, the preceding sentence shall apply only to gross income earned with respect to amounts transferred to the trust before October 9, 1969, or transferred under a will to which subparagraph (B) applies.
+> &emsp;there shall also be allowed as a deduction in computing its taxable income any amount of the gross income, without limitation, which pursuant to the terms of the governing instrument is, during the taxable year, permanently set aside for a purpose specified in section170(c), or is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, or for the establishment, acquisition, maintenance, or operation of a public cemetery not operated for profit. In the case of a trust, the preceding sentence shall apply only to gross income earned with respect to amounts transferred to the trust before October 9, 1969, or transferred under a will to which subparagraph (B) applies.
 
 #### (3) Pooled income funds
 
@@ -100,9 +136,11 @@ In the case of a cemetery perpetual care fund which—
 
 > any amount distributed by such fund for the care and maintenance of gravesites which have been purchased from the cemetery corporation before the beginning of the taxable year of the trust and with respect to which there is an obligation to furnish care and maintenance shall be considered to be a distribution solely for purposes of sections 651 and 661, but only to the extent that the aggregate amount so distributed during the taxable year does not exceed $5 multiplied by the aggregate number of such gravesites.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 215; Pub. L. 87–834, §13(c)(2)(A), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–272, title II, §201(d)(6)(A), (B), Feb. 26, 1964, 78 Stat. 32; Pub. L. 89–621, §2(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 91–172, title II, §201(b), title VII, §704(b)(2), Dec. 30, 1969, 83 Stat. 558, 669; Pub. L. 92–178, title III, §303(c)(4), title VII, §§701(b), 702(b), Dec. 10, 1971, 85 Stat. 522, 561, 562; Pub. L. 94–455, title XIV, §1402(b)(1)(J), (2), title XIX, §§1901(b)(1)(H)(i), 1906(b)(13)(A), 1951(c)(2)(B), title XX, §2009(d), title XXI, §2124(a)(3)(B), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834, 1840, 1896, 1917; Pub. L. 94–528, §1(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 95–30, title I, §101(d)(9), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title I, §113(a)(2)(B), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–34, title II, §212(d)(2)(D), Aug. 13, 1981, 95 Stat. 239; Pub. L. 98–369, div. A, title IV, §474(r)(17), title X, §1001(b)(8), (e), July 18, 1984, 98 Stat. 843, 1011, 1012; Pub. L. 99–514, title I, §112(b)(2), title III, §301(b)(6), title VI, §612(b)(3), Oct. 22, 1986, 100 Stat. 2108, 2217, 2250; Pub. L. 101–239, title VII, §7811(j)(3), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11801(c)(6)(B), 11812(b)(9), Nov. 5, 1990, 104 Stat. 1388–524, 1388–535; Pub. L. 103–66, title XIII, §§13113(d)(2), 13261(f)(2), Aug. 10, 1993, 107 Stat. 429, 539; Pub. L. 104–188, title I, §1704(t)(8), Aug. 20, 1996, 110 Stat. 1887.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 215; Pub. L. 87–834, §13(c)(2)(A), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–272, title II, §201(d)(6)(A), (B), Feb. 26, 1964, 78 Stat. 32; Pub. L. 89–621, §2(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 91–172, title II, §201(b), title VII, §704(b)(2), Dec. 30, 1969, 83 Stat. 558, 669; Pub. L. 92–178, title III, §303(c)(4), title VII, §§701(b), 702(b), Dec. 10, 1971, 85 Stat. 522, 561, 562; Pub. L. 94–455, title XIV, §1402(b)(1)(J), (2), title XIX, §§1901(b)(1)(H)(i), 1906(b)(13)(A), 1951(c)(2)(B), title XX, §2009(d), title XXI, §2124(a)(3)(B), Oct. 4, 1976, 90 Stat. 1732, 1791, 1834, 1840, 1896, 1917; Pub. L. 94–528, §1(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 95–30, title I, §101(d)(9), May 23, 1977, 91 Stat. 134; Pub. L. 95–600, title I, §113(a)(2)(B), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–34, title II, §212(d)(2)(D), Aug. 13, 1981, 95 Stat. 239; Pub. L. 98–369, div. A, title IV, §474(r)(17), title X, §1001(b)(8), (e), July 18, 1984, 98 Stat. 843, 1011, 1012; Pub. L. 99–514, title I, §112(b)(2), title III, §301(b)(6), title VI, §612(b)(3), Oct. 22, 1986, 100 Stat. 2108, 2217, 2250; Pub. L. 101–239, title VII, §7811(j)(3), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 101–508, title XI, §§11801(c)(6)(B), 11812(b)(9), Nov. 5, 1990, 104 Stat. 1388–524, 1388–535; Pub. L. 103–66, title XIII, §§13113(d)(2), 13261(f)(2), Aug. 10, 1993, 107 Stat. 429, 539; Pub. L. 104–188, title I, §1704(t)(8), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 107–134, title I, §116(a), Jan. 23, 2002, 115 Stat. 2439.)
 
 #### Amendments
+
+<b>2002</b>—Subsec. (b). Pub. L. 107–134 reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “An estate shall be allowed a deduction of $600. A trust which, under its governing instrument, is required to distribute all of its income currently shall be allowed a deduction of $300. All other trusts shall be allowed a deduction of $100. The deductions allowed by this subsection shall be in lieu of the deductions allowed under section 151 (relating to deduction for personal exemption).”
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–188 substituted “under section 2621(a)(2)” for “under 2621(a)(2)”.
 
@@ -167,6 +205,10 @@ Subsec. (f). Pub. L. 91–172, §704(b)(2), struck out reference to emergency or
 Subsec. (i). Pub. L. 88–272, §201(d)(6)(B), designated existing provisions as par. (1) and added par. (2).
 
 <b>1962</b>—Subsec. (e). Pub. L. 87–834 substituted a reference to section 167(h) for a reference to section 167(g).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–134, title I, §116(b), Jan. 23, 2002, 115 Stat. 2440, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending on or after September 11, 2001.”
 
 #### Effective Date of 1993 Amendment
 
@@ -250,7 +292,7 @@ Amendment by Pub. L. 87–834 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -112,7 +112,7 @@
 
 #### (4) Differences in common stock voting rights disregarded
 
-&emsp;For purposes of subsection (b)(1)(D), a corporation shall not be treated as having more than 1 class of stock solely because there are differences in voting rights among the shares of common stock.
+&emsp;For purposes of subsection (b)(1)(D), a corporation shall not be treated as having morethan 1 class of stock solely because there are differences in voting rights among the shares of common stock.
 
 #### (5) Straight debt safe harbor
 
@@ -208,7 +208,7 @@
 
 #### (B) Failure to meet requirements of paragraph (3)(B)
 
-&emsp;&emsp;If any qualified subchapter S trust ceases to meet any requirement of paragraph (3)(B) but continues to meet the requirements of paragraph (3)(A), the provisions of this subsection shall not apply to such trust as of the first day of the first taxable year beginning after the first taxable year for which it failed to meet the requirements of paragraph (3)(B).
+&emsp;&emsp;If any qualified subchapter S trust ceases to meet any requirement of paragraph (3)(B) but continues to meet the requirements of paragraph (3)(A), the provisions of this subsection shall not apply to such trust as of the first day of the first taxable year beginning after the first taxable year for which itfailed to meet the requirements of paragraph (3)(B).
 
 #### (e) Electing small business trust defined
 

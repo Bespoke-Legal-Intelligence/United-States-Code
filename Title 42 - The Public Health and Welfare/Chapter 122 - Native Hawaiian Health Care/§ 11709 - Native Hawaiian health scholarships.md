@@ -2,7 +2,7 @@
 
 #### (a) Eligibility
 
-Subject to the availability of funds appropriated under the authority of subsection (c) of this section, the Secretary shall provide funds through a direct grant or a cooperative agreement to Kamehameha School/Bishop Estate for the purpose of providing scholarship assistance to students who—
+Subject to the availability of funds appropriated under the authority of subsection (c) of this section, the Secretary shall provide funds through a direct grant or a cooperative agreement to Papa Ola Lokahi for the purpose of providing scholarship assistance to students who—
 
 &emsp;(1) meet the requirements of paragraphs (1), (3), and (4) of section 254<i>l</i>(b) of this title, and
 
@@ -16,7 +16,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 &emsp;(B) the primary health services covered under the scholarship assistance program under this section shall be the services included under the definition of that term under section 11711(8) of this title;
 
-&emsp;(C) to the maximum extent practicable, the Secretary shall select scholarship recipients from a list of eligible applicants submitted by the Kamehameha Schools/Bishop Estate;
+&emsp;(C) to the maximum extent practicable, the Secretary shall select scholarship recipients from a list of eligible applicants submitted by the Papa Ola Lokahi;
 
 &emsp;(D) the obligated service requirement for each scholarship recipient shall be fulfilled through the full-time clinical or nonclinical practice of the health profession of the scholarship recipient, in an order of priority that would provide for practice—
 
@@ -44,7 +44,7 @@ Subject to the availability of funds appropriated under the authority of subsect
 
 There are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 2001 for the purpose of funding the scholarship assistance provided under subsection (a) of this section.
 
-(Pub. L. 100–579, §10, as added Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; amended Pub. L. 105–256, §12, Oct. 14, 1998, 112 Stat. 1899.)
+(Pub. L. 100–579, §10, as added Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948; amended Pub. L. 105–256, §12, Oct. 14, 1998, 112 Stat. 1899; Pub. L. 107–116, title V, §514(a), Jan. 10, 2002, 115 Stat. 2219.)
 
 #### Codification
 
@@ -57,6 +57,10 @@ A prior section 11709, Pub. L. 100–579, §11, Oct. 31, 1988, 102 Stat. 2923; P
 A prior section 10 of Pub. L. 100–579 repealed section 1621d of Title 25, Indians.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–116, §514(a)(1), substituted “Papa Ola Lokahi” for “Kamehameha School/Bishop Estate” in introductory provisions.
+
+Subsec. (b)(1)(C). Pub. L. 107–116, §514(a)(2), which directed the substitution of “Papa Ola Lokahi” for “Kamehameha School/Bishop Estate”, was executed by making the substitution for “Kamehameha Schools/Bishop Estate” to reflect the probable intent of Congress.
 
 1998—Subsec. (a)(1). Pub. L. 105–256, §12(a), which directed amendment of subsec. (a)(1) by substituting “meet the requirements of paragraphs (1), (3), and (4) of section 254<i>l</i>(b) of this title” for “meet the requirements of section 254<i>l</i> of this title”, was executed by making the substitution for “meet the requirements of section 254b of this title”, to reflect the probable intent of Congress.
 

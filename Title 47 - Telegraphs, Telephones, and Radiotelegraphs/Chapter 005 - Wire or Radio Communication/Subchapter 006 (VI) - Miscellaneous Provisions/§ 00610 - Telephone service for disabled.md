@@ -26,7 +26,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 (B) The exemption provided by such regulations for cordless telephones shall not apply with respect to cordless telephones manufactured or imported more than three years after August 16, 1988.
 
-(C) The Commission shall periodically assess the appropriateness of continuing in effect theexemptions provided by such regulations for telephones used with public mobile services and telephones used with private radio services. The Commission shall revoke or otherwise limit any such exemption if the Commission determines that—
+(C) The Commission shall periodically assess the appropriateness of continuing in effect the exemptions provided by such regulations for telephones used with public mobile services and telephones used with private radio services. The Commission shall revoke or otherwise limit any such exemption if the Commission determines that—
 
 &emsp;(i) such revocation or limitation is in the public interest;
 
@@ -78,7 +78,7 @@ The Commission shall delegate to each State commission the authority to enforce 
 
 1994—Subsec. (f). Pub. L. 103–414 substituted “The Commission” for “The Commission shall complete rulemaking actions required by this section and issue specific and detailed rules and regulations resulting therefrom within one year after January 3, 1983. The Commission shall complete rulemaking actions required to implement the amendments made by the Hearing Aid Compatibility Act of 1988 within nine months after August 16, 1988. Thereafter, the Commission”.
 
-1988—Subsec. (b). Pub. L. 100–394, §3(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Commission shall require that essential telephones provide internal means for effective usewith hearing aids that are specially designed for telephone use. For purposes of this subsection, the term ‘essential telephones’ means only coin-operated telephones, telephones provided for emergency use, and other telephones frequently needed for use by persons using such hearing aids.”
+1988—Subsec. (b). Pub. L. 100–394, §3(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Commission shall require that essential telephones provide internal means for effective use with hearing aids that are specially designed for telephone use. For purposes of this subsection, the term ‘essential telephones’ means only coin-operated telephones, telephones provided for emergency use, and other telephones frequently needed for use by persons using such hearing aids.”
 
 Subsec. (f). Pub. L. 100–394, §3(b), substituted “The Commission shall complete rulemaking actions required to implement the amendments made by the Hearing Aid Compatibility Act of 1988 within nine months after August 16, 1988. Thereafter, the Commission shall periodically review the regulations established pursuant to this section.” for “Thereafter the Commission shall periodically review such rules and regulations.”
 

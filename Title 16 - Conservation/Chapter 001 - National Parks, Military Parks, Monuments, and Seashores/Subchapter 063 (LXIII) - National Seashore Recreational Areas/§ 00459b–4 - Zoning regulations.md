@@ -24,7 +24,7 @@ If any improved property with respect to which the Secretary's authority to acqu
 
 &emsp;(2) is property upon or with respect to which there occurs any use, commencing after the date of the publication by the Secretary of such regulations, which fails to conform or is in any manner opposed to or inconsistent with any applicable standard contained in such regulations (but no use which is in conformity with the provisions of such bylaw shall be held to fail to conform or be opposed to or inconsistent with any such standard),
 
-> the Secretary may, at any time and in his discretion, terminate the suspension of his authority to acquire such improved property by condemnation: <i>Provided, however</i>, That the Secretary may agree with the owner or owners of such property to refrain from the exercise of the said authority during such time and upon such terms and conditions as the Secretary may deem to be in the best interests of the development and preservation of the seashore.
+> the Secretary may, at any time and in his discretion, terminate the suspension of his authority to acquire such improved property by condemnation: <i>Provided, however</i>, That the Secretary may agree with the owner or owners of such property to refrain from the exercise of the said authority during such time and upon suchterms and conditions as the Secretary may deem to be in the best interests of the development and preservation of the seashore.
 
 (Pub. L. 87–126, §5, Aug. 7, 1961, 75 Stat. 290.)
 

@@ -34,7 +34,7 @@ Consultation by Chairman.—(1) In carrying out his functions, duties, and respo
 
 (d)
 
-Advice and Opinions of Members Other Than Chairman.—(1) A member of the Joint Chiefs of Staff (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Chairman to the President, the National Security Council, or the Secretary of Defense. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time he presents his own advice to the President, the National Security Council, or the Secretary of Defense, as the case may be.
+Advice and Opinions of Members Other Than Chairman.—(1) A member of the JointChiefs of Staff (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Chairman to the President, the National Security Council, or the Secretary of Defense. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time he presents his own advice to the President, the National Security Council, or the Secretary of Defense, as the case may be.
 
 (2) The Chairman shall establish procedures to ensure that the presentation of his own advice to the President, the National Security Council, or the Secretary of Defense is not unduly delayed by reason of the submission of the individual advice or opinion of another member of the Joint Chiefs of Staff.
 

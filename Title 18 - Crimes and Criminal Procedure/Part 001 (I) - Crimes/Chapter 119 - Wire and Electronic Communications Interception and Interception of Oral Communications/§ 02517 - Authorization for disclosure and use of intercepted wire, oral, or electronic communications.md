@@ -10,19 +10,35 @@
 
 (5) When an investigative or law enforcement officer, while engaged in intercepting wire, oral, or electronic communications in the manner authorized herein, intercepts wire, oral, or electronic communications relating to offenses other than those specified in the order of authorization or approval, the contents thereof, and evidence derived therefrom, may be disclosed or used as provided in subsections (1) and (2) of this section. Such contents and any evidence derived therefrom may be used under subsection (3) of this section when authorized or approved by a judge of competent jurisdiction where such judge finds on subsequent application that the contents were otherwise intercepted in accordance with the provisions of this chapter. Such application shall be made as soon as practicable.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 217; amended Pub. L. 91–452, title IX, §902(b), Oct. 15, 1970, 84 Stat. 947; Pub. L. 99–508, title I, §101(c)(1)(A), Oct. 21, 1986, 100 Stat. 1851.)
+(6) Any investigative or law enforcement officer, or attorney for the Government, who by any means authorized by this chapter, has obtained knowledge of the contents of any wire, oral, or electronic communication, or evidence derived therefrom, may disclose such contents to any other Federal law enforcement, intelligence, protective, immigration, national defense, or national security official to the extent that such contents include foreign intelligence or counterintelligence (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 401a)), or foreign intelligence information (as defined in subsection (19) of section 2510 of this title), to assist the official who is to receive that information in the performance of his official duties. Any Federal official who receives information pursuant to this provision may use that information only as necessary in the conduct of that person's official duties subject to any limitations on the unauthorized disclosure of such information.
+
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 217; amended Pub. L. 91–452, title IX, §902(b), Oct. 15, 1970, 84 Stat. 947; Pub. L. 99–508, title I, §101(c)(1)(A), Oct. 21, 1986, 100 Stat. 1851; Pub. L. 107–56, title II, §203(b)(1), Oct. 26, 2001, 115 Stat. 280.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Par. (6). Pub. L. 107–56, §§203(b)(1), 224, temporarily added par. (6). See Termination Date of 2001 Amendment note below.
 
 1986—Pub. L. 99–508 substituted “wire, oral, or electronic” for “wire or oral” in section catchline and wherever appearing in text.
 
 1970—Par. (3). Pub. L. 91–452 substituted “proceeding held under the authority of the United States or of any State or political subdivision thereof” for “criminal proceeding in any court of the United States or of any State or in any Federal or State grand jury proceeding”.
 
+#### Termination Date of 2001 Amendment
+
+Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
 
+#### Procedures for Disclosure of Information
+
+Pub. L. 107–56, title II, §203(c), Oct. 26, 2001, 115 Stat. 280, provided that: “The Attorney General shall establish procedures for the disclosure of information pursuant to section 2517(6) \[probably means section 2517(6) of this title\] and Rule 6(e)(3)(C)(i)(V) of the Federal Rules of Criminal Procedure \[18 App. U.S.C.\] that identifies a United States person, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801)).”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2511, 2518, 2702 of this title.
+This section is referred to in sections 2510, 2511, 2518, 2520, 2702 of this title.
 

@@ -22,7 +22,7 @@ Subject to the limitations set forth below, an annuity under section 231a of thi
 
 #### (b) Applications for payment
 
-An application for any payment under this subchapter shall be made and filed in such manner and form as the Board may prescribe. An application filed with the Board for an annuity under this subchapter shall, unless the applicant specifies otherwise, be deemed to be an application for any benefit to which such applicant may be entitled under this subchapter or title II of the Social Security Act \[42 U.S.C. 401 et seq.\].An individual who was entitled to an annuity under paragraph (iv) or (v) of section 231a(a)(1) of this title for the month preceding the month in which he attained retirement age (as defined in section 216(<i>l</i>) of the Social Security Act \[42 U.S.C. 416(<i>l</i>)\]), shall be deemed to have filed an application for an annuity under paragraph (i) of section 231a(a)(1) of this title on the date on which he attained retirement age (as defined in section 216(<i>l</i>) of the Social Security Act), and a widow or widower who was entitled to an annuity under section 231a(d)(1) of this title on the basis of disability for the month preceding the month in which she or he attained age 60, shall be deemed to have filed an application for an annuity under such section 231a(d)(1) of this title on the basis of age on the date on which she or he attained age 60.
+An application for any payment under this subchapter shall be made and filed in such manner and form as the Board may prescribe. An application filed with the Board for an employee annuity, spouse annuity, or divorced spouse annuity on the basis of the employment record of an employee who will have completed less than ten years of service shall be deemed to be an application for any benefit to which such applicant may be entitled under this subchapter or section 202(a), section 202(b), or section 202(c) of the Social Security Act \[42 U.S.C. 402(a), (b), (c)\]. An application filed with the Board for an annuity on the basis of the employment record of an employee who will have completed ten years of service shall, unless the applicant specified otherwise, be deemed to be an application for any benefit to which such applicant may be entitled under this subchapter or title II of the Social Security Act \[42 U.S.C. 401 et seq.\]. An individual who was entitled to an annuity under paragraph (iv) or (v) of section 231a(a)(1) of this title for the month preceding the month in which he attained retirement age (as defined in section 216(<i>l</i>) of the Social Security Act \[42 U.S.C. 416(<i>l</i>)\]), shall be deemed to have filed an application for an annuity under paragraph (i) of section 231a(a)(1) of this title on the date on which he attained retirement age (as defined in section 216(<i>l</i>) of the Social Security Act), and a widow or widower who was entitled to an annuity under section 231a(d)(1) of this title on the basis of disability for the month preceding the month in which she or he attained age 60, shall be deemed to have filed an application for an annuity under such section 231a(d)(1) of this title on the basis of age on the date on which she or he attained age 60.
 
 #### (c) Individual's entitlement
 
@@ -34,7 +34,7 @@ An application for any payment under this subchapter shall be made and filed in 
 
 (4) The entitlement of a widow or widower of a deceased employee to an annuity under paragraph (i) of section 231a(d)(1) of this title on the basis of age shall end on (A) the last day of the month preceding the month in which she or he dies or (B) the last day of the month preceding the month in which she or he remarries after the employee's death, whichever first occurs.
 
-(5) The entitlement of a widow or widower of a deceased employee to an annuity under paragraph (i) of section 231a(d)(1) of this title on the basis of disability shall end on (A) the last day of the month preceding the month in which she or he dies, (B) the last day of the month preceding the month in which she or he remarries after the employee's death, (C) the last day of the second month following the month in which she or he ceases to be disabled as provided for purposes of such paragraph, or (D) the last day of the month preceding the month in which she or he attains age 60, whichever first occurs.
+(5) The entitlement of a widow or widower of a deceased employee to an annuity under paragraph (i) of section 231a(d)(1) of this title on the basis of disability shall end on (A) the last day of the month preceding the month in which she or he dies, (B) the last day of the month preceding the month in which she or he remarries after the employee's death, (C) the last day of the second month following the month in which she or he ceases to be disabled as provided for purposes of such paragraph, or (D) the last day of themonth preceding the month in which she or he attains age 60, whichever first occurs.
 
 (6) The entitlement of a widow of a deceased employee to an annuity under paragraph (ii) of section 231a(d)(1) of this title shall end on (A) the last day of the month preceding the month in which she dies, (B) the last day of the month preceding the month in which she remarries after the employee's death, or (C) the last day of the month preceding the month in which she no longer has in her care a child described in clause (B) of such paragraph (ii) whichever first occurs.
 
@@ -42,7 +42,7 @@ An application for any payment under this subchapter shall be made and filed in 
 
 (8) The entitlement of a parent of a deceased employee to an annuity under paragraph (iv) of section 231a(d)(1) of this title shall end on the last day of the month preceding the month in which (A) such parent dies or (B) such parent remarries after the employee's death, whichever first occurs.
 
-(9) No annuity shall accrue with respect to the calendar month in which an annuitant dies. In cases where an individual entitled to an annuity under this subchapter disappears, no annuity shall accrue to that individual with respect to any month until and unless such individual is shown, by evidence satisfactory to the Board, tohave continued in life throughout such month, but—
+(9) No annuity shall accrue with respect to the calendar month in which an annuitant dies. In cases where an individual entitled to an annuity under this subchapter disappears, no annuity shall accrue to that individual with respect to any month until and unless such individual is shown, by evidence satisfactory to the Board, to have continued in life throughout such month, but—
 
 &emsp;(A) where an annuity would accrue for such month under section 231a(a)(1) of this title to an individual who had a current connection with the railroad industry at the time of such individual's disappearance, and under section 231a(c) of this title to such individual's spouse, had such individual been shown to be alive during such month, such individual shall be deemed, for the purposes of benefits under section 231a(d) of this title, to have died in the month in which such individual disappeared, and where an annuity would accrue for such month under section 231a(a)(1) of this title to an individual who did not have a current connection with the railroad industry at the time of such individual's disappearance, and under section 231a(c) of this title to such individual's spouse, had such individual been shown to be alive during such month, such individual shall be deemed, for purposes of benefits payable under section 231a(c) of this title, to be alive during such month unless the death of such individual has been established or the annuity of the spouse of such individual is otherwise terminated under subsection (c)(3) of this section, and
 
@@ -50,13 +50,15 @@ An application for any payment under this subchapter shall be made and filed in 
 
 > For purposes of the payment of benefits under this subchapter, the death of an individual shall be presumed based on such individual's unexplained absence of not less than seven years, except that whenever the death of an individual is so established, such individual shall be deemed to have died in the month in which such individual disappeared.
 
-(Aug. 29, 1935, ch. 812, §5, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1332; amended Pub. L. 97–35, title XI, §1120, Aug. 13, 1981, 95 Stat. 636; Pub. L. 98–76, title I, §§103(a), 104(c), 106(i), (j), Aug. 12, 1983, 97 Stat. 415, 416, 418.)
+(Aug. 29, 1935, ch. 812, §5, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1332; amended Pub. L. 97–35, title XI, §1120, Aug. 13, 1981, 95 Stat. 636; Pub. L. 98–76, title I, §§103(a), 104(c), 106(i), (j), Aug. 12, 1983, 97 Stat. 415, 416, 418; Pub. L. 107–90, title I, §103(f), Dec. 21, 2001, 115 Stat. 881.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–90 inserted second and third sentences and struck out former second sentence which read as follows: “An application filed with the Board for an annuity under this subchapter shall, unless the applicant specifies otherwise, be deemed to be an application for any benefit to which such applicant may be entitled under this subchapter or title II of the Social Security Act.”
 
 1983—Subsec. (a). Pub. L. 98–76, §103(a)(1), substituted “Subject to the limitations set forth below, an annuity” for “An annuity” in provisions preceding cl. (i).
 
@@ -81,6 +83,10 @@ Subsec. (b). Pub. L. 97–35, §1120(b), substituted “title II of the Social S
 Subsec. (c)(3). Pub. L. 97–35, §1120(c), inserted provision that entitlement of the divorced wife of an individual to an annuity under section 231a(c) shall end on the last day of the month preceding the month in which (A) the divorced wife or the individual dies or (B) the divorced wife remarries.
 
 Subsec. (c)(9). Pub. L. 97–35, §1120(d), added subdiv. (9).
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–90 effective Jan. 1, 2002, see section 103(j) of Pub. L. 107–90, set out as a note under section 405 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1983 Amendment
 

@@ -120,6 +120,12 @@
 | (c) | Guidance, assistance, and oversight. |
 | (d) | Consortium with private entities. |
 | (e) | Background checks of workers in executive facilities. |
+| 490b–1. | Child care services for Executive agency civilian employees. |
+| (a) | In general. |
+| (b) | Affordability. |
+| (c) | Advances. |
+| (d) | Definition. |
+| (e) | Notification. |
 | [490c.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490c%20-%20Guards%2C%20elevator%20operators%2C%20messengers%2C%20and%20custodians%3B%20restriction%20on%20contract%20for%20services%3B%20exception.md) | Guards, elevator operators, messengers, and custodians; restriction on contract for services; exception. |
 | [490d.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490d%20-%20Funds%20for%20payment%20of%20rent%20available%20for%20lease%20of%20buildings%20on%20land%20owned%20by%20United%20States.md) | Funds for payment of rent available for lease of buildings on land owned by United States. |
 | [490e.](Subchapter%20002%20%28II%29%20-%20Property%20Management/%C2%A7%2000490e%20-%20Fiscal%20year%20limitation%20on%20obligations%20of%20funds%20for%20lease.md) | Fiscal year limitation on obligations of funds for lease. |

@@ -22,7 +22,7 @@
 
 &emsp;(3) A transaction by at least 2 persons acting together (one of whom is a rail carrier or is affiliated with a rail carrier) that has the effect of putting those persons and rail carriers and persons affiliated with any of them, or with any of those affiliated rail carriers, taken together, in control of another rail carrier.
 
-(c) A person is affiliated with a rail carrier under this subchapter if, because of the relationship between that person and a rail carrier, it is reasonable to believe that the affairs of anotherrail carrier, control of which may be acquired by that person, will be managed in the interest of the other rail carrier.
+(c) A person is affiliated with a rail carrier under this subchapter if, because of the relationship between that person and a rail carrier, it is reasonable to believe that the affairs of another rail carrier, control of which may be acquired by that person, will be managed in the interest of the other rail carrier.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 838.)
 

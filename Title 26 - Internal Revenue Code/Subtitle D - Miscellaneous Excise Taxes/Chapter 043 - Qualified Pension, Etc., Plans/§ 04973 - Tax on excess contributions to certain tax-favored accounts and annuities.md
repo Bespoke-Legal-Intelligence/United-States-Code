@@ -10,7 +10,7 @@ In the case of—
 
 &emsp;(3) an individual retirement annuity (within the meaning of section 408(b)), a custodial account treated as an annuity contract under section 403(b)(7)(A) (relating to custodial accounts for regulated investment company stock), or
 
-&emsp;(4) an education individual retirement account (as defined in section 530),
+&emsp;(4) a Coverdell education savings account (as defined in section 530),
 
 > there is imposed for each taxable year a tax in an amount equal to 6 percent of the amount of the excess contributions to such individual's accounts or annuities (determined as of the close of the taxable year). The amount of such tax for any taxable year shall not exceed 6 percent of the value of the account or annuity (determined as of the close of the taxable year). In the case of an endowment contract described in section 408(b), the tax imposed by this section does not apply to any amount allocable to life, health, accident, or other insurance under such contract. The tax imposed by this subsection shall be paid by such individual.
 
@@ -20,7 +20,7 @@ For purposes of this section, in the case of individual retirement accounts or i
 
 &emsp;(1) the excess (if any) of—
 
-&emsp;&emsp;(A) the amount contributed for the taxable year to the accounts or for the annuities (other than a contribution to a Roth IRA or a rollover contribution described in section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3)), over
+&emsp;&emsp;(A) the amount contributed for the taxable year to the accounts or for the annuities (other than a contribution to a Roth IRA or a rollover contribution described in section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16)), over
 
 &emsp;&emsp;(B) the amount allowable as a deduction under section 219 for such contributions, and
 
@@ -64,19 +64,17 @@ For purposes of this section, in the case of Archer MSAs (within the meaning of 
 
 > For purposes of this subsection, any contribution which is distributed out of the Archer MSA in a distribution to which section 220(f)(3) or section 138(c)(3) applies shall be treated as an amount not contributed.
 
-#### (e) Excess contributions to education individual retirement accounts
+#### (e) Excess contributions to Coverdell education savings accounts
 
 For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of education individual retirement accounts maintained for the benefit of any one beneficiary, the term “excess contributions” means the sum of—
+&emsp;In the case of Coverdell education savings accounts maintained for the benefit of any one beneficiary, the term “excess contributions” means the sum of—
 
-&emsp;&emsp;(A) the amount by which the amount contributed for the taxable year to such accounts exceeds $500 (or, if less, the sum of the maximum amounts permitted to be contributed under section 530(c) by the contributors to such accounts for such year);
+&emsp;&emsp;(A) the amount by which the amount contributed for the taxable year to such accounts exceeds $2,000 (or, if less, the sum of the maximum amounts permitted to be contributed under section 530(c) by the contributors to such accounts for such year); and
 
-&emsp;&emsp;(B) if any amount is contributed (other than a contribution described in section 530(b)(2)(B)) during such year to a qualified State tuition program for the benefit of such beneficiary, any amount contributed to such accounts for such taxable year; and
-
-&emsp;&emsp;(C) the amount determined under this subsection for the preceding taxable year, reduced by the sum of—
+&emsp;&emsp;(B) the amount determined under this subsection for the preceding taxable year, reduced by the sum of—
 
 &emsp;&emsp;&emsp;(i) the distributions out of the accounts for the taxable year (other than rollover distributions); and
 
@@ -86,7 +84,7 @@ For purposes of this section—
 
 &emsp;For purposes of paragraph (1), the following contributions shall not be taken into account:
 
-&emsp;&emsp;(A) Any contribution which is distributed out of the education individual retirement account in a distribution to which section 530(d)(4)(C) applies.
+&emsp;&emsp;(A) Any contribution which is distributed out of the Coverdell education savings account in a distribution to which section 530(d)(4)(C) applies.
 
 &emsp;&emsp;(B) Any rollover contribution.
 
@@ -108,9 +106,29 @@ For purposes of this section, in the case of contributions to a Roth IRA (within
 
 > For purposes of this subsection, any contribution which is distributed from a Roth IRA in a distribution described in section 408(d)(4) shall be treated as an amount not contributed.
 
-(Added Pub. L. 93–406, title II, §2002(d), Sept. 2, 1974, 88 Stat. 966; amended Pub. L. 94–455, title XV, §1501(b)(8), title XIX, §1904(a)(22), Oct. 4, 1976, 90 Stat. 1736, 1814; Pub. L. 95–600, title I, §§156(c)(3), (5), 157(b)(3), (j)(1), title VII, §701(aa)(1), Nov. 6, 1978, 92 Stat. 2803, 2804, 2809, 2921; Pub. L. 96–222, title I, §101(a)(13)(C), (14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §§311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, 95 Stat. 282, 286; Pub. L. 98–369, div. A, title IV, §491(d)(41)–(44), (55), July 18, 1984, 98 Stat. 851, 852; Pub. L. 99–514, title XI, §1102(b)(1), title XVIII, §1848(f), Oct. 22, 1986, 100 Stat. 2415, 2858; Pub. L. 100–647, title I, §1011(b)(3), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 102–318, title V, §521(b)(41), July 3, 1992, 106 Stat. 313; Pub. L. 104–188, title I, §1704(t)(70), (72), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 104–191, title III, §301(e), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–33, title IV, §4006(b)(1), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title II, §213(d), title III, §302(b), Aug. 5, 1997, 111 Stat. 817, 828; Pub. L. 105–206, title VI, §§6004(d)(10), 6005(b)(8), 6023(18)(A), July 22, 1998, 112 Stat. 795, 799, 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629.)
+(Added Pub. L. 93–406, title II, §2002(d), Sept. 2, 1974, 88 Stat. 966; amended Pub. L. 94–455, title XV, §1501(b)(8), title XIX, §1904(a)(22), Oct. 4, 1976, 90 Stat. 1736, 1814; Pub. L. 95–600, title I, §§156(c)(3), (5), 157(b)(3), (j)(1), title VII, §701(aa)(1), Nov. 6, 1978, 92 Stat. 2803, 2804, 2809, 2921; Pub. L. 96–222, title I, §101(a)(13)(C), (14)(B), Apr. 1, 1980, 94 Stat. 204; Pub. L. 97–34, title III, §§311(h)(7), (9), (10), 313(b)(2), Aug. 13, 1981, 95 Stat. 282, 286; Pub. L. 98–369, div. A, title IV, §491(d)(41)–(44), (55), July 18, 1984, 98 Stat. 851, 852; Pub. L. 99–514, title XI, §1102(b)(1), title XVIII, §1848(f), Oct. 22, 1986, 100 Stat. 2415, 2858; Pub. L. 100–647, title I, §1011(b)(3), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 102–318, title V, §521(b)(41), July 3, 1992, 106 Stat. 313; Pub. L. 104–188, title I, §1704(t)(70), (72), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 104–191, title III, §301(e), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–33, title IV, §4006(b)(1), Aug. 5, 1997, 111 Stat. 333; Pub. L. 105–34, title II, §213(d), title III, §302(b), Aug. 5, 1997, 111 Stat. 817, 828; Pub. L. 105–206, title VI, §§6004(d)(10), 6005(b)(8), 6023(18)(A), July 22, 1998, 112 Stat. 795, 799, 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(6), (b)(2)(C), (6), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title IV, §§401(a)(2), (g)(2)(D), 402(a)(4)(A), title VI, §641(e)(11), June 7, 2001, 115 Stat. 57, 60, 121; Pub. L. 107–22, §1(b)(1)(C), (2)(B), (4), July 26, 2001, 115 Stat. 197.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(4). Pub. L. 107–22, §1(b)(1)(C), substituted “a Coverdell education savings” for “an education individual retirement”.
+
+Subsec. (b)(1)(A). Pub. L. 107–16, §§641(e)(11), 901, temporarily substituted “408(d)(3), or 457(e)(16)” for “or 408(d)(3)”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e). Pub. L. 107–22, §1(b)(4), substituted “Coverdell education savings” for “education individual retirement” in heading.
+
+Pub. L. 107–16, §§402(a)(4)(A), 901, which directed the temporary substitution of “qualified tuition” for “qualified State tuition” wherever appearing in subsec. (e), could not be executed because the term “qualified State tuition” did not appear subsequent to amendment by section 401(g)(2)(D) of Pub. L. 107–16, which struck out par. (1)(B). See below, and see Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e)(1). Pub. L. 107–22, §1(b)(2)(B), substituted “Coverdell education savings” for “education individual retirement” in introductory provisions.
+
+Subsec. (e)(1)(A). Pub. L. 107–16, §§401(a)(2), (g)(2)(D), 901, temporarily substituted “$2,000” for “$500” and inserted “and” at end. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e)(1)(B), (C). Pub. L. 107–16, §§401(g)(2)(D), 901, temporarily redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “if any amount is contributed (other than a contribution described in section 530(b)(2)(B)) during such year to a qualified State tuition program for the benefit of such beneficiary, any amount contributed to such accounts for such taxable year; and”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e)(2)(A). Pub. L. 107–22, §1(b)(2)(B), substituted “Coverdell education savings” for “education individual retirement”.
 
 <b>2000</b>—Subsec. (a)(2). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer” for “a Archer”.
 
@@ -174,7 +192,7 @@ Subsec. (b)(1)(A). Pub. L. 98–369, §491(d)(42), which directed the amendment 
 
 Subsec. (c)(1). Pub. L. 98–369, §491(d)(44), substituted “or 408(d)(3)(A)(iii)” for “, 408(d)(3)(A)(iii), or 409(b)(3)(C)”.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §311(h)(9), substituted “The tax imposed by this subsection shall be paid by such individual” for “The tax imposed by this subsection shall be paid by the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §311(h)(9), substituted “The tax imposed by this subsection shall be paid bysuch individual” for “The tax imposed by this subsection shall be paid by the individual to whom a deduction is allowed for the taxable year under section 219 (determined without regard to subsection (b)(1) thereof) or section 220 (determined without regard to subsection (b)(1) thereof), whichever is appropriate”.
 
 Subsec. (b)(1)(A). Pub. L. 97–34, §313(b)(2), inserted “405(d)(3),” after “403(b)(8),”.
 
@@ -201,6 +219,18 @@ Subsec. (b)(1)(B). Pub. L. 94–455, §1501(b)(8)(B), inserted “or 220” afte
 Subsec. (b)(2). Pub. L. 94–455, §1501(b)(8)(C), inserted “or 220” after “under section 219” and “the taxable year and” before “all prior taxable years” and struck out provisions relating to the treatment of contributions out of individual retirement accounts, annuities or bonds to which section 408(d)(4) applied.
 
 Subsec. (c). Pub. L. 94–455, §1904(a)(22)(B), substituted “subsection (a)(2)” for “subsection (a)(3)” in provisions preceding par. (1).
+
+#### Effective and Termination Dates of 2001 Amendments
+
+Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
+
+Amendment by section 401(a)(2), (g)(2)(D) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 401(h) of Pub. L. 107–16, set out as a note under section 25A of this title.
+
+Amendment by section 402(a)(4)(A) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
+
+Amendment by section 641(e)(11) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -240,7 +270,7 @@ Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 19
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 311(h)(7), (9), (10) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 311(i)(1) of Pub. L. 97–34, set out as a note under section 219 of this title.
+Amendment by section 311(h)(7), (9), (10) of Pub. L. 97–34 applicable to taxable years beginning after Dec.31, 1981, see section 311(i)(1) of Pub. L. 97–34, set out as a note under section 219 of this title.
 
 Amendment by section 313(b)(2) of Pub. L. 97–34 applicable to redemptions after Aug. 13, 1981, in taxable years ending after such date, see section 313(c) of Pub. L. 97–34, set out as a note under section 219 of this title.
 

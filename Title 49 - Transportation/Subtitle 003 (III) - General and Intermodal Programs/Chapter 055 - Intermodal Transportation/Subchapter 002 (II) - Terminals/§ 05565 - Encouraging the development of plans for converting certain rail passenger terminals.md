@@ -22,7 +22,7 @@ Maximizing Conversion and Continued Public Use.—(1) Amounts appropriated to ca
 
 &emsp;(B) recommended (on the basis of architectural integrity and quality) by the Advisory Council on Historic Preservation or the Chairman of the National Endowment for the Arts.
 
-(2) The Secretary of Transportation may not make a grant under this section for more than 80 percent of the total cost of the project for which the financial assistance is provided.
+(2) The Secretary of Transportation may not make a grant under this section for more than80 percent of the total cost of the project for which the financial assistance is provided.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 853; Pub. L. 103–429, §6(15), Oct. 31, 1994, 108 Stat. 4379.)
 

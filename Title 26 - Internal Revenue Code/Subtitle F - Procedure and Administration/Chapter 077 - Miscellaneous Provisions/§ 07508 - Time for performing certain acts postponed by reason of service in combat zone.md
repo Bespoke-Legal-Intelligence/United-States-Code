@@ -26,7 +26,7 @@ In the case of an individual serving in the Armed Forces of the United States, o
 
 &emsp;&emsp;(J) Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax; and
 
-&emsp;&emsp;(K) Any other act required or permitted under the internal revenue laws specified in regulations prescribed under this section by the Secretary;
+&emsp;&emsp;(K) Any other act required or permitted under the internal revenue laws specified by the Secretary;
 
 &emsp;(2) The amount of any credit or refund.
 
@@ -42,7 +42,7 @@ In the case of an individual serving in the Armed Forces of the United States, o
 
 #### (c) Application to spouse
 
-The provisions of this section shall apply to the spouse of any individual entitled to the benefits of subsection (a). Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause this section to apply for any spouse for any taxable year beginning more than 2 yearsafter the date designated under section 112 as the date of termination of combatant activities in a combat zone.
+The provisions of this section shall apply to the spouse of any individual entitled to the benefits of subsection (a). Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause this section to apply for any spouse for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
 
 #### (d) Missing status
 
@@ -82,9 +82,11 @@ For purposes of subsection (a), the term “qualified hospitalization” means�
 
 > Paragraph (2) shall not apply for purposes of applying this section with respect to the spouse of an individual entitled to the benefits of subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, §5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, §3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, §6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, §307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, §1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, §1(a)–(c), Jan. 30, 1991, 105 Stat. 5.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, §5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, §3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, §6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, §307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, §1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, §1(a)–(c), Jan. 30, 1991, 105 Stat. 5; Pub. L. 107–134, title I, §112(b), Jan. 23, 2002, 115 Stat. 2434.)
 
 #### Amendments
+
+<b>2002</b>—Subsec. (a)(1)(K). Pub. L. 107–134 struck out “in regulations prescribed under this section” before “by the Secretary”.
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out “outside the United States” before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
 
@@ -106,13 +108,17 @@ Subsecs. (f), (g). Pub. L. 102–2, §1(a), (c)(2), added subsecs. (f) and (g).
 
 <b>1976</b>—Pub. L. 94–455, §1906(a)(51)(A), substituted “by reason of service in combat zone” for “by reason of war” in section catchline.
 
-Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted “United States” for “States of the Unionand the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
+Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted “United States” for “States of the Union and the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–569 substituted “taxable year beginning” for “taxable year beginning more than 2 years after” in provisions preceding par. (1), substituted “after January 2, 1978” for “the date of the enactment of this subsection” in par. (1), and substituted “more than 2 years after the date designated” for “the date designated” in par. (2).
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 <b>1975</b>—Subsecs. (b) to (d). Pub. L. 93–597 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -160,5 +166,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6504, 6533, 6901, 7508A of this title.
+This section is referred to in sections 6161, 6504, 6533, 6901, 7508A of this title.
 

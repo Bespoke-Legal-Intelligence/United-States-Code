@@ -12,7 +12,7 @@ The Congress makes the following declarations:
 
 &emsp;(2) The Development Fund for Africa will complement the other provisions of this chapter and lay a foundation for increased trade and investment opportunities between the United States and sub-Saharan Africa.
 
-&emsp;(3) Assistance provided through the Development Fund for Africa will continue to support programs and activities that promote the long term economic development of sub-Saharan Africa, such as programs and activities relating to the following:
+&emsp;(3) Assistance provided through the Development Fund for Africa will continue to support programs and activities that promote the longterm economic development of sub-Saharan Africa, such as programs and activities relating to the following:
 
 &emsp;&emsp;(A) Strengthening primary and vocational education systems, especially the acquisition of middle-level technical skills for operating modern private businesses and the introduction of college level business education, including the study of international business, finance, and stock exchanges.
 
@@ -24,7 +24,7 @@ The Congress makes the following declarations:
 
 &emsp;&emsp;(E) Promoting an enabling environment for private sector-led growth through sustained economic reform, privatization programs, and market-led economic activities.
 
-&emsp;&emsp;(F) Promoting decentralization and local participation in the development process, especially linking the rural production sectorsand the industrial and market centers throughout Africa.
+&emsp;&emsp;(F) Promoting decentralization and local participation in the development process, especially linking the rural production sectors and the industrial and market centers throughout Africa.
 
 &emsp;&emsp;(G) Increasing the technical and managerial capacity of sub-Saharan African individuals to manage the economy of sub-Saharan Africa.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may provide financial assistance under this subchapter from the African Elephant Conservation Fund for approved projects for research, conservation, management, or protection of African elephants.
+The Secretary may provide financial assistance under this subchapter from the Fund for approved projects for research, conservation, management, or protection of African elephants.
 
 #### (b) Project proposal
 
@@ -16,7 +16,7 @@ Any African government agency responsible for African elephant conservation and 
 
 &emsp;(4) an estimate of the funds and time required to complete the project;
 
-&emsp;(5) evidence of support of the project by governmental entities of countries within whichthe project will be conducted, if such support may be important for the success of the project; and
+&emsp;(5) evidence of support of the project by governmental entities of countries within which the project will be conducted, if such support may be important for the success of the project; and
 
 &emsp;(6) any other information the Secretary considers to be necessary or appropriate for evaluating the eligibility of the project for funding under this chapter.
 
@@ -38,11 +38,21 @@ The Secretary may approve a project under this section if the project will enhan
 
 &emsp;&emsp;(C) to enhance compliance with the CITES Ivory Control System.
 
-#### (e) Project reporting
+#### (e) Project sustainability
+
+To the maximum extent practical, in determining whether to approve project proposals under this section, the Secretary shall give consideration to projects that will enhance sustainable conservation programs to ensure effective long-term conservation of African elephants.
+
+#### (f) Project reporting
 
 Each entity that receives assistance under this section shall provide such periodic reports to the Director of the United States Fish and Wildlife Service as the Director considers relevant and appropriate. Each report shall include all information requested by the Director for evaluating the progress and success of the project.
 
-(Pub. L. 100–478, title II, §2101, Oct. 7, 1988, 102 Stat. 2316.)
+(Pub. L. 100–478, title II, §2101, Oct. 7, 1988, 102 Stat. 2316; Pub. L. 107–111, §§5, 6(a)(1), Jan. 8, 2002, 115 Stat. 2096.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–111, §6(a)(1), struck out “African Elephant Conservation” before “Fund”.
+
+Subsecs. (e), (f). Pub. L. 107–111, §5, added subsec. (e) and redesignated former subsec. (e) as (f).
 
 #### Section Referred to in Other Sections
 

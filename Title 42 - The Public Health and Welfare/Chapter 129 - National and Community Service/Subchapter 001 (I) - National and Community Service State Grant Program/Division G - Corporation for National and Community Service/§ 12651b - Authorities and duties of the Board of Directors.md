@@ -70,7 +70,7 @@ The Board shall—
 
 &emsp;(9) ensure effective dissemination of information regarding the programs and initiatives of the Corporation;
 
-&emsp;(10) notwithstanding any other provision of law, make grants to or contracts with Federal or other public departments or agencies and private nonprofit organizations for the assignment or referral of volunteers under the provisions of the Domestic Volunteer Service Act of1973 \[42 U.S.C. 4950 et seq.\] (except as provided in section 108 of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4958\]), which may provide that the agency or organization shall pay all or a part of the costs of the program; and
+&emsp;(10) notwithstanding any other provision of law, make grants to or contracts with Federal or other public departments or agencies and private nonprofit organizations for the assignment or referral of volunteers under the provisions of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\] (except as provided in section 108 of the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4958\]), which may provide that the agency or organization shall pay all or a part of the costs of the program; and
 
 &emsp;(11) prepare and make recommendations to the Congress and the President for changes in the national service laws resulting from the studies and demonstrations the Chief Executive Officer is required to carry out under section 12651d(b)(10) of this title, which recommendations shall be submitted to the Congress and President not later than September 30, 1995.
 
@@ -84,7 +84,7 @@ All employees and officers of the Corporation shall recuse themselves from decis
 
 #### (j) Coordination with other Federal activities
 
-As part of the agenda of meetings of the Board under subsection (a) of this section, the Board shall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in section 12651a(a)(3) of this title shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, their communities, and the persons and communities the participants serve.
+As part of the agenda of meetings of the Board under subsection (a) of this section, the Boardshall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in section 12651a(a)(3) of this title shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, their communities, and the persons and communities the participants serve.
 
 (Pub. L. 101–610, title I, §192A, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), (2), Sept. 21, 1993, 107 Stat. 875, 891.)
 

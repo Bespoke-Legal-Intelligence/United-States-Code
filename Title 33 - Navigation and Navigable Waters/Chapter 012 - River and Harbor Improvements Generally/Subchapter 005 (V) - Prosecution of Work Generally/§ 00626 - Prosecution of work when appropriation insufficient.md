@@ -1,6 +1,6 @@
 ### §626. Prosecution of work when appropriation insufficient
 
-Whenever the appropriations made, or authorized to be made, for the completion of any riverand harbor work shall prove insufficient therefor, the Secretary of the Army may, in his discretion, on the recommendation of the Chief of Engineers, apply the funds so appropriated or authorized to the prosecution of such work.
+Whenever the appropriations made, or authorized to be made, for the completion of any river and harbor work shall prove insufficient therefor, the Secretary of the Army may, in his discretion, on the recommendation of the Chief of Engineers, apply the funds so appropriated or authorized to the prosecution of such work.
 
 (July 25, 1912, ch. 253, §8, 37 Stat. 233; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

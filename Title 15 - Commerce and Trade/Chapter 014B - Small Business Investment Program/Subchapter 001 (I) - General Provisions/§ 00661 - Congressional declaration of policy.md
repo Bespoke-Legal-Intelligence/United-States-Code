@@ -14,6 +14,10 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 1992—Pub. L. 102–366 inserted at end “It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.”
 
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–100, §1, Dec. 21, 2001, 115 Stat. 966, provided that: “This Act \[amending sections 636, 683, 687d, 687e, and 697 of this title, section 1833a of Title 12, Banks and Banking, and section 1014 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 636, 683, and 697 of this title\] may be cited as the ‘Small Business Investment Company Amendments Act of 2001’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(8) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–653, provided that: “This section \[enacting part B of subchapter III of this chapter, amending section 683 of this title, section 109 of Title 11, Bankruptcy, and section 1464 of Title 12, Banks and Banking, and amending provisions set out as a note under section 631 of this title\] may be cited as the ‘New Markets Venture Capital Program Act of 2000’.”
@@ -48,7 +52,7 @@ Section 201 of Pub. L. 90–104, title II, Oct. 11, 1967, 81 Stat. 269, provided
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–779, Nov. 6, 1966, 80 Stat. 1359, provided: “That this Act \[enacting sections 687e, 687f, 687g, and 687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the ‘Small Business Investment Act Amendments of 1966’.”
+Section 1 of Pub. L. 89–779, Nov. 6, 1966, 80 Stat. 1359, provided: “That this Act \[enacting sections 687e, 687f,687g, and 687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the ‘Small Business Investment Act Amendments of 1966’.”
 
 #### Short Title of 1964 Amendment
 

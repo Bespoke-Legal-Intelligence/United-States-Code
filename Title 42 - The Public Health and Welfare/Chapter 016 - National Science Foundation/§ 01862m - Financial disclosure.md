@@ -1,6 +1,6 @@
 ### §1862m. Financial disclosure
 
-Persons temporarily employed by or at the Foundation shall be subject to the same financial disclosure requirements and related sanctions under the Ethics in Government Act of1978 (5 U.S.C. App.) as are permanent employees of the Foundation in equivalent positions.
+Persons temporarily employed by or at the Foundation shall be subject to the same financial disclosure requirements and related sanctions under the Ethics in Government Act of 1978 (5 U.S.C. App.) as are permanent employees of the Foundation in equivalent positions.
 
 (Pub. L. 105–207, title II, §204, July 29, 1998, 112 Stat. 876.)
 

@@ -14,7 +14,7 @@ Members of any advisory committee appointed from private life under authority of
 
 #### (d) Exemption from conflict-of-interest statutes
 
-Service by an individual as a member of such an advisory committee shall not subject him to the provisions of section 1914 of title 18, or, except with respect to a particular matter which directly involves the Office of Coal Research or in which the Office of Coal Research is directlyinterested, to the provisions of sections 281, 283, or 284 of title 18 or of section 190 of the Revised Statutes (5 U.S.C. 99).
+Service by an individual as a member of such an advisory committee shall not subject him to the provisions of section 1914 of title 18, or, except with respect to a particular matter which directly involves the Office of Coal Research or in which the Office of Coal Research is directly interested, to the provisions of sections 281, 283, or 284 of title 18 or of section 190 of the Revised Statutes (5 U.S.C. 99).
 
 (Pub. L. 86–599, §3, July 7, 1960, 74 Stat. 336.)
 

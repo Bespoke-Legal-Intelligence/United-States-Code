@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;Each such automated quotation system shall—
 
-&emsp;&emsp;(A) be operated by a registered securities association or a national securities exchangein accordance with such rules as the Commission and these entities shall prescribe;
+&emsp;&emsp;(A) be operated by a registered securities association or a national securities exchange in accordance with such rules as the Commission and these entities shall prescribe;
 
 &emsp;&emsp;(B) collect and disseminate quotation and transaction information;
 

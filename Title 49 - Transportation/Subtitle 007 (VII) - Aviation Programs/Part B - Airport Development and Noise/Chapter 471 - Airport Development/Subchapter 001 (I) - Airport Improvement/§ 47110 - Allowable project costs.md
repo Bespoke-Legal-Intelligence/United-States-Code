@@ -8,11 +8,11 @@ General Authority.—Except as provided in section 47111 of this title, the Unit
 
 Allowable Cost Standards.—A project cost is allowable—
 
-&emsp;(1) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title;
+&emsp;(1) if the cost necessarily is incurred in carrying out the project in compliance with thegrant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title;
 
 &emsp;(2)(A) if the cost is incurred after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed;
 
-&emsp;(B) if the cost is incurred after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatability program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements; or
+&emsp;(B) if the cost is incurred after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatability program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;
 
 &emsp;(C) if the Government's share is paid only with amounts apportioned under paragraphs (1) and (2) of section 47114(c) of this title and if the cost is incurred—
 
@@ -20,7 +20,9 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;&emsp;(ii) before a grant agreement is executed for the project; and
 
-&emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after the grant agreement had been executed;
+&emsp;&emsp;(iii) in accordance with an airport layout plan approved by the Secretary and with all statutory and administrative requirements that would have been applicable to the project if the project had been carried out after the grant agreement had been executed; or
+
+&emsp;(D) if the cost is incurred after September 11, 2001, for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L) and shall not depend upon the date of execution of a grant agreement made under this subchapter;
 
 &emsp;(3) to the extent the cost is reasonable in amount;
 
@@ -30,7 +32,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 (c)
 
-Certain Prior Costs as Allowable Costs.—The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred after May 13, 1946, and beforethe date the grant agreement is executed is allowable if it is—
+Certain Prior Costs as Allowable Costs.—The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred after May 13, 1946, and before the date the grant agreement is executed is allowable if it is—
 
 &emsp;(1) necessarily incurred in formulating an airport development project, including costs incurred for field surveys, plans and specifications, property interests in land or airspace, and administration or other incidental items that would not have been incurred except for the project; or
 
@@ -98,7 +100,7 @@ Nonallowable Costs.—Except as provided in subsection (d) of this section and s
 
 Use of Discretionary Funds.—A project for which cost reimbursement is provided under subsection (b)(2)(C) shall not receive priority consideration with respect to the use of discretionary funds made available under section 47115 of this title even if the amounts made available under paragraphs (1) and (2) of section 47114(c) are not sufficient to cover the Government's share of the cost of <sup>1</sup> project.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628.)
 
 Historical and Revision Notes
 
@@ -160,7 +162,7 @@ In subsection (d)(1), before clause (A), the words “The Secretary may decide t
 
 In subsection (d)(2), the words “In making a decision under paragraph (1) of this subsection, the Secretary may approve as allowable costs” are substituted for “In the case of a commercial service airport . . . the Secretary may approve, under the preceding sentence as allowable project costs” for consistency in this subsection.
 
-In subsection (e)(1), the word “sponsor” is substituted for “applicant” for consistency. The words “stipulated as” and “Subject to the provisions of this paragraph” are omitted as surplus. The word “reimburse” is substituted for “make payments under paragraph (2) of this subsection” and “pay” for clarity. The words “payable on account of such project in accordance with such letter of intent” are omitted as surplus.
+In subsection (e)(1), the word “sponsor” is substituted for “applicant” for consistency. The words “stipulatedas” and “Subject to the provisions of this paragraph” are omitted as surplus. The word “reimburse” is substituted for “make payments under paragraph (2) of this subsection” and “pay” for clarity. The words “payable on account of such project in accordance with such letter of intent” are omitted as surplus.
 
 In subsection (e)(2), before clause (A), the text of 49 App.:2212(d)(1)(C) (last sentence) is omitted as obsolete.
 
@@ -182,6 +184,8 @@ The source credits for all of subsection (b) are included for clarity though onl
 In subsection (b)(2)(C)(ii), the words “before the cost is incurred” are added for clarity.
 
 #### Amendments
+
+2001—Subsec. (b)(2)(D). Pub. L. 107–71 added subpar. (D).
 
 2000—Subsec. (e)(2)(C). Pub. L. 106–181, §127(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “the Secretary decides will enhance system-wide airport capacity significantly and meets the criteria of section 47115(d) of this title.”
 

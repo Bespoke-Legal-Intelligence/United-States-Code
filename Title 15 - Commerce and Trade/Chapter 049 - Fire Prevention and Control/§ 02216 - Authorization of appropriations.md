@@ -120,13 +120,13 @@ Subsec. (g). Pub. L. 100–476 added subsec. (g).
 
 1980—Subsec. (c). Pub. L. 96–472 added subsec. (c).
 
-1979—Subsec. (a). Pub. L. 96–121 designated existing provisions as subsec. (a), substituted provisions authorizing to be appropriated an amount not to exceed $25,210,000 for fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $3,750,000 for the transitional fiscal quarter of July 1,1976 through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979, and added pars. (1) to (6).
+1979—Subsec. (a). Pub. L. 96–121 designated existing provisions as subsec. (a), substituted provisions authorizing to be appropriated an amount not to exceed $25,210,000 for fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976 through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979, and added pars. (1) to (6).
 
 Subsec. (b). Pub. L. 96–121 added subsec. (b).
 
 1978—Pub. L. 95–422 substituted “except as otherwise specifically provided, with respect to the payment of claims, under section 2210 of this title” for “except section 2210 of this title”, struck out “and” after “September 30, 1977”, and inserted provision authorizing appropriation of not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979.
 
-1976—Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, and not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated such sums as are necessary, not to exceed $10,000,000 for fiscal year ending June 30, 1975, and not to exceed $15,000,000 for fiscal year ending June 30, 1976.
+1976—Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, and not to exceed $20,000,000 for fiscalyear ending Sept. 30, 1978, for provisions authorizing to be appropriated such sums as are necessary, not to exceed $10,000,000 for fiscal year ending June 30, 1975, and not to exceed $15,000,000 for fiscal year ending June 30, 1976.
 
 #### Transfer of Functions
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) in the case of any other disposition, the fair market value of such property,
 
-> &emsp;exceeds the adjusted basis of such property shall be treated as ordinary income. Such gain shall be recognized notwithstanding any other provision of this subtitle.
+> &emsp;exceeds the adjusted basis of such property shall be treated as ordinary income. Such gainshall be recognized notwithstanding any other provision of this subtitle.
 
 #### (2) Recomputed basis
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(A) the amount of gain recognized on such disposition (determined without regard to this section), plus
 
-&emsp;&emsp;(B) the fair market value of property acquired which is not section 1245 property andwhich is not taken into account under subparagraph (A).
+&emsp;&emsp;(B) the fair market value of property acquired which is not section 1245 property and which is not taken into account under subparagraph (A).
 
 #### (5) Section 1081 transactions
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–7 applicable to sales and exchanges on or after January 17, 1995, and to sales and exchanges before such date if FCC tax certificate with respect to such sale or exchange was issued on or after such date, but not applicable with respect to certain binding contracts, see section 2(d) of Pub. L. 104–7, setout as an Effective Date of Repeal note under section 1071 of this title.
+Amendment by Pub. L. 104–7 applicable to sales and exchanges on or after January 17, 1995, and to sales and exchanges before such date if FCC tax certificate with respect to such sale or exchange was issued on or after such date, but not applicable with respect to certain binding contracts, see section 2(d) of Pub. L. 104–7, set out as an Effective Date of Repeal note under section 1071 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -340,7 +340,7 @@ Amendment by section 303(c)(1), (2) of Pub. L. 92–178 applicable to taxable ye
 
 Section 212(a)(3) of Pub. L. 91–172 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1969.”
 
-Amendment by section 704(b)(4) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1968, seesection 704(c) of Pub. L. 91–172, set out as a note under section 169 of this title.
+Amendment by section 704(b)(4) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1968, see section 704(c) of Pub. L. 91–172, set out as a note under section 169 of this title.
 
 #### Effective Date of 1964 Amendment
 

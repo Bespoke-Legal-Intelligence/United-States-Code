@@ -8,7 +8,7 @@
 | [1073a.](%C2%A7%2001073a%20-%20Contracts%20for%20health%20care%20best%20value%20contracting.md) | Contracts for health care: best value contracting. |
 | [1074\.](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md) | Medical and dental care for members and certain former members. |
 | [1074a.](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md) | Medical and dental care: members on duty other than active duty for a period of more than 30 days. |
-| [1074b.](%C2%A7%2001074b%20-%20Transitional%20medical%20and%20dental%20care%20members%20on%20active%20duty%20in%20support%20of%20contingency%20operations.md) | Transitional medical and dental care: members on active duty in support of contingency operations. |
+| \[1074b. | Repealed.\] |
 | [1074c.](%C2%A7%2001074c%20-%20Medical%20care%20authority%20to%20provide%20a%20wig.md) | Medical care: authority to provide a wig. |
 | [1074d.](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md) | Certain primary and preventive health care services. |
 | [1074e.](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md) | Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict. |
@@ -16,6 +16,8 @@
 | [1074g.](%C2%A7%2001074g%20-%20Pharmacy%20benefits%20program.md) | Pharmacy benefits program. |
 | [1074h.](%C2%A7%2001074h%20-%20Medical%20and%20dental%20care%20medal%20of%20honor%20recipients%3B%20dependents.md) | Medical and dental care: medal of honor recipients; dependents. |
 | [1074i.](%C2%A7%2001074i%20-%20Reimbursement%20for%20certain%20travel%20expenses.md) | Reimbursement for certain travel expenses. |
+| [1074j.](%C2%A7%2001074j%20-%20Sub-acute%20care%20program.md) | Sub-acute care program. |
+| [1074k.](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md) | Long-term care insurance. |
 | [1075\.](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md) | Officers and certain enlisted members: subsistence charges. |
 | [1076\.](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md) | Medical and dental care for dependents: general rule. |
 | [1076a.](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md) | TRICARE dental program. |
@@ -26,6 +28,7 @@
 | [1078a.](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md) | Continued health benefits coverage. |
 | [1079\.](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md) | Contracts for medical care for spouses and children: plans. |
 | [1079a.](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md) | CHAMPUS: treatment of refunds and other amounts collected. |
+| [1079b.](%C2%A7%2001079b%20-%20Procedures%20for%20charging%20fees%20for%20care%20provided%20to%20civilians%3B%20retention%20and%20use%20of%20fees%20collected.md) | Procedures for charging fees for care provided to civilians; retention and use of fees collected. |
 | [1080\.](%C2%A7%2001080%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20election%20of%20facilities.md) | Contracts for medical care for spouses and children: election of facilities. |
 | [1081\.](%C2%A7%2001081%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20review%20and%20adjustment%20of%20payments.md) | Contracts for medical care for spouses and children: review and adjustment of payments. |
 | [1082\.](%C2%A7%2001082%20-%20Contracts%20for%20health%20care%20advisory%20committees.md) | Contracts for health care: advisory committees. |
@@ -34,6 +37,7 @@
 | [1085\.](%C2%A7%2001085%20-%20Medical%20and%20dental%20care%20from%20another%20executive%20department%20reimbursement.md) | Medical and dental care from another executive department: reimbursement. |
 | [1086\.](%C2%A7%2001086%20-%20Contracts%20for%20health%20benefits%20for%20certain%20members%2C%20former%20members%2C%20and%20their%20dependents.md) | Contracts for health benefits for certain members, former members, and their dependents. |
 | [1086a.](%C2%A7%2001086a%20-%20Certain%20former%20spouses%20extension%20of%20period%20of%20eligibility%20for%20health%20benefits.md) | Certain former spouses: extension of period of eligibility for health benefits. |
+| [1086b.](%C2%A7%2001086b%20-%20Prohibition%20against%20requiring%20retired%20members%20to%20receive%20health%20care%20solely%20through%20the%20Department%20of%20Defense.md) | Prohibition against requiring retired members to receive health care solely through the Department of Defense. |
 | [1087\.](%C2%A7%2001087%20-%20Programing%20facilities%20for%20certain%20members%2C%20former%20members%2C%20and%20their%20dependents%20in%20construction%20projects%20of%20the%20uniformed%20services.md) | Programing facilities for certain members, former members, and their dependents in construction projects of the uniformed services. |
 | [1088\.](%C2%A7%2001088%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md) | Air evacuation patients: furnished subsistence. |
 | [1089\.](%C2%A7%2001089%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20medical%20malpractice.md) | Defense of certain suits arising out of medical malpractice. |
@@ -72,9 +76,9 @@
 
 #### Amendments
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §758(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–200, which directed addition of item 1074i after item relating to section 1074g, was executed by adding item 1074i after item 1074h to reflect the probable intent of Congress.
+2001—Pub. L. 107–107, div. A, title VII, §§701(a)(2), (f)(2), 731(b), 732(a)(2), 736(c)(2), title X, §1048(a)(10), Dec. 28, 2001, 115 Stat. 1158, 1161, 1169, 1173, 1223, struck out item 1074b “Transitional medical and dental care: members on active duty in support of contingency operations”, transferred item 1074i to appear after item 1074h, and added items 1074j, 1074k, 1079b, and 1086b.
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §§706(a)(2), 728(a)(2), 751(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, 1654A–189, 1654A–194, added items 1074h, 1095f, and 1110.
+2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §§706(a)(2), 728(a)(2), 751(b)(2), 758(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, 1654A–189, 1654A–194, 1654A–200, added items 1074h, 1074i, 1095f, and 1110.
 
 1999—Pub. L. 106–65, div. A, title VII, §§701(a)(2), 711(b), 713(a)(2), 714(b), 715(a)(2), 716(a)(2), 722(b), Oct. 5, 1999, 113 Stat. 680, 687, 689–691, 695, added items 1073a, 1074g, 1076a, 1095c, 1095d, 1095e, and 1097b and struck out former items 1076a “Dependents’ dental program” and 1076b “Selected Reserve dental insurance”.
 
@@ -141,7 +145,7 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01073a - Contracts for health care best value contracting](%C2%A7%2001073a%20-%20Contracts%20for%20health%20care%20best%20value%20contracting.md)
 - [&sect; 01074 - Medical and dental care for members and certain former members](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md)
 - [&sect; 01074a - Medical and dental care members on duty other than active duty for a period of more than 30 days](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md)
-- [&sect; 01074b - Transitional medical and dental care members on active duty in support of contingency operations](%C2%A7%2001074b%20-%20Transitional%20medical%20and%20dental%20care%20members%20on%20active%20duty%20in%20support%20of%20contingency%20operations.md)
+- [&sect; 01074b - Repealed. Pub. L. 107&#8211;107, div. A, title VII, &sect;736(c)(1), Dec. 28, 2001, 115 Stat. 1173](%C2%A7%2001074b%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20VII%2C%20%C2%A7736%28c%29%281%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201173.md)
 - [&sect; 01074c - Medical care authority to provide a wig](%C2%A7%2001074c%20-%20Medical%20care%20authority%20to%20provide%20a%20wig.md)
 - [&sect; 01074d - Certain primary and preventive health care services](%C2%A7%2001074d%20-%20Certain%20primary%20and%20preventive%20health%20care%20services.md)
 - [&sect; 01074e - Medical care certain Reserves who served in Southwest Asia during the Persian Gulf Conflict](%C2%A7%2001074e%20-%20Medical%20care%20certain%20Reserves%20who%20served%20in%20Southwest%20Asia%20during%20the%20Persian%20Gulf%20Conflict.md)
@@ -149,6 +153,8 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01074g - Pharmacy benefits program](%C2%A7%2001074g%20-%20Pharmacy%20benefits%20program.md)
 - [&sect; 01074h - Medical and dental care medal of honor recipients; dependents](%C2%A7%2001074h%20-%20Medical%20and%20dental%20care%20medal%20of%20honor%20recipients%3B%20dependents.md)
 - [&sect; 01074i - Reimbursement for certain travel expenses](%C2%A7%2001074i%20-%20Reimbursement%20for%20certain%20travel%20expenses.md)
+- [&sect; 01074j - Sub-acute care program](%C2%A7%2001074j%20-%20Sub-acute%20care%20program.md)
+- [&sect; 01074k - Long-term care insurance](%C2%A7%2001074k%20-%20Long-term%20care%20insurance.md)
 - [&sect; 01075 - Officers and certain enlisted members subsistence charges](%C2%A7%2001075%20-%20Officers%20and%20certain%20enlisted%20members%20subsistence%20charges.md)
 - [&sect; 01076 - Medical and dental care for dependents general rule](%C2%A7%2001076%20-%20Medical%20and%20dental%20care%20for%20dependents%20general%20rule.md)
 - [&sect; 01076a - TRICARE dental program](%C2%A7%2001076a%20-%20TRICARE%20dental%20program.md)
@@ -159,6 +165,7 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01078a - Continued health benefits coverage](%C2%A7%2001078a%20-%20Continued%20health%20benefits%20coverage.md)
 - [&sect; 01079 - Contracts for medical care for spouses and children plans](%C2%A7%2001079%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20plans.md)
 - [&sect; 01079a - CHAMPUS treatment of refunds and other amounts collected](%C2%A7%2001079a%20-%20CHAMPUS%20treatment%20of%20refunds%20and%20other%20amounts%20collected.md)
+- [&sect; 01079b - Procedures for charging fees for care provided to civilians; retention and use of fees collected](%C2%A7%2001079b%20-%20Procedures%20for%20charging%20fees%20for%20care%20provided%20to%20civilians%3B%20retention%20and%20use%20of%20fees%20collected.md)
 - [&sect; 01080 - Contracts for medical care for spouses and children election of facilities](%C2%A7%2001080%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20election%20of%20facilities.md)
 - [&sect; 01081 - Contracts for medical care for spouses and children review and adjustment of payments](%C2%A7%2001081%20-%20Contracts%20for%20medical%20care%20for%20spouses%20and%20children%20review%20and%20adjustment%20of%20payments.md)
 - [&sect; 01082 - Contracts for health care advisory committees](%C2%A7%2001082%20-%20Contracts%20for%20health%20care%20advisory%20committees.md)
@@ -167,6 +174,7 @@ This chapter is referred to in sections 129c, 1490 of this title; title 14 secti
 - [&sect; 01085 - Medical and dental care from another executive department reimbursement](%C2%A7%2001085%20-%20Medical%20and%20dental%20care%20from%20another%20executive%20department%20reimbursement.md)
 - [&sect; 01086 - Contracts for health benefits for certain members, former members, and their dependents](%C2%A7%2001086%20-%20Contracts%20for%20health%20benefits%20for%20certain%20members%2C%20former%20members%2C%20and%20their%20dependents.md)
 - [&sect; 01086a - Certain former spouses extension of period of eligibility for health benefits](%C2%A7%2001086a%20-%20Certain%20former%20spouses%20extension%20of%20period%20of%20eligibility%20for%20health%20benefits.md)
+- [&sect; 01086b - Prohibition against requiring retired members to receive health care solely through the Department of Defense](%C2%A7%2001086b%20-%20Prohibition%20against%20requiring%20retired%20members%20to%20receive%20health%20care%20solely%20through%20the%20Department%20of%20Defense.md)
 - [&sect; 01087 - Programing facilities for certain members, former members, and their dependents in construction projects of the uniformed services](%C2%A7%2001087%20-%20Programing%20facilities%20for%20certain%20members%2C%20former%20members%2C%20and%20their%20dependents%20in%20construction%20projects%20of%20the%20uniformed%20services.md)
 - [&sect; 01088 - Air evacuation patients furnished subsistence](%C2%A7%2001088%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md)
 - [&sect; 01089 - Defense of certain suits arising out of medical malpractice](%C2%A7%2001089%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20medical%20malpractice.md)

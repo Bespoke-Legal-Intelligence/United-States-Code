@@ -38,7 +38,7 @@ Except as provided in subsection (e) of this section and section 6543(d) of this
 
 #### (d) Nonabatement of proceedings
 
-No suit, action, or other proceeding commenced by or against any officer in the official capacity of such individual as an officer of any Federal agency, or any commission or component thereof, functions of which are transferred by any subchapter of this chapter, shall abate by reason of the enactment of this chapter. No cause of action by or against any Federal agency, or any commission or component thereof, functions of which are transferred by any subchapter of this chapter, or by or against any officer thereof in the official capacity of such officer shall abate by reason of the enactment of this chapter.
+No suit, action, or other proceeding commenced by or against any officer in the official capacity of such individual as an officer of any Federal agency, or any commission or component thereof, functions of which are transferred by any subchapter of this chapter, shall abate byreason of the enactment of this chapter. No cause of action by or against any Federal agency, or any commission or component thereof, functions of which are transferred by any subchapter of this chapter, or by or against any officer thereof in the official capacity of such officer shall abate by reason of the enactment of this chapter.
 
 #### (e) Continuation of proceeding with substitution of parties
 

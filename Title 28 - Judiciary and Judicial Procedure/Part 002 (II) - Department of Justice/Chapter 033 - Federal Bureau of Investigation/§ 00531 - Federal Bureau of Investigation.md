@@ -36,7 +36,7 @@ Duties of the CASMIRC.—The CASMIRC shall perform such duties as the Attorney G
 
 &emsp;“(4) providing, if requested by a Federal, State, or local law enforcement agency, on site consultation and advice in child abduction, mysterious disappearances of children, child homicide and serial murder investigations;
 
-&emsp;“(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the United States Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal, State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
+&emsp;“(5) coordinating the application of resources of pertinent Federal law enforcement agencies, and other Federal entities including, but not limited to, the United States Customs Service, the Secret Service, the Postal Inspection Service, and the UnitedStates Marshals Service, as appropriate, and with the concurrence of the agency head to support Federal, State, and local law enforcement involved in child abduction, mysterious disappearance of a child, child homicide, and serial murder investigations;
 
 &emsp;“(6) conducting ongoing research related to child abductions, mysterious disappearances of children, child homicides, and serial murder, including identification and investigative application of current and emerging technologies, identification of investigative searching technologies and methods for physically locating abducted children, investigative use of offender behavioral assessment and analysis concepts, gathering statistics and information necessary for case identification, trend analysis, and case linkages to advance the investigative effectiveness of outstanding abducted children cases, develop investigative systems to identify and track serious serial offenders that repeatedly victimize children for comparison to unsolved cases, and other investigative research pertinent to child abduction, mysterious disappearance of a child, child homicide, and serial murder covered in this section;
 
@@ -118,7 +118,7 @@ Authorization.—The Attorney General, in consultation with the Director of the 
 
 &emsp;&emsp;“(A) computerized identification systems that are compatible and integrated with the databases of the National Crime Information Center of the Federal Bureau of Investigation;
 
-&emsp;&emsp;“(B) the capability to analyze deoxyribonucleic acid (DNA) in a forensic laboratory in ways that are compatible and integrated with the combined DNA Identification System (CODIS) of the Federal Bureau of Investigation; and
+&emsp;&emsp;“(B) the capability to analyze deoxyribonucleic acid (DNA) in a forensic laboratory in ways thatare compatible and integrated with the combined DNA Identification System (CODIS) of the Federal Bureau of Investigation; and
 
 &emsp;&emsp;“(C) automated fingerprint identification systems that are compatible and integrated with the Integrated Automated Fingerprint Identification System (IAFIS) of the Federal Bureau of Investigation.
 

@@ -6,7 +6,7 @@ Every article or thing designed, adapted, or intended for producing abortion, or
 
 Every article, instrument, substance, drug, medicine, or thing which is advertised or described in a manner calculated to lead another to use or apply it for producing abortion, or for any indecent or immoral purpose; and
 
-Every written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, or how, or from whom, or by what means any of such mentioned matters, articles, or things may be obtained or made, or where or by whom any act or operation of any kind for the procuring or producing of abortion will be done or performed, or how or by what means abortion may be produced, whether sealed or unsealed; and
+Every written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, or how, or from whom, or by what means any of such mentioned matters, articles, or things may be obtained or made, or where or by whom any act or operation of any kind for the procuring or producing of abortion will be done or performed, or how or by what means abortionmay be produced, whether sealed or unsealed; and
 
 Every paper, writing, advertisement, or representation that any article, instrument, substance, drug, medicine, or thing may, or can, be used or applied for producing abortion, or for any indecent or immoral purpose; and
 
@@ -60,7 +60,7 @@ Section 6 of Pub. L. 91–662 provided that the amendment made by that section i
 
 #### Commission on Obscenity and Pornography
 
-Pub. L. 90–100, Oct. 3, 1967, 81 Stat. 253, as amended by Pub. L. 90–350, title V, §502, June 19, 1968, 82 Stat. 197; Pub. L. 91–74, title V, §503, Sept. 29, 1969, 83 Stat. 123, provided for establishment of Commission on Obscenity and Pornography, its membership, compensation of members, powers, functions, and duties of Commission, required Commission to report to President and to Congress its findings and recommendations no later than Sept. 30, 1970, and provided for its termination ten days following submission of report.
+Pub. L. 90–100, Oct. 3, 1967, 81 Stat. 253, as amended by Pub. L. 90–350, title V, §502, June 19, 1968, 82 Stat. 197; Pub. L. 91–74, title V, §503, Sept. 29, 1969, 83 Stat. 123, provided for establishment of Commission on Obscenityand Pornography, its membership, compensation of members, powers, functions, and duties of Commission, required Commission to report to President and to Congress its findings and recommendations no later than Sept. 30, 1970, and provided for its termination ten days following submission of report.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;(B) is described in subsection (<i>l</i>).
 
-&emsp;(2) Corporations organized for the exclusive purpose of holding title to property, collecting income therefrom, and turning over the entire amount thereof, less expenses, to an organization which itself is exempt under this section. Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph.
+&emsp;(2) Corporations organized for the exclusive purpose of holding title to property, collecting income therefrom, and turning over the entire amount thereof, less expenses, to an organization which itself is exempt under this section.Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph.
 
 &emsp;(3) Corporations, and any community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or to foster national or international amateur sports competition (but only if no part of its activities involve the provision of athletic facilities or equipment), or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation (except as otherwise provided in subsection (h)), and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office.
 
@@ -104,7 +104,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(C) For purposes of subparagraph (B), the term “controlled group” has the meaning given such term by section 831(b)(2)(B)(ii).
 
-&emsp;(16) Corporations organized by an association subject to part IV of this subchapter or members thereof, for the purpose of financing the ordinary crop operations of such members or other producers, and operated in conjunction with such association. Exemption shallnot be denied any such corporation because it has capital stock, if the dividend rate of such stock is fixed at not to exceed the legal rate of interest in the State of incorporation or 8 percent per annum, whichever is greater, on the value of the consideration for which the stock was issued, and if substantially all such stock (other than nonvoting preferred stock, the owners of which are not entitled or permitted to participate, directly or indirectly, in the profits of the corporation, on dissolution or otherwise, beyond the fixed dividends) is owned by such association, or members thereof; nor shall exemption be denied any such corporation because there is accumulated and maintained by it a reserve required by State law or a reasonable reserve for any necessary purpose.
+&emsp;(16) Corporations organized by an association subject to part IV of this subchapter or members thereof, for the purpose of financing the ordinary crop operations of such members or other producers, and operated in conjunction with such association. Exemption shall not be denied any such corporation because it has capital stock, if the dividend rate of such stock is fixed at not to exceed the legal rate of interest in the State of incorporation or 8 percent per annum, whichever is greater, on the value of the consideration for which the stock was issued, and if substantially all such stock (other than nonvoting preferred stock, the owners of which are not entitled or permitted to participate, directly or indirectly, in the profits of the corporation, on dissolution or otherwise, beyond the fixed dividends) is owned by such association, or members thereof; nor shall exemption be denied any such corporation because there is accumulated and maintained by it a reserve required by State law or a reasonable reserve for any necessary purpose.
 
 &emsp;(17)(A) A trust or trusts forming part of a plan providing for the payment of supplemental unemployment compensation benefits, if—
 
@@ -144,9 +144,9 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;&emsp;(i) such contributions do not exceed the amount with respect to which a deduction is allowable under section 219(b)(3),
 
-&emsp;&emsp;&emsp;(ii) requirements similar to the requirements of section 401(k)(3)(A)(ii) are metwith respect to such elective contributions,
+&emsp;&emsp;&emsp;(ii) requirements similar to the requirements of section 401(k)(3)(A)(ii) are met with respect to such elective contributions,
 
-&emsp;&emsp;&emsp;(iii) such contributions are treated as elective deferrals for purposes of section 402(g) (other than paragraph (4) thereof), and
+&emsp;&emsp;&emsp;(iii) such contributions are treated as elective deferrals for purposes of section 402(g), and
 
 &emsp;&emsp;&emsp;(iv) the requirements of section 401(a)(30) are met.
 
@@ -212,7 +212,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;&emsp;(III) time or demand deposits in a bank (as defined in section 581) or an insured credit union (within the meaning of section 101(7) of the Federal Credit Union Act, 12 U.S.C. 1752(7)) located in the United States.
 
-&emsp;&emsp;(iii) The term “miner” has the same meaning as such term has when used in section402(d) of the Black Lung Benefits Act (30 U.S.C. 902(d)).
+&emsp;&emsp;(iii) The term “miner” has the same meaning as such term has when used in section 402(d) of the Black Lung Benefits Act (30 U.S.C. 902(d)).
 
 &emsp;&emsp;(iv) The term “incidental expenses” includes legal, accounting, actuarial, and trustee expenses.
 
@@ -284,7 +284,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(iii) For purposes of this subtitle, if any corporation which was a qualified subsidiary ceases to meet the requirements of clause (ii), such corporation shall be treated as a new corporation acquiring all of its assets (and assuming all of its liabilities) immediately before such cessation from the corporation or trust described in subparagraph (A) in exchange for its stock.
 
-&emsp;(F) For purposes of subparagraph (A), the term “real property” includes any personalproperty which is leased under, or in connection with, a lease of real property, but only if the rent attributable to such personal property (determined under the rules of section 856(d)(1)) for the taxable year does not exceed 15 percent of the total rent for the taxable year attributable to both the real and personal property leased under, or in connection with, such lease.
+&emsp;(F) For purposes of subparagraph (A), the term “real property” includes any personal property which is leased under, or in connection with, a lease of real property, but only if the rent attributable to such personal property (determined under the rules of section 856(d)(1)) for the taxable year does not exceed 15 percent of the total rent for the taxable year attributable to both the real and personal property leased under, or in connection with, such lease.
 
 &emsp;(G)(i) An organization shall not be treated as failing to be described in this paragraph merely by reason of the receipt of any otherwise disqualifying income which is incidentally derived from the holding of real property.
 
@@ -344,6 +344,8 @@ The following organizations are referred to in subsection (a):
 
 &emsp;&emsp;(iv) the majority of the board of directors or oversight body of such organization are appointed by the chief executive officer or other executive branch official of the State, by the State legislature, or by both.
 
+&emsp;(28) The National Railroad Retirement Investment Trust established under section 15(j) of the Railroad Retirement Act of 1974.
+
 #### (d) Religious and apostolic organizations
 
 The following organizations are referred to in subsection (a): Religious or apostolic associations or corporations, if such associations or corporations have a common treasury or community treasury, even if such associations or corporations engage in business for the common benefit of the members, but only if the members thereof include (at the time of filing their returns) in their gross income their entire pro rata shares, whether distributed or not, of the taxable income of the association or corporation for such year. Any amount so included in the gross income of a member shall be treated as a dividend received.
@@ -354,7 +356,7 @@ For purposes of this title, an organization shall be treated as an organization 
 
 &emsp;(1) such organization is organized and operated solely—
 
-&emsp;&emsp;(A) to perform, on a centralized basis, one or more of the following services which, ifperformed on its own behalf by a hospital which is an organization described in subsection (c)(3) and exempt from taxation under subsection (a), would constitute activities in exercising or performing the purpose or function constituting the basis for its exemption: data processing, purchasing (including the purchasing of insurance on a group basis), warehousing, billing and collection (including the purchase of patron accounts receivable on a recourse basis), food, clinical, industrial engineering, laboratory, printing, communications, record center, and personnel (including selection, testing, training, and education of personnel) services; and
+&emsp;&emsp;(A) to perform, on a centralized basis, one or more of the following services which, if performed on its own behalf by a hospital which is an organization described in subsection (c)(3) and exempt from taxation under subsection (a), would constitute activities in exercising or performing the purpose or function constituting the basis for its exemption: data processing, purchasing (including the purchasing of insurance on a group basis), warehousing, billing and collection (including the purchase of patron accounts receivable on a recourse basis), food, clinical, industrial engineering, laboratory, printing, communications, record center, and personnel (including selection, testing, training, and education of personnel) services; and
 
 &emsp;&emsp;(B) to perform such services solely for two or more hospitals each of which is—
 
@@ -478,7 +480,7 @@ For purposes of subsection (c)(5), the term “agricultural” includes the art 
 
 #### (i) Prohibition of discrimination by certain social clubs
 
-Notwithstanding subsection (a), an organization which is described in subsection (c)(7) shall not be exempt from taxation under subsection (a) for any taxable year if, at any time during such taxable year, the charter, bylaws, or other governing instrument, of such organization or any written policy statement of such organization contains a provision which provides for discrimination against any person on the basis of race, color, or religion. The preceding sentence to the extent it relates to discrimination on the basis of religion shall not apply to—
+Notwithstanding subsection (a), an organization which is described in subsection (c)(7) shall not be exempt from taxation under subsection (a) for any taxable year if, at any time duringsuch taxable year, the charter, bylaws, or other governing instrument, of such organization or any written policy statement of such organization contains a provision which provides for discrimination against any person on the basis of race, color, or religion. The preceding sentence to the extent it relates to discrimination on the basis of religion shall not apply to—
 
 &emsp;(1) an auxiliary of a fraternal beneficiary society if such society—
 
@@ -622,7 +624,11 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 &emsp;&emsp;<b>For nonexemption of Communist-controlled organizations, see section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(b)).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14, 1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X, §§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14, 1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, titleVIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X, §§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §611(d)(3)(C), June 7, 2001, 115 Stat. 98; Pub. L. 107–90, title II, §202, Dec. 21, 2001, 115 Stat. 890.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendments note below.</i>
 
 #### References in Text
 
@@ -640,6 +646,8 @@ The date of the enactment of the Single-Employer Pension Plan Amendments Act of 
 
 The date of enactment of this subparagraph, referred to in subsec. (c)(27)(B)(iii)(I), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 
+Section 15(j) of the Railroad Retirement Act of 1974, referred to in subsec. (c)(28), is classified to section 231n(j) of Title 45, Railroads.
+
 The provisions of subsec. (a) of section 115, referred to in subsec. (f)(3)(B), now comprise section 115 in its entirety, following the deletion therefrom of the subsec. (a) designation by section 1901(a)(19) of Pub. L. 94–455.
 
 The Federal Credit Union Act, referred to in subsec. (<i>l</i>)(1), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended. Title III of the Federal Credit Union Act is classified generally to subchapter III (§1795 et seq.) of chapter 14 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
@@ -651,6 +659,10 @@ Section 1855(d) of the Social Security Act, referred to in subsec. (<i>o</i>), i
 Section 11(b) of the Internal Security Act of 1950 (64 Stat. 997; 50 U.S.C. 790(b)), referred to in subsec. (p), was repealed by Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c)(18)(D)(iii). Pub. L. 107–16, §§611(d)(3)(C), 901, temporarily struck out “(other than paragraph (4) thereof)” after “section 402(g)”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(28). Pub. L. 107–90 added par. (28).
 
 <b>1998</b>—Subsec. (n)(3). Pub. L. 105–206, §6023(6), substituted “subparagraph (E)(ii)” for “subparagraph (C)(ii)” in concluding provisions.
 
@@ -686,7 +698,7 @@ Subsec. (c)(25)(G). Pub. L. 103–66, §13146(a), added subpar. (G).
 
 Subsec. (c)(12)(B)(iv). Pub. L. 100–647, §2003(a)(1), added cl. (iv).
 
-Subsec. (c)(12)(C). Pub. L. 100–647, §2003(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “In the case of a mutual or cooperative electric company, subparagraph (A) shall be applied without taking into account any income received or accrued from qualified pole rentals.”
+Subsec. (c)(12)(C). Pub. L. 100–647, §2003(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “In the case of a mutual or cooperative electric company, subparagraph (A) shall be applied without taking into account any income received or accrued from qualified pole rentals.”
 
 Subsec. (c)(17)(A)(ii), (iii), (18)(B), (C). Pub. L. 100–647, §1018(u)(34), made technical amendments to Pub. L. 99–154, §1114(b)(14). See 1986 Amendment note below.
 
@@ -824,6 +836,12 @@ Subsec. (c)(17). Pub. L. 86–667 added par. (17).
 
 <b>1956</b>—Subsec. (c)(15). Act Mar. 13, 1956, substituted “the items described in section 822(b) (other than paragraph (1)(D) thereof)” for “interest, dividends, rents,”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendments
 
 Amendment by section 101(c) of Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 101(e) of Pub. L. 105–34, set out as an Effective Date note under section 24 of this title.
@@ -870,7 +888,7 @@ Amendment by section 1011(c)(7)(D) of Pub. L. 100–647 applicable to plan years
 
 Section 1016(a)(1)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to property acquired by the organization after June 10, 1987, except that such amendment shall not apply to any property acquired after June 10, 1987, pursuant to a binding written contract in effect on June 10, 1987, and at all times thereafter before such acquisition.”
 
-Amendment by sections 1010(b)(4), 1016(a)(2)–(4), and 1018(u)(14), (15), (34) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1010(b)(4), 1016(a)(2)–(4), and 1018(u)(14), (15), (34) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Section 2003(a)(3) of Pub. L. 100–647 provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after the date of the enactment of the Omnibus Budget Reconciliation Act of 1986 \[Oct. 21, 1986\].”
 
@@ -1016,6 +1034,22 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
+#### Payments by Charitable Organizations Treated as Exempt Payments
+
+Pub. L. 107–134, title I, §104, Jan. 23, 2002, 115 Stat. 2431, provided that:
+
+“(a)
+
+In General.—For purposes of the Internal Revenue Code of 1986—
+
+&emsp;“(1) payments made by an organization described in section 501(c)(3) of such Code by reason of the death, injury, wounding, or illness of an individual incurred as the result of the terrorist attacks against the United States on September 11, 2001, or an attack involving anthrax occurring on or after September 11, 2001, and before January 1, 2002, shall be treated as related to the purpose or function constituting the basis for such organization's exemption under section 501 of such Code if such payments are made in good faith using a reasonable and objective formula which is consistently applied; and
+
+&emsp;“(2) in the case of a private foundation (as defined in section 509 of such Code), any payment described in paragraph (1) shall not be treated as made to a disqualified person for purposes of section 4941 of such Code.
+
+“(b)
+
+Effective Date.—This section shall apply to payments made on or after September 11, 2001.”
+
 #### Special Rule for Certain Cooperatives
 
 Section 1311(b)(2) of Pub. L. 104–168 provided that: “In the case of an organization operating on a cooperative basis which, before the date of the enactment of this Act \[July 30, 1996\], was determined by the Secretary of the Treasury or his delegate, to be described in section 501(c)(4) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code, the allocation or return of net margins or capital to the members of such organization in accordance with its incorporating statute and bylaws shall not be treated for purposes of such Code as the inurement of the net earnings of such organization to the benefit of any private shareholder or individual. The preceding sentence shall apply only if such statute and bylaws are substantially as such statute and bylaws were in existence on the date of the enactment of this Act.”
@@ -1026,7 +1060,7 @@ Section 1013(i) of Pub. L. 100–647 provided that: “In accordance with sectio
 
 #### Cancellation of Certain Debts Originated by or Guaranteed by United States Not Taken Into Account in Determining Tax Exempt Status of Certain Organizations
 
-Section 6203 of Pub. L. 100–647 provided that: “Subparagraph (A) of section 501(c)(12) of the 1986 Code shall be applied without taking into account any income attributable to the cancellation of any loan originally made or guaranteed by the United States (or any agency or instrumentality thereof) if such cancellation occurs after 1986 and before 1990.”
+Section 6203 of Pub. L. 100–647 provided that: “Subparagraph (A) of section 501(c)(12) of the 1986 Code shallbe applied without taking into account any income attributable to the cancellation of any loan originally made or guaranteed by the United States (or any agency or instrumentality thereof) if such cancellation occurs after 1986 and before 1990.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -1158,7 +1192,7 @@ Pub. L. 89–44, title VIII, §811, June 21, 1965, 79 Stat. 169, provided that c
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 21, 41, 42, 50, 57, 62, 72, 79, 104, 108, 120, 129, 131, 141, 144, 145, 146, 147, 148, 149, 150, 151, 168, 170, 192, 194A, 219, 246, 265, 267, 274, 280G, 318, 401, 402, 403, 404, 408, 410, 411, 412, 414, 415, 419, 419A, 447, 448, 457, 468A, 502, 503, 504, 505, 507, 508, 509, 511, 512, 513, 514, 527, 529, 542, 593, 642, 644, 681, 818, 831, 832, 854, 856, 871, 992, 1275, 1361, 1441, 1504, 1563, 2055, 2503, 2522, 3121, 3303, 3306, 3309, 3401, 4041, 4221, 4251, 4253, 4294, 4421, 4911, 4912, 4940, 4941, 4942, 4945, 4947, 4948, 4951, 4952, 4953, 4955, 4958, 4962, 4972, 4974, 4975, 4979, 4982, 5214, 6033, 6039F, 6043, 6047, 6048, 6049, 6072, 6104, 6110, 6113, 6420, 6421, 6427, 6501, 6711, 6852, 7409, 7428, 7454, 7526, 7603, 7611, 7701, 9012, 9501, 9702, 9712 of this title; title 2 sections 117e, 806, 1611; title 4 section 114; title 5 sections 504, 3102, 4111, 7342, 8440; title 7 sections 1726b, 1732, 2279, 4809, 5801, 5901; title 8 section 1101; title 10 section 2580; title 12 sections 1441a–1, 1709, 1843, 3051, 4145, 4146; title 15 sections 37a, 77c, 80a–3, 80a–3a, 656, 1291, 1679a, 6402; title 16 sections 18f–2, 284d, 539f, 583j–2, 742f, 1447a, 2105, 2708, 5406; title 18 sections 207, 209, 1307, 1511, 1955; title 19 section 3391; title 20 sections 80q–7, 1085, 1128a, 1135, 1681, 4357, 5502, 5509, 8004; title 21 sections 353, 1523; title 22 sections 262p–4c, 262p–4e; title 25 sections 3653, 3662, 3663; title 28 section 2412; title 29 sections 169, 623, 705, 1002, 1051, 1052, 1081, 1082, 1086, 1103, 1321, 1362, 1403, 2703; title 35 sections 201, 287; title 36 sections 40705, 40706, 80102, 80106; title 38 section 3772; title 40 sections 207c–2, 483, 484, 1002; title 42 sections 280d–11, 290b, 300e–9, 409, 604, 1301, 1382a, 1382b, 1395w–28, 1395x, 1395eee, 1396b, 1396u–4, 1397a, 1485, 1760, 1784, 2000e, 2996b, 3056, 5177a, 5603, 6322, 6371, 6372, 8013, 8143, 9660, 9907, 9926, 10702, 11371, 12111, 12584, 14505; title 43 section 390ss; title 45 section 1347; title 46 section 2101; title 47 sections 154, 396; title 49 section 13709.
+This section is referred to in sections 21, 41, 42, 50, 57, 62, 72, 79, 101, 104, 108, 120, 129, 131, 141, 144, 145, 146, 147, 148, 149, 150, 151, 168, 170, 192, 194A, 219, 246, 265, 267, 274, 280G, 318, 401, 402, 402A, 403, 404, 408, 410, 411, 412, 414, 415, 419, 419A, 447, 448, 457, 468A, 502, 503, 504, 505, 507, 508, 509, 511, 512, 513, 514, 527, 529, 542, 593, 642, 644, 681, 818, 831, 832, 854, 856, 871, 992, 1275, 1361, 1441, 1504, 1563, 2055, 2503, 2522, 3121, 3303, 3306, 3309, 3401, 4041, 4221, 4251, 4253, 4294, 4421, 4911, 4912, 4940, 4941, 4942, 4945, 4947, 4948, 4951, 4952, 4953, 4955, 4958, 4962, 4972, 4974, 4975, 4979, 4982, 5214, 6033, 6039F, 6043, 6047, 6048, 6049, 6072, 6104, 6110, 6113, 6420, 6421, 6427, 6501, 6711, 6852, 7409, 7428, 7454, 7526, 7603, 7611, 7701, 9012, 9501, 9702, 9712 of this title; title 2 sections 117e, 806, 1611; title 4 section 114; title 5 sections 504, 3102, 4111, 7342, 8440; title 7 sections 1726b, 1732, 2279, 4809, 5801, 5901; title 8 section 1101; title 10 section 2580; title 12 sections 1441a–1, 1709, 1843, 3051, 4145, 4146; title 15 sections 37a, 77c, 80a–3, 80a–3a, 656, 1291, 1679a, 6402; title 16 sections 18f–2, 284d, 539f, 583j–2, 742f, 1447a, 2105, 2708, 5406; title 18 sections 207, 209, 1307, 1511, 1955; title 19 section 3391; title 20 sections 80q–7, 1085, 1128a, 1135, 1681, 4357, 5502, 5509; title 21 sections 353, 1523; title 22 sections 262p–4c, 262p–4e; title 25 sections 3653, 3662, 3663; title 28 section 2412; title 29 sections 169, 623, 705, 1002, 1051, 1052, 1081, 1082, 1086, 1103, 1321, 1362, 1403, 2703; title 35 sections 201, 287; title 36 sections 40705, 40706, 80102, 80106; title 38 section 2051; title 40 sections 207c–2, 483, 484, 1002; title 42 sections 280e–11, 285<i>l</i>–3, 290b, 300e–9, 409, 604, 1301, 1382a, 1382b, 1395w–28, 1395x, 1395eee, 1396b, 1396u–4, 1397a, 1485, 1760, 1784, 2000e, 2996b, 3056, 5177a, 5197h, 5603, 6322, 6371, 6372, 8013, 8143, 9607, 9660, 9907, 9926, 10702, 11371, 12111, 12584, 14505; title 43 section 390ss; title 45 section 1347; title 46 section 2101; title 47 sections 154, 396; title 49 section 13709.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

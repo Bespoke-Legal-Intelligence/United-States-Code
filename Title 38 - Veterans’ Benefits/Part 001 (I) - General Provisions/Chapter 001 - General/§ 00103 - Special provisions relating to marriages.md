@@ -22,17 +22,19 @@
 
 &emsp;(A) Section 1311, relating to dependency and indemnity compensation.
 
-&emsp;(B) Section 1713, relating to medical care for survivors and dependents of certain veterans.
+&emsp;(B) Section 1781, relating to medical care for survivors and dependents of certain veterans.
 
 &emsp;(C) Chapter 35, relating to educational assistance.
 
 &emsp;(D) Chapter 37, relating to housing loans.
 
-(e) The marriage of a child of a veteran shall not bar recognition of such child as the child of the veteran for benefit purposes if the marriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
+(e) The marriage of a child of a veteran shall not bar recognition of such child as the child ofthe veteran for benefit purposes if the marriage is void, or has been annulled by a court with basic authority to render annulment decrees unless the Secretary determines that the annulment was secured through fraud by either party or collusion.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 87–674, §2, Sept. 19, 1962, 76 Stat. 558; Pub. L. 90–77, title I, §101(b), Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–376, §4, Aug. 12, 1970, 84 Stat. 789; Pub. L. 93–527, §9(a), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 99–576, title VII, §701(2), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 101–508, title VIII, §8004(a), Nov. 5, 1990, 104 Stat. 1388–343; Pub. L. 102–83, §4(a)(1), (2)(A)(i), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–117, title V, §502(a), Nov. 30, 1999, 113 Stat. 1574.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 87–674, §2, Sept. 19, 1962, 76 Stat. 558; Pub. L. 90–77, title I, §101(b), Aug. 31, 1967, 81 Stat. 178; Pub. L. 91–376, §4, Aug. 12, 1970, 84 Stat. 789; Pub. L. 93–527, §9(a), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 99–576, title VII, §701(2), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 101–508, title VIII, §8004(a), Nov. 5, 1990, 104 Stat. 1388–343; Pub. L. 102–83, §4(a)(1), (2)(A)(i), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–117, title V, §502(a), Nov. 30, 1999, 113 Stat. 1574; Pub. L. 107–135, title II, §208(e)(1), Jan. 23, 2002, 115 Stat. 2463.)
 
 #### Amendments
+
+2002—Subsec. (d)(5)(B). Pub. L. 107–135 substituted “1781” for “1713”.
 
 1999—Subsec. (d). Pub. L. 106–117 designated existing provisions as par. (1) and added pars. (2) to (5).
 

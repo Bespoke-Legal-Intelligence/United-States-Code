@@ -14,7 +14,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (2) Charitable contributions
 
-&emsp;The deduction for charitable contributions provided under section 170 shall be allowed, but in computing such deduction the limitations in section 170(b)(1)(A), (B), and (D) shall apply, and section 170(b)(2) and (d)(1) shall notapply. For purposes of this paragraph, the term “contribution base” when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without deduction of the amount disallowed under paragraph (6) of this subsection.
+&emsp;The deduction for charitable contributions provided under section 170 shall be allowed, but in computing such deduction the limitations in section 170(b)(1)(A), (B), and (D) shall apply, and section 170(b)(2) and (d)(1) shall not apply. For purposes of this paragraph, the term “contribution base” when used in section 170(b)(1) means the taxable income computed with the adjustments (other than the 10-percent limitation) provided in section 170(b)(2) and (d)(1) and without deduction of the amount disallowed under paragraph (6) of this subsection.
 
 #### (3) Special deductions disallowed
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 89–809, §104(h)(3)(B), added subsec. (d).
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–272, §225(i)(1), inserted reference to subsection (c).
 
-Subsec. (b)(1), (2). Pub. L. 88–272, §§207(b)(5), 209(c)(2), substituted “section 275(a)(4)” for “section 164(b)(6)” in par. (1), and inserted reference to section 170(b)(5) in par. (2).
+Subsec. (b)(1), (2). Pub. L. 88–272, §§207(b)(5), 209(c)(2), substituted “section 275(a)(4)” for “section 164(b)(6)” inpar. (1), and inserted reference to section 170(b)(5) in par. (2).
 
 Subsec. (c). Pub. L. 88–272, §225(i)(2), added subsec. (c).
 

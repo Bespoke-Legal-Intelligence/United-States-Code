@@ -88,7 +88,7 @@ Subsecs. (f), (g). Pub. L. 106–513, §17(4), added subsecs. (f) and (g).
 
 Pub. L. 104–283, §6(b)(2), substituted “Authority” for “Project” as heading and “The Secretary may establish a program consisting of” for “The project shall consist of” in introductory provisions.
 
-Pub. L. 104–283, §6(b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows:“Beginning on November 4, 1992, the Secretary shall conduct a 2-year pilot project to enhance funding for designation and management of national marine sanctuaries.”
+Pub. L. 104–283, §6(b)(1), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “Beginning on November 4, 1992, the Secretary shall conduct a 2-year pilot project to enhance funding for designation and management of national marine sanctuaries.”
 
 Subsec. (a)(5). Pub. L. 104–283, §6(b)(6), added par. (5). Former par. (5) redesignated (6).
 

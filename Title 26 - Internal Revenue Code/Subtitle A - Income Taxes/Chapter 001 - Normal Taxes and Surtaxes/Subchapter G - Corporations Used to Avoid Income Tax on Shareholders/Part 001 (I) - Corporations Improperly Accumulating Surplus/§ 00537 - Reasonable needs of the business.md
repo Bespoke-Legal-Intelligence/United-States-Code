@@ -62,5 +62,5 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 #### Effective Date of 1969 Amendment
 
-Section 906(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the tax imposed under section 531 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to taxable years ending after May 26, 1969.”
+Section 906(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amendingthis section\] shall apply to the tax imposed under section 531 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to taxable years ending after May 26, 1969.”
 

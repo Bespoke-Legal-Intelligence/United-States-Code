@@ -6,13 +6,13 @@ Within one year after November 17, 1986, the Secretary shall issue guidelines to
 
 #### (b) Analysis of costs and benefits
 
-The guidelines established under subsection (a) of this section shall provide for the Secretary to consider, in analyzing the costs and benefits of a proposed project for flood control, the costs and benefits produced by any flood control work carried out by non-Federal interests that the Secretary determines to be compatible with the project. For purposes of the preceding sentence the Secretary may consider only work carriedout after the date which is 5 years before the first obligation of funds for the reconnaissance study for such project. In no case may work which was carried out more than 5 years before November 17, 1986, be considered under this subsection, unless otherwise provided in this Act.
+The guidelines established under subsection (a) of this section shall provide for the Secretary to consider, in analyzing the costs and benefits of a proposed project for flood control, the costs and benefits produced by any flood control work carried out by non-Federal interests that the Secretary determines to be compatible with the project. For purposes of the preceding sentence the Secretary may consider only work carried out after the date which is 5 years before the first obligation of funds for the reconnaissance study for such project. In no case may work which was carried out more than 5 years before November 17, 1986, be considered under this subsection, unless otherwise provided in this Act.
 
 #### (c) Crediting of non-Federal share
 
 The guidelines established under subsection (a) of this section shall provide for crediting the cost of work carried out by the non-Federal interests against the non-Federal share of the cost of an authorized project for flood control as follows:
 
-&emsp;(1) Work which is carried out after the end of the reconnaissance study and before the submission to Congress of the final report of the Chief of Engineers on the project and which is determined by the Secretary to be compatible with the project shall be included as part of the project and shall be recommended by the Secretary in the final report for credit against the non-Federal share of the cost of the project.
+&emsp;(1) Work which is carried out after the end of the reconnaissance study and before the submission to Congress of the final report of the Chief of Engineers on the project and which isdetermined by the Secretary to be compatible with the project shall be included as part of the project and shall be recommended by the Secretary in the final report for credit against the non-Federal share of the cost of the project.
 
 &emsp;(2) Work which is carried out after submission of the final report of the Chief of Engineers to Congress and which is determined by the Secretary to be compatible with the project shall be considered as part of the project and shall be credited by the Secretary against the non-Federal share of the cost of the project in accordance with the guidelines promulgated pursuant to subsection (a) of this section.
 

@@ -36,7 +36,7 @@ Distilled spirits on which the internal revenue tax has not been paid or determi
 
 &emsp;(9) without payment of tax, for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse from which distilled spirits may be exported, and distilled spirits transferred to a customs bonded warehouse under this paragraph shall be entered, stored, and accounted for under such regulations and bonds as the Secretary may prescribe; or
 
-&emsp;(10) without payment of tax by a proprietor of bonded premises for use in research, development, or testing (other than consumer testing or other market analysis) of processes, systems, materials, or equipment, relating to distilled spirits or distilled spirits operations, under such limitations and conditions as to quantities, use, and accountability as the Secretary may by regulations require for the protection of the revenue; or
+&emsp;(10) without payment of tax by a proprietor of bonded premises for use in research, development, or testing (other than consumer testing or other market analysis) of processes,systems, materials, or equipment, relating to distilled spirits or distilled spirits operations, under such limitations and conditions as to quantities, use, and accountability as the Secretary may by regulations require for the protection of the revenue; or
 
 &emsp;(11) free of tax when contained in an article (within the meaning of section 5002(a)(14)); or
 

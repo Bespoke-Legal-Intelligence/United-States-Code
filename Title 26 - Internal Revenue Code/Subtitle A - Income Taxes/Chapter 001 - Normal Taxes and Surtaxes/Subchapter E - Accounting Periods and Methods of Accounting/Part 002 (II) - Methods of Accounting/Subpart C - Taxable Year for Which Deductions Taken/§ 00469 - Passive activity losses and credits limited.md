@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “passive activity” shall not include any working interest in any oil or gas property which the taxpayer holds directly or through an entity which does not limit the liability of the taxpayer with respect to such interest.
+&emsp;&emsp;The term “passive activity” shall not include any working interest in any oil or gas property which the taxpayer holds directly or through an entity which does not limitthe liability of the taxpayer with respect to such interest.
 
 #### (B) Income in subsequent years
 
@@ -232,7 +232,7 @@ If during the taxable year a taxpayer disposes of his entire interest in any pas
 
 #### (B) Subparagraph (A) not to apply to disposition involving related party
 
-&emsp;&emsp;If the taxpayer and the person acquiring the interest bear a relationship to each other described in section 267(b) or section 707(b)(1), then subparagraph (A) shall not apply to any loss of the taxpayer until the taxable year in which such interest is acquired (in a transaction described in subparagraph (A)) by another person who does not bear such a relationship to the taxpayer.
+&emsp;&emsp;If the taxpayer and the person acquiring the interest bear a relationship to each other described in section 267(b) or section 707(b)(1), then subparagraph (A) shall not apply to any loss of the taxpayer until thetaxable year in which such interest is acquired (in a transaction described in subparagraph (A)) by another person who does not bear such a relationship to the taxpayer.
 
 #### (C) Income from prior years
 
@@ -338,7 +338,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the amounts excludable from gross income under sections 135 and 137,
 
-&emsp;&emsp;&emsp;(iii) the amounts allowable as a deduction under sections 219 and 221, and
+&emsp;&emsp;&emsp;(iii) the amounts allowable as a deduction under sections 219, 221, and 222, and
 
 &emsp;&emsp;&emsp;(iv) any passive activity loss or any loss allowable by reason of subsection (c)(7).
 
@@ -356,7 +356,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), in the case of any married individual filing aseparate return, this subsection shall be applied by substituting—
+&emsp;&emsp;Except as provided in subparagraph (B), in the case of any married individual filing a separate return, this subsection shall be applied by substituting—
 
 &emsp;&emsp;&emsp;(i) “$12,500” for “$25,000” each place it appears,
 
@@ -519,7 +519,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (A) In general
 
-&emsp;&emsp;The portion of the passive activity loss (or passive activity credit) for any taxable year which is attributable to pre-enactment interests is the lesser of—
+&emsp;&emsp;The portion of the passive activity loss (or passive activity credit) for any taxable yearwhich is attributable to pre-enactment interests is the lesser of—
 
 &emsp;&emsp;&emsp;(i) the amount of the passive activity loss (or passive activity credit) which is disallowed for the taxable year under subsection (a) (without regard to this subsection), or
 
@@ -543,13 +543,19 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;&emsp;&emsp;(II) construction of property used in such activity began on or before August 16, 1986.
 
-(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub.L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599.)
+(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (i)(3)(F)(iii). Pub. L. 107–16, §§431(c)(3), 901, temporarily substituted “, 221, and 222” for “and 221”. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (i)(3)(C) to (F). Pub. L. 106–554, §1(a)(7) \[title I, §101(b)(1), (2)\], added subpar. (C), redesignated former subpars. (C) to (E) as (D) to (F), respectively, and generally amended heading and text of subpar. (E), as redesignated. Prior to amendment, text read as follows: “If subparagraph (B) or (C) applies for any taxable year, paragraph (1) shall be applied—
 
@@ -667,6 +673,12 @@ Subsec. (m)(3)(A). Pub. L. 100–647, §1005(a)(12), added subpar. (A) and struc
 
 <b>1987</b>—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (<i>l</i>) as (<i>l</i>) and (m), respectively.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective as if included in the provision of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 4003(<i>l</i>) of Pub. L. 105–277, set out as a note under section 86 of this title.
@@ -737,7 +749,7 @@ Income from sales of passive activities in taxable years beginning before januar
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11813(b)(16) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending afterNov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11813(b)(16) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Amounts Attributable to Activities Subject to Limitations Under Section 469 Treated as Deduction Allocable to Such Activity
 
@@ -793,7 +805,7 @@ In general.—The term ‘qualified investor’ means any natural person who hol
 
 &emsp;&emsp;&emsp;“(i) in the case of a project placed in service on or before August 16, 1986, such person held an interest in such project on August 16, 1986, and such person made his initial investment after December 31, 1983, or
 
-&emsp;&emsp;&emsp;“(ii) in the case of a project placed in service after August 16, 1986, such person made his initial investment after December 31, 1983, and such person held an interest in such project on December 31, 1986, and
+&emsp;&emsp;&emsp;“(ii) in the case of a project placed in service after August 16, 1986, such person made his initialinvestment after December 31, 1983, and such person held an interest in such project on December 31, 1986, and
 
 &emsp;&emsp;“(B) if such investor is required to make payments after December 31, 1986, of 50 percent or more of the total original obligated investment for such interest.
 
@@ -843,5 +855,5 @@ Coordination with credit.—No low-income housing credit shall be determined und
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 32, 42, 56, 58, 108, 135, 137, 163, 219, 221, 772, 773 of this title.
+This section is referred to in sections 32, 42, 56, 58, 108, 135, 137, 163, 219, 221, 222, 772, 773 of this title.
 

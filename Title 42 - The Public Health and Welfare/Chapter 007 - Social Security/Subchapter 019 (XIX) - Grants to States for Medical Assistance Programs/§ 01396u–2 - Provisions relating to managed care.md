@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) maintaining existing provider-individual relationships or relationships with providers that have traditionally served beneficiaries under this subchapter; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if maintaining such provider relationships is not possible, the equitable distribution of such individuals among qualified managed care entities available to enroll such individuals, consistentwith the enrollment capacities of the entities.
+&emsp;&emsp;&emsp;&emsp;(II) if maintaining such provider relationships is not possible, the equitable distribution of such individuals among qualified managed care entities available to enroll such individuals, consistent with the enrollment capacities of the entities.
 
 #### (5) Provision of information
 
@@ -250,7 +250,7 @@
 
 #### (8) Compliance with certain maternity and mental health requirements
 
-&emsp;Each medicaid managed care organization shall comply with the requirements of subpart2 of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–4 et seq.\] insofar as such requirements apply and are effective with respect to a health insurance issuer that offers group health insurance coverage.
+&emsp;Each medicaid managed care organization shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg–4 et seq.\] insofar as such requirements apply and are effective with respect to a health insurance issuer that offers group health insurance coverage.
 
 #### (c) Quality assurance standards
 
@@ -362,7 +362,7 @@
 
 #### (ii) Consultation in review of market materials
 
-&emsp;&emsp;&emsp;In the process of reviewing and approving such materials, the State shall provide for consultation with a medical care advisory committee.
+&emsp;&emsp;&emsp;In the process of reviewing and approving such materials, the State shall providefor consultation with a medical care advisory committee.
 
 #### (B) Service market
 
@@ -428,7 +428,7 @@
 
 &emsp;&emsp;&emsp;(iii) With respect to a determination under paragraph (1)(A)(ii), double the excess amount charged in violation of such subsection (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned).
 
-&emsp;&emsp;&emsp;(iv) Subject to clause (ii), with respect to a determination under paragraph (1)(A)(iii), $15,000 for each individual not enrolled as a result of a practice described in such subsection.
+&emsp;&emsp;&emsp;(iv) Subject to clause (ii), with respect to a determination under paragraph (1)(A)(iii), $15,000 for each individual notenrolled as a result of a practice described in such subsection.
 
 &emsp;&emsp;(B) The appointment of temporary management—
 

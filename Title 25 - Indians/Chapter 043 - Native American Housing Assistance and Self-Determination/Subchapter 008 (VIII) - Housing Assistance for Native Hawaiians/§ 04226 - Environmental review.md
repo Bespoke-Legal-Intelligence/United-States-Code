@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall authorize the release of funds subject to the procedures under this section only if, not less than 15 days before that approval and before any commitment of fundsto such projects, the Director of the Department of Hawaiian Home Lands submits to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c) of this section.
+&emsp;The Secretary shall authorize the release of funds subject to the procedures under this section only if, not less than 15 days before that approval and before any commitment of funds to such projects, the Director of the Department of Hawaiian Home Lands submits to the Secretary a request for such release accompanied by a certification that meets the requirements of subsection (c) of this section.
 
 #### (2) Effect of approval
 

@@ -92,7 +92,7 @@ For purposes of this part—
 
 #### (9) Startup day
 
-&emsp;The term “startup day” means the day on which the REMIC issues all of its regular and residual interests. To the extent provided in regulations, all interests issued (and all transfers to the REMIC) during any period (not exceeding 10 days) permitted in such regulations shall be treated as occurring on the day duringsuch period selected by the REMIC for purposes of this paragraph.
+&emsp;The term “startup day” means the day on which the REMIC issues all of its regular and residual interests. To the extent provided in regulations, all interests issued (and all transfers to the REMIC) during any period (not exceeding 10 days) permitted in such regulations shall be treated as occurring on the day during such period selected by the REMIC for purposes of this paragraph.
 
 #### (10) Issue price
 

@@ -60,6 +60,8 @@ Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by P
 
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
 
+Pub. L. 107–107, div. C, title XXXIII, §§3301, 3303, 3306(a), Dec. 28, 2001, 115 Stat. 1388, 1389, 1391.
+
 Pub. L. 106–398, §1 \[div. C, title XXXIII, §3303\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483.
 
 Pub. L. 106–65, div. C, title XXXIV, §3402(a)–(e), Oct. 5, 1999, 113 Stat. 972, 973.
@@ -68,11 +70,11 @@ Pub. L. 106–31, title I, §303, May 21, 1999, 113 Stat. 67.
 
 Pub. L. 105–262, title VIII, §8109, Oct. 17, 1998, 112 Stat. 2322.
 
-Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483.
+Pub. L. 105–261, div. C, title XXXIII, §§3301, 3303, Oct. 17, 1998, 112 Stat. 2262, 2263; Pub. L. 106–65, div. C, title XXXIV, §3403(a), Oct. 5, 1999, 113 Stat. 973; Pub. L. 106–398, §1 \[div. C, title XXXIII, §3302\], Oct. 30, 2000, 114 Stat. 1654, 1654A–483; Pub. L. 107–107, div. C, title XXXIII, §3304(a), Dec. 28, 2001, 115 Stat. 1390.
 
-Pub. L. 105–85, div. A, title XXXIII, §§3301, 3303–3305, Nov. 18, 1997, 111 Stat. 2056, 2057; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(2), 3403(b), Oct. 5, 1999, 113 Stat. 973.
+Pub. L. 105–85, div. A, title XXXIII, §§3301, 3303–3305, Nov. 18, 1997, 111 Stat. 2056, 2057; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(2), 3403(b), Oct. 5, 1999, 113 Stat. 973; Pub. L. 107–107, div. C, title XXXIII, §§3304(b), 3305, Dec. 28, 2001, 115 Stat. 1390.
 
-Pub. L. 104–201, div. C, title XXXIII, §§3301, 3303, Sept. 23, 1996, 110 Stat. 2854, 2855; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(1), 3403(c), Oct. 5, 1999, 113 Stat. 973, 974.
+Pub. L. 104–201, div. C, title XXXIII, §§3301, 3303, Sept. 23, 1996, 110 Stat. 2854, 2855; Pub. L. 106–65, div. C, title XXXIV, §§3402(f)(1), 3403(c), Oct. 5, 1999, 113 Stat. 973, 974; Pub. L. 107–107, div. C, title XXXIII, §3304(c), Dec. 28, 2001, 115 Stat. 1390.
 
 Pub. L. 103–337, div. C, title XXXIII, §3304, Oct. 5, 1994, 108 Stat. 3098.
 
@@ -120,7 +122,7 @@ Act June 28, 1947, ch. 159, 61 Stat. 190, as amended June 29, 1948, ch. 722, 62 
 
 #### Federal Facilities Corporation; Abolition and Dissolution of Reconstruction Finance Corporation and Federal Facilities Corporation
 
-Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, §6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, set out as a note under sections 1921 to 1929 of the Appendix to this title.
+Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in theAppendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, §6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, set out as a note under sections 1921 to 1929 of the Appendix to this title.
 
 #### Disposal of Government-Owned Tin Smelter at Texas City, Texas; Cancellation of Obligations
 

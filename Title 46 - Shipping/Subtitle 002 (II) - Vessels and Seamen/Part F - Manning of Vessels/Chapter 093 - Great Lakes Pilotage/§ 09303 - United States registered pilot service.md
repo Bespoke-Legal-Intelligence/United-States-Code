@@ -14,7 +14,7 @@
 
 (d) The Secretary may prescribe by regulation the conditions for service by United States registered pilots, including availability for service.
 
-(e) Subject to sections 551–559 of title 5, the Secretary may suspend or revoke a certificate of registration issued under this section if the holder fails to comply with a regulation prescribed under this chapter. Suspension or revocation of the holder's license under chapter 77of this title includes the holder's certificate of registration.
+(e) Subject to sections 551–559 of title 5, the Secretary may suspend or revoke a certificate of registration issued under this section if the holder fails to comply with a regulation prescribed under this chapter. Suspension or revocation of the holder's license under chapter 77 of this title includes the holder's certificate of registration.
 
 (f) The Secretary shall prescribe by regulation rates and charges for pilotage services, giving consideration to the public interest and the costs of providing the services.
 

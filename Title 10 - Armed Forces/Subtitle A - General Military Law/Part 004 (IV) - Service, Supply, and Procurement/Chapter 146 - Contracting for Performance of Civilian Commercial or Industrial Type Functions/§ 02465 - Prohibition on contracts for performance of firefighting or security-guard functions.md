@@ -1,6 +1,6 @@
 ### §2465. Prohibition on contracts for performance of firefighting or security-guard functions
 
-(a) Except as provided in subsection (b), funds appropriated to the Department of Defense may not be obligated or expended for the purpose of entering into a contract for the performance of firefighting or security-guard functions at any military installation or facility.
+(a) Except as provided in subsection (b), funds appropriated to the Department of Defense may not be obligated or expended for the purpose ofentering into a contract for the performance of firefighting or security-guard functions at any military installation or facility.
 
 (b) The prohibition in subsection (a) does not apply—
 
@@ -19,6 +19,22 @@
 1988—Pub. L. 100–370 renumbered section 2693 of this title as this section.
 
 1987—Pub. L. 100–180 inserted “or security-guard” before “functions” in section catchline and subsec. (a), and substituted “a function” for “the function” in subsec. (b)(1).
+
+#### Temporary Authority To Contract With Local and State Governments for Performance of Security Functions at United States Military Installations
+
+Pub. L. 107–56, title X, §1010, Oct. 26, 2001, 115 Stat. 395, provided that:
+
+“(a)
+
+In General.—Notwithstanding section 2465 of title 10, United States Code, during the period of time that United States armed forces are engaged in Operation Enduring Freedom, and for the period of 180 days thereafter, funds appropriated to the Department of Defense may be obligated and expended for the purpose of entering into contracts or other agreements for the performance of security functions at any military installation or facility in the United States with a proximately located local or State government, or combination of such governments, whether or not any such government is obligated to provide such services to the general public without compensation.
+
+“(b)
+
+Training.—Any contract or agreement entered into under this section shall prescribe standards for the training and other qualifications of local government law enforcement personnel who perform security functions under this section in accordance with criteria established by the Secretary of the service concerned.
+
+“(c)
+
+Report.—One year after the date of enactment of this section \[Oct. 26, 2001\], the Secretary of Defense shall submit a report to the Committees on Armed Services of the Senate and the House of Representatives describing the use of the authority granted under this section and the use by the Department of Defense of other means to improve the performance of security functions on military installations and facilities located within the United States.”
 
 #### Performance of Emergency Response Functions at Chemical Weapons Storage Installations
 

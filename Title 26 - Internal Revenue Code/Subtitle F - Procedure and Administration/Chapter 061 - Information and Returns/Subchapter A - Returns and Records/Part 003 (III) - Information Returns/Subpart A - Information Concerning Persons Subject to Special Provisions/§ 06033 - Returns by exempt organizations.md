@@ -138,7 +138,7 @@ The following organizations shall comply with the requirements of this section i
 
 #### (ii) Special rule for in-house expenditures
 
-&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning of section 162(e)(5)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
+&emsp;&emsp;&emsp;This subsection shall not apply to the in-house expenditures (within the meaning ofsection 162(e)(5)(B)(ii)) of an organization for a taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in subparagraphs (A) and (D) of section 162(e)(1).
 
 #### (iii) Coordination with section 527(f)
 
@@ -208,7 +208,7 @@ In the case of a political organization required to file a return under section 
 
 #### Adjustment of Exception Amount for Reporting Exception for Certain Exempt Organizations
 
-<i>For adjustment of limitation amount for tax years beginning in 2001 for determining applicability of subsec. (e)(3) of this section to certain exempt organizations, see section 3.21 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation amount for tax years beginning in 2002 for determining applicability of subsec. (e)(3) of this section to certain exempt organizations, see section 3.23 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -302,7 +302,7 @@ Section 1(f) of Pub. L. 96–603 provided that: “The amendments made by this s
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1307(a)(4) of Pub. L. 94–455 effective on or after Oct. 4, 1976, see section 1307(e)(6) of Pub. L. 94–455, set out as a note under section 501 of this title.
+Amendment by section 1307(a)(4) of Pub. L. 94–455 effective on or after Oct. 4, 1976, see section 1307(e)(6) ofPub. L. 94–455, set out as a note under section 501 of this title.
 
 #### Effective Date of 1974 Amendment
 

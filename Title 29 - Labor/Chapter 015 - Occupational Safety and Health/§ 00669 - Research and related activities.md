@@ -4,7 +4,7 @@
 
 (1) The Secretary of Health and Human Services, after consultation with the Secretary and with other appropriate Federal departments or agencies, shall conduct (directly or by grants or contracts) research, experiments, and demonstrations relating to occupational safety and health, including studies of psychological factors involved, and relating to innovative methods, techniques, and approaches for dealing with occupational safety and health problems.
 
-(2) The Secretary of Health and Human Services shall from time to time consult with the Secretary in order to develop specific plans for such research, demonstrations, and experiments as are necessary to produce criteria, including criteria identifying toxic substances, enabling the Secretary to meet his responsibility for the formulation of safety and health standards under this chapter; and the Secretary of Health and Human Services, on the basis of such research, demonstrations, and experiments and any other information available to him, shall develop and publish at least annually such criteria as will effectuate the purposes of this chapter.
+(2) The Secretary of Health and Human Services shall from time to time consult with the Secretary in order to develop specific plans for such research, demonstrations, and experiments as are necessary to produce criteria, including criteria identifying toxic substances, enabling the Secretary to meet his responsibility for the formulation of safety and health standards under this chapter; and the Secretary of Health and Human Services, on the basis of such research, demonstrations, and experiments andany other information available to him, shall develop and publish at least annually such criteria as will effectuate the purposes of this chapter.
 
 (3) The Secretary of Health and Human Services, on the basis of such research, demonstrations, and experiments, and any other information available to him, shall develop criteria dealing with toxic materials and harmful physical agents and substances which will describe exposure levels that are safe for various periods of employment, including but not limited to the exposure levels at which no employee will suffer impaired health or functional capacities or diminished life expectancy as a result of his work experience.
 
@@ -36,7 +36,7 @@ The functions of the Secretary of Health and Human Services under this chapter s
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88which is classified to section 3508(b) of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

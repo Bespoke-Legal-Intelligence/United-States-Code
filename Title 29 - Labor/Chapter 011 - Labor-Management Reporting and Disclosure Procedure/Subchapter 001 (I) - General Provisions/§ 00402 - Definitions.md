@@ -44,7 +44,7 @@ For the purposes of this chapter—
 
 (p) “Secretary” means the Secretary of Labor.
 
-(q) “Officer, agent, shop steward, or other representative,” when used with respect to a labor organization, includes elected officials and key administrative personnel, whether elected or appointed (such as business agents, heads of departments or major units, and organizers who exercise substantial independent authority), but does not include salaried nonsupervisory professional staff, stenographic, and service personnel.
+(q) “Officer, agent, shop steward, or other representative”, when used with respect to a labor organization, includes elected officials and key administrative personnel, whether elected or appointed (such as business agents, heads of departments or major units, and organizers who exercise substantial independent authority), but does not include salaried nonsupervisory professional staff, stenographic, and service personnel.
 
 (r) “District court of the United States” means a United States district court and a United States court of any place subject to the jurisdiction of the United States.
 

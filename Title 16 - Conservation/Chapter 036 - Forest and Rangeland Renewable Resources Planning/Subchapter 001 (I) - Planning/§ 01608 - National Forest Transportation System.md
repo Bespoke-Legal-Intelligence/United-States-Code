@@ -46,7 +46,7 @@ Pub. L. 105–174, title III, §3006, May 1, 1998, 112 Stat. 85, provided that:
 
 &emsp;“(ii) are not offset by revenues received in such fiscal years from substitute projects authorized pursuant to subsection (b)(1).
 
-“(B) After reporting the amount of funds required to make any payments required by subsection (b)(2)(A),and the source from which such funds are to be derived, to the Committees on Appropriations of the House of Representatives and the Senate, the Chief shall make any payments required by subsection (b)(2)(A) from any funds available to the Forest Service in fiscal year 1998 or fiscal year 1999, subject to approval of the Committees on Appropriations of the House of Representatives and the Senate, that are not specifically earmarked for another purpose by the applicable appropriation Act or a committee or conference report thereon.
+“(B) After reporting the amount of funds required to make any payments required by subsection (b)(2)(A), and the source from which such funds are to be derived, to the Committees on Appropriations of the House of Representatives and the Senate, the Chief shall make any payments required by subsection (b)(2)(A) from any funds available to the Forest Service in fiscal year 1998 or fiscal year 1999, subject to approval of the Committees on Appropriations of the House of Representatives and the Senate, that are not specifically earmarked for another purpose by the applicable appropriation Act or a committee or conference report thereon.
 
 “(C) Any State which receives payments required by subsection (b)(2)(A) shall expend such funds only in the manner, and for the purposes, prescribed in section 500 of title 16, United States Code.
 

@@ -28,7 +28,7 @@ Security for Advance Payments.—Advance payments made under subsection (a) may 
 
 (e)
 
-Conditions for Progress Payments.—(1) The Secretary of Defense shall ensure that any payment for work in progress (including materials, labor, and other items) under a defense contract that provides for such payments is commensurate with the work accomplished that meets standards established under the contract. The contractor shall provide such information and evidence as the Secretary of Defense determines necessary to permit the Secretary to carry out the preceding sentence.
+Conditions for Progress Payments.—(1) The Secretary of Defense shall ensure that any payment for work in progress (including materials, labor, and other items) under a defense contract that provides for such payments is commensurate with the work accomplished thatmeets standards established under the contract. The contractor shall provide such information and evidence as the Secretary of Defense determines necessary to permit the Secretary to carry out the preceding sentence.
 
 (2) The Secretary shall ensure that progress payments referred to in paragraph (1) are not made for more than 80 percent of the work accomplished under a defense contract so long as the Secretary has not made the contractual terms, specifications, and price definite.
 
@@ -82,7 +82,7 @@ Action in Case of Fraud.—(1) In any case in which the remedy coordination offi
 
 (9) The head of an agency may not delegate responsibilities under this subsection to any person in a position below level IV of the Executive Schedule.
 
-(10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigations of fraud or corruption related to procurement activities.
+(10) In this subsection, the term “remedy coordination official”, with respect to an agency, means the person or entity in that agency who coordinates within that agency the administration of criminal, civil, administrative, and contractual remedies resulting from investigationsof fraud or corruption related to procurement activities.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, §9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 93–155, title VIII, §807(c), Nov. 16, 1973, 87 Stat. 616; Pub. L. 100–370, §1(f)(1)(A), July 19, 1988, 102 Stat. 846; Pub. L. 101–510, div. A, title VIII, §836(a), (b), title XIII, §1322(a)(4), Nov. 5, 1990, 104 Stat. 1615, 1616, 1671; Pub. L. 102–25, title VII, §701(d)(4), (j)(2)(A), Apr. 6, 1991, 105 Stat. 114, 116; Pub. L. 102–190, div. A, title X, §1061(a)(10), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title X, §1052(24), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title II, §2001(a)–(g), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 105–85, div. A, title VIII, §802, Nov. 18, 1997, 111 Stat. 1831; Pub. L. 106–391, title III, §306, Oct. 30, 2000, 114 Stat. 1592.)
 
@@ -170,7 +170,7 @@ Subsec. (f). Pub. L. 102–190, which directed the substitution of “(1)” for
 
 Pub. L. 102–25, §701(j)(2)(A), redesignated subsec. (f) as (e).
 
-1990—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of theCongress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
+1990—Subsec. (d). Pub. L. 101–510, §1322(a)(4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “Payments under subsection (a) in the case of any contract, other than partial, progress, or other payments specifically provided for in such contract at the time such contract was initially entered into, may not exceed $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives have been notified in writing of such proposed payments and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees and neither House of Congress has adopted, within such 60-day period, a resolution disapproving such payments. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period.”
 
 Subsec. (e). Pub. L. 101–510, §1322(a)(4)(B), redesignated subsec. (e) as (d).
 
@@ -190,7 +190,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1990 Amendment
 
-Section 836(c) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §701(j)(2)(B), Apr. 6, 1991, 105 Stat. 116, provided that: “The provisions of section 2307 of title 10, United States Code, that are added by the amendments made by subsections (a) and (b) shall apply with respect to contracts entered into on or after May 6, 1991.”
+Section 836(c) of Pub. L. 101–510, as amended by Pub. L. 102–25, title VII, §701(j)(2)(B), Apr. 6, 1991, 105 Stat. 116, provided that: “The provisions of section 2307 oftitle 10, United States Code, that are added by the amendments made by subsections (a) and (b) shall apply with respect to contracts entered into on or after May 6, 1991.”
 
 #### Relationship of 1994 Amendment to Prompt Payment Requirements
 

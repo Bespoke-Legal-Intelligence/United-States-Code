@@ -18,7 +18,7 @@ The Congress finds that—
 
 For purposes of this section—
 
-&emsp;(1) the terms “driftnet” and “driftnet fishing” have the meanings given those terms insection 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note);
+&emsp;(1) the terms “driftnet” and “driftnet fishing” have the meanings given those terms in section 4003 of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (16 U.S.C. 1822 note);
 
 &emsp;(2) the term “eastern tropical Pacific Ocean” means the area of the Pacific Ocean bounded by 40 degrees north latitude, 40 degrees south latitude, 160 degrees west longitude, and the western coastlines of North, Central, and South America;
 
@@ -108,7 +108,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 (1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the research conducted before March 1, 1999, under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
-(2) Between July 1, 2001, and December 31, 2002, the Secretary shall, on the basis of the completed study conducted under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make a finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
+(2) Between July 1, 2001, and December 31, 2002, the Secretary shall, on the basis of the completed study conducted under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make a finding regarding whether the intentional deploymenton or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
 #### (h) Certification by captain and observer
 
@@ -118,7 +118,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 &emsp;(A) before the effective date of the initial finding by the Secretary under subsection (g)(1) of this section;
 
-&emsp;(B) after the effective date of such initial finding and before the effective date of the finding of the Secretary under subsection (g)(2) of this section, where the initial finding is that the intentional deployment on or encirclement of dolphins is having a significantadverse impact on any depleted dolphin stock; or
+&emsp;(B) after the effective date of such initial finding and before the effective date of the finding of the Secretary under subsection (g)(2) of this section, where the initial finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any depleted dolphin stock; or
 
 &emsp;(C) after the effective date of the finding under subsection (g)(2) of this section, where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
 

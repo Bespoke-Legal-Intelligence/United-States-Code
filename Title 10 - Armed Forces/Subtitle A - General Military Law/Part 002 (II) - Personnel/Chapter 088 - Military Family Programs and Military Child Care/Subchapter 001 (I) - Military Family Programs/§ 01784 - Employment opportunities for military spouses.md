@@ -24,7 +24,31 @@ Regulations.—The Secretary of Defense shall prescribe regulations—
 
 Status of Preference Eligibles.—Nothing in this section shall be construed to provide a spouse of a member of the armed forces with preference in hiring over an individual who is a preference eligible.
 
-(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330.)
+(d)
+
+Space-Available Use of Facilities for Spouse Training Purposes.—Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may make available to a non-Department of Defense entity space in non-excess facilities controlled by that Secretary for the purpose of the non-Department of Defense entity providing employment-related training for military spouses.
+
+(e)
+
+Employment by Other Federal Agencies.—The Secretary of Defense shall work with the Director of the Office of Personnel Management and the heads of other Federal departments and agencies to expand and facilitate the use of existing Federal programs and resources in support of military spouse employment.
+
+(f)
+
+Private-Sector Employment.—The Secretary of Defense—
+
+&emsp;(1) shall seek to develop partnerships with firms in the private sector to enhance employment opportunities for spouses of members of the armed forces and to provide for improved job portability for such spouses, especially in the case of the spouse of a member of the armed forces accompanying the member to a new geographical area because of a change of permanent duty station of the member; and
+
+&emsp;(2) shall work with the United States Chamber of Commerce and other appropriate private-sector entities to facilitate the formation of such partnerships.
+
+(g)
+
+Employment With DOD Contractors.—The Secretary of Defense shall examine and seek ways for incorporating hiring preferences for qualified spouses of members of the armed forces into contracts between the Department of Defense and private-sector entities.
+
+(Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 107–107, div. A, title V, §571(c), Dec. 28, 2001, 115 Stat. 1121.)
+
+#### Amendments
+
+2001—Subsecs. (d) to (g). Pub. L. 107–107 added subsecs. (d) to (g).
 
 #### Continuation of Delegation of Authority With Respect to Hiring Preference for Qualified Military Spouses
 

@@ -6,7 +6,7 @@ Application.—This section applies only to States that have rail fixed guideway
 
 (b)
 
-General Authority.—The Secretary of Transportation may withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under section 5307 of this title for a fiscal year beginning after September 30, 1994, if the State in the prior fiscal year has not met the requirements of subsection (c) of this section and the Secretary decides the State is notmaking an adequate effort to comply with subsection (c).
+General Authority.—The Secretary of Transportation may withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under section 5307 of this title for a fiscal year beginning after September 30, 1994, if the State in the prior fiscal year has not met the requirements of subsection (c) of this section and the Secretary decides the State is not making an adequate effort to comply with subsection (c).
 
 (c)
 

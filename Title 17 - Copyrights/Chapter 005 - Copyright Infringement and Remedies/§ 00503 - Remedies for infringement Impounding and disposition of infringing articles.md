@@ -2,7 +2,7 @@
 
 (a) At any time while an action under this title is pending, the court may order the impounding, on such terms as it may deem reasonable, of all copies or phonorecords claimed to have been made or used in violation of the copyright owner's exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.
 
-(b) As part of a final judgment or decree, the court may order the destruction or other reasonable disposition of all copies or phonorecords found to have been made or used in violation ofthe copyright owner's exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.
+(b) As part of a final judgment or decree, the court may order the destruction or other reasonable disposition of all copies or phonorecords found to have been made or used in violation of the copyright owner's exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2585.)
 

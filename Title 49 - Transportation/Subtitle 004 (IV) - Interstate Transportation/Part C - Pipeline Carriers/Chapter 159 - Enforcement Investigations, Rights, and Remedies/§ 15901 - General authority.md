@@ -10,7 +10,7 @@ Complaint.—A person, including a governmental authority, may file with the Boa
 
 (c)
 
-Automatic Dismissal.—A formal investigative proceeding begun by the Board under subsection (a) is dismissed automatically unless it is concluded by the Board with administrative finality by the end of the 3d year after the date on which it was begun.
+Automatic Dismissal.—A formal investigative proceeding begun by the Board under subsection (a) is dismissed automatically unless itis concluded by the Board with administrative finality by the end of the 3d year after the date on which it was begun.
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 926.)
 

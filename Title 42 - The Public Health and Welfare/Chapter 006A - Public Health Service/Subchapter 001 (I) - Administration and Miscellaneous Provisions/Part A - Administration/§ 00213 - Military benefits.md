@@ -22,7 +22,7 @@ The authority vested by law in the Department of the Army, the Secretary of the 
 
 #### (d) Active service deemed active military service with respect to laws administered by Secretary of Veterans Affairs
 
-Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all laws administered by the Secretary of Veterans Affairs (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
+Active service of commissioned officers of the Service shall be deemed to be active militaryservice in the Armed Forces of the United States for the purposes of all laws administered by the Secretary of Veterans Affairs (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
 
 #### (e) Active service deemed active military service with respect to Soldiers’ and Sailors’ Civil Relief Act of 1940
 
@@ -36,7 +36,7 @@ Active service of commissioned officers of the Service shall be deemed to be act
 
 #### References in Text
 
-The Servicemen's Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat.33, which was classified generally to subchapter II (§851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 873, title V, §502(9), 70 Stat. 886.
+The Servicemen's Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, which was classified generally to subchapter II (§851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 873, title V, §502(9), 70 Stat. 886.
 
 The Soldiers’ and Sailors’ Civil Relief Act of 1940, referred to in subsec. (e), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
 
@@ -96,5 +96,5 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 213a, 215, 218a of this title; title 26 section 139.
+This section is referred to in sections 213a, 215, 218a of this title; title 26 section 140.
 

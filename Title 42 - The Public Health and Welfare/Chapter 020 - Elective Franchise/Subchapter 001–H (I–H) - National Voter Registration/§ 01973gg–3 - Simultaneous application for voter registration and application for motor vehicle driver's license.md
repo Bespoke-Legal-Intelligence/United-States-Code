@@ -48,7 +48,7 @@ Any change of address form submitted in accordance with State law for purposes o
 
 #### (e) Transmittal deadline
 
-(1) Subject to paragraph (2), a completed voter registration portion of an application for a State motor vehicle driver's license accepted ata State motor vehicle authority shall be transmitted to the appropriate State election official not later than 10 days after the date of acceptance.
+(1) Subject to paragraph (2), a completed voter registration portion of an application for a State motor vehicle driver's license accepted at a State motor vehicle authority shall be transmitted to the appropriate State election official not later than 10 days after the date of acceptance.
 
 (2) If a registration application is accepted within 5 days before the last day for registration to vote in an election, the application shall be transmitted to the appropriate State election official not later than 5 days after the date of acceptance.
 

@@ -16,3 +16,7 @@ It is the sense of the Congress that—
 
 The Buy American Act, referred to in par. (1), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, as amended, which is classified generally to sections 10a, 10b, and 10c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 10a of Title 41 and Tables.
 
+#### Codification
+
+Another section 1022 of Pub. L. 103–227 is classified to section 6055a of this title.
+

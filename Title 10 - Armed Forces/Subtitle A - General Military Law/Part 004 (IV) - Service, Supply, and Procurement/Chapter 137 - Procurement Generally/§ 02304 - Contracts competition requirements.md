@@ -176,7 +176,7 @@
 
 (k)(1) It is the policy of Congress that an agency named in section 2303(a) of this title should not be required by legislation to award a new contract to a specific non-Federal Government entity. It is further the policy of Congress that any program, project, or technology identified in legislation be procured through merit-based selection procedures.
 
-(2) A provision of law may not be construed as requiring a new contract to be awarded to a specified non-Federal Government entity unless that provision of law—
+(2) A provision of law may not be construed as requiring a new contract to be awarded to aspecified non-Federal Government entity unless that provision of law—
 
 &emsp;(A) specifically refers to this subsection;
 
@@ -186,9 +186,9 @@
 
 (3) For purposes of this subsection, a contract is a new contract unless the work provided for in the contract is a continuation of the work performed by the specified entity under a preceding contract.
 
-(4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agencynamed in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
+(4) This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 2303(a) of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–800, §8, Aug. 28, 1958, 72 Stat. 967; Pub. L. 85–861, §33(a)(12), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–653, §1(a)–(c), Sept. 10, 1962, 76 Stat. 528; Pub. L. 90–268, §5, Mar. 16, 1968, 82 Stat. 50; Pub. L. 90–500, title IV, §405, Sept. 20, 1968, 82 Stat. 851; Pub. L. 93–356, §4, July 25, 1974, 88 Stat. 390; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–86, title IX, §907(a), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–295, §1(24), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 97–375, title I, §114, Dec. 21, 1982, 96 Stat. 1821; Pub. L. 98–369, div. B, title VII, §§2723(a), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(1), (2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, §961(a)(1), title XIII, §1303(a)(13), Nov. 8, 1985, 99 Stat. 703, 739; Pub. L. 99–500, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–152, 1783–155, and Pub. L. 99–591, §101(c) \[title X, §§923(a)–(c), 927(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–152, 3341–155; Pub. L. 99–661, div. A, title IX, formerly title IV, §§923(a)–(c), 927(a), title XIII, §1343(a)(14), Nov. 14, 1986, 100 Stat. 3932, 3935, 3993, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §7(d)(3), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–456, div. A, title VIII, §803, Sept. 29, 1988, 102 Stat. 2008; Pub. L. 101–189, div. A, title VIII, §§812, 817, 818, 853(d), Nov. 29, 1989, 103 Stat. 1493, 1501, 1502, 1519; Pub. L. 101–510, div. A, title VIII, §806(b), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–25, title VII, §701(d)(2), Apr. 6, 1991, 105 Stat. 114; Pub. L. 102–484, div. A, title VIII, §§801(h)(2), 816, title X, §1052(23), Oct. 23, 1992, 106 Stat. 2445, 2454, 2500; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title I, §§1001–1003, 1004(b), 1005, title IV, §4401(a), title VII, §7203(a)(1), Oct. 13, 1994, 108 Stat. 3249, 3253, 3254, 3347, 3379; Pub. L. 104–106, div. D, title XLI, §§4101(a), 4102(a), title XLII, §4202(a)(1), title XLIII, §4321(b)(4), (5), Feb. 10, 1996, 110 Stat. 642, 643, 652, 672; Pub. L. 104–320, §§7(a)(1), 11(c)(1), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 105–85, div. A, title VIII, §§841(b), 850(f)(3)(B), title X, §1073(a)(42), (43), Nov. 18, 1997, 111 Stat. 1843, 1850, 1902; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
 
 Historical and Revision Notes<br>1956
 
@@ -292,7 +292,7 @@ In subsection (i)(1)(B), the words “or States” are omitted because of 1:1.
 
 #### References in Text
 
-The Javits-Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
+The Javits-Wagner-O'Day Act, referred to in subsec. (f)(2)(D), is act June 25, 1938, ch. 697, 52 Stat. 1196, asamended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 The Walsh-Healey Act, referred to in subsec. (h)(1), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 et seq. of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
 
@@ -304,7 +304,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-1999—Subsec. (f)(1)(B)(iii), (6)(B). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition,Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+2001—Subsec. (f)(1)(B)(iii), (6)(B). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1997—Subsec. (c)(5). Pub. L. 105–85, §1073(a)(42), substituted “subsection (k)” for “subsection (j)”.
 
@@ -518,6 +518,60 @@ Repeal of prior subsec. (j) of this section by section 1004(b) of Pub. L. 103–
 
 Section 2723(c) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending this section and section 2305 of this title\] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
 
+#### Competition Requirement for Purchase of Services Pursuant to Multiple Award Contracts
+
+Pub. L. 107–107, div. A, title VIII, §803, Dec. 28, 2001, 115 Stat. 1178, provided that:
+
+“(a)
+
+Regulations Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of Defense shall promulgate in the Department of Defense Supplement to the Federal Acquisition Regulation regulations requiring competition in the purchase of services by the Department of Defense pursuant to multiple award contracts.
+
+“(b)
+
+Content of Regulations.—(1) The regulations required by subsection (a) shall provide, at a minimum, that each individual purchase of services in excess of $100,000 that is made under a multiple award contract shall be made on a competitive basis unless a contracting officer of the Department of Defense—
+
+&emsp;“(A) waives the requirement on the basis of a determination that—
+
+&emsp;&emsp;“(i) one of the circumstances described in paragraphs (1) through (4) of section 2304c(b) of title 10, United States Code, applies to such individual purchase; or
+
+&emsp;&emsp;“(ii) a statute expressly authorizes or requires that the purchase be made from a specified source; and
+
+&emsp;“(B) justifies the determination in writing.
+
+“(2) For purposes of this subsection, an individual purchase of services is made on a competitive basis only if it is made pursuant to procedures that—
+
+&emsp;“(A) require fair notice of the intent to make that purchase (including a description of the work to be performed and the basis on which the selection will be made) to be provided to all contractors offering such services under the multiple award contract; and
+
+&emsp;“(B) afford all contractors responding to the notice a fair opportunity to make an offer and have that offer fairly considered by the official making the purchase.
+
+“(3) Notwithstanding paragraph (2), notice may be provided to fewer than all contractors offering such services under a multiple award contract described in subsection (c)(2)(A) if notice is provided to as many contractors as practicable.
+
+“(4) A purchase may not be made pursuant to a notice that is provided to fewer than all contractors under paragraph (3) unless—
+
+&emsp;“(A) offers were received from at least three qualified contractors; or
+
+&emsp;“(B) a contracting officer of the Department of Defense determines in writing that no additional qualified contractors were able to be identified despite reasonable efforts to do so.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘individual purchase’ means a task order, delivery order, or other purchase.
+
+&emsp;“(2) The term ‘multiple award contract’ means—
+
+&emsp;&emsp;“(A) a contract that is entered into by the Administrator of General Services under the multiple award schedule program referred to in section 2302(2)(C) of title 10, United States Code;
+
+&emsp;&emsp;“(B) a multiple award task order contract that is entered into under the authority of sections 2304a through 2304d of title 10, United States Code, or sections 303H through 303K of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253h through 253k); and
+
+&emsp;&emsp;“(C) any other indefinite delivery, indefinite quantity contract that is entered into by the head of a Federal agency with two or more sources pursuant to the same solicitation.
+
+&emsp;“(3) The term ‘Defense Agency’ has the meaning given that term in section 101(a)(11) of title 10, United States Code.
+
+“(d)
+
+Applicability.—The regulations promulgated by the Secretary pursuant to subsection (a) shall take effect not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\] and shall apply to all individual purchases of services that are made under multiple award contracts on or after the effective date, without regard to whether the multiple award contracts were entered into before, on, or after such effective date.”
+
 #### Requirement To Disregard Certain Agreements in Awarding Contracts for Purchase of Firearms or Ammunition
 
 Pub. L. 106–398, §1 \[\[div. A\], title VIII, §826\], Oct. 30, 2000, 114 Stat. 1654, 1654A–220, provided that: “In accordance with the requirements contained in the amendments enacted in the Competition in Contracting Act of 1984 (title VII of division B of Public Law 98–369; 98 Stat. 1175) \[see Short Title of 1984 Amendments note set out under section 251 of Title 41, Public Contracts\], the Secretary of Defense may not, in awarding a contract for the purchase of firearms or ammunition, take into account whether a manufacturer or vendor of firearms or ammunition is a party to an agreement under which the manufacturer or vendor agrees to adopt limitations with respect to importing, manufacturing, or dealing in firearms or ammunition in the commercial market.”
@@ -544,7 +598,7 @@ Conventional Ammunition Defined.—For purposes of this section, the term ‘con
 
 #### Warranty Claims Recovery Pilot Program
 
-Section 391 of Pub. L. 105–85, as amended by Pub. L. 106–65, div. A, title III, §382, Oct. 5, 1999, 113 Stat. 583, provided that:
+Pub. L. 105–85, div. A, title III, §391, Nov. 18, 1997, 111 Stat. 1716, as amended by Pub. L. 106–65, div. A, title III, §382, Oct. 5, 1999, 113 Stat. 583; Pub. L. 107–107, div. A, title III, §364, Dec. 28, 2001, 115 Stat. 1068, provided that:
 
 “(a)
 
@@ -576,11 +630,11 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 “(f)
 
-Termination of Authority.—The pilot program shall terminate on September 30, 2000, and contracts entered into under this section shall terminate not later than that date.
+Termination of Authority.—The pilot program shall terminate on September 30, 2003, and contracts entered into under this section shall terminate not later than that date.
 
 “(g)
 
-Reporting Requirements.—(1) Not later than January 1, 2001, the Secretary of Defense shall submit to Congress a report on the pilot program. The report shall include the following:
+Reporting Requirements.—(1) Not later than January 1, 2003, the Secretary of Defense shall submitto Congress a report on the pilot program. The report shall include the following:
 
 &emsp;“(A) The number of contracts entered into under the program.
 
@@ -588,7 +642,7 @@ Reporting Requirements.—(1) Not later than January 1, 2001, the Secretary of D
 
 &emsp;“(C) Any additional comments and recommendations that the Secretary considers appropriate regarding use of commercial sources of services for collection of Department of Defense claims under aircraft engine warranties.
 
-“(2) Not later than March 1, 2001, the Comptroller General shall submit to Congress a report containing the results of a review by the Comptroller General of the pilot program. In the review, the Comptroller General shall—
+“(2) Not later than March 1, 2003, the Comptroller General shall submit to Congress a report containing the results of a review by the Comptroller General of the pilot program. In the review, the Comptroller General shall—
 
 &emsp;“(A) assess the success of the methods used in the demonstration program to identify and recover Department of Defense claims under aircraft engine warranties;
 
@@ -638,7 +692,7 @@ Definitions.—In this section:
 
 #### Termination of Authority To Issue Solicitations for Purchases of Commercial Items in Excess of Simplified Acquisition Threshold
 
-Section 4202(e) of Pub. L. 104–106, as amended by Pub. L. 106–65, div. A, title VIII, §806(a), Oct. 5, 1999, 113 Stat. 705, provided that: “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by section 2304(g)(1) of title 10, United States Code, section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253(g)(1)\], and section 31(a) of the Office of Federal Procurement Policy Act \[41 U.S.C. 427(a)\], as amended by this section, shall expire January 1, 2002. Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
+Pub. L. 104–106, div. D, title XLII, §4202(e), Feb. 10, 1996, 110 Stat. 654, as amended by Pub. L. 106–65, div. A, title VIII, §806(a), Oct. 5, 1999, 113 Stat. 705; Pub. L. 107–107, div. A, title VIII, §823, Dec. 28, 2001, 115 Stat. 1183, provided that: “The authority to issue solicitations for purchases of commercial items in excess of the simplified acquisition threshold pursuant to the special simplified procedures authorized by section 2304(g)(1) of title 10, United States Code, section 303(g)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 253(g)(1)\], and section 31(a) of the Office of Federal Procurement Policy Act \[41 U.S.C. 427(a)\], as amended by this section, shall expire January 1, 2003. Contracts may be awarded pursuant to solicitations that have been issued before such authority expires, notwithstanding the expiration of such authority.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -674,7 +728,7 @@ Termination of Authority.—The authority provided for commanders of military in
 
 #### Evaluation of Contracts for Professional and Technical Services
 
-Section 804 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, directed Secretary of Defense, within 120 days after Sept. 29, 1988, to establish criteria to ensure that proposals for contracts for professional and technical services be evaluated on a basis which does not encourage contractors to propose mandatory uncompensated overtime for professional and technical employees and, within 30 days after Sept. 29, 1988, to establish an advisory committee to make recommendations on the criteria.
+Section 804 of Pub. L. 100–456, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729, directed Secretary of Defense, within 120 daysafter Sept. 29, 1988, to establish criteria to ensure that proposals for contracts for professional and technical services be evaluated on a basis which does not encourage contractors to propose mandatory uncompensated overtime for professional and technical employees and, within 30 days after Sept. 29, 1988, to establish an advisory committee to make recommendations on the criteria.
 
 #### Regulations On Use of Fixed-Price Development Contracts
 
@@ -742,7 +796,7 @@ Section 1223 of Pub. L. 99–661, which required Secretary to contract for Depar
 
 #### Reports on Savings or Costs From Increased Use of Civilian Personnel
 
-Section 1224 of Pub. L. 99–661, which required Secretary to maintain cost comparison data on performance of a commercial or industrial type activity takenover by Department of Defense comparing performance by employees of private contractor to that of civilian employees of Department of Defense, and to submit semi-annual report on savings or loss to United States, was repealed and restated in section 2463 of this title by Pub. L. 100–370, §2(a)(1), (c)(3), July 19, 1988, 102 Stat. 853, 854.
+Section 1224 of Pub. L. 99–661, which required Secretary to maintain cost comparison data on performance of a commercial or industrial type activity taken over by Department of Defense comparing performance by employees of private contractor to that of civilian employees of Department of Defense, and to submit semi-annual report on savings or loss to United States, was repealed and restated in section 2463 of this title by Pub. L. 100–370, §2(a)(1), (c)(3), July 19, 1988, 102 Stat. 853, 854.
 
 #### Limitations on Contracting Performed by Coast Guard
 
@@ -812,7 +866,7 @@ Pub. L. 99–145, title XII, §1233, Nov. 8, 1985, 99 Stat. 734, related to serv
 
 #### Limitation on Contracting-Out Core Logistics Functions
 
-Section 1231(a)–(e) of Pub. L. 99–145 declared that certain specifically described functions of the Department of Defense shall be deemed logistics activities necessary to maintain the logistics capability described in section 307(a)(1) of Pub. L. 98–525, formerly set out below; contained a description of the functions, i.e., depot-level maintenance of mission-essential materiel at specifically located activities of the Army, theNavy, the Marine Corps, the Air Force, the Defense Logistics Agency, and the Defense Mapping Agency; included certain matters within the specified functions and excluded certain functions; and defined “mission-essential materiel” as related to such functions.
+Section 1231(a)–(e) of Pub. L. 99–145 declared that certain specifically described functions of the Department of Defense shall be deemed logistics activities necessary to maintain the logistics capability described in section 307(a)(1) of Pub. L. 98–525, formerly set out below; contained a description of the functions, i.e., depot-level maintenance of mission-essential materiel at specifically located activities of the Army, the Navy, the Marine Corps, the Air Force, the Defense Logistics Agency, and the Defense Mapping Agency; included certain matters within the specified functions and excluded certain functions; and defined “mission-essential materiel” as related to such functions.
 
 Section 307 of Pub. L. 98–525, as amended by Pub. L. 99–145, title XII, §1231(f), Nov. 8, 1985, 99 Stat. 733, which prohibited contracting to non-Government personnel of logistics activities necessary for effective response to national emergencies unless Secretary waives such prohibition after a determination that Government performance of such activity is no longer required for national defense reasons, and reports to Congress on waiver, was repealed and restated in section 2464 of this title by Pub. L. 100–370, §2(a)(1), (c)(2), July 19, 1988, 102 Stat. 853, 854.
 
@@ -874,5 +928,5 @@ Provisions of the National Emergencies Act not applicable to the powers and auth
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1091, 1724, 2304a, 2304b, 2304c, 2343, 2350b, 2361, 2469a, 2486, 2688, 4554 of this title; title 15 section 637; title 41 sections 416, 417, 427; title 50 sections 403c, 1432, 1651; title 50 App. section 2077.
+This section is referred to in sections 1091, 1724, 2304a, 2304b, 2304c, 2343, 2350b, 2361, 2469a, 2486, 2533a, 2688, 4554 of this title; title 15 section 637; title 41 sections 416, 417, 427; title 50 sections 403c, 1432, 1651; title 50 App. section 2077.
 

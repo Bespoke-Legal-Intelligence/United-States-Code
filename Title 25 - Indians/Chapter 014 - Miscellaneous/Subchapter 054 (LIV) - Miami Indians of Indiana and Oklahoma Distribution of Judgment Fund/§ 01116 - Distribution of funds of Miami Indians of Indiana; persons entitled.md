@@ -6,7 +6,7 @@ The funds on deposit in the Treasury of the United States to the credit of the M
 
 #### References in Text
 
-Act of September 30, 1961, referred to in text, is act Sept. 30, 1961, Pub. L. 87–322, 75 Stat. 747. That portion of the act which appropriated the funds referred to was not classified to the Code.
+Act of September 30, 1961, referred to in text, is act Sept. 30, 1961, Pub. L. 87–322, 75 Stat. 747. That portionof the act which appropriated the funds referred to was not classified to the Code.
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 

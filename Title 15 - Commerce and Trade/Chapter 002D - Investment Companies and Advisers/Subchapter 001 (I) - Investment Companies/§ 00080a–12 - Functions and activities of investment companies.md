@@ -34,7 +34,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;(ii) more than 10 per centum of the total outstanding voting stock of the acquired company is owned by the acquiring company and other investment companies and companies controlled by them.
 
-(C) It shall be unlawful for any investment company (the “acquiring company”) and any company or companies controlled by the acquiring company to purchase or otherwise acquire any security issued by a registered closed-end investment company, if immediately after such purchase or acquisition the acquiring company, other investment companies having the same investment adviser, and companies controlled by such investment companies, own more than 10 per centum of the total outstanding voting stock of such closed-end company.
+(C) It shall be unlawful for any investment company (the “acquiring company”) and anycompany or companies controlled by the acquiring company to purchase or otherwise acquire any security issued by a registered closed-end investment company, if immediately after such purchase or acquisition the acquiring company, other investment companies having the same investment adviser, and companies controlled by such investment companies, own more than 10 per centum of the total outstanding voting stock of such closed-end company.
 
 (D) The provisions of this paragraph shall not apply to a security received as a dividend or as a result of an offer of exchange approved pursuant to section 80a–11 of this title or of a plan of reorganization of any company (other than a plan devised for the purpose of evading the foregoing provisions).
 

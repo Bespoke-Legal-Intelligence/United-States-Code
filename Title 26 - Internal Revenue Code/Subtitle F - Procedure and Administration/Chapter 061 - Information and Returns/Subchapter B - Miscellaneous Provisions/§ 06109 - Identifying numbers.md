@@ -52,7 +52,7 @@ The social security account number issued to an individual for purposes of secti
 
 #### (B) Safeguards
 
-&emsp;&emsp;The Secretary of Agriculture, and the head of any other agency or instrumentality referred to in subparagraph (A), shall restrict, to the satisfaction of the Secretary of the Treasury, access to employer identification numbers obtained pursuant to this subsection only to officers and employees of the United States whose duties or responsibilities require access for the purposes described in subparagraph (A). The Secretary of Agriculture, and the head of any agency or instrumentality with which informationis shared pursuant to subparagraph (A), shall provide such other safeguards as the Secretary of the Treasury determines to be necessary or appropriate to protect the confidentiality of the employer identification numbers.
+&emsp;&emsp;The Secretary of Agriculture, and the head of any other agency or instrumentality referred to in subparagraph (A), shall restrict, to the satisfaction of the Secretary of the Treasury, access to employer identification numbers obtained pursuant to this subsection only to officers and employees of the United States whose duties or responsibilities require access for the purposes described in subparagraph (A). The Secretary of Agriculture, and the head of any agency or instrumentality with which information is shared pursuant to subparagraph (A), shall provide such other safeguards as the Secretary of the Treasury determines to be necessary or appropriate to protect the confidentiality of the employer identification numbers.
 
 #### (3) Confidentiality and nondisclosure rules
 
@@ -162,7 +162,7 @@ Amendment by section 1615(a)(2)(A) of Pub. L. 104–188 applicable with respect 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to returns for taxable years beginning after Dec. 31, 1994, but not applicable to returns for taxable years beginning in 1995 with respect to individuals who are born after Oct. 31, 1995, and to returns for taxable years beginning in 1996 with respect to individuals who are born after Nov. 30, 1996, see section 742(c) of Pub. L. 103–465, set out as a note under section 32 of this title.
+Amendment by Pub. L. 103–465 applicable to returns for taxable years beginning after Dec. 31, 1994, but notapplicable to returns for taxable years beginning in 1995 with respect to individuals who are born after Oct. 31, 1995, and to returns for taxable years beginning in 1996 with respect to individuals who are born after Nov. 30, 1996, see section 742(c) of Pub. L. 103–465, set out as a note under section 32 of this title.
 
 #### Effective Date of 1992 Amendment
 

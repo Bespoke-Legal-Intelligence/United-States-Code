@@ -18,7 +18,7 @@ The Foundation shall be administered by a Board of Trustees that shall consist o
 
 #### (b) Nongovernmental employees
 
-Service as a member of the Board shall not constitute employment by, or the holding of, anoffice of the United States for the purposes of any Federal law.
+Service as a member of the Board shall not constitute employment by, or the holding of, an office of the United States for the purposes of any Federal law.
 
 #### (c) Membership
 
@@ -42,7 +42,7 @@ Service as a member of the Board shall not constitute employment by, or the hold
 
 #### (d) Chairperson
 
-After the appointment of an initial chairperson under subsection (c)(1) of this section, each succeeding chairperson of the Board shall be elected by the members of the Board for a 2-year term.
+After the appointment of an initial chairperson under subsection (c)(1) of this section,each succeeding chairperson of the Board shall be elected by the members of the Board for a 2-year term.
 
 #### (e) Vacancies
 

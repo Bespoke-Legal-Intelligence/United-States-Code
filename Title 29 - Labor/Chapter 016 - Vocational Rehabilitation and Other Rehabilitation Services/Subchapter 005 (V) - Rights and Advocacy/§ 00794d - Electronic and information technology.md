@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) individuals with disabilities who are Federal employees to have access to and use of information and data that is comparable to the access to and use of the information and data by Federal employees who are not individuals with disabilities; and
 
-&emsp;&emsp;&emsp;(ii) individuals with disabilities who are members of the public seeking information or services from a Federal department or agency to have access to and use of information and data that is comparable to the access to and use of the information and data by such members of the public who are not individuals with disabilities.
+&emsp;&emsp;&emsp;(ii) individuals with disabilities who are members of the public seeking information or services from a Federal department oragency to have access to and use of information and data that is comparable to the access to and use of the information and data by such members of the public who are not individuals with disabilities.
 
 #### (B) Alternative means efforts
 
@@ -62,13 +62,13 @@ The Administrator of General Services and the Access Board shall provide technic
 
 #### (c) Agency evaluations
 
-Not later than 6 months after August 7, 1998, the head of each Federal department or agencyshall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
+Not later than 6 months after August 7, 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
 
 #### (d) Reports
 
 #### (1) Interim report
 
-&emsp;Not later than 18 months after August 7, 1998, the Attorney General shall prepare and submit to the President a report containing information on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section.
+&emsp;Not later than 18 months after August 7, 1998, the Attorney General shall prepare and submit to the President a report containinginformation on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section.
 
 #### (2) Biennial reports
 
@@ -122,5 +122,5 @@ Subsec. (c). Pub. L. 100–630, §206(f)(3), substituted “an individual with h
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 792 of this title.
+This section is referred to in section 792 of this title; title 42 section 15024.
 

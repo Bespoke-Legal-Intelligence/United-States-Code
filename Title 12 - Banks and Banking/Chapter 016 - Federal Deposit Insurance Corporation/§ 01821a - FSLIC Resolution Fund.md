@@ -22,7 +22,7 @@
 
 #### (4) Rights, powers, and duties
 
-&emsp;Effective August 10, 1989, the Corporation shall have all rights, powers, and duties tocarry out the Corporation's duties with respect to the assets and liabilities of the FSLIC Resolution Fund that the Corporation otherwise has under this chapter.
+&emsp;Effective August 10, 1989, the Corporation shall have all rights, powers, and duties to carry out the Corporation's duties with respect to the assets and liabilities of the FSLIC Resolution Fund that the Corporation otherwise has under this chapter.
 
 #### (5) Corporation as conservator or receiver
 
@@ -62,7 +62,7 @@ The FSLIC Resolution Fund shall be funded from the following sources to the exte
 
 #### (d) Legal proceedings
 
-Any judgment resulting from a proceeding to which the Federal Savings and Loan Insurance Corporation was a party prior to its dissolution or which is initiated against the Corporation with respect to the Federal Savings and Loan Insurance Corporation or with respect to the FSLIC Resolution Fund shall be limited to the assets of the FSLIC Resolution Fund.
+Any judgment resulting from a proceeding to which the Federal Savings and Loan Insurance Corporation was a party prior to its dissolution or which is initiated against the Corporationwith respect to the Federal Savings and Loan Insurance Corporation or with respect to the FSLIC Resolution Fund shall be limited to the assets of the FSLIC Resolution Fund.
 
 #### (e) Transfer of net proceeds from sale of RTC assets
 

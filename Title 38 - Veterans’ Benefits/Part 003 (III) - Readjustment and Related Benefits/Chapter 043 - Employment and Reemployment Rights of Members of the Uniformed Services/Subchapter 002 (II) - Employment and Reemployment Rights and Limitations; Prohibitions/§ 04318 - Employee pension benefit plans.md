@@ -1,6 +1,6 @@
 ### §4318. Employee pension benefit plans
 
-(a)(1)(A) Except as provided in subparagraph (B), in the case of a right provided pursuant to an employee pension benefit plan (including those described in sections 3(2) and 3(33) of the Employee Retirement Income Security Act of 1974) or a right provided under any Federal or State law governing pension benefits for governmental employees, the right to pension benefitsof a person reemployed under this chapter shall be determined under this section.
+(a)(1)(A) Except as provided in subparagraph (B), in the case of a right provided pursuant to an employee pension benefit plan (including those described in sections 3(2) and 3(33) of the Employee Retirement Income Security Act of 1974) or a right provided under any Federal or State law governing pension benefits for governmental employees, the right to pension benefits of a person reemployed under this chapter shall be determined under this section.
 
 (B) In the case of benefits under the Thrift Savings Plan, the rights of a person reemployed under this chapter shall be those rights provided in section 8432b of title 5. The first sentence of this subparagraph shall not be construed to affect any other right or benefit under this chapter.
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) if such last employer is no longer functional, to the plan.
 
-(2) A person reemployed under this chapter shall be entitled to accrued benefits pursuant to subsection (a) that are contingent on the making of, or derived from, employee contributions or elective deferrals (as defined in section 402(g)(3) of the Internal Revenue Code of 1986) only to the extent the person makes payment to the plan with respect to such contributions or deferrals. No such payment may exceed the amount the person would have been permitted or required to contribute had the person remained continuously employed by the employer throughout the period of service described in subsection (a)(2)(B). Any payment to the plan described in this paragraph shall be made during the period beginning with the date of reemployment and whose duration is three times the period of the person's service in the uniformed services, such payment period not to exceed five years.
+(2) A person reemployed under this chapter shall be entitled to accrued benefits pursuant to subsection (a) that are contingent on the making of, or derived from, employee contributions or elective deferrals (as defined in section 402(g)(3) of the Internal Revenue Code of 1986) only to the extent the person makes payment tothe plan with respect to such contributions or deferrals. No such payment may exceed the amount the person would have been permitted or required to contribute had the person remained continuously employed by the employer throughout the period of service described in subsection (a)(2)(B). Any payment to the plan described in this paragraph shall be made during the period beginning with the date of reemployment and whose duration is three times the period of the person's service in the uniformed services, such payment period not to exceed five years.
 
 (3) For purposes of computing an employer's liability under paragraph (1) or the employee's contributions under paragraph (2), the employee's compensation during the period of service described in subsection (a)(2)(B) shall be computed—
 

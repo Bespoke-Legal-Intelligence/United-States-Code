@@ -6,7 +6,7 @@ The Administrator, acting through the National Institute for Juvenile Justice an
 
 &emsp;(2) develop, conduct, and provide for training programs for the training of professional, paraprofessional, and volunteer personnel, and other persons who are working with or preparing to work with juveniles, juvenile offenders (including juveniles who commit hate crimes), and their families;
 
-&emsp;(3) develop, conduct, and provide for seminars, workshops, and training programs in the latest proven effective techniques and methods of preventing and treating juvenile delinquency for law enforcement officers, juvenile judges <sup>1</sup> prosecutors and defense attorneys,,<sup>2</sup> and other court personnel, probation officers, correctional personnel, and other Federal, State, and local government personnel who are engaged in work relating to juvenile delinquency;
+&emsp;(3) develop, conduct, and provide for seminars, workshops, and training programs in thelatest proven effective techniques and methods of preventing and treating juvenile delinquency for law enforcement officers, juvenile judges <sup>1</sup> prosecutors and defense attorneys,,<sup>2</sup> and other court personnel, probation officers, correctional personnel, and other Federal, State, and local government personnel who are engaged in work relating to juvenile delinquency;
 
 &emsp;(4) develop technical training teams to aid in the development of training programs in the States and to assist State and local agencies which work directly with juveniles and juvenile offenders; and
 

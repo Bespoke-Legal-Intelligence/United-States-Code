@@ -44,6 +44,7 @@
 | (a) | Administrative and technical support and services. |
 | (b) | Costs to be kept at minimum level. |
 | (c) | Military training of armed forces of other countries. |
+| (d) | Contractors. |
 | [3425\.](Subchapter%20002%20%28II%29%20-%20Multinational%20Force%20and%20Observers%20Participation/%C2%A7%2003425%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | (a) | Initial report. |
 | (b) | Annual report; content. |

@@ -28,7 +28,7 @@ The term “United States” as used in this section includes the Canal Zone, an
 
 #### (d) Nonadmission of certain aliens
 
-Nothing in this section shall be construed to entitle an alien to whom a permit to enter the United States has been issued to enter the United States, if, upon arrival in the United States, he is found to be inadmissible under any of the provisions of this chapter, or any other law, relative to the entry of aliens into the United States.
+Nothing in this section shall be construed to entitle an alien to whom a permit to enter theUnited States has been issued to enter the United States, if, upon arrival in the United States, he is found to be inadmissible under any of the provisions of this chapter, or any other law, relative to the entry of aliens into the United States.
 
 #### (e) Revocation of proclamation as affecting penalties
 

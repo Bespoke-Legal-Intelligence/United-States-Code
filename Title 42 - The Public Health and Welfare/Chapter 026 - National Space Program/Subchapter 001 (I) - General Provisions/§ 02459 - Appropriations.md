@@ -2,7 +2,7 @@
 
 #### (a) Authorization; limitations for uses of capital nature
 
-There are authorized to be appropriated such sums as may be necessary to carry out this chapter, except that nothing in this chapter shall authorize the appropriation of any amount for (1) the acquisition or condemnation of any real property, or (2) any other item of a capital nature (such as plant or facility acquisition, construction, or expansion) which exceeds $250,000. Sums appropriated pursuant to this subsection for the construction of facilities, orfor research and development activities, shall remain available until expended.
+There are authorized to be appropriated such sums as may be necessary to carry out this chapter, except that nothing in this chapter shall authorize the appropriation of any amount for (1) the acquisition or condemnation of any real property, or (2) any other item of a capital nature (such as plant or facility acquisition, construction, or expansion) which exceeds $250,000. Sums appropriated pursuant to this subsection for the construction of facilities, or for research and development activities, shall remain available until expended.
 
 #### (b) Use of funds for emergency repairs of existing facilities
 
@@ -30,7 +30,7 @@ A prior section 310 of Pub. L. 85–568 was renumbered section 311 and is classi
 
 Pub. L. 100–685, title II, §215, Nov. 17, 1988, 102 Stat. 4093, provided that:
 
-“(a) No funds authorized to be appropriated under this Act, or under any other Act authorizing appropriations for fiscal year 1989 through 1993 for the Administration, shall be obligated or expended unless the Administration has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its workplaces are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act \[21 U.S.C. 801 et seq.\]) by the officers and employees of the Administration.
+“(a) No funds authorized to be appropriated under this Act, or under any other Act authorizing appropriations for fiscal year 1989 through 1993 for the Administration, shall be obligated or expended unless the Administration has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its workplaces are free from the illegal use,possession, or distribution of controlled substances (as defined in the Controlled Substances Act \[21 U.S.C. 801 et seq.\]) by the officers and employees of the Administration.
 
 “(b) No funds authorized to be appropriated to the Administration for fiscal years 1989 through 1993 shall be available for payment in connection with any grant, contract, or other agreement, unless the recipient of such grant, contractor, or party to such agreement, as the case may be, has in place and will continue to administer in good faith a written policy, adopted by the board of directors or other government authority of such recipient, contractor, or party, satisfactory to the Administrator of the Administration, designed to ensure that all of the workplaces of such recipient, contractor, or party are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act) by the officers and employees of such recipient, contractor, or party.
 

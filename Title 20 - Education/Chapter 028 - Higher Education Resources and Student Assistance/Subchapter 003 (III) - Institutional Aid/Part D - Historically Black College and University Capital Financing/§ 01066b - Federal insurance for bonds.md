@@ -6,7 +6,7 @@ Subject to the limitations in section 1066c of this title, the Secretary is auth
 
 #### (b) Responsibilities of designated bonding authority
 
-The Secretary may not enter into an insurance agreement described in subsection (a) of this section unless the Secretary designates a qualified bonding authority in accordance with sections 1066d(1) and 1066e <sup>1</sup> of this title and thedesignated bonding authority agrees in such agreement to—
+The Secretary may not enter into an insurance agreement described in subsection (a) of this section unless the Secretary designates a qualified bonding authority in accordance with sections 1066d(1) and 1066e <sup>1</sup> of this title and the designated bonding authority agrees in such agreement to—
 
 &emsp;(1) use the proceeds of the qualified bonds, less costs of issuance not to exceed 2 percent of the principal amount thereof, to make loans to eligible institutions or for deposit into an escrow account for repayment of the bonds;
 

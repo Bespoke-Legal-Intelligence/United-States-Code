@@ -4,7 +4,7 @@
 
 #### (1) Restrictions by other countries
 
-&emsp;The Congress hereby reaffirms section 1704(a) of the Cuban Democracy Act of 1992 \[22U.S.C. 6003(a)\], which states that the President should encourage foreign countries to restrict trade and credit relations with Cuba in a manner consistent with the purposes of that Act \[22 U.S.C. 6001 et seq.\].
+&emsp;The Congress hereby reaffirms section 1704(a) of the Cuban Democracy Act of 1992 \[22 U.S.C. 6003(a)\], which states that the President should encourage foreign countries to restrict trade and credit relations with Cuba in a manner consistent with the purposes of that Act \[22 U.S.C. 6001 et seq.\].
 
 #### (2) Sanctions on other countries
 

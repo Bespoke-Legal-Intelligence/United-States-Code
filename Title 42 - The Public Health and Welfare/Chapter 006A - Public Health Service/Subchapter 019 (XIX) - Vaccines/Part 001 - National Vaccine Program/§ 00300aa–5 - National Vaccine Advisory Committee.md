@@ -4,7 +4,7 @@
 
 (b) The Committee shall—
 
-&emsp;(1) study and recommend ways to encourage the availability of an adequate supply of safe and effective vaccination products in the States,
+&emsp;(1) study and recommend ways to encourage the availability of an adequate supply of safeand effective vaccination products in the States,
 
 &emsp;(2) recommend research priorities and other measures the Director of the Program should take to enhance the safety and efficacy of vaccines,
 

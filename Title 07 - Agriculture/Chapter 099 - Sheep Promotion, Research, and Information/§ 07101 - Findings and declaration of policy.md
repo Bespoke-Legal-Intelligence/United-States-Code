@@ -44,7 +44,7 @@ Pub. L. 106–200, title V, §506, May 18, 2000, 114 Stat. 303, provided that:
 
 “(a)
 
-Establishment.—There is hereby established within the Treasury of the United States a trust fund to be known as the Wool Research, Development, andPromotion Trust Fund (hereafter in this section referred to as the ‘Trust Fund’), consisting of such amounts as may be transferred to the Trust Fund under subsection (b)(1) and any amounts as may be credited to the Trust Fund under subsection (c)(2).
+Establishment.—There is hereby established within the Treasury of the United States a trust fund to be known as the Wool Research, Development, and Promotion Trust Fund (hereafter in this section referred to as the ‘Trust Fund’), consisting of such amounts as may be transferred to the Trust Fund under subsection (b)(1) and any amounts as may be credited to the Trust Fund under subsection (c)(2).
 
 “(b)
 

@@ -20,7 +20,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Interest and any accrued interest shall be payable only from the surplus cash flow of the project, after a minimum return on equity determined by the participating jurisdiction to be appropriate. As used in the previous sentence, the term “surplus cash flow” means the cash flow of the projectafter the payment of all amounts due under the first mortgage, operating expenses, and required replacement reserves, as determined by the participating jurisdiction.
+&emsp;&emsp;&emsp;Interest and any accrued interest shall be payable only from the surplus cash flow of the project, after a minimum return on equity determined by the participating jurisdiction to be appropriate. As used in the previous sentence, the term “surplus cash flow” means the cash flow of the project after the payment of all amounts due under the first mortgage, operating expenses, and required replacement reserves, as determined by the participating jurisdiction.
 
 #### (B) Additional interest payments
 

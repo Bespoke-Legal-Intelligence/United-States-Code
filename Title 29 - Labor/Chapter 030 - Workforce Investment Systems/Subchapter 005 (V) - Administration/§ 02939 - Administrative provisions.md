@@ -60,7 +60,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (2) Special rule regarding designated areas
 
-&emsp;A State that has enacted, not later than December 31, 1997, a State law providing for thedesignation of service delivery areas for the delivery of workforce investment activities, may use such areas as local areas under this chapter, notwithstanding section 2831 of this title.
+&emsp;A State that has enacted, not later than December 31, 1997, a State law providing for the designation of service delivery areas for the delivery of workforce investment activities, may use such areas as local areas under this chapter, notwithstanding section 2831 of this title.
 
 #### (3) Special rule regarding sanctions
 

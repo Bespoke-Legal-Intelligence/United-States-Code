@@ -16,7 +16,7 @@ With respect to loans made by a school under this subpart after June 30, 1986, e
 
 &emsp;(6) any options the borrower may have for deferral, cancellation, prepayment, consolidation, or other refinancing of the loan;
 
-&emsp;(7) a definition of default on the loan and a specification of the consequences which will result to the borrower if the borrower defaults, including a description of any arrangementswhich may be made with credit bureau organizations;
+&emsp;(7) a definition of default on the loan and a specification of the consequences which will result to the borrower if the borrower defaults, including a description of any arrangements which may be made with credit bureau organizations;
 
 &emsp;(8) to the extent practicable, the effect of accepting the loan on the eligibility of the borrower for other forms of student assistance; and
 

@@ -42,7 +42,7 @@ In the absence of a showing of fraud, malfeasance, or misrepresentation of fact�
 
 #### (B) Exception
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any partner who (within the time prescribed by the Secretary) files a statement with theSecretary providing that the tax matters partner shall not have the authority to enter into a settlement agreement on behalf of such partner.
+&emsp;&emsp;Subparagraph (A) shall not apply to any partner who (within the time prescribed by the Secretary) files a statement with the Secretary providing that the tax matters partner shall not have the authority to enter into a settlement agreement on behalf of such partner.
 
 (Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 651.)
 

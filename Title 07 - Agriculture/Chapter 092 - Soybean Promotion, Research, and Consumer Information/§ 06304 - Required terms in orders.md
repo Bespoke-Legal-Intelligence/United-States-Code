@@ -40,7 +40,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (E) Reapportionment of seats
 
-&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Secretary, if necessary, shall adjust any unit to conform with subparagraphs (A) and (B). If the Secretary makes such an adjustment, the Secretary shall reapportion the seats on the Board to conform with subparagraph (C) and any modifications made under subparagraph (F). If payment of refunds following the initial referendum conducted under section 6305(a) of this title is authorized by producers, in making such adjustments, the Secretary shall exclude, from each State's annual soybean production, those bushels of soybeans on which such refunds are paid.
+&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Secretary, if necessary, shall adjust any unit to conform with subparagraphs (A) and (B). If the Secretary makes such an adjustment, the Secretary shall reapportion the seats on the Board to conform with subparagraph (C) and any modifications made under subparagraph (F). If payment of refunds following the initial referendum conducted under section6305(a) of this title is authorized by producers, in making such adjustments, the Secretary shall exclude, from each State's annual soybean production, those bushels of soybeans on which such refunds are paid.
 
 #### (F) Adjustment of levels of production
 
@@ -98,7 +98,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (7) Meetings
 
-&emsp;The order shall provide for at least one meeting of the Board annually and specify the circumstances under which additional special meetings of the Board may be held.
+&emsp;The order shall provide for at least one meeting of the Board annually and specify thecircumstances under which additional special meetings of the Board may be held.
 
 #### (c) Powers and duties of Board
 
@@ -270,7 +270,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (C) Reimbursement of organization
 
-&emsp;&emsp;If the staff of national, nonprofit, producer-governed organizations that representproducers of soybeans are used by the Board, the staff of such organizations shall not receive compensation directly from the Board, but such organizations shall be reimbursed for the reasonable expenses of their staffs, including salaries, incurred in performing staff duties on behalf of, and authorized by, the Board.
+&emsp;&emsp;If the staff of national, nonprofit, producer-governed organizations that represent producers of soybeans are used by the Board, the staff of such organizations shall not receive compensation directly from the Board, but such organizations shall be reimbursed for the reasonable expenses of their staffs, including salaries, incurred in performing staff duties on behalf of, and authorized by, the Board.
 
 #### (3) Limitation on administrative costs
 
@@ -328,7 +328,7 @@ The order shall require the Board to—
 
 &emsp;(3) account for the receipt and disbursement of all funds entrusted to the Board.
 
-> The Board shall cause its books and records to be audited by an independent auditor at the end of each fiscal year and a report of such audit to be submitted to the Secretary. The Secretaryshall make such report available to the public upon request.
+> The Board shall cause its books and records to be audited by an independent auditor at the end of each fiscal year and a report of such audit to be submitted to the Secretary. The Secretary shall make such report available to the public upon request.
 
 #### (<i>l</i>) Assessments
 
@@ -338,7 +338,7 @@ The order shall require the Board to—
 
 #### (i) Collection
 
-&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to the Board. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
+&emsp;&emsp;&emsp;The order shall provide that each first purchaser of soybeans from a producer shall collect, in the manner prescribed by the order, an assessment from the producer and remit the assessment to theBoard. The Board shall use qualified State soybean boards to collect such assessments in States in which such boards operate.
 
 #### (ii) Rate
 
@@ -458,7 +458,7 @@ The order shall require the Board to—
 
 #### (4) Credit for contributions to qualified State soybean boards
 
-&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualified State soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
+&emsp;A producer who can establish that such producer is contributing to a qualified State soybean board shall receive credit, in determining the assessment due to the Board from such producer, for contributions to the qualified State soybean board of up to one-quarter of 1 percent of the net market price of soybeans or the equivalent thereof. For purposes of this chapter, there shall be only one qualified State soybean board in each State. A producer may receive a credit under this paragraph only if the contribution is to the qualifiedState soybean board in the State in which the soybeans are produced, except that the Board, with the approval of the Secretary, may authorize exceptions to such State-of-origin rule as are appropriate to ensure effective coordination of collection procedures among States.
 
 #### (5) Single process of assessment
 
@@ -536,7 +536,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (A) In general
 
-&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretary as is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
+&emsp;&emsp;Information maintained under paragraph (1) shall be made available to the Secretaryas is appropriate for the administration or enforcement of this chapter, or any order or regulation issued under this chapter.
 
 #### (B) Other information
 

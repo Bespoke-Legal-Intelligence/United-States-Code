@@ -1,6 +1,6 @@
 ### §49b. Mining laws relating to placer claims extended to Alaska
 
-The general mining laws of the United States so far as they are applicable to placer-mining claims, as prior to May 4, 1934, extended to the Territory of Alaska, are declared to be in full force and effect in said Territory: <i>Provided</i>, That nothing herein shall be held to change or affect the rights acquired by locators or owners of placer-mining claims prior to May 4, 1934, located in said Territory under act August 1, 1912 (37 Stat. 242, 243) and amendatory act March 3, 1925 (43 Stat. 1118).
+The general mining laws of the United States so far as they are applicable to placer-mining claims, as prior to May 4, 1934, extended to the Territory of Alaska, are declared to be in full force and effect in said Territory: <i>Provided</i>, Thatnothing herein shall be held to change or affect the rights acquired by locators or owners of placer-mining claims prior to May 4, 1934, located in said Territory under act August 1, 1912 (37 Stat. 242, 243) and amendatory act March 3, 1925 (43 Stat. 1118).
 
 (May 4, 1934, ch. 211, §2, 48 Stat. 663.)
 

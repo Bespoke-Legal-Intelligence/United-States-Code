@@ -10,7 +10,7 @@
 
 #### Effective Date
 
-Section effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as a note preceding section section 101 of this title.
+Section effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Termination of Advisory Councils
 

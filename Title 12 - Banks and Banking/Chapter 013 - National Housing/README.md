@@ -2146,6 +2146,10 @@ Insurance of mortgage as obligation of General Insurance Fund.
 
 “Native Hawaiian” and “Hawaiian home lands” defined.
 
+(e)
+
+Certification of eligibility for existing lessees.
+
 |  |  |
 | :--- | ---: |
 | 1715z–13. | Single family mortgage insurance on Indian reservations. |
@@ -2357,6 +2361,10 @@ Written explanation of mortgage features.
 (c)
 
 Number of mortgages and loans.
+
+(d)
+
+Adjustable rate mortgage with initial fixed rate of interest.
 
 |  |  |
 | :--- | ---: |
@@ -2947,7 +2955,24 @@ Effective date.
 | 1735f–8. | Time of payment of premium charges. |
 | 1735f–9. | Limitation on commitments to insure loans and mortgages. |
 | 1735f–10. | Purchaser-broker arrangement payments for insurance purposes. |
-| 1735f–11. | Direction to Secretary to require mortgagees with above normal rates of early, serious defaults and claims to submit reports and take corrective action. |
+| 1735f–11. | Review of mortgagee performance and authority to terminate. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Periodic review of mortgagee performance.
+
+(b)
+
+Comparison with other mortgagees.
+
+(c)
+
+Termination of mortgagee origination approval.
+
+|  |  |
+| :--- | ---: |
 | 1735f–12. | Assurance of adequate processing of applications for loan and mortgage insurance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3748,7 +3773,7 @@ Preferences.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7, 1701z–11, 1709a, 1715z–1a, 1715z–1c, 1715z–4a, 1715z–13b, 1715z–22, 1735f–7a, 1735g, 1786, 1831q, 2710, 3802, 4901 of this title; title 7 section 1933; title 11 section 362; title 15 sections 77ddd, 2227; title 38 section 3704; title 40 section 474; title 40 App. section 213; title 42 sections 1382a, 1437f, 1490a, 1490p–2, 2322, 3012, 3535, 12709, 12852, 13632; title 48 section 1425.
+This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7, 1701z–11, 1709a, 1715z–1a, 1715z–1c, 1715z–4a, 1715z–13b, 1715z–22, 1735f–7a, 1735g, 1786, 1831q, 2710, 3802, 4901 of this title; title 7 section 1933; title 11 section 362; title 15 sections 77ddd, 2227; title 38 section 3704; title 40 section 474; title 40 App. section 213; title 42 sections 1382a, 1437f, 1490a, 1490p–2, 2322, 3012, 3535, 5407, 12709, 12852, 13632; title 48 section 1425.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

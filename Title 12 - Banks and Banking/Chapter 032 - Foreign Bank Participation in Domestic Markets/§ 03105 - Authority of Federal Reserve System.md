@@ -228,11 +228,11 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 #### (A) Insured branch
 
-&emsp;&emsp;The term “insured branch” has the meaning given such term in section 3(s) of theFederal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
+&emsp;&emsp;The term “insured branch” has the meaning given such term in section 3(s) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(s)\].
 
 #### (B) Money laundering offense defined
 
-&emsp;&emsp;The term “money laundering offense” means any criminal offense under section 1956 or 1957 of title 18 or under section 5322 of title 31.
+&emsp;&emsp;The term “money laundering offense” means any criminal offense under section1956 or 1957 of title 18 or under section 5322 of title 31.
 
 #### (j) Study on equivalence of foreign bank capital
 

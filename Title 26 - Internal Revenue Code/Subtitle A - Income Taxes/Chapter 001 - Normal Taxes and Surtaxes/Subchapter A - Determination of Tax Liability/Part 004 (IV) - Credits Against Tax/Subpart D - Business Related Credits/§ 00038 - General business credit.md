@@ -36,9 +36,13 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 &emsp;(11) the employer social security credit determined under section 45B(a),
 
-&emsp;(12) the orphan drug credit determined under section 45C(a), plus
+&emsp;(12) the orphan drug credit determined under section 45C(a),
 
-&emsp;(13) the new markets tax credit determined under section 45D(a).
+&emsp;(13) the new markets tax credit determined under section 45D(a),
+
+&emsp;(14) in the case of an eligible employer (as defined in section 45E(c)), the small employer pension plan startup cost credit determined under section 45E(a), plus
+
+&emsp;(15) the employer-provided child care credit determined under section 45F.
 
 #### (c) Limitation based on amount of tax
 
@@ -74,7 +78,7 @@ For purposes of this subpart, the amount of the current year business credit is 
 
 #### (A) Married individuals
 
-&emsp;&emsp;In the case of a husband or wife who files a separate return, the amount specifiedunder subparagraph (B) of paragraph (1) shall be $12,500 in lieu of $25,000. This subparagraph shall not apply if the spouse of the taxpayer has no business credit carryforward or carryback to, and has no current year business credit for, the taxable year of such spouse which ends within or with the taxpayer's taxable year.
+&emsp;&emsp;In the case of a husband or wife who files a separate return, the amount specified under subparagraph (B) of paragraph (1) shall be $12,500 in lieu of $25,000. This subparagraph shall not apply if the spouse of the taxpayer has no business credit carryforward or carryback to, and has no current year business credit for, the taxable year of such spouse which ends within or with the taxpayer's taxable year.
 
 #### (B) Controlled groups
 
@@ -112,7 +116,11 @@ For purposes of any provision of this title where it is necessary to ascertain t
 
 &emsp;&emsp;&emsp;(ii) to the extent attributable to the regular percentage (as defined in section 46(b)(1) as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall be treated as the first credit listed in section 46.
 
-(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609.)
+(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -132,13 +140,25 @@ Another prior section 38 was renumbered section 35 of this title.
 
 #### Amendments
 
+<b>2001</b>—Subsec. (b)(12). Pub. L. 107–16, §§619(b), 901, temporarily struck out “plus” at end. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(13). Pub. L. 107–16, §§619(b), 901, temporarily substituted “, plus” for period at end. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§205(b)(1), 901, temporarily struck out “plus” at end. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(14). Pub. L. 107–16, §§619(b), 901, temporarily added par. (14). See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§205(b)(1), 901, temporarily substituted “, plus” for period at end. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(15). Pub. L. 107–16, §§205(b)(1), 901, temporarily added par. (15). See Effective and Termination Dates of 2001 Amendment note below.
+
 <b>2000</b>—Subsec. (b)(13). Pub. L. 106–554 added par. (13).
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–188, §1201(e)(1), substituted “work opportunity credit” for “targeted jobs credit”.
 
 Subsec. (b)(12). Pub. L. 104–188, §1205(a)(2), added par. (12).
 
-Subsec. (c)(2)(C). Pub. L. 104–188, §1704(e)(4), amended subpar. (C), as in effect on day before date of enactment of the Revenue Reconciliation Act of 1990 (title XI of Pub. L. 101–508, approved Nov. 5, 1990), by inserting before period at end of first sentence “and without regard to the deduction under section 56(h)”.
+Subsec. (c)(2)(C). Pub. L. 104–188, §1702(e)(4), amended subpar. (C), as in effect on day before date of enactment of the Revenue Reconciliation Act of 1990 (title XI of Pub. L. 101–508, approved Nov. 5, 1990), by inserting before period at end of first sentence “and without regard to the deduction under section 56(h)”.
 
 <b>1993</b>—Subsec. (b)(7). Pub. L. 103–66, §13302(a)(1), struck out “plus” at end.
 
@@ -218,6 +238,14 @@ Pub. L. 99–514, §231(d)(3)(B), inserted “41(a),” after “40(a),”.
 
 <b>1984</b>—Subsec. (c)(2). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” for “section 25(b)”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title II, §205(c), June 7, 2001, 115 Stat. 53, provided that: “The amendments made by this section \[enacting section 45F of this title and amending this section and section 1016 of this title\] shall apply to taxable years beginning after December 31, 2001.”
+
+Pub. L. 107–16, title VI, §619(d), June 7, 2001, 115 Stat. 110, provided that: “The amendments made by this section \[enacting section 45E of this title and amending this section and sections 39 and 196 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 2001, with respect to qualified employer plans established after such date.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(7) \[title I, §121(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “The amendments made by this section \[enacting section 45D of this title, amending this section and sections 39 and 196 of this title, and enacting provisions set out as notes under section 45D of this title\] shall apply to investments made after December 31, 2000.”
@@ -232,7 +260,7 @@ Section 1702(i) of Pub. L. 104–188 provided that: “Except as otherwise expre
 
 #### Effective Date of 1993 Amendment
 
-Section 13303 of Pub. L. 103–66 provided that: “The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196,280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
+Section 13303 of Pub. L. 103–66 provided that: “The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 Section 13322(f) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 45A of this title and amending this section and sections 39, 196, and 280C of this title\] shall apply to wages paid or incurred after December 31, 1993.”
 
@@ -270,7 +298,7 @@ Section 221(b) of Pub. L. 99–514 provided that: “The amendment made by subse
 
 Amendment by section 231(d)(1), (3)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1985, see section 231(g) of Pub. L. 99–514, set out as a note under section 41 of this title.
 
-Amendment by section 252(b) of Pub. L. 99–514 applicable to buildings placed in service after Dec. 31, 1986, in taxable years ending after such date, see section 252(e) of Pub. L. 99–514, set out as an Effective Date note under section 42 of this title.
+Amendment by section 252(b) of Pub. L. 99–514 applicable to buildings placed in service after Dec. 31, 1986, in taxable years ending after such date, see section252(e) of Pub. L. 99–514, set out as an Effective Date note under section 42 of this title.
 
 Amendment by section 701(c)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
@@ -502,7 +530,7 @@ Amount.—For purposes of subsection (a), the amount determined under this subse
 
 “(c)
 
-Taxpayer Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified farmer who makes an election under subsection (a), the portion of such farmer's existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
+Taxpayer Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified farmer who makes an election under subsection (a), theportion of such farmer's existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
 
 “(d)
 
@@ -596,5 +624,5 @@ Section 203(e) of Pub. L. 88–272, not applicable to public utility property to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 29, 39, 40, 41, 42, 43, 44, 45, 45A, 45B, 45C, 45D, 46, 49, 50, 51, 51A, 52, 55, 108, 179, 196, 280C, 381, 877, 1274A, 1351, 1396, 4612 of this title.
+This section is referred to in sections 29, 39, 40, 41, 42, 43, 44, 45, 45A, 45B, 45C, 45D, 45E, 45F, 46, 49, 50, 51, 51A, 52, 55, 108, 179, 196, 280C, 381, 877, 1274A, 1351, 1396, 4612 of this title.
 

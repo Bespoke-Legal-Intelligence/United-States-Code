@@ -1,0 +1,98 @@
+### §2000. Declaration of policy
+
+Congress declares that the Federal Government has the sole responsibility for the operation and financial support of the Bureau of Indian Affairs funded school system that it has established on or near Indian reservations and Indian trust lands throughout the Nation for Indian children. It is the policy of the United States to fulfill the Federal Government's unique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children and for the operation and financial support of the Bureau of Indian Affairs-funded school system to work in full cooperation with tribes toward the goal of ensuring that the programs of the Bureau of Indian Affairs-funded school system are of the highest quality and provide for the basic elementary and secondary educational needs of Indian children, including meeting the unique educational and cultural needs of those children.
+
+(Pub. L. 95–561, title XI, §1120, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007.)
+
+#### Effective Date
+
+Chapter effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–110, title X, §1041, Jan. 8, 2002, 115 Stat. 2007, provided that: “This part \[part D (§§1041–1045) of title X of Pub. L. 107–110, enacting this chapter and sections 2501 to 2511 of this title, amending section 13d–2 of this title, and repealing former sections 2501 to 2511 of this title\] may be cited as the ‘Native American Education Improvement Act of 2001’.”
+
+#### Short Title of 1988 Amendment
+
+Pub. L. 100–297, title V, §5101, Apr. 28, 1988, 102 Stat. 363, provided that: “This part \[part A (§§5101–5120) of title V of Pub. L. 100–297, enacting sections 2008a, 2022a, and 2022b of this title, amending sections 2001 to 2005, 2008 to 2011, and 2019 of this title, repealing section241bb–1 of Title 20, Education, enacting provisions set out as notes under section 2011 of this title and section 1411 of Title 20, and repealing provisions set out as a note under section 241aa of Title 20\] may be cited as the ‘Indian Education Amendments of 1988’.”
+
+#### Short Title of 1985 Amendment
+
+Pub. L. 99–89, §1(a), Aug. 15, 1985, 99 Stat. 379, provided that: “This Act \[amending sections 2001, 2004, 2006, 2008, 2009, 2016, 2020, 2021, and 2022 of this title, repealing section 2023 of this title, and enacting provisions formerly set out as a note under section 2001 of this title\] may be cited as the ‘Indian Education Technical Amendments Act of 1985’.”
+
+#### Short Title of 1984 Amendment
+
+Pub. L. 98–511, title V, §501(a), Oct. 19, 1984, 98 Stat. 2391, provided that: “This title \[enacting sections 2020 to 2023 of this title, amending sections 2001, 2004, 2006, 2008, 2009, 2011, 2012, 2016, 2018 of this title, and sections 241aa to 241ff, 1211a, 1221g, 3385, 3385a, and 3385b of Title 20, Education, and enacting provisions set out as a note under section 241ff of Title 20\] may be cited as the ‘Indian Education Amendments of 1984’.”
+
+#### Therapeutic Model Demonstration Schools
+
+Pub. L. 103–382, title V, §566, Oct. 20, 1994, 108 Stat. 4059, provided that:
+
+“(a)
+
+Authorization.—
+
+&emsp;“(1)
+
+In general.—The Secretary of the Interior, acting through the Bureau of Indian Affairs, is authorized to establish demonstration schools, based on the therapeutic model described in this section, to provide services necessary to achieve positive changes in the attitudes, behavior, and academic performance of Indian youth attending off-reservation boarding schools.
+
+&emsp;“(2)
+
+Purpose.—The purpose of the therapeutic model demonstration schools is—
+
+&emsp;&emsp;“(A) to provide a program, based on an annual written plan, linking clinicians, counselors, and mental health professionals with academic program personnel in a culturally sensitive residential program tailored to the particular needs of Indian students;
+
+&emsp;&emsp;“(B) to provide for a continued evaluation of the planning and implementation of the therapeutic model in the designated schools; and
+
+&emsp;&emsp;“(C) to determine what steps the Bureau of Indian Affairs must take and what resources are required to transform existing off-reservation boarding schools to meet the needs of chemically dependent, emotionally disturbed, socially troubled, or other at-risk Indian youth who attend such schools.
+
+“(b)
+
+Location.—The Secretary shall initiate the therapeutic model at two schools during school years 1994 through 1996, and shall give priority to—
+
+&emsp;“(1) one school that is the recipient of a grant under section 5204 of the August \[Augustus\] F. Hawkins-Robert T. Stafford Elementary and Secondary School Improvement Amendments of 1988 \[25 U.S.C. 2503\] during the 1994–1995 school year; and
+
+&emsp;“(2) one school operated by the Bureau of Indian Affairs during the 1995–1996 school year.
+
+“(c)
+
+Services.—The demonstration schools shall provide an integrated residential environment that may include—
+
+&emsp;“(1) mental health services;
+
+&emsp;“(2) education;
+
+&emsp;“(3) recreation therapy;
+
+&emsp;“(4) social service programs;
+
+&emsp;“(5) substance abuse education and prevention; and
+
+&emsp;“(6) other support services for aftercare.
+
+“(d)
+
+Staffing.—The demonstration schools shall be staffed with health and social service professionals, and educators, and may include—
+
+&emsp;“(1) clinical psychologists;
+
+&emsp;“(2) child psychologists;
+
+&emsp;“(3) substance abuse counselors;
+
+&emsp;“(4) social workers; and
+
+&emsp;“(5) health educators.
+
+“(e)
+
+Enrollment.—Notwithstanding any other provision of law, the Secretary of the Interior may limit the enrollment at the demonstration schools.
+
+“(f)
+
+Assistance.—The Secretary is authorized to enter into agreements with other organizations and agencies, including the Indian Health Service, to carry out this section.
+
+“(g)
+
+Report.—Not later than July 31 of each year, the Secretary of the Interior shall submit a report to the Committee on Indian Affairs of the Senate and the Committee on Education and Labor \[now Committee on Education and the Workforce\] of the House of Representatives on the progress of the Department of the Interior in the development of the demonstration schools.”
+

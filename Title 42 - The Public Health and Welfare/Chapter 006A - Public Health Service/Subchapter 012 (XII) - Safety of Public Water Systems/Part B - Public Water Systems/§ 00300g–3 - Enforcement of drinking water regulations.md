@@ -2,7 +2,7 @@
 
 #### (a) Notice to State and public water system; issuance of administrative order; civil action
 
-(1)(A) Whenever the Administrator finds during a period during which a State has primaryenforcement responsibility for public water systems (within the meaning of section 300g–2(a) of this title) that any public water system—
+(1)(A) Whenever the Administrator finds during a period during which a State has primary enforcement responsibility for public water systems (within the meaning of section 300g–2(a) of this title) that any public water system—
 
 &emsp;(i) for which a variance under section 300g–4 or an exemption under section 300g–5 of this title is not in effect, does not comply with any applicable requirement, or
 
@@ -134,7 +134,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public water systems in the State, including violations with respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
+&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public watersystems in the State, including violations with respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
 
 #### (ii) Distribution
 
@@ -142,7 +142,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (B) Annual report by Administrator
 
-&emsp;&emsp;Not later than July 1, 1998, and annually thereafter, the Administrator shall prepare and make available to the public an annual report summarizing and evaluating reports submitted by States pursuant to subparagraph (A) and notices submitted by public water systems serving Indian Tribes provided to the Administrator pursuant to subparagraph (C) or (D) of paragraph (2) andmaking recommendations concerning the resources needed to improve compliance with this subchapter. The report shall include information about public water system compliance on Indian reservations and about enforcement activities undertaken and financial assistance provided by the Administrator on Indian reservations, and shall make specific recommendations concerning the resources needed to improve compliance with this subchapter on Indian reservations.
+&emsp;&emsp;Not later than July 1, 1998, and annually thereafter, the Administrator shall prepare and make available to the public an annual report summarizing and evaluating reports submitted by States pursuant to subparagraph (A) and notices submitted by public water systems serving Indian Tribes provided to the Administrator pursuant to subparagraph (C) or (D) of paragraph (2) and making recommendations concerning the resources needed to improve compliance with this subchapter. The report shall include information about public water system compliance on Indian reservations and about enforcement activities undertaken and financial assistance provided by the Administrator on Indian reservations, and shall make specific recommendations concerning the resources needed to improve compliance with this subchapter on Indian reservations.
 
 #### (4) Consumer confidence reports by community water systems
 
@@ -176,7 +176,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;(ii) make the consumer confidence report available upon request to the public; and
 
-&emsp;&emsp;&emsp;(iii) publish the report referred to in subparagraph (A) annually in one or more local newspapers serving the area in which customers of the system are located.
+&emsp;&emsp;&emsp;(iii) publish the report referred to in subparagraph (A) annually in one or morelocal newspapers serving the area in which customers of the system are located.
 
 #### (D) Alternative to publication
 
@@ -220,7 +220,7 @@ If the Administrator makes a finding of noncompliance (described in subparagraph
 
 (C) Whenever any civil penalty sought by the Administrator under this subsection for a violation of an applicable requirement exceeds $25,000, the penalty shall be assessed by a civil action brought by the Administrator in the appropriate United States district court (as determined under the provisions of title 28).
 
-(D) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court of appeals has entered final judgment in favor of the Administrator, the Attorney General shall recover the amount for which such person is liable in any appropriate district court of the United States. In any such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+(D) If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriatecourt of appeals has entered final judgment in favor of the Administrator, the Attorney General shall recover the amount for which such person is liable in any appropriate district court of the United States. In any such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 #### (h) Consolidation incentive
 
@@ -290,7 +290,7 @@ Subsec. (a)(1)(B). Pub. L. 99–339, §102(b)(1), amended subpar. (B) generally,
 
 Subsec. (a)(2). Pub. L. 99–339, §102(b)(2), substituted “the Administrator shall issue an order under subsection (g) of this section requiring the public water system to comply with such regulation or requirement or the Administrator shall commence a civil action under subsection (b) of this section” for “he may commence a civil action under subsection (b) of this section”.
 
-Subsec. (b). Pub. L. 99–339, §102(c), inserted “, with an order issued under subsection (g) of this section,” before “or with any schedule” and substituted “there has been a violation” for “there has been a willful violation” and “$25,000” for “$5,000”.
+Subsec. (b). Pub. L. 99–339, §102(c), inserted “, with an order issued under subsection (g) of this section,” before “or with any schedule” and substituted “there hasbeen a violation” for “there has been a willful violation” and “$25,000” for “$5,000”.
 
 Subsec. (c). Pub. L. 99–339, §103, substituted provisions relating to amendment of regulations within fifteen months after June 19, 1986, to provide different types and frequencies of notice based on the differences between violations which are intermittent or continuous, manner and content of notices, notice required to public served by owner or operator of public water system, and civil penalty of $25,000, for provisions relating to form, manner, and frequency of notice based on three month billing period for water bills, notice required to public served by owner or operator of public water system, and civil penalty of $5,000.
 

@@ -62,7 +62,7 @@ Pursuant to section 9701 of title 31, any person who receives a service or thing
 
 &emsp;&emsp;For purposes of subparagraph (A), the term “research reactor” means a nuclear reactor that—
 
-&emsp;&emsp;&emsp;(i) is licensed by the Nuclear Regulatory Commission under section 2134(c) of thistitle for operation at a thermal power level of 10 megawatts or less; and
+&emsp;&emsp;&emsp;(i) is licensed by the Nuclear Regulatory Commission under section 2134(c) of this title for operation at a thermal power level of 10 megawatts or less; and
 
 &emsp;&emsp;&emsp;(ii) if so licensed for operation at a thermal power level of more than 1 megawatt, does not contain—
 

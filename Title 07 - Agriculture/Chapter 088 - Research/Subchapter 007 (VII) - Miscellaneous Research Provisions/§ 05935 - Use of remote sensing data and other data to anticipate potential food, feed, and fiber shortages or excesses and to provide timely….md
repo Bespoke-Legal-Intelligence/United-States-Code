@@ -26,7 +26,7 @@ The authorities provided by this section shall expire 5 years after April 4, 199
 
 #### Codification
 
-Section was enacted as part of the Federal Agriculture Improvement and Reform Act of 1996, and notas part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+Section was enacted as part of the Federal Agriculture Improvement and Reform Act of 1996, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Remote Sensing for Agricultural and Resource Management
 
@@ -44,7 +44,7 @@ Information Development.—The Administrator \[of the National Aeronautics and S
 
 “(b)
 
-Plan.—After performing the activities described in subsection (a) the Administrator shall, in consultation with the Secretary of Agriculture, develop a plan to inform farmers and other prospective users about the use and availability of remote sensing products that may assist with agricultural and forestry applications identified in subsection (a). The Administrator shall transmit such plan to the Congress not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].
+Plan.—After performing the activities described in subsection (a) the Administrator shall, in consultation with the Secretary of Agriculture, develop a plan to inform farmers and other prospective users about the use and availability of remote sensing products that may assist with agricultural and forestry applications identified in subsection (a). The Administrator shall transmit such plan to the Congress not later than180 days after the date of the enactment of this Act \[Oct. 30, 2000\].
 
 “(c)
 

@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (C) Reference price
 
-&emsp;&emsp;The term “reference price” means, with respect to a calendar year, the Secretary's determination of the annual average contract price per kilowatt hour of electricity generated from the same qualified energy resource and sold in the previous year in the United States. For purposes of the preceding sentence, only contracts entered into after December 31, 1989, shall be taken into account.
+&emsp;&emsp;The term “reference price” means, with respect to a calendar year, the Secretary's determination of the annual average contract price per kilowatt hour of electricity generated from the same qualified energy resource and sold in the previous year in the United States. For purposes of the preceding sentence, only contracts entered into afterDecember 31, 1989, shall be taken into account.
 
 #### (3) Production attributable to the taxpayer
 
@@ -168,7 +168,7 @@ A prior section 45 was renumbered section 35 of this title.
 
 <b>1999</b>—Subsec. (c)(1)(C). Pub. L. 106–170, §507(b)(1), added subpar. (C).
 
-Subsec. (c)(3). Pub. L. 106–170, §507(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified facility’ means any facility owned by the taxpayerwhich is originally placed in service after December 31, 1993 (December 31, 1992, in the case of a facility using closed-loop biomass to produce electricity), and before July 1, 1999.”
+Subsec. (c)(3). Pub. L. 106–170, §507(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified facility’ means any facility owned by the taxpayer which is originally placed in service after December 31, 1993 (December 31, 1992, in the case of a facility using closed-loop biomass to produce electricity), and before July 1, 1999.”
 
 Subsec. (c)(4). Pub. L. 106–170, §507(b)(2), added par. (4).
 

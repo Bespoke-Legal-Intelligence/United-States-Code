@@ -26,7 +26,7 @@ After considering representations, if any, made by the person concerned pursuant
 
 If the owner or master of such vessel furnishes good and sufficient evidence that—
 
-&emsp;(1) such vessel, while in the regular course of her voyage, was compelled, by stress of weather or other casualty, to put into such foreignport and purchase such equipments, or make such repairs, to secure the safety and seaworthiness of the vessel to enable her to reach her port of destination;
+&emsp;(1) such vessel, while in the regular course of her voyage, was compelled, by stress of weather or other casualty, to put into such foreign port and purchase such equipments, or make such repairs, to secure the safety and seaworthiness of the vessel to enable her to reach her port of destination;
 
 &emsp;(2) such equipments or parts thereof or repair parts or materials, were manufactured or produced in the United States, and the labor necessary to install such equipments or to make such repairs was performed by residents of the United States, or by members of the regular crew of such vessel; or
 
@@ -78,7 +78,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f)
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114 and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
+Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
 
 #### Amendments
 
@@ -214,7 +214,7 @@ Additional entry.—The entry of a 66th LASH barge (No. CG E69), for which no en
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date of 1984 Amendment
 

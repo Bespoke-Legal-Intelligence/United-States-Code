@@ -6,7 +6,7 @@ The essence of the American economic system of private enterprise is free compet
 
 #### (b) Assistance to compete in international markets
 
-(1) It is the declared policy of the Congress that the Federal Government, through the Small Business Administration, acting in cooperation with the Department of Commerce and other relevant State and Federal agencies, should aid and assist small businesses, as defined under this chapter, to increase their ability to compete in international markets by—
+(1) It is the declared policy of the Congress that the Federal Government, through theSmall Business Administration, acting in cooperation with the Department of Commerce and other relevant State and Federal agencies, should aid and assist small businesses, as defined under this chapter, to increase their ability to compete in international markets by—
 
 &emsp;(A) enhancing their ability to export;
 
@@ -24,7 +24,7 @@ The essence of the American economic system of private enterprise is free compet
 
 #### (c) Aid for agriculturally related industries; financial assistance
 
-It is the declared policy of the Congress that the Government, through the Small Business Administration, should aid and assist small business concerns which are engaged in the production of food and fiber, ranching, and raising of livestock, aquaculture, and all other farming and agricultural related industries; and the financial assistance programs authorized by thischapter are also to be used to assist such concerns.
+It is the declared policy of the Congress that the Government, through the Small Business Administration, should aid and assist small business concerns which are engaged in the production of food and fiber, ranching, and raising of livestock, aquaculture, and all other farming and agricultural related industries; and the financial assistance programs authorized by this chapter are also to be used to assist such concerns.
 
 #### (d) Use of assistance programs to establish, preserve, and strengthen small business concerns
 
@@ -82,7 +82,7 @@ Further, it is the declared policy of the Congress that the Government should ai
 
 #### (g) Assistance to disaster victims under disaster loan program
 
-In administering the disaster loan program authorized by section 636 of this title, to themaximum extent possible, the Administration shall provide assistance and counseling to disaster victims in filing applications, providing information relevant to loan processing, and in loan closing and prompt disbursement of loan proceeds and shall give the disaster program a high priority in allocating funds for administrative expenses.
+In administering the disaster loan program authorized by section 636 of this title, to the maximum extent possible, the Administration shall provide assistance and counseling to disaster victims in filing applications, providing information relevant to loan processing, and in loan closing and prompt disbursement of loan proceeds and shall give the disaster program a high priority in allocating funds for administrative expenses.
 
 #### (h) Assistance to women owned business
 
@@ -126,7 +126,7 @@ In complying with the statement of congressional policy expressed in subsection 
 
 &emsp;(3) avoid unnecessary and unjustified bundling of contract requirements that precludes small business participation in procurements as prime contractors.
 
-(Pub. L. 85–536, §2\[2\], July 18, 1958, 72 Stat. 384; Pub. L. 87–70, title III, §305(b), June 30, 1961, 75 Stat. 167; Pub. L. 87–305, §6, Sept. 26, 1961, 75 Stat. 667; Pub. L. 93–386, §2(a)(1), Aug. 23, 1974, 88 Stat. 742; Pub. L. 94–305, title I, §112(a), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §§201, 203, Oct. 24, 1978, 92 Stat. 1760, 1763; Pub. L. 96–302, title I, §118(a), July 2, 1980, 94 Stat. 840; Pub. L. 99–272, title XVIII, §18015(a), Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–418, title VIII, §8002, Aug. 23, 1988, 102 Stat. 1553; Pub. L. 100–533, title I, §101, Oct. 25, 1988, 102 Stat. 2689; Pub. L. 100–590, title I, §118, Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title II, §§204, 207(b), Nov. 15, 1988, 102 Stat. 3859, 3861; Pub. L. 101–37, §6(c), June 15, 1989, 103 Stat. 72; Pub. L. 103–403, title VI, §609, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 105–135, title IV, §411, Dec. 2, 1997, 111 Stat. 2617.)
+(Pub. L. 85–536, §2\[2\], July 18, 1958, 72 Stat. 384; Pub. L. 87–70, title III, §305(b), June 30, 1961, 75Stat. 167; Pub. L. 87–305, §6, Sept. 26, 1961, 75 Stat. 667; Pub. L. 93–386, §2(a)(1), Aug. 23, 1974, 88 Stat. 742; Pub. L. 94–305, title I, §112(a), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §§201, 203, Oct. 24, 1978, 92 Stat. 1760, 1763; Pub. L. 96–302, title I, §118(a), July 2, 1980, 94 Stat. 840; Pub. L. 99–272, title XVIII, §18015(a), Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–418, title VIII, §8002, Aug. 23, 1988, 102 Stat. 1553; Pub. L. 100–533, title I, §101, Oct. 25, 1988, 102 Stat. 2689; Pub. L. 100–590, title I, §118, Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title II, §§204, 207(b), Nov. 15, 1988, 102 Stat. 3859, 3861; Pub. L. 101–37, §6(c), June 15, 1989, 103 Stat. 72; Pub. L. 103–403, title VI, §609, Oct. 22, 1994, 108 Stat. 4204; Pub. L. 105–135, title IV, §411, Dec. 2, 1997, 111 Stat. 2617.)
 
 #### Codification
 
@@ -256,6 +256,10 @@ Section 1918 of Pub. L. 97–35 provided that: “Sections 1908, 1909, and 1913 
 
 Section 507 of Pub. L. 96–302 provided that: “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, section 5315 of Title 5, Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
 
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–50, §1, Oct. 15, 2001, 115 Stat. 263, provided that: “This Act \[amending sections 638 and 657d of this title and enacting provisions set out as a note under section 638 of this title\] may be cited as the ‘Small Business Technology Transfer Program Reauthorization Act of 2001’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(9) \[§1(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–667, provided that: “This Act \[H.R. 5667, as enacted by section 1(a)(9) of Pub. L. 106–554, see Tables for classification\] may be cited as the ‘Small Business Reauthorization Act of 2000’.”
@@ -292,7 +296,7 @@ Section 601 of title VI of Pub. L. 105–135 provided that: “This title \[enac
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–208, div. D, §1(a), Sept. 30, 1996, 110 Stat. 3009–724, provided that: “This division \[amending sections 80a–18, 632 to 634, 636, 638, 648, 662, 681 to 683, 687, 687b, 687d, 687k to 687m, 694b, 696, 697, 697b, and 697f of this title and section 1431 of Title 12, Banks and Banking, repealing sections 687i and 687j of this title, enacting provisions set out as notes under this section and sections 632 to 634, 636, 681, 683, 694b, and 695 of this title, amending provisions set out as notes under thissection and section 644 of this title, and repealing provisions set out as a note under section 634 of this title\] may be cited as the ‘Small Business Programs Improvement Act of 1996’.”
+Pub. L. 104–208, div. D, §1(a), Sept. 30, 1996, 110 Stat. 3009–724, provided that: “This division \[amending sections 80a–18, 632 to 634, 636, 638, 648, 662, 681 to 683, 687, 687b, 687d, 687k to 687m, 694b, 696, 697, 697b, and 697f of this title and section 1431 of Title 12, Banks and Banking, repealing sections 687i and 687j of this title, enacting provisions set out as notes under this section and sections 632 to 634, 636, 681, 683, 694b, and 695 of this title, amending provisions set out as notes under this section and section 644 of this title, and repealing provisions set out as a note under section 634 of this title\] may be cited as the ‘Small Business Programs Improvement Act of 1996’.”
 
 #### Short Title of 1995 Amendment
 
@@ -342,7 +346,7 @@ Section 1(a) of Pub. L. 100–590 provided that: “This Act \[enacting sections
 
 Pub. L. 100–533, §1, Oct. 25, 1988, 102 Stat. 2689, provided in part that Pub. L. 100–533 “\[enacting chapter 97 of this title and section 417a of Title 41, Public Contracts, amending this section and sections 631b, 636, 637, and 1691b of this title, and enacting provisions set out as notes under this section, sections 636 and 637 of this title, and section 131 of Title 13, Census\] may be cited as the ‘Women's Business Ownership Act of 1988’.”
 
-Section 8001 of title VIII of Pub. L. 100–418 provided that: “This title \[amending this section and sections636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
+Section 8001 of title VIII of Pub. L. 100–418 provided that: “This title \[amending this section and sections 636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 638 of this title\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
 
 #### Short Title of 1984 Amendments
 
@@ -412,11 +416,11 @@ Section 8013 of title VIII of Pub. L. 100–418 provided that: “Notwithstandin
 
 #### Separability
 
-Section 2\[19\] of Pub. L. 85–536 provided that: “If any provision of this Act \[this chapter\], or the applicationthereof to any person or circumstances, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Section 2\[19\] of Pub. L. 85–536 provided that: “If any provision of this Act \[this chapter\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
 #### Authorization of Appropriations
 
-Section 2\[20\] of Pub. L. 85–536, as amended by Pub. L. 87–341, §11(h)(2), Oct. 3, 1961, 75 Stat. 757; Pub. L. 95–89, title I, §102, Aug. 4, 1977, 91 Stat. 553; Pub. L. 95–315, §§5, 7, July 4, 1978, 92 Stat. 379; Pub. L. 96–302, title I, §§101, 110, July 2, 1980, 94 Stat. 833, 837; Pub. L. 97–35, title XIX, §§1905, 1906, Aug. 13, 1981, 95 Stat. 772–777; Pub. L. 98–270, title III, §§302, 305, Apr. 18, 1984, 98 Stat. 160, 161; Pub. L. 98–395, §3, Aug. 21, 1984, 98 Stat. 1367; Pub. L. 99–272, title XVIII, §§18001, 18002, 18012, Apr. 7, 1986, 100 Stat. 361, 363, 369; Pub. L. 100–72, §1, July 11, 1987, 101 Stat. 477; Pub. L. 100–418, title VIII, §§8004, 8006(a), Aug. 23, 1988, 102 Stat. 1556, 1557; Pub. L. 100–590, title I, §§101, 135(1), (2), Nov. 3, 1988, 102 Stat. 2990, 3007; Pub. L. 101–574, title I, §§101, 102, Nov. 15, 1990, 104 Stat. 2815, 2817; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–366, title I, §§102, 115(a), title IV, §§405, 414, Sept. 4, 1992, 106 Stat. 987, 993, 1014, 1018; Pub. L. 103–81, §2, Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §1, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title I, §101, Oct. 22, 1994, 108 Stat. 4176; Pub. L. 104–208, div. D, title II, §208(i)(2), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title I, §101, title II, §211, title VI, §607, Dec. 2, 1997, 111 Stat. 2594, 2600, 2635; Pub. L. 106–9, §2(b), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–24, §1(b), Apr. 27, 1999, 113 Stat. 39; Pub. L. 106–554, §1(a)(8) \[§1(c)\], §1(a)(9) \[title V, §502, title VIII, §804(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–691, 2763A–703, provided that:
+Section 2\[20\] of Pub. L. 85–536, as amended by Pub. L. 87–341, §11(h)(2), Oct. 3, 1961, 75 Stat. 757; Pub. L. 95–89, title I, §102, Aug. 4, 1977, 91 Stat. 553; Pub. L. 95–315, §§5, 7, July 4, 1978, 92 Stat. 379; Pub. L. 96–302, title I, §§101, 110, July 2, 1980, 94 Stat. 833, 837; Pub. L. 97–35, title XIX, §§1905, 1906, Aug. 13, 1981, 95 Stat. 772–777; Pub. L. 98–270, title III, §§302, 305, Apr. 18, 1984, 98 Stat. 160, 161; Pub. L. 98–395, §3, Aug. 21, 1984, 98 Stat. 1367; Pub. L. 99–272, title XVIII, §§18001, 18002, 18012, Apr. 7, 1986, 100 Stat. 361, 363, 369; Pub. L. 100–72, §1, July 11, 1987, 101 Stat. 477; Pub. L. 100–418, title VIII, §§8004, 8006(a), Aug. 23, 1988, 102 Stat. 1556, 1557; Pub. L. 100–590, title I, §§101, 135(1), (2), Nov. 3, 1988, 102 Stat. 2990, 3007; Pub. L. 101–574, title I, §§101, 102, Nov. 15, 1990, 104 Stat. 2815, 2817; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–366, title I, §§102, 115(a), title IV, §§405, 414, Sept. 4, 1992, 106 Stat. 987, 993, 1014, 1018; Pub. L. 103–81, §2, Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §1, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title I, §101, Oct. 22, 1994, 108 Stat. 4176; Pub. L. 104–208, div. D, title II, §208(i)(2), Sept. 30, 1996, 110 Stat. 3009–747; Pub. L. 105–135, title I, §101, title II, §211, title VI, §607, Dec. 2, 1997, 111 Stat. 2594, 2600, 2635; Pub. L. 106–9, §2(b), Apr. 5, 1999, 113 Stat. 17; Pub. L. 106–24, §1(b), Apr. 27, 1999, 113 Stat. 39; Pub. L. 106–554, §1(a)(8) \[§1(c)\], §1(a)(9) \[title V, §502, title VIII, §804(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–664, 2763A–691, 2763A–703; Pub. L. 107–20, title II, §2203(a), July 24, 2001, 115 Stat. 170, provided that:
 
 “(a)(1) For fiscal year 2000 and each fiscal year thereafter, there are authorized to be appropriated such sums as may be necessary and appropriate, to remain available until expended, and to be available solely—
 
@@ -426,9 +430,11 @@ Section 2\[20\] of Pub. L. 85–536, as amended by Pub. L. 87–341, §11(h)(2),
 
 &emsp;“(C) to pay the expenses of the information sharing system, as provided in section 21(c)(8);
 
-&emsp;“(D) to pay the expenses of the association referred to in section 21(a)(3)(A) for conducting the certification program, as provided in section 21(k)(2); and
+&emsp;“(D) to pay the expenses of the association referred to in section 21(a)(3)(A) for conducting the certification program, as provided in section 21(k)(2);
 
-&emsp;“(E) to pay the expenses of the Administration, including salaries of examiners, for conducting examinations as part of the certification program conducted by the association referred to in section 21(a)(3)(A).
+&emsp;“(E) to pay the expenses of the Administration, including salaries of examiners, for conducting examinations as part of the certification program conducted by the association referred to in section 21(a)(3)(A); and
+
+&emsp;“(F) to pay for small business development center grants as mandated or directed by Congress.
 
 “(2) Notwithstanding any other provision of law, the Administration shall enter into commitments for direct loans and to guarantee loans, debentures, payment of rentals, or other amounts due under qualified contracts and other types of financial assistance and enter into commitments to purchase debentures and preferred securities and to guarantee sureties against loss pursuant to programs under this Act \[this chapter\] and the Small Business Investment Act of 1958 \[chapter 14B of this title\], in the full amounts provided by law subject only to (A) the availability of qualified applications, and (B) limitations contained in appropriations Acts. Nothing in this paragraph authorizes the Administration to reduce or limit its authority to enter into such commitments. Subject to approval in appropriations Acts, amounts authorized for preferred securities, debentures or participating securities under title III of the Small Business Investment Act of 1958 \[subchapter III of chapter 14B of this title\] may be obligated in one fiscal year and disbursed or guaranteed in any 1 or more of the 4 subsequent fiscal years.
 
@@ -484,7 +490,7 @@ Program levels.—The following program levels are authorized for fiscal year 19
 
 Additional authorizations.—
 
-&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 1998 such sums as may be necessary to carry out this Act, including administrative expenses and necessary loan capitalfor disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
+&emsp;&emsp;“(A) There are authorized to be appropriated to the Administration for fiscal year 1998 such sums as may be necessary to carry out this Act, including administrative expenses and necessary loan capital for disaster loans pursuant to section 7(b) \[section 636(b) of this title\], and to carry out the Small Business Investment Act of 1958 \[chapter 14B of this title\], including salaries and expenses of the Administration.
 
 &emsp;&emsp;“(B) Notwithstanding subparagraph (A), for fiscal year 1998—
 
@@ -660,7 +666,7 @@ Additional authorizations.—
 
 &emsp;&emsp;“(B) Notwithstanding any other provision of this paragraph, for fiscal year 2001—
 
-&emsp;&emsp;&emsp;“(i) no funds are authorized to be used as loan capital for the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
+&emsp;&emsp;&emsp;“(i) no funds are authorized to be used as loan capital for the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for generalbusiness loans under paragraph (1)(B)(i) is fully funded; and
 
 &emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $1,250,000.
 
@@ -696,7 +702,7 @@ Program levels.—The following program levels are authorized for fiscal year 20
 
 &emsp;&emsp;“(D) For the programs authorized by part B of title IV of the Small Business Investment Act of 1958 \[part B of subchapter IV–A of chapter 14B of this title\], the Administration is authorized to enter into guarantees not to exceed $5,000,000,000 of which not more than 50 percent may be in bonds approved pursuant to section 411(a)(3) of that Act \[section 694b(a)(3) of this title\].
 
-&emsp;&emsp;“(E) The Administration is authorized to make grants or enter cooperative agreements for a totalamount of $6,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
+&emsp;&emsp;“(E) The Administration is authorized to make grants or enter cooperative agreements for a total amount of $6,000,000 for the Service Corps of Retired Executives program authorized by section 8(b)(1) \[section 637(b)(1) of this title\].
 
 &emsp;“(2)
 
@@ -754,7 +760,7 @@ Additional authorizations.—
 
 &emsp;&emsp;&emsp;“(i) no funds are authorized to be used as loan capital for the loan program authorized by section 7(a)(21) except by transfer from another Federal department or agency to the Administration, unless the program level authorized for general business loans under paragraph (1)(B)(i) is fully funded; and
 
-&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $1,250,000.”
+&emsp;&emsp;&emsp;“(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, exceptthat it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $1,250,000.”
 
 #### Loan Application Processing
 
@@ -852,7 +858,7 @@ Pub. L. 102–366, title I, §103, Sept. 4, 1992, 106 Stat. 988, provided that: 
 
 #### National Seminar on Small Business Exports
 
-Pub. L. 102–366, title II, §224, Sept. 4, 1992, 106 Stat. 1000, directed Small Business Administration to conduct a National Seminar on Small Business Exports in Buffalo, New York, in connection with the World University Games Buffalo '93 during July, 1993, in order to develop recommendations designed to stimulate exports from small companies, with such Seminar to build upon the information collected by Administration through previously conducted regional small business trade conferences and prior conference in State of Washington and to specifically consider utility of, and make recommendations regarding, subsequent International Conference on Small Business and Trade.
+Pub. L. 102–366, title II, §224, Sept. 4, 1992, 106 Stat. 1000, directed Small Business Administration to conduct a National Seminar on Small Business Exports in Buffalo, New York, in connection with the World University Games Buffalo '93 during July, 1993, in order to develop recommendations designed to stimulate exports from small companies, with such Seminar tobuild upon the information collected by Administration through previously conducted regional small business trade conferences and prior conference in State of Washington and to specifically consider utility of, and make recommendations regarding, subsequent International Conference on Small Business and Trade.
 
 #### Feasibility Study of Business Cooperation Network
 
@@ -868,7 +874,7 @@ Section 504 of Pub. L. 100–533 provided that: “Nothing contained in this Act
 
 #### Globalization of Production; Report to Congress
 
-Section 8009 of Pub. L. 100–418 directed Administrator of Small Business Administration, within one year after Aug. 23, 1988, to submit a written report to Committees on Small Business of House of Representatives and Senate, prepared by Administration in conjunction with Bureau of Census and in cooperation with other relevant agencies, that would analyze to extent possible the effect of increased outsourcing and other shifts in production arrangements on small firms, particularly manufacturing firms, within United States subcontractor tier and to extent that such data is not available determine methods by which such data might be collected; assess the impact of specific economic policies, including, but not limited to, procurement, tax and trade policies, in facilitating outsourcing and other international production arrangements; and make recommendations as to changes in Governmentpolicy that would improve competitive position of smaller United States subcontractors, including recommendations as to incentives which could be provided to larger corporations to maximize their use of United States subcontractors and assist these subcontractors in changing production and marketing strategies and in obtaining new business in domestic and foreign markets.
+Section 8009 of Pub. L. 100–418 directed Administrator of Small Business Administration, within one year after Aug. 23, 1988, to submit a written report to Committees on Small Business of House of Representatives and Senate, prepared by Administration in conjunction with Bureau of Census and in cooperation with other relevant agencies, that would analyze to extent possible the effect of increased outsourcing and other shifts in production arrangements on small firms, particularly manufacturing firms, within United States subcontractor tier and to extent that such data is not available determine methods by which such data might be collected; assess the impact of specific economic policies, including, but not limited to, procurement, tax and trade policies, in facilitating outsourcing and other international production arrangements; and make recommendations as to changes in Government policy that would improve competitive position of smaller United States subcontractors, including recommendations as to incentives which could be provided to larger corporations to maximize their use of United States subcontractors and assist these subcontractors in changing production and marketing strategies and in obtaining new business in domestic and foreign markets.
 
 #### National Seminar on Small Business Exports
 
@@ -920,7 +926,7 @@ Section 1. <i>Functions of the Secretary of Commerce</i>. (a) The Secretary of C
 
 (3) Establish a center for the development, collection, summarization, and dissemination of information that will be helpful to persons and organizations throughout the Nation in undertaking or promoting the establishment and successful operation of minority business enterprise.
 
-(4) Within constraints of law and appropriations therefor, and according to his discretion, provide financial assistance to public and private organizations so that they may render technical and management assistance to minority business enterprises, and defray all or part of the costs of pilot or demonstration projects conducted by public or private agencies or organizations which are designed to overcome the specialproblems of minority business enterprises or otherwise to further the purposes of this order.
+(4) Within constraints of law and appropriations therefor, and according to his discretion, provide financial assistance to public and private organizations so that they may render technical and management assistance to minority business enterprises, and defray all or part of the costs of pilot or demonstration projects conducted by public or private agencies or organizations which are designed to overcome the special problems of minority business enterprises or otherwise to further the purposes of this order.
 
 (b) The Secretary, as he deems necessary or appropriate to enable him to better fulfill the responsibilities vested in him by subsection (a), may—
 
@@ -956,7 +962,7 @@ Sec. 5. <i>Policies and Standards</i>. The Secretary may establish such policies
 
 Sec. 6. <i>Definitions</i>. For purposes of this order, the following definitions shall apply:
 
-(a) “Minority business enterprise” means a business enterprise that is owned or controlled by one or more socially or economically disadvantaged persons. Such disadvantage may arise from cultural, racial, chronic economic circumstances or background or other similar cause. Such persons include, but are not limited to, Negroes, Puerto Ricans, Spanish-speaking Americans, American Indians, Eskimos, and Aleuts.
+(a) “Minority business enterprise” means a business enterprise that is owned or controlled by one or more socially or economically disadvantaged persons. Such disadvantage may arise from cultural, racial, chronic economic circumstances or background or other similar cause. Such persons include, but are not limited to,Negroes, Puerto Ricans, Spanish-speaking Americans, American Indians, Eskimos, and Aleuts.
 
 (b) “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
 

@@ -20,5 +20,5 @@ Another prior section 434 of Pub. L. 90–247 was classified to section 1232c of
 
 #### Amendments
 
-1994—Pub. L. 103–382, §244, substituted “Secretary determines” for “Commissioner determines” and “the Secretary shall” for “he shall” and inserted “is made” after “such determination”.
+1994—Pub. L. 103–382, §244, substituted “Secretary determines” for “Commissioner determines” and “theSecretary shall” for “he shall” and inserted “is made” after “such determination”.
 

@@ -16,7 +16,7 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (3) Minority representation
 
-&emsp;In appointing the members of the Advisory Committee under paragraph (2), the Secretaryshall ensure the adequate representation of women and minorities.
+&emsp;In appointing the members of the Advisory Committee under paragraph (2), the Secretary shall ensure the adequate representation of women and minorities.
 
 #### (c) Terms
 
@@ -86,7 +86,7 @@ November 13, 1998, referred to in subsec. (b)(2), was in the original “the dat
 
 A prior section 294f, act July 1, 1944, ch. 373, title VII, §733, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2262; amended Dec. 19, 1977, Pub. L. 95–215, §4(e)(10), 91 Stat. 1506; Nov. 6, 1978, Pub. L. 95–598, title III, §327, 92 Stat. 2679; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2730, 95 Stat. 919; July 1, 1988, Pub. L. 100–360, title IV, §411(f)(10)(C)(ii), 102 Stat. 781; Nov. 4, 1988, Pub. L. 100–607, title VI, §602(h)–(k), 102 Stat. 3123; Aug. 16, 1989, Pub. L. 101–93, §7, 103 Stat. 615, related to procedures upon default by borrower under student loan insurance program, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292f of this title.
 
-Another prior section 294f, act July 1, 1944, ch. 373, title VII, §746, as added Aug. 16, 1968, Pub. L. 90–490, title I, §121(e), 82 Stat. 778; amended Nov. 18, 1971, Pub. L. 92–157, title I, §§105(f)(2), 106(b)(5), 85 Stat. 451, 453, provided for transfer of funds to scholarships in relation to loans to students studying in United States, prior to repeal by Pub. L. 94–484, title IV, §406(a)(1), Oct. 12, 1976, 90 Stat. 2268.
+Another prior section 294f, act July 1, 1944, ch. 373, title VII, §746, as added Aug. 16, 1968, Pub. L. 90–490, title I, §121(e), 82 Stat. 778; amended Nov. 18, 1971, Pub.L. 92–157, title I, §§105(f)(2), 106(b)(5), 85 Stat. 451, 453, provided for transfer of funds to scholarships in relation to loans to students studying in United States, prior to repeal by Pub. L. 94–484, title IV, §406(a)(1), Oct. 12, 1976, 90 Stat. 2268.
 
 #### Change of Name
 
@@ -94,7 +94,7 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 #### Termination of Advisory Committees
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time asmay be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Committee”.</i>
 

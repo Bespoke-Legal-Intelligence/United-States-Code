@@ -34,7 +34,7 @@ The Secretary shall not take any action under this section or under subchapter I
 
 Nothing in this section may be construed as creating any right of a veteran to obtain health services from the Indian Health Service except as provided in an agreement under subsection (c) of this section.
 
-(Pub. L. 94–437, title VIII, §816, formerly title VII, §716, as added Pub. L. 100–713, title VII, §710, Nov. 23, 1988, 102 Stat. 4832; amended Pub. L. 102–54, §13(j)(2), June 13, 1991, 105 Stat. 276; renumbered title VIII, §816, and amended Pub. L. 102–573, title VII, §701(a), (b), title IX, §902(9), Oct. 29, 1992, 106 Stat. 4572, 4592.)
+(Pub. L. 94–437, title VIII, §816, formerly title VII, §716, as added Pub. L. 100–713, title VII, §710,Nov. 23, 1988, 102 Stat. 4832; amended Pub. L. 102–54, §13(j)(2), June 13, 1991, 105 Stat. 276; renumbered title VIII, §816, and amended Pub. L. 102–573, title VII, §701(a), (b), title IX, §902(9), Oct. 29, 1992, 106 Stat. 4572, 4592.)
 
 #### Amendments
 

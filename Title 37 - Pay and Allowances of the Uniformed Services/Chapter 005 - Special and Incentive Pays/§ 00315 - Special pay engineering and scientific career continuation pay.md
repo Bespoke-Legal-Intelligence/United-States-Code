@@ -34,7 +34,7 @@
 
 #### Amendments
 
-1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (b)” in two places in par. (1)and struck out “of this subsection” after “paragraph (1)” in pars. (2) to (4) and after “paragraph (3)” in par. (2).
+1991—Subsec. (c). Pub. L. 102–25 struck out “of this section” after “subsection (b)” in two places in par. (1) and struck out “of this subsection” after “paragraph (1)” in pars. (2) to (4) and after “paragraph (3)” in par. (2).
 
 1987—Subsec. (a). Pub. L. 100–26 inserted “the term” after “In this section,”.
 

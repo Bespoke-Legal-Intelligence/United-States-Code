@@ -6,7 +6,7 @@ From each State's allotments for a fiscal year under section 15022 of this title
 
 #### (b) Designated State agency expenditures
 
-The Secretary may make payments to a State for the portion described in section 15024(c)(5)(B)(vi) of this title in advance or byway of reimbursement, and in such installments as the Secretary may determine.
+The Secretary may make payments to a State for the portion described in section 15024(c)(5)(B)(vi) of this title in advance or by way of reimbursement, and in such installments as the Secretary may determine.
 
 (Pub. L. 106–402, title I, §123, Oct. 30, 2000, 114 Stat. 1696.)
 

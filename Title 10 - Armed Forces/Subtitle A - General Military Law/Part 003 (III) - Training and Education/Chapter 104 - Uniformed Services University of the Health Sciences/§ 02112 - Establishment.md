@@ -1,14 +1,16 @@
 ### §2112. Establishment
 
-(a) There is hereby authorized to be established within 25 miles of the District of Columbia a Uniformed Services University of the Health Sciences (hereinafter in this chapter referred to as the “University”), at a site or sites to be selected by the Secretary of Defense, with authority to grant appropriate advanced degrees. It shall be so organized as to graduate not less than 100 medical students annually, with the first class graduating not later than September 21, 1982.
+(a) There is hereby authorized to be established within 25 miles of the District of Columbia a Uniformed Services University of the Health Sciences (hereinafter in this chapter referred to as the “University”), at a site or sites to be selected by the Secretary of Defense, with authority to grant appropriate advanced degrees. It shall be so organized as to graduate not less than 100 medical students annually.
 
 (b) Except as provided in subsection (a), the numbers of persons to be graduated from the University shall be prescribed by the Secretary of Defense. In so prescribing the number of persons to be graduated from the University, the Secretary of Defense shall institute actions necessary to ensure the maximum number of first-year enrollments in the University consistent with the academic capacity of the University and the needs of the uniformed services for medical personnel.
 
 (c) The development of the University may be by such phases as the Secretary of Defense may prescribe subject to the requirements of subsection (a).
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 713; amended Pub. L. 96–107, title VIII, §803(a), Nov. 9, 1979, 93 Stat. 811; Pub. L. 96–513, title V, §511(63), (64), Dec. 12, 1980, 94 Stat. 2925, 2926; Pub. L. 104–106, div. A, title X, §1072(b)(1), Feb. 10, 1996, 110 Stat. 446.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 713; amended Pub. L. 96–107, title VIII, §803(a), Nov. 9, 1979, 93 Stat. 811; Pub. L. 96–513, title V, §511(63), (64), Dec. 12, 1980, 94 Stat. 2925, 2926; Pub. L. 104–106, div. A, title X, §1072(b)(1), Feb. 10, 1996, 110 Stat. 446; Pub. L. 107–107, div. A, title X, §1048(e)(8), Dec. 28, 2001, 115 Stat. 1228.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107 struck out “, with the first class graduating not later than September 21, 1982” before period at end.
 
 1996—Subsec. (b). Pub. L. 104–106 struck out “, upon recommendation of the Board of Regents,” before “institute actions necessary”.
 
@@ -52,7 +54,7 @@ Pub. L. 103–337, div. A, title IX, §922, Oct. 5, 1994, 108 Stat. 2829, as ame
 
 “(b)
 
-Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the ongoing operation of the Uniformed Services University of the Health Sciences as an institution of professional education that is vital to the education and training each year of significantnumbers of personnel of the uniformed services for careers as uniformed services health care providers.
+Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the ongoing operation of the Uniformed Services University of the Health Sciences as an institution of professional education that is vital to the education and training each year of significant numbers of personnel of the uniformed services for careers as uniformed services health care providers.
 
 “(c)
 
@@ -66,7 +68,7 @@ GAO Evaluation.—Not later than June 1, 1995, the Comptroller General of the Un
 
 &emsp;“(4) A review of the overall issue of the special needs of military medicine and how those special needs are being met by physicians obtained from University and physicians obtained from other sources.
 
-&emsp;“(5) An assessment of the extent to which the University has responded to the 1990 report of the Inspector General of the Department of Defense, including recommendations as to resolution of any continuing issues relating to management and internal fiscal controls of the University, including issues relating to the Henry M. Jackson Foundation for the Advancement of Military Medicine identified in the 1990 report.
+&emsp;“(5) An assessment of the extent to which the University has responded to the 1990 report of the Inspector General of the Department of Defense, includingrecommendations as to resolution of any continuing issues relating to management and internal fiscal controls of the University, including issues relating to the Henry M. Jackson Foundation for the Advancement of Military Medicine identified in the 1990 report.
 
 &emsp;“(6) Such other recommendations as the Comptroller General considers appropriate.”
 

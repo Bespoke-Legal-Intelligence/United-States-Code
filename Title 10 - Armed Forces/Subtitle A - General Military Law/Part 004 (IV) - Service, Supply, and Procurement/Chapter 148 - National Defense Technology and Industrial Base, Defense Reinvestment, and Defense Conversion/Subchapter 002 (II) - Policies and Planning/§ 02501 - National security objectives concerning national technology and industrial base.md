@@ -30,7 +30,7 @@ Civil-Military Integration Policy.—It is the policy of Congress that the Unite
 
 &emsp;(3) Reducing Federal Government barriers to the use of commercial products, processes, and standards.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786;Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612.)
+(Added Pub. L. 102–484, div. D, title XLII, §4211, Oct. 23, 1992, 106 Stat. 2662; amended Pub. L. 103–35, title II, §201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, §1182(a)(10), title XIII, §1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, §1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, §829(a), Sept. 23, 1996, 110 Stat. 2612.)
 
 #### Prior Provisions
 
@@ -46,7 +46,7 @@ Subsec. (a). Pub. L. 104–106, §1081(a)(1)(A)(i), substituted “National Secu
 
 Subsec. (a)(5). Pub. L. 104–201 added par. (5).
 
-Pub. L. 104–106, §1081(a)(1)(A)(ii), struck out par. (5) which read as follows: “Furthering the missions of the Department of Defense through the support of policy objectives and programs relating to the defense reinvestment, diversification, and conversion objectives specified in subsection (b).”
+Pub. L. 104–106, §1081(a)(1)(A)(ii), struck out par. (5) which read as follows: “Furthering the missions of the Department of Defense through the support of policyobjectives and programs relating to the defense reinvestment, diversification, and conversion objectives specified in subsection (b).”
 
 Subsecs. (b), (c). Pub. L. 104–106, §1081(a)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which stated policy objectives of Congress relating to defense reinvestment, diversification, and conversion.
 
@@ -57,6 +57,90 @@ Subsec. (a)(5). Pub. L. 103–160, §1313, added par. (5).
 Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
 
 #### Air Force Science and Technology Planning
+
+Pub. L. 107–107, div. A, title II, subtitle D, Dec. 28, 2001, 115 Stat. 1041, provided that:
+
+#### “SEC. 251. SHORT TITLE.
+
+“This subtitle may be cited as the ‘Air Force Science and Technology for the 21st Century Act’.
+
+#### “SEC. 252. SCIENCE AND TECHNOLOGY INVESTMENT AND DEVELOPMENT PLANNING.
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that the Secretary of the Air Force should carry out each of the following:
+
+&emsp;“(1) Continue and improve efforts to ensure that—
+
+&emsp;&emsp;“(A) the Air Force science and technology community is represented, and the recommendations of that community are considered, at all levels of program planning and budgetary decisionmaking within the Air Force;
+
+&emsp;&emsp;“(B) advocacy for science and technology development is institutionalized across all levels of Air Force management in a manner that is not dependent on individuals; and
+
+&emsp;&emsp;“(C) the value of Air Force science and technology development is made increasingly apparent to the warfighters, by linking the needs of those warfighters with decisions on science and technology development.
+
+&emsp;“(2) Complete and adopt a policy directive that provides for changes in how the Air Force makes budgetary and nonbudgetary decisions with respect to its science and technology development programs and how it carries out those programs.
+
+&emsp;“(3) At least once every five years, conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs that is consistent with the review specified in section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–46 \[set out as a note below\]).
+
+&emsp;“(4) Ensure that development and science and technology planning and investment activities are carried out for future space warfighting systems and for future nonspace warfighting systems in an integrated manner.
+
+&emsp;“(5) Elevate the position within the Office of the Secretary of the Air Force that has primary responsibility for budget and policy decisions for science and technology programs.
+
+“(b)
+
+Reinstatement of Development Planning.—(1) The Secretary of the Air Force shall reinstate and implement a revised development planning process that provides for each of the following:
+
+&emsp;“(A) Coordinating the needs of Air Force warfighters with decisions on science and technology development.
+
+&emsp;“(B) Giving input into the establishment of priorities among science and technology programs.
+
+&emsp;“(C) Analyzing Air Force capability options for the allocation of Air Force resources.
+
+&emsp;“(D) Developing concepts for technology, warfighting systems, and operations with which the Air Force can achieve its critical future goals.
+
+&emsp;“(E) Evaluating concepts for systems and operations that leverage technology across Air Force organizational boundaries.
+
+&emsp;“(F) Ensuring that a ‘system-of-systems’ approach is used in carrying out the various Air Force capability planning exercises.
+
+&emsp;“(G) Utilizing existing analysis capabilities within the Air Force product centers in a collaborative and integrated manner.
+
+“(2) Not later than one year after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of the Air Force shall submit to Congress a report on the implementation of the planning process required by paragraph (1). The report shall include the annual amount that the Secretary considers necessary to carry out paragraph (1).
+
+#### “SEC. 253. STUDY AND REPORT ON EFFECTIVENESS OF AIR FORCE SCIENCE AND TECHNOLOGY PROGRAM CHANGES.
+
+“(a)
+
+Requirement.—The Secretary of the Air Force, in cooperation with the National Research Council of the National Academy of Sciences, shall carry out a study to determine how the changes to the Air Force science and technology program implemented during the past two years affect the future capabilities of the Air Force.
+
+“(b)
+
+Matters Studied.—(1) The study shall review and assess whether such changes as a whole are sufficient to ensure the following:
+
+&emsp;“(A) That the concerns about the management of the science and technology program that have been raised by Congress, the Defense Science Board, the Air Force Science Advisory Board, and the Air Force Association have been adequately addressed.
+
+&emsp;“(B) That appropriate and sufficient technology is available to ensure the military superiority of the United States and counter future high-risk threats.
+
+&emsp;“(C) That the science and technology investments are balanced to meet the near-, mid-, and long-term needs of the Air Force.
+
+&emsp;“(D) That technologies are made available that can be used to respond flexibly and quickly to a wide range of future threats.
+
+&emsp;“(E) That the Air Force organizational structure provides for a sufficiently senior level advocate of science and technology to ensure an ongoing, effective presence of the science and technology community during the budget and planning process.
+
+“(2) In addition, the study shall assess the specific changes to the Air Force science and technology program as follows:
+
+&emsp;“(A) Whether the biannual science and technology summits provide sufficient visibility into, and understanding and appreciation of, the value of the science and technology program to the senior level of Air Force budget and policy decisionmakers.
+
+&emsp;“(B) Whether the applied technology councils are effective in contributing the input of all levels beneath the senior leadership into the coordination, focus, and content of the science and technology program.
+
+&emsp;“(C) Whether the designation of the commander of the Air Force Materiel Command as the science and technology budget advocate is effective to ensure that an adequate Air Force science and technology budget is requested.
+
+&emsp;“(D) Whether the revised development planning process is effective to aid in the coordination of the needs of the Air Force warfighters with decisions on science and technology investments and the establishment of priorities among different science and technology programs.
+
+&emsp;“(E) Whether the implementation of section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–46 \[set out as a note below\]) is effective to identify the basis for the appropriate science and technology program funding level and investment portfolio.
+
+“(c)
+
+Report.—Not later than May 1, 2003, the Secretary of the Air Force shall submit to Congress the results of the study.”
 
 Pub. L. 106–398, §1 \[\[div. A\], title II, §252\], Oct. 30, 2000, 114 Stat. 1654, 1654A–46, provided that:
 
@@ -210,7 +294,7 @@ Relationship of defense science and technology program to university research.�
 
 Relationship of the defense science and technology program to commercial research and technology.—(A) It is the sense of Congress that, in supporting projects within the Defense Science and Technology Program, the Secretary of Defense should attempt to leverage commercial research, technology, products, and processes for the benefit of the Department of Defense.
 
-&emsp;“(B) It is the sense of Congress that funds made available for projects and programs of the Defense Science and Technology Program should be used onlyfor the benefit of the Department of Defense, which includes—
+&emsp;“(B) It is the sense of Congress that funds made available for projects and programs of the Defense Science and Technology Program should be used only for the benefit of the Department of Defense, which includes—
 
 &emsp;&emsp;“(i) the development of technology that has only military applications;
 
@@ -394,7 +478,7 @@ Functions.—The Secretary of Defense, acting through the Director of the Defens
 
 &emsp;&emsp;“(B) assessments of potential markets for maritime products; and
 
-&emsp;&emsp;“(C) recommendation of industrial entities, partnerships, joint ventures, or consortia for short- andlong-term manufacturing technology investment strategies.
+&emsp;&emsp;“(C) recommendation of industrial entities, partnerships, joint ventures, or consortia for short- and long-term manufacturing technology investment strategies.
 
 &emsp;“(2) Funding and program management activities to develop innovative design and production processes and the technologies required to implement those processes.
 
@@ -412,7 +496,7 @@ Maximum department of defense share.—The Secretary of Defense shall ensure tha
 
 &emsp;“(2)
 
-Regulations.—The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a partnership for the purpose of calculating the share of the partnership costs that has been or is being undertaken by such participants. In prescribing the regulations, the Secretary may determine that a participant that is a small business concern may use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of partnership activities. Any such funds so used may be included in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity contribution in the program from non-Federal sources.”
+Regulations.—The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a partnership for the purpose of calculating the share of the partnership costs that has been or is being undertaken by such participants. In prescribing the regulations, the Secretary may determine that a participant that is a small business concern may use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of partnership activities. Any such funds so used may be included in calculating the amount of the financialcommitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity contribution in the program from non-Federal sources.”
 
 #### Armament Retooling and Manufacturing Support Initiative
 
@@ -470,7 +554,7 @@ Constructive Notice.—The notice of termination of, or substantial reduction in
 
 “(e)
 
-Loss of Eligibility.—An employee who receives a notice of withdrawal or cancellation of the termination of, or substantial reduction in, contract funding shall not be eligible, on the basis of any related reduction in funding under the contract, to participate inemployment and training activities under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], beginning on the date on which the employee receives the notice.
+Loss of Eligibility.—An employee who receives a notice of withdrawal or cancellation of the termination of, or substantial reduction in, contract funding shall not be eligible, on the basis of any related reduction in funding under the contract, to participate in employment and training activities under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], beginning on the date on which the employee receives the notice.
 
 “(f)
 

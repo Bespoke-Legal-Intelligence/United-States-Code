@@ -98,7 +98,7 @@ Section 807(e) of Pub. L. 104–293 provided that: “Not later than January 31 
 
 #### Separation Pay Program for Voluntary Separation From Service
 
-Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104, as amended by Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118; Pub. L. 104–93, title IV, §401, Jan. 6, 1996, 109 Stat. 968; Pub. L. 104–293, title IV, §401, Oct. 11, 1996, 110 Stat. 3468; Pub. L. 106–120, title IV, §402, Dec. 3, 1999, 113 Stat. 1616, provided that:
+Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104, as amended by Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118; Pub. L. 104–93, title IV, §401, Jan. 6, 1996, 109 Stat. 968; Pub. L. 104–293, title IV, §401, Oct. 11, 1996, 110 Stat. 3468; Pub. L. 106–120, title IV, §402, Dec. 3, 1999, 113 Stat. 1616; Pub. L. 107–108, title IV, §402, Dec. 28, 2001, 115 Stat. 1403, provided that:
 
 “(a)
 
@@ -114,7 +114,7 @@ Definitions.—For purposes of this section—
 
 “(b)
 
-Establishment of Program.—In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 \[Mar. 30, 1994\] and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employment is with an Executive agency (as defined by section 105 of title 5, United States Code), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+Establishment of Program.—In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 \[Mar. 30, 1994\] and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employment is with an Executive agency (as defined by section 105 of title 5, United States Code), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity inthe legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 “(c)
 
@@ -160,7 +160,7 @@ Amount and Treatment for Other Purposes.—Such separation pay—
 
 “(f)
 
-Termination.—No amount shall be payable under this section based on any separation occurring after September 30, 2002.
+Termination.—No amount shall be payable under this section based on any separation occurring after September 30, 2003.
 
 “(g)
 
@@ -180,7 +180,7 @@ Annual report.—At the end of each of the fiscal years 1993 through 1997, the D
 
 “(i)
 
-Remittance of Funds.—The Director shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund (in addition to any other payments which the Director is required to make under subchapter III of chapter 83 and subchapter II of chapter 84 of title 5, United States Code), an amount equal to 15 percent of the final basic pay of each employee who, in fiscal year 1998, 1999, 2000, 2001, or 2002, retires voluntarily under section 8336, 8412, or 8414 of such title or resigns and to whom a voluntary separation incentive payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).”
+Remittance of Funds.—The Director shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund (in addition to any other payments which the Director is required to make under subchapter III of chapter 83 and subchapter II of chapter 84 of title 5, United States Code), an amount equal to 15 percent of the final basic pay of each employee who, in fiscal year 1998, 1999, 2000, 2001, 2002, or 2003 retires voluntarily under section 8336, 8412, or 8414 of such title or resigns and to whom a voluntary separation incentive payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).”
 
 #### Section Referred to in Other Sections
 

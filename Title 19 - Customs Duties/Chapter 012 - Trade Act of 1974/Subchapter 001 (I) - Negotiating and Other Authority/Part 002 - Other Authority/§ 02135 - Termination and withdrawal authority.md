@@ -42,7 +42,7 @@ Pub. L. 103–465, title IV, §421, Dec. 8, 1994, 108 Stat. 4964, provided that:
 
 “(a)
 
-In General.—In the application of section 125(c) of the Trade Act of 1974 (19 U.S.C. 2135) with respect to any item provided for in subheadings 2401.10.60, 2401.20.30, 2401.20.80, 2401.30.30, 2401.30.60, 2401.30.90,2403.10.00, 2403.91.40, or 2403.99.00 of the HTS, ‘350’ shall be substituted for ‘20’ where it appears in such section.
+In General.—In the application of section 125(c) of the Trade Act of 1974 (19 U.S.C. 2135) with respect to any item provided for in subheadings 2401.10.60, 2401.20.30, 2401.20.80, 2401.30.30, 2401.30.60, 2401.30.90, 2403.10.00, 2403.91.40, or 2403.99.00 of the HTS, ‘350’ shall be substituted for ‘20’ where it appears in such section.
 
 “(b)
 

@@ -1,6 +1,6 @@
 ### §6706. Institutes of Tropical Forestry
 
-The Secretary is authorized and directed to establish an Institute of Tropical Forestry inPuerto Rico and an Institute of Pacific Islands Forestry (hereafter in this section referred to as the “Institutes”). The Institutes shall conduct research on forest management and natural resources that shall include—
+The Secretary is authorized and directed to establish an Institute of Tropical Forestry in Puerto Rico and an Institute of Pacific Islands Forestry (hereafter in this section referred to as the “Institutes”). The Institutes shall conduct research on forest management and natural resources that shall include—
 
 &emsp;(1) management and development of tropical forests;
 
@@ -22,5 +22,5 @@ The Secretary is authorized and directed to establish an Institute of Tropical F
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 sections 4503c, 4503d.
+This section is referred to in title 16 section 4503d.
 

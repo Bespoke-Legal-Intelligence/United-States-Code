@@ -34,7 +34,7 @@ The purpose of the National Summit shall be—
 
 &emsp;(7) to examine the impact and effectiveness of government programs at the Federal, State, and local levels to educate the public about, and to encourage, retirement income savings;
 
-&emsp;(8) to develop such specific and comprehensive recommendations for the legislative and executive branches of the Government and for private sector action as may be appropriate for promoting private pensions and individual retirement savings; and
+&emsp;(8) to develop such specific and comprehensive recommendations for the legislative and executive branches of the Government and for private sector action as may be appropriatefor promoting private pensions and individual retirement savings; and
 
 &emsp;(9) to develop recommendations for the coordination of Federal, State, and local retirement income savings initiatives among the Federal, State, and local levels of government and for the coordination of such initiatives.
 
@@ -171,4 +171,6 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1)(E), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 

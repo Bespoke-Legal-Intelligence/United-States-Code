@@ -22,3 +22,7 @@ Section 1 of act June 4, 1956, provided: “That this Act \[enacting this chapte
 
 Section 14 of act June 4, 1956, provided that: “If any provision of this Act \[this chapter\] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 1962d–22.
+

@@ -6,7 +6,7 @@
 
 &emsp;(2) compel action of the Secretary unlawfully withheld or unreasonably delayed;
 
-&emsp;(3) hold unlawful and set aside decisions, findings (other than those described in clause (4) of this subsection), conclusions, rules, and regulations issued or adopted by the Secretary, the Board of Veterans’ Appeals, or the Chairman of the Board found to be—
+&emsp;(3) hold unlawful and set aside decisions, findings (other than those described in clause\(4) of this subsection), conclusions, rules, and regulations issued or adopted by the Secretary, the Board of Veterans’ Appeals, or the Chairman of the Board found to be—
 
 &emsp;&emsp;(A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law;
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(D) without observance of procedure required by law; and
 
-&emsp;(4) in the case of a finding of material fact made in reaching a decision in a case beforethe Department with respect to benefits under laws administered by the Secretary, hold unlawful and set aside such finding if the finding is clearly erroneous.
+&emsp;(4) in the case of a finding of material fact made in reaching a decision in a case before the Department with respect to benefits under laws administered by the Secretary, hold unlawful and set aside such finding if the finding is clearly erroneous.
 
 (b) In making the determinations under subsection (a) of this section, the Court shall take due account of the rule of prejudicial error.
 

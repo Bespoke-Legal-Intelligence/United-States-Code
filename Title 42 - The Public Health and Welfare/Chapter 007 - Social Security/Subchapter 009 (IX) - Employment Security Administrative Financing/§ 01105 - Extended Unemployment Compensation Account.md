@@ -6,7 +6,7 @@ There is hereby established in the Unemployment Trust Fund an extended unemploym
 
 #### (b) Transfers to account
 
-(1) Except as provided in paragraph (3), the Secretary of the Treasury shall transfer (as of the close of each month) from the employmentsecurity administration account to the extended unemployment compensation account established by subsection (a) of this section, an amount (determined by such Secretary) equal to 20 percent of the amount by which—
+(1) Except as provided in paragraph (3), the Secretary of the Treasury shall transfer (as of the close of each month) from the employment security administration account to the extended unemployment compensation account established by subsection (a) of this section, an amount (determined by such Secretary) equal to 20 percent of the amount by which—
 
 &emsp;(A) the transfers to the employment security administration account pursuant to section 1101(b)(2) of this title during such month, exceed
 
@@ -24,7 +24,7 @@ There is hereby established in the Unemployment Trust Fund an extended unemploym
 
 #### (c) Transfers to State accounts
 
-Amounts in the extended unemployment compensation account shall be available for transfer to the accounts of the States in the Unemployment Trust Fund as provided in section 204(e) of the Federal-State Extended Unemployment Compensation Act of 1970.
+Amounts in the extended unemployment compensation account shall be available for transferto the accounts of the States in the Unemployment Trust Fund as provided in section 204(e) of the Federal-State Extended Unemployment Compensation Act of 1970.
 
 #### (d) Advances to account; repayment
 

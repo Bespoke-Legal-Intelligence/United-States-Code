@@ -116,7 +116,7 @@ Defined benefit plans.—In the case of a defined benefit plan, the accrued bene
 
 &emsp;&emsp;(I) at the rate of 120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year for the period beginning with the 1st plan year to which subsection (a)(2) of this section applies by reason of the applicable effective date) and ending with the date on which the determination is being made, and
 
-&emsp;&emsp;(II) at the interest rate which would be used under the plan under section 1055(g)(3) of this title (as of the determination date)for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
+&emsp;&emsp;(II) at the interest rate which would be used under the plan under section 1055(g)(3) of this title (as of the determination date) for the period beginning with the determination date and ending on the date on which the employee attains normal retirement age.
 
 > For purposes of this subparagraph, the term “mandatory contributions” means amounts contributed to the plan by the employee which are required as a condition of employment, as a condition of participation in such plans, or as a condition of obtaining benefits under the plan attributable to employer contributions.
 
@@ -138,7 +138,7 @@ Notwithstanding section 1053(b)(1) of this title, for purposes of determining th
 
 #### (e) Opportunity to repay full amount of distributions which have been reduced through disregarded employee service
 
-For purposes of determining the employee's accrued benefit, the plan shall not disregard service as provided in subsection (d) of this section unless the plan provides an opportunity for the participant to repay the full amount of a distribution described in subsection (d) of this section with, in the case of a defined benefit plan, interest at the rate determined for purposes of subsection (c)(2)(C) of this section and provides that upon such repayment the employee's accrued benefit shall be recomputed by taking into account service so disregarded. This subsection shall apply only in the case of a participant who—
+For purposes of determining the employee's accrued benefit, the plan shall not disregard service as provided in subsection (d) of this section unless the plan provides an opportunity for the participant to repay the full amount of a distribution described in subsection (d) of this section with, in the case of a defined benefitplan, interest at the rate determined for purposes of subsection (c)(2)(C) of this section and provides that upon such repayment the employee's accrued benefit shall be recomputed by taking into account service so disregarded. This subsection shall apply only in the case of a participant who—
 
 &emsp;(1) received such a distribution in any plan year to which this section applies which distribution was less than the present value of his accrued benefit,
 
@@ -162,7 +162,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(B) eliminating an optional form of benefit,
 
-> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
+> with respect to benefits attributable to service before the amendment shall be treated as reducing accrued benefits. In the case of a retirement-type subsidy, the preceding sentence shall apply only with respect to a participant who satisfies (either before or after the amendment) the preamendment conditions for the subsidy. The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner. The Secretary of the Treasury may by regulations provide that this subparagraph shall not apply to a plan amendment described in subparagraph (B) (other than a plan amendment having an effect described in subparagraph (A)).
 
 (3) For purposes of this subsection, any—
 
@@ -170,25 +170,77 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;(B) employee stock ownership plan (as defined in section 4975(e)(7) of title 26),
 
-> shall not be treated as failing to meet the requirements of this subsection merely because itmodifies distribution options in a nondiscriminatory manner.
+> shall not be treated as failing to meet the requirements of this subsection merely because it modifies distribution options in a nondiscriminatory manner.
+
+(4)(A) A defined contribution plan (in this subparagraph referred to as the “transferee plan”) shall not be treated as failing to meet the requirements of this subsection merely because the transferee plan does not provide some or all of the forms of distribution previously available under another defined contribution plan (in this subparagraph referred to as the “transferor plan”) to the extent that—
+
+&emsp;(i) the forms of distribution previously available under the transferor plan applied to the account of a participant or beneficiary under the transferor plan that was transferred from the transferor plan to the transferee plan pursuant to a direct transfer rather than pursuant to a distribution from the transferor plan;
+
+&emsp;(ii) the terms of both the transferor plan and the transferee plan authorize the transfer described in clause (i);
+
+&emsp;(iii) the transfer described in clause (i) was made pursuant to a voluntary election by the participant or beneficiary whose account was transferred to the transferee plan;
+
+&emsp;(iv) the election described in clause (iii) was made after the participant or beneficiary received a notice describing the consequences of making the election; and
+
+&emsp;(v) the transferee plan allows the participant or beneficiary described in clause (iii) to receive any distribution to which the participant or beneficiary is entitled under the transferee plan in the form of a single sum distribution.
+
+(B) Subparagraph (A) shall apply to plan mergers and other transactions having the effect of a direct transfer, including consolidations of benefits attributable to different employers within a multiple employer plan.
+
+(5) Except to the extent provided in regulations promulgated by the Secretary of the Treasury, a defined contribution plan shall not be treated as failing to meet the requirements of this subsection merely because of the elimination of a form of distribution previously available thereunder. This paragraph shall not apply to the elimination of a form of distribution with respect to any participant unless—
+
+&emsp;(A) a single sum payment is available to such participant at the same time or times as the form of distribution being eliminated; and
+
+&emsp;(B) such single sum payment is based on the same or greater portion of the participant's account as the form of distribution being eliminated.
 
 #### (h) Notice of significant reduction in benefit accruals
 
-(1) A plan described in paragraph (2) may not be amended so as to provide for a significant reduction in the rate of future benefit accrual, unless, after adoption of the plan amendment and not less than 15 days before the effective date of the plan amendment, the plan administrator provides a written notice, setting forth the plan amendment and its effective date, to—
+(1) An applicable pension plan may not be amended so as to provide for a significant reduction in the rate of future benefit accrual unless the plan administrator provides the notice described in paragraph (2) to each applicable individual (and to each employee organization representing applicable individuals).
 
-&emsp;(A) each participant in the plan,
+(2) The notice required by paragraph (1) shall be written in a manner calculated to be understood by the average plan participant and shall provide sufficient information (as determined in accordance with regulations prescribed by the Secretary of the Treasury) to allow applicable individuals to understand the effect of the plan amendment. The Secretary of the Treasury may provide a simplified form of notice for, or exempt from any notice requirement, a plan—
 
-&emsp;(B) each beneficiary who is an alternate payee (within the meaning of section 1056(d)(3)(K) of this title) under an applicable qualified domestic relations order (within the meaning of section 1056(d)(3)(B)(i) of this title), and
+&emsp;(A) which has fewer than 100 participants who have accrued a benefit under the plan, or
 
-&emsp;(C) each employee organization representing participants in the plan,
+&emsp;(B) which offers participants the option to choose between the new benefit formula and the old benefit formula.
 
-> except that such notice shall instead be provided to a person designated, in writing, to receive such notice on behalf of any person referred to in subparagraph (A), (B), or (C).
+(3) Except as provided in regulations prescribed by the Secretary of the Treasury, the notice required by paragraph (1) shall be provided within a reasonable time before the effective date of the plan amendment.
 
-(2) A plan is described in this paragraph if such plan is—
+(4) Any notice under paragraph (1) may be provided to a person designated, in writing, by the person to which it would otherwise be provided.
 
-&emsp;(A) a defined benefit plan, or
+(5) A plan shall not be treated as failing to meet the requirements of paragraph (1) merely because notice is provided before the adoption of the plan amendment if no material modification of the amendment occurs before the amendment is adopted.
 
-&emsp;(B) an individual account plan which is subject to the funding standards of section 1082 of this title.
+(6)(A) In the case of any egregious failure to meet any requirement of this subsection with respect to any plan amendment, the provisions of the applicable pension plan shall be applied as if such plan amendment entitled all applicable individuals to the greater of—
+
+&emsp;(i) the benefits to which they would have been entitled without regard to such amendment, or
+
+&emsp;(ii) the benefits under the plan with regard to such amendment.
+
+(B) For purposes of subparagraph (A), there is an egregious failure to meet the requirements of this subsection if such failure is within the control of the plan sponsor and is—
+
+&emsp;(i) an intentional failure (including any failure to promptly provide the required notice or information after the plan administrator discovers an unintentional failure to meet the requirements of this subsection),
+
+&emsp;(ii) a failure to provide most of the individuals with most of the information they are entitled to receive under this subsection, or
+
+&emsp;(iii) a failure which is determined to be egregious under regulations prescribed by the Secretary of the Treasury.
+
+(7) The Secretary of the Treasury may by regulations allow any notice under this subsection to be provided by using new technologies.
+
+(8) For purposes of this subsection—
+
+&emsp;(A) The term “applicable individual” means, with respect to any plan amendment—
+
+&emsp;&emsp;(i) each participant in the plan; and
+
+&emsp;&emsp;(ii) any beneficiary who is an alternate payee (within the meaning of section 1056(d)(3)(K) of this title) under an applicable qualified domestic relations order (within the meaning of section 1056(d)(3)(B)(i) of this title),
+
+> &emsp;whose rate of future benefit accrual under the plan may reasonably be expected to be significantly reduced by such plan amendment.
+
+&emsp;(B) The term “applicable pension plan” means—
+
+&emsp;&emsp;(i) any defined benefit plan; or
+
+&emsp;&emsp;(ii) an individual account plan which is subject to the funding standards of section 412 of title 26.
+
+(9) For purposes of this subsection, a plan amendment which eliminates or significantly reduces any early retirement benefit or retirement-type subsidy (within the meaning of subsection (g)(2)(A) of this section) shall be treated as having the effect of significantly reducing the rate of future benefit accrual.
 
 #### (i) Prohibition on benefit increases where plan sponsor is in bankruptcy
 
@@ -220,13 +272,41 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948.)
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22,1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2001—Subsec. (g)(2). Pub. L. 107–16, §§645(b)(2), 901, temporarily inserted after second sentence “The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (g)(4), (5). Pub. L. 107–16, §§645(a)(2), 901, temporarily added pars. (4) and (5). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (h). Pub. L. 107–16, §§659(b), 901, temporarily amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
+
+“(1) A plan described in paragraph (2) may not be amended so as to provide for a significant reduction in the rate of future benefit accrual, unless, after adoption of the plan amendment and not less than 15 days before the effective date of the plan amendment, the plan administrator provides a written notice, setting forth the plan amendment and its effective date, to—
+
+&emsp;“(A) each participant in the plan,
+
+&emsp;“(B) each beneficiary who is an alternate payee (within the meaning of section 1056(d)(3)(K) of this title) under an applicable qualified domestic relations order (within the meaning of section 1056(d)(3)(B)(i) of this title), and
+
+&emsp;“(C) each employee organization representing participants in the plan,
+
+> except that such notice shall instead be provided to a person designated, in writing, to receive such notice on behalf of any person referred to in subparagraph (A), (B), or (C).
+
+“(2) A plan is described in this paragraph if such plan is—
+
+&emsp;“(A) a defined benefit plan, or
+
+&emsp;“(B) an individual account plan which is subject to the funding standards of section 1082 of this title.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (d)(1). Pub. L. 105–34 substituted “the dollar limit under section 1053(e)(1) of this title” for “$3,500”.
 
@@ -268,7 +348,7 @@ Subsec. (h)(2). Pub. L. 101–239, §7862(b)(2), adjusted left-hand margin of in
 
 1987—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(a)(1), substituted “120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year)” for “5 percent per annum”.
 
-Subsec. (c)(2)(D). Pub. L. 100–203, §9346(a)(2), struck out “, the rate of interest described in clause (iii) of subparagraph (C), or both,” before “from time to time” in first sentence and struck out second sentence which read as follows: “The rate of interest shall bear the relationship to 5 percent which the Secretary of the Treasury determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973.”
+Subsec. (c)(2)(D). Pub. L. 100–203, §9346(a)(2), struck out “, the rate of interest described in clause (iii) of subparagraph (C), or both,” before “from time to time”in first sentence and struck out second sentence which read as follows: “The rate of interest shall bear the relationship to 5 percent which the Secretary of the Treasury determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973.”
 
 1986—Subsec. (a). Pub. L. 99–509, §9202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each pension plan shall satisfy the requirements of subsection (b)(2) of this section, and in the case of a defined benefit plan shall also satisfy the requirements of subsection (b)(1) of this section.”
 
@@ -297,6 +377,14 @@ Subsec. (d)(1). Pub. L. 98–397, §105(b), substituted “$3,500” for “$1,7
 Subsec. (e). Pub. L. 98–397, §102(f), substituted “5 consecutive 1-year breaks in service” for “any 1-year break in service”.
 
 Subsec. (g). Pub. L. 98–397, §301(a)(2), designated existing provisions as par. (1) and added par. (2).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 645(a)(2) of Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 645(a)(3) of Pub. L. 107–16, set out as a note under section 411 of Title 26, Internal Revenue Code.
+
+Amendment by section 659(b) of Pub. L. 107–16 applicable to plan amendments taking effect on or after June 7, 2001, with transition provisions and special notice rule, see section 659(c) of Pub. L. 107–16, set out as a note under section 4980F of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1997 Amendment
 

@@ -252,7 +252,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 &emsp;&emsp;&emsp;&emsp;(I) any expected rebate of arbitrage profits, and
 
-&emsp;&emsp;&emsp;&emsp;(II) any application fee, survey fee, credit report fee, insurance charge, or similar amount to the extent such amount does not exceed amounts charged in such area in cases where owner-financing is not provided through the use of qualified mortgage bonds or qualified veterans’ mortgage bonds.
+&emsp;&emsp;&emsp;&emsp;(II) any application fee, survey fee, credit report fee, insurance charge, orsimilar amount to the extent such amount does not exceed amounts charged in such area in cases where owner-financing is not provided through the use of qualified mortgage bonds or qualified veterans’ mortgage bonds.
 
 &emsp;&emsp;&nbsp;Subclause (II) shall not apply to origination fees, points, or similar amounts.
 
@@ -336,7 +336,7 @@ For purposes of this part, the term “qualified veterans’ mortgage bond” me
 
 #### (A) In general
 
-&emsp;&emsp;An issue meets the requirements of this subsection only if no part of the proceeds of such issue is used to acquire or replace existing mortgages.
+&emsp;&emsp;An issue meets the requirements of this subsection only if no part of the proceeds ofsuch issue is used to acquire or replace existing mortgages.
 
 #### (B) Exceptions
 
@@ -444,7 +444,7 @@ For purposes of this section—
 
 #### (D) Designation where no county
 
-&emsp;&emsp;In the case of any portion of a State which is not within a county, subparagraphs (A)(ii) and (C) shall be applied by substituting for “county” an area designated by the Secretary which is the equivalent of a county.
+&emsp;&emsp;In the case of any portion of a State which is not within a county, subparagraphs (A)(ii)and (C) shall be applied by substituting for “county” an area designated by the Secretary which is the equivalent of a county.
 
 #### (3) Acquisition cost
 
@@ -866,7 +866,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (C) Transfers to spouses and former spouses
 
-&emsp;&emsp;Paragraph (1) shall not apply to any transfer on which no gain or loss is recognized under section 1041. In any such case, the transferee shall be treated under this subsection in the same manner as the transferorwould have been treated had such transfer not occurred.
+&emsp;&emsp;Paragraph (1) shall not apply to any transfer on which no gain or loss is recognized under section 1041. In any such case, the transferee shall be treated under this subsection in the same manner as the transferor would have been treated had such transfer not occurred.
 
 #### (D) Regulations
 
@@ -1012,7 +1012,7 @@ Section 13141(f)(4) of Pub. L. 103–66 provided that: “The amendments made by
 
 #### Effective Date of 1991 Amendment
 
-Section 108(c)(1) of Pub. L. 102–227 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 1991.”
+Section 108(c)(1) of Pub. L. 102–227 provided that: “The amendment made by subsection (a) \[amendingthis section\] shall apply to bonds issued after December 31, 1991.”
 
 #### Effective Date of 1990 Amendment
 

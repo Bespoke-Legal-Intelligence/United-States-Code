@@ -20,7 +20,7 @@
 
 (d)(1) Except as provided in paragraph (2) and subject to subsection (e)(2), a vocational training program under this section may not exceed 24 months.
 
-(2) The Secretary may grant an extension of a vocational training program for a child under this section for up to 24 additional months if theSecretary determines that the extension is necessary in order for the child to achieve a vocational goal identified (before the end of the first 24 months of such program) in the written plan of vocational rehabilitation formulated for the child pursuant to subsection (b).
+(2) The Secretary may grant an extension of a vocational training program for a child under this section for up to 24 additional months if the Secretary determines that the extension is necessary in order for the child to achieve a vocational goal identified (before the end of the first 24 months of such program) in the written plan of vocational rehabilitation formulated for the child pursuant to subsection (b).
 
 (3) A vocational training program under this section may begin on the child's 18th birthday, or on the successful completion of the child's secondary schooling, whichever first occurs, except that, if the child is above the age of compulsory school attendance under applicable State law and the Secretary determines that the child's best interests will be served thereby, the vocational training program may begin before the child's 18th birthday.
 

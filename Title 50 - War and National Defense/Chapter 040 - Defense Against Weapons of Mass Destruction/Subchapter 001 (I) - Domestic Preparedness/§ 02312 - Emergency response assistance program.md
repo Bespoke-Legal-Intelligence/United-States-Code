@@ -54,6 +54,8 @@ Assistance available under this program shall include the following:
 
 &emsp;(4) Loan of appropriate equipment.
 
+&emsp;(5) A conveyance of ownership of United States property to a State or local government, without cost and without regard to subsection (f) of this section and title II of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 481 et seq.\] (or any other provision of law relating to the disposal of property of the United States), if the property is equipment, or equipment and related materials, that is in the possession of the State orlocal government on December 28, 2001, pursuant to a loan of the property as assistance under this section.
+
 #### (f) Limitations on Department of Defense assistance to law enforcement agencies
 
 Assistance provided by the Department of Defense to law enforcement agencies under this section shall be provided under the authority of, and subject to the restrictions provided in, chapter 18 of title 10.
@@ -70,11 +72,17 @@ The Secretary of Defense shall designate an official within the Department of De
 
 (3) The amount available for the program under paragraph (1) is in addition to any other amounts authorized to be appropriated for the program under section 301.<sup>1</sup>
 
-(Pub. L. 104–201, div. A, title XIV, §1412, Sept. 23, 1996, 110 Stat. 2718.)
+(Pub. L. 104–201, div. A, title XIV, §1412, Sept. 23, 1996, 110 Stat. 2718; Pub. L. 107–107, div. A, title XV, §1513, Dec. 28, 2001, 115 Stat. 1273.)
 
 #### References in Text
 
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(5), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+
 Section 301, referred to in subsec. (h)(1), (3), is section 301 of Pub. L. 104–201, div. A, title III, Sept. 23, 1996, 110 Stat. 2475, which is not classified to the Code.
+
+#### Amendments
+
+2001—Subsec. (e)(5). Pub. L. 107–107 added par. (5).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

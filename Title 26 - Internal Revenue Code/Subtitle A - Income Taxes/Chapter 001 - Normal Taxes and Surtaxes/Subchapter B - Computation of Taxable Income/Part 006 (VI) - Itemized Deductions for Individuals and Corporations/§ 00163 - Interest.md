@@ -22,7 +22,7 @@ There shall be allowed as a deduction all interest paid or accrued within the ta
 
 #### (c) Redeemable ground rents
 
-For purposes of this subtitle, any annual or periodic rental under a redeemable ground rent\(excluding amounts in redemption thereof) shall be treated as interest on an indebtedness secured by a mortgage.
+For purposes of this subtitle, any annual or periodic rental under a redeemable ground rent (excluding amounts in redemption thereof) shall be treated as interest on an indebtedness secured by a mortgage.
 
 #### (d) Limitation on investment interest
 
@@ -215,7 +215,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;(ii) the remainder of such original issue discount shall not be allowable as a deduction until paid.
 
-> &emsp;&emsp;For purposes of this paragraph, rules similar to the rules of subsection (i)(3)(B) shall apply in determining the amount of the original issue discount and when the original issue discount is paid.
+> &emsp;&emsp;For purposes of this paragraph, rules similar to the rules of subsection (i)(3)(B) shallapply in determining the amount of the original issue discount and when the original issue discount is paid.
 
 #### (B) Disqualified portion treated as stock distribution for purposes of dividend received deduction
 
@@ -229,7 +229,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;&emsp;(I) which is attributable to the disqualified portion of the original issue discount on such obligation, and
 
-&emsp;&emsp;&emsp;&emsp;(II) which would have been treated as a dividend if it had been a distributionmade by the issuing corporation with respect to stock in such corporation.
+&emsp;&emsp;&emsp;&emsp;(II) which would have been treated as a dividend if it had been a distribution made by the issuing corporation with respect to stock in such corporation.
 
 #### (C) Disqualified portion
 
@@ -501,7 +501,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (5) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out thepurposes of this subsection and subsection (e)(5), including—
+&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subsection and subsection (e)(5), including—
 
 &emsp;&emsp;(A) regulations providing for modifications to the provisions of this subsection and subsection (e)(5) in the case of varying rates of interest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, conversion rights, or other circumstances where such modifications are appropriate to carry out the purposes of this subsection and subsection (e)(5), and
 
@@ -657,7 +657,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 &emsp;&emsp;&emsp;&emsp;(II) if the taxpayer owns a controlling interest in the guarantor.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (II), except as provided in regulations, the term “a controlling interest” means direct or indirect ownership of at least 80 percent of the total voting power and value of all classes of stock of a corporation, or 80 percent of the profit and capital interests in any other entity. For purposes of the preceding sentence, the rules of paragraphs (1) and (5) of section 267(c) shall apply; except that such rules shall also apply to interest in entities other than corporations.
+&emsp;&emsp;&nbsp;For purposes of subclause (II), except as provided in regulations, the term “a controlling interest” means direct or indirect ownership of at least 80 percent of the total voting power and value of all classes of stock of a corporation, or 80 percent of the profit and capital interests in any other entity. For purposes of the preceding sentence, the rules of paragraphs (1) and (5) of section 267(c) shall apply; except thatsuch rules shall also apply to interest in entities other than corporations.
 
 #### (iii) Guarantee
 
@@ -733,7 +733,7 @@ No deduction shall be allowed under this section for any interest payable under 
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5,1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944.)
 
 #### Amendments
 
@@ -835,7 +835,7 @@ Subsec. (h)(2)(E). Pub. L. 100–647, §1005(c)(12), inserted “or under sectio
 
 Subsec. (h)(3)(C). Pub. L. 100–647, §1005(c)(5), effective as if enacted immediately before enactment of Pub. L. 100–203 (see 1987 Amendment note below), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The amount under subparagraph (B)(ii)(I) at any time after August 16, 1986, shall not be less than the outstanding aggregate principal amount (as of such time) of indebtedness which was incurred on or before August 16, 1986, and which was secured by the qualified residence on August 16, 1986.”
 
-Subsec. (h)(4). Pub. L. 100–647, §1005(c)(6)(A), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended heading by substituting “Other definitions and special rules—For purposes of this subsection—” for “Other definitions and special rules”.
+Subsec. (h)(4). Pub. L. 100–647, §1005(c)(6)(A), effective as if enacted immediately before enactment of Pub. L.100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended heading by substituting “Other definitions and special rules—For purposes of this subsection—” for “Other definitions and special rules”.
 
 Subsec. (h)(4)(A). Pub. L. 100–647, §1005(c)(6)(B)(i), (7), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (A) by striking out “For purposes of this subsection—” after “Qualified residence” in introductory provisions, “used or” after “Residence not” in cl. (iii) heading, and “or use” after “does not rent” in cl. (iii) text.
 
@@ -949,7 +949,7 @@ Subsec. (d)(2). Pub. L. 94–455, §209(a)(1), among other changes, struck out p
 
 Subsec. (d)(3)(A). Pub. L. 94–455, §209(a)(2), inserted provision relating to determination of the amount of net investment income where taxpayer has investment interest for taxable year to which this subsection applies.
 
-Subsec. (d)(3)(B)(iii). Pub. L. 94–455, §§205(c)(3), 1901(b)(3)(K), substituted “1250, and 1254” for “and1250”, and “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”. Section 205(c)(3) of Pub. L. 94–455, which directed the amendment of subsec. (d)(3)(A)(iii), was executed by amending subsec. (d)(3)(B)(iii) to reflect the probable intent of Congress.
+Subsec. (d)(3)(B)(iii). Pub. L. 94–455, §§205(c)(3), 1901(b)(3)(K), substituted “1250, and 1254” for “and 1250”, and “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”. Section 205(c)(3) of Pub. L. 94–455, which directed the amendment of subsec. (d)(3)(A)(iii), was executed by amending subsec. (d)(3)(B)(iii) to reflect the probable intent of Congress.
 
 Subsec. (d)(3)(E). Pub. L. 94–455, §209(a)(3), substituted “limitation in paragraph (1)” for “limitations in paragraphs (1) and (2)(A)”.
 
@@ -1029,7 +1029,7 @@ Section 13228(d) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision ofthe Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -1139,7 +1139,7 @@ Section 209(b) of Pub. L. 94–455, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending thissection\] shall apply to taxable years beginning after December 31, 1975.
+In general.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.
 
 “(2)
 

@@ -18,7 +18,7 @@ The Congress finds the following:
 
 &emsp;(8) Over two hundred and seventy-five of vertebrate fish and wildlife species in the United States are now officially classified as threatened or endangered by the Federal Government.
 
-&emsp;(9) During the past decade, fish and wildlife species, including invertebrates, were added tothe rapidly growing list of threatened and endangered species in North America at the average rate of over one per month.
+&emsp;(9) During the past decade, fish and wildlife species, including invertebrates, were added to the rapidly growing list of threatened and endangered species in North America at the average rate of over one per month.
 
 &emsp;(10) Currently, eighty-two species of invertebrates in the United States are listed as threatened or endangered under the Endangered Species Act \[16 U.S.C. 1531 et seq.\], and another nine hundred and fifty-one United States invertebrate species are candidates for listing under that Act.
 

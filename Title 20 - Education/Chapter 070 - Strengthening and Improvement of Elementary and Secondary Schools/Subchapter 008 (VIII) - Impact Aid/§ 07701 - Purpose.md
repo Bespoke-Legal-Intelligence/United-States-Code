@@ -14,6 +14,12 @@ In order to fulfill the Federal responsibility to assist with the provision of e
 
 (Pub. L. 89–10, title VIII, §8001, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802\], Oct. 30, 2000, 114 Stat. 1654, 1654A–368.)
 
+#### Prior Provisions
+
+A prior section 8001 of Pub. L. 89–10 was classified to section 3351 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+Another prior section 8001 of Pub. L. 89–10 was renumbered section 9001 and was classified to section 3381 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
 #### Amendments
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1802(1)\], in introductory provisions, inserted “in a manner that promotes control by local educational agencies with little or no Federal or State involvement” after “educational services to federally connected children” and “, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 574 of title 50, Appendix,” after “certain activities of the Federal Government”.
@@ -28,5 +34,9 @@ Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1818\], Oct. 30, 2000, 114 S
 
 #### Effective Date
 
-Subchapter effective Oct. 20, 1994, except that provisions that apply to programs under this subchapter, and to programs that are conducted on a competitive basis, effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years, see section 3(a)(1) of Pub. L. 103–382 set out as a note under section 6301 of this title.
+Pub. L. 103–382, §3(a)(1), Oct. 20, 1994, 108 Stat. 3518, provided that:
+
+“(A) Title I \[amending generally Pub. L. 89–10 (formerly chapter 47 of this title, now this chapter)\] and the amendment made by title I of this Act shall take effect July 1, 1995, except that those provisions of title I that apply to programs under title VIII (Impact Aid) of the Elementary and Secondary Education Act of 1965 \[this subchapter\], as amended by this Act, and to programs under such Act \[this chapter\] that are conducted on a competitive basis, shall be effective with respect to appropriations for use under such programs for fiscal year 1995 and for subsequent fiscal years.
+
+“(B) Title VIII of the Elementary and Secondary Education Act of 1965 \[this subchapter\], as amended by title I of this Act, shall take effect on the date of the enactment of this Act \[Oct. 20, 1994\].”
 

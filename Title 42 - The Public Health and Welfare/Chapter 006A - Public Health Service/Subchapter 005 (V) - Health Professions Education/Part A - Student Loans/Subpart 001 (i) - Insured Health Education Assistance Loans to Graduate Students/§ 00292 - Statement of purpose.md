@@ -40,7 +40,7 @@ Certain Requirements.—The study conducted under subsection (a) shall determine
 
 &emsp;“(3) whether or not funding under title VIII of such Act \[subchapter VI of this chapter\] has increased the number of nurses in medically underserved or rural communities;
 
-&emsp;“(4) whether or not the various mechanisms under such titles VII and VIII (such as scholarships, fellowships, traineeships, loan repayment programs, project grants, and education centers) have been effective in producing health care professionals who work orpractice in medically underserved and rural communities and the relative impact or effectiveness of each mechanism;
+&emsp;“(4) whether or not the various mechanisms under such titles VII and VIII (such as scholarships, fellowships, traineeships, loan repayment programs, project grants, and education centers) have been effective in producing health care professionals who work or practice in medically underserved and rural communities and the relative impact or effectiveness of each mechanism;
 
 &emsp;“(5) the duration of service in medically underserved communities (as defined in section 799 of such Act) of health professionals whose training was funded by such titles or who received financial incentives under such titles to practice in such communities;
 

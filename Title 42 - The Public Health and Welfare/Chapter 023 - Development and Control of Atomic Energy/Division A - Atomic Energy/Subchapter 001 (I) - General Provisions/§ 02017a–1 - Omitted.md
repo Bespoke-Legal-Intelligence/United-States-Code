@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 95–39, title III, §304, June 3, 1977, 91 Stat. 189, which authorized the Administrator of theEnergy Research and Development Administration to perform construction design services for any Administration construction project whenever the Administrator made certain determinations, was from an Act authorizing appropriations for fiscal year 1977 to the Energy Research and Development Administration, and was not enacted as part of the Atomic Energy Act of 1954 which comprises this chapter. See section 5821(g) of this title.
+Section, Pub. L. 95–39, title III, §304, June 3, 1977, 91 Stat. 189, which authorized the Administrator of the Energy Research and Development Administration to perform construction design services for any Administration construction project whenever the Administrator made certain determinations, was from an Act authorizing appropriations for fiscal year 1977 to the Energy Research and Development Administration, and was not enacted as part of the Atomic Energy Act of 1954 which comprises this chapter. See section 5821(g) of this title.
 
 Similar provisions were contained in the following prior appropriation authorization acts:
 

@@ -164,6 +164,10 @@ The provisions of title 5 governing appointment in the competitive service, refe
 
 1984—Subsec. (e). Pub. L. 98–594 substituted “7” for “5”.
 
+#### Order of Succession
+
+For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+
 #### Office of Secretary of the Treasury; Compensation
 
 Pub. L. 105–61, title I, §116, Oct. 10, 1997, 111 Stat. 1284, provided that:
@@ -207,10 +211,6 @@ Pub. L. 103–2, Jan. 19, 1993, 107 Stat. 4, provided: “That (a) the compensat
 #### Duties and Functions of Department of the Treasury
 
 Nothing in Pub. L. 101–576 \[see Short Title of 1990 Amendment note set out under section 501 of this title\] to be construed to interfere with exercise of functions, duties, and responsibilities of Department of the Treasury, as in effect immediately before Nov. 15, 1990, see section 204 of Pub. L. 101–576, set out as a note under section 501 of this title.
-
-#### Designation of Officers To Act as Secretary of the Treasury
-
-Designation of officers of Treasury Department to act as Secretary of the Treasury, during any period when, by reason of absence, disability, or vacancy in office, either the Secretary of the Treasury or his Deputy Secretary is not available to exercise the powers or perform the duties of the office of the Secretary, see Ex. Ord. No. 11822, Dec. 10, 1974, 39 F.R. 43275, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -42,11 +42,11 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 #### Watershed Agreements
 
-Pub. L. 105–277, div. A, §101(e) \[title III, §323\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–290, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title III, §323\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–290, as amended by Pub. L. 107–63, title III, §330, Nov. 5, 2001, 115 Stat. 471, provided that:
 
 “(a)
 
-Watershed Restoration and Enhancement Agreements.—For fiscal year 1999, 2000 and 2001, to the extent funds are otherwise available, appropriations for the Forest Service may be used by the Secretary of Agriculture for the purpose of entering into cooperative agreements with willing Federal, tribal, State and local governments, private and nonprofit entities and landowners for the protection, restoration and enhancement of fish and wildlife habitat, and other resources on public or private land, the reduction of risk from natural disaster where public safety is threatened, or a combination thereof or both that benefit these resources within the watershed.
+Watershed Restoration and Enhancement Agreements.—For fiscal year 1999, 2000 and 2001, and fiscal years 2002 through 2005, to the extent funds are otherwise available, appropriations for the Forest Service may be used by the Secretary of Agriculture for the purpose of entering into cooperative agreements with willing Federal, tribal, State and local governments, private and nonprofit entities and landowners for the protection, restoration and enhancement of fish and wildlife habitat, and other resources on public or private land, the reduction of risk from natural disaster where public safety is threatened, or a combination thereof or both that benefit these resources within the watershed.
 
 “(b)
 

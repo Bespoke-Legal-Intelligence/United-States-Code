@@ -20,7 +20,7 @@ Each Inspector General established under section 2 of the Inspector General Act 
 
 #### References in Text
 
-Sections 2 and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (c), are sections 2 and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 2 and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (c), are sections 2and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
 Section 8E as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988, referred to in subsec. (a), probably means section 8E of the Inspector General Act of 1978, Pub. L. 95–452, as added by Pub. L. 100–504, title I, §104(a), Oct. 18, 1988, 102 Stat. 2522. Section 8E of the Inspector General Act of 1978 was successively renumbered section 8F by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, then section 8G by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5.
 

@@ -2,7 +2,7 @@
 
 #### (a) List of members as of September 1994
 
-Not later than 120 days after September 21, 1994, the Band shall submit to the Secretary a list of all individuals who, as of September 21, 1994, were members of the Band.
+Not later than 120 days after September 21, 1994, the Band shall submit to the Secretary alist of all individuals who, as of September 21, 1994, were members of the Band.
 
 #### (b) List of individuals eligible for membership
 

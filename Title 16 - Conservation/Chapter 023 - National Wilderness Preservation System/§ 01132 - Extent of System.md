@@ -156,7 +156,7 @@ Black Mountain Wilderness, California Desert Conservation Area, of Bureau of Lan
 
 Black Ridge Canyons Wilderness, Colorado and Utah.—Pub. L. 106–353, §5, Oct. 24, 2000, 114 Stat. 1375.
 
-Black Rock Desert Wilderness, Nevada.—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8(a)(1)\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356.
+Black Rock Desert Wilderness, Nevada.—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8(a)(1)\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356; Pub. L. 107–63, title I, §135(a), Nov. 5, 2001, 115 Stat. 443.
 
 Blackbeard Island Wilderness, Blackbeard Island National Wildlife Refuge, Georgia.—Pub. L. 93–632, §1(d), Jan. 3, 1975, 88 Stat. 2153.
 

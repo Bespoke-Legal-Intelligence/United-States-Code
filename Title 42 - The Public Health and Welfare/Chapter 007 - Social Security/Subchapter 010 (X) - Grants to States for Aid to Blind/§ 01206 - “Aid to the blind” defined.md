@@ -46,5 +46,5 @@ Amendment by section 156(c) of Pub. L. 87–543 applicable in the case of applic
 
 #### Effective Date of 1950 Amendment
 
-Section 343(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in clause (a) or (b) of section 1006 of the Social Security Act \[this section\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
+Section 343(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that theexclusion of money payments to needy individuals described in clause (a) or (b) of section 1006 of the Social Security Act \[this section\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
 

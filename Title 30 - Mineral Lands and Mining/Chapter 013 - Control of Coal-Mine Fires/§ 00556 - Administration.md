@@ -24,7 +24,7 @@ In carrying out the provisions of section 553 of this title the Secretary of the
 
 #### (f) Contributions; cooperation with other agencies; disposition of moneys
 
-&emsp;to receive and accept money and property, real or personal, or interests therein, as a gift, bequest, or contribution, for use in any of the activities authorized under this chapter; and to conduct any of the activities authorized under this chapter in cooperation with any person or agency, Federal, State, or private.Any money so received shall be deposited in the Treasury of the United States in an available trust fund to be disbursed by the Secretary of the Treasury upon certification by the Secretary of the Interior in accordance with the terms of the grant, and shall remain available until expended for the purposes for which received and accepted.
+&emsp;to receive and accept money and property, real or personal, or interests therein, as a gift, bequest, or contribution, for use in any of the activities authorized under this chapter; and to conduct any of the activities authorized under this chapter in cooperation with any person or agency, Federal, State, or private. Any money so received shall be deposited in the Treasury of the United States in an available trust fund to be disbursed by the Secretary of the Treasury upon certification by the Secretary of the Interior in accordance with the terms of the grant, and shall remain available until expended for the purposes for which received and accepted.
 
 (Aug. 31, 1954, ch. 1156, §6, 68 Stat. 1010.)
 

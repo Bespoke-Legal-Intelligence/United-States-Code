@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) the credit percentage of the earned income amount, over
 
-&emsp;&emsp;(B) the phaseout percentage of so much of the modified adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount.
+&emsp;&emsp;(B) the phaseout percentage of so much of the adjusted gross income (or, if greater, the earned income) of the taxpayer for the taxable year as exceeds the phaseout amount.
 
 #### (b) Percentages and amounts
 
@@ -60,7 +60,9 @@ For purposes of subsection (a)—
 
 #### (2) Amounts
 
-&emsp;The earned income amount and the phaseout amount shall be determined as follows:
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the earned income amount and the phaseout amount shall be determined as follows:
 
 &nbsp;
 
@@ -69,6 +71,16 @@ For purposes of subsection (a)—
 | 1 qualifying child | $6,330 | $11,610 |
 | 2 or more qualifying children | $8,890 | $11,610 |
 | No qualifying children | $4,220 | &nbsp;$5,280 |
+
+#### (B) Joint returns
+
+&emsp;&emsp;In the case of a joint return filed by an eligible individual and such individual's spouse, the phaseout amount determined under subparagraph (A) shall be increased by—
+
+&emsp;&emsp;&emsp;(i) $1,000 in the case of taxable years beginning in 2002, 2003, and 2004,
+
+&emsp;&emsp;&emsp;(ii) $2,000 in the case of taxable years beginning in 2005, 2006, and 2007, and
+
+&emsp;&emsp;&emsp;(iii) $3,000 in the case of taxable years beginning after 2007.
 
 #### (c) Definitions and special rules
 
@@ -96,9 +108,23 @@ For purposes of this section—
 
 &emsp;&emsp;If an individual is the qualifying child of a taxpayer for any taxable year of such taxpayer beginning in a calendar year, such individual shall not be treated as an eligible individual for any taxable year of such individual beginning in such calendar year.
 
-#### (C) 2 or more eligible individuals
+#### (C) 2 or more claiming qualifying child
 
-&emsp;&emsp;If 2 or more individuals would (but for this subparagraph and after application of subparagraph (B)) be treated as eligible individuals with respect to the same qualifying child for taxable years beginning in the same calendar year, only the individual with the highest modified adjusted gross income for such taxable years shall be treated as an eligible individual with respect to such qualifying child.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if (but for this paragraph) an individual may be claimed, and is claimed, as a qualifying child by 2 or more taxpayers for a taxable year beginning in the same calendar year, such individual shall be treated as the qualifying child of the taxpayer who is—
+
+&emsp;&emsp;&emsp;&emsp;(I) a parent of the individual, or
+
+&emsp;&emsp;&emsp;&emsp;(II) if subclause (I) does not apply, the taxpayer with the highest adjusted gross income for such taxable year.
+
+#### (ii) More than 1 claiming credit
+
+&emsp;&emsp;&emsp;If the parents claiming the credit with respect to any qualifying child do not file a joint return together, such child shall be treated as the qualifying child of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the parent with whom the child resided for the longest period of time during the taxable year, or
+
+&emsp;&emsp;&emsp;&emsp;(II) if the child resides with both parents for the same amount of time during such taxable year, the parent with the highest adjusted gross income.
 
 #### (D) Exception for individual claiming benefits under section 911
 
@@ -124,7 +150,7 @@ For purposes of this section—
 
 &emsp;(A) The term “earned income” means—
 
-&emsp;&emsp;(i) wages, salaries, tips, and other employee compensation, plus
+&emsp;&emsp;(i) wages, salaries, tips, and other employee compensation, but only if such amounts are includible in gross income for the taxable year, plus
 
 &emsp;&emsp;(ii) the amount of the taxpayer's net earnings from self-employment for the taxable year (within the meaning of section 1402(a)), but such net earnings shall be determined with regard to the deduction allowed to the taxpayer by section 164(f).
 
@@ -148,7 +174,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) who bears a relationship to the taxpayer described in subparagraph (B),
 
-&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (B)(iii), who has the same principal place of abode as the taxpayer for more than one-half of such taxable year, and
+&emsp;&emsp;&emsp;(ii) who has the same principal place of abode as the taxpayer for more than one-half of such taxable year, and
 
 &emsp;&emsp;&emsp;(iii) who meets the age requirements of subparagraph (C).
 
@@ -158,9 +184,9 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;An individual bears a relationship to the taxpayer described in this subparagraph if such individual is—
 
-&emsp;&emsp;&emsp;&emsp;(I) a son or daughter of the taxpayer, or a descendant of either,
+&emsp;&emsp;&emsp;&emsp;(I) a son, daughter, stepson, or stepdaughter, or a descendant of any such individual,
 
-&emsp;&emsp;&emsp;&emsp;(II) a stepson or stepdaughter of the taxpayer, or
+&emsp;&emsp;&emsp;&emsp;(II) a brother, sister, stepbrother, or stepsister, or a descendant of any such individual, who the taxpayer cares for as the taxpayer's own child, or
 
 &emsp;&emsp;&emsp;&emsp;(III) an eligible foster child of the taxpayer.
 
@@ -170,13 +196,11 @@ For purposes of this section—
 
 #### (iii) Eligible foster child
 
-&emsp;&emsp;&emsp;For purposes of clause (i)(III), the term “eligible foster child” means an individual not described in clause (i)(I) or (II) who—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “eligible foster child” means an individual not described in subclause (I) or (II) of clause (i) who—
 
-&emsp;&emsp;&emsp;&emsp;(I) is a brother, sister, stepbrother, or stepsister of the taxpayer (or a descendant of any such relative) or is placed with the taxpayer by an authorized placement agency,
+&emsp;&emsp;&emsp;&emsp;(I) is placed with the taxpayer by an authorized placement agency, and
 
-&emsp;&emsp;&emsp;&emsp;(II) the taxpayer cares for as the taxpayer's own child, and
-
-&emsp;&emsp;&emsp;&emsp;(III) has the same principal place of abode as the taxpayer for the taxpayer's entire taxable year.
+&emsp;&emsp;&emsp;&emsp;(II) the taxpayer cares for as the taxpayer's own child.
 
 #### (iv) Adoption
 
@@ -204,47 +228,11 @@ For purposes of this section—
 
 #### (E) Abode must be in the United States
 
-&emsp;&emsp;The requirements of subparagraphs (A)(ii) and (B)(iii)(II) shall be met only if the principal place of abode is in the United States.
+&emsp;&emsp;The requirements of subparagraph (A)(ii) shall be met only if the principal place of abode is in the United States.
 
 #### (4) Treatment of military personnel stationed outside the United States
 
 &emsp;For purposes of paragraphs (1)(A)(ii)(I) and (3)(E), the principal place of abode of a member of the Armed Forces of the United States shall be treated as in the United States during any period during which such member is stationed outside the United States while serving on extended active duty with the Armed Forces of the United States. For purposes of the preceding sentence, the term “extended active duty” means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.
-
-#### (5) Modified adjusted gross income
-
-#### (A) In general
-
-&emsp;&emsp;The term “modified adjusted gross income” means adjusted gross income determined without regard to the amounts described in subparagraph (B) and increased by the amounts described in subparagraph (C).
-
-#### (B) Certain amounts disregarded
-
-&emsp;&emsp;An amount is described in this subparagraph if it is—
-
-&emsp;&emsp;&emsp;(i) the amount of losses from sales or exchanges of capital assets in excess of gains from such sales or exchanges to the extent such amount does not exceed the amount under section 1211(b)(1),
-
-&emsp;&emsp;&emsp;(ii) the net loss from estates and trusts,
-
-&emsp;&emsp;&emsp;(iii) the excess (if any) of amounts described in subsection (i)(2)(C)(ii) over the amounts described in subsection (i)(2)(C)(i) (relating to nonbusiness rents and royalties), or
-
-&emsp;&emsp;&emsp;(iv) 75 percent of the net loss from the carrying on of trades or businesses, computed separately with respect to—
-
-&emsp;&emsp;&emsp;&emsp;(I) trades or businesses (other than farming) conducted as sole proprietorships,
-
-&emsp;&emsp;&emsp;&emsp;(II) trades or businesses of farming conducted as sole proprietorships, and
-
-&emsp;&emsp;&emsp;&emsp;(III) other trades or businesses.
-
-> &emsp;&emsp;For purposes of clause (iv), there shall not be taken into account items which are attributable to a trade or business which consists of the performance of services by the taxpayer as an employee.
-
-#### (C) Certain amounts included
-
-&emsp;&emsp;An amount is described in this subparagraph if it is—
-
-&emsp;&emsp;&emsp;(i) interest received or accrued during the taxable year which is exempt from tax imposed by this chapter; or
-
-&emsp;&emsp;&emsp;(ii) amounts received as a pension or annuity, and any distributions or payments received from an individual retirement plan, by the taxpayer during the taxable year to the extent not included in gross income.
-
-> &emsp;&emsp;Clause (ii) shall not include any amount which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
 
 #### (d) Married individuals
 
@@ -262,11 +250,11 @@ Except in the case of a taxable year closed by reason of the death of the taxpay
 
 #### (2) Requirements for tables
 
-&emsp;The tables prescribed under paragraph (1) shall reflect the provisions of subsections (a) and (b) and shall have income brackets of not greater than $50 each—
+&emsp;The tables prescribed under paragraph (1) shall reflect the provisions of subsections (a)and (b) and shall have income brackets of not greater than $50 each—
 
 &emsp;&emsp;(A) for earned income between $0 and the amount of earned income at which the credit is phased out under subsection (b), and
 
-&emsp;&emsp;(B) for modified adjusted gross income between the dollar amount at which the phaseout begins under subsection (b) and the amount of modified adjusted gross income at which the credit is phased out under subsection (b).
+&emsp;&emsp;(B) for adjusted gross income between the dollar amount at which the phaseout begins under subsection (b) and the amount of adjusted gross income at which the credit is phased out under subsection (b).
 
 #### (g) Coordination with advance payments of earned income credit
 
@@ -278,9 +266,7 @@ Except in the case of a taxable year closed by reason of the death of the taxpay
 
 &emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit (other than the credit allowed by subsection (a)) allowable under this subpart.
 
-#### (h) Reduction of credit to taxpayers subject to alternative minimum tax
-
-The credit allowed under this section for the taxable year shall be reduced by the amount of tax imposed by section 55 (relating to alternative minimum tax) with respect to such taxpayer for such taxable year.
+#### \[(h) Repealed. Pub. L. 107–16, title III, §303(c), June 7, 2001, 115 Stat. 55\]
 
 #### (i) Denial of credit for individuals having excessive investment income
 
@@ -324,13 +310,17 @@ The credit allowed under this section for the taxable year shall be reduced by t
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined—
+
+&emsp;&emsp;&emsp;(i) in the case of amounts in subsections (b)(2)(A) and (i)(1), by substituting “calendar year 1995” for “calendar year 1992” in subparagraph (B) thereof, and
+
+&emsp;&emsp;&emsp;(ii) in the case of the $3,000 amount in subsection (b)(2)(B)(iii), by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) of such section 1.
 
 #### (2) Rounding
 
 #### (A) In general
 
-&emsp;&emsp;If any dollar amount in subsection (b)(2), after being increased under paragraph (1), is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
+&emsp;&emsp;If any dollar amount in subsection (b)(2)(A) (after being increased under subparagraph (B) thereof), after being increased under paragraph (1), is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.
 
 #### (B) Disqualified income threshold amount
 
@@ -376,35 +366,15 @@ For purposes of—
 
 Solely for purposes of subsections (c)(1)(F) and (c)(3)(D), a taxpayer identification number means a social security number issued to an individual by the Social Security Administration (other than a social security number issued pursuant to clause (II) (or that portion of clause (III) that relates to clause (II)) of section 205(c)(2)(B)(i) of the Social Security Act).
 
-#### (n) Supplemental child credit
+(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917; Pub. L. 107–16, title II, §201(c)(3), title III, §303(a)–(f), (h), June 7, 2001, 115 Stat. 47, 55–57.)
 
-#### (1) In general
+#### Earned Income Tax Credit Adjustment for Tax Years Beginning in 2002
 
-&emsp;In the case of a taxpayer with respect to whom a credit is allowed under section 24(a) for the taxable year, the credit otherwise allowable under this section shall be increased by the lesser of—
+<i>For adjustment of earned income tax credit under this section for tax years beginning in 2002, see section 3.05 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
-&emsp;&emsp;(A) the excess of—
+#### Amendment of Section
 
-&emsp;&emsp;&emsp;(i) the credits allowed under subpart A (determined after the application of section 26 and without regard to this subsection), over
-
-&emsp;&emsp;&emsp;(ii) the credits which would be allowed under subpart A after the application of section 26, determined without regard to section 24 and this subsection; or
-
-&emsp;&emsp;(B) the excess of—
-
-&emsp;&emsp;&emsp;(i) the sum of the credits allowed under this part (determined without regard to sections 31, 33, and 34 and this subsection), over
-
-&emsp;&emsp;&emsp;(ii) the sum of the regular tax and the Social Security taxes (as defined in section 24(d)).
-
-> &emsp;The credit determined under this subsection shall be allowed without regard to any other provision of this section, including subsection (d).
-
-#### (2) Coordination with other credits
-
-&emsp;The amount of the credit under this subsection shall reduce the amount of the credits otherwise allowable under subpart A for the taxable year (determined after the application of section 26), but the amount of the credit under this subsection (and such reduction) shall not be taken into account in determining the amount of any other credit allowable under this part.
-
-(Added Pub. L. 94–12, title II, §204(a), Mar. 29, 1975, 89 Stat. 30, §43; amended Pub. L. 94–164, §2(c), Dec. 23, 1975, 89 Stat. 971; Pub. L. 94–455, title IV, §401(c)(1)(B), (2), Oct. 4, 1976, 90 Stat. 1557; Pub. L. 95–600, title I, §§104(a)–(e), 105(a), Nov. 6, 1978, 92 Stat. 2772, 2773; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5) and amended Pub. L. 96–222, title I, §§101(a)(1), (2)(E), 108(a)(1)(A), Apr. 1, 1980, 94 Stat. 194, 195, 223; Pub. L. 97–34, title I, §§111(b)(2), 112(b)(3), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 98–21, title I, §124(c)(4)(B), Apr. 20, 1983, 97 Stat. 91; renumbered §32 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(3), 471(c), title X, §1042(a)–(d)(2), July 18, 1984, 98 Stat. 801, 826, 1043; Pub. L. 99–514, title I, §§104(b)(1)(B), 111(a)–(d)(1), title XII, §1272(d)(4), title XIII, §1301(j)(8), Oct. 22, 1986, 100Stat. 2104, 2107, 2594, 2658; Pub. L. 100–647, title I, §§1001(c), 1007(g)(12), Nov. 10, 1988, 102 Stat. 3350, 3436; Pub. L. 101–508, title XI, §§11101(d)(1)(B), 11111(a), (b), (e), Nov. 5, 1990, 104 Stat. 1388–405, 1388–408, 1388–412, 1388–413; Pub. L. 103–66, title XIII, §13131(a)–(d)(1), Aug. 10, 1993, 107 Stat. 433–435; Pub. L. 103–465, title VII, §§721(a), 722(a), 723(a), 742(a), Dec. 8, 1994, 108 Stat. 5002, 5003, 5010; Pub. L. 104–7, §4(a), Apr. 11, 1995, 109 Stat. 95; Pub. L. 104–193, title IV, §451(a), (b), title IX, §§909(a), (b), 910(a), (b), Aug. 22, 1996, 110 Stat. 2276, 2277, 2351, 2352; Pub. L. 105–34, title I, §101(b), title III, §312(d)(2), title X, §1085(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 798, 840, 955, 956; Pub. L. 105–206, title VI, §§6003(b), 6010(p)(1), (2), 6021(a), (b), July 22, 1998, 112 Stat. 791, 816, 817, 823, 824; Pub. L. 106–170, title IV, §412(a), Dec. 17, 1999, 113 Stat. 1917.)
-
-#### Earned Income Tax Credit Adjustment for Tax Years Beginning in 2001
-
-<i>For adjustment of earned income tax credit under this section for tax years beginning in 2001, see section 3.03 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -426,7 +396,49 @@ A prior section 32 was renumbered section 33 of this title.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c)(3)(B)(iii). Pub. L. 106–170 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
+<b>2001</b>—Subsec. (a)(2)(B). Pub. L. 107–16, §§303(d)(1), 901, temporarily struck out “modified” before “adjusted gross income”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(2). Pub. L. 107–16, §§303(a)(1), 901, temporarily reenacted par. heading without change, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Subject to subparagraph (B), the earned” for “The earned”, and added subpar. (B). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(1)(C). Pub. L. 107–16, §§303(f), 901, temporarily amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “If 2 or more individuals would (but for this subparagraph and after application of subparagraph (B)) be treated as eligible individuals with respect to the same qualifying child for taxable years beginning in the same calendar year, only the individual with the highest modified adjusted gross income for such taxable years shall be treated as an eligible individual with respect to such qualifying child.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(2)(A)(i). Pub. L. 107–16, §§303(b), 901, temporarily inserted “, but only if such amounts are includible in gross income for the taxable year” after “other employee compensation”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(3)(A)(ii). Pub. L. 107–16, §§303(e)(2)(B), 901, temporarily struck out “except as provided in subparagraph (B)(iii),” before “who has”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(3)(B)(i). Pub. L. 107–16, §§303(e)(1), 901, temporarily reenacted heading, introductory provisions, and subcl. (III) of cl. (i) without change and amended subcls. (I) and (II) generally. Prior to amendment, subcls. (I) and (II) read as follows:
+
+“(I) a son or daughter of the taxpayer, or a descendant of either,
+
+“(II) a stepson or stepdaughter of the taxpayer, or.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(3)(B)(iii). Pub. L. 107–16, §§303(e)(2)(A), 901, temporarily reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of clause (i)(III), the term ‘eligible foster child’ means an individual not described in clause (i)(I) or (II) who—
+
+&emsp;“(I) is a brother, sister, stepbrother, or stepsister of the taxpayer (or a descendant of any such relative) or is placed with the taxpayer by an authorized placement agency,
+
+&emsp;“(II) the taxpayer cares for as the taxpayer's own child, and
+
+&emsp;“(III) has the same principal place of abode as the taxpayer for the taxpayer's entire taxable year.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(3)(E). Pub. L. 107–16, §§303(h), 901, temporarily substituted “subparagraph (A)(ii)” for “subparagraphs (A)(ii) and (B)(iii)(II)”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(5). Pub. L. 107–16, §§303(d)(2)(A), 901, temporarily struck out heading and text of par. (5), which defined “modified adjusted gross income” as meaning adjusted gross income without regard to certain described amounts and increased by certain described amounts. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (f)(2)(B). Pub. L. 107–16, §§303(d)(2)(B), 901, temporarily struck out “modified” before “adjusted gross income” in two places. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (h). Pub. L. 107–16, §§303(c), 901, temporarily struck out heading and text of subsec. (h). Text read as follows: “The credit allowed under this section for the taxable year shall be reduced by the amount of tax imposed by section 55 (relating to alternative minimum tax) with respect to such taxpayer for such taxable year.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (j)(1)(B). Pub. L. 107–16, §§303(a)(2), 901, temporarily amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 1995’ for ‘calendar year 1992’ in subparagraph (B) thereof.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (j)(2)(A). Pub. L. 107–16, §§303(a)(3), 901, temporarily substituted “subsection (b)(2)(A) (after being increased under subparagraph (B) thereof)” for “subsection (b)(2)”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (n). Pub. L. 107–16, §§201(c)(3), 901, temporarily struck out heading and text of subsec. (n), which had increased credit allowable under this section in the case of a taxpayer with respect to whom a child tax credit is allowed under section 24(a), described amount of increase, and set forth provisions relating to coordination with other credits allowable under this part. See Effective and Termination Dates of 2001 Amendment note below.
+
+I211999—Subsec. (c)(3)(B)(iii). Pub. L. 106–170 added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
 <b>1998</b>—Subsec. (c)(1)(F). Pub. L. 105–206, §6021(a), added introductory provisions and struck out former introductory provisions which read as follows: “The term ‘eligible individual’ does not include any individual who does not include on the return of tax for the taxable year—”.
 
@@ -474,7 +486,7 @@ Coordination with section 24.—The amount of the credit under section 24 shall 
 
 <b>1997</b>—Subsec. (c)(2)(B)(v). Pub. L. 105–34, §1085(c), added cl. (v).
 
-Subsec. (c)(4). Pub. L. 105–34, §312(d)(2), struck out “(as defined in section 1034(h)(3)” after “serving on extended active duty” and inserted at end “For purposesof the preceding sentence, the term ‘extended active duty’ means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.”
+Subsec. (c)(4). Pub. L. 105–34, §312(d)(2), struck out “(as defined in section 1034(h)(3)” after “serving on extended active duty” and inserted at end “For purposes of the preceding sentence, the term ‘extended active duty’ means any period of active duty pursuant to a call or order to such duty for a period in excess of 90 days or for an indefinite period.”
 
 Subsec. (c)(5)(B). Pub. L. 105–34, §1085(d)(4), inserted at end of concluding provisions “Clause (vi) shall not include any amount which is not includible in gross income by reason of section 402(c), 403(a)(4), 403(b), 408(d)(3), (4), or (5), or 457(e)(10).”
 
@@ -572,7 +584,7 @@ Subsec. (i)(1)(B). Pub. L. 101–508, §11101(d)(1)(B), substituted “1989” f
 
 Subsec. (i)(2)(A). Pub. L. 101–508, §11111(e)(1), (2), substituted “clause (i) of subparagraph (B)” for “clause (i) or (ii) of subparagraph (B)” in cl. (i) and “clause (ii)” for “clause (iii)” in cl. (ii).
 
-Subsec. (i)(2)(B). Pub. L. 101–508, §11111(e)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The dollar amounts referred to in this subparagraph are—
+Subsec. (i)(2)(B). Pub. L. 101–508, §11111(e)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “The dollar amounts referred to in this subparagraph are—
 
 &emsp;“(i) the $5,714 amount contained in subsection (a),
 
@@ -663,6 +675,22 @@ Subsec. (c)(1)(A). Pub. L. 94–455, §401(c)(2), among other changes, substitut
 <b>1975</b>—Subsec. (a). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 201(c)(3) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2000,see section 201(e)(1) of Pub. L. 107–16, set out as a note under section 24 of this title.
+
+Pub. L. 107–16, title III, §303(i), June 7, 2001, 115 Stat. 57, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 6213 of this title\] shall apply to taxable years beginning after December 31, 2001.
+
+“(2)
+
+Subsection (g).—The amendment made by subsection (g) \[amending section 6213 of this title\] shall take effect on January 1, 2004.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -762,7 +790,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by sections 104(b)(1)(B) and 111(a)–(d)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Amendment by section 1272(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
+Amendment by section 1272(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
 Amendment by section 1301(j)(8) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 

@@ -66,11 +66,11 @@ As used in this subchapter—
 
 &emsp;(14) the term “penalty” includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI,§5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
 
 #### Prior Provisions
 
-A prior section 3502, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2813; amended Pub. L. 98–443, §9(h), Oct.4, 1984, 98 Stat. 1708; Pub. L. 99–500, §101(m) \[title VIII, §812\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §812\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335; Pub. L. 101–73, title VII, §744(e), Aug. 9, 1989, 103 Stat. 438, defined terms used in this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3502, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2813; amended Pub. L. 98–443, §9(h), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–500, §101(m) \[title VIII, §812\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §812\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335; Pub. L. 101–73, title VII, §744(e), Aug. 9, 1989, 103 Stat. 438, defined terms used in this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3502, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302; Pub. L. 93–153, title IV, §409(a), Nov. 16, 1973, 87 Stat. 593, defined “Federal agency”, “person”, and “information”, prior to the general amendment of this chapter by Pub. L. 96–511.
 

@@ -34,7 +34,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 &emsp;&emsp;(i) with respect to such allocation or designation,
 
-&emsp;&emsp;(ii) with respect to the establishment or implementation of the procedure under this paragraph (1), or
+&emsp;&emsp;(ii) with respect to the establishment or implementation of the procedure under paragraph (1), or
 
 &emsp;&emsp;(iii) in continuing the allocation or designation; or
 
@@ -44,7 +44,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 #### (d) Investment managers
 
-(1) If an investment manager or managers have been appointed under section 1102(c)(3) ofthis title, then, notwithstanding subsections (a)(2) and (3) and subsection (b) of this section, no trustees shall be liable for the acts or omissions of such investment manager or managers, or be under an obligation to invest or otherwise manage any asset of the plan which is subject to the management of such investment manager.
+(1) If an investment manager or managers have been appointed under section 1102(c)(3) of this title, then, notwithstanding subsections (a)(2) and (3) and subsection (b) of this section, no trustee shall be liable for the acts or omissions of such investment manager or managers, or be under an obligation to invest or otherwise manage any asset of the plan which is subject to the management of such investment manager.
 
 (2) Nothing in this subsection shall relieve any trustee of any liability under this part for any act of such trustee.
 
@@ -52,5 +52,5 @@ In addition to any liability which he may have under any other provisions of thi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1002, 1102, 1110, 1114 of this title; title 26 section 4975.
+This section is referred to in sections 1002, 1003, 1102, 1110, 1114 of this title; title 26 section 4975.
 

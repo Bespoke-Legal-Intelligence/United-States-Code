@@ -1,11 +1,11 @@
 
-24 U.S.C.<br>United States Code, 2000 Edition<br>Title 24 - HOSPITALS AND ASYLUMS<br>From the U.S. Government Publishing Office, www.gpo.gov
+24 U.S.C.<br>United States Code, 2001 Edition<br>Title 24 - HOSPITALS AND ASYLUMS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 24—HOSPITALS AND ASYLUMS
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>1.</b>](Chapter%20001%20-%20Navy%20Hospitals%2C%20Naval%20Home%2C%20Army%20and%20Navy%20Hospital%2C%20and%20Hospital%20Relief%20for%20Seamen%20and%20Others/README.md) | <b>Navy Hospitals, Naval Home, Army and Navy Hospital, and Hospital Relief for Seamen and Others</b> | <b>1</b> |
+| [<b>1.</b>](Chapter%20001%20-%20Navy%20Hospitals%2C%20Army%20and%20Navy%20Hospital%2C%20and%20Hospital%20Relief%20for%20Seamen%20and%20Others/README.md) | <b>Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others</b> | <b>1</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home/README.md) | <b>Soldiers’ and Airmen's Home \[Repealed\]</b> | <b>41</b> |
 | [<b>3.</b>](Chapter%20003%20-%20National%20Home%20for%20Disabled%20Volunteer%20Soldiers/README.md) | <b>National Home for Disabled Volunteer Soldiers</b> | <b>71</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Saint%20Elizabeths%20Hospital/README.md) | <b>Saint Elizabeths Hospital</b> | <b>161</b> |
@@ -24,7 +24,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Chapter 001 - Navy Hospitals, Naval Home, Army and Navy Hospital, and Hospital Relief for Seamen and Others](Chapter%20001%20-%20Navy%20Hospitals%2C%20Naval%20Home%2C%20Army%20and%20Navy%20Hospital%2C%20and%20Hospital%20Relief%20for%20Seamen%20and%20Others/README.md)
+- [Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others](Chapter%20001%20-%20Navy%20Hospitals%2C%20Army%20and%20Navy%20Hospital%2C%20and%20Hospital%20Relief%20for%20Seamen%20and%20Others/README.md)
 - [Chapter 002 - Soldiers&#8217; and Airmen's Home](Chapter%20002%20-%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home/README.md)
 - [Chapter 003 - National Home for Disabled Volunteer Soldiers](Chapter%20003%20-%20National%20Home%20for%20Disabled%20Volunteer%20Soldiers/README.md)
 - [Chapter 004 - Saint Elizabeths Hospital](Chapter%20004%20-%20Saint%20Elizabeths%20Hospital/README.md)

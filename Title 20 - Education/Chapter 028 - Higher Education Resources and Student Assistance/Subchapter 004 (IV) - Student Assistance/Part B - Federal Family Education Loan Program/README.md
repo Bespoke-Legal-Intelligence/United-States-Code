@@ -6,7 +6,7 @@ Part B of title IV of the Higher Education Act of 1965, comprising this part, wa
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1002, 1070a, 1085, 1087–0, 1087d, 1087e, 1087h, 1087tt, 1088, 1090, 1091, 1091a,1091b, 1092, 1092b, 1092c, 1094, 1095a, 1097, 1098c, 1099c, 1099c–1, 2373 of this title; title 2 section 906; title 5 section 5379; title 10 sections 2171, 16301, 16302; title 11 section 525; title 26 sections 144, 6103; title 38 section 3698; title 42 sections 292a, 653, 4953.
+This part is referred to in sections 1002, 1070a, 1085, 1087–0, 1087d, 1087e, 1087h, 1087tt, 1088, 1090, 1091, 1091a, 1091b, 1092, 1092b, 1092c, 1094, 1095a, 1097, 1098c, 1099c, 1099c–1, 2373 of this title; title 2 sections 60c–5, 906; title 5 section 5379; title 10 sections 2171, 16301, 16302; title 11 section 525; title 26 sections 144, 6103; title 38 section 3698; title 42 sections 292a, 653, 4953.
 
 
 ---

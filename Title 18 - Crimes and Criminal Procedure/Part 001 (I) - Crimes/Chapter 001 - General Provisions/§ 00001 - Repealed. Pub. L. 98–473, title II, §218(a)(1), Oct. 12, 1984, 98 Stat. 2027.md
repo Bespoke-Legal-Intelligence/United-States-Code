@@ -6,6 +6,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–56, §1(a), Oct. 26, 2001, 115 Stat. 272, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001’.”
+
 #### Short Title of 1998 Amendments
 
 Pub. L. 105–314, §1(a), Oct. 30, 1998, 112 Stat. 2974, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Protection of Children From Sexual Predators Act of 1998’.”
@@ -43,6 +47,8 @@ Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act
 Section 200 of title II (§§200–2304) of Pub. L. 98–473 provided that: “This title \[see Tables for classification\] may be cited as the ‘Comprehensive Crime Control Act of 1984’.”
 
 #### Severability
+
+Pub. L. 107–56, §2, Oct. 26, 2001, 115 Stat. 275, provided that: “Any provision of this Act \[see Short Title of 2001 Amendment note above\] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other persons not similarly situated or to other, dissimilar circumstances.”
 
 Pub. L. 104–132, title IX, §904, Apr. 24, 1996, 110 Stat. 1319, provided that: “If any provision of this Act \[see Short Title of 1996 Amendments note above\], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 

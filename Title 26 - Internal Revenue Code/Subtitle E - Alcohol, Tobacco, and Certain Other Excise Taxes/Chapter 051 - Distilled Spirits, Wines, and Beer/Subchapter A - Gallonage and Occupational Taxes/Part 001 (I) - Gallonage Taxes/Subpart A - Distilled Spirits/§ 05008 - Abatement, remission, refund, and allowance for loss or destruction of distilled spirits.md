@@ -66,7 +66,7 @@ The provisions of subsection (a) shall be applicable to loss of distilled spirit
 
 #### (e) Other laws applicable
 
-All provisions of law, including penalties, applicable in respect of the internal revenue tax ondistilled spirits, shall, insofar as applicable and not inconsistent with subsection (c), be applicable to the credits or refunds provided for under such subsection to the same extent as if such credits or refunds constituted credits or refunds of such tax.
+All provisions of law, including penalties, applicable in respect of the internal revenue tax on distilled spirits, shall, insofar as applicable and not inconsistent with subsection (c), be applicable to the credits or refunds provided for under such subsection to the same extent as if such credits or refunds constituted credits or refunds of such tax.
 
 #### (f) Cross reference
 
@@ -122,7 +122,7 @@ Subsec. (c)(1)(A). Pub. L. 91–659, §1, added cl. (iii).
 
 Subsec. (c)(5). Pub. L. 91–659, §2(b), permits distilled spirits returned to bottling premises to be treated for purposes of the various loss provisions as though they had not been removed from the bottling premises.
 
-<b>1968</b>—Subsec. (c)(1). Pub. L. 90–630 inserted provisions allowing abatement, remission, and refund if the casualty loss occurs after completion of the packaging but before the spirits have been removed from the premises of the distilled spirits plant to which the spirits were removed from bond.
+<b>1968</b>—Subsec. (c)(1). Pub. L. 90–630 inserted provisions allowing abatement, remission, and refund if the casualty loss occurs after completion of the packaging but before the spirits have been removed from the premisesof the distilled spirits plant to which the spirits were removed from bond.
 
 <b>1965</b>—Subsec. (d)(2). Pub. L. 89–44 struck out final clause prohibiting the allowance of a claim in respect to any distilled spirits withdrawn from bonded premises of a distilled spirits plant more than 6 months prior to the date of such return.
 
@@ -144,7 +144,7 @@ Amendment by section 1905(a)(2) of Pub. L. 94–455 effective on first day of fi
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 91–659 effective on first day of first calendar month which begins more than 90 daysafter Jan. 8, 1971, see section 6 of Pub. L. 91–659, set out as an Effective Date note under section 5066 of this title.
+Amendment by Pub. L. 91–659 effective on first day of first calendar month which begins more than 90 days after Jan. 8, 1971, see section 6 of Pub. L. 91–659, set out as an Effective Date note under section 5066 of this title.
 
 #### Effective Date of 1968 Amendment
 

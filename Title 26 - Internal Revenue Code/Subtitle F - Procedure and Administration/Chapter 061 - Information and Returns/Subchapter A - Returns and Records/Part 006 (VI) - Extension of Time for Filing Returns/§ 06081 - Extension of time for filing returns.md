@@ -8,23 +8,25 @@ The Secretary may grant a reasonable extension of time for filing any return, de
 
 An extension of 3 months for the filing of the return of income taxes imposed by subtitle A shall be allowed any corporation if, in such manner and at such time as the Secretary may by regulations prescribe, there is filed on behalf of such corporation the form prescribed by the Secretary, and if such corporation pays, on or before the date prescribed for payment of the tax, the amount properly estimated as its tax; but this extension may be terminated at any time by the Secretary by mailing to the taxpayer notice of such termination at least 10 days prior to the date for termination fixed in such notice.
 
-#### (c) Postponement by reason of war
+#### (c) Cross references
 
-&emsp;&emsp;<b>For time for performing certain acts postponed by reason of war, see section 7508.</b>
+&emsp;&emsp;<b>For time for performing certain acts postponed by reason of war, see section 7508, and by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §234(b)(2)(B), Sept. 3, 1982, 96 Stat. 503.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §234(b)(2)(B), Sept. 3, 1982, 96 Stat. 503; Pub. L. 107–134, title I, §112(d)(2), Jan. 23, 2002, 115 Stat. 2435.)
 
 #### Amendments
+
+<b>2002</b>—Subsec. (c). Pub. L. 107–134 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “For time for performing certain acts postponed by reason of war, see section 7508.”
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–248 struck out “or the first installment thereof required under section 6152” after “the amount properly estimated as its tax”.
 
 <b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–134, title I, §112(f), Jan. 23, 2002, 115 Stat. 2435, provided that: “The amendments made by this section \[enacting section 1148 of Title 29, Labor, and amending this section, sections 6161, 6404, 7508, and 7508A of this title, and section 1302 of Title 29\] shall apply to disasters and terroristic or military actions occurring on or after September 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after the date of the enactment of this Act \[Jan. 23, 2002\].”
+
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 234(e) of Pub. L. 97–248, set out as a note under section 6655 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6404 of this title.
 

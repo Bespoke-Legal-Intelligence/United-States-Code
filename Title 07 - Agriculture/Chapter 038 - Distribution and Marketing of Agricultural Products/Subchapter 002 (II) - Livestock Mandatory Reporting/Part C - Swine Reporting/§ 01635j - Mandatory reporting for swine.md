@@ -38,7 +38,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;After public notice and an opportunity for comment, subject to subparagraph (C), the Secretary shall promulgate regulations that specify additional information that shall be reported under this section if the Secretary determines under the review under subparagraph (A) that—
 
-&emsp;&emsp;&emsp;(i) information that is currently required no longer accurately reflects the methods by which swine are valued and priced by packers; or
+&emsp;&emsp;&emsp;(i) information that is currently required no longer accurately reflects the methodsby which swine are valued and priced by packers; or
 
 &emsp;&emsp;&emsp;(ii) packers that slaughter a significant majority of the swine produced in the United States no longer use backfat or lean percentage factors as indicators of price.
 
@@ -110,7 +110,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 &emsp;&emsp;&emsp;&emsp;(VII) the average backfat, which shall be equal to the average of the backfat thickness (in inches) measured between the third and fourth from the last ribs, 7 centimeters from the carcass split (or adjusted from the individual packer's measurement to that reference point using an adjustment made by the Secretary) of the swine slaughtered during the applicable reporting period;
 
-&emsp;&emsp;&emsp;&emsp;(VIII) the average lean percentage, which shall be equal to the average percentage of the carcass weight comprised of lean meat for the swine slaughtered during the applicable reporting period, except that when a packer is required to report the average lean percentage under this subclause, the packer shall make available to the Secretary the underlying data, applicable methodology and formulae, and supporting materials used to determine the average lean percentage, which the Secretary may convert to the carcass measurements or lean percentage of the swine of the individual packer to correlate to a common percent lean measurement; and
+&emsp;&emsp;&emsp;&emsp;(VIII) the average lean percentage, which shall be equal to the average percentage of the carcass weight comprised of lean meat for the swine slaughtered during the applicable reporting period, except that when a packer is required to report the average lean percentage under this subclause, the packer shall makeavailable to the Secretary the underlying data, applicable methodology and formulae, and supporting materials used to determine the average lean percentage, which the Secretary may convert to the carcass measurements or lean percentage of the swine of the individual packer to correlate to a common percent lean measurement; and
 
 &emsp;&emsp;&emsp;&emsp;(IX) the total slaughter quantity, which shall be equal to the total number of swine slaughtered during the applicable reporting period, including all types of purchases and packer-owned swine; and
 
@@ -118,7 +118,7 @@ The Secretary shall establish a program of swine price information reporting tha
 
 #### (D) Publication
 
-&emsp;&emsp;The Secretary shall publish the information obtained under this paragraph in a priorday report not later than 8:00 a.m. Central Time on the reporting day on which the information is received from the packer.
+&emsp;&emsp;The Secretary shall publish the information obtained under this paragraph in a prior day report not later than 8:00 a.m. Central Time on the reporting day on which the information is received from the packer.
 
 #### (2) Morning report
 

@@ -10,7 +10,7 @@ The Secretary may make grants to, and enter into contracts with, public agencies
 
 &emsp;&emsp;(A) for the training of professional and paraprofessional personnel in the fields of medicine, law, education, social work, and other relevant fields who are engaged in, or intend to work in, the field of prevention, identification, and treatment of child abuse and neglect, including the links between domestic violence and child abuse;
 
-&emsp;&emsp;(B) to improve the recruitment, selection, and training of volunteers serving in publicand private nonprofit children, youth and family service organizations in order to prevent child abuse and neglect through collaborative analysis of current recruitment, selection, and training programs and development of model programs for dissemination and replication nationally; and
+&emsp;&emsp;(B) to improve the recruitment, selection, and training of volunteers serving in public and private nonprofit children, youth and family service organizations in order to prevent child abuse and neglect through collaborative analysis of current recruitment, selection, and training programs and development of model programs for dissemination and replication nationally; and
 
 &emsp;&emsp;(C) for the establishment of resource centers for the purpose of providing information and training to professionals working in the field of child abuse and neglect.
 

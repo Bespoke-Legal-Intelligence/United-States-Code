@@ -26,7 +26,7 @@
 
 &emsp;(8) works, property, or appliances suitable for the production of lumber and timber products.
 
-(c) Jurisdiction over condemnation proceedings under this section is vested in the United States District Court for the district in which the property, or any part of it, sought to be condemned is located, regardless of its value.
+(c) Jurisdiction over condemnation proceedings under this section is vested in the United States District Court for the district in whichthe property, or any part of it, sought to be condemned is located, regardless of its value.
 
 (d) In time of war or when war is imminent, the United States may, immediately upon the filing of a petition for condemnation under subsection (a), take and use the property to the extent of the interest sought to be acquired.
 
@@ -100,7 +100,7 @@ This corrects an error in an amendment to 10:2664(a) made by section 12(3)(A) of
 
 1981—Subsec. (a). Pub. L. 97–31, in introductory text and par. (3), substituted references to Secretary of Transportation for references to Secretary of Commerce and Maritime Commission. Amendment was executed to text in accordance with the probable intent of Congress, notwithstanding amendment of section by Pub. L. 96–513 which substituted different language than language contained in amendatory provisions of Pub. L. 97–31.
 
-1980—Subsec. (a). Pub. L. 96–513 substituted “Federal Maritime Commission” for “Federal Maritime Board” in two places, and substituted “under Reorganization Plan No. 7 of 1961, effective August 12, 1961 (75 Stat.840)” for “by 1950 Reorganization Plan No. 21, effective May 24, 1950 (64 Stat. 1273)”.
+1980—Subsec. (a). Pub. L. 96–513 substituted “Federal Maritime Commission” for “Federal Maritime Board” in two places, and substituted “under Reorganization Plan No. 7 of 1961, effective August 12, 1961 (75 Stat. 840)” for “by 1950 Reorganization Plan No. 21, effective May 24, 1950 (64 Stat. 1273)”.
 
 1958—Subsec. (a). Pub. L. 85–861, §33(a)(15)(A), (B), inserted “, including temporary use,” after “subsection (b)”, and struck out provisions requiring all proceedings under this subsection to be in accordance with the laws of the State in which the suit is brought.
 

@@ -36,7 +36,7 @@
 
 #### (ii) “Subsection (e) ceiling” defined
 
-&emsp;&emsp;&emsp;In clause (i), the term “subsection (e) ceiling” means, for a foreign state or dependent area, 77 percent of the maximum number of visas that may be made available under section 1153(a) of this title to immigrants who are natives of the state or area under section 1153(a)(2) of this title consistent with subsection (e) of this section.
+&emsp;&emsp;&emsp;In clause (i), the term “subsection (e) ceiling” means, for a foreign state or dependent area, 77 percent of the maximum number of visas that may be made available under section 1153(a) of this title to immigrants who are natives of the state or area under section 1153(a)(2) of this titleconsistent with subsection (e) of this section.
 
 #### (C) Treatment of unmarried sons and daughters in countries subject to subsection (e)
 
@@ -72,11 +72,11 @@ Any immigrant born in a colony or other component or dependent area of a foreign
 
 #### (d) Changes in territory
 
-In the case of any change in the territorial limits of foreign states, the Secretary of Stateshall, upon recognition of such change issue appropriate instructions to all diplomatic and consular offices.
+In the case of any change in the territorial limits of foreign states, the Secretary of State shall, upon recognition of such change issue appropriate instructions to all diplomatic and consular offices.
 
 #### (e) Special rules for countries at ceiling
 
-If it is determined that the total number of immigrant visas made available under subsections (a) and (b) of section 1153 of this title to natives of any single foreign state or dependent area will exceed the numerical limitation specified in subsection (a)(2) of this section in any fiscal year, in determining the allotment of immigrant visa numbers to natives under subsections (a) and (b) of section 1153 of this title, visa numbers with respect to natives of that state or area shall be allocated (to the extent practicable and otherwise consistent with this section and section 1153 of this title) in a manner so that—
+If it is determined that the total number of immigrant visas made available under subsections (a) and (b) of section 1153 of this title tonatives of any single foreign state or dependent area will exceed the numerical limitation specified in subsection (a)(2) of this section in any fiscal year, in determining the allotment of immigrant visa numbers to natives under subsections (a) and (b) of section 1153 of this title, visa numbers with respect to natives of that state or area shall be allocated (to the extent practicable and otherwise consistent with this section and section 1153 of this title) in a manner so that—
 
 &emsp;(1) the ratio of the visa numbers made available under section 1153(a) of this title to the visa numbers made available under section 1153(b) of this title is equal to the ratio of the worldwide level of immigration under section 1151(c) of this title to such level under section 1151(d) of this title;
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 100–525, §9(f)(1), substituted “subsection (a)” for 
 
 Subsec. (e). Pub. L. 100–525, §9(f)(2), substituted “this section” for “section 202” in original, which for purposes of codification had been translated as “this section”.
 
-1986—Subsec. (b). Pub. L. 99–653, as amended by Pub. L. 100–525, §8(c), amended subsec. (b) generally, substituting “outlying possessions, shall” for “outlying possessions shall”, in cl. (1) substituting “when accompanied by or following to join his alien” for “when accompanied by his alien”, “charged to the foreign state of either parent” for “charged to the same foreign state as the accompanying parent or of either accompanying parent”, “from the parent” for “from the accompanying parent”, “and if immigration charged to the foreign state to which such parent has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such parent has been or would be chargeable has not exceeded the numerical”,in cl. (2) substituting “of his spouse” for “of his accompanying spouse”, “of the spouse he is accompanying or following to join” for “of the accompanying spouse”, “and if immigration charged to the foreign state to which such spouse has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such spouse has been or would be chargeable has not exceeded the numerical”, and in cl. (3) substituting “subject, or, if” for “subject, or if” and “country, in” for “country then in”.
+1986—Subsec. (b). Pub. L. 99–653, as amended by Pub. L. 100–525, §8(c), amended subsec. (b) generally, substituting “outlying possessions, shall” for “outlying possessions shall”, in cl. (1) substituting “when accompanied by or following to join his alien” for “when accompanied by his alien”, “charged to the foreign state of either parent” for “charged to the same foreign state as the accompanying parent or of either accompanying parent”, “from the parent” for “from the accompanying parent”, “and if immigration charged to the foreign state to which such parent has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such parent has been or would be chargeable has not exceeded the numerical”, in cl. (2) substituting “of his spouse” for “of his accompanying spouse”, “of the spouse he is accompanying or following to join” for “of the accompanying spouse”, “and if immigration charged to the foreign state to which such spouse has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such spouse has been or would bechargeable has not exceeded the numerical”, and in cl. (3) substituting “subject, or, if” for “subject, or if” and “country, in” for “country then in”.
 
 Subsec. (c). Pub. L. 99–603, §311(a)(1), substituted “5,000” for “six hundred”.
 
@@ -166,7 +166,7 @@ Amendment by section 8(c) of Pub. L. 100–525 effective as if included in the e
 
 Amendment by Pub. L. 99–653 applicable to visas issued, and admissions occurring, on or after Nov. 14, 1986, see section 23(a) of Pub. L. 99–653, set out as a note under section 1101 of this title.
 
-Section 311(b) of Pub. L. 99–603 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 6, 1986\].”
+Section 311(b) of Pub. L. 99–603 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 6, 1986\].”
 
 #### Effective Date of 1981 Amendment
 

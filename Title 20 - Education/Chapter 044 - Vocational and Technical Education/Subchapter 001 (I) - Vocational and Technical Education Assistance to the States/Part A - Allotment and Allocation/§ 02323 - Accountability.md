@@ -68,7 +68,7 @@ The purpose of this section is to establish a State performance accountability s
 
 #### (v) Agreement on State adjusted levels of performance for 3rd, 4th, and 5th years
 
-&emsp;&emsp;&emsp;Prior to the third program year covered by the State plan, the Secretary and each eligible agency shall reach agreement on the State adjusted levels of performance for each of the core indicators of performance for the third, fourth, and fifth program years covered by the State plan, taking into account the factors described in clause (vi). The State adjusted levels of performance agreed to under this clause shall be considered to be the State adjusted levels of performance for the State for such years and shall be incorporated into the State plan.
+&emsp;&emsp;&emsp;Prior to the third program year covered by the State plan, the Secretary and eacheligible agency shall reach agreement on the State adjusted levels of performance for each of the core indicators of performance for the third, fourth, and fifth program years covered by the State plan, taking into account the factors described in clause (vi). The State adjusted levels of performance agreed to under this clause shall be considered to be the State adjusted levels of performance for the State for such years and shall be incorporated into the State plan.
 
 #### (vi) Factors
 
@@ -114,7 +114,7 @@ The purpose of this section is to establish a State performance accountability s
 
 #### Prior Provisions
 
-A prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2445;amended Pub. L. 99–159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024, required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332. See section 2342 of this title.
+A prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, §113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, §391(s)(2), Oct. 20, 1994, 108 Stat. 4024, required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332. See section 2342 of this title.
 
 #### Section Referred to in Other Sections
 

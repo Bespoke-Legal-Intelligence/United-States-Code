@@ -8,7 +8,7 @@
 
 &emsp;(B) 7 representatives of recreational vessel manufacturers and associated equipment manufacturers; and
 
-&emsp;(C) 7 representatives of national recreational boating organizations and from the generalpublic, at least 5 of whom shall be representatives of national recreational boating organizations.
+&emsp;(C) 7 representatives of national recreational boating organizations and from the general public, at least 5 of whom shall be representatives of national recreational boating organizations.
 
 (2) Additional individuals from the sources referred to in paragraph (1) of this subsection may be appointed to panels of the Council to assist the Council in performing its duties.
 
@@ -68,7 +68,7 @@ Section 3(b)(3) of Pub. L. 99–626 provided that: “The Secretary of Transport
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of acouncil established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ The Congress declares that it is the policy of the United States to establish, i
 
 #### (b) Availability of telecommunication services
 
-The new and expanded telecommunication services are to be made available as promptly aspossible and are to be extended to provide global coverage at the earliest practicable date. In effectuating this program, care and attention will be directed toward providing such services to economically less developed countries and areas as well as those more highly developed, toward efficient and economical use of the electromagnetic frequency spectrum, and toward the reflection of the benefits of this new technology in both quality of services and charges for such services.
+The new and expanded telecommunication services are to be made available as promptly as possible and are to be extended to provide global coverage at the earliest practicable date. In effectuating this program, care and attention will be directed toward providing such services to economically less developed countries and areas as well as those more highly developed, toward efficient and economical use of the electromagnetic frequency spectrum, and toward the reflection of the benefits of this new technology in both quality of services and charges for such services.
 
 #### (c) Private enterprise; access; competition
 
@@ -78,7 +78,7 @@ Amendment of Intelsat Agreement.—(1) The Secretary of State shall consult with
 
 “(d)
 
-Congressional Consultation.—In the event that, after United States consultation with Intelsat forthe purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommend such a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly's failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
+Congressional Consultation.—In the event that, after United States consultation with Intelsat for the purposes of coordination under article XIV(d) of the Intelsat Agreement for the establishment of a separate international telecommunications satellite system, the Assembly of Parties of Intelsat fails to recommend such a separate system, and the President determines to pursue the establishment of a separate system notwithstanding the Assembly's failure to approve such system, the Secretary of State, after consultation with the Secretary of Commerce, shall submit to the Congress a detailed report which shall set forth—
 
 &emsp;“(1) the foreign policy reasons for the President's determination, and
 

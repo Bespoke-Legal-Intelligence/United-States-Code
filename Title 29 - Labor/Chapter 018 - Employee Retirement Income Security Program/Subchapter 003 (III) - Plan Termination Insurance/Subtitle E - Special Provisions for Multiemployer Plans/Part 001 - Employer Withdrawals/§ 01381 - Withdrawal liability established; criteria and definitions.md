@@ -38,7 +38,7 @@ In General.—
 
 &emsp;“(1)
 
-Liability.—Any withdrawal liability incurred by an employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income SecurityAct of 1974 (29 U.S.C. 1381 et seq.) as a result of the complete or partial withdrawal of such employer from a multiemployer plan before September 26, 1980, shall be void.
+Liability.—Any withdrawal liability incurred by an employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1381 et seq.) as a result of the complete or partial withdrawal of such employer from a multiemployer plan before September 26, 1980, shall be void.
 
 &emsp;“(2)
 

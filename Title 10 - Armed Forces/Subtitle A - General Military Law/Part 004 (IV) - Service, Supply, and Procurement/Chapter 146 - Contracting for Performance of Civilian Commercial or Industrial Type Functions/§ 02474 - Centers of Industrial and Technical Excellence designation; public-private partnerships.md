@@ -54,17 +54,29 @@ Availability of Excess Equipment to Private-Sector Partners.—Equipment or faci
 
 &emsp;&emsp;(B) to hold harmless and indemnify the United States from—
 
-&emsp;&emsp;&emsp;(i) any claim for damages or injury to any person or property arising out of the use of the equipment or facilities, except in a case of willful conduct or gross negligence; and
+&emsp;&emsp;&emsp;(i) any claim for damages or injury to any person or property arising out of the use of the equipment or facilities, except under the circumstances described in section 2563(c)(3) of this title; and
 
 &emsp;&emsp;&emsp;(ii) any liability or claim for damages or injury to any person or property arising out of a decision by the Secretary concerned or the Secretary of Defense to suspend or terminate that use of equipment or facilities during a war or national emergency.
 
 (f)
 
+Exclusion of Certain Expenditures From Percentage Limitation.—(1) Amounts expended out of funds described in paragraph (2) for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence shall not be counted for purposes of applying the percentage limitation in section 2466(a) of this title if the personnel are provided by private industry or other entities outside the Department of Defense pursuant to a public-private partnership.
+
+(2) The funds referred to in paragraph (1) are funds available to the military departments and Defense Agencies for depot-level maintenance and repair workloads for fiscal years 2002 through 2005.
+
+(3) All funds covered by paragraph (1) shall be included as a separate item in the reports required under paragraphs (1), (2), and (3) of section 2466(e) of this title.
+
+(g)
+
 Construction of Provision.—Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center of Industrial and Technical Excellence by Department of Defense personnel to performance by a contractor.
 
-(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63.)
+(Added Pub. L. 105–85, div. A, title III, §361(a)(1), Nov. 18, 1997, 111 Stat. 1700; amended Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–61 to 1654A–63; Pub. L. 107–107, div. A, title III, §§342, 343(b), Dec. 28, 2001, 115 Stat. 1060, 1061.)
 
 #### Amendments
+
+2001—Subsec. (e)(2)(B)(i). Pub. L. 107–107, §343(b), substituted “under the circumstances described in section 2563(c)(3) of this title” for “in a case of willful conduct or gross negligence”.
+
+Subsecs. (f), (g). Pub. L. 107–107, §342, added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(a)(1)\], substituted “The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency,” for “The Secretary of Defense” and “of the designee” for “of the activity”.
 
@@ -76,7 +88,7 @@ Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(b)\], amended
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(3)\], added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(d)\], inserted at end “Consideration in the form of rental payments or (notwithstanding section 3302(b) of title 31) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding section 2667(d) of this title, revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.”
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title III, §341(d)\], inserted at end “Consideration in the form ofrental payments or (notwithstanding section 3302(b) of title 31) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding section 2667(d) of this title, revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.”
 
 Pub. L. 106–398, §1 \[\[div. A\], title III, §341(c)(1), (2)\], redesignated subsec. (c) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The policy required under subsection (a) shall include measures to enable a private sector entity that enters into a partnership arrangement under subsection (b) or leases excess equipment and facilities at a Center of Industrial and Technical Excellence pursuant to section 2471 of this title to perform additional work at the Center, subject to the limitations outlined in subsection (b) of such section, outside of the types of work normally assigned to the Center.”
 

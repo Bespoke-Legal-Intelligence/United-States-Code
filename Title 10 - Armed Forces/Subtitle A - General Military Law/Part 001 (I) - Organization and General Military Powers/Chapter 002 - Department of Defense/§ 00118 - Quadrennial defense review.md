@@ -16,7 +16,7 @@ Conduct of Review.—Each quadrennial defense review shall be conducted so as—
 
 (c)
 
-Assessment of Risk.—The assessment of risk for the purposes of subsection (b) shall be undertaken by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff. That assessment shall define the nature and magnitude of the political, strategic, and military risks associated with executing the missions called for under the national defense strategy.
+Assessment of Risk.—The assessment of risk for the purposes of subsection (b) shall be undertaken by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff. That assessment shall define the nature and magnitude of the political, strategic, and military risks associated with executing themissions called for under the national defense strategy.
 
 (d)
 
@@ -62,17 +62,33 @@ Submission of QDR to Congressional Committees.—The Secretary shall submit a re
 
 (e)
 
-CJCS Review.—Upon the completion of each review under subsection (a), the Chairman of the Joint Chiefs of Staff shall prepare and submit to the Secretary of Defense the Chairman's assessment of the review, including the Chairman's assessment of risk. The Chairman's assessment shall be submitted to the Secretary in time for the inclusion of the assessment in the report. The Secretary shall include the Chairman's assessment, together with the Secretary's comments, in the report in its entirety.
+CJCS Review.—(1) Upon the completion of each review under subsection (a), the Chairman of the Joint Chiefs of Staff shall prepare and submit to the Secretary of Defense the Chairman's assessment of the review, including the Chairman's assessment of risk.
 
-(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715.)
+(2) The Chairman shall include as part of that assessment the Chairman's assessment of the assignment of functions (or roles and missions) to the armed forces, together with any recommendations for changes in assignment that the Chairman considers necessary to achieve maximum efficiency of the armed forces. In preparing the assessment under this paragraph, the Chairman shall consider (among other matters) the following:
+
+&emsp;(A) Unnecessary duplication of effort among the armed forces.
+
+&emsp;(B) Changes in technology that can be applied effectively to warfare.
+
+(3) The Chairman's assessment shall be submitted to the Secretary in time for the inclusion of the assessment in the report. The Secretary shall include the Chairman's assessment, together with the Secretary's comments, in the report in its entirety.
+
+(Added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198.)
 
 #### Prior Provisions
 
 A prior section 118, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 1288, §133b; renumbered §118, Pub. L. 99–433, title I, §101(a)(2), Oct. 1, 1986, 100 Stat. 994, required reports to Congress on sales or transfers of defense articles, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(2), Nov. 5, 1990, 104 Stat. 1668.
 
+#### Amendments
+
+2001—Subsec. (e). Pub. L. 107–107 designated the first sentence of existing provisions as par. (1), the second and third sentences of existing provisions as par. (3), and added par. (2).
+
+#### Assessment With Respect to 2001 QDR
+
+Pub. L. 107–107, div. A, title IX, §921(c), Dec. 28, 2001, 115 Stat. 1198, provided that: “With respect to the 2001 Quadrennial Defense Review, the Chairman of the Joint Chiefs of Staff shall submit to Congress a separate assessment of functions (or roles and missions) of the Armed Forces in accordance with paragraph (2) of section 118(e) of title 10, United States Code, as added by subsection (a)(3). Such assessment shall be based on the findings in the 2001 Quadrennial Defense Review, issued by the Secretary of Defense on September 30, 2001, and shall be submitted to Congress not later than one year after the date of the enactment of this Act \[Dec. 28, 2001\].”
+
 #### Revised Nuclear Posture Review
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1041\], Oct. 30, 2000, 114 Stat. 1654, 1654A–262, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1041\], Oct. 30, 2000, 114 Stat. 1654, 1654A–262, as amended by Pub. L.107–107, div. A, title X, §1033, Dec. 28, 2001, 115 Stat. 1216, provided that:
 
 “(a)
 
@@ -93,6 +109,8 @@ Elements of Review.—The nuclear posture review shall include the following ele
 &emsp;“(5) The nuclear weapons complex that will be required for implementing the United States national and military strategy, including any plans to modernize or modify the complex.
 
 &emsp;“(6) The active and inactive nuclear weapons stockpile that will be required for implementing the United States national and military strategy, including any plans for replacing or modifying warheads.
+
+&emsp;“(7) The possibility of deactivating or dealerting nuclear warheads or delivery systems immediately, or immediately after a decision to retire any specific warhead, class of warheads, or delivery system.
 
 “(c)
 

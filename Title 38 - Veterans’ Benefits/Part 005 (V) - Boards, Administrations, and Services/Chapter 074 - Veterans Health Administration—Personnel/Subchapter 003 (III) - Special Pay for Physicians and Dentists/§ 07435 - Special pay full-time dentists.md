@@ -33,7 +33,7 @@
 | Position | Rate |  |
 | :--- | :---: | ---: |
 | Minimum | Maximum |  |
-| Chief of Staff or in an Executive Grade | $14,500 | $25,000   |
+| Chief of Staff or in an Executive Grade | $14,500 | $25,000&nbsp;&nbsp; |
 | Director Grade | 0 | 25,000&nbsp;&nbsp; |
 | Service Chief (or in a comparable position as determined by the Secretary) | 4,500 | 15,000. |
 

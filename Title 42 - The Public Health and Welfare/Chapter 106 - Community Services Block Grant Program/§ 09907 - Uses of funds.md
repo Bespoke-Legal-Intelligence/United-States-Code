@@ -50,7 +50,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if there is in effect under State law a charity tax credit, the Statemay use for any purpose the amount of the allotment that is available for expenditure under subsection (b) of this section.
+&emsp;Subject to paragraph (2), if there is in effect under State law a charity tax credit, the State may use for any purpose the amount of the allotment that is available for expenditure under subsection (b) of this section.
 
 #### (2) Limit
 
@@ -134,7 +134,7 @@
 
 #### (bb) Exceptions
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Such term shall not include any management or general expense, any expense for the purpose of influencing legislation (as defined in section 4911(d) of title 26), any expense for the purpose of fundraising, any expense for a legal service provided on behalf of any individual referred to in clause (iii), any expense for providing tuition assistance relating to compulsory school attendance, and any expensethat consists of a payment to an affiliate of the organization.
+&emsp;&emsp;&emsp;&emsp;&emsp;Such term shall not include any management or general expense, any expense for the purpose of influencing legislation (as defined in section 4911(d) of title 26), any expense for thepurpose of fundraising, any expense for a legal service provided on behalf of any individual referred to in clause (iii), any expense for providing tuition assistance relating to compulsory school attendance, and any expense that consists of a payment to an affiliate of the organization.
 
 #### (v) Reporting requirement
 

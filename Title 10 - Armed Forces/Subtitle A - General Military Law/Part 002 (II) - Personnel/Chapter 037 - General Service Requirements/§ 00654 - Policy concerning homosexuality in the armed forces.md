@@ -32,7 +32,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;(12) The worldwide deployment of United States military forces, the international responsibilities of the United States, and the potential for involvement of the armed forces in actual combat routinely make it necessary for members of the armed forces involuntarily to accept living conditions and working conditions that are often spartan, primitive, and characterized by forced intimacy with little or no privacy.
 
-&emsp;(13) The prohibition against homosexual conduct is a longstanding element of military lawthat continues to be necessary in the unique circumstances of military service.
+&emsp;(13) The prohibition against homosexual conduct is a longstanding element of military law that continues to be necessary in the unique circumstances of military service.
 
 &emsp;(14) The armed forces must maintain personnel policies that exclude persons whose presence in the armed forces would create an unacceptable risk to the armed forces’ high standards of morale, good order and discipline, and unit cohesion that are the essence of military capability.
 
@@ -60,7 +60,7 @@ Policy.—A member of the armed forces shall be separated from the armed forces 
 
 (c)
 
-Entry Standards and Documents.—(1) The Secretary of Defense shall ensure that the standards for enlistment and appointment of members of the armed forces reflect the policies set forth in subsection (b).
+Entry Standards and Documents.—(1) The Secretary of Defense shall ensure that thestandards for enlistment and appointment of members of the armed forces reflect the policies set forth in subsection (b).
 
 (2) The documents used to effectuate the enlistment or appointment of a person as a member of the armed forces shall set forth the provisions of subsection (b).
 
@@ -114,7 +114,7 @@ Sense of Congress.—It is the sense of Congress that—
 
 &emsp;“(1) the suspension of questioning concerning homosexuality as part of the processing of individuals for accession into the Armed Forces under the interim policy of January 29, 1993, should be continued, but the Secretary of Defense may reinstate that questioning with such questions or such revised questions as he considers appropriate if the Secretary determines that it is necessary to do so in order to effectuate the policy set forth in section 654 of title 10, United States Code, as added by subsection (a); and
 
-&emsp;“(2) the Secretary of Defense should consider issuing guidance governing the circumstances under which members of the Armed Forces questioned about homosexuality for administrative purposes should be afforded warnings similar to the warningsunder section 831(b) of title 10, United States Code (article 31(b) of the Uniform Code of Military Justice).”
+&emsp;“(2) the Secretary of Defense should consider issuing guidance governing the circumstances under which members of the Armed Forces questioned about homosexuality for administrative purposes should be afforded warnings similar to the warnings under section 831(b) of title 10, United States Code (article 31(b) of the Uniform Code of Military Justice).”
 
 #### Section Referred to in Other Sections
 

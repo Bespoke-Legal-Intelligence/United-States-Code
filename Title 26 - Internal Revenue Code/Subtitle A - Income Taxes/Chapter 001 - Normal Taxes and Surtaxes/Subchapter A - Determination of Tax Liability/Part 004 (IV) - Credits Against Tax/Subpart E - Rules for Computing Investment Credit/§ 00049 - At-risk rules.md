@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of the nonrecourse financing with respect to such property does not exceed 80 percent of the credit base of such property, and
 
-&emsp;&emsp;&emsp;&emsp;(III) such financing is borrowed from a qualified person or represents a loanfrom any Federal, State, or local government or instrumentality thereof, or is guaranteed by any Federal, State, or local government.
+&emsp;&emsp;&emsp;&emsp;(III) such financing is borrowed from a qualified person or represents a loan from any Federal, State, or local government or instrumentality thereof, or is guaranteed by any Federal, State, or local government.
 
 &emsp;&emsp;&nbsp;Such term shall not include any convertible debt.
 
@@ -148,7 +148,7 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 #### Prior Provisions
 
-A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Stat. 660; Pub. L. 92–178, title I, §101(b)(1)–(4), Dec. 10, 1971, 85 Stat. 498, 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
+A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Stat. 660; Pub. L. 92–178, title I, §101(b)(1)–(4), Dec. 10, 1971, 85 Stat. 498, 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978,92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
 

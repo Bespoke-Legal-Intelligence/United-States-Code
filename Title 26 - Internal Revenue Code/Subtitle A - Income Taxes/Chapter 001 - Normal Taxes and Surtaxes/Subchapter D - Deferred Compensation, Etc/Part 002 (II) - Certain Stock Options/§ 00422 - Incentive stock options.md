@@ -12,7 +12,7 @@ Section 421(a) shall apply with respect to the transfer of a share of stock to a
 
 For purposes of this part, the term “incentive stock option” means an option granted to an individual for any reason connected with his employment by a corporation, if granted by the employer corporation or its parent or subsidiary corporation, to purchase stock of any of such corporations, but only if—
 
-&emsp;(1) the option is granted pursuant to a plan which includes the aggregate number of shares which may be issued under options and theemployees (or class of employees) eligible to receive options, and which is approved by the stockholders of the granting corporation within 12 months before or after the date such plan is adopted;
+&emsp;(1) the option is granted pursuant to a plan which includes the aggregate number of shares which may be issued under options and the employees (or class of employees) eligible to receive options, and which is approved by the stockholders of the granting corporation within 12 months before or after the date such plan is adopted;
 
 &emsp;(2) such option is granted within 10 years from the date such plan is adopted, or the date such plan is approved by the stockholders, whichever is earlier;
 
@@ -84,7 +84,7 @@ For purposes of this part, the term “incentive stock option” means an option
 
 &emsp;For purposes of paragraph (1), the fair market value of any stock shall be determined as of the time the option with respect to such stock is granted.
 
-(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448, title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B,title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525.)
+(Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448, title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525.)
 
 #### Prior Provisions
 
@@ -132,7 +132,7 @@ Subsec. (c)(10). Pub. L. 98–369, §555(a)(1), added par. (10).
 
 <b>1983</b>—Subsec. (b)(8). Pub. L. 97–448, §102(j)(1), substituted “granted incentive stock options” for “granted options”.
 
-Subsec. (c)(1). Pub. L. 97–448, §102(j)(2), substituted “Good faith efforts to value stock” for “Exercise of option when price is less than value of stock” as par. (1) heading and inserted sentence providing that, to the extent provided in regulations by the Secretary, a rule similar to that already enunciated in the paragraph applies for purposes of par. (8) of subsec. (b) and par. (4) of subsec. (c).
+Subsec. (c)(1). Pub. L. 97–448, §102(j)(2), substituted “Good faith efforts to value stock” for “Exercise of option when price is less than value of stock” as par. (1) heading and inserted sentence providing that, to the extent provided in regulations by the Secretary, a rulesimilar to that already enunciated in the paragraph applies for purposes of par. (8) of subsec. (b) and par. (4) of subsec. (c).
 
 Subsec. (c)(2)(A). Pub. L. 97–448, §102(j)(3), substituted “either of the periods” for “the 2-year period”.
 

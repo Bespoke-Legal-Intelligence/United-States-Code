@@ -10,5 +10,5 @@ Section 46b, act July 19, 1937, ch. 511, 50 Stat. 519, related to laws governing
 
 #### Effective Date of Repeal
 
-Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, set out as an Effective Date note under section 401 of this title.
+Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of this title.
 

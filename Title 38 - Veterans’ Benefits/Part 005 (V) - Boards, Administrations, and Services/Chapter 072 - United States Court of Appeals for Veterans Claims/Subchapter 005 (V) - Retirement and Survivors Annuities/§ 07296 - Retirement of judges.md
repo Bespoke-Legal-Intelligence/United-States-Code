@@ -50,7 +50,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-(2) A judge who is not reappointed following the expiration of the term for which appointed may retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more. In order to retire under this paragraph, a judge must, not earlier than 9 months preceding the date of the expiration of the judge's term of office and not later than 6 months preceding such date, advise the President in writing that the judge is willing to accept reappointment to the Court.
+(2) A judge who is not reappointed following the expiration of the term for which appointed may retire upon the completion of that term if the judge has served as a judge of the Court for 15 years or more.
 
 (3) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall retire.
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(i) the individual shall be treated as not having filed an election under section 7297(b) of this title, and
 
-&emsp;&emsp;(ii) section 7297(e) of this title shall not apply and the amount credited to such individual's account (together with interest at 3 percent per year, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to the individual;
+&emsp;&emsp;(ii) section 7297(e) of this title shall not apply and the amount credited to such individual's account (together with interest at 3 percent per year, compounded on December31 of each year to the date on which the revocation is filed) shall be returned to the individual;
 
 &emsp;(C) no credit shall be allowed for any service as a judge of the Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest;
 
@@ -122,9 +122,9 @@
 
 (j) A judge who makes an election under subsection (d) of this section shall deposit, for service on the Court performed before the election for which contributions may be made under this section, an amount equal to 1 percent of the salary received for the first years, not exceeding 15 years, of that service. Retired pay may not be allowed until a deposit required by this subsection has been made.
 
-(k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit toindividual accounts in the name of each judge from whom such amounts are received.
+(k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit to individual accounts in the name of each judge from whom such amounts are received.
 
-(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595.)
+(Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, §602, Dec. 27, 2001, 115 Stat. 999.)
 
 #### References in Text
 
@@ -133,6 +133,8 @@ The civil service retirement laws, referred to in subsecs. (f) and (h)(3)(C), ar
 The Civil Service Retirement and Disability Fund, referred to in subsecs. (f)(2)(B) and (h)(3)(C), (D), is provided for in section 8348 of Title 5.
 
 #### Amendments
+
+2001—Subsec. (b)(2). Pub. L. 107–103 struck out at end: “In order to retire under this paragraph, a judge must, not earlier than 9 months preceding the date of the expiration of the judge's term of office and not later than 6 months preceding such date, advise the President in writing that the judge is willing to accept reappointment to the Court.”
 
 1999—Subsec. (a)(2). Pub. L. 106–117, §1035(2), substituted “a judge” for “the chief judge or an associate judge”.
 
@@ -184,7 +186,7 @@ Eligible Judges.—For purposes of this section, an eligible judge is a judge of
 
 “(c)
 
-Multiple Eligible Judges.—If for any year specified in subsection (a) more than one eligible judge provides notice in accordance with subsection (d), the judge who has the greatest seniority as a judge of the Court shall be the judge who is eligible to retire in accordance with this section in that year.
+Multiple Eligible Judges.—If for any year specified in subsection (a) more than one eligible judge provides notice in accordance with subsection (d), thejudge who has the greatest seniority as a judge of the Court shall be the judge who is eligible to retire in accordance with this section in that year.
 
 “(d)
 

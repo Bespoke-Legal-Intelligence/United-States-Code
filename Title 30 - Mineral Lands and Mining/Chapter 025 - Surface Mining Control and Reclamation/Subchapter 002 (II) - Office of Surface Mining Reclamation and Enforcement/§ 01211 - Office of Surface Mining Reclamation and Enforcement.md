@@ -40,7 +40,7 @@ The Secretary, acting through the Office, shall—
 
 #### (d) Restriction on use of Federal coal mine health and safety inspectors
 
-The Director shall not use either permanently or temporarily any person charged with responsibility of inspecting coal mines under the Federal Coal Mine Health and Safety Act of 1969 \[30U.S.C. 801 et seq.\], unless he finds and publishes such finding in the Federal Register, that such activities would not interfere with such inspections under the 1969 Act.
+The Director shall not use either permanently or temporarily any person charged with responsibility of inspecting coal mines under the Federal Coal Mine Health and Safety Act of 1969 \[30 U.S.C. 801 et seq.\], unless he finds and publishes such finding in the Federal Register, that such activities would not interfere with such inspections under the 1969 Act.
 
 #### (e) Repealed. Pub. L. 96–511, §4(b), Dec. 11, 1980, 94 Stat. 2826
 
@@ -91,6 +91,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training”.
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 107–63, title I, Nov. 5, 2001, 115 Stat. 429.
 
 Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 933.
 

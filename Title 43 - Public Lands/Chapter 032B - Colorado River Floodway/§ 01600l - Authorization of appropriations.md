@@ -1,12 +1,12 @@
 ### §1600<i>l</i>. Authorization of appropriations
 
-There is authorized to be appropriated to the Department of the Interior $600,000, through the end of fiscal year 1990, in addition to any other funds now available to the Department to discharge its duties to implement sections 1600b to 1600k of this title and section 4029 of title 42: <i>Provided</i>, That by mutual agreement, such funds shall be made available to the Federal Emergency Management Agency to discharge its duties under section 4029 of title 42: <i>Provided further</i>, That the provisions of sections 1600d and 1600e of this title shall not be affected by thissection: <i>And Provided further</i>, in addition, Indian tribes may be eligible under Public Law 93–638 \[25 U.S.C. 450 et seq.\] to contract for studies of Indian lands required under the provisions of this chapter.
+There is authorized to be appropriated to the Department of the Interior $600,000, through the end of fiscal year 1990, in addition to any other funds now available to the Department to discharge its duties to implement sections 1600b to 1600k of this title and section 4029 of title 42: <i>Provided</i>, That by mutual agreement, such funds shall be made available to the Federal Emergency Management Agency to discharge its duties under section 4029 of title 42: <i>Provided further</i>, That the provisions of sections 1600d and 1600e of this title shall not be affected by this section: <i>And Provided further</i>, in addition, Indian tribes may be eligible under Public Law 93–638 \[25 U.S.C. 450 et seq.\] to contract for studies of Indian lands required under the provisions of this chapter.
 
 (Pub. L. 99–450, §15, Oct. 8, 1986, 100 Stat. 1136.)
 
 #### References in Text
 
-Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
+Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, known asthe Indian Self-Determination and Education Assistance Act, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
 &nbsp;
 

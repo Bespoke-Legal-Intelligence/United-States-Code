@@ -26,7 +26,7 @@
 
 1990—Par. (1). Pub. L. 101–649 substituted “either (A) is over 50 years of age and has been living in the United States for periods totaling at least 20 years subsequent to a lawful admission for permanent residence, or (B) is over 55 years of age and has been living in the United States for periods totaling at least 15 years subsequent to a lawful admission for permanent residence” for “is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence”.
 
-1978—Par. (1). Pub. L. 95–579 substituted “person who, on the date of the filing of his petition for naturalization as provided in section 1445 of this title, is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence” for “person who, on the effective date of this chapter, is over fifty years of age and has been living in the United States for periods totaling at least twenty years”.
+1978—Par. (1). Pub. L. 95–579 substituted “person who, on the date of the filing of his petition for naturalization as provided in section 1445 of this title, is over fifty years of age and has been living in the UnitedStates for periods totaling at least twenty years subsequent to a lawful admission for permanent residence” for “person who, on the effective date of this chapter, is over fifty years of age and has been living in the United States for periods totaling at least twenty years”.
 
 #### Effective Date of 1994 Amendment
 
@@ -42,7 +42,7 @@ Section 108(d) of Pub. L. 103–416 provided that: “Not later than 120 days af
 
 #### Hmong Veterans’ Naturalization
 
-Pub. L. 106–207, May 26, 2000, 114 Stat. 316, as amended by Pub. L. 106–415, Nov. 1, 2000, 114 Stat. 1810, provided that:
+Pub. L. 106–207, May 26, 2000, 114 Stat. 316, as amended by Pub. L. 106–415, Nov. 1, 2000, 114 Stat. 1810; Pub. L. 107–77, title I, §112, Nov. 28, 2001, 115 Stat. 765, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -102,7 +102,7 @@ Pub. L. 106–207, May 26, 2000, 114 Stat. 316, as amended by Pub. L. 106–415,
 
 #### “SEC. 6. DEADLINE FOR APPLICATION AND PAYMENT OF FEES.
 
-“This Act shall apply to a person only if the person's application for naturalization is filed, as provided in section 334 of the Immigration and Nationality Act (8 U.S.C. 1445), with appropriate fees not later than 18 months after the date of the enactment of this Act \[May 26, 2000\]. In the case of a person described in section 2(3), the application referred to in the preceding sentence, and appropriate fees, shall be filed not later than 18 months after the date of the enactment of this sentence \[Nov. 1, 2000\].
+“This Act shall apply to a person only if the person's application for naturalization is filed, as provided in section 334 of the Immigration and Nationality Act (8 U.S.C. 1445), with appropriate fees not later than 36 months after the date of the enactment of this Act \[May 26, 2000\]. In the case of a person described in section 2(3), the application referred to in the preceding sentence, and appropriate fees, shall be filed not later than 36 months after the date of the enactment of this sentence \[Nov. 1, 2000\].
 
 #### “SEC. 7. LIMITATION ON NUMBER OF BENEFICIARIES.
 

@@ -26,7 +26,7 @@ Pub. L. 103–248, §1, May 11, 1994, 108 Stat. 619, provided that: “This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–554, §1(a), Oct. 28, 1992, 106 Stat. 4142, provided that: “This Act \[enacting sections 1935, 1936, 1948, 1949, and 2008d of this title, amending sections 1925, 1926c, 1929, 1932, 1981d, 1982, 1983, 1983a, 1985, 1989, 1991, 1994, 2003, and 5102 of this title, and enacting provisions set out as notes under sections 1929 and 1989 of this title\] may be cited as the ‘Agricultural Credit Improvement Act of 1992’.”
+Pub. L. 102–554, §1(a), Oct. 28, 1992, 106 Stat. 4142, provided that: “This Act \[enacting sections 1935, 1936, 1948, 1949, and 2008d of this title, amending sections 1925,1926c, 1929, 1932, 1981d, 1982, 1983, 1983a, 1985, 1989, 1991, 1994, 2003, and 5102 of this title, and enacting provisions set out as notes under sections 1929 and 1989 of this title\] may be cited as the ‘Agricultural Credit Improvement Act of 1992’.”
 
 #### Short Title of 1990 Amendment
 
@@ -38,7 +38,7 @@ Pub. L. 99–409, §1, Aug. 28, 1986, 100 Stat. 923, provided: “That this Act 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–258, title VI, §601, Apr. 10, 1984, 98 Stat. 138, provided that: “This title \[enacting section 1981b of this title, amending sections 1943, 1946, 1961, 1964, 1986, and 1994 of this title, enacting provisions set out as notes under sections 1961 and 1981 of this title, and amending provisions set out as a note preceding section1961 of this title\] may be cited as the ‘Emergency Agricultural Credit Act of 1984’.”
+Pub. L. 98–258, title VI, §601, Apr. 10, 1984, 98 Stat. 138, provided that: “This title \[enacting section 1981b of this title, amending sections 1943, 1946, 1961, 1964, 1986, and 1994 of this title, enacting provisions set out as notes under sections 1961 and 1981 of this title, and amending provisions set out as a note preceding section 1961 of this title\] may be cited as the ‘Emergency Agricultural Credit Act of 1984’.”
 
 #### Short Title of 1978 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Request by tribe for contract or grant by Secretary of the Interior for improving, etc., tribal governmental, contracting, and program planning activities
 
-The Secretary of the Interior is authorized, upon the request of any Indian tribe (from funds appropriated for the benefit of Indians pursuant to section 13 of this title, and any Act subsequent thereto) to contract with or make a grant or grants to any tribal organization for—
+The Secretary of the Interior is authorized, upon the request of any Indian tribe (from fundsappropriated for the benefit of Indians pursuant to section 13 of this title, and any Act subsequent thereto) to contract with or make a grant or grants to any tribal organization for—
 
 &emsp;(1) the strengthening or improvement of tribal government (including, but not limited to, the development, improvement, and administration of planning, financial management, or merit personnel systems; the improvement of tribally funded programs or activities; or the development, construction, improvement, maintenance, preservation, or operation of tribal facilities or resources);
 
@@ -44,7 +44,7 @@ The Secretary is authorized, upon the request of an Indian tribe, to make a gran
 
 #### References in Text
 
-Section 450g of this title, referred to in subsec. (b)(2), was in the original “section 103 of this Act”, meaningsection 103 of Pub. L. 93–638, the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed, and the remainder of section 103(c) of Pub. L. 93–638 was redesignated as section 102(d) of Pub. L. 93–638 (section 450f(d) of this title) by Pub. L. 100–472, title II, §201(b)(1), Oct. 5, 1988, 102 Stat. 2289. Section 104 of Pub. L. 93–638 was renumbered as section 103 of Pub. L. 93–638 by section 202(a) of Pub. L. 100–472, and is classified to this section.
+Section 450g of this title, referred to in subsec. (b)(2), was in the original “section 103 of this Act”, meaning section 103 of Pub. L. 93–638, the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed, and the remainder of section 103(c) of Pub. L. 93–638 was redesignated as section 102(d) of Pub. L. 93–638 (section 450f(d) of this title) by Pub. L. 100–472, title II, §201(b)(1), Oct. 5, 1988, 102 Stat. 2289. Section 104 of Pub. L. 93–638 was renumbered as section 103 of Pub. L. 93–638 by section 202(a) of Pub. L. 100–472, and is classified to this section.
 
 #### Prior Provisions
 
@@ -66,7 +66,7 @@ Section 203(g)(2) of Pub. L. 101–644 provided that: “The amendment made by p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 450b, 450f, 450j, 450k, 450m, 2010, 2024, 2026 of this title; title 42 section 2004b.
+This section is referred to in sections 450b, 450f, 450j, 450k, 450m, 2010, 2020, 2021 of this title; title 42 section 2004b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

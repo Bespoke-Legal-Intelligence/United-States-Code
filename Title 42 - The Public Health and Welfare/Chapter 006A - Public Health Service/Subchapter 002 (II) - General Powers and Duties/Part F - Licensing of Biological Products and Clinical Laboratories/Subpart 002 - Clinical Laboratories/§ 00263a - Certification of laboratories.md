@@ -38,7 +38,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;(iii) that contains such other information as the Secretary may require to determine compliance with this section, and
 
-> &emsp;&emsp;the laboratory agrees to provide to the Secretary (or if the laboratory is accredited, to the accreditation body which accredited it) a description of any change in the information submitted under clause (ii) not later than 6 months after the change was put into effect,
+> &emsp;&emsp;the laboratory agrees to provide to the Secretary (or if the laboratory is accredited, to the accreditation body which accredited it) a description of any change in the informationsubmitted under clause (ii) not later than 6 months after the change was put into effect,
 
 &emsp;&emsp;(B) the laboratory provides the Secretary—
 
@@ -110,7 +110,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;&emsp;(iii) there is adequate provision for assuring that the standards of the accreditation body continue to be met by the laboratory,
 
-&emsp;&emsp;&emsp;(iv) in the case of any laboratory accredited by the body which has had its accreditation denied, suspended, withdrawn, or revoked or which has had any other action taken against it by the accrediting body, the accrediting body agrees to submit to the Secretary the name of such laboratory within 30 days of the action taken,
+&emsp;&emsp;&emsp;(iv) in the case of any laboratory accredited by the body which has had its accreditation denied, suspended, withdrawn, or revoked or which has had any other action taken against it by the accrediting body, the accrediting body agrees to submit tothe Secretary the name of such laboratory within 30 days of the action taken,
 
 &emsp;&emsp;&emsp;(v) the accreditation body agrees to notify the Secretary at least 30 days before it changes its standards, and
 
@@ -234,7 +234,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general
 
-&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories which have been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted to the Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
+&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories whichhave been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted to the Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
 
 #### (2) Compliance with requirements and standards
 
@@ -300,7 +300,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (3) Ineligibility to own or operate laboratories after revocation
 
-&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory for which a certificate has been issued under this section. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
+&emsp;No person who has owned or operated a laboratory which has had its certificate revoked may, within 2 years of the revocation of the certificate, own or operate a laboratory forwhich a certificate has been issued under this section. The certificate of a laboratory which has been excluded from participation under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] because of actions relating to the quality of the laboratory shall be suspended for the period the laboratory is so excluded.
 
 #### (4) Improper referrals
 
@@ -354,7 +354,7 @@ Any person who intentionally violates any requirement of this section or any reg
 
 #### (C) Fees imposed under paragraphs (1) and (2)
 
-&emsp;&emsp;Fees imposed under paragraphs (1) and (2) shall vary by group or classification of laboratory, based on such considerations as the Secretary determines are relevant, which may include the dollar volume and scope of the testing being performed by the laboratories.
+&emsp;&emsp;Fees imposed under paragraphs (1) and (2) shall vary by group or classification of laboratory, based on such considerations as the Secretary determines are relevant, which may include the dollar volume and scope ofthe testing being performed by the laboratories.
 
 #### (n) Information
 

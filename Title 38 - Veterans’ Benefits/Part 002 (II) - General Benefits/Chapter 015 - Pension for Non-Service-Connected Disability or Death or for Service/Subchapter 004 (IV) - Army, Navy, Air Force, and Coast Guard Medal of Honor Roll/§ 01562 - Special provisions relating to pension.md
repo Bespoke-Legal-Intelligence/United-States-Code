@@ -174,5 +174,5 @@ Section 106 of Pub. L. 94–169 provided that the amendment made by that section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1560, 1561 of this title; title 26 sections 139, 6334.
+This section is referred to in sections 1560, 1561 of this title; title 26 sections 140, 6334.
 

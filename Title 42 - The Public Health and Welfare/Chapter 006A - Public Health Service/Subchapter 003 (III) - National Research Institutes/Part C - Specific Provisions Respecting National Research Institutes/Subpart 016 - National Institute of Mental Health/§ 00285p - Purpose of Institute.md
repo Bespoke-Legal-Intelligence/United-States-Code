@@ -76,5 +76,5 @@ With respect to fiscal year 1993 allocations for health services research requir
 
 #### Study of Barriers to Insurance Coverage of Treatment for Mental Illness and Substance Abuse
 
-Section 704 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director of the National Institute of Mental Health and in consultation with Administrator of Health Care Financing Administration, to conduct a study of the barriers toinsurance coverage for the treatment of mental illness and substance abuse and to submit a report to Congress on the results of such study not later than Oct. 1, 1993.
+Section 704 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director of the National Institute of Mental Health and in consultation with Administrator of Health Care Financing Administration, to conduct a study of the barriers to insurance coverage for the treatment of mental illness and substance abuse and to submit a report to Congress on the results of such study not later than Oct. 1, 1993.
 

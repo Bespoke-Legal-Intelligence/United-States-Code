@@ -66,7 +66,7 @@
 
 #### (B) Eligible client
 
-&emsp;&emsp;The term “eligible client” means an individual with a disability, as defined in section705(20)(A) of this title, who is not currently receiving services under an individualized plan for employment established through a designated State unit.
+&emsp;&emsp;The term “eligible client” means an individual with a disability, as defined in section 705(20)(A) of this title, who is not currently receiving services under an individualized plan for employment established through a designated State unit.
 
 #### (b) Special demonstration programs
 
@@ -148,13 +148,13 @@
 
 #### (6) Use of funds for continuation awards
 
-&emsp;The Commissioner may use funds made available to carry out this section for continuation awards for projects that were funded under sections 711 and 777a of this title (as such sections were in effect on the day before August 7, 1998).
+&emsp;The Commissioner may use funds made available to carry out this section for continuation awards for projects that were funded under sections 711 and 777a of this title (assuch sections were in effect on the day before August 7, 1998).
 
 #### (c) Parent information and training program
 
 #### (1) Grants
 
-&emsp;The Commissioner is authorized to make grants to private nonprofit organizations for the purpose of establishing programs to provide training and information to enable individuals with disabilities, and the parents, family members, guardians, advocates, or otherauthorized representatives of the individuals to participate more effectively with professionals in meeting the vocational, independent living, and rehabilitation needs of individuals with disabilities. Such grants shall be designed to meet the unique training and information needs of the individuals described in the preceding sentence, who live in the area to be served, particularly those who are members of populations that have been unserved or underserved by programs under this chapter.
+&emsp;The Commissioner is authorized to make grants to private nonprofit organizations for the purpose of establishing programs to provide training and information to enable individuals with disabilities, and the parents, family members, guardians, advocates, or other authorized representatives of the individuals to participate more effectively with professionals in meeting the vocational, independent living, and rehabilitation needs of individuals with disabilities. Such grants shall be designed to meet the unique training and information needs of the individuals described in the preceding sentence, who live in the area to be served, particularly those who are members of populations that have been unserved or underserved by programs under this chapter.
 
 #### (2) Use of grants
 

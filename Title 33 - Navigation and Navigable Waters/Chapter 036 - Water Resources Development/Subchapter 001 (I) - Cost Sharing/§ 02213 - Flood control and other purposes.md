@@ -130,7 +130,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (2) Elements of agreement
 
-&emsp;The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of section 1962d–5b of title 42 andshall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, in the event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
+&emsp;The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of section 1962d–5b of title 42 and shall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, in the event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
 
 &emsp;&emsp;(A) shall terminate or suspend work on the project unless the Secretary determines that continuation of the work is in the interest of the United States or is necessary in order to satisfy agreements with other non-Federal interests in connection with the project; and
 
@@ -192,7 +192,7 @@ The Flood Control Act approved August 18, 1941, referred to in subsec. (g)(2)(C)
 
 Subsec. (m)(3)(B), (C). Pub. L. 106–541, §204(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “shall not consider criteria (other than criteria described in subparagraph (A)) in effect on the day before October 12, 1996; and”.
 
-1999—Subsec. (b). Pub. L. 106–53, §219(c)(1), which directed insertion of the par. (1) designation and headingbefore “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
+1999—Subsec. (b). Pub. L. 106–53, §219(c)(1), which directed insertion of the par. (1) designation and heading before “The non-Federal”, was executed by making the insertion before that phrase the first place it appeared to reflect the probable intent of Congress.
 
 Subsec. (b)(2). Pub. L. 106–53, §219(c)(2), added par. (2).
 

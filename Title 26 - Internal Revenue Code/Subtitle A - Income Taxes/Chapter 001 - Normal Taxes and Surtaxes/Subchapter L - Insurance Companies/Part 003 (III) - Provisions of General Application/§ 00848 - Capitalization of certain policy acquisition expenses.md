@@ -16,7 +16,7 @@ In the case of an insurance company—
 
 #### (2) Phase-out
 
-&emsp;If the specified policy acquisition expenses of an insurance company exceed $10,000,000 for any taxable year, the $5,000,000 amount under paragraph (1) shall be reduced (but not below zero) by the amount of such excess.
+&emsp;If the specified policy acquisition expenses of an insurance company exceed $10,000,000 forany taxable year, the $5,000,000 amount under paragraph (1) shall be reduced (but not below zero) by the amount of such excess.
 
 #### (3) Special rule for members of controlled group
 
@@ -152,7 +152,7 @@ Nothing in any provision of law (other than this section or section 197) shall r
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary may provide that a type of insurance contract will be treated as a separate categoryfor purposes of this section (and prescribe a percentage applicable to such category) if the Secretary determines that the deferral of acquisition expenses for such type of contract which would otherwise result under this section is substantially greater than the deferral of acquisition expenses which would have resulted if actual acquisition expenses (including indirect expenses) and the actual useful life for such type of contract had been used.
+&emsp;Except as provided in paragraph (2), the Secretary may provide that a type of insurance contract will be treated as a separate category for purposes of this section (and prescribe a percentage applicable to such category) if the Secretary determines that the deferral of acquisition expenses for such type of contract which would otherwise result under this section is substantially greater than the deferral of acquisition expenses which would have resulted if actual acquisition expenses (including indirect expenses) and the actual useful life for such type of contract had been used.
 
 #### (2) Adjustment to other contracts
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with respect to property acquired after Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66, set out as an Effective Date note under section 197 of this title.
+Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with respect to property acquiredafter Aug. 10, 1993, see section 13261(g) of Pub. L. 103–66, set out as an Effective Date note under section 197 of this title.
 
 #### Effective Date
 

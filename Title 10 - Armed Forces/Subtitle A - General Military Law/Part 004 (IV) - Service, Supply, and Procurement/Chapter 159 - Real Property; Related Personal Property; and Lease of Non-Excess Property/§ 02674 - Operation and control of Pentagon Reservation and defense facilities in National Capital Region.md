@@ -10,11 +10,13 @@
 
 &emsp;(B) the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(b) The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
+(b)(1) The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
 
-&emsp;(1) may be armed with appropriate firearms required for personal safety and for the proper execution of their duties, whether on Department of Defense property or in travel status; and
+&emsp;(A) may be armed with appropriate firearms required for personal safety and for the proper execution of their duties, whether on Department of Defense property or in travel status; and
 
-&emsp;(2) shall have the same powers (other than the service of civil process) as sheriffs and constables upon the property referred to in the first sentence to enforce the laws enacted for the protection of persons and property, to prevent breaches of the peace and suppress affrays or unlawful assemblies, and to enforce any rules or regulations with respect to such property prescribed by duly authorized officials.
+&emsp;(B) shall have the same powers (other than the service of civil process) as sheriffs and constables upon the property referred to in the first sentence to enforce the laws enacted for the protection of persons and property, to prevent breaches of the peace and suppress affrays or unlawful assemblies, and to enforce any rules or regulations with respect to such property prescribed by duly authorized officials.
+
+(2) For positions for which the permanent duty station is the Pentagon Reservation, the Secretary, in his sole and exclusive discretion, may without regard to the pay provisions of title 5, fix the rates of basic pay for such positions occupied by civilian law enforcement and security personnel appointed under the authority of this section so as to place such personnel on a comparable basis with personnel of other similar Federal law enforcement and security organizations within the vicinity of the Pentagon Reservation, not to exceed the basic pay for personnel performing similar duties in the United States Secret Service Uniformed Division or the United States Park Police.
 
 (c)(1) The Secretary may prescribe such rules and regulations as the Secretary considers appropriate to ensure the safe, efficient, and secure operation of the Pentagon Reservation, including rules and regulations necessary to govern the operation and parking of motor vehicles on the Pentagon Reservation.
 
@@ -34,13 +36,15 @@
 
 &emsp;(2) The term “National Capital Region” means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
 
-(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L.107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234.)
 
 #### Prior Provisions
 
 A prior section 2674, added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, §112(b), Sept. 7, 1962, 76 Stat. 511; Pub. L. 88–174, title VI, §608, Nov. 7, 1963, 77 Stat. 328; Pub. L. 89–188, title VI, §613, Sept. 16, 1965, 79 Stat. 819; Pub. L. 89–568, title VI, §608, Sept. 12, 1966, 80 Stat. 756; Pub. L. 91–511, title VI, §607(2)–(4), Oct. 26, 1970, 84 Stat. 1224; Pub. L. 92–145, title VII, §707(1), Oct. 27, 1971, 85 Stat. 411; Pub. L. 93–166, title VI, §608(1), Nov. 29, 1973, 87 Stat. 682; Pub. L. 94–107, title VI, §607(2)–(4), Oct. 7, 1975, 89 Stat. 566; Pub. L. 95–82, title VI, §608(a), Aug. 1, 1977, 91 Stat. 377; Pub. L. 95–356, title VI, §603(h)(1), Sept. 8, 1978, 92 Stat. 582; Pub. L. 96–125, title VIII, §801, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title IX, §907, Dec. 23, 1981, 95 Stat. 1385, related to minor construction projects, prior to repeal by Pub. L. 97–214, §§7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2805 of this title.
 
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–107 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 1999—Subsec. (a)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -55,4 +59,58 @@ Subsec. (b). Pub. L. 104–201, §369(a), substituted “in the National Capital
 1991—Subsec. (b)(2). Pub. L. 102–190, §2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
 
 Subsec. (c)(3). Pub. L. 102–190, §1061(a)(18), substituted “misdemeanor” for “misdeameanor”.
+
+#### Cost of Pentagon Renovation
+
+Pub. L. 107–117, div. A, title VIII, §8060, Jan. 10, 2002, 115 Stat. 2260, provided that:
+
+“(a)
+
+Limitation on Pentagon Renovation Costs.—Not later than the date each year on which the President submits to Congress the budget under section 1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress a certification that the total cost for the planning, design, construction, and installation of equipment for the renovation of wedges 2 through 5 of the Pentagon Reservation, cumulatively, will not exceed four times the total cost for the planning, design, construction, and installation of equipment for the renovation of wedge 1.
+
+“(b)
+
+Annual Adjustment.—For purposes of applying the limitation in subsection (a), the Secretary shall adjust the cost for the renovation of wedge 1 by any increase or decrease in costs attributable to economic inflation, based on the most recent economic assumptions issued by the Office of Management and Budget for use in preparation of the budget of the United States under section 1104 of title 31, United States Code.
+
+“(c)
+
+Exclusion of Certain Costs.—For purposes of calculating the limitation in subsection (a), the total cost for wedges 2 through 5 shall not include—
+
+&emsp;“(1) any repair or reconstruction cost incurred as a result of the terrorist attack on the Pentagon that occurred on September 11, 2001;
+
+&emsp;“(2) any increase in costs for wedges 2 through 5 attributable to compliance with new requirements of Federal, State, or local laws; and
+
+&emsp;“(3) any increase in costs attributable to additional security requirements that the Secretary of Defense considers essential to provide a safe and secure working environment.
+
+“(d)
+
+Certification Cost Reports.—As part of the annual certification under subsection (a), the Secretary shall report the projected cost (as of the time of the certification) for—
+
+&emsp;“(1) the renovation of each wedge, including the amount adjusted or otherwise excluded for such wedge under the authority of paragraphs (2) and (3) of subsection (c) for the period covered by the certification; and
+
+&emsp;“(2) the repair and reconstruction of wedges 1 and 2 in response to the terrorist attack on the Pentagon that occurred on September 11, 2001.
+
+“(e)
+
+Duration of Certification Requirement.—The requirement to make an annual certification under subsection (a) shall apply until the Secretary certifies to Congress that the renovation of the Pentagon Reservation is completed.”
+
+#### Establishment of Memorial to Victims of Terrorist Attack on Pentagon Reservation and Authority to Accept Monetary Contributions for Memorial and Repair of Pentagon
+
+Pub. L. 107–107, div. B, title XXVIII, §2864, Dec. 28, 2001, 115 Stat. 1333, provided that:
+
+“(a)
+
+Memorial Authorized.—The Secretary of Defense may establish a memorial at the Pentagon Reservation dedicated to the victims of the terrorist attack on the Pentagon that occurred on September 11, 2001. The Secretary shall use necessary amounts in the Pentagon Reservation Maintenance Revolving Fund established by section 2674(e) of title 10, United States Code, including amounts deposited in the Fund under subsection (c), to plan, design, construct, and maintain the memorial.
+
+“(b)
+
+Acceptance of Contributions.—The Secretary of Defense may accept monetary contributions made for the purpose of assisting in—
+
+&emsp;“(1) the establishment of the memorial to the victims of the terrorist attack; and
+
+&emsp;“(2) the repair of the damage caused to the Pentagon Reservation by the terrorist attack.
+
+“(c)
+
+Deposit of Contributions.—The Secretary of Defense shall deposit contributions accepted under subsection (b) in the Pentagon Reservation Maintenance Revolving Fund. The contributions shall be available for expenditure only for the purposes specified in subsection (b).”
 

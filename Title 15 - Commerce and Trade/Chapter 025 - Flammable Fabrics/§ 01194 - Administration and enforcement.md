@@ -52,7 +52,7 @@ The Commission is authorized to—
 
 &emsp;&emsp;(I) the Consumer Price Index for the month of June of the calendar year preceding the adjustment; exceeds
 
-&emsp;&emsp;(II) the Consumer Price Index for the month of June preceding the date on whichthe maximum authorized penalty was last adjusted.
+&emsp;&emsp;(II) the Consumer Price Index for the month of June preceding the date on which the maximum authorized penalty was last adjusted.
 
 (June 30, 1953, ch. 164, §5, 67 Stat. 112; Pub. L. 90–189, §4, Dec. 14, 1967, 81 Stat. 570; Pub. L. 101–608, title I, §§115(c), 118(b), Nov. 16, 1990, 104 Stat. 3120, 3122.)
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) any foreign person or United States person that is a parent or subsidiary of that person if that parent or subsidiary materially and with requisite knowledge assisted in the activities which were the basis of that determination; and
 
-&emsp;&emsp;(D) any foreign person or United States person that is an affiliate of that person if that affiliate materially and with requisite knowledge assisted in the activities which were the basis of that determination and if that affiliate is controlled in fact by that person.
+&emsp;&emsp;(D) any foreign person or United States person that is an affiliate of that person ifthat affiliate materially and with requisite knowledge assisted in the activities which were the basis of that determination and if that affiliate is controlled in fact by that person.
 
 #### (3) Other sanctions available
 
@@ -38,7 +38,7 @@
 
 #### (3) Report to Congress
 
-&emsp;Not later than 90 days after making a determination under subsection (a)(1) of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriategovernment under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
+&emsp;Not later than 90 days after making a determination under subsection (a)(1) of this section, the President shall submit to the Committee on Foreign Relations and the Committee on Governmental Affairs of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the status of consultations with the appropriate government under this subsection, and the basis for any determination under paragraph (2) of this subsection that such government has taken specific corrective actions.
 
 #### (c) Sanction
 
@@ -80,7 +80,7 @@ Upon the request of any person, the Secretary of State may, in consultation with
 
 The sanction imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of the sanction and shall cease to apply thereafter only if the President determines and certifies in writing to the Congress that—
 
-&emsp;(1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) of this section has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
+&emsp;(1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) of this section hasceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
 
 &emsp;(2) the President has received reliable assurances from the foreign person or United States person, as the case may be, that such person will not, in the future, aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in subsection (a)(1) of this section.
 
@@ -106,7 +106,7 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 
 #### Effective Date
 
-Section 831 of Pub. L. 103–236 provided that: “The provisions of this part \[part B (§§821–831) of title VIII of Pub. L. 103–236, enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title,and enacting provisions set out as a note under section 2799aa of this title\], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act \[Apr. 30, 1994\].”
+Section 831 of Pub. L. 103–236 provided that: “The provisions of this part \[part B (§§821–831) of title VIII of Pub. L. 103–236, enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as a note under section 2799aa of this title\], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act \[Apr. 30, 1994\].”
 
 #### Short Title
 

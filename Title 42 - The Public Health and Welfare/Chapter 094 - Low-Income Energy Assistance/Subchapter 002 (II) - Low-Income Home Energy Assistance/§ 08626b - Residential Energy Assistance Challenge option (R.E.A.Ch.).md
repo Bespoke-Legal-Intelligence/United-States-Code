@@ -82,7 +82,7 @@ The State may designate all or part of the State, or all or part of the client p
 
 &emsp;&emsp;&emsp;(iii) residential energy demand management services, including any other energy related residential repair and energy efficiency improvements in coordination with, or delivered by, Department of Energy weatherization assistance programs at the discretion of the State;
 
-&emsp;&emsp;&emsp;(iv) family services, such as counseling and needs assessment, related to energy budget management, payment plans, and related services; and
+&emsp;&emsp;&emsp;(iv) family services, such as counseling and needs assessment, related to energybudget management, payment plans, and related services; and
 
 &emsp;&emsp;&emsp;(v) negotiation with home energy suppliers on behalf of households eligible for R.E.A.Ch. services and benefits;
 

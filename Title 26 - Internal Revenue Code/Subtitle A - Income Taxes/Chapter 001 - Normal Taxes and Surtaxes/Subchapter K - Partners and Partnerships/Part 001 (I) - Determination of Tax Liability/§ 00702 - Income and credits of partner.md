@@ -36,7 +36,7 @@ In any case where it is necessary to determine the gross income of a partner for
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(5). Pub. L. 99–514 amended par. (5) generally. Prior to amendment, par. (5) read as follows:“dividends or interest with respect to which there is an exclusion under section 116 or 128, or a deduction under part VIII of subchapter B,”.
+<b>1986</b>—Subsec. (a)(5). Pub. L. 99–514 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends or interest with respect to which there is an exclusion under section 116 or 128, or a deduction under part VIII of subchapter B,”.
 
 <b>1984</b>—Subsec. (a)(1), (2). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 

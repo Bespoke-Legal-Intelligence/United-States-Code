@@ -2,7 +2,7 @@
 
 (a)
 
-Payment or Reimbursement of Subsistence Expenses.—(1) Under regulations prescribed by the Secretaries concerned, a member of a uniformed service who is ordered to make a change of permanent station described in paragraph (2) shall be paid or reimbursed for subsistence expenses of the member and the member's dependents for the period (subject to subsection (c)) for which the member and dependents occupy temporary quarters incident to that change of permanent station.
+Payment or Reimbursement of Subsistence Expenses.—(1) Under regulations prescribed by the Secretaries concerned, a member of a uniformed service who is ordered to make achange of permanent station described in paragraph (2) shall be paid or reimbursed for subsistence expenses of the member and the member's dependents for the period (subject to subsection (c)) for which the member and dependents occupy temporary quarters incident to that change of permanent station.
 
 (2) Paragraph (1) applies to the following:
 
@@ -10,7 +10,7 @@ Payment or Reimbursement of Subsistence Expenses.—(1) Under regulations prescr
 
 &emsp;(B) A permanent change of station from a duty station in the United States (other than Hawaii or Alaska) to a duty station outside the United States or in Hawaii or Alaska.
 
-&emsp;(C) In the case of an enlisted member who is reporting to the member's first permanent duty station, the change from the member's home of record or initial technical school to that first permanent duty station.
+&emsp;(C) In the case of a member who is reporting to the member's first permanent duty station, the change from the member's home of record or initial technical school to that first permanent duty station.
 
 (b)
 
@@ -32,11 +32,15 @@ Daily Subsistence Rates.—Regulations prescribed under subsection (a) shall pre
 
 (e)
 
-Maximum Daily Payment.—A member may not be paid or reimbursed more than $110 a day under this section.
+Maximum Daily Payment.—A member may not be paid or reimbursed more than $180 a day under this section.
 
-(Added Pub. L. 97–60, title I, §122(a)(1), Oct. 14, 1981, 95 Stat. 1002; amended Pub. L. 99–145, title VI, §613(a), Nov. 8, 1985, 99 Stat. 640; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §621, Oct. 23, 1992, 106 Stat. 2422; Pub. L. 103–160, div. A, title VI, §621(a), (b), Nov. 30, 1993, 107 Stat. 1682; Pub. L. 106–65, div. A, title VI, §632, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–159, 1654A–161.)
+(Added Pub. L. 97–60, title I, §122(a)(1), Oct. 14, 1981, 95 Stat. 1002; amended Pub. L. 99–145, title VI, §613(a), Nov. 8, 1985, 99 Stat. 640; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §621, Oct. 23, 1992, 106 Stat. 2422; Pub. L. 103–160, div. A, title VI, §621(a), (b), Nov. 30, 1993, 107 Stat. 1682; Pub. L. 106–65, div. A, title VI, §632, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–159, 1654A–161; Pub. L. 107–107, div. A, title VI, §632(a), (b), Dec. 28, 2001, 115 Stat. 1144.)
 
 #### Amendments
+
+2001—Subsec. (a)(2)(C). Pub. L. 107–107, §632(a), substituted “a member who” for “an enlisted member who”.
+
+Subsec. (e). Pub. L. 107–107, §632(b), substituted “$180” for “$110”.
 
 2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §641(a)(2)\], added subsec. (a) and struck out former subsec. (a) which provided that a member of a uniformed service who was ordered to make certain changes of permanent station was to be paid or reimbursed for subsistence expenses actually incurred by the member and the member's dependents while occupying temporary quarters.
 
@@ -61,6 +65,10 @@ Subsec. (d). Pub. L. 103–160, §621(b), struck out subsec. (d) which read as f
 Subsec. (b). Pub. L. 102–25, §702(b)(1), struck out “of this section” after “subsection (a)”.
 
 1985—Subsec. (a). Pub. L. 99–145 substituted “shall” for “may” in first sentence, and substituted “are to” for “may” the first place it appears in second and third sentences.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VI, §632(c), Dec. 28, 2001, 115 Stat. 1144, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2002, and apply with respect to an order issued on or after that date to a member of the uniformed services to report to the member's first permanent duty station.”
 
 #### Effective Date of 1993 Amendment
 

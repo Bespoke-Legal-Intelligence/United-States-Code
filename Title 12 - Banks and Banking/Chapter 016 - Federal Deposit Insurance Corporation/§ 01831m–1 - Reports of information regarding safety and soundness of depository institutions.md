@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General, the Secretary of the Treasury, and the head of any other agency orinstrumentality of the United States shall, unless otherwise prohibited by law, disclose to the appropriate Federal banking agency any information that the Attorney General, the Secretary of the Treasury, or such agency head believes raises significant concerns regarding the safety or soundness of any depository institution doing business in the United States.
+&emsp;The Attorney General, the Secretary of the Treasury, and the head of any other agency or instrumentality of the United States shall, unless otherwise prohibited by law, disclose to the appropriate Federal banking agency any information that the Attorney General, the Secretary of the Treasury, or such agency head believes raises significant concerns regarding the safety or soundness of any depository institution doing business in the United States.
 
 #### (2) Exceptions
 

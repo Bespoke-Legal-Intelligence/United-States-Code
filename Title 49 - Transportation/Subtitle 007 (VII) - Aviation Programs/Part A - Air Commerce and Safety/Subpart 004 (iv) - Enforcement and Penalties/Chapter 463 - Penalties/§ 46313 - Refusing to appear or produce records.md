@@ -1,8 +1,8 @@
 ### §46313. Refusing to appear or produce records
 
-A person not obeying a subpena or requirement of the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) to appear and testify or produce records shall be fined under title 18, imprisoned for not more than one year, or both.
+A person not obeying a subpena or requirement of the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) to appear and testify or produce records shall be fined under title 18, imprisoned for not more than one year, or both.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239; Pub. L. 107–71, title I, §140(d)(7), Nov. 19, 2001, 115 Stat. 642.)
 
 Historical and Revision Notes
 
@@ -33,6 +33,10 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
 The word “Administrator” in section 902(g) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 785) is retained on authority of 49:106(g). The words “not obeying” are substituted for “who shall neglect or refuse . . . or to answer any lawful inquiry . . . in obedience to” to eliminate surplus words. The word “lawful” is omitted as surplus. The word “appear” is substituted for “attend” for clarity. The word “records” is substituted for “books, papers, or documents” for consistency in the revised title and with other titles of the United States Code. The words “if in his power to do so” are omitted as surplus. The words “shall be guilty of a misdemeanor” are omitted for consistency with title 18. The words “and, upon conviction thereof” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not less than $100 nor more than $5,000” for consistency with title 18.
+
+#### Amendments
+
+2001—Pub. L. 107–71 inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
 #### Section Referred to in Other Sections
 

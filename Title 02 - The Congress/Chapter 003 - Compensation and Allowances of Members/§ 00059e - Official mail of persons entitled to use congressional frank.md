@@ -2,7 +2,7 @@
 
 #### (a) Congressional committee regulations for expenditure of appropriations for official mail
 
-Except as otherwise provided in this section, funds appropriated by this Act or any other Actfor expenses of official mail of any person entitled to use the congressional frank may be expended only in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate or the Committee on House Oversight of the House of Representatives, as applicable. Such regulations shall require—
+Except as otherwise provided in this section, funds appropriated by this Act or any other Act for expenses of official mail of any person entitled to use the congressional frank may be expended only in accordance with regulations prescribed by the Committee on Rules and Administration of the Senate or the Committee on House Oversight of the House of Representatives, as applicable. Such regulations shall require—
 
 &emsp;(1) individual accountability for use of official mail by each person entitled to use the congressional frank;
 
@@ -32,7 +32,7 @@ Expenses of official mail of the Senate and the House of Representatives may be 
 
 #### (d) Maintenance or use of unofficial office accounts or defrayal of official expenses from certain funds prohibited
 
-No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses from—
+No Senator or Member of the House of Representatives may maintain or use, directly or indirectly, an unofficial office account or defray official expenses in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate from—
 
 &emsp;(1) funds received from a political committee or derived from a contribution or expenditure (as such terms are defined in section 431 of this title);
 
@@ -56,7 +56,7 @@ No Senator or Member of the House of Representatives may maintain or use, direct
 
 #### (f) Mass mailing; submission of samples or description of proposed mail matter; advisory opinion
 
-A Member of the House of Representatives shall, before making any mass mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether such proposed mailing is in compliance with applicable provisions of law, rule, or regulation.
+A Member of the House of Representatives shall, before making any mass mailing, submit asample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether such proposed mailing is in compliance with applicable provisions of law, rule, or regulation.
 
 #### (g) “Member of the House of Representatives” and “person entitled to use the congressional frank” defined
 
@@ -72,7 +72,7 @@ As used in subsections (a) through (f) of this section—
 
 This section and the amendments made by this section shall apply with respect to sessions of Congress beginning with the first session of the One Hundred Second Congress, except that, with respect to the Senate, subsection (d) of this section shall apply beginning on May 1, 1992, and the funds referred to in paragraph (3) of such subsection shall not include personal funds of a Senator or Member of the House of Representatives.
 
-(Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728; Pub. L. 105–275, title I, §104, Oct. 21, 1998, 112 Stat. 2439; Pub. L. 106–19, §1(a), Apr. 8, 1999, 113 Stat. 29; Pub. L. 106–57, title I, §§102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, 113 Stat. 415.)
+(Pub. L. 101–520, title III, §311, Nov. 5, 1990, 104 Stat. 2278; Pub. L. 102–229, title II, §211, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 104–186, title II, §203(22), Aug. 20, 1996, 110 Stat. 1728; Pub. L. 105–275, title I, §104, Oct. 21, 1998, 112 Stat. 2439; Pub. L. 106–19, §1(a), Apr. 8, 1999, 113 Stat. 29; Pub. L. 106–57, title I, §§102, 103(a)(1)–(3), (4)(B), Sept. 29, 1999, 113 Stat. 415; Pub. L. 107–68, title I, §110, Nov. 12, 2001, 115 Stat. 569.)
 
 #### References in Text
 
@@ -85,6 +85,8 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 Subsec. (h) of this section made the amendments specified in the References in Text note above.
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–68, in introductory provisions, inserted “in the House, or official expenses for franked mail, employee salaries, office space, furniture, or equipment and any associated information technology services (excluding handheld communications devices) in the Senate” after “expenses”.
 
 1999—Subsec. (a)(3). Pub. L. 106–57, §103(a)(4)(B), substituted “costs incurred for official mail by” for “costs charged against the Official Mail Allowance for”.
 

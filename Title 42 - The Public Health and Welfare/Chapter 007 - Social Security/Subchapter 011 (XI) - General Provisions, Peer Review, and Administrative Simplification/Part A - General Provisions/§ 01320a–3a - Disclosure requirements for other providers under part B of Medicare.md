@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a person who has one of the 5 largest direct or indirect ownership or control interests in the provider.
 
-(Aug. 14, 1935, ch. 531, title XI, §1124A, as added Pub. L. 101–508, title IV, §4164(b)(1), Nov. 5, 1990,104 Stat. 1388–101; amended Pub. L. 103–432, title I, §147(f)(7)(A)(i), Oct. 31, 1994, 108 Stat. 4432; Pub. L. 105–33, title IV, §4313(b), (c), Aug. 5, 1997, 111 Stat. 388.)
+(Aug. 14, 1935, ch. 531, title XI, §1124A, as added Pub. L. 101–508, title IV, §4164(b)(1), Nov. 5, 1990, 104 Stat. 1388–101; amended Pub. L. 103–432, title I, §147(f)(7)(A)(i), Oct. 31, 1994, 108 Stat. 4432; Pub. L. 105–33, title IV, §4313(b), (c), Aug. 5, 1997, 111 Stat. 388.)
 
 #### References in Text
 

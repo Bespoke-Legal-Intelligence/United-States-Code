@@ -260,7 +260,7 @@ Subsec. (d)(3). Pub. L. 94–455, §1209(d)(1), added par. (3).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3433(b), July 22, 1998, 112 Stat. 760, provided that: “The amendment made by thissection \[amending this section\] shall apply to unpaid tax attributable to taxable periods beginning after December 31, 1998.”
+Pub. L. 105–206, title III, §3433(b), July 22, 1998, 112 Stat. 760, provided that: “The amendment made by this section \[amending this section\] shall apply to unpaid tax attributable to taxable periods beginning after December 31, 1998.”
 
 Pub. L. 105–206, title III, §3444(b), July 22, 1998, 112 Stat. 762, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 

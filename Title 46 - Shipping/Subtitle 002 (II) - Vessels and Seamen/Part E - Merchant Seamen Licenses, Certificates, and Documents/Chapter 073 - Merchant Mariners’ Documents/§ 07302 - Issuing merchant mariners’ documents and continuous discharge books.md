@@ -1,6 +1,6 @@
 ### §7302. Issuing merchant mariners’ documents and continuous discharge books
 
-(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service,specifying each rating in which the holder is qualified to serve on board vessels on which that document is required under part F.
+(a) The Secretary shall issue a merchant mariner's document to an individual required to have that document under part F of this subtitle if the individual satisfies the requirements of this part. The document serves as a certificate of identification and as a certificate of service, specifying each rating in which the holder is qualified to serve on board vessels on which that document is required under part F.
 
 (b) The Secretary also may issue a continuous discharge book to an individual issued a merchant mariner's document if the individual requests.
 

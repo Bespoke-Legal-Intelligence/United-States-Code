@@ -25,6 +25,7 @@
 | [9007\.](%C2%A7%2009007%20-%20Confidentiality.md) | Confidentiality. |
 | (a) | Confidentiality standards. |
 | (b) | Administration. |
+| (c) | Investigation and prosecution of terrorism. |
 | [9008\.](%C2%A7%2009008%20-%20Dissemination.md) | Dissemination. |
 | (a) | General requests. |
 | (b) | Congressional requests. |
@@ -39,7 +40,7 @@
 | (b) | Purpose; State assessments. |
 | (c) | Access. |
 | (d) | Participation. |
-| (e) | Student performance levels. |
+| (e) | Student achievement levels. |
 | (f) | Review of National and State assessments. |
 | (g) | Coverage agreements. |
 | [9011\.](%C2%A7%2009011%20-%20National%20Assessment%20Governing%20Board.md) | National Assessment Governing Board. |

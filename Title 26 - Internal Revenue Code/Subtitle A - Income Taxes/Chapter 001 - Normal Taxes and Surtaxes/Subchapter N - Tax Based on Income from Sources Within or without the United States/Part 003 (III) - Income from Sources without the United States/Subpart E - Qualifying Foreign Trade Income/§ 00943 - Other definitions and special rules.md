@@ -108,7 +108,7 @@ Under regulations, in the case of qualifying foreign trade property manufactured
 
 #### (1) In general
 
-&emsp;An applicable foreign corporation may elect to be treated as a domestic corporation for allpurposes of this title if such corporation waives all benefits to such corporation granted by the United States under any treaty. No election under section 1362(a) may be made with respect to such corporation.
+&emsp;An applicable foreign corporation may elect to be treated as a domestic corporation for all purposes of this title if such corporation waives all benefits to such corporation granted by the United States under any treaty. No election under section 1362(a) may be made with respect to such corporation.
 
 #### (2) Applicable foreign corporation
 

@@ -1,6 +1,6 @@
 ### §500. Payment and evaluation of receipts to State or Territory for schools and roads; moneys received; projections of revenues and estimated payments
 
-On and after May 23, 1908, twenty-five per centum of all moneys received during any fiscal year from each national forest shall be paid, at the end of such year, by the Secretary of the Treasury to the State or Territory in which such national forest is situated, to be expended as the State or Territorial legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such national forest is situated: <i>Provided</i>, That when any national forest is in more than one State or Territory or county the distributive share to each from the proceeds of such forest shall be proportional to its area therein. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber. Beginning October 1, 1976, the term “moneys received” shall include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract. The Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
+On and after May 23, 1908, twenty-five per centum of all moneys received during any fiscal year from each national forest shall be paid, at the end of such year, by the Secretary of the Treasury to the State or Territory in which such national forest is situated, to be expended as the State or Territorial legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such national forest is situated: <i>Provided</i>, That when any national forest is in more than one State or Territory or county the distributive share to each from the proceeds of such forest shall be proportional to its area therein. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber. Beginning October 1, 1976, the term “moneys received” shall include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Servicetimber sales contract. The Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
 
 (May 23, 1908, ch. 192, 35 Stat. 260; Mar. 1, 1911, ch. 186, §13, 36 Stat. 963; June 30, 1914, ch. 131, 38 Stat. 441; Sept. 21, 1944, ch. 412, title II, §212, 58 Stat. 737; Apr. 24, 1950, ch. 97, §17(b), 64 Stat. 87; Pub. L. 94–588, §16, Oct. 22, 1976, 90 Stat. 2961.)
 
@@ -47,6 +47,36 @@ Pub. L. 106–393, §1(a), Oct. 30, 2000, 114 Stat. 1607, provided that: “This
 Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as affecting the distribution of livestock grazing revenues to local governments under this section, see section 701(j) of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
 
 #### Secure Rural Schools and Community Self-Determination
+
+Pub. L. 107–76, title VII, §751, Nov. 28, 2001, 115 Stat. 739, provided that:
+
+“(a)
+
+Temporary Use of Existing Payments to States Table.—Notwithstanding section 101(a)(1) of the Secure Rural Schools and Community Self-Determination Act of 2000 (Public Law 106–393; 16 U.S.C. 500 note), for the purpose of making the fiscal year 2001 payments under section 102 of such Act \[set out in a note below\] to eligible States and eligible counties, the full payment amount for each eligible State and eligible county shall be deemed to be equal to the full payment amount calculated for that eligible State or eligible county in the Forest Service document entitled ‘P.L. 106–393, Secure Rural Schools and Community Self-Determination Act’ and dated July 31, 2001, subject to the adjustment required by section 101(b) of such Act.
+
+“(b)
+
+Revision of Table.—For the purpose of making payments under section 102 of such Act \[set out in a note below\] to eligible States and eligible counties for fiscal years 2002 through 2006, as required by section 101(a)(1) of such Act, the Secretary of Agriculture shall revise the table referred to in subsection (a) to accurately reflect, to the maximum extent practicable, each eligible State's and eligible county's historic share of the 25-percent payments and safety net payments made for the fiscal years of the eligibility period.
+
+“(c)
+
+Reporting Requirement.—Not later than March 1, 2002, the Secretary of Agriculture shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Agriculture of the House of Representatives a report containing the revisions made to the table referred to in subsection (a), as required by subsection (b).
+
+“(d)
+
+Additional Eligible County Election.—Notwithstanding section 102(b)(2) of such Act \[set out in a note below\], if the revision pursuant to subsection (b) of the table referred to in subsection (a) results in a reduced full payment amount for an eligible county that elected under section 102(b) of such Act to receive the full payment amount, the eligible county shall have a 90-day period, beginning on the date the revised table is first available to the public, during which to reconsider and change its election. The eligible county shall notify the Secretary of Agriculture of any change in its election before the end of such period. If an eligible county elects under this subsection to receive the 25-percent payment in place of the full payment amount, the election shall be effective for 1 year.
+
+“(e)
+
+Treatment of Certain Mineral Leasing Receipts.—(1) An eligible county that elects under section 102(b) of such Act \[set out in a note below\] to receive its share of an eligible State's full payment amount shall continue to receive its share of any payments made to that State from a lease for mineral resources issued by the Secretary of the Interior under the last paragraph under the heading ‘
+
+forest service.’ in the Act of March 4, 1917 (Chapter 179; 16 U.S.C. 520).
+
+“(2) \[Amended section 355(b) of Title 30, Mineral Lands and Mining.\]
+
+“(f)
+
+Definitions.—In this section, the terms ‘eligible State’, ‘eligible county’, ‘eligibility period’, ‘full payment amount’, ‘25-percent payment’, and ‘safety net payments’ have the meanings given such terms in section 3 of such Act \[set out in a note below\], and the term ‘such Act’ means the Secure Rural Schools and Community Self-Determination Act of 2000 (Public Law 106–393; 16 U.S.C. 500 note) \[see Tables for classification\].”
 
 Pub. L. 106–393, §§2, 3, Oct. 30, 2000, 114 Stat. 1608, 1609, provided that:
 
@@ -436,7 +466,7 @@ Decisions of Secretary Concerned.—
 
 &emsp;“(1)
 
-Rejection of projects.—A decision by the Secretary concerned to reject a proposed project shall be at the Secretary's sole discretion. Notwithstanding any other provision of law, a decision by the Secretary concerned to reject a proposed project shall not be subject to administrative appeal or judicial review. Within 30 days after making the rejection decision, the Secretary concerned shall notify inwriting the resource advisory committee that submitted the proposed project of the rejection and the reasons for rejection.
+Rejection of projects.—A decision by the Secretary concerned to reject a proposed project shall be at the Secretary's sole discretion. Notwithstanding any other provision of law, a decision by the Secretary concerned to reject a proposed project shall not be subject to administrative appeal or judicial review. Within 30 days after making the rejection decision, the Secretary concerned shall notify in writing the resource advisory committee that submitted the proposed project of the rejection and the reasons for rejection.
 
 &emsp;“(2)
 
@@ -504,7 +534,7 @@ Assistance.—The Secretary concerned may use funds from any appropriated accoun
 
 &emsp;&emsp;“(E)
 
-Review and report.—Not later than September 30, 2003, the Comptroller General shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Agriculture of the House of Representatives, and the Committee on Resources of the House of Representatives a report assessing the pilot program. The Secretary concerned shall submit to such committees an annual report describing the results of the pilot program.
+Review and report.—Not later than September 30, 2003, the Comptroller General shall submit to the Committee on Agriculture, Nutrition,and Forestry of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Agriculture of the House of Representatives, and the Committee on Resources of the House of Representatives a report assessing the pilot program. The Secretary concerned shall submit to such committees an annual report describing the results of the pilot program.
 
 “(f)
 
@@ -712,7 +742,7 @@ Effect of Rejection of Projects.—Subject to section 208, any project funds res
 
 “(d)
 
-Effect of Court Orders.—If an approved project under this Act \[see Short Title of 2000 Amendment note above\] is enjoined or prohibited by a Federalcourt, the Secretary concerned shall return the unobligated project funds related to that project to the participating county or counties that reserved the funds. The returned funds shall be available for the county to expend in the same manner as the funds reserved by the county under section 102(d)(1)(B)(i) or 103(c)(1)(B)(i), whichever applies to the funds involved.
+Effect of Court Orders.—If an approved project under this Act \[see Short Title of 2000 Amendment note above\] is enjoined or prohibited by a Federal court, the Secretary concerned shall return the unobligated project funds related to that project to the participating county or counties that reserved the funds. The returned funds shall be available for the county to expend in the same manner as the funds reserved by the county under section 102(d)(1)(B)(i) or 103(c)(1)(B)(i), whichever applies to the funds involved.
 
 #### “SEC. 208. TERMINATION OF AUTHORITY.
 
@@ -774,7 +804,7 @@ Fire prevention and county planning.—A county may use these funds for—
 
 &emsp;&emsp;“(A) efforts to educate homeowners in fire-sensitive ecosystems about the consequences of wildfires and techniques in home siting, home construction, and home landscaping that can increase the protection of people and property from wildfires; and
 
-&emsp;&emsp;“(B) planning efforts to reduce or mitigate the impact of development on adjacent Federal lands and to increase the protection of people and property from wildfires.
+&emsp;&emsp;“(B) planning efforts to reduce or mitigate the impact of development on adjacent Federal landsand to increase the protection of people and property from wildfires.
 
 &emsp;“(6)
 
@@ -884,7 +914,7 @@ Chairperson.—The Chairperson of the Advisory Committee shall be selected from 
 
 &emsp;&emsp;“(B)
 
-Vacancies.—Any vacancy in the membership of the Advisory Committee shall be filled in the same manner as required by paragraph (2). A vacancy shall not impair the authority of the remaining members to perform the functions of the Advisory Committee under this section.
+Vacancies.—Any vacancy in the membership of the Advisory Committee shall be filled in thesame manner as required by paragraph (2). A vacancy shall not impair the authority of the remaining members to perform the functions of the Advisory Committee under this section.
 
 &emsp;&emsp;“(C)
 
@@ -930,7 +960,7 @@ Reporting requirements.—Not later than 18 months after the date of the enactme
 
 Guidance for committee.—In developing the recommendations required by paragraph (1), the Advisory Committee shall—
 
-&emsp;&emsp;“(A) evaluate the method by which payments are made to eligible States and eligible counties under the provisions of law referred to in paragraphs (3)and (4) of subsection (a), and related laws, and the use of such payments;
+&emsp;&emsp;“(A) evaluate the method by which payments are made to eligible States and eligible counties under the provisions of law referred to in paragraphs (3) and (4) of subsection (a), and related laws, and the use of such payments;
 
 &emsp;&emsp;“(B) consider the impact on eligible States and eligible counties of revenues derived from the historic multiple use of the Federal lands;
 
@@ -972,5 +1002,5 @@ Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1402.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 90d, 253, 460p–2, 460bbb–10, 460<i>lll</i>–12, 472a, 508b, 535a, 544<i>l</i>, 577g, 577g–1, 580k, 698v–4, 1683 of this title; title 7 section 6617; title 31 section 6903.
+This section is referred to in sections 90d, 253, 460p–2, 460bbb–10, 460<i>lll</i>–12, 472a, 508b, 535a, 544<i>l</i>, 577g, 577g–1,580k, 698v–4, 1683 of this title; title 7 section 6617; title 31 section 6903.
 

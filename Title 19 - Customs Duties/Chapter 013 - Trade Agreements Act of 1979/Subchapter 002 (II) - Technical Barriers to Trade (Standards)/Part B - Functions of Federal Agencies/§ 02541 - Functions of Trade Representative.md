@@ -12,7 +12,7 @@ The Trade Representative has responsibility for coordinating United States discu
 
 &emsp;&emsp;<b>For provisions of law regarding general authority of the Trade Representative with respect to trade agreements, see section 2171 of this title.</b>
 
-(Pub. L. 96–39, title IV, §411, July 26, 1979, 93 Stat. 243; Pub. L. 103–182, title III, §351(b)(2), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, §21(b)(1), (2), Oct. 11, 1996, 110 Stat. 3529, 3530.)
+(Pub. L. 96–39, title IV, §411, July 26, 1979, 93 Stat. 243; Pub. L. 103–182, title III, §351(b)(2),Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, §21(b)(1), (2), Oct. 11, 1996, 110 Stat. 3529, 3530.)
 
 #### Amendments
 

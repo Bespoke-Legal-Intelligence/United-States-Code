@@ -102,7 +102,7 @@ Contracts and grants with tribal organizations pursuant to sections 450f and 450
 
 #### (i) Division of administration of program
 
-(1) If a self-determination contract requires the Secretary to divide the administration of a program that has previously been administered for the benefit of a greater number of tribes than are represented by the tribal organization that is a party to the contract, the Secretary shall take such action as may be necessary toensure that services are provided to the tribes not served by a self-determination contract, including program redesign in consultation with the tribal organization and all affected tribes.
+(1) If a self-determination contract requires the Secretary to divide the administration of a program that has previously been administered for the benefit of a greater number of tribes than are represented by the tribal organization that is a party to the contract, the Secretary shall take such action as may be necessary to ensure that services are provided to the tribes not served by a self-determination contract, including program redesign in consultation with the tribal organization and all affected tribes.
 
 (2) Nothing in this part shall be construed to limit or reduce in any way the funding for any program, project, or activity serving a tribe under this or other applicable Federal law. Any tribe or tribal organization that alleges that a self-determination contract is in violation of this section may apply the provisions of section 450m–1 of this title.
 
@@ -142,7 +142,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 &emsp;(E) Upon the request of the tribe or tribal organization, the use of an alternative dispute resolution mechanism to seek resolution of all remaining areas of disagreement pursuant to the dispute resolution provisions under subchapter IV of chapter 5 of title 5.
 
-&emsp;(F) The submission to the Secretary by the tribe or tribal organization of a final contractproposal pursuant to section 450f(a) of this title.
+&emsp;(F) The submission to the Secretary by the tribe or tribal organization of a final contract proposal pursuant to section 450f(a) of this title.
 
 (4)(A) Subject to subparagraph (B), in funding a fixed-price construction contract pursuant to section 450j–1(a) of this title, the Secretary shall provide for the following:
 
@@ -198,7 +198,7 @@ The Service Control Act of 1965, referred to in subsec. (a)(3)(C)(ii)(IX), proba
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No.12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
+Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
 
 This part, referred to in subsecs. (b) and (i)(2), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this part (450f et seq.). For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
@@ -250,7 +250,7 @@ Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out forme
 
 Subsec. (d). Pub. L. 100–472, §204(e), added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
 
-Subsec. (e). Pub. L. 100–472, §204(e), added subsec. (e) and struck out former subsec. (e) which authorized the Secretary to permit tribal organizations to use existingschool buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
+Subsec. (e). Pub. L. 100–472, §204(e), added subsec. (e) and struck out former subsec. (e) which authorized the Secretary to permit tribal organizations to use existing school buildings, hospitals, and other facilities and equipment therein in carrying out grants or contracts.
 
 Subsec. (f). Pub. L. 100–472, §204(e), added subsec. (f). Former subsec. (f) redesignated (g).
 
@@ -264,7 +264,7 @@ Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 105 Stat. 2681�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 450b, 450j–1, 450k, 450<i>l</i>, 458cc, 458ff, 458aaa–5, 458aaa–7, 458aaa–8, 458aaa–15, 458aaa–16, 2008, 2504, 2508, 3307 of this title.
+This section is referred to in sections 450b, 450j–1, 450k, 450<i>l</i>, 458cc, 458ff, 458aaa–5, 458aaa–7, 458aaa–8, 458aaa–15, 458aaa–16, 2001, 2503, 2507, 3307 of this title.
 
 <i><sup>1</sup></i><i> So in original. probably should be “482”.</i>
 

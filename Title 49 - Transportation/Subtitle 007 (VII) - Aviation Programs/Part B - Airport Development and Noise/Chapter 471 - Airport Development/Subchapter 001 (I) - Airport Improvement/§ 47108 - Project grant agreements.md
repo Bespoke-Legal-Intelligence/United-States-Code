@@ -40,7 +40,7 @@ Change in Airport Status.—
 
 &emsp;(1)
 
-Changes to nonprimary airport status.—If the status of a primary airport changes to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yet completed, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
+Changes to nonprimary airport status.—If the status of a primary airport changes to a nonprimary airport at a time when a development project under a multiyear agreement under subsection (a) is not yetcompleted, the project shall remain eligible for funding from discretionary funds under section 47115 at the funding level and under the terms provided by the agreement, subject to the availability of funds.
 
 &emsp;(2)
 
@@ -105,6 +105,12 @@ The Airport and Airway Development Act of 1970, referred to in subsec. (c), is t
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Land Acquisition Costs
+
+Pub. L. 107–71, title I, §143, Nov. 19, 2001, 115 Stat. 644, provided that: “In the case of a grant for land acquisition issued to an airport under chapter 471 of title 49, United States Code, prior to January 1, 1995, the Secretary of Transportation may waive the provisions of section 47108 of such title and provide an upward adjustment in the maximum obligation of the United States under that chapter to assist the airport in funding land acquisition costs (and associated eligible costs) that increased as a result of a judicial order.”
+
+\[For definitions of “airport” and “United States” used in section 143 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ A civil action may be brought—
 
 &emsp;(A) requested by the Secretary of the Treasury, or
 
-&emsp;(B) one or more participants, beneficiaries, or fiduciaries, of such plan request in writing (in such manner as the Secretary shall prescribe by regulation) that he exercise such authority on their behalf. In the case of such a request under this paragraph he may exercise such authority only if he determines that such violation affects, or such enforcement is necessary to protect, claims of participants or beneficiaries to benefits under the plan.
+&emsp;(B) one or more participants, beneficiaries, or fiduciaries, of such plan request in writing\(in such manner as the Secretary shall prescribe by regulation) that he exercise such authority on their behalf. In the case of such a request under this paragraph he may exercise such authority only if he determines that such violation affects, or such enforcement is necessary to protect, claims of participants or beneficiaries to benefits under the plan.
 
 (2) The Secretary shall not initiate an action to enforce section 1145 of this title.
 
@@ -68,7 +68,7 @@ A civil action may be brought—
 
 #### (f) Amount in controversy; citizenship of parties
 
-The district courts of the United States shall have jurisdiction, without respect to the amount in controversy or the citizenship of the parties, to grant the relief provided for in subsection (a) of this section in any action.
+The district courts of the United States shall have jurisdiction, without respect to theamount in controversy or the citizenship of the parties, to grant the relief provided for in subsection (a) of this section in any action.
 
 #### (g) Attorney's fees and costs; awards in actions involving delinquent contributions
 
@@ -146,7 +146,7 @@ Paragraphs (1) and (4) of section 1166 of this title, referred to in subsec. (c)
 
 Section 1021(b)(4) of this title, referred to in subsec. (c)(2), was redesignated section 1021(b)(1) of this title by Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061.
 
-Section 1320b–14 of title 42, referred to in subsec. (c)(7), was repealed by Pub. L. 104–226, §1(a), Oct. 2, 1996, 110 Stat. 3033.
+Section 1320b–14 of title 42, referred to in subsec. (c)(7), was repealed by Pub. L. 104–226, §1(a), Oct. 2, 1996, 110 Stat. 3033, and a new section 1320b–14 of title 42, which does not contain a subsec. (c)(8), was enacted by Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583.
 
 This chapter, referred to in subsec. (k), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -264,7 +264,7 @@ Section 4 of Pub. L. 103–401 provided that: “Nothing in this Act \[amending 
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions setting forth circumstances under which any amendment to a plan required to be made byan amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
+For provisions setting forth circumstances under which any amendment to a plan required to be made by an amendment made by section 4301 of Pub. L. 103–66 shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 4301(d) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under section 1021 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 For the purposes of this part—
 
-&emsp;(1) the term “Bureau funded school” has the meaning given that term in title XI of the Education Amendments of 1978 \[25 U.S.C. 2001 et seq.\];
+&emsp;(1) the term “Bureau funded school” has the meaning given that term in title XI of the Education Amendments of 1978 \[25 U.S.C. 2000 et seq.\];
 
 &emsp;(2) the term “Foundation” means the Foundation established by the Secretary pursuant to section 458bbb of this title; and
 
@@ -12,7 +12,7 @@ For the purposes of this part—
 
 #### References in Text
 
-The Education Amendments of 1978, referred to in par. (1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
+The Education Amendments of 1978, referred to in par. (1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
 
 #### Codification
 

@@ -32,7 +32,7 @@ The Board shall serve as the principal mechanism for—
 
 &emsp;(ii) notify in writing the Director of the Federal Bureau of Investigation of such determination.
 
-(C) The Director of the Federal Bureau of Investigation and the head of the department or agency concerned shall continue to consult, as appropriate, to review the status of an investigation covered by this paragraph, and to reassess, as appropriate, a determination of the head of the department or agency concerned to leave a subject in place for investigative purposes.
+(C) The Director of the Federal Bureau of Investigation and the head of the department oragency concerned shall continue to consult, as appropriate, to review the status of an investigation covered by this paragraph, and to reassess, as appropriate, a determination of the head of the department or agency concerned to leave a subject in place for investigative purposes.
 
 (4)(A) The Federal Bureau of Investigation shall notify appropriate officials within the executive branch, including the head of the department or agency concerned, of the commencement of a full field espionage investigation with respect to an employee within the executive branch.
 
@@ -42,7 +42,7 @@ The Board shall serve as the principal mechanism for—
 
 (6) The Director of the Federal Bureau of Investigation shall, in consultation with the Director of Central Intelligence and the Secretary of Defense, report annually, beginning on February 1, 1995, and continuing each year thereafter, to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in accordance with applicable security procedures, the Committees on the Judiciary of the House of Representatives and the Senate with respect to compliance with paragraphs (1) and (2) during the previous calendar year.
 
-(7) Nothing in this section may be construed to alter the existing jurisdictional arrangementsbetween the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
+(7) Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
 
 (8) As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title.
 

@@ -14,7 +14,7 @@ The Congress hereby finds that Communist dictatorships result in severe constrai
 
 #### Amendments
 
-1993—Pub. L. 103–149 struck out “(a)” before “The Congress” and struck out subsec. (b) which related to use of International Monetary Fund credit by any country which practices apartheid.
+1993—Pub. L. 103–149 struck out “(a)” before “The Congress” and struck out subsec. (b) which related touse of International Monetary Fund credit by any country which practices apartheid.
 
 #### Change of Name
 

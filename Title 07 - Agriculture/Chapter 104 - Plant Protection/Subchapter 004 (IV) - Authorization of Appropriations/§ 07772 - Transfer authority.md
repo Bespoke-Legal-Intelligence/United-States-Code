@@ -10,3 +10,7 @@ Any funds transferred under this section shall remain available for such purpose
 
 (Pub. L. 106–224, title IV, §442, June 20, 2000, 114 Stat. 455.)
 
+#### Codification
+
+Similar provisions relating to authority to transfer funds for emergency arrest of animal, poultry, or plant diseases or pests are contained in section 129 of Title 21, Food and Drugs, and similar provisions relating to authority to transfer funds for emergency arrest of animal or poultry diseases are contained in section 129a of Title 21.
+

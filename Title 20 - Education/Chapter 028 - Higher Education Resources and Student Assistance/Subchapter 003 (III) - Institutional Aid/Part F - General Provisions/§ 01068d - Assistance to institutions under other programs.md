@@ -14,7 +14,7 @@ Each institution which the Secretary determines to be an institution eligible un
 
 The Secretary shall not waive, under subsection (b) of this section, the non-Federal share requirement for any program for applications which, if approved, would require the expenditure of more than 10 percent of the appropriations for the program for any fiscal year.
 
-(Pub. L. 89–329, title III, §395, formerly §356, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306; amended Pub. L. 102–325, title III, §305(d), July 23, 1992, 106 Stat. 478; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(d)\],Sept. 30, 1996, 110 Stat. 3009–233, 3009–314; renumbered §395 and amended Pub. L. 105–244, title III, §§301(a)(2), 308(f), Oct. 7, 1998, 112 Stat. 1636, 1649.)
+(Pub. L. 89–329, title III, §395, formerly §356, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1306; amended Pub. L. 102–325, title III, §305(d), July 23, 1992, 106 Stat. 478; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–314; renumbered §395 and amended Pub. L. 105–244, title III, §§301(a)(2), 308(f), Oct. 7, 1998, 112 Stat. 1636, 1649.)
 
 #### Codification
 

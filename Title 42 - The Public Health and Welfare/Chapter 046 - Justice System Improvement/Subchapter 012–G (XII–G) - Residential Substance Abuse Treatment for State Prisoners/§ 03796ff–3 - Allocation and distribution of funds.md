@@ -10,7 +10,7 @@ Of the total amount appropriated under this subchapter in any fiscal year—
 
 #### (b) Federal share
 
-The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the projects described in the application submitted under section 3796ff–1 of this title for the fiscal year for which the projects receive assistance under this subchapter.
+The Federal share of a grant made under this subchapter may not exceed 75 percent of thetotal costs of the projects described in the application submitted under section 3796ff–1 of this title for the fiscal year for which the projects receive assistance under this subchapter.
 
 (Pub. L. 90–351, title I, §1904, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1900.)
 

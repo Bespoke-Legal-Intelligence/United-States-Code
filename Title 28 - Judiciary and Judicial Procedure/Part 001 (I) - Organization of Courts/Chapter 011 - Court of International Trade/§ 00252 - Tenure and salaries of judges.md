@@ -36,7 +36,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964,except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
 #### Effective Date of 1955 Amendment
 
@@ -44,7 +44,9 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-<b>2001</b>—Salaries of judges increased to $145,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2001, by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+<b>2002</b>—Salaries of judges increased to $150,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2002, by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+<b>2001</b>—Salaries of judges increased to $145,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2001, by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, formerly set out as a note under section 5332 of Title 5.
 
 <b>2000</b>—Salaries of judges increased to $141,300 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
 
@@ -94,11 +96,11 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated 
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
 
-<b>1979</b>—Salaries of judges increased to $61,500 effective on first day of first pay period beginning on or after Oct. 1, 1979, by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12165 further provided that pursuant to Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over applicable rate payable for such position or office in effect on Sept. 30, 1978, which was $57,497.50.
+<b>1979</b>—Salaries of judges increased to $61,500 effective on first day of first pay period beginning on or after Oct. 1, 1979, by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R.58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12165 further provided that pursuant to Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over applicable rate payable for such position or office in effect on Sept. 30, 1978, which was $57,497.50.
 
 Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above Level V of Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of Title 5.
 
-<b>1978</b>—Salaries of judges increased to $57,500 effective on first day of first pay period beginning on or after Oct. 1, 1978, by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979 \[Pub. L. 95–391, title III, §304, Sept. 30, 1978, 92 Stat. 788,set out as a note under section 5318 of Title 5\], funds are not available to pay a salary at a rate which exceeds rate in effect on Sept. 30, 1978, which was $54,500.
+<b>1978</b>—Salaries of judges increased to $57,500 effective on first day of first pay period beginning on or after Oct. 1, 1978, by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12087, further provided that pursuant to the Legislative Branch Appropriation Act, 1979 \[Pub. L. 95–391, title III, §304, Sept. 30, 1978, 92 Stat. 788, set out as a note under section 5318 of Title 5\], funds are not available to pay a salary at a rate which exceeds rate in effect on Sept. 30, 1978, which was $54,500.
 
 <b>1977</b>—Salaries of judges increased to $54,500 per annum, on recommendation of President of United States, see note set out under section 358 of Title 2, The Congress.
 

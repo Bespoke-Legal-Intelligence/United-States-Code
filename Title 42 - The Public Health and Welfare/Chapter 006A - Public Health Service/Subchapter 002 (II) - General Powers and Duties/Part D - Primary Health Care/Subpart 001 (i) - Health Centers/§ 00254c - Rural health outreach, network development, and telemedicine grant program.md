@@ -14,7 +14,7 @@ Under the program referred to in subsection (a) of this section, the Secretary, 
 
 &emsp;To be eligible to receive a grant under this section, an entity shall—
 
-&emsp;&emsp;(A) be a rural public or nonprofit private entity that is or represents a network or potential network that includes three or morehealth care providers or other entities that provide or support the delivery of health care services; and
+&emsp;&emsp;(A) be a rural public or nonprofit private entity that is or represents a network or potential network that includes three or more health care providers or other entities that provide or support the delivery of health care services; and
 
 &emsp;&emsp;(B) in consultation with the State office of rural health or other appropriate State entity, prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
@@ -160,7 +160,7 @@ In General.—The Secretary of Health and Human Services, acting through the Rur
 
 Community Partnerships.—A community partnership meets the requirements of this subsection if such partnership—
 
-&emsp;“(1) is composed of local emergency response entities such as community training facilities, local emergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
+&emsp;“(1) is composed of local emergency response entities such as community training facilities, localemergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
 
 &emsp;“(2) evaluates the local community emergency response times to assess whether they meet the standards established by national public health organizations such as the American Heart Association and the American Red Cross; and
 

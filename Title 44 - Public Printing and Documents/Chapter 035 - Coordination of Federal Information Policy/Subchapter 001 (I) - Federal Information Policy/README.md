@@ -33,4 +33,3 @@ This subchapter is referred to in section 3534 of this title; title 10 section 5
 - [&sect; 03518 - Effect on existing laws and regulations](%C2%A7%2003518%20-%20Effect%20on%20existing%20laws%20and%20regulations.md)
 - [&sect; 03519 - Access to information](%C2%A7%2003519%20-%20Access%20to%20information.md)
 - [&sect; 03520 - Authorization of appropriations](%C2%A7%2003520%20-%20Authorization%20of%20appropriations.md)
-- [Subchapter 002 (II) - Information Security](Subchapter%20002%20%28II%29%20-%20Information%20Security/README.md)

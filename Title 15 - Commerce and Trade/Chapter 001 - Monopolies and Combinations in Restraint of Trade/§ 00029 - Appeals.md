@@ -24,7 +24,7 @@ Section was previously set out in both this section and in section 45 of former 
 
 1948—Act June 25, 1948, amended section generally to strike out provisions relating to time for appeal, procedure, etc. See sections 2101 and 2109 of Title 28, Judiciary and Judicial Procedure.
 
-1944—Act June 9, 1944, provided for certification of case to circuit court of appeals when there was noquorum of Justices of the Supreme Court qualified to participate in the consideration of the case and for designation of circuit judges in the event of disqualification from hearing the case.
+1944—Act June 9, 1944, provided for certification of case to circuit court of appeals when there was no quorum of Justices of the Supreme Court qualified to participate in the consideration of the case and for designation of circuit judges in the event of disqualification from hearing the case.
 
 #### Change of Name
 

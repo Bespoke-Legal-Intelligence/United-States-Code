@@ -2,7 +2,7 @@
 
 (a)
 
-Notice Required.—(1) Whenever the Secretary of Defense requests or requires a member of the armed forces to receive an investigationalnew drug or a drug unapproved for its applied use, the Secretary shall provide the member with notice containing the information specified in subsection (d).
+Notice Required.—(1) Whenever the Secretary of Defense requests or requires a member of the armed forces to receive an investigational new drug or a drug unapproved for its applied use, the Secretary shall provide the member with notice containing the information specified in subsection (d).
 
 (2) The Secretary shall also ensure that health care providers who administer an investigational new drug or a drug unapproved for its applied use, or who are likely to treat members who receive such a drug, receive the information required to be provided under paragraphs (3) and (4) of subsection (d).
 
@@ -80,7 +80,7 @@ Definitions.—In this section:
 
 1998—Subsec. (b). Pub. L. 105–261, §731(b)(1), struck out “, if practicable, but in no case later than 30 days after the drug is first administered to the member” after “administered to the member”.
 
-Subsec. (c). Pub. L. 105–261, §731(b)(2), struck out “unless the Secretary of Defense determines that the use of written notice is impractical because of the number of members receiving the investigational new drug ordrug unapproved for its applied use, time constraints, or similar reasons. If the Secretary provides notice under subsection (a)(1) in a form other than in writing, the Secretary shall submit to Congress a report describing the notification method used and the reasons for the use of the alternative method” after “provided in writing”.
+Subsec. (c). Pub. L. 105–261, §731(b)(2), struck out “unless the Secretary of Defense determines that the use of written notice is impractical because of the number of members receiving the investigational new drug or drug unapproved for its applied use, time constraints, or similar reasons. If the Secretary provides notice under subsection (a)(1) in a form other than in writing, the Secretary shall submit to Congress a report describing the notification method used and the reasons for the use of the alternative method” after “provided in writing”.
 
 Subsecs. (f), (g). Pub. L. 105–261, §731(a)(1), added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -140,7 +140,7 @@ Sec. 3. <i>Informed Consent Requirements and Waiver Provisions.</i>
 
 &emsp;&emsp;(A) A statement that certifies and a written justification that documents that each of the criteria and standards set forth in 21 CFR 50.23(d) has been met; or
 
-&emsp;&emsp;(B) If the Secretary finds it highly impracticable to certify that the criteria and standards set forth in 21 CFR 50.23(d) have been fully met because doing so would significantly impair the Secretary's ability to carry out the particular military mission, a written justification that documents which criteria and standards have or have not been met, explains the reasons for failing to meet any of the criteriaand standards, and provides additional justification why a waiver should be granted solely in the interests of national security.
+&emsp;&emsp;(B) If the Secretary finds it highly impracticable to certify that the criteria and standards set forth in 21 CFR 50.23(d) have been fully met because doing so would significantly impair the Secretary's ability to carry out the particular military mission, a written justification that documents which criteria and standards have or have not been met, explains the reasons for failing to meet any of the criteria and standards, and provides additional justification why a waiver should be granted solely in the interests of national security.
 
 &emsp;(3) Any additional information pertinent to the Secretary's determination, including the minutes of the Institutional Review Board's (IRB) deliberations and the IRB members’ voting record.
 

@@ -6,7 +6,7 @@ For the purpose of improving the operation of the programs and projects authoriz
 
 #### (b) Contents of training programs
 
-Such training shall include conferences, internships, seminars, workshops, and the publication of manuals designed to improve the operation of such programs and projects and shall becarried out in the various regions of the Nation in order to ensure that the training opportunities are appropriate to meet the needs in the local areas being served by such programs and projects. Such training shall be offered annually for new directors of projects funded under this division as well as annually on the following topics and other topics chosen by the Secretary:
+Such training shall include conferences, internships, seminars, workshops, and the publication of manuals designed to improve the operation of such programs and projects and shall be carried out in the various regions of the Nation in order to ensure that the training opportunities are appropriate to meet the needs in the local areas being served by such programs and projects. Such training shall be offered annually for new directors of projects funded under this division as well as annually on the following topics and other topics chosen by the Secretary:
 
 &emsp;(1) Legislative and regulatory requirements for the operation of programs funded under this division.
 

@@ -22,7 +22,7 @@ State.—The term “State”, in addition to the States of the United States, i
 
 &emsp;(5) The term “home mortgage loan” means a loan made by a member upon the security of a home mortgage.
 
-&emsp;(6) The term “home mortgage” means a mortgage upon real estate, in fee simple, or on a leasehold (1) under a lease for not less thanninety-nine years which is renewable or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed, upon which is located, or which comprises or includes, one or more homes or other dwelling units, all of which may be defined by the Board and shall include, in addition to first mortgages, such classes of first liens as are commonly given to secure advances on real estate by institutions authorized under this chapter to become members, under the laws of the State in which the real estate is located, together with the credit instruments, if any, secured thereby.
+&emsp;(6) The term “home mortgage” means a mortgage upon real estate, in fee simple, or on a leasehold (1) under a lease for not less than ninety-nine years which is renewable or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed, upon which is located, or which comprises or includes, one or more homes or other dwelling units, all of which may be defined by the Board and shall include, in addition to first mortgages, such classes of first liens as are commonly given to secure advances on real estate by institutions authorized under this chapter to become members, under the laws of the State in which the real estate is located, together with the credit instruments, if any, secured thereby.
 
 &emsp;(7) The term “unpaid principal,” when used in respect of a loan secured by a home mortgage means the principal thereof less the sum of (1) payments made on such principal, and (2) in cases where shares or stock are pledged as security for the loan, the payments made on such shares or stock plus earnings or dividends apportioned or credited thereon.
 
@@ -64,7 +64,7 @@ In general.—The term “community financial institution” means a member—
 
 Adjustments.—The $500,000,000 limit referred to in subparagraph (A)(ii) shall be adjusted annually by the Finance Board, based on the annual percentage increase, if any, in the Consumer Price Index for all urban consumers, as published by the Department of Labor.
 
-(July 22, 1932, ch. 522, §2, 47 Stat. 725; June 27, 1934, ch. 847, §507, 48 Stat. 1264; May 28, 1935, ch. 150, §1, 49 Stat. 293; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 86–70, §9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §5(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–779, §2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418; Pub. L. 106–102, title VI, §602, Nov. 12, 1999, 113 Stat. 1450.)
+(July 22, 1932, ch. 522, §2, 47 Stat. 725; June 27, 1934, ch. 847, §507, 48 Stat. 1264; May 28, 1935, ch. 150, §1, 49 Stat. 293; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 86–70, §9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §5(a), July 12, 1960, 74Stat. 411; Pub. L. 87–779, §2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418; Pub. L. 106–102, title VI, §602, Nov. 12, 1999, 113 Stat. 1450.)
 
 #### References in Text
 

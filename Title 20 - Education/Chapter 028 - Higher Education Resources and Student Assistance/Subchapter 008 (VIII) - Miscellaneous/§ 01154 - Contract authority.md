@@ -1,6 +1,6 @@
 ### §1154. Contract authority
 
-The authorization to enter into contracts or other obligations under the Act, as amended by this Act, shall be effective for fiscal year 1981 and any succeeding fiscal year only to the extent or in such amounts as are provided in advance in appropriation Acts.
+The authorization to enter into contracts or other obligations under the Act, as amended bythis Act, shall be effective for fiscal year 1981 and any succeeding fiscal year only to the extent or in such amounts as are provided in advance in appropriation Acts.
 
 (Pub. L. 96–374, title XIII, §1392, Oct. 3, 1980, 94 Stat. 1504.)
 

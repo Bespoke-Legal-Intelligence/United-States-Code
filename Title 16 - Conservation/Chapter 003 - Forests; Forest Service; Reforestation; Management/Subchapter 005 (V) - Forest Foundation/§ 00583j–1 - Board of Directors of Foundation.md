@@ -2,7 +2,7 @@
 
 #### (a) Establishment and membership
 
-The Foundation shall have a governing Board of Directors (hereinafter referred to as the “Board”), which shall consist of fifteen Directors, each of whom shall be a United States citizen. At all times, a majority of members of the Board shall be educated or have actual experience in natural or cultural resource management, law, or research. To the extent practicable, members of the Board shall represent diverse points of view relating to natural and cultural resource issues. The Chief of the Forest Service shall be an ex officio nonvoting member of the Board.
+The Foundation shall have a governing Board of Directors (hereinafter referred to as the “Board”), which shall consist of fifteen Directors, each of whom shall be a United States citizen. At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty. At all times, a majority of members of the Board shall be educated or have actual experience in natural or cultural resource management, law, or research. To the extent practicable, members of the Board shall represent diverse points of view relating to natural and cultural resource issues. The Chief of the Forest Service shall be an ex officio nonvoting member of the Board.
 
 #### (b) Appointment and terms
 
@@ -22,7 +22,7 @@ The Board shall meet at the call of the Chairman at least once a year. If a Dire
 
 #### (f) Reimbursement of expenses
 
-Voting members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of their duties for the Foundation. Such reimbursement may not exceed such amount as would be authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
+Voting members of the Board shall serve without pay, but may be reimbursed for the actualand necessary traveling and subsistence expenses incurred by them in the performance of their duties for the Foundation. Such reimbursement may not exceed such amount as would be authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
 
 #### (g) General powers
 
@@ -32,13 +32,17 @@ The Board may complete the organization of the Foundation by appointing employee
 
 Officers and employees may not be appointed until the Foundation has sufficient funds to pay for their services. Officers and employees of the Foundation shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
-(Pub. L. 101–593, title IV, §403, Nov. 16, 1990, 104 Stat. 2970.)
+(Pub. L. 101–593, title IV, §403, Nov. 16, 1990, 104 Stat. 2970; Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 450.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (g), was in the original “this subtitle” and was translated as reading “this title”, meaning title IV of Pub. L. 101–593, Nov. 16, 1990, 104 Stat. 2969, known as the National Forest Foundation Act, which does not contain subtitles, and which is classified generally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 583j of this title and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (h), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–63 inserted “At the discretion of the Secretary of Agriculture, the Secretary may increase the number of Directors to not more than twenty.” after first sentence.
 
 #### Section Referred to in Other Sections
 

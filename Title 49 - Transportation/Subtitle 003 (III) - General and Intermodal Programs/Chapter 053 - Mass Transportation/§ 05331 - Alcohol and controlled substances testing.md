@@ -50,7 +50,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(4) provide that all tests indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitative information about alcohol or a controlled substance;
 
-&emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
+&emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to preventthe possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
 
 &emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath and body fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
 
@@ -76,7 +76,7 @@ Relationship to Other Laws, Regulations, Standards, and Orders.—(1) A State or
 
 (g)
 
-Ineligibility for Assistance.—A person is not eligible for financial assistance under section 5307, 5309, or 5311 of this title or section 103(e)(4) <sup>2</sup> of title 23 if the person is required, under regulations the Secretary of Transportation prescribes under this section, to establisha program of alcohol and controlled substances testing and does not establish the program.
+Ineligibility for Assistance.—A person is not eligible for financial assistance under section 5307, 5309, or 5311 of this title or section 103(e)(4) <sup>2</sup> of title 23 if the person is required, under regulations the Secretary of Transportation prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 832; Pub. L. 103–429, §6(13), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–59, title III, §342(a), Nov. 28, 1995, 109 Stat. 608.)
 

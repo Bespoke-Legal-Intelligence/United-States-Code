@@ -40,7 +40,7 @@ Except in the case described in paragraph (2) of subsection (c), a court with wh
 
 #### (e) Determination of court reviewable
 
-Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Claims Court, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court's order entering the decision.
+Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Claims Court, as the case may be, and shall be reviewable as such.The date of any such determination shall be treated as being the date of the court's order entering the decision.
 
 (Added Pub. L. 105–34, title XII, §1222(a), Aug. 5, 1997, 111 Stat. 1016.)
 

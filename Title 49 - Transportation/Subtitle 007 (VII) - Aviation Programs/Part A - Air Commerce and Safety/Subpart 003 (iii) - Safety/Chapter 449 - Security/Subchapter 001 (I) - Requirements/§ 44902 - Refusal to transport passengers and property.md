@@ -2,7 +2,7 @@
 
 (a)
 
-Mandatory Refusal.—The Administrator of the Federal Aviation Administration shall prescribe regulations requiring an air carrier, intrastate air carrier, or foreign air carrier to refuse to transport—
+Mandatory Refusal.—The Under Secretary of Transportation for Security shall prescribe regulations requiring an air carrier, intrastate air carrier, or foreign air carrier to refuse to transport—
 
 &emsp;(1) a passenger who does not consent to a search under section 44901(a) of this title establishing whether the passenger is carrying unlawfully a dangerous weapon, explosive, or other destructive substance; or
 
@@ -10,13 +10,13 @@ Mandatory Refusal.—The Administrator of the Federal Aviation Administration sh
 
 (b)
 
-Permissive Refusal.—Subject to regulations of the Administrator, an air carrier, intrastate air carrier, or foreign air carrier may refuse to transport a passenger or property the carrier decides is, or might be, inimical to safety.
+Permissive Refusal.—Subject to regulations of the Under Secretary, an air carrier, intrastate air carrier, or foreign air carrier may refuse to transport a passenger or property the carrier decides is, or might be, inimical to safety.
 
 (c)
 
 Agreeing to Consent to Search.—An agreement to carry passengers or property in air transportation or intrastate air transportation by an air carrier, intrastate air carrier, or foreign air carrier is deemed to include an agreement that the passenger or property will not be carried if consent to search the passenger or property for a purpose referred to in this section is not given.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204; Pub. L. 107–71, title I, §101(f)(7), (9), Nov. 19, 2001, 115 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,12 @@ In subsection (a)(2), the words “or inspection” are omitted as surplus.
 In subsection (b), the words “reasonable” and “also” are omitted as surplus. The word “rules” is omitted as being synonymous with “regulations”. The words “the carrier decides is” are substituted for “when, in the opinion of the carrier, such transportation would” to eliminate unnecessary words. The words “of flight” are omitted as surplus.
 
 In subsection (c), the words “for compensation or hire” are omitted because of the definitions of “air transportation” and “intrastate air transportation” in section 40102(a) of the revised title. The word “inspect” is omitted as surplus.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
+
+Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
 
 #### Section Referred to in Other Sections
 

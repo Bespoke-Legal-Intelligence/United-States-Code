@@ -4,15 +4,17 @@
 
 (1) The Commission shall prescribe rules prohibiting deceptive telemarketing acts or practices and other abusive telemarketing acts or practices.
 
-(2) The Commission shall include in such rules respecting deceptive telemarketing acts or practices a definition of deceptive telemarketing acts or practices which may include acts or practices of entities or individuals that assist or facilitate deceptive telemarketing, including credit card laundering.
+(2) The Commission shall include in such rules respecting deceptive telemarketing acts or practices a definition of deceptive telemarketing acts or practices which shall include fraudulent charitable solicitations, and which may include acts or practices of entities or individuals that assist or facilitate deceptive telemarketing, including credit card laundering.
 
 (3) The Commission shall include in such rules respecting other abusive telemarketing acts or practices—
 
 &emsp;(A) a requirement that telemarketers may not undertake a pattern of unsolicited telephone calls which the reasonable consumer would consider coercive or abusive of such consumer's right to privacy,
 
-&emsp;(B) restrictions on the hours of the day and night when unsolicited telephone calls can be made to consumers, and
+&emsp;(B) restrictions on the hours of the day and night when unsolicited telephone calls can be made to consumers,
 
-&emsp;(C) a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commission deems appropriate, including the nature and price of the goods and services.
+&emsp;(C) a requirement that any person engaged in telemarketing for the sale of goods or services shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to sell goods or services and make such other disclosures as the Commission deems appropriate, including the nature and price of the goods and services; <sup>1</sup> and
+
+&emsp;(D) a requirement that any person engaged in telemarketing for the solicitation of charitable contributions, donations, or gifts of money or any other thing of value, shall promptly and clearly disclose to the person receiving the call that the purpose of the call is to solicit charitable contributions, donations, or gifts, and make such other disclosures as the Commission considers appropriate, including the name and mailing address of the charitable organization on behalf of which the solicitation is made.
 
 > In prescribing the rules described in this paragraph, the Commission shall also consider recordkeeping requirements.
 
@@ -40,7 +42,7 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 &emsp;&emsp;&emsp;(ii) such a rule promulgated by the Securities and Exchange Commission is not necessary or appropriate in the public interest, or for the protection of investors, or would be inconsistent with the maintenance of fair and orderly markets.
 
-> &emsp;&emsp;If the Securities and Exchange Commission determines that an exception described in clause (i) or (ii) applies, the Securities and Exchange Commission shall publish in theFederal Register its determination with the reasons for it.
+> &emsp;&emsp;If the Securities and Exchange Commission determines that an exception described in clause (i) or (ii) applies, the Securities and Exchange Commission shall publish in the Federal Register its determination with the reasons for it.
 
 #### (2) Application
 
@@ -66,13 +68,21 @@ Any violation of any rule prescribed under subsection (a) of this section shall 
 
 #### (2) Omitted
 
-(Pub. L. 103–297, §3, Aug. 16, 1994, 108 Stat. 1545.)
+(Pub. L. 103–297, §3, Aug. 16, 1994, 108 Stat. 1545; Pub. L. 107–56, title X, §1011(b)(1), (2), Oct. 26, 2001, 115 Stat. 396.)
 
 #### Codification
 
 Section is comprised of section 3 of Pub. L. 103–297. Subsec. (e)(2) of section 3 of Pub. L. 103–297 enacted section 9b of Title 7, Agriculture.
 
+#### Amendments
+
+2001—Subsec. (a)(2). Pub. L. 107–56, §1011(b)(1), inserted “which shall include fraudulent charitable solicitations, and” before “which may include”.
+
+Subsec. (a)(3)(D). Pub. L. 107–56, §1011(b)(2), added subpar. (D).
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6103, 6104, 6105, 6107, 6108 of this title; title 7 section 9b.
+
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

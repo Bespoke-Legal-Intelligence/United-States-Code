@@ -2,7 +2,7 @@
 
 #### (a) Appointment and compensation of Administrator; transfer of powers, duties, and assets pertaining to agricultural credit
 
-In accordance with section 2006a of this title, for purposes of this chapter, and for the administration of assets under the jurisdiction of the Secretary of Agriculture pursuant to the Farmers Home Administration Act of 1946, as amended, the Bankhead-Jones Farm Tenant Act, as amended, the Act of August 28, 1937, as amended, the Act of April 6, 1949, as amended, the Act of August 31, 1954, as amended, and the power andduties of the Secretary under any other Act authorizing agricultural credit, the Secretary may assign and transfer such powers, duties, and assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.
+In accordance with section 2006a of this title, for purposes of this chapter, and for the administration of assets under the jurisdiction of the Secretary of Agriculture pursuant to the Farmers Home Administration Act of 1946, as amended, the Bankhead-Jones Farm Tenant Act, as amended, the Act of August 28, 1937, as amended, the Act of April 6, 1949, as amended, the Act of August 31, 1954, as amended, and the power and duties of the Secretary under any other Act authorizing agricultural credit, the Secretary may assign and transfer such powers, duties, and assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.
 
 #### (b) Powers of Secretary of Agriculture
 
@@ -80,7 +80,7 @@ For definition of “this chapter”, referred to in subsecs. (a), (b)(1), (3), 
 
 The Farmers Home Administration Act of 1946, as amended, referred to in subsec. (a), is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as amended, which was classified to sections 1001 to 1005, 1005a to 1005d, 1007, 1008, 1009, 1015 to 1029, 1030, and 1031 of this title, section 371 of Title 12, Banks and Banking, and section 82h of Title 31, Money and Finance, and in so far as it amended provisions of Title I, II, and IV of the Bankhead-Jones Farm Tenant Act, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
-The Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of act July 22, 1937, as amended, is classified to sections 1010 to 1012 and 1013a of this title. Titles I, II, and IV of act July 22, 1937, as amended, were formerly classified to sections 1001 to 1005, 1005a to 1005d, 1006, 1006c to 1006e, 1007, 1008, 1009, 1014 to 1025, 1026, and 1027 to 1029 of this title, respectively, were repealed by section 341(a) of Pub. L. 87–128, and are covered by this chapter.
+The Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of act July 22, 1937, as amended, is classified to sections 1010 to 1012 and 1013a of this title. Titles I, II, and IV of act July 22, 1937, as amended, were formerly classified to sections 1001 to 1005, 1005a to 1005d, 1006, 1006c to 1006e, 1007, 1008, 1009,1014 to 1025, 1026, and 1027 to 1029 of this title, respectively, were repealed by section 341(a) of Pub. L. 87–128, and are covered by this chapter.
 
 Act of August 28, 1937, as amended, referred to in subsec. (a), is act Aug. 28, 1937, ch. 870, 50 Stat. 869, as amended, which was formerly classified to sections 590r to 590x–4 of Title 16, Conservation, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 104–127, §631, added subsec. (d).
 
 Subsec. (e). Pub. L. 104–127, §632, added subsec. (e).
 
-1994—Subsec. (a). Pub. L. 103–354 substituted “assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.” for“assets to the Farmers Home Administration, to be headed by an Administrator, appointed by the President, by and with the advice and consent of the Senate, without regard to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5, who shall receive basic compensation as provided by law for that office, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office.”
+1994—Subsec. (a). Pub. L. 103–354 substituted “assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.” for “assets to the Farmers Home Administration, to be headed by an Administrator, appointed by the President, by and with the advice and consent of the Senate, without regard to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5, who shall receive basic compensation as provided by law for that office, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office.”
 
 Subsec. (c). Pub. L. 103–248 added subsec. (c).
 
@@ -160,7 +160,7 @@ Subsec. (b)(1) to (3). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), a
 
 Subsec. (b)(4). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(iii), (v), redesignated par. (d) as (4) of subsec. (b).
 
-Pub. L. 101–624, §§1805(a)(1)(A), (B), 2303(a)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration” in first sentence, substituted “, except for activities under the Housing Act of 1949” for “under any of its programs, as circumstances may require, to carry out” in first sentence, and substituted “, except for debt incurred under the Housing Act of 1949” for “incurred under this chapter” in third sentence.
+Pub. L. 101–624, §§1805(a)(1)(A), (B), 2303(a)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration” in first sentence, substituted “, except for activities under the Housing Act of 1949” for “under any of its programs, as circumstances may require, to carry out” in first sentence, and substituted “, except for debt incurred under theHousing Act of 1949” for “incurred under this chapter” in third sentence.
 
 Subsec. (b)(4)(A). Pub. L. 101–624, §2388(d)(1)(A)(v), formerly (vi), as redesignated by Pub. L. 102–237, §501(c)(2)(B)(iii), redesignated subpar. (1) as (A).
 

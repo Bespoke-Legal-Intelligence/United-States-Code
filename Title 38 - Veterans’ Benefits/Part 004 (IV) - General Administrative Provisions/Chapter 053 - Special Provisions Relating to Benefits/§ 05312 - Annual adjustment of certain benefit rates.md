@@ -44,7 +44,7 @@ Subsec. (c)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 1982—Subsec. (a). Pub. L. 97–295, §4(76)(A), (B), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title II of the Social Security Act”, and inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”.
 
-Subsec. (b)(1). Pub. L. 97–295, §4(76)(A)–(C), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title II of the Social Security Act”, inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”, and substituted “subsection (g), of section 415 of this title” for “subsection (h), of section 415 of such title”.
+Subsec. (b)(1). Pub. L. 97–295, §4(76)(A)–(C), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title IIof the Social Security Act”, inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”, and substituted “subsection (g), of section 415 of this title” for “subsection (h), of section 415 of such title”.
 
 Subsec. (c)(1). Pub. L. 97–295, §4(76)(B), (D), inserted “(42 U.S.C. 415(i)(2)(D))” after “section 215(i)(2)(D) of the Social Security Act”, and inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”.
 

@@ -20,7 +20,7 @@
 
 &emsp;(7) with a view to prosecuting persons, take steps to discover fraud and attempted fraud involving receipts and decide on ways to prevent and detect fraud; and
 
-&emsp;(8) maintain separate accounts of taxes received in each State, territory, and possessionof the United States, and collection district, with each account listing—
+&emsp;(8) maintain separate accounts of taxes received in each State, territory, and possession of the United States, and collection district, with each account listing—
 
 &emsp;&emsp;(A) each kind of tax;
 
@@ -198,7 +198,7 @@ In subsection (a)(5), before subclause (A), the words “prescribe regulations�
 
 In subsection (a)(6), the word “collect” is substituted for “superintend the collection” because of the source provisions restated in section 321(c) of the revised title. The word “receipts” is substituted for “revenue” for consistency in the revised title.
 
-In subsection (a)(7), the words “Secretary of the Treasury” are substituted for “General Counsel of the Department of the Treasury, under the direction of the Secretary of the Treasury” because of the source provisions restated in subsection (c) of this section. The words “with a view to prosecuting persons” are substituted for “for the prosecution of persons charged with the commission thereof” for clarity. The words “take steps to discover fraud and attempted fraud” are substituted for “take cognizance of all frauds or attempted frauds” for clarity. The words “involving receipts” are substituted for “upon the revenue” for consistency in the revised title. The words “decide on ways to prevent and detect fraud” are substituted for “exercise a general supervision over the measures for their prevention and detection” for clarity and to eliminate unnecessary words.
+In subsection (a)(7), the words “Secretary of the Treasury” are substituted for “General Counsel of the Department of the Treasury, under the direction of the Secretary of the Treasury” because of the source provisions restated in subsection (c) of this section. The words “with a view to prosecuting persons” are substituted for “for the prosecution of persons charged with the commission thereof” for clarity. The words“take steps to discover fraud and attempted fraud” are substituted for “take cognizance of all frauds or attempted frauds” for clarity. The words “involving receipts” are substituted for “upon the revenue” for consistency in the revised title. The words “decide on ways to prevent and detect fraud” are substituted for “exercise a general supervision over the measures for their prevention and detection” for clarity and to eliminate unnecessary words.
 
 In subsection (a)(8), before subclause (A), the word “maintain” is substituted for “shall be kept” for consistency. The words “all moneys” and “internal” are omitted as unnecessary because of the restatement. The words “duties or” are omitted as being included in “taxes”. The word “possession” is added for consistency in the revised title and with other titles of the Code. The word “listing” is substituted for “so as to exhibit, as far as may be” for clarity and to eliminate unnecessary words. In subclause (A), the word “kind” is substituted for “species” for consistency. The words “that shall accrue” are omitted as surplus. In subclause (B), the words “each tax” are substituted for “each source of revenue” for clarity. In subclause (C), the word “pay” is substituted for “compensation” for consistency. The words “officers and employees” are substituted for “collectors and deputy collectors, inspectors, and other officers” for consistency and to eliminate unnecessary words.
 
@@ -226,7 +226,7 @@ Subsec. (e). Pub. L. 101–73, §307(d), added subsec. (e).
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2,and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to Secretary of the Treasury, see Parts 1, 2, and 15 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Use of Aircraft in Emergency Law Enforcement Support
 

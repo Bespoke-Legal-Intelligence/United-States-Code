@@ -122,7 +122,7 @@ Subsec. (b). Pub. L. 103–171, §3(a)(2)(D), substituted “Assistant Secretary
 
 Subsec. (c)(2). Pub. L. 103–171, §3(a)(2)(B)(i), (D), substituted “a Director of the Office for” for “an Associate Commissioner on” and “Assistant Secretary” for “Commissioner”.
 
-Subsec. (c)(3). Pub. L. 103–171, §3(a)(2)(B)(ii), (D), substituted “Director of the Office for” for “Associate Commissioner on” in introductory provisions and “Assistant Secretary” for “Commissioner” wherever appearing in subpars. (A), (E), and (I)(ii).
+Subsec. (c)(3). Pub. L. 103–171, §3(a)(2)(B)(ii), (D), substituted “Director of the Office for” for “AssociateCommissioner on” in introductory provisions and “Assistant Secretary” for “Commissioner” wherever appearing in subpars. (A), (E), and (I)(ii).
 
 Subsec. (d)(2). Pub. L. 103–171, §3(a)(2)(C), (D), substituted “a Director of the Office of Long-Term Care Ombudsman Programs” for “an Associate Commissioner for Ombudsman Programs” in subpar. (A), “Director” for “Associate Commissioner” wherever appearing, and “Assistant Secretary” for “Commissioner” in two places in subpar. (A).
 
@@ -182,7 +182,7 @@ Amendment by Pub. L. 95–478 effective at close of Sept. 30, 1978, see section 
 
 #### Modification of Delegation of Functions of Commissioner on Aging in Effect on July 12, 1974
 
-Section 2(b) of Pub. L. 93–351 provided that: “Any delegation of the functions of the Commissioner onAging \[now Assistant Secretary for Aging\] in effect on the date of enactment of this Act \[July 12, 1974\], issued pursuant to section 201(a) of such Act \[subsec. (a) of this section\], shall be modified by the Commissioner to comply with the provisions of the amendment made by this section \[amending this section\].”
+Section 2(b) of Pub. L. 93–351 provided that: “Any delegation of the functions of the Commissioner on Aging \[now Assistant Secretary for Aging\] in effect on the date of enactment of this Act \[July 12, 1974\], issued pursuant to section 201(a) of such Act \[subsec. (a) of this section\], shall be modified by the Commissioner to comply with the provisions of the amendment made by this section \[amending this section\].”
 
 #### Section Referred to in Other Sections
 

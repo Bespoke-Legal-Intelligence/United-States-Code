@@ -74,7 +74,7 @@ Except as otherwise provided in this section—
 
 #### (B) Applicable percentage
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means 100 percent minus 1 percentage point for each full month the property was held after the date on which the property was held for 20 full months.
+&emsp;&emsp;For purposes of subparagraph (A), the term “applicable percentage” means 100 percentminus 1 percentage point for each full month the property was held after the date on which the property was held for 20 full months.
 
 #### (4) Special rule
 
@@ -132,7 +132,7 @@ For purposes of this section, the term “section 1250 property” means any rea
 
 #### (3) Certain tax-free transactions
 
-&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognized to the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (9), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
+&emsp;If the basis of property in the hands of a transferee is determined by reference to its basis in the hands of the transferor by reason of the application of section 332, 351, 361, 721, or 731, then the amount of gain taken into account by the transferor under subsection (a) shall not exceed the amount of gain recognizedto the transferor on the transfer of such property (determined without regard to this section). Except as provided in paragraph (9), this paragraph shall not apply to a disposition to an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter.
 
 #### (4) Like kind exchanges; involuntary conversions, etc.
 
@@ -160,7 +160,7 @@ For purposes of this section, the term “section 1250 property” means any rea
 
 &emsp;&emsp;In the case of property purchased by the taxpayer in a transaction described in section 1033(a)(2), in applying section 1033(b)(2), such sentence shall be applied—
 
-&emsp;&emsp;&emsp;(i) first solely to section 1250 properties and to the amount of gain not taken intoaccount under subsection (a) by reason of this paragraph, and
+&emsp;&emsp;&emsp;(i) first solely to section 1250 properties and to the amount of gain not taken into account under subsection (a) by reason of this paragraph, and
 
 &emsp;&emsp;&emsp;(ii) then to all purchased properties to which such sentence applies and to the remaining gain not recognized on the transaction as if the cost of the section 1250 properties were the basis of such properties computed under clause (i).
 
@@ -226,7 +226,7 @@ For purposes of determining the applicable percentage under this section, the pr
 
 #### (2) Ordinary income attributable to an element
 
-&emsp;For purposes of paragraph (1), the amount taken into account for any element shall bethe sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying—
+&emsp;For purposes of paragraph (1), the amount taken into account for any element shall be the sum of a series of amounts determined for the periods set forth in subsection (a), with the amount for any such period being determined by multiplying—
 
 &emsp;&emsp;(A) the amount which bears the same ratio to the lower of the amounts specified in clause (i) or (ii) of subsection (a)(1)(A), in clause (i) or (ii) of subsection (a)(2)(A), or in clause (i) or (ii) of subsection (a)(3)(A), as the case may be, for the section 1250 property as the additional depreciation for such element attributable to such period bears to the sum of the additional depreciation for all elements attributable to such period, by
 
@@ -292,7 +292,7 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 Section 8 of the United States Housing Act of 1937, referred to in subsec. (a)(1)(B)(ii), is classified to section 1437f of Title 42, The Public Health and Welfare.
 
-The Housing Act of 1949, referred to in subsec. (a)(1)(B)(iv), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classifiedgenerally to subchapter III (§1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (a)(1)(B)(iv), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 The Tax Reform Act of 1976, referred to in subsec. (b)(3), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. Section 1951(a)(4)(A) of the Act repealed section 168 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -380,7 +380,7 @@ Subsec. (d)(7)(B). Pub. L. 95–600, §404(c)(7), inserted provisions relating t
 
 &emsp;“(ii) the adjusted basis of such property,
 
-> shall be treated as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231. Such gain shall be recognizednotwithstanding any other provision of this subtitle.”; redesignated as subpar. (B) existing subpar. (C); substituted therein introductory “subparagraph (A)” for “paragraph (1)”; and deleted from cl. (ii) “constructed, reconstructed, or acquired by the taxpayer before January 1, 1976,” after “section 1250 property” and “is” before “financed”, and substituted “1” for “one”.
+> shall be treated as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231. Such gain shall be recognized notwithstanding any other provision of this subtitle.”; redesignated as subpar. (B) existing subpar. (C); substituted therein introductory “subparagraph (A)” for “paragraph (1)”; and deleted from cl. (ii) “constructed, reconstructed, or acquired by the taxpayer before January 1, 1976,” after “section 1250 property” and “is” before “financed”, and substituted “1” for “one”.
 
 (4) Made the following changes in par. (3): substituted in subpar. (A) “determined under paragraph (1)(A)(ii) exceeds the sum of the amounts determined under paragraphs (1)(A)(i) and (2)(A)(i)” for “determined under paragraph (1)(B) exceeds the amount determined under paragraph (1)(A)”; and substituted subpar. (A)(ii) and concluding text for par. (2)(A)(ii), and concluding text which read:
 
@@ -422,7 +422,7 @@ Subsec. (d)(3), (9). Pub. L. 94–81, §2(b), inserted reference to par. (9) in 
 
 <b>1971</b>—Subsec. (b)(3). Pub. L. 92–178 inserted reference to section 188.
 
-<b>1969</b>—Subsec. (a). Pub. L. 91–172, §521(b), modified the recapture rules pertaining to residential housing by allowing a 1 percent per month reduction in the amount to be recaptured as ordinary income after the property has been held for 100 full months, with other real property remaining subject to full recapture, applied the existing recapture rules where the sale of property was subject to a binding contract in existence prior to July 25, 1969, provided that changes in the recapture rules are not to apply in federally assisted projects (such as programs under section 221(d)(3) or 236 of the National Housing Act) or to other publicly assisted housing programs under which the return to the investor is limited on a comparable basis, thereby rendering these projects subject to a recapture of the depreciation in full if the sale occurs in the first 12 months and for a phaseout of the recapture of the excess of accelerated over straight-line depreciation after 20 months, the recapture being reduced at the rate of 1 percent per month until 120 months after which no recapture applies, with such recapture rules to continue to apply only with respect to such property constructed, reconstructed, or acquired before Jan. 1, 1975, and applied new recapture rules to depreciation attributable to periods after Dec. 31, 1969.
+<b>1969</b>—Subsec. (a). Pub. L. 91–172, §521(b), modified the recapture rules pertaining to residential housing by allowing a 1 percent per month reduction in the amount to be recaptured as ordinary income after the property has been held for 100 full months, with other real property remaining subject to full recapture, applied the existing recapture rules where the sale of property was subject to a binding contract in existence prior to July 25, 1969, provided that changes in the recapture rulesare not to apply in federally assisted projects (such as programs under section 221(d)(3) or 236 of the National Housing Act) or to other publicly assisted housing programs under which the return to the investor is limited on a comparable basis, thereby rendering these projects subject to a recapture of the depreciation in full if the sale occurs in the first 12 months and for a phaseout of the recapture of the excess of accelerated over straight-line depreciation after 20 months, the recapture being reduced at the rate of 1 percent per month until 120 months after which no recapture applies, with such recapture rules to continue to apply only with respect to such property constructed, reconstructed, or acquired before Jan. 1, 1975, and applied new recapture rules to depreciation attributable to periods after Dec. 31, 1969.
 
 Subsec. (b)(4). Pub. L. 91–172, §512(c), added par. (4).
 
@@ -530,7 +530,7 @@ Amendment by section 521(b), (c), (e) of Pub. L. 91–172 applicable with respec
 
 Amendment by section 704(b)(5) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1968, see section 704(c) of Pub. L. 91–172, set out as an Effective Date note under section 169 of this title.
 
-Section 910(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by this section \[enacting section 1039 of this title and amending this section\] shall apply to approved dispositions of qualified housing projects (within the meaning of section 1039 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by subsection (a)) after October 9, 1969.”
+Section 910(d) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 1039 of this title and amending this section\] shall apply to approved dispositions of qualified housing projects (within the meaning of section 1039 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by subsection (a)) after October 9, 1969.”
 
 #### Effective Date
 

@@ -20,7 +20,7 @@ A prior section 1372, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 7
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxable year beginning during 1982, sections 1362(d)(3), 1366(f)(3), and 1375 of this title shall apply and subsec. (e)(5) of thissection as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3), of Pub. L. 97–354, set out as a note under section 1361 of this title. For additional provisions relating to the treatment of existing fringe benefit plans and the application of this section, see section 6(d) of Pub. L. 97–354, set out as a note under section 1361 of this title.
+Section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxable year beginning during 1982, sections 1362(d)(3), 1366(f)(3), and 1375 of this title shall apply and subsec. (e)(5) of this section as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3), of Pub. L. 97–354, set out as a note under section 1361 of this title. For additional provisions relating to the treatment of existing fringe benefit plans and the application of this section, see section 6(d) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 
 #### Section Referred to in Other Sections
 

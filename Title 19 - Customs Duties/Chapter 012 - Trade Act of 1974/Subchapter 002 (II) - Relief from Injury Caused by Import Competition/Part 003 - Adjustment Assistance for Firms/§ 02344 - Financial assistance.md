@@ -14,7 +14,7 @@ Loans or guarantees of loans shall be made under this part only for the purpose 
 
 #### (c) Limitation on direct loans
 
-No direct loan may be provided to a firm under this part if the firm can obtain loan funds from private sources (with or without a guarantee) at a rate no higher than the maximum interest per annum that a participating financial institution may establish on guaranteed loans made pursuant to section 636(a) of title 15.
+No direct loan may be provided to a firm under this part if the firm can obtain loan fundsfrom private sources (with or without a guarantee) at a rate no higher than the maximum interest per annum that a participating financial institution may establish on guaranteed loans made pursuant to section 636(a) of title 15.
 
 #### (d) Limitations on loans and guarantees
 

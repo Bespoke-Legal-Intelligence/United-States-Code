@@ -30,7 +30,7 @@ The deadline for application pursuant to this section shall be established at on
 
 #### (d) Eligibility determination; final roll
 
-(1) The Secretary shall make determinations of eligibility of applicants under this sectionand publish in the Federal Register the final Settlement Roll of such persons one hundred and eighty days after the date established pursuant to subsection (c) of this section.
+(1) The Secretary shall make determinations of eligibility of applicants under this section and publish in the Federal Register the final Settlement Roll of such persons one hundred and eighty days after the date established pursuant to subsection (c) of this section.
 
 (2) The Secretary shall develop such procedures and times as may be necessary for the consideration of appeals from applicants not included on the roll published pursuant to paragraph (1). Successful appellants shall be added to the Settlement Roll and shall be afforded the right to elect options as provided in section 1300i–5 of this title, with any payments to be made to such successful appellants out of the remainder of the Settlement Fund after payments have been made pursuant to section 1300i–5(d) of this title and prior to division pursuant to section 1300i–6 of this title.
 

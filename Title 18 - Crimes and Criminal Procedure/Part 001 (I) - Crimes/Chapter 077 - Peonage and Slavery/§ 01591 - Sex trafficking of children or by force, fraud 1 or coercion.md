@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) threats of serious harm to or physical restraint against any person;
 
-&emsp;&emsp;(B) any scheme, plan, or pattern intended to cause a person to believe that failure toperform an act would result in serious harm to or physical restraint against any person; or
+&emsp;&emsp;(B) any scheme, plan, or pattern intended to cause a person to believe that failure to perform an act would result in serious harm to or physical restraint against any person; or
 
 &emsp;&emsp;(C) the abuse or threatened abuse of law or the legal process.
 

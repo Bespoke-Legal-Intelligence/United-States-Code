@@ -18,7 +18,7 @@ For purposes of this section, the term “nutrition education and training progr
 
 (2) The program is to be coordinated at the State level with other nutrition activities conducted by education, health, and State Cooperative Extension Service agencies. In formulating the program, the Secretary and the State may solicit the advice and recommendations of State educational agencies, the Department of Health and Human Services, and other interested groups and individuals concerned with improvement of child nutrition.
 
-(3) If a State educational agency is conducting or applying to conduct a health education program which includes a school-related nutrition education component as defined by the Secretary, and that health education program is eligible for funds under programs administered by the Department of Health and Human Services, the Secretary may make funds authorized in this section available to the Department of Health and Human Services to fund the nutrition education component of the State program without requiring an additional grant application.
+(3) If a State educational agency is conducting or applying to conduct a health education program which includes a school-related nutritioneducation component as defined by the Secretary, and that health education program is eligible for funds under programs administered by the Department of Health and Human Services, the Secretary may make funds authorized in this section available to the Department of Health and Human Services to fund the nutrition education component of the State program without requiring an additional grant application.
 
 (4) The Secretary, in carrying out the provisions of this subsection, shall make grants to State educational agencies who, in turn, may contract with land-grant colleges eligible to receive funds under the Act of July 2, 1862 \[7 U.S.C. 301 et seq.\], or the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including the Tuskegee Institute, other institutions of higher education, and nonprofit organizations and agencies, for the training of educational, school food service, child care, and summer food service personnel with respect to providing nutrition education programs in schools and the training of school food service personnel in school food service management, in coordination with the activities authorized under section 1769b–1 of this title. Such grants may be used to develop and conduct training programs for early childhood, elementary, and secondary educational personnel and food service personnel with respect to the relationship between food, nutrition, and health; educational methods and techniques, and issues relating to nutrition education; and principles and skills of food service management for cafeteria personnel.
 
@@ -74,7 +74,7 @@ In general.—
 
 &emsp;(A)
 
-Funding.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1997 through 2003.
+Funding.—There are authorized to be appropriated such sums as are necessary to carryout this section for each of fiscal years 1997 through 2003.
 
 &emsp;(B)
 
@@ -88,7 +88,7 @@ In general.—Grants to each State from the amounts made available under subpara
 
 Insufficient funds.—If the amount made available for any fiscal year is insufficient to pay the amount to which each State is entitled under clause (i), the amount of each grant shall be ratably reduced.
 
-(2) Funds made available to any State under this section shall remain available to the Statefor obligation in the fiscal year succeeding the fiscal year in which the funds were received by the State.
+(2) Funds made available to any State under this section shall remain available to the State for obligation in the fiscal year succeeding the fiscal year in which the funds were received by the State.
 
 (3) Enrollment data used for purposes of this subsection shall be the latest available as certified by the Department of Education.
 
@@ -136,7 +136,7 @@ Subsec. (i)(3) to (5). Pub. L. 104–193, §731(e)(2), (3), added par. (3) and r
 
 Subsec. (j). Pub. L. 104–193, §731(f), struck out subsec. (j) which read as follows:
 
-“(1) The Secretary shall assess the nutrition education and training program carried out under this section to determine what nutrition education needs arefor children participating under the National School Lunch Act in the school lunch program, the summer food service program, and the child care food program.
+“(1) The Secretary shall assess the nutrition education and training program carried out under this section to determine what nutrition education needs are for children participating under the National School Lunch Act in the school lunch program, the summer food service program, and the child care food program.
 
 “(2) The assessment required by paragraph (1) shall be completed not later than October 1, 1990.”
 
@@ -206,7 +206,7 @@ Pub. L. 101–147, §214, inserted at end “Each plan developed as required by 
 
 Pub. L. 101–147, §124(2), in subpar. (C), struck out “the National Advisory Council on Child Nutrition,” after “recommendations of”.
 
-Subsec. (i)(2). Pub. L. 101–147, §124(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1989, there is hereby authorized to be appropriated for grants to each State for the conduct of nutrition education and information programs, an amount equal to the higher of (A) 50 cents for each child enrolled in schools or in institutions within each State, or (B) $50,000 for each State. There is authorized to be appropriated for the grants referred to in the preceding sentence not more than $15,000,000 for fiscal year 1981, and not more than $5,000,000 for each subsequent fiscal year. Grants to each State from such appropriations shall be based on a rate of 50 cents for each child enrolled in schools or in institutions within such State, except that no State shall receive an amount less than $50,000 for that year. If funds appropriated for such year are insufficient to pay the amount to which each State is entitled under the second preceding sentence, the amount of such grant shall be ratably reduced to the extent necessary so that the total of such amounts paid does not exceed the amount of appropriated funds. If additional funds become available for making such payments, such amounts shall be increased on the same basis as they were reduced.”
+Subsec. (i)(2). Pub. L. 101–147, §124(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1989, there is hereby authorized to be appropriated for grants to each State for the conduct of nutrition education and information programs, an amount equal to the higher of (A) 50 cents for each child enrolled in schools or in institutions within each State, or (B) $50,000 for each State. There is authorized to be appropriated for the grants referred to in the preceding sentence not more than $15,000,000 for fiscal year 1981, and not more than $5,000,000 for each subsequent fiscal year. Grants to each State from such appropriations shall be based on a rate of 50 cents for each child enrolled in schools or in institutions within such State, except that no State shall receive an amount less than $50,000 for that year. If funds appropriated for such year are insufficient to pay the amount to which each State is entitled under the second preceding sentence, the amount of such grant shall be ratably reduced to the extent necessary so that the total of such amounts paiddoes not exceed the amount of appropriated funds. If additional funds become available for making such payments, such amounts shall be increased on the same basis as they were reduced.”
 
 Subsec. (j). Pub. L. 101–147, §124(4), added subsec. (j).
 

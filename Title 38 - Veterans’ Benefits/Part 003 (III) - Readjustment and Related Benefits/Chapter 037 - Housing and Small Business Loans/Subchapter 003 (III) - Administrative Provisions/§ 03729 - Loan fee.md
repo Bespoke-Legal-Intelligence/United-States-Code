@@ -16,21 +16,21 @@ LOAN FEE TABLE
 
 | Type of loan | Active duty veteran | Reservist | Other obligor |
 | --- | --- | --- | --- |
-| (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before October 1, 2008) | 2\.00 | 2\.75 | NA |
+| (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed before October 1, 2011) | 2\.00 | 2\.75 | NA |
 |  |  |  |  |
-| (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2008) | 1\.25 | 2\.00 | NA |
+| (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2011) | 1\.25 | 2\.00 | NA |
 |  |  |  |  |
-| (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2008) | 3\.00 | 3\.00 | NA |
+| (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed before October 1, 2011) | 3\.00 | 3\.00 | NA |
 |  |  |  |  |
-| (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2008) | 1\.25 | 2\.00 | NA |
+| (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2011) | 1\.25 | 2\.00 | NA |
 |  |  |  |  |
-| (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2008) | 1\.50 | 2\.25 | NA |
+| (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before October 1, 2011) | 1\.50 | 2\.25 | NA |
 |  |  |  |  |
-| (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2008) | 0\.75 | 1\.50 | NA |
+| (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after October 1, 2011) | 0\.75 | 1\.50 | NA |
 |  |  |  |  |
-| \(D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2008) | 1\.25 | 2\.00 | NA |
+| (D)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before October 1, 2011) | 1\.25 | 2\.00 | NA |
 |  |  |  |  |
-| (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2008) | 0\.50 | 1\.25 | NA |
+| (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2011) | 0\.50 | 1\.25 | NA |
 |  |  |  |  |
 | (E) Interest rate reduction refinancing loan | 0\.50 | 0\.50 | NA |
 |  |  |  |  |
@@ -50,7 +50,7 @@ LOAN FEE TABLE
 
 &emsp;(A) The term “active duty veteran” means any veteran eligible for the benefits of this chapter other than a Reservist.
 
-&emsp;(B) The term “Reservist” means a veteran described in section 3701(b)(5)(A) of this title.
+&emsp;(B) The term “Reservist” means a veteran described in section 3701(b)(5)(A) of this title who is eligible under section 3702(a)(2)(E) of this title.
 
 &emsp;(C) The term “other obligor” means a person who is not a veteran, as defined in section 101 of this title or other provision of this chapter.
 
@@ -70,15 +70,21 @@ LOAN FEE TABLE
 
 Waiver of Fee.—A fee may not be collected under this section from a veteran who is receiving compensation (or who, but for the receipt of retirement pay, would be entitled to receive compensation) or from a surviving spouse of any veteran (including a person who died in the active military, naval, or air service) who died from a service-connected disability.
 
-(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861.)
+(Added Pub. L. 97–253, title IV, §406(a)(1), Sept. 8, 1982, 96 Stat. 805, §1829; amended Pub. L. 98–369, div. B, title V, §2511(a), July 18, 1984, 98 Stat. 1117; Pub. L. 100–198, §§2, 10(c), Dec. 21, 1987, 101 Stat. 1315, 1323; Pub. L. 100–203, title VII, §7002, Dec. 22, 1987, 101 Stat. 1330–279; Pub. L. 100–322, title IV, §415(c)(6), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§303(a), 313(b)(1), Dec. 18, 1989, 103 Stat. 2071, 2077; Pub. L. 101–239, title V, §5001, Dec. 19, 1989, 103 Stat. 2136; Pub. L. 101–508, title VIII, §8032, Nov. 5, 1990, 104 Stat. 1388–348; Pub. L. 102–54, §15(a)(3), (4), June 13, 1991, 105 Stat. 289; renumbered §3729 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §§2(b)(1), 5, Oct. 28, 1992, 106 Stat. 3633, 3636; Pub. L. 103–66, title XII, §12007, Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title IX, §904(c), Nov. 2, 1994, 108 Stat. 4677; Pub. L. 104–275, title II, §202(b), Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–33, title VIII, §§8012, 8032, Aug. 5, 1997, 111 Stat. 664, 669; Pub. L. 105–368, title VI, §§602(e)(1)(D), 603(b), Nov. 11, 1998, 112 Stat. 3346, 3348; Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861; Pub. L. 107–14, §8(b)(4), June 5, 2001, 115 Stat. 36; Pub. L. 107–103, title IV, §§405(c), 406, Dec. 27, 2001, 115 Stat. 994.)
 
 #### Amendments
 
-2000—Pub. L. 106–419 amended text generally, substituting present provisions for provisions which established loan fee, set fee as 1.25 percent of total loan amount, with exceptions, provided that amount of fee may be included in loan amount and paid from proceeds thereof, provided for increased loan fee percentage for loans closed during specified period, provided for fees on subsequent loans and assumed loans, and provided that fees may not be collected from veterans receiving compensation or from surviving spouses of any veterans who died from service-connected disability.
+Pub. L. 107–14 made technical amendment to Pub. L. 106–419. See 2000 Amendment note below.
+
+Subsec. (b)(2). Pub. L. 107–103, §405(c), substituted “October 1, 2011” for “October 1, 2008” wherever appearing in table.
+
+Subsec. (b)(4)(B). Pub. L. 107–103, §406, inserted “who is eligible under section 3702(a)(2)(E) of this title” before period.
+
+2000—Pub. L. 106–419, as amended by Pub. L. 107–14, amended text generally, substituting present provisions for provisions which established loan fee, set fee as 1.25 percent of total loan amount, with exceptions, provided that amount of fee may be included in loan amount and paid from proceeds thereof, provided for increased loan fee percentage for loans closed during specified period, provided for fees on subsequent loans and assumed loans, and provided that fees may not be collected from veterans receiving compensation or from surviving spouses of any veterans who died from service-connected disability.
 
 1998—Subsec. (a)(1). Pub. L. 105–368, §602(e)(1)(D)(ii), substituted “(c)” for “(c)(1)”.
 
-Subsec. (a)(4). Pub. L. 105–368, §603(b), designated existing provisions as subpar. (A), substituted “duringthe period specified in subparagraph (B)” for “after September 30, 1993, and before October 1, 2002,”, and added subpar. (B).
+Subsec. (a)(4). Pub. L. 105–368, §603(b), designated existing provisions as subpar. (A), substituted “during the period specified in subparagraph (B)” for “after September 30, 1993, and before October 1, 2002,”, and added subpar. (B).
 
 Subsec. (c). Pub. L. 105–368, §603(e)(1)(D)(i), struck out “(1)” before “A fee may not” and struck out pars. (2) and (3) which read as follows:
 
@@ -156,6 +162,10 @@ Subsec. (d). Pub. L. 100–198, §10(c), added subsec. (d).
 
 Subsecs. (c), (d). Pub. L. 98–367, §2511(a)(2), (3), redesignated subsec. (d) as (c) and substituted “September 30, 1987” for “September 30, 1985”. Former subsec. (c), which related to deposit of fees collected under this section into Treasury as miscellaneous receipts, was struck out.
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–14, §8(b), June 5, 2001, 115 Stat. 34, provided that the amendment made by section 8(b) is effective Nov. 1, 2000, and as if included in the Veterans Benefits and Health Care Improvement Act of 2000, Pub. L. 106–419, as enacted.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
@@ -168,7 +178,7 @@ Section 303(b) of Pub. L. 101–237 provided that: “The amendments made by thi
 
 Section 2511(c) of Pub. L. 98–369 provided that:
 
-“(1) The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect toloans closed after the end of the 30-day period beginning on the date of the enactment of this Act \[July 18, 1984\].
+“(1) The amendments made by subsection (a)(1) \[amending this section\] shall apply with respect to loans closed after the end of the 30-day period beginning on the date of the enactment of this Act \[July 18, 1984\].
 
 “(2) The amendments made by subsections (a)(2) and (b) \[amending this section and section 1824 \[now 3724\] of this title\] shall apply with respect to loans closed on or after the date of the enactment of this Act \[July 18, 1984\].
 
@@ -216,5 +226,5 @@ Pub. L. 99–576, title IV, §409, Oct. 28, 1986, 100 Stat. 3283, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3703, 3722, 3734, 3735 of this title.
+This section is referred to in sections 2041, 3703, 3722, 3734 of this title.
 

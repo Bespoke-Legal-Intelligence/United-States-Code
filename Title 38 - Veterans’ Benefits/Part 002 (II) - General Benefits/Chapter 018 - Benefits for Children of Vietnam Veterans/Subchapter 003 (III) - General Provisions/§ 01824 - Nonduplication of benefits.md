@@ -22,5 +22,5 @@ Prior sections 1826 to 1832 were renumbered sections 3726 to 3732 of this title,
 
 Another prior section 1832 was renumbered section 3733(d) of this title.
 
-Prior sections 1833 to 1835 and 1841 to 1851 were renumbered sections 3733 to 3735 and 3741 to 3751 of this title, respectively.
+Prior sections 1833, 1834, 1835 and 1841 to 1851 were renumbered sections 3733, 3734, 2041, and 3741 to 3751 of this title, respectively.
 

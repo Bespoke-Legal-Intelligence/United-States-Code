@@ -136,7 +136,7 @@ Pub. L. 100–322, title III, §331(a)(2), (b)(2), May 20, 1988, 102 Stat. 536, 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 106, 5301, 5303A of this title.
+This chapter is referred to in sections 101, 106, 5301, 5303A, 5313B of this title.
 
 
 ---

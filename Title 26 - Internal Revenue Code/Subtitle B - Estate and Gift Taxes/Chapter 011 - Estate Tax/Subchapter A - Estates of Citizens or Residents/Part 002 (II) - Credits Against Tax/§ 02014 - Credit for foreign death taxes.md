@@ -68,7 +68,7 @@ For purposes of the credits authorized by this section, each possession of the U
 
 Whenever the President finds that—
 
-&emsp;(1) a foreign country, in imposing estate, inheritance, legacy, or succession taxes, does not allow to citizens of the United States resident in such foreign country at the time ofdeath a credit similar to the credit allowed under subsection (a),
+&emsp;(1) a foreign country, in imposing estate, inheritance, legacy, or succession taxes, does not allow to citizens of the United States resident in such foreign country at the time of death a credit similar to the credit allowed under subsection (a),
 
 &emsp;(2) such foreign country, when requested by the United States to do so has not acted to provide such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death, and
 
@@ -76,7 +76,11 @@ Whenever the President finds that—
 
 > the President shall proclaim that, in the case of citizens or subjects of such foreign country dying while the proclamation remains in effect, the credit under subsection (a) shall be allowed only if such foreign country allows such a similar credit in the case of citizens of the United States resident in such foreign country at the time of death.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 378; Pub. L. 85–866, title I, §102(c)(2), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §2, Aug. 21, 1959, 73 Stat. 397; Pub. L. 89–809, title I, §106(b)(3), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(G), Oct. 4, 1976, 90 Stat. 1834, 1852.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 378; Pub. L. 85–866, title I, §102(c)(2), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §2, Aug. 21, 1959, 73 Stat. 397; Pub. L. 89–809, title I, §106(b)(3), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(G), Oct. 4, 1976, 90 Stat. 1834, 1852; Pub. L. 107–16, title V, §532(c)(3), June 7, 2001, 115 Stat. 74.)
+
+#### Amendment of Subsection (b)(2)
+
+<i>Pub. L. 107–16, title V, §532(c)(3), (d), title IX, §901, June 7, 2001, 115 Stat. 74, 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (b)(2) of this section is temporarily amended by striking out “, 2011,” after “sections 2010”. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -91,6 +95,12 @@ Subsec. (h). Pub. L. 89–809 added subsec. (h).
 <b>1959</b>—Subsecs. (f), (g). Pub. L. 86–175 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>1958</b>—Subsec. (f). Pub. L. 85–866 added subsec. (f).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1966 Amendment
 

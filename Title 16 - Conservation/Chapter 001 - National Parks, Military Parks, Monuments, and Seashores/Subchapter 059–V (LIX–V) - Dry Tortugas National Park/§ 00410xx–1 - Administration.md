@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, and 4 of this title.
+The Secretary shall administer the park in accordance with this subchapter and with the provisions of law generally applicable to units ofthe national park system, including sections 1, 2, 3, and 4 of this title.
 
 #### (b) Management purposes
 

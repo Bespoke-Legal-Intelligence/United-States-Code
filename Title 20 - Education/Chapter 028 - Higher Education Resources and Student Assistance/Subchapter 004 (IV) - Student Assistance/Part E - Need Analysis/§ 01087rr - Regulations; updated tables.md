@@ -24,13 +24,13 @@
 
 For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of adjusted net worth of a farm or business for purposes of sections 1087<i>oo</i>(d)(2)(C), 1087pp(c)(2)(C), and 1087qq(c)(2)(C) of this title. Such revised table shall be developed—
 
-&emsp;(1) by increasing each dollar amount that refers to net worth of a farm or business by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 1992 and the December next preceding the beginning of such award year, and rounding the result to the nearest $5,000; and
+&emsp;(1) by increasing each dollar amount that refers to net worth of a farm or business by apercentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 1992 and the December next preceding the beginning of such award year, and rounding the result to the nearest $5,000; and
 
 &emsp;(2) by adjusting the dollar amounts “$30,000”, “$105,000”, and “$195,000” to reflect the changes made pursuant to paragraph (1).
 
 #### (d) Education savings and asset protection allowance
 
-For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of allowances for the purpose of sections 1087<i>oo</i>(d)(3), 1087pp(c)(3), and 1087qq(c)(3) of this title. Such revised table shall be developed by determining the present value cost, rounded to the nearest $100, of an annuity that would provide, for each age cohort of 40 and above, a supplemental income at age 65 (adjusted for inflation) equal to the difference between the moderate family income (as most recently determined by the Bureau of Labor Statistics), and the current average social security retirement benefits. For each age cohortbelow 40, the allowance shall be computed by decreasing the allowance for age 40, as updated, by one-fifteenth for each year of age below age 40 and rounding the result to the nearest $100. In making such determinations—
+For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of allowances for the purpose of sections 1087<i>oo</i>(d)(3), 1087pp(c)(3), and 1087qq(c)(3) of this title. Such revised table shall be developed by determining the present value cost, rounded to the nearest $100, of an annuity that would provide, for each age cohort of 40 and above, a supplemental income at age 65 (adjusted for inflation) equal to the difference between the moderate family income (as most recently determined by the Bureau of Labor Statistics), and the current average social security retirement benefits. For each age cohort below 40, the allowance shall be computed by decreasing the allowance for age 40, as updated, by one-fifteenth for each year of age below age 40 and rounding the result to the nearest $100. In making such determinations—
 
 &emsp;(1) inflation shall be presumed to be 6 percent per year;
 

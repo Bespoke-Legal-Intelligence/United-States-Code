@@ -36,7 +36,7 @@ The term “unserviceable firearm” means a firearm which is incapable of disch
 
 #### (i) Make
 
-The term “make”, and the various derivatives of such word, shall include manufacturing (otherthan by one qualified to engage in such business under this chapter), putting together, altering, any combination of these, or otherwise producing a firearm.
+The term “make”, and the various derivatives of such word, shall include manufacturing (other than by one qualified to engage in such business under this chapter), putting together, altering, any combination of these, or otherwise producing a firearm.
 
 #### (j) Transfer
 

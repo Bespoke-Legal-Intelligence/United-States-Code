@@ -13,10 +13,13 @@
 | [8075\.](%C2%A7%2008075%20-%20Regular%20Air%20Force%20composition.md) | Regular Air Force: composition. |
 | \[8076 to 8080. Repealed.\] |  |
 | [8081\.](%C2%A7%2008081%20-%20Assistant%20Surgeon%20General%20for%20Dental%20Services.md) | Assistant Surgeon General for Dental Services. |
+| [8084\.](%C2%A7%2008084%20-%20Officer%20career%20field%20for%20space.md) | Officer career field for space. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title IX, §912(b), Dec. 28, 2001, 115 Stat. 1196, added item 8084.
 
 1997—Pub. L. 105–85, div. A, title X, §1073(a)(66), Nov. 18, 1997, 111 Stat. 1904, substituted “nurses” for “Nurse Corps” in item 8069.
 
@@ -52,3 +55,4 @@ Pub. L. 96–343, §12(b)(2), Sept. 8, 1980, 94 Stat. 1131, substituted “Gener
 - [&sect; 08075 - Regular Air Force composition](%C2%A7%2008075%20-%20Regular%20Air%20Force%20composition.md)
 - [&sect; 08076 to 8080 - Repealed. Pub. L. 103&#8211;337, div. A, title XVI, &sect;1661(a)(3)(A), Oct. 5, 1994, 108 Stat. 2980](%C2%A7%2008076%20to%208080%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93337%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71661%28a%29%283%29%28A%29%2C%20Oct.%205%2C%201994%2C%20108%20Stat.%202980.md)
 - [&sect; 08081 - Assistant Surgeon General for Dental Services](%C2%A7%2008081%20-%20Assistant%20Surgeon%20General%20for%20Dental%20Services.md)
+- [&sect; 08084 - Officer career field for space](%C2%A7%2008084%20-%20Officer%20career%20field%20for%20space.md)

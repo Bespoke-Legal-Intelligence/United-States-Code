@@ -12,7 +12,7 @@ Whenever any invention is made in the performance of any work under any contract
 
 #### (b) Contract provisions for furnishing reports of inventions, discoveries, improvements, or innovations
 
-Each contract entered into by the Administrator with any party for the performance of any work shall contain effective provisions under which such party shall furnish promptly to the Administrator a written report containing full and complete technical information concerning any invention, discovery, improvement, or innovation which may be made in the performance of any such work.
+Each contract entered into by the Administrator with any party for the performance of any work shall contain effective provisions under which such party shall furnish promptlyto the Administrator a written report containing full and complete technical information concerning any invention, discovery, improvement, or innovation which may be made in the performance of any such work.
 
 #### (c) Patent application
 

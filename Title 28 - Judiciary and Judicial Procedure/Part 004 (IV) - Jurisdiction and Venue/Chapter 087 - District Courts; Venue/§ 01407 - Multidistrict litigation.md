@@ -200,7 +200,7 @@ The pendency of a motion, order to show cause, conditional transfer order or con
 
 (b) If an appeal is pending, or a notice of appeal has been filed, or leave to appeal has been sought under 28 U.S.C. §1292(b) or a petition for an extraordinary writ is pending, in any action included in an order of transfer under 28 U.S.C. §1407, and the original file or parts thereof have been forwarded to the court of appeals, the clerk of the transferor district court shall notify the clerk of the court of appeals of the order of transfer and secure the original file long enough to prepare and transmit to the clerk of the transferee district court a certified copy of all papers contained in the original file and a certified copy of the docket sheet.
 
-(c) If the transfer order provides for the separation and simultaneous remand of any claim, cross-claim, counterclaim, or third-party claim, the clerk of the transferor district court shall retain the original file and shall prepare and transmit to the clerk of the transferee district court a certified copy of the docket sheet and copies of all papers except those relating exclusively to separated and remanded claims.
+(c) If the transfer order provides for the separation and simultaneous remand of any claim,cross-claim, counterclaim, or third-party claim, the clerk of the transferor district court shall retain the original file and shall prepare and transmit to the clerk of the transferee district court a certified copy of the docket sheet and copies of all papers except those relating exclusively to separated and remanded claims.
 
 (d) Upon receipt of an order to remand from the Clerk of the Panel, the transferee district court shall prepare and send to the clerk of the transferor district court the following:
 
@@ -294,7 +294,7 @@ Washington, D.C. 20002–8004
 
 ### Rule 6.2: Applications for Extensions of Time
 
-Any application for an extension of time to file a pleading or perform an act required by these Rules must be in writing, must request a specific number of additional days and may be acted upon by the Clerk of the Panel. Such an application will be evaluated in relation to the impact on the Panel's calendar as well as on the basis of the reasons set forth in support of the application. Any party aggrieved by the Clerk of the Panel's action on such application may submit its objections to the Panel for consideration. Absent exceptional circumstances, no extensions of time shall be granted to file a notice of opposition to either a conditional transfer order or a conditional remand order. All applications for extensions of time shall be filed and served in conformity with Rules 5.12, 5.2 and 7.1 of these Rules.
+Any application for an extension of time to file a pleading or perform an act required by these Rules must be in writing, must request a specific number of additional days and may beacted upon by the Clerk of the Panel. Such an application will be evaluated in relation to the impact on the Panel's calendar as well as on the basis of the reasons set forth in support of the application. Any party aggrieved by the Clerk of the Panel's action on such application may submit its objections to the Panel for consideration. Absent exceptional circumstances, no extensions of time shall be granted to file a notice of opposition to either a conditional transfer order or a conditional remand order. All applications for extensions of time shall be filed and served in conformity with Rules 5.12, 5.2 and 7.1 of these Rules.
 
 (As amended June 14, 1988, eff. July 6, 1988; May 3, 1993, eff. July 1, 1993; Sept. 1, 1998, eff. Nov. 2, 1998.)
 
@@ -332,7 +332,7 @@ Any application for an extension of time to file a pleading or perform an act re
 
 (a) All requests for action by the Panel under 28 U.S.C. §1407 shall be made by written motion. Every motion shall be accompanied by:
 
-&emsp;(i) a brief in support thereof in which the background of the litigation and factual andlegal contentions of the movant shall be concisely stated in separate portions of the brief with citation of applicable authorities; and
+&emsp;(i) a brief in support thereof in which the background of the litigation and factual and legal contentions of the movant shall be concisely stated in separate portions of the brief with citation of applicable authorities; and
 
 &emsp;(ii) a schedule giving
 
@@ -440,7 +440,7 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 
 (f) Conditional Remand Orders
 
-&emsp;(i) When the Panel has been advised by the transferee district judge, or otherwise has reason to believe, that pretrial proceedings in the litigation assigned to the transferee district judge are concluded or that remand of an action or actions is otherwise appropriate, an order may be entered by the Clerk of thePanel remanding the action or actions to the transferor district court. The Clerk of the Panel shall serve this order on each party to the litigation but, in order to afford all parties the opportunity to oppose remand, shall not send the order to the clerk of the transferee district court for fifteen days from the entry thereof.
+&emsp;(i) When the Panel has been advised by the transferee district judge, or otherwise has reason to believe, that pretrial proceedings in the litigation assigned to the transferee district judge are concluded or that remand of an action or actions is otherwise appropriate, an order may be entered by the Clerk of the Panel remanding the action or actions to the transferor district court. The Clerk of the Panel shall serve this order on each party to the litigation but, in order to afford all parties the opportunity to oppose remand, shall not send the order to the clerk of the transferee district court for fifteen days from the entry thereof.
 
 &emsp;(ii) Any party opposing the remand shall file a notice of opposition with the Clerk of the Panel within the fifteen-day period. If a notice of opposition is received by the Clerk of the Panel within this fifteen-day period, the Clerk of the Panel shall not transmit said order to the clerk of the transferee district court until further order of the Panel. The Clerk of the Panel shall notify the parties of the briefing schedule.
 
@@ -458,7 +458,7 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 
 (a) Hearing sessions of the Panel for the presentation of oral argument and consideration of matters taken under submission without oral argument shall be held as ordered by the Panel. The Panel shall convene whenever and wherever desirable or necessary in the judgment of the Chairman. The Chairman shall determine which matters shall be considered at each hearing session and the Clerk of the Panel shall give notice to counsel for all parties involved in the litigation to be so considered of the time, place and subject matter of such hearing session.
 
-(b) Each party filing a motion or a response to a motion or order of the Panel under Rules 7.2, 7.3, 7.4 or 7.6 of these Rules may file simultaneously therewith a separate statement limited to one page setting forth reasons why oral argument should, or need not, be heard. Such statements shall be captioned “Reasons Why Oral Argument Should \[Need Not\] Be Heard,” and shall be filed and served in conformity with Rules 5.12 and 5.2 of these Rules.
+(b) Each party filing a motion or a response to a motion or order of the Panel under Rules 7.2,7.3, 7.4 or 7.6 of these Rules may file simultaneously therewith a separate statement limited to one page setting forth reasons why oral argument should, or need not, be heard. Such statements shall be captioned “Reasons Why Oral Argument Should \[Need Not\] Be Heard,” and shall be filed and served in conformity with Rules 5.12 and 5.2 of these Rules.
 
 (c) No transfer or remand determination regarding any action pending in the district court shall be made by the Panel when any party timely opposes such transfer or remand unless a hearing session has been held for the presentation of oral argument except that the Panel may dispense with oral argument if it determines that:
 

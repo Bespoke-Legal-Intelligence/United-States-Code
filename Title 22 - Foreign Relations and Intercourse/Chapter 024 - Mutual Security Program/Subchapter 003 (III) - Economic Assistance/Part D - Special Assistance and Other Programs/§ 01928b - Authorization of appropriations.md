@@ -1,14 +1,16 @@
 ### §1928b. Authorization of appropriations
 
-There is authorized to be appropriated annually (1) for the annual contribution of the United States toward the maintenance of the NATO Parliamentary Assembly, such sum as may be agreed upon by the United States Group and approved by such Assembly, but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions made for that year by all members of the NATO Parliamentary Treaty Organization toward the maintenance of such Assembly, and (2) $100,000, $50,000 for the House delegation and $50,000 for the Senate delegation, or so much thereof as may be necessary, to assist in meeting the expenses of the United States Group of the NATO Parliamentary Assembly for each fiscal year for which an appropriation is made, such appropriation to be dispersed on voucher to be approved by the Chairman of the House delegation and the Chairman of the Senate delegation.
+There is authorized to be appropriated annually (1) for the annual contribution of the United States toward the maintenance of the NATO Parliamentary Assembly, such sum as may be agreed upon by the United States Group and approved by such Assembly, but in no event to exceed for any year an amount equal to 25 per centum of the total annual contributions made for that year by all members of the NATO Parliamentary Treaty Organization toward the maintenance of such Assembly, and (2) $200,000, $100,000 for the House delegation and $100,000 for the Senate delegation, or so much thereof as may be necessary, to assist in meeting the expenses of the United States Group of the NATO Parliamentary Assembly for each fiscal year for which an appropriation is made, such appropriation to be dispersed on voucher to be approved by the Chairman of the House delegation and the Chairman of the Senate delegation.
 
-(July 11, 1956, ch. 562, §2, 70 Stat. 523; Pub. L. 85–477, ch. V, §502(d), June 30, 1958, 72 Stat. 273; Pub. L. 90–137, pt. IV, §401(a), Nov. 14, 1967, 81 Stat. 463; Pub. L. 92–226, pt. IV, §405, Feb. 7, 1972, 86 Stat. 34; Pub. L. 100–202, §101(a) \[title III, §303\], Dec. 22, 1987, 101 Stat. 1329, 1329–23; Pub. L. 100–204, title VII, §744(b), Dec. 22, 1987, 101 Stat. 1396; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459.)
+(July 11, 1956, ch. 562, §2, 70 Stat. 523; Pub. L. 85–477, ch. V, §502(d), June 30, 1958, 72 Stat. 273; Pub. L. 90–137, pt. IV, §401(a), Nov. 14, 1967, 81 Stat. 463; Pub. L. 92–226, pt. IV, §405, Feb. 7, 1972, 86 Stat. 34; Pub. L. 100–202, §101(a) \[title III, §303\], Dec. 22, 1987, 101 Stat. 1329, 1329–23; Pub. L. 100–204, title VII, §744(b), Dec. 22, 1987, 101 Stat. 1396; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459; Pub. L. 107–77, title IV, §408(b)(1), Nov. 28, 2001, 115 Stat. 790.)
 
 #### Codification
 
 This section was not enacted as part of the Mutual Security Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+2001—Pub. L. 107–77 substituted “$200,000” for “$100,000” and substituted “$100,000” for “$50,000” in two places.
 
 1999—Pub. L. 106–113 substituted “NATO Parliamentary Assembly” for “North Atlantic Assembly” in two places.
 
@@ -36,7 +38,7 @@ Annual appropriations to meet the obligations of membership in various internati
 
 #### Authorization of Appropriations for Expenses of 1959 Annual Meeting of North Atlantic Treaty Parliamentary Conference
 
-Section 702 of Pub. L. 86–108, ch. VII, July 24, 1959, 73 Stat. 258, authorized appropriations for expenses of 1959 annual meeting of North Atlantic Treaty Parliamentary Conference, prior to repeal by Pub. L. 87–195, pt. III, §642(a)(7), Sept. 4, 1961, 75 Stat. 460.
+Section 702 of Pub. L. 86–108, ch. VII, July 24, 1959, 73 Stat. 258, authorized appropriations for expenses of 1959annual meeting of North Atlantic Treaty Parliamentary Conference, prior to repeal by Pub. L. 87–195, pt. III, §642(a)(7), Sept. 4, 1961, 75 Stat. 460.
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ Nothing in this subchapter shall be construed as affecting any property rights o
 
 #### (e) Public lands
 
-Nothing in this subchapter shall be construed as in any way diminishing the Secretary's or the Bureau of Land Management's authorities, rights, or responsibilities for managing the public lands within the Acquisition Planning District.
+Nothing in this subchapter shall be construed as in any way diminishing the Secretary's or theBureau of Land Management's authorities, rights, or responsibilities for managing the public lands within the Acquisition Planning District.
 
 #### (f) Coordinated management
 

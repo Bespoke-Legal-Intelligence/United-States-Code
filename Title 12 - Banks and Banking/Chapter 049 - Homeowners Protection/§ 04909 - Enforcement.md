@@ -34,7 +34,7 @@ In carrying out its enforcement activities under this section, each agency refer
 
 &emsp;(2) with respect to each such failure to comply, require the mortgagee or servicer, as applicable, to correct the account of the mortgagor to reflect the date on which the mortgage insurance should have been canceled or terminated under this chapter; and
 
-&emsp;(3) require the mortgagee or servicer, as applicable, to reimburse the mortgagor in an amount equal to the total unearned premiums paid by the mortgagor after the date on which the obligation to pay those premiums ceased under this chapter.
+&emsp;(3) require the mortgagee or servicer, as applicable, to reimburse the mortgagor in an amount equal to the total unearned premiumspaid by the mortgagor after the date on which the obligation to pay those premiums ceased under this chapter.
 
 (Pub. L. 105–216, §10, July 29, 1998, 112 Stat. 907.)
 

@@ -26,7 +26,7 @@ July 23, 1965, Pub. L. 89–81, §102, 79 Stat. 255.
 
 R.S. §3584.
 
-The words “All . . . regardless of when coined or issued” are omitted as unnecessary because of the restatement. The word “debts” is substituted for “debts,public and private” to eliminate unnecessary words. The words “public charges, taxes, duties, and dues” are omitted as included in “debts”.
+The words “All . . . regardless of when coined or issued” are omitted as unnecessary because of the restatement. The word “debts” is substituted for “debts, public and private” to eliminate unnecessary words. The words “public charges, taxes, duties, and dues” are omitted as included in “debts”.
 
 #### 1983 Act
 

@@ -28,7 +28,7 @@
 
 #### (b) Satisfactory repayment arrangements to renew eligibility
 
-Each guaranty agency shall establish a program which allows a borrower with a defaulted loan or loans to renew eligibility for all title IV student financial assistance (regardless of whether the defaulted loan has been sold to an eligible lender) upon the borrower's payment of 6 consecutive monthly payments. The guaranty agency shall not demand from a borrower as a monthly payment amount under this subsection more than is reasonable and affordable based upon the borrower's total financial circumstances. A borrower may only obtain the benefitof this subsection with respect to renewed eligibility once.
+Each guaranty agency shall establish a program which allows a borrower with a defaulted loan or loans to renew eligibility for all title IV student financial assistance (regardless of whether the defaulted loan has been sold to an eligible lender) upon the borrower's payment of 6 consecutive monthly payments. The guaranty agency shall not demand from a borrower as a monthly payment amount under this subsection more than is reasonable and affordable based upon the borrower's total financial circumstances. A borrower may only obtain the benefit of this subsection with respect to renewed eligibility once.
 
 (Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §421, Oct. 7, 1998, 112 Stat. 1696.)
 

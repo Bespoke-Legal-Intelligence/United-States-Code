@@ -2,11 +2,11 @@
 
 (a)
 
-Designating Agents.—(1) Each air carrier and foreign air carrier shall designate an agent on whom service of notice and process in a proceeding before, and an action of, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may be made.
+Designating Agents.—(1) Each air carrier and foreign air carrier shall designate an agent on whom service of notice and process in a proceeding before, and an action of, the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may be made.
 
 (2) The designation—
 
-&emsp;(A) shall be in writing and filed with the Secretary or Administrator; and
+&emsp;(A) shall be in writing and filed with the Secretary, Under Secretary, or Administrator; and
 
 &emsp;(B) may be changed in the same way as originally made.
 
@@ -24,9 +24,9 @@ Service.—(1) Service may be made—
 
 (c)
 
-Serving Agents.—Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary or Administrator.
+Serving Agents.—Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Under Secretary, or Administrator.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1227.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1227; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001, 115 Stat. 641.)
 
 Historical and Revision Notes
 
@@ -85,4 +85,12 @@ In subsection (b)(1)(C), the word “addressed” is omitted as surplus.
 In subsection (b)(2), the word “date” is substituted for “time” for clarity and consistency.
 
 In subsection (c), the words “with like effect as if made personally upon such carrier” are omitted as surplus.
+
+#### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+
+Subsec. (a)(2)(A). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
+
+Subsec. (c). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator”.
 

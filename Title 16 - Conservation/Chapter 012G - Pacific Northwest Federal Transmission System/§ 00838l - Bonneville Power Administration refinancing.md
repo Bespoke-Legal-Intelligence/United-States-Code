@@ -44,7 +44,7 @@ For the purposes of this section—
 
 #### (2) Determination
 
-&emsp;With the approval of the Secretary of the Treasury based solely on consistency with thissection, the Administrator shall determine the new principal amounts under subsection (b) of this section and the assignment of interest rates to the new principal amounts under subsection (c) of this section.
+&emsp;With the approval of the Secretary of the Treasury based solely on consistency with this section, the Administrator shall determine the new principal amounts under subsection (b) of this section and the assignment of interest rates to the new principal amounts under subsection (c) of this section.
 
 #### (3) Old payment amounts
 
@@ -110,7 +110,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 &emsp;&emsp;(C) any payment of principal of an old capital investment shall reduce the outstanding principal balance of the old capital investment in the amount of the payment at the time the payment is tendered; and
 
-&emsp;&emsp;(D) any payment of interest on the unpaid balance of the new principal amount of an old capital investment shall be a creditagainst the appropriate interest account in the amount of the payment at the time the payment is tendered;
+&emsp;&emsp;(D) any payment of interest on the unpaid balance of the new principal amount of an old capital investment shall be a credit against the appropriate interest account in the amount of the payment at the time the payment is tendered;
 
 &emsp;(2) apart from charges necessary to repay the new principal amount of an old capital investment as established under subsection (b) of this section and to pay the interest on the principal amount under subsection (c) of this section, no amount may be charged for return to the United States Treasury as repayment for or return on an old capital investment, whether by way of rate, rent, lease payment, assessment, user charge, or any other fee;
 
@@ -130,7 +130,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 #### (1) Repayment
 
-&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and to pay interest on the principal, only from the “Administrator's net proceeds,” as defined in section 838h(b) of this title.
+&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and to pay interest on the principal, only from the “Administrator's net proceeds,” as defined in section 838k(b) of this title.
 
 #### (2) Payment of capital investment
 

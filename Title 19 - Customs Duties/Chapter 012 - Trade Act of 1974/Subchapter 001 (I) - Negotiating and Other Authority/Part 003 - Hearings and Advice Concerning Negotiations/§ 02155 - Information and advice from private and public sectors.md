@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(ii) with respect to implementation of trade agreements, and
 
-&emsp;(B) shall include as members of committees established under subparagraph (A) representatives of non-Federal governmental interests if he finds such inclusion appropriate after consultation by the United States Trade Representative with such representatives.
+&emsp;(B) shall include as members of committees established under subparagraph (A) representatives of non-Federal governmental interestsif he finds such inclusion appropriate after consultation by the United States Trade Representative with such representatives.
 
 (4) Appointments to each committee established under paragraph (1), (2), or (3) shall be made without regard to political affiliation.
 
@@ -82,7 +82,7 @@ The provisions of the Federal Advisory Committee Act apply—
 
 &emsp;(1) to the Advisory Committee for Trade Policy and Negotiations established under subsection (b) of this section; and
 
-&emsp;(2) to all other advisory committees which may be established under subsection (c) of this section; except that the meetings of advisorycommittees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or his designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section.
+&emsp;(2) to all other advisory committees which may be established under subsection (c) of this section; except that the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or his designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section.
 
 #### (g) Trade secrets and confidential information
 
@@ -120,7 +120,7 @@ It shall be the responsibility of the United States Trade Representative, in con
 
 #### (j) Private organizations or groups
 
-In addition to any advisory committee established under this section, the President shall provide adequate, timely and continuing opportunity for the submission on an informal basis (and, if such information is submitted under the provisions of subsection (g) of this section, on a confidential basis) by private organizations orgroups, representing government, labor, industry, agriculture, small business, service industries, consumer interests, and others, of statistics, data and other trade information, as well as policy recommendations, pertinent to any matter referred to in subsection (a) of this section.
+In addition to any advisory committee established under this section, the President shall provide adequate, timely and continuing opportunity for the submission on an informal basis (and, if such information is submitted under the provisions of subsection (g) of this section, on a confidential basis) by private organizations or groups, representing government, labor, industry, agriculture, small business, service industries, consumer interests, and others, of statistics, data and other trade information, as well as policy recommendations, pertinent to any matter referred to in subsection (a) of this section.
 
 #### (k) Scope of participation by members of advisory committees
 
@@ -250,7 +250,9 @@ Term of Trade and Environment Policy Committee extended until Sept. 30, 1997, by
 
 Term of Trade and Environment Policy Committee extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(<i>o</i>), Sept. 29, 1997, 62 F.R. 51755, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of Trade and Environment Policy Committee extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Committee extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of Trade and Environment Policy Committee extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 #### Section Referred to in Other Sections
 

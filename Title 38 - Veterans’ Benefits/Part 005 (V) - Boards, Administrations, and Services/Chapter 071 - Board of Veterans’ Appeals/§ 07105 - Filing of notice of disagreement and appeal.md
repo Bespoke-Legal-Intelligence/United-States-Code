@@ -2,7 +2,7 @@
 
 (a) Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case is furnished as prescribed in this section. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
 
-(b)(1) Except in the case of simultaneously contested claims, notice of disagreement shall be filed within one year from the date of mailing of notice of the result of initial review or determination. Such notice, and appeals, must be in writing and be filed with the activity which entered the determination with which disagreement is expressed (hereafter referred to as the “agency of original jurisdiction”). A notice of disagreement postmarked before the expiration of the one-year period will be accepted as timely filed.
+(b)(1) Except in the case of simultaneously contested claims, notice of disagreement shall be filed within one year from the date of mailing of notice of the result of initial review or determination. Such notice, and appeals, must be in writing and be filed with the activity which entered the determination with which disagreement is expressed (hereinafter referred to as the “agency of original jurisdiction”). A notice of disagreement postmarked before the expiration of the one-year period will be accepted as timely filed.
 
 (2) Notices of disagreement, and appeals, must be in writing and may be filed by the claimant, the claimant's legal guardian, or such accredited representative, attorney, or authorized agent as may be selected by the claimant or legal guardian. Not more than one recognized organization, attorney, or agent will be recognized at any one time in the prosecution of a claim.
 
@@ -24,9 +24,11 @@
 
 (5) The Board of Veterans’ Appeals may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed.
 
-(Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553, §4005; amended Pub. L. 99–576, title VII, §701(85), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title II, §§203(b), 206, Nov. 18, 1988, 102 Stat. 4111; renumbered §7105 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 87–666, §1, Sept. 19, 1962, 76 Stat. 553, §4005; amended Pub. L. 99–576, title VII, §701(85), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title II, §§203(b), 206, Nov. 18, 1988, 102 Stat. 4111; renumbered §7105 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35.)
 
 #### Amendments
+
+2001—Subsec. (b)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
 1991—Pub. L. 102–40, §402(b)(1), renumbered section 4005 of this title as this section.
 

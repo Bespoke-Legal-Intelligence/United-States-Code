@@ -2,7 +2,7 @@
 
 #### (a) Existing water quality standards
 
-(1) In order to carry out the purpose of this chapter, any water quality standard applicable to interstate waters which was adopted by any State and submitted to, and approved by, or is a waiting approval by, the Administrator pursuant to this Act as in effect immediately prior to October 18, 1972, shall remain in effect unless the Administrator determined that such standard is not consistent with the applicable requirements of this Act as in effect immediately prior to October 18, 1972. If the Administrator makes such a determination he shall, within three months after October 18, 1972, notify the State and specify the changes needed to meet such requirements. If such changes are not adopted by the State within ninety days after the date of such notification, the Administrator shall promulgate such changes in accordance with subsection (b) of this section.
+(1) In order to carry out the purpose of this chapter, any water quality standard applicable to interstate waters which was adopted by any State and submitted to, and approved by, or is awaiting approval by, the Administrator pursuant to this Act as in effect immediately prior to October 18, 1972, shall remain in effect unless the Administrator determined that such standard is not consistent with the applicable requirements of this Act as in effect immediately prior to October 18, 1972. If the Administrator makes such a determination he shall, within three months after October 18, 1972, notify the State and specify the changes needed to meet such requirements. If such changes are not adopted by the State within ninety days after the date of such notification, the Administrator shall promulgate such changes in accordance with subsection (b) of this section.
 
 (2) Any State which, before October 18, 1972, has adopted, pursuant to its own law, water quality standards applicable to intrastate waters shall submit such standards to the Administrator within thirty days after October 18, 1972. Each such standard shall remain in effect, in the same manner and to the same extent as any other water quality standard established under this chapter unless the Administrator determines that such standard is inconsistent with the applicable requirements of this Act as in effect immediately prior to October 18, 1972. If the Administrator makes such a determination he shall not later than the one hundred and twentieth day after the date of submission of such standards, notify the State and specify the changes needed to meet such requirements. If such changes are not adopted by the State within ninety days after such notification, the Administrator shall promulgate such changes in accordance with subsection (b) of this section.
 
@@ -34,7 +34,7 @@
 
 (4) The Administrator shall promptly prepare and publish proposed regulations setting forth a revised or new water quality standard for the navigable waters involved—
 
-&emsp;(A) if a revised or new water quality standard submitted by such State under paragraph\(3) of this subsection for such waters is determined by the Administrator not to be consistent with the applicable requirements of this chapter, or
+&emsp;(A) if a revised or new water quality standard submitted by such State under paragraph (3) of this subsection for such waters is determined by the Administrator not to be consistent with the applicable requirements of this chapter, or
 
 &emsp;(B) in any case where the Administrator determines that a revised or new standard is necessary to meet the requirements of this chapter.
 
@@ -46,7 +46,7 @@
 
 (B) Each State shall identify those waters or parts thereof within its boundaries for which controls on thermal discharges under section 1311 of this title are not stringent enough to assure protection and propagation of a balanced indigenous population of shellfish, fish, and wildlife.
 
-(C) Each State shall establish for the waters identified in paragraph (1)(A) of this subsection, and in accordance with the priority ranking, the total maximum daily load, for those pollutants which the Administrator identifies under section 1314(a)(2) of this title as suitable for such calculation. Such load shall be established at a level necessary to implement the applicable water quality standards with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality.
+(C) Each State shall establish for the waters identified in paragraph (1)(A) of this subsection,and in accordance with the priority ranking, the total maximum daily load, for those pollutants which the Administrator identifies under section 1314(a)(2) of this title as suitable for such calculation. Such load shall be established at a level necessary to implement the applicable water quality standards with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality.
 
 (D) Each State shall estimate for the waters identified in paragraph (1)(B) of this subsection the total maximum daily thermal load required to assure protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife. Such estimates shall take into account the normal water temperatures, flow rates, seasonal variations, existing sources of heat input, and the dissipative capacity of the identified waters or parts thereof. Such estimates shall include a calculation of the maximum heat input that can be made into each such part and shall include a margin of safety which takes into account any lack of knowledge concerning the development of thermal water quality criteria for such protection and propagation in the identified waters or parts thereof.
 
@@ -70,7 +70,7 @@ Standard attained.—For waters identified under paragraph (1)(A) where the qual
 
 (1) Each State shall have a continuing planning process approved under paragraph (2) of this subsection which is consistent with this chapter.
 
-(2) Each State shall submit not later than 120 days after October 18, 1972, to the Administratorfor his approval a proposed continuing planning process which is consistent with this chapter. Not later than thirty days after the date of submission of such a process the Administrator shall either approve or disapprove such process. The Administrator shall from time to time review each State's approved planning process for the purpose of insuring that such planning process is at all times consistent with this chapter. The Administrator shall not approve any State permit program under subchapter IV of this chapter for any State which does not have an approved continuing planning process under this section.
+(2) Each State shall submit not later than 120 days after October 18, 1972, to the Administrator for his approval a proposed continuing planning process which is consistent with this chapter. Not later than thirty days after the date of submission of such a process the Administrator shall either approve or disapprove such process. The Administrator shall from time to time review each State's approved planning process for the purpose of insuring that such planning process is at all times consistent with this chapter. The Administrator shall not approve any State permit program under subchapter IV of this chapter for any State which does not have an approved continuing planning process under this section.
 
 (3) The Administrator shall approve any continuing planning process submitted to him under this section which will result in plans for all navigable waters within such State, which include, but are not limited to, the following:
 
@@ -84,7 +84,7 @@ Standard attained.—For waters identified under paragraph (1)(A) where the qual
 
 &emsp;(E) adequate authority for intergovernmental cooperation;
 
-&emsp;(F) adequate implementation, including schedules of compliance, for revised or new water quality standards, under subsection (c) of this section;
+&emsp;(F) adequate implementation, including schedules of compliance, for revised or newwater quality standards, under subsection (c) of this section;
 
 &emsp;(G) controls over the disposition of all residual waste from any water treatment processing;
 
@@ -144,5 +144,5 @@ Subsec. (d)(4). Pub. L. 100–4, §404(b), added par. (4).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1252, 1284, 1285, 1288, 1311, 1313a, 1314, 1319, 1326, 1329, 1341, 1342, 1362, 1377,1383, 1384 of this title; title 16 section 1455b; title 42 section 9621.
+This section is referred to in sections 1252, 1284, 1285, 1288, 1311, 1313a, 1314, 1319, 1326, 1329, 1341, 1342, 1362, 1377, 1383, 1384 of this title; title 16 section 1455b; title 42 section 9621.
 

@@ -4,11 +4,7 @@
 
 Any person—
 
-&emsp;(1) which is an eligible educational institution—
-
-&emsp;&emsp;(A) which receives payments for qualified tuition and related expenses with respect to any individual for any calendar year; or
-
-&emsp;&emsp;(B) which makes reimbursements or refunds (or similar amounts) to any individual of qualified tuition and related expenses;
+&emsp;(1) which is an eligible educational institution which enrolls any individual for any academic period;
 
 &emsp;(2) which is engaged in a trade or business of making payments to any individual under an insurance arrangement as reimbursements or refunds (or similar amounts) of qualified tuition and related expenses; or
 
@@ -20,25 +16,29 @@ Any person—
 
 A return is described in this subsection if such return—
 
-&emsp;(1) is in such form as the Secretary may prescribe,
+&emsp;(1) is in such form as the Secretary may prescribe, and
 
 &emsp;(2) contains—
 
-&emsp;&emsp;(A) the name, address, and TIN of the individual with respect to whom payments or interest described in subsection (a) were received from (or were paid to),
+&emsp;&emsp;(A) the name, address, and TIN of any individual—
 
-&emsp;&emsp;(B) the name, address, and TIN of any individual certified by the individual described in subparagraph (A) as the taxpayer who will claim the individual as a dependent for purposes of the deduction allowable under section 151 for any taxable year ending with or within the calendar year, and
+&emsp;&emsp;&emsp;(i) who is or has been enrolled at the institution and with respect to whom transactions described in subparagraph (B) are made during the calendar year, or
 
-&emsp;&emsp;(C) the—
+&emsp;&emsp;&emsp;(ii) with respect to whom payments described in subsection (a)(2) or (a)(3) were made or received,
 
-&emsp;&emsp;&emsp;(i) aggregate amount of payments for qualified tuition and related expenses received with respect to the individual described in subparagraph (A) during the calendar year,
+&emsp;&emsp;(B) the—
 
-&emsp;&emsp;&emsp;(ii) the amount of any grant received by such individual for payment of costs of attendance and processed by the person making such return during such calendar year,
+&emsp;&emsp;&emsp;(i) aggregate amount of payments received or the aggregate amount billed for qualified tuition and related expenses with respect to the individual described in subparagraph (A) during the calendar year,
 
-&emsp;&emsp;&emsp;(iii) aggregate amount of reimbursements or refunds (or similar amounts) paid to such individual during the calendar year by the person making such return, and and <sup>1</sup>
+&emsp;&emsp;&emsp;(ii) aggregate amount of grants received by such individual for payment of costs of attendance that are administered and processed by the institution during such calendar year,
 
-&emsp;&emsp;&emsp;(iv) aggregate amount of interest received for the calendar year from such individual, and
+&emsp;&emsp;&emsp;(iii) amount of any adjustments to the aggregate amounts reported by the institution pursuant to clause (i) or (ii) with respect to such individual for a prior calendar year,
 
-&emsp;&emsp;(D) such other information as the Secretary may prescribe.
+&emsp;&emsp;&emsp;(iv) aggregate amount of reimbursements or refunds (or similar amounts) paid to such individual during the calendar year by a person engaged in a trade or business described in subsection (a)(2), and
+
+&emsp;&emsp;&emsp;(v) aggregate amount of interest received for the calendar year from such individual, and
+
+&emsp;&emsp;(C) such other information as the Secretary may prescribe.
 
 #### (c) Application to governmental units
 
@@ -46,21 +46,21 @@ For purposes of this section—
 
 &emsp;(1) a governmental unit or any agency or instrumentality thereof shall be treated as a person, and
 
-&emsp;(2) any return required under subsection (a) by such governmental entity shall be made bythe officer or employee appropriately designated for the purpose of making such return.
+&emsp;(2) any return required under subsection (a) by such governmental entity shall be made by the officer or employee appropriately designated for the purpose of making such return.
 
 #### (d) Statements to be furnished to individuals with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return under subparagraph (A) or (B) of subsection (b)(2) a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return under subparagraph (A) of subsection (b)(2) a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
-&emsp;(2) the amounts described in subparagraph (C) of subsection (b)(2).
+&emsp;(2) the amounts described in subparagraph (B) of subsection (b)(2).
 
 > The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) was required to be made.
 
 #### (e) Definitions
 
-For purposes of this section, the terms “eligible educational institution” and “qualified tuition and related expenses” have the meanings given such terms by section 25A (without regard to subsection (g)(2) thereof), and except as provided in regulations, the term “qualified education loan” has the meaning given such term by section 221(e)(1).
+For purposes of this section, the terms “eligible educational institution” and “qualified tuition and related expenses” have the meanings given such terms by section 25A (without regard to subsection (g)(2) thereof), and except as provided in regulations, the term “qualified education loan” has the meaning given such term by section 221(d)(1).
 
 #### (f) Returns which would be required to be made by 2 or more persons
 
@@ -70,9 +70,43 @@ Except to the extent provided in regulations prescribed by the Secretary, in the
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section. No penalties shall be imposed under part II of subchapter B of chapter 68 with respect to any return or statement required under this section until such time as such regulations are issued.
 
-(Added and amended Pub. L. 105–34, title II, §§201(c)(1), 202(c), Aug. 5, 1997, 111 Stat. 804, 808; Pub. L. 105–206, title III, §3712(a), (b), title VI, §6004(a)(2), July 22, 1998, 112 Stat. 781, 792.)
+(Added and amended Pub. L. 105–34, title II, §§201(c)(1), 202(c), Aug. 5, 1997, 111 Stat. 804, 808; Pub. L. 105–206, title III, §3712(a), (b), title VI, §6004(a)(2), July 22, 1998, 112 Stat. 781, 792; Pub. L. 107–16, title IV, §412(a)(2), June 7, 2001, 115 Stat. 63; Pub. L. 107–131, §1, Jan. 16, 2002, 115 Stat. 2410.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–131, §1(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which is an eligible educational institution—
+
+&emsp;“(A) which receives payments for qualified tuition and related expenses with respect to any individual for any calendar year; or
+
+&emsp;“(B) which makes reimbursements or refunds (or similar amounts) to any individual of qualified tuition and related expenses;”.
+
+Subsec. (b)(1). Pub. L. 107–131, §1(b)(1), inserted “and” at end.
+
+Subsec. (b)(2)(A). Pub. L. 107–131, §1(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the name, address, and TIN of the individual with respect to whom payments or interest described in subsection (a) were received from (or were paid to),”.
+
+Subsec. (b)(2)(B). Pub. L. 107–131, §1(b)(4), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the—
+
+&emsp;“(i) aggregate amount of payments for qualified tuition and related expenses received with respect to the individual described in subparagraph (A) during the calendar year,
+
+&emsp;“(ii) the amount of any grant received by such individual for payment of costs of attendance and processed by the person making such return during such calendar year,
+
+&emsp;“(iii) aggregate amount of reimbursements or refunds (or similar amounts) paid to such individual during the calendar year by the person making such return, and and
+
+&emsp;“(iv) aggregate amount of interest received for the calendar year from such individual, and”.
+
+Pub. L. 107–131, §1(b)(3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “the name, address, and TIN of any individual certified by the individual described in subparagraph (A) as the taxpayer who will claim the individual as a dependent for purposes of the deduction allowable under section 151 for any taxable year ending with or within the calendar year, and”.
+
+Subsec. (b)(2)(C), (D). Pub. L. 107–131, §1(b)(3), redesignated subpars. (C) and (D) as (B) and (C), respectively.
+
+Subsec. (d). Pub. L. 107–131, §1(c)(1), struck out “or (B)” after “subparagraph (A)” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 107–131, §1(c)(2), substituted “subparagraph (B)” for “subparagraph (C)”.
+
+<b>2001</b>—Subsec. (e). Pub. L. 107–16, §§412(a)(2), 901, temporarily substituted “section 221(d)(1)” for “section 221(e)(1)”. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–206, §6004(a)(2), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Any person—
 
@@ -104,6 +138,16 @@ Subsec. (b)(2)(C)(iii). Pub. L. 105–34, §202(c)(2)(B), added cl. (iii).
 
 Subsec. (e). Pub. L. 105–34, §202(c)(3), inserted at end “, and except as provided in regulations, the term ‘qualified education loan’ has the meaning given such term by section 221(e)(1)”.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–131, §2, Jan. 16, 2002, 115 Stat. 2411, provided that: “The amendments made by section 1 \[amending this section\] shall apply to expenses paid or assessed after December 31, 2002 (in taxable years ending after such date), for education furnished in academic periods beginning after such date.”
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable with respect to any loan interest paid after Dec. 31, 2001, in taxable years ending after such date, see section 412(a)(3) ofPub. L. 107–16, set out as a note under section 221 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title III, §3712(c), July 22, 1998, 112 Stat. 782, provided that: “The amendments made by this section \[amending this section\] shall apply to returns required to be filed with respect to taxable years beginning after December 31, 1998.”
@@ -121,6 +165,4 @@ Section applicable to expenses paid after Dec. 31, 1997 (in taxable years ending
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6724 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

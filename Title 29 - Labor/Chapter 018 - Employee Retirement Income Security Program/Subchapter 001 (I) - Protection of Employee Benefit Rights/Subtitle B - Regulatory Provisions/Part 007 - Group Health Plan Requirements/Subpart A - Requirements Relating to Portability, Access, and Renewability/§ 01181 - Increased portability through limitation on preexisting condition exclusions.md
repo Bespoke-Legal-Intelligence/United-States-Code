@@ -166,7 +166,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) The employee or dependent was covered under a group health plan or had health insurance coverage at the time coverage was previously offered to the employee or dependent.
 
-&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor or issuer (if applicable) required such a statement at such time and provided the employee with notice of suchrequirement (and the consequences of such requirement) at such time.
+&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor or issuer (if applicable) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
 
 &emsp;&emsp;(C) The employee's or dependent's coverage described in subparagraph (A)—
 
@@ -252,7 +252,7 @@ The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 194
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning onand after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as a note under section 1003 of this title.
 
 #### Effective Date
 

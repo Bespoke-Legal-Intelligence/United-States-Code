@@ -1,6 +1,6 @@
 ### §436. Time when entry may be made generally
 
-After June 25, 1910, no entry shall be made and no entryman shall be permitted to go upon lands reserved for irrigation purposes until the Secretary of the Interior shall have established the unit of acreage per entry, and water is ready to be delivered for the land in such unit or somepart thereof and such fact has been announced by the Secretary of the Interior.
+After June 25, 1910, no entry shall be made and no entryman shall be permitted to go upon lands reserved for irrigation purposes until the Secretary of the Interior shall have established the unit of acreage per entry, and water is ready to be delivered for the land in such unit or some part thereof and such fact has been announced by the Secretary of the Interior.
 
 (June 25, 1910, ch. 407, §5, 36 Stat. 836; Feb. 18, 1911, ch. 111, 36 Stat. 918; Aug. 13, 1914, ch. 247, §10, 38 Stat. 689.)
 

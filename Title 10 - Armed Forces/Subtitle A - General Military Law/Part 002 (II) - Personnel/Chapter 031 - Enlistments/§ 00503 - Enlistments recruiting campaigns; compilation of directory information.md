@@ -4,7 +4,7 @@
 
 Recruiting Campaigns.—(1) The Secretary concerned shall conduct intensive recruiting campaigns to obtain enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, and Regular Coast Guard.
 
-(2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness ofrecruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armed forces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
+(2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness of recruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armed forces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
 
 (b)
 
@@ -20,71 +20,85 @@ Compilation of Directory Information.—(1) The Secretary of Defense may collect
 
 (6) Nothing in this subsection shall be construed as requiring, or authorizing the Secretary of Defense to require, that any educational institution furnish directory information to the Secretary.
 
-(c) Each local educational agency is requested to provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.
+(c)
+
+Access to Secondary Schools.—(1)(A) Each local educational agency receiving assistance under the Elementary and Secondary Education Act of 1965—
+
+&emsp;(i) shall provide to military recruiters the same access to secondary school students as is provided generally to postsecondary educational institutions or to prospective employers of those students; and
+
+&emsp;(ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, and telephone listings, notwithstanding section 444(a)(5)(B) of the General Education Provisions Act (20 U.S.C. 1232g(a)(5)(B)).
+
+(B) A local educational agency may not release a student's name, address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local education <sup>1</sup> agency shall notify parents of the rights provided under the preceding sentence.
+
+(2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
+
+(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access, the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notification and any other communication between the Secretary and that chief executive with respect to such access.
+
+(4) If a local educational agency continues to deny recruiting access one year after the date of the transmittal of a notification regarding that agency under paragraph (3), the Secretary—
+
+&emsp;(A) shall determine whether the agency denies recruiting access to at least two of the armed forces (other than the Coast Guard when it is not operating as a service in the Navy); and
+
+&emsp;(B) upon making an affirmative determination under subparagraph (A), shall transmit a notification of the denial of recruiting access to—
+
+&emsp;&emsp;(i) the specified congressional committees;
+
+&emsp;&emsp;(ii) the Senators of the State in which the local educational agency is located; and
+
+&emsp;&emsp;(iii) the member of the House of Representatives who represents the district in which the local educational agency is located.
+
+(5) The requirements of this subsection do not apply to—
+
+&emsp;(A) a local educational agency with respect to access to secondary school students or access to directory information concerning such students for any period during which there is in effect a policy of that agency, established by majority vote of the governing body of the agency, to deny recruiting access to those students or to that directory information, respectively; or
+
+&emsp;(B) a private secondary school which maintains a religious objection to service in the armed forces and which objection is verifiable through the corporate or other organizational documents or materials of that school.
+
+(6) In this subsection:
+
+&emsp;(A) The term “local educational agency” means—
+
+&emsp;&emsp;(i) a local educational agency, within the meaning of that term in section 14101 <sup>2</sup> of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801); and
+
+&emsp;&emsp;(ii) a private secondary school.
+
+&emsp;(B) The term “recruiting access” means access requested as described in paragraph (1).
+
+&emsp;(C) The term “senior executive” has the meaning given that term in section 3132(a)(3) of title 5.
+
+&emsp;(D) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
+
+&emsp;(E) The term “specified congressional committees” means the following:
+
+&emsp;&emsp;(i) The Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+&emsp;&emsp;(ii) The Committee on Armed Services and the Committee on Education and the Workforce of the House of Representatives.
+
+&emsp;(F) The term “member of the House of Representatives” includes a Delegate or Resident Commissioner to Congress.
 
 (d)
 
 Directory Information Defined.—In this section, the term “directory information” has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
 
-(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133.)
+(Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222.)
 
-#### Amendment of Subsection (c)
+#### References in Text
 
-<i>Pub. L. 106–398, §1 \[\[div. A\], title V, §563(a), (d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131, 1654A–133, provided that, effective July 1, 2002, subsection (c) of this section is amended to read as follows:</i>
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-<i>(c) ACCESS TO SECONDARY SCHOOLS</i>.—<i>(1) Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.</i>
-
-<i>(2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.</i>
-
-<i>(3) If, after a meeting under paragraph (2) with representatives of a local educational agency that has denied a request for recruiting access or (if the educational agency declines a request for the meeting) after the end of such 120-day period, the Secretary of Defense determines that the agency continues to deny recruiting access, the Secretary shall transmit to the chief executive of the State in which the agency is located a notification of the denial of recruiting access and a request for assistance in obtaining that access. The notification shall be transmitted within 60 days after the date of the determination. The Secretary shall provide to the Secretary of Education a copy of such notification and any other communication between the Secretary and that chief executive with respect to such access.</i>
-
-<i>(4) If a local educational agency continues to deny recruiting access one year after the date of the transmittal of a notification regarding that agency under paragraph (3), the Secretary—</i>
-
-&emsp;<i>(A) shall determine whether the agency denies recruiting access to at least two of the armed forces (other than the Coast Guard when it is not operating as a service in the Navy); and</i>
-
-&emsp;<i>(B) upon making an affirmative determination under subparagraph (A), shall transmit a notification of the denial of recruiting access to—</i>
-
-&emsp;&emsp;<i>(i) the specified congressional committees;</i>
-
-&emsp;&emsp;<i>(ii) the Senators of the State in which the local educational agency is located; and</i>
-
-&emsp;&emsp;<i>(iii) the member of the House of Representatives who represents the district in which the local educational agency is located.</i>
-
-<i>(5) The requirements of this subsection do not apply to—</i>
-
-&emsp;<i>(A) a local educational agency with respect to access to secondary school students or access to directory information concerning such students for any period during which there is in effect a policy of that agency, established by majority vote of the governing body of the agency, to deny recruiting access to those students or to that directory information, respectively; or</i>
-
-&emsp;<i>(B) a private secondary school which maintains a religious objection to service in the armed forces</i><i>and which objection is verifiable through the corporate or other organizational documents or materials of that school.</i>
-
-<i>(6) In this subsection:</i>
-
-&emsp;<i>(A) The term “local educational agency” means—</i>
-
-&emsp;&emsp;<i>(i) a local educational agency, within the meaning of that term in section 14101(18) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801(18)); and</i>
-
-&emsp;&emsp;<i>(ii) a private secondary school.</i>
-
-&emsp;<i>(B) The term “recruiting access” means access requested as described in paragraph (1).</i>
-
-&emsp;<i>(C) The term “senior executive” has the meaning given that term in section 3132(a)(3) of title 5.</i>
-
-&emsp;<i>(D) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.</i>
-
-&emsp;<i>(E) The term “specified congressional committees” means the following:</i>
-
-&emsp;&emsp;<i>(i) The Committee on Armed Services and the Committee on Health, Education, Labor, and Pensions of the Senate.</i>
-
-&emsp;&emsp;<i>(ii) The Committee on Armed Services and the Committee on Education and the Workforce of the House of Representatives.</i>
-
-&emsp;<i>(F) The term “member of the House of Representatives” includes a Delegate or Resident Commissioner to Congress.</i>
+Section 14101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(6)(A)(i), is section 14101 of Pub. L. 89–10, which was classified to section 8801 of Title 20, Education, prior to repeal by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. For provisions relating to definitions, see section 7801 of Title 20.
 
 #### Amendments
+
+2001—Subsec. (c)(1). Pub. L. 107–107, §544(a), reenacted section heading without change and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “Each local educational agency shall (except as provided under paragraph (5)) provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
+
+Subsec. (c)(6)(A)(i). Pub. L. 107–107, §1048(a)(5)(A), substituted “14101” for “14101(18)” and “8801” for “8801(18)”.
 
 2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(c)(1)\], inserted heading, designated existing provisions as par. (1), and added par. (2).
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(c)(2)\], inserted heading.
 
 Subsec. (b)(7). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(b)(1)\], struck out par. (7) which read as follows: “In this subsection, ‘directory information’ means, with respect to a student, the student's name, address, telephone listing, date and place of birth, level of education, degrees received, and the most recent previous educational agency or institution attended by the student.”
+
+Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(a)\], amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each local educational agency is requested to provide to the Department of Defense, upon a request made for military recruiting purposes, the same access to secondary school students, and to directory information concerning such students, as is provided generally to post-secondary educational institutions or to prospective employers of those students.”
 
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title V, §563(b)(2)\], added subsec. (d).
 
@@ -100,13 +114,23 @@ Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions a
 
 Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §544(b), Dec. 28, 2001, 115 Stat. 1113, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002, immediately after the amendment to section 503(c) of title 10, United States Code, made, effective that date, by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–131).”
+
+Pub. L. 107–107, div. A, title X, §1048(a)(5)(B), Dec. 28, 2001, 115 Stat. 1222, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect on July 1, 2002, immediately after the amendment to such section \[this section\] effective that date by section 563(a) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–131).”
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–133, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2002.”
 
+#### Notification to Local Educational Agencies
+
+Pub. L. 107–107, div. A, title V, §544(c), Dec. 28, 2001, 115 Stat. 1113, provided that: “The Secretary of Education shall provide to local educational agencies notice of the provisions of subsection (c) of section 503 of title 10, United States Code, as in effect upon the amendments made by subsection (a) \[amending this section\]. Such notice shall be provided not later than 120 days after the date of the enactment of this Act \[Dec. 28, 2001\] and shall be provided in consultation with the Secretary of Defense.”
+
 #### Army Recruiting Pilot Programs
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §561\], Oct. 30, 2000, 114 Stat. 1654, 1654A–129, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title V, §561\], Oct. 30, 2000, 114 Stat. 1654, 1654A–129, as amended by Pub. L. 107–107, div. A, title V, §543, Dec. 28, 2001, 115 Stat. 1112, provided that:
 
 “(a)
 
@@ -158,7 +182,7 @@ Outreach at Vocational Schools and Community Colleges.—(1) One of the pilot pr
 
 “(4) Under the pilot program, the Secretary shall provide for the following:
 
-&emsp;“(A) For Army recruiters to be placed in postsecondary vocational institutions and communitycolleges to serve as a resource for guidance counselors and to recruit for the Army.
+&emsp;“(A) For Army recruiters to be placed in postsecondary vocational institutions and community colleges to serve as a resource for guidance counselors and to recruit for the Army.
 
 &emsp;“(B) For Army recruiters to recruit from among students and graduates described in paragraph (1).
 
@@ -174,27 +198,27 @@ Contract Recruiting Initiatives.—(1) One of the pilot programs shall be a prog
 
 “(2) Under the pilot program, the Secretary shall provide for the following:
 
-&emsp;“(A) For replacement of the Regular Army recruiters by contract recruiters in the 10 recruiting companies selected under paragraph (1).
+&emsp;“(A) For replacement of the Regular Army and Army Reserve recruiters by contract recruiters in the 10 recruiting companies selected under paragraph (1).
 
-&emsp;“(B) For operation of the 10 companies under the same rules and chain of command as the other Army recruiting companies.
+&emsp;“(B) For operation of the 10 companies under the same rules as the other Army recruiting companies.
 
 &emsp;“(C) For use of the offices, facilities, and equipment of the 10 companies by the contract recruiters.
 
-&emsp;“(D) For reversion to performance of the recruiting activities by Regular Army soldiers in the 10 companies upon termination of the pilot program.
+&emsp;“(D) For reversion to performance of the recruiting activities by Regular Army and Army Reserve soldiers in the 10 companies upon termination of the pilot program.
 
 &emsp;“(E) For any other uses of contractor personnel for Army recruiting activities that the Secretary determines appropriate.
 
 “(e)
 
-Duration of Pilot Programs.—The pilot programs required by this section shall be carried out during the period beginning on October 1, 2000, and, subject to subsection (f), ending on December 31, 2005.
+Duration of Pilot Programs.—The pilot programs required by this section shall be carried out during the period beginning on October 1, 2000, and, subject to subsection (f), ending on September 30, 2007.
 
 “(f)
 
-Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
+Authority To Expand or Extend Pilot Programs.—The Secretary may expand the scope of any ofthe pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
 
 “(g)
 
-Reports.—Not later than February 1, 2006, the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a separate report on each of the pilot programs carried out under this section. The report on a pilot program shall include the following:
+Reports.—Not later than February 1, 2008, the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a separate report on each of the pilot programs carried out under this section. The report on a pilot program shall include the following:
 
 &emsp;“(1) The Secretary's assessment of the value of the actions taken in the administration of the pilot program for increasing the effectiveness and efficiency of Army recruiting.
 
@@ -278,7 +302,7 @@ Specific Steps.—As part of those improvements, the Secretary shall take the fo
 
 &emsp;“(2) Require that the forms and procedures for medical prescreening of applicants that are used by recruiters and by Military Entrance Processing Commands be revised so as to ensure that medical questions are specific, unambiguous, and tied directly to the types of medical separations most common for recruits during basic training and follow-on training.
 
-&emsp;“(3) Add medical screening tests to the examinations of recruits carried out by Military Entrance Processing Stations, provide more thorough medical examinations to selected groups of applicants, or both, to the extent that the Secretary determines that to do so could be cost effective in reducing attrition at basic training.
+&emsp;“(3) Add medical screening tests to the examinations of recruits carried out by Military Entrance Processing Stations, provide more thorough medical examinations to selected groups of applicants, orboth, to the extent that the Secretary determines that to do so could be cost effective in reducing attrition at basic training.
 
 &emsp;“(4) Provide for an annual quality control assessment of the effectiveness of the Military Entrance Processing Commands in identifying medical conditions in recruits that existed before enlistment in the Armed Forces, each such assessment to be performed by an agency or contractor other than the Military Entrance Processing Commands.
 
@@ -321,4 +345,8 @@ Pub. L. 96–342, title III, §302(d), Sept. 8, 1980, 94 Stat. 1083, provided th
 &emsp;“(1) that secondary educational institutions in the United States, the Commonwealth of Puerto Rico, and the territories of the United States should cooperate with the Armed Forces by allowing recruiting personnel access to such institutions; and
 
 &emsp;“(2) that it is appropriate for such institutions to release to the Armed Forces information regarding students at such institutions (including such data as names, addresses, and education levels) which is relevant to recruiting individuals for service in the Armed Forces.”
+
+<i><sup>1</sup></i><i> So in original. Probably should be “educational”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@
 
 &emsp;(A) to a veteran whose annual income (determined under section 1503 of this title) is less than the amount in effect under section 1521(b) of this title; or
 
-&emsp;(B) with respect to an episode of extended care services that a veteran is being furnished by the Department on the date of the enactment of the Veterans Millennium Health Care and Benefits Act.
+&emsp;(B) with respect to an episode of extended care services that a veteran is being furnished by the Department on November 30, 1999.
 
 (d)(1) A veteran who is furnished extended care services under this chapter and who is required under subsection (c) to pay an amount to the United States in order to be furnished such services shall be liable to the United States for that amount.
 
@@ -34,15 +34,19 @@
 
 &emsp;(C) allowing the veteran to retain a monthly personal allowance.
 
-(e)(1) There is established in the Treasury of the United States a revolving fund known as the Department of Veterans Affairs Extended Care Fund (hereafter in this section referred to as the “fund”). Amounts in the fund shall be available, without fiscal year limitation and without further appropriation, exclusively for the purpose of providing extended care services under subsection (a).
+(e)(1) There is established in the Treasury of the United States a revolving fund known as the Department of Veterans Affairs Extended Care Fund (hereinafter in this section referred to as the “fund”). Amounts in the fund shall be available, without fiscal year limitation and without further appropriation, exclusively for the purpose of providing extended care services under subsection (a).
 
 (2) All amounts received by the Department under this section shall be deposited in or credited to the fund.
 
-(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548.)
+(Added Pub. L. 106–117, title I, §101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, §8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, §509(b), Dec. 27, 2001, 115 Stat. 997.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of the Veterans Millennium Health Care and Benefits Act, referred to in subsec. (c)(2)(B), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
+2001—Subsec. (c)(2)(B). Pub. L. 107–103 inserted “on” before “November 30, 1999”.
+
+Pub. L. 107–14, §8(a)(2), substituted “November 30, 1999” for “on the date of the enactment of the Veterans Millennium Health Care and Benefits Act”.
+
+Subsec. (e)(1). Pub. L. 107–14, §8(a)(16), substituted “hereinafter” for “hereafter”.
 
 #### Effective Date
 
@@ -162,7 +166,7 @@ Eligible Veterans.—A veteran is an eligible veteran for purposes of this secti
 
 &emsp;“(2) is unable to manage routine activities of daily living without supervision and assistance; and
 
-&emsp;“(3) could reasonably be expected to receive ongoing services after the end of the contract period under another government program or through other means.
+&emsp;“(3) could reasonably be expected to receive ongoing services after the end of the contract periodunder another government program or through other means.
 
 “(e)
 

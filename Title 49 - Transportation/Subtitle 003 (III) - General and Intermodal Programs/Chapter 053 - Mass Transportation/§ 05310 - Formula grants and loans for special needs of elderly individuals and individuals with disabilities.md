@@ -22,7 +22,7 @@ Apportioning and Transferring Amounts.—The Secretary shall apportion amounts m
 
 (c)
 
-State Program of Projects.—Amounts made available for this section may be used for transportation projects to assist in providing transportation services for elderly individuals and individuals with disabilities that are included in a State program of projects. A program shall be submitted annually to the Secretary for approval and shall contain an assurance that the program provides for maximum feasible coordination of transportation services assisted under this section with transportation services assisted by other United States Government sources.
+State Program of Projects.—Amounts made available for this section may be used for transportation projects to assist in providing transportation services for elderly individuals and individuals with disabilities that are included in a State program of projects. A program shall be submitted annually to the Secretary for approval and shall contain an assurance that the program provides for maximum feasible coordination of transportation servicesassisted under this section with transportation services assisted by other United States Government sources.
 
 (d)
 

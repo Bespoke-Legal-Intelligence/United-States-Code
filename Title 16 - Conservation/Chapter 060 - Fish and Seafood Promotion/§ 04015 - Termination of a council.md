@@ -2,7 +2,7 @@
 
 #### (a) Petition for termination
 
-(1) A petition to terminate a council may be filed with the Secretary by no less than three sector participants in any one sector. Any petition filed under this subsection shall be accompanied by a written document explaining the reasons for such petition.
+(1) A petition to terminate a council may be filed with the Secretary by no less than threesector participants in any one sector. Any petition filed under this subsection shall be accompanied by a written document explaining the reasons for such petition.
 
 (2) If the Secretary determines that a petition filed under paragraph (1) of this subsection is accompanied by the signatures, or corporate certifications, as the case may be, of no less than three sector participants in a sector referred to in paragraph (1) of this subsection who collectively accounted for, in the twelve-month period immediately preceding the month in which such petition was filed, not less than 20 percent of the value of the fish or fish products described in accordance with section 4009(b)(3) of this title that were handled by that sector during such period, the Secretary, within 90 days after such determination, shall conduct a referendum for termination of the council among all sector participants in that sector.
 

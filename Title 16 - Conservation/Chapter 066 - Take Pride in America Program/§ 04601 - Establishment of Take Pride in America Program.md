@@ -10,7 +10,7 @@ The purposes of the TPIA Program shall include the following:
 
 &emsp;(1) To establish and maintain a public awareness campaign in cooperation with public and private organizations and individuals—
 
-&emsp;&emsp;(A) to instill in the public the importance of the appropriate use of, and appreciation for Federal, State, and local lands, facilities, and natural and cultural resources;
+&emsp;&emsp;(A) to instill in the public the importance of the appropriate use of, and appreciationfor Federal, State, and local lands, facilities, and natural and cultural resources;
 
 &emsp;&emsp;(B) to encourage an attitude of stewardship and responsibility toward these lands, facilities, and resources; and
 
@@ -22,7 +22,7 @@ The purposes of the TPIA Program shall include the following:
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2), was in the original “this Act”, and was translated as reading “thistitle”, meaning title XI of Pub. L. 101–628, Nov. 28, 1990, 104 Stat. 4502, known as the Take Pride in America Act, which is classified generally to this chapter, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (b)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title XI of Pub. L. 101–628, Nov. 28, 1990, 104 Stat. 4502, known as the Take Pride in America Act, which is classified generally to this chapter, to reflect the probable intent of Congress.
 
 #### Short Title
 

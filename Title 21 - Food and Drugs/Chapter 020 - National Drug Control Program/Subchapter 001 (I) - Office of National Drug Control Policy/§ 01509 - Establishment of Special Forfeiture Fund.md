@@ -24,7 +24,7 @@ The President shall, in consultation with the Director for National Drug Control
 
 #### (f) Funds provided supplemental
 
-Funds disbursed under this subsection <sup>2</sup> shall not be used to supplant existing funds, but shallbe used to supplement the amount of funds that would be otherwise available.
+Funds disbursed under this subsection <sup>2</sup> shall not be used to supplant existing funds, but shall be used to supplement the amount of funds that would be otherwise available.
 
 (Pub. L. 100–690, title VI, §6073, Nov. 18, 1988, 102 Stat. 4323; Pub. L. 101–647, title XX, §2001(b), Nov. 29, 1990, 104 Stat. 4854; Pub. L. 102–393, title VI, §638(c), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 103–322, title IX, §90205(a), (d), Sept. 13, 1994, 108 Stat. 1994, 1995; Pub. L. 105–277, div. C, title VII, §712, Oct. 21, 1998, 112 Stat. 2681–692.)
 
@@ -38,7 +38,7 @@ Section 9703(g) of title 31, referred to in subsec. (b), probably means the sect
 
 #### Codification
 
-Subsec. (g) of this section, which required the President to submit to both Houses of Congress, no later than 4 months after the end of each fiscal year, a detailed report on amounts deposited in the Fund and a description of expenditures, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 18 of House Document No. 103–7.
+Subsec. (g) of this section, which required the President to submit to both Houses of Congress, no laterthan 4 months after the end of each fiscal year, a detailed report on amounts deposited in the Fund and a description of expenditures, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 18 of House Document No. 103–7.
 
 Section was enacted as part of the Anti-Drug Abuse Act of 1988 and as part of the Asset Forfeiture Amendments Act of 1988, and not as part of the National Narcotics Leadership Act of 1988 which comprises this chapter.
 

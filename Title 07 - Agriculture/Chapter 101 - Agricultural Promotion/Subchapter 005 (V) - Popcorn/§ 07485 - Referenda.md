@@ -18,7 +18,7 @@
 
 #### (2) Representative group of processors
 
-&emsp;An additional referendum on an order shall be conducted if the referendum is requested by 30 percent or more of the number of processors who, during a representative period as determined by the Secretary, have been engaged in processing.
+&emsp;An additional referendum on an order shall be conducted if the referendum is requested by30 percent or more of the number of processors who, during a representative period as determined by the Secretary, have been engaged in processing.
 
 #### (3) Disapproval of order
 

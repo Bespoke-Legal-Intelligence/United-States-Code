@@ -92,7 +92,7 @@ The Corporate Board shall meet at least 3 times each fiscal year at the call of 
 
 #### (1) In general
 
-&emsp;The term of office of a member of the Corporate Board shall be 4 years, except that themembers initially appointed shall be appointed to serve staggered terms. A member appointed to fill a vacancy for an unexpired term may be appointed only for the remainder of the term. A vacancy on the Corporate Board shall be filled in the same manner as the original appointment. The Secretary may remove a member of the Corporate Board only for cause.
+&emsp;The term of office of a member of the Corporate Board shall be 4 years, except that the members initially appointed shall be appointed to serve staggered terms. A member appointed to fill a vacancy for an unexpired term may be appointed only for the remainder of the term. A vacancy on the Corporate Board shall be filled in the same manner as the original appointment. The Secretary may remove a member of the Corporate Board only for cause.
 
 #### (2) Transition measure
 
@@ -100,7 +100,7 @@ The Corporate Board shall meet at least 3 times each fiscal year at the call of 
 
 #### (i) Compensation
 
-A member of the Corporate Board who is an officer or employee of the United States shall not receive any additional compensation by reason of service on the Corporate Board. Any other member shall receive, for each day (including travel time) the member is engaged in the performance of the functions of the Corporate Board, compensation at a rate not to exceed the daily equivalent of the annual rate in effect for Level IV of the Executive Schedule. A member of the Corporate Board shall be reimbursed for travel, subsistence, and other necessary expenses incurred by the member in the performance of the duties of the member.
+A member of the Corporate Board who is an officer or employee of the United States shall not receive any additional compensation by reason of service on the Corporate Board. Any other member shall receive, for each day (including travel time) the member is engaged in the performance of the functions of the Corporate Board, compensation at a rate not to exceed the daily equivalent of the annual rate in effect for Level IV of the Executive Schedule. A member of the Corporate Board shall be reimbursed fortravel, subsistence, and other necessary expenses incurred by the member in the performance of the duties of the member.
 
 #### (j) Conflict of interest; financial disclosure
 

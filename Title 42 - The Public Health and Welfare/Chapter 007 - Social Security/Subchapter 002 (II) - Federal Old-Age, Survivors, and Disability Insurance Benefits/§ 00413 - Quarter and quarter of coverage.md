@@ -16,7 +16,7 @@ For the purposes of this subchapter—
 
 &emsp;(i) no quarter after the quarter in which an individual dies shall be a quarter of coverage, and no quarter any part of which is included in a period of disability (other than the initial quarter and the last quarter of such period) shall be a quarter of coverage;
 
-&emsp;(ii) if the wages paid to an individual in any calendar year equal $3,000 in the case of a calendar year before 1951, or $3,600 in the case of a calendar year after 1950 and before 1955, or $4,200 in the case of a calendar year after 1954 and before 1959, or $4,800 in the case of a calendar year after 1958 and before 1966, or $6,600 in the case of a calendar year after 1965 and before 1968, or $7,800 in the case of a calendar year after 1967 and before 1972, or $9,000 in the case of the calendar year 1972, or $10,800 in the case of the calendar year 1973, or $13,200 in the case of the calendar year 1974, or an amount equal to the contribution and benefit base (as determined under section 430 of this title) in the case of any calendar year after 1974 and before 1978 with respect to which such contribution and benefit base is effective, each quarter of such year shall (subject to clauses (i) and (v)) be a quarter of coverage;
+&emsp;(ii) if the wages paid to an individual in any calendar year equal $3,000 in the case of a calendar year before 1951, or $3,600 in the case of a calendar year after 1950 and before 1955, or $4,200 in the case of a calendar year after 1954 and before 1959, or $4,800 in the case of a calendar year after 1958 and before 1966, or $6,600 in the case of a calendar year after 1965 and before 1968, or $7,800 in the case of a calendar year after 1967 and before 1972, or $9,000 in the case of the calendar year 1972, or $10,800 in the case of the calendar year 1973, or $13,200 in the case of the calendar year 1974, or an amount equal to the contribution and benefit base (as determined under section 430 of this title) in the case of any calendar year after 1974 and before 1978 with respect to which such contribution and benefit base is effective, each quarterof such year shall (subject to clauses (i) and (v)) be a quarter of coverage;
 
 &emsp;(iii) if an individual has self-employment income for a taxable year, and if the sum of such income and the wages paid to him during such year equals $3,600 in the case of a taxable year beginning after 1950 and ending before 1955, or $4,200 in the case of a taxable year ending after 1954 and before 1959, or $4,800 in the case of a taxable year ending after 1958 and before 1966, or $6,600 in the case of a taxable year ending after 1965 and before 1968, or $7,800 in the case of a taxable year ending after 1967 and before 1972, or $9,000 in the case of a taxable year beginning after 1971 and before 1973, or $10,800 in the case of a taxable year beginning after 1972 and before 1974, or $13,200 in the case of a taxable year beginning after 1973 and before 1975, or an amount equal to the contribution and benefit base (as determined under section 430 of this title) which is effective for the calendar year in the case of any taxable year beginning in any calendar year after 1974 and before 1978, each quarter any part of which falls in such year shall (subject to clauses (i) and (v)) be a quarter of coverage;
 
@@ -140,7 +140,7 @@ Section 5117(c)(3) of Pub. L. 101–508 provided that: “The amendments made by
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 10208(b)(2)(A), (B) of Pub. L. 101–239 applicable with respect to computation ofaverage total wage amounts (under amended provisions) for calendar years after 1990, see section 10208(c) of Pub. L. 101–239, set out as a note under section 430 of this title.
+Amendment by section 10208(b)(2)(A), (B) of Pub. L. 101–239 applicable with respect to computation of average total wage amounts (under amended provisions) for calendar years after 1990, see section 10208(c) of Pub. L. 101–239, set out as a note under section 430 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -178,7 +178,7 @@ Amendment by section 320(a)(3)(A) of Pub. L. 89–97 applicable with respect to 
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–64 applicable with respect to monthly benefits for months beginning on or after August 1, 1961 based on applications filed in or after March 1961, and with respect to lump-sum death payments under this subchapter in the case of deaths on or after August 1, 1961, see sections 102(f) and 109 of Pub. L. 87–64, set out as notes under section 402 of this title.
+Amendment by Pub. L. 87–64 applicable with respect to monthly benefits for months beginning on or after August 1, 1961 based on applications filed in or afterMarch 1961, and with respect to lump-sum death payments under this subchapter in the case of deaths on or after August 1, 1961, see sections 102(f) and 109 of Pub. L. 87–64, set out as notes under section 402 of this title.
 
 #### Effective Date of 1960 Amendment
 
@@ -188,7 +188,7 @@ Section 206(b) of Pub. L. 86–778 provided that:
 
 &emsp;“(A) who becomes entitled to benefits under section 202(a) or 223 of such Act \[section 402(a) or 423 of this title\] on the basis of an application filed in or after the month in which this Act is enacted \[September 1960\]; or
 
-&emsp;“(B) who is (or would, but for the provisions of section 215(f)(6) of the Social Security Act \[section 415(b)(6) of this section\], be) entitled to a recomputation of his primary insurance amount under section 215(f)(2)(A) of such Act on the basis of an application filed in or after the month in which this Act is enacted \[September 1960\]; or
+&emsp;“(B) who is (or would, but for the provisions of section 215(f)(6) of the Social Security Act \[section 415(f)(6) of this title\], be) entitled to a recomputation of his primary insurance amount under section 215(f)(2)(A) of such Act on the basis of an application filed in or after the month in which this Act is enacted \[September 1960\]; or
 
 &emsp;“(C) who dies without becoming entitled to benefits under section 202(a) or 223 of the Social Security Act \[section 402(a) or 423 of this title\], and (unless he dies a currently insured individual but not a fully insured individual (as those terms are defined in section 214 of such Act \[section 414 of this title\])) without leaving any individual entitled (on the basis of his wages and self-employment income) to survivor's benefits or a lump-sum death payment under section 202 of such Act \[section 402 of this title\] on the basis of an application filed prior to the month in which this Act is enacted \[September 1960\]; or
 
@@ -200,7 +200,7 @@ Section 206(b) of Pub. L. 86–778 provided that:
 
 &emsp;“(G) who dies and whose survivors are (or would, but for the fact that such recomputation would not result in a higher primary insurance amount for such individual, be) entitled, on the basis of an application filed in or after the month in which this Act \[September 1960\] is enacted, to have his primary insurance amount recomputed under section 102(f)(2)(B) of the Social Security Amendments of 1954 \[set out as a note under section 415 of this title\].
 
-“(2) The amendment made by subsection (a) \[amending this section\] shall also be applicable in the case ofapplications for disability determination under section 216(i) of the Social Security Act \[section 416(i) of this title\] filed in or after the month in which this Act is enacted \[September 1960\].
+“(2) The amendment made by subsection (a) \[amending this section\] shall also be applicable in the case of applications for disability determination under section 216(i) of the Social Security Act \[section 416(i) of this title\] filed in or after the month in which this Act is enacted \[September 1960\].
 
 “(3) Notwithstanding any other provisions of this subsection, in the case of any individual who would not be a fully insured individual under section 214(a) of the Social Security Act \[section 414(a) of this title\] except for the enactment of this section, no benefits shall be payable on the basis of his wages and self-employment income for any month prior to the month in which this Act is enacted \[September 1960\].”
 

@@ -172,7 +172,7 @@ Ensuring Compliance.—(1) To ensure compliance with this section, the Secretary
 
 &emsp;(B) may make a contract with a public agency.
 
-(2) The Secretary of Transportation may approve an application for a project grant only if the Secretary is satisfied that the requirements prescribed under paragraph (1)(A) of this subsection have been or will be met.
+(2) The Secretary of Transportation may approve an application for a project grant only ifthe Secretary is satisfied that the requirements prescribed under paragraph (1)(A) of this subsection have been or will be met.
 
 (h)
 
@@ -192,7 +192,7 @@ Public notice before waiver of aeronautical land-use assurance.—Before modifyi
 
 (i)
 
-Relief From Obligation To Provide Free Space.—When a sponsor provides a property interest in a land or water area or a building that the Secretary of Transportation uses to construct a facility at Government expense, the Secretary may relieve the sponsor from an obligation in a contract made under this chapter,the Airport and Airway Development Act of 1970, or the Federal Airport Act to provide free space to the Government in an airport building, to the extent the Secretary finds that the free space no longer is needed to carry out activities related to air traffic control or navigation.
+Relief From Obligation To Provide Free Space.—When a sponsor provides a property interest in a land or water area or a building that the Secretary of Transportation uses to construct a facility at Government expense, the Secretary may relieve the sponsor from an obligation in a contract made under this chapter, the Airport and Airway Development Act of 1970, or the Federal Airport Act to provide free space to the Government in an airport building, to the extent the Secretary finds that the free space no longer is needed to carry out activities related to air traffic control or navigation.
 
 (j)
 
@@ -560,7 +560,7 @@ In subsection (b)(2), the words “Paragraph (1) of this subsection does not app
 
 In subsection (c)(1), before clause (A), the words “considered to be” are omitted as surplus. In clause (B), the words “department, agency, or instrumentality of the Government” are substituted for “Federal agency” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (c)(2), before clause (A), the words “may approve an application under this subchapter for an airport development project grant only if” are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(13), (14)) and “As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter” in 49 App.:2210(a) for clarity and to eliminate unnecessary words. The words “has received or will receive” are substituted for “before, on, or after December 30, 1987” and “before, on, or after December 31, 1987” because of the restatement. In clauses (A)(ii) and (B)(ii), the words “or right” and “only” are omitted as surplus. In clause (A)(iii), the words “at the discretion of the Secretary” in 49 App.:2210(a)(13)(C) are omitted as surplus. In clause (B)(iii), the words “under this subchapter” are substituted for “at that airport or within the national airport system” for clarity and to eliminate unnecessary words.
+In subsection (c)(2), before clause (A), the words “may approve an application under this subchapter for an airport development project grant only if” are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(13), (14)) and “As a condition precedent to approval of an airport development project containedin a project grant application submitted under this chapter” in 49 App.:2210(a) for clarity and to eliminate unnecessary words. The words “has received or will receive” are substituted for “before, on, or after December 30, 1987” and “before, on, or after December 31, 1987” because of the restatement. In clauses (A)(ii) and (B)(ii), the words “or right” and “only” are omitted as surplus. In clause (A)(iii), the words “at the discretion of the Secretary” in 49 App.:2210(a)(13)(C) are omitted as surplus. In clause (B)(iii), the words “under this subchapter” are substituted for “at that airport or within the national airport system” for clarity and to eliminate unnecessary words.
 
 Subsection (c)(3) is added for clarity.
 

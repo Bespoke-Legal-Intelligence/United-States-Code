@@ -1,9 +1,5 @@
 Part C—Public Charter Schools
 
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 7331, 7351, 8881 of this title.
-
 
 ---
 

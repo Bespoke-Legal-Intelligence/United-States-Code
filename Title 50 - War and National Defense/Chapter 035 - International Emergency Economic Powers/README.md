@@ -4,6 +4,9 @@
 | :--- | ---: |
 | [1701\.](%C2%A7%2001701%20-%20Unusual%20and%20extraordinary%20threat%3B%20declaration%20of%20national%20emergency%3B%20exercise%20of%20Presidential%20authorities.md) | Unusual and extraordinary threat; declaration of national emergency; exercise of Presidential authorities. |
 | [1702\.](%C2%A7%2001702%20-%20Presidential%20authorities.md) | Presidential authorities. |
+| (a) | In general. |
+| (b) | Exceptions to grant of authority. |
+| (c) | Classified information. |
 | [1703\.](%C2%A7%2001703%20-%20Consultation%20and%20reports.md) | Consultation and reports. |
 | (a) | Consultation with Congress. |
 | (b) | Report to Congress upon exercise of Presidential authorities. |
@@ -24,7 +27,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 2332 of this title; sections 2170, 2405, 2410 of the Appendix to this title; title 12 sections 3409, 3413, 4407; title 19 sections 1675, 2581; title 21 section 1901; title 22 section 6004; title 26 section 911; title 30 section 185.
+This chapter is referred to in section 2332 of this title; sections 2170, 2405, 2410 of the Appendix to this title; title 12 sections 3409, 3413, 4407; title 18 section 983; title 19 sections 1675, 2581; title 21 section 1901; title 22 section 6004; title 26 section 911; title 30 section 185.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -62,7 +62,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 &emsp;&emsp;&emsp;(II) is provided by a nonprofit corporation, including the National Rural Utilities Cooperative Finance Corporation, engaged primarily in commercial lending, if the Board determines that such nonprofit corporation has one or more issues of outstanding long-term debt that is rated within the highest 3 rating categories of a nationally recognized statistical rating organization;
 
-&emsp;&emsp;(ii) if the loan is provided by a lender described in clause (i)(II) and the Board determines that the making of the loan by such lender will cause a decline in such lender'sdebt rating as described in that clause, the Board at its discretion may disapprove the loan guarantee on this basis;
+&emsp;&emsp;(ii) if the loan is provided by a lender described in clause (i)(II) and the Board determines that the making of the loan by such lender will cause a decline in such lender's debt rating as described in that clause, the Board at its discretion may disapprove the loan guarantee on this basis;
 
 &emsp;&emsp;(iii) no loan may be made for purposes of this chapter by a governmental entity or affiliate thereof, or by the Federal Agricultural Mortgage Corporation, or any institution supervised by the Office of Federal Housing Enterprise Oversight, the Federal Housing Finance Board, or any affiliate of such entities;
 
@@ -136,7 +136,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (3) Further consideration
 
-&emsp;In implementing this chapter, the Board shall support the use of loan guarantees forprojects that would serve households not likely to be served in the absence of loan guarantees under this chapter.
+&emsp;In implementing this chapter, the Board shall support the use of loan guarantees for projects that would serve households not likely to be served in the absence of loan guarantees under this chapter.
 
 #### (f) Guarantee limits
 
@@ -194,7 +194,7 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (i) Limitations on guarantees for certain cable operators
 
-Notwithstanding any other provision of this chapter, no loan guarantee under this chapter may be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered by a cable franchise agreement that expressly obligates a cable system operator to serve such area.
+Notwithstanding any other provision of this chapter, no loan guarantee under this chapter may be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered bya cable franchise agreement that expressly obligates a cable system operator to serve such area.
 
 #### (j) Judicial review
 
@@ -202,7 +202,7 @@ The decision of the Board to approve or disapprove the making of a loan guarante
 
 #### (k) Applicability of APA
 
-Except as otherwise provided in subsection (j) of this section, the provisions of subchapter II ofchapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.
+Except as otherwise provided in subsection (j) of this section, the provisions of subchapter II of chapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.
 
 (Pub. L. 106–553, §1(a)(2) \[title X, §1004\], Dec. 21, 2000, 114 Stat. 2762, 2762A–129.)
 

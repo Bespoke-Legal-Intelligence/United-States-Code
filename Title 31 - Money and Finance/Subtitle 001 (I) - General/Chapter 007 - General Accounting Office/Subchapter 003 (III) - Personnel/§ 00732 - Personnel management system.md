@@ -76,7 +76,7 @@
 
 &emsp;(v) length of service computed in accordance with the second sentence of section 3502(a) of title 5; and
 
-&emsp;(vi) other objective factors such as skills and knowledge that the Comptroller General considers necessary and appropriate to realign the agency's workforce in order to meet current and future mission needs, to correct skill imbalances, or to reduce high-grade, managerial, or supervisory positions.
+&emsp;(vi) other objective factors such as skills and knowledge that the Comptroller General considers necessary and appropriate to realign the agency's workforce in order to meet currentand future mission needs, to correct skill imbalances, or to reduce high-grade, managerial, or supervisory positions.
 
 (C) Notwithstanding subparagraph (B), the regulations relating to removal from the General Accounting Office Senior Executive Service in a reduction in force or other adjustment in force shall be consistent with section 3595(a) of title 5.
 
@@ -176,7 +176,7 @@ The General Schedule, referred to in subsec. (c)(3), (4), is set out under secti
 
 2000—Subsec. (c)(4). Pub. L. 106–303, §4(a)(2), inserted “(including senior-level positions under section 732a of this title)” after “129 positions” and substituted “733(c) of this title and senior-level positions described in section 732a(b) of this title);” for “733(c) of this title);”.
 
-Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.”
+Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Notwithstanding the provisions of subchapterI of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.”
 
 Subsec. (i). Pub. L. 106–303, §3(b)(1), added subsec. (i).
 

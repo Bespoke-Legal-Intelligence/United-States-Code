@@ -28,7 +28,7 @@ The Corporation may provide training and technical assistance and other assistan
 
 #### (e) Improve ability to apply for assistance
 
-The Corporation shall provide training and technical assistance, where necessary, to individuals, programs, local labor organizations, State educational agencies, State Commissions, local educational agencies, local governments, community-based agencies, and other entities to enable them to apply for funding under one of the national service laws, to conduct high-quality programs, to evaluate such programs, and for other purposes.
+The Corporation shall provide training and technical assistance, where necessary, to individuals, programs, local labor organizations, State educational agencies, State Commissions, local educational agencies, local governments,community-based agencies, and other entities to enable them to apply for funding under one of the national service laws, to conduct high-quality programs, to evaluate such programs, and for other purposes.
 
 #### (f) National service fellowships
 

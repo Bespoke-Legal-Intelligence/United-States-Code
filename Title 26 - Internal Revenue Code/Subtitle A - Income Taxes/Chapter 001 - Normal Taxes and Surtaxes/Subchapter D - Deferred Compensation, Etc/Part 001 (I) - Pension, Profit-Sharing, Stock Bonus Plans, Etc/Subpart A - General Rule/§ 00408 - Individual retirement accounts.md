@@ -4,7 +4,7 @@
 
 For purposes of this section, the term “individual retirement account” means a trust created or organized in the United States for the exclusive benefit of an individual or his beneficiaries, but only if the written governing instrument creating the trust meets the following requirements:
 
-&emsp;(1) Except in the case of a rollover contribution described in subsection (d)(3) in <sup>1</sup> section 402(c), 403(a)(4), or 403(b)(8), no contribution will be accepted unless it is in cash, and contributions will not be accepted for the taxable year in excess of $2,000 on behalf of any individual.
+&emsp;(1) Except in the case of a rollover contribution described in subsection (d)(3) in <sup>1</sup> section 402(c), 403(a)(4), 403(b)(8), or 457(e)(16) <sup>2</sup> no contribution will be accepted unless it is in cash, and contributions will not be accepted for thetaxable year on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A).
 
 &emsp;(2) The trustee is a bank (as defined in subsection (n)) or such other person who demonstrates to the satisfaction of the Secretary that the manner in which such other person will administer the trust will be consistent with the requirements of this section.
 
@@ -26,7 +26,7 @@ For purposes of this section, the term “individual retirement annuity” means
 
 &emsp;&emsp;(A) the premiums are not fixed,
 
-&emsp;&emsp;(B) the annual premium on behalf of any individual will not exceed $2,000, and
+&emsp;&emsp;(B) the annual premium on behalf of any individual will not exceed the dollar amount in effect under section 219(b)(1)(A), and
 
 &emsp;&emsp;(C) any refund of premiums will be applied before the close of the calendar year following the year of the refund toward the payment of future premiums or the purchase of additional benefits.
 
@@ -34,11 +34,11 @@ For purposes of this section, the term “individual retirement annuity” means
 
 &emsp;(4) The entire interest of the owner is nonforfeitable.
 
-> Such term does not include such an annuity contract for any taxable year of the owner in which it is disqualified on the application of subsection (e) or for any subsequent taxable year. For purposes of this subsection, no contract shall be treated as an endowment contract if it matures later than the taxable year in which the individual in whose name such contract is purchased attains age 701/2; if it is not for the exclusive benefit of the individual in whose name it is purchased or his beneficiaries; or if the aggregate annual premiums under all such contracts purchased in the name of such individual for any taxable year exceed $2,000.
+> Such term does not include such an annuity contract for any taxable year of the owner in which it is disqualified on the application of subsection (e) or for any subsequent taxable year. For purposes of this subsection, no contract shall be treated as an endowment contract if it matures later than the taxable year in which the individual in whose name such contract is purchased attains age 701/2; if it is not for the exclusive benefit of the individual in whose name it is purchased or his beneficiaries; or if the aggregate annual premiums under all such contracts purchased in the name of such individual for any taxable year exceed the dollar amount in effect under section 219(b)(1)(A).
 
 #### (c) Accounts established by employers and certain associations of employees
 
-A trust created or organized in the United States by an employer for the exclusive benefit of his employees or their beneficiaries, or by an association of employees (which may include employees within the meaning of section 401(c)(1)) for the exclusive benefit of its members or their beneficiaries, shall be treated as an individual retirement account (described in subsection (a)), but only if the written governinginstrument creating the trust meets the following requirements:
+A trust created or organized in the United States by an employer for the exclusive benefit of his employees or their beneficiaries, or by an association of employees (which may include employees within the meaning of section 401(c)(1)) for the exclusive benefit of its members or their beneficiaries, shall be treated as an individual retirement account (described in subsection (a)), but only if the written governing instrument creating the trust meets the following requirements:
 
 &emsp;(1) The trust satisfies the requirements of paragraphs (1) through (6) of subsection (a).
 
@@ -72,15 +72,11 @@ A trust created or organized in the United States by an employer for the exclusi
 
 &emsp;&emsp;Paragraph (1) does not apply to any amount paid or distributed out of an individual retirement account or individual retirement annuity to the individual for whose benefit the account or annuity is maintained if—
 
-&emsp;&emsp;&emsp;(i) the entire amount received (including money and any other property) is paid into an individual retirement account or individual retirement annuity (other than an endowment contract) for the benefit of such individual not later than the 60th day after the day on which he receives the payment or distribution;
+&emsp;&emsp;&emsp;(i) the entire amount received (including money and any other property) is paid into an individual retirement account or individual retirement annuity (other than an endowment contract) for the benefit of such individual not later than the 60th day after the day on which he receives the payment or distribution; or
 
-&emsp;&emsp;&emsp;(ii) no amount in the account and no part of the value of the annuity is attributable to any source other than a rollover contribution (as defined in section 402) from an employee's trust described in section 401(a) which is exempt from tax under section 501(a) or from an annuity plan described in section 403(a) (and any earnings on such contribution), and the entire amount received (including property and other money) is paid (for the benefit of such individual) into another such trust or annuity plan not later than the 60th day on which the individual receives the payment or the distribution; or
+&emsp;&emsp;&emsp;(ii) the entire amount received (including money and any other property) is paid into an eligible retirement plan for the benefit of such individual not later than the 60th day after the date on which the payment or distribution is received, except that the maximum amount which may be paid into such plan may not exceed the portion of the amount received which isincludible in gross income (determined without regard to this paragraph).
 
-&emsp;&emsp;&emsp;(iii)(I) the entire amount received (including money and other property) represents the entire interest in the account or the entire value of the annuity,
-
-&emsp;&emsp;&emsp;(II) no amount in the account and no part of the value of the annuity is attributable to any source other than a rollover contribution from an annuity contract described in section 403(b) and any earnings on such rollover, and
-
-&emsp;&emsp;&emsp;(III) the entire amount thereof is paid into another annuity contract described in section 403(b) (for the benefit of such individual) not later than the 60th day after he receives the payment or distribution.
+> &emsp;&emsp;For purposes of clause (ii), the term “eligible retirement plan” means an eligible retirement plan described in clause (iii), (iv), (v), or (vi) of section 402(c)(8)(B).
 
 #### (B) Limitation
 
@@ -108,7 +104,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any amount paid or distributed out of an individual retirement account or individual retirement annuity would meet the requirements of subparagraph (A) but for the fact that the entire amount was not paid into an eligible plan as required by clause (i), (ii), or (iii) of subparagraph (A), such amount shall be treated as meeting the requirements of subparagraph (A) to the extent it is paid into an eligible planreferred to in such clause not later than the 60th day referred to in such clause.
+&emsp;&emsp;&emsp;If any amount paid or distributed out of an individual retirement account or individual retirement annuity would meet the requirements of subparagraph (A) but for the fact that the entire amount was not paid into an eligible plan as required by clause (i) or (ii) of subparagraph (A), such amount shall be treated as meeting the requirements of subparagraph (A) to the extent it is paid into an eligible plan referred to in such clause not later than the 60th day referred to in such clause.
 
 #### (ii) Eligible plan
 
@@ -124,11 +120,33 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (G) Simple retirement accounts
 
-&emsp;&emsp;This paragraph shall not apply to any amount paid or distributed out of a simple retirement account (as defined in subsection (p)) unless—
+&emsp;&emsp;In the case of any payment or distribution out of a simple retirement account (as defined in subsection (p)) to which section 72(t)(6) applies, this paragraph shall not apply unless such payment or distribution is paid into another simple retirement account.
 
-&emsp;&emsp;&emsp;(i) it is paid into another simple retirement account, or
+#### (H) Application of section 72
 
-&emsp;&emsp;&emsp;(ii) in the case of any payment or distribution to which section 72(t)(6) does not apply, it is paid into an individual retirement plan.
+#### (i) In general
+
+&emsp;&emsp;&emsp;If—
+
+&emsp;&emsp;&emsp;&emsp;(I) a distribution is made from an individual retirement plan, and
+
+&emsp;&emsp;&emsp;&emsp;(II) a rollover contribution is made to an eligible retirement plan described in section 402(c)(8)(B)(iii), (iv), (v), or (vi) with respect to all or part of such distribution,
+
+&emsp;&emsp;&nbsp;then, notwithstanding paragraph (2), the rules of clause (ii) shall apply for purposes of applying section 72.
+
+#### (ii) Applicable rules
+
+&emsp;&emsp;&emsp;In the case of a distribution described in clause (i)—
+
+&emsp;&emsp;&emsp;&emsp;(I) section 72 shall be applied separately to such distribution,
+
+&emsp;&emsp;&emsp;&emsp;(II) notwithstanding the pro rata allocation of income on, and investment in, the contract to distributions under section 72, the portion of such distribution rolled over to an eligible retirement plan described in clause (i) shall be treated as from income on the contract (to the extent of the aggregate income on the contract from all individual retirement plans of the distributee), and
+
+&emsp;&emsp;&emsp;&emsp;(III) appropriate adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
+
+#### (I) Waiver of 60-day requirement
+
+&emsp;&emsp;The Secretary may waive the 60-day requirement under subparagraphs (A) and (D) where the failure to waive such requirement would be against equity or good conscience, including casualty, disaster, or other events beyond the reasonable control of the individual subject to such requirement.
 
 #### (4) Contributions returned before due date of return
 
@@ -184,7 +202,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (1) Exemption from tax
 
-&emsp;Any individual retirement account is exempt from taxation under this subtitle unlesssuch account has ceased to be an individual retirement account by reason of paragraph (2) or (3). Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
+&emsp;Any individual retirement account is exempt from taxation under this subtitle unless such account has ceased to be an individual retirement account by reason of paragraph (2) or (3). Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
 
 #### (2) Loss of exemption of account where employee engages in prohibited transaction
 
@@ -242,11 +260,11 @@ The trustee of an individual retirement account and the issuer of an endowment c
 
 &emsp;&emsp;(B) in such manner as the Secretary prescribes.
 
-> In the case of a simple retirement account under subsection (p), only one report under this subsection shall be required to be submitted each calendar year to the Secretary (at the time provided under paragraph (2)) but, in addition to the report under this subsection, there shall be furnished, within 31 days after each calendar year, to the individual on whose behalf the account is maintained a statement with respect tothe account balance as of the close of, and the account activity during, such calendar year.
+> In the case of a simple retirement account under subsection (p), only one report under this subsection shall be required to be submitted each calendar year to the Secretary (at the time provided under paragraph (2)) but, in addition to the report under this subsection, there shall be furnished, within 31 days after each calendar year, to the individual on whose behalf the account is maintained a statement with respect to the account balance as of the close of, and the account activity during, such calendar year.
 
 #### (j) Increase in maximum limitations for simplified employee pensions
 
-In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of this section shall be applied by increasing the $2,000 amounts contained therein by the amount of the limitation in effect under section 415(c)(1)(A).
+In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of this section shall be applied by increasing the amounts contained therein by the amount of the limitation in effect under section 415(c)(1)(A).
 
 #### (k) Simplified employee pension defined
 
@@ -282,7 +300,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 #### (C) Contributions must bear uniform relationship to total compensation
 
-&emsp;&emsp;For purposes of subparagraph (A), and except as provided in subparagraph (D), employer contributions to simplified employee pensions (other than contributions under an arrangement described in paragraph (6)) shall be considered discriminatory unless contributions thereto bear a uniform relationship to the compensation (not in excess of the first $150,000) of each employee maintaining a simplified employee pension.
+&emsp;&emsp;For purposes of subparagraph (A), and except as provided in subparagraph (D), employer contributions to simplified employee pensions (other than contributions under an arrangement described in paragraph (6)) shall be considered discriminatory unless contributions thereto bear a uniform relationship to the compensation (not in excess of the first $200,000) of each employee maintaining a simplified employee pension.
 
 #### (D) Permitted disparity
 
@@ -352,7 +370,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 &emsp;&emsp;&emsp;(i) the amount of elective employer contributions actually paid over to the simplified employee pension on behalf of the employee for the year, to
 
-&emsp;&emsp;&emsp;(ii) the employee's compensation (not in excess of the first $150,000) for the year.
+&emsp;&emsp;&emsp;(ii) the employee's compensation (not in excess of the first $200,000) for the year.
 
 #### (E) Exception for State and local and tax-exempt pensions
 
@@ -400,7 +418,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 #### (8) Cost-of-living adjustment
 
-&emsp;The Secretary shall adjust the $300 amount in paragraph (2)(C) at the same time and in the same manner as under section 415(d) and shall adjust the $150,000 amount in paragraphs (3)(C) and (6)(D)(ii) at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B); except that any increase in the $300 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50.
+&emsp;The Secretary shall adjust the $300 amount in paragraph (2)(C) at the same time and in the same manner as under section 415(d) and shall adjust the $200,000 amount in paragraphs (3)(C) and (6)(D)(ii) at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B); except that any increase in the $300 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50.
 
 #### (9) Cross reference
 
@@ -416,7 +434,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 #### (A) No employer reports
 
-&emsp;&emsp;Except as provided in this paragraph, no report shall be required under this sectionby an employer maintaining a qualified salary reduction arrangement under subsection (p).
+&emsp;&emsp;Except as provided in this paragraph, no report shall be required under this section by an employer maintaining a qualified salary reduction arrangement under subsection (p).
 
 #### (B) Summary description
 
@@ -440,7 +458,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 #### (1) In general
 
-&emsp;The acquisition by an individual retirement account or by an individually-directed account under a plan described in section 401(a) of any collectible shall be treated (for purposes of this section and section 402) as a distribution from such account in an amount equal to the cost to such account of such collectible.
+&emsp;The acquisition by an individual retirement account or by an individually-directed account under a plan described in section 401(a) of any collectible shall be treated (for purposes ofthis section and section 402) as a distribution from such account in an amount equal to the cost to such account of such collectible.
 
 #### (2) Collectible defined
 
@@ -472,7 +490,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 &emsp;&emsp;&emsp;(iv) a coin issued under the laws of any State, or
 
-&emsp;&emsp;(B) any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7) <sup>2</sup> requires for metals which may be delivered in satisfaction of a regulated futures contract,
+&emsp;&emsp;(B) any gold, silver, platinum, or palladium bullion of a fineness equal to or exceeding the minimum fineness that a contract market (as described in section 7 of the Commodity Exchange Act, 7 U.S.C. 7) <sup>3</sup> requires for metals which may be delivered in satisfaction of a regulated futures contract,
 
 > &emsp;if such bullion is in the physical possession of a trustee described under subsection (a) of this section.
 
@@ -584,7 +602,7 @@ For purposes of subsection (a)(2), the term “bank” means—
 
 &emsp;&emsp;&emsp;&emsp;(II) to the employee directly in cash,
 
-&emsp;&emsp;&emsp;(ii) the amount which an employee may elect under clause (i) for any year is required to be expressed as a percentage of compensation and may not exceed a total of $6,000 for any year,
+&emsp;&emsp;&emsp;(ii) the amount which an employee may elect under clause (i) for any year is required to be expressed as a percentage of compensation and may not exceed a total of the applicable dollar amount for any year,
 
 &emsp;&emsp;&emsp;(iii) the employer is required to make a matching contribution to the simple retirement account for any year in an amount equal to so much of the amount the employee elects under clause (i)(I) as does not exceed the applicable percentage of compensation for the year, and
 
@@ -638,9 +656,45 @@ For purposes of subsection (a)(2), the term “bank” means—
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, the term “qualified plan” means a plan, contract, pension, or trust described in subparagraph (A) or (B) of section 219(g)(5).
 
-#### (E) Cost-of-living adjustment
+#### (E) Applicable dollar amount; cost-of-living adjustment
 
-&emsp;&emsp;The Secretary shall adjust the $6,000 amount under subparagraph (A)(ii) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter ending September 30, 1996, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of subparagraph (A)(ii), the applicable dollar amount shall be the amount determined in accordance with the following table:
+
+<b> For years</b>
+
+<b>The applicable</b>
+
+<b>  beginning in</b>
+
+<b>dollar amount:</b>
+
+<b>  calendar year:</b>
+
+<b> </b>
+
+&emsp;&emsp;2002
+
+$7,000&nbsp;&nbsp;
+
+&emsp;&emsp;2003
+
+$8,000&nbsp;&nbsp;
+
+&emsp;&emsp;2004
+
+$9,000&nbsp;&nbsp;
+
+&emsp;&emsp;2005 or thereafter
+
+$10,000.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (ii) Cost-of-living adjustment
+
+&emsp;&emsp;&emsp;In the case of a year beginning after December 31, 2005, the Secretary shall adjust the $10,000 amount under clause (i) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
 
 #### (3) Vesting requirements
 
@@ -688,7 +742,7 @@ For purposes of subsection (a)(2), the term “bank” means—
 
 #### (ii) Self-employed
 
-&emsp;&emsp;&emsp;In the case of an employee described in subparagraph (B), the term “compensation” means net earnings from self-employment determined under section 1402(a) without regard to any contribution under this subsection.
+&emsp;&emsp;&emsp;In the case of an employee described in subparagraph (B), the term “compensation” means net earnings from self-employment determined under section 1402(a) without regard to any contribution under this subsection. The preceding sentence shall be applied as if the term “trade or business” for purposes of section 1402 included service described in section 1402(c)(6).
 
 #### (B) Employee
 
@@ -700,11 +754,11 @@ For purposes of subsection (a)(2), the term “bank” means—
 
 #### (7) Use of designated financial institution
 
-&emsp;A plan shall not be treated as failing to satisfy the requirements of this subsection or any other provision of this title merely because the employer makes all contributions to the individual retirement accounts or annuities of a designated trustee or issuer. The preceding sentence shall not apply unless each plan participant is notified in writing (either separately or as part of the notice under subsection (<i>l</i>)(2)(C)) that the participant's balance may be transferred without cost or penalty to another individual account or annuity in accordance with subsection (d)(3)(G).
+&emsp;A plan shall not be treated as failing to satisfy the requirements of this subsection or anyother provision of this title merely because the employer makes all contributions to the individual retirement accounts or annuities of a designated trustee or issuer. The preceding sentence shall not apply unless each plan participant is notified in writing (either separately or as part of the notice under subsection (<i>l</i>)(2)(C)) that the participant's balance may be transferred without cost or penalty to another individual account or annuity in accordance with subsection (d)(3)(G).
 
 #### (8) Coordination with maximum limitation under subsection (a)
 
-&emsp;In the case of any simple retirement account, subsections (a)(1) and (b)(2) shall be applied by substituting “the sum of the dollar amount in effect under paragraph (2)(A)(ii) of this subsection and the employer contribution required under subparagraph (A)(iii) or (B)(i) of paragraph (2) of this subsection, whichever is applicable” for “$2,000”.
+&emsp;In the case of any simple retirement account, subsections (a)(1) and (b)(2) shall be applied by substituting “the sum of the dollar amount in effect under paragraph (2)(A)(ii) of this subsection and the employer contribution required under subparagraph (A)(iii) or (B)(i) of paragraph (2) of this subsection, whichever is applicable” for “the dollar amount in effect under section 219(b)(1)(A)”.
 
 #### (9) Matching contributions on behalf of self-employed individuals not treated as elective employer contributions
 
@@ -734,13 +788,49 @@ For purposes of subsection (a)(2), the term “bank” means—
 
 &emsp;&emsp;For purposes of this paragraph, the term “transition period” means the period beginning on the date of any transaction described in subparagraph (A) and ending on the last day of the second calendar year following the calendar year in which such transaction occurs.
 
-#### (q) Cross references
+#### (q) Deemed IRAs under qualified employer plans
+
+#### (1) General rule
+
+&emsp;If—
+
+&emsp;&emsp;(A) a qualified employer plan elects to allow employees to make voluntary employee contributions to a separate account or annuity established under the plan, and
+
+&emsp;&emsp;(B) under the terms of the qualified employer plan, such account or annuity meets the applicable requirements of this section or section 408A for an individual retirement account or annuity,
+
+> &emsp;then such account or annuity shall be treated for purposes of this title in the same manner as an individual retirement plan and not as a qualified employer plan (and contributions to such account or annuity as contributions to an individual retirement plan and not to the qualified employer plan). For purposes of subparagraph (B), the requirements of subsection (a)(5) shall not apply.
+
+#### (2) Special rules for qualified employer plans
+
+&emsp;For purposes of this title, a qualified employer plan shall not fail to meet any requirement of this title solely by reason of establishing and maintaining a program described in paragraph (1).
+
+#### (3) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Qualified employer plan
+
+&emsp;&emsp;The term “qualified employer plan” has the meaning given such term by section 72(p)(4); except such term shall not include a government plan which is not a qualified plan unless the plan is an eligible deferred compensation plan (as defined in section 457(b)).
+
+#### (B) Voluntary employee contribution
+
+&emsp;&emsp;The term “voluntary employee contribution” means any contribution (other than a mandatory contribution within the meaning of section 411(c)(2)(C))—
+
+&emsp;&emsp;&emsp;(i) which is made by an individual as an employee under a qualified employer plan which allows employees to elect to make contributions described in paragraph (1), and
+
+&emsp;&emsp;&emsp;(ii) with respect to which the individual has designated the contribution as a contribution to which this subsection applies.
+
+#### (r) Cross references
 
 &emsp;&emsp;<b>(1) For tax on excess contributions in individual retirement accounts or annuities, see section 4963.</b>
 
 &emsp;&emsp;<b>(2) For tax on certain accumulations in individual retirement accounts or annuities, see section 4974.</b>
 
-(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997,111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub.L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -749,6 +839,54 @@ Section 7 of the Commodity Exchange Act, referred to in subsec. (m)(3)(B), is cl
 Section 101(6) of the Federal Credit Union Act, referred to in subsec. (n)(2), is classified to section 1752(6) of Title 12, Banks and Banking.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §§641(e)(8), 901, temporarily substituted “403(b)(8), or 457(e)(16)” for “or 403(b)(8),”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§601(b)(1), 901, temporarily substituted “on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A)” for “in excess of $2,000 on behalf of any individual”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b). Pub. L. 107–16, §§601(b)(3), 901, temporarily substituted “the dollar amount in effect under section 219(b)(1)(A)” for “$2,000” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(2)(B). Pub. L. 107–16, §§601(b)(2), 901, temporarily substituted “the dollar amount in effect under section 219(b)(1)(A)” for “$2,000”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(3)(A). Pub. L. 107–16, §§642(a), 901, temporarily inserted “or” at end of cl. (i), added cl. (ii) and concluding provisions, and struck out former cls. (ii) and (iii) which read as follows:
+
+“(ii) no amount in the account and no part of the value of the annuity is attributable to any source other than a rollover contribution (as defined in section 402) from an employee's trust described in section 401(a) which is exempt from tax under section 501(a) or from an annuity plan described in section 403(a) (and any earnings on such contribution), and the entire amount received (including property and other money) is paid (for the benefit of such individual) into another such trust or annuity plan not later than the 60th day on which the individual receives the payment or the distribution; or
+
+“(iii)(I) the entire amount received (including money and other property) represents the entire interest in the account or the entire value of the annuity,
+
+“(II) no amount in the account and no part of the value of the annuity is attributable to any source other than a rollover contribution from an annuity contract described in section 403(b) and any earnings on such rollover, and
+
+“(III) the entire amount thereof is paid into another annuity contract described in section 403(b) (for the benefit of such individual) not later than the 60th day after he receives the payment or distribution.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(3)(D)(i). Pub. L. 107–16, §§642(b)(2), 901, temporarily substituted “(i) or (ii)” for “(i), (ii), or (iii)”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(3)(G). Pub. L. 107–16, §§642(b)(3), 901, temporarily reenacted heading without change and amended text of subpar. (G) generally. Prior to amendment, text read as follows: “This paragraph shall not apply to any amount paid or distributed out of a simple retirement account (as defined in subsection (p)) unless—
+
+&emsp;“(i) it is paid into another simple retirement account, or
+
+&emsp;“(ii) in the case of any payment or distribution to which section 72(t)(6) does not apply, it is paid into an individual retirement plan.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(3)(H). Pub. L. 107–16, §§643(c), 901, temporarily added subpar. (H). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(3)(I). Pub. L. 107–16, §§644(b), 901, temporarily added subpar. (I). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (j). Pub. L. 107–16, §§601(b)(4), 901, temporarily struck out “$2,000” before “amounts”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (k)(3)(C), (6)(D)(ii), (8). Pub. L. 107–16, §§611(c)(1), 901, temporarily substituted “$200,000” for “$150,000”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (p)(2)(A)(ii). Pub. L. 107–16, §§611(f)(1), 901, temporarily substituted “the applicable dollar amount” for “$6,000”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (p)(2)(E). Pub. L. 107–16, §§611(f)(2), 901, temporarily amended heading and text of subpar. (E) generally. Prior to amendment, text read as follows: “The Secretary shall adjust the $6,000 amount under subparagraph (A)(ii) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter ending September 30, 1996, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (p)(6)(A)(ii). Pub. L. 107–16, §§611(g)(2), 901, temporarily inserted at end “The preceding sentenceshall be applied as if the term ‘trade or business’ for purposes of section 1402 included service described in section 1402(c)(6).” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (p)(8). Pub. L. 107–16, §§601(b)(5), 901, temporarily substituted “the dollar amount in effect under section 219(b)(1)(A)” for “$2,000”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsecs. (q), (r). Pub. L. 107–16, §§602(a), 901, temporarily added subsec. (q) and redesignated former subsec. (q) as (r). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (d)(5). Pub. L. 106–554 amended heading generally. Prior to amendment, heading read as follows: “Certain distributions of excess contributions after due date for taxable year”.
 
@@ -818,7 +956,7 @@ Subsec. (k)(8). Pub. L. 103–66, §13212(b)(2), amended heading and text of par
 
 Subsec. (d)(3)(A)(ii). Pub. L. 102–318, §521(b)(17), amended clause (ii) generally. Prior to amendment, clause (ii) read as follows: “the entire amount received (including money and any other property) represents the entire amount in the account or the entire value of the annuity and no amount in the account and no part of the value of the annuity is attributable to any source other than a rollover contribution of a qualified total distribution (as defined in section 402(a)(5)(E)(i)) from an employee's trust described in section 401(a) which is exempt from tax under section 501(a), or an annuity plan described in section 403(a) and any earnings on such sums and the entire amount thereof is paid into another such trust (for the benefit of such individual) or annuity plan not later than the 60th day on which he receives the payment or distribution; or”.
 
-Subsec. (d)(3)(B). Pub. L. 102–318, §521(b)(18), struck out at end “Clause (ii) of subparagraph (A) shall not apply to any amount paid or distributed out of an individual retirement account or an individual retirementannuity to which an amount was contributed which was treated as a rollover contribution by section 402(a)(7) (or in the case of an individual retirement annuity, such section as made applicable by section 403(a)(4)(B)).”
+Subsec. (d)(3)(B). Pub. L. 102–318, §521(b)(18), struck out at end “Clause (ii) of subparagraph (A) shall not apply to any amount paid or distributed out of an individual retirement account or an individual retirement annuity to which an amount was contributed which was treated as a rollover contribution by section 402(a)(7) (or in the case of an individual retirement annuity, such section as made applicable by section 403(a)(4)(B)).”
 
 Subsec. (d)(3)(F). Pub. L. 102–318, §521(b)(19), substituted “402(c)(7)” for “402(a)(6)(H)”.
 
@@ -958,7 +1096,7 @@ Subsec. (d)(3)(C), (D). Pub. L. 98–369, §713(g)(2), designated the subpar. (C
 
 Subsec. (d)(3)(D)(ii). Pub. L. 98–369, §491(d)(22), struck out “bond,” after “annuity,”.
 
-Subsec. (d)(6). Pub. L. 98–369, §491(d)(23), substituted “or an individual retirement annuity” for “, individualretirement annuity, or retirement bond”, and “or annuity” for “, annuity, or bond”.
+Subsec. (d)(6). Pub. L. 98–369, §491(d)(23), substituted “or an individual retirement annuity” for “, individual retirement annuity, or retirement bond”, and “or annuity” for “, annuity, or bond”.
 
 Subsec. (h). Pub. L. 98–369, §713(c)(2)(B), substituted “(as defined in subsection (n))” for “(as defined in section 401(d)(1))”.
 
@@ -1052,6 +1190,32 @@ Subsec. (d)(4). Pub. L. 94–455, §1501(b)(5), as amended by Pub. L. 95–600, 
 
 Subsecs. (h), (i). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 601(b) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 601(c) of Pub. L. 107–16, set out as a note under section 219 of this title.
+
+Pub. L. 107–16, title VI, §602(c), June 7, 2001, 115 Stat. 96, provided that: “The amendments made by this section \[amending this section and section 1003 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2002.”
+
+Amendment by section 611(c)(1), (f)(1), (2), (g)(2) of Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
+
+Amendment by section 641(e)(8) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
+
+Pub. L. 107–16, title VI, §642(c), June 7, 2001, 115 Stat. 122, provided that:
+
+“(1)
+
+Effective date.—The amendments made by this section \[amending this section and section 403 of this title\] shall apply to distributions after December 31, 2001.
+
+“(2)
+
+Special rule.—Notwithstanding any other provision of law, subsections (h)(3) and (h)(5) of section 1122 of the Tax Reform Act of 1986 \[Pub. L. 99–514, set out as a note under section 402 of this title\] shall not apply to any distribution from an eligible retirement plan (as defined in clause (iii) or (iv) of section 402(c)(8)(B) of the Internal Revenue Code of 1986) on behalf of an individual if there was a rollover to such plan on behalf of such individual which is permitted solely by reason of the amendments made by this section.”
+
+Amendment by section 643(c) of Pub. L. 107–16 applicable to distributions made after Dec. 31, 2001, see section 643(d) of Pub. L. 107–16, set out as a note under section 401 of this title.
+
+Amendment by section 644(b) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 644(c) of Pub. L. 107–16, set out as a note under section 402 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 6018(b) of Pub. L. 105–206 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 6018(h) of Pub. L. 105–206, set out as a note under section 23 of this title.
@@ -1092,7 +1256,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7811(m)(7) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7811(m)(7) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Section 7841(a)(3) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section and section 414 of this title\] shall apply to transfers after the date of the enactment of this Act \[Dec. 19, 1989\] in taxable years ending after such date.”
 
@@ -1182,7 +1346,7 @@ Section 157(e)(2) of Pub. L. 95–600 provided that: “The amendments made by p
 
 Amendment by section 157(g)(3) of Pub. L. 95–600 applicable to lump-sum distributions completed after Dec. 31, 1978, in taxable years ending after such date, see section 157(g)(4) of Pub. L. 95–600, set out as a note under section 402 of this title.
 
-Amendment by section 703(c)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1976,see section 703(c)(5) of Pub. L. 95–600, set out as a note under section 219 of this title.
+Amendment by section 703(c)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1976, see section 703(c)(5) of Pub. L. 95–600, set out as a note under section 219 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -1214,9 +1378,11 @@ Section 157(d)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 45D, 72, 219, 220, 280G, 401, 402, 403, 408A, 414, 415, 416, 530, 818, 1397C, 3121, 3306, 3401, 4972, 4973, 4974, 4975, 4979, 6012, 6047, 6058, 6104, 6332, 6693, 6724, 7701 of this title; title 4 section 114; title 11 section 522; title 12 sections 1464, 1787, 1821; title 29 sections 1021, 1051, 1081, 1103, 1104, 1107, 1108; title 42 section 409.
+This section is referred to in sections 1, 25B, 45D, 45E, 72, 219, 220, 280G, 401, 402, 403, 408A, 411, 414, 415, 416, 529, 530, 818, 1397C, 3121, 3306, 3401, 4972, 4973, 4974, 4975, 4979, 6012, 6047, 6058, 6104, 6332, 6693, 6724, 7701 of this title; title 4 section 114; title 11 section 522; title 12 sections 1464, 1787, 1821; title 29 sections 1003, 1021, 1051, 1053, 1081, 1103, 1104, 1107, 1108; title 42 section 409.
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

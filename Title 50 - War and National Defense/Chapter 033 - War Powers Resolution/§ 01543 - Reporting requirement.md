@@ -6,7 +6,7 @@ In the absence of a declaration of war, in any case in which United States Armed
 
 &emsp;(1) into hostilities or into situations where imminent involvement in hostilities is clearly indicated by the circumstances;
 
-&emsp;(2) into the territory, airspace or waters of a foreign nation, while equipped for combat, except for deployments which relate solely tosupply, replacement, repair, or training of such forces; or
+&emsp;(2) into the territory, airspace or waters of a foreign nation, while equipped for combat, except for deployments which relate solely to supply, replacement, repair, or training of such forces; or
 
 &emsp;(3) in numbers which substantially enlarge United States Armed Forces equipped for combat already located in a foreign nation;
 

@@ -14,7 +14,7 @@
 
 (3) Compensatory time off in lieu of pay for service performed under the provisions of this subsection shall not be permitted, except as voluntarily requested in writing by the nurse in question.
 
-(4) Any excess service performed under this subsection on a day when service was not scheduled for such nurse, or for which such nurse isrequired to return to the nurse's place of employment, shall be deemed to be a minimum of two hours in duration.
+(4) Any excess service performed under this subsection on a day when service was not scheduled for such nurse, or for which such nurse is required to return to the nurse's place of employment, shall be deemed to be a minimum of two hours in duration.
 
 (5) For the purposes of this subsection, the period of a nurse's officially ordered or approved travel away from such nurse's duty station may not be considered to be hours of service unless—
 

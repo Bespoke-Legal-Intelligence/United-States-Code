@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) any participant or beneficiary in pay status on the effective date of the amendment, or the beneficiary of such a participant, or
 
-&emsp;&emsp;&emsp;&emsp;(II) any participant who has attained normal retirement age, or who is within 5 years of attaining normal retirement age, on the effective date of the amendment, or the beneficiary of any such participant; and
+&emsp;&emsp;&emsp;&emsp;(II) any participant who has attained normal retirement age, or who is within5 years of attaining normal retirement age, on the effective date of the amendment, or the beneficiary of any such participant; and
 
 &emsp;&emsp;(C) the rate of employer contributions for the plan year in which the amendment becomes effective and for all succeeding plan years in which the plan is in reorganization equals or exceeds the greater of—
 

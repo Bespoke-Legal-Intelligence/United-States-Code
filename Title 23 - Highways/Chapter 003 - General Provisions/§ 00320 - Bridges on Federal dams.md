@@ -10,7 +10,7 @@
 
 (e) In making, reviewing, or approving the design of any bridge or approach structure to be constructed under this section, the agency shall, in matters relating to roadway design, loadings, clearances and widths, and traffic safeguards, give full consideration to and be guided by the standards and advice of the Secretary.
 
-(f) The authority conferred by this section shall be in addition to and not in limitation of authority conferred upon any agency by any other law, and nothing in this section contained shall affect or be deemed to relate to any bridge approach structure, or highway constructed or to be constructed by any such agency in furtherance of its lawful purposes and requirements or to satisfy a legal obligation incurred independently of this section.
+(f) The authority conferred by this section shall be in addition to and not in limitation of authority conferred upon any agency by any other law, and nothing in this section contained shall affect or be deemed to relate to any bridge, approach structure, or highway constructed or to be constructed by any such agency in furtherance of its lawful purposes and requirements or to satisfy a legal obligation incurred independently of this section.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 917; Pub. L. 86–342, title I, §108, Sept. 21, 1959, 73 Stat. 613; Pub. L. 88–423, §4(c), Aug. 13, 1964, 78 Stat. 398; Pub. L. 91–605, title I, §116(a), Dec. 31, 1970, 84 Stat. 1724; Pub. L. 93–87, title I, §128(a), Aug. 13, 1973, 87 Stat. 265; Pub. L. 93–643, §123(a), Jan. 4, 1975, 88 Stat. 2290; Pub. L. 94–280, title I, §137(a), May 5, 1976, 90 Stat. 443; Pub. L. 95–599, title I, §128(a), Nov. 6, 1978, 92 Stat. 2707.)
 

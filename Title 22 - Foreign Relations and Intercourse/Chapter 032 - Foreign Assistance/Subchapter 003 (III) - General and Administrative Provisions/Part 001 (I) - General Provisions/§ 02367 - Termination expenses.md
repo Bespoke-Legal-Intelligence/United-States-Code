@@ -10,7 +10,7 @@ For the purpose of making an equitable settlement of termination claims under ex
 
 #### (c) Termination expenses
 
-Amounts certified as having been obligated for assistance subsequently terminated by thePresident, or pursuant to any provision of law, shall continue to remain available and may be reobligated to meet any necessary expenses arising from the termination of such assistance.
+Amounts certified as having been obligated for assistance subsequently terminated by the President, or pursuant to any provision of law, shall continue to remain available and may be reobligated to meet any necessary expenses arising from the termination of such assistance.
 
 #### (d) Guaranty programs
 

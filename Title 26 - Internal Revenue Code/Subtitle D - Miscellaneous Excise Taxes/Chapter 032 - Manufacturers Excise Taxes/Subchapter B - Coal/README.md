@@ -10,7 +10,7 @@
 
 A prior subchapter B consisted of sections 4111 to 4113, 4121, and 4131 of this title.
 
-Section 4111, acts Aug. 16, 1954, ch. 736, 68A Stat. 485; Sept. 2, 1958, Pub. L. 85–859, title I, §111(a), 72 Stat. 1277, imposed a manufacturers excise tax of 5 percent on household type refrigerators, quick freeze or frozen storage units, or combinations, and a tax of 10 percent on self-contained air-conditioning units, prior to repeal by Pub. L. 89–44, title II, §203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after June 22, 1956.
+Section 4111, acts Aug. 16, 1954, ch. 736, 68A Stat. 485; Sept. 2, 1958, Pub. L. 85–859, title I, §111(a), 72 Stat. 1277, imposed a manufacturers excise tax of 5 percent onhousehold type refrigerators, quick freeze or frozen storage units, or combinations, and a tax of 10 percent on self-contained air-conditioning units, prior to repeal by Pub. L. 89–44, title II, §203, June 21, 1965, 79 Stat. 139, applicable with respect to articles sold on or after June 22, 1956.
 
 Section 4112, acts Aug. 16, 1954, ch. 736, 68A Stat. 485; Aug. 11, 1955, ch. 805, §1(e), 69 Stat. 689, defined refrigerator components, prior to repeal by Pub. L. 85–859, title I, §111(b)(1), Sept. 2, 1958, 72 Stat. 1277, effective the first day of the first calendar quarter beginning more than 60 days after Sept. 2, 1958.
 

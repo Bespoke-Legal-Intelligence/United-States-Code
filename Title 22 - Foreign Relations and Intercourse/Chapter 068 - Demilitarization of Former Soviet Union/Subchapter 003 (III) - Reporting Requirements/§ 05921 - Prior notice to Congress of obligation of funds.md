@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not less than 15 days before obligating any funds made available for a program under this chapter, the President shall transmit to the Congress a report on the proposed obligation. Each such report shall specify—
+Not less than 15 days before obligating any funds made available for a program under thischapter, the President shall transmit to the Congress a report on the proposed obligation. Each such report shall specify—
 
 &emsp;(1) the account, budget activity, and particular program or programs from which the funds proposed to be obligated are to be derived and the amount of the proposed obligation; and
 

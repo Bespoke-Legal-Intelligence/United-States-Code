@@ -1,0 +1,48 @@
+### §7259a. Program authorized
+
+#### (a) Program authority
+
+#### (1) In general
+
+&emsp;The Secretary is authorized to make grants, on a competitive basis, to State educational agencies or local educational agencies to pay the Federal share of the cost of innovative model programs providing for the establishment, improvement, or expansion of foreign language study for elementary school and secondary school students.
+
+#### (2) Duration
+
+&emsp;Each grant under paragraph (1) shall be awarded for a period of 3 years.
+
+#### (b) Requirements
+
+#### (1) Grants to State educational agencies
+
+&emsp;In awarding a grant under subsection (a) of this section to a State educational agency, the Secretary shall support programs that promote systemic approaches to improving foreign language learning in the State.
+
+#### (2) Grants to local educational agencies
+
+&emsp;In awarding a grant under subsection (a) of this section to a local educational agency, the Secretary shall support programs that—
+
+&emsp;&emsp;(A) show the promise of being continued beyond the grant period;
+
+&emsp;&emsp;(B) demonstrate approaches that can be disseminated and duplicated in other local educational agencies; and
+
+&emsp;&emsp;(C) may include a professional development component.
+
+#### (c) Federal share
+
+#### (1) In general
+
+&emsp;The Federal share for each fiscal year shall be 50 percent.
+
+#### (2) Waiver
+
+&emsp;Notwithstanding paragraph (1), the Secretary may determine the Federal share for any local educational agency which the Secretary determines does not have adequate resources to pay the non-Federal share of the cost of the activities assisted under this subpart.
+
+#### (d) Special rule
+
+Not less than 3/4 of the funds made available under section 7241 of this title to carry out thissubpart shall be used for the expansion of foreign language learning in the elementary grades.
+
+#### (e) Reservation
+
+The Secretary may reserve not more than 5 percent of funds made available under section 7241 of this title to carry out this subpart for a fiscal year to evaluate the efficacy of programs assisted under this subpart.
+
+(Pub. L. 89–10, title V, §5492, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1839.)
+

@@ -12,7 +12,7 @@
 
 #### (3) Failure to report
 
-&emsp;If a jurisdiction fails to submit a report satisfactory to the Secretary in a timely manner,assistance to the jurisdiction under subchapter II of this chapter or the other programs referred to in section 12706 of this title may be—
+&emsp;If a jurisdiction fails to submit a report satisfactory to the Secretary in a timely manner, assistance to the jurisdiction under subchapter II of this chapter or the other programs referred to in section 12706 of this title may be—
 
 &emsp;&emsp;(A) suspended until a report satisfactory to the Secretary is submitted; or
 

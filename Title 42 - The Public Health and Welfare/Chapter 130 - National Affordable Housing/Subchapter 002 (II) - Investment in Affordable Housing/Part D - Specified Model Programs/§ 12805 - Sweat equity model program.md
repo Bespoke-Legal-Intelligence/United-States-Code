@@ -48,7 +48,7 @@ Goals and Accountability.—In making grants under this section, the Secretary s
 
 &emsp;“(3) the dwellings constructed in connection with assistance provided under this section are quality dwellings that comply with local building and safety codes and standards and are available at prices below the prevailing market prices;
 
-&emsp;“(4) the provision of assistance under this section establishes and fosters a partnership between the Federal Government and organizations and consortia, resulting in efficient development of affordable housing with minimal governmental intervention, limited governmental regulation, and significant involvement by private entities;
+&emsp;“(4) the provision of assistance under this section establishes and fosters a partnership between the Federal Government and organizations and consortia, resulting in efficient development of affordable housing with minimal governmental intervention, limitedgovernmental regulation, and significant involvement by private entities;
 
 &emsp;“(5) activities to develop housing assisted pursuant to this section involve community participation in which volunteers assist in the construction of dwellings; and
 
@@ -88,7 +88,7 @@ Establishment of Grant Fund.—
 
 &emsp;“(1)
 
-In general.—Any amounts from any grant made under this section shall be deposited by the grantee organization or consortium in a fund that is established by such organization or consortium for such amounts, administered by such organization orconsortium, and available for use only for the purposes under subsection (d). Any interest, fees, or other earnings of the fund shall be deposited in the fund and shall be considered grant amounts for purposes of this section.
+In general.—Any amounts from any grant made under this section shall be deposited by the grantee organization or consortium in a fund that is established by such organization or consortium for such amounts, administered by such organization or consortium, and available for use only for the purposes under subsection (d). Any interest, fees, or other earnings of the fund shall be deposited in the fund and shall be considered grant amounts for purposes of this section.
 
 &emsp;“(2)
 

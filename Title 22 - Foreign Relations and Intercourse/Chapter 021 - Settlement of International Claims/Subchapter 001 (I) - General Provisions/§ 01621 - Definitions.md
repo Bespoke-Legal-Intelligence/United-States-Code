@@ -18,7 +18,7 @@ For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, asenacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Amendments
 
@@ -138,7 +138,7 @@ In general.—Except as otherwise provided in paragraph (3), the Commission shal
 
 Types of assets.—Assets described in this paragraph include—
 
-&emsp;&emsp;“(A) gold, including gold bullion, monetary gold, or similar assets in the possession of or under the control of the Board of Governors of the Federal Reserve System or any Federal reserve bank;
+&emsp;&emsp;“(A) gold, including gold bullion, monetary gold, or similar assets in the possession of or under thecontrol of the Board of Governors of the Federal Reserve System or any Federal reserve bank;
 
 &emsp;&emsp;“(B) gems, jewelry, and nongold precious metals;
 

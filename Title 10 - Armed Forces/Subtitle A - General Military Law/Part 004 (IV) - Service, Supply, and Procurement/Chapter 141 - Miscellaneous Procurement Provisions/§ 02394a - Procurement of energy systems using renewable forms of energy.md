@@ -8,7 +8,7 @@
 
 (2) A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a system shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act (42 U.S.C. 8254(a)).
 
-(Added Pub. L. 97–321, title VIII, §801(a)(1), Oct. 15, 1982, 96 Stat. 1569; amended Pub. L. 98–525,title XIV, §1405(36), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, §1322(a)(7), div. B, title XXVIII, §2852(a), Nov. 5, 1990, 104 Stat. 1671, 1804; Pub. L. 102–25, title VII, §701(g)(2), Apr. 6, 1991, 105 Stat. 115.)
+(Added Pub. L. 97–321, title VIII, §801(a)(1), Oct. 15, 1982, 96 Stat. 1569; amended Pub. L. 98–525, title XIV, §1405(36), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, §1322(a)(7), div. B, title XXVIII, §2852(a), Nov. 5, 1990, 104 Stat. 1671, 1804; Pub. L. 102–25, title VII, §701(g)(2), Apr. 6, 1991, 105 Stat. 115.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@
 
 (3) No application for insurance payments under this subsection shall be valid unless filed with the Secretary within two years after the date of death of the insured or before January 1, 1961, whichever is the later, and the relationship of the applicant shall be proved as of the date of death of the insured by evidence satisfactory to the Secretary. Persons shown by evidence satisfactory to the Secretary to have been mentally or legally incompetent at the time the right to apply for death benefits expires, may make such application at any time within one year after the removal of such disability.
 
-(4) Notwithstanding section 1917 of this title, insurance under this subsection shall be payableto the beneficiary determined under paragraph (2) of this subsection in a lump sum.
+(4) Notwithstanding section 1917 of this title, insurance under this subsection shall be payable to the beneficiary determined under paragraph (2) of this subsection in a lump sum.
 
 (c) The premium rate of any term insurance issued under this section shall not exceed the renewal age 70 premium rate.
 
@@ -22,7 +22,7 @@
 
 #### References in Text
 
-Section 602(n) of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 602(n) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(n) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 712 \[now 1912\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 602(n) of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 602(n)of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(n) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 712 \[now 1912\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 Section 620 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), is section 620 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 

@@ -28,7 +28,7 @@
 
 &emsp;(ii) is contingent on whether or not the matter is resolved in a manner favorable to the claimant.
 
-(B) For purposes of subparagraph (A) of this paragraph, a claim shall be considered to havebeen resolved in a manner favorable to the claimant if all or any part of the relief sought is granted.
+(B) For purposes of subparagraph (A) of this paragraph, a claim shall be considered to have been resolved in a manner favorable to the claimant if all or any part of the relief sought is granted.
 
 (3) To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any attorneys’ fee under a fee arrangement described in paragraph (1) of this subsection be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans’ Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
 
@@ -66,7 +66,7 @@ Pub. L. 102–40, §402(d)(1), substituted “7263(d)” for “4063(d)”.
 
 Subsec. (d)(2)(A), (3). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsecs. (c), (d). Pub. L. 100–687 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The Administrator shall determine and pay fees to agents or attorneys recognized under this section in allowed claims for monetary benefits under laws administered by the Veterans’ Administration. Such fees—
+1988—Subsecs. (c), (d). Pub. L. 100–687 added subsecs. (c) and (d) and struck out former subsec. (c) which readas follows: “The Administrator shall determine and pay fees to agents or attorneys recognized under this section in allowed claims for monetary benefits under laws administered by the Veterans’ Administration. Such fees—
 
 &emsp;“(1) shall be determined and paid as prescribed by the Administrator;
 
@@ -98,7 +98,9 @@ Subsec. (d) of this section not to prevent award of fees and expenses under sect
 
 #### Applicability to Attorneys Fees
 
-Section 403 of Pub. L. 100–687 provided that: “The amendment to section 3404(c) \[now 5904(c)\] of title 38, United States Code, made by section 104(a) shall apply only with respect to services of agents and attorneys in cases in which a notice of disagreement is filed with the Veterans’ Administration \[now Department of Veterans Affairs\] on or after the date of the enactment of this division \[Nov. 18, 1988\].”
+Section 403 of Pub. L. 100–687, which provided that the amendment to subsec. (c) of this section by section 104(a) of Pub. L. 100–687 applied only to services of agents and attorneys in cases in which a notice of disagreement was filed with the Department of Veterans Affairs on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, §603(b), Dec. 27, 2001, 115 Stat. 999.
+
+\[Repeal of section 403 of Pub. L. 100–687, formerly set out above, applicable to any appeal filed with the United States Court of Appeals for Veterans Claims on or after Dec. 27, 2001, or before that date but in which a final decision has not been made under section 7291 of this title as of that date, see section 603(d) of Pub. 107–103, set out as a note under section 7251 of this title.\]
 
 #### Section Referred to in Other Sections
 

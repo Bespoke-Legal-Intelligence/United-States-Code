@@ -13,7 +13,7 @@
 | [2858\.](%C2%A7%2002858%20-%20Limitation%20on%20the%20use%20of%20funds%20for%20expediting%20a%20construction%20project.md) | Limitation on the use of funds for expediting a construction project. |
 | [2859\.](%C2%A7%2002859%20-%20Transmission%20of%20annual%20military%20construction%20authorization%20request.md) | Transmission of annual military construction authorization request. |
 | [2860\.](%C2%A7%2002860%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
-| [2861\.](%C2%A7%2002861%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
+| \[2861. | Repealed.\] |
 | [2862\.](%C2%A7%2002862%20-%20Turn-key%20selection%20procedures.md) | Turn-key selection procedures. |
 | [2863\.](%C2%A7%2002863%20-%20Payment%20of%20contractor%20claims.md) | Payment of contractor claims. |
 | [2864\.](%C2%A7%2002864%20-%20Military%20construction%20contracts%20on%20Guam.md) | Military construction contracts on Guam. |
@@ -25,6 +25,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. B, title XXVIII, §2803(b), Dec. 28, 2001, 115 Stat. 1305, struck out item 2861 “Annual report to Congress”.
 
 1997—Pub. L. 105–85, div. A, title III, §371(c)(3), Nov. 18, 1997, 111 Stat. 1705, added items 2867 and 2868.
 
@@ -60,7 +62,7 @@
 - [&sect; 02858 - Limitation on the use of funds for expediting a construction project](%C2%A7%2002858%20-%20Limitation%20on%20the%20use%20of%20funds%20for%20expediting%20a%20construction%20project.md)
 - [&sect; 02859 - Transmission of annual military construction authorization request](%C2%A7%2002859%20-%20Transmission%20of%20annual%20military%20construction%20authorization%20request.md)
 - [&sect; 02860 - Availability of appropriations](%C2%A7%2002860%20-%20Availability%20of%20appropriations.md)
-- [&sect; 02861 - Annual report to Congress](%C2%A7%2002861%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 02861 - Repealed. Pub. L. 107&#8211;107, div. B, title XXVIII, &sect;2803(a), Dec. 28, 2001, 115 Stat. 1305](%C2%A7%2002861%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72803%28a%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201305.md)
 - [&sect; 02862 - Turn-key selection procedures](%C2%A7%2002862%20-%20Turn-key%20selection%20procedures.md)
 - [&sect; 02863 - Payment of contractor claims](%C2%A7%2002863%20-%20Payment%20of%20contractor%20claims.md)
 - [&sect; 02864 - Military construction contracts on Guam](%C2%A7%2002864%20-%20Military%20construction%20contracts%20on%20Guam.md)

@@ -28,7 +28,7 @@
 
 (d) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating in the Navy, shall prescribe regulations to implement this section.
 
-(Added Pub. L. 90–235, §4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, §116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, §1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L.101–510, div. A, title V, §556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, §506, Oct. 5, 1999, 113 Stat. 591.)
+(Added Pub. L. 90–235, §4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, §116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, §1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L. 101–510, div. A, title V, §556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, §506, Oct. 5, 1999, 113 Stat. 591.)
 
 #### Amendments
 

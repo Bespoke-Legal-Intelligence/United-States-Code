@@ -2,7 +2,7 @@
 
 #### (a) Assistance of heads of other Federal departments and agencies in formulation and implementation
 
-To carry out the purposes of this chapter, the Secretary of Transportation, the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, and the Secretary of Commerce, and the heads of such other Federal departments or agencies as the Secretary deems necessary are directed to assist the Secretary in the formulation and implementation of transportation projects.
+To carry out the purposes of this chapter, the Secretary of Transportation, the Secretary ofHousing and Urban Development, the Secretary of Health and Human Services, and the Secretary of Commerce, and the heads of such other Federal departments or agencies as the Secretary deems necessary are directed to assist the Secretary in the formulation and implementation of transportation projects.
 
 #### (b) Report to Congressional committees concerning planning, etc.
 

@@ -8,7 +8,7 @@ In addition to any other authority or requirement regarding protection from disc
 
 &emsp;(2) security measures (including security plans, procedures, and equipment) for the physical protection of source material or byproduct material, by whomever possessed, whether in transit or at fixed sites, in quantities determined by the Commission to be significant to the public health and safety or the common defense and security; or
 
-&emsp;(3) security measures (including security plans, procedures, and equipment) for the physical protection of and the location of certain plant equipment vital to the safety of production or utilization facilities involvingnuclear materials covered by paragraphs (1) and (2) <sup>1</sup>
+&emsp;(3) security measures (including security plans, procedures, and equipment) for the physical protection of and the location of certain plant equipment vital to the safety of production or utilization facilities involving nuclear materials covered by paragraphs (1) and (2) <sup>1</sup>
 
 > if the unauthorized disclosure of such information could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of theft, diversion, or sabotage of such material or such facility. The Commission shall exercise the authority of this subsection—
 
@@ -40,7 +40,7 @@ Upon prescribing or issuing any regulation or order under subsection (a) of this
 
 #### Codification
 
-Subsection (e) of this section, which required the Commission to submit to Congress on a quarterly basis a report detailing the Commission's application during that period of every regulation or order prescribed or issued under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 7 on page 186 of House Document No. 103–7.
+Subsection (e) of this section, which required the Commission to submit to Congress on a quarterly basis a report detailing the Commission's application duringthat period of every regulation or order prescribed or issued under this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 7 on page 186 of House Document No. 103–7.
 
 #### Transfer of Functions
 

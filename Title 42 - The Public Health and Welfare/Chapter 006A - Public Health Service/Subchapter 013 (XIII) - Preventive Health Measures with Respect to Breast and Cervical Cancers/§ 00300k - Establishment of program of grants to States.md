@@ -32,7 +32,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (c) Special consideration for certain States
 
-In making grants under subsection (a) of this section to States whose initial grants under such subsection are made for fiscal year 1995 or any subsequent fiscal year, the Secretary shall give special consideration to any State whose proposal for carrying out programs under such subsection—
+In making grants under subsection (a) of this section to States whose initial grants under such subsection are made for fiscal year 1995 or any subsequent fiscal year, the Secretary shall give special consideration to any State whoseproposal for carrying out programs under such subsection—
 
 &emsp;(1) has been approved through a process of peer review; and
 
@@ -46,7 +46,7 @@ In making grants under subsection (a) of this section to States whose initial gr
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish a committee to coordinate the activities of the agencies of the Public Health Service (and other appropriate Federal agencies) that are carried out toward achieving the objectives established by the Secretary for reductions in the rate of mortality from breast and cervical cancer in the United States by the year 2000. Such committee shall be comprised of Federal officers or employees designated by the heads of the agencies involved to serve on the committee as representatives of the agencies, and such representatives from other public or private entities as the Secretary determines to be appropriate.
 
-(July 1, 1944, ch. 373, title XV, §1501, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 409; amended Pub. L. 103–43, title XX, §2008(c)(1),June 10, 1993, 107 Stat. 211; Pub. L. 103–183, title I, §101(a), (b), (f), (g)(1), Dec. 14, 1993, 107 Stat. 2227–2229; Pub. L. 105–340, title II, §203(a), (b), Oct. 31, 1998, 112 Stat. 3194; Pub. L. 105–392, title IV, §401(b)(5), Nov. 13, 1998, 112 Stat. 3587.)
+(July 1, 1944, ch. 373, title XV, §1501, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 409; amended Pub. L. 103–43, title XX, §2008(c)(1), June 10, 1993, 107 Stat. 211; Pub. L. 103–183, title I, §101(a), (b), (f), (g)(1), Dec. 14, 1993, 107 Stat. 2227–2229; Pub. L. 105–340, title II, §203(a), (b), Oct. 31, 1998, 112 Stat. 3194; Pub. L. 105–392, title IV, §401(b)(5), Nov. 13, 1998, 112 Stat. 3587.)
 
 #### References in Text
 

@@ -8,7 +8,7 @@ Gross income of an employee, his spouse, or his dependents, does not include—
 
 &emsp;(2) the value of legal services provided, or amounts paid for legal services, under a qualified group legal services plan (as defined in subsection (b)) to, or with respect to, an employee, his spouse, or his dependents.
 
-> No exclusion shall be allowed under this section with respect to an individual for any taxableyear to the extent that the value of insurance (whether through an insurer or self-insurance) against legal costs incurred by the individual (or his spouse or dependents) provided under a qualified group legal services plan exceeds $70.
+> No exclusion shall be allowed under this section with respect to an individual for any taxable year to the extent that the value of insurance (whether through an insurer or self-insurance) against legal costs incurred by the individual (or his spouse or dependents) provided under a qualified group legal services plan exceeds $70.
 
 #### (b) Qualified group legal services plan
 

@@ -18,11 +18,11 @@ The plan may provide for the establishment, issuance, effectuation, and administ
 
 #### (e) Marketing objectives of research and development projects and studies
 
-The plan may provide for establishing and carrying out research and development projects andstudies to the end that the marketing and use of watermelons may be encouraged, expanded, improved, or made more efficient, and for the disbursement of necessary funds for such purposes.
+The plan may provide for establishing and carrying out research and development projects and studies to the end that the marketing and use of watermelons may be encouraged, expanded, improved, or made more efficient, and for the disbursement of necessary funds for such purposes.
 
 #### (f) Reserve funds; limitation
 
-The plan may provide authority for the accumulation of reserve funds from assessments collected under this chapter, to permit an effective and continuous coordinated program of research, development, advertising, and promotion in years when watermelon production and assessment income may be reduced, except that the total reserve fund may not exceed the amount budgeted for two years operation.
+The plan may provide authority for the accumulation of reserve funds from assessments collected under this chapter, to permit an effectiveand continuous coordinated program of research, development, advertising, and promotion in years when watermelon production and assessment income may be reduced, except that the total reserve fund may not exceed the amount budgeted for two years operation.
 
 #### (g) Foreign market sales
 

@@ -56,7 +56,7 @@ Pub. L. 105–244, §301(b)(1), inserted “and” after the semicolon.
 
 Par. (2). Pub. L. 105–244, §301(b)(2), substituted a period for “; and”.
 
-Par. (3). Pub. L. 105–244, §301(b)(3), struck out par. (3) which read as follows: “for the purposes of section 1135c–1 of this title, public and private nonprofit institutions that have at least 10 percent minority enrollment.”
+Par. (3). Pub. L. 105–244, §301(b)(3), struck out par. (3) which read as follows: “for the purposes of section1135c–1 of this title, public and private nonprofit institutions that have at least 10 percent minority enrollment.”
 
 #### Effective Date of 1998 Amendment
 

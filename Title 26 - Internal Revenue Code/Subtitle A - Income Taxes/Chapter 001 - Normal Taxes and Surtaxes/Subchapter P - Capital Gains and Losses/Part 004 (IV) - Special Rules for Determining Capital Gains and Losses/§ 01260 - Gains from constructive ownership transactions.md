@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (2) Exception for positions which are marked to market
 
-&emsp;This section shall not apply to any constructive ownership transaction if all of the positions which are part of such transaction aremarked to market under any provision of this title or the regulations thereunder.
+&emsp;This section shall not apply to any constructive ownership transaction if all of the positions which are part of such transaction are marked to market under any provision of this title or the regulations thereunder.
 
 #### (3) Long position under notional principal contract
 

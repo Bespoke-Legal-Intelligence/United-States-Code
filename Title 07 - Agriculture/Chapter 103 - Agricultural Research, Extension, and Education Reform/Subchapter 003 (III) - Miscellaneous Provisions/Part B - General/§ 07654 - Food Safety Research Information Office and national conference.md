@@ -16,7 +16,7 @@
 
 #### (3) Cooperation
 
-&emsp;The Office shall carry out this subsection in cooperation with the National Institutes of Health, the Food and Drug Administration, the Centers for Disease Control and Prevention, public institutions, and, on a voluntary basis, private research entities.
+&emsp;The Office shall carry out this subsection in cooperation with the National Institutes ofHealth, the Food and Drug Administration, the Centers for Disease Control and Prevention, public institutions, and, on a voluntary basis, private research entities.
 
 #### (b) National conference; annual workshops
 

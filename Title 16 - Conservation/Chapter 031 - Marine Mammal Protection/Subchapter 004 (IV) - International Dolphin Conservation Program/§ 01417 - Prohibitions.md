@@ -6,7 +6,7 @@ It is unlawful—
 
 &emsp;(1) for any person to sell, purchase, offer for sale, transport, or ship, in the United States, any tuna or tuna product unless the tuna or tuna product is either dolphin safe or has been harvested in compliance with the International Dolphin Conservation Program by a country that is a member of the Inter-American Tropical Tuna Commission or has initiated and within 6 months thereafter completed all steps required of applicant nations in accordance with Article V, paragraph 3 of the Convention establishing the Inter-American Tropical Tuna Commission, to become a member of that organization;
 
-&emsp;(2) except as provided for in subsection 1371(d) of this title, for any person or vessel subject to the jurisdiction of the United States intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and
+&emsp;(2) except as provided for in subsection 1371(d) of this title, for any person or vessel subject to the jurisdiction of the UnitedStates intentionally to set a purse seine net on or to encircle any marine mammal in the course of tuna fishing operations in the eastern tropical Pacific Ocean except in accordance with this subchapter and regulations issued pursuant to this subchapter; and
 
 &emsp;(3) for any person to import any yellowfin tuna or yellowfin tuna product or any other fish or fish product in violation of a ban on importation imposed under section 1371(a)(2) of this title;
 
@@ -20,7 +20,7 @@ It is unlawful—
 
 #### (1) Civil penalty
 
-&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of thissection shall be subject to a civil penalty under section 1375(a) of this title.
+&emsp;A person that knowingly and willfully violates subsection (a)(1), (2), (3), (4), or (5) of this section shall be subject to a civil penalty under section 1375(a) of this title.
 
 #### (2) Criminal penalty
 

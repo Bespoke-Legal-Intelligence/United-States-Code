@@ -22,7 +22,7 @@
 
 &emsp;(2) such person—
 
-&emsp;&emsp;(A) is an agent of Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to thenational security interest of the United States for purposes of this section, unless the Attorney General, after consultation with the Secretary of State, determines and so reports to the Congress that the national security or foreign policy interests of the United States require that the provisions of this section do not apply in specific circumstances to agents of such country; or
+&emsp;&emsp;(A) is an agent of Cuba or any other country that the President determines (and so reports to the Congress) poses a threat to the national security interest of the United States for purposes of this section, unless the Attorney General, after consultation with the Secretary of State, determines and so reports to the Congress that the national security or foreign policy interests of the United States require that the provisions of this section do not apply in specific circumstances to agents of such country; or
 
 &emsp;&emsp;(B) has been convicted of, or has entered a plea of nolo contendere with respect to, any offense under section 792 through 799, 831, or 2381 of this title or under section 11 of the Export Administration Act of 1979, except that the provisions of this subsection shall not apply to a person described in this clause for a period of more than five years beginning on the date of the conviction or the date of entry of the plea of nolo contendere, as the case may be.
 

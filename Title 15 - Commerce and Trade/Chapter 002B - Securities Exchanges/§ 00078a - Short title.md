@@ -8,6 +8,10 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 
 This chapter, referred to in text, was in the original “This Act”. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I, which title is set out as sections 78a to 78<i>l</i>, 78m to 78<i>o</i>, 78<i>o</i>–3 to 78dd–1, and 78ee to 78hh, and 78kk to 78mm of this title. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77<i>o</i>, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–123, §1, Jan. 16, 2002, 115 Stat. 2390, provided that: “This Act \[enacting chapter 48 of Title 5, Government Organization and Employees, amending sections 77f, 77ggg, 78d, 78m, 78n, and 78ee of this title, sections 3132 and 5373 of Title 5, and section 1833b of Title 12, Banks and Banking, and enacting provisions set out as notes under section 78ee of this title and section 4802 of Title 5\] may be cited as the ‘Investor and Capital Markets Fee Relief Act’.”
+
 #### Short Title of 1998 Amendments
 
 Pub. L. 105–366, §1, Nov. 10, 1998, 112 Stat. 3302, provided that: “This Act \[enacting section 78dd–3 of this title, amending sections 78dd–1, 78dd–2, and 78ff of this title, and enacting provisions set out as notes under section 78dd–1 of this title\] may be cited as the ‘International Anti-Bribery and Fair Competition Act of 1998’.”
@@ -18,7 +22,7 @@ Pub. L. 105–353, §1, Nov. 3, 1998, 112 Stat. 3227, provided that: “This Act
 
 Pub. L. 104–290, §1(a), Oct. 11, 1996, 110 Stat. 3416, provided that: “This Act \[enacting sections 77z–3, 78mm, and 80b–3a of this title, amending sections 77b, 77c, 77f, 77r, 77ddd, 78c, 78d, 78g, 78h, 78<i>o</i>, 78q, 78bb, 78ee, 78kk, 80a–2, 80a–3, 80a–6, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, 80a–54, 80a–60, 80a–63, 80b–2, 80b–3, 80b–5, and 80b–18a of this title and section 1002 of Title 29, Labor, and enacting provisions set out as notes under this section, sections 77e, 77r, 78b, 78n, 78<i>o</i>, 78ee, 80a–2, 80a–3, 80a–24, 80a–51, 80b–2, 80b–3a, 80b–10, and 80b–20 of this title, and section 1002 of Title 29\] may be cited as the ‘National Securities Markets Improvement Act of 1996’.”
 
-Pub. L. 104–290, title I, §101, Oct. 11, 1996, 110 Stat. 3417, provided that: “This title \[enacting sections 77z–3 and 78mm of this title, amending sections 77b, 77r, 78c, 78g, 78h, 78<i>o</i>, 78q, 78bb, and 80a–2 of this title, and enacting provisions set out as notes under sections 77e and 77r of this title\] may be cited as the ‘Capital Markets Efficiency Act of 1996’.”
+Pub. L. 104–290, title I, §101, Oct. 11, 1996, 110 Stat. 3417, provided that: “This title \[enacting sections 77z–3 and 78mm of this title, amending sections 77b, 77r, 78c, 78g, 78h, 78<i>o</i>, 78q, 78bb, and 80a–2 of this title, and enacting provisions set out as notes under sections 77e and77r of this title\] may be cited as the ‘Capital Markets Efficiency Act of 1996’.”
 
 Pub. L. 104–290, title IV, §401, Oct. 11, 1996, 110 Stat. 3441, provided that: “This title \[amending sections 77f, 78d, 78ee, and 78kk of this title and enacting provisions set out as notes under this section and section 78ee of this title\] may be cited as the ‘Securities and Exchange Commission Authorization Act of 1996’.”
 
@@ -78,7 +82,7 @@ Pub. L. 98–376, §1, Aug. 10, 1984, 98 Stat. 1264, provided that: “This Act 
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–213, title I, §101, Dec. 19, 1977, 91 Stat. 1494, provided that: “This title \[enacting sections 78dd–1 and 78dd–2 of this title and amending sections 78m and 78ff of this title\] may be cited as the ‘Foreign Corrupt Practices Act of 1977’.”
+Pub. L. 95–213, title I, §101, Dec. 19, 1977, 91 Stat. 1494, provided that: “This title \[enacting sections 78dd–1 and78dd–2 of this title and amending sections 78m and 78ff of this title\] may be cited as the ‘Foreign Corrupt Practices Act of 1977’.”
 
 Pub. L. 95–213, title II, §201, Dec. 19, 1977, 91 Stat. 1498, provided that: “This title \[amending sections 78m and 78<i>o</i> of this title\] may be cited as the ‘Domestic and Foreign Investment Improved Disclosure Act of 1977’.”
 

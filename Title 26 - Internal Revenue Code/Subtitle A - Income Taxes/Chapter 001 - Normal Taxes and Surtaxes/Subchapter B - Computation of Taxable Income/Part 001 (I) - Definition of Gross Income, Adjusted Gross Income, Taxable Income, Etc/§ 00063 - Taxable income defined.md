@@ -128,21 +128,67 @@ For purposes of this subtitle, the term “itemized deductions” means the dedu
 
 #### (3) Higher amount for certain unmarried individuals
 
-&emsp;In the case of an individual who is not married and is not a surviving spouse, paragraphs (1) and (2) shall be applied by substituting “$750” for “$600”.
+&emsp;In the case of an individual who is not married and is not a surviving spouse, paragraphs\(1) and (2) shall be applied by substituting “$750” for “$600”.
 
 #### (4) Blindness defined
 
-&emsp;For purposes of this subsection, an individual is blind only if his central visual acuity does not exceed 20/200 in the better eye withcorrecting lenses, or if his visual acuity is greater than 20/200 but is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees.
+&emsp;For purposes of this subsection, an individual is blind only if his central visual acuity does not exceed 20/200 in the better eye with correcting lenses, or if his visual acuity is greater than 20/200 but is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees.
 
 #### (g) Marital status
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54.)
 
-#### Standard Deduction Adjustments for Tax Years Beginning in 2001
+#### Standard Deduction Adjustments for Tax Years Beginning in 2002
 
-<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsecs. (c)(2), (5) and (f) of this section for tax years beginning in 2001, see section 3.05 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of standard deduction, limitation on standard deduction, and additional amounts under subsecs. (c)(2), (5) and (f) of this section for tax years beginning in 2002, see section 3.07 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 107–16, title III, §301(a), (b), (c)(2), (d), title IX, §901, June 7, 2001, 115 Stat. 53, 54, 150, provided that, applicable to taxable years beginning after Dec. 31, 2004, subsection (c) of this section is temporarily amended as follows:</i>
+
+<i>(1) in paragraph (2), by substituting “the applicable percentage of the dollar amount in effect under subparagraph (C) for the taxable year” for “$5,000” in subparagraph (A), by inserting “or” at the end of subparagraph (B), by substituting “in any other case.” for “in the case of” and all that follows in subparagraph (C), and by striking out subparagraph (D);</i>
+
+<i>(2) in paragraph (4), by inserting at end the following flush sentence: “The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).”; and</i>
+
+<i>(3) by adding paragraph (7) to read as follows:</i>
+
+#### <i>(7) Applicable percentage</i>
+
+&emsp;<i>For purposes of paragraph (2), the applicable percentage shall be determined in accordance with the following table:</i>
+
+<i>For taxable years beginning</i>
+
+<i>The applicable</i>
+
+<i> in calendar year—</i>
+
+<i>percentage is—</i>
+
+&emsp;&emsp;<i>2005</i>
+
+<i>174   </i>
+
+&emsp;&emsp;<i>2006</i>
+
+<i>184   </i>
+
+&emsp;&emsp;<i>2007</i>
+
+<i>187   </i>
+
+&emsp;&emsp;<i>2008</i>
+
+<i>190   </i>
+
+&emsp;&emsp;<i>2009 and thereafter</i>
+
+<i>200. </i>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -192,7 +238,7 @@ Subsec. (c)(6)(C) to (E). Pub. L. 99–514, §1272(d)(6), redesignated subpars. 
 
 Subsec. (d). Pub. L. 99–514, §102(a), substituted “Itemized deductions” for “Zero bracket amount” in heading and amended text generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this subtitle, the term ‘zero bracket amount’ means—
 
-&emsp;“(1) in the case of an individual to whom subsection (a), (b), (c), or (d) of section 1 applies, the maximum amount of taxable income on which no tax is imposed by the applicable subsection of section 1, or
+&emsp;“(1) in the case of an individual to whom subsection (a), (b), (c), or (d) of section 1 applies, the maximumamount of taxable income on which no tax is imposed by the applicable subsection of section 1, or
 
 &emsp;“(2) zero in any other case.”
 
@@ -226,7 +272,7 @@ Subsec. (f). Pub. L. 99–514, §102(a), substituted “Aged or blind additional
 
 &emsp;“(3) the direct charitable deduction.”
 
-Subsec. (g). Pub. L. 99–514, §102(a), amended subsec. (g) generally, substituting provision that maritalstatus be determined under section 7703 for provisions relating to election to itemize. See subsec. (e).
+Subsec. (g). Pub. L. 99–514, §102(a), amended subsec. (g) generally, substituting provision that marital status be determined under section 7703 for provisions relating to election to itemize. See subsec. (e).
 
 Subsec. (h). Pub. L. 99–514, §102(a), substituted “Transitional rule for taxable years beginning in 1987” for “Marital status” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, marital status shall be determined under section 143.”
 
@@ -245,6 +291,12 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 <b>1978</b>—Pub. L. 95–600 substituted “$3,400” for “$3,200” in par. (1), “$2,300” for “$2,200” in par. (2), and “$1,700” for “$1,600” in par. (3).
 
 <b>1977</b>—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, “General rule” and “Individuals electing standard deduction” to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, “Corporations”, “Individuals”, “Excess itemized deductions”, “Zero bracket amount”, “Unused zero bracket amount”, “Itemized deductions”, “Election to itemize”, and “Marital status”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2004, see section 301(d) of Pub. L. 107–16, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -274,7 +326,7 @@ Amendment by section 104(b) of Pub. L. 97–34 applicable to taxable years begin
 
 Amendment by section 111(b)(4) of Pub. L. 97–34 applicable with respect to taxable years beginning after Dec. 31, 1981, see section 115 of Pub. L. 97–34, set out as a note under section 911 of this title.
 
-Amendment by section 121(b), (c)(2) of Pub. L. 97–34 applicable to contributions made after Dec. 31, 1981, in taxable years beginning after such date, see section 121(d) of Pub. L. 97–34, set out as a note under section 170 of this title.
+Amendment by section 121(b), (c)(2) of Pub. L. 97–34 applicable to contributions made after Dec. 31, 1981, in taxable years beginning after such date, see section121(d) of Pub. L. 97–34, set out as a note under section 170 of this title.
 
 #### Effective Date of 1978 Amendment
 

@@ -2,9 +2,9 @@
 
 #### (a) Examinations and sanctions
 
-(1) In connection with any examination of a mortgagee approved by the Secretary pursuant to this chapter, the Secretary shall assess the performance of the mortgagee in meeting the requirements of sections 1709(t),<sup>1</sup> 1715n(a)(7)(B), and 1735f–13 of this title. Where the Secretary determines that a mortgagee is not in compliance with these requirements, the Secretary shall refer the matter to the Mortgagee Review Board for investigation and appropriate action.
+(1) In connection with any examination of a mortgagee approved by the Secretary pursuant to this chapter, the Secretary shall assess the performance of the mortgagee in meeting the requirements of sections 1709(t),<sup>1</sup> 1715n(a)(7)(B),<sup>1</sup> and 1735f–13 of this title. Where the Secretary determines that a mortgagee is not in compliance with these requirements, the Secretary shall refer the matter to the Mortgagee Review Board for investigation and appropriate action.
 
-(2) Not later than 180 days after November 28, 1990, the Secretary shall by notice establish a procedure under which (A) any person may file a request that the Secretary determine whether a mortgagee is in compliance with sections 1709(t),<sup>1</sup> 1715n(a)(7)(B), and 1735f–13 of this title, (B) the Secretary shall inform the person of the disposition of the request, and (C) the Secretary shall publish in the Federal Register the disposition of any case referred by the Secretary to the Mortgagee Review Board. Such procedures shall be established by regulation under section 553 of title 5. The Secretary shall issue regulations based on the initial notice before the expiration of the 8-month period beginning on the date of the notice.
+(2) Not later than 180 days after November 28, 1990, the Secretary shall by notice establish a procedure under which (A) any person may file a request that the Secretary determine whether a mortgagee is in compliance with sections 1709(t),<sup>1</sup> 1715n(a)(7)(B),<sup>1</sup> and 1735f–13 of this title, (B) the Secretary shall inform the person of the disposition of the request, and (C) the Secretary shall publish in the Federal Register the disposition of any case referred by the Secretary to the Mortgagee Review Board. Such procedures shall be established by regulation under section 553 of title 5. The Secretary shall issue regulations based on the initial notice before the expiration of the 8-month period beginning on the date of the notice.
 
 (3) Omitted.
 
@@ -17,6 +17,8 @@ The Secretary shall continually monitor and undertake a thorough review of the i
 #### References in Text
 
 Section 1709(t) of this title, referred to in subsec. (a)(1), (2), was redesignated section 1709(u) of this title by Pub. L. 106–377, §1(a)(1) \[title II, §209(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25.
+
+Section 1715n(a)(7)(B) of this title, referred to in subsec. (a)(1), (2), was redesignated section 1715n(a)(7)(A)(ii) of this title by Pub. L. 107–116, title VI, §615(3), Jan. 10, 2002, 115 Stat. 2225.
 
 #### Codification
 

@@ -24,7 +24,7 @@ Any designated archaeological or ethnological material which is imported into th
 
 (1) In any action for forfeiture under this section regarding an article of cultural property imported into the United States in violation of section 2607 of this title, if the claimant establishes valid title to the article, under applicable law, as against the institution from which the article was stolen, forfeiture shall not be decreed unless the State Party to which the article is to be returned pays the claimant just compensation for the article. In any action for forfeiture under this section where the claimant does not establish such title but establishes that it purchased the article for value without knowledge or reason to believe it was stolen, forfeiture shall not be decreed unless—
 
-&emsp;(A) the State Party to which the article is to be returned pays the claimant an amountequal to the amount which the claimant paid for the article, or
+&emsp;(A) the State Party to which the article is to be returned pays the claimant an amount equal to the amount which the claimant paid for the article, or
 
 &emsp;(B) the United States establishes that such State Party, as a matter of law or reciprocity, would in similar circumstances recover and return an article stolen from an institution in the United States without requiring the payment of compensation.
 

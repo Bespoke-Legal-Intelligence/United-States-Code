@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-The President may appoint, by and with the advice and consent of the Senate, a Director ofthe Peace Corps and a Deputy Director of the Peace Corps.
+The President may appoint, by and with the advice and consent of the Senate, a Director of the Peace Corps and a Deputy Director of the Peace Corps.
 
 #### (b) Exercise of functions by Director
 
@@ -16,7 +16,7 @@ The President may exercise any functions vested in him by this chapter through t
 
 (3) Under the direction of the President, the Secretary of State shall be responsible for the continuous supervision and general direction of the programs authorized by this chapter, to the end that such programs are effectively integrated both at home and abroad and the foreign policy of the United States is best served thereby.
 
-(4) The Director of the Peace Corps may prescribe such regulations as may be necessary to assure that no individual performing service for the Peace Corps under any authority contained in this chapter shall engage in any activity determined by the Director to be detrimental to the best interests of the United States.
+(4) The Director of the Peace Corps may prescribe such regulations as may be necessary to assure that no individual performing service forthe Peace Corps under any authority contained in this chapter shall engage in any activity determined by the Director to be detrimental to the best interests of the United States.
 
 #### (d) Prohibition on performance of services more usefully performed by other agencies
 

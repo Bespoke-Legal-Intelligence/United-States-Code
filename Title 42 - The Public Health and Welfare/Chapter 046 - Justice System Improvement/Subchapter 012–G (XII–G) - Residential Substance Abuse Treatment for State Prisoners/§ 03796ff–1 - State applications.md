@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) To request a grant under this subchapter the chief executive of a State shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
+(1) To request a grant under this subchapter the chief executive of a State shall submit an application to the Attorney General in suchform and containing such information as the Attorney General may reasonably require.
 
 (2) Such application shall include assurances that Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.
 

@@ -42,7 +42,7 @@ Pub. L. 100–297, title II, §2501, Apr. 28, 1988, 102 Stat. 325, provided that
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–425, §1, Sept. 30, 1986, 100 Stat. 966, provided: “That this Act \[enacting sections 8628a, 9812a, 9910b, and 10901 to 10905 of this title, amending sections 8621, 8623, 8624, 8629, 9803, 9834, 9835, 9837, 9840, 9862, 9867, 9871, 9874, 9877, 9901 to 9904, 9905a, 9908 to 9910, and 9910a of this title and section 4033 of Title 20, Education, enacting provisions set out as notes under this section and sections 8621, 8623, and 10901 of this title, and amending provisions set out as notes under section 9861 of this title and section 1932 of Title 7, Agriculture\] may be cited as the ‘Human Services Reauthorization Act of 1986’.”
+Pub. L. 99–425, §1, Sept. 30, 1986, 100 Stat. 966, provided: “That this Act \[enacting sections 8628a, 9812a, 9910b, and 10901 to 10905 of this title, amending sections 8621, 8623, 8624, 8629, 9803, 9834, 9835, 9837, 9840, 9862, 9867, 9871, 9874, 9877, 9901 to 9904, 9905a, 9908 to 9910, and 9910a of this title and section 4033 of Title 20, Education, enacting provisions set out as notes under this section and sections 8621, 8623, and 10901 of this title, andamending provisions set out as notes under section 9861 of this title and section 1932 of Title 7, Agriculture\] may be cited as the ‘Human Services Reauthorization Act of 1986’.”
 
 #### Short Title of 1984 Amendment
 

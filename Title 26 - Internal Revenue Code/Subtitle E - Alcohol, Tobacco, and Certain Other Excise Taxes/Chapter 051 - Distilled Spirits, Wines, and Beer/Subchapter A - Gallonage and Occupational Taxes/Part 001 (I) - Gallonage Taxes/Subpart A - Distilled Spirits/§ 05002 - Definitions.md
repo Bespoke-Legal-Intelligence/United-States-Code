@@ -106,7 +106,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;<b>(5) For definitions of general application to this title, see chapter 79.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1315; amended Pub. L. 89–44, title VIII, §807(a), June 21, 1965, 79 Stat. 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §805(e), July 26, 1979, 93 Stat. 278; Pub. L. 103–465, title I, §136(c)(1), Dec. 8, 1994, 108 Stat. 4841.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1315; amended Pub. L. 89–44, title VIII, §807(a), June 21, 1965, 79 Stat. 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §805(e), July 26,1979, 93 Stat. 278; Pub. L. 103–465, title I, §136(c)(1), Dec. 8, 1994, 108 Stat. 4841.)
 
 #### Prior Provisions
 

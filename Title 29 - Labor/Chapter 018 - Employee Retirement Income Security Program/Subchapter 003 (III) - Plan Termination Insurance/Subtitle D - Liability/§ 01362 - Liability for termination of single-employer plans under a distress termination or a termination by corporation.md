@@ -78,7 +78,7 @@ A person described in subsection (a) of this section shall be subject to liabili
 
 &emsp;&emsp;(B) for any fiscal year of an organization described in section 501(c) of title 26, the excess of income over expenses (as such terms are defined for such organizations under generally accepted accounting principles),
 
-> &emsp;before provision for or deduction of Federal or other income tax, any contribution to any single-employer plan of which such person is acontributing sponsor at any time during the period beginning on the termination date and ending with the end of such fiscal year, and any amounts required to be paid for such fiscal year under this section. The corporation may by regulation require such information to be filed on such forms as may be necessary to determine the existence and amount of such pre-tax profits.
+> &emsp;before provision for or deduction of Federal or other income tax, any contribution to any single-employer plan of which such person is a contributing sponsor at any time during the period beginning on the termination date and ending with the end of such fiscal year, and any amounts required to be paid for such fiscal year under this section. The corporation may by regulation require such information to be filed on such forms as may be necessary to determine the existence and amount of such pre-tax profits.
 
 #### (e) Treatment of substantial cessation of operations
 

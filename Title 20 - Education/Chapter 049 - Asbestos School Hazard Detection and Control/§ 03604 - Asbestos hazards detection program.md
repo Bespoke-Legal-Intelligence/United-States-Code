@@ -4,7 +4,7 @@
 
 (1)(A) The Secretary may make grants to local educational agencies for the Federal share of the costs of carrying out an asbestos detection program meeting the standards established by the Secretary under section 3606(a)(1) of this title. Grants may be made under this section only during the two-year period beginning on June 14, 1980.
 
-(B) The Secretary may make grants to State educational agencies for the Federal share of the costs of carrying out any asbestos detection program if—
+(B) The Secretary may make grants to State educational agencies for the Federal share of thecosts of carrying out any asbestos detection program if—
 
 &emsp;(i) the State, through the State educational agency or some other appropriate State agency, is making grants to local educational agencies for asbestos hazard detection programs, and
 
@@ -16,7 +16,7 @@
 
 #### (b) Application for grants; procedures applicable for approval; programs completed before January 1, 1976; determinations respecting amount of grant
 
-(1) No grant may be made under this section unless an application has been submitted to andapproved by the Secretary, after consultation with the Task Force. The Secretary may not approve an application unless the application—
+(1) No grant may be made under this section unless an application has been submitted to and approved by the Secretary, after consultation with the Task Force. The Secretary may not approve an application unless the application—
 
 &emsp;(A) contains a description of the methods to be used by the local educational agency, or in the case of an application by the State educational agency the methods to be used by the local educational agencies receiving grants from the State, to determine whether hazardous concentrations of asbestos fibers or materials emitting such fibers exist in school buildings under the jurisdiction of such agency;
 

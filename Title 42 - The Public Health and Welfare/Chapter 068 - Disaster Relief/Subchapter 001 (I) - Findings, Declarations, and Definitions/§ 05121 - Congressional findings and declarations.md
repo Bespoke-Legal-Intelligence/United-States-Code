@@ -38,7 +38,7 @@ Section 605 of Pub. L. 93–288 provided that Pub. L. 93–288 was effective Apr
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165 to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
+Pub. L. 106–390, §1(a), Oct. 30, 2000, 114 Stat. 1552, provided that: “This Act \[enacting sections 5133, 5134, 5165 to 5165c, 5205, and 5206 of this title, amending sections 3796b, 5122, 5154, 5170c, 5172, 5174, 5184, 5187, and 5192 of this title, repealing sections 5176 and 5178 of this title, and enacting provisions set out as notes under this section and sections 3796b, 5133, 5165b, 5172, 5174, and 5187 of this title\] may be cited as the ‘Disaster Mitigation Act of 2000’.”
 
 #### Short Title of 1993 Amendment
 
@@ -54,7 +54,7 @@ Pub. L. 96–568, §1, Dec. 23, 1980, 94 Stat. 3334, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the “Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
+Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31,and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the “Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
 
 #### Delegation of Functions
 
@@ -288,7 +288,7 @@ Administrative Support.—The Secretary of Agriculture shall provide all financi
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 
-Section 110 of Pub. L. 100–707 provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 23, 1988\], the President shall recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials. Such proposals should include provisions which—
+Section 110 of Pub. L. 100–707 provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 23, 1988\], the President shall recommend to the Congress proposals to improve the operational andfiscal relationships that exist among Federal, State, and local major disaster and emergency management officials. Such proposals should include provisions which—
 
 &emsp;“(1) decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies;
 

@@ -26,7 +26,3 @@ Repayment of Student Loans.—The Secretary of Defense may repay all or part of 
 
 Pub. L. 106–65, div. A, title IX, §925(b), Oct. 5, 1999, 113 Stat. 726, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to charges for tuition or expenses incurred after the date of the enactment of this Act \[Oct. 5, 1999\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1762 of this title.
-

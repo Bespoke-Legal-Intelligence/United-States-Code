@@ -54,7 +54,7 @@ Subsection (b) of this section shall not apply to any person of a foreign countr
 
 #### (d) “Person of a foreign country” defined
 
-For purposes of this section, a person is a “person of a foreign country” if that person, or any other person which directly or indirectly owns or controls that person, is a resident of that country, is organized under the laws of that country, or has its principal place of business in that country.
+For purposes of this section, a person is a “person of a foreign country” if that person, or any other person which directly or indirectlyowns or controls that person, is a resident of that country, is organized under the laws of that country, or has its principal place of business in that country.
 
 #### (e) Effective date
 

@@ -28,7 +28,7 @@ If the Secretary considers it necessary in order to prevent the dissemination of
 
 #### (1) Development required
 
-&emsp;To facilitate control of noxious weeds, the Secretary may develop a classification system to describe the status and action levels for noxious weeds. The classification system may include the current geographic distribution, relative threat, and actions initiated to prevent introduction or distribution.
+&emsp;To facilitate control of noxious weeds, the Secretary may develop a classification systemto describe the status and action levels for noxious weeds. The classification system may include the current geographic distribution, relative threat, and actions initiated to prevent introduction or distribution.
 
 #### (2) Management plans
 

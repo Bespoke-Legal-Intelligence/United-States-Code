@@ -14,7 +14,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 #### (A) In general
 
-&emsp;&emsp;This subsection shall apply to every insurance company other than life (including interinsurers and reciprocal underwriters) if—
+&emsp;&emsp;This subsection shall apply to every insurance company other than life (includinginterinsurers and reciprocal underwriters) if—
 
 &emsp;&emsp;&emsp;(i) the net written premiums (or, if greater, direct written premiums) for the taxable year exceed $350,000 but do not exceed $1,200,000, and
 
@@ -52,7 +52,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;<b>(3) For exemption from tax for certain insurance companies other than life, see section 501(c)(15).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat.997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, §8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, §104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, §1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, §1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455.)
 
 #### Amendments
 

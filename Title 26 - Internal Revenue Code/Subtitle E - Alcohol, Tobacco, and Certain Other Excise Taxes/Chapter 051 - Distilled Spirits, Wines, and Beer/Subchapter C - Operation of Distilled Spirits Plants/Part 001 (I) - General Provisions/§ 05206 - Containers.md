@@ -34,7 +34,7 @@ This section shall be applicable exclusively with respect to containers of disti
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
+Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in prior sections ofact Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
 &nbsp;
 

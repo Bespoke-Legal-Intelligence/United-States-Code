@@ -2,7 +2,7 @@
 
 (a) Nothing in this subchapter shall prohibit a religious organization, association, or society, or any nonprofit institution or organization operated, supervised or controlled by or in conjunction with a religious organization, association, or society, from limiting the sale, rental or occupancy of dwellings which it owns or operates for other than a commercial purpose to persons of the same religion, or from giving preference to such persons, unless membership in such religion is restricted on account of race, color, or national origin. Nor shall anything in this subchapter prohibit a private club not in fact open to the public, which as an incident to its primary purpose or purposes provides lodgings which it owns or operates for other than a commercial purpose, from limiting the rental or occupancy of such lodgings to its members or from giving preference to its members.
 
-(b)(1) Nothing in this subchapter limits the applicability of any reasonable local, State, or Federal restrictions regarding the maximum number of occupants permitted to occupy a dwelling. Nor does any provision in this subchapter regarding familial status apply with respect to housing for older persons.
+(b)(1) Nothing in this subchapter limits the applicability of any reasonable local, State, orFederal restrictions regarding the maximum number of occupants permitted to occupy a dwelling. Nor does any provision in this subchapter regarding familial status apply with respect to housing for older persons.
 
 (2) As used in this section, “housing for older persons” means housing—
 

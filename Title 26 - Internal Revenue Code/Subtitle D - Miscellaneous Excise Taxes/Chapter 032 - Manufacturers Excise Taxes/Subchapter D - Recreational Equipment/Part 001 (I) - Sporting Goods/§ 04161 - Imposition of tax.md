@@ -94,7 +94,7 @@ Section 701(a) of Pub. L. 89–44 provided that:
 
 “(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by titles I and II of this Act \[enacting sections 4094 and 6424 of this title, amending this section and sections 4055, 4057, 4061, 4091, 4216, 4218, 4221, 4222, 4227, 6011, 6206, 6412, 6416, 6675, 7210, 7603, 7604, and 7605 of this title, repealing sections 4001 to 4003, 4011 to 4013, 4021, 4022, 4031, 4051 to 4053, 4111, 4121, 4131, 4141 to 4143, 4151, 4171 to 4173, 4191, 4192, 4201, 4211, and 4224 of this title, and amending provisions set out as a note under section 120 of Title 23, Highways\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\].
+In general.—Except as otherwise provided in this subsection, the amendments made by titles I and II of this Act \[enacting sections 4094 and 6424 of this title, amending this section and sections 4055, 4057, 4061, 4091, 4216, 4218, 4221, 4222, 4227, 6011, 6206, 6412, 6416, 6675, 7210, 7603, 7604, and 7605 of this title, repealing sections4001 to 4003, 4011 to 4013, 4021, 4022, 4031, 4051 to 4053, 4111, 4121, 4131, 4141 to 4143, 4151, 4171 to 4173, 4191, 4192, 4201, 4211, and 4224 of this title, and amending provisions set out as a note under section 120 of Title 23, Highways\] shall apply with respect to articles sold on or after the day after the date of the enactment of this Act \[June 21, 1965\].
 
 “(2)
 

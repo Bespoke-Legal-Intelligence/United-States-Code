@@ -36,11 +36,11 @@ A State may not use amounts paid to it under section 300w–2 of this title to�
 
 &emsp;(5) provide financial assistance to any entity other than a public or nonprofit private entity.
 
-> Except as provided in subsection (a)(1)(E) of this section, the Secretary may waive the limitation contained in paragraph (3) upon the request of a State if the Secretary finds that there are extraordinary circumstances to justify the waiver and that granting the waiver will assist in carrying out this part.
+> Except as provided in subsection (a)(1)(E) of this section, the Secretary may waive the limitationcontained in paragraph (3) upon the request of a State if the Secretary finds that there are extraordinary circumstances to justify the waiver and that granting the waiver will assist in carrying out this part.
 
 #### (c) Transfer of funds
 
-A State may transfer not more than 7 percent of the amount allotted to the State under section 300w–1(a) of this title for any fiscal year for use by the State under part B of this subchapter and title V of the Social Security Act \[42 U.S.C. 701 et seq.\] in such fiscal year as follows: At any time in the first three quarters of the fiscal year a State may transfer not more than 3 percent of the allotment of the State for the fiscal year for such use, and in the last quarter of a fiscal yeara State may transfer for such use not more than the remainder of the amount of its allotment which may be transferred.
+A State may transfer not more than 7 percent of the amount allotted to the State under section 300w–1(a) of this title for any fiscal year for use by the State under part B of this subchapter and title V of the Social Security Act \[42 U.S.C. 701 et seq.\] in such fiscal year as follows: At any time in the first three quarters of the fiscal year a State may transfer not more than 3 percent of the allotment of the State for the fiscal year for such use, and in the last quarter of a fiscal year a State may transfer for such use not more than the remainder of the amount of its allotment which may be transferred.
 
 #### (d) Limitation on administrative costs
 

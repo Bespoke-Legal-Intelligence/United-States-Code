@@ -10,7 +10,7 @@ As used in this part:
 
 &emsp;(4) The term “Governor” means the chief executive officer of a State (including the Mayor of the District of Columbia).
 
-&emsp;(5) The term “handicapped person” means any individual (A) who is an individual with adisability, as defined in section 705 of title 29, (B) who is under a disability as defined in section 1614(a)(3)(A) or 233(d)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(3)(A), 423(d)(1)\] or in section 102(7) <sup>1</sup> of the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6001(7)\], or (C) who is receiving benefits under chapter 11 or 15 of title 38.
+&emsp;(5) The term “handicapped person” means any individual (A) who is an individual with a disability, as defined in section 705 of title 29, (B) who is under a disability as defined in section 1614(a)(3)(A) or 233(d)(1) of the Social Security Act \[42 U.S.C. 1382c(a)(3)(A), 423(d)(1)\] or in section 102(7) <sup>1</sup> of the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6001(7)\], or (C) who is receiving benefits under chapter 11 or 15 of title 38.
 
 &emsp;(6) The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings prescribed for such terms by paragraphs (4), (5), and (6), respectively, of section 102 <sup>1</sup> of the Older Americans Act of 1965 \[42 U.S.C. 3002\].
 
@@ -46,7 +46,7 @@ As used in this part:
 
 &emsp;&emsp;(J) such other insulating or energy conserving devices or technologies as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director, of the Community Services Administration.
 
-(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242.)
+(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6,1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242.)
 
 #### References in Text
 

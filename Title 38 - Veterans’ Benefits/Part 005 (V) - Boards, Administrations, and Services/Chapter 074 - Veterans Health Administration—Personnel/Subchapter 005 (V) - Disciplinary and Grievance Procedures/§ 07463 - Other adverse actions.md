@@ -16,7 +16,7 @@
 
 &emsp;(A) an advance written notice stating the specific reason for the proposed action, and
 
-&emsp;(B) a reasonable time to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
+&emsp;(B) a reasonable time to answer orally and in writing and to furnish affidavits and otherdocumentary evidence in support of the answer.
 
 (d) Grievance procedures prescribed under subsection (a) shall include the following:
 

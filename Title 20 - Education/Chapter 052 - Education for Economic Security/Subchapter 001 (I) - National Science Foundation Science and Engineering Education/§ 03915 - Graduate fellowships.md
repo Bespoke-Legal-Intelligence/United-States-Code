@@ -6,5 +6,5 @@ The Foundation is authorized, in accordance with the provisions of this subchapt
 
 #### Prior Provisions
 
-A prior section 3915, Pub. L. 98–377, title I, §115, Aug. 11, 1984, 98 Stat. 1269, related to special considerationfor applications meeting the needs of underrepresented and underserved populations, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3919 of this title.
+A prior section 3915, Pub. L. 98–377, title I, §115, Aug. 11, 1984, 98 Stat. 1269, related to special consideration for applications meeting the needs of underrepresented and underserved populations, prior to the general revision of this subchapter by section 201 of Pub. L. 99–159. See section 3919 of this title.
 

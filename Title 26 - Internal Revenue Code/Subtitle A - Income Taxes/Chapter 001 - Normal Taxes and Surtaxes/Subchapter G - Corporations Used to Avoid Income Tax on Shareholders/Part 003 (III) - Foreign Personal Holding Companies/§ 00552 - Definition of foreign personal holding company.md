@@ -56,7 +56,7 @@ The term “foreign personal holding company” does not include—
 
 > For purposes of the preceding sentence, the term ‘related person’ has the meaning given such term by section 954(d)(3) (determined by substituting ‘foreign personal holding company’ for ‘controlled foreign corporation’ each place it appears).”
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1222(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “At any time during the taxable year more than 50 percent in value of its outstanding stock is owned, directly or indirectly, by or for not more than five individuals who are citizens or residents of the United States, hereinafter called ‘United States group’.”
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §1222(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “At any time during the taxable year more than 50 percent in value of its outstanding stock is owned, directly or indirectly, by or for not more than five individuals who are citizens or residents of theUnited States, hereinafter called ‘United States group’.”
 
 Subsec. (c). Pub. L. 99–514, §1810(h)(1), inserted provision relating to meaning of “related person” as given by section 954(d)(3).
 

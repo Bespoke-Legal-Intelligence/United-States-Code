@@ -112,7 +112,7 @@
 
 &emsp;In the proceeding the alien has the burden of establishing—
 
-&emsp;&emsp;(A) if the alien is an applicant for admission, that the alien is clearly and beyond doubt entitled to be admitted and is not inadmissible under section 1182 of this title; or
+&emsp;&emsp;(A) if the alien is an applicant for admission, that the alien is clearly and beyonddoubt entitled to be admitted and is not inadmissible under section 1182 of this title; or
 
 &emsp;&emsp;(B) by clear and convincing evidence, that the alien is lawfully present in the United States pursuant to a prior admission.
 
@@ -192,7 +192,7 @@
 
 #### (iii) Failure to appear
 
-&emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) of this section is subject to the deadline specified in subparagraph (C) of such subsection.
+&emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) ofthis section is subject to the deadline specified in subparagraph (C) of such subsection.
 
 #### (iv) Special rule for battered spouses and children
 
@@ -225,6 +225,10 @@ In this section and section 1229b of this title:
 &emsp;&emsp;(B) in the case of an alien admitted to the United States, that the alien is deportable under section 1227 of this title.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §240, as added Pub. L. 104–208, div. C, title III, §304(a)(3), Sept. 30, 1996, 110 Stat. 3009–589; amended Pub. L. 106–386, div. B, title V, §1506(c)(1)(A), Oct. 28, 2000, 114 Stat. 1528.)
+
+#### Prior Provisions
+
+A prior section 240 of act June 27, 1952, was renumbered section 240C, and is classified to section 1230 of this title.
 
 #### Amendments
 
@@ -270,7 +274,7 @@ For purposes of this chapter, any reference in law to an order of removal is dee
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1155, 1158, 1159, 1182, 1184, 1225, 1228, 1229, 1229c, 1231, 1252, 1256, 1282, 1357, 1368 of this title; title 18 section 4113; title 28 section 1821.
+This section is referred to in sections 1101, 1155, 1158, 1159, 1182, 1184, 1225, 1228, 1229, 1229c, 1231, 1252, 1256, 1282, 1357, 1368 of this title; title 18 section 4113; title 22 section 7105; title 28 section 1821.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

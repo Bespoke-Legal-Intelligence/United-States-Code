@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The volume cap for any issuing authority (other than a State agency) for any calendar year shall be an amount which bears the same ratio to 50 percent of the State ceiling for such calendar year as—
+&emsp;The volume cap for any issuing authority (other than a State agency) for any calendaryear shall be an amount which bears the same ratio to 50 percent of the State ceiling for such calendar year as—
 
 &emsp;&emsp;(A) the population of the jurisdiction of such issuing authority, bears to
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
 
-> &emsp;If any increase determined under the preceding sentence is not a multiple of $5 ($5,000 in the case of the dollar amount in paragraph\(1)(B)), such increase shall be rounded to the nearest multiple thereof.
+> &emsp;If any increase determined under the preceding sentence is not a multiple of $5 ($5,000 in the case of the dollar amount in paragraph (1)(B)), such increase shall be rounded to the nearest multiple thereof.
 
 #### (3) Special rule for States with constitutional home rule cities
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (3) State may not alter allocation to constitutional home rule cities
 
-&emsp;Except as otherwise provided in a State constitutional amendment (or law changing the home rule provision adopted in the manner provided by the State constitution), the authority provided in this subsection shall not apply to that portion of the State ceiling which is allocated to any constitutional home rule city in the State unless such city agrees to such different allocation.
+&emsp;Except as otherwise provided in a State constitutional amendment (or law changing the home rule provision adopted in the manner provided by the State constitution), the authority provided in this subsection shall notapply to that portion of the State ceiling which is allocated to any constitutional home rule city in the State unless such city agrees to such different allocation.
 
 #### (f) Elective carryforward of unused limitation for specified purpose
 
@@ -168,7 +168,7 @@ Only for purposes of this section, the term “private activity bond” shall no
 
 &emsp;(2) any qualified 501(c)(3) bond,
 
-&emsp;(3) any exempt facility bond issued as part of an issue described in paragraph (1), (2), or (12) of section 142(a) (relating to airports, docks and wharves, and environmental enhancements of hydroelectric generating facilities), and
+&emsp;(3) any exempt facility bond issued as part of an issue described in paragraph (1), (2), (12), or (13) of section 142(a) (relating to airports, docks and wharves, environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities), and
 
 &emsp;(4) 75 percent of any exempt facility bond issued as part of an issue described in paragraph (11) of section 142(a) (relating to high-speed intercity rail facilities).
 
@@ -262,9 +262,15 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 &emsp;(2) the amount of any reduction in such ceiling under section 25(f) applicable to such authority for such year.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (g)(3). Pub. L. 107–16, §§422(c), 901, temporarily substituted “(12), or (13)” for “or (12)” and “environmental enhancements of hydroelectric generating facilities, and qualified public educational facilities” for “and environmental enhancements of hydroelectric generating facilities”. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (d)(1), (2). Pub. L. 106–554 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) provided for State ceilings based on the per capita limits and aggregate limits set out in an included table.
 
@@ -290,7 +296,7 @@ Subsec. (d)(2). Pub. L. 105–277 added par. (2) and struck out heading and text
 
 <b>1988</b>—Subsec. (d)(4)(B). Pub. L. 100–647, §1013(a)(40), substituted “respect to a” for “respect a”.
 
-Subsec. (f)(5)(A). Pub. L. 100–647, §1013(a)(9), amended subpar. (A) generally, as in effect before amendment by Pub. L. 100–203. Before amendment by Pub. L. 100–203, subpar. (A) read as follows: “the purpose of issuing bonds referred to in one of the clauses of section 141(d)(1)(A),”.
+Subsec. (f)(5)(A). Pub. L. 100–647, §1013(a)(9), amended subpar. (A) generally, as in effect before amendment by Pub. L. 100–203. Before amendment by Pub. L. 100–203, subpar. (A) read as follows: “the purpose of issuingbonds referred to in one of the clauses of section 141(d)(1)(A),”.
 
 Subsec. (g)(3). Pub. L. 100–647, §6180(b)(3), added par. (3) relating to exempt facility bonds issued as part of an issue described in par. (11) of section 142(a).
 
@@ -305,6 +311,12 @@ Subsec. (k)(1). Pub. L. 100–647, §1013(a)(10)(A), substituted “paragraphs (
 Subsec. (k)(3). Pub. L. 100–647, §1013(a)(10)(B), added par. (3).
 
 <b>1987</b>—Subsec. (f)(5)(A). Pub. L. 100–203 amended subpar. (A) generally, as amended by Pub. L. 100–647, §1013(a)(9), restating it without change. See 1988 Amendment note above.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, see section 422(f) of Pub. L. 107–16, set out as a note under section 142 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -338,5 +350,5 @@ Amendment by Pub. L. 100–203 applicable, with certain exceptions, to bonds iss
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 25, 42, 141, 144, 145, 149, 1394, 7871 of this title.
+This section is referred to in sections 25, 42, 141, 142, 144, 145, 149, 1394, 7871 of this title.
 

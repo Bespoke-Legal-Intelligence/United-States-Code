@@ -36,7 +36,7 @@ For purposes of this part:
 
 &emsp;&emsp;(C) A health maintenance organization (as defined in section 300gg–91(b) of this title).
 
-&emsp;&emsp;(D) Part A or part B of the Medicare program under subchapter XVIII of this chapter.
+&emsp;&emsp;(D) Parts <sup>1</sup> A, B, or C of the Medicare program under subchapter XVIII of this chapter.
 
 &emsp;&emsp;(E) The medicaid program under subchapter XIX of this chapter.
 
@@ -76,15 +76,19 @@ For purposes of this part:
 
 &emsp;The term “standard setting organization” means a standard setting organization accredited by the American National Standards Institute, including the National Council for Prescription Drug Programs, that develops standards for information transactions, data elements, or any other standard that is necessary to, or will facilitate, the implementation of this part.
 
-(Aug. 14, 1935, ch. 531, title XI, §1171, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2021.)
+(Aug. 14, 1935, ch. 531, title XI, §1171, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2021; amended Pub. L. 107–105, §4, Dec. 27, 2001, 115 Stat. 1007.)
 
 #### References in Text
 
-The Indian Health Care Improvement Act, referred to in par. (5)(L), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally tochapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in par. (5)(L), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 #### Prior Provisions
 
 A prior section 1171 of act Aug. 14, 1935, was classified to section 1320c–20 of this title prior to repeal by Pub. L. 97–35.
+
+#### Amendments
+
+2001—Par. (5)(D). Pub. L. 107–105 substituted “Parts A, B, or C” for “Part A or part B”.
 
 #### Purpose
 
@@ -93,4 +97,6 @@ Section 261 of title II of Pub. L. 104–191 provided that: “It is the purpose
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1395cc of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Part”.</i>
 

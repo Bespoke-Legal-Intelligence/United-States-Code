@@ -16,7 +16,7 @@ In addition to the amount authorized to be appropriated by subsection (b) of thi
 
 #### (d) Integration of women into national economics
 
-In recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process, the Peace Corps shall be administered so as to give particular attention to those programs, projects, and activities which tend to integrate women into the national economics of developing countries, thus improving their status and assisting the total development effort.
+In recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process, the Peace Corps shall be administered so as to give particular attention to those programs, projects, and activitieswhich tend to integrate women into the national economics of developing countries, thus improving their status and assisting the total development effort.
 
 #### (e), (f) Repealed. Pub. L. 97–113, title VI, §601(e)(1), Dec. 29, 1981, 95 Stat. 1542
 

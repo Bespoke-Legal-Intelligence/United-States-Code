@@ -4,7 +4,7 @@
 
 General.—With the approval of the President, a department, agency, or instrumentality of the United States Government may obtain—
 
-&emsp;(1) insurance under this chapter, including insurance for risks from operating an aircraft in intrastate or interstate air commerce, but not including insurance on valuables subject to sections 1 and 2 of the Government Losses in Shipment Act (40 U.S.C. 721, 722); and
+&emsp;(1) insurance under this chapter, including insurance for risks from operating an aircraftin intrastate or interstate air commerce, but not including insurance on valuables subject to sections 1 and 2 of the Government Losses in Shipment Act (40 U.S.C. 721, 722); and
 
 &emsp;(2) insurance for risks arising from providing goods or services directly related to and necessary for operating an aircraft covered by insurance obtained under clause (1) of this subsection if the aircraft is operated—
 
@@ -14,9 +14,9 @@ General.—With the approval of the President, a department, agency, or instrume
 
 (b)
 
-Premium Waivers and Indemnification.—With the approval required under subsection (a) of this section, the Secretary of Transportation may provide the insurance without premium at the request of the Secretary of Defense or the head of a department, agency, or instrumentality designated by the President when the Secretary of Defense or the designated head agrees to indemnify the Secretary of Transportation against all losses covered by the insurance. The Secretary of Defense and any designated head may make indemnity agreements with the Secretary of Transportation under this section. If such an agreement is countersigned by the President or the President's designee, the agreement shall constitute, for purposes of section 44302(b), a determination that continuation of the aircraft operations to which the agreement applies is necessary to carry out the foreign policy of the United States.
+Premium Waivers and Indemnification.—With the approval required under subsection (a) of this section, the Secretary of Transportation may provide the insurance without premium at the request of the Secretary of Defense or the head of a department, agency, or instrumentality designated by the President when the Secretary of Defense or the designated head agrees to indemnify the Secretary of Transportation against all losses covered by the insurance. The Secretary of Defense and any designated head may make indemnity agreements with the Secretary of Transportation under this section. If such an agreement is countersigned by the President or the President's designee, the agreement shall constitute, for purposes of section 44302(c), a determination that continuation of the aircraft operations to which the agreement applies is necessary to carry out the foreign policy of the United States.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §3, Dec. 2, 1997, 111 Stat. 2640.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §3, Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(e), Sept. 22, 2001, 115 Stat. 236.)
 
 Historical and Revision Notes
 
@@ -41,6 +41,8 @@ In subsection (a)(1), the words “obtain insurance under this chapter” are su
 In subsection (b), the words “or the head of a department, agency, or instrumentality designated by the President” are substituted for “and such other agencies as the President may prescribe” as being more precise and for consistency in the revised title. The words “when the Secretary of Defense or the designated head agrees” are substituted for “in consideration of” for clarity. The words “any designated head” are substituted for “the agreement of . . . such agency” and “such other agencies” for clarity and because of the restatement.
 
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–42 substituted “44302(c)” for “44302(b)”.
 
 1997—Subsec. (b). Pub. L. 105–137 inserted at end “If such an agreement is countersigned by the President or the President's designee, the agreement shall constitute, for purposes of section 44302(b), a determination that continuation of the aircraft operations to which the agreement applies is necessary to carry out the foreign policy of the United States.”
 

@@ -8,7 +8,7 @@
 
 #### (2) Additional transfers
 
-&emsp;In addition to the transfers made under paragraph (1), there shall be transferred to the Chairman of the Broadcasting Board of Governors the assets, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds, asdetermined by the Secretary, in concurrence with the Broadcasting Board of Governors, to support the functions transferred by this part.
+&emsp;In addition to the transfers made under paragraph (1), there shall be transferred to the Chairman of the Broadcasting Board of Governors the assets, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds, as determined by the Secretary, in concurrence with the Broadcasting Board of Governors, to support the functions transferred by this part.
 
 #### (b) Transfer of personnel
 

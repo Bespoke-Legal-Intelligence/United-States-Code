@@ -16,11 +16,11 @@
 
 (1) The Secretary shall enter into a contract with a utilization and quality control peer review organization for each area established under subsection (a) of this section if a qualified organization is available in such area and such organization and the Secretary have negotiated a proposed contract which the Secretary determines will be carried out by such organization in a manner consistent with the efficient and effective administration of this part. If more than one such qualified organization meets the requirements of the preceding sentence, priority shall be given to any such organization which is described in section 1320c–1(1)(A) of this title.
 
-(2)(A) Prior to November 15, 1984, the Secretary shall not enter into a contract under thispart with any entity which is, or is affiliated with (through management, ownership, or common control), an entity (other than a self-insured employer) which directly or indirectly makes payments to any practitioner or provider whose health care services are reviewed by such entity or would be reviewed by such entity if it entered into a contract with the Secretary under this part. For purposes of this paragraph, an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of members of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
+(2)(A) Prior to November 15, 1984, the Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), an entity (other than a self-insured employer) which directly or indirectly makes payments to any practitioner or provider whose health care services are reviewed by such entity or would be reviewed by such entity if it entered into a contract with the Secretary under this part. For purposes of this paragraph, an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of members of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
 
 (B) If, after November 14, 1984, the Secretary determines that there is no other entity available for an area with which the Secretary can enter into a contract under this part, the Secretary may then enter into a contract under this part with an entity described in subparagraph (A) for such area if such entity otherwise meets the requirements of this part.
 
-(3)(A) The Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), a health care facility, or association of such facilities, within the area served by such entity or which would be served by such entity if it entered into a contract with the Secretary under this part.
+(3)(A) The Secretary shall not enter into a contract under this part with any entity whichis, or is affiliated with (through management, ownership, or common control), a health care facility, or association of such facilities, within the area served by such entity or which would be served by such entity if it entered into a contract with the Secretary under this part.
 
 (B) For purposes of subparagraph (A), an entity shall not be considered to be affiliated with a health care facility or association of facilities by reason of management, ownership, or common control if the management, ownership, or common control consists only of not more than 20 percent of the members of the governing board of the entity being affiliated (through management, ownership, or common control) with one or more of such facilities or associations.
 
@@ -104,7 +104,7 @@ A prior section 1320c–2, act Aug. 14, 1935, ch. 531, title XI, §1153, as adde
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–203, §4094(d)(1), inserted after and below par. (8) the following: “In evaluatingthe performance of utilization and quality control peer review organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.”
+1987—Subsec. (c). Pub. L. 100–203, §4094(d)(1), inserted after and below par. (8) the following: “In evaluating the performance of utilization and quality control peer review organizations under contracts under this part, the Secretary shall place emphasis on the performance of such organizations in educating providers and practitioners (particularly those in rural areas) concerning the review process and criteria being applied by the organization.”
 
 Subsec. (c)(3). Pub. L. 100–203, §4091(a)(2)(A), substituted “three” for “two” and “triennial” for “biennial”.
 
@@ -124,7 +124,7 @@ Subsec. (g). Pub. L. 99–509 added subsec. (g).
 
 1984—Subsec. (b)(2)(A). Pub. L. 98–369, §2347(c)(1), substituted “Prior to November 15, 1984” for “During the first twelve months in which the Secretary is entering into contracts under this section”.
 
-Pub. L. 98–369, §2334(b), inserted “(other than a self-insured employer)” and provision that for purposes of this paragraph an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of one individual member of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
+Pub. L. 98–369, §2334(b), inserted “(other than a self-insured employer)” and provision that for purposes of this paragraph an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common controlconsists only of one individual member of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
 
 Subsec. (b)(2)(B). Pub. L. 98–369, §2347(c)(2), substituted “after November 14, 1984” for “after the expiration of the twelve-month period referred to in subparagraph (A)”.
 
@@ -182,7 +182,7 @@ In general.—In order to permit the Secretary of Health and Human Services an a
 
 “(B)
 
-Effective date.—The amendment made by subparagraph (A) shall apply to contracts expiring on orafter the date of the enactment of this Act \[Dec. 22, 1987\].”
+Effective date.—The amendment made by subparagraph (A) shall apply to contracts expiring on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
 #### Section Referred to in Other Sections
 

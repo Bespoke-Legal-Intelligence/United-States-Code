@@ -2,13 +2,29 @@
 
 #### (a) General rule
 
-If a generation-skipping transfer (other than a direct skip) occurs at the same time as and as a result of the death of an individual, a creditagainst the tax imposed by section 2601 shall be allowed in an amount equal to the generation-skipping transfer tax actually paid to any State in respect to any property included in the generation-skipping transfer.
+If a generation-skipping transfer (other than a direct skip) occurs at the same time as and as a result of the death of an individual, a credit against the tax imposed by section 2601 shall be allowed in an amount equal to the generation-skipping transfer tax actually paid to any State in respect to any property included in the generation-skipping transfer.
 
 #### (b) Limitation
 
 The aggregate amount allowed as a credit under this section with respect to any transfer shall not exceed 5 percent of the amount of the tax imposed by section 2601 on such transfer.
 
-(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2718.)
+(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2718; amended Pub. L. 107–16, title V, §532(c)(10), June 7, 2001, 115 Stat. 75.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–16, title V, §532(c)(10), (d), title IX, §901, June 7, 2001, 115 Stat. 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, this section is temporarily amended by adding at the end the following new subsection:</i>
+
+#### <i>(c) Termination</i>
+
+<i>This section shall not apply to the generation-skipping transfers after December 31, 2004.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date
 

@@ -160,7 +160,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 Even though notice of a lien imposed by section 6321 has been filed, such lien shall not be valid with respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the 46th day after the date of tax lien filing, or (if earlier) before the person making such disbursements had actual notice or knowledge of tax lien filing, but only if such security interest—
 
-&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section 6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
+&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
 
 &emsp;(2) is protected under local law against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation.
 
@@ -204,7 +204,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 #### (C) With Recorder of Deeds of the District of Columbia
 
-&emsp;&emsp;In the office of the Recorder of Deeds of the District of Columbia, if the propertysubject to the lien is situated in the District of Columbia.
+&emsp;&emsp;In the office of the Recorder of Deeds of the District of Columbia, if the property subject to the lien is situated in the District of Columbia.
 
 #### (2) Situs of property subject to lien
 
@@ -284,7 +284,7 @@ For purposes of this section and section 6324—
 
 #### (3) Motor vehicle
 
-&emsp;The term “motor vehicle” means a self-propelled vehicle which is registered for highwayuse under the laws of any State or foreign country.
+&emsp;The term “motor vehicle” means a self-propelled vehicle which is registered for highway use under the laws of any State or foreign country.
 
 #### (4) Security
 
@@ -352,11 +352,11 @@ For purposes of this section and section 6324—
 
 &emsp;Upon written request by the taxpayer with respect to whom a notice of a lien was withdrawn under paragraph (1), the Secretary shall promptly make reasonable efforts to notify credit reporting agencies, and any financial institution or creditor whose name and address is specified in such request, of the withdrawal of such notice. Any such request shall be in such form as the Secretary may prescribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX,§2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 88–272, title II, §236(a), (c)(1), Feb. 26, 1964, 78 Stat. 127, 128; Pub. L. 89–493, §17(a), July 5, 1966, 80 Stat. 266; Pub. L. 89–719, title I, §101(a), Nov. 2, 1966, 80 Stat. 1125; Pub. L. 94–455, title XII, §1202(h)(2), title XIX, §1906(b)(13)(A), title XX, §2008(c), Oct. 4, 1976, 90 Stat. 1688, 1834, 1892; Pub. L. 95–600, title VII, §702(q)(1), (2), Nov. 6, 1978, 92 Stat. 2937, 2938; Pub. L. 99–514, title XV, §1569(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title I, §1015(s)(1), Nov. 10, 1988, 102 Stat. 3573; Pub. L. 101–508, title XI, §§11317(b), 11704(a)(26), Nov. 5, 1990, 104 Stat. 1388–458, 1388–519; Pub. L. 104–168, title V, §501(a), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(A), title III, §3435(a), (b), July 22, 1998, 112 Stat. 704, 760, 761.)
 
-#### Adjustment of Applicable Dollar Amounts in Determining Validity of Federal Tax Liens for Calendar Year 2001
+#### Adjustment of Applicable Dollar Amounts in Determining Validity of Federal Tax Liens for Calendar Year 2002
 
-<i>For adjustment of applicable dollar amounts under subsec. (b)(4), (7) of this section in determining validity of certain Federal tax liens for calendar year 2001, see section 3.23 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of applicable dollar amounts under subsec. (b)(4), (7) of this section in determining validity of certain Federal tax liens for calendar year 2002, see section 3.25 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### Amendments
 
@@ -450,7 +450,7 @@ Section 11317(c) of Pub. L. 101–508 provided that: “The amendments made by t
 
 &emsp;“(1) taxes assessed after the date of the enactment of this Act \[Nov. 5, 1990\], and
 
-&emsp;“(2) taxes assessed on or before such date if the period specified in section 6502 of the Internal RevenueCode of 1986 (determined without regard to the amendments made by subsection (a) \[amending section 6502 of this title\]) for collection of such taxes has not expired as of such date.”
+&emsp;“(2) taxes assessed on or before such date if the period specified in section 6502 of the Internal Revenue Code of 1986 (determined without regard to the amendments made by subsection (a) \[amending section 6502 of this title\]) for collection of such taxes has not expired as of such date.”
 
 #### Effective Date of 1988 Amendment
 

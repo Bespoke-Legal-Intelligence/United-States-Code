@@ -40,5 +40,5 @@ Chapter effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14101, 14505, 14506, 14507 of this title.
+This section is referred to in sections 1558, 14101, 14505, 14506, 14507 of this title.
 

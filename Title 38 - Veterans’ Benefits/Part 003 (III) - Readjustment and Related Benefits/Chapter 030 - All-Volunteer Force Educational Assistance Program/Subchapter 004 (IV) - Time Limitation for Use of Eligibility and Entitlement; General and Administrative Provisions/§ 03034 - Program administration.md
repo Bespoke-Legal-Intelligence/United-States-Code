@@ -8,7 +8,7 @@
 
 (b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform for the Armed Forces under the jurisdiction of the Secretary of a military department.
 
-(c) Payment of educational assistance allowance in the case of an eligible individual pursuing a program of education under this chapter on less than a half-time basis shall be made in a lump-sum amount for the entire quarter, semester, or term not later than the last day ofthe month immediately following the month in which certification is received from the educational institution that such individual has enrolled in and is pursuing a program at such institution. Such lump-sum payment shall be computed at the rate determined under section 3032(b) of this title.
+(c) Payment of educational assistance allowance in the case of an eligible individual pursuing a program of education under this chapter on less than a half-time basis shall be made in a lump-sum amount for the entire quarter, semester, or term not later than the last day of the month immediately following the month in which certification is received from the educational institution that such individual has enrolled in and is pursuing a program at such institution. Such lump-sum payment shall be computed at the rate determined under section 3032(b) of this title.
 
 (d) The Secretary may approve the pursuit of flight training (in addition to a course of flight training that may be approved under section 3680A(b) of this title) by an individual entitled to basic educational assistance under this chapter if—
 
@@ -34,7 +34,7 @@
 
 Subsec. (e). Pub. L. 105–368, §206(a), added subsec. (e).
 
-1994—Subsec. (d). Pub. L. 103–446 struck out “(1)” before “The Secretary may approve”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
+1994—Subsec. (d). Pub. L. 103–446 struck out “(1)” before “The Secretary may approve”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “Thissubsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
 
 1992—Subsec. (a)(1). Pub. L. 102–568, §313(a)(4)(A), struck out “3473,” after “3471,”.
 
@@ -74,7 +74,7 @@ Subsec. (a)(2). Pub. L. 100–689, §106(a)(2), (3), designated existing second 
 
 Subsec. (a)(3). Pub. L. 100–689, §106(a)(4), added par. (3).
 
-Subsecs. (c), (d). Pub. L. 100–689, §111(a)(7)(B)(ii), (iii), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “When an eligible individual is pursuing a program of education under this chapter by correspondence, the individual's entitlement under this chapter shall be charged at the rate ofone month's entitlement for each month of benefits paid to the individual.”
+Subsecs. (c), (d). Pub. L. 100–689, §111(a)(7)(B)(ii), (iii), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “When an eligible individual is pursuing a program of education under this chapter by correspondence, the individual's entitlement under this chapter shall be charged at the rate of one month's entitlement for each month of benefits paid to the individual.”
 
 1986—Subsec. (a). Pub. L. 99–576, §§301(c), 308(a), substituted “1683, and 1685” for “and 1683” and “(with the exception of sections 1780(c), 1780(g), and 1787)” for “(with the exception of sections 1777, 1780(a)(5), 1780(b), 1786, 1787, and 1792 of such chapter)”.
 
@@ -142,5 +142,5 @@ Section 422(c) of Pub. L. 101–237 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3032, 3680A, 3688 of this title.
+This section is referred to in sections 3020, 3032, 3680A, 3688 of this title.
 

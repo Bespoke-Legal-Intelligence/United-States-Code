@@ -16,7 +16,7 @@
 
 &emsp;(7) “operator” means—
 
-&emsp;&emsp;(a) in the case of a ship, a charterer by demise or any other person, except the owner,who is responsible for the operation, manning, victualing, and supplying of the vessel, or
+&emsp;&emsp;(a) in the case of a ship, a charterer by demise or any other person, except the owner, who is responsible for the operation, manning, victualing, and supplying of the vessel, or
 
 &emsp;&emsp;(b) in the case of a terminal, any person, except the owner, responsible for the operation of the terminal by agreement with the owner;
 
@@ -100,13 +100,13 @@ Section 1 of Pub. L. 96–478 provided: “That this Act \[enacting this chapter
 
 #### Savings Provision: Regulations in Effect Until Superseded
 
-Section 14(c) of Pub. L. 96–478 provided that: “Any rights or liabilities existing on the effective date of this Act \[see Effective Date note above\] shall not be affected by this enactment \[see Short Title note above\].Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended \[section 1001 et seq. of this title\], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
+Section 14(c) of Pub. L. 96–478 provided that: “Any rights or liabilities existing on the effective date of this Act \[see Effective Date note above\] shall not be affected by this enactment \[see Short Title note above\]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended \[section 1001 et seq. of this title\], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
 
 #### Study and Regulation of Great Lakes Cargo Residues
 
 Pub. L. 106–554, §1(a)(4) \[div. A, §1117(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–209, provided that:
 
-“(b) The Secretary shall conduct a study of the effectiveness of the United States 1997 Enforcement Policy for Cargo Residues on the Great Lakes (‘Policy’) by September 30, 2002.
+“(b) The Secretary shall conduct a study of the effectiveness of the United States 1997 Enforcement Policyfor Cargo Residues on the Great Lakes (‘Policy’) by September 30, 2002.
 
 “(c) The Secretary is authorized to promulgate regulations to implement and enforce a program to regulate incidental discharges from vessels of residues of non-hazardous and non-toxic dry bulk cargo into the waters of the Great Lakes, which takes into account the finding in the study required under subsection (b). This program shall be consistent with the Policy.”
 
@@ -176,7 +176,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 &emsp;“(1) include unannounced inspections of any aspect of cruise vessel operations, equipment or discharges pertinent to the verification under subsection (a) of this section; and
 
-&emsp;“(2) require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to maintain and produce a logbook detailing the times, types, volumes or flow rates and locations of any discharges of sewage or graywater under this title.
+&emsp;“(2) require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to maintain and produce a logbook detailing thetimes, types, volumes or flow rates and locations of any discharges of sewage or graywater under this title.
 
 “(d) The inspection regime shall incorporate a plan for sampling and testing cruise vessel discharges to ensure that any discharges of sewage or graywater are in compliance with this title, the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended, and any other applicable laws and regulations, and may require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to conduct such samples or tests, and to produce any records of such sampling or testing at the request of the Secretary or Administrator.
 
@@ -242,7 +242,7 @@ Judicial review.—Any person against whom a civil penalty is assessed under thi
 
 &emsp;&emsp;“(A) in the case of assessment of a class I civil penalty, in the United States District Court for the District of Columbia or in the District of Alaska; or
 
-&emsp;&emsp;“(B) in the case of assessment of a class II civil penalty, in the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business, by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand suchorder unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
+&emsp;&emsp;“(B) in the case of assessment of a class II civil penalty, in the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business, by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator's or Secretary's assessment of the penalty constitutes an abuse of discretion.
 
 &emsp;“(7)
 
@@ -318,7 +318,7 @@ Copies of orders, service.—A copy of any order issued under this subsection sh
 
 “(h)
 
-Civil Actions.—The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for anyviolation for which he is authorized to issue a compliance order under this subsection. Any action under subsection (h) may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the State of Alaska.
+Civil Actions.—The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under this subsection. Any action under subsection (h) may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the State of Alaska.
 
 #### “SEC. 1410. DESIGNATION OF CRUISE VESSEL NO-DISCHARGE ZONES.
 

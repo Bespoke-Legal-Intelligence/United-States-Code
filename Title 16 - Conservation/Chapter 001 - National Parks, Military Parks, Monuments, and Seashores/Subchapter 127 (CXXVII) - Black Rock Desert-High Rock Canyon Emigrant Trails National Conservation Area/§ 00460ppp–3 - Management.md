@@ -48,11 +48,21 @@ Where the Secretary of the Interior currently permits livestock grazing in the c
 
 The Secretary is authorized to establish, in cooperation with other public or private entities as the Secretary may deem appropriate, visitor service facilities for the purpose of providing information about the historical, cultural, ecological, recreational, and other resources of the conservation area.
 
-(Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§5\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–354.)
+#### (h) Road maintenance
+
+Within the conservation area the Secretary may permit the use of gravel pits for the maintenance of roads within the conservation area under the Materials Act of 1947 (30 U.S.C. 601 et seq.) to the extent consistent with this subchapter and subject to such regulations, policies, and practices as the Secretary considers necessary.
+
+(Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§5\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–354; Pub. L. 107–63, title I, §135(b), Nov. 5, 2001, 115 Stat. 443.)
 
 #### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+
+The Materials Act of 1947, referred to in subsec. (h), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
+
+#### Amendments
+
+2001—Subsec. (h). Pub. L. 107–63 added subsec. (h).
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -6,7 +6,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (2)(A) The pharmacy benefits program shall include a uniform formulary of pharmaceutical agents, which shall assure the availability of pharmaceutical agents in the complete range of therapeutic classes. The selection for inclusion on the uniform formulary of particular pharmaceutical agents in each therapeutic class shall be based on the relative clinical and cost effectiveness of the agents in such class.
 
-(B) In considering the relative clinical effectiveness of agents under subparagraph (A), the Secretary shall presume inclusion in a therapeutic class of a pharmaceutical agent, unless the Pharmacy and Therapeutics Committee established under subsection (b) finds that a pharmaceutical agent does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome over the other drugs included on the uniform formulary.
+(B) In considering the relative clinical effectiveness of agents under subparagraph (A), theSecretary shall presume inclusion in a therapeutic class of a pharmaceutical agent, unless the Pharmacy and Therapeutics Committee established under subsection (b) finds that a pharmaceutical agent does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome over the other drugs included on the uniform formulary.
 
 (C) In considering the relative cost effectiveness of agents under subparagraph (A), the Secretary shall rely on the evaluation by the Pharmacy and Therapeutics Committee of the costs of agents in a therapeutic class in relation to the safety, effectiveness, and clinical outcomes of such agents.
 
@@ -30,7 +30,7 @@ Pharmacy Benefits.—(1) The Secretary of Defense, after consulting with the oth
 
 (7) The Secretary shall establish procedures for eligible covered beneficiaries to receive pharmaceutical agents that are not included on the uniform formulary but that are considered to be clinically necessary. Such procedures shall include peer review procedures under which the Secretary may determine that there is a clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary, in which case the pharmaceutical agent shall be provided under the same terms and conditions as an agent on the uniform formulary. Such procedures shall also include an expeditious appeals process for an eligible covered beneficiary, or a network or uniformed provider on behalf of the beneficiary, to establish clinical justification for the use of a pharmaceutical agent that is not on the uniform formulary.
 
-(8) In carrying out this subsection, the Secretary shall ensure that an eligible covered beneficiary may continue to receive coverage for any maintenance pharmaceutical that is not on the uniform formulary and that was prescribed for the beneficiary before the date of the enactment of this section and stabilized the medical condition of the beneficiary.
+(8) In carrying out this subsection, the Secretary shall ensure that an eligible covered beneficiary may continue to receive coverage for any maintenance pharmaceutical that is not on the uniform formulary and that was prescribed for the beneficiary before October 5, 1999, and stabilized the medical condition of the beneficiary.
 
 (b)
 
@@ -66,13 +66,11 @@ Definitions.—In this section:
 
 Regulations.—The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
-
-#### References in Text
-
-The date of the enactment of this section, referred to in subsec. (a)(8), is the date of enactment of Pub. L. 106–65, which was approved Oct. 5, 1999.
+(Added Pub. L. 106–65, div. A, title VII, §701(a)(1), Oct. 5, 1999, 113 Stat. 677; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title X, §1048(c)(4), Dec. 28, 2001, 115 Stat. 1226.)
 
 #### Amendments
+
+2001—Subsec. (a)(8). Pub. L. 107–107 substituted “October 5, 1999,” for “the date of the enactment of this section”.
 
 2000—Subsec. (a)(6). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(5)(A)\], substituted “in the regulations prescribed” for “as part of the regulations established”.
 
@@ -116,13 +114,5 @@ Pub. L. 106–65, div. A, title VII, §701(c), Oct. 5, 1999, 113 Stat. 680, prov
 
 #### Study for Design of Pharmacy Benefit for Certain Covered Beneficiaries
 
-Pub. L. 106–65, div. A, title VII, §701(d), Oct. 5, 1999, 113 Stat. 680, provided that:
-
-“(1) Not later than April 15, 2001, the Secretary of Defense shall prepare and submit to Congress—
-
-&emsp;“(A) a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, United States Code, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\]; and
-
-&emsp;“(B) an estimate of the costs of implementing and operating such design.
-
-“(2) The design described in paragraph (1)(A) shall incorporate the elements of the pharmacy benefits program required to be established under section 1074g of title 10, United States Code (as added by subsection (a)).”
+Pub. L. 106–65, div. A, title VII, §701(d), Oct. 5, 1999, 113 Stat. 680, required the Secretary of Defense to prepare and submit to Congress, by Apr. 15, 2001, a study on a design for a comprehensive pharmacy benefit for covered beneficiaries under chapter 55 of title 10, who are entitled to benefits under part A, and enrolled under part B, of title XVIII of the Social Security Act, and to provide an estimate of the costs of implementing and operating such design, prior to repeal by Pub. L. 107–107, div. A, title VII, §723, Dec. 28, 2001, 115 Stat. 1168.
 

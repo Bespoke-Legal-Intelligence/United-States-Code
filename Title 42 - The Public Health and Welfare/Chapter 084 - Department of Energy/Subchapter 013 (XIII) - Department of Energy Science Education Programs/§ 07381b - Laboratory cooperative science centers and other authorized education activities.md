@@ -48,5 +48,5 @@ Subsec. (b). Pub. L. 102–25, §704(d)(2), inserted “such” before “educat
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–25 applicable as if included in enactment of Pub. L. 101–510, see section 704(e) of Pub. L. 102–25, set out as a note under section 12321 of Title 10, Armed Forces.
+Amendment by Pub. L. 102–25 applicable as if included in enactment of Pub. L. 101–510, see section704(e) of Pub. L. 102–25, set out as a note under section 12321 of Title 10, Armed Forces.
 

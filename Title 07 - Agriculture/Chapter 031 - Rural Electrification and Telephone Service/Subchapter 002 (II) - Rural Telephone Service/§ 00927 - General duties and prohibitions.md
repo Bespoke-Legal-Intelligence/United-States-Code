@@ -20,9 +20,9 @@ The Secretary and the Governor of the telephone bank shall—
 
 The Secretary and the Governor of the telephone bank shall not—
 
-&emsp;(1) rescind an insured telephone loan, or a Rural Telephone Bank loan, made under this chapter without the consent of the borrower, unless all of the purposes for which telephone loans have been made to the borrower under this chapter have been accomplished with funds provided under this chapter;
+&emsp;(1) rescind an insured telephone loan, or a Rural Telephone Bank loan, made under this chapter without the consent of the borrower, unless all of the purposes for which telephone loans have been made to the borrower underthis chapter have been accomplished with funds provided under this chapter;
 
-&emsp;(2) regulate the order or sequence of advances of funds under telephone loans made under this chapter to any borrower who has received any combination of telephone loansfrom the Secretary, the Rural Telephone Bank, or the Federal Financing Bank; or
+&emsp;(2) regulate the order or sequence of advances of funds under telephone loans made under this chapter to any borrower who has received any combination of telephone loans from the Secretary, the Rural Telephone Bank, or the Federal Financing Bank; or
 
 &emsp;(3) deny a loan or advance to, or take any other adverse action against, an applicant for, or a borrower of, a telephone loan under this chapter for any reason that is not based on a rule, regulation, bulletin, or other written policy standard that has not been published pursuant to section 553 of title 5.
 

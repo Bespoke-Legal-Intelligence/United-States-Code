@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than December 1 of each fiscal year, the Secretary shall prepare and submit to theCongress a report on the expenditures by the Secretary of amounts appropriated for the preceding fiscal year with respect to acquired immune deficiency syndrome.
+Not later than December 1 of each fiscal year, the Secretary shall prepare and submit to the Congress a report on the expenditures by the Secretary of amounts appropriated for the preceding fiscal year with respect to acquired immune deficiency syndrome.
 
 #### (b) Inclusion of certain information
 
@@ -88,11 +88,11 @@ Pub. L. 103–43, title XIX, §1901(b), June 10, 1993, 107 Stat. 200, provided t
 
 “(1)
 
-In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
+In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy ofHIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
 
 “(2)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee onLabor and Human Resources of the Senate, a report concerning the plan developed under paragraph (1).
+Report.—Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report concerning the plan developed under paragraph (1).
 
 “(3)
 

@@ -8,7 +8,7 @@ Response costs and damages recovered by the Secretary under the provisions of th
 
 #### (b) Restoration and replacement
 
-&emsp;To restore, replace, or acquire the equivalent of resources which were the subject of the action and to monitor and study such resources: <i>Provided</i>, That no such funds may beused to acquire any lands or waters or interests therein or rights thereto unless such acquisition is specifically approved in advance in appropriations Acts and any such acquisition shall be subject to any limitations contained in the organic legislation for such park unit.
+&emsp;To restore, replace, or acquire the equivalent of resources which were the subject of the action and to monitor and study such resources: <i>Provided</i>, That no such funds may be used to acquire any lands or waters or interests therein or rights thereto unless such acquisition is specifically approved in advance in appropriations Acts and any such acquisition shall be subject to any limitations contained in the organic legislation for such park unit.
 
 #### (c) Excess funds
 

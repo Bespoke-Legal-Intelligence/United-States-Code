@@ -40,9 +40,9 @@ Nothing contained in this section shall forbid any act of any Member of the Cong
 
 #### Amendments
 
-1967—Pub. L. 90–108 struck out prohibition covering discharge of fireworks, ignition of combustibles, and making of harangues and orations, removed provisions making special allowance for use of construction tools actuated by or employing explosive charges, and inserted provisions prohibiting carrying or ready access to firearms, dangerous weapons, explosives, or incendiary devices upon the United States Capitol Grounds or within any of the Capitol Buildings, expanding area within which discharge of firearms or explosives are prohibited so as to include the interior of the Capitol Buildings, adding ignition of incendiary devices and use of dangerous weapons to list of acts prohibited within such areas, prohibiting transport of explosive or incendiary devices and knowing entry or stay with force and violence upon the floor of either House of Congress, prohibiting disorderly and disruptive conduct on the floor of either House of Congress, cloakrooms, adjacentlobbies, the Rayburn Room of the House or the Marble Room of the Senate, the gallery of either House, and Committee rooms, and excepting members and employees of the Congress in the lawful discharge of their official duties.
+1967—Pub. L. 90–108 struck out prohibition covering discharge of fireworks, ignition of combustibles, and making of harangues and orations, removed provisions making special allowance for use of construction tools actuated by or employing explosive charges, and inserted provisions prohibiting carrying or ready access to firearms, dangerous weapons, explosives, or incendiary devices upon the United States Capitol Grounds or within any of the Capitol Buildings, expanding area within which discharge of firearms or explosives are prohibited so as to include the interior of the Capitol Buildings, adding ignition of incendiary devices and use of dangerous weapons to list of acts prohibited within such areas, prohibiting transport of explosive or incendiary devices and knowing entry or stay with force and violence upon the floor of either House of Congress, prohibiting disorderly and disruptive conduct on the floor of either House of Congress, cloakrooms, adjacent lobbies, the Rayburn Room of the House or the Marble Room of the Senate, the gallery of either House, and Committee rooms, and excepting members and employees of the Congress in the lawful discharge of their official duties.
 
-1962—Pub. L. 87–571 permitted use of tools actuated by or employing explosives in construction, if the tools are of a kind ordinarily used for such construction, the Architect of the Capitol has authorized their use after determining they will not endanger life or safety, and such use is in accordance with his rules and regulations.
+1962—Pub. L. 87–571 permitted use of tools actuated by or employing explosives in construction, if the tools are of a kind ordinarily used for such construction, the Architect of the Capitol has authorized their use afterdetermining they will not endanger life or safety, and such use is in accordance with his rules and regulations.
 
 #### Effective Date of 1967 Amendment
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 90–108 effective Oct. 20, 1967, see section 3 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136, 174b–1, 184a, 193h, 193i, 193j, 193k, 193<i>l</i>, 193m, 212a of this title.
+This section is referred to in sections 136, 174b–1, 184a, 193h, 193i, 193j, 193k, 193<i>l</i>, 193m, 212a, 212c of this title.
 

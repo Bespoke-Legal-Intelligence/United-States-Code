@@ -28,7 +28,7 @@
 
 #### References in Text
 
-This Act, referred to in subsec. (f)(1), means Pub. L. 95–591, Nov. 4, 1978, 92 Stat. 2523, known as the Presidential Records Act of 1978, which enacted this chapter, amended sections 2107 and 2108 of this title, and enacted provisions set out as notes under section 2201 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 101 of this title and Tables.
+This Act, referred to in subsec. (f)(1), probably means Pub. L. 95–591, Nov. 4, 1978, 92 Stat. 2523, known as the Presidential Records Act of 1978, which enacted this chapter, amended sections 2107 and 2108 of this title, and enacted provisions set out as notes under section 2201 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 101 of this title and Tables.
 
 #### Amendments
 
@@ -46,5 +46,5 @@ For provisions authorizing Archivist to review, downgrade, and declassify inform
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2204, 2206 of this title.
+This section is referred to in sections 2105, 2204, 2206 of this title.
 

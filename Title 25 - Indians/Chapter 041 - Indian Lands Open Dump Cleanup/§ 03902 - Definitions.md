@@ -30,7 +30,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (6) Alaska Native entity
 
-&emsp;The term “Alaska Native entity” includes native corporations established pursuant tothe Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and any Alaska Native village or municipal entity which owns Alaska Native land.
+&emsp;The term “Alaska Native entity” includes native corporations established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and any Alaska Native village or municipal entity which owns Alaska Native land.
 
 #### (7) Open dump
 

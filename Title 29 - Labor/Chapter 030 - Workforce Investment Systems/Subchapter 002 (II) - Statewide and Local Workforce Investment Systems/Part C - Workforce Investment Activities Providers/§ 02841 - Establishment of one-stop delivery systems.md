@@ -184,5 +184,5 @@ Subsec. (f). Pub. L. 105–332, §5(a)(2), added subsec. (f).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2801, 2821, 2832, 2833, 2864, 2944 of this title; title 20 sections 2341, 2342.
+This section is referred to in sections 2801, 2821, 2832, 2833, 2864, 2944 of this title; title 20 sections 2341, 2342; title 42 sections 3056, 3056j.
 

@@ -168,7 +168,7 @@ Subsec. (d)(1). Pub. L. 104–324, §711(4), inserted “as measured under secti
 
 Subsec. (i)(1)(A). Pub. L. 104–324, §711(5), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “300 gross tons”.
 
-Subsec. (j). Pub. L. 104–324, §711(6), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
+Subsec. (j). Pub. L. 104–324, §711(6), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title asprescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
 
 1993—Subsec. (m). Pub. L. 103–206 added subsec. (m).
 

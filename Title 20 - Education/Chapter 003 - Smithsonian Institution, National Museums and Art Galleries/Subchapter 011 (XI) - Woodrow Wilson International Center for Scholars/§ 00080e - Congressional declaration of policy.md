@@ -8,7 +8,7 @@ The Congress hereby finds and declares—
 
 &emsp;(3) that such a center, symbolizing and strengthening the fruitful relation between the world of learning and the world of public affairs, would be a suitable memorial to the spirit of Woodrow Wilson; and
 
-&emsp;(4) that the establishment of such a center would be consonant with the purposes of the Smithsonian Institution, created by Congress in 1846 “for the increase and diffusion of knowledge among men.”
+&emsp;(4) that the establishment of such a center would be consonant with the purposes of theSmithsonian Institution, created by Congress in 1846 “for the increase and diffusion of knowledge among men.”
 
 (Pub. L. 90–637, §2, Oct. 24, 1968, 82 Stat. 1357.)
 

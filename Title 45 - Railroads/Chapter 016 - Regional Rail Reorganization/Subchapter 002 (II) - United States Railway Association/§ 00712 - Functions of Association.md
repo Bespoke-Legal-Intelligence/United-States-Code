@@ -26,7 +26,7 @@ The Association, including its franchise, capital reserves, surplus, security ho
 
 #### (d) Reports
 
-(1) <sup>2</sup> The Association shall transmit to the Congress and the President, not later than 90 days after the end of each fiscal year, a comprehensive and detailed report on all activities of the Association during the preceding fiscal year. Each such report shall include (A) the Association's statement of specific and detailed objectives for the activities and programs conducted and assisted under this chapter; (B) statements of the Association's conclusions as to the effectiveness of such activities and programs in meeting the stated objectives and the purposes of this chapter, measured through the end nd of the preceding fiscal year; (C) recommendations with respect to any legislation or administrative action which the Association deems necessary or desirable; (D) a statistical compilation of the obligations issued, certificates of value issued, securities purchased, and loans made under this chapter; (E) a summary of outstanding problems confronting the Association, in order of priority; (F) all other information required to be submitted to the Congress pursuant to any other provision of this chapter; and (G) the Association's projections and plans for its activities and programs during the next fiscal year.
+(1) <sup>2</sup> The Association shall transmit to the Congress and the President, not later than 90 days after the end of each fiscal year, a comprehensive and detailed report on all activities of the Association during the preceding fiscal year. Each such report shall include (A) the Association's statement of specific and detailed objectives for the activities and programs conducted and assisted under this chapter; (B) statements of the Association's conclusions as to the effectiveness of such activities and programs in meeting the stated objectives and the purposes of this chapter, measured through the end of the preceding fiscal year; (C) recommendations with respect to any legislation or administrative action which the Association deems necessary or desirable; (D) a statistical compilation of the obligations issued, certificates of value issued, securities purchased, and loans made under this chapter; (E) a summary of outstanding problems confronting the Association, in order of priority; (F) all other information required to be submitted to the Congress pursuant to any other provision of this chapter; and (G) the Association's projections and plans for its activities and programs during the next fiscal year.
 
 (2) For the fiscal year beginning October 1, 1977, and ending September 30, 1978, the Association shall transmit to the Congress and the President, not later than 30 days after the end of each quarter of such fiscal year, a comprehensive and detailed report on all expenditures and use of funds during the preceding fiscal quarter, including an assessment of the status of projects for such preceding fiscal quarter and a projection of activities proposed for the next fiscal quarter.
 
@@ -120,7 +120,7 @@ This section is referred to in sections 716, 719 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(6)”.</i>
 
-<i><sup>2</sup></i><i> Par. “(1)” designation supplied editorily.</i>
+<i><sup>2</sup></i><i> Par. “(1)” designation supplied editorially.</i>
 
 <i><sup>3</sup></i><i> So in original. Subsec. (g) redesignated (f) by Pub. L. 97–35.</i>
 

@@ -18,7 +18,7 @@ Where any member ceases to serve in the official position from which originally 
 
 #### (e) Quorum
 
-Thirteen members of the Commission shall constitute a quorum, but two or more members shall constitute a quorum for the purpose of conducting hearings.
+Thirteen members of the Commission shall constitute a quorum, but two or more membersshall constitute a quorum for the purpose of conducting hearings.
 
 (Pub. L. 86–380, §4, Sept. 24, 1959, 73 Stat. 705.)
 

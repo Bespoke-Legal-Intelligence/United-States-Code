@@ -14,7 +14,7 @@ A State may submit to the Secretaries a request for a waiver of 1 or more requir
 
 #### (A) In general
 
-&emsp;&emsp;The State shall make a determination to submit or not submit the request for a waiver under paragraph (1) not later than 30 days after the date on which the State receives the application from the local partnership.
+&emsp;&emsp;The State shall make a determination to submit or not submit the request for a waiver under paragraph (1) not later than 30 daysafter the date on which the State receives the application from the local partnership.
 
 #### (B) Direct submission
 

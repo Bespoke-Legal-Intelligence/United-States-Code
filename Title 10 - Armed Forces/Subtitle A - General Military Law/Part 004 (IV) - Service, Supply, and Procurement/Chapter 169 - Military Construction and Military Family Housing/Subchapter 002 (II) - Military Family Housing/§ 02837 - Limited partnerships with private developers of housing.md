@@ -22,7 +22,7 @@ Selection of Investment Opportunities.—(1) The Secretary concerned shall use p
 
 (d)
 
-Account.—(1) There is hereby established on the books of the Treasury an account to be known as the “Defense Housing Investment Account”.
+Account.—(1) There is hereby established on the books of the Treasury an account to beknown as the “Defense Housing Investment Account”.
 
 (2) There shall be deposited into the Account—
 

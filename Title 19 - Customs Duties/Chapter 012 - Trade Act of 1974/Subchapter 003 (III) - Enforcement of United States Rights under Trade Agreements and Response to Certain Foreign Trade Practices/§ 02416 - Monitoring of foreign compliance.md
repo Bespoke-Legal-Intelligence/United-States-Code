@@ -32,7 +32,7 @@ The Trade Representative shall monitor the implementation of each measure undert
 
 #### (C) Schedule for revising list or action
 
-&emsp;&emsp;The Trade Representative shall, 120 days after the date the retaliation list or othersection 2411(a) action is first taken, and every 180 days thereafter, review the list or action taken and revise, in whole or in part, the list or action to affect other goods of the subject country or countries.
+&emsp;&emsp;The Trade Representative shall, 120 days after the date the retaliation list or other section 2411(a) action is first taken, and every 180 days thereafter, review the list or action taken and revise, in whole or in part, the list or action to affect other goods of the subject country or countries.
 
 #### (D) Standards for revising list or action
 

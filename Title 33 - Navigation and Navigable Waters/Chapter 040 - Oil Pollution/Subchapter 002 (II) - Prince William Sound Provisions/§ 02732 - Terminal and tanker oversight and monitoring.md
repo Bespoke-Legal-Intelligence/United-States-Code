@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) One individual shall be designated by the owners and operators of the crude oil tankers calling at the terminal facilities and shall represent those owners and operators.
 
-&emsp;&emsp;(C) One individual shall be an employee of the State of Alaska, shall be designated bythe Governor of the State of Alaska, and shall represent the State government.
+&emsp;&emsp;(C) One individual shall be an employee of the State of Alaska, shall be designated by the Governor of the State of Alaska, and shall represent the State government.
 
 &emsp;&emsp;(D) One individual shall be an employee of the Federal Government, shall be designated by the President, and shall represent the Federal Government.
 

@@ -164,7 +164,7 @@ Time for Qualification for Deployment.—(1) If at the end of 24 months after a 
 
 Associate Units.—The Secretary of the Army shall require—
 
-&emsp;“(1) that each ground combat maneuver brigade of the Army National Guard that (as determined by theSecretary) is essential for the execution of the National Military Strategy be associated with an active-duty combat unit; and
+&emsp;“(1) that each ground combat maneuver brigade of the Army National Guard that (as determined by the Secretary) is essential for the execution of the National Military Strategy be associated with an active-duty combat unit; and
 
 &emsp;“(2) that combat support and combat service support units of the Army Selected Reserve that (as determined by the Secretary) are essential for the execution of the National Military Strategy be associated with active-duty units.
 

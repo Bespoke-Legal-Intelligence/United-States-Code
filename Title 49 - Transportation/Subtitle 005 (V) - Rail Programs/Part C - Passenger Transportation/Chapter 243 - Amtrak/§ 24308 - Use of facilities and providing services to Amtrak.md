@@ -112,7 +112,7 @@ In subsection (c), the word “given” is omitted as surplus. The words “rail
 
 In subsection (d), the words “upon request of the Corporation” and “otherwise” are omitted as surplus. The words “which improvements would be required” are substituted for “and with respect to the nature and extent of improvements to track, signal systems, and other facilities that would be required” to eliminate unnecessary words.
 
-In subsection (e)(1), the words “satisfactory, voluntary” are omitted as surplus. The words “provide, or allow Amtrak to provide” are added, and the words “Amtrak may apply to the Secretary for an order requiring the carrier to provide or allow for the operation of the requested trains” are substituted for “Upon receipt of an application from the Corporation”, for clarity.
+In subsection (e)(1), the words “satisfactory, voluntary” are omitted as surplus. The words “provide, orallow Amtrak to provide” are added, and the words “Amtrak may apply to the Secretary for an order requiring the carrier to provide or allow for the operation of the requested trains” are substituted for “Upon receipt of an application from the Corporation”, for clarity.
 
 In subsection (e)(2)(A), the words “involved” and “seeking to oppose the operation of an additional train” are omitted as surplus. The words “when conducting a hearing” are added for clarity.
 

@@ -36,7 +36,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### Amendments
 
-1987—Subsec. (a). Pub. L. 100–42, §1(c)(5)(A)–(D), substituted “from” for “or installation from one or more of” in introductory provisions, substituted “the fuel that would be used” for “using imported petroleum” and struck out “or installation” after “powerplant” inpar. (1), struck out “or installation” after “powerplant” in par. (2), and struck out “or 8312” after “8311” in par. (3).
+1987—Subsec. (a). Pub. L. 100–42, §1(c)(5)(A)–(D), substituted “from” for “or installation from one or more of” in introductory provisions, substituted “the fuel that would be used” for “using imported petroleum” and struck out “or installation” after “powerplant” in par. (1), struck out “or installation” after “powerplant” in par. (2), and struck out “or 8312” after “8311” in par. (3).
 
 Subsec. (b). Pub. L. 100–42, §1(c)(5)(A), substituted “from” for “or installation from one or more of”.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Secretary of Transportation shall prescribe regulations to carry out a State block grant program. The regulations shall provide that the Secretary may designate not more than 9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
+General Requirements.—The Secretary of Transportation shall prescribe regulations to carry out a State block grant program. The regulations shall provide that the Secretary may designate not more than 9 qualified States forfiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
 
 (b)
 
@@ -84,7 +84,7 @@ This makes a clarifying amendment to the catchline for 49:47128(d).
 
 Subsec. (a). Pub. L. 104–264, §147(a)(1), (c)(1)(B), substituted “block grant program” for “block grant pilot program” and “8 qualified States for fiscal year 1997 and 9 qualified States for each fiscal year thereafter” for “7 qualified States”.
 
-Subsec. (b). Pub. L. 104–264, §147(a)(2), (3), struck out “(1)” before “A State wishing”, redesignated subpars.\(A) to (E) as pars. (1) to (5), respectively, and struck out former par. (2) which read as follows: “For the fiscal years ending September 30, 1993–1996, the States selected shall include Illinois, Missouri, and North Carolina.”
+Subsec. (b). Pub. L. 104–264, §147(a)(2), (3), struck out “(1)” before “A State wishing”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and struck out former par. (2) which read as follows: “For the fiscal years ending September 30, 1993–1996, the States selected shall include Illinois, Missouri, and North Carolina.”
 
 Subsec. (c). Pub. L. 104–264, §147(b), substituted “(b)(2) or (b)(3)” for “(b)(1)(B) or (C)” and inserted at end “In carrying out this subsection, the Secretary shall permit a State to use the priority system of the State if such system is not inconsistent with the national priority system.”
 

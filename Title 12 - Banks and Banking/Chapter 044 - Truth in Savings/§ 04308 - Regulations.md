@@ -12,7 +12,7 @@
 
 #### (3) Contents of regulations
 
-&emsp;The regulations prescribed under paragraph (1) may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of accounts as, in the judgment of the Board, are necessary or proper to carry outthe purposes of this chapter, to prevent circumvention or evasion of the requirements of this chapter, or to facilitate compliance with the requirements of this chapter.
+&emsp;The regulations prescribed under paragraph (1) may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of accounts as, in the judgment of the Board, are necessary or proper to carry out the purposes of this chapter, to prevent circumvention or evasion of the requirements of this chapter, or to facilitate compliance with the requirements of this chapter.
 
 #### (4) Date of applicability
 

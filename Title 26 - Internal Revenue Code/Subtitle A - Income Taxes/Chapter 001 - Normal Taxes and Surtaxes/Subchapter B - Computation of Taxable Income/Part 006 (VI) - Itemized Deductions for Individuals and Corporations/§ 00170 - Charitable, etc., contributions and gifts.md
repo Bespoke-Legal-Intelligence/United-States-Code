@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) payment of such contribution is made after the close of such taxable year and on or before the 15th day of the third month following the close of such taxable year,
 
-> &emsp;then the taxpayer may elect to treat such contribution as paid during such taxable year. The election may be made only at the time of the filing of the return for such taxable year, and shall be signified in such manner as the Secretary shall by regulations prescribe.
+> &emsp;then the taxpayer may elect to treat such contribution as paid during such taxable year. The election may be made only at the time ofthe filing of the return for such taxable year, and shall be signified in such manner as the Secretary shall by regulations prescribe.
 
 #### (3) Future interests in tangible personal property
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(i) In the case of charitable contributions described in subparagraph (A) of capital gain property to which subsection (e)(1)(B) does not apply, the total amount of contributions of such property which may be taken into account under subsection (a) for any taxable year shall not exceed 30 percent of the taxpayer's contribution base for such year. For purposes of this subsection, contributions of capital gain property to which this subparagraph applies shall be taken into account after all other charitable contributions (other than charitable contributions to which subparagraph (D) applies).
 
-&emsp;&emsp;&emsp;(ii) If charitable contributions described in subparagraph (A) of capital gain property to which clause (i) applies exceeds 30 percent of the taxpayer's contribution base for any taxable year, such excess shall be treated, in a manner consistent with the rules of subsection (d)(1), as a charitable contribution of capital gain property to which clause (i) applies in each of the 5 succeeding taxable years in order of time.
+&emsp;&emsp;&emsp;(ii) If charitable contributions described in subparagraph (A) of capital gain property to which clause (i) applies exceeds 30 percent of the taxpayer's contribution base for any taxable year, such excess shall be treated, in a manner consistent with therules of subsection (d)(1), as a charitable contribution of capital gain property to which clause (i) applies in each of the 5 succeeding taxable years in order of time.
 
 &emsp;&emsp;&emsp;(iii) At the election of the taxpayer (made at such time and in such manner as the Secretary prescribes by regulations), subsection (e)(1) shall apply to all contributions of capital gain property (to which subsection (e)(1)(B) does not otherwise apply) made by the taxpayer during the taxable year. If such an election is made, clauses (i) and (ii) shall not apply to contributions of capital gain property made during the taxable year, and, in applying subsection (d)(1) for such taxable year with respect to contributions of capital gain property made in any prior contribution year for which an election was not made under this clause, such contributions shall be reduced as if subsection (e)(1) had applied to such contributions in the year in which made.
 
@@ -176,7 +176,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (1) General rule
 
-&emsp;The amount of any charitable contribution of property otherwise taken into accountunder this section shall be reduced by the sum of—
+&emsp;The amount of any charitable contribution of property otherwise taken into account under this section shall be reduced by the sum of—
 
 &emsp;&emsp;(A) the amount of gain which would not have been long-term capital gain if the property contributed had been sold by the taxpayer at its fair market value (determined at the time of such contribution), and
 
@@ -240,7 +240,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;&emsp;&emsp;(vi) the property is not transferred by the donee in exchange for money, other property, or services, and
 
-&emsp;&emsp;&emsp;(vii) the taxpayer receives from the donee a written statement representingthat its use and disposition of the property will be in accordance with the provisions of clauses (v) and (vi).
+&emsp;&emsp;&emsp;(vii) the taxpayer receives from the donee a written statement representing that its use and disposition of the property will be in accordance with the provisions of clauses (v) and (vi).
 
 #### (C) Construction of property by taxpayer
 
@@ -462,7 +462,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this section or in section 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522 shall be construed to allow a deduction,and no deduction shall be allowed, for any transfer to or for the use of an organization described in subsection (c) if in connection with such transfer—
+&emsp;&emsp;Nothing in this section or in section 545(b)(2), 556(b)(2), 642(c), 2055, 2106(a)(2), or 2522 shall be construed to allow a deduction, and no deduction shall be allowed, for any transfer to or for the use of an organization described in subsection (c) if in connection with such transfer—
 
 &emsp;&emsp;&emsp;(i) the organization directly or indirectly pays, or has previously paid, any premium on any personal benefit contract with respect to the transferor, or
 
@@ -512,7 +512,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;&emsp;&emsp;&emsp;(II) such other information as the Secretary may require.
 
-&emsp;&emsp;&nbsp;The penalties applicable to returns required under section 6033 shall apply to returns required under this clause. Returns required under this clause shall be furnished at such time and in such manner as the Secretary shall by forms or regulations require.
+&emsp;&emsp;&nbsp;The penalties applicable to returns required under section 6033 shall apply to returns required under this clause. Returnsrequired under this clause shall be furnished at such time and in such manner as the Secretary shall by forms or regulations require.
 
 #### (iv) Certain rules to apply
 
@@ -526,7 +526,7 @@ For purposes of this section, the term “charitable contribution” means a con
 
 &emsp;&emsp;&emsp;(ii) each such beneficiary under the charitable gift annuity is a bona fide resident of such State at the time the obligation to pay a charitable gift annuity is entered into, and
 
-&emsp;&emsp;&emsp;(iii) the only persons entitled to payments under such contract are persons entitled to payments as beneficiaries undersuch obligation on the date such obligation is entered into.
+&emsp;&emsp;&emsp;(iii) the only persons entitled to payments under such contract are persons entitled to payments as beneficiaries under such obligation on the date such obligation is entered into.
 
 #### (H) Member of family
 
@@ -708,7 +708,11 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 &emsp;&emsp;<b>(9) For charitable contributions to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Pub. L. 85–866, title I, §§10(a), 11, 12(a), Sept. 2, 1958, 72 Stat. 1609, 1610; Pub. L. 86–779, §7(a), Sept. 14, 1960, 74 Stat. 1002; Pub. L. 87–834, §13(d), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 87–858, §2(a), (b), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, 78 Stat. 43, 45–47, 105; Pub. L. 89–570, §1(b)(1), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, 83 Stat. 526, 549, 558, 565; Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), Oct. 4, 1976, 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; Pub. L. 95–30, title III, §309(a), May 23, 1977, 91 Stat. 154; Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), Nov. 6, 1978, 92 Stat. 2868; Pub. L. 96–465,title II, §2206(e)(2), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–541, §6(a), (b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–34, title I, §121(a), title II, §§222(a), 263(a), Aug. 13, 1981, 95 Stat. 196, 248, 264; Pub. L. 97–248, title II, §286(b)(1), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–354, §5(a)(21), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title I, §102(f)(7), Jan. 12, 1983, 96 Stat. 2372; Pub. L. 97–473, title II, §202(b)(4), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, Oct. 22, 1986, 100 Stat. 2120, 2180, 2217, 2851; Pub. L. 100–203, title X, §10711(a)(1), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title VI, §6001(a), Nov. 10, 1988, 102 Stat. 3683; Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, 104 Stat. 1388–520, 1388–523, 1388–554; Pub. L. 103–66, title XIII, §§13172(a), 13222(b), Aug. 10, 1993, 107 Stat. 455, 479; Pub. L. 104–188, title I, §§1206(a), 1316(b), Aug. 20, 1996, 110 Stat. 1776, 1786; Pub. L. 105–34, title II, §224(a), title V, §508(d), title VI, §602(a), title IX, §973(a), Aug. 5, 1997, 111 Stat. 818, 860, 862, 898; Pub. L. 105–206, title VI, §6004(e), July 22, 1998, 112 Stat. 795; Pub. L. 105–277, div. J, title I, §1004(a)(1), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §§532(c)(1)(A), (B), 537(a), Dec. 17, 1999, 113 Stat. 1930, 1936; Pub. L. 106–554, §1(a)(7) \[title I, §165(a)–(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–626.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Pub. L. 85–866, title I, §§10(a), 11, 12(a), Sept. 2, 1958, 72 Stat. 1609, 1610; Pub. L. 86–779, §7(a), Sept. 14, 1960, 74 Stat. 1002; Pub. L. 87–834, §13(d), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 87–858, §2(a), (b), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, 78 Stat. 43, 45–47, 105; Pub. L. 89–570, §1(b)(1), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, 83 Stat. 526, 549, 558, 565; Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), Oct. 4, 1976, 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; Pub. L. 95–30, title III, §309(a), May 23, 1977, 91 Stat. 154; Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), Nov. 6, 1978, 92 Stat. 2868; Pub. L. 96–465, title II, §2206(e)(2), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–541, §6(a), (b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–34, title I, §121(a), title II, §§222(a), 263(a), Aug. 13, 1981, 95 Stat. 196, 248, 264; Pub. L. 97–248, title II, §286(b)(1), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–354, §5(a)(21), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title I, §102(f)(7), Jan. 12, 1983, 96 Stat. 2372; Pub. L. 97–473, title II, §202(b)(4), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, Oct. 22, 1986, 100 Stat. 2120, 2180, 2217, 2851; Pub. L. 100–203, title X, §10711(a)(1), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title VI, §6001(a), Nov. 10, 1988, 102 Stat. 3683; Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, 104 Stat. 1388–520, 1388–523, 1388–554; Pub. L. 103–66, title XIII, §§13172(a), 13222(b), Aug. 10, 1993, 107 Stat. 455, 479; Pub. L. 104–188, title I, §§1206(a), 1316(b), Aug. 20, 1996, 110 Stat. 1776, 1786; Pub. L. 105–34, title II, §224(a), title V, §508(d), title VI, §602(a), title IX, §973(a), Aug. 5, 1997, 111 Stat. 818, 860, 862, 898; Pub. L. 105–206, title VI, §6004(e), July 22, 1998, 112 Stat. 795; Pub. L. 105–277, div. J, title I, §1004(a)(1), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §§532(c)(1)(A), (B), 537(a), Dec. 17, 1999, 113 Stat. 1930, 1936; Pub. L. 106–554, §1(a)(7) \[title I, §165(a)–(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–626; Pub. L. 107–16, title V, §542(e)(2)(B), June 7, 2001, 115 Stat. 85.)
+
+#### Amendment of Subsection (e)(1)
+
+<i>Pub. L. 107–16, title V, §542(e)(2)(B), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, subsection (e)(1) of this section is temporarily amended by inserting at end “For purposes of this paragraph, the determination of whether property is a capital asset shall be made without regard to the exception contained in section 1221(a)(3)(C) for basis determined under section 1022.”. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -916,7 +920,7 @@ Subsec. (d). Pub. L. 91–172, §201(a)(1)(B), added subsec. (d) consisting of p
 
 Subsec. (e). Pub. L. 91–172, §201(a)(1)(B), substituted provisions covering certain contributions of ordinary income and capital gain property for provisions setting out a special rule for charitable contributions.
 
-Subsec. (f). Pub. L. 91–172, §201(a)(1)(B), substituted provisions for the disallowance of the deduction in specified cases for provision covering future interests in tangible personal property.
+Subsec. (f). Pub. L. 91–172, §201(a)(1)(B), substituted provisions for the disallowance of the deduction inspecified cases for provision covering future interests in tangible personal property.
 
 Subsec. (g). Pub. L. 91–172, §201(a)(2)(A), substituted “subsection (d)(1)” for “subsection (b)(5)” in two places in par. (1) and struck out par. (2)(B) covering contributions to organizations substantially more than half of the assets and the total income were devoted to charitable purposes.
 
@@ -948,7 +952,7 @@ Subsecs. (e) to (g). Pub. L. 87–834 added subsec. (e) and redesignated former 
 
 Subsecs. (d) to (f). Pub. L. 86–779, §7(a)(2), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-<b>1958</b>—Subsec. (b)(1)(C). Pub. L. 85–866, §10(a), inserted sentence allowing substitution, in lieu of amount of taxpaid during year, amount of tax paid in respect of such year, provided amount so included in the year in respect of which payment was made be not included in any other year.
+<b>1958</b>—Subsec. (b)(1)(C). Pub. L. 85–866, §10(a), inserted sentence allowing substitution, in lieu of amount of tax paid during year, amount of tax paid in respect of such year, provided amount so included in the year in respect of which payment was made be not included in any other year.
 
 Subsec. (b)(3). Pub. L. 85–866, §11, added par. (3).
 
@@ -959,6 +963,12 @@ Subsec. (b)(4). Pub. L. 85–866, §12, added par. (4).
 #### Change of Name
 
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -1038,7 +1048,7 @@ Amendment by section 231(f) of Pub. L. 99–514 applicable to taxable years begi
 
 Amendment by section 301(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
-Amendment by section 1831 of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1831 of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -1090,7 +1100,7 @@ Section 263(b) of Pub. L. 97–34 provided that: “The amendment made by this s
 
 Section 6(d) of Pub. L. 96–541 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to transfers made after the date of the enactment of this Act \[Dec. 17, 1980\] in taxable years ending after such date.”
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendment
 
@@ -1124,7 +1134,7 @@ Section 201(g) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)(A) Except as provided in subparagraphs (B) and (C), the amendments made by subsection (a) \[amending this section and sections 545, 556, and 809 of this title\] shall apply to taxable years beginning after December 31, 1969.
 
-“(B) Subsections (e) and (f)(1) of section 170 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (asamended by subsection (a)) shall apply to contributions paid after December 31, 1969, except that, with respect to a letter or memorandum or similar property described in section 1221(3) of such Code (as amended by section 514 of this Act), such subsection (e) shall apply to contributions paid after July 25, 1969.
+“(B) Subsections (e) and (f)(1) of section 170 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by subsection (a)) shall apply to contributions paid after December 31, 1969, except that, with respect to a letter or memorandum or similar property described in section 1221(3) of such Code (as amended by section 514 of this Act), such subsection (e) shall apply to contributions paid after July 25, 1969.
 
 “(C) Paragraphs (2), (3), and (4) of section 170(f) of such Code (as amended by subsection (a)) shall apply to transfers in trust and contributions made after July 31, 1969.
 
@@ -1204,7 +1214,7 @@ Section 12(b) of Pub. L. 85–866 provided that: “The amendment made by subsec
 
 #### Effective Date of 1956 Amendment
 
-Section 2 of act Aug. 7, 1956, provided that: “The amendment made by this Act \[amending this section\]shall apply only with respect to taxable years beginning after December 31, 1955.”
+Section 2 of act Aug. 7, 1956, provided that: “The amendment made by this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1955.”
 
 #### Savings Provision
 
@@ -1320,7 +1330,7 @@ The secretary.—The term ‘Secretary’ means the Secretary of the Treasury or
 
 #### Charitable Lead Trusts and Charitable Remainder Trusts in Case of Income and Gift Taxes
 
-For includibility of provisions comparable to section 2055(e)(3) of this title in this section, see section 514(b)of Pub. L. 95–600, set out as a note under section 2055 of this title.
+For includibility of provisions comparable to section 2055(e)(3) of this title in this section, see section 514(b) of Pub. L. 95–600, set out as a note under section 2055 of this title.
 
 #### Deduction of Contributions to Certain Organizations for Judicial Reform
 
@@ -1334,7 +1344,7 @@ Section 29 of Pub. L. 87–834, as amended by Pub. L. 99–514, §2, Oct. 22, 19
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 21, 41, 67, 74, 79, 108, 117, 119, 125, 151, 152, 162, 163, 381, 401, 410, 467, 501, 507, 508, 509, 512, 513, 514, 535, 545, 556, 584, 642, 664, 674, 677, 702, 703, 773, 805, 873, 882, 1011, 1255, 1257, 1361, 1398, 1441, 2031, 2032A, 2055, 2056, 2057, 2503, 4041, 4221, 4253, 4911, 4940, 4941, 4942, 4944, 4945, 4947, 4948, 5214, 6033, 6050L, 6113, 6115, 6664, 7428, 7611, 7701, 7871 of this title; title 2 section 439a; title 11 section 548; title 12 section 3015; title 15 sections 80a–3, 80a–3a; title 16 sections 410yy–8, 1246, 1285; title 20 sections 954, 956; title 22 sections 3307, 4341, 4603; title 23 section 133; title 29 sections 1002, 1052; title 35 section 297; title 40 section 207c–2; title 42 sections 2996b, 10702.
+This section is referred to in sections 21, 41, 67, 74, 79, 108, 117, 119, 125, 151, 152, 162, 163, 381, 401, 410, 467, 501, 507, 508, 509, 512, 513, 514, 530, 535, 545, 556, 584, 642, 664, 674, 677, 702, 703, 773, 805, 873, 882, 1011, 1255, 1257, 1361, 1398, 1441, 2031, 2032A, 2055, 2056, 2057, 2503, 4041, 4221, 4253, 4911, 4940, 4941, 4942, 4944, 4945, 4947, 4948, 5214, 6033, 6050L, 6113, 6115, 6664, 7428, 7611, 7701, 7871 of this title; title 2 section 439a; title 11 section 548; title 12 section 3015; title 15 sections 80a–3, 80a–3a; title 16 sections 410yy–8, 1246, 1285; title 20 sections 954, 956; title 22 sections 3307, 4341, 4603; title 23 section 133; title 29 sections 1002, 1052; title 35 section 297; title 40 section 207c–2; title 42 sections 2996b, 10702.
 
 <i><sup>1</sup></i><i> So in original. The word “2000” probably should be followed by a closing parenthesis.</i>
 

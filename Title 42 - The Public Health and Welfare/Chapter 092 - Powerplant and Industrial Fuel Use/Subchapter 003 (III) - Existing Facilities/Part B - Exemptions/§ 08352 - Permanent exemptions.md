@@ -14,7 +14,7 @@
 
 #### (b) Permanent exemption due to certain State or local requirements
 
-After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary may, by order, grant a permanent exemption under this subsection, if he finds that the petitioner has demonstrated that—
+After consideration of a petition (and comments thereon) for an exemption from one ormore of the prohibitions of part A for a powerplant, the Secretary may, by order, grant a permanent exemption under this subsection, if he finds that the petitioner has demonstrated that—
 
 &emsp;(1) with respect to the site of the powerplant, the operation of such a facility using coal or any other alternate fuel is infeasible because of a State or local requirement;
 

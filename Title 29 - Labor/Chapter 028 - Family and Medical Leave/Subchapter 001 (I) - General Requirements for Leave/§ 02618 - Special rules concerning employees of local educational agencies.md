@@ -6,7 +6,7 @@
 
 &emsp;Except as otherwise provided in this section, the rights (including the rights under section 2614 of this title, which shall extend throughout the period of leave of any employee under this section), remedies, and procedures under this subchapter shall apply to—
 
-&emsp;&emsp;(A) any “local educational agency” (as defined in section 8801 of title 20) and an eligible employee of the agency; and
+&emsp;&emsp;(A) any “local educational agency” (as defined in section 7801 of title 20) and an eligible employee of the agency; and
 
 &emsp;&emsp;(B) any private elementary or secondary school and an eligible employee of the school.
 
@@ -24,7 +24,7 @@
 
 #### (b) Leave does not violate certain other Federal laws
 
-A local educational agency and a private elementary or secondary school shall not be in violation of the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), section 794 of this title), or title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), solely as a result of an eligible employee of such agency or school exercising the rights of such employee under this subchapter.
+A local educational agency and a private elementary or secondary school shall not be in violation of the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), section 794 of this title, or title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.), solely as a result of an eligible employee of such agency or school exercising the rights of such employee under this subchapter.
 
 #### (c) Intermittent leave or leave on reduced schedule for instructional employees
 
@@ -70,13 +70,13 @@ The following rules shall apply with respect to periods of leave near the conclu
 
 #### (e) Restoration to equivalent employment position
 
-For purposes of determinations under section 2614(a)(1)(B) of this title (relating to the restoration of an eligible employee to an equivalent position), in the case of a local educational agency or a private elementary or secondary school, such determination shall be made on the basis of established school board policies and practices, private school policies and practices, and collective bargaining agreements.
+For purposes of determinations under section 2614(a)(1)(B) of this title (relating to the restoration of an eligible employee to an equivalent position), in the case of a local educational agency or a private elementary or secondary school,such determination shall be made on the basis of established school board policies and practices, private school policies and practices, and collective bargaining agreements.
 
 #### (f) Reduction of amount of liability
 
 If a local educational agency or a private elementary or secondary school that has violated this subchapter proves to the satisfaction of the court that the agency, school, or department had reasonable grounds for believing that the underlying act or omission was not a violation of this subchapter, such court may, in the discretion of the court, reduce the amount of the liability provided for under section 2617(a)(1)(A) of this title to the amount and interest determined under clauses (i) and (ii), respectively, of such section.
 
-(Pub. L. 103–3, title I, §108, Feb. 5, 1993, 107 Stat. 17; Pub. L. 103–382, title III, §394(e), Oct. 20, 1994, 108 Stat. 4027.)
+(Pub. L. 103–3, title I, §108, Feb. 5, 1993, 107 Stat. 17; Pub. L. 103–382, title III, §394(e), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(v), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### References in Text
 
@@ -86,7 +86,13 @@ The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, J
 
 #### Amendments
 
+2002—Subsec. (a)(1)(A). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
+
 1994—Subsec. (a)(1)(A). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 2891(12) of title 20”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

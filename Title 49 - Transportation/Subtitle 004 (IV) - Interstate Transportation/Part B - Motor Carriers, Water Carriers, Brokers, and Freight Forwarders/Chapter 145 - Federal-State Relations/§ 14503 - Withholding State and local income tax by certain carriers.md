@@ -18,7 +18,7 @@ Special Rules.—
 
 &emsp;(1)
 
-Calculation of earnings.—In this subsection, an employee is deemed to have earned more than 50 percent of pay in a State or subdivision of that State in which the timeworked by the employee in the State or subdivision is more than 50 percent of the total time worked by the employee while employed during the calendar year.
+Calculation of earnings.—In this subsection, an employee is deemed to have earned more than 50 percent of pay in a State or subdivision of that State in which the time worked by the employee in the State or subdivision is more than 50 percent of the total time worked by the employee while employed during the calendar year.
 
 &emsp;(2)
 

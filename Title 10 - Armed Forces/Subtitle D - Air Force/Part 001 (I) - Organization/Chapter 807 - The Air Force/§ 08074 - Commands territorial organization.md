@@ -2,11 +2,9 @@
 
 (a) Except as otherwise prescribed by law or by the Secretary of Defense, the Air Force shall be divided into such organizations as the Secretary of the Air Force may prescribe.
 
-(b) For Air Force purposes, the United States, its Territories, its possessions, and other places in which the Air Force is stationed or is operating, may be divided into such areas as directed by the Secretary. Officers of the Air Force may be assigned to command Air Force activities, installations, and personnel in those areas. In the discharge of the Air Force's functions or other functions authorized by law, officers so assigned have the duties and powers prescribed by the Secretary.
+(b) For Air Force purposes, the United States, its Territories, its possessions, and other places in which the Air Force is stationed or is operating, may be divided into such areas as directed by the Secretary. Officers of the Air Force may be assigned to command Air Force activities, installations, and personnel in those areas. In thedischarge of the Air Force's functions or other functions authorized by law, officers so assigned have the duties and powers prescribed by the Secretary.
 
-(c) The Military Air Transport Service is redesignated as the Military Airlift Command.
-
-(Aug. 10, 1956, ch. 1041, 70A Stat. 495; Pub. L. 85–599, §4(f), Aug. 6, 1958, 72 Stat. 517; Pub. L. 89–37, title III, §306(a), June 11, 1965, 79 Stat. 129; Pub. L. 99–433, title V, §523, Oct. 1, 1986, 100 Stat. 1063.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 495; Pub. L. 85–599, §4(f), Aug. 6, 1958, 72 Stat. 517; Pub. L. 89–37, title III, §306(a), June 11, 1965, 79 Stat. 129; Pub. L. 99–433, title V, §523, Oct. 1, 1986, 100 Stat. 1063; Pub. L. 107–107, div. A, title IX, §931(b), Dec. 28, 2001, 115 Stat. 1200.)
 
 Historical and Revision Notes
 
@@ -39,6 +37,8 @@ In subsection (b), the words “from time to time” are omitted as surplusage.
 In subsection (d), the words “have the duties and powers” are substituted for the words “shall perform such duties and exercise such powers”. The words “of America”, “elements of”, “other provisions of”, and “so assigned” are omitted as surplusage.
 
 #### Amendments
+
+2001—Subsec. (c). Pub. L. 107–107 struck out subsec. (c) which read as follows: “The Military Air Transport Service is redesignated as the Military Airlift Command.”
 
 1986—Subsec. (a). Pub. L. 99–433 substituted “Except as otherwise prescribed by law or by the Secretary of Defense, the” for “The”.
 

@@ -32,7 +32,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;(2) The unearned premiums and unpaid losses included in total reserves under section 816(c)(2).
 
-&emsp;(3) The amounts (discounted at the appropriate rate of interest) necessary to satisfy theobligations under insurance and annuity contracts, but only if such obligations do not involve (at the time with respect to which the computation is made under this paragraph) life, accident, or health contingencies.
+&emsp;(3) The amounts (discounted at the appropriate rate of interest) necessary to satisfy the obligations under insurance and annuity contracts, but only if such obligations do not involve (at the time with respect to which the computation is made under this paragraph) life, accident, or health contingencies.
 
 &emsp;(4) Dividend accumulations, and other amounts, held at interest in connection with insurance and annuity contracts.
 
@@ -120,7 +120,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable Federal interest rate” means the annual rate determined by the Secretary under section 846(c)(2) for thecalendar year in which the contract was issued.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “applicable Federal interest rate” means the annual rate determined by the Secretary under section 846(c)(2) for the calendar year in which the contract was issued.
 
 #### (ii) Election to recompute Federal interest rate every 5 years
 
@@ -244,7 +244,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any qualified foreign contract, the amount of the reserve shall be not less than the minimum reserve required by the laws, regulations, or administrative guidance of the regulatory authority of the foreign country referred to in subparagraph (B) (but not to exceed the net level reserves for such contract).
+&emsp;&emsp;In the case of any qualified foreign contract, the amount of the reserve shall be not less than the minimum reserve required by the laws, regulations, or administrativeguidance of the regulatory authority of the foreign country referred to in subparagraph (B) (but not to exceed the net level reserves for such contract).
 
 #### (B) Qualified foreign contract
 
@@ -330,7 +330,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this part, if the basis for determining any item referred to in subsection (c) as of the close of any taxable year differs from the basis for such determination as of the close of the preceding taxable year, then so much of the difference between—
+&emsp;&emsp;For purposes of this part, if the basis for determining any item referred to in subsection (c) as of the close of any taxable yeardiffers from the basis for such determination as of the close of the preceding taxable year, then so much of the difference between—
 
 &emsp;&emsp;&emsp;(i) the amount of the item at the close of the taxable year, computed on the new basis, and
 
@@ -442,7 +442,7 @@ Statutory reserves.—For purposes of this subsection, the term ‘statutory res
 
 #### Special Rule for Companies Using Net Level Reserve Method for Noncancellable Accident and Health Insurance Contracts
 
-Section 217(n) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat.2095, 2845, provided that: “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
+Section 217(n) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XVIII, §1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that: “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
 
 &emsp;“(1) such company—
 

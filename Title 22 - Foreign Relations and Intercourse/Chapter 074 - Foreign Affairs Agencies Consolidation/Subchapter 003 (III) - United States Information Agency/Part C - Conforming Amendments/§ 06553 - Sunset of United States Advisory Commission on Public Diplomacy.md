@@ -1,8 +1,8 @@
 ### §6553. Sunset of United States Advisory Commission on Public Diplomacy
 
-The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2001.
+The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law until October 1, 2005.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334, Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334, Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446; Pub. L. 107–77, title IV, §407(a), Nov. 28, 2001, 115 Stat. 790.)
 
 #### References in Text
 
@@ -10,7 +10,13 @@ Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set
 
 #### Amendments
 
+2001—Pub. L. 107–77 substituted “October 1, 2005” for “October 1, 2001”.
+
 1999—Pub. L. 106–113 amended section catchline and text generally, substituting present provisions for provisions which had abolished the United States Advisory Commission on Public Diplomacy, repealed section 1469 of this title, and amended Reorganization Plan No. 2 of 1977.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–77, title IV, §407(b), Nov. 28, 2001, 115 Stat. 790, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001 \[H.R. 3427, as enacted by Pub. L. 106-113, div. B, §1000(a)(7)\].”
 
 #### Effective Date of 1999 Amendment
 

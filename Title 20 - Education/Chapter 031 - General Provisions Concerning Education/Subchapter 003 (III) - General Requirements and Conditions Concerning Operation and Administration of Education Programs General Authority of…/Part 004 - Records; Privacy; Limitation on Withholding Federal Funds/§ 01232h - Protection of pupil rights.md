@@ -8,27 +8,189 @@ All instructional materials, including teacher's manuals, films, tapes, or other
 
 No student shall be required, as part of any applicable program, to submit to a survey, analysis, or evaluation that reveals information concerning—
 
-&emsp;(1) political affiliations;
+&emsp;(1) political affiliations or beliefs of the student or the student's parent;
 
-&emsp;(2) mental and psychological problems potentially embarrassing to the student or his family;
+&emsp;(2) mental or psychological problems of the student or the student's family;
 
-&emsp;(3) sex behavior and attitudes;
+&emsp;(3) sex behavior or attitudes;
 
-&emsp;(4) illegal, anti-social, self-incriminating and demeaning behavior;
+&emsp;(4) illegal, anti-social, self-incriminating, or demeaning behavior;
 
 &emsp;(5) critical appraisals of other individuals with whom respondents have close family relationships;
 
-&emsp;(6) legally recognized privileged or analogous relationships, such as those of lawyers, physicians, and ministers; or
+&emsp;(6) legally recognized privileged or analogous relationships, such as those of lawyers, physicians, and ministers;
 
-&emsp;(7) income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program),
+&emsp;(7) religious practices, affiliations, or beliefs of the student or student's parent; or
+
+&emsp;(8) income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program),
 
 > without the prior consent of the student (if the student is an adult or emancipated minor), or in the case of an unemancipated minor, without the prior written consent of the parent.
 
-#### (c) Notice
+#### (c) Development of local policies concerning student privacy, parental access to information, and administration of certain physical examinations to minors
+
+#### (1) Development and adoption of local policies
+
+&emsp;Except as provided in subsections (a) and (b) of this section, a local educational agency that receives funds under any applicable program shall develop and adopt policies, in consultation with parents, regarding the following:
+
+&emsp;&emsp;(A)(i) The right of a parent of a student to inspect, upon the request of the parent, a survey created by a third party before the survey is administered or distributed by a school to a student; and
+
+&emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable access to such survey within a reasonable period of time after the request is received.
+
+&emsp;&emsp;(B) Arrangements to protect student privacy that are provided by the agency in the event of the administration or distribution of a survey to a student containing one or more of the following items (including the right of a parent of a student to inspect, upon the request of the parent, any survey containing one or more of such items):
+
+&emsp;&emsp;&emsp;(i) Political affiliations or beliefs of the student or the student's parent.
+
+&emsp;&emsp;&emsp;(ii) Mental or psychological problems of the student or the student's family.
+
+&emsp;&emsp;&emsp;(iii) Sex behavior or attitudes.
+
+&emsp;&emsp;&emsp;(iv) Illegal, anti-social, self-incriminating, or demeaning behavior.
+
+&emsp;&emsp;&emsp;(v) Critical appraisals of other individuals with whom respondents have close family relationships.
+
+&emsp;&emsp;&emsp;(vi) Legally recognized privileged or analogous relationships, such as those of lawyers, physicians, and ministers.
+
+&emsp;&emsp;&emsp;(vii) Religious practices, affiliations, or beliefs of the student or the student's parent.
+
+&emsp;&emsp;&emsp;(viii) Income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program).
+
+&emsp;&emsp;(C)(i) The right of a parent of a student to inspect, upon the request of the parent, anyinstructional material used as part of the educational curriculum for the student; and
+
+&emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable access to instructional material within a reasonable period of time after the request is received.
+
+&emsp;&emsp;(D) The administration of physical examinations or screenings that the school or agency may administer to a student.
+
+&emsp;&emsp;(E) The collection, disclosure, or use of personal information collected from students for the purpose of marketing or for selling that information (or otherwise providing that information to others for that purpose), including arrangements to protect student privacy that are provided by the agency in the event of such collection, disclosure, or use.
+
+&emsp;&emsp;(F)(i) The right of a parent of a student to inspect, upon the request of the parent, any instrument used in the collection of personal information under subparagraph (E) before the instrument is administered or distributed to a student; and
+
+&emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable access to such instrument within a reasonable period of time after the request is received.
+
+#### (2) Parental notification
+
+#### (A) Notification of policies
+
+&emsp;&emsp;The policies developed by a local educational agency under paragraph (1) shall provide for reasonable notice of the adoption or continued use of such policies directly to the parents of students enrolled in schools served by that agency. At a minimum, the agency shall—
+
+&emsp;&emsp;&emsp;(i) provide such notice at least annually, at the beginning of the school year, and within a reasonable period of time after any substantive change in such policies; and
+
+&emsp;&emsp;&emsp;(ii) offer an opportunity for the parent (and for purposes of an activity described in subparagraph (C)(i), in the case of a student of an appropriate age, the student) to opt the student out of participation in an activity described in subparagraph (C).
+
+#### (B) Notification of specific events
+
+&emsp;&emsp;The local educational agency shall directly notify the parent of a student, at least annually at the beginning of the school year, of the specific or approximate dates during the school year when activities described in subparagraph (C) are scheduled, or expected to be scheduled.
+
+#### (C) Activities requiring notification
+
+&emsp;&emsp;The following activities require notification under this paragraph:
+
+&emsp;&emsp;&emsp;(i) Activities involving the collection, disclosure, or use of personal information collected from students for the purpose of marketing or for selling that information (or otherwise providing that information to others for that purpose).
+
+&emsp;&emsp;&emsp;(ii) The administration of any survey containing one or more items described in clauses (i) through (viii) of paragraph (1)(B).
+
+&emsp;&emsp;&emsp;(iii) Any nonemergency, invasive physical examination or screening that is—
+
+&emsp;&emsp;&emsp;&emsp;(I) required as a condition of attendance;
+
+&emsp;&emsp;&emsp;&emsp;(II) administered by the school and scheduled by the school in advance; and
+
+&emsp;&emsp;&emsp;&emsp;(III) not necessary to protect the immediate health and safety of the student, or of other students.
+
+#### (3) Existing policies
+
+&emsp;A local educational agency need not develop and adopt new policies if the State educational agency or local educational agency has in place, on January 8, 2002, policies covering the requirements of paragraph (1). The agency shall provide reasonable notice of such existing policies to parents and guardians of students, in accordance with paragraph (2).
+
+#### (4) Exceptions
+
+#### (A) Educational products or services
+
+&emsp;&emsp;Paragraph (1)(E) does not apply to the collection, disclosure, or use of personal information collected from students for the exclusive purpose of developing, evaluating, or providing educational products or services for, or to, students or educational institutions, such as the following:
+
+&emsp;&emsp;&emsp;(i) College or other postsecondary education recruitment, or military recruitment.
+
+&emsp;&emsp;&emsp;(ii) Book clubs, magazines, and programs providing access to low-cost literary products.
+
+&emsp;&emsp;&emsp;(iii) Curriculum and instructional materials used by elementary schools and secondary schools.
+
+&emsp;&emsp;&emsp;(iv) Tests and assessments used by elementary schools and secondary schools to provide cognitive, evaluative, diagnostic, clinical, aptitude, or achievement information about students (or to generate other statistically useful data for the purpose of securing such tests and assessments) and the subsequent analysis and public release of the aggregate data from such tests and assessments.
+
+&emsp;&emsp;&emsp;(v) The sale by students of products or services to raise funds for school-related or education-related activities.
+
+&emsp;&emsp;&emsp;(vi) Student recognition programs.
+
+#### (B) State law exception
+
+&emsp;&emsp;The provisions of this subsection—
+
+&emsp;&emsp;&emsp;(i) shall not be construed to preempt applicable provisions of State law that require parental notification; and
+
+&emsp;&emsp;&emsp;(ii) do not apply to any physical examination or screening that is permitted or required by an applicable State law, including physical examinations or screenings that are permitted without parental notification.
+
+#### (5) General provisions
+
+#### (A) Rules of construction
+
+&emsp;&emsp;(i) This section does not supersede section 1232g of this title.
+
+&emsp;&emsp;(ii) Paragraph (1)(D) does not apply to a survey administered to a student in accordance with the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.).
+
+#### (B) Student rights
+
+&emsp;&emsp;The rights provided to parents under this section transfer to the student when the student turns 18 years old, or is an emancipated minor (under an applicable State law) at any age.
+
+#### (C) Information activities
+
+&emsp;&emsp;The Secretary shall annually inform each State educational agency and each local educational agency of the educational agency's obligations under this section and section 1232g of this title.
+
+#### (D) Funding
+
+&emsp;&emsp;A State educational agency or local educational agency may use funds provided under part A of title V of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7201 et seq.\] to enhance parental involvement in areas affecting the in-school privacy of students.
+
+#### (6) Definitions
+
+&emsp;As used in this subsection:
+
+#### (A) Instructional material
+
+&emsp;&emsp;The term “instructional material” means instructional content that is provided to a student, regardless of its format, including printed or representational materials, audio-visual materials, and materials in electronic or digital formats (such as materials accessible through the Internet). The term does not include academic tests or academic assessments.
+
+#### (B) Invasive physical examination
+
+&emsp;&emsp;The term “invasive physical examination” means any medical examination that involves the exposure of private body parts, or any act during such examination that includes incision, insertion, or injection into the body, but does not include a hearing, vision, or scoliosis screening.
+
+#### (C) Local educational agency
+
+&emsp;&emsp;The term “local educational agency” means an elementary school, secondary school, school district, or local board of education that is the recipient of funds under an applicable program, but does not include a postsecondary institution.
+
+#### (D) Parent
+
+&emsp;&emsp;The term “parent” includes a legal guardian or other person standing in loco parentis (such as a grandparent or stepparent with whom the child lives, or a person who is legally responsible for the welfare of the child).
+
+#### (E) Personal information
+
+&emsp;&emsp;The term “personal information” means individually identifiable information including—
+
+&emsp;&emsp;&emsp;(i) a student or parent's first and last name;
+
+&emsp;&emsp;&emsp;(ii) a home or other physical address (including street name and the name of the city or town);
+
+&emsp;&emsp;&emsp;(iii) a telephone number; or
+
+&emsp;&emsp;&emsp;(iv) a Social Security identification number.
+
+#### (F) Student
+
+&emsp;&emsp;The term “student” means any elementary school or secondary school student.
+
+#### (G) Survey
+
+&emsp;&emsp;The term “survey” includes an evaluation.
+
+#### (d) Notice
 
 Educational agencies and institutions shall give parents and students effective notice of their rights under this section.
 
-#### (d) Enforcement
+#### (e) Enforcement
 
 The Secretary shall take such action as the Secretary determines appropriate to enforce this section, except that action to terminate assistance provided under an applicable program shall be taken only if the Secretary determines that—
 
@@ -36,11 +198,17 @@ The Secretary shall take such action as the Secretary determines appropriate to 
 
 &emsp;(2) compliance with such section cannot be secured by voluntary means.
 
-#### (e) Office and review board
+#### (f) Office and review board
 
 The Secretary shall establish or designate an office and review board within the Department of Education to investigate, process, review, and adjudicate violations of the rights established under this section.
 
-(Pub. L. 90–247, title IV, §445, formerly §439, as added Pub. L. 93–380, title V, §514(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 95–561, title XII, §1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103–227, title X, §1017, Mar. 31, 1994, 108 Stat. 268; renumbered §445, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
+(Pub. L. 90–247, title IV, §445, formerly §439, as added Pub. L. 93–380, title V, §514(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 95–561, title XII, §1250, Nov. 1, 1978, 92 Stat. 2355; Pub. L. 103–227, title X, §1017, Mar. 31, 1994, 108 Stat. 268; renumbered §445, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913; amended Pub. L. 107–110, title X, §1061, Jan. 8, 2002, 115 Stat. 2083.)
+
+#### References in Text
+
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(5)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
@@ -48,9 +216,31 @@ A prior section 445 of Pub. L. 90–247 was classified to section 1233d of this 
 
 #### Amendments
 
+2002—Subsec. (b)(1) to (8). Pub. L. 107–110, §1061(1), added pars. (1) to (8) and struck out former pars. (1) to (7) which read as follows:
+
+“(1) political affiliations;
+
+“(2) mental and psychological problems potentially embarrassing to the student or his family;
+
+“(3) sex behavior and attitudes;
+
+“(4) illegal, anti-social, self-incriminating and demeaning behavior;
+
+“(5) critical appraisals of other individuals with whom respondents have close family relationships;
+
+“(6) legally recognized privileged or analogous relationships, such as those of lawyers, physicians, and ministers; or
+
+“(7) income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program),”.
+
+Subsec. (c) to (f). Pub. L. 107–110, §1061(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+
 1994—Pub. L. 103–227 amended section generally, substituting in subsec. (a), provisions relating to inspection of instructional materials by parents or guardians for similar provisions, in subsec. (b), provisions relating to limits on survey, analysis, or evaluations for provisions relating to psychiatric or psychological examinations, testing, or treatment, and adding subsecs. (c) to (e).
 
 1978—Pub. L. 95–561 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1978 Amendment
 

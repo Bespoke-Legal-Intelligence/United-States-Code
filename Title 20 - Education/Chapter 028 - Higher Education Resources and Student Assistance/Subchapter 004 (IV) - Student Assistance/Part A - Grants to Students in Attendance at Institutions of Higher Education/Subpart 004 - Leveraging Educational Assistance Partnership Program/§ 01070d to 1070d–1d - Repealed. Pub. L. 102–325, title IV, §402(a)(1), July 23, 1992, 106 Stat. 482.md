@@ -20,7 +20,7 @@ Section 1070d–1b, Pub. L. 89–329, title IV, §417D, as added Pub. L. 99–49
 
 A prior section 1070d–1b, Pub. L. 89–329, title IV, §417D, as added Pub. L. 96–374, title IV, §405, Oct. 3, 1980, 94 Stat. 1410, authorized a special services for disadvantaged students program, prior to the general revision of this part by Pub. L. 99–498.
 
-Section 1070d–1c, Pub. L. 89–329, title IV, §417E, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1340, authorized an educational opportunity centers program.
+Section 1070d–1c, Pub. L. 89–329, title IV, §417E, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100Stat. 1340, authorized an educational opportunity centers program.
 
 A prior section 1070d–1c, Pub. L. 89–329, title IV, §417E, as added Pub. L. 96–374, title IV, §405, Oct. 3, 1980, 94 Stat. 1410, authorized an educational opportunity centers program, prior to the general revision of this part by Pub. L. 99–498.
 

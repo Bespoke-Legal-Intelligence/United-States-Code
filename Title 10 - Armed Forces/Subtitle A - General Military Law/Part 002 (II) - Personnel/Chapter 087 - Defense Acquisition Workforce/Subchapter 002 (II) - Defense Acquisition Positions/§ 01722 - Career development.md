@@ -20,9 +20,7 @@ Opportunities for Civilians To Qualify.—The Secretary of Defense shall ensure 
 
 Best Qualified.—The Secretary of Defense shall ensure that the policies established under this chapter are designed to provide for the selection of the best qualified individual for a position, consistent with other applicable law.
 
-(e)
-
-Management of Workforce.—The Secretary of Defense shall ensure that the acquisition workforce is managed such that, for each fiscal year from October 1, 1991, through September 30, 1996, there is a substantial increase in the proportion of civilians (as compared to armed forces personnel) serving in critical acquisition positions in general, in program manager positions, and in division head positions over the proportion of civilians (as compared to armed forces personnel) in such positions on October 1, 1990.
+\[(e) Repealed. Pub. L. 107–107, div. A, title X, §1048(e)(3), Dec. 28, 2001, 115 Stat. 1227.\]
 
 (f)
 
@@ -38,11 +36,13 @@ Performance Appraisals.—The Secretary of each military department, acting thro
 
 Balanced Workforce Policy.—In the development of defense acquisition workforce policies under this chapter with respect to any civilian employees or applicants for employment, the Secretary of Defense or the Secretary of a military department (as applicable) shall, consistent with the merit system principles set out in paragraphs (1) and (2) of section 2301(b) of title 5, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1641; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1641; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), (e)(3), Dec. 28, 2001, 115 Stat. 1225, 1227.)
 
 #### Amendments
 
-1999—Subsecs. (a), (b)(2)(B). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+2001—Subsecs. (a), (b)(2)(B). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+
+Subsec. (e). Pub. L. 107–107, §1048(e)(3), struck out heading and text of subsec. (e). Text read as follows: “The Secretary of Defense shall ensure that the acquisition workforce is managed such that, for each fiscal year from October 1, 1991, through September 30, 1996, there is a substantial increase in the proportion of civilians (as compared to armed forces personnel) serving in critical acquisition positions in general, in program manager positions, and in division head positions over the proportion of civilians (as compared to armed forces personnel) in such positions on October 1, 1990.”
 
 1993—Subsecs. (a), (b)(2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
@@ -59,8 +59,4 @@ Military Positions Policy Deadlines.—(1) The policy required by paragraph (2) 
 “(d)
 
 Assignments Policy Deadline.—Not later than October 1, 1991, the Secretary of Defense shall establish, and require commencement of implementation of, an assignments policy pursuant to section 1722(f) of title 10, United States Code (as added by section 1202).”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1762 of this title.
 

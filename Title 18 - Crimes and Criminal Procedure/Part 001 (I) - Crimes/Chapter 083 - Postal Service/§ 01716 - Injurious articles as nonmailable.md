@@ -8,7 +8,7 @@
 
 (d) The transmission in the mails of poisonous drugs and medicines may be limited by the Postal Service to shipments of such articles from the manufacturer thereof or dealer therein to licensed physicians, surgeons, dentists, pharmacists, druggists, cosmetologists, barbers, and veterinarians under such rules and regulations as it shall prescribe.
 
-(e) The transmission in the mails of poisons for scientific use, and which are not outwardly dangerous or of their own force dangerous or injurious to life, health, or property, may be limited by the Postal Service to shipments of such articles between the manufacturers thereof, dealers therein, bona fide research or experimental scientific laboratories, and such otherpersons who are employees of the Federal, a State, or local government, whose official duties are comprised, in whole or in part, of the use of such poisons, and who are designated by the head of the agency in which they are employed to receive or send such articles, under such rules and regulations as the Postal Service shall prescribe.
+(e) The transmission in the mails of poisons for scientific use, and which are not outwardly dangerous or of their own force dangerous or injurious to life, health, or property, may be limited by the Postal Service to shipments of such articles between the manufacturers thereof, dealers therein, bona fide research or experimental scientific laboratories, and such other persons who are employees of the Federal, a State, or local government, whose official duties are comprised, in whole or in part, of the use of such poisons, and who are designated by the head of the agency in which they are employed to receive or send such articles, under such rules and regulations as the Postal Service shall prescribe.
 
 (f) All spirituous, vinous, malted, fermented, or other intoxicating liquors of any kind are nonmailable and shall not be deposited in or carried through the mails.
 
@@ -100,7 +100,7 @@ Section 3 of Pub. L. 92–191 provided that: “The amendments made by this Act 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1958 Amendment
 

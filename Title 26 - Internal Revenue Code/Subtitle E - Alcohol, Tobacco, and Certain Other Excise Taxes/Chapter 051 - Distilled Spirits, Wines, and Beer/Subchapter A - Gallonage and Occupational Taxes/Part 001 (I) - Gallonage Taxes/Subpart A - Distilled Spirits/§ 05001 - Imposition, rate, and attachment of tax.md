@@ -4,7 +4,7 @@
 
 #### (1) General
 
-&emsp;There is hereby imposed on all distilled spirits produced in or imported into the UnitedStates a tax at the rate of $13.50 on each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
+&emsp;There is hereby imposed on all distilled spirits produced in or imported into the United States a tax at the rate of $13.50 on each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
 
 #### (2) Products containing distilled spirits
 
@@ -46,7 +46,7 @@ The tax shall attach to distilled spirits as soon as this substance is in existe
 
 &emsp;&emsp;<b>For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1314; amended Pub. L. 86–75, §3(a)(2), (3), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(4), (5), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(4), (5), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(3), (4), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(4), (5), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(4), (5), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(a), June 21, 1965, 79 Stat. 150; Pub. L. 96–39, title VIII, §§802, 805(d), July 26, 1979, 93 Stat. 273, 278; Pub. L. 98–369, div. A, title I, §27(a)(1), July 18, 1984, 98 Stat. 507; Pub. L. 101–508, title XI, §11201(a)(1), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 103–465, title I, §136(a), Dec. 8, 1994, 108 Stat. 4841.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1314; amended Pub. L. 86–75, §3(a)(2), (3), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(4), (5), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(4), (5), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(3), (4), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(4), (5), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(4), (5), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(a), June 21, 1965, 79 Stat. 150; Pub. L. 96–39, title VIII, §§802, 805(d), July 26, 1979, 93 Stat. 273, 278; Pub. L. 98–369, div. A, title I, §27(a)(1), July 18, 1984, 98 Stat. 507; Pub. L. 101–508, title XI, §11201(a)(1),Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 103–465, title I, §136(a), Dec. 8, 1994, 108 Stat. 4841.)
 
 #### Prior Provisions
 
@@ -134,7 +134,7 @@ Section 210(b) of title II of Pub. L. 85–859, as amended by Pub. L. 99–514, 
 
 #### References to Other Provisions of Law
 
-Section 210(d) of title II of Pub. L. 85–859 provided that: “For the purpose of applying any provision of this title \[see Savings Provision note above\] to any occurrence on or after the effective date of such provision, any reference in this title to another provision thereof shall also be deemed to be a reference to the corresponding provision of prior law, when consistent with the purpose of the provision to be applied.”
+Section 210(d) of title II of Pub. L. 85–859 provided that: “For the purpose of applying any provision of thistitle \[see Savings Provision note above\] to any occurrence on or after the effective date of such provision, any reference in this title to another provision thereof shall also be deemed to be a reference to the corresponding provision of prior law, when consistent with the purpose of the provision to be applied.”
 
 #### Repeal of Acts Mar. 3, 1877 and Oct. 18, 1888
 
@@ -290,7 +290,7 @@ Section 27(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title XV
 
 “(1)
 
-Imposition of tax.—On distilled spirits on which tax was imposed under section 5001 or 7652 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before October 1, 1985, and which were held on such date for sale by any person, there shall be imposed a tax at the rate of $2.00 for each proof gallon and a proportionatetax at the like rate on all fractional parts of a proof gallon.
+Imposition of tax.—On distilled spirits on which tax was imposed under section 5001 or 7652 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before October 1, 1985, and which were held on such date for sale by any person, there shall be imposed a tax at the rate of $2.00 for each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
 
 “(2)
 

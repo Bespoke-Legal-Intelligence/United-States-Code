@@ -1,6 +1,6 @@
 ### §1878. Optional use of a one-step summoning and qualification procedure
 
-(a) At the option of each district court, jurors may be summoned and qualified in a single procedure, if the court's jury selection plan so authorizes, in lieu of the two separate procedures otherwise provided for by this chapter. Courtsshall ensure that a one-step summoning and qualification procedure conducted under this section does not violate the policies and objectives set forth in sections 1861 and 1862 of this title.
+(a) At the option of each district court, jurors may be summoned and qualified in a single procedure, if the court's jury selection plan so authorizes, in lieu of the two separate procedures otherwise provided for by this chapter. Courts shall ensure that a one-step summoning and qualification procedure conducted under this section does not violate the policies and objectives set forth in sections 1861 and 1862 of this title.
 
 (b) Jury selection conducted under this section shall be subject to challenge under section 1867 of this title for substantial failure to comply with the provisions of this title in selecting the jury. However, no challenge under section 1867 of this title shall lie solely on the basis that a jury was selected in accordance with a one-step summoning and qualification procedure authorized by this section.
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 #### Savings Provision
 
-Section 403(c) of Pub. L. 102–572 provided that: “For courts participating in the experiment authorized under section 1878 of title 28, United States Code (as in effect before the effective date of this section \[Jan. 1, 1993\]), the amendment made by subsection (a) of this section \[amending this section\] shall be effective on and after January 1, 1992.”
+Section 403(c) of Pub. L. 102–572 provided that: “For courts participating in the experiment authorized under section 1878 of title 28, United States Code (as in effect before the effective date of this section \[Jan. 1, 1993\]), the amendment made by subsection (a) of thissection \[amending this section\] shall be effective on and after January 1, 1992.”
 

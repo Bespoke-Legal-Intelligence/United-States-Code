@@ -22,7 +22,43 @@ Air Carrier Requirements.—(1) Not later than March 16, 1991, the Secretary of 
 
 Foreign Air Carrier Requirements.—The Secretary of Transportation shall consider imposing a requirement on foreign air carriers comparable to that imposed on air carriers under subsection (a)(1) and (2) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1211; Pub. L. 106–181, title VII, §718, Apr. 5, 2000, 114 Stat. 163.)
+(c)
+
+Flights in Foreign Air Transportation to the United States.—
+
+&emsp;(1)
+
+In general.—Not later than 60 days after the date of enactment of the Aviation and Transportation Security Act, each air carrier and foreign air carrier operating a passenger flight in foreign air transportation to the United States shall provide to the Commissioner of Customs by electronic transmission a passenger and crew manifest containing the information specified in paragraph (2). Carriers may use the advanced passenger information system established under section 431 of the Tariff Act of 1930 (19 U.S.C. 1431) to provide the information required by the preceding sentence.
+
+&emsp;(2)
+
+Information.—A passenger and crew manifest for a flight required under paragraph (1) shall contain the following information:
+
+&emsp;&emsp;(A) The full name of each passenger and crew member.
+
+&emsp;&emsp;(B) The date of birth and citizenship of each passenger and crew member.
+
+&emsp;&emsp;(C) The sex of each passenger and crew member.
+
+&emsp;&emsp;(D) The passport number and country of issuance of each passenger and crew member if required for travel.
+
+&emsp;&emsp;(E) The United States visa number or resident alien card number of each passenger and crew member, as applicable.
+
+&emsp;&emsp;(F) Such other information as the Under Secretary, in consultation with the Commissioner of Customs, determines is reasonably necessary to ensure aviation safety.
+
+&emsp;(3)
+
+Passenger name records.—The carriers shall make passenger name record information available to the Customs Service upon request.
+
+&emsp;(4)
+
+Transmission of manifest.—Subject to paragraph (5), a passenger and crew manifestrequired for a flight under paragraph (1) shall be transmitted to the Customs Service in advance of the aircraft landing in the United States in such manner, time, and form as the Customs Service prescribes.
+
+&emsp;(5)
+
+Transmission of manifests to other federal agencies.—Upon request, information provided to the Under Secretary or the Customs Service under this subsection may be shared with other Federal agencies for the purpose of protecting national security.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1211; Pub. L. 106–181, title VII, §718, Apr. 5, 2000, 114 Stat. 163; Pub. L. 107–71, title I, §115, Nov. 19, 2001, 115 Stat. 623.)
 
 Historical and Revision Notes
 
@@ -64,7 +100,13 @@ In subsection (a)(3), the words “In carrying out this subsection” are substi
 
 In subsection (b), the word “imposing” is added for clarity. The words “imposed on air carriers under subsection (a)(1) and (2) of this section” are substituted for “imposed pursuant to the amendment made by subsection (a)” for clarity and because of the restatement.
 
+#### References in Text
+
+The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+
 #### Amendments
+
+2001—Subsec. (c). Pub. L. 107–71 which directed the addition of subsec. (c) to section 44909, without specifying the Code title to be amended, was executed by making the addition to this section, to reflect the probable intent of Congress.
 
 2000—Subsec. (a)(2). Pub. L. 106–181 substituted “should” for “shall” in introductory provisions.
 

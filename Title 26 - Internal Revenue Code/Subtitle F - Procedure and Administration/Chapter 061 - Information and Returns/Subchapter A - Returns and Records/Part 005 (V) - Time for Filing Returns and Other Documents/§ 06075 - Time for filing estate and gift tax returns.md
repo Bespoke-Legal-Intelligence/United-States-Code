@@ -18,11 +18,25 @@ Returns made under section 6018(a) (relating to estate taxes) shall be filed wit
 
 &emsp;Notwithstanding paragraphs (1) and (2), the time for filing the return made under section 6019 for the calendar year which includes the date of death of the donor shall not be later than the time (including extensions) for filing the return made under section 6018 (relating to estate tax returns) with respect to such donor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 91–614, title I, §§101(b), 102(d)(4), Dec. 31, 1970, 84 Stat. 1836, 1842; Pub. L. 94–455, title XX, §2008(b), Oct. 4, 1976, 90 Stat. 1892; Pub. L. 96–167, §8(a)–(c), Dec. 29, 1979, 93 Stat. 1277, 1278; Pub. L. 97–34, title IV, §442(d)(3), Aug. 13, 1981, 95 Stat. 322.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 91–614, title I, §§101(b), 102(d)(4), Dec. 31, 1970, 84 Stat. 1836, 1842; Pub. L. 94–455, title XX, §2008(b), Oct. 4, 1976, 90 Stat. 1892; Pub. L. 96–167, §8(a)–(c), Dec. 29, 1979, 93 Stat. 1277, 1278; Pub. L. 97–34, title IV, §442(d)(3), Aug. 13, 1981, 95 Stat. 322; Pub. L. 107–16, title V, §542(b)(3), June 7, 2001, 115 Stat. 83.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–16, title V, §542(b)(3), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 83, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is temporarily amended as follows:</i>
+
+<i>(1) by amending subsection (a) to read as follows:</i>
+
+#### <i>“(a) Returns relating to large transfers at death</i>
+
+<i>“The return required by section 6018 with respect to a decedent shall be filed with the return of the tax imposed by chapter 1 for the decedent's last taxable year or such later date specified in regulations prescribed by the Secretary.”; and</i>
+
+<i>(2) in subsection (b)(3), by substituting “section 6018 return” for “estate tax return” in heading and “(relating to returns relating to large transfers at death)” for “(relating to estate tax returns)” in text.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–34 substituted in par. (1) the rule for filing gift tax returns on or before the 15th day of April following the close of the calendar year for prior provision for such filing on or before, in the case of a return for the first, second, or third calendar quarter of any calendar year, the 15th day of the second month following the close of the calendar quarter, or, in the case of a return for the fourth calendar quarter of any calendar year, the 15th day of the fourth month following the close of the calendar quarter, redesignated former par. (3) as (2), and, as so redesignated, substituted “under section 6019 for such calendar year” for “under section 6019 for the fourth calendar quarter of such taxable year”, struck out former par. (2) setting forth special rule where gifts in a calendar quarter totalled $25,000 or less, added par. (3), and struck out par.\(4) respecting application of the special rule to nonresidents not citizens of the United States.
+<b>1981</b>—Subsec. (b). Pub. L. 97–34 substituted in par. (1) the rule for filing gift tax returns on or before the 15th day of April following the close of the calendar year for prior provision for such filing on or before, in the case of a return for the first, second, or third calendar quarter of any calendar year, the 15th day of the second month following the close of the calendar quarter, or, in the case of a return for the fourth calendar quarter of any calendar year, the 15th day of the fourth month following the close of the calendar quarter, redesignated former par. (3) as (2), and, as so redesignated, substituted “under section 6019 for such calendar year” for “under section 6019 for the fourth calendar quarter of such taxable year”, struck out former par. (2) setting forth special rule where gifts in a calendar quarter totalled $25,000 or less, added par. (3), and struck out par. (4) respecting application of the special rule to nonresidents not citizens of the United States.
 
 <b>1979</b>—Subsec. (b)(1). Pub. L. 96–167, §8(a), substituted “(A) in the case of a return for the first, second, or third calendar quarter of any calendar year, the 15th day of the second month following the close of the calendar quarter, or” for “the 15th day of the second month following the close of the calendar quarter”, and added subpar. (B).
 
@@ -36,9 +50,15 @@ Subsec. (b)(3), (4). Pub. L. 96–167, §8(b), added par. (3) and redesignated f
 
 Subsec. (b). Pub. L. 91–614, §102(d)(4), substituted “the 15th day of the second month following the close of the calendar quarter” for “the 15th day of April following the close of the calendar year”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) ofPub. L. 97–34, set out as a note under section 2501 of this title.
 
 #### Effective Date of 1979 Amendment
 
@@ -56,5 +76,5 @@ Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2523, 2642, 6166, 7269 of this title.
+This section is referred to in sections 2523, 2632, 2642, 6166, 7269 of this title.
 

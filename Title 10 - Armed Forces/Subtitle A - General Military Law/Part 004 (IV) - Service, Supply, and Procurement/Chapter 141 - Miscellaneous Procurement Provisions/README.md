@@ -10,7 +10,7 @@
 | [2386\.](%C2%A7%2002386%20-%20Copyrights%2C%20patents%2C%20designs%2C%20etc.%3B%20acquisition.md) | Copyrights, patents, designs, etc.; acquisition. |
 | [2387\.](%C2%A7%2002387%20-%20Procurement%20of%20table%20and%20kitchen%20equipment%20for%20officers%E2%80%99%20quarters%20limitation%20on.md) | Procurement of table and kitchen equipment for officers’ quarters: limitation on. |
 | [2388\.](%C2%A7%2002388%20-%20Liquid%20fuels%20and%20natural%20gas%20contracts%20for%20storage%2C%20handling%2C%20or%20distribution.md) | Liquid fuels and natural gas: contracts for storage, handling, or distribution. |
-| \[2389. | Repealed.\] |
+| [2389\.](%C2%A7%2002389%20-%20Ensuring%20safety%20regarding%20insensitive%20munitions.md) | Ensuring safety regarding insensitive munitions. |
 | [2390\.](%C2%A7%2002390%20-%20Prohibition%20on%20the%20sale%20of%20certain%20defense%20articles%20from%20the%20stocks%20of%20the%20Department%20of%20Defense.md) | Prohibition on the sale of certain defense articles from the stocks of the Department of Defense. |
 | [2391\.](%C2%A7%2002391%20-%20Military%20base%20reuse%20studies%20and%20community%20planning%20assistance.md) | Military base reuse studies and community planning assistance. |
 | [2392\.](%C2%A7%2002392%20-%20Prohibition%20on%20use%20of%20funds%20to%20relieve%20economic%20dislocations.md) | Prohibition on use of funds to relieve economic dislocations. |
@@ -46,10 +46,13 @@
 | [2410k.](%C2%A7%2002410k%20-%20Defense%20contractors%20listing%20of%20suitable%20employment%20openings%20with%20local%20employment%20service%20office.md) | Defense contractors: listing of suitable employment openings with local employment service office. |
 | 2410<i>l</i>. | Contracts for advisory and assistance services: cost comparison studies. |
 | [2410m.](%C2%A7%2002410m%20-%20Retention%20of%20amounts%20collected%20from%20contractor%20during%20the%20pendency%20of%20contract%20dispute.md) | Retention of amounts collected from contractor during the pendency of contract dispute. |
+| [2410n.](%C2%A7%2002410n%20-%20Products%20of%20Federal%20Prison%20Industries%20procedural%20requirements.md) | Products of Federal Prison Industries: procedural requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title VIII, §§811(a)(2), 834(a)(2), Dec. 28, 2001, 115 Stat. 1181, 1191, added items 2389 and 2410n.
 
 1999—Pub. L. 106–65, div. A, title VIII, §803(b)(2), Oct. 5, 1999, 113 Stat. 704, substituted “Acquisition of certain fuel sources” for “Acquisition of petroleum and natural gas” in item 2404.
 
@@ -125,7 +128,7 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 - [&sect; 02386 - Copyrights, patents, designs, etc.; acquisition](%C2%A7%2002386%20-%20Copyrights%2C%20patents%2C%20designs%2C%20etc.%3B%20acquisition.md)
 - [&sect; 02387 - Procurement of table and kitchen equipment for officers&#8217; quarters limitation on](%C2%A7%2002387%20-%20Procurement%20of%20table%20and%20kitchen%20equipment%20for%20officers%E2%80%99%20quarters%20limitation%20on.md)
 - [&sect; 02388 - Liquid fuels and natural gas contracts for storage, handling, or distribution](%C2%A7%2002388%20-%20Liquid%20fuels%20and%20natural%20gas%20contracts%20for%20storage%2C%20handling%2C%20or%20distribution.md)
-- [&sect; 02389 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;821(a)(4), Nov. 30, 1993, 107 Stat. 1704](%C2%A7%2002389%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28a%29%284%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201704.md)
+- [&sect; 02389 - Ensuring safety regarding insensitive munitions](%C2%A7%2002389%20-%20Ensuring%20safety%20regarding%20insensitive%20munitions.md)
 - [&sect; 02390 - Prohibition on the sale of certain defense articles from the stocks of the Department of Defense](%C2%A7%2002390%20-%20Prohibition%20on%20the%20sale%20of%20certain%20defense%20articles%20from%20the%20stocks%20of%20the%20Department%20of%20Defense.md)
 - [&sect; 02391 - Military base reuse studies and community planning assistance](%C2%A7%2002391%20-%20Military%20base%20reuse%20studies%20and%20community%20planning%20assistance.md)
 - [&sect; 02392 - Prohibition on use of funds to relieve economic dislocations](%C2%A7%2002392%20-%20Prohibition%20on%20use%20of%20funds%20to%20relieve%20economic%20dislocations.md)
@@ -163,3 +166,4 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 - [&sect; 02410k - Defense contractors listing of suitable employment openings with local employment service office](%C2%A7%2002410k%20-%20Defense%20contractors%20listing%20of%20suitable%20employment%20openings%20with%20local%20employment%20service%20office.md)
 - [&sect; 02410l - Contracts for advisory and assistance services cost comparison studies](%C2%A7%2002410l%20-%20Contracts%20for%20advisory%20and%20assistance%20services%20cost%20comparison%20studies.md)
 - [&sect; 02410m - Retention of amounts collected from contractor during the pendency of contract dispute](%C2%A7%2002410m%20-%20Retention%20of%20amounts%20collected%20from%20contractor%20during%20the%20pendency%20of%20contract%20dispute.md)
+- [&sect; 02410n - Products of Federal Prison Industries procedural requirements](%C2%A7%2002410n%20-%20Products%20of%20Federal%20Prison%20Industries%20procedural%20requirements.md)

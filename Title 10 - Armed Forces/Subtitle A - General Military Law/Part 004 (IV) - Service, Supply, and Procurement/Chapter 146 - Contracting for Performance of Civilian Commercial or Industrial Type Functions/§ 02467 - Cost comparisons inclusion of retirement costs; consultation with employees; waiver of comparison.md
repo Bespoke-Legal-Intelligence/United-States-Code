@@ -6,11 +6,11 @@ Requirement To Include Retirement Costs.—(1) In any comparison conducted by th
 
 (2) The retirement system costs of the Department of Defense shall include (to the extent applicable) the following:
 
-&emsp;(A) The cost of the Federal Employees’ Retirement System, valued by using the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code).
+&emsp;(A) The cost of the Federal Employees’ Retirement System, valued by using the normal-cost percentage (as defined by section 8401(23) of title 5.
 
-&emsp;(B) The cost of the Civil Service Retirement System under subchapter III of chapter 83 of such title 5.
+&emsp;(B) The cost of the Civil Service Retirement System under subchapter III of chapter 83 of title 5.
 
-&emsp;(C) The cost of the thrift savings plan under subchapter III of chapter 84 of such title 5.
+&emsp;(C) The cost of the thrift savings plan under subchapter III of chapter 84 of title 5.
 
 &emsp;(D) The cost of the old age, survivors, and disability insurance taxes imposed under section 3111(a) of the Internal Revenue Code of 1986.
 
@@ -24,7 +24,7 @@ Requirement To Consult DOD Employees.—(1) Each officer or employee of the Depa
 
 &emsp;(B) may consult with such employees on other matters relating to that determination.
 
-(2)(A) In the case of employees represented by a labor organization accorded exclusive recognition under section 7111 of title 5, United States Code, consultation with representatives of that labor organization shall satisfy the consultation requirement in paragraph (1).
+(2)(A) In the case of employees represented by a labor organization accorded exclusive recognition under section 7111 of title 5, consultation with representatives of that labor organization shall satisfy the consultation requirement in paragraph (1).
 
 (B) In the case of employees other than employees referred to in subparagraph (A), consultation with appropriate representatives of those employees shall satisfy the consultation requirement in paragraph (1).
 
@@ -42,13 +42,19 @@ Congressional Notification of Cost Comparison Waiver.—(1) Not later than 10 da
 
 &emsp;(C) The anticipated savings to result from the waiver and resulting conversion to contractor performance.
 
-(Added Pub. L. 100–456, div. A, title III, §331(a), Sept. 29, 1988, 102 Stat. 1957; amended Pub. L. 106–65, div. A, title III, §342(a), (b)(1), Oct. 5, 1999, 113 Stat. 569.)
+(Added Pub. L. 100–456, div. A, title III, §331(a), Sept. 29, 1988, 102 Stat. 1957; amended Pub. L. 106–65, div. A, title III, §342(a), (b)(1), Oct. 5, 1999, 113 Stat. 569; Pub. L. 107–107, div. A, title X, §1048(a)(22), Dec. 28, 2001, 115 Stat. 1224.)
 
 #### References in Text
 
 Section 3111(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(D), (3), is classified to section 3111(a) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2001—Subsec. (a)(2)(A). Pub. L. 107–107, §1048(a)(22)(A)(i), struck out “, United States Code” after “title 5”.
+
+Subsec. (a)(2)(B), (C). Pub. L. 107–107, §1048(a)(22)(A)(ii), struck out “such” before “title 5”.
+
+Subsec. (b)(2)(A). Pub. L. 107–107, §1048(a)(22)(B), struck out “United States Code,” after “title 5,”.
 
 1999—Pub. L. 106–65, §342(b)(1), substituted “Cost comparisons: inclusion of retirement costs; consultation with employees; waiver of comparison” for “Cost comparisons: requirements with respect to retirement costs and consultation with employees” in section catchline.
 

@@ -24,7 +24,7 @@ The following requirements shall apply to programs under this chapter:
 
 #### (5) Effect on other laws
 
-&emsp;Nothing in this chapter shall be construed to modify or affect any Federal or State law prohibiting discrimination on the basis of race,religion, color, ethnicity, national origin, gender, age, or disability, or to modify or affect any right to enforcement of this chapter that may exist under other Federal laws, except as expressly provided by this chapter.
+&emsp;Nothing in this chapter shall be construed to modify or affect any Federal or State law prohibiting discrimination on the basis of race, religion, color, ethnicity, national origin, gender, age, or disability, or to modify or affect any right to enforcement of this chapter that may exist under other Federal laws, except as expressly provided by this chapter.
 
 #### (6) Prohibition concerning wages
 

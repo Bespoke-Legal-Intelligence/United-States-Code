@@ -18,7 +18,7 @@ Any assistance provided under this subchapter shall constitute Federal financial
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), an individual with responsibility for the operation ofa project that receives assistance under this subchapter shall not discriminate on the basis of religion against a participant in such project or a member of the staff of such project who is paid with funds received under this subchapter.
+&emsp;Except as provided in paragraph (2), an individual with responsibility for the operation of a project that receives assistance under this subchapter shall not discriminate on the basis of religion against a participant in such project or a member of the staff of such project who is paid with funds received under this subchapter.
 
 #### (2) Exception
 
@@ -36,7 +36,7 @@ The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, J
 
 The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (b), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (b), is title III of Pub. L. 94–135, Nov. 28, 1975, 89Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 #### Amendments
 

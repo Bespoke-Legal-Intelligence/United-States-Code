@@ -114,7 +114,7 @@ General rule.—Except as provided in paragraph (2), a proposal in the possessio
 
 &emsp;(2)
 
-Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
+Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by theAdministrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
 
 &emsp;(3)
 
@@ -364,7 +364,7 @@ Rule of Construction.—Nothing in this section shall be construed as authorizin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 40121 of this title.
+This section is referred to in sections 114, 40121 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

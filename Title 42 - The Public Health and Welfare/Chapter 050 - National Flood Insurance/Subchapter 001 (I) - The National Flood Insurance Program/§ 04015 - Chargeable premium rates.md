@@ -32,7 +32,7 @@ With respect to any chargeable premium rate prescribed under this section, a sum
 
 Notwithstanding any other provision of this chapter, the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 10 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period.
 
-(Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277.)
+(Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV,§451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 101–508, §2302(e)(2)(B), added subsec. (d) and struck ou
 
 &emsp;“(1) is a rate which is not less than the applicable estimated risk premium rate under section 4014(a)(1) of this title, and
 
-&emsp;“(2) includes any amount for administrative expenses of carrying out the flood insurance programwhich have been estimated under clause (ii) of section 4014(a)(1)(B) of this title,
+&emsp;“(2) includes any amount for administrative expenses of carrying out the flood insurance program which have been estimated under clause (ii) of section 4014(a)(1)(B) of this title,
 
 > a sum equal to such amount shall be paid to the Director, and he shall deposit such sum in the National Flood Insurance Fund established under section 4017 of this title.”
 

@@ -142,7 +142,7 @@ For purposes of this part—
 
 &emsp;&emsp;(AA) section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts).
 
-> &emsp;Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
+> &emsp;Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld underchapter 3 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
 
 #### (3) Specified information reporting requirement
 
@@ -336,7 +336,7 @@ Subsec. (d)(1)(B)(viii) to (xi). Pub. L. 101–239, §7811(c)(3), amended cls. (
 
 Subsec. (d)(2). Pub. L. 101–239, §7813(a), struck out “or” after “insurance),” in subpar. (Q), substituted “tips), or” for “tips).” in subpar. (R), and redesignated subpar. (U) as (S).
 
-<b>1988</b>—Subsec. (d)(1)(B). Pub. L. 100–647, §3001(b)(1), which directed that “or” be struck out at end of cl. (ix), “, or” be substituted for period at end of cl. (x), and cl. (xi) relating to section 4093 be added, was executed by striking out “or” at end of cl. (ix) and adding cl. (xi) in view of intervening amendments by section 1941(b)(2)(M)(i) of Pub. L. 100–418, and by section 1006(h)(3)(A) of Pub. L. 100–647.
+<b>1988</b>—Subsec. (d)(1)(B). Pub. L. 100–647, §3001(b)(1), which directed that “or” be struck out at end of cl. (ix), “, or” be substituted for period at end of cl. (x), and cl. (xi) relating to section 4093 be added, was executed by striking out “or” at end of cl. (ix) and adding cl. (xi) in view of intervening amendments by section1941(b)(2)(M)(i) of Pub. L. 100–418, and by section 1006(h)(3)(A) of Pub. L. 100–647.
 
 Pub. L. 100–647, §1006(h)(3)(A), struck out “or” at end of cl. (ix), substituted “, or” for period at end of cl. (x), and added cl. (xi) relating to section 1060.
 
@@ -344,7 +344,7 @@ Pub. L. 100–418, §1941(b)(2)(M)(i), redesignated cls. (ii) to (x) as (i) to (
 
 Subsec. (d)(2). Pub. L. 100–647, §3001(b)(2), which directed that “or” be struck out at end of subpar. (S), “, or” be substituted for period at end of subpar. (T), and subpar. (U) be added, was executed by adding subpar. (U) in view of intervening amendment by section 1941(b)(2)(M)(ii) of Pub. L. 100–418.
 
-Pub. L. 100–418, §1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A) to (I), respectively, and struck out former subpar. (A) which read as follows: “section 4997(a) (relating to records and information; regulations),” and redesignated subpars. (L) to (T) as (J) to (R), respectively, and struck out former subpar. (K)which read as follows: “section 6050C (relating to information regarding windfall profit tax on domestic crude oil),”.
+Pub. L. 100–418, §1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A) to (I), respectively, and struck out former subpar. (A) which read as follows: “section 4997(a) (relating to records and information; regulations),” and redesignated subpars. (L) to (T) as (J) to (R), respectively, and struck out former subpar. (K) which read as follows: “section 6050C (relating to information regarding windfall profit tax on domestic crude oil),”.
 
 Subsec. (d)(2)(B). Pub. L. 100–647, §1015(a), substituted “6031(b) or (c)” for “6031(b)”.
 
@@ -410,7 +410,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date
 
-Section applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as a note under section 6721 of this title.
+Section applicable to returns the due date for which (determined without regard to extensions) is after Dec.31, 1986, see section 1501(e) of Pub. L. 99–514, set out as a note under section 6721 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1998
 

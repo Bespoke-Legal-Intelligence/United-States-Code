@@ -2,7 +2,7 @@
 
 (a)
 
-Same Powers and Restrictions Under Other Laws.—To ensure that the Metropolitan Washington Airports Authority has the same proprietary powers and is subject to the same restrictions under United States law as any other airport except as otherwise provided in this chapter, during the period that the lease authorized by section 6005 of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–375; Public Law 99–591; 100 Stat. 3341–378) is in effect—
+Same Powers and Restrictions Under Other Laws.—To ensure that the Metropolitan Washington Airports Authority has the same proprietary powers and is subject to the same restrictions under United States law as anyother airport except as otherwise provided in this chapter, during the period that the lease authorized by section 6005 of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–375; Public Law 99–591; 100 Stat. 3341–378) is in effect—
 
 &emsp;(1) the Metropolitan Washington Airports are deemed to be public airports for purposes of chapter 471 of this title; and
 

@@ -8,7 +8,7 @@ For the purposes of this chapter, the term “program or activity” and “prog
 
 &emsp;(2)(A) a college, university, or other postsecondary institution, or a public system of higher education; or
 
-&emsp;(B) a local educational agency (as defined in section 8801 of this title), system of vocational education, or other school system;
+&emsp;(B) a local educational agency (as defined in section 7801 of this title), system of vocational education, or other school system;
 
 &emsp;(3)(A) an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
 
@@ -22,7 +22,7 @@ For the purposes of this chapter, the term “program or activity” and “prog
 
 > any part of which is extended Federal financial assistance, except that such term does not include any operation of an entity which is controlled by a religious organization if the application of section 1681 of this title to such operation would not be consistent with the religious tenets of such organization.
 
-(Pub. L. 92–318, title IX, §908, as added Pub. L. 100–259, §3(a), Mar. 22, 1988, 102 Stat. 28; amended Pub. L. 103–382, title III, §391(g), Oct. 20, 1994, 108 Stat. 4023.)
+(Pub. L. 92–318, title IX, §908, as added Pub. L. 100–259, §3(a), Mar. 22, 1988, 102 Stat. 28; amended Pub. L. 103–382, title III, §391(g), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 107–110, title X, §1076(j), Jan. 8, 2002, 115 Stat. 2091.)
 
 #### References in Text
 
@@ -30,7 +30,13 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 #### Amendments
 
+2002—Par. (2)(B). Pub. L. 107–110 substituted “7801” for “8801”.
+
 1994—Par. (2)(B). Pub. L. 103–382 substituted “section 8801” for “section 2854(a)(10)”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Findings of Congress
 

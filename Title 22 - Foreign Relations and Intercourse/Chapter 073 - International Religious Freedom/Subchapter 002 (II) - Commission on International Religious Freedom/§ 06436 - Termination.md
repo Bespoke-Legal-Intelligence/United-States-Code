@@ -2,7 +2,7 @@
 
 The Commission shall terminate on May 14, 2003.
 
-(Pub. L. 105–292, title II, §209, formerly §206, Oct. 27, 1998, 112 Stat. 2800; renumbered §209 andamended Pub. L. 106–55, §1(b)(2), (c), Aug. 17, 1999, 113 Stat. 401, 405.)
+(Pub. L. 105–292, title II, §209, formerly §206, Oct. 27, 1998, 112 Stat. 2800; renumbered §209 and amended Pub. L. 106–55, §1(b)(2), (c), Aug. 17, 1999, 113 Stat. 401, 405.)
 
 #### Amendments
 

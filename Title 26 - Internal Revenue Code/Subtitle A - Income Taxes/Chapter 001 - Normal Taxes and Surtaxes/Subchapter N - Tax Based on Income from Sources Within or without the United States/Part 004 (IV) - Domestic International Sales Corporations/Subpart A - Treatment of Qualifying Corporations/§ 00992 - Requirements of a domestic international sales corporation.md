@@ -30,7 +30,7 @@
 
 &emsp;(A) An election by a corporation to be treated as a DISC shall be made by such corporation for a taxable year at any time during the 90–day period immediately preceding the beginning of the taxable year, except that the Secretary may give his consent to the making of an election at such other times as he may designate.
 
-&emsp;(B) Such election shall be made in such manner as the Secretary shall prescribe and shall be valid only if all persons who are shareholders in such corporation on the first day of the first taxable year for which such election is effective consent to such election.
+&emsp;(B) Such election shall be made in such manner as the Secretary shall prescribe and shallbe valid only if all persons who are shareholders in such corporation on the first day of the first taxable year for which such election is effective consent to such election.
 
 #### (2) Effect of election
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) if the failure to meet the requirements of subsection (a)(1)(A) or (B), and the failure to make such distribution prior to the date on which made, are due to reasonable cause; and
 
-&emsp;&emsp;(B) the corporation pays, within the 30–day period beginning with the day on which suchdistribution is made, to the Secretary, if such corporation makes such distribution after the 15th day of the 9th months after the close of the taxable year, an amount determined by multiplying (i) the amount equal to 41/2 percent of such distribution, by (ii) the number of its taxable years which begin after the taxable year with respect to which such distribution is made and before such distribution is made. For purposes of this title, any payment made pursuant to this paragraph shall be treated as interest.
+&emsp;&emsp;(B) the corporation pays, within the 30–day period beginning with the day on which such distribution is made, to the Secretary, if such corporation makes such distribution after the 15th day of the 9th months after the close of the taxable year, an amount determined by multiplying (i) the amount equal to 41/2 percent of such distribution, by (ii) the number of its taxable years which begin after the taxable year with respect to which such distribution is made and before such distribution is made. For purposes of this title, any payment made pursuant to this paragraph shall be treated as interest.
 
 #### (3) Certain distributions made within 81/2 months after close of taxable year deemed for reasonable cause
 

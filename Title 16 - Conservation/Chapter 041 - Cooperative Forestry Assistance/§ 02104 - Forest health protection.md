@@ -94,13 +94,15 @@ A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classifie
 
 #### Stewardship End Result Contracting Demonstration Project
 
-Pub. L. 106–291, title III, §338, Oct. 11, 2000, 114 Stat. 998, provided that: “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with section 347 of title III of section 101(e) of division A of Public Law 105–825 \[Pub. L. 105–277, set out below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
+Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with section 347 of title III of section 101(e) of division A of Public Law 105–277 \[set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
 
-Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201, provided that:
+Similar provisions were contained in Pub. L. 106–291, title III, §338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, §2604, July 24, 2001, 115 Stat. 178.
+
+Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided that:
 
 “(a)
 
-In General.—Until September 30, 2002, the Forest Service, via agreement or contract as appropriate, may enter into no more than twenty-eight (28) stewardship contracting demonstration pilot projects with private persons or other public or private entities, of which Region One of the Forest Service shall have the authority to enter into nine (9) such contracts, to perform services to achieve land management goals for the national forests that meet local and rural community needs.
+In General.—Until September 30, 2004, the Forest Service, via agreement or contract as appropriate, may enter into no more than twenty-eight (28) stewardship contracting demonstration pilot projects with private persons or other public or private entities, of which Region One of the Forest Service shall have the authority to enter into nine (9) such contracts, to perform services to achieve land management goals for the national forests that meet local and rural community needs.
 
 “(b)
 

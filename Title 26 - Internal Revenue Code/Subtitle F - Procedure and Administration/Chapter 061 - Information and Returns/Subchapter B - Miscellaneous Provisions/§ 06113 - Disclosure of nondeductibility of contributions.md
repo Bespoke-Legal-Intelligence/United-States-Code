@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Each fundraising solicitation by (or on behalf of) an organization to which this section applies shall contain an express statement (in a conspicuous and easily recognizable format) thatcontributions or gifts to such organization are not deductible as charitable contributions for Federal income tax purposes.
+Each fundraising solicitation by (or on behalf of) an organization to which this section applies shall contain an express statement (in a conspicuous and easily recognizable format) that contributions or gifts to such organization are not deductible as charitable contributions for Federal income tax purposes.
 
 #### (b) Organizations to which section applies
 

@@ -4,7 +4,7 @@
 
 For purposes of this subchapter, a State has primary enforcement responsibility for public water systems during any period for which the Administrator determines (pursuant to regulations prescribed under subsection (b) of this section) that such State—
 
-&emsp;(1) has adopted drinking water regulations that are no less stringent than the nationalprimary drinking water regulations promulgated by the Administrator under subsections (a) and (b) of section 300g–1 of this title not later than 2 years after the date on which the regulations are promulgated by the Administrator, except that the Administrator may provide for an extension of not more than 2 years if, after submission and review of appropriate, adequate documentation from the State, the Administrator determines that the extension is necessary and justified;
+&emsp;(1) has adopted drinking water regulations that are no less stringent than the national primary drinking water regulations promulgated by the Administrator under subsections (a) and (b) of section 300g–1 of this title not later than 2 years after the date on which the regulations are promulgated by the Administrator, except that the Administrator may provide for an extension of not more than 2 years if, after submission and review of appropriate, adequate documentation from the State, the Administrator determines that the extension is necessary and justified;
 
 &emsp;(2) has adopted and is implementing adequate procedures for the enforcement of such State regulations, including conducting such monitoring and making such inspections as the Administrator may require by regulation;
 

@@ -26,7 +26,7 @@ A State may not make payments from a grant under subsection (a) of this section 
 
 &emsp;(2) by an entity that provides health services on a prepaid basis.
 
-(July 1, 1944, ch. 373, title III, §395, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 979; amended Pub. L. 101–557, title I, §101(a)–(c), Nov. 15, 1990, 104 Stat. 2766; Pub. L. 102–108, §2(f), Aug. 17, 1991, 105 Stat. 550.)
+(July 1, 1944, ch. 373, title III, §395, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 979; amended Pub. L. 101–557, title I, §101(a)–(c),Nov. 15, 1990, 104 Stat. 2766; Pub. L. 102–108, §2(f), Aug. 17, 1991, 105 Stat. 550.)
 
 #### Prior Provisions
 

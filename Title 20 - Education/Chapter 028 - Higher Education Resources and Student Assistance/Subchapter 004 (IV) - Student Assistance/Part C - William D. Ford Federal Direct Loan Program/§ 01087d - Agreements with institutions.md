@@ -24,7 +24,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;(3) provide that the institution accepts responsibility and financial liability stemming from its failure to perform its functions pursuant to the agreement;
 
-&emsp;(4) provide that students at the institution and their parents (with respect to such students) will be eligible to participate in theprograms under part B of this subchapter at the discretion of the Secretary for the period during which such institution participates in the direct student loan program under this part, except that a student or parent may not receive loans under both this part and part B of this subchapter for the same period of enrollment;
+&emsp;(4) provide that students at the institution and their parents (with respect to such students) will be eligible to participate in the programs under part B of this subchapter at the discretion of the Secretary for the period during which such institution participates in the direct student loan program under this part, except that a student or parent may not receive loans under both this part and part B of this subchapter for the same period of enrollment;
 
 &emsp;(5) provide for the implementation of a quality assurance system, as established by the Secretary and developed in consultation with institutions of higher education, to ensure that the institution is complying with program requirements and meeting program objectives;
 

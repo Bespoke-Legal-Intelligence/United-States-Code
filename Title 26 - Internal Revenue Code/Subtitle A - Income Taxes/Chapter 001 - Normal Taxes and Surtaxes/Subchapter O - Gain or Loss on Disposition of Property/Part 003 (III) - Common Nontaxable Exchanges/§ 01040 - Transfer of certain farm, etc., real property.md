@@ -12,7 +12,31 @@ To the extent provided in regulations prescribed by the Secretary, a rule simila
 
 The basis of property acquired in a transfer with respect to which gain realized is not recognized by reason of subsection (a) or (b) shall be the basis of such property immediately before the transfer increased by the amount of the gain recognized to the estate or trust on the transfer.
 
-(Added Pub. L. 94–455, title XX, §2005(b), Oct. 4, 1976, 90 Stat. 1877; amended Pub. L. 95–600, title VII, §702(d)(3), Nov. 6, 1978, 92 Stat. 2929; Pub. L. 96–222, title I, §105(a)(5)(A), Apr. 1, 1980, 94 Stat. 219; Pub. L. 96–223, title IV, §401(c)(2)(A), Apr. 2, 1980, 94 Stat. 300; Pub. L. 97–34, title IV, §421(j)(2)(B), Aug. 13, 1981, 95 Stat. 312; Pub. L. 97–448, title I, §104(b)(3)(A), (B), Jan. 12, 1983, 96 Stat. 2381.)
+(Added Pub. L. 94–455, title XX, §2005(b), Oct. 4, 1976, 90 Stat. 1877; amended Pub. L. 95–600, title VII, §702(d)(3), Nov. 6, 1978, 92 Stat. 2929; Pub. L. 96–222, title I, §105(a)(5)(A), Apr. 1, 1980, 94 Stat. 219; Pub. L. 96–223, title IV, §401(c)(2)(A), Apr. 2, 1980, 94 Stat. 300; Pub. L. 97–34, title IV, §421(j)(2)(B), Aug. 13, 1981, 95 Stat. 312; Pub. L. 97–448, title I, §104(b)(3)(A), (B), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 107–16, title V, §542(d)(1), June 7, 2001, 115 Stat. 84.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–16, title V, §542(d)(1), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 84, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is temporarily amended to read as follows:</i>
+
+#### §1040. Use of appreciated carryover basis property to satisfy pecuniary bequest
+
+#### <i>(a) In general</i>
+
+<i>If the executor of the estate of any decedent satisfies the right of any person to receive a pecuniary bequest with appreciated property, then gain on such exchange shall be recognized to the estate only to the extent that, on the date of such exchange, the fair market value of such property exceeds such value on the date of death.</i>
+
+#### <i>(b) Similar rule for certain trusts</i>
+
+<i>To the extent provided in regulations prescribed by the Secretary, a rule similar to the rule provided in subsection (a) shall apply where—</i>
+
+&emsp;<i>(1) by reason of the death of the decedent, a person has a right to receive from a trust a specific dollar amount which is the equivalent of a pecuniary bequest, and</i>
+
+&emsp;<i>(2) the trustee of a trust satisfies such right with property.</i>
+
+#### <i>(c) Basis of property acquired in exchange described in subsection (a) or (b)</i>
+
+<i>The basis of property acquired in an exchange with respect to which gain realized is not recognized by reason of subsection (a) or (b) shall be the basis of such property immediately before the exchange increased by the amount of the gain recognized to the estate or trust on the exchange.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -33,6 +57,12 @@ Subsec. (b). Pub. L. 97–34 substituted “shall apply where the trustee of a t
 <b>1980</b>—Pub. L. 96–223 substituted “Use of farm, etc., property to satisfy pecuniary bequest” for “Use of certain appreciated carryover basis property to satisfy pecuniary request” in section catchline, generally revised subsecs. (a) and (b) to reflect the repeal elsewhere in the Code of carryover basis provisions, and struck out subsec. (d) which had provided that, for purposes of this section, references to carryover basis property should be treated as including a reference to property the valuation of which is determined under section 2032A. Pub. L. 96–222 added subsec. (d).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted “chapter 11 (determined without regard to section 2032A)” for “chapter 11”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1983 Amendment
 

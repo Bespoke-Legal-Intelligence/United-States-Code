@@ -34,9 +34,11 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 &emsp;&emsp;(C) an attempt or conspiracy to commit any act described in subparagraph (A) or (B);
 
-&emsp;(4) the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), or (3); or
+&emsp;(4) the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), or (3);
 
-&emsp;(5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), or (3).
+&emsp;(5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), or (3), including by dismantling an organization in whole or significant part; or
+
+&emsp;(6) the identification or location of an individual who holds a key leadership position in a terrorist organization.
 
 #### (c) Coordination
 
@@ -66,15 +68,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 &emsp;Notwithstanding section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987 (Public Law 99–93; 99 Stat. 408), but subject to paragraph (2), there are authorized to be appropriated to the Department of State from time to time such amounts as may be necessary to carry out this section.
 
-#### (2) Limitation
-
-&emsp;No amount of funds may be appropriated under paragraph (1) which, when added to the unobligated balance of amounts previously appropriated to carry out this section, would cause such amounts to exceed $15,000,000.
-
-#### (3) Allocation of funds
-
-&emsp;To the maximum extent practicable, funds made available to carry out this section should be distributed equally for the purpose of preventing acts of international terrorism and for the purpose of preventing international narcotics trafficking.
-
-#### (4) Period of availability
+#### (2) Period of availability
 
 &emsp;Amounts appropriated under paragraph (1) shall remain available until expended.
 
@@ -82,7 +76,7 @@ In the sole discretion of the Secretary (except as provided in subsection (c)(2)
 
 #### (1) Maximum amount
 
-&emsp;No reward paid under this section may exceed $5,000,000.
+&emsp;No reward paid under this section may exceed $5,000,000, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts.. <sup>1</sup>
 
 #### (2) Approval
 
@@ -130,9 +124,9 @@ As used in this section:
 
 &emsp;The term “act of international terrorism” includes—
 
-&emsp;&emsp;(A) any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) of section 6305 of this title) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
+&emsp;&emsp;(A) any act substantially contributing to the acquisition of unsafeguarded special nuclear material (as defined in paragraph (8) ofsection 6305 of this title) or any nuclear explosive device (as defined in paragraph (4) of that section) by an individual, group, or non-nuclear-weapon state (as defined in paragraph (5) of that section); and
 
-&emsp;&emsp;(B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currencyor the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50, Appendix.
+&emsp;&emsp;(B) any act, as determined by the Secretary, which materially supports the conduct of international terrorism, including the counterfeiting of United States currency or the illegal use of other monetary instruments by an individual, group, or country supporting international terrorism as determined for purposes of section 2405(j)(1)(A) of title 50, Appendix.
 
 #### (2) Appropriate congressional committees
 
@@ -164,7 +158,7 @@ As used in this section:
 
 &emsp;&emsp;(B) an alien lawfully present in the United States.
 
-(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029.)
+(Aug. 1, 1956, ch. 841, title I, §36, as added Pub. L. 98–533, title I, §102, Oct. 19, 1984, 98 Stat. 2708; amended Pub. L. 99–399, title V, §502, Aug. 27, 1986, 100 Stat. 869; Pub. L. 100–690, title IV, §4602, Nov. 18, 1988, 102 Stat. 4287; Pub. L. 101–231, §13(a), Dec. 13, 1989, 103 Stat. 1963; Pub. L. 101–246, title X, §1001, Feb. 16, 1990, 104 Stat. 86; Pub. L. 103–236, title I, §133(a)(1), title VIII, §827, Apr. 30, 1994, 108 Stat. 395, 519; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §406\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2202, Oct. 21, 1998, 112 Stat. 2681–805; Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029; Pub. L. 107–56, title V, §502, Oct. 26, 2001, 115 Stat. 364.)
 
 #### References in Text
 
@@ -175,6 +169,24 @@ Section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 19
 A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102 of Pub. L. 98–533, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+
+2001—Subsec. (b)(4). Pub. L. 107–56, §502(1)(A), struck out “or” at end.
+
+Subsec. (b)(5). Pub. L. 107–56, §502(1)(B), substituted “, including by dismantling an organization in whole or significant part; or” for period at end.
+
+Subsec. (b)(6). Pub. L. 107–56, §502(1)(C), added par. (6).
+
+Subsec. (d)(2) to (4). Pub. L. 107–56, §502(2), redesignated par. (4) as (2) and struck out former pars. (2) and (3) which read as follows:
+
+“(2)
+
+Limitation.—No amount of funds may be appropriated under paragraph (1) which, when added to the unobligated balance of amounts previously appropriated to carry out this section, would cause such amounts to exceed $15,000,000.
+
+“(3)
+
+Allocation of funds.—To the maximum extent practicable, funds made available to carry out this section should be distributed equally for the purpose of preventing acts of international terrorism and for the purpose of preventing international narcotics trafficking.”
+
+Subsec. (e)(1). Pub. L. 107–56, §502(3), inserted “, except as personally authorized by the Secretary of State if he determines that offer or payment of an award of a larger amount is necessary to combat terrorism or defend the Nation against terrorist acts.” after “$5,000,000”.
 
 1998—Pub. L. 105–323 generally amended section substantially similar to general amendment by Pub. L. 105–277, except that the maximum reward in subsec. (e)(1) was increased from $2,000,000 to $5,000,000.
 
@@ -273,4 +285,6 @@ Section 501 of Pub. L. 99–399 provided that: “It is the sense of the Congres
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4802, 5512 of this title; title 8 sections 1101, 1255; title 18 section 3076.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

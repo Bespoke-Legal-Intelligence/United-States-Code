@@ -4,7 +4,7 @@
 
 The Congress finds—
 
-&emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, which generally cross the boundary lines of local jurisdictions and often extend into two or more States;
+&emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, whichgenerally cross the boundary lines of local jurisdictions and often extend into two or more States;
 
 &emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
 
@@ -66,11 +66,11 @@ Section 711(b) of Pub. L. 101–549 provided that:
 
 Section 406 of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(6), Nov. 16, 1977, 91 Stat. 1405, provided that:
 
-“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[this chapter\], asin effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\] shall abate by reason of the taking effect of the amendments made by this Act \[see Short Title of 1977 Amendment note below\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
+“(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\] shall abate by reason of the taking effect of the amendments made by this Act \[see Short Title of 1977 Amendment note below\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
 “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\], and pertaining to any functions, powers, requirements, and duties under the Clean Air Act, as in effect immediately prior to the date of enactment of this Act, and not suspended by the Administrator or the courts, shall continue in full force and effect after the date of enactment of this Act until modified or rescinded in accordance with the Clean Air Act as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
-“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuant to this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\] or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
+“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuant to this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\]or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
 “(d)(1) Except as otherwise expressly provided, the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall be effective on date of enactment \[Aug. 7, 1977\].
 
@@ -304,7 +304,7 @@ For provisions relating to establishment of National Industrial Pollution Contro
 
 #### Federal Compliance With Pollution Control Standards
 
-For provisions relating to responsibility of head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct.13, 1978, 43 F.R. 47707, set out as a note under section 4321 of this title.
+For provisions relating to responsibility of head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of this title.
 
 #### Executive Order No. 10779
 

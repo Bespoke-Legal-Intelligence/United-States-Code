@@ -36,7 +36,7 @@
 
 (e) If a prime contractor, after making application to an agency for payment under a contract but before making a payment to a subcontractor for the subcontractor's performance covered by such application, discovers that all or a portion of the payment otherwise due such subcontractor is subject to withholding from the subcontractor in accordance with the subcontract agreement, then the prime contractor shall—
 
-&emsp;(1) furnish to the subcontractor a notice conforming to the standards of subsection (g) of this section as soon as practicable upon ascertaining the cause giving rise to a withholding, but prior to the due date for subcontractor payment;
+&emsp;(1) furnish to the subcontractor a notice conforming to the standards of subsection (g) ofthis section as soon as practicable upon ascertaining the cause giving rise to a withholding, but prior to the due date for subcontractor payment;
 
 &emsp;(2) furnish to the Government, as soon as practicable, a copy of the notice furnished to the subcontractor pursuant to paragraph (1) of this subsection;
 

@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-No distilled spirits shall be withdrawn from bonded premises for exportation, or for transfer to a customs bonded warehouse, without payment of tax unless the exporter has furnishedbond to cover such withdrawal under such regulations and conditions, and in such form and penal sum, as the Secretary may prescribe.
+No distilled spirits shall be withdrawn from bonded premises for exportation, or for transfer to a customs bonded warehouse, without payment of tax unless the exporter has furnished bond to cover such withdrawal under such regulations and conditions, and in such form and penal sum, as the Secretary may prescribe.
 
 #### (b) Exception where proprietor withdraws spirits for exportation
 

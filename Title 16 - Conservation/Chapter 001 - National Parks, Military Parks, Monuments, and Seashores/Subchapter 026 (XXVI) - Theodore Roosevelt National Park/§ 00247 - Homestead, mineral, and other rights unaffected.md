@@ -1,6 +1,6 @@
 ### §247. Homestead, mineral, and other rights unaffected
 
-That nothing herein contained shall affect any valid existing claim, location, or entry under the land laws of the United States, whether for homestead, mineral, right-of-way, or any otherpurposes whatsoever, or shall affect the right of any such claimant, locator, or entryman to the full use and enjoyment of his land.
+That nothing herein contained shall affect any valid existing claim, location, or entry under the land laws of the United States, whether for homestead, mineral, right-of-way, or any other purposes whatsoever, or shall affect the right of any such claimant, locator, or entryman to the full use and enjoyment of his land.
 
 (Apr. 25, 1947, ch. 41, §6, formerly §7, 61 Stat. 54; renumbered §6, June 10, 1948, ch. 437, §1, 62 Stat. 352.)
 

@@ -14,7 +14,7 @@ Such interest shall be allowed and paid as follows:
 
 #### (2) Refunds
 
-&emsp;In the case of a refund, from the date of the overpayment to a date (to be determined by the Secretary) preceding the date of the refund check by not more than 30 days, whether or not such refund check is accepted by the taxpayer after tender of such check to the taxpayer. The acceptance of such check shall be without prejudice to any right of the taxpayer to claim any additional overpayment and interest thereon.
+&emsp;In the case of a refund, from the date of the overpayment to a date (to be determined bythe Secretary) preceding the date of the refund check by not more than 30 days, whether or not such refund check is accepted by the taxpayer after tender of such check to the taxpayer. The acceptance of such check shall be without prejudice to any right of the taxpayer to claim any additional overpayment and interest thereon.
 
 #### (3) Late returns
 
@@ -88,7 +88,7 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a carryback of a net operating loss or net capital loss, the taxable year in which such loss arises,
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a carryback of taxes paid or accrued to foreign countries or possessions of the United States, the taxable year in which such taxes were in fact paid or accrued (or, with respect to any portion of such carryback from a taxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such subsequent taxable year), and
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a carryback of taxes paid or accrued to foreign countries or possessions of the United States, the taxable year in which such taxes were in fact paid or accrued (or, with respect to any portion of such carryback from ataxable year attributable to a net operating loss carryback or a capital loss carryback from a subsequent taxable year, such subsequent taxable year), and
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of a credit carryback (as defined in paragraph (3)(B)), the taxable year in which such credit carryback arises (or, with respect to any portion of a credit carryback from a taxable year attributable to a net operating loss carryback, a capital loss carryback, or other credit carryback from a subsequent taxable year, such subsequent taxable year).
 
@@ -114,7 +114,7 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 &emsp;&emsp;&emsp;(i) the taxpayer's name, address, and identifying number and the required signature, and
 
-&emsp;&emsp;&emsp;(ii) sufficient required information (whether on the return or on required attachments) to permit the mathematicalverification of tax liability shown on the return.
+&emsp;&emsp;&emsp;(ii) sufficient required information (whether on the return or on required attachments) to permit the mathematical verification of tax liability shown on the return.
 
 #### (h) Prohibition of administrative review
 

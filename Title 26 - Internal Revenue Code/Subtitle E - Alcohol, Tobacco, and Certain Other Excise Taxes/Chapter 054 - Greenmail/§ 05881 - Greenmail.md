@@ -6,7 +6,7 @@ There is hereby imposed on any person who receives greenmail a tax equal to 50 p
 
 #### (b) Greenmail
 
-For purposes of this section, the term “greenmail” means any consideration transferred by acorporation (or any person acting in concert with such corporation) to directly or indirectly acquire stock of such corporation from any shareholder if—
+For purposes of this section, the term “greenmail” means any consideration transferred by a corporation (or any person acting in concert with such corporation) to directly or indirectly acquire stock of such corporation from any shareholder if—
 
 &emsp;(1) such shareholder held such stock (as determined under section 1223) for less than 2 years before entering into the agreement to make the transfer,
 

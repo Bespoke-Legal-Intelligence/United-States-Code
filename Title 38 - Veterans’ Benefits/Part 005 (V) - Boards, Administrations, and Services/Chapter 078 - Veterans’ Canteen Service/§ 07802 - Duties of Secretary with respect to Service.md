@@ -8,7 +8,7 @@ The Secretary shall—
 
 &emsp;(3) furnish the Service for its use in connection with the establishment, maintenance, and operation thereof, such space, buildings, and structures under control of the Department as the Secretary may consider necessary, including normal maintenance and repair service thereon. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the space, buildings, and structures so furnished, except that the Secretary may reduce or waive such charges whenever payment of such charges would impair the working capital required by the Service;
 
-&emsp;(4) transfer to the Service without charge, rental, or reimbursement such necessary equipment as may not be needed for other purposes, and furnish the Service such services and utilities, including light, water, and heat, as may be available and necessary for its use. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the utilities so furnished;
+&emsp;(4) transfer to the Service without charge, rental, or reimbursement such necessaryequipment as may not be needed for other purposes, and furnish the Service such services and utilities, including light, water, and heat, as may be available and necessary for its use. Reasonable charges, to be determined by the Secretary, shall be paid annually by the Service for the utilities so furnished;
 
 &emsp;(5) employ such persons as are necessary for the establishment, maintenance, and operation of the Service, and pay the salaries, wages, and expenses of all such employees from the funds of the Service. Personnel necessary for the transaction of the business of the Service at canteens, warehouses, and storage depots shall be appointed, compensated from funds of the Service, and removed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and chapter 51 and subchapter III of chapter 53 of title 5. Those employees are subject to the provisions of title 5 relating to a preference eligible described in section 2108(3) of title 5, subchapter I of chapter 81 of title 5, and subchapter III of chapter 83 of title 5;
 
@@ -44,7 +44,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 Pars. (4), (5). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Par. (6). Pub. L. 102–54 amended par. (6) as in effect immediately before the enactment of Pub. L. 102–40 bysubstituting “section 3709 of the Revised Statutes (41 U.S.C. 5)” for “section 5 of title 41”.
+Par. (6). Pub. L. 102–54 amended par. (6) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “section 3709 of the Revised Statutes (41 U.S.C. 5)” for “section 5 of title 41”.
 
 Pars. (9), (10). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 

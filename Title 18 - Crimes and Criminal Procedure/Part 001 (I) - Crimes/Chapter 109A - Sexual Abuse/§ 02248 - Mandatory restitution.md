@@ -52,7 +52,7 @@ Definition.—For purposes of this section, the term “victim” means the indi
 
 1996—Subsec. (a). Pub. L. 104–132, §205(b)(1), inserted “or 3663A” after “3663”.
 
-Subsec. (b)(1). Pub. L. 104–132, §205(b)(2)(A), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
+Subsec. (b)(1). Pub. L. 104–132, §205(b)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
 
 &emsp;“(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court, pursuant to paragraph (3); and
 

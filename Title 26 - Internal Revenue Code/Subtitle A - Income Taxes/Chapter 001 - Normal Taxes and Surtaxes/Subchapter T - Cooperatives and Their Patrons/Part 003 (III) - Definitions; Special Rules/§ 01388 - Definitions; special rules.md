@@ -130,7 +130,7 @@ For purposes of this subchapter, in the case of any organization to which part I
 
 #### (2) Certain netting permitted after section 381 transactions
 
-&emsp;If such an organization acquires the assets of another such organization in a transaction described in section 381(a), the acquiring organization may, in computing its net earnings for taxable years ending after the date of acquisition, offset losses of 1 or more allocation units of the acquiring or acquired organizationagainst earnings of the acquired or acquiring organization, respectively, but only to the extent—
+&emsp;If such an organization acquires the assets of another such organization in a transaction described in section 381(a), the acquiring organization may, in computing its net earnings for taxable years ending after the date of acquisition, offset losses of 1 or more allocation units of the acquiring or acquired organization against earnings of the acquired or acquiring organization, respectively, but only to the extent—
 
 &emsp;&emsp;(A) such earnings are properly allocable to periods after the date of acquisition, and
 

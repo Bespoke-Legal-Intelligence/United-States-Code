@@ -40,7 +40,7 @@
 
 #### (1) Use for payment of insurance obligations
 
-&emsp;From sums appropriated pursuant to section 1071(b)(4)(B) of this title, the Secretary shall advance to each State which has an agreementwith the Secretary under section 1078(c) of this title with respect to a student loan insurance program, an amount determined in accordance with paragraph (2) of this subsection to be used for the purpose of making payments under the State's insurance obligations under such program.
+&emsp;From sums appropriated pursuant to section 1071(b)(4)(B) of this title, the Secretary shall advance to each State which has an agreement with the Secretary under section 1078(c) of this title with respect to a student loan insurance program, an amount determined in accordance with paragraph (2) of this subsection to be used for the purpose of making payments under the State's insurance obligations under such program.
 
 #### (2) Amount of advances
 
@@ -130,7 +130,7 @@
 
 The Secretary shall, within 30 days after July 23, 1992, pay the full amount of payments withheld or canceled under paragraph (3) of this subsection to any guaranty agency which—
 
-&emsp;(1) was required to eliminate excess cash reserves, based on the maximum cash reserve (as described in subsection (e) of this section as in effect on September 1, 1988) permitted at the end of 1986;
+&emsp;(1) was required to eliminate excess cash reserves, based on the maximum cash reserve (as described in subsection (e) of this section as ineffect on September 1, 1988) permitted at the end of 1986;
 
 &emsp;(2) appealed the Secretary's demand that such agency should eliminate such excess cash reserves and received a waiver of a portion of the amount of such excess cash reserves to be eliminated;
 
@@ -180,7 +180,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;The Secretary shall require each guaranty agency to return reserve funds under paragraph (1) based on the agency's required share of recalled reserve funds held by guaranty agencies as of September 30, 1996. For purposes of this paragraph, a guaranty agency's required share of recalled reserve funds shall be determined as follows:
 
-&emsp;&emsp;(A) The Secretary shall compute each guaranty agency's reserve ratio by dividing (i) the amount held in the agency's reserve funds as of September 30, 1996 (but reflecting later accounting or auditing adjustments approved by the Secretary), by (ii) the original principal amount of all loans for which the agency has an outstanding insurance obligation as of such date, including amounts of outstanding loans transferred to the agency from another guaranty agency.
+&emsp;&emsp;(A) The Secretary shall compute each guaranty agency's reserve ratio by dividing\(i) the amount held in the agency's reserve funds as of September 30, 1996 (but reflecting later accounting or auditing adjustments approved by the Secretary), by (ii) the original principal amount of all loans for which the agency has an outstanding insurance obligation as of such date, including amounts of outstanding loans transferred to the agency from another guaranty agency.
 
 &emsp;&emsp;(B) If the reserve ratio of any guaranty agency as computed under subparagraph (A) exceeds 2.0 percent, the agency's required share shall include so much of the amounts held in the agency's reserve funds as exceed a reserve ratio of 2.0 percent.
 
@@ -190,7 +190,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;&emsp;&emsp;(ii) the total amount of all such agencies’ reserve funds remaining (after deduction of the required shares calculated under such subparagraph).
 
-&emsp;&emsp;(D) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraphs (B) and (C)), such additional amount shall be obtained by imposing on each guaranty agency with a reserve ratio (after deducting the required shares calculated under such subparagraphs) in excess of 0.58 percent an equal percentagereduction in the amount of the agency's reserve funds remaining (after such deduction) that exceed a reserve ratio of 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
+&emsp;&emsp;(D) If any additional amount is required to be recalled under paragraph (1) (after deducting the total of the required shares calculated under subparagraphs (B) and (C)), such additional amount shall be obtained by imposing on each guaranty agency with a reserve ratio (after deducting the required shares calculated under such subparagraphs) in excess of 0.58 percent an equal percentage reduction in the amount of the agency's reserve funds remaining (after such deduction) that exceed a reserve ratio of 0.58 percent. The equal percentage reduction shall be the percentage obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the additional amount to be recalled under paragraph (1) (after deducting the amount recalled under subparagraphs (B) and (C)), by
 
@@ -316,7 +316,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (C) Special rule
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the percentage reduction under subparagraph (B) shall not result in the depletion of the reserve funds of any agency which charges the 1.0 percent insurance premium pursuant to section 1078(b)(1)(H) of this title below an amount equal to the amount of lender claim payments paid during the 90 days prior to the date of the return under this subsection. If any additional amount is required to be returned after deducting the total of the required shares under subparagraph (B) and as a result of the preceding sentence, such additional amount shall be obtained by imposing on each guaranty agency to which the preceding sentence does not apply, an equal percentage reduction in the amount of the agency's remaining reserve funds.
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the percentage reduction under subparagraph (B) shall not result in the depletion of the reserve funds of any agency which charges the 1.0 percent insurance premium pursuant to section 1078(b)(1)(H) of this title below an amount equal to the amount of lender claim payments paid during the 90 days prior to the date of the return under this subsection. If any additional amount is required to be returned after deducting the total of the required shares under subparagraph (B) and as a result of the preceding sentence, such additional amount shall beobtained by imposing on each guaranty agency to which the preceding sentence does not apply, an equal percentage reduction in the amount of the agency's remaining reserve funds.
 
 #### (4) Offset of required shares
 

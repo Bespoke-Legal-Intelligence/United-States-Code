@@ -136,7 +136,7 @@ In general.—In issuing export credit guarantees under this section in connecti
 
 “(2)
 
-Limitation.—The 35 percent requirement of paragraph (1) shall apply for a fiscal year only to the extentthat the percentage of the total amount of credit guarantees issued for that fiscal year under this section to promote the export to all countries of processed and high-value agricultural products is less than 25 percent.”
+Limitation.—The 35 percent requirement of paragraph (1) shall apply for a fiscal year only to the extent that the percentage of the total amount of credit guarantees issued for that fiscal year under this section to promote the export to all countries of processed and high-value agricultural products is less than 25 percent.”
 
 1992—Subsecs. (a), (b). Pub. L. 102–511, §709(a)(1), inserted “, including processed agricultural products and high-value agricultural products,” after “agricultural commodities”.
 
@@ -222,7 +222,7 @@ Reports to secretary.—A team that receives assistance under subparagraph (B) s
 
 &emsp;&emsp;“(F)
 
-Advisory committee.—To provide the Secretary with information that may be useful to theSecretary in carrying out the provisions of this paragraph, the Secretary shall establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States.
+Advisory committee.—To provide the Secretary with information that may be useful to the Secretary in carrying out the provisions of this paragraph, the Secretary shall establish an advisory committee composed of representatives of the various sectors of the food and rural business systems of the United States.
 
 &emsp;&emsp;“(G)
 
@@ -242,7 +242,7 @@ Establishment of program.—The Secretary shall establish a program, administere
 
 &emsp;&emsp;“(B)
 
-Implementation.—The Secretary shall draw on the Department of Agriculture's experience to design, implement, and evaluate, on a cost-sharing basis with cooperating agricultural institutions, a program to—
+Implementation.—The Secretary shall draw on the Department of Agriculture's experience to design, implement, and evaluate, on a cost-sharingbasis with cooperating agricultural institutions, a program to—
 
 &emsp;&emsp;&emsp;“(i) compile, through contacts with the governments of emerging markets and private sector officials in emerging markets, a list of their agricultural institutions, including the location, capabilities, and needs of the institutions;
 

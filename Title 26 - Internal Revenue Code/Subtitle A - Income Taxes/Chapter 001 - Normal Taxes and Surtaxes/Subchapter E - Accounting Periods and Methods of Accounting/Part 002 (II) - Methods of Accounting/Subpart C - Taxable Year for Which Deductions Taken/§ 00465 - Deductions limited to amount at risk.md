@@ -62,7 +62,7 @@
 
 #### (C) Related person
 
-&emsp;&emsp;For purposes of this subsection, a person (hereinafter in this paragraph referred to asthe “related person”) is related to any person if—
+&emsp;&emsp;For purposes of this subsection, a person (hereinafter in this paragraph referred to as the “related person”) is related to any person if—
 
 &emsp;&emsp;&emsp;(i) the related person bears a relationship to such person specified in section 267(b) or section 707(b)(1), or
 
@@ -120,7 +120,7 @@
 
 #### (i) Incidental personal property and services
 
-&emsp;&emsp;&emsp;The activity of holding real property includes the holding of personal property and the providing of services which are incidental to making real property available as living accommodations.
+&emsp;&emsp;&emsp;The activity of holding real property includes the holding of personal propertyand the providing of services which are incidental to making real property available as living accommodations.
 
 #### (ii) Mineral property
 
@@ -238,7 +238,7 @@
 
 #### (i) At least 3 employees
 
-&emsp;&emsp;&emsp;During the entire year, the group had at least 3 full-time employees substantially all of the services of whom were services directly related to the equipment leasing activity of the qualified leasing members.
+&emsp;&emsp;&emsp;During the entire year, the group had at least 3 full-time employees substantiallyall of the services of whom were services directly related to the equipment leasing activity of the qualified leasing members.
 
 #### (ii) At least 5 separate leasing transactions
 
@@ -404,7 +404,7 @@
 
 #### (G) Loss of 1 member of affiliated group may not offset income of personal holding company or personal service corporation
 
-&emsp;&emsp;Nothing in this paragraph shall permit any loss of a member of an affiliated group to be used as an offset against the income of any other member of such group which is a personal holding company (as defined in section 542(a)) or a personal service corporation (as defined in section 269A(b) but determined by substituting “5 percent” for “10 percent” in section 269A(b)(2)).
+&emsp;&emsp;Nothing in this paragraph shall permit any loss of a member of an affiliated group to be used as an offset against the income of any other member of such group which is a personal holding company (as defined in section 542(a)) or a personal service corporation (asdefined in section 269A(b) but determined by substituting “5 percent” for “10 percent” in section 269A(b)(2)).
 
 #### (d) Definition of loss
 
@@ -428,7 +428,7 @@ For purposes of this section, the term “loss” means the excess of the deduct
 
 &emsp;&emsp;(B) the amounts previously included in gross income with respect to such activity under this subsection.
 
-(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1,1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558.)
+(Added Pub. L. 94–455, title II, §204(a), Oct. 4, 1976, 90 Stat. 1531; amended Pub. L. 95–600, title II, §§201(a), (c)(1), 202, 203, title VII, §701(k)(2), Nov. 6, 1978, 92 Stat. 2814, 2816, 2906; Pub. L. 95–618, title IV, §402(d), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 96–222, title I, §102(a)(1)(A)–(D), Apr. 1, 1980, 94 Stat. 206; Pub. L. 97–354, §5(a)(31), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title IV, §432(a)–(c), title VII, §721(x)(2), July 18, 1984, 98 Stat. 811–814, 971; Pub. L. 99–514, title II, §201(d)(7)(A), title V, §503(a), (b), title X, §1011(b)(1), Oct. 22, 1986, 100 Stat. 2141, 2243, 2389; Pub. L. 101–508, title XI, §§11813(b)(15), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–555, 1388–558.)
 
 #### Amendments
 
@@ -476,7 +476,7 @@ Subsec. (e)(2)(A). Pub. L. 96–222, §102(a)(1)(C), inserted “by reason of lo
 
 <b>1978</b>—Pub. L. 95–600, §201(c)(1), substituted “Deductions limited to amount at risk” for “Deductions limited to amount at risk in case of certain activities” in section catchline.
 
-Subsec. (a). Pub. L. 95–600, §202, redesignated existing provisions as par. (1), substituted provisions relating to limitations with respect to an individual, an electing small business corporation defined under section 1371(b) of this title, and a corporation meeting the stock ownership requirements of section 542(a)(2) of this title and the rules of section 318 of this title, for provisions relating to limitations with respect to a taxpayer other than a corporation which is neither an electing small business corporation defined under section 1371(b) of this title, nor a personal holding company defined under section 542 of this title, and added par. (2).
+Subsec. (a). Pub. L. 95–600, §202, redesignated existing provisions as par. (1), substituted provisions relating to limitations with respect to an individual, an electingsmall business corporation defined under section 1371(b) of this title, and a corporation meeting the stock ownership requirements of section 542(a)(2) of this title and the rules of section 318 of this title, for provisions relating to limitations with respect to a taxpayer other than a corporation which is neither an electing small business corporation defined under section 1371(b) of this title, nor a personal holding company defined under section 542 of this title, and added par. (2).
 
 Subsec. (c)(1)(E). Pub. L. 95–618, §402(d)(1), added subpar. (E).
 
@@ -506,7 +506,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 “(2)
 
-Special rule for losses of s corporation, partnership, or pass-thru entity.—In the case of aninterest in an S corporation, a partnership, or other pass-thru entity acquired after December 31, 1986, the amendments made by this section shall apply to losses after December 31, 1986, which are attributable to property placed in service by the S corporation, partnership, or pass-thru entity on, before, or after January 1, 1986.
+Special rule for losses of s corporation, partnership, or pass-thru entity.—In the case of an interest in an S corporation, a partnership, or other pass-thru entity acquired after December 31, 1986, the amendments made by this section shall apply to losses after December 31, 1986, which are attributable to property placed in service by the S corporation, partnership, or pass-thru entity on, before, or after January 1, 1986.
 
 “(3)
 
@@ -600,7 +600,7 @@ Section 204(b) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §1
 
 “(1)
 
-Recapture provisions.—If the amount for which the taxpayer is at risk in any activity as of the closeof the taxpayer's last taxable year beginning before January 1, 1979, is less than zero, section 465(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 203 of this Act) shall be applied with respect to such activity of the taxpayer by substituting such negative amount for zero.
+Recapture provisions.—If the amount for which the taxpayer is at risk in any activity as of the close of the taxpayer's last taxable year beginning before January 1, 1979, is less than zero, section 465(e)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by section 203 of this Act) shall be applied with respect to such activity of the taxpayer by substituting such negative amount for zero.
 
 “(2)
 

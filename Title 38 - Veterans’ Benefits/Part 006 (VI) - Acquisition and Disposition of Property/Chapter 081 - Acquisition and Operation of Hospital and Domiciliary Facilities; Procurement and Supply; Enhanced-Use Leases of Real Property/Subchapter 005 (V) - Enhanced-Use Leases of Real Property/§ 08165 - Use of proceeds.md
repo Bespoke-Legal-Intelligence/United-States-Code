@@ -1,6 +1,6 @@
 ### §8165. Use of proceeds
 
-(a)(1) Funds received by the Department under an enhanced-use lease and remaining after anydeduction from those funds under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund established under section 1729B of this title.
+(a)(1) Funds received by the Department under an enhanced-use lease and remaining after any deduction from those funds under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund established under section 1729B of this title.
 
 (2) Funds received by the Department from a disposal of leased property under section 8164 of this title and remaining after any deduction from such funds under the laws referred to in subsection (c) shall be deposited in the nursing home revolving fund.
 

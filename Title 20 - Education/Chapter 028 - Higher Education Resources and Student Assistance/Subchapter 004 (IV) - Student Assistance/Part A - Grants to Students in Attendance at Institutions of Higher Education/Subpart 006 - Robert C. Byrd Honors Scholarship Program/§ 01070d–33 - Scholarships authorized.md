@@ -34,7 +34,7 @@ A prior section 1070d–33, Pub. L. 89–329, title IV, §419C, as added Pub. L.
 
 &emsp;“(2) the State educational agency shall award not less than that number of scholarships for a period of 4 years.”
 
-1992—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Scholarships under this section shall be awarded for a period of one academic year for the first year of study at an institution of higher education.”
+1992—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Scholarships under this section shall be awardedfor a period of one academic year for the first year of study at an institution of higher education.”
 
 #### Effective Date of 1993 Amendment
 

@@ -20,7 +20,7 @@ Application for operating authority.—
 
 &emsp;&emsp;(A)
 
-Application required.—Before commencing commercial air tour operationsover a national park or tribal lands, a commercial air tour operator shall apply to the Administrator for authority to conduct the operations over the park or tribal lands.
+Application required.—Before commencing commercial air tour operations over a national park or tribal lands, a commercial air tour operator shall apply to the Administrator for authority to conduct the operations over the park or tribal lands.
 
 &emsp;&emsp;(B)
 
@@ -62,7 +62,7 @@ Exception.—Notwithstanding paragraph (1), commercial air tour operators may co
 
 &emsp;&emsp;(B) the operator secures a letter of agreement from the Administrator and the national park superintendent for that national park describing the conditions under which the operations will be conducted; and
 
-&emsp;&emsp;(C) the total number of operations under this exception is limited to not more than five flights in any 30-day period over a particular park.
+&emsp;&emsp;(C) the total number of operations under this exception is limited to not more thanfive flights in any 30-day period over a particular park.
 
 &emsp;(4)
 
@@ -142,7 +142,7 @@ Requirements and limitations.—Interim operating authority granted under this s
 
 &emsp;&emsp;&emsp;(ii) the average number of flights per 12-month period used by the operator to provide such operations within the 36-month period prior to such date of enactment, and, for seasonal operations, the number of flights so used during the season or seasons covered by that 12-month period;
 
-&emsp;&emsp;(B) may not provide for an increase in the number of commercial air tour operations conducted during any time period by the commercial air tour operator above the number that the air tour operator was originally granted unless such an increase is agreed to by the Administrator and the Director;
+&emsp;&emsp;(B) may not provide for an increase in the number of commercial air tour operationsconducted during any time period by the commercial air tour operator above the number that the air tour operator was originally granted unless such an increase is agreed to by the Administrator and the Director;
 
 &emsp;&emsp;(C) shall be published in the Federal Register to provide notice and opportunity for comment;
 
@@ -172,7 +172,7 @@ Safety limitation.—The Administrator may not grant interim operating authority
 
 &emsp;&emsp;(C)
 
-ATMP limitation.—The Administrator may grant interim operating authority under subparagraph (A) of this paragraphonly if the air tour management plan for the park or tribal lands to which the application relates has not been developed within 24 months after the date of the enactment of this section.
+ATMP limitation.—The Administrator may grant interim operating authority under subparagraph (A) of this paragraph only if the air tour management plan for the park or tribal lands to which the application relates has not been developed within 24 months after the date of the enactment of this section.
 
 (d)
 
@@ -284,7 +284,7 @@ Pub. L. 106–181, title VIII, Apr. 5, 2000, 114 Stat. 185, as amended by Pub. L
 
 &emsp;“(4) the protection of tribal lands from aircraft overflights is consistent with protecting the public health and welfare and is essential to the maintenance of the natural and cultural resources of Indian tribes;
 
-&emsp;“(5) the National Parks Overflights Working Group, composed of general aviation, commercial air tour,environmental, and Native American representatives, recommended that the Congress enact legislation based on the Group's consensus work product; and
+&emsp;“(5) the National Parks Overflights Working Group, composed of general aviation, commercial air tour, environmental, and Native American representatives, recommended that the Congress enact legislation based on the Group's consensus work product; and
 
 &emsp;“(6) this title reflects the recommendations made by that Group.
 
@@ -370,7 +370,7 @@ In general.—The advisory group shall be composed of—
 
 &emsp;“(2)
 
-Ex officio members.—The Administrator (or the designee of the Administrator) and the Director (or the designee of the Director) shall serve as ex officio members.
+Ex officio members.—The Administrator (or the designee of the Administrator) and the Director\(or the designee of the Director) shall serve as ex officio members.
 
 &emsp;“(3)
 
@@ -406,7 +406,7 @@ Nonapplication of faca.—Section 14 of the Federal Advisory Committee Act (5 U.
 
 #### “SEC. 806. PROHIBITION OF COMMERCIAL AIR TOUR OPERATIONS OVER THE ROCKY MOUNTAIN NATIONAL PARK.
 
-“Effective beginning on the date of the enactment of this Act \[Apr. 5, 2000\], no commercial air tour operation may be conducted in the airspace over the Rocky Mountain National Park notwithstanding any otherprovision of this Act or section 40128 of title 49, United States Code.
+“Effective beginning on the date of the enactment of this Act \[Apr. 5, 2000\], no commercial air tour operation may be conducted in the airspace over the Rocky Mountain National Park notwithstanding any other provision of this Act or section 40128 of title 49, United States Code.
 
 #### “SEC. 807. REPORTS.
 

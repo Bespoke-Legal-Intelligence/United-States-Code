@@ -16,7 +16,9 @@
 
 &emsp;(6) Section 1729 of this title.
 
-&emsp;(7) Public Law 87–693, popularly known as the “Federal Medical Care Recovery Act” (42 U.S.C. 2651 et seq.), to the extent that a recovery or collection under that law is based on medical care or services furnished under this chapter.
+&emsp;(7) Section 1784 of this title.
+
+&emsp;(8) Public Law 87–693, popularly known as the “Federal Medical Care Recovery Act” (42 U.S.C. 2651 et seq.), to the extent that a recovery or collection under that law is based on medical care or services furnished under this chapter.
 
 (c)(1) Subject to the provisions of appropriations Acts, amounts in the fund shall be available, without fiscal year limitation, to the Secretary for the following purposes:
 
@@ -40,15 +42,17 @@
 
 (f) Amounts recovered or collected under the provisions of law referred to in subsection (b) shall be treated for the purposes of sections 251 and 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901, 902) as offsets to discretionary appropriations (rather than as offsets to direct spending) to the extent that such amounts are made available for expenditure in appropriations Acts for the purposes specified in subsection (c).
 
-(Added Pub. L. 105–33, title VIII, §8023(a)(1), Aug. 5, 1997, 111 Stat. 665; amended Pub. L. 106–117, title I, §111(b)(1), title II, §203, Nov. 30, 1999, 113 Stat. 1556, 1561.)
+(Added Pub. L. 105–33, title VIII, §8023(a)(1), Aug. 5, 1997, 111 Stat. 665; amended Pub. L. 106–117, title I, §111(b)(1), title II, §203, Nov. 30, 1999, 113 Stat. 1556, 1561; Pub. L. 107–135, title II, §208(e)(5), Jan. 23, 2002, 115 Stat. 2463.)
 
 #### References in Text
 
-Public Law 87–693, popularly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(7), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Public Law 87–693, popularly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(8), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 Section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c)(3)(A), is classified to section 907 of Title 2, The Congress.
 
 #### Amendments
+
+2002—Subsec. (b)(7), (8). Pub. L. 107–135 added par. (7) and redesignated former par. (7) as (8).
 
 1999—Subsec. (b)(5) to (7). Pub. L. 106–117, §111(b)(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
@@ -60,7 +64,7 @@ Amendment by section 111(b)(1) of Pub. L. 106–117 effective 180 days after Nov
 
 #### Effective Date
 
-Section effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 712 of this title.
+Section effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1710 of this title.
 
 #### Report on Implementation of Section 8023 of Pub. L. 105–33
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may acquire, at the discretion of the Secretary and with the consent of the owner, and at fair market value, any fractional interest in trust or restricted lands.
+&emsp;The Secretary may acquire, at the discretion of the Secretary and with the consent ofthe owner, and at fair market value, any fractional interest in trust or restricted lands.
 
 #### (2) Authority of Secretary
 
@@ -26,7 +26,7 @@ In implementing subsection (a) of this section, the Secretary—
 
 &emsp;(1) shall promote the policies provided for in section 102 of the Indian Land Consolidation Act Amendments of 2000;
 
-&emsp;(2) may give priority to the acquisition of fractional interests representing 2 percent orless of a parcel of trust or restricted land, especially those interests that would have escheated to a tribe but for the Supreme Court's decision in Babbitt v. Youpee (117 S <sup>1</sup> Ct. 727 (1997));
+&emsp;(2) may give priority to the acquisition of fractional interests representing 2 percent or less of a parcel of trust or restricted land, especially those interests that would have escheated to a tribe but for the Supreme Court's decision in Babbitt v. Youpee (117 S <sup>1</sup> Ct. 727 (1997));
 
 &emsp;(3) to the extent practicable—
 

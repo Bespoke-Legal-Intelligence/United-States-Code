@@ -14,7 +14,7 @@ In applying section 901, the amount of any oil and gas extraction taxes paid or 
 
 #### (b) Foreign taxes on foreign oil related income
 
-For purposes of this subtitle, in the case of taxes paid or accrued to any foreign country with respect to foreign oil related income, the term “income, war profits, and excess profits taxes” shall not include any amount paid or accrued after December 31, 1982, to the extent that the Secretary determines that the foreign law imposing such amount of tax is structured, or in fact operates, so that the amount of tax imposed with respect to foreign oil related income will generally be materially greater, over a reasonable period of time, than the amount generally imposed on income that is neither foreign oil related income nor foreign oil and gas extraction income. In computing the amount not treated as tax under this subsection, such amount shall be treated as a deduction under the foreign law.
+For purposes of this subtitle, in the case of taxes paid or accrued to any foreign country with respect to foreign oil related income, the term “income, war profits, and excess profits taxes” shall not include any amount paid or accrued after December 31, 1982, to the extent that the Secretary determines that the foreign law imposing such amount of tax is structured, or infact operates, so that the amount of tax imposed with respect to foreign oil related income will generally be materially greater, over a reasonable period of time, than the amount generally imposed on income that is neither foreign oil related income nor foreign oil and gas extraction income. In computing the amount not treated as tax under this subsection, such amount shall be treated as a deduction under the foreign law.
 
 #### (c) Foreign income definitions and special rules
 
@@ -210,7 +210,7 @@ Section 211(e) of Pub. L. 97–248, as amended by Pub. L. 97–448, title III, �
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 904 of this title\] shall apply to taxable years beginning after December 31, 1982.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and section 904 of this title\] shall apply to taxable years beginning after December 31, 1982.
 
 “(2)
 

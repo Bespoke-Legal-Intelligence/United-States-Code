@@ -20,7 +20,7 @@
 
 (b) The Secretary of Defense may require, as part of the agreement under subsection (a)(2), that a person must agree to accept, if offered, residency training in a health profession skill which has been designated by the Secretary as a critically needed wartime skill.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 100–180, div. A, title VII, §712(a), Dec. 4, 1987, 101 Stat. 1112; Pub. L.101–189, div. A, title VII, §725(c), Nov. 29, 1989, 103 Stat. 1479.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 717; amended Pub. L. 100–180, div. A, title VII, §712(a), Dec. 4, 1987, 101 Stat. 1112; Pub. L. 101–189, div. A, title VII, §725(c), Nov. 29, 1989, 103 Stat. 1479.)
 
 #### Amendments
 

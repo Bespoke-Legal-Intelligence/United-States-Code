@@ -28,7 +28,7 @@
 
 1981—Pub. L. 97–22, §10(b)(5), July 10, 1981, 95 Stat. 137, struck out item 3922 “Thirty years or five years in grade: regular brigadier generals”.
 
-1980—Pub. L. 96–513, title V, §502(16), Dec. 12, 1980, 94 Stat. 2910, struck out item 3913 “Twenty years or more: deferred officers not recommended for promotion”, item 3916 “Twenty-eight years: promotion-list lieutenant colonels”, item 3919 “Thirty years or more: regular commissioned officers; excessive number”, item 3921 “Thirty years or five years in grade: promotion-list colonels”, item 3923 “Thirty-five years or five years in grade: regular major generals”, and item 3927 “Computation of years of service: mandatory retirement; regular commissioned officers”.
+1980—Pub. L. 96–513, title V, §502(16), Dec. 12, 1980, 94 Stat. 2910, struck out item 3913 “Twenty years or more: deferred officers not recommended for promotion”,item 3916 “Twenty-eight years: promotion-list lieutenant colonels”, item 3919 “Thirty years or more: regular commissioned officers; excessive number”, item 3921 “Thirty years or five years in grade: promotion-list colonels”, item 3923 “Thirty-five years or five years in grade: regular major generals”, and item 3927 “Computation of years of service: mandatory retirement; regular commissioned officers”.
 
 Pub. L. 96–343, §9(a)(3), Sept. 8, 1980, 94 Stat. 1128, struck out “regular” before “enlisted members” in items 3914 and 3925.
 

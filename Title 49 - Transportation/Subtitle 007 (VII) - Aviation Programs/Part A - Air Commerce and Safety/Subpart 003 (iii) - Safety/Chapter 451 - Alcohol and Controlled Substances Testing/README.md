@@ -8,8 +8,13 @@
 | [45104\.](%C2%A7%2045104%20-%20Testing%20and%20laboratory%20requirements.md) | Testing and laboratory requirements. |
 | [45105\.](%C2%A7%2045105%20-%20Rehabilitation.md) | Rehabilitation. |
 | [45106\.](%C2%A7%2045106%20-%20Relationship%20to%20other%20laws%2C%20regulations%2C%20standards%2C%20and%20orders.md) | Relationship to other laws, regulations, standards, and orders. |
+| [45107\.](%C2%A7%2045107%20-%20Transportation%20Security%20Administration.md) | Transportation Security Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2001—Pub. L. 107–71, title I, §139(5), Nov. 19, 2001, 115 Stat. 641, added item 45107.
 
 #### Chapter Referred to in Other Sections
 
@@ -26,3 +31,4 @@ This chapter is referred to in section 106 of this title.
 - [&sect; 45104 - Testing and laboratory requirements](%C2%A7%2045104%20-%20Testing%20and%20laboratory%20requirements.md)
 - [&sect; 45105 - Rehabilitation](%C2%A7%2045105%20-%20Rehabilitation.md)
 - [&sect; 45106 - Relationship to other laws, regulations, standards, and orders](%C2%A7%2045106%20-%20Relationship%20to%20other%20laws%2C%20regulations%2C%20standards%2C%20and%20orders.md)
+- [&sect; 45107 - Transportation Security Administration](%C2%A7%2045107%20-%20Transportation%20Security%20Administration.md)

@@ -132,7 +132,7 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 (2) To the extent a public safety program referred to in paragraph (1) of this subsection is not available, the Secretary shall prescribe standards requiring an operator to take action the Secretary prescribes to provide services comparable to services that would be available under a public safety program.
 
-(3) The Secretary may include in the standards prescribed under subsection (a) of this section a requirement that an operator of a hazardous liquid pipeline facility participate in a public safety program meeting the requirements of paragraph (1) of this subsection or maintain and carry out a damage prevention program that provides services comparable to services that would be available under a public safety program.
+(3) The Secretary may include in the standards prescribed under subsection (a) of this section a requirement that an operator of a hazardous liquid pipeline facility participate in a public safety program meeting the requirements ofparagraph (1) of this subsection or maintain and carry out a damage prevention program that provides services comparable to services that would be available under a public safety program.
 
 (4)
 
@@ -192,11 +192,11 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;&emsp;(A) the design and construction of new natural gas transmission pipeline or hazardous liquid pipeline facilities, and
 
-&emsp;&emsp;(B) when the replacement of existing natural gas transmission pipeline or hazardous liquid pipeline facilities or equipment is required, the replacement of such existing facilities be carried out, to the extent practicable, in a manner so as to accommodate the passage through such natural gas transmission pipeline or hazardous liquid pipelinefacilities of instrumented internal inspection devices (commonly referred to as “smart pigs”). The Secretary may extend such standards to require existing natural gas transmission pipeline or hazardous liquid pipeline facilities, whose basic construction would accommodate an instrumented internal inspection device to be modified to permit the inspection of such facilities with instrumented internal inspection devices.
+&emsp;&emsp;(B) when the replacement of existing natural gas transmission pipeline or hazardous liquid pipeline facilities or equipment is required, the replacement of such existing facilities be carried out, to the extent practicable, in a manner so as to accommodate the passage through such natural gas transmission pipeline or hazardous liquid pipeline facilities of instrumented internal inspection devices (commonly referred to as “smart pigs”). The Secretary may extend such standards to require existing natural gas transmission pipeline or hazardous liquid pipeline facilities, whose basic construction would accommodate an instrumented internal inspection device to be modified to permit the inspection of such facilities with instrumented internal inspection devices.
 
 &emsp;(2)
 
-Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiring the periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method that is at least as effective as using the device in providing for the safety of the pipeline.
+Periodic inspections.—Not later than October 24, 1995, the Secretary shall prescribe, if necessary, additional standards requiringthe periodic inspection of each pipeline the operator of the pipeline identifies under section 60109 of this title. The standards shall include any circumstances under which an inspection shall be conducted with an instrumented internal inspection device and, if the device is not required, use of an inspection method that is at least as effective as using the device in providing for the safety of the pipeline.
 
 (g)
 

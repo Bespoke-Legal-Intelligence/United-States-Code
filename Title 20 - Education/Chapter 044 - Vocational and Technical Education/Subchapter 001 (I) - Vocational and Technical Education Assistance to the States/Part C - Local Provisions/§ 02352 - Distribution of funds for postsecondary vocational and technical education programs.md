@@ -22,7 +22,7 @@
 
 #### (B) Funds to consortium
 
-&emsp;&emsp;Funds allocated to a consortium formed to meet the requirements of this section shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and shall be used only for programs authorized under this subchapter.Such funds may not be reallocated to individual members of the consortium for purposes or programs benefiting only one member of the consortium.
+&emsp;&emsp;Funds allocated to a consortium formed to meet the requirements of this section shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and shall be used only for programs authorized under this subchapter. Such funds may not be reallocated to individual members of the consortium for purposes or programs benefiting only one member of the consortium.
 
 #### (4) Waiver
 

@@ -6,13 +6,17 @@ Premiums Based on Risk.—To the extent practical, the premium charged for insur
 
 (b)
 
-Time Limits.—The Secretary of Transportation may provide insurance and reinsurance under this chapter for a period of not more than 60 days. The period may be extended for additional periods of not more than 60 days each only if the President decides, before each additional period, that the continued operation of the aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government.
+Allowances in Setting Premium Rates for Reinsurance.—In setting premium rates for reinsurance, the Secretary may make allowances to the insurance carrier for expenses incurred in providing services and facilities that the Secretary considers good business practices, except for payments by the air carrier for the stimulation or solicitation of insurance business.
 
 (c)
 
+Time Limits.—The Secretary of Transportation may provide insurance and reinsurance under this chapter for a period of not more than 1 year. The period may be extended for additional periods of not more than 1 year each only if the President decides, before each additional period, that the continued operation of the aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
+
+(d)
+
 Maximum Insured Amount.—The insurance policy on an aircraft insured or reinsured under this chapter shall specify a stated amount that is not more than the value of the aircraft, as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry. A claim under the policy may not be paid for more than that stated amount.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §2(b), Dec. 2, 1997, 111 Stat. 2640.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1170; Pub. L. 105–137, §2(b), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(d), Sept. 22, 2001, 115 Stat. 235; Pub. L. 107–71, title I, §§124(b), 147, Nov. 19, 2001, 115 Stat. 631, 645.)
 
 Historical and Revision Notes
 
@@ -42,11 +46,21 @@ Aug. 23, 1958, Pub. L. 85–726, §1307(a) (last sentence less words between 2d 
 
 In subsection (a), the words “To the extent” are substituted for “insofar as” for consistency.
 
-In subsection (b), the word “initial” is omitted as surplus. The words “The period” are substituted for “Such insurance or reinsurance”, and the words “the President decides . . . that the continued operation of the aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government” are substituted for “the President makes the same determination with respect to such extension as he is required to make under paragraph (2) of subsection (a) of this section for the initial provision of such insurance or reinsurance”, for clarity.
+In subsection (b), the word “initial” is omitted as surplus. The words “The period” are substituted for “Such insurance or reinsurance”, and the words “the President decides . . . that the continued operation of the aircraft to be insured or reinsured is necessary to carry out the foreign policy of the United States Government” are substituted for “the President makes thesame determination with respect to such extension as he is required to make under paragraph (2) of subsection (a) of this section for the initial provision of such insurance or reinsurance”, for clarity.
 
 In subsection (c), the words “or reinsured” are added for consistency. The words “to be paid in the event of total loss” are omitted as unnecessary because of the last sentence. The words “A claim under the policy may not be paid for more than that stated amount” are substituted for “the amount of any claim which is compromised, settled, adjusted, or paid shall in no event exceed such stated amount” to eliminate unnecessary words.
 
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–42, §201(d)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 107–71, §147, which directed the substitution of “1 year” for “60 days” in two places in subsec. (b), was executed by making the substitutions in subsec. (c) to reflect the probable intent of Congress and the redesignation of subsec. (b) as (c) by Pub. L. 107–42, §201(d)(1). See below.
+
+Pub. L. 107–71, §124(b), which directed the insertion of “in the interest of air commerce or national security or” before “to carry out foreign policy”, was executed by making the insertion before “to carry out the foreign policy” to reflect the probable intent of Congress.
+
+Pub. L. 107–42, §201(d)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 107–42, §201(d)(1), redesignated subsec. (c) as (d).
 
 1997—Subsec. (c). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
 

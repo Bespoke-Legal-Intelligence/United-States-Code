@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) inform the residents about means of obtaining services provided by providers or agencies described in subparagraph (A)(ii) or services described in subparagraph (B);
 
-&emsp;&emsp;(D) ensure that the residents have regular and timely access to the services provided through the Office and that the residentsand complainants receive timely responses from representatives of the Office to complaints;
+&emsp;&emsp;(D) ensure that the residents have regular and timely access to the services provided through the Office and that the residents and complainants receive timely responses from representatives of the Office to complaints;
 
 &emsp;&emsp;(E) represent the interests of the residents before governmental agencies and seek administrative, legal, and other remedies to protect the health, safety, welfare, and rights of the residents;
 
@@ -118,7 +118,7 @@
 
 #### (iii) Confidentiality and disclosure
 
-&emsp;&emsp;&emsp;The State agency shall develop the policies and procedures in accordance with allprovisions of this part regarding confidentiality and conflict of interest.
+&emsp;&emsp;&emsp;The State agency shall develop the policies and procedures in accordance with all provisions of this part regarding confidentiality and conflict of interest.
 
 #### (b) Procedures for access
 

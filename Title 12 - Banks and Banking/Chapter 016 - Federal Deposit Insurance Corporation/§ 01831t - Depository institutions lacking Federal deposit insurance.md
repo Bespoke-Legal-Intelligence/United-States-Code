@@ -4,7 +4,7 @@
 
 #### (1) Audit required
 
-&emsp;Any private deposit insurer shall obtain an annual audit from an independent auditor using generally accepted auditing standards. The audit shall include a determination of whether the private deposit insurer follows generally accepted accounting principles and has set aside sufficient reserves for losses.
+&emsp;Any private deposit insurer shall obtain an annual audit from an independent auditor using generally accepted auditing standards. The audit shall include a determination ofwhether the private deposit insurer follows generally accepted accounting principles and has set aside sufficient reserves for losses.
 
 #### (2) Providing copies of audit report
 
@@ -26,7 +26,7 @@ Any depository institution lacking Federal deposit insurance shall, within the U
 
 #### (1) Periodic statements; account records
 
-&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or similar instrument evidencing a deposit a notice that the institution is not federally insured, and that if the institution fails, theFederal Government does not guarantee that depositors will get back their money.
+&emsp;Include conspicuously in all periodic statements of account, on each signature card, and on each passbook, certificate of deposit, or similar instrument evidencing a deposit a notice that the institution is not federally insured, and that if the institution fails, the Federal Government does not guarantee that depositors will get back their money.
 
 #### (2) Advertising; premises
 
@@ -86,7 +86,7 @@ The Federal Trade Commission may, by regulation or order, make exceptions to sub
 
 #### (1) In general
 
-&emsp;Except as permitted by the Federal Trade Commission, in consultation with the Federal Deposit Insurance Corporation, no depository institution (other than a bank, including an unincorporated bank) lacking Federal deposit insurance may use the mails or any instrumentality of interstate commerce to receive or facilitate receiving deposits, unless the appropriate supervisor of the State in which the institution is chartered has determined that the institution meets all eligibility requirements for Federal deposit insurance, including—
+&emsp;Except as permitted by the Federal Trade Commission, in consultation with the Federal Deposit Insurance Corporation, no depository institution (other than a bank, including an unincorporated bank) lacking Federal deposit insurance may use the mails or any instrumentality of interstate commerce to receiveor facilitate receiving deposits, unless the appropriate supervisor of the State in which the institution is chartered has determined that the institution meets all eligibility requirements for Federal deposit insurance, including—
 
 &emsp;&emsp;(A) in the case of an institution described in section 461(b)(1)(A)(iv) of this title, all eligibility requirements set forth in the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\] and regulations of the National Credit Union Administration; and
 

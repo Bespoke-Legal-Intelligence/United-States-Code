@@ -6,7 +6,7 @@ Estimate of Costs.—The Secretary of the Army shall include in the budget justi
 
 (b)
 
-Use of Funds.—Funds appropriated to the Secretary of the Army for a fiscal year to coverunutilized and underutilized plant-capacity costs at Army arsenals shall be used in such fiscal year only for such costs.
+Use of Funds.—Funds appropriated to the Secretary of the Army for a fiscal year to cover unutilized and underutilized plant-capacity costs at Army arsenals shall be used in such fiscal year only for such costs.
 
 (c)
 

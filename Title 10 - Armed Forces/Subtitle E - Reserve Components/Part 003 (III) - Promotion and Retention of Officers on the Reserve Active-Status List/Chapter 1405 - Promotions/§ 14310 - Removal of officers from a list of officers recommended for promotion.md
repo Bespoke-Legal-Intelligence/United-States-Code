@@ -10,7 +10,7 @@ Removal for Withholding of Senate Advice and Consent.—If the Senate does not g
 
 (c)
 
-Continued Eligibility for Promotion.—An officer whose name is removed from a list under subsection (a) or (b) continues to be eligible for consideration for promotion. If that officer is recommended for promotion by the next selection board convened for that officer's grade and competitive category and the officer is promoted, the Secretary of the military department concerned may, upon the promotion, grant the officer the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list, as the officer would have had if the officer's name had not been removed from the list.
+Continued Eligibility for Promotion.—An officer whose name is removed from a list undersubsection (a) or (b) continues to be eligible for consideration for promotion. If that officer is recommended for promotion by the next selection board convened for that officer's grade and competitive category and the officer is promoted, the Secretary of the military department concerned may, upon the promotion, grant the officer the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list, as the officer would have had if the officer's name had not been removed from the list.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2938.)
 

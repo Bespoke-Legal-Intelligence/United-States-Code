@@ -24,7 +24,7 @@ Matters To Be Included.—Each report under this section shall include, for the 
 
 &emsp;&emsp;(D) the adequacy of resources; or
 
-&emsp;&emsp;(E) changes in authority of the commander to develop or acquire materiel, supplies, services, or equipment directly for the conduct of joint warfighting experimentation.
+&emsp;&emsp;(E) changes in authority of the commander to develop or acquire (by lease or by purchase) materiel, supplies, services, or equipment (including any prototype) directly for the conduct of joint warfighting experimentation.
 
 &emsp;(5) With respect to improving the effectiveness of joint warfighting, any recommendations that the commander considers appropriate, based on the results of joint warfighting experimentation, regarding—
 
@@ -36,13 +36,23 @@ Matters To Be Included.—Each report under this section shall include, for the 
 
 &emsp;&emsp;(D) a description of any actions taken by the Secretary of Defense to implement the recommendations of the commander.
 
-(Added Pub. L. 105–261, div. A, title IX, §923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, §931, title X, §1067(1), Oct. 5, 1999, 113 Stat. 726, 774.)
+&emsp;(6) A specific assessment of whether there is a need for a major force program for funding—
+
+&emsp;&emsp;(A) joint warfighting experimentation; and
+
+&emsp;&emsp;(B) the development and acquisition of any technology the value of which has been empirically demonstrated through such experimentation.
+
+(Added Pub. L. 105–261, div. A, title IX, §923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, §931, title X, §1067(1), Oct. 5, 1999, 113 Stat. 726, 774; Pub. L. 107–107, div. A, title IX, §922, Dec. 28, 2001, 115 Stat. 1198.)
 
 #### References in Text
 
 Section 923(a)(2) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(1), is section 923(a)(2) of Pub. L. 105–261, which is set out in a note below.
 
 #### Amendments
+
+2001—Subsec. (b)(4)(E). Pub. L. 107–107, §922(1), inserted “(by lease or by purchase)” after “acquire” and “(including any prototype)” after “or equipment”.
+
+Subsec. (b)(6). Pub. L. 107–107, §922(2), added par. (6).
 
 1999—Subsec. (a). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -66,7 +76,7 @@ Pub. L. 105–261, div. A, title IX, subtitle C, Oct. 17, 1998, 112 Stat. 2102, 
 
 &emsp;&emsp;“(A) integrating advances in technology with changes in organizational structure and joint operational concepts; and
 
-&emsp;&emsp;“(B) determining the interdependent aspects of joint warfare that are key for transforming the conduct of military operations to meet future challenges successfully.
+&emsp;&emsp;“(B) determining the interdependent aspects of joint warfare that are key for transforming theconduct of military operations to meet future challenges successfully.
 
 &emsp;“(3) It is essential that an energetic and innovative organization be established in the Department of Defense with the authority (subject to the authority and guidance of the Secretary of Defense and Chairman of the Joint Chiefs of Staff) to design and implement a process of joint experimentation to investigate and test technologies and alternative forces and concepts in field environments under realistic conditions against the full range of future challenges to assist in developing and validating new joint warfighting concepts and transforming the Armed Forces to meet the threats to national security anticipated for the early 21st century.
 

@@ -80,7 +80,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the International Joint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
 
-&emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two years of the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
+&emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two yearsof the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
 
 &emsp;(D) The Program Office shall compile formal comments on individual Remedial Action Plans made by the International Joint Commission pursuant to section 4(d) of Annex 2 of the Great Lakes Water Quality Agreement and, upon request by a member of the public, shall make such comments available for inspection and copying. The Program Office shall also make available, upon request, formal comments made by the Environmental Protection Agency on individual Remedial Action Plans.
 
@@ -110,7 +110,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;(B) The Program Office shall—
 
-&emsp;&emsp;(i) by December 31, 1990, complete chemical, physical, and biological assessments of the contaminated sediments at the locationsselected for the study and demonstration projects;
+&emsp;&emsp;(i) by December 31, 1990, complete chemical, physical, and biological assessments of the contaminated sediments at the locations selected for the study and demonstration projects;
 
 &emsp;&emsp;(ii) by December 31, 1990, announce the technologies that will be demonstrated at each location and the numerical standard of protection intended to be achieved at each location;
 
@@ -135,6 +135,24 @@ The Great Lakes National Program Office (previously established by the Administr
 &emsp;The Administrator shall, in the Agency's annual budget submission to Congress, include a funding request for the Program Office as a separate budget line item.
 
 #### (10) Omitted
+
+#### (11) Confined disposal facilities
+
+&emsp;(A) The Administrator, in consultation with the Assistant Secretary of the Army for Civil Works, shall develop and implement, within one year of November 16, 1990, management plans for every Great Lakes confined disposal facility.
+
+&emsp;(B) The plan shall provide for monitoring of such facilities, including—
+
+&emsp;&emsp;(i) water quality at the site and in the area of the site;
+
+&emsp;&emsp;(ii) sediment quality at the site and in the area of the site;
+
+&emsp;&emsp;(iii) the diversity, productivity, and stability of aquatic organisms at the site and in the area of the site; and
+
+&emsp;&emsp;(iv) such other conditions as the Administrator deems appropriate.
+
+&emsp;(C) The plan shall identify the anticipated use and management of the site over the following twenty-year period including the expected termination of dumping at the site, the anticipated need for site management, including pollution control, following the termination of the use of the site.
+
+&emsp;(D) The plan shall identify a schedule for review and revision of the plan which shall not be less frequent than five years after adoption of the plan and every five years thereafter.
 
 #### (d) Great Lakes research
 
@@ -194,7 +212,7 @@ The head of each department, agency, or other instrumentality of the Federal Gov
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
-Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes.
+Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body createdby treaty with authority relating to the Great Lakes.
 
 #### (h) Authorizations of Great Lakes appropriations
 

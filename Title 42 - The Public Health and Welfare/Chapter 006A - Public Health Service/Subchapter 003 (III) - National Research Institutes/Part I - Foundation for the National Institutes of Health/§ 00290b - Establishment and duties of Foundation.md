@@ -6,7 +6,7 @@ The Secretary shall, acting through the Director of NIH, establish a nonprofit c
 
 #### (b) Purpose of Foundation
 
-The purpose of the Foundation shall be to support the National Institutes of Health in its mission, and to advance collaboration with biomedical researchers from universities, industry, and nonprofit organizations.
+The purpose of the Foundation shall be to support the National Institutes of Health in its mission (including collection of funds for pediatric pharmacologic research), and to advance collaboration with biomedical researchers from universities, industry, and nonprofit organizations.
 
 #### (c) Certain activities of Foundation
 
@@ -18,11 +18,13 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(B) A program to provide and administer fellowships and grants to research personnel in order to work and study in association with the National Institutes of Health. Such fellowships and grants may include stipends, travel, health insurance benefits and other appropriate expenses. The recipients of fellowships shall be selected by the donors and the Foundation upon the recommendation of the National Institutes of Health employees in the laboratory where the fellow would serve, and shall be subject to the agreement of the Director of the National Institutes of Health and the Executive Director of the Foundation.
 
-&emsp;&emsp;(C) Supplementary programs to provide for—
+&emsp;&emsp;(C) A program to collect funds for pediatric pharmacologic research and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21.
+
+&emsp;&emsp;(D) Supplementary programs to provide for—
 
 &emsp;&emsp;&emsp;(i) scientists of other countries to serve in research capacities in the United States in association with the National Institutes of Health or elsewhere, or opportunities for employees of the National Institutes of Health or other public health officials in the United States to serve in such capacities in other countries, or both;
 
-&emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may include stipends, travel and other support for personnel in collaboration with national and international non-profit and for-profit organizations;
+&emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may include stipends, travel and other support for personnel in collaboration with national andinternational non-profit and for-profit organizations;
 
 &emsp;&emsp;&emsp;(iii) the conduct and support of forums, meetings, conferences, courses, and training workshops that may include undergraduate, graduate, post-graduate, and post-doctoral accredited courses and the maintenance of accreditation of such courses by the Foundation at the State and national level for college or continuing education credits or for degrees;
 
@@ -50,17 +52,21 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(i) the Chairman and ranking minority member of the Subcommittee on Health and the Environment (Committee on Energy and Commerce) or their designees, in the case of the House of Representatives;
 
-&emsp;&emsp;(ii) the Chairman and ranking minority member of the Committee on Labor and Human Resources or their designees, in the case of the Senate; and
+&emsp;&emsp;(ii) the Chairman and ranking minority member of the Committee on Labor and Human Resources or their designees, in the case of the Senate;
 
-&emsp;&emsp;(iii) the Director of the National Institutes of Health.
+&emsp;&emsp;(iii) the Director of the National Institutes of Health; and
 
-&emsp;(C) The ex officio members of the Board under subparagraph (B) shall appoint to theBoard 11 individuals from among a list of candidates to be provided by the National Academy of Science. Of such appointed members—
+&emsp;&emsp;(iv) the Commissioner of Food and Drugs.
 
-&emsp;&emsp;(i) 4 shall be representative of the general biomedical field;
+&emsp;(C) The ex officio members of the Board under subparagraph (B) shall appoint to the Board individuals from among a list of candidates to be provided by the National Academy of Science. Such appointed members shall include—
 
-&emsp;&emsp;(ii) 2 shall be representatives of the general biobehavorial field; and
+&emsp;&emsp;(i) representatives of the general biomedical field;
 
-&emsp;&emsp;(iii) 5 shall be representatives of the general public.
+&emsp;&emsp;(ii) representatives of experts in pediatric medicine and research;
+
+&emsp;&emsp;(iii) representatives of the general biobehavioral field, which may include experts in biomedical ethics; and
+
+&emsp;&emsp;(iv) representatives of the general public, which may include representatives of affected industries.
 
 &emsp;(D)(i) Not later than 30 days after June 10, 1993, the Director of the National Institutes of Health shall convene a meeting of the ex officio members of the Board to—
 
@@ -118,27 +124,25 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(ii) compromise, or appear to compromise, the integrity of any governmental agency or program, or any officer or employee involved in such program.
 
-#### (e) Redesignated (g)
-
-#### (f) Incorporation
+#### (e) Incorporation
 
 The initial members of the Board shall serve as incorporators and shall take whatever actions necessary to incorporate the Foundation.
 
-#### (g) Nonprofit status
+#### (f) Nonprofit status
 
 The Foundation shall be considered to be a corporation under section 501(c) of title 26, and shall be subject to the provisions of such section.
 
-#### (h) Executive Director
+#### (g) Executive Director
 
 #### (1) In general
 
-&emsp;The Foundation shall have an Executive Director who shall be appointed by the Boardand shall serve at the pleasure of the Board. The Executive Director shall be responsible for the day-to-day operations of the Foundation and shall have such specific duties and responsibilities as the Board shall prescribe.
+&emsp;The Foundation shall have an Executive Director who shall be appointed by the Board and shall serve at the pleasure of the Board. The Executive Director shall be responsible for the day-to-day operations of the Foundation and shall have such specific duties and responsibilities as the Board shall prescribe.
 
 #### (2) Compensation
 
 &emsp;The rate of compensation of the Executive Director shall be fixed by the Board.
 
-#### (i) Powers
+#### (h) Powers
 
 In carrying out subsection (b) of this section, the Foundation may—
 
@@ -162,7 +166,7 @@ In carrying out subsection (b) of this section, the Foundation may—
 
 &emsp;(10) take such action as may be necessary to obtain patents and licenses for devices and procedures developed by the Foundation and its employees;
 
-&emsp;(11) solicit <sup>1</sup> accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
+&emsp;(11) solicit, accept, hold, administer, invest, and spend any gift, devise, or bequest of real or personal property made to the Foundation;
 
 &emsp;(12) enter into such other contracts, leases, cooperative agreements, and other transactions as the Executive Director considers appropriate to conduct the activities of the Foundation;
 
@@ -172,19 +176,19 @@ In carrying out subsection (b) of this section, the Foundation may—
 
 &emsp;(15) exercise other powers as set forth in this section, and such other incidental powers as are necessary to carry out its powers, duties, and functions in accordance with this part.
 
-#### (j) Administrative control
+#### (i) Administrative control
 
 No participant in the program established under this part shall exercise any administrative control over any Federal employee.
 
-#### (k) General provisions
+#### (j) General provisions
 
 #### (1) Foundation integrity
 
-&emsp;The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct (including those developed under subsection (d)(2)(B)(i)(II)),<sup>2</sup> financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
+&emsp;The members of the Board shall be accountable for the integrity of the operations of the Foundation and shall ensure such integrity through the development and enforcement of criteria and procedures relating to standards of conduct, financial disclosure statements, conflict of interest rules, recusal and waiver rules, audits and other matter determined appropriate by the Board.
 
 #### (2) Financial conflicts of interest
 
-&emsp;Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(2)(B)(i)(II)) <sup>2</sup> personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
+&emsp;Any individual who is an officer, employee, or member of the Board of the Foundationmay not (in accordance with policies and requirements developed under subsection (d)(2)(B)(i)(II)) <sup>1</sup> personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
 
 #### (3) Audits; availability of records
 
@@ -202,7 +206,7 @@ No participant in the program established under this part shall exercise any adm
 
 &emsp;(C) The Foundation shall make copies of each report submitted under subparagraph (A) available for public inspection, and shall upon request provide a copy of the report to any individual for a charge not exceeding the cost of providing the copy.
 
-&emsp;(D) The Board shall annually hold a public meeting to summarize the activities of theFoundation and distribute written reports concerning such activities and the scientific results derived from such activities.
+&emsp;(D) The Board shall annually hold a public meeting to summarize the activities of the Foundation and distribute written reports concerning such activities and the scientific results derived from such activities.
 
 #### (5) Service of Federal employees
 
@@ -218,17 +222,45 @@ No participant in the program established under this part shall exercise any adm
 
 #### (8) National Institutes of Health Amendments of 1990
 
-&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>3</sup>
+&emsp;The activities conducted in support of the National Institutes of Health Amendments of 1990 (Public Law 101–613), and the amendments made by such Act, shall not be nullified by the enactment of this section.<sup>2</sup>
 
 #### (9) Limitation of activities
 
-&emsp;The Foundation shall exist solely as an entity to work in collaboration with the research programs of the National Institutes of Health. The Foundation may not undertake activities (such as the operation of independent laboratories or competing for Federal research funds) that are independent of those of the National Institutes of Health research programs.
+#### (A) In general
+
+&emsp;&emsp;The Foundation shall exist solely as an entity to work in collaboration with the research programs of the National Institutes of Health. The Foundation may not undertake activities (such as the operation of independent laboratories or competing for Federal research funds) that are independent of those of the National Institutes of Health research programs.
+
+#### (B) Gifts, grants, and other donations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Gifts, grants, and other donations to the Foundation may be designated for pediatric research and studies on drugs, and funds so designated shall be used solely for grants for research and studies under subsection (c)(1)(C) of this section.
+
+#### (ii) Other gifts
+
+&emsp;&emsp;&emsp;Other gifts, grants, or donations received by the Foundation and not described in clause (i) may also be used to support such pediatric research and studies.
+
+#### (iii) Report
+
+&emsp;&emsp;&emsp;The recipient of a grant for research and studies shall agree to provide the Director of the National Institutes of Health and the Commissioner of Food and Drugs, at the conclusion of the research and studies—
+
+&emsp;&emsp;&emsp;&emsp;(I) a report describing the results of the research and studies; and
+
+&emsp;&emsp;&emsp;&emsp;(II) all data generated in connection with the research and studies.
+
+#### (iv) Action by the Commissioner of Food and Drugs
+
+&emsp;&emsp;&emsp;The Commissioner of Food and Drugs shall take appropriate action in response to a report received under clause (iii) in accordance with paragraphs (7) through (12) of section 284m(c) of this title, including negotiating with the holders of approved applications for the drugs studied for any labeling changes that the Commissioner determines to be appropriate and requests the holders to make.
+
+#### (C) Applicability
+
+&emsp;&emsp;Subparagraph (A) does not apply to the program described in subsection (c)(1)(C) of this section.
 
 #### (10) Transfer of funds
 
 &emsp;The Foundation may transfer funds to the National Institutes of Health. Any funds transferred under this paragraph shall be subject to all Federal limitations relating to federally-funded research.
 
-#### (<i>l</i>) Duties of Director
+#### (k) Duties of Director
 
 #### (1) Applicability of certain standards to non-Federal employees
 
@@ -238,7 +270,7 @@ No participant in the program established under this part shall exercise any adm
 
 &emsp;The Director of the National Institutes of Health may provide facilities, utilities and support services to the Foundation if it is determined by the Director to be advantageous to the research programs of the National Institutes of Health.
 
-#### (m) Funding
+#### (<i>l</i>) Funding
 
 #### (1) Authorization of appropriations
 
@@ -248,19 +280,53 @@ No participant in the program established under this part shall exercise any adm
 
 &emsp;Amounts appropriated under any provision of law other than paragraph (1) may not be expended to establish or operate the Foundation.
 
-(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591.)
+(July 1, 1944, ch. 373, title IV, §499, formerly §499A, as added Pub. L. 101–613, §2, Nov. 16, 1990, 104 Stat. 3224; amended Pub. L. 102–170, title II, §216, Nov. 26, 1991, 105 Stat. 1128; Pub. L. 102–321, title I, §163(b)(6), July 10, 1992, 106 Stat. 376; renumbered §499 and amended Pub. L. 103–43, title I, §121(b)(3), title XVII, §1701, June 10, 1993, 107 Stat. 133, 186; Pub. L. 104–316, title I, §122(b), Oct. 19, 1996, 110 Stat. 3836; Pub. L. 105–392, title IV, §418(2), Nov. 13, 1998, 112 Stat. 3591; Pub. L. 107–109, §13, Jan. 4, 2002, 115 Stat. 1417.)
 
 #### References in Text
 
-Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (k)(2), is section 109(16) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (j)(2), is section 109(16) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The National Institutes of Health Amendments of 1990, referred to in subsec. (k)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, as amended, which enacted this section, section 285g–4 of this title, and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
+The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, as amended, which enacted this section, section 285g–4 of this title, and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 499 of act July 1, 1944, was classified to section 289h of this title prior to repeal by Pub. L. 103–43.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–109, §13(1), inserted “(including collection of funds for pediatric pharmacologic research)” after “mission”.
+
+Subsec. (c)(1)(C), (D). Pub. L. 107–109, §13(2), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (d)(1)(B)(iv). Pub. L. 107–109, §13(3)(A)(i), added cl. (iv).
+
+Subsec. (d)(1)(C). Pub. L. 107–109, §13(3)(A)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows: “The ex officio members of the Board under subparagraph (B) shall appoint to the Board 11 individuals from among a list of candidates to be provided by the National Academy of Science. Of such appointed members—
+
+&emsp;“(i) 4 shall be representative of the general biomedical field;
+
+&emsp;“(ii) 2 shall be representatives of the general biobehavorial field; and
+
+&emsp;“(iii) 5 shall be representatives of the general public.”
+
+Subsec. (d)(2)(B). Pub. L. 107–109, §13(3)(B), realigned margin.
+
+Subsec. (e) to (g). Pub. L. 107–109, §13(5), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
+
+Subsec. (h). Pub. L. 107–109, §13(5), (6), redesignated subsec. (i) as (h) and substituted “solicit,” for “solicit” in par. (11). Former subsec. (h) redesignated (g).
+
+Subsec. (i). Pub. L. 107–109, §13(5), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+
+Subsec. (j). Pub. L. 107–109, §13(5), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+
+Subsec. (j)(1). Pub. L. 107–109, §13(7), struck out “(including those developed under subsection (d)(2)(B)(i)(II))” after “procedures relating to standards of conduct”.
+
+Subsec. (j)(2). Pub. L. 107–109, §13(7), which directed striking out “(including those developed under subsection (d)(2)(B)(i)(II))” in par. (2), could not be executed because those words do not appear in par. (2).
+
+Subsec. (k). Pub. L. 107–109, §13(5), redesignated subsec. (<i>l</i>) as (k). Former subsec. (k) redesignated (j).
+
+Subsec. (k)(9). Pub. L. 107–109, §13(4), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) and (C).
+
+Subsecs. (<i>l</i>), (m). Pub. L. 107–109, §13(5), redesignated subsec. (m) as (<i>l</i>). Former subsec. (<i>l</i>) redesignated (k).
 
 1998—Subsec. (a). Pub. L. 105–392, §418(2)(A), substituted “Foundation for the National Institutes of Health” for “National Foundation for Biomedical Research”.
 
@@ -355,4 +421,8 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under section 236 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 21 section 355a.
 

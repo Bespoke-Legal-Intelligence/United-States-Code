@@ -40,7 +40,7 @@ In preparing the plan required under subsection (a) of this section, the Secreta
 
 &emsp;&emsp;(B) programs carried out pursuant to the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990 (division D of Public Law 101–510; 10 U.S.C. 2391 note); and
 
-&emsp;&emsp;(C) programs carried out by the Department of Commerce pursuant to title IX of the Public Works and Economic Development Act of 1965.<sup>1</sup>
+&emsp;&emsp;(C) programs carried out by the Department of Commerce pursuant to title II of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3141 et seq.).
 
 #### (d) Implementation
 
@@ -62,21 +62,23 @@ Not later than one year after issuing a plan referred to in subsection (a) of th
 
 (2) The Secretary shall submit to Congress any updates of the plan under subsection (e) of this section immediately upon completion of any such update.
 
-(Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430.)
+(Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229.)
 
 #### References in Text
 
 Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (c)(2), is section 3152 of Pub. L. 101–189, which is not classified to the Code.
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(6)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title II of the Act is classified generally to subchapter II (§3141 et seq.) of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title IX of the Act was classified generally to subchapter IX (§3241 et seq.) of chapter 38 of this title, prior to repeal by Pub. L. 105–393, title I, §102(c), Nov. 13, 1998, 112 Stat. 3617. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136,Aug. 26, 1965, 79 Stat. 552, as amended. Title IX of the Act was classified generally to subchapter IX (§3241 et seq.) of chapter 38 of this title, prior to repeal by Pub. L. 105–393, title I, §102(c), Nov. 13, 1998, 112 Stat. 3617. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1993, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
 #### Amendments
+
+2001—Subsec. (c)(6)(C). Pub. L. 107–107 substituted “title II of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3141 et seq.)” for “title IX of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3241 et seq.)”.
 
 1998—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
 
@@ -107,6 +109,4 @@ Pub. L. 105–85, div. C, title XXXI, §3153(f), Nov. 18, 1997, 111 Stat. 2044, 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2297h–8, 7274j of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

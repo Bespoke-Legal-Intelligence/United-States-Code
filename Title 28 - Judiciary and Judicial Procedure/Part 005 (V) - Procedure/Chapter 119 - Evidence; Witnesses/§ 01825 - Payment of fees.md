@@ -1,6 +1,6 @@
 ### §1825. Payment of fees
 
-(a) In any case in which the United States or an officer or agency of the United States is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
+(a) In any case in which the United States or an officer or agency of the United States is aparty, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
 
 &emsp;(1) on the certificate of a Federal public defender or assistant Federal public defender, in a criminal case in which the defendant is represented by such Federal public defender or assistant Federal public defender, and
 
@@ -28,7 +28,7 @@ Words in section 608 of title 28, U.S.C., 1940 ed., “to which they appear to b
 
 The second paragraph is new. It conforms to Rule 45(e) of the Federal Rules of Civil Procedure but is inconsistent with Rule 17(d) of the Federal Rules of Criminal Procedure and supersedes that rule as to Federal criminal cases. The Department of Justice suggests that Rule 17(d) is unworkable. To attempt compliance each deputy marshal serving process must carry, on the average, $500 in cash on trips to serve process.
 
-The marshal must advance the money from his personal funds. The Comptroller General has not been ableto set up any procedure to make it feasible to advance fees to Government witnesses.
+The marshal must advance the money from his personal funds. The Comptroller General has not been able to set up any procedure to make it feasible to advance fees to Government witnesses.
 
 If a witness is served but fails or refuses to appear, the marshal is out of pocket the money advanced and has no recourse. In the exceptional cases of real necessity, the marshal supplies transportation to an indigent witness under established regulations which protect the disbursement.
 

@@ -8,7 +8,7 @@ As used in this chapter:
 
 #### (2) All students
 
-&emsp;The term “all students” means both male and female students from a broad range of backgrounds and circumstances, including disadvantaged students, students with diverse racial, ethnic, or cultural backgrounds, American Indians, Alaska Natives, Native Hawaiians, students with disabilities, students with limited-English proficiency, migrant children,school dropouts, and academically talented students.
+&emsp;The term “all students” means both male and female students from a broad range of backgrounds and circumstances, including disadvantaged students, students with diverse racial, ethnic, or cultural backgrounds, American Indians, Alaska Natives, Native Hawaiians, students with disabilities, students with limited-English proficiency, migrant children, school dropouts, and academically talented students.
 
 #### (3) Approved State plan
 
@@ -122,7 +122,7 @@ As used in this chapter:
 
 #### (15) Related services
 
-&emsp;The term “related services” includes the types of services described in section 1401(a)(17) <sup>1</sup> of title 20.
+&emsp;The term “related services” includes the types of services described in section 1401(a)(17) <sup>1</sup> of this title.
 
 #### (16) Rural community with low population density
 
@@ -154,7 +154,7 @@ As used in this chapter:
 
 #### (22) Skill certificate
 
-&emsp;The term “skill certificate” means a portable, industry-recognized credential issued by a School-to-Work Opportunities program under an approved State plan, that certifies that a student has mastered skills at levels that are at least as challenging as skill standards endorsed by the National Skill Standards Board established under the National Skill Standards Act of 1994 \[20 U.S.C. 5931 et seq.\], except that until such skill standards are developed, the term “skill certificate” means a credential issued under a process described in the approved State plan.
+&emsp;The term “skill certificate” means a portable, industry-recognized credential issued bya School-to-Work Opportunities program under an approved State plan, that certifies that a student has mastered skills at levels that are at least as challenging as skill standards endorsed by the National Skill Standards Board established under the National Skill Standards Act of 1994 \[20 U.S.C. 5931 et seq.\], except that until such skill standards are developed, the term “skill certificate” means a credential issued under a process described in the approved State plan.
 
 #### (23) State
 
@@ -180,13 +180,13 @@ The Alaska Native Claims Settlement Act, referred to in par. (11)(B)(xiv), is Pu
 
 Section 1401(a)(17) of this title, referred to in par. (15), was in the original a reference to section 602(a)(17) of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of this title by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of this title, and which contains provisions defining “related services”.
 
-The Job Training Partnership Act, referred to in pars. (6), (11)(B)(xiii), and (20)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part B of title IV of the Act was classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor, and sections 4 and 102 of the Act were classified to sections 1503 and 1512, respectively, of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Job Training Partnership Act, referred to in pars. (6), (11)(B)(xiii), and (20)(B), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part B of title IV of the Act was classified generally to part B (§1691 et seq.) of subchapter IV of chapter 19 of Title 29, Labor, and sections 4 and 102 of the Act were classified to sections 1503 and 1512, respectively, of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 The National Skill Standards Act of 1994, referred to in par. (22), is title V of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 191, which is classified generally to subchapter V (§5931 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see section 5931 of this title and Tables.
 
 #### Amendments
 
-1988—Par. (11)(B)(viii). Pub. L. 105–244, §102(c)(1)(A), substituted “section 102(b)” for “section 481(b)”.
+1998—Par. (11)(B)(viii). Pub. L. 105–244, §102(c)(1)(A), substituted “section 102(b)” for “section 481(b)”.
 
 Par. (12). Pub. L. 105–244, §102(c)(1)(B), substituted “section 102” for “section 481”.
 

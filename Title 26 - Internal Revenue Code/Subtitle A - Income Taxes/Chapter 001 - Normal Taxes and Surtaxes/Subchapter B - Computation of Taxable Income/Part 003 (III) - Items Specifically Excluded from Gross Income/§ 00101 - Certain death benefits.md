@@ -56,7 +56,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;&emsp;(i) the sum of the premiums paid under such contract does not at any time exceed the guideline premium limitation as of such time, and
 
-&emsp;&emsp;&emsp;(ii) any amount payable by reason of the death of the insured (determined withoutregard to any qualified additional benefit) is not at any time less than the applicable percentage of the cash value of such contract at such time, or
+&emsp;&emsp;&emsp;(ii) any amount payable by reason of the death of the insured (determined without regard to any qualified additional benefit) is not at any time less than the applicable percentage of the cash value of such contract at such time, or
 
 &emsp;&emsp;(B) by the terms of such contract, the cash value of such contract may not at any time exceed the net single premium with respect to the amount payable by reason of the death of the insured (determined without regard to any qualified additional benefit) at such time.
 
@@ -140,7 +140,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (F) Premium payments not disqualifying contract
 
-&emsp;&emsp;The payment of a premium which would result in the sum of the premiums paid exceeding the guideline premium limitation shall be disregarded for purposes of paragraph (1)(A)(i) if the amount of such premium does not exceed the amount necessaryto prevent the termination of the contract without cash value on or before the end of the contract year.
+&emsp;&emsp;The payment of a premium which would result in the sum of the premiums paid exceeding the guideline premium limitation shall be disregarded for purposes of paragraph (1)(A)(i) if the amount of such premium does not exceed the amount necessary to prevent the termination of the contract without cash value on or before the end of the contract year.
 
 #### (G) Net single premium
 
@@ -294,7 +294,27 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;(D) the payment is to an individual whose actions were a substantial contributing factor to the death of the officer.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074.)
+#### (i) Certain employee death benefits payable by reason of death of certain terrorist victims
+
+#### (1) In general
+
+&emsp;Gross income does not include amounts (whether in a single sum or otherwise) paid by an employer by reason of the death of an employee who is a specified terrorist victim (as defined in section 692(d)(4)).
+
+#### (2) Limitation
+
+#### (A) In general
+
+&emsp;&emsp;Subject to such rules as the Secretary may prescribe, paragraph (1) shall not apply to amounts which would have been payable after death if the individual had died other than as a specified terrorist victim (as so defined).
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply to incidental death benefits paid from a plan described in section 401(a) and exempt from tax under section 501(a).
+
+#### (3) Treatment of self-employed individuals
+
+&emsp;For purposes of paragraph (1), the term “employee” includes a self-employed individual (as defined in section 401(c)(1)).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429.)
 
 #### References in Text
 
@@ -305,6 +325,8 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 832 of this title.
 
 #### Amendments
+
+<b>2002</b>—Subsec. (i). Pub. L. 107–134 added subsec. (i).
 
 <b>1997</b>—Subsec. (a)(2). Pub. L. 105–34, §1084(b)(2), inserted at end “The term ‘other amounts’ in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).”
 
@@ -360,11 +382,23 @@ Subsec. (b)(3). Pub. L. 87–792, §7(c)(2), added par. (3).
 
 <b>1958</b>—Subsec. (b)(2)(B). Pub. L. 85–866 substituted “This subparagraph shall not apply to total distributions payable (as defined in section 402(a)(3) which are paid to a distributee within one taxable year of the distributee by reason of the employee's death—” for “(other than total distributions payable, as defined in section 402(a)(3), which are paid to distributee, by a stock bonus, pension, or profit-sharing trust described in section 401(a) which is exempt from tax under section 501(a), or under an annuity contract under a plan which meets the requirements of paragraphs (3), (4), (5), and (6) of section 401(a), within one taxable year of the distributee by reason of the employee's death)”, and added cls. (i), (ii), and (iii).
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–134, title I, §102(b), Jan. 23, 2002, 115 Stat. 2429, provided that:
+
+“(1)
+
+Effective date.—The amendment made by this section \[amending this section\] shall apply to taxable years ending before, on, or after September 11, 2001.
+
+“(2)
+
+Waiver of limitations.—If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Jan. 23, 2002\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
+
 #### Effective Date of 1997 Amendment
 
 Section 1084(d) of Pub. L. 105–34, as amended by Pub. L. 105–206, title VI, §6010(<i>o</i>)(3)(B), July 22, 1998, 112 Stat. 816, provided that: “The amendments made by this section \[amending this section and sections 264, 265, 805, 807, 812, and 832 of this title\] shall apply to contracts issued after June 8, 1997, in taxable years ending after such date. For purposes of the preceding sentence, any material increase in the death benefit or other material change in the contract shall be treated as a new contract except that, in the case of a master contract (within the meaning of section 264(f)(4)(E) of the Internal Revenue Code of 1986), the addition of covered lives shall be treated as a new contract only with respect to such additional covered lives. For purposes of this subsection, an increase in the death benefit under a policy or contract issued in connection with a lapse described in section 501(d)(2) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, set out as a note under section 264 of this title\] shall not be treated as a new contract.”
 
-Section 1528(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date.”
+Section 1528(b) of Pub. L. 105–34, as amended by Pub. L. 107–15, §2, June 5, 2001, 115 Stat. 37, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 1996, with respect to individuals dying after such date, and to amounts received in taxable years beginning after December 31, 2001, with respect to individuals dying on or before December 31, 1996.”
 
 #### Effective Date of 1996 Amendments
 
@@ -382,7 +416,7 @@ Amendment by section 221(b)(2) of Pub. L. 98–369 effective Jan. 1, 1984, see s
 
 Amendment by section 421(b)(2) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have repeal apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
 
-Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity andFiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
+Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
 #### Effective Date of 1982 Amendments
 
@@ -424,7 +458,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Flexible Premium Contracts Issued During 1984 Which Meet Requirements of Section 7702 Treated as Meeting Requirements of Section 101(f)
 
-Flexible premium contracts issued during 1984 which meet requirements of section 7702 of this title treated as meeting requirements of subsec. (f) of this section, see section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, set out as a note under section 7702 of this title.
+Flexible premium contracts issued during 1984 which meet requirements of section 7702 of this title treated as meeting requirements of subsec. (f) of this section,see section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, set out as a note under section 7702 of this title.
 
 #### Special Rules for Contracts Entered Into Before January 1, 1983
 

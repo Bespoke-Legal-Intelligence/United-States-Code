@@ -36,7 +36,7 @@ The term “service mark” means any word, name, symbol, or device, or any comb
 
 &emsp;(2) which a person has a bona fide intention to use in commerce and applies to register on the principal register established by this chapter,
 
-> to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names, and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.
+> to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names, and other distinctive features of radio or television programs may beregistered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.
 
 The term “certification mark” means any word, name, symbol, or device, or any combination thereof—
 
@@ -64,7 +64,7 @@ The term “use in commerce” means the bona fide use of a mark in the ordinary
 
 &emsp;&emsp;(B) the goods are sold or transported in commerce, and
 
-&emsp;(2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign countryand the person rendering the services is engaged in commerce in connection with the services.
+&emsp;(2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
 
 A mark shall be deemed to be “abandoned” if either of the following occurs:
 
@@ -98,7 +98,7 @@ The intent of this chapter is to regulate commerce within the control of Congres
 
 #### References in Text
 
-Acts March 3, 1881, February 20, 1905, and March 19, 1920, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502; Feb. 20, 1905, ch. 592, 33 Stat. 724; and Mar. 19, 1920, ch. 104, 41 Stat. 533, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title. Act Mar. 19, 1920, had been generally classified to sections 121 to 128 of this title.
+Acts March 3, 1881, February 20, 1905, and March 19, 1920, referred to in text, are acts Mar. 3, 1881, ch. 138, 21Stat. 502; Feb. 20, 1905, ch. 592, 33 Stat. 724; and Mar. 19, 1920, ch. 104, 41 Stat. 533, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title. Act Mar. 19, 1920, had been generally classified to sections 121 to 128 of this title.
 
 #### Prior Provisions
 
@@ -122,7 +122,7 @@ Pub. L. 106–43, §4(c), between pars. defining “person” inserted: “The t
 
 &emsp;“(2) When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lose its significance as a mark. Purchaser motivation shall not be a test for determining abandonment under this paragraph.”
 
-1992—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subjectto the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
+1992—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
 1988—Pub. L. 100–667, §134(1), amended par. defining “related company” generally. Prior to amendment, par. read as follows: “The term ‘related company’ means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used.”
 

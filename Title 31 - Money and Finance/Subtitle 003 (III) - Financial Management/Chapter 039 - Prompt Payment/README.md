@@ -20,7 +20,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 10 section 1095c; title 15 section 644; title 25 sections 450<i>l</i>, 458aaa–7, 2025, 2507; title 39 section 410.
+This chapter is referred to in title 10 section 1095c; title 15 section 644; title 25 sections 450<i>l</i>, 458aaa–7, 2506; title 39 section 410.
 
 
 ---

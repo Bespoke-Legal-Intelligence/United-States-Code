@@ -30,7 +30,7 @@ Pub. L. 102–180, §1, Dec. 2, 1991, 105 Stat. 1230, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–666, §1, Nov. 16, 1988, 102 Stat. 3929, provided that: “This Act \[enacting sections 640d–29 and 640d–30 of this title, amending sections 640d–7, 640d–9 to 640d–14, 640d–22, 640d–24, 640d–25, and 640d–28 of this title, and enacting provisions set out as a note under section 640d–11 of this title\] may be cited as the ‘Navajo and Hopi Indian Relocation Amendments of 1988’.”
+Pub. L. 100–666, §1, Nov. 16, 1988, 102 Stat. 3929, provided that: “This Act \[enacting sections 640d–29 and 640d–30 of this title, amending sections 640d–7, 640d–9 to640d–14, 640d–22, 640d–24, 640d–25, and 640d–28 of this title, and enacting provisions set out as a note under section 640d–11 of this title\] may be cited as the ‘Navajo and Hopi Indian Relocation Amendments of 1988’.”
 
 #### Short Title of 1980 Amendment
 
@@ -154,7 +154,7 @@ Action by the secretary.—
 
 &emsp;&emsp;“(A)
 
-In general.—The Secretary shall take action as specified in subparagraph (B), to the extent that the Tribe, in accordance with section 7(b) of the Settlement Agreement—
+In general.—The Secretary shall take action as specified in subparagraph (B), to the extentthat the Tribe, in accordance with section 7(b) of the Settlement Agreement—
 
 &emsp;&emsp;&emsp;“(i) acquires private lands; and
 
@@ -250,7 +250,7 @@ Applicability of State Law on Lands Other Than Newly Acquired Lands.—The Tribe
 
 “(d)
 
-Adjudication of Water Rights on Newly Acquired Trust Lands.—The Tribe's water rights on newly acquired trust lands shall be adjudicated with the rights of all other competing users in the court now presiding over the Little Colorado River Adjudication, or if that court no longer has jurisdiction, in the appropriate State or Federal court. Any controversies between or among users arising under Federal or State law involving the Tribe's water rights on newly acquired trust lands shall be resolved in the court now presiding over the Little Colorado River Adjudication, or, if that court no longer has jurisdiction, in the appropriate State or Federal court. Nothing in this subsection shall be construed to affect any court's jurisdiction: <i>Provided</i>, That the Tribe shall administer all water rights established in subsection (a).
+Adjudication of Water Rights on Newly Acquired Trust Lands.—The Tribe's water rights on newly acquired trust lands shall be adjudicated with the rights of all other competing users in the court now presiding over the Little Colorado River Adjudication, or if that court no longer has jurisdiction, in the appropriate State or Federal court. Any controversies between or among users arising under Federal or State law involving the Tribe's water rights on newly acquired trust lands shall be resolved in the court now presiding over the Little Colorado River Adjudication,or, if that court no longer has jurisdiction, in the appropriate State or Federal court. Nothing in this subsection shall be construed to affect any court's jurisdiction: <i>Provided</i>, That the Tribe shall administer all water rights established in subsection (a).
 
 “(e)
 

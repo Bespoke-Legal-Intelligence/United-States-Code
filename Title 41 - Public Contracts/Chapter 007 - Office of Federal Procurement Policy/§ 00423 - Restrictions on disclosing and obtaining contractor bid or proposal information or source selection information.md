@@ -58,7 +58,7 @@ A person shall not, other than as provided by law, knowingly obtain contractor b
 
 (4) A contractor who provides compensation to a former official knowing that such compensation is accepted by the former official in violation of this subsection shall be subject to penalties and administrative actions as set forth in subsection (e) of this section.
 
-(5) Regulations implementing this subsection shall include procedures for an official or former official of a Federal agency to request advice from the appropriate designated agency ethics official regarding whether the official or former official is or would be precluded by this subsection from accepting compensation from a particular contractor.
+(5) Regulations implementing this subsection shall include procedures for an official or former official of a Federal agency to request advicefrom the appropriate designated agency ethics official regarding whether the official or former official is or would be precluded by this subsection from accepting compensation from a particular contractor.
 
 #### (e) Penalties and administrative actions
 
@@ -194,7 +194,7 @@ Subsec. (e)(1)(A)(i), (B)(ii), (2)(A), (3)(A). Pub. L. 101–189, §814(c)(1)(A)
 
 Subsec. (e)(7)(B)(ii). Pub. L. 101–189, §814(c)(1)(E), substituted “subsection (<i>o</i>)” for “subsection (m)”.
 
-Subsec. (f). Pub. L. 101–189, §814(a)(2)(B), substituted “Restrictions resulting from procurement activities ofprocurement officials” for “Restrictions on Government officials and employees” as heading, and “(1) No individual who, while serving as an officer or employee of the Government or member of the Armed Forces, was a procurement official with respect to a particular procurement may knowingly—” for “No Government official or employee, civilian, or military, who has participated personally and substantially in the conduct of any Federal agency procurement or who has personally reviewed and approved the award, modification, or extension of any contract for such procurement shall—”.
+Subsec. (f). Pub. L. 101–189, §814(a)(2)(B), substituted “Restrictions resulting from procurement activities of procurement officials” for “Restrictions on Government officials and employees” as heading, and “(1) No individual who, while serving as an officer or employee of the Government or member of the Armed Forces, was a procurement official with respect to a particular procurement may knowingly—” for “No Government official or employee, civilian, or military, who has participated personally and substantially in the conduct of any Federal agency procurement or who has personally reviewed and approved the award, modification, or extension of any contract for such procurement shall—”.
 
 Pub. L. 101–189, §814(a)(2)(A), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
@@ -274,5 +274,5 @@ Pub. L. 101–194, title V, §507(1), Nov. 30, 1989, 103 Stat. 1759, provided th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 637, 657a; title 22 section 3861; title 42 sections 1396a, 1396u–2; title 43 section 1475a.
+This section is referred to in title 5 section 3374; title 15 sections 637, 657a; title 22 section 3861; title 42 sections 1396a, 1396u–2; title 43 section 1475a; title 49 section 40110.
 

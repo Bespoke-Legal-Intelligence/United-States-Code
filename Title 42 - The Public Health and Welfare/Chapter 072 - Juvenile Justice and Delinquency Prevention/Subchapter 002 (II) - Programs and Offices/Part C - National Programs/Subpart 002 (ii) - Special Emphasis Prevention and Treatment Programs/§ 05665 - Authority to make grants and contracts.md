@@ -4,7 +4,7 @@
 
 Except as provided in subsection (f) of this section, the Administrator shall, by making grants to and entering into contracts with public and private nonprofit agencies, organizations, institutions, and individuals <sup>1</sup> provide for each of the following during each fiscal year:
 
-&emsp;(1) Establishing or maintaining community-based alternatives (including home-based treatment programs) to traditional forms of institutionalization of juvenile offenders.
+&emsp;(1) Establishing or maintaining community-based alternatives (including home-basedtreatment programs) to traditional forms of institutionalization of juvenile offenders.
 
 &emsp;(2) Establishing or implementing effective means of diverting juveniles from the traditional juvenile justice and correctional system, including restitution and reconciliation projects which test and validate selected arbitration models, such as neighborhood courts or panels, and increase victim satisfaction while providing alternatives to incarceration for detained or adjudicated delinquents.
 
@@ -50,7 +50,7 @@ Except as provided in subsection (f) of this section, the Administrator is autho
 
 &emsp;(3) develop, implement, and support, in conjunction with the Secretary of Labor, other public and private agencies, organizations, business, and industry, programs for the employment of juveniles;
 
-&emsp;(4) develop and support programs designed to encourage and assist State legislatures to consider and establish policies consistent withthis subchapter, both by amending State laws, if necessary, and devoting greater resources to effectuate such policies;
+&emsp;(4) develop and support programs designed to encourage and assist State legislatures to consider and establish policies consistent with this subchapter, both by amending State laws, if necessary, and devoting greater resources to effectuate such policies;
 
 &emsp;(5) develop and implement programs relating to juvenile delinquency and learning disabilities, including on-the-job training programs to assist law enforcement personnel <sup>2</sup> community service personnel, and juvenile justice personnel to more effectively recognize and provide for learning-disabled and other handicapped juveniles;
 

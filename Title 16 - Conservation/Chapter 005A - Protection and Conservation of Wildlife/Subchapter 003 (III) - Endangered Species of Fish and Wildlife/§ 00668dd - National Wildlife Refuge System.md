@@ -696,6 +696,8 @@ National Wildlife Refuges
 
 &nbsp;
 
+Provisions relating to national wildlife refuges were contained in the following acts and executive documents:
+
 Alaska Maritime National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(1), Dec. 2, 1980, 94 Stat. 2389; Pub. L. 101–622, Nov. 21, 1990, 104 Stat. 3347; Pub. L. 102–489, Oct. 24, 1992, 106 Stat. 3138; Pub. L. 106–554, §1(a)(4) \[div. A, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180.
 
 Alaska Peninsula National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(1), Dec. 2, 1980, 94 Stat. 2385.
@@ -728,6 +730,8 @@ Cache River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§1–5, 
 
 Cahaba River National Wildlife Refuge, Alabama.—Pub. L. 106–331, Oct. 19, 2000, 114 Stat. 1303; Pub. L. 106–369, §9(b), Oct. 27, 2000, 114 Stat. 1419.
 
+Cape Romain National Wildlife Refuge, South Carolina.—Pub. L. 107–63, title I, §129, Nov. 5, 2001, 115 Stat. 442.
+
 Cat Island National Wildlife Refuge, Louisiana.—Pub. L. 106–369, §§1–7, Oct. 27, 2000, 114 Stat. 1417–1419.
 
 Charles M. Russell National Wildlife Refuge, Montana.—Pub. L. 106–541, title VIII, Dec. 11, 2000, 114 Stat. 2699.
@@ -737,6 +741,8 @@ Clarks River National Wildlife Refuge, Kentucky.—Pub. L. 104–208, div. A, ti
 Columbia National Wildlife Refuge, Washington.—Pub. L. 106–291, title I, §138, Oct. 11, 2000, 114 Stat. 949.
 
 Cossatot National Wildlife Refuge, Arkansas.—Pub. L. 104–333, div. I, title III, §305(h), Nov. 12, 1996, 110 Stat. 4130.
+
+Detroit River International Wildlife Refuge (former Wyandotte National Wildlife Refuge), Michigan.—Pub. L. 87–119, Aug. 3, 1961, 75 Stat. 243; Pub. L. 107–91, Dec. 21, 2001, 115 Stat. 894.
 
 Don Edwards San Francisco Bay National Wildlife Refuge, California.—Pub. L. 92–326, June 30, 1972, 86 Stat. 391; Pub. L. 96–290, §1, June 28, 1980, 94 Stat. 607; Pub. L. 100–556, title II, Oct. 28, 1988, 102 Stat. 2780; Pub. L. 104–78, §1, Dec. 28, 1995, 109 Stat. 790.
 
@@ -752,7 +758,7 @@ Great Dismal Swamp National Wildlife Refuge, Virginia and North Carolina.—Pub.
 
 Hart Mountain National Antelope Refuge, Oregon.—Pub. L. 105–321, §4(a)–(d), Oct. 30, 1998, 112 Stat. 3023.
 
-Humboldt Bay National Wildlife Refuge, California.—Pub. L. 96–290, §2, June 28, 1980, 94 Stat. 607.
+Humboldt Bay National Wildlife Refuge, California.—Pub. L. 96–290, §2, June 28, 1980, 94 Stat. 607; Pub. L. 107–130, Jan. 16, 2002, 115 Stat. 2409.
 
 Innoko National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(3), Dec. 2, 1980, 94 Stat. 2386.
 
@@ -806,6 +812,8 @@ Rhode Island National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title 
 
 Ridgefield National Wildlife Refuge, Washington.—Pub. L. 102–570, §1, Oct. 29, 1992, 106 Stat. 4489.
 
+Rocky Flats National Wildlife Refuge, Colorado.—Pub. L. 107–107, div. C, title XXXI, Dec. 28, 2001, 115 Stat. 1379.
+
 Rocky Mountain Arsenal National Wildlife Refuge, Colorado.—Pub. L. 102–402, Oct. 9, 1992, 106 Stat. 1961; Pub. L. 105–85, div. B, title XXVIII, §2840, Nov. 18, 1997, 111 Stat. 2007.
 
 Sachuest Point National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, §1214(f), (h), June 9, 1998, 112 Stat. 206, 207.
@@ -832,13 +840,15 @@ Tetlin National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(8)
 
 Togiak National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(6), Dec. 2, 1980, 94 Stat. 2392.
 
+Waccamaw National Wildlife Refuge, South Carolina.—Pub. L. 107–63, title I, Nov. 5, 2001, 115 Stat. 420.
+
 Wallkill River National Wildlife Refuge, New Jersey.—Pub. L. 101–593, title I, §107, Nov. 16, 1990, 104 Stat. 2955.
 
 Wertheim National Wildlife Refuge, New York.—Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–299.
 
 White River National Wildlife Refuge, Arkansas.—Pub. L. 102–584, §§1–5, Nov. 2, 1992, 106 Stat. 4937–4941.
 
-Wyandotte National Wildlife Refuge, Michigan.—Pub. L. 87–119, Aug. 3, 1961, 75 Stat. 243.
+Wyandotte National Wildlife Refuge, Michigan (see Detroit River International Wildlife Refuge).
 
 Yukon Delta National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §303(7), Dec. 2, 1980, 94 Stat. 2392.
 
@@ -862,7 +872,7 @@ Ex. Ord. No. 12996, Mar. 25, 1996, 61 F.R. 13647, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a \[et seq.\]), the Fish and Wildlife Coordination Act (16 U.S.C. 661 \[et seq.\]), the National Wildlife Refuge System Administration Act (16 U.S.C. 668dd \[, 668ee\]), the Refuge Recreation Act (16 U.S.C. 460k \[et seq.\]), the Endangered Species Act of 1973 (16 U.S.C. 1531 \[et seq.\]), the Emergency Wetlands Resources Act (16 U.S.C. 3901 \[et seq.\]), the North American Wetlands Conservation Act (16 U.S.C. 4401 \[et seq.\]), the National Environmental Policy Act (42 U.S.C. 4321 \[et seq.\]), and other pertinent statutes, and in order to conserve fish and wildlife and their habitat, it is ordered as follows:
 
-Section 1. <i>The Mission of the National Wildlife Refuge System</i>. The mission of the National Wildlife RefugeSystem (“Refuge System”) is to preserve a national network of lands and waters for the conservation and management of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
+Section 1. <i>The Mission of the National Wildlife Refuge System</i>. The mission of the National Wildlife Refuge System (“Refuge System”) is to preserve a national network of lands and waters for the conservation and management of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
 
 Sec. 2. <i>Guiding Principles</i>. To help ensure a bright future for its treasured national heritage, I hereby affirm the following four guiding principles for the management and general public use of the Refuge System:
 

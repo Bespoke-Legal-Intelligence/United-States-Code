@@ -44,7 +44,7 @@ In providing assistance to developing countries, the President shall do the foll
 
 &emsp;(7) To the fullest extent feasible, support projects and other activities to conserve forested watersheds and rehabilitate those which have been deforested, making sure that local people are involved at all stages of project design and implementation.
 
-&emsp;(8) To the fullest extent feasible, support training, research, and other actions which lead to sustainable and more environmentallysound practices for timber harvesting, removal, and processing, including reforestation, soil conservation, and other activities to rehabilitate degraded forest lands.
+&emsp;(8) To the fullest extent feasible, support training, research, and other actions which lead to sustainable and more environmentally sound practices for timber harvesting, removal, and processing, including reforestation, soil conservation, and other activities to rehabilitate degraded forest lands.
 
 &emsp;(9) To the fullest extent feasible, support research to expand knowledge of tropical forests and identify alternatives which will prevent forest destruction, loss, or degradation, including research in agroforestry, sustainable management of natural forests, small-scale farms and gardens, small-scale animal husbandry, wider application of adopted traditional practices, and suitable crops and crop combinations.
 
@@ -74,7 +74,7 @@ In providing assistance to developing countries, the President shall do the foll
 
 &emsp;&emsp;(B) actions which significantly degrade national parks or similar protected areas which contain tropical forests or introduce exotic plants or animals into such areas.
 
-&emsp;(15) Deny assistance under this part for the following activities unless an environmental assessment indicates that the proposed activity will contribute significantly and directly to improving the livelihood of the rural poor and will be conducted in an environmentally sound manner which supports sustainable development:
+&emsp;(15) Deny assistance under this part for the following activities unless an environmentalassessment indicates that the proposed activity will contribute significantly and directly to improving the livelihood of the rural poor and will be conducted in an environmentally sound manner which supports sustainable development:
 
 &emsp;&emsp;(A) Activities which would result in the conversion of forest lands to the rearing of livestock.
 

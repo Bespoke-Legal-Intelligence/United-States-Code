@@ -1,5 +1,5 @@
 
-25 U.S.C.<br>United States Code, 2000 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
+25 U.S.C.<br>United States Code, 2001 Edition<br>Title 25 - INDIANS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 25—INDIANS
 
@@ -28,7 +28,7 @@
 | [<b>19.</b>](Chapter%20019%20-%20Indian%20Land%20Claims%20Settlements/README.md) | <b>Indian Land Claims Settlements</b> | <b>1701</b> |
 | [<b>20.</b>](Chapter%20020%20-%20Tribally%20Controlled%20College%20or%20University%20Assistance/README.md) | <b>Tribally Controlled College or University Assistance</b> | <b>1801</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Indian%20Child%20Welfare/README.md) | <b>Indian Child Welfare</b> | <b>1901</b> |
-| [<b>22.</b>](Chapter%20022%20-%20Bureau%20of%20Indian%20Affairs%20Programs/README.md) | <b>Bureau of Indian Affairs Programs</b> | <b>2001</b> |
+| [<b>22.</b>](Chapter%20022%20-%20Bureau%20of%20Indian%20Affairs%20Programs/README.md) | <b>Bureau of Indian Affairs Programs</b> | <b>2000</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Development%20of%20Tribal%20Mineral%20Resources/README.md) | <b>Development of Tribal Mineral Resources</b> | <b>2101</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Indian%20Land%20Consolidation/README.md) | <b>Indian Land Consolidation</b> | <b>2201</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Old%20Age%20Assistance%20Claims%20Settlement/README.md) | <b>Old Age Assistance Claims Settlement</b> | <b>2301</b> |

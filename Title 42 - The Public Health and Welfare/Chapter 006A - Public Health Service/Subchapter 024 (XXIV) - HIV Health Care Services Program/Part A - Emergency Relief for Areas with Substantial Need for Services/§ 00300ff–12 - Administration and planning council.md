@@ -70,11 +70,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;In providing for a council for purposes of paragraph (1), a chief elected official receiving a grant under section 300ff–11(a) of this title may establish the council directly or designate an existing entity to serve as the council, subject to subparagraph (B).
+&emsp;&emsp;In providing for a council for purposes of paragraph (1), a chief elected official receiving a grant under section 300ff–11(a) of thistitle may establish the council directly or designate an existing entity to serve as the council, subject to subparagraph (B).
 
 #### (B) Consideration regarding designation of council
 
-&emsp;&emsp;In making a determination of whether to establish or designate a council under subparagraph (A), a chief elected official receiving a grant under section 300ff–11(a) of thistitle shall give priority to the designation of an existing entity that has demonstrated experience in planning for the HIV health care service needs within the eligible area and in the implementation of such plans in addressing those needs. Any existing entity so designated shall be expanded to include a broad representation of the full range of entities that provide such services within the geographic area to be served.
+&emsp;&emsp;In making a determination of whether to establish or designate a council under subparagraph (A), a chief elected official receiving a grant under section 300ff–11(a) of this title shall give priority to the designation of an existing entity that has demonstrated experience in planning for the HIV health care service needs within the eligible area and in the implementation of such plans in addressing those needs. Any existing entity so designated shall be expanded to include a broad representation of the full range of entities that provide such services within the geographic area to be served.
 
 #### (4) Duties
 
@@ -190,7 +190,7 @@ The Secretary shall provide to each chief elected official receiving a grant und
 
 Subpart II of part C of this subchapter, referred to in subsec. (b)(2)(J), was redesignated subpart I of part C of this subchapter by Pub. L. 106–345, title III, §301(b)(1), Oct. 20, 2000, 114 Stat. 1345, and is classified to section 300ff–51 et seq. of this title.
 
-The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classifiedgenerally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(4)(C)(v), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Section 501 of the Ryan White CARE Act Amendments of 2000, referred to in subsec. (d), is section 501 of Pub. L. 106–345, which is set out as a note under section 300ff–11 of this title. Provisions relating to a report are contained in section 501(d) of Pub. L. 106–345.
 

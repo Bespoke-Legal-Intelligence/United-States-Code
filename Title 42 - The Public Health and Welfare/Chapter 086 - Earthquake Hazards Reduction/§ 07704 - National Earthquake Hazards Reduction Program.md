@@ -190,7 +190,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1
 
 #### Authorization of Real-Time Seismic Hazard Warning System Development, and Other Activities
 
-Section 2 of Pub. L. 105–47, as amended by Pub. L. 106–503, title II, §202(c), Nov. 13, 2000, 114 Stat. 2305, provided that:
+Section 2 of Pub. L. 105–47, as amended by Pub. L. 106–503, title II, §202(c), Nov. 13, 2000, 114 Stat. 2305; Pub. L. 107–110, title X, §1076(cc), Jan. 8, 2002, 115 Stat. 2093, provided that:
 
 “(a)
 
@@ -288,7 +288,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;“(A)
 
-Local educational agency.—The term ‘local educational agency’ has the meaning given that term in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801).
+Local educational agency.—The term ‘local educational agency’ has the meaning given that term in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\].
 
 &emsp;&emsp;“(B)
 

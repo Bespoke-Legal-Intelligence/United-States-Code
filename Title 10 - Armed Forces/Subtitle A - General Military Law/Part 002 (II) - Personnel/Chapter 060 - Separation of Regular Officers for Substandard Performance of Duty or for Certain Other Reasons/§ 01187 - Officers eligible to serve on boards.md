@@ -2,7 +2,7 @@
 
 (a)
 
-Active Duty Officers.—Except as provided in subsection (b), each board convenedunder this chapter shall consist of officers appointed as follows:
+Active Duty Officers.—Except as provided in subsection (b), each board convened under this chapter shall consist of officers appointed as follows:
 
 &emsp;(1) Each member of the board shall be an officer of the same armed force as the officer being required to show cause for retention on active duty.
 

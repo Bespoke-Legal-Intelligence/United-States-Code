@@ -154,7 +154,7 @@ Section 511(b) of Pub. L. 99–145 provided that: “The amendments made by subs
 
 #### Temporary Variation in DOPMA Authorized End Strength Limitations for Active Duty Air Force and Navy Officers in Certain Grades
 
-Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this sectionto be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
+Pub. L. 104–106, div. A, title IV, §402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this section to be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, §403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
 
 #### Temporary Variation of End Strength Limitations for Army Majors and Lieutenant Colonels
 
@@ -184,5 +184,5 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 168, 517, 527, 623, 777, 5721, 12011, 12012 of this title.
+This section is referred to in sections 168, 517, 527, 623, 777, 5721 of this title.
 

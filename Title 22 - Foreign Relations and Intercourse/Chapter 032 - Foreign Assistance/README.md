@@ -1824,6 +1824,10 @@ Employees and agents of United States.
 
 (c)
 
+Annual report.
+
+(d)
+
 Definitions.
 
 |  |  |
@@ -2770,7 +2774,6 @@ Initial designations.
 
 |  |  |
 | :--- | ---: |
-| 2321<i>l</i> to 2321n. | Repealed. |
 | 2321<i>l</i> to 2322. | Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4706,6 +4709,10 @@ Implementation of debt reduction.
 (c)
 
 Additional terms and conditions.
+
+(d)
+
+Authorization of appropriations for fiscal years after fiscal year 2001.
 
 |  |  |
 | :--- | ---: |

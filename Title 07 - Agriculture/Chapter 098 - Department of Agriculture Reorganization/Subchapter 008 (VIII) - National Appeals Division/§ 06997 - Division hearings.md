@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) an interested person outside the Division shall not make or knowingly cause to be made to the Director or a hearing officer who is or may reasonably be expected to be involved in the evidentiary hearing or review of an adverse decision, an ex parte communication (as defined in section 551(14) of title 5) relevant to the merits of the proceeding;
 
-&emsp;&emsp;(B) the Director and such hearing officer shall not make or knowingly cause to bemade to any interested person outside the Division an ex parte communication relevant to the merits of the proceeding.
+&emsp;&emsp;(B) the Director and such hearing officer shall not make or knowingly cause to be made to any interested person outside the Division an ex parte communication relevant to the merits of the proceeding.
 
 #### (b) Time for hearing
 

@@ -12,7 +12,7 @@
 
 (c) The effective date of an award of disability compensation by reason of section 1151 of this title shall be the date such injury or aggravation was suffered if an application therefor is received within one year from such date.
 
-(d)(1) The effective date of an award of death compensation or dependency and indemnity compensation for which application is received within one year from the date of death shall bethe first day of the month in which the death occurred.
+(d)(1) The effective date of an award of death compensation or dependency and indemnity compensation for which application is received within one year from the date of death shall be the first day of the month in which the death occurred.
 
 (2) The effective date of an award of death pension for which application is received within 45 days from the date of death shall be the first day of the month in which the death occurred.
 
@@ -42,7 +42,7 @@
 
 #### Amendments
 
-1994—Subsec. (m). Pub. L. 103–446 struck out subsec. (m) which read as follows: “The effective date of an award of benefits to a surviving spouse based upon termination of actions described in section 103(d)(3) of thistitle shall not be earlier than the date of receipt of application therefor filed after termination of such actions and after December 31, 1970.”
+1994—Subsec. (m). Pub. L. 103–446 struck out subsec. (m) which read as follows: “The effective date of an award of benefits to a surviving spouse based upon termination of actions described in section 103(d)(3) of this title shall not be earlier than the date of receipt of application therefor filed after termination of such actions and after December 31, 1970.”
 
 1991—Pub. L. 102–40, §402(b)(1), renumbered section 3010 of this title as this section.
 
@@ -82,7 +82,7 @@ Subsec. (n). Pub. L. 91–584 added subsec. (n).
 
 Subsec. (c). Pub. L. 87–825 added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 87–825 redesignated former subsec. (c) as (d) and substituted first day of month in which the death occurred, for the day after the day of death, as the effective date. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 87–825 redesignated former subsec. (c) as (d) and substituted first day of month in which the death occurred, for the day after the day of death,as the effective date. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 87–825 redesignated former subsec. (d) as (e), substituted “first day of the month” for “date”, and struck out “the entitlement arose” after “from such date.” Former subsec. (e) redesignated (j).
 

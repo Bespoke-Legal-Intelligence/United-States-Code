@@ -16,7 +16,7 @@ Subpart C—Refundable Credits
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 24, 1397E, 6096, 6401 of this title.
+This subpart is referred to in sections 24, 1397E, 6096, 6401, 6428 of this title.
 
 
 ---

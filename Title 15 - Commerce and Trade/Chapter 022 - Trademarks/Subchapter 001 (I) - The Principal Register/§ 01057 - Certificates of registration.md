@@ -20,7 +20,7 @@ Contingent on the registration of a mark on the principal register provided by t
 
 #### (d) Issuance to assignee
 
-A certificate of registration of a mark may be issued to the assignee of the applicant, but the assignment must first be recorded in the Patent and Trademark Office. In case of change of ownership the Director shall, at the request of the owner and upon a proper showing and the payment of the prescribed fee, issue to such assignee a new certificate of registration of the said mark in the name of such assignee, and for the unexpired part of the original period.
+A certificate of registration of a mark may be issued to the assignee of the applicant, but theassignment must first be recorded in the Patent and Trademark Office. In case of change of ownership the Director shall, at the request of the owner and upon a proper showing and the payment of the prescribed fee, issue to such assignee a new certificate of registration of the said mark in the name of such assignee, and for the unexpired part of the original period.
 
 #### (e) Surrender, cancellation, or amendment by registrant
 
@@ -36,7 +36,7 @@ Whenever a material mistake in a registration, incurred through the fault of the
 
 #### (h) Correction of applicant's mistake
 
-Whenever a mistake has been made in a registration and a showing has been made that suchmistake occurred in good faith through the fault of the applicant, the Director is authorized to issue a certificate of correction or, in his discretion, a new certificate upon the payment of the prescribed fee: <i>Provided</i>, That the correction does not involve such changes in the registration as to require republication of the mark.
+Whenever a mistake has been made in a registration and a showing has been made that such mistake occurred in good faith through the fault of the applicant, the Director is authorized to issue a certificate of correction or, in his discretion, a new certificate upon the payment of the prescribed fee: <i>Provided</i>, That the correction does not involve such changes in the registration as to require republication of the mark.
 
 (July 5, 1946, ch. 540, title I, §7, 60 Stat. 430; Aug. 17, 1950, ch. 733, 64 Stat. 459; Pub. L. 87–772, §4, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §109, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 105–330, title II, §201(a)(3), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
@@ -82,7 +82,7 @@ Subsec. (f). Pub. L. 87–772, among other changes, struck out “, signed by t
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1998 Amendment
 

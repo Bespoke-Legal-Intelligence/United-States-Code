@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(vi) device similar to any of the devices described in the preceding clauses;
 
-&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Secretary finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
+&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Secretary finds is generally recognized as particularly suitable for sporting purposes) by whatevername known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
 
 &emsp;(C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
 
@@ -72,7 +72,7 @@
 
 &emsp;(ii) a full jacketed projectile larger than .22 caliber designed and intended for use in a handgun and whose jacket has a weight of more than 25 percent of the total weight of the projectile.
 
-(C) The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
+(C) The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile whichthe Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
 
 (18) The term “Secretary” or “Secretary of the Treasury” means the Secretary of the Treasury or his delegate.
 
@@ -224,7 +224,7 @@
 
 &emsp;(B) a device incorporated into the design of the firearm that is designed to prevent the operation of the firearm by anyone not having access to the device; or
 
-&emsp;(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can be used to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
+&emsp;(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can beused to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
 
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
@@ -376,7 +376,7 @@ Section 1702(a) of Pub. L. 101–647 provided that: “This section \[amending t
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–649, §1, Nov. 10, 1988, 102 Stat. 3816, provided that: “This Act \[amending sections 922, 924, and 925 of this title and enacting provisions set out as notes under section 922 of this title and section 1356 of former Title 49, Transportation\] may be cited as the ‘Undetectable Firearms Act of 1988’.”
+Pub. L. 100–649, §1, Nov. 10, 1988, 102 Stat. 3816, provided that: “This Act \[amending sections 922, 924, and 925 of this title and enacting provisions set out as notesunder section 922 of this title and section 1356 of former Title 49, Transportation\] may be cited as the ‘Undetectable Firearms Act of 1988’.”
 
 #### Short Title of 1986 Amendments
 
@@ -444,7 +444,7 @@ Section 901 of title IV of Pub. L. 90–351 provided that:
 
 &emsp;“(5) that the sale or other disposition of concealable weapons by importers, manufacturers, and dealers holding Federal licenses, to nonresidents of the State in which the licensees’ places of business are located, has tended to make ineffective the laws, regulations, and ordinances in the several States and local jurisdictions regarding such firearms;
 
-&emsp;“(6) that there is a casual relationship between the easy availability of firearms other than a rifle or shotgun and juvenile and youthful criminal behavior, and that such firearms have been widely sold by federally licensed importers and dealers to emotionally immature, or thrill-bent juveniles and minors prone to criminal behavior;
+&emsp;“(6) that there is a casual relationship between the easy availability of firearms other than a rifle or shotgun and juvenile and youthful criminal behavior, and that such firearms have been widely sold by federally licensed importers and dealers to emotionallyimmature, or thrill-bent juveniles and minors prone to criminal behavior;
 
 &emsp;“(7) that the United States has become the dumping ground of the castoff surplus military weapons of other nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers (largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation's law enforcement problems;
 
@@ -484,5 +484,5 @@ Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 842, 845, 923, 925, 1791, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 3351, 8921, 8922; title 21 section 881; title 22 section 2778; title 26 section 5845.
+This section is referred to in sections 842, 845, 923, 925, 1791, 1993, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 3351, 7151; title 21 section 881; title 22 section 2778; title 26 section 5845; title 42 section 13726b.
 

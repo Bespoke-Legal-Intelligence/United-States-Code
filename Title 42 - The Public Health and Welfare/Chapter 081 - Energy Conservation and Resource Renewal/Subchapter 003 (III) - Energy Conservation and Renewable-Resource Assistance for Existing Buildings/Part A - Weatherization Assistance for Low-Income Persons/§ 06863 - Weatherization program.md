@@ -10,7 +10,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 (2) The regulations promulgated pursuant to this section shall include provisions—
 
-&emsp;(A) prescribing, in coordination with the Secretary of Housing and Urban Development, the Secretary of Health and Human Services, and the Director of the National Institute of Standards and Technology in the Department of Commerce, for use in various climatic, structural, and human need settings, standards for weatherization materials, energy conservation techniques, and balance combinations thereof, which are designed to achieve a balance of a healthful dwelling environment and maximum practicable energy conservation;
+&emsp;(A) prescribing, in coordination with the Secretary of Housing and Urban Development,the Secretary of Health and Human Services, and the Director of the National Institute of Standards and Technology in the Department of Commerce, for use in various climatic, structural, and human need settings, standards for weatherization materials, energy conservation techniques, and balance combinations thereof, which are designed to achieve a balance of a healthful dwelling environment and maximum practicable energy conservation;
 
 &emsp;(B) that provide guidance to the States in the implementation of this part, including guidance designed to ensure that a State establishes (i) procedures that provide protection under paragraph (5) to tenants paying for energy as a portion of their rent, and (ii) a process for monitoring compliance with its obligations pursuant to this part; and
 
@@ -26,7 +26,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 > Such standards shall be utilized by the Secretary in carrying out this part, the Secretary of Agriculture in carrying out the weatherization program under section 1474(c) of this title, and the Director of the Community Services Administration in carrying out weatherization programs under section 222(a)(12) of the Economic Opportunity Act of 1964 \[42 U.S.C. 2809(a)(12)\]. The Secretary shall take into consideration comments submitted regarding such proposed amendment and shall promulgate and publish final amended regulations not later than 120 days after November 9, 1978.
 
-(4) In carrying out paragraphs (2)(A) and (3), the Secretary shall establish the standards andprocedures described in such paragraphs so that weatherization efforts being carried out under this part and under programs described in the fourth sentence of paragraph (3) will accomplish uniform results among the States in any area with a similar climatic condition.
+(4) In carrying out paragraphs (2)(A) and (3), the Secretary shall establish the standards and procedures described in such paragraphs so that weatherization efforts being carried out under this part and under programs described in the fourth sentence of paragraph (3) will accomplish uniform results among the States in any area with a similar climatic condition.
 
 (5) In any case in which a dwelling consists of a rental unit or rental units, the State, in the implementation of this part, shall ensure that—
 
@@ -46,7 +46,7 @@ If a State does not, within 90 days after the date on which final regulations ar
 
 #### (d) Direct grants to low-income members of Indian tribal organizations or alternate service organizations; application for funds
 
-(1) Notwithstanding any other provision of this part, in any State in which the Secretary determines (after having taken into account the amount of funds made available to the State to carry out the purposes of this part) that the low-income members of an Indian tribe are not receiving benefits under this part that are equivalent to the assistance provided to other low-income persons in such State under this part, and if he further determines that the members of such tribe would be better served by means of a grant made directly to provide such assistance, he shall reserve from sums that would otherwise be allocated to such State under this part not less than 100 percent, nor more than 150 percent, of an amount which bears the same ratio to the State's allocation for the fiscal year involved as the population of all low-income Indians for whom a determination under this subsection has been made bears to the population of all low-income persons in such State.
+(1) Notwithstanding any other provision of this part, in any State in which the Secretary determines (after having taken into account the amount of funds made available to the State to carry out the purposes of this part) that the low-income members of an Indian tribe are not receiving benefits under this part that are equivalent to the assistance provided to other low-income persons in such State under this part, and if he further determines that the members of such tribe would be better served by means of a grant made directly to provide such assistance, he shall reserve from sums that would otherwise be allocated to such State under this part not less than 100 percent, nor more than 150 percent, of an amount which bears the same ratio to the State's allocation for the fiscal year involved asthe population of all low-income Indians for whom a determination under this subsection has been made bears to the population of all low-income persons in such State.
 
 (2) The sums reserved by the Secretary on the basis of his determination under this subsection shall be granted to the tribal organization serving the individuals for whom such a determination has been made, or, where there is no tribal organization, to such other entity as he determines has the capacity to provide services pursuant to this part.
 
@@ -66,7 +66,7 @@ The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (c), and (
 
 1993—Subsec. (b)(1). Pub. L. 103–82 struck out “the Director of the ACTION Agency,” after “Labor,”.
 
-1990—Subsec. (b)(2)(B), (C). Pub. L. 101–440, §7(b)(1), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “designed to insure that (i) the benefits of weatherization assistance in connection with leased dwelling units will accrue primarily to low-income tenants; (ii) the rents on such dwelling units will not be raised because of any increase in the value thereof due solely to weatherization assistance provided under this part; and (iii) no undue or excessiveenhancement will occur to the value of such dwelling units.”
+1990—Subsec. (b)(2)(B), (C). Pub. L. 101–440, §7(b)(1), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “designed to insure that (i) the benefits of weatherization assistance in connection with leased dwelling units will accrue primarily to low-income tenants; (ii) the rents on such dwelling units will not be raised because of any increase in the value thereof due solely to weatherization assistance provided under this part; and (iii) no undue or excessive enhancement will occur to the value of such dwelling units.”
 
 Subsec. (b)(5), (6). Pub. L. 101–440, §7(b)(2), added pars. (5) and (6).
 

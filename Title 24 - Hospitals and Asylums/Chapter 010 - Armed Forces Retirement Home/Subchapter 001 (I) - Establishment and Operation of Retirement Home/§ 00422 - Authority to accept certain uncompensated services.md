@@ -2,13 +2,13 @@
 
 #### (a) Authority to accept services
 
-Subject to subsection (b) of this section and notwithstanding section 1342 of title 31, the Chairman of the Retirement Home Board or the Director of each establishment of the Retirement Home may accept from any person voluntary personal services or gratuitous services unless the acceptance of the voluntary services is disapproved by the Retirement Home Board.
+Subject to subsection (b) of this section and notwithstanding section 1342 of title 31, the Chief Operating Officer or the Director of a facility of the Retirement Home may accept from any person voluntary personal services or gratuitous services.
 
 #### (b) Requirements and limitations
 
-(1) The Chairman of the Retirement Home Board or the Director of the establishment accepting the services shall notify the person of the scope of the services accepted.
+(1) The Chief Operating Officer or the Director of a facility accepting the services shall notify the person offering the services of the scope of the services accepted.
 
-(2) The Chairman or Director shall—
+(2) The Chief Operating Officer or Director shall—
 
 &emsp;(A) supervise the person providing the services to the same extent as that official would supervise a compensated employee providing similar services; and
 
@@ -22,7 +22,7 @@ Subject to subsection (b) of this section and notwithstanding section 1342 of ti
 
 #### (c) Authority to recruit and train persons providing services
 
-The Chairman of the Retirement Home Board or the Director of an establishment of the Retirement Home may recruit and train persons to provide services authorized to be accepted under subsection (a) of this section.
+The Chief Operating Officer or the Director of a facility of the Retirement Home may recruit and train persons to provide services authorized to be accepted under subsection (a) of this section.
 
 #### (d) Status of persons providing services
 
@@ -42,7 +42,19 @@ The Chairman of the Retirement Home Board or the Director of an establishment of
 
 #### (e) Reimbursement of incidental expenses
 
-The Chairman of the Retirement Board or the Director of the establishment accepting services under subsection (a) of this section may providefor reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a) of this section. The Chairman or Director shall determine which expenses qualify for reimbursement under this subsection.
+The Chief Operating Officer or the Director of a facility accepting services under subsection (a) of this section may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a) of this section. The Chief Operating Officer or Director shall determine which expenses qualify for reimbursement under this subsection.
 
-(Pub. L. 101–510, div. A, title XV, §1522, as added Pub. L. 104–201, div. A, title X, §1052(a), Sept. 23, 1996, 110 Stat. 2649.)
+(Pub. L. 101–510, div. A, title XV, §1522, as added Pub. L. 104–201, div. A, title X, §1052(a), Sept. 23, 1996, 110 Stat. 2649; amended Pub. L. 107–107, div. A, title XIV, §1404(b)(4), Dec. 28, 2001, 115 Stat. 1260.)
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §1404(b)(4)(A), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of each establishment” and struck out “unless the acceptance of the voluntary services is disapproved by the Retirement Home Board” before period at end.
+
+Subsec. (b)(1). Pub. L. 107–107, §1404(b)(4)(B), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of the establishment” and inserted “offering the services” after “notify the person”.
+
+Subsec. (b)(2). Pub. L. 107–107, §1404(b)(4)(C), substituted “Chief Operating Officer” for “Chairman” in introductory provisions.
+
+Subsec. (c). Pub. L. 107–107, §1404(b)(4)(D), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of an establishment”.
+
+Subsec. (e). Pub. L. 107–107, §1404(b)(4)(E), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Board or the Director of the establishment” and “Chief Operating Officer or Director” for “Chairman or Director”.
 

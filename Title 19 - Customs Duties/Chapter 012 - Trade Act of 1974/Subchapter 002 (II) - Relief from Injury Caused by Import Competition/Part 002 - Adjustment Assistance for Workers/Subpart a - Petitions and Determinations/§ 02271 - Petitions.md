@@ -2,7 +2,7 @@
 
 #### (a) Filing of petition; publication of notice
 
-A petition for a certification of eligibility to apply for adjustment assistance under this subpart may be filed with the Secretary of Labor (hereinafter in this part referred to as the “Secretary”) by a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) or by their certified or recognized union or other duly authorized representative. Upon receipt of the petition, the Secretaryshall promptly publish notice in the Federal Register that he has received the petition and initiated an investigation.
+A petition for a certification of eligibility to apply for adjustment assistance under this subpart may be filed with the Secretary of Labor (hereinafter in this part referred to as the “Secretary”) by a group of workers (including workers in any agricultural firm or subdivision of an agricultural firm) or by their certified or recognized union or other duly authorized representative. Upon receipt of the petition, the Secretary shall promptly publish notice in the Federal Register that he has received the petition and initiated an investigation.
 
 #### (b) Hearing
 

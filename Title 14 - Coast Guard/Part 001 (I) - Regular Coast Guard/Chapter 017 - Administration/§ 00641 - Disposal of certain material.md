@@ -38,7 +38,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–324, §408, inserted “to the Coast Guard Auxiliary, including any incorporatedunit thereof,” after “with or without charge,” and struck out “to any incorporated unit of the Coast Guard Auxiliary,” after “Boy Scouts of America,”.
+1996—Subsec. (a). Pub. L. 104–324, §408, inserted “to the Coast Guard Auxiliary, including any incorporated unit thereof,” after “with or without charge,” and struck out “to any incorporated unit of the Coast Guard Auxiliary,” after “Boy Scouts of America,”.
 
 Subsec. (c)(2). Pub. L. 104–324, §1119, inserted “, except that the Commandant may conduct sales of materials for which the proceeds of sale will not exceed $5,000 under regulations prescribed by the Commandant” before period at end.
 

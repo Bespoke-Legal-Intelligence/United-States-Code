@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1451, 1708, 1709–1a, 1717, 1731a, 1735f–8, 1735f–14, 1743, 2803, 2810, 3751, 3752 of this title; title 38 section 3728.
+This subchapter is referred to in sections 1451, 1708, 1709–1a, 1717, 1731a, 1735f–8, 1735f–14, 1743, 2803, 2810, 3751, 3752 of this title; title 38 section 3728; title 42 section 5407.
 
 
 ---

@@ -2,7 +2,7 @@
 
 #### (a) Authorization; limitations
 
-The Secretary is authorized, subject to the requirements of section 3412(f) of this title, to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—
+The Secretary is authorized, subject to the requirements of section 3412(f) of this title, to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizationalentities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—
 
 &emsp;(1) any office, bureau, unit, or other entity transferred to the Department and established by statute or any function vested by statute in such an entity or officer of such an entity, except as provided in subsection (b) of this section;
 
@@ -14,7 +14,7 @@ The Secretary is authorized, subject to the requirements of section 3412(f) of t
 
 (1) The Secretary may, in accordance with paragraph (2) of this subsection, consolidate, alter, or discontinue any of the following statutory entities, or reallocate any functions vested by statute in the following statutory entities:
 
-&emsp;(A) the Office of Bilingual Education;
+&emsp;(A) the Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students;
 
 &emsp;(B) the Teacher Corps;
 
@@ -40,9 +40,11 @@ The Secretary is authorized, subject to the requirements of section 3412(f) of t
 
 (2) The Secretary may alter, consolidate, or discontinue any organizational entity continued within the Department and described in paragraph (1) of this subsection or reallocate any function vested by statute in such an entity, upon the expiration of a period of ninety days after the receipt by the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives of notice given by the Secretary containing a full and complete statement of the action proposed to be taken pursuant to this subsection and the facts and circumstances relied upon in support of such proposed action.
 
-(Pub. L. 96–88, title IV, §413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96–496, title II, §202, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
+(Pub. L. 96–88, title IV, §413, Oct. 17, 1979, 93 Stat. 684; Pub. L. 96–496, title II, §202, Dec. 4, 1980, 94 Stat. 2593; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(c)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 107–110, title X, §1072(b), Jan. 8, 2002, 115 Stat. 2089.)
 
 #### Amendments
+
+2002—Subsec. (b)(1)(A). Pub. L. 107–110 substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education”.
 
 1996—Subsec. (b)(1)(H) to (M). Pub. L. 104–208 redesignated subpars. (I) to (M) as (H) to (L), respectively, and struck out former subpar. (H) which authorized Secretary to consolidate, alter, discontinue, or reallocate any functions vested by statute in Office of Libraries and Learning Resources.
 
@@ -51,6 +53,10 @@ The Secretary is authorized, subject to the requirements of section 3412(f) of t
 #### Change of Name
 
 Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### National Institute of Education
 

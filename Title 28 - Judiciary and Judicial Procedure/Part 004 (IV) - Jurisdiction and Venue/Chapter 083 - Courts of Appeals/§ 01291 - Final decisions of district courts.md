@@ -84,5 +84,5 @@ For termination of the United States District Court for the District of the Cana
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1295, 1334, 1452, 2072 of this title; title 11 section 305; title 15 sections 29, 57b–1, 78aa, 79y, 80a–43, 80b–14, 1314, 1719; title 16 sections 825p, 1456; title 18 section 3145; title 31 section 3733; title 39 section 3016; title 42 sections 2000e–5, 3414; title 45 sections 153, 719, 743, 1105; title 50 App. section 17.
+This section is referred to in sections 1295, 1334, 1452, 2072 of this title; title 11 section 305; title 15 sections 29, 57b–1, 78aa, 79y, 80a–43, 80b–14, 1314, 1719; title 16 sections 825p, 1456; title 18 section 3145; title 31 section 3733; title 39 section 3016; title 42 section 2000e–5; title 45 sections 153, 719, 743, 1105; title 50 App. section 17.
 

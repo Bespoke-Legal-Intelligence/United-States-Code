@@ -419,6 +419,12 @@
 | (k) | Good-faith exception. |
 | (<i>l</i>) | Limitation of remedies. |
 | (m) | Injunctive relief. |
+| [1681v.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681v%20-%20Disclosures%20to%20governmental%20agencies%20for%20counterterrorism%20purposes.md) | Disclosures to governmental agencies for counterterrorism purposes. |
+| (a) | Disclosure. |
+| (b) | Form of certification. |
+| (c) | Confidentiality. |
+| (d) | Rule of construction. |
+| (e) | Safe harbor. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

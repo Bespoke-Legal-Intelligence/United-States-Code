@@ -64,7 +64,7 @@ The Water Pollution Control Act, referred to in subsec. (b)(3), is act June 30, 
 
 The statutory system governing the disposal of solid wastes set out in this chapter is found in Pub. L. 89–272, title II, as amended in its entirety and completely revised by section 2 of Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2795. See Short Title of 1976 Amendment note below.
 
-The act, as set out in this chapter, carries a statutory credit showing the sections as having been added by Pub. L. 94–580, without reference to amendments to the act between its original enactment in 1965 and its complete revision in 1976. The act, as originally enacted in 1965, was classified to section 3251 et seq. of this title. For a recapitulation of the provisions of the act as originally enacted, see notes in chapter 39 (§3251 et seq.) of this title where the act was originally set out.
+The act, as set out in this chapter, carries a statutory credit showing the sections as having been added by Pub. L. 94–580, without reference to amendments to theact between its original enactment in 1965 and its complete revision in 1976. The act, as originally enacted in 1965, was classified to section 3251 et seq. of this title. For a recapitulation of the provisions of the act as originally enacted, see notes in chapter 39 (§3251 et seq.) of this title where the act was originally set out.
 
 #### Prior Provisions
 
@@ -96,7 +96,7 @@ Section 1 of Pub. L. 98–616 provided that: “This Act \[enacting sections 691
 
 Pub. L. 96–482, §1, Oct. 21, 1980, 94 Stat. 2334, provided: “This Act \[enacting sections 6933, 6934, 6941a, 6955, and 6956 of this title, amending sections 6903, 6905, 6911, 6912, 6916, 6921, 6922, 6924, 6925, 6927 to 6931, 6941 to 6943, 6945, 6946, 6948, 6949, 6952, 6953, 6962, 6963, 6964, 6971, 6973, 6974, 6976, 6979, and 6982 of this title; and enacting and repealing provisions set out as a note under section 6981 of this title\] may be cited as the ‘Solid Waste Disposal Act Amendments of 1980’.”
 
-Pub. L. 96–463, §1, Oct. 15, 1980, 94 Stat. 2055, provided: “This Act \[enacting sections 6901a, 6914a and 6932 of this title, amending sections 6903, 6943 and 6948 of this title, and enacting provisions set out as notes undersections 6363 and 6932 of this title\] may be cited as the ‘Used Oil Recycling Act of 1980’.”
+Pub. L. 96–463, §1, Oct. 15, 1980, 94 Stat. 2055, provided: “This Act \[enacting sections 6901a, 6914a and 6932 of this title, amending sections 6903, 6943 and 6948 of this title, and enacting provisions set out as notes under sections 6363 and 6932 of this title\] may be cited as the ‘Used Oil Recycling Act of 1980’.”
 
 #### Short Title of 1976 Amendment
 

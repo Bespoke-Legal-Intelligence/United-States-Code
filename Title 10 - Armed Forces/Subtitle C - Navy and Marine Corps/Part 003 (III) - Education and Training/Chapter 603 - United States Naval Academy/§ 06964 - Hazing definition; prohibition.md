@@ -10,7 +10,7 @@
 
 (e) A midshipman who is sentenced to imprisonment for hazing may not be confined with persons who have been convicted of crimes or misdemeanors.
 
-(f) A midshipman who is dismissed from the Academy for hazing may not be reappointed as a midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, or Marine Corps until two years after the graduation of the class of which he was a member.
+(f) A midshipman who is dismissed from the Academy for hazing may not be reappointed asa midshipman or be appointed as a commissioned officer in the Army, Navy, Air Force, or Marine Corps until two years after the graduation of the class of which he was a member.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 433; Pub. L. 99–145, title XIII, §1301(c)(2), Nov. 8, 1985, 99 Stat. 736; Pub. L. 101–189, div. A, title XVI, §1622(e)(8), Nov. 29, 1989, 103 Stat. 1605.)
 

@@ -82,7 +82,7 @@ For purposes of this title—
 
 &emsp;(2) the credit under this section shall be treated in the same manner as the credit under section 936, and
 
-&emsp;(3) a corporation to which this section applies shall be treated in the same manner as if it were a corporation electing the application of section 936.
+&emsp;(3) a corporation to which this section applies shall be treated in the same manner as ifit were a corporation electing the application of section 936.
 
 #### (f) Denial of double benefit
 

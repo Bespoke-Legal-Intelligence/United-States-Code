@@ -18,7 +18,7 @@
 
 #### (1) Intervention
 
-&emsp;Notwithstanding any other law or rule of law, any person who is entitled to notice of asummons under subsection (a) shall have the right to intervene in any proceeding with respect to the enforcement of such summons under section 7604.
+&emsp;Notwithstanding any other law or rule of law, any person who is entitled to notice of a summons under subsection (a) shall have the right to intervene in any proceeding with respect to the enforcement of such summons under section 7604.
 
 #### (2) Proceeding to quash
 

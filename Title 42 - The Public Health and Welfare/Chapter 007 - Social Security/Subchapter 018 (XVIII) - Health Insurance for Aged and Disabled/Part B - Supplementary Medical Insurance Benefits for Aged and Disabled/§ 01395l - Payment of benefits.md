@@ -878,7 +878,7 @@ Section 9320(k) of the Omnibus Budget Reconciliation Act of 1986, as amended by 
 
 The amendments made by section 9320 of the Omnibus Budget Reconciliation Act of 1986, referred to in subsec. (<i>l</i>)(3)(B), are amendments made by section 9320 of Pub. L. 99–509, which amended sections 1395k, 1395<i>l</i>, 1395u, 1395x, 1395y, 1395aa, 1395bb, 1395cc, 1395ww, 1396a, and 1396n of this title and provisions set out as a note under section 1395ww of this title.
 
-Clause (iii), referred to in subsec. (t)(3)(C)(ii), was redesignated cl. (iv), and a new cl. (iii) was added, by Pub. L. 106–554, §1(a)(6) \[title IV, §401(b)(1), Dec. 21, 2000, 114 Stat. 2763, 2763A–502.
+Clause (iii), referred to in subsec. (t)(3)(C)(ii), was redesignated cl. (iv), and a new cl. (iii) was added, by Pub. L. 106–554, §1(a)(6) \[title IV, §401(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502.
 
 Section 4521 of The Balanced Budget Act of 1997, referred to in subsec. (t)(7)(F), is section 4521 of Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 444, which amended this section and enacted provisions set out as a note under this section.
 

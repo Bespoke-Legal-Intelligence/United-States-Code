@@ -24,7 +24,7 @@ Each application for an order approving electronic surveillance under this subch
 
 &emsp;&emsp;(A) that the certifying official deems the information sought to be foreign intelligence information;
 
-&emsp;&emsp;(B) that the purpose of the surveillance is to obtain foreign intelligence information;
+&emsp;&emsp;(B) that a significant purpose of the surveillance is to obtain foreign intelligence information;
 
 &emsp;&emsp;(C) that such information cannot reasonably be obtained by normal investigative techniques;
 
@@ -46,7 +46,7 @@ Each application for an order approving electronic surveillance under this subch
 
 #### (b) Exclusion of certain information respecting foreign power targets
 
-Whenever the target of the electronic surveillance is a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, and each of the facilities or places at which the surveillance is directed is owned, leased, or exclusively used by that foreign power, the application need not contain the information required by paragraphs (6), (7)(E), (8), and (11) of subsection (a) of this section, but shall state whether physical entry is required to effect the surveillance and shall contain such information about the surveillance techniques and communications or other information concerning United States persons likely to be obtained as may be necessary to assess the proposed minimization procedures.
+Whenever the target of the electronic surveillance is a foreign power, as defined in section 1801(a)(1), (2), or (3) of this title, and each of the facilities or places at which the surveillance is directed is owned, leased, or exclusively used bythat foreign power, the application need not contain the information required by paragraphs (6), (7)(E), (8), and (11) of subsection (a) of this section, but shall state whether physical entry is required to effect the surveillance and shall contain such information about the surveillance techniques and communications or other information concerning United States persons likely to be obtained as may be necessary to assess the proposed minimization procedures.
 
 #### (c) Additional affidavits or certifications
 
@@ -70,11 +70,21 @@ The judge may require the applicant to furnish such other information as may be 
 
 (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
-(Pub. L. 95–511, title I, §104, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 106–567, title VI, §602(a), Dec. 27, 2000, 114 Stat. 2851.)
+(Pub. L. 95–511, title I, §104, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 106–567, title VI, §602(a), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
 
 #### Amendments
 
+2001—Subsec. (a)(7)(B). Pub. L. 107–56, §§218, 224, temporarily substituted “a significant purpose” for “the purpose”. See Termination Date of 2001 Amendment note below.
+
 2000—Subsec. (e). Pub. L. 106–567 added subsec. (e).
+
+#### Termination Date of 2001 Amendment
+
+Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 
 #### Designation of Certain Officials To Make Certifications
 
@@ -82,5 +92,5 @@ For designation of certain officials to make certifications required by subsec. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1802, 1805 of this title.
+This section is referred to in sections 1802, 1805, 1806 of this title.
 

@@ -1,8 +1,8 @@
 ### §46504. Interference with flight crew members and attendants
 
-An individual on an aircraft in the special aircraft jurisdiction of the United States who, by assaulting or intimidating a flight crew member or flight attendant of the aircraft, interferes with the performance of the duties of the member or attendant or lessens the ability of the member or attendant to perform those duties, shall be fined under title 18, imprisoned for not more than 20 years, or both. However, if a dangerous weapon is used in assaulting or intimidating the member or attendant, the individual shall be imprisoned for any term of years or for life.
+An individual on an aircraft in the special aircraft jurisdiction of the United States who, by assaulting or intimidating a flight crew member or flight attendant of the aircraft, interferes with the performance of the duties of the member or attendant or lessens the ability of the member or attendant to perform those duties, or attempts or conspires to do such an act, shall be fined under title 18, imprisoned for not more than 20 years, or both. However, if a dangerous weapon is used in assaulting or intimidating the member or attendant, the individual shall be imprisoned for any term of years or for life.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244; Pub. L. 107–56, title VIII, §811(i), Oct. 26, 2001, 115 Stat. 382.)
 
 Historical and Revision Notes
 
@@ -22,7 +22,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(j); added Sept. 5, 1961, Pu
 
 The words “or threatens” are omitted as being included in “intimidating”. The words “(including any steward or stewardess)” are omitted as being included in “attendant”. The words “fined under title 18” are substituted for “fined not more than $10,000” for consistency with title 18. The words “deadly or” are omitted as surplus.
 
+#### Amendments
+
+2001—Pub. L. 107–56 inserted “or attempts or conspires to do such an act,” before “shall be fined under title 18,”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 46302, 46507 of this title; title 18 sections 3286, 3663.
+This section is referred to in sections 46302, 46507 of this title; title 18 sections 2332b, 3286, 3663.
 

@@ -34,7 +34,7 @@ The duties described in this subsection are the following:
 
 #### (3) Enforcement
 
-&emsp;Taking of adverse actions (including requiring corrective action, imposing sanctions, andrefusing to renew, suspending, or canceling accreditation or approval) for noncompliance with applicable requirements, and notifying the agency or person against whom adverse actions are taken of the deficiencies necessitating the adverse action.
+&emsp;Taking of adverse actions (including requiring corrective action, imposing sanctions, and refusing to renew, suspending, or canceling accreditation or approval) for noncompliance with applicable requirements, and notifying the agency or person against whom adverse actions are taken of the deficiencies necessitating the adverse action.
 
 #### (4) Data, records, and reports
 

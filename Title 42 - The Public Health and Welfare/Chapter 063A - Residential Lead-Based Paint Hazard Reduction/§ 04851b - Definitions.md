@@ -112,7 +112,7 @@ For the purposes of this chapter, the following definitions shall apply:
 
 #### (22) Reduction
 
-&emsp;The term “reduction” means measures designed to reduce or eliminate human exposure to lead-based paint hazards through methods including interim controls and abatement.
+&emsp;The term “reduction” means measures designed to reduce or eliminate human exposureto lead-based paint hazards through methods including interim controls and abatement.
 
 #### (23) Residential dwelling
 

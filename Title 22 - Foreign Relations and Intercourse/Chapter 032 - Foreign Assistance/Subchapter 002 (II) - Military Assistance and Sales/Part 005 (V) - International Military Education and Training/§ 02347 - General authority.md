@@ -8,7 +8,7 @@ The President is authorized to furnish, on such terms and conditions consistent 
 
 &emsp;(3) observation and orientation visits to military facilities and related activities in the United States and abroad.
 
-(Pub. L. 87–195, pt. II, §541, as added Pub. L. 94–329, title I, §106(a), June 30, 1976, 90 Stat. 732; amended Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1997; Pub. L. 102–583, §10, Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §112(a), July 21, 1996, 110 Stat. 1427.)
+(Pub. L. 87–195, pt. II, §541, as added Pub. L. 94–329, title I, §106(a), June 30, 1976, 90 Stat. 732;amended Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1997; Pub. L. 102–583, §10, Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §112(a), July 21, 1996, 110 Stat. 1427.)
 
 #### References in Text
 

@@ -6,7 +6,7 @@ If, however, in any case wherein death was caused, the law of the place where th
 
 With respect to any claim under this chapter, the United States shall be entitled to assert any defense based upon judicial or legislative immunity which otherwise would have been available to the employee of the United States whose act or omission gave rise to the claim, as well as any other defenses to which the United States is entitled.
 
-With respect to any claim to which this section applies, the Tennessee Valley Authorityshall be entitled to assert any defense which otherwise would have been available to the employee based upon judicial or legislative immunity, which otherwise would have been available to the employee of the Tennessee Valley Authority whose act or omission gave rise to the claim as well as any other defenses to which the Tennessee Valley Authority is entitled under this chapter.
+With respect to any claim to which this section applies, the Tennessee Valley Authority shall be entitled to assert any defense which otherwise would have been available to the employee based upon judicial or legislative immunity, which otherwise would have been available to the employee of the Tennessee Valley Authority whose act or omission gave rise to the claim as well as any other defenses to which the Tennessee Valley Authority is entitled under this chapter.
 
 (June 25, 1948, ch. 646, 62 Stat. 983; Pub. L. 100–694, §§4, 9(c), Nov. 18, 1988, 102 Stat. 4564, 4567.)
 

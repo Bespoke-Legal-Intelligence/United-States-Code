@@ -14,7 +14,7 @@ The Secretary shall pay not more than the fair market value, as determined by hi
 
 #### (d) Exchange of property; cash equalization payments
 
-When acquiring land by exchange the Secretary may accept title to any nonfederallyowned land located within the boundaries of the national seashore and convey to the grantor any federally owned land under the jurisdiction of the Secretary. The lands so exchanged shall be approximately equal in fair market value, but the Secretary may accept cash from or pay cash to the grantor in order to equalize the values of the lands exchanged.
+When acquiring land by exchange the Secretary may accept title to any nonfederally owned land located within the boundaries of the national seashore and convey to the grantor any federally owned land under the jurisdiction of the Secretary. The lands so exchanged shall be approximately equal in fair market value, but the Secretary may accept cash from or pay cash to the grantor in order to equalize the values of the lands exchanged.
 
 #### (e) Limitation of condemnation power during existence of zoning ordinance; Davis Park-Smith Point County Park area exception; beneficial owner's election of alternatives as condition for acquisition
 
@@ -56,7 +56,7 @@ The authority of the Secretary to condemn undeveloped tracts within the Dune Dis
 
 &emsp;(iv) any property acquired prior to October 1, 1982, that the Secretary determines should be retained to further the purpose of sections 459e to 459e–9 of this title.
 
-(2) Notwithstanding any other provision of law, all moneys received from sales under paragraph (1) of this subsection may be retained andshall be available to the Secretary, without further appropriation, only for purposes of acquiring property under sections 459e to 459e–9 of this title.
+(2) Notwithstanding any other provision of law, all moneys received from sales under paragraph (1) of this subsection may be retained and shall be available to the Secretary, without further appropriation, only for purposes of acquiring property under sections 459e to 459e–9 of this title.
 
 #### (i) Injunctive relief; termination
 

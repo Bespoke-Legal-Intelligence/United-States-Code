@@ -28,11 +28,15 @@ No guarantee may be made with respect to any debenture under subsection (a) of t
 
 &emsp;(7) with respect to each loan made from the proceeds of such debenture, the Administration—
 
-&emsp;&emsp;(A) assesses and collects a fee, which shall be payable by the borrower, in an amount established annually by the Administration, which amount shall not exceed the lesser of—
+&emsp;&emsp;(A) assesses and collects a fee, which shall be payable by the borrower, in an amount established annually by the Administration, which amount shall not exceed—
 
-&emsp;&emsp;&emsp;(i) 0.9375 percent per year of the outstanding balance of the loan; and
+&emsp;&emsp;&emsp;(i) the lesser of—
 
-&emsp;&emsp;&emsp;(ii) the minimum amount necessary to reduce the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to zero; and
+&emsp;&emsp;&emsp;&emsp;(I) 0.9375 percent per year of the outstanding balance of the loan; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the minimum amount necessary to reduce the cost (as defined in section 661a of title 2) to the Administration of purchasing and guaranteeing debentures under this chapter to zero; and
+
+&emsp;&emsp;&emsp;(ii) 50 percent of the amount established under clause (i) in the case of a loan made during the 2-year period beginning on October 1, 2002, for the life of the loan; and
 
 &emsp;&emsp;(B) uses the proceeds of such fee to offset the cost (as such term is defined in section 661a of title 2) to the Administration of making guarantees under subsection (a) of this section.
 
@@ -104,13 +108,21 @@ All fees, interest, and profits received and retained by the Administration unde
 
 &emsp;&emsp;(C) for any project financed after September 30, 1996, shall not pay any default interest rate higher than the interest rate on the note prior to the date of default.
 
-(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, §1(a)(9) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684.)
+#### (i) Two-year waiver of fees
+
+The Administration may not assess or collect any up front guarantee fee with respect to loans made under this subchapter during the 2-year period beginning on October 1, 2002.
+
+(Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, §1(a)(9) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 107–100, §6(b), Dec. 21, 2001, 115 Stat. 971.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (b)(7)(A)(ii) and (g), see References in Text note set out under section 661 of this title.
 
 #### Amendments
+
+2001—Subsec. (b)(7)(A). Pub. L. 107–100, §6(b)(1), designated existing provisions following “not exceed” as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), realigned margins, and added cl. (ii).
+
+Subsec. (i). Pub. L. 107–100, §6(b)(2), added subsec. (i).
 
 2000—Subsec. (f). Pub. L. 106–554 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The fees authorized by subsections (b) and (c) of this section shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 2000.”
 
@@ -144,9 +156,21 @@ Subsec. (c). Pub. L. 100–590, §112(c)(B), formerly §112(c)(1)(B), as amended
 
 Subsec. (d). Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 100–590, §117, which directed substitution of “(1) For purposes of” for “For purposes of”,redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed to subsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, §112(c)(1).
+Subsec. (e). Pub. L. 100–590, §117, which directed substitution of “(1) For purposes of” for “For purposes of”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed to subsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, §112(c)(1).
 
 Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2001 Amendment; Use of Funds
+
+Pub. L. 107–100, §6(d), (e), Dec. 21, 2001, 115 Stat. 972, provided that:
+
+“(d)
+
+Use of Funds.—The amendments made by this section to section 503 of the Small Business Investment Act of 1958 \[15 U.S.C. 697\], shall be effective only to the extent that funds are made available under appropriations Acts, which funds shall be utilized by the Administrator to offset the cost (as such term is defined in section 502 of the Federal Credit Reform Act of 1990 \[2 U.S.C. 661a\]) of such amendments.
+
+“(e)
+
+Effective Date.—The amendments made by this section \[amending this section and section 636 of this title\] shall become effective on October 1, 2002.”
 
 #### Effective Date of 1997 Amendment
 

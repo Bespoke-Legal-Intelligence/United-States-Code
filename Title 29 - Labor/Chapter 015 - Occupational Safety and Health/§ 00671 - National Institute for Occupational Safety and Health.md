@@ -60,7 +60,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 &emsp;&emsp;(iii) with a demonstrated ability to reach, and involve in lead-based paint training programs, target populations of individuals who are or will be engaged in lead-based paint activities.
 
-> &emsp;Grants under this subsection shall be awarded only to those organizations that fund at least 30 percent of their lead-based paint activities training programs from non-Federal sources,excluding in-kind contributions. Grants may also be made to local governments to carry out such training and education for their employees.
+> &emsp;Grants under this subsection shall be awarded only to those organizations that fund at least 30 percent of their lead-based paint activities training programs from non-Federal sources, excluding in-kind contributions. Grants may also be made to local governments to carry out such training and education for their employees.
 
 &emsp;(C) There are authorized to be appropriated, at a minimum, $10,000,000 to the Institute for each of the fiscal years 1994 through 1997 to make grants under this paragraph.
 

@@ -10,7 +10,7 @@ The taxable income of the holder of the ownership interest or any high-yield int
 
 #### (b) Coordination with section 172
 
-Any increase in the taxable income of any holder of the ownership interest or a high-yieldinterest in a FASIT for any taxable year by reason of subsection (a) shall be disregarded—
+Any increase in the taxable income of any holder of the ownership interest or a high-yield interest in a FASIT for any taxable year by reason of subsection (a) shall be disregarded—
 
 &emsp;(1) in determining under section 172 the amount of any net operating loss for such taxable year, and
 

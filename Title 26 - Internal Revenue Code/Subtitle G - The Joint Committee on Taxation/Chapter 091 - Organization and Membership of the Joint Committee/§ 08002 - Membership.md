@@ -40,7 +40,7 @@ A vacancy in the Joint Committee—
 
 #### (B) Expiration of Congress
 
-&emsp;&emsp;In the case of a vacancy after the expiration of a Congress which would be filled by the Committee on Ways and Means, the members of such Committee who are continuing to serve as members of the JointCommittee may designate a person who, immediately prior to such expiration, was a member of such Committee and who is re-elected to the House of Representatives, to serve until his successor is chosen by such Committee.
+&emsp;&emsp;In the case of a vacancy after the expiration of a Congress which would be filled by the Committee on Ways and Means, the members of such Committee who are continuing to serve as members of the Joint Committee may designate a person who, immediately prior to such expiration, was a member of such Committee and who is re-elected to the House of Representatives, to serve until his successor is chosen by such Committee.
 
 #### (d) Allowances
 

@@ -6,7 +6,7 @@ All persons within the jurisdiction of the United States shall have the same rig
 
 #### (b) “Make and enforce contracts” defined
 
-For purposes of this section, the term “make and enforce contracts” includes the making, performance, modification, and termination ofcontracts, and the enjoyment of all benefits, privileges, terms, and conditions of the contractual relationship.
+For purposes of this section, the term “make and enforce contracts” includes the making, performance, modification, and termination of contracts, and the enjoyment of all benefits, privileges, terms, and conditions of the contractual relationship.
 
 #### (c) Protection against impairment
 
@@ -84,7 +84,7 @@ Section 118 of title I of Pub. L. 102–166 provided that: “Where appropriate 
 
 #### Executive Order No. 13050
 
-Ex. Ord. No. 13050, June 13, 1997, 62 F.R. 32987, which established the President's Advisory Board on Race, was revoked by Ex. Ord. No. 13138, §3(e), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13050, June 13, 1997, 62 F.R. 32987, which established the President's Advisory Board on Race, was revoked by Ex. Ord. No. 13138, §3(e), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

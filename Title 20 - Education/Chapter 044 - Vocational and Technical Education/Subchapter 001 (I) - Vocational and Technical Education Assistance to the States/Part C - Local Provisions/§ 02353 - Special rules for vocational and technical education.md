@@ -32,7 +32,7 @@ Nothing in section 2351 or 2352 of this title shall be construed—
 
 &emsp;(2) to prohibit an eligible institution or consortium thereof that receives assistance under section 2352 of this title, from working with a local educational agency or consortium thereof that receives assistance under section 2351 of this title, to carry out postsecondary and adult vocational and technical education programs in accordance with this subchapter; or
 
-&emsp;(3) to require a charter school, that provides vocational and technical education programs and is considered a local educational agency under State law, to jointly establish the charter school's eligibility for assistance under this subchapter unless the charter school is explicitly permitted to do so under the State's charter school statute.
+&emsp;(3) to require a charter school, that provides vocational and technical education programs and is considered a local educational agency under State law, to jointly establish the charter school's eligibility for assistance underthis subchapter unless the charter school is explicitly permitted to do so under the State's charter school statute.
 
 #### (d) Consistent application
 

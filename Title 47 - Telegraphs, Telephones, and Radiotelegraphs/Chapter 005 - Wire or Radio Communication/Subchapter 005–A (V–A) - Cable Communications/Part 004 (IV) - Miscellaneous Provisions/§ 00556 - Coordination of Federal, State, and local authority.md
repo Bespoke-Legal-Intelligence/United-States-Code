@@ -6,7 +6,7 @@ Nothing in this subchapter shall be construed to affect any authority of any Sta
 
 #### (b) State jurisdiction with regard to cable services
 
-Nothing in this subchapter shall be construed to restrict a State from exercising jurisdiction with regard to cable services consistent with this subchapter.
+Nothing in this subchapter shall be construed to restrict a State from exercising jurisdictionwith regard to cable services consistent with this subchapter.
 
 #### (c) Preemption
 

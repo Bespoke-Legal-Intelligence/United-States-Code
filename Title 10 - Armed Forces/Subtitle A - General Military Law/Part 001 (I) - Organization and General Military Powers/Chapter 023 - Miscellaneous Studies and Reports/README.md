@@ -2,6 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
+| [480\.](%C2%A7%2000480%20-%20Reports%20to%20Congress%20submission%20in%20electronic%20form.md) | Reports to Congress: submission in electronic form. |
 | [481\.](%C2%A7%2000481%20-%20Race%20relations%2C%20gender%20discrimination%2C%20and%20hate%20group%20activity%20annual%20survey%20and%20report.md) | Race relations, gender discrimination, and hate group activity: annual survey and report. |
 | [482\.](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md) | Quarterly reports: personnel and unit readiness. |
 | [483\.](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md) | Reports on transfers from high-priority readiness appropriations. |
@@ -13,6 +14,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title X, §1042(b), Dec. 28, 2001, 115 Stat. 1218, added item 480.
 
 1999—Pub. L. 106–65, div. A, title II, §241(a)(2), title III, §361(d)(3), title IX, §923(b)(2), Oct. 5, 1999, 113 Stat. 550, 575, 725, added items 486 and 487 and repealed Pub. L. 105–261, §373(d)(2). See 1998 Amendment note below.
 
@@ -31,6 +34,7 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
+- [&sect; 00480 - Reports to Congress submission in electronic form](%C2%A7%2000480%20-%20Reports%20to%20Congress%20submission%20in%20electronic%20form.md)
 - [&sect; 00481 - Race relations, gender discrimination, and hate group activity annual survey and report](%C2%A7%2000481%20-%20Race%20relations%2C%20gender%20discrimination%2C%20and%20hate%20group%20activity%20annual%20survey%20and%20report.md)
 - [&sect; 00482 - Quarterly reports personnel and unit readiness](%C2%A7%2000482%20-%20Quarterly%20reports%20personnel%20and%20unit%20readiness.md)
 - [&sect; 00483 - Reports on transfers from high-priority readiness appropriations](%C2%A7%2000483%20-%20Reports%20on%20transfers%20from%20high-priority%20readiness%20appropriations.md)

@@ -12,7 +12,7 @@ Amounts in the Account may be obligated by the Secretary of Energy for the acqui
 
 &emsp;(2) in the case of any fiscal year, subject to section 7270 of this title, in such aggregate amounts as may be appropriated in advance in appropriation Acts; and
 
-&emsp;(3) in the case of any fiscal year, notwithstanding section 7270 of this title, in an aggregate amount equal to the aggregate amount of the receipts to the United States from the sale of petroleum products in any drawdown anddistribution of the Strategic Petroleum Reserve under section 6241 of this title, including a drawdown and distribution carried out under subsection (g) of such section, or from the sale of petroleum products under section 6240(f) of this title.
+&emsp;(3) in the case of any fiscal year, notwithstanding section 7270 of this title, in an aggregate amount equal to the aggregate amount of the receipts to the United States from the sale of petroleum products in any drawdown and distribution of the Strategic Petroleum Reserve under section 6241 of this title, including a drawdown and distribution carried out under subsection (g) of such section, or from the sale of petroleum products under section 6240(f) of this title.
 
 > Funds available to the Secretary of Energy for obligation under this subsection may remain available without fiscal year limitation.
 

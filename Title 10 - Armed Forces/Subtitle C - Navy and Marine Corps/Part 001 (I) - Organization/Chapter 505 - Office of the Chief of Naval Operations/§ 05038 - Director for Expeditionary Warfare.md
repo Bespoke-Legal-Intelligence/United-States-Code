@@ -1,6 +1,6 @@
 ### §5038. Director for Expeditionary Warfare
 
-(a) One of the Directors within the Office of the Deputy Chief of Naval Operations for Resources, Warfare Requirements, and Assessments shall be the Director for Expeditionary Warfare who shall be detailed from officers on the active-duty list of the Marine Corps.
+(a) One of the Directors within the office of the Deputy Chief of Naval Operations with responsibility for warfare requirements and programs shall be the Director for Expeditionary Warfare who shall be detailed from officers on the active-duty list of the Marine Corps.
 
 (b) An officer assigned to the position of Director for Expeditionary Warfare, while so serving, has the grade of major general.
 
@@ -8,9 +8,11 @@
 
 (d) The Chief of Naval Operations shall transfer duties, responsibilities, and staff from other personnel within the Office of the Chief of Naval Operations as necessary to fully support the Director for Expeditionary Warfare.
 
-(Added Pub. L. 102–484, div. A, title IX, §935(b)(1), Oct. 23, 1992, 106 Stat. 2478; amended Pub. L. 103–35, title II, §201(c)(10), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title IX, §944, Nov. 30, 1993, 107 Stat. 1737.)
+(Added Pub. L. 102–484, div. A, title IX, §935(b)(1), Oct. 23, 1992, 106 Stat. 2478; amended Pub. L. 103–35, title II, §201(c)(10), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title IX, §944, Nov. 30, 1993, 107 Stat. 1737; Pub. L. 107–107, div. A, title IX, §932, Dec. 28, 2001, 115 Stat. 1200.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107 substituted “office of the Deputy Chief of Naval Operations with responsibility for warfare requirements and programs” for “Office of the Deputy Chief of Naval Operations for Resources, Warfare Requirements, and Assessments”.
 
 1993—Subsec. (e). Pub. L. 103–160 struck out subsec. (e) which read as follows: “This section shall cease to apply on November 1, 1997.”
 

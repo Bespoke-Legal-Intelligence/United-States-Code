@@ -6,7 +6,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 &emsp;(2) The United States should continue to negotiate directly with Hong Kong to conclude bilateral economic agreements.
 
-&emsp;(3) The United States should continue to treat Hong Kong as a territory which is fully autonomous from the United Kingdom and, after June 30, 1997, should treat Hong Kong as a territory which is fully autonomous from the People's Republic of China with respect to economic and trade matters.
+&emsp;(3) The United States should continue to treat Hong Kong as a territory which is fullyautonomous from the United Kingdom and, after June 30, 1997, should treat Hong Kong as a territory which is fully autonomous from the People's Republic of China with respect to economic and trade matters.
 
 &emsp;(4) The United States should continue to grant the products of Hong Kong nondiscriminatory trade treatment by virtue of Hong Kong's membership in the General Agreement on Tariffs and Trade.
 

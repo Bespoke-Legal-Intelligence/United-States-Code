@@ -4,7 +4,7 @@
 
 The National Council shall—
 
-&emsp;(1) prepare and submit to the Secretary, for the Secretary's review and approval, an annual marketing and promotion plan which contains descriptions of consumer education, research, and other marketing and promotion activities of the National Council for the following year, including plans to coordinate the activities of councils established under section 4009 of this title;
+&emsp;(1) prepare and submit to the Secretary, for the Secretary's review and approval, an annual marketing and promotion plan whichcontains descriptions of consumer education, research, and other marketing and promotion activities of the National Council for the following year, including plans to coordinate the activities of councils established under section 4009 of this title;
 
 &emsp;(2) prepare and submit to the Secretary, for the Secretary's review and approval, an annual budget of the anticipated expenses and disbursements of the National Council, including probable costs of consumer education, research, and other marketing and promotion plans or projects, and referenda under section 4009 of this title;
 

@@ -14,13 +14,13 @@ For purposes of this subchapter:
 
 &emsp;(4) The term “local educational agency” means—
 
-&emsp;&emsp;(A) any local educational agency as defined in section 8801 of this title; and
+&emsp;&emsp;(A) any local educational agency as defined in section 7801 of this title; and
 
 &emsp;&emsp;(B) the governing authority of any nonprofit elementary or secondary school.
 
 &emsp;(5) The term “nonprofit elementary or secondary school” means—
 
-&emsp;&emsp;(A) any elementary or secondary school as defined in section 8801 of this title owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and
+&emsp;&emsp;(A) any elementary or secondary school as defined in section 7801 of this title owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and
 
 &emsp;&emsp;(B) any school of any agency of the United States.
 
@@ -40,9 +40,13 @@ For purposes of this subchapter:
 
 &emsp;(9) The term “response action” has the meaning given such term by section 2642(11) of title 15.
 
-(Pub. L. 98–377, title V, §511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §§10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103–382, title III, §394(c), Oct. 20, 1994, 108 Stat. 4027.)
+(Pub. L. 98–377, title V, §511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §§10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103–382, title III, §394(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(<i>l</i>)(2), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### Amendments
+
+2002—Par. (4)(A). Pub. L. 107–110, §1076(<i>l</i>)(2)(A), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(10)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(1), which had substituted “14101” for “198(a)(10)” in the original. See 1994 Amendment note below.
+
+Par. (5)(A). Pub. L. 107–110, §1076(<i>l</i>)(2)(B), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(7)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted “14101” for “198(a)(7)” in the original. See 1994 Amendment note below.
 
 1994—Par. (4)(A). Pub. L. 103–382, §394(c)(1), substituted “section 8801 of this title” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
 
@@ -65,6 +69,10 @@ Pars. (6), (7). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for
 Par. (8). Pub. L. 101–637, §14(c)(6)(B), substituted “The” for “the” at beginning.
 
 Par. (9). Pub. L. 101–637, §10(2), added par. (9).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -192,7 +192,7 @@ Subsec. (a)(10). Pub. L. 96–222, §103(a)(2)(B)(i), redesignated par. (10) as 
 
 Subsec. (c)(5)(B). Pub. L. 96–222, §103(a)(3), inserted provisions requiring that this subparagraph not apply for purposes of applying the energy percentage.
 
-Subsec. (e)(3). Pub. L. 96–222, §103(a)(4)(A), inserted provisions requiring that this paragraph not apply withrespect to any property which is treated as section 38 property by reason of section 48(a)(1)(E).
+Subsec. (e)(3). Pub. L. 96–222, §103(a)(4)(A), inserted provisions requiring that this paragraph not apply with respect to any property which is treated as section 38 property by reason of section 48(a)(1)(E).
 
 Subsec. (f)(1), (2). Pub. L. 95–600, §312(c)(2), as amended by Pub. L. 96–222, §103(a)(2)(A), substituted “ ‘described in section 50 (as in effect before its repeal by the Revenue Act of 1978)’ ” for “ ‘described in section 50’ ”.
 
@@ -268,7 +268,7 @@ Subsec. (d)(4)(D), (6). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his
 
 Subsec. (e)(1)(C). Pub. L. 94–455, §802(b)(4), substituted “subsection (a)(3)” for “subsection (a)(2)”.
 
-Subsec. (e)(2). Pub. L. 94–455, §1607(b)(1)(B), substituted in subpar. (B) “857(b)(2)(B)” for “857(b)(2)(C)” and inserted in provisions following subpar. (C) reference to determine without regard to any deductionfor capital gains dividends (as defined in section 857(b)(3)(C)) and by excluding any net capital gain.
+Subsec. (e)(2). Pub. L. 94–455, §1607(b)(1)(B), substituted in subpar. (B) “857(b)(2)(B)” for “857(b)(2)(C)” and inserted in provisions following subpar. (C) reference to determine without regard to any deduction for capital gains dividends (as defined in section 857(b)(3)(C)) and by excluding any net capital gain.
 
 Subsec. (f)(1)(B), (2), (3). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
@@ -344,7 +344,7 @@ Amendment by section 11813(a) of Pub. L. 101–508 applicable to property placed
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7814(d) of Pub. L. 101–239 effective, except as otherwise provided, as if included in theprovision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7814(d) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -396,7 +396,7 @@ Certain additional rehabilitations.—The amendments made by this section and se
 
 &emsp;“(J) the rehabilitation of 10 warehouse buildings built between 1906 and 1910 and purchased under a contract dated February 17, 1986,
 
-&emsp;“(K) the rehabilitation of a facility which is customarily used for conventions and sporting events if an analysis of operations and recommendations of utilization of such facility was prepared by a certified public accounting firm pursuant to an engagement authorized on March 6, 1984, and presented on June 11, 1984, to officials of the city in which such facility is located,
+&emsp;“(K) the rehabilitation of a facility which is customarily used for conventions and sporting events ifan analysis of operations and recommendations of utilization of such facility was prepared by a certified public accounting firm pursuant to an engagement authorized on March 6, 1984, and presented on June 11, 1984, to officials of the city in which such facility is located,
 
 &emsp;“(L) Mount Vernon Mills in Columbia, South Carolina,
 
@@ -540,7 +540,7 @@ Expensing of rehabilitation expenses for the frankford arsenal.—In the case of
 
 &emsp;&emsp;&emsp;“(II) ending on the date the taxpayer acquired the interest in the partnership, and
 
-&emsp;&emsp;“(iii) if the expenditures to be made under this provision are not paid or incurred before January 1, 1994, then the tax imposed by chapter 1 of such Code for the taxpayer's last taxable year beginning in 1993 shall be increased by the amount of the tax benefits by reason of this paragraph which are attributable to the expenditures not so paid or incurred.
+&emsp;&emsp;“(iii) if the expenditures to be made under this provision are not paid or incurred before January 1,1994, then the tax imposed by chapter 1 of such Code for the taxpayer's last taxable year beginning in 1993 shall be increased by the amount of the tax benefits by reason of this paragraph which are attributable to the expenditures not so paid or incurred.
 
 “(7)
 
@@ -794,7 +794,7 @@ Section 2112(d)(1) of Pub. L. 94–455 provided that: “The amendments made by 
 
 &emsp;“(A) property acquired by the taxpayer after December 31, 1976, and
 
-&emsp;“(B) property the construction, reconstruction, or erection of which was completed by the taxpayerafter December 31, 1976, (but only to the extent of the basis thereof attributable to construction, reconstruction, or erection after such date), in taxable years beginning after such date.”
+&emsp;“(B) property the construction, reconstruction, or erection of which was completed by the taxpayer after December 31, 1976, (but only to the extent of the basis thereof attributable to construction, reconstruction, or erection after such date), in taxable years beginning after such date.”
 
 #### Effective Date of 1975 Amendment
 
@@ -838,7 +838,7 @@ Section 2(g) of Pub. L. 90–225 provided that: “The amendments made by this s
 
 #### Effective Date of 1966 Amendments
 
-Section 4 of Pub. L. 89–800 provided that: “The amendments made by this Act \[amending this section and sections 48 and 167 of this title\] shall apply to taxable years ending after October 9, 1966, except that the amendments made by section 3(b) \[amending this section\] shall apply only if the fifth taxable year following the unused credit year ends after December 31, 1966.”
+Section 4 of Pub. L. 89–800 provided that: “The amendments made by this Act \[amending this sectionand sections 48 and 167 of this title\] shall apply to taxable years ending after October 9, 1966, except that the amendments made by section 3(b) \[amending this section\] shall apply only if the fifth taxable year following the unused credit year ends after December 31, 1966.”
 
 Section 2(c) of Pub. L. 89–389 provided that: “The amendments made by this section \[enacting section 1378 of this title and amending this section and sections 1372, 1373, and 1375 of this title\] shall apply with respect to taxable years of electing small business corporations beginning after the date of enactment of this Act \[Apr. 14, 1966\], but such amendments shall not apply with respect to sales or exchanges occurring before February 24, 1966.”
 

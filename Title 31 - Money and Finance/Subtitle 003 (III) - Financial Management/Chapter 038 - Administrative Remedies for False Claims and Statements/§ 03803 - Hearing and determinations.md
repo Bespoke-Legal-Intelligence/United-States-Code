@@ -218,5 +218,5 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1352, 3801, 3802, 3804, 3805, 3806, 3807, 3808, 3809 of this title; title 50 App. sections 1989b–4, 1989c–5.
+This section is referred to in sections 1352, 3801, 3802, 3804, 3805, 3806, 3807, 3808, 3809 of this title; title 42 section 7385e; title 50 App. sections 1989b–4, 1989c–5.
 

@@ -24,7 +24,7 @@ In this subchapter:
 
 #### (5) Graduate
 
-&emsp;The term “graduate” means an individual who has voluntarily applied for, been selectedfor, and enrolled in the Job Corps program and has completed the requirements of a vocational training program, or received a secondary school diploma or recognized equivalent, as a result of participation in the Job Corps program.
+&emsp;The term “graduate” means an individual who has voluntarily applied for, been selected for, and enrolled in the Job Corps program and has completed the requirements of a vocational training program, or received a secondary school diploma or recognized equivalent, as a result of participation in the Job Corps program.
 
 #### (6) Job Corps
 
@@ -44,7 +44,7 @@ In this subchapter:
 
 #### (10) Service provider
 
-&emsp;The term “service provider” means an entity selected under this subchapter to provide services described in this subchapter to a Job Corps center.
+&emsp;The term “service provider” means an entity selected under this subchapter to provideservices described in this subchapter to a Job Corps center.
 
 (Pub. L. 105–220, title I, §142, Aug. 7, 1998, 112 Stat. 1006.)
 

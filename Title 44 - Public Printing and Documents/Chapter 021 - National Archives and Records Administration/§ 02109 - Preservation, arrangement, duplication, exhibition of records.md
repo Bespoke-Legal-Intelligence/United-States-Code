@@ -36,7 +36,7 @@ Section 1. The heads of all executive departments and agencies are directed—
 
 (a) when initiating plans for the preparation, production, or other creation of exhibits and displays in furtherance of their program missions, to confer with the Archivist of the United States, or his designee, for the purpose of assuring that any such exhibits or displays which the Archivist finds appropriate for supplemental exhibition as part of the archival and cultural heritage of the United States are prepared, produced, or otherwise created in a manner which assures, to the maximum possible extent, their appropriateness, after they have served their primary program purpose, for such supplemental exhibition, and
 
-(b) to transfer to the Archivist, without reimbursement, such exhibits or displays as he determines are appropriate for such supplemental exhibition after they have served their primary program purpose, subject to such conditions requiring return to the department or agency of all or any of the materials incorporated in the exhibits or displays as may be mutually agreeable.
+(b) to transfer to the Archivist, without reimbursement, such exhibits or displays as he determines are appropriate for such supplemental exhibition after theyhave served their primary program purpose, subject to such conditions requiring return to the department or agency of all or any of the materials incorporated in the exhibits or displays as may be mutually agreeable.
 
 Sec. 2. The Archivist of the United States is directed to—
 

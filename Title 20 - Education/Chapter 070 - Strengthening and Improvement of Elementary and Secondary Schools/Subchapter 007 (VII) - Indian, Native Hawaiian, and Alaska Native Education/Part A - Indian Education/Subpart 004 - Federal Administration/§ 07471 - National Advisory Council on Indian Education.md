@@ -1,0 +1,40 @@
+### §7471. National Advisory Council on Indian Education
+
+#### (a) Membership
+
+There is established a National Advisory Council on Indian Education (hereafter in this section referred to as the “Council”), which shall—
+
+&emsp;(1) consist of 15 Indian members, who shall be appointed by the President from lists of nominees furnished, from time to time, by Indian tribes and organizations; and
+
+&emsp;(2) represent different geographic areas of the United States.
+
+#### (b) Duties
+
+The Council shall—
+
+&emsp;(1) advise the Secretary concerning the funding and administration (including the development of regulations and administrative policies and practices) of any program, including any program established under this part—
+
+&emsp;&emsp;(A) with respect to which the Secretary has jurisdiction; and
+
+&emsp;&emsp;(B)(i) that includes Indian children or adults as participants; or
+
+&emsp;&emsp;(ii) that may benefit Indian children or adults;
+
+&emsp;(2) make recommendations to the Secretary for filling the position of Director of Indian Education whenever a vacancy occurs; and
+
+&emsp;(3) submit to Congress, not later than June 30 of each year, a report on the activities of the Council, including—
+
+&emsp;&emsp;(A) any recommendations that the Council considers appropriate for the improvement of Federal education programs that include Indian children or adults as participants, or that may benefit Indian children or adults; and
+
+&emsp;&emsp;(B) recommendations concerning the funding of any program described in subparagraph (A).
+
+(Pub. L. 89–10, title VII, §7141, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1930.)
+
+#### Prior Provisions
+
+A prior section 7471, Pub. L. 89–10, title VII, §7141, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3732, set forth purpose of former subpart relating to professional development, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6951 of this title.
+
+#### Termination of Advisory Councils
+
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+

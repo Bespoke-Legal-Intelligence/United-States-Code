@@ -14,7 +14,7 @@
 
 &emsp;(A) OMB shall, for each item of new direct spending or limited tax benefit canceled from a law under section 691(a) of this title, estimate the deficit decrease caused by the cancellation of such item or benefit in that law and include such estimate as a separate entry in the report prepared pursuant to section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\].
 
-&emsp;(B) OMB shall not include any change in the deficit resulting from a cancellation of any item of new direct spending or limited tax benefit, or the enactment of a disapproval bill for any such cancellation, under this subchapter in the estimates and reports requiredby sections 252(b) and 254 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b), 904\].
+&emsp;(B) OMB shall not include any change in the deficit resulting from a cancellation of any item of new direct spending or limited tax benefit, or the enactment of a disapproval bill for any such cancellation, under this subchapter in the estimates and reports required by sections 252(b) and 254 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(b), 904\].
 
 #### (b) Adjustments to spending limits
 

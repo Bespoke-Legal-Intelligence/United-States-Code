@@ -10,7 +10,7 @@ When a member of the naval service is transferred by the Secretary of the Navy�
 
 &emsp;(4) from the Fleet Marine Corps Reserve to the retired list of the Regular Marine Corps or the Retired Reserve;
 
-> the transfer is conclusive for all purposes. Each member so transferred is entitled, when not on active duty, to retainer pay or retired pay from the date of transfer in accordance with his gradeand number of years of creditable service as determined by the Secretary. The Secretary may correct any error or omission in his determination as to a member's grade and years of creditable service. When such a correction is made, the member is entitled, when not on active duty, to retainer pay or retired pay in accordance with his grade and number of years of creditable service, as corrected, from the date of transfer.
+> the transfer is conclusive for all purposes. Each member so transferred is entitled, when not on active duty, to retainer pay or retired pay from the date of transfer in accordance with his grade and number of years of creditable service as determined by the Secretary. The Secretary may correct any error or omission in his determination as to a member's grade and years of creditable service. When such a correction is made, the member is entitled, when not on active duty, to retainer pay or retired pay in accordance with his grade and number of years of creditable service, as corrected, from the date of transfer.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 397; Pub. L. 85–583, §1(7), Aug. 1, 1958, 72 Stat. 480; Pub. L. 85–861, §33(a)(33), Sept. 2, 1958, 72 Stat. 1566.)
 

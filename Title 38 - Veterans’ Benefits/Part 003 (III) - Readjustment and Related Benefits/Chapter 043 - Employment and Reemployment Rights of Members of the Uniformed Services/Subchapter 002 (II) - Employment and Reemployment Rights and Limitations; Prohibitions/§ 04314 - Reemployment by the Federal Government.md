@@ -26,7 +26,7 @@ A prior section 4314 was renumbered section 7614 of this title.
 
 #### Effective Date
 
-Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
+Section effective with respect to reemployments initiated on or after the first day after the 60-day periodbeginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
 #### Section Referred to in Other Sections
 

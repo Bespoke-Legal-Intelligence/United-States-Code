@@ -23,7 +23,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 14001, 14006, 14502 of this title.
+This chapter is referred to in sections 14001, 14006, 14308, 14502 of this title.
 
 
 ---

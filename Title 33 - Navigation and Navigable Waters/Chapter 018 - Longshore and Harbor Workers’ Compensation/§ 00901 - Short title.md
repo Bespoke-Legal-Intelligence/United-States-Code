@@ -20,7 +20,7 @@ Section 28(a)–(g) of Pub. L. 98–426 provided that:
 
 “(d) The amendments made by sections 6(a), 8(d), and 9 \[amending sections 906, 908, and 909 of this title\] shall apply with respect to any death after the date of enactment of this Act \[Sept. 28, 1984\].
 
-“(e)(1) The amendments made by sections 2(c), 8(c)(1), 8(e)(4), 8(e)(5), 8(g), 10(b), 15 through 20, and 22 through 27 \[enacting section 942 of this title, amending this section and sections 902, 908 to 910, 914, 918, 919, 921 to 923, 928 to 932, 934, 935, 938 to 940, 944, and 948a of this title, repealing sections 945 to 947, and enacting provisions set out as a note under this section\] shall be effective on the date of enactment of this Act \[Sept. 24, 1984\].
+“(e)(1) The amendments made by sections 2(c), 8(c)(1), 8(e)(4), 8(e)(5), 8(g), 10(b), 15 through 20, and 22 through 27 \[enacting section 942 of this title, amending this section and sections 902, 908 to 910, 914, 918, 919, 921 to 923,928 to 932, 934, 935, 938 to 940, 944, and 948a of this title, repealing sections 945 to 947, and enacting provisions set out as a note under this section\] shall be effective on the date of enactment of this Act \[Sept. 24, 1984\].
 
 “(2) The amendments made by sections 7(b), 7(c), 7(d), and 8(h) \[amending sections 907 and 908 of this title\] shall be effective 90 days after the date of enactment of this Act \[Sept. 28, 1984\].
 

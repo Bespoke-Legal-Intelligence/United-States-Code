@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 3 years after the issuance of an order under section 6803(b)(3) of this title,the Secretary shall conduct a referendum among qualified handlers required to pay assessments under the order, as provided in section 6804(h)(1) of this title, subject to the voting requirements of subsection (b) of this section, to ascertain whether the order then in effect shall be continued.
+&emsp;Not later than 3 years after the issuance of an order under section 6803(b)(3) of this title, the Secretary shall conduct a referendum among qualified handlers required to pay assessments under the order, as provided in section 6804(h)(1) of this title, subject to the voting requirements of subsection (b) of this section, to ascertain whether the order then in effect shall be continued.
 
 #### (2) Approval of order needed
 

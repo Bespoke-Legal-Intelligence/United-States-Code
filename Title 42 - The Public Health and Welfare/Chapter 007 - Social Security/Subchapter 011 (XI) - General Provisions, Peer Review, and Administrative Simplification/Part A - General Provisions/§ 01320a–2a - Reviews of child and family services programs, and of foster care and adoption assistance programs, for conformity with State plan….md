@@ -22,7 +22,7 @@ The regulations referred to in subsection (a) of this section shall—
 
 &emsp;&emsp;(C) less frequent reviews of State programs which have been found to be in substantial conformity, but such regulations shall permit the Secretary to reinstate more frequent reviews based on information which indicates that a State program may not be in conformity;
 
-&emsp;(2) specify the requirements subject to review, and the criteria to be used to measure conformity with such requirements and to determine whether there is a substantial failure to so conform;
+&emsp;(2) specify the requirements subject to review, and the criteria to be used to measureconformity with such requirements and to determine whether there is a substantial failure to so conform;
 
 &emsp;(3) specify the method to be used to determine the amount of any Federal matching funds to be withheld (subject to paragraph (4)) due to the State program's failure to so conform, which ensures that—
 
@@ -76,5 +76,5 @@ Section 203(c)(3) of Pub. L. 103–432 provided that: “The Secretary shall pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 674 of this title.
+This section is referred to in sections 629h, 674 of this title.
 

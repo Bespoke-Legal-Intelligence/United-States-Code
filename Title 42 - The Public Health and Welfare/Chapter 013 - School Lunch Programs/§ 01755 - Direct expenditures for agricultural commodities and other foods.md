@@ -6,7 +6,7 @@ The funds provided by appropriation or transfer from other accounts for any fisc
 
 &emsp;(1) not to exceed 31/2 per centum thereof which per centum is hereby made available to the Secretary for the Secretary's administrative expenses under this chapter and under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\];
 
-&emsp;(2) the amount apportioned by the Secretary pursuant to section 1753 of this title and theamount appropriated pursuant to sections 1759a and 1761 of this title and sections 4 and 7 of the Child Nutrition Act of 1966 \[42 U.S.C. 1773 and 1776\]; and
+&emsp;(2) the amount apportioned by the Secretary pursuant to section 1753 of this title and the amount appropriated pursuant to sections 1759a and 1761 of this title and sections 4 and 7 of the Child Nutrition Act of 1966 \[42 U.S.C. 1773 and 1776\]; and
 
 &emsp;(3) not to exceed 1 per centum of the funds provided for carrying out the programs under this chapter and the programs under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], other than section 3 \[42 U.S.C. 1772\], which per centum is hereby made available to the Secretary to supplement the nutritional benefits of these programs through grants to States and other means for nutritional training and education for workers, cooperators, and participants in these programs, for pilot projects and the cash-in-lieu of commodities study required to be carried out under section 1769 of this title, and for necessary surveys and studies of requirements for food service programs in furtherance of the purposes expressed in section 1751 of this title, and section 2 of the Child Nutrition Act of 1966 \[42 U.S.C. 1771\],
 
@@ -28,7 +28,7 @@ The Secretary shall deliver, to each State participating in the school lunch pro
 
 (E) Notwithstanding any other provision of this section, not less than 75 percent of the assistance provided under this subsection shall be in the form of donated foods for the school lunch program.
 
-(2) To the maximum extent feasible, each State agency shall offer to each school food authority under its jurisdiction that participates in the school lunch program and receives commodities, agricultural commodities and their products, the per meal value of which is not less than the national average value of donated foods established under paragraph (1). Each such offer shall include the full range of such commodities and products that are available from the Secretary to the extent that quantities requested are sufficient to allow efficient delivery to and within the State.
+(2) To the maximum extent feasible, each State agency shall offer to each school food authority under its jurisdiction that participates in the school lunch program and receives commodities, agricultural commodities and theirproducts, the per meal value of which is not less than the national average value of donated foods established under paragraph (1). Each such offer shall include the full range of such commodities and products that are available from the Secretary to the extent that quantities requested are sufficient to allow efficient delivery to and within the State.
 
 #### (d) Termination of commodity assistance based upon school breakfast program
 
@@ -142,11 +142,11 @@ Section 131(c) of Pub. L. 101–147 provided that: “The amendments made by thi
 
 #### Effective Date of 1981 Amendment
 
-Amendment by sections 802 and 819(h) of Pub. L. 97–35 effective July 1, 1981, and Oct. 1, 1981, respectively, see section 820(a)(2), (4) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by sections 802 and 819(h) of Pub. L. 97–35 effective July 1, 1981, and Oct. 1, 1981, respectively, seesection 820(a)(2), (4) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Section 14 of Pub. L. 95–627 provided that: “The provisions of this Act \[enacting section 1769c of this title, amending this section and sections 1757, 1760, 1761, 1762a, 1766, 1769, 1773, 1774, 1776, 1784, and 1786 of this title and enacting provisions set out as notes underthis section, sections 1773 and 1786 of this title\], except sections 4, 5, and 8, shall become effective October 1, 1978. The provisions of section 4 of this Act \[amending section 1759a of this title\] shall become effective Jan\[u\]ary 1, 1979. The provisions of sections 5 \[amending this section and sections 1759a, 1761, and 1772 of this title\] and 8 \[amending section 1758 of this title\] of this Act shall become effective July 1, 1979, except that the Secretary may make the necessary changes in the income poverty guidelines for the special supplemental food program under section 17 of the Child Nutrition Act of 1966 \[section 1786 of this title\] not earlier than October 1, 1978, and not later than July 1, 1979.”
+Section 14 of Pub. L. 95–627 provided that: “The provisions of this Act \[enacting section 1769c of this title, amending this section and sections 1757, 1760, 1761, 1762a, 1766, 1769, 1773, 1774, 1776, 1784, and 1786 of this title and enacting provisions set out as notes under this section, sections 1751, 1773, and 1786 of this title\], except sections 4, 5, and 8, shall become effective October 1, 1978. The provisions of section 4 of this Act \[amending section 1759a of this title\] shall become effective Jan\[u\]ary 1, 1979. The provisions of sections 5 \[amending this section and sections 1759a, 1761, and 1772 of this title\] and 8 \[amending section 1758 of this title\] of this Act shall become effective July 1, 1979, except that the Secretary may make the necessary changes in the income poverty guidelines for the special supplemental food program under section 17 of the Child Nutrition Act of 1966 \[section 1786 of this title\] not earlier than October 1, 1978, and not later than July 1, 1979.”
 
 #### Effective Date of 1977 Amendment
 

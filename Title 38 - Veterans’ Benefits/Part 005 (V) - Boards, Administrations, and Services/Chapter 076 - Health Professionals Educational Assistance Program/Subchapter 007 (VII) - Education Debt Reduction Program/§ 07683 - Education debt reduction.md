@@ -16,15 +16,23 @@ Performance Requirement.—The Secretary may make education debt reduction payme
 
 (d)
 
-Maximum Annual Amount.—(1) Subject to paragraph (2), the amount of education debt reduction payments made to a participant for a year under the Education Debt Reduction Program may not exceed—
-
-&emsp;(A) $6,000 for the first year of the participant's participation in the Program;
-
-&emsp;(B) $8,000 for the second year of the participant's participation in the Program; and
-
-&emsp;(C) $10,000 for the third year of the participant's participation in the Program.
+Maximum Annual Amount.—(1) Subject to paragraph (2), the amount of education debt reduction payments made to a participant under the Education Debt Reduction Program may not exceed $44,000 over a total of five years of participation in the Program, of which not more than $10,000 of such payments may be made in each of the fourth and fifth years of participation in the Program.
 
 (2) The total amount payable to a participant in such Program for any year may not exceed the amount of the principal and interest on loans referred to in subsection (a) that is paid by the individual during such year.
 
-(Added Pub. L. 105–368, title VIII, §803(a), Nov. 11, 1998, 112 Stat. 3357.)
+(Added Pub. L. 105–368, title VIII, §803(a), Nov. 11, 1998, 112 Stat. 3357; amended Pub. L. 107–135, title I, §102(c), Jan. 23, 2002, 115 Stat. 2448.)
+
+#### Amendments
+
+2002—Subsec. (d)(1). Pub. L. 107–135 struck out “for a year” after “a participant” and substituted “exceed $44,000 over a total of five years of participation in the Program, of which not more than $10,000 of such payments may be made in each of the fourth and fifth years of participation in the Program” for “exceed—
+
+&emsp;“(A) $6,000 for the first year of the participant's participation in the Program;
+
+&emsp;“(B) $8,000 for the second year of the participant's participation in the Program; and
+
+&emsp;“(C) $10,000 for the third year of the participant's participation in the Program”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7631 of this title.
 

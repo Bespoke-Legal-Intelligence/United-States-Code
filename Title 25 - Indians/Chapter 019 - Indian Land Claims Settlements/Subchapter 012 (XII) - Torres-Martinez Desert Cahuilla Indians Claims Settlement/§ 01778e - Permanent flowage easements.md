@@ -18,7 +18,7 @@
 
 #### (2) United States
 
-&emsp;The United States, in its own right shall, notwithstanding any prior or present reservation or withdrawal of land of any kind, grant and convey to the Imperial Irrigation District a permanent flowage easement as to all Federal lands (approximately 110,000 acres) located within and below the minus 220-foot contour of the Salton Sink, in accordance with the terms and conditions of the Settlement Agreement.
+&emsp;The United States, in its own right shall, notwithstanding any prior or present reservation or withdrawal of land of any kind, grant and convey to the Imperial Irrigation District a permanent flowage easement as to all Federal lands (approximately 110,000 acres) located within and below the minus 220-foot contour of the Salton Sink, in accordance withthe terms and conditions of the Settlement Agreement.
 
 (Pub. L. 106–568, title VI, §607, Dec. 27, 2000, 114 Stat. 2911.)
 

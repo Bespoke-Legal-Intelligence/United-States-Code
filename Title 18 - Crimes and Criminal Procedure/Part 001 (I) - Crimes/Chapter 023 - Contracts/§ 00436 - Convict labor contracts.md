@@ -22,7 +22,7 @@ Changes were also made in phraseology.
 
 #### Amendments
 
-1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title”for “fined not more than $5,000”, was executed by making the substitution for “fined not more than $1,000”, to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $5,000”, was executed by making the substitution for “fined not more than $1,000”, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
 

@@ -220,7 +220,7 @@ If any gain is realized by the taxpayer on the sale or exchange of any qualified
 
 &emsp;&emsp;(B) which, during the 1-year period ending on the date of the sale, purchases more than one-half of such products to be refined or processed from—
 
-&emsp;&emsp;&emsp;(i) farmers who make up the eligible farmers’ cooperative which is purchasingstock in the corporation in a transaction to which this subsection is to apply, or
+&emsp;&emsp;&emsp;(i) farmers who make up the eligible farmers’ cooperative which is purchasing stock in the corporation in a transaction to which this subsection is to apply, or
 
 &emsp;&emsp;&emsp;(ii) such cooperative.
 
@@ -304,7 +304,7 @@ Section 968(b) of Pub. L. 105–34 provided that: “The amendment made by this 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 1316(d)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1997,see section 1316(f) of Pub. L. 104–188, set out as a note under section 170 of this title.
+Amendment by section 1316(d)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1997, see section 1316(f) of Pub. L. 104–188, set out as a note under section 170 of this title.
 
 Amendment by section 1311(b)(3) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
 

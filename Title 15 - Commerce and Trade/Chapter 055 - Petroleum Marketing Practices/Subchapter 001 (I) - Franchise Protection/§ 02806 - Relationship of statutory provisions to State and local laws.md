@@ -10,7 +10,7 @@
 
 (1) Nothing in this subchapter authorizes any transfer or assignment of any franchise or prohibits any transfer or assignment of any franchise as authorized by the provisions of such franchise or by any applicable provision of State law which permits such transfer or assignment without regard to any provision of the franchise.
 
-(2) Nothing in this subchapter shall prohibit any State from specifying the terms and conditions under which any franchise or franchise relationship may be transferred to the designatedsuccessor of a franchisee upon the death of the franchisee.
+(2) Nothing in this subchapter shall prohibit any State from specifying the terms and conditions under which any franchise or franchise relationship may be transferred to the designated successor of a franchisee upon the death of the franchisee.
 
 (Pub. L. 95–297, title I, §106, June 19, 1978, 92 Stat. 332; Pub. L. 103–371, §5, Oct. 19, 1994, 108 Stat. 3485.)
 

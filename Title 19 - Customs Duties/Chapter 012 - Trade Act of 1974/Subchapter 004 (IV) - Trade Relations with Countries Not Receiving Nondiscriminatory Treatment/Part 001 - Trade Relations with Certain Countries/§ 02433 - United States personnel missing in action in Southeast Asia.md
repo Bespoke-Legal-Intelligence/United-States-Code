@@ -2,7 +2,7 @@
 
 #### (a) Penalty for noncooperating countries
 
-Notwithstanding any other provision of law, if the President determines that a nonmarket economy country is not cooperating with the United States—
+Notwithstanding any other provision of law, if the President determines that a nonmarketeconomy country is not cooperating with the United States—
 
 &emsp;(1) to achieve a complete accounting of all United States military and civilian personnel who are missing in action in Southeast Asia,
 

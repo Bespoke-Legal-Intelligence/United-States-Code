@@ -45,12 +45,16 @@
 | [2326\.](%C2%A7%2002326%20-%20Undefinitized%20contractual%20actions%20restrictions.md) | Undefinitized contractual actions: restrictions. |
 | [2327\.](%C2%A7%2002327%20-%20Contracts%20consideration%20of%20national%20security%20objectives.md) | Contracts: consideration of national security objectives. |
 | [2328\.](%C2%A7%2002328%20-%20Release%20of%20technical%20data%20under%20Freedom%20of%20Information%20Act%20recovery%20of%20costs.md) | Release of technical data under Freedom of Information Act: recovery of costs. |
-| \[2329, 2330. Repealed.\] |  |
-| [2331\.](%C2%A7%2002331%20-%20Contracts%20for%20professional%20and%20technical%20services.md) | Contracts for professional and technical services. |
+| \[2329. | Repealed.\] |
+| [2330\.](%C2%A7%2002330%20-%20Procurement%20of%20services%20management%20structure.md) | Procurement of services: management structure. |
+| [2330a.](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md) | Procurement of services: tracking of purchases. |
+| [2331\.](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md) | Procurement of services: contracts for professional and technical services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title VIII, §801(g)(2), Dec. 28, 2001, 115 Stat. 1178, added items 2330, 2330a, and 2331 and struck out former item 2331 “Contracts for professional and technical services”.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title VIII, §802(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, added item 2306c.
 
@@ -88,7 +92,7 @@ Pub. L. 99–500, §101(c) \[title X, §§907(a)(2), 908(d)(1)(B), 926(a)(2), 95
 
 Pub. L. 98–525, title XII, §1217, Oct. 19, 1984, 98 Stat. 2599, added items 2303a and 2317 to 2323.
 
-Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, substituted “Congressional defense procurement policy” for “Declaration of policy” in item 2301, “Contracts: competition requirements” for “Purchases and contracts: formal advertising; exceptions” in item 2304, “Contracts: planning, solicitation, evaluation, and award procedures” for “Formal advertisements for bids; time; opening; award; rejection” in item 2305, and “Kinds of contracts; cost or pricing data: truth in negotiation” for “Kinds of contracts” in item 2306.
+Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, substituted “Congressional defense procurement policy” for “Declaration of policy” in item2301, “Contracts: competition requirements” for “Purchases and contracts: formal advertising; exceptions” in item 2304, “Contracts: planning, solicitation, evaluation, and award procedures” for “Formal advertisements for bids; time; opening; award; rejection” in item 2305, and “Kinds of contracts; cost or pricing data: truth in negotiation” for “Kinds of contracts” in item 2306.
 
 1982—Pub. L. 97–295, §1(26)(B), Oct. 12, 1982, 96 Stat. 1291, added item 2316.
 
@@ -98,7 +102,7 @@ Pub. L. 98–369, div. B, title VII, §2727(a), July 18, 1984, 98 Stat. 1194, su
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 sections 13556, 14713, 14715, 14732.
+This chapter is referred to in sections 167, 1060a, 2350b, 2350d, 2373, 2809, 2835, 2836, 2837 of this title; title 15 sections 205<i>l</i>, 637; title 22 section 2761; title 40 section 474; title 41 section 421; title 42 sections 13556, 14713, 14715, 14732.
 
 
 ---
@@ -149,5 +153,6 @@ This chapter is referred to in sections 167, 2350b, 2350d, 2373, 2809, 2835, 283
 - [&sect; 02327 - Contracts consideration of national security objectives](%C2%A7%2002327%20-%20Contracts%20consideration%20of%20national%20security%20objectives.md)
 - [&sect; 02328 - Release of technical data under Freedom of Information Act recovery of costs](%C2%A7%2002328%20-%20Release%20of%20technical%20data%20under%20Freedom%20of%20Information%20Act%20recovery%20of%20costs.md)
 - [&sect; 02329 - Repealed. Pub. L. 103&#8211;355, title I, &sect;1506(a), Oct. 13, 1994, 108 Stat. 3298](%C2%A7%2002329%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20I%2C%20%C2%A71506%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203298.md)
-- [&sect; 02330 - Repealed. Pub. L. 102&#8211;484, div. D, title XLII, &sect;4271(a)(1), Oct. 23, 1992, 106 Stat. 2695](%C2%A7%2002330%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93484%2C%20div.%20D%2C%20title%20XLII%2C%20%C2%A74271%28a%29%281%29%2C%20Oct.%2023%2C%201992%2C%20106%20Stat.%202695.md)
-- [&sect; 02331 - Contracts for professional and technical services](%C2%A7%2002331%20-%20Contracts%20for%20professional%20and%20technical%20services.md)
+- [&sect; 02330 - Procurement of services management structure](%C2%A7%2002330%20-%20Procurement%20of%20services%20management%20structure.md)
+- [&sect; 02330a - Procurement of services tracking of purchases](%C2%A7%2002330a%20-%20Procurement%20of%20services%20tracking%20of%20purchases.md)
+- [&sect; 02331 - Procurement of services contracts for professional and technical services](%C2%A7%2002331%20-%20Procurement%20of%20services%20contracts%20for%20professional%20and%20technical%20services.md)

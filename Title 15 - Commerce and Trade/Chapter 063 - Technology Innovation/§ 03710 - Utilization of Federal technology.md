@@ -42,7 +42,7 @@ The National Technical Information Service shall—
 
 &emsp;(5) use appropriate technology transfer mechanisms such as personnel exchanges and computer-based systems; and
 
-&emsp;(6) maintain a permanent archival repository and clearinghouse for the collection anddissemination of nonclassified scientific, technical, and engineering information.
+&emsp;(6) maintain a permanent archival repository and clearinghouse for the collection and dissemination of nonclassified scientific, technical, and engineering information.
 
 #### (e) Establishment of Federal Laboratory Consortium for Technology Transfer
 
@@ -84,7 +84,7 @@ The National Technical Information Service shall—
 
 (6) Not later than one year after October 20, 1986, and every year thereafter, the Chairman of the Consortium shall submit a report to the President, to the appropriate authorization and appropriation committees of both Houses of the Congress, and to each agency with respect to which a transfer of funding is made (for the fiscal year or years involved) under paragraph (7), concerning the activities of the Consortium and the expenditures made by it under this subsection during the year for which the report is made. Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.
 
-(7)(A) Subject to subparagraph (B), an amount equal to 0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of the laboratories of such agency for a fiscal year referred to in subparagraph (B)(ii) shall be transferred by such agency to the National Institute of Standards and Technology at the beginning of the fiscal year involved. Amounts so transferred shall be provided by the Institute to the Consortium for the purpose ofcarrying out activities of the Consortium under this subsection.
+(7)(A) Subject to subparagraph (B), an amount equal to 0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of the laboratories of such agency for afiscal year referred to in subparagraph (B)(ii) shall be transferred by such agency to the National Institute of Standards and Technology at the beginning of the fiscal year involved. Amounts so transferred shall be provided by the Institute to the Consortium for the purpose of carrying out activities of the Consortium under this subsection.
 
 (B) A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if the amount so transferred by that agency (as determined under such subparagraph) would exceed $10,000.
 
@@ -160,7 +160,7 @@ Public availability.—The Secretary shall make the report available to the publ
 
 (3) Not later than one year after October 20, 1986, the Secretary shall submit to the President and the Congress a report regarding—
 
-&emsp;(A) any copyright provisions or other types of barriers which tend to restrict or limit the transfer of federally funded computer software to the private sector and to State and local governments, and agencies of such State and local governments; and
+&emsp;(A) any copyright provisions or other types of barriers which tend to restrict or limit thetransfer of federally funded computer software to the private sector and to State and local governments, and agencies of such State and local governments; and
 
 &emsp;(B) the feasibility and cost of compiling and maintaining a current and comprehensive inventory of all federally funded training software.
 
@@ -224,11 +224,11 @@ Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which re
 
 “(C) Application for such grants, awards, or agreements shall be in such form and contain such information as the Consortium or its designee shall specify.
 
-“(D) Any person who receives or utilizes any proceeds of a grant or award made, or agreement entered into, under this paragraph shall keep such records as the Consortium or its designee shall determine are necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition of such proceeds and the total cost of the project in connection with which such proceeds were used.”
+“(D) Any person who receives or utilizes any proceeds of a grant or award made, or agreement entered into, under this paragraph shall keep such records as theConsortium or its designee shall determine are necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition of such proceeds and the total cost of the project in connection with which such proceeds were used.”
 
 Subsec. (i). Pub. L. 102–245, §303, added subsec. (i).
 
-1989—Subsec. (b). Pub. L. 101–189 struck out “after September 30, 1981,” after “(2)”, substituted “sufficient funding, either as a separate line item or from the agency's research and development budget,” for “notless than 0.5 percent of the agency's research and development budget”, struck out “agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the” after “transfer process. The”, and substituted “agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry” for “reasons for the waiver and alternate plans for conducting the technology transfer function at the agency”.
+1989—Subsec. (b). Pub. L. 101–189 struck out “after September 30, 1981,” after “(2)”, substituted “sufficient funding, either as a separate line item or from the agency's research and development budget,” for “not less than 0.5 percent of the agency's research and development budget”, struck out “agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the” after “transfer process. The”, and substituted “agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry” for “reasons for the waiver and alternate plans for conducting the technology transfer function at the agency”.
 
 1988—Subsec. (d)(6). Pub. L. 100–418, §5163(c)(3), added par. (6).
 
@@ -270,10 +270,6 @@ Subsecs. (e), (f). Pub. L. 99–502, §§3, 4(d), added subsec. (e), redesignate
 
 Subsec. (g). Pub. L. 99–502, §5, added subsec. (g).
 
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of provisions in subsec. (e)(6) of this section relating to requirement to submit annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 171 of House Document No. 103–7.
-
 #### Ex. Ord. No. 12591. Facilitating Access to Science and Technology
 
 Ex. Ord. No. 12591, Apr. 10, 1987, 52 F.R. 13414, as amended by Ex. Ord. No. 12618, Dec. 22, 1987, 52 F.R. 48661, provided:
@@ -290,7 +286,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (A) to enter into cooperative research and development agreements with other Federal laboratories, State and local governments, universities, and the private sector; and
 
-(B) to license, assign, or waive rights to intellectual property developed by the laboratory either under such cooperative research or development agreements and from within individual laboratories.
+(B) to license, assign, or waive rights to intellectual property developed by the laboratory either under suchcooperative research or development agreements and from within individual laboratories.
 
 (2) identify and encourage persons to act as conduits between and among Federal laboratories, universities, and the private sector for the transfer of technology developed from federally funded research and development efforts;
 

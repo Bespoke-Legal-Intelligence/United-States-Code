@@ -54,7 +54,7 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 (3)(A) Any person adversely affected or aggrieved by an order issued under paragraph (2) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the Secretary's order.
 
-(B) An order of the Secretary with respect to which review could have been obtained under subparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
+(B) An order of the Secretary with respect to which review could have been obtained undersubparagraph (A) shall not be subject to judicial review in any criminal or other civil proceeding.
 
 (4) Whenever a person has failed to comply with an order issued under paragraph (2)(B), the Secretary shall file a civil action in the United States District Court for the district in which the violation was found to occur to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including, but not limited to, injunctive relief, compensatory, and exemplary damages.
 
@@ -66,11 +66,11 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 #### References in Text
 
-Act of March 3, 1931 (known as the Davis-Bacon Act; 40 U.S.C. 276a—276a–5), referred to in subsec. (e), is actMar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+Act of March 3, 1931 (known as the Davis-Bacon Act; 40 U.S.C. 276a—276a–5), referred to in subsec. (e), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), referred to in subsec. (e), is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Part C of subchapter II of this chapter, referred to in subsec. (g), is classified to section 264 of this title.
+Part G of subchapter II of this chapter, referred to in subsec. (g), is classified to section 264 of this title.
 
 #### Amendments
 

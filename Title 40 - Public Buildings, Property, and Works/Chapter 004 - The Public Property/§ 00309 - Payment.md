@@ -14,7 +14,7 @@ R.S. §3754 derived from act June 11, 1864, ch. 117, 13 Stat. 122.
 
 #### Appropriations
 
-Section 3 of act June 26, 1934, ch. 756, 48 Stat. 1226, which was classified to section 725b of former Title 31, Money and Finance, provided in part that, effectiveJuly 1, 1935, the permanent or continuing appropriation account “Judgments of courts (Revised Statutes, section 3754 \[40 U.S.C. 309\]) (7x965)” is abolished, and any unobligated balances in such account are covered into the Treasury; and that any claims accruing on and after July 1, 1935, which, but for this section would have been charged to this appropriation title, shall, upon proper audit, be certified to Congress for appropriation from the general fund of the Treasury, which is authorized.
+Section 3 of act June 26, 1934, ch. 756, 48 Stat. 1226, which was classified to section 725b of former Title 31, Money and Finance, provided in part that, effective July 1, 1935, the permanent or continuing appropriation account “Judgments of courts (Revised Statutes, section 3754 \[40 U.S.C. 309\]) (7x965)” is abolished, and any unobligated balances in such account are covered into the Treasury; and that any claims accruing on and after July 1, 1935, which, but for this section would have been charged to this appropriation title, shall, upon proper audit, be certified to Congress for appropriation from the general fund of the Treasury, which is authorized.
 
 #### Section Referred to in Other Sections
 

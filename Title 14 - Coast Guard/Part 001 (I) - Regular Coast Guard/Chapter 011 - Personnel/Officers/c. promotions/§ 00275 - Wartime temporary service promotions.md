@@ -2,7 +2,7 @@
 
 (a) In time of war, or of national emergency declared by the President or Congress, the President may suspend any section of this chapter relating to the selection, promotion, or involuntary separation of officers. Such a suspension may not continue beyond six months after the termination of the war or national emergency.
 
-(b) When the preceding sections of this chapter relating to selection and promotion of officers are suspended in accordance with subsection (a), and the needs of the service require, the President may, under regulations prescribed by him, promote to a higher grade any officer serving on active duty in the grade of ensign or above in the Coast Guard.
+(b) When the preceding sections of this chapter relating to selection and promotion of officers are suspended in accordance with subsection (a), and the needs of the service require, the President may, under regulations prescribed by him, promote to a higher grade any officer serving onactive duty in the grade of ensign or above in the Coast Guard.
 
 (c) In time of war, or of national emergency declared by the President or Congress, the President may, under regulations to be prescribed by him, promote to the next higher warrant officer grade any warrant officer serving on active duty in a grade below chief warrant officer, W–4.
 
@@ -25,6 +25,10 @@
 1983—Subsec. (d). Pub. L. 97–417 repealed subsec. (d) which had established the grade of commodore in the Coast Guard for the purposes of this section.
 
 1971—Subsec. (f). Pub. L. 92–129 inserted provision covering appointments of officers in the Coast Guard Reserve to grades above lieutenant commander.
+
+#### Delegation of Authority
+
+Authority of President under subsec. (a) of this section as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Transportation by section 5 of Ex. Ord. No. 13223, set out as a note under section 12302 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

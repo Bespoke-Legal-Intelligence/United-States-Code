@@ -26,5 +26,5 @@ Amendment by Pub. L. 98–369 applicable with respect to taxable years beginning
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–368 applicable with respect to taxable years beginning after December 31, 1966, seesection 102(d) of Pub. L. 89–368, set out as a note under section 6654 of this title.
+Amendment by Pub. L. 89–368 applicable with respect to taxable years beginning after December 31, 1966, see section 102(d) of Pub. L. 89–368, set out as a note under section 6654 of this title.
 

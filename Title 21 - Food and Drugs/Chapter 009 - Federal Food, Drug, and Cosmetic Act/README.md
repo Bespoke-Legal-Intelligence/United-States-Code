@@ -252,17 +252,23 @@
 | (m) | “Patent” defined. |
 | (n) | Scientific advisory panels. |
 | [355a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355a%20-%20Pediatric%20studies%20of%20drugs.md) | Pediatric studies of drugs. |
-| (a) | Market exclusivity for new drugs. |
-| (b) | Secretary to develop list of drugs for which additional pediatric information may be beneficial. |
+| (a) | Definitions. |
+| (b) | Market exclusivity for new drugs. |
 | (c) | Market exclusivity for already-marketed drugs. |
 | (d) | Conduct of pediatric studies. |
 | (e) | Delay of effective date for certain application. |
 | (f) | Notice of determinations on studies requirement. |
-| (g) | Definitions. |
-| (h) | Limitations. |
-| (i) | Relationship to regulations. |
-| (j) | Sunset. |
-| (k) | Report. |
+| (g) | Limitations. |
+| (h) | Relationship to regulations. |
+| (i) | Labeling supplements. |
+| (j) | Dissemination of pediatric information. |
+| (k) | Clarification of interaction of market exclusivity under this section and market exclusivity awarded to an applicant for approval of a drug under section 355(j) of this title. |
+| (<i>l</i>) | Prompt approval of drugs under section 355(j) of this title when pediatric information is added to labeling. |
+| (m) | Report. |
+| (n) | Sunset. |
+| [355b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355b%20-%20Adverse-event%20reporting.md) | Adverse-event reporting. |
+| (a) | Toll-free number in labeling. |
+| (b) | Drugs with pediatric market exclusivity. |
 | [356\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356%20-%20Fast%20track%20products.md) | Fast track products. |
 | (a) | Designation of drug as fast track product. |
 | (b) | Approval of application for fast track product. |
@@ -743,6 +749,10 @@ I74subpart 1—freedom of information fees
 | (e) | Technical and scientific review groups. |
 | (f) | Agency plan for statutory compliance. |
 | (g) | Annual report. |
+| [393a.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000393a%20-%20Office%20of%20Pediatric%20Therapeutics.md) | Office of Pediatric Therapeutics. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| (c) | Staff. |
 | [394\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000394%20-%20Scientific%20review%20groups.md) | Scientific review groups. |
 | [395\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000395%20-%20Loan%20repayment%20program.md) | Loan repayment program. |
 | (a) | In general. |
@@ -757,7 +767,7 @@ I74subpart 1—freedom of information fees
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 823, 829, 830, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653; title 15 sections 70j, 1261, 1263, 1277, 1459, 1460, 2057a, 2057b, 2079; title 18 sections 42, 983; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 262, 300aa–22, 300aa–23, 1396r–8, 1786, 3512, 7671.
+This chapter is referred to in sections 355b, 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 823, 829, 830, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653; title 15 sections 70j, 1261, 1263, 1277, 1459, 1460, 2057a, 2057b, 2079; title 18 sections 42, 983; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 262, 284m, 300aa–22, 300aa–23, 1396r–8, 1786, 3512, 7671.
 
 
 ---

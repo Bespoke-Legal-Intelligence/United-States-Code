@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified wages” means the wages paid or incurred by the employer during the taxable year to individuals who are long-term family assistance recipients.
+&emsp;The term “qualified wages” means the wages paid or incurred by the employer duringthe taxable year to individuals who are long-term family assistance recipients.
 
 #### (2) Qualified first-year wages
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) section 106 (relating to contributions by employer to accident and health plans),
 
-&emsp;&emsp;&emsp;(iii) section 127 (relating to educational assistance programs) or would be so excludable but for section 127(d), but only to the extent paid or incurred to a person not related to the employer, or
+&emsp;&emsp;&emsp;(iii) section 127 (relating to educational assistance programs), but only to the extent paid or incurred to a person not related to the employer, or
 
 &emsp;&emsp;&emsp;(iv) section 129 (relating to dependent care assistance programs).
 
@@ -96,7 +96,11 @@ If a credit is allowed under this section to an employer with respect to an indi
 
 This section shall not apply to individuals who begin work for the employer after December 31, 2001.
 
-(Added Pub. L. 105–34, title VIII, §801(a), Aug. 5, 1997, 111 Stat. 869; amended Pub. L. 105–277, div. J, title I, §1003, Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §505(a), Dec. 17, 1999, 113 Stat. 1921.)
+(Added Pub. L. 105–34, title VIII, §801(a), Aug. 5, 1997, 111 Stat. 869; amended Pub. L. 105–277, div. J, title I, §1003, Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §505(a), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–16, title IV, §411(c), June 7, 2001, 115 Stat. 63.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -106,9 +110,17 @@ The date of the enactment of the Taxpayer Relief Act of 1997, referred to in sub
 
 #### Amendments
 
+<b>2001</b>—Subsec. (b)(5)(B)(iii). Pub. L. 107–16, §§411(c), 901, temporarily struck out “or would be so excludable but for section 127(d)” before “, but only”. See Effective and Termination Dates of 2001 Amendment note below.
+
 <b>1999</b>—Subsec. (f). Pub. L. 106–170 substituted “December 31, 2001” for “June 30, 1999”.
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–277 substituted “June 30, 1999” for “April 30, 1999”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title IV, §411(d), June 7, 2001, 115 Stat. 63, provided that: “The amendments made by this section \[amending this section and section 127 of this title\] shall apply with respect to expenses relating to courses beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 

@@ -1,6 +1,6 @@
 ### §6616. Admissible evidence ultimate issue in State courts
 
-Any party to a Y2K action in a State court in a State that has not adopted a rule of evidence substantially similar to Rule 704 of the Federal Rules of Evidence may introduce in such action evidence that would be admissible if Rule 704 applied in that jurisdiction.
+Any party to a Y2K action in a State court in a State that has not adopted a rule of evidence substantially similar to Rule 704 of the Federal Rules of Evidence may introduce in such actionevidence that would be admissible if Rule 704 applied in that jurisdiction.
 
 (Pub. L. 106–37, §17, July 20, 1999, 113 Stat. 202.)
 

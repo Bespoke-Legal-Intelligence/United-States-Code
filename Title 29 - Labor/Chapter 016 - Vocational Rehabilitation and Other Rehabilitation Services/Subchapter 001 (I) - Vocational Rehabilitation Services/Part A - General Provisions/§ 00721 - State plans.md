@@ -80,7 +80,7 @@
 
 #### (B) Employment of individuals with disabilities
 
-&emsp;&emsp;The State plan shall provide that the designated State agency, and entities carrying out community rehabilitation programs in the State, who are in receipt of assistance under this subchapter shall take affirmative action to employ and advance in employment qualified individuals with disabilitiescovered under, and on the same terms and conditions as set forth in, section 793 of this title.
+&emsp;&emsp;The State plan shall provide that the designated State agency, and entities carrying out community rehabilitation programs in the State, who are in receipt of assistance under this subchapter shall take affirmative action to employ and advance in employment qualified individuals with disabilities covered under, and on the same terms and conditions as set forth in, section 793 of this title.
 
 #### (C) Facilities
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(ii) to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and
 
-&emsp;&emsp;(C) contain provisions relating to the establishment and maintenance of minimum standards to ensure the availability of personnel within the designated State unit, to the maximum extent feasible, trained to communicate in the native language or mode of communication of an applicant or eligible individual.
+&emsp;&emsp;(C) contain provisions relating to the establishment and maintenance of minimum standards to ensure the availability of personnel within the designated State unit, tothe maximum extent feasible, trained to communicate in the native language or mode of communication of an applicant or eligible individual.
 
 #### (8) Comparable services and benefits
 
@@ -188,7 +188,7 @@
 
 #### (A) Development and implementation
 
-&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibilityof the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
+&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibility of the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
 
 #### (B) Provision of services
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;The Commissioner shall also require that the designated State agency include in the reports information on—
 
-&emsp;&emsp;&emsp;(i) the costs under this subchapter of conducting administration, providing assessment services, counseling and guidance, and other direct services provided by designated State agency staff, providing services purchased under individualized plans for employment, supporting smallbusiness enterprises, establishing, developing, and improving community rehabilitation programs, providing other services to groups, and facilitating use of other programs under this chapter and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] by eligible individuals; and
+&emsp;&emsp;&emsp;(i) the costs under this subchapter of conducting administration, providing assessment services, counseling and guidance, and other direct services provided by designated State agency staff, providing services purchased under individualized plans for employment, supporting small business enterprises, establishing, developing, and improving community rehabilitation programs, providing other services to groups, and facilitating use of other programs under this chapter and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] by eligible individuals; and
 
 &emsp;&emsp;&emsp;(ii) the results of annual evaluation by the State of program effectiveness under paragraph (15)(E).
 
@@ -308,7 +308,7 @@
 
 #### (B) Replication of cooperative agreements
 
-&emsp;&emsp;The State plan shall provide for the replication of such cooperative agreements at the local level between individual offices of the designated State unit and local entities carrying out activities through the statewide workforce investment system.
+&emsp;&emsp;The State plan shall provide for the replication of such cooperative agreements atthe local level between individual offices of the designated State unit and local entities carrying out activities through the statewide workforce investment system.
 
 #### (C) Interagency cooperation with other agencies
 
@@ -484,7 +484,7 @@
 
 #### (19) Choice
 
-&emsp;The State plan shall include an assurance that applicants and eligible individuals or, as appropriate, the applicants’ representatives or individuals’ representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitationprocess, consistent with the provisions of section 722(d) of this title.
+&emsp;The State plan shall include an assurance that applicants and eligible individuals or, asappropriate, the applicants’ representatives or individuals’ representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
 
 #### (20) Information and referral services
 
@@ -602,7 +602,7 @@ Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, §101(f) \[title VIII, §402(c
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 705, 707, 709, 710, 720, 722, 723, 725, 727, 731, 764, 772, 795, 795k, 795<i>l</i>, 795m, 796d, 796d–1, 796k of this title; title 20 section 107a.
+This section is referred to in sections 705, 707, 709, 710, 720, 722, 723, 725, 727, 731, 764, 772, 795, 795k, 795<i>l</i>, 795m, 796d, 796d–1, 796k of this title; title 20 section 107a; title 42 section 3032.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

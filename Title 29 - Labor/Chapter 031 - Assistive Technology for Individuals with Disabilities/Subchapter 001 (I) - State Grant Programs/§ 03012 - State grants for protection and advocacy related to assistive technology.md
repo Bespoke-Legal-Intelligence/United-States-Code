@@ -54,7 +54,7 @@ An entity that receives a grant under this section shall annually prepare and su
 
 #### (d) Reports and updates to State agencies
 
-An entity that receives a grant under this section shall prepare and submit to the lead agency the report described in subsection (c) of this section and quarterly updates concerning the activities described in subsection (c) of this section.
+An entity that receives a grant under this section shall prepare and submit to the lead agencythe report described in subsection (c) of this section and quarterly updates concerning the activities described in subsection (c) of this section.
 
 #### (e) Coordination
 
@@ -74,5 +74,5 @@ Section 102(f)(1) of the Technology-Related Assistance for Individuals With Disa
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3002, 3011, 3014, 3015 of this title.
+This section is referred to in sections 3002, 3011, 3014, 3015 of this title; title 42 sections 15024, 15025, 15043, 15064.
 

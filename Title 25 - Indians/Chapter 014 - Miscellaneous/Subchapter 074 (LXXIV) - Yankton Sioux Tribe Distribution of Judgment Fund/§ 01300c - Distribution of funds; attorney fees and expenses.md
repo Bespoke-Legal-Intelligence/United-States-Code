@@ -1,6 +1,6 @@
 ### §1300c. Distribution of funds; attorney fees and expenses
 
-The funds appropriated by the Act of July 22, 1969 (83 Stat. 49), to pay a judgment to the Yankton Sioux Tribe in Indian Claims Commission docket numbered 332–A, together with the interest thereon, after payment of attorney fees and litigation expenses, and such other expenses as may be necessary in effecting the provisions of this subchapter, shall be distributed as provided herein.
+The funds appropriated by the Act of July 22, 1969 (83 Stat. 49), to pay a judgment to the Yankton Sioux Tribe in Indian Claims Commission docket numbered 332–A, together with the interest thereon, after payment of attorney fees and litigation expenses, and such other expenses as may be necessary in effecting the provisionsof this subchapter, shall be distributed as provided herein.
 
 (Pub. L. 92–468, §1, Oct. 6, 1972, 86 Stat. 782.)
 

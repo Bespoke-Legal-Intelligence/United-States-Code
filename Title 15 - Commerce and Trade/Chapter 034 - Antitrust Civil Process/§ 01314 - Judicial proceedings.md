@@ -6,7 +6,7 @@ Whenever any person fails to comply with any civil investigative demand duly ser
 
 #### (b) Petition for order modifying or setting aside demand; time for petition; suspension of time allowed for compliance with demand during pendency of petition; grounds for relief
 
-(1) Within twenty days after the service of any such demand upon any person, or at any time before the return date specified in the demand, whichever period is shorter, or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand, such person may file and serve upon such antitrust investigator, and in the case of any express demand for any product of discovery upon the person from whom such discovery was obtained, a petition for an order modifying or setting aside such demand—
+(1) Within twenty days after the service of any such demand upon any person, or at any time before the return date specified in the demand, whichever period is shorter, or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand, such person may file and serve upon such antitrust investigator, and in the case of any express demand for any product of discovery upon the person from whom such discovery was obtained, apetition for an order modifying or setting aside such demand—
 
 &emsp;(A) in the district court of the United States for the judicial district within which such person resides, is found, or transacts business; or
 
@@ -20,7 +20,7 @@ Whenever any such demand is an express demand for any product of discovery, the 
 
 #### (d) Petition for order requiring performance by custodian of duties; venue
 
-At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories delivered, or transcripts of oral testimony given by any person in compliance with any such demand, such person, and, in the case of an express demand for anyproduct of discovery, the person from whom such discovery was obtained, may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian a petition for an order of such court requiring the performance by such custodian of any duty imposed upon him by this chapter.
+At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories delivered, or transcripts of oral testimony given by any person in compliance with any such demand, such person, and, in the case of an express demand for any product of discovery, the person from whom such discovery was obtained, may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian a petition for an order of such court requiring the performance by such custodian of any duty imposed upon him by this chapter.
 
 #### (e) Jurisdiction; appeal; contempts
 

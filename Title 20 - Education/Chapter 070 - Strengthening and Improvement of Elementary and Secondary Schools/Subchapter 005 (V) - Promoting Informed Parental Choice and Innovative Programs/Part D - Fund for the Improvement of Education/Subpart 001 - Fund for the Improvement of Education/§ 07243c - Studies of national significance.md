@@ -1,0 +1,34 @@
+### §7243c. Studies of national significance
+
+#### (a) Studies
+
+The Secretary shall conduct the following studies of national significance:
+
+#### (1) Unhealthy public school buildings
+
+&emsp;A study regarding the health and learning impacts of environmentally unhealthy public school buildings on students and teachers. The study shall include the following information:
+
+&emsp;&emsp;(A) The characteristics of those public elementary school and secondary school buildings that contribute to unhealthy school environments.
+
+&emsp;&emsp;(B) The health and learning impacts of environmental <sup>1</sup> unhealthy public school buildings on students that are attending or that have attended such schools.
+
+&emsp;&emsp;(C) Recommendations to Congress on how to assist schools that are out of compliance with Federal or State health and safety codes, and a cost estimate of bringing up environmentally unhealthy public school buildings to minimum Federal health and safety building standards.
+
+#### (2) Exposure to violent entertainment
+
+&emsp;A study regarding how exposure to violent entertainment (such as in movies, music, television, Internet content, video games, and arcade games) affects children's cognitive development and educational achievement.
+
+#### (3) Sexual abuse in schools
+
+&emsp;A study regarding the prevalence of sexual abuse in schools, including recommendations and legislative remedies for addressing the problem of sexual abuse in schools.
+
+#### (b) Completion date
+
+The studies under subsection (a) of this section shall be completed not later than 18 months after January 8, 2002.
+
+#### (c) Public dissemination
+
+The Secretary shall make the study conducted under subsection (a)(1) of this section available to the public through the Educational Resources Information Center National Clearinghouse for Educational Facilities of the Department.
+
+(Pub. L. 89–10, title V, §5414, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1813.)
+

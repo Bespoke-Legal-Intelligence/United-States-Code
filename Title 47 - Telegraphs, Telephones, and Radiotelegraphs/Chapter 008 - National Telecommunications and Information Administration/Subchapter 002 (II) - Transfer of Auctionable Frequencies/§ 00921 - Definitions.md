@@ -96,7 +96,7 @@ Attention to particular subjects required.—In the conduct of the review and as
 
 &emsp;&emsp;“(A) the effect on critical military and intelligence capabilities, civil space programs, and other Federal Government systems used to protect public safety of the reallocated spectrum described in paragraph (1)(B) of this subsection;
 
-&emsp;&emsp;“(B) the anticipated impact on critical military and intelligence capabilities, future military and intelligence operational requirements, national defense modernization programs, and civil space programs, and other Federal Government systems used to protect public safety, of future potential reallocations to non-Federal use of bands of the electromagnetic spectrum that are currently allocated for use by the Federal Government; and
+&emsp;&emsp;“(B) the anticipated impact on critical military and intelligence capabilities, future military andintelligence operational requirements, national defense modernization programs, and civil space programs, and other Federal Government systems used to protect public safety, of future potential reallocations to non-Federal use of bands of the electromagnetic spectrum that are currently allocated for use by the Federal Government; and
 
 &emsp;&emsp;“(C) future spectrum requirements of agencies in the Federal Government.
 

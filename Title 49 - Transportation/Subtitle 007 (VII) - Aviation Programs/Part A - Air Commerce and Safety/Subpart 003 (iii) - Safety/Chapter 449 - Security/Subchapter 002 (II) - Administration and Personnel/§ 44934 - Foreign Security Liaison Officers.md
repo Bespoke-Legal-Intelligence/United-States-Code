@@ -2,21 +2,21 @@
 
 (a)
 
-Establishment, Designation, and Stationing.—The Administrator of the Federal Aviation Administration shall establish the position of Foreign Security Liaison Officer for each airport outside the United States at which the Administrator decides an Officer is necessary for air transportation security. In coordination with the Secretary of State, the Administrator shall designate an Officer for each of those airports. In coordination with the Secretary, the Administrator shall designate an Officer for each of those airports where extraordinary security measures are in place. The Secretary shall give high priority to stationing those Officers.
+Establishment, Designation, and Stationing.—The Under Secretary of Transportation for Security shall establish the position of Foreign Security Liaison Officer for each airport outside the United States at which the Under Secretary decides an Officer is necessary for air transportation security. In coordination with the Secretary of State, the Under Secretary shall designate an Officer for each of those airports. In coordination with the Secretary, the Under Secretary shall designate an Officer for each of those airports where extraordinary security measures are in place. The Secretary shall give high priority to stationing those Officers.
 
 (b)
 
-Duties and Powers.—An Officer reports directly to the Assistant Administrator for Civil Aviation Security. The Officer at each airport shall—
+Duties and Powers.—An Officer reports directly to the Under Secretary. The Officer at each airport shall—
 
-&emsp;(1) serve as the liaison of the Assistant Administrator to foreign security authorities (including governments of foreign countries and foreign airport authorities) in carrying out United States Government security requirements at that airport; and
+&emsp;(1) serve as the liaison of the Under Secretary to foreign security authorities (including governments of foreign countries and foreign airport authorities) in carrying out United States Government security requirements at that airport; and
 
 &emsp;(2) to the extent practicable, carry out duties and powers referred to in section 44933(b) of this title.
 
 (c)
 
-Coordination of Activities.—The activities of each Officer shall be coordinated with the chief of the diplomatic mission of the United States to which the Officer is assigned. Activities of an Officer under this section shall be consistent with the duties and powers of the Secretary and the chief of mission to a foreign country under section 103 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4802) and section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927).
+Coordination of Activities.—The activities of each Officer shall be coordinated with thechief of the diplomatic mission of the United States to which the Officer is assigned. Activities of an Officer under this section shall be consistent with the duties and powers of the Secretary and the chief of mission to a foreign country under section 103 of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4802) and section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 107–71, title I, §101(f)(4), (5), (7), (9), Nov. 19, 2001, 115 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -47,6 +47,14 @@ In subsection (a), the words “Not later than 90 days after November 16, 1990�
 In subsection (b), before clause (1), the words “to the office of” are omitted as unnecessary. In clause (1), the words “governments of foreign countries and foreign airport authorities” are substituted for “foreign governments and airport authorities” for clarity and consistency in the revised title and with other titles of the United States Code. In clause (2), the words “duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the Code.
 
 In subsection (c), the words “duties and powers” are substituted for “authorities” for clarity and consistency in the revised title and with other titles of the Code.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary” for “Administrator” wherever appearing and “of Transportation for Security” for “of the Federal Aviation Administration”.
+
+Subsec. (b). Pub. L. 107–71, §101(f)(4), substituted “Under Secretary” for “Assistant Administrator for Civil Aviation Security” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 107–71, §101(f)(5), substituted “Under Secretary” for “Assistant Administrator”.
 
 #### Section Referred to in Other Sections
 

@@ -54,7 +54,7 @@ Par. (5). Pub. L. 104–330, §704(4)(B), added par. (5).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–74, title II, §227(b), as added by Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat.1534, provided that: “The amendments made by subsection (a) \[amending this section\] shall be construed to have taken effect on October 21, 1998.”
+Pub. L. 106–74, title II, §227(b), as added by Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat. 1534, provided that: “The amendments made by subsection (a) \[amending this section\] shall be construed to have taken effect on October 21, 1998.”
 
 #### Effective Date of 1998 Amendment
 

@@ -4,7 +4,7 @@
 
 (b) On request of the debtor at any time, if the case has not been converted under section 706, 1112, or 1208 of this title, the court shall dismiss a case under this chapter. Any waiver of the right to dismiss under this subsection is unenforceable.
 
-(c) Except as provided in subsection (e) of this section, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under thischapter to a case under chapter 7 of this title, or may dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, for cause, including—
+(c) Except as provided in subsection (e) of this section, on request of a party in interest or the United States trustee and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 7 of this title, or may dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, for cause, including—
 
 &emsp;(1) unreasonable delay by the debtor that is prejudicial to creditors;
 

@@ -22,7 +22,7 @@
 
 &emsp;(E) an evaluation of ways to ensure adequate rail service for subterminal facilities described in clause (D) of this paragraph, including an evaluation of the use and feasibility of contract rates;
 
-&emsp;(F) an assessment of the ways that subterminal facilities can enhance the operation of small capacity shipping and storage facilities within the State or region;
+&emsp;(F) an assessment of the ways that subterminal facilities can enhance the operationof small capacity shipping and storage facilities within the State or region;
 
 &emsp;(G) an assessment of other actions being taken or considered in such State or region for the improvement of agricultural transportation, including an evaluation of the use being made of shuttle or collector trains and combinations of rail and barge service;
 
@@ -64,7 +64,7 @@ To carry out the purposes of this section, there are authorized to be appropriat
 
 #### References in Text
 
-Act of July 2, 1862 (7 U.S.C. 301–305, 307, and 308), referred to in subsec. (a)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “MorrillAct” and also as the “First Morrill Act”, and is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under 301 of this title and Tables.
+Act of July 2, 1862 (7 U.S.C. 301–305, 307, and 308), referred to in subsec. (a)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, popularly known as the “Morrill Act” and also as the “First Morrill Act”, and is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under 301 of this title and Tables.
 
 Act of August 30, 1890 (7 U.S.C. 321–326 and 328), referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 

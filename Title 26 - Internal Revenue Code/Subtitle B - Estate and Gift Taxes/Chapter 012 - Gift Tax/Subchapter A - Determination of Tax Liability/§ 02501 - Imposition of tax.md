@@ -62,7 +62,7 @@ A donor who is a citizen of the United States and a resident of a possession the
 
 <b>1996</b>—Subsec. (a)(3). Pub. L. 104–191, §511(e)(2), substituted “Exception” for “Exceptions” in heading and amended text generally. Prior to amendment, text read as follows: “Paragraph (2) shall not apply in the case of a donor who at any time after March 8, 1965, and within the 10-year period ending with the date of transfer lost United States citizenship unless—
 
-&emsp;“(A) such donor's loss of United States citizenship resulted from the application of section 301(b), 350, or 355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487), or
+&emsp;“(A) such donor's loss of United States citizenship resulted from the application of section 301(b), 350, or355 of the Immigration and Nationality Act, as amended (8 U.S.C. 1401(b), 1482, or 1487), or
 
 &emsp;“(B) such loss did not have for one of its principal purposes the avoidance of taxes under this subtitle or subtitle A.”
 
@@ -108,7 +108,7 @@ Amendment by Pub. L. 101–508 applicable in the case of property transferred af
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable in cases where transfer referred to in section 2036(c)(1)(B) of thistitle is on or after June 21, 1988, see section 3031(h)(2) of Pub. L. 100–647, set out as a note under section 2036 of this title.
+Amendment by Pub. L. 100–647 applicable in cases where transfer referred to in section 2036(c)(1)(B) of this title is on or after June 21, 1988, see section 3031(h)(2) of Pub. L. 100–647, set out as a note under section 2036 of this title.
 
 #### Effective Date of 1981 Amendment
 

@@ -32,7 +32,7 @@ It is the sense of the Congress that the President should instruct the appropria
 
 The President is authorized to permit the United States to participate in and to use any of the funds made available under subchapter I of this chapter after December 29, 1981, for the purpose of furnishing assistance (on such terms and conditions as the President may determine) to the International Food Policy Research Institute.
 
-(Pub. L. 87–195, pt. I, §301, Sept. 4, 1961, 75 Stat. 433; Pub. L. 89–171, pt. I, §106 (a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(a)–(c), Sept. 19, 1966, 80 Stat. 800; Pub. L. 90–137, pt. I, §110(a), Nov. 14, 1967, 81 Stat. 453; Pub. L. 91–175, pt. I, §108(a), Dec. 30, 1969, 83 Stat. 819; Pub. L. 93–189, §9(1), Dec. 17, 1973, 87 Stat. 718; Pub. L. 94–161, title III, §313(c), Dec. 20, 1975, 89 Stat. 866; Pub. L. 95–424, title I, §§102(b)(2)(A), 117(d), Oct. 6, 1978, 92 Stat. 941, 953; Pub. L. 96–533, title VII, §702, Dec. 16, 1980, 94 Stat. 3156; Pub. L. 97–113,title III, §311(a), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560.)
+(Pub. L. 87–195, pt. I, §301, Sept. 4, 1961, 75 Stat. 433; Pub. L. 89–171, pt. I, §106 (a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 89–583, pt. I, §107(a)–(c), Sept. 19, 1966, 80 Stat. 800; Pub. L. 90–137, pt. I, §110(a), Nov. 14, 1967, 81 Stat. 453; Pub. L. 91–175, pt. I, §108(a), Dec. 30, 1969, 83 Stat. 819; Pub. L. 93–189, §9(1), Dec. 17, 1973, 87 Stat. 718; Pub. L. 94–161, title III, §313(c), Dec. 20, 1975, 89 Stat. 866; Pub. L. 95–424, title I, §§102(b)(2)(A), 117(d), Oct. 6, 1978, 92 Stat. 941, 953; Pub. L. 96–533, title VII, §702, Dec. 16, 1980, 94 Stat. 3156; Pub. L. 97–113, title III, §311(a), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1536, 1560.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ Subsec. (g). Pub. L. 95–424 added subsec. (g).
 
 Subsec. (b). Pub. L. 89–583, §107(b), substituted “United Nations Development Program” for “United Nations Expanded Program of Technical Assistance and the United States Special Fund” and restricted economic or technical assistance to Cuba.
 
-Subsec. (c). Pub. L. 89–583, §107(c), substituted provisions limiting contributions by the United States for fiscal year 1967 to $13,300,000, for provisions limiting contributions for calendar year 1966 to $15,200,000 and prohibited the making of contributions assisting any refugee who is receiving military training as a member of the Palestine Liberation Army.
+Subsec. (c). Pub. L. 89–583, §107(c), substituted provisions limiting contributions by the United States forfiscal year 1967 to $13,300,000, for provisions limiting contributions for calendar year 1966 to $15,200,000 and prohibited the making of contributions assisting any refugee who is receiving military training as a member of the Palestine Liberation Army.
 
 1965—Subsec. (c). Pub. L. 89–171 limited contributions by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East to $15,200,000 for the calendar year 1966.
 

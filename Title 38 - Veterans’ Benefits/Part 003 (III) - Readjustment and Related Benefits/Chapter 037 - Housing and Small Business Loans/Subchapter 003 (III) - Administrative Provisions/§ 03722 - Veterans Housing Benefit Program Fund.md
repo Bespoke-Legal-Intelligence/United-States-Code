@@ -1,6 +1,6 @@
 ### §3722. Veterans Housing Benefit Program Fund
 
-(a) There is hereby established in the Treasury of the United States a fund known as the Veterans Housing Benefit Program Fund (hereafter in this section referred to as the “Fund”).
+(a) There is hereby established in the Treasury of the United States a fund known as the Veterans Housing Benefit Program Fund (hereinafter in this section referred to as the “Fund”).
 
 (b) The Fund shall be available to the Secretary, without fiscal year limitation, for all housing loan operations under this chapter, other than administrative expenses, consistent with the Federal Credit Reform Act of 1990.
 
@@ -24,7 +24,7 @@
 
 (e) For purposes of this section, the term “housing loan” shall not include a loan made pursuant to subchapter V of this chapter.
 
-(Added Pub. L. 105–368, title VI, §602(a)(2), Nov. 11, 1998, 112 Stat. 3345.)
+(Added Pub. L. 105–368, title VI, §602(a)(2), Nov. 11, 1998, 112 Stat. 3345; amended Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35.)
 
 #### References in Text
 
@@ -33,6 +33,10 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (b), is title V of
 #### Prior Provisions
 
 Prior to renumbering of sections 1801 to 1851 of this chapter as sections 3701 to 3751 by Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, section 1822 of this chapter, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1214; Pub. L. 89–358, §5(c), Mar. 3, 1966, 88 Stat. 26; Pub. L. 89–623, §1, Oct. 4, 1966, 80 Stat. 873; Pub. L. 90–301, §2(b), May 7, 1968, 82 Stat. 113, which provided for bringing of an action in district court, by veteran or Attorney General, against one who knowingly participated in sale of property to a veteran for consideration in excess of reasonable value of property, was repealed by Pub. L. 93–569, §§7(a), 10, Dec. 31, 1974, 88 Stat. 1866, 1867, effective Dec. 31, 1974.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
 #### Effective Date
 

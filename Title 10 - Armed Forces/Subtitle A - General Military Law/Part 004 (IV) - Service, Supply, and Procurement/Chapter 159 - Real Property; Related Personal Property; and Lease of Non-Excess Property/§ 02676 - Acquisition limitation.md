@@ -8,7 +8,7 @@
 
 &emsp;(2) to acquire the interest in real property by gift, purchase, exchange of real property owned by the United States, or otherwise.
 
-(c)(1) Except as provided in paragraph (2), the cost authorized for a land acquisition project may be increased by not more than 25 percent of the amount appropriated for the project by Congress or 200 percent of the amount specified by law as the maximum amount for a minor military construction project, whichever is lesser, if the Secretary concerned determines (A) that such an increase is required for the sole purpose of meeting unusual variations in cost, and (B) that such variations in cost could not have been reasonably anticipated at the time the project was originally approved by Congress.
+(c)(1) Except as provided in paragraph (2), the cost authorized for a land acquisition project may be increased by not more than 25 percent of the amount appropriated for the project by Congress or 200 percent of the amount specified by law as the maximum amount for a minor military construction project, whichever is lesser, if the Secretary concerned determines (A) that such an increase is required for the sole purpose of meeting unusual variations in cost, and (B) that such variations in cost could not have beenreasonably anticipated at the time the project was originally approved by Congress.
 
 (2) A land acquisition project may not be placed under contract if, based upon the agreed price for the land or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land—
 
@@ -20,7 +20,7 @@
 
 (d) The limitations on reduction in scope or increase in cost of a land acquisition in subsection (c) do not apply if the reduction in scope or the increase in cost, as the case may be, is approved by the Secretary concerned and a written notification of the facts relating to the proposed reduced scope or increased cost (including a statement of the reasons therefor) is submitted by the Secretary concerned to the appropriate committees of Congress. A contract for the acquisition may then be awarded only after a period of 21 days elapses from the date the notification is received by the committees.
 
-(e) The Secretary concerned shall promptly pay any deficiency judgment against the UnitedStates awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
+(e) The Secretary concerned shall promptly pay any deficiency judgment against the United States awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
 
 (Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 93–166, title VI, §608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, §5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, §802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, §1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div. B, title XXVIII, §2870(1), Dec. 5, 1991, 105 Stat. 1562.)
 

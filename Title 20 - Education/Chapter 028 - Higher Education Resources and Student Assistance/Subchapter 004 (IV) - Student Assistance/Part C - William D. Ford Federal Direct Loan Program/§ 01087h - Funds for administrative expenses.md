@@ -66,7 +66,7 @@ Prior sections 1087i and 1087j were omitted in the general revision of this part
 
 Section 1087i, Pub. L. 89–329, title IV, §459, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 575, related to schedule of regulatory activities by Secretary under Federal direct loan demonstration program.
 
-Section 1087j, Pub. L. 89–329, title IV, §459A, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 575, related to funds for administrative expenses under Federal direct loan demonstration program.
+Section 1087j, Pub. L. 89–329, title IV, §459A, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 575,related to funds for administrative expenses under Federal direct loan demonstration program.
 
 #### Amendments
 

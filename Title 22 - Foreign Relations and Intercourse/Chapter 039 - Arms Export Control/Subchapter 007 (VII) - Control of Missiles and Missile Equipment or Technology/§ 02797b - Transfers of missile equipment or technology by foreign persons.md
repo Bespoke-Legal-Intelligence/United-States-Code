@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) licenses for the transfer to such foreign person of all items on the United States Munitions List.
 
-&emsp;(C) If, in addition to actions taken under subparagraphs (A) and (B), the President determines that the export, transfer, or tradehas substantially contributed to the design, development, or production of missiles in a country that is not an MTCR adherent, then the President shall prohibit, for a period of not less than 2 years, the importation into the United States of products produced by that foreign person.
+&emsp;(C) If, in addition to actions taken under subparagraphs (A) and (B), the President determines that the export, transfer, or trade has substantially contributed to the design, development, or production of missiles in a country that is not an MTCR adherent, then the President shall prohibit, for a period of not less than 2 years, the importation into the United States of products produced by that foreign person.
 
 #### (b) Inapplicability with respect to MTCR adherents
 
@@ -66,7 +66,7 @@ The Secretary of State, in consultation with the Secretary of Defense and the Se
 
 #### (f) Presumption
 
-In determining whether to apply sanctions under subsection (a) of this section to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) <sup>2</sup> of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
+In determining whether to apply sanctions under subsection (a) of this section to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) <sup>2</sup> of title 50,Appendix, has repeatedly provided support for acts of international terrorism.
 
 #### (g) Additional waiver
 

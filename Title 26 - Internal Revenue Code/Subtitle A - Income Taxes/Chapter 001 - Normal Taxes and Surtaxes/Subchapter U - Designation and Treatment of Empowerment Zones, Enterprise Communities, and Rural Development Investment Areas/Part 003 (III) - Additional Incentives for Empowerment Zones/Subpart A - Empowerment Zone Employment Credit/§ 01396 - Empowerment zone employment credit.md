@@ -92,7 +92,7 @@ A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §113(a)\], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
+<b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §113(a)\], amended subsec. (b) generally, substitutingprovisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
 
 Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: “This section shall be applied without regard to any empowerment zone designated under section 1391(g).”
 

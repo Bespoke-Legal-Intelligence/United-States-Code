@@ -96,7 +96,7 @@ Report.—The Secretary shall report to Congress on the findings of the study co
 
 #### Person Holding Position of Associate Deputy Secretary Until April 15, 1985
 
-Section 26(c) of Pub. L. 98–557 provided that: “Notwithstanding any other provision of law, until April 15,1985, the position created by subsection (a) of this section \[adding subsec. (d) of this section\] may be held by a person named by the President alone from among qualified individuals.”
+Section 26(c) of Pub. L. 98–557 provided that: “Notwithstanding any other provision of law, until April 15, 1985, the position created by subsection (a) of this section \[adding subsec. (d) of this section\] may be held by a person named by the President alone from among qualified individuals.”
 
 #### Ex. Ord. No. 11340. Effective Date
 

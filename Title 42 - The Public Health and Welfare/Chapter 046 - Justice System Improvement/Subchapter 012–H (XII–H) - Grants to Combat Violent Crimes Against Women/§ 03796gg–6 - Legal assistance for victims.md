@@ -36,7 +36,7 @@ To be eligible for a grant under subsection (c) of this section, applicants shal
 
 &emsp;(1) any person providing legal assistance through a program funded under subsection (c) of this section has completed or will complete training in connection with domestic violence or sexual assault and related legal issues;
 
-&emsp;(2) any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a State, local, or tribal domestic violence or sexual assault program or coalition, as well as appropriate State and local law enforcement officials;
+&emsp;(2) any training program conducted in satisfaction of the requirement of paragraph (1) hasbeen or will be developed with input from and in collaboration with a State, local, or tribal domestic violence or sexual assault program or coalition, as well as appropriate State and local law enforcement officials;
 
 &emsp;(3) any person or organization providing legal assistance through a program funded under subsection (c) of this section has informed and will continue to inform State, local, or tribal domestic violence or sexual assault programs and coalitions, as well as appropriate State and local law enforcement officials of their work; and
 

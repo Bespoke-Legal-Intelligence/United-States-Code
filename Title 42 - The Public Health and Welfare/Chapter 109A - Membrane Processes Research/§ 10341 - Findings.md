@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(5) there is very little Federal funding being applied to basic research in the field of treatment of contaminated water through membrane processes; and
 
-&emsp;(6) the treatment of contaminated water through membrane processes will solve a widevariety of water treatment problems, including compliance with the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] and the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\].
+&emsp;(6) the treatment of contaminated water through membrane processes will solve a wide variety of water treatment problems, including compliance with the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] and the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\].
 
 (Pub. L. 102–490, §2, Oct. 24, 1992, 106 Stat. 3142.)
 

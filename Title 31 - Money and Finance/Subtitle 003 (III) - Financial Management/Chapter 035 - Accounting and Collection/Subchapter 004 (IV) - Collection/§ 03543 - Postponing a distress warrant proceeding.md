@@ -2,7 +2,7 @@
 
 (a) A distress warrant proceeding may be postponed for a reasonable time if the Secretary of the Treasury believes the public interest will not be harmed by the postponement.
 
-(b)(1) A person adversely affected by a distress warrant issued under section 3541 of this titlemay bring a civil action in a district court of the United States. The complaint shall state the kind and extent of the harm. The court may grant an injunction to stay any part of a distress warrant proceeding required by the action after the person applying for the injunction gives a bond in an amount the court prescribes for carrying out a judgment.
+(b)(1) A person adversely affected by a distress warrant issued under section 3541 of this title may bring a civil action in a district court of the United States. The complaint shall state the kind and extent of the harm. The court may grant an injunction to stay any part of a distress warrant proceeding required by the action after the person applying for the injunction gives a bond in an amount the court prescribes for carrying out a judgment.
 
 (2) An injunction under this subsection does not affect a lien under section 3542(b)(1) of this title. The United States Government is not required to answer in a civil action brought under this subsection.
 

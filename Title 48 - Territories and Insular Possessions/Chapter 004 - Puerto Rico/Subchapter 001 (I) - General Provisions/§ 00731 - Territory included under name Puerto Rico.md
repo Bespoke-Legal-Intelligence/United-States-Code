@@ -32,7 +32,7 @@ The administration of the Government of Puerto Rico was transferred from the Bur
 
 #### Ex. Ord. No. 13183. Establishment of the President's Task Force on Puerto Rico's Status
 
-Ex. Ord. No. 13183, Dec. 23, 2000, 65 F.R. 82889, provided:
+Ex. Ord. No. 13183, Dec. 23, 2000, 65 F.R. 82889, as amended by Ex. Ord. No. 13209, Apr. 30, 2001, 66 F.R. 22105, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including Public Law 106–346 \[see Tables for classification\], it is hereby ordered as follows:
 
@@ -42,7 +42,5 @@ Sec. 2. <i>The President's Task Force on Puerto Rico's Status</i>. There is esta
 
 Sec. 3. <i>Functions</i>. The Task Force shall seek to implement the policy set forth in section 1 of this order. It shall ensure official attention to and facilitate action on matters related to proposals for Puerto Rico's status and the process by which an option can be realized. It shall provide advice and recommendations on such matters to the President and the Congress. It shall also provide advice and recommendations to assist the Executive Office of the President in fulfilling its responsibilities under Public Law 106–346 to transfer funding to the Elections Commission of the Commonwealth of Puerto Rico for public education on and a public choice among options for Puerto Rico's future status that are not incompatible with the Constitution and the basic laws and policies of the United States.
 
-Sec. 4. <i>Report</i>. The Task Force shall report on its actions to the President not later than May 1, 2001, and thereafter as needed but not less than annually on progress made in the determination of Puerto Rico's ultimate status.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 4. <i>Report</i>. The Task Force shall report on its actions to the President not later than August 1, 2001, and thereafter as needed but not less than annually on progress made in the determination of Puerto Rico's ultimate status.
 

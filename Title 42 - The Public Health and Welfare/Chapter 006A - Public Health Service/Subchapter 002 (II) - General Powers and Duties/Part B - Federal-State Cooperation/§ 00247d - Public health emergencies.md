@@ -18,7 +18,7 @@ If the Secretary determines, after consultation with such public health official
 
 #### (2) Report
 
-&emsp;Not later than 90 days after the end of each fiscal year, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
+&emsp;Not later than 90 days after the end of each fiscal year, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and theCommittee on Commerce and the Committee on Appropriations of the House of Representatives a report describing—
 
 &emsp;&emsp;(A) the expenditures made from the Public Health Emergency Fund in such fiscal year; and
 

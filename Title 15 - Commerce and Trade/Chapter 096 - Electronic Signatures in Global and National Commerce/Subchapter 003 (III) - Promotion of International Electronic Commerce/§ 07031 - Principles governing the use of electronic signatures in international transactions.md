@@ -4,7 +4,7 @@
 
 #### (1) Required actions
 
-&emsp;The Secretary of Commerce shall promote the acceptance and use, on an international basis, of electronic signatures in accordance with the principles specified in paragraph (2) and in a manner consistent with section 7001 of this title. The Secretary of Commerce shall take all actions necessary in a manner consistent with such principles to eliminate or reduce, to the maximum extent possible, the impediments to commerce in electronic signatures, for the purpose of facilitating the development of interstate and foreign commerce.
+&emsp;The Secretary of Commerce shall promote the acceptance and use, on an international basis, of electronic signatures in accordance with the principles specified in paragraph (2)and in a manner consistent with section 7001 of this title. The Secretary of Commerce shall take all actions necessary in a manner consistent with such principles to eliminate or reduce, to the maximum extent possible, the impediments to commerce in electronic signatures, for the purpose of facilitating the development of interstate and foreign commerce.
 
 #### (2) Principles
 
@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) Remove paper-based obstacles to electronic transactions by adopting relevant principles from the Model Law on Electronic Commerce adopted in 1996 by the United Nations Commission on International Trade Law.
 
-&emsp;&emsp;(B) Permit parties to a transaction to determine the appropriate authenticationtechnologies and implementation models for their transactions, with assurance that those technologies and implementation models will be recognized and enforced.
+&emsp;&emsp;(B) Permit parties to a transaction to determine the appropriate authentication technologies and implementation models for their transactions, with assurance that those technologies and implementation models will be recognized and enforced.
 
 &emsp;&emsp;(C) Permit parties to a transaction to have the opportunity to prove in court or other proceedings that their authentication approaches and their transactions are valid.
 

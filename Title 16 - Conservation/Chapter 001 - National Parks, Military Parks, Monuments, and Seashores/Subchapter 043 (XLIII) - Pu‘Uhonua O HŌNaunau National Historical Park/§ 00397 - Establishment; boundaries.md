@@ -32,7 +32,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called “Kalani�
 
 12\. One hundred and seventy-two degrees twenty-eight minutes forty-eight and one-tenth feet along same;
 
-13\. Two hundred and twenty-six degrees twenty-three minutes two hundred twenty-eight and eight-tenths feet along remainder of L. C. Aw. 11216:34 to M. Kekauonohi to the south side of fifty-foot road;
+13\. Two hundred and twenty-six degrees twenty-three minutes two hundred twenty-eight andeight-tenths feet along remainder of L. C. Aw. 11216:34 to M. Kekauonohi to the south side of fifty-foot road;
 
 14\. Two hundred and sixty-four degrees fifty-one minutes one hundred fifteen and two-tenths feet along the south side of fifty-foot road;
 
@@ -96,7 +96,7 @@ Area, ten and twenty-five one-hundredths acres.
 
 #### Amendments
 
-2000—Pub. L. 106–510 substituted “Pu‘uhonua o Hōnaunau National Historical Park” for “Puuhonua o Honaunau National Historical Park” in introductory provisions.
+2000—Pub. L. 106–510 substituted “Pu‘uhonua o Hōnaunau National Historical Park” for “Puuhonua oHonaunau National Historical Park” in introductory provisions.
 
 1978—Pub. L. 95–625 redesignated as “Puuhonua o Honaunau National Historical Park” the Park previously designated “City of Refuge National Historical Park”.
 

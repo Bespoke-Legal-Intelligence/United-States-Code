@@ -2,7 +2,7 @@
 
 (a)
 
-Presentation of Flag.—Upon the transfer from an active status or discharge of a Reservewho has completed the years of service required for eligibility for retired pay under chapter 1223 of this title, the Secretary concerned shall present a United States flag to the member.
+Presentation of Flag.—Upon the transfer from an active status or discharge of a Reserve who has completed the years of service required for eligibility for retired pay under chapter 1223 of this title, the Secretary concerned shall present a United States flag to the member.
 
 (b)
 

@@ -50,7 +50,7 @@ The President shall review all activities of Government departments and agencies
 
 &emsp;&emsp;&emsp;(ii) sales or leases have been denied under section 2753(f) of this title or transactions prohibited by reason of acts relating to proliferation of nuclear explosive devices as described in section 2780(d) of this title;
 
-&emsp;&emsp;&emsp;(iii) a sanction has not been imposed by reason of section 6301(c)(2) of this title or the imposition of a sanction has been delayed under section 2799aa–1(b)(4) of this title, or
+&emsp;&emsp;&emsp;(iii) a sanction has not been imposed by reason of section 6301(c)(2) of this title or the imposition of a sanction has been delayed under section 2799aa–1(b)(4) of this title; or
 
 &emsp;&emsp;&emsp;(iv) a waiver of a sanction has been made under—
 

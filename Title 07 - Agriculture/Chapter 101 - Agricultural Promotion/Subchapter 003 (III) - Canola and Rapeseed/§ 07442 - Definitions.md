@@ -72,7 +72,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (16) Research
 
-&emsp;The term “research” means any type of test, study, or analysis to advance the image, desirability, marketability, production, product development, quality, or functional or nutritional value of canola, rapeseed, or canola or rapeseed products, including research activity designed to identify and analyze barriers to export sales of canola or rapeseed produced in the United States.
+&emsp;The term “research” means any type of test, study, or analysis to advance the image, desirability, marketability, production, product development, quality, or functional or nutritional value of canola, rapeseed, or canola or rapeseed products, including research activity designed to identify and analyze barriers toexport sales of canola or rapeseed produced in the United States.
 
 #### (17) Secretary
 

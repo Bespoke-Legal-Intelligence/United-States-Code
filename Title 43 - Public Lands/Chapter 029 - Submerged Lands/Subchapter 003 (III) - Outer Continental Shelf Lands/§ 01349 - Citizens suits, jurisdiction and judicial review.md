@@ -8,7 +8,7 @@
 
 &emsp;(A) prior to sixty days after the plaintiff has given notice of the alleged violation, in writing under oath, to the Secretary and any other appropriate Federal official, to the State in which the violation allegedly occurred or is occurring, and to any alleged violator; or
 
-&emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States or a State with respect to such matter, but in any such action in a court of the United States any person having a legal interest which is or may be adversely affected may intervene as a matter of right.
+&emsp;(B) if the Attorney General has commenced and is diligently prosecuting a civil action in a court of the United States or a State with respect to such matter, but in any such actionin a court of the United States any person having a legal interest which is or may be adversely affected may intervene as a matter of right.
 
 (3) An action may be brought under this subsection immediately after notification of the alleged violation in any case in which the alleged violation constitutes an imminent threat to the public health or safety or would immediately affect a legal interest of the plaintiff.
 
@@ -48,7 +48,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(5), are set out
 
 #### Amendments
 
-1984—Subsec. (d). Pub. L. 98–620 struck out subsec. (d) which provided that except as to causes of action considered by the court to be of greater importance, any action under this section would take precedence on the docket over all other causes of action and would be set for hearing at the earliest practical date and expedited in every way.
+1984—Subsec. (d). Pub. L. 98–620 struck out subsec. (d) which provided that except as to causes of action considered by the court to be of greater importance, any action under this section would take precedence on the docket over all other causes of action and would be setfor hearing at the earliest practical date and expedited in every way.
 
 #### Effective Date of 1984 Amendment
 

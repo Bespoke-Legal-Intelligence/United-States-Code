@@ -80,5 +80,5 @@ No Inference Created.—Nothing in the amendments made by this subtitle shall cr
 
 #### Section Referred to in Other Sections
 
-yThis section is referred to in sections 1402, 3121 of this title; title 25 section 71; title 42 sections 409, 411.
+This section is referred to in sections 1402, 3121 of this title; title 25 section 71; title 42 sections 409, 411.
 

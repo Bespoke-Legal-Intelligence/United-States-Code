@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Chairman of the Armed Forces Retirement Board is authorized to accept for the Armed Forces Retirement Home the part-time or intermittent services of a resident of the Retirement Home, to pay the resident for such services, and to fix the rate of such pay.
+The Chief Operating Officer is authorized to accept for the Armed Forces Retirement Home the part-time or intermittent services of a resident of the Retirement Home, to pay the resident for such services, and to fix the rate of such pay.
 
 #### (b) Employment status
 
@@ -20,13 +20,15 @@ A resident receiving pay for services authorized under subsection (a) of this se
 
 In subsection (b)(1) of this section, the term “position” has the meaning given that term in section 5531 of title 5.
 
-(Pub. L. 101–510, div. A, title XV, §1521, as added Pub. L. 102–484, div. A, title III, §385(a), Oct. 23, 1992, 106 Stat. 2394; amended Pub. L. 104–201, div. A, title X, §1052(b), Sept. 23, 1996, 110 Stat. 2650.)
+(Pub. L. 101–510, div. A, title XV, §1521, as added Pub. L. 102–484, div. A, title III, §385(a), Oct. 23, 1992, 106 Stat. 2394; amended Pub. L. 104–201, div. A, title X, §1052(b), Sept. 23, 1996, 110 Stat. 2650; Pub. L. 107–107, div. A, title XIV, §1404(b)(3), Dec. 28, 2001, 115 Stat. 1260.)
 
 #### References in Text
 
 Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107 substituted “Chief Operating Officer” for “Chairman of the Armed Forces Retirement Board”.
 
 1996—Subsec. (b)(2). Pub. L. 104–201 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “being an employee of the United States for any other purpose.”
 

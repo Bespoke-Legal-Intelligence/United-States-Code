@@ -30,7 +30,7 @@ Pub. L. 101–510, §1533(a)(3), inserted “and forfeitures” after “fines�
 
 #### Effective Date of 1990 Amendment
 
-Section 1533(a)(3) of Pub. L. 101–510 provided that the amendment by that section is effective Nov. 5, 1990.
+Section 1533(a)(3) of Pub. L. 101–510 provided that the amendment by that section was effective Nov. 5, 1990, prior to repeal by Pub. L. 107–107, div. A, title XIV, §1409, Dec. 28, 2001, 115 Stat. 1265.
 
 Amendment by section 1533(a)(4)(A) of Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, set out as an Effective Date note under section 401 of Title 24, Hospitals and Asylums.
 

@@ -48,7 +48,7 @@ In this chapter:
 
 #### (8) Soup kitchen
 
-&emsp;The term “soup kitchen” means a public or charitable institution that, as an integral part of the normal activities of the institution,maintains an established feeding operation to provide food to needy homeless persons on a regular basis.
+&emsp;The term “soup kitchen” means a public or charitable institution that, as an integral part of the normal activities of the institution, maintains an established feeding operation to provide food to needy homeless persons on a regular basis.
 
 #### (9) Total value of additional commodities
 
@@ -68,7 +68,7 @@ The Older Americans Act of 1965, referred to in par. (3)(A)(iv), is Pub. L. 89�
 
 #### Amendments
 
-1996—Pub. L. 104–193 amended section generally, substituting provisions containing an opening provision and pars. (1) to (10) defining “additional commodities”, “average monthly number of unemployed persons”, “eligible recipient agency”, “emergency feeding organization”, “food bank”, “food pantry”, “poverty line”, “soup kitchen”, “total value of additional commodities”, and “value of additional commodities allocated to each state” for an opening provision and pars. (1) to (6) defining “eligible recipient agencies”.
+1996—Pub. L. 104–193 amended section generally, substituting provisions containing an opening provision and pars. (1) to (10) defining “additional commodities”, “average monthly number of unemployed persons”, “eligible recipient agency”, “emergency feeding organization”, “food bank”, “food pantry”, “poverty line”, “soup kitchen”, “total value of additional commodities”, and “value of additional commodities allocatedto each state” for an opening provision and pars. (1) to (6) defining “eligible recipient agencies”.
 
 1985—Par. (1). Pub. L. 99–198 inserted before semicolon at end “(including the activities and projects of charitable institutions, food banks, hunger centers, soup kitchens, and similar public or private nonprofit eligible recipient agencies) hereinafter in this chapter referred to as ‘emergency feeding organizations’ ”.
 

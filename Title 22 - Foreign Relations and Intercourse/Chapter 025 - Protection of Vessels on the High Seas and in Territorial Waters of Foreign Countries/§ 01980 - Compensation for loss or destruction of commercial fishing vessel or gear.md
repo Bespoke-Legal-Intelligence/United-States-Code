@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (b) Causes of loss or destruction
 
-Subject to the provisions of this section, the owner or operator (hereinafter referred to as the “vessel owner”) of any fishing vessel which is a vessel of the United States is eligible for monetary compensation under this section for any damage to, loss of, or destruction of such vessel, or any fishing gear used with such vessel, or both, and for any resulting economic loss, if the damage, loss, or destruction—
+Subject to the provisions of this section, the owner or operator (hereinafter referred to as the“vessel owner”) of any fishing vessel which is a vessel of the United States is eligible for monetary compensation under this section for any damage to, loss of, or destruction of such vessel, or any fishing gear used with such vessel, or both, and for any resulting economic loss, if the damage, loss, or destruction—
 
 &emsp;(1) in the case of such vessel—
 

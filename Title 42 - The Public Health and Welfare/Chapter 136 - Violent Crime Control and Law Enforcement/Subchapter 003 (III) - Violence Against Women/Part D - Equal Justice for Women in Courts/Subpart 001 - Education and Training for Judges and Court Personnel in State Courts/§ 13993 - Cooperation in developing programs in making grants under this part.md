@@ -6,7 +6,7 @@ The State Justice Institute shall ensure that model programs carried out pursuan
 
 #### Amendments
 
-2000—Pub. L. 106–386 inserted “, including national, State, tribal, and local domestic violence and sexualassault programs and coalitions” after “victim advocates”.
+2000—Pub. L. 106–386 inserted “, including national, State, tribal, and local domestic violence and sexual assault programs and coalitions” after “victim advocates”.
 
 #### Section Referred to in Other Sections
 

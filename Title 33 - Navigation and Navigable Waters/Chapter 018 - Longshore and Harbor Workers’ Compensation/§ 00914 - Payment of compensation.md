@@ -42,7 +42,7 @@ If the employer has made advance payments of compensation, he shall be entitled 
 
 #### (k) Receipt for payment
 
-An injured employee, or in case of death his dependents or personal representative, shall give receipts for payment of compensation to the employer paying the same and such employer shall produce the same for inspection by the deputy commissioner, whenever required.
+An injured employee, or in case of death his dependents or personal representative, shall givereceipts for payment of compensation to the employer paying the same and such employer shall produce the same for inspection by the deputy commissioner, whenever required.
 
 (Mar. 4, 1927, ch. 509, §14, 44 Stat. 1432; May 26, 1934, ch. 354, §4, 48 Stat. 807; June 25, 1938, ch. 685, §7, 52 Stat. 1167; June 24, 1948, ch. 623, §5, 62 Stat. 603; July 26, 1956, ch. 735, §5, 70 Stat. 655; Pub. L. 87–87, §3, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§5(e), 15(d), Oct. 27, 1972, 86 Stat. 1254, 1262; Pub. L. 98–426, §§13, 27(a)(2), Sept. 28, 1984, 98 Stat. 1649, 1654.)
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 87–87 effective as to injuries sustained on or after July
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act July 26, 1956, applicable only with respect to injuries and death occurring on or after July26, 1956, see section 9 of act July 26, 1956, set out as a note under section 906 of this title.
+Amendment by act July 26, 1956, applicable only with respect to injuries and death occurring on or after July 26, 1956, see section 9 of act July 26, 1956, set out as a note under section 906 of this title.
 
 #### Effective Date of 1948 Amendment
 

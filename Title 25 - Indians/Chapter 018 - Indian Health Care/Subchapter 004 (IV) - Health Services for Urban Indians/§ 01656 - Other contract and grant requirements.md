@@ -10,7 +10,7 @@ Payments under any contracts or grants pursuant to this subchapter may be made i
 
 #### (c) Revision or amendment
 
-Notwithstanding any provision of law to the contrary, the Secretary may, at the request or consent of an urban Indian organization, revise or amend any contract entered into by the Secretary with such organization under this subchapter as necessary to carry out the purposes of this subchapter.
+Notwithstanding any provision of law to the contrary, the Secretary may, at the request orconsent of an urban Indian organization, revise or amend any contract entered into by the Secretary with such organization under this subchapter as necessary to carry out the purposes of this subchapter.
 
 #### (d) Existing Government facilities
 

@@ -20,6 +20,10 @@
 | [44914\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044914%20-%20Airport%20construction%20guidelines.md) | Airport construction guidelines. |
 | [44915\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044915%20-%20Exemptions.md) | Exemptions. |
 | [44916\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044916%20-%20Assessments%20and%20evaluations.md) | Assessments and evaluations. |
+| [44917\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044917%20-%20Deployment%20of%20Federal%20air%20marshals.md) | Deployment of Federal air marshals. |
+| [44918\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044918%20-%20Crew%20training.md) | Crew training. |
+| [44919\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044919%20-%20Security%20screening%20pilot%20program.md) | Security screening pilot program. |
+| [44920\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044920%20-%20Security%20screening%20opt-out%20program.md) | Security screening opt-out program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -27,24 +31,38 @@
 
 |  |  |
 | :--- | ---: |
-| [44931\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044931%20-%20Director%20of%20Intelligence%20and%20Security.md) | Director of Intelligence and Security. |
-| [44932\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044932%20-%20Assistant%20Administrator%20for%20Civil%20Aviation%20Security.md) | Assistant Administrator for Civil Aviation Security. |
+| \[44931, 44932. Repealed.\] |  |
 | [44933\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044933%20-%20Federal%20Security%20Managers.md) | Federal Security Managers. |
 | [44934\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044934%20-%20Foreign%20Security%20Liaison%20Officers.md) | Foreign Security Liaison Officers. |
 | [44935\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044935%20-%20Employment%20standards%20and%20training.md) | Employment standards and training. |
 | [44936\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044936%20-%20Employment%20investigations%20and%20restrictions.md) | Employment investigations and restrictions. |
 | [44937\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044937%20-%20Prohibition%20on%20transferring%20duties%20and%20powers.md) | Prohibition on transferring duties and powers. |
 | [44938\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044938%20-%20Reports.md) | Reports. |
+| [44939\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044939%20-%20Training%20to%20operate%20certain%20aircraft.md) | Training to operate certain aircraft. |
+| [44940\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044940%20-%20Security%20service%20fee.md) | Security service fee. |
+| [44941\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044941%20-%20Immunity%20for%20reporting%20suspicious%20activities.md) | Immunity for reporting suspicious activities. |
+| [44942\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044942%20-%20Performance%20goals%20and%20objectives.md) | Performance goals and objectives.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [44943\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044943%20-%20Performance%20management%20system.md) | Performance management system.<sup>1</sup> |
+| [44944\.](Subchapter%20002%20%28II%29%20-%20Administration%20and%20Personnel/%C2%A7%2044944%20-%20Voluntary%20provision%20of%20emergency%20services.md) | Voluntary provision of emergency services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2001—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
+
+Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
+
 1996—Pub. L. 104–264, title III, §312(b), Oct. 9, 1996, 110 Stat. 3254, added item 44916.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 106, 46301 of this title.
+This chapter is referred to in sections 106, 114, 46301, 48301 of this title.
 
 
 ---

@@ -10,7 +10,7 @@
 
 &emsp;(4) Five cadets from each congressional district, nominated by the Representative from the district.
 
-&emsp;(5) Five cadets from the District of Columbia, nominated by the Delegate to the Houseof Representatives from the District of Columbia.
+&emsp;(5) Five cadets from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
 
 &emsp;(6) Two cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) are serving as members of reserve components and are credited with at least eight years of service computed under section 12733 of this title; or
 
-&emsp;&emsp;(D) would be, or who died while they would have been, entitled to retired pay under chapter 1223 of this title except for not having attained 60 years of age;
+&emsp;&emsp;(D) would be, or who died while they would have been, entitled to retired pay underchapter 1223 of this title except for not having attained 60 years of age;
 
 > &emsp;however, a person who is eligible for selection under clause (1) of subsection (a) may not be selected under this clause.
 
@@ -256,7 +256,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–171 effective beginning with the nominations for appointment to the service academies in the calendar year 1974, see section 4 ofPub. L. 93–171, set out as a note under section 4342 of this title.
+Amendment by Pub. L. 93–171 effective beginning with the nominations for appointment to the service academies in the calendar year 1974, see section 4 of Pub. L. 93–171, set out as a note under section 4342 of this title.
 
 #### Effective Date of 1970 Amendment
 
@@ -268,7 +268,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Effective Date; Interim System for Appointment of Cadets
 
-Section 52(b) of act Aug. 10, 1956, as amended by Pub. L. 85–182, Aug. 28, 1957, 71 Stat. 463, provided that section 9342(a) of Title 10, Armed Forces would take effect four years after the entrance of the initial class at the United States Air Force Academy. However, for the four-year period beginning with the class of cadets entering in July 1959, not more than one quarter of the number of cadets authorized by clause (1), (2), (3), (4), (7), or (8) of that section could be appointed in any one academic year; two of the number of cadets authorized by clause (5) of that section could be appointed in the first and third years of that four-year period, and not more than one of the number authorized by it could be appointed in the second and fourth years of that period; and one cadet authorized by clause (6) of that section could be appointed in the first two years of that four-year period, and not more than one of the number authorized by it could be appointed in the second two years of that period. In addition, during that four-year period, the nominating authority named in clauses (1) to (6) of that section could select for each cadet allocated to him for the year concerned a principal candidate and not more than ten alternate candidates, or he could nominate as many candidates as the Secretary prescribed and authorize the Secretary to select the principal candidates in order of merit as determined by competitive examination. In carrying out section 9343 of Title 10, during that four-year period, only qualified alternates who were nominated by the authorities named in clauses (1) to (4) of section 9342(a) could be nominated for appointment as cadets. Not more than one qualified alternate nominated by any one authority named in those classes could be appointed as a cadet, after nomination under section 9343, during each year of that four-year period.
+Section 52(b) of act Aug. 10, 1956, as amended by Pub. L. 85–182, Aug. 28, 1957, 71 Stat. 463, provided that section 9342(a) of Title 10, Armed Forces would take effect four years after the entrance of the initial class at the United States Air Force Academy. However, for the four-year period beginning with the class of cadets entering in July 1959, not more than one quarter of the number of cadets authorized by clause (1), (2), (3), (4), (7), or (8) of that section could be appointed in any one academic year; two of the number of cadets authorized by clause (5) of that section could be appointed in the first and third years of that four-year period, and not more than one of the number authorized by it could be appointed in the second and fourth years of that period; and one cadet authorized by clause (6) of that section could be appointed in the first two years of that four-year period, and not more than one of the number authorized by it could be appointed in the second two years of that period. In addition, during that four-year period, the nominating authority named in clauses (1) to (6) of that section could select for each cadet allocated to him for the year concerned a principal candidate and not more than ten alternate candidates, or he could nominate as many candidates as the Secretary prescribed and authorize the Secretary to select the principal candidates in order of merit as determined by competitive examination. In carrying out section 9343 of Title 10, during that four-year period, only qualified alternates who were nominated by the authorities named in clauses (1) to (4) of section 9342(a) could benominated for appointment as cadets. Not more than one qualified alternate nominated by any one authority named in those classes could be appointed as a cadet, after nomination under section 9343, during each year of that four-year period.
 
 #### Limitation on Number of Cadets and Midshipmen Authorized To Attend Service Academies
 

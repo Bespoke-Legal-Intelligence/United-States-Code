@@ -50,7 +50,7 @@ A permit issued under this section—
 
 #### (4) Waiver or reduction of fees
 
-&emsp;The Secretary may accept in-kind contributions in lieu of a fee under paragraph (2)(C), or waive or reduce any fee assessed under this subsection for any activity that does not derive profit from the access to or use of sanctuary resources.
+&emsp;The Secretary may accept in-kind contributions in lieu of a fee under paragraph (2)(C), or waive or reduce any fee assessed under thissubsection for any activity that does not derive profit from the access to or use of sanctuary resources.
 
 #### (e) Violations
 
@@ -64,7 +64,7 @@ Upon violation of a term or condition of a permit issued under this section, the
 
 #### (f) Reports
 
-Each person issued a permit under this section shall submit an annual report to the Secretarynot later than December 31 of each year which describes activities conducted under that permit and revenues derived from such activities during the year.
+Each person issued a permit under this section shall submit an annual report to the Secretary not later than December 31 of each year which describes activities conducted under that permit and revenues derived from such activities during the year.
 
 #### (g) Fishing
 

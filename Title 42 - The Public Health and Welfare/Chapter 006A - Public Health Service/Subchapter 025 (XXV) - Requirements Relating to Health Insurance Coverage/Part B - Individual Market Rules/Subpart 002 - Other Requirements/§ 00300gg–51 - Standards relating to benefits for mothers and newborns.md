@@ -16,7 +16,7 @@ A health insurance issuer under this part shall comply with the notice requireme
 
 &emsp;&emsp;(A) Such State law requires such coverage to provide for at least a 48-hour hospital length of stay following a normal vaginal delivery and at least a 96-hour hospital length of stay following a cesarean section.
 
-&emsp;&emsp;(B) Such State law requires such coverage to provide for maternity and pediatric care in accordance with guidelines established bythe American College of Obstetricians and Gynecologists, the American Academy of Pediatrics, or other established professional medical associations.
+&emsp;&emsp;(B) Such State law requires such coverage to provide for maternity and pediatric care in accordance with guidelines established by the American College of Obstetricians and Gynecologists, the American Academy of Pediatrics, or other established professional medical associations.
 
 &emsp;&emsp;(C) Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to be made by) the attending provider in consultation with the mother.
 

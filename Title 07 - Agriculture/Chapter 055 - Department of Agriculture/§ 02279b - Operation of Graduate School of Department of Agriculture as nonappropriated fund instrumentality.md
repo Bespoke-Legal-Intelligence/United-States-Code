@@ -42,7 +42,7 @@ Under the general supervision of the Secretary, the Graduate School shall develo
 
 #### (B) Exception
 
-&emsp;&emsp;The Graduate School shall not accept a donation from a person that is actively engaged in a procurement activity with the Graduate School or has an interest that may be substantially affected by the performance or nonperformance of an official duty of a member of the Board or an employee of the Graduate School.
+&emsp;&emsp;The Graduate School shall not accept a donation from a person that is actively engaged in a procurement activity with the Graduate School or has an interest that may be substantially affected by the performance or nonperformance of an official duty of amember of the Board or an employee of the Graduate School.
 
 #### (3) Not Federal funds
 
@@ -118,7 +118,7 @@ The Graduate School may enter into contracts without regard to the Federal Prope
 
 #### (j) Use of Department facilities and resources
 
-The Graduate School may use the facilities and resources of the Department of Agriculture,on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
+The Graduate School may use the facilities and resources of the Department of Agriculture, on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
 
 (Pub. L. 104–127, title IX, §921, Apr. 4, 1996, 110 Stat. 1191.)
 

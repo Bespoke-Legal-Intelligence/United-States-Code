@@ -71,7 +71,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 16 section 1374.
+This chapter is referred to in title 16 section 1374; title 42 section 287a–3a.
 
 
 ---

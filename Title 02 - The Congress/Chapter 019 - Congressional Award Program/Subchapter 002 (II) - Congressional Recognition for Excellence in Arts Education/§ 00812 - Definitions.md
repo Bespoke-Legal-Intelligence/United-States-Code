@@ -16,7 +16,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) a public or private elementary school or secondary school (as the case may be), as defined in section 8801 of title 20; or
 
-&emsp;&emsp;(B) a bureau <sup>1</sup> funded school as defined in section 2026 of title 25.
+&emsp;&emsp;(B) a bureau <sup>1</sup> funded school as defined in section 2026 <sup>2</sup> of title 25.
 
 #### (4) State
 
@@ -24,5 +24,11 @@ In this subchapter:
 
 (Pub. L. 96–114, title II, §203, as added Pub. L. 106–533, §1(a), Nov. 22, 2000, 114 Stat. 2546.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Bureau”.</i>
+#### References in Text
+
+Section 2026 of title 25, referred to in par. (3)(B), was omitted in the general amendment of chapter 22 (§2000 et seq.) of Title 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. For definition of “Bureau-funded school”, see section 2021 of Title 25.
+
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Initial table
 
-The following is a table of vaccines, the injuries, disabilities, illnesses, conditions, anddeaths resulting from the administration of such vaccines, and the time period in which the first symptom or manifestation of onset or of the significant aggravation of such injuries, disabilities, illnesses, conditions, and deaths is to occur after vaccine administration for purposes of receiving compensation under the Program:
+The following is a table of vaccines, the injuries, disabilities, illnesses, conditions, and deaths resulting from the administration of such vaccines, and the time period in which the first symptom or manifestation of onset or of the significant aggravation of such injuries, disabilities, illnesses, conditions, and deaths is to occur after vaccine administration for purposes of receiving compensation under the Program:
 
 VACCINE INJURY TABLE
 
@@ -42,9 +42,9 @@ The following qualifications and aids to interpretation shall apply to the Vacci
 
 &emsp;&emsp;(B) in the case of any other vaccine, the first seizure or convulsion occurred within 3 days after administration of the vaccine and 2 or more seizures or convulsions occurred within 1 year after the administration of the vaccine which were unaccompanied by fever or accompanied by a fever of less than 102 degrees Fahrenheit.
 
-&emsp;(3)(A) The term “encephalopathy” means any significant acquired abnormality of, or injury to, or impairment of function of the brain. Among the frequent manifestations of encephalopathy are focal and diffuse neurologic signs, increased intracranial pressure, or changes lasting at least 6 hours in level of consciousness, with or without convulsions. The neurological signs and symptoms of encephalopathy may be temporary with complete recovery, or may result in various degrees of permanent impairment. Signs and symptoms such as high pitched and unusual screaming, persistent unconsolable crying, and bulging fontanel are compatible with an encephalopathy, but in and of themselves are not conclusive evidence of encephalopathy. Encephalopathy usually can be documented by slow wave activity on an electroencephalogram.
+&emsp;(3)(A) The term “encephalopathy” means any significant acquired abnormality of, or injury to, or impairment of function of the brain. Among the frequent manifestations of encephalopathy are focal and diffuse neurologic signs, increased intracranial pressure, or changes lasting at least 6 hours in level of consciousness, with or without convulsions. The neurological signs and symptoms of encephalopathy may be temporary with complete recovery, or may result in various degrees of permanent impairment. Signs and symptoms such as high pitched and unusual screaming,persistent unconsolable crying, and bulging fontanel are compatible with an encephalopathy, but in and of themselves are not conclusive evidence of encephalopathy. Encephalopathy usually can be documented by slow wave activity on an electroencephalogram.
 
-&emsp;(B) If in a proceeding on a petition it is shown by a preponderance of the evidence that an encephalopathy was caused by infection, toxins, trauma, or metabolic disturbances the encephalopathy shall not be considered to be acondition set forth in the table. If at the time a judgment is entered on a petition filed under section 300aa–11 of this title for a vaccine-related injury or death it is not possible to determine the cause, by a preponderance of the evidence, of an encephalopathy, the encephalopathy shall be considered to be a condition set forth in the table. In determining whether or not an encephalopathy is a condition set forth in the table, the court shall consider the entire medical record.
+&emsp;(B) If in a proceeding on a petition it is shown by a preponderance of the evidence that an encephalopathy was caused by infection, toxins, trauma, or metabolic disturbances the encephalopathy shall not be considered to be a condition set forth in the table. If at the time a judgment is entered on a petition filed under section 300aa–11 of this title for a vaccine-related injury or death it is not possible to determine the cause, by a preponderance of the evidence, of an encephalopathy, the encephalopathy shall be considered to be a condition set forth in the table. In determining whether or not an encephalopathy is a condition set forth in the table, the court shall consider the entire medical record.
 
 &emsp;(4) For purposes of paragraphs (2) and (3), the terms “seizure” and “convulsion” include grand mal, petit mal, absence, myoclonic, tonic-clonic, and focal motor seizures and signs. If a provision of the table to which paragraph (1), (2), (3), or (4) applies is revised under subsection (c) or (d) of this section, such paragraph shall not apply to such provision after the effective date of the revision unless the revision specifies that such paragraph is to continue to apply.
 
@@ -108,7 +108,7 @@ Subsec. (b)(3)(B). Pub. L. 101–239, §6601(k)(2), substituted “300aa–11 of
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediatesuspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 #### Revisions of Vaccine Injury Table
 

@@ -62,7 +62,7 @@ Subsection (a)(12) of this section, referred to in subsec. (c)(4), was redesigna
 
 #### Prior Provisions
 
-A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat.1551; amended Pub. L. 97–115, §3(d), Dec. 29, 1981, 95 Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057f of this title.
+A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §3(d), Dec. 29, 1981, 95 Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057f of this title.
 
 #### Amendments
 

@@ -24,7 +24,7 @@
 
 (c) A special Government employee shall be subject to subsections (a) and (b) only in relation to a particular matter involving a specific party or parties—
 
-&emsp;(1) in which such employee has at any time participated personally and substantially as a Government employee or as a special Government employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation or otherwise; or
+&emsp;(1) in which such employee has at any time participated personally and substantially as aGovernment employee or as a special Government employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation or otherwise; or
 
 &emsp;(2) which is pending in the department or agency of the Government in which such employee is serving except that paragraph (2) of this subsection shall not apply in the case of a special Government employee who has served in such department or agency no more than sixty days during the immediately preceding period of three hundred and sixty-five consecutive days.
 
@@ -38,7 +38,7 @@
 
 (e) Nothing in this section prevents a special Government employee from acting as agent or attorney for another person in the performance of work under a grant by, or a contract with or for the benefit of, the United States if the head of the department or agency concerned with the grant or contract certifies in writing that the national interest so requires and publishes such certification in the Federal Register.
 
-(f) Nothing in this section prevents an individual from giving testimony under oath or frommaking statements required to be made under penalty of perjury.
+(f) Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
 
 (Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 91–405, title II, §204(d)(2), (3), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, §47(a), Nov. 10, 1986, 100 Stat. 3604; Pub. L. 101–194, title IV, §402, Nov. 30, 1989, 103 Stat. 1748; Pub. L. 101–280, §5(b), May 4, 1990, 104 Stat. 159.)
 
@@ -112,7 +112,7 @@ Section 2 of Pub. L. 87–849 provided in part that: “All exemptions from the 
 
 Pub. L. 97–241, title I, §120, Aug. 24, 1982, 96 Stat. 280, provided that:
 
-“(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conferencewho is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
+“(a) Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary's designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
 
 “(b) As used in this section, the term ‘international telecommunications meeting or conference’ means the conferences of the International Telecommunications Union, meetings of its International Consultative Committees for Radio and for Telephone and Telegraph, and such other international telecommunications meetings or conferences as the Secretary of State may designate.”
 

@@ -52,7 +52,7 @@ Accidents Involving Public Aircraft.—The Board, in furtherance of its investig
 
 (e)
 
-Accident Reports.—The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
+Accident Reports.—The Board shall report on the facts and circumstances of each accidentinvestigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886.)
 
@@ -156,7 +156,7 @@ Section 3(d) of Pub. L. 103–411 provided that: “The amendments made by subse
 
 #### Revision of 1977 Agreement
 
-Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this Act \[see Short Title of 2000Amendment note set out under section 1101 of this title\].”
+Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this Act \[see Short Title of 2000 Amendment note set out under section 1101 of this title\].”
 
 #### Memorandum of Understanding
 

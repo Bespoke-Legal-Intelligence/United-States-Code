@@ -4,7 +4,7 @@ In this Act:
 
 #### (1) Local educational agency; State educational agency; outlying area
 
-&emsp;The terms “local educational agency”, “State educational agency”, and “outlying area” have the meanings given the terms in section 8801 of this title.
+&emsp;The terms “local educational agency”, “State educational agency”, and “outlying area” have the meanings given the terms in section 7801 of this title.
 
 #### (2) Eligible school attendance area; school attendance area
 
@@ -18,7 +18,7 @@ In this Act:
 
 &emsp;The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
 
-(Pub. L. 106–25, §3, Apr. 29, 1999, 113 Stat. 42.)
+(Pub. L. 106–25, §3, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, §1076(<i>o</i>), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### References in Text
 
@@ -28,11 +28,19 @@ This Act, referred to in text, is Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41,
 
 Section was enacted as part of the Education Flexibility Partnership Act of 1999, and not as part of the Goals 2000: Educate America Act which comprises this chapter.
 
+#### Amendments
+
+2002—Par. (1). Pub. L. 107–110 substituted “7801” for “8801”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+
 #### Findings
 
 Pub. L. 106–25, §2, Apr. 29, 1999, 113 Stat. 41, provided that: “Congress makes the following findings:
 
-&emsp;“(1) States differ substantially in demographics, in school governance, and in school finance and funding. The administrative and funding mechanisms that help schools in one State improve may not prove successful in other States.
+&emsp;“(1) States differ substantially in demographics, in school governance, and in school finance and funding. The administrative and funding mechanisms thathelp schools in one State improve may not prove successful in other States.
 
 &emsp;“(2) Although the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] and other Federal education statutes afford flexibility to State educational agencies and local educational agencies in implementing Federal programs, certain requirements of Federal education statutes or regulations may impede local efforts to reform and improve education.
 

@@ -8,7 +8,7 @@ The Director may, in accordance with applicable provisions of title 5, appoint a
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Director may appoint without regard to the provisions of title 5 governing the appointment in the competitive service and may compensate without regard to the provisions of chapter 51 or subchapter III of chapter 53 of such title (relating to the classification and General Schedule payrates), such technical and professional employees as the Director determines to be necessary to carry out the duties of the Institute.
+&emsp;Subject to paragraph (2), the Director may appoint without regard to the provisions of title 5 governing the appointment in the competitive service and may compensate without regard to the provisions of chapter 51 or subchapter III of chapter 53 of such title (relating to the classification and General Schedule pay rates), such technical and professional employees as the Director determines to be necessary to carry out the duties of the Institute.
 
 #### (2) Number and compensation
 
@@ -34,5 +34,5 @@ A prior section 206 of Pub. L. 94–462 was classified to section 965 of this ti
 
 #### Consideration Given to Individuals With Experience
 
-Section 101(e) \[title VII, §706\] of div. A of Pub. L. 104–208 provided that: “Consistent with title 5, United States Code, in appointing employees of the Office of Library Services, the Director of the Institute of Museum and Library Services shall give strong consideration to individuals with experience in administering State-based and national library and information services programs.”
+Section 101(e) \[title VII, §706\] of div. A of Pub. L. 104–208 provided that: “Consistent with title 5, UnitedStates Code, in appointing employees of the Office of Library Services, the Director of the Institute of Museum and Library Services shall give strong consideration to individuals with experience in administering State-based and national library and information services programs.”
 

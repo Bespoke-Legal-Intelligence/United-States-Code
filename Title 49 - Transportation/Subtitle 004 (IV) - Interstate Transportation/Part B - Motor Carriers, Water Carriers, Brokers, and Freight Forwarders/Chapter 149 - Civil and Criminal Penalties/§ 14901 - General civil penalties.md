@@ -14,7 +14,7 @@ Reporting and Recordkeeping.—A person required to make a report to the Secreta
 
 &emsp;(5) does not comply with section 13902(c);
 
-> is liable to the United States for a civil penalty of not less than $500 for each violation and for each additional day the violation continues; except that, in the case of a person who is not registered under this part to provide transportation of passengers, or an officer, agent, or employeeof such person, that does not comply with section 13901 with respect to providing transportation of passengers, the amount of the civil penalty shall not be less than $2,000 for each violation and for each additional day the violation continues.
+> is liable to the United States for a civil penalty of not less than $500 for each violation and for each additional day the violation continues; except that, in the case of a person who is not registered under this part to provide transportation of passengers, or an officer, agent, or employee of such person, that does not comply with section 13901 with respect to providing transportation of passengers, the amount of the civil penalty shall not be less than $2,000 for each violation and for each additional day the violation continues.
 
 (b)
 
@@ -96,7 +96,7 @@ Penalty for Pattern of Intentional Violations.—The civil penalty for a pattern
 
 “(d)
 
-Leasing.—Before the implementation of the land transportation provisions of the North American FreeTrade Agreement, during any period in which a suspension, condition, restriction, or limitation imposed under section 13902(c) of title 49, United States Code, applies to a motor carrier (as defined in section 13902(e) of such title), that motor carrier may not lease a commercial motor vehicle to another motor carrier or a motor private carrier to transport property in the United States.
+Leasing.—Before the implementation of the land transportation provisions of the North American Free Trade Agreement, during any period in which a suspension, condition, restriction, or limitation imposed under section 13902(c) of title 49, United States Code, applies to a motor carrier (as defined in section 13902(e) of such title), that motor carrier may not lease a commercial motor vehicle to another motor carrier or a motor private carrier to transport property in the United States.
 
 “(e)
 

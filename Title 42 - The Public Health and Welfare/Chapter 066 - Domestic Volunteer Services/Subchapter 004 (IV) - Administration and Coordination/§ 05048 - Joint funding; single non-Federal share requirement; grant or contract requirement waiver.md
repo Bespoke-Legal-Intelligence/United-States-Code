@@ -14,5 +14,5 @@ Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub.
 
 #### Delegation of Functions
 
-Authority of President under this section delegated to Director of Office of Management and Budget, seesection 1 of Ex. Ord. No. 11893, eff. Dec. 31, 1975, 41 F.R. 1040, set out as a note under section 7103 of Title 31, Money and Finance.
+Authority of President under this section delegated to Director of Office of Management and Budget, see section 1 of Ex. Ord. No. 11893, eff. Dec. 31, 1975, 41 F.R. 1040, set out as a note under section 7103 of Title 31, Money and Finance.
 

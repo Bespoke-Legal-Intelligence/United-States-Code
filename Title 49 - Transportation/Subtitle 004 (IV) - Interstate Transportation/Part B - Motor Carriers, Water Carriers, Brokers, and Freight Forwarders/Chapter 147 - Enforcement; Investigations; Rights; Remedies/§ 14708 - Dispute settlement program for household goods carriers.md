@@ -14,7 +14,7 @@ Prevention of special advantage.—The arbitration that is offered must be desig
 
 &emsp;(2)
 
-Notice of arbitration procedure.—The carrier must provide the shipper an adequate notice of the availability of neutral arbitration, including a concise easy-to-read, accurate summary of the arbitration procedure, any applicable costs, and disclosure of the legal effects of election to utilize arbitration. Such notice must be given to persons for whom household goods are to be transported by the carrier before such goods are tendered to the carrier for transportation.
+Notice of arbitration procedure.—The carrier must provide the shipper an adequate notice of the availability of neutral arbitration, including a concise easy-to-read, accurate summary of the arbitration procedure, any applicable costs, and disclosure of the legal effects of election to utilize arbitration. Such notice must be given to persons forwhom household goods are to be transported by the carrier before such goods are tendered to the carrier for transportation.
 
 &emsp;(3)
 
@@ -58,7 +58,7 @@ Attorney's Fees to Shippers.—In any court action to resolve a dispute between 
 
 (e)
 
-Attorney's Fees to Carriers.—In any court action to resolve a dispute between a shipper of household goods and a carrier providingtransportation, or service subject to jurisdiction under subchapter I or III of chapter 135 concerning the transportation of household goods by such carrier, such carrier may be awarded reasonable attorney's fees by the court only if the shipper brought such action in bad faith—
+Attorney's Fees to Carriers.—In any court action to resolve a dispute between a shipper of household goods and a carrier providing transportation, or service subject to jurisdiction under subchapter I or III of chapter 135 concerning the transportation of household goods by such carrier, such carrier may be awarded reasonable attorney's fees by the court only if the shipper brought such action in bad faith—
 
 &emsp;(1) after resolution of such dispute through arbitration under this section; or
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(ii) fails to mail a notice of final partnership administrative adjustment with respect to the partnership taxable year to which the request relates before the expiration of the period described in section 6229(a) (including any extension by agreement),
 
-> &emsp;&emsp;subparagraph (B) shall cease to apply with respect to such request, and the 2-year period referred to in clause (ii) of subparagraph (A) shall not expire before the date 6 months after the expiration of the period described in section 6229(a) (including any extension by agreement).
+> &emsp;&emsp;subparagraph (B) shall cease to apply with respect to such request, and the 2-year period referred to in clause (ii) of subparagraph\(A) shall not expire before the date 6 months after the expiration of the period described in section 6229(a) (including any extension by agreement).
 
 #### (D) Extension of time
 

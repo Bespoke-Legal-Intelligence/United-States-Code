@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (A) Interests held by partnerships, etc.
 
-&emsp;&emsp;United States real property interests held by a partnership, trust, or estate shall betreated as owned proportionately by its partners or beneficiaries.
+&emsp;&emsp;United States real property interests held by a partnership, trust, or estate shall be treated as owned proportionately by its partners or beneficiaries.
 
 #### (B) Interests held by family members
 

@@ -26,11 +26,11 @@ The purposes of this subchapter are—
 
 #### References in Text
 
-This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 103–31, May 20, 1993, 107 Stat. 77, is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 103–31, May 20, 1993, 107 Stat. 77, as amended, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 
 #### Effective Date
 
-Section 13 of Pub. L. 103–31 provided that: “This Act \[see Short Title note below\] shall take effect—
+Section 13 of Pub. L. 103–31 provided that: “This Act \[see Short Title note set out under section 1971 of this title\] shall take effect—
 
 &emsp;“(1) with respect to a State that on the date of enactment of this Act \[May 20, 1993\] has a provision in the constitution of the State that would preclude compliance with this Act unless the State maintained separate Federal and State official lists of eligible voters, on the later of—
 
@@ -42,7 +42,7 @@ Section 13 of Pub. L. 103–31 provided that: “This Act \[see Short Title note
 
 #### Short Title
 
-Section 1 of Pub. L. 103–31 provided that: “This Act \[enacting this subchapter and section 3629 of Title 39, Postal Service, and amending sections 2401 and 3627 of Title 39\] may be cited as the ‘National Voter Registration Act of 1993’.”
+This subchapter is known as the “National Voter Registration Act of 1993”, see Short Title note set out under section 1971 of this title.
 
 #### Proof of Citizenship
 

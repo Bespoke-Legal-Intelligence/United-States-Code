@@ -32,7 +32,7 @@ Selection Criteria.—The criteria for the selection of projects under the progr
 
 &emsp;(4) An assessment of timely private sector investment in activities to achieve the goals and objectives of the proposed project other than through the project.
 
-&emsp;(5) The potential effectiveness of the project in the further development and application of each technology proposed to be developed by the project for the national technology and industrial base.
+&emsp;(5) The potential effectiveness of the project in the further development and application ofeach technology proposed to be developed by the project for the national technology and industrial base.
 
 &emsp;(6) The extent of the financial commitment of eligible firms to the proposed project.
 

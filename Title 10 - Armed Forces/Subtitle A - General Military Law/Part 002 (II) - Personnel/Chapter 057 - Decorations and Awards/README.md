@@ -136,7 +136,7 @@ Sec. 2. The Humanitarian Service Medal and ribbons and appurtenances thereto sha
 
 Sec. 3. No more than one Humanitarian Service Medal shall be awarded to any one person, but for each subsequent participation in a humanitarian act or operation justifying such an award, a suitable device may be awarded to be worn with that medal as prescribed by appropriate regulations of the Military Departments.
 
-Sec. 4. The Humanitarian Service Medal or device may be awarded posthumously, and when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense or the Secretary of Transportation.
+Sec. 4. The Humanitarian Service Medal or device may be awarded posthumously, and when so awarded,may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense or the Secretary of Transportation.
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -200,7 +200,7 @@ Section 1. <i>Establishment</i>. There is hereby established the Armed Forces Se
 
 (b) Encounter no foreign armed opposition or imminent hostile action.
 
-Sec. 2. <i>Approval and Award</i>. The medal, with ribbons and appurtenances, shall be of an appropriate design approved by the Secretary of Defense and shall be awarded by the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Armed Forces Service Medal in an order of precedence immediately before the Humanitarian Service Medal.
+Sec. 2. <i>Approval and Award</i>. The medal, with ribbons and appurtenances, shall be of an appropriate design approved by the Secretary of Defense and shall beawarded by the Secretary of Defense and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, under uniform regulations, as prescribed by the Secretary of Defense. The regulations shall place the Armed Forces Service Medal in an order of precedence immediately before the Humanitarian Service Medal.
 
 Sec. 3. <i>Criteria</i>. The medal shall be awarded only for operations for which no other United States service medal is approved. For operations in which personnel of only one Military Department or the Coast Guard participate, the medal shall be awarded only if there is no other suitable award available to the department or the Coast Guard. No more than one medal shall be awarded to any one person, but for each succeeding operation justifying such award a suitable device may be awarded to be worn on the medal or ribbon as prescribed by appropriate regulations.
 

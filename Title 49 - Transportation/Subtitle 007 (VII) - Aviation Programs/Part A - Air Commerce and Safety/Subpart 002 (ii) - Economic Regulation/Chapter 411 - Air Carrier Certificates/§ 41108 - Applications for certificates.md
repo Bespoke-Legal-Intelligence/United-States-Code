@@ -20,7 +20,7 @@ Notice, Response, and Actions on Applications.—(1) When an application is file
 
 (2) An order of dismissal issued by the Secretary under paragraph (1)(C) of this subsection is a final order and may be reviewed judicially under section 46110 of this title.
 
-(3) If the Secretary provides an opportunity for a hearing under paragraph (1)(A) of this subsection, an initial or recommended decision shall be issued not later than 150 days after the date the Secretary provides the opportunity. The Secretary shall issue a final order on theapplication not later than 90 days after the decision is issued. However, if the Secretary does not act within the 90-day period, the initial or recommended decision on an application to provide—
+(3) If the Secretary provides an opportunity for a hearing under paragraph (1)(A) of this subsection, an initial or recommended decision shall be issued not later than 150 days after the date the Secretary provides the opportunity. The Secretary shall issue a final order on the application not later than 90 days after the decision is issued. However, if the Secretary does not act within the 90-day period, the initial or recommended decision on an application to provide—
 
 &emsp;(A) interstate air transportation is a final order and may be reviewed judicially under section 46110 of this title; and
 

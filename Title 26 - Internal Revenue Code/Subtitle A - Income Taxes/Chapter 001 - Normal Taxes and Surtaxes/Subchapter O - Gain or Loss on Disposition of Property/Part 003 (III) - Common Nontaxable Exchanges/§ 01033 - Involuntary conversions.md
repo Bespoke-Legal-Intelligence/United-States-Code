@@ -94,7 +94,7 @@ If property (as a result of its destruction in whole or in part, theft, seizure,
 
 #### (ii) Allocation of reduction among properties
 
-&emsp;&emsp;&emsp;If more than 1 property is described in a clause of subparagraph (C), the reduction under this paragraph shall be allocated among such property in proportion to the adjusted bases of such property (as so determined).
+&emsp;&emsp;&emsp;If more than 1 property is described in a clause of subparagraph (C), the reductionunder this paragraph shall be allocated among such property in proportion to the adjusted bases of such property (as so determined).
 
 #### (c) Property sold pursuant to reclamation laws
 
@@ -224,7 +224,7 @@ For purposes of subsection (a), if, because of soil contamination or other envir
 
 #### References in Text
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (h)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (h)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, seeShort Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
@@ -362,7 +362,7 @@ Section 915(b) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending aftersuch date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
+Amendment by Pub. L. 88–272 applicable to dispositions after Dec. 31, 1963, in taxable years ending after such date, see section 206(c) of Pub. L. 88–272, set out as an Effective Date note under section 121 of this title.
 
 #### Effective Date of 1958 Amendment
 
@@ -378,5 +378,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 121, 143, 165, 172, 197, 381, 453, 857, 1016, 1031, 1223, 1245, 1250, 1351, 2032A, 2057, 6212, 6504, 7508A of this title; title 25 sections 1716, 1729, 1754.
+This section is referred to in sections 121, 139, 143, 165, 172, 197, 381, 453, 857, 1016, 1031, 1223, 1245, 1250, 1351, 2032A, 2057, 6212, 6504, 7508A of this title; title 25 sections 1716, 1729, 1754; title 29 sections 1148, 1302.
 

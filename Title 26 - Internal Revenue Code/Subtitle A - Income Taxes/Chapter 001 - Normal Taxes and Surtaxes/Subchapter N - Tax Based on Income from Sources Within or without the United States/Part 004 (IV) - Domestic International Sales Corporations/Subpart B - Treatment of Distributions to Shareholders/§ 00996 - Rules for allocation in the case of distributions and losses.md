@@ -26,7 +26,7 @@
 
 #### (3) Exclusion from gross income
 
-&emsp;Amounts distributed out of previously taxed income shall be excluded by the distributee from gross income except for gains described in subsection (e)(2), and shall reduce the amount of the previously taxed income.
+&emsp;Amounts distributed out of previously taxed income shall be excluded by the distributee from gross income except for gains describedin subsection (e)(2), and shall reduce the amount of the previously taxed income.
 
 #### (b) Ordering rules for losses
 
@@ -66,7 +66,7 @@ Any actual distribution made during a taxable year shall be treated as being mad
 
 #### (2) Reductions of basis
 
-&emsp;The portion of an actual distribution made out of previously taxed income shall reduce the basis of the stock with respect to which it is made, and to the extent that it exceeds the adjusted basis of such stock, shall be treated as gain from the sale or exchange of property. In the case of stock includible in the gross estate of a decedent for which an election is made under section 2032 (relating to alternatevaluation), this paragraph shall not apply to any distribution made after the date of the decedent's death and before the alternate valuation date provided by section 2032.
+&emsp;The portion of an actual distribution made out of previously taxed income shall reduce the basis of the stock with respect to which it is made, and to the extent that it exceeds the adjusted basis of such stock, shall be treated as gain from the sale or exchange of property. In the case of stock includible in the gross estate of a decedent for which an election is made under section 2032 (relating to alternate valuation), this paragraph shall not apply to any distribution made after the date of the decedent's death and before the alternate valuation date provided by section 2032.
 
 #### (f) Definition of divisions of earnings and profits
 
@@ -92,7 +92,7 @@ In the case of a shareholder who is a nonresident alien individual or a foreign 
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted last sentence and struck out former last sentence which read as follows: “In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted last sentence and struck out former last sentence which read as follows: “In the case of any amount of any actual distribution made pursuant to section 992(c) which isrequired to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount.”
 
 <b>1984</b>—Subsec. (g). Pub. L. 98–369 inserted “and which are derived from sources within the United States”.
 

@@ -2,7 +2,7 @@
 
 #### (a) National advanced scientific and technical education program
 
-The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of thistitle referred to as the “Director”) shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields. The grant program shall place emphasis on the needs of students who have been in the workforce (including work in the home), and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
+The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of this title referred to as the “Director”) shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields. The grant program shall place emphasis on the needs of students who have been in the workforce (including work in the home), and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
 
 &emsp;(1) the development of model instructional programs in advanced-technology fields;
 
@@ -52,7 +52,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 #### (2) Outreach grants
 
-&emsp;The Director shall make grants to associate-degree-granting colleges with outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
+&emsp;The Director shall make grants to associate-degree-granting colleges with outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and scienceeducation and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
 
 #### (d) Coordination with other Federal departments
 
@@ -60,7 +60,7 @@ In carrying out this section, the Director shall consult, cooperate, and coordin
 
 #### (e) Limitation on funding
 
-To qualify for a grant under this section, an associate-degree-granting college, or consortiumthereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
+To qualify for a grant under this section, an associate-degree-granting college, or consortium thereof, shall provide assurances adequate to the Director that it will not decrease its level of spending of funds from non-Federal sources on advanced scientific and technical education and training programs.
 
 #### (f) Functions of Director
 
@@ -102,7 +102,7 @@ Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (f), was 
 
 The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (d), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585, amended title I of the Act generally and part B, which formerly related to articulation agreements, now relates to additional general provisions. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-Section 2891(12) of title 20, referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891(12)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see section 8801 of Title 20, Education.
+Section 2891(12) of title 20, referred to in subsec. (g)(5), was in the original “section 1471(12) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 2891(12)”, Pub. L. 89–10, and was omitted in the general amendment of that Act by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For provisions relating to definitions, see section 7801 of Title 20, Education.
 
 #### Codification
 

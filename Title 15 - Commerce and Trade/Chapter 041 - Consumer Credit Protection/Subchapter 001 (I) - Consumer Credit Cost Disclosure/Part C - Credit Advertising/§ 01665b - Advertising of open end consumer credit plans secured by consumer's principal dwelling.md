@@ -48,7 +48,7 @@ If any advertisement described in subsection (a) of this section contains a stat
 
 #### (f) “Balloon payment” defined
 
-For purposes of this section and section 1637a of this title, the term “balloon payment”means, with respect to any open end consumer credit plan under which extensions of credit are secured by the consumer's principal dwelling, any repayment option under which—
+For purposes of this section and section 1637a of this title, the term “balloon payment” means, with respect to any open end consumer credit plan under which extensions of credit are secured by the consumer's principal dwelling, any repayment option under which—
 
 &emsp;(1) the account holder is required to repay the entire amount of any outstanding balance as of a specified date or at the end of a specified period of time, as determined in accordance with the terms of the agreement pursuant to which such credit is extended; and
 

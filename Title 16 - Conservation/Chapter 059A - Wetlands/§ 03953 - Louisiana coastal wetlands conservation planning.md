@@ -42,7 +42,7 @@ The conservation plan authorized by this section shall include—
 
 &emsp;(2) designation of a single State agency with the responsibility for implementing and enforcing the plan;
 
-&emsp;(3) identification of measures that the State shall take in addition to existing Federal authority to achieve a goal of no net loss of wetlands as a result of development activities, exclusive of any wetlands gains achieved through implementation of section 3952 of this title;
+&emsp;(3) identification of measures that the State shall take in addition to existing Federal authority to achieve a goal of no net loss of wetlands as a result of development activities, exclusive of any wetlands gains achievedthrough implementation of section 3952 of this title;
 
 &emsp;(4) a system that the State shall implement to account for gains and losses of coastal wetlands within coastal areas for purposes of evaluating the degree to which the goal of no net loss of wetlands as a result of development activities in such wetlands or other waters has been attained;
 

@@ -26,7 +26,7 @@ The word “otherwise” is omitted as surplus. The words “may pay the discoun
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, contracts renewed, andcontract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988, see section 14(a) of Pub. L. 100–496, set out as a note under section 3902 of this title.
+Amendment by Pub. L. 100–496 applicable to payments under contracts awarded, contracts renewed, and contract options exercised during or after the first fiscal quarter which begins more than 90 days after Oct. 17, 1988, see section 14(a) of Pub. L. 100–496, set out as a note under section 3902 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -336,7 +336,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;(B) The Administrator may delete any source category from the list under this subsection, on petition of any person or on the Administrator's own motion, whenever the Administrator makes the following determination or determinations, as applicable:
 
-&emsp;&emsp;(i) In the case of hazardous air pollutants emitted by sources in the category that mayresult in cancer in humans, a determination that no source in the category (or group of sources in the case of area sources) emits such hazardous air pollutants in quantities which may cause a lifetime risk of cancer greater than one in one million to the individual in the population who is most exposed to emissions of such pollutants from the source (or group of sources in the case of area sources).
+&emsp;&emsp;(i) In the case of hazardous air pollutants emitted by sources in the category that may result in cancer in humans, a determination that no source in the category (or group of sources in the case of area sources) emits such hazardous air pollutants in quantities which may cause a lifetime risk of cancergreater than one in one million to the individual in the population who is most exposed to emissions of such pollutants from the source (or group of sources in the case of area sources).
 
 &emsp;&emsp;(ii) In the case of hazardous air pollutants that may result in adverse health effects in humans other than cancer or adverse environmental effects, a determination that emissions from no source in the category or subcategory concerned (or group of sources in the case of area sources) exceed a level which is adequate to protect public health with an ample margin of safety and no adverse environmental effect will result from emissions from any source (or from a group of sources in the case of area sources).
 
@@ -474,7 +474,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;(B) Nothing in subparagraph (A) or in any other provision of this section shall be construed as affecting, or applying to the Administrator's interpretation of this section, as in effect before November 15, 1990, and set forth in the Federal Register of September 14, 1989 (54 Federal Register 38044).
 
-&emsp;(C) The Administrator shall determine whether or not to promulgate such standards and, if the Administrator decides to promulgate such standards, shall promulgate the standards 8 years after promulgation of the standards under subsection (d) of this section for each source category or subcategory concerned. In the case of categories or subcategories for which standards under subsection (d) of this section are required to be promulgated within 2 years after November 15, 1990, the Administrator shall have 9 years after promulgation of the standards under subsection (d) of this section to make the determination under the preceding sentence and, ifrequired, to promulgate the standards under this paragraph.
+&emsp;(C) The Administrator shall determine whether or not to promulgate such standards and, if the Administrator decides to promulgate such standards, shall promulgate the standards 8 years after promulgation of the standards under subsection (d) of this section for each source category or subcategory concerned. In the case of categories or subcategories for which standards under subsection (d) of this section are required to be promulgated within 2 years after November 15, 1990, the Administrator shall have 9 years after promulgation of the standards under subsection (d) of this section to make the determination under the preceding sentence and, if required, to promulgate the standards under this paragraph.
 
 #### (3) Effective date
 
@@ -524,7 +524,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;For the purpose of this subsection, the phrase “not feasible to prescribe or enforce an emission standard” means any situation in which the Administrator determines that—
 
-&emsp;&emsp;(A) a hazardous air pollutant or pollutants cannot be emitted through a conveyance designed and constructed to emit or capture such pollutant, or that any requirement for, or use of, such a conveyance would be inconsistent with any Federal, State or local law, or
+&emsp;&emsp;(A) a hazardous air pollutant or pollutants cannot be emitted through a conveyance designed and constructed to emit or capturesuch pollutant, or that any requirement for, or use of, such a conveyance would be inconsistent with any Federal, State or local law, or
 
 &emsp;&emsp;(B) the application of measurement methodology to a particular class of sources is not practicable due to technological and economic limitations.
 
@@ -566,7 +566,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;(B) An existing source which achieves the reduction referred to in subparagraph (A) after the proposal of an applicable standard but before January 1, 1994, may qualify under subparagraph (A), if the source makes an enforceable commitment to achieve such reduction before the proposal of the standard. Such commitment shall be enforceable to the same extent as a regulation under this section.
 
-&emsp;(C) The reduction shall be determined with respect to verifiable and actual emissions in abase year not earlier than calendar year 1987, provided that, there is no evidence that emissions in the base year are artificially or substantially greater than emissions in other years prior to implementation of emissions reduction measures. The Administrator may allow a source to use a baseline year of 1985 or 1986 provided that the source can demonstrate to the satisfaction of the Administrator that emissions data for the source reflects verifiable data based on information for such source, received by the Administrator prior to November 15, 1990, pursuant to an information request issued under section 7414 of this title.
+&emsp;(C) The reduction shall be determined with respect to verifiable and actual emissions in a base year not earlier than calendar year 1987, provided that, there is no evidence that emissions in the base year are artificially or substantially greater than emissions in other years prior to implementation of emissions reduction measures. The Administrator may allow a source to use a baseline year of 1985 or 1986 provided that the source can demonstrate to the satisfaction of the Administrator that emissions data for the source reflects verifiable data based on information for such source, received by the Administrator prior to November 15, 1990, pursuant to an information request issued under section 7414 of this title.
 
 &emsp;(D) For each source granted an alternative emission limitation under this paragraph there shall be established by a permit issued pursuant to subchapter V of this chapter an enforceable emission limitation for hazardous air pollutants reflecting the reduction which qualifies the source for an alternative emission limitation under this paragraph. An alternative emission limitation under this paragraph shall not be available with respect to standards or requirements promulgated pursuant to subsection (f) of this section and the Administrator shall, for the purpose of determining whether a standard under subsection (f) of this section is necessary, review emissions from sources granted an alternative emission limitation under this paragraph at the same time that other sources in the category or subcategory are reviewed.
 
@@ -612,7 +612,7 @@ NOTE: For all listings above which contain the word “compounds” and for glyc
 
 &emsp;&emsp;(IV) 16 seconds visible emissions per charge,
 
-> &emsp;or the total mass emissions equivalent (if the total mass emissions equivalent is determinedto be practicable and enforceable), with no exclusion for emissions during the period after the closing of self-sealing oven doors.
+> &emsp;or the total mass emissions equivalent (if the total mass emissions equivalent is determined to be practicable and enforceable), with no exclusion for emissions during the period after the closing of self-sealing oven doors.
 
 &emsp;(C) Not later than January 1, 2007, the Administrator shall review the emission limitations promulgated under subparagraph (B) and revise, as necessary, such emission limitations to reflect the lowest achievable emission rate as defined in section 7501 of this title at the time for a coke oven battery that is rebuilt or a replacement at a coke oven plant for an existing battery. Such emission limitations shall be no less stringent than the emission limitation promulgated under subparagraph (B). Notwithstanding paragraph (2) of this subsection, the compliance date for such emission limitations for existing coke oven batteries shall be January 1, 2010.
 

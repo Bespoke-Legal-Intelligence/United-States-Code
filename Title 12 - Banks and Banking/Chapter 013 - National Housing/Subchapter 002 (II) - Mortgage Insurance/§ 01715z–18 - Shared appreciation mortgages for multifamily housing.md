@@ -10,7 +10,7 @@ The mortgagee's share of a property's net appreciated value shall be payable upo
 
 #### (c) Entitlement of mortgagee upon default
 
-In the event of a default, the mortgagee shall be entitled to receive the benefits of insurancein accordance with section 1713 of this title, but such insurance benefits shall not include the mortgagee's share of net appreciated value. The term “original principal face amount of the mortgage” as used in section 1713 of this title shall not include the mortgagee's share of net appreciated value.
+In the event of a default, the mortgagee shall be entitled to receive the benefits of insurance in accordance with section 1713 of this title, but such insurance benefits shall not include the mortgagee's share of net appreciated value. The term “original principal face amount of the mortgage” as used in section 1713 of this title shall not include the mortgagee's share of net appreciated value.
 
 #### (d) Maximum percentage of net appreciated value; disclosure requirements
 
@@ -28,7 +28,7 @@ The number of dwelling units included in properties covered by mortgages insured
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–242, §429(j)(1), substituted “For purposes of this section, the term ‘net appreciated value’ means the amount by which the sales price of the property (less the mortgagor's selling costs) exceeds the actual project cost after completion, as approved by the Secretary” for “For purposes of this section, the term ‘net appreciated value’ means the amount by which the sales price of the property (less the mortgagor's selling costs) exceeds the value (or replacement cost, as appropriate) of the property at the time the commitment to insure is issued (with adjustments for capital improvements stipulated in the loan contract)”.
+1988—Subsec. (b). Pub. L. 100–242, §429(j)(1), substituted “For purposes of this section, the term ‘net appreciated value’ means the amount by which the sales price of the property (less the mortgagor's selling costs) exceeds the actual project cost after completion,as approved by the Secretary” for “For purposes of this section, the term ‘net appreciated value’ means the amount by which the sales price of the property (less the mortgagor's selling costs) exceeds the value (or replacement cost, as appropriate) of the property at the time the commitment to insure is issued (with adjustments for capital improvements stipulated in the loan contract)”.
 
 Subsec. (c). Pub. L. 100–242, §429(j)(2), (3), substituted “in accordance with section 1713 of this title” for “in accordance with section 1710 of this title” and “The term ‘original principal face amount of the mortgage’ as used in section 1713 of this title shall not include the mortgagee's share of net appreciated value” for “The term ‘original principal obligation of the mortgage’ as used in section 1710(a) of this title shall not include the mortgagee's share of net appreciated value”.
 

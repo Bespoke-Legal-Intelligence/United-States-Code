@@ -18,7 +18,7 @@ Section effective noon, Jan. 20, 1949, see section 3 of act Jan. 19, 1949.
 
 #### Official Temporary Residence of the Vice President
 
-Pub. L. 93–346, July 12, 1974, 88 Stat. 340, as amended by Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1764, provided: “That effective July 1, 1974, the Government-owned house together with furnishings, associated grounds (consisting of twelve acres, more or less), and related facilities which have heretofore been used as the residence of the Chief of Naval Operations, Department of the Navy, shall, on and after such date be available for, and are hereby designated as, the temporary official residence of the Vice President of the United States.
+Pub. L. 93–346, July 12, 1974, 88 Stat. 340, as amended by Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1764; Pub. L. 107–67, title VI, §§635, 636, Nov. 12, 2001, 115 Stat. 553, provided: “That effective July 1, 1974, the Government-owned house together with furnishings, associated grounds (consisting of twelve acres, more or less), and related facilities which have heretofore been used as the residence of the Chief of Naval Operations, Department of the Navy, shall, on and after such date be available for, and are hereby designated as, the temporary official residence of the Vice President of the United States.
 
 “
 
@@ -26,7 +26,7 @@ Sec. 2. The temporary official residence of the Vice President shall be adequate
 
 “
 
-Sec. 3. The Secretary of the Navy shall, subject to the supervision and control of the Vice President, provide for the military staffing and the care and maintenance of the grounds of the temporary official residence of the Vice President and, subject to reimbursement therefor out of funds appropriated for such purposes, provide for the civilian staffing, care, maintenance, repair, improvement, alteration, and furnishing of such residence.
+Sec. 3. The Secretary of the Navy shall, subject to the supervision and control of the Vice President, provide for the military staffing, utilities (including electrical) for, and the care and maintenance of the grounds of the temporary official residence of the Vice President and, subject to reimbursement therefor out of funds appropriated for such purposes, provide for the civilian staffing, care, maintenance, repair, improvement, alteration, and furnishing of such residence.
 
 “
 
@@ -38,7 +38,7 @@ Sec. 5. After the date on which the Vice President moves into the temporary offi
 
 “
 
-Sec. 6. The Secretary of the Navy is authorized and directed, with the approval of the Vice President, to accept donations of money or property for the furnishing of or making improvements in or about the temporary official residence of the Vice President, all such donations to become the property of the United States and to be accounted for as such.
+Sec. 6. The Secretary of the Navy is authorized and directed, with the approval of the Vice President, to accept donations of money or property for the furnishing of or making improvements in or about, or for use at official functions in or about, the temporary official residence of the Vice President, all such donations to become the property of the United States and to be accounted for as such.
 
 “
 
@@ -70,7 +70,7 @@ Sec. 4. The Administrator of General Services is further authorized to accept ca
 
 “
 
-Sec. 5. There is authorized to be appropriated to the General Services Administration, the sum of $750,000for planning, design, construction, and costs incidental thereto, including the cost of initial furnishings.
+Sec. 5. There is authorized to be appropriated to the General Services Administration, the sum of $750,000 for planning, design, construction, and costs incidental thereto, including the cost of initial furnishings.
 
 “
 

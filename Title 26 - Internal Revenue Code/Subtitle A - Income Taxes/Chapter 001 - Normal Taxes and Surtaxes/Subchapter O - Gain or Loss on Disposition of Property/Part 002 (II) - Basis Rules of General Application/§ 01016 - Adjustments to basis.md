@@ -34,7 +34,7 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(4) in the case of stock (to the extent not provided for in the foregoing paragraphs) for the amount of distributions previously made which, under the law applicable to the year in which the distribution was made, either were tax-free or were applicable in reduction of basis (not including distributions made by a corporation which was classified as a personal service corporation under the provisions of the Revenue Act of 1918 (40 Stat. 1057), or the Revenue Act of 1921 (42 Stat. 227), out of its earnings or profits which were taxable in accordance with the provisions of section 218 of the Revenue Act of 1918 or 1921);
 
-&emsp;(5) in the case of any bond (as defined in section 171(d)) the interest on which is wholly exempt from the tax imposed by this subtitle, to the extent of the amortizable bond premium disallowable as a deduction pursuant to section 171(a)(2), and in the case of any other bond (as defined in section 171(d)) to the extent of the deductions allowable pursuant to section 171(a)(1) (or the amount applied to reduce interest payments under section 171(e)(2)) with respect thereto;
+&emsp;(5) in the case of any bond (as defined in section 171(d)) the interest on which is wholly exempt from the tax imposed by this subtitle, tothe extent of the amortizable bond premium disallowable as a deduction pursuant to section 171(a)(2), and in the case of any other bond (as defined in section 171(d)) to the extent of the deductions allowable pursuant to section 171(a)(1) (or the amount applied to reduce interest payments under section 171(e)(2)) with respect thereto;
 
 &emsp;(6) in the case of any municipal bond (as defined in section 75(b)), to the extent provided in section 75(a)(2);
 
@@ -76,9 +76,11 @@ Proper adjustment in respect of the property shall in all cases be made—
 
 &emsp;(25) to the extent provided in section 30(d)(1),<sup>2</sup>
 
-&emsp;(26) to the extent provided in sections 23(g) and 137(e),<sup>2</sup> and
+&emsp;(26) to the extent provided in sections 23(g) and 137(e),<sup>2</sup>
 
-&emsp;(27) in the case of a residence with respect to which a credit was allowed under section 1400C, to the extent provided in section 1400C(h).
+&emsp;(27) in the case of a residence with respect to which a credit was allowed under section 1400C, to the extent provided in section 1400C(h),<sup>2</sup> and
+
+&emsp;(28) in the case of a facility with respect to which a credit was allowed under section 45F, to the extent provided in section 45F(f)(1).
 
 #### (b) Substituted basis
 
@@ -140,7 +142,11 @@ If—
 
 &emsp;&emsp;<b>For treatment of separate mineral interests as one property, see section 614.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I, §§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6, 1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub. L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 299; June 29, 1956, ch. 464, §4(c), 70 Stat. 407; Pub. L. 85–866, title I, §§2(b), 64(d)(2), Sept. 2, 1958, 72 Stat. 1607, 1656; Pub. L. 86–69, §3(d), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §§2(f), 8(g)(2), 12(b)(4), Oct. 16, 1962, 76 Stat. 972, 998, 1031; Pub. L. 88–272, title II, §§203(a)(3)(C), 225(j)(2), 227(b)(5), Feb. 26, 1964, 78 Stat. 34, 93, 98; Pub. L. 91–172, title II, §231(c)(3), title V, §§504(c)(4), 516(c)(2)(B), Dec. 30, 1969, 83 Stat. 580, 633, 648; Pub. L. 94–455, title XIX, §1901(a)(123), (b)(1)(F)(ii), (21)(G), (29)(A), (30)(A), title XX, §2005(a)(3), Oct. 4, 1976, 90 Stat. 1784, 1790, 1798, 1799, 1876; Pub. L. 95–472, §4(b), Oct. 17, 1978, 92 Stat. 1335; Pub. L. 95–600, title V, §515(2), title VI, §601(b)(3), title VII, §702(r)(3), Nov. 6, 1978, 92 Stat. 2884, 2896, 2938; Pub. L. 95–618, title I, §101(b)(3), title II, §201(b), Nov. 9, 1978, 92 Stat. 3179, 3183; Pub. L. 96–222, title I, §§106(a)(2), (3), 107(a)(2)(C), Apr. 1, 1980, 94 Stat. 221, 222; Pub. L. 96–223, title IV, §401(a), (c)(1), Apr. 2, 1980, 94 Stat. 299, 300; Pub. L. 97–34, title II, §212(d)(2)(G), title IV, §421(g), Aug. 13, 1981, 95 Stat. 239, 310; Pub. L. 97–248, title II, §§201(c)(2), 205(a)(5)(B), Sept. 3, 1982, 96 Stat. 418, 429; Pub. L. 97–354, §5(a)(33), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title I, §§43(a)(2), 53(d)(3), title II, §211(b)(14), title IV, §474(r)(23), title V, §541(b)(2), July 18, 1984, 98 Stat. 558, 568, 756, 844, 890; Pub. L. 99–514, title II, §241(b)(2), title VII, §701(e)(4)(D), title XIII, §1303(b)(3), title XVIII, §1899A(25), Oct. 22, 1986, 100 Stat. 2181, 2343, 2658, 2959; Pub. L. 100–647, title I, §§1006(j)(1)(B), 1018(u)(22), Nov. 10, 1988, 102 Stat. 3411, 3591; Pub. L. 101–194, title V, §502(b)(2), Nov. 30, 1989, 103 Stat. 1755; Pub. L. 101–508, title XI, §§11801(c)(1), 11812(b)(10), 11813(b)(19), Nov. 5, 1990, 104 Stat. 1388–522, 1388–535, 1388–555; Pub. L. 102–486, title XIX, §1913(a)(3)(A), (b)(2)(B), Oct. 24, 1992, 106 Stat. 3019, 3020; Pub. L. 103–66, title XIII, §§13114(b), 13213(a)(2)(F), 13261(f)(3), Aug. 10, 1993, 107 Stat. 431, 474, 539; Pub. L. 104–188, title I, §§1704(t)(56), 1807(c)(5), Aug. 20, 1996, 110 Stat. 1890, 1902; Pub. L. 105–34, title III, §§312(d)(6), 313(b)(1), title VII, §701(b)(2), Aug. 5, 1997, 111 Stat. 840, 842, 869; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603; Pub. L. 107–16, title II, §205(b)(3), June 7, 2001, 115 Stat. 53.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -161,6 +167,8 @@ The date of the enactment of the Taxpayer Relief Act of 1997, referred to in sub
 Section 28 of the Internal Revenue Code of 1939, referred to in subsec. (a)(12), was classified to section 28 of former Title 26, Internal Revenue Code. Section 28 was repealed by section 7851(a)(1)(A) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(28). Pub. L. 107–16, §§205(b)(3), 901, temporarily added par. (28). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (a)(23). Pub. L. 106–554 substituted “1045, or 1397B” for “or 1045” and “1045(b)(4), or 1397B(b)(4)” for “or 1045(b)(4)”.
 
@@ -308,6 +316,12 @@ Subsec. (a)(18). Pub. L. 85–866, §64(d)(2), added par. (18).
 
 <b>1956</b>—Subsec. (a)(16). Act June 29, 1956, added par. (16).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 205(c) of Pub. L. 107–16, set out as a note under section 38 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(7) \[title I, §116(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604, provided that: “The amendments made by this section \[enacting subpart C of part III of subchapter U of this chapter, amending this section and sections 1223, 1394, 1400, and 1400B of this title, redesignating subpart C of part III of subchapter U of this chapter as subpart D of part III of subchapter U of this chapter, and renumbering sections 1397B and 1397C of this title as 1397C and 1397D, respectively, of this title\] shall apply to qualified empowerment zone assets acquired after the date of the enactment of this Act \[Dec. 21, 2000\].”
@@ -326,7 +340,7 @@ Amendment by section 1807(c)(5) of Pub. L. 104–188 applicable to taxable years
 
 #### Effective Date of 1993 Amendment
 
-Section 13114(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section 1044 of this title and amending this section\] shall apply to sales on and after the date of the enactment of this Act \[Aug. 10, 1993\], in taxable years ending on and after such date.”
+Section 13114(d) of Pub. L. 103–66 provided that: “The amendments made by this section \[enacting section1044 of this title and amending this section\] shall apply to sales on and after the date of the enactment of this Act \[Aug. 10, 1993\], in taxable years ending on and after such date.”
 
 Amendment by section 13213(a)(2)(F) of Pub. L. 103–66 applicable to expenses incurred after Dec. 31, 1993, see section 13213(e) of Pub. L. 103–66 set out as a note under section 62 of this title.
 
@@ -398,7 +412,7 @@ Section 101(c) of Pub. L. 95–618 provided that: “The amendments made by this
 
 Amendment by section 201(b) of Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section 201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
 
-Amendment by section 601(b)(3) of Pub. L. 95–600 effective with respect to corporations chartered after Dec. 31, 1978, and before Jan. 1, 1984, see section 601(d) of Pub. L. 95–600, set out as a note under section 172 of this title.
+Amendment by section 601(b)(3) of Pub. L. 95–600 effective with respect to corporations chartered afterDec. 31, 1978, and before Jan. 1, 1984, see section 601(d) of Pub. L. 95–600, set out as a note under section 172 of this title.
 
 Amendment by section 702(r)(3) of Pub. L. 95–600 applicable to estates of decedents dying after Dec. 31, 1976, see section 702(r)(5) of Pub. L. 95–600, set out as a note under section 2051 of this title.
 
@@ -452,7 +466,7 @@ Section 2005(a)(3) of Pub. L. 94–455 and section 702(r)(3) of Pub. L. 95–600
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
@@ -476,7 +490,7 @@ Making of Election.—Any taxpayer who held retirement-straight line property on
 
 “(c)
 
-Retirement-Straight Line Property Defined.—For purposes of this section, the term ‘retirement-straight line property’ means any property of a kind or class with respect to which the taxpayer or a predecessor (under the terms and conditions prescribed for him by the Commissioner) for any taxable year beginning after December 31, 1940, and before January 1, 1956, changed from the retirement to the straight line method of computing the allowance of deductions for depreciation.
+Retirement-Straight Line Property Defined.—For purposes of this section, the term ‘retirement-straight line property’ means any property of a kind or class with respect to which the taxpayer or a predecessor (under the terms and conditions prescribedfor him by the Commissioner) for any taxable year beginning after December 31, 1940, and before January 1, 1956, changed from the retirement to the straight line method of computing the allowance of deductions for depreciation.
 
 “(d)
 

@@ -36,7 +36,7 @@ In any proceeding instituted pursuant to subsection (c) of this section in the e
 
 Notwithstanding any inconsistent provision of State law or the action of any State officer or court, an applicant so declared qualified to vote shall be permitted to vote in any such election. The Attorney General shall cause to be transmitted certified copies of such order to the appropriate election officers. The refusal by any such officer with notice of such order to permit any person so declared qualified to vote to vote at an appropriate election shall constitute contempt of court.
 
-An application for an order pursuant to this subsection shall be heard within ten days, andthe execution of any order disposing of such application shall not be stayed if the effect of such stay would be to delay the effectiveness of the order beyond the date of any election at which the applicant would otherwise be enabled to vote.
+An application for an order pursuant to this subsection shall be heard within ten days, and the execution of any order disposing of such application shall not be stayed if the effect of such stay would be to delay the effectiveness of the order beyond the date of any election at which the applicant would otherwise be enabled to vote.
 
 The court may appoint one or more persons who are qualified voters in the judicial district, to be known as voting referees, who shall subscribe to the oath of office required by section 3331 of title 5, to serve for such period as the court shall determine, to receive such applications and to take evidence and report to the court findings as to whether or not at any election or elections (1) any such applicant is qualified under State law to vote, and (2) he has since the finding by the court heretofore specified been (a) deprived of or denied under color of law the opportunity to register to vote or otherwise to qualify to vote, or (b) found not qualified to vote by any person acting under color of law. In a proceeding before a voting referee, the applicant shall be heard ex parte at such times and places as the court shall direct. His statement under oath shall be prima facie evidence as to his age, residence, and his prior efforts to register or otherwise qualify to vote. Where proof of literacy or an understanding of other subjects is required by valid provisions of State law, the answer of the applicant, if written, shall be included in such report to the court; if oral, it shall be taken down stenographically and a transcription included in such report to the court.
 
@@ -48,7 +48,7 @@ Any voting referee appointed by the court pursuant to this subsection shall to t
 
 Applications pursuant to this subsection shall be determined expeditiously. In the case of any application filed twenty or more days prior to an election which is undetermined by the time of such election, the court shall issue an order authorizing the applicant to vote provisionally: <i>Provided, however</i>, That such applicant shall be qualified to vote under State law. In the case of an application filed within twenty days prior to an election, the court, in its discretion, may make such an order. In either case the order shall make appropriate provision for the impounding of the applicant's ballot pending determination of the application. The court may take any other action, and may authorize such referee or such other person as it may designate to take any other action, appropriate or necessary to carry out the provisions of this subsection and to enforce its decrees. This subsection shall in no way be construed as a limitation upon the existing powers of the court.
 
-When used in the subsection, the word “vote” includes all action necessary to make a vote effective including, but not limited to, registration or other action required by State law prerequisite to voting, casting a ballot, and having such ballot counted and included in the appropriate totals of votes cast with respect to candidates for public office and propositions for which votes are received in an election; the words “affected area” shall mean any subdivision of the State in which the laws of the State relating to voting are or have been to any extent administered by a person found in the proceeding to have violated subsection (a) of this section; and the words “qualified under State law” shall mean qualified according to the laws, customs, or usages of the State, and shall not, in any event, imply qualifications more stringent than those used by the persons found in the proceeding to have violated subsection (a) in qualifying persons other than those of the race or color against which the pattern or practice of discrimination was found to exist.
+When used in the subsection, the word “vote” includes all action necessary to make a vote effective including, but not limited to, registration or other action required by State law prerequisite to voting, casting a ballot, and having such ballot counted and included in the appropriate totals of votes cast with respect to candidates for public office and propositions forwhich votes are received in an election; the words “affected area” shall mean any subdivision of the State in which the laws of the State relating to voting are or have been to any extent administered by a person found in the proceeding to have violated subsection (a) of this section; and the words “qualified under State law” shall mean qualified according to the laws, customs, or usages of the State, and shall not, in any event, imply qualifications more stringent than those used by the persons found in the proceeding to have violated subsection (a) in qualifying persons other than those of the race or color against which the pattern or practice of discrimination was found to exist.
 
 #### (f) Contempt; assignment of counsel; witnesses
 
@@ -94,7 +94,7 @@ Subsecs. (f), (g). Pub. L. 88–352, §101(c), added subsec. (f) and redesignate
 
 Subsec. (h). Pub. L. 88–352, §101(d), added subsec. (h).
 
-1960—Subsec. (c). Pub. L. 86–449, §601(b), permitted the State to be joined as a party defendant in cases where officials of a State or subdivision thereof are alleged to have committed acts or practices constituting a deprivation of any rights or privileges secured by subsection (a) of this section, and authorized commencement of the proceeding against the State where an official has resigned or has been relieved of his office and no successor has assumed such office.
+1960—Subsec. (c). Pub. L. 86–449, §601(b), permitted the State to be joined as a party defendant in cases where officials of a State or subdivision thereof are alleged to have committed acts or practices constitutinga deprivation of any rights or privileges secured by subsection (a) of this section, and authorized commencement of the proceeding against the State where an official has resigned or has been relieved of his office and no successor has assumed such office.
 
 Subsecs. (e), (f). Pub. L. 86–449, §601(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -104,25 +104,37 @@ Subsecs. (e), (f). Pub. L. 86–449, §601(a), added subsec. (e) and redesignate
 
 Pub. L. 102–344, §1, Aug. 26, 1992, 106 Stat. 921, provided that: “This Act \[amending section 1973aa–1a of this title\] may be cited as the ‘Voting Rights Language Assistance Act of 1992’.”
 
-#### Short Title
+#### Short Title of 1986 Amendment
 
-Pub. L. 99–410, §1, Aug. 28, 1986, 100 Stat. 924, provided that: “This Act \[enacting subchapter I–G of this chapter, sections 608 and 609 of Title 18, Crimes and Criminal Procedure, and section 3406 of Title 39, Postal Service, amending sections 2401, 3627, and 3684 of Title 39, repealing subchapters I–D and I–E of this chapter, and enacting provisions set out as notes under section 1973ff of this title\] may be cited as the ‘Uniformed and Overseas Citizens Absentee Voting Act’.”
+Pub. L. 99–410, §1, Aug. 28, 1986, 100 Stat. 924, provided that: “This Act \[enacting subchapter I–G of this chapter, sections 608 and 609 of Title 18, Crimes and Criminal Procedure, and section 3406 of Title 39, Postal Service, amending sections 2401, 3627, and 3684 of Title 39, repealing subchapters I–D and I–E of this chapter, and enacting provisions set out as a note under section 1973ff of this title\] may be cited as the ‘Uniformed and Overseas Citizens Absentee Voting Act’.”
 
-Pub. L. 98–435, §1, Sept. 28, 1984, 98 Stat. 1678, provided that: “This Act \[enacting subchapter I–F of this chapter\] may be cited as the ‘Voting Accessibility for the Elderly and Handicapped Act’.”
+#### Short Title of 1982 Amendment
 
 Pub. L. 97–205, §1, June 29, 1982, 96 Stat. 131, provided: “That this Act \[enacting section 1973aa–6 of this title, amending sections 1973, 1973b, and 1973aa–1a of this title, and enacting provisions set out as notes under sections 1973, 1973b, 1973aa–1a and 1973aa–6 of this title\] may be cited as the ‘Voting Rights Act Amendments of 1982’.”
 
-Pub. L. 94–203, §1, Jan. 2, 1976, 89 Stat. 1142, which provided that Pub. L. 94–203, which enacted subchapter I–E of this chapter, was to be cited as “Overseas Citizens Voting Rights Act of 1975”, was repealed by Pub. L. 99–410, title II, §203, Aug. 28, 1986, 100 Stat. 930.
+#### Short Title of 1970 Amendment
 
 Pub. L. 91–285, §1, June 22, 1970, 84 Stat. 314, provided: “That this Act \[designating existing provisions of Pub. L. 89–110 as subchapter I–A, enacting subchapters I–B and I–C of this chapter, and amending sections 1973b and 1973c of this title\] may be cited as the ‘Voting Rights Act Amendments of 1970’.”
 
-Section 1 of Pub. L. 89–110 provided that: “This Act \[enacting subchapters I–A, I–B, and I–C of this chapter and amending this section\] shall be known as the ‘Voting Rights Act of 1965’.”
+#### Short Title of 1960 Amendment
 
-Section 1 of Pub. L. 86–449 provided that: “This Act \[enacting subchapter II of this chapter and sections 837, 1074, and 1509 of Title 18, Crimes and Criminal Procedure, and amending this section and sections 241 and 640 of Title 20, Education\] may be cited as the ‘Civil Rights Act of 1960’.”
+Pub. L. 86–449, §1, May 6, 1960, 74 Stat. 84, provided that: “This Act \[enacting subchapter II of this chapter and sections 837, 1074, and 1509 of Title 18, Crimes and Criminal Procedure, and amending this section and sections 241 and 640 of Title 20, Education\] may be cited as the ‘Civil Rights Act of 1960’.”
 
-Section 161 of Pub. L. 85–315 provided that: “This Act \[enacting former chapter 20A of this title and section 1995 of this title and section 295–1 of former Title 5, Executive Departments and Government Officers and Employees, amending this section and sections 1343 and 1861 of Title 28, Judiciary and Judicial Procedure, and repealing section 1993 of this title\] may be cited as the ‘Civil Rights Act of 1957’.”
+#### Short Title of 1957 Amendment
+
+Pub. L. 85–315, pt. V, §161, Sept. 9, 1957, 71 Stat. 638, provided that: “This Act \[enacting former chapter 20A of this title and section 1995 of this title and section 295–1 of former Title 5, Executive Departments and Government Officers and Employees, amending this section and sections 1343 and 1861 of Title 28, Judiciary and Judicial Procedure, and repealing section 1993 of this title\] may be cited as the ‘Civil Rights Act of 1957’.”
+
+#### Short Title
+
+Pub. L. 89–110, §1, Aug. 6, 1965, 79 Stat. 437, provided that: “This Act \[enacting subchapters I–A, I–B, and I–C of this chapter and amending this section\] shall be known as the ‘Voting Rights Act of 1965’.”
 
 Act Aug. 9, 1955, ch. 656, §1, 69 Stat. 584, which provided that such Act, which enacted subchapter I–D of this chapter and repealed sections 301 to 303, 321 to 331, 341, and 351 to 355 of Title 50, War and National Defense, was to be cited as “The Federal Voting Assistance Act of 1955”, was repealed by Pub. L. 99–410, title II, §203, Aug. 28, 1986, 100 Stat. 930.
+
+Pub. L. 94–203, §1, Jan. 2, 1976, 89 Stat. 1142, which provided that Pub. L. 94–203, which enacted subchapter I–E of this chapter, was to be cited as “Overseas Citizens Voting Rights Act of 1975”, was repealed by Pub. L. 99–410, title II, §203, Aug. 28, 1986, 100 Stat. 930.
+
+Pub. L. 98–435, §1, Sept. 28, 1984, 98 Stat. 1678, provided that: “This Act \[enacting subchapter I–F of this chapter\] may be cited as the ‘Voting Accessibility for the Elderly and Handicapped Act’.”
+
+Pub. L. 103–31, §1, May 20, 1993, 107 Stat. 77, provided that: “This Act \[enacting subchapter I–H of this chapter and section 3629 of Title 39, Postal Service, and amending sections 2401 and 3627 of Title 39\] may be cited as the ‘National Voter Registration Act of 1993’.”
 
 #### Separability
 

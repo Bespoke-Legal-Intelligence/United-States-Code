@@ -16,7 +16,7 @@ If a member of the uniformed services is injured, or contracts a disease, under 
 
 &emsp;(A) the expenses incurred or to be incurred by the United States for care and treatment for an injured or diseased member as described in subsection (a) of this section shall be deemed to have been incurred by the member;
 
-&emsp;(B) the cost to the United States of the pay of the member as described in subsection (b) of this section shall be deemed to have been pay lost by the member as a result of the injury or disease; and
+&emsp;(B) the cost to the United States of the pay of the member as described in subsection (b) ofthis section shall be deemed to have been pay lost by the member as a result of the injury or disease; and
 
 &emsp;(C) the United States shall be subrogated to any right or claim that the injured or diseased member or the member's guardian, personal representative, estate, dependents, or survivors have under a policy, contract, agreement, or arrangement referred to in paragraph (1) to the extent of the reasonable value of the care and treatment and the total amount of the pay deemed lost under subparagraph (B).
 
@@ -82,7 +82,7 @@ Subsecs. (f), (g). Pub. L. 104–201, §1075(a)(5), added subsecs. (f) and (g).
 
 #### Effective Date of 1996 Amendment
 
-Section 1075(c) of Pub. L. 104–201 provided that: “The authority to collect pursuant to the amendments made by this section \[amending this section\] shall apply to expenses described in the first section of Public Law 87–693 \[this section\] (as amended by this section) that are incurred, or are to be incurred, by the United States on or after the date of the enactment of this Act \[Sept. 23, 1996\], whether the event from which the claim arises occurs before, on, or after that date.”
+Section 1075(c) of Pub. L. 104–201 provided that: “The authority to collect pursuant to the amendments made by this section \[amending this section\] shall apply to expenses described in the first section of Public Law 87–693 \[this section\] (as amended by this section) that are incurred, or are to be incurred, by the UnitedStates on or after the date of the enactment of this Act \[Sept. 23, 1996\], whether the event from which the claim arises occurs before, on, or after that date.”
 
 #### Effective Date
 

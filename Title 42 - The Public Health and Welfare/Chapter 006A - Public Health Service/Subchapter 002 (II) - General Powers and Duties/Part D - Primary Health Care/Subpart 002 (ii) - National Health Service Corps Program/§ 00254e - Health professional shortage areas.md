@@ -50,7 +50,7 @@ In determining whether to make a designation, the Secretary shall take into cons
 
 #### (e) Notice of proposed designation of areas and facilities; time for comment
 
-(1) Prior to the designation of a public facility, including a Federal medical facility, as a healthprofessional shortage area, the Secretary shall give written notice of such proposed designation to the chief administrative officer of such facility and request comments within 30 days with respect to such designation.
+(1) Prior to the designation of a public facility, including a Federal medical facility, as a health professional shortage area, the Secretary shall give written notice of such proposed designation to the chief administrative officer of such facility and request comments within 30 days with respect to such designation.
 
 (2) Prior to the designation of a health professional shortage area under this section, the Secretary shall, to the extent practicable, give written notice of the proposed designation of such area to appropriate public or private nonprofit entities which are located or have a demonstrated interest in such area and request comments from such entities with respect to the proposed designation of such area.
 
@@ -160,7 +160,7 @@ Reference to community health center, migrant health center, public housing heal
 
 #### Evaluation of Criteria Used To Designate Health Manpower Shortage Areas; Report to Congress
 
-Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Services, effective Oct. 1, 1981, to evaluate the criteria used under section 254e(b) of this title to determine if the use of the criteria resulted in areas which did not have a shortage of health professions personnel being designated as health manpower shortage areas, and to consider different criteria (including the actual use of health professions personnel in an area by the residents, taking into account their health status and indicators of unmet demand and likelihood that such demand would not be met in two years) which might be used to designate health manpower shortage areas. The Secretary was to report the results of his activities to Congress not later than Nov. 30, 1982.
+Section 2702(c) of Pub. L. 97–35 directed the Secretary of Health and Human Services, effective Oct. 1, 1981, to evaluate the criteria used under section 254e(b) of this title to determine if the use of the criteria resulted inareas which did not have a shortage of health professions personnel being designated as health manpower shortage areas, and to consider different criteria (including the actual use of health professions personnel in an area by the residents, taking into account their health status and indicators of unmet demand and likelihood that such demand would not be met in two years) which might be used to designate health manpower shortage areas. The Secretary was to report the results of his activities to Congress not later than Nov. 30, 1982.
 
 #### Section Referred to in Other Sections
 

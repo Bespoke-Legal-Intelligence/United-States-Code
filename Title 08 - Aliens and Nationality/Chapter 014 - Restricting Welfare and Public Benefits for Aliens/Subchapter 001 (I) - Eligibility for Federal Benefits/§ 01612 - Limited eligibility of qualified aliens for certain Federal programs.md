@@ -10,7 +10,7 @@
 
 #### (A) Time-limited exception for refugees and asylees
 
-&emsp;&emsp;With respect to the specified Federal programs described in paragraph (3), paragraph\(1) shall not apply to an alien until 7 years after the date—
+&emsp;&emsp;With respect to the specified Federal programs described in paragraph (3), paragraph (1) shall not apply to an alien until 7 years after the date—
 
 &emsp;&emsp;&emsp;(i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act \[8 U.S.C. 1157\];
 
@@ -48,7 +48,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(A), during the period beginning on August 22, 1996, and ending on September 30, 1998, the Commissioner of Social Security shall redetermine the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.
+&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(A), during the period beginning on August 22, 1996, and ending on September 30, 1998, the Commissioner of Social Security shall redetermine the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefitsmay terminate by reason of the provisions of this subsection.
 
 #### (II) Redetermination criteria
 
@@ -130,7 +130,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;(I) is lawfully residing in the United States; and
 
-&emsp;&emsp;&emsp;&emsp;(II) was a member of a Hmong or Highland Laotian tribe at the time that the tribe rendered assistance to United States personnel by taking part in a military or rescue operation during the Vietnam era (as defined in section 101 of title 38);
+&emsp;&emsp;&emsp;&emsp;(II) was a member of a Hmong or Highland Laotian tribe at the time that thetribe rendered assistance to United States personnel by taking part in a military or rescue operation during the Vietnam era (as defined in section 101 of title 38);
 
 &emsp;&emsp;&emsp;(ii) the spouse, or an unmarried dependent child, of such an individual; or
 
@@ -234,7 +234,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;A State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510,Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579.)
+(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579.)
 
 #### References in Text
 
@@ -266,7 +266,7 @@ Subsec. (a)(2)(F). Pub. L. 105–185, §504(1), substituted “specified Federal
 
 Subsec. (a)(2)(F)(ii). Pub. L. 105–185, §504(2), designated existing provisions as subcl. (I), inserted “in the case of the specified Federal program described in paragraph (3)(A),” before “is blind”, substituted “; and” for period at end, and added subcl. (II).
 
-Subsec. (a)(2)(G). Pub. L. 105–185, §505, substituted “Exception” for “SSI exception” in subpar. heading and “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
+Subsec. (a)(2)(G). Pub. L. 105–185, §505, substituted “Exception” for “SSI exception” in subpar. headingand “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
 
 Subsec. (a)(2)(I). Pub. L. 105–185, §506, added subpar. (I).
 

@@ -74,7 +74,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Effective Date
 
-Section 3(e) of Pub. L. 95–142 provided that: “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[subchapters V, XVIII, XIX, and XX of this chapter\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section \[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
+Section 3(e) of Pub. L. 95–142 provided that: “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[subchapters V, XVIII, XIX, and XX of this chapter\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section\[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
 
 #### Report on Confidentiality of Social Security Account Numbers
 
@@ -82,7 +82,7 @@ Section 4313(d) of Pub. L. 105–33 provided that: “Before the amendments made
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300e–17, 1320a–3a, 1320a–7, 1395i–3, 1395m, 1395w–27, 1395bbb, 1396a, 1396b, 1396r, 1396t, 1397gg of this title.
+This section is referred to in sections 300e–17, 1320a–3a, 1320a–7, 1395i–3, 1395m, 1395w–27, 1395bbb, 1396a, 1396b, 1396r, 1396t, 1397gg, 14902 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
 

@@ -28,7 +28,7 @@ A group health plan, and a health insurance issuer offering group health insuran
 
 &emsp;(3) penalize or otherwise reduce or limit the reimbursement of an attending provider because such provider provided care to an individual participant or beneficiary in accordance with this section;
 
-&emsp;(4) provide incentives (monetary or otherwise) to an attending provider to induce suchprovider to provide care to an individual participant or beneficiary in a manner inconsistent with this section; or
+&emsp;(4) provide incentives (monetary or otherwise) to an attending provider to induce such provider to provide care to an individual participant or beneficiary in a manner inconsistent with this section; or
 
 &emsp;(5) subject to subsection (c)(3) of this section, restrict benefits for any portion of a period within a hospital length of stay required under subsection (a) of this section in a manner which is less favorable than the benefits provided for any preceding portion of such stay.
 

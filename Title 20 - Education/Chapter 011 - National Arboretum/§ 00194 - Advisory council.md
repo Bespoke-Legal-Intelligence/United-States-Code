@@ -1,6 +1,6 @@
 ### §194. Advisory council
 
-The Secretary of Agriculture is authorized to create an advisory council in relation to the plan and development of the national arboretum to be established under this chapter, to include representatives of national organizations interested in the work of the arboretum.
+The Secretary of Agriculture is authorized to create an advisory council in relation to theplan and development of the national arboretum to be established under this chapter, to include representatives of national organizations interested in the work of the arboretum.
 
 (Mar. 4, 1927, ch. 505, §4, 44 Stat. 1422.)
 

@@ -46,7 +46,7 @@ As used in this part—
 
 &emsp;(8) The term “transportation controls” means any plan, procedure, method, or arrangement, or any system of incentives, disincentives, restrictions, and requirements, which is designed to reduce the amount of energy consumed in transportation, except that the term does not include rationing of gasoline or diesel fuel.
 
-(Pub. L. 94–163, title III, §366, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §431, Aug. 14,1976, 90 Stat. 1158; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §2(b), Oct. 18, 1990, 104 Stat. 1006.)
+(Pub. L. 94–163, title III, §366, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §431, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §2(b), Oct. 18, 1990, 104 Stat. 1006.)
 
 #### References in Text
 

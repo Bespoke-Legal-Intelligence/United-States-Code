@@ -16,7 +16,7 @@ As soon as practicable after the President decides to take action under section 
 
 #### (2) Use of multilateral fora
 
-&emsp;If the President determines it to be appropriate, such consultations may be sought and may occur in a multilateral forum, but, in anyevent, the President shall consult with appropriate foreign governments for the purposes of achieving a coordinated international policy on actions that may be taken with respect to a country described in subsection (a) of this section, prior to implementing any such action.
+&emsp;If the President determines it to be appropriate, such consultations may be sought and may occur in a multilateral forum, but, in any event, the President shall consult with appropriate foreign governments for the purposes of achieving a coordinated international policy on actions that may be taken with respect to a country described in subsection (a) of this section, prior to implementing any such action.
 
 #### (3) Election of nondisclosure of negotiations to public
 

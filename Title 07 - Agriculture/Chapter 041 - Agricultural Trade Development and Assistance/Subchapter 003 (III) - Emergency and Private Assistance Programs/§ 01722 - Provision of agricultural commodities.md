@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, the Administrator may provide agricu
 
 &emsp;The Administrator may not deny a request for funds submitted under this subsection because the program for which the funds are requested—
 
-&emsp;&emsp;(A) would be carried out by the eligible organization in a foreign country in which the Agency for International Development does not have a mission, office, or other presence; or
+&emsp;&emsp;(A) would be carried out by the eligible organization in a foreign country in which theAgency for International Development does not have a mission, office, or other presence; or
 
 &emsp;&emsp;(B) is not part of a development plan for the country prepared by the Agency.
 

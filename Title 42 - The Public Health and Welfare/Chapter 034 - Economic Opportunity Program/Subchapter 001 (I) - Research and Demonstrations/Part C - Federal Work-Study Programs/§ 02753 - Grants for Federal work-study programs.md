@@ -20,7 +20,7 @@ An agreement entered into pursuant to this section shall—
 
 &emsp;(2) provide that funds granted an institution of higher education, pursuant to this section, may be used only to make payments to students participating in work-study programs, except that—
 
-&emsp;&emsp;(A) for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under thissection in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;
+&emsp;&emsp;(A) for fiscal year 1999, an institution shall use at least 5 percent of the total amount of funds granted to such institution under this section in any fiscal year to compensate students employed in community service (including a reasonable amount of time spent in travel or training directly related to such community service), except that the Secretary may waive this subparagraph if the Secretary determines that enforcing it would cause hardship for students at an institution;
 
 &emsp;&emsp;(B) for fiscal year 2000 and succeeding fiscal years, an institution shall use at least 7 percent of the total amount of funds granted to such institution under this section for such fiscal year to compensate students employed in community service, and shall ensure that not less than 1 tutoring or family literacy project (as described in subsection (d) of this section) is included in meeting the requirement of this subparagraph, except that the Secretary may waive this subparagraph if the Secretary determines that enforcing this subparagraph would cause hardship for students at the institution; and
 
@@ -70,7 +70,7 @@ An agreement entered into pursuant to this section shall—
 
 As part of its agreement agreement <sup>2</sup> described in subsection (b) of this section, an institution of higher education may, at its option, enter into an additional agreement with the Secretary which shall—
 
-&emsp;(1) provide for the operation by the institution of a program of part-time employment ofits students in work for a private for-profit organization under an arrangement between the institution and such organization that complies with the requirements of subparagraphs (A) through (D) of subsection (b)(1) of this section and subsection (b)(3) of this section;
+&emsp;(1) provide for the operation by the institution of a program of part-time employment of its students in work for a private for-profit organization under an arrangement between the institution and such organization that complies with the requirements of subparagraphs (A) through (D) of subsection (b)(1) of this section and subsection (b)(3) of this section;
 
 &emsp;(2) provide that the institution will use not more than 25 percent of the funds made available to such institution under this part for any fiscal year for the operation of the program described in paragraph (1);
 
@@ -112,7 +112,7 @@ As part of its agreement agreement <sup>2</sup> described in subsection (b) of 
 
 Part F, referred to in subsec. (b)(3), means part F of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, known as the Higher Education Act of 1965. Part F of title IV of the Act is classified generally to part E (§1087kk et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(A)(ii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(A)(ii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Prior Provisions
 
@@ -134,7 +134,7 @@ Subsec. (b)(3). Pub. L. 105–244, §443(d), amended par. (3) generally. Prior t
 
 > then at least 5 percent of the grant shall be made available to such less than full-time and independent students;”.
 
-Subsec. (b)(5). Pub. L. 105–244, §443(e), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that the Federal share may exceedsuch amounts of compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;”.
+Subsec. (b)(5). Pub. L. 105–244, §443(e), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that the Federal share of the compensation of students employed in the work-study program in accordance with the agreement shall not exceed 75 percent for academic year 1993–1994 and succeeding academic years, except that the Federal share may exceed such amounts of compensation if the Secretary determines, pursuant to regulations promulgated by the Secretary establishing objective criteria for such determinations, that a Federal share in excess of such amounts is required in furtherance of the purpose of this part;”.
 
 Subsec. (b)(6). Pub. L. 105–244, §443(f), struck out “, and to make equivalent employment offered or arranged by the institution reasonably available (to the extent of available funds) to all students in the institution who desire such employment” after “in need thereof”.
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Effective Date of 1986 Amendment
 
-Section 403(b)(2), formerly section 403(b), of Pub. L. 99–498, as redesignated by Pub. L. 100–50, §22(c), June 3, 1987, 101 Stat. 361, provided that: “Sections 443(c), 446, and 447 of the Act \[sections 2753(c), 2756, and 2756a ofthis title\] as amended by this section shall apply to periods of enrollment beginning on or after July 1, 1987.”
+Section 403(b)(2), formerly section 403(b), of Pub. L. 99–498, as redesignated by Pub. L. 100–50, §22(c), June 3, 1987, 101 Stat. 361, provided that: “Sections 443(c), 446, and 447 of the Act \[sections 2753(c), 2756, and 2756a of this title\] as amended by this section shall apply to periods of enrollment beginning on or after July 1, 1987.”
 
 #### Effective Date
 

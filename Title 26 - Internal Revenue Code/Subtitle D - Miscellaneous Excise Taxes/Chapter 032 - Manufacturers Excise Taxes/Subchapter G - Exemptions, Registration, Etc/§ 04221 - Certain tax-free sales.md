@@ -14,7 +14,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under thi
 
 &emsp;(5) to a nonprofit educational organization for its exclusive use,
 
-> but only if such exportation or use is to occur before any other use. Paragraphs (4) and (5) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,<sup>1</sup> or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2005. In the case of the tax imposed by section 4131, paragraphs (3), (4), and\(5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.
+> but only if such exportation or use is to occur before any other use. Paragraphs (4) and (5) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051,<sup>1</sup> or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2005. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter A of chapter 31, paragraphs (1), (3), (4), and (5) shall not apply.
 
 #### (b) Proof of resale for further manufacture; proof of export
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such article is sold for use by the purchaser as material in the manufacture or production of, or as a component part of, another article taxable under this chapter to be manufactured or produced by him; or
 
-&emsp;&emsp;(B) in the case of gasoline taxable under section 4081, such gasoline is sold for use by the purchaser, for nonfuel purposes, as a material in the manufacture or production of another article to be manufactured or produced by him.
+&emsp;&emsp;(B) in the case of gasoline taxable under section 4081, such gasoline is sold for use bythe purchaser, for nonfuel purposes, as a material in the manufacture or production of another article to be manufactured or produced by him.
 
 #### (7) Qualified bus
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1983 Amendment
 
-Amendment by section 515(b)(1) of Pub. L. 97–424 applicable to articles sold after Jan. 6, 1983, see section515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
+Amendment by section 515(b)(1) of Pub. L. 97–424 applicable to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
 
 #### Effective Date of 1980 Amendment
 

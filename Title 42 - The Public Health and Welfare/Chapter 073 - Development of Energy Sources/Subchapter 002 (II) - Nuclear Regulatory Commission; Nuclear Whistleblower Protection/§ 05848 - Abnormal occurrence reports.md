@@ -16,7 +16,7 @@ The Commission shall submit to the Congress an annual report listing for the pre
 
 #### References in Text
 
-The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.)of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 
@@ -32,7 +32,7 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 
 #### President's Commission on the Accident at Three Mile Island; Subpena Power
 
-Pub. L. 96–12, May 23, 1979, 93 Stat. 26, which authorized the President's Commission on the Accident at Three Mile Island, as established by Ex. Ord. No. 12130, Apr. 11, 1979, 44 F.R. 22027, formerly set out below, to issue subpenas requiring the attendance and testimony of witnesses and the produce of any evidence from the Nuclear Regulatory Commission or any person which related to the accident at Three Mile Island, and to issue orders for the inspection of the Three Mile Island nuclear power plant, with refusal to obey a subpena or inspection order punishable by contempt of court.
+Pub. L. 96–12, May 23, 1979, 93 Stat. 26, which authorized the President's Commission on the Accident at Three Mile Island, as established by Ex. Ord. No. 12130, Apr. 11, 1979, 44 F.R. 22027, formerly set out below, toissue subpenas requiring the attendance and testimony of witnesses and the produce of any evidence from the Nuclear Regulatory Commission or any person which related to the accident at Three Mile Island, and to issue orders for the inspection of the Three Mile Island nuclear power plant, with refusal to obey a subpena or inspection order punishable by contempt of court.
 
 #### Executive Order No. 12130
 

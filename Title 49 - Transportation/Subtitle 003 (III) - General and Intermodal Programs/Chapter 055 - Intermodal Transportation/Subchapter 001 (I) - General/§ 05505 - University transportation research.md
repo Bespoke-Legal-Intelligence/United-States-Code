@@ -126,7 +126,7 @@ Group a.—The Secretary shall make a grant in the amount of $1,000,000 to each 
 
 &emsp;&emsp;(B)
 
-Groups b and c.—The Secretary shall make a grant in the amount of $1,000,000 to10 of the institutions or groups of institutions in groups B and C that received grants under this section in fiscal years 2000 and 2001.
+Groups b and c.—The Secretary shall make a grant in the amount of $1,000,000 to 10 of the institutions or groups of institutions in groups B and C that received grants under this section in fiscal years 2000 and 2001.
 
 &emsp;&emsp;(C)
 
@@ -206,7 +206,7 @@ Group d.—Group D shall consist of the following:
 
 Subsec. (i). Pub. L. 105–178, §5110(d)(2), as added by Pub. L. 105–206, inserted “Subject to section 5338(e):” before par. (1) and substituted “institutions or groups of institutions” for “institutions” wherever appearing.
 
-Subsec. (j)(4)(B). Pub. L. 105–178, §5110(d)(3), as added by Pub. L. 105–206, substituted “on behalf of a consortium which may also include West Virginia University Institute of Technology, the College of West Virginia, and Bluefield State College” for “on behalf of a consortium of West Virginia colleges and universities”.
+Subsec. (j)(4)(B). Pub. L. 105–178, §5110(d)(3), as added by Pub. L. 105–206, substituted “on behalf of a consortium which may also include West Virginia UniversityInstitute of Technology, the College of West Virginia, and Bluefield State College” for “on behalf of a consortium of West Virginia colleges and universities”.
 
 #### Effective Date of 1998 Amendment
 

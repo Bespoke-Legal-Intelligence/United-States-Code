@@ -4,7 +4,7 @@
 
 All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
-&emsp;(1) that have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions exercised by the Broadcasting Board of Governors of the United States Information Agency on the day before the effective date of this subchapter, and
+&emsp;(1) that have been issued, made, granted, or allowed to become effective by the President,any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions exercised by the Broadcasting Board of Governors of the United States Information Agency on the day before the effective date of this subchapter, and
 
 &emsp;(2) that are in effect at the time this subchapter takes effect, or were final before the effective date of this subchapter and are to become effective on or after the effective date of this subchapter,
 
@@ -32,7 +32,7 @@ No suit, action, or other proceeding commenced by or against any officer in the 
 
 #### (1) Substitution of parties
 
-&emsp;If, before the effective date of this subchapter, USIA or the Broadcasting Board of Governors, or any officer thereof in the official capacity of such officer, is a party to asuit which is related to the functions transferred by this part, then effective on such date such suit shall be continued with the Broadcasting Board of Governors or other appropriate official of the Board substituted or added as a party.
+&emsp;If, before the effective date of this subchapter, USIA or the Broadcasting Board of Governors, or any officer thereof in the official capacity of such officer, is a party to a suit which is related to the functions transferred by this part, then effective on such date such suit shall be continued with the Broadcasting Board of Governors or other appropriate official of the Board substituted or added as a party.
 
 #### (2) Liability of the Board
 

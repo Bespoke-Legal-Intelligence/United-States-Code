@@ -38,7 +38,7 @@ The Secretary shall include in each report submitted under subsection (a) of thi
 
 &emsp;(2) descriptions of the qualifications of, and training provided to, individuals involved in carrying out such evaluations.
 
-(Pub. L. 93–415, title III, §382, formerly §315, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 96–509, §18(f),Dec. 8, 1980, 94 Stat. 2762; renumbered §317, Pub. L. 98–473, title II, §655(1), Oct. 12, 1984, 98 Stat. 2124; renumbered §361 and amended Pub. L. 100–690, title VII, §§7271(c)(5), 7273(c), (e)(2), 7274, Nov. 18, 1988, 102 Stat. 4453–4455, 4457; Pub. L. 101–204, title X, §1003(1), (2), Dec. 7, 1989, 103 Stat. 1827; renumbered §381 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (h), Nov. 4, 1992, 106 Stat. 5022, 5025; renumbered §382 and amended Pub. L. 106–71, §3(k), (q), Oct. 12, 1999, 113 Stat. 1039, 1042.)
+(Pub. L. 93–415, title III, §382, formerly §315, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 96–509, §18(f), Dec. 8, 1980, 94 Stat. 2762; renumbered §317, Pub. L. 98–473, title II, §655(1), Oct. 12, 1984, 98 Stat. 2124; renumbered §361 and amended Pub. L. 100–690, title VII, §§7271(c)(5), 7273(c), (e)(2), 7274, Nov. 18, 1988, 102 Stat. 4453–4455, 4457; Pub. L. 101–204, title X, §1003(1), (2), Dec. 7, 1989, 103 Stat. 1827; renumbered §381 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (h), Nov. 4, 1992, 106 Stat. 5022, 5025; renumbered §382 and amended Pub. L. 106–71, §3(k), (q), Oct. 12, 1999, 113 Stat. 1039, 1042.)
 
 #### Prior Provisions
 
@@ -48,7 +48,7 @@ A prior section 382 of Pub. L. 93–415 was renumbered section 383 and is classi
 
 1999—Pub. L. 106–71 amended section generally, making reporting requirements biennial rather than annual and adding subsec. headings.
 
-1992—Pub. L. 102–586, §3(h), which directed the amendment of section “361 of the Juvenile Justice and Delinquency Act of 1974 (42 U.S.C. 5715)” by amending it generally and adding subsec. (b), was executed to this section, which is section 381 of the Juvenile Justice and Delinquency Prevention Act of 1974 (Pub. L. 93–415), to reflect the probable intent of Congress and the intervening renumbering of section 361 of Pub. L. 93–415 as section 381 by section 3(g)(1)(A)(ii) of Pub. L. 102–586. Prior to amendment, this section consisted of subsecs. (a) and (b) which required annual reports to Congress on the status and accomplishments of the runaway and homeless youth centers funded under part A of this subchapter and of the transitional living youth projects funded under part B of this subchapter.
+1992—Pub. L. 102–586, §3(h), which directed the amendment of section “361 of the Juvenile Justice and Delinquency Act of 1974 (42 U.S.C. 5715)” by amending it generally and adding subsec. (b), was executed to this section, which is section 381 of the Juvenile Justice and Delinquency Prevention Act of 1974 (Pub. L. 93–415), to reflect the probable intent of Congress and the intervening renumbering of section 361 of Pub. L. 93–415 as section 381 by section 3(g)(1)(A)(ii) of Pub. L. 102–586. Prior to amendment, this section consisted of subsecs. (a) and (b) which required annual reports to Congress on the status and accomplishments of the runaway andhomeless youth centers funded under part A of this subchapter and of the transitional living youth projects funded under part B of this subchapter.
 
 1989—Subsec. (a). Pub. L. 101–204, §1003(1), substituted “submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate” for “report to the Congress”.
 

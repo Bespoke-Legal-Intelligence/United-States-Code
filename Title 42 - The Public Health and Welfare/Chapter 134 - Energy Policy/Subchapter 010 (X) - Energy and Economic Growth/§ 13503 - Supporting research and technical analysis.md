@@ -76,7 +76,7 @@ The Secretary shall support technology transfer activities conducted by the Nati
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for Supporting Research and Technical Analysis, including Basic Energy Sciences, Energy Research Analysis, University and Science Education, Technology Transfer, Advisory and Oversight Program Direction, and Facilities Support for Multiprogram Energy Laboratories, $966,804,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
+There are authorized to be appropriated to the Secretary for Supporting Research and Technical Analysis, including Basic Energy Sciences, Energy Research Analysis, University andScience Education, Technology Transfer, Advisory and Oversight Program Direction, and Facilities Support for Multiprogram Energy Laboratories, $966,804,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
 
 (Pub. L. 102–486, title XXII, §2203, Oct. 24, 1992, 106 Stat. 3087; Pub. L. 105–245, title III, §309(b)(2)(F), Oct. 7, 1998, 112 Stat. 1853.)
 

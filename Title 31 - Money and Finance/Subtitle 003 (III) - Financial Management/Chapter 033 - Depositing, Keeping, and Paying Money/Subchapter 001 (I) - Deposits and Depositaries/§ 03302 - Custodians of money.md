@@ -22,7 +22,7 @@
 
 (f) When authorized by the Secretary, an official or agent of the Government having custody or possession of public money, or performing other fiscal agent services, may be allowed necessary expenses to collect, keep, transfer, and pay out public money and to perform those services. However, money appropriated for those expenses may not be used to employ or pay officers and employees of the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 948; Pub. L. 97–452, §1(10), Jan. 12, 1983, 96 Stat. 2468; Pub.L. 98–369, div. B, title VI, §2652(b)(1), July 18, 1984, 98 Stat. 1152; Pub. L. 103–272, §4(f)(1)(H), July 5, 1994, 108 Stat. 1362; Pub. L. 103–429, §7(a)(3)(A), Oct. 31, 1994, 108 Stat. 4388.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 948; Pub. L. 97–452, §1(10), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 98–369, div. B, title VI, §2652(b)(1), July 18, 1984, 98 Stat. 1152; Pub. L. 103–272, §4(f)(1)(H), July 5, 1994, 108 Stat. 1362; Pub. L. 103–429, §7(a)(3)(A), Oct. 31, 1994, 108 Stat. 4388.)
 
 Historical and Revision Notes<br>1982
 
@@ -132,7 +132,7 @@ Section 2652(b)(2) of Pub. L. 98–369 provided that: “The amendments made by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 327, 3322, 3711, 3718, 3720 of this title; title 7 section 2016; title 8 sections 1254a, 1363a; title 10 sections 114, 423, 2410m, 2474, 4554, 7605; title 12 section 4241; title 15 sections 1527a, 2514; title 16 sections 698v–4, 746a; title 18 section 1963; title 19 sections 1631, 2081; title 22 sections 1475e, 4226; title 26 section 7608; title 28 sections 1827, 1921; title 38 section 3720; title 42 sections 1973gg–10, 2169, 5812, 5852, 7651<i>o</i>; title 43 section 1338a; title 47 section 923; title 49 sections 111, 45303.
+This section is referred to in sections 327, 3322, 3711, 3718, 3720 of this title; title 7 section 2016; title 8 sections 1254a, 1363a; title 10 sections 114, 423, 2410m, 2474, 4554, 7605; title 12 section 4241; title 15 sections 1527a, 2514; title 16 sections 698v–4, 746a; title 18 section 1963; title 19 sections 1631, 2081; title 22 sections 1475e, 4226; title 26 section 7608; title 28 sections 1827, 1921; title 38 section 3720; title 42 sections 1973gg–10, 2169, 5812, 5852, 7651<i>o</i>; title 43 section 1338a; title 47 section 923; title 49 sections 111, 44940, 45303.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

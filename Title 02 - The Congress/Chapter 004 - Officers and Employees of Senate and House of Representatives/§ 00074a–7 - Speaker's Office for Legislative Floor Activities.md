@@ -8,3 +8,25 @@ There is established in the House of Representatives an office to be known as th
 
 Section is based on section 223(b) of House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995, which was enacted into permanent law by Pub. L. 104–53.
 
+#### Transfer of Majority and Minority Positions
+
+Pub. L. 107–68, title I, §113, Nov. 12, 2001, 115 Stat. 572, provided that:
+
+“(a) Effective October 1, 2001, the following four majority positions shall be transferred from the Clerk to the Speaker:
+
+&emsp;“(1) The position of chief of floor service.
+
+&emsp;“(2) Two positions of assistant floor chief.
+
+&emsp;“(3) One position of cloakroom attendant.
+
+“(b) Effective October 1, 2001, the following four minority positions shall be transferred from the Clerk to the minority leader:
+
+&emsp;“(1) The position of chief of floor service.
+
+&emsp;“(2) Two positions of assistant floor chief.
+
+&emsp;“(3) One position of cloakroom attendant.
+
+“(c) Notwithstanding any other provision of law, in the case of an individual who is an incumbent of a position transferred under subsection (a) or subsection (b) at the time of the transfer, the total number of days of annual leave and the total number of days of sick leave which were provided by the Clerk to the individual and which remain unused as of the date of the transfer shall remain available for the individual to use after the transfer.”
+

@@ -12,9 +12,9 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(4) “Assignment” includes any direct or indirect transfer or hypothecation of a contract or chose in action by the assignor, or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but does not include an assignment of partnership interests incidental to the death or withdrawal of a minority of the members of the partnership having only a minority interest in the partnership business or to the admission to the partnership of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
 
-&emsp;(5) “Bank” means (A) a banking institution organized under the laws of the United States, (B) a member bank of the Federal Reserve System, (C) any other banking institution or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion ofthe business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
+&emsp;(5) “Bank” means (A) a depository institution (as defined in section 1813 of title 12) or a branch or agency of a foreign bank (as such terms are defined in section 3101 of title 12), (B) a member bank of the Federal Reserve System, (C) any other banking institution or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
-&emsp;(6) “Broker” means any person engaged in the business of effecting transactions in securities for the account of others, but does not include a bank or any person solely by reason of the fact that such person is an underwriter for one or more investment companies.
+&emsp;(6) The term “broker” has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\], except that such term does not include any person solely by reason of the fact that such person is an underwriter for one or more investment companies.
 
 &emsp;(7) “Commission” means the Securities and Exchange Commission.
 
@@ -26,7 +26,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(10) “Convicted” includes a verdict, judgment, or plea of guilty, or a finding of guilt on a plea of nolo contendere, if such verdict, judgment, plea, or finding has not been reversed, set aside, or withdrawn, whether or not sentence has been imposed.
 
-&emsp;(11) “Dealer” means any person regularly engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, insurance company, or investment company, or any person insofar as he is engaged in investing, reinvesting, or trading in securities, or in owning or holding securities, for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business.
+&emsp;(11) The term “dealer” has the same meaning as given in the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], but does not include an insurance company or investment company.
 
 &emsp;(12) “Director” means any director of a corporation or any person performing similar functions with respect to any organization, whether incorporated or unincorporated, including any natural person who is a member of a board of trustees of a management company created as a common-law trust.
 
@@ -38,7 +38,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(16) “Government security” means any security issued or guaranteed as to principal or interest by the United States, or by a person controlled or supervised by and acting as an instrumentality of the Government of the United States pursuant to authority granted by the Congress of the United States; or any certificate of deposit for any of the foregoing.
 
-&emsp;(17) “Insurance company” means a company which is organized as an insurance company, whose primary and predominant business activity is the writing of insurance or the reinsuring of risks underwritten by insurance companies, and which is subject to supervision by the insurance commissioner or a similar official or agency of a State; or any receiver orsimilar official or any liquidating agent for such a company, in his capacity as such.
+&emsp;(17) “Insurance company” means a company which is organized as an insurance company, whose primary and predominant business activity is the writing of insurance or the reinsuring of risks underwritten by insurance companies, and which is subject to supervision by the insurance commissioner or a similar official or agency of a State; or any receiver or similar official or any liquidating agent for such a company, in his capacity as such.
 
 &emsp;(18) “Interstate commerce” means trade, commerce, transportation, or communication among the several States, or between any foreign country and any State, or between any State and any place or ship outside thereof.
 
@@ -54,9 +54,23 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;&emsp;&emsp;(iv) any person or partner or employee of any person who at any time since the beginning of the last two completed fiscal years of such company has acted as legal counsel for such company,
 
-&emsp;&emsp;&emsp;(v) any broker or dealer registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] or any affiliated person of such a broker or dealer, and
+&emsp;&emsp;&emsp;(v) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has executed any portfolio transactions for, engaged in any principal transactions with, or distributed shares for—
 
-&emsp;&emsp;&emsp;(vi) any natural person whom the Commission by order shall have determined to be an interested person by reason of having had, at any time since the beginning of the last two completed fiscal years of such company, a material business or professional relationship with such company or with the principal executive officer of such company or with any other investment company having the same investment adviser or principal underwriter or with the principal executive officer of such other investment company:
+&emsp;&emsp;&emsp;&emsp;(I) the investment company;
+
+&emsp;&emsp;&emsp;&emsp;(II) any other investment company having the same investment adviser as such investment company or holding itself out to investors as a related company for purposes of investment or investor services; or
+
+&emsp;&emsp;&emsp;&emsp;(III) any account over which the investment company's investment adviser has brokerage placement discretion,
+
+&emsp;&emsp;&emsp;(vi) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has loaned money or other property to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the investment company;
+
+&emsp;&emsp;&emsp;&emsp;(II) any other investment company having the same investment adviser as such investment company or holding itself out to investors as a related company for purposes of investment or investor services; or
+
+&emsp;&emsp;&emsp;&emsp;(III) any account for which the investment company's investment adviser has borrowing authority,<sup>1</sup>
+
+&emsp;&emsp;&emsp;(vii) any natural person whom the Commission by order shall have determined to be an interested person by reason of having had, at any time since the beginning of the last two completed fiscal years of such company, a material business or professional relationship with such company or with the principal executive officer of such company or with any other investment company having the same investment adviser or principal underwriter or with the principal executive officer of such other investment company:
 
 > &emsp;&emsp;<i>Provided</i>, That no person shall be deemed to be an interested person of an investment company solely by reason of (aa) his being a member of its board of directors or advisory board or an owner of its securities, or (bb) his membership in the immediate family of any person specified in clause (aa) of this proviso; and
 
@@ -70,21 +84,35 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;&emsp;&emsp;(iv) any person or partner or employee of any person who at any time since the beginning of the last two completed fiscal years of such investment company has acted as legal counsel for such investment adviser or principal underwriter,
 
-&emsp;&emsp;&emsp;(v) any broker or dealer registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] or any affiliated person of such a broker or dealer, and
+&emsp;&emsp;&emsp;(v) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has executed any portfolio transactions for, engaged in any principal transactions with, or distributed shares for—
 
-&emsp;&emsp;&emsp;(vi) any natural person whom the Commission by order shall have determined to be an interested person by reason of having had at any time since the beginning of the last two completed fiscal years of such investment company a material business or professional relationship with such investment adviser or principal underwriter or with the principal executive officer or any controlling person of such investment adviser or principal underwriter.
+&emsp;&emsp;&emsp;&emsp;(I) any investment company for which the investment adviser or principal underwriter serves as such;
+
+&emsp;&emsp;&emsp;&emsp;(II) any investment company holding itself out to investors, for purposes of investment or investor services, as a company related to any investment company for which the investment adviser or principal underwriter serves as such; or
+
+&emsp;&emsp;&emsp;&emsp;(III) any account over which the investment adviser has brokerage placement discretion,
+
+&emsp;&emsp;&emsp;(vi) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has loaned money or other property to—
+
+&emsp;&emsp;&emsp;&emsp;(I) any investment company for which the investment adviser or principal underwriter serves as such;
+
+&emsp;&emsp;&emsp;&emsp;(II) any investment company holding itself out to investors, for purposes of investment or investor services, as a company related to any investment company for which the investment adviser or principal underwriter serves as such; or
+
+&emsp;&emsp;&emsp;&emsp;(III) any account for which the investment adviser has borrowing authority,<sup>1</sup>
+
+&emsp;&emsp;&emsp;(vii) any natural person whom the Commission by order shall have determined to be an interested person by reason of having had at any time since the beginning of the last two completed fiscal years of such investment company a material business or professional relationship with such investment adviser or principal underwriter or with the principal executive officer or any controlling person of such investment adviser or principal underwriter.
 
 > &emsp;For the purposes of this paragraph (19), “member of the immediate family” means any parent, spouse of a parent, child, spouse of a child, spouse, brother, or sister, and includes step and adoptive relationships. The Commission may modify or revoke any order issued under clause (vi) of subparagraph (A) or (B) of this paragraph whenever it finds that such order is no longer consistent with the facts. No order issued pursuant to clause (vi) of subparagraph (A) or (B) of this paragraph shall become effective until at least sixty days after the entry thereof, and no such order shall affect the status of any person for the purposes of this subchapter or for any other purpose for any period prior to the effective date of such order.
 
 &emsp;(20) “Investment adviser” of an investment company means (A) any person (other than a bona fide officer, director, trustee, member of an advisory board, or employee of such company, as such) who pursuant to contract with such company regularly furnishes advice to such company with respect to the desirability of investing in, purchasing or selling securities or other property, or is empowered to determine what securities or other property shall be purchased or sold by such company, and (B) any other person who pursuant to contract with a person described in clause (A) of this paragraph regularly performs substantially all of the duties undertaken by such person described in said clause (A); but does not include (i) a person whose advice is furnished solely through uniform publications distributed to subscribers thereto, (ii) a person who furnishes only statistical and other factual information, advice regarding economic factors and trends, or advice as to occasional transactions in specific securities, but without generally furnishing advice or making recommendations regarding the purchase or sale of securities, (iii) a company furnishing such services at cost to one or more investment companies, insurance companies, or other financial institutions, (iv) any person the character and amount of whose compensation for such services must be approved by a court, or (v) such other persons as the Commission may by rules and regulations or order determine not to be within the intent of this definition.
 
-&emsp;(21) “Investment banker” means any person engaged in the business of underwriting securities issued by other persons, but does not include an investment company, any person who acts as an underwriter in isolated transactionsbut not as a part of a regular business, or any person solely by reason of the fact that such person is an underwriter for one or more investment companies.
+&emsp;(21) “Investment banker” means any person engaged in the business of underwriting securities issued by other persons, but does not include an investment company, any person who acts as an underwriter in isolated transactions but not as a part of a regular business, or any person solely by reason of the fact that such person is an underwriter for one or more investment companies.
 
 &emsp;(22) “Issuer” means every person who issues or proposes to issue any security, or has outstanding any security which it has issued.
 
 &emsp;(23) “Lend” includes a purchase coupled with an agreement by the vendor to repurchase; “borrow” includes a sale coupled with a similar agreement.
 
-&emsp;(24) “Majority-owned subsidiary” of a person means a company 50 per centum or more of the outstanding voting securities of which are owned by such person, or by a company which, within the meaning of this paragraph, is a majority-owned subsidiary of such person.
+&emsp;(24) “Majority-owned subsidiary” of a person means a company 50 per centum or more ofthe outstanding voting securities of which are owned by such person, or by a company which, within the meaning of this paragraph, is a majority-owned subsidiary of such person.
 
 &emsp;(25) “Means or instrumentality of interstate commerce” includes any facility of a national securities exchange.
 
@@ -130,7 +158,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;The foregoing definition shall not derogate from the authority of the Commission with respect to the reports, information, and documents to be filed with the Commission by any registered company, or with respect to the accounting policies and principles to be followed by any such company, as provided in sections 80a–8, 80a–29, and 80a–30 of this title.
 
-&emsp;(42) “Voting security” means any security presently entitling the owner or holder thereof to vote for the election of directors of a company. A specified percentage of the outstanding voting securities of a company means suchamount of its outstanding voting securities as entitles the holder or holders thereof to cast said specified percentage of the aggregate votes which the holders of all the outstanding voting securities of such company are entitled to cast. The vote of a majority of the outstanding voting securities of a company means the vote, at the annual or a special meeting of the security holders of such company duly called, (A) of 67 per centum or more of the voting securities present at such meeting, if the holders of more than 50 per centum of the outstanding voting securities of such company are present or represented by proxy; or (B) of more than 50 per centum of the outstanding voting securities of such company, whichever is the less.
+&emsp;(42) “Voting security” means any security presently entitling the owner or holder thereof to vote for the election of directors of a company. A specified percentage of the outstanding voting securities of a company means such amount of its outstanding voting securities as entitles the holder or holders thereof to cast said specified percentage of the aggregate votes which the holders of all the outstanding voting securities of such company are entitled to cast. The vote of a majority of the outstanding voting securities of a company means the vote, at the annual or a special meeting of the security holders of such company duly called, (A) of 67 per centum or more of the voting securities present at such meeting, if the holders of more than 50 per centum of the outstanding voting securities of such company are present or represented by proxy; or (B) of more than 50 per centum of the outstanding voting securities of such company, whichever is the less.
 
 &emsp;(43) “Wholly-owned subsidiary” of a person means a company 95 per centum or more of the outstanding voting securities of which are owned by such person, or by a company which, within the meaning of this paragraph, is a wholly-owned subsidiary of such person.
 
@@ -168,7 +196,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;&emsp;(A) is organized under the laws of, and has its principal place of business in, any State or States;
 
-&emsp;&emsp;(B) is operated for the purpose of making investments in securities described in paragraphs (1) through (3) of section 80a–54(a) of this title, and makes available significant managerial assistance with respect to the issuers of such securities, provided that a business development company must makeavailable significant managerial assistance only with respect to the companies which are treated by such business development company as satisfying the 70 per centum of the value of its total assets condition of section 80a–54 of this title; and provided further that a business development company need not make available significant managerial assistance with respect to any company described in paragraph (46)(C)(iii), or with respect to any other company that meets such criteria as the Commission may by rule, regulation, or order permit, as consistent with the public interest, the protection of investors, and the purposes of this subchapter; and
+&emsp;&emsp;(B) is operated for the purpose of making investments in securities described in paragraphs (1) through (3) of section 80a–54(a) of this title, and makes available significant managerial assistance with respect to the issuers of such securities, provided that a business development company must make available significant managerial assistance only with respect to the companies which are treated by such business development company as satisfying the 70 per centum of the value of its total assets condition of section 80a–54 of this title; and provided further that a business development company need not make available significant managerial assistance with respect to any company described in paragraph (46)(C)(iii), or with respect to any other company that meets such criteria as the Commission may by rule, regulation, or order permit, as consistent with the public interest, the protection of investors, and the purposes of this subchapter; and
 
 &emsp;&emsp;(C) has elected pursuant to section 80a–53(a) of this title to be subject to the provisions of sections 80a–54 through 80a–64 of this title.
 
@@ -200,77 +228,17 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is consistent with the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-(Aug. 22, 1940, ch. 686, title I, §2, 54 Stat. 790; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Aug. 10, 1954, ch. 667, title IV, §401, 68 Stat. 688; Pub. L. 86–70, §12(d), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(c), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §2(a), Dec. 14, 1970, 84 Stat. 1413; Pub. L. 95–598, title III, §310(a), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title I, §101, Oct. 21, 1980, 94 Stat. 2275; Pub. L. 97–303, §5, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title VI, §§601–603, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title II, §206(a), Nov. 15, 1990, 104 Stat.2720; Pub. L. 104–290, title I, §106(c), title II, §209(b), title V, §§503, 504, Oct. 11, 1996, 110 Stat. 3425, 3434, 3445; Pub. L. 105–353, title III, §301(c)(1), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §§213(a), (b), 215, 216, 223, Nov. 12, 1999, 113 Stat. 1397, 1399, 1401; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(1), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436.)
-
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 106–102, title II, §§213(a), (b), 215, 216, 223, 225, Nov. 12, 1999, 113 Stat. 1397, 1399, 1401, 1402, provided that, effective 18 months after Nov. 12, 1999—</i>
-
-<i>(1) Subsection (a)(5) of this section is amended by striking “(A) a banking institution organized under the laws of the United States” and inserting “(A) a depository institution (as defined in section 1813 of title 12) or a branch or agency of a foreign bank (as such terms are defined in section 3101 of title 12)”;</i>
-
-<i>(2) Subsection (a)(6) of this section is amended to read as follows:</i>
-
-“(6) The term ‘broker’ has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\], except that such term does not include any person solely by reason of the fact that such person is an underwriter for one or more investment companies.”;
-
-<i>(3) Subsection (a)(11) of this section is amended to read as follows:</i>
-
-“(11) The term ‘dealer’ has the same meaning as given in the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], but does not include an insurance company or investment company.”;
-
-<i>(4) Subsection (a)(19)(A) of this section is amended—</i>
-
-<i>(A) by striking clause (v) and inserting the following new clause:</i>
-
-“(v) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has executed any portfolio transactions for, engaged in any principal transactions with, or distributed shares for—
-
-&emsp;“(I) the investment company;
-
-&emsp;“(II) any other investment company having the same investment adviser as such investment company or holding itself out to investors as a related company for purposes of investment or investor services; or
-
-&emsp;“(III) any account over which the investment company's investment adviser has brokerage placement discretion,”;
-
-<i>(B) by redesignating clause (vi) as clause (vii); and</i>
-
-<i>(C) by inserting after clause (v) the following new clause:</i>
-
-“(vi) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has loaned money or other property to—
-
-&emsp;“(I) the investment company;
-
-&emsp;“(II) any other investment company having the same investment adviser as such investment company or holding itself out to investors as a related company for purposes of investment or investor services; or
-
-&emsp;“(III) any account for which the investment company's investment adviser has borrowing authority,”;
-
-<i>(5) Subsection (a)(19)(B) of this section is amended—</i>
-
-<i>(A) by striking clause (v) and inserting the following new clause:</i>
-
-“(v) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has executed any portfolio transactions for, engaged in any principal transactions with, or distributed shares for—
-
-&emsp;“(I) any investment company for which the investment adviser or principal underwriter serves as such;
-
-&emsp;“(II) any investment company holding itself out to investors, for purposes of investment or investor services, as a company related to any investment company for which the investment adviser or principal underwriter serves as such; or
-
-&emsp;“(III) any account over which the investment adviser has brokerage placement discretion,”; and
-
-<i>(B) by redesignating clause (vi) as clause (vii) and inserting after clause (v) the following new clause:</i>
-
-“(vi) any person or any affiliated person of a person (other than a registered investment company) that, at any time during the 6-month period preceding the date of the determination of whether that person or affiliated person is an interested person, has loaned money or other property to—
-
-&emsp;“(I) any investment company for which the investment adviser or principal underwriter serves as such;
-
-&emsp;“(II) any investment company holding itself out to investors, for purposes of investment or investor services, as a company related to any investment company for which the investment adviser or principal underwriter serves as such; or
-
-&emsp;“(III) any account for which the investment adviser has borrowing authority,”.
+(Aug. 22, 1940, ch. 686, title I, §2, 54 Stat. 790; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Aug. 10, 1954, ch. 667, title IV, §401, 68 Stat. 688; Pub. L. 86–70, §12(d), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(c), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §2(a), Dec. 14, 1970, 84 Stat. 1413; Pub. L. 95–598, title III, §310(a), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title I, §101, Oct. 21, 1980, 94 Stat. 2275; Pub. L. 97–303, §5, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title VI, §§601–603, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title II, §206(a), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title I, §106(c), title II, §209(b), title V, §§503, 504, Oct. 11, 1996, 110 Stat. 3425, 3434, 3445; Pub. L. 105–353, title III, §301(c)(1), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §§213(a), (b), 215, 216, 223, Nov. 12, 1999, 113 Stat. 1397, 1399, 1401; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(1), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436.)
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(19), (44), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(11), (44), is act June 6, 1934, ch. 404, 48 Stat.881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 The Securities Act of 1933, referred to in subsec. (a)(31), (44), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (a)(44), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
 
-The Trust Indenture Act of 1939, referred to in subsec. (a)(44), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification ofthis Act to the Code, see section 77aaa of this title and Tables.
+The Trust Indenture Act of 1939, referred to in subsec. (a)(44), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77aaa of this title and Tables.
 
 The Small Business Investment Act of 1958, referred to in subsec. (a)(46)(B), (47)(C), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
@@ -283,6 +251,20 @@ Words “Philippine Islands” deleted from definition of term “State” under
 2000—Subsec. (a)(36). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(1)\], inserted “security future,” after “treasury stock,”.
 
 Subsec. (a)(52). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(3)\], added par. (52).
+
+1999—Subsec. (a)(5)(A). Pub. L. 106–102, §223, substituted “a depository institution (as defined in section 1813 of title 12) or a branch or agency of a foreign bank (as such terms are defined in section 3101 of title 12)” for “a banking institution organized under the laws of the United States”.
+
+Subsec. (a)(6). Pub. L. 106–102, §215, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “ ‘Broker’ means any person engaged in the business of effecting transactions in securities for the account of others, but does not include a bank or any person solely by reason of the fact that such person is an underwriter for one or more investment companies.”
+
+Subsec. (a)(11). Pub. L. 106–102, §216, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “ ‘Dealer’ means any person regularly engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, insurance company, or investment company, or any person insofar as he is engaged in investing, reinvesting, or trading in securities, or in owning or holding securities, for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business.”
+
+Subsec. (a)(19)(A)(v). Pub. L. 106–102, §213(a)(1), added cl. (v) and struck out former cl. (v) which read as follows: “any broker or dealer registered under the Securities Exchange Act of 1934 or any affiliated person of such a broker or dealer, and”.
+
+Subsec. (a)(19)(A)(vi), (vii). Pub. L. 106–102, §213(a)(2), (3), added cl. (vi) and redesignated former cl. (vi) as (vii).
+
+Subsec. (a)(19)(B)(v). Pub. L. 106–102, §213(b)(1), added cl. (v) and struck out former cl. (v) which read as follows: “any broker or dealer registered under the Securities Exchange Act of 1934 or any affiliated person of such a broker or dealer, and”.
+
+Subsec. (a)(19)(B)(vi), (vii). Pub. L. 106–102, §213(b)(2), (3), added cl. (vi) and redesignated former cl. (vi) as (vii).
 
 1998—Subsec. (a)(8). Pub. L. 105–353 made a technical amendment to reference in original act which appears in text as reference to title 11.
 
@@ -361,4 +343,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 77b, 78c, 80a–6, 80a–13, 80a–15, 80a–31, 80a–53, 80a–54, 80a–56, 80a–58, 80b–2 of this title; title 7 sections 1a, 2; title 12 sections 371c, 1467a, 1843; title 26 sections 72, 368, 401, 731, 851, 1246.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by the word “and”.</i>
 

@@ -2,11 +2,11 @@
 
 #### (a) Purpose
 
-The purpose of this section is to promote economic integration and the consolidation and strengthening of democratic institutions in the Western Hemisphere, and to commemorate the 500th anniversary of the discovery of the Americas by Christopher Columbus through the establishment of an institution of higher education, which shall be known as the “International University for the Americas”.
+The purpose of this section is to promote economic integration and the consolidation and strengthening of democratic institutions in theWestern Hemisphere, and to commemorate the 500th anniversary of the discovery of the Americas by Christopher Columbus through the establishment of an institution of higher education, which shall be known as the “International University for the Americas”.
 
 #### (b) Establishment
 
-The Secretary of State, in consultation with other governments in the Western Hemisphere,shall determine the most appropriate location for the International University for the Americas. In making that determination, the Secretary shall ensure that—
+The Secretary of State, in consultation with other governments in the Western Hemisphere, shall determine the most appropriate location for the International University for the Americas. In making that determination, the Secretary shall ensure that—
 
 &emsp;(1) the location chosen is in the Americas and is easily accessible to all peoples in the region; and
 

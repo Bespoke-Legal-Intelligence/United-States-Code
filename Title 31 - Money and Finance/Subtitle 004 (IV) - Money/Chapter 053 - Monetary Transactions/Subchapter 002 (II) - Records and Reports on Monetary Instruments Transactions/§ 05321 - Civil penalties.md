@@ -1,6 +1,6 @@
 ### §5321. Civil penalties
 
-(a)(1) A domestic financial institution, and a partner, director, officer, or employee of a domestic financial institution, willfully violating this subchapter or a regulation prescribed under this subchapter (except sections 5314 and 5315 of this title or a regulation prescribed under sections 5314 and 5315) is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of section 5318(a)(2) of this title or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
+(a)(1) A domestic financial institution or nonfinancial trade or business, and a partner, director, officer, or employee of a domestic financial institution or nonfinancial trade or business, willfully violating this subchapter or a regulation prescribed or order issued under this subchapter (except sections 5314 and 5315 of this title or a regulation prescribed under sections 5314 and 5315), or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, is liable to the United States Government for a civil penalty of not more than the greater of the amount (not to exceed $100,000) involved in the transaction (if any) or $25,000. For a violation of section 5318(a)(2) of this title or a regulation prescribed under section 5318(a)(2), a separate violation occurs for each day the violation continues and at each office, branch, or place of business at which a violation occurs or continues.
 
 (2) The Secretary of the Treasury may impose an additional civil penalty on a person not filing a report, or filing a report containing a material omission or misstatement, under section 5316 of this title or a regulation prescribed under section 5316. A civil penalty under this paragraph may not be more than the amount of the monetary instrument for which the report was required. A civil penalty under this paragraph is reduced by an amount forfeited under section 5317(b) of this title.
 
@@ -52,11 +52,15 @@ Negligence.—
 
 &emsp;(A)
 
-In general.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.
+In general.—The Secretary of the Treasury may impose a civil money penalty of not more than $500 on any financial institution or nonfinancial trade or business which negligently violates any provision of this subchapter or any regulation prescribed under this subchapter.
 
 &emsp;(B)
 
-Pattern of negligent activity.—If any financial institution engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution.
+Pattern of negligent activity.—If any financial institution or nonfinancial trade or business engages in a pattern of negligent violations of any provision of this subchapter or any regulation prescribed under this subchapter, the Secretary of the Treasury may, in addition to any penalty imposed under subparagraph (A) with respect to any such violation, impose a civil money penalty of not more than $50,000 on the financial institution or nonfinancial trade or business.
+
+(7)
+
+Penalties for international counter money laundering violations.—The Secretary may impose a civil money penalty in an amount equal to not less than 2 times the amount of the transaction, but not more than $1,000,000, on any financial institution or agency that violates any provision of subsection (i) or (j) of section 5318 or any special measures imposed under section 5318A.
 
 (b)
 
@@ -104,7 +108,7 @@ In general.—The Secretary of the Treasury shall prescribe by regulation the te
 
 Maximum dollar amount.—The terms and conditions authorized under subparagraph (A) may include, in the Secretary's sole discretion, a limitation on the amount of any civil penalty which may be assessed by an appropriate Federal banking agency pursuant to a delegation under paragraph (1).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 98–473, title II, §901(a), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, 100 Stat. 3207–24—3207–26; Pub. L. 100–690, title VI, §6185(g)(2), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §§1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, 106 Stat. 4057, 4065, 4066, 4071; Pub. L. 103–322, title XXXIII, §330017(a)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§406, 411(b), 413(a)(1), Sept. 23, 1994, 108 Stat. 2247, 2253, 2254; Pub. L. 104–208, div. A, title II, §2223(3), Sept. 30, 1996, 110 Stat. 3009–415.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 98–473, title II, §901(a), Oct. 12, 1984, 98 Stat. 2135; Pub. L. 99–570, title I, §§1356(c)(1), 1357(a)–(f), (h), Oct. 27, 1986, 100 Stat. 3207–24—3207–26; Pub. L. 100–690, title VI, §6185(g)(2), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 102–550, title XV, §§1511(b), 1525(b), 1535(a)(2), 1561(a), Oct. 28, 1992, 106 Stat. 4057, 4065, 4066, 4071; Pub. L. 103–322, title XXXIII, §330017(a)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§406, 411(b), 413(a)(1), Sept. 23, 1994, 108 Stat. 2247, 2253, 2254; Pub. L. 104–208, div. A, title II, §2223(3), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 107–56, title III, §§353(a), 363(a), 365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 322, 332, 335.)
 
 Historical and Revision Notes
 
@@ -142,7 +146,7 @@ Sept. 21, 1973, Pub. L. 93–110, §203(a), (b)(words after last comma), 87 Stat
 
 31:1104.
 
-In subsection (a)(1), the words “or a regulation prescribed under this subchapter” are added because of the restatement. The words “(except section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. The words “is liable to the United States Government for” are substituted for “the Secretary may assess upon” in 31:1056(a) for consistency in the revised title and with other titles of the United States Code. The words “the purposes of both civil and criminal penalties for” in 31:1054(b)(last sentence)(related to civil penalties) are omitted, and the words “or a regulation prescribed under section 5318(2)” are added, because of the restatement. The words “the violation continues” are added for consistency in the revised title and with other titles of theCode. The word “separate” before “office” is omitted as surplus.
+In subsection (a)(1), the words “or a regulation prescribed under this subchapter” are added because of the restatement. The words “(except section 5315 of this title or a regulation prescribed under section 5315)” are added because 31:1141–1143 was not enacted as a part of the Currency and Foreign Transactions Reporting Act that is restated in this subchapter. The words “is liableto the United States Government for” are substituted for “the Secretary may assess upon” in 31:1056(a) for consistency in the revised title and with other titles of the United States Code. The words “the purposes of both civil and criminal penalties for” in 31:1054(b)(last sentence)(related to civil penalties) are omitted, and the words “or a regulation prescribed under section 5318(2)” are added, because of the restatement. The words “the violation continues” are added for consistency in the revised title and with other titles of the Code. The word “separate” before “office” is omitted as surplus.
 
 In subsection (a)(2), the word “impose” is substituted for “assess” for consistency in the revised title and with other titles of the Code. The word “additional” is substituted for 31:1103(last sentence words before last comma) to eliminate unnecessary words. The words “or a regulation prescribed under section 5316” are added because of the restatement. The words “amount of this”, “to be filed”, and “actually” are omitted as surplus.
 
@@ -154,9 +158,21 @@ In subsection (c), the words “in his discretion” and “upon such terms and 
 
 #### References in Text
 
-Section 3 of the Federal Deposit Insurance Act, referred to in subsec. (e)(1), is classified to section 1813 of Title 12, Banks and Banking.
+Sections 3 and 21 of the Federal Deposit Insurance Act, referred to in subsecs. (a)(1) and (e)(1), are classified to sections 1813 and 1829b, respectively, of Title 12, Banks and Banking.
+
+Section 123 of Public Law 91–508, referred to in subsec. (a)(1), is classified to section 1953 of Title 12, Banks and Banking.
+
+#### Codification
+
+Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–56, §§353(a), 365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places, “or order issued” after “subchapter or a regulation prescribed”, and “, or willfully violating a regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “sections 5314 and 5315)”.
+
+Subsec. (a)(6). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+
+Subsec. (a)(7). Pub. L. 107–56, §363(a), added par. (7).
 
 1996—Subsec. (a)(7). Pub. L. 104–208 struck out par. (7) which read as follows:
 
@@ -205,6 +221,10 @@ Subsec. (c). Pub. L. 99–570, §1357(h), substituted “subsection (c) or (d) o
 Subsec. (d). Pub. L. 99–570, §1357(f), added subsec. (d).
 
 1984—Subsec. (a)(1). Pub. L. 98–473 substituted “$10,000” for “$1,000”.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 #### Effective Date of 1992 Amendment
 

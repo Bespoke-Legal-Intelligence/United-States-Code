@@ -24,7 +24,7 @@ Subject to regulation prescribed by the Secretary, any adult may, without paymen
 
 &emsp;(2) 100 gallons per calendar year if there is only 1 adult in such household.
 
-> For purposes of this subsection, the term “adult” means an individual who has attained 18 years of age, or the minimum age (if any) established by law applicable in the locality in whichthe household is situated at which beer may be sold to individuals, whichever is greater.
+> For purposes of this subsection, the term “adult” means an individual who has attained 18 years of age, or the minimum age (if any) established by law applicable in the locality in which the household is situated at which beer may be sold to individuals, whichever is greater.
 
 #### (f) Removal for use as distilling material
 

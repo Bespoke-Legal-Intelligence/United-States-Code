@@ -108,7 +108,7 @@
 
 #### (B) Extension of time period
 
-&emsp;&emsp;The Corporation may extend the 60-day period referred to in subparagraph (A) for not more than 30 additional days, and shall notify the applicant of any such extension.
+&emsp;&emsp;The Corporation may extend the 60-day period referred to in subparagraph (A) for notmore than 30 additional days, and shall notify the applicant of any such extension.
 
 #### (e) Savings bank life insurance
 
@@ -196,7 +196,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation may require divestiture by an insured State bank of any investment permitted under this subsection if the Corporation determines that such investment will have an adverse effect on the safety and soundness of the bank.
+&emsp;&emsp;The Corporation may require divestiture by an insured State bank of any investmentpermitted under this subsection if the Corporation determines that such investment will have an adverse effect on the safety and soundness of the bank.
 
 #### (B) Reasonable standard
 

@@ -58,7 +58,7 @@ Subsection (b) of this section shall not apply—
 
 #### (e) Hearings; intervention; evidence; burden of proof
 
-If, in the case of any application to which subsection (a) of this section applies, a substantial and material question of fact is presented or the Commission for any reason is unable to make the finding specified in such subsection, it shall formally designate the application for hearing on the ground or reasons then obtaining andshall forthwith notify the applicant and all other known parties in interest of such action and the grounds and reasons therefor, specifying with particularity the matters and things in issue but not including issues or requirements phrased generally. When the Commission has so designated an application for hearing the parties in interest, if any, who are not notified by the Commission of such action may acquire the status of a party to the proceeding thereon by filing a petition for intervention showing the basis for their interest not more than thirty days after publication of the hearing issues or any substantial amendment thereto in the Federal Register. Any hearing subsequently held upon such application shall be a full hearing in which the applicant and all other parties in interest shall be permitted to participate. The burden of proceeding with the introduction of evidence and the burden of proof shall be upon the applicant, except that with respect to any issue presented by a petition to deny or a petition to enlarge the issues, such burdens shall be as determined by the Commission.
+If, in the case of any application to which subsection (a) of this section applies, a substantial and material question of fact is presented or the Commission for any reason is unable to make the finding specified in such subsection, it shall formally designate the application for hearing on the ground or reasons then obtaining and shall forthwith notify the applicant and all other known parties in interest of such action and the grounds and reasons therefor, specifying with particularity the matters and things in issue but not including issues or requirements phrased generally. When the Commission has so designated an application for hearing the parties in interest, if any, who are not notified by the Commission of such action may acquire the status of a party to the proceeding thereon by filing a petition for intervention showing the basis for their interest not more than thirty days after publication of the hearing issues or any substantial amendment thereto in the Federal Register. Any hearing subsequently held upon such application shall be a full hearing in which the applicant and all other parties in interest shall be permitted to participate. The burden of proceeding with the introduction of evidence and the burden of proof shall be upon the applicant, except that with respect to any issue presented by a petition to deny or a petition to enlarge the issues, such burdens shall be as determined by the Commission.
 
 #### (f) Temporary authorization of temporary operations under subsection (b)
 
@@ -96,7 +96,7 @@ General authority.—Except as provided in paragraph (5), if there is more than 
 
 &emsp;(ii) The term “minority group” includes Blacks, Hispanics, American Indians, Alaska Natives, Asians, and Pacific Islanders.
 
-(4)(A) The Commission shall, after notice and opportunity for hearing, prescribe rules establishing a system of random selection for use bythe Commission under this subsection in any instance in which the Commission, in its discretion, determines that such use is appropriate for the granting of any license or permit in accordance with paragraph (1).
+(4)(A) The Commission shall, after notice and opportunity for hearing, prescribe rules establishing a system of random selection for use by the Commission under this subsection in any instance in which the Commission, in its discretion, determines that such use is appropriate for the granting of any license or permit in accordance with paragraph (1).
 
 (B) The Commission shall have authority to amend such rules from time to time to the extent necessary to carry out the provisions of this subsection. Any such amendment shall be made after notice and opportunity for hearing.
 
@@ -130,7 +130,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (3) Design of systems of competitive bidding
 
-&emsp;For each class of licenses or permits that the Commission grants through the use of a competitive bidding system, the Commission shall, by regulation, establish a competitive bidding methodology. The Commission shall seek to design and test multiple alternative methodologies under appropriate circumstances. The Commission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive bidding using a contingent combinatorial bidding system that permits prospective bidders to bid on combinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round. In identifying classes of licenses and permits to be issued by competitive bidding, in specifying eligibility and other characteristics of such licenses and permits, and in designing the methodologies for use under this subsection, the Commission shall include safeguards to protect the public interest in the use of the spectrum and shall seek to promote the purposes specified in section 151 of this title and the following objectives:
+&emsp;For each class of licenses or permits that the Commission grants through the use of a competitive bidding system, the Commission shall, by regulation, establish a competitive bidding methodology. The Commission shall seek to design and test multiple alternative methodologies under appropriate circumstances. The Commission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive biddingusing a contingent combinatorial bidding system that permits prospective bidders to bid on combinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round. In identifying classes of licenses and permits to be issued by competitive bidding, in specifying eligibility and other characteristics of such licenses and permits, and in designing the methodologies for use under this subsection, the Commission shall include safeguards to protect the public interest in the use of the spectrum and shall seek to promote the purposes specified in section 151 of this title and the following objectives:
 
 &emsp;&emsp;(A) the development and rapid deployment of new technologies, products, and services for the benefit of the public, including those residing in rural areas, without administrative or judicial delays;
 
@@ -154,7 +154,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;(B) include performance requirements, such as appropriate deadlines and penalties for performance failures, to ensure prompt delivery of service to rural areas, to prevent stockpiling or warehousing of spectrum by licensees or permittees, and to promote investment in and rapid deployment of new technologies and services;
 
-&emsp;&emsp;(C) consistent with the public interest, convenience, and necessity, the purposes ofthis chapter, and the characteristics of the proposed service, prescribe area designations and bandwidth assignments that promote (i) an equitable distribution of licenses and services among geographic areas, (ii) economic opportunity for a wide variety of applicants, including small businesses, rural telephone companies, and businesses owned by members of minority groups and women, and (iii) investment in and rapid deployment of new technologies and services;
+&emsp;&emsp;(C) consistent with the public interest, convenience, and necessity, the purposes of this chapter, and the characteristics of the proposed service, prescribe area designations and bandwidth assignments that promote (i) an equitable distribution of licenses and services among geographic areas, (ii) economic opportunity for a wide variety of applicants, including small businesses, rural telephone companies, and businesses owned by members of minority groups and women, and (iii) investment in and rapid deployment of new technologies and services;
 
 &emsp;&emsp;(D) ensure that small businesses, rural telephone companies, and businesses owned by members of minority groups and women are given the opportunity to participate in the provision of spectrum-based services, and, for such purposes, consider the use of tax certificates, bidding preferences, and other procedures;
 
@@ -208,7 +208,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (B) Retention of revenues
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this subsection. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis. Such offsetting collections are authorized to remainavailable until expended. No sums may be retained under this subparagraph during any fiscal year beginning after September 30, 1998, if the annual report of the Commission under section 154(k) of this title for the second preceding fiscal year fails to include in the itemized statement required by paragraph (3) of such section a statement of each expenditure made for purposes of conducting competitive bidding under this subsection during such second preceding fiscal year.
+&emsp;&emsp;Notwithstanding subparagraph (A), the salaries and expenses account of the Commission shall retain as an offsetting collection such sums as may be necessary from such proceeds for the costs of developing and implementing the program required by this subsection. Such offsetting collections shall be available for obligation subject to the terms and conditions of the receiving appropriations account, and shall be deposited in such accounts on a quarterly basis. Such offsetting collections are authorized to remain available until expended. No sums may be retained under this subparagraph during any fiscal year beginning after September 30, 1998, if the annual report of the Commission under section 154(k) of this title for the second preceding fiscal year fails to include in the itemized statement required by paragraph (3) of such section a statement of each expenditure made for purposes of conducting competitive bidding under this subsection during such second preceding fiscal year.
 
 #### (C) Deposit and use of auction escrow accounts
 
@@ -244,7 +244,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 #### (B) Subsequent conditions
 
-&emsp;&emsp;The Commission's authority to issue licenses or permits under this subsection on and after 2 years after August 10, 1993, shall cease to be effective if—
+&emsp;&emsp;The Commission's authority to issue licenses or permits under this subsection onand after 2 years after August 10, 1993, shall cease to be effective if—
 
 &emsp;&emsp;&emsp;(i) the Secretary of Commerce has failed to submit the report required by section 113(a) of the National Telecommunications and Information Administration Organization Act \[47 U.S.C. 923(a)\];
 
@@ -312,7 +312,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;Except with respect to pending applications described in clause (iv) of this subparagraph, the Commission shall prescribe regulations specifying the procedures and criteria by which the Commission will evaluate applications for preferential treatment in its licensing processes (by precluding the filing of mutually exclusive applications) for persons who make significant contributions to the development of a new service or to the development of new technologies that substantially enhance an existing service. Such regulations shall—
 
-&emsp;&emsp;&emsp;(i) specify the procedures and criteria by which the significance of such contributions will be determined, after an opportunity for review and verification by experts in the radio sciences drawn from among persons who are not employees of the Commission or by any applicant for such preferential treatment;
+&emsp;&emsp;&emsp;(i) specify the procedures and criteria by which the significance of such contributions will be determined, after an opportunity for review and verification by experts in the radio sciences drawn from among persons who are not employees ofthe Commission or by any applicant for such preferential treatment;
 
 &emsp;&emsp;&emsp;(ii) include such other procedures as may be necessary to prevent unjust enrichment by ensuring that the value of any such contribution justifies any reduction in the amounts paid for comparable licenses under this subsection;
 
@@ -338,7 +338,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;&emsp;&emsp;(II) payment of the unpaid balance and interest thereon after the end of such 2 years in accordance with the regulations prescribed by the Commission; and
 
-&emsp;&emsp;&emsp;(v) the Commission shall recover with respect to broadband licenses in the personal communications service an amount under this paragraph that is equal to not less than $400,000,000, and if such amount isless than $400,000,000, the Commission shall recover an amount equal to $400,000,000 by allocating such amount among the holders of such licenses based on the population of the license areas held by each licensee.
+&emsp;&emsp;&emsp;(v) the Commission shall recover with respect to broadband licenses in the personal communications service an amount under this paragraph that is equal to not less than $400,000,000, and if such amount is less than $400,000,000, the Commission shall recover an amount equal to $400,000,000 by allocating such amount among the holders of such licenses based on the population of the license areas held by each licensee.
 
 > &emsp;&emsp;The Commission shall not include in any amounts required to be collected under clause (v) the interest on unpaid balances required to be collected under clause (iv).
 
@@ -366,7 +366,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;&emsp;(iii) in any market in which an extension is not available under clause (i) or (ii), 15 percent or more of the television households in such market—
 
-&emsp;&emsp;&emsp;&emsp;(I) do not subscribe to a multichannel video programming distributor (as defined in section 522 of this title) that carries one of the digital television service programming channels of each of the television stations broadcasting such a channel in such market; and
+&emsp;&emsp;&emsp;&emsp;(I) do not subscribe to a multichannel video programming distributor (as defined in section 522 of this title) that carries one of the digital television service programming channels of each of thetelevision stations broadcasting such a channel in such market; and
 
 &emsp;&emsp;&emsp;&emsp;(II) do not have either—
 
@@ -434,7 +434,7 @@ With respect to competing applications for initial licenses or construction perm
 
 &emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
-(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265.)
+(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17),304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265.)
 
 #### References in Text
 
@@ -512,7 +512,7 @@ Subsec. (j). Pub. L. 103–66, §6002(a), added subsec. (j).
 
 1982—Subsec. (f). Pub. L. 97–259, §114, substituted “temporary” for “emergency” wherever appearing, “additional periods” for “one additional period”, and “180 days” for “ninety days” wherever appearing.
 
-Subsec. (i)(1). Pub. L. 97–259, §115(a), substituted “application” for “applicant” after “more than one”, and “that each such application is acceptable for filing” for “the qualifications of each such applicant under section 308(b) of this title”.
+Subsec. (i)(1). Pub. L. 97–259, §115(a), substituted “application” for “applicant” after “more than one”, and“that each such application is acceptable for filing” for “the qualifications of each such applicant under section 308(b) of this title”.
 
 Subsec. (i)(2). Pub. L. 97–259, §115(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The determination of the Commission under paragraph (1) with respect to the qualifications of applicants for an initial license or construction permit shall be made after notice and opportunity for a hearing, except that the provisions of section 409(c)(2) of this title shall not apply in the case of any such determination.”
 
@@ -572,7 +572,7 @@ Section 6002(d)(1), (2) of Pub. L. 103–66 provided that:
 
 “(1)
 
-General rulemaking.—The Federal Communications Commission shall prescribe regulations to implement section 309(j) of the Communications Act of 1934 \[47 U.S.C. 309(j)\] (as added by this section) within 210 days after the date of enactment of this Act \[Aug. 10, 1993\].
+General rulemaking.—The Federal Communications Commission shall prescribe regulations to implement section 309(j) of the Communications Act of 1934\[47 U.S.C. 309(j)\] (as added by this section) within 210 days after the date of enactment of this Act \[Aug. 10, 1993\].
 
 “(2)
 

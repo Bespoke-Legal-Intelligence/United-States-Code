@@ -2,7 +2,7 @@
 
 #### (a) Safe place of employment; installation of safety devices and safeguards
 
-Every employer shall furnish and maintain employment and places of employment which shall be reasonably safe for his employees in all employments covered by this chapter and shall install, furnish, maintain, and use such devices and safeguards with particular reference to equipment used by and working conditions established by such employers as the Secretary may determine by regulation or order to be reasonably necessary to protect the life, health,and safety of such employees, and to render safe such employment and places of employment, and to prevent injury to his employees. However, the Secretary may not make determinations by regulation or order under this section as to matters within the scope of title 52 of the Revised Statutes and Acts supplementary or amendatory thereto, the Act of June 15, 1917 (ch. 30, 40 Stat. 220), as amended, or section 1333(e) of title 43.
+Every employer shall furnish and maintain employment and places of employment which shall be reasonably safe for his employees in all employments covered by this chapter and shall install, furnish, maintain, and use such devices and safeguards with particular reference to equipment used by and working conditions established by such employers as the Secretary may determine by regulation or order to be reasonably necessary to protect the life, health, and safety of such employees, and to render safe such employment and places of employment, and to prevent injury to his employees. However, the Secretary may not make determinations by regulation or order under this section as to matters within the scope of title 52 of the Revised Statutes and Acts supplementary or amendatory thereto, the Act of June 15, 1917 (ch. 30, 40 Stat. 220), as amended, or section 1333(e) of title 43.
 
 #### (b) Studies and investigations by Secretary
 
@@ -36,7 +36,7 @@ Any employer who, willfully, violates or fails or refuses to comply with the pro
 
 #### (g) Inapplicability to certain employments
 
-(1) The provisions of this section shall not apply in the case of any employment relating to the operations for the exploration, production, or transportation by pipeline of mineral resources upon the navigable waters of the United States, nor under the authority of the Act of August 7, 1953 (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\], nor in the case of any employment in connection with lands (except filled in, made or reclaimed lands) beneath the navigable waters as defined in the Act of May 22, 1953 (ch. 65,67 Stat. 29) \[43 U.S.C. 1301 et seq.\], nor in the case of any employment for which compensation in case of disability or death is provided for employees under the authority of the Act of May 17, 1928 (ch. 612, 45 Stat. 600), as amended, nor under the authority of the Act of August 16, 1941 (ch. 357, 55 Stat. 622), as amended \[42 U.S.C. 1651 et seq.\].
+(1) The provisions of this section shall not apply in the case of any employment relating to the operations for the exploration, production, or transportation by pipeline of mineral resources upon the navigable waters of the United States, nor under the authority of the Act of August 7, 1953 (ch. 345, 67 Stat. 462) \[43 U.S.C. 1331 et seq.\], nor in the case of any employment in connection with lands (except filled in, made or reclaimed lands) beneath the navigable waters as defined in the Act of May 22, 1953 (ch. 65, 67 Stat. 29) \[43 U.S.C. 1301 et seq.\], nor in the case of any employment for which compensation in case of disability or death is provided for employees under the authority of the Act of May 17, 1928 (ch. 612, 45 Stat. 600), as amended, nor under the authority of the Act of August 16, 1941 (ch. 357, 55 Stat. 622), as amended \[42 U.S.C. 1651 et seq.\].
 
 (2) The provisions of this section, with the exception of paragraph (1) of subsection (b) of this section, shall not be applied under the authority of subchapter I of chapter 81 of title 5.
 
@@ -50,7 +50,7 @@ Act of June 15, 1917, referred to in subsec. (a), is act June 15, 1917, ch. 30, 
 
 Act of August 7, 1953, referred to in subsec. (g)(1), is known as the Outer Continental Shelf Lands Act, and is classified to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
-Act of May 22, 1953, referred to in subsec. (g)(1), is known as the Submerged Lands Act, and is classified generally to subchapters I and II (§§1301 et seq., 1311 et seq.) of chapter 29 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+Act of May 22, 1953, referred to in subsec. (g)(1), is known as the Submerged Lands Act, and is classified generally to subchapters I and II (§§1301 et seq., 1311 etseq.) of chapter 29 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 Act of May 17, 1928, referred to in subsec. (g)(1), extended the applicability of this chapter in respect to the injury or death of an employee of an employer carrying on any employment in the District of Columbia.
 

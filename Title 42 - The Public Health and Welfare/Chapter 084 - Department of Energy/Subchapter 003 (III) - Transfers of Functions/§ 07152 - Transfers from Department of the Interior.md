@@ -16,7 +16,7 @@
 
 (2) The Southeastern Power Administration, the Southwestern Power Administration, and the Bonneville Power Administration,<sup>1</sup> shall be preserved as separate and distinct organizational entities within the Department. Each such entity shall be headed by an Administrator appointed by the Secretary. The functions transferred to the Secretary in paragraphs (1)(A), (1)(B), (1)(C), and (1)(D) shall be exercised by the Secretary, acting by and through such Administrators. Each such Administrator shall maintain his principal office at a place located in the region served by his respective Federal power marketing entity.
 
-(3) The functions transferred in paragraphs (1)(E) and (1)(F) of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
+(3) The functions transferred in paragraphs (1)(E) and (1)(F) <sup>2</sup> of this subsection shall be exercised by the Secretary, acting by and through a separate and distinct Administration within the Department which shall be headed by an Administrator appointed by the Secretary. The Administrator shall establish and shall maintain such regional offices as necessary to facilitate the performance of such functions. Neither the transfer of functions effected by paragraph (1)(E) of this subsection nor any changes in cost allocation or project evaluation standards shall be deemed to authorize the reallocation of joint costs of multipurpose facilities theretofore allocated unless and to the extent that such change is hereafter approved by Congress.
 
 #### (b), (c) Repealed. Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407
 
@@ -40,6 +40,8 @@ The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1
 
 Act of June 18, 1954, as amended by the Act of December 23, 1963, referred to in subsec. (a)(1)(E), is act June 18, 1954, ch. 310, 68 Stat. 255, which was not classified to the Code.
 
+Paragraphs (1)(E) and (1)(F) of this subsection, referred to in subsec. (a)(3), were redesignated as pars. (1)(D) and (1)(E) of this subsection, respectively, by Pub. L. 104–58, title I, §104(h)(1)(B), Nov. 28, 1995, 109 Stat. 560.
+
 Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act May 16, 1910, ch. 240, 36 Stat. 369, which is classified to sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
@@ -52,7 +54,7 @@ Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted “and” after “South
 
 #### Change of Name
 
-Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
+Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out asa note under section 1 of Title 30, Mineral Lands and Mining.
 
 #### Effective Date of 1995 Amendment
 
@@ -124,7 +126,7 @@ Subsequent Transfers.—Except for subsequent assignment of interest in Eklutna 
 
 “(c)
 
-Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to reviewdecisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
+Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
 
 “(2) An action seeking review of a Fish and Wildlife Program (‘Program’) of the Governor of Alaska under the Memorandum of Agreement or challenging actions of any of the parties to the Memorandum of Agreement prior to the adoption of the Program shall be brought not later than 90 days after the date on which the Program is adopted by the Governor of Alaska, or be barred.
 
@@ -201,4 +203,6 @@ Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: “Tha
 This section is referred to in section 7153 of this title; title 16 section 839f; title 33 section 2213.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

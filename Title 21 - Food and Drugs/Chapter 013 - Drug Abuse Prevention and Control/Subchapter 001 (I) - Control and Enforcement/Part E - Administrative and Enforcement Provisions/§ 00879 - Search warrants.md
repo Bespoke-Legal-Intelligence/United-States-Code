@@ -1,6 +1,6 @@
 ### §879. Search warrants
 
-A search warrant relating to offenses involving controlled substances may be served at anytime of the day or night if the judge or United States magistrate judge issuing the warrant is satisfied that there is probable cause to believe that grounds exist for the warrant and for its service at such time.
+A search warrant relating to offenses involving controlled substances may be served at any time of the day or night if the judge or United States magistrate judge issuing the warrant is satisfied that there is probable cause to believe that grounds exist for the warrant and for its service at such time.
 
 (Pub. L. 91–513, title II, §509, Oct. 27, 1970, 84 Stat. 1274; Pub. L. 93–481, §3, Oct. 26, 1974, 88 Stat. 1455; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

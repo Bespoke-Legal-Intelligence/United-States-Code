@@ -6,7 +6,7 @@
 
 &emsp;(2) The term “former captive” means a person who, as a member of the uniformed services, was held in a captive status.
 
-(b)(1) The Secretary of the Treasury shall establish a savings fund to which the Secretary concerned may allot all or any portion of thepay and allowances of any member of the uniformed services who is in a captive status to the extent that such pay and allowances are not subject to an allotment under section 553 of this title or any other provision of law.
+(b)(1) The Secretary of the Treasury shall establish a savings fund to which the Secretary concerned may allot all or any portion of the pay and allowances of any member of the uniformed services who is in a captive status to the extent that such pay and allowances are not subject to an allotment under section 553 of this title or any other provision of law.
 
 (2) Amounts so allotted shall bear interest at a rate which, for any calendar quarter, shall be equal to the average rate paid on United States Treasury bills with three-month maturities issued during the preceding calendar quarter. Such interest shall be computed quarterly.
 
@@ -44,7 +44,7 @@
 
 (5) Any amount due a person under this subsection shall, after the death of such person, be deemed to be pay and allowances for the purposes of this chapter.
 
-(6) Any payment made under paragraph (1) that is later denied under paragraph (3)(A)(ii) is a claim of the United States Government for purposes of section 3711 of title 31.
+(6) Any payment made under paragraph (1) that is later denied under paragraph (3)(A)(ii) isa claim of the United States Government for purposes of section 3711 of title 31.
 
 (d) A determination by the President under subsection (a)(1) or (c) is final and is not subject to judicial review.
 
@@ -92,7 +92,7 @@ Section 806(a)(3) of Pub. L. 99–399 provided that:
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No.12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
+Functions of President under this section delegated to Secretary of Defense, see section 3 of Ex. Ord. No. 12598, June 17, 1987, 52 F.R. 23421, set out as a note under section 5569 of Title 5, Government Organization and Employees.
 
 #### Back Pay for Members of the Navy and Marine Corps Selected for Promotion While Interned as Prisoners of War During World War II
 

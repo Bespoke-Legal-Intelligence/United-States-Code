@@ -54,7 +54,7 @@ The Corporation shall not itself—
 
 (3) Neither the Corporation nor any recipient shall contribute or make available corporate funds or program personnel or equipment to any political party or association, or the campaign of any candidate for public or party office.
 
-(4) Neither the Corporation nor any recipient shall contribute or make available corporate funds or program personnel or equipment for use in advocating or opposing any ballot measures, initiatives, or referendums. However, an attorney may provide legal advice and representation as an attorney to any eligible client with respect to such client's legal rights.
+(4) Neither the Corporation nor any recipient shall contribute or make available corporatefunds or program personnel or equipment for use in advocating or opposing any ballot measures, initiatives, or referendums. However, an attorney may provide legal advice and representation as an attorney to any eligible client with respect to such client's legal rights.
 
 (5) No class action suit, class action appeal, or amicus curiae class action may be undertaken, directly or through others, by a staff attorney, except with the express approval of a project director of a recipient in accordance with policies established by the governing body of such recipient.
 

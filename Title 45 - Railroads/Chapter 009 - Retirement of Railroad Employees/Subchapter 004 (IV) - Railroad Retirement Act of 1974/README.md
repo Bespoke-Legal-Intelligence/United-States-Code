@@ -37,4 +37,4 @@ This subchapter is referred to in sections 354, 361, 362, 726, 797d, 909, 1207 o
 - [&sect; 00231s - Separability](%C2%A7%2000231s%20-%20Separability.md)
 - [&sect; 00231t - Short title](%C2%A7%2000231t%20-%20Short%20title.md)
 - [&sect; 00231u - Benefit preservation](%C2%A7%2000231u%20-%20Benefit%20preservation.md)
-- [&sect; 00231v - Repealed. Pub. L. 100&#8211;504, title I, &sect;102(e)(3), Oct. 18, 1988, 102 Stat. 2517](%C2%A7%2000231v%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93504%2C%20title%20I%2C%20%C2%A7102%28e%29%283%29%2C%20Oct.%2018%2C%201988%2C%20102%20Stat.%202517.md)
+- [&sect; 00231v - Computation and certification of account benefit ratios](%C2%A7%2000231v%20-%20Computation%20and%20certification%20of%20account%20benefit%20ratios.md)

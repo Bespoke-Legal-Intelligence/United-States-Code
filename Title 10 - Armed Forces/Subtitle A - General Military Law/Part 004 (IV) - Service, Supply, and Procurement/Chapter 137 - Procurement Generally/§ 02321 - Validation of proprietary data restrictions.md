@@ -84,7 +84,7 @@ Rights and Liability Upon Final Disposition.—(1) If, upon final disposition, t
 
 &emsp;(A) the United States shall continue to be bound by the restriction; and
 
-&emsp;(B) the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in section2412(d)(2)(A) of title 28) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
+&emsp;(B) the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
 
 (j)
 
@@ -94,7 +94,7 @@ Use or Release Restriction Defined.—In this section, the term “use or releas
 
 &emsp;(2) to release or disclose such technical data to persons outside the Government or permit the use of such technical data by persons outside the Government.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c) \[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2597; amended Pub. L. 99–500 §101(c)\[title X, §953(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–171, and Pub. L. 99–591, §101(c) \[title X, §953(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–171; Pub. L. 99–661, div. A, title IX, formerly title IV, §953(b), Nov. 14, 1986, 100 Stat. 3951, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, Pub. L. 100–26, §7(a)(5), Apr. 21, 1987, 101 Stat. 276; Pub. L. 100–180, div. A, title XII, §1231(6), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 103–35, title II, §201(g)(4), May 31, 1993, 107 Stat. 100; Pub. L. 103–355, title VIII, §8106(b), Oct. 13, 1994, 108 Stat. 3393.)
 
 #### References in Text
 

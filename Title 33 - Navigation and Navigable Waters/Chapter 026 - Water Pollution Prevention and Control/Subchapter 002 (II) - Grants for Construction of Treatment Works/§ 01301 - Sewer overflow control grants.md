@@ -50,7 +50,7 @@ There is authorized to be appropriated to carry out this section $750,000,000 fo
 
 #### (1) Fiscal year 2002
 
-&emsp;Subject to subsection (h) of this section, the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2002 for making grants to municipalities and municipal entities under subsection (a)(2) of this section, in accordance with the criteria set forth in subsection (b) of this section.
+&emsp;Subject to subsection (h) of this section, the Administrator shall use the amounts appropriated to carry out this section for fiscal year2002 for making grants to municipalities and municipal entities under subsection (a)(2) of this section, in accordance with the criteria set forth in subsection (b) of this section.
 
 #### (2) Fiscal year 2003
 

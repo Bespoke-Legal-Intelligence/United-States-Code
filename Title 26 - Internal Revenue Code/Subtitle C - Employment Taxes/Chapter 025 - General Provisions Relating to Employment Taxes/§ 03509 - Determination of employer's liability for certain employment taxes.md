@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If any employer fails to deduct and withhold any tax under chapter 24 or subchapter A ofchapter 21 with respect to any employee by reason of treating such employee as not being an employee for purposes of such chapter or subchapter, the amount of the employer's liability for—
+If any employer fails to deduct and withhold any tax under chapter 24 or subchapter A of chapter 21 with respect to any employee by reason of treating such employee as not being an employee for purposes of such chapter or subchapter, the amount of the employer's liability for—
 
 #### (1) Withholding taxes
 

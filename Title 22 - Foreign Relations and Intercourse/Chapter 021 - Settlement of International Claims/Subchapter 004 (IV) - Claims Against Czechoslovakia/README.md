@@ -40,7 +40,7 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 &emsp;“(2) An account into which $1,500,000 shall be covered, to be available for payment in accordance with section 8 of this Act on account of awards determined pursuant to section 5 of this Act.
 
-&emsp;“(3) An account into which the remainder of amounts in the Fund shall be covered, to be available for payment in accordance with section 8 of this Act on account of awards determined pursuant to section 6 of this Act.
+&emsp;“(3) An account into which the remainder of amounts in the Fund shall be covered, to be availablefor payment in accordance with section 8 of this Act on account of awards determined pursuant to section 6 of this Act.
 
 #### “determination of certain claims
 
@@ -70,7 +70,7 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 #### “payment of awards
 
-“Sec. 8. (a) As soon as practicable after the date of the enactment of this Act \[Dec. 29, 1981\], the Secretaryshall make payments from amounts in the account established pursuant to section 4(b)(1) of this Act on the unpaid balance of each award certified by the Commission pursuant to section 410 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1642i\].
+“Sec. 8. (a) As soon as practicable after the date of the enactment of this Act \[Dec. 29, 1981\], the Secretary shall make payments from amounts in the account established pursuant to section 4(b)(1) of this Act on the unpaid balance of each award certified by the Commission pursuant to section 410 of the International Claims Settlement Act of 1949 \[22 U.S.C. 1642i\].
 
 “(b) As soon as practicable after the Commission has completed the certification of awards pursuant to section 5(b) of this Act, the Secretary shall make payments on account of each such award from the amounts in the account established pursuant to section 4(b)(2) of this Act.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 11432, 11433 of this title; title 31 section 6703.
+This subchapter is referred to in section 11432 of this title; title 31 section 6703.
 
 
 ---

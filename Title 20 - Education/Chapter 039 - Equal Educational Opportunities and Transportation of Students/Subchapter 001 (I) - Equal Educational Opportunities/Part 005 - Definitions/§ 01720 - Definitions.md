@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 (b) The term “local educational agency” means a local educational agency as defined by section 801(f) <sup>1</sup> of the Elementary and Secondary Education Act of 1965.
 
-(c) The term “segregation” means the operation of a school system in which students are wholly or substantially separated among the schools of an educational agency on the basis of race, color, sex, or national origin or within a school on the basis of race, color, or national origin.
+(c) The term “segregation” means the operation of a school system in which students arewholly or substantially separated among the schools of an educational agency on the basis of race, color, sex, or national origin or within a school on the basis of race, color, or national origin.
 
 (d) The term “desegregation” means desegregation as defined by section 2000c(b) of title 42.
 
@@ -16,5 +16,5 @@ For the purposes of this subchapter—
 
 #### References in Text
 
-Section 801 of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (a) and (b), is section 801, title VIII, of Pub. L. 89–10, which was formerly classified to section 881 of this title. Section 801 of that Act was renumbered section 1001 of title X by Pub. L. 95–561, title VIII, §801(1), (2), Nov. 1, 1978, 92 Stat. 2284, and was reclassified to section 3381 of this title. Section 1001 was subsequently renumbered section 8001 and amended generally by Pub. L. 100–297, title I, §1002, Apr. 28, 1988, 102 Stat. 293, and, as so amended, did not contain subsections nor specific definitions. Section 8001 was subsequently omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For definitions, see section 8801 of this title.
+Section 801 of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (a) and (b), is section 801, title VIII, of Pub. L. 89–10, which was formerly classified to section 881 of this title. Section 801 of that Act was renumbered section 1001 of title X by Pub. L. 95–561, title VIII, §801(1), (2), Nov. 1, 1978, 92 Stat. 2284, and was reclassified to section 3381 of this title. Section 1001 was subsequently renumbered section 8001 and amended generally by Pub. L. 100–297, title I, §1002, Apr. 28, 1988, 102 Stat. 293, and, as so amended, did not contain subsections or specific definitions. Section 8001 was subsequently omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. For definitions, see section 7801 of this title.
 

@@ -26,7 +26,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) no stockholder of which is entitled (either conditionally or unconditionally) to receive any distribution not out of earnings and profits of the corporation except on a complete or partial liquidation of the corporation, and
 
-&emsp;&emsp;(D) 80 percent or more of the gross income of which for the taxable year in which the taxes and interest described in subsection (a) are paid or incurred is derived from tenant-stockholders.
+&emsp;&emsp;(D) 80 percent or more of the gross income of which for the taxable year in which thetaxes and interest described in subsection (a) are paid or incurred is derived from tenant-stockholders.
 
 #### (2) Tenant-stockholder
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (d) Disallowance of deduction for certain payments to the corporation
 
-No deduction shall be allowed to a stockholder in a cooperative housing corporation for any amount paid or accrued to such corporation during any taxable year (in excess of the stockholder's proportionate share of the items described in subsections (a)(1) and (a)(2)) to the extent that, under regulations prescribed by the Secretary, such amount is properly allocable to amounts paid or incurred at any time by the corporation which are chargeable to the corporation's capital account. The stockholder's adjusted basis in the stock in the corporation shall be increased by the amount of such disallowance.
+No deduction shall be allowed to a stockholder in a cooperative housing corporation for any amount paid or accrued to such corporation during any taxable year (in excess of the stockholder's proportionate share of the items describedin subsections (a)(1) and (a)(2)) to the extent that, under regulations prescribed by the Secretary, such amount is properly allocable to amounts paid or incurred at any time by the corporation which are chargeable to the corporation's capital account. The stockholder's adjusted basis in the stock in the corporation shall be increased by the amount of such disallowance.
 
 #### (e) Distributions by cooperative housing corporations
 

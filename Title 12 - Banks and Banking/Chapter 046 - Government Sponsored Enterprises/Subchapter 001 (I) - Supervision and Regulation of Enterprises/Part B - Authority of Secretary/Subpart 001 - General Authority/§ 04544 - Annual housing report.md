@@ -10,7 +10,7 @@ The report shall—
 
 &emsp;(1) aggregate and analyze census tract data to assess the compliance of each enterprise with the central cities, rural areas, and other underserved areas housing goal and to determine levels of business in central cities, rural areas, underserved areas, low- and moderate-income census tracts, minority census tracts, and other geographical areas deemed appropriate by the Secretary;
 
-&emsp;(2) aggregate and analyze data on income to assess the compliance of each enterprise with the low- and moderate-income and special affordable housing goals;
+&emsp;(2) aggregate and analyze data on income to assess the compliance of each enterprise withthe low- and moderate-income and special affordable housing goals;
 
 &emsp;(3) aggregate and analyze data on income, race, and gender by census tract and compare such data with larger demographic, housing, and economic trends;
 
@@ -20,7 +20,7 @@ The report shall—
 
 &emsp;&emsp;(A) the availability and liquidity of mortgage credit;
 
-&emsp;&emsp;(B) the status of efforts to provide standard credit terms and underwriting guidelinesfor multifamily housing and to securitize such mortgage products; and
+&emsp;&emsp;(B) the status of efforts to provide standard credit terms and underwriting guidelines for multifamily housing and to securitize such mortgage products; and
 
 &emsp;&emsp;(C) any factors inhibiting such standardization and securitization;
 

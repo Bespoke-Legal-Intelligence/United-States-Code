@@ -16,7 +16,7 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–325 substituted “Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shall issue regulations requiring the Federal agency lender,” for “Federal instrumentality described in such section shall by regulation require the institutions”.
+1994—Subsec. (b). Pub. L. 103–325 substituted “Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shallissue regulations requiring the Federal agency lender,” for “Federal instrumentality described in such section shall by regulation require the institutions”.
 
 1983—Subsec. (a). Pub. L. 98–181 substituted “Director” for “Secretary”.
 

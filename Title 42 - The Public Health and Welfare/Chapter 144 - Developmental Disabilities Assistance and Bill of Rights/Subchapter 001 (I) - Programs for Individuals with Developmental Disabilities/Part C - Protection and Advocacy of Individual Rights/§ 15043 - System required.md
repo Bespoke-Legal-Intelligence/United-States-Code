@@ -24,7 +24,7 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 &emsp;&emsp;&emsp;(ii) the activities of the system, including the coordination of services with the entities carrying out advocacy programs under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.), and with entities carrying out other related programs, including the parent training and information centers funded under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and activities authorized under section 3011 or 3012 of title 29;
 
-&emsp;&emsp;(E) establish a grievance procedure for clients or prospective clients of the system toensure that individuals with developmental disabilities have full access to services of the system;
+&emsp;&emsp;(E) establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with developmental disabilities have full access to services of the system;
 
 &emsp;&emsp;(F) not be administered by the State Council on Developmental Disabilities;
 
@@ -88,7 +88,7 @@ In order for a State to receive an allotment under part B of this subchapter or 
 
 #### (b) American Indian consortium
 
-Upon application to the Secretary, an American Indian consortium established to provideprotection and advocacy services under this part, shall receive funding pursuant to section 15042(a)(6) of this title to provide the services. Such consortium shall be considered to be a system for purposes of this part and shall coordinate the services with other systems serving the same geographic area. The tribal council that designates the consortium shall carry out the responsibilities and exercise the authorities specified for a State in this part, with regard to the consortium.
+Upon application to the Secretary, an American Indian consortium established to provide protection and advocacy services under this part, shall receive funding pursuant to section 15042(a)(6) of this title to provide the services. Such consortium shall be considered to be a system for purposes of this part and shall coordinate the services with other systems serving the same geographic area. The tribal council that designates the consortium shall carry out the responsibilities and exercise the authorities specified for a State in this part, with regard to the consortium.
 
 #### (c) Record
 

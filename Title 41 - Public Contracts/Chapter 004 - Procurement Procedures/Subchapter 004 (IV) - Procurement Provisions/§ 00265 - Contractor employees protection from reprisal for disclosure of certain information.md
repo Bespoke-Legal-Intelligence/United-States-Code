@@ -10,7 +10,7 @@ A person who believes that the person has been subjected to a reprisal prohibite
 
 #### (c) Remedy and enforcement authority
 
-(1) If the head of an executive agency determines that a contractor has subjected a person to a reprisal prohibited by subsection (a) of this section, the head of the executive agency may take one or more of the following actions:
+(1) If the head of an executive agency determines that a contractor has subjected a personto a reprisal prohibited by subsection (a) of this section, the head of the executive agency may take one or more of the following actions:
 
 &emsp;(A) Order the contractor to take affirmative action to abate the reprisal.
 

@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (2) Period during which certificate remains in effect
 
-&emsp;An earned income eligibility certificate which takes effect under this section for any calendar year shall continue in effect with respect to the employee during such calendar year until revoked by the employee or until another such certificate takes effect under this section.
+&emsp;An earned income eligibility certificate which takes effect under this section for anycalendar year shall continue in effect with respect to the employee during such calendar year until revoked by the employee or until another such certificate takes effect under this section.
 
 #### (3) Change of status
 

@@ -18,7 +18,7 @@ Section 310 of title III of Pub. L. 99–546 provided that: “The provisions of
 
 #### Separability
 
-Section 12 of act Aug. 6, 1956, provided that: “If any provisions of this Act \[enacting this subchapter\] or the application of such provision to any person, organization, or circumstance shall be held invalid, the remainder of the Act and the application of such provision to persons, organizations, or circumstances other than those as to which it is held invalid shall not be affected thereby.”
+Section 12 of act Aug. 6, 1956, provided that: “If any provisions of this Act \[enacting this subchapter\] or theapplication of such provision to any person, organization, or circumstance shall be held invalid, the remainder of the Act and the application of such provision to persons, organizations, or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
 #### Section Referred to in Other Sections
 

@@ -64,7 +64,7 @@ For the purposes of this subchapter:
 
 &emsp;&emsp;(A) a single-family dwelling, including attached structures such as porches and stoops; or
 
-&emsp;&emsp;(B) a single-family dwelling unit in a structure that contains more than 1 separate residential dwelling unit, and in which each such unit is used or occupied, or intended to be used or occupied, in whole or in part, as the home or residence of 1 or more persons.
+&emsp;&emsp;(B) a single-family dwelling unit in a structure that contains more than 1 separateresidential dwelling unit, and in which each such unit is used or occupied, or intended to be used or occupied, in whole or in part, as the home or residence of 1 or more persons.
 
 #### (15) Residential real property
 

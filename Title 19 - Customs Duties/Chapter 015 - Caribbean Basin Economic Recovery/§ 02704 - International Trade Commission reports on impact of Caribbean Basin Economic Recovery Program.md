@@ -40,8 +40,6 @@
 
 This Act, referred to in subsec. (b), probably should be “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-Section 2706(b) of this title, referred to in subsec. (a)(2), was in the original “section 216(b)” which is classified to section 2705 of this title, but was translated as meaning section 218(b) as the probable intent of Congress. Section 2706(b) was repealed by Pub. L. 101–382, title II, §211, Aug. 20, 1990, 104 Stat. 655.
-
 #### Amendments
 
 2000—Subsec. (a). Pub. L. 106–200 inserted heading and amended text generally. Prior to amendment, text read as follows: “The United States International Trade Commission (hereinafter in this section referred to as the ‘Commission’) shall prepare, and submit to the Congress and to the President, a report regarding the economic impact of this Act on United States industries and consumers during—

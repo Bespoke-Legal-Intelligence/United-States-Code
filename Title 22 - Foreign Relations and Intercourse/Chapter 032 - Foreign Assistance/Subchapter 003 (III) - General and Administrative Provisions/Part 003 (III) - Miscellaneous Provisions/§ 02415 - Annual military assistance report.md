@@ -54,7 +54,7 @@ Report Required.—Not later than February 1 of each of 1996 and 1997, the Presi
 
 “(b)
 
-Information Relating to Military Assistance and Military Exports.—Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles) and defense services, and of military education and training, authorized or furnished by the United States to each foreign country and international organization. The report shall specify, by category, whether those articles and services, and that education and training, were furnished by grant under part II or part V of subchapter II of this chapter or by sale under chapter 2 of the Arms Export Control Act or were authorized by commercial sale licensed under section 38 of the Arms Export Control Act.
+Information Relating to Military Assistance and Military Exports.—Each such report shall show the aggregate dollar value and quantity of defense articles (including excess defense articles) and defense services, and of military education and training, authorized or furnished by the United States to each foreign country and international organization. The report shall specify, by category, whether those articles and services, and that education and training, were furnished by grant under part II or part V of subchapter II of this chapter or by sale under chapter 2 of the ArmsExport Control Act or were authorized by commercial sale licensed under section 38 of the Arms Export Control Act.
 
 “(c)
 

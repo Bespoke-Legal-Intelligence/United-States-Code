@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title30",
- "package": "USCODE-2000-title30",
+ "package": "USCODE-2001-title30",
  "pieces": [
   {
    "id": "30_",
@@ -482,7 +482,7 @@
      8,
      [
       [
-       323,
+       276,
        "[Page 12]"
       ]
      ]
@@ -498,10 +498,14 @@
    "id": "30_28g",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 13]",
-     true
+     "I",
+     12,
+     [
+      [
+       159,
+       "[Page 13]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00028g - Location fee.md",
@@ -539,50 +543,42 @@
   },
   {
    "id": "30_28k",
-   "marks": [],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00028k - Regulations.md",
-   "printed_pages": [
-    13,
-    13
-   ]
-  },
-  {
-   "id": "30_29",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       870,
-       "[Page 14]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 14]",
+     true
     ]
    ],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00029 - Patents; procurement procedure; filing application under oath, plat and field notes, notices, and affidavits; posting plat and notice on….md",
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00028k - Regulations.md",
    "printed_pages": [
     13,
     14
    ]
   },
   {
-   "id": "30_30",
+   "id": "30_29",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       841,
-       "[Page 15]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 15]",
+     true
     ]
    ],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00030 - Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession….md",
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00029 - Patents; procurement procedure; filing application under oath, plat and field notes, notices, and affidavits; posting plat and notice on….md",
    "printed_pages": [
     14,
+    15
+   ]
+  },
+  {
+   "id": "30_30",
+   "marks": [],
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00030 - Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession….md",
+   "printed_pages": [
+    15,
     15
    ]
   },
@@ -597,30 +593,30 @@
   },
   {
    "id": "30_32",
-   "marks": [],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00032 - Findings by jury; costs.md",
-   "printed_pages": [
-    15,
-    15
-   ]
-  },
-  {
-   "id": "30_33",
    "marks": [
     [
      "I",
-     8,
+     2,
      [
       [
-       178,
+       90,
        "[Page 16]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00033 - Existing rights.md",
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00032 - Findings by jury; costs.md",
    "printed_pages": [
     15,
+    16
+   ]
+  },
+  {
+   "id": "30_33",
+   "marks": [],
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00033 - Existing rights.md",
+   "printed_pages": [
+    16,
     16
    ]
   },
@@ -638,10 +634,10 @@
    "marks": [
     [
      "I",
-     18,
+     2,
      [
       [
-       125,
+       693,
        "[Page 17]"
       ]
      ]
@@ -673,30 +669,30 @@
   },
   {
    "id": "30_38",
-   "marks": [],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00038 - Evidence of possession and work to establish right to patent.md",
-   "printed_pages": [
-    17,
-    17
-   ]
-  },
-  {
-   "id": "30_39",
    "marks": [
     [
      "I",
      2,
      [
       [
-       420,
+       667,
        "[Page 18]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00039 - Surveyors of mining claims.md",
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00038 - Evidence of possession and work to establish right to patent.md",
    "printed_pages": [
     17,
+    18
+   ]
+  },
+  {
+   "id": "30_39",
+   "marks": [],
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00039 - Surveyors of mining claims.md",
+   "printed_pages": [
+    18,
     18
    ]
   },
@@ -705,10 +701,10 @@
    "marks": [
     [
      "I",
-     26,
+     2,
      [
       [
-       125,
+       870,
        "[Page 19]"
       ]
      ]
@@ -740,24 +736,6 @@
   },
   {
    "id": "30_43",
-   "marks": [],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00043 - Conditions of sale by local legislature.md",
-   "printed_pages": [
-    19,
-    19
-   ]
-  },
-  {
-   "id": "30_44,_45",
-   "marks": [],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00044, 45 - Omitted.md",
-   "printed_pages": [
-    19,
-    19
-   ]
-  },
-  {
-   "id": "30_46",
    "marks": [
     [
      "L",
@@ -766,9 +744,27 @@
      true
     ]
    ],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00046 - Additional land districts and officers.md",
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00043 - Conditions of sale by local legislature.md",
    "printed_pages": [
     19,
+    20
+   ]
+  },
+  {
+   "id": "30_44,_45",
+   "marks": [],
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00044, 45 - Omitted.md",
+   "printed_pages": [
+    20,
+    20
+   ]
+  },
+  {
+   "id": "30_46",
+   "marks": [],
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00046 - Additional land districts and officers.md",
+   "printed_pages": [
+    20,
     20
    ]
   },
@@ -792,59 +788,55 @@
   },
   {
    "id": "30_49",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 21]",
+     true
+    ]
+   ],
    "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049 - Lands in Missouri and Kansas; disposal as agricultural lands.md",
    "printed_pages": [
     20,
-    20
+    21
    ]
   },
   {
    "id": "30_49a",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       240,
-       "[Page 21]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049a - Mining laws of United States extended to Alaska; exploration and mining for precious metals; regulations; conflict of laws; permits….md",
    "printed_pages": [
-    20,
+    21,
     21
    ]
   },
   {
    "id": "30_49b",
-   "marks": [],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049b - Mining laws relating to placer claims extended to Alaska.md",
-   "printed_pages": [
-    21,
-    21
-   ]
-  },
-  {
-   "id": "30_49c",
    "marks": [
     [
      "I",
      2,
      [
       [
-       95,
+       246,
        "[Page 22]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049c - Recording notices of location of Alaskan mining claims.md",
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049b - Mining laws relating to placer claims extended to Alaska.md",
    "printed_pages": [
     21,
+    22
+   ]
+  },
+  {
+   "id": "30_49c",
+   "marks": [],
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049c - Recording notices of location of Alaskan mining claims.md",
+   "printed_pages": [
+    22,
     22
    ]
   },
@@ -859,30 +851,30 @@
   },
   {
    "id": "30_49e",
-   "marks": [],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049e - Annual labor or improvements on Alaskan mining claims; affidavits; burden of proof; forfeitures; location anew of claims; perjury.md",
-   "printed_pages": [
-    22,
-    22
-   ]
-  },
-  {
-   "id": "30_49f",
    "marks": [
     [
      "I",
      2,
      [
       [
-       190,
+       1567,
        "[Page 23]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049f - Fees of recorders in Alaska for filing proofs of work and improvements.md",
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049e - Annual labor or improvements on Alaskan mining claims; affidavits; burden of proof; forfeitures; location anew of claims; perjury.md",
    "printed_pages": [
     22,
+    23
+   ]
+  },
+  {
+   "id": "30_49f",
+   "marks": [],
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00049f - Fees of recorders in Alaska for filing proofs of work and improvements.md",
+   "printed_pages": [
+    23,
     23
    ]
   },
@@ -897,26 +889,26 @@
   },
   {
    "id": "30_51",
-   "marks": [],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00051 - Water users’ vested and accrued rights; enumeration of uses; protection of interest; rights-of-way for canals and ditches; liability for….md",
-   "printed_pages": [
-    23,
-    23
-   ]
-  },
-  {
-   "id": "30_52",
    "marks": [
     [
      "L",
-     24,
+     28,
      "[Page 24]",
      true
     ]
    ],
-   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00052 - Patents or homesteads subject to vested and accrued water rights.md",
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00051 - Water users’ vested and accrued rights; enumeration of uses; protection of interest; rights-of-way for canals and ditches; liability for….md",
    "printed_pages": [
     23,
+    24
+   ]
+  },
+  {
+   "id": "30_52",
+   "marks": [],
+   "path": "Chapter 002 - Mineral Lands and Regulations in General/§ 00052 - Patents or homesteads subject to vested and accrued water rights.md",
+   "printed_pages": [
+    24,
     24
    ]
   },
@@ -943,10 +935,10 @@
    "marks": [
     [
      "I",
-     85,
+     39,
      [
       [
-       44,
+       155,
        "[Page 25]"
       ]
      ]
@@ -987,30 +979,30 @@
   },
   {
    "id": "30_73",
-   "marks": [],
-   "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 001 (I) - Coal Land Entries in General/§ 00073 - Presentation of claims.md",
-   "printed_pages": [
-    25,
-    25
-   ]
-  },
-  {
-   "id": "30_74",
    "marks": [
     [
      "I",
      2,
      [
       [
-       427,
+       184,
        "[Page 26]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 001 (I) - Coal Land Entries in General/§ 00074 - Number of coal land entries; other entries upon noncompliance with conditions.md",
+   "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 001 (I) - Coal Land Entries in General/§ 00073 - Presentation of claims.md",
    "printed_pages": [
     25,
+    26
+   ]
+  },
+  {
+   "id": "30_74",
+   "marks": [],
+   "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 001 (I) - Coal Land Entries in General/§ 00074 - Number of coal land entries; other entries upon noncompliance with conditions.md",
+   "printed_pages": [
+    26,
     26
    ]
   },
@@ -1034,11 +1026,18 @@
   },
   {
    "id": "30_77",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 27]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 001 (I) - Coal Land Entries in General/§ 00077 - Alabama coal lands; agricultural entry.md",
    "printed_pages": [
     26,
-    26
+    27
    ]
   },
   {
@@ -1046,23 +1045,16 @@
    "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 002 (II) - Coal Land Entries under Nonmineral Land Laws with Reservation of Coal to United States/README.md",
    "printed_pages": [
-    26,
-    26
+    27,
+    27
    ]
   },
   {
    "id": "30_81",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 27]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 002 (II) - Coal Land Entries under Nonmineral Land Laws with Reservation of Coal to United States/§ 00081 - Rights of entrymen of lands subsequently classified as coal lands; disposal of coal deposits.md",
    "printed_pages": [
-    26,
+    27,
     27
    ]
   },
@@ -1080,10 +1072,10 @@
    "marks": [
     [
      "I",
-     20,
+     2,
      [
       [
-       664,
+       422,
        "[Page 28]"
       ]
      ]
@@ -1106,30 +1098,30 @@
   },
   {
    "id": "30_85",
-   "marks": [],
-   "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 002 (II) - Coal Land Entries under Nonmineral Land Laws with Reservation of Coal to United States/§ 00085 - Patents for lands, with reservation of coal; disposal of coal deposits.md",
-   "printed_pages": [
-    28,
-    28
-   ]
-  },
-  {
-   "id": "30_86",
    "marks": [
     [
      "I",
      2,
      [
       [
-       797,
+       1501,
        "[Page 29]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 002 (II) - Coal Land Entries under Nonmineral Land Laws with Reservation of Coal to United States/§ 00086 - Disposition of lands in Indian reservations with reservation of coal; examination and appraisal of lands.md",
+   "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 002 (II) - Coal Land Entries under Nonmineral Land Laws with Reservation of Coal to United States/§ 00085 - Patents for lands, with reservation of coal; disposal of coal deposits.md",
    "printed_pages": [
     28,
+    29
+   ]
+  },
+  {
+   "id": "30_86",
+   "marks": [],
+   "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 002 (II) - Coal Land Entries under Nonmineral Land Laws with Reservation of Coal to United States/§ 00086 - Disposition of lands in Indian reservations with reservation of coal; examination and appraisal of lands.md",
+   "printed_pages": [
+    29,
     29
    ]
   },
@@ -1153,11 +1145,18 @@
   },
   {
    "id": "30_89",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 30]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 002 (II) - Coal Land Entries under Nonmineral Land Laws with Reservation of Coal to United States/§ 00089 - Disposition of proceeds.md",
    "printed_pages": [
     29,
-    29
+    30
    ]
   },
   {
@@ -1165,8 +1164,8 @@
    "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 002 (II) - Coal Land Entries under Nonmineral Land Laws with Reservation of Coal to United States/§ 00090 - Selection of coal lands by States; sale in isolated or disconnected tracts.md",
    "printed_pages": [
-    29,
-    29
+    30,
+    30
    ]
   },
   {
@@ -1174,8 +1173,8 @@
    "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 003 (III) - Petroleum, Other Mineral Oil, or Gas Land Entries under Mining Laws/README.md",
    "printed_pages": [
-    29,
-    29
+    30,
+    30
    ]
   },
   {
@@ -1183,27 +1182,16 @@
    "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 003 (III) - Petroleum, Other Mineral Oil, or Gas Land Entries under Mining Laws/§ 00101 - Omitted.md",
    "printed_pages": [
-    29,
-    29
+    30,
+    30
    ]
   },
   {
    "id": "30_102",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       98,
-       "[Page 30]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 003 (III) - Petroleum, Other Mineral Oil, or Gas Land Entries under Mining Laws/§ 00102 - Assessment work on contiguous oil lands, located as claims, of same owner.md",
    "printed_pages": [
-    29,
+    30,
     30
    ]
   },
@@ -1236,11 +1224,18 @@
   },
   {
    "id": "30_111_to_113",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 31]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 004 (IV) - Homestead Entry of Lands in Utah, Withdrawn or Classified as Oil Lands/§ 00111 to 113 - Repealed. Dec. 16, 1930, ch. 14, §1, 46 Stat. 1028.md",
    "printed_pages": [
     30,
-    30
+    31
    ]
   },
   {
@@ -1248,33 +1243,33 @@
    "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 005 (V) - Agricultural Entry of Lands Withdrawn or Classified as Containing Phosphate, Nitrate, Potash, Oil, Gas, Asphaltic Minerals…/README.md",
    "printed_pages": [
-    30,
-    30
+    31,
+    31
    ]
   },
   {
    "id": "30_121",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 31]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 005 (V) - Agricultural Entry of Lands Withdrawn or Classified as Containing Phosphate, Nitrate, Potash, Oil, Gas, Asphaltic Minerals…/§ 00121 - Agricultural entry or purchase of lands withdrawn or classified as containing phosphate, nitrate, potash, oil, or gas; reservations to….md",
    "printed_pages": [
-    30,
+    31,
     31
    ]
   },
   {
    "id": "30_122",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 32]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 005 (V) - Agricultural Entry of Lands Withdrawn or Classified as Containing Phosphate, Nitrate, Potash, Oil, Gas, Asphaltic Minerals…/§ 00122 - Patents; reservation in the United States of reserved deposits; acquisition of right to remove deposits; application for entry to disprove….md",
    "printed_pages": [
     31,
-    31
+    32
    ]
   },
   {
@@ -1282,27 +1277,16 @@
    "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 005 (V) - Agricultural Entry of Lands Withdrawn or Classified as Containing Phosphate, Nitrate, Potash, Oil, Gas, Asphaltic Minerals…/§ 00123 - Persons locating lands subsequently withdrawn or classified; patents to.md",
    "printed_pages": [
-    31,
-    31
+    32,
+    32
    ]
   },
   {
    "id": "30_124",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       469,
-       "[Page 32]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 005 (V) - Agricultural Entry of Lands Withdrawn or Classified as Containing Phosphate, Nitrate, Potash, Oil, Gas, Asphaltic Minerals…/§ 00124 - Agricultural entry or purchase of lands withdrawn or classified as containing sodium or sulphur.md",
    "printed_pages": [
-    31,
+    32,
     32
    ]
   },
@@ -1344,11 +1328,18 @@
   },
   {
    "id": "30_141_to_152",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 33]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 007 (VII) - Permits to Prospect for Chlorides, Sulphates, Carbonates, Borates, Silicates, or Nitrates of Potassium/§ 00141 to 152 - Repealed. Feb. 7, 1927, ch. 66, §6, 44 Stat. 1058.md",
    "printed_pages": [
     32,
-    32
+    33
    ]
   },
   {
@@ -1356,8 +1347,8 @@
    "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 008 (VIII) - Building Stone or Saline Land Entries under Placer-Mining Laws/README.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
@@ -1365,23 +1356,16 @@
    "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 008 (VIII) - Building Stone or Saline Land Entries under Placer-Mining Laws/§ 00161 - Entry of building-stone lands; previous law unaffected.md",
    "printed_pages": [
-    32,
-    32
+    33,
+    33
    ]
   },
   {
    "id": "30_162",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 33]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Lands Containing Coal, Oil, Gas, Salts, Asphaltic Materials, Sodium, Sulphur, and Building Stone/Subchapter 008 (VIII) - Building Stone or Saline Land Entries under Placer-Mining Laws/§ 00162 - Entry of saline lands; limitation.md",
    "printed_pages": [
-    32,
+    33,
     33
    ]
   },
@@ -1417,21 +1401,31 @@
    "marks": [
     [
      "I",
-     62,
+     22,
      [
       [
-       27,
+       135,
        "[Page 34]"
       ]
      ]
     ],
     [
      "I",
-     164,
+     125,
      [
       [
-       20,
+       114,
        "[Page 35]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     257,
+     [
+      [
+       153,
+       "[Page 36]"
       ]
      ]
     ]
@@ -1439,7 +1433,7 @@
    "path": "Chapter 003A - Leases and Prospecting Permits/README.md",
    "printed_pages": [
     33,
-    35
+    36
    ]
   },
   {
@@ -1447,8 +1441,8 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/README.md",
    "printed_pages": [
-    35,
-    35
+    36,
+    36
    ]
   },
   {
@@ -1456,20 +1450,10 @@
    "marks": [
     [
      "I",
-     2,
+     40,
      [
       [
-       761,
-       "[Page 36]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     60,
-     [
-      [
-       223,
+       109,
        "[Page 37]"
       ]
      ]
@@ -1477,7 +1461,7 @@
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00181 - Lands subject to disposition; persons entitled to benefits; reciprocal privileges; helium rights reserved.md",
    "printed_pages": [
-    35,
+    36,
     37
    ]
   },
@@ -1504,51 +1488,61 @@
    "marks": [
     [
      "I",
-     14,
+     4,
      [
       [
-       93,
+       97,
        "[Page 38]"
       ]
      ]
     ],
     [
      "I",
-     24,
+     20,
      [
       [
-       989,
+       3292,
        "[Page 39]"
       ]
      ]
     ],
     [
      "I",
-     50,
+     40,
      [
       [
-       327,
+       1303,
        "[Page 40]"
       ]
      ]
     ],
     [
      "I",
-     88,
+     76,
      [
       [
-       167,
+       268,
        "[Page 41]"
       ]
      ]
     ],
     [
      "I",
-     150,
+     128,
      [
       [
-       551,
+       268,
        "[Page 42]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     198,
+     [
+      [
+       109,
+       "[Page 43]"
       ]
      ]
     ]
@@ -1556,26 +1550,15 @@
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00184 - Limitations on leases held, owned or controlled by persons, associations or corporations.md",
    "printed_pages": [
     37,
-    42
+    43
    ]
   },
   {
    "id": "30_184a",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1077,
-       "[Page 43]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00184a - Authorization of States to include in agreements for conservation of oil and gas resources lands acquired from United States.md",
    "printed_pages": [
-    42,
+    43,
     43
    ]
   },
@@ -1584,56 +1567,56 @@
    "marks": [
     [
      "I",
-     40,
+     26,
      [
       [
-       705,
+       138,
        "[Page 44]"
       ]
      ]
     ],
     [
-     "I",
-     80,
-     [
-      [
-       90,
-       "[Page 45]"
-      ]
-     ]
-    ],
-    [
      "L",
-     114,
-     "[Page 46]",
+     66,
+     "[Page 45]",
      true
     ],
     [
      "I",
-     146,
+     102,
      [
       [
-       233,
+       191,
+       "[Page 46]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     136,
+     [
+      [
+       90,
        "[Page 47]"
       ]
      ]
     ],
     [
      "I",
-     196,
+     184,
      [
       [
-       218,
+       107,
        "[Page 48]"
       ]
      ]
     ],
     [
      "I",
-     256,
+     234,
      [
       [
-       210,
+       536,
        "[Page 49]"
       ]
      ]
@@ -1656,40 +1639,51 @@
   },
   {
    "id": "30_187",
-   "marks": [],
-   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00187 - Assignment or subletting of leases; relinquishment of rights under leases; conditions in leases for protection of diverse interests in….md",
-   "printed_pages": [
-    49,
-    49
-   ]
-  },
-  {
-   "id": "30_187a",
    "marks": [
     [
      "I",
      2,
      [
       [
-       417,
+       818,
        "[Page 50]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00187a - Oil or gas leases; partial assignments.md",
+   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00187 - Assignment or subletting of leases; relinquishment of rights under leases; conditions in leases for protection of diverse interests in….md",
    "printed_pages": [
     49,
     50
    ]
   },
   {
-   "id": "30_187b",
+   "id": "30_187a",
    "marks": [],
-   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00187b - Oil or gas leases; written relinquishment of rights; release of obligations.md",
+   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00187a - Oil or gas leases; partial assignments.md",
    "printed_pages": [
     50,
     50
+   ]
+  },
+  {
+   "id": "30_187b",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       184,
+       "[Page 51]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00187b - Oil or gas leases; written relinquishment of rights; release of obligations.md",
+   "printed_pages": [
+    50,
+    51
    ]
   },
   {
@@ -1697,36 +1691,26 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 51]",
+     18,
+     "[Page 52]",
      true
     ],
     [
      "I",
-     28,
+     54,
      [
       [
-       96,
-       "[Page 52]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     64,
-     [
-      [
-       141,
+       192,
        "[Page 53]"
       ]
      ]
     ],
     [
      "I",
-     114,
+     94,
      [
       [
-       321,
+       215,
        "[Page 54]"
       ]
      ]
@@ -1734,7 +1718,7 @@
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00188 - Failure to comply with provisions of lease.md",
    "printed_pages": [
-    50,
+    51,
     54
    ]
   },
@@ -1749,11 +1733,22 @@
   },
   {
    "id": "30_189",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       270,
+       "[Page 55]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00189 - Rules and regulations; boundary lines; State rights unaffected; taxation.md",
    "printed_pages": [
     54,
-    54
+    55
    ]
   },
   {
@@ -1761,57 +1756,42 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00190 - Oath; requirement; form; blanks.md",
    "printed_pages": [
-    54,
-    54
+    55,
+    55
    ]
   },
   {
    "id": "30_191",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       428,
-       "[Page 55]"
-      ]
-     ]
+     "L",
+     22,
+     "[Page 56]",
+     true
     ],
     [
      "I",
-     36,
+     68,
      [
       [
-       370,
-       "[Page 56]"
+       637,
+       "[Page 57]"
       ]
      ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00191 - Disposition of moneys received.md",
    "printed_pages": [
-    54,
-    56
+    55,
+    57
    ]
   },
   {
    "id": "30_191a",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       88,
-       "[Page 57]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00191a - Late payment charges under Federal mineral leases.md",
    "printed_pages": [
-    56,
+    57,
     57
    ]
   },
@@ -1826,30 +1806,30 @@
   },
   {
    "id": "30_192",
-   "marks": [],
-   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00192 - Payment of royalties in oil or gas; sale of such oil or gas.md",
-   "printed_pages": [
-    57,
-    57
-   ]
-  },
-  {
-   "id": "30_192a",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       187,
+       1295,
        "[Page 58]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00192a - Cancellation or modification of contracts.md",
+   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00192 - Payment of royalties in oil or gas; sale of such oil or gas.md",
    "printed_pages": [
     57,
+    58
+   ]
+  },
+  {
+   "id": "30_192a",
+   "marks": [],
+   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00192a - Cancellation or modification of contracts.md",
+   "printed_pages": [
+    58,
     58
    ]
   },
@@ -1864,30 +1844,26 @@
   },
   {
    "id": "30_192c",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 59]",
+     true
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00192c - Rules and regulations governing issuance of certain leases; disposition of receipts.md",
    "printed_pages": [
     58,
-    58
+    59
    ]
   },
   {
    "id": "30_193",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       485,
-       "[Page 59]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00193 - Disposition of deposits of coal, and so forth.md",
    "printed_pages": [
-    58,
+    59,
     59
    ]
   },
@@ -1913,14 +1889,10 @@
    "id": "30_195",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       91,
-       "[Page 60]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 60]",
+     true
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00195 - Enforcement.md",
@@ -1931,11 +1903,22 @@
   },
   {
    "id": "30_196",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       181,
+       "[Page 61]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 001 (I) - General Provisions/§ 00196 - Cooperative agreements; delegation of authority.md",
    "printed_pages": [
     60,
-    60
+    61
    ]
   },
   {
@@ -1943,8 +1926,8 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/README.md",
    "printed_pages": [
-    60,
-    60
+    61,
+    61
    ]
   },
   {
@@ -1952,39 +1935,35 @@
    "marks": [
     [
      "I",
-     4,
+     10,
      [
       [
-       626,
-       "[Page 61]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     18,
-     [
-      [
-       373,
+       936,
        "[Page 62]"
       ]
      ]
     ],
     [
+     "L",
+     34,
+     "[Page 63]",
+     true
+    ],
+    [
      "I",
-     52,
+     88,
      [
       [
-       105,
-       "[Page 63]"
+       101,
+       "[Page 64]"
       ]
      ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00201 - Leases and exploration.md",
    "printed_pages": [
-    60,
-    63
+    61,
+    64
    ]
   },
   {
@@ -1992,8 +1971,8 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00201–1 - Repealed. Pub. L. 94–377, §5(a), Aug. 4, 1976, 90 Stat. 1086.md",
    "printed_pages": [
-    63,
-    63
+    64,
+    64
    ]
   },
   {
@@ -2001,8 +1980,8 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00201a - Repealed. June 3, 1948, ch. 379, §8, 62 Stat. 291.md",
    "printed_pages": [
-    63,
-    63
+    64,
+    64
    ]
   },
   {
@@ -2010,27 +1989,16 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00201b - Omitted.md",
    "printed_pages": [
-    63,
-    63
+    64,
+    64
    ]
   },
   {
    "id": "30_202",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       459,
-       "[Page 64]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00202 - Common carriers; limitations of lease or permit.md",
    "printed_pages": [
-    63,
+    64,
     64
    ]
   },
@@ -2039,7 +2007,7 @@
    "marks": [
     [
      "L",
-     50,
+     18,
      "[Page 65]",
      true
     ]
@@ -2070,11 +2038,18 @@
   },
   {
    "id": "30_205",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 66]",
+     true
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00205 - Consolidation of leases.md",
    "printed_pages": [
     65,
-    65
+    66
    ]
   },
   {
@@ -2082,37 +2057,37 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00206 - Noncontiguous coal or phosphate tracts in single lease.md",
    "printed_pages": [
-    65,
-    65
+    66,
+    66
    ]
   },
   {
    "id": "30_207",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       96,
-       "[Page 66]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00207 - Conditions of lease.md",
    "printed_pages": [
-    65,
+    66,
     66
    ]
   },
   {
    "id": "30_208",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       816,
+       "[Page 67]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00208 - Permits to take coal for local domestic needs without royalty payments; corporation exclusion; area to municipalities for household use….md",
    "printed_pages": [
     66,
-    66
+    67
    ]
   },
   {
@@ -2120,24 +2095,18 @@
    "marks": [
     [
      "I",
-     10,
+     38,
      [
       [
-       136,
-       "[Page 67]"
+       180,
+       "[Page 68]"
       ]
      ]
-    ],
-    [
-     "L",
-     56,
-     "[Page 68]",
-     true
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00208–1 - Exploratory program for evaluation of known recoverable coal resources.md",
    "printed_pages": [
-    66,
+    67,
     68
    ]
   },
@@ -2161,11 +2130,22 @@
   },
   {
    "id": "30_209",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       603,
+       "[Page 69]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 002 (II) - Coal/§ 00209 - Suspension, waiver, or reduction of rents or royalties to promote development or operation; extension of lease on suspension of operations….md",
    "printed_pages": [
     68,
-    68
+    69
    ]
   },
   {
@@ -2173,27 +2153,16 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 003 (III) - Phosphates/README.md",
    "printed_pages": [
-    68,
-    68
+    69,
+    69
    ]
   },
   {
    "id": "30_211",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       325,
-       "[Page 69]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 003 (III) - Phosphates/§ 00211 - Phosphate deposits.md",
    "printed_pages": [
-    68,
+    69,
     69
    ]
   },
@@ -2208,26 +2177,30 @@
   },
   {
    "id": "30_213",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 70]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 003 (III) - Phosphates/§ 00213 - Royalties for use of deposits of silica, limestone, or other rock embraced in lease.md",
    "printed_pages": [
     69,
-    69
+    70
    ]
   },
   {
    "id": "30_214",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 70]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 003 (III) - Phosphates/§ 00214 - Use of surface of other public lands; acreage; forest lands exception.md",
    "printed_pages": [
-    69,
+    70,
     70
    ]
   },
@@ -2253,10 +2226,14 @@
    "id": "30_223",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 71]",
-     true
+     "I",
+     2,
+     [
+      [
+       1379,
+       "[Page 71]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00223 - Leases; amount and survey of land; term of lease; royalties and annual rental.md",
@@ -2297,61 +2274,65 @@
    "marks": [
     [
      "I",
-     14,
+     8,
      [
       [
-       144,
+       1386,
        "[Page 72]"
       ]
      ]
     ],
     [
      "I",
-     52,
+     44,
      [
       [
-       333,
+       244,
        "[Page 73]"
       ]
      ]
     ],
     [
-     "L",
-     74,
-     "[Page 74]",
-     true
+     "I",
+     68,
+     [
+      [
+       233,
+       "[Page 74]"
+      ]
+     ]
     ],
     [
      "I",
-     86,
+     82,
      [
       [
-       662,
+       1342,
        "[Page 75]"
       ]
      ]
     ],
     [
-     "I",
-     132,
-     [
-      [
-       238,
-       "[Page 76]"
-      ]
-     ]
+     "L",
+     122,
+     "[Page 76]",
+     true
     ],
     [
      "L",
-     198,
+     174,
      "[Page 77]",
      true
     ],
     [
-     "L",
-     262,
-     "[Page 78]",
-     true
+     "I",
+     250,
+     [
+      [
+       100,
+       "[Page 78]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00226 - Lease of oil and gas lands.md",
@@ -2371,30 +2352,26 @@
   },
   {
    "id": "30_226-2",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 79]",
+     true
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00226–2 - Limitations for filing oil and gas contests.md",
    "printed_pages": [
     78,
-    78
+    79
    ]
   },
   {
    "id": "30_226-3",
-   "marks": [
-    [
-     "I",
-     22,
-     [
-      [
-       110,
-       "[Page 79]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00226–3 - Lands not subject to oil and gas leasing.md",
    "printed_pages": [
-    78,
+    79,
     79
    ]
   },
@@ -2427,30 +2404,30 @@
   },
   {
    "id": "30_227",
-   "marks": [],
-   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00227 - Omitted.md",
-   "printed_pages": [
-    79,
-    79
-   ]
-  },
-  {
-   "id": "30_228",
    "marks": [
     [
      "I",
-     2,
+     4,
      [
       [
-       1579,
+       115,
        "[Page 80]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00228 - Prospecting permits and leases to persons of lands not withdrawn; terms and conditions of; fraud of claimants.md",
+   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00227 - Omitted.md",
    "printed_pages": [
     79,
+    80
+   ]
+  },
+  {
+   "id": "30_228",
+   "marks": [],
+   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00228 - Prospecting permits and leases to persons of lands not withdrawn; terms and conditions of; fraud of claimants.md",
+   "printed_pages": [
+    80,
     80
    ]
   },
@@ -2465,26 +2442,26 @@
   },
   {
    "id": "30_229a",
-   "marks": [],
-   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00229a - Water struck while drilling for oil and gas.md",
-   "printed_pages": [
-    80,
-    80
-   ]
-  },
-  {
-   "id": "30_230_to_233",
    "marks": [
     [
      "L",
-     14,
+     18,
      "[Page 81]",
      true
     ]
    ],
-   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00230 to 233 - Repealed. June 22, 1948, ch. 605, §3, 62 Stat. 576.md",
+   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00229a - Water struck while drilling for oil and gas.md",
    "printed_pages": [
     80,
+    81
+   ]
+  },
+  {
+   "id": "30_230_to_233",
+   "marks": [],
+   "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00230 to 233 - Repealed. June 22, 1948, ch. 605, §3, 62 Stat. 576.md",
+   "printed_pages": [
+    81,
     81
    ]
   },
@@ -2517,11 +2494,18 @@
   },
   {
    "id": "30_236b",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 82]",
+     true
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00236b - Existing leases within naval petroleum reserves not affected.md",
    "printed_pages": [
     81,
-    81
+    82
    ]
   },
   {
@@ -2529,8 +2513,8 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 004 (IV) - Oil and Gas/§ 00237 - Omitted.md",
    "printed_pages": [
-    81,
-    81
+    82,
+    82
    ]
   },
   {
@@ -2538,8 +2522,8 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 005 (V) - Oil Shale/README.md",
    "printed_pages": [
-    81,
-    81
+    82,
+    82
    ]
   },
   {
@@ -2547,20 +2531,10 @@
    "marks": [
     [
      "I",
-     4,
+     26,
      [
       [
-       1220,
-       "[Page 82]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     38,
-     [
-      [
-       386,
+       99,
        "[Page 83]"
       ]
      ]
@@ -2568,7 +2542,7 @@
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 005 (V) - Oil Shale/§ 00241 - Leases of lands.md",
    "printed_pages": [
-    81,
+    82,
     83
    ]
   },
@@ -2577,19 +2551,25 @@
    "marks": [
     [
      "I",
-     22,
+     12,
      [
       [
-       331,
+       233,
        "[Page 84]"
       ]
      ]
+    ],
+    [
+     "L",
+     66,
+     "[Page 85]",
+     true
     ]
    ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 005 (V) - Oil Shale/§ 00242 - Oil shale claims.md",
    "printed_pages": [
     83,
-    84
+    85
    ]
   },
   {
@@ -2597,27 +2577,16 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 006 (VI) - Alaska Oil Proviso/README.md",
    "printed_pages": [
-    84,
-    84
+    85,
+    85
    ]
   },
   {
    "id": "30_251",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       135,
-       "[Page 85]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 006 (VI) - Alaska Oil Proviso/§ 00251 - Leases to claimants of withdrawn lands; terms and conditions; acreage; annual rentals and royalties; fraud of claimants.md",
    "printed_pages": [
-    84,
+    85,
     85
    ]
   },
@@ -2644,10 +2613,10 @@
    "marks": [
     [
      "I",
-     10,
+     2,
      [
       [
-       217,
+       998,
        "[Page 86]"
       ]
      ]
@@ -2688,11 +2657,18 @@
   },
   {
    "id": "30_272",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 87]",
+     true
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 008 (VIII) - Sulphur/§ 00272 - Leases to permittees; privileges extended to oil and gas permittees.md",
    "printed_pages": [
     86,
-    86
+    87
    ]
   },
   {
@@ -2700,8 +2676,8 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 008 (VIII) - Sulphur/§ 00273 - Lease of lands not covered by permits or leases; acreage; rental.md",
    "printed_pages": [
-    86,
-    86
+    87,
+    87
    ]
   },
   {
@@ -2709,27 +2685,16 @@
    "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 008 (VIII) - Sulphur/§ 00274 - Lands containing coal or other minerals.md",
    "printed_pages": [
-    86,
-    86
+    87,
+    87
    ]
   },
   {
    "id": "30_275",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       211,
-       "[Page 87]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 008 (VIII) - Sulphur/§ 00275 - Laws applicable.md",
    "printed_pages": [
-    86,
+    87,
     87
    ]
   },
@@ -2762,30 +2727,26 @@
   },
   {
    "id": "30_282",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 88]",
+     true
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 009 (IX) - Potash/§ 00282 - Leases to permittees of lands showing valuable deposits; royalty.md",
    "printed_pages": [
     87,
-    87
+    88
    ]
   },
   {
    "id": "30_283",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1761,
-       "[Page 88]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 009 (IX) - Potash/§ 00283 - Lands containing valuable deposits not covered by permits or leases; authority to lease; acreage; conditions; renewals; exemptions from….md",
    "printed_pages": [
-    87,
+    88,
     88
    ]
   },
@@ -2800,30 +2761,26 @@
   },
   {
    "id": "30_285",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 89]",
+     true
+    ]
+   ],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 009 (IX) - Potash/§ 00285 - Laws applicable.md",
    "printed_pages": [
     88,
-    88
+    89
    ]
   },
   {
    "id": "30_286",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       336,
-       "[Page 89]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003A - Leases and Prospecting Permits/Subchapter 009 (IX) - Potash/§ 00286 - Disposition of royalties and rents from potassium leases.md",
    "printed_pages": [
-    88,
+    89,
     89
    ]
   },
@@ -2883,11 +2840,22 @@
   },
   {
    "id": "30_301",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       285,
+       "[Page 90]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 005 - Lease of Oil and Gas Deposits in or under Railroads and Other Rights-of-Way/§ 00301 - Authorization for lease of oil and gas deposits; by and to whom leased.md",
    "printed_pages": [
     89,
-    89
+    90
    ]
   },
   {
@@ -2895,27 +2863,16 @@
    "marks": [],
    "path": "Chapter 005 - Lease of Oil and Gas Deposits in or under Railroads and Other Rights-of-Way/§ 00302 - Assignment of lease; subletting.md",
    "printed_pages": [
-    89,
-    89
+    90,
+    90
    ]
   },
   {
    "id": "30_303",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       809,
-       "[Page 90]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 005 - Lease of Oil and Gas Deposits in or under Railroads and Other Rights-of-Way/§ 00303 - Conditions precedent to award of lease; preferred class; bidding.md",
    "printed_pages": [
-    89,
+    90,
     90
    ]
   },
@@ -2957,11 +2914,22 @@
   },
   {
    "id": "30_321_to_325",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       279,
+       "[Page 91]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 006 - Synthetic Liquid Fuel Demonstration Plants/§ 00321 to 325 - Omitted.md",
    "printed_pages": [
     90,
-    90
+    91
    ]
   },
   {
@@ -2969,27 +2937,16 @@
    "marks": [],
    "path": "Chapter 007 - Lease of Mineral Deposits Within Acquired Lands/README.md",
    "printed_pages": [
-    90,
-    90
+    91,
+    91
    ]
   },
   {
    "id": "30_351",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       606,
-       "[Page 91]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Lease of Mineral Deposits Within Acquired Lands/§ 00351 - Definitions.md",
    "printed_pages": [
-    90,
+    91,
     91
    ]
   },
@@ -2998,10 +2955,10 @@
    "marks": [
     [
      "I",
-     8,
+     2,
      [
       [
-       747,
+       1465,
        "[Page 92]"
       ]
      ]
@@ -3036,10 +2993,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       522,
+       100,
        "[Page 93]"
       ]
      ]
@@ -3062,11 +3019,18 @@
   },
   {
    "id": "30_357",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 94]",
+     true
+    ]
+   ],
    "path": "Chapter 007 - Lease of Mineral Deposits Within Acquired Lands/§ 00357 - State or local government rights; taxation.md",
    "printed_pages": [
     93,
-    93
+    94
    ]
   },
   {
@@ -3074,27 +3038,16 @@
    "marks": [],
    "path": "Chapter 007 - Lease of Mineral Deposits Within Acquired Lands/§ 00358 - Rights under prior leases; priority of pending applications; exchange of leases.md",
    "printed_pages": [
-    93,
-    93
+    94,
+    94
    ]
   },
   {
    "id": "30_359",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       108,
-       "[Page 94]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 007 - Lease of Mineral Deposits Within Acquired Lands/§ 00359 - Rules and regulations.md",
    "printed_pages": [
-    93,
+    94,
     94
    ]
   },
@@ -3118,11 +3071,18 @@
   },
   {
    "id": "30_401",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 95]",
+     true
+    ]
+   ],
    "path": "Chapter 008 - Development of Lignite Coal Resources/§ 00401 - Establishment of research laboratory; duties.md",
    "printed_pages": [
     94,
-    94
+    95
    ]
   },
   {
@@ -3130,8 +3090,8 @@
    "marks": [],
    "path": "Chapter 008 - Development of Lignite Coal Resources/§ 00402 - Acquisition of lands and property; utilization of voluntary services; cooperation with other Federal, State, and private agencies.md",
    "printed_pages": [
-    94,
-    94
+    95,
+    95
    ]
   },
   {
@@ -3139,23 +3099,16 @@
    "marks": [],
    "path": "Chapter 008 - Development of Lignite Coal Resources/§ 00403 - Repealed. Pub. L. 93–608, §1(12), Jan. 2, 1975, 88 Stat. 1969.md",
    "printed_pages": [
-    94,
-    94
+    95,
+    95
    ]
   },
   {
    "id": "30_404",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 95]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 008 - Development of Lignite Coal Resources/§ 00404 - Establishment of an advisory committee; composition and appointment.md",
    "printed_pages": [
-    94,
+    95,
     95
    ]
   },
@@ -3179,11 +3132,18 @@
   },
   {
    "id": "30_412",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 96]",
+     true
+    ]
+   ],
    "path": "Chapter 009 - Rare and Precious Metals Experiment Station/§ 00412 - Acquisition of lands and interests; acceptance of money and property; disposition and use of money.md",
    "printed_pages": [
     95,
-    95
+    96
    ]
   },
   {
@@ -3191,56 +3151,45 @@
    "marks": [],
    "path": "Chapter 010 - Coal Mine Safety/README.md",
    "printed_pages": [
-    95,
-    95
+    96,
+    96
    ]
   },
   {
    "id": "30_451_to_460,_471_to_483",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       109,
-       "[Page 96]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 010 - Coal Mine Safety/§ 00451 to 460, 471 to 483 - Repealed. Pub. L. 91–173, title V, §509, Dec. 30, 1969, 83 Stat. 803.md",
    "printed_pages": [
-    95,
+    96,
     96
    ]
   },
   {
    "id": "30_-ch11",
-   "marks": [],
-   "path": "Chapter 011 - Mining Claims on Lands Subject to Mineral Leasing Laws/README.md",
-   "printed_pages": [
-    96,
-    96
-   ]
-  },
-  {
-   "id": "30_501",
    "marks": [
     [
      "I",
-     16,
+     4,
      [
       [
-       88,
+       75,
        "[Page 97]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Mining Claims on Lands Subject to Mineral Leasing Laws/§ 00501 - Mining claims located between July 31, 1939, and January 1, 1953.md",
+   "path": "Chapter 011 - Mining Claims on Lands Subject to Mineral Leasing Laws/README.md",
    "printed_pages": [
     96,
+    97
+   ]
+  },
+  {
+   "id": "30_501",
+   "marks": [],
+   "path": "Chapter 011 - Mining Claims on Lands Subject to Mineral Leasing Laws/§ 00501 - Mining claims located between July 31, 1939, and January 1, 1953.md",
+   "printed_pages": [
+    97,
     97
    ]
   },
@@ -3264,30 +3213,30 @@
   },
   {
    "id": "30_504",
-   "marks": [],
-   "path": "Chapter 011 - Mining Claims on Lands Subject to Mineral Leasing Laws/§ 00504 - Power to make arrangements respecting atomic energy materials as unaffected.md",
-   "printed_pages": [
-    97,
-    97
-   ]
-  },
-  {
-   "id": "30_505",
    "marks": [
     [
      "I",
-     10,
+     2,
      [
       [
-       111,
+       92,
        "[Page 98]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 011 - Mining Claims on Lands Subject to Mineral Leasing Laws/§ 00505 - “Mineral leasing laws” defined.md",
+   "path": "Chapter 011 - Mining Claims on Lands Subject to Mineral Leasing Laws/§ 00504 - Power to make arrangements respecting atomic energy materials as unaffected.md",
    "printed_pages": [
     97,
+    98
+   ]
+  },
+  {
+   "id": "30_505",
+   "marks": [],
+   "path": "Chapter 011 - Mining Claims on Lands Subject to Mineral Leasing Laws/§ 00505 - “Mineral leasing laws” defined.md",
+   "printed_pages": [
+    98,
     98
    ]
   },
@@ -3304,10 +3253,14 @@
    "id": "30_521",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 99]",
-     true
+     "I",
+     12,
+     [
+      [
+       780,
+       "[Page 99]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Multiple Mineral Development of the Same Tracts/§ 00521 - Mineral leasing claims.md",
@@ -3329,10 +3282,14 @@
    "id": "30_523",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 100]",
-     true
+     "I",
+     8,
+     [
+      [
+       1079,
+       "[Page 100]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Multiple Mineral Development of the Same Tracts/§ 00523 - Uranium leases.md",
@@ -3364,10 +3321,10 @@
    "marks": [
     [
      "I",
-     16,
+     8,
      [
       [
-       890,
+       225,
        "[Page 101]"
       ]
      ]
@@ -3383,21 +3340,17 @@
    "id": "30_527",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       234,
-       "[Page 102]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 102]",
+     true
     ],
     [
      "I",
-     40,
+     32,
      [
       [
-       381,
+       710,
        "[Page 103]"
       ]
      ]
@@ -3420,11 +3373,22 @@
   },
   {
    "id": "30_529",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       83,
+       "[Page 104]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Multiple Mineral Development of the Same Tracts/§ 00529 - Helium lands subject to entry.md",
    "printed_pages": [
     103,
-    103
+    104
    ]
   },
   {
@@ -3432,19 +3396,19 @@
    "marks": [
     [
      "I",
-     2,
+     24,
      [
       [
-       449,
-       "[Page 104]"
+       108,
+       "[Page 105]"
       ]
      ]
     ]
    ],
    "path": "Chapter 012 - Multiple Mineral Development of the Same Tracts/§ 00530 - Definitions.md",
    "printed_pages": [
-    103,
-    104
+    104,
+    105
    ]
   },
   {
@@ -3452,8 +3416,8 @@
    "marks": [],
    "path": "Chapter 012 - Multiple Mineral Development of the Same Tracts/§ 00531 - Approval of United States officials.md",
    "printed_pages": [
-    104,
-    104
+    105,
+    105
    ]
   },
   {
@@ -3461,52 +3425,41 @@
    "marks": [],
    "path": "Chapter 012A - Entry and Location on Coal Lands on Discovery of Source Material/README.md",
    "printed_pages": [
-    104,
-    104
+    105,
+    105
    ]
   },
   {
    "id": "30_541",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       92,
-       "[Page 105]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012A - Entry and Location on Coal Lands on Discovery of Source Material/§ 00541 - Entry and location; filing of copy of notice of mining location; report and payment for lignite mined; mineral patents; reservation of….md",
    "printed_pages": [
-    104,
+    105,
     105
    ]
   },
   {
    "id": "30_541a",
-   "marks": [],
-   "path": "Chapter 012A - Entry and Location on Coal Lands on Discovery of Source Material/§ 00541a - Claims located prior to May 25, 1955; extralateral rights; amended notice of mining location.md",
-   "printed_pages": [
-    105,
-    105
-   ]
-  },
-  {
-   "id": "30_541b",
    "marks": [
     [
      "L",
-     4,
+     6,
      "[Page 106]",
      true
     ]
    ],
-   "path": "Chapter 012A - Entry and Location on Coal Lands on Discovery of Source Material/§ 00541b - Mining, removal, and disposal of lignite.md",
+   "path": "Chapter 012A - Entry and Location on Coal Lands on Discovery of Source Material/§ 00541a - Claims located prior to May 25, 1955; extralateral rights; amended notice of mining location.md",
    "printed_pages": [
     105,
+    106
+   ]
+  },
+  {
+   "id": "30_541b",
+   "marks": [],
+   "path": "Chapter 012A - Entry and Location on Coal Lands on Discovery of Source Material/§ 00541b - Mining, removal, and disposal of lignite.md",
+   "printed_pages": [
+    106,
     106
    ]
   },
@@ -3521,30 +3474,26 @@
   },
   {
    "id": "30_541d",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 107]",
+     true
+    ]
+   ],
    "path": "Chapter 012A - Entry and Location on Coal Lands on Discovery of Source Material/§ 00541d - Location of source materials by holders of coal leases.md",
    "printed_pages": [
     106,
-    106
+    107
    ]
   },
   {
    "id": "30_541e",
-   "marks": [
-    [
-     "I",
-     14,
-     [
-      [
-       173,
-       "[Page 107]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 012A - Entry and Location on Coal Lands on Discovery of Source Material/§ 00541e - Definitions.md",
    "printed_pages": [
-    106,
+    107,
     107
    ]
   },
@@ -3595,26 +3544,30 @@
   },
   {
    "id": "30_551",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       426,
+       "[Page 108]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Control of Coal-Mine Fires/§ 00551 - Declaration of policy.md",
    "printed_pages": [
     107,
-    107
+    108
    ]
   },
   {
    "id": "30_552",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 108]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Control of Coal-Mine Fires/§ 00552 - Definitions.md",
    "printed_pages": [
-    107,
+    108,
     108
    ]
   },
@@ -3638,30 +3591,26 @@
   },
   {
    "id": "30_555",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 109]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Control of Coal-Mine Fires/§ 00555 - Conditions precedent for aid to non-Federal lands.md",
    "printed_pages": [
     108,
-    108
+    109
    ]
   },
   {
    "id": "30_556",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       325,
-       "[Page 109]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Control of Coal-Mine Fires/§ 00556 - Administration.md",
    "printed_pages": [
-    108,
+    109,
     109
    ]
   },
@@ -3694,30 +3643,26 @@
   },
   {
    "id": "30_571",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 110]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Anthracite Mine Drainage and Flood Control/§ 00571 - Declaration of policy.md",
    "printed_pages": [
     109,
-    109
+    110
    ]
   },
   {
    "id": "30_572",
-   "marks": [
-    [
-     "I",
-     18,
-     [
-      [
-       133,
-       "[Page 110]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 014 - Anthracite Mine Drainage and Flood Control/§ 00572 - United States contributions to Pennsylvania authority, conditions, limitations.md",
    "printed_pages": [
-    109,
+    110,
     110
    ]
   },
@@ -3750,11 +3695,18 @@
   },
   {
    "id": "30_576",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 111]",
+     true
+    ]
+   ],
    "path": "Chapter 014 - Anthracite Mine Drainage and Flood Control/§ 00576 - Authorization of appropriations.md",
    "printed_pages": [
     110,
-    110
+    111
    ]
   },
   {
@@ -3762,8 +3714,8 @@
    "marks": [],
    "path": "Chapter 015 - Surface Resources/README.md",
    "printed_pages": [
-    110,
-    110
+    111,
+    111
    ]
   },
   {
@@ -3771,8 +3723,8 @@
    "marks": [],
    "path": "Chapter 015 - Surface Resources/Subchapter 001 (I) - Disposal of Materials on Public Lands/README.md",
    "printed_pages": [
-    110,
-    110
+    111,
+    111
    ]
   },
   {
@@ -3780,63 +3732,52 @@
    "marks": [
     [
      "I",
-     2,
+     26,
      [
       [
-       87,
-       "[Page 111]"
+       104,
+       "[Page 112]"
       ]
      ]
     ]
    ],
    "path": "Chapter 015 - Surface Resources/Subchapter 001 (I) - Disposal of Materials on Public Lands/§ 00601 - Rules and regulations governing disposal of materials; payment; removal without charge; lands excluded.md",
    "printed_pages": [
-    110,
-    111
-   ]
-  },
-  {
-   "id": "30_602",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       100,
-       "[Page 112]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Chapter 015 - Surface Resources/Subchapter 001 (I) - Disposal of Materials on Public Lands/§ 00602 - Bidding; advertising and other notice; conditions for negotiation of contract.md",
-   "printed_pages": [
     111,
     112
    ]
   },
   {
-   "id": "30_603",
+   "id": "30_602",
    "marks": [],
-   "path": "Chapter 015 - Surface Resources/Subchapter 001 (I) - Disposal of Materials on Public Lands/§ 00603 - Disposition of moneys from disposal of materials.md",
+   "path": "Chapter 015 - Surface Resources/Subchapter 001 (I) - Disposal of Materials on Public Lands/§ 00602 - Bidding; advertising and other notice; conditions for negotiation of contract.md",
    "printed_pages": [
     112,
     112
    ]
   },
   {
-   "id": "30_604",
+   "id": "30_603",
    "marks": [
     [
      "L",
-     14,
+     18,
      "[Page 113]",
      true
     ]
    ],
-   "path": "Chapter 015 - Surface Resources/Subchapter 001 (I) - Disposal of Materials on Public Lands/§ 00604 - Disposal of sand, peat moss, etc., in Alaska; contracts.md",
+   "path": "Chapter 015 - Surface Resources/Subchapter 001 (I) - Disposal of Materials on Public Lands/§ 00603 - Disposition of moneys from disposal of materials.md",
    "printed_pages": [
     112,
+    113
+   ]
+  },
+  {
+   "id": "30_604",
+   "marks": [],
+   "path": "Chapter 015 - Surface Resources/Subchapter 001 (I) - Disposal of Materials on Public Lands/§ 00604 - Disposal of sand, peat moss, etc., in Alaska; contracts.md",
+   "printed_pages": [
+    113,
     113
    ]
   },
@@ -3860,42 +3801,47 @@
   },
   {
    "id": "30_612",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       1477,
+       "[Page 114]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 015 - Surface Resources/Subchapter 002 (II) - Mining Locations/§ 00612 - Unpatented mining claims.md",
    "printed_pages": [
     113,
-    113
+    114
    ]
   },
   {
    "id": "30_613",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       284,
-       "[Page 114]"
-      ]
-     ]
-    ],
-    [
      "L",
-     30,
+     24,
      "[Page 115]",
      true
     ],
     [
-     "L",
-     64,
-     "[Page 116]",
-     true
+     "I",
+     40,
+     [
+      [
+       602,
+       "[Page 116]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 015 - Surface Resources/Subchapter 002 (II) - Mining Locations/§ 00613 - Procedure for determining title uncertainties.md",
    "printed_pages": [
-    113,
+    114,
     116
    ]
   },
@@ -3931,10 +3877,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       1235,
+       522,
        "[Page 117]"
       ]
      ]
@@ -3957,11 +3903,22 @@
   },
   {
    "id": "30_623",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       478,
+       "[Page 118]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 016 - Mineral Development of Lands Withdrawn for Power Development/§ 00623 - Recording and reporting of unpatented claims; time.md",
    "printed_pages": [
     117,
-    117
+    118
    ]
   },
   {
@@ -3969,8 +3926,8 @@
    "marks": [],
    "path": "Chapter 016 - Mineral Development of Lands Withdrawn for Power Development/§ 00624 - Protection of existing valid claims.md",
    "printed_pages": [
-    117,
-    117
+    118,
+    118
    ]
   },
   {
@@ -3978,27 +3935,16 @@
    "marks": [],
    "path": "Chapter 016 - Mineral Development of Lands Withdrawn for Power Development/§ 00625 - Prohibition of unspecified use.md",
    "printed_pages": [
-    117,
-    117
+    118,
+    118
    ]
   },
   {
    "id": "30_-ch17",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       55,
-       "[Page 118]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Exploration Program for Discovery of Minerals/README.md",
    "printed_pages": [
-    117,
+    118,
     118
    ]
   },
@@ -4013,11 +3959,22 @@
   },
   {
    "id": "30_642",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       145,
+       "[Page 119]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 017 - Exploration Program for Discovery of Minerals/§ 00642 - Exploration contracts.md",
    "printed_pages": [
     118,
-    118
+    119
    ]
   },
   {
@@ -4025,8 +3982,8 @@
    "marks": [],
    "path": "Chapter 017 - Exploration Program for Discovery of Minerals/§ 00643 - “Exploration” defined.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
@@ -4034,23 +3991,16 @@
    "marks": [],
    "path": "Chapter 017 - Exploration Program for Discovery of Minerals/§ 00644 - Advice and assistance by Government departments and agencies; expenditure of funds.md",
    "printed_pages": [
-    118,
-    118
+    119,
+    119
    ]
   },
   {
    "id": "30_645",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 119]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 017 - Exploration Program for Discovery of Minerals/§ 00645 - Repealed. Pub. L. 93–608, §1(13), Jan. 2, 1975, 88 Stat. 1969.md",
    "printed_pages": [
-    118,
+    119,
     119
    ]
   },
@@ -4083,30 +4033,30 @@
   },
   {
    "id": "30_662",
-   "marks": [],
-   "path": "Chapter 018 - Coal Research and Development/§ 00662 - Office of Coal Research; powers and duties.md",
-   "printed_pages": [
-    119,
-    119
-   ]
-  },
-  {
-   "id": "30_663",
    "marks": [
     [
      "I",
-     16,
+     20,
      [
       [
-       286,
+       271,
        "[Page 120]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 018 - Coal Research and Development/§ 00663 - Advisory committees.md",
+   "path": "Chapter 018 - Coal Research and Development/§ 00662 - Office of Coal Research; powers and duties.md",
    "printed_pages": [
     119,
+    120
+   ]
+  },
+  {
+   "id": "30_663",
+   "marks": [],
+   "path": "Chapter 018 - Coal Research and Development/§ 00663 - Advisory committees.md",
+   "printed_pages": [
+    120,
     120
    ]
   },
@@ -4130,11 +4080,22 @@
   },
   {
    "id": "30_666",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       93,
+       "[Page 121]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 018 - Coal Research and Development/§ 00666 - Public-availability requirement; national defense; patent agreements.md",
    "printed_pages": [
     120,
-    120
+    121
    ]
   },
   {
@@ -4142,27 +4103,16 @@
    "marks": [],
    "path": "Chapter 018 - Coal Research and Development/§ 00667 - Reports to President and Congress.md",
    "printed_pages": [
-    120,
-    120
+    121,
+    121
    ]
   },
   {
    "id": "30_668",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       88,
-       "[Page 121]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 018 - Coal Research and Development/§ 00668 - Authorization of appropriations.md",
    "printed_pages": [
-    120,
+    121,
     121
    ]
   },
@@ -4195,26 +4145,30 @@
   },
   {
    "id": "30_701",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       323,
+       "[Page 122]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - Conveyances to Occupants of Unpatented Mining Claims/§ 00701 - Authorization to convey; acreage limitations; qualified applicants; payment; “qualified officer of the United States” defined.md",
    "printed_pages": [
     121,
-    121
+    122
    ]
   },
   {
    "id": "30_702",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 122]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - Conveyances to Occupants of Unpatented Mining Claims/§ 00702 - “Qualified applicant” defined.md",
    "printed_pages": [
-    121,
+    122,
     122
    ]
   },
@@ -4247,11 +4201,22 @@
   },
   {
    "id": "30_706",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       88,
+       "[Page 123]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 020 - Conveyances to Occupants of Unpatented Mining Claims/§ 00706 - Liabilities of occupants; trespass; limitations.md",
    "printed_pages": [
     122,
-    122
+    123
    ]
   },
   {
@@ -4259,23 +4224,16 @@
    "marks": [],
    "path": "Chapter 020 - Conveyances to Occupants of Unpatented Mining Claims/§ 00707 - Reservation of mineral rights.md",
    "printed_pages": [
-    122,
-    122
+    123,
+    123
    ]
   },
   {
    "id": "30_708",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 123]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 020 - Conveyances to Occupants of Unpatented Mining Claims/§ 00708 - Assignments; succession.md",
    "printed_pages": [
-    122,
+    123,
     123
    ]
   },
@@ -4299,11 +4257,18 @@
   },
   {
    "id": "30_721_to_740",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     44,
+     "[Page 124]",
+     true
+    ]
+   ],
    "path": "Chapter 021 - Metal and Nonmetallic Mine Safety/§ 00721 to 740 - Repealed. Pub. L. 95–164, title III, §306(a), Nov. 9, 1977, 91 Stat. 1322.md",
    "printed_pages": [
     123,
-    123
+    124
    ]
   },
   {
@@ -4311,50 +4276,40 @@
    "marks": [
     [
      "I",
-     40,
+     95,
      [
       [
-       71,
-       "[Page 124]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     144,
-     [
-      [
-       19,
+       75,
        "[Page 125]"
       ]
      ]
     ],
     [
      "I",
-     218,
+     186,
      [
       [
-       122,
+       103,
        "[Page 126]"
       ]
      ]
     ],
     [
      "I",
-     285,
+     258,
      [
       [
-       58,
+       72,
        "[Page 127]"
       ]
      ]
     ],
     [
      "I",
-     395,
+     359,
      [
       [
-       165,
+       89,
        "[Page 128]"
       ]
      ]
@@ -4362,7 +4317,7 @@
    ],
    "path": "Chapter 022 - Mine Safety and Health/README.md",
    "printed_pages": [
-    123,
+    124,
     128
    ]
   },
@@ -4371,39 +4326,41 @@
    "marks": [
     [
      "I",
-     22,
+     6,
      [
       [
-       440,
+       93,
        "[Page 129]"
       ]
      ]
+    ],
+    [
+     "L",
+     58,
+     "[Page 130]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/§ 00801 - Congressional findings and declaration of purpose.md",
    "printed_pages": [
     128,
-    129
+    130
    ]
   },
   {
    "id": "30_802",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       86,
-       "[Page 130]"
-      ]
-     ]
+     "L",
+     56,
+     "[Page 131]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/§ 00802 - Definitions.md",
    "printed_pages": [
-    129,
-    130
+    130,
+    131
    ]
   },
   {
@@ -4411,8 +4368,8 @@
    "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/§ 00803 - Mines subject to coverage.md",
    "printed_pages": [
-    130,
-    130
+    131,
+    131
    ]
   },
   {
@@ -4420,15 +4377,15 @@
    "marks": [
     [
      "L",
-     20,
-     "[Page 131]",
+     58,
+     "[Page 132]",
      true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/§ 00804 - Interim Compliance Panel.md",
    "printed_pages": [
-    130,
-    131
+    131,
+    132
    ]
   },
   {
@@ -4436,8 +4393,8 @@
    "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/README.md",
    "printed_pages": [
-    131,
-    131
+    132,
+    132
    ]
   },
   {
@@ -4445,39 +4402,31 @@
    "marks": [
     [
      "I",
-     6,
+     14,
      [
       [
-       1353,
-       "[Page 132]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     22,
-     [
-      [
-       839,
+       93,
        "[Page 133]"
       ]
      ]
     ],
     [
-     "I",
-     44,
-     [
-      [
-       469,
-       "[Page 134]"
-      ]
-     ]
+     "L",
+     36,
+     "[Page 134]",
+     true
+    ],
+    [
+     "L",
+     80,
+     "[Page 135]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00811 - Mandatory safety and health standards.md",
    "printed_pages": [
-    131,
-    134
+    132,
+    135
    ]
   },
   {
@@ -4485,24 +4434,14 @@
    "marks": [
     [
      "L",
-     26,
-     "[Page 135]",
+     60,
+     "[Page 136]",
      true
-    ],
-    [
-     "I",
-     80,
-     [
-      [
-       276,
-       "[Page 136]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00812 - Advisory committees.md",
    "printed_pages": [
-    134,
+    135,
     136
    ]
   },
@@ -4511,29 +4450,35 @@
    "marks": [
     [
      "I",
-     24,
+     12,
      [
       [
-       135,
+       309,
        "[Page 137]"
       ]
      ]
     ],
     [
      "I",
-     42,
+     34,
      [
       [
-       327,
+       466,
        "[Page 138]"
       ]
      ]
+    ],
+    [
+     "L",
+     80,
+     "[Page 139]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00813 - Inspections, investigations, and recordkeeping.md",
    "printed_pages": [
     136,
-    138
+    139
    ]
   },
   {
@@ -4541,29 +4486,25 @@
    "marks": [
     [
      "I",
-     14,
+     32,
      [
       [
-       144,
-       "[Page 139]"
+       425,
+       "[Page 140]"
       ]
      ]
     ],
     [
-     "I",
-     40,
-     [
-      [
-       1223,
-       "[Page 140]"
-      ]
-     ]
+     "L",
+     72,
+     "[Page 141]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00814 - Citations and orders.md",
    "printed_pages": [
-    138,
-    140
+    139,
+    141
    ]
   },
   {
@@ -4571,54 +4512,40 @@
    "marks": [
     [
      "I",
-     8,
+     26,
      [
       [
-       234,
-       "[Page 141]"
+       229,
+       "[Page 142]"
       ]
      ]
     ],
     [
-     "I",
-     28,
-     [
-      [
-       332,
-       "[Page 142]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 143]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00815 - Procedure for enforcement.md",
    "printed_pages": [
-    140,
-    142
+    141,
+    143
    ]
   },
   {
    "id": "30_816",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       1336,
-       "[Page 143]"
-      ]
-     ]
-    ],
-    [
      "L",
-     54,
+     24,
      "[Page 144]",
      true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00816 - Judicial review of Commission orders.md",
    "printed_pages": [
-    142,
+    143,
     144
    ]
   },
@@ -4626,10 +4553,14 @@
    "id": "30_817",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 145]",
-     true
+     "I",
+     18,
+     [
+      [
+       428,
+       "[Page 145]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00817 - Procedures to counteract dangerous conditions.md",
@@ -4640,30 +4571,30 @@
   },
   {
    "id": "30_818",
-   "marks": [],
-   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00818 - Injunctions.md",
-   "printed_pages": [
-    145,
-    145
-   ]
-  },
-  {
-   "id": "30_819",
    "marks": [
     [
      "I",
-     8,
+     32,
      [
       [
-       184,
+       220,
        "[Page 146]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00819 - Posting of orders and decisions.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00818 - Injunctions.md",
    "printed_pages": [
     145,
+    146
+   ]
+  },
+  {
+   "id": "30_819",
+   "marks": [],
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00819 - Posting of orders and decisions.md",
+   "printed_pages": [
+    146,
     146
    ]
   },
@@ -4671,35 +4602,34 @@
    "id": "30_820",
    "marks": [
     [
+     "I",
+     12,
+     [
+      [
+       137,
+       "[Page 147]"
+      ]
+     ]
+    ],
+    [
      "L",
-     26,
-     "[Page 147]",
+     68,
+     "[Page 148]",
      true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00820 - Penalties.md",
    "printed_pages": [
     146,
-    147
+    148
    ]
   },
   {
    "id": "30_821",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       1929,
-       "[Page 148]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00821 - Entitlement of miners to full compensation.md",
    "printed_pages": [
-    147,
+    148,
     148
    ]
   },
@@ -4717,19 +4647,23 @@
    "marks": [
     [
      "I",
-     24,
+     16,
      [
       [
-       494,
+       1069,
        "[Page 149]"
       ]
      ]
     ],
     [
-     "L",
-     64,
-     "[Page 150]",
-     true
+     "I",
+     52,
+     [
+      [
+       407,
+       "[Page 150]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00823 - Federal Mine Safety and Health Review Commission.md",
@@ -4760,10 +4694,14 @@
    "id": "30_825",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 151]",
-     true
+     "I",
+     12,
+     [
+      [
+       177,
+       "[Page 151]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 001 (I) - General/§ 00825 - Mandatory health and safety training.md",
@@ -4795,23 +4733,19 @@
    "marks": [
     [
      "I",
-     14,
+     4,
      [
       [
-       368,
+       974,
        "[Page 152]"
       ]
      ]
     ],
     [
-     "I",
-     42,
-     [
-      [
-       596,
-       "[Page 153]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 153]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00842 - Dust concentration and respiratory equipment.md",
@@ -4824,14 +4758,10 @@
    "id": "30_843",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       88,
-       "[Page 154]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 154]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00843 - Medical examinations.md",
@@ -4851,26 +4781,30 @@
   },
   {
    "id": "30_845",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       97,
+       "[Page 155]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00845 - Dust standards in presence of quartz.md",
    "printed_pages": [
     154,
-    154
+    155
    ]
   },
   {
    "id": "30_846",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 155]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 002 (II) - Interim Mandatory Health Standards/§ 00846 - Noise standards; promulgation of new standards; tests; procedures; protective devices.md",
    "printed_pages": [
-    154,
+    155,
     155
    ]
   },
@@ -4885,30 +4819,26 @@
   },
   {
    "id": "30_861",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 156]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00861 - Mandatory safety standards for underground mines.md",
    "printed_pages": [
     155,
-    155
+    156
    ]
   },
   {
    "id": "30_862",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       237,
-       "[Page 156]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00862 - Roof support.md",
    "printed_pages": [
-    155,
+    156,
     156
    ]
   },
@@ -4917,47 +4847,43 @@
    "marks": [
     [
      "I",
-     20,
+     8,
      [
       [
-       738,
+       1727,
        "[Page 157]"
       ]
      ]
     ],
     [
      "I",
-     38,
+     30,
      [
       [
-       139,
+       705,
        "[Page 158]"
       ]
      ]
     ],
     [
-     "I",
-     60,
-     [
-      [
-       1159,
-       "[Page 159]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 159]",
+     true
     ],
     [
      "I",
-     96,
+     88,
      [
       [
-       461,
+       139,
        "[Page 160]"
       ]
      ]
     ],
     [
      "L",
-     130,
+     120,
      "[Page 161]",
      true
     ]
@@ -4981,51 +4907,61 @@
    "id": "30_865",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       230,
-       "[Page 162]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 162]",
+     true
     ],
     [
      "L",
-     60,
+     44,
      "[Page 163]",
      true
+    ],
+    [
+     "I",
+     102,
+     [
+      [
+       86,
+       "[Page 164]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00865 - Electrical equipment.md",
    "printed_pages": [
     161,
-    163
+    164
    ]
   },
   {
    "id": "30_866",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 164]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00866 - Trailing cables.md",
    "printed_pages": [
-    163,
+    164,
     164
    ]
   },
   {
    "id": "30_867",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       90,
+       "[Page 165]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00867 - Grounding of equipment.md",
    "printed_pages": [
     164,
-    164
+    165
    ]
   },
   {
@@ -5033,24 +4969,14 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 165]",
+     32,
+     "[Page 166]",
      true
-    ],
-    [
-     "I",
-     50,
-     [
-      [
-       92,
-       "[Page 166]"
-      ]
-     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00868 - Underground high-voltage distribution.md",
    "printed_pages": [
-    164,
+    165,
     166
    ]
   },
@@ -5059,10 +4985,10 @@
    "marks": [
     [
      "I",
-     28,
+     12,
      [
       [
-       88,
+       462,
        "[Page 167]"
       ]
      ]
@@ -5087,14 +5013,10 @@
    "id": "30_871",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       90,
-       "[Page 168]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 168]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00871 - Fire protection.md",
@@ -5105,30 +5027,26 @@
   },
   {
    "id": "30_872",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 169]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00872 - Maps.md",
    "printed_pages": [
     168,
-    168
+    169
    ]
   },
   {
    "id": "30_873",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       333,
-       "[Page 169]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00873 - Blasting and explosives.md",
    "printed_pages": [
-    168,
+    169,
     169
    ]
   },
@@ -5137,10 +5055,10 @@
    "marks": [
     [
      "I",
-     24,
+     4,
      [
       [
-       91,
+       940,
        "[Page 170]"
       ]
      ]
@@ -5174,46 +5092,48 @@
    "id": "30_877",
    "marks": [
     [
+     "I",
+     8,
+     [
+      [
+       681,
+       "[Page 171]"
+      ]
+     ]
+    ],
+    [
      "L",
-     22,
-     "[Page 171]",
+     48,
+     "[Page 172]",
      true
     ],
     [
-     "I",
-     58,
-     [
-      [
-       615,
-       "[Page 172]"
-      ]
-     ]
+     "L",
+     98,
+     "[Page 173]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00877 - General safety provisions.md",
    "printed_pages": [
     170,
-    172
+    173
    ]
   },
   {
    "id": "30_878",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       393,
-       "[Page 173]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 174]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 003 (III) - Interim Mandatory Safety Standards for Underground Coal Mines/§ 00878 - Definitions.md",
    "printed_pages": [
-    172,
-    173
+    173,
+    174
    ]
   },
   {
@@ -5221,8 +5141,8 @@
    "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/README.md",
    "printed_pages": [
-    173,
-    173
+    174,
+    174
    ]
   },
   {
@@ -5230,27 +5150,16 @@
    "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/README.md",
    "printed_pages": [
-    173,
-    173
+    174,
+    174
    ]
   },
   {
    "id": "30_901",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       719,
-       "[Page 174]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00901 - Congressional findings and declaration of purpose; short title.md",
    "printed_pages": [
-    173,
+    174,
     174
    ]
   },
@@ -5259,13 +5168,13 @@
    "marks": [
     [
      "L",
-     16,
+     6,
      "[Page 175]",
      true
     ],
     [
      "L",
-     70,
+     54,
      "[Page 176]",
      true
     ]
@@ -5278,30 +5187,26 @@
   },
   {
    "id": "30_903",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 177]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00903 - Field offices.md",
    "printed_pages": [
     176,
-    176
+    177
    ]
   },
   {
    "id": "30_904",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       97,
-       "[Page 177]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part A - General Provisions/§ 00904 - Information to potential beneficiaries of changes made by Black Lung Benefits Reform Act of 1977.md",
    "printed_pages": [
-    176,
+    177,
     177
    ]
   },
@@ -5319,10 +5224,10 @@
    "marks": [
     [
      "I",
-     22,
+     20,
      [
       [
-       603,
+       516,
        "[Page 178]"
       ]
      ]
@@ -5339,54 +5244,54 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       97,
+       188,
        "[Page 179]"
       ]
      ]
     ],
     [
-     "L",
-     34,
-     "[Page 180]",
-     true
+     "I",
+     24,
+     [
+      [
+       274,
+       "[Page 180]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     92,
+     [
+      [
+       113,
+       "[Page 181]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00922 - Payment of benefits.md",
    "printed_pages": [
     178,
-    180
+    181
    ]
   },
   {
    "id": "30_923",
    "marks": [
     [
-     "I",
-     8,
-     [
-      [
-       526,
-       "[Page 181]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     32,
-     [
-      [
-       544,
-       "[Page 182]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 182]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00923 - Filing of notice of claim.md",
    "printed_pages": [
-    180,
+    181,
     182
    ]
   },
@@ -5394,14 +5299,10 @@
    "id": "30_924",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       191,
-       "[Page 183]"
-      ]
-     ]
+     "L",
+     16,
+     "[Page 183]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00924 - Time for filing claims.md",
@@ -5423,10 +5324,14 @@
    "id": "30_925",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 184]",
-     true
+     "I",
+     8,
+     [
+      [
+       231,
+       "[Page 184]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part B - Claims for Benefits Filed on or Before December 31, 1973/§ 00925 - Procedure for the determination of claims during transition period.md",
@@ -5448,10 +5353,14 @@
    "id": "30_931",
    "marks": [
     [
-     "L",
-     36,
-     "[Page 185]",
-     true
+     "I",
+     24,
+     [
+      [
+       93,
+       "[Page 185]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00931 - Benefits under State workmen's compensation laws.md",
@@ -5465,21 +5374,31 @@
    "marks": [
     [
      "I",
-     22,
+     12,
      [
       [
-       96,
+       486,
        "[Page 186]"
       ]
      ]
     ],
     [
      "I",
-     82,
+     74,
      [
       [
-       164,
+       138,
        "[Page 187]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     144,
+     [
+      [
+       108,
+       "[Page 188]"
       ]
      ]
     ]
@@ -5487,26 +5406,15 @@
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00932 - Failure to meet workmen's compensation requirements.md",
    "printed_pages": [
     185,
-    187
+    188
    ]
   },
   {
    "id": "30_932a",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       87,
-       "[Page 188]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00932a - Appointment of qualified individuals to hear and determine claims for benefits.md",
    "printed_pages": [
-    187,
+    188,
     188
    ]
   },
@@ -5514,10 +5422,14 @@
    "id": "30_933",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 189]",
-     true
+     "I",
+     24,
+     [
+      [
+       382,
+       "[Page 189]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00933 - Duties of operators in States not qualifying under workmen's compensation laws.md",
@@ -5530,14 +5442,10 @@
    "id": "30_934",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       109,
-       "[Page 190]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 190]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00934 - “Fund” defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest.md",
@@ -5568,10 +5476,14 @@
    "id": "30_936",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 191]",
-     true
+     "I",
+     8,
+     [
+      [
+       327,
+       "[Page 191]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00936 - Regulations and reports.md",
@@ -5597,7 +5509,7 @@
      8,
      [
       [
-       1388,
+       231,
        "[Page 192]"
       ]
      ]
@@ -5629,30 +5541,26 @@
   },
   {
    "id": "30_941",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 193]",
+     true
+    ]
+   ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00941 - Penalty for false statements or representations.md",
    "printed_pages": [
     192,
-    192
+    193
    ]
   },
   {
    "id": "30_942",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       137,
-       "[Page 193]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00942 - Miner benefit entitlement reports; penalty for failure or refusal to file.md",
    "printed_pages": [
-    192,
+    193,
     193
    ]
   },
@@ -5660,14 +5568,10 @@
    "id": "30_943",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       95,
-       "[Page 194]"
-      ]
-     ]
+     "L",
+     44,
+     "[Page 194]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00943 - Black lung insurance program.md",
@@ -5689,14 +5593,10 @@
    "id": "30_945",
    "marks": [
     [
-     "I",
-     18,
-     [
-      [
-       91,
-       "[Page 195]"
-      ]
-     ]
+     "L",
+     12,
+     "[Page 195]",
+     true
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 004 (IV) - Black Lung Benefits/Part C - Claims for Benefits After December 31, 1973/§ 00945 - Review of claims pending on, or denied on or before, March 1, 1978.md",
@@ -5719,20 +5619,20 @@
    "marks": [
     [
      "I",
-     24,
+     14,
      [
       [
-       87,
+       95,
        "[Page 196]"
       ]
      ]
     ],
     [
      "I",
-     66,
+     58,
      [
       [
-       325,
+       280,
        "[Page 197]"
       ]
      ]
@@ -5758,7 +5658,7 @@
    "marks": [
     [
      "L",
-     32,
+     18,
      "[Page 198]",
      true
     ]
@@ -5774,10 +5674,10 @@
    "marks": [
     [
      "I",
-     56,
+     44,
      [
       [
-       90,
+       91,
        "[Page 199]"
       ]
      ]
@@ -5791,30 +5691,30 @@
   },
   {
    "id": "30_954",
-   "marks": [],
-   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00954 - Appointment of administrative personnel and inspectors; qualifications; training programs.md",
-   "printed_pages": [
-    199,
-    199
-   ]
-  },
-  {
-   "id": "30_955",
    "marks": [
     [
      "I",
-     2,
+     18,
      [
       [
-       191,
+       108,
        "[Page 200]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00955 - State laws.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00954 - Appointment of administrative personnel and inspectors; qualifications; training programs.md",
    "printed_pages": [
     199,
+    200
+   ]
+  },
+  {
+   "id": "30_955",
+   "marks": [],
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00955 - State laws.md",
+   "printed_pages": [
+    200,
     200
    ]
   },
@@ -5838,30 +5738,30 @@
   },
   {
    "id": "30_958",
-   "marks": [],
-   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00958 - Annual reports to Congress; contents.md",
-   "printed_pages": [
-    200,
-    200
-   ]
-  },
-  {
-   "id": "30_959",
    "marks": [
     [
      "I",
-     2,
+     20,
      [
       [
-       336,
+       112,
        "[Page 201]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00959 - Study of coordination of Federal and State activities; report.md",
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00958 - Annual reports to Congress; contents.md",
    "printed_pages": [
     200,
+    201
+   ]
+  },
+  {
+   "id": "30_959",
+   "marks": [],
+   "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00959 - Study of coordination of Federal and State activities; report.md",
+   "printed_pages": [
+    201,
     201
    ]
   },
@@ -5878,16 +5778,24 @@
    "id": "30_961",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 202]",
-     true
+     "I",
+     14,
+     [
+      [
+       186,
+       "[Page 202]"
+      ]
+     ]
     ],
     [
-     "L",
-     60,
-     "[Page 203]",
-     true
+     "I",
+     44,
+     [
+      [
+       112,
+       "[Page 203]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 022 - Mine Safety and Health/Subchapter 005 (V) - Administrative Provisions/§ 00961 - Functions transferred under 1977 amendments.md",
@@ -5910,10 +5818,10 @@
    "marks": [
     [
      "I",
-     36,
+     25,
      [
       [
-       116,
+       121,
        "[Page 204]"
       ]
      ]
@@ -5930,7 +5838,7 @@
    "marks": [
     [
      "L",
-     38,
+     18,
      "[Page 205]",
      true
     ]
@@ -5964,10 +5872,10 @@
    "marks": [
     [
      "I",
-     34,
+     22,
      [
       [
-       106,
+       504,
        "[Page 206]"
       ]
      ]
@@ -5981,11 +5889,18 @@
   },
   {
    "id": "30_1004",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     26,
+     "[Page 207]",
+     true
+    ]
+   ],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01004 - Rents and royalties.md",
    "printed_pages": [
     206,
-    206
+    207
    ]
   },
   {
@@ -5993,50 +5908,43 @@
    "marks": [
     [
      "L",
-     10,
-     "[Page 207]",
+     34,
+     "[Page 208]",
      true
     ],
     [
      "I",
-     40,
+     104,
      [
       [
-       93,
-       "[Page 208]"
+       219,
+       "[Page 209]"
       ]
      ]
     ],
     [
-     "L",
-     116,
-     "[Page 209]",
-     true
-    ]
-   ],
-   "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01005 - Duration of leases.md",
-   "printed_pages": [
-    206,
-    209
-   ]
-  },
-  {
-   "id": "30_1006",
-   "marks": [
-    [
      "I",
-     2,
+     196,
      [
       [
-       136,
+       217,
        "[Page 210]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01005 - Duration of leases.md",
+   "printed_pages": [
+    207,
+    210
+   ]
+  },
+  {
+   "id": "30_1006",
+   "marks": [],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01006 - Acreage of geothermal lease; irregular subdivisions; State limitation; increase.md",
    "printed_pages": [
-    209,
+    210,
     210
    ]
   },
@@ -6051,11 +5959,18 @@
   },
   {
    "id": "30_1008",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 211]",
+     true
+    ]
+   ],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01008 - Byproducts production or use; water for beneficial uses under State water laws; substantial beneficial production or use; modification or….md",
    "printed_pages": [
     210,
-    210
+    211
    ]
   },
   {
@@ -6063,27 +5978,16 @@
    "marks": [],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01009 - Relinquishment of geothermal rights; effective date; release of lessee or his surety or bond; exceptions.md",
    "printed_pages": [
-    210,
-    210
+    211,
+    211
    ]
   },
   {
    "id": "30_1010",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 211]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01010 - Suspension of operations and production; extension of lease term for period of suspension; waiver, suspension or reduction of rental or….md",
    "printed_pages": [
-    210,
+    211,
     211
    ]
   },
@@ -6116,11 +6020,22 @@
   },
   {
    "id": "30_1014",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       100,
+       "[Page 212]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01014 - Lands subject to geothermal leasing.md",
    "printed_pages": [
     211,
-    211
+    212
    ]
   },
   {
@@ -6128,37 +6043,33 @@
    "marks": [],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01015 - Citizenship requirement for lessees.md",
    "printed_pages": [
-    211,
-    211
+    212,
+    212
    ]
   },
   {
    "id": "30_1016",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       335,
-       "[Page 212]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01016 - Administration; multiple use of lands and resources; coexistence of other leases; reciprocal and reasonable operational interference….md",
    "printed_pages": [
-    211,
+    212,
     212
    ]
   },
   {
    "id": "30_1017",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 213]",
+     true
+    ]
+   ],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01017 - Cooperative or unit plan of development or operation of geothermal pool, field, or like area; public interest; determination and….md",
    "printed_pages": [
     212,
-    212
+    213
    ]
   },
   {
@@ -6166,27 +6077,16 @@
    "marks": [],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01018 - Data from Federal agencies concerning conversion charges; confidential information.md",
    "printed_pages": [
-    212,
-    212
+    213,
+    213
    ]
   },
   {
    "id": "30_1019",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       241,
-       "[Page 213]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01019 - Disposal of moneys from sales, bonuses, royalties and rentals.md",
    "printed_pages": [
-    212,
+    213,
     213
    ]
   },
@@ -6219,30 +6119,26 @@
   },
   {
    "id": "30_1023",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 214]",
+     true
+    ]
+   ],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01023 - Rules and regulations; scope of provisions.md",
    "printed_pages": [
     213,
-    213
+    214
    ]
   },
   {
    "id": "30_1024",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       331,
-       "[Page 214]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01024 - Disposal of land laws; reservation of geothermal resources and restriction on disposal of lands with geothermal resources; conveyances….md",
    "printed_pages": [
-    213,
+    214,
     214
    ]
   },
@@ -6259,14 +6155,10 @@
    "id": "30_1026",
    "marks": [
     [
-     "I",
-     74,
-     [
-      [
-       140,
-       "[Page 215]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 215]",
+     true
     ]
    ],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01026 - Significant thermal features.md",
@@ -6288,10 +6180,14 @@
    "id": "30_1028",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 216]",
-     true
+     "I",
+     4,
+     [
+      [
+       877,
+       "[Page 216]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 023 - Geothermal Steam and Associated Geothermal Resources/§ 01028 - Hot dry rock geothermal energy.md",
@@ -6302,30 +6198,26 @@
   },
   {
    "id": "30_-ch24",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     91,
+     "[Page 217]",
+     true
+    ]
+   ],
    "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/README.md",
    "printed_pages": [
     216,
-    216
+    217
    ]
   },
   {
    "id": "30_1101",
-   "marks": [
-    [
-     "I",
-     12,
-     [
-      [
-       91,
-       "[Page 217]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/§ 01101 - Congressional findings.md",
    "printed_pages": [
-    216,
+    217,
     217
    ]
   },
@@ -6352,7 +6244,7 @@
    "marks": [
     [
      "L",
-     32,
+     12,
      "[Page 218]",
      true
     ]
@@ -6365,30 +6257,30 @@
   },
   {
    "id": "30_1122",
-   "marks": [],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 001 (I) - Geothermal Energy Coordination and Management Project/§ 01122 - Program definition.md",
-   "printed_pages": [
-    218,
-    218
-   ]
-  },
-  {
-   "id": "30_1123",
    "marks": [
     [
      "I",
-     2,
+     6,
      [
       [
-       233,
+       89,
        "[Page 219]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 001 (I) - Geothermal Energy Coordination and Management Project/§ 01123 - Resource inventory and assessment program.md",
+   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 001 (I) - Geothermal Energy Coordination and Management Project/§ 01122 - Program definition.md",
    "printed_pages": [
     218,
+    219
+   ]
+  },
+  {
+   "id": "30_1123",
+   "marks": [],
+   "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 001 (I) - Geothermal Energy Coordination and Management Project/§ 01123 - Resource inventory and assessment program.md",
+   "printed_pages": [
+    219,
     219
    ]
   },
@@ -6396,10 +6288,14 @@
    "id": "30_1124",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 220]",
-     true
+     "I",
+     18,
+     [
+      [
+       131,
+       "[Page 220]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 001 (I) - Geothermal Energy Coordination and Management Project/§ 01124 - Research and development.md",
@@ -6413,7 +6309,7 @@
    "marks": [
     [
      "L",
-     54,
+     40,
      "[Page 221]",
      true
     ]
@@ -6446,21 +6342,17 @@
    "id": "30_1141",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       322,
-       "[Page 222]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 222]",
+     true
     ],
     [
      "I",
-     54,
+     46,
      [
       [
-       141,
+       191,
        "[Page 223]"
       ]
      ]
@@ -6477,10 +6369,10 @@
    "marks": [
     [
      "I",
-     16,
+     8,
      [
       [
-       185,
+       559,
        "[Page 224]"
       ]
      ]
@@ -6506,10 +6398,10 @@
    "marks": [
     [
      "I",
-     12,
+     8,
      [
       [
-       1111,
+       335,
        "[Page 225]"
       ]
      ]
@@ -6525,16 +6417,30 @@
    "id": "30_1145",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 226]",
-     true
+     "I",
+     12,
+     [
+      [
+       94,
+       "[Page 226]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     52,
+     [
+      [
+       147,
+       "[Page 227]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 002 (II) - Loan Guaranties/§ 01145 - Community impact assistance functions of Secretary of Energy.md",
    "printed_pages": [
     225,
-    226
+    227
    ]
   },
   {
@@ -6542,27 +6448,16 @@
    "marks": [],
    "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 002 (II) - Loan Guaranties/§ 01146 - Approval or disapproval of loan guarantee applications.md",
    "printed_pages": [
-    226,
-    226
+    227,
+    227
    ]
   },
   {
    "id": "30_1147",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 227]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 002 (II) - Loan Guaranties/§ 01147 - Application of national environmental policy provisions.md",
    "printed_pages": [
-    226,
+    227,
     227
    ]
   },
@@ -6604,11 +6499,18 @@
   },
   {
    "id": "30_1164",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 228]",
+     true
+    ]
+   ],
    "path": "Chapter 024 - Geothermal Energy Research, Development, and Demonstration/Subchapter 003 (III) - General Provisions/§ 01164 - Authorization of appropriations.md",
    "printed_pages": [
     227,
-    227
+    228
    ]
   },
   {
@@ -6616,40 +6518,30 @@
    "marks": [
     [
      "I",
-     19,
+     120,
      [
       [
-       77,
-       "[Page 228]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     154,
-     [
-      [
-       46,
+       17,
        "[Page 229]"
       ]
      ]
     ],
     [
      "I",
-     257,
+     233,
      [
       [
-       52,
+       65,
        "[Page 230]"
       ]
      ]
     ],
     [
      "I",
-     360,
+     339,
      [
       [
-       39,
+       14,
        "[Page 231]"
       ]
      ]
@@ -6657,7 +6549,7 @@
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/README.md",
    "printed_pages": [
-    227,
+    228,
     231
    ]
   },
@@ -6674,10 +6566,14 @@
    "id": "30_1201",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 232]",
-     true
+     "I",
+     8,
+     [
+      [
+       324,
+       "[Page 232]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 001 (I) - Statement of Findings and Policy/§ 01201 - Congressional findings.md",
@@ -6690,10 +6586,14 @@
    "id": "30_1202",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 233]",
-     true
+     "I",
+     18,
+     [
+      [
+       184,
+       "[Page 233]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 001 (I) - Statement of Findings and Policy/§ 01202 - Statement of purpose.md",
@@ -6715,18 +6615,14 @@
    "id": "30_1211",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       187,
-       "[Page 234]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 234]",
+     true
     ],
     [
      "L",
-     120,
+     84,
      "[Page 235]",
      true
     ]
@@ -6748,11 +6644,18 @@
   },
   {
    "id": "30_1221",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 236]",
+     true
+    ]
+   ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01221 - Authorization of State allotments to institutes.md",
    "printed_pages": [
     235,
-    235
+    236
    ]
   },
   {
@@ -6760,38 +6663,27 @@
    "marks": [
     [
      "I",
-     8,
+     42,
      [
       [
-       140,
-       "[Page 236]"
+       383,
+       "[Page 237]"
       ]
      ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01222 - Research funds to institutes.md",
    "printed_pages": [
-    235,
-    236
+    236,
+    237
    ]
   },
   {
    "id": "30_1223",
-   "marks": [
-    [
-     "I",
-     8,
-     [
-      [
-       275,
-       "[Page 237]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01223 - Funding criteria.md",
    "printed_pages": [
-    236,
+    237,
     237
    ]
   },
@@ -6806,30 +6698,26 @@
   },
   {
    "id": "30_1225",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 238]",
+     true
+    ]
+   ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01225 - Effect on colleges and universities.md",
    "printed_pages": [
     237,
-    237
+    238
    ]
   },
   {
    "id": "30_1226",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       635,
-       "[Page 238]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01226 - Research.md",
    "printed_pages": [
-    237,
+    238,
     238
    ]
   },
@@ -6846,10 +6734,14 @@
    "id": "30_1228",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 239]",
-     true
+     "I",
+     2,
+     [
+      [
+       89,
+       "[Page 239]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 003 (III) - State Mining and Mineral Resources Research Institutes/§ 01228 - Interagency cooperation.md",
@@ -6863,10 +6755,10 @@
    "marks": [
     [
      "I",
-     74,
+     58,
      [
       [
-       156,
+       105,
        "[Page 240]"
       ]
      ]
@@ -6892,10 +6784,10 @@
    "marks": [
     [
      "I",
-     36,
+     10,
      [
       [
-       103,
+       185,
        "[Page 241]"
       ]
      ]
@@ -6921,10 +6813,10 @@
    "marks": [
     [
      "I",
-     66,
+     56,
      [
       [
-       154,
+       94,
        "[Page 242]"
       ]
      ]
@@ -6940,41 +6832,33 @@
    "id": "30_1232",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       653,
-       "[Page 243]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 243]",
+     true
     ],
     [
      "I",
-     60,
+     50,
      [
       [
-       283,
+       91,
        "[Page 244]"
       ]
      ]
     ],
     [
-     "I",
-     102,
-     [
-      [
-       238,
-       "[Page 245]"
-      ]
-     ]
+     "L",
+     86,
+     "[Page 245]",
+     true
     ],
     [
      "I",
-     156,
+     150,
      [
       [
-       437,
+       110,
        "[Page 246]"
       ]
      ]
@@ -6988,30 +6872,26 @@
   },
   {
    "id": "30_1233",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     28,
+     "[Page 247]",
+     true
+    ]
+   ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01233 - Objectives of fund.md",
    "printed_pages": [
     246,
-    246
+    247
    ]
   },
   {
    "id": "30_1234",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       86,
-       "[Page 247]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01234 - Eligible lands and water.md",
    "printed_pages": [
-    246,
+    247,
     247
    ]
   },
@@ -7020,7 +6900,7 @@
    "marks": [
     [
      "L",
-     38,
+     22,
      "[Page 248]",
      true
     ]
@@ -7036,17 +6916,17 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       750,
+       695,
        "[Page 249]"
       ]
      ]
     ],
     [
      "L",
-     46,
+     36,
      "[Page 250]",
      true
     ]
@@ -7061,14 +6941,10 @@
    "id": "30_1237",
    "marks": [
     [
-     "I",
-     36,
-     [
-      [
-       1057,
-       "[Page 251]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 251]",
+     true
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01237 - Acquisition and reclamation of land adversely affected by past coal mining practices.md",
@@ -7085,7 +6961,7 @@
      4,
      [
       [
-       1181,
+       90,
        "[Page 252]"
       ]
      ]
@@ -7099,26 +6975,30 @@
   },
   {
    "id": "30_1239",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     34,
+     [
+      [
+       487,
+       "[Page 253]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01239 - Filling voids and sealing tunnels.md",
    "printed_pages": [
     252,
-    252
+    253
    ]
   },
   {
    "id": "30_1240",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 253]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01240 - Emergency powers.md",
    "printed_pages": [
-    252,
+    253,
     253
    ]
   },
@@ -7127,10 +7007,10 @@
    "marks": [
     [
      "I",
-     44,
+     34,
      [
       [
-       111,
+       281,
        "[Page 254]"
       ]
      ]
@@ -7162,11 +7042,22 @@
   },
   {
    "id": "30_1243",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       90,
+       "[Page 255]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 004 (IV) - Abandoned Mine Reclamations/§ 01243 - Interagency cooperation.md",
    "printed_pages": [
     254,
-    254
+    255
    ]
   },
   {
@@ -7174,27 +7065,16 @@
    "marks": [],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/README.md",
    "printed_pages": [
-    254,
-    254
+    255,
+    255
    ]
   },
   {
    "id": "30_1251",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       93,
-       "[Page 255]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01251 - Environmental protection standards.md",
    "printed_pages": [
-    254,
+    255,
     255
    ]
   },
@@ -7203,10 +7083,10 @@
    "marks": [
     [
      "I",
-     22,
+     8,
      [
       [
-       104,
+       329,
        "[Page 256]"
       ]
      ]
@@ -7222,10 +7102,14 @@
    "id": "30_1252",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 257]",
-     true
+     "I",
+     24,
+     [
+      [
+       624,
+       "[Page 257]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01252 - Initial regulatory procedures.md",
@@ -7238,14 +7122,10 @@
    "id": "30_1253",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       97,
-       "[Page 258]"
-      ]
-     ]
+     "L",
+     30,
+     "[Page 258]",
+     true
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01253 - State programs.md",
@@ -7259,10 +7139,10 @@
    "marks": [
     [
      "I",
-     32,
+     28,
      [
       [
-       89,
+       86,
        "[Page 259]"
       ]
      ]
@@ -7287,14 +7167,10 @@
    "id": "30_1256",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       1038,
-       "[Page 260]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 260]",
+     true
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01256 - Permits.md",
@@ -7307,26 +7183,30 @@
    "id": "30_1257",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 261]",
-     true
-    ],
-    [
      "I",
-     42,
+     16,
      [
       [
-       97,
-       "[Page 262]"
+       100,
+       "[Page 261]"
       ]
      ]
     ],
     [
      "L",
-     92,
-     "[Page 263]",
+     38,
+     "[Page 262]",
      true
+    ],
+    [
+     "I",
+     86,
+     [
+      [
+       107,
+       "[Page 263]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01257 - Application requirements.md",
@@ -7339,14 +7219,10 @@
    "id": "30_1258",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       173,
-       "[Page 264]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 264]",
+     true
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01258 - Reclamation plan requirements.md",
@@ -7369,10 +7245,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       234,
+       705,
        "[Page 265]"
       ]
      ]
@@ -7382,7 +7258,7 @@
      38,
      [
       [
-       1242,
+       707,
        "[Page 266]"
       ]
      ]
@@ -7407,14 +7283,10 @@
    "id": "30_1262",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       92,
-       "[Page 267]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 267]",
+     true
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01262 - Coal exploration permits.md",
@@ -7437,10 +7309,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       96,
+       97,
        "[Page 268]"
       ]
      ]
@@ -7456,53 +7328,49 @@
    "id": "30_1265",
    "marks": [
     [
-     "I",
+     "L",
      14,
-     [
-      [
-       506,
-       "[Page 269]"
-      ]
-     ]
+     "[Page 269]",
+     true
     ],
     [
      "L",
-     46,
+     42,
      "[Page 270]",
      true
     ],
     [
      "I",
-     84,
+     82,
      [
       [
-       140,
+       137,
        "[Page 271]"
       ]
      ]
     ],
     [
      "I",
-     122,
+     120,
      [
       [
-       148,
+       841,
        "[Page 272]"
       ]
      ]
     ],
     [
      "L",
-     178,
+     174,
      "[Page 273]",
      true
     ],
     [
      "I",
-     228,
+     226,
      [
       [
-       92,
+       93,
        "[Page 274]"
       ]
      ]
@@ -7522,7 +7390,7 @@
      18,
      [
       [
-       232,
+       96,
        "[Page 275]"
       ]
      ]
@@ -7538,16 +7406,24 @@
    "id": "30_1267",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 276]",
-     true
+     "I",
+     8,
+     [
+      [
+       276,
+       "[Page 276]"
+      ]
+     ]
     ],
     [
-     "L",
-     54,
-     "[Page 277]",
-     true
+     "I",
+     50,
+     [
+      [
+       374,
+       "[Page 277]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01267 - Inspections and monitoring.md",
@@ -7564,7 +7440,7 @@
      28,
      [
       [
-       271,
+       86,
        "[Page 278]"
       ]
      ]
@@ -7584,7 +7460,7 @@
      16,
      [
       [
-       1190,
+       1008,
        "[Page 279]"
       ]
      ]
@@ -7600,10 +7476,14 @@
    "id": "30_1270",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 280]",
-     true
+     "I",
+     20,
+     [
+      [
+       272,
+       "[Page 280]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 025 - Surface Mining Control and Reclamation/Subchapter 005 (V) - Control of the Environmental Impacts of Surface Coal Mining/§ 01270 - Citizens suits.md",
@@ -9895,6 +9775,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2000-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2001-title30 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 30 - Mineral Lands and Mining"
 }

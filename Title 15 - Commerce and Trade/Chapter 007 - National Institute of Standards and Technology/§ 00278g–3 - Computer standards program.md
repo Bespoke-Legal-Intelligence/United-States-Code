@@ -38,7 +38,7 @@ In fulfilling subsection (a) of this section, the Institute is authorized—
 
 &emsp;&emsp;(A) to assure maximum use of all existing and planned programs, materials, studies, and reports relating to computer systems security and privacy, in order to avoid unnecessary and costly duplication of effort; and
 
-&emsp;&emsp;(B) to assure, to the maximum extent feasible, that standards developed pursuant to subsection (a)(3) and (5) of this section areconsistent and compatible with standards and procedures developed for the protection of information in Federal computer systems which is authorized under criteria established by Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy.
+&emsp;&emsp;(B) to assure, to the maximum extent feasible, that standards developed pursuant to subsection (a)(3) and (5) of this section are consistent and compatible with standards and procedures developed for the protection of information in Federal computer systems which is authorized under criteria established by Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy.
 
 #### (c) Protection of sensitive information
 
@@ -122,7 +122,7 @@ Nothing in amendment by Pub. L. 100–235 which enacted this section to be const
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 272, 278g–4 of this title; title 40 sections 1412, 1441; title 44 section 3504.
+This section is referred to in sections 272, 278g–4 of this title; title 40 sections 1412, 1441; title 44 sections 3504, 3533.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

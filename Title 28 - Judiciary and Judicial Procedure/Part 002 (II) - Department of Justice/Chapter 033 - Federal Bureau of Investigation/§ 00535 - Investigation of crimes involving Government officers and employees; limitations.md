@@ -4,7 +4,7 @@
 
 &emsp;(1) notwithstanding any other provision of law; and
 
-&emsp;(2) without limiting the authority to investigate any matter which is conferred on them or on a department or agency of the Government.
+&emsp;(2) without limiting the authority to investigate any matter which is conferred on themor on a department or agency of the Government.
 
 (b) Any information, allegation, or complaint received in a department or agency of the executive branch of the Government relating to violations of title 18 involving Government officers and employees shall be expeditiously reported to the Attorney General by the head of the department or agency, unless—
 

@@ -14,7 +14,7 @@
 
 &emsp;(B) if ordered by the court in the interest of justice, be used to—
 
-&emsp;&emsp;(i) satisfy a money judgment rendered in any court in favor of a victim of any offense for which such defendant has been convicted, or a legal representative of such victim; and
+&emsp;&emsp;(i) satisfy a money judgment rendered in any court in favor of a victim of any offensefor which such defendant has been convicted, or a legal representative of such victim; and
 
 &emsp;&emsp;(ii) pay for legal representation of the defendant in matters arising from the offense for which such defendant has been convicted, but no more than 20 percent of the total proceeds may be so used.
 

@@ -42,7 +42,7 @@ The words “of any person who elects an annuity” are substituted for the word
 
 1967—Subsec. (a). Pub. L. 90–207 inserted “but without regard to any increase in that pay to reflect changes in the Consumer Price Index” after “that pay”.
 
-1961—Pub. L. 87–381 designated existing provisions as subsec. (a), added subsec. (b), and inserted “; withdrawal for severe financial hardship” in section catchline.
+1961—Pub. L. 87–381 designated existing provisions as subsec. (a), added subsec. (b), and inserted“; withdrawal for severe financial hardship” in section catchline.
 
 #### Effective Date of 1996 Amendment
 

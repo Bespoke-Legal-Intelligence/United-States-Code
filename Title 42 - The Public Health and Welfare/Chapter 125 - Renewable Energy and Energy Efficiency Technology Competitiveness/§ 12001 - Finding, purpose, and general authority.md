@@ -34,7 +34,7 @@ This chapter, referred to in subsecs. (b) and (c)(1), was in the original “thi
 
 1992—Subsec. (b). Pub. L. 102–486, §1202(d)(1), substituted “section 13541 of this title” for “authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901–5920) and other law applicable to the Secretary” and “demonstration, and commercial application” for “and demonstration”.
 
-Subsec. (b)(4). Pub. L. 102–486, §1202(d)(2), substituted “efforts” for “research and development efforts” and “demonstration and commercial application projects” for “joint ventures”.
+Subsec. (b)(4). Pub. L. 102–486, §1202(d)(2), substituted “efforts” for “research and development efforts” and“demonstration and commercial application projects” for “joint ventures”.
 
 Subsec. (c). Pub. L. 102–486, §1202(d)(3), substituted “section 13541 of this title, is authorized and directed to—” and pars. (1) and (2) for “the authority contained in the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901–5920) and other law applicable to the Secretary—
 

@@ -24,7 +24,7 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 The Foreign Service Act of 1980, referred to in subsecs. (b) and (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-Section 103(a)(3) of that Act, referred to in subsecs. (b) and (c), was redesignated section 103(3) pursuant to Pub. L. 98–164, which struck out designation “(a)” and struck out subsec. (b) of section 103.
+Section 102(a)(3) of that Act, referred to in subsecs. (b) and (c), was redesignated section 102(3) pursuant to Pub. L. 98–164, which struck out designation “(a)” and struck out subsec. (b) of section 102.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 

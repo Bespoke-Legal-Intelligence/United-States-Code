@@ -20,7 +20,7 @@ Any certifying agent shall employ a sufficient number of inspectors to implement
 
 #### (3) Transference of records
 
-&emsp;If any private person that was certified under this chapter is dissolved or loses its accreditation, all records or copies of records concerning such person's activities under this chapter shall be transferred to the Secretary and made available to the applicable governing State official.
+&emsp;If any private person that was certified under this chapter is dissolved or loses its accreditation, all records or copies of records concerning such person's activities under this chapter shall be transferred to the Secretaryand made available to the applicable governing State official.
 
 #### (d) Agreement
 

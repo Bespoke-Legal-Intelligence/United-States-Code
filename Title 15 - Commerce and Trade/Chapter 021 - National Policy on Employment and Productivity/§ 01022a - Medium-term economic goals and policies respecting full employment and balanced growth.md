@@ -6,7 +6,7 @@ In each Economic Report after October 27, 1978, the President shall incorporate 
 
 #### (b) Interim numerical goals for initial Economic Reports
 
-The medium-term goals in the first three Economic Reports and, subject to the provisions of subsection (d) of this section, in each Economic Report thereafter shall include (as part of the five-year goals in each Economic Report) interim numerical goals for—
+The medium-term goals in the first three Economic Reports and, subject to the provisions of subsection (d) of this section, in each EconomicReport thereafter shall include (as part of the five-year goals in each Economic Report) interim numerical goals for—
 
 &emsp;(1) reducing the rate of unemployment, as set forth pursuant to section 1022(d) of this title, to not more than 3 per centum among individuals aged twenty and over and 4 per centum among individuals aged sixteen and over within a period not extending beyond the fifth calendar year after the first such Economic Report;
 
@@ -54,7 +54,7 @@ If, after achievement of the 3 and 4 per centum goals specified in subsection (b
 
 #### References in Text
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§3131 et seq.) of chapter 58of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§3131 et seq.) of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Section 304 of the Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, §304, Oct. 27, 1978, 92 Stat. 1906, which amended section 632 of Title 2, The Congress.
 

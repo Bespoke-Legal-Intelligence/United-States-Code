@@ -18,7 +18,7 @@ Whenever a civil action has been instituted by or on behalf of the Commission fo
 
 #### (e) Venue; service of process
 
-Any civil action brought under subsection (a) of this section in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
+Any civil action brought under subsection (a) of this section in a district court of the UnitedStates may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
 
 #### (f) Actions by other State officials
 
@@ -30,7 +30,7 @@ Any civil action brought under subsection (a) of this section in a district cour
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified generally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 6101 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@ Property subject to criminal forfeiture under this section includes—
 
 #### (c) Third party transfers
 
-All right, title, and interest in property described in subsection (a) of this section vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
+All right, title, and interest in property described in subsection (a) of this section vests inthe United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
 
 #### (d) Rebuttable presumption
 
@@ -50,13 +50,25 @@ There is a rebuttable presumption at trial that any property of a person convict
 
 (3) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
+(4)
+
+Order to repatriate and deposit.—
+
+&emsp;(A)
+
+In general.—Pursuant to its authority to enter a pretrial restraining order under this section, the court may order a defendant to repatriate any property that may be seized and forfeited, and to deposit that property pending trial in the registry of the court, or with the United States Marshals Service or the Secretary of the Treasury, in an interest-bearing account, if appropriate.
+
+&emsp;(B)
+
+Failure to comply.—Failure to comply with an order under this subsection, or an order to repatriate property under subsection (p) of this section, shall be punishable as a civil or criminal contempt of court, and may also result in an enhancement of the sentence of the defendant under the obstruction of justice provision of the Federal Sentencing Guidelines.
+
 #### (f) Warrant of seizure
 
 The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) of this section may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
 
 #### (g) Execution
 
-Upon entry of an order of forfeiture under this section, the court shall authorize the Attorney General to seize all property ordered forfeited upon such terms and conditions as the court shall deem proper. Following entry of an order declaring the property forfeited, the court may, upon application of the United States, enter such appropriate restraining orders or injunctions, require the execution of satisfactory performance bonds, appoint receivers, conservators, appraisers, accountants, or trustees, or take any other action to protect the interest of the United States in the property ordered forfeited. Any income accruing to or derived from property ordered forfeited under this section may be used to offset ordinary and necessary expenses to the property which are required by law, or which are necessary to protect the interests of the United States or third parties.
+Upon entry of an order of forfeiture under this section, the court shall authorize the Attorney General to seize all property ordered forfeited upon such terms and conditions as the court shall deem proper. Following entry of an order declaring the property forfeited, the court may, upon application of the United States, enter such appropriate restraining orders or injunctions, require the execution of satisfactory performance bonds, appoint receivers, conservators, appraisers, accountants, or trustees, or take any other action to protect the interest of the United States in the property ordered forfeited. Any income accruing to or derived from property ordered forfeited under this section may beused to offset ordinary and necessary expenses to the property which are required by law, or which are necessary to protect the interests of the United States or third parties.
 
 #### (h) Disposition of property
 
@@ -124,19 +136,27 @@ The provisions of this section shall be liberally construed to effectuate its re
 
 #### (p) Forfeiture of substitute property
 
-If any of the property described in subsection (a) of this section, as a result of any act or omission of the defendant—
+#### (1) In general
 
-&emsp;(1) cannot be located upon the exercise of due diligence;
+&emsp;Paragraph (2) of this subsection shall apply, if any property described in subsection (a) of this section, as a result of any act or omission of the defendant—
 
-&emsp;(2) has been transferred or sold to, or deposited with, a third party;
+&emsp;&emsp;(A) cannot be located upon the exercise of due diligence;
 
-&emsp;(3) has been placed beyond the jurisdiction of the court;
+&emsp;&emsp;(B) has been transferred or sold to, or deposited with, a third party;
 
-&emsp;(4) has been substantially diminished in value; or
+&emsp;&emsp;(C) has been placed beyond the jurisdiction of the court;
 
-&emsp;(5) has been commingled with other property which cannot be divided without difficulty;
+&emsp;&emsp;(D) has been substantially diminished in value; or
 
-> the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).
+&emsp;&emsp;(E) has been commingled with other property which cannot be divided without difficulty.
+
+#### (2) Substitute property
+
+&emsp;In any case described in any of subparagraphs (A) through (E) of paragraph (1), the court shall order the forfeiture of any other property of the defendant, up to the value of any property described in subparagraphs (A) through (E) of paragraph (1), as applicable.
+
+#### (3) Return of property to jurisdiction
+
+&emsp;In the case of property described in paragraph (1)(C), the court may, in addition to any other action authorized by this subsection, order the defendant to return the property to the jurisdiction of the court so that the property may be seized and forfeited.
 
 #### (q) Restitution for cleanup of clandestine laboratory sites
 
@@ -148,7 +168,7 @@ The court, when sentencing a defendant convicted of an offense under this subcha
 
 &emsp;(3) order restitution to any person injured as a result of the offense as provided in section 3663A of title 18.
 
-(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229.)
+(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314.)
 
 #### References in Text
 
@@ -157,6 +177,22 @@ The Federal Rules of Evidence, referred to in subsec. (e)(3), are set out in the
 The Federal Rules of Criminal Procedure, referred to in subsec. (m), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2001—Subsec. (e)(4). Pub. L. 107–56, §319(d)(2), added par. (4).
+
+Subsec. (p). Pub. L. 107–56, §319(d)(1), inserted heading and amended text of subsec. (p) generally. Prior to amendment, text read as follows: “If any of the property described in subsection (a) of this section, as a result of any act or omission of the defendant—
+
+&emsp;“(1) cannot be located upon the exercise of due diligence;
+
+&emsp;“(2) has been transferred or sold to, or deposited with, a third party;
+
+&emsp;“(3) has been placed beyond the jurisdiction of the court;
+
+&emsp;“(4) has been substantially diminished in value; or
+
+&emsp;“(5) has been commingled with other property which cannot be divided without difficulty;
+
+> the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).”
 
 2000—Subsec. (q). Pub. L. 106–310, §3613(a)(1), (2), in introductory provisions, inserted “amphetamine or” before “methamphetamine” and substituted “shall” for “may”.
 
@@ -184,7 +220,11 @@ Subsecs. (e) to (p). Pub. L. 98–473, §2301(e)(2), which directed that this se
 
 Subsec. (n)(1). Pub. L. 98–473, §2301(f), struck out “for at least seven successive court days” after “to dispose of the property”.
 
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 333, 848, 970 of this title; title 18 sections 38, 229B, 793, 794, 798, 982, 986, 1028, 1029, 1834, 3554; title 28 section 2461; title 33 section 1415; title 42 section 1786; title 50 section 783.
+This section is referred to in sections 333, 848, 970 of this title; title 18 sections 38, 229B, 793, 794, 798, 982, 986, 1028, 1029, 1834, 3554; title 28 sections 524, 2461; title 31 sections 5317, 5332; title 33 section 1415; title 42 section 1786; title 50 section 783.
 

@@ -20,10 +20,16 @@ Subpart D—Business Related Credits
 | [45B.](%C2%A7%2000045B%20-%20Credit%20for%20portion%20of%20employer%20social%20security%20taxes%20paid%20with%20respect%20to%20employee%20cash%20tips.md) | Credit for portion of employer social security taxes paid with respect to employee cash tips. |
 | [45C.](%C2%A7%2000045C%20-%20Clinical%20testing%20expenses%20for%20certain%20drugs%20for%20rare%20diseases%20or%20conditions.md) | Clinical testing expenses for certain drugs for rare diseases or conditions. |
 | [45D.](%C2%A7%2000045D%20-%20New%20markets%20tax%20credit.md) | New markets tax credit. |
+| [45E.](%C2%A7%2000045E%20-%20Small%20employer%20pension%20plan%20startup%20costs.md) | Small employer pension plan startup costs. |
+| [45F.](%C2%A7%2000045F%20-%20Employer-provided%20child%20care%20credit.md) | Employer-provided child care credit. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title VI, §619(c)(3), June 7, 2001, 115 Stat. 110, which directed the addition of item 45E at the end of subpart D analysis, was executed by adding the item before item 45F, to reflect the probable intent of Congress.
+
+Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 45F.
 
 <b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title I, §121(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, added item 45D.
 
@@ -70,3 +76,5 @@ This subpart is referred to in sections 53, 469, 6401 of this title.
 - [&sect; 00045B - Credit for portion of employer social security taxes paid with respect to employee cash tips](%C2%A7%2000045B%20-%20Credit%20for%20portion%20of%20employer%20social%20security%20taxes%20paid%20with%20respect%20to%20employee%20cash%20tips.md)
 - [&sect; 00045C - Clinical testing expenses for certain drugs for rare diseases or conditions](%C2%A7%2000045C%20-%20Clinical%20testing%20expenses%20for%20certain%20drugs%20for%20rare%20diseases%20or%20conditions.md)
 - [&sect; 00045D - New markets tax credit](%C2%A7%2000045D%20-%20New%20markets%20tax%20credit.md)
+- [&sect; 00045E - Small employer pension plan startup costs](%C2%A7%2000045E%20-%20Small%20employer%20pension%20plan%20startup%20costs.md)
+- [&sect; 00045F - Employer-provided child care credit](%C2%A7%2000045F%20-%20Employer-provided%20child%20care%20credit.md)

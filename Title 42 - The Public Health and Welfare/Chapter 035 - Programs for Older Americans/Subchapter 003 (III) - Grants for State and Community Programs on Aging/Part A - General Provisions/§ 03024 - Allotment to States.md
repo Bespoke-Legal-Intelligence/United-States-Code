@@ -40,7 +40,7 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 (2) The non-Federal share shall be in cash or in kind. In determining the amount of the non-Federal share, the Assistant Secretary may attribute fair market value to services and facilities contributed from non-Federal sources.
 
-(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98 Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c), (d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §303, title VIII, §801(c)(2), Nov. 13, 2000, 114 Stat. 2239, 2292.)
+(Pub. L. 89–73, title III, §304, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1519; amended Pub. L. 97–115, §4, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §304, Oct. 9, 1984, 98Stat. 1772; Pub. L. 100–175, title I, §§123, 155(c), (d), 182(f), Nov. 29, 1987, 101 Stat. 933, 952, 965; Pub. L. 102–375, title III, §304, title IX, §904(a)(10), Sept. 30, 1992, 106 Stat. 1221, 1306; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §303, title VIII, §801(c)(2), Nov. 13, 2000, 114 Stat. 2239, 2292.)
 
 #### Prior Provisions
 
@@ -82,7 +82,7 @@ Subsec. (a)(4). Pub. L. 102–375, §304(a)(3), substituted “data available fr
 
 Subsec. (c). Pub. L. 102–375, §304(b), inserted “or the Commissioner does not approve the funding formula required under section 3025(a)(2)(C) of this title” after “requirements of section 3027 of this title”.
 
-Subsec. (d)(1)(C). Pub. L. 102–375, §304(c), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: “after September 30, 1986, such amount (excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title) as the State agency determines to be adequate, but not more than 1 percent, for conducting effective demonstration projects in health and nutrition education under section 3027(f) of this title shall be available for conducting such projects; and”.
+Subsec. (d)(1)(C). Pub. L. 102–375, §304(c), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “after September 30, 1986, such amount (excluding any amount attributable to funds appropriated under section 3023(a)(3) of this title) as the State agency determines to be adequate, but not more than 1 percent, for conducting effective demonstration projects in health and nutrition education under section 3027(f) of this title shall be available for conducting such projects; and”.
 
 Subsec. (e). Pub. L. 102–375, §304(d), added subsec. (e).
 

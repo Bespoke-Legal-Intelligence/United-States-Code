@@ -34,5 +34,5 @@ Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1702, 1732, 1784 of this title; title 16 sections 410fff–6, 460ccc–3, 460iii–5, 460nnn–22, 460nnn–64, 460nnn–92; title 25 section 640d–26; title 42 section 6508.
+This section is referred to in sections 1702, 1732, 1784 of this title; title 16 sections 410fff–6, 460ccc–3, 460iii–5, 460nnn–22, 460nnn–64, 460nnn–92, 460ppp–6; title 25 section 640d–26; title 42 section 6508.
 

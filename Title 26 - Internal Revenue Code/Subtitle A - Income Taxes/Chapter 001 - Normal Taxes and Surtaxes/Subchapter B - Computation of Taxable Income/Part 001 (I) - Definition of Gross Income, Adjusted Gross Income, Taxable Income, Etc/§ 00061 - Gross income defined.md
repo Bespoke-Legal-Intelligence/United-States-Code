@@ -76,7 +76,7 @@ Section 1026 of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 “(a)
 
-In General.—In the case of any transfer of property subject to gift tax made before March 4, 1981, forpurposes of subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 1 et seq.\], gross income of the donor shall not include any amount attributable to the donee's payment of (or agreement to pay) any gift tax imposed with respect to such gift.
+In General.—In the case of any transfer of property subject to gift tax made before March 4, 1981, for purposes of subtitle A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 1 et seq.\], gross income of the donor shall not include any amount attributable to the donee's payment of (or agreement to pay) any gift tax imposed with respect to such gift.
 
 “(b)
 
@@ -228,7 +228,7 @@ Extension to Wheat Planted and Harvested in 1984.—In the case of wheat—
 
 Regulations.—The Secretary of the Treasury or his delegate (after consultation with the Secretary of Agriculture) shall prescribe such regulations as may be necessary to carry out the purposes of this Act, including (but not limited to) such regulations as may be necessary to carry out the purposes of this Act where the commodity is received by a cooperative on behalf of the qualified taxpayer.”
 
-\[Section 1061(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending Pub. L. 98–4 set out above\] shall apply with respect to commodities received for the 1984 crop year (as defined in section 5(a)(2) of the Payment-in-Kind Tax Treatment Act of 1983 \[Pub. L. 98–4, set out above\] as amended by subsection (a)).”\]
+\[Section 1061(b) of Pub. L. 98–369 provided that: “The amendments made by this section \[amending Pub. L.98–4 set out above\] shall apply with respect to commodities received for the 1984 crop year (as defined in section 5(a)(2) of the Payment-in-Kind Tax Treatment Act of 1983 \[Pub. L. 98–4, set out above\] as amended by subsection (a)).”\]
 
 #### Cancellation of Certain Student Loans
 

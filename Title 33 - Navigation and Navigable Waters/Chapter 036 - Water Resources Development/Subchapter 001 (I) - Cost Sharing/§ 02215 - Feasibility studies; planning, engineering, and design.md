@@ -40,7 +40,7 @@
 
 #### (2) Applicability
 
-&emsp;This subsection shall not apply to any water resources study primarily designed for the purposes of navigational improvements in the nature of dams, locks, and channels on the Nation's system of inland waterways.
+&emsp;This subsection shall not apply to any water resources study primarily designed for thepurposes of navigational improvements in the nature of dams, locks, and channels on the Nation's system of inland waterways.
 
 #### (b) Planning and engineering
 

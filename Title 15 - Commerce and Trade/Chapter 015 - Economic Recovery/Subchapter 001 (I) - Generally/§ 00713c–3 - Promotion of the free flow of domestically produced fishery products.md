@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) any fishery development foundation or other private nonprofit corporation located in Alaska; and
 
-&emsp;&emsp;(C) any corporation, partnership, association, or other entity (including, but not limited to, any fishery development foundation or other private nonprofit corporation not located in Alaska), nonprofit or otherwise, if such entity is a citizen of the United States within the meaning of section 802 of title 46, Appendix, and for purposes of applying such section 802 with respect to this section—
+&emsp;&emsp;(C) any corporation, partnership, association, or other entity (including, but not limited to, any fishery development foundation or other private nonprofit corporation not located in Alaska), nonprofit or otherwise, if such entity is a citizen of the United States within the meaning of sections 802 and 803 of title 46, Appendix, and for purposes of applying such sections 802 and 803 with respect to this section—
 
 &emsp;&emsp;&emsp;(i) the term “State” as used therein includes any State referred to in paragraph (3),
 
@@ -28,7 +28,7 @@ As used in this section—
 
 &emsp;&emsp;(A) an individual who qualifies as such under section 8 of the Schedule on Transitional Matters attached to the Constitution of the Northern Mariana Islands; or
 
-&emsp;&emsp;(B) a corporation, partnership, association, or other entity organized or existing under the laws of the Northern Mariana Islands, not less than 75 percent of the interest in which is owned by individuals referred to in subparagraph (A) or citizens or nationals of the United States, in cases in which “owned” is used in the same sense as in section 802 of title 46, Appendix.
+&emsp;&emsp;(B) a corporation, partnership, association, or other entity organized or existing under the laws of the Northern Mariana Islands, not less than 75 percent of the interest in which is owned by individuals referred to in subparagraph (A) or citizens or nationals of the United States, in cases in which “owned” is used in the same sense as in sections 802 and 803 of title 46, Appendix.
 
 #### (b) Transfer of funds
 
@@ -180,7 +180,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One HundredFourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 
@@ -188,7 +188,7 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 #### Continuation of Authorization for Transfer of Funds
 
-Section 12(a) of act Aug. 8, 1956, provided that: “The authorization for the transfer of certain funds from theSecretary of Agriculture to the Secretary of the Interior and their maintenance in a separate fund as contained in section 2(a) of the Act of August 11, 1939, as amended July 1, 1954 (68 Stat. 376), \[now subsec. (b) of this section\], shall be continued for the year ending June 30, 1957, and each year thereafter.”
+Section 12(a) of act Aug. 8, 1956, provided that: “The authorization for the transfer of certain funds from the Secretary of Agriculture to the Secretary of the Interior and their maintenance in a separate fund as contained in section 2(a) of the Act of August 11, 1939, as amended July 1, 1954 (68 Stat. 376), \[now subsec. (b) of this section\], shall be continued for the year ending June 30, 1957, and each year thereafter.”
 
 #### Termination of Advisory Committees
 

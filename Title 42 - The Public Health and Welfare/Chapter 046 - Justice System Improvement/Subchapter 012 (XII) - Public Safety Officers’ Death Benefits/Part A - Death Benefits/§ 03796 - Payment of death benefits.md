@@ -2,7 +2,7 @@
 
 #### (a) Amount; recipients
 
-In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referred to as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay a benefit of $100,000, adjusted in accordance with subsection (h) of this section, as follows:
+In any case in which the Bureau of Justice Assistance (hereinafter in this subchapter referred to as the “Bureau”) determines, under regulations issued pursuant to this subchapter, that a public safety officer has died as the direct and proximate result of a personal injury sustained in the line of duty, the Bureau shall pay a benefit of $250,000, adjusted in accordance with subsection (h) of this section, as follows:
 
 &emsp;(1) if there is no surviving child of such officer, to the surviving spouse of such officer;
 
@@ -42,7 +42,7 @@ No benefit paid under this subchapter shall be subject to execution or attachmen
 
 #### (h) Consumer Price Index adjustment
 
-On October 1 of each fiscal year beginning after June 1, 1988, the Bureau shall adjust thelevel of the benefit payable immediately before such October 1 under subsection (a) of this section, to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
+On October 1 of each fiscal year beginning after June 1, 1988, the Bureau shall adjust the level of the benefit payable immediately before such October 1 under subsection (a) of this section, to reflect the annual percentage change in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics, occurring in the 1-year period ending on June 1 immediately preceding such October 1.
 
 #### (i) Amount payable determined as of date of death
 
@@ -54,7 +54,7 @@ The amount payable under subsection (a) of this section with respect to the deat
 
 (2) No benefit is payable under this subchapter with respect to the disability of a public safety officer if a benefit is payable under this subchapter with respect to the death of such public safety officer.
 
-(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138.)
+(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, §613(a), Oct. 26, 2001, 115 Stat. 369.)
 
 #### References in Text
 
@@ -69,6 +69,8 @@ Another prior section 3796, Pub. L. 90–351, title I, §701, as added Pub. L. 9
 A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, §104(b), May 19, 1986, 100 Stat. 459.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–56 substituted “$250,000” for “$100,000” in introductory provisions.
 
 1994—Subsec. (a). Pub. L. 103–322, §330001(e)(1)(A), substituted “subsection (h) of this section,” for “subsection (g) of this section” in introductory provisions.
 
@@ -92,6 +94,10 @@ Subsec. (a)(4). Pub. L. 100–690, §6105(c), struck out “dependent” before 
 
 Subsecs. (g), (h). Pub. L. 100–690, §6105(b), added subsecs. (g) and (h).
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–56, title VI, §613(b), Oct. 26, 2001, 115 Stat. 370, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any death or disability occurring on or after January 1, 2001.”
+
 #### Effective Date of 1992 Amendment
 
 Section 2 of Pub. L. 102–520 provided that: “The amendments made by section 1 of this Act \[amending this section\] shall apply with respect to injuries occurring on or after November 29, 1990, using the calculation method used to determine benefits under section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[subsec. (a) of this section\].”
@@ -110,5 +116,5 @@ Subchapter effective Oct. 1, 1984, and inapplicable with respect to injuries sus
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3796c of this title.
+This section is referred to in sections 3796c, 3796c–1 of this title.
 

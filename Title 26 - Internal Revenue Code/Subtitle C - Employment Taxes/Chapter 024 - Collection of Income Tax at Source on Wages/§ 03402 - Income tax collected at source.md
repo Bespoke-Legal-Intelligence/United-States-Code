@@ -26,7 +26,7 @@
 
 #### (c) Wage bracket withholding
 
-(1) At the election of the employer with respect to any employee, the employer shall deduct and withhold upon the wages paid to suchemployee a tax (in lieu of the tax required to be deducted and withheld under subsection (a)) determined in accordance with tables prescribed by the Secretary in accordance with paragraph (6).
+(1) At the election of the employer with respect to any employee, the employer shall deduct and withhold upon the wages paid to such employee a tax (in lieu of the tax required to be deducted and withheld under subsection (a)) determined in accordance with tables prescribed by the Secretary in accordance with paragraph (6).
 
 (2) If wages are paid with respect to a period which is not a payroll period, the amount to be deducted and withheld shall be that applicable in the case of a miscellaneous payroll period containing a number of days (including Sundays and holidays) equal to the number of days in the period with respect to which such wages are paid.
 
@@ -72,7 +72,7 @@ If the remuneration paid by an employer to an employee for services performed du
 
 #### (B) Change of status
 
-&emsp;&emsp;If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is less than the number of withholding exemptions claimed by the employee on the withholding exemption certificate then in effect with respect to him, the employee shall within 10 days thereafter furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, whichshall in no event exceed the number to which he is entitled on such day. If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is greater than the number of withholding exemptions claimed, the employee may furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day.
+&emsp;&emsp;If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is less than the number of withholding exemptions claimed by the employee on the withholding exemption certificate then in effect with respect to him, the employee shall within 10 days thereafter furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day. If, on any day during the calendar year, the number of withholding exemptions to which the employee is entitled is greater than the number of withholding exemptions claimed, the employee may furnish the employer with a new withholding exemption certificate relating to the number of withholding exemptions which the employee then claims, which shall in no event exceed the number to which he is entitled on such day.
 
 #### (C) Change of status which affects next calendar year
 
@@ -82,7 +82,7 @@ If the remuneration paid by an employer to an employee for services performed du
 
 #### (A) First certificate furnished
 
-&emsp;&emsp;A withholding exemption certificate furnished the employer in cases in which no previous such certificate is in effect shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished.
+&emsp;&emsp;A withholding exemption certificate furnished the employer in cases in which noprevious such certificate is in effect shall take effect as of the beginning of the first payroll period ending, or the first payment of wages made without regard to a payroll period, on or after the date on which such certificate is so furnished.
 
 #### (B) Furnished to take place of existing certificate
 
@@ -204,7 +204,7 @@ In the case of tips which constitute wages, subsection (a) shall be applicable o
 
 &emsp;&emsp;(A) as not married, if (i) he is legally separated from his spouse under a decree of divorce or separate maintenance, or (ii) either he or his spouse is, or on any preceding day within the calendar year was, a nonresident alien; or
 
-&emsp;&emsp;(B) as married, if (i) his spouse (other than a spouse referred to in subparagraph (A)) died within the portion of his taxable year which precedes such day, or (ii) his spouse died during one of the two taxable years immediately preceding the current taxable year and, on the basis of facts existing at the beginning of such day, the employee reasonably expects, at the close of his taxable year, to be a surviving spouse (as defined in section 2(a)).
+&emsp;&emsp;(B) as married, if (i) his spouse (other than a spouse referred to in subparagraph (A)) died within the portion of his taxable year which precedes such day, or (ii) his spouse died during one of the two taxable years immediately preceding the current taxableyear and, on the basis of facts existing at the beginning of such day, the employee reasonably expects, at the close of his taxable year, to be a surviving spouse (as defined in section 2(a)).
 
 #### (m) Withholding allowances
 
@@ -276,7 +276,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 &emsp;&emsp;&emsp;(ii) in the case of an annuity, at such time (after the date on which such request is furnished to the payor) as the Secretary shall by regulations prescribe.
 
-> &emsp;Such a request may be changed or terminated by furnishing to the person making the payments a written statement of change or termination which shall take effect in the same manner as provided in subparagraph (C). At the election of the payor, any such request (or statement of change or revocation) may take effect earlier than as provided in subparagraph (C).
+> &emsp;Such a request may be changed or terminated by furnishing to the person making the payments a written statement of change or termination which shall take effect in the samemanner as provided in subparagraph (C). At the election of the payor, any such request (or statement of change or revocation) may take effect earlier than as provided in subparagraph (C).
 
 #### (5) Special rule for sick pay paid pursuant to certain collective-bargaining agreements
 
@@ -302,7 +302,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (B) Amount withheld
 
-&emsp;&emsp;The amount to be deducted and withheld under this chapter from any payment to which any request under subparagraph (A) applies shall be an amount equal to the percentage of such payment specified in such request. Such a request shall apply to any payment only if the percentage specified is 7, 15, 28, or 31 percent or such other percentage as is permitted under regulations prescribed by the Secretary.
+&emsp;&emsp;The amount to be deducted and withheld under this chapter from any payment to which any request under subparagraph (A) applies shall be an amount equal to the percentage of such payment specified in such request. Such a request shall apply to any payment only if the percentage specified is 7 percent, any percentage applicable to any of the 3 lowest income brackets in the table under section 1(c), or such other percentage as is permitted under regulations prescribed by the Secretary.
 
 #### (C) Specified Federal payments
 
@@ -322,7 +322,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (2) Voluntary withholding on unemployment benefits
 
-&emsp;If, at the time a payment of unemployment compensation (as defined in section 85(b)) is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee. The amount to be deducted and withheld under this chapter from any payment to which any request under this paragraph applies shall be an amount equal to 15 percent of such payment.
+&emsp;If, at the time a payment of unemployment compensation (as defined in section 85(b)) is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee. The amount to be deducted and withheld under this chapter from any payment to which any request under this paragraph applies shall be an amount equal to 10 percent of such payment.
 
 #### (3) Authority for other voluntary withholding
 
@@ -338,7 +338,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (1) General rule
 
-&emsp;Every person, including the Government of the United States, a State, or a political subdivision thereof, or any instrumentalities of the foregoing, making any payment of winnings which are subject to withholding shall deduct and withhold from such payment a tax in an amount equal to 28 percent of such payment.
+&emsp;Every person, including the Government of the United States, a State, or a political subdivision thereof, or any instrumentalities of the foregoing, making any payment of winnings which are subject to withholding shall deduct and withhold from such payment a tax in an amount equal to the product of the third lowest rate of tax applicable under section 1(c) and such payment.
 
 #### (2) Exemption where tax otherwise withheld
 
@@ -400,7 +400,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (3) Annualized tax
 
-&emsp;For purposes of paragraph (1), the term “annualized tax” means, with respect to any payment, the amount of tax which would be imposed by section 1(c) (determined without regard to any rate of tax in excess of 31 percent) on an amount of taxable income equal to the excess of—
+&emsp;For purposes of paragraph (1), the term “annualized tax” means, with respect to any payment, the amount of tax which would be imposed by section 1(c) (determined without regard to any rate of tax in excess of the fourth lowest rate of tax applicable under section 1(c)) on an amount of taxable income equal to the excess of—
 
 &emsp;&emsp;(A) the annualized amount of such payment, over
 
@@ -440,7 +440,11 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 &emsp;&emsp;(B) which consists of providing a highway motor vehicle for the use of the employee.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Pub. L. 87–256, §110(g)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 88–272, title III, §302(a), (b), Feb. 26, 1964, 78 Stat. 140; Pub. L. 89–97, title III, §313(d)(3)–(5), July 30, 1965, 79 Stat. 384; Pub. L. 89–212, §2(c), Sept. 29, 1965, 79 Stat. 859; Pub. L. 89–368, title I, §101(a)–(e)(3), Mar. 15, 1966, 80 Stat. 38–61; Pub. L. 90–364, title I, §102(c), June 28, 1968, 82 Stat. 256; Pub. L. 91–36, §2(a), June 30, 1969, 83 Stat. 42; Pub. L. 91–53, §6(a), Aug. 7, 1969, 83 Stat. 96; Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), Dec. 30, 1969, 83 Stat. 686, 704–708; Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), Dec. 10, 1971, 85 Stat. 512–517; Pub. L. 94–12, title II, §§202(b), 205, Mar. 29, 1975, 89 Stat. 29, 32; Pub. L. 94–164, §§2(b)(2), 5(a)(1), Dec. 23, 1975, 89 Stat. 971, 975; Pub. L. 94–331, §3(a)(1), June 30, 1976, 90 Stat. 782; Pub. L. 94–396, §2(a)(1), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–414, §3(a)(1), Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; Pub. L. 95–30, title I, §105, title IV, §405(a), May 23, 1977, 91 Stat. 140, 156; Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), Nov. 6, 1978, 92 Stat. 2770, 2771, 2896; Pub. L. 96–601, §4(a)–(d), Dec. 24, 1980, 94 Stat. 3496, 3497; Pub. L. 97–34, title I, §101(e), Aug. 13, 1981, 95 Stat. 184; Pub. L. 97–248, title III, §§317(a), 334(d), Sept. 3, 1982, 96 Stat. 607, 627; Pub. L. 98–67, title I, §104(d)(3), Aug. 5, 1983, 97 Stat. 380; Pub. L. 99–44, §3, May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), Oct. 22, 1986, 100 Stat. 2106, 2658, 2766; Pub. L. 100–203, title X, §10302(a), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1003(a)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11801(a)(41), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 102–318, title V, §522(b)(2)(D), July 3, 1992, 106 Stat. 314; Pub. L. 102–486, title XIX, §§1934(a), 1942(a), Oct. 24, 1992, 106 Stat. 3031, 3036; Pub. L. 103–465, title VII, §§701(a), 702(a), Dec. 8, 1994, 108 Stat. 4995, 4996.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Pub. L. 87–256, §110(g)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 88–272, title III, §302(a), (b), Feb. 26, 1964, 78 Stat. 140; Pub. L. 89–97, title III, §313(d)(3)–(5), July 30, 1965, 79 Stat. 384; Pub. L. 89–212, §2(c), Sept. 29, 1965, 79 Stat. 859; Pub. L. 89–368, title I, §101(a)–(e)(3), Mar. 15, 1966, 80 Stat. 38–61; Pub. L. 90–364, title I, §102(c), June 28, 1968, 82 Stat. 256; Pub. L. 91–36, §2(a), June 30, 1969, 83 Stat. 42; Pub. L. 91–53, §6(a), Aug. 7, 1969, 83 Stat. 96; Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), Dec. 30, 1969, 83 Stat. 686, 704–708; Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), Dec. 10, 1971, 85 Stat. 512–517; Pub. L. 94–12, title II, §§202(b), 205, Mar. 29, 1975, 89 Stat. 29, 32; Pub. L. 94–164, §§2(b)(2), 5(a)(1), Dec. 23, 1975, 89 Stat. 971, 975; Pub. L. 94–331, §3(a)(1), June 30, 1976, 90 Stat. 782; Pub. L. 94–396, §2(a)(1), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–414, §3(a)(1), Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; Pub. L. 95–30, title I, §105, title IV, §405(a), May 23, 1977, 91 Stat. 140, 156; Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), Nov. 6, 1978, 92 Stat. 2770, 2771, 2896; Pub. L. 96–601, §4(a)–(d), Dec. 24, 1980, 94 Stat. 3496, 3497; Pub. L. 97–34, title I, §101(e), Aug. 13, 1981, 95 Stat. 184; Pub. L. 97–248, title III, §§317(a), 334(d), Sept. 3, 1982, 96 Stat. 607, 627; Pub. L. 98–67, title I, §104(d)(3), Aug. 5, 1983, 97 Stat. 380; Pub. L. 99–44, §3, May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), Oct. 22, 1986, 100 Stat. 2106, 2658, 2766; Pub. L. 100–203, title X, §10302(a), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1003(a)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11801(a)(41), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 102–318, title V, §522(b)(2)(D), July 3, 1992, 106 Stat. 314; Pub. L. 102–486, title XIX, §§1934(a), 1942(a), Oct. 24, 1992, 106 Stat. 3031, 3036; Pub. L. 103–465, title VII, §§701(a), 702(a), Dec. 8, 1994, 108 Stat. 4995, 4996; Pub. L. 107–16, title I, §101(c)(6)–(9), June 7, 2001, 115 Stat. 43, 44.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -451,6 +455,14 @@ Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (r)(4), is
 The date of the enactment of this subsection, referred to in subsec. (r)(4), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (p)(1)(B). Pub. L. 107–16, §§101(c)(6), 901, temporarily substituted “7 percent, any percentage applicable to any of the 3 lowest income brackets in the table under section 1(c),” for “7, 15, 28, or 31 percent”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (p)(2). Pub. L. 107–16, §§101(c)(7), 901, temporarily substituted “10 percent” for “15 percent”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (q)(1). Pub. L. 107–16, §§101(c)(8), 901, temporarily substituted “equal to the product of the third lowest rate of tax applicable under section 1(c) and such payment” for “equal to 28 percent of such payment”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (r)(3). Pub. L. 107–16, §§101(c)(9), 901, temporarily substituted “the fourth lowest rate of tax applicable under section 1(c)” for “31 percent” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1994</b>—Subsec. (p). Pub. L. 103–465, §702(a), reenacted heading without change and amended text of subsec. (p) generally. Prior to amendment, text read as follows: “The Secretary is authorized by regulations to provide for withholding—
 
@@ -540,7 +552,7 @@ Subsec. (<i>o</i>)(3). Pub. L. 96–601, §4(b), substituted provision authorizi
 
 Subsec. (<i>o</i>)(4), (5). Pub. L. 96–601, §4(b), added pars. (4) and (5).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–600, §101(e)(1), substituted “With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977 and the amendments made by section 101 of the Revenue Act of 1978.” for “With respect to wages paid after May 31, 1977, and before January 1, 1979, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1976; except that such tables shall be modified to the extent necessary so that, had they been in effect for all of 1977, they would reflect the full year effect of the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977. With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977.”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600, §101(e)(1), substituted “With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977 and the amendments made by section 101 of the Revenue Act of 1978.” for “With respect to wages paid after May 31, 1977, and before January 1, 1979, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1976; except that such tables shall be modified to the extentnecessary so that, had they been in effect for all of 1977, they would reflect the full year effect of the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977. With respect to wages paid after December 31, 1978, the tables so prescribed shall be the same as the tables prescribed under this subsection which were in effect on January 1, 1975, except that such tables shall be modified to the extent necessary to reflect the amendments made by sections 101 and 102 of the Tax Reduction and Simplification Act of 1977.”.
 
 Subsec. (b)(1). Pub. L. 95–600, §102(c)(1), increased the amounts set out in the table for one withholding exemption for each of the payroll period categories from $14.40, $28.80, $31.30, $62.50, $187.50, $375.00, $750.00 and $2.10 to $19.23, $38.46, $41.66, $83.33, $250.00, $500.00, $1,000.00 and $2.74, respectively.
 
@@ -598,7 +610,7 @@ Subsec. (m)(1)(B). Pub. L. 94–164, §2(b)(2), substituted “$2,800” and “
 
 Pub. L. 94–12, §202(b), substituted “the lesser of (i) 16 percent of his estimated wages, or (ii) $2,600 ($2,300 in the case of an individual who is not married (within the meaning of section 143) and who is not a surviving spouse (as defined in section 2(a)))” for “the lesser of (i) $2,000 or (ii) 15 percent of his estimated wages”.
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–178, §208(a), substituted new sets of tables 1 to 8 applicable (under §208(i)(1)) with respect to wages paid after Jan. 15, 1972, for the tables applicable in the case of wages paid as provided in former: par. (1) after Dec. 31, 1969, and before July 1, 1970; par. (2) after June 30, 1970, and before Jan. 1, 1971; par. (3) after Dec. 31, 1970, and before Jan. 1, 1972; par. (4) after Dec. 31, 1971, and before Jan. 1, 1973; and par. (5) after Dec. 31, 1972. Pub. L. 92–178, §208(h)(1), made provisions of par. (3) applicable (under section 208(i)(2)) with respect to wages paid after Dec. 31, 1971, and before Jan. 16, 1972.
+<b>1971</b>—Subsec. (a). Pub. L. 92–178, §208(a), substituted new sets of tables 1 to 8 applicable (under §208(i)(1)) with respect to wages paid after Jan. 15, 1972, for the tables applicable in the case of wages paid as provided in former: par. (1) after Dec. 31, 1969, and before July 1, 1970; par. (2) after June 30, 1970, and before Jan. 1, 1971; par. (3) after Dec. 31, 1970, and before Jan. 1, 1972; par.\(4) after Dec. 31, 1971, and before Jan. 1, 1973; and par. (5) after Dec. 31, 1972. Pub. L. 92–178, §208(h)(1), made provisions of par. (3) applicable (under section 208(i)(2)) with respect to wages paid after Dec. 31, 1971, and before Jan. 16, 1972.
 
 Subsec. (b)(1). Pub. L. 92–178, §208(b)(1), revised withholding rates upwards, substituting 14.40; 28.80; 31.30; 62.50; 187.50; 375.00; 750.00; and 2.10 for 12.50; 25.00 27.10; 54.20; 162.50; 325.00; 650.00; and 1.80, respectively, to be effective with respect to wages paid after Jan. 15, 1972. Pub. L. 92–178, §208(h)(2), in amending Pub. L. 91–172, §805(b)(1), extended application of such former withholding rates to wages paid after June 30, 1970, and before Jan. 16, 1972, previously applicable to wages paid before Jan. 1, 1972.
 
@@ -687,6 +699,12 @@ Subsec. (c)(1). Pub. L. 88–272, §302(b), substituted new tables reflecting lo
 <b>1955</b>—Subsec. (a). Act Aug. 9, 1955, §2(a), inserted “(except as provided in subsection (j))” after “upon such wages”.
 
 Subsec. (j). Act Aug. 9, 1955, §2(b), added subsec. (j).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day after June 7, 2001, and references to income brackets and rates of tax in such amendment to be applied without regard to section 1(i)(1)(D) of this title, see section 101(d)(2) of Pub. L. 107–16, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1994 Amendment
 

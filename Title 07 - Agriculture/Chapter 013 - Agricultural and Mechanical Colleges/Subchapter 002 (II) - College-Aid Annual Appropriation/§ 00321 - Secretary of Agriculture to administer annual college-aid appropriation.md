@@ -22,6 +22,10 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 Prior to July 1, 1939, functions of Secretary of the Interior under this subchapter were carried out through Office of Education of Department of the Interior. Office of Education and its functions transferred to Federal Security Administrator by section 204 of 1939 Reorg. Plan No. 1, set out in the Appendix to Title 5.
 
+#### West Virginia State College at Institute, West Virginia
+
+Pub. L. 107–76, title VII, §753, Nov. 28, 2001, 115 Stat. 740, provided that: “Hereafter, any provision of any Act of Congress relating to colleges and universities eligible to receive funds under the Act of August 30, 1890 \[7 U.S.C. 321 et seq.\], including Tuskegee University, shall apply to West Virginia State College at Institute, West Virginia: <i>Provided</i>, That the Secretary may waive the matching funds’ requirement under section 1449 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222d) for fiscal year 2002 for West Virginia State College if the Secretary determines the State of West Virginia will be unlikely to satisfy the matching requirement.”
+
 #### Reclamation Fund
 
 Moneys received from the sale and disposal of public lands in certain States and Territories were appropriated to a “reclamation fund”, for the reclamation of arid and semi-arid lands, by the Reclamation Act of June 17, 1902, ch. 1093, §1, 32 Stat. 388, and, by a proviso annexed to that section, in case the receipts from the sale and disposal of other public lands are insufficient to meet the requirements for the support of agricultural colleges under this act, the sum necessary is to be provided from any moneys in the Treasury not otherwise appropriated. See section 391 et seq. of Title 43, Public Lands.

@@ -18,7 +18,7 @@ Application to Certain Faculty Members.—(1) Except as provided in paragraph (2
 
 #### Prior Provisions
 
-A prior section 9021, act Aug. 10, 1956, ch. 1041, 70A Stat. 558, related to appointments in professional andscientific service, prior to repeal by Pub. L. 85–861, §36B(30), Sept. 2, 1958, 72 Stat. 1571.
+A prior section 9021, act Aug. 10, 1956, ch. 1041, 70A Stat. 558, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, §36B(30), Sept. 2, 1958, 72 Stat. 1571.
 
 #### Amendments
 

@@ -14,7 +14,7 @@ Each Federal agency and each museum which has possession or control over holding
 
 &emsp;(C) made available both during the time they are being conducted and afterward to a review committee established under section 3006 of this title.
 
-(2) Upon request by an Indian tribe or Native Hawaiian organization which receives or shouldhave received notice, a museum or Federal agency shall supply additional available documentation to supplement the information required by subsection (a) of this section. The term “documentation” means a summary of existing museum or Federal agency records, including inventories or catalogues, relevant studies, or other pertinent data for the limited purpose of determining the geographical origin, cultural affiliation, and basic facts surrounding acquisition and accession of Native American human remains and associated funerary objects subject to this section. Such term does not mean, and this chapter shall not be construed to be an authorization for, the initiation of new scientific studies of such remains and associated funerary objects or other means of acquiring or preserving additional scientific information from such remains and objects.
+(2) Upon request by an Indian tribe or Native Hawaiian organization which receives or should have received notice, a museum or Federal agency shall supply additional available documentation to supplement the information required by subsection (a) of this section. The term “documentation” means a summary of existing museum or Federal agency records, including inventories or catalogues, relevant studies, or other pertinent data for the limited purpose of determining the geographical origin, cultural affiliation, and basic facts surrounding acquisition and accession of Native American human remains and associated funerary objects subject to this section. Such term does not mean, and this chapter shall not be construed to be an authorization for, the initiation of new scientific studies of such remains and associated funerary objects or other means of acquiring or preserving additional scientific information from such remains and objects.
 
 #### (c) Extension of time for inventory
 
@@ -22,7 +22,7 @@ Any museum which has made a good faith effort to carry out an inventory and iden
 
 #### (d) Notification
 
-(1) If the cultural affiliation of any particular Native American human remains or associated funerary objects is determined pursuant to this section, the Federal agency or museum concerned shall, not later than 6 months after the completion of the inventory, notify the affected Indian tribes or Native Hawaiian organizations.
+(1) If the cultural affiliation of any particular Native American human remains or associatedfunerary objects is determined pursuant to this section, the Federal agency or museum concerned shall, not later than 6 months after the completion of the inventory, notify the affected Indian tribes or Native Hawaiian organizations.
 
 (2) The notice required by paragraph (1) shall include information—
 

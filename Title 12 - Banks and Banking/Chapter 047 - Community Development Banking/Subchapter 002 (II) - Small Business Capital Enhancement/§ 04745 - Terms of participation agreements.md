@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The participation agreement to be entered into by a participating State and a participatingfinancial institution shall include all provisions required by this section, and shall not include any provisions inconsistent with the provisions of this section.
+The participation agreement to be entered into by a participating State and a participating financial institution shall include all provisions required by this section, and shall not include any provisions inconsistent with the provisions of this section.
 
 #### (b) Establishment of separate reserve funds
 
@@ -66,7 +66,7 @@ In filing a loan for enrollment under the Program, the participating financial i
 
 #### (2) Allocation of premium charges
 
-&emsp;The participation agreement shall specify terms for allocating premium charges between the borrower and the participating financial institution. However, if the participating financial institution is required to pay any of the premium charges, the participation agreement shall authorize the participating financial institution to recover from the borrower the cost of the payment of the participating financial institution, in any manner on which the participating financial institution and the borrower agree.
+&emsp;The participation agreement shall specify terms for allocating premium charges betweenthe borrower and the participating financial institution. However, if the participating financial institution is required to pay any of the premium charges, the participation agreement shall authorize the participating financial institution to recover from the borrower the cost of the payment of the participating financial institution, in any manner on which the participating financial institution and the borrower agree.
 
 #### (i) Restrictions
 
@@ -74,7 +74,7 @@ In filing a loan for enrollment under the Program, the participating financial i
 
 &emsp;Except as provided in subsection (h) of this section and paragraph (2) of this subsection, the participating State may not—
 
-&emsp;&emsp;(A) impose any restrictions or requirements, relating to the interest rate, fees,collateral, or other business terms and conditions of the loan; or
+&emsp;&emsp;(A) impose any restrictions or requirements, relating to the interest rate, fees, collateral, or other business terms and conditions of the loan; or
 
 &emsp;&emsp;(B) condition enrollment of a loan in the Program on the review by the State of the risk or creditworthiness of a loan.
 

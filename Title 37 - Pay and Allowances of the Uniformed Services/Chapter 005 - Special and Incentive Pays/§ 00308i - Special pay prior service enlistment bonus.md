@@ -34,7 +34,7 @@ Bonus Amounts; Payment.—(1) The amount of a bonus under this section may not e
 
 Condition on Eligibility; Limitation on Number of Bonuses.—(1) To be eligible for a second bonus under this section in the amount specified in subsection (b)(1)(C), a person must—
 
-&emsp;(A) enter into a reenlistment or extension of an enlistment for a period of three years notlater than the date on which the enlistment for which the first bonus was paid would expire; and
+&emsp;(A) enter into a reenlistment or extension of an enlistment for a period of three years not later than the date on which the enlistment for which the first bonus was paid would expire; and
 
 &emsp;(B) still satisfy the eligibility requirements under subsection (a).
 
@@ -56,11 +56,13 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (f)
 
-Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after December 31, 2001.
+Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after December 31, 2002.
 
-(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(g), 623(a), Oct. 5, 1999, 113 Stat. 650, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151.)
+(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(g), 623(a), Oct. 5, 1999, 113 Stat. 650, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(g), Dec. 28, 2001, 115 Stat. 1135.)
 
 #### Amendments
+
+2001—Subsec. (f). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
 2000—Subsec. (f). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
 
@@ -122,7 +124,7 @@ Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996
 
 1993—Subsec. (i). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
 
-1992—Subsec. (c). Pub. L. 102–484, §1136, inserted before period at end “and may not be paid a bonus underthis section unless the specialty associated with the position the member is projected to occupy is a specialty in which the member successfully served while on active duty and attained a level of qualification commensurate with the member's grade and years of service”.
+1992—Subsec. (c). Pub. L. 102–484, §1136, inserted before period at end “and may not be paid a bonus under this section unless the specialty associated with the position the member is projected to occupy is a specialty in which the member successfully served while on active duty and attained a level of qualification commensurate with the member's grade and years of service”.
 
 Subsec. (i). Pub. L. 102–484, §612(d), substituted “September 30, 1993” for “September 30, 1992”.
 

@@ -28,7 +28,7 @@ The Corporation shall ensure that each individual selected during a fiscal year 
 
 #### (c) Reservation for special assistance
 
-From amounts appropriated for a fiscal year pursuant to the authorization of appropriation in section 12681(a)(2) of this title, and subject to the limitation in such section, the Corporation may reserve such amount as the Corporation considers to be appropriate for the purpose of making assistance available under sections 12575 and 12576 of this title. The Corporation may not reserve more than $10,000,000 for a fiscal year for disaster service under subsection (b) of section 12576 of this title or challenge grants under subsection (c) of such section.
+From amounts appropriated for a fiscal year pursuant to the authorization of appropriationin section 12681(a)(2) of this title, and subject to the limitation in such section, the Corporation may reserve such amount as the Corporation considers to be appropriate for the purpose of making assistance available under sections 12575 and 12576 of this title. The Corporation may not reserve more than $10,000,000 for a fiscal year for disaster service under subsection (b) of section 12576 of this title or challenge grants under subsection (c) of such section.
 
 #### (d) Competitive distribution of remaining funds
 
@@ -68,7 +68,7 @@ From amounts appropriated for a fiscal year pursuant to the authorization of app
 
 #### (ii) Requirements
 
-&emsp;&emsp;&emsp;Funds made available through such a supplemental grant under clause (i) shallbe made available for the same purposes, and subject to the same requirements, as funds made available through a grant made under paragraph (1) or (2).
+&emsp;&emsp;&emsp;Funds made available through such a supplemental grant under clause (i) shall be made available for the same purposes, and subject to the same requirements, as funds made available through a grant made under paragraph (1) or (2).
 
 #### (C) Grants for outreach to individuals with a disability
 

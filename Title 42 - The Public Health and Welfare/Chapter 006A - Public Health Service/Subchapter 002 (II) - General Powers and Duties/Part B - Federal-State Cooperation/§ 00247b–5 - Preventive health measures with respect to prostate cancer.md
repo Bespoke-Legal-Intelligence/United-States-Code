@@ -20,7 +20,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;&emsp;(A) to screen men for prostate cancer as a preventive health measure;
 
-&emsp;&emsp;(B) to provide appropriate referrals for the medical treatment of men who have been screened under subparagraph (A) and to ensure, to the extent practicable, the provision of appropriate followup services and support services such as case management;
+&emsp;&emsp;(B) to provide appropriate referrals for the medical treatment of men who have beenscreened under subparagraph (A) and to ensure, to the extent practicable, the provision of appropriate followup services and support services such as case management;
 
 &emsp;&emsp;(C) to establish mechanisms through which State and local health departments can monitor the quality of screening procedures for prostate cancer, including the interpretation of such procedures; and
 
@@ -38,7 +38,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including equipment or services (and excluding indirect or overhead costs). Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the fiscal year for which the applicant involved isapplying to receive a grant under such subsection.
+&emsp;(B) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary may include only non-Federal contributions in excess of the average amount of non-Federal contributions made by the applicant involved toward the purpose described in subsection (a) of this section for the 2-year period preceding the fiscal year for which the applicant involved is applying to receive a grant under such subsection.
 
 &emsp;(C) In making a determination of the amount of non-Federal contributions for purposes of paragraph (1), the Secretary shall, subject to subparagraphs (A) and (B) of this paragraph, include any non-Federal amounts expended pursuant to title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] by the applicant involved toward the purpose described in paragraphs (1) and (2) of subsection (a) of this section.
 
@@ -110,7 +110,7 @@ The Secretary may not make a grant under subsection (a) of this section unless�
 
 &emsp;(1) the applicant involved submits to the Secretary a description of the purposes for which the applicant intends to expend the grant;
 
-&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>4</sup> with aneed for the services or activities described in subsection (a) of this section;
+&emsp;(2) the description identifies the populations, areas, and localities in the applicant <sup>4</sup> with a need for the services or activities described in subsection (a) of this section;
 
 &emsp;(3) the description provides information relating to the services and activities to be provided, including a description of the manner in which the services and activities will be coordinated with any similar services or activities of public or nonprivate entities; and
 
@@ -150,7 +150,7 @@ For purposes of this section, the term “units of local government” includes 
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1) of this section.
 
-(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
 
 #### References in Text
 

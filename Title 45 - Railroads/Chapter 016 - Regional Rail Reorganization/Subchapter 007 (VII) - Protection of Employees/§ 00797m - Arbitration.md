@@ -6,7 +6,7 @@ Any dispute or controversy with respect to the interpretation, application, or e
 
 #### References in Text
 
-Section 797<i>l</i> of this title, referred to in text, was repealed by Pub. L. 99–509, title IV, §4033(a)(2), Oct. 21,1986, 100 Stat. 1908, and a new section 797<i>l</i> of this title was subsequently added by Pub. L. 104–88, §327(5).
+Section 797<i>l</i> of this title, referred to in text, was repealed by Pub. L. 99–509, title IV, §4033(a)(2), Oct. 21, 1986, 100 Stat. 1908, and a new section 797<i>l</i> of this title was subsequently added by Pub. L. 104–88, §327(5).
 
 Section 1144 of the Northeast Rail Service Act of 1981, referred to in text, is section 1144 of Pub. L. 97–35, title XI, Aug. 13, 1981, 95 Stat. 669, which repealed subchapter V (§771 et seq.) of this chapter and sections 910 and 1006 of this title and enacted provisions set out as a note under section 771 of this title.
 

@@ -22,5 +22,5 @@ Another section 1118 was renumbered section 1122 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1120, 3592 of this title.
+This section is referred to in sections 1120, 3592 of this title; title 42 section 14135a.
 

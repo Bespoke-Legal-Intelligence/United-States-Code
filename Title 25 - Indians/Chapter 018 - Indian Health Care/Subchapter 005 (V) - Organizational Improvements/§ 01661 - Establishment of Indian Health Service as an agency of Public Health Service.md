@@ -50,7 +50,7 @@ Act of August 5, 1954, referred to in subsec. (c)(3)(C), is act Aug. 5, 1954, ch
 
 Act of August 16, 1957, referred to in subsec. (c)(3)(D), is Pub. L. 85–151, Aug. 16, 1957, 71 Stat. 370, which is classified generally to subchapter II (§2005 et seq.) of chapter 22 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (c)(3)(E), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principallyto part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(3)(E), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Prior Provisions
 

@@ -18,7 +18,7 @@ The Administrator shall—
 
 &emsp;&emsp;(B) identifying and summarizing effective models of Federal, State, and local coordination and cooperation in locating and recovering missing children;
 
-&emsp;&emsp;(C) identifying and summarizing effective program models that provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction;
+&emsp;&emsp;(C) identifying and summarizing effective program models that provide treatment,counseling, or other aid to parents of missing children or to children who have been the victims of abduction;
 
 &emsp;&emsp;(D) describing how the Administrator satisfied the requirements of paragraph (4) in the preceding fiscal year;
 

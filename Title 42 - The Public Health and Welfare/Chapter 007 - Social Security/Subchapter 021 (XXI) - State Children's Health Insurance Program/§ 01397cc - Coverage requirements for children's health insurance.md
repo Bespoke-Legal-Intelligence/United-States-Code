@@ -174,7 +174,7 @@ The benchmark benefit packages are as follows:
 
 #### (B) Group health plans and group health insurance coverage
 
-&emsp;&emsp;If the State child health plan provides for benefits through payment for, or a contract with, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted under the applicable provisions of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\] and title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\].
+&emsp;&emsp;If the State child health plan provides for benefits through payment for, or a contract with, a group health plan or group health insurance coverage, the plan may permit the imposition of a preexisting condition exclusion but only insofar as it is permitted under the applicable provisions of part 7 of subtitleB of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\] and title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\].
 
 #### (2) Compliance with other requirements
 

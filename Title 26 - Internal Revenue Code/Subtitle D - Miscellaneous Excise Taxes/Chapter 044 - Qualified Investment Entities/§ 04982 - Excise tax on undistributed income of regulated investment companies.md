@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (i) Net capital gain
 
-&emsp;&emsp;&emsp;The term “net capital gain” has the meaning given such term by section 1222(11) (determined by treating the 1-year period ending on October 31 of the calendar year as the company's taxable year).
+&emsp;&emsp;&emsp;The term “net capital gain” has the meaning given such term by section1222(11) (determined by treating the 1-year period ending on October 31 of the calendar year as the company's taxable year).
 
 #### (ii) Net ordinary loss
 

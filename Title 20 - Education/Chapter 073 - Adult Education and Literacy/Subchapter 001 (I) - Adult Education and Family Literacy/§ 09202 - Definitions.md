@@ -24,11 +24,11 @@ In this subchapter:
 
 #### (3) Educational service agency
 
-&emsp;The term “educational service agency” means a regional public multiservice agencyauthorized by State statute to develop and manage a service or program, and to provide the service or program to a local educational agency.
+&emsp;The term “educational service agency” means a regional public multiservice agency authorized by State statute to develop and manage a service or program, and to provide the service or program to a local educational agency.
 
 #### (4) Eligible agency
 
-&emsp;The term “eligible agency” means the sole entity or agency in a State or an outlying area responsible for administering or supervising policy for adult education and literacy in the State or outlying area, respectively, consistent with the law of the State or outlying area, respectively.
+&emsp;The term “eligible agency” means the sole entity or agency in a State or an outlying area responsible for administering or supervisingpolicy for adult education and literacy in the State or outlying area, respectively, consistent with the law of the State or outlying area, respectively.
 
 #### (5) Eligible provider
 
@@ -100,7 +100,7 @@ In this subchapter:
 
 #### (13) Local educational agency
 
-&emsp;The term “local educational agency” has the meaning given the term in section 8801 of this title.
+&emsp;The term “local educational agency” has the meaning given the term in section 7801 of this title.
 
 #### (14) Outlying area
 
@@ -128,13 +128,19 @@ In this subchapter:
 
 &emsp;The term “workplace literacy services” means literacy services that are offered for the purpose of improving the productivity of the workforce through the improvement of literacy skills.
 
-(Pub. L. 105–220, title II, §203, Aug. 7, 1998, 112 Stat. 1060; Pub. L. 105–244, title I, §102(d)(2), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416.)
+(Pub. L. 105–220, title II, §203, Aug. 7, 1998, 112 Stat. 1060; Pub. L. 105–244, title I, §102(d)(2), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–277, div. A, §101(f) \[title VIII, §404(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 107–110, title X, §1076(s), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### Amendments
+
+2002—Par. (13). Pub. L. 107–110 substituted “section 7801” for “section 8801”.
 
 1998—Pub. L. 105–277 made technical amendment to reference in original act which appears in text as reference to this subchapter.
 
 Par. (11). Pub. L. 105–244 substituted “section 1001” for “section 1141”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -142,5 +148,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6813, 7881, 9241, 9273 of this title; title 29 section 2801.
+This section is referred to in sections 9241, 9273 of this title; title 29 section 2801.
 

@@ -44,7 +44,7 @@ An enterprise, executive officer, or director that has been served with a tempor
 
 #### (e) Enforcement by Attorney General
 
-In the case of violation or threatened violation of, or failure to obey, a temporary order issued pursuant to this section, the Director may request the Attorney General of the United States to bring an action in the United States District Court for the District of Columbia for an injunction to enforce such order or may, under the direction and control of the Attorney General, bring such an action. If the court finds any such violation, threatened violation, or failure to obey, the court shall issue such injunction.
+In the case of violation or threatened violation of, or failure to obey, a temporary order issued pursuant to this section, the Director may request the Attorney General of the United States to bring an action in the United States District Court for the District of Columbia for an injunction to enforce such order or may, under the direction and control of the Attorney General, bring such an action. If the court findsany such violation, threatened violation, or failure to obey, the court shall issue such injunction.
 
 (Pub. L. 102–550, title XIII, §1372, Oct. 28, 1992, 106 Stat. 3988.)
 

@@ -1,8 +1,8 @@
 ### §484. Connecting parts of different notes
 
-Whoever so places or connects together different parts of two or more notes, bills, or other genuine instruments issued under the authority of the United States, or by any foreign government, or corporation, as to produce one instrument, with intent to defraud, shall be guilty of forgery in the same manner as if the parts so put together were falsely made or forged, and shall be fined under this title or imprisoned not more than five years, or both.
+Whoever so places or connects together different parts of two or more notes, bills, or other genuine instruments issued under the authority of the United States, or by any foreign government, or corporation, as to produce one instrument, with intent to defraud, shall be guilty of forgery in the same manner as if the parts so put together were falsely made or forged, and shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §374(h), Oct. 26, 2001, 115 Stat. 341.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,13 @@ Minor changes in phraseology were made.
 
 #### Amendments
 
+2001—Pub. L. 107–56 substituted “10 years” for “five years”.
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

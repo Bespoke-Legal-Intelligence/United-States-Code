@@ -18,15 +18,15 @@ Information Eligible for Exemption.—For the purposes of this section, informat
 
 &emsp;&emsp;(B) The information was provided or made available to the United States Government on the condition that it not be released to the public.
 
-&emsp;&emsp;(C) The information is an item of information, or is in a category of information, that the national security official concerned has specified in regulations prescribed under subsection (f) <sup>1</sup> as being information the release of which would have an adverse effect on the ability of the United States Government to obtain the same or similar information in the future.
+&emsp;&emsp;(C) The information is an item of information, or is in a category of information, that the national security official concerned has specified in regulations prescribed under subsection (g) as being information the release of which would have an adverse effect on the ability of the United States Government to obtain the same or similar information in the future.
 
 (c)
 
-Information of Other Agencies.—If the national security official concerned provides to the head of another agency sensitive information of a foreign government, as determined by that national security official under subsection (b), and informs the head of the other agency of that determination, then the head of the other agency shall withhold the information from any public disclosure unless that national security official specifically authorizes the disclosure.
+Information of Other Agencies.—If the national security official concerned provides tothe head of another agency sensitive information of a foreign government, as determined by that national security official under subsection (b), and informs the head of the other agency of that determination, then the head of the other agency shall withhold the information from any public disclosure unless that national security official specifically authorizes the disclosure.
 
 (d)
 
-Limitations.—(1) If a request for disclosure covers any sensitive information of a foreign government (as described in subsection (b)) that came into the possession or under the control of the United States Government before the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 and more than 25 years before the request is received by an agency, the information may be withheld only as set forth in paragraph (3).
+Limitations.—(1) If a request for disclosure covers any sensitive information of a foreign government (as described in subsection (b)) that came into the possession or under the control of the United States Government before October 30, 2000, and more than 25 years before the request is received by an agency, the information may be withheld only as set forth in paragraph (3).
 
 (2)(A) If a request for disclosure covers any sensitive information of a foreign government (as described in subsection (b)) that came into the possession or under the control of the United States Government on or after the date referred to in paragraph (1), the authority to withhold the information under this section is subject to the provisions of subparagraphs (B) and (C).
 
@@ -80,11 +80,15 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) An official mission, except a United States mission, to a public international organization referred to in subparagraph (A) or (B).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1073(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–277.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1073(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–277; Pub. L. 107–107, div. A, title X, §1048(a)(3), (c)(1), Dec. 28, 2001, 115 Stat. 1222, 1226.)
 
 #### References in Text
 
-The date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 106–398 which was approved Oct. 30, 2000.
+The International Organizations Immunities Act, referred to in subsec. (h)(3)(A), is title I of act Dec. 29,1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
-The International Organizations Immunities Act, referred to in subsec. (h)(3)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+#### Amendments
+
+2001—Subsec. (b)(3)(C). Pub. L. 107–107, §1048(a)(3), substituted “subsection (g)” for “subsection (f)”.
+
+Subsec. (d)(1). Pub. L. 107–107, §1048(c)(1), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
 

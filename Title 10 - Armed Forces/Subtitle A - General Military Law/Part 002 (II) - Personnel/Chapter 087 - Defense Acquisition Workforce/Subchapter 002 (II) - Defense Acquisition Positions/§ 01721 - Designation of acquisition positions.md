@@ -2,7 +2,7 @@
 
 (a)
 
-Designation.—The Secretary of Defense shall designate in regulations those positions in the Department of Defense that are acquisition positions for purposes of this chapter.
+Designation.—The Secretary of Defense shall designate in regulations those positions inthe Department of Defense that are acquisition positions for purposes of this chapter.
 
 (b)
 

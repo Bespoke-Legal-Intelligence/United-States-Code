@@ -42,7 +42,7 @@ The date of enactment of this Act, referred to in subsec. (a), is the date of en
 
 The Health and Safety Academy, referred to in subsec. (a), probably means the National Mine Health and Safety Academy. See section 952(c) of this title.
 
-The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(1), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, which is classified principally to this chapter (§801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(1), is Pub. L. 91–173, Dec. 30, 1969,83 Stat. 742, as amended by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, which is classified principally to this chapter (§801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 For the time this section takes effect, referred to in subsec. (c)(2) and (4), see Effective Date of 1977 Amendment note set out under section 801 of this title.
 

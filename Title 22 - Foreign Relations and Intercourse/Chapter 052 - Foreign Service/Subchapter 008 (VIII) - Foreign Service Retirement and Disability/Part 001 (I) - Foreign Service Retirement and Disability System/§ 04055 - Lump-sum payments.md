@@ -64,7 +64,7 @@ Annuity accrued and unpaid on the death of a survivor annuitant shall be paid in
 
 #### (i) Former spouses
 
-Unless otherwise expressly provided by any spousal agreement or court order under section4060(b)(1) of this title, the amount of a participant's or former participant's lump-sum credit payable to a former spouse of that participant shall be—
+Unless otherwise expressly provided by any spousal agreement or court order under section 4060(b)(1) of this title, the amount of a participant's or former participant's lump-sum credit payable to a former spouse of that participant shall be—
 
 &emsp;(1) if the former spouse was married to the participant throughout the period of creditable service of the participant, 50 percent of the lump-sum credit to which such participant would be entitled in the absence of this subsection, or
 

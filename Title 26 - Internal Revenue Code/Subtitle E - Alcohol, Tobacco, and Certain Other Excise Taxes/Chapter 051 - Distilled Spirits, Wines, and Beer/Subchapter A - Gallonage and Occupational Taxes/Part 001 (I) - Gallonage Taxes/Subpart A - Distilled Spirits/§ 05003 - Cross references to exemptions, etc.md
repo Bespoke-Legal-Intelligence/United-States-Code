@@ -56,5 +56,5 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Section 7 of Pub. L. 95–176 provided that: “The amendments made by this Act \[amending this section and sections 5004, 5005, 5008, 5025, 5062, 5066, 5175, 5178, 5205, 5207, 5214, 5215, and 5234 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Nov. 14, 1977\].”
+Section 7 of Pub. L. 95–176 provided that: “The amendments made by this Act \[amending this sectionand sections 5004, 5005, 5008, 5025, 5062, 5066, 5175, 5178, 5205, 5207, 5214, 5215, and 5234 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Nov. 14, 1977\].”
 

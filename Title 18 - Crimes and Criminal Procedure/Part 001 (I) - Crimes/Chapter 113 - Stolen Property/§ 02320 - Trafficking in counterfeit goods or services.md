@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(iii) the use of which is likely to cause confusion, to cause mistake, or to deceive; or
 
-&emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220706 of title 36;
+&emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220706 <sup>1</sup> of title 36;
 
 > &emsp;but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
 
@@ -44,7 +44,7 @@
 
 &emsp;(3) The number of cases referred by other agencies or sources.
 
-&emsp;(4) The number and outcome, including settlements, sentences, recoveries, and penalties,of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of title 18.
+&emsp;(4) The number and outcome, including settlements, sentences, recoveries, and penalties, of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of title 18.
 
 (Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244.)
 
@@ -85,4 +85,6 @@ Pub. L. 105–354, §2(c), Nov. 3, 1998, 112 Stat. 3244, provided that the amend
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1956, 1961 of this title; title 19 section 1595a; title 49 section 80302.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “220506”.</i>
 

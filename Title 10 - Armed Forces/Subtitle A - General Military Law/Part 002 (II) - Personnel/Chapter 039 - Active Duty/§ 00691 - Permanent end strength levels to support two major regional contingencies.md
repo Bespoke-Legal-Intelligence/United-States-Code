@@ -6,11 +6,11 @@
 
 &emsp;(1) For the Army, 480,000.
 
-&emsp;(2) For the Navy, 372,000.
+&emsp;(2) For the Navy, 376,000.
 
 &emsp;(3) For the Marine Corps, 172,600.
 
-&emsp;(4) For the Air Force, 357,000.
+&emsp;(4) For the Air Force, 358,800.
 
 (c) The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
@@ -20,9 +20,13 @@
 
 (f) The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under section 115(a)(1) of this title.
 
-(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, §402(a), title X, §1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§402(a), 403\], Oct. 30, 2000, 114 Stat. 1654, 1654A–92.)
+(Added Pub. L. 104–106, div. A, title IV, §401(b)(1), Feb. 10, 1996, 110 Stat. 285; amended Pub. L. 104–201, div. A, title IV, §402, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 105–85, div. A, title IV, §402, Nov. 18, 1997, 111 Stat. 1719; Pub. L. 105–261, div. A, title IV, §402(a), (b), Oct. 17, 1998, 112 Stat. 1995, 1996; Pub. L. 106–65, div. A, title IV, §402(a), title X, §1066(b)(1), Oct. 5, 1999, 113 Stat. 585, 772; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§402(a), 403\], Oct. 30, 2000, 114 Stat. 1654, 1654A–92; Pub. L. 107–107, div. A, title IV, §402, Dec. 28, 2001, 115 Stat. 1069.)
 
 #### Amendments
+
+2001—Subsec. (b)(2). Pub. L. 107–107, §402(1), substituted “376,000” for “372,000”.
+
+Subsec. (b)(4). Pub. L. 107–107, §402(2), substituted “358,800” for “357,000”.
 
 2000—Subsec. (b)(2) to (4). Pub. L. 106–398, §1 \[\[div. A\], title IV, §402(a)\], substituted “372,000” for “371,781” in par. (2), “172,600” for “172,148” in par. (3), and “357,000” for “360,877” in par. (4).
 
@@ -62,5 +66,5 @@ Pub. L. 106–65, div. A, title X, §1066(b), Oct. 5, 1999, 113 Stat. 772, provi
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title IV, §402(c), Oct. 17, 1998, 112 Stat. 1996, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 1998.”
+Pub. L. 105–261, div. A, title IV, §402(c), Oct. 17, 1998, 112 Stat. 1996, provided that: “The amendments madeby this section \[amending this section\] shall take effect on October 1, 1998.”
 

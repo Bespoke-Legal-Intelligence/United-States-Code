@@ -8,7 +8,7 @@
 
 (4) If such a request is not made or if such store, concern, or State agency fails to submit information in support of its position after filing a request, the administrative determination shall be final.
 
-(5) If such request is made by such store, concern, or State agency, such information as may be submitted by the store, concern, or State agency, as well as such other information as may be available, shall be reviewed by the person or persons designated by the Secretary, who shall, subject to the right of judicial review hereinafter provided, make a determination which shall be final and which shall take effect thirty days after the date of the delivery or service of such final notice of determination.
+(5) If such request is made by such store, concern, or State agency, such information as maybe submitted by the store, concern, or State agency, as well as such other information as may be available, shall be reviewed by the person or persons designated by the Secretary, who shall, subject to the right of judicial review hereinafter provided, make a determination which shall be final and which shall take effect thirty days after the date of the delivery or service of such final notice of determination.
 
 (6) Determinations regarding claims made pursuant to section 2025(c) of this title (including determinations as to whether there is good cause for not imposing all or a portion of the penalty) shall be made on the record after opportunity for an agency hearing in accordance with section 556 and 557 of title 5 in which one or more administrative law judges appointed pursuant to section 3105 of such title shall preside over the taking of evidence.
 
@@ -36,7 +36,7 @@
 
 (18)
 
-Suspension of stores pending review.—Notwithstanding any other provision of this subsection, any permanent disqualification of a retail food store or wholesale food concern under paragraph (3) or (4) of section 2021(b) of this title shall be effective from the date of receipt of the notice of disqualification. If the disqualificationis reversed through administrative or judicial review, the Secretary shall not be liable for the value of any sales lost during the disqualification period.
+Suspension of stores pending review.—Notwithstanding any other provision of this subsection, any permanent disqualification of a retail food store or wholesale food concern under paragraph (3) or (4) of section 2021(b) of this title shall be effective from the date of receipt of the notice of disqualification. If the disqualification is reversed through administrative or judicial review, the Secretary shall not be liable for the value of any sales lost during the disqualification period.
 
 (b) In any judicial action arising under this chapter, any food stamp allotments found to have been wrongfully withheld shall be restored only for periods of not more than one year prior to the date of the commencement of such action, or in the case of an action seeking review of a final State agency determination, not more than one year prior to the date of the filing of a request with the State for the restoration of such allotments or, in either case, not more than one year prior to the date the State agency is notified or otherwise discovers the possible loss to a household.
 
@@ -50,7 +50,7 @@ The Federal Rules of Evidence, referred to in subsec. (a)(7), are set out in the
 
 1996—Subsec. (a). Pub. L. 104–193 designated first through seventeenth sentences as pars. (1) to (17), respectively, and added par. (18).
 
-1993—Subsec. (a). Pub. L. 103–66 inserted “(including determinations as to whether there is good cause for not imposing all or a portion of the penalty)” after “Determinations regarding claims made pursuant to section 2025(c) of this title” in sixth sentence and struck out at end “Notwithstanding the administrative or judicial review procedures set forth in this subsection, determinations by the Secretary concerning whether a State agency had good cause for its failure to meet error rate tolerance levels established under section 2025(c) of this title are final.”
+1993—Subsec. (a). Pub. L. 103–66 inserted “(including determinations as to whether there is good cause for not imposing all or a portion of the penalty)” after “Determinations regarding claims made pursuant to section 2025(c) of this title” in sixth sentence and struck out at end “Notwithstanding the administrative or judicial review procedures set forth in this subsection, determinations by the Secretary concerningwhether a State agency had good cause for its failure to meet error rate tolerance levels established under section 2025(c) of this title are final.”
 
 1988—Subsec. (a). Pub. L. 100–435 inserted provisions relating to judicial review and determinations regarding excessive payment error rate claims pursuant to section 2025(c) of this title.
 

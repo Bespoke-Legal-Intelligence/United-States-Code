@@ -18,7 +18,7 @@ Subject to subsection (c)(2) of this section, nothing in this subchapter limits 
 
 #### (2) Limitations on interpretation authority
 
-&emsp;Notwithstanding paragraph (1), a Federal regulatory agency shall not adopt any regulation, order, or guidance described in paragraph\(1), and a State regulatory agency is preempted by section 7001 of this title from adopting any regulation, order, or guidance described in paragraph (1), unless—
+&emsp;Notwithstanding paragraph (1), a Federal regulatory agency shall not adopt any regulation, order, or guidance described in paragraph (1), and a State regulatory agency is preempted by section 7001 of this title from adopting any regulation, order, or guidance described in paragraph (1), unless—
 
 &emsp;&emsp;(A) such regulation, order, or guidance is consistent with section 7001 of this title;
 
@@ -84,5 +84,5 @@ The Federal Communications Commission shall not hold any contract for telecommun
 
 The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of Title 44, Public Printing and Documents, and enacted provisions set out as a note under section 3504 of Title 44. For complete classification of this Act to the Code, see Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally tosubchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 

@@ -2,7 +2,7 @@
 
 There is hereby authorized to be appropriated annually to the Department of State, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for the payment by the United States of its share of the expenses of the United Nations as apportioned by the General Assembly in accordance with article 17 of the Charter, and for all necessary salaries and expenses of the representatives provided for in section 287 of this title, and of their appropriate staffs, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; travel expenses without regard to the Standardized Government Travel Regulations, as amended, subchapter I of chapter 57 and section 5731 of title 5 and, under such rules and regulations as the Secretary of State may prescribe, travel expenses of families and transportation of effects of United States representatives and other personnel in going to and returning from their post of duty; allowances for living quarters, including heat, fuel, and light, as authorized by section 5912 of title 5; cost-of-living allowances for personnel stationed abroad under such rules and regulations as the Secretary of State may prescribe; communications services; stenographic reporting, translating, and other services, by contract; hire of passenger motor vehicles and other local transportation; rent of offices; printing and binding without regard to section 501 of title 44; allowances and expenses as provided in section 287r of this title, and allowances and expenses equivalent to those provided in section 4085 of this title; the lease or rental (for periods not exceeding ten years) of living quarters for the use of the representatives provided for in section 287 of this title serving abroad and of their appropriate staffs the cost of installation and use of telephones in the same manner as telephone service is provided for use of the Foreign Service pursuant to section 1348 of title 31, and unusual expenses similar to those authorized by section 5913 of title 5, incident to the operation and maintenance of such living quarters abroad; and such other expenses as may be authorized by the Secretary of State; all without regard to section 5 of title 41.
 
-(Dec. 20, 1945, ch. 583, §8, formerly §7, 59 Stat. 621, renumbered and amended Oct. 10, 1949, ch. 660, §6, 63 Stat. 736; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Pub. L. 86–707, title III, §311(b), Sept. 6, 1960, 74 Stat. 797; Pub. L. 96–465, title II, §2206(a)(2)(B), Oct. 17,1980, 94 Stat. 2161; Pub. L. 97–241, title I, §119, Aug. 24, 1982, 96 Stat. 280; Pub. L. 100–459, title III, §304(a), Oct. 1, 1988, 102 Stat. 2207.)
+(Dec. 20, 1945, ch. 583, §8, formerly §7, 59 Stat. 621, renumbered and amended Oct. 10, 1949, ch. 660, §6, 63 Stat. 736; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Pub. L. 86–707, title III, §311(b), Sept. 6, 1960, 74 Stat. 797; Pub. L. 96–465, title II, §2206(a)(2)(B), Oct. 17, 1980, 94 Stat. 2161; Pub. L. 97–241, title I, §119, Aug. 24, 1982, 96 Stat. 280; Pub. L. 100–459, title III, §304(a), Oct. 1, 1988, 102 Stat. 2207.)
 
 #### References in Text
 
@@ -34,7 +34,7 @@ The civil-service laws, referred to in text, are set forth in Title 5, Governmen
 
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-Act Oct. 10, 1949, which renumbered section as section 8 of act Dec. 20, 1945, from section 7, authorized lease or rental, for periods not to exceed 10 years, of a residence for our representative to the United Nations, and clarified references to the civil service and classification laws, subsistence allowances, and travel expense.
+Act Oct. 10, 1949, which renumbered section as section 8 of act Dec. 20, 1945, from section 7, authorized lease orrental, for periods not to exceed 10 years, of a residence for our representative to the United Nations, and clarified references to the civil service and classification laws, subsistence allowances, and travel expense.
 
 #### Effective Date of 1988 Amendment
 
@@ -51,6 +51,16 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 #### Annual Appropriations
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
+
+#### Taxation of Internet or International Currency Transactions
+
+Pub. L. 107–77, title IV, §404, Nov. 28, 2001, 115 Stat. 789, provided that: “Hereafter, none of the funds appropriated or otherwise made available for the United Nations may be used by the United Nations for the promulgation or enforcement of any treaty, resolution, or regulation authorizing the United Nations, or any of its specialized agencies or affiliated organizations, to tax any aspect of the Internet or international currency transactions.”
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 106–553, §1(a)(2) \[title IV, §405\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96.
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title IV, §406\], Nov. 29, 1999, 113 Stat. 1535, 1501A–45.
 
 #### Refund of Excess Contributions
 
@@ -72,7 +82,7 @@ Prohibition.—No funds authorized to be appropriated by this Act or any other A
 
 “(b)
 
-Transfer or Reprogramming.—Funds subject to the prohibition contained in subsection (a) which would be available for the United Nations or any specialized agency thereof (but for that prohibition) are authorizedto remain available until expended and may be reprogrammed or transferred to any other account of the Department of State or the Agency for International Development to carry out the general purposes for which such funds were authorized.”
+Transfer or Reprogramming.—Funds subject to the prohibition contained in subsection (a) which would be available for the United Nations or any specialized agency thereof (but for that prohibition) are authorized to remain available until expended and may be reprogrammed or transferred to any other account of the Department of State or the Agency for International Development to carry out the general purposes for which such funds were authorized.”
 
 #### Probable Exemptions to United Nations Employee Hiring Freeze
 
@@ -224,7 +234,7 @@ Pub. L. 98–164, title I, §114, Nov. 22, 1983, 97 Stat. 1020, as amended by Pu
 
 &emsp;“(6) 25 percent of the amount budgeted for any other United Nations agency or conference whose sole or partial purpose is to implement the provisions of General Assembly Resolution 33/79; and
 
-&emsp;“(7) 25 percent of the amount budgeted for the General Assembly-approved $73,500,000 conference centerto be constructed for the Economic Commission for Africa (ECA) in the Ethiopian capital of Addis Ababa.
+&emsp;“(7) 25 percent of the amount budgeted for the General Assembly-approved $73,500,000 conference center to be constructed for the Economic Commission for Africa (ECA) in the Ethiopian capital of Addis Ababa.
 
 “(b) Funds appropriated for any fiscal year for the Department of State for ‘International Organizations and Conferences’ may not be used for payment by the United States, as its contribution toward the assessed budget of any specialized agency of the United Nations for any year, of any amount which would cause the total amount paid by the United States as its assessed contribution for that year to exceed the amount assessed as the United States contribution for that year less 25 per centum of the amount budgeted by such agency for that year for projects whose primary purpose is to provide benefits to the Palestine Liberation Organization or entities associated with it or to the South West Africa People's Organization.
 
@@ -244,7 +254,7 @@ Pub. L. 103–236, title IV, §404(b)(1), (2), Apr. 30, 1994, 108 Stat. 447, pro
 
 “(1)
 
-Fiscal years 1994 and 1995.—Funds authorized to be appropriated for ‘Contributions for International Peacekeeping Activities’ for fiscal years 1994 and 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 30.4 percent of the total of all assessed contributions for that operation, notwithstanding the last sentence of the paragraph headed ‘Contributions to International Organizations’ in Public Law 92–544, as amended by section 203 of the Foreign Relations Authorization Act, Fiscal Year 1976 (22 U.S.C. 287e note).
+Fiscal years 1994 and 1995.—Funds authorized to be appropriated for ‘Contributions for International Peacekeeping Activities’ for fiscal years 1994 and 1995 shall not be available for the payment of the United States assessed contribution for a United Nationspeacekeeping operation in an amount which is greater than 30.4 percent of the total of all assessed contributions for that operation, notwithstanding the last sentence of the paragraph headed ‘Contributions to International Organizations’ in Public Law 92–544, as amended by section 203 of the Foreign Relations Authorization Act, Fiscal Year 1976 (22 U.S.C. 287e note).
 
 “(2)
 

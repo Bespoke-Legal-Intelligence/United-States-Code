@@ -6,7 +6,7 @@ The Attorney General may make grants, on a competitive basis, to States to carry
 
 #### (b) Preferences
 
-For the purpose of making grants under subsection (a) of this section, the Attorney General shall give preference to a State that includes in the application required by section 13892 of this title assurances that if the State receives a grant—
+For the purpose of making grants under subsection (a) of this section, the Attorney General shall give preference to a State that includes inthe application required by section 13892 of this title assurances that if the State receives a grant—
 
 &emsp;(1) both the State corrections agency and the State health and human services agency will participate substantially in, and cooperate closely in all aspects of, the development and operation of the family unity demonstration project for which such a grant is requested;
 

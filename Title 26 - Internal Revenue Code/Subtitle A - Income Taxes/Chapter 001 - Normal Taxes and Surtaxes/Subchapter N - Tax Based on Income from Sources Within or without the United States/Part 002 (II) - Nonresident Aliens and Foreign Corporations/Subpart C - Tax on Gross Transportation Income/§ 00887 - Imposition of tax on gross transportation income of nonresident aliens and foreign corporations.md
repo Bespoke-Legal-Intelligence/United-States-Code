@@ -8,7 +8,7 @@ In the case of any nonresident alien individual or foreign corporation, there is
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), the term “United States source gross transportation income” means any gross income which is transportation income (as defined in section 863(c)(3)) to the extent such income is treated as from sources in the United States under section 863(c)(2). To the extent provided in regulations, such term does not include any income of a kind to which an exemption under paragraph (1) or (2) of section 883(a) would not apply.
+&emsp;Except as provided in paragraphs (2) and (3), the term “United States source gross transportation income” means any gross income which is transportation income (as defined in section 863(c)(3)) to the extent such income is treated as from sources in the United States under section 863(c)(2). To the extent provided in regulations, such term does not include anyincome of a kind to which an exemption under paragraph (1) or (2) of section 883(a) would not apply.
 
 #### (2) Exception for certain income effectively connected with business in the United States
 
@@ -56,7 +56,7 @@ Section applicable to taxable years beginning after Dec. 31, 1986, see section 1
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 1212(b)(1) of Pub. L. 99–514 (enacting this section) to theextent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 1212(b)(1) of Pub. L. 99–514 (enacting this section) to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Section Referred to in Other Sections
 

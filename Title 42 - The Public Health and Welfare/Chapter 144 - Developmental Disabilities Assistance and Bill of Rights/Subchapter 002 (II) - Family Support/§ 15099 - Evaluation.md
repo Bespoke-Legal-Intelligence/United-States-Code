@@ -12,7 +12,7 @@ The Secretary shall conduct a national evaluation of the program of grants to St
 
 #### (2) Information systems
 
-&emsp;The Secretary shall work with the States to develop an information system designed to compile and report, from information provided by the States, qualitative and quantitative descriptions of the impact of the program ofgrants to States authorized by this subchapter on—
+&emsp;The Secretary shall work with the States to develop an information system designed to compile and report, from information provided by the States, qualitative and quantitative descriptions of the impact of the program of grants to States authorized by this subchapter on—
 
 &emsp;&emsp;(A) families of children with disabilities, including families from unserved and underserved populations;
 

@@ -40,7 +40,7 @@ To enable the Environmental Protection Agency to carry out subsections (b), (c),
 
 #### (g) Priority for efficient energy use
 
-In view of the high energy usage per unit of output in Hungary and Poland, the Secretary of Energy shall give high priority to assisting officials of Poland and Hungary in improving the efficiency of their energy use, through emphasis on such measures as efficient motors, lights,gears, and appliances and improvements in building insulation and design.
+In view of the high energy usage per unit of output in Hungary and Poland, the Secretary of Energy shall give high priority to assisting officials of Poland and Hungary in improving the efficiency of their energy use, through emphasis on such measures as efficient motors, lights, gears, and appliances and improvements in building insulation and design.
 
 #### (h) Alternative investments in energy in Hungary
 

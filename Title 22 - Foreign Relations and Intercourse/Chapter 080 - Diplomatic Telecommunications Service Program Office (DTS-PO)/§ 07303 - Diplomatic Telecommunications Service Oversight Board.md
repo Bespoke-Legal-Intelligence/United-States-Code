@@ -8,7 +8,7 @@
 
 #### (2) Status
 
-&emsp;The Board shall oversee and monitor the operations of DTS-PO and shall be accountablefor the duties assigned to DTS-PO under this chapter.
+&emsp;The Board shall oversee and monitor the operations of DTS-PO and shall be accountable for the duties assigned to DTS-PO under this chapter.
 
 #### (3) Membership
 

@@ -34,7 +34,7 @@ Notwithstanding subsection (a) of this section, it shall be unlawful for any reg
 
 #### (e) Refund privileges; notice; rules
 
-With respect to any periodic payment plan certificate sold subject to the provisions of subsection (d) of this section, the registered investment company issuing such periodic payment plan certificate, or any depositor of or underwriter for such company, shall in writing (1) inform each certificate holder who has missed three payments or more, within thirty days following the expiration of fifteen months after the issuance of the certificate, or, if any such holder has missed one payment or more after such period of fifteen months but prior to the expiration of eighteen months after the issuance of the certificate, at any time prior to the expiration of such eighteen-month period, of his right to surrender his certificate as specified in subsection (d) of this section, and (2) inform the certificate holder of (A) the value of the holder'saccount as of the time the written notice was given to such holder, and (B) the amount to which he is entitled as specified in subsection (d) of this section. The Commission may make rules specifying the method, form, and contents of the notice required by this subsection.
+With respect to any periodic payment plan certificate sold subject to the provisions of subsection (d) of this section, the registered investment company issuing such periodic payment plan certificate, or any depositor of or underwriter for such company, shall in writing (1) inform each certificate holder who has missed three payments or more, within thirty days following the expiration of fifteen months after the issuance of the certificate, or, if any such holder has missed one payment or more after such period of fifteen months but prior to the expiration of eighteen months after the issuance of the certificate, at any time prior to the expiration of such eighteen-month period, of his right to surrender his certificate as specified in subsection (d) of this section, and (2) inform the certificate holder of (A) the value of the holder's account as of the time the written notice was given to such holder, and (B) the amount to which he is entitled as specified in subsection (d) of this section. The Commission may make rules specifying the method, form, and contents of the notice required by this subsection.
 
 #### (f) Charges, statement; rules; surrender of certificates; regulations
 
@@ -70,9 +70,13 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(A) such contract is a redeemable security; and
 
-&emsp;(B) the insurance company complies with section 80a–26(e) of this title and any rules or regulations issued by the Commission under section 80a–26(e) of this title.
+&emsp;(B) the insurance company complies with section 80a–26(e) <sup>1</sup> of this title and any rules or regulations issued by the Commission under section 80a–26(e) <sup>1</sup> of this title.
 
-(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Pub. L. 91–547, §16, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 92–165, Nov. 23, 1971, 85 Stat. 487; Pub. L. 104–290, title II, §205(b), Oct. 11, 1996, 110 Stat. 3429.)
+(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Pub. L. 91–547, §16, Dec. 14, 1970, 84 Stat. 1424;Pub. L. 92–165, Nov. 23, 1971, 85 Stat. 487; Pub. L. 104–290, title II, §205(b), Oct. 11, 1996, 110 Stat. 3429.)
+
+#### References in Text
+
+Section 80a–26(e) of this title, referred to in subsec. (i)(2)(B), was redesignated section 80a–26(f) by Pub. L. 106–102, title II, §211(b)(1), Nov. 12, 1999, 113 Stat. 1396.
 
 #### Amendments
 
@@ -84,7 +88,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) ofPub. L. 91–547, set out as a note under section 80a–52 of this title.
+Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
 
 #### Transfer of Functions
 
@@ -93,4 +97,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 #### Section Referred to in Other Sections
 
 This section is referred to in section 80a–6 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

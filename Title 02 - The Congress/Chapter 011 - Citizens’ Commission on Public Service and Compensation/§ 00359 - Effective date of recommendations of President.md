@@ -10,7 +10,7 @@
 
 &emsp;(II) with full recognition of the constitutional right of either House to change the rules (so far as they relate to the procedures of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-(ii) During the 60-calendar-day period beginning on the date that the President transmits his recommendations to the Congress under section 358 of this title, it shall be in order as a matter of highest privilege in each House of Congress to consider a bill or joint resolution, if offered by the majority leader of such House (or a designee), approving such recommendations in their entirety.
+(ii) During the 60-calendar-day period beginning on the date that the President transmitshis recommendations to the Congress under section 358 of this title, it shall be in order as a matter of highest privilege in each House of Congress to consider a bill or joint resolution, if offered by the majority leader of such House (or a designee), approving such recommendations in their entirety.
 
 (3) Except as provided in paragraph (4), any recommended pay adjustment approved under paragraph (2) shall take effect as of the date proposed by the President under section 358 of this title with respect to such adjustment.
 

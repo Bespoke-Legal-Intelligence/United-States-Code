@@ -24,7 +24,7 @@
 
 &emsp;(C) the private sector upon request in appropriate cases.
 
-(4) In carrying out his functions under this subsection, the Chairman shall utilize, when feasible, the existing data base of scientific and technical information in Federal agencies, adding to such data base any information describedin paragraph (2) which does not already reside in such base. He shall coordinate or merge this data bank with other Federal energy information data banks as necessary to assure efficient and effective operation.
+(4) In carrying out his functions under this subsection, the Chairman shall utilize, when feasible, the existing data base of scientific and technical information in Federal agencies, adding to such data base any information described in paragraph (2) which does not already reside in such base. He shall coordinate or merge this data bank with other Federal energy information data banks as necessary to assure efficient and effective operation.
 
 #### (b) Studies and research to promote consumer acceptance and utilization of solar energy technologies
 
@@ -40,5 +40,5 @@ The Chairman shall enter into such arrangements and take such other steps as may
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
 
-Functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development transferred to Administrator of Energy Research and Development Administration by section 5814(f) of this title. Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
+Functions of National Science Foundation relating to or utilized in connection with solar heating and coolingdevelopment transferred to Administrator of Energy Research and Development Administration by section 5814(f) of this title. Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 

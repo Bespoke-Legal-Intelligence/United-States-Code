@@ -146,7 +146,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) in the case of the taxpayer's 8th such taxable year, 1/2 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, and 7th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
 
-&emsp;&emsp;&emsp;&emsp;(V) in the case of the taxpayer's 9th such taxable year, 2/3 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, and 8th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
+&emsp;&emsp;&emsp;&emsp;(V) in the case of the taxpayer's 9th such taxable year, 2/3 of the percentagewhich the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, and 8th such taxable years is of the aggregate gross receipts of the taxpayer for such years,
 
 &emsp;&emsp;&emsp;&emsp;(VI) in the case of the taxpayer's 10th such taxable year, 5/6 of the percentage which the aggregate qualified research expenses of the taxpayer for the 5th, 6th, 7th, 8th, and 9th such taxable years is of the aggregate gross receipts of the taxpayer for such years, and
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “basic research payment” means, with respect to any taxable year, anyamount paid in cash during such taxable year by a corporation to any qualified organization for basic research but only if—
+&emsp;&emsp;The term “basic research payment” means, with respect to any taxable year, any amount paid in cash during such taxable year by a corporation to any qualified organization for basic research but only if—
 
 &emsp;&emsp;&emsp;(i) such payment is pursuant to a written agreement between such corporation and such qualified organization, and
 
@@ -360,7 +360,7 @@ For purposes of this section—
 
 #### (B) Floor amount
 
-&emsp;&emsp;Except in the case of a taxpayer which was in existence during a taxable year (other than a short taxable year) in the base period, the minimum basic research amount for any base period shall not be less than 50 percent of the basic research payments for the taxable year for which a determination is being made under this subsection.
+&emsp;&emsp;Except in the case of a taxpayer which was in existence during a taxable year (other than a short taxable year) in the base period, the minimum basic research amount for anybase period shall not be less than 50 percent of the basic research payments for the taxable year for which a determination is being made under this subsection.
 
 #### (5) Maintenance-of-effort amount
 
@@ -474,7 +474,7 @@ For purposes of this section—
 
 #### (C) Exclusion from incremental credit calculation
 
-&emsp;&emsp;For purposes of determining the amount of credit allowable under subsection (a)(1) for any taxable year, the amount of the basic research payments taken into account under subsection (a)(2)—
+&emsp;&emsp;For purposes of determining the amount of credit allowable under subsection (a)(1) forany taxable year, the amount of the basic research payments taken into account under subsection (a)(2)—
 
 &emsp;&emsp;&emsp;(i) shall not be treated as qualified research expenses under subsection (a)(1)(A), and
 
@@ -552,7 +552,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the amount of the decrease under subparagraph (B) which is allocable to taxable years so taken into account, or
 
-&emsp;&emsp;&emsp;(ii) the product of the number of taxable years so taken into account, multiplied by the amount of the reimbursement described in this subparagraph.
+&emsp;&emsp;&emsp;(ii) the product of the number of taxable years so taken into account, multiplied bythe amount of the reimbursement described in this subparagraph.
 
 #### (4) Short taxable years
 
@@ -598,7 +598,7 @@ In the case of an individual who—
 
 #### Prior Provisions
 
-A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 95 Stat. 289, §44G; amended Pub. L. 97–448, title I, §103(g)(1), Jan. 12, 1983, 96 Stat. 2379; renumbered §41 and amended Pub. L. 98–369, div. A, title I, §14, title IV, §§471(c), 474(<i>l</i>), 491(e)(2), (3), July 18, 1984, 98 Stat. 505, 826, 833, 852, 853, related to employee stock ownership credit, prior to repeal by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513, applicable to compensation paid or accrued after Dec. 31,1986, in taxable years ending after such date, except as otherwise provided, see section 1171(c) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 38 of this title. For transition rules relating to such repeal, see section 1177 of Pub. L. 99–514, set out as a Transition Rules note under section 38 of this title.
+A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 95 Stat. 289, §44G; amended Pub. L. 97–448, title I, §103(g)(1), Jan. 12, 1983, 96 Stat. 2379; renumbered §41 and amended Pub. L. 98–369, div. A, title I, §14, title IV, §§471(c), 474(<i>l</i>), 491(e)(2), (3), July 18, 1984, 98 Stat. 505, 826, 833, 852, 853, related to employee stock ownership credit, prior to repeal by Pub. L. 99–514, title XI, §1171(a), Oct. 22, 1986, 100 Stat. 2513, applicable to compensation paid or accrued after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 1171(c) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 38 of this title. For transition rules relating to such repeal, see section 1177 of Pub. L. 99–514, set out as a Transition Rules note under section 38 of this title.
 
 Another prior section 41 was renumbered section 24 of this title.
 
@@ -618,7 +618,7 @@ Subsec. (h)(1)(B). Pub. L. 106–170, §502(a)(1)(A), substituted “June 30, 20
 
 <b>1998</b>—Subsec. (h)(1). Pub. L. 105–277 substituted “June 30, 1999” for “June 30, 1998” in subpar. (B) and substituted “36-month” for “24-month” and “36 months” for “24 months” in concluding provisions.
 
-<b>1997</b>—Subsec. (c)(4)(B). Pub. L. 105–34, §601(b)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An election under this paragraph may be made only for the first taxable year of the taxpayer beginning after June 30, 1996. Such an election shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.”
+<b>1997</b>—Subsec. (c)(4)(B). Pub. L. 105–34, §601(b)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “An election under this paragraph may be made only for the first taxable year of the taxpayer beginning after June 30, 1996. Such an election shall apply to the taxable yearfor which made and all succeeding taxable years unless revoked with the consent of the Secretary.”
 
 Subsec. (h)(1). Pub. L. 105–34, §601(a), substituted “June 30, 1998” for “May 31, 1997” in subpar. (B) and “during the 24-month period beginning with the first month of such year. The 24 months referred to in the preceding sentence shall be reduced by the number of full months after June 1996 (and before the first month of such first taxable year) during which the taxpayer paid or incurred any amount which is taken into account in determining the credit under this section.” for “during the first 11 months of such taxable year.” in concluding provisions.
 
@@ -672,7 +672,7 @@ Subsec. (f)(3)(A). Pub. L. 101–239, §7110(b)(2)(D), substituted “December 3
 
 Subsec. (f)(3)(B). Pub. L. 101–239, §7110(b)(2)(E), substituted “December 31, 1983” for “June 30, 1980” in introductory provisions and inserted before period at end “, and the gross receipts of the taxpayer for such periods shall be decreased by so much of the gross receipts as is attributable to such portion”.
 
-Subsec. (f)(3)(C). Pub. L. 101–239, §7110(b)(2)(F), substituted “Certain reimbursements taken into account in determining fixed-base percentage” for “Increase in base period” in heading, “for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of” for “for the base period for such taxable year shall be increased by thelesser of” in introductory provisions, and new cls. (i) and (ii) for former cls. (i) and (ii) which read as follows:
+Subsec. (f)(3)(C). Pub. L. 101–239, §7110(b)(2)(F), substituted “Certain reimbursements taken into account in determining fixed-base percentage” for “Increase in base period” in heading, “for the taxable years taken into account in computing the fixed-base percentage shall be increased by the lesser of” for “for the base period for such taxable year shall be increased by the lesser of” in introductory provisions, and new cls. (i) and (ii) for former cls. (i) and (ii) which read as follows:
 
 “(i) the amount of the decrease under subparagraph (B) which is allocable to such base period, or
 
@@ -696,7 +696,7 @@ Subsec. (h). Pub. L. 100–647, §4008(b)(1), added subsec. (h). Former subsec. 
 
 Subsec. (i). Pub. L. 100–647, §4008(b)(1), redesignated former subsec. (h) as (i).
 
-Pub. L. 100–647, §4007(a), substituted “1989” and “1990” for “1988” and “1989”, respectively, wherever appearing in subsec. (h), prior to redesignation as subsec. (i) by Pub. L. 100–647, §4008(b)(1).
+Pub. L. 100–647, §4007(a), substituted “1989” and “1990” for “1988” and “1989”, respectively, wherever appearingin subsec. (h), prior to redesignation as subsec. (i) by Pub. L. 100–647, §4008(b)(1).
 
 <b>1986</b>—Pub. L. 99–514, §231(d)(2), renumbered section 30 of this title as this section.
 

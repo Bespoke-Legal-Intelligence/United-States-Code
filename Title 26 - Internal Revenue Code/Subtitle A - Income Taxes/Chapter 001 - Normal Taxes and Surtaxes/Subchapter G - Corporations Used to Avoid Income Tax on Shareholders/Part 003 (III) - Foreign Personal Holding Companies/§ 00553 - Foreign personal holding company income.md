@@ -22,7 +22,7 @@ For purposes of this subtitle, the term “foreign personal holding company inco
 
 #### (5) Personal service contracts
 
-&emsp;&emsp;(A) Amounts received under a contract under which the corporation is to furnishpersonal services; if some person other than the corporation has the right to designate (by name or by description) the individual who is to perform the services, or if the individual who is to perform the services is designated (by name or by description) in the contract; and
+&emsp;&emsp;(A) Amounts received under a contract under which the corporation is to furnish personal services; if some person other than the corporation has the right to designate (by name or by description) the individual who is to perform the services, or if the individual who is to perform the services is designated (by name or by description) in the contract; and
 
 &emsp;&emsp;(B) amounts received from the sale or other disposition of such a contract.
 
@@ -34,7 +34,7 @@ For purposes of this subtitle, the term “foreign personal holding company inco
 
 #### (7) Rents
 
-&emsp;Rents, unless constituting 50 percent or more of the gross income. For purposes of this paragraph, the term “rents” means compensation, however designated, for the use of, or right to use, property, but does not include amounts constituting foreign personal holding company income under paragraph (6).
+&emsp;Rents, unless constituting 50 percent or more of the gross income. For purposes of thisparagraph, the term “rents” means compensation, however designated, for the use of, or right to use, property, but does not include amounts constituting foreign personal holding company income under paragraph (6).
 
 #### (b) Limitation on gross income in certain transactions
 

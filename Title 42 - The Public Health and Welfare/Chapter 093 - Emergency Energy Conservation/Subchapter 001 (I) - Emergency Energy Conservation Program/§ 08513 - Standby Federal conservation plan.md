@@ -46,7 +46,7 @@ Any finding under subsection (b) of this section shall be accompanied by such in
 
 (3) If the Secretary approves measures under this subsection such Federal measure shall cease to be effective in that State or political subdivision. Nothing in this paragraph shall affect any action or pending proceedings, administrative or civil, not finally determined on the date the Federal measure ceases to be effective in that State or political subdivision, nor any administrative or civil action or proceeding, whether or not pending, based upon any act committed or liability incurred prior to such cessation of effectiveness.
 
-(4) If the Secretary finds after a reasonable period of time that the requirements of this subsection are not being met under the measures in effect under this subsection he may reimpose the Federal measure referred to in paragraph (1).
+(4) If the Secretary finds after a reasonable period of time that the requirements of this subsection are not being met under the measures ineffect under this subsection he may reimpose the Federal measure referred to in paragraph (1).
 
 #### (f) State authority to administer plan
 
@@ -62,7 +62,7 @@ The plan established under subsection (a) of this section shall—
 
 &emsp;(1) taken as a whole, be designed so that the plan, if implemented, would be likely to achieve the emergency conservation target under section 8511 of this title for which it would be implemented,
 
-&emsp;(2) taken as a whole, be designed so as not to impose an unreasonably disproportionateshare of the burden of restrictions on energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof, and
+&emsp;(2) taken as a whole, be designed so as not to impose an unreasonably disproportionate share of the burden of restrictions on energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof, and
 
 &emsp;(3) not contain any measure which the Secretary finds—
 

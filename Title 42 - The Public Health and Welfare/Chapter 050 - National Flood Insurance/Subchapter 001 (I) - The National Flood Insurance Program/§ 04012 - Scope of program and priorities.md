@@ -2,7 +2,7 @@
 
 #### (a) Priority for insurance for certain residential and church properties and business concerns
 
-In carrying out the flood insurance program the Director shall afford a priority to making flood insurance available to cover residential properties which are designed for the occupancyof from one to four families, church properties, and business properties which are owned or leased and operated by small business concerns.
+In carrying out the flood insurance program the Director shall afford a priority to making flood insurance available to cover residential properties which are designed for the occupancy of from one to four families, church properties, and business properties which are owned or leased and operated by small business concerns.
 
 #### (b) Availability of insurance for other properties
 

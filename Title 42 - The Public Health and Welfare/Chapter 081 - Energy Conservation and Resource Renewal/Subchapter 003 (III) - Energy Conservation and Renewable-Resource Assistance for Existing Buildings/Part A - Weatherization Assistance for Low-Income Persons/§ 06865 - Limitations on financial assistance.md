@@ -48,7 +48,7 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 
 &emsp;(1) consult with the State Energy Advisory Board established under section 6325(g) of this title; and
 
-&emsp;(2) give priority to those States which, during such previous fiscal year, obtained a significant portion of income from non-Federal sources for their weatherization programs orincreased significantly the portion of low-income weatherization assistance that the State obtained from non-Federal sources.
+&emsp;(2) give priority to those States which, during such previous fiscal year, obtained a significant portion of income from non-Federal sources for their weatherization programs or increased significantly the portion of low-income weatherization assistance that the State obtained from non-Federal sources.
 
 #### (e) Supplementary financial assistance to grant recipients
 

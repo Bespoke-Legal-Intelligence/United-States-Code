@@ -10,10 +10,13 @@
 | [2056\.](%C2%A7%2002056%20-%20Bequests%2C%20etc.%2C%20to%20surviving%20spouse.md) | Bequests, etc., to surviving spouse. |
 | [2056A.](%C2%A7%2002056A%20-%20Qualified%20domestic%20trust.md) | Qualified domestic trust. |
 | [2057\.](%C2%A7%2002057%20-%20Family-owned%20business%20interests.md) | Family-owned business interests. |
+| [2058\.](%C2%A7%2002058%20-%20State%20death%20taxes.md) | State death taxes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title V, §532(c)(14), June 7, 2001, 115 Stat. 75, added item 2058.
 
 <b>1998</b>—Pub. L. 105–206, title VI, §6006(b)(1)(F), July 22, 1998, 112 Stat. 808, added item 2057.
 
@@ -44,3 +47,4 @@ Pub. L. 101–508, title XI, §11704(a)(16), Nov. 5, 1990, 104 Stat. 1388–518,
 - [&sect; 02056 - Bequests, etc., to surviving spouse](%C2%A7%2002056%20-%20Bequests%2C%20etc.%2C%20to%20surviving%20spouse.md)
 - [&sect; 02056A - Qualified domestic trust](%C2%A7%2002056A%20-%20Qualified%20domestic%20trust.md)
 - [&sect; 02057 - Family-owned business interests](%C2%A7%2002057%20-%20Family-owned%20business%20interests.md)
+- [&sect; 02058 - State death taxes](%C2%A7%2002058%20-%20State%20death%20taxes.md)

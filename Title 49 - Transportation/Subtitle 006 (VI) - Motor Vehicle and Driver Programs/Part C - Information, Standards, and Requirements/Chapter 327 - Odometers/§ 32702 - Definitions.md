@@ -10,7 +10,7 @@ In this chapter—
 
 &emsp;(4) “leased motor vehicle” means a motor vehicle leased to a person for at least 4 months by a lessor that leased at least 5 vehicles during the prior 12 months.
 
-&emsp;(5) “odometer” means an instrument for measuring and recording the distance a motorvehicle is driven, but does not include an auxiliary instrument designed to be reset by the operator of the vehicle to record mileage of a trip.
+&emsp;(5) “odometer” means an instrument for measuring and recording the distance a motor vehicle is driven, but does not include an auxiliary instrument designed to be reset by the operator of the vehicle to record mileage of a trip.
 
 &emsp;(6) “repair” and “replace” mean to restore to a sound working condition by replacing any part of an odometer or by correcting any inoperative part of an odometer.
 

@@ -24,7 +24,7 @@
 
 #### (4) Revisions
 
-&emsp;The Administrator may revise the list and thresholds under paragraphs (2) and (3) from time to time. Any revisions to the list shall take into account the toxicity, reactivity, volatility, dispersability, combustability, or flammability of a substance. For purposes of the preceding sentence, the term “toxicity” shall include any short- or long-term health effect which may result from a short-term exposure to the substance.
+&emsp;The Administrator may revise the list and thresholds under paragraphs (2) and (3) fromtime to time. Any revisions to the list shall take into account the toxicity, reactivity, volatility, dispersability, combustability, or flammability of a substance. For purposes of the preceding sentence, the term “toxicity” shall include any short- or long-term health effect which may result from a short-term exposure to the substance.
 
 #### (b) Facilities covered
 

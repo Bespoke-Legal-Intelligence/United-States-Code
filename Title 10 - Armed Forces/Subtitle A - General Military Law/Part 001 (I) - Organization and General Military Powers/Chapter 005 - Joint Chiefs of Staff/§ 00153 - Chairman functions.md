@@ -1,8 +1,6 @@
 ### §153. Chairman: functions
 
-(a)
-
-Planning; Advice; Policy Formulation.—Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:
+Subject <sup>1</sup> to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:
 
 &emsp;(1)
 
@@ -10,7 +8,7 @@ Strategic Direction.—Assisting the President and the Secretary of Defense in p
 
 &emsp;(2)
 
-Strategic Planning.—(A) Preparing strategic plans, including plans which conform with resource levels projected by the Secretary of Defense to be available for the period of time for which the plans are to be effective.
+Strategic Planning.—(A) Preparing strategic plans, including plans which conformwith resource levels projected by the Secretary of Defense to be available for the period of time for which the plans are to be effective.
 
 &emsp;(B) Preparing joint logistic and mobility plans to support those strategic plans and recommending the assignment of logistic and mobility responsibilities to the armed forces in accordance with those logistic and mobility plans.
 
@@ -30,7 +28,7 @@ Contingency Planning; Preparedness.—(A) Providing for the preparation and revi
 
 Advice on Requirements, Programs, and Budget.—(A) Advising the Secretary, under section 163(b)(2) of this title, on the priorities of the requirements identified by the commanders of the unified and specified combatant commands.
 
-&emsp;(B) Advising the Secretary on the extent to which the program recommendations and budget proposals of the military departmentsand other components of the Department of Defense for a fiscal year conform with the priorities established in strategic plans and with the priorities established for the requirements of the unified and specified combatant commands.
+&emsp;(B) Advising the Secretary on the extent to which the program recommendations and budget proposals of the military departments and other components of the Department of Defense for a fiscal year conform with the priorities established in strategic plans and with the priorities established for the requirements of the unified and specified combatant commands.
 
 &emsp;(C) Submitting to the Secretary alternative program recommendations and budget proposals, within projected resource levels and guidance provided by the Secretary, in order to achieve greater conformance with the priorities referred to in clause (B).
 
@@ -54,17 +52,7 @@ Other Matters.—(A) Providing for representation of the United States on the Mi
 
 &emsp;(B) Performing such other duties as may be prescribed by law or by the President or the Secretary of Defense.
 
-(b)
-
-Report on Assignment of Roles and Missions.—(1) Not less than once every three years, or upon the request of the President or the Secretary of Defense, the Chairman shall submit to the Secretary of Defense a report containing such recommendations for changes in the assignment of functions (or roles and missions) to the armed forces as the Chairman considers necessary to achieve maximum effectiveness of the armed forces. In preparing each such report, the Chairman shall consider (among other matters) the following:
-
-&emsp;(A) Changes in the nature of the threats faced by the United States.
-
-&emsp;(B) Unnecessary duplication of effort among the armed forces.
-
-&emsp;(C) Changes in technology that can be applied effectively to warfare.
-
-(2) The Chairman shall include in each such report recommendations for such changes in policies, directives, regulations, and legislation as may be necessary to achieve the changes in the assignment of functions recommended by the Chairman.
+\[(b) Repealed. Pub. L. 107–107, div. A, title IX, §921(b)(2), Dec. 28, 2001, 115 Stat. 1198.\]
 
 (c)
 
@@ -86,9 +74,27 @@ Annual Report on Combatant Command Requirements.—(1) At or about the time that
 
 (2) The committees of Congress referred to in paragraph (1) are the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A,title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §921(b)(1), struck out “(a)
+
+Planning; Advice; Policy Formulation.—” before “Subject to the authority”.
+
+Subsec. (b). Pub. L. 107–107, §921(b)(2), struck out heading and text of subsec. (b) which read as follows:
+
+“(b)
+
+Report on Assignment of Roles and Missions.—(1) Not less than once every three years, or upon the request of the President or the Secretary of Defense, the Chairman shall submit to the Secretary of Defense a report containing such recommendations for changes in the assignment of functions (or roles and missions) to the armed forces as the Chairman considers necessary to achieve maximum effectiveness of the armed forces. In preparing each such report, the Chairman shall consider (among other matters) the following:
+
+&emsp;“(A) Changes in the nature of the threats faced by the United States.
+
+&emsp;“(B) Unnecessary duplication of effort among the armed forces.
+
+&emsp;“(C) Changes in technology that can be applied effectively to warfare.
+
+“(2) The Chairman shall include in each such report recommendations for such changes in policies, directives, regulations, and legislation as may be necessary to achieve the changes in the assignment of functions recommended by the Chairman.”
 
 2000—Subsec. (d)(1). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(b)\], substituted “At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31,” for “Not later than August 15 of each year,” in introductory provisions.
 
@@ -102,7 +108,7 @@ Pub. L. 105–85, div. A, title III, §326, Nov. 18, 1997, 111 Stat. 1679, provi
 
 “(a)
 
-Means for Measurement.—The Chairman of the Joint Chiefs of Staff shall, to the maximum extent practicable, develop (1) a common means of measuring the operations tempo (OPTEMPO) of each of the Armed Forces, and (2) a common means of measuring the personnel tempo (PERSTEMPO) of each of the ArmedForces. The Chairman shall consult with the other members of the Joint Chiefs of Staff in developing those common means of measurement.
+Means for Measurement.—The Chairman of the Joint Chiefs of Staff shall, to the maximum extent practicable, develop (1) a common means of measuring the operations tempo (OPTEMPO) of each of the Armed Forces, and (2) a common means of measuring the personnel tempo (PERSTEMPO) of each of the Armed Forces. The Chairman shall consult with the other members of the Joint Chiefs of Staff in developing those common means of measurement.
 
 “(b)
 
@@ -201,4 +207,6 @@ Date for First Report.—The first report under section 153(b) of title 10, Unit
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2464 of this title.
+
+<i><sup>1</sup></i><i> So in original. See 2001 Amendment note below.</i>
 

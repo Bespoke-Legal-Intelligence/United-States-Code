@@ -26,7 +26,7 @@ The term “net earnings from self-employment” means the gross income derived 
 
 &emsp;&emsp;(A) any of the income derived from a trade or business (other than a trade or business carried on by a partnership) is community income under community property laws applicable to such income, all of the gross income and deductions attributable to such trade or business shall be treated as the gross income and deductions of the husband unless the wife exercises substantially all of the management and control of such trade or business, in which case all of such gross income and deductions shall be treated as the gross income and deductions of the wife; and
 
-&emsp;&emsp;(B) any portion of a partner's distributive share of the ordinary income or loss from atrade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall be included in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings from self-employment of the spouse of such partner;
+&emsp;&emsp;(B) any portion of a partner's distributive share of the ordinary income or loss from a trade or business carried on by a partnership is community income or loss under the community property laws applicable to such share, all of such distributive share shall be included in computing the net earnings from self-employment of such partner, and no part of such share shall be taken into account in computing the net earnings fromself-employment of the spouse of such partner;
 
 &emsp;(6) a resident of Puerto Rico shall compute his net earnings from self-employment in the same manner as a citizen of the United States but without regard to section 933;
 
@@ -104,7 +104,7 @@ The term “trade or business”, when used with reference to self-employment in
 
 &emsp;&emsp;(D) service described in paragraph (4) of this subsection,
 
-&emsp;&emsp;(E) service performed by an individual as an employee of a State or a political subdivision thereof in a position compensated solely on a fee basis with respect to fees receivedin any period in which such service is not covered under an agreement entered into by such State and the Commissioner of Social Security pursuant to section 218 of the Social Security Act,
+&emsp;&emsp;(E) service performed by an individual as an employee of a State or a political subdivision thereof in a position compensated solely on a fee basis with respect to fees received in any period in which such service is not covered under an agreement entered into by such State and the Commissioner of Social Security pursuant to section 218 of the Social Security Act,
 
 &emsp;&emsp;(F) service described in section 3121(b) (20), and
 
@@ -148,13 +148,13 @@ In computing a partner's net earnings from self-employment for his taxable year 
 
 &emsp;(1) in determining the portion of the distributive share which is attributable to any period specified in the preceding sentence, the ordinary income or loss of the partnership shall be treated as having been realized or sustained ratably over the partnership taxable year; and
 
-&emsp;(2) the term “deceased partner's distributive share” includes the share of his estate or of any other person succeeding, by reason of hisdeath, to rights with respect to his partnership interest.
+&emsp;(2) the term “deceased partner's distributive share” includes the share of his estate or of any other person succeeding, by reason of his death, to rights with respect to his partnership interest.
 
 #### (g) Members of certain religious faiths
 
 #### (1) Exemption
 
-&emsp;Any individual may file an application (in such form and manner, and with such official, as may be prescribed by regulations under this chapter) for an exemption from the tax imposed by this chapter if he is a member of a recognized religious sect or division thereof and is an adherent of established tenets or teachings of such sect or division by reason of which he is conscientiously opposed to acceptance of the benefits of any private or public insurance which makes payments in the event of death, disability, old-age, or retirement or makes payments toward the cost of, or provides services for, medical care (including the benefits of any insurance system established by the Social Security Act). Such exemption may be granted only if the application contains or is accompanied by—
+&emsp;Any individual may file an application (in such form and manner, and with such official, as may be prescribed by regulations under this chapter) for an exemption from the tax imposed by this chapter if he is a member of arecognized religious sect or division thereof and is an adherent of established tenets or teachings of such sect or division by reason of which he is conscientiously opposed to acceptance of the benefits of any private or public insurance which makes payments in the event of death, disability, old-age, or retirement or makes payments toward the cost of, or provides services for, medical care (including the benefits of any insurance system established by the Social Security Act). Such exemption may be granted only if the application contains or is accompanied by—
 
 &emsp;&emsp;(A) such evidence of such individual's membership in, and adherence to the tenets or teachings of, the sect or division thereof as the Secretary may require for purposes of determining such individual's compliance with the preceding sentence, and
 
@@ -268,13 +268,13 @@ The Federal Insurance Contributions Act, referred to in subsec. (d), is act Aug.
 
 <b>1997</b>—Subsec. (k). Pub. L. 105–34 added subsec. (k).
 
-<b>1996</b>—Subsec. (a)(8). Pub. L. 104–188 inserted before semicolon at end “, but shall not include in such netearnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excludable under section 107) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e)) after the individual retires”.
+<b>1996</b>—Subsec. (a)(8). Pub. L. 104–188 inserted before semicolon at end “, but shall not include in such net earnings from self-employment the rental value of any parsonage or any parsonage allowance (whether or not excludable under section 107) provided after the individual retires, or any other retirement benefit received by such individual from a church plan (as defined in section 414(e)) after the individual retires”.
 
 <b>1994</b>—Subsec. (c)(1). Pub. L. 103–296, §108(h)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
 Subsec. (c)(2)(C). Pub. L. 103–296, §319(a)(4), inserted at end “except service which constitutes ‘employment’ under section 3121(y),”.
 
-Subsecs. (c)(2)(E), (e)(2), (g)(1), (2)(A), (B). Pub. L. 103–296, §108(h)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+Subsecs. (c)(2)(E), (e)(2), (g)(1), (2)(A), (B). Pub. L. 103–296, §108(h)(1), substituted “Commissioner of SocialSecurity” for “Secretary of Health and Human Services”.
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–66, §13207(b)(1)(C), (D), in concluding provisions, inserted “and” after “section 3121(b),” and struck out “and (C) includes, but only with respect to the tax imposed by section 1401(b), remuneration paid for medicare qualified government employment (as defined in section 3121(u)(3)) which is subject to the taxes imposed by sections 3101(b) and 3111(b)” after “section 3201 or 3211,”.
 
@@ -354,7 +354,7 @@ Pub. L. 98–21, §321(e)(3), substituted “employees of foreign affiliates of 
 
 <b>1981</b>—Subsec. (a)(8). Pub. L. 97–34, §111(b)(3), substituted “relating to citizens or residents of the United States living abroad” for “relating to income earned by employees in certain camps”.
 
-Subsec. (a)(11). Pub. L. 97–34, §111(b)(5), substituted “in the case of an individual described in section 911(d)(1)(B), the exclusion from gross income provided by section 911(a)(1) shall not apply” for “in the case of an individual who has been a resident of the United States during the entire taxable year, the exclusion from gross income provided by section 911(a)(2) shall not apply”.
+Subsec. (a)(11). Pub. L. 97–34, §111(b)(5), substituted “in the case of an individual described in section911(d)(1)(B), the exclusion from gross income provided by section 911(a)(1) shall not apply” for “in the case of an individual who has been a resident of the United States during the entire taxable year, the exclusion from gross income provided by section 911(a)(2) shall not apply”.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–615 substituted “(relating to income earned by employees in certain camps)” for “(relating to earned income from sources without the United States)” in par. (8).
 
@@ -424,7 +424,7 @@ Subsec. (c). Pub. L. 89–97, §§311(b)(1), (2), 319(a), struck out from par. (
 
 Subsec. (e)(1). Pub. L. 89–97, §311(b)(3)(A), substituted “extended to service described in subsection (c)(4) or (c)(5) performed by him” for “extended to service described in subsection (c)(4), or service described in subsection (c)(5) insofar as it relates to the performance of service by an individual in the exercise of his profession as a Christian Science practitioner, as the case may be performed by him”.
 
-Subsec. (e)(2)(A). Pub. L. 89–97, §311(b)(3)(B), substituted “(computed without regard to subsections (c)(4) and (c)(5) of $400 or more, any part of which was derived from the performance of service described in subsection (c)(4) or (c)(5)” for “(computed, in the case of an individual referred to in paragraph (1)(A), without regard to subsection (c)(4), and, in the case of an individual referred to in paragraph (1)(B), without regard to subsection (c)(5) insofar as it relates to the performance of service by an individual in the exercise of his profession as a Christian Science practitioner) of $400 or more, any part of which was derived from the performance of service described in subsection (c)(4), or from the performance of service described in subsection (c)(5) insofar as it relates to the performance of service by an individual in the exercise of his profession as a Christian Science practitioner, as the case may be”.
+Subsec. (e)(2)(A). Pub. L. 89–97, §311(b)(3)(B), substituted “(computed without regard to subsections (c)(4) and (c)(5) of $400 or more, any part of which was derived from the performance of service described in subsection (c)(4) or (c)(5)” for “(computed, in the caseof an individual referred to in paragraph (1)(A), without regard to subsection (c)(4), and, in the case of an individual referred to in paragraph (1)(B), without regard to subsection (c)(5) insofar as it relates to the performance of service by an individual in the exercise of his profession as a Christian Science practitioner) of $400 or more, any part of which was derived from the performance of service described in subsection (c)(4), or from the performance of service described in subsection (c)(5) insofar as it relates to the performance of service by an individual in the exercise of his profession as a Christian Science practitioner, as the case may be”.
 
 Subsec. (e)(2)(B). Pub. L. 89–97, §341(a), substituted “his second taxable year ending after 1963” for “his second taxable year ending after 1962”.
 
@@ -502,7 +502,7 @@ Section 1456(b) of Pub. L. 104–188 provided that: “The amendments made by th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 108(h)(1) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+Amendment by section 108(h)(1) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L.103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 Section 319(c) of Pub. L. 103–296 provided that: “The amendments made by this section \[amending this section, sections 3102, 3121, and 3122 of this title, and sections 410 and 411 of Title 42, The Public Health and Welfare\] shall apply with respect to service performed after the calendar quarter following the calendar quarter in which the date of the enactment of this Act \[Aug. 15, 1994\] occurs.”
 
@@ -566,7 +566,7 @@ Section 323(c)(2) of Pub. L. 98–21 provided that: “Except as provided in sub
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1982, see section 278(c)(1) of Pub.L. 97–248, set out as a note under section 3121 of this title.
+Amendment by Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1982, see section 278(c)(1) of Pub. L. 97–248, set out as a note under section 3121 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -646,7 +646,7 @@ Section 319(e) of Pub. L. 89–97, as amended by Pub. L. 99–514, §2, Oct. 22,
 
 Amendment by section 320(b)(1) of Pub. L. 89–97 applicable with respect to taxable years ending after 1965, see section 320(c) of Pub. L. 89–97, set out as a note under section 3121 of this title.
 
-Section 331(d) of Pub. L. 89–97, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically provided therein) only to certificates with respect to which supplemental certificates are filed pursuant to section 1402(e)(5)(A) of such Code after the date of the enactment of this Act \[July 30, 1965\], and to certificates filed pursuant to section 1402(e)(5)(B) after such date; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act is enacted \[July 1965\] or any prior month shall be payable or increased by reason of such amendments, and no lump sum death payment under such title \[section 401 et seq. of Title 42\] shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[July 30, 1965\]. The provisions of section 1402(e)(5) and (6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which were in effect before the date of enactment of this Act shall be applicable with respect to any certificate filed pursuant thereto before such date if a supplemental certificate is not filed with respect to such certificate as provided in this section.”
+Section 331(d) of Pub. L. 89–97, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[amending this section\] shall be applicable (except as otherwise specifically provided therein) only to certificates with respect to which supplemental certificates are filed pursuant to section 1402(e)(5)(A) of such Code after the date of the enactment of this Act \[July 30, 1965\], and to certificates filed pursuant to section 1402(e)(5)(B) after such date; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act is enacted \[July 1965\] or any prior month shall be payable or increased by reason of such amendments, and no lump sum death payment under such title \[section 401 et seq. of Title 42\] shall be payable or increased by reason of such amendments in the case of any individual who died prior to the date of the enactment of this Act \[July 30, 1965\]. The provisions of section 1402(e)(5) and (6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which were in effect before the date of enactment of this Act shall be applicable with respect to any certificate filed pursuant thereto before such date if a supplemental certificate is not filed with respect to such certificate as provided in this section.”
 
 Section 341(c) of Pub. L. 89–97, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall be applicable only with respect to certificates filed pursuant to section 1402(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] after the date of the enactment of this Act \[July 30, 1965\]; except that no monthly benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act is enacted \[July 1965\] or any prior month shall be payable or increased by reason of such amendments.”
 
@@ -694,11 +694,11 @@ Section 4 of Pub. L. 85–239, as amended by Pub. L. 99–514, §2, Oct. 22, 198
 
 &emsp;“(1)(A) has remuneration which is deemed, by reason of section 3, to constitute remuneration for employment for purposes of title II of the Social Security Act \[section 401 et seq. of Title 42\], or
 
-&emsp;“(B) has income which constitutes net earnings from self-employment under such title by reason of the filing of a certificate pursuant to section1402(e)(3)(A) or (B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and
+&emsp;“(B) has income which constitutes net earnings from self-employment under such title by reason of the filing of a certificate pursuant to section 1402(e)(3)(A) or (B) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and
 
 &emsp;“(2) was entitled to monthly insurance benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act is enacted \[August 1957\],
 
-> section 3 \[set out below\] and the amendments made by the first section of this Act \[amending this section\] shall apply with respect to monthly insurance benefits under such title based on his wages and self-employment income only if he, or any other person entitled to monthly insurance benefits under such title on the basis of such wages and self-employment income, files, on or after the date of enactment of this Act \[Aug. 30, 1957\], an application for recomputation by reason of this Act. Such recomputation shall be made in the manner provided in title II of the Social Security Acts \[section 401 et seq. of Title 42\] as in effect at the time of the last previous computation or recomputation of such individual's primary insurance amount and as though the application therefor was filed in the month in which the application for such last previous computation or recomputation was filed. No recomputation under this subsection shall be regarded as a recomputation under section 215(f) of the Social Security Act \[section 415(f) of Title 42\]. Any such recomputation shall be effective for and after the twelfth month before the month in which the application therefor is filed, but in no case for any month which begins on or prior to the date of the enactment of this Act. Any such recomputation shall be effective only if it results in a higher primary insurance amount.
+> section 3 \[set out below\] and the amendments made by the first section of this Act \[amending this section\] shall apply with respect to monthly insurance benefits under such title based on his wages and self-employment income only if he, or any other person entitled to monthly insurance benefits under such title on the basis of such wages and self-employment income, files, on or after the date of enactment of this Act \[Aug. 30,1957\], an application for recomputation by reason of this Act. Such recomputation shall be made in the manner provided in title II of the Social Security Acts \[section 401 et seq. of Title 42\] as in effect at the time of the last previous computation or recomputation of such individual's primary insurance amount and as though the application therefor was filed in the month in which the application for such last previous computation or recomputation was filed. No recomputation under this subsection shall be regarded as a recomputation under section 215(f) of the Social Security Act \[section 415(f) of Title 42\]. Any such recomputation shall be effective for and after the twelfth month before the month in which the application therefor is filed, but in no case for any month which begins on or prior to the date of the enactment of this Act. Any such recomputation shall be effective only if it results in a higher primary insurance amount.
 
 “(c) The preceding provisions of this section shall not render erroneous any monthly insurance benefits under title II of the Social Security Act \[section 401 et seq. of Title 42\] for the month in which this Act \[August 1957\] is enacted or any prior month.”
 
@@ -750,7 +750,7 @@ Taxable Years Affected by Certificate.—A certificate referred to in subsection
 
 “(d)
 
-Restriction on Crediting of Exempt Self-Employment Income.—In any case in which an individual is exempt under this section from paying a tax imposed under section 1401 of the Internal Revenue Code of 1986, any income on which such tax would have been imposed but for such exemption shall not constitute self-employment income under section 211(b) of the Social Security Act (42 U.S.C. 411(b)), and, if such individual's primary insurance amount has been determined under section 215 of such Act (42 U.S.C. 415), notwithstanding section 215(f)(1) of such Act, the Secretary of Health and Human Services (prior to March 31, 1995) or the Commissioner of Social Security (after March 30, 1995) shall recompute such primary insurance amount so as to take into account the provisions of this subsection. The recomputation under this subsection shall be effective with respect to benefits for months following approval of the certificate of exemption.”
+Restriction on Crediting of Exempt Self-Employment Income.—In any case in which an individual is exempt under this section from paying a tax imposed under section 1401 of the Internal Revenue Code of 1986, any income on which such tax would have been imposed but for such exemption shall not constitute self-employment income under section 211(b) of the Social Security Act (42 U.S.C. 411(b)), and, if such individual's primary insurance amount has been determined under section 215 of such Act (42 U.S.C. 415), notwithstanding section 215(f)(1) of such Act, the Secretary of Health and Human Services (prior to March 31, 1995) or the Commissioner of Social Security (after March 30, 1995) shall recompute such primary insurance amount so asto take into account the provisions of this subsection. The recomputation under this subsection shall be effective with respect to benefits for months following approval of the certificate of exemption.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -788,7 +788,7 @@ Section 316 of Pub. L. 95–216, as amended by Pub. L. 99–514, §2, Oct. 22, 1
 
 #### Election of Exemption of Fees From Coverages Self-Employment Income
 
-Section 122(c)(2) of Pub. L. 90–248 authorized any individual affected by the amendments made by Pub. L.90–248 to subsecs. (c)(1), (2)(E) of this section and section 411(c)(1), (2)(E) of Title 42, The Public Health and Welfare, to make an irrevocable election not to have such amendments apply to fees received in 1968 and every year thereafter if he filed, on or before the due date of his income tax return for 1968, with the Secretary of the Treasury, a certificate of election of exemption from such amendments.
+Section 122(c)(2) of Pub. L. 90–248 authorized any individual affected by the amendments made by Pub. L. 90–248 to subsecs. (c)(1), (2)(E) of this section and section 411(c)(1), (2)(E) of Title 42, The Public Health and Welfare, to make an irrevocable election not to have such amendments apply to fees received in 1968 and every year thereafter if he filed, on or before the due date of his income tax return for 1968, with the Secretary of the Treasury, a certificate of election of exemption from such amendments.
 
 #### Time for Claim for Refund or Credit of Overpayment; Disallowance of Interest
 

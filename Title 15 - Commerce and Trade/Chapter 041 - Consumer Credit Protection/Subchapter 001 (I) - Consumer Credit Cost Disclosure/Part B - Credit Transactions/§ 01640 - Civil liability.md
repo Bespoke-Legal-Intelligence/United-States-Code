@@ -52,7 +52,7 @@ The multiple failure to disclose to any person any information required under th
 
 #### (h) Offset from amount owed to creditor or assignee; rights of defaulting consumer
 
-A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) of this section against any amount owed by such person, unless the amount of the creditor's or assignee's liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action ofwhich such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
+A person may not take any action to offset any amount for which a creditor or assignee is potentially liable to such person under subsection (a)(2) of this section against any amount owed by such person, unless the amount of the creditor's or assignee's liability under this subchapter has been determined by judgment of a court of competent jurisdiction in an action of which such person was a party. This subsection does not bar a consumer then in default on the obligation from asserting a violation of this subchapter as an original action, or as a defense or counterclaim to an action to collect amounts owed by the consumer brought by a person liable under this subchapter.
 
 #### (i) Class action moratorium
 
@@ -82,7 +82,7 @@ A person may not take any action to offset any amount for which a creditor or as
 
 &emsp;&emsp;&emsp;(ii) proper notice was not provided for any reason other than the reason described in such paragraph.
 
-(Pub. L. 90–321, title I, §130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, §3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, §4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, §615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, §3, Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, §153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, §2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, §6, Sept. 30, 1995, 109 Stat. 274.)
+(Pub. L. 90–321, title I, §130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, §3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, §4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, §615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, §3,Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, §153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, §2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, §6, Sept. 30, 1995, 109 Stat. 274.)
 
 #### Amendments
 

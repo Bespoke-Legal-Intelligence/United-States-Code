@@ -22,7 +22,7 @@ Any loans made under the provisions of this section shall be subject to the foll
 
 &emsp;(7) An applicant for a fishery loan must be a citizen or national of the United States.
 
-&emsp;(8) Within the meaning of this section, a corporation, partnership, or association shall not be deemed to be a citizen of the United States unless the Secretary determines that it satisfactorily meets all of the requirements set forth in section 802 of title 46, Appendix, for determining the United States citizenship of a corporation, partnership, or association operating a vessel in the coastwise trade.
+&emsp;(8) Within the meaning of this section, a corporation, partnership, or association shall not be deemed to be a citizen of the United States unless the Secretary determines that it satisfactorily meets all of the requirements set forth in sections 802 and 803 of title 46, Appendix, for determining the United States citizenship of a corporation, partnership, or association operating a vessel in the coastwise trade.
 
 &emsp;(9)(A) The nationality of an applicant shall be established to the satisfaction of the Secretary. Within the meaning of this section, no corporation, partnership, or association organized under the laws of American Samoa shall be deemed a national of the United States unless 75 per centum of the interest therein is owned by nationals of the United States, citizens of the United States, or both, and in the case of a corporation, unless its president or other chief executive officer and the chairman of its board are nationals or citizens of the United States and unless no more of its directors than a minority of the number necessary to constitute a quorum are nonnationals and noncitizens.
 

@@ -23,7 +23,7 @@
 
 <b>1996</b>—Pub. L. 104–188, title I, §1704(t)(19), Aug. 20, 1996, 110 Stat. 1888, struck out item 6662 “Applicable rules”.
 
-<b>1989</b>—Pub. L. 101–239, title VII, §§7721(c)(13), (14), 7742(b), Dec. 19, 1989, 103 Stat. 2400, 2405, added partheading, substituted “Failure to pay stamp tax” for “Additions to tax for negligence and fraud” in item 6653, substituted “of taxes” for “of taxes or over-statement of deposits” in item 6656, and struck out items 6659 “Addition to tax in the case of valuation overstatements for purposes of the income tax”, 6659A “Addition to tax in case of overstatements of pension liabilities”, 6660 “Addition to tax in the case of valuation understatement for purposes of estate or gift taxes”, and 6661 “Substantial understatement of liability”.
+<b>1989</b>—Pub. L. 101–239, title VII, §§7721(c)(13), (14), 7742(b), Dec. 19, 1989, 103 Stat. 2400, 2405, added part heading, substituted “Failure to pay stamp tax” for “Additions to tax for negligence and fraud” in item 6653, substituted “of taxes” for “of taxes or over-statement of deposits” in item 6656, and struck out items 6659 “Addition to tax in the case of valuation overstatements for purposes of the income tax”, 6659A “Addition to tax in case of overstatements of pension liabilities”, 6660 “Addition to tax in the case of valuation understatement for purposes of estate or gift taxes”, and 6661 “Substantial understatement of liability”.
 
 <b>1986</b>—Pub. L. 99–514, title XI, §1138(b), title XV, §1503(d)(2), Oct. 22, 1986, 100 Stat. 2486, 2743, substituted “Additions to tax for negligence and fraud” for “Failure to pay tax” in item 6653 and added item 6659A.
 

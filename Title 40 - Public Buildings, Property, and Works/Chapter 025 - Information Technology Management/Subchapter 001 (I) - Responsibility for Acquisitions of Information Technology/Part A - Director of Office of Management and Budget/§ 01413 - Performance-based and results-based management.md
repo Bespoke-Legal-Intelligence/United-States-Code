@@ -18,7 +18,7 @@ The Director shall encourage the use of performance-based and results-based mana
 
 &emsp;&emsp;(B) determine, before making an investment in a new information system—
 
-&emsp;&emsp;&emsp;(i) whether the function to be supported by the system should be performed by the private sector and, if so, whether any component of the executive agency performing that function should be converted from a governmental organization to a private sector organization; or
+&emsp;&emsp;&emsp;(i) whether the function to be supported by the system should be performed by the private sector and, if so, whether any component of the executive agency performingthat function should be converted from a governmental organization to a private sector organization; or
 
 &emsp;&emsp;&emsp;(ii) whether the function should be performed by the executive agency and, if so, whether the function should be performed by a private sector source under contract or by executive agency personnel;
 

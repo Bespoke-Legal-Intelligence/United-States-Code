@@ -6,7 +6,7 @@ Further to promote achievement of full employment under this chapter and the Emp
 
 #### (b) Utilization of authority under other laws
 
-In meeting the responsibilities under subsection (a) of this section, the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act \[29 U.S.C. 1501 et seq.\] and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and other relevant provisions of law to—
+In meeting the responsibilities under subsection (a) of this section, the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and other relevant provisions of law to—
 
 &emsp;(1) assure the availability of counseling, training, and other support activities necessary to prepare persons willing and seeking work for employment;
 
@@ -16,7 +16,7 @@ In meeting the responsibilities under subsection (a) of this section, the Secret
 
 #### (c) Establishment of project reservoirs; restrictions and requirements of new programs
 
-(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
+(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to workare not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 \[15 U.S.C. 1021 et seq.\], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
 
 (2) New programs as may be authorized by law after October 27, 1978, referred to in paragraph (c)(1)—
 

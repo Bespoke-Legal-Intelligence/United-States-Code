@@ -126,7 +126,7 @@ Pub. L. 93–112, title VI, §601, as added by Pub. L. 105–220, title IV, §40
 
 Pub. L. 93–112, §1, Sept. 26, 1973, 87 Stat. 355, provided in part that Pub. L. 93–112, which enacted this chapter and repealed sections 31 to 41c and 42–1 to 42b of this title, could be cited as the “Rehabilitation Act of 1973”, prior to repeal by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093.
 
-Pub. L. 93–112, title VI, §601, as added by Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2989, andamended by Pub. L. 102–569, title I, §102(p)(34), Oct. 29, 1992, 106 Stat. 4360, provided that title VI of Pub. L. 93–112, enacting former subchapter VI of this chapter, could be cited as the “Employment Opportunities for Handicapped Individuals Act”, prior to the general amendment of title VI of Pub. L. 93–112 by Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1210.
+Pub. L. 93–112, title VI, §601, as added by Pub. L. 95–602, title II, §201, Nov. 6, 1978, 92 Stat. 2989, and amended by Pub. L. 102–569, title I, §102(p)(34), Oct. 29, 1992, 106 Stat. 4360, provided that title VI of Pub. L. 93–112, enacting former subchapter VI of this chapter, could be cited as the “Employment Opportunities for Handicapped Individuals Act”, prior to the general amendment of title VI of Pub. L. 93–112 by Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1210.
 
 #### Ex. Ord. No. 11758. Delegation of Authority of the President
 
@@ -170,7 +170,7 @@ Section 1. Establishment of National Task Force on Employment of Adults with Dis
 
 &emsp;(7) subject to the availability of appropriations, analyze youth programs related to employment (e.g., Employment and Training Administration programs, special education, vocational rehabilitation, school-to-work transition, vocational education, and Social Security Administration work incentives and other programs, as may be determined by the Chair and Vice Chair of the Task Force) and the outcomes of those programs for young people with disabilities;
 
-&emsp;(8) evaluate whether a single governmental entity or program should be established to provide computer and electronic accommodations for Federal employees with disabilities;
+&emsp;(8) evaluate whether a single governmental entity or program should be established to provide computerand electronic accommodations for Federal employees with disabilities;
 
 &emsp;(9) consult with the President's Committee on Mental Retardation on policies to increase the employment of people with mental retardation and cognitive disabilities; and
 

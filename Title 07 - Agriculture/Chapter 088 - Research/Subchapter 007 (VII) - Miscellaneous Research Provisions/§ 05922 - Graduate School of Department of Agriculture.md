@@ -2,7 +2,7 @@
 
 #### (a) Training services
 
-Notwithstanding any other provision of law, the head of a Federal agency or major organizational unit within any agency, including agencies and offices within the Department of Agriculture, may place an order (or enter into an agreement) with the Graduate School of the Department of Agriculture under the provisions ofsection 1535 of title 31 for training and other services incidental to the provision of such training.
+Notwithstanding any other provision of law, the head of a Federal agency or major organizational unit within any agency, including agencies and offices within the Department of Agriculture, may place an order (or enter into an agreement) with the Graduate School of the Department of Agriculture under the provisions of section 1535 of title 31 for training and other services incidental to the provision of such training.
 
 #### (b) Goods or services
 
@@ -28,5 +28,5 @@ For purposes of this section:
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), referred to in subsec. (b)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to procurement are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works, and subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), referred to in subsec. (b)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, asamended. Provisions of that Act relating to procurement are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works, and subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 

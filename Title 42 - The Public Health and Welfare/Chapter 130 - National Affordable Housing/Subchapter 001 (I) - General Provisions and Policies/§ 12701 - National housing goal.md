@@ -18,6 +18,8 @@ Section 301 of Pub. L. 101–625 provided that: “This subtitle \[subtitle A (�
 
 #### Millennial Housing Commission
 
+Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 671, provided in part: “That $1,500,000 shall be for necessary expenses of the Millennial Housing Commission, as authorized by section 206 of Public Law 106–74 \[set out below\], with the final report due no later than May 30, 2002 and a termination date of August 30, 2002, notwithstanding section 206(f) and (g) of Public Law 106–74”.
+
 Pub. L. 106–74, title II, §206, Oct. 20, 1999, 113 Stat. 1070, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title X, §1001\], Dec. 21, 2000, 114 Stat. 2763, 2763A–310, provided that:
 
 “(a)
@@ -118,7 +120,7 @@ Obtaining official data.—The Commission may secure directly from any departmen
 
 &emsp;“(4)
 
-Gifts, bequests, and devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
+Gifts, bequests, and devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises ofmoney and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
 
 &emsp;“(5)
 
@@ -141,6 +143,8 @@ Report.—The Commission shall submit to the Committees on Appropriations and Ba
 Termination.—The Commission shall terminate on June 30, 2002. Section 14(a)(2)(B) of the Federal Advisory Committee Act (5 U.S.C. App.; relating to the termination of advisory committees) shall not apply to the Commission.”
 
 #### Commission on Affordable Housing and Health Facility Needs for Seniors in the 21st Century
+
+Pub. L. 107–73, title II, Nov. 26, 2001, 115 Stat. 671, provided in part: “That $1,000,000 shall be for necessary expenses of the commission established under section 525 of the Preserving Affordable Housing for Senior Citizens and Families in the 21st Century Act \[Pub. L. 106–74, set out below\], with the final report due no later than June 30, 2002 and a termination date of September 30, 2002, notwithstanding section 525(f) and (g) of Public Law 106–74”.
 
 Pub. L. 106–74, title V, §525, Oct. 20, 1999, 113 Stat. 1106, as amended by Pub. L. 106–377, §1(a)(1) \[title II, §230\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31, provided that:
 
@@ -254,7 +258,7 @@ Gifts, bequests, and devises.—The Commission may accept, use, and dispose of g
 
 &emsp;“(5)
 
-Mails.—The Commission may use the United States mails in the same manner and under the sameconditions as other departments and agencies of the United States.
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
 &emsp;“(6)
 

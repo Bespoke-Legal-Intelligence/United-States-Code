@@ -1,6 +1,6 @@
 ### §2603. Acceptance of fellowships, scholarships, or grants
 
-(a) Notwithstanding any other provision of law, a fellowship, scholarship, or grant may, under regulations to be prescribed by the President or his designee, be made by a corporation, fund, foundation, or educational institution thatis organized and operated primarily for scientific, literary, or educational purposes to any member of the Armed Forces, and the benefits thereof may be accepted by him—
+(a) Notwithstanding any other provision of law, a fellowship, scholarship, or grant may, under regulations to be prescribed by the President or his designee, be made by a corporation, fund, foundation, or educational institution that is organized and operated primarily for scientific, literary, or educational purposes to any member of the Armed Forces, and the benefits thereof may be accepted by him—
 
 &emsp;(1) in recognition of outstanding performance in his field;
 

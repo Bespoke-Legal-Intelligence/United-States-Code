@@ -30,7 +30,7 @@ Notwithstanding any provision of this chapter except as provided under this sect
 
 #### (1) Ownership of foreign utility companies by registered holding companies
 
-&emsp;Notwithstanding any provision of this chapter except as otherwise provided under this section, a registered holding company shall be permitted as of October 24, 1992 (without the need to apply for, or receive approval from the Commission) to acquire and hold the securities or an interest in the business, of one or more foreign utility companies. The Commission shall promulgate rules or regulations regarding registered holding companies’ acquisition of interests in foreign utility companies which shall provide for the protection of the customers of a public utility company which is an associate company of a foreign utility company and the maintenance of the financial integrity of the registered holding company system.
+&emsp;Notwithstanding any provision of this chapter except as otherwise provided under this section, a registered holding company shall be permitted as of October 24, 1992 (without the need to apply for, or receive approval from the Commission) to acquire and hold the securities or an interest in the business, of one ormore foreign utility companies. The Commission shall promulgate rules or regulations regarding registered holding companies’ acquisition of interests in foreign utility companies which shall provide for the protection of the customers of a public utility company which is an associate company of a foreign utility company and the maintenance of the financial integrity of the registered holding company system.
 
 #### (2) Issuance of securities
 
@@ -42,7 +42,7 @@ Notwithstanding any provision of this chapter except as provided under this sect
 
 &emsp;&emsp;(A) consistent with the operation of a single integrated public utility system, within the meaning of section 79k of this title; and
 
-&emsp;&emsp;(B) reasonably incidental, or economically necessary or appropriate, to the operationsof an integrated public utility system, within the meaning of section 79k of this title.
+&emsp;&emsp;(B) reasonably incidental, or economically necessary or appropriate, to the operations of an integrated public utility system, within the meaning of section 79k of this title.
 
 #### (d) Effect on existing law; no State preemption
 

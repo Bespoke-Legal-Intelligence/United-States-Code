@@ -18,7 +18,3 @@ The Secretary shall prepare and submit to the President and the authorizing comm
 
 1982—Pub. L. 97–375 substituted “March 31” for “January 30”.
 
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of provisions in this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
-

@@ -8,7 +8,9 @@ Uniform Cost Accounting.—The Secretary of Defense, with the advice and assista
 
 Preparation of Budget Requests.—(1) Amounts requested for a fiscal year for the operation of each professional military education school shall be set forth as a separate budget request in the materials submitted by the Secretary of Defense to Congress in support of the budget request for the Department of Defense.
 
-(2) The Secretary of a military department preparing a budget request for a professional military education school shall carefully consider the views of the Chairman of the Joint Chiefs of Staff, particularly with respect to the amount of the request for the operation of the schools of the National Defense University and the joint professional military education curricula of the other professional military education schools.
+(2) As executive agent for funding professional development education at the National Defense University, including the Joint Forces Staff College, the Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff, shall prepare the annual budget for professional development education operations at the National Defense University and set forth that request as a separate budget request in the materials submitted to Congress in support of the budget request for the Department of Defense. Nothing in the preceding sentence affects policies in effect on the date of the enactment of this paragraph with respect to budgeting for the funding of logistical and base operations support for components of the National Defense University through the military departments.
+
+(3) The Secretary of a military department preparing a budget request for a professional military education school shall carefully consider the views of the Chairman of the Joint Chiefs of Staff, particularly with respect to the amount of the request for the operation of the schools of the National Defense University and the joint professional military education curricula of the other professional military education schools.
 
 (c)
 
@@ -34,9 +36,15 @@ Professional Military Education Schools.—This section applies to each of the f
 
 &emsp;(8) The Marine Corps University.
 
-(Added Pub. L. 101–510, div. A, title IX, §911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L. 105–85, div. A, title IX, §921(b), Nov. 18, 1997, 111 Stat. 1862.)
+(Added Pub. L. 101–510, div. A, title IX, §911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L. 105–85, div. A, title IX, §921(b), Nov. 18, 1997, 111 Stat. 1862; Pub. L. 107–107, div. A, title V, §527(b), Dec. 28, 2001, 115 Stat. 1102.)
+
+#### References in Text
+
+The date of the enactment of this paragraph, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 107–107, which was approved Dec. 28, 2001.
 
 #### Amendments
+
+2001—Subsec. (b)(2), (3). Pub. L. 107–107 added par. (2) and redesignated former par. (2) as (3).
 
 1997—Subsec. (d). Pub. L. 105–85 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
@@ -67,4 +75,16 @@ Definitions.—In this section:
 #### Effective Date
 
 Section 911(b)\[(c)\] of Pub. L. 101–510 provided that: “Section 2162 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1991.”
+
+#### Executive Agent for Funding Professional Development Education
+
+Pub. L. 107–107, div. A, title V, §527(a), Dec. 28, 2001, 115 Stat. 1101, provided that:
+
+“(1) Effective beginning with fiscal year 2003, the Secretary of Defense shall be the executive agent for funding professional development education operations of all components of the National Defense University, including the Joint Forces Staff College. The Secretary may not delegate the Secretary's functions and responsibilities under the preceding sentence to the Secretary of a military department.
+
+“(2) Nothing in this subsection affects policies in effect on the date of the enactment of this Act \[Dec. 28, 2001\] with respect to—
+
+&emsp;“(A) the reporting of the President of the National Defense University to the Chairman of the Joint Chiefs of Staff; or
+
+&emsp;“(B) provision of logistical and base operations support for components of the National Defense University by the military departments.”
 

@@ -10,7 +10,7 @@ For purposes of this section, the term “critical aquifer protection area” me
 
 &emsp;(1) All or part of an area located within an area for which an application or designation as a sole or principal source aquifer pursuant to section 300h–3(e) of this title, has been submitted and approved by the Administrator and which satisfies the criteria established by the Administrator under subsection (d) of this section.
 
-&emsp;(2) All or part of an area which is within an aquifer designated as a sole source aquifer as of June 19, 1986, and for which an areawide ground water quality protection plan has been approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\] prior to June 19, 1986.
+&emsp;(2) All or part of an area which is within an aquifer designated as a sole source aquifer asof June 19, 1986, and for which an areawide ground water quality protection plan has been approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\] prior to June 19, 1986.
 
 #### (c) Application
 
@@ -88,7 +88,7 @@ During the development of a comprehensive management plan under this section, th
 
 #### (i) Approval or disapproval
 
-Within 120 days after receipt of an application under this section, the Administrator shall approve or disapprove the application. The approval or disapproval shall be based on a determination that the critical protection area satisfies the criteria established under subsection (d)of this section and that a demonstration program for the area would provide protection for ground water quality consistent with the objectives stated in subsection (f) of this section. The Administrator shall provide to the Governor a written explanation of the reasons for the disapproval of any such application. Any petitioner may modify and resubmit any application which is not approved. Upon approval of an application, the Administrator may enter into a cooperative agreement with the applicant to establish a demonstration program under this section.
+Within 120 days after receipt of an application under this section, the Administrator shall approve or disapprove the application. The approval or disapproval shall be based on a determination that the critical protection area satisfies the criteria established under subsection (d) of this section and that a demonstration program for the area would provide protection for ground water quality consistent with the objectives stated in subsection (f) of this section. The Administrator shall provide to the Governor a written explanation of the reasons for the disapproval of any such application. Any petitioner may modify and resubmit any application which is not approved. Upon approval of an application, the Administrator may enter into a cooperative agreement with the applicant to establish a demonstration program under this section.
 
 #### (j) Grants and reimbursement
 
@@ -139,7 +139,7 @@ Subsec. (k). Pub. L. 104–182, §501(b)(2), substituted “this section” for 
 
 Subsec. (m). Pub. L. 104–182, §120(a)(2), inserted table item relating to fiscal years 1992 through 2003.
 
-1995—Subsecs. (<i>l</i>) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
+1995—Subsecs. (<i>l</i>) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, andstruck out heading and text of former subsec. (<i>l</i>). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
 
 1986—Subsec. (n). Pub. L. 99–339 added subsec. (n).
 

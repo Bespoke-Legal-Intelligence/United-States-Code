@@ -128,7 +128,7 @@ Any person who knowingly or intentionally—
 
 (1) Any person who assembles, maintains, places, or causes to be placed a boobytrap on Federal property where a controlled substance is being manufactured, distributed, or dispensed shall be sentenced to a term of imprisonment for not more than 10 years and shall be fined not more than $10,000.
 
-(2) If any person commits such a violation after 1 or more prior convictions for an offense punishable under this subsection, such person shall be sentenced to a term of imprisonment of not more than 20 years and shall be fined not more than $20,000.
+(2) If any person commits such a violation after 1 or more prior convictions for an offense punishable under this subsection, such personshall be sentenced to a term of imprisonment of not more than 20 years and shall be fined not more than $20,000.
 
 (3) For the purposes of this subsection, the term “boobytrap” means any concealed or camouflaged device designed to cause bodily injury when triggered by any action of any unsuspecting person making contact with the device. Such term includes guns, ammunition, or explosive devices attached to trip wires or other triggering mechanisms, sharpened stakes, and lines or wires with hooks attached.
 
@@ -142,7 +142,7 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 (2) Whoever possesses any listed chemical, with knowledge that the recordkeeping or reporting requirements of section 830 of this title have not been adhered to, if, after such knowledge is acquired, such person does not take immediate steps to remedy the violation shall be fined under title 18 or imprisoned not more than one year, or both.
 
-(Pub. L. 91–513, title II, §401, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 95–633, title II, §201, Nov. 10, 1978, 92 Stat. 3774; Pub. L. 96–359, §8(c), Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, §§224(a), 502, 503(b)(1), (2), Oct. 12, 1984, 98 Stat. 2030, 2068, 2070; Pub. L. 99–570, title I, §§1002, 1003(a), 1004(a), 1005(a), 1103, title XV, §15005, Oct. 27, 1986, 100 Stat. 3207–2, 3207–5, 3207–6, 3207–11, 3702–192; Pub. L. 100–690, title VI, §§6055, 6254(h), 6452(a), 6470(g), (h), 6479, Nov. 18, 1988, 102 Stat. 4318, 4367, 4371, 4378, 4381; Pub. L. 101–647, title X, §1002(e), title XII, §1202, title XXXV, §3599K, Nov. 29, 1990, 104 Stat. 4828, 4830, 4932; Pub. L. 103–322, title IX, §90105(a), (c), title XVIII,§180201(b)(2)(A), Sept. 13, 1994, 108 Stat. 1987, 1988, 2047; Pub. L. 104–237, title II, §206(a), title III, §302(a), Oct. 3, 1996, 110 Stat. 3103, 3105; Pub. L. 104–305, §2(a), (b)(1), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 105–277, div. E, §2(a), Oct. 21, 1998, 112 Stat. 2681–759; Pub. L. 106–172, §§3(b)(1), 5(b), 9, Feb. 18, 2000, 114 Stat. 9, 10, 13.)
+(Pub. L. 91–513, title II, §401, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 95–633, title II, §201, Nov. 10, 1978, 92 Stat. 3774; Pub. L. 96–359, §8(c), Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, §§224(a), 502, 503(b)(1), (2), Oct. 12, 1984, 98 Stat. 2030, 2068, 2070; Pub. L. 99–570, title I, §§1002, 1003(a), 1004(a), 1005(a), 1103, title XV, §15005, Oct. 27, 1986, 100 Stat. 3207–2, 3207–5, 3207–6, 3207–11, 3702–192; Pub. L. 100–690, title VI, §§6055, 6254(h), 6452(a), 6470(g), (h), 6479, Nov. 18, 1988, 102 Stat. 4318, 4367, 4371, 4378, 4381; Pub. L. 101–647, title X, §1002(e), title XII, §1202, title XXXV, §3599K, Nov. 29, 1990, 104 Stat. 4828, 4830, 4932; Pub. L. 103–322, title IX, §90105(a), (c), title XVIII, §180201(b)(2)(A), Sept. 13, 1994, 108 Stat. 1987, 1988, 2047; Pub. L. 104–237, title II, §206(a), title III, §302(a), Oct. 3, 1996, 110 Stat. 3103, 3105; Pub. L. 104–305, §2(a), (b)(1), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 105–277, div. E, §2(a), Oct. 21, 1998, 112 Stat. 2681–759; Pub. L. 106–172, §§3(b)(1), 5(b), 9, Feb. 18, 2000, 114 Stat. 9, 10, 13.)
 
 #### References in Text
 
@@ -248,7 +248,7 @@ Pub. L. 99–570, §§1002(1), 1003(a)(1), redesignated former subpar. (C) as (D
 
 Subsec. (b)(2). Pub. L. 99–570, §1004(a), substituted “term of supervised release” for “special parole term” in two places.
 
-Pub. L. 99–570, §1003(a)(2), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $25,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual” for “a fine of not more than $50,000”.
+Pub. L. 99–570, §1003(a)(2), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant isother than an individual” for “a fine of not more than $25,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual” for “a fine of not more than $50,000”.
 
 Subsec. (b)(3). Pub. L. 99–570, §1003(a)(3), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $100,000 if the defendant is an individual or $250,000 if the defendant is other than an individual” for “a fine of not more than $10,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $200,000 if the defendant is an individual or $500,000 if the defendant is other than an individual” for “a fine of not more than $20,000”.
 
@@ -274,7 +274,7 @@ Pub. L. 98–473, §224(a)(1)–(3), (5), which directed amendment of this subse
 
 Subsec. (b)(1)(A). Pub. L. 98–473, §502(1)(A), added subpar. (A). Former subpar. (A) redesignated (B).
 
-Subsec. (b)(1)(B). Pub. L. 98–473, §502(1)(A), (B), redesignated former subpar. (A) as (B), substituted “except as provided in subparagraphs (A) and (C),” for “which is a narcotic drug”, “$125,000” for “$25,000”, and “$250,000” for “$50,000”, and inserted references to lawsof a State and a foreign country. Former subpar. (B) redesignated (C).
+Subsec. (b)(1)(B). Pub. L. 98–473, §502(1)(A), (B), redesignated former subpar. (A) as (B), substituted “except as provided in subparagraphs (A) and (C),” for “which is a narcotic drug”, “$125,000” for “$25,000”, and “$250,000” for “$50,000”, and inserted references to laws of a State and a foreign country. Former subpar. (B) redesignated (C).
 
 Subsec. (b)(1)(C). Pub. L. 98–473, §502(1)(A), (C), redesignated former subpar. (B) as (C), substituted “less than 50 kilograms of marihuana, 10 kilograms of hashish, or one kilogram of hashish oil” for “a controlled substance in schedule I or II which is not a narcotic drug”, “and (5)” for “, (5), and (6)”, “$50,000” for “$15,000”, and “$100,000” for “$30,000”, and inserted references to laws of a State and a foreign country.
 

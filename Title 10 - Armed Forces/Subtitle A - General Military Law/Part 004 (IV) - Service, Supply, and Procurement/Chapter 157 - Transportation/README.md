@@ -20,10 +20,13 @@
 | [2644\.](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md) | Control of transportation systems in time of war. |
 | [2645\.](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md) | Indemnification of Department of Transportation for losses covered by vessel war risk insurance. |
 | [2646\.](%C2%A7%2002646%20-%20Travel%20services%20procurement%20for%20official%20and%20unofficial%20travel%20under%20one%20contract.md) | Travel services: procurement for official and unofficial travel under one contract. |
+| [2647\.](%C2%A7%2002647%20-%20Next-of-kin%20of%20persons%20unaccounted%20for%20from%20conflicts%20after%20World%20War%20II%20transportation%20to%20annual%20meetings.md) | Next-of-kin of persons unaccounted for from conflicts after World War II: transportation to annual meetings. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title V, §574(b), Dec. 28, 2001, 115 Stat. 1122, added item 2647.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1009(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, substituted “Deductions from amounts due carriers” for “Deductions from carriers because of loss or damage to material in transit” in item 2636.
 
@@ -84,3 +87,4 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 - [&sect; 02644 - Control of transportation systems in time of war](%C2%A7%2002644%20-%20Control%20of%20transportation%20systems%20in%20time%20of%20war.md)
 - [&sect; 02645 - Indemnification of Department of Transportation for losses covered by vessel war risk insurance](%C2%A7%2002645%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20vessel%20war%20risk%20insurance.md)
 - [&sect; 02646 - Travel services procurement for official and unofficial travel under one contract](%C2%A7%2002646%20-%20Travel%20services%20procurement%20for%20official%20and%20unofficial%20travel%20under%20one%20contract.md)
+- [&sect; 02647 - Next-of-kin of persons unaccounted for from conflicts after World War II transportation to annual meetings](%C2%A7%2002647%20-%20Next-of-kin%20of%20persons%20unaccounted%20for%20from%20conflicts%20after%20World%20War%20II%20transportation%20to%20annual%20meetings.md)

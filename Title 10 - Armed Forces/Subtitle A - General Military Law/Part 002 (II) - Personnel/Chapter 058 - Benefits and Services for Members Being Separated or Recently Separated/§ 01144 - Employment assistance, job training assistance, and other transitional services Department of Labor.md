@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Transportation, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member during the 180-day period before the member is separated from active duty.
+In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Transportation, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
 
-(2) The Secretary of Defense, the Secretary of Transportation, and the Secretary of Veterans Affairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
+(2) The Secretary of Defense, the Secretary of Transportation, and the Secretary of VeteransAffairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
 
-(3) The Secretaries referred to in paragraph (1) shall enter into a detailed agreement to carry out this section. The agreement shall be entered into no later than 60 days after the date of the enactment of this section.
+(3) The Secretaries referred to in paragraph (1) shall enter into a detailed agreement to carry out this section.
 
 (b)
 
@@ -48,21 +48,23 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 &emsp;(6) take other necessary action to develop and furnish the information and services to be provided under this section.
 
-(e)
-
-Funding.—(1) There is authorized to be appropriated to the Department of Labor to carry out this section $11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995.
-
-(2) There is authorized to be appropriated to the Department of Veterans Affairs to carry out this section $6,500,000 for each of fiscal years 1993, 1994, and 1995.
-
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227.)
 
 #### References in Text
-
-The date of the enactment of this section, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 101–510, which was approved Nov. 5, 1990.
 
 Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out as a note under section 4100 of Title 38, Veterans’ Benefits.
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–103, in second sentence, substituted “within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section” for “during the 180-day period before the member is separated from active duty”.
+
+Subsec. (a)(3). Pub. L. 107–107, §1048(e)(1)(A), struck out at end “The agreement shall be entered into no later than 60 days after the date of the enactment of this section.”
+
+Subsec. (e). Pub. L. 107–107, §1048(e)(1)(B), struck out heading and text of subsec. (e). Text read as follows:
+
+“(1) There is authorized to be appropriated to the Department of Labor to carry out this section $11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995.
+
+“(2) There is authorized to be appropriated to the Department of Veterans Affairs to carry out this section $6,500,000 for each of fiscal years 1993, 1994, and 1995.”
 
 1994—Subsec. (a)(1). Pub. L. 103–337, §543(b)(1), inserted “, the Secretary of Transportation,” after “Secretary of Defense” and substituted “concerned” for “of a military department”.
 

@@ -34,9 +34,9 @@
 
 (B) The Centers shall conduct research and training activities by—
 
-&emsp;(i) conducting coordinated and advanced programs of research in rehabilitation targeted toward the production of new knowledge that will improve rehabilitation methodology and service delivery systems, alleviate or stabilize disabling conditions, and promote maximum social and economic independence of individuals with disabilities, especially promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;
+&emsp;(i) conducting coordinated and advanced programs of research in rehabilitation targeted toward the production of new knowledge that will improve rehabilitation methodology and service delivery systems, alleviate or stabilizedisabling conditions, and promote maximum social and economic independence of individuals with disabilities, especially promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;
 
-&emsp;(ii) providing training (including graduate, pre-service, and in-service training) to assistindividuals to more effectively provide rehabilitation services;
+&emsp;(ii) providing training (including graduate, pre-service, and in-service training) to assist individuals to more effectively provide rehabilitation services;
 
 &emsp;(iii) providing training (including graduate, pre-service, and in-service training) for rehabilitation research personnel and other rehabilitation personnel; and
 
@@ -158,9 +158,9 @@
 
 &emsp;(ii) provide encouragement and support for initiatives and new approaches by individual and institutional investigators; and
 
-&emsp;(iii) establish and maintain close working relationships with other governmental and voluntary institutions and organizations engaged in similar efforts in order to unify and coordinate scientific efforts, encourage joint planning, and promote the interchange of data and reports among spinal cord injury investigations.
+&emsp;(iii) establish and maintain close working relationships with other governmental andvoluntary institutions and organizations engaged in similar efforts in order to unify and coordinate scientific efforts, encourage joint planning, and promote the interchange of data and reports among spinal cord injury investigations.
 
-(B) Any agency or organization carrying out a project or demonstration project assisted by agrant under this paragraph that provides services to individuals with spinal cord injuries shall—
+(B) Any agency or organization carrying out a project or demonstration project assisted by a grant under this paragraph that provides services to individuals with spinal cord injuries shall—
 
 &emsp;(i) establish, on an appropriate regional basis, a multidisciplinary system of providing vocational and other rehabilitation services, specifically designed to meet the special needs of individuals with spinal cord injuries, including acute care as well as periodic inpatient or outpatient followup and services;
 
@@ -202,7 +202,7 @@
 
 &emsp;(C) appropriate services for the parents of such children, including psychological and psychiatric services, parent counseling, and training.
 
-(13) Research grants may be used to conduct a model research and training program under which model training centers shall be established to develop and use more advanced and effective methods of evaluating and addressing the employment needs of individuals with disabilities, including programs that—
+(13) Research grants may be used to conduct a model research and training program underwhich model training centers shall be established to develop and use more advanced and effective methods of evaluating and addressing the employment needs of individuals with disabilities, including programs that—
 
 &emsp;(A) provide training and continuing education for personnel involved with the employment of individuals with disabilities;
 

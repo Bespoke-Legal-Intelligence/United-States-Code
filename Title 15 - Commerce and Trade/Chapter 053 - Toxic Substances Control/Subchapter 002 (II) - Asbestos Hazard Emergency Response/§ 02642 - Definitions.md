@@ -42,7 +42,7 @@ For purposes of this subchapter—
 
 &emsp;The term “local educational agency” means—
 
-&emsp;&emsp;(A) any local educational agency as defined in section 8801 of title 20,
+&emsp;&emsp;(A) any local educational agency as defined in section 7801 of title 20,
 
 &emsp;&emsp;(B) the owner of any private, nonprofit elementary or secondary school building, and
 
@@ -54,7 +54,7 @@ For purposes of this subchapter—
 
 #### (9) Non-profit elementary or secondary school
 
-&emsp;The term “non-profit elementary or secondary school” means any elementary or secondary school (as defined in section 8801 of title 20) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;The term “non-profit elementary or secondary school” means any elementary or secondary school (as defined in section 7801 of title 20) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (10) Public and commercial building
 
@@ -66,7 +66,7 @@ For purposes of this subchapter—
 
 #### (12) School
 
-&emsp;The term “school” means any elementary or secondary school as defined in section 8801 of title 20).
+&emsp;The term “school” means any elementary or secondary school as defined in section 7801 of title 20.
 
 #### (13) School building
 
@@ -84,7 +84,7 @@ For purposes of this subchapter—
 
 &emsp;The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Marianas, the Trust Territory of the Pacific Islands, and the Virgin Islands.
 
-(Pub. L. 94–469, title II, §202, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2971; amended Pub. L. 103–382, title III, §391(c)(1)–(3), Oct. 20, 1994, 108 Stat. 4022.)
+(Pub. L. 94–469, title II, §202, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2971; amended Pub. L. 103–382, title III, §391(c)(1)–(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 107–110, title X, §1076(f)(1), Jan. 8, 2002, 115 Stat. 2091.)
 
 #### References in Text
 
@@ -92,7 +92,13 @@ The Defense Dependents’ Education Act of 1978, referred to in par. (7)(C), is 
 
 #### Amendments
 
+2002—Pars. (7)(A), (9), (12). Pub. L. 107–110 substituted “7801” for “8801”.
+
 1994—Pars. (7)(A), (9), (12). Pub. L. 103–382 made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Termination of Trust Territory of the Pacific Islands
 

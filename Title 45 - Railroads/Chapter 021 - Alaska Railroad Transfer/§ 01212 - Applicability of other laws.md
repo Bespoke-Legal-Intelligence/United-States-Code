@@ -14,7 +14,7 @@ Beginning on January 14, 1983, the ceiling on Government contributions for Feder
 
 #### (d) Acreage entitlement of State or Native Corporation
 
-Nothing in this chapter is intended to enlarge or diminish the acreage entitlement of the State or any Native Corporation pursuant to existing law.
+Nothing in this chapter is intended to enlarge or diminish the acreage entitlement of the Stateor any Native Corporation pursuant to existing law.
 
 #### (e) Judgments involving interests, etc., of Native Corporations
 

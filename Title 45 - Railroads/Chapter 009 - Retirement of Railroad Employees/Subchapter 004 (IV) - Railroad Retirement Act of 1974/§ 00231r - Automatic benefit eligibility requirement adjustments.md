@@ -10,7 +10,7 @@ If title II of the Social Security Act \[42 U.S.C. 401 et seq.\] is amended at a
 
 #### (c) Reduced conditions of entitlement; expanded benefits
 
-If section 226 \[42 U.S.C. 426\] or title XVIII \[42 U.S.C. 1395 et seq.\] of the Social Security Act is amended at any time after December 31, 1974, to reduce the conditions of entitlement to, or to expand the nature of, the benefits payable thereunder, or if health care benefits in addition to, or in lieu of, the benefits payable under such section 226 or such title XVIII are provided by any provision of law which becomes effective at any time after December 31, 1974, such reductions in the conditions of entitlement to benefits, such expanded benefits, or such additional, or substituted, health care benefits shall be available to every employee (as defined in this subchapter), and those deriving from him, in the same manner, and to the same extent, as if his service as an employee after December 31, 1936, had been included in the term “employment” as defined in the Social Security Act \[42 U.S.C. 301 et seq.\]. The Board shall have the same authority, in accordance with regulations prescribed by it, to determine the rights of employees who will have completed ten years of service, and of those deriving from such employees, to benefits provided by reason of the provisions of this subsection as the Secretary of Health and Human Services has with respect to individuals insured under the Social Security Act.
+If section 226 \[42 U.S.C. 426\] or title XVIII \[42 U.S.C. 1395 et seq.\] of the Social Security Act is amended at any time after December 31, 1974, to reduce the conditions of entitlement to, or to expand the nature of, the benefits payable thereunder, or if health care benefits in addition to, or in lieu of, the benefits payable under such section 226 or such title XVIII are provided by any provision of law which becomes effective at any time after December 31, 1974, such reductions in the conditions of entitlement to benefits, such expanded benefits, or such additional, or substituted, health care benefits shall be available to every employee (as defined in this subchapter), and those deriving from him, in the same manner, and to the same extent, as if his service as an employee after December 31, 1936, had been included in the term “employment” as defined in the Social Security Act \[42 U.S.C. 301 et seq.\]. The Board shall have the same authority, in accordance with regulations prescribed by it, to determine the rights of employees who will have completed ten years of service (or five or more years of service, all of which accrues after December 31, 1995), and of those deriving from such employees, to benefits provided by reason of the provisions of this subsection as the Secretary of Health and Human Services has with respect to individuals insured under the Social Security Act.
 
 #### (d) Limitations
 
@@ -18,13 +18,13 @@ Notwithstanding the provisions of subsections (a), (b), and (c) of this section�
 
 &emsp;(1) No annuity or other benefit shall be payable to any person on the basis of the compensation and years of service of an individual by reason of the provisions of subsection (a), (b), or (c) of this section if, and to the extent that, such annuity or other benefit would duplicate a benefit payable to such person on the basis of such compensation and years of service under a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or any other Act of Congress, which becomes effective after December 31, 1974.
 
-&emsp;(2) No annuity shall be payable to a person by reason of subsection (a) or (b) of this section unless the individual upon whose compensation and years of service such annuity would be based will have (A) completed ten years of service, and (B) in the case of a survivor, had a current connection with the railroad industry at the time of his death.
+&emsp;(2) No annuity shall be payable to a person by reason of subsection (a) or (b) of this section unless the individual upon whose compensation and years of service such annuity would be based will have (A) completed ten years of service (or five or more years of service, all of which accrues after December 31, 1995), and (B) in the case of a survivor, had a current connection with the railroad industry at the time of his death.
 
 &emsp;(3) If the Social Security Act \[42 U.S.C. 301 et seq.\] is amended after December 31, 1974, to remove any, or all, restriction on the receipt of more than one monthly insurance benefit thereunder, annuity amounts provided a person under section 231b(h), 231c(e), or 231c(h) of this title, or under section 204(a)(3), 204(a)(4), 206(3), or 207(3) of title II of this Act, shall be reduced (but not below zero) by the amount of any annuity provided such person under this subchapter by reason of such amendment.
 
 &emsp;(4) If and to the extent that an annuity or other benefit payable to a person by reason of the provisions of subsection (a), (b), or (c) of this section duplicates an annuity or other benefit then payable to such person under other provisions of this subchapter, such annuity or other benefit then payable under other provisions of this subchapter shall be reduced (but not below zero) by the amount of the annuity or other benefit payable by reason of subsection (a), (b), or (c) of this section.
 
-(Aug. 29, 1935, ch. 812, §19, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1350; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Aug. 29, 1935, ch. 812, §19, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1350; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 107–90, title I, §103(h), Dec. 21, 2001, 115 Stat. 881.)
 
 #### References in Text
 
@@ -32,7 +32,17 @@ The Social Security Act, referred to in subsecs. (a), (b), (c), and (d)(1), (3),
 
 Sections 204(a)(3), 204(a)(4), 206(3), 207(3) of title II of this Act, referred to in subsec. (d)(3), are sections 204(a)(3), 204(a)(4), 206(3), 207(3) of title II of Pub. L. 93–445 and are set out as part of a Transitional Provisions note under section 231 of this title.
 
+#### Amendments
+
+2001—Subsec. (c). Pub. L. 107–90, §103(h)(1), inserted “(or five or more years of service, all of which accrues after December 31, 1995)” after “ten years of service”.
+
+Subsec. (d)(2). Pub. L. 107–90, §103(h)(2), inserted “(or five or more years of service, all of which accrues after December 31, 1995)” after “ten years of service”.
+
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–90 effective Jan. 1, 2002, see section 103(j) of Pub. L. 107–90, set out as a note under section 405 of Title 42, The Public Health and Welfare.
 

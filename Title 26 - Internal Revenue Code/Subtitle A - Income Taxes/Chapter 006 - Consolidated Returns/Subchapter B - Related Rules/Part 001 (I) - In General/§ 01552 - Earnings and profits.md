@@ -20,7 +20,7 @@ If no election is made in such first return, the tax liability shall be allocate
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(a)(159), 1906(b)(13)(A), struck out “beginning after December 31, 1953, and ending after the date of enactment of this title” after “group filed for a taxable year”, and “or his delegate” after “Secretary” in two places.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(a)(159), 1906(b)(13)(A), struck out “beginning after December 31,1953, and ending after the date of enactment of this title” after “group filed for a taxable year”, and “or his delegate” after “Secretary” in two places.
 
 <b>1964</b>—Subsec. (a)(3). Pub. L. 88–272 struck out “(determined without regard to the 2 percent increase provided by section 1503(a))”, before “based on their contributions”.
 

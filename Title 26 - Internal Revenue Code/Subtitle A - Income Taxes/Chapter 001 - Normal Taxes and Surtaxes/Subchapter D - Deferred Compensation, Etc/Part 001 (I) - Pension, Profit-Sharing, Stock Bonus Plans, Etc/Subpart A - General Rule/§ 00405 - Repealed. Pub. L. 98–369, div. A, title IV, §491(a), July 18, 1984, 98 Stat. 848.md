@@ -16,7 +16,7 @@ In general.—If—
 
 &emsp;“(i) any qualified bond is redeemed,
 
-&emsp;“(ii) any portion of the excess of the proceeds from such redemption over the basis of such bond is transferred to an individual retirement plan which ismaintained for the benefit of the individual redeeming such bond, or to a qualified trust (as defined in section 402(a)(5)(D)(iii)) for the benefit of such individual, and
+&emsp;“(ii) any portion of the excess of the proceeds from such redemption over the basis of such bond is transferred to an individual retirement plan which is maintained for the benefit of the individual redeeming such bond, or to a qualified trust (as defined in section 402(a)(5)(D)(iii)) for the benefit of such individual, and
 
 &emsp;“(iii) such transfer is made on or before the 60th day after the individual received the proceeds of such redemption,
 

@@ -82,7 +82,7 @@ The plan shall set forth the steps that will be taken to maximize the cooperatio
 
 #### (j) Coordination of services
 
-The plan shall describe how services funded under this part will be coordinated with, and complement, other services, in order to avoid unnecessary duplication with other Federal, State, and local programs.
+The plan shall describe how services funded under this part will be coordinated with, andcomplement, other services, in order to avoid unnecessary duplication with other Federal, State, and local programs.
 
 #### (k) Coordination between Federal and State sources
 

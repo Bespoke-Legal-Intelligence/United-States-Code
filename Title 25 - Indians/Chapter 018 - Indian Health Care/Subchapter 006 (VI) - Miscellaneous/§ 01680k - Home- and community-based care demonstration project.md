@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary, acting through the Service, is authorized to enter into contracts with, or make grants to, Indian tribes or tribal organizations providing health care services pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], to establish demonstration projects for the delivery of home- and community-based services to functionally disabled Indians.
+The Secretary, acting through the Service, is authorized to enter into contracts with, or make grants to, Indian tribes or tribal organizations providing health care services pursuant to a contract entered into under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], to establish demonstration projects for the delivery ofhome- and community-based services to functionally disabled Indians.
 
 #### (b) Use of funds
 

@@ -250,5 +250,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 279, 302, 304, 305, 306, 316, 317, 331, 341, 356, 852, 877, 1023, 1059, 1368, 1445, 2107, 2501 of this title.
+This section is referred to in sections 279, 302, 304, 305, 306, 316, 317, 331, 341, 356, 646, 852, 877, 1023, 1059, 1368, 1445, 2107, 2501 of this title.
 

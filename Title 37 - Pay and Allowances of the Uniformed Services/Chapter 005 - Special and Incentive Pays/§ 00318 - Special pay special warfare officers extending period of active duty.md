@@ -42,7 +42,7 @@ Payment Methods.—(1) Upon acceptance of an agreement under subsection (b) by t
 
 (g)
 
-Additional Pay.—A retention bonus paid under this section is in addition to any other pay and allowances to which an officer is entitled.
+Additional Pay.—A retention bonus paid under this section is in addition to any otherpay and allowances to which an officer is entitled.
 
 (h)
 
@@ -50,17 +50,19 @@ Repayment.—(1) If an officer who has entered into an agreement under subsectio
 
 (2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 
-(3) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (a) <sup>1</sup> does not discharge the officer signing the agreement from a debt arising under such agreement or under paragraph (1).
+(3) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (b) does not discharge the officer signing the agreement from a debt arising under such agreement or under paragraph (1).
 
 (i)
 
 Regulations.—The Secretaries concerned shall prescribe regulations to carry out this section, including the definition of the term “special warfare service” for purposes of this section. Regulations prescribed by the Secretary of a military department under this section shall be subject to the approval of the Secretary of Defense.
 
-(Added Pub. L. 106–65, div. A, title VI, §626(a)(1), Oct. 5, 1999, 113 Stat. 655.)
+(Added Pub. L. 106–65, div. A, title VI, §626(a)(1), Oct. 5, 1999, 113 Stat. 655; amended Pub. L. 107–107, div. A, title X, §1048(i)(7), Dec. 28, 2001, 115 Stat. 1229.)
+
+#### Amendments
+
+2001—Subsec. (h)(3). Pub. L. 107–107 substituted “subsection (b)” for “subsection (a)”.
 
 #### Effective Date
 
 Pub. L. 106–65, div. A, title VI, §626(b), Oct. 5, 1999, 113 Stat. 656, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)”.</i>
 

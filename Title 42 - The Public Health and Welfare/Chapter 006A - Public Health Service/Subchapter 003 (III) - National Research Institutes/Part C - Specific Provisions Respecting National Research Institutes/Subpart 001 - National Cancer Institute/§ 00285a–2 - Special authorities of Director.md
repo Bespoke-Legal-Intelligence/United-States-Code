@@ -1,6 +1,8 @@
 ### §285a–2. Special authorities of Director
 
-(a)(1) The Director of the Institute shall establish an information and education program to collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to cancer patients and their families, physicians and other health professionals, and the general public, information on cancer research, diagnosis, prevention, and treatment (including information respecting nutrition programs for cancer patients and the relationship between nutrition and cancer). The Director of the Institute may take such action as may be necessary to insure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the public and between the Institute and other scientific, medical, and biomedical disciplines and organizations nationally and internationally.
+#### (a) Information and education program
+
+(1) The Director of the Institute shall establish an information and education program to collect, identify, analyze, and disseminate on a timely basis, through publications and other appropriate means, to cancer patients and their families, physicians and other health professionals, and the general public, information on cancer research, diagnosis, prevention, and treatment (including information respecting nutrition programs for cancer patients and the relationship between nutrition and cancer). The Director of the Institute may take such action as may be necessary to insure that all channels for the dissemination and exchange of scientific knowledge and information are maintained between the Institute and the public and between the Institute and other scientific, medical, and biomedical disciplines and organizations nationally and internationally.
 
 (2) In carrying out paragraph (1), the Director of the Institute shall—
 
@@ -14,7 +16,9 @@
 
 &emsp;(E) to the extent practicable, in disseminating the results of such cancer research and treatment, utilize information systems available to the public.
 
-(b) The Director of the Institute in carrying out the National Cancer Program—
+#### (b) National Cancer Program
+
+The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;(1) shall establish or support the large-scale production or distribution of specialized biological materials and other therapeutic substances for cancer research and set standards of safety and care for persons using such materials;
 
@@ -38,15 +42,27 @@
 
 &emsp;(9) shall, notwithstanding section 284(a) of this title, prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for the National Cancer Program, after reasonable opportunity for comment (but without change) by the Secretary, the Director of NIH, and the Institute's advisory council.
 
-> Except as otherwise provided, experts and consultants whose services are obtained under paragraph (5) shall be paid or reimbursed, in accordance with title 5 for their travel to and from their place of service and for other expenses associated with their assignment. Such expenses shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (5) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt duethe United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
+> Except as otherwise provided, experts and consultants whose services are obtained under paragraph (5) shall be paid or reimbursed, in accordance with title 5 for their travel to and from their place of service and for other expenses associated with their assignment. Such expenses shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (5) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
 
-(July 1, 1944, ch. 373, title IV, §413, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 833; amended Pub. L. 100–607, title I, §122, Nov. 4, 1988, 102 Stat. 3054; Pub. L. 101–93, §5(c), Aug. 16, 1989, 103 Stat. 611; Pub. L. 103–43, title III, §301(a)(2), June 10, 1993, 107 Stat. 150.)
+#### (c) Pre-clinical models to evaluate promising pediatric cancer therapies
+
+#### (1) Expansion and coordination of activities
+
+&emsp;The Director of the National Cancer Institute shall expand, intensify, and coordinate the activities of the Institute with respect to research on the development of preclinical models to evaluate which therapies are likely to be effective for treating pediatric cancer.
+
+#### (2) Coordination with other institutes
+
+&emsp;The Director of the Institute shall coordinate the activities under paragraph (1) with similar activities conducted by other national research institutes and agencies of the National Institutes of Health to the extent that those Institutes and agencies have responsibilities that are related to pediatric cancer.
+
+(July 1, 1944, ch. 373, title IV, §413, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 833; amended Pub. L. 100–607, title I, §122, Nov. 4, 1988, 102 Stat. 3054; Pub. L. 101–93, §5(c), Aug. 16, 1989, 103 Stat. 611; Pub. L. 103–43, title III, §301(a)(2), June 10, 1993, 107 Stat. 150; Pub. L. 107–109, §15(b), Jan. 4, 2002, 115 Stat. 1420.)
 
 #### References in Text
 
 The provisions of title 5 relating to reimbursement for travel expenses, referred to in subsec. (b), are classified generally to section 5701 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–109 added subsec. (c).
 
 1993—Subsec. (b)(9). Pub. L. 103–43 struck out subpar. (A) designation and subpar. (B) which permitted Director to receive from President and Office of Management and Budget directly all funds appropriated by Congress for obligation and expenditure by Institute.
 

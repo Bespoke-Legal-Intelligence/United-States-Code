@@ -16,7 +16,7 @@ The period of limitations on collection after assessment prescribed in section 6
 
 #### (c) Taxpayer outside United States
 
-The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period during which the taxpayer is outside the United States if such period of absence is for a continuous period of at least 6 months. If the preceding sentence applies and at the time of the taxpayer's return to the United States the period of limitations on collection after assessment prescribed in section 6502 would expire before the expiration of 6 months from the date of his return, such period shall not expire before the expiration of such 6 months.
+The running of the period of limitations on collection after assessment prescribed in section 6502 shall be suspended for the period during which the taxpayer is outside the United States if such period of absence is for a continuous period of at least 6 months. If the preceding sentence applies and at the time of the taxpayer'sreturn to the United States the period of limitations on collection after assessment prescribed in section 6502 would expire before the expiration of 6 months from the date of his return, such period shall not expire before the expiration of such 6 months.
 
 #### (d) Extensions of time for payment of estate tax
 
@@ -82,7 +82,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 &emsp;&emsp;The term “designated summons” means any summons issued for purposes of determining the amount of any tax imposed by this title if—
 
-&emsp;&emsp;&emsp;(i) the issuance of such summons is preceded by a review of such issuance by the regional counsel of the Office of Chief Counsel for the region in which the examination of the corporation is being conducted,
+&emsp;&emsp;&emsp;(i) the issuance of such summons is preceded by a review of such issuance by theregional counsel of the Office of Chief Counsel for the region in which the examination of the corporation is being conducted,
 
 &emsp;&emsp;&emsp;(ii) such summons is issued at least 60 days before the day on which the period prescribed in section 6501 for the assessment of such tax expires (determined with regard to extensions), and
 
@@ -152,7 +152,7 @@ Subsec. (<i>l</i>). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsec
 
 Pub. L. 104–168, §1002(c), which directed that subsec. (<i>l</i>) be redesignated as (k), could not be executed, because that subsection was redesignated (k) by Pub. L. 104–188, §1702(h)(17). See above and see Effective Date of 1996 Amendments note below.
 
-<b>1990</b>—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h)“Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970” which read as follows: “The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax.”
+<b>1990</b>—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) “Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970” which read as follows: “The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax.”
 
 Subsec. (k). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsec. (k) as (j).
 
@@ -312,7 +312,7 @@ Amendment by act Aug. 6, 1956, applicable in the case of decedents dying after A
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by section 11801(c)(20)(A) of Pub. L. 101–508 be construed to affecttreatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Annual Report to Congress Concerning Designated Summonses
 

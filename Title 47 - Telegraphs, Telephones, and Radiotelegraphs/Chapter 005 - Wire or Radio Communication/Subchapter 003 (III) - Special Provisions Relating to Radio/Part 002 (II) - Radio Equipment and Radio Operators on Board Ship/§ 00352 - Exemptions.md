@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 89–121, §3(b), excepted nuclear ships and substituted �
 
 Subsec. (d). Pub. L. 89–121, §3(c), added subsec. (d).
 
-1954—Subsec. (a)(3). Act Aug. 13, 1954, §1(b), substituted “any Safety Convention in force between theUnited States and that country” for “the Safety Convention and” and inserted at end “or which ship is not subject to the radio provisions of any such Convention”.
+1954—Subsec. (a)(3). Act Aug. 13, 1954, §1(b), substituted “any Safety Convention in force between the United States and that country” for “the Safety Convention and” and inserted at end “or which ship is not subject to the radio provisions of any such Convention”.
 
 Subsec. (c). Act Aug. 13, 1954, §1(c), added subsec. (c).
 

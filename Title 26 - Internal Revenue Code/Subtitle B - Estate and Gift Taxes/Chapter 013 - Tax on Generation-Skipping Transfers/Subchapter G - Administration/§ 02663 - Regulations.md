@@ -2,7 +2,7 @@
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this chapter, including—
 
-&emsp;(1) such regulations as may be necessary to coordinate the provisions of this chapter withthe recapture tax imposed under section 2032A(c),
+&emsp;(1) such regulations as may be necessary to coordinate the provisions of this chapter with the recapture tax imposed under section 2032A(c),
 
 &emsp;(2) regulations (consistent with the principles of chapters 11 and 12) providing for the application of this chapter in the case of transferors who are nonresidents not citizens of the United States, and
 

@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 161
 
 #### Codification
 
-Section was enacted as part of the Superfund Amendments and Reauthorization Act of 1986, and not as part of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 which comprises this chapter.
+Section was enacted as part of the Superfund Amendments and Reauthorization Act of 1986, and not as partof the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 which comprises this chapter.
 
 #### Section Referred to in Other Sections
 

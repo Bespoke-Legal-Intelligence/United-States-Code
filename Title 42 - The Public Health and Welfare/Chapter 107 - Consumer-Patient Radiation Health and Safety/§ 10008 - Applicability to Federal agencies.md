@@ -12,7 +12,7 @@
 
 1991—Subsec. (b). Pub. L. 102–54 substituted “The Secretary of Veterans Affairs, through the Chief Medical Director of the Department of Veterans Affairs, shall, to the maximum extent feasible consistent with the responsibilities of such Secretary and Chief Medical Director under title 38” for “(1) The Administrator of Veterans’ Affairs, through the Chief Medical Director of the Veterans’ Administration, shall, to the maximum extent feasible consistent with the responsibilities of such Administrator and Chief Medical Director under subtitle 38”, “over which that Secretary” for “over which the Administrator”, and “Secretary of Veterans Affairs” for “Administrator” wherever else appearing, and struck out pars. (2) and (3) which read as follows:
 
-“(2) Not later than 180 days after standards are promulgated by the Secretary pursuant to this chapter, the Administrator of Veterans’ Affairs shall submit to the appropriate committees of Congress a full report with respect to the regulations (including guidelines, policies, and procedures thereunder) prescribed pursuant to paragraph (1) of this subsection. Such report shall include—
+“(2) Not later than 180 days after standards are promulgated by the Secretary pursuant to this chapter, the Administrator of Veterans’ Affairs shall submit to the appropriate committees of Congress a full report with respect to the regulations (including guidelines,policies, and procedures thereunder) prescribed pursuant to paragraph (1) of this subsection. Such report shall include—
 
 &emsp;“(A) an explanation of any inconsistency between standards made applicable by such regulations and the standards promulgated by the Secretary pursuant to this chapter;
 

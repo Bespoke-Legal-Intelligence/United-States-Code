@@ -54,11 +54,11 @@ The requirements of subsection (a) of this section shall not apply—
 
 #### (d) Termination of plan
 
-(1) Upon termination of a pension plan to which section 1321 of this title does not apply at the time of termination and to which this part applies (other than a plan to which no employer contributions have been made) the assets of the plan shall be allocated in accordance with the provisions of section 1344 of this title, except as otherwise provided in regulations of the Secretary.
+(1) Upon termination of a pension plan to which section 1321 of this title does not apply atthe time of termination and to which this part applies (other than a plan to which no employer contributions have been made) the assets of the plan shall be allocated in accordance with the provisions of section 1344 of this title, except as otherwise provided in regulations of the Secretary.
 
 (2) The assets of a welfare plan which terminates shall be distributed in accordance with the terms of the plan, except as otherwise provided in regulations of the Secretary.
 
-(Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV, §§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c), Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3),Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 106–170, title V, §535(a)(2)(B), Dec. 17, 1999, 113 Stat. 1934.)
+(Pub. L. 93–406, title I, §403, Sept. 2, 1974, 88 Stat. 876; Pub. L. 96–364, title III, §310, title IV, §§402(b)(2), 410(a), 411(c), Sept. 26, 1980, 94 Stat. 1296, 1299, 1308; Pub. L. 100–203, title IX, §9343(c), Dec. 22, 1987, 101 Stat. 1330–372; Pub. L. 101–239, title VII, §§7881(k), 7891(a)(1), 7894(e)(1)(A), (3), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(a), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(B), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 106–170, title V, §535(a)(2)(B), Dec. 17, 1999, 113 Stat. 1934.)
 
 #### References in Text
 
@@ -124,5 +124,5 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1104, 1105, 1114, 1403 of this title; title 26 section 409.
+This section is referred to in sections 1003, 1104, 1105, 1114, 1403 of this title; title 26 section 409.
 

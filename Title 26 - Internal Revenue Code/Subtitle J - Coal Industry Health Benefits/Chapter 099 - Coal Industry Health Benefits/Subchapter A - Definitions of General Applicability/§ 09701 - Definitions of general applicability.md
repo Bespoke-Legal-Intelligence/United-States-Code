@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 #### (2) 1950 UMWA Pension Plan
 
-&emsp;The term “1950 UMWA Pension Plan” means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired before 1976.
+&emsp;The term “1950 UMWA Pension Plan” means a pension plan described in section 404(c) (or acontinuation thereof), participation in which is substantially limited to individuals who retired before 1976.
 
 #### (3) 1974 UMWA Pension Plan
 

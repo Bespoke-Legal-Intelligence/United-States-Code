@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to perform any and all acts and to m
 
 #### References in Text
 
-This Act, referred to in text, refers both to act June 17, 1902, popularly known as the Reclamation Act, and to act Aug. 13, 1914. See Codification note set out below. For classification of act June 17, 1902 to the Code, see Short Title note set out under section 371 of this title and Tables. Act Aug. 13, 1914, is classified to sections 373, 414, 418, 435 to 437, 440, 443, 464, 465, 469, 471, 472, 475, 477 to 481, 492, 493, 494 to 497, and 499 of this title.
+This Act, referred to in text, refers both to act June 17, 1902, popularly known as the Reclamation Act, and to act Aug. 13, 1914. See Codification note set out below. For classification of act June 17, 1902 to the Code, see Short Title note set out under section 371 of this title and Tables. Act Aug. 13, 1914, is classified tosections 373, 414, 418, 435 to 437, 440, 443, 464, 465, 469, 471, 472, 475, 477 to 481, 492, 493, 494 to 497, and 499 of this title.
 
 #### Codification
 

@@ -80,7 +80,7 @@
 
 &emsp;In establishing the procedure, the Governor shall require that, to be eligible to continue to receive funds as described in subsection (a) of this section for a program after the initial period of eligibility, a provider described in subsection (a)(2) of this section shall—
 
-&emsp;&emsp;(A) submit the performance information and program cost information described in subsection (d)(1) of this section for the program and any additional information required to be submitted in accordance with subsection (d)(2) of this section for the program annually to the appropriate local board at such time and in such manner as may be required; and
+&emsp;&emsp;(A) submit the performance information and program cost information described insubsection (d)(1) of this section for the program and any additional information required to be submitted in accordance with subsection (d)(2) of this section for the program annually to the appropriate local board at such time and in such manner as may be required; and
 
 &emsp;&emsp;(B) annually meet the performance levels described in paragraph (6) for the program, as demonstrated utilizing quarterly records described in section 2871 of this title, in a manner consistent with section 2871 of this title.
 
@@ -190,7 +190,7 @@
 
 #### (4) Construction
 
-&emsp;This subsection and subsection (g) of this section shall be construed to provide remediesand penalties that supplement, but do not supplant, other civil and criminal remedies and penalties.
+&emsp;This subsection and subsection (g) of this section shall be construed to provide remedies and penalties that supplement, but do not supplant, other civil and criminal remedies and penalties.
 
 #### (g) Appeal
 
@@ -204,7 +204,7 @@ The Governor shall establish procedures for providers of training services to ap
 
 #### (2) Collection and dissemination of information
 
-&emsp;A one-stop operator in a local area shall collect such performance information from on-the-job training and customized training providers as the Governor may require, determine whether the providers meet such performance criteria as the Governor may require, and disseminate information identifying providers that meet the criteria as eligible providers, and the performance information, through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
+&emsp;A one-stop operator in a local area shall collect such performance information from on-the-job training and customized training providers as the Governor may require, determinewhether the providers meet such performance criteria as the Governor may require, and disseminate information identifying providers that meet the criteria as eligible providers, and the performance information, through the one-stop delivery system. Providers determined to meet the criteria shall be considered to be identified as eligible providers of training services.
 
 #### (i) Administration
 

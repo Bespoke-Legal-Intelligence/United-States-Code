@@ -10,7 +10,7 @@ Scheduled Operations.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (3), an air carrier, including an indirect air carrier, may not provide, in aircraft designed for more than 9 passenger seats, regularly scheduled charter air transportation for which the public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flight unless such air transportation is to andfrom an airport that has an airport operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulation).
+In general.—Except as provided in paragraph (3), an air carrier, including an indirect air carrier, may not provide, in aircraft designed for more than 9 passenger seats, regularly scheduled charter air transportation for which the public is provided in advance a schedule containing the departure location, departure time, and arrival location of the flight unless such air transportation is to and from an airport that has an airport operating certificate issued under part 139 of title 14, Code of Federal Regulations (or any subsequent similar regulation).
 
 &emsp;(2)
 
@@ -90,7 +90,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(n)(6); added July 10, 1962,
 
 In subsection (a), the word “rule” is omitted as being synonymous with “regulation”. The words “charter air transportation” are substituted for “charter trips” for consistency in this part. The text of 49 App.:1371(n)(4) and 1551(n)(1)(E) (related to 49 App.:1371(n)(4)) is omitted because inclusive tour charters have been abolished and charter air carriers have received authority to sell public charter flights directly to the public.
 
-In subsection (b), before clause (1), the words “Notwithstanding any other provision of this subchapter” are omitted as surplus. The words “An air carrier holding” are added for clarity. The words “State of” are omitted as surplus. The word “modifying” is added for consistency in the revised title. The words “citizen of the United States” are substituted for “person” for clarity and consistency because only a citizen of the United States may be an “air carrier” as defined in section 40102(a) of the revised title.
+In subsection (b), before clause (1), the words “Notwithstanding any other provision of this subchapter” are omitted as surplus. The words “An air carrier holding” are added for clarity. The words “State of” are omitted as surplus. The word “modifying” is added for consistency in the revised title. The words “citizen ofthe United States” are substituted for “person” for clarity and consistency because only a citizen of the United States may be an “air carrier” as defined in section 40102(a) of the revised title.
 
 In subsection (c), the words “the requirements described in” are added for clarity.
 

@@ -24,7 +24,7 @@ Health Care Officers Described.—A health care officer referred to in subsectio
 
 (c)
 
-Monthly Payments.—Payment of special pay pursuant to this section may be made on amonthly basis. The officer shall refund any amount received under this section in excess of the amount that corresponds to the actual period of active duty served by the officer.
+Monthly Payments.—Payment of special pay pursuant to this section may be made on a monthly basis. The officer shall refund any amount received under this section in excess of the amount that corresponds to the actual period of active duty served by the officer.
 
 (d)
 

@@ -1,6 +1,6 @@
 ### §3022. Amount of supplemental educational assistance
 
-(a) The amount of payment of educational assistance under this chapter is subject to section3032 of this title. Except as otherwise provided under subsection (b) of this section, supplemental educational assistance under section 3021 of this title shall be paid—
+(a) The amount of payment of educational assistance under this chapter is subject to section 3032 of this title. Except as otherwise provided under subsection (b) of this section, supplemental educational assistance under section 3021 of this title shall be paid—
 
 &emsp;(1) at a monthly rate of $300 for an approved program of education pursued on a full-time basis; or
 

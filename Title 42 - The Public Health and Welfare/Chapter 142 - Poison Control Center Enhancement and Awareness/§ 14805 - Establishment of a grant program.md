@@ -24,7 +24,7 @@ Except as provided in subsection (d) of this section, the Secretary may make a g
 
 &emsp;(1) the center has been certified by a professional organization in the field of poison control, and the Secretary has approved the organization as having in effect standards for certification that reasonably provide for the protection of the public health with respect to poisoning; or
 
-&emsp;(2) the center has been certified by a State government, and the Secretary has approved the State government as having in effect standards for certification that reasonably provide for the protection of the public health with respect to poisoning.
+&emsp;(2) the center has been certified by a State government, and the Secretary has approvedthe State government as having in effect standards for certification that reasonably provide for the protection of the public health with respect to poisoning.
 
 #### (d) Waiver of certification requirements
 

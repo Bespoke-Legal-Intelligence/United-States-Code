@@ -56,7 +56,7 @@
 
 (g) For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of the Brigade of Midshipmen, the Secretary of the Navy may for any year permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Pub. L. 87–651, title I, §124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, §1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, §1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–600, §2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, §1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X, §1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, §532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(2), Oct. 5, 1999, 113 Stat. 602; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 429; Pub. L. 87–651, title I, §124, Sept. 7, 1962, 76 Stat. 514; Pub. L. 87–663, §1(3), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §2, Mar. 3, 1964, 78 Stat. 150; Pub. L. 89–650, §1(1)–(3), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(2), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §2(1)–(3), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–600, §2(b), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(b)(2), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 97–295, §1(44), Oct. 12, 1982, 96 Stat. 1298; Pub. L. 98–94, title X, §1005(a)(2), (b)(2), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(b)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1673(c), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–106, div. A, title V, §532(b), Feb. 10, 1996, 110 Stat. 314; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(2), Oct. 5, 1999, 113 Stat. 602; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–107, div. A, title X, §1048(g)(1), Dec. 28, 2001, 115 Stat. 1228.)
 
 Historical and Revision Notes<br>1956
 
@@ -144,11 +144,13 @@ In 10:6954(f), the word “The” is substituted for “Effective beginning with
 
 #### Amendments
 
+2001—Subsec. (a). Pub. L. 107–107 amended directory language of Pub. L. 106–65, §531(b)(2)(A). See 1999 Amendment note below.
+
 2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)(1)\], struck out “, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
 
 Subsec. (b)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title V, §531(b)(2)\], added subpars. (C) and (D).
 
-1999—Subsec. (a). Pub. L. 106–65, §531(b)(2)(A), which directed amendment of this section by substituting “(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, midshipmen are selected as follows:” for the matter preceding paragraph (1), was executed by making the substitution for the introductory provisions in subsec. (a) which read as follows: “(a) There may be at the Naval Academy at any one time midshipmen as follows:”
+1999—Subsec. (a). Pub. L. 106–65, §531(b)(2)(A), as amended by Pub. L. 107–107, §1048(g)(1), substituted “(a) The authorized strength of the Brigade of Midshipmen (determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, midshipmen are selected as follows:” for “(a) There may be at the Naval Academy at any one time midshipmen as follows:” in introductory provisions.
 
 Subsec. (g). Pub. L. 106–65, §531(b)(2)(B), added subsec. (g).
 
@@ -207,6 +209,10 @@ Subsecs. (d), (e). Pub. L. 88–276, §2(3), added subsecs. (d) and (e).
 1962—Subsec. (a). Pub. L. 87–663 added cl. (9).
 
 Pub. L. 87–651 substituted “Panama Canal Company” for “Panama Railroad Company” in cl. (8).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title X, §1048(g), Dec. 28, 2001, 115 Stat. 1228, provided that the amendment made by section 1048(g)(1) is effective as of Oct. 5, 1999, and as if included in Pub. L. 106–65 as enacted.
 
 #### Effective Date of 1994 Amendment
 

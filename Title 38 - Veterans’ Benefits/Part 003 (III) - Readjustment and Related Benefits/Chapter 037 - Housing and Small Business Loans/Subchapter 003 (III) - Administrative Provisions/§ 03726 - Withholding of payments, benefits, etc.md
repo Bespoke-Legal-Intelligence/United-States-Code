@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1997—Pub. L. 105–33 designated existing provisions as subsec. (a), substituted “unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.” for “unless (1) there is first received the consent in writing of such veteran or surviving spouse, as the case may be, or (2)such liability and the amount thereof was determined by a court of competent jurisdiction in a proceeding to which such veteran or surviving spouse was a party.”, and added subsecs. (b) and (c).
+1997—Pub. L. 105–33 designated existing provisions as subsec. (a), substituted “unless the Secretary provides such veteran or surviving spouse with notice by certified mail with return receipt requested of the authority of the Secretary to waive the payment of indebtedness under section 5302(b) of this title.” for “unless (1) there is first received the consent in writing of such veteran or surviving spouse, as the case may be, or (2) such liability and the amount thereof was determined by a court of competent jurisdiction in a proceeding to which such veteran or surviving spouse was a party.”, and added subsecs. (b) and (c).
 
 1991—Pub. L. 102–83 renumbered section 1826 of this title as this section.
 

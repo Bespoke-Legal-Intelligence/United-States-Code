@@ -10,7 +10,7 @@ Gas and Hazardous Liquid.—To carry out this chapter (except for sections 60107
 
 &emsp;(3) $20,729,000 for fiscal year 1998, of which $15,100,000 is to be derived from user fees for fiscal year 1998 collected under section 60301 of this title;
 
-&emsp;(4) $21,442,000 for fiscal year 1999, of which $15,700,000 is to be derived from user fees forfiscal year 1999 collected under section 60301 of this title; and
+&emsp;(4) $21,442,000 for fiscal year 1999, of which $15,700,000 is to be derived from user fees for fiscal year 1999 collected under section 60301 of this title; and
 
 &emsp;(5) $22,194,000 for fiscal year 2000, of which $16,300,000 is to be derived from user fees for fiscal year 2000 collected under section 60301 of this title.
 
@@ -136,7 +136,7 @@ In subsection (b), the words “(except sections 60107” are substituted for �
 
 In subsection (c)(1) and (2), the words “the Federal grants-in-aid provisions of” are omitted as surplus.
 
-In subsection (c)(3), the words “the amount of” are omitted as surplus. The word “program” is added for consistency in this chapter. The words “made to a State” are omitted as surplus.
+In subsection (c)(3), the words “the amount of” are omitted as surplus. The word “program” is added forconsistency in this chapter. The words “made to a State” are omitted as surplus.
 
 In subsection (e), the text of 49 App.:1684(a) (last sentence) is omitted as expired.
 

@@ -100,7 +100,7 @@
 
 #### (iv) Step 4
 
-&emsp;&emsp;&emsp;Multiply by 100 the total arrived at under the steps set forth in clauses (i)through (iii) so as to obtain a percentage rate, which shall be rounded to the nearest 100th of 1 percent. If the total arrived at under such steps is 0 or less than 0, the percentage rate as so computed shall be 0.
+&emsp;&emsp;&emsp;Multiply by 100 the total arrived at under the steps set forth in clauses (i) through (iii) so as to obtain a percentage rate, which shall be rounded to the nearest 100th of 1 percent. If the total arrived at under such steps is 0 or less than 0, the percentage rate as so computed shall be 0.
 
 #### (v) Step 5
 
@@ -120,7 +120,7 @@
 
 #### (D) New-employer contribution rates
 
-&emsp;&emsp;Notwithstanding subparagraphs (B) and (C), the contribution rate applicable to a new employer who does not become subject to this chapter until after December 31, 1989, shall be determined as follows:
+&emsp;&emsp;Notwithstanding subparagraphs (B) and (C), the contribution rate applicable to a new employer who does not become subjectto this chapter until after December 31, 1989, shall be determined as follows:
 
 #### (i) 1st calendar year
 
@@ -272,7 +272,7 @@
 
 #### (F) Step 6
 
-&emsp;&emsp;Subtract the aggregate amount of all other income and receipts of the account,during that period, which are not assigned to individual employer balances.
+&emsp;&emsp;Subtract the aggregate amount of all other income and receipts of the account, during that period, which are not assigned to individual employer balances.
 
 #### (G) Step 7
 
@@ -288,7 +288,7 @@
 
 #### (A) Step 1
 
-&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on the preceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of any year, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a pooled credit ratio for the calendar year only if that balance is in excess of the greater of $250,000,000 or of the amount that bears the same ratio to $250,000,000 as the system compensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
+&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on the preceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of any year, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a pooled credit ratio for the calendar yearonly if that balance is in excess of the greater of $250,000,000 or of the amount that bears the same ratio to $250,000,000 as the system compensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
 
 #### (B) Step 2
 
@@ -388,7 +388,7 @@
 
 #### (C) Sale of assets
 
-&emsp;&emsp;In the event property of an employer is sold or transferred to another employer or other entity, or is partitioned among 2 or more employers or entities, the cumulative benefit balance, net cumulative contribution balance, 1-year compensation base, and 3-year compensation base of the employer shall be prorated among the employers which receive the property, including any entities which become employers by virtueof such transfer or partition, in such equitable manner as the Board by regulation shall prescribe.
+&emsp;&emsp;In the event property of an employer is sold or transferred to another employer or other entity, or is partitioned among 2 or more employers or entities, the cumulative benefit balance, net cumulative contribution balance, 1-year compensation base, and 3-year compensation base of the employer shall be prorated among the employers which receive the property, including any entities which become employers by virtue of such transfer or partition, in such equitable manner as the Board by regulation shall prescribe.
 
 #### (D) Reincorporation
 
@@ -470,7 +470,7 @@ The contributions required by this chapter shall be collected by the Board and s
 
 #### (j) Time for payment; failure to pay promptly
 
-The contributions required by this chapter shall be collected and paid quarterly or at such other times and in such manner and under such conditions not inconsistent with this chapter as may be prescribed by regulations of the Board, and shall not be deducted, in whole or in part, from the compensation of employees in the employer's employ. If a contribution required by this chapter is not paid when due, there shall be added to the amount payable (except in the case of adjustments made in accordance with the provisions of this chapter) interest at the rate of 1 per centum per month or fraction of a month from the date the contribution became due until paid. Any interest collected pursuant to this subsection shall be credited to the account.
+The contributions required by this chapter shall be collected and paid quarterly or at suchother times and in such manner and under such conditions not inconsistent with this chapter as may be prescribed by regulations of the Board, and shall not be deducted, in whole or in part, from the compensation of employees in the employer's employ. If a contribution required by this chapter is not paid when due, there shall be added to the amount payable (except in the case of adjustments made in accordance with the provisions of this chapter) interest at the rate of 1 per centum per month or fraction of a month from the date the contribution became due until paid. Any interest collected pursuant to this subsection shall be credited to the account.
 
 #### (k) Application of other laws; authority of Board
 
@@ -504,7 +504,7 @@ Pub. L. 100–647, §7102(d)(1), redesignated former subsec. (f) as (i).
 
 Subsecs. (j), (k). Pub. L. 100–647, §7102(d)(1), redesignated former subsecs. (g) and (h) as (j) and (k), respectively.
 
-1983—Subsec. (a). Pub. L. 98–79, §503(a)(1), amended provisions preceding table generally. Prior to amendment, such provisions read as follows: “Every employer shall pay a contribution, with respect to having employees in his service, equal to the percentage determined as set forth below of so much of the compensation as is not in excess of $300 for any calendar month paid by him to any employee for services rendered to him after June 30, 1939, and before July 1, 1954, and is not in excess of $350 for any calendar month paid by him to any employee for services rendered to him after June 30, 1954, and before June 1, 1959, and is not in excess of $400 for any calendar month paid by him to any employee for services rendered to him after May 31, 1959: <i>Provided, however</i>, That if compensation is paid to an employee by more than one employer with respect to any such calendar month, the contributions required by this subsection shall apply to not more than $300 for any month before July 1, 1954, and to not more than $350 for any month after June 30, 1954, and before June 1, 1959, and to not more than $400 for any month after May 31, 1959, of the aggregate compensation paid to said employee by all said employers with respect to such calendar month, and each employer other than a subordinate unit of a national railway-labor-organization employer shall be liable for that proportion of the contribution with respect to such compensation paid by all such employers which the compensation paid by him after December 31, 1946, to the employee for services during any calendar month after 1946 bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month; and in the event that the compensation so paid by such employers to the employee for services rendered during such month is less than $300 if such month is before July 1, 1954, or less than $350 if such month is after June 30, 1954, and before June 1, 1959, or less than $400 if such month is after May 31, 1959, each subordinate unit of a national railway-labor-organization employer shall be liable for such proportion of any additional contribution as the compensation paid by such employer after December 31, 1946, to such employee for services rendered during such month bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month:
+1983—Subsec. (a). Pub. L. 98–79, §503(a)(1), amended provisions preceding table generally. Prior to amendment, such provisions read as follows: “Every employer shall pay a contribution, with respect to having employees in his service, equal to the percentage determined as set forth below of so much of the compensation as is not in excess of $300 for any calendar month paid by him to any employee for services rendered to him after June 30, 1939, and before July 1, 1954, and is not in excess of $350 for any calendar month paid by him to any employee for services rendered to him after June 30, 1954, and before June 1, 1959, and is not in excess of $400 for any calendar month paid by him to any employee for services rendered to him after May 31, 1959: <i>Provided, however</i>, That if compensation is paid to an employee by more than one employer with respect to any such calendar month, the contributions required by this subsection shall apply to not more than $300 for any month before July 1, 1954, and to not more than $350 for any month after June 30, 1954, and before June 1, 1959, and to not more than $400 for any month after May 31, 1959, of the aggregate compensation paid to said employee by all said employers with respect to such calendar month, and each employer other than a subordinate unit of a national railway-labor-organization employer shall be liable for that proportion of the contribution with respect to such compensation paid by all such employers which the compensation paid by him after December 31, 1946, to the employee for services during any calendar month after 1946 bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month; and in the event that the compensation so paid by such employers to the employee for services rendered during such month is less than $300 if such month is before July 1, 1954, or lessthan $350 if such month is after June 30, 1954, and before June 1, 1959, or less than $400 if such month is after May 31, 1959, each subordinate unit of a national railway-labor-organization employer shall be liable for such proportion of any additional contribution as the compensation paid by such employer after December 31, 1946, to such employee for services rendered during such month bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month:
 
 “1. With respect to compensation paid prior to January 1, 1948, the rate shall be 3 per centum;
 
@@ -558,7 +558,7 @@ Subsec. (f). Act June 23, 1948, §6, changed rates of credits to account and fun
 
 1946—Subsec. (a). Act July 31, 1946, §318(a), changed basis of contributions from compensation payable during a month to compensation paid during the month and inserted provisions relating to proration of contributions where one of the employers is a railway labor organization.
 
-Subsec. (h). Act July 31, 1946, §318(b), substituted references to sections of the Internal Revenue Code forreferences to the sections of the Internal Revenue Acts of 1926 and 1934 from which they were derived.
+Subsec. (h). Act July 31, 1946, §318(b), substituted references to sections of the Internal Revenue Code for references to the sections of the Internal Revenue Acts of 1926 and 1934 from which they were derived.
 
 #### Effective Date of 1990 Amendment
 

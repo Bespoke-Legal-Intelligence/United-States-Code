@@ -54,7 +54,7 @@ General rule.—As a condition of future Federal financial assistance, Amtrak sh
 
 &emsp;“(2)
 
-Failure to comply.—If Amtrak does not meet the condition established by paragraph (1), Amtrak shall be prohibited from obligating Federal funds after March 1, 1998.”
+Failure to comply.—If Amtrak does not meet the condition established by paragraph (1), Amtrakshall be prohibited from obligating Federal funds after March 1, 1998.”
 
 #### Congressional Findings and Declaration of Policy
 

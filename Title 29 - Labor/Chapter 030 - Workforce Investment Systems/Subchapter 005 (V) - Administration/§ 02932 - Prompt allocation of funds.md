@@ -18,7 +18,7 @@ Whenever the Secretary utilizes a formula to allot or allocate funds made availa
 
 #### (e) Availability of funds
 
-Funds shall be made available under sections 2853 and 2863 of this title for a local area not later than 30 days after the date the funds are made available to the Governor involved, under section 2852 or 2862 of this title (as the case maybe), or 7 days after the date the local plan for the area is approved, whichever is later.
+Funds shall be made available under sections 2853 and 2863 of this title for a local area not later than 30 days after the date the funds are made available to the Governor involved, under section 2852 or 2862 of this title (as the case may be), or 7 days after the date the local plan for the area is approved, whichever is later.
 
 (Pub. L. 105–220, title I, §182, Aug. 7, 1998, 112 Stat. 1041.)
 

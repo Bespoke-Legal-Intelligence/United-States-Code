@@ -8,6 +8,30 @@ Whenever suitable arrangements can be made from time to time for their reception
 
 R.S. §5586 derived from act Aug. 10, 1846, ch. 178, §6, 9 Stat. 105.
 
+#### Collection and Preservation of Artifacts Relating to September 11th Attacks
+
+Pub. L. 107–117, div. B, §701, Jan. 10, 2002, 115 Stat. 2311, provided that:
+
+“(a)
+
+In General.—The Secretary of the Smithsonian Institution shall collect and preserve in the National Museum of American History artifacts relating to the September 11th attacks on the World Trade Center and the Pentagon.
+
+“(b)
+
+Types of Artifacts.—In carrying out subsection (a), the Secretary of the Smithsonian Institution shall consider collecting and preserving—
+
+&emsp;“(1) pieces of the World Trade Center and the Pentagon;
+
+&emsp;“(2) still and video images made by private individuals and the media;
+
+&emsp;“(3) personal narratives of survivors, rescuers, and government officials; and
+
+&emsp;“(4) other artifacts, recordings, and testimonials that the Secretary of the Smithsonian Institution determines have lasting historical significance.
+
+“(c)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Smithsonian Institution $5,000,000 to carry out this section.”
+
 #### Smithsonian Astrophysical Observatory Submillimeter Array; Authorization of Construction and Appropriations
 
 Pub. L. 106–383, Oct. 27, 2000, 114 Stat. 1459, provided that:
@@ -144,7 +168,7 @@ Pub. L. 103–151, Nov. 24, 1993, 107 Stat. 1515, provided that:
 
 #### “SECTION 1. PLANNING, DESIGN, AND CONSTRUCTION OF WEST COURT OF NATIONAL MUSEUM OF NATURAL HISTORY BUILDING.
 
-“The Board of Regents of the Smithsonian Institution is authorized to plan, design, and construct the West Court of the National Museum of Natural History building.
+“The Board of Regents of the Smithsonian Institution is authorized to plan, design, and construct theWest Court of the National Museum of Natural History building.
 
 #### “SEC. 2. FUNDING.
 
@@ -162,7 +186,7 @@ Pub. L. 101–455, Oct. 24, 1990, 104 Stat. 1067, as amended by Pub. L. 103–98
 
 “There is authorized to be appropriated to the Smithsonian Institution for fiscal year 1991 and succeeding fiscal years not to exceed $30,000,000 to carry out this Act.”
 
-\[Section 1(b) of Pub. L. 103–98 provided that: “The amendment made by subsection (a) \[amending section2 of Pub. L. 101–455, set out above\] shall take effect as of October 24, 1990.”\]
+\[Section 1(b) of Pub. L. 103–98 provided that: “The amendment made by subsection (a) \[amending section 2 of Pub. L. 101–455, set out above\] shall take effect as of October 24, 1990.”\]
 
 #### Charles McC. Mathias, Jr. Laboratory for Environmental Research
 
@@ -224,7 +248,7 @@ Pub. L. 96–36, July 20, 1979, 93 Stat. 94, provided: “That the Board of Rege
 
 #### Smithsonian Institution Plans for and Construction of Museum Support Facilities; Approval of Plans and Specifications; Situs; Transfer of Land; Appropriations; Contracts by General Services Administration
 
-Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, Nov. 2, 1978, 92 Stat. 2444, provided: “The Regents of the Smithsonian Institution are authorized to prepare plans for, and to construct, museum support facilities to be used for (1) the care, curation, conservation, deposit, preparation, and study of the national collections of scientific, historic, and artistic objects, specimens, and artifacts; (2) the related documentation of such collections of the Smithsonian Institution; and (3) the training of museum conservators. No appropriation shall be made to construct the facilities authorized by this Act until the Committee on Public Works and Transportation of the House of Representatives and the Committee on Rules and Administration of the Senate, by resolution approve the final plans and specifications of such facilities.
+Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, Nov. 2, 1978, 92 Stat. 2444, provided: “The Regents of the Smithsonian Institution are authorized to prepare plans for, and to construct, museum support facilities to be used for (1) the care, curation, conservation, deposit, preparation, and study of the national collections of scientific, historic, and artistic objects, specimens, and artifacts; (2) the related documentation of such collections of the Smithsonian Institution; and (3) the training of museum conservators. No appropriation shall be made to construct the facilitiesauthorized by this Act until the Committee on Public Works and Transportation of the House of Representatives and the Committee on Rules and Administration of the Senate, by resolution approve the final plans and specifications of such facilities.
 
 “
 

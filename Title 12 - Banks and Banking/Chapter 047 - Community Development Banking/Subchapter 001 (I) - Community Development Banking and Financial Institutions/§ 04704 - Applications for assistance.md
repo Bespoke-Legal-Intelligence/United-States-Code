@@ -12,7 +12,7 @@ Except as provided in sections 4705 and 4712 of this title, the Fund shall requi
 
 &emsp;(2) to include a comprehensive strategic plan for the organization that contains—
 
-&emsp;&emsp;(A) a business plan of not less than 5 years in duration that demonstrates that the applicant will be properly managed and will have the capacity to operate as a community development financial institution that will not be dependent upon assistance from the Fund for continued viability;
+&emsp;&emsp;(A) a business plan of not less than 5 years in duration that demonstrates that the applicant will be properly managed and will have the capacity to operate as a community development financial institution thatwill not be dependent upon assistance from the Fund for continued viability;
 
 &emsp;&emsp;(B) an analysis of the needs of the investment area or targeted population and a strategy for how the applicant will attempt to meet those needs;
 

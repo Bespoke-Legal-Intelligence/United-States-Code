@@ -2,7 +2,7 @@
 
 #### (a) Monitoring of performance; collection and evaluation of data; studies and investigation; reports to Congress
 
-The Secretary, utilizing the services of the Director of the National Institute of Standardsand Technology and in coordination with such other Government agencies as may be appropriate, shall—
+The Secretary, utilizing the services of the Director of the National Institute of Standards and Technology and in coordination with such other Government agencies as may be appropriate, shall—
 
 &emsp;(1) monitor the performance and operation of solar heating and combined solar heating and cooling systems installed in residential dwellings under this subchapter;
 

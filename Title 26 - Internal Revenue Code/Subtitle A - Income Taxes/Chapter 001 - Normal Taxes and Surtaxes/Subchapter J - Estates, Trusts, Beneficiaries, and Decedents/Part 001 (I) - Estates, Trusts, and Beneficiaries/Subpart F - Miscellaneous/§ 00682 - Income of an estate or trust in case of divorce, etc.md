@@ -6,7 +6,7 @@ There shall be included in the gross income of a wife who is divorced or legally
 
 #### (b) Wife considered a beneficiary
 
-For purposes of computing the taxable income of the estate or trust and the taxable income ofa wife to whom subsection (a) applies, such wife shall be considered as the beneficiary specified in this part.
+For purposes of computing the taxable income of the estate or trust and the taxable income of a wife to whom subsection (a) applies, such wife shall be considered as the beneficiary specified in this part.
 
 #### (c) Cross reference
 

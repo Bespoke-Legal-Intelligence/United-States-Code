@@ -46,7 +46,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the provisions of this chapter shall not apply to the use of measures—
 
-&emsp;&emsp;(i) by the owner of fishing gear or catch, or an employee or agent of such owner, to detera marine mammal from damaging the gear or catch;
+&emsp;&emsp;(i) by the owner of fishing gear or catch, or an employee or agent of such owner, to deter a marine mammal from damaging the gear or catch;
 
 &emsp;&emsp;(ii) by the owner of other private property, or an agent, bailee, or employee of such owner, to deter a marine mammal from damaging private property;
 
@@ -90,7 +90,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(ii) The authorization for such activity shall prescribe, where applicable—
 
-&emsp;&emsp;(I) permissible methods of taking by harassment pursuant to such activity, and other means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) of this section or section 1379(f) of this title orpursuant to a cooperative agreement under section 1388 of this title,
+&emsp;&emsp;(I) permissible methods of taking by harassment pursuant to such activity, and other means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) of this section or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title,
 
 &emsp;&emsp;(II) the measures that the Secretary determines are necessary to ensure no unmitigable adverse impact on the availability of the species or stock for taking for subsistence uses pursuant to subsection (b) of this section or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title, and
 
@@ -112,7 +112,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(ii) Upon a determination by the Secretary that the requirements of clause (i) have been met, the Secretary shall publish in the Federal Register a list of those fisheries for which such determination was made, and, for vessels required to register under section 1387 of this title, shall issue an appropriate permit for each authorization granted under such section to vessels to which this paragraph applies. Vessels engaged in a fishery included in the notice published by the Secretary under this clause which are not required to register under section 1387 of this title shall not be subject to the penalties of this chapter for the incidental taking of marine mammals to which this paragraph applies, so long as the owner or master of such vessel reports any incidental mortality or injury of such marine mammals to the Secretary in accordance with section 1387 of this title.
 
-&emsp;(iii) If, during the course of the commercial fishing season, the Secretary determines that the level of incidental mortality or serious injury from commercial fisheries for which a determination was made under clause (i) has resulted or is likely to result in an impact that is more than negligible on the endangered or threatened species or stock, the Secretary shall use the emergency authority granted under section 1387 of this title to protect such species or stock, and may modify any permit granted under this paragraph as necessary.
+&emsp;(iii) If, during the course of the commercial fishing season, the Secretary determines thatthe level of incidental mortality or serious injury from commercial fisheries for which a determination was made under clause (i) has resulted or is likely to result in an impact that is more than negligible on the endangered or threatened species or stock, the Secretary shall use the emergency authority granted under section 1387 of this title to protect such species or stock, and may modify any permit granted under this paragraph as necessary.
 
 &emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the list of fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
 
@@ -276,7 +276,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer ofthe Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -108,9 +108,9 @@ Pub. L. 105–178, title I, §1502, June 9, 1998, 112 Stat. 241, provided that: 
 
 &emsp;“(5) a Federal credit program for projects of national significance can complement existing funding resources by filling market gaps, thereby leveraging substantial private co-investment.”
 
-#### State Infrastructure Bank Pilot Program
+#### State Infrastructure Bank Pilot Programs
 
-Pub. L. 105–178, title I, §1511, June 9, 1998, 112 Stat. 251, provided that:
+Pub. L. 105–178, title I, §1511, June 9, 1998, 112 Stat. 251, as amended by Pub. L. 107–117, div. B, §1108, Jan. 10, 2002, 115 Stat. 2332, provided that:
 
 “(a)
 
@@ -148,7 +148,7 @@ In general.—
 
 &emsp;&emsp;“(A)
 
-Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and Rhode Island for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section.
+Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
 
 &emsp;&emsp;“(B)
 
@@ -307,8 +307,6 @@ In general.—A State may expend not to exceed 2 percent of the Federal funds co
 &emsp;“(2)
 
 Non-federal funds.—The limitation described in paragraph (1) shall not apply to non-Federal funds.”
-
-#### State Infrastructure Bank Pilot Program
 
 Pub. L. 104–59, title III, §350, Nov. 28, 1995, 109 Stat. 618, provided that:
 

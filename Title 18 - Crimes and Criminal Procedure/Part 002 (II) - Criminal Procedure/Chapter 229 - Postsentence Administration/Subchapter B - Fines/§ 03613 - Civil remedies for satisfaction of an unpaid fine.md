@@ -12,7 +12,7 @@ Enforcement.—The United States may enforce a judgment imposing a fine in accor
 
 (b)
 
-Termination of Liability.—The liability to pay a fine shall terminate the later of 20 years from the entry of judgment or 20 yearsafter the release from imprisonment of the person fined, or upon the death of the individual fined.
+Termination of Liability.—The liability to pay a fine shall terminate the later of 20 years from the entry of judgment or 20 years after the release from imprisonment of the person fined, or upon the death of the individual fined.
 
 (c)
 

@@ -54,7 +54,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 #### (iv) Adjustment for case mix changes
 
-&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year (or estimates that such adjustments for a future fiscal year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year that are a result of changes in the coding or classification of different units of services thatdo not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years so as to eliminate the effect of such coding or classification changes.
+&emsp;&emsp;&emsp;Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(i) for a previous fiscal year (or estimates that such adjustments for a future fiscal year) did (or are likely to) result in a change in aggregate payments under this subsection during the fiscal year that are a result of changes in the coding or classification of different units of services that do not reflect real changes in case mix, the Secretary may adjust the standard prospective payment amount (or amounts) under paragraph (3) for subsequent fiscal years so as to eliminate the effect of such coding or classification changes.
 
 #### (C) Adjustment for outliers
 
@@ -96,7 +96,7 @@ With respect to home health services furnished on or after October 1, 1998, no c
 
 &emsp;(1) the claim has the unique identifier (provided under section 1395u(r) of this title) for the physician who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title; and
 
-&emsp;(2) in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title, the claim contains a code (or codes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments.
+&emsp;(2) in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title, the claim contains a code (orcodes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments.
 
 #### (d) Limitation on review
 
@@ -198,7 +198,7 @@ Pub. L. 106–554, §1(a)(6) \[title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 
 
 “(a)
 
-In General.—Notwithstanding the amendments made by section 4603(b) of BBA \[Pub. L. 105–33, amending section 1395g of this title\] (42 U.S.C. 1395fff note), in the case of a home health agency that was receiving periodic interim payments under section 1815(e)(2) of the Social Security Act (42 U.S.C. 1395g(e)(2)) as of September 30, 2000, and that is not described in subsection (b), the Secretary of Health and Human Services shall, as soon as practicable, make a single periodic interim payment to such agency in an amount equal to four times the last full fortnightly periodic interim payment made to such agency under the payment system in effect prior to the implementation of the prospective payment system under section 1895(b) of such Act (42 U.S.C. 1395fff(b)). Such amount of such periodic interim payment shall be included in the tentative settlement of the last cost report for the home health agencyunder the payment system in effect prior to the implementation of such prospective payment system, regardless of the ending date of such cost report.
+In General.—Notwithstanding the amendments made by section 4603(b) of BBA \[Pub. L. 105–33, amending section 1395g of this title\] (42 U.S.C. 1395fff note), in the case of a home health agency that was receiving periodic interim payments under section 1815(e)(2) of the Social Security Act (42 U.S.C. 1395g(e)(2)) as of September 30, 2000, and that is not described in subsection (b), the Secretary of Health and Human Services shall, as soon as practicable, make a single periodic interim payment to such agency in an amount equal to four times the last full fortnightly periodic interim payment made to such agency under the payment system in effect prior to the implementation of the prospective payment system under section 1895(b) of such Act (42 U.S.C. 1395fff(b)). Such amount of such periodic interim payment shall be included in the tentative settlement of the last cost report for the home health agency under the payment system in effect prior to the implementation of such prospective payment system, regardless of the ending date of such cost report.
 
 “(b)
 

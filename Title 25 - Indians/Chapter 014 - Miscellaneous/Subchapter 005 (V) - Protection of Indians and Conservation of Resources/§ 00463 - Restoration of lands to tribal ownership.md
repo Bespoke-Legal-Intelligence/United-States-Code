@@ -32,7 +32,7 @@ Subsec. (b)(4). Act May 27, 1955, struck out provisions relating to authority to
 
 1937—Subsec. (a). Act Aug. 28, 1937, designated existing provisions of first par. as subsec. (a).
 
-Subsec. (b)(1). Act Aug. 28, 1937, designated existing provisions of first par. as par. (1), substituted “damages shall be paid to the superintendent or other officer in charge of the reservation for the credit of the owner thereof” for “damages shall be paid to the Papago Tribe” and “to be the fair and reasonable value of suchimprovement” for “but not to exceed the cost of said improvements” and struck out “and payments derived from damages or rentals shall be deposited in the Treasury of the United States to the credit of the Papago Tribe” after “mining operations,”.
+Subsec. (b)(1). Act Aug. 28, 1937, designated existing provisions of first par. as par. (1), substituted “damages shall be paid to the superintendent or other officer in charge of the reservation for the credit of the owner thereof” for “damages shall be paid to the Papago Tribe” and “to be the fair and reasonable value of such improvement” for “but not to exceed the cost of said improvements” and struck out “and payments derived from damages or rentals shall be deposited in the Treasury of the United States to the credit of the Papago Tribe” after “mining operations,”.
 
 Subsec. (b)(2). Act Aug. 28, 1937, designated existing provisions of first par. as par. (2), inserted “pay to the superintendent or other officer in charge of the reservation, for” before “deposit”, substituted “<i>Provided</i>, That an applicant for patent shall also pay to the Secretary or other officer in charge of the said reservation for the credit of the owner” for “<i>Provided further</i>, That patentee shall also pay into the Treasury of the United States to the credit of the Papago Tribe” substituted “but the sum thus deposited, except for a deduction of rental at the annual rate hereinbefore provided, shall be refunded to the applicant in the event that patent is not acquired” for “the payment of $1.00 per acre for surface use to be refunded to patentee in the event that patent is not acquired” after “determination by the Secretary of the Interior, but not to exceed the cost thereof”.
 
@@ -46,7 +46,7 @@ Functions of all other officers of Department of the Interior and functions of a
 
 #### Restoration of Vacant and Undisposed-of Ceded Lands in Certain Indian Reservations
 
-Pub. L. 85–420, May 19, 1958, 72 Stat. 121, provided: “That all lands now or hereafter classified as vacant and undisposed-of ceded lands (including townsite lots) on the following named Indian reservations are hereby restored to tribal ownership, subject to valid existing rights:
+Pub. L. 85–420, May 19, 1958, 72 Stat. 121, provided: “That all lands now or hereafter classified as vacant and undisposed-of ceded lands (including townsite lots) on the following named Indian reservations are herebyrestored to tribal ownership, subject to valid existing rights:
 
 &nbsp;
 

@@ -6,7 +6,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;(1) A plan satisfies the requirements of this paragraph if an employee's rights in his accrued benefit derived from his own contributions are nonforfeitable.
 
-&emsp;(2) A plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A) or (B).
+&emsp;(2) Except as provided in paragraph (4), a plan satisfies the requirements of this paragraph if it satisfies the requirements of subparagraph (A) or (B).
 
 &emsp;&emsp;(A) A plan satisfies the requirements of this subparagraph if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee's accrued benefit derived from employer contributions.
 
@@ -46,7 +46,7 @@ percentage is:
 
 &emsp;(B) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that the payment of benefits is suspended for such period as the employee is employed, subsequent to the commencement of payment of such benefits—
 
-&emsp;&emsp;(i) in the case of a plan other than a multi-employer plan, by an employer who maintains the plan under which such benefits were being paid; and
+&emsp;&emsp;(i) in the case of a plan other than a multiemployer plan, by an employer who maintains the plan under which such benefits were being paid; and
 
 &emsp;&emsp;(ii) in the case of a multiemployer plan, in the same industry, in the same trade or craft, and the same geographic area covered by the plan, as when such benefits commenced.
 
@@ -75,6 +75,40 @@ percentage is:
 &emsp;&emsp;(II) benefit payments under the plan may be suspended under section 1426 or 1441 of this title.
 
 &emsp;(F) A matching contribution (within the meaning of section 401(m) of title 26) shall not be treated as forfeitable merely because such contribution is forfeitable if the contribution to which the matching contribution relates is treated as an excess contribution under section 401(k)(8)(B) of title 26, an excess deferral under section 402(g)(2)(A) of title 26, or an excess aggregate contribution under section 401(m)(6)(B) of title 26.
+
+&emsp;(4) In the case of matching contributions (as defined in section 401(m)(4)(A) of title 26), paragraph (2) shall be applied—
+
+&emsp;&emsp;(A) by substituting “3 years” for “5 years” in subparagraph (A), and
+
+&emsp;&emsp;(B) by substituting the following table for the table contained in subparagraph (B):
+
+<b>The nonforfeitable</b>
+
+<b> Years of service:</b>
+
+<b>percentage is: </b>
+
+&emsp;&emsp;2
+
+20&nbsp;&nbsp;
+
+&emsp;&emsp;3
+
+40&nbsp;&nbsp;
+
+&emsp;&emsp;4
+
+60&nbsp;&nbsp;
+
+&emsp;&emsp;5
+
+80&nbsp;&nbsp;
+
+&emsp;&emsp;6
+
+100\.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### (b) Computation of period of service
 
@@ -162,13 +196,13 @@ percentage is:
 
 (4) Cross references.—
 
-&emsp;&emsp;<b>(A) For definitions of “accrued benefit” and “normal retirement age”, see sections 1002(23) and (24) of this title;</b>
+&emsp;&emsp;<b>(A) For definitions of “accrued benefit” and “normal retirement age”, see sections 1002(23) and (24) of this title.</b>
 
 &emsp;&emsp;<b>(B) For effect of certain cash out distributions, see section 1054(d)(1) of this title.</b>
 
 #### (c) Plan amendments altering vesting schedule
 
-(1)(A) A plan amendment changing any vesting schedule under this plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
+(1)(A) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section if the nonforfeitable percentage of the accrued benefit derived from employer contributions (determined as of the later of the date such amendment is adopted, or the date such amendment becomes effective) of any employee who is a participant in the plan is less than such nonforfeitable percentage computed under the plan without regard to such amendment.
 
 (B) A plan amendment changing any vesting schedule under the plan shall be treated as not satisfying the requirements of subsection (a)(2) of this section unless each participant having not less than 3 years of service is permitted to elect, within a reasonable period after adoption of such amendment, to have his nonforfeitable percentage computed under the plan without regard to such amendment.
 
@@ -186,9 +220,21 @@ A pension plan may allow for nonforfeitable benefits after a lesser period and i
 
 (3) This subsection shall not apply to any distribution of dividends to which section 404(k) of title 26 applies.
 
-(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948.)
+(4) A plan shall not fail to meet the requirements of this subsection if, under the terms of the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16) of title 26.
+
+(Pub. L. 93–406, title I, §203, Sept. 2, 1974, 88 Stat. 854; Pub. L. 96–364, title III, §303, Sept. 26, 1980, 94 Stat. 1292; Pub. L. 98–397, title I, §§102(b), (c), (d)(2), (e)(2), 105(a), Aug. 23, 1984, 98 Stat. 1426–1428, 1436; Pub. L. 99–514, title XI, §§1113(e)(1), (2), (4)(A), 1139(c)(1), title XVIII, §1898(a)(1)(B), (4)(B)(i), (d)(1)(B), (2)(B), Oct. 22, 1986, 100 Stat. 2447, 2448, 2487, 2942, 2944, 2955; Pub. L. 101–239, title VII, §§7861(a)(1), (5)(B), (6)(B), 7862(d)(4), (5), (10), 7891(a)(1), (b)(1), (2), 7894(c)(3), Dec. 19, 1989, 103 Stat. 2430, 2434, 2445, 2449; Pub. L. 103–465, title VII, §767(c)(1), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1442(b), Aug. 20, 1996, 110 Stat. 1808; Pub. L. 105–34, title X, §1071(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§633(b), 648(a)(2), June 7, 2001, 115 Stat. 116, 127.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (a)(2). Pub. L. 107–16, §§633(b)(1), 901, temporarily substituted “Except as provided in paragraph (4), a plan” for “A plan” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (a)(4). Pub. L. 107–16, §§633(b)(2), 901, temporarily added par. (4). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e)(4). Pub. L. 107–16, §§648(a)(2), 901, temporarily added par. (4). See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (e)(1). Pub. L. 105–34 substituted “$5,000” for “$3,500”.
 
@@ -267,6 +313,14 @@ Subsec. (e). Pub. L. 98–397, §105(a), added subsec. (e).
 1980—Subsec. (a)(3)(E). Pub. L. 96–364, §303(1), added subpar. (E).
 
 Subsec. (b)(1)(G). Pub. L. 96–364, §303(2)–(4), added subpar. (G).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 633(b) of Pub. L. 107–16 applicable to contributions for plan years beginning after Dec. 31, 2001, with exception in the case of a plan maintained pursuant to one or more collective bargaining agreements ratified by June 7, 2001, and service requirement with respect to any plan, see section 633(c) of Pub. L. 107–16, set out as a note under section 411 of Title 26, Internal Revenue Code.
+
+Amendment by section 648(a)(2) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 648(c) of Pub. L. 107–16, set out as a note under section 411 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1997 Amendment
 

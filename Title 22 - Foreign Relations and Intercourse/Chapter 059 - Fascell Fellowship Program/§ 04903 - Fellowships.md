@@ -14,7 +14,7 @@ The Board shall determine, taking into consideration the position in which each 
 
 #### (c) Training
 
-Each Fellow may be given appropriate training at the Foreign Service Institute or other appropriate institution.
+Each Fellow may be given appropriate training at the George P. Shultz National Foreign Affairs Training Center or other appropriate institution.
 
 #### (d) Housing and transportation
 
@@ -22,21 +22,19 @@ The Secretary of State shall, pursuant to regulations—
 
 &emsp;(1) provide housing for each Fellow while the Fellow is serving abroad, including (where appropriate) housing for family members; and
 
-&emsp;(2) pay the costs and expenses incurred by each Fellow in traveling between the United States and the country in which the Fellow serves, including (where appropriate) travel for family members.
+&emsp;(2) pay the costs and expenses incurred by each Fellow in traveling between the United States and the country in which the Fellowserves, including (where appropriate) travel for family members.
 
 #### (e) Effective date
 
 Subsection (d) of this section shall not take effect until October 1, 1986.
 
-(Pub. L. 99–399, title X, §1004, Aug. 27, 1986, 100 Stat. 894; Pub. L. 102–511, title VIII, §804(a), Oct. 24, 1992, 106 Stat. 3353.)
+(Pub. L. 99–399, title X, §1004, Aug. 27, 1986, 100 Stat. 894; Pub. L. 102–511, title VIII, §804(a), Oct. 24, 1992, 106 Stat. 3353; Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 #### Amendments
 
+2002—Subsec. (c). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “Foreign Service Institute”.
+
 1992—Subsec. (a). Pub. L. 102–511 inserted at end “Not less than 15 shall be provided during fiscal year 1993.”
-
-#### Authority of Secretary of State
-
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
 #### Funding
 

@@ -94,7 +94,7 @@ Subsec. (a). Pub. L. 95–30 designated existing provisions as par. (1), substit
 
 Subsecs. (b) to (e). Pub. L. 95–30 added subsec. (b), redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
 
-<b>1976</b>—Pub. L. 94–455 designated existing provisions as subsec. (a), substituted provision relating to taxable income for such year does not exceed $20,000 for provision relating to adjusted gross income for such year is less than $15,000 and who has elected for such year to pay the tax imposed by this section, struck out “or hisdelegate” after “Secretary”, “beginning after Dec. 31, 1969” after “each taxable year”, struck out provision requiring computation of taxable income by using standard deduction, and added subsec. (b).
+<b>1976</b>—Pub. L. 94–455 designated existing provisions as subsec. (a), substituted provision relating to taxable income for such year does not exceed $20,000 for provision relating to adjusted gross income for such year is less than $15,000 and who has elected for such year to pay the tax imposed by this section, struck out “or his delegate” after “Secretary”, “beginning after Dec. 31, 1969” after “each taxable year”, struck out provision requiring computation of taxable income by using standard deduction, and added subsec. (b).
 
 <b>1975</b>—Pub. L. 94–12 substituted “$15,000” for “$10,000”.
 

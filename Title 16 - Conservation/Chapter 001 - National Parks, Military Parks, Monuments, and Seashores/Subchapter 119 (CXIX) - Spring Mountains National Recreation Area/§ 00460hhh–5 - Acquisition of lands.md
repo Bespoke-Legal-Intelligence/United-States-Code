@@ -6,7 +6,7 @@ The Secretary is authorized to acquire lands and interests therein within the bo
 
 #### (b) Incorporation of acquired lands
 
-Any lands, waters, or interests in lands or interests therein located within the RecreationArea that are acquired by the United States or administratively transferred to the Secretary after August 4, 1993, shall be incorporated into the Recreation Area and managed in accordance with the laws, rules, and regulations applicable to the National Forest System and the provisions of this subchapter.
+Any lands, waters, or interests in lands or interests therein located within the Recreation Area that are acquired by the United States or administratively transferred to the Secretary after August 4, 1993, shall be incorporated into the Recreation Area and managed in accordance with the laws, rules, and regulations applicable to the National Forest System and the provisions of this subchapter.
 
 #### (c) Land and Water Conservation Fund
 

@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (2) Transferability of property
 
-&emsp;The rights of a person in property are transferable only if the rights in such property of any transferee are not subject to a substantial risk of forfeiture.
+&emsp;The rights of a person in property are transferable only if the rights in such property ofany transferee are not subject to a substantial risk of forfeiture.
 
 #### (3) Sales which may give rise to suit under section 16(b) of the Securities Exchange Act of 1934
 
@@ -150,7 +150,7 @@ Amendment by section 1901(a)(15) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date
 
-Section 321(d) of Pub. L. 91–172 provided that: “The amendments made by subsections (a) and (c) \[amendingsections 402, 403, and 404 of this title\] shall apply to taxable years ending after June 30, 1969. The amendments made by subsection (b) \[enacting this section\] shall apply with respect to contributions made and premiums paid after August 1, 1969.”
+Section 321(d) of Pub. L. 91–172 provided that: “The amendments made by subsections (a) and (c) \[amending sections 402, 403, and 404 of this title\] shall apply to taxable years ending after June 30, 1969. The amendments made by subsection (b) \[enacting this section\] shall apply with respect to contributions made and premiums paid after August 1, 1969.”
 
 #### Savings Provision
 

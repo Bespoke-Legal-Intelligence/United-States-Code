@@ -26,7 +26,7 @@
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 665, 1374, 1375, 1397E, 1398, 1503, 6096, 6425, 6654, 6655, 6682 of this title.
+This part is referred to in sections 665, 1374, 1375, 1397E, 1398, 1503, 6096, 6425, 6428, 6654, 6655, 6682 of this title.
 
 <i><sup>1</sup></i><i> Editorially supplied. Subpart G of part IV added by Pub. L. 99–514 without corresponding amendment of part analysis.</i>
 

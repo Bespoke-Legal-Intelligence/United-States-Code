@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(A) from any unit of general local government with a population of 500,000 or more;
 
-&emsp;&emsp;(B) of the area served by a rural concentrated employment program grant recipient of demonstrated effectiveness that served as a service delivery area or substate area under the Job Training Partnership Act, if the grant recipient has submitted the request; and
+&emsp;&emsp;(B) of the area served by a rural concentrated employment program grant recipient of demonstrated effectiveness that served as a service delivery area or substatearea under the Job Training Partnership Act, if the grant recipient has submitted the request; and
 
 &emsp;&emsp;(C) of an area that served as a service delivery area under section 101(a)(4)(A)(ii) of the Job Training Partnership Act (as in effect on the day before August 7, 1998) in a State that has a population of not more than 1,100,000 and a population density greater than 900 persons per square mile.
 
@@ -84,7 +84,7 @@
 
 #### (b) Small States
 
-The Governor of any State that was a single State service delivery area under the Job Training Partnership Act as of July 1, 1998, may designate the State as a single State local area for the purposes of this chapter. In the case of such a designation, the Governor shall identify the State as a local area under section 2822(b)(5) of this title.
+The Governor of any State that was a single State service delivery area under the Job Training Partnership Act as of July 1, 1998, may designate the State as a single State local area for the purposes of this chapter. In the case of sucha designation, the Governor shall identify the State as a local area under section 2822(b)(5) of this title.
 
 #### (c) Regional planning and cooperation
 
@@ -120,7 +120,7 @@ The Governor of any State that was a single State service delivery area under th
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsecs. (a)(2)(B), (C), (3) and (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059. Part A of title II and title III of the Act were classified generally to part A (§1601 et seq.) of subchapter II and subchapter III (§1651 et seq.), respectively, of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Section 101 of the Act was classified to section 1511 of this title, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
+The Job Training Partnership Act, referred to in subsecs. (a)(2)(B), (C), (3) and (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059. Part A of title II and title III of the Act were classified generally to part A (§1601 et seq.) of subchapter II and subchapter III (§1651 et seq.), respectively, of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Section 101 of the Act was classified to section 1511 of this title, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 

@@ -114,7 +114,7 @@ In subsection (e), the words “Except as provided in subsection (f) of this sec
 
 In subsection (f), the word “personnel” is substituted for “manpower”, and the words “at the same time” are substituted for “concurrently”, for clarity. The words “officer of an agency” are substituted for “officer or agency” as being more precise. The word “prohibit” is omitted as being included in “impose conditions on or impair”. The word “communication” is substituted for “free communication” to eliminate a surplus word. The words “about the information” are substituted for “with respect to any budget estimate or request of the Commission” for consistency and to eliminate unnecessary words.
 
-In subsection (g), the word “Amounts” is substituted for “Funds”, the word “law” is substituted for “Act”,and the words “regulations prescribed” are substituted for “regulations”, for consistency in the revised title. The words “of Congress” are added for clarity.
+In subsection (g), the word “Amounts” is substituted for “Funds”, the word “law” is substituted for “Act”, and the words “regulations prescribed” are substituted for “regulations”, for consistency in the revised title. The words “of Congress” are added for clarity.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

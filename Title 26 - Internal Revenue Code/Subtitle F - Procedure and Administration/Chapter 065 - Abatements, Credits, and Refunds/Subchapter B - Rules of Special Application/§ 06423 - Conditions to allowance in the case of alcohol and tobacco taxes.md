@@ -16,7 +16,7 @@ No credit or refund of any amount to which subsection (a) applies shall be allow
 
 #### (c) Application of section
 
-This section shall apply only if the credit or refund is claimed on the grounds that an amount of alcohol or tobacco tax was assessed or collected erroneously, illegally, without authority, or in any manner wrongfully, or on the grounds that such amount was excessive. This section shall not apply to—
+This section shall apply only if the credit or refund is claimed on the grounds that anamount of alcohol or tobacco tax was assessed or collected erroneously, illegally, without authority, or in any manner wrongfully, or on the grounds that such amount was excessive. This section shall not apply to—
 
 &emsp;(1) any claim for drawback, and
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (b). Pub. L. 94–455, §1906(a)(29)(A), among other changes, struck out provisions allowing any claimant who has on or before Apr. 30, 1958, filed aclaim for any amount to which subsec. (a) applies, may file a superseding claim after Apr. 30, 1958, conforming to the requirements of this section and covering the amount claimed in such prior claim.
+Subsec. (b). Pub. L. 94–455, §1906(a)(29)(A), among other changes, struck out provisions allowing any claimant who has on or before Apr. 30, 1958, filed a claim for any amount to which subsec. (a) applies, may file a superseding claim after Apr. 30, 1958, conforming to the requirements of this section and covering the amount claimed in such prior claim.
 
 Subsec. (c). Pub. L. 94–455, §1906(a)(29)(B), (C), redesignated subsec. (d) as (c) and struck out par. (3) relating to any amount claimed with respect to a commodity which has been lost, where a suit or proceeding was instituted before June 15, 1957. Former subsec. (c), relating to disallowance of any suit or proceeding which was barred on Apr. 30, 1958, was struck out.
 

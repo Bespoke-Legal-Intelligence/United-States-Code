@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary is authorized and required to make the inquiries, determinations, and assessments of all taxes (including interest, additional amounts, additions to the tax, and assessable penalties) imposed by this title, or accruing under any former internal revenue law, which have not been duly paid by stamp at the time and in the manner provided by law. Such authority shall extend to and include the following:
+The Secretary is authorized and required to make the inquiries, determinations, and assessments of all taxes (including interest, additional amounts, additions to the tax, and assessable penalties) imposed by this title, or accruing under any former internal revenue law, whichhave not been duly paid by stamp at the time and in the manner provided by law. Such authority shall extend to and include the following:
 
 #### (1) Taxes shown on return
 
@@ -16,7 +16,7 @@ The Secretary is authorized and required to make the inquiries, determinations, 
 
 #### (B) Check or money order not duly paid
 
-&emsp;&emsp;In any case in which a check or money order received under authority of section 6311 as payment for stamps is not duly paid, the unpaid amount may be immediately assessed as if it were a tax imposed by thistitle, due at the time of such receipt, from the person who tendered such check or money order.
+&emsp;&emsp;In any case in which a check or money order received under authority of section 6311 as payment for stamps is not duly paid, the unpaid amount may be immediately assessed as if it were a tax imposed by this title, due at the time of such receipt, from the person who tendered such check or money order.
 
 #### (3) Erroneous income tax prepayment credits
 

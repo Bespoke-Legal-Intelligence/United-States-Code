@@ -26,7 +26,7 @@ Except as provided in subsection (b) of this section and notwithstanding any oth
 
 #### (c) Notification
 
-No funds made available to the Department of State by any Federal agency to be used for aUnited States pavilion or other major exhibit at any international exposition or world's fair registered by the Bureau of International Expositions may be obligated or expended unless the appropriate congressional committees are notified not less than 15 days prior to such obligation or expenditure.
+No funds made available to the Department of State by any Federal agency to be used for a United States pavilion or other major exhibit at any international exposition or world's fair registered by the Bureau of International Expositions may be obligated or expended unless the appropriate congressional committees are notified not less than 15 days prior to such obligation or expenditure.
 
 #### (d) Reports
 

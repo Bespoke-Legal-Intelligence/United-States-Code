@@ -2,7 +2,7 @@
 
 #### (a) Requirements for authorization
 
-Notwithstanding any other provision of this subchapter, when the Attorney General makes a determination described in subsection (b) of this section, the Attorney General may authorize the installation and use of a pen register or trap and trace device on an emergency basis to gather foreign intelligence information or information concerning international terrorism if—
+Notwithstanding any other provision of this subchapter, when the Attorney General makes a determination described in subsection (b) of this section, the Attorney General may authorize the installation and use of a pen register or trap and trace device on an emergency basis to gather foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution if—
 
 &emsp;(1) a judge referred to in section 1842(b) of this title is informed by the Attorney General or his designee at the time of such authorization that the decision has been made to install and use the pen register or trap and trace device, as the case may be, on an emergency basis; and
 
@@ -12,7 +12,7 @@ Notwithstanding any other provision of this subchapter, when the Attorney Genera
 
 A determination under this subsection is a reasonable determination by the Attorney General that—
 
-&emsp;(1) an emergency requires the installation and use of a pen register or trap and trace device to obtain foreign intelligence information or information concerning international terrorism before an order authorizing the installation and use of the pen register or trap and trace device, as the case may be, can with due diligence be obtained under section 1842 of this title; and
+&emsp;(1) an emergency requires the installation and use of a pen register or trap and trace device to obtain foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution before an order authorizing the installation and use of the pen register or trap and trace device, as the case may be, can with due diligence be obtained under section 1842 of this title; and
 
 &emsp;(2) the factual basis for issuance of an order under such section 1842 of this title to approve the installation and use of the pen register or trap and trace device, as the case may be, exists.
 
@@ -28,5 +28,19 @@ A determination under this subsection is a reasonable determination by the Attor
 
 (2) In the event that an application for an order applied for under subsection (a)(2) of this section is denied, or in any other case where the installation and use of a pen register or trap and trace device under this section is terminated and no order under section 1842 of this title is issued approving the installation and use of the pen register or trap and trace device, as the case may be, no information obtained or evidence derived from the use of the pen register or trap and trace device, as the case may be, shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from the use of the pen register or trap and trace device, as the case may be, shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
-(Pub. L. 95–511, title IV, §403, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2407.)
+(Pub. L. 95–511, title IV, §403, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2407; amended Pub. L. 107–56, title II, §214(b), Oct. 26, 2001, 115 Stat. 287.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–56, §§214(b)(1), 224, temporarily substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions. See Termination Date of 2001 Amendment note below.
+
+Subsec. (b)(1). Pub. L. 107–56, §§214(b)(2), 224, temporarily substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism”. See Termination Date of 2001 Amendment note below.
+
+#### Termination Date of 2001 Amendment
+
+Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 

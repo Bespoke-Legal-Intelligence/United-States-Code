@@ -8,7 +8,7 @@ Except as provided in subsection (b), section 4221 shall not apply with respect 
 
 #### (1) Purchases by State and local governments
 
-&emsp;Subsection (a) shall not apply to any State or local government in connection with the purchase by it of any article if such State or local government complies with such regulations relating to the use of exemption certificates in lieu of registration as the Secretary shall prescribe to carry out the purpose of this paragraph.
+&emsp;Subsection (a) shall not apply to any State or local government in connection with thepurchase by it of any article if such State or local government complies with such regulations relating to the use of exemption certificates in lieu of registration as the Secretary shall prescribe to carry out the purpose of this paragraph.
 
 #### (2) Under regulations
 
@@ -26,7 +26,7 @@ Except as provided in subsection (b), section 4221 shall not apply with respect 
 
 #### (c) Denial, revocation, or suspension of registration
 
-Under regulations prescribed by the Secretary, the registration of any person under this sectionmay be denied, revoked, or suspended if the Secretary determines—
+Under regulations prescribed by the Secretary, the registration of any person under this section may be denied, revoked, or suspended if the Secretary determines—
 
 &emsp;(1) that such person has used such registration to avoid the payment of any tax imposed by this chapter, or to postpone or in any manner to interfere with the collection of any such tax, or
 

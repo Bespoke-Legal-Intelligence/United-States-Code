@@ -10,7 +10,7 @@ The Congress finds and declares that—
 
 &emsp;(3) any new diversions of Great Lakes water for use outside of the Great Lakes basin will have significant economic and environmental impacts, adversely affecting the use of this resource by the Great Lakes States and Canadian provinces; and
 
-&emsp;(4) four of the Great Lakes are international waters and are defined as boundary waters in the Boundary Waters Treaty of 1909 between the United States and Canada, and as such any new diversion of Great Lakes water in the United States would affect the relations of the Government of the United States with the Government of Canada.
+&emsp;(4) four of the Great Lakes are international waters and are defined as boundary waters inthe Boundary Waters Treaty of 1909 between the United States and Canada, and as such any new diversion of Great Lakes water in the United States would affect the relations of the Government of the United States with the Government of Canada.
 
 #### (b) Congressional declaration of purpose and policy
 
@@ -20,7 +20,7 @@ It is therefore declared to be the purpose and policy of the Congress in this se
 
 &emsp;(2) to encourage the Great Lakes States, in consultation with the Provinces of Ontario and Quebec, to develop and implement a mechanism that provides a common conservation standard embodying the principles of water conservation and resource improvement for making decisions concerning the withdrawal and use of water from the Great Lakes Basin;
 
-&emsp;(3) to prohibit any diversion of Great Lakes water by any State, Federal agency, or privateentity for use outside the Great Lakes basin unless such diversion is approved by the Governor of each of the Great Lakes States; and
+&emsp;(3) to prohibit any diversion of Great Lakes water by any State, Federal agency, or private entity for use outside the Great Lakes basin unless such diversion is approved by the Governor of each of the Great Lakes States; and
 
 &emsp;(4) to prohibit any Federal agency from undertaking any studies that would involve the transfer of Great Lakes water for any purpose for use outside the Great Lakes basin.
 

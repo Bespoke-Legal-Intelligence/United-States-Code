@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to assure that any legislation enacted before October 1, 2002, affecting direct spending or receipts that increases the deficit will trigger an offsetting sequestration.
+The purpose of this section is to assure that any legislation enacted before October 1, 2002,affecting direct spending or receipts that increases the deficit will trigger an offsetting sequestration.
 
 #### (b) Sequestration
 
@@ -78,7 +78,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (e) Emergency legislation
 
-If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
+If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from thatprovision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
 (Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702.)
 
@@ -116,6 +116,10 @@ Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted “proposed” 
 
 Section 119(d)(2) of Pub. L. 103–354 provided that the amendment made by that section is effective Jan. 1, 1995.
 
+#### Pay-As-You-Go Adjustment
+
+Pub. L. 107–117, div. C, §102, Jan. 10, 2002, 115 Stat. 2342, provided that: “In preparing the final sequestration report for fiscal year 2002 required by section 254(f)(3) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 904(f)(3)\], the Director of the Office of Management and Budget shall change any balance of direct spending and receipts legislation for fiscal years 2001 and 2002 under section 252 of that Act \[2 U.S.C. 902\] to zero.”
+
 #### Conforming Paygo Scorecard With Transportation Equity Act for 21st Century
 
 Pub. L. 105–178, title VIII, §8102, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 105–206, title IX, §9013(c), July 22, 1998, 112 Stat. 865, provided that: “Upon the enactment of this Act \[June 9, 1998\], the Director of the Office of Management and Budget shall not make any estimates under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\] of changes in direct spending outlays and receipts for any fiscal year resulting from this title \[see Tables for classification\] or from section 1102 of this Act \[23 U.S.C. 104 note\].”
@@ -134,5 +138,5 @@ Section 14003(c) of Pub. L. 103–66 provided that: “Upon enactment of this Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 645, 691c, 901, 903, 904, 906, 907, 907d of this title; title 7 section 1446; title 16 sections 3834, 3837d, 3839c; title 19 section 3624; title 31 section 1341; title 38 section 1729A; title 39 section 2009a.
+This section is referred to in sections 645, 691c, 901, 903, 904, 906, 907, 907d of this title; title 7 section 1446;title 16 sections 3834, 3837d, 3839c; title 19 section 3624; title 31 section 1341; title 38 section 1729A; title 39 section 2009a.
 

@@ -30,7 +30,7 @@
 
 (f) In the course of enforcement of subsection (a) and any other sections prohibiting a conspiracy or attempt to violate subsection (a), the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary, notwithstanding.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 88–493, §1, Aug. 27, 1964, 78 Stat. 610; Pub. L. 92–539, title III, §301, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §5, Oct. 8, 1976, 90 Stat. 1999; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 100–690, title VI, §6478, Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXXII, §320101(b), title XXXIII, §330016(1)(G), (K), Sept. 13, 1994, 108 Stat. 2108, 2147; Pub. L. 104–132, title VII, §721(d), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, §604(b)(12)(A), Oct. 11, 1996, 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 88–493, §1, Aug. 27, 1964, 78 Stat. 610; Pub. L. 92–539, title III, §301, Oct. 24, 1972, 86 Stat. 1072; Pub. L. 94–467, §5, Oct. 8, 1976, 90 Stat. 1999; Pub. L. 95–163, §17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, §2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 100–690, title VI, §6478, Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–272, §5(e)(2), July 5, 1994, 108Stat. 1373; Pub. L. 103–322, title XXXII, §320101(b), title XXXIII, §330016(1)(G), (K), Sept. 13, 1994, 108 Stat. 2108, 2147; Pub. L. 104–132, title VII, §721(d), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, §604(b)(12)(A), Oct. 11, 1996, 110 Stat. 3507.)
 
 #### Historical and Revision Notes
 
@@ -68,7 +68,7 @@ Subsec. (a). Pub. L. 94–467 substituted “official guest, or internationally 
 
 Subsec. (b). Pub. L. 94–467 restructured subsec. (b) and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 94–467 redesignated subsec. (d) as (c), inserted “internationally protected persons”, andstruck out reference to section 1116(c) of this title. Former subsec. (c), which related to punishment for intimidating or harassing demonstrations against foreign officials or any combination of two or more persons for such purposes, within one hundred feet of any buildings or premises owned by a foreign government located within the United States but outside the District of Columbia, was struck out.
+Subsec. (c). Pub. L. 94–467 redesignated subsec. (d) as (c), inserted “internationally protected persons”, and struck out reference to section 1116(c) of this title. Former subsec. (c), which related to punishment for intimidating or harassing demonstrations against foreign officials or any combination of two or more persons for such purposes, within one hundred feet of any buildings or premises owned by a foreign government located within the United States but outside the District of Columbia, was struck out.
 
 Subsecs. (d) to (f). Pub. L. 94–467 added subsecs. (e) and (f) and redesignated former subsecs. (d) and (e) as (c) and (d), respectively.
 

@@ -48,7 +48,7 @@ If the Secretary has mailed to the taxpayer a notice of deficiency under section
 
 #### (4) Denial of jurisdiction regarding certain credits and reductions
 
-&emsp;The Tax Court shall have no jurisdiction under this subsection to restrain or review any credit or reduction made by the Secretary under section 6402.
+&emsp;The Tax Court shall have no jurisdiction under this subsection to restrain or review anycredit or reduction made by the Secretary under section 6402.
 
 #### (c) Cross references
 
@@ -68,7 +68,7 @@ Subsec. (b)(1). Pub. L. 105–206, §3464(c), inserted at end “If a notice of 
 
 <b>1997</b>—Subsec. (b)(2). Pub. L. 105–34, §1451(a), inserted at end “An order of the Tax Court disposing of a motion under this paragraph shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.”
 
-Subsec. (b)(3). Pub. L. 105–34, §1282(a), inserted concluding provisions “In a case described in subparagraph (B) where the date of the mailing of the notice of deficiency is during the third year after the due date (with extensions) for filing the return of tax and no returnwas filed before such date, the applicable period under subsections (a) and (b)(2) of section 6511 shall be 3 years.”
+Subsec. (b)(3). Pub. L. 105–34, §1282(a), inserted concluding provisions “In a case described in subparagraph (B) where the date of the mailing of the notice of deficiency is during the third year after the due date (with extensions) for filing the return of tax and no return was filed before such date, the applicable period under subsections (a) and (b)(2) of section 6511 shall be 3 years.”
 
 Pub. L. 105–34, §1239(c)(2), inserted concluding provisions “In the case of a credit or refund relating to an affected item (within the meaning of section 6231(a)(5)), the preceding sentence shall be applied by substituting the periods under sections 6229 and 6230(d) for the periods under section 6511(b)(2), (c), and (d).”
 
@@ -166,5 +166,5 @@ Amendment by section 960(b) of Pub. L. 91–172 effective one year after Dec. 30
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2011, 2014, 6015, 6212, 6213, 6214, 6404, 6513, 7436, 7463, 7481 of this title.
+This section is referred to in sections 2011, 2014, 2058, 6015, 6212, 6213, 6214, 6404, 6513, 7436, 7463, 7481 of this title.
 

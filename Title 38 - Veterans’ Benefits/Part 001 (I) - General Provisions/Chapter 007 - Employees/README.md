@@ -8,11 +8,13 @@
 | [707\.](%C2%A7%2000707%20-%20Benefits%20for%20employees%20at%20overseas%20offices%20who%20are%20United%20States%20citizens.md) | Benefits for employees at overseas offices who are United States citizens. |
 | [709\.](%C2%A7%2000709%20-%20Employment%20restrictions.md) | Employment restrictions. |
 | [711\.](%C2%A7%2000711%20-%20Grade%20reductions.md) | Grade reductions. |
-| [712\.](%C2%A7%2000712%20-%20Full-time%20equivalent%20positions%20limitation%20on%20reduction.md) | Full-time equivalent positions: limitation on reduction. |
+| \[712. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–103, title V, §509(a)(2), Dec. 27, 2001, 115 Stat. 997, struck out item 712 “Full-time equivalent positions: limitation on reduction”.
 
 1994—Pub. L. 103–446, title XI, §1102(b), Nov. 2, 1994, 108 Stat. 4681, added item 712.
 
@@ -27,4 +29,4 @@
 - [&sect; 00707 - Benefits for employees at overseas offices who are United States citizens](%C2%A7%2000707%20-%20Benefits%20for%20employees%20at%20overseas%20offices%20who%20are%20United%20States%20citizens.md)
 - [&sect; 00709 - Employment restrictions](%C2%A7%2000709%20-%20Employment%20restrictions.md)
 - [&sect; 00711 - Grade reductions](%C2%A7%2000711%20-%20Grade%20reductions.md)
-- [&sect; 00712 - Full-time equivalent positions limitation on reduction](%C2%A7%2000712%20-%20Full-time%20equivalent%20positions%20limitation%20on%20reduction.md)
+- [&sect; 00712 - Repealed. Pub. L. 107&#8211;103, title V, &sect;509(a)(1), Dec. 27, 2001, 115 Stat. 997](%C2%A7%2000712%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93103%2C%20title%20V%2C%20%C2%A7509%28a%29%281%29%2C%20Dec.%2027%2C%202001%2C%20115%20Stat.%20997.md)

@@ -1,6 +1,6 @@
 ### §1095a. Medical care: members held as captives and their dependents
 
-(a) Under regulations prescribed by the President, the Secretary concerned shall pay (by advancement or reimbursement) any person who is a former captive, and any dependent of that person or of a person who is in a captive status, forhealth care and other expenses related to such care, to the extent that such care—
+(a) Under regulations prescribed by the President, the Secretary concerned shall pay (by advancement or reimbursement) any person who is a former captive, and any dependent of that person or of a person who is in a captive status, for health care and other expenses related to such care, to the extent that such care—
 
 &emsp;(1) is incident to the captive status; and
 

@@ -8,7 +8,7 @@ No bridge erected or maintained under the provisions of sections 491 to 498 of t
 
 Act July 5, 1884, ch. 229, §8, 23 Stat. 148, relating to authority of Secretary of War to require owners of bridges which obstruct navigation to relieve the situation or be penalized, was probably omitted from the Code as superseded by this section and section 495 of this title, which by section 498b of this title were made applicable to bridges authorized prior to March 23, 1906.
 
-Section would seem to supersede a provision of act Aug. 7, 1882, ch. 433, §1, 22 Stat. 309, which read as follows: “That all parties owning, occupying, or operating bridges over any navigable river shall maintain at their own expense, from sunset to sunrise, throughout the year, such lights on their bridges as may be required by the Light-House Board for the security of navigation: and in addition thereto all persons owning, occupying, or operating any bridge over any navigable river shall,in any event, maintain all lights on their bridge that may be necessary for the security of navigation.”
+Section would seem to supersede a provision of act Aug. 7, 1882, ch. 433, §1, 22 Stat. 309, which read as follows: “That all parties owning, occupying, or operating bridges over any navigable river shall maintain at their own expense, from sunset to sunrise, throughout the year, such lights on their bridges as may be required by the Light-House Board for the security of navigation: and in addition thereto all persons owning, occupying, or operating any bridge over any navigable river shall, in any event, maintain all lights on their bridge that may be necessary for the security of navigation.”
 
 #### Amendments
 

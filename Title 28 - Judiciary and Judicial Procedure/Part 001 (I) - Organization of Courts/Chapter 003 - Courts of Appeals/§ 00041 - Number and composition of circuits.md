@@ -48,7 +48,7 @@ Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been r
 
 <b>1982</b>—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
 
-<b>1980</b>—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of theCanal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
+<b>1980</b>—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of the Canal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
 
 <b>1951</b>—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
 
@@ -120,7 +120,7 @@ Pub. L. 95–157, §1(a), Nov. 8, 1977, 91 Stat. 1265, provided that the Norther
 
 #### Commission on Revision of the Federal Appellate System
 
-Pub. L. 92–489, Oct. 13, 1972, 86 Stat. 807, as amended by Pub. L. 93–420, Sept. 19, 1974, 88 Stat. 1153, provided for the establishment, membership, travel expenses, personnel, experts and consultants, administrative andresearch services, cooperation of other governmental agencies, and appropriations of not to exceed $606,000 of a Commission on Revision of the Federal Court Appellate System which Commission was to study the geographical division of the judicial circuits and the structure and internal procedures of the appellate court system and to report to the President, Congress, and the Chief Justice its recommendations for changes in the geographical boundaries of the circuits to expedite disposition of judicial business and for changes in the appellate court structure to expedite disposition of the appellate courts caseload in a manner consistent with fundamental concepts of fairness and due process. The Commission was to cease existence ninety days after submission of its final report, which report was submitted June 20, 1975.
+Pub. L. 92–489, Oct. 13, 1972, 86 Stat. 807, as amended by Pub. L. 93–420, Sept. 19, 1974, 88 Stat. 1153, provided for the establishment, membership, travel expenses,personnel, experts and consultants, administrative and research services, cooperation of other governmental agencies, and appropriations of not to exceed $606,000 of a Commission on Revision of the Federal Court Appellate System which Commission was to study the geographical division of the judicial circuits and the structure and internal procedures of the appellate court system and to report to the President, Congress, and the Chief Justice its recommendations for changes in the geographical boundaries of the circuits to expedite disposition of judicial business and for changes in the appellate court structure to expedite disposition of the appellate courts caseload in a manner consistent with fundamental concepts of fairness and due process. The Commission was to cease existence ninety days after submission of its final report, which report was submitted June 20, 1975.
 
 #### Continuation of Organization of Court
 

@@ -2,7 +2,7 @@
 
 It is the purpose of this chapter to—
 
-&emsp;(1) provide for the establishment of minimum standards by the Federal Government for the accreditation of education programs for persons who administer radiologic procedures and for the certification of such persons; and
+&emsp;(1) provide for the establishment of minimum standards by the Federal Government forthe accreditation of education programs for persons who administer radiologic procedures and for the certification of such persons; and
 
 &emsp;(2) insure that medical and dental radiologic procedures are consistent with rigorous safety precautions and standards.
 

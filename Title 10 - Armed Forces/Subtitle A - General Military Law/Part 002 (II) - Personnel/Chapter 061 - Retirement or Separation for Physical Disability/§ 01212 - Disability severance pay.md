@@ -6,15 +6,15 @@
 
 &emsp;(B) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in any temporary grade or rank higher than that described in clause (A), in which he served satisfactorily as determined by the Secretary of the military department or the Secretary of Transportation, as the case may be, having jurisdiction over the armed force from which he is separated.
 
-&emsp;(C) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination for promotion.
+&emsp;(C) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the permanent regular or reserve grade to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination.
 
-&emsp;(D) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the temporary grade or rank to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination for promotion, if his eligibility for promotion was required to be based on cumulative years of service or years in grade.
+&emsp;(D) Twice the amount of monthly basic pay to which he would be entitled if serving (i) on active duty on the date when his name was placed on the temporary disability retired list or, if his name was not carried on that list, on the date when he is separated, and (ii) in the temporary grade or rank to which he would have been promoted had it not been for the physical disability for which he is separated and which was found to exist as a result of a physical examination, if his eligibility for promotion was required to be based on cumulative years of service or years in grade.
 
 (b) For the purposes of subsection (a), a part of a year of active service that is six months or more is counted as a whole year, and a part of a year that is less than six months is disregarded.
 
 (c) The amount of disability severance pay received under this section shall be deducted from any compensation for the same disability to which the former member of the armed forces or his dependents become entitled under any law administered by the Department of Veterans Affairs. However, no deduction may be made from any death compensation to which his dependents become entitled after his death.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, §511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 98; Pub. L. 96–513, title V, §511(43), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 107–107, div. A, title V, §593(a), Dec. 28, 2001, 115 Stat. 1126.)
 
 Historical and Revision Notes
 
@@ -52,9 +52,15 @@ In subsection (b), the words “and a part of a year that is less than six month
 
 #### Amendments
 
+2001—Subsec. (a)(2)(C), (D). Pub. L. 107–107 struck out “for promotion” after “physical examination”.
+
 1989—Subsec. (c). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §593(b), Dec. 28, 2001, 115 Stat. 1126, provided that: “The amendments madeby subsection (a) \[amending this section\] shall apply with respect to members separated under section 1203 or 1206 of title 10, United States Code, on or after date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 1980 Amendment
 

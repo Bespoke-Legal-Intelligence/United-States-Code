@@ -6,7 +6,7 @@
 
 (2) Each entry in the register shall include, or provide access to, basic information concerning the individual's experience and qualifications.
 
-(3) The Board shall place at the top of the register those former railroad employees entitledto priority under applicable provisions of law, including this chapter.
+(3) The Board shall place at the top of the register those former railroad employees entitled to priority under applicable provisions of law, including this chapter.
 
 #### (b) Corporation employees
 
@@ -26,7 +26,7 @@ The Board shall, through distribution of copies of the central register (or port
 
 #### (e) Employment applications
 
-In addition to its responsibilities under subsections (a) through (d) of this section, the Board shall facilitate the filing of employment applications with respect to current vacancies in the industry by former railroad employees entitled to priority under applicable provisions of law, including this chapter.
+In addition to its responsibilities under subsections (a) through (d) of this section, theBoard shall facilitate the filing of employment applications with respect to current vacancies in the industry by former railroad employees entitled to priority under applicable provisions of law, including this chapter.
 
 #### (f) Expiration
 

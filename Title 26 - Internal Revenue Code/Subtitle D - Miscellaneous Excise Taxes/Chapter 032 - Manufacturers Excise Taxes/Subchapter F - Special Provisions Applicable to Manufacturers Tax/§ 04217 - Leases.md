@@ -2,7 +2,7 @@
 
 #### (a) Lease considered as sale
 
-For purposes of this chapter, the lease of an article (including any renewal or any extensionof a lease or any subsequent lease of such article) by the manufacturer, producer, or importer shall be considered a sale of such article.
+For purposes of this chapter, the lease of an article (including any renewal or any extension of a lease or any subsequent lease of such article) by the manufacturer, producer, or importer shall be considered a sale of such article.
 
 #### (b) Limitation on tax
 
@@ -88,7 +88,7 @@ Subsecs. (b) to (d). Pub. L. 85–859 added subsecs. (b) to (d).
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
+Amendment by Pub. L. 95–618 applicable with respect to 1980 and later model year automobiles, see section 201(g) of Pub. L. 95–618, set out as an Effective Date note under section 4064 of this title.
 
 #### Effective Date of 1976 Amendment
 

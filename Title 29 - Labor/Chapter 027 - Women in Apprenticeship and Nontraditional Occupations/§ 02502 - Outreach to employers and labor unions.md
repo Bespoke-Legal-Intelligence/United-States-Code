@@ -6,7 +6,7 @@ With funds available to the Secretary of Labor to carry out the operations of th
 
 &emsp;(1) Under such program the Secretary shall provide outreach to employers through, but not limited to, the private industry councils in each service delivery area.
 
-&emsp;(2) The Secretary shall provide outreach to labor unions through, but not limited to, thebuilding trade councils, joint apprenticeable occupations councils, and individual labor unions.
+&emsp;(2) The Secretary shall provide outreach to labor unions through, but not limited to, the building trade councils, joint apprenticeable occupations councils, and individual labor unions.
 
 #### (b) Priority
 

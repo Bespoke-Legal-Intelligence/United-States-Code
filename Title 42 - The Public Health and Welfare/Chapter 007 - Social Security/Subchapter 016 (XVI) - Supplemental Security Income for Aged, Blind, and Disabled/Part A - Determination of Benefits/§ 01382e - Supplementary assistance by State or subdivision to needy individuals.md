@@ -18,9 +18,9 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in the State (or political subdivision) for less than a minimum period prior to application for such payments.
 
-(2) Any State (or political subdivision), in determining the eligibility of any individual for supplementary payments described in subsection (a) of this section, may disregard amounts of earned and unearned income in addition to other amounts which it is required or permitted to disregard under this section in determining such eligibility, and shall include a provision specifying the amount of any such income that will be disregarded, if any.
+(2) Any State (or political subdivision), in determining the eligibility of any individual for supplementary payments described in subsection (a) of this section, may disregard amounts of earned and unearned income in addition to other amounts which it is required or permitted to disregard under this section in determining such eligibility, and shall include aprovision specifying the amount of any such income that will be disregarded, if any.
 
-(3) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section shall have the option of making such payments to individuals who receive benefits under this subchapter under theprovisions of section 1382h of this title, or who would be eligible to receive such benefits but for their income.
+(3) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section shall have the option of making such payments to individuals who receive benefits under this subchapter under the provisions of section 1382h of this title, or who would be eligible to receive such benefits but for their income.
 
 #### (d) Payment to Commissioner by State of amount equal to expenditures by Commissioner as supplementary payments; time and manner of payment by State; fees for Federal administration of State supplementary payments
 
@@ -84,7 +84,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 #### (e) State standards; establishment; annual public review; annual certification; payments to individuals
 
-(1) Each State shall establish or designate one or more State or local authorities which shall establish, maintain, and insure the enforcement of standards for any category of institutions, foster homes, or group living arrangements inwhich (as determined by the State) a significant number of recipients of supplemental security income benefits is residing or is likely to reside. Such standards shall be appropriate to the needs of such recipients and the character of the facilities involved, and shall govern such matters as admission policies, safety, sanitation, and protection of civil rights.
+(1) Each State shall establish or designate one or more State or local authorities which shall establish, maintain, and insure the enforcement of standards for any category of institutions, foster homes, or group living arrangements in which (as determined by the State) a significant number of recipients of supplemental security income benefits is residing or is likely to reside. Such standards shall be appropriate to the needs of such recipients and the character of the facilities involved, and shall govern such matters as admission policies, safety, sanitation, and protection of civil rights.
 
 (2) Each State shall annually make available for public review a summary of the standards established pursuant to paragraph (1), and shall make available to any interested individual a copy of such standards, along with the procedures available in the State to insure the enforcement of such standards and a list of any waivers of such standards and any violations of such standards which have come to the attention of the authority responsible for their enforcement.
 
@@ -132,7 +132,7 @@ Pub. L. 105–33, §5102(b)(1)(A), amended par. (4) generally. Prior to amendmen
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, provided that: “The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) withrespect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments.”
+Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, providedthat: “The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments.”
 
 #### Effective Date of 1994 Amendment
 
@@ -236,7 +236,7 @@ Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 3
 
 “(3) For purposes of paragraph (1), the term ‘bonus value of food stamps in a State for January 1972’ (with respect to an individual) means—
 
-&emsp;“(A) the face value of the coupon allotment which would have been provided to such an individual underthe Food Stamp Act of 1964 \[section 2011 et seq. of Title 7, Agriculture\] for January 1972, reduced by
+&emsp;“(A) the face value of the coupon allotment which would have been provided to such an individual under the Food Stamp Act of 1964 \[section 2011 et seq. of Title 7, Agriculture\] for January 1972, reduced by
 
 &emsp;“(B) the charge which such an individual would have paid for such coupon allotment,
 

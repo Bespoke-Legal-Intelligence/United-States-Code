@@ -56,7 +56,7 @@ Based on Bus Revenue Vehicle-Miles and Passenger-Miles.—Of the amount apportio
 
 &emsp;&emsp;&emsp;(i) 50 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus revenue vehicle-miles operated in or directly serving the urbanized area divided by the total bus revenue vehicle-miles attributable to all areas;
 
-&emsp;&emsp;&emsp;(ii) 25 percent of the 26.61 percent apportioned under this subparagraph multipliedby a ratio equal to the population of the area divided by the total population of all areas, as shown by the latest Government census; and
+&emsp;&emsp;&emsp;(ii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the latest Government census; and
 
 &emsp;&emsp;&emsp;(iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary of Transportation, of the number of inhabitants in each square mile.
 
@@ -88,7 +88,7 @@ Transfers of Apportionments.—(1) The chief executive officer of a State may tr
 
 (3) The chief executive officer of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
 
-(4) A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the chief executive officer of a State. The chief executive officer shall distribute the transferred amounts to urbanized areas under this section.
+(4) A designated recipient for an urbanized area with a population of at least 200,000 maytransfer a part of its apportionment under this section to the chief executive officer of a State. The chief executive officer shall distribute the transferred amounts to urbanized areas under this section.
 
 (5) Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
 
@@ -242,7 +242,7 @@ In subsection (c)(1)(B), before clause (i), the words “of at least 200,000” 
 
 In subsection (d)(1)(D), the words “Notwithstanding the preceding sentence” and “each fiscal year” are omitted as surplus.
 
-In subsection (d)(2), the words “Beginning on October 1, 1991” are omitted as executed. The words “paragraph (1) of this subsection” are substituted for “under this section that may be used for operating assistance by urbanized areas” to eliminate unnecessary words. The words “(if any)” are omitted as surplus. The words “Secretary of Labor” are substituted for “Department of Labor” because of 29:551. The text of 49 App.:1607a(k)(2)(B) (2d sentence) is omitted as executed. The text of 49 App.:1607a(k)(2)(B) (last sentence) is omitted as surplus.
+In subsection (d)(2), the words “Beginning on October 1, 1991” are omitted as executed. The words “paragraph (1) of this subsection” are substituted for “under this section that may be used for operating assistance by urbanized areas” to eliminate unnecessary words. The words “(if any)” are omitted as surplus. The words“Secretary of Labor” are substituted for “Department of Labor” because of 29:551. The text of 49 App.:1607a(k)(2)(B) (2d sentence) is omitted as executed. The text of 49 App.:1607a(k)(2)(B) (last sentence) is omitted as surplus.
 
 In subsection (e)(1), the words “under section 5338(f) of this title” are added for clarity. The words “in accordance with the provisions of this section” are omitted as surplus.
 
@@ -292,7 +292,7 @@ Pub. L. 105–178, title III, §3033, June 9, 1998, 112 Stat. 386, provided that
 
 “(a)
 
-Study.—The Secretary \[of Transportation\] shall conduct a study to determine whether the formula forapportioning funds to urbanized areas under section 5336 of title 49, United States Code, accurately reflects the transit needs of the urbanized areas and, if not, whether any changes should be made either to the formula or through some other mechanism to reflect the fact that some urbanized areas with a population between 50,000 and 200,000 have transit systems that carry more passengers per mile or hour than the average of those transit systems in urbanized areas with a population over 200,000.
+Study.—The Secretary \[of Transportation\] shall conduct a study to determine whether the formula for apportioning funds to urbanized areas under section 5336 of title 49, United States Code, accurately reflects the transit needs of the urbanized areas and, if not, whether any changes should be made either to the formula or through some other mechanism to reflect the fact that some urbanized areas with a population between 50,000 and 200,000 have transit systems that carry more passengers per mile or hour than the average of those transit systems in urbanized areas with a population over 200,000.
 
 “(b)
 

@@ -39,6 +39,8 @@ Part B—Federal-State Cooperation
 - [&sect; 00247b&#8211;15 - Surveillance and education regarding hepatitis C virus](%C2%A7%2000247b%E2%80%9315%20-%20Surveillance%20and%20education%20regarding%20hepatitis%20C%20virus.md)
 - [&sect; 00247b&#8211;16 - Grants for lead poisoning related activities](%C2%A7%2000247b%E2%80%9316%20-%20Grants%20for%20lead%20poisoning%20related%20activities.md)
 - [&sect; 00247b&#8211;17 - Human papillomavirus](%C2%A7%2000247b%E2%80%9317%20-%20Human%20papillomavirus.md)
+- [&sect; 00247b&#8211;18 - Surveillance and research regarding muscular dystrophy](%C2%A7%2000247b%E2%80%9318%20-%20Surveillance%20and%20research%20regarding%20muscular%20dystrophy.md)
+- [&sect; 00247b&#8211;19 - Information and education](%C2%A7%2000247b%E2%80%9319%20-%20Information%20and%20education.md)
 - [&sect; 00247c - Sexually transmitted diseases; prevention and control projects and programs](%C2%A7%2000247c%20-%20Sexually%20transmitted%20diseases%3B%20prevention%20and%20control%20projects%20and%20programs.md)
 - [&sect; 00247c&#8211;1 - Infertility and sexually transmitted diseases](%C2%A7%2000247c%E2%80%931%20-%20Infertility%20and%20sexually%20transmitted%20diseases.md)
 - [&sect; 00247c&#8211;2 - Data collection regarding programs under subchapter XXIV](%C2%A7%2000247c%E2%80%932%20-%20Data%20collection%20regarding%20programs%20under%20subchapter%20XXIV.md)

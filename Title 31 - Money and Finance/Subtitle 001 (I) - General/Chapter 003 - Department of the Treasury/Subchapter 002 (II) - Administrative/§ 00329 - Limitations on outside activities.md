@@ -54,5 +54,5 @@ In subsection (a)(3), the words “giving information leading to the prosecution
 
 In subsection (b)(1), before clause (A), the words “An officer or employee of the Department (except the Secretary or Treasurer)” are substituted for “Every clerk employed in the Treasury Department” because of the restatement and for consistency with subsection (a) of the section. In clause (A), the words “in any kind of public” are omitted as unnecessary. In clause (B), the words “personally use a benefit gained” are substituted for “who takes or applies to his own use any emolument or gain” to eliminate unnecessary words. The word “conducting” is substituted for “negotiating or transacting” for consistency. The words “shall be deemed guilty of a misdemeanor” are omitted because of 18:1.
 
-In subsection (b)(2), the words “An officer or employee violating this subsection” are added because ofthe restatement. The word “punished” is omitted as unnecessary.
+In subsection (b)(2), the words “An officer or employee violating this subsection” are added because of the restatement. The word “punished” is omitted as unnecessary.
 

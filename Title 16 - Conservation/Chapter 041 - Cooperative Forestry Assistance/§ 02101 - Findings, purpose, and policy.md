@@ -144,7 +144,7 @@ Subtitle C (§§1261–1266) of title XII of Pub. L. 101–624, as amended by Pu
 
 Purpose.—The purpose of this section is to authorize the President to designate a private nonprofit Foundation as eligible to receive a grant from the Department of Agriculture to be used—
 
-&emsp;“(1) to provide grants, including matching grants, to qualifying nonprofit organizations (including youth groups), municipalities, counties, towns and townships for the implementation of programs to promote public awareness and a spirit of volunteerism in support of tree planting, maintenance, management, protection, and cultivation projects in rural areas, communities and urban areas throughout the United States;
+&emsp;“(1) to provide grants, including matching grants, to qualifying nonprofit organizations (including youth groups), municipalities, counties, towns andtownships for the implementation of programs to promote public awareness and a spirit of volunteerism in support of tree planting, maintenance, management, protection, and cultivation projects in rural areas, communities and urban areas throughout the United States;
 
 &emsp;“(2) to solicit public and private sector contributions through the mobilization of individuals, businesses, governments, and community organizations with the goal of increasing the number of trees planted, maintained, managed, and protected in rural areas, communities and urban environments;
 
@@ -262,7 +262,7 @@ Termination.—The obligation of the Foundation to publish annual reports pursua
 
 “(<i>o</i>)
 
-Prohibition on Commercial Harvest.—Trees planted pursuant to a program receiving funds under this section may not be commercially harvested and sold for Christmas trees.
+Prohibition on Commercial Harvest.—Trees planted pursuant to a program receiving funds underthis section may not be commercially harvested and sold for Christmas trees.
 
 “(p)
 

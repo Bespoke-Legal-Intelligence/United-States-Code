@@ -18,7 +18,7 @@ Recordable contracts existing on October 12, 1982, shall be amended at the reque
 
 #### (d) Power of attorney requirement in contracts; exercise of power by Secretary
 
-Any recordable contract covering excess lands sales shall provide that a power of attorney shall vest in the Secretary to sell any excess lands not disposed of by the owners thereof within the period of time specified in the recordable contract. In the exercise of that power, the Secretary shall sell such lands through an impartial selection process only to qualified purchasers according to such reasonable rules and regulations as the Secretary may establish: <i>Provided</i>, That the Secretary shall recover for the owner the fair market value of the land unrelated to irrigation water deliveries plus the fair market value of improvements thereon.
+Any recordable contract covering excess lands sales shall provide that a power of attorney shall vest in the Secretary to sell any excess lands not disposed of by the owners thereof within the period of time specified in the recordable contract. In the exercise of that power, the Secretary shall sell such lands through an impartial selection process only to qualified purchasers according to such reasonable rules andregulations as the Secretary may establish: <i>Provided</i>, That the Secretary shall recover for the owner the fair market value of the land unrelated to irrigation water deliveries plus the fair market value of improvements thereon.
 
 #### (e) Extension of time for disposal of excess lands
 
@@ -30,7 +30,7 @@ Excess lands which have been or may be disposed of in compliance with Federal re
 
 &emsp;(1) they are held by nonexcess owners; and
 
-&emsp;(2) in the case of disposals made after October 12, 1982, their title is burdened by a covenant prohibiting their sale, for a period of ten years after their original disposal to complywith Federal reclamation law, including this subchapter, for values exceeding the sum of the value of newly added improvements and the value of the land as increased by market appreciation unrelated to the delivery of irrigation water. Upon expiration of the terms of such covenant, the title to such lands shall be freed of the burden of any limitations on subsequent sale values which might otherwise be imposed by the operation of section 423e of this title.
+&emsp;(2) in the case of disposals made after October 12, 1982, their title is burdened by a covenant prohibiting their sale, for a period of ten years after their original disposal to comply with Federal reclamation law, including this subchapter, for values exceeding the sum of the value of newly added improvements and the value of the land as increased by market appreciation unrelated to the delivery of irrigation water. Upon expiration of the terms of such covenant, the title to such lands shall be freed of the burden of any limitations on subsequent sale values which might otherwise be imposed by the operation of section 423e of this title.
 
 (Pub. L. 97–293, title II, §209, Oct. 12, 1982, 96 Stat. 1267.)
 

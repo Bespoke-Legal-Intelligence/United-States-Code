@@ -38,7 +38,7 @@ This section is codified as permanent law on the basis of an opinion of the Assi
 
 #### Amendments
 
-1998—Subsec. (b)(1). Pub. L. 105–261, §363(a), inserted at end “However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6)).”
+1998—Subsec. (b)(1). Pub. L. 105–261, §363(a), inserted at end “However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procuredthrough full and open competition, as such term is defined in section 4(6) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(6)).”
 
 Subsec. (c). Pub. L. 105–261, §361(b), added subsec. (c).
 
@@ -62,7 +62,7 @@ Defense Retail Systems Defined.—For purposes of this section, the term ‘defe
 
 “(b)
 
-Prohibition.—The operation and administration of the defense retail systems may not be consolidatedor otherwise merged unless the consolidation or merger is specifically authorized by a law enacted after the date of the enactment of this Act \[Oct. 17, 1998\].
+Prohibition.—The operation and administration of the defense retail systems may not be consolidated or otherwise merged unless the consolidation or merger is specifically authorized by a law enacted after the date of the enactment of this Act \[Oct. 17, 1998\].
 
 “(c)
 

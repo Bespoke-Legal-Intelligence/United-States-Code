@@ -20,7 +20,7 @@ Reimbursements accepted under subsection (a)(3) of this section shall be deposit
 
 #### (c) Continuation of certain services
 
-Notwithstanding any other provision of this section, the Secretary may continue to provide facilities and necessary support services to the Foundation after the termination of the 5-year period specified in subsection (a) of this section, on a space available, reimbursable cost basis.
+Notwithstanding any other provision of this section, the Secretary may continue to provide facilities and necessary support services to theFoundation after the termination of the 5-year period specified in subsection (a) of this section, on a space available, reimbursable cost basis.
 
 (Pub. L. 93–638, title V, §502, as added Pub. L. 106–568, title XIII, §1302, Dec. 27, 2000, 114 Stat. 2938.)
 

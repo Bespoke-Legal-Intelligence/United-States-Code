@@ -48,7 +48,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (1) In general
 
-&emsp;In the case of any portfolio interest received by a foreign corporation from sources within the United States, no tax shall be imposed under paragraph (1) or (3) of subsection (a).
+&emsp;In the case of any portfolio interest received by a foreign corporation from sources withinthe United States, no tax shall be imposed under paragraph (1) or (3) of subsection (a).
 
 #### (2) Portfolio interest
 
@@ -138,7 +138,7 @@ Subsec. (c)(7). Pub. L. 103–66, §13237(a)(2), redesignated par. (6) as (7).
 
 <b>1986</b>—Subsec. (a)(3)(A). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (A) generally, striking out “any gain not in excess of” before “the original issue discount”.
 
-Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and”.
+Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into accountunder this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and”.
 
 Subsec. (a)(4). Pub. L. 99–514, §1211(b)(6), struck out “or from payments which are treated as being so contingent under section 871(e),” after “sold or exchanged,”.
 
@@ -174,7 +174,7 @@ Subsec. (b). Pub. L. 98–369, §130(a), amended subsec. (b) generally, substitu
 
 Subsec. (c). Pub. L. 98–369, §127(b)(1), as amended by Pub. L. 99–514, §1899A(68), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 98–369, §128(b)(2), amended subsec. (c) generally, substituting in heading “Cross reference” for “Doubling of tax” and inserting provision directingthat for special rules for original issue discount, see section 871(g).
+Pub. L. 98–369, §128(b)(2), amended subsec. (c) generally, substituting in heading “Cross reference” for “Doubling of tax” and inserting provision directing that for special rules for original issue discount, see section 871(g).
 
 Subsec. (d). Pub. L. 98–369, §127(b)(1), as amended by Pub. L. 99–514, §1899A(68), redesignated subsec. (c) as (d).
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1211(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
+Amendment by section 1211(b)(6) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,except as otherwise provided, see section 1211(c) of Pub. L. 99–514, set out as an Effective Date note under section 865 of this title.
 
 Amendment by section 1214(c)(2) of Pub. L. 99–514 applicable to payments made in taxable year of payor beginning after Dec. 31, 1986, except as otherwise provided, see section 1214(d) of Pub. L. 99–514, as amended, set out as a note under section 861 of this title.
 

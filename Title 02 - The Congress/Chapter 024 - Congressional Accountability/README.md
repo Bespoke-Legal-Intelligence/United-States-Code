@@ -208,6 +208,7 @@
 | (a) | Jurisdiction. |
 | (b) | Parties. |
 | (c) | Jury trial. |
+| (d) | Appearances by House Employment Counsel. |
 | [1409\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001409%20-%20Judicial%20review%20of%20regulations.md) | Judicial review of regulations. |
 | [1410\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001410%20-%20Other%20judicial%20review%20prohibited.md) | Other judicial review prohibited. |
 | [1411\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20and%20Judicial%20Dispute-Resolution%20Procedures/%C2%A7%2001411%20-%20Effect%20of%20failure%20to%20issue%20regulations.md) | Effect of failure to issue regulations. |

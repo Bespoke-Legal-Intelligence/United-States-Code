@@ -68,7 +68,7 @@ If—
 
 In the case of a levy on the salary or wages payable to or received by the taxpayer, upon agreement with the taxpayer that the tax is not collectible, the Secretary shall release such levy as soon as practicable.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 789; Pub. L. 89–719, title I, §104(i), Nov. 2, 1966, 80 Stat. 1138; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(a), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 99–514, title XV, §1511(c)(10), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–647, title VI, §6236(f), Nov. 10, 1988, 102 Stat. 3740; Pub. L. 104–168, title V, §501(b), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(B), title III, §3432(a), July 22, 1998, 112 Stat. 704, 759.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 789; Pub. L. 89–719, title I, §104(i), Nov. 2, 1966, 80 Stat. 1138; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(a), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 99–514, title XV, §1511(c)(10), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–647, title VI, §6236(f), Nov. 10, 1988, 102 Stat. 3740; Pub. L. 104–168, title V, §501(b), July 30,1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(B), title III, §3432(a), July 22, 1998, 112 Stat. 704, 759.)
 
 #### Amendments
 

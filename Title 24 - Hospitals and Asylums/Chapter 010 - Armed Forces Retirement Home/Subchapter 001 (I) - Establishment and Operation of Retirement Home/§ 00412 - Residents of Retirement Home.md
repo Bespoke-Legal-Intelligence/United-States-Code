@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section, the following persons who 
 
 &emsp;&emsp;(B) were discharged or released from service in the Armed Forces under honorable conditions after 20 or more years of active service.
 
-&emsp;(2) Persons who are determined under rules prescribed by the Retirement Home Board to be incapable of earning a livelihood because of a service-connected disability incurred in the line of duty in the Armed Forces.
+&emsp;(2) Persons who are determined under rules prescribed by the Chief Operating Officer to be incapable of earning a livelihood because of a service-connected disability incurred in the line of duty in the Armed Forces.
 
 &emsp;(3) Persons who—
 
@@ -18,13 +18,13 @@ Except as provided in subsection (b) of this section, the following persons who 
 
 &emsp;&emsp;(B) were discharged or released from service in the Armed Forces under honorable conditions; and
 
-&emsp;&emsp;(C) are determined under rules prescribed by the Retirement Home Board to be incapable of earning a livelihood because of injuries, disease, or disability.
+&emsp;&emsp;(C) are determined under rules prescribed by the Chief Operating Officer to be incapable of earning a livelihood because of injuries, disease, or disability.
 
 &emsp;(4) Persons who—
 
 &emsp;&emsp;(A) served in a women's component of the Armed Forces before June 12, 1948; and
 
-&emsp;&emsp;(B) are determined under rules prescribed by the Retirement Home Board to be eligible for admission because of compelling personal circumstances.
+&emsp;&emsp;(B) are determined under rules prescribed by the Chief Operating Officer to be eligible for admission because of compelling personal circumstances.
 
 #### (b) Persons ineligible to be residents
 
@@ -32,31 +32,27 @@ A person described in subsection (a) of this section who has been convicted of a
 
 #### (c) Acceptance
 
-To apply for acceptance as a resident of a facility of the Retirement Home, a person eligible to be a resident shall submit to the Director of that facility an application in such form and containing such information as the Retirement Home Board may require.
+To apply for acceptance as a resident of a facility of the Retirement Home, a person eligible to be a resident shall submit to the Director of that facility an application in such form and containing such information as the Chief Operating Officer may require.
 
 #### (d) Priorities for acceptance
 
-The Retirement Home Board shall establish a system of priorities for the acceptance of residents so that the most deserving applicants will be accepted whenever the number of eligible applicants is greater than the Retirement Home can accommodate.
+The Chief Operating Officer shall establish a system of priorities for the acceptance of residents so that the most deserving applicants will be accepted whenever the number of eligible applicants is greater than the Retirement Home can accommodate.
 
-#### (e) Effect of departure
+(Pub. L. 101–510, div. A, title XV, §1512, Nov. 5, 1990, 104 Stat. 1724; Pub. L. 107–107, div. A, title XIV, §§1404(b)(1)(A), 1405(a), 1410(b)(1), Dec. 28, 2001, 115 Stat. 1260, 1261, 1266.)
 
-A resident of the Retirement Home who leaves the Retirement Home for more than 45 consecutive days (other than for inpatient medical care) shall be required to reapply for acceptance as a resident.
+#### Amendments
 
-#### (f) Application of eligibility requirements to current residents of Naval Home and Soldiers’ and Airmen's Home
+2001—Subsecs. (a), (c), (d). Pub. L. 107–107, §1404(b)(1)(A), substituted “Chief Operating Officer” for “Retirement Home Board” wherever appearing.
 
-Residents of the Naval Home and the United States Soldiers’ and Airmen's Home as of the effective date specified in section 1541(a)—
+Subsec. (e). Pub. L. 107–107, §1405(a), struck out heading and text of subsec. (e). Text read as follows: “A resident of the Retirement Home who leaves the Retirement Home for more than 45 consecutive days (other than for inpatient medical care) shall be required to reapply for acceptance as a resident.”
 
-&emsp;(1) shall not be required to apply for acceptance as residents of the Retirement Home; and
+Subsec. (f). Pub. L. 107–107, §1410(b)(1), struck out heading and text of subsec. (f). Text read as follows: “Residents of the Naval Home and the United States Soldiers’ and Airmen's Home as of the effective date specified in section 1541(a)—
 
-&emsp;(2) shall become residents of the Retirement Home on that date.
+&emsp;“(1) shall not be required to apply for acceptance as residents of the Retirement Home; and
 
-(Pub. L. 101–510, div. A, title XV, §1512, Nov. 5, 1990, 104 Stat. 1724.)
-
-#### References in Text
-
-For the effective date specified in section 1541(a), referred to in subsec. (f), see Effective Date note below.
+&emsp;“(2) shall become residents of the Retirement Home on that date.”
 
 #### Effective Date
 
-Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, set out as a note under section 401 of this title.
+Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
 

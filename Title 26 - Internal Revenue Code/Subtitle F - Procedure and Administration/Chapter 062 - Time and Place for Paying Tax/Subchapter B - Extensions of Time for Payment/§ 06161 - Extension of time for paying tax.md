@@ -44,9 +44,15 @@ Extensions of time for payment of any portion of a claim for tax under chapter 1
 
 &emsp;&emsp;<b>For authority of the Secretary to require security in case of an extension under subsection (a)(2) or subsection (b), see section 6165.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 762; Pub. L. 85–866, title II, §206(c), Sept. 2, 1958, 72 Stat. 1684;Pub. L. 91–172, title I, §101(j)(37), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–614, title I, §101(h), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–406, title II, §1016(a)(7), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(C), title XVI, §1605(b)(3), title XIX, §1906(b)(13)(A), title XX, §2004(c)(1), (2), Oct. 4, 1976, 90 Stat. 1727, 1754, 1834, 1867, 1868; Pub. L. 96–223, title I, §101(f)(1)(H), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(i)(8), Dec. 24, 1980, 94 Stat. 3410; Pub. L. 97–34, title IV, §422(e)(1), Aug. 13, 1981, 95 Stat. 316; Pub. L. 100–418, title I, §1941(b)(2)(B)(viii), Aug. 23, 1988, 102 Stat. 1323.)
+#### (3) Postponement of certain acts
+
+&emsp;&emsp;<b>For time for performing certain acts postponed by reason of war, see section 7508, and by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 762; Pub. L. 85–866, title II, §206(c), Sept. 2, 1958, 72 Stat. 1684; Pub. L. 91–172, title I, §101(j)(37), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–614, title I, §101(h), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–406, title II, §1016(a)(7), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(C), title XVI, §1605(b)(3), title XIX, §1906(b)(13)(A), title XX, §2004(c)(1), (2), Oct. 4, 1976, 90 Stat. 1727, 1754, 1834, 1867, 1868; Pub. L. 96–223, title I, §101(f)(1)(H), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(i)(8), Dec. 24, 1980, 94 Stat. 3410; Pub. L. 97–34, title IV, §422(e)(1), Aug. 13, 1981, 95 Stat. 316; Pub. L. 100–418, title I, §1941(b)(2)(B)(viii), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 107–134, title I, §112(d)(3), Jan. 23, 2002, 115 Stat. 2435.)
 
 #### Amendments
+
+<b>2002</b>—Subsec. (d)(3). Pub. L. 107–134 added par. (3).
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–418 substituted “or 44” for “44, or 45” in two places.
 
@@ -71,6 +77,10 @@ Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 <b>1969</b>—Subsec. (b). Pub. L. 91–172 inserted references to chapter 42.
 
 <b>1958</b>—Subsec. (a)(2). Pub. L. 85–866 inserted provisions allowing Secretary or his delegate to extend time for payment for reasonable period, not exceeding 10 years from date prescribed by section 6151(a), if he finds that payment on date fixed for payment of any installment under section 6166, or any part of such installment, or payment of any part of a deficiency prorated under section 6166 to installments the date for payment of which had arrived would result in undue hardship.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -116,9 +126,9 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 #### Effective Date of 1958 Amendment
 
-Section 206(f) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 6166 of this title and amending this section and sections 6503 and 6601 of this title\] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is after the date of the enactment of this Act \[Sept. 2, 1958\]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act\[Sept. 2, 1958\], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of the enactment of this Act \[Sept. 2, 1958\] such an election shall be considered timely if made on or before such sixtieth day.”
+Section 206(f) of Pub. L. 85–866, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting section 6166 of this title and amending this section and sections 6503 and 6601 of this title\] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] is after the date of the enactment of this Act \[Sept. 2, 1958\]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act \[Sept. 2, 1958\], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of the enactment of this Act \[Sept. 2, 1958\] such an election shall be considered timely if made on or before such sixtieth day.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2011, 2014, 2056A, 2204, 6215, 6404, 6503, 6873 of this title.
+This section is referred to in sections 2011, 2014, 2056A, 2058, 2204, 6215, 6503, 6873 of this title.
 

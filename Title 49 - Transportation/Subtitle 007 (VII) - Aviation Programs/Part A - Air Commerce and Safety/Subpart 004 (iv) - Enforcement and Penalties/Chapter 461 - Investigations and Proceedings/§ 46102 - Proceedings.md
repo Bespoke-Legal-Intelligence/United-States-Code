@@ -2,21 +2,21 @@
 
 (a)
 
-Conducting Proceedings.—Subject to subchapter II of chapter 5 of title 5, the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may conduct proceedings in a way conducive to justice and the proper dispatch of business.
+Conducting Proceedings.—Subject to subchapter II of chapter 5 of title 5, the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may conduct proceedings in a way conducive to justice and the proper dispatch of business.
 
 (b)
 
-Appearance.—A person may appear and be heard before the Secretary and the Administrator in person or by an attorney. The Secretary may appear and participate as an interested party in a proceeding the Administrator conducts under section 40113(a) of this title.
+Appearance.—A person may appear and be heard before the Secretary, the Under Secretary, and the Administrator in person or by an attorney. The Secretary may appear and participate as an interested party in a proceeding the Administrator conducts under section 40113(a) of this title.
 
 (c)
 
-Recording and Public Access.—Official action taken by the Secretary and Administrator under this part shall be recorded. Proceedings before the Secretary and Administrator shall be open to the public on the request of an interested party unless the Secretary or Administrator decides that secrecy is required because of national defense.
+Recording and Public Access.—Official action taken by the Secretary, Under Secretary, and Administrator under this part shall be recorded. Proceedings before the Secretary, Under Secretary, and Administrator shall be open to the public on the request of an interested party unless the Secretary, Under Secretary, or Administrator decides that secrecy is required because of national defense.
 
 (d)
 
-Conflicts of Interest.—The Secretary, the Administrator, or an officer or employee of the Administration may not participate in a proceeding referred to in subsection (a) of this section in which the individual has a pecuniary interest.
+Conflicts of Interest.—The Secretary, the Under Secretary, the Administrator, or an officer or employee of the Administration may not participate in a proceeding referred to in subsection (a) of this section in which the individual has a pecuniary interest.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1226.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1226; Pub. L. 107–71, title I, §140(b)(1), (2), (4)–(6), Nov. 19, 2001, 115 Stat. 641.)
 
 Historical and Revision Notes
 
@@ -89,4 +89,14 @@ In subsection (b), the text of 49 App.:1481 (4th sentence words after last comma
 In subsection (c), the words “vote and” are omitted as surplus.
 
 In subsection (d), the words “officer or employee of the Administration” are substituted for “member” for clarity and consistency in the revised title and with other titles of the United States Code. The words “hearing or” are omitted as surplus. The words “referred to in subsection (a) of this section” are added for clarity.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+
+Subsec. (b). Pub. L. 107–71, §140(b)(4), substituted “, the Under Secretary, and the Administrator” for “and the Administrator”.
+
+Subsec. (c). Pub. L. 107–71, §140(b)(2), (5), substituted “, Under Secretary, and Administrator” for “and Administrator” in two places and “, Under Secretary, or Administrator” for “or Administrator”.
+
+Subsec. (d). Pub. L. 107–71, §140(b)(6), inserted “the Under Secretary,” after “Secretary,”.
 

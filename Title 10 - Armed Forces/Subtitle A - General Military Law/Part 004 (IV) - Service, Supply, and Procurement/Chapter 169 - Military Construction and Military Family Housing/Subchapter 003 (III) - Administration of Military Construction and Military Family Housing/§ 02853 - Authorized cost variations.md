@@ -12,11 +12,17 @@
 
 &emsp;(3) a period of 21 days has elapsed after the date on which the notification is received by the committees.
 
-(d) The limitation on cost increases in subsection (a) does not apply to the settlement of a contractor claim under a contract.
+(d) The limitation on cost increases in subsection (a) does not apply to the following:
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553.)
+&emsp;(1) The settlement of a contractor claim under a contract.
+
+&emsp;(2) The costs associated with the required remediation of an environmental hazard in connection with a military construction project or military family housing project, such as asbestos removal, radon abatement, lead-based paint removal or abatement, or any other legally required environmental hazard remediation, if the required remediation could not have reasonably been anticipated at the time the project was approved originally by Congress.
+
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305.)
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–107 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The limitation on cost increases in subsection (a) does not apply to the settlement of a contractor claim under a contract.”
 
 1996—Subsec. (d). Pub. L. 104–106 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The limitation on cost increases in subsection (a) does not apply to a within-scope modification to a contract or to the settlement of a contractor claim under a contract if the increase in cost is approved by the Secretary concerned, and the Secretary concerned promptly submits written notification of the facts relating to the proposed increase in cost to the appropriate committees of Congress.”
 
@@ -43,8 +49,4 @@ Subsec. (f). Pub. L. 100–26, §7(f)(2)(D), added subsec. (f).
 #### Effective Date
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2861 of this title.
 

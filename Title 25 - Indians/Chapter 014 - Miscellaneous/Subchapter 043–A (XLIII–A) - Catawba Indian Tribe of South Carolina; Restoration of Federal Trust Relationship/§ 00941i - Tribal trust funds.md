@@ -14,7 +14,7 @@ All funds paid pursuant to section 941c of this title, except for payments made 
 
 (4) Secretarial approval of an investment management firm shall not be unreasonably withheld, and any Secretarial disapproval of an investment management firm shall be accompanied by a detailed explanation setting forth the Secretary's reasons for such disapproval.
 
-(5)(A) For funds placed under professional management, the Tribe, in consultation with the Secretary and its investment manager, shall develop—
+(5)(A) For funds placed under professional management, the Tribe, in consultation withthe Secretary and its investment manager, shall develop—
 
 &emsp;(i) current operating and long-term capital budgets; and
 
@@ -76,7 +76,7 @@ The Secretary shall establish and maintain a Catawba Education Trust Fund, and u
 
 (1) The Secretary shall establish and maintain a Catawba Per Capita Payment Trust Fund in an amount equal to 15 percent of the settlement funds paid pursuant to section 5 of the Settlement Agreement. Until the Tribe engages an outside firm for investment management of this Trust Fund, the Secretary shall manage, invest, and administer the Catawba Per Capita Payment Trust Fund.
 
-(2) Each person (or their estate) whose name appears on the final base membership roll of theTribe published by the Secretary pursuant to section 941e(c) of this title will receive a one-time, non-recurring payment from this Trust Fund.
+(2) Each person (or their estate) whose name appears on the final base membership roll of the Tribe published by the Secretary pursuant to section 941e(c) of this title will receive a one-time, non-recurring payment from this Trust Fund.
 
 (3) The amount payable to each member <sup>1</sup> shall be determined by dividing the trust principal and any accrued interest thereon by the number of Members on the final base membership roll.
 
@@ -118,7 +118,7 @@ The Tribe, in consultation with the Secretary, shall have the authority to trans
 
 &emsp;(C) indicate dates and amounts of distributions to the Tribe, separately distinguishing current income, accumulated income, and distributions of principal; and
 
-&emsp;(D) identify any invasions or repayments of principal during the relevant period andrecord provisions the Tribe has made for repayment or restoration of principal.
+&emsp;(D) identify any invasions or repayments of principal during the relevant period and record provisions the Tribe has made for repayment or restoration of principal.
 
 (2)(A) Any outside investment management firm engaged by the Tribe shall account to the Tribe and separately to the Secretary at periodic intervals, at least quarterly. Its accounting shall—
 

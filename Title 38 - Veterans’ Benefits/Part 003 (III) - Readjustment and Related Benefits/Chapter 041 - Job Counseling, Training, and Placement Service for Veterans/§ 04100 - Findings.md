@@ -20,7 +20,7 @@ Pub. L. 101–237, title IV, §408, Dec. 18, 1989, 103 Stat. 2083, as amended by
 
 “(a)
 
-Requirement for Program.—During the three-year period beginning on January 1, 1990, the Secretary of Labor (hereafter in this section referred to as the ‘Secretary’), in conjunction with the Secretary of Veterans Affairs and the Secretary of Defense, shall conduct a pilot program to furnish employment and training information and services to members of the Armed Forces within 180 days before such members are separated from the Armed Forces.
+Requirement for Program.—During the three-year period beginning on January 1, 1990, the Secretary of Labor (hereafter in this section referred to as the‘Secretary’), in conjunction with the Secretary of Veterans Affairs and the Secretary of Defense, shall conduct a pilot program to furnish employment and training information and services to members of the Armed Forces within 180 days before such members are separated from the Armed Forces.
 
 “(b)
 

@@ -50,7 +50,7 @@ If an extension of time is terminated under subsection (e) or (f) with respect t
 
 #### (h) Jeopardy
 
-If the Secretary believes that collection of the amount to which an extension under this section relates is in jeopardy, he shall immediately terminate such extension, and notice and demand shall be made by him for payment of such amount.
+If the Secretary believes that collection of the amount to which an extension under this sectionrelates is in jeopardy, he shall immediately terminate such extension, and notice and demand shall be made by him for payment of such amount.
 
 #### (i) Consolidated returns
 

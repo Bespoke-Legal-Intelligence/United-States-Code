@@ -22,7 +22,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) natural gas which is commercially unmarketable (either by reason of quality or quantity), as determined under rules prescribed by the Secretary;
 
-&emsp;&emsp;(ii) natural gas produced by the user from a well the maximum efficient productionrate of which is less than 250 million Btu's per day;
+&emsp;&emsp;(ii) natural gas produced by the user from a well the maximum efficient production rate of which is less than 250 million Btu's per day;
 
 &emsp;&emsp;(iii) natural gas to the extent the exclusion of such gas is provided for in subsection (b) of this section; or
 
@@ -80,7 +80,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) has a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 100 million Btu's per hour or greater; or
 
-&emsp;&emsp;(ii) is in a combination of two or more such units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
+&emsp;&emsp;(ii) is in a combination of two or more such units which are located at the samesite and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
 
 &emsp;(B) The terms “major fuel-burning installation” and “installation” do not include—
 
@@ -144,7 +144,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(17) The term “applicable environmental requirements” includes—
 
-&emsp;&emsp;(A) any standard, limitation, or other requirement established by or pursuant to Federal or State law (including any final order of any Federal or State court) applicable to emissions of environmental pollutants (including air and water pollutants) or disposal of solid waste residues resulting from the use of coal or other alternate fuels or natural gas or petroleum as a primary energy source or from the operation of pollution control equipment in connection with such use, taking into account any variance of law granted or issued in accordance with Federal law or in accordance with State law to the extent consistent with Federal law; and
+&emsp;&emsp;(A) any standard, limitation, or other requirement established by or pursuant to Federal or State law (including any final order of any Federal or State court) applicable to emissions of environmental pollutants (including air and water pollutants) or disposal of solid waste residues resulting from the use of coal or other alternate fuels or natural gas or petroleum as a primary energy source or from the operation of pollution control equipment in connection with such use, taking into account any variance of law granted or issued in accordance with Federal law or in accordance with State lawto the extent consistent with Federal law; and
 
 &emsp;&emsp;(B) any other standard, limitation, or other requirement established by, or pursuant to, the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], or the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
@@ -218,7 +218,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 The Clean Air Act, referred to in subsec. (a)(17)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (a)(17)(B), is act June 30, 1948, ch. 758, asamended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a)(17)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (a)(17)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

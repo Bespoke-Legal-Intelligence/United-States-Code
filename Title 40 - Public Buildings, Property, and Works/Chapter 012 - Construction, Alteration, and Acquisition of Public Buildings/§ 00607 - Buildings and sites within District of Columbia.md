@@ -20,7 +20,7 @@ With respect to any lands located in the area extending from the United States C
 
 &emsp;(A) 50 per centum of all revenues from professional football derived from such additional seats shall be used solely for the purpose of repaying the sums borrowed for such seats;
 
-&emsp;(B) 44 per centum of such revenues shall be paid to the team operating under the trade name of the Washington Redskins, or its successors; and
+&emsp;(B) 44 per centum of such revenues shall be paid to the team operating under the tradename of the Washington Redskins, or its successors; and
 
 &emsp;(C) 6 per centum of such revenues shall be subject to the provisions of section 6 of such Act of 1957.
 

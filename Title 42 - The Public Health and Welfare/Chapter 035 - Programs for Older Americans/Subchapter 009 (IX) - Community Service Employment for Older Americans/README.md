@@ -6,7 +6,7 @@ Title V of the Older Americans Act of 1965, comprising this subchapter, was orig
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1474, 3002, 3011, 3013, 4368a, 6873 of this title; title 20 section 9271; title 29 sections 1604, 1605, 1735, 2822, 2841.
+This subchapter is referred to in sections 1474, 3002, 3011, 3013, 4368a, 6873 of this title; title 20 section 9271; title 29 sections 2822, 2841.
 
 
 ---

@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) is deposited in a receiving depository institution which is staffed by individuals employed by such institution;
 
-&emsp;&emsp;&emsp;(ii) is deposited with a special deposit slip which indicates it is a cashier's check, certified check, teller's check, or depository check, as the case may be; and
+&emsp;&emsp;&emsp;(ii) is deposited with a special deposit slip which indicates it is a cashier's check,certified check, teller's check, or depository check, as the case may be; and
 
 &emsp;&emsp;&emsp;(iii) is endorsed only by the person to whom it was issued.
 
@@ -116,7 +116,7 @@
 
 #### (1) Reduction generally
 
-&emsp;Notwithstanding any other provision of law, the Board shall, by regulation, reduce the time periods established under subsections (b), (c), and (e) of this section to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
+&emsp;Notwithstanding any other provision of law, the Board shall, by regulation, reduce thetime periods established under subsections (b), (c), and (e) of this section to as short a time as possible and equal to the period of time achievable under the improved check clearing system for a receiving depository institution to reasonably expect to learn of the nonpayment of most items for each category of checks.
 
 #### (2) Extension for certain deposits in noncontiguous States or territories
 
@@ -162,7 +162,7 @@ No provision of this section shall be construed as requiring that, with respect 
 
 &emsp;(2) any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) of this section or in the regulations issued under any such subsection.
 
-(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28,1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307.)
+(Pub. L. 100–86, title VI, §603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, §1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, §227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307.)
 
 #### Amendments
 

@@ -4,6 +4,7 @@ Subpart A—General Rule
 | :--- | ---: |
 | [401\.](%C2%A7%2000401%20-%20Qualified%20pension%2C%20profit-sharing%2C%20and%20stock%20bonus%20plans.md) | Qualified pension, profit-sharing, and stock bonus plans. |
 | [402\.](%C2%A7%2000402%20-%20Taxability%20of%20beneficiary%20of%20employees%E2%80%99%20trust.md) | Taxability of beneficiary of employees’ trust. |
+| [402A.](%C2%A7%2000402A%20-%20Optional%20treatment%20of%20elective%20deferrals%20as%20Roth%20contributions.md) | Optional treatment of elective deferrals as Roth contributions. |
 | [403\.](%C2%A7%2000403%20-%20Taxation%20of%20employee%20annuities.md) | Taxation of employee annuities. |
 | [404\.](%C2%A7%2000404%20-%20Deduction%20for%20contributions%20of%20an%20employer%20to%20an%20employees%E2%80%99%20trust%20or%20annuity%20plan%20and%20compensation%20under%20a%20deferred-payment%20plan.md) | Deduction for contributions of an employer to an employees’ trust or annuity plan and compensation under a deferred-payment plan. |
 | [404A.](%C2%A7%2000404A%20-%20Deduction%20for%20certain%20foreign%20deferred%20compensation%20plans.md) | Deduction for certain foreign deferred compensation plans. |
@@ -17,6 +18,8 @@ Subpart A—General Rule
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title VI, §617(e)(2), June 7, 2001, 115 Stat. 106, added item 402A.
 
 <b>1997</b>—Pub. L. 105–34, title III, §302(e), Aug. 5, 1997, 111 Stat. 829, added item 408A.
 
@@ -47,6 +50,7 @@ Pub. L. 93–406, title II, §2002(h)(2), Sept. 2, 1974, 88 Stat. 970, added ite
 
 - [&sect; 00401 - Qualified pension, profit-sharing, and stock bonus plans](%C2%A7%2000401%20-%20Qualified%20pension%2C%20profit-sharing%2C%20and%20stock%20bonus%20plans.md)
 - [&sect; 00402 - Taxability of beneficiary of employees&#8217; trust](%C2%A7%2000402%20-%20Taxability%20of%20beneficiary%20of%20employees%E2%80%99%20trust.md)
+- [&sect; 00402A - Optional treatment of elective deferrals as Roth contributions](%C2%A7%2000402A%20-%20Optional%20treatment%20of%20elective%20deferrals%20as%20Roth%20contributions.md)
 - [&sect; 00403 - Taxation of employee annuities](%C2%A7%2000403%20-%20Taxation%20of%20employee%20annuities.md)
 - [&sect; 00404 - Deduction for contributions of an employer to an employees&#8217; trust or annuity plan and compensation under a deferred-payment plan](%C2%A7%2000404%20-%20Deduction%20for%20contributions%20of%20an%20employer%20to%20an%20employees%E2%80%99%20trust%20or%20annuity%20plan%20and%20compensation%20under%20a%20deferred-payment%20plan.md)
 - [&sect; 00404A - Deduction for certain foreign deferred compensation plans](%C2%A7%2000404A%20-%20Deduction%20for%20certain%20foreign%20deferred%20compensation%20plans.md)

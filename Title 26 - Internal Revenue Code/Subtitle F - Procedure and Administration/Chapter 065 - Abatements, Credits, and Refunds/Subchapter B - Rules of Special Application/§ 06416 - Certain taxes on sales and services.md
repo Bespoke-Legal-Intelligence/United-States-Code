@@ -48,7 +48,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) or (C), if the price of any article in respect of which a tax, based on such price, is imposed by chapter 31 or 32, is readjusted by reason of the return or repossession of the article ora covering or container, or by a bona fide discount, rebate, or allowance, including a readjustment for local advertising (but only to the extent provided in section 4216(e)(2) and (3)), the part of the tax proportionate to the part of the price repaid or credited to the purchaser shall be deemed to be an overpayment.
+&emsp;&emsp;Except as provided in subparagraph (B) or (C), if the price of any article in respect of which a tax, based on such price, is imposed by chapter 31 or 32, is readjusted by reason of the return or repossession of the article or a covering or container, or by a bona fide discount, rebate, or allowance, including a readjustment for local advertising (but only to the extent provided in section 4216(e)(2) and (3)), the part of the tax proportionate to the part of the price repaid or credited to the purchaser shall be deemed to be an overpayment.
 
 #### (B) Further manufacture
 
@@ -124,7 +124,7 @@ Under regulations prescribed by the Secretary, credit or refund (without interes
 
 > &emsp;such tax shall be deemed to be an overpayment by such person. For purposes of the preceding sentence, an article shall be treated as having been used as a component part of another article if, had it not been broken or rendered useless in the manufacture or production of such other article, it would have been so used.
 
-> This subsection shall apply in respect of an article only if the exportation or use referred to inthe applicable provision of this subsection occurs before any other use, or, in the case of a sale or resale, the use referred to in the applicable provision of this subsection is to occur before any other use.
+> This subsection shall apply in respect of an article only if the exportation or use referred to in the applicable provision of this subsection occurs before any other use, or, in the case of a sale or resale, the use referred to in the applicable provision of this subsection is to occur before any other use.
 
 #### (c) Refund to exporter or shipper
 
@@ -148,7 +148,7 @@ Under regulations prescribed by the Secretary, if any person uses or resells lik
 
 For purposes of this section, any term used in this section has the same meaning as when used in chapter 31, 32, or 33, as the case may be.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961, 75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat. 1330–330, 1330–444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102 Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 798; Aug. 11, 1955, ch. 793, §2, 69 Stat. 676; Aug. 11, 1955, ch. 805, §§1(h), (i), 2(b), 69 Stat. 690; Apr. 2, 1956, ch. 160, §2(b)(1), 70 Stat. 90; June 29, 1956, ch. 462, title II, §208(b), 70 Stat. 393; Pub. L. 85–475, §4(b)(5), (6), June 30, 1958, 72 Stat. 260; Pub. L. 85–859, title I, §163(a), (c), Sept. 2, 1958, 72 Stat. 1306, 1311; Pub. L. 86–342, title II, §201(d)(1), Sept. 21, 1959, 73 Stat. 614; Pub. L. 86–418, §3, Apr. 8, 1960, 74 Stat. 38; Pub. L. 86–781, §2, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 87–61, title II, §205(c), (d), June 29, 1961, 75 Stat. 126; Pub. L. 87–508, §5(c)(3), June 28, 1962, 76 Stat. 119; Pub. L. 89–44, title II, §207(c), title VI, §601(c), title VIII, §801(d)(2), June 21, 1965, 79 Stat. 140, 153, 158; Pub. L. 91–258, title II, §§205(b)(3), (4), 207(d)(4)–(7), May 21, 1970, 84 Stat. 242, 248, 249; Pub. L. 91–614, title III, §302(a), (b), Dec. 31, 1970, 84 Stat. 1845; Pub. L. 92–178, title IV, §401(a)(3)(C), (g)(6), Dec. 10, 1971, 85 Stat. 531, 534; Pub. L. 94–455, title XIX, §§1904(b)(1), (2), 1906(a)(24)(A), (B)(i), (b)(13)(A), title XXI, §2108(a), Oct. 4, 1976, 90 Stat. 1815, 1827, 1834, 1904; Pub. L. 95–227, §2(b)(4), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–618, title II, §§201(c)(3), 232(b), 233(c)(3), Nov. 9, 1978, 92 Stat. 3184, 3189, 3192; Pub. L. 96–222, title I, §108(c)(2)(A), (B), (3), (4), Apr. 1, 1980, 94 Stat. 227; Pub. L. 96–596, §4(c)(1), Dec. 24, 1980, 94 Stat. 3475; Pub. L. 96–598, §1(a), (b), Dec. 24, 1980, 94 Stat. 3485, 3486; Pub. L. 97–424, title V, §§511(g)(2)(A), 512(b)(2)(C), (D), 515(b)(4), Jan. 6, 1983, 96 Stat. 2173, 2177, 2181; Pub. L. 98–369, div. A, title VII, §§734(b), (j), 735(c)(13), July 18, 1984, 98 Stat. 978, 980, 984; Pub. L. 99–499, title V, §521(d)(5), Oct. 17, 1986, 100 Stat. 1780; Pub. L. 100–203, title IX, §9201(b)(2), title X, §10502(d)(6)–(8), Dec. 22, 1987, 101 Stat.1330–330, 1330–444; Pub. L. 100–647, title II, §2001(d)(1)(B), title VI, §6102(a), Nov. 10, 1988, 102 Stat. 3594, 3710; Pub. L. 101–508, title XI, §11212(d)(2), Nov. 5, 1990, 104 Stat. 1388–432; Pub. L. 103–66, title XIII, §13242(d)(17)–(19), Aug. 10, 1993, 107 Stat. 524; Pub. L. 104–188, title I, §1702(b)(3), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §905(a), title X, §1032(e)(6), title XIV, §1436(b), Aug. 5, 1997, 111 Stat. 874, 935, 1053; Pub. L. 105–206, title VI, §6023(23), July 22, 1998, 112 Stat. 826.)
 
 #### Amendments
 
@@ -180,7 +180,7 @@ Subsec. (b)(2). Pub. L. 100–647, §2001(d)(1)(B), substituted “(or under sub
 
 <b>1987</b>—Subsec. (b)(2). Pub. L. 100–203, §10502(d)(6), struck out “(other than coal taxable under section 4121)” after “of any article” in introductory provisions and inserted at end “This paragraph shall not apply in the case of any tax paid under section 4091 or 4121.”
 
-Pub. L. 100–203, §9201(b)(2), inserted at end “In the case of the tax imposed by section 4131, subparagraphs (B), (C), and (D) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccinemeets such requirements as the Secretary may by regulations prescribe.”
+Pub. L. 100–203, §9201(b)(2), inserted at end “In the case of the tax imposed by section 4131, subparagraphs (B), (C), and (D) shall not apply and subparagraph (A) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.”
 
 Subsec. (b)(3)(A). Pub. L. 100–203, §10502(d)(7), inserted “and other than any fuel taxable under section 4091” after “section 4081”.
 
@@ -248,7 +248,7 @@ Subsec. (b)(2). Pub. L. 96–222, §108(c)(3), added subpar. (N) and provision f
 
 Subsec. (b)(2)(E). Pub. L. 96–598, §1(b)(2)(A), inserted “(or in the case of the tread rubber on a recapped or retreaded tire, resold for use as provided in subparagraph (D) of paragraph (3)),” after “paragraph (3)”.
 
-Subsec. (b)(2)(G). Pub. L. 96–598, §1(a), inserted provision making a credit or refund of the tread rubber tax available where the tread rubber is destroyed, scrapped, wasted, or rendered useless in the recapping or retreading process, where the tread rubber is used in the recapping or retreading of a tire if the sales price of the tire is later adjusted because of a warranty or guarantee, in which case the overpayment is to be in proportion to the adjustment in the sales price of such tire, and where the tread rubber is used in the recapping or retreading of a tire, if such tire is by any person exported, used or sold for use as supplies for vessels or aircraft, sold to a State or local government for the exclusive use of a State or local government, or sold toa nonprofit educational organization for its exclusive use.
+Subsec. (b)(2)(G). Pub. L. 96–598, §1(a), inserted provision making a credit or refund of the tread rubber tax available where the tread rubber is destroyed, scrapped, wasted, or rendered useless in the recapping or retreading process, where the tread rubber is used in the recapping or retreading of a tire if the sales price of the tire is later adjusted because of a warranty or guarantee, in which case the overpayment is to be in proportion to the adjustment in the sales price of such tire, and where the tread rubber is used in the recapping or retreading of a tire, if such tire is by any person exported, used or sold for use as supplies for vessels or aircraft, sold to a State or local government for the exclusive use of a State or local government, or sold to a nonprofit educational organization for its exclusive use.
 
 Subsec. (b)(3)(A). Pub. L. 96–598, §1(b)(2)(C), inserted “(D),” after “(C),”.
 
@@ -462,7 +462,7 @@ Amendment by section 511(g)(2)(A) of Pub. L. 97–424 effective Apr. 1, 1983, se
 
 Amendment by section 512(b)(2)(C), (D) of Pub. L. 97–424 effective Apr. 1, 1983, see section 512(b)(3) of Pub. L. 97–424, set out as a note under section 4051 of this title.
 
-Amendment by section 515(b)(4) of Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983, see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
+Amendment by section 515(b)(4) of Pub. L. 97–424 applicable with respect to articles sold after Jan. 6, 1983,see section 515(c) of Pub. L. 97–424, set out as a note under section 34 of this title.
 
 #### Effective Date of 1980 Amendments
 
@@ -498,7 +498,7 @@ Amendment by Pub. L. 92–178 applicable with respect to articles sold on or aft
 
 #### Effective Date of 1970 Amendments
 
-Section 302(c) of Pub. L. 91–614 provided that: “The amendments made by subsections (a) and (b) of thissection \[amending this section\] shall apply only with respect to claims for credit or refund filed after the date of the enactment of this Act \[Dec. 31, 1970\], but only if the filing of the claim is not barred on the day after the date of the enactment of this Act by any law or rule of law.”
+Section 302(c) of Pub. L. 91–614 provided that: “The amendments made by subsections (a) and (b) of this section \[amending this section\] shall apply only with respect to claims for credit or refund filed after the date of the enactment of this Act \[Dec. 31, 1970\], but only if the filing of the claim is not barred on the day after the date of the enactment of this Act by any law or rule of law.”
 
 Amendment by Pub. L. 91–258 effective on July 1, 1970, see section 211(a) of Pub. L. 91–258, set out as a note under section 4041 of this title.
 
@@ -542,7 +542,7 @@ Section 3 of act Aug. 11, 1955, ch. 805, as amended by Oct. 22, 1986, Pub. L. 99
 
 &emsp;“(1) the repeal of section 6416(b)(2)(G) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply only with respect to articles sold by the manufacturer, producer, or importer on or after the first day of the first month which begins more than 10 days after the date of the enactment of this Act \[Aug. 11, 1955\], and
 
-&emsp;“(2) section 6416(b)(3)(B) of the Internal Revenue Code of 1986, as amended by subsection (i) of the first section of this Act \[Aug. 11, 1955\], shall apply with respect to articles used on or after such first day by the manufacturer or producer as material in the manufacture of, production of, or as a component part of, another article.”
+&emsp;“(2) section 6416(b)(3)(B) of the Internal Revenue Code of 1986, as amended by subsection (i) of the firstsection of this Act \[Aug. 11, 1955\], shall apply with respect to articles used on or after such first day by the manufacturer or producer as material in the manufacture of, production of, or as a component part of, another article.”
 
 Section 3 of act Aug. 11, 1955, ch. 793, provided that: “The amendments made by this Act \[amending this section and sections 4091 and 4092 of this title\] shall take effect on the first day of the first calendar quarter which begins more than ten days after the date of the enactment of this Act \[Aug. 11, 1955\]”.
 

@@ -1,6 +1,6 @@
 ### §§3793a, 3793b. Repealed. Pub. L. 98–473, title II, §609D(b), Oct. 12, 1984, 98 Stat. 2097
 
-Section 3793a, Pub. L. 90–351, title I, §1002, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218, required maintenance of a fund for juvenile delinquency programs consisting of minimum of 19.15 per centum of the appropriations each fiscal year for this chapter.
+Section 3793a, Pub. L. 90–351, title I, §1002, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218, requiredmaintenance of a fund for juvenile delinquency programs consisting of minimum of 19.15 per centum of the appropriations each fiscal year for this chapter.
 
 A prior section 1002 of Pub. L. 90–351, title V, June 19, 1968, 82 Stat. 235, was classified as a note under section 7313 of Title 5, Government Organization and Employees.
 

@@ -10,7 +10,7 @@ Arkansas is divided into two judicial districts to be known as the Eastern and W
 
 &emsp;&emsp;Court for the Eastern Division shall be held at Helena.
 
-&emsp;&emsp;(2) The Western Division comprises the counties of Conway, Faulkner, Lonoke, Perry, Pope, Prairie, Pulaski, Saline, Van Buren, White and Yell.
+&emsp;&emsp;(2) The Western Division comprises the counties of Conway, Faulkner, Lonoke, Perry, Pope, Prairie, Pulaski, Saline, Van Buren, White, and Yell.
 
 &emsp;&emsp;Court for the Western Division shall be held at Little Rock.
 
@@ -62,7 +62,7 @@ Based on title 28, U.S.C., 1940 ed., §144 (Mar. 3, 1911, ch. 231, §71, 36 Stat
 
 A provision making inoperative the terms of the last paragraph of this section, whenever court accommodations shall be provided in Federal buildings was omitted as unnecessary. When such buildings become available the Director of the Administrative Office of the United States Courts will, under section 604 of this title, provide court accommodations therein.
 
-Provisions relating to places for maintenance of clerks’ offices and requiring said offices to be kept open at all times were omitted as covered by sections 452 and 751 of this title.
+Provisions relating to places for maintenance of clerks’ offices and requiring said offices to be kept openat all times were omitted as covered by sections 452 and 751 of this title.
 
 The provision authorizing the referee in bankruptcy for the western division of the eastern district to serve by appointment in the Hot Springs division of the western district is to be transferred to title 11, U.S.C., 1940 ed., Bankruptcy.
 

@@ -8,17 +8,17 @@
 
 &emsp;&emsp;(B) for damage caused by a vessel or floating object; and
 
-&emsp;(2) the net amount to be received by the United States is not more than $1,000,000.
+&emsp;(2) the net amount to be received by the United States is not more than $15,000,000.
 
 (b) In exchange for payment of an amount found to be due the United States under this section, the Secretary may execute a release of the claim on behalf of the United States. Amounts received under this section shall be covered into the Treasury.
 
-(c) In any case where the amount to be received by the United States is not more than $100,000, the Secretary may delegate his authority under this section to any person designated by him.
+(c) In any case where the amount to be received by the United States is not more than $1,000,000, the Secretary may delegate his authority under this section to any person designated by him.
 
-(d) Upon acceptance of payment by the Secretary, the settlement or compromise of a claimunder this section is final and conclusive notwithstanding any other provision of law.
+(d) Upon acceptance of payment by the Secretary, the settlement or compromise of a claim under this section is final and conclusive notwithstanding any other provision of law.
 
 (e) This section does not apply to any claim while there is pending as to that claim a suit filed by or against the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 472; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 472; Pub. L. 89–67, July 7, 1965, 79 Stat. 212; Pub. L. 101–189, div. A, title XVI, §1633, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 107–107, div. A, title X, §1014(b), Dec. 28, 2001, 115 Stat. 1212.)
 
 Historical and Revision Notes
 
@@ -60,7 +60,15 @@ The first proviso of 34 U.S.C. 600a, stating that this section is supplementary 
 
 #### Amendments
 
+2001—Subsec. (a)(2). Pub. L. 107–107, §1014(b)(1), substituted “$15,000,000” for “$1,000,000”.
+
+Subsec. (c). Pub. L. 107–107, §1014(b)(2), substituted “$1,000,000” for “$100,000”.
+
 1989—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
 
 1965—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–107 applicable with respect to any claim accruing on or after Feb. 1, 2001, see section 1014(c) of Pub. L. 107–107, set out as a note under section 7622 of this title.
 

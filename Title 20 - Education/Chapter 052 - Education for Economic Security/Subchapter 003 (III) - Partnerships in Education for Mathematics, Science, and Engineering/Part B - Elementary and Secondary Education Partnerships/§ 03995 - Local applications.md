@@ -20,7 +20,7 @@ The State shall require each application to include—
 
 &emsp;&emsp;(C) assurances that—
 
-&emsp;&emsp;&emsp;(i) except as provided in subsection (c) of this section, a minimum of 25 percent of the funds for each project will be supplied by business concerns within the community;
+&emsp;&emsp;&emsp;(i) except as provided in subsection (c) of this section, a minimum of 25 percent ofthe funds for each project will be supplied by business concerns within the community;
 
 &emsp;&emsp;&emsp;(ii) no stipend shall be paid directly to employees of a profitmaking business concern;
 

@@ -252,7 +252,7 @@ Recipient must agree to treatment as manufacturer.—In the case of any inventor
 
 &emsp;“(C)
 
-Exception where manufacturer paid tax.—In the case of any inventory exchange before January 1,1987, the amendment made by subsection (f) shall not apply if the manufacturer, producer, or importer treated such exchange as a sale for purposes of section 4661 of such Code and paid the tax imposed by such section.
+Exception where manufacturer paid tax.—In the case of any inventory exchange before January 1, 1987, the amendment made by subsection (f) shall not apply if the manufacturer, producer, or importer treated such exchange as a sale for purposes of section 4661 of such Code and paid the tax imposed by such section.
 
 &emsp;“(D)
 

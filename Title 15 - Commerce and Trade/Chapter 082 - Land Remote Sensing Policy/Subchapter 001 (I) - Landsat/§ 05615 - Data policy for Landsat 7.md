@@ -24,7 +24,7 @@ In addition, the data policy for Landsat 7 may provide for—
 
 &emsp;(2) other means for direct access by private sector entities to unenhanced data from Landsat 7; and
 
-&emsp;(3) the United States Government to charge a per image fee, license fee, or other such fee to entities operating ground receiving stations or distributing Landsat 7 data.
+&emsp;(3) the United States Government to charge a per image fee, license fee, or other such feeto entities operating ground receiving stations or distributing Landsat 7 data.
 
 #### (c) Landsat 7 Data Policy Plan
 

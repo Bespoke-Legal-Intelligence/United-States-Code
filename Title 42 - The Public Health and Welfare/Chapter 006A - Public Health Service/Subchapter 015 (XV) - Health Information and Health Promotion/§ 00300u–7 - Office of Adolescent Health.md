@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established an Office of Adolescent Health within the Office of the Assistant Secretary for Health, which office <sup>1</sup> shall be headed by a director <sup>1</sup> appointed by the Secretary. TheSecretary shall carry out this section acting through the Director of such Office.
+There is established an Office of Adolescent Health within the Office of the Assistant Secretary for Health, which office <sup>1</sup> shall be headed by a director <sup>1</sup> appointed by the Secretary. The Secretary shall carry out this section acting through the Director of such Office.
 
 #### (b) Duties
 

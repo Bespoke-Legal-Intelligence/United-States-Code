@@ -2,7 +2,7 @@
 
 For purpose of this subchapter—
 
-&emsp;(1) The term “act of God” means an unanticipated grave natural disaster or other natural phenomenon of an exceptional, inevitable,and irresistible character, the effects of which could not have been prevented or avoided by the exercise of due care or foresight.
+&emsp;(1) The term “act of God” means an unanticipated grave natural disaster or other natural phenomenon of an exceptional, inevitable, and irresistible character, the effects of which could not have been prevented or avoided by the exercise of due care or foresight.
 
 &emsp;(2) The term “Administrator” means the Administrator of the United States Environmental Protection Agency.
 
@@ -20,7 +20,7 @@ For purpose of this subchapter—
 
 &emsp;(9) The term “facility” means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft, or (B) any site or area where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
 
-&emsp;(10) The term “federally permitted release” means (A) discharges in compliance with a permit under section 1342 of title 33, (B) discharges resulting from circumstances identified and reviewed and made part of the public record with respect to a permit issued or modified under section 1342 of title 33 and subject to a condition of such permit, (C) continuous or anticipated intermittent discharges from a point source, identified in a permit or permit application under section 1342 of title 33, which are caused by events occurring within the scope of relevant operating or treatment systems, (D) discharges in compliance with a legally enforceable permit under section 1344 of title 33, (E) releases in compliance with a legally enforceable final permit issued pursuant to section 3005(a) through (d) of the Solid Waste Disposal Act \[42 U.S.C. 6925(a)–(d)\] from a hazardous waste treatment, storage, or disposal facility when such permit specifically identifies the hazardous substances and makes such substances subject to a standard of practice, control procedure or bioassay limitation or condition, or other control on the hazardous substances in such releases, (F) any release in compliance with a legally enforceable permit issued under section 1412 of title 33 of <sup>1</sup> section 1413 of title 33, (G) any injection of fluids authorized under Federal underground injection control programs or State programs submitted for Federal approval (and not disapproved by the Administrator of the Environmental Protection Agency) pursuant to part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\], (H) any emission into the air subject to a permit or control regulation under section 111 \[42 U.S.C. 7411\], section 112 \[42 U.S.C. 7412\], title I part C \[42 U.S.C. 7470 et seq.\], title I part D \[42 U.S.C. 7501 et seq.\], or State implementation plans submitted in accordance with section 110 of the Clean Air Act \[42 U.S.C. 7410\] (and not disapproved by the Administrator of the Environmental Protection Agency), including any schedule or waiver granted, promulgated, or approved under these sections, (I) any injection of fluids or other materials authorized under applicable State law (i) for the purpose of stimulating or treating wells for the production of crude oil, natural gas, or water, (ii) for the purpose of secondary, tertiary, or other enhanced recovery of crude oil or natural gas, or (iii) which are brought to the surface in conjunction with the production of crude oil or natural gas and which are reinjected, (J) the introduction of any pollutant into a publicly owned treatment works when such pollutant is specified in and in compliance with applicable pretreatment standards of section 1317 (b) or (c) of title 33 and enforceable requirements in a pretreatment program submitted by a State or municipality for Federal approval under section 1342 of title 33, and (K) any release of source, special nuclear, or byproduct material, as those terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], in compliance with a legally enforceable license, permit, regulation, or order issued pursuant to the Atomic Energy Act of 1954.
+&emsp;(10) The term “federally permitted release” means (A) discharges in compliance with a permit under section 402 of the Federal Water Pollution Control Act \[33 U.S.C. 1342\], (B) discharges resulting from circumstances identified and reviewed and made part of the public record with respect to a permit issued or modified under section 402 of the Federal Water Pollution Control Act and subject to a condition of such permit, (C) continuous or anticipated intermittent discharges from a point source, identified in a permit or permit application under section 402 of the Federal Water Pollution Control Act, which are caused by events occurring within the scope of relevant operating or treatment systems, (D) discharges in compliance with a legally enforceable permit under section 404 of the Federal Water Pollution Control Act \[33 U.S.C. 1344\], (E) releases in compliance with a legally enforceable final permit issued pursuant to section 3005(a) through (d) of the Solid Waste Disposal Act \[42 U.S.C. 6925(a)–(d)\] from a hazardous waste treatment, storage, or disposal facility when such permit specifically identifies the hazardous substances and makes such substances subject to a standard of practice, control procedure or bioassay limitation or condition, or other control on the hazardous substances in such releases, (F) any release in compliance with a legally enforceable permit issued under section 1412 of title 33 of <sup>1</sup> section 1413 of title 33, (G) any injection of fluids authorized under Federal underground injection control programs or State programs submitted for Federal approval (and not disapproved by the Administrator of the Environmental Protection Agency) pursuant to part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\], (H) any emission into the air subject to a permit or control regulation under section 111 \[42 U.S.C. 7411\], section 112 \[42 U.S.C. 7412\], title I part C \[42 U.S.C. 7470 et seq.\], title I part D \[42 U.S.C. 7501 et seq.\], or State implementation plans submitted in accordance with section 110 of the Clean Air Act \[42 U.S.C. 7410\] (and not disapproved by the Administrator of the Environmental Protection Agency), including any schedule or waiver granted, promulgated, or approved under these sections, (I) any injection of fluids or other materials authorized under applicable State law (i) for the purpose of stimulating or treating wells for the production of crude oil, natural gas, or water, (ii) for the purpose of secondary, tertiary, or other enhanced recovery of crude oil or natural gas, or (iii) which are brought to the surface in conjunction with the production of crude oil or natural gas and which are reinjected, (J) the introduction of any pollutant into a publicly owned treatment works when such pollutant is specified in and in compliance with applicable pretreatment standards of section307(b) or (c) of the Clean Water Act \[33 U.S.C. 1317(b), (c)\] and enforceable requirements in a pretreatment program submitted by a State or municipality for Federal approval under section 402 of such Act \[33 U.S.C. 1342\], and (K) any release of source, special nuclear, or byproduct material, as those terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], in compliance with a legally enforceable license, permit, regulation, or order issued pursuant to the Atomic Energy Act of 1954.
 
 &emsp;(11) The term “Fund” or “Trust Fund” means the Hazardous Substance Superfund established by section 9507 of title 26.
 
@@ -28,7 +28,7 @@ For purpose of this subchapter—
 
 &emsp;(13) The term “guarantor” means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this chapter.
 
-&emsp;(14) The term “hazardous substance” means (A) any substance designated pursuant to section 1321(b)(2)(A) of title 33, (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of this title, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any waste the regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 1317(a) of title33, (E) any hazardous air pollutant listed under section 112 of the Clean Air Act \[42 U.S.C. 7412\], and (F) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 2606 of title 15. The term does not include petroleum, including crude oil or any fraction thereof which is not otherwise specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of this paragraph, and the term does not include natural gas, natural gas liquids, liquefied natural gas, or synthetic gas usable for fuel (or mixtures of natural gas and such synthetic gas).
+&emsp;(14) The term “hazardous substance” means (A) any substance designated pursuant to section 311(b)(2)(A) of the Federal Water Pollution Control Act \[33 U.S.C. 1321(b)(2)(A)\], (B) any element, compound, mixture, solution, or substance designated pursuant to section 9602 of this title, (C) any hazardous waste having the characteristics identified under or listed pursuant to section 3001 of the Solid Waste Disposal Act \[42 U.S.C. 6921\] (but not including any waste the regulation of which under the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\] has been suspended by Act of Congress), (D) any toxic pollutant listed under section 307(a) of the Federal Water Pollution Control Act \[33 U.S.C. 1317(a)\], (E) any hazardous air pollutant listed under section 112 of the Clean Air Act \[42 U.S.C. 7412\], and (F) any imminently hazardous chemical substance or mixture with respect to which the Administrator has taken action pursuant to section 7 of the Toxic Substances Control Act \[15 U.S.C. 2606\]. The term does not include petroleum, including crude oil or any fraction thereof which is not otherwise specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of this paragraph, and the term does not include natural gas, natural gas liquids, liquefied natural gas, or synthetic gas usable for fuel (or mixtures of natural gas and such synthetic gas).
 
 &emsp;(15) The term “navigable waters” or “navigable waters of the United States” means the waters of the United States, including the territorial seas.
 
@@ -64,7 +64,7 @@ Foreclosure.—The term “owner or operator” does not include a person that i
 
 &emsp;&emsp;&emsp;(II) after foreclosure, sells, re-leases (in the case of a lease finance transaction), or liquidates the vessel or facility, maintains business activities, winds up operations, undertakes a response action under section 9607(d)(1) of this title or under the direction of an on-scene coordinator appointed under the National Contingency Plan, with respect to the vessel or facility, or takes any other measure to preserve, protect, or prepare the vessel or facility prior to sale or disposition,
 
-> &emsp;&emsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), orotherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements.
+> &emsp;&emsp;if the person seeks to sell, re-lease (in the case of a lease finance transaction), or otherwise divest the person of the vessel or facility at the earliest practicable, commercially reasonable time, on commercially reasonable terms, taking into account market conditions and legal and regulatory requirements.
 
 &emsp;(F)
 
@@ -174,7 +174,7 @@ Security interest.—The term “security interest” includes a right under a m
 
 &emsp;(22) The term “release” means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing into the environment (including the abandonment or discarding of barrels, containers, and other closed receptacles containing any hazardous substance or pollutant or contaminant), but excludes (A) any release which results in exposure to persons solely within a workplace, with respect to a claim which such persons may assert against the employer of such persons, (B) emissions from the engine exhaust of a motor vehicle, rolling stock, aircraft, vessel, or pipeline pumping station engine, (C) release of source, byproduct, or special nuclear material from a nuclear incident, as those terms are defined in the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\], if such release is subject to requirements with respect to financial protection established by the Nuclear Regulatory Commission under section 170 of such Act \[42 U.S.C. 2210\], or, for the purposes of section 9604 of this title or any other response action, any release of source byproduct, or special nuclear material from any processing site designated under section 7912(a)(1) or 7942(a) of this title, and (D) the normal application of fertilizer.
 
-&emsp;(23) The terms “remove” or “removal” means <sup>3</sup> the cleanup or removal of released hazardous substances from the environment, such actions as may be necessary taken in the event of the threat of release of hazardous substances into the environment, such actions as may be necessary to monitor, assess, and evaluate the release or threat of release of hazardous substances, the disposal of removed material, or the taking of such other actions as may be necessary to prevent, minimize, or mitigate damage to the public health or welfare or to the environment, which may otherwise result from a release or threat of release. The term includes, in addition, without being limited to, security fencing or other measures to limit access, provision of alternative water supplies, temporary evacuation and housing of threatened individuals not otherwise provided for, action taken under section 9604(b) of this title, and any emergency assistance which may be provided under the Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
+&emsp;(23) The terms “remove” or “removal” means <sup>3</sup> the cleanup or removal of released hazardous substances from the environment, such actions as may be necessary taken in the event of the threat of release of hazardous substances into the environment, such actions as may be necessary to monitor, assess, and evaluate the release or threat of release of hazardous substances, the disposal of removed material, or the taking of such other actions as may be necessary to prevent, minimize, or mitigate damage to the public health or welfare or to the environment, which may otherwise result from a release or threat of release. The term includes, in addition, without being limited to, security fencing or other measures to limit access, provision of alternative water supplies, temporary evacuation and housing of threatened individuals not otherwise provided for, action taken under section 9604(b) of this title, and any emergency assistance which may be provided under the Disaster Relief andEmergency Assistance Act \[42 U.S.C. 5121 et seq.\].
 
 &emsp;(24) The terms “remedy” or “remedial action” means <sup>3</sup> those actions consistent with permanent remedy taken instead of or in addition to removal actions in the event of a release or threatened release of a hazardous substance into the environment, to prevent or minimize the release of hazardous substances so that they do not migrate to cause substantial danger to present or future public health or welfare or the environment. The term includes, but is not limited to, such actions at the location of the release as storage, confinement, perimeter protection using dikes, trenches, or ditches, clay cover, neutralization, cleanup of released hazardous substances and associated contaminated materials, recycling or reuse, diversion, destruction, segregation of reactive wastes, dredging or excavations, repair or replacement of leaking containers, collection of leachate and runoff, onsite treatment or incineration, provision of alternative water supplies, and any monitoring reasonably required to assure that such actions protect the public health and welfare and the environment. The term includes the costs of permanent relocation of residents and businesses and community facilities where the President determines that, alone or in combination with other measures, such relocation is more cost-effective than and environmentally preferable to the transportation, storage, treatment, destruction, or secure disposition offsite of hazardous substances, or may otherwise be necessary to protect the public health or welfare; the term includes offsite transport and offsite storage, treatment, destruction, or secure disposition of hazardous substances and associated contaminated materials.
 
@@ -188,17 +188,17 @@ Security interest.—The term “security interest” includes a right under a m
 
 &emsp;(29) The terms “disposal”, “hazardous waste”, and “treatment” shall have the meaning provided in section 1004 of the Solid Waste Disposal Act \[42 U.S.C. 6903\].
 
-&emsp;(30) The terms “territorial sea” and “contiguous zone” shall have the meaning provided in section 1362 of title 33.
+&emsp;(30) The terms “territorial sea” and “contiguous zone” shall have the meaning provided in section 502 of the Federal Water Pollution Control Act \[33 U.S.C. 1362\].
 
-&emsp;(31) The term “national contingency plan” means the national contingency plan published under section 1321(c) <sup>5</sup> of title 33 or revised pursuant to section 9605 of this title.
+&emsp;(31) The term “national contingency plan” means the national contingency plan published under section 311(c) <sup>5</sup> of the Federal Water Pollution Control Act or revised pursuant to section 9605 of this title.
 
-&emsp;(32) The terms “liable” or “liability” under this subchapter shall be construed to be the standard of liability which obtains under section 1321 of title 33.
+&emsp;(32) The terms “liable” or “liability” under this subchapter shall be construed to be the standard of liability which obtains under section 311 of the Federal Water Pollution Control Act \[33 U.S.C. 1321\].
 
 &emsp;(33) The term “pollutant or contaminant” shall include, but not be limited to, any element, substance, compound, or mixture, including disease-causing agents, which after release into the environment and upon exposure, ingestion, inhalation, or assimilation into any organism, either directly from the environment or indirectly by ingestion through food chains, will or may reasonably be anticipated to cause death, disease, behavioral abnormalities, cancer, genetic mutation, physiological malfunctions (including malfunctions in reproduction) or physical deformations, in such organisms or their offspring; except that the term “pollutant or contaminant” shall not include petroleum, including crude oil or any fraction thereof which is not otherwise specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of paragraph (14) and shall not include natural gas, liquefied natural gas, or synthetic gas of pipeline quality (or mixtures of natural gas and such synthetic gas).
 
 &emsp;(34) The term “alternative water supplies” includes, but is not limited to, drinking water and household water supplies.
 
-&emsp;(35)(A) The term “contractual relationship”, for the purpose of section 9607(b)(3) of this title, includes, but is not limited to, land contracts, deeds or other instruments transferring title or possession, unless the real property on which the facility concerned is located was acquired by the defendant after the disposal or placement of the hazardous substance on, in, or at the facility, and one or more of the circumstances described in clause (i), (ii), or (iii) is also established by the defendant by a preponderance of the evidence:
+&emsp;(35)(A) The term “contractual relationship”, for the purpose of section 9607(b)(3) of this title, includes, but is not limited to, land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless the real property on which the facility concerned is located was acquired by the defendant after the disposal or placement of the hazardous substance on, in, or at the facility, and one or more of the circumstances described in clause (i), (ii), or (iii) is also established by the defendant by a preponderance of the evidence:
 
 &emsp;&emsp;(i) At the time the defendant acquired the facility the defendant did not know and had no reason to know that any hazardous substance which is the subject of the release or threatened release was disposed of on, in, or at the facility.
 
@@ -206,13 +206,83 @@ Security interest.—The term “security interest” includes a right under a m
 
 &emsp;&emsp;(iii) The defendant acquired the facility by inheritance or bequest.
 
-> &emsp;In addition to establishing the foregoing, the defendant must establish that he has satisfied the requirements of section 9607(b)(3)(a) and (b) of this title.
+> &emsp;In addition to establishing the foregoing, the defendant must establish that the defendant has satisfied the requirements of section 9607(b)(3)(a) and (b) of this title, provides full cooperation, assistance, and facility access to the persons that are authorized to conduct response actions at the facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response action at the facility), is in compliance with any land use restrictions established or relied on in connection with the response action at a facility, and does not impede the effectiveness or integrity of any institutional control employed at the facility in connection with a response action.
 
-&emsp;(B) To establish that the defendant had no reason to know, as provided in clause (i) of subparagraph (A) of this paragraph, the defendant must have undertaken, at the time of acquisition, all appropriate inquiry into the previous ownership and uses of the property consistent with good commercial or customary practice in an effort to minimize liability. For purposes of the preceding sentence the court shall take into account any specialized knowledge or experience on the part of the defendant, the relationship of the purchase price to the value of the property if uncontaminated, commonly known or reasonably ascertainable information about the property, the obviousness of the presence or likely presence of contamination at the property, and the ability to detect such contamination by appropriate inspection.
+&emsp;(B)
 
-&emsp;(C) Nothing in this paragraph or in section 9607(b)(3) of this title shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this chapter. Notwithstanding this paragraph, if the defendant obtained actual knowledge of the release or threatened release of a hazardous substance at such facility when the defendant owned the real property and then subsequently transferred ownership of the property to another person without disclosing such knowledge, such defendant shall be treated as liable under section 9607(a)(1) of this title and no defense under section 9607(b)(3) of this title shall be available to such defendant.
+Reason to know.—
 
-&emsp;(D) Nothing in this paragraph shall affect the liability under this chapter of a defendant who, by any act or omission, caused or contributed to the release or threatened release ofa hazardous substance which is the subject of the action relating to the facility.
+&emsp;&emsp;(i)
+
+All appropriate inquiries.—To establish that the defendant had no reason to know of the matter described in subparagraph (A)(i), the defendant must demonstrate to a court that—
+
+&emsp;&emsp;&emsp;(I) on or before the date on which the defendant acquired the facility, the defendant carried out all appropriate inquiries, as provided in clauses (ii) and (iv), into the previous ownership and uses of the facility in accordance with generally accepted good commercial and customary standards and practices; and
+
+&emsp;&emsp;&emsp;(II) the defendant took reasonable steps to—
+
+&emsp;&emsp;&emsp;&emsp;(aa) stop any continuing release;
+
+&emsp;&emsp;&emsp;&emsp;(bb) prevent any threatened future release; and
+
+&emsp;&emsp;&emsp;&emsp;(cc) prevent or limit any human, environmental, or natural resource exposure to any previously released hazardous substance.
+
+&emsp;&emsp;(ii)
+
+Standards and practices.—Not later than 2 years after January 11, 2002, the Administrator shall by regulation establish standards and practices for the purpose of satisfying the requirement to carry out all appropriate inquiries under clause (i).
+
+&emsp;&emsp;(iii)
+
+Criteria.—In promulgating regulations that establish the standards and practices referred to in clause (ii), the Administrator shall include each of the following:
+
+&emsp;&emsp;&emsp;(I) The results of an inquiry by an environmental professional.
+
+&emsp;&emsp;&emsp;(II) Interviews with past and present owners, operators, and occupants of the facility for the purpose of gathering information regarding the potential for contamination at the facility.
+
+&emsp;&emsp;&emsp;(III) Reviews of historical sources, such as chain of title documents, aerial photographs, building department records, and land use records, to determine previous uses and occupancies of the real property since the property was first developed.
+
+&emsp;&emsp;&emsp;(IV) Searches for recorded environmental cleanup liens against the facility that are filed under Federal, State, or local law.
+
+&emsp;&emsp;&emsp;(V) Reviews of Federal, State, and local government records, waste disposal records, underground storage tank records, and hazardous waste handling, generation, treatment, disposal, and spill records, concerning contamination at or near the facility.
+
+&emsp;&emsp;&emsp;(VI) Visual inspections of the facility and of adjoining properties.
+
+&emsp;&emsp;&emsp;(VII) Specialized knowledge or experience on the part of the defendant.
+
+&emsp;&emsp;&emsp;(VIII) The relationship of the purchase price to the value of the property, if the property was not contaminated.
+
+&emsp;&emsp;&emsp;(IX) Commonly known or reasonably ascertainable information about the property.
+
+&emsp;&emsp;&emsp;(X) The degree of obviousness of the presence or likely presence of contamination at the property, and the ability to detect the contamination by appropriate investigation.
+
+&emsp;&emsp;(iv)
+
+Interim standards and practices.—
+
+&emsp;&emsp;&emsp;(I)
+
+Property purchased before may 31, 1997.—With respect to property purchased before May 31, 1997, in making a determination with respect to a defendant described in clause (i), a court shall take into account—
+
+&emsp;&emsp;&emsp;&emsp;(aa) any specialized knowledge or experience on the part of the defendant;
+
+&emsp;&emsp;&emsp;&emsp;(bb) the relationship of the purchase price to the value of the property, if the property was not contaminated;
+
+&emsp;&emsp;&emsp;&emsp;(cc) commonly known or reasonably ascertainable information about the property;
+
+&emsp;&emsp;&emsp;&emsp;(dd) the obviousness of the presence or likely presence of contamination at the property; and
+
+&emsp;&emsp;&emsp;&emsp;(ee) the ability of the defendant to detect the contamination by appropriate inspection.
+
+&emsp;&emsp;&emsp;(II)
+
+Property purchased on or after may 31, 1997.—With respect to property purchased on or after May 31, 1997, and until the Administrator promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as “Standard E1527–97”, entitled “Standard Practice for Environmental Site Assessment: Phase 1 Environmental Site Assessment Process”, shall satisfy the requirements in clause (i).
+
+&emsp;&emsp;(v)
+
+Site inspection and title search.—In the case of property for residential use or other similar use purchased by a nongovernmental or noncommercial entity, a facility inspection and title search that reveal no basis for further investigation shall be considered to satisfy the requirements of this subparagraph.
+
+&emsp;(C) Nothing in this paragraph or in section 9607(b)(3) of this title shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this chapter. Notwithstanding this paragraph, if the defendant obtained actual knowledge ofthe release or threatened release of a hazardous substance at such facility when the defendant owned the real property and then subsequently transferred ownership of the property to another person without disclosing such knowledge, such defendant shall be treated as liable under section 9607(a)(1) of this title and no defense under section 9607(b)(3) of this title shall be available to such defendant.
+
+&emsp;(D) Nothing in this paragraph shall affect the liability under this chapter of a defendant who, by any act or omission, caused or contributed to the release or threatened release of a hazardous substance which is the subject of the action relating to the facility.
 
 &emsp;(36) The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village but not including any Alaska Native regional or village corporation, which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
@@ -228,13 +298,177 @@ Security interest.—The term “security interest” includes a right under a m
 
 &emsp;(38) The term “incineration vessel” means any vessel which carries hazardous substances for the purpose of incineration of such substances, so long as such substances or residues of such substances are on board.
 
-(Pub. L. 96–510, title I, §101, Dec. 11, 1980, 94 Stat. 2767; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§101, 114(b), 127(a), title V, §517(c)(2), Oct. 17, 1986, 100 Stat. 1615, 1652, 1692, 1774; Pub. L. 100–707, title I, §109(v), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–429, §7(e)(1), Oct. 31, 1994, 108 Stat. 4390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], title II, §2502(b), Sept. 30, 1996, 110 Stat. 3009, 3009–41, 3009–464; Pub. L. 104–287, §6(j)(1), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–74, title IV, §427, Oct. 20, 1999, 113 Stat. 1095.)
+&emsp;(39)
+
+Brownfield site.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “brownfield site” means real property, the expansion, redevelopment, or reuse of which may be complicated by the presence or potential presence of a hazardous substance, pollutant, or contaminant.
+
+&emsp;&emsp;(B)
+
+Exclusions.—The term “brownfield site” does not include—
+
+&emsp;&emsp;&emsp;(i) a facility that is the subject of a planned or ongoing removal action under this subchapter;
+
+&emsp;&emsp;&emsp;(ii) a facility that is listed on the National Priorities List or is proposed for listing;
+
+&emsp;&emsp;&emsp;(iii) a facility that is the subject of a unilateral administrative order, a court order, an administrative order on consent or judicial consent decree that has been issued to or entered into by the parties under this chapter;
+
+&emsp;&emsp;&emsp;(iv) a facility that is the subject of a unilateral administrative order, a court order, an administrative order on consent or judicial consent decree that has been issued to or entered into by the parties, or a facility to which a permit has been issued by the United States or an authorized State under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.), the Federal Water Pollution Control Act (33 U.S.C. 1321) \[33 U.S.C. §1251 et seq.\], the Toxic Substances Control Act (15 U.S.C. 2601 et seq.), or the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
+
+&emsp;&emsp;&emsp;(v) a facility that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is subject to corrective action under section 3004(u) or 3008(h) of the Solid Waste Disposal Act (42 U.S.C. 6924(u), 6928(h)); and
+
+&emsp;&emsp;&emsp;&emsp;(II) to which a corrective action permit or order has been issued or modified to require the implementation of corrective measures;
+
+&emsp;&emsp;&emsp;(vi) a land disposal unit with respect to which—
+
+&emsp;&emsp;&emsp;&emsp;(I) a closure notification under subtitle C of the Solid Waste Disposal Act (42 U.S.C. 6921 et seq.) has been submitted; and
+
+&emsp;&emsp;&emsp;&emsp;(II) closure requirements have been specified in a closure plan or permit;
+
+&emsp;&emsp;&emsp;(vii) a facility that is subject to the jurisdiction, custody, or control of a department, agency, or instrumentality of the United States, except for land held in trust by the United States for an Indian tribe;
+
+&emsp;&emsp;&emsp;(viii) a portion of a facility—
+
+&emsp;&emsp;&emsp;&emsp;(I) at which there has been a release of polychlorinated biphenyls; and
+
+&emsp;&emsp;&emsp;&emsp;(II) that is subject to remediation under the Toxic Substances Control Act (15 U.S.C. 2601 et seq.); or
+
+&emsp;&emsp;&emsp;(ix) a portion of a facility, for which portion, assistance for response activity has been obtained under subtitle I of the Solid Waste Disposal Act (42 U.S.C. 6991 et seq.) from the Leaking Underground Storage Tank Trust Fund established under section 9508 of title 26.
+
+&emsp;&emsp;(C)
+
+Site-by-site determinations.—Notwithstanding subparagraph (B) and on a site-by-site basis, the President may authorize financial assistance under section 9604(k) ofthis title to an eligible entity at a site included in clause (i), (iv), (v), (vi), (viii), or (ix) of subparagraph (B) if the President finds that financial assistance will protect human health and the environment, and either promote economic development or enable the creation of, preservation of, or addition to parks, greenways, undeveloped property, other recreational property, or other property used for nonprofit purposes.
+
+&emsp;&emsp;(D)
+
+Additional areas.—For the purposes of section 9604(k) of this title, the term “brownfield site” includes a site that—
+
+&emsp;&emsp;&emsp;(i) meets the definition of “brownfield site” under subparagraphs (A) through (C); and
+
+&emsp;&emsp;&emsp;(ii)(I) is contaminated by a controlled substance (as defined in section 802 of title 21);
+
+&emsp;&emsp;&emsp;(II)(aa) is contaminated by petroleum or a petroleum product excluded from the definition of “hazardous substance” under this section; and
+
+&emsp;&emsp;&emsp;(bb) is a site determined by the Administrator or the State, as appropriate, to be—
+
+&emsp;&emsp;&emsp;&emsp;(AA) of relatively low risk, as compared with other petroleum-only sites in the State; and
+
+&emsp;&emsp;&emsp;&emsp;(BB) a site for which there is no viable responsible party and which will be assessed, investigated, or cleaned up by a person that is not potentially liable for cleaning up the site; and
+
+&emsp;&emsp;&emsp;(cc) is not subject to any order issued under section 9003(h) of the Solid Waste Disposal Act (42 U.S.C. 6991b(h)); or
+
+&emsp;&emsp;&emsp;(III) is mine-scarred land.
+
+&emsp;(40)
+
+Bona fide prospective purchaser.—The term “bona fide prospective purchaser” means a person (or a tenant of a person) that acquires ownership of a facility after January 11, 2002, and that establishes each of the following by a preponderance of the evidence:
+
+&emsp;&emsp;(A)
+
+Disposal prior to acquisition.—All disposal of hazardous substances at the facility occurred before the person acquired the facility.
+
+&emsp;&emsp;(B)
+
+Inquiries.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The person made all appropriate inquiries into the previous ownership and uses of the facility in accordance with generally accepted good commercial and customary standards and practices in accordance with clauses (ii) and (iii).
+
+&emsp;&emsp;&emsp;(ii)
+
+Standards and practices.—The standards and practices referred to in clauses (ii) and (iv) of paragraph (35)(B) shall be considered to satisfy the requirements of this subparagraph.
+
+&emsp;&emsp;&emsp;(iii)
+
+Residential use.—In the case of property in residential or other similar use at the time of purchase by a nongovernmental or noncommercial entity, a facility inspection and title search that reveal no basis for further investigation shall be considered to satisfy the requirements of this subparagraph.
+
+&emsp;&emsp;(C)
+
+Notices.—The person provides all legally required notices with respect to the discovery or release of any hazardous substances at the facility.
+
+&emsp;&emsp;(D)
+
+Care.—The person exercises appropriate care with respect to hazardous substances found at the facility by taking reasonable steps to—
+
+&emsp;&emsp;&emsp;(i) stop any continuing release;
+
+&emsp;&emsp;&emsp;(ii) prevent any threatened future release; and
+
+&emsp;&emsp;&emsp;(iii) prevent or limit human, environmental, or natural resource exposure to any previously released hazardous substance.
+
+&emsp;&emsp;(E)
+
+Cooperation, assistance, and access.—The person provides full cooperation, assistance, and access to persons that are authorized to conduct response actions or natural resource restoration at a vessel or facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response actions or natural resource restoration at the vessel or facility).
+
+&emsp;&emsp;(F)
+
+Institutional control.—The person—
+
+&emsp;&emsp;&emsp;(i) is in compliance with any land use restrictions established or relied on in connection with the response action at a vessel or facility; and
+
+&emsp;&emsp;&emsp;(ii) does not impede the effectiveness or integrity of any institutional control employed at the vessel or facility in connection with a response action.
+
+&emsp;&emsp;(G)
+
+Requests; subpoenas.—The person complies with any request for information or administrative subpoena issued by the President under this chapter.
+
+&emsp;&emsp;(H)
+
+No affiliation.—The person is not—
+
+&emsp;&emsp;&emsp;(i) potentially liable, or affiliated with any other person that is potentially liable, for response costs at a facility through—
+
+&emsp;&emsp;&emsp;&emsp;(I) any direct or indirect familial relationship; or
+
+&emsp;&emsp;&emsp;&emsp;(II) any contractual, corporate, or financial relationship (other than a contractual, corporate, or financial relationship that is created by the instruments by which title to the facility is conveyed or financed or by a contract for the sale of goods or services); or
+
+&emsp;&emsp;&emsp;(ii) the result of a reorganization of a business entity that was potentially liable.
+
+&emsp;(41)
+
+Eligible response site.—
+
+&emsp;&emsp;(A)
+
+In general.—The term “eligible response site” means a site that meets the definition of a brownfield site in subparagraphs (A) and (B) of paragraph (39), as modified by subparagraphs (B) and (C) of this paragraph.
+
+&emsp;&emsp;(B)
+
+Inclusions.—The term “eligible response site” includes—
+
+&emsp;&emsp;&emsp;(i) notwithstanding paragraph (39)(B)(ix), a portion of a facility, for which portion assistance for response activity has been obtained under subtitle I of the Solid Waste Disposal Act (42 U.S.C. 6991 et seq.) from the Leaking Underground Storage Tank Trust Fund established under section 9508 of title 26; or
+
+&emsp;&emsp;&emsp;(ii) a site for which, notwithstanding the exclusions provided in subparagraph (C) orparagraph (39)(B), the President determines, on a site-by-site basis and after consultation with the State, that limitations on enforcement under section 9628 of this title at sites specified in clause (iv), (v), (vi) or (viii) of paragraph (39)(B) would be appropriate and will—
+
+&emsp;&emsp;&emsp;&emsp;(I) protect human health and the environment; and
+
+&emsp;&emsp;&emsp;&emsp;(II) promote economic development or facilitate the creation of, preservation of, or addition to a park, a greenway, undeveloped property, recreational property, or other property used for nonprofit purposes.
+
+&emsp;&emsp;(C)
+
+Exclusions.—The term “eligible response site” does not include—
+
+&emsp;&emsp;&emsp;(i) a facility for which the President—
+
+&emsp;&emsp;&emsp;&emsp;(I) conducts or has conducted a preliminary assessment or site inspection; and
+
+&emsp;&emsp;&emsp;&emsp;(II) after consultation with the State, determines or has determined that the site obtains a preliminary score sufficient for possible listing on the National Priorities List, or that the site otherwise qualifies for listing on the National Priorities List; unless the President has made a determination that no further Federal action will be taken; or
+
+&emsp;&emsp;&emsp;(ii) facilities that the President determines warrant particular consideration as identified by regulation, such as sites posing a threat to a sole-source drinking water aquifer or a sensitive ecosystem.
+
+(Pub. L. 96–510, title I, §101, Dec. 11, 1980, 94 Stat. 2767; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§101, 114(b), 127(a), title V, §517(c)(2), Oct. 17, 1986, 100 Stat. 1615, 1652, 1692, 1774; Pub. L. 100–707, title I, §109(v), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–429, §7(e)(1), Oct. 31, 1994, 108 Stat. 4390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], title II, §2502(b), Sept. 30, 1996, 110 Stat. 3009, 3009–41, 3009–464; Pub. L. 104–287, §6(j)(1), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–74, title IV, §427, Oct. 20, 1999, 113 Stat. 1095; Pub. L. 107–118, title II, §§211(a), 222(a), 223, 231(a), Jan. 11, 2002, 115 Stat. 2360, 2370, 2372, 2375.)
 
 #### References in Text
 
-This chapter, referred to in pars. (5), (13), (20)(D), (G), and (35)(C), (D), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in pars. (5), (13), (20)(D), (G), (35)(C), (D), (39)(B)(iii), and (40)(G), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Safe Drinking Water Act, referred to in pars. (7) and (10), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in pars. (7), (10), and (39)(B)(iv), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. Part C of the Safe Drinking Water Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in pars. (8) and (16), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. The fishery conservation zone established by this Act, referred to in par. (16), was established by section 101 of this Act (16 U.S.C. 1811), which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
@@ -242,15 +476,27 @@ The Clean Air Act, referred to in par. (10), is act July 14, 1955, ch. 360, as a
 
 The Atomic Energy Act of 1954, referred to in pars. (10) and (22), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The Solid Waste Disposal Act, referred to in par. (14), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in pars. (14), (39)(B)(iv), (vi)(I), (ix), and (41)(B)(i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitles C and I of the Act are classified generally to subchapters III (§6921 et seq.) and IX (§6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The Farm Credit Act of 1971, referred to in par. (20)(G)(iv)(III), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
 The Disaster Relief and Emergency Assistance Act, referred to in par. (23), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-Section 1321(c) of title 33, referred to in par. (31), was amended generally by Pub. L. 101–380, title IV, §4201(a), Aug. 18, 1990, 104 Stat. 523, and no longer contains provisions directing the publishing of a National Contingency Plan. However, such provisions are contained in section 1321(d) of Title 33, Navigation and Navigable Waters.
+The Federal Water Pollution Control Act, referred to in par. (39)(B)(iv), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Clean Water Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Section 311(c) of the Act was amended generally by Pub. L. 101–380, title IV, §4201(a), Aug. 18, 1990, 104 Stat. 523, and no longer contains provisions directing the publishing of a National Contingency Plan. However, such provisions are contained in section 1321(d) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+
+The Toxic Substances Control Act, referred to in par. (39)(B)(iv), (viii)(II), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 #### Amendments
+
+2002—Par. (35)(A). Pub. L. 107–118, §223(1), in introductory provisions substituted “deeds, easements, leases,or” for “deeds or” and in concluding provisions substituted “the defendant has satisfied” for “he has satisfied” and inserted before period at end “, provides full cooperation, assistance, and facility access to the persons that are authorized to conduct response actions at the facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response action at the facility), is in compliance with any land use restrictions established or relied on in connection with the response action at a facility, and does not impede the effectiveness or integrity of any institutional control employed at the facility in connection with a response action”.
+
+Par. (35)(B). Pub. L. 107–118, §223(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “ To establish that the defendant had no reason to know, as provided in clause (i) of subparagraph (A) of this paragraph, the defendant must have undertaken, at the time of acquisition, all appropriate inquiry into the previous ownership and uses of the property consistent with good commercial or customary practice in an effort to minimize liability. For purposes of the preceding sentence the court shall take into account any specialized knowledge or experience on the part of the defendant, the relationship of the purchase price to the value of the property if uncontaminated, commonly known or reasonably ascertainable information about the property, the obviousness of the presence or likely presence of contamination at the property, and the ability to detect such contamination by appropriate inspection.”
+
+Par. (39). Pub. L. 107–118, §211(a), added par. (39).
+
+Par. (40). Pub. L. 107–118, §222(a), added par. (40).
+
+Par. (41). Pub. L. 107–118, §231(a), added par. (41).
 
 1999—Par. (20)(D). Pub. L. 106–74, which directed the amendment of subpar. (D) by inserting “through seizure or otherwise in connection with law enforcement activity” before “involuntary” the first place it appears, could not be executed because the word “involuntary” does not appear in subpar. (D).
 
@@ -334,6 +580,14 @@ Amendment by section 517(c)(2) of Pub. L. 99–499 effective Jan. 1, 1987, see s
 
 Section 238(b) of Pub. L. 96–561 provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
+#### Short Title of 2002 Amendments
+
+Pub. L. 107–118, §1, Jan. 11, 2002, 115 Stat. 2356, provided that: “This Act \[enacting section 9628 of this title, amending this section and sections 9604, 9605, 9607, and 9622 of this title, and enacting provisions set out as notes under this section and section 9607 of this title\] may be cited as the ‘Small Business Liability Relief and Brownfields Revitalization Act’.”
+
+Pub. L. 107–118, title I, §101, Jan. 11, 2002, 115 Stat. 2356, provided that: “This title \[amending sections 9607 and 9622 of this title and enacting provisions set out as a note under section 9607 of this title\] may be cited as the ‘Small Business Liability Protection Act’.”
+
+Pub. L. 107–118, title II, §201, Jan. 11, 2002, 115 Stat. 2360, provided that: “This title \[enacting section 9628 of this title and amending this section and sections 9604, 9605, and 9607 of this title\] may be cited as the ‘Brownfields Revitalization and Environmental Restoration Act of 2001’.”
+
 #### Short Title of 1996 Amendment
 
 Section 2501 of div. A of Pub. L. 104–208 provided that: “This subtitle \[subtitle E (§§2501–2505) of title II of div. A of Pub. L. 104–208, amending this section and sections 6991b and 9607 of this title and enacting provisions set out as a note under section 6991b of this title\] may be cited as the ‘Asset Conservation, Lender Liability, and Deposit Insurance Protection Act of 1996’.”
@@ -370,7 +624,7 @@ Administrator.—The term ‘Administrator’ means the Administrator of the Env
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300g–1, 6991, 6991b, 7274q, 9602, 9603, 9607, 9613, 9624, 9656, 11004 of this title; title 7 section 1985; title 10 sections 2692, 2701, 2703, 2707, 2708, 2810; title 14 section 690; title 16 section 460<i>lll</i>; title 26 section 198; title 33 section 2701.
+This section is referred to in sections 300g–1, 6991, 6991b, 7274q, 9602, 9603, 9604, 9607, 9613, 9624, 9656, 11004 of this title; title 7 section 1985; title 10 sections 2692, 2701, 2703, 2707, 2708, 2810; title 14 section 690; title 16 section 460<i>lll</i>; title 26 section 198; title 33 section 2701.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

@@ -141,7 +141,7 @@ Having discussed the general reasons why chapter 11 of the House amendment is so
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 103, 105, 109, 303, 326, 327, 329, 346, 347, 362, 363, 365, 502, 503, 524, 546, 706, 1102, 1203, 1301, 1306, 1307 of this title; title 7 section 2008h; title 20 sections 1002, 1087; title 21 section 356c; title 26 sections 108, 1398, 6012; title 28 sections 157, 586, 1930; title 29 sections 1341, 1342.
+This chapter is referred to in sections 103, 105, 109, 303, 326, 327, 329, 346, 347, 362, 363, 365, 502, 503, 524, 546, 706, 1102, 1203, 1301, 1306, 1307 of this title; title 7 section 2008h; title 20 sections 1002, 1087; title 21 section 356c; title 26 sections 108, 1398, 6012; title 28 sections 157, 586, 1930; title 29 sections 1341, 1342; title 49 sections 521, 13905.
 
 
 ---

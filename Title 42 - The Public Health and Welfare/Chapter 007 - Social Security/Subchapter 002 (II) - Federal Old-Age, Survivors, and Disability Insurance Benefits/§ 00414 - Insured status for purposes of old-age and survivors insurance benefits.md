@@ -28,7 +28,7 @@ The term “currently insured individual” means any individual who had not les
 
 1960—Subsec. (a). Pub. L. 86–778 changed provisions which required an individual to have one quarter of coverage for each two quarters to provide that an individual is fully insured if he has not less than one quarter of coverage for each three quarters elapsing after Dec. 31, 1950, or, if later, December 31 of the year in which he attained the age of 21 years, and inserted provisions defining fully insured in the case of an individual who died prior to 1951 as one who had six quarters of coverage.
 
-1958—Subsec. (b). Pub. L. 85–840 included within definition of “currently insured individual” an individual entitled to disability insurance benefits who has notless than six quarters of coverage during the thirteen-quarter period ending with the quarter in which he most recently became entitled to disability insurance benefits.
+1958—Subsec. (b). Pub. L. 85–840 included within definition of “currently insured individual” an individual entitled to disability insurance benefits who has not less than six quarters of coverage during the thirteen-quarter period ending with the quarter in which he most recently became entitled to disability insurance benefits.
 
 1956—Subsec. (a)(3). Act Aug. 1, 1956, provided that an individual who had at least six quarters of coverage after 1954 would be fully insured if all but four of the quarters elapsing after 1954 and prior to July 1, 1957, or if later, the quarter in which he attained retirement age or died, whichever first occurred, are quarters of coverage.
 

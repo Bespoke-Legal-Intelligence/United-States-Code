@@ -18,7 +18,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;(7) Adult day care.
 
-&emsp;(8) In the case of an individual with chronic mental illness, day treatment or other partialhospitalization, psychosocial rehabilitation services, and clinic services (whether or not furnished in a facility).
+&emsp;(8) In the case of an individual with chronic mental illness, day treatment or other partial hospitalization, psychosocial rehabilitation services, and clinic services (whether or not furnished in a facility).
 
 &emsp;(9) Such other home and community-based services (other than room and board) as the Secretary may approve.
 
@@ -52,7 +52,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (3) Use of projected income
 
-&emsp;In applying section 1396b(f)(1) of this title in determining the eligibility of an individual (described in section 1396a(a)(10)(C) of this title) for medical assistance for home and community care, a State may, at its option, provide for the determination of the individual's anticipated medical expenses (to be deducted from income) over a period of up to 6 months.
+&emsp;In applying section 1396b(f)(1) of this title in determining the eligibility of an individual\(described in section 1396a(a)(10)(C) of this title) for medical assistance for home and community care, a State may, at its option, provide for the determination of the individual's anticipated medical expenses (to be deducted from income) over a period of up to 6 months.
 
 #### (c) Determinations of functional disability
 
@@ -92,7 +92,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;&emsp;(i) not later than July 1, 1991—
 
-&emsp;&emsp;&emsp;&emsp;(I) specify a minimum data set of core elements and common definitions for usein conducting the assessments required under subparagraph (A); and
+&emsp;&emsp;&emsp;&emsp;(I) specify a minimum data set of core elements and common definitions for use in conducting the assessments required under subparagraph (A); and
 
 &emsp;&emsp;&emsp;&emsp;(II) establish guidelines for use of the data set; and
 
@@ -130,7 +130,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;In this section, the terms “individual community care plan” and “ICCP” mean, with respect to a functionally disabled elderly individual, a written plan which—
 
-&emsp;&emsp;(A) is established, and is periodically reviewed and revised, by a qualified case manager after a face-to-face interview with the individual or primary caregiver and based upon the most recent comprehensive functional assessment of such individual conducted under subsection (c)(2) of this section;
+&emsp;&emsp;(A) is established, and is periodically reviewed and revised, by a qualified case manager after a face-to-face interview with theindividual or primary caregiver and based upon the most recent comprehensive functional assessment of such individual conducted under subsection (c)(2) of this section;
 
 &emsp;&emsp;(B) specifies, within any amount, duration, and scope limitations imposed on home and community care provided under the State plan, the home and community care to be provided to such individual under the plan, and indicates the individual's preferences for the types and providers of services; and
 
@@ -192,7 +192,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (1) Requirements
 
-&emsp;Home and Community <sup>1</sup> care provided under this section must meet such requirements for individuals’ rights and quality as are published or developed by the Secretary under subsection (k) of this section. Such requirements shall include—
+&emsp;Home and Community <sup>1</sup> care provided under this section must meet such requirements for individuals’ rights and quality as are published or developed by the Secretary undersubsection (k) of this section. Such requirements shall include—
 
 &emsp;&emsp;(A) the requirement that individuals providing care are competent to provide such care; and
 
@@ -276,7 +276,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;(A) must disclose persons with an ownership or control interest (including such persons as defined in section 1320a–3(a)(3) of this title) in the setting; and
 
-&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excluded from participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to have failed to meet the requirements of paragraph (2).
+&emsp;&emsp;(B) may not have, as a person with an ownership or control interest in the setting, any individual or person who has been excludedfrom participation in the program under this subchapter or who has had such an ownership or control interest in one or more community care settings which have been found repeatedly to be substandard or to have failed to meet the requirements of paragraph (2).
 
 #### (i) Survey and certification process
 
@@ -308,7 +308,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (A) In general
 
-&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions applyto a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (B) Survey protocol
 
@@ -358,7 +358,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (C) Access to fraud control units
 
-&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (establishedunder section 1396b(q) of this title) with access to all information of the State agency responsible for surveys, reviews, and certifications under this subsection.
+&emsp;&emsp;Each State shall provide its State medicaid fraud and abuse control unit (established under section 1396b(q) of this title) with access to all information of the State agency responsible for surveys, reviews, and certifications under this subsection.
 
 #### (j) Enforcement process for providers of community care
 
@@ -400,7 +400,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;The Secretary shall publish, by December 1, 1991, a proposed regulation that sets forth interim requirements, consistent with subparagraph (B), for the provision of home and community care and for community care settings, including—
 
-&emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) of this section (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) of this section (relating to qualifications for qualified case managers), of subsection (f) of this section (relating to minimum requirements for home and community care), of subsection (g) of this section (relating to minimum requirements for small community care settings), and ofsubsection (h) of this section (relating to minimum requirements for large community care settings), and
+&emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) of this section (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) of this section (relating to qualifications for qualified case managers), of subsection (f) of this section (relating to minimum requirements for home and community care), of subsection (g) of this section (relating to minimum requirements for small community care settings), and of subsection (h) of this section (relating to minimum requirements for large community care settings), and
 
 &emsp;&emsp;&emsp;(ii) survey protocols (for use under subsection (i)(3)(A) of this section) which relate to such requirements.
 
@@ -438,7 +438,7 @@ States may waive the requirement of section 1396a(a)(1) of this title (related t
 
 #### (2) Assurance of entitlement to service
 
-&emsp;A State which receives Federal medical assistance for expenditures for home and community care under this section must provide home and community care specified under the Individual Community Care Plan under subsection (d) of this section to individuals described in subsection (b) of this section for the duration of the election period, without regard to the amount of funds available to the State under paragraph (1). For purposes of this paragraph, an election period is the period of 4 or more calendar quarters elected by the State, and approved by the Secretary, for the provision of home and community care under this section.
+&emsp;A State which receives Federal medical assistance for expenditures for home and community care under this section must provide home and community care specified under the Individual Community Care Plan under subsection (d) of this section to individuals described in subsection (b) of this section for the duration of the election period, without regardto the amount of funds available to the State under paragraph (1). For purposes of this paragraph, an election period is the period of 4 or more calendar quarters elected by the State, and approved by the Secretary, for the provision of home and community care under this section.
 
 #### (3) Limitation on eligibility
 

@@ -29,6 +29,10 @@ It was felt that further revision of this chapter should be considered at an opp
 
 1949—Act May 24, 1949, ch. 139, §36, 63 Stat. 95, substituted a semicolon for comma after “Peonage” in item 1581.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 42 section 14135a.
+
 
 ---
 

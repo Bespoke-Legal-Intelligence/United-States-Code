@@ -20,7 +20,7 @@ Establishment; Membership.—There is established the Railroad-Shipper Transport
 
 &emsp;(4) The Secretary of Transportation and the members of the Board shall serve as ex officio, nonvoting members of the Council. The Council shall not be subject to the Federal Advisory Committee Act. A list of the members appointed to the Council shall be forwarded to the Chairmen and ranking members of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-&emsp;(5) Each ex officio member of the Council may designate an alternate, who shall serve as a member of the Council whenever the ex officio member is unable to attend a meeting of the Council. Any such designated alternate shall be selected from individuals who exercise significant decision-making authority in the Federal agency involved.
+&emsp;(5) Each ex officio member of the Council may designate an alternate, who shall serve as a member of the Council whenever the ex officio member is unable to attend a meeting of the Council. Any such designated alternate shall be selected from individuals who exercisesignificant decision-making authority in the Federal agency involved.
 
 (b)
 
@@ -60,7 +60,7 @@ Meetings.—The Council shall meet at least semi-annually and shall hold other m
 
 (f)
 
-Functions and Duties; Annual Report.—(1) The Council shall advise the Secretary, the Chairman, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives with respect to rail transportation policy issues itconsiders significant, with particular attention to issues of importance to small shippers and small railroads, including car supply, rates, competition, and effective procedures for addressing legitimate shipper and other claims.
+Functions and Duties; Annual Report.—(1) The Council shall advise the Secretary, the Chairman, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives with respect to rail transportation policy issues it considers significant, with particular attention to issues of importance to small shippers and small railroads, including car supply, rates, competition, and effective procedures for addressing legitimate shipper and other claims.
 
 (2) To the extent the Council addresses specific grain car issues, it shall coordinate such activities with the National Grain Car Council. The Secretary and Chairman shall cooperate with the Council to provide research, technical and other reasonable support in developing any reports and policy statements required or authorized by this subsection.
 

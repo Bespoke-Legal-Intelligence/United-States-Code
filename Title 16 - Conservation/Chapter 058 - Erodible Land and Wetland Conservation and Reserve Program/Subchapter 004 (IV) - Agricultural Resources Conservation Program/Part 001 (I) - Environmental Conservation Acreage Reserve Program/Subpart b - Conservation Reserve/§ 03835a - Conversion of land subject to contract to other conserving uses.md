@@ -14,7 +14,7 @@
 
 #### (B) Cost share assistance
 
-&emsp;&emsp;The Secretary shall pay 50 percent of the cost of establishing conservation measures and practices authorized under this subsection for which the Secretary determines the cost sharing is appropriate and in the public interest.
+&emsp;&emsp;The Secretary shall pay 50 percent of the cost of establishing conservation measuresand practices authorized under this subsection for which the Secretary determines the cost sharing is appropriate and in the public interest.
 
 #### (b) Conversion to wetlands
 

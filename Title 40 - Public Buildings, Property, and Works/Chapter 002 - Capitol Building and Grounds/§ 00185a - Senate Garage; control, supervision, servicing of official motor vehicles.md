@@ -32,7 +32,7 @@ Section 1(a)(2), (3) of Pub. L. 96–444 provided that:
 
 Section 2 of Pub. L. 96–444 provided that:
 
-“(a) Effective October 1, 1980, the Sergeant at Arms and Doorkeeper of the Senate is authorized to appoint and fix the compensation of four garage attendants at not to exceed $14,100 per annum each.
+“(a) Effective October 1, 1980, the Sergeant at Arms and Doorkeeper of the Senate is authorized to appointand fix the compensation of four garage attendants at not to exceed $14,100 per annum each.
 
 “(b) If, and to the extent that, positions established by subsection (a) are first filled by individuals transferred under subsection (a)(1) of the first section \[amending subsec. (a) of this section\], the Sergeant at Arms and Doorkeeper of the Senate is authorized to fix, in lieu of the compensation prescribed in subsection (a), the compensation—
 

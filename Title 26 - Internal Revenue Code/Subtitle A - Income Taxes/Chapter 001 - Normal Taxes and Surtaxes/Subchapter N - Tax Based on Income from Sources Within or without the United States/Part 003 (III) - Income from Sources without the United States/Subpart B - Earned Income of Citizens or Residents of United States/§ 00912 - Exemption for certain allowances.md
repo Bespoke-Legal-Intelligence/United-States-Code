@@ -40,7 +40,7 @@ Title II of the Overseas Differentials and Allowances Act, referred to in pars. 
 
 Sections 1(e) and (f) and 22 of the Administrative Expenses Act of 1946, referred to in par. (1)(D), were repealed and the provisions thereof reenacted as sections 5726(b), 5727(b) to (e), and 5913 of Title 5, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) ofTitle 22, Foreign Relations and Intercourse. Sections 5 and 6 of that act are classified to sections 2504 and 2505 of Title 22. For complete classification of this act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of that act are classified to sections 2504 and 2505 of Title 22. For complete classification of this act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
 

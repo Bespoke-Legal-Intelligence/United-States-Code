@@ -10,7 +10,7 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 &emsp;&emsp;(A) in excess of $200,000,000 (as adjusted and published for each fiscal year beginning after September 30, 2004, in the same manner as provided in section 19(a)(5) of this title to reflect the percentage change in the gross national product for such fiscal year compared to the gross national product for the year ending September 30, 2003); or
 
-&emsp;&emsp;(B)(i) in excess of $50,000,000 (as so adjusted and published) but not in excess of$200,000,000 (as so adjusted and published); and
+&emsp;&emsp;(B)(i) in excess of $50,000,000 (as so adjusted and published) but not in excess of $200,000,000 (as so adjusted and published); and
 
 &emsp;&emsp;(ii)(I) any voting securities or assets of a person engaged in manufacturing which has annual net sales or total assets of $10,000,000 (as so adjusted and published) or more are being acquired by any person which has total assets or annual net sales of $100,000,000 (as so adjusted and published) or more;
 
@@ -18,7 +18,7 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 &emsp;&emsp;(III) any voting securities or assets of a person with annual net sales or total assets of $100,000,000 (as so adjusted and published) or more are being acquired by any person with total assets or annual net sales of $10,000,000 (as so adjusted and published) or more.
 
-> In the case of a tender offer, the person whose voting securities are sought to be acquired by a person required to file notification under this subsection shall file notification pursuant to rules under subsection (d) of this section.
+> In the case of a tender offer, the person whose voting securities are sought to be acquired by aperson required to file notification under this subsection shall file notification pursuant to rules under subsection (d) of this section.
 
 #### (b) Waiting period; publication; voting securities
 
@@ -72,7 +72,7 @@ The following classes of transactions are exempt from the requirements of this s
 
 #### (d) Commission rules
 
-The Federal Trade Commission, with the concurrence of the Assistant Attorney General andby rule in accordance with section 553 of title 5, consistent with the purposes of this section—
+The Federal Trade Commission, with the concurrence of the Assistant Attorney General and by rule in accordance with section 553 of title 5, consistent with the purposes of this section—
 
 &emsp;(1) shall require that the notification required under subsection (a) of this section be in such form and contain such documentary material and information relevant to a proposed acquisition as is necessary and appropriate to enable the Federal Trade Commission and the Assistant Attorney General to determine whether such acquisition may, if consummated, violate the antitrust laws; and
 
@@ -86,7 +86,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 #### (e) Additional information; waiting period extensions
 
-(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to the expiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to the proposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
+(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to theexpiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to the proposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
 
 (B)(i) The Assistant Attorney General and the Federal Trade Commission shall each designate a senior official who does not have direct responsibility for the review of any enforcement recommendation under this section concerning the transaction at issue, to hear any petition filed by such person to determine—
 

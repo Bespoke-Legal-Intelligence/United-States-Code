@@ -8,6 +8,10 @@ Subject to valid existing rights, the Secretary shall administer the lands, wate
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
+#### Environmental Impact Statement on Effects of 1996 Increases in Vessel Entries for Glacier Bay National Park and Preserve
+
+Pub. L. 107–63, title I, §130, Nov. 5, 2001, 115 Stat. 442, provided that: “From within funds available to the National Park Service, such sums as may be necessary shall be used for expenses necessary to complete and issue, no later than January 1, 2004, an Environmental Impact Statement (EIS) to identify and analyze the possible effects of the 1996 increases in the number of vessel entries issued for Glacier Bay National Park and Preserve: <i>Provided</i>, That such EIS, upon its completion, shall be used by the Secretary to set the maximum level of vessel entries: <i>Provided further</i>, That until the Secretary sets the level of vessel entries based on the new EIS, the number of vessel entries into the Park shall be the same as that in effect during the 2000 calendar year and the National Park Service approval of modified Alternative 5 and promulgation of the final rule issued on May 30, 1996, relating to vessel entries, including the number of such entries, for Glacier Bay National Park and Preserve are hereby approved and shall be in effect notwithstanding any other provision of law until the Secretary sets the maximum level of vessel entries consistent with this section: <i>Provided further</i>, That nothing in this section shall preclude the Secretary from suspending or revoking any vessel entry if the Secretary determines that it is necessary to protect Park resources.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 460<i>l</i>–6a of this title.

@@ -34,7 +34,7 @@ Section 1321 of Pub. L. 102–484 provided that:
 
 Findings.—The Congress makes the following findings:
 
-&emsp;“(1) On February 1, 1992, the President of the United States and the President of the Russian Federation agreed in a Joint Statement that ‘Russia and the United States do not regard each other as potential adversaries’ and stated further that, ‘We will work to remove any remnants of cold war hostility, including taking steps to reduce our strategic arsenals’.
+&emsp;“(1) On February 1, 1992, the President of the United States and the President of the Russian Federation agreed in a Joint Statement that ‘Russia and the United States do not regard each other as potentialadversaries’ and stated further that, ‘We will work to remove any remnants of cold war hostility, including taking steps to reduce our strategic arsenals’.
 
 &emsp;“(2) In the Treaty on the Non-Proliferation of Nuclear Weapons, in exchange for the non-nuclear-weapon states agreeing not to seek a nuclear weapons capability nor to assist other non-nuclear-weapon states in doing so, the United States agreed to seek the complete elimination of all nuclear weapons worldwide, as declared in the preamble to the Treaty, which states that it is a goal of the parties to the Treaty to ‘facilitate the cessation of the manufacture of nuclear weapons, the liquidation of all their existing stockpiles, and the elimination from national arsenals of nuclear weapons and the means of their delivery’ as well as in Article VI of the Treaty, which states that ‘each of the parties to the Treaty undertakes to pursue negotiations in good faith on effective measures relating to the cessation of the nuclear arms race at an early date and to nuclear disarmament’.
 

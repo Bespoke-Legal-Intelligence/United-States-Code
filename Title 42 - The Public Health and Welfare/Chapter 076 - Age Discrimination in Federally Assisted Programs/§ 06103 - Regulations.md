@@ -30,7 +30,7 @@
 
 #### (c) Employment practices and labor-management joint apprenticeship training program exemptions; Age Discrimination in Employment Act unaffected
 
-(1) Nothing in this chapter shall be construed to authorize action under this chapter by anyFederal department or agency with respect to any employment practice of any employer, employment agency, or labor organization, or with respect to any labor-management joint apprenticeship training program.
+(1) Nothing in this chapter shall be construed to authorize action under this chapter by any Federal department or agency with respect to any employment practice of any employer, employment agency, or labor organization, or with respect to any labor-management joint apprenticeship training program.
 
 (2) Nothing in this chapter shall be construed to amend or modify the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, or to affect the rights or responsibilities of any person or party pursuant to such Act.
 
@@ -42,7 +42,7 @@ The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amend
 
 #### Codification
 
-In subsec. (c)(1), “Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]” substituted for “Comprehensive Employment and Training Act of 1974 (29 U.S.C. 801 et seq.), as amended” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592 of Title 29, Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
+In subsec. (c)(1), “Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]” substituted for “Comprehensive Employment and Training Act of 1974 (29 U.S.C. 801 etseq.), as amended” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592 of Title 29, Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
 
 #### Amendments
 

@@ -80,7 +80,7 @@ Transfer.—All right, title, and interest in and to the lands described in subs
 
 “(b)
 
-Lands Described.—The lands referred to in subsection (a) are those portions of Townships 7 North and 8 North, Ranges 5 East and 6 East, Humboldt Meridian, California, within a boundary beginning at a point on the current south boundary of the Hoopa Valley Indian Reservation, marked and identified as ‘Post H.V.R. No. 8’ on the Plat of the Hoopa Valley Indian Reservation prepared from a field survey conducted by C.T. Bissel, Augustus T. Smith, and C.A. Robinson, Deputy Surveyors, approved by the Surveyor General, H. Pratt, March 18, 1892, and extending from said point on a bearing of north 73 degrees 50 minutes east, until intersecting with a line beginning at a point marked as ‘Post H.V.R. No. 3’ on such survey and extending on a bearing of south 14 degrees 36 minutes east, comprising 2,641 acres more or less.
+Lands Described.—The lands referred to in subsection (a) are those portions of Townships 7 North and 8 North, Ranges 5 East and 6 East, Humboldt Meridian, California, within a boundary beginning at a point on the current south boundary of the Hoopa Valley Indian Reservation, marked and identified as ‘Post H.V.R. No. 8’ on the Plat of the Hoopa Valley Indian Reservation prepared from a field survey conducted by C.T. Bissel, Augustus T. Smith, and C.A. Robinson, Deputy Surveyors, approved by the Surveyor General, H. Pratt, March18, 1892, and extending from said point on a bearing of north 73 degrees 50 minutes east, until intersecting with a line beginning at a point marked as ‘Post H.V.R. No. 3’ on such survey and extending on a bearing of south 14 degrees 36 minutes east, comprising 2,641 acres more or less.
 
 “(c)
 

@@ -6,7 +6,7 @@ The State shall submit to the Secretary a program within three months of Decembe
 
 &emsp;(2) set aside specific allocations of funds for each gear type to achieve the specific fleet reductions provided for in the program;
 
-&emsp;(3) obtain an effective and expeditious reduction in the overall fishing capacity of and the number of vessels and licenses in the non-Indian commercial and charter salmon fishing fleets in the Washington conservation area; and
+&emsp;(3) obtain an effective and expeditious reduction in the overall fishing capacity of and thenumber of vessels and licenses in the non-Indian commercial and charter salmon fishing fleets in the Washington conservation area; and
 
 &emsp;(4) provide State funding for 25 per centum of the total cost of the program.
 

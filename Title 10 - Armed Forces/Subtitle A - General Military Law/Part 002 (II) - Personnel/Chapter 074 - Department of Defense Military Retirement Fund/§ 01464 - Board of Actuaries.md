@@ -20,7 +20,7 @@
 
 #### Effective Date
 
-Section 925(b)(1) of Pub. L. 98–94 provided that: “Section 1464 (relating to the Board of Actuaries) of title 10,United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
+Section 925(b)(1) of Pub. L. 98–94 provided that: “Section 1464 (relating to the Board of Actuaries) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

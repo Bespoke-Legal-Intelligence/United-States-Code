@@ -2,7 +2,7 @@
 
 For purposes of section 60e–1c of this title—
 
-&emsp;(1) the term “charitable organizations” means national voluntary health and welfare agencies designated by the Director of the Office of Personnel Management pursuant to Executive Order 10927, dated March 19, 1961; and
+&emsp;(1) the term “charitable organizations” means national voluntary health and welfareagencies designated by the Director of the Office of Personnel Management pursuant to Executive Order 10927, dated March 19, 1961; and
 
 &emsp;(2) the term “employee” means any employee of the House of Representatives whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives.
 

@@ -32,7 +32,7 @@ A creditor may not unilaterally terminate any account under an open end consumer
 
 &emsp;&emsp;(C) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which the creditor has reason to believe that the consumer will be unable to comply with the repayment requirements of the account due to a material change in the consumer's financial circumstances.
 
-&emsp;&emsp;(D) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which the consumer is in default with respect to any material obligation of the consumer under the agreement.
+&emsp;&emsp;(D) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which the consumer is in default with respect to anymaterial obligation of the consumer under the agreement.
 
 &emsp;&emsp;(E) Prohibit additional extensions of credit or reduce the credit limit applicable to the account during any period in which—
 

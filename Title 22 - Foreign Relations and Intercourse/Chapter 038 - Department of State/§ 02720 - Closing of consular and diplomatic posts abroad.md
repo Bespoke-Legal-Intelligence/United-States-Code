@@ -14,7 +14,7 @@ Not less than 45 days before the closing of any United States consular or diplom
 
 #### (c) Reprogramming treatment
 
-Amounts made available to pay any expense related to the closing of a consular or diplomatic post abroad shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation orexpenditure except in compliance with the procedures applicable to such reprogramming.
+Amounts made available to pay any expense related to the closing of a consular or diplomatic post abroad shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.
 
 #### (d) Exceptions
 

@@ -18,7 +18,7 @@ For purposes of applying any exemption from, or reduction of, any tax provided b
 
 #### (1) Application to certain payments
 
-&emsp;A foreign person shall not be entitled under any income tax treaty of the United States with a foreign country to any reduced rate of any withholding tax imposed by this title on an item of income derived through an entity which is treated as a partnership (or is otherwise treated as fiscally transparent) for purposes of this title if—
+&emsp;A foreign person shall not be entitled under any income tax treaty of the United States with a foreign country to any reduced rate of any withholding tax imposed by this title on an item of income derived through an entitywhich is treated as a partnership (or is otherwise treated as fiscally transparent) for purposes of this title if—
 
 &emsp;&emsp;(A) such item is not treated for purposes of the taxation laws of such foreign country as an item of income of such person,
 

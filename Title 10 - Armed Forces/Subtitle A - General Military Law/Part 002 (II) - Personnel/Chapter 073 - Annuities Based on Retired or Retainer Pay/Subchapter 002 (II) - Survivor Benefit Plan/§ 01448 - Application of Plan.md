@@ -22,7 +22,7 @@ Standard annuity participants.—A person who is eligible to participate in the 
 
 &emsp;&emsp;(B)
 
-Reserve-component annuity participants.—A person who (i) is eligible to participate in the Plan under paragraph (1)(B), and (ii) is married or has a dependent child when he is notified under section 12731(d) ofthis title that he has completed the years of service required for eligibility for reserve-component retired pay, unless the person elects (with his spouse's concurrence, if required under paragraph (3)) not to participate in the Plan before the end of the 90-day period beginning on the date on which he receives that notification.
+Reserve-component annuity participants.—A person who (i) is eligible to participate in the Plan under paragraph (1)(B), and (ii) is married or has a dependent child when he is notified under section 12731(d) of this title that he has completed the years of service required for eligibility for reserve-component retired pay, unless the person elects (with his spouse's concurrence, if required under paragraph (3)) not to participate in the Plan before the end of the 90-day period beginning on the date on which he receives that notification.
 
 > &emsp;A person who elects under subparagraph (B) not to participate in the Plan remains eligible, upon reaching 60 years of age and otherwise becoming entitled to retired pay, to participate in the Plan in accordance with eligibility under paragraph (1)(A).
 
@@ -246,7 +246,7 @@ Effective date of election.—An election under this paragraph is effective as o
 
 &emsp;&emsp;&emsp;(i) the first day of the first month following the month in which the election is received by the Secretary concerned; or
 
-&emsp;&emsp;&emsp;(ii) in the case of a person required (as described in section 1450(f)(3)(B) of thistitle) to make the election by reason of a court order or filing the date of which is after October 16, 1998, the first day of the first month which begins after the date of that court order or filing.
+&emsp;&emsp;&emsp;(ii) in the case of a person required (as described in section 1450(f)(3)(B) of this title) to make the election by reason of a court order or filing the date of which is after October 16, 1998, the first day of the first month which begins after the date of that court order or filing.
 
 &emsp;(4)
 
@@ -266,17 +266,21 @@ Persons on Temporary Disability Retired List.—The application of the Plan to a
 
 (d)
 
-Coverage for Survivors of Retirement-Eligible Members Who Die on Active Duty.—
+Coverage for Survivors of Members Who Die on Active Duty.—
 
 &emsp;(1)
 
-Surviving spouse annuity.—The Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of a member who dies on active duty after—
+Surviving spouse annuity.—The Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of—
 
-&emsp;&emsp;(A) becoming eligible to receive retired pay;
+&emsp;&emsp;(A) a member who dies while on active duty after—
 
-&emsp;&emsp;(B) qualifying for retired pay except that he has not applied for or been granted that pay; or
+&emsp;&emsp;&emsp;(i) becoming eligible to receive retired pay;
 
-&emsp;&emsp;(C) completing 20 years of active service but before he is eligible to retire as a commissioned officer because he has not completed 10 years of active commissioned service.
+&emsp;&emsp;&emsp;(ii) qualifying for retired pay except that the member has not applied for or been granted that pay; or
+
+&emsp;&emsp;&emsp;(iii) completing 20 years of active service but before the member is eligible to retire as a commissioned officer because the member has not completed 10 years of active commissioned service; or
+
+&emsp;&emsp;(B) a member not described in subparagraph (A) who dies in line of duty while on active duty.
 
 &emsp;(2)
 
@@ -328,7 +332,7 @@ Mandatory former spouse annuity.—If a person described in paragraph (1) is req
 
 &emsp;&emsp;(A) may not pay an annuity under paragraph (1) or (2); but
 
-&emsp;&emsp;(B) shall pay an annuity to that former spouse as if the person had been a participant in the Plan and had made an election under subsection (b) to provide an annuity to the former spouse, or in accordance withthat election, as the case may be, if the Secretary receives a written request from the former spouse concerned that the election be deemed to have been made in the same manner as provided in section 1450(f)(3) of this title.
+&emsp;&emsp;(B) shall pay an annuity to that former spouse as if the person had been a participant in the Plan and had made an election under subsection (b) to provide an annuity to the former spouse, or in accordance with that election, as the case may be, if the Secretary receives a written request from the former spouse concerned that the election be deemed to have been made in the same manner as provided in section 1450(f)(3) of this title.
 
 &emsp;(4)
 
@@ -368,9 +372,21 @@ Manner of making election.—An election under paragraph (1) shall be made in su
 
 Disposition of payments.—A payment received under this subsection by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other payment received under this subsection shall be deposited in the Treasury as miscellaneous receipts.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 707; amended Pub. L. 94–496, §1(2), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §202, Sept. 30, 1978, 92 Stat. 844; Pub. L. 97–252, title X, §1003(b), Sept. 8, 1982, 96 Stat. 735; Pub. L. 97–295, §1(18), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title IX, §941(a)(1), (2), (c)(2), Sept. 24, 1983, 97 Stat. 652, 653; Pub. L. 99–145, title V, §513(b), title VII, §§712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, 99 Stat. 628, 670, 671, 673–676; Pub. L. 99–661, div. A, title VI, §§641(b)(1), 642(a), title XIII, §1343(a)(8)(B), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 101–189, div. A, title XIV, §1407(a)(2), (3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 103–337, div. A, title VI, §638, title XVI, §1671(d)(2), Oct. 5, 1994, 108 Stat. 2791, 3015; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2553; Pub. L. 105–85, div. A, title X, §1073(a)(27), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §643(a), Oct. 17, 1998, 112 Stat. 2047; Pub. L. 106–65, div. A, title X, §1066(a)(12), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)–(c)(3), title X, §1087(a)(10)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, 1654A–166, 1654A–290.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 707; amended Pub. L. 94–496, §1(2), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §202, Sept. 30, 1978, 92 Stat. 844; Pub. L. 97–252, title X, §1003(b), Sept. 8, 1982, 96 Stat. 735; Pub. L. 97–295, §1(18), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title IX, §941(a)(1), (2), (c)(2), Sept. 24, 1983, 97 Stat. 652, 653; Pub. L. 99–145, title V, §513(b), title VII, §§712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, 99 Stat. 628, 670, 671, 673–676; Pub. L. 99–661, div. A, title VI, §§641(b)(1), 642(a), title XIII, §1343(a)(8)(B), Nov. 14, 1986, 100 Stat. 3885, 3886, 3992; Pub. L. 101–189, div. A, title XIV, §1407(a)(2), (3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 103–337, div. A, title VI, §638, title XVI, §1671(d)(2), Oct. 5, 1994, 108 Stat. 2791, 3015; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2553; Pub. L. 105–85, div. A, title X, §1073(a)(27), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §643(a), Oct. 17, 1998, 112 Stat. 2047; Pub. L. 106–65, div. A, title X, §1066(a)(12), Oct. 5, 1999, 113 Stat. 771; Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(a)–(c)(3), title X, §1087(a)(10)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, 1654A–166, 1654A–290; Pub. L. 107–107, div. A, title VI, §642(a), (c)(1), Dec. 28, 2001, 115 Stat. 1151, 1152.)
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–107 struck out “Retirement-Eligible” before “Members” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+
+“(1)
+
+Surviving spouse annuity.—The Secretary concerned shall pay an annuity under this subchapter to the surviving spouse of a member who dies on active duty after—
+
+&emsp;“(A) becoming eligible to receive retired pay;
+
+&emsp;“(B) qualifying for retired pay except that he has not applied for or been granted that pay; or
+
+&emsp;“(C) completing 20 years of active service but before he is eligible to retire as a commissioned officer because he has not completed 10 years of active commissioned service.”
 
 2000—Subsec. (a)(2). Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(c)(1)\], substituted “who elects under subparagraph (B) not to participate in the Plan” for “described in clauses (i) and (ii) of subparagraph (B) who does not elect to participate in the Plan before the end of the 90-day period referred to in that clause” in concluding provisions.
 
@@ -480,13 +496,17 @@ Subsec. (e). Pub. L. 95–397, §202(c), added subsec. (e).
 
 1976—Subsec. (a). Pub. L. 94–496 inserted “or elects to provide an annuity for a dependent child but not for his spouse” after “maximum level”.
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VI, §642(d), Dec. 28, 2001, 115 Stat. 1152, provided that: “The amendments made by this section \[amending this section and section 1451 of this title\] shall take effect as of September 10, 2001, and shall apply with respect to deaths of members of the Armed Forces occurring on or after that date.”
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §655(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–166, provided that: “The amendments made by this section \[amending this section and section 1450 of this title\] apply only with respect to a notification under section 12731(d) of title 10, United States Code, made after January 1, 2001, that a member of a reserve component has completed the years of service required for eligibility for reserve-component retired pay.”
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 1671(d)(2) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, seesection 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by section 1671(d)(2) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -580,7 +600,7 @@ Effect of Death of Person Making Election Within Two Years of Making Election.�
 
 “(f)
 
-Applicability of Certain Provisions of Law.—The provisions of sections 1449, 1453, and 1454 of title 10, United States Code, are applicable to a person making an election, and to an election, under this section inthe same manner as if the election were made under the Survivor Benefit Plan or the Supplemental Survivor Benefit Plan, as the case may be.
+Applicability of Certain Provisions of Law.—The provisions of sections 1449, 1453, and 1454 of title 10, United States Code, are applicable to a person making an election, and to an election, under this section in the same manner as if the election were made under the Survivor Benefit Plan or the Supplemental Survivor Benefit Plan, as the case may be.
 
 “(g)
 
@@ -690,7 +710,7 @@ Election of sbp coverage.—An eligible retired or former member may elect to pa
 
 &emsp;“(2)
 
-Election of supplemental annuity coverage.—An eligible retired or former member whoelects under paragraph (1) to participate in the Survivor Benefit Plan at the maximum level may also elect during the open enrollment period to participate in the Supplemental Survivor Benefit Plan established under subchapter III of chapter 73 of title 10, United States Code, as added by section 1404.
+Election of supplemental annuity coverage.—An eligible retired or former member who elects under paragraph (1) to participate in the Survivor Benefit Plan at the maximum level may also elect during the open enrollment period to participate in the Supplemental Survivor Benefit Plan established under subchapter III of chapter 73 of title 10, United States Code, as added by section 1404.
 
 &emsp;“(3)
 
@@ -752,7 +772,7 @@ Open Enrollment Period Defined.—The open enrollment period is the one-year per
 
 Effect of Death of Person Making Election Within Two Years of Making Election.—(1) If a person making an election under this section dies before the end of the two-year period beginning on the effective date of the election, the election is void and the amount of any reduction in retired pay of the person that is attributable to the election shall be paid in a lump sum to the person who would have been the deceased person's beneficiary under the voided election if the deceased person had died after the end of such two-year period.
 
-“(2) Paragraph (1) does not apply in the case of the death of a person making an election under subsection (a) if the beneficiary of that person under the election is the person's spouse and that spouse was entitled, before November 1, 1990, to receive dependency and indemnity compensation benefits from the Department of Veterans Affairs based on a previous marriage to another member or former member of the uniformed services.
+“(2) Paragraph (1) does not apply in the case of the death of a person making an election under subsection (a) if the beneficiary of that person under the electionis the person's spouse and that spouse was entitled, before November 1, 1990, to receive dependency and indemnity compensation benefits from the Department of Veterans Affairs based on a previous marriage to another member or former member of the uniformed services.
 
 “(h)
 
@@ -844,7 +864,7 @@ Authority To Withdraw.—(1) An individual who is a participant in the Survivor 
 
 “(b)
 
-Applicable Provisions.—An election under subsection (a) shall be subject to subparagraphs (B) and (D) \[see (E)\] of section 1448(a)(6) of title 10, United States Code, except that in applying such subparagraph (B) to subsection (a), the one-year period referred to in clause (ii) of such subparagraph shall extend until the end of the one-year period beginning 90 days after the date of the enactment of this Act \[Dec. 4, 1987\].
+Applicable Provisions.—An election under subsection (a) shall be subject to subparagraphs (B) and (D) \[see (E)\] of section 1448(a)(6) of title 10, United States Code, except that in applying such subparagraph (B) to subsection (a), the one-year period referred to in clause\(ii) of such subparagraph shall extend until the end of the one-year period beginning 90 days after the date of the enactment of this Act \[Dec. 4, 1987\].
 
 “(c)
 
@@ -902,7 +922,7 @@ Pub. L. 96–402, §5, Oct. 9, 1980, 94 Stat. 1707, provided that:
 
 “(2) In addition to any reduction required under the provisions of subchapter II of chapter 73 of title 10, United States Code, the annuity paid to any surviving spouse under this section shall be reduced by any amount such surviving spouse is entitled to receive as an annuity under subchapter I of such chapter.
 
-“(c) If an individual entitled to an annuity under this section is also entitled to an annuity under subchapter II of chapter 73 of title 10, United States Code, based upon a subsequent marriage, the individual may not receive both annuities but must elect which to receive.
+“(c) If an individual entitled to an annuity under this section is also entitled to an annuity under subchapter II of chapter 73 of title 10, United States Code, basedupon a subsequent marriage, the individual may not receive both annuities but must elect which to receive.
 
 “(d) As used in this section:
 
@@ -924,7 +944,7 @@ Section 3 of Pub. L. 92–425, as amended by Pub. L. 93–155, title VIII, §804
 
 &emsp;“(2) to participate in that Plan, if he is a person covered by section 1448(b) of title 10, United States Code.
 
-“(b) Any person who is entitled to retired or retainer pay on the effective date of this Act \[Sept. 21, 1972\] may elect to participate in the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\] at any time within eighteenmonths after such date. However, such a person who is receiving retired or retainer pay reduced under section 1436(a) of title 10, United States Code, or who is depositing amounts under section 1438 of that title, may elect at any time within eighteen months after the effective date of this Act \[Sept. 21, 1972\]—
+“(b) Any person who is entitled to retired or retainer pay on the effective date of this Act \[Sept. 21, 1972\] may elect to participate in the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\] at any time within eighteen months after such date. However, such a person who is receiving retired or retainer pay reduced under section 1436(a) of title 10, United States Code, or who is depositing amounts under section 1438 of that title, may elect at any time within eighteen months after the effective date of this Act \[Sept. 21, 1972\]—
 
 &emsp;“(1) to participate in the Plan and continue his participation under chapter 73 of that title \[this chapter\] as in effect on the day before the effective date of this Act \[Sept. 21, 1972\], except that the total of the annuities elected may not exceed 100 percent of his retired or retainer pay; or
 
@@ -972,7 +992,7 @@ Section 4 of Pub. L. 92–425, as amended by Pub. L. 94–496, §2, Oct. 14, 197
 
 “(e)(1) Payment of annuities under this section shall be made by the Secretary of Veterans Affairs. In making such payments, the Secretary shall combine with the payment under this section payment of any amount due the same person under section 653(d) of the National Defense Authorization Act, Fiscal Year 1989 \[Pub. L. 100–456\] (10 U.S.C. 1448 note). If appropriate for administrative convenience (or otherwise determined appropriate by the Secretary of Veterans Affairs), that Secretary may combine a payment to any person for any month under this section (and, if applicable, under section 653(d) of the National Defense Authorization Act, Fiscal Year 1989) with any other payment for that month under laws administered by the Secretary so as to provide that person with a single payment for that month.
 
-“(2) The Secretary concerned shall annually transfer to the Secretary of Veterans Affairs such amounts as may be necessary for payments by the Secretary of Veterans Affairs under this section and for costs of the Secretary of Veterans Affairs in administering this section. Such transfers shall be made from amounts thatwould otherwise be used for payment of annuities by the Secretary concerned under this section. The authority to make such a transfer is in addition to any other authority of the Secretary concerned to transfer funds for a purpose other than the purpose for which the funds were originally made available. In the case of a transfer by the Secretary of a military department, the provisions of section 2215 of title 10, United States Code, do not apply.
+“(2) The Secretary concerned shall annually transfer to the Secretary of Veterans Affairs such amounts as may be necessary for payments by the Secretary of Veterans Affairs under this section and for costs of the Secretary of Veterans Affairs in administering this section. Such transfers shall be made from amounts that would otherwise be used for payment of annuities by the Secretary concerned under this section. The authority to make such a transfer is in addition to any other authority of the Secretary concerned to transfer funds for a purpose other than the purpose for which the funds were originally made available. In the case of a transfer by the Secretary of a military department, the provisions of section 2215 of title 10, United States Code, do not apply.
 
 “(3) The Secretary concerned shall promptly notify the Secretary of Veterans Affairs of any change in beneficiaries under this section.”
 

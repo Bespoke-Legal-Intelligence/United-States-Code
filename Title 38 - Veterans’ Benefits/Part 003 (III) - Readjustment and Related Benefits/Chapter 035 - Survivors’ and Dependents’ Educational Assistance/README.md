@@ -109,7 +109,7 @@ Pub. L. 89–358, §3(a)(10), Mar. 3, 1966, 80 Stat. 21, struck out items 1726, 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 103, 104, 111, 113, 1718, 1804, 3033, 3485, 3670, 3671, 3672, 3673, 3674, 3680, 3680A, 3681, 3682, 3683, 3684, 3685, 3687, 3688, 3689, 3690, 3692, 3693, 3694, 3695, 3696, 3697, 4213, 5113 of this title; title 2 section 905; title 5 sections 5569, 8525; title 10 sections 2182, 2185; title 20 section 1087vv; title 26 sections 25A, 135, 6334.
+This chapter is referred to in sections 101, 103, 104, 111, 113, 1718, 1804, 3033, 3485, 3670, 3671, 3672, 3673, 3674, 3680, 3680A, 3681, 3682, 3683, 3684, 3685, 3687, 3688, 3689, 3690, 3692, 3693, 3694, 3695, 3696, 3697, 4213, 5113, 5313B of this title; title 2 section 905; title 5 sections 5569, 8525; title 10 sections 2182, 2185; title 20 section 1087vv; title 26 sections 25A, 135, 6334.
 
 
 ---

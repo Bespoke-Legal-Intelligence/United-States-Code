@@ -1,6 +1,6 @@
 ### §1921. Receiving Federal employees’ compensation after marriage
 
-Whoever, being entitled to compensation under sections 8107–8113 and 8133 of title 5 and whose compensation by the terms of those sections stops or is reduced on his marriage or on the marriage of his dependent, accepts after such marriage any compensation or payment to which he is not entitled shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being entitled to compensation under sections 8107–8113 and 8133 of title 5 andwhose compensation by the terms of those sections stops or is reduced on his marriage or on the marriage of his dependent, accepts after such marriage any compensation or payment to which he is not entitled shall be fined under this title or imprisoned not more than one year, or both.
 
 (Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 610; amended Pub. L. 103–322, title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 

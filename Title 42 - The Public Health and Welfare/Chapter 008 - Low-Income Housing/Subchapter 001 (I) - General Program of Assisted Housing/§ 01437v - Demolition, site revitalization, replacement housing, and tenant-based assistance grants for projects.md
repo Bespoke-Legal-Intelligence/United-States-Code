@@ -22,7 +22,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 &emsp;The Secretary may not make any grant under this section to any applicant unless the applicant certifies to the Secretary that the applicant will—
 
-&emsp;&emsp;(A) supplement the aggregate amount of assistance provided under this section with an amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
+&emsp;&emsp;(A) supplement the aggregate amount of assistance provided under this section withan amount of funds from sources other than this section equal to not less than 5 percent of the amount provided under this section; and
 
 &emsp;&emsp;(B) in addition to supplemental amounts provided in accordance with subparagraph (A), if the applicant uses more than 5 percent of the amount of assistance provided under this section for services under subsection (d)(1)(L) of this section, provide supplemental funds from sources other than this section in an amount equal to the amount so used in excess of 5 percent.
 
@@ -158,7 +158,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(v) in the case of individual buildings, is, in the Secretary's determination, sufficiently separable from the remainder of the project of which the building is part to make use of the building feasible for purposes of this section; or
 
-&emsp;&emsp;(B) that was a project described in subparagraph (A) that has been legally vacated or demolished, but for which the Secretary has not yet provided replacement housing assistance (other than tenant-based assistance).
+&emsp;&emsp;(B) that was a project described in subparagraph (A) that has been legally vacated or demolished, but for which the Secretaryhas not yet provided replacement housing assistance (other than tenant-based assistance).
 
 #### (3) Supportive services
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 199
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 11 on page 104 identifies a reporting provision which, as subsequently amended, is contained in subsec. (<i>l</i>) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 11 on page 104 identifies a reporting provision which, as subsequently amended, is contained in subsec. (<i>l</i>) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

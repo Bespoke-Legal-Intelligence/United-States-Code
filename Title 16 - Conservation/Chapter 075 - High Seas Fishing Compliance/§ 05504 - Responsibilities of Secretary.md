@@ -16,7 +16,7 @@ The Secretary, in cooperation with the Secretary of State and the Secretary of t
 
 &emsp;(4) convey to FAO information relating to any permit granted under section 5503(b)(3) of this title, including the vessel's identity, owner or operator, and factors relevant to the Secretary's determination to issue the permit;
 
-&emsp;(5) report promptly to FAO all relevant information regarding any activities of high seas fishing vessels that undermine the effectiveness of international conservation and management measures, including the identity of the vessels and any sanctions imposed; and
+&emsp;(5) report promptly to FAO all relevant information regarding any activities of highseas fishing vessels that undermine the effectiveness of international conservation and management measures, including the identity of the vessels and any sanctions imposed; and
 
 &emsp;(6) provide the FAO a summary of evidence regarding any activities of foreign vessels that undermine the effectiveness of international conservation and management measures.
 

@@ -8,7 +8,7 @@
 
 #### (b) Sale of passports and stamps
 
-(1) National park passports and stamps shall be sold through the National Park Service andmay be sold by private vendors on consignment in accordance with guidelines established by the Secretary.
+(1) National park passports and stamps shall be sold through the National Park Service and may be sold by private vendors on consignment in accordance with guidelines established by the Secretary.
 
 (2) A private vendor may be allowed to collect a commission on each national park passport (including stamp) sold, as determined by the Secretary.
 

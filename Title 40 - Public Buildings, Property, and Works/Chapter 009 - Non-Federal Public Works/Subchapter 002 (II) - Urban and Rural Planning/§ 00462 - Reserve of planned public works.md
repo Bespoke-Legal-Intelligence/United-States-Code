@@ -40,7 +40,7 @@ In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “sec
 
 #### Amendments
 
-1988—Subsec. (c). Pub. L. 100–242, §524(1), struck out subsec. (c) which read as follows: “Advances under this section to any public agency or Indian tribe shall be repaid without interest by such agency or tribe when theconstruction of the public works is undertaken or started: <i>Provided</i>, That in the event repayment is not made promptly such unpaid sum shall bear interest at the rate of 4 per centum per annum from the date of the Government's demand for repayment to the date of payment thereof by the public agency or Indian tribe.”
+1988—Subsec. (c). Pub. L. 100–242, §524(1), struck out subsec. (c) which read as follows: “Advances under this section to any public agency or Indian tribe shall be repaid without interest by such agency or tribe when the construction of the public works is undertaken or started: <i>Provided</i>, That in the event repayment is not made promptly such unpaid sum shall bear interest at the rate of 4 per centum per annum from the date of the Government's demand for repayment to the date of payment thereof by the public agency or Indian tribe.”
 
 Subsec. (g). Pub. L. 100–242, §524(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Notwithstanding any other provision of this section, no advance made under this section for the planning of any public works project shall be required to be repaid if construction of such project is initiated as a result of a grant-in-aid made from an allocation made by the President under the Public Works Acceleration Act.”
 

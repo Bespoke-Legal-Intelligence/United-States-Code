@@ -24,9 +24,9 @@
 
 (c) Any court of appeals may pretermit any regular session of court at any place for insufficient business or other good cause.
 
-(d) The times and places of the sessions of the Court of Appeals for the Federal Circuit shall be prescribed with a view to securing reasonable opportunity to citizens to appear before the court with as little inconvenience and expense to citizens as is practicable.
+(d) The times and places of the sessions of the Court of Appeals for the Federal Circuit shall beprescribed with a view to securing reasonable opportunity to citizens to appear before the court with as little inconvenience and expense to citizens as is practicable.
 
-(June 25, 1948, ch. 646, 62 Stat. 872; Oct. 31, 1951, ch. 655, §36, 65 Stat. 723; Pub. L. 96–452, §4, Oct.14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §104, Apr. 2, 1982, 96 Stat. 26; Pub. L. 102–572, title V, §501, Oct. 29, 1992, 106 Stat. 4512.)
+(June 25, 1948, ch. 646, 62 Stat. 872; Oct. 31, 1951, ch. 655, §36, 65 Stat. 723; Pub. L. 96–452, §4, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §104, Apr. 2, 1982, 96 Stat. 26; Pub. L. 102–572, title V, §501, Oct. 29, 1992, 106 Stat. 4512.)
 
 #### Historical and Revision Notes
 

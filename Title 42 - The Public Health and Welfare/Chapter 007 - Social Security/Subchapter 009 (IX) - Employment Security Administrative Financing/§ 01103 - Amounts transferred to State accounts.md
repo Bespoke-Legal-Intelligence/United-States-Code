@@ -44,7 +44,7 @@
 
 &emsp;(B) the law of a State is not approvable under section 3304 of the Federal Unemployment Tax Act \[26 U.S.C. 3304\],
 
-> then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify to the Secretary of the Treasury before the close of such fiscal year then the amount which wasavailable for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
+> then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify to the Secretary of the Treasury before the close of such fiscal year then the amount which was available for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
 
 (2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
 
@@ -110,7 +110,7 @@ A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, §903, 49 Stat. 640,
 
 Subsec. (c)(2). Pub. L. 105–33, §5403(b), inserted concluding provisions.
 
-1990—Subsec. (a)(2). Pub. L. 101–508, §5021(a), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: “Each State's share of the funds to be transferred under this subsection as of any October 1—
+1990—Subsec. (a)(2). Pub. L. 101–508, §5021(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each State's share of the funds to be transferred under this subsection as of any October 1—
 
 &emsp;“(A) shall be determined by the Secretary of Labor and certified by him to the Secretary of the Treasury before that date on the basis of reports furnished by the States to the Secretary of Labor before September 1, and
 
@@ -136,7 +136,7 @@ Subsec. (c)(2). Pub. L. 94–273, §41, in subpar. (D) and provisions following 
 
 1974—Subsec. (b)(3). Pub. L. 93–368 struck out par. (3) which related to reductions in the amount transferable to the account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
 
-1972—Subsec. (b)(3). Pub. L. 92–329 inserted provisions relating to reductions in the amount transferable to the account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
+1972—Subsec. (b)(3). Pub. L. 92–329 inserted provisions relating to reductions in the amount transferable tothe account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
 
 1971—Subsec. (b)(3). Pub. L. 92–224, §204(c), added par. (3).
 

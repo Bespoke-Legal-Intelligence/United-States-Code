@@ -54,7 +54,7 @@ In the event the Secretary and a participating Indian tribe are unable to agree,
 
 #### (1) In general
 
-&emsp;If the Secretary rejects an offer made under subsection (b) of this section (or one or more provisions or funding levels in such offer), the Secretary shall provide—
+&emsp;If the Secretary rejects an offer made under subsection (b) of this section (or one or moreprovisions or funding levels in such offer), the Secretary shall provide—
 
 &emsp;&emsp;(A) a timely written notification to the Indian tribe that contains a specific finding that clearly demonstrates, or that is supported by a controlling legal authority, that—
 
@@ -96,7 +96,7 @@ The Secretary is prohibited from waiving, modifying, or diminishing in any way t
 
 A decision that constitutes final agency action and relates to an appeal within the Department of Health and Human Services conducted under subsection (c) of this section shall be made either—
 
-&emsp;(1) by an official of the Department who holds a position at a higher organizational level within the Department than the level ofthe departmental agency in which the decision that is the subject of the appeal was made; or
+&emsp;(1) by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency in which the decision that is the subject of the appeal was made; or
 
 &emsp;(2) by an administrative judge.
 

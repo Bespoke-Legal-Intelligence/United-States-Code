@@ -1,6 +1,6 @@
 ### §2253. Appeal
 
-(a) In a habeas corpus proceeding or a proceeding under section 2255 before a district judge,the final order shall be subject to review, on appeal, by the court of appeals for the circuit in which the proceeding is held.
+(a) In a habeas corpus proceeding or a proceeding under section 2255 before a district judge, the final order shall be subject to review, on appeal, by the court of appeals for the circuit in which the proceeding is held.
 
 (b) There shall be no right of appeal from a final order in a proceeding to test the validity of a warrant to remove to another district or place for commitment or trial a person charged with a criminal offense against the United States, or to test the validity of such person's detention pending removal proceedings.
 
@@ -36,7 +36,7 @@ This section corrects a typographical error in the second paragraph of section 2
 
 <b>1996</b>—Pub. L. 104–132 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
-“In a habeas corpus proceeding before a circuit or district judge, the final order shall be subject to review, on appeal, by the court of appeals for the circuit where the proceeding is had.
+“In a habeas corpus proceeding before a circuit or district judge, the final order shall be subject to review,on appeal, by the court of appeals for the circuit where the proceeding is had.
 
 “There shall be no right of appeal from such an order in a proceeding to test the validity of a warrant to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his detention pending removal proceedings.
 
@@ -45,4 +45,8 @@ This section corrects a typographical error in the second paragraph of section 2
 <b>1951</b>—Act Oct. 31, 1951, substituted “to remove, to another district or place for commitment or trial, a person charged with a criminal offense against the United States, or to test the validity of his” for “of removal issued pursuant to section 3042 of Title 18 or the” in second par.
 
 <b>1949</b>—Act May 24, 1949, substituted “3042” for “3041” in second par.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 8 section 1226a.
 

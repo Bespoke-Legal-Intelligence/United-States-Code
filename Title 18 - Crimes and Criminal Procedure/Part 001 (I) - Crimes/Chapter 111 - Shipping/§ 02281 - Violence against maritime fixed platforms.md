@@ -78,5 +78,5 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1956, 2332b, 2339A, 3286, 3592 of this title.
+This section is referred to in sections 1956, 2332b, 2339A, 3592 of this title.
 

@@ -16,19 +16,19 @@ In this chapter:
 
 #### (4) Elementary school
 
-&emsp;The term “elementary school” has the same meaning given that term under section 8801 of this title.
+&emsp;The term “elementary school” has the same meaning given that term under section 7801 of this title.
 
 #### (5) Gifted and talented
 
-&emsp;The term “gifted and talented” has the same meaning given that term under section 8801 of this title.
+&emsp;The term “gifted and talented” has the same meaning given that term under section 7801 of this title.
 
 #### (6) Local educational agency
 
-&emsp;The term “local educational agency” has the same meaning given that term under section 8801 of this title.
+&emsp;The term “local educational agency” has the same meaning given that term under section 7801 of this title.
 
 #### (7) New borrower
 
-&emsp;The term “new borrower” when used with respect to any date means an individual who on that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The term “new borrower” when used with respect to any date means an individual whoon that date has no outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (8) Nonprofit
 
@@ -44,7 +44,7 @@ In this chapter:
 
 #### (10) Secondary school
 
-&emsp;The term “secondary school” has the same meaning given that term under section 8801 of this title.
+&emsp;The term “secondary school” has the same meaning given that term under section 7801 of this title.
 
 #### (11) Secretary
 
@@ -60,7 +60,7 @@ In this chapter:
 
 #### (14) State educational agency
 
-&emsp;The term “State educational agency” has the same meaning given that term under section 8801 of this title.
+&emsp;The term “State educational agency” has the same meaning given that term under section 7801 of this title.
 
 #### (15) State higher education agency
 
@@ -76,7 +76,7 @@ In this chapter:
 
 &emsp;&emsp;The term “Freely Associated States” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
-(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589.)
+(Pub. L. 89–329, title I, §103, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1589; amended Pub. L. 107–110, title X, §1076(g), Jan. 8, 2002, 115 Stat. 2091.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ Provisions similar to this section were contained in section 1141(b) of this tit
 
 A prior section 1003, Pub. L. 89–329, title I, §103, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 459; amended Pub. L. 103–208, §2(a)(1), Dec. 20, 1993, 107 Stat. 2457, related to authority to make grants under the school, college, and university partnership grant program, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
-Another prior section 1003, Pub. L. 89–329, title I, §103, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100Stat. 1279, related to limitation on contract authority, prior to the general amendment of this subchapter by Pub. L. 102–325.
+Another prior section 1003, Pub. L. 89–329, title I, §103, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1279, related to limitation on contract authority, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Another prior section 1003, Pub. L. 89–329, title I, §103, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1375, related to duties of the Commission on National Development in Postsecondary Education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
@@ -106,7 +106,7 @@ Another prior section 1005, Pub. L. 89–329, title I, §105, as added Pub. L. 9
 
 Another prior section 1005, Pub. L. 89–329, title I, §105, Nov. 8, 1965, 79 Stat. 1220; Pub. L. 90–575, title II, §202, Oct. 16, 1968, 82 Stat. 1036; Pub. L. 94–482, title I, §101(b)(4)–(10), (g)(2), Oct. 12, 1976, 90 Stat. 2084–2086; Pub. L. 95–43, §1(a)(3), (b)(1), (2), June 15, 1977, 91 Stat. 213, 218, set out the requisite features of State plans, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1005a, Pub. L. 89–329, title I, §106, as added Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 237; amended Pub. L. 94–482, title I, §101(g)(2), Oct. 12, 1976, 90 Stat. 2086, provided for special programs and projects relating to national and regional problems, prior to the general amendment of this subchapter by Pub. L. 96–374.
+A prior section 1005a, Pub. L. 89–329, title I, §106, as added Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86Stat. 237; amended Pub. L. 94–482, title I, §101(g)(2), Oct. 12, 1976, 90 Stat. 2086, provided for special programs and projects relating to national and regional problems, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1006, Pub. L. 89–329, title I, §106, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 461, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -125,4 +125,16 @@ Section 1008b, Pub. L. 89–329, title I, §111, as added Pub. L. 94–482, titl
 Section 1009, Pub. L. 89–329, title I, §112, formerly §109, Nov. 8, 1965, 79 Stat. 1223; Pub. L. 91–230, title IV, §401(h)(4), Apr. 13, 1970, 84 Stat. 174, renumbered §110, Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 236, renumbered §111, Pub. L. 93–29, title VIII, §803, May 3, 1973, 87 Stat. 59; Pub. L. 93–380, title VIII, §831, Aug. 21, 1974, 88 Stat. 603; Pub. L. 93–644, §9(a), Jan. 4, 1975, 88 Stat. 2310, renumbered §112 and amended Pub. L. 94–482, title I, §101(e), (f)(1), (g)(2), Oct. 12, 1976, 90 Stat. 2085, 2086; 1977 Reorg. Plan No. 2, §7(a)(13), 42 F.R. 62461, 91 Stat. 1637, provided for creation of a National Advisory Council on Extension and Continuing Education.
 
 Section 1010, Pub. L. 89–329, title I, §113, formerly §110, Nov. 8, 1965, 79 Stat. 1224, renumbered §111, Pub. L. 92–318, title I, §102(a)(1), June 23, 1972, 86 Stat. 236, renumbered §112, Pub. L. 93–29, title VIII, §803, May 3, 1973, 87 Stat. 59, renumbered §113 and amended Pub. L. 94–482, title I, §101(e), (f)(2), Oct. 12, 1976, 90 Stat. 2085, 2086, directed that nothing in the section be held to modify any authority under the Smith-Lever Act, section 341 et seq. of Title 7, Agriculture.
+
+#### Amendments
+
+2002—Pars. (4) to (6), (10), (14). Pub. L. 107–110 substituted “7801” for “8801”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7255f of this title.
 

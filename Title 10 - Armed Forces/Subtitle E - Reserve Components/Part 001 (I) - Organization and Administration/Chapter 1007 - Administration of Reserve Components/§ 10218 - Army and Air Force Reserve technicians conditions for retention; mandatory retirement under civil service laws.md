@@ -94,13 +94,13 @@ Subsec. (b)(3). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(20)(D)\]
 
 #### Transition Provision
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §525(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title V, §525(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109, as amended by Pub. L. 107–107, div. A, title X, §1048(f)(1), Dec. 28, 2001, 115 Stat. 1228, provided that:
 
-“(1) An individual who before the date of the enactment of this Act \[Oct. 30, 2000\] was involuntarily separated or retired from employment as an Army Reserve or Air Force Reserve technician under section 10218 of title 10, United States Code, and who would not have been so separated if the provisions of subsection (c) of that section, as amended by subsection (a), had been in effect at the time of such separation may, with the approval of the Secretary concerned, be reinstated to the technician status held by that individual immediately before that separation. The effective date of any such reinstatement is the date the employee resumes technician status.
+“(1) An individual who before the date of the enactment of this Act \[Oct. 30, 2000\] was involuntarily separated or retired from employment as an Army Reserve or Air Force Reserve technician under section 10218 of title 10, United States Code, and who would not have been so separated if the provisions of subsections (a) and (b) of that section, as amended by subsection (a), had been in effect at the time of such separation may, with the approval of the Secretary concerned, be reinstated to the technician status held by that individual immediately before that separation. The effective date of any such reinstatement is the date the employee resumes technician status.
 
 “(2) The authority under paragraph (1) applies only to reinstatement for which an application is received by the Secretary concerned before the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 30, 2000\].”
 
 #### Temporary Provision for Extension of Time for Separation or Retirement
 
-Pub. L. 106–65, div. A, title V, §522(a)(3), Oct. 5, 1999, 113 Stat. 597, provided that: “During the six-month period beginning on the date of the enactment of this Act \[Oct. 5, 1999\], the provisions of subsections (a)(3)(B)(ii)(I) and (b)(2)(B)(ii)(I) of section 10218 of title 10, United States Code, as added by paragraph (1), shall be applied by substituting ‘six months’ for ‘30 days’.”
+Pub. L. 106–65, div. A, title V, §522(a)(3), Oct. 5, 1999, 113 Stat. 597, provided that: “During the six-month period beginning on the date of the enactment of this Act \[Oct. 5, 1999\], the provisions of subsections\(a)(3)(B)(ii)(I) and (b)(2)(B)(ii)(I) of section 10218 of title 10, United States Code, as added by paragraph (1), shall be applied by substituting ‘six months’ for ‘30 days’.”
 

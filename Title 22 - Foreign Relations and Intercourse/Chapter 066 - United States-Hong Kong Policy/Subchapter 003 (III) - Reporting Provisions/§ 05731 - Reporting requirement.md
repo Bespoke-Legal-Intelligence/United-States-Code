@@ -1,6 +1,6 @@
 ### §5731. Reporting requirement
 
-Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, March 31, 1998, March 31, 1999, and March 31, 2000, the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992, or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
+Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, March 31, 1998, March 31, 1999, March 31, 2000, March 31, 2001, March 31, 2002, March 31, 2003, March 31, 2004, March 31, 2005, and March 31, 2006 <sup>1</sup> the Secretary of State shall transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992, or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
 
 &emsp;(1) significant developments in United States relations with Hong Kong, including a description of agreements that have entered into force between the United States and Hong Kong;
 
@@ -18,11 +18,17 @@ Not later than March 31, 1993, March 31, 1995, March 31, 1996, March 31, 1997, M
 
 &emsp;(8) the nature and extent of Hong Kong's participation in multilateral forums.
 
-(Pub. L. 102–383, title III, §301, Oct. 5, 1992, 106 Stat. 1453; Pub. L. 104–107, title V, §576(a), Feb. 12, 1996, 110 Stat. 750.)
+(Pub. L. 102–383, title III, §301, Oct. 5, 1992, 106 Stat. 1453; Pub. L. 104–107, title V, §576(a), Feb. 12, 1996, 110 Stat. 750; Pub. L. 107–115, title V, §586(a), Jan. 10, 2002, 115 Stat. 2173.)
 
 #### Amendments
 
+2002—Pub. L. 107–115 substituted “March 31, 2000, March 31, 2001, March 31, 2002, March 31, 2003, March 31, 2004, March 31, 2005, and March 31, 2006” for “and March 31, 2000,” in introductory provisions.
+
 1996—Subsec. (a). Pub. L. 104–107 inserted “March 31, 1996,” after “March 31, 1995,” in introductory provisions.
+
+#### Extension of Reporting Time
+
+Pub. L. 107–115, title V, §586(b), Jan. 10, 2002, 115 Stat. 2173, provided that: “The requirement in section 301 of the United States-Hong Kong Policy Act \[22 U.S.C. 5731\], as amended by subsection (a), that a report under that section shall be transmitted not later than March 31, 2001, shall be considered satisfied by the transmittal of such report by August 7, 2001.”
 
 #### Report on Sino-British Joint Declaration on Question of Hong Kong
 
@@ -33,4 +39,6 @@ Pub. L. 104–107, title V, §576(b), Feb. 12, 1996, 110 Stat. 750.
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5721 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

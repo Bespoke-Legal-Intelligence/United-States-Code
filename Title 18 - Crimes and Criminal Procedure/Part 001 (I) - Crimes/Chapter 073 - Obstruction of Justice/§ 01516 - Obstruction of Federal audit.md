@@ -22,7 +22,7 @@ The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 3
 
 1996—Subsec. (b)(1). Pub. L. 104–294 inserted “and” after semicolon at end.
 
-1994—Subsec. (b). Pub. L. 103–322 substituted “section—” for “section”, inserted “(1)” before “the term”,substituted semicolon for the period at end, and added par. (2).
+1994—Subsec. (b). Pub. L. 103–322 substituted “section—” for “section”, inserted “(1)” before “the term”, substituted semicolon for the period at end, and added par. (2).
 
 #### Effective Date of 1996 Amendment
 

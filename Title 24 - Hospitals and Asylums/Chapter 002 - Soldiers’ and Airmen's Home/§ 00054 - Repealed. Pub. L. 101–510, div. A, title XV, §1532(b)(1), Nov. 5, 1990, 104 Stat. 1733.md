@@ -4,5 +4,5 @@ Section, R.S. §4824, related to coverage of inmates by Articles of War. See sec
 
 #### Effective Date of Repeal
 
-Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, set out as an Effective Date note under section 401 of this title.
+Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of this title.
 

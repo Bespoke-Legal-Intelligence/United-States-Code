@@ -24,7 +24,7 @@ In General.—The Secretary of the Army shall reform the process for selection a
 
 “(b)
 
-Measures To Be Taken.—As part of such reform, the Secretary shall undertake the following measures (unless, in the case of any such measure, the Secretary determines that that measure would not result in improved effectiveness and efficiency in the drill sergeant selection and training process):
+Measures To Be Taken.—As part of such reform, the Secretary shall undertake the following measures\(unless, in the case of any such measure, the Secretary determines that that measure would not result in improved effectiveness and efficiency in the drill sergeant selection and training process):
 
 &emsp;“(1) Review the overall process used by the Department of the Army for selection of drill sergeants to determine—
 

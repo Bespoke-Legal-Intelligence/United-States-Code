@@ -22,7 +22,17 @@ For purposes of this section—
 
 #### (c) Limitation
 
-Subsections (a) and (d) shall not apply to that portion of any amount received which represents payment for teaching, research, or other services by the student required as a condition for receiving the qualified scholarship or qualified tuition reduction.
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), subsections (a) and (d) shall not apply to that portion of any amount received which represents payment for teaching, research, or other services by the student required as a condition for receiving the qualified scholarship or qualified tuition reduction.
+
+#### (2) Exceptions
+
+&emsp;Paragraph (1) shall not apply to any amount received by an individual under—
+
+&emsp;&emsp;(A) the National Health Service Corps Scholarship Program under section 338A(g)(1)(A) of the Public Health Service Act, or
+
+&emsp;&emsp;(B) the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of title 10, United States Code.
 
 #### (d) Qualified tuition reduction
 
@@ -48,9 +58,19 @@ Subsections (a) and (d) shall not apply to that portion of any amount received w
 
 &emsp;In the case of the education of an individual who is a graduate student at an educational organization described in section 170(b)(1)(A)(ii) and who is engaged in teaching or research activities for such organization, paragraph (2) shall be applied as if it did not contain the phrase “(below the graduate level)”.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 38; Pub. L. 87–256, §110(a), Sept. 21, 1961, 75 Stat. 535; Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1794, 1803; Pub. L. 96–541, §5(a)(1), Dec. 17, 1980, 94 Stat. 3205; Pub. L. 98–369, div. A, title V, §532(a), July 18, 1984, 98 Stat. 887; Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), Oct. 22, 1986, 100 Stat. 2112, 2450, 2506; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 104–188, title I, §1703(n)(14), Aug. 20, 1996, 110 Stat. 1878.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 38; Pub. L. 87–256, §110(a), Sept. 21, 1961, 75 Stat. 535; Pub. L. 94–455, title XIX, §1901(b)(8)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1794, 1803; Pub. L. 96–541, §5(a)(1), Dec. 17, 1980, 94 Stat. 3205; Pub. L. 98–369, div. A, title V, §532(a), July 18, 1984, 98 Stat. 887; Pub. L. 99–514, title I, §123(a), title XI, §§1114(b)(2), 1151(g)(2), Oct. 22, 1986, 100 Stat. 2112, 2450, 2506; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(b)(2), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 104–188, title I, §1703(n)(14), Aug. 20, 1996, 110 Stat. 1878; Pub. L. 107–16, title IV, §413(a), June 7, 2001, 115 Stat. 64.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
+
+#### References in Text
+
+Section 338A(g)(1)(A) of the Public Health Service Act, referred to in subsec. (c)(2)(A), is classified to section 254<i>l</i>(g)(1)(A) of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c). Pub. L. 107–16, §§413(a), 901, temporarily designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), subsections (a)” for “Subsections (a)”, and added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1996</b>—Subsec. (d)(2)(B). Pub. L. 104–188 substituted “section 132(h)” for “section 132(f)”.
 
@@ -84,7 +104,7 @@ Subsec. (a). Pub. L. 99–514, §123(a), amended subsec. (a) generally. Prior to
 
 > &emsp;which are incident to such a scholarship or to a fellowship grant, but only to the extent that the amount is so expended by the recipient.”
 
-Subsec. (b). Pub. L. 99–514, §123(a), in amending subsec. (b) generally, substituted qualified scholarship provision for former limitations provision, which related in par. (1) to individuals who were candidates for degrees, and in par. (2) to individuals who were not candidates for degrees, describing in subpar. (A) conditions for exclusion and in subpar. (B) extent of exclusion, such detailed provision now covered in subsec. (c).
+Subsec. (b). Pub. L. 99–514, §123(a), in amending subsec. (b) generally, substituted qualified scholarship provision for former limitations provision, which relatedin par. (1) to individuals who were candidates for degrees, and in par. (2) to individuals who were not candidates for degrees, describing in subpar. (A) conditions for exclusion and in subpar. (B) extent of exclusion, such detailed provision now covered in subsec. (c).
 
 Subsec. (c). Pub. L. 99–514, §123(a), in amending subsec. (c) generally, substituted limitation provision for former provision relating to Federal grants for tuition and related expenses not includable merely because there was requirement of future service as Federal employee.
 
@@ -105,6 +125,12 @@ Subsec. (b)(2)(A)(iv). Pub. L. 94–455, §1901(c)(3), struck out “a territory
 Subsec. (b)(2)(B). Pub. L. 94–455, §1901(b)(8)(A), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution (as defined in section 151(e)(4))” after “degree at an”.
 
 <b>1961</b>—Subsec. (b)(2)(A). Pub. L. 87–256 included cases where the grantor of the scholarship or fellowship grant is a foreign government, an international organization, or a binational or multinational educational and cultural foundation or commission created or continued pursuant to the Mutual Educational and Cultural Exchange Act of 1961.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title IV, §413(b), June 7, 2001, 115 Stat. 64, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to amounts received in taxable years beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -156,7 +182,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 
-For nonapplication of amendment by section 123(a) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For nonapplication of amendment by section 123(a) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included inthe provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -168,7 +194,7 @@ Section 1853(f) of Pub. L. 99–514 provided that:
 
 “(1) A tuition reduction plan shall be treated as meeting the requirements of section 117(d)(3) of the Internal Revenue Code of 1954 \[now 1986\] if—
 
-&emsp;“(A) such plan would have met the requirements of such section (as amended by this section but without regard to the lack of evidence that benefits under such plan were the subject of good faith bargaining)on the day on which eligibility to participate in the plan was closed,
+&emsp;“(A) such plan would have met the requirements of such section (as amended by this section but without regard to the lack of evidence that benefits under such plan were the subject of good faith bargaining) on the day on which eligibility to participate in the plan was closed,
 
 &emsp;“(B) at all times thereafter, the tuition reductions available under such plan are available on substantially the same terms to all employees eligible to participate in such plan, and
 

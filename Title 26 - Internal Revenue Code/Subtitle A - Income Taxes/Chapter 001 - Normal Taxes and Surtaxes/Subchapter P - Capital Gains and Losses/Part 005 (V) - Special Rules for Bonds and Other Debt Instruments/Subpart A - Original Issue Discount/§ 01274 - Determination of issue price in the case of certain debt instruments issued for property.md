@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (2) Determination of present value
 
-&emsp;For purposes of paragraph (1), the present value of a payment shall be determined in themanner provided by regulations prescribed by the Secretary—
+&emsp;For purposes of paragraph (1), the present value of a payment shall be determined in the manner provided by regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) as of the date of the sale or exchange, and
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (B) Sales of principal residences
 
-&emsp;&emsp;Any debt instrument arising from the sale or exchange by an individual of his principal residence (within the meaning of section 121).
+&emsp;&emsp;Any debt instrument arising from the sale or exchange by an individual of his principalresidence (within the meaning of section 121).
 
 #### (C) Sales involving total payments of $250,000 or less
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of any debt instrument to which this subsection applies, the discount rate used under subsection (b)(2)(B) or section 483(b) shall be 110 percent of the applicable Federal rate, compounded semiannually.
+&emsp;In the case of any debt instrument to which this subsection applies, the discount rate usedunder subsection (b)(2)(B) or section 483(b) shall be 110 percent of the applicable Federal rate, compounded semiannually.
 
 #### (2) Lower discount rates shall not apply
 

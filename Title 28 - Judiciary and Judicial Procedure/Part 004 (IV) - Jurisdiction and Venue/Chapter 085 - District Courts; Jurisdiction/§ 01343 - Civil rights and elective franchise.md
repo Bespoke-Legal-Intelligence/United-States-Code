@@ -6,7 +6,7 @@
 
 &emsp;(2) To recover damages from any person who fails to prevent or to aid in preventing any wrongs mentioned in section 1985 of Title 42 which he had knowledge were about to occur and power to prevent;
 
-&emsp;(3) To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage, of any right, privilege or immunity secured by the Constitution of theUnited States or by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United States;
+&emsp;(3) To redress the deprivation, under color of any State law, statute, ordinance, regulation, custom or usage, of any right, privilege or immunity secured by the Constitution of the United States or by any Act of Congress providing for equal rights of citizens or of all persons within the jurisdiction of the United States;
 
 &emsp;(4) To recover damages or to secure equitable or other relief under any Act of Congress providing for the protection of civil rights, including the right to vote.
 

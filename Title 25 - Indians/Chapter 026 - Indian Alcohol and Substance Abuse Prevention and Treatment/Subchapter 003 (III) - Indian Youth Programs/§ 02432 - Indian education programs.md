@@ -24,7 +24,7 @@ Act of April 16, 1934, referred to in subsec. (b)(1), is act Apr. 16, 1934, ch. 
 
 The Indian Education Assistance Act, referred to in subsec. (b)(1), is title II of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2213, which enacted part C (§458a et seq.) of subchapter II of chapter 14 of this title, sections 455 to 457 of this title, and provisions set out as a note under section 457 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-The Indian Elementary and Secondary School Assistance Act, referred to in subsec. (b)(2), is title III of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92–318, title IV, §411(a), June 23, 1972, 86 Stat. 335, as amended, which was classified generally to subchapter III (§241aa et seq.) of chapter 13 of Title 20, Education, and was repealed by Pub. L. 100–297, title V, §5352(1), Apr. 28, 1988, 102 Stat. 414.
+The Indian Elementary and Secondary School Assistance Act, referred to in subsec. (b)(2), is title III of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92–318, title IV, §411(a), June 23, 1972, 86 Stat. 334, as amended, which was classified generally to subchapter III (§241aa et seq.) of chapter 13 of Title 20, Education, and was repealed by Pub. L. 100–297, title V, §5352(1), Apr. 28, 1988, 102 Stat. 414.
 
 The Indian Education Act, referred to in subsec. (b)(3), is title IV of Pub. L. 92–318, June 23, 1972, 86 Stat. 334, as amended. Section 3385 of Title 20, which was enacted by section 421(a) of the Act, was repealed by Pub. L. 100–297, title V, §5352(2), Apr. 28, 1988. For complete classification of this Act to the Code, see Tables.
 

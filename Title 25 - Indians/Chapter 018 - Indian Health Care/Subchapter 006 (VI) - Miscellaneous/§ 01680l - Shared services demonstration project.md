@@ -8,7 +8,7 @@ The Secretary, acting through the Service and notwithstanding any other provisio
 
 A contract entered into pursuant to subsection (a) of this section—
 
-&emsp;(1) may, at the request of the Indian tribe or tribal organization, delegate to such tribe or tribal organization such powers of supervision and control over Service employees as the Secretary deems necessary to carry out the purposes of this section;
+&emsp;(1) may, at the request of the Indian tribe or tribal organization, delegate to such tribe or tribal organization such powers of supervisionand control over Service employees as the Secretary deems necessary to carry out the purposes of this section;
 
 &emsp;(2) shall provide that expenses (including salaries) relating to services that are shared between the Service facility and the tribal facility be allocated proportionately between the Service and the tribe or tribal organization; and
 

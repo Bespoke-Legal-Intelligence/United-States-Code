@@ -66,7 +66,7 @@ The criteria required to be applied in evaluating applications submitted under s
 
 #### (2) Priorities
 
-&emsp;The Corporation may designate, under such criteria as may be established by the Corporation, certain national service programs or types of national service programs described in section 12572(a) of this title for priority consideration in the competitive distribution offunds under section 12581(d)(2) of this title. In designating national service programs to receive priority, the Corporation may include—
+&emsp;The Corporation may designate, under such criteria as may be established by the Corporation, certain national service programs or types of national service programs described in section 12572(a) of this title for priority consideration in the competitive distribution of funds under section 12581(d)(2) of this title. In designating national service programs to receive priority, the Corporation may include—
 
 &emsp;&emsp;(A) national service programs carried out by another Federal agency;
 

@@ -42,7 +42,7 @@ Notwithstanding any other provision of this subchapter, the distribution of form
 
 #### (e) Use of matching funds
 
-Under terms and conditions established by the Secretary, matching funds provided as requiredby subsection (c) of this section may be used by an eligible institution for agricultural research, extension, and education activities.
+Under terms and conditions established by the Secretary, matching funds provided as required by subsection (c) of this section may be used by an eligible institution for agricultural research, extension, and education activities.
 
 #### (f) Redistribution of funds
 

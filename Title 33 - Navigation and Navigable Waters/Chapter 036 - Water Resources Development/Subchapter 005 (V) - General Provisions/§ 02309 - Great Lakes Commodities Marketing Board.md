@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration of purpose
 
-To ensure the coordinated economic revitalization and environmental enhancement of the Great Lakes and their connecting channels and the Saint Lawrence Seaway (hereinafter in this section referred to as the “Great Lakes”), known as the “Fourth Seacoast” of the United States, it is hereby declared to be the intent of Congress to recognize the importance of the economic vitality of the Great Lakes region, the importance of exports from the region in the United States balance of trade, and the need to assure an environmentally and socially responsible navigation system for the Great Lakes. Congress finds that the Great Lakes provide a diversity of agricultural, commercial, environmental, recreational, and related opportunities based on their extensive water resources and water transportation systems.
+To ensure the coordinated economic revitalization and environmental enhancement of the Great Lakes and their connecting channels and the Saint Lawrence Seaway (hereinafter in this section referred to as the “Great Lakes”), known as the “Fourth Seacoast” of the United States, it is hereby declared to be the intent of Congress to recognize the importance of the economic vitality of the Great Lakes region, the importance of exports from the region in theUnited States balance of trade, and the need to assure an environmentally and socially responsible navigation system for the Great Lakes. Congress finds that the Great Lakes provide a diversity of agricultural, commercial, environmental, recreational, and related opportunities based on their extensive water resources and water transportation systems.
 
 #### (b) Establishment; strategy development; composition of Board; Director; report; termination
 
@@ -78,7 +78,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 (E) The Administrator of General Services shall provide to the Board on a reimbursable basis such administrative support services as the Board may request.
 
-(7) Not later than September 30, 1989, the Board shall transmit to the President and toeach House of the Congress a report stating the strategy developed under this subsection and the results of each analysis conducted under this subsection. Such report shall contain a detailed statement of the findings and conclusions of the Board together with its recommendations for such legislative and administrative actions as it considers appropriate to carry out such strategy and to assure maximum economic benefits to the users of the Great Lakes and to the Great Lakes region.
+(7) Not later than September 30, 1989, the Board shall transmit to the President and to each House of the Congress a report stating the strategy developed under this subsection and the results of each analysis conducted under this subsection. Such report shall contain a detailed statement of the findings and conclusions of the Board together with its recommendations for such legislative and administrative actions as it considers appropriate to carry out such strategy and to assure maximum economic benefits to the users of the Great Lakes and to the Great Lakes region.
 
 (8) The Board shall cease to exist 180 days after submitting its report pursuant to this subsection.
 

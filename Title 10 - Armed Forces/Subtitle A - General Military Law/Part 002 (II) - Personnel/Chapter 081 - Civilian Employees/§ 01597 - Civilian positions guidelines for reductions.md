@@ -82,6 +82,48 @@ Subsec. (e). Pub. L. 103–35, §201(d)(1)(B), substituted “on the date” for
 
 1992—Pub. L. 102–484 substituted “Civilian positions: guidelines for reductions” for “Employees of industrial-type or commercial-type activities: guidelines for future reductions” as section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsecs. (a) to (c).
 
+#### Pilot Program for Payment of Retraining Expenses
+
+Pub. L. 107–107, div. A, title XI, §1102, Dec. 28, 2001, 115 Stat. 1235, provided that:
+
+“(a)
+
+Authority To Carry Out Pilot Program.—(1) The Secretary of Defense may establish a pilot program to facilitate the reemployment of eligible employees of the Department of Defense who are involuntarily separated due to a reduction in force, relocation as a result of a transfer of function, realignment, or change of duty station. Under the pilot program, the Secretary may pay retraining incentives to encourage non-Federal employers to hire and retain such eligible employees.
+
+“(2) Under the pilot program, the Secretary may enter into an agreement with a non-Federal employer under which the employer agrees—
+
+&emsp;“(A) to employ an eligible employee for at least 12 months at a salary that is mutually agreeable to the employer and the eligible employee; and
+
+&emsp;“(B) to certify to the Secretary the amount of costs incurred by the employer for any necessary training (as defined by the Secretary) provided to such eligible employee in connection with the employment.
+
+“(3) The Secretary may pay a retraining incentive to the non-Federal employer upon the employee's completion of 12 months of continuous employment with that employer. The Secretary shall determine the amount of the incentive, except that in no event may such amount exceed the lesser of the amount certified with respect to such eligible employee under paragraph (2)(B), or $10,000.
+
+“(4) In a case in which an eligible employee does not remain employed by the non-Federal employer for at least 12 months, the Secretary may pay to the employer a prorated amount of what would have been the full retraining incentive if the eligible employee had remained employed for such 12-month period.
+
+“(b)
+
+Eligible Employees.—For purposes of this section, an eligible employee is an employee of the Department of Defense, serving under an appointment without time limitation, who has been employed by the Department for a continuous period of at least 12 months and who has been given notice of separation pursuant to a reduction in force, relocation as a result of a transfer of function, realignment, or change of duty station, except that such term does not include—
+
+&emsp;“(1) a reemployed annuitant under the retirement systems described in subchapter III of chapter 83 of title 5, United States Code, or chapter 84 of such title, or another retirement system for employees of the Federal Government;
+
+&emsp;“(2) an employee who, upon separation from Federal service, is eligible for an immediate annuity under subchapter III of chapter 83 of such title, or subchapter II of chapter 84 of such title; or
+
+&emsp;“(3) an employee who is eligible for disability retirement under any of the retirement systems referred to in paragraph (1).
+
+“(c)
+
+Duration.—No incentive may be paid under the pilot program for training commenced after September 30, 2005.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘non-Federal employer’ means an employer that is not an Executive agency, as defined in section 105 of title 5, United States Code, or an entity in the legislative or judicial branch of the Federal Government.
+
+&emsp;“(2) The term ‘reduction in force’ has the meaning of that term as used in chapter 35 of such title 5.
+
+&emsp;“(3) The term ‘realignment’ has the meaning given that term in section 2910 of the Defense Base Closure and Realignment Act of 1990 (title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
+
 #### Non-Federal Employment Incentive Pilot Program
 
 Pub. L. 103–337, div. A, title III, §348, Oct. 5, 1994, 108 Stat. 2725, provided that:
@@ -112,7 +154,7 @@ Retraining Incentive.—(1) Under the pilot program, the Secretary may enter int
 
 “(3) The Secretary shall pay a prorated amount of the full retraining incentive to the non-Federal employer for an employee who does not remain employed by the non-Federal employer for at least 12 months.
 
-“(4) In no event may the amount of the retraining incentive paid for the training of any one person under the pilot program exceed the amount certified for that person under paragraph (1).
+“(4) In no event may the amount of the retraining incentive paid for the training of any one person underthe pilot program exceed the amount certified for that person under paragraph (1).
 
 “(d)
 

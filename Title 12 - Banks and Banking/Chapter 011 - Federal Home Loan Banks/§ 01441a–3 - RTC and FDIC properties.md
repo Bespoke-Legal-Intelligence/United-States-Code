@@ -18,7 +18,7 @@
 
 #### (2) Expression of serious interest
 
-&emsp;During the 90-day period beginning on the date that notice under paragraph (1) concerning a covered property is first published, any governmental agency or qualified organization may submit to the corporation concerned a written notice of serious interest for the purchase or other transfer of a particular covered property for which notice has been published. The notice of serious interest shall be in such form and include such information as the corporation concerned may prescribe.
+&emsp;During the 90-day period beginning on the date that notice under paragraph (1) concerning a covered property is first published, any governmental agency or qualified organization may submit to the corporation concerned a written notice of serious interest for the purchase or other transfer of a particular covered property for which notice has been published. The notice of serious interest shall be in suchform and include such information as the corporation concerned may prescribe.
 
 #### (3) Prohibition of transfer
 

@@ -20,7 +20,7 @@ The Secretary shall carry out subsections (a) and (b) of this section acting thr
 
 The Secretary shall make payments to the Board of Health of the State of Hawaii for the care and treatment (including outpatient care) in its facilities of persons suffering from Hansen's disease at a rate determined by the Secretary. The rate shall be approximately equal to the operating cost per patient of such facilities, except that the rate may not exceed the comparable costs per patient with Hansen's disease for care and treatment provided by the Center referred to in subsection (a) of this section. Payments under this subsection are subject to the availability of appropriations for such purpose.
 
-(July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; Pub. L. 86–624, §29(b), July 12, 1960, 74 Stat. 419; renumbered §339, Pub. L. 94–484, title IV, §407(b)(2), Oct. 12, 1976, 90 Stat. 2268; renumbered §320, and amended Pub. L. 95–626, title I, §105(a), Nov. 10, 1978, 92 Stat. 3560; Pub. L. 96–32, §7(b), July 10, 1979, 93 Stat. 84; Pub. L. 99–117, §2(a), Oct. 7, 1985, 99 Stat. 491; Pub. L. 105–78, title II, §211(h), Nov. 13, 1997, 111 Stat. 1494.)
+(July 1, 1944, ch. 373, title III, §320, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62 Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; Pub. L. 86–624, §29(b), July 12, 1960, 74 Stat. 419; renumbered §339, Pub. L. 94–484, title IV, §407(b)(2), Oct. 12, 1976, 90 Stat. 2268; renumbered §320, and amended Pub. L. 95–626, title I, §105(a), Nov. 10, 1978, 92 Stat. 3560; Pub. L. 96–32, §7(b), July 10, 1979, 93 Stat. 84; Pub. L. 99–117, §2(a), Oct. 7, 1985, 99 Stat. 491; Pub. L. 105–78, title II, §211(h), Nov. 13, 1997, 111 Stat. 1494.)
 
 #### References in Text
 
@@ -38,7 +38,7 @@ Section was classified to section 255 of this title prior to its renumbering by 
 
 Subsec. (a). Pub. L. 99–117 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Service shall, in accordance with regulations, receive into any hospital of the Service suitable for his accommodation any person afflicted with leprosy who presents himself for care, detention, or treatment, or who may be apprehended under subsection (b) of this section or section 264 of this title, and any person afflicted with leprosy duly consigned to the care of the Service by the proper health authority of any State. The Surgeon General is authorized, upon the request of any health authority, to send for any person within the jurisdiction of such authority who is afflicted with leprosy and to convey such person to the appropriate hospital for detention and treatment. When the transportation of any such person is undertaken for the protection of the public health the expense of such removal shall be met from funds available for the maintenance of hospitals of the Service. Such funds shall also be available, subject to regulations, for transportation of recovered indigent leper patients to their homes, including subsistence allowance while traveling. When so provided in appropriations available for any fiscal year for the maintenance of hospitals of the Service, the Surgeon General is authorized and directed to make payments to the Board of Health of Hawaii for the care and treatment in its facilities of persons afflicted with leprosy at a per diem rate, determined from time to time by the Surgeon General, which shall, subject to the availability of appropriations, be approximately equal to the per diem operating cost per patient of such facilities, except that such per diem rate shall not be greater than the comparable per diem operating cost per patient at the National Leprosarium, Carville, Louisiana.”
 
-Subsec. (b). Pub. L. 99–117 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Surgeon General may provide by regulation for the apprehension, detention, treatment, and release of persons being treated by the Service for leprosy.”
+Subsec. (b). Pub. L. 99–117 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:“The Surgeon General may provide by regulation for the apprehension, detention, treatment, and release of persons being treated by the Service for leprosy.”
 
 1979—Subsec. (a). Pub. L. 96–32 substituted “apprehended under subsection (b) of this section or section 264 of this title” for “apprehended under section 256 or 264 of this title”.
 
@@ -104,7 +104,7 @@ Section 211(a)–(g) of Pub. L. 105–78 provided that:
 
 “(2) In the case of each individual who as of the date of the enactment of this Act \[Nov. 13, 1997\] is a Federal employee at the Center with facilities management or dietary duties, and who becomes an employee of the State pursuant to subsection (d)(6)(A):
 
-&emsp;“(A) The provisions of subchapter III of chapter 83 of title 5, United States Code, or of chapter 84 of such title, whichever are applicable, that relate to disability shall be considered to remain in effect with respect to the individual (subject to subparagraph (C)) until the earlier of—
+&emsp;“(A) The provisions of subchapter III of chapter 83 of title 5, United States Code, or of chapter 84 of suchtitle, whichever are applicable, that relate to disability shall be considered to remain in effect with respect to the individual (subject to subparagraph (C)) until the earlier of—
 
 &emsp;&emsp;“(i) the expiration of the 2-year period beginning on the date on which the transfer under subsection (b) is made; or
 
@@ -128,7 +128,7 @@ Section 211(a)–(g) of Pub. L. 105–78 provided that:
 
 &emsp;“(B) During calendar year 1997, any payment under subparagraph (A) shall be made under section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208) \[5 U.S.C. 5597 note\], except that, for purposes of this subparagraph, subsection (b) of such section 663 does not apply.
 
-&emsp;“(C) During calendar year 1998, such section 663 applies with respect to payments under subparagraph (A) to the same extent and in the same manner assuch section applied with respect to the payments during fiscal year 1997, and for purposes of this subparagraph, the reference in subsection (c)(2)(D) of such section 663 to December 31, 1997, is deemed to be a reference to December 31, 1998.
+&emsp;“(C) During calendar year 1998, such section 663 applies with respect to payments under subparagraph (A) to the same extent and in the same manner as such section applied with respect to the payments during fiscal year 1997, and for purposes of this subparagraph, the reference in subsection (c)(2)(D) of such section 663 to December 31, 1997, is deemed to be a reference to December 31, 1998.
 
 “(f) The following provisions apply if under subsection (a) the Secretary makes the decision to relocate the Center:
 
@@ -154,7 +154,7 @@ Section 211(a)–(g) of Pub. L. 105–78 provided that:
 
 &emsp;&emsp;“(i) The choice the patient makes under subparagraph (A) does not affect the responsibility of the Secretary for providing to the patient such care at or through the Center.
 
-&emsp;&emsp;“(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at or through the Center, the Secretary may reduce the amount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider of the care through the program under title XVIII of the Social Security Act \[section 1395 et seq. of this title\] or the program under title XIX of such Act \[section 1396 et seq. of this title\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
+&emsp;&emsp;“(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at orthrough the Center, the Secretary may reduce the amount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider of the care through the program under title XVIII of the Social Security Act \[section 1395 et seq. of this title\] or the program under title XIX of such Act \[section 1396 et seq. of this title\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
 
 &emsp;“(6) The Secretary shall provide to each eligible patient such information and time as may be necessary for the patient to make an informed decision regarding the options under paragraph (5)(A).
 

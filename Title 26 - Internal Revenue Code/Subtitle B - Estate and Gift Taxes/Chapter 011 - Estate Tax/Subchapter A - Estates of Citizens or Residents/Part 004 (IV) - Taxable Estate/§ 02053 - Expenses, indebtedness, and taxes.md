@@ -66,21 +66,49 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (B) Cross references
 
-&emsp;&emsp;<b>See section 2011(e) for the effect of a deduction taken under this subsection on the credit for State death taxes, and see section 2014(f) for the effect of a deduction taken under this subsection on the credit for foreign death taxes.</b>
+&emsp;&emsp;<b>See section 2011(d) for the effect of a deduction taken under this subsection on the credit for State death taxes, and see section 2014(f) for the effect of a deduction taken under this subsection on the credit for foreign death taxes.</b>
 
 #### (e) Marital rights
 
 &emsp;&emsp;<b>For provisions treating certain relinquishments of marital rights as consideration in money or money's worth, see section 2043(b)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 389; Feb. 20, 1956, ch. 63, §2, 70 Stat. 23; Pub. L. 85–866, title I, §102(c)(3), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §1, Aug. 21, 1959, 73 Stat. 396; Pub. L. 94–455, title XIX, §§1902(a)(12) (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 98–369, div. A, title IV, §425(a)(2), title X, §1027(b), July 18, 1984, 98 Stat. 804, 1031; Pub. L. 100–647, title I, §1011A(g)(11), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 105–34, title V, §503(b)(1), title X, §1073(b)(3), Aug. 5, 1997, 111 Stat. 853, 948.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 389; Feb. 20, 1956, ch. 63, §2, 70 Stat. 23; Pub. L. 85–866, title I, §102(c)(3), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §1, Aug. 21, 1959, 73 Stat. 396; Pub. L. 94–455, title XIX, §§1902(a)(12) (B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 98–369, div. A, title IV, §425(a)(2), title X, §1027(b), July 18, 1984, 98 Stat. 804, 1031; Pub. L. 100–647, title I, §1011A(g)(11), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 105–34, title V, §503(b)(1), title X, §1073(b)(3), Aug. 5, 1997, 111 Stat. 853, 948; Pub. L. 107–16, title V, §532(c)(5), June 7, 2001, 115 Stat. 74; Pub. L. 107–134, title I, §103(b)(2), Jan. 23, 2002, 115 Stat. 2431.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 107–16, title V, §532(c)(5), (d), title IX, §901, June 7, 2001, 115 Stat. 74, 75, 901, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (d) of this section is temporarily amended to read as follows:</i>
+
+#### <i>(d) Certain foreign death taxes</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>Notwithstanding the provisions of subsection (c)(1)(B), for purposes of the tax imposed by section 2001, the value of the taxable estate may be determined, if the executor so elects before the expiration of the period of limitation for assessment provided in section 6501, by deducting from the value of the gross estate the amount (as determined in accordance with regulations prescribed by the Secretary) of any estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country, in respect of any property situated within such foreign country and included in the gross estate of a citizen or resident of the United States, upon a transfer by the decedent for public, charitable, or religious uses described in section 2055. The determination under this paragraph of the country within which property is situated shall be made in accordance with the rules applicable under subchapter B (sec. 2101 and following) in determining whether property is situated within or without the United States. Any election under this paragraph shall be exercised in accordance with regulations prescribed by the Secretary.</i>
+
+#### <i>(2) Condition for allowance of deduction</i>
+
+&emsp;<i>No deduction shall be allowed under paragraph (1) for a foreign death tax specified therein unless the decrease in the tax imposed by section 2001 which results from the deduction provided in paragraph (1) will inure solely for the benefit of the public, charitable, or religious transferees described in section 2055 or section 2106(a)(2). In any case where the tax imposed by section 2001 is equitably apportioned among all the transferees of property included in the gross estate, including those described in sections 2055 and 2106(a)(2) (taking into account any exemptions, credits, or deductions allowed by this chapter), in determining such decrease, there shall be disregarded any decrease in the Federal estate tax which any transferees other than those described in sections 2055 and 2106(a)(2) are required to pay.</i>
+
+#### <i>(3) Effect on credit for foreign death taxes of deduction under this subsection</i>
+
+#### <i>(A) Election</i>
+
+&emsp;&emsp;<i>An election under this subsection shall be deemed a waiver of the right to claim a credit, against the Federal estate tax, under a death tax convention with any foreign country for any tax or portion thereof in respect of which a deduction is taken under this subsection.</i>
+
+#### <i>(B) Cross reference</i>
+
+&emsp;&emsp;<i>See section 2014(f) for the effect of a deduction taken under this paragraph on the credit for foreign death taxes.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2002</b>—Subsec. (d)(3)(B). Pub. L. 107–134 substituted “section 2011(d)” for “section 2011(e)”.
 
 <b>1997</b>—Subsec. (c)(1)(B). Pub. L. 105–34, §1073(b)(3), struck out at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
 
 Subsec. (c)(1)(D). Pub. L. 105–34, §503(b)(1), added subpar. (D).
 
-<b>1988</b>—Subsec. (c)(1)(B). Pub. L. 100–647, inserted at end “This subparagraph shall not apply to any increase inthe tax imposed by this chapter by reason of section 4980A(d).”
+<b>1988</b>—Subsec. (c)(1)(B). Pub. L. 100–647, inserted at end “This subparagraph shall not apply to any increase in the tax imposed by this chapter by reason of section 4980A(d).”
 
 <b>1984</b>—Subsec. (c)(1)(C). Pub. L. 98–369, §1027(b), added subpar. (C).
 
@@ -93,6 +121,16 @@ Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted “For provisions treati
 <b>1958</b>—Subsec. (d)(1). Pub. L. 85–866 struck out “or any possession of the United States,” after “District of Columbia,”.
 
 <b>1956</b>—Subsecs. (d), (e). Act Feb. 20, 1956, added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–134 applicable to estates of decedents dying on or after Sept. 11, 2001, and, in the case of individuals dying as a result of the Apr. 19, 1995, terrorist attack, dying on or after Apr. 19, 1995, with provisions relating to waiver of limitations, see section 103(d) of Pub. L. 107–134, set out as a note under section 2011 of this title.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment hadnever been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

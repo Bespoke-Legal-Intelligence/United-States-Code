@@ -178,7 +178,7 @@ The purposes of the Center shall be to—
 
 #### (B) Mandatory funds
 
-&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Center not to exceed $25,000,000 to carry out this section.
+&emsp;&emsp;Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall provide to the Center not to exceed $26,000,000 to carry out this section.
 
 #### (C) Additional funds
 
@@ -328,7 +328,7 @@ The purposes of the Center shall be to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) of this section if the Secretary determines that there has been a violation of this paragraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
+&emsp;&emsp;&emsp;The Secretary may vacate and remand to the Board for reconsideration any decision made pursuant to subsection (e)(3)(H) of this section if the Secretary determines that there has been a violation of thisparagraph or any conflict of interest provision of the bylaws of the Board with respect to the decision.
 
 #### (ii) Reasons
 
@@ -482,7 +482,7 @@ To carry out this section, the Board may consult with—
 
 &emsp;On the date the Secretary publishes notice in the Federal Register that the transition plan is complete, this section is repealed.
 
-(Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, §816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, §1(a) \[title VII, §756\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43.)
+(Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, §816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, §1(a) \[title VII, §756\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, §731, Nov. 28, 2001, 115 Stat. 736.)
 
 #### References in Text
 
@@ -490,11 +490,13 @@ This Act, referred to in subsec. (i)(2)(C), refers to the Agricultural Act of 19
 
 #### Amendments
 
+2001—Subsec. (e)(6)(B). Pub. L. 107–76 substituted “$26,000,000” for “$25,000,000”.
+
 2000—Subsec. (e)(6)(B). Pub. L. 106–387 substituted “$25,000,000” for “$20,000,000”.
 
 1999—Subsec. (a)(5). Pub. L. 106–78, §816(a), added par. (5).
 
-Subsec. (e)(3)(A). Pub. L. 106–78, §816(b)(1)(A), added subpar. (A) and struck out heading and text of formersubpar. (A). Text read as follows: “The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section.”
+Subsec. (e)(3)(A). Pub. L. 106–78, §816(b)(1)(A), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section.”
 
 Subsec. (e)(3)(B). Pub. L. 106–78, §816(b)(1)(B), inserted at end “The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.”
 

@@ -60,7 +60,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 &emsp;&emsp;&emsp;(iv) a failure to remove architectural barriers, and communication barriers that are structural in nature, in existing facilities, and transportation barriers in existing vehicles and rail passenger cars used by an establishment for transporting individuals (not including barriers that can only be removed through the retrofitting of vehicles or rail passenger cars by the installation of a hydraulic or other lift), where such removal is readily achievable; and
 
-&emsp;&emsp;&emsp;(v) where an entity can demonstrate that the removal of a barrier under clause (iv) is not readily achievable, a failure to make such goods, services, facilities, privileges, advantages, or accommodations available through alternative methods if such methods are readily achievable.
+&emsp;&emsp;&emsp;(v) where an entity can demonstrate that the removal of a barrier under clause (iv) is not readily achievable, a failure to make such goods, services, facilities, privileges, advantages, or accommodations availablethrough alternative methods if such methods are readily achievable.
 
 #### (B) Fixed route system
 

@@ -26,7 +26,7 @@ The Congress makes the following findings and declarations:
 
 #### References in Text
 
-This subchapter, referred to in par. (1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
+This subchapter, referred to in par. (1), was in the original “this title”, meaning title II of Pub. L. 91–513,Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
 
 #### Effective Date
 
@@ -48,7 +48,7 @@ Pub. L. 106–172, §1, Feb. 18, 2000, 114 Stat. 7, provided that: “This Act \
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–277, div. C, title VIII, §801(a), Oct. 21, 1998, 112 Stat. 2681–693, provided that: “This title \[enactingsection 1713 of this title and section 2291–5 of Title 22, Foreign Relations and Intercourse, amending section 956 of this title, and enacting provisions set out as notes under sections 801 and 956 of this title and section 2291 of Title 22\] may be cited as the ‘Western Hemisphere Drug Elimination Act’.”
+Pub. L. 105–277, div. C, title VIII, §801(a), Oct. 21, 1998, 112 Stat. 2681–693, provided that: “This title \[enacting section 1713 of this title and section 2291–5 of Title 22, Foreign Relations and Intercourse, amending section 956 of this title, and enacting provisions set out as notes under sections 801 and 956 of this title and section 2291 of Title 22\] may be cited as the ‘Western Hemisphere Drug Elimination Act’.”
 
 Pub. L. 105–277, div. C, title VIII, subtitle G (§§871, 872), §871, Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, §1, Nov. 10, 1998, 112 Stat. 3271, provided that such subtitle and such Act, which amended section 956 of this title and enacted provisions set out as notes under section 956 of this title “may be cited as the ‘Controlled Substances Trafficking Prohibition Act’.”
 
@@ -104,7 +104,7 @@ Pub. L. 99–570, title I, §1991, Oct. 27, 1986, 100 Stat. 3207–59, provided 
 
 Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
 
-Pub. L. 98–473, title II, §506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part \[part B of chapter V\(§§506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title\] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
+Pub. L. 98–473, title II, §506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part \[part B of chapter V (§§506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title\] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
 
 #### Short Title of 1978 Amendment
 
@@ -352,7 +352,7 @@ Demonstration Projects.—
 
 &emsp;“(2) The Attorney General may not under this subsection make a grant or enter into a contract unless the applicant for such assistance agrees to comply with the guidelines issued pursuant to subsection (d).
 
-&emsp;“(3) The Attorney General shall, through grant or contract, provide for independent evaluations of the activities carried out pursuant to this subsection and shall recommend appropriate legislation to the Congress.
+&emsp;“(3) The Attorney General shall, through grant or contract, provide for independent evaluations of theactivities carried out pursuant to this subsection and shall recommend appropriate legislation to the Congress.
 
 “(f)
 
@@ -460,7 +460,7 @@ Amounts authorized.—There are authorized to be appropriated, in addition to an
 
 &emsp;“(3)
 
-Coast guard-bahamas drug interdiction docking facility.—(A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987, $5,000,000, to be used for initial design engineering,and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
+Coast guard-bahamas drug interdiction docking facility.—(A) There is authorized to be appropriated for acquisition, construction, and improvements for the Coast Guard for fiscal year 1987, $5,000,000, to be used for initial design engineering, and other activities for construction of a drug interdiction docking facility in the Bahamas to facilitate Coast Guard and Bahamian drug interdiction operations in and through the Bahama Islands. Of the amounts authorized to be appropriated in this subsection, such sums as may be necessary shall be available for necessary communication and air support.
 
 &emsp;“(B) The Commandant of the Coast Guard shall use such amounts appropriated pursuant to the authorization in this paragraph as may be necessary to establish a repair, maintenance, and boat lift facility to provide repair and maintenance services for both Coast Guard and Bahamian marine drug interdiction equipment, vessels, and related assets.
 
@@ -516,7 +516,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 “(a)
 
-\[Establishment; composition\] There is established a commission to be known as the Commission on Marihuana and Drug Abuse (hereafter in this section referred to as the ‘Commission’). The Commission shall be composed of—
+\[Establishment; composition\] There is established a commission to be known as the Commission onMarihuana and Drug Abuse (hereafter in this section referred to as the ‘Commission’). The Commission shall be composed of—
 
 &emsp;“(1) two Members of the Senate appointed by the President of the Senate;
 
@@ -590,7 +590,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 Section 1. The Attorney General, to the extent permitted by law, is authorized to coordinate all activities of executive branch departments and agencies which are directly related to the enforcement of laws respecting narcotics and dangerous drugs. Each department and agency of the Federal Government shall, upon request and to the extent permitted by law, assist the Attorney General in the performance of functions assigned to him pursuant to this order, and the Attorney General may, in carrying out those functions, utilize the services of any other agencies, Federal and State, as may be available and appropriate.
 
-Sec. 2. Executive Order No. 11641 of January 28, 1972, is revoked and the Attorney General shall provide for the reassignment of the functions of the Office for Drug Abuse Law Enforcement and for the abolishment of that Office.
+Sec. 2. Executive Order No. 11641 of January 28, 1972, is revoked and the Attorney General shall provide forthe reassignment of the functions of the Office for Drug Abuse Law Enforcement and for the abolishment of that Office.
 
 Sec. 3. Executive Order No. 11676 of July 27, 1972, is hereby revoked and the Attorney General shall provide for the reassignment of the functions of the Office of National Narcotics Intelligence and for the abolishment of that Office.
 

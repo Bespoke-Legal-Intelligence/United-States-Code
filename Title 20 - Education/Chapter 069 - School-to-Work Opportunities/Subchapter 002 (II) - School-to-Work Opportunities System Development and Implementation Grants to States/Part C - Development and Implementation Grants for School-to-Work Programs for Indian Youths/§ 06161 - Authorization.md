@@ -16,7 +16,7 @@ The Secretaries may carry out subsection (a) of this section through such means 
 
 #### References in Text
 
-Section 2019(3) of title 25, referred to in subsec. (a), was in the original a reference to section 1139(3) of the Education Amendments of 1978, meaning section 1139(3) of Pub. L. 95–561. Section 1139 of that Act was omitted in the general amendment of chapter 22 of Title 25, Indians, by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979. Pub. L. 103–382 enacted a new section 1139, relating to regulations, which does not contain pars., and which is classified to section 2019 of Title 25. For provisions relating to definitions, see section 2026 of Title 25.
+Section 2019(3) of title 25, referred to in subsec. (a), was omitted in the general amendment of chapter 22 (§2001 et seq.) of Title 25, Indians, by Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979.
 
 #### Section Referred to in Other Sections
 

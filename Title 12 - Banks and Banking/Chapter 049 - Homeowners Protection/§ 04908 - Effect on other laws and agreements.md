@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;With respect to any residential mortgage or residential mortgage transaction consummated after the effective date of this chapter, and except as provided in paragraph (2), the provisions of this chapter shall supersede any provisions of the law of any State relating to requirements for obtaining or maintaining private mortgage insurance in connection with residential mortgage transactions, cancellation or automatic termination of such private mortgage insurance, any disclosure of information addressed by this chapter, and any other matter specifically addressed by this chapter.
+&emsp;With respect to any residential mortgage or residential mortgage transaction consummated after the effective date of this chapter, and except as provided in paragraph (2), the provisions of this chapter shall supersede any provisions of the law of any State relating to requirements for obtaining or maintaining private mortgage insurance in connectionwith residential mortgage transactions, cancellation or automatic termination of such private mortgage insurance, any disclosure of information addressed by this chapter, and any other matter specifically addressed by this chapter.
 
 #### (2) Protection of existing State laws
 

@@ -14,7 +14,7 @@ In General.—(1) For purposes of this section and any other provision of law, a
 
 (b)
 
-Priority for Management of Military Technicians (Dual Status).—(1) As a basis for making the annual request to Congress pursuant to section 115(g) of this title for authorization of end strengths for military technicians (dual status) of the Army and Air Force reserve components, the Secretary of Defense shall give priority to supporting authorizations for military technicians (dual status) in the following high-priority units and organizations:
+Priority for Management of Military Technicians (Dual Status).—(1) As a basis for making the annual request to Congress pursuant to section 115(g) of this title for authorization of end strengths for military technicians (dual status) of the Army and Air Force reserve components, the Secretary of Defense shall give priority to supporting authorizations for militarytechnicians (dual status) in the following high-priority units and organizations:
 
 &emsp;(A) Units of the Selected Reserve that are scheduled to deploy no later than 90 days after mobilization.
 
@@ -38,7 +38,7 @@ Information Required To Be Submitted With Annual End Strength Authorization Requ
 
 &emsp;(D) The number of technicians other than military technicians (dual status) in other than high priority units and organizations specified in subsection (b)(1).
 
-(2)(A) If the budget submitted to Congress for any fiscal year requests authorization for that fiscal year under section 115(g) of this title of a military technician (dual status) end strength for a reserve component of the Army or AirForce in a number that constitutes a reduction from the end strength minimum established by law for that reserve component for the fiscal year during which the budget is submitted, the Secretary of Defense shall submit to the congressional defense committees with that budget a justification providing the basis for that requested reduction in technician end strength.
+(2)(A) If the budget submitted to Congress for any fiscal year requests authorization for that fiscal year under section 115(g) of this title of a military technician (dual status) end strength for a reserve component of the Army or Air Force in a number that constitutes a reduction from the end strength minimum established by law for that reserve component for the fiscal year during which the budget is submitted, the Secretary of Defense shall submit to the congressional defense committees with that budget a justification providing the basis for that requested reduction in technician end strength.
 
 (B) Any justification submitted under subparagraph (A) shall clearly delineate the specific force structure reductions forming the basis for such requested technician reduction (and the numbers related to those reductions).
 

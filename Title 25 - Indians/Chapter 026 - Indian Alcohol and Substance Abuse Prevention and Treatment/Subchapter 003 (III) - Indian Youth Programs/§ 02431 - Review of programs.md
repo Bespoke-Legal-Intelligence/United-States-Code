@@ -18,7 +18,7 @@ In the development of the Memorandum of Agreement required by section 2411 of th
 
 #### (b) Publication
 
-The results of the review conducted under subsection (a) of this section shall be provided to each Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under section 2412 of this title.
+The results of the review conducted under subsection (a) of this section shall be provided toeach Indian tribe as soon as possible for their consideration and use in the development or modification of a Tribal Action Plan under section 2412 of this title.
 
 (Pub. L. 99–570, title IV, §4211, Oct. 27, 1986, 100 Stat. 3207–143.)
 

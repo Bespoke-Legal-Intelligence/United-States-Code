@@ -22,7 +22,7 @@ The President's Information Technology Advisory Committee (established pursuant 
 
 &emsp;&emsp;&emsp;(i) geographic penalties (as defined in section 7(1) of the Next Generation Internet Research Act of 1998); <sup>1</sup>
 
-&emsp;&emsp;&emsp;(ii) the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) andthe degree of participation of those institutions in activities described in subsection (a) of this section; and
+&emsp;&emsp;&emsp;(ii) the adequacy of access to the Internet by Historically Black Colleges and Universities, Hispanic Serving Institutions, and small colleges and universities (whose enrollment is less than 5,000) and the degree of participation of those institutions in activities described in subsection (a) of this section; and
 
 &emsp;&emsp;&emsp;(iii) technology transfer to and from the private sector;
 

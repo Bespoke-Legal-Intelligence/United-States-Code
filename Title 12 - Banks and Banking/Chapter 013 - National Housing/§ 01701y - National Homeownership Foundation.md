@@ -8,7 +8,7 @@
 
 &emsp;(B) encouraging the establishment of programs of assistance and counseling to lower income families to enable them better to achieve and afford adequate housing;
 
-&emsp;(C) providing a broad range of technical assistance through publications and advisory services to public and private organizationswhich are carrying out, or are desirous of carrying out, programs to expand homeownership and housing opportunities for lower income families; and
+&emsp;(C) providing a broad range of technical assistance through publications and advisory services to public and private organizations which are carrying out, or are desirous of carrying out, programs to expand homeownership and housing opportunities for lower income families; and
 
 &emsp;(D) providing grants and loans to public and private organizations carrying out homeownership and housing opportunity programs for lower income families to help cover some of the expenses of such programs.
 
@@ -42,7 +42,7 @@
 
 &emsp;(A) carry out a continuing program of encouraging private and public organizations at the national, community, and neighborhood levels in the establishment of such programs;
 
-&emsp;(B) assist in the formation of organizations the purpose of which is the development and carrying out of such programs, including the establishment of local development funds forfinancing housing for lower income families through the pooling of moneys from private sources;
+&emsp;(B) assist in the formation of organizations the purpose of which is the development and carrying out of such programs, including the establishment of local development funds for financing housing for lower income families through the pooling of moneys from private sources;
 
 &emsp;(C) identify and arrange for the technical and managerial assistance and personnel needed for the successful operation of such programs by public and private organizations;
 
@@ -86,7 +86,7 @@ The Foundation shall coordinate its activities and consult with the Department o
 
 (1) The financial transactions of the Foundation shall be audited by the General Accounting Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the General Accounting Office shall have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Foundation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. The audit shall cover the fiscal year corresponding to that of the United States Government.
 
-(2) A report of each such audit shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital, and surplus or deficit; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the Congress informed of the operations and financial condition of the Foundation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking, observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President and to the Foundation at the time submitted to the Congress.
+(2) A report of each such audit shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital, and surplus or deficit; a statement of sources and application of funds; and suchcomments and information as may be deemed necessary to keep the Congress informed of the operations and financial condition of the Foundation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking, observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President and to the Foundation at the time submitted to the Congress.
 
 #### (h) Deposit of funds of Foundation
 

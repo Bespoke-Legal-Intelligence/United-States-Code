@@ -18,11 +18,14 @@
 | [6425\.](%C2%A7%2006425%20-%20Adjustment%20of%20overpayment%20of%20estimated%20income%20tax%20by%20corporation.md) | Adjustment of overpayment of estimated income tax by corporation. |
 | \[6426. | Repealed.\] |
 | [6427\.](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md) | Fuels not used for taxable purposes. |
-| \[6428 to 6430. Repealed.\] |  |
+| [6428\.](%C2%A7%2006428%20-%20Acceleration%20of%2010%20percent%20income%20tax%20rate%20bracket%20benefit%20for%202001.md) | Acceleration of 10 percent income tax rate bracket benefit for 2001. |
+| \[6429, 6430. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title I, §101(b)(2), June 7, 2001, 115 Stat. 43, added item 6428.
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(15), (c)(22)(B)(ii), Nov. 5, 1990, 104 Stat. 1388–522, 1388–528, struck out item 6418 “Sugar” and item 6428 “1981 rate reduction tax credit”.
 
@@ -84,5 +87,5 @@ Act Apr. 2, 1956, ch. 160, §4(c), 70 Stat. 91, added item 6420 and renumbered f
 - [&sect; 06425 - Adjustment of overpayment of estimated income tax by corporation](%C2%A7%2006425%20-%20Adjustment%20of%20overpayment%20of%20estimated%20income%20tax%20by%20corporation.md)
 - [&sect; 06426 - Repealed. Pub. L. 97&#8211;248, title II, &sect;280(c)(2)(G), Sept. 3, 1982, 96 Stat. 564](%C2%A7%2006426%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93248%2C%20title%20II%2C%20%C2%A7280%28c%29%282%29%28G%29%2C%20Sept.%203%2C%201982%2C%2096%20Stat.%20564.md)
 - [&sect; 06427 - Fuels not used for taxable purposes](%C2%A7%2006427%20-%20Fuels%20not%20used%20for%20taxable%20purposes.md)
-- [&sect; 06428 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(a)(47), Nov. 5, 1990, 104 Stat. 1388&#8211;522](%C2%A7%2006428%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28a%29%2847%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93522.md)
+- [&sect; 06428 - Acceleration of 10 percent income tax rate bracket benefit for 2001](%C2%A7%2006428%20-%20Acceleration%20of%2010%20percent%20income%20tax%20rate%20bracket%20benefit%20for%202001.md)
 - [&sect; 06429, 6430 - Repealed. Pub. L. 100&#8211;418, title I, &sect;1941(b)(1), Aug. 23, 1988, 102 Stat. 1323](%C2%A7%2006429%2C%206430%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20I%2C%20%C2%A71941%28b%29%281%29%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201323.md)

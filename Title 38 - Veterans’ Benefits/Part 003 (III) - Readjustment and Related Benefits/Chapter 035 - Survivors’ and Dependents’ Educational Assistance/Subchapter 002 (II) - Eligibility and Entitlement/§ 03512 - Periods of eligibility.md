@@ -10,11 +10,11 @@
 
 &emsp;&emsp;(A) the Secretary approves that beginning date;
 
-&emsp;&emsp;(B) the eligible person makes that election after the person's eighteenth birthday but before the person's twenty-sixth birthday; and
+&emsp;&emsp;(B) the eligible person elects that beginning date by not later than the end of the 60-day period beginning on the date on whichthe Secretary provides written notice to that person of that person's opportunity to make such election, such notice including a statement of the deadline for the election imposed under this subparagraph; and
 
 &emsp;&emsp;(C) that beginning date—
 
-&emsp;&emsp;&emsp;(i) in the case of a person whose eligibility is based on a parent who has a service-connected total disability permanent in nature, is between the dates described in subsection (d); and
+&emsp;&emsp;&emsp;(i) in the case of a person whose eligibility is based on a parent who has a service-connected total disability permanent in nature, is the date determined pursuant to subsection (d); and
 
 &emsp;&emsp;&emsp;(ii) in the case of a person whose eligibility is based on the death of a parent, is between—
 
@@ -24,7 +24,7 @@
 
 &emsp;(4) if the person serves on duty with the Armed Forces as an eligible person after the person's eighteenth birthday but before the person's twenty-sixth birthday, then such period shall end 8 years after the person's first discharge or release from such duty with the Armed Forces (excluding from such 8 years all periods during which the eligible person served on active duty before August 1, 1962, pursuant to (A) a call or order thereto issued to the person as a Reserve after July 30, 1961, or (B) an extension of enlistment, appointment, or period of duty with the Armed Forces pursuant to section 2 of Public Law 87–117); however, in no event shall such period be extended beyond the person's thirty-first birthday by reason of this paragraph;
 
-&emsp;(5) if the person becomes eligible by reason of the provisions of section 3501(a)(1)(A)(iii) of this title after the person's eighteenth birthday but before the person's twenty-sixth birthday, then (unless clause (4) of this subsection applies) such period shall end eight years after the date on which the person becomes eligible by reason of such provisions, but in no event shall such period be extended beyond the person's thirty-first birthday by reason of this clause;
+&emsp;(5) if the person becomes eligible by reason of the provisions of section 3501(a)(1)(A)(iii) of this title after the person's eighteenth birthday but before the person's twenty-sixth birthday, then (unless paragraph (4) applies) such period shall end eight years after the date on which the person becomes eligible by reason of such provisions, but in no event shall such period be extended beyond the person's thirty-first birthday by reason of this clause;
 
 &emsp;(6)(A) if such person is enrolled in an educational institution regularly operated on the quarter or semester system and such period ends during a quarter or semester, such period shall be extended to the end of the quarter or semester; or
 
@@ -32,21 +32,17 @@
 
 &emsp;(7) if the person is pursuing a preparatory course described in section 3002(3)(B) of this title, such period may begin on the date that is the first day of such course pursuit, notwithstanding that such date may be before the person's eighteenth birthday, except that in no case may such person be afforded educational assistance under this chapter for pursuit of secondary schooling unless such course pursuit would otherwise be authorized under this subsection.
 
-(b)(1) No person made eligible by section 3501(a)(1)(B) or (D) of this title may be afforded educational assistance under this chapter beyond 10 years after whichever of the following last occurs:
+(b)(1)(A) Except as provided in subparagraph (B), a person made eligible by subparagraph (B) or (D) of section 3501(a)(1) of this title may be afforded educational assistance under this chapter during the 10-year period beginning on the date (as determined by the Secretary) the person becomes an eligible person within the meaning of section 3501(a)(1)(B), 3501(a)(1)(D)(i), or 3501(a)(1)(D)(ii) of this title. In the case of a surviving spouse made eligible by clause (ii) of section 3501(a)(1)(D) of this title, the 10-year period may not be reduced by any earlier period during which the person was eligible for educational assistance under this chapter as a spouse made eligible by clause (i) of that section.
 
-&emsp;(A) The date on which the Secretary first finds the spouse from whom eligibility is derived has a service-connected total disability permanent in nature.
+(B) Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph may, subject to the Secretary's approval, elect a later beginning date for the 10-year period than would otherwise be applicable to the person under that subparagraph. The beginning date so elected may be any date between the beginning date determined for the person under subparagraph (A) and whichever of the following dates applies:
 
-&emsp;(B) The date of death of the spouse from whom eligibility is derived who dies while a total disability evaluated as permanent in nature was in existence.
+&emsp;(i) The date on which the Secretary notifies the veteran from whom eligibility is derived that the veteran has a service-connected total disability permanent in nature.
 
-&emsp;(C) The date on which the Secretary determines that the spouse from whom eligibility is derived died of a service-connected disability.
+&emsp;(ii) The date on which the Secretary determines that the veteran from whom eligibility is derived died of a service-connected disability.
 
 (2) Notwithstanding the provisions of paragraph (1) of this subsection, in the case of any eligible person (as defined in section 3501(a)(1)(B), (C), or (D) of this title) who was prevented from initiating or completing such person's chosen program of education within such period because of a physical or mental disability which was not the result of such person's own willful misconduct, such person shall, upon application made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of mental or physical disability, or (C) October 1, 1980, whichever is the latest, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such person was so prevented from initiating or completing such program of education. When an extension of the applicable delimiting period is granted under the exception in the preceding sentence, the delimiting period will again begin running on the first day following such eligible person's recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations which the Secretary shall prescribe, for such eligible person to initiate or resume pursuit of a program of education with educational assistance under this chapter.
 
-(3)(A) Notwithstanding the provisions of paragraph (1) of this subsection, any eligible person (as defined in clause (B) or (D) of section 3501(a)(1) of this title) may, subject to the approval of the Secretary, be permitted to elect a date referred to in subparagraph (B) of this paragraph to commence receiving educational assistance benefits under this chapter. The date so elected shall be the beginning date of the delimiting period applicable to such person under this section.
-
-(B) The date which an eligible person may elect under subparagraph (A) of this paragraph is any date during the period beginning on thedate the person became an eligible person within the meaning of clause (B) or (D) of section 3501(a)(1) of this title and ending on the date determined under subparagraph (A), (B), or (C) of paragraph (1) of this subsection to be applicable to such person.
-
-(c) Notwithstanding the provisions of subsection (a) of this section, an eligible person may be afforded educational assistance beyond the age limitation applicable to such person under such subsection if (1) such person suspends pursuit of such person's program of education after having enrolled in such program within the time period applicable to such person under such subsection, (2) such person is unable to complete such program after the period of suspension and before attaining the age limitation applicable to such person under such subsection, and (3) the Secretary finds that the suspension was due to conditions beyond the control of such person; but in no event shall educational assistance be afforded such person by reason of this subsection beyond the age limitation applicable to such person under subsection (a) of this section plus a period of time equal to the period such person was required to suspend the pursuit of such person's program, or beyond such person's thirty-first birthday, whichever is earlier.
+(c) Notwithstanding the provisions of subsection (a) of this section, an eligible person may be afforded educational assistance beyond the age limitation applicable to such person under such subsection if (1) such person suspends pursuit of such person's program of education after having enrolled in such program within the time period applicable to such person under such subsection, (2) such person is unable to complete such program after the period of suspension and before attaining the age limitationapplicable to such person under such subsection, and (3) the Secretary finds that the suspension was due to conditions beyond the control of such person; but in no event shall educational assistance be afforded such person by reason of this subsection beyond the age limitation applicable to such person under subsection (a) of this section plus a period of time equal to the period such person was required to suspend the pursuit of such person's program, or beyond such person's thirty-first birthday, whichever is earlier.
 
 (d) The term “first finds” as used in this section means the effective date of the rating or date of notification to the veteran from whom eligibility is derived establishing a service-connected total disability permanent in nature whichever is more advantageous to the eligible person.
 
@@ -54,15 +50,43 @@
 
 (f) Any eligible person (as defined in section 3501(a)(1)(B), (C), or (D) of this chapter) shall be entitled to an additional period of eligibility for an education loan under subchapter III of chapter 36 of this title beyond the maximum period provided for in this section pursuant to the same terms and conditions set forth with respect to an eligible veteran in section 3462(a)(2) of this title.
 
-(g) Any entitlement used by any eligible person as a result of eligibility under the provisions of section 3501(a)(1)(A)(iii) or 3501(a)(1)(C) of this title shall be deducted from any entitlement to which such person may subsequently become entitled under the provisions of this chapter.
+\[(g) Repealed. Pub. L. 107–103, title I, §108(b)(2), Dec. 27, 2001, 115 Stat. 985.\]
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1712; Pub. L. 87–815, §2(a), Oct. 15, 1962, 76 Stat. 926; Pub. L. 87–819, §2, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–361, §3, July 7, 1964, 78 Stat. 297; Pub. L. 90–77, title III, §307(a), Aug. 31, 1967, 81 Stat. 189; Pub. L. 90–631, §2(e), Oct. 23, 1968, 82 Stat. 1333; Pub. L. 91–219, title II, §208, Mar. 26, 1970, 84 Stat. 83; Pub. L. 91–584, §3, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title IV, §402(1), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 93–337, §2, July 10, 1974, 88 Stat. 292; Pub. L. 94–502, title III, §§304, 310(7)–(9), Oct. 15, 1976, 90 Stat. 2390, 2391; Pub. L. 95–202, title II, §203(a)(2), (b)(2), Nov. 23, 1977, 91 Stat. 1439, 1440; Pub. L. 96–466, title III, §§321, 322, Oct. 17, 1980, 94 Stat. 2195; Pub. L. 97–66, title VI, §605(a), Oct. 17, 1981, 95 Stat. 1036; Pub. L. 97–295, §4(44), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 98–160, title VII, §702(13), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title III, §313, Oct. 28, 1986, 100 Stat. 3273; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3512 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–419, title I, §§112, 114(b), Nov. 1, 2000, 114 Stat. 1831, 1833.)
+(h) Notwithstanding any other provision of this section, if an eligible person, during the delimiting period otherwise applicable to such person under this section, serves on active duty pursuant to an order to active duty issued under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, such person shall be granted an extension of such delimiting period for the length of time equal to the period of such active duty plus four months.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1712; Pub. L. 87–815, §2(a), Oct. 15, 1962, 76 Stat. 926; Pub. L. 87–819, §2, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–361, §3, July 7, 1964, 78 Stat. 297; Pub. L. 90–77, title III, §307(a), Aug. 31, 1967, 81 Stat. 189; Pub. L. 90–631, §2(e), Oct. 23, 1968, 82 Stat. 1333; Pub. L. 91–219, title II, §208, Mar. 26, 1970, 84 Stat. 83; Pub. L. 91–584, §3, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title IV, §402(1), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 93–337, §2, July 10, 1974, 88 Stat. 292; Pub. L. 94–502, title III, §§304, 310(7)–(9), Oct. 15, 1976, 90 Stat. 2390, 2391; Pub. L. 95–202, title II, §203(a)(2), (b)(2), Nov. 23, 1977, 91 Stat. 1439, 1440; Pub. L. 96–466, title III, §§321, 322, Oct. 17, 1980, 94 Stat. 2195; Pub. L. 97–66, title VI, §605(a), Oct. 17, 1981, 95 Stat. 1036; Pub. L. 97–295, §4(44), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 98–160, title VII, §702(13), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 99–576, title III, §313, Oct. 28, 1986, 100 Stat. 3273; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3512 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–419, title I, §§112, 114(b), Nov. 1, 2000, 114 Stat. 1831, 1833; Pub. L. 107–14, §§7(f)(1), 8(a)(6), June 5, 2001, 115 Stat. 33, 34; Pub. L. 107–103, title I, §§103(b), 108(b)(2), (c)(2), (3), Dec. 27, 2001, 115 Stat. 979, 985.)
 
 #### References in Text
 
 Section 2 of Public Law 87–117 \[75 Stat. 242\], referred to in subsec. (a)(4), was set out as a note under former section 263 of Title 10, Armed Forces.
 
 #### Amendments
+
+2001—Subsec. (a)(3)(B). Pub. L. 107–14, §7(f)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the eligible person makes that election after the person's eighteenth birthday but before the person's twenty-sixth birthday; and”.
+
+Subsec. (a)(3)(C)(i). Pub. L. 107–14, §7(f)(1)(B), substituted “the date determined pursuant to” for “between the dates described in”.
+
+Subsec. (a)(5). Pub. L. 107–14, §8(a)(6)(A), substituted “paragraph (4)” for “clause (4) of this subsection”.
+
+Subsec. (b)(1). Pub. L. 107–103, §108(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No person made eligible by section 3501(a)(1)(B) or (D) of this title may be afforded educational assistance under this chapter beyond 10 years after whichever of the following last occurs:
+
+&emsp;“(A) The date on which the Secretary first finds the spouse from whom eligibility is derived has a service-connected total disability permanent in nature.
+
+&emsp;“(B) The date of death of the spouse from whom eligibility is derived who dies while a total disability evaluated as permanent in nature was in existence.
+
+&emsp;“(C) The date on which the Secretary determines that the spouse from whom eligibility is derived died of a service-connected disability.”
+
+Subsec. (b)(2). Pub. L. 107–14, §8(a)(6)(B), substituted “willful” for “willfull”.
+
+Subsec. (b)(3). Pub. L. 107–103, §108(c)(3), struck out par. (3) which read as follows:
+
+“(3)(A) Notwithstanding the provisions of paragraph (1) of this subsection, any eligible person (as defined in clause (B) or (D) of section 3501(a)(1) of this title) may, subject to the approval of the Secretary, be permitted to elect a date referred to in subparagraph (B) of this paragraph to commence receiving educational assistance benefits under this chapter. The date so elected shall be the beginning date of the delimiting period applicable to such person under this section.
+
+“(B) The date which an eligible person may elect under subparagraph (A) of this paragraph is any date during the period beginning on the date the person became an eligible person within the meaning of clause (B) or (D) of section 3501(a)(1) of this title and ending on the date determined under subparagraph (A), (B), or (C) of paragraph (1) of this subsection to be applicable to such person.”
+
+Subsec. (g). Pub. L. 107–103, §108(b)(2), struck out subsec. (g) which read as follows: “Any entitlement used by any eligible person as a result of eligibility under the provisions of section 3501(a)(1)(A)(iii) or 3501(a)(1)(C) of this title shall be deducted from any entitlement to which such person may subsequently become entitled under the provisions of this chapter.”
+
+Subsec. (h). Pub. L. 107–103, §103(b), added subsec. (h).
 
 2000—Subsec. (a)(3). Pub. L. 106–419, §112, substituted “8 years after the date that is elected by that person to be the beginning date of entitlement under section 3511 of this title or subchapter V of this chapter if—” and subpars. (A) to (C) for “8 years after, whichever date last occurs: (A) the date on which the Secretary first finds that the parent from whom eligibility is derived has a service-connected total disability permanent in nature, or (B) the date of death of the parent from whom eligibility is derived;”.
 
@@ -96,7 +120,7 @@ Subsec. (e). Pub. L. 97–295, §4(44)(C), substituted “December 24, 1970” f
 
 1980—Subsec. (a)(5), (6). Pub. L. 96–466, §321, added cl. (5) and redesignated former cl. (5) as (6).
 
-Subsec. (b)(2). Pub. L. 96–466, §322, inserted “made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of mental or physical disability, or (C) the effective date of the Veterans’ Rehabilitation and Education Amendments of 1980, whichever isthe latest” after “application”, inserted “so” after “that such veteran was”, and inserted provision relating to the running of the delimiting period when an extension of the applicable delimiting period is granted an eligible person.
+Subsec. (b)(2). Pub. L. 96–466, §322, inserted “made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of mental or physical disability, or (C) the effective date of the Veterans’ Rehabilitation and Education Amendments of 1980, whichever is the latest” after “application”, inserted “so” after “that such veteran was”, and inserted provision relating to the running of the delimiting period when an extension of the applicable delimiting period is granted an eligible person.
 
 1977—Subsec. (b). Pub. L. 95–202, §203(a)(2), designated existing provisions as par. (1) and former cls. (1) and (2) thereof as cls. (A) and (B), and added par. (2).
 
@@ -140,6 +164,14 @@ Subsec. (d). Pub. L. 88–361, §3(b), added subsec. (d).
 
 Subsec. (c). Pub. L. 87–819 added subsec. (c).
 
+#### Effective Date of 2001 Amendments
+
+Amendment by section 103(b) of Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of Pub. L. 107–103, set out as a note under section 3013 of this title.
+
+Amendment by section 108(c)(2), (3) of Pub. L. 107–103 applicable with respect to any determination, whether administrative or judicial, of the eligibility of a spouse or surviving spouse for educational assistance under this chapter made on or after Dec. 27, 2001, whether pursuant to an original claim for such assistance or pursuant to a reapplication or attempt to reopen or readjudicate a claim for such assistance, see section 108(c)(4) of Pub. L. 107–103, set out as a note under section 3511 of this title.
+
+Pub. L. 107–14, §7(f)(2), June 5, 2001, 115 Stat. 34, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on November 1, 2000, immediately after the enactment of the Veterans Benefits and Health Care Improvement Act of 2000 \[Public Law 106–419\].”
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set out as a note under section 1114 of this title.
@@ -170,7 +202,7 @@ Section 604 of Pub. L. 92–540, as amended by Pub. L. 93–337, §3, July 10, 1
 
 #### Commencement of Delimiting Period in Cases of Death or of Service-Connected Total Disability Permanent in Nature Occurring Before December 1, 1968
 
-Section 2(f) of Pub. L. 90–631, as amended Pub. L. 97–66, title VI, §605(b), Oct. 17, 1981, 95 Stat. 1036, provided that in the case of any person who was an eligible person by reason of section 1701(a)(1)(B) or (D) \[now 3501(a)(1)(B) or (D)\] of this title, if the date of death or the date of the determination of service-connected total disability permanent in nature of the person from whom eligibility was derived occurred before Dec. 1, 1968, the 10-year delimiting period referred to in subsec. (b)(1) of this section was to run from such date and provided that if the death of the person from whom such eligibility was derived occurred before Dec. 1, 1968, and the date on which the Administrator of Veterans’ Affairs determined that such person died of a service-connected disability was later than Dec. 1, 1968, the delimiting period referred to in subsec. (b)(1) of this sectionwas to run from the date on which the Administrator made such determination.
+Section 2(f) of Pub. L. 90–631, as amended Pub. L. 97–66, title VI, §605(b), Oct. 17, 1981, 95 Stat. 1036, provided that in the case of any person who was an eligible person by reason of section 1701(a)(1)(B) or (D) \[now 3501(a)(1)(B) or (D)\] of this title, if the date of death or the date of the determination of service-connected total disability permanent in nature of the person from whom eligibility was derived occurred before Dec. 1, 1968, the 10-year delimiting period referred to in subsec. (b)(1) of this section was to run from such date and provided that if the death of the person from whom such eligibility was derived occurred before Dec. 1, 1968, and the date on which the Administrator of Veterans’ Affairs determined that such person died of a service-connected disability was later than Dec. 1, 1968, the delimiting period referred to in subsec. (b)(1) of this section was to run from the date on which the Administrator made such determination.
 
 #### Termination of Eligibility Periods
 

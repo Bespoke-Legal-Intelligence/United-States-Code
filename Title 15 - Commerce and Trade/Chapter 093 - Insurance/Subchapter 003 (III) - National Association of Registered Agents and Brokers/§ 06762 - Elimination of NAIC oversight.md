@@ -38,13 +38,13 @@ If the repeals required by subsection (a) of this section are implemented, the f
 
 #### (c) Annual report
 
-As soon as practicable after the close of each fiscal year, the Association shall submit to the President and to the Congress a written report relative to the conduct of its business, and the exercise of the other rights and powers granted by this subchapter, during such fiscal year. Such report shall include financial statements setting forth the financial position of the Association at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year.
+As soon as practicable after the close of each fiscal year, the Association shall submit to the President and to the Congress a written report relative to the conduct of its business, and the exercise of the other rights and powers granted by this subchapter, during such fiscal year. Such report shall include financial statements settingforth the financial position of the Association at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year.
 
 (Pub. L. 106–102, title III, §332, Nov. 12, 1999, 113 Stat. 1431.)
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as theGramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+This Act, referred to in subsec. (a)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Section Referred to in Other Sections
 

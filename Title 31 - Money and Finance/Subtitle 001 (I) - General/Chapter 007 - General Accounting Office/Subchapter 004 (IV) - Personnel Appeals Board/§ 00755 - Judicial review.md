@@ -50,7 +50,7 @@ Subsec. (b). Pub. L. 103–283, §312(e)(4)(C)(ii), substituted “applicant for
 
 Subsec. (b). Pub. L. 100–426, §103(b)(2), added subsec. (b).
 
-1984—Pub. L. 98–216 substituted “A final decision under section 753(a)(1)–(3), (6), or (7) of this title may be reviewed by the United States Court of Appeals for the District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides” for “A person may apply for review of a final decision under section 753(a)(1)–(3), (6), or (7) of this title by filing a petition for review with the United States Court of Appeals for the District of Columbia Circuit or with the court of appeals of the UnitedStates for the circuit in which the person resides” in provisions preceding par. (1).
+1984—Pub. L. 98–216 substituted “A final decision under section 753(a)(1)–(3), (6), or (7) of this title may be reviewed by the United States Court of Appeals for the District of Columbia Circuit or by the court of appeals of the United States for the circuit in which the petitioner resides” for “A person may apply for review of a final decision under section 753(a)(1)–(3), (6), or (7) of this title by filing a petition for review with the United States Court of Appeals for the District of Columbia Circuit or with the court of appeals of the United States for the circuit in which the person resides” in provisions preceding par. (1).
 
 #### Effective Date of 1988 Amendment
 

@@ -4,7 +4,7 @@
 
 The purpose of this section is to authorize the Secretary to carry out a program of mortgage insurance designed—
 
-&emsp;(1) to meet the special needs of elderly homeowners by reducing the effect of the economic hardship caused by the increasing costs of meeting health, housing, and subsistence needs at a time of reduced income, through the insurance of home equity conversion mortgages to permit the conversion of a portion ofaccumulated home equity into liquid assets; and
+&emsp;(1) to meet the special needs of elderly homeowners by reducing the effect of the economic hardship caused by the increasing costs of meeting health, housing, and subsistence needs at a time of reduced income, through the insurance of home equity conversion mortgages to permit the conversion of a portion of accumulated home equity into liquid assets; and
 
 &emsp;(2) to encourage and increase the involvement of mortgagees and participants in the mortgage markets in the making and servicing of home equity conversion mortgages for elderly homeowners.
 
@@ -28,7 +28,7 @@ Mortgage.—The term “mortgage” means a first mortgage or first lien on real
 
 &emsp;(5)
 
-First mortgage.—The term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate or all stock allocated to a dwelling unit in a residential cooperative housing corporation, under the laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
+First mortgage.—The term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate or all stock allocated to a dwelling unit in a residential cooperative housing corporation, underthe laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
 
 #### (c) Insurance authority
 
@@ -100,7 +100,7 @@ The Secretary shall require each mortgagee of a mortgage insured under this sect
 
 &emsp;(3) on an annual basis (but not later than January 31 of each year), a statement summarizing the total principal amount paid to the homeowner under the loan secured by the mortgage, the total amount of deferred interest added to the principal, and the outstanding loan balance at the end of the preceding year; and
 
-&emsp;(4) prior to loan closing, a statement of the projected total cost of the mortgage to the homeowner based on the projected total future loan balance (such cost expressed as a single average annual interest rate for at least 2 different appreciation rates for the term of the mortgage) for not less than 2 projected loan terms, as the Secretary shall determine, which shall include—
+&emsp;(4) prior to loan closing, a statement of the projected total cost of the mortgage to the homeowner based on the projected total futureloan balance (such cost expressed as a single average annual interest rate for at least 2 different appreciation rates for the term of the mortgage) for not less than 2 projected loan terms, as the Secretary shall determine, which shall include—
 
 &emsp;&emsp;(A) the cost for a short-term mortgage; and
 
@@ -168,7 +168,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 #### (2) Anti-churning disclosure
 
-&emsp;The Secretary shall, by regulation, require that the mortgagee of a mortgage insured under this subsection, provide to the mortgagor, within an appropriate time period and in a manner established in such regulations, a good faith estimate of: (A) the total cost of the refinancing; and (B) the increase in the mortgagor's principal limit as measured by the estimated initial principal limit on the mortgage to be insured under this subsection less the current principal limit on the home equity conversion mortgage that is being refinanced and insured under this subsection.
+&emsp;The Secretary shall, by regulation, require that the mortgagee of a mortgage insured under this subsection, provide to the mortgagor, within an appropriate time period and in a manner established in such regulations, a good faith estimate of: (A) the total cost of the refinancing; and (B) the increase in the mortgagor's principal limit as measured bythe estimated initial principal limit on the mortgage to be insured under this subsection less the current principal limit on the home equity conversion mortgage that is being refinanced and insured under this subsection.
 
 #### (3) Waiver of counseling requirement
 
@@ -206,7 +206,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 #### (2) Authority to refinance existing mortgage and finance closing costs
 
-&emsp;A mortgage described in paragraph (1) may provide financing of amounts that are used to satisfy outstanding mortgage obligations (in accordance with such limitations as the Secretary shall prescribe) and any amounts used for initial service charges, appraisal, inspection, and other fees (as approved by the Secretary) in connection with such mortgage, andthe amount of future payments described in subsection (b)(3) of this section under the mortgage shall be reduced accordingly.
+&emsp;A mortgage described in paragraph (1) may provide financing of amounts that are used to satisfy outstanding mortgage obligations (in accordance with such limitations as the Secretary shall prescribe) and any amounts used for initial service charges, appraisal, inspection, and other fees (as approved by the Secretary) in connection with such mortgage, and the amount of future payments described in subsection (b)(3) of this section under the mortgage shall be reduced accordingly.
 
 #### (3) Definition
 
@@ -228,7 +228,7 @@ Of any amounts made available for any of fiscal years 2000 through 2003 for hous
 
 &emsp;For transfer to the departmental salaries and expenses account for consumer education and outreach activities.
 
-(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950.)
+(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950.)
 
 #### Amendments
 

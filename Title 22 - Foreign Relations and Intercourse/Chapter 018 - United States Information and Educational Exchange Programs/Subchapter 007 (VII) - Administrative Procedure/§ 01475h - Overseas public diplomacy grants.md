@@ -32,7 +32,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec.
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, and notas part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ Prior to approving such program or any revision, modification, or amendment, and
 
 &emsp;&emsp;(A) secure an early retirement from the salmon fishery;
 
-&emsp;&emsp;(B) recognize productiveness if the commercial harvesters using a gear type wish <sup>1</sup>that gear type's specific allocation of funds to recognize productiveness; and
+&emsp;&emsp;(B) recognize productiveness if the commercial harvesters using a gear type wish <sup>1</sup> that gear type's specific allocation of funds to recognize productiveness; and
 
 &emsp;&emsp;(C) recognize passenger-carrying capacity for charter fishing licenses;
 

@@ -27,7 +27,29 @@
 
 (3) Under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps, the date of rank of a reserve commissioned officer (other than a warrant officer) of the Army, Navy, Air Force, or Marine Corps who is to be placed on the active-duty list and who has not been on continuous active duty since his original appointment as a reserve commissionedofficer in a grade above chief warrant officer, W–5, or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list or reserve active-status list, be changed by the Secretary concerned to a later date to reflect such officer's qualifications and experience. The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer's last promotion, or (B) is placed on the active-duty list while on a promotion list as described in section 14317(b) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 33; Pub. L. 96–513, title I, §107, Dec. 12, 1980, 94 Stat. 2869; Pub. L. 97–22, §4(h), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(8), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 97–295, §1(11), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–557, §25(c), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–145, title V, §514(b)(8), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title XVI, §1626, Oct. 5, 1994, 108 Stat. 2962; Pub. L. 104–106, div. A, title XV, §1501(a)(3), Feb. 10, 1996, 110 Stat. 495.)
+(4)(A) The Secretary concerned may adjust the date of rank of an officer appointed under section 624(a) of this title to a higher grade that is not a general officer or flag officer grade if the appointment of that officer to that grade is delayed from the date on which (as determined by the Secretary) it would otherwise have been made by reason of unusual circumstances (as determined by the Secretary) that cause an unintended delay in—
+
+&emsp;(i) the processing or approval of the report of the selection board recommending the appointment of that officer to that grade; or
+
+&emsp;(ii) the processing or approval of the promotion list established on the basis of that report.
+
+(B) The adjusted date of rank applicable to the grade of an officer under subparagraph (A) shall be consistent—
+
+&emsp;(i) with the officer's position on the promotion list for that grade and competitive category when additional officers in that grade and competitive category were needed; and
+
+&emsp;(ii) with compliance with the applicable authorized strengths for officers in that grade and competitive category.
+
+(C) The adjusted date of rank applicable to the grade of an officer under subparagraph (A) shall be the effective date for—
+
+&emsp;(i) the officer's pay and allowances for that grade; and
+
+&emsp;(ii) the officer's position on the active-duty list.
+
+(D) When under subparagraph (A) the Secretary concerned adjusts the date of rank of an officer in a grade to which the officer was appointed by and with the advice and consent of the Senate and the adjustment is to a date before the date of the advice and consent of the Senate to that appointment, the Secretary shall promptly transmit to the Committee on Armed Services of the Senate a notification of that adjustment. Any such notification shall include the name of the officer and a discussion of the reasons for the adjustment of date of rank.
+
+(E) Any adjustment in date of rank under this paragraph shall be made under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 33; Pub. L. 96–513, title I, §107, Dec. 12, 1980, 94 Stat. 2869; Pub. L. 97–22, §4(h), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(8), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 97–295, §1(11), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–557, §25(c), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–145, title V, §514(b)(8), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title XVI, §1626, Oct. 5, 1994, 108 Stat. 2962; Pub. L. 104–106, div. A, title XV, §1501(a)(3), Feb. 10, 1996, 110 Stat. 495; Pub. L. 107–107, div. A, title V, §506(a), Dec. 28, 2001, 115 Stat. 1089.)
 
 Historical and Revision Notes
 
@@ -87,9 +109,11 @@ In subsections (a) and (b), the words “entitled to pay” and “entitled to t
 
 In subsection (b), the words “in such grades”, in 10:517 and 34:241a, are omitted as surplusage.
 
-In subsection (c), the words “A commissioned officer of the Army or the Air Force” are substituted for the words “All officers of the Army of the United States, including all components thereof”, since rank among officers of the Regular Army and Regular Air Force is determined under sections 3573, 3574, 8573, and 8574 of this title.
+In subsection (c), the words “A commissioned officer of the Army or the Air Force” are substituted for the words “All officers of the Army of the United States, including all components thereof”, since rank amongofficers of the Regular Army and Regular Air Force is determined under sections 3573, 3574, 8573, and 8574 of this title.
 
 #### Amendments
+
+2001—Subsec. (d)(4). Pub. L. 107–107 added par. (4).
 
 1996—Subsec. (d)(3). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1626(1). See 1994 Amendment note below.
 
@@ -120,6 +144,14 @@ Subsec. (d)(1). Pub. L. 97–22, §4(h)(3)(A), inserted “of the Army, Navy, Ai
 Subsec. (d)(3). Pub. L. 97–22, §4(h)(3)(B), inserted “of the Army, Navy, Air Force, or Marine Corps” after “(other than a warrant officer)”.
 
 1980—Pub. L. 96–513 completely revised section to restructure and redefine various ranks of commissioned officers of the Army, Air Force, Marine Corps, and Navy and relationships of officers in those ranks among themselves.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §506(c), Dec. 28, 2001, 115 Stat. 1090, provided that:
+
+“(1) Paragraph (4) of section 741(d) of title 10, United States Code, as added by subsection (a), and paragraph (2) of section 14308(c) of such title, as added by subsection (b), shall apply with respect to any report of a selection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after the date of the enactment of this Act \[Dec. 28, 2001\].
+
+“(2) The Secretary of the military department concerned may apply the applicable paragraph referred to in paragraph (1) in the case of an appointment of an officer to a higher grade resulting from a report of a selection board submitted to the Secretary before the date of the enactment of this Act if the Secretary determines that such appointment would have been made on an earlier date that is on or after October 1, 2001, and was delayed under the circumstances specified in paragraph (4) of section 741(d) of title 10, United States Code, as added by subsection (a).”
 
 #### Effective Date of 1996 Amendment
 

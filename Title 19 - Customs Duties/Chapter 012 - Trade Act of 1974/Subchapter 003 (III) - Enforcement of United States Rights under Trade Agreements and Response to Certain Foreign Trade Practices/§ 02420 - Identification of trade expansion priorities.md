@@ -112,7 +112,7 @@ Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the su
 
 Sec. 2. <i>Considerations in Making Identifications</i>. In making the identifications required by section 1 of this part, the Trade Representative shall: (a) consider the requirements of the GPA, NAFTA, or other procurement agreements, government procurement practices, and the effects of such practices on U.S. businesses as a basis for evaluating whether the procurement practices of foreign governments do not provide fair market opportunities for U.S. products or services;
 
-(b) take into account, among other factors, whether and to what extent countries that are parties to the GPA, NAFTA, or other procurement agreements, and other countries described in section 1 of this part:
+(b) take into account, among other factors, whether and to what extent countries that are parties to theGPA, NAFTA, or other procurement agreements, and other countries described in section 1 of this part:
 
 &emsp;(1) use sole-sourcing or otherwise noncompetitive procedures for procurement that could have been conducted using competitive procedures;
 

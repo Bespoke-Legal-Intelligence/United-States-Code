@@ -22,7 +22,7 @@
 
 &emsp;(C) information on the type, status, location, and amount of any assets of, or debts owed by or to, any such individual.
 
-(3) For the purpose of enforcing any Federal or State law with respect to the unlawful taking or restraint of a child, or making or enforcing achild custody or visitation determination, as defined in section 663(d)(1) of this title, the Federal Parent Locator Service shall be used to obtain and transmit the information specified in section 663(c) of this title to the authorized persons specified in section 663(d)(2) of this title.
+(3) For the purpose of enforcing any Federal or State law with respect to the unlawful taking or restraint of a child, or making or enforcing a child custody or visitation determination, as defined in section 663(d)(1) of this title, the Federal Parent Locator Service shall be used to obtain and transmit the information specified in section 663(c) of this title to the authorized persons specified in section 663(d)(2) of this title.
 
 #### (b) Disclosure of information to authorized persons
 
@@ -52,7 +52,7 @@ As used in subsection (a) of this section, the term “authorized person” mean
 
 &emsp;(1) any agent or attorney of any State having in effect a plan approved under this part, who has the duty or authority under such plans to seek to recover any amounts owed as child and spousal support (including, when authorized under the State plan, any official of a political subdivision);
 
-&emsp;(2) the court which has authority to issue an order or to serve as the initiating court in an action to seek an order against a noncustodial parent for the support and maintenance of a child, or any agent of such court;
+&emsp;(2) the court which has authority to issue an order or to serve as the initiating court in anaction to seek an order against a noncustodial parent for the support and maintenance of a child, or any agent of such court;
 
 &emsp;(3) the resident parent, legal guardian, attorney, or agent of a child (other than a child receiving assistance under a State program funded under part A of this subchapter) (as determined by regulations prescribed by the Secretary) without regard to the existence of a court order against a noncustodial parent who has a duty to support and maintain any such child; and
 
@@ -66,7 +66,7 @@ A request for information under this section shall be filed in such manner and f
 
 (1) Whenever the Secretary receives a request submitted under subsection (b) of this section which he is reasonably satisfied meets the criteria established by subsections (a), (b), and (c) of this section, he shall promptly undertake to provide the information requested from the files and records maintained by any of the departments, agencies, or instrumentalities of the United States or of any State.
 
-(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmittedand such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
+(2) Notwithstanding any other provision of law, whenever the individual who is the head of any department, agency, or instrumentality of the United States receives a request from the Secretary for information authorized to be provided by the Secretary under this section, such individual shall promptly cause a search to be made of the files and records maintained by such department, agency, or instrumentality with a view to determining whether the information requested is contained in any such files or records. If such search discloses the information requested, such individual shall immediately transmit such information to the Secretary, except that if any information is obtained the disclosure of which would contravene national policy or security interests of the United States or the confidentiality of census data, such information shall not be transmitted and such individual shall immediately notify the Secretary. If such search fails to disclose the information requested, such individual shall immediately so notify the Secretary. The costs incurred by any such department, agency, or instrumentality of the United States or of any State in providing such information to the Secretary shall be reimbursed by him in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information). Whenever such services are furnished to an individual specified in subsection (c)(3) of this section, a fee shall be charged such individual. The fee so charged shall be used to reimburse the Secretary or his delegate for the expense of providing such services.
 
 (3) The Secretary of Labor shall enter into an agreement with the Secretary to provide prompt access for the Secretary (in accordance with this subsection) to the wage and unemployment compensation claims information and data maintained by or for the Department of Labor or State employment security agencies.
 
@@ -86,7 +86,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (2) Case and order information
 
-&emsp;The information referred to in paragraph (1) with respect to a case or an order shall be such information as the Secretary may specify in regulations (including the names, social security numbers or other uniform identification numbers, and State case identification numbers) to identify the individuals who owe or are owed support (or with respect to or on behalf of whom support obligations are sought to be established), and the State or States which have the case or order. Beginning not later than October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals.
+&emsp;The information referred to in paragraph (1) with respect to a case or an order shall be such information as the Secretary may specify in regulations (including the names, social security numbers or other uniform identification numbers, and State case identification numbers) to identify the individuals who owe or are owed support (or with respect to or on behalf of whom support obligations are sought to be established), and the State or States whichhave the case or order. Beginning not later than October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals.
 
 #### (3) Administration of Federal tax laws
 
@@ -182,7 +182,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (ii) Condition on disclosure
 
-&emsp;&emsp;&emsp;The Secretary shall make disclosures in accordance with clause (i) only to the extent that the Secretary determines that such disclosures do not interfere with the effective operation of the program under this part. Support collection under section666(b) of this title shall be given priority over collection of any defaulted student loan or grant overpayment against the same income.
+&emsp;&emsp;&emsp;The Secretary shall make disclosures in accordance with clause (i) only to the extent that the Secretary determines that such disclosures do not interfere with the effective operation of the program under this part. Support collection under section 666(b) of this title shall be given priority over collection of any defaulted student loan or grant overpayment against the same income.
 
 #### (D) Use of information by the Secretary of Education
 
@@ -230,7 +230,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (3) For information furnished to State and Federal agencies
 
-&emsp;A State or Federal agency that receives information from the Secretary pursuant to this section shall reimburse the Secretary for costs incurred by the Secretary in furnishing the information, at rates which the Secretary determines to be reasonable (which rates shall include payment for the costs of obtaining, verifying, maintaining, and comparing the information).
+&emsp;A State or Federal agency that receives information from the Secretary pursuant to thissection shall reimburse the Secretary for costs incurred by the Secretary in furnishing the information, at rates which the Secretary determines to be reasonable (which rates shall include payment for the costs of obtaining, verifying, maintaining, and comparing the information).
 
 #### (<i>l</i>) Restriction on disclosure and use
 
@@ -256,7 +256,7 @@ Each department, agency, and instrumentality of the United States shall on a qua
 
 #### (<i>o</i>) Use of set-aside funds
 
-Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for eachfiscal year an amount equal to 2 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year), which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for operation of the Federal Parent Locator Service under this section, to the extent such costs are not recovered through user fees. Amounts appropriated under this subsection for each of fiscal years 1997 through 2001 shall remain available until expended.
+Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 2 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year), which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for operation of the Federal Parent Locator Service under this section, to the extent such costs are not recovered through user fees. Amounts appropriated under this subsection for each of fiscal years 1997 through 2001 shall remain available until expended.
 
 #### (p) “Support order” defined
 
@@ -278,7 +278,7 @@ The Higher Education Act of 1965, referred to in subsec. (j)(6)(A), (E), is Pub.
 
 Subsec. (<i>l</i>)(2). Pub. L. 106–113, §1000(a)(5) \[title III, §303(b)\], amended Pub. L. 105–200, §402(a), by inserting “or any other person” after “employee of the United States” in new par. (2). See 1998 Amendment note below.
 
-1998—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted “parentage or” for “parentage,” and struck out “or making or enforcing child custody or visitation orders,” after “obligations,”.
+1998—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted “parentage or” for“parentage,” and struck out “or making or enforcing child custody or visitation orders,” after “obligations,”.
 
 Subsec. (a)(2)(A)(iv). Pub. L. 105–200, §410(d)(3), realigned margins.
 
@@ -432,9 +432,9 @@ Section 316(h) of title III of Pub. L. 104–193 provided that: “The Secretary
 
 #### Executive Agencies To Facilitate Payment of Child Support
 
-For provisions requiring Federal agencies to cooperate with Federal Parent Locator Service, see Ex. Ord. No. 12953, §303, Feb. 27, 1995, 60 F.R. 11014, set out as a note under section 659 of this title.
+For provisions requiring Federal agencies to cooperate with Federal Parent Locator Service, see Ex. Ord.No. 12953, §303, Feb. 27, 1995, 60 F.R. 11014, set out as a note under section 659 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 503, 652, 653a, 654, 654a, 663, 11602 of this title; title 10 section 1408; title 26 section 3304.
+This section is referred to in sections 503, 652, 653a, 654, 654a, 663, 11602 of this title; title 10 section 1408; title 26 sections 3304, 6213.
 

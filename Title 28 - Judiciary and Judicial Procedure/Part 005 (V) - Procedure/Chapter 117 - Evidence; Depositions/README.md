@@ -12,7 +12,7 @@
 
 #### Amendments
 
-<b>1964</b>—Pub. L. 88–619, §§8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, 78 Stat. 997, 998, substituted “Transmittal of letter rogatory or request” for “Foreign witnesses” in item1781, “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in item 1782, “person” for “witness” in item 1783, and struck out item 1785 “Privilege against incrimination”.
+<b>1964</b>—Pub. L. 88–619, §§8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, 78 Stat. 997, 998, substituted “Transmittal of letter rogatory or request” for “Foreign witnesses” in item 1781, “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in item 1782, “person” for “witness” in item 1783, and struck out item 1785 “Privilege against incrimination”.
 
 #### Depositions in Admiralty Cases
 

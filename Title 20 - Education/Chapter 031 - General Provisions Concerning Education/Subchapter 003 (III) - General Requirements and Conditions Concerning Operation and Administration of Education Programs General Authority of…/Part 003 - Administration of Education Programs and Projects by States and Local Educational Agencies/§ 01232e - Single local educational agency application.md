@@ -24,7 +24,7 @@ The general application submitted by a local educational agency under subsection
 
 &emsp;&emsp;(A) the project is not inconsistent with overall State plans for the construction of school facilities, and
 
-&emsp;&emsp;(B) in developing plans for construction, due consideration will be given to excellenceof architecture and design and to compliance with standards prescribed by the Secretary under section 794 of title 29 in order to ensure that facilities constructed with the use of Federal funds are accessible to and usable by individuals with disabilities;
+&emsp;&emsp;(B) in developing plans for construction, due consideration will be given to excellence of architecture and design and to compliance with standards prescribed by the Secretary under section 794 of title 29 in order to ensure that facilities constructed with the use of Federal funds are accessible to and usable by individuals with disabilities;
 
 &emsp;(8) that the local educational agency has adopted effective procedures for acquiring and disseminating to teachers and administrators participating in each program significant information from educational research, demonstrations, and similar projects, and for adopting, where appropriate, promising educational practices developed through such projects; and
 
@@ -66,5 +66,5 @@ Section effective with respect to appropriations for fiscal year 1980 and subseq
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8856 of this title.
+This section is referred to in section 7846 of this title.
 

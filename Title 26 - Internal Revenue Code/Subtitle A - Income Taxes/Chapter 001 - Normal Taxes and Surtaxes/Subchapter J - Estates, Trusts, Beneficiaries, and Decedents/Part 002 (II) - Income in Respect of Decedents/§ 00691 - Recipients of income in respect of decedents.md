@@ -14,7 +14,7 @@
 
 #### (2) Income in case of sale, etc.
 
-&emsp;If a right, described in paragraph (1), to receive an amount is transferred by the estate of the decedent or a person who received such right by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent, there shall be included in the gross income of the estate or such person, as the case may be, for the taxable period in which the transfer occurs, the fair market value of such right at the time of such transfer plus the amount by which any consideration for the transfer exceeds such fair market value. For purposes of this paragraph, the term “transfer” includes sale, exchange, or other disposition, or the satisfaction of an installment obligation at other than face value, but does notinclude transmission at death to the estate of the decedent or a transfer to a person pursuant to the right of such person to receive such amount by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent.
+&emsp;If a right, described in paragraph (1), to receive an amount is transferred by the estate of the decedent or a person who received such right by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent, there shall be included in the gross income of the estate or such person, as the case may be, for the taxable period in which the transfer occurs, the fair market value of such right at the time of such transfer plus the amount by which any consideration for the transfer exceeds such fair market value. For purposes of this paragraph, the term “transfer” includes sale, exchange, or other disposition, or the satisfaction of an installment obligation at other than face value, but does not include transmission at death to the estate of the decedent or a transfer to a person pursuant to the right of such person to receive such amount by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent.
 
 #### (3) Character of income determined by reference to decedent
 
@@ -24,7 +24,7 @@
 
 &emsp;In the case of an installment obligation reportable by the decedent on the installment method under section 453, if such obligation is acquired by the decedent's estate from the decedent or by any person by reason of the death of the decedent or by bequest, devise, or inheritance from the decedent—
 
-&emsp;&emsp;(A) an amount equal to the excess of the face amount of such obligation over the basis of the obligation in the hands of the decedent (determined under section 453B) shall, for the purpose of paragraph (1), be considered as an item of gross income in respect of the decedent; and
+&emsp;&emsp;(A) an amount equal to the excess of the face amount of such obligation over the basis of the obligation in the hands of the decedent (determined under section 453B) shall, for the purpose of paragraph (1), beconsidered as an item of gross income in respect of the decedent; and
 
 &emsp;&emsp;(B) such obligation shall, for purposes of paragraphs (2) and (3), be considered a right to receive an item of gross income in respect of the decedent, but the amount includible in gross income under paragraph (2) shall be reduced by an amount equal to the basis of the obligation in the hands of the decedent (determined under section 453B).
 
@@ -74,7 +74,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 #### (B) Estates and trusts
 
-&emsp;&emsp;In the case of an estate or trust, the amount allowed as a deduction under subparagraph (A) shall be computed by excluding from the gross income of the estate or trust the portion (if any) of the items described in subsection (a)(1) which is properlypaid, credited, or to be distributed to the beneficiaries during the taxable year.
+&emsp;&emsp;In the case of an estate or trust, the amount allowed as a deduction under subparagraph (A) shall be computed by excluding from the gross income of the estate or trust the portion (if any) of the items described in subsection (a)(1) which is properly paid, credited, or to be distributed to the beneficiaries during the taxable year.
 
 #### (2) Method of computing deduction
 
@@ -156,7 +156,7 @@ Coordination with section 402(d).—For purposes of section 402(d) (other than p
 
 &emsp;“(B) any property transferred in such a transfer shall be treated as if it were included in the gross estate of the deemed transferor at the value of such property taken into account for purposes of the tax imposed by section 2601; and
 
-&emsp;“(C) under regulations prescribed by the Secretary, any item of gross income subject to the tax imposed under section 2601 shall be treated as income described in subsection (a) if such item is not properly includible in the gross income of the trust on or before the date of the generation-skipping transfer (within the meaning of section 2611(a)) and if such transfer occurs at or after the death of the deemed transferor (as so defined).”
+&emsp;“(C) under regulations prescribed by the Secretary, any item of gross income subject to the tax imposedunder section 2601 shall be treated as income described in subsection (a) if such item is not properly includible in the gross income of the trust on or before the date of the generation-skipping transfer (within the meaning of section 2611(a)) and if such transfer occurs at or after the death of the deemed transferor (as so defined).”
 
 Subsec. (c)(4). Pub. L. 99–514, §301(b)(8), substituted “capital gain provisions” for “capital gain deduction, etc.” in heading and in text substituted “1(j), 1201, and 1211” for “1201, 1202, and 1211, and for purposes of section 57(a)(9)”.
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 100–203 applicable to dispositions in taxable years begin
 
 Amendment by section 301(b)(8) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
-Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22,1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
+Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -278,5 +278,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 67, 220, 221, 421, 453B, 753, 1014, 1038, 1245, 1250, 1367 of this title.
+This section is referred to in sections 67, 220, 223, 421, 453B, 753, 1014, 1022, 1038, 1245, 1250, 1367 of this title.
 

@@ -16,7 +16,7 @@ The tax imposed by this section shall be the amount equal to the excess (if any)
 
 &emsp;(2) a tentative tax computed under section 2001(c) on the amount of the adjusted taxable gifts.
 
-> For purposes of the preceding sentence, there shall be appropriate adjustments in the application of section 2001(c)(2) to reflect the difference between the amount of the credit provided under section 2102(c) and the amount of the credit provided under section 2010.
+> For purposes of the preceding sentence, there shall be appropriate adjustments in the application of section 2001(c)(2) to reflect the difference between the amount of the credit provided undersection 2102(c) and the amount of the credit provided under section 2010.
 
 #### (c) Adjustments for taxable gifts
 
@@ -66,5 +66,5 @@ Section 108(i) of Pub. L. 89–809 provided that: “The amendments made by this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 691, 2011, 2013, 2014, 2015, 2102, 2103, 2106, 2107, 2108 of this title.
+This section is referred to in sections 691, 2013, 2014, 2015, 2102, 2103, 2106, 2107, 2108, 2201 of this title.
 

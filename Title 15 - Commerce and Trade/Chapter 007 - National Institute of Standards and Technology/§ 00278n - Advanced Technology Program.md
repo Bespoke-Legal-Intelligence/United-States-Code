@@ -8,7 +8,7 @@ There is established in the Institute an Advanced Technology Program (hereafter 
 
 &emsp;(2) refine manufacturing technologies.
 
-> The Secretary, acting through the Director, shall assure that the Program focuses on improving the competitive position of the United States and its businesses, gives preference to discoveries and to technologies that have great economic potential, and avoids providing undue advantage to specific companies. In operating the Program, the Secretary and Director shall, as appropriate, be guided by the findings and recommendations of the Biennial National Critical Technology Reports prepared pursuant to section 6683 of title 42.
+> The Secretary, acting through the Director, shall assure that the Program focuses on improving the competitive position of the United States and its businesses, gives preference to discoveries and to technologies that have great economic potential, and avoids providing undue advantage to specific companies. In operating the Program, the Secretary and Director shall, as appropriate, be guided by the findings and recommendations of the Biennial National Critical Technology Reports prepared pursuant to section 6683 <sup>1</sup> of title 42.
 
 #### (b) Authority of Secretary; research and development; contracts and cooperative agreements; Federal laboratories; other activities with joint ventures
 
@@ -78,7 +78,7 @@ When entering into contracts or making awards under subsection (b) of this secti
 
 &emsp;(10) Grants, contracts, and cooperative assignments under this section shall be designed to support projects which are high risk and which have the potential for eventual substantial widespread commercial application. In order to receive a grant, contract, or cooperative agreement under this section, a research and development entity shall demonstrate to the Secretary the requisite ability in research and technology development and management in the project area in which the grant, contract, or cooperative agreement is being sought.
 
-&emsp;(11)(A) Title to any intellectual property arising from assistance provided under thissection shall vest in a company or companies incorporated in the United States. The United States may reserve a nonexclusive, nontransferable, irrevocable paid-up license, to have practiced for or on behalf of the United States, in connection with any such intellectual property, but shall not, in the exercise of such license, publicly disclose proprietary information related to the license. Title to any such intellectual property shall not be transferred or passed, except to a company incorporated in the United States, until the expiration of the first patent obtained in connection with such intellectual property.
+&emsp;(11)(A) Title to any intellectual property arising from assistance provided under this section shall vest in a company or companies incorporated in the United States. The United States may reserve a nonexclusive, nontransferable, irrevocable paid-up license, to have practiced for or on behalf of the United States, in connection with any such intellectual property, but shall not, in the exercise of such license, publicly disclose proprietary information related to the license. Title to any such intellectual property shall not be transferred or passed, except to a company incorporated in the United States, until the expiration of the first patent obtained in connection with such intellectual property.
 
 &emsp;(B) For purposes of this paragraph, the term “intellectual property” means an invention patentable under title 35 or any patent on such an invention.
 
@@ -127,6 +127,10 @@ As used in this section—
 &emsp;(2) the term “United States-owned company” means a company that has majority ownership or control by individuals who are citizens of the United States.
 
 (Mar. 3, 1901, ch. 872, §28, as added Pub. L. 100–418, title V, §5131(a), Aug. 23, 1988, 102 Stat. 1439; amended Pub. L. 102–245, title II, §201(c), Feb. 14, 1992, 106 Stat. 16.)
+
+#### References in Text
+
+Section 6683 of title 42, referred to in subsec. (a), was omitted from the Code.
 
 #### Amendments
 
@@ -213,4 +217,6 @@ Section 5131(c) of Pub. L. 100–418 provided that:
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 272, 278 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

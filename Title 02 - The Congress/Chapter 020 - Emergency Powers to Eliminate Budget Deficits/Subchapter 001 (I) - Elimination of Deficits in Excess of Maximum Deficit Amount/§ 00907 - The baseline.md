@@ -88,7 +88,7 @@ Subsec. (b)(2)(D). Pub. L. 105–33, §10209(a)(2), added subpar. (D).
 
 Subsec. (c)(5). Pub. L. 105–33, §10209(a)(3), substituted “domestic product chain-type price index” for “national product fixed-weight price index”.
 
-Subsec. (e). Pub. L. 105–33, §10209(a)(4), added subsec. (e) and struck out former subsec. (e) which read as follows: “The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986;”.
+Subsec. (e). Pub. L. 105–33, §10209(a)(4), added subsec. (e) and struck out former subsec. (e) which read as follows: “The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated bylaw before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986;”.
 
 1990—Pub. L. 101–508, §13101(e)(1), amended section generally, substituting provisions relating to baseline for provisions relating to definitions.
 
@@ -162,7 +162,7 @@ Definition.—For purposes of this section, the term ‘cost-of-living adjustmen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 602, 691e, 900 of this title; title 7 section 7251; title 31 section 1105; title 38 section 1729A; title 42 section 603.
+This section is referred to in sections 602, 691e, 900 of this title; title 7 section 7251; title 15 sections 77f, 78ee; title 31 section 1105; title 38 section 1729A; title 42 section 603.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “differences”.</i>
 

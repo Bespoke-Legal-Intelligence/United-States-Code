@@ -6,7 +6,7 @@
 
 (b)(1) Except as provided in paragraphs (2) and (3) of this subsection and in section 1521(i) of this title, the receipt of pension, compensation, or dependency and indemnity compensation by a surviving spouse, child, or parent on account of the death of any person, or receipt by any person of pension or compensation on account of such person's own service, shall not bar the payment of pension, compensation, or dependency and indemnity compensation on account of the death or disability of any other person.
 
-(2) Benefits other than insurance under laws administered by the Secretary may not be paid or furnished to or on account of any child by reason of the death of more than one parent in the same parental line; however, the child mayelect one or more times to receive benefits by reason of the death of any one of such parents.
+(2) Benefits other than insurance under laws administered by the Secretary may not be paid or furnished to or on account of any child by reason of the death of more than one parent in the same parental line; however, the child may elect one or more times to receive benefits by reason of the death of any one of such parents.
 
 (3) Benefits other than insurance under laws administered by the Secretary may not be paid to any person by reason of the death of more than one person to whom such person was married; however, the person may elect one or more times to receive benefits by reason of the death of any one spouse.
 
@@ -63,4 +63,8 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 #### Effective Date of 1960 Amendment
 
 Section 2 of Pub. L. 86–495 provided that: “The amendment made by this Act \[amending this section\] shall apply only to cases where the death of a parent occurs after the date of enactment of this Act \[June 8, 1960\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 1414.
 

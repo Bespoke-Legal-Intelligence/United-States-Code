@@ -104,7 +104,7 @@ Gross income shall not include gain from the sale or exchange of property if, du
 
 #### (B) Application of section 1033
 
-&emsp;&emsp;In applying section 1033 (relating to involuntary conversions), the amount realized from the sale or exchange of property shall be treated as being the amount determinedwithout regard to this section, reduced by the amount of gain not included in gross income pursuant to this section.
+&emsp;&emsp;In applying section 1033 (relating to involuntary conversions), the amount realized from the sale or exchange of property shall be treated as being the amount determined without regard to this section, reduced by the amount of gain not included in gross income pursuant to this section.
 
 #### (C) Property acquired after involuntary conversion
 
@@ -148,7 +148,25 @@ This section shall not apply to any sale or exchange with respect to which the t
 
 For purposes of this section, in the case of property the acquisition of which by the taxpayer resulted under section 1034 <sup>1</sup> (as in effect on the day before the date of the enactment of this section) in the nonrecognition of any part of the gain realized on the sale or exchange of another residence, in determining the period for which the taxpayer has owned and used such property as the taxpayer's principal residence, there shall be included the aggregate periods for which such other residence (and each prior residence taken into account under section 1223(7) in determining the holding period of such property) had been so owned and used.
 
-(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805.)
+(Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 107–16, title V, §542(c), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 84, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, subsection (d) of this section is temporarily amended by adding paragraph (9) at end to read as follows:</i>
+
+#### <i>(9) Property acquired from a decedent</i>
+
+&emsp;<i>The exclusion under this section shall apply to property sold by—</i>
+
+&emsp;&emsp;<i>(A) the estate of a decedent,</i>
+
+&emsp;&emsp;<i>(B) any individual who acquired such property from the decedent (within the meaning of section 1022), and</i>
+
+&emsp;&emsp;<i>(C) a trust which, immediately before the death of the decedent, was a qualified revocable trust (as defined in section 645(b)(1)) established by the decedent,</i>
+
+> &emsp;<i>determined by taking into account the ownership and use by the decedent.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -156,7 +174,7 @@ Section 1034 (as in effect on the day before the date of the enactment of this s
 
 #### Prior Provisions
 
-A prior section 121 was renumbered section 139 of this title.
+A prior section 121 was renumbered section 140 of this title.
 
 #### Amendments
 
@@ -204,6 +222,24 @@ Subsec. (d)(8). Pub. L. 95–600, §404(b), added par. (8).
 
 Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title V, §542(f), June 7, 2001, 115 Stat. 86, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting sections 1022 and 6716 of this title and amending this section and sections 170, 684, 1040, 1221, 1246, 1291, 1296, 4947, 6018, 6019, 6075, and 7701 of this title\] shall apply to estates of decedents dying after December 31, 2009.
+
+“(2)
+
+Transfers to nonresidents.—The amendments made by subsection (e)(1) \[amending section 684 of this title\] shall apply to transfers after December 31, 2009.
+
+“(3)
+
+Section 4947.—The amendment made by subsection (e)(4) \[amending section 4947 of this title\] shall apply to deductions for taxable years beginning after December 31, 2009.”
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
@@ -232,7 +268,7 @@ Binding contracts.—At the election of the taxpayer, the amendments made by thi
 
 &emsp;“(B) without regard to such amendments, gain would not be recognized under section 1034 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) on such sale or exchange by reason of a new residence acquired on or before such date or with respect to the acquisition of which by the taxpayer a binding contract was in effect on such date.
 
-> This paragraph shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) of the Internal Revenue Code of 1986 applies to such individual.”
+> This paragraph shall not apply to any sale or exchange by an individual if the treatment provided by section877(a)(1) of the Internal Revenue Code of 1986 applies to such individual.”
 
 #### Effective Date of 1988 Amendment
 
@@ -264,7 +300,7 @@ Section 404(d)(2) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 25, 56, 72, 143, 163, 216, 280A, 464, 1033, 1038, 1274, 1400C, 6012, 6045, 6334, 7872 of this title.
+This section is referred to in sections 25, 45F, 56, 72, 143, 163, 216, 280A, 464, 1033, 1038, 1274, 1400C, 6012, 6045, 6334, 7872 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

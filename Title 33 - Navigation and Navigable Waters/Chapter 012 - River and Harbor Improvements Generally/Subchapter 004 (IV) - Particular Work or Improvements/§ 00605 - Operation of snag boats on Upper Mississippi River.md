@@ -14,7 +14,7 @@ The words “the sum of $25,000,” are substituted for “the amounts appropria
 
 Act Mar. 2, 1907, made the provisions of the earlier Act concerning snag boats applicable to the Illinois river from its mouth to Copperas Creek.
 
-Act Mar. 3, 1909, made such provisions applicable to “the Minnesota river and other tributaries of the upper Mississippi River now or heretofore improved by the United States.”
+Act Mar. 3, 1909, made such provisions applicable to “the Minnesota river and other tributaries of the upperMississippi River now or heretofore improved by the United States.”
 
 #### Amendments
 

@@ -14,7 +14,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) other services or products subject to the jurisdiction of the Federal Communications Commission; or
 
-&emsp;&emsp;(D) products or services that are related or incidental to the provision of a product orservice described in subparagraph (A), (B), or (C).
+&emsp;&emsp;(D) products or services that are related or incidental to the provision of a product or service described in subparagraph (A), (B), or (C).
 
 > &emsp;No person shall be deemed to be an exempt telecommunications company under this section unless such person has applied to the Federal Communications Commission for a determination under this paragraph. A person applying in good faith for such a determination shall be deemed an exempt telecommunications company under this section, with all of the exemptions provided by this section, until the Federal Communications Commission makes such determination. The Federal Communications Commission shall make such determination within 60 days of its receipt of any such application filed after February 8, 1996, and shall notify the Commission whenever a determination is made under this paragraph that any person is an exempt telecommunications company. Not later than 12 months after February 8, 1996, the Federal Communications Commission shall promulgate rules implementing the provisions of this paragraph which shall be applicable to applications filed under this paragraph after the effective date of such rules.
 
@@ -38,7 +38,7 @@ Notwithstanding any provision of this chapter, a registered holding company shal
 
 The relationship between an exempt telecommunications company and a registered holding company, its affiliates and associate companies, shall remain subject to the jurisdiction of the Commission under this chapter: <i>Provided</i>, That—
 
-&emsp;(1) section 79k of this title shall not prohibit the ownership of an interest in the business of one or more exempt telecommunications companies by a registered holding company (regardless of activities engaged in or where facilities owned or operated by such exempt telecommunications companies are located), and such ownership by a registered holding company shall be deemed consistent with the operation of an integrated public utility system;
+&emsp;(1) section 79k of this title shall not prohibit the ownership of an interest in the business of one or more exempt telecommunications companies by a registered holding company (regardless of activities engaged in or where facilities owned or operated by such exempttelecommunications companies are located), and such ownership by a registered holding company shall be deemed consistent with the operation of an integrated public utility system;
 
 &emsp;(2) the ownership of an interest in the business of one or more exempt telecommunications companies by a registered holding company (regardless of activities engaged in or where facilities owned or operated by such exempt telecommunications companies are located) shall be considered as reasonably incidental, or economically necessary or appropriate, to the operations of an integrated public utility system;
 
@@ -90,7 +90,7 @@ A public utility company may enter into a contract to purchase services or produ
 
 #### (j) Nonpreemption of rate authority
 
-Nothing in this chapter shall preclude the Federal Energy Regulatory Commission or a State commission from exercising its jurisdiction under otherwise applicable law to determine whether a public utility company may recover in rates the costs of products or services purchased from or sold to an associate company or affiliate that is an exempt telecommunications company, regardless of whether such costs are incurred through the direct or indirect purchase or sale of products or services from such associate company or affiliate.
+Nothing in this chapter shall preclude the Federal Energy Regulatory Commission or aState commission from exercising its jurisdiction under otherwise applicable law to determine whether a public utility company may recover in rates the costs of products or services purchased from or sold to an associate company or affiliate that is an exempt telecommunications company, regardless of whether such costs are incurred through the direct or indirect purchase or sale of products or services from such associate company or affiliate.
 
 #### (k) Reciprocal arrangements prohibited
 

@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Whenever the Secretary determines that an eligible lender, servicer, or guaranty agency has a compliance performance rating that equals or exceeds 97 percent, the Secretary shall designate the eligible lender, servicer, or guaranty agency, as the case may be, for exceptional performance. The Secretary shall notify each appropriate guaranty agency of the eligible lenders and servicers designated under this section.
+&emsp;Whenever the Secretary determines that an eligible lender, servicer, or guaranty agency has a compliance performance rating that equals or exceeds 97 percent, the Secretary shall designate the eligible lender, servicer, or guaranty agency, as the case may be, for exceptional performance. The Secretary shall notify each appropriate guaranty agency ofthe eligible lenders and servicers designated under this section.
 
 #### (2) Compliance performance rating
 
@@ -22,7 +22,7 @@
 
 #### (2) Revocation authority
 
-&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) of this section if any quarterly audit required under subsection (c)(5) of this section is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for the purpose of this section, for 2 consecutive months or 90 percent for 1 month.
+&emsp;The Secretary shall revoke the designation of a lender or servicer under subsection (a) of this section if any quarterly audit required under subsection (c)(5) of this section is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender or servicer failed to maintain 97 percent or higher compliance with program regulations, as reflected in the performance of not less than 97 percent of all due diligence requirements applicable to each loan, on average, as established by the Secretary for the purpose of this section, for 2 consecutive months or 90 percent for 1 month.
 
 #### (3) Documentation
 
@@ -56,7 +56,7 @@
 
 #### (6) Loss of designation
 
-&emsp;If the audit performed pursuant to paragraph (5) fails to meet the standards for designation as an exceptional lender or servicer under subsection (a)(1) of this section, the lender or servicer shall lose its designation as an exceptional lender or servicer. A lender or servicer receiving a compliance audit not meeting the standard for designation as an exceptional lender or servicer may reapply for designation under subsection (a) of this section at any time.
+&emsp;If the audit performed pursuant to paragraph (5) fails to meet the standards for designation as an exceptional lender or servicer under subsection (a)(1) of this section, the lender or servicer shall lose its designation asan exceptional lender or servicer. A lender or servicer receiving a compliance audit not meeting the standard for designation as an exceptional lender or servicer may reapply for designation under subsection (a) of this section at any time.
 
 #### (7) Due diligence standards
 
@@ -70,7 +70,7 @@
 
 #### (1) Audit of guaranty agencies
 
-&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the defaulted loan portfolio of such guaranty agency conducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by theSecretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section. Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
+&emsp;Each guaranty agency desiring a designation under subsection (a) of this section shall have a financial and compliance audit of the defaulted loan portfolio of such guaranty agency conducted annually by a qualified independent organization or person from a list of qualified organizations or persons promulgated by the Secretary in accordance with standards established by the Comptroller General and the Secretary. The standards shall include defined statistical sampling techniques designed to measure the performance rating of the guaranty agency for the purpose of this section. Each guaranty agency shall submit the audit required by this paragraph to the Secretary.
 
 #### (2) Quarterly sample audits
 
@@ -150,7 +150,7 @@ For the purpose of this section—
 
 #### Codification
 
-July 23, 1992, referred to in subsec. (h), was in the original “the date of enactment of this Act”, which wastranslated as meaning the date of enactment of Pub. L. 102–325 which enacted this section, to reflect the probable intent of Congress.
+July 23, 1992, referred to in subsec. (h), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–325 which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
 

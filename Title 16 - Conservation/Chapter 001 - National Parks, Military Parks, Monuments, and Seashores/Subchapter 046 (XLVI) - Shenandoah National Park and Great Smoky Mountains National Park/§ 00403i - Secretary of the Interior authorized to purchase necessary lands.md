@@ -4,7 +4,7 @@ The Secretary of the Interior is authorized to acquire on behalf of the United S
 
 (Feb. 12, 1938, ch. 27, §5, 52 Stat. 29.)
 
-#### References In Text
+#### References in Text
 
 Section 258 of title 40, referred to in text, was omitted from the Code as superseded by rule 71A of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

@@ -1,6 +1,6 @@
 ### §1671. Reports
 
-The President shall, at the time the budget is submitted under section 1105 of title 31, for eachfiscal year transmit to the Congress a report containing—
+The President shall, at the time the budget is submitted under section 1105 of title 31, for each fiscal year transmit to the Congress a report containing—
 
 &emsp;(1) a report on the progress made in meeting the objectives of this chapter, including a review of programs established or assisted pursuant to this chapter and an assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and ensure a health status for Indians, which are at a parity with the health services available to and the health status of, the general population;
 
@@ -32,7 +32,7 @@ The President shall, at the time the budget is submitted under section 1105 of t
 
 #### Amendments
 
-1992—Pub. L. 102–573, §801, amended section generally. Prior to amendment, section read as follows: “The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population.”
+1992—Pub. L. 102–573, §801, amended section generally. Prior to amendment, section read as follows: “The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs underthis chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population.”
 
 #### Commission on Indian and Native Alaskan Health Care
 
@@ -112,7 +112,7 @@ Compensation of Members.—
 
 &emsp;“(1)
 
-In general.—Except as provided in subparagraph (B), each member of the Commission may be compensated at a rate not to exceed the daily equivalent of the annual rate of basic pay prescribed forlevel IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time), during which that member is engaged in the actual performance of the duties of the Commission.
+In general.—Except as provided in subparagraph (B), each member of the Commission may be compensated at a rate not to exceed the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time), during which that member is engaged in the actual performance of the duties of the Commission.
 
 &emsp;“(2)
 

@@ -50,7 +50,7 @@
 
 #### (c) Limitation
 
-None of the assistance made available under this section may be used for any overhead orgeneral and administrative expense of a New Markets Venture Capital company or a specialized small business investment company.
+None of the assistance made available under this section may be used for any overhead or general and administrative expense of a New Markets Venture Capital company or a specialized small business investment company.
 
 (Pub. L. 85–699, title III, §358, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–660.)
 

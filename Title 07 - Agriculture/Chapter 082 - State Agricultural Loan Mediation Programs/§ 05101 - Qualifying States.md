@@ -88,7 +88,7 @@ In this section, the term “mediation services”, with respect to mediation or
 
 #### References in Text
 
-This Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, as amended, known as the Agricultural Credit Act of 1987. Provisions relating to mediation services are contained in title V of the Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, as amended, knownas the Agricultural Credit Act of 1987. Provisions relating to mediation services are contained in title V of the Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -64,7 +64,7 @@ The purposes of this section are as follows:
 
 #### (1) Annual report
 
-&emsp;Not later than March 1 each year (beginning in 2002), the Commission shall submit to Congress a report, in both unclassified and classified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
+&emsp;Not later than June 1 each year (beginning in 2002), the Commission shall submit to Congress a report, in both unclassified and classified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
 
 #### (2) Contents of report
 
@@ -82,7 +82,7 @@ The purposes of this section are as follows:
 
 &emsp;&emsp;(F) The effects, if any, on the national security interests of the United States of the use by the People's Republic of China of financial transactions and capital flow and currency manipulations.
 
-&emsp;&emsp;(G) Any action taken by the Government of the People's Republic of China in the context of the World Trade Organization that isadverse or favorable to the United States national security interests.
+&emsp;&emsp;(G) Any action taken by the Government of the People's Republic of China in the context of the World Trade Organization that is adverse or favorable to the United States national security interests.
 
 &emsp;&emsp;(H) Patterns of trade and investment between the People's Republic of China and its major trading partners, other than the United States, that appear to be substantively different from trade and investment patterns with the United States and whether the differences have any national security implications for the United States.
 
@@ -128,7 +128,7 @@ The purposes of this section are as follows:
 
 #### (3) Staff
 
-&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act.
+&emsp;An executive director and other additional personnel for the Commission shall be appointed, compensated, and terminated in the same manner provided for the appointment, compensation, and termination of the executive director and other personnel of the Trade Deficit Review Commission under section 127(g)(3) and section 127(g)(6) of the Trade Deficit Review Commission Act. The executive director and any personnel who are employees of the United States-China Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
 
 #### (4) Detail of government employees
 
@@ -160,7 +160,7 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not a
 
 This section shall take effect on the first day of the 107th Congress.
 
-(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334.)
+(Pub. L. 106–398, §1 \[\[div. A\], title XII, §1238\], Oct. 30, 2000, 114 Stat. 1654, 1654A–334; Pub. L. 107–67, title VI, §§645(a), 648, Nov. 12, 2001, 115 Stat. 556.)
 
 #### References in Text
 
@@ -173,4 +173,14 @@ The first day of the 107th Congress, referred to in subsec. (h), was Jan. 3, 200
 #### Codification
 
 Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the U.S.-China Relations Act of 2000 which comprises this chapter.
+
+#### Amendments
+
+2001—Subsec. (c)(1). Pub. L. 107–67, §648, substituted “June” for “March”.
+
+Subsec. (e)(3). Pub. L. 107–67, §645(a), inserted at end “The executive director and any personnel who are employees of the United States-China Security Review Commission shall be employees under section 2105 of title 5 for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.”
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–67, title VI, §645(b), Nov. 12, 2001, 115 Stat. 556, provided that: “The amendment made by this section \[amending this section\] shall take effect on January 3, 2001.”
 

@@ -24,7 +24,7 @@ For purposes of this part, the term “transportation” includes layover or wai
 
 #### Prior Provisions
 
-Prior sections 4272 and 4273 were repealed by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
+Prior sections 4272 and 4273 were repealed by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effectivedate of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
 
 Section 4272, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to exemptions from tax for the transportation of property.
 

@@ -28,7 +28,7 @@ An amount paid as tax shall not be considered not to constitute an overpayment s
 
 <b>1986</b>—Subsec. (b)(2). Pub. L. 99–514 inserted last sentence.
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369, §474(r)(36), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the amount allowable as credits under sections 31 (relating to tax withheld on wages) and 39 (relating to certain uses of gasoline and special fuels), and 43 (relating to earned income credit), exceeds the tax imposed by subtitle A (reduced by the credits allowable under subpart A of part IV of subchapter A of chapter 1, other than the credits allowable under sections 31, 39, and 43), the amount of such excess shall be considered an overpayment. For purposes of the preceding sentence, any credit allowed under paragraph (1) of section 32 (relating to withholding of tax on nonresident aliens and on foreign corporations) to a nonresident alien individual for a taxable year with respect to which an election under section 6013(g) or (h) is in effect shall be treated as an amount allowable as a credit under section 31.”
+<b>1984</b>—Subsec. (b). Pub. L. 98–369, §474(r)(36), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the amount allowable as credits under sections 31 (relating to tax withheld on wages) and 39 (relating to certain uses of gasoline and special fuels), and 43 (relating to earned income credit), exceeds the tax imposed by subtitle A (reduced by the credits allowable under subpart A of part IV of subchapter A of chapter 1, other than the credits allowable under sections 31, 39, and 43), the amount of such excessshall be considered an overpayment. For purposes of the preceding sentence, any credit allowed under paragraph (1) of section 32 (relating to withholding of tax on nonresident aliens and on foreign corporations) to a nonresident alien individual for a taxable year with respect to which an election under section 6013(g) or (h) is in effect shall be treated as an amount allowable as a credit under section 31.”
 
 Pub. L. 98–369, §735(c)(16), substituted “and special fuels” for “, special fuels, and lubricating oil”.
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 99–514 applicable to distributions after Dec. 31, 1987, o
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 474(r)(36) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
+Amendment by section 474(r)(36) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
 Amendment by section 735(c)(16) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 

@@ -30,6 +30,8 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 
 Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the following appropriations acts:
 
+Pub. L. 107–67, title II, Nov. 12, 2001, 115 Stat. 525.
+
 Pub. L. 106–554, §1(a)(3) \[title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–135.
 
 Pub. L. 106–58, title II, Sept. 29, 1999, 113 Stat. 444.

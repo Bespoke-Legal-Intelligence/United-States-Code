@@ -56,7 +56,7 @@
 
 &emsp;(6) investigatory files, whether or not considered closed, compiled for law enforcement purposes except to the extent available by law to a party other than the Postal Service.
 
-(d)(1) A lease agreement by the Postal Service for rent of net interior space in excess of 6,500 square feet in any building or facility, or part of a building or facility, to be occupied for purposes of the Postal Service shall include a provision that all laborers and mechanics employed in the construction, modification, alteration, repair, painting, decoration, or other improvement of the building or space covered by the agreement, or improvement at the site of such building or facility, shall be paid wages at not less than those prevailing for similar work in the locality as determined by the Secretary of Labor under section 276a of title 40.
+(d)(1) A lease agreement by the Postal Service for rent of net interior space in excess of 6,500square feet in any building or facility, or part of a building or facility, to be occupied for purposes of the Postal Service shall include a provision that all laborers and mechanics employed in the construction, modification, alteration, repair, painting, decoration, or other improvement of the building or space covered by the agreement, or improvement at the site of such building or facility, shall be paid wages at not less than those prevailing for similar work in the locality as determined by the Secretary of Labor under section 276a of title 40.
 
 (2) The authority and functions of the Secretary of Labor with respect to labor standards enforcement under Reorganization Plan numbered 14 of 1950 (title 5, appendix), and regulations for contractors and subcontractors under section 276c of title 40, shall apply to the work under paragraph (1) of this subsection.
 
@@ -106,7 +106,7 @@ Subsec. (b)(9). Pub. L. 103–123, §708(a)(2), substituted “chapter” for �
 
 Pub. L. 103–82, §202(g)(6)(B), and Pub. L. 103–123, §708(a)(2), amended par. (9), relating to title 31, identically, substituting “; and” for period at end.
 
-Pub. L. 103–94, §9(b)(2)(A), and Pub. L. 103–123, §708(a)(3), which directed the identical amendment ofsubsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, §202(g)(6)(C), struck out such par. See below.
+Pub. L. 103–94, §9(b)(2)(A), and Pub. L. 103–123, §708(a)(3), which directed the identical amendment of subsec. (b) by redesignating par. (9), providing for applicability to Postal Service of provisions of section 8E of Inspector General Act of 1978, as (10), could not be executed because Pub. L. 103–82, §202(g)(6)(C), struck out such par. See below.
 
 Pub. L. 103–82, §202(g)(6)(C), struck out second par. (9) which provided for applicability to Postal Service of the provisions of section 8E of Inspector General Act of 1978.
 

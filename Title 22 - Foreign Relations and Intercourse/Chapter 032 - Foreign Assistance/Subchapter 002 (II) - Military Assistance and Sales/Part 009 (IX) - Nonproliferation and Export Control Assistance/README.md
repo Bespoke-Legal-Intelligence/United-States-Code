@@ -4,6 +4,8 @@ Part IX—Nonproliferation and Export Control Assistance
 
 This part is referred to in section 2318 of this title.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

@@ -4,5 +4,5 @@ Section, Pub. L. 93–400, §17, as added Pub. L. 98–191, §7, Dec. 1, 1983, 9
 
 #### Effective Date of Repeal
 
-For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 251 of this title.
+For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 251 of this title.
 

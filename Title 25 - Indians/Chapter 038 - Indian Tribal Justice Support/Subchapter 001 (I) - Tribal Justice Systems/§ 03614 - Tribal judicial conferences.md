@@ -4,7 +4,7 @@ The Secretary is authorized to provide funds to tribal judicial conferences, und
 
 &emsp;(1) the employment of judges, magistrates, court counselors, court clerks, court administrators, bailiffs, probation officers, officers of the court, or dispute resolution facilitators;
 
-&emsp;(2) the development, revision, and publication of tribal codes, rules of practice, rules ofprocedure, and standards of judicial performance and conduct;
+&emsp;(2) the development, revision, and publication of tribal codes, rules of practice, rules of procedure, and standards of judicial performance and conduct;
 
 &emsp;(3) the acquisition, development, and maintenance of a law library and computer assisted legal research capacities;
 

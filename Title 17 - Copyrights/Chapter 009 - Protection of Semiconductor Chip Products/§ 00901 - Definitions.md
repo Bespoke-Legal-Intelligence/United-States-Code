@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) in which series the relation of the images to one another is that each image has the pattern of the surface of one form of the semiconductor chip product;
 
-&emsp;(3) a mask work is “fixed” in a semiconductor chip product when its embodiment in theproduct is sufficiently permanent or stable to permit the mask work to be perceived or reproduced from the product for a period of more than transitory duration;
+&emsp;(3) a mask work is “fixed” in a semiconductor chip product when its embodiment in the product is sufficiently permanent or stable to permit the mask work to be perceived or reproduced from the product for a period of more than transitory duration;
 
 &emsp;(4) to “distribute” means to sell, or to lease, bail, or otherwise transfer, or to offer to sell, lease, bail, or otherwise transfer;
 

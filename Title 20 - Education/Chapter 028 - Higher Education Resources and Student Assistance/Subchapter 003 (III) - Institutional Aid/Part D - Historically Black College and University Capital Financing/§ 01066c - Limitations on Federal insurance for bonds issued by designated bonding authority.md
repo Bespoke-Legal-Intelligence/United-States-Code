@@ -2,7 +2,7 @@
 
 #### (a) Limit on amount
 
-At no time shall the aggregate principal amount of outstanding bonds insured under this part together with any accrued unpaid interest thereon exceed $375,000,000, of which—
+At no time shall the aggregate principal amount of outstanding bonds insured under thispart together with any accrued unpaid interest thereon exceed $375,000,000, of which—
 
 &emsp;(1) not more than $250,000,000 shall be used for loans to eligible institutions that are private historically Black colleges and universities; and
 

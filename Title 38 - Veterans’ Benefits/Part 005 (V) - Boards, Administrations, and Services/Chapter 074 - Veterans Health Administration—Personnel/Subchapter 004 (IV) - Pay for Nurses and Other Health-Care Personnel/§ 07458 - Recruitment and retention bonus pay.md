@@ -14,7 +14,7 @@
 
 (2) In the case of an agreement for employment on less than a full-time basis, the amount of bonus pay shall be pro rated <sup>1</sup> accordingly.
 
-(c)(1) Except as provided in paragraph (2) of this subsection, a bonus under this section shall be paid in equal installments after each year of service is completed throughout the period of obligated service specified in the agreement.
+(c)(1) Except as provided in paragraph (2) of this subsection, a bonus under this section shallbe paid in equal installments after each year of service is completed throughout the period of obligated service specified in the agreement.
 
 (2)(A) The Secretary may make a payment in an amount not in excess of 25 percent of the total bonus in a lump sum at the time that the period of obligated service commences under the agreement.
 

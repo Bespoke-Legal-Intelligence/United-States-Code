@@ -164,7 +164,7 @@ Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end “except that, 
 
 Subsec. (b)(3)(A)(ii). Pub. L. 102–550, §116(b)(1)(A), inserted before semicolon at end “to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under section 1437f of this title having a term of not less than 5 years”.
 
-Subsec. (b)(3)(A)(iii). Pub. L. 102–550, §116(b)(1)(B), inserted before semicolon at end “to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under other Federal programs having a term of not less than 5 years”.
+Subsec. (b)(3)(A)(iii). Pub. L. 102–550, §116(b)(1)(B), inserted before semicolon at end “to the extent available; or if such assistance is not available, in the case of anapplication proposing demolition or disposition of 200 or more units, the use of available project-based assistance under other Federal programs having a term of not less than 5 years”.
 
 Subsec. (b)(3)(A)(v). Pub. L. 102–550, §116(b)(1)(C), inserted before semicolon “to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of tenant-based assistance under section 1437f of this title (excluding vouchers under section 1437f(<i>o</i>) of this title) having a term of not less than 5 years”.
 

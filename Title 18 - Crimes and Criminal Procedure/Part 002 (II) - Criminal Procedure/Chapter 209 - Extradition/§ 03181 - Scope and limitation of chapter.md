@@ -74,7 +74,7 @@ Evidence on hearings.—For purposes of applying section 3190 of title 18, Unite
 
 &emsp;“(3)
 
-Payment of fees and costs.—(A) The provisions of the Agreement Between the United Statesand the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
+Payment of fees and costs.—(A) The provisions of the Agreement Between the United States and the International Tribunal for Yugoslavia and of the Agreement Between the United States and the International Tribunal for Rwanda shall apply in lieu of the provisions of section 3195 of title 18, United States Code, with respect to the payment of expenses arising from the surrender by the United States of a person to the International Tribunal for Yugoslavia or the International Tribunal for Rwanda, respectively, or from any proceedings in the United States relating to such surrender.
 
 &emsp;“(B) The authority of subparagraph (A) may be exercised only to the extent and in the amounts provided in advance in appropriations Acts.
 
@@ -170,8 +170,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Fiji DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Aug. 17, 1973 | 24 UST 1965. |
 | Finland | June 11, 1976 | May 11, 1980 | 31 UST 944. |
-| France DJan. 6, 1909 DJuly 27, 1911 D37 Stat. 1526. |  |  |  |
-| &nbsp; | Feb. 12, 1970 | Apr. 3, 1971 | 22 UST 407. |
+| France | Apr. 23, 1996 | Feb. 1, 2002 | &nbsp; |
 | Gambia | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Germany DJune 20, 1978 DAug. 29, 1980 D32 UST 1485. |  |  |  |
 | &nbsp; | Oct. 21, 1986 | Mar. 11, 1993 | &nbsp; |
@@ -209,14 +208,14 @@ The United States currently has bilateral extradition treaties with the followin
 | Liechtenstein | May 20, 1936 | June 28, 1937 | 50 Stat. 1337. |
 | Lithuania DApr. 9, 1924 DAug. 23, 1924 D43 Stat. 1835. |  |  |  |
 | &nbsp; | May 17, 1934 | Jan. 8, 1935 | 49 Stat. 3077. |
-| Luxembourg DOct. 29, 1883 DAug. 13, 1884 D23 Stat. 808. |  |  |  |
-| &nbsp; | Apr. 24, 1935 | Mar. 3, 1936 | 49 Stat. 3355. |
+| Luxembourg | Oct. 1, 1996 | Feb. 1, 2002 | &nbsp; |
 | Malawi DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Apr. 4, 1967 | 18 UST 1822. |
 | Malaysia | Aug. 3, 1995 | June 2, 1997 | &nbsp; |
 | Malta | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Mauritius | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
-| Mexico | May 4, 1978 | Jan. 25, 1980 | 31 UST 5059. |
+| Mexico DMay 4, 1978 DJan. 25, 1980 D31 UST 5059. |  |  |  |
+| &nbsp; | Nov. 13, 1997 | May 21, 2001 | &nbsp; |
 | Monaco | Feb. 15, 1939 | Mar. 28, 1940 | 54 Stat. 1780. |
 | Nauru | Dec. 22, 1931 | Aug. 30, 1935 | 47 Stat. 2122. |
 | Netherlands | June 24, 1980 | Sept. 15, 1983 | TIAS 10733. |

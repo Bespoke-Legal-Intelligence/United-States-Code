@@ -34,7 +34,7 @@ The Secretary may drawdown and sell petroleum products in the Reserve only in ac
 
 (3) At least part of the crude oil that is sold or exchanged under this subsection shall be sold or exchanged to or with entities that are not part of the Federal Government.
 
-(4) The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the samearea at the time the Secretary is offering crude oil for sale in such area under this subsection.
+(4) The Secretary may not sell any crude oil under this subsection at a price less than that which the Secretary determines appropriate and, in no event, at a price less than 95 percent of the sales price, as estimated by the Secretary, of comparable crude oil being sold in the same area at the time the Secretary is offering crude oil for sale in such area under this subsection.
 
 (5) The Secretary may cancel any offer to sell or exchange crude oil as part of any test under this subsection if the Secretary determines that there are insufficient acceptable offers to obtain such crude oil.
 
@@ -126,7 +126,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;&emsp;&emsp;(ii) submit one or more alternative offers, for other categories of the petroleum product, that will be binding if no price competitive contract is awarded for the category of petroleum product on which a binding offer is submitted under clause (i); and
 
-&emsp;&emsp;(B) at the request of the Governor of the State of Hawaii, a petroleum product purchased by the State of Hawaii at a competitive sale or through a binding offer shall have first preference in scheduling for lifting.
+&emsp;&emsp;(B) at the request of the Governor of the State of Hawaii, a petroleum product purchased by the State of Hawaii at a competitive sale or through a binding offer shallhave first preference in scheduling for lifting.
 
 #### (3) Limitation on quantity
 
@@ -202,7 +202,7 @@ Subsec. (b). Pub. L. 106–469, §103(15)(C), struck out subsec. (b) which read 
 
 Subsec. (c). Pub. L. 106–469, §103(15)(C), struck out subsec. (c) which read as follows: “Drawdown and distribution of the Early Storage Reserve may be made in accordance with the provisions of the Distribution Plan contained in the Early Storage Reserve Plan until the Strategic Petroleum Reserve Plan has taken effect pursuant to section 6239(a) of this title.”
 
-Subsec. (d)(1). Pub. L. 106–469, §103(15)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Neither the Distribution Plan contained in the Strategic Petroleum Reserve Plan nor the Distribution Plan contained in the Early Storage Reserve Plan may be implemented, and no drawdown and distribution of the Reserve or the Early Storage Reserve may be made, unless the President has found that implementation of either such Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
+Subsec. (d)(1). Pub. L. 106–469, §103(15)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Neither the Distribution Plan contained in the Strategic Petroleum Reserve Plan nor the Distribution Plan contained in the Early Storage Reserve Plan may be implemented, and no drawdown and distribution of the Reserve or the Early Storage Reserve maybe made, unless the President has found that implementation of either such Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
 
 Subsec. (e). Pub. L. 106–469, §103(15)(E), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary may, by rule, provide for the allocation of any petroleum product withdrawn from the Strategic Petroleum Reserve in amounts specified in (or determined in a manner prescribed by) and at prices specified in (or determined in a manner prescribed by) such rules. Such price levels and allocation procedures shall be consistent with the attainment, to the maximum extent practicable, of the objectives specified in section 753(b)(1) of title 15.”
 

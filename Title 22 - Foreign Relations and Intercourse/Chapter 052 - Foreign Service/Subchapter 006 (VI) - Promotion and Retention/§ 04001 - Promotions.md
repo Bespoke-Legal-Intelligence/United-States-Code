@@ -36,7 +36,7 @@ Except as provided in section 4006(a) of this title, promotions of—
 
 &emsp;&emsp;(ii) the development of uniform policies and procedures and consolidated personnel functions, as provided for in section 3924 of this title.
 
-&emsp;(B) A workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technicalskills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements.
+&emsp;(B) A workforce plan for the subsequent five years, including projected personnel needs, by grade and by skill. Each such plan shall include for each category the needs for foreign language proficiency, geographic and functional expertise, and specialist technical skills. Each workforce plan shall specifically account for the training needs of Foreign Service personnel and shall delineate an intake program of generalist and specialist Foreign Service personnel to meet projected future requirements.
 
 (5) If there are substantial modifications to any workforce plan under paragraph (4)(B) during any year in which a report under paragraph (4) is not required, a supplemental annual notification shall be submitted in the same manner as reports are required to be submitted under paragraph (4).
 
@@ -60,15 +60,13 @@ Pub. L. 102–138, title I, §155, Oct. 28, 1991, 105 Stat. 675, as amended by P
 
 #### Foreign Service Promotion Panels
 
-Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, provided that: “It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
+Pub. L. 101–246, title I, §163, Feb. 16, 1990, 104 Stat. 47, as amended by Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: “It is the sense of the Congress that, to the greatest extent possible, Foreign Service promotion panels should—
 
-&emsp;“(1) only promote candidates to the Senior Foreign Service who have demonstrated foreign language proficiency in at least one language at the General Professional Speaking Proficiency level, as defined by the Foreign Service Institute;
+&emsp;“(1) only promote candidates to the Senior Foreign Service who have demonstrated foreign language proficiency in at least one language at the General Professional Speaking Proficiency level, as defined by the George P. Shultz National Foreign Affairs Training Center;
 
 &emsp;“(2) strive for the objective stipulated in the Foreign Service Manual ‘to be able to use two foreign languages at a minimum professional level of proficiency of S–3/R–3, which is the general professional speaking proficiency level’; and
 
 &emsp;“(3) have at least one person on each Foreign Service promotion panel who has attained at least the General Professional Speaking Proficiency level in one language level.”
-
-\[Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.\]
 
 #### Language Proficiency in Employee Evaluation Report
 

@@ -15,8 +15,13 @@
 | [3751\.](%C2%A7%2003751%20-%20Service%20medals%20issue%3B%20replacement%3B%20availability%20of%20appropriations.md) | Service medals: issue; replacement; availability of appropriations. |
 | [3752\.](%C2%A7%2003752%20-%20Medals%20posthumous%20award%20and%20presentation.md) | Medals: posthumous award and presentation. |
 | [3753\.](%C2%A7%2003753%20-%20Civil%20War%20battle%20streamers.md) | Civil War battle streamers. |
+| [3754\.](%C2%A7%2003754%20-%20Medal%20of%20honor%20duplicate%20medal.md) | Medal of honor: duplicate medal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2001—Pub. L. 107–107, div. A, title V, §553(a)(1)(B), Dec. 28, 2001, 115 Stat. 1116, added item 3754.
 
 #### Extension of Time for Award of Decoration
 
@@ -42,3 +47,4 @@ Act Aug. 2, 1956, ch. 877, 70 Stat. 933, authorized award, not later than Aug. 2
 - [&sect; 03751 - Service medals issue; replacement; availability of appropriations](%C2%A7%2003751%20-%20Service%20medals%20issue%3B%20replacement%3B%20availability%20of%20appropriations.md)
 - [&sect; 03752 - Medals posthumous award and presentation](%C2%A7%2003752%20-%20Medals%20posthumous%20award%20and%20presentation.md)
 - [&sect; 03753 - Civil War battle streamers](%C2%A7%2003753%20-%20Civil%20War%20battle%20streamers.md)
+- [&sect; 03754 - Medal of honor duplicate medal](%C2%A7%2003754%20-%20Medal%20of%20honor%20duplicate%20medal.md)

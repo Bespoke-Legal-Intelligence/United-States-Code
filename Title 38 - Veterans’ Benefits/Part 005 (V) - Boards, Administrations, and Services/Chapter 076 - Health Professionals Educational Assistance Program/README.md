@@ -72,7 +72,7 @@
 | [7673\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007673%20-%20Scholarship.md) | Scholarship. |
 | [7674\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007674%20-%20Obligated%20service.md) | Obligated service. |
 | [7675\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007675%20-%20Breach%20of%20agreement%20liability.md) | Breach of agreement: liability. |
-| [7676\.](Subchapter%20006%20%28VI%29%20-%20Employee%20Incentive%20Scholarship%20Program/%C2%A7%2007676%20-%20Expiration%20of%20program.md) | Expiration of program. |
+| \[7676. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -83,11 +83,13 @@
 | [7681\.](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/%C2%A7%2007681%20-%20Authority%20for%20program.md) | Authority for program. |
 | [7682\.](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/%C2%A7%2007682%20-%20Eligibility.md) | Eligibility. |
 | [7683\.](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/%C2%A7%2007683%20-%20Education%20debt%20reduction.md) | Education debt reduction. |
-| [7684\.](Subchapter%20007%20%28VII%29%20-%20Education%20Debt%20Reduction%20Program/%C2%A7%2007684%20-%20Expiration%20of%20program.md) | Expiration of program. |
+| \[7684. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–135, title I, §§101(a)(2), 102(a)(2), Jan. 23, 2002, 115 Stat. 2447, 2448, struck out items 7676 “Expiration of program” and 7684 “Expiration of program”.
 
 1998—Pub. L. 105–368, title VIII, §§802(b), 803(b), Nov. 11, 1998, 112 Stat. 3356, 3358, added headings for subchapters VI and VII and items 7671 to 7676 and 7681 to 7684.
 
@@ -97,7 +99,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 7431 of this title.
+This chapter is referred to in sections 7324, 7431 of this title.
 
 
 ---

@@ -120,7 +120,7 @@
 
 #### (9) Notice to manufacturers
 
-&emsp;The Secretary shall notify manufacturers of covered outpatient drugs and single Stateagencies under section 1902(a)(5) of the Social Security Act \[42 U.S.C. 1396a(a)(5)\] of the identities of covered entities under this paragraph, and of entities that no longer meet the requirements of paragraph (5) or that are no longer certified pursuant to paragraph (7).
+&emsp;The Secretary shall notify manufacturers of covered outpatient drugs and single State agencies under section 1902(a)(5) of the Social Security Act \[42 U.S.C. 1396a(a)(5)\] of the identities of covered entities under this paragraph, and of entities that no longer meet the requirements of paragraph (5) or that are no longer certified pursuant to paragraph (7).
 
 #### (10) No prohibition on larger discount
 

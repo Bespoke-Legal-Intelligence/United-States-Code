@@ -24,7 +24,7 @@
 
 &emsp;(B) The cost of the maintenance or repair of equipment described in subparagraph (A) installed for the purpose specified in such subparagraph.
 
-(4) The limitation contained in the first sentence of paragraph (1) does not apply to a project for the improvement of a family housing unit or units referred to in that sentence if the project (including the amount requested for the project) is identified in the budget materials submitted to Congress by the Secretary of Defense in connection with the submission to Congress of the budget for a fiscal year pursuant to section 1105 of title 31.
+(4) The limitation contained in the first sentence of paragraph (1) does not apply to a project for the improvement of a family housing unit or units referred to in that sentence if theproject (including the amount requested for the project) is identified in the budget materials submitted to Congress by the Secretary of Defense in connection with the submission to Congress of the budget for a fiscal year pursuant to section 1105 of title 31.
 
 (c)(1) The Secretary concerned may construct replacement military family housing units in lieu of improving existing military family housing units if—
 

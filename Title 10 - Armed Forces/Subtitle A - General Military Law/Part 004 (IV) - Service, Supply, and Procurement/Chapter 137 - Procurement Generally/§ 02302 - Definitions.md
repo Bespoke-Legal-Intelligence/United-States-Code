@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term “head of an agency” means the Secretary of Defense, the Secretary of theArmy, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration.
+&emsp;(1) The term “head of an agency” means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of Transportation, and the Administrator of the National Aeronautics and Space Administration.
 
 &emsp;(2) The term “competitive procedures” means procedures under which the head of an agency enters into a contract pursuant to full and open competition. Such term also includes—
 
@@ -74,7 +74,7 @@ Act
 
 Feb. 19, 1948, ch. 65, §9 (less clause (b)), 62 Stat. 24.
 
-In clause (1), the words “(if any)” are omitted as surplusage. The words “Secretary of the Treasury” are substituted for the words “Commandant, United States Coast Guard, Treasury Department”, since the functions of the Coast Guard and its officers, while operating under the Department of the Treasury, were vested in the Secretary of the Treasury by 1950 Reorganization Plan No. 26, effective July 31, 1950, 64 Stat. 1280. Underthat plan the Secretary of the Treasury was authorized to delegate any of those functions to the agencies and employees of the Department of the Treasury.
+In clause (1), the words “(if any)” are omitted as surplusage. The words “Secretary of the Treasury” are substituted for the words “Commandant, United States Coast Guard, Treasury Department”, since the functions of the Coast Guard and its officers, while operating under the Department of the Treasury, were vested in the Secretary of the Treasury by 1950 Reorganization Plan No. 26, effective July 31, 1950, 64 Stat. 1280. Under that plan the Secretary of the Treasury was authorized to delegate any of those functions to the agencies and employees of the Department of the Treasury.
 
 Clauses (2) and (3) are inserted for clarity, and are based on the usage of those terms throughout the revised chapter.
 
@@ -138,7 +138,7 @@ Cl. (3). Pub. L. 85–861 substituted “section 2305 of this title” for “se
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, setout as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1994 Amendment
 
@@ -158,7 +158,7 @@ Section 301(e) of Pub. L. 85–568 provided that: “This section \[amending thi
 
 #### Short Title of 1986 Amendment
 
-Section 101(c) \[title X, §900\] of Pub. L. 99–500 and Pub. L. 99–591, and section 900 of title IX of division A of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “This title \[enacting sections 133a, 2306a, 2325–2328, 2365–2367, 2397b, 2397c, 2408, 2409, 2416, and 2435–2437 of this title, amending sections 133, 134, 135, 138, 171, 1622, 2301, 2304, 2305, 2306, 2320, 2321, 2323, 2384, 2406, 2411, 2413, 2432, and2433 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 632, 637, and 644 of Title 15, Commerce and Trade, and section 416 of Title 41, Public Contracts, renumbering section 2416 as 2417 of this title, enacting provisions set out as notes under sections 113, 1621, 2304, 2305, 2306a, 2320, 2323, 2325–2328, 2365–2367, 2384, 2397b, 2406, 2408, 2409, 2416, 2432, 2435–2437 of this title and section 632 of Title 15, amending provisions set out as a note under this section, and repealing provisions set out as notes under section 2304 and 2397a of this title\] may be cited as the ‘Defense Acquisition Improvement Act of 1986’.”
+Section 101(c) \[title X, §900\] of Pub. L. 99–500 and Pub. L. 99–591, and section 900 of title IX of division A of Pub. L. 99–661, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “This title \[enacting sections 133a, 2306a, 2325–2328, 2365–2367, 2397b, 2397c, 2408, 2409, 2416, and 2435–2437 of this title, amending sections 133, 134, 135, 138, 171, 1622, 2301, 2304, 2305, 2306, 2320, 2321, 2323, 2384, 2406, 2411, 2413, 2432, and 2433 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 632, 637, and 644 of Title 15, Commerce and Trade, and section 416 of Title 41, Public Contracts, renumbering section 2416 as 2417 of this title, enacting provisions set out as notes under sections 113, 1621, 2304, 2305, 2306a, 2320, 2323, 2325–2328, 2365–2367, 2384, 2397b, 2406, 2408, 2409, 2416, 2432, 2435–2437 of this title and section 632 of Title 15, amending provisions set out as a note under this section, and repealing provisions set out as notes under section 2304 and 2397a of this title\] may be cited as the ‘Defense Acquisition Improvement Act of 1986’.”
 
 #### Short Title of 1985 Amendment
 
@@ -167,6 +167,80 @@ Pub. L. 99–145, title IX, §901, Nov. 8, 1985, 99 Stat. 682, provided that: �
 #### Short Title of 1984 Amendment
 
 Section 1201 of title XII of Pub. L. 98–525 provided that: “This title \[enacting sections 2303a, 2317 to 2323, 2384a, 2402 to 2405, and 2411 to 2416 of this title, amending sections 139a, 139b, 2302, 2305, 2311, 2384, and 2401 of this title, enacting provisions set out as notes under this section and sections 139, 139a, 2303a, 2305, 2318, 2319, 2322, 2323, 2384, 2384a, 2392, and 2402 of this title, amending provisions set out as notes under sections 2392, 2401, and 2452 of this title, and repealing provisions set out as notes under section 2304 of this title\] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
+
+#### Procurement of Alternative Fueled and Hybrid Light Duty Trucks
+
+Pub. L. 107–107, div. A, title III, §318, Dec. 28, 2001, 115 Stat. 1055, provided that:
+
+“(a)
+
+Defense Fleets Not Covered by Requirement in Energy Policy Act of 1992.—(1) The Secretary of Defense shall coordinate with the Administrator of General Services to ensure that only hybrid vehicles are procured by the Administrator for the Department of Defense fleet of light duty trucks that is not in a fleet of vehicles to which section 303 of the Energy Policy Act of 1992 (42 U.S.C. 13212) applies.
+
+“(2) The Secretary, in consultation with the Administrator, may waive the policy regarding the procurement of hybrid vehicles in paragraph (1) to the extent that the Secretary determines necessary—
+
+&emsp;“(A) in the case of trucks that are exempt from the requirements of section 303 of the Energy Policy Act of 1992 for national security reasons under subsection (b)(3)(E) of such section, to meet specific requirements of the Department of Defense for capabilities of light duty trucks;
+
+&emsp;“(B) to procure vehicles consistent with the standards applicable to the procurement of fleet vehicles for the Federal Government; or
+
+&emsp;“(C) to adjust to limitations on the commercial availability of light duty trucks that are hybrid vehicles.
+
+“(3) This subsection applies with respect to procurements of light duty trucks in fiscal year 2005 and subsequent fiscal years.
+
+“(b)
+
+Requirement To Exceed Requirement in Energy Policy Act of 1992.—(1) The Secretary of Defense shall coordinate with the Administrator of General Services to ensure that, of the light duty trucks procured in fiscal years after fiscal year 2004 for the fleets of light duty vehicles of the Department of Defense to which section 303 of the Energy Policy Act of 1992 \[42 U.S.C. 13212\] applies—
+
+&emsp;“(A) five percent of the total number of such trucks that are procured in each of fiscal years 2005 and 2006 are alternative fueled vehicles or hybrid vehicles; and
+
+&emsp;“(B) ten percent of the total number of such trucks that are procured in each fiscal year after fiscal year 2006 are alternative fueled vehicles or hybrid vehicles.
+
+“(2) Light duty trucks acquired for the Department of Defense that are counted to comply with section 303 of the Energy Policy Act of 1992 for a fiscal year shall be counted to determine the total number of light duty trucks procured for the Department of Defense for that fiscal year for the purposes of paragraph (1), but shall not be counted to satisfy the requirement in that paragraph.
+
+“(c)
+
+Report on Plans for Implementation.—At the same time that the President submits the budget for fiscal year 2003 to Congress under section 1105(a) of title 31, United States Code, the Secretary shall submit to Congress a report summarizing the plans for carrying out subsections (a) and (b).
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘hybrid vehicle’ means a motor vehicle that draws propulsion energy from onboard sources of stored energy that are both—
+
+&emsp;&emsp;“(A) an internal combustion or heat engine using combustible fuel; and
+
+&emsp;&emsp;“(B) a rechargeable energy storage system.
+
+&emsp;“(2) The term ‘alternative fueled vehicle’ has the meaning given that term in section 301 of the Energy Policy Act of 1992 (42 U.S.C. 13211).”
+
+#### Temporary Emergency Procurement Authority to Facilitate the Defense Against Terrorism or Biological or Chemical Attack
+
+Pub. L. 107–107, div. A, title VIII, §836, Dec. 28, 2001, 115 Stat. 1192, provided that:
+
+“(a)
+
+Increased Flexibility for Use of Streamlined Procedures.—The following special authorities apply to procurements of property and services by or for the Department of Defense for which funds are obligated during fiscal year 2002 and 2003:
+
+&emsp;“(1) Micropurchase and simplified acquisition thresholds.—For any procurement of property or services for use (as determined by the Secretary of Defense) to facilitate the defense against terrorism or biological or chemical attack against the United States—
+
+&emsp;&emsp;“(A) the amount specified in subsections (c), (d), and (f) of section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428) shall be deemed to be $15,000 in the administration of that section with respect to such procurement; and
+
+&emsp;&emsp;“(B) the term ‘simplified acquisition threshold’ means, in the case of any contract to be awarded and performed, or purchase to be made—
+
+&emsp;&emsp;&emsp;“(i) inside the United States in support of a contingency operation, $250,000; or
+
+&emsp;&emsp;&emsp;“(ii) outside the United States in support of a contingency operation, $500,000.
+
+&emsp;“(2)
+
+Commercial item treatment for procurements of biotechnology.—For any procurement of biotechnology property or biotechnology services for use (as determined by the Secretary of Defense) to facilitate the defense against terrorism or biological attack against the United States, the procurement shall be treated as being a procurement of commercial items.
+
+“(b)
+
+Recommendations for Additional Emergency Procurement Authority To Support Anti-Terrorism Operations.—Not later than March 1, 2002, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing the Secretary's recommendations for additional emergency procurement authority that the Secretary (subject to the direction of the President) determines necessary to support operations carried out to combat terrorism.
+
+“(c)
+
+Termination of Authority.—No contract may be entered into pursuant to the authority provided in subsection (a) after September 30, 2003.”
 
 #### Improvements in Procurements of Services
 
@@ -234,7 +308,7 @@ Requirement To Develop Plan.—Not later than March 1, 2000, the Secretary of De
 
 “(b)
 
-Implementation of Plan.—Not later than March 1, 2001, the Secretary of Defense shall implement the plan required by subsection (a), subject to any modifications the Secretary may choose to make in response to comments received.
+Implementation of Plan.—Not later than March 1, 2001, the Secretary of Defense shall implement theplan required by subsection (a), subject to any modifications the Secretary may choose to make in response to comments received.
 
 “(c)
 
@@ -346,7 +420,7 @@ Notification.—(1) The Secretary shall transmit to the Committee on Armed Servi
 
 &emsp;“(ii) awarded without requiring the contractors or subcontractors to provide certified cost or pricing data pursuant to section 2306a of title 10, United States Code; and
 
-&emsp;“(iii) awarded and administered without the application of cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)).
+&emsp;“(iii) awarded and administered without the application of cost accounting standards under section26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)).
 
 “(f)
 
@@ -426,7 +500,7 @@ Elimination of Use of Class I Ozone-Depleting Substances.—(1) No Department of
 
 “(3) The senior acquisition official authorized to grant an approval under paragraph (1) and the senior acquisition official and designees authorized to carry out an evaluation and make a determination under paragraph (2) shall be determined under regulations prescribed by the Secretary of Defense. A senior acquisition official may not delegate the authority provided in paragraph (1).
 
-“(4) Each official who grants an approval authorized under paragraph (1) or makes a determination under paragraph (2)(B) shall submit to the Secretary of Defense a report on that approval or determination, as the case may be, as follows:
+“(4) Each official who grants an approval authorized under paragraph (1) or makes a determination underparagraph (2)(B) shall submit to the Secretary of Defense a report on that approval or determination, as the case may be, as follows:
 
 &emsp;“(A) Beginning on October 1, 1993, and continuing for 8 calendar quarters thereafter, by submitting a report on the approvals granted or determinations made under such authority during the preceding quarter not later than 30 days after the end of such quarter.
 
@@ -584,7 +658,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 “(f)
 
-Inspector General Report.—(1) The Inspector General of the Department of Defense shall submit to the Secretary of Defense a report on payment protections for subcontractors and suppliers under contracts entered into with the Department of Defense. The report shall include an assessment of the extent to which available judicial and administrative remedies, as well as suspension and debarment procedures, have been used (or recommended for use) by officials of the Department to deter false statements relating to (A) payment bonds provided by individuals pursuant to the Miller Act, and (B) certifications pertaining to payment requests by construction contractors pursuant to section 3903(b) of title 31, United States Code. The assessment shall cover actions taken during the period beginning on October 1, 1989, and ending on September 30, 1992.
+Inspector General Report.—(1) The Inspector General of the Department of Defense shall submit to the Secretary of Defense a report on payment protections for subcontractors and suppliers under contracts entered into with the Department of Defense. The report shall include an assessment of the extent to which available judicial and administrative remedies, as well as suspension and debarment procedures, have been used (or recommended for use) by officials of the Department to deter false statements relating to (A) payment bonds provided by individuals pursuant to theMiller Act, and (B) certifications pertaining to payment requests by construction contractors pursuant to section 3903(b) of title 31, United States Code. The assessment shall cover actions taken during the period beginning on October 1, 1989, and ending on September 30, 1992.
 
 “(2) The report required by paragraph (1) shall be submitted to the Secretary of Defense not later than March 1, 1993. The report may include recommendations by the Inspector General on ways to improve the effectiveness of existing methods of preventing false statements.
 
@@ -598,7 +672,7 @@ Pub. L. 101–510, div. A, title VIII, §800, Nov. 5, 1990, 104 Stat. 1587, as a
 
 #### Mentor-Protege Pilot Program
 
-Pub. L. 106–65, div. A, title VIII, §811(d)(2), (3), Oct. 5, 1999, 113 Stat. 708, 709, provided that:
+Pub. L. 106–65, div. A, title VIII, §811(d)(2), (3), Oct. 5, 1999, 113 Stat. 708, 709, as amended by Pub. L. 107–107, div. A, title X, §1048(g)(5), Dec. 28, 2001, 115 Stat. 1228, provided that:
 
 “(2)(A) The Secretary of Defense shall conduct a review of the Mentor-Protege Program established in section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 2302 note) to assess the feasibility of transitioning such program to operation without a specific appropriation or authority to provide reimbursement to a mentor firm as provided in subsection (g) of such section (as amended by subsection (b)).
 
@@ -622,13 +696,13 @@ Pub. L. 106–65, div. A, title VIII, §811(d)(2), (3), Oct. 5, 1999, 113 Stat. 
 
 &emsp;“(iv) An assessment of the success of the Mentor-Protege Program in enhancing the business competitiveness and financial independence of protege firms.
 
-&emsp;“(v) A review of the relationship between the results of the Mentor-Protegee \[sic\] Program and the objectives established in section 2323 of title 10, United States Code.
+&emsp;“(v) A review of the relationship between the results of the Mentor-Protege Program and the objectives established in section 2323 of title 10, United States Code.
 
 “(C) Not later than January 1, 2002, the Comptroller General shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of the study.”
 
 Section 807(a) of Pub. L. 102–484 provided that: “Within 15 days after the date of the enactment of this Act \[Oct. 23, 1992\], the Secretary of Defense shall publish in the Department of Defense Supplement to the Federal Acquisition Regulation the Department of Defense policy for the pilot Mentor-Protege Program and the regulations, directives, and administrative guidance pertaining to such program as such policy, regulations, directives, and administrative guidance existed on December 6, 1991. Proposed modifications to that policy and any amendments of the matters published pursuant to the preceding sentence that are proposed in order to implement any of the amendments made by this section shall be published for public comment within 60 days after the date of the enactment of this Act and shall be published in final form within 120 days after such date.”
 
-Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, §821(a), title X, §1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, §811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §807\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208, provided that:
+Pub. L. 101–510, div. A, title VIII, §831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, §704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, §8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, §814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§801(h)(4), 807(b)(1), title X, §1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, §813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, §824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, §802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, §821(a), title X, §1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, §811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §807\], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, §812, Dec. 28, 2001, 115 Stat. 1181, provided that:
 
 “(a)
 
@@ -724,7 +798,7 @@ Incentives for Mentor Firms.—(1) The Secretary of Defense may provide to a men
 
 “(h)
 
-Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (eitherdirect or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
+Relationship to Small Business Act.—(1) For purposes of the Small Business Act \[15 U.S.C. 631 et seq.\], no determination of affiliation or control (either direct or indirect) may be found between a protege firm and its mentor firm on the basis that the mentor firm has agreed to furnish (or has furnished) to its protege firm pursuant to a mentor-protege agreement any form of developmental assistance described in subsection (f).
 
 “(2) Notwithstanding section 8 of the Small Business Act (15 U.S.C. 637), the Small Business Administration may not determine a disadvantaged small business concern to be ineligible to receive any assistance authorized under the Small Business Act on the basis that such business concern has participated in the Mentor-Protege Program or has received assistance pursuant to any developmental assistance agreement authorized under such program.
 
@@ -736,9 +810,9 @@ Participation in Mentor-Protege Program not To Be a Condition for Award of a Con
 
 “(j)
 
-Expiration of Authority.—(1) No mentor-protege agreement may be entered into under subsection (e) after September 30, 2002.
+Expiration of Authority.—(1) No mentor-protege agreement may be entered into under subsection (e) after September 30, 2005.
 
-“(2) No reimbursement may be paid, and no credit toward the attainment of a subcontracting goal may be granted, under subsection (g) for any cost incurred after September 30, 2005.
+“(2) No reimbursement may be paid, and no credit toward the attainment of a subcontracting goal may be granted, under subsection (g) for any cost incurred after September 30, 2008.
 
 “(k)
 
@@ -756,7 +830,7 @@ Reports and Reviews.—(1) The mentor firm and protege firm under a mentor-prote
 
 “(B) The Secretary shall act through the Commander of the Defense Contract Management Command in carrying out the reviews and making the determinations under subparagraph (A).
 
-“(3) Not later than 6 months after the end of each of fiscal years 2000 through 2004, the Secretary of Defense shall submit to Congress an annual report on the Mentor-Protege Program for that fiscal year.
+“(3) Not later than 6 months after the end of each of fiscal years 2000 through 2007, the Secretary of Defense shall submit to Congress an annual report on the Mentor-Protege Program for that fiscal year.
 
 “(4) The annual report for a fiscal year shall include, at a minimum, the following:
 
@@ -792,7 +866,7 @@ Definitions.—In this section:
 
 &emsp;“(3) The term ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ has the meaning given such term in section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)).
 
-&emsp;“(4) The term ‘historically Black college and university’ means any of the historically Black colleges and universities referred to in section 2323 of title 10, United States Code.
+&emsp;“(4) The term ‘historically Black college and university’ means any of the historically Black collegesand universities referred to in section 2323 of title 10, United States Code.
 
 &emsp;“(5) The term ‘minority institution of higher education’ means an institution of higher education with a student body that reflects the composition specified in section 312(b)(3), (4), and (5) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)(3), (4), and (5)).
 
@@ -875,7 +949,7 @@ Rule for Date of Enactment.—(1) The date of the enactment of the provisions of
 
 #### Contract Goal for Minorities
 
-Section 1207 of Pub. L. 99–661, as amended by Pub. L. 100–180, div. A, title VIII, §806(d), 101 Stat. 1127; Pub. L.100–456, div. A, title VIII, §844, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–189, div. A, title VIII, §831, Nov. 29, 1989, 103 Stat. 1507; Pub. L. 101–510, div. A, title VIII, §§811, 832, title XIII, §§1302(d), 1312(b), Nov. 5, 1990, 104 Stat. 1596, 1612, 1669, 1670; Pub. L. 102–25, title VII, §§704(a)(6), 705(e), Apr. 6, 1991, 105 Stat. 118, 120, which set contract goals for small disadvantaged businesses and certain institutions of higher education, was repealed and restated in section 2323 of this title by Pub. L. 102–484, §801(a)(1)(B), (h)(1).
+Section 1207 of Pub. L. 99–661, as amended by Pub. L. 100–180, div. A, title VIII, §806(d), 101 Stat. 1127; Pub. L. 100–456, div. A, title VIII, §844, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 101–189, div. A, title VIII, §831, Nov. 29, 1989, 103 Stat. 1507; Pub. L. 101–510, div. A, title VIII, §§811, 832, title XIII, §§1302(d), 1312(b), Nov. 5, 1990, 104 Stat. 1596, 1612, 1669, 1670; Pub. L. 102–25, title VII, §§704(a)(6), 705(e), Apr. 6, 1991, 105 Stat. 118, 120, which set contract goals for small disadvantaged businesses and certain institutions of higher education, was repealed and restated in section 2323 of this title by Pub. L. 102–484, §801(a)(1)(B), (h)(1).
 
 #### Minimum Percentage of Competitive Procurements
 

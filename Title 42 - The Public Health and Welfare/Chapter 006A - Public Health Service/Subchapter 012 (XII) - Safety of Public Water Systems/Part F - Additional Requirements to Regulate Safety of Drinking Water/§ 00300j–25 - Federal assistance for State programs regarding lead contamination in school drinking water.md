@@ -12,7 +12,7 @@ Each grant under this section shall be used by the State for testing water coole
 
 There are authorized to be appropriated to carry out this section not more than $30,000,000 for fiscal year 1989, $30,000,000 for fiscal year 1990, and $30,000,000 for fiscal year 1991.
 
-(July 1, 1944, ch. 373, title XIV, §1465, as added Pub. L. 100–572, §2(a), Oct. 31, 1988, 102 Stat. 2887;amended Pub. L. 104–182, title V, §501(d), (f)(11), Aug. 6, 1996, 110 Stat. 1691, 1692.)
+(July 1, 1944, ch. 373, title XIV, §1465, as added Pub. L. 100–572, §2(a), Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 104–182, title V, §501(d), (f)(11), Aug. 6, 1996, 110 Stat. 1691, 1692.)
 
 #### Amendments
 

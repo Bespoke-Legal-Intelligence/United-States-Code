@@ -8,7 +8,7 @@ In order to help retired individuals and working older individuals to avail them
 
 &emsp;(2) only individuals 55 years of age or older will be enrolled, and individuals 60 years of age or older will be given priority for enrollment, as volunteers to provide services under this part (except for administrative purposes), and such services will be performed in the community where such individuals reside or in nearby communities either (A) on publicly owned and operated facilities or projects, or (B) on local projects sponsored by private nonprofit organizations (other than political parties), other than projects involving the construction, operation, or maintenance of so much of any facility used or to be used for sectarian instruction or as a place for religious worship;
 
-&emsp;(3) the project includes such short-term training as may be necessary to make the most effective use of the skills and talents of participating volunteers and individuals, and provide for the payment of the reasonable expenses of such volunteers while undergoing such training; and
+&emsp;(3) the project includes such short-term training as may be necessary to make themost effective use of the skills and talents of participating volunteers and individuals, and provide for the payment of the reasonable expenses of such volunteers while undergoing such training; and
 
 &emsp;(4) the project is being established and will be carried out with the advice of persons competent in the field of service involved, and of persons with interest in and knowledge of the needs of older persons.
 
@@ -22,7 +22,7 @@ The Director shall not award any grant or contract under this part for a project
 
 #### (d) Volunteer service as employment
 
-Notwithstanding any other provision of law, volunteer service under this part shall not bedeemed employment for any purpose which the Director finds is not fully consistent with the provisions and in furtherance of the purpose of this part.
+Notwithstanding any other provision of law, volunteer service under this part shall not be deemed employment for any purpose which the Director finds is not fully consistent with the provisions and in furtherance of the purpose of this part.
 
 (Pub. L. 93–113, title II, §201, Oct. 1, 1973, 87 Stat. 401; Pub. L. 93–351, §4, July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title IV, §402(a), Oct. 18, 1978, 92 Stat. 1556; Pub. L. 98–288, §14(a), (b), May 21, 1984, 98 Stat. 192; Pub. L. 101–204, title IX, §902(2), Dec. 7, 1989, 103 Stat. 1826; Pub. L. 103–82, title III, §343, Sept. 21, 1993, 107 Stat. 904.)
 

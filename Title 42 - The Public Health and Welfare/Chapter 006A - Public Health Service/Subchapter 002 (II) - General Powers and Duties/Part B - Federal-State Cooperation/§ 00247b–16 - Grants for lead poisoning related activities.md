@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall make grants to States to support public health activities in States and localities where data suggests that at least 5 percent of preschool-age children have an elevated blood lead level through—
+&emsp;The Secretary shall make grants to States to support public health activities in States and localities where data suggests that atleast 5 percent of preschool-age children have an elevated blood lead level through—
 
 &emsp;&emsp;(A) effective, ongoing outreach and community education targeted to families most likely to be at risk for lead poisoning;
 
@@ -32,7 +32,7 @@ A State shall identify in the application for a grant under this section how the
 
 &emsp;&emsp;(B) the head start program established under the Head Start Act (42 U.S.C. 9831 et seq.);
 
-&emsp;&emsp;(C) the program of assistance under the special supplemental nutrition program forwomen, infants and children (WIC) under section 1786 of this title;
+&emsp;&emsp;(C) the program of assistance under the special supplemental nutrition program for women, infants and children (WIC) under section 1786 of this title;
 
 &emsp;&emsp;(D) local public and private elementary or secondary schools; or
 

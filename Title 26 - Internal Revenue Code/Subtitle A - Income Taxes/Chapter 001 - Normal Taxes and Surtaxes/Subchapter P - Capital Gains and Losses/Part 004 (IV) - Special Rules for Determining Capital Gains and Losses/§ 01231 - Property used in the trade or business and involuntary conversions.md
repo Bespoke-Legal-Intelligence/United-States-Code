@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(ii) any capital asset which is held for more than 1 year and is held in connection with a trade or business or a transaction entered into for profit,
 
-> &emsp;&emsp;this subsection shall not apply to such conversion (whether resulting in gain or loss) ifduring the taxable year the recognized losses from such conversions exceed the recognized gains from such conversions.
+> &emsp;&emsp;this subsection shall not apply to such conversion (whether resulting in gain or loss) if during the taxable year the recognized losses from such conversions exceed the recognized gains from such conversions.
 
 #### (b) Definition of property used in the trade or business
 
@@ -148,7 +148,7 @@ Pub. L. 98–369, §711(c)(2)(A)(iii), amended subsec. (a) generally, substituti
 
 &emsp;“(1) in determining under this subsection whether gains exceed losses, the gains described therein shall be included only if and to the extent taken into account in computing gross income and the losses described therein shall be included only if and to the extent taken into account in computing taxable income, except that section 1211 shall not apply; and
 
-&emsp;“(2) losses (including losses not compensated for by insurance or otherwise) upon the destruction, inwhole or in part, theft or seizure, or requisition or condemnation of (A) property used in the trade or business or (B) capital assets held for more than 1 year shall be considered losses from a compulsory or involuntary conversion.
+&emsp;“(2) losses (including losses not compensated for by insurance or otherwise) upon the destruction, in whole or in part, theft or seizure, or requisition or condemnation of (A) property used in the trade or business or (B) capital assets held for more than 1 year shall be considered losses from a compulsory or involuntary conversion.
 
 > In the case of any involuntary conversion (subject to the provisions of this subsection but for this sentence) arising from fire, storm, shipwreck, or other casualty, or from theft, of any property used in the trade or business or of any capital asset held for more than 1 year, this subsection shall not apply to such conversion (whether resulting in gain or loss) if during the taxable year the recognized losses from such conversions exceed the recognized gains from such conversions.”
 

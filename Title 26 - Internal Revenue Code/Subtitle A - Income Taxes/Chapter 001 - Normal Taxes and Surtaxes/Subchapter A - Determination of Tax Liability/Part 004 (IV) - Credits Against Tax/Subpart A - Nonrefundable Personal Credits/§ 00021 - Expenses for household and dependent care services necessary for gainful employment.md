@@ -8,7 +8,7 @@
 
 #### (2) Applicable percentage defined
 
-&emsp;For purposes of paragraph (1), the term “applicable percentage” means 30 percent reduced (but not below 20 percent) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $10,000.
+&emsp;For purposes of paragraph (1), the term “applicable percentage” means 35 percent reduced (but not below 20 percent) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $15,000.
 
 #### (b) Definitions of qualifying individual and employment-related expenses
 
@@ -64,9 +64,9 @@ For purposes of this section—
 
 The amount of the employment-related expenses incurred during any taxable year which may be taken into account under subsection (a) shall not exceed—
 
-&emsp;(1) $2,400 if there is 1 qualifying individual with respect to the taxpayer for such taxable year, or
+&emsp;(1) $3,000 if there is 1 qualifying individual with respect to the taxpayer for such taxable year, or
 
-&emsp;(2) $4,800 if there are 2 or more qualifying individuals with respect to the taxpayer for such taxable year.
+&emsp;(2) $6,000 if there are 2 or more qualifying individuals with respect to the taxpayer for such taxable year.
 
 > The amount determined under paragraph (1) or (2) (whichever is applicable) shall be reduced by the aggregate amount excludable from gross income under section 129 for the taxable year.
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if such person is an organization described in section 501(c)(3) and exempt from tax under section 501(a), the name and address of such person are included on the return claiming the credit.
 
-> &emsp;In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
+> &emsp;In the case of a failure to provide the information required under the preceding sentence,the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required.
 
 #### (10) Identifying information required with respect to qualifying individuals
 
@@ -166,13 +166,23 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853.)
+(Added Pub. L. 94–455, title V, §504(a)(1), Oct. 4, 1976, 90 Stat. 1563, §44A; amended Pub. L. 95–600, title I, §121(a), Nov. 6, 1978, 92 Stat. 2779; Pub. L. 97–34, title I §124 (a)–(d), Aug. 13, 1981, 95 Stat. 197, 198; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §21 and amended Pub. L. 98–369, div. A, title IV, §§423(c)(4), 471(c), 474(c), July 18, 1984, 98 Stat. 801, 826, 830; Pub. L. 99–514, title I, §104(b)(1), Oct. 22, 1986, 100 Stat. 2104; Pub. L. 100–203, title X, §10101(a), Dec. 22, 1987, 101 Stat. 1330–384; Pub. L. 100–485, title VII, §703(a)–(c)(1), Oct. 13, 1988, 102 Stat. 2426, 2427; Pub. L. 104–188, title I, §1615(b), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 107–16, title II, §204(a), (b), June 7, 2001, 115 Stat. 49.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 21 was renumbered section 15 of this title.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–16, §§204(b), 901, temporarily substituted “35 percent” for “30 percent” and “$15,000” for “$10,000”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(1). Pub. L. 107–16, §§204(a)(1), 901, temporarily substituted “$3,000” for “$2,400”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(2). Pub. L. 107–16, §§204(a)(2), 901, temporarily substituted “$6,000” for “$4,800”. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1996</b>—Subsec. (e)(10). Pub. L. 104–188 added par. (10).
 
@@ -242,7 +252,13 @@ Subsec. (e)(2)(A). Pub. L. 97–34, §124(b)(2)(A), substituted “$200” for �
 
 Subsec. (e)(2)(B). Pub. L. 97–34, §124(b)(2)(B), substituted “$400” for “$333”.
 
-<b>1978</b>—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of 19 at the close of the taxpayer year and defining “taxpayer year” for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
+<b>1978</b>—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of19 at the close of the taxpayer year and defining “taxpayer year” for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title II, §204(c), June 7, 2001, 115 Stat. 50, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

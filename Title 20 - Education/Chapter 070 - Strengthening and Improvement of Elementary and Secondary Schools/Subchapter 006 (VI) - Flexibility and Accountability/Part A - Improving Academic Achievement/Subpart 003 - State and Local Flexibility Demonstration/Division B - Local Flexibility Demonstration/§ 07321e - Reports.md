@@ -1,0 +1,12 @@
+### §7321e. Reports
+
+#### (a) Transmittal to Congress
+
+Not later than 60 days after the Secretary receives a report described in section 7321(b)(10) <sup>1</sup> of this title, the Secretary shall make the report available to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+#### (b) Limitation
+
+A State in which a local educational agency that has a local flexibility demonstration agreement is located may not require such local educational agency to provide any application information with respect to the programs included within the scope of that agreement other than that information that is required to be included in the report described in section 7321(b)(10) <sup>1</sup> of this title.
+
+(Pub. L. 89–10, title VI, §6156, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1890.)
+

@@ -40,7 +40,7 @@ Use of Receipts for Commercial Use.—Any receipts collected by NASA from the co
 
 “(c)
 
-Report.—NASA shall submit an annual report to the Congress that identifies all receipts that are collected under this section, the use of the receipts and the status of the demonstration. NASA shall submit a final report on the status of the demonstration, including any recommendation for expansion, within 120 days of the completion of the assembly of the International Space Station or the end of fiscal year 2002, whichever is earlier.
+Report.—NASA shall submit an annual report to the Congress that identifies all receipts that are collected under this section, the use of the receipts andthe status of the demonstration. NASA shall submit a final report on the status of the demonstration, including any recommendation for expansion, within 120 days of the completion of the assembly of the International Space Station or the end of fiscal year 2002, whichever is earlier.
 
 “(d)
 

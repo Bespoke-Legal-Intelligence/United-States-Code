@@ -4,7 +4,11 @@
 
 #### (1) In general
 
-&emsp;In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.
+&emsp;In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter—
+
+&emsp;&emsp;(A) in the case of an adoption of a child other than a child with special needs, the amount of the qualified adoption expenses paid or incurred by the taxpayer, and
+
+&emsp;&emsp;(B) in the case of an adoption of a child with special needs, $10,000.
 
 #### (2) Year credit allowed
 
@@ -14,11 +18,13 @@
 
 &emsp;&emsp;(B) in the case of an expense paid or incurred during or after the taxable year in which such adoption becomes final, for the taxable year in which such expense is paid or incurred.
 
+> &emsp;In the case of the adoption of a child with special needs, the credit allowed under paragraph (1) shall be allowed for the taxable year in which the adoption becomes final.
+
 #### (b) Limitations
 
 #### (1) Dollar limitation
 
-&emsp;The aggregate amount of qualified adoption expenses which may be taken into account under subsection (a) for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $5,000 ($6,000, in the case of a child with special needs).
+&emsp;The aggregate amount of qualified adoption expenses which may be taken into account under subsection (a)(1)(A) for all taxable years with respect to the adoption of a child by the taxpayer shall not exceed $10,000.
 
 #### (2) Income limitation
 
@@ -26,7 +32,7 @@
 
 &emsp;&emsp;The amount allowable as a credit under subsection (a) for any taxable year (determined without regard to subsection (c)) shall be reduced (but not below zero) by an amount which bears the same ratio to the amount so allowable (determined without regard to this paragraph but with regard to paragraph (1)) as—
 
-&emsp;&emsp;&emsp;(i) the amount (if any) by which the taxpayer's adjusted gross income exceeds $75,000, bears to
+&emsp;&emsp;&emsp;(i) the amount (if any) by which the taxpayer's adjusted gross income exceeds $150,000, bears to
 
 &emsp;&emsp;&emsp;(ii) $40,000.
 
@@ -44,9 +50,17 @@
 
 &emsp;&emsp;No credit shall be allowed under subsection (a) for any expense to the extent that funds for such expense are received under any Federal, State, or local program.
 
+#### (4) Limitation based on amount of tax
+
+&emsp;The credit allowed under subsection (a) for any taxable year shall not exceed the excess of—
+
+&emsp;&emsp;(A) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+
+&emsp;&emsp;(B) the sum of the credits allowable under this subpart (other than this section) and section 27 for the taxable year.
+
 #### (c) Carryforwards of unused credit
 
-If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section 1400C), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year. No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
+If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by subsection (b)(4) for such taxable year, such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year. No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.
 
 #### (d) Definitions
 
@@ -66,15 +80,11 @@ For purposes of this section—
 
 #### (2) Eligible child
 
-&emsp;The term “eligible child” means any individual—
+&emsp;The term “eligible child” means any individual who—
 
-&emsp;&emsp;(A) who—
+&emsp;&emsp;(A) has not attained age 18, or
 
-&emsp;&emsp;&emsp;(i) has not attained age 18, or
-
-&emsp;&emsp;&emsp;(ii) is physically or mentally incapable of caring for himself, and
-
-&emsp;&emsp;(B) in the case of qualified adoption expenses paid or incurred after December 31, 2001, who is a child with special needs.
+&emsp;&emsp;(B) is physically or mentally incapable of caring for himself.
 
 #### (3) Child with special needs
 
@@ -114,11 +124,23 @@ In the case of an adoption of a child who is not a citizen or resident of the Un
 
 For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
-#### (h) Regulations
+#### (h) Adjustments for inflation
+
+In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in subsection (a)(1)(B) and paragraphs (1) and (2)(A)(i) of subsection (b) shall be increased by an amount equal to—
+
+&emsp;(1) such dollar amount, multiplied by
+
+&emsp;(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2001” for “calendar year 1992” in subparagraph (B) thereof.
+
+#### (i) Regulations
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar limitation in subsection (b)(1) of this section and in section 137(b)(1).
 
-(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823.)
+(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -126,11 +148,39 @@ A prior section 23, added Pub. L. 95–618, title I, §101(a), Nov. 9, 1978, 92 
 
 #### Amendments
 
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §§202(a)(1), 901, temporarily amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter the amount of the qualified adoption expenses paid or incurred by the taxpayer.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (a)(2). Pub. L. 107–16, §§202(c), 901, temporarily inserted concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(1). Pub. L. 107–16, §§202(b)(1)(A), 901, temporarily substituted “subsection (a)(1)(A)” for “subsection (a)” and “$10,000” for “$5,000” and struck out “($6,000, in the case of a child with special needs)” before period at end. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(2)(A)(i). Pub. L. 107–16, §§202(b)(2)(A), 901, temporarily substituted “$150,000” for “$75,000”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(4). Pub. L. 107–16, §§202(f)(1), 901, temporarily added par. (4). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c). Pub. L. 107–16, §§202(f)(2)(A), 901, temporarily substituted “subsection (b)(4)” for “section 26(a)” and struck out “reduced by the sum of the credits allowable under this subpart (other than this section and sections 24 and 1400C)” before “, such excess”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§201(b)(2)(E), 901, temporarily substituted “and sections 24 and 1400C” for “and section 1400C”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(2). Pub. L. 107–16, §§202(d)(1), 901, temporarily amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘eligible child’ means any individual—
+
+&emsp;“(A) who—
+
+&emsp;&emsp;“(i) has not attained age 18, or
+
+&emsp;&emsp;“(ii) is physically or mentally incapable of caring for himself, and
+
+&emsp;“(B) in the case of qualified adoption expenses paid or incurred after December 31, 2001, who is a child with special needs.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsecs. (h), (i). Pub. L. 107–16, §§202(e)(1), 901, temporarily added subsec. (h) and redesignated former subsec. (h) as (i). See Effective and Termination Dates of 2001 Amendment note below.
+
 <b>1998</b>—Subsec. (b)(2)(A). Pub. L. 105–206, §6018(f)(1), inserted “(determined without regard to subsection (c))” after “for any taxable year” in introductory provisions.
 
 Subsec. (c). Pub. L. 105–206, §6008(d)(6), inserted “and section 1400C” after “other than this section”.
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34, §1601(h)(2)(A), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The credit under paragraph (1) with respect to any expense shall be allowed—
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34, §1601(h)(2)(A), amended heading and text of par. (2) generally. Prior toamendment, text read as follows: “The credit under paragraph (1) with respect to any expense shall be allowed—
 
 &emsp;“(A) for the taxable year following the taxable year during which such expense is paid or incurred, or
 
@@ -141,6 +191,22 @@ Subsec. (b)(2)(B). Pub. L. 105–34, §1601(h)(2)(B), substituted “determined 
 &emsp;“(i) without regard to sections 911, 931, and 933, and
 
 &emsp;“(ii) after the application of sections 86, 135, 137, 219, and 469.”
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 201(b)(2)(E) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
+
+Pub. L. 107–16, title II, §202(g), June 7, 2001, 115 Stat. 49, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 24, 26, 137, 904, and 1400C of this title\] shall apply to taxable years beginning after December 31, 2001.
+
+“(2)
+
+Subsection (a).—The amendments made by subsection (a) \[amending this section and section 137 of this title\] shall apply to taxable years beginning after December 31, 2002.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -162,7 +228,7 @@ Certain administrative requirements with respect to certain pension plans.—The
 
 #### Effective Date
 
-Section 1807(e) of Pub. L. 104–188 provided that: “The amendments made by this section \[enacting this section and section 137 of this title, renumbering former section 137 of this title as section 138, and amending sections 25, 86, 135, 219, 469, and 1016 of this title\] shallapply to taxable years beginning after December 31, 1996.”
+Section 1807(e) of Pub. L. 104–188 provided that: “The amendments made by this section \[enacting this section and section 137 of this title, renumbering former section 137 of this title as section 138, and amending sections 25, 86, 135, 219, 469, and 1016 of this title\] shall apply to taxable years beginning after December 31, 1996.”
 
 #### Tax Credit and Gross Income Exclusion Study and Report
 
@@ -170,5 +236,5 @@ Section 1807(d) of Pub. L. 104–188 provided that: “The Secretary of the Trea
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 25, 137, 1016 of this title.
+This section is referred to in sections 24, 25, 25B, 26, 137, 904, 1016, 1400C of this title.
 

@@ -384,8 +384,6 @@ David Berger Memorial, Ohio.—Pub. L. 96–199, title I, §116, Mar. 5, 1980, 9
 
 Disabled American Veterans Vietnam Veterans National Memorial, New Mexico.—Recognized as a memorial of national significance by Pub. L. 100–164, Nov. 13, 1987, 101 Stat. 905.
 
-Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274.
-
 Father Marquette National Memorial, Michigan.—Pub. L. 94–160, Dec. 20, 1975, 89 Stat. 848.
 
 Federal Hall National Memorial, New York.—Designated May 26, 1939. Designation changed from Federal Hall Memorial Historic Site by act Aug. 11, 1955, ch. 779, 69 Stat. 632.
@@ -436,7 +434,9 @@ Vietnam Veterans Memorial, District of Columbia.—Pub. L. 96–297, July 1, 198
 
 Washington Monument National Memorial, District of Columbia.—Act Aug. 2, 1876, ch. 250, §1, 19 Stat. 123.
 
-World War II Memorial, Guam.—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2886\], Oct. 30, 2000, 114 Stat. 1654, 1654A–441.
+White Cross World War I Memorial, California.—Pub. L. 107–117, div. A, title VIII, §8137, Jan. 10, 2002, 115 Stat. 2278.
+
+World War II Memorial, Guam.—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2886\], Oct. 30, 2000, 114 Stat. 1654, 1654A–441, as amended by Pub. L. 107–107, div. B, title XXVIII, §2868, Dec. 28, 2001, 115 Stat. 1334.
 
 Wright Brothers National Memorial, North Carolina.—Kill Devil Hill National Monument authorized by act Mar. 2, 1927, ch. 251, 44 Stat. 1264. Name changed to Wright Brothers National Memorial, Dec. 1, 1953.
 

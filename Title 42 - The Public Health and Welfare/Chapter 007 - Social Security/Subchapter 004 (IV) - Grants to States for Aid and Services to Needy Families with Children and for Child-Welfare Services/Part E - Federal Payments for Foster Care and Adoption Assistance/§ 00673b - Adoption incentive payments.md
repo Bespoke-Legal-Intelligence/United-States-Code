@@ -36,7 +36,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 #### (B) Alternative data sources permitted for fiscal years 1995 through 1997
 
-&emsp;&emsp;For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that the Secretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998.
+&emsp;&emsp;For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that theSecretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998.
 
 #### (3) No waiver of AFCARS requirements
 

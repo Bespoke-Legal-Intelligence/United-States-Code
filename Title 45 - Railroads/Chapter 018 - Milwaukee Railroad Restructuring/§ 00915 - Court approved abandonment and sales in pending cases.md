@@ -34,7 +34,7 @@ Notwithstanding any other provision of law, in any case pending under section 77
 
 (H) As used in this paragraph, the term—
 
-&emsp;(i) “carrier subject to liquidation” means a carrier which, on January 14, 1983, was thesubject of a proceeding pending under section 77 of the Bankruptcy Act or under subchapter IV of chapter 11 of title 11 and which has been ordered by the court to liquidate its properties;
+&emsp;(i) “carrier subject to liquidation” means a carrier which, on January 14, 1983, was the subject of a proceeding pending under section 77 of the Bankruptcy Act or under subchapter IV of chapter 11 of title 11 and which has been ordered by the court to liquidate its properties;
 
 &emsp;(ii) “the court” means the court having bankruptcy jurisdiction over the carrier subject to liquidation; and
 

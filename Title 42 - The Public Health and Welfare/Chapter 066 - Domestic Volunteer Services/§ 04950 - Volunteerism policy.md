@@ -1,6 +1,6 @@
 ### §4950. Volunteerism policy
 
-(a) Because of the long-standing importance of volunteerism throughout American history, it is the policy of the Congress to foster the tradition of volunteerism through greater involvement on the part of both young and older citizens.
+(a) Because of the long-standing importance of volunteerism throughout American history, it isthe policy of the Congress to foster the tradition of volunteerism through greater involvement on the part of both young and older citizens.
 
 (b) The purpose of this chapter is to foster and expand voluntary citizen service in communities throughout the Nation in activities designed to help the poor, the disadvantaged, the vulnerable, and the elderly. In carrying out this purpose, the Corporation for National and Community Service shall utilize to the fullest extent the programs authorized under this chapter, coordinate with other Federal, State, and local agencies and utilize the energy, innovative spirit, experience, and skills of all Americans.
 
@@ -24,7 +24,7 @@ Section 11 of Pub. L. 99–551 provided that: “Except as otherwise provided, t
 
 #### Short Title of 1993 Amendment
 
-Section 311(a) of title III of Pub. L. 103–82, provided that: “This subtitle \[subtitle B (§§311, 392) of title III ofPub. L. 103–82, enacting sections 5028, 5028a, and 5065 of this title, amending sections 4951 to 4955, 4957, 4959, 4960, 4971 to 4973, 4992, 4993, 5000, 5001, 5011, 5013, 5021, 5024 to 5026, 5041 to 5044, 5055, 5057, 5062, 5081, 5082, and 5084 of this title and sections 8143, 8332, 8334, 8411, and 8422 of Title 5, Government Organization and Employees, repealing sections 4974, 4994, 5012, 5047, 5060, and 5091 to 5091n of this title, enacting provisions set out as notes under sections 4951 and 4952 of this title, and section 8332 of Title 5, and amending provisions set out as notes under this section and section 5001 of this title\] may be cited as the ‘Domestic Volunteer Service Act Amendments of 1993’.”
+Section 311(a) of title III of Pub. L. 103–82, provided that: “This subtitle \[subtitle B (§§311, 392) of title III of Pub. L. 103–82, enacting sections 5028, 5028a, and 5065 of this title, amending sections 4951 to 4955, 4957, 4959, 4960, 4971 to 4973, 4992, 4993, 5000, 5001, 5011, 5013, 5021, 5024 to 5026, 5041 to 5044, 5055, 5057, 5062, 5081, 5082, and 5084 of this title and sections 8143, 8332, 8334, 8411, and 8422 of Title 5, Government Organization and Employees, repealing sections 4974, 4994, 5012, 5047, 5060, and 5091 to 5091n of this title, enacting provisions set out as notes under sections 4951 and 4952 of this title, and section 8332 of Title 5, and amending provisions set out as notes under this section and section 5001 of this title\] may be cited as the ‘Domestic Volunteer Service Act Amendments of 1993’.”
 
 #### Short Title of 1989 Amendment
 

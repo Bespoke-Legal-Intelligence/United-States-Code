@@ -18,7 +18,7 @@ Township 62 north, range 4 west, fourth principal meridian: Sections 1 to 6, inc
 
 Township 62 north, range 5 west, fourth principal meridian: Sections 1 to 24, inclusive.
 
-Township 62 north, range 6 west, fourth principal meridian: Sections 1 to 20, inclusive; northhalf section 21; sections 22 to 24, inclusive; sections 29 to 32, inclusive.
+Township 62 north, range 6 west, fourth principal meridian: Sections 1 to 20, inclusive; north half section 21; sections 22 to 24, inclusive; sections 29 to 32, inclusive.
 
 Township 62 north, range 7 west, fourth principal meridian: Entire township.
 

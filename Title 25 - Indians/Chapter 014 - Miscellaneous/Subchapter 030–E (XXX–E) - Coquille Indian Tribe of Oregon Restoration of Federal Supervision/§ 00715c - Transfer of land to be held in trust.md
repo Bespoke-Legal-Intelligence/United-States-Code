@@ -42,7 +42,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 &emsp;(B) Two years after September 30, 1996, the Secretary shall take the lands identified under subparagraph (d)(1)(A) into trust, and shall hold such lands in trust, in perpetuity, for the Coquille Tribe. Such lands shall be thereafter designated as the Coquille Forest.
 
-&emsp;(C) So as to maintain the current flow of revenue from land subject to the Act entitled “An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon” (the O\&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), the Secretary shall redesignate, from public domain lands within the tribe's service area, as defined inthis subchapter, certain lands to be subject to the O\&C Act. Lands redesignated under this subparagraph shall not exceed lands sufficient to constitute equivalent timber value as compared to lands constituting the Coquille Forest.
+&emsp;(C) So as to maintain the current flow of revenue from land subject to the Act entitled “An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon” (the O\&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), the Secretary shall redesignate, from public domain lands within the tribe's service area, as defined in this subchapter, certain lands to be subject to the O\&C Act. Lands redesignated under this subparagraph shall not exceed lands sufficient to constitute equivalent timber value as compared to lands constituting the Coquille Forest.
 
 #### (5) Management
 

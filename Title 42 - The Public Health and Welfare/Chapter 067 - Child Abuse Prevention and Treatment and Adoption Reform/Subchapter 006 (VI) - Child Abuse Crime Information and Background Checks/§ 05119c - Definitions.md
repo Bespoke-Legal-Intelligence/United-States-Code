@@ -22,7 +22,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(A) a person who—
 
-&emsp;&emsp;&emsp;(i) is employed by or volunteers with a qualified entity;
+&emsp;&emsp;&emsp;(i) is employed by or volunteers with a qualified entity (including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel);
 
 &emsp;&emsp;&emsp;(ii) who owns or operates a qualified entity; or
 
@@ -30,7 +30,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(B) a person who—
 
-&emsp;&emsp;&emsp;(i) seeks to be employed by or volunteer with a qualified entity;
+&emsp;&emsp;&emsp;(i) seeks to be employed by or volunteer with a qualified entity (including an individual who seeks to be employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel);
 
 &emsp;&emsp;&emsp;(ii) seeks to own or operate a qualified entity; or
 
@@ -40,11 +40,15 @@ For the purposes of this subchapter—
 
 &emsp;(11) the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and the Trust Territories of the Pacific.
 
-(Pub. L. 103–209, §5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(a)(3), (j), Sept. 13, 1994, 108 Stat. 2132, 2133.)
+(Pub. L. 103–209, §5, Dec. 20, 1993, 107 Stat. 2493; Pub. L. 103–322, title XXXII, §320928(a)(3), (j), Sept. 13, 1994, 108 Stat. 2132, 2133; Pub. L. 107–110, title X, §1075, Jan. 8, 2002, 115 Stat. 2090.)
 
 #### Amendments
 
-1994—Par. (5). Pub. L. 103–322, §320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provisionof care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
+2002—Par. (9)(A)(i). Pub. L. 107–110, §1075(1), inserted before semicolon at end “(including an individual who is employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
+
+Par. (9)(B)(i). Pub. L. 107–110, §1075(2), inserted before semicolon at end “(including an individual who seeks to be employed by a school in any capacity, including as a child care provider, a teacher, or another member of school personnel)”.
+
+1994—Par. (5). Pub. L. 103–322, §320928(a)(3)(A), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “the term ‘child care’ means the provision of care, treatment, education, training, instruction, supervision, or recreation to children by persons having unsupervised access to a child;”.
 
 Pars. (6), (7). Pub. L. 103–322, §320928(j)(2), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
 
@@ -53,6 +57,10 @@ Par. (8). Pub. L. 103–322, §320928(j)(1), redesignated par. (6) as (8). Forme
 Pub. L. 103–322, §320928(a)(3)(B), substituted “care” for “child care” wherever appearing.
 
 Pars. (9) to (11). Pub. L. 103–322, §320928(j)(1), redesignated pars. (7) to (9) as (9) to (11), respectively.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Termination of Trust Territory of the Pacific Islands
 

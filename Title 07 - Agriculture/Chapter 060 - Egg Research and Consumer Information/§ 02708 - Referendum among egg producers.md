@@ -6,7 +6,7 @@ The Secretary shall conduct a referendum among egg producers not exempt hereunde
 
 #### (b) Request by Egg Board for referendum
 
-(1) If the Egg Board determines, based on a scientific study, marketing analysis, or other similar competent evidence, that an increase in the assessment rate is needed to ensure that assessments under the order are set at an appropriate level to effectuate the policy declared in section 2701 of this title, the Egg Board may requestthat the Secretary conduct a referendum, as provided in paragraph (2).
+(1) If the Egg Board determines, based on a scientific study, marketing analysis, or other similar competent evidence, that an increase in the assessment rate is needed to ensure that assessments under the order are set at an appropriate level to effectuate the policy declared in section 2701 of this title, the Egg Board may request that the Secretary conduct a referendum, as provided in paragraph (2).
 
 (2)(A) If the Egg Board requests the Secretary to conduct a referendum under paragraph (1) or (3), the Secretary shall conduct a referendum among egg producers not exempt from this chapter who, during a representative period determined by the Secretary, have been engaged in the production of commercial eggs, for the purpose of ascertaining whether the producers approve the change in the assessment rate proposed by the Egg Board.
 
@@ -18,7 +18,7 @@ The Secretary shall conduct a referendum among egg producers not exempt hereunde
 
 (3)(A) In the case of the order in effect on December 14, 1993, the Egg Board shall determine under paragraph (1), as soon as practicable after December 14, 1993, whether to request that the Secretary conduct a referendum under paragraph (2).
 
-(B) If the Egg Board makes such a request on the basis of competent evidence, as provided in paragraph (1), the Secretary shall conduct the referendum as soon as practicable, but not later than—
+(B) If the Egg Board makes such a request on the basis of competent evidence, as provided inparagraph (1), the Secretary shall conduct the referendum as soon as practicable, but not later than—
 
 &emsp;(i) 120 days after receipt of the request from the Egg Board; or
 

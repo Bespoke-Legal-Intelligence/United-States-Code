@@ -12,7 +12,7 @@ It is the intention of the Congress that the Board of Governors of the Federal R
 
 #### (2) Banking agency information
 
-&emsp;Upon the request of the appropriate insurance regulator of any State, the appropriate Federal banking agency may provide any information of the agency regarding any transaction or relationship between a depository institution supervised by such Federal banking agency and any affiliated company that is engaged in insurance activities regulated by such State insurance regulator. The appropriate Federal banking agency may provide any other information to the appropriateState insurance regulator that the agency believes is necessary or appropriate to permit the State insurance regulator to administer and enforce applicable State insurance laws.
+&emsp;Upon the request of the appropriate insurance regulator of any State, the appropriate Federal banking agency may provide any information of the agency regarding any transaction or relationship between a depository institution supervised by such Federal banking agency and any affiliated company that is engaged in insurance activities regulated by such State insurance regulator. The appropriate Federal banking agency may provide any other information to the appropriate State insurance regulator that the agency believes is necessary or appropriate to permit the State insurance regulator to administer and enforce applicable State insurance laws.
 
 #### (3) State insurance regulator information
 

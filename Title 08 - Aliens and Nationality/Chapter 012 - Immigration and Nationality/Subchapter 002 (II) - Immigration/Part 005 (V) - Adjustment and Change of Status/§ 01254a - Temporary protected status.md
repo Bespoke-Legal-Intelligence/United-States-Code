@@ -16,7 +16,7 @@
 
 #### (3) Notice
 
-&emsp;(A) Upon the granting of temporary protected status under this section, the Attorney General shall provide the alien with information concerning such status under this section.
+&emsp;(A) Upon the granting of temporary protected status under this section, the AttorneyGeneral shall provide the alien with information concerning such status under this section.
 
 &emsp;(B) If, at the time of initiation of a removal proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b) of this section, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
 
@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;The Attorney General, after consultation with appropriate agencies of the Government, may designate any foreign state (or any partof such foreign state) under this subsection only if—
+&emsp;The Attorney General, after consultation with appropriate agencies of the Government, may designate any foreign state (or any part of such foreign state) under this subsection only if—
 
 &emsp;&emsp;(A) the Attorney General finds that there is an ongoing armed conflict within the state and, due to such conflict, requiring the return of aliens who are nationals of that state to that state (or to the part of the state) would pose a serious threat to their personal safety;
 

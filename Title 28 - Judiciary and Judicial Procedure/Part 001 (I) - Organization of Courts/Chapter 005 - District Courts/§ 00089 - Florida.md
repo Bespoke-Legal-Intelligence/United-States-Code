@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 95–408, §4(a)(2), struck out Madison from the counties c
 
 <b>1970</b>—Subsec. (c). Pub. L. 91–272 provided for holding court at Fort Lauderdale.
 
-<b>1962</b>—Pub. L. 87–562 struck out provisions which authorized court for the Northern District to be held atLive Oak, and for the Southern District at Fernandina, Fort Myers, Jacksonville, Ocala, Orlando, and Tampa, and removed the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Columbia, De Soto, Duval, Flagler, Hamilton, Hardee, Hernando, Hillsborough, Lake, Lee, Madison, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, Saint Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia from the Southern District and created the Middle District to comprise such counties.
+<b>1962</b>—Pub. L. 87–562 struck out provisions which authorized court for the Northern District to be held at Live Oak, and for the Southern District at Fernandina, Fort Myers, Jacksonville, Ocala, Orlando, and Tampa, and removed the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Columbia, De Soto, Duval, Flagler, Hamilton, Hardee, Hernando, Hillsborough, Lake, Lee, Madison, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, Saint Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia from the Southern District and created the Middle District to comprise such counties.
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–36 provided for holding court at Live Oak.
 

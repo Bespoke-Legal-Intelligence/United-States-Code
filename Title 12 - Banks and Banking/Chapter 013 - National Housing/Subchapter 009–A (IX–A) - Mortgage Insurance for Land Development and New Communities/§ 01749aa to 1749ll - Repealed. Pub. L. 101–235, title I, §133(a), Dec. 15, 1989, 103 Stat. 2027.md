@@ -28,7 +28,7 @@ Section 1749<i>ll</i>, act June 27, 1934, ch. 847, title X, §1013, formerly §1
 
 #### Savings Provision
 
-Section 133(c) of Pub. L. 101–235 provided that: “Any contract of insurance entered into under title X \[thissubchapter, §§1749aa to 1749<i>ll</i>\] before the date of enactment of this Act \[Dec. 15, 1989\] shall be governed by the provisions of such title as such title existed immediately before such date.”
+Section 133(c) of Pub. L. 101–235 provided that: “Any contract of insurance entered into under title X \[this subchapter, §§1749aa to 1749<i>ll</i>\] before the date of enactment of this Act \[Dec. 15, 1989\] shall be governed by the provisions of such title as such title existed immediately before such date.”
 
 #### Applicability of Repeal
 

@@ -32,7 +32,7 @@ Any election affecting the computation of taxable income derived from a partners
 
 > shall be made by each partner separately.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 89–570, §2(b), Sept. 12, 1966, 80 Stat. 764; Pub. L. 91–172, title V, §504(c)(3), Dec. 30, 1969, 83 Stat. 633; Pub. L. 92–178, title III, §304(c), Dec. 10, 1971, 85 Stat. 523; Pub. L. 94–12, title V, §501(b)(3), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §1901(b)(21)(F), title XXI, §2115(c)(2), Oct. 4,1976, 90 Stat. 1798, 1909; Pub. L. 95–30, title I, §101(d)(10), May 23, 1977, 91 Stat. 134; Pub. L. 96–589, §2(e)(1), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 99–514, title V, §511(d)(2)(B), title VII, §701(e)(4)(E), Oct. 22, 1986, 100 Stat. 2249, 2343; Pub. L. 100–647, title I, §1008(i), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 103–66, title XIII, §13150(c)(9), Aug. 10, 1993, 107 Stat. 448.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 89–570, §2(b), Sept. 12, 1966, 80 Stat. 764; Pub. L. 91–172, title V, §504(c)(3), Dec. 30, 1969, 83 Stat. 633; Pub. L. 92–178, title III, §304(c), Dec. 10, 1971, 85 Stat. 523; Pub. L. 94–12, title V, §501(b)(3), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §1901(b)(21)(F), title XXI, §2115(c)(2), Oct. 4, 1976, 90 Stat. 1798, 1909; Pub. L. 95–30, title I, §101(d)(10), May 23, 1977, 91 Stat. 134; Pub. L. 96–589, §2(e)(1), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 99–514, title V, §511(d)(2)(B), title VII, §701(e)(4)(E), Oct. 22, 1986, 100 Stat. 2249, 2343; Pub. L. 100–647, title I, §1008(i), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 103–66, title XIII, §13150(c)(9), Aug. 10, 1993, 107 Stat. 448.)
 
 #### Amendments
 

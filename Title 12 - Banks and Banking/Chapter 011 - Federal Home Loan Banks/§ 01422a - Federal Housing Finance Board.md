@@ -14,7 +14,7 @@
 
 #### (A) Safety and soundness
 
-&emsp;&emsp;The primary duty of the Board shall be to ensure that the Federal Home Loan Banksoperate in a financially safe and sound manner.
+&emsp;&emsp;The primary duty of the Board shall be to ensure that the Federal Home Loan Banks operate in a financially safe and sound manner.
 
 #### (B) Other duties
 

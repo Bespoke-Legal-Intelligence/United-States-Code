@@ -4,7 +4,7 @@
 
 (1) The Secretary may make annual contributions to public housing agencies to assist in achieving and maintaining the lower income character of their projects. The Secretary shall embody the provisions for such annual contributions in a contract guaranteeing their payment. The contribution payable annually under this section shall in no case exceed a sum equal to the annual amount of principal and interest payable on obligations issued by the public housing agency to finance the development or acquisition cost of the lower income project involved. Annual contributions payable under this section shall be pledged, if the Secretary so requires, as security for obligations issued by a public housing agency to assist the development or acquisition of the project to which annual contributions relate and shall be paid over a period not to exceed 40 years.
 
-(2) The Secretary may make contributions (in the form of grants) to public housing agencies to cover the development cost of public housing projects. The contract under which such contributions shall be made shall specify the amount of capital contributions required foreach project to which the contract pertains, and that the terms and conditions of such contract shall remain in effect for a 40-year period.
+(2) The Secretary may make contributions (in the form of grants) to public housing agencies to cover the development cost of public housing projects. The contract under which such contributions shall be made shall specify the amount of capital contributions required for each project to which the contract pertains, and that the terms and conditions of such contract shall remain in effect for a 40-year period.
 
 (3) The amount of contributions that would be established for a newly constructed project by a public housing agency designed to accommodate a number of families of a given size and kind may be established under this section for a project by such public housing agency that would provide housing for the comparable number, sizes, and kinds of families through the acquisition and rehabilitation, or use under lease, of structures that are suitable for low-income housing use and obtained in the local market.
 
@@ -86,7 +86,7 @@ In recognition that there should be local determination of the need for low-inco
 
 &emsp;(1) the Secretary shall not make any contract with a public housing agency for preliminary loans (all of which shall be repaid out of any moneys which become available to such agency for the development of the projects involved) for surveys and planning in respect to any low-income housing projects (i) unless the governing body of the locality involved has by resolution approved the application of the public housing agency for such preliminary loan; and (ii) unless the public housing agency has demonstrated to the satisfaction of the Secretary that there is need for such low-income housing which is not being met by private enterprise; and
 
-&emsp;(2) the Secretary shall not make any contract for loans (other than preliminary loans) or for contributions pursuant to this chapter unless the governing body of the locality involved has entered into an agreement with the public housing agency providing for the local cooperation required by the Secretary pursuant to this chapter; the Secretary shall require that each such agreement shall provide that, notwithstanding any order, judgment, or decree of any court (including any settlement order), before making any amounts that are provided pursuant to any contract for contributions under this subchapter available for use for the development of any housing or other property not previously used as public housing, the public housing agency shall (A) notify the chief executive officer (or other appropriate official) of the unit of general local government in which the public housing forwhich such amounts are to be so used is located (or to be located) of such use, and (B) pursuant to the request of such unit of general local government, provide such information as may reasonably be requested by such unit of general local government regarding the public housing to be so assisted (except to the extent otherwise prohibited by law).
+&emsp;(2) the Secretary shall not make any contract for loans (other than preliminary loans) or for contributions pursuant to this chapter unless the governing body of the locality involved has entered into an agreement with the public housing agency providing for the local cooperation required by the Secretary pursuant to this chapter; the Secretary shall require that each such agreement shall provide that, notwithstanding any order, judgment, or decree of any court (including any settlement order), before making any amounts that are provided pursuant to any contract for contributions under this subchapter available for use for the development of any housing or other property not previously used as public housing, the public housing agency shall (A) notify the chief executive officer (or other appropriate official) of the unit of general local government in which the public housing for which such amounts are to be so used is located (or to be located) of such use, and (B) pursuant to the request of such unit of general local government, provide such information as may reasonably be requested by such unit of general local government regarding the public housing to be so assisted (except to the extent otherwise prohibited by law).
 
 #### (f) Modification by Secretary of terms of contracts, etc.; limitations; amendment or supersedure of contracts for annual contributions or loans
 
@@ -100,7 +100,7 @@ In addition to the authority of the Secretary under subsection (a) of this secti
 
 #### (1) By Secretary and Comptroller General
 
-&emsp;Each contract for contributions for any assistance under this chapter to a public housing agency shall provide that the Secretary, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States, or any of their duly authorized representatives, shall, for the purpose of audit and examination, have access to any books, documents, papers, and records of the public housing agency that are pertinent to this chapter and to its operations with respect to financial assistance under the this <sup>1</sup> chapter.
+&emsp;Each contract for contributions for any assistance under this chapter to a public housing agency shall provide that the Secretary, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States, or any of their duly authorized representatives, shall, for the purpose of audit and examination, have access to any books, documents, papers, and records of the public housing agency that are pertinent to this chapter and to its operationswith respect to financial assistance under the this <sup>1</sup> chapter.
 
 #### (2) Withholding of amounts for audits under Single Audit Act
 
@@ -120,7 +120,7 @@ Section 1437<i>l</i> of this title, referred to in subsec. (c)(7)(A)(iii), (B)(i
 
 Section 1421b of this title, referred to in subsec. (c)(7)(A)(ix), (B)(ix), was omitted in the general revision of this chapter by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653.
 
-The Single Audit Act, referred to in subsec. (h)(2) heading, probably means the Single Audit Act of 1984,Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act, referred to in subsec. (h)(2) heading, probably means the Single Audit Act of 1984, Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
 
 #### Prior Provisions
 
@@ -146,7 +146,7 @@ Pub. L. 105–276, §510, added subsec. (<i>l</i>).
 
 1996—Subsec. (j)(1). Pub. L. 104–330, §501(b)(2)(A), struck out “(other than for Indian families)” after “for public housing” in introductory provisions.
 
-Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary may not use as a criterion for distributing assistance under this section the progress made by an Indian public housing agency in collecting rents owed by tenants unless—
+Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary maynot use as a criterion for distributing assistance under this section the progress made by an Indian public housing agency in collecting rents owed by tenants unless—
 
 &emsp;“(1) such criterion is used as 1 of several criteria that are weighted proportionally and is established by regulations issued after public notice and opportunity to comment in accordance with section 553 of title 5; or
 
@@ -184,7 +184,7 @@ Pub. L. 101–625, §417(a), inserted at end “Any such sale shall be subject t
 
 1988—Pub. L. 100–242, §112(b)(1)(A), substituted “Contributions” for “Annual contributions” in section catchline.
 
-Subsec. (a). Pub. L. 100–242, §112(a), amended subsec. (a) generally, revising and restating as pars. (1) to (3)provisions formerly contained in a single unnumbered par.
+Subsec. (a). Pub. L. 100–242, §112(a), amended subsec. (a) generally, revising and restating as pars. (1) to (3) provisions formerly contained in a single unnumbered par.
 
 Subsec. (c)(6). Pub. L. 100–242, §101(a), inserted sentence at end providing for increases on Oct. 1, 1987, and Oct. 1, 1988, of aggregate amount of budget authority that may be obligated for specified purposes.
 
@@ -216,7 +216,7 @@ Subsecs. (d) to (f), (h). Pub. L. 97–35, §322(c), substituted references to l
 
 Subsec. (i). Pub. L. 96–399, §210, added subsec. (i).
 
-1979—Subsec. (c). Pub. L. 96–153 authorized increase in aggregate contractual contributions by $1,140,661,000 on Oct. 1, 1979, and inserted requirements that out of such additional authority not more than $195,053,000 be authorized to be approved in appropriation acts for units assisted under this chapter other than under section 1437f of this title and that not less than $50,000,000 of the later amount be authorized to be approved for modernization of the units.
+1979—Subsec. (c). Pub. L. 96–153 authorized increase in aggregate contractual contributions by $1,140,661,000 on Oct. 1, 1979, and inserted requirements that out of such additional authority not more than $195,053,000 be authorized to be approved in appropriation acts for units assisted under this chapter other than under section1437f of this title and that not less than $50,000,000 of the later amount be authorized to be approved for modernization of the units.
 
 1978—Subsec. (c). Pub. L. 95–619 authorized the Secretary to enter into annual contribution contracts aggregating not more than $10,000,000 per annum for financing the purchase and installation of energy conserving improvement in existing low-income housing projects which the Secretary determined had the greatest need for such improvements.
 

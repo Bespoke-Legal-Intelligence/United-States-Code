@@ -26,7 +26,7 @@ Subsec. (a)(5). Pub. L. 94–489, §2, inserted “or section 5332” after “s
 
 Subsec. (b)(1). Pub. L. 94–489, §1(b), struck out “as defined herein” after “use of service employees”.
 
-1972—Subsec. (a)(1). Pub. L. 92–473, §1(a), provided for minimum monetary wages to be paid service employeeswhere collective-bargaining agreement covers any such service employees in accordance with the rates for such employees provided for in such agreement, including prospective wage increases provided for in such agreement as a result of arm's-length negotiations.
+1972—Subsec. (a)(1). Pub. L. 92–473, §1(a), provided for minimum monetary wages to be paid service employees where collective-bargaining agreement covers any such service employees in accordance with the rates for such employees provided for in such agreement, including prospective wage increases provided for in such agreement as a result of arm's-length negotiations.
 
 Subsec. (a)(2). Pub. L. 92–473, §1(b), provided for fringe benefits to be furnished service employees where collective-bargaining agreement covers any such service employees, to be provided for in such agreement, including prospective fringe increases provided for in such agreement as a result of arm's-length negotiations.
 

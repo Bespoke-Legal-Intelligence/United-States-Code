@@ -34,7 +34,7 @@ Historical and Revision Notes
 
 46:404–1(6)(ii)
 
-Section 3307 requires each vessel subject to inspection to undergo an initial inspection prior to being placed in service. This is normally started during the construction or reconstruction phase and is a continuing process until final certification for operation in a particular trade. Subsequent periodic inspections are also required for various types of vessels. It is to be noted that a freight vessel of less than 100 gross tons shall be inspected at 3 year intervals while the larger freight vessel has a 2 year inspection period. This is being done to retain the existing procedure of issuing 3 year certificates of inspection to smaller vessels, however, this does not prevent periodic inspections or examinations at intervening periods.
+Section 3307 requires each vessel subject to inspection to undergo an initial inspection prior to being placed inservice. This is normally started during the construction or reconstruction phase and is a continuing process until final certification for operation in a particular trade. Subsequent periodic inspections are also required for various types of vessels. It is to be noted that a freight vessel of less than 100 gross tons shall be inspected at 3 year intervals while the larger freight vessel has a 2 year inspection period. This is being done to retain the existing procedure of issuing 3 year certificates of inspection to smaller vessels, however, this does not prevent periodic inspections or examinations at intervening periods.
 
 #### Amendments
 

@@ -14,7 +14,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 &emsp;&emsp;(C) in any case in which the Attorney General finds that such controlled substance is in limited quantities exclusively for scientific, analytical, or research uses,
 
-> may be so imported under such regulations as the Attorney General shall prescribe. No crudeopium may be so imported for the purpose of manufacturing heroin or smoking opium.
+> may be so imported under such regulations as the Attorney General shall prescribe. No crude opium may be so imported for the purpose of manufacturing heroin or smoking opium.
 
 #### (b) Nonnarcotic controlled substances in schedule III, IV, or V
 
@@ -26,7 +26,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 #### (c) Coca leaves
 
-In addition to the amount of coca leaves authorized to be imported into the United States under subsection (a) of this section, the Attorney General may permit the importation of additional amounts of coca leaves. All cocaine and ecgonine (and all salts, derivatives, and preparations from which cocaine or ecgonine may be synthesized or made) contained in such additional amounts of coca leaves imported under this subsection shall be destroyed under the supervision of an authorized representative of the Attorney General.
+In addition to the amount of coca leaves authorized to be imported into the United States under subsection (a) of this section, the Attorney General may permit the importation of additional amounts of coca leaves. All cocaine and ecgonine (and all salts, derivatives, and preparations from which cocaine or ecgonine may besynthesized or made) contained in such additional amounts of coca leaves imported under this subsection shall be destroyed under the supervision of an authorized representative of the Attorney General.
 
 (Pub. L. 91–513, title III, §1002, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 95–633, title I, §105, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§519–521, Oct. 12, 1984, 98 Stat. 2075.)
 

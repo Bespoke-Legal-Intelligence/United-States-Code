@@ -16,7 +16,7 @@ The responsibilities of the Liaison shall include—
 
 > &emsp;for the purpose of providing job opportunities for Job Corps graduates; and
 
-&emsp;(2) establishing and developing relationships with members of the community in which the Job Corps center is located, informing members of the community about the projects of the Job Corps center and changes in the rules, procedures, or activities of the center that may affect the community, and planning events of mutual interest to the community and the Job Corps center.
+&emsp;(2) establishing and developing relationships with members of the community in which the Job Corps center is located, informing members of the community about the projects of the Job Corps center and changes in the rules, procedures, or activities of the center thatmay affect the community, and planning events of mutual interest to the community and the Job Corps center.
 
 #### (c) New centers
 

@@ -98,7 +98,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(iii) in the case of an individual described in subsection (b)(1)(C) of this section, while enrolled in such course of study or training, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study or training); and
 
-&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the “period of obligated service”) equal to 2 years or such longer period as the individualmay agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
+&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the “period of obligated service”) equal to 2 years or such longer period as the individual may agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
 
 &emsp;(2) a provision permitting the Secretary to extend for such longer additional periods, as the individual may agree to, the period of obligated service agreed to by the individual under paragraph (1)(B)(iv), including extensions resulting in an aggregate period of obligated service in excess of 4 years;
 
@@ -166,7 +166,7 @@ A prior section 338B of act July 1, 1944, was renumbered section 338C by section
 
 1998—Subsec. (b)(1)(B). Pub. L. 105–392 substituted “behavioral and mental health, or other health profession” for “or other health profession”.
 
-1990—Subsec. (a). Pub. L. 101–597, §202(a)(1), substituted “Corps Loan Repayment Program to assure,with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Loan Repayment Program (hereinafter in this subpart referred to as the ‘Loan Repayment Program’) in order to assure—
+1990—Subsec. (a). Pub. L. 101–597, §202(a)(1), substituted “Corps Loan Repayment Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Loan Repayment Program (hereinafter in this subpart referred to as the ‘Loan Repayment Program’) in order to assure—
 
 &emsp;“(1) an adequate supply of trained physicians, dentists, and nurses for the Corps; and
 
@@ -210,7 +210,7 @@ Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, 
 
 &emsp;“(2) individuals who are committed to service in medically underserved areas.”
 
-Subsec. (e). Pub. L. 101–597, §202(b)(2)(B), substituted “only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.” for “only on the Secretary's approval of the individual's application submitted under subsection (b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section.” in par. (1) and struck out par. (2) which read as follows: “The Secretary shall provide written notice to an individual promptly on—
+Subsec. (e). Pub. L. 101–597, §202(b)(2)(B), substituted “only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.” for “only on the Secretary's approval of the individual's application submitted under subsection\(b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section.” in par. (1) and struck out par. (2) which read as follows: “The Secretary shall provide written notice to an individual promptly on—
 
 &emsp;“(A) the Secretary's approving, under paragraph (1), of the individual's participation in the Loan Repayment Program; or
 
@@ -250,7 +250,7 @@ Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, 
 
 #### Effective Date of 1990 Amendment
 
-Section 202(g)(2) of Pub. L. 101–597 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
+Section 202(g)(2) of Pub. L. 101–597 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
 
 #### Regulations
 

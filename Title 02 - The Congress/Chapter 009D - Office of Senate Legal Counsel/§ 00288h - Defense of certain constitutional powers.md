@@ -10,7 +10,7 @@ In performing any function under this chapter, the Counsel shall defend vigorous
 
 &emsp;(4) the constitutional power of the Senate to determine the rules of its proceedings;
 
-&emsp;(5) the constitutional power of Congress to make all laws as shall be necessary and proper for carrying into execution the constitutional powers of Congress and all other powers vestedby the Constitution in the Government of the United States, or in any department or office thereof;
+&emsp;(5) the constitutional power of Congress to make all laws as shall be necessary and proper for carrying into execution the constitutional powers of Congress and all other powers vested by the Constitution in the Government of the United States, or in any department or office thereof;
 
 &emsp;(6) all other constitutional powers and responsibilities of the Senate or of Congress; and
 

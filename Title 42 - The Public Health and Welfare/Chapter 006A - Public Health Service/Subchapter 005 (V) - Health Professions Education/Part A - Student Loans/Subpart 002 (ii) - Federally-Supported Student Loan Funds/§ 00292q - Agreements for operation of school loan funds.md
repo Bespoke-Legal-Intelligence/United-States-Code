@@ -50,7 +50,7 @@ Each agreement entered into under this section shall—
 
 &emsp;&emsp;&emsp;(ii) comply with any other term of the promissory note for such loan,
 
-> &emsp;&emsp;except that a loan made under this subpart shall not be considered to be in default if the loan is discharged in bankruptcy or if the school reasonably concludes from written contracts with the borrower that the borrower intends to repay the loan.
+> &emsp;&emsp;except that a loan made under this subpart shall not be considered to be in default if the loan is discharged in bankruptcy or if the school reasonably concludes from writtencontracts with the borrower that the borrower intends to repay the loan.
 
 &emsp;&emsp;(B) The term “defaulted principal amount outstanding” means the total amount borrowed from the loan fund of a school that has reached the repayment stage (minus any principal amount repaid or canceled) on loans—
 

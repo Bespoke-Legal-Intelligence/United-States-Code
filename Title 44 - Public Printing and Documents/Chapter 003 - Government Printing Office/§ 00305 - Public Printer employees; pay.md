@@ -24,7 +24,7 @@ General repealer of provisions inconsistent with Pub. L. 92–392 as not repeali
 
 #### Voluntary Separation Incentives
 
-Pub. L. 105–275, title III, §309, Oct. 21, 1998, 112 Stat. 2454, provided that:
+Pub. L. 105–275, title III, §309, Oct. 21, 1998, 112 Stat. 2454, as amended by Pub. L. 107–68, title II, §210(a), Nov. 12, 2001, 115 Stat. 590, provided that:
 
 “(a)
 
@@ -34,7 +34,7 @@ Severance Pay.—\[Amended section 5595 of Title 5, Government Organization and 
 
 Early Retirement.—(1) This subsection applies to an employee of the Government Printing Office who—
 
-&emsp;“(A) voluntarily separates from service on or after the date of enactment of this Act \[Oct. 21, 1998\] and before October 1, 2001; and
+&emsp;“(A) voluntarily separates from service on or after the date of enactment of this Act \[Oct. 21, 1998\] and before October 1, 2004; and
 
 &emsp;“(B) on such date of separation—
 
@@ -54,7 +54,7 @@ Voluntary Separation Incentive Payments.—(1) In this subsection, the term ‘e
 
 &emsp;“(C) an employee who is employed on a temporary when actually employed basis.
 
-“(2) Notwithstanding any other provision of law, in order to avoid or minimize the need for involuntary separations due to a reduction in force, reorganization, transfer of function, or other similar action affecting the agency, the Public Printer shall establish a program under which voluntary separation incentive payments may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation) during the period beginning on the date of the enactment of this Act \[Oct. 21, 1998\] through September 30, 2001.
+“(2) Notwithstanding any other provision of law, in order to avoid or minimize the need for involuntary separations due to a reduction in force, reorganization, transfer of function, or other similar action affecting the agency, the Public Printer shall establish a program under which voluntary separation incentive payments may be offered to encourage eligible employees to separate from service voluntarily (whether by retirement or resignation) during the period beginning on the date of the enactment of this Act \[Oct. 21, 1998\] through September 30, 2004.
 
 “(3) Such voluntary separation incentive payments shall be paid in accordance with the provisions of section 5597(d) of title 5, United States Code. Any such payment shall not be a basis of payment, and shall not be included in the computation, of any other type of Government benefit.
 
@@ -127,6 +127,8 @@ Administrative Provisions.—(1) The Public Printer—
 “(2) Funds to carry out subsections (a) and (c) may be expended only from funds available for the basic pay of the employee who is receiving the applicable payment.
 
 “(3) Funds to carry out subsection (d) may be expended from any funds made available to the Public Printer.”
+
+\[Pub. L. 107–68, title II, §210(b), Nov. 12, 2001, 115 Stat. 590, provided that: “The amendments made by this section \[amending section 309 of Pub. L. 105–275, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 1999 \[Pub. L. 105–275\].”\]
 
 #### Section Referred to in Other Sections
 

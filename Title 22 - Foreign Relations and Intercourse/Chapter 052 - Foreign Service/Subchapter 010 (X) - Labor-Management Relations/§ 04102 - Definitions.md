@@ -6,7 +6,7 @@ As used in this subchapter, the term—
 
 &emsp;(2) “Board” means the Foreign Service Labor Relations Board, established by section 4106(a) of this title;
 
-&emsp;(3) “collective bargaining” means the performance of the mutual obligation of the management representative of the Department and of the exclusive representative of employees to meet at reasonable times and to consult and bargain in a good-faith effort to reach agreement with respect to the conditions of employment affecting employees, and to execute, if requested by either party, a written document incorporating any collective bargaining agreement reached, but this obligation does not compel either party to agree to a proposal or to make a concession;
+&emsp;(3) “collective bargaining” means the performance of the mutual obligation of the management representative of the Department and of the exclusive representative of employees to meet at reasonable times and to consult and bargain in a good-faith effort to reach agreement with respect to the conditions of employment affecting employees, and to execute, if requested by either party, a written document incorporating any collective bargainingagreement reached, but this obligation does not compel either party to agree to a proposal or to make a concession;
 
 &emsp;(4) “collective bargaining agreement” means an agreement entered into as a result of collective bargaining under the provisions of this subchapter;
 

@@ -12,7 +12,7 @@
 
 #### (2) Special rule
 
-&emsp;If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doing business within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver.
+&emsp;If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doingbusiness within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver.
 
 #### (3) Eligibility
 
@@ -108,7 +108,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (5) Modification notice
 
-&emsp;The Secretary shall notify the Chairperson and the Ranking Minority Members of theCommittee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives 30 days prior to any modifications to an agreement under this section.
+&emsp;The Secretary shall notify the Chairperson and the Ranking Minority Members of the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives 30 days prior to any modifications to an agreement under this section.
 
 #### (d) Termination
 

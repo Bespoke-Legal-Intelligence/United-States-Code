@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-Development on public and private lands within the boundaries of the Cooperative Management and Protection Area which is different from the current character and uses of the landsis inconsistent with the purposes of this subchapter.
+Development on public and private lands within the boundaries of the Cooperative Management and Protection Area which is different from the current character and uses of the lands is inconsistent with the purposes of this subchapter.
 
 #### (b) Use of nondevelopment and conservation easements
 

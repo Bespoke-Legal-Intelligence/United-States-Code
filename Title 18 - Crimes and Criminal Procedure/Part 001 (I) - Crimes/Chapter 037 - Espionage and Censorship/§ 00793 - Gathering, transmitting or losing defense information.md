@@ -16,7 +16,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 (g) If two or more persons conspire to violate any of the foregoing provisions of this section, and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be subject to the punishment provided for the offense which is the object of such conspiracy.
 
-(h)(1) Any person convicted of a violation of this section shall forfeit to the United States, irrespective of any provision of State law, any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, from any foreign government, or any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, as the result of such violation. For the purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+(h)(1) Any person convicted of a violation of this section shall forfeit to the United States, irrespective of any provision of State law, anyproperty constituting, or derived from, any proceeds the person obtained, directly or indirectly, from any foreign government, or any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, as the result of such violation. For the purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (2) The court, in imposing sentence on a defendant for a conviction of a violation of this section, shall order that the defendant forfeit to the United States all property described in paragraph (1) of this subsection.
 
@@ -32,7 +32,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 (4) Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund in the Treasury all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-(June 25, 1948, ch. 645, 62 Stat. 736; Sept. 23, 1950, ch. 1024, title I, §18, 64 Stat. 1003; Pub. L. 99–399, title XIII, §1306(a), Aug. 27, 1986, 100 Stat. 898;Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–359, title VIII, §804(b)(1), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, §607(b), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 736; Sept. 23, 1950, ch. 1024, title I, §18, 64 Stat. 1003; Pub. L. 99–399, title XIII, §1306(a), Aug. 27, 1986, 100 Stat. 898; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–359, title VIII, §804(b)(1), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, §607(b), Oct. 11, 1996, 110 Stat. 3511.)
 
 #### Historical and Revision Notes
 

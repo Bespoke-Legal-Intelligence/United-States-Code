@@ -64,7 +64,7 @@ Each Indian tribe participating in the Tribal Self-Governance Demonstration Proj
 
 #### (g) Stable base funding
 
-At the option of an Indian tribe, a funding agreement may provide for a stable base budgetspecifying the recurring funds (including, for purposes of this provision, funds available under section 450j–1(a) of this title) to be transferred to such Indian tribe, for such period as may be specified in the funding agreement, subject to annual adjustment only to reflect changes in congressional appropriations by sub-sub activity excluding earmarks.
+At the option of an Indian tribe, a funding agreement may provide for a stable base budget specifying the recurring funds (including, for purposes of this provision, funds available under section 450j–1(a) of this title) to be transferred to such Indian tribe, for such period as may be specified in the funding agreement, subject to annual adjustment only to reflect changes in congressional appropriations by sub-sub activity excluding earmarks.
 
 (Pub. L. 93–638, title V, §505, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 716.)
 
@@ -76,7 +76,7 @@ Act of August 5, 1954, referred to in subsec. (b)(2)(C), is act Aug. 5, 1954, ch
 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(2)(E), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec.\(b)(2)(E), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 Title III, referred to in subsec. (f), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 

@@ -50,7 +50,7 @@ State.—The term “State” means a State of the United States, the District o
 
 &emsp;(10)
 
-Used for commercial purposes.—The term “used for commercial purposes” means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit.
+Used for commercial purposes.—The term “used for commercial purposes” meansthe carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit.
 
 (b)
 
@@ -70,7 +70,7 @@ Terms Defined in Other Law.—In this chapter, the terms “aircraft engine”, 
 
 “ ‘Used for commercial purposes’ means the carriage of persons or property for any fare, fee, rate, charge or other consideration, or directly or indirectly in connection with any business, or other undertaking intended for profit;
 
-“ ‘In flight’ means any time from the moment all the external doors of an aircraft are closed following embarkation until the moment when any such door isopened for disembarkation. In the case of a forced landing the flight shall be deemed to continue until competent authorities take over the responsibility for the aircraft and the persons and property on board; and
+“ ‘In flight’ means any time from the moment all the external doors of an aircraft are closed following embarkation until the moment when any such door is opened for disembarkation. In the case of a forced landing the flight shall be deemed to continue until competent authorities take over the responsibility for the aircraft and the persons and property on board; and
 
 “ ‘In service’ means any time from the beginning of preflight preparation of the aircraft by ground personnel or by the crew for a specific flight until twenty-four hours after any landing; the period of service shall, in any event, extend for the entire period during which the aircraft is in flight.”
 
@@ -109,4 +109,8 @@ Section 2012 of part B (§§2011–2015) of chapter XX of title II of Pub. L. 98
 &emsp;“(2) such offenses place innocent lives in jeopardy, endanger national security, affect domestic tranquility, gravely affect interstate and foreign commerce, and are offenses against the law of nations; and
 
 &emsp;“(3) the purpose of this subtitle \[part, see Short Title of 1984 Amendment note above\] is to implement fully the Convention for the Suppression of Unlawful Acts Against the Safety of Civil Aviation and to expand the protection accorded to aircraft and related facilities.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1993 of this title.
 

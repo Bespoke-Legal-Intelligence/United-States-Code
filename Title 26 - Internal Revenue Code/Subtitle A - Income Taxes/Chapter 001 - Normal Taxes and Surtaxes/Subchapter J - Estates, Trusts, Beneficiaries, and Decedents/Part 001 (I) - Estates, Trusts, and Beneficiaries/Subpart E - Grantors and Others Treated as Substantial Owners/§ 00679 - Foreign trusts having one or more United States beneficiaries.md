@@ -54,7 +54,7 @@
 
 #### (C) Residency starting date
 
-&emsp;&emsp;For purposes of this paragraph, an individual's residency starting date is the residencystarting date determined under section 7701(b)(2)(A).
+&emsp;&emsp;For purposes of this paragraph, an individual's residency starting date is the residency starting date determined under section 7701(b)(2)(A).
 
 #### (5) Outbound trust migrations
 
@@ -108,7 +108,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 provided that the amendment made by section 1903(b) of Pub. L. 104–188 shall be applied as if “or” in the material proposed to be stricken were capitalized. See 1996 Amendment note below.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 provided that the amendment made by section 1903(b) of Pub. L. 104–188shall be applied as if “or” in the material proposed to be stricken were capitalized. See 1996 Amendment note below.
 
 <b>1997</b>—Subsec. (a)(3)(C)(ii), (iii). Pub. L. 105–34 inserted “, owner,” after “grantor”.
 

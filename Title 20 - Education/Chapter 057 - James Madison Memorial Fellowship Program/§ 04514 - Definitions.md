@@ -8,9 +8,9 @@ As used in this chapter—
 
 &emsp;(3) the term “institution of higher education” has the same meaning given that term by section 1001 of this title; and
 
-&emsp;(4) the term “secondary school” has the same meaning given that term by section 8801 of this title.
+&emsp;(4) the term “secondary school” has the same meaning given that term by section 7801 of this title.
 
-(Pub. L. 99–500, §101(b) \[title VIII, §815\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §815\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 105–244, title I, §102(a)(6)(G), Oct. 7, 1998, 112 Stat. 1618.)
+(Pub. L. 99–500, §101(b) \[title VIII, §815\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–81, and Pub. L. 99–591, §101(b) \[title VIII, §815\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–81; Pub. L. 105–244, title I, §102(a)(6)(G), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(m), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### Codification
 
@@ -18,9 +18,15 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
+2002—Par. (4). Pub. L. 107–110 substituted “7801” for “8801”.
+
 1998—Par. (3). Pub. L. 105–244, §102(a)(6)(G)(i), substituted “section 1001” for “section 1141(a)”.
 
 Par. (4). Pub. L. 105–244, §102(a)(6)(G)(ii), substituted “section 8801” for “section 1141(d)”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1998 Amendment
 

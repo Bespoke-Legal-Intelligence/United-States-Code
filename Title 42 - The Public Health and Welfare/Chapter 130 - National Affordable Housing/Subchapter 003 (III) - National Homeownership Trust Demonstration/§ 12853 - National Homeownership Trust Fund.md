@@ -30,7 +30,7 @@ Using not more than $20,000,000 of any amounts appropriated for the Fund under s
 
 &emsp;(2) In Washington, District of Columbia, in an amount not to exceed $10,000,000, for nonprofit neighborhood-based groups to acquire and rehabilitate vacant public and private housing for resale or rent to low- and moderate-income families and to the extent of and subject to engage in neighborhood-based economic development activities.
 
-&emsp;(3) In Philadelphia, Pennsylvania, in an amount not to exceed $1,000,000, for technical assistance and organizational support for a community development corporation that is a city-wide public/private partnership engagedin the provision of technical assistance to neighborhood community development corporations.
+&emsp;(3) In Philadelphia, Pennsylvania, in an amount not to exceed $1,000,000, for technical assistance and organizational support for a community development corporation that is a city-wide public/private partnership engaged in the provision of technical assistance to neighborhood community development corporations.
 
 &emsp;(4) In other areas, as the Secretary may determine.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 12 sections 1464, 1786, 1817, 1818, 1829b, 3401, 3413; title 15 sections 78q, 6802; title 18 sections 1952, 1956, 1961; title 22 section 2714.
+This subchapter is referred to in section 310 of this title; title 12 sections 1464, 1786, 1817, 1818, 1829b, 3401, 3413; title 15 sections 78q, 6802; title 18 sections 1952, 1956, 1961; title 22 section 2714.
 
 
 ---
@@ -17,6 +17,7 @@ This subchapter is referred to in title 12 sections 1464, 1786, 1817, 1818, 1829
 - [&sect; 05316 - Reports on exporting and importing monetary instruments](%C2%A7%2005316%20-%20Reports%20on%20exporting%20and%20importing%20monetary%20instruments.md)
 - [&sect; 05317 - Search and forfeiture of monetary instruments](%C2%A7%2005317%20-%20Search%20and%20forfeiture%20of%20monetary%20instruments.md)
 - [&sect; 05318 - Compliance, exemptions, and summons authority](%C2%A7%2005318%20-%20Compliance%2C%20exemptions%2C%20and%20summons%20authority.md)
+- [&sect; 05318A - Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern](%C2%A7%2005318A%20-%20Special%20measures%20for%20jurisdictions%2C%20financial%20institutions%2C%20or%20international%20transactions%20of%20primary%20money%20laundering%20concern.md)
 - [&sect; 05319 - Availability of reports](%C2%A7%2005319%20-%20Availability%20of%20reports.md)
 - [&sect; 05320 - Injunctions](%C2%A7%2005320%20-%20Injunctions.md)
 - [&sect; 05321 - Civil penalties](%C2%A7%2005321%20-%20Civil%20penalties.md)
@@ -29,3 +30,5 @@ This subchapter is referred to in title 12 sections 1464, 1786, 1817, 1818, 1829
 - [&sect; 05328 - Whistleblower protections](%C2%A7%2005328%20-%20Whistleblower%20protections.md)
 - [&sect; 05329 - Staff commentaries](%C2%A7%2005329%20-%20Staff%20commentaries.md)
 - [&sect; 05330 - Registration of money transmitting businesses](%C2%A7%2005330%20-%20Registration%20of%20money%20transmitting%20businesses.md)
+- [&sect; 05331 - Reports relating to coins and currency received in nonfinancial trade or business](%C2%A7%2005331%20-%20Reports%20relating%20to%20coins%20and%20currency%20received%20in%20nonfinancial%20trade%20or%20business.md)
+- [&sect; 05332 - Bulk cash smuggling into or out of the United States](%C2%A7%2005332%20-%20Bulk%20cash%20smuggling%20into%20or%20out%20of%20the%20United%20States.md)

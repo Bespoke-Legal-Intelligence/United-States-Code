@@ -2,19 +2,19 @@
 
 (a)
 
-Deployment and Purchase of Equipment.—(1) A deployment or purchase of explosive detection equipment under section 108.7(b)(8) or 108.20 of title 14, Code of Federal Regulations, or similar regulation is required only if the Administrator of the Federal Aviation Administration certifies that the equipment alone, or as part of an integrated system, can detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Administrator shall base the certification on the results of tests conducted under protocols developed in consultation with expert scientists outside of the Administration. Those tests shall be completed not later than April 16, 1992.
+Deployment and Purchase of Equipment.—(1) A deployment or purchase of explosive detection equipment under section 108.7(b)(8) or 108.20 of title 14, Code of Federal Regulations, or similar regulation is required only if the Under Secretary of Transportation for Security certifies that the equipment alone, or as part of an integrated system, can detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall base the certificationon the results of tests conducted under protocols developed in consultation with expert scientists outside of the Transportation Security Administration. Those tests shall be completed not later than April 16, 1992.
 
-(2) Before completion of the tests described in paragraph (1) of this subsection, but not later than April 16, 1992, the Administrator may require deployment of explosive detection equipment described in paragraph (1) if the Administrator decides that deployment will enhance aviation security significantly. In making that decision, the Administrator shall consider factors such as the ability of the equipment alone, or as part of an integrated system, to detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Administrator shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of a deployment decision made under this paragraph.
+(2) Before completion of the tests described in paragraph (1) of this subsection, but not later than April 16, 1992, the Under Secretary may require deployment of explosive detection equipment described in paragraph (1) if the Under Secretary decides that deployment will enhance aviation security significantly. In making that decision, the Under Secretary shall consider factors such as the ability of the equipment alone, or as part of an integrated system, to detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of a deployment decision made under this paragraph.
 
-(3) Until such time as the Administrator determines that equipment certified under paragraph (1) is commercially available and has successfully completed operational testing as provided in paragraph (1), the Administrator shall facilitate the deployment of such approved commercially available explosive detection devices as the Administrator determines will enhance aviation security significantly. The Administrator shall require that equipment deployed under this paragraph be replaced by equipment certified under paragraph (1) when equipment certified under paragraph (1) becomes commercially available. The Administrator is authorized, based on operational considerations at individual airports, to waive the required installation of commercially available equipment under paragraph (1) in the interests of aviation security. The Administrator may permit the requirements of this paragraph to be met at airports by the deployment of dogs or other appropriate animals to supplement equipment for screening passengers, baggage, mail, or cargo for explosives or weapons.
+(3) Until such time as the Under Secretary determines that equipment certified under paragraph (1) is commercially available and has successfully completed operational testing as provided in paragraph (1), the Under Secretary shall facilitate the deployment of such approved commercially available explosive detection devices as the Under Secretary determines will enhance aviation security significantly. The Under Secretary shall require that equipment deployed under this paragraph be replaced by equipment certified under paragraph (1) when equipment certified under paragraph (1) becomes commercially available. The Under Secretary is authorized, based on operational considerations at individual airports, to waive the required installation of commercially available equipment under paragraph (1) in the interests of aviation security. The Under Secretary may permit the requirements of this paragraph to be met at airports by the deployment of dogs or other appropriate animals to supplement equipment for screening passengers, baggage, mail, or cargo for explosives or weapons.
 
-(4) This subsection does not prohibit the Administrator from purchasing or deploying explosive detection equipment described in paragraph (1) of this subsection.
+(4) This subsection does not prohibit the Under Secretary from purchasing or deploying explosive detection equipment described in paragraph (1) of this subsection.
 
 (b)
 
 Grants.—The Secretary of Transportation may provide grants to continue the Explosive Detection K-9 Team Training Program to detect explosives at airports and on aircraft.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1214; Pub. L. 104–264, title III, §305(a), Oct. 9, 1996, 110 Stat. 3252; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1214; Pub. L. 104–264, title III, §305(a), Oct. 9, 1996, 110 Stat. 3252; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 107–71, title I, §101(f)(2), (7), (9), Nov. 19, 2001, 115 Stat. 603.)
 
 Historical and Revision Notes
 
@@ -51,6 +51,14 @@ In subsection (a), the words “after November 16, 1990” are omitted as execut
 In subsection (b), the words “but not be limited to” are omitted as unnecessary.
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–71, §101(f)(9), substituted “of Transportation for Security” for “of the Federal Aviation Administration”.
+
+Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
+
+Pub. L. 107–71, §101(f)(2), substituted “of the Transportation Security Administration” for “of the Administration” in second sentence.
+
+Subsec. (a)(2) to (4). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
 
 1996—Subsec. (a)(2). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
 

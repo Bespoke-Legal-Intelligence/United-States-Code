@@ -6,7 +6,7 @@ In the performance of, and with respect to, the functions, powers, and duties, v
 
 &emsp;(1) prescribe such regulations as may be necessary to carry out the purposes of this part, including regulations applicable to third party servicers (including regulations concerning financial responsibility standards for, and the assessment of liabilities for program violations against, such servicers) to establish minimum standards with respect to sound management and accountability of programs under this part, except that in no case shall damages be assessed against the United States for the actions or inactions of such servicers;
 
-&emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in anydistrict court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
+&emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
 
 &emsp;(3) include in any contract for Federal loan insurance such terms, conditions, and covenants relating to repayment of principal and payment of interest, relating to the Secretary's obligations and rights to those of eligible lenders, and borrowers in case of default, and relating to such other matters as the Secretary determines to be necessary to assure that the purposes of this part will be achieved; and any term, condition, and covenant made pursuant to this paragraph or pursuant to any other provision of this part may be modified by the Secretary, after notice and opportunity for a hearing, if the Secretary finds that the modification is necessary to protect the United States from the risk of unreasonable loss;
 
@@ -36,7 +36,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volume guaranteed and default data for each category specified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
 
-&emsp;(B) The reports specified in subparagraph (A) of this paragraph shall include a separate report for each insurer under this part including the Secretary, and where an insurer insures loans for lenders in more than one State, such insurer's report shall list all data separately for each State.
+&emsp;(B) The reports specified in subparagraph (A) of this paragraph shall include a separate report for each insurer under this part including the Secretary, and where an insurer insuresloans for lenders in more than one State, such insurer's report shall list all data separately for each State.
 
 #### (3) Institutional, public, or nonprofit lenders
 
@@ -54,7 +54,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;&emsp;(A) reviewing applications for loan insurance under section 1079 of this title and issuing contracts for Federal loan insurance, certificates of insurance, and certificates of comprehensive insurance coverage to eligible lenders which are financial or credit institutions subject to examination and supervision by an agency of the United States or of any State;
 
-&emsp;&emsp;(B) receiving claims for payments under section 1080(a) of this title, examining those claims, and pursuant to regulations of the Secretary, approving claims for payment, orrequiring lenders to take additional collection action as a condition for payment of claims; and
+&emsp;&emsp;(B) receiving claims for payments under section 1080(a) of this title, examining those claims, and pursuant to regulations of the Secretary, approving claims for payment, or requiring lenders to take additional collection action as a condition for payment of claims; and
 
 &emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against a borrower (pursuant to regulations of the Secretary issued under subsection (a) of this section), and recommending litigation with respect to any such claim.
 
@@ -104,7 +104,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 &emsp;&emsp;(A) the violation, failure, or substantial misrepresentation referred to in that paragraph resulted from a violation, failure, or misrepresentation that is material; and
 
-&emsp;&emsp;(B) the lender or guaranty agency knew or should have known that its actions violated or failed to carry out the provisions of this part or the regulations thereunder.
+&emsp;&emsp;(B) the lender or guaranty agency knew or should have known that its actions violatedor failed to carry out the provisions of this part or the regulations thereunder.
 
 #### (3) Correction of failure
 
@@ -116,7 +116,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (5) Assignees not liable for violations by others
 
-&emsp;If a loan affected by a violation, failure, or substantial misrepresentation is assigned to another holder, the lender or guaranty agency responsible for the violation, failure, or substantial misrepresentation shall remain liablefor any civil money penalty provided for under paragraph (1) of this subsection, but the assignee shall not be liable for any such civil money penalty.
+&emsp;If a loan affected by a violation, failure, or substantial misrepresentation is assigned to another holder, the lender or guaranty agency responsible for the violation, failure, or substantial misrepresentation shall remain liable for any civil money penalty provided for under paragraph (1) of this subsection, but the assignee shall not be liable for any such civil money penalty.
 
 #### (6) Compromise
 
@@ -230,7 +230,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (1) In general
 
-&emsp;The Secretary shall, by regulation developed in consultation with guaranty agencies, lenders, institutions of higher education, secondary markets, students, third party servicers and other organizations involved in providing loans under this part, prescribe standardized forms and procedures regarding—
+&emsp;The Secretary shall, by regulation developed in consultation with guaranty agencies, lenders, institutions of higher education, secondary markets, students, third party servicersand other organizations involved in providing loans under this part, prescribe standardized forms and procedures regarding—
 
 &emsp;&emsp;(A) origination of loans;
 

@@ -1,6 +1,6 @@
 ### §5562. Summary in annual report
 
-A summary of all actions taken under the provisions of this subchapter and action planned forthe ensuing year shall be included in the annual report required by section 7267 of this title.
+A summary of all actions taken under the provisions of this subchapter and action planned for the ensuing year shall be included in the annual report required by section 7267 of this title.
 
 (Pub. L. 93–473, §13, Oct. 26, 1974, 88 Stat. 1437; Pub. L. 96–470, title II, §203(c), Oct. 19, 1980, 94 Stat. 2243.)
 

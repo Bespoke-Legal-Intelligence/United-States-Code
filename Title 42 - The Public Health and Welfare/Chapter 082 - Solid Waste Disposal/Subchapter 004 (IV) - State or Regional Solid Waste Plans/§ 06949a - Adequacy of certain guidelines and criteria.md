@@ -30,7 +30,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### (A) Monitoring requirement
 
-&emsp;&emsp;A State may require ground water monitoring of a solid waste landfill unit thatwould otherwise be exempt under paragraph (2) if necessary to protect ground water resources and ensure compliance with a State ground water protection plan, where applicable.
+&emsp;&emsp;A State may require ground water monitoring of a solid waste landfill unit that would otherwise be exempt under paragraph (2) if necessary to protect ground water resources and ensure compliance with a State ground water protection plan, where applicable.
 
 #### (B) Methods
 

@@ -8,7 +8,7 @@ By not later than July 1, 1997, the President shall provide to the Congress a co
 
 &emsp;(2) The industries (including agricultural industries) in the United States that have significantly increased exports to Mexico or Canada as a result of the Agreement, or in which imports into the United States from Mexico or Canada have increased significantly as a result of the Agreement, and the extent of any change in the wages, employment, or productivity in each such industry as a result of the Agreement.
 
-&emsp;(3) The extent to which investment in new or existing production or other operations in the United States has been redirected to Mexico as a result of the Agreement, and the effect on United States employment of such redirection.
+&emsp;(3) The extent to which investment in new or existing production or other operations in theUnited States has been redirected to Mexico as a result of the Agreement, and the effect on United States employment of such redirection.
 
 &emsp;(4) The extent of any increase in investment, including foreign direct investment and increased investment by United States investors, in new or existing production or other operations in the United States as a result of the Agreement, and the effect on United States employment of such investment.
 
@@ -38,7 +38,7 @@ The study shall include any appropriate recommendations by the President with re
 
 #### (d) Recommendations of certain committees
 
-The President shall provide the study to the Committee on Ways and Means of the House ofRepresentatives and the Committee on Finance of the Senate and any other committee that has jurisdiction over any provision of United States law that was either enacted or amended by the North American Free Trade Agreement Implementation Act. Each such committee may hold hearings and make recommendations to the President with respect to the operation and effects of the Agreement.
+The President shall provide the study to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and any other committee that has jurisdiction over any provision of United States law that was either enacted or amended by the North American Free Trade Agreement Implementation Act. Each such committee may hold hearings and make recommendations to the President with respect to the operation and effects of the Agreement.
 
 (Pub. L. 103–182, title V, §512, Dec. 8, 1993, 107 Stat. 2155.)
 

@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 #### (3) Domestic service
 
-&emsp;In the case of domestic service in a private home, local college club, or local chapter of acollege fraternity or sorority, the term “employer” means, with respect to any calendar year, any person who during any calendar quarter in the calendar year or the preceding calendar year paid wages in cash of $1,000 or more for such service.
+&emsp;In the case of domestic service in a private home, local college club, or local chapter of a college fraternity or sorority, the term “employer” means, with respect to any calendar year, any person who during any calendar quarter in the calendar year or the preceding calendar year paid wages in cash of $1,000 or more for such service.
 
 #### (4) Special rule
 
@@ -164,7 +164,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;(15)(A) service performed by an individual under the age of 18 in the delivery or distribution of newspapers or shopping news, not including delivery or distribution to any point for subsequent delivery or distribution;
 
-&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers ormagazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
+&emsp;(B) service performed by an individual in, and at the time of, the sale of newspapers or magazines to ultimate consumers, under an arrangement under which the newspapers or magazines are to be sold by him at a fixed price, his compensation being based on the retention of the excess of such price over the amount at which the newspapers or magazines are charged to him, whether or not he is guaranteed a minimum amount of compensation for such service, or is entitled to be credited with the unsold newspapers or magazines turned back;
 
 &emsp;(16) service performed in the employ of an international organization;
 
@@ -186,7 +186,7 @@ For purposes of this chapter, the term “employment” means any service perfor
 
 &emsp;&emsp;&emsp;(ii) had average gross receipts for any 6 months in the preceding calendar year which were not more than 331/3 percent of its average gross receipts for the other 6 months in the preceding calendar year; and
 
-&emsp;&emsp;(B) if such full time student performed services in the employ of such camp for less than 13 calendar weeks in such calendar year; or
+&emsp;&emsp;(B) if such full time student performed services in the employ of such camp for lessthan 13 calendar weeks in such calendar year; or
 
 &emsp;(21) service performed by a person committed to a penal institution.
 
@@ -250,7 +250,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(D) a corporation organized under the laws of the United States or of any State.
 
-> An individual who is a citizen of the Commonwealth of Puerto Rico or the Virgin Islands (but not otherwise a citizen of the United States) shall be considered, for purposes of this section, as a citizen of the United States.
+> An individual who is a citizen of the Commonwealth of Puerto Rico or the Virgin Islands (butnot otherwise a citizen of the United States) shall be considered, for purposes of this section, as a citizen of the United States.
 
 #### (k) Agricultural labor
 
@@ -282,7 +282,7 @@ Notwithstanding the provisions of subsection (c)(6), service performed by office
 
 &emsp;&emsp;(A) if—
 
-&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant andSeasonal Agricultural Worker Protection Act; or
+&emsp;&emsp;&emsp;(i) such crew leader holds a valid certificate of registration under the Migrant and Seasonal Agricultural Worker Protection Act; or
 
 &emsp;&emsp;&emsp;(ii) substantially all the members of such crew operate or maintain tractors, mechanized harvesting or crop-dusting equipment, or any other mechanized equipment, which is provided by such crew leader; and
 
@@ -364,7 +364,7 @@ For the purposes of this chapter, the term “self-employment assistance program
 
 &emsp;(1) individuals who meet the requirements described in paragraph (3) are eligible to receive an allowance in lieu of regular unemployment compensation under the State law for the purpose of assisting such individuals in establishing a business and becoming self-employed;
 
-&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the sameterms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
+&emsp;(2) the allowance payable to individuals pursuant to paragraph (1) is payable in the same amount, at the same interval, on the same terms, and subject to the same conditions, as regular unemployment compensation under the State law, except that—
 
 &emsp;&emsp;(A) State requirements relating to availability for work, active search for work, and refusal to accept work are not applicable to such individuals;
 
@@ -406,7 +406,7 @@ Section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974, refe
 
 Subchapter C of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (c), was comprised of sections 1600 to 1611 of former Title 26, Internal Revenue Code. Subchapter C of chapter 9 was repealed by section 7851(a)(3) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referred to in subsec. (c)(1)(B), areclassified to sections 1184(c) and 1101(a)(15)(H), respectively, of Title 8, Aliens and Nationality.
+Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referred to in subsec. (c)(1)(B), are classified to sections 1184(c) and 1101(a)(15)(H), respectively, of Title 8, Aliens and Nationality.
 
 Sections 303(g), 903(c)(2), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (4) and (t)(5), are classified to sections 503(g), 1103(c)(2), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
 
@@ -500,7 +500,7 @@ Subsec. (b)(5)(E) to (G). Pub. L. 98–21, §324(b)(2), added subpars. (E) to (G
 
 Subsec. (b)(8). Pub. L. 98–21, §324(b)(3)(B), struck out par. (8) which related to any payment (other than vacation or sick pay) made to an employee after the month in which he attained the age of 65, if he did not work for the employer in the period for which such payment was made.
 
-Subsec. (b)(10)(A). Pub. L. 98–21, §324(b)(3)(C), struck out cl. (iii) which related to retirement after attainingan age specified in the plan referred to in subpar. (B) or in a pension plan of the employer.
+Subsec. (b)(10)(A). Pub. L. 98–21, §324(b)(3)(C), struck out cl. (iii) which related to retirement after attaining an age specified in the plan referred to in subpar. (B) or in a pension plan of the employer.
 
 Subsec. (b)(14). Pub. L. 98–21, §327(c)(1)–(3), added par. (14).
 

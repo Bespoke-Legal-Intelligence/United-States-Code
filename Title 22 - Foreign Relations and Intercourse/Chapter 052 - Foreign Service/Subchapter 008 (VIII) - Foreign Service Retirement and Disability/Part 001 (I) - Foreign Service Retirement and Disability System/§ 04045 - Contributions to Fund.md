@@ -50,7 +50,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 (3) Special contributions under this subsection shall include interest computed from the midpoint of each service period included in the computation, or from the date refund was paid, to the date of payment of the special contribution or commencing date of annuity, whichever is earlier. <sup>2</sup> Interest shall be compounded at the annual rate of 4 percent to December 31, 1976, and 3 percent thereafter. No interest shall be charged on special contributions for any period of separation from Government service which began before October 1, 1956. Special contributions may be paid in installments (including by allotment of pay) when authorized by the Secretary of State.
 
-(4) Notwithstanding the preceding provisions of this subsection and any provision of section206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
+(4) Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in section 4071b(c) of this title shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
 
 (5) Notwithstanding paragraph (1), a special contribution for past service as a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development which would have been creditable toward retirement under either section 8336(c) or 8412(d) of title 5, and for which a special contribution has not been made shall be equal to the difference between the amount actually contributed pursuant to either this section or section 4071e of this title and the amount that should have been contributed pursuant to either section 8334 or 8422 of title 5.
 
@@ -76,7 +76,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (f) Exemption for certain military or naval service
 
-Contributions shall only be required to obtain credit for periods of military or naval service to the extent provided under subsection (e) of this section and section 4056(a) of this title, except that credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.
+Contributions shall only be required to obtain credit for periods of military or naval service to the extent provided under subsection (e) of this section and section 4056(a) of this title, exceptthat credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.
 
 #### (g) Time of payment; offset against initial annuity accruals
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a noteunder section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1988 Amendment
 
@@ -186,7 +186,7 @@ Individual deductions, withholdings, and deposits.—
 
 &emsp;“(A)
 
-In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 1980 (22 U.S.C.4045(a)(1)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of a participant in the Foreign Service Retirement and Disability System shall be as follows:
+In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)(1)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of a participant in the Foreign Service Retirement and Disability System shall be as follows:
 
 &nbsp;
 

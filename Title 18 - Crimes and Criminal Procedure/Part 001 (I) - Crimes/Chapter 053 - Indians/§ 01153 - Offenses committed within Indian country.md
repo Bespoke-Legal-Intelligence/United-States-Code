@@ -46,7 +46,7 @@ Pub. L. 99–303 inserted section catchline which had been eliminated by general
 
 1984—Pub. L. 98–473 amended section generally, inserting offenses of maiming, involuntary sodomy and a felony committed under section 661 of this title and striking out reference to larceny in first par., and inserting “, involuntary sodomy,” after “burglary” in third par.
 
-1976—Pub. L. 94–297 made changes in phraseology, added offense of kidnapping to the enumerated list of offenses subjecting any Indian to the same laws and penalties as all other persons, struck out applicability to assault with a dangerous weapon and assault resulting in serious bodily injury from paragraph coveringthe offenses of burglary and incest only, and substituted paragraph, relating to offenses in addition to offenses of burglary and incest, for paragraph relating to offenses of rape and assault with intent to commit rape.
+1976—Pub. L. 94–297 made changes in phraseology, added offense of kidnapping to the enumerated list of offenses subjecting any Indian to the same laws and penalties as all other persons, struck out applicability to assault with a dangerous weapon and assault resulting in serious bodily injury from paragraph covering the offenses of burglary and incest only, and substituted paragraph, relating to offenses in addition to offenses of burglary and incest, for paragraph relating to offenses of rape and assault with intent to commit rape.
 
 1968—Pub. L. 90–284 inserted offense of assault resulting in serious bodily injury.
 
@@ -60,5 +60,5 @@ Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective, respectively, 30 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1162, 3242, 3551, 3598, 4042, 5032 of this title; title 25 sections 1301, 1725, 1775d, 2802.
+This section is referred to in sections 1162, 3242, 3551, 3598, 4042, 5032 of this title; title 25 sections 1301, 1725, 1775d, 2802; title 42 section 14135a.
 

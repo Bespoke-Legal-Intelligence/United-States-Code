@@ -100,7 +100,7 @@ For purposes of this part—
 
 #### (2) Scope of election
 
-&emsp;An election under this subsection shall apply to all market discount bonds acquiredby the taxpayer on or after the 1st day of the 1st taxable year to which such election applies.
+&emsp;An election under this subsection shall apply to all market discount bonds acquired by the taxpayer on or after the 1st day of the 1st taxable year to which such election applies.
 
 #### (3) Period to which election applies
 

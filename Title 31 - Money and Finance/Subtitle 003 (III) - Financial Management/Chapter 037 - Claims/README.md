@@ -67,7 +67,7 @@ Pub. L. 104–134, title III, §31001(j)(2), (<i>o</i>)(2), (r)(2), (t)(2), Apr.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3516 of this title; title 20 sections 1234a, 8071h; title 42 sections 1395ccc, 5155, 12651d.
+This chapter is referred to in section 3516 of this title; title 20 sections 1234a, 7223h; title 42 sections 1395ccc, 5155, 12651d.
 
 
 ---

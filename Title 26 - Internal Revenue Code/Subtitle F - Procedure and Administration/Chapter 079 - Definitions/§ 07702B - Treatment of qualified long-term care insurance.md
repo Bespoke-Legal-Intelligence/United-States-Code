@@ -50,7 +50,7 @@ For purposes of this title—
 
 &emsp;&emsp;(i) Paragraph (1)(B) shall not apply to expenses which are reimbursable under title XVIII of the Social Security Act only as a secondary payor.
 
-&emsp;&emsp;(ii) No provision of law shall be construed or applied so as to prohibit the offering of aqualified long-term care insurance contract on the basis that the contract coordinates its benefits with those provided under such title.
+&emsp;&emsp;(ii) No provision of law shall be construed or applied so as to prohibit the offering of a qualified long-term care insurance contract on the basis that the contract coordinates its benefits with those provided under such title.
 
 #### (C) Refunds of premiums
 
@@ -74,7 +74,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “chronically ill individual” means any individual who has been certified by a licensed health care practitioner as—
 
-&emsp;&emsp;&emsp;(i) being unable to perform (without substantial assistance from another individual) at least 2 activities of daily living for a period of at least 90 days due to a loss of functional capacity,
+&emsp;&emsp;&emsp;(i) being unable to perform (without substantial assistance from another individual) at least 2 activities of daily living fora period of at least 90 days due to a loss of functional capacity,
 
 &emsp;&emsp;&emsp;(ii) having a level of disability similar (as determined under regulations prescribed by the Secretary in consultation with the Secretary of Health and Human Services) to the level of disability described in clause (i), or
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (4) Dollar amount
 
-&emsp;The dollar amount in effect under this subsection shall be $175 per day (or the equivalentamount in the case of payments on another periodic basis).
+&emsp;The dollar amount in effect under this subsection shall be $175 per day (or the equivalent amount in the case of payments on another periodic basis).
 
 #### (5) Inflation adjustment
 
@@ -164,7 +164,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 &emsp;Section 7702(c)(2) (relating to the guideline premium limitation) shall be applied by increasing the guideline premium limitation with respect to a life insurance contract, as of any date—
 
-&emsp;&emsp;(A) by the sum of any charges (but not premium payments) against the life insurance contract's cash surrender value (within the meaning of section 7702(f)(2)(A)) for such coverage made to that date under the contract, less
+&emsp;&emsp;(A) by the sum of any charges (but not premium payments) against the life insurancecontract's cash surrender value (within the meaning of section 7702(f)(2)(A)) for such coverage made to that date under the contract, less
 
 &emsp;&emsp;(B) any such charges the imposition of which reduces the premiums paid for the contract (within the meaning of section 7702(f)(1)).
 
@@ -270,7 +270,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 #### (iii) Determination
 
-&emsp;&emsp;&emsp;For purposes of this section and section 4980C, the determination of whether any requirement of a model regulation or the model Act has been met shall be made by the Secretary.
+&emsp;&emsp;&emsp;For purposes of this section and section 4980C, the determination of whether any requirement of a model regulation or themodel Act has been met shall be made by the Secretary.
 
 #### (3) Disclosure requirement
 
@@ -306,9 +306,9 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 (Added and amended Pub. L. 104–191, title III, §§321(a), 325, Aug. 21, 1996, 110 Stat. 2054, 2063; Pub. L. 105–34, title XVI, §1602(b), (e), Aug. 5, 1997, 111 Stat. 1094; Pub. L. 105–206, title VI, §6023(28), July 22, 1998, 112 Stat. 826.)
 
-#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 2001
+#### Adjustment of Dollar Amount of Per Diem Limitation Regarding Periodic Payments for Calendar Year 2002
 
-<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 2001, see section 3.27 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of dollar amount of per diem limitation on periodic payments received under qualified long-term care or certain life insurance contracts under subsection (d)(4) of this section for calendar year 2002, see section 3.29 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### References in Text
 
@@ -346,7 +346,7 @@ In general.—Except as provided in subparagraph (B), the amendments made by thi
 
 &emsp;“(B)
 
-Reserve method.—The amendment made by subsection (b) \[amending section 807 of this title\]shall apply to contracts issued after December 31, 1997.
+Reserve method.—The amendment made by subsection (b) \[amending section 807 of this title\] shall apply to contracts issued after December 31, 1997.
 
 “(2)
 

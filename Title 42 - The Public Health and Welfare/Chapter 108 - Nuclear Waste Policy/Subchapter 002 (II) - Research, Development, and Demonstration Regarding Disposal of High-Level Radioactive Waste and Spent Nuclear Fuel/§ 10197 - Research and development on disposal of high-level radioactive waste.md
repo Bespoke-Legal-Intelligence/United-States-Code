@@ -32,7 +32,7 @@ The Secretary shall design each test and evaluation facility—
 
 #### (c) Operation
 
-(1) Not later than 88 months after January 7, 1983, the Secretary shall begin an in situ testing program at the test and evaluation facility in accordance with the mission plan developed under section 10221 of this title, for purposes of—
+(1) Not later than 88 months after January 7, 1983, the Secretary shall begin an in situ testingprogram at the test and evaluation facility in accordance with the mission plan developed under section 10221 of this title, for purposes of—
 
 &emsp;(A) conducting in situ tests of bore hole sealing, geologic media fracture sealing, and room closure to establish the techniques and performance for isolation of high-level radioactive waste, spent nuclear fuel, or other radioactive materials from the biosphere;
 
@@ -82,7 +82,7 @@ The system of engineered barriers and selected geology used in a test and evalua
 
 #### (g) Environmental review
 
-The Secretary shall prepare an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) prior to conducting tests with radioactive materials at the test and evaluation facility. Such environmental impact statement shall incorporate, to the extent practicable, the environmental assessment prepared under subsection (a) of this section. Nothing in this subsection may be construed to limit siting research activities conducted under section 10194 of this title. This subsection shall apply only to activities performed exclusively for a test and evaluation facility.
+The Secretary shall prepare an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)) prior to conducting tests with radioactive materials at the test and evaluation facility. Such environmental impact statement shall incorporate, to the extent practicable, the environmental assessment prepared under subsection (a) of this section. Nothing in this subsection may be construed to limit siting research activities conducted under section 10194of this title. This subsection shall apply only to activities performed exclusively for a test and evaluation facility.
 
 #### (h) Limitations
 

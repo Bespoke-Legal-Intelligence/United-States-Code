@@ -38,7 +38,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;The principal negotiating objectives of the United States regarding developing countries are—
 
-&emsp;&emsp;(A) to ensure that developing countries promote economic development by assuming the fullest possible measure of responsibility for achieving and maintaining an open international trading system by providing reciprocal benefits and assuming equivalent obligations with respect to their import and export practices; and
+&emsp;&emsp;(A) to ensure that developing countries promote economic development by assuming the fullest possible measure of responsibilityfor achieving and maintaining an open international trading system by providing reciprocal benefits and assuming equivalent obligations with respect to their import and export practices; and
 
 &emsp;&emsp;(B) to establish procedures for reducing nonreciprocal trade benefits for the more advanced developing countries.
 
@@ -82,7 +82,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;&emsp;&emsp;(III) other collateral concessions be made,
 
-&emsp;&emsp;&nbsp;as a condition for the importation of any product or service of the United Statesinto the foreign country or as a condition for carrying on business in the foreign country.
+&emsp;&emsp;&nbsp;as a condition for the importation of any product or service of the United States into the foreign country or as a condition for carrying on business in the foreign country.
 
 #### (9) Trade in services
 
@@ -104,7 +104,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(A) to seek the enactment and effective enforcement by foreign countries of laws which—
 
-&emsp;&emsp;&emsp;(i) recognize and adequately protect intellectual property, including copyrights, patents, trademarks, semiconductor chip layout designs, and trade secrets, and
+&emsp;&emsp;&emsp;(i) recognize and adequately protect intellectual property, including copyrights,patents, trademarks, semiconductor chip layout designs, and trade secrets, and
 
 &emsp;&emsp;&emsp;(ii) provide protection against unfair competition,
 
@@ -168,7 +168,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(A) measures identified in the annual report prepared under section 2241 of this title; and
 
-&emsp;&emsp;(B) foreign tariffs and nontariff barriers on competitive United States exports when like or similar products enter the United Statesat low rates of duty or are duty-free, and other tariff disparities that impede access to particular export markets.
+&emsp;&emsp;(B) foreign tariffs and nontariff barriers on competitive United States exports when like or similar products enter the United States at low rates of duty or are duty-free, and other tariff disparities that impede access to particular export markets.
 
 #### (14) Worker rights
 
@@ -262,7 +262,7 @@ Purposes.—The purposes of this title \[see Tables for classification\] are to�
 
 Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, as amended by Ex. Ord. No. 12697, Dec. 22, 1989, 54 F.R. 53037; Ex. Ord. No. 12716, May 24, 1990, 55 F.R. 21831; Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) (“Omnibus Trade Act”) \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), as amended (“Tariff Act”) \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) (“Defense Authorization Act”) \[see Tables for classification\], section 301 of Title3 of the United States Code, and, in general, to ensure that the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including the Omnibus Trade and Competitiveness Act of 1988 (P.L. 100–418, 102 Stat. 1107) (“Omnibus Trade Act”) \[see Short Title note above\], the Tariff Act of 1930 (Chapter 497, 46 Stat. 590, June 17, 1930), as amended (“Tariff Act”) \[19 U.S.C. 1202 et seq.\], the National Defense Authorization Act, Fiscal Year 1989 (P.L. 100–456, 102 Stat. 1918) (“Defense Authorization Act”) \[see Tables for classification\], section 301 of Title 3 of the United States Code, and, in general, to ensure that the international trade policy of the United States shall be conducted and administered in a way that achieves the economic, foreign policy, and national security objectives of the United States and in a coordinated manner under the direction of the President, it is hereby ordered as follows:
 
 #### PART I—TRADE, CUSTOMS, AND TARIFF LAWS
 
@@ -280,7 +280,7 @@ Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the Preside
 
 Sec. 2–101. <i>Countertrade and Barter.</i>
 
-(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
+(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of theSecretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
 
 (2) <i>Functions</i>. The interagency group shall carry out the functions and duties set out in section 2205(a) of the Omnibus Trade Act \[15 U.S.C. 4712(a)\].
 
@@ -332,7 +332,7 @@ Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Super
 
 (B) Federal research and acquisition policies for fiber optics and optical-electronic technologies generally;
 
-(C) Superconducting materials, including descriptions of research priorities, the scientific and technical barriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
+(C) Superconducting materials, including descriptions of research priorities, the scientific and technicalbarriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
 
 (D) Federal research to assist United States industry to develop and apply advanced manufacturing technologies for the production of durable and nondurable goods.
 

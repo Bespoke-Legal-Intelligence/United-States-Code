@@ -10,11 +10,11 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 #### (A) Fiscal year 1998
 
-&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1998, the Secretary shall reserve not less than $17,564,000 for making awards of grants and contracts under section 296m of this title as such section was in effect for fiscal year 1998.
+&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1998,the Secretary shall reserve not less than $17,564,000 for making awards of grants and contracts under section 296m of this title as such section was in effect for fiscal year 1998.
 
 #### (B) Fiscal years 1999 through 2002
 
-&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1999 or any of the fiscal years 2000 through 2002, the Secretary, subject to subsection (d) ofthis section, shall reserve for the fiscal year involved, for making awards of grants and contracts under part B of this subchapter with respect to nurse practitioners and nurse midwives, not less than the percentage constituted by the ratio of the amount appropriated under section 296m of this title as such section was in effect for fiscal year 1998 to the total of the amounts appropriated under this subchapter for such fiscal year. For purposes of the preceding sentence, the Secretary, in determining the amount that has been reserved for the fiscal year involved, shall include any amounts appropriated under subsection (a) of this section for the fiscal year that are obligated by the Secretary to continue in effect grants or contracts under section 296m of this title as such section was in effect for fiscal year 1998.
+&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1999 or any of the fiscal years 2000 through 2002, the Secretary, subject to subsection (d) of this section, shall reserve for the fiscal year involved, for making awards of grants and contracts under part B of this subchapter with respect to nurse practitioners and nurse midwives, not less than the percentage constituted by the ratio of the amount appropriated under section 296m of this title as such section was in effect for fiscal year 1998 to the total of the amounts appropriated under this subchapter for such fiscal year. For purposes of the preceding sentence, the Secretary, in determining the amount that has been reserved for the fiscal year involved, shall include any amounts appropriated under subsection (a) of this section for the fiscal year that are obligated by the Secretary to continue in effect grants or contracts under section 296m of this title as such section was in effect for fiscal year 1998.
 
 #### (2) Nurse anesthetists
 
@@ -60,7 +60,7 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 &emsp;&emsp;&emsp;(vii) The percentage of the general population constituted by individuals who are of Hispanic ethnicity.
 
-&emsp;&emsp;&emsp;(viii) The number of individuals residing in health professional shortage areas, and the number of individuals who are members of medically underserved populations.
+&emsp;&emsp;&emsp;(viii) The number of individuals residing in health professional shortage areas, andthe number of individuals who are members of medically underserved populations.
 
 &emsp;&emsp;&emsp;(ix) The percentage of the general population constituted by elderly individuals.
 

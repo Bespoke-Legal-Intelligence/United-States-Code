@@ -26,5 +26,5 @@ As used in this subchapter—
 
 #### Separability
 
-Section 9 of act Mar. 28, 1941 provided that: “If any provision of this Act \[enacting sections 1736 to 1742 of this title, and section 609k of Title 15, Commerce and Trade, and amending sections 371, 1430, 1702, 1706, 1707,1713, and 1715, 1716, 1717 of this title\] or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Section 9 of act Mar. 28, 1941 provided that: “If any provision of this Act \[enacting sections 1736 to 1742 of this title, and section 609k of Title 15, Commerce and Trade, and amending sections 371, 1430, 1702, 1706, 1707, 1713, and 1715, 1716, 1717 of this title\] or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 

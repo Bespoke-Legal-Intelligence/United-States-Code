@@ -80,7 +80,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (7) Compensation
 
-&emsp;The order shall provide that members and alternates of the Board shall serve withoutcompensation, but shall be reimbursed for the reasonable expenses incurred in performing duties as members or alternates of the Board.
+&emsp;The order shall provide that members and alternates of the Board shall serve without compensation, but shall be reimbursed for the reasonable expenses incurred in performing duties as members or alternates of the Board.
 
 #### (c) General responsibilities of the Avocado Board
 
@@ -140,7 +140,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (B) Industry information
 
-&emsp;&emsp;The order shall provide for the establishment, implementation, administration, and evaluation of appropriate plans and projects that will lead to the development of new markets, maintain and expand existing markets, lead to the development of new marketing strategies, or increase the efficiency of the Hass avocado industry, and activities to enhance the image of the Hass avocado industry, and for the disbursement of necessary funds for the purposes described in this subparagraph.
+&emsp;&emsp;The order shall provide for the establishment, implementation, administration, and evaluation of appropriate plans and projectsthat will lead to the development of new markets, maintain and expand existing markets, lead to the development of new marketing strategies, or increase the efficiency of the Hass avocado industry, and activities to enhance the image of the Hass avocado industry, and for the disbursement of necessary funds for the purposes described in this subparagraph.
 
 #### (C) Research
 
@@ -158,7 +158,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (3) Approval by Secretary
 
-&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumerinformation, or related research may not be implemented prior to approval of the budget, plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan, or project shall be deemed to be approved and may be implemented by the Board.
+&emsp;A budget, plan, or project for Hass avocados promotion, industry information, consumer information, or related research may not be implemented prior to approval of the budget, plan, or project by the Secretary. Not later than 45 days after receipt of such a budget, plan, or project, the Secretary shall notify the Board whether the Secretary approves or disapproves the budget, plan, or project. If the Secretary fails to provide such notice before the end of the 45-day period, the budget, plan, or project shall be deemed to be approved and may be implemented by the Board.
 
 #### (e) Contracts and agreements
 
@@ -218,7 +218,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (2) Use of existing personnel and facilities
 
-&emsp;The Board shall use, to the extent possible, the resources, staffs, and facilities of existing organizations, as provided in subsection (e)(1)(A) of this section.
+&emsp;The Board shall use, to the extent possible, the resources, staffs, and facilities of existingorganizations, as provided in subsection (e)(1)(A) of this section.
 
 #### (h) Assessments
 
@@ -372,7 +372,7 @@ The Board may not engage in, and shall prohibit the employees and agents of the 
 
 #### (A) In general
 
-&emsp;&emsp;Information obtained from books, records, or reports under paragraph (1) shall be kept confidential by all officers and employees of the Department of Agriculture and by the staff and agents of the Board.
+&emsp;&emsp;Information obtained from books, records, or reports under paragraph (1) shall be keptconfidential by all officers and employees of the Department of Agriculture and by the staff and agents of the Board.
 
 #### (B) Suits and hearings
 

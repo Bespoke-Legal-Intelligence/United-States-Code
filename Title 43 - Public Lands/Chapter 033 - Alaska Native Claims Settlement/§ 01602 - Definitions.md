@@ -28,7 +28,7 @@ For the purposes of this chapter, the term—
 
 (m) “Native Corporation” means any Regional Corporation, any Village Corporation, any Urban Corporation, and any Group Corporation;
 
-(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manageand/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
+(n) “Group Corporation” means an Alaska Native Group Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of a Native group in accordance with the terms of this chapter;
 
 (<i>o</i>) “Urban Corporation” means an Alaska Native Urban Corporation organized under the laws of the State of Alaska as a business for profit or nonprofit corporation to hold, invest, manage and/or distribute lands, property, funds, and other rights and assets for and on behalf of members of an urban community of Natives in accordance with the terms of this chapter;
 
@@ -78,7 +78,7 @@ Subsecs. (n) to (t). Pub. L. 100–241, §3(5), added subsecs. (n) to (t).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1615, 1626, 1641 of this title; title 15 section 632; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 2326, 7938; title 25 sections 472a, 1903, 2012, 3103; title 29 section 2911; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
+This section is referred to in sections 1615, 1626, 1641 of this title; title 15 section 632; title 16 sections 470w, 620e, 1722, 3102; title 20 sections 2326, 7546; title 25 sections 13f, 472a, 1903, 2012, 3103; title 26 section 646; title 29 section 2911; title 38 section 3764; title 42 sections 300f, 6949a, 9832, 10101, 12511, 12584; title 45 section 1202.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Metlakatla”.</i>
 

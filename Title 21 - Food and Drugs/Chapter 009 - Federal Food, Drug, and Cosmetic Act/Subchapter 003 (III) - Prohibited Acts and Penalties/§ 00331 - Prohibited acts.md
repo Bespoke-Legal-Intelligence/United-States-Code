@@ -16,7 +16,7 @@ The following acts and the causing thereof are prohibited:
 
 (g) The manufacture within any Territory of any food, drug, device, or cosmetic that is adulterated or misbranded.
 
-(h) The giving of a guaranty or undertaking referred to in section 333(c)(2) of this title, which guaranty or undertaking is false, except by a person who relied upon a guaranty or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the food, drug, device, orcosmetic; or the giving of a guaranty or undertaking referred to in section 333(c)(3) of this title, which guaranty or undertaking is false.
+(h) The giving of a guaranty or undertaking referred to in section 333(c)(2) of this title, which guaranty or undertaking is false, except by a person who relied upon a guaranty or undertaking to the same effect signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the food, drug, device, or cosmetic; or the giving of a guaranty or undertaking referred to in section 333(c)(3) of this title, which guaranty or undertaking is false.
 
 (i)(1) Forging, counterfeiting, simulating, or falsely representing, or without proper authority using any mark, stamp, tag, label, or other identification device authorized or required by regulations promulgated under the provisions of section 344 or 379e of this title.
 
@@ -46,7 +46,7 @@ The following acts and the causing thereof are prohibited:
 
 (s) The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by section 350a(f)(1)(B) of this title, the failure to retain the records required by section 350a(b)(4) of this title, or the failure to meet the requirements prescribed under section 350a(f)(3) of this title.
 
-(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section 353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
+(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer tosell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section 353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
 
 (u) The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
@@ -234,7 +234,7 @@ Amendment by act Mar. 16, 1950, effective July 1, 1950, see section 7 of that ac
 
 #### Regulations
 
-Secretary of Health and Human Services to promulgate regulations to implement amendments made bysection 401 of Pub. L. 105–115 not later than 1 year after Nov. 21, 1997, see section 401(c) of Pub. L. 105–115, set out as a note under section 360aaa of this title.
+Secretary of Health and Human Services to promulgate regulations to implement amendments made by section 401 of Pub. L. 105–115 not later than 1 year after Nov. 21, 1997, see section 401(c) of Pub. L. 105–115, set out as a note under section 360aaa of this title.
 
 #### Savings Provision
 
@@ -246,7 +246,7 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 332, 333, 347b, 360i, 360j, 360aaa of this title; title 42 section 1396r–8.
+This section is referred to in sections 321, 332, 333, 347b, 355a, 360i, 360j, 360aaa of this title; title 42 section 1396r–8.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

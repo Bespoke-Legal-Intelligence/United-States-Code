@@ -184,7 +184,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no deduction otherwise allowable shall be allowed under this chapter for any amount paid or incurred by a corporation in connection with the reacquisition of its stock or of the stock of any related person (as defined in section 465(b)(3)(C)).
+&emsp;Except as provided in paragraph (2), no deduction otherwise allowable shall be allowedunder this chapter for any amount paid or incurred by a corporation in connection with the reacquisition of its stock or of the stock of any related person (as defined in section 465(b)(3)(C)).
 
 #### (2) Exceptions
 
@@ -290,7 +290,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (C) Other performance-based compensation
 
-&emsp;&emsp;The term “applicable employee remuneration” shall not include any remunerationpayable solely on account of the attainment of one or more performance goals, but only if—
+&emsp;&emsp;The term “applicable employee remuneration” shall not include any remuneration payable solely on account of the attainment of one or more performance goals, but only if—
 
 &emsp;&emsp;&emsp;(i) the performance goals are determined by a compensation committee of the board of directors of the taxpayer which is comprised solely of 2 or more outside directors,
 
@@ -342,7 +342,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;In the case of any employee of the United States Postal Service who performs services involving the collection and delivery of mail on a rural route and who receives qualified reimbursements for the expenses incurred by such employee for the use of a vehicle in performing such services—
 
-&emsp;&emsp;(A) the amount allowable as a deduction under this chapter for the use of a vehicle in performing such services shall be equal to the amount of such qualified reimbursements; and
+&emsp;&emsp;(A) the amount allowable as a deduction under this chapter for the use of a vehicle in performing such services shall be equal tothe amount of such qualified reimbursements; and
 
 &emsp;&emsp;(B) such qualified reimbursements shall be treated as paid under a reimbursement or other expense allowance arrangement for purposes of section 62(a)(2)(A) (and section 62(c) shall not apply to such qualified reimbursements).
 
@@ -599,7 +599,7 @@ Subsecs. (f), (g). Pub. L. 91–172, §902(a), added subsecs. (f) and (g). Forme
 
 Subsec. (h). Pub. L. 91–172, §§516(c)(2)(A), 902(a), redesignated former subsec. (f) as (h), substituted “(1) For” for “For”, and inserted reference to section 1253 for special rule relating to the treatment of payments by a transferee of a franchise, trademark, or trade name.
 
-<b>1962</b>—Subsec. (a)(2). Pub. L. 87–834, §4(b), substituted “(including amounts expended for meals and lodging other than amounts which are lavish or extravagantunder the circumstances)” for “including the entire amount expended for meals and lodging)”.
+<b>1962</b>—Subsec. (a)(2). Pub. L. 87–834, §4(b), substituted “(including amounts expended for meals and lodging other than amounts which are lavish or extravagant under the circumstances)” for “including the entire amount expended for meals and lodging)”.
 
 Subsecs. (e), (f). Pub. L. 87–834, §3(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -683,7 +683,7 @@ Section 11410(c) of Pub. L. 101–508 provided that: “The amendments made by t
 
 #### Effective Date of 1989 Amendments
 
-Section 6202(b)(5) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amending this section, sections 4980B and 5000 of this title, sections 623 and 631 of Title 29, Labor, and sections 1395p, 1395r, and 1395y of Title 42, The Public Health and Welfare\] shall apply to items and services furnished after the date of the enactment of this Act \[Dec. 19, 1989\].”
+Section 6202(b)(5) of Pub. L. 101–239 provided that: “The amendments made by this subsection \[amendingthis section, sections 4980B and 5000 of this title, sections 623 and 631 of Title 29, Labor, and sections 1395p, 1395r, and 1395y of Title 42, The Public Health and Welfare\] shall apply to items and services furnished after the date of the enactment of this Act \[Dec. 19, 1989\].”
 
 Section 7107(c) of Pub. L. 101–239 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1989.”
 
@@ -753,7 +753,7 @@ Amendment by Pub. L. 99–272 applicable to plan years beginning on or after Jul
 
 Section 232(b) of Pub. L. 98–573 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 30, 1984\].”
 
-Amendment by section 512(b) of Pub. L. 98–369 applicable to amounts paid or incurred after July 18, 1984, in taxable years ending after such date, subject to an exception for certain extended vacation pay plans, see section 512(c) of Pub. L. 98–369, set out as a note under section 404 of this title.
+Amendment by section 512(b) of Pub. L. 98–369 applicable to amounts paid or incurred after July 18, 1984, in taxable years ending after such date, subject to an exception for certain extended vacation pay plans, seesection 512(c) of Pub. L. 98–369, set out as a note under section 404 of this title.
 
 Amendment by section 2354(d) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e) of Pub. L. 98–369, set out as a note under section 1320a–1 of Title 42, The Public Health and Welfare.
 
@@ -767,7 +767,7 @@ Section 215(d) of Pub. L. 97–216 provided that: “The amendments made by this
 
 #### Effective Date of 1981 Amendments
 
-Section 139(b)(3) of Pub. L. 97–51, as amended by Pub. L. 97–92, §133a, Dec. 15, 1981, 95 Stat. 1199, provided that:“The amendments made by this subsection \[amending this section and repealing section 31c of Title 2, The Congress\] shall apply to taxable years beginning after December 31, 1980.”
+Section 139(b)(3) of Pub. L. 97–51, as amended by Pub. L. 97–92, §133a, Dec. 15, 1981, 95 Stat. 1199, provided that: “The amendments made by this subsection \[amending this section and repealing section 31c of Title 2, The Congress\] shall apply to taxable years beginning after December 31, 1980.”
 
 Section 2146(c)(2) of Pub. L. 97–35 provided that: “The amendments made by subsection (b) \[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1982.”
 
@@ -811,7 +811,7 @@ Pub. L. 104–208, div. A, title II, §2711, Sept. 30, 1996, 110 Stat. 3009–49
 
 Section 110(a)(2) of Pub. L. 102–227 provided that, in the case of any taxable year beginning in 1992 only amounts paid before July 1, 1992, by the individual for insurance coverage for periods before July 1, 1992, would be taken into account in determining the amount deductible under subsec. (<i>l</i>) of this section with respect to such individual for such taxable year, and that for purposes of subparagraph (A) of subsec. (<i>l</i>)(2) of this section, the amount of the earned income described in such subparagraph taken into account for such taxable year would be the amount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before July 1, 1992, bears to the number of months in such taxable year, prior to repeal by Pub. L. 103–66, title XIII, §13174(a)(2), Aug. 10, 1993, 107 Stat. 457.
 
-Section 7107(a)(2) of Pub. L. 101–239 provided that, in the case of any taxable year beginning in 1990 only amounts paid before Oct. 1, 1990, by the individual for insurance coverage for periods before Oct. 1, 1990, would be taken into account in determining the amount deductible under subsec. (<i>l</i>) of this section with respect to such individual for such taxable year, and that for purposes of subsec. (<i>l</i>)(2)(A) of this section, the amount of the earned income described in such paragraph taken into account for such taxable year would be the amount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before Oct. 1, 1990, bears to the number of months in such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11410(b), Nov. 5, 1990, 104 Stat. 1388–479.
+Section 7107(a)(2) of Pub. L. 101–239 provided that, in the case of any taxable year beginning in 1990 only amounts paid before Oct. 1, 1990, by the individual for insurance coverage for periods before Oct. 1, 1990, would be taken into account in determining the amount deductible under subsec. (<i>l</i>) of this section with respect to such individual for such taxable year, and that for purposes of subsec. (<i>l</i>)(2)(A) of this section, the amount of the earned income described in such paragraph taken into account for such taxable year would be theamount which bears the same ratio to the total amount of such earned income as the number of months in such taxable year ending before Oct. 1, 1990, bears to the number of months in such taxable year, prior to repeal by Pub. L. 101–508, title XI, §11410(b), Nov. 5, 1990, 104 Stat. 1388–479.
 
 #### Business Use of Automobiles by Rural Mail Carriers
 

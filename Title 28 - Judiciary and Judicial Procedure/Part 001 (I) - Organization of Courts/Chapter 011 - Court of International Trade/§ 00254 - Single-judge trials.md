@@ -20,7 +20,7 @@ The phrase “petitions for remission of additional duties” was added to the f
 
 Reappraisement appeals are heard by a single judge and reviewed by a division. (See sections 2631 and 2636 of this title.)
 
-The provision of section 296 of title 28, U.S.C., 1940 ed., that the presiding judge shall designate one of the three judges of a division to preside over such division was omitted as in conflict with section 253 of this title (also taken from section 296 of title 28 U.S.C., 1940 ed.),which provides that judges shall preside according to the seniority of their commissions. The latter provision is in accord with present practice.
+The provision of section 296 of title 28, U.S.C., 1940 ed., that the presiding judge shall designate one of the three judges of a division to preside over such division was omitted as in conflict with section 253 of this title (also taken from section 296 of title 28 U.S.C., 1940 ed.), which provides that judges shall preside according to the seniority of their commissions. The latter provision is in accord with present practice.
 
 Changes were made in arrangement and phraseology.
 

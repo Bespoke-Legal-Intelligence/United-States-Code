@@ -16,7 +16,7 @@ The Secretary shall approve the plan submitted by a State under subsection (b) o
 
 &emsp;(2) provides for the enforcement of manufactured home safety and construction standards promulgated under section 5403 of this title;
 
-&emsp;(3) provides for a right of entry and inspection of all factories, warehouses, or establishments in such State in which manufacturedhomes are manufactured and for the review of plans, in a manner which is identical to that provided in section 5413 of this title;
+&emsp;(3) provides for a right of entry and inspection of all factories, warehouses, or establishments in such State in which manufactured homes are manufactured and for the review of plans, in a manner which is identical to that provided in section 5413 of this title;
 
 &emsp;(4) provides for the imposition of the civil and criminal penalties under section 5410 of this title;
 
@@ -68,7 +68,7 @@ The Secretary shall, on the basis of reports submitted by the designated State a
 
 #### Codification
 
-Reference to “mobile homes”, appearing in subsec. (c)(3), changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
+Reference to “mobile homes”, appearing in subsec. (c)(3), changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
 
 #### Amendments
 

@@ -44,5 +44,5 @@ This section inserts commas in certain parts of the text of subsection (b) of se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 section 3006A.
+This section is referred to in title 8 section 1226a; title 18 section 3006A.
 

@@ -30,5 +30,5 @@ Provisions similar to those in this section were contained in section 6389(f)(3)
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14101, 14514 of this title.
+This section is referred to in sections 1558, 14101, 14514 of this title.
 

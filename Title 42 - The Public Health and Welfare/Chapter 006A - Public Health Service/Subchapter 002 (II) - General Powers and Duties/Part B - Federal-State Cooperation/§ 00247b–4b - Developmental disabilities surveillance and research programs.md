@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Health and Human Services (in this section referred to as the “Secretary”), acting through the Director of the Centers for Disease Control and Prevention, may make awards of grants and cooperative agreements for the collection, analysis, and reporting of data on autism and pervasive developmental disabilities. In making such awards, the Secretary may provide direct technical assistance in lieu of cash.
+&emsp;The Secretary of Health and Human Services (in this section referred to as the “Secretary”), acting through the Director of the Centers for Disease Control and Prevention, may make awards of grants and cooperative agreements for the collection, analysis, and reporting of data on autism and pervasive developmental disabilities. In making suchawards, the Secretary may provide direct technical assistance in lieu of cash.
 
 #### (2) Eligibility
 

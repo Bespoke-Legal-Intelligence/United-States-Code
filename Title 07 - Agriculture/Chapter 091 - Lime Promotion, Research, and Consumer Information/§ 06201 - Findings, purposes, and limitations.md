@@ -56,7 +56,7 @@ Findings.—Congress finds the following:
 
 &emsp;“(2) The lime research, promotion, and consumer information order required by such Act became effective on January 27, 1992.
 
-&emsp;“(3) Although the intent of such Act was to cover seedless limes, the definition of the term ‘lime’ in section 1953(6) of such Act \[7 U.S.C. 6202(6)\] applies to seeded limes. Therefore, the Act and the order need to be revised before a research, promotion, and consumer information program on seedless limes can go into effect.
+&emsp;“(3) Although the intent of such Act was to cover seedless limes, the definition of the term ‘lime’ in section 1953(6) of such Act \[7 U.S.C. 6202(6)\] applies to seeded limes. Therefore, the Act and the order needto be revised before a research, promotion, and consumer information program on seedless limes can go into effect.
 
 &emsp;“(4) Since the enactment of the Lime Research, Promotion, and Consumer Information Act of 1990, the United States production of fresh market limes has plummeted and the volume of imports has risen dramatically. The drop in United States production is primarily due to damage to lime orchards in the State of Florida by Hurricane Andrew in August 1992. United States production is not expected to reach pre-Hurricane Andrew levels for possibly two to three years because a majority of the United States production of limes is in Florida.
 

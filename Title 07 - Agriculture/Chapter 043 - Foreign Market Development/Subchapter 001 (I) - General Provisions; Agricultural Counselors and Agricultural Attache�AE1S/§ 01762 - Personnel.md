@@ -56,11 +56,11 @@ Amendment by act June 28, 1955, effective June 28, 1955, see section 13 of act o
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Ex. Ord. No. 10624. Regulations for Department of Agriculture Personnel Abroad
 
-Ex. Ord. No. 10624, July 28, 1955, 20 F.R. 5445, as amended by Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217; Ex. Ord. No. 11530, May 26, 1970, 35 F.R. 8335; Ex. Ord.No. 12292, Feb. 23, 1981, 46 F.R. 13967; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 10624, July 28, 1955, 20 F.R. 5445, as amended by Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217; Ex. Ord. No. 11530, May 26, 1970, 35 F.R. 8335; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By virtue of the authority vested in me by sections 605, 606B and 606D of Title VI of the Act of August 28, 1954, as amended, (7 U.S.C. 1765, 1766a, and 1766c), and by section 301 of title 3 of the United States Code, and as President of the United States, I hereby prescribe the following regulations relating to personnel of the Department of Agriculture assigned to service abroad:
 

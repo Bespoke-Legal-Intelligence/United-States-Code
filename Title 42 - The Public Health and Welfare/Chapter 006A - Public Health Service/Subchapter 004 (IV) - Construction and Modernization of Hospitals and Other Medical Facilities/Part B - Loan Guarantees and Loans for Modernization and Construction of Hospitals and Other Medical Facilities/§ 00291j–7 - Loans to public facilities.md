@@ -22,7 +22,7 @@
 
 #### (c) Agreements
 
-(1) The Secretary is authorized to enter into an agreement with the purchaser of any loansold under this part under which the Secretary agrees—
+(1) The Secretary is authorized to enter into an agreement with the purchaser of any loan sold under this part under which the Secretary agrees—
 
 &emsp;(A) to guarantee to such purchaser (and any successor in interest to such purchaser) payment of the principal and interest payable under such loan, and
 

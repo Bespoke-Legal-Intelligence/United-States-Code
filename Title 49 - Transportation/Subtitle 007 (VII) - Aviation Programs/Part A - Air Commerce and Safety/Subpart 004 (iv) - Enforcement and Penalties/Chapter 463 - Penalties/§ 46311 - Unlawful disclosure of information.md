@@ -2,9 +2,9 @@
 
 (a)
 
-Criminal Penalty.—The Secretary of Transportation, the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator, or an officer or employee of the Secretary or Administrator shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Administrator, officer, or employee knowingly and willfully discloses information that—
+Criminal Penalty.—The Secretary of Transportation, the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary, the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator, or an officer or employee of the Secretary, Under Secretary, or Administrator shall be fined under title 18, imprisoned for not more than 2 years, or both, if the Secretary, Under Secretary, Administrator, officer, or employee knowingly and willfully discloses information that—
 
-&emsp;(1) the Secretary, Administrator, officer, or employee acquires when inspecting the records of an air carrier; or
+&emsp;(1) the Secretary, Under Secretary, Administrator, officer, or employee acquires when inspecting the records of an air carrier; or
 
 &emsp;(2) is withheld from public disclosure under section 40115 of this title.
 
@@ -12,15 +12,15 @@ Criminal Penalty.—The Secretary of Transportation, the Administrator of the Fe
 
 Nonapplication.—Subsection (a) of this section does not apply if—
 
-&emsp;(1) the officer or employee is directed by the Secretary or Administrator to disclose information that the Secretary or Administrator had ordered withheld; or
+&emsp;(1) the officer or employee is directed by the Secretary, Under Secretary, or Administrator to disclose information that the Secretary, Under Secretary, or Administrator had ordered withheld; or
 
-&emsp;(2) the Secretary, Administrator, officer, or employee is directed by a court of competent jurisdiction to disclose the information.
+&emsp;(2) the Secretary, Under Secretary, Administrator, officer, or employee is directed by a court of competent jurisdiction to disclose the information.
 
 (c)
 
-Withholding Information From Congress.—This section does not authorize the Secretary or Administrator to withhold information from a committee of Congress authorized to have the information.
+Withholding Information From Congress.—This section does not authorize the Secretary, Under Secretary, or Administrator to withhold information from a committee of Congress authorized to have the information.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239; Pub. L. 107–71, title I, §140(d)(6), Nov. 19, 2001, 115 Stat. 642.)
 
 Historical and Revision Notes
 
@@ -69,6 +69,18 @@ In subsection (a), before clause (1), the words “fined under title 18” are s
 In subsection (b)(2), the words “or a judge thereof” are omitted as surplus.
 
 In subsection (c), the word “duly” is omitted as surplus.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–71, §140(d)(6), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary,” after “Transportation,” and “Under Secretary,” after “Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
+
+Subsec. (a)(1). Pub. L. 107–71, §140(d)(6)(B) inserted “Under Secretary,” after “Secretary,”.
+
+Subsec. (b)(1). Pub. L. 107–71, §140(d)(6)(C), substituted “, Under Secretary, or Administrator” for “or Administrator” in two places.
+
+Subsec. (b)(2). Pub. L. 107–71, §140(d)(6)(B) inserted “Under Secretary,” after “Secretary,”.
+
+Subsec. (c). Pub. L. 107–71, §140(d)(6)(C), substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
 #### Section Referred to in Other Sections
 

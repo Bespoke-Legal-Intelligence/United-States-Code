@@ -9,6 +9,7 @@
 | [165\.](%C2%A7%2000165%20-%20Combatant%20commands%20administration%20and%20support.md) | Combatant commands: administration and support. |
 | [166\.](%C2%A7%2000166%20-%20Combatant%20commands%20budget%20proposals.md) | Combatant commands: budget proposals. |
 | [166a.](%C2%A7%2000166a%20-%20Combatant%20commands%20funding%20through%20the%20Chairman%20of%20Joint%20Chiefs%20of%20Staff.md) | Combatant commands: funding through the Chairman of Joint Chiefs of Staff. |
+| [166b.](%C2%A7%2000166b%20-%20Combatant%20commands%20funding%20for%20combating%20terrorism%20readiness%20initiatives.md) | Combatant commands: funding for combating terrorism readiness initiatives. |
 | [167\.](%C2%A7%2000167%20-%20Unified%20combatant%20command%20for%20special%20operations%20forces.md) | Unified combatant command for special operations forces. |
 | [168\.](%C2%A7%2000168%20-%20Military-to-military%20contacts%20and%20comparable%20activities.md) | Military-to-military contacts and comparable activities. |
 
@@ -19,6 +20,8 @@
 Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to combat commands were contained in section 124 of this title.
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title XV, §1512(b), Dec. 28, 2001, 115 Stat. 1273, added item 166b.
 
 1994—Pub. L. 103–337, div. A, title XIII, §1316(a)(2), Oct. 5, 1994, 108 Stat. 2899, added item 168.
 
@@ -44,5 +47,6 @@ This chapter is referred to in sections 721, 3013, 3033, 5013, 5033, 5043, 8013,
 - [&sect; 00165 - Combatant commands administration and support](%C2%A7%2000165%20-%20Combatant%20commands%20administration%20and%20support.md)
 - [&sect; 00166 - Combatant commands budget proposals](%C2%A7%2000166%20-%20Combatant%20commands%20budget%20proposals.md)
 - [&sect; 00166a - Combatant commands funding through the Chairman of Joint Chiefs of Staff](%C2%A7%2000166a%20-%20Combatant%20commands%20funding%20through%20the%20Chairman%20of%20Joint%20Chiefs%20of%20Staff.md)
+- [&sect; 00166b - Combatant commands funding for combating terrorism readiness initiatives](%C2%A7%2000166b%20-%20Combatant%20commands%20funding%20for%20combating%20terrorism%20readiness%20initiatives.md)
 - [&sect; 00167 - Unified combatant command for special operations forces](%C2%A7%2000167%20-%20Unified%20combatant%20command%20for%20special%20operations%20forces.md)
 - [&sect; 00168 - Military-to-military contacts and comparable activities](%C2%A7%2000168%20-%20Military-to-military%20contacts%20and%20comparable%20activities.md)

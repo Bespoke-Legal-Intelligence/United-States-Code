@@ -34,7 +34,7 @@ Except as provided in subsection (b) of this section, section 12651e(d) of this 
 
 #### (D) Compensation
 
-&emsp;&emsp;The system established under subparagraph (A) shall include a scheme for theclassification of positions in the Corporation. The system shall require that the compensation of an employee be determined in part on the basis of the job performance of the employee, and in a manner consistent with the principles described in section 5301 of title 5. The rate of compensation for each employee compensated under the system shall not exceed the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5.
+&emsp;&emsp;The system established under subparagraph (A) shall include a scheme for the classification of positions in the Corporation. The system shall require that the compensation of an employee be determined in part on the basis of the job performance of the employee, and in a manner consistent with the principles described in section 5301 of title 5. The rate of compensation for each employee compensated under the system shall not exceed the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5.
 
 #### (c) Corporation representative in each State
 

@@ -48,7 +48,7 @@
 
 &emsp;(16) the level of tax expenditures under existing law in the tax expenditures budget (as defined in section 3(a)(3) of the Congressional Budget Act of 1974 (2 U.S.C. 622(a)(3)) for the fiscal year for which the budget is submitted, considering projected economic factors and changes in the existing levels based on proposals in the budget.
 
-&emsp;(17) information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for grants, contracts, and other payments under each program for which there is an authorization of appropriations for that following fiscal year when the appropriations are authorized to be included in an appropriation law for the fiscal year before the fiscal year in which the appropriation is to be available for obligation.
+&emsp;(17) information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for grants, contracts, and other payments under each program for which there is an authorization of appropriations for that following fiscal year when the appropriations are authorizedto be included in an appropriation law for the fiscal year before the fiscal year in which the appropriation is to be available for obligation.
 
 &emsp;(18) a comparison of the total amount of budget outlays for the prior fiscal year, estimated in the budget submitted for that year, for each major program having relatively uncontrollable outlays with the total amount of outlays for that program in that year.
 
@@ -94,7 +94,7 @@
 
 (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
-(c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year availablefor expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
+(c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 
 (d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
 
@@ -158,7 +158,7 @@
 
 (f) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.
 
-(g)(1) The Director of the Office of Management and Budget shall establish the funding foradvisory and assistance services for each department and agency as a separate object class in each budget annually submitted to the Congress under this section.
+(g)(1) The Director of the Office of Management and Budget shall establish the funding for advisory and assistance services for each department and agency as a separate object class in each budget annually submitted to the Congress under this section.
 
 (2)(A) In paragraph (1), except as provided in subparagraph (B), the term “advisory and assistance services” means the following services when provided by nongovernmental sources:
 
@@ -176,7 +176,7 @@
 
 &emsp;(iii) Research on basic mathematics or medical, biological, physical, social, psychological, or other phenomena.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E),July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874.)
 
 #### Amendment of Section
 
@@ -432,6 +432,10 @@ Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L.
 
 Amendment made by Pub. L. 103–62 not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a Construction note under section 1115 of this title.
 
+#### Transportation Security Administration
+
+Pub. L. 107–71, title I, §142, Nov. 19, 2001, 115 Stat. 644, provided that: “The President's budget submission for fiscal year 2003 and each fiscal year thereafter shall reflect the establishment of the Transportation Security Administration.”
+
 #### Annual Statement and Report on Rules and Regulations
 
 Pub. L. 106–554, §1(a)(3) \[title VI, §624\], Dec. 21, 2000, 114 Stat. 2763, 2763A–161, provided that:
@@ -466,7 +470,7 @@ Guidelines.—To implement this section, the Director of the Office of Managemen
 
 “(d)
 
-Peer Review.—The Director of the Office of Management and Budget shall provide for independentand external peer review of the guidelines and each accounting statement and associated report under this section. Such peer review shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).”
+Peer Review.—The Director of the Office of Management and Budget shall provide for independent and external peer review of the guidelines and each accounting statement and associated report under this section. Such peer review shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -570,11 +574,11 @@ Ex. Ord. No. 6715, May 23, 1934, provided:
 
 (1) Each executive department, independent establishment, and emergency agency shall file with the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\] a functional organization chart, indicating its various existing bureaus, divisions, sections, etc., and containing a description of the functions respectively performed, and shall file such additional charts from time to time, as may be necessary to show all changes made therein.
 
-(2) Every executive department, independent establishment, and emergency agency hereafter created shall within 5 days after the appointment of the head thereof file a preliminary functional organization chart with the Director of the Bureau of the Budget.
+(2) Every executive department, independent establishment, and emergency agency hereafter created shall within 5 days after the appointment of the headthereof file a preliminary functional organization chart with the Director of the Bureau of the Budget.
 
 (3) The Director of the Bureau of the Budget is hereby authorized to prescribe, subject to the approval of the President, such rules and regulations as will indicate the information desired and the form of chart to be furnished.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 115, 115a, 119, 139, 153, 168, 179, 221, 222, 223, 224, 226, 230, 483, 484, 1115, 1465, 1741, 2006, 2208, 2212, 2216, 2217, 2224, 2304a, 2304b, 2306b, 2350a, 2367, 2431, 2433, 2475, 2515, 2521, 2703, 2721, 2809, 2815, 2835, 2836, 2859, 2884, 4541, 7902, 10543; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1509, 1703; title 22 section 5959; title 25 sections 450j–1, 458dd, 458aaa–12, 1621, 1671, 2012, 3803, 4043; title 29 section 762a; title 38 sections 312, 530, 712, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 2286e, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 50 sections 404a, 404b, 404d, 1906, 2353, 2426, 2451, 2453.
+This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 115, 115a, 119, 139, 153, 168, 179, 221, 222, 223, 224, 226, 230, 483, 484, 1115, 1465, 1741, 2006, 2208, 2212, 2216, 2217, 2224, 2304a, 2304b, 2306b, 2350a, 2367, 2431, 2433, 2475, 2515, 2521, 2703, 2721, 2809, 2815, 2835, 2836, 2859, 2884, 4541, 7902, 10543; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1509, 1703; title 22 section 5959; title 25 sections 450j–1, 458dd, 458aaa–12, 1621, 1671, 2008, 2015, 2504, 3803, 4043; title 29 section 762a; title 38 sections 312, 530, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 2286e, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 44 sections 3533, 3534; title 50 sections 404a, 404b, 404d, 1906, 2353, 2426, 2451, 2452, 2453.
 

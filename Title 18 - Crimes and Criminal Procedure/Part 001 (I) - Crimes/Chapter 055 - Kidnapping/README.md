@@ -11,7 +11,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title by “striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapterheading and “Kidnapping” for “Kidnaping” in item 1201, to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title by “striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading and “Kidnapping” for “Kidnaping” in item 1201, to reflect the probable intent of Congress.
 
 1993—Pub. L. 103–173, §2(c), Dec. 2, 1993, 107 Stat. 1999, added item 1204.
 

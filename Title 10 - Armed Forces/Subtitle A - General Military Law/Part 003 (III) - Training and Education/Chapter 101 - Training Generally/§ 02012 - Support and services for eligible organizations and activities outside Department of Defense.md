@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Provide Services and Support.—Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may in accordance with this section authorize units or individual members of thearmed forces under that Secretary's jurisdiction to provide support and services to non-Department of Defense organizations and activities specified in subsection (e), but only if—
+Authority To Provide Services and Support.—Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may in accordance with this section authorize units or individual members of the armed forces under that Secretary's jurisdiction to provide support and services to non-Department of Defense organizations and activities specified in subsection (e), but only if—
 
 &emsp;(1) such assistance is authorized by a provision of law (other than this section); or
 

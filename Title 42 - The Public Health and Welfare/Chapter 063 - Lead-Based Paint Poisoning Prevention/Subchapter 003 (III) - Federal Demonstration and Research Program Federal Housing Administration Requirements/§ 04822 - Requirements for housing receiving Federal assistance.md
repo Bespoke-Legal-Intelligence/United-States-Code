@@ -104,7 +104,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 &emsp;&emsp;&emsp;(i) a random sample of dwellings and common areas in all public housing that is not subject to paragraph (1); and
 
-&emsp;&emsp;&emsp;(ii) each dwelling in any public housing project in which there is a dwelling determined under clause (i) to have lead-based paint hazards, except that the Secretary shall not require the inspection of each dwelling if the Secretary requires the abatement of the lead-based paint hazards for the surfaces of each dwelling in the public housing project that correspond to the surfaces in the sample determined to have such hazards under clause (i).
+&emsp;&emsp;&emsp;(ii) each dwelling in any public housing project in which there is a dwelling determined under clause (i) to have lead-based paint hazards, except that the Secretary shall not require the inspection of eachdwelling if the Secretary requires the abatement of the lead-based paint hazards for the surfaces of each dwelling in the public housing project that correspond to the surfaces in the sample determined to have such hazards under clause (i).
 
 #### (B) Schedule
 
@@ -126,7 +126,7 @@ The provisions of this section shall not apply to—
 
 #### (f) Funding
 
-The Secretary shall carry out the provisions of this section utilizing available Federal fundingsources. The Secretary shall use funds available under the Capital Fund under section 1437g of this title to carry out this section in public housing. The Secretary shall submit annually to the Congress an estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).
+The Secretary shall carry out the provisions of this section utilizing available Federal funding sources. The Secretary shall use funds available under the Capital Fund under section 1437g of this title to carry out this section in public housing. The Secretary shall submit annually to the Congress an estimate of the funds required to carry out the provisions of this section with the reports required by paragraphs (2)(B) and (4).
 
 #### (g) Interpretation of section
 
@@ -178,7 +178,7 @@ Subsec. (d)(1). Pub. L. 100–628, §1088(a), substituted “Transitional testin
 
 Subsec. (d)(2). Pub. L. 100–628, §1088(b)(1), substituted “Abatement demonstration program” for “HUD-owned properties” in heading.
 
-Subsec. (d)(2)(A). Pub. L. 100–628, §1088(b)(2), inserted “and public housing” after “Urban Development”, and inserted at end “For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement oflead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437<i>l</i> of this title.”
+Subsec. (d)(2)(A). Pub. L. 100–628, §1088(b)(2), inserted “and public housing” after “Urban Development”, and inserted at end “For purposes of the demonstration, a public housing agency may elect to test for lead-based paint using atomic absorption spectroscopy and may elect to abate lead-based paint and dust containing lead under standards more stringent than that in subsection (c) of this section, including the abatement of lead-based paint and dust which exceeds the standard of lead permitted in paints by the Consumer Product Safety Commission under this chapter, and such abatement shall qualify for assistance under section 1437<i>l</i> of this title.”
 
 Subsec. (d)(2)(B). Pub. L. 100–628, §1088(b)(3), in introductory provisions, inserted after first sentence “Based on the demonstration, the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B).”
 
@@ -218,7 +218,7 @@ Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 853, provided that: “If t
 
 #### Prerequisites to Implementation of Regulations Regarding Testing and Abatement of Lead-Based Paint in Public Housing
 
-Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1021, provided that: “None of the funds provided in this Act \[see Tables for classification\] or heretofore provided may be used to implement or enforce the regulations promulgated by the Department of Housing and Urban Development on June 6, 1988, with respect to the testing and abatement of lead-based paint in public housing until the Secretary develops comprehensive technical guidelines on reliable testing protocols, safe and effective abatement techniques, cleanup methods, and acceptable post-abatement lead dust levels.”
+Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1021, provided that: “None of the funds provided in this Act \[see Tables for classification\] or heretofore providedmay be used to implement or enforce the regulations promulgated by the Department of Housing and Urban Development on June 6, 1988, with respect to the testing and abatement of lead-based paint in public housing until the Secretary develops comprehensive technical guidelines on reliable testing protocols, safe and effective abatement techniques, cleanup methods, and acceptable post-abatement lead dust levels.”
 
 #### Regulations and Consultation
 

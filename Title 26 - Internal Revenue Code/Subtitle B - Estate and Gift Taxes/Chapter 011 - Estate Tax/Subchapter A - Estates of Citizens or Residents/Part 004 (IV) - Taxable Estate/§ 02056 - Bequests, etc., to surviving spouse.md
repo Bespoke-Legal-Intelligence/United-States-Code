@@ -34,7 +34,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (4) Valuation of interest passing to surviving spouse
 
-&emsp;In determining for purposes of subsection (a) the value of any interest in property passingto the surviving spouse for which a deduction is allowed by this section—
+&emsp;In determining for purposes of subsection (a) the value of any interest in property passing to the surviving spouse for which a deduction is allowed by this section—
 
 &emsp;&emsp;(A) there shall be taken into account the effect which the tax imposed by section 2001, or any estate, succession, legacy, or inheritance tax, has on the net value to the surviving spouse of such interest; and
 
@@ -42,7 +42,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (5) Life estate with power of appointment in surviving spouse
 
-&emsp;In the case of an interest in property passing from the decedent, if his surviving spouse is entitled for life to all the income from the entire interest, or all the income from a specific portion thereof, payable annually or at more frequent intervals, with power in the surviving spouse to appoint the entire interest, or such specific portion (exercisable in favor of such surviving spouse, or of the estate of such surviving spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), and with no power in any other person to appoint any part of the interest, or such specific portion, to any person other than the surviving spouse—
+&emsp;In the case of an interest in property passing from the decedent, if his surviving spouse is entitled for life to all the income from the entire interest, or all the income from a specific portion thereof, payable annually or at more frequent intervals, with power in the surviving spouse to appoint the entire interest, or suchspecific portion (exercisable in favor of such surviving spouse, or of the estate of such surviving spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), and with no power in any other person to appoint any part of the interest, or such specific portion, to any person other than the surviving spouse—
 
 &emsp;&emsp;(A) the interest or such portion thereof so passing shall, for purposes of subsection (a), be considered as passing to the surviving spouse, and
 
@@ -208,7 +208,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 &emsp;&emsp;(A) the surviving spouse of the decedent becomes a citizen of the United States before the day on which the return of the tax imposed by this chapter is made, and
 
-&emsp;&emsp;(B) such spouse was a resident of the United States at all times after the date of the death of the decedent and before becoming a citizen of the United States.
+&emsp;&emsp;(B) such spouse was a resident of the United States at all times after the date ofthe death of the decedent and before becoming a citizen of the United States.
 
 #### (5) Reformations permitted
 
@@ -364,7 +364,7 @@ Extension of time for election out.—The time for making an election under sect
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34, see Effective Date of 1981 Amendment note below\], see section 1027(c)of Pub. L. 98–369, set out as a note under section 2053 of this title.
+Amendment by Pub. L. 98–369 effective as if included in the amendment made by section 403 of the Economic Recovery Tax Act of 1981 \[Pub. L. 97–34, see Effective Date of 1981 Amendment note below\], see section 1027(c) of Pub. L. 98–369, set out as a note under section 2053 of this title.
 
 #### Effective Date of 1983 Amendment
 

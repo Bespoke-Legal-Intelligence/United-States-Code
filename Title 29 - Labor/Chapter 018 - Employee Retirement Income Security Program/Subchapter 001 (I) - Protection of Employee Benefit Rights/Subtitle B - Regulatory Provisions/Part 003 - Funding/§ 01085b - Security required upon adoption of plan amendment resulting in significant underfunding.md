@@ -34,7 +34,7 @@ The security shall be in an amount equal to the excess of—
 
 #### (d) Release of security
 
-The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at the end of the first plan year which ends after the provision of the security and for which the funded current liability percentage under the plan is not less than 60 percent. The Secretary of the Treasury may prescribe regulations for partial releases of the security by reason of increases in the funded current liability percentage.
+The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at the end of the first plan year which ends after the provision of the security and for which the funded current liability percentage under the plan is not less than 60 percent. The Secretary of theTreasury may prescribe regulations for partial releases of the security by reason of increases in the funded current liability percentage.
 
 #### (e) Notice
 
@@ -42,7 +42,7 @@ A contributing sponsor which is required to provide security under subsection (a
 
 #### (f) Definitions
 
-For purposes of this section, the terms “current liability”, “funded current liability percentage”, and “unfunded current liability” shall have the meanings given such terms by section 1082(d) of this title, except that in computing unfunded current liability there shall not betaken into account any unamortized portion of the unfunded old liability amount as of the close of the plan year.
+For purposes of this section, the terms “current liability”, “funded current liability percentage”, and “unfunded current liability” shall have the meanings given such terms by section 1082(d) of this title, except that in computing unfunded current liability there shall not be taken into account any unamortized portion of the unfunded old liability amount as of the close of the plan year.
 
 (Pub. L. 93–406, title I, §307, as added Pub. L. 100–203, title IX, §9341(b)(2), Dec. 22, 1987, 101 Stat. 1330–370; amended Pub. L. 101–239, title VII, §7881(i)(1)(B)–(3)(A), (4)(B), Dec. 19, 1989, 103 Stat. 2442.)
 

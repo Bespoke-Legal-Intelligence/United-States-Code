@@ -12,7 +12,7 @@
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Treasury under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see Transfer of Functions note set out under section 841 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Treasury under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary ofEnergy, see Transfer of Functions note set out under section 841 of this title.
 
 #### Authorization of Appropriations
 

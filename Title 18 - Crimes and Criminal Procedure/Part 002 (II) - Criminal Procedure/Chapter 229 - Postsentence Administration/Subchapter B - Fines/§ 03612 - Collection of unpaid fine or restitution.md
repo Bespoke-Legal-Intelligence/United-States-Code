@@ -8,7 +8,7 @@ Notification of Receipt and Related Matters.—The clerk or the person designate
 
 &emsp;(2) within 15 days after the receipt or at such other time as may be determined jointly by the Attorney General and the Director of the Administrative Office of the United States Courts.
 
-> If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under section 604(a)(18) of title 28, shall provide notification not later than the next day that is not a Saturday, Sunday, or legal public holiday.
+> If the fifteenth day under paragraph (2) is a Saturday, Sunday, or legal public holiday, the clerk, or the person designated under section 604(a)(18) of title 28, shall provide notificationnot later than the next day that is not a Saturday, Sunday, or legal public holiday.
 
 (b)
 
@@ -26,7 +26,7 @@ Information to be Included in Judgment; Judgment to be Transmitted to Attorney G
 
 &emsp;(F) if other than immediate payment is permitted, a requirement that, until the fine or restitution order is paid in full, the defendant notify the Attorney General of any change in the mailing address or residence address of the defendant not later than thirty days after the change occurs; and
 
-&emsp;(G) in the case of a restitution order, information sufficient to identify each victim towhom restitution is owed. It shall be the responsibility of each victim to notify the Attorney General, or the appropriate entity of the court, by means of a form to be provided by the Attorney General or the court, of any change in the victim's mailing address while restitution is still owed the victim. The confidentiality of any information relating to a victim shall be maintained.
+&emsp;(G) in the case of a restitution order, information sufficient to identify each victim to whom restitution is owed. It shall be the responsibility of each victim to notify the Attorney General, or the appropriate entity of the court, by means of a form to be provided by the Attorney General or the court, of any change in the victim's mailing address while restitution is still owed the victim. The confidentiality of any information relating to a victim shall be maintained.
 
 (2) Not later than ten days after entry of the judgment or order, the court shall transmit a certified copy of the judgment or order to the Attorney General.
 

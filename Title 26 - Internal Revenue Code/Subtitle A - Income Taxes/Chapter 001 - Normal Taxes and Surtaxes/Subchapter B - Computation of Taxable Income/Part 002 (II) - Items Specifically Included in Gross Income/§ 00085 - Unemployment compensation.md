@@ -42,7 +42,7 @@ Subsec. (b)(2). Pub. L. 97–248, §611(a)(2), substituted “$18,000” for “
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to amounts received after Dec. 31, 1986, in taxable years ending after such date, see section 151(b) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by Pub. L. 99–514 applicable to amounts received after Dec. 31, 1986, in taxable years endingafter such date, see section 151(b) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 97–34 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date
 
-Section 112(d) of Pub. L. 95–600, as amended by Pub. L. 98–369, div. A, title X, §1075(a), July 18, 1984, 98 Stat. 1053, provided that: “The amendments made by thissection \[enacting this section and section 6050B of this title\] shall apply to payments of unemployment compensation made after December 31, 1978, in taxable years ending after such date, except that such amendments shall not apply to payments made for weeks of unemployment ending before December 1, 1978.”
+Section 112(d) of Pub. L. 95–600, as amended by Pub. L. 98–369, div. A, title X, §1075(a), July 18, 1984, 98 Stat. 1053, provided that: “The amendments made by this section \[enacting this section and section 6050B of this title\] shall apply to payments of unemployment compensation made after December 31, 1978, in taxable years ending after such date, except that such amendments shall not apply to payments made for weeks of unemployment ending before December 1, 1978.”
 
 #### Waiver of Statute of Limitations
 

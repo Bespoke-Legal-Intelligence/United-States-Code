@@ -66,7 +66,7 @@ The Federal certifying authority shall not certify any property under subsection
 
 #### (2) Special rules
 
-&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjusted basis of such facility, which would be eligible for amortization but for the application of this subparagraph, as 15 bears to the number of years of useful life of such facility.
+&emsp;&emsp;(A) If a certified pollution control facility has a useful life (determined as of the first day of the first month for which a deduction is allowable under this section) in excess of 15 years, the amortizable basis of such facility shall be equal to an amount which bears the same ratio to the portion of the adjusted basis of such facility, which would be eligible for amortization but for the applicationof this subparagraph, as 15 bears to the number of years of useful life of such facility.
 
 &emsp;&emsp;(B) The amortizable basis of a certified pollution control facility with respect to which an election under this section is in effect shall not be increased, for purposes of this section, for additions or improvements after the amortization period has begun.
 
@@ -84,7 +84,7 @@ In the case of property held by one person for life with remainder to another pe
 
 &emsp;&emsp;<b>For special rule with respect to certain gain derived from the disposition of property the adjusted basis of which is determined with regard to this section, see section 1245.</b>
 
-(Added Pub. L. 91–172, title VII, §704(a), Dec. 30, 1969, 83 Stat. 667; amended Pub. L. 92–178, title I, §104(f)(2), Dec. 10, 1971, 85 Stat. 502; Pub. L.93–625, §3(a), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2112(b), (c), Oct. 4, 1976, 90 Stat. 1834, 1906.)
+(Added Pub. L. 91–172, title VII, §704(a), Dec. 30, 1969, 83 Stat. 667; amended Pub. L. 92–178, title I, §104(f)(2), Dec. 10, 1971, 85 Stat. 502; Pub. L. 93–625, §3(a), Jan. 3, 1975, 88 Stat. 2109; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2112(b), (c), Oct. 4, 1976, 90 Stat. 1834, 1906.)
 
 #### References in Text
 

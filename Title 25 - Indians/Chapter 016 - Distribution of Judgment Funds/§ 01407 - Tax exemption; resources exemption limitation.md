@@ -4,7 +4,7 @@ None of the funds which—
 
 &emsp;(1) are distributed per capita or held in trust pursuant to a plan approved under the provisions of this chapter, or <sup>1</sup>
 
-&emsp;(2) on January 12, 1983, are to be distributed per capita or are held in trust pursuant to aplan approved by the Congress prior to January 12, 1983,
+&emsp;(2) on January 12, 1983, are to be distributed per capita or are held in trust pursuant to a plan approved by the Congress prior to January 12, 1983,
 
 &emsp;(3) were distributed pursuant to a plan approved by Congress after December 31, 1981 but prior to January 12, 1983, and any purchases made with such funds, or
 

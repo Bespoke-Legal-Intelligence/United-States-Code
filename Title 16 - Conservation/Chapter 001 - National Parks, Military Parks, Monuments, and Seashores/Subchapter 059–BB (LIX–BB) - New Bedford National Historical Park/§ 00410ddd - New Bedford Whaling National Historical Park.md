@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the city of New Bedford was the 19th century capital of the world's whaling industry and retains significant architectural features, archival materials, and museum collections illustrative of this period;
 
-&emsp;&emsp;(C) New Bedford's historic resources provide unique opportunities for illustrating and interpreting the whaling industry's contribution to the economic, social, and environmental history of the United States and provide opportunities for public use and enjoyment; and
+&emsp;&emsp;(C) New Bedford's historic resources provide unique opportunities for illustrating and interpreting the whaling industry's contribution to the economic, social, and environmental history of the United States and provide opportunities for public use and enjoyment; and <sup>1</sup>
 
 &emsp;&emsp;(D) during the nineteenth century, over two thousand whaling voyages sailed out of New Bedford to the Arctic region of Alaska, and joined Alaska Natives from Barrow, Alaska and other areas in the Arctic region in subsistence whaling activities; and
 

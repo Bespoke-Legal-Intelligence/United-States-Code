@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) the extent to which the advocacy, capacity building, and systemic change activities provided through parts B, C, and D of this subchapter result in improvements in—
 
-&emsp;&emsp;&emsp;&emsp;(I) the ability of individuals with developmental disabilities to make choices and exert control over the type, intensity, and timing of services, supports,and assistance that the individuals have used;
+&emsp;&emsp;&emsp;&emsp;(I) the ability of individuals with developmental disabilities to make choices and exert control over the type, intensity, and timing of services, supports, and assistance that the individuals have used;
 
 &emsp;&emsp;&emsp;&emsp;(II) the ability of individuals with developmental disabilities to participate in the full range of community life with persons of the individuals’ choice; and
 

@@ -82,7 +82,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 &emsp;(B) in the case of other members of the Board and advisers, as authorized under section 5703 of title 5 for employees serving without pay.
 
-(9) The Federal Advisory Committee Act (5 U.S.C. App. 2), other than section 14 (relating to termination after two years), shall apply to the Board.
+(9) The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 (relating to termination after two years), shall apply to the Board.
 
 (f)
 
@@ -100,9 +100,13 @@ Tuition.—Tuition fees charged for persons who attend the Institute may not inc
 
 Annual Report.—Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall be prepared in consultation with the Secretary of State.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; amended Pub. L. 107–107, div. A, title X, §1048(a)(16), Dec. 28, 2001, 115 Stat. 1223.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (e)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2001—Subsec. (e)(9). Pub. L. 107–107 substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 2)”.
 

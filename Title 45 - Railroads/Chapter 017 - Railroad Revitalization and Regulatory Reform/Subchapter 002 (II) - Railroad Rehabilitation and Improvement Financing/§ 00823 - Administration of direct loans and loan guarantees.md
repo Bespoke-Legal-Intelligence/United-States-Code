@@ -78,7 +78,7 @@ The Secretary may charge and collect from each applicant a reasonable charge for
 
 #### Codification
 
-The text of section 831(c) of this title, which was transferred to subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary, by Pub. L. 105–178, title VII, §7203(a)(4), June 9, 1998, 112 Stat. 477, was based on Pub. L. 94–210, title V, §511, Feb. 5, 1976, 90 Stat. 76; Pub. L. 94–555, title II, §215(a), Oct. 19, 1976, 90 Stat. 2625; Pub. L. 105–178, title VII, §7203(a)(2), (3), June 9, 1998, 112 Stat. 477.
+The text of section 831(c) of this title, which was transferred to subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into bySecretary, by Pub. L. 105–178, title VII, §7203(a)(4), June 9, 1998, 112 Stat. 477, was based on Pub. L. 94–210, title V, §511, Feb. 5, 1976, 90 Stat. 76; Pub. L. 94–555, title II, §215(a), Oct. 19, 1976, 90 Stat. 2625; Pub. L. 105–178, title VII, §7203(a)(2), (3), June 9, 1998, 112 Stat. 477.
 
 #### Prior Provisions
 

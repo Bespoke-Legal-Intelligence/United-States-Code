@@ -54,7 +54,7 @@ Pub. L. 97–448, §105(a)(1)(D), redesignated subsec. (g), added by Pub. L. 97�
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–248 designated first sentence of existing provisions as par. (1) with heading “In general”, struck out second sentence which provided that in the case of income taxes and gift taxes, the amount under this subsec. shall be in lieu of any amount determined under subsec. (a), added pars. (2) and (3), designated last sentence as par. (4) with heading “Special rule for joint returns”, and in par. (4) as so designated substituted “of the spouse” for “of a spouse”.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §722(b)(1), designated existing provisions as par. (1), inserted heading, struck out “(relating to income taxes and gift taxes)”, and added par. (2) after “subtitle B”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §722(b)(1), designated existing provisions as par. (1), inserted heading, struckout “(relating to income taxes and gift taxes)”, and added par. (2) after “subtitle B”.
 
 Subsec. (g). Pub. L. 97–34, §501(b), added subsec. (g).
 

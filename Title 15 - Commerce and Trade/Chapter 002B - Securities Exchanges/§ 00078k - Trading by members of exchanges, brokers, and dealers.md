@@ -36,7 +36,7 @@
 
 &emsp;(C) transactions on a national securities exchange effected by any broker or dealer not a member thereof for the account of such broker or dealer (unless such broker or dealer is acting in the capacity of market maker), the account of an associated person, or an account with respect to which such broker or dealer or associated person thereof exercises investment discretion.
 
-(3) The provisions of paragraph (1) of this subsection insofar as they apply to transactions on a national securities exchange effected by amember thereof who was a member on February 1, 1978 shall not become effective until February 1, 1979. Nothing in this paragraph shall be construed to impair or limit the authority of the Commission to regulate or prohibit such transactions prior to February 1, 1979, pursuant to paragraph (2) of this subsection.
+(3) The provisions of paragraph (1) of this subsection insofar as they apply to transactions on a national securities exchange effected by a member thereof who was a member on February 1, 1978 shall not become effective until February 1, 1979. Nothing in this paragraph shall be construed to impair or limit the authority of the Commission to regulate or prohibit such transactions prior to February 1, 1979, pursuant to paragraph (2) of this subsection.
 
 #### (b) Registration of members as odd-lot dealers and specialists
 

@@ -42,7 +42,7 @@ For the purposes of this chapter—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, known as the International Banking Act of 1978, which enacted this chapter and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Bank Holding Company Act of 1956, referred to in par. (13), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in par. (13), is act May 9, 1956, ch. 240, 70 Stat. 133, asamended, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Sec. 902. The Board of Governors of the Federal Reserve System, the Comptroller 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 347d, 1813, 1817, 1828, 1843, 2804, 4009, 4402 of this title; title 7 sections 1a, 27; title 15 sections 57a, 78c, 78q, 80a–2, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6805; title 18 sections 20, 212, 213, 648, 655, 1004, 1014, 1030, 1906, 1956, 2113; title 31 section 5313.
+This section is referred to in sections 347d, 1813, 1817, 1828, 1843, 2804, 4009, 4402 of this title; title 7 sections 1a, 27; title 15 sections 57a, 78c, 78q, 80a–2, 1607, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6805; title 18 sections 20, 212, 213, 648, 655, 984, 1004, 1014, 1030, 1906, 1956, 2113; title 31 section 5313.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should follow the quotation marks.</i>
 

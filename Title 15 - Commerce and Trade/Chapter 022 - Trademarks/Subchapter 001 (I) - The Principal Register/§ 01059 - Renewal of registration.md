@@ -10,7 +10,7 @@ If the Director refuses to renew the registration, the Director shall notify the
 
 #### (c) Designation of resident for service of process and notices
 
-If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.
+If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person acopy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.
 
 (July 5, 1946, ch. 540, title I, §9, 60 Stat. 431; Pub. L. 87–772, §5, Oct. 9, 1962, 76 Stat. 770; Pub. L. 100–667, title I, §111, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §106, Oct. 30, 1998, 112 Stat. 3067; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 3
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
-Pub. L. 105–330, title I, §109(d), Oct. 30, 1998, 112 Stat. 3069, provided that: “The amendment made by section 106 \[amending this section\] shall apply to the filing of an application for renewal of a registration if the expiration date of the registration for which the renewalapplication is filed is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
+Pub. L. 105–330, title I, §109(d), Oct. 30, 1998, 112 Stat. 3069, provided that: “The amendment made by section 106 \[amending this section\] shall apply to the filing of an application for renewal of a registration if the expiration date of the registration for which the renewal application is filed is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
 
 #### Effective Date of 1988 Amendment
 

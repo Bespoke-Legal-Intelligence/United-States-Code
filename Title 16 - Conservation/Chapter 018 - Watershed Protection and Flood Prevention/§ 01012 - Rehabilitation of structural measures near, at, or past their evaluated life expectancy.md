@@ -18,9 +18,9 @@ For purposes of this section:
 
 &emsp;&emsp;(C) The pilot watershed program authorized under the heading “
 
-Flood Prevention” of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
+Flood Prevention”of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
 
-&emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451et seq.; commonly known as the Resource Conservation and Development Program).
+&emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451 et seq.; commonly known as the Resource Conservation and Development Program).
 
 #### (3) Structural measure
 
@@ -102,7 +102,7 @@ The Secretary, in concert with the responsible State agencies, shall conduct an 
 
 #### References in Text
 
-Section 13 of the Act of December 22, 1944, referred to in subsec. (a)(2)(B) , is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 905, as amended, which is not classified to the Code.
+Section 13 of the Act of December 22, 1944, referred to in subsec. (a)(2)(B), is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 905, as amended, which is not classified to the Code.
 
 The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a)(2)(C), is act July 28, 1953, ch. 251, 67 Stat. 205. Provisions under the heading “
 

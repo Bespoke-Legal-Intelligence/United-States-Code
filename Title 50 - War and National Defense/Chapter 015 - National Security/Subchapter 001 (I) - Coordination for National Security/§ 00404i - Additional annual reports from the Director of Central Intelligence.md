@@ -18,7 +18,7 @@
 
 #### (b) Annual report on the safety and security of Russian nuclear facilities and nuclear military forces
 
-(1) The Director of Central Intelligence shall, on an annual basis, submit to the congressional intelligence committees and the congressional leadership an intelligence report assessing the safety and security of the nuclear facilities and nuclear military forces in Russia.
+(1) The Director of Central Intelligence shall, on an annual basis, submit to the congressional intelligence committees and the congressional leadership an intelligence report assessing thesafety and security of the nuclear facilities and nuclear military forces in Russia.
 
 (2) Each such report shall include a discussion of the following:
 

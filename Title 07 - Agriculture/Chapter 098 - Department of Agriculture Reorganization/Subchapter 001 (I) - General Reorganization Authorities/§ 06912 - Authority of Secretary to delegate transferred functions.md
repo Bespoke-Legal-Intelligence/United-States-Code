@@ -28,7 +28,7 @@
 
 #### (c) Public comment on proposed reorganization
 
-To the extent that the implementation of the authority provided to the Secretary by this chapter to reorganize the Department involves the creation of new agencies or offices within the Department or the delegation of major functions or major groups of functions to any agency or office of the Department (or the officers or employees of such agency or office), the Secretary shall, to the extent considered practicable by the Secretary—
+To the extent that the implementation of the authority provided to the Secretary by thischapter to reorganize the Department involves the creation of new agencies or offices within the Department or the delegation of major functions or major groups of functions to any agency or office of the Department (or the officers or employees of such agency or office), the Secretary shall, to the extent considered practicable by the Secretary—
 
 &emsp;(1) give appropriate advance public notice of the proposed reorganization action or delegation; and
 

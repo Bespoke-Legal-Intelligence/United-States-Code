@@ -2,7 +2,7 @@
 
 The Secretary of Transportation, the Federal Communications Commission, and the Surface Transportation Board shall each maintain,<sup>1</sup> its own regulations with respect to the extension of credit, without security, by any person regulated by the Secretary under subpart II of part A of subtitle VII of title 49, or such Commission or Board, to any candidate for Federal office, or to any person on behalf of such a candidate, for goods furnished or services rendered in connection with the campaign of such candidate for nomination for election, or election, to such office.
 
-(Pub. L. 92–225, title IV, §401, Feb. 7, 1972, 86 Stat. 19; Pub. L. 93–443, title II, §201(b)(1), Oct. 15, 1974, 88 Stat. 1275; Pub. L. 103–272, §4(a), July 5, 1994, 108 Stat. 1360; Pub. L. 104–88, title III, §313, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–287, §6(g), Oct. 11, 1996, 110 Stat. 3399.)
+(Pub. L. 92–225, title IV, §401, Feb. 7, 1972, 86 Stat. 19; Pub. L. 93–443, title II, §201(b)(1), Oct.15, 1974, 88 Stat. 1275; Pub. L. 103–272, §4(a), July 5, 1994, 108 Stat. 1360; Pub. L. 104–88, title III, §313, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–287, §6(g), Oct. 11, 1996, 110 Stat. 3399.)
 
 #### References in Text
 

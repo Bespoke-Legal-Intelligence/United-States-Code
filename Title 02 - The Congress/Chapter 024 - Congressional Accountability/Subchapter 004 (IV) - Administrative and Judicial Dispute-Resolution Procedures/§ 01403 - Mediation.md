@@ -8,7 +8,7 @@ Not later than 15 days after receipt by the employee of notice of the end of the
 
 Mediation under this section—
 
-&emsp;(1) may include the Office, the covered employee, the employing office, and one or more individuals appointed by the Executive Director after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters, and
+&emsp;(1) may include the Office, the covered employee, the employing office, and one or moreindividuals appointed by the Executive Director after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters, and
 
 &emsp;(2) shall involve meetings with the parties separately or jointly for the purpose of resolving the dispute between the covered employee and the employing office.
 

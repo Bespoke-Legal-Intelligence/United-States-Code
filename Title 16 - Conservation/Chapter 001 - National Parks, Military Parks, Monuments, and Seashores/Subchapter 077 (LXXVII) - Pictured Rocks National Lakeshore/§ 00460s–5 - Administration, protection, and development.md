@@ -6,7 +6,7 @@ The administration, protection, and development of the Pictured Rocks National L
 
 #### (b) Land and water use management plan; preparation and implementation; provisions
 
-In the administration, protection, and development of the lakeshore, the Secretary shallprepare and implement a land and water use management plan, which shall include specific provision for—
+In the administration, protection, and development of the lakeshore, the Secretary shall prepare and implement a land and water use management plan, which shall include specific provision for—
 
 &emsp;(1) development of facilities to provide the benefits of public recreation, including appropriate improvements to Alger County Road H–58;
 

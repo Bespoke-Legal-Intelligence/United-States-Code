@@ -10,7 +10,7 @@ The Congress declares its commitment to the maintenance of the Federal Governmen
 
 #### (c) Declaration of national goal
 
-The Congress declares that a major national goal of the United States is to provide the quantity and quality of educational services and opportunities which will permit Indian children to compete and excel in the life areas of their choice, and to achieve the measure of self-determination essential to their social and economic well-being.
+The Congress declares that a major national goal of the United States is to provide the quantity and quality of educational services and opportunities which will permit Indian children to compete and excel in the life areas of theirchoice, and to achieve the measure of self-determination essential to their social and economic well-being.
 
 (Pub. L. 93–638, §3, Jan. 4, 1975, 88 Stat. 2203; Pub. L. 100–472, title I, §102, Oct. 5, 1988, 102 Stat. 2285.)
 

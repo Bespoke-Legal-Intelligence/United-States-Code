@@ -56,7 +56,7 @@ There are hereby appropriated to the Leaking Underground Storage Tank Trust Fund
 
 #### (2) Coordination with other provisions
 
-&emsp;Nothing in the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 or the Superfund Amendments andReauthorization Act of 1986 (or in any amendment made by either of such Acts) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Leaking Underground Storage Tank Trust Fund.
+&emsp;Nothing in the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 or the Superfund Amendments and Reauthorization Act of 1986 (or in any amendment made by either of such Acts) shall authorize the payment by the United States Government of any amount with respect to any such claim out of any source other than the Leaking Underground Storage Tank Trust Fund.
 
 #### (3) Order in which unpaid claims are to be paid
 
@@ -113,4 +113,8 @@ Amendment by section 10502(d)(17) of Pub. L. 100–203 treated as if included in
 #### Effective Date
 
 Section 522(c) of Pub. L. 99–499 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 1987.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 9601.
 

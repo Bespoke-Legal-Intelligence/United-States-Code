@@ -26,7 +26,7 @@ No part of any funds appropriated to carry out this chapter, or any program admi
 
 No funds appropriated to carry out this chapter shall be used by any program assisted under this chapter in any activity for the purpose of influencing the passage or defeat of legislation or proposals by initiative petition, except—
 
-&emsp;(1) in any case in which a legislative body, a committee of a legislative body, or a member of a legislative body requests any volunteer in, or employee of, such a program to draft, review, or testify regarding measures or to make representations to such legislative body, committee, or member; or
+&emsp;(1) in any case in which a legislative body, a committee of a legislative body, or a memberof a legislative body requests any volunteer in, or employee of, such a program to draft, review, or testify regarding measures or to make representations to such legislative body, committee, or member; or
 
 &emsp;(2) in connection with an authorization or appropriations measure directly affecting the operation of the program.
 
@@ -40,7 +40,7 @@ The Director, after consultation with the Office of Personnel Management, shall 
 
 1993—Subsec. (a). Pub. L. 103–82, §405(a)(7), substituted “administered by the Corporation under this chapter” for “administered by the ACTION Agency” and “of the Corporation” for “of the ACTION Agency”.
 
-Subsec. (b)(1). Pub. L. 103–82, §363(3), added par. (1) and struck out former par. (1) which read as follows: “Programs assisted under this chapter shall not be carried on in a manner involving the use of funds, the provision of services, or the employment or assignment of personnel in a manner supporting or resulting in the identification of such programs with (A) any partisan or non-partisan political activity or any other politicalactivity associated with a candidate, or contending faction or group, in an election for public or party office, (B) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election, or (C) any voter registration activity.”
+Subsec. (b)(1). Pub. L. 103–82, §363(3), added par. (1) and struck out former par. (1) which read as follows: “Programs assisted under this chapter shall not be carried on in a manner involving the use of funds, the provision of services, or the employment or assignment of personnel in a manner supporting or resulting in the identification of such programs with (A) any partisan or non-partisan political activity or any other political activity associated with a candidate, or contending faction or group, in an election for public or party office, (B) any activity to provide voters or prospective voters with transportation to the polls or similar assistance in connection with any such election, or (C) any voter registration activity.”
 
 Subsec. (b)(2). Pub. L. 103–82, §363(3), added par. (2). Former par. (2) redesignated subsec. (c).
 

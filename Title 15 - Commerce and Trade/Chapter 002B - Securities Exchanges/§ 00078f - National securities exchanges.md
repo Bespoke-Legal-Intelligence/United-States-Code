@@ -100,7 +100,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(2) a Commission rule or ruling under subparagraph (B) of this paragraph limiting the petitioner's cross-examination or rebuttal submissions,
 
-> has precluded full disclosure and proper resolution of disputed issues of material fact which were necessary for fair determination by the Commission.
+> has precluded full disclosure and proper resolution of disputed issues of material fact whichwere necessary for fair determination by the Commission.
 
 #### (f) Compliance of non-members with exchange rules
 
@@ -234,7 +234,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;(J) require that the market on which the security futures product is traded has in place audit trails necessary or appropriate to facilitate the coordinated surveillance required in subparagraph (I);
 
-&emsp;&emsp;(K) require that the market on which the security futures product is traded has in place procedures to coordinate trading halts between such market and any market on which any security underlying the security futures product is traded and other markets on which any related security is traded; and
+&emsp;&emsp;(K) require that the market on which the security futures product is traded has in place procedures to coordinate trading halts between such market and any market onwhich any security underlying the security futures product is traded and other markets on which any related security is traded; and
 
 &emsp;&emsp;(L) require that the margin requirements for a security futures product comply with the regulations prescribed pursuant to section 78g(c)(2)(B) of this title, except that nothing in this subparagraph shall be construed to prevent a national securities exchange or national securities association from requiring higher margin levels for a security futures product when it deems such action to be necessary or appropriate.
 
@@ -284,7 +284,7 @@ Consistent with this chapter, each national securities exchange registered pursu
 
 &emsp;(1) rules of such national securities exchange of the type specified in section 78<i>o</i>(c)(3)(B) of this title involving security futures products; and
 
-&emsp;(2) similar rules of national securities exchanges registered pursuant to subsection (g) of this section and national securities associations registered pursuant to section 78<i>o</i>–3(k) of this title involving security futures products.
+&emsp;(2) similar rules of national securities exchanges registered pursuant to subsection (g)of this section and national securities associations registered pursuant to section 78<i>o</i>–3(k) of this title involving security futures products.
 
 #### (j) Procedures and rules for security future products
 
@@ -292,7 +292,7 @@ A national securities exchange registered pursuant to subsection (a) of this sec
 
 #### (k) Rules relating to security futures products traded on foreign boards of trade
 
-(1) To the extent necessary or appropriate in the public interest, to promote fair competition, and consistent with the promotion of market efficiency, innovation, and expansion of investment opportunities, the protection of investors, and the maintenance of fair and orderly markets, the Commission and the Commodity Futures Trading Commission shall jointly issue such rules, regulations, or orders as are necessary and appropriate to permit the offer and sale of a security futures product traded on orsubject to the rules of a foreign board of trade to United States persons.
+(1) To the extent necessary or appropriate in the public interest, to promote fair competition, and consistent with the promotion of market efficiency, innovation, and expansion of investment opportunities, the protection of investors, and the maintenance of fair and orderly markets, the Commission and the Commodity Futures Trading Commission shall jointly issue such rules, regulations, or orders as are necessary and appropriate to permit the offer and sale of a security futures product traded on or subject to the rules of a foreign board of trade to United States persons.
 
 (2) The rules, regulations, or orders adopted under paragraph (1) shall take into account, as appropriate, the nature and size of the markets that the securities underlying the security futures product reflect.
 
@@ -352,7 +352,7 @@ Review of filings prior to effective date.—Prior to the effective date of regu
 
 “(b)
 
-Effect on Existing Authority.—The amendments made by this title \[amending this section and sections 78n and 78<i>o</i>–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy or procedure required to be imposed under such amendments.”
+Effect on Existing Authority.—The amendments made by this title \[amending this section and sections 78n and 78<i>o</i>–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy orprocedure required to be imposed under such amendments.”
 
 #### Effective Date of 1975 Amendment
 
@@ -364,7 +364,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Changes in Organization and Rules of National Securities Exchanges and Registered Securities Associations
 
-Section 31(b) of Pub. L. 94–29 provided that: “If it appears to the Commission at any time within one yearof the effective date of any amendment made by this Act \[see Short Title of 1975 Amendment note under section 78a of this title\] to the Securities Exchange Act of 1934 that the organization or rules of any national securities exchange or registered securities association registered with the Commission on the date of enactment of this Act \[June 4, 1975\] do not comply with such Act as amended, the Commission shall so notify such exchange or association in writing, specifying the respects in which the exchange or association is not in compliance with such Act. On and after the one hundred eightieth day following the date of receipt of such notice by a national securities exchange or registered securities association, the Commission, without regard to the provisions of section 19(h) of the Securities Exchange Act of 1934 \[section 78s(h) of this title\], as amended by this Act, is authorized by order, to suspend the registration of any such exchange or association or impose limitations on the activities, functions, and operations of any such exchange or association, if the Commission finds, after notice and opportunity for hearing, that the organization or rules of such exchange or association do not comply with such Act. Any such suspension or limitation shall continue in effect until the Commission, by order, declares that such exchange or association is in compliance with such requirements.”
+Section 31(b) of Pub. L. 94–29 provided that: “If it appears to the Commission at any time within one year of the effective date of any amendment made by this Act \[see Short Title of 1975 Amendment note under section 78a of this title\] to the Securities Exchange Act of 1934 that the organization or rules of any national securities exchange or registered securities association registered with the Commission on the date of enactment of this Act \[June 4, 1975\] do not comply with such Act as amended, the Commission shall so notify such exchange or association in writing, specifying the respects in which the exchange or association is not in compliance with such Act. On and after the one hundred eightieth day following the date of receipt of such notice by a national securities exchange or registered securities association, the Commission, without regard to the provisions of section 19(h) of the Securities Exchange Act of 1934 \[section 78s(h) of this title\], as amended by this Act, is authorized by order, to suspend the registration of any such exchange or association or impose limitations on the activities, functions, and operations of any such exchange or association, if the Commission finds, after notice and opportunity for hearing, that the organization or rules of such exchange or association do not comply with such Act. Any such suspension or limitation shall continue in effect until the Commission, by order, declares that such exchange or association is in compliance with such requirements.”
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense may authorize the Secretary of a military department, during the period beginning on October 1, 1990, and ending on December 31, 2001, to take any of the actions set forth in subsection (b) with respect to officers of an armed force under the jurisdiction of that Secretary.
 
-(b) Actions which the Secretary of a military department may take with respect to officers ofan armed force when authorized to do so under subsection (a) are the following:
+(b) Actions which the Secretary of a military department may take with respect to officers of an armed force when authorized to do so under subsection (a) are the following:
 
 &emsp;(1) Shortening the period of the continuation on active duty established under section 637 of this title for a regular officer who is serving on active duty pursuant to a selection under that section for continuation on active duty.
 
@@ -46,7 +46,7 @@
 
 &emsp;(B) in each grade, year group, or specialty (or combination thereof) in each competitive category.
 
-(3) The total number of officers described in subsection (b)(4) from any of the armed forces (or from any of the armed forces in a particular grade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
+(3) The total number of officers described in subsection (b)(4) from any of the armed forces (or from any of the armed forces in a particulargrade) who may be recommended during a fiscal year for discharge by a selection board convened pursuant to the authority of that subsection may not exceed 70 percent of the decrease, as compared to the preceding fiscal year, in the number of officers of that armed force (or the number of officers of that armed force in that grade) authorized to be serving on active duty as of the end of that fiscal year.
 
 (4) An officer who is recommended for discharge by a selection board convened pursuant to the authority of subsection (b)(4) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
 
@@ -54,7 +54,7 @@
 
 (e) The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
 
-(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503,title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
+(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134.)
 
 #### References in Text
 
@@ -78,5 +78,5 @@ Subsec. (c). Pub. L. 102–190, §503(b)(2), designated existing provisions as p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 637, 638 of this title.
+This section is referred to in sections 637, 638, 1558 of this title.
 

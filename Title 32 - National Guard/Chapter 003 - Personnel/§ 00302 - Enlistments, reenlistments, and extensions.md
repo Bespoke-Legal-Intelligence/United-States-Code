@@ -34,7 +34,7 @@ June 3, 1916, ch. 134, §69; restated July 11, 1919, ch. 8 (20th par. under “N
 
 #### Amendments
 
-1961—Pub. L. 87–378 permitted original enlistments for any specified term, not less than three years, for persons who have not served in an armed force, authorized reenlistments for any specified period, or if the person last served in one of the highest five enlisted grades, for an unspecified period, extensions of enlistments or reenlistments at the request of the memberfor any period not less than six months after termination of the emergency.
+1961—Pub. L. 87–378 permitted original enlistments for any specified term, not less than three years, for persons who have not served in an armed force, authorized reenlistments for any specified period, or if the person last served in one of the highest five enlisted grades, for an unspecified period, extensions of enlistments or reenlistments at the request of the member for any period not less than six months after termination of the emergency.
 
 #### Effective Date of 1961 Amendment
 

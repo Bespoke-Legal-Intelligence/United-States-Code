@@ -10,7 +10,7 @@ Pay.—The board may fix the pay of the officers of Amtrak. An officer may not b
 
 (c)
 
-Conflicts of Interest.—When employed by Amtrak, an officer may not have a financial or employment relationship with another rail carrier, except that holding securities issued by a rail carrier is not deemed to be a violation of this subsection if the officer holding the securities makes a complete public disclosure of the holdings and does not participate in any decision directly affecting the rail carrier.
+Conflicts of Interest.—When employed by Amtrak, an officer may not have a financial or employment relationship with another rail carrier, except that holding securities issued by a rail carrier is not deemed to be a violation ofthis subsection if the officer holding the securities makes a complete public disclosure of the holdings and does not participate in any decision directly affecting the rail carrier.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 907; Pub. L. 105–134, title II, §207, Dec. 2, 1997, 111 Stat. 2584.)
 

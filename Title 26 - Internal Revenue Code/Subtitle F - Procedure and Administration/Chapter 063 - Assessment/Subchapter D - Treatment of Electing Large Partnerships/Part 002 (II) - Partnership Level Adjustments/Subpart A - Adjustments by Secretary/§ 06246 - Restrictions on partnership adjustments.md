@@ -26,7 +26,7 @@ Notwithstanding section 7421(a), any action which violates subsection (a) may be
 
 #### (2) Partnership may waive restrictions
 
-&emsp;The partnership shall at any time (whether or not a notice of partnership adjustment has been issued) have the right, by a signed notice in writing filed with the Secretary, to waive the restrictions provided in subsection (a) on the making of any partnership adjustment.
+&emsp;The partnership shall at any time (whether or not a notice of partnership adjustment hasbeen issued) have the right, by a signed notice in writing filed with the Secretary, to waive the restrictions provided in subsection (a) on the making of any partnership adjustment.
 
 #### (d) Limit where no proceeding begun
 

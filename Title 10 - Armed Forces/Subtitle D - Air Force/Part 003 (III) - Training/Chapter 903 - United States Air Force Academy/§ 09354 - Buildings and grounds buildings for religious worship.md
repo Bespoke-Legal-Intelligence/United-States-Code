@@ -1,6 +1,6 @@
 ### §9354. Buildings and grounds: buildings for religious worship
 
-The Secretary of the Air Force may authorize any denomination, sect, or religious body to erect a building for religious worship at the Air Force Academy, if its erection will not interfere with the use of the reservation for military purposes and will be without expense to the United States. Such a building shall be removed, or its location changed, without compensation for it and without expense to the United States, by the denomination, sect, or religious body that erected it, whenever in the opinion of the Secretary public or military necessity so requires.
+The Secretary of the Air Force may authorize any denomination, sect, or religious body to erect a building for religious worship at the Air Force Academy, if its erection will not interfere with the use of the reservation for military purposes and will be without expense to the United States. Such a building shall be removed, or its location changed, without compensation for it and without expense to the United States, bythe denomination, sect, or religious body that erected it, whenever in the opinion of the Secretary public or military necessity so requires.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 567.)
 

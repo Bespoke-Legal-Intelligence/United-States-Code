@@ -10,7 +10,7 @@ Any agreement entered into under this section relating to the enforcement of the
 
 #### (c) Limitations on use of personnel of non-Federal agency
 
-The Secretary may not use the personnel of a non-Federal agency under this section in an area of Indian country if the Indian tribe having jurisdiction over such area of Indian country has adopted a resolution objecting to the use of the personnel of such agency. The Secretary shall consult with Indian tribes before entering intoany agreement under subsection (a) of this section with a non-Federal agency that will provide personnel for use in any area under the jurisdiction of such Indian tribes.
+The Secretary may not use the personnel of a non-Federal agency under this section in an area of Indian country if the Indian tribe having jurisdiction over such area of Indian country has adopted a resolution objecting to the use of the personnel of such agency. The Secretary shall consult with Indian tribes before entering into any agreement under subsection (a) of this section with a non-Federal agency that will provide personnel for use in any area under the jurisdiction of such Indian tribes.
 
 #### (d) Authority of Federal agency head to enter into agreement with Secretary
 

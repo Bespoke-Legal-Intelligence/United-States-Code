@@ -31,12 +31,12 @@
 
 |  |  |
 | :--- | ---: |
-| [3531\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003531%20-%20Purposes.md) | Purposes. |
-| [3532\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003532%20-%20Definitions.md) | Definitions. |
-| [3533\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003533%20-%20Authority%20and%20functions%20of%20the%20Director.md) | Authority and functions of the Director. |
-| [3534\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003534%20-%20Federal%20agency%20responsibilities.md) | Federal agency responsibilities. |
-| [3535\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003535%20-%20Annual%20independent%20evaluation.md) | Annual independent evaluation. |
-| [3536\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003536%20-%20Expiration.md) | Expiration. |
+| [3531\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003531%20-%20Purposes.md) | Purposes. |
+| [3532\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003532%20-%20Definitions.md) | Definitions. |
+| [3533\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003533%20-%20Authority%20and%20functions%20of%20the%20Director.md) | Authority and functions of the Director. |
+| [3534\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003534%20-%20Federal%20agency%20responsibilities.md) | Federal agency responsibilities. |
+| [3535\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003535%20-%20Annual%20independent%20evaluation.md) | Annual independent evaluation. |
+| [3536\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003536%20-%20Expiration.md) | Expiration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -58,3 +58,4 @@ This chapter is referred to in title 5 section 552; title 7 section 7281; title 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Subchapter 001 (I) - Federal Information Policy](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/README.md)
+- [Subchapter 002 (II) - Information Security](Subchapter%20002%20%28II%29%20-%20Information%20Security/README.md)

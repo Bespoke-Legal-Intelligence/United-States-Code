@@ -24,21 +24,25 @@ Whoever violates any provision of law to which this section is made applicable b
 
 This section applies to a violation of, or a conspiracy to violate—
 
-&emsp;(1) section 215, 656, 657, 1005, 1006, 1007, 1014, or 1344 of title 18; or
+&emsp;(1) section 215, 656, 657, 1005, 1006, 1007, 1014, or 1344 of title 18;
 
-&emsp;(2) section 287, 1001, 1032,<sup>1</sup> 1341 or 1343 of title 18 affecting a federally insured financial institution.
+&emsp;(2) section 287, 1001, 1032,<sup>1</sup> 1341 or 1343 of title 18 affecting a federally insured financial institution; or
 
-> This section shall apply to violations occurring on or after August 10, 1984.
+&emsp;(3) section 645(a) of title 15.
 
-#### (d) Attorney General to bring action
+#### (d) Effective date
+
+This section shall apply to violations occurring on or after August 10, 1984.
+
+#### (e) Attorney General to bring action
 
 A civil action to recover a civil penalty under this section shall be commenced by the Attorney General.
 
-#### (e) Burden of proof
+#### (f) Burden of proof
 
-In a civil action to recover a civil penalty under this section, the Attorney General mustestablish the right to recovery by a preponderance of the evidence.
+In a civil action to recover a civil penalty under this section, the Attorney General must establish the right to recovery by a preponderance of the evidence.
 
-#### (f) Administrative subpoenas
+#### (g) Administrative subpoenas
 
 #### (1) In general
 
@@ -58,17 +62,25 @@ In a civil action to recover a civil penalty under this section, the Attorney Ge
 
 &emsp;In the case of a subpoena for which the return date is less than 5 days after the date of service, no person shall be found in contempt for failure to comply by the return date if such person files a petition under paragraph (2) not later than 5 days after the date of service.
 
-#### (g) Statute of limitations
+#### (h) Statute of limitations
 
 A civil action under this section may not be commenced later than 10 years after the cause of action accrues.
 
-(Pub. L. 101–73, title IX, §951, Aug. 9, 1989, 103 Stat. 498; Pub. L. 101–647, title XXV, §§2533, 2596(d), Nov. 29, 1990, 104 Stat. 4882, 4908; Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 104–208, div. A, title II, §2704(d)(15)(A), Sept. 30, 1996, 110 Stat. 3009–494.)
+(Pub. L. 101–73, title IX, §951, Aug. 9, 1989, 103 Stat. 498; Pub. L. 101–647, title XXV, §§2533, 2596(d), Nov. 29, 1990, 104 Stat. 4882, 4908; Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 104–208, div. A, title II, §2704(d)(15)(A), Sept. 30, 1996, 110 Stat. 3009–494; Pub. L. 107–100, §4(b), Dec. 21, 2001, 115 Stat. 966.)
 
 #### Codification
 
 Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
 
 #### Amendments
+
+2001—Subsec. (c). Pub. L. 107–100, §4(b)(2)(D), designated concluding provisions as (d) and inserted heading.
+
+Subsec. (c)(2). Pub. L. 107–100, §4(b)(2)(B)(i), which directed the substitution of “1341” for “1341;”, could not be executed because par. (2) does not contain a semicolon after “1341”.
+
+Subsec. (c)(3). Pub. L. 107–100, §4(b)(2)(A), (B)(ii), (C), added par. (3).
+
+Subsec. (d) to (h). Pub. L. 107–100, §4(b)(1), (2)(D), designated concluding provisions of subsec. (c) as (d), inserted heading, and redesignated former subsecs. (d) to (g) as (e) to (h), respectively.
 
 1996—Subsec. (b)(3)(B). Pub. L. 104–208, which directed substitution of “Deposit Insurance Fund” for “Bank Insurance Fund, the Savings Association Insurance Fund,”, was not executed. See Effective Date of 1996 Amendment note below.
 

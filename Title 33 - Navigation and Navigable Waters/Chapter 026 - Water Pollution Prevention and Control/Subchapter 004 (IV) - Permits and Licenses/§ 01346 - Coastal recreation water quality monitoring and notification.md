@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) the program is consistent with the performance criteria published by the Administrator under subsection (a) of this section;
 
-&emsp;&emsp;&emsp;(ii) the State or local government prioritizes the use of grant funds for particularcoastal recreation waters based on the use of the water and the risk to human health presented by pathogens or pathogen indicators;
+&emsp;&emsp;&emsp;(ii) the State or local government prioritizes the use of grant funds for particular coastal recreation waters based on the use of the water and the risk to human health presented by pathogens or pathogen indicators;
 
 &emsp;&emsp;&emsp;(iii) the State or local government makes available to the Administrator the factors used to prioritize the use of funds under clause (ii);
 
@@ -38,7 +38,7 @@
 
 #### (B) Grants to local governments
 
-&emsp;&emsp;The Administrator may make a grant to a local government under this subsection for implementation of a monitoring and notification program only if, after the 1-year period beginning on the date of publication of performance criteria under subsection (a)(1) of this section, the Administrator determines that the State is not implementing a program that meets the requirements of this subsection, regardless of whether the State has received a grant under this subsection.
+&emsp;&emsp;The Administrator may make a grant to a local government under this subsection forimplementation of a monitoring and notification program only if, after the 1-year period beginning on the date of publication of performance criteria under subsection (a)(1) of this section, the Administrator determines that the State is not implementing a program that meets the requirements of this subsection, regardless of whether the State has received a grant under this subsection.
 
 #### (3) Other requirements
 
@@ -98,7 +98,7 @@ As a condition of receipt of a grant under subsection (b) of this section, a Sta
 
 &emsp;(6) measures for the posting of signs at beaches or similar points of access, or functionally equivalent communication measures that are sufficient to give notice to the public that the coastal recreation waters are not meeting or are not expected to meet applicable water quality standards for pathogens and pathogen indicators; and
 
-&emsp;(7) measures that inform the public of the potential risks associated with water contact activities in the coastal recreation watersthat do not meet applicable water quality standards.
+&emsp;(7) measures that inform the public of the potential risks associated with water contact activities in the coastal recreation waters that do not meet applicable water quality standards.
 
 #### (d) Federal agency programs
 

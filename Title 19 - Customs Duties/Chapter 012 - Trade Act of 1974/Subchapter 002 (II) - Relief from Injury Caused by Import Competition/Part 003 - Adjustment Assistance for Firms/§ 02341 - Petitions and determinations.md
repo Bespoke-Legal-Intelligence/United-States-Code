@@ -10,7 +10,7 @@ If the petitioner, or any other person, organization, or group found by the Secr
 
 #### (c) Certification
 
-(1) The Secretary shall certify a firm (including any agricultural firm) as eligible to apply for adjustment assistance under this part if the Secretary determines—
+(1) The Secretary shall certify a firm (including any agricultural firm) as eligible to applyfor adjustment assistance under this part if the Secretary determines—
 
 &emsp;(A) that a significant number or proportion of the workers in such firm have become totally or partially separated, or are threatened to become totally or partially separated,
 

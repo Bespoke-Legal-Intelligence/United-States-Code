@@ -1,6 +1,6 @@
 ### §1962b. Creation of commissions; powers and duties
 
-(a) The President is authorized to declare the establishment of a river basin water and related land resources commission upon request therefor by the Council, or request addressed to the Council by a State within which all or part of the basin or basins concerned are located if the request by the Council or by a State (1) defines the area, river basin, or group of related river basins for which a commission is requested, (2) is made in writing by the Governor or in such manner as State law may provide, or by the Council, and (3) is concurred in by the Council and by not less than one-half of the States within which portions of the basin or basins concerned are located and, in the event the Upper Colorado River Basin is involved, by at least three of the four States of Colorado, New Mexico, Utah, and Wyoming or, in the event the Columbia River Basin is involved, by at least three of the four States of Idaho, Montana, Oregon, and Washington. Such concurrences shall be in writing.
+(a) The President is authorized to declare the establishment of a river basin water and related land resources commission upon request therefor by the Council, or request addressed to the Council by a State within which all or part of the basin or basins concerned are located if the request by the Council or by a State (1) defines the area, river basin, or group of related river basins for which a commission is requested, (2) is made in writing by the Governor or in such manner as State law may provide, or by the Council, and (3) is concurred in by the Council and by not less than one-half of the States within which portions of the basin or basins concerned are located and, in the event the Upper Colorado River Basin is involved, by at least three of the four States of Colorado, New Mexico, Utah, and Wyoming or, in the event the Columbia River Basin is involved, by at least three of the four States of Idaho, Montana, Oregon,and Washington. Such concurrences shall be in writing.
 
 (b) Each such commission for an area, river basin, or group of river basins shall, to the extent consistent with section 1962–1 of this title—
 
@@ -16,7 +16,7 @@
 
 #### Executive Order No. 11331
 
-Ex. Ord. No. 11331, Mar. 6, 1967, 32 F.R. 3875, as amended by Ex. Ord. No. 11613, Aug. 2, 1971, 36 F.R. 14299; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No.12148, July 20, 1979, 44 F.R. 43239, which provided for the establishment, jurisdiction, functions, etc., of the Pacific Northwest River Basins Commission, was revoked, effective Oct. 1, 1981, by section 5(a)(1) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45591, set out below.
+Ex. Ord. No. 11331, Mar. 6, 1967, 32 F.R. 3875, as amended by Ex. Ord. No. 11613, Aug. 2, 1971, 36 F.R. 14299; Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which provided for the establishment, jurisdiction, functions, etc., of the Pacific Northwest River Basins Commission, was revoked, effective Oct. 1, 1981, by section 5(a)(1) of Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45591, set out below.
 
 #### Executive Order No. 11345
 
@@ -60,7 +60,7 @@ Ex. Ord. No. 12319, Sept. 9, 1981, 46 F.R. 45591, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States, in order to ensure the orderly termination of the six river basin commissions established pursuant to the Water Resources Planning Act (42 U.S.C. 1962 et seq.), it is hereby ordered as follows:
 
-Section 1. In accord with the decision of the Water Resources Council pursuant to Section 203(a) of the Water Resources Planning Act (42 U.S.C. 1962b–2(a)), the following river basin commissions shall terminate on the date indicated:
+Section 1. In accord with the decision of the Water Resources Council pursuant to Section 203(a) of theWater Resources Planning Act (42 U.S.C. 1962b–2(a)), the following river basin commissions shall terminate on the date indicated:
 
 (a) Pacific Northwest River Basins Commission, terminated on September 30, 1981.
 

@@ -26,7 +26,7 @@ No contract may be entered into under this section unless the Director finds tha
 
 #### (e) Bond; liability of certifying officers and disbursing officers
 
-(1) Any such contract may require the pool, company, or organization or any of its officersor employees certifying payments or disbursing funds pursuant to the contract, or otherwise participating in carrying out the contract, to give surety bond to the United States in such amount as the Director may deem appropriate.
+(1) Any such contract may require the pool, company, or organization or any of its officers or employees certifying payments or disbursing funds pursuant to the contract, or otherwise participating in carrying out the contract, to give surety bond to the United States in such amount as the Director may deem appropriate.
 
 (2) No individual designated pursuant to a contract under this section to certify payments shall, in the absence of gross negligence or intent to defraud the United States, be liable with respect to any payment certified by him under this section.
 

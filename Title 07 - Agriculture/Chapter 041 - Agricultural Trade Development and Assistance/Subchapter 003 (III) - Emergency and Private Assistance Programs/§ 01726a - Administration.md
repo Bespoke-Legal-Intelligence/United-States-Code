@@ -62,7 +62,7 @@ Subsec. (b)(1). Pub. L. 104–127, §207(b)(2)(A), substituted “eligible organ
 
 Subsec. (b)(2). Pub. L. 104–127, §207(b)(2)(B), substituted “eligible organizations” for “organizations, cooperatives,”.
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to requests by nonprofit voluntary agency or cooperative for nonemergency food assistance agreements, and uses of foreign currency proceeds.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to requests by nonprofit voluntary agency or cooperativefor nonemergency food assistance agreements, and uses of foreign currency proceeds.
 
 1987—Subsec. (a). Pub. L. 100–202, §14(1), inserted “or cooperative” after “agency”.
 

@@ -24,7 +24,7 @@
 
 #### <i>Revised section 5105</i>
 
-Section 5105 authorizes the Secretary of Transportation to provide for load line surveys and requires that while conducting a load line survey, the Secretary must consider various strength, stability, design, and construction features of the vessel.
+Section 5105 authorizes the Secretary of Transportation to provide for load line surveys and requires that while conducting a load line survey, the Secretarymust consider various strength, stability, design, and construction features of the vessel.
 
 #### Section Referred to in Other Sections
 

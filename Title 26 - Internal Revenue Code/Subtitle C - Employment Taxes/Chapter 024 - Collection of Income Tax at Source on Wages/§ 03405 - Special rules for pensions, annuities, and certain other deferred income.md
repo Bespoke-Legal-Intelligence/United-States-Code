@@ -54,7 +54,7 @@
 
 #### (3) Eligible rollover distribution
 
-&emsp;For purposes of this subsection, the term “eligible rollover distribution” has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A)).
+&emsp;For purposes of this subsection, the term “eligible rollover distribution” has the meaning given such term by section 402(f)(2)(A).
 
 #### (d) Liability for withholding
 
@@ -78,9 +78,11 @@
 
 &emsp;&emsp;&emsp;(i) section 401(a),
 
-&emsp;&emsp;&emsp;(ii) section 403(a), or
+&emsp;&emsp;&emsp;(ii) section 403(a),
 
-&emsp;&emsp;&emsp;(iii) section 301(d) of the Tax Reduction Act of 1975.
+&emsp;&emsp;&emsp;(iii) section 301(d) of the Tax Reduction Act of 1975, or
+
+&emsp;&emsp;&emsp;(iv) section 457(b) and which is maintained by an eligible employer described in section 457(e)(1)(A).
 
 #### (e) Definitions and special rules
 
@@ -204,13 +206,21 @@ For purposes of this chapter (and so much of subtitle F as relates to this chapt
 
 &emsp;(2) in the case of any designated distribution not subject to withholding under this section by reason of an election under this section, the amount withheld shall be treated as zero.
 
-(Added Pub. L. 97–248, title III, §334(a), Sept. 3, 1982, 96 Stat. 623; amended Pub. L. 98–369, div. A, title V, §542(c), title VII, §§714(j)(1), (4), (5), 722(h)(4)(A), July 18, 1984, 98 Stat. 891, 962, 963, 976; Pub. L. 99–514, title XI, §1102(e)(1), title XII, §1234(b)(1), title XVIII, §1875(c)(10), Oct. 22, 1986, 100 Stat. 2416, 2566, 2895; Pub. L. 100–647, title I, §1012(bb)(2)(A)–(C), Nov. 10, 1988, 102 Stat. 3534; Pub. L. 102–318, title V, §§521(b)(36)–(40), 522(b)(1)–(2)(C), July 3, 1992, 106 Stat. 312–314; Pub. L. 104–188, title I, §1704(t)(71), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 106–554, §1(a)(7) \[title III, §314(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643.)
+(Added Pub. L. 97–248, title III, §334(a), Sept. 3, 1982, 96 Stat. 623; amended Pub. L. 98–369, div. A, title V, §542(c), title VII, §§714(j)(1), (4), (5), 722(h)(4)(A), July 18, 1984, 98 Stat. 891, 962, 963, 976; Pub. L. 99–514, title XI, §1102(e)(1), title XII, §1234(b)(1), title XVIII, §1875(c)(10), Oct. 22, 1986, 100 Stat. 2416, 2566, 2895; Pub. L. 100–647, title I, §1012(bb)(2)(A)–(C), Nov. 10, 1988, 102 Stat. 3534; Pub. L. 102–318, title V, §§521(b)(36)–(40), 522(b)(1)–(2)(C), July 3, 1992, 106 Stat. 312–314; Pub. L. 104–188, title I, §1704(t)(71), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 106–554, §1(a)(7) \[title III, §314(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §641(a)(1)(D)(ii), (iii), June 7, 2001, 115 Stat. 119.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
 Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B)(iii), is section 301(d) of Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, relating to plan requirements for taxpayers electing additional credits, which was set out as a note under section 46 of this title and was repealed by Pub. L. 95–600, title I, §141(f)(1), Nov. 6, 1978, 92 Stat. 2795.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c)(3). Pub. L. 107–16, §§641(a)(1)(D)(ii), 901, temporarily reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘eligible rollover distribution’ has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A)).” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(2)(B)(iv). Pub. L. 107–16, §§641(a)(1)(D)(iii), 901, temporarily added cl. (iv). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (e)(1)(B). Pub. L. 106–554 inserted “(other than a Roth IRA)” after “individual retirement plan” in concluding provisions.
 
@@ -230,7 +240,7 @@ Subsec. (d). Pub. L. 102–318, §522(b)(1), (2)(C), redesignated subsec. (c) as
 
 Pub. L. 102–318, §521(b)(40), substituted “(b)(2)” for “(b)(3)” in par. (13)(A).
 
-Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.”
+Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Themaximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.”
 
 Pub. L. 102–318, §521(b)(38), struck out par. (4) which defined “qualified total distribution” and provided special rule for accumulated deductible employee contributions in determining qualified total distribution.
 
@@ -257,6 +267,12 @@ Pub. L. 98–369, §542(c), added cl. (iii) relating to distributions described 
 Subsec. (d)(8). Pub. L. 98–369, §714(j)(5), freed from withholding requirement any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.
 
 Subsec. (d)(12). Pub. L. 98–369, §722(h)(4), added par. (12).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -312,7 +328,7 @@ Periodic payments beginning before january 1, 1983.—For purposes of section 34
 
 “(5)
 
-Delay in application.—The Secretary of the Treasury shall prescribe such regulations which delay (but not beyond June 30, 1983) the application of some or all of the amendments made by this section with respect to any payor until such time as such payor is able to comply without undue hardship with the requirements of such provisions.
+Delay in application.—The Secretary of the Treasury shall prescribe such regulations which delay\(but not beyond June 30, 1983) the application of some or all of the amendments made by this section with respect to any payor until such time as such payor is able to comply without undue hardship with the requirements of such provisions.
 
 “(6)
 
@@ -328,5 +344,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3402, 6047, 6652 of this title; title 5 section 8348.
+This section is referred to in sections 3402, 5891, 6047, 6652 of this title; title 5 section 8348.
 

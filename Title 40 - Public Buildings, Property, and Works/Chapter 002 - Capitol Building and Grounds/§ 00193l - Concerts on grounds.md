@@ -6,5 +6,5 @@ Nothing in sections 193a to 193k, 207a, 212a, 212a–2, and 212a–3, of this ti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136, 174b–1, 184a, 193h, 193i, 193k, 193m, 212a of this title.
+This section is referred to in sections 136, 174b–1, 184a, 193h, 193i, 193k, 193m, 212a, 212c of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-In carrying out research and development in support of the civil works program of the Department of the Army, the Secretary may utilize contracts, cooperative research and development agreements, cooperative agreements, and grants with non-Federal entities, includingState and local governments, colleges and universities, consortia, professional and technical societies, public and private scientific and technical foundations, research institutions, educational organizations, and nonprofit organizations.
+In carrying out research and development in support of the civil works program of the Department of the Army, the Secretary may utilize contracts, cooperative research and development agreements, cooperative agreements, and grants with non-Federal entities, including State and local governments, colleges and universities, consortia, professional and technical societies, public and private scientific and technical foundations, research institutions, educational organizations, and nonprofit organizations.
 
 #### (b) Commercial application
 

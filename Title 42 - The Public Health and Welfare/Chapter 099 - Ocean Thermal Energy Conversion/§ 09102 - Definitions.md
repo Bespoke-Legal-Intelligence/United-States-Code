@@ -18,7 +18,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(8) “Governor” means the Governor of a State or the person designated by law to exercise the powers granted to the Governor pursuant to this chapter;
 
-&emsp;(9) “high seas” means that part of the oceans lying seaward of the territorial sea ofthe United States and outside the territorial sea, as recognized by the United States, of any other nation;
+&emsp;(9) “high seas” means that part of the oceans lying seaward of the territorial sea of the United States and outside the territorial sea, as recognized by the United States, of any other nation;
 
 &emsp;(10) “licensee” means the holder of a valid license for the ownership, construction, and operation of an ocean thermal energy conversion facility or plantship that was issued, transferred, or renewed pursuant to this chapter;
 

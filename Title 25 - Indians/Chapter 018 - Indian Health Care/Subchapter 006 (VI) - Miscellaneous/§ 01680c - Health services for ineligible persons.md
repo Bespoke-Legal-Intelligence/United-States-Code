@@ -34,7 +34,7 @@
 
 (3)(A) In the case of a service area which serves only one Indian tribe, the authority of the Secretary to provide health services under paragraph (1)(A) shall terminate at the end of the fiscal year succeeding the fiscal year in which the governing body of the Indian tribe revokes its concurrence to the provision of such health services.
 
-(B) In the case of a multi-tribal service area, the authority of the Secretary to provide health services under paragraph (1)(A) shall terminate at the end of the fiscal year succeeding the fiscal year in which at least 51 percent of the number of Indian tribes in the service area revoketheir concurrence to the provision of such health services.
+(B) In the case of a multi-tribal service area, the authority of the Secretary to provide health services under paragraph (1)(A) shall terminate at the end of the fiscal year succeeding the fiscal year in which at least 51 percent of the number of Indian tribes in the service area revoke their concurrence to the provision of such health services.
 
 #### (c) Purposes served in providing health services to otherwise ineligible individuals
 

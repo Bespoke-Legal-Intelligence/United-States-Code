@@ -16,7 +16,7 @@ A publication, including an article, a chapter in a book, or an official abstrac
 
 #### (b) Application
 
-Subsection (a) of this section shall not apply to or restrict a retailer or wholesaler of dietary supplements in any way whatsoever in the sale of books or other publications as a part of the business of such retailer or wholesaler.
+Subsection (a) of this section shall not apply to or restrict a retailer or wholesaler of dietarysupplements in any way whatsoever in the sale of books or other publications as a part of the business of such retailer or wholesaler.
 
 #### (c) Burden of proof
 

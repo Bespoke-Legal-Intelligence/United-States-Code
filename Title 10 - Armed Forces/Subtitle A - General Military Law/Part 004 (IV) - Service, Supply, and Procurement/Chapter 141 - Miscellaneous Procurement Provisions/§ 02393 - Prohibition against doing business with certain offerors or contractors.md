@@ -36,5 +36,5 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2410f of this title; title 33 section 569f.
+This section is referred to in section 2410f of this title; title 33 section 569f; title 42 section 5206.
 

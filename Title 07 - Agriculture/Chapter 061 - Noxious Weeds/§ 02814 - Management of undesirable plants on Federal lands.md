@@ -34,7 +34,7 @@ In the event an environmental assessment or environmental impact statement is re
 
 #### (d) Exception
 
-A Federal agency is not required under this section to carry out programs on Federal landsunless similar programs are being implemented generally on State or private lands in the same area.
+A Federal agency is not required under this section to carry out programs on Federal lands unless similar programs are being implemented generally on State or private lands in the same area.
 
 #### (e) Definitions
 
@@ -54,7 +54,7 @@ As used in this section:
 
 #### (4) Integrated management system
 
-&emsp;The term “integrated management systems” means a system for the planning and implementation of a program, using an interdisciplinary approach, to select a method for containing or controlling an undesirable plant species or group of species using all available methods, including—
+&emsp;The term “integrated management systems” means a system for the planning and implementation of a program, using an interdisciplinary approach, to select a method for containing or controlling an undesirable plantspecies or group of species using all available methods, including—
 
 &emsp;&emsp;(A) education;
 

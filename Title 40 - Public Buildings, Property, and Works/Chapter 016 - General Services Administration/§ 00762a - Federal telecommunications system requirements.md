@@ -14,7 +14,7 @@ In carrying out subsection (a) of this section, the Administrator shall—
 
 &emsp;(3) within 180 days after October 28, 1988—
 
-&emsp;&emsp;(A) conduct, as part of the rulemaking proceeding required by subsection (a) of this section, an analysis of modifications to theFederal telecommunications system that the Administrator, in his discretion, determines to be necessary to achieve the objectives of subsection (a) of this section; and
+&emsp;&emsp;(A) conduct, as part of the rulemaking proceeding required by subsection (a) of this section, an analysis of modifications to the Federal telecommunications system that the Administrator, in his discretion, determines to be necessary to achieve the objectives of subsection (a) of this section; and
 
 &emsp;&emsp;(B) submit a report on the results of such analysis to each House of the Congress;
 

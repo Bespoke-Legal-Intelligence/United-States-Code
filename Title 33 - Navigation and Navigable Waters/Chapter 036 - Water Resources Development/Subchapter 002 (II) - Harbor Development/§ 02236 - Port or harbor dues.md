@@ -96,11 +96,11 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (c) Collection of duties
 
-#### (1) Delivery of certificate and manifest
+#### (1) <sup>2</sup> Delivery of certificate and manifest
 
 #### (A) Upon arrival of vessel
 
-&emsp;&emsp;Upon the arrival of a vessel in a harbor in which the vessel may be subject to the levy of port or harbor dues under this section, the master of that vessel shall, within forty-eight hours after arrival and before any cargo is unloaded from that vessel, deliverto the appropriate authorized representative appointed under subsection (a)(6)(C) of this section a tonnage certificate for the vessel and a manifest of the cargo aboard that vessel or, if the vessel is in ballast, a declaration to that effect.
+&emsp;&emsp;Upon the arrival of a vessel in a harbor in which the vessel may be subject to the levy of port or harbor dues under this section, the master of that vessel shall, within forty-eight hours after arrival and before any cargo is unloaded from that vessel, deliver to the appropriate authorized representative appointed under subsection (a)(6)(C) of this section a tonnage certificate for the vessel and a manifest of the cargo aboard that vessel or, if the vessel is in ballast, a declaration to that effect.
 
 #### (B) Before departure of vessel
 
@@ -139,4 +139,6 @@ The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch.
 &emsp;“(3) make any recommendations that the Comptroller General considers appropriate regarding the compliance of those non-Federal interests with the requirements of this section.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

@@ -28,7 +28,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;(B) consisting of appropriate officers and employees of the National Aeronautics and Space Administration, the Department of Defense, and any other United States Government agencies the President designates as responsible for the Landsat program.
 
-&emsp;(7) The term “Landsat system” means Landsats 1, 2, 3, 4, 5, and 6, and any follow-on land remote sensing system operated and owned by the United States Government, along with any related ground equipment, systems, and facilities owned by the United States Government.
+&emsp;(7) The term “Landsat system” means Landsats 1, 2, 3, 4, 5, and 6, and any follow-on land remote sensing system operated and owned bythe United States Government, along with any related ground equipment, systems, and facilities owned by the United States Government.
 
 &emsp;(8) The term “Landsat 6 contractor” means the private sector entity which was awarded the contract for spacecraft construction, operations, and data marketing rights for the Landsat 6 spacecraft.
 

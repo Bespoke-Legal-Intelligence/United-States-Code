@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) nothing in this paragraph shall be construed as applying in any manner in the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States differently than it would apply if the District of Columbia, the Commonwealth of Puerto Rico, or the possession were in fact a State of the United States;
 
-&emsp;(3) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector to transport into or receive in the State where he resides (or if the person is a corporation or other business entity, the State where it maintains a place of business) any fire arm purchased or otherwise obtained by such person outside that State, except that this paragraph (A) shall not preclude any person who lawfully acquires a firearm by bequest or intestate succession in a State other than his State of residence from transporting the firearm into or receiving it in that State, if it is lawful for such person to purchase or possess such firearm in that State, (B) shall not apply to the transportation or receipt of a firearm obtained in conformity with subsection (b)(3) of this section, and (C) shall not apply to the transportation of any firearm acquired in any State prior to the effective date of this chapter;
+&emsp;(3) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector to transport into or receive in the State where he resides (or if the person is a corporation or other business entity, the State where it maintains a place of business) any firearm purchased or otherwise obtained by such person outside that State, except that this paragraph (A) shall not preclude any person who lawfully acquires a firearm by bequest or intestate succession in a State other than his State of residence from transporting the firearm into or receiving it in that State, if it is lawful for such person to purchase or possess such firearm in that State, (B) shall not apply to the transportation or receipt of a firearm obtained in conformity with subsection (b)(3) of this section, and (C) shall not apply to the transportation of any firearm acquired in any State prior to the effective date of this chapter;
 
 &emsp;(4) for any person, other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, to transport in interstate or foreign commerce any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Secretary consistent with public safety and necessity;
 
@@ -48,7 +48,7 @@
 
 &emsp;(2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery or other disposition, unless the licensee knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance;
 
-&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer, importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
+&emsp;(3) any firearm to any person who the licensee knows or has reasonable cause to believe does not reside in (or if the person is a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business is located, except that this paragraph (A) shall not apply to the sale or delivery of any rifle or shotgun to a resident of a State other than a State in which the licensee's place of business is located if the transferee meets in person with the transferor to accomplish the transfer, and the sale, delivery, and receipt fully comply with the legal conditions of sale in both such States (and any licensed manufacturer,importer or dealer shall be presumed, for purposes of this subparagraph, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both States), and (B) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes;
 
 &emsp;(4) to any person any destructive device, machinegun (as defined in section 5845 of the Internal Revenue Code of 1986), short-barreled shotgun, or short-barreled rifle, except as specifically authorized by the Secretary consistent with public safety and necessity; and
 
@@ -60,7 +60,7 @@
 
 &emsp;(1) the transferee submits to the transferor a sworn statement in the following form:
 
-&emsp;&emsp;“Subject to penalties provided by law, I swear that, in the case of any firearm other than a shotgun or a rifle, I am twenty-one years or more of age, or that, in the case of a shotgun or a rifle, I am eighteen years or more of age; that I am not prohibited by the provisions of chapter 44 of title 18, United States Code, from receiving a firearm in interstate or foreign commerce; and that my receipt of this firearm will not be in violation of any statute of the State and published ordinance applicable to the locality inwhich I reside. Further, the true title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+&emsp;&emsp;“Subject to penalties provided by law, I swear that, in the case of any firearm other than a shotgun or a rifle, I am twenty-one years or more of age, or that, in the case of a shotgun or a rifle, I am eighteen years or more of age; that I am not prohibited by the provisions of chapter 44 of title 18, United States Code, from receiving a firearm in interstate or foreign commerce; and that my receipt of this firearm will not be in violation of any statute of the State and published ordinance applicable to the locality in which I reside. Further, the true title, name, and address of the principal law enforcement officer of the locality to which the firearm will be delivered are \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 > &emsp;&emsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -108,7 +108,7 @@
 
 (e) It shall be unlawful for any person knowingly to deliver or cause to be delivered to any common or contract carrier for transportation or shipment in interstate or foreign commerce, to persons other than licensed importers, licensed manufacturers, licensed dealers, or licensed collectors, any package or other container in which there is any firearm or ammunition without written notice to the carrier that such firearm or ammunition is being transported or shipped; except that any passenger who owns or legally possesses a firearm or ammunition being transported aboard any common or contract carrier for movement with the passenger in interstate or foreign commerce may deliver said firearm or ammunition into the custody of the pilot, captain, conductor or operator of such common or contract carrier for the duration of the trip without violating any of the provisions of this chapter. No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.
 
-(f)(1) It shall be unlawful for any common or contract carrier to transport or deliver in interstate or foreign commerce any firearm or ammunition with knowledge or reasonable cause to believe that the shipment transportation, or receipt thereof would be in violation of the provisions of this chapter.
+(f)(1) It shall be unlawful for any common or contract carrier to transport or deliver in interstate or foreign commerce any firearm or ammunition with knowledge or reasonable cause to believe that the shipment, transportation, or receipt thereof would be in violation of the provisions of this chapter.
 
 (2) It shall be unlawful for any common or contract carrier to deliver in interstate or foreign commerce any firearm without obtaining written acknowledgement of receipt from the recipient of the package or other container in which there is a firearm.
 
@@ -118,7 +118,7 @@
 
 &emsp;(2) who is a fugitive from justice;
 
-&emsp;(3) who is an unlawful user of or addicted to any controlled substance (as defined in section102 of the Controlled Substances Act (21 U.S.C. 802));
+&emsp;(3) who is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802));
 
 &emsp;(4) who has been adjudicated as a mental defective or who has been committed to a mental institution;
 
@@ -152,13 +152,13 @@
 
 &emsp;(2) to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce.
 
-(i) It shall be unlawful for any person to transport or ship in interstate or foreign commerce, any stolen firearms or stolen ammunition, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
+(i) It shall be unlawful for any person to transport or ship in interstate or foreign commerce, any stolen firearm or stolen ammunition, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
 (j) It shall be unlawful for any person to receive, possess, conceal, store, barter, sell, or dispose of any stolen firearm or stolen ammunition, or pledge or accept as security for a loan any stolen firearm or stolen ammunition, which is moving as, which is a part of, which constitutes, or which has been shipped or transported in, interstate or foreign commerce, either before or after it was stolen, knowing or having reasonable cause to believe that the firearm or ammunition was stolen.
 
 (k) It shall be unlawful for any person knowingly to transport, ship, or receive, in interstate or foreign commerce, any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered or to possess or receive any firearm which has had the importer's or manufacturer's serial number removed, obliterated, or altered and has, at any time, been shipped or transported in interstate or foreign commerce.
 
-(<i>l</i>) Except as provided in section 925(d) of this chapter, it shall be unlawful for any person knowingly to import or bring into the United States or any possession thereof any firearm or ammunition; and it shall be unlawful for any person knowingly to receive any firearm or ammunition which has been imported or brought into the United States or any possession thereof in violation of the provisions of this chapter.
+(<i>l</i>) Except as provided in section 925(d) of this chapter, it shall be unlawful for any person knowingly to import or bring into the United States or any possession thereof any firearm or ammunition; and it shall be unlawful for any person knowingly to receive any firearm or ammunition which has been imported or broughtinto the United States or any possession thereof in violation of the provisions of this chapter.
 
 (m) It shall be unlawful for any licensed importer, licensed manufacturer, licensed dealer, or licensed collector knowingly to make any false entry in, to fail to make appropriate entry in, or to fail to properly maintain, any record which he is required to keep pursuant to section 923 of this chapter or regulations promulgated thereunder.
 
@@ -182,7 +182,7 @@
 
 &emsp;(A) the term “firearm” does not include the frame or receiver of any such weapon;
 
-&emsp;(B) the term “major component” means, with respect to a firearm, the barrel, the slideor cylinder, or the frame or receiver of the firearm; and
+&emsp;(B) the term “major component” means, with respect to a firearm, the barrel, the slide or cylinder, or the frame or receiver of the firearm; and
 
 &emsp;(C) the term “Security Exemplar” means an object, to be fabricated at the direction of the Secretary, that is—
 
@@ -440,7 +440,7 @@
 
 (4) Paragraph (1) shall not apply to—
 
-&emsp;(A) the manufacture for, transfer to, or possession by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision ofa State, or a transfer to or possession by a law enforcement officer employed by such an entity for purposes of law enforcement (whether on or off duty);
+&emsp;(A) the manufacture for, transfer to, or possession by the United States or a department or agency of the United States or a State or a department, agency, or political subdivision of a State, or a transfer to or possession by a law enforcement officer employed by such an entity for purposes of law enforcement (whether on or off duty);
 
 &emsp;(B) the transfer to a licensee under title I of the Atomic Energy Act of 1954 for purposes of establishing and maintaining an on-site physical protection system and security organization required by Federal law, or possession by an employee or contractor of such licensee on-site for such purposes or off-site for purposes of licensee-authorized training or transportation of nuclear materials;
 
@@ -2206,7 +2206,7 @@ Determination of Timetables.—Not later than 6 months after the date of enactme
 
 “(b)
 
-Establishment of System.—Not later than 60 months after the date of the enactment of this Act \[Nov. 30, 1993\], the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or byother electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate section 922 of title 18, United States Code, or State law.
+Establishment of System.—Not later than 60 months after the date of the enactment of this Act \[Nov. 30, 1993\], the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate section 922 of title 18, United States Code, or State law.
 
 “(c)
 
@@ -2318,7 +2318,7 @@ Section 2(e) of Pub. L. 100–649 provided that: “The Attorney General, the Se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 923, 924, 925, 925A, 926, 2516, 5031, 5032 of this title; title 8 section 1101; title 26 section 4182; title 36 sections 40723, 40732, 40733; title 42 section 5633.
+This section is referred to in sections 923, 924, 925, 925A, 926, 1956, 2516, 5031, 5032 of this title; title 8 section 1101; title 26 section 4182; title 36 sections 40723, 40732, 40733; title 42 section 5633.
 
 <i><sup>1</sup></i><i> So in original. The word “who” probably should not appear.</i>
 

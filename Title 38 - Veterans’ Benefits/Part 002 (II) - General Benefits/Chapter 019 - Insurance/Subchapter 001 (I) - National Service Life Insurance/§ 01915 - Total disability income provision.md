@@ -8,7 +8,7 @@ The Secretary shall, except as hereinafter provided, upon application by the ins
 
 Section 620 of the National Service Life Insurance Act of 1940, referred to in text, is section 620 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 722 \[now 1922\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
-Section 602(v) of the National Service Life Insurance Act of 1940, referred to in text, is section 602(v) of actOct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(v) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section and section 721 \[now 1921\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 602(v) of the National Service Life Insurance Act of 1940, referred to in text, is section 602(v) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(v) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section and section 721 \[now 1921\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
 

@@ -1608,6 +1608,46 @@ HPV education and prevention.
 
 |  |  |
 | :--- | ---: |
+| 247b–18. | Surveillance and research regarding muscular dystrophy. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+National muscular dystrophy epidemiology program.
+
+(c)
+
+Coordination with centers of excellence.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247b–19. | Information and education. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Stipends.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
 | [247c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247c%20-%20Sexually%20transmitted%20diseases%3B%20prevention%20and%20control%20projects%20and%20programs.md) | Sexually transmitted diseases; prevention and control projects and programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -4577,9 +4617,41 @@ Interagency Coordinating Committee on the Use of Animals in Research.
 |  |  |
 | :--- | ---: |
 | [283f.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283f%20-%20Requirements%20regarding%20surveys%20of%20sexual%20behavior.md) | Requirements regarding surveys of sexual behavior. |
-| [283g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283g%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20A%2C%20%C2%A7101%28f%29%20%5Btitle%20VI%2C%20%C2%A7601%281%29%5D%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93337%2C%202681%E2%80%93387.md) | Repealed. |
+| [283g.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283g%20-%20Muscular%20dystrophy%3B%20initiative%20through%20Director%20of%20National%20Institutes%20of%20Health.md) | Muscular dystrophy; initiative through Director of National Institutes of Health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Expansion, intensification, and coordination of activities.
+
+(b)
+
+Centers of excellence.
+
+(c)
+
+Facilitation of research.
+
+(d)
+
+Coordinating Committee.
+
+(e)
+
+Plan for HHS activities.
+
+(f)
+
+Reports to Congress.
+
+(g)
+
+Public input.
+
+(h)
+
+Authorization of appropriations.
 
 #### Part B—General Provisions Respecting National Research Institutes
 
@@ -4843,6 +4915,28 @@ Graduate Training in Clinical Investigation Award.
 
 Clinical Research Curriculum Awards.
 
+|  |  |
+| :--- | ---: |
+| [284m.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20B%20-%20General%20Provisions%20Respecting%20National%20Research%20Institutes/%C2%A7%2000284m%20-%20Program%20for%20pediatric%20studies%20of%20drugs.md) | Program for pediatric studies of drugs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+List of drugs for which pediatric studies are needed.
+
+(b)
+
+Contracts for pediatric studies.
+
+(c)
+
+Process for contracts and labeling changes.
+
+(d)
+
+Authorization of appropriations.
+
 #### Part C—Specific Provisions Respecting National Research Institutes
 
 I74subpart 1—national cancer institute
@@ -4853,6 +4947,23 @@ I74subpart 1—national cancer institute
 | [285a.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20C%20-%20Specific%20Provisions%20Respecting%20National%20Research%20Institutes/Subpart%20001%20-%20National%20Cancer%20Institute/%C2%A7%2000285a%20-%20National%20Cancer%20Program.md) | National Cancer Program. |
 | 285a–1. | Cancer control programs. |
 | 285a–2. | Special authorities of Director. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Information and education program.
+
+(b)
+
+National Cancer Program.
+
+(c)
+
+Pre-clinical models to evaluate promising pediatric cancer therapies.
+
+|  |  |
+| :--- | ---: |
 | 285a–3. | National cancer research and demonstration centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -7328,37 +7439,33 @@ Board of Directors.
 
 (e)
 
-Redesignated (g).
+Incorporation.
 
 (f)
 
-Incorporation.
+Nonprofit status.
 
 (g)
 
-Nonprofit status.
+Executive Director.
 
 (h)
 
-Executive Director.
+Powers.
 
 (i)
 
-Powers.
+Administrative control.
 
 (j)
 
-Administrative control.
+General provisions.
 
 (k)
 
-General provisions.
-
-(<i>l</i>)
-
 Duties of Director.
 
-(m)
+(<i>l</i>)
 
 Funding.
 
@@ -9011,6 +9118,10 @@ Duration of awards.
 (f)
 
 Authorization of appropriations.
+
+(g)
+
+Short title.
 
 #### Part H—Requirement Relating to the Rights of Residents of Certain Facilities
 
@@ -18110,7 +18221,7 @@ Definitions relating to markets and small employers.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 217a–1, 247b–4a, 300a–7, 300a–29, 701, 1320a–1, 1320a–7b, 1396r–4, 1437d, 3013, 14402 of this title; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
+This chapter is referred to in sections 217a–1, 247b–4a, 300a–7, 300a–29, 701, 1320a–1, 1320a–7b, 1396r–4, 1437d, 3013, 3796gg, 14402 of this title; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
 
 
 ---

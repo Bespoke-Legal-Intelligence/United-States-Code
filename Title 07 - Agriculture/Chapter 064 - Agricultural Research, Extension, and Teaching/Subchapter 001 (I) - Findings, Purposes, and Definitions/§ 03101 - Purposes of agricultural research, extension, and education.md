@@ -8,7 +8,7 @@ The purposes of federally supported agricultural research, extension, and educat
 
 &emsp;(3) develop new uses and new products for agricultural commodities, such as alternative fuels, and develop new crops;
 
-&emsp;(4) support agricultural research and extension to promote economic opportunity in rural communities and to meet the increasing demand for information and technology transferthroughout the United States agriculture industry;
+&emsp;(4) support agricultural research and extension to promote economic opportunity in rural communities and to meet the increasing demand for information and technology transfer throughout the United States agriculture industry;
 
 &emsp;(5) improve risk management in the United States agriculture industry;
 
@@ -22,7 +22,7 @@ The purposes of federally supported agricultural research, extension, and educat
 
 #### Prior Provisions
 
-A prior section 3101, Pub. L. 95–113, title XIV, §1402, Sept. 29, 1977, 91 Stat. 981; Pub. L. 97–98, title XIV, §1402, Dec. 22, 1981, 95 Stat. 1294; Pub. L. 99–198, title XIV, §1402, Dec. 23, 1985, 99 Stat. 1542, stated Congressional findings, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(A), Nov. 28, 1990, 104 Stat. 3704.
+A prior section 3101, Pub. L. 95–113, title XIV, §1402, Sept. 29, 1977, 91 Stat. 981; Pub. L. 97–98, title XIV, §1402, Dec. 22, 1981, 95 Stat. 1294; Pub. L. 99–198, titleXIV, §1402, Dec. 23, 1985, 99 Stat. 1542, stated Congressional findings, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(A), Nov. 28, 1990, 104 Stat. 3704.
 
 #### Amendments
 

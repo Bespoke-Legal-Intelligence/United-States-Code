@@ -4,7 +4,7 @@ Section, acts June 17, 1930, ch. 497, title III, §303, 46 Stat. 687; Jan. 3, 19
 
 #### Effective Date of Repeal
 
-Section 261(a) of title II of Pub. L. 103–465 provided that this section is repealed “effective on the effectivedate of this title \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\]”.
+Section 261(a) of title II of Pub. L. 103–465 provided that this section is repealed “effective on the effective date of this title \[Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under section 1671 of this title\]”.
 
 #### Savings Provision
 

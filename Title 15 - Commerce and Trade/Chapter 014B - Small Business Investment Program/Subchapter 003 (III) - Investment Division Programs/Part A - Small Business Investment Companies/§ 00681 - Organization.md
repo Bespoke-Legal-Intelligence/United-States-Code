@@ -40,7 +40,7 @@ The articles of any small business investment company shall specify in general t
 
 &emsp;&emsp;(B) shall take into consideration—
 
-&emsp;&emsp;&emsp;(i) the need for and availability of financing for small business concerns in thegeographic area in which the applicant is to commence business;
+&emsp;&emsp;&emsp;(i) the need for and availability of financing for small business concerns in the geographic area in which the applicant is to commence business;
 
 &emsp;&emsp;&emsp;(ii) the general business reputation of the owners and management of the applicant; and
 

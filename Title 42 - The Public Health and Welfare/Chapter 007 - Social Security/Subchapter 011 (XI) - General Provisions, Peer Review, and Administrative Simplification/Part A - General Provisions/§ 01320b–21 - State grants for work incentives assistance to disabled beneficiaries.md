@@ -32,7 +32,7 @@ In order to receive payments under this section, a protection and advocacy syste
 
 #### (2) Inflation adjustment
 
-&emsp;For each fiscal year in which the total amount appropriated to carry out this section exceeds the total amount appropriated tocarry out this section in the preceding fiscal year, the Commissioner shall increase each minimum payment under subparagraphs (A) and (B) of paragraph (1) by a percentage equal to the percentage increase in the total amount so appropriated to carry out this section.
+&emsp;For each fiscal year in which the total amount appropriated to carry out this section exceeds the total amount appropriated to carry out this section in the preceding fiscal year, the Commissioner shall increase each minimum payment under subparagraphs (A) and (B) of paragraph (1) by a percentage equal to the percentage increase in the total amount so appropriated to carry out this section.
 
 #### (e) Annual report
 

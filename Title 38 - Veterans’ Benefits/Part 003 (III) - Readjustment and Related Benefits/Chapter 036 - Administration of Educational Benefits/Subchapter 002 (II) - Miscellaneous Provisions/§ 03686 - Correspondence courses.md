@@ -70,7 +70,7 @@ Section 2004(b) of Pub. L. 97–35 provided that: “The amendment made by subse
 
 Amendment by sections 203(2) and 213(2) of Pub. L. 96–466 effective Oct. 1, 1980, and Jan. 1, 1981, respectively, see section 802(b) of Pub. L. 96–466, set out as a note under section 3482 of this title.
 
-Amendment by section 604 of Pub. L. 96–466 effective Oct. 1, 1980, except that such amendment not applicable to any person receiving educational assistance under chapter 34 or 35 of this title on Sept. 1, 1980, for the pursuit of a program of education in which such person is enrolled on that date, for as long as such person continuously thereafter is so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under the provisions of such chapter and chapter 36 of this title as in effect on that date, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
+Amendment by section 604 of Pub. L. 96–466 effective Oct. 1, 1980, except that such amendment not applicable to any person receiving educational assistance under chapter 34 or 35 of this title on Sept. 1, 1980, for the pursuit of a program of education in which such person is enrolled on that date, for as long as such person continuously thereafter is so enrolled and meets the requirements of eligibility for such assistance for thepursuit of such program under the provisions of such chapter and chapter 36 of this title as in effect on that date, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
 
 #### Effective Date of 1977 Amendment
 

@@ -4,7 +4,7 @@
 
 #### (1) Civil rights
 
-&emsp;In an action brought by a complaining party under section 706 or 717 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5, 2000e–16\] against a respondent who engaged in unlawful intentionaldiscrimination (not an employment practice that is unlawful because of its disparate impact) prohibited under section 703, 704, or 717 of the Act \[42 U.S.C. 2000e–2, 2000e–3, 2000e–16\], and provided that the complaining party cannot recover under section 1981 of this title, the complaining party may recover compensatory and punitive damages as allowed in subsection (b) of this section, in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
+&emsp;In an action brought by a complaining party under section 706 or 717 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–5, 2000e–16\] against a respondent who engaged in unlawful intentional discrimination (not an employment practice that is unlawful because of its disparate impact) prohibited under section 703, 704, or 717 of the Act \[42 U.S.C. 2000e–2, 2000e–3, 2000e–16\], and provided that the complaining party cannot recover under section 1981 of this title, the complaining party may recover compensatory and punitive damages as allowed in subsection (b) of this section, in addition to any relief authorized by section 706(g) of the Civil Rights Act of 1964, from the respondent.
 
 #### (2) Disability
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) in the case of a respondent who has more than 200 and fewer than 501 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $200,000; and
 
-&emsp;&emsp;(D) in the case of a respondent who has more than 500 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $300,000.
+&emsp;&emsp;(D) in the case of a respondent who has more than 500 employees in each of 20 ormore calendar weeks in the current or preceding calendar year, $300,000.
 
 #### (4) Construction
 

@@ -24,7 +24,7 @@ The provisions of section 193d of title 40 shall not be applicable to any class,
 
 #### (f) Regulations
 
-The provisions of this section shall be carried out in accordance with regulations which shallbe promulgated by the Sergeant at Arms and Doorkeeper of the Senate and subject to approval at the beginning of each Congress by the Committee on Rules and Administration of the Senate.
+The provisions of this section shall be carried out in accordance with regulations which shall be promulgated by the Sergeant at Arms and Doorkeeper of the Senate and subject to approval at the beginning of each Congress by the Committee on Rules and Administration of the Senate.
 
 (Pub. L. 101–163, title I, §4, Nov. 21, 1989, 103 Stat. 1044; Pub. L. 102–90, title I, §2, Aug. 14, 1991, 105 Stat. 450.)
 

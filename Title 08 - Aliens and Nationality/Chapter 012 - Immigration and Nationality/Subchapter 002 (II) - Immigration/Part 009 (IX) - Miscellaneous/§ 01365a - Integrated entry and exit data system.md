@@ -46,7 +46,7 @@ For purposes of this section, the term “integrated entry and exit data system�
 
 #### (2) High-traffic land border ports of entry
 
-&emsp;Not later than December 31, 2004, the Attorney General shall implement the integrated entry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
+&emsp;Not later than December 31, 2004, the Attorney General shall implement the integratedentry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
 
 #### (3) Remaining data
 
@@ -122,7 +122,7 @@ Report.—
 
 &emsp;“(1)
 
-Deadline.—Not later than December 31 of each year following the development of the system under subsection (a) of this section, the Attorney General shall submit an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate on such system.
+Deadline.—Not later than December 31 of each year following the development of the system under subsection (a) of this section, the Attorney Generalshall submit an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate on such system.
 
 &emsp;“(2)
 
@@ -144,13 +144,49 @@ Pub. L. 105–259 in introductory provisions, substituted “October 15, 1998”
 
 Subsec. (a)(3). Pub. L. 105–277, §116(2)–(4), added par. (3).
 
-#### Task Force
+#### Visa Integrity and Security
 
-Pub. L. 106–215, §3, June 15, 2000, 114 Stat. 339, provided that:
+Pub. L. 107–56, title IV, §414, Oct. 26, 2001, 115 Stat. 353, provided that:
 
 “(a)
 
-Establishment.—Not later than 6 months after the date of the enactment of this Act \[June 15, 2000\], the Attorney General, in consultation with the Secretary of State, the Secretary of Commerce, and the Secretary of the Treasury, shall establish a task force to carry out the duties described in subsection (c) (in this section referred to as the ‘Task Force’).
+Sense of Congress Regarding the Need To Expedite Implementation of Integrated Entry and Exit Data System.—
+
+&emsp;“(1)
+
+Sense of congress.—In light of the terrorist attacks perpetrated against the United States on September 11, 2001, it is the sense of the Congress that—
+
+&emsp;&emsp;“(A) the Attorney General, in consultation with the Secretary of State, should fully implement the integrated entry and exit data system for airports, seaports, and land border ports of entry, as specified in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1365a), with all deliberate speed and as expeditiously as practicable; and
+
+&emsp;&emsp;“(B) the Attorney General, in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of the Treasury, and the Office of Homeland Security, should immediately begin establishing the Integrated Entry and Exit Data System Task Force, as described in section 3 of the Immigration and Naturalization Service Data Management Improvement Act of 2000 (Public Law 106–215) \[set out as a note below\].
+
+&emsp;“(2)
+
+Authorization of appropriations.—There is authorized to be appropriated such sums as may be necessary to fully implement the system described in paragraph (1)(A).
+
+“(b)
+
+Development of the System.—In the development of the integrated entry and exit data system under section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1365a), the Attorney General and the Secretary of State shall particularly focus on—
+
+&emsp;“(1) the utilization of biometric technology; and
+
+&emsp;“(2) the development of tamper-resistant documents readable at ports of entry.
+
+“(c)
+
+Interface With Law Enforcement Databases.—The entry and exit data system described in this section shall be able to interface with law enforcement databases for use by Federal law enforcement to identify and detain individuals who pose a threat to the national security of the United States.
+
+“(d)
+
+Report on Screening Information.—Not later than 12 months after the date of enactment of this Act \[Oct. 26, 2001\], the Office of Homeland Security shall submit a report to Congress on the information that is needed from any United States agency to effectively screen visa applicants and applicants for admission to the United States to identify those affiliated with terrorist organizations or those that pose any threat to the safety or security of the United States, including the type of information currently received by United States agencies and the regularity with which such information is transmitted to the Secretary of State and the Attorney General.”
+
+#### Task Force
+
+Pub. L. 106–215, §3, June 15, 2000, 114 Stat. 339, as amended by Pub. L. 107–56, title IV, §415, Oct. 26, 2001, 115 Stat. 354, provided that:
+
+“(a)
+
+Establishment.—Not later than 6 months after the date of the enactment of this Act \[June 15, 2000\], the Attorney General, in consultation with the Secretary of State, the Secretary of Commerce, the Secretary of the Treasury, and the Office of Homeland Security\[,\] shall establish a task force to carry out the duties described in subsection (c) (in this section referred to as the ‘Task Force’).
 
 “(b)
 
@@ -206,7 +242,7 @@ Duties.—The Task Force shall evaluate the following:
 
 &emsp;“(2) How the United States can improve the flow of traffic at airports, seaports, and land border ports of entry through—
 
-&emsp;&emsp;“(A) enhancing systems for data collection and data sharing, including the integrated entry and exit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C.1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
+&emsp;&emsp;“(A) enhancing systems for data collection and data sharing, including the integrated entry andexit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
 
 &emsp;&emsp;“(B) increasing cooperation between the public and private sectors;
 

@@ -36,7 +36,7 @@ In exercising the authority and discharging the functions referred to in the for
 
 #### (f) Annual report to the President and Congress
 
-The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it maydeem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
+The Foundation shall render an annual report to the President for submission on or before the 15th day of April of each year to the Congress summarizing the activities of the Foundation and making such recommendations as it may deem appropriate. Such report shall include information as to the acquisition and disposition by the Foundation of any patents and patent rights.
 
 #### (g) Support of access to computer networks
 
@@ -104,7 +104,7 @@ Subsec. (b). Pub. L. 90–407 redesignated former subsec. (a)(3) as (b) and subs
 
 Subsec. (c). Pub. L. 90–407 added subsec. (c). Former subsec. (c) redesignated (f).
 
-Subsec. (d). Pub. L. 90–407 redesignated former subsec. (a)(1) as (d) and substituted provisions authorizing theBoard and the Director to recommend and encourage national policies promoting basic research and education in the sciences for provisions authorizing and directing the Foundation to develop and encourage such policies.
+Subsec. (d). Pub. L. 90–407 redesignated former subsec. (a)(1) as (d) and substituted provisions authorizing the Board and the Director to recommend and encourage national policies promoting basic research and education in the sciences for provisions authorizing and directing the Foundation to develop and encourage such policies.
 
 Subsec. (e). Pub. L. 90–407 redesignated former subsec. (b) as (e), substituted “the foregoing subsections” for “subsection (a) of this section”, “strengthen research” for “strengthen basic research”, and struck out reference to the territories and possessions of the United States.
 
@@ -256,7 +256,7 @@ Section 11(1) of Pub. L. 90–407 provided in part that the authorization for th
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Section 16 of Pub. L. 90–407 provided that: “Except as otherwise specifically provided therein, the amendments made by this Act \[enacting section 1864a of thistitle, amending sections 1862 to 1866, 1868 to 1870, 1872 to 1875, and 1877 of this title, sections 5313, 5314, and 5316 of Title 5, Government Organization and Employees, repealing sections 1867 and 1872a of this title, and enacting provisions set out as a note under section 5313 of Title 5\] are intended to continue in effect under the National Science Foundation Act of 1950 \[this chapter\] the existing offices, procedures, and organization of the National Science Foundation as provided by such Act, \[this chapter\] part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965 \[set out as a note under section 1861 of this title\]. From and after the date of the enactment of this Act \[July 18, 1968\], part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965, shall be of no force or effect; but nothing in this Act shall alter or affect any transfers of functions made by part I of such Reorganization Plan Numbered 2 of 1962.”
+Section 16 of Pub. L. 90–407 provided that: “Except as otherwise specifically provided therein, the amendments made by this Act \[enacting section 1864a of this title, amending sections 1862 to 1866, 1868 to 1870, 1872 to 1875, and 1877 of this title, sections 5313, 5314, and 5316 of Title 5, Government Organization and Employees, repealing sections 1867 and 1872a of this title, and enacting provisions set out as a note under section 5313 of Title 5\] are intended to continue in effect under the National Science Foundation Act of 1950 \[this chapter\] the existing offices, procedures, and organization of the National Science Foundation as provided by such Act, \[this chapter\] part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965 \[set out as a note under section 1861 of this title\]. From and after the date of the enactment of this Act \[July 18, 1968\], part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965, shall be of no force or effect; but nothing in this Act shall alter or affect any transfers of functions made by part I of such Reorganization Plan Numbered 2 of 1962.”
 
 #### Investigation of Need for Geophysical Institute in Territory of Hawaii
 
@@ -294,7 +294,7 @@ Sec. 10. The National Science Foundation shall provide leadership in the effecti
 
 #### Executive Order No. 10807
 
-Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science and Technology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled “Establishing the Interdepartmental Committee on Scientific Research and Development”, and amended Ex. Ord. No. 10521, set out above, was omitted from the Code in view of Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, setout below, which abolished the Federal Council for Science and Technology.
+Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science and Technology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled “Establishing the Interdepartmental Committee on Scientific Research and Development”, and amended Ex. Ord. No. 10521, set out above, was omitted from the Code in view of Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, set out below, which abolished the Federal Council for Science and Technology.
 
 #### Abolition of Federal Council for Science and Technology
 

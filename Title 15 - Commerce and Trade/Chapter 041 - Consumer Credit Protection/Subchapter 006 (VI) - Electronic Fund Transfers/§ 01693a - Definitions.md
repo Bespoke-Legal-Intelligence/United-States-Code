@@ -12,7 +12,7 @@ As used in this subchapter—
 
 &emsp;(5) the term “consumer” means a natural person;
 
-&emsp;(6) the term “electronic fund transfer” means any transfer of funds, other than a transaction originated by check, draft, or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument, or computer or magnetic tape so as to order, instruct, or authorize a financial institution to debit or credit an account. Such term includes, but is not limited to, point-of-sale transfers, automated teller machine transactions, direct deposits or withdrawals of funds, and transfers initiated by telephone. Such term does not include—
+&emsp;(6) the term “electronic fund transfer” means any transfer of funds, other than a transaction originated by check, draft, or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument, or computer or magnetic tape so asto order, instruct, or authorize a financial institution to debit or credit an account. Such term includes, but is not limited to, point-of-sale transfers, automated teller machine transactions, direct deposits or withdrawals of funds, and transfers initiated by telephone. Such term does not include—
 
 &emsp;&emsp;(A) any check guarantee or authorization service which does not directly result in a debit or credit to a consumer's account:
 

@@ -12,7 +12,7 @@ Any benefits received by an employee under an agreement entered into pursuant to
 
 &emsp;(1) the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.); and
 
-&emsp;(2) determining the compensation received by such employee in any base year under theRailroad Unemployment Insurance Act (45 U.S.C. 351 et seq.).
+&emsp;(2) determining the compensation received by such employee in any base year under the Railroad Unemployment Insurance Act (45 U.S.C. 351 et seq.).
 
 (Pub. L. 93–236, title VII, §705, as added Pub. L. 97–35, title XI, §1143(a), Aug. 13, 1981, 95 Stat. 664.)
 

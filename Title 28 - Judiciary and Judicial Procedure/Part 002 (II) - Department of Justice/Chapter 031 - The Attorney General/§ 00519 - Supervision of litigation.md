@@ -26,7 +26,7 @@ The words “special attorneys appointed under section 543” are substituted fo
 
 #### Case Management Information and Tracking Systems for Federal Judicial Districts and Divisions of Department; Preparation, Submission, Etc., of Plan
 
-Pub. L. 96–132, §11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts ofthe United States and for each of the divisions of the Department.
+Pub. L. 96–132, §11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
 
 #### Report to Congress Regarding Provisions of Law Considered Unconstitutional by the Department of Justice; Declaration of Such Position
 
@@ -162,13 +162,13 @@ Sec. 4. <i>Principles to Promote Just and Efficient Administrative Adjudications
 
 (c) <i>Bias</i>. All Federal agencies should review their administrative adjudicatory processes to identify any type of bias on the part of the decision-makers that results in an injustice to persons who appear before administrative adjudicatory tribunals; regularly train all fact-finders, administrative law judges, and other decision-makers to eliminate such bias; and establish appropriate mechanisms to receive and resolve complaints of such bias from persons who appear before administrative adjudicatory tribunals.
 
-(d) <i>Public Education</i>. All Federal agencies should develop effective and simple methods, including the useof electronic technology, to educate the public about its claims/benefits policies and procedures.
+(d) <i>Public Education</i>. All Federal agencies should develop effective and simple methods, including the use of electronic technology, to educate the public about its claims/benefits policies and procedures.
 
 Sec. 5. <i>Coordination by the Department of Justice.</i>
 
 (a) The Attorney General shall coordinate efforts by Federal agencies to implement sections 1, 2 and 4 of this order.
 
-(b) To implement the principles and purposes announced by this order, the Attorney General is authorized to issue guidelines implementing sections 1 and 4 of this order for the Department of Justice. Such guidelines shall serve as models for internal guidelines that may be issued by other agencies pursuant to this order.
+(b) To implement the principles and purposes announced by this order, the Attorney General is authorized to issue guidelines implementing sections 1 and 4of this order for the Department of Justice. Such guidelines shall serve as models for internal guidelines that may be issued by other agencies pursuant to this order.
 
 Sec. 6. <i>Definitions</i>. For purposes of this order:
 

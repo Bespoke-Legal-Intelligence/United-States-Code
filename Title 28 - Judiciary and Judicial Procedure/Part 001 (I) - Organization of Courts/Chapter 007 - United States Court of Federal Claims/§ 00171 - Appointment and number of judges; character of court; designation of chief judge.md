@@ -34,7 +34,7 @@ Minor changes were made in arrangement and phraseology.
 
 #### Change of Name
 
-Section 902(b) of Pub. L. 102–572 provided that: “Reference in any other Federal law \[meaning any Federal law other than chapters 7, 51, 91, and 165 of this title\] or any document to—
+Section 902(b) of Pub. L. 102–572 provided that: “Reference in any other Federal law \[meaning any Federallaw other than chapters 7, 51, 91, and 165 of this title\] or any document to—
 
 &emsp;“(1) the ‘United States Claims Court’ shall be deemed to refer to the ‘United States Court of Federal Claims’; and
 
@@ -46,7 +46,7 @@ Section 911 of title IX of Pub. L. 102–572 provided that: “This title \[see 
 
 #### Effective Date of 1982 Amendment
 
-Section 402 of Pub. L. 97–164 provided that: “Unless otherwise specified, the provisions of this Act \[seeShort Title of 1982 Amendment note set out under section 1 of this title\] shall take effect on October 1, 1982.”
+Section 402 of Pub. L. 97–164 provided that: “Unless otherwise specified, the provisions of this Act \[see Short Title of 1982 Amendment note set out under section 1 of this title\] shall take effect on October 1, 1982.”
 
 #### Continued Service of Commissioners of Court of Claims as Judges
 

@@ -42,7 +42,7 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 #### (B) Qualified appraiser
 
-&emsp;&emsp;The term “qualified appraiser” means any appraiser meeting the requirements of theregulations prescribed under section 170(a)(1).
+&emsp;&emsp;The term “qualified appraiser” means any appraiser meeting the requirements of the regulations prescribed under section 170(a)(1).
 
 #### (C) Qualified appraisal
 

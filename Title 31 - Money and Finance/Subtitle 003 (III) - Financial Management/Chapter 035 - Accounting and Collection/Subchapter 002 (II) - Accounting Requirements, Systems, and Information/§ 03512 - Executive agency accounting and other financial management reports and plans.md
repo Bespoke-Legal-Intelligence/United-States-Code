@@ -24,7 +24,7 @@
 
 &emsp;(F) any other information the Director considers appropriate to fully inform the Congress regarding the financial management of the Federal Government.
 
-(3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, andagency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
+(3)(A) A governmentwide 5-year financial management plan under this subsection shall describe the activities the Director, the Deputy Director for Management, the Controller of the Office of Federal Financial Management, and agency Chief Financial Officers shall conduct over the next 5 fiscal years to improve the financial management of the Federal Government.
 
 (B) Each governmentwide 5-year financial management plan prepared under this subsection shall—
 
@@ -208,7 +208,7 @@ In subsection (c)(3)(A), the words “provision of” are omitted as surplus.
 
 #### References in Text
 
-The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrativecontrol systems are restated in subsec. (d)(2) and (3) of this section.
+The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
 
 The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under this section. Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
 
@@ -266,7 +266,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(5) To rebuild the accountability and credibility of the Federal Government, and restore public confidence in the Federal Government, agencies must incorporate accounting standards and reporting objectives established for the Federal Government into their financial management systems so that all the assets and liabilities, revenues, and expenditures or expenses, and the full costs of programs and activities of the Federal Government can be consistently and accurately recorded, monitored, and uniformly reported throughout the Federal Government.
 
-&emsp;“(6) Since its establishment in October 1990, the Federal Accounting Standards Advisory Board (hereinafter referred to as the ‘FASAB’) has made substantial progress toward developing and recommending a comprehensive set of accounting concepts and standards for the Federal Government. When the accounting concepts and standards developed by FASAB are incorporated into Federal financial management systems, agencies will be able to provide cost and financial information that will assist the Congress and financial managers to evaluate the cost and performance of Federal programs and activities, and will therefore provide important information that has been lacking, but is needed for improved decision making by financial managers and the Congress.
+&emsp;“(6) Since its establishment in October 1990, the Federal Accounting Standards Advisory Board (hereinafter referred to as the ‘FASAB’) has made substantial progress toward developing and recommending a comprehensive set of accounting concepts and standards for the Federal Government. When the accounting concepts and standards developed by FASAB are incorporated into Federal financial management systems, agencies will be able to provide cost and financial information that will assist the Congress and financial managers to evaluate the cost and performance of Federal programs and activities, and willtherefore provide important information that has been lacking, but is needed for improved decision making by financial managers and the Congress.
 
 &emsp;“(7) The development of financial management systems with the capacity to support these standards and concepts will, over the long term, improve Federal financial management.
 
@@ -292,7 +292,7 @@ Purpose\[.\]—The purposes of this Act \[title\] are to—
 
 “(a)
 
-In General.—Each agency shall implement and maintain financial management systems that complysubstantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
+In General.—Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
 
 “(b)
 
@@ -446,7 +446,7 @@ Mixed system.—The term ‘mixed system’ means an information system that sup
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 902, 3511, 3521, 5134, 7502 of this title; title 10 sections 3022, 5025, 8022; title 22 section 2421.
+This section is referred to in sections 902, 3511, 3521, 5134, 7502 of this title; title 10 sections 3022, 5025, 8022; title 22 section 2421; title 44 section 3534.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

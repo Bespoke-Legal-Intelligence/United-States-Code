@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) during the previous year the country has cooperated fully with the United States, or has taken adequate steps on its own, to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances; or
 
-&emsp;&emsp;(B) for a country that would not otherwise qualify for certification under subparagraph (A), the vital national interests of the United States require that the assistance withheld pursuant to subsection (a)(1) of thissection be provided and that the United States not vote against multilateral development bank assistance for that country pursuant to subsection (a)(2) of this section.
+&emsp;&emsp;(B) for a country that would not otherwise qualify for certification under subparagraph (A), the vital national interests of the United States require that the assistance withheld pursuant to subsection (a)(1) of this section be provided and that the United States not vote against multilateral development bank assistance for that country pursuant to subsection (a)(2) of this section.
 
 #### (2) Considerations regarding cooperation
 
@@ -120,29 +120,33 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Certification for Major Illicit Drug Producing and Drug Transit Countries
 
-Determination of President of the United States, No. 2000–16, Feb. 29, 2000, 65 F.R. 15797, provided:
+Determination of President of the United States, No. 2001–12, Mar. 1, 2001, 66 F.R. 14454, provided:
 
 Memorandum for the Secretary of State
 
-By virtue of the authority vested in me by section 490(b)(1)(A) of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2291j(b)(1)(A)\] (the “Act”), I hereby determine and certify that the following major illicit drug producing and/or major illicit drug transit countries (and certain jurisdictions) have cooperated fully with the United States, or have taken adequate steps on their own, to achieve full compliance with the goals and objectives of the 1988 United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances:
+By virtue of the authority vested in me by section 490(b)(1)(A) of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2291j(b)(1)(A)\] (the “Act”), I hereby determine and certify that the following major illicit drug producing and/or major illicit drug transit countries have cooperated fully with the United States, or have taken adequate steps on their own, to achieve full compliance with the goals and objectives of the 1988 United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances:
 
-&emsp;The Bahamas, Bolivia, Brazil, China, Colombia, Dominican Republic, Ecuador, Guatemala, Hong Kong, India, Jamaica, Laos, Mexico, Pakistan, Panama, Peru, Taiwan, Thailand, Venezuela, and Vietnam.
+&emsp;The Bahamas, Bolivia, Brazil, People's Republic of China, Colombia, Dominican Republic, Ecuador, Guatemala, India, Jamaica, Laos, Mexico, Nigeria, Pakistan, Panama, Paraguay, Peru, Thailand, Venezuela, and Vietnam
 
-By virtue of the authority vested in me by section 490(b)(1)(B) of the Act, I hereby determine that it is in the vital national interests of the United States to certify the following major illicit drug producing and/or major illicit drug transit countries:
+By virtue of the authority vested in me by section 490(b)(1)(B) of the Act, I hereby determine and certify that, for the following major illicit drug producing and/or major illicit drug transit countries that do not qualify for certification under section 490(b)(1)(A), the vital national interests of the United States require that assistance not be withheld and that the United States not vote against multilateral development bank assistance:
 
-&emsp;Cambodia, Haiti, Nigeria, and Paraguay.
+&emsp;Cambodia and Haiti
 
-I have determined that the following major illicit drug producing and/or major illicit drug transit countries do not meet the standards set forth in section 490(b) for certification:
+Analysis of the relevant U.S. vital national interests and risks posed thereto, as required under section 490(b)(3) of the Act, is attached for these countries \[not set out in the Code\].
 
-&emsp;Afghanistan, Burma.
+I have determined that the following major illicit drug producing and/or major illicit drug transit countries do not meet the standards for certification set forth in section 490(b):
 
-In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2000. Analysis of the relevant U.S. vital national interests, as required under section 490(b)(3) of the Act in the case of the countries certified on this basis, is attached \[not set out in the Code\]. Given that the performance of all of these countries/jurisdictions has differed, I have also attached an explanatory statement for each of the other countries/jurisdictions subject to this determination \[not set out in the Code\].
+&emsp;Afghanistan and Burma
 
-You are hereby authorized and directed to publish this determination in the Federal Register.
+In making these determinations, I have considered the factors set forth in section 490 of the Act, based on the information contained in the International Narcotics Control Strategy Report of 2001. Given that the performance of each of these countries has differed, I have attached an explanatory statement for each of the countries subject to this determination \[not set out in the Code\].
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+You are hereby authorized and directed to report this determination to the Congress immediately and to publish it in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior certifications for major narcotics producing and transit countries were contained in the following:
+
+Determination of President of the United States, No. 2000–16, Feb. 29, 2000, 65 F.R. 15797.
 
 Determination of President of the United States, No. 99–15, Feb. 26, 1999, 64 F.R. 11319.
 

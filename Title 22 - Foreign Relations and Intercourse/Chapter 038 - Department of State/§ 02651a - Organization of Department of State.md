@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(ii) Preparing the statements and reports to Congress required under section 2304 of this title.
 
-&emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of the Agency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework underwhich section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
+&emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of theAgency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework under which section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
 
 &emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
 
@@ -92,7 +92,7 @@ The officer of the Department of State with primary responsibility for assisting
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, known as the State Department Basic Authorities Act of 1956, which enacted sections 2651a, 2669 to 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, and 2696 to 2724 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1956 Amendment note set out under section 2651 of this title and Tables.
+This Act, referred to in subsec. (a)(1), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, as amended, known as the State Department Basic Authorities Act of 1956, which enacted sections 2651a, 2669 to 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, and 2696 to 2724 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
 #### Codification
 

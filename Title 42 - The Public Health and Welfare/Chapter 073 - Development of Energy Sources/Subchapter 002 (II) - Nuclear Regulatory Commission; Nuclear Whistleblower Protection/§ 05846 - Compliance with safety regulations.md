@@ -20,7 +20,7 @@ The requirements of this section shall be prominently posted on the premises of 
 
 #### (d) Inspection and enforcement
 
-The Commission is authorized to conduct such reasonable inspections and other enforcementactivities as needed to insure compliance with the provisions of this section.
+The Commission is authorized to conduct such reasonable inspections and other enforcement activities as needed to insure compliance with the provisions of this section.
 
 (Pub. L. 93–438, title II, §206, Oct. 11, 1974, 88 Stat. 1246.)
 

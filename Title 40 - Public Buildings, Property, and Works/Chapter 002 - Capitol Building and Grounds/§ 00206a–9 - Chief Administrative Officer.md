@@ -10,7 +10,7 @@ There shall be within the Capitol Police an Office of Administration to be heade
 
 &emsp;(3) The Chief of the Capitol Police shall appoint as Chief Administrative Officer an individual with the knowledge and skills necessary to carry out the responsibilities for budgeting, financial management, information technology, and human resource management described in this section.
 
-&emsp;(4) The Chief Administrative Officer shall receive basic pay at a rate determined by the Capitol Police Board, but not to exceed the annual rate of basic pay payable for ES–2 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title).
+&emsp;(4) The Chief Administrative Officer shall receive basic pay at a rate determined by the Chief of the Capitol Police, but not to exceed $1,000 less than the annual rate of pay for the Chief of the Capitol Police.
 
 &emsp;(5) The Capitol Police shall reimburse from available appropriations any costs incurred by the Comptroller General under this section, which shall be deposited to the appropriation of the General Accounting Office then available and remain available until expended.
 
@@ -62,7 +62,7 @@ The Chief Administrative Officer shall have the following areas of responsibilit
 
 &emsp;&emsp;(A) direct, coordinate, and oversee the acquisition, use, and management of information technology by the Capitol Police;
 
-&emsp;&emsp;(B) promote and oversee the use of information technology to improve the efficiencyand effectiveness of programs of the Capitol Police; and
+&emsp;&emsp;(B) promote and oversee the use of information technology to improve the efficiency and effectiveness of programs of the Capitol Police; and
 
 &emsp;&emsp;(C) establish and enforce information technology principles, guidelines, and objectives, including developing and maintaining an information technology architecture for the Capitol Police.
 
@@ -108,11 +108,17 @@ The Chief of the Capitol Police shall submit the plan required in subsection (d)
 
 As of October 1, 2002, the role of the Comptroller General, as established by this section, will cease.
 
-(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, §101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55.)
+(Pub. L. 106–554, §1(a)(2) \[title I, §108\], Dec. 21, 2000, 114 Stat. 2763, 2763A–104; Pub. L. 106–346, §101(a) \[title V, §507(a)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–55; Pub. L. 107–68, title I, §122(a), Nov. 12, 2001, 115 Stat. 576.)
 
 #### Amendments
 
+2001—Subsec. (a)(4). Pub. L. 107–68 substituted “the Chief of the Capitol Police, but not to exceed $1,000 less than the annual rate of pay for the Chief of the Capitol Police” for “the Capitol Police Board, but not to exceed the annual rate of basic pay payable for ES–2 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)”.
+
 2000—Pub. L. 106–346 amended section generally, substituting present provisions for similar provisions establishing within the Capitol Police an Office of Administration to be headed by a Chief Administrative Officer, providing that the Chief Administrative Officer would be appointed and his pay rate would be set by the Comptroller General, setting out the powers and duties of the Chief Administrative Officer, and providing that as of Oct. 1, 2002, the Chief Administrative Officer would cease to be an employee of the General Accounting Office, would become an employee of the Capitol Police, and the Capitol Police Board would assume all responsibilities of the Comptroller General under this section.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–68, title I, §122(b), Nov. 12, 2001, 115 Stat. 576, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to pay periods beginning on or after October 1, 2001.”
 
 #### Effective Date of 2000 Amendment
 

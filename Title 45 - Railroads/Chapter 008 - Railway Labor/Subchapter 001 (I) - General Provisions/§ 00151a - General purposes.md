@@ -4,11 +4,15 @@ The purposes of the chapter are: (1) To avoid any interruption to commerce or to
 
 (May 20, 1926, ch. 347, §2, 44 Stat. 577; June 21, 1934, ch. 691, §2, 48 Stat. 1186.)
 
+#### Codification
+
+Section is comprised of the first sentence of section 2 of act May 20, 1926. The remainder of section 2 of act May 20, 1926, is classified to section 152 of this title.
+
 #### Amendments
 
 1934—Act June 21, 1934, reenacted provisions comprising this section without change.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 153, 157 of this title.
+This section is referred to in sections 153, 157, 231n of this title.
 

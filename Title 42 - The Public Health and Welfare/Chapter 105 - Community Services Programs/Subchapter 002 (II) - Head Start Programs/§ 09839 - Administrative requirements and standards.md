@@ -14,7 +14,7 @@ The Secretary shall prescribe rules or regulations to supplement subsections (a)
 
 #### (d) Publication and notification of proposed rules, etc.
 
-At least 30 days prior to their effective date, all rules, regulations, and application forms shall be published in the Federal Register and shall be sent to each grantee with the notification that each such grantee has the right to submit comments pertaining thereto to the Secretary prior to the final adoption thereof.
+At least 30 days prior to their effective date, all rules, regulations, and application forms shall be published in the Federal Register andshall be sent to each grantee with the notification that each such grantee has the right to submit comments pertaining thereto to the Secretary prior to the final adoption thereof.
 
 #### (e) Neutrality concerning union organizing
 
@@ -22,7 +22,7 @@ Funds appropriated to carry out this subchapter shall not be used to assist, pro
 
 #### (f) Purchase of facility; approval requirements; financial assistance
 
-(1) The Secretary shall establish uniform procedures for Head Start agencies to request approval to purchase facilities, or to request approval of the purchase (after December 31, 1986) of facilities, to be used to carry out Head Startprograms. The Secretary shall suspend any proceedings pending against any Head Start agency to claim costs incurred in purchasing such facilities until the agency has been afforded an opportunity to apply for approval of the purchase and the Secretary has determined whether the purchase will be approved. The Secretary shall not be required to repay claims previously satisfied by Head Start agencies for costs incurred in the purchase of such facilities.
+(1) The Secretary shall establish uniform procedures for Head Start agencies to request approval to purchase facilities, or to request approval of the purchase (after December 31, 1986) of facilities, to be used to carry out Head Start programs. The Secretary shall suspend any proceedings pending against any Head Start agency to claim costs incurred in purchasing such facilities until the agency has been afforded an opportunity to apply for approval of the purchase and the Secretary has determined whether the purchase will be approved. The Secretary shall not be required to repay claims previously satisfied by Head Start agencies for costs incurred in the purchase of such facilities.
 
 (2) Financial assistance provided under this subchapter may not be used by a Head Start agency to purchase a facility (including paying the cost of amortizing the principal, and paying interest on, loans) to be used to carry out a Head Start program unless the Secretary approves a request that is submitted by such agency and contains—
 

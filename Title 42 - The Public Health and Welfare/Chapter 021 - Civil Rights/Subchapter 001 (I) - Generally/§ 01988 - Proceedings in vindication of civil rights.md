@@ -24,7 +24,7 @@ Civil Rights,’ ” meaning title 24 of the Revised Statutes, consisting of R.
 
 Title 70 of the Revised Statutes, referred to in subsec. (a), was in the original “Title ‘
 
-Crimes,’ ” meaning title 70 of the Revised Statutes, consisting of R.S. §§5323 to5550. For complete classification of R.S. §§5323 to 5550, see Tables.
+Crimes,’ ” meaning title 70 of the Revised Statutes, consisting of R.S. §§5323 to 5550. For complete classification of R.S. §§5323 to 5550, see Tables.
 
 Title IX of Public Law 92–318, referred to in subsec. (b), is title IX of Pub. L. 92–318, June 23, 1972, 86 Stat. 373, as amended, popularly known as the Education Amendments of 1972, which is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Tables.
 

@@ -6,7 +6,7 @@ The Secretary may issue permits, after notice and opportunity for public hearing
 
 #### (b) Specification for disposal sites
 
-Subject to subsection (c) of this section, each such disposal site shall be specified for each such permit by the Secretary (1) through the application of guidelines developed by the Administrator, in conjunction with the Secretary, which guidelines shall be based upon criteria comparable to the criteria applicable to the territorial seas, the contiguous zone, and the ocean under section 1343(c) of this title, and (2) in any case where such guidelines under clause (1) alone would prohibit the specification of a site, through the application additionally of the economic impact of the site on navigation and anchorage.
+Subject to subsection (c) of this section, each such disposal site shall be specified for each such permit by the Secretary (1) through the application of guidelines developed by the Administrator, in conjunction with the Secretary, which guidelines shall be based upon criteria comparable to the criteria applicable to the territorial seas, the contiguous zone, and the ocean under section 1343(c) of this title, and (2) in anycase where such guidelines under clause (1) alone would prohibit the specification of a site, through the application additionally of the economic impact of the site on navigation and anchorage.
 
 #### (c) Denial or restriction of use of defined areas as disposal sites
 
@@ -92,7 +92,7 @@ The term “Secretary” as used in this section means the Secretary of the Army
 
 (4) After the Secretary receives notification from the Administrator under paragraph (2) or (3) of this subsection that a State permit program has been approved, the Secretary shall transfer any applications for permits pending before the Secretary for activities with respect to which a permit may be issued pursuant to such State program to such State for appropriate action.
 
-(5) Upon notification from a State with a permit program approved under this subsection that such State intends to administer and enforce the terms and conditions of a general permit issued by the Secretary under subsection (e) of this section with respect to activities in such State to which such general permit applies, the Secretary shall suspend the administration and enforcement of such general permit with respect to such activities.
+(5) Upon notification from a State with a permit program approved under this subsectionthat such State intends to administer and enforce the terms and conditions of a general permit issued by the Secretary under subsection (e) of this section with respect to activities in such State to which such general permit applies, the Secretary shall suspend the administration and enforcement of such general permit with respect to such activities.
 
 #### (i) Withdrawal of approval
 
@@ -186,7 +186,7 @@ For extension of contiguous zone of United States, see Proc. No. 7219, set out a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 59c–3, 59j–1, 59y, 59bb, 59bb–1, 59cc, 59dd, 59ff, 59gg, 59hh, 426p, 1251, 1285, 1288, 1311, 1318, 1319, 1342, 1377, 2104, 2317 of this title; title 16 section 3822; title 42 section 9601.
+This section is referred to in sections 59c–3, 59j–1, 59y, 59bb, 59bb–1, 59cc, 59dd, 59ff, 59gg, 59hh, 59jj, 426p, 1251, 1285, 1288, 1311, 1318, 1319, 1342, 1377, 2104, 2317 of this title; title 16 section 3822; title 42 section 9601.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “action”.</i>
 

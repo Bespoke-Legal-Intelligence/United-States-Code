@@ -52,7 +52,7 @@ Subject to the succeeding provisions of this section, with respect to a State an
 
 #### (1) Transition in the case of child support collections
 
-&emsp;The provisions of section 606(h) of this title (as in effect on July 16, 1996) shall apply, in relation to this subchapter, with respect to individuals (and families composed of individuals) who are described in subsection (b)(1)(A) of this section, in the same manner as they applied before such date with respect to individuals who became ineligible for aid to families with dependent children as a result (wholly or partly) of the collection of child or spousal support under part D of subchapter IV of this chapter.
+&emsp;The provisions of section 606(h) of this title (as in effect on July 16, 1996) shall apply, in relation to this subchapter, with respect to individuals (and families composed of individuals) who are described in subsection (b)(1)(A) ofthis section, in the same manner as they applied before such date with respect to individuals who became ineligible for aid to families with dependent children as a result (wholly or partly) of the collection of child or spousal support under part D of subchapter IV of this chapter.
 
 #### (2) Transition in the case of earnings from employment
 
@@ -82,7 +82,7 @@ The provisions of this section shall apply notwithstanding any other provision o
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this subsection, the Secretary shall provide that with respect to administrative expendituresdescribed in paragraph (2) the per centum specified in section 1396b(a)(7) of this title shall be increased to such percentage as the Secretary specifies.
+&emsp;Subject to the succeeding provisions of this subsection, the Secretary shall provide that with respect to administrative expenditures described in paragraph (2) the per centum specified in section 1396b(a)(7) of this title shall be increased to such percentage as the Secretary specifies.
 
 #### (2) Administrative expenditures described
 
@@ -120,7 +120,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §602(b)\], Nov. 29, 1999, 1
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rulesrelating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@ Section 8380, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1530;
 
 Section 8381, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1531; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer, discharge, or withdrawal of Federal recognition of reserve officers ceasing to occupy position of adjutant general or assistant adjutant general. See section 14314(b), (c) of this title.
 
-Section 8392, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1531; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to appointment of adjutant general or assistant adjutant general in reserve commissioned grade in which Federal recognition in Air National Guard was extended. See section 12215(b) of this title.
+Section 8392, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1531; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related toappointment of adjutant general or assistant adjutant general in reserve commissioned grade in which Federal recognition in Air National Guard was extended. See section 12215(b) of this title.
 
 Section 8393, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1531, provided that sea or foreign service not to be required for promotion of reserve commissioned officers in reserve grades.
 

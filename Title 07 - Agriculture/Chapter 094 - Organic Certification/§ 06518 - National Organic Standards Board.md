@@ -24,7 +24,7 @@ The Board shall be composed of 15 members, of which—
 
 #### (c) Appointment
 
-Not later than 180 days after November 28, 1990, the Secretary shall appoint the members of the Board under paragraph (1) through (6) of subsection (b) of this section (and under subsection (b)(7) of this section at an appropriate date after the certification of individuals as certifying agents under section 6515 of this title) from nominations received from organic certifying organizations, States, and other interested persons and organizations.
+Not later than 180 days after November 28, 1990, the Secretary shall appoint the members ofthe Board under paragraph (1) through (6) of subsection (b) of this section (and under subsection (b)(7) of this section at an appropriate date after the certification of individuals as certifying agents under section 6515 of this title) from nominations received from organic certifying organizations, States, and other interested persons and organizations.
 
 #### (d) Term
 
@@ -88,7 +88,7 @@ In establishing the proposed National List or proposed amendments to the Nationa
 
 &emsp;(2) work with manufacturers of substances considered for inclusion in the proposed National List to obtain a complete list of ingredients and determine whether such substances contain inert materials that are synthetically produced; and
 
-&emsp;(3) submit to the Secretary, along with the proposed National List or any proposed amendments to such list, the results of theBoard's evaluation and the evaluation of the technical advisory panel of all substances considered for inclusion in the National List.
+&emsp;(3) submit to the Secretary, along with the proposed National List or any proposed amendments to such list, the results of the Board's evaluation and the evaluation of the technical advisory panel of all substances considered for inclusion in the National List.
 
 #### (m) Evaluation
 
@@ -102,7 +102,7 @@ In evaluating substances considered for inclusion in the proposed National List 
 
 &emsp;(4) the effect of the substance on human health;
 
-&emsp;(5) the effects of the substance on biological and chemical interactions in the agroecosystem, including the physiological effects of the substance on soil organisms (including the salt index and solubility of the soil), crops and livestock;
+&emsp;(5) the effects of the substance on biological and chemical interactions in the agroecosystem, including the physiological effectsof the substance on soil organisms (including the salt index and solubility of the soil), crops and livestock;
 
 &emsp;(6) the alternatives to using the substance in terms of practices or other available materials; and
 

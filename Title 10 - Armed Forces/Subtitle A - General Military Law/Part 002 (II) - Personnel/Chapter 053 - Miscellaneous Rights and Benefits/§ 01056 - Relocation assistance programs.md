@@ -22,7 +22,7 @@ Types of Assistance.—(1) The Secretary of each military department, under regu
 
 Military Relocation Assistance Programs.—(1) The Secretary shall provide for the establishment of military relocation assistance programs to provide the relocation assistance described in subsection (b). The Secretary shall establish such a program in each geographic area in which at least 500 members of the armed forces are assigned to or serving at a military installation. A member who is not stationed within a geographic area that contains such a program shall be given access to such a program. The Secretary shall ensure that persons on the staff of each program are trained in the techniques and delivery of professional relocation assistance.
 
-(2) The Secretary shall ensure that, not later than September 30, 1991, information available through each military relocation assistance program shall be managed through a computerized information system that can interact with all other military relocation assistance programs of the military departments, including programs located outside the continental United States.
+(2) The Secretary shall ensure that information available through each military relocation assistance program shall be managed through a computerized information system that can interact with all other military relocation assistance programs of the military departments, including programs located outside the continental United States.
 
 (3) Duties of each military relocation assistance program shall include assisting personnel offices on the military installation in using the computerized information available through the program to help provide members of the armed forces who are deciding whether to reenlist information on locations of possible future duty assignments.
 
@@ -38,13 +38,15 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 Inapplicability to Coast Guard.—This section does not apply to the Coast Guard.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amended Pub. L. 104–106, div. A, title IX, §903(d), title X, §1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.)
+(Added Pub. L. 101–510, div. A, title XIV, §1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amended Pub. L. 104–106, div. A, title IX, §903(d), title X, §1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, §1048(a)(9), Dec. 28, 2001, 115 Stat. 1223.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 101–189, div. A, title VI, §661(a)–(g), Nov. 29, 1989, 103 Stat. 1463, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 101–510, §1481(c)(3).
 
 #### Amendments
+
+2001—Subsec. (c)(2). Pub. L. 107–107 struck out “, not later than September 30, 1991,” before “information available”.
 
 1996—Subsec. (d). Pub. L. 104–106, §903(a), (d), which directed repeal of subsec. (d), eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
 

@@ -16,7 +16,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 #### (c) Discharge of committees
 
-(1) If the committee of either House to which a resolution has been referred has not reportedit at the end of 30 days after its introduction, not counting any day which is excluded under section 2194(b) of this title, it is in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution introduced with respect to the same matter, except that a motion to discharge—
+(1) If the committee of either House to which a resolution has been referred has not reported it at the end of 30 days after its introduction, not counting any day which is excluded under section 2194(b) of this title, it is in order to move either to discharge the committee from further consideration of the resolution or to discharge the committee from further consideration of any other resolution introduced with respect to the same matter, except that a motion to discharge—
 
 &emsp;(A) may only be made on the second legislative day after the calendar day on which the Member making the motion announces to the House his intention to do so; and
 
@@ -38,7 +38,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 #### (e) Floor consideration in the Senate
 
-(1) A motion in the Senate to proceed to the consideration of a resolution shall be privileged. An amendment to the motion shall not be in order, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(1) A motion in the Senate to proceed to the consideration of a resolution shall be privileged. An amendment to the motion shall not be inorder, nor shall it be in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (2) Debate in the Senate on a resolution, and all debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
@@ -84,7 +84,7 @@ Subsec. (a)(2). Pub. L. 101–382, §132(c)(3), substituted “first” for “s
 
 Subsec. (c)(1). Pub. L. 101–382, §132(c)(4), substituted “except that a motion to discharge—
 
-&emsp;“(A) may only be made on the second legislative day after the calendar day on which the Member making the motion announces to the House his intention to do so; and
+&emsp;“(A) may only be made on the second legislative day after the calendar day on which the Membermaking the motion announces to the House his intention to do so; and
 
 &emsp;“(B) is not in order after the Committee has reported a resolution with respect to the same matter” for “except no motion to discharge shall be in order after the committee has reported a resolution with respect to the same matter”.
 

@@ -70,7 +70,7 @@ This chapter shall not apply with respect to any marine mammal taken before the 
 
 It is unlawful for any person or vessel or other conveyance to take any species of whale incident to commercial whaling in waters subject to the jurisdiction of the United States.
 
-(Pub. L. 92–522, title I, §102, Oct. 21, 1972, 86 Stat. 1032; Pub. L. 93–205, §13(e)(3), Dec. 28, 1973, 87 Stat. 903; Pub. L. 95–136, §4, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 97–58, §3(a), Oct. 9, 1981, 95 Stat. 981; Pub. L. 100–711, §§2(b), 5(b), (e)(2), Nov. 23, 1988, 102 Stat. 4763, 4769, 4771; Pub. L. 102–587, title III, §3004(a)(1), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§5(a), 13(c), 24(c)(9), Apr. 30, 1994, 108 Stat. 536, 558, 566.)
+(Pub. L. 92–522, title I, §102, Oct. 21, 1972, 86 Stat. 1032; Pub. L. 93–205, §13(e)(3), Dec. 28, 1973, 87Stat. 903; Pub. L. 95–136, §4, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 97–58, §3(a), Oct. 9, 1981, 95 Stat. 981; Pub. L. 100–711, §§2(b), 5(b), (e)(2), Nov. 23, 1988, 102 Stat. 4763, 4769, 4771; Pub. L. 102–587, title III, §3004(a)(1), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§5(a), 13(c), 24(c)(9), Apr. 30, 1994, 108 Stat. 536, 558, 566.)
 
 #### References in Text
 
@@ -96,7 +96,7 @@ Subsec. (b). Pub. L. 100–711, §5(e)(2), substituted “research, or for enhan
 
 Pub. L. 100–711, §5(b), inserted sentence at end authorizing Secretary to issue permit for importation of marine mammal.
 
-1981—Subsec. (a). Pub. L. 97–58, §3(a)(1), inserted reference to section 1379 of this title in the enumeration of sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to makeit illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
+1981—Subsec. (a). Pub. L. 97–58, §3(a)(1), inserted reference to section 1379 of this title in the enumeration of sections preceding par. (1), redesignated par. (4) as (5), and revised as pars. (3) and (4) the provisions of former par. (3) amending those provisions so as to make it illegal for any person to possess a marine mammal, or any product from that mammal, and for any person to transport, purchase, sell, or offer to purchase or sell any marine mammal or marine mammal product.
 
 Subsec. (b)(3). Pub. L. 97–58, §3(a)(2), struck out “or which has been listed as an endangered species or threatened species pursuant to the Endangered Species Act of 1973” after “designated as a depleted species or stock”.
 

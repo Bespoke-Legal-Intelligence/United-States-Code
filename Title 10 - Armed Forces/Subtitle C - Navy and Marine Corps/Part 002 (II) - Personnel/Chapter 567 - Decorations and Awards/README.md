@@ -17,8 +17,13 @@
 | [6253\.](%C2%A7%2006253%20-%20Replacement.md) | Replacement. |
 | [6254\.](%C2%A7%2006254%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
 | [6255\.](%C2%A7%2006255%20-%20Commemorative%20or%20special%20medals%20facsimiles%20and%20ribbons.md) | Commemorative or special medals: facsimiles and ribbons. |
+| [6256\.](%C2%A7%2006256%20-%20Medal%20of%20honor%20duplicate%20medal.md) | Medal of honor: duplicate medal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2001—Pub. L. 107–107, div. A, title V, §553(b)(1)(B), Dec. 28, 2001, 115 Stat. 1116, added item 6256.
 
 #### Extension of Time for Award of Decoration
 
@@ -44,3 +49,4 @@ For extension of time for the award of decorations, or devices in lieu of decora
 - [&sect; 06253 - Replacement](%C2%A7%2006253%20-%20Replacement.md)
 - [&sect; 06254 - Availability of appropriations](%C2%A7%2006254%20-%20Availability%20of%20appropriations.md)
 - [&sect; 06255 - Commemorative or special medals facsimiles and ribbons](%C2%A7%2006255%20-%20Commemorative%20or%20special%20medals%20facsimiles%20and%20ribbons.md)
+- [&sect; 06256 - Medal of honor duplicate medal](%C2%A7%2006256%20-%20Medal%20of%20honor%20duplicate%20medal.md)

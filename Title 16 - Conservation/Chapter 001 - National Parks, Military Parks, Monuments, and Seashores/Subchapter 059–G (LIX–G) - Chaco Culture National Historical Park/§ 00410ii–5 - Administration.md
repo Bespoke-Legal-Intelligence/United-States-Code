@@ -6,7 +6,7 @@ The Secretary shall administer the park in accordance with the provisions of thi
 
 #### (b) Protection, preservation, and maintenance of cultural resources
 
-The Secretary shall protect, preserve, maintain, and administer the Chaco Culture Archeological Protection Sites, in a manner that will preserve the Chaco cultural resource and provide for its interpretation and research. Such sites shall be managed by the Secretary in accordance with the provisions of this subchapter and the provisions of law generally applicable to public lands as defined in section 1702(e) of title 43: <i>Provided, however</i>, That lands held in trust by the Secretary for an Indian tribe or any individual member thereof, or held in restricted fee status shall continue to be so managed or held by the Secretary.
+The Secretary shall protect, preserve, maintain, and administer the Chaco Culture Archeological Protection Sites, in a manner that will preserve the Chaco cultural resource and provide for its interpretation and research. Such sites shall be managed by the Secretary in accordance with the provisions of this subchapter and the provisions of law generally applicable to public lands as defined in section 1702(e) of title 43: <i>Provided, however</i>, That lands held in trust by the Secretary for an Indian tribe or any individual member thereof, or held in restricted feestatus shall continue to be so managed or held by the Secretary.
 
 #### (c) Activities endangering cultural values prohibited
 
@@ -18,7 +18,7 @@ Nothing in this subchapter shall be deemed to prevent the continuation of livest
 
 #### (e) General management plan; transmittal to Congress
 
-Within three complete fiscal years from December 19, 1980, the Secretary shall transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a general management plan for the identification, research, and protection of the park, pursuant to the provisions of section 1a–7(b) of this title, to be developed by the Director, National Park Service, in consultation with the Directors, Bureau of Land Management and Bureau of Indian Affairs and the Governor, State of New Mexico, and a joint management plan for the identification, research, and protection of the archeological protection sites, to be developed by the Director, National Park Service, in consultationand concurrence with the Directors, Bureau of Land Management and Bureau of Indian Affairs, and the Governor, State of New Mexico.
+Within three complete fiscal years from December 19, 1980, the Secretary shall transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a general management plan for the identification, research, and protection of the park, pursuant to the provisions of section 1a–7(b) of this title, to be developed by the Director, National Park Service, in consultation with the Directors, Bureau of Land Management and Bureau of Indian Affairs and the Governor, State of New Mexico, and a joint management plan for the identification, research, and protection of the archeological protection sites, to be developed by the Director, National Park Service, in consultation and concurrence with the Directors, Bureau of Land Management and Bureau of Indian Affairs, and the Governor, State of New Mexico.
 
 #### (f) Assistance to Navajo Nation
 

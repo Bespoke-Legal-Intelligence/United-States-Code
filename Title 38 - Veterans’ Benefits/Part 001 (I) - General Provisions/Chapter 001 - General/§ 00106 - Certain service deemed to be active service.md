@@ -104,7 +104,7 @@ Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by P
 
 “(2) In making a determination under clause (A) of paragraph (1) of this subsection with respect to any group described in such paragraph, the Secretary of Defense may take into consideration the extent to which—
 
-&emsp;“(A) such group received military training and acquired a military capability or the service performedby such group was critical to the success of a military mission,
+&emsp;“(A) such group received military training and acquired a military capability or the service performed by such group was critical to the success of a military mission,
 
 &emsp;“(B) the members of such group were subject to military justice, discipline, and control,
 

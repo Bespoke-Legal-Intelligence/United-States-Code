@@ -156,7 +156,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Section 10413(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting section4978A of this title and amending this section\] shall apply to taxable events (within the meaning of section 4978A(c) of the Internal Revenue Code of 1986) occurring after February 26, 1987.”
+Section 10413(c) of Pub. L. 100–203 provided that: “The amendments made by this section \[enacting section 4978A of this title and amending this section\] shall apply to taxable events (within the meaning of section 4978A(c) of the Internal Revenue Code of 1986) occurring after February 26, 1987.”
 
 #### Effective Date of 1986 Amendment
 

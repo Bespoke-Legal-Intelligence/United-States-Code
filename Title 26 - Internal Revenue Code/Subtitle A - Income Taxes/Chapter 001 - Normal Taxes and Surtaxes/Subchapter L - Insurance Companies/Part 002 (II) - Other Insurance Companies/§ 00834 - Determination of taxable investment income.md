@@ -30,7 +30,7 @@ In computing taxable investment income, the following deductions shall be allowe
 
 #### (2) Investment expenses
 
-&emsp;Investment expenses paid or accrued during the taxable year. If any general expenses arein part assigned to or included in the investment expenses, the total deduction under this paragraph shall not exceed one-fourth of 1 percent of the mean of the book value of the invested assets held at the beginning and end of the taxable year plus one-fourth of the amount by which taxable investment income (computed without any deduction for investment expenses allowed by this paragraph, for tax-free interest allowed by paragraph (1), or for dividends received allowed by paragraph (7)), exceeds 33/4 percent of the book value of the mean of the invested assets held at the beginning and end of the taxable year.
+&emsp;Investment expenses paid or accrued during the taxable year. If any general expenses are in part assigned to or included in the investment expenses, the total deduction under this paragraph shall not exceed one-fourth of 1 percent of the mean of the book value of the invested assets held at the beginning and end of the taxable year plus one-fourth of the amount by which taxable investment income (computed without any deduction for investment expenses allowed by this paragraph, for tax-free interest allowed by paragraph (1), or for dividends received allowed by paragraph (7)), exceeds 33/4 percent of the book value of the mean of the invested assets held at the beginning and end of the taxable year.
 
 #### (3) Real estate expenses
 
@@ -94,7 +94,7 @@ For purposes of this part—
 
 #### (1) Net premiums
 
-&emsp;The term “net premiums” means gross premiums (including deposits and assessments)written or received on insurance contracts during the taxable year less return premiums and premiums paid or incurred for reinsurance. Amounts returned where the amount is not fixed in the insurance contract but depends on the experience of the company or the discretion of the management shall not be included in return premiums but shall be treated as dividends to policyholders under paragraph (2).
+&emsp;The term “net premiums” means gross premiums (including deposits and assessments) written or received on insurance contracts during the taxable year less return premiums and premiums paid or incurred for reinsurance. Amounts returned where the amount is not fixed in the insurance contract but depends on the experience of the company or the discretion of the management shall not be included in return premiums but shall be treated as dividends to policyholders under paragraph (2).
 
 #### (2) Dividends to policyholders
 

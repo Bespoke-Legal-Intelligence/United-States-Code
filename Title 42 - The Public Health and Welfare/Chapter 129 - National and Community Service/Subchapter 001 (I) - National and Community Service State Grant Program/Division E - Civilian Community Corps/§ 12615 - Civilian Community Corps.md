@@ -64,7 +64,7 @@ The Director shall ensure that the Corps units and camps are distributed in urba
 
 &emsp;Under procedures prescribed by the Director, a member of the Corps may appeal to the Director a determination of a camp superintendent to transfer or dismiss the member. The Director shall provide for expeditious disposition of appeals under this paragraph.
 
-(Pub. L. 101–610, title I, §155, formerly §195D, as added Pub. L. 102–484, div. A, title X, §1092(a)(1),Oct. 23, 1992, 106 Stat. 2524; renumbered §155 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(C), title IV, §403(b), Sept. 21, 1993, 107 Stat. 840, 847, 920; Pub. L. 103–304, §3(b)(5)(A), Aug. 23, 1994, 108 Stat. 1567.)
+(Pub. L. 101–610, title I, §155, formerly §195D, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2524; renumbered §155 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(C), title IV, §403(b), Sept. 21, 1993, 107 Stat. 840, 847, 920; Pub. L. 103–304, §3(b)(5)(A), Aug. 23, 1994, 108 Stat. 1567.)
 
 #### Codification
 

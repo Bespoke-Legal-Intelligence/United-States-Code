@@ -12,7 +12,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;(2) Acquisition, rehabilitation, acquisition and rehabilitation, or construction of housing and related facilities to be used for the purposes of providing homeownership under part A and part B of this subchapter, residential housing for homeless individuals, and low- and very low-income families, or transitional housing for persons who are homeless, have disabilities, are ill, are deinstitutionalized, or have other special needs.
 
-&emsp;(3) Administrative costs of the applicant, which may not exceed 15 percent of theamount of assistance provided under this section, or such higher percentage as the Secretary determines is necessary to support capacity development by a private nonprofit organization.
+&emsp;(3) Administrative costs of the applicant, which may not exceed 15 percent of the amount of assistance provided under this section, or such higher percentage as the Secretary determines is necessary to support capacity development by a private nonprofit organization.
 
 &emsp;(4) Education and job training services and activities including—
 
@@ -66,7 +66,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;&emsp;(G) a description of the special outreach efforts that will be undertaken to recruit eligible young women (including young women with dependent children);
 
-&emsp;&emsp;(H) a description of how the proposed program will be coordinated with other Federal, State, and local activities and activities conducted by Indian tribes, including vocational, adult and bilingual education programs, job training provided with funds available under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988, and housing and community development programs, including programs that receive assistance under section 5306 of this title;
+&emsp;&emsp;(H) a description of how the proposed program will be coordinated with other Federal,State, and local activities and activities conducted by Indian tribes, including vocational, adult and bilingual education programs, job training provided with funds available under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988, and housing and community development programs, including programs that receive assistance under section 5306 of this title;
 
 &emsp;&emsp;(I) assurances that there will be a sufficient number of adequately trained supervisory personnel in the program who have attained the level of journeyman or its equivalent;
 
@@ -76,7 +76,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;&emsp;(L) a detailed budget and a description of the system of fiscal controls and auditing and accountability procedures that will be used to ensure fiscal soundness;
 
-&emsp;&emsp;(M) a description of the commitments for any additional resources to be made available to the program from the applicant, from recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the construction, rehabilitation, operation and maintenance, or other housing and community development activities undertaken as part of the program, or from other Federal, State or local activities and activities conducted by Indian tribes, including, but not limited to, vocational, adult and bilingual education programs, and job training provided with funds available under title I of the Workforce Investment Act of 1998 \[29U.S.C. 2801 et seq.\] and the Family Support Act of 1988;
+&emsp;&emsp;(M) a description of the commitments for any additional resources to be made available to the program from the applicant, from recipients of other Federal, State or local housing and community development assistance who will sponsor any part of the construction, rehabilitation, operation and maintenance, or other housing and community development activities undertaken as part of the program, or from other Federal, State or local activities and activities conducted by Indian tribes, including, but not limited to, vocational, adult and bilingual education programs, and job training provided with funds available under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988;
 
 &emsp;&emsp;(N) identification and description of the financing proposed for any—
 
@@ -124,7 +124,7 @@ The Secretary shall notify each applicant, not later than 4 months after the dat
 
 The Secretary shall develop a procedure under which an applicant may apply at the same time and in a single application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
 
-(Pub. L. 101–625, title IV, §454, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3725; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(43)(A), (f)(34)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
+(Pub. L. 101–625, title IV, §454, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3725;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(43)(A), (f)(34)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
 
 #### References in Text
 
@@ -142,7 +142,7 @@ The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(Q), is title I
 
 1998—Subsecs. (c)(2)(H), (M), (d)(7). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(34)\], struck out “the Job Training Partnership Act and” before “title I of the Workforce”.
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(43)(A)\], substituted “the Job Training Partnership Act and title Iof the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(43)(A)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
 
 #### Effective Date of 1998 Amendment
 

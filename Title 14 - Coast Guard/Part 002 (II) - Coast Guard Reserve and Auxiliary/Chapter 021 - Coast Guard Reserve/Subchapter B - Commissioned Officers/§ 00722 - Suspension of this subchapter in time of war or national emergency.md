@@ -8,3 +8,7 @@ In time of war or national emergency declared by Congress, the President may sus
 
 Provisions similar to those in this section were contained in section 778 of this title prior to the complete revision of this chapter by Pub. L. 96–322.
 
+#### Delegation of Authority
+
+Authority of President under this section as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Transportation by section 5 of Ex. Ord. No. 13223, set out as a note under section 12302 of Title 10, Armed Forces.
+

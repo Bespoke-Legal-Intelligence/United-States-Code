@@ -1,0 +1,72 @@
+### §15202. Medal of Valor Board
+
+#### (a) Establishment of Board
+
+There is established a Medal of Valor Review Board (hereinafter in this chapter referred to as the “Board”), which shall be composed of 11 members appointed in accordance with subsection (b) of this section and shall conduct its business in accordance with this chapter.
+
+#### (b) Membership
+
+#### (1) Members
+
+&emsp;The members of the Board shall be individuals with knowledge or expertise, whether by experience or training, in the field of public safety, of which—
+
+&emsp;&emsp;(A) two shall be appointed by the majority leader of the Senate;
+
+&emsp;&emsp;(B) two shall be appointed by the minority leader of the Senate;
+
+&emsp;&emsp;(C) two shall be appointed by the Speaker of the House of Representatives;
+
+&emsp;&emsp;(D) two shall be appointed by the minority leader of the House of Representatives; and
+
+&emsp;&emsp;(E) three shall be appointed by the President, including one with experience in firefighting, one with experience in law enforcement, and one with experience in emergency services.
+
+#### (2) Term
+
+&emsp;The term of a Board member shall be 4 years.
+
+#### (3) Vacancies
+
+&emsp;Any vacancy in the membership of the Board shall not affect the powers of the Board and shall be filled in the same manner as the original appointment.
+
+#### (4) Operation of the Board
+
+#### (A) Chairman
+
+&emsp;&emsp;The Chairman of the Board shall be elected by the members of the Board from among the members of the Board.
+
+#### (B) Meetings
+
+&emsp;&emsp;The Board shall conduct its first meeting not later than 90 days after the appointment of the last member appointed of the initial group of members appointed to the Board. Thereafter, the Board shall meet at the call of the Chairman of the Board. The Board shall meet not less often than twice each year.
+
+#### (C) Voting and rules
+
+&emsp;&emsp;A majority of the members shall constitute a quorum to conduct business, but the Board may establish a lesser quorum for conducting hearings scheduled by the Board. The Board may establish by majority vote any other rules for the conduct of the Board's business, if such rules are not inconsistent with this chapter or other applicable law.
+
+#### (c) Duties
+
+The Board shall select candidates as recipients of the Medal of Valor from among those applications received by the National Medal of Valor Office. Not more often than once each year, the Board shall present to the Attorney General the name or names of those it recommends as Medal of Valor recipients. In a given year, the Board shall not be required to select any recipients but may not select more than 5 recipients. The Attorney General may in extraordinary cases increase the number of recipients in a given year. The Board shall set an annual timetable for fulfilling its duties under this chapter.
+
+#### (d) Hearings
+
+#### (1) In general
+
+&emsp;The Board may hold such hearings, sit and act at such times and places, administer such oaths, take such testimony, and receive such evidence as the Board considers advisable to carry out its duties.
+
+#### (2) Witness expenses
+
+&emsp;Witnesses requested to appear before the Board may be paid the same fees as are paid to witnesses under section 1821 of title 28. The per diem and mileage allowances for witnessesshall be paid from funds appropriated to the Board.
+
+#### (e) Information from Federal agencies
+
+The Board may secure directly from any Federal department or agency such information as the Board considers necessary to carry out its duties. Upon the request of the Board, the head of such department or agency may furnish such information to the Board.
+
+#### (f) Information to be kept confidential
+
+The Board shall not disclose any information which may compromise an ongoing law enforcement investigation or is otherwise required by law to be kept confidential.
+
+(Pub. L. 107–12, §3, May 30, 2001, 115 Stat. 20.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a), (b)(4)(C), and (c), was in the original “this Act”, meaning Pub. L. 107–12, May. 30, 2001, 115 Stat. 20, which enacted this chapter and amended section 2214 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 15201 of this title and Tables.
+

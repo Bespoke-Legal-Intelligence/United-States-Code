@@ -16,7 +16,7 @@ For purposes of subsection (a), there shall be allowed a deduction similar to th
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions relating to taxable amount in caseof a taxable termination for former provisions which authorized the Secretary to promulgate regulations. See section 2663 of this title.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions relating to taxable amount in case of a taxable termination for former provisions which authorized the Secretary to promulgate regulations. See section 2663 of this title.
 
 #### Effective Date of 1986 Amendment
 

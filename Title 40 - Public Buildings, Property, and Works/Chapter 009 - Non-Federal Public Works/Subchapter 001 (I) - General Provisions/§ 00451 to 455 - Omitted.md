@@ -4,7 +4,7 @@
 
 Section 451, act Oct. 13, 1949, ch. 685, §1, 63 Stat. 841, authorized the Housing and Home Finance Administrator, during the period of two years immediately following Oct. 13, 1951, to make loans and advances to the States and non-Federal public agencies for advance planning on non-Federal public works.
 
-Section 452, act Oct. 13, 1949, ch. 685, §2, 63 Stat. 841, authorized Housing and Home Finance Administrator to allocate funds appropriated for advance planning among the several States.
+Section 452, act Oct. 13, 1949, ch. 685, §2, 63 Stat. 841, authorized Housing and Home Finance Administratorto allocate funds appropriated for advance planning among the several States.
 
 Section 453, act Oct. 13, 1949, ch. 685, §3, 63 Stat. 842, provided that no loan or advance shall be made to any individual project unless such project conforms to an over-all State, local, or regional plan approved by a competent State, local, or regional authority.
 

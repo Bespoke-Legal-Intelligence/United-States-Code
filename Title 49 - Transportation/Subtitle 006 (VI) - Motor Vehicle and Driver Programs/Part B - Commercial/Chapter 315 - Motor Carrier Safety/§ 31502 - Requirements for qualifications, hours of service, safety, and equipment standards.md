@@ -66,7 +66,7 @@ Driver of a utility service vehicle.—The term “driver of a utility service v
 
 &emsp;&emsp;(B)
 
-Utility service vehicle.—The term “utility service vehicle” has the meaning that term has under section 345(e)(6) of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat 614–615).
+Utility service vehicle.—The term “utility service vehicle” has the meaning that term has under section 345(e)(6) of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat <sup>1</sup> 614–615).
 
 (Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3102; Pub. L. 98–554, title II, §206(h), Oct. 30, 1984, 98 Stat. 2835; renumbered §31502 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029; Pub. L. 104–88, title III, §308(k)(3), Dec. 29, 1995, 109 Stat. 948; Pub. L. 105–178, title IV, §4012(a), June 9, 1998, 112 Stat. 408.)
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Savings Provision
 
-Pub. L. 100–690, title IX, §9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: “The amendment made by subsection (a) \[amending section 2505 of former Title 49, Transportation\] shall not be construed as having any effect on the enactment of subsection (d) of section 3102 \[now 31502\] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 \[Pub. L. 98–554\] on October 30, 1984.”
+Pub. L. 100–690, title IX, §9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: “The amendment made by subsection (a) \[amending section 2505 of former Title 49,Transportation\] shall not be construed as having any effect on the enactment of subsection (d) of section 3102 \[now 31502\] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 \[Pub. L. 98–554\] on October 30, 1984.”
 
 #### Continued Application of Safety and Maintenance Requirements
 
@@ -199,4 +199,6 @@ For provisions relating to exemptions from regulations prescribed under this sec
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 501, 507, 521, 526, 31504 of this title; title 15 section 1681b.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

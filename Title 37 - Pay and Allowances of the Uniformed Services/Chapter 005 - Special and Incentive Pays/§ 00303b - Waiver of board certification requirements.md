@@ -16,7 +16,7 @@ Eligible Members Described.—A member of the armed forces referred to in subsec
 
 (c)
 
-Period for Certification.—The period referred to in subsection (a) for completion of board certification or recertification requirements with respect to a member of the armed forces is the 180-day period (extended for such additional time as the Secretary of Defense determines to be appropriate) beginning on thedate on which the member is released from the duty to which the member was assigned in support of a contingency operation.
+Period for Certification.—The period referred to in subsection (a) for completion of board certification or recertification requirements with respect to a member of the armed forces is the 180-day period (extended for such additional time as the Secretary of Defense determines to be appropriate) beginning on the date on which the member is released from the duty to which the member was assigned in support of a contingency operation.
 
 (Added Pub. L. 102–190, div. A, title VI, §635(a), Dec. 5, 1991, 105 Stat. 1382.)
 

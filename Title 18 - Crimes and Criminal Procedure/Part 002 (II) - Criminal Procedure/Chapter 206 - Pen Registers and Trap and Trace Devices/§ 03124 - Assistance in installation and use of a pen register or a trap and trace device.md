@@ -6,7 +6,7 @@ Pen Registers.—Upon the request of an attorney for the Government or an office
 
 (b)
 
-Trap and Trace Device.—Upon the request of an attorney for the Government or an officer of a law enforcement agency authorized to receive the results of a trap and trace device under this chapter, a provider of a wire or electronic communication service, landlord, custodian, or other person shall install such device forthwith on the appropriate line and shall furnish such investigative or law enforcement officer all additional information, facilities and technical assistance including installation and operation of the device unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such installation and assistance is directed by a court order as provided in section 3123(b)(2) of this title. Unless otherwise ordered by the court, the results of the trap and trace device shall be furnished, pursuant to section 3123(b) or section 3125 of this title, to the officer of a law enforcement agency, designated in the court order, at reasonable intervals during regular business hours for the duration of the order.
+Trap and Trace Device.—Upon the request of an attorney for the Government or an officer of a law enforcement agency authorized to receive the results of a trap and trace device under this chapter, a provider of a wire or electronic communication service, landlord, custodian, or other person shall install such device forthwith on the appropriate line or other facility and shall furnish such investigative or law enforcement officer all additional information, facilities and technical assistance including installation and operation of the device unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such installation and assistance is directed by a court order as provided in section 3123(b)(2) of this title. Unless otherwise ordered by the court, the results of the trap and trace device shall be furnished, pursuant to section 3123(b) or section 3125 of this title, to the officer of a law enforcement agency, designated in the court order, at reasonable intervals during regular business hours for the duration of the order.
 
 (c)
 
@@ -14,7 +14,7 @@ Compensation.—A provider of a wire or electronic communication service, landlo
 
 (d)
 
-No Cause of Action Against a Provider Disclosing Information Under This Chapter.—No cause of action shall lie in any court against any provider of a wire or electronic communication service, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with the terms of a court order under this chapter or request pursuant to section 3125 of this title.
+No Cause of Action Against a Provider Disclosing Information Under This Chapter.—No cause of action shall lie in any court against any provider of a wire or electronic communication service, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with a court order under this chapter or request pursuant to section 3125 of this title.
 
 (e)
 
@@ -24,13 +24,17 @@ Defense.—A good faith reliance on a court order under this chapter, a request 
 
 Communications Assistance Enforcement Orders.—Pursuant to section 2522, an order may be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
 
-(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1870; amended Pub. L. 100–690, title VII, §§7040, 7092(b), (d), Nov. 18, 1988, 102 Stat. 4399, 4411; Pub. L. 101–647, title XXXV, §3575, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–414, title II, §201(b)(2), Oct. 25, 1994, 108 Stat. 4290.)
+(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1870; amended Pub. L. 100–690, title VII, §§7040, 7092(b), (d), Nov. 18, 1988, 102 Stat. 4399, 4411; Pub. L. 101–647, title XXXV, §3575, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–414, title II, §201(b)(2), Oct. 25, 1994, 108 Stat. 4290; Pub. L. 107–56, title II, §216(c)(5), (6), Oct. 26, 2001, 115 Stat. 290.)
 
 #### References in Text
 
 The Communications Assistance for Law Enforcement Act, referred to in subsec. (f), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§1001 et seq.) of chapter 9 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 47 and Tables.
 
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–56, §216(c)(6), inserted “or other facility” after “the appropriate line”.
+
+Subsec. (d). Pub. L. 107–56, §216(c)(5), struck out “the terms of” before “a court order”.
 
 1994—Subsec. (f). Pub. L. 103–414 added subsec. (f).
 
@@ -41,6 +45,10 @@ The Communications Assistance for Law Enforcement Act, referred to in subsec. (f
 Subsec. (d). Pub. L. 100–690, §7092(b)(1), inserted “or request pursuant to section 3125 of this title” after “this chapter”.
 
 Subsec. (e). Pub. L. 100–690, §7092(b)(2), inserted “under this chapter, a request pursuant to section 3125 of this title” after “court order”.
+
+#### Assistance to Law Enforcement Agencies
+
+Pub. L. 107–56, title II, §222, Oct. 26, 2001, 115 Stat. 292, provided that: “Nothing in this Act \[see Short Title of 2001 Amendment note set out under section 1 of this title\] shall impose any additional technical obligation or requirement on a provider of a wire or electronic communication service or other person to furnish facilities or technical assistance. A provider of a wire or electronic communication service, landlord, custodian, or other person who furnishes facilities or technical assistance pursuant to section 216 \[amending this section and sections 3121, 3123, and 3127 of this title\] shall be reasonably compensated for such reasonable expenditures incurred in providing such facilities or assistance.”
 
 #### Section Referred to in Other Sections
 

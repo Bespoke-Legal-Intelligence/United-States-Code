@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, in consultation with State foresters or equivalent State officials, shall establish a program within the Forest Service, to beknown as the “Stewardship Incentive Program” (hereafter referred to in this section as the “Program”), to meet the objectives and goals of section 2103a of this title.
+The Secretary, in consultation with State foresters or equivalent State officials, shall establish a program within the Forest Service, to be known as the “Stewardship Incentive Program” (hereafter referred to in this section as the “Program”), to meet the objectives and goals of section 2103a of this title.
 
 #### (b) Eligibility
 

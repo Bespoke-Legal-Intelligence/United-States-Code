@@ -124,7 +124,7 @@ Integrated natural resources management plans agreed to under the authority of t
 
 1997—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
 
-Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions,“Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—” for “Each cooperative plan entered into under subsection (a) of this section—”.
+Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—” for “Each cooperative plan entered into under subsection (a) of this section—”.
 
 Subsec. (b)(1). Pub. L. 105–85, §2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: “shall provide for—
 
@@ -204,7 +204,7 @@ Report to congress.—Not later than one year after the date of enactment of thi
 
 “(c)
 
-Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required under subsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
+Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required undersubsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
 
 &emsp;“(1) prepare and begin implementing such a plan in accordance with section 101(a) of the Sikes Act \[16 U.S.C. 670a(a)\] (as amended by this title); or
 

@@ -26,6 +26,8 @@ Authority To Accept Services.—Subject to subsection (b) and notwithstanding se
 
 &emsp;(4) Voluntary services as a member of a funeral honors detail under section 1491 of this title.
 
+&emsp;(5) Legal services voluntarily provided as legal assistance under section 1044 of this title.
+
 (b)
 
 Requirements and Limitations.—(1) The Secretary concerned shall notify the person of the scope of the services accepted.
@@ -58,6 +60,8 @@ Status of Persons Providing Services.—(1) Subject to paragraph (3), while prov
 
 &emsp;(D) Chapter 11 of title 18 (relating to conflicts of interest).
 
+&emsp;(E) Section 1054 of this title (relating to legal malpractice), for a person voluntarily providing legal services accepted under subsection (a)(5), as if the person were providing the services as an attorney of a legal staff within the Department of Defense.
+
 (2) Subject to paragraph (3), while providing a nonappropriated fund instrumentality of the United States with voluntary services accepted under subsection (a), or receiving training under subsection (c) to provide such an instrumentality with services accepted under subsection (a), a person shall be considered an employee of that instrumentality only for the following purposes:
 
 &emsp;(A) Subchapter II of chapter 81 of title 5 (relating to compensation of nonappropriated fund employees for work-related injuries).
@@ -86,9 +90,13 @@ Authority To Install Equipment.—(1) The Secretary concerned may install teleph
 
 (4) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Transportation shall prescribe regulations to carry out this subsection.
 
-(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627.)
+(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125.)
 
 #### Amendments
+
+2001—Subsec. (a)(5). Pub. L. 107–107, §583(a), added par. (5).
+
+Subsec. (d)(1)(E). Pub. L. 107–107, §583(b), added subpar. (E).
 
 1999—Subsec. (a)(4). Pub. L. 106–65, §578(f), added par. (4).
 

@@ -28,7 +28,7 @@ The amount of the unused credit which may be taken into account under section 38
 
 &emsp;(1) the amounts determined under paragraphs (1) and (2) of section 38(a) for such taxable year, plus
 
-&emsp;(2) the amounts which (by reason of this section) are carried back to such taxable year andare attributable to taxable years preceding the unused credit year.
+&emsp;(2) the amounts which (by reason of this section) are carried back to such taxable year and are attributable to taxable years preceding the unused credit year.
 
 #### (c) Limitation on carryforwards
 
@@ -72,7 +72,15 @@ The amount of the unused credit which may be taken into account under section 38
 
 &emsp;No portion of the unused business credit for any taxable year which is attributable to the credit under section 45D may be carried back to a taxable year ending before January 1, 2001.
 
-(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(<i>l</i>)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610.)
+#### (10) No carryback of small employer pension plan startup cost credit before January 1, 2002
+
+&emsp;No portion of the unused business credit for any taxable year which is attributable to the small employer pension plan startup cost credit determined under section 45E may be carried back to a taxable year beginning before January 1, 2002.
+
+(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(<i>l</i>)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -91,6 +99,8 @@ A prior section 39 was renumbered section 34 of this title.
 Another prior section 39 was renumbered section 35 of this title.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (d)(10). Pub. L. 107–16, §§619(c)(1), 901, temporarily added par. (10). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (d)(9). Pub. L. 106–554 added par. (9).
 
@@ -129,6 +139,12 @@ Pub. L. 101–508, §11511(b)(2), added par. (5) relating to carryback of enhanc
 Subsec. (d)(2)(B). Pub. L. 99–514, §1846(2), substituted “as defined in section 26(b)” for “as so defined in section 25(b)”.
 
 Subsec. (d)(3). Pub. L. 99–514, §231(d)(3)(C)(i), added par. (3).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans established after such date, see section 619(d) of Pub. L. 107–16, set out as a note under section 38 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 2000 Amendment
 
@@ -190,7 +206,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 38, 40, 41, 42, 45A, 45D, 48, 50, 196, 383, 1374, 6411, 6511 of this title.
+This section is referred to in sections 38, 40, 41, 42, 45A, 45D, 45F, 48, 50, 196, 383, 1374, 6411, 6511 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

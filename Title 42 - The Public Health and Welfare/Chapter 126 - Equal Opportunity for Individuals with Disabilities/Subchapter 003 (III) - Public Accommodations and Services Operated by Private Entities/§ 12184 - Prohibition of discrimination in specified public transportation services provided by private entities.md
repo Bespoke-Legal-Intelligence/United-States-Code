@@ -34,7 +34,7 @@ For purposes of subsection (a) of this section, discrimination includes—
 
 #### (1) Exception
 
-&emsp;To the extent that compliance with subsection (b)(2)(C) or (b)(7) of this section would significantly alter the historic or antiquated character of a historical or antiquated rail passenger car, or a rail station served exclusively by such cars, or would result in violation of any rule, regulation, standard, or order issued by the Secretary of Transportation under the Federal Railroad Safety Act of 1970, such compliance shall not be required.
+&emsp;To the extent that compliance with subsection (b)(2)(C) or (b)(7) of this section would significantly alter the historic or antiquatedcharacter of a historical or antiquated rail passenger car, or a rail station served exclusively by such cars, or would result in violation of any rule, regulation, standard, or order issued by the Secretary of Transportation under the Federal Railroad Safety Act of 1970, such compliance shall not be required.
 
 #### (2) Definition
 

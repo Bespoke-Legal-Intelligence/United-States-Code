@@ -72,9 +72,9 @@ For purposes of this section—
 
 &emsp;&emsp;Such term shall not include expenses with respect to any course or other education involving sports, games, or hobbies other than as part of a degree program.
 
-#### (C) Contributions to qualified State tuition program and education individual retirement accounts
+#### (C) Contributions to qualified tuition program and Coverdell education savings accounts
 
-&emsp;&emsp;Such term shall include any contribution to a qualified State tuition program (as defined in section 529) on behalf of a designated beneficiary (as defined in such section), or to an education individual retirement account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
+&emsp;&emsp;Such term shall include any contribution to a qualified tuition program (as defined in section 529) on behalf of a designated beneficiary (as defined in such section), or to a Coverdell education savings account (as defined in section 530) on behalf of an account beneficiary, who is an individual described in subparagraph (A); but there shall be no increase in the investment in the contract for purposes of applying section 72 by reason of any portion of such contribution which is not includible in gross income by reason of this subparagraph.
 
 #### (3) Eligible educational institution
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 &emsp;The term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year determined—
 
-&emsp;&emsp;(A) without regard to this section and sections 137, 221, 911, 931, and 933, and
+&emsp;&emsp;(A) without regard to this section and sections 137, 221, 222, 911, 931, and 933, and
 
 &emsp;&emsp;(B) after the application of sections 86, 469, and 219.
 
@@ -100,15 +100,15 @@ For purposes of this section—
 
 &emsp;&emsp;(C) a payment (other than a gift, bequest, devise, or inheritance within the meaning of section 102(a)) for educational expenses, or attributable to attendance at an eligible educational institution, which is exempt from income taxation by any law of the United States, or
 
-&emsp;&emsp;(D) a payment, waiver, or reimbursement of qualified higher education expenses under a qualified State tuition program (within the meaning of section 529(b)).
+&emsp;&emsp;(D) a payment, waiver, or reimbursement of qualified higher education expenses under a qualified tuition program (within the meaning of section 529(b)).
 
 #### (2) Coordination with other higher education benefits
 
 &emsp;The amount of the qualified higher education expenses otherwise taken into account under subsection (a) with respect to the education of an individual shall be reduced (before the application of subsection (b)) by—
 
-&emsp;&emsp;(A) the amount of such expenses which are taken into account in determining the credit allowable to the taxpayer or any other person under section 25A with respect to such expenses; and
+&emsp;&emsp;(A) the amount of such expenses which are taken into account in determining the credit allowed to the taxpayer or any other person under section 25A with respect to such expenses; and
 
-&emsp;&emsp;(B) the amount of such expenses which are taken into account in determining the exclusion under section 530(d)(2).
+&emsp;&emsp;(B) the amount of such expenses which are taken into account in determining the exclusions under sections 529(c)(3)(B) and 530(d)(2).
 
 #### (3) No exclusion for married individuals filing separate returns
 
@@ -118,17 +118,33 @@ For purposes of this section—
 
 &emsp;The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations requiring record keeping and information reporting.
 
-(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908.)
+(Added Pub. L. 100–647, title VI, §6009(a), Nov. 10, 1988, 102 Stat. 3688; amended Pub. L. 101–239, title VII, §7816(c)(2), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 101–508, title XI, §§11101(d)(1)(E), 11702(h), Nov. 5, 1990, 104 Stat. 1388–405, 1388–516; Pub. L. 104–188, title I, §§1703(d), 1806(b)(1), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1875, 1898, 1902; Pub. L. 105–34, title II, §§201(d), 211(c), 213(e)(2), Aug. 5, 1997, 111 Stat. 805, 811, 817; Pub. L. 105–206, title VI, §6004(c)(1), (d)(4), (9), July 22, 1998, 112 Stat. 793–795; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §§401(g)(2)(B), 402(a)(4)(A), (B), (b)(2)(A), 431(c)(1), June 7, 2001, 115 Stat. 59–62, 68; Pub. L. 107–22, §1(b)(1)(B), (3)(B), July 26, 2001, 115 Stat. 197.)
 
-#### Adjustment of Limitation on Exclusion of Income Under This Section for Tax Years Beginning in 2001
+#### Adjustment of Limitation on Exclusion of Income Under This Section for Tax Years Beginning in 2002
 
-<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for tax years beginning in 2001, see section 3.08 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of limitation on exclusion for income from redemption of United States savings bonds for taxpayers who pay qualified higher education expenses under this section for tax years beginning in 2002, see section 3.10 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
-A prior section 135 was renumbered section 139 of this title.
+A prior section 135 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c)(2)(C). Pub. L. 107–22, in heading substituted “Coverdell education savings” for “education individual retirement” and in text substituted “a Coverdell education savings” for “an education individual retirement”.
+
+Pub. L. 107–16, §§402(a)(4)(A), (B), 901, temporarily substituted “qualified tuition” for “qualified State tuition” in heading and text. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(4)(A). Pub. L. 107–16, §§431(c)(1), 901, temporarily inserted “222,” after “221,”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(1)(D). Pub. L. 107–16, §§402(a)(4)(A), 901, temporarily substituted “qualified tuition” for “qualified State tuition”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(2)(A). Pub. L. 107–16, §§401(g)(2)(B), 901, temporarily substituted “allowed” for “allowable”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(2)(B). Pub. L. 107–16, §§402(b)(2)(A), 901, temporarily substituted “the exclusions under sections 529(c)(3)(B) and 530(d)(2)” for “the exclusion under section 530(d)(2)”. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1998</b>—Subsec. (c)(2)(C). Pub. L. 105–206, §6004(d)(9), inserted “and education individual retirement accounts” after “program” in heading and substituted “section 72” for “section 529(c)(3)(A)” in text.
 
@@ -161,6 +177,18 @@ Subsec. (b)(2)(B)(ii). Pub. L. 101–508, §11101(d)(1)(E), struck out before pe
 Subsec. (b)(2)(C). Pub. L. 101–508, §11702(h)(2), struck out “(A) or” after “subparagraph”.
 
 <b>1989</b>—Subsec. (d)(1). Pub. L. 101–239 substituted “subsection (a) with respect to” for “subsection (a) respect to”.
+
+#### Effective and Termination Dates of 2001 Amendments
+
+Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. L. 107–22, set out as a note under section 26 of this title.
+
+Amendment by section 401(g)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31,2001, see section 401(h) of Pub. L. 107–16, set out as a note under section 25A of this title.
+
+Amendment by section 402(a)(4)(A), (B), (b)(2)(A) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
+
+Amendment by section 431(c)(1) of Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendments
 
@@ -208,5 +236,5 @@ Section 6009(e) of Pub. L. 100–647 directed Secretary of the Treasury or his d
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 86, 137, 219, 221, 469, 529 of this title.
+This section is referred to in sections 86, 137, 219, 221, 222, 469 of this title.
 

@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(B) the total number of package units of the drug sold during the period.
 
-(i)(1) If the Secretary modifies a multi-year contract described in subsection (d) to include a covered drug of the manufacturer that was not available for inclusion under the contract at the time the contract went into effect, the price of the drug shall be determined as follows:
+(i)(1) If the Secretary modifies a multi-year contract described in subsection (d) to include acovered drug of the manufacturer that was not available for inclusion under the contract at the time the contract went into effect, the price of the drug shall be determined as follows:
 
 &emsp;(A) For the portion of the first contract year during which the drug is so included, the price of the drug shall be determined in accordance with subsection (a)(2), except that the reference in such subsection to “the one-year period beginning on the date the agreement takes effect” shall be considered a reference to such portion of the first contract year.
 

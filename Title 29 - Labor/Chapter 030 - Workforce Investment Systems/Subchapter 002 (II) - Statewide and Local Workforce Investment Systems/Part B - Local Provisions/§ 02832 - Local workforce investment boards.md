@@ -24,7 +24,7 @@ There shall be established in each local area of a State, and certified by the G
 
 &emsp;&emsp;&emsp;&emsp;(III) are appointed from among individuals nominated by local business organizations and business trade associations;
 
-&emsp;&emsp;&emsp;(ii) representatives of local educational entities, including representatives of local educational agencies, local school boards, entities providing adult education and literacy activities, and postsecondary educational institutions (including representatives of community colleges, where such entities exist), selected from among individuals nominated by regional or local educational agencies, institutions, or organizations representing such local educational entities;
+&emsp;&emsp;&emsp;(ii) representatives of local educational entities, including representatives of localeducational agencies, local school boards, entities providing adult education and literacy activities, and postsecondary educational institutions (including representatives of community colleges, where such entities exist), selected from among individuals nominated by regional or local educational agencies, institutions, or organizations representing such local educational entities;
 
 &emsp;&emsp;&emsp;(iii) representatives of labor organizations (for a local area in which employees are represented by labor organizations), nominated by local labor federations, or (for a local area in which no employees are represented by such organizations), other representatives of employees;
 
@@ -104,7 +104,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (C) Plan
 
-&emsp;&emsp;If the Governor decertifies a local board for a local area under subparagraph (A) or (B), the Governor may require that a new local board be appointed and certified for the local area pursuant to a reorganization plan developed by the Governor, in consultation with the chief elected official in the local area, and in accordance with the criteria established under subsection (b) of this section.
+&emsp;&emsp;If the Governor decertifies a local board for a local area under subparagraph (A) or\(B), the Governor may require that a new local board be appointed and certified for the local area pursuant to a reorganization plan developed by the Governor, in consultation with the chief elected official in the local area, and in accordance with the criteria established under subsection (b) of this section.
 
 #### (4) Single State area
 
@@ -184,7 +184,7 @@ The functions of the local board shall include the following:
 
 #### (7) Employer linkages
 
-&emsp;The local board shall coordinate the workforce investment activities authorized under this subchapter and carried out in the local area with economic development strategies and develop other employer linkages with such activities.
+&emsp;The local board shall coordinate the workforce investment activities authorized under this subchapter and carried out in the localarea with economic development strategies and develop other employer linkages with such activities.
 
 #### (8) Connecting, brokering, and coaching
 

@@ -14,7 +14,7 @@ The Soil and Water Resources Conservation Act of 1977, referred to in text, is P
 
 #### Amendments
 
-1981—Pub. L. 97–98 inserted provision relating to recognition that provisions of this subchapter are essential to assist in providing the research background thatundergirds the Forest and Rangeland Renewable Resources Planning Act of 1974, the Renewable Resources Extension Act of 1978, and the Soil and Water Resources Conservation Act of 1977.
+1981—Pub. L. 97–98 inserted provision relating to recognition that provisions of this subchapter are essential to assist in providing the research background that undergirds the Forest and Rangeland Renewable Resources Planning Act of 1974, the Renewable Resources Extension Act of 1978, and the Soil and Water Resources Conservation Act of 1977.
 
 #### Effective Date of 1981 Amendment
 

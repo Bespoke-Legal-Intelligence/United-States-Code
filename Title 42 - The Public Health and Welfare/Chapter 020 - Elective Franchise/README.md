@@ -510,7 +510,28 @@ Certain States exempted.
 
 |  |  |
 | :--- | ---: |
-| 1973ff–3. | Recommendations to States to maximize access to polls by absent uniformed services voters and overseas voters. |
+| 1973ff–3. | Use of single application for all subsequent elections. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Exception for voters changing registration.
+
+(c)
+
+Revision of official post card form.
+
+(d)
+
+No effect on voter removal programs.
+
+|  |  |
+| :--- | ---: |
 | 1973ff–4. | Enforcement. |
 | 1973ff–5. | Effect on certain other laws. |
 | 1973ff–6. | Definitions. |

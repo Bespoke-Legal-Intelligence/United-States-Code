@@ -166,5 +166,5 @@ Pub. L. 99–190, §101(b) \[title VIII, §8086\], Dec. 19, 1985, 99 Stat. 1185,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1745 of this title.
+This section is referred to in section 1745 of this title; title 38 section 3014.
 

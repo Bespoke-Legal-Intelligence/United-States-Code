@@ -20,7 +20,7 @@ If lands to be leased under this chapter are within any known geothermal resourc
 
 #### (e) Regulations; substantial expenditures for exploration, development, or production of geothermal steam requisite for conversion
 
-&emsp;the conversion of leases, permits, and mining claims and applications for leases and permits shall be accomplished in accordance with regulations prescribed by the Secretary. No right to conversion to a geothermal lease shall accrue to any person under this section unless such person shows to the reasonable satisfaction of the Secretary that substantial expenditures for the exploration, development, or production of geothermal steam have been made by the applicant who is seeking conversion, on the lands for which a lease is sought or on adjoining, adjacent, or nearby Federal or non-Federal lands.
+&emsp;the conversion of leases, permits, and mining claims and applications for leases and permits shall be accomplished in accordance with regulations prescribed by the Secretary. No right to conversion to a geothermal lease shall accrue to any person under this section unless such person shows to the reasonable satisfaction of the Secretary that substantial expenditures for the exploration, development, or production of geothermal steam have been made by the applicant who is seeking conversion, onthe lands for which a lease is sought or on adjoining, adjacent, or nearby Federal or non-Federal lands.
 
 #### (f) Competitive geothermal lease; time for payment of highest bid and first year rental
 
@@ -32,7 +32,7 @@ If lands to be leased under this chapter are within any known geothermal resourc
 
 The Mineral Leasing Act of February 25, 1920, referred to in subsecs. (a) and (c), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-The Mineral Leasing Act of Acquired Lands, referred to in subsecs. (a) and (c), probably means the MineralLeasing Act for Acquired Lands, act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
+The Mineral Leasing Act of Acquired Lands, referred to in subsecs. (a) and (c), probably means the Mineral Leasing Act for Acquired Lands, act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
 
 #### Transfer of Functions
 

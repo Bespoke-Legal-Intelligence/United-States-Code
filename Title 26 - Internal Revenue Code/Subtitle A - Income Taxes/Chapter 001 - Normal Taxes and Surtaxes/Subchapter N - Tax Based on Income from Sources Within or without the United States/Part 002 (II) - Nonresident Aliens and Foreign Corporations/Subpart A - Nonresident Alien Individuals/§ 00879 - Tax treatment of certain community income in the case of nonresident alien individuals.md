@@ -46,7 +46,7 @@ Subsec. (a). Pub. L. 98–369, §139(a), substituted in provision preceding par.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as anEffective Date; Transitional Rules note under section 141 of this title.
 
 #### Effective Date of 1984 Amendment
 

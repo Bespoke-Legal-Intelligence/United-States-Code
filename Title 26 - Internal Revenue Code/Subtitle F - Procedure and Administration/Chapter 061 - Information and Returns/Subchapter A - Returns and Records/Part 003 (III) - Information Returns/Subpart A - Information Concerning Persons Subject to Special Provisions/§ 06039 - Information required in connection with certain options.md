@@ -46,7 +46,7 @@ A prior section 6039 was renumbered section 6040 of this title.
 
 <b>1990</b>—Subsec. (a)(1), (2). Pub. L. 101–508, §11801(c)(9)(J)(i), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-“(1) which in any calendar year transfers a share of stock to any person pursuant to such person's exercise of a qualified stock option, an incentive stock option, or a restricted stock option, or
+“(1) which in any calendar year transfers a share of stock to any person pursuant to such person's exerciseof a qualified stock option, an incentive stock option, or a restricted stock option, or
 
 “(2) which in any calendar year records (or has by its agent recorded) a transfer of the legal title of a share of stock—
 

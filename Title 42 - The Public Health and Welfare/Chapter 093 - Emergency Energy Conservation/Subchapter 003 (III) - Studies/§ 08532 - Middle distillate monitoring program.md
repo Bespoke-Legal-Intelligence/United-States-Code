@@ -2,7 +2,7 @@
 
 #### (a) Monitoring program
 
-(1) Not later than 60 days after November 5, 1979, the Secretary shall establish and maintaina data collection program for monitoring, at the refining, wholesale, and retail levels, the supply and demand levels of middle distillates on a periodic basis in each State.
+(1) Not later than 60 days after November 5, 1979, the Secretary shall establish and maintain a data collection program for monitoring, at the refining, wholesale, and retail levels, the supply and demand levels of middle distillates on a periodic basis in each State.
 
 (2) The program to be established under paragraph (1) shall provide for—
 

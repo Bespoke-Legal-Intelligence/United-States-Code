@@ -56,7 +56,7 @@ Members of the advisory council shall serve without pay, but the Secretary shall
 
 #### (f) Administrative support
 
-The Secretary shall provide the advisory council with necessary administrative support andshall designate an appropriate officer of the Bureau of Land Management to serve as the Secretary's liaison to the council.
+The Secretary shall provide the advisory council with necessary administrative support and shall designate an appropriate officer of the Bureau of Land Management to serve as the Secretary's liaison to the council.
 
 #### (g) State liaison
 

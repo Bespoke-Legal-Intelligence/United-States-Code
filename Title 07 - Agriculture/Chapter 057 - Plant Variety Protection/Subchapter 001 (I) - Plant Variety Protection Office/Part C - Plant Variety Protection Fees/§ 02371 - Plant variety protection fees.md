@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall, under such regulations as the Secretary may prescribe, charge and collectreasonable fees for services performed under this chapter.
+The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees for services performed under this chapter.
 
 #### (b) Late payment penalty
 

@@ -80,7 +80,7 @@ Domestic Buying Preferences.—(1) In this subsection, “United States” means
 
 &emsp;&emsp;(ii) the cost of imposing those requirements is unreasonable; or
 
-&emsp;&emsp;(iii) the articles, material, or supplies, or the articles, material, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; or
+&emsp;&emsp;(iii) the articles, material, or supplies, or the articles, material, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonablyavailable commercial quantities and are not of a satisfactory quality; or
 
 &emsp;(B) rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.
 

@@ -650,9 +650,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Codification
+
+The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act's provisions by Pub. L. 92–500.
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 59n–1, 1272, 1293a, 1375a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title 16 sections 460zz–2, 460<i>lll</i>, 471i, 1456, 3830, 4711; title 18 section 1956; title 22 section 277d–43; title 26 section 169; title 30 sections 201, 1242, 1251, 1253, 1292, 1303, 1419; title 40 App. section 214; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9603, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
+This chapter is referred to in sections 59n–1, 1272, 1293a, 1375a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title 16 sections 460zz–2, 460<i>lll</i>, 471i, 1456, 3830, 4711; title 18 section 1956; title 22 section 277d–43; title 26 section 169; title 30 sections 201, 1242, 1251, 1253, 1292, 1303, 1419; title 40 App. section 214; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9601, 9603, 9604, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
 
 
 ---

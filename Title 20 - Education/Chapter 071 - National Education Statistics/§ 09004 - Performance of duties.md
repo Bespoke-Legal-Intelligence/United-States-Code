@@ -8,7 +8,7 @@
 
 #### (2) Duration
 
-&emsp;Notwithstanding any other provision of law, the grants, contracts, and cooperative agreements under this section may be awarded, ona competitive basis, for a period of not more than five years, and may be renewed at the discretion of the Commissioner for an additional period of not more than five years.
+&emsp;Notwithstanding any other provision of law, the grants, contracts, and cooperative agreements under this section may be awarded, on a competitive basis, for a period of not more than five years, and may be renewed at the discretion of the Commissioner for an additional period of not more than five years.
 
 #### (b) Gathering information
 

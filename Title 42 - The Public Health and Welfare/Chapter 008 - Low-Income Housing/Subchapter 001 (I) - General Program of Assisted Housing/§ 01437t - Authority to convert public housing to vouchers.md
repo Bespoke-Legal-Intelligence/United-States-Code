@@ -16,7 +16,7 @@ A public housing agency may convert any public housing project (or portion there
 
 &emsp;&emsp;(C) an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistance under section 1437f of this title by the agency;
 
-&emsp;&emsp;(D) the impact of the conversion to tenant-based assistance under this section on theneighborhood in which the public housing project is located; and
+&emsp;&emsp;(D) the impact of the conversion to tenant-based assistance under this section on the neighborhood in which the public housing project is located; and
 
 &emsp;&emsp;(E) a plan that identifies actions, if any, that the public housing agency would take with regard to converting any public housing project or projects (or portions thereof) of the public housing agency to tenant-based assistance.
 
@@ -74,7 +74,7 @@ A public housing project may be converted under this section to tenant-based ass
 
 &emsp;&emsp;(D) provide any actual and reasonable relocation expenses for families displaced by the conversion; and
 
-&emsp;(5) provide that any proceeds to the agency from the conversion will be used subject to the limitations that are applicable under section 1437p(a)(5) of this title to proceeds resulting from the disposition or demolition of public housing.
+&emsp;(5) provide that any proceeds to the agency from the conversion will be used subject to the limitations that are applicable under section 1437p(a)(5) of this title to proceeds resultingfrom the disposition or demolition of public housing.
 
 #### (e) Review and approval of conversion plans
 

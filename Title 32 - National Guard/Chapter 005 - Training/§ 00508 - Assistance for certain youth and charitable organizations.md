@@ -30,7 +30,7 @@ Authorized Services.—The services authorized to be provided under subsection (
 
 (c)
 
-Other Authorized Assistance.—Facilities and equipment of the National Guard, includingmilitary property of the United States issued to the National Guard and General Services Administration vehicles leased to the National Guard, and General Services Administration vehicles leased to the Department of Defense, may be used in connection with providing services to any eligible organization under this section.
+Other Authorized Assistance.—Facilities and equipment of the National Guard, including military property of the United States issued to the National Guard and General Services Administration vehicles leased to the National Guard, and General Services Administration vehicles leased to the Department of Defense, may be used in connection with providing services to any eligible organization under this section.
 
 (d)
 

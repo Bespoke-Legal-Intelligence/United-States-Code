@@ -2,7 +2,7 @@
 
 #### SUBCHAPTER I—PROTECTION OF EMPLOYEE BENEFIT RIGHTS
 
-#### Subtitle A—General Provisions
+#### Subtitse A—General Provisions
 
 | Sec. |  |
 | :--- | ---: |
@@ -20,6 +20,9 @@
 | (c) | Declaration of policy. |
 | [1002\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20A%20-%20General%20Provisions/%C2%A7%2001002%20-%20Definitions.md) | Definitions. |
 | [1003\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20A%20-%20General%20Provisions/%C2%A7%2001003%20-%20Coverage.md) | Coverage. |
+| (a) | In general. |
+| (b) | Exceptions for certain plans. |
+| (c) | Voluntary employee contributions to accounts and annuities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -313,6 +316,7 @@ I74part 1—reporting and disclosure
 | (i) | Authorization of appropriations. |
 | (j) | Financial obligation for fiscal year 1998. |
 | (k) | Contracts. |
+| [1148\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20005%20-%20Administration%20and%20Enforcement/%C2%A7%2001148%20-%20Authority%20to%20postpone%20certain%20deadlines%20by%20reason%20of%20Presidentially%20declared%20disaster%20or%20terroristic%20or%20military%20actions.md) | Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -488,6 +492,7 @@ I74part 1—joint pension, profit-sharing, and employee stock ownership plan tas
 | (f) | Adoption of bylaws; amendment, alteration; publication in the Federal Register. |
 | (g) | Exemption from taxation. |
 | (h) | Advisory committee to corporation. |
+| (i) | Special rules regarding disasters, etc. |
 | [1303\.](Subchapter%20003%20%28III%29%20-%20Plan%20Termination%20Insurance/Subtitle%20A%20-%20Pension%20Benefit%20Guaranty%20Corporation/%C2%A7%2001303%20-%20Operation%20of%20corporation.md) | Operation of corporation. |
 | (a) | Investigatory authority; audit of statistically significant number of terminating plans. |
 | (b) | Discovery powers vested in board members or officers designated by the chairman. |
@@ -888,7 +893,7 @@ I74part 1—employer withdrawals
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 441 of this title; title 7 section 1a; title 15 sections 77b, 78c, 631b, 662; title 18 section 1027; title 20 section 1085; title 26 sections 412, 414; title 26 section 404; title 31 section 9502; title 42 sections 1395w–22, 1396s, 1396u–2, 3035r; title 45 section 743.
+This chapter is referred to in section 441 of this title; title 7 section 1a; title 15 sections 77b, 78c, 631b, 662; title 18 section 1027; title 20 section 1085; title 26 sections 412, 414; title 26 section 404; title 31 section 9502; title 42 sections 1395w–22, 1396s, 1396u–2; title 45 section 743.
 
 
 ---

@@ -78,7 +78,7 @@ Such order shall provide for the establishment of a Lime Board as follows:
 
 #### (7) Travel expenses
 
-&emsp;While away from their homes or regular places of business in the performance of dutiesfor the Board, members and alternates shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, in the same manner as persons employed intermittently in Government service are allowed travel expenses under section 5703 of title 5.
+&emsp;While away from their homes or regular places of business in the performance of duties for the Board, members and alternates shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, in the same manner as persons employed intermittently in Government service are allowed travel expenses under section 5703 of title 5.
 
 #### (8) Powers and duties
 

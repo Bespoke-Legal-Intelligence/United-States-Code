@@ -10,7 +10,7 @@ If such agreement is approved by the Secretary (within such time as may be state
 
 &emsp;(1) the case shall not be reopened as to the matters agreed upon or the agreement modified by any officer, employee, or agent of the United States, and
 
-&emsp;(2) in any suit, action, or proceeding, such agreement, or any determination, assessment, collection, payment, abatement, refund, or credit made in accordance therewith, shall notbe annulled, modified, set aside, or disregarded.
+&emsp;(2) in any suit, action, or proceeding, such agreement, or any determination, assessment, collection, payment, abatement, refund, or credit made in accordance therewith, shall not be annulled, modified, set aside, or disregarded.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 849; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 

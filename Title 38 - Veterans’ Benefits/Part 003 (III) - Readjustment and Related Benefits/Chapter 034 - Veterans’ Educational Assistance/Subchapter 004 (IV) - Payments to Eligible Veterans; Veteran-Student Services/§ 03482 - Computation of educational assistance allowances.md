@@ -56,7 +56,7 @@
 
 (f) The educational assistance allowance of an eligible veteran pursuing a course by open circuit television shall be computed in the same manner that such allowance is computed under subsection (e) of this section for an independent study program.
 
-(g)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance allowance paid to an eligible veteran who is pursuing a program of educationunder this chapter while incarcerated in a Federal, State, or local penal institution for conviction of a felony may not exceed such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and to cover the cost of necessary supplies, books, and equipment, or the applicable monthly educational assistance allowance prescribed for a veteran with no dependents in subsection (a)(1) or (c)(2) of this section or section 3687(b)(1) of this title, whichever is the lesser. The amount of the educational assistance allowance payable to a veteran while so incarcerated shall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
+(g)(1) Subject to the provisions of paragraph (2) of this subsection, the amount of the educational assistance allowance paid to an eligible veteran who is pursuing a program of education under this chapter while incarcerated in a Federal, State, or local penal institution for conviction of a felony may not exceed such amount as the Secretary determines, in accordance with regulations which the Secretary shall prescribe, is necessary to cover the cost of established charges for tuition and fees required of similarly circumstanced nonveterans enrolled in the same program and to cover the cost of necessary supplies, books, and equipment, or the applicable monthly educational assistance allowance prescribed for a veteran with no dependents in subsection (a)(1) or (c)(2) of this section or section 3687(b)(1) of this title, whichever is the lesser. The amount of the educational assistance allowance payable to a veteran while so incarceratedshall be reduced to the extent that the tuition and fees of the veteran for any course are paid under any Federal program (other than a program administered by the Secretary) or under any State or local program.
 
 (2) Paragraph (1) of this subsection shall not apply in the case of any veteran who is pursuing a program of education under this chapter while residing in a halfway house or participating in a work-release program in connection with such veteran's conviction of a felony.
 
@@ -118,7 +118,7 @@ Subsec. (b). Pub. L. 96–466, §211(3), substituted “$342” for “$327”.
 
 Pub. L. 96–466, §201(3), substituted “$327” for “$311”.
 
-Pub. L. 96–466, §308, inserted provision that an individual's entitlement be charged for institutional courses on the basis of the applicable monthly training time rate as determined under section 1788 of this title.
+Pub. L. 96–466, §308, inserted provision that an individual's entitlement be charged for institutionalcourses on the basis of the applicable monthly training time rate as determined under section 1788 of this title.
 
 Subsec. (c)(2). Pub. L. 96–466, §211(4), increased the monthly educational assistance allowance for eligible veterans pursuing a farm cooperative program in column II from $264, $198, and $132 to $276, $207, and $138; in column III from $309, $232, and $155 to $323, $242, and $162; in column IV from $351, $263, and $176 to $367, $275, and $184; in column V from $20, $15, and $10 to $21, $16, and $11, respectively.
 
@@ -250,7 +250,7 @@ Section 602(d) of Pub. L. 96–466 provided that: “The provisions of section 1
 
 #### Overpayments to Veterans by Tangipahoa Parish School Board, Amite, Louisiana
 
-Pub. L. 90–493, §5, Aug. 19, 1968, 82 Stat. 809, provided that any veteran determined by the Administrator ofVeterans’ Affairs to have received overpayments of educational benefits under former chapter 33 of title 38, United States Code in connection with the institutional on-farm training program conducted by the Tangipahoa Parish School Board, Amite, Louisiana, would be relieved of all liability to the United States for the amount of such overpayment, remaining due on Aug. 19, 1968, by making application for relief within two years following Aug. 19, 1968.
+Pub. L. 90–493, §5, Aug. 19, 1968, 82 Stat. 809, provided that any veteran determined by the Administrator of Veterans’ Affairs to have received overpayments of educational benefits under former chapter 33 of title 38, United States Code in connection with the institutional on-farm training program conducted by the Tangipahoa Parish School Board, Amite, Louisiana, would be relieved of all liability to the United States for the amount of such overpayment, remaining due on Aug. 19, 1968, by making application for relief within two years following Aug. 19, 1968.
 
 #### Section Referred to in Other Sections
 

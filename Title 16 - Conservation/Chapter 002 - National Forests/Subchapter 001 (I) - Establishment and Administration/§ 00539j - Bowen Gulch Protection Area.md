@@ -8,7 +8,7 @@
 
 #### (b) Administration
 
-The Secretary shall administer the protection area in accordance with this section and thelaws and regulations generally applicable to the National Forest System.
+The Secretary shall administer the protection area in accordance with this section and the laws and regulations generally applicable to the National Forest System.
 
 #### (c) Withdrawal
 

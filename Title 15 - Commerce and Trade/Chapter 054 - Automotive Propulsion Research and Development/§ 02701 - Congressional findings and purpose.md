@@ -26,7 +26,3 @@
 
 Section 301 of title III of Pub. L. 95–238 provided that: “This title \[enacting this chapter and amending section 2451 of Title 42, The Public Health and Welfare\] may be cited as the ‘Automotive Propulsion Research and Development Act of 1978’.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 42 section 2451.
-

@@ -24,11 +24,9 @@
 
 (c) A provision of law that is inconsistent with subsection (a) or (b) of this section shall not apply, to the extent of the inconsistency, to the procurement of a health-care item for use by the Department.
 
-(d)(1) Not later than December 1 of each year (beginning in 1992), the director of each Department medical center shall transmit to the Secretary a report containing a list indicating the quantity of each health-care item procured at that medical center under a local contract during the preceding fiscal year and the total amount paid for such item during such fiscal year.
+(d)(1) Not later than December 1 of each year, the director of each Department medical center shall transmit to the Secretary a report containing a list indicating the quantity of each health-care item procured at that medical center under a local contract during the preceding fiscal year and the total amount paid for such item during such fiscal year.
 
-(2) Not later than February 1 of each year (beginning in 1993), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the experience in carrying out this section during the preceding fiscal year.
-
-(3) Not later than February 1 of each year from 1989 through 1992, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the experience in carrying out this section during the preceding fiscal year. The first such report shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department during fiscal year 1988 that were procured through local contracts. The other reports under this paragraph shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department, and by each Department medical center, during the fiscal year covered by the report that were purchased through local contracts and, in the case of each medical center at which the percentage was greater than 20 percent, an explanation of the reasons why that occurred.
+(2) Not later than February 1 of each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the experience in carrying out this section during the preceding fiscal year.
 
 (e) For the purposes of this section:
 
@@ -38,9 +36,15 @@
 
 &emsp;(3) The term “emergency procurement” means a procurement necessary to meet an emergency need, affecting the health or safety of a person being furnished health-care services by the Department, for an item.
 
-(Added Pub. L. 100–322, title IV, §403(a)(1), May 20, 1988, 102 Stat. 543, §5025; amended Pub. L. 100–687, div. B, title XV, §1507(b), (c), Nov. 18, 1988, 102 Stat. 4136, 4137; renumbered §8125, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 100–322, title IV, §403(a)(1), May 20, 1988, 102 Stat. 543, §5025; amended Pub. L. 100–687, div. B, title XV, §1507(b), (c), Nov. 18, 1988, 102 Stat. 4136, 4137; renumbered §8125, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 107–14, §8(a)(15), June 5, 2001, 115 Stat. 35.)
 
 #### Amendments
+
+2001—Subsec. (d)(1). Pub. L. 107–14, §8(a)(15)(A), struck out “(beginning in 1992)” after “each year”.
+
+Subsec. (d)(2). Pub. L. 107–14, §8(a)(15)(B), struck out “(beginning in 1993)” after “each year”.
+
+Subsec. (d)(3). Pub. L. 107–14, §8(a)(15)(C), struck out par. (3) which read as follows: “Not later than February 1 of each year from 1989 through 1992, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the experience in carrying out this section during the preceding fiscal year. The first such report shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department during fiscal year 1988 that were procured through local contracts. The other reports under this paragraph shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department, and by each Department medical center, during the fiscal year covered by the report that were purchased through local contracts and, in the case of each medical center at which the percentage was greater than 20 percent, an explanation of the reasons why that occurred.”
 
 1992—Subsec. (b)(1)(B)(ii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -76,5 +80,5 @@ Section 403(b) of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, ti
 
 #### Standardization of Medical and Pharmaceutical Items
 
-Section 402 of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, title XV, §1508, Nov. 18, 1988, 102 Stat. 4137, directed Administrator, not later than Oct. 1, 1989, to develop and fully implement an agency-wide plan for cost-effective standardization of health-care items procured by Veterans’ Administration.
+Section 402 of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, title XV, §1508, Nov. 18, 1988, 102 Stat.4137, directed Administrator, not later than Oct. 1, 1989, to develop and fully implement an agency-wide plan for cost-effective standardization of health-care items procured by Veterans’ Administration.
 

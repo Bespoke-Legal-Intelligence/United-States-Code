@@ -80,7 +80,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) the decision of a court in an action begun by such a petition has become final,
 
-> &emsp;the partner may elect to have such adjustment, such decision, or a settlement agreement described in paragraph (2) of section 6224(c) with respect to the partnership taxable year to which the adjustment relates apply to such partner. If the partner does not make an election under the preceding sentence, thepartnership items of the partner for the partnership taxable year to which the proceeding relates shall be treated as nonpartnership items.
+> &emsp;the partner may elect to have such adjustment, such decision, or a settlement agreement described in paragraph (2) of section 6224(c) with respect to the partnership taxable year to which the adjustment relates apply to such partner. If the partner does not make an election under the preceding sentence, the partnership items of the partner for the partnership taxable year to which the proceeding relates shall be treated as nonpartnership items.
 
 #### (3) Proceedings still going on
 

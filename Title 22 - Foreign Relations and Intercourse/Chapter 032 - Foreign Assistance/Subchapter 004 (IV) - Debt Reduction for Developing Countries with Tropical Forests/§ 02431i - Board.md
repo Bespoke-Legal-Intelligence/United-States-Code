@@ -16,7 +16,7 @@ The Enterprise for the Americas Board established under section 1738i(a) of titl
 
 #### (2) Chairperson
 
-&emsp;Notwithstanding section 1738i(b)(2) of title 7, the Enterprise for the Americas Board shall be headed by a chairperson who shall be appointed by the President from among the representatives appointed under section 1738i(b)(1)(A) of title 7 or paragraph (1)(A) of this subsection.
+&emsp;Notwithstanding section 1738i(b)(2) of title 7, the Enterprise for the Americas Board shall be headed by a chairperson who shall be appointed by the President and shall be the representative from the Department of State appointed under section 1738i(b)(1)(A) of title 7.
 
 #### (c) Duties
 
@@ -40,11 +40,15 @@ The duties described in this subsection are as follows:
 
 &emsp;(3) Review the programs, operations, and fiscal audits of each administering body.
 
-(Pub. L. 87–195, pt. V, §811, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 892.)
+(Pub. L. 87–195, pt. V, §811, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 892; amended Pub. L. 107–26, §3, Aug. 17, 2001, 115 Stat. 206.)
+
+#### Amendments
+
+2001—Subsec. (b)(2). Pub. L. 107–26 substituted “and shall be the representative from the Department of State appointed under section 1738i(b)(1)(A) of title 7” for “from among the representatives appointed under section 1738i(b)(1)(A) of title 7 or paragraph (1)(A) of this subsection”.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Section Referred to in Other Sections
 

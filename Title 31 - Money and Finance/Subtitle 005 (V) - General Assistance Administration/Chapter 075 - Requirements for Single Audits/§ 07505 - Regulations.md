@@ -2,7 +2,7 @@
 
 (a) The Director, after consultation with the Comptroller General, and appropriate officials from Federal, State, and local governments and nonprofit organizations shall prescribe guidance to implement this chapter. Each Federal agency shall promulgate such amendments to its regulations as may be necessary to conform such regulations to the requirements of this chapter and of such guidance.
 
-(b)(1) The guidance prescribed pursuant to subsection (a) shall include criteria for determining the appropriate charges to Federal awards for the cost of audits. Such criteria shall prohibit a non-Federal entity from charging to any Federal awards—
+(b)(1) The guidance prescribed pursuant to subsection (a) shall include criteria for determiningthe appropriate charges to Federal awards for the cost of audits. Such criteria shall prohibit a non-Federal entity from charging to any Federal awards—
 
 &emsp;(A) the cost of any audit which is—
 

@@ -42,7 +42,7 @@
 
 #### (ii) Liaison
 
-&emsp;&emsp;&emsp;A fluoridation specialist shall serve as the principal technical liaison between the Indian Health Service and the Centers for Disease Control and Prevention with respect to engineering and fluoridation issues.
+&emsp;&emsp;&emsp;A fluoridation specialist shall serve as the principal technical liaison between theIndian Health Service and the Centers for Disease Control and Prevention with respect to engineering and fluoridation issues.
 
 #### (iii) CDC
 
@@ -72,7 +72,7 @@
 
 #### (2) Use of funds
 
-&emsp;A State shall use amounts received under a grant under paragraph (1) to provide funds toeligible school-based entities or to public elementary or secondary schools to enable such entities or schools to provide children with access to dental care and dental sealant services. Such services shall be provided by licensed dental health professionals in accordance with State practice licensing laws.
+&emsp;A State shall use amounts received under a grant under paragraph (1) to provide funds to eligible school-based entities or to public elementary or secondary schools to enable such entities or schools to provide children with access to dental care and dental sealant services. Such services shall be provided by licensed dental health professionals in accordance with State practice licensing laws.
 
 #### (3) Eligibility
 

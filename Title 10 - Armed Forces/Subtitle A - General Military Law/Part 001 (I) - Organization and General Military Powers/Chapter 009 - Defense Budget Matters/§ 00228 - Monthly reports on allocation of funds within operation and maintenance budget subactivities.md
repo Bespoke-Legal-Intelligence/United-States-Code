@@ -8,7 +8,7 @@ Monthly Report.—The Secretary of Defense shall submit to Congress a monthly re
 
 Matters To Be Included.—Each such report shall set forth the following for each subactivity of the O\&M budget activities:
 
-&emsp;(1) The amount of budget authority appropriated for that subactivity in the most recentregular Department of Defense Appropriations Act.
+&emsp;(1) The amount of budget authority appropriated for that subactivity in the most recent regular Department of Defense Appropriations Act.
 
 &emsp;(2) The amount of budget authority actually made available for that subactivity, taking into consideration supplemental appropriations, rescissions, and other adjustments required by law or made pursuant to law.
 

@@ -18,7 +18,7 @@ Conditions for Sales.—(1) A sale of articles or services may be made under thi
 
 &emsp;(A) the Secretary of Defense determines that the articles or services are not available from a commercial source in the United States;
 
-&emsp;(B) the purchaser agrees to hold harmless and indemnify the United States, except in any case of willful misconduct or gross negligence, from any claim for damages or injury to any person or property arising out of the articles or services;
+&emsp;(B) the purchaser agrees to hold harmless and indemnify the United States, except as provided in paragraph (3), from any claim for damages or injury to any person or property arising out of the articles or services;
 
 &emsp;(C) the articles or services can be substantially manufactured or performed by the industrial facility concerned with only incidental subcontracting;
 
@@ -29,6 +29,8 @@ Conditions for Sales.—(1) A sale of articles or services may be made under thi
 &emsp;(F) the sale of the goods and services is made on the basis that it will not interfere with performance of work by the industrial facility concerned for the Department of Defense.
 
 (2) The Secretary of Defense may waive the condition in paragraph (1)(A) and subsection (a)(1) that an article or service must be not available from a United States commercial source in the case of a particular sale if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.
+
+(3) Paragraph (1)(B) does not apply in any case of willful misconduct or gross negligence or in the case of a claim by a purchaser of articles or services under this section that damages or injury arose from the failure of the Government to comply with quality, schedule, or cost performance requirements in the contract to provide the articles or services.
 
 (d)
 
@@ -68,9 +70,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) in the case of services, the extent of the services sold.
 
-(Added Pub. L. 103–337, div. A, title III, §339(a)(1), Oct. 5, 1994, 108 Stat. 2718, §2553; amended Pub. L. 106–65, div. A, title III, §331(a)(2), (b), Oct. 5, 1999, 113 Stat. 566, 567; renumbered §2563, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 103–337, div. A, title III, §339(a)(1), Oct. 5, 1994, 108 Stat. 2718, §2553; amended Pub. L. 106–65, div. A, title III, §331(a)(2), (b), Oct. 5, 1999, 113 Stat. 566, 567; renumbered §2563, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title III, §343(a), Dec. 28, 2001, 115 Stat. 1061.)
 
 #### Amendments
+
+2001—Subsec. (c)(1)(B). Pub. L. 107–107, §343(a)(1), substituted “as provided in paragraph (3)” for “in any case of willful misconduct or gross negligence”.
+
+Subsec. (c)(3). Pub. L. 107–107, §343(a)(2), added par. (3).
 
 2000—Pub. L. 106–398 renumbered section 2553 of this title as this section.
 
@@ -84,5 +90,5 @@ Section 339(b) of Pub. L. 103–337 provided that: “Section 2553 \[now 2563\] 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7300 of this title.
+This section is referred to in sections 2474, 7300 of this title.
 

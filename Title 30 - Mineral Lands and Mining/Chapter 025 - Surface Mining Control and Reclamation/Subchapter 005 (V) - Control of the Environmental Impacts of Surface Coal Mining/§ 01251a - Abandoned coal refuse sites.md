@@ -6,7 +6,7 @@
 
 (3) The Secretary of the Interior may devise a different standard than any of those set forth in section 515 and section 516 of the Surface Mining Control and Reclamation Act of 1977 \[30 U.S.C. 1265, 1266\], and devise a separate permit system, if he determines, on a standard-by-standard basis, that a different standard may facilitate the on-site reprocessing, or the removal, of abandoned coal refuse in a manner that would provide the same level of environmental protection as under section 515 and section 516.
 
-(4) Not later than 30 days prior to the publication of the proposed regulations referred to in this section, the Secretary shall submit a report to the Committee on Interior and Insular Affairs of the United States House of Representatives, and the Committee on Energy and Natural Resources of the United States Senate containing a detailed description of any environmental protection performance and reclamation standards, and separate permit systems, devised pursuant to this section.
+(4) Not later than 30 days prior to the publication of the proposed regulations referred to in this section, the Secretary shall submit a report to the Committee on Interior and Insular Affairs of the United States House of Representatives, and the Committee on Energy and Natural Resources of the United States Senate containinga detailed description of any environmental protection performance and reclamation standards, and separate permit systems, devised pursuant to this section.
 
 (Pub. L. 102–486, title XXV, §2503(e), Oct. 24, 1992, 106 Stat. 3103.)
 

@@ -32,5 +32,5 @@ Provisions of this section as not amended, modified or repealed by the Submerged
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 30 sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48; title 30 section 102.
+This section is referred to in title 30 sections 24, 29, 33, 37, 38, 39, 40, 42, 46, 47, 48, 102.
 

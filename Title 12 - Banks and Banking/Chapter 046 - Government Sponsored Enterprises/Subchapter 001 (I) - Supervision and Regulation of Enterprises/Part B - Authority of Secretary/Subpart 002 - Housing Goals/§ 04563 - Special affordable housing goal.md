@@ -46,7 +46,7 @@
 
 #### (C) RTC and FDIC loans
 
-&emsp;&emsp;The purchase of direct loans made by the Resolution Trust Corporation or the Federal Deposit Insurance Corporation, if such loans—
+&emsp;&emsp;The purchase of direct loans made by the Resolution Trust Corporation or the FederalDeposit Insurance Corporation, if such loans—
 
 &emsp;&emsp;&emsp;(i) are not guaranteed by such agencies themselves or other Federal agencies;
 
@@ -56,7 +56,7 @@
 
 #### (2) Exclusion
 
-&emsp;No credit toward the achievement of the special affordable housing goal may be given tothe purchase or securitization of mortgages associated with the refinancing of the existing enterprise portfolios.
+&emsp;No credit toward the achievement of the special affordable housing goal may be given to the purchase or securitization of mortgages associated with the refinancing of the existing enterprise portfolios.
 
 #### (c) Use of borrower and tenant income
 

@@ -92,7 +92,7 @@ Amendment by section 25 of Pub. L. 85–866 applicable to taxable years beginnin
 
 Section 26(b) of Pub. L. 85–866 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to taxable years ending after September 30, 1958.”
 
-Section 3 of Pub. L. 85–320 provided that: “The amendments made by this Act \[amending this section and section 1014 of this title\] shall apply with respect to taxable years ending after December 31, 1956, but only in the case of employees dying after such date.”
+Section 3 of Pub. L. 85–320 provided that: “The amendments made by this Act \[amending this section and section 1014 of this title\] shall apply with respectto taxable years ending after December 31, 1956, but only in the case of employees dying after such date.”
 
 #### Savings Provision
 

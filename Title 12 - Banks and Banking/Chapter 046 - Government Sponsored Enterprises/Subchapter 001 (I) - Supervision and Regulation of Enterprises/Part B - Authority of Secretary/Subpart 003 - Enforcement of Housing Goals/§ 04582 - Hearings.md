@@ -26,7 +26,7 @@
 
 #### (2) Modification
 
-&emsp;Judicial review of any such order shall be exclusively as provided in section 4583 of this title. Unless such a petition for review is timely filed as provided in section 4583 of this title, and thereafter until the record in the proceeding has been filed as so provided, the Secretary may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Secretary considers proper. Upon such filing of the record, the Secretary may modify, terminate, or set aside any such order with permission of the court.
+&emsp;Judicial review of any such order shall be exclusively as provided in section 4583 of thistitle. Unless such a petition for review is timely filed as provided in section 4583 of this title, and thereafter until the record in the proceeding has been filed as so provided, the Secretary may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Secretary considers proper. Upon such filing of the record, the Secretary may modify, terminate, or set aside any such order with permission of the court.
 
 (Pub. L. 102–550, title XIII, §1342, Oct. 28, 1992, 106 Stat. 3965.)
 

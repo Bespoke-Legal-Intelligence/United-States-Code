@@ -2,7 +2,7 @@
 
 (a)(1) Subject to subsection (b), any court of the United States may authorize the commencement, prosecution or defense of any suit, action or proceeding, civil or criminal, or appeal therein, without prepayment of fees or security therefor, by a person who submits an affidavit that includes a statement of all assets such prisoner possesses that the person is unable to pay such fees or give security therefor. Such affidavit shall state the nature of the action, defense or appeal and affiant's belief that the person is entitled to redress.
 
-(2) A prisoner seeking to bring a civil action or appeal a judgment in a civil action or proceeding without prepayment of fees or security therefor, in addition to filing the affidavit filed under paragraph (1), shall submit a certified copy of the trust fund account statement (or institutional equivalent) for the prisoner for the 6-month period immediately preceding the filing of the complaint or notice of appeal, obtained from the appropriate official of each prison at which the prisoner is or was confined.
+(2) A prisoner seeking to bring a civil action or appeal a judgment in a civil action or proceeding without prepayment of fees or security therefor, in addition to filing the affidavit filed under paragraph (1), shall submit a certifiedcopy of the trust fund account statement (or institutional equivalent) for the prisoner for the 6-month period immediately preceding the filing of the complaint or notice of appeal, obtained from the appropriate official of each prison at which the prisoner is or was confined.
 
 (3) An appeal may not be taken in forma pauperis if the trial court certifies in writing that it is not taken in good faith.
 
@@ -62,7 +62,7 @@ For distribution of other provisions of section 9a of title 28, U.S.C., 1940 ed.
 
 Section 832 of title 28, U.S.C., 1940 ed., was completely rewritten, and constitutes subsections (a) and (b).
 
-Words “and willful false swearing in any affidavit provided for in this section or section 832 of this title, shall be punishable as perjury as in other cases,” in section 833 of title 28, U.S.C., 1940 ed., were omitted as covered by the general perjury statute, title 18, U.S.C., 1940 ed., §231 (H.R. 1600, 80th Cong., sec. 1621).
+Words “and willful false swearing in any affidavit provided for in this section or section 832 of this title, shall be punishable as perjury as in other cases,” insection 833 of title 28, U.S.C., 1940 ed., were omitted as covered by the general perjury statute, title 18, U.S.C., 1940 ed., §231 (H.R. 1600, 80th Cong., sec. 1621).
 
 A proviso in section 836 of title 28, U.S.C., 1940 ed., that the United States should not be liable for costs was deleted as covered by section 2412 of this title.
 

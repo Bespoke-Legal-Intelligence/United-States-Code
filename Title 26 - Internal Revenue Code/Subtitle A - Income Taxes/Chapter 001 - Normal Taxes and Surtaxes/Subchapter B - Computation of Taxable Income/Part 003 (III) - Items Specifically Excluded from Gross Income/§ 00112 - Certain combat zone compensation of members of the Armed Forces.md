@@ -2,7 +2,7 @@
 
 #### (a) Enlisted personnel
 
-Gross income does not include compensation received for active service as a member belowthe grade of commissioned officer in the Armed Forces of the United States for any month during any part of which such member—
+Gross income does not include compensation received for active service as a member below the grade of commissioned officer in the Armed Forces of the United States for any month during any part of which such member—
 
 &emsp;(1) served in a combat zone, or
 
@@ -94,7 +94,7 @@ Section 3(a)(1) of Pub. L. 92–279 provided that: “The amendment made by the 
 
 #### Effective Date of 1966 Amendment
 
-Section 2 of Pub. L. 89–739 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to compensation received in taxable years ending after December 31, 1965, for periods of active service after such date.”
+Section 2 of Pub. L. 89–739 provided that: “The amendment made by the first section of this Act\[amending this section\] shall apply with respect to compensation received in taxable years ending after December 31, 1965, for periods of active service after such date.”
 
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
@@ -283,6 +283,16 @@ Pursuant to the authority vested in me as President by the Constitution and laws
 For the purposes of this order, I designate March 24, 1999, as the date of the commencement of combatant activities in such zone.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13239. Designation of Afghanistan and the Airspace Above as a Combat Zone
+
+Ex. Ord. No. 13239, Dec. 12, 2001, 66 F.R. 64907, provided:
+
+Pursuant to the authority vested in me as President by the Constitution and the laws of the United States of America, including section 112 of the Internal Revenue Code of 1986 (26 U.S.C. 112), I designate, for purposes of that section, Afghanistan, including the airspace above, as an area in which Armed Forces of the United States are and have been engaged in combat.
+
+For purposes of this order, I designate September 19, 2001, as the date of the commencement of combatant activities in such zone.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

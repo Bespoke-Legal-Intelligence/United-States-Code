@@ -30,7 +30,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 #### (2) Confirmation
 
-&emsp;On request the Administration shall examine the qualifications of any company described in subsection (a) of this section to determine if such company is eligible for the delegation of authority under this section. If the Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
+&emsp;On request the Administration shall examine the qualifications of any company described in subsection (a) of this section to determine if such company is eligible for the delegation of authority under this section. Ifthe Administration determines that a company is not eligible, the Administration shall provide the company with the reasons for such ineligibility.
 
 #### (c) Scope of delegated authority
 

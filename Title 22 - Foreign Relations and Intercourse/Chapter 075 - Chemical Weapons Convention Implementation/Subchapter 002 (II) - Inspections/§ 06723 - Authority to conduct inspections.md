@@ -8,11 +8,11 @@ No inspection of a plant, plant site, or other facility or location in the Unite
 
 #### (1) Technical Secretariat inspection teams
 
-&emsp;Any duly designated member of an inspection team of the Technical Secretariat may inspect any plant, plant site, or other facility or location in the United States subject to inspection pursuant to the Convention.
+&emsp;Any duly designated member of an inspection team of the Technical Secretariat mayinspect any plant, plant site, or other facility or location in the United States subject to inspection pursuant to the Convention.
 
 #### (2) United States Government representatives
 
-&emsp;The United States National Authority shall coordinate the designation of employees of the Federal Government to accompany members of an inspection team of the Technical Secretariat and, in doing so, shall ensure that—
+&emsp;The United States National Authority shall coordinate the designation of employees of the Federal Government (and, in the case of an inspection of a United States Government facility, the designation of contractor personnel who shall be led by an employee of the Federal Government) to accompany members of an inspection team of the Technical Secretariat and, in doing so, shall ensure that—
 
 &emsp;&emsp;(A) a special agent of the Federal Bureau of Investigation, as designated by the Federal Bureau of Investigation, accompanies each inspection team visit pursuant to paragraph (1);
 
@@ -40,9 +40,11 @@ No inspection of a plant, plant site, or other facility or location in the Unite
 
 The requirement under subsection (b)(2)(A) of this section shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
 
-(Pub. L. 105–277, div. I, title III, §303, Oct. 21, 1998, 112 Stat. 2681–873; Pub. L. 106–280, title III, §305, Oct. 6, 2000, 114 Stat. 854.)
+(Pub. L. 105–277, div. I, title III, §303, Oct. 21, 1998, 112 Stat. 2681–873; Pub. L. 106–280, title III, §305, Oct. 6, 2000, 114 Stat. 854; Pub. L. 107–107, div. A, title XII, §1204(a), Dec. 28, 2001, 115 Stat. 1247.)
 
 #### Amendments
+
+2001—Subsec. (b)(2). Pub. L. 107–107 inserted “(and, in the case of an inspection of a United States Government facility, the designation of contractor personnel who shall be led by an employee of the Federal Government)” after “designation of employees of the Federal Government” in introductory provisions.
 
 2000—Subsec. (c). Pub. L. 106–280 added subsec. (c).
 
@@ -52,7 +54,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1117\], Nov. 29, 1
 
 “(a)
 
-Reimbursement.—During the 2-year period beginning on the date of the enactment of this Act \[Nov.29, 1999\], the United States National Authority (as designated pursuant to section 101 of the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6711\] (as contained in division I of Public Law 105–277)) shall, upon request of the Director of the Federal Bureau of Investigation, reimburse the Federal Bureau of Investigation for all costs incurred by the Bureau for such period in connection with implementation of section 303(b)(2)(A) of that Act \[22 U.S.C. 6723(b)(2)(A)\], except that such reimbursement may not exceed $2,000,000 for such 2-year period.
+Reimbursement.—During the 2-year period beginning on the date of the enactment of this Act \[Nov. 29, 1999\], the United States National Authority (as designated pursuant to section 101 of the Chemical Weapons Convention Implementation Act of 1998 \[22 U.S.C. 6711\] (as contained in division I of Public Law 105–277)) shall, upon request of the Director of the Federal Bureau of Investigation, reimburse the Federal Bureau of Investigation for all costs incurred by the Bureau for such period in connection with implementation of section 303(b)(2)(A) of that Act \[22 U.S.C. 6723(b)(2)(A)\], except that such reimbursement may not exceed $2,000,000 for such 2-year period.
 
 “(b)
 

@@ -6,11 +6,11 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (b) The term “firm” means any partnership, association, or other unincorporated business organization.
 
-(c) The term “meat broker” means any person, firm, or corporation engaged in the business of buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person, firm, or corporation.
+(c) The term “meat broker” means any person, firm, or corporation engaged in the business of buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep,swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person, firm, or corporation.
 
 (d) The term “renderer” means any person, firm, or corporation engaged in the business of rendering carcasses or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines, except rendering conducted under inspection or exemption under this subchapter.
 
-(e) The term “animal food manufacturer” means any person, firm, or corporation engaged in the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts of products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines.
+(e) The term “animal food manufacturer” means any person, firm, or corporation engaged in the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines.
 
 (f) The term “State” means any State of the United States and the Commonwealth of Puerto Rico.
 
@@ -126,7 +126,7 @@ Pub. L. 99–641, title IV, §401, Nov. 10, 1986, 100 Stat. 3567, provided that:
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act \[amending sections 603, 610, and 620 of this title and sections 1902 and 1904 of Title 7, Agriculture, repealing sections 1903 and 1905 of Title 7, and enacting provisions set out as notes under this sectionand section 603 of this title\] may be cited as the ‘Humane Methods of Slaughter Act of 1978’.”
+Pub. L. 95–445, §1, Oct. 10, 1978, 92 Stat. 1069, provided: “That this Act \[amending sections 603, 610, and 620 of this title and sections 1902 and 1904 of Title 7, Agriculture, repealing sections 1903 and 1905 of Title 7, and enacting provisions set out as notes under this section and section 603 of this title\] may be cited as the ‘Humane Methods of Slaughter Act of 1978’.”
 
 #### Short Title
 

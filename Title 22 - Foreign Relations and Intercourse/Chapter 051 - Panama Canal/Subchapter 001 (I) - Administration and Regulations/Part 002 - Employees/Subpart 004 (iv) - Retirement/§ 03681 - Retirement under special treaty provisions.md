@@ -2,7 +2,7 @@
 
 #### (a) Purchase of retirement equity; individuals entitled to participate
 
-(1) Subject to subsection (b) of this section, and under such regulations as the President may prescribe, the Secretary of the Treasury shall pay to the Social Security System of the Republic of Panama, out of funds deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund under section 8334(a)(2) of title 5, such sums of money as may be necessary to aid in the purchase of a retirement equity in such System for each individual who—
+(1) Subject to subsection (b) of this section, and under such regulations as the President mayprescribe, the Secretary of the Treasury shall pay to the Social Security System of the Republic of Panama, out of funds deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund under section 8334(a)(2) of title 5, such sums of money as may be necessary to aid in the purchase of a retirement equity in such System for each individual who—
 
 &emsp;(A) meets the requirements of paragraph (2) of this subsection;
 
@@ -16,7 +16,7 @@
 
 &emsp;(B) is not eligible for an immediate retirement annuity under chapter 83 of title 5, relating to civil service retirement, and elects not to receive a deferred annuity under that chapter based on any portion of that service, and
 
-&emsp;(C) elects to withdraw from the Civil Service Retirement and Disability Fund the individual's entire lump-sum credit (as defined in section 8331(8) of title 5) and to transfer thatamount to the Social Security System of the Republic of Panama pursuant to the special regime referred to in paragraph 3 of Article VIII of the Agreement in Implementation of Article III of the Panama Canal Treaty of 1977.
+&emsp;(C) elects to withdraw from the Civil Service Retirement and Disability Fund the individual's entire lump-sum credit (as defined in section 8331(8) of title 5) and to transfer that amount to the Social Security System of the Republic of Panama pursuant to the special regime referred to in paragraph 3 of Article VIII of the Agreement in Implementation of Article III of the Panama Canal Treaty of 1977.
 
 #### (b) Limitation on amount paid to Social Security System of Republic of Panama
 

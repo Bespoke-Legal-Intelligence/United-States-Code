@@ -6,7 +6,7 @@
 
 &emsp;If a taxpayer elects the application of this section with respect to any mining or solid waste disposal property, the amount of any deduction for qualified reclamation or closing costs for any taxable year to which such election applies shall be equal to the current reclamation or closing costs allocable to—
 
-&emsp;&emsp;(A) in the case of qualified reclamation costs, the portion of the reserve property which was disturbed during such taxable year, and
+&emsp;&emsp;(A) in the case of qualified reclamation costs, the portion of the reserve propertywhich was disturbed during such taxable year, and
 
 &emsp;&emsp;(B) in the case of qualified closing costs, the production from the reserve property during such taxable year.
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any provision of the Solid Waste Disposal Act (as in effect on January 1, 1984) requiring such activity, or
 
-&emsp;&emsp;&emsp;&emsp;(II) any other Federal, State, or local law which imposes requirements substantially similar to the requirementsimposed by the Solid Waste Disposal Act (as so in effect).
+&emsp;&emsp;&emsp;&emsp;(II) any other Federal, State, or local law which imposes requirements substantially similar to the requirements imposed by the Solid Waste Disposal Act (as so in effect).
 
 #### (ii) Exception for certain hazardous waste sites
 

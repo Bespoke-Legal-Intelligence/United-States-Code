@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—The Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may take action the Secretary or Administrator, as appropriate, considers necessary to carry out this part, including conducting investigations, prescribing regulations, standards, and procedures, and issuing orders.
+General Authority.—The Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) may take action the Secretary, Under Secretary, or Administrator, as appropriate, considers necessary to carry out this part, including conducting investigations, prescribing regulations, standards, and procedures, and issuing orders.
 
 (b)
 
@@ -14,7 +14,7 @@ Governmental Assistance.—The Secretary (or the Administrator of the Federal Av
 
 (d)
 
-Indemnification.—The Administrator of the Federal Aviation Administration may indemnify an officer or employee of the Administration against a claim or judgment arising out of an act that the Administrator decides was committed within the scope of the official duties of the officer or employee.
+Indemnification.—The Under Secretary of Transportation for Security or the Administrator of the Federal Aviation Administration may indemnify an officer or employee of the Transportation Security Administration or Federal Aviation Administration, as the case may be, against a claim or judgment arising out of an act that the Under Secretary or Administrator, as the case may be, decides was committed within the scope of the official duties of the officer or employee.
 
 (e)
 
@@ -22,7 +22,7 @@ Assistance to Foreign Aviation Authorities.—
 
 &emsp;(1)
 
-Safety-related training and operational services.—The Administrator may provide safety-related training and operational services to foreign aviation authorities with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety. To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
+Safety-related training and operational services.—The Administrator mayprovide safety-related training and operational services to foreign aviation authorities with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety. To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
 
 &emsp;(2)
 
@@ -34,13 +34,13 @@ Crediting appropriations.—Funds received by the Administrator pursuant to this
 
 &emsp;(4)
 
-Reporting.—Not later than December 31, 1995, and annually thereafter, the Administrator shall transmit to Congress a list of theforeign aviation authorities to which the Administrator provided services under this subsection in the preceding fiscal year. Such list shall specify the dollar value of such services and any reimbursement received for such services.
+Reporting.—Not later than December 31, 1995, and annually thereafter, the Administrator shall transmit to Congress a list of the foreign aviation authorities to which the Administrator provided services under this subsection in the preceding fiscal year. Such list shall specify the dollar value of such services and any reimbursement received for such services.
 
 (f)
 
 Application of Certain Regulations to Alaska.—In amending title 14, Code of Federal Regulations, in a manner affecting intrastate aviation in Alaska, the Administrator of the Federal Aviation Administration shall consider the extent to which Alaska is not served by transportation modes other than aviation, and shall establish such regulatory distinctions as the Administrator considers appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89; Pub. L. 107–71, title I, §140(c), Nov. 19, 2001, 115 Stat. 641.)
 
 Historical and Revision Notes
 
@@ -108,6 +108,10 @@ In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted becaus
 
 #### Amendments
 
+2001—Subsec. (a). Pub. L. 107–71, §140(c)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” before “the Administrator of the Federal Aviation Administration” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
+
+Subsec. (d). Pub. L. 107–71, §140(c)(2), inserted “Under Secretary of Transportation for Security or the” after “The” and substituted “employee of the Transportation Security Administration or Federal Aviation Administration, as the case may be,” for “employee of the Administration” and “the Under Secretary or Administrator, as the case may be, decides” for “the Administrator decides”.
+
 2000—Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
 1994—Subsec. (e). Pub. L. 103–305 added subsec. (e).
@@ -122,7 +126,7 @@ Pub. L. 104–205, title I, Sept. 30, 1996, 110 Stat. 2957, provided in part tha
 
 #### Aircraft Purchase Loan Guarantee Program
 
-Pub. L. 106–69, title III, §337, Oct. 9, 1999, 113 Stat. 1022, which provided that none of the funds in Pub. L. 106–69 were to be available for activities under the Aircraft Purchase Loan Guarantee Program during fiscal year 2000, was from the Department of Transportation and Related Agencies Appropriations Act, 2000, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 106–69, title III, §337, Oct. 9, 1999, 113 Stat. 1022, which provided that none of the funds in Pub. L.106–69 were to be available for activities under the Aircraft Purchase Loan Guarantee Program during fiscal year 2000, was from the Department of Transportation and Related Agencies Appropriations Act, 2000, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 105–277, div. A, §101(g) \[title I\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–446.
 

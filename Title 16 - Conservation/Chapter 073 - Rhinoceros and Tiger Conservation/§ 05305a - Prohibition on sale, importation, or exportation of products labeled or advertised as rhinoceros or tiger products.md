@@ -26,7 +26,7 @@ Any product, item, or substance sold, imported, or exported, or attempted to be 
 
 #### (d) Regulations
 
-After consultation with the Secretary of the Treasury, the Secretary of Health and HumanServices, and the United States Trade Representative, the Secretary shall issue such regulations as are appropriate to carry out this section.
+After consultation with the Secretary of the Treasury, the Secretary of Health and Human Services, and the United States Trade Representative, the Secretary shall issue such regulations as are appropriate to carry out this section.
 
 #### (e) Enforcement
 
@@ -44,5 +44,5 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(2)(B), is Pub. L.
 
 #### Prior Provisions
 
-A prior section 7 of Pub. L. 103–391 was renumbered section 9 and is classified to section 5306 of this title.
+A prior section 7 of Pub. L. 103–391 was renumbered section 10 and is classified to section 5306 of this title.
 

@@ -6,9 +6,9 @@ Notwithstanding any other provision of Federal law and except as provided in sub
 
 #### (b) Exceptions
 
-Subsection (a) of this section shall not apply to the Third International Mathematics andScience Study or other international comparative assessments developed under the authority of section 9003(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
+Subsection (a) of this section shall not apply to the Third International Mathematics and Science Study or other international comparative assessments developed under the authority of section 9003(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
 
-(Pub. L. 90–247, title IV, §447, as added Pub. L. 105–277, div. A, §101(f) \[title III, §305(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–374.)
+(Pub. L. 90–247, title IV, §447, as added Pub. L. 105–277, div. A, §101(f) \[title III, §305(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–374; amended Pub. L. 107–110, title X, §1062(4), Jan. 8, 2002, 115 Stat. 2088.)
 
 #### Prior Provisions
 
@@ -33,4 +33,12 @@ Section 1233f, Pub. L. 90–247, title IV, §447, formerly §437, as added Pub. 
 Section 1233g, Pub. L. 90–247, title IV, §448, formerly §438, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 172; renumbered §448, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; amended S. Res. 4, Feb. 4, 1977; Pub. L. 95–43, §1(d), June 15, 1977, 91 Stat. 219; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 103–437, §7(a)(1), Nov. 2, 1994, 108 Stat. 4587, related to reports by Secretary.
 
 Section 1233h, Pub. L. 90–247, title IV, §449, as added Pub. L. 93–380, title V, §518(a), Aug. 21, 1974, 88 Stat. 575, related to application of other laws to advisory councils under former subchapter IV of this chapter.
+
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–110 made technical amendment to reference in original act which appears in text as reference to section 9003(a)(6) of this title.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 

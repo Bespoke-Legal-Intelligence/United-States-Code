@@ -32,7 +32,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 &emsp;&emsp;(D) the State in which such child attends school provides funds for the education of such child on the same basis as all other public school children in the State, unless otherwise permitted under section 7709(b) of this title; and
 
-&emsp;&emsp;(E) such agency received a payment for fiscal year 1999 under section 7703(b) of thistitle on behalf of children described in paragraph (1).
+&emsp;&emsp;(E) such agency received a payment for fiscal year 1999 under section 7703(b) of this title on behalf of children described in paragraph (1).
 
 (Pub. L. 89–10, title VIII, §8010, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3767; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–387.)
 
@@ -42,7 +42,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(2)\], redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Subsec. (c)(2)(D). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(3)(A)\], struck out “section 5(d)(2) of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) or” after “otherwise permitted under”.
+Subsec. (c)(2)(D). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(3)(A)\], struck out “section 5(d)(2) of theAct of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) or” after “otherwise permitted under”.
 
 Subsec. (c)(2)(E). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(3)(B)\], substituted “1999” for “1994”, struck out “(or such section's predecessor authority)” after “section 7703(b) of this title”, and substituted “paragraph (1)” for “paragraph (2)”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior, in consultation with the Secretaries of Agriculture and Energy, shall conduct an inventory of all onshore Federal lands. The inventory shall identify—
+The Secretary of the Interior, in consultation with the Secretaries of Agriculture and Energy,shall conduct an inventory of all onshore Federal lands. The inventory shall identify—
 
 &emsp;(1) the United States Geological Survey reserve estimates of the oil and gas resources underlying these lands; and
 

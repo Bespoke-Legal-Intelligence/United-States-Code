@@ -56,7 +56,7 @@
 | 80a–10. | Affiliations or interest of directors, officers, and employees. |
 | (a) | Interested persons of company who may serve on board of directors. |
 | (b) | Employment and use of directors, officers, etc., as regular broker, principal underwriter, or investment banker. |
-| (c) | Officers, directors, or employees of one bank as majority of board of directors of company; exceptions. |
+| (c) | Officers, directors, or employees of one bank or bank holding company as majority of board of directors of company; exceptions. |
 | (d) | Exception to limitation of number of interested persons who may serve on board of directors. |
 | (e) | Death, disqualification, or resignation of directors as suspension of limitation provisions. |
 | (f) | Officer, director, etc., of company acting as principal underwriter of security acquired by company. |
@@ -95,7 +95,7 @@
 | (c) | Sale or purchase of merchandise from any company or furnishing of services incident to lessor-lessee relationship. |
 | (d) | Joint or joint and several participation with company in transactions. |
 | (e) | Acceptance of compensation, commissions, fees, etc. |
-| (f) | Custody and maintenance of securities and investments. |
+| (f) | Custody of securities. |
 | (g) | Bonding of officers and employees having access to securities or funds. |
 | (h) | Provisions in charter, by-laws, etc., protecting against liability for willful misfeasance, etc. |
 | (i) | Provisions in contracts protecting against willful misfeasance, etc. |
@@ -148,10 +148,11 @@
 | (d) | Application of section to reorganizations under title 11. |
 | 80a–26. | Unit investment trusts. |
 | (a) | Custody and sale of securities. |
-| (b) | Substitution of securities. |
-| (c) | Binding contract or agreement embodying applicable provisions deemed to qualify non-complying instrument by which securities were issued. |
-| (d) | Liquidation of unit investment trust. |
-| (e) | Exemption. |
+| (b) | Bank or affiliated person of bank as trustee or custodian. |
+| (c) | Substitution of securities. |
+| (d) | Binding contract or agreement embodying applicable provisions deemed to qualify non-complying instrument by which securities were issued. |
+| (e) | Liquidation of unit investment trust. |
+| (f) | Exemption. |
 | 80a–27. | Periodic payment plans. |
 | (a) | Sale of certificates; restrictions. |
 | (b) | Exemptions. |
@@ -199,7 +200,7 @@
 | (a) | Willful destruction. |
 | (b) | Untrue statements or omissions. |
 | 80a–34. | Unlawful representations and names. |
-| (a) | Unlawful representation of guarantee by United States or agency thereof. |
+| (a) | Misrepresentation of guarantees. |
 | (b) | Unlawful representation of sponsorship by United States or agency thereof. |
 | (c) | Statement of registration under securities provisions. |
 | (d) | Deceptive or misleading names. |
@@ -288,6 +289,9 @@
 | :--- | ---: |
 | 80b–1. | Findings. |
 | 80b–2. | Definitions. |
+| (a) | In general. |
+| (b) | Applicability to Federal or State government, agency, or instrumentality, or to officers, agents, or employees thereof. |
+| (c) | Consideration of promotion of efficiency, competition, and capital formation. |
 | 80b–3. | Registration of investment advisers. |
 | (a) | Necessity of registration. |
 | (b) | Investment advisers who need not be registered. |

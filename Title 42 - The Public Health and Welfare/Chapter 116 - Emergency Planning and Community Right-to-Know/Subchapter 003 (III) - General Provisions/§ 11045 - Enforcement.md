@@ -12,7 +12,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 &emsp;(B) No civil penalty may be assessed under this subsection unless the person accused of the violation is given notice and opportunity for a hearing with respect to the violation.
 
-&emsp;(C) In determining the amount of any penalty assessed pursuant to this subsection, the Administrator shall take into account the nature, circumstances, extent and gravity of the violation or violations and, with respect to the violator, ability to pay, any prior history of such violations, the degree of culpability, economic benefit or savings (if any) resulting from the violation, and such other matters as justice may require.
+&emsp;(C) In determining the amount of any penalty assessed pursuant to this subsection, theAdministrator shall take into account the nature, circumstances, extent and gravity of the violation or violations and, with respect to the violator, ability to pay, any prior history of such violations, the degree of culpability, economic benefit or savings (if any) resulting from the violation, and such other matters as justice may require.
 
 #### (2) Class II administrative penalty
 
@@ -54,7 +54,7 @@ The Administrator may order a facility owner or operator (except an owner or ope
 
 #### (e) Special enforcement provisions for section 11043
 
-Whenever any facility owner or operator required to provide information under section 11043 of this title to a health professional who has requested such information fails or refuses to provide such information in accordance withsuch section, such health professional may bring an action in the appropriate United States district court to require such facility owner or operator to provide the information. Such court shall have jurisdiction to issue such orders and take such other action as may be necessary to enforce the requirements of section 11043 of this title.
+Whenever any facility owner or operator required to provide information under section 11043 of this title to a health professional who has requested such information fails or refuses to provide such information in accordance with such section, such health professional may bring an action in the appropriate United States district court to require such facility owner or operator to provide the information. Such court shall have jurisdiction to issue such orders and take such other action as may be necessary to enforce the requirements of section 11043 of this title.
 
 #### (f) Procedures for administrative penalties
 

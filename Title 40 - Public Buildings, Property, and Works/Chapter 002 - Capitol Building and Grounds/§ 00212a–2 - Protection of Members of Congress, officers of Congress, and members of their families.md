@@ -6,7 +6,7 @@ Subject to the direction of the Capitol Police Board, the United States Capitol 
 
 #### (b) Detail of police
 
-In carrying out its authority under this section, the Capitol Police Board, or its designee, is authorized, in accordance with regulations issued by the Board pursuant to this section, to detail, on a case-by-case basis, members of theUnited States Capitol Police to provide such protection as the Board may determine necessary under this section.
+In carrying out its authority under this section, the Capitol Police Board, or its designee, is authorized, in accordance with regulations issued by the Board pursuant to this section, to detail, on a case-by-case basis, members of the United States Capitol Police to provide such protection as the Board may determine necessary under this section.
 
 #### (c) Arrest of suspects
 
@@ -28,5 +28,5 @@ As used in this section, the term “United States” means each of the several 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136, 174b–1, 184a, 193h, 193i, 193k, 193<i>l</i>, 193m, 212a of this title.
+This section is referred to in sections 136, 174b–1, 184a, 193h, 193i, 193k, 193<i>l</i>, 193m, 212a, 212c of this title.
 

@@ -30,7 +30,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (4) Exercise of impasses panel authority; requests
 
-&emsp;For purposes of this section and except as otherwise provided in this section, the Boardshall exercise the authorities of the Federal Service Impasses Panel under section 7119 of title 5. For purposes of this section, any request that, under chapter 71 of title 5, would be presented to the Federal Service Impasses Panel shall, if made under this section, be presented to the Board. At the request of the Board, the Executive Director shall appoint a mediator or mediators to perform the functions of the Federal Service Impasses Panel under section 7119 of title 5.
+&emsp;For purposes of this section and except as otherwise provided in this section, the Board shall exercise the authorities of the Federal Service Impasses Panel under section 7119 of title 5. For purposes of this section, any request that, under chapter 71 of title 5, would be presented to the Federal Service Impasses Panel shall, if made under this section, be presented to the Board. At the request of the Board, the Executive Director shall appoint a mediator or mediators to perform the functions of the Federal Service Impasses Panel under section 7119 of title 5.
 
 #### (d) Regulations to implement section
 
@@ -88,7 +88,7 @@ The remedy for a violation of subsection (a) of this section shall be such remed
 
 #### (2) Certain offices
 
-&emsp;With respect to the offices listed in subsection (e)(2) of this section, to the covered employees of such offices, and to representatives of such employees, subsections (a) and\(b) of this section shall be effective on the effective date of regulations under subsection (e) of this section.
+&emsp;With respect to the offices listed in subsection (e)(2) of this section, to the covered employees of such offices, and to representatives of such employees, subsections (a) and (b) of this section shall be effective on the effective date of regulations under subsection (e) of this section.
 
 (Pub. L. 104–1, title II, §220, Jan. 23, 1995, 109 Stat. 19.)
 

@@ -16,7 +16,7 @@ There is established a wholly owned Government corporation to be known as the Ok
 
 #### (2) Terms
 
-&emsp;Members of the Board appointed under paragraph (1)(B) shall each serve for a term of 4 years, except that of the members first appointed, 2 shall serve for a term of 3 years; and 2 shall serve a term of 2 years. Any vacancy in the Board shall be filled in the same manner in which the original appointment was made, and any member appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed. No appointed member may serve more than 8 years in consecutive terms.
+&emsp;Members of the Board appointed under paragraph (1)(B) shall each serve for a term of 4 years, except that of the members first appointed, 2 shall serve for a term of 3 years; and 2 shall serve a term of 2 years. Any vacancy in the Board shall be filled in the same manner in which the original appointment was made, and any member appointed to fill a vacancyshall serve for the remainder of that term for which his or her predecessor was appointed. No appointed member may serve more than 8 years in consecutive terms.
 
 #### (3) Quorum
 

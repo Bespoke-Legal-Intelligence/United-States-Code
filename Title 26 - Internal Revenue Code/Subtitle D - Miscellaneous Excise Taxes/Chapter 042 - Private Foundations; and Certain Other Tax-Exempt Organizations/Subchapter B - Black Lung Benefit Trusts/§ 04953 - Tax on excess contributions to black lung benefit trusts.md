@@ -2,7 +2,7 @@
 
 #### (a) Tax imposed
 
-There is hereby imposed for each taxable year a tax in an amount equal to 5 percent of the amount of the excess contributions made by a person to or under a trust or trusts described in section 501(c)(21). The tax imposed by this subsection shall be paid by the person making the excess contribution.
+There is hereby imposed for each taxable year a tax in an amount equal to 5 percent of the amount of the excess contributions made by a person to or under a trust or trusts described insection 501(c)(21). The tax imposed by this subsection shall be paid by the person making the excess contribution.
 
 #### (b) Excess contribution
 

@@ -134,7 +134,7 @@ nc
 
 &emsp;&emsp;&emsp;(i) a motor vehicle provided for in heading 8701 or 8702, subheadings 8703.21 through 8703.90, or heading 8704, 8705, or 8706;
 
-&emsp;&emsp;&emsp;(ii) identified in Annex 403.1 or 403.2 of the Agreement and is for use in a motor vehicle provided for in heading 8701 or 8702, subheadings 8703.21 through 8703.90, or heading 8704, 8705, or 8706;
+&emsp;&emsp;&emsp;(ii) identified in Annex 403.1 or 403.2 of the Agreement and is for use in a motor vehicle provided for in heading 8701 or 8702,subheadings 8703.21 through 8703.90, or heading 8704, 8705, or 8706;
 
 &emsp;&emsp;&emsp;(iii) provided for in subheadings 6401.10 through 6406.10; or
 
@@ -214,7 +214,7 @@ nc
 
 #### (2) Other vehicles and their automotive parts
 
-&emsp;For purposes of calculating the regional value-content under the net cost method for a good that is a motor vehicle provided for in heading 8701, subheading 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, a motor vehicle for the transport of 16 or more persons provided for in subheading 8702.10.00 or 8702.90.00, or a component identified in Annex 403.2 of the Agreement for use asoriginal equipment in the production of the motor vehicle, the value of nonoriginating materials used by the producer in the production of the good shall be the sum of—
+&emsp;For purposes of calculating the regional value-content under the net cost method for a good that is a motor vehicle provided for in heading 8701, subheading 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, a motor vehicle for the transport of 16 or more persons provided for in subheading 8702.10.00 or 8702.90.00, or a component identified in Annex 403.2 of the Agreement for use as original equipment in the production of the motor vehicle, the value of nonoriginating materials used by the producer in the production of the good shall be the sum of—
 
 &emsp;&emsp;(A) for each material used by the producer listed in Annex 403.2 of the Agreement, whether or not produced by the producer, at the choice of the producer and determined in accordance with subsection (b) of this section, either—
 
@@ -268,7 +268,7 @@ nc
 
 &emsp;&emsp;&emsp;(ii) a good provided for in heading 8407 or 8408, or subheading 8708.40, that is for use in a motor vehicle identified in clause (i); and
 
-&emsp;&emsp;(B) for a producer's fiscal year beginning on the day closest to January 1, 1998, and thereafter, 55 percent calculated under the net cost method, and for a producer's fiscal year beginning on the day closest to January 1, 2002, and thereafter, 60 percent calculated under the net cost method, for—
+&emsp;&emsp;(B) for a producer's fiscal year beginning on the day closest to January 1, 1998, and thereafter, 55 percent calculated under the net cost method, and for a producer's fiscalyear beginning on the day closest to January 1, 2002, and thereafter, 60 percent calculated under the net cost method, for—
 
 &emsp;&emsp;&emsp;(i) a good that is a motor vehicle provided for in heading 8701, subheading 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, or a motor vehicle for the transport of 16 or more persons provided for in subheading 8702.10.00 or 8702.90.00;
 
@@ -288,7 +288,7 @@ nc
 
 &emsp;&emsp;&emsp;(iii) the plant contains substantially all new machinery that is used in the assembly of the motor vehicle; or
 
-&emsp;&emsp;(B) 50 percent for 2 years after the date on which the first motor vehicle prototype isproduced at a plant following a refit, if it is a motor vehicle of a class, or marque, or, except for a motor vehicle identified in paragraph (2), size category and underbody, different from that assembled by the motor vehicle assembler in the plant before the refit.
+&emsp;&emsp;(B) 50 percent for 2 years after the date on which the first motor vehicle prototype is produced at a plant following a refit, if it is a motor vehicle of a class, or marque, or, except for a motor vehicle identified in paragraph (2), size category and underbody, different from that assembled by the motor vehicle assembler in the plant before the refit.
 
 #### (7) Election for certain vehicles from Canada
 
@@ -396,7 +396,7 @@ nc
 
 #### (6) Goods provided for in chapters 50 through 63 of the HTS
 
-&emsp;A good provided for in chapters 50 through 63 of the HTS, that does not originate because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 401 of the Agreement, shall be considered to be a good that originates if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
+&emsp;A good provided for in chapters 50 through 63 of the HTS, that does not originate because certain fibers or yarns used in the production of the component of the good that determinesthe tariff classification of the good do not undergo an applicable change in tariff classification set out in Annex 401 of the Agreement, shall be considered to be a good that originates if the total weight of all such fibers or yarns in that component is not more than 7 percent of the total weight of that component.
 
 #### (f) Fungible goods and materials
 
@@ -680,7 +680,7 @@ For purposes of this section—
 
 &emsp;The term “sales promotion, marketing, and after-sales service costs” means the costs related to sales promotion, marketing, and after-sales service for the following:
 
-&emsp;&emsp;(A) Sales and marketing promotion, media advertising, advertising and market research, promotional and demonstration materials, exhibits, sales conferences, tradeshows, conventions, banners, marketing displays, free samples, sales, marketing and after-sales service literature (product brochures, catalogs, technical literature, price lists, service manuals, sales aid information), establishment and protection of logos and trademarks, sponsorships, wholesale and retail restocking charges, and entertainment.
+&emsp;&emsp;(A) Sales and marketing promotion, media advertising, advertising and market research, promotional and demonstration materials, exhibits, sales conferences, trade shows, conventions, banners, marketing displays, free samples, sales, marketing and after-sales service literature (product brochures, catalogs, technical literature, price lists, service manuals, sales aid information), establishment and protection of logos and trademarks, sponsorships, wholesale and retail restocking charges, and entertainment.
 
 &emsp;&emsp;(B) Sales and marketing incentives, consumer, retailer, or wholesaler rebates, and merchandise incentives.
 
@@ -758,7 +758,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) modifications to the provisions proclaimed under the authority of paragraph (1)(A), other than the provisions of paragraph A of Appendix 6 of Annex 300–B and section XI of part B of Annex 401 of the Agreement; and
 
-&emsp;&emsp;(B) a modified version of the definition of any term set out in subsection (p) of this section (and such modified version of the definition shall supersede the version in subsection (p) of this section), but only if the modified version reflects solely those modifications to the same term in article 415 ofthe Agreement that are agreed to by the NAFTA countries before December 8, 1994.
+&emsp;&emsp;(B) a modified version of the definition of any term set out in subsection (p) of this section (and such modified version of the definition shall supersede the version in subsection (p) of this section), but only if the modified version reflects solely those modifications to the same term in article 415 of the Agreement that are agreed to by the NAFTA countries before December 8, 1994.
 
 #### (3) Special rules for textiles
 

@@ -8,7 +8,7 @@ For purposes of this subtitle—
 
 &emsp;(2) a corporation, trust, or association may not elect to be a real estate investment trust for any taxable year beginning after October 4, 1976, unless its accounting period is the calendar year.
 
-> Paragraph (2) shall not apply to a corporation, trust, or association which was considered to be a real estate investment trust for any taxable year beginning on or before October 4, 1976.
+> Paragraph (2) shall not apply to a corporation, trust, or association which was considered to bea real estate investment trust for any taxable year beginning on or before October 4, 1976.
 
 #### (b) Change of accounting period without approval
 

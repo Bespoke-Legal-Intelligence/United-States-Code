@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department of Agriculture a permanent advisory panel to be known as the “Safe Meat and Poultry Inspection Panel” (referred to in this section as the “panel”).
+There is established in the Department of Agriculture a permanent advisory panel to beknown as the “Safe Meat and Poultry Inspection Panel” (referred to in this section as the “panel”).
 
 #### (b) Duties
 
@@ -88,7 +88,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 The Food and Agriculture Act of 1977, referred to in subsec. (h), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10\(§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 #### (a) Investigatory authority; audit of statistically significant number of terminating plans
 
-The corporation may make such investigations as it deems necessary to enforce any provision of this subchapter or any rule or regulation thereunder, and may require or permit any person to file with it a statement in writing, under oath or otherwise as the corporation shall determine, as to all the facts and circumstances concerning the matter to be investigated. The corporation shall annually audit a statistically significant number of plans terminating under section 1341(b) of this title to determine whether participants and beneficiaries have received their benefit commitments and whether section 1350(a) of this title has been satisfied. Each audit shall include a statistically significant number of participants and beneficiaries.
+The corporation may make such investigations as it deems necessary to enforce any provision of this subchapter or any rule or regulation thereunder, and may require or permit any person to file with it a statement in writing, under oath or otherwise as the corporation shall determine, as to all the facts and circumstances concerning the matter to be investigated. The corporation shall annually audit a statistically significant number of plans terminating under section 1341(b) of this title to determine whether participants and beneficiaries have received their benefit commitments and whether section1350(a) of this title has been satisfied. Each audit shall include a statistically significant number of participants and beneficiaries.
 
 #### (b) Discovery powers vested in board members or officers designated by the chairman
 
@@ -10,7 +10,7 @@ For the purpose of any such investigation, or any other proceeding under this su
 
 #### (c) Contempt
 
-In the case of contumacy by, or refusal to obey a subpena issued to, any person, the corporation may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, and other records. The court may issue an order requiring such person to appear before the corporation, or member or officer designated by the corporation, and toproduce records or to give testimony related to the matter under investigation or in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in the judicial district in which such person is an inhabitant or may be found.
+In the case of contumacy by, or refusal to obey a subpena issued to, any person, the corporation may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, correspondence, memoranda, and other records. The court may issue an order requiring such person to appear before the corporation, or member or officer designated by the corporation, and to produce records or to give testimony related to the matter under investigation or in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in the judicial district in which such person is an inhabitant or may be found.
 
 #### (d) Cooperation with other governmental agencies
 
@@ -106,7 +106,7 @@ Amendment by section 776(b)(1) of Pub. L. 103–465 effective with respect to di
 
 #### Effective Date of 1986 Amendment
 
-Section 11014(b)(3) of Pub. L. 99–272 provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Section 11014(b)(3) of Pub. L. 99–272 provided that: “The amendments made by this subsection \[amendingthis section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 Amendment by section 11016(c)(5) of Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as a note under section 1341 of this title.
 

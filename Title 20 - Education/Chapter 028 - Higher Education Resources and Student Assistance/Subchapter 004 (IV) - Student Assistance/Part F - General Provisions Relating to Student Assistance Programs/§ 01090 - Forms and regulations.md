@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(i) any charges by the contractor to the student or parent for additional data items required by a State or institution for any purpose (regardless of the method of collection) shall be reasonable and shall not exceed the marginal cost of collecting, processing, and delivering such additional data, taking into account any payment received by the contractor to produce, distribute, and process the common financial reporting form prescribed by the Secretary pursuant to paragraph (1); and
 
-&emsp;&emsp;(ii) the contractor will require any person or entity to whom the contractor provides such additional data to agree not to collect from any student or parent any charge that would not be permitted under this subparagraph for any such additional data.
+&emsp;&emsp;(ii) the contractor will require any person or entity to whom the contractor providessuch additional data to agree not to collect from any student or parent any charge that would not be permitted under this subparagraph for any such additional data.
 
 &emsp;(B) To the extent practicable, the Secretary shall ensure that at least one contractor, or a portion of one contract, under this paragraph will serve graduate and professional students.
 
@@ -68,7 +68,7 @@
 
 #### (c) Information to committees of Congress
 
-Copies of all rules, regulations, guidelines, instructions, and application forms published or promulgated pursuant to this subchapter and part C of subchapter I of chapter 34 of title 42 shall be provided to the Committee on Labor and Human Resources of the Senate and theCommittee on Education and the Workforce of the House of Representatives at least 45 days prior to their effective date.
+Copies of all rules, regulations, guidelines, instructions, and application forms published or promulgated pursuant to this subchapter and part C of subchapter I of chapter 34 of title 42 shall be provided to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives at least 45 days prior to their effective date.
 
 #### (d) Toll-free information
 
@@ -118,7 +118,7 @@ Subsecs. (d), (e). Pub. L. 103–208, §2(h)(12), redesignated subsecs. (e) and 
 
 Subsec. (f). Pub. L. 103–208, §2(h)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Pub. L. 103–208, §2(h)(11), substituted “address or employer's address, social security number or employer identification number,” for “address, social security number,”.
+Pub. L. 103–208, §2(h)(11), substituted “address or employer's address, social security number or employeridentification number,” for “address, social security number,”.
 
 Subsec. (g). Pub. L. 103–208, §2(h)(12), redesignated subsec. (g) as (f).
 
@@ -132,7 +132,7 @@ Subsec. (e). Pub. L. 102–325, §483(b)(2), amended subsec. (e) generally. Prio
 
 Subsecs. (f), (g). Pub. L. 102–325, §483(b)(1), (3), added subsecs. (f) and (g) and struck out former subsec. (f) which related to notice of student aid receipt.
 
-1987—Subsec. (a)(1). Pub. L. 100–50, §15(3), (4), inserted in second sentence “or institutions in which the students are enrolled or accepted for enrollment” after“that applicants” and “and on which the applicant shall clearly indicate a choice of lender” before period at end.
+1987—Subsec. (a)(1). Pub. L. 100–50, §15(3), (4), inserted in second sentence “or institutions in which the students are enrolled or accepted for enrollment” after “that applicants” and “and on which the applicant shall clearly indicate a choice of lender” before period at end.
 
 Subsec. (a)(2). Pub. L. 100–50, §15(5), substituted “not less than 5” for “not less than 3” and inserted sentence at end providing that the Secretary not select new multiple data entry processors until certain examinations and recommendations are made by the Advisory Commission on Student Financial Assistance.
 

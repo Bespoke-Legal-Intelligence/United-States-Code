@@ -84,7 +84,7 @@ Objections to answer.—Within 20 days after receipt of the answer, the judgment
 
 &emsp;(6)
 
-Garnishee's failure to answer or pay.—If a garnishee fails to answer the writ of garnishment or to withhold property in accordance with the writ, the United States may petition the court for an order requiring the garnishee to appear before the court to answer the writ and to so withhold property before the appearance date. If the garnishee fails to appear, or appears and fails to show good cause why the garnishee failed to comply with the writ, the court shall enter judgment against the garnishee for the value of the judgment debtor's nonexempt interest in such property (including nonexempt disposable earnings). The court may award a reasonable attorney's fee to the United States and against the garnishee if the writ is not answered within the time specified therein and a petition requiring the garnishee to appear is filed as provided in this section.
+Garnishee's failure to answer or pay.—If a garnishee fails to answer the writ of garnishment or to withhold property in accordance with the writ, the United States may petition the court for an order requiring thegarnishee to appear before the court to answer the writ and to so withhold property before the appearance date. If the garnishee fails to appear, or appears and fails to show good cause why the garnishee failed to comply with the writ, the court shall enter judgment against the garnishee for the value of the judgment debtor's nonexempt interest in such property (including nonexempt disposable earnings). The court may award a reasonable attorney's fee to the United States and against the garnishee if the writ is not answered within the time specified therein and a petition requiring the garnishee to appear is filed as provided in this section.
 
 &emsp;(7)
 
@@ -92,7 +92,7 @@ Disposition order.—After the garnishee files an answer and if no hearing is re
 
 &emsp;(8)
 
-Priorities.—Judicial orders and garnishments for the support of a person shall havepriority over a writ of garnishment issued under this section. As to any other writ of garnishment or levy, a garnishment issued under this section shall have priority over writs which are issued later in time.
+Priorities.—Judicial orders and garnishments for the support of a person shall have priority over a writ of garnishment issued under this section. As to any other writ of garnishment or levy, a garnishment issued under this section shall have priority over writs which are issued later in time.
 
 &emsp;(9)
 

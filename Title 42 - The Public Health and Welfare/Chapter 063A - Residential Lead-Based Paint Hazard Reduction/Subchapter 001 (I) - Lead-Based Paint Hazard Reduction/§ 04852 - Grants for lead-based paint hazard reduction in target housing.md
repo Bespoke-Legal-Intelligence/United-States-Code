@@ -24,7 +24,7 @@ To receive a grant under this section, a State or unit of local government shall
 
 &emsp;(3) a description of the planned activities to be undertaken with grants under this section, including an estimate of the amount to be allocated to each activity;
 
-&emsp;(4) a description of the forms of financial assistance to owners and occupants of housing that will be provided through grants under this section; and
+&emsp;(4) a description of the forms of financial assistance to owners and occupants of housingthat will be provided through grants under this section; and
 
 &emsp;(5) such assurances as the Secretary may require regarding the applicant's capacity to carry out the activities.
 
@@ -62,7 +62,7 @@ A grant under this section may be used to—
 
 &emsp;(8) educate the public on the nature and causes of lead poisoning and measures to reduce exposure to lead, including exposure due to residential lead-based paint hazards;
 
-&emsp;(9) test soil, interior surface dust, and the blood-lead levels of children under the age of 6residing in housing after lead-based paint hazard reduction activity has been conducted, to assure that such activity does not cause excessive exposures to lead; and
+&emsp;(9) test soil, interior surface dust, and the blood-lead levels of children under the age of 6 residing in housing after lead-based paint hazard reduction activity has been conducted, to assure that such activity does not cause excessive exposures to lead; and
 
 &emsp;(10) carry out such other activities that the Secretary determines appropriate to promote the purposes of this chapter.
 
@@ -116,7 +116,7 @@ The Secretary shall publish a Notice of Funding Availability pursuant to this se
 
 #### (n) Relationship to other law
 
-Effective 2 years after the date of promulgation of regulations under section 2682 of title 15, no grants for lead-based paint hazard evaluation or reduction may be awarded to a State under this section unless such State has an authorized program under section 2684 of title 15.
+Effective 2 years after the date of promulgation of regulations under section 2682 of title 15,no grants for lead-based paint hazard evaluation or reduction may be awarded to a State under this section unless such State has an authorized program under section 2684 of title 15.
 
 #### (<i>o</i>) Environmental review
 
@@ -142,7 +142,7 @@ For the purposes of carrying out this chapter, there are authorized to be approp
 
 Section 12705(b)(16) of this title, referred to in subsecs. (c)(1) and (g)(1), probably means section 12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by Pub. L. 105–276, title V, §583(5)(B), Oct. 21, 1998, 112 Stat. 2644.
 
-This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the original “this Act”, meaning title X ofPub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
+This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the original “this Act”, meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
 
 This subchapter, referred to in subsec. (i), was in the original “this subtitle”, meaning subtitle A of title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3901, which enacted this subchapter and amended sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title and sections 1703, 1709, and 1715<i>l</i> of Title 12, Banks and Banking.
 

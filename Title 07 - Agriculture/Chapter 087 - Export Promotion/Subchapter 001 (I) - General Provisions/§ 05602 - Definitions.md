@@ -84,5 +84,5 @@ Par. (8). Pub. L. 102–511, §702(b), added par. (8).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1736<i>o</i>, 3293 of this title; title 22 section 7201.
+This section is referred to in sections 1736<i>o</i>, 3293 of this title; title 15 section 632; title 22 section 7201.
 

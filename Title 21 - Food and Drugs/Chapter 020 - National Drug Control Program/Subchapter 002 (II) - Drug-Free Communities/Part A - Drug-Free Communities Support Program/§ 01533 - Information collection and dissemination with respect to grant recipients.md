@@ -42,7 +42,21 @@
 
 &emsp;&emsp;&emsp;(ii) the general public.
 
-(Pub. L. 100–690, title I, §1033, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 230.)
+#### (3) Consultation
+
+&emsp;The Administrator shall carry out activities under this subsection in consultation with the Advisory Commission and the National Community Antidrug Coalition Institute.
+
+#### (4) Limitation on use of certain funds for evaluation of Program
+
+&emsp;Amounts for activities under paragraph (2)(B) may not be derived from amounts under section 1524(a) of this title except for amounts that are available under section 1524(b) of this title for administrative costs.
+
+(Pub. L. 100–690, title I, §1033, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 230; amended Pub. L. 107–82, §1(e), (f), Dec. 14, 2001, 115 Stat. 818.)
+
+#### Amendments
+
+2001—Subsec. (b)(3). Pub. L. 107–82, §1(e), added par. (3).
+
+Subsec. (b)(4). Pub. L. 107–82, §1(f), added par. (4).
 
 #### Section Referred to in Other Sections
 

@@ -60,7 +60,7 @@ If—
 
 &emsp;(2) within 1 year after the date of the reacquisition of such property by the seller, such property is resold by him,
 
-> then, under regulations prescribed by the Secretary, subsections (b), (c), and (d) of this section shall not apply to the reacquisition of such property and, for purposes of applying section121, the resale of such property shall be treated as a part of the transaction constituting the original sale of such property.
+> then, under regulations prescribed by the Secretary, subsections (b), (c), and (d) of this section shall not apply to the reacquisition of such property and, for purposes of applying section 121, the resale of such property shall be treated as a part of the transaction constituting the original sale of such property.
 
 #### \[(f) Repealed. Pub. L. 104–188, title I, §1616(b)(12), Aug. 20, 1996, 110 Stat. 1857\]
 

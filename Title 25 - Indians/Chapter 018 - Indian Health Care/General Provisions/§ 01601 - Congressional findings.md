@@ -2,7 +2,7 @@
 
 The Congress finds the following:
 
-(a) Federal health services to maintain and improve the health of the Indians are consonant with and required by the Federal Government's historical and unique legal relationship with, and resulting responsibility to, the American Indian people.
+(a) Federal health services to maintain and improve the health of the Indians are consonant with and required by the Federal Government's historical and unique legal relationship with,and resulting responsibility to, the American Indian people.
 
 (b) A major national goal of the United States is to provide the quantity and quality of health services which will permit the health status of Indians to be raised to the highest possible level and to encourage the maximum participation of Indians in the planning and management of those services.
 
@@ -34,7 +34,7 @@ Pub. L. 101–630, title V, §501, Nov. 28, 1990, 104 Stat. 4556, provided that:
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–713, §1, Nov. 23, 1988, 102 Stat. 4784, provided that: “This Act \[enacting sections 1616 to 1616j, 1621a to 1621g, 1636, 1651 to 1658, 1661, 1662, and 1680a to 1680j of this title and sections 254s and 295j of Title 42, The Public Health and Welfare, amending sections 1603, 1612 to 1613a, 1614, 1615, 1621, 1631, 1632, 1634, 1674, 1676, and 1678 to 1680 of this title and section 5316 of Title 5, Government Organization and Employees, repealingsection 1635 of this title and section 254r of Title 42, enacting provisions set out as notes under this section and sections 1611, 1621b, 1661, and 1677 of this title and sections 254r, 1395qq, and 1396j of Title 42, amending provisions set out as a note under section 1396j of Title 42, and repealing provisions set out as a note under section 1396j of Title 42\] may be cited as the ‘Indian Health Care Amendments of 1988’.”
+Pub. L. 100–713, §1, Nov. 23, 1988, 102 Stat. 4784, provided that: “This Act \[enacting sections 1616 to 1616j, 1621a to 1621g, 1636, 1651 to 1658, 1661, 1662, and 1680a to 1680j of this title and sections 254s and 295j of Title 42, The Public Health and Welfare, amending sections 1603, 1612 to 1613a, 1614, 1615, 1621, 1631, 1632, 1634, 1674, 1676, and 1678 to 1680 of this title and section 5316 of Title 5, Government Organization and Employees, repealing section 1635 of this title and section 254r of Title 42, enacting provisions set out as notes under this section and sections 1611, 1621b, 1661, and 1677 of this title and sections 254r, 1395qq, and 1396j of Title 42, amending provisions set out as a note under section 1396j of Title 42, and repealing provisions set out as a note under section 1396j of Title 42\] may be cited as the ‘Indian Health Care Amendments of 1988’.”
 
 #### Short Title of 1980 Amendment
 

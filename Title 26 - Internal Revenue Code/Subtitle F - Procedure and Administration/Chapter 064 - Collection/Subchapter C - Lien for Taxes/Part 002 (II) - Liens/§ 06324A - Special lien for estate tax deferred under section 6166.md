@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of any estate with respect to which an election has been made under section 6166, ifthe executor makes an election under this section (at such time and in such manner as the Secretary shall by regulations prescribe) and files the agreement referred to in subsection (c), the deferred amount (plus any interest, additional amount, addition to tax, assessable penalty, and costs attributable to the deferred amount) shall be a lien in favor of the United States on the section 6166 lien property.
+In the case of any estate with respect to which an election has been made under section 6166, if the executor makes an election under this section (at such time and in such manner as the Secretary shall by regulations prescribe) and files the agreement referred to in subsection (c), the deferred amount (plus any interest, additional amount, addition to tax, assessable penalty, and costs attributable to the deferred amount) shall be a lien in favor of the United States on the section 6166 lien property.
 
 #### (b) Section 6166 lien property
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (1) Deferred amount
 
-&emsp;The term “deferred amount” means the aggregate amount deferred under section 6166\(determined as of the date prescribed by section 6151(a) for payment of the tax imposed by chapter 11).
+&emsp;The term “deferred amount” means the aggregate amount deferred under section 6166 (determined as of the date prescribed by section 6151(a) for payment of the tax imposed by chapter 11).
 
 #### (2) Required interest amount
 

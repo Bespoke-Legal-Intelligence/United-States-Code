@@ -12,7 +12,7 @@ The study shall—
 
 &emsp;(2) examine how the work of the Agricultural Research Service relates to the capacity of the agricultural research, extension, and education system of the United States;
 
-&emsp;(3) examine the appropriateness of the formulas for the allocation of funds under the Smith-Lever Act (7 U.S.C. 341 et seq.) and the Hatch Act of 1887 (7 U.S.C. 361a et seq.) with respect to current conditions of the agricultural economy and other factors of the variousregions and States of the United States and develop recommendations to revise the formulas to more accurately reflect the current conditions; and
+&emsp;(3) examine the appropriateness of the formulas for the allocation of funds under the Smith-Lever Act (7 U.S.C. 341 et seq.) and the Hatch Act of 1887 (7 U.S.C. 361a et seq.) with respect to current conditions of the agricultural economy and other factors of the various regions and States of the United States and develop recommendations to revise the formulas to more accurately reflect the current conditions; and
 
 &emsp;(4) examine the system of competitive grants for agricultural research, extension, and education.
 

@@ -56,7 +56,7 @@ Each loan guaranteed pursuant to this section shall—
 
 &emsp;(3) involve a principal obligation (including initial service charges, appraisal, inspection, and other fees as the Secretary may approve) not to exceed—
 
-&emsp;&emsp;(A) in the case of a borrower that is a nonprofit organization or an agency or body of any State or local government, 97 percent of the development costs of the housing and related facilities or the value of the housing and facilities, whichever is less;
+&emsp;&emsp;(A) in the case of a borrower that is a nonprofit organization or an agency or body of any State or local government, 97 percent ofthe development costs of the housing and related facilities or the value of the housing and facilities, whichever is less;
 
 &emsp;&emsp;(B) in the case of a borrower that is a for-profit entity not referred to in subparagraph (A), 90 percent of the development costs of the housing and related facilities or the value of the housing and facilities, whichever is less; and
 
@@ -114,7 +114,7 @@ Any loan guaranteed under this section may be refinanced and extended in accorda
 
 #### (1) Study
 
-&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, andthe rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
+&emsp;The Secretary shall provide for an independent entity to conduct a study to determine the extent to which borrowers in the United States will utilize loan guarantees under this section, the rural areas in the United States in which borrowers can best utilize and most need loans guaranteed under this section, and the rural areas in the United States in which housing of the type eligible for a loan guarantee under this section is most needed by low- and moderate-income families. The Secretary shall require the independent entity conducting the study to submit a report to the Secretary and to the Congress describing the results of the study not later than the expiration of the 90-day period beginning on March 28, 1996.
 
 #### (2) Targeting
 
@@ -180,7 +180,7 @@ Indian tribe.—The term “Indian tribe” means—
 
 #### (s) Authorization of appropriations
 
-There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year to provideguarantees under this section for eligible loans having an aggregate principal amount of $500,000,000.
+There are authorized to be appropriated for each fiscal year for costs (as such term is defined in section 661a of title 2) of loan guarantees made under this section such sums as may be necessary for such fiscal year to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000.
 
 #### (t) Tax-exempt financing
 
@@ -236,7 +236,7 @@ Subsec. (v). Pub. L. 106–569, §707(8), added subsec. (v).
 
 1998—Subsec. (t). Pub. L. 105–276, §599C(c)(1), substituted “each fiscal year” for “fiscal year 1998”.
 
-Subsec. (u). Pub. L. 105–276, §599C(c)(2), added subsec. (u) and struck out heading and text of former subsec. (u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
+Subsec. (u). Pub. L. 105–276, §599C(c)(2), added subsec. (u) and struck out heading and text of former subsec.\(u). Text read as follows: “A loan may not be guaranteed under this section after September 30, 1998.”
 
 1997—Subsec. (q)(2). Pub. L. 105–86, §735(c)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In fiscal year 1996, the Secretary may enter into commitments to guarantee loans under this section only to the extent that the costs of the guarantees entered into in such fiscal year do not exceed $1,000,000.”
 

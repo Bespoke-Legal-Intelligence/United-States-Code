@@ -10,7 +10,7 @@ Payments due persons under twenty-one years of age or persons under legal disabi
 
 #### (c) Payments not subject to debts; time limits
 
-No part of any payment hereunder shall be subject to any debt or debts created prior to August 30, 1954 by a beneficiary of Indian blood. Payment to living enrollees, unless under twenty-one years of age, or under legal disability, shall be completed within one year after approval of the tribal rolls. Payment to next of kin and legatees, and payment for the account of persons under twenty-one years of age or under legal disability shall be completed within the same period of time to the maximum extent possible.
+No part of any payment hereunder shall be subject to any debt or debts created prior to August 30, 1954 by a beneficiary of Indian blood.Payment to living enrollees, unless under twenty-one years of age, or under legal disability, shall be completed within one year after approval of the tribal rolls. Payment to next of kin and legatees, and payment for the account of persons under twenty-one years of age or under legal disability shall be completed within the same period of time to the maximum extent possible.
 
 (Aug. 30, 1954, ch. 1085, §3, 68 Stat. 979.)
 

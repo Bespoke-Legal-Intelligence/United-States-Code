@@ -140,5 +140,5 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1068, 1068h of this title; title 7 sections 2206a, 3103; title 10 section 2323.
+This section is referred to in sections 1068, 1068h of this title; title 7 sections 2206a, 3103.
 

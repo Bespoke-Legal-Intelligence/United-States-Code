@@ -18,19 +18,25 @@ Entitlement to Allowance.—(1) In addition to any allowance or per diem to whic
 
 (b)
 
-Entitlement When No Residence or Household Maintained for Dependents.—An allowance is payable under subsection (a) even though the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management and control, which he is likely to share with them as a common household when his duty assignment permits.
+Entitlement When No Residence or Household Maintained for Dependents.—An allowance is payable under subsection (a) eventhough the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management and control, which he is likely to share with them as a common household when his duty assignment permits.
 
 (c)
 
-Effect of Election to Serve Unaccompanied Tour of Duty.—A member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 406 of this title is not entitled to an allowance under subsection (a)(1)(A). The Secretary concerned may waive the preceding sentence in situations in which it would be inequitable to deny the allowance to the member because of unusual family or operational circumstances.
+Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided in paragraph (2) or (3), a member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 406 of this title is not entitled to an allowance under subsection (a)(1)(A).
+
+(2) The prohibition in the first sentence of paragraph (1) does not apply to a member who elects to serve an unaccompanied tour of duty because a dependent cannot accompany the member to or at that permanent station for certified medical reasons.
+
+(3) The Secretary concerned may waive paragraph (1) in situations in which it would be inequitable to deny the allowance to the member because of unusual family or operational circumstances.
 
 (d)
 
 Entitlement While Spouse Entitled to Basic Pay.—A member married to another member of the uniformed services becomes entitled, regardless of any other dependency status, to an allowance under subsection (a) by virtue of duty prescribed in subparagraph (A), (B), or (C) of paragraph (1) of such subsection if the members were residing together immediately before being separated by reasons of execution of military orders. Section 421 of this title does not apply to bar the entitlement to an allowance under this section. However, not more than one monthly allowance may be paid with respect to a married couple under this section.
 
-(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 3, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795.)
+(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 3, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795; Pub. L. 107–107, div. A, title VI, §607(a), Dec. 28, 2001, 115 Stat. 1134.)
 
 #### Amendments
+
+2001—Subsec. (c). Pub. L. 107–107 designated first sentence of existing provisions as par. (1) and substituted “Except as provided in paragraph (2) or (3), a member” for “A member”, added par. (2), and designated second sentence of existing provisions as par. (3) and substituted “The Secretary concerned may waive paragraph (1)” for “The Secretary concerned may waive the preceding sentence”.
 
 1997—Subsec. (a). Pub. L. 105–85, §603(c)(3)(B)(i), redesignated subsec. (b)(1), (2) as subsec. (a)(1), (2), respectively, and inserted subsec. heading.
 
@@ -42,7 +48,7 @@ Pub. L. 105–85, §603(c)(3)(A), struck out heading and text of subsec. (a). Te
 
 Subsec. (a)(1). Pub. L. 105–85, §626, substituted “$100” for “$75” in introductory provisions.
 
-Pub. L. 105–85, §603(c)(3)(B)(ii), struck out “, including subsection (a),” after “under this title” in introductory provisions, inserted “or” at end of subpar. (B), substituted “station.” for “station; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “the member is married to a member of a uniformed service, the member has no dependent other than the spouse, the two members are separated by reason of the execution of military orders, and the two members were residing together immediately beforebeing separated by reason of execution of military orders.”
+Pub. L. 105–85, §603(c)(3)(B)(ii), struck out “, including subsection (a),” after “under this title” in introductory provisions, inserted “or” at end of subpar. (B), substituted “station.” for “station; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “the member is married to a member of a uniformed service, the member has no dependent other than the spouse, the two members are separated by reason of the execution of military orders, and the two members were residing together immediately before being separated by reason of execution of military orders.”
 
 Subsec. (b). Pub. L. 105–85, §603(c)(3)(B)(iii), redesignated subsec. (b)(3) as subsec. (b), inserted heading, and substituted “subsection (a)” for “this subsection”. Former subsec. (b)(1), (2), and (4) redesignated subsecs. (a)(1), (2), and (c), respectively.
 
@@ -83,6 +89,10 @@ Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 1970—Subsec. (b). Pub. L. 91–533 struck out “who is entitled to a basic allowance for quarters” after “(4 years’ or less service)”.
 
 Pub. L. 91–529 inserted provisions authorizing payment of an allowance under this subsection even though the member does not maintain for his primary dependents who would otherwise normally reside with him, a residence or household, subject to his management or control, which he is likely to share with them as a common household when his duty assignment permits.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VI, §607(b), Dec. 28, 2001, 115 Stat. 1135, provided that: “Paragraph (2) of section 427(c) of title 37, United States Code, as added by subsection (a)(3), shall apply with respect to pay periods beginning on or after January 1, 2002, for a member of the uniformed services covered by such paragraph regardless of the date on which the member first made the election to serve an unaccompanied tour of duty.”
 
 #### Effective Date of 1997 Amendment
 

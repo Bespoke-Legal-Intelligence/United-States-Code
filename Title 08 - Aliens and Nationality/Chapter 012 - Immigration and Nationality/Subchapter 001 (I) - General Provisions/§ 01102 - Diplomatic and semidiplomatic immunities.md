@@ -14,7 +14,7 @@ Except as otherwise provided in this chapter, for so long as they continue in th
 
 1996—Pub. L. 104–208 substituted “removal” for “exclusion or deportation” in introductory provisions.
 
-1991—Pars. (1) to (3). Pub. L. 102–232 substituted “subparagraphs (A) through (C) of section 1182(a)(3) of thistitle” for “paragraph (3) (other than subparagraph (E)) of section 1182(a) of this title”.
+1991—Pars. (1) to (3). Pub. L. 102–232 substituted “subparagraphs (A) through (C) of section 1182(a)(3) of this title” for “paragraph (3) (other than subparagraph (E)) of section 1182(a) of this title”.
 
 1990—Pars. (1) to (3). Pub. L. 101–649 substituted “(3) (other than subparagraph (E))” for “(27)” in pars. (1) and (2), and “paragraph (3) (other than subparagraph (E))” for “paragraphs (27) and (29)” in par. (3).
 

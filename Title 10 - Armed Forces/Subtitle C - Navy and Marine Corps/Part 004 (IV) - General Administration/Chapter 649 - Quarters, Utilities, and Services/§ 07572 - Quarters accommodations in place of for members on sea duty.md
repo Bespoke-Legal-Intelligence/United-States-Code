@@ -22,7 +22,7 @@
 
 (4) The Secretary may prescribe regulations to carry out this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–513, title V, §513(41), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–60, title II, §207(b), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(a), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §§602(d)(3), 603(a), title XIV, §1405(54), Oct. 19, 1984, 98 Stat. 2536, 2537, 2625; Pub. L. 99–145, title VI, §606(a), Nov. 8, 1985, 99 Stat. 638; Pub. L. 99–661, div. A, title VI, §603(a), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 102–190, div. A, title VI,§607(a), (b), Dec. 5, 1991, 105 Stat. 1375; Pub. L. 105–85, div. A, title VI, §603(d)(2)(D), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 105–261, div. A, title X, §1069(a)(7), Oct. 17, 1998, 112 Stat. 2136.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 468; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–513, title V, §513(41), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 97–60, title II, §207(b), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(a), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §§602(d)(3), 603(a), title XIV, §1405(54), Oct. 19, 1984, 98 Stat. 2536, 2537, 2625; Pub. L. 99–145, title VI, §606(a), Nov. 8, 1985, 99 Stat. 638; Pub. L. 99–661, div. A, title VI, §603(a), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 102–190, div. A, title VI, §607(a), (b), Dec. 5, 1991, 105 Stat. 1375; Pub. L. 105–85, div. A, title VI, §603(d)(2)(D), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 105–261, div. A, title X, §1069(a)(7), Oct. 17, 1998, 112 Stat. 2136.)
 
 Historical and Revision Notes
 

@@ -10,7 +10,7 @@ Whoever, having devised or intending to devise any scheme or artifice to defraud
 
 1990—Pub. L. 101–647 substituted “30” for “20” before “years”.
 
-1989—Pub. L. 101–73 inserted at end “If the violation affects a financial institution, such person shall befined not more than $1,000,000 or imprisoned not more than 20 years, or both.”
+1989—Pub. L. 101–73 inserted at end “If the violation affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 20 years, or both.”
 
 1956—Act July 11, 1956, substituted “transmitted by means of wire, radio, or television communication in interstate or foreign commerce” for “transmitted by means of interstate wire, radio, or television communication”.
 

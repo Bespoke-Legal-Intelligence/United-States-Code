@@ -1,6 +1,6 @@
 ### §2348. General authorization
 
-The President is authorized to furnish assistance to friendly countries and international organizations, on such terms and conditions as he may determine, for peacekeeping operations and other programs carried out in furtherance of the national security interests of the United States. Such assistance may include reimbursement to the Department of Defense for expenses incurred pursuant to section 287d–1 of this title, except that such reimbursements may not exceed $5,000,000 in any fiscal year unless a greater amount is specifically authorized by this section.
+The President is authorized to furnish assistance to friendly countries and international organizations, on such terms and conditions as he may determine, for peacekeeping operations and other programs carried out in furtherance of the national security interests of the United States. Such assistance may include reimbursement to the Department of Defense for expenses incurred pursuant to section 287d–1 of this title, except that such reimbursements may not exceed $5,000,000 in any fiscal year unless a greateramount is specifically authorized by this section.
 
 (Pub. L. 87–195, pt. II, §551, as added Pub. L. 95–384, §12(a), Sept. 26, 1978, 92 Stat. 736; amended Pub. L. 96–92, §10(b), Oct. 29, 1979, 93 Stat. 705.)
 

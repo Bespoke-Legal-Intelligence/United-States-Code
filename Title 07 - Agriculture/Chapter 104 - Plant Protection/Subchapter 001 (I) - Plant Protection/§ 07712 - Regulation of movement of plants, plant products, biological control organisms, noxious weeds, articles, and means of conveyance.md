@@ -14,7 +14,7 @@ The Secretary may issue regulations to implement subsection (a) of this section,
 
 &emsp;(1) be accompanied by a permit issued by the Secretary prior to the importation, entry, exportation, or movement in interstate commerce;
 
-&emsp;(2) be accompanied by a certificate of inspection issued (in a manner and form required by the Secretary) by appropriate officials of the country or State from which the plant, plant product, biological control organism, noxious weed, article, or means of conveyance is to be moved;
+&emsp;(2) be accompanied by a certificate of inspection issued (in a manner and form required by the Secretary) by appropriate officials of the country or State from which the plant, plant product, biological control organism, noxiousweed, article, or means of conveyance is to be moved;
 
 &emsp;(3) be subject to remedial measures the Secretary determines to be necessary to prevent the spread of plant pests or noxious weeds; and
 

@@ -8,10 +8,14 @@
 | [2164\.](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Department of Defense domestic dependent elementary and secondary schools. |
 | [2165\.](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md) | National Defense University: component institutions. |
 | [2166\.](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md) | Western Hemisphere Institute for Security Cooperation. |
+| [2167\.](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md) | National Defense University: admission of private sector civilians to professional military education program. |
+| [2168\.](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20of%20Arts%20in%20foreign%20language.md) | Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title V, §§528(a)(2), 531(b), Dec. 28, 2001, 115 Stat. 1103, 1104, added items 2167 and 2168.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, added item 2166.
 
@@ -24,6 +28,10 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 1993—Pub. L. 103–160, div. A, title IX, §922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
 
 1990—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
+
+#### Regional Defense Counter-terrorism Fellowship Program
+
+Pub. L. 107–117, div. A, title VIII, §8125, Jan. 10, 2002, 115 Stat. 2275, provided that: “In addition to amounts provided elsewhere in this Act \[see Tables for classification\], $17,900,000 is hereby appropriated for the Secretary of Defense, to remain available until expended, to establish a Regional Defense Counter-terrorism Fellowship Program: <i>Provided</i>, That funding provided herein may be used by the Secretary to fund foreign military officers to attend U.S. military educational institutions and selected regional centers for non-lethal training: <i>Provided further</i>, That United States Regional Commanders in Chief will be the nominative authority for candidates and schools for attendance with joint staff review and approval by the Secretary of Defense: <i>Provided further</i>, That the Secretary of Defense shall establish rules to govern the administration of this program.”
 
 #### Attendance at Professional Military Education Schools by Military Personnel of the New Member Nations of NATO
 
@@ -39,7 +47,7 @@ Military Education and Training Programs.—The Secretary of each military depar
 
 #### Sense of Congress on Grade of Heads of Senior Professional Military Education Schools
 
-Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provided that: “It is the sense of Congressthat an officer serving in a position as the head of one of the senior professional military education schools of the Department of Defense (or of the separate military departments) should, while so serving, hold a grade not less than the grade (or its equivalent) held by the officer serving in that position on the date of the enactment of this Act \[Oct. 5, 1994\].”
+Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provided that: “It is the sense of Congress that an officer serving in a position as the head of one of the senior professional military education schools of the Department of Defense (or of the separate military departments) should, while so serving, hold a grade not less than the grade (or its equivalent) held by the officer serving in that position on the date of the enactment of this Act \[Oct. 5, 1994\].”
 
 #### Military Department Affiliation of War College Students
 
@@ -112,3 +120,5 @@ This chapter is referred to in section 1552 of this title.
 - [&sect; 02164 - Department of Defense domestic dependent elementary and secondary schools](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)
 - [&sect; 02165 - National Defense University component institutions](%C2%A7%2002165%20-%20National%20Defense%20University%20component%20institutions.md)
 - [&sect; 02166 - Western Hemisphere Institute for Security Cooperation](%C2%A7%2002166%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md)
+- [&sect; 02167 - National Defense University admission of private sector civilians to professional military education program](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md)
+- [&sect; 02168 - Defense Language Institute Foreign Language Center degree of Associate of Arts in foreign language](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20of%20Arts%20in%20foreign%20language.md)

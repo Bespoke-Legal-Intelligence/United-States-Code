@@ -6,15 +6,27 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 #### (b) Tier 2 tax
 
-In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to 4.90 percent of the compensation received during any calendar year by such employee for services rendered by such employee.
+#### (1) In general
+
+&emsp;In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the applicable percentage of the compensation received during any calendar year by such employee for services rendered by such employee.
+
+#### (2) Applicable percentage
+
+&emsp;For purposes of paragraph (1), the term “applicable percentage” means—
+
+&emsp;&emsp;(A) 4.90 percent in the case of compensation received during 2002 or 2003, and
+
+&emsp;&emsp;(B) in the case of compensation received during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
 
 #### (c) Cross reference
 
 &emsp;&emsp;<b>For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(a), May 19, 1959, 73 Stat. 28; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(1), 111(c)(1), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(a), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301(a), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 93–69, title I, §102(a), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §201, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(6), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(a), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(a), 221, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9031(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(a), Nov. 5, 1990, 104 Stat. 1388–285.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(a), May 19, 1959, 73 Stat. 28; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(1), 111(c)(1), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(a), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301(a), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 93–69, title I, §102(a), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §201, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(6), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(a), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(a), 221, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9031(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(a), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §204(c), Dec. 21, 2001, 115 Stat. 892.)
 
 #### Amendments
+
+<b>2001</b>—Subsec. (b). Pub. L. 107–90 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to 4.90 percent of the compensation received during any calendar year by such employee for services rendered by such employee.”
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of the” and provision defining the term “applicable percentage” for provision specifying that in the case of compensation received during 1985 the rate of tax was 7.05 percent, for 1986 or 1987 the rate was 7.15 percent, for 1988 or 1989 the rate was 7.51 percent, and 1990 or thereafter the rate was 7.65 percent.
 
@@ -44,11 +56,11 @@ Pub. L. 98–76, §211(a), substituted “2.75 percent” for “2.0 percent”.
 
 Subsec. (b). Pub. L. 97–34 designated existing provisions as subsec. (b) and substituted “The rate of tax imposed by subsection (a) shall be increased by” for “In addition to other taxes, there is hereby imposed on the income of every employee a tax rate equal to”.
 
-<b>1976</b>—Pub. L. 94–455 struck out “of the Internal Revenue Code of 1954” after “wages by section 3101(a)”, “of such Code” after “rate imposed by section 3101(b)”, “after September 30, 1973,” after “for services rendered by him”, “of the Internal Revenue Code of 1954” after “as defined in section 3121”, and “after September 30, 1973” after “for any month”.
+<b>1976</b>—Pub. L. 94–455 struck out “of the Internal Revenue Code of 1954” after “wages by section 3101(a)”, “of such Code” after “rate imposed by section 3101(b)”, “after September 30, 1973,” after “for services rendered by him”, “of the Internal Revenue Code of 1954” after“as defined in section 3121”, and “after September 30, 1973” after “for any month”.
 
 <b>1975</b>—Pub. L. 94–93 inserted “in any calendar month” after “compensation paid”.
 
-<b>1973</b>—Pub. L. 93–69 substituted new tax rate provisions on income of employee for services rendered afterSept. 30, 1973, for former provisions which prescribed 61/4, 61/2, 7, 71/4, and 71/2 percent on income for services rendered after Sept. 30, 1965, Dec. 31, 1965, Dec. 31, 1966, Dec. 31, 1967, and Dec. 31, 1968, respectively, as is not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965: <i>Provided</i>, That the rate of tax imposed by this section shall be increased, with respect to compensation paid for services rendered after September 30, 1965, by a number of percentage points (including fractional points) equal at any given time to the number of percentage points (including fractional points) by which the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) at such time exceeds 23/4 percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956).
+<b>1973</b>—Pub. L. 93–69 substituted new tax rate provisions on income of employee for services rendered after Sept. 30, 1973, for former provisions which prescribed 61/4, 61/2, 7, 71/4, and 71/2 percent on income for services rendered after Sept. 30, 1965, Dec. 31, 1965, Dec. 31, 1966, Dec. 31, 1967, and Dec. 31, 1968, respectively, as is not in excess of (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable “wages” as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965: <i>Provided</i>, That the rate of tax imposed by this section shall be increased, with respect to compensation paid for services rendered after September 30, 1965, by a number of percentage points (including fractional points) equal at any given time to the number of percentage points (including fractional points) by which the rate of the tax imposed with respect to wages by section 3101(a) plus the rate imposed by section 3101(b) at such time exceeds 23/4 percent (the rate provided by paragraph (2) of section 3101 as amended by the Social Security Amendments of 1956).
 
 <b>1966</b>—Pub. L. 89–700 substituted “rendered after September 30, 1965” for “rendered after December 31, 1964”, and “(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965” for “$400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable ‘wages’ as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended”.
 
@@ -63,6 +75,10 @@ Pub. L. 89–97 substituted “the rate of the tax imposed with respect to wages
 <b>1959</b>—Pub. L. 86–28 increased tax from 61/4 percent of compensation not in excess of $350 for any calendar month to 63/4 percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 71/4 percent for services rendered after Dec. 31, 1961, and required an increase in the rate of tax with respect to compensation paid for services rendered after Dec. 31, 1964, by a number of percentage points equal at any given time to the number of percentage points by which the rate of tax imposed by section 3101 of this title at such time exceeds the rate provided by par. (2) of such section 3101 as amended by the Social Security Amendments of 1956.
 
 <b>1954</b>—Act Aug. 31, 1954, substituted “$350” for “$300”.
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as an Effective and Termination Dates of 2001 Amendments note under section 24 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -88,7 +104,7 @@ Section 207 of Pub. L. 94–93 provided that: “The amendments made by sections
 
 #### Effective Date of 1973 Amendment
 
-Section 109(b) of Pub. L. 93–69 provided that: “The amendments made by section 102 of this Act \[amending this section and sections 3202, 3211, and 3221 of this title\] shall become effective on October 1, 1973, and shall apply only with respect to compensation paid for services rendered on or after that date: <i>Provided, however</i>, That such amendments shall not be applicable to any dock company, common carrier railroad, or railway labor organization described in section 1(a) of the Railroad Retirement Act of 1937 \[section 228a(a) of Title 45, Railroads\], with respect to those of its employees covered as of October 1, 1973, by a private supplemental pension plan established through collective bargaining, where a moratorium in an agreement made on or before March 8, 1973, is applicable to changes in rates of pay contained in the current collective-bargaining agreement covering such employees, until the earlier of (1) the date as of which such moratorium expires, or (2) the date as of which such dock company, common carrier railroad, or railway labor organization agrees through collective bargaining to make the provisions of such amendments applicable.”
+Section 109(b) of Pub. L. 93–69 provided that: “The amendments made by section 102 of this Act \[amending this section and sections 3202, 3211, and 3221 of this title\] shall become effective on October 1, 1973, and shall apply only with respect to compensation paid for services rendered on or after that date: <i>Provided, however</i>, That such amendments shall not be applicable toany dock company, common carrier railroad, or railway labor organization described in section 1(a) of the Railroad Retirement Act of 1937 \[section 228a(a) of Title 45, Railroads\], with respect to those of its employees covered as of October 1, 1973, by a private supplemental pension plan established through collective bargaining, where a moratorium in an agreement made on or before March 8, 1973, is applicable to changes in rates of pay contained in the current collective-bargaining agreement covering such employees, until the earlier of (1) the date as of which such moratorium expires, or (2) the date as of which such dock company, common carrier railroad, or railway labor organization agrees through collective bargaining to make the provisions of such amendments applicable.”
 
 #### Effective Date of 1965 Amendments
 
@@ -116,5 +132,5 @@ For provision that no penalties or interest shall be assessed on account of any 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 72, 275, 1402, 3202, 3231, 3502, 6051, 6053, 6205, 6413, 6652 of this title; title 45 sections 231, 231e, 231f–1, 231n–1.
+This section is referred to in sections 24, 72, 275, 1402, 3202, 3231, 3241, 3502, 6051, 6053, 6205, 6413, 6652 of this title; title 45 sections 231, 231e, 231f–1, 231n–1.
 

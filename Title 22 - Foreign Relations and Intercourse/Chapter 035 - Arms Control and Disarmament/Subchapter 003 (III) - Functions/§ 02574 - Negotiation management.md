@@ -12,7 +12,7 @@ The Secretary of State is authorized—
 
 &emsp;(2) as authorized by law, to put into effect, direct, or otherwise assume United States responsibility for such systems.
 
-(Pub. L. 87–297, title III, §304, formerly §34, Sept. 26, 1961, 75 Stat. 634; Pub. L. 103–236, title VII, §710, Apr. 30, 1994, 108 Stat. 494; renumbered §304and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(9), (21), Oct. 21, 1998, 112 Stat. 2681–769, 2681–772.)
+(Pub. L. 87–297, title III, §304, formerly §34, Sept. 26, 1961, 75 Stat. 634; Pub. L. 103–236, title VII, §710, Apr. 30, 1994, 108 Stat. 494; renumbered §304 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(9), (21), Oct. 21, 1998, 112 Stat. 2681–769, 2681–772.)
 
 #### Amendments
 

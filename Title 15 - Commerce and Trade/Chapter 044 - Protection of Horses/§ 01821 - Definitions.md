@@ -32,7 +32,7 @@ Section 1(a) of Pub. L. 94–360 provided that: “This Act \[amending this sect
 
 #### Short Title
 
-Section 1 of Pub. L. 91–540, as amended by Pub. L. 94–360, §2, July 13, 1976, 90 Stat. 915, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Horse Protection Act’.”
+Section 1 of Pub. L. 91–540, as amended by Pub. L. 94–360, §2, July 13, 1976, 90 Stat. 915, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Horse Protection Act of 1970’.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -116,7 +116,7 @@ Coordination.—(1) The Secretary of Transportation shall establish requirements
 
 (2) Congress consents to at least 2 States making an agreement or compact, not in conflict with a law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this section related to interstate areas and localities in the States and establishing authorities the States consider desirable for making the agreements and compacts effective.
 
-(3) If more than one metropolitan planning organization has authority in a metropolitan area or an area designated a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each organizationshall consult with the other organizations designated for the area and the State to coordinate plans and projects required by this section and sections 5304–5306 of this title.
+(3) If more than one metropolitan planning organization has authority in a metropolitan area or an area designated a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each organization shall consult with the other organizations designated for the area and the State to coordinate plans and projects required by this section and sections 5304–5306 of this title.
 
 (4) The Secretary shall encourage each metropolitan planning organization to coordinate, to the maximum extent practicable, the design and delivery of transportation services within the metropolitan planning area that are provided—
 
@@ -196,7 +196,7 @@ Developing Long-Range Transportation Plans.—(1) Each metropolitan planning org
 
 &emsp;(E) the financial plan may include, for illustrative purposes, additional projects that would be included in the adopted long-range plan if reasonable additional resources beyond those identified in the financial plan were available, except that, for the purpose of developing the long-range plan, the metropolitan planning organization and the State shall cooperatively develop estimates of funds that will be available to support plan implementation.
 
-(2) When formulating a long-range plan, the metropolitan planning organization shall consider the factors described in subsection (b) ofthis section and any State or local goals developed within the cooperative metropolitan planning process as they relate to a 20-year forecast period and to other forecast periods as determined by the participants in the planning process.
+(2) When formulating a long-range plan, the metropolitan planning organization shall consider the factors described in subsection (b) of this section and any State or local goals developed within the cooperative metropolitan planning process as they relate to a 20-year forecast period and to other forecast periods as determined by the participants in the planning process.
 
 (3) In a metropolitan area that is in a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), the metropolitan planning organization shall coordinate the development of the long-range plan with the development of the transportation control measures of the State Implementation Plan required by the Act.
 
@@ -378,7 +378,7 @@ Pub. L. 105–178, §3004(b)(1)(A), as amended by Pub. L. 105–206, §9009(b)(1
 
 Subsec. (c)(2). Pub. L. 105–178, §3004(b)(2), substituted “Each policy board of a metropolitan planning organization that serves an area designated as a transportation management area when designated or redesignated under this subsection shall consist of” for “In a metropolitan area designated as a transportation management area, the designated metropolitan planning organization, if redesignated after December 18, 1991, shall include” and “officials of public agencies” for “officials of authorities”.
 
-Subsec. (c)(3). Pub. L. 105–178, §3004(b)(3), as amended by Pub. L. 105–206, §9009(b)(1)(B), substituted “within an existing metropolitan planning area only if the chief executive officer of the State and the existing metropolitan organization determine that the size and complexity of the existing metropolitan planning area” for “in an urbanized area (as defined by the Secretary of Commerce) only if the chief executive officer decides that the size and complexity of the urbanized area”.
+Subsec. (c)(3). Pub. L. 105–178, §3004(b)(3), as amended by Pub. L. 105–206, §9009(b)(1)(B), substituted “within an existing metropolitan planning area only if the chiefexecutive officer of the State and the existing metropolitan organization determine that the size and complexity of the existing metropolitan planning area” for “in an urbanized area (as defined by the Secretary of Commerce) only if the chief executive officer decides that the size and complexity of the urbanized area”.
 
 Subsec. (c)(4)(A). Pub. L. 105–178, §3004(b)(4), as added by Pub. L. 105–206, §9009(b)(1)(E), directed an amendment identical to that made by Pub. L. 105–102, §2(4)(B). See 1997 Amendment note below.
 

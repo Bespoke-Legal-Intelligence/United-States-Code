@@ -40,7 +40,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;(9) “Settlement Fund” means the Hoopa-Yurok Settlement Fund established pursuant to section 1300i–3 of this title;
 
-&emsp;(10) “Settlement Roll” means the final roll prepared and published in the Federal Registerby the Secretary pursuant to section 1300i–4 of this title;
+&emsp;(10) “Settlement Roll” means the final roll prepared and published in the Federal Register by the Secretary pursuant to section 1300i–4 of this title;
 
 &emsp;(11) “Short cases” means the cases entitled Jesse Short et al. v. United States, (Cl. Ct. No. 102–63); Charlene Ackley v. United States, (Cl. Ct. No. 460–78); Bret Aanstadt v. United States, (Cl. Ct. No. 146–85L); and Norman Giffen v. United States, (Cl. Ct. No. 746–85L);
 

@@ -1,12 +1,40 @@
 ### §3485. Work-study allowance
 
-(a)(1) Individuals utilized under the authority of subsection (b) of this section shall be paid an additional educational assistance allowance (hereafter referred to as “work-study allowance”). Such work-study allowance shall be paid in an amount equal to the applicable hourly minimum wage times the number of hours worked during the applicable period, in return for such individual's agreement to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the number of weeks in the semester or other applicable enrollment period, required in connection with (A) the out-reach services program under subchapter II of chapter 77 of this title as carried out under the supervision of a Department of Veterans Affairs employee, (B) the preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department of Veterans Affairs, (C) the provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, (D) any other activity of the Department of Veterans Affairs as the Secretary shall determine appropriate, or (E) in the case of an individual who is receiving educational assistance under chapter 106 of title 10, activities relating to the administration of such chapter at Department of Defense, Coast Guard, or National Guard facilities. An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual's agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
+(a)(1) Individuals utilized under the authority of subsection (b) shall be paid an additional educational assistance allowance (hereinafter in this section referred to as “work-study allowance”). Such allowance shall be paid in return for an individual's entering into an agreement described in paragraph (3).
 
-(2) For the purposes of paragraph (1) of this subsection and subsection (e) of this section, the term “applicable hourly minimum wage” means (A) the hourly minimum wage under section 6(a) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)), or (B) the hourly minimum wage under comparable law of the State in which the services are to be performed, if such wage is higher than the wage referred to in clause (A) and the Secretary has made a determination to pay such higher wage.
+(2) Such work-study allowance shall be paid in an amount equal to the product of—
+
+&emsp;(A) the applicable hourly minimum wage; and
+
+&emsp;(B) the number of hours worked during the applicable period.
+
+(3) An agreement described in this paragraph is an agreement of an individual to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the number of weeks in the semester or other applicable enrollment period, required in connection with a qualifying work-study activity.
+
+(4) For the purposes of this section, the term “qualifying work-study activity” means any of the following:
+
+&emsp;(A) The outreach services program under subchapter II of chapter 77 of this title as carried out under the supervision of a Department employee or, during the five-year period beginning on the date of the enactment of the Veterans Education and Benefits Expansion Act of 2001, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
+
+&emsp;(B) The preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department.
+
+&emsp;(C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the five-year period beginning on the date of the enactment of the Veterans Education and Benefits Expansion Act of 2001, the provision of such care to veterans in a State home for which payment is made under section 1741 of this title.
+
+&emsp;(D) Any other activity of the Department as the Secretary determines appropriate.
+
+&emsp;(E) In the case of an individual who is receiving educational assistance under chapter 1606 of title 10, an activity relating to the administration of that chapter at Department of Defense, Coast Guard, or National Guard facilities.
+
+&emsp;(F) During the five-year period beginning on the date of the enactment of the Veterans Education and Benefits Expansion Act of 2001, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
+
+(5) An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual's agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
+
+(6) For the purposes of this subsection and subsection (e), the term “applicable hourly minimum wages” means—
+
+&emsp;(A) the hourly minimum wage under section 6(a) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)); or
+
+&emsp;(B) the hourly minimum wage under comparable law of the State in which the services are to be performed, if such wage is higher than the wage referred to in subparagraph (A) and the Secretary has made a determination to pay such higher wage.
 
 (b) Notwithstanding any other provision of law, the Secretary shall, subject to the provisions of subsection (e) of this section, utilize, in connection with the activities specified in subsection (a)(1) of this section, the service of individuals who are pursuing programs of rehabilitation, education, or training under chapter 30, 31, 32, or 34 of this title or chapter 106 of title 10, at a rate equal to at least three-quarters of that required of a full-time student. In carrying out this section, the Secretary, wherever feasible, shall give priority to veterans with disabilities rated at 30 percent or more for purposes of chapter 11 of this title. In the event an individual ceases to be at least a three-quarter-time student before completing such agreement, the individual may, with the approval of the Secretary, be permitted to complete such agreement.
 
-(c) The Secretary shall determine the number of individuals whose services the Department of Veterans Affairs can effectively utilize and the types of services that such individuals may berequired to perform, on the basis of a survey, which the Secretary shall conduct annually, of each Department of Veterans Affairs regional office in order to determine the numbers of individuals whose services can effectively be utilized during an enrollment period in each geographical area where Department of Veterans Affairs activities are conducted, and shall determine which individuals shall be offered agreements under this section in accordance with regulations which the Secretary shall prescribe, including as criteria (1) the need of the individual to augment the veteran's educational assistance or subsistence allowance; (2) the availability to the individual of transportation to the place where the individual's services are to be performed; (3) the motivation of the individual; and (4) in the case of a disabled veteran pursuing a course of vocational rehabilitation under chapter 31 of this title, the compatibility of the work assignment to the veteran's physical condition.
+(c) The Secretary shall determine the number of individuals whose services the Department of Veterans Affairs can effectively utilize and the types of services that such individuals may be required to perform, on the basis of a survey, which the Secretary shall conduct annually, of each Department of Veterans Affairs regional office in order to determine the numbers of individuals whose services can effectively be utilized during an enrollment period in each geographical area where Department of Veterans Affairs activities are conducted, and shall determine which individuals shall be offered agreements under this section in accordance with regulations which the Secretary shall prescribe, including as criteria (1) the need of the individual to augment the veteran's educational assistance or subsistence allowance; (2) the availability to the individual of transportation to the place where the individual's services are to be performed; (3) the motivation of the individual; and (4) in the case of a disabled veteran pursuing a course of vocational rehabilitation under chapter 31 of this title, the compatibility of the work assignment to the veteran's physical condition.
 
 (d) While performing the services authorized by this section, individuals shall be deemed employees of the United States for the purposes of the benefits of chapter 81 of title 5 but not for the purposes of laws administrated by the Office of Personnel Management.
 
@@ -30,13 +58,23 @@
 
 (4) The Secretary shall promulgate regulations to carry out this subsection.
 
-(Added Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079, §1685; amended Pub. L. 93–508, title II, §205, Dec. 3, 1974, 88 Stat. 1582; Pub. L. 94–502, title II, §§208, 211(11), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title I, §105, Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title VIII, §801(b), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(42), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §308(c), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§405(a)–(d)(2), (4)(A), 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2081, 2092; Pub. L. 102–16, §§6(a)–(b)(2), 10(a)(5), Mar. 22, 1991, 105 Stat. 50, 51, 55; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3485 and amended Pub. L. 102–83, §§2(c)(2), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title III, §311, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 105–368, title II, §202(a), Nov. 11, 1998, 112 Stat. 3326.)
+(Added Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079, §1685; amended Pub. L. 93–508, title II, §205, Dec. 3, 1974, 88 Stat. 1582; Pub. L. 94–502, title II, §§208, 211(11), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title I, §105, Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title VIII, §801(b), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(42), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §308(c), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§405(a)–(d)(2), (4)(A), 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2081, 2092; Pub. L. 102–16, §§6(a)–(b)(2), 10(a)(5), Mar. 22, 1991, 105 Stat. 50, 51, 55; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3485 and amended Pub. L. 102–83, §§2(c)(2), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title III, §311, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 105–368, title II, §202(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub.L. 107–103, title I, §107(a), Dec. 27, 2001, 115 Stat. 983.)
 
 #### References in Text
+
+The date of the enactment of the Veterans Education and Benefits Expansion Act of 2001, referred to in subsec. (a)(4)(A), (C), (F), is the date of enactment of Pub. L. 107–103, which was approved Dec. 27, 2001.
 
 Section 2135 of title 10, referred to in subsec. (e)(1), was renumbered section 16135 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–103 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+
+“(a)(1) Individuals utilized under the authority of subsection (b) of this section shall be paid an additional educational assistance allowance (hereinafter referred to as ‘work-study allowance’). Such work-study allowance shall be paid in an amount equal to the applicable hourly minimum wage times the number of hours worked during the applicable period, in return for such individual's agreement to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the number of weeks in the semester or other applicable enrollment period, required in connection with (A) the out-reach services program under subchapter II of chapter 77 of this title as carried out under the supervision of a Department of Veterans Affairs employee, (B) the preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department of Veterans Affairs, (C) the provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, (D) any other activity of the Department of Veterans Affairs as the Secretary shall determine appropriate, or (E) in the case of an individual who is receiving educational assistance under chapter 106 of title 10, activities relating to the administration of such chapter at Department of Defense, Coast Guard, or National Guard facilities. An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual's agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
+
+“(2) For the purposes of paragraph (1) of this subsection and subsection (e) of this section, the term ‘applicable hourly minimum wage’ means (A) the hourly minimum wage under section 6(a) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)), or (B) the hourly minimum wage under comparable law of the State in which the services are to be performed, if such wage is higher than the wage referred to in clause (A) and the Secretary has made a determination to pay such higher wage.”
+
+Subsec. (a)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
 1998—Subsec. (a)(1). Pub. L. 105–368 substituted “An individual may elect, in a manner prescribed by the Secretary, to be paid in advance” for “An individual shall be paid in advance” in last sentence.
 
@@ -88,13 +126,17 @@ Subsec. (c). Pub. L. 94–502, §211(11), substituted “the Administrator shall
 
 Subsec. (c). Pub. L. 93–508, §205(3), struck out parenthetical provisions relating to a limit of eight-hundred man-years or their equivalent during any fiscal year.
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–103, title I, §107(b), Dec. 27, 2001, 115 Stat. 984, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to agreements entered into under section 3485 of title 38, United States Code, on or after the date of the enactment of this Act \[Dec. 27, 2001\].”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–368, title II, §202(b), Nov. 11, 1998, 112 Stat. 3326, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to agreements entered into under section 3485 of title 38, United States Code, on or after January 1, 1999.”
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 405(a)–(d)(2), (4)(A) of Pub. L. 101–237 effective May 1, 1990, and applicable to servicesperformed on or after that date, see section 405(e) of Pub. L. 101–237, set out as a note under section 16136 of Title 10, Armed Forces.
+Amendment by section 405(a)–(d)(2), (4)(A) of Pub. L. 101–237 effective May 1, 1990, and applicable to services performed on or after that date, see section 405(e) of Pub. L. 101–237, set out as a note under section 16136 of Title 10, Armed Forces.
 
 #### Effective Date of 1980 Amendment
 

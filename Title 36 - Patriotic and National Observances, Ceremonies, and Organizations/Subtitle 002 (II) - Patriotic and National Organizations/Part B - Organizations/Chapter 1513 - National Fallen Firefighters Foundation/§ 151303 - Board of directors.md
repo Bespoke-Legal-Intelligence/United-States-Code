@@ -46,7 +46,7 @@ Status and Compensation.—
 
 Liability.—Members of the board are not personally liable, except for gross negligence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, §113(b), Nov. 13, 2000, 114 Stat. 2304.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244; Pub.L. 106–503, title I, §113(b), Nov. 13, 2000, 114 Stat. 2304.)
 
 Historical and Revision Notes
 

@@ -28,13 +28,13 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(ii) payments to the Government including origination and other fees, penalties and recoveries;
 
-> &emsp;including the effects of changes in loan terms resulting from the exercise by the guaranteed lender of an option included in the loan guarantee contract, or by the borrower of an option included in the guaranteed loan contract.
+> &emsp;including the effects of changes in loan terms resulting from the exercise by the guaranteedlender of an option included in the loan guarantee contract, or by the borrower of an option included in the guaranteed loan contract.
 
 &emsp;(D) The cost of a modification is the difference between the current estimate of the net present value of the remaining cash flows under the terms of a direct loan or loan guarantee contract, and the current estimate of the net present value of the remaining cash flows under the terms of the contract, as modified.
 
 &emsp;(E) In estimating net present values, the discount rate shall be the average interest rate on marketable Treasury securities of similar maturity to the cash flows of the direct loan or loan guarantee for which the estimate is being made.
 
-&emsp;(F) When funds are obligated for a direct loan or loan guarantee, the estimated cost shall be based on the current assumptions, adjusted to incorporate the terms of the loancontract, for the fiscal year in which the funds are obligated.
+&emsp;(F) When funds are obligated for a direct loan or loan guarantee, the estimated cost shall be based on the current assumptions, adjusted to incorporate the terms of the loan contract, for the fiscal year in which the funds are obligated.
 
 &emsp;(6) The term “credit program account” means the budget account into which an appropriation to cover the cost of a direct loan or loan guarantee program is made and from which such cost is disbursed to the financing account.
 
@@ -88,7 +88,7 @@ Pars. (9) to (11). Pub. L. 105–33, §10117(a)(7), added pars. (9) and (10) and
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 661d of this title; title 10 sections 2540d, 2873; title 12 sections 635i–5, 1701z–11, 1715<i>l</i>, 1715z–1, 1715z–13a, 1721, 1735f–20, 4707; title 14 section 682; title 15 sections 636, 683, 697; title 22 sections 290m–2, 2151f, 2152b, 2431d, 2431e, 2431f; title 25 section 4195; title 31 section 3711; title 42 section 1490p–2; title 46 App. sections 1273, 1279e.
+This section is referred to in section 661d of this title; title 10 sections 2540d, 2873; title 12 sections 635i–5, 1701z–11, 1715<i>l</i>, 1715z–1, 1715z–13a, 1715z–13b, 1721, 1735f–20, 4707; title 14 section 682; title 15 sections 636, 683, 697; title 22 sections 290m–2, 2151f, 2152b, 2431d, 2431e, 2431f; title 25 section 4195; title 31 section 3711; title 42 section 1490p–2; title 46 App. sections 1273, 1279e; title 47 sections 1103, 1109.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

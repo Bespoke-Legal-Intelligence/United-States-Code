@@ -6,7 +6,7 @@ Owners of existing National Flood Insurance Act policies with respect to structu
 
 #### (b) New coverage for new construction or substantial improvements
 
-No new flood insurance coverage may be provided under this chapter on or after a date six months after October 8, 1986, for any new construction or substantial improvements of structures located within the Colorado River Floodway established by section 1600c of title 43. New construction includes all structures that are not insurable prior to that date.
+No new flood insurance coverage may be provided under this chapter on or after a date sixmonths after October 8, 1986, for any new construction or substantial improvements of structures located within the Colorado River Floodway established by section 1600c of title 43. New construction includes all structures that are not insurable prior to that date.
 
 #### (c) Establishment of temporary boundaries
 
@@ -14,7 +14,7 @@ The Secretary of the Interior may by rule after notice and comment pursuant to s
 
 #### (d) Loans by federally supervised, approved, regulated, or insured financial institutions
 
-A regulated lending institution or Federal agency lender may make loans secured by structures which are not eligible for flood insurance by reason of this section: <i>Provided</i>, That prior tomaking such a loan, such institution determines that the loans or structures securing the loan are within the Floodway.
+A regulated lending institution or Federal agency lender may make loans secured by structures which are not eligible for flood insurance by reason of this section: <i>Provided</i>, That prior to making such a loan, such institution determines that the loans or structures securing the loan are within the Floodway.
 
 (Pub. L. 90–448, title XIII, §1322, as added Pub. L. 99–450, §12, Oct. 8, 1986, 100 Stat. 1135; amended Pub. L. 100–242, title V, §545(e), Feb. 5, 1988, 101 Stat. 1942; Pub. L. 103–325, title V, §512(b), Sept. 23, 1994, 108 Stat. 2257.)
 

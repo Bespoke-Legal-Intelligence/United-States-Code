@@ -1,6 +1,6 @@
 ### §5207. Surface Transportation Board to fix rates
 
-(a) The Board shall determine and fix the fair and reasonable rates or compensation for the transportation of mail by carrier and the service connected therewith, and shall prescribe the method of computing such rates or compensation. The Board shall publish its orders stating its determination under this section which shall remain in force until changed by it after notice and hearing.
+(a) The Board shall determine and fix the fair and reasonable rates or compensation for thetransportation of mail by carrier and the service connected therewith, and shall prescribe the method of computing such rates or compensation. The Board shall publish its orders stating its determination under this section which shall remain in force until changed by it after notice and hearing.
 
 (b) For the purpose of determining and fixing rates or compensation under this section, the Board may make just and reasonable classifications of carriers and, where just and equitable, fix general rates applicable to carriers in the same classification.
 

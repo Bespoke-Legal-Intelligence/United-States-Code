@@ -1,8 +1,8 @@
 ### §483. Uttering counterfeit foreign bank notes
 
-Whoever, within the United States, utters, passes, puts off, or tenders in payment, with intent to defraud, any such false, forged, altered, or counterfeited bank note or bill, mentioned in section 482 of this title, knowing the same to be so false, forged, altered, and counterfeited, whether or not the same was made, forged, altered, or counterfeited within the United States, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, within the United States, utters, passes, puts off, or tenders in payment, with intent to defraud, any such false, forged, altered, or counterfeited bank note or bill, mentioned in section 482 of this title, knowing the same to be so false, forged, altered, and counterfeited, whether or not the same was made, forged, altered, or counterfeited within the United States, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, §375(f), Oct. 26, 2001, 115 Stat. 342.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +14,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
+2001—Pub. L. 107–56 substituted “20 years” for “one year”.
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

@@ -74,7 +74,7 @@ The application shall include a plan ensuring that the unit—
 
 #### (4) Other rights
 
-&emsp;Tenants renting a unit in a project transferred under this subchapter shall have all rights provided to tenants of public housing under this chapter.
+&emsp;Tenants renting a unit in a project transferred under this subchapter shall have allrights provided to tenants of public housing under this chapter.
 
 (Sept. 1, 1937, ch. 896, title III, §304, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4153; amended Pub. L. 102–550, title I, §181(g)(1)(A), Oct. 28, 1992, 106 Stat. 3736; Pub. L. 104–19, title I, §1002(b), July 27, 1995, 109 Stat. 236; Pub. L. 105–276, title V, §531(b)(1), Oct. 21, 1998, 112 Stat. 2573.)
 

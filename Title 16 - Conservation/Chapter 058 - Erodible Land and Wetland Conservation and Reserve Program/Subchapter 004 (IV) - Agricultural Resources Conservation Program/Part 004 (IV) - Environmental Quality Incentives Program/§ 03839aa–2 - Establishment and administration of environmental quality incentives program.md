@@ -60,7 +60,7 @@ The Secretary shall establish an application and evaluation process for awarding
 
 #### (2) Incentive payments
 
-&emsp;The Secretary shall make incentive payments in an amount and at a rate determined by the Secretary to be necessary to encourage a producer to perform 1 or more land management practices.
+&emsp;The Secretary shall make incentive payments in an amount and at a rate determinedby the Secretary to be necessary to encourage a producer to perform 1 or more land management practices.
 
 #### (3) Technical assistance
 

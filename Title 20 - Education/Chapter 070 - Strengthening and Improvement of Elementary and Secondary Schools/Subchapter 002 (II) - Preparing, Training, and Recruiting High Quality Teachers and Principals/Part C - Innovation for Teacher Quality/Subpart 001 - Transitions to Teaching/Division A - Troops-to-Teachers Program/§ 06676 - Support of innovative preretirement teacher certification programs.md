@@ -1,0 +1,52 @@
+### §6676. Support of innovative preretirement teacher certification programs
+
+#### (a) Purpose
+
+The purpose of this section is to provide funding to develop, implement, and demonstrate teacher certification programs.
+
+#### (b) Development, implementation and demonstration
+
+The Secretary may enter into a memorandum of agreement with a State educational agency, an institution of higher education, or a consortia of State educational agencies or institutions of higher education, to develop, implement, and demonstrate teacher certification programs for members of the Armed Forces described in section 6673(a)(1)(B) of this title for the purpose of assisting such members to consider and prepare for a career as a highly qualified elementary school teacher, secondary school teacher, or vocational or technical teacher upon retirement from the Armed Forces.
+
+#### (c) Program elements
+
+A teacher certification program under subsection (b) of this section shall—
+
+&emsp;(1) provide recognition of military experience and training as related to certification or licensing requirements;
+
+&emsp;(2) provide courses of instruction that may be conducted on or near a military installation;
+
+&emsp;(3) incorporate alternative approaches to achieve teacher certification, such as innovative methods to gaining field-based teaching experiences, and assessment of background and experience as related to skills, knowledge, and abilities required of elementary school teachers, secondary school teachers, or vocational or technical teachers;
+
+&emsp;(4) provide for courses to be delivered via distance education methods; and
+
+&emsp;(5) address any additional requirements or specifications established by the Secretary.
+
+#### (d) Application procedures
+
+#### (1) In general
+
+&emsp;A State educational agency or institution of higher education (or a consortium of State educational agencies or institutions of higher education) that desires to enter into a memorandum under subsection (b) of this section shall prepare and submit to the Secretary a proposal, at such time, in such manner, and containing such information as the Secretary may require, including an assurance that the State educational agency, institution, or consortium is operating a program leading to State approved teacher certification.
+
+#### (2) Preference
+
+&emsp;The Secretary shall give preference to State educational agencies, institutions, and consortia that submit proposals that provide for cost sharing with respect to the program involved.
+
+#### (e) Continuation of programs
+
+Upon successful completion of the demonstration phase of teacher certification programs funded under this section, the continued operation of the teacher certification programs shall not be the responsibility of the Secretary. A State educational agency, institution, or consortium that desires to continue a program that is funded under this section after such funding is terminated shall use amounts derived from tuition charges to continue such program.
+
+#### (f) Funding limitation
+
+The total amount obligated by the Secretary under this section for any fiscal year may not exceed $10,000,000.
+
+(Pub. L. 89–10, title II, §2306, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1654.)
+
+#### Prior Provisions
+
+A prior section 6676, Pub. L. 89–10, title II, §2306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3635, related to matching funds from private sources, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6672 of this title.
+

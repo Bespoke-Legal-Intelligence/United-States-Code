@@ -62,7 +62,7 @@ Field.—The term “field” means a part of a farm that is separated from the 
 
 &emsp;(C)
 
-Equations.—Not later than 60 days after the date of enactment of this subparagraph, the Secretary shall publish in the Federal Register the universal soil loss equation and wind erosion equation used by the Department of Agriculture as of that date. The Secretary may not change the equations after that date except following notice and comment in a manner consistent with section 553 of title 5.
+Equations.—Not later than 60 days after the date of enactment of this subparagraph, the Secretary shall publish in the Federal Register the universal soil loss equation and wind erosion equation used by the Department of Agriculture as of that date. The Secretary may not change the equations after that dateexcept following notice and comment in a manner consistent with section 553 of title 5.
 
 &emsp;(10) The term “hydric soil” means soil that, in its undrained condition, is saturated, flooded, or ponded long enough during a growing season to develop an anaerobic condition that supports the growth and regeneration of hydrophytic vegetation.
 

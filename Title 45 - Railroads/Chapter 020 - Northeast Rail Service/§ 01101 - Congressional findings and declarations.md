@@ -2,7 +2,7 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) the processes set in motion by the Regional Rail Reorganization Act of 1973 \[45U.S.C. 701 et seq.\] have failed to create a self-sustaining railroad system in the Northeast region of the United States and have cost United States taxpayers many billions of dollars over original estimates;
+&emsp;(1) the processes set in motion by the Regional Rail Reorganization Act of 1973 \[45 U.S.C. 701 et seq.\] have failed to create a self-sustaining railroad system in the Northeast region of the United States and have cost United States taxpayers many billions of dollars over original estimates;
 
 &emsp;(2) current arrangements for the provision of rail freight and commuter service in the Northeast and Midwest regions of the United States are inadequate to meet the transportation needs of the public and the needs of national security;
 

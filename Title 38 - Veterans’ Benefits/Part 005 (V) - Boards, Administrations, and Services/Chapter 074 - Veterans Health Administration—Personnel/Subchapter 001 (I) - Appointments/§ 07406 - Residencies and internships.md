@@ -38,7 +38,7 @@
 
 &emsp;(B) maintain all records pertinent to such deductions and make proper deposits of such deductions; and
 
-&emsp;(C) maintain all records pertinent to the leave accrued by such intern and resident forthe period during which such recipient serves in a participating facility, including a Department facility furnishing hospital care or medical services.
+&emsp;(C) maintain all records pertinent to the leave accrued by such intern and resident for the period during which such recipient serves in a participating facility, including a Department facility furnishing hospital care or medical services.
 
 (5) Leave described in paragraph (4)(C) may be pooled, and the intern or resident may be afforded leave by the facility in which such person is serving at the time the leave is to be used to the extent of such person's total accumulated leave, whether or not earned at the facility in which such person is serving at the time the leave is to be afforded.
 

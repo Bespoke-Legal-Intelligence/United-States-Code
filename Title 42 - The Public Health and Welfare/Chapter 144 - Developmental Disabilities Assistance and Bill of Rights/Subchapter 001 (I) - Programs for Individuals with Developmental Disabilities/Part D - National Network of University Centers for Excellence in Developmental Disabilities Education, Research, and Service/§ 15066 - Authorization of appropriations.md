@@ -14,7 +14,7 @@
 
 #### (A) Years before appropriation trigger
 
-&emsp;&emsp;For any covered year, the Secretary shall reserve funds in accordance with section15083(c) of this title to fund technical assistance activities under section 15063(c) of this title (other than section 15063(c)(4) of this title).
+&emsp;&emsp;For any covered year, the Secretary shall reserve funds in accordance with section 15083(c) of this title to fund technical assistance activities under section 15063(c) of this title (other than section 15063(c)(4) of this title).
 
 #### (B) Years after appropriation trigger
 

@@ -2,7 +2,7 @@
 
 Section 8284, act Aug. 10, 1956, ch. 1041, 70A Stat. 507, provided that appointments in commissioned grades in Regular Air Force be made by President, by and with advice and consent of Senate. See section 531 of this title.
 
-Section 8285, acts Aug. 10, 1956, ch. 1041, 70A Stat. 507; Aug. 21, 1957, Pub. L. 85–155, title III, §301(4), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, §1(167), 72 Stat. 1516, prescribed eligibility requirements for original appointment in a commissioned grade in Regular AirForce, except designation as a medical or dental officer and except a graduating cadet. See section 532 of this title.
+Section 8285, acts Aug. 10, 1956, ch. 1041, 70A Stat. 507; Aug. 21, 1957, Pub. L. 85–155, title III, §301(4), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, §1(167), 72 Stat. 1516, prescribed eligibility requirements for original appointment in a commissioned grade in Regular Air Force, except designation as a medical or dental officer and except a graduating cadet. See section 532 of this title.
 
 Section 8286, acts Aug. 10, 1956, ch. 1041, 70A Stat. 507; Aug. 21, 1957, Pub. L. 85–155, title III, §301(5), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, §1(168), 72 Stat. 1517, prescribed age limitations for original appointment in a commissioned grade in Regular Air Force, except designation as a medical or dental officer or as an Air Force nurse or medical specialist. See section 532 of this title.
 

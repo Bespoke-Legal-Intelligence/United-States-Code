@@ -18,7 +18,7 @@ Such agreements may also provide for the disclosure by such organizations to the
 
 Agreements entered into pursuant to this section shall contain such provisions as may be necessary to ensure that—
 
-&emsp;(1) no information is disclosed by the Secretary or the guaranty agency, eligible lender, or subsequent holder unless its accuracy andcompleteness have been verified and the Secretary or the guaranty agency has determined that disclosure would accomplish the purpose of this section;
+&emsp;(1) no information is disclosed by the Secretary or the guaranty agency, eligible lender, or subsequent holder unless its accuracy and completeness have been verified and the Secretary or the guaranty agency has determined that disclosure would accomplish the purpose of this section;
 
 &emsp;(2) as to any information so disclosed, such organizations will be promptly notified of, and will promptly record, any change submitted by the Secretary, the guaranty agency, eligible lender, or subsequent holder with respect to such information, or any objections by the borrower with respect to any such information, as required by section 611 of the Fair Credit Reporting Act (15 U.S.C. 1681i);
 
@@ -54,7 +54,7 @@ Paragraph (6) of subsection (a) of section 605 of the Fair Credit Reporting Act,
 
 #### Prior Provisions
 
-A prior section 1080a, Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–272, title XVI, §16023, Apr. 7, 1986, 100 Stat. 349; amended Pub. L. 99–320, §2(c), May 23, 1986, 100 Stat. 491, related to reports to credit bureaus and institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1080a, Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–272, title XVI, §16023, Apr. 7, 1986,100 Stat. 349; amended Pub. L. 99–320, §2(c), May 23, 1986, 100 Stat. 491, related to reports to credit bureaus and institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

@@ -54,11 +54,11 @@ The Agricultural Trade Development and Assistance Act of 1954, referred to in pa
 
 The Commodity Credit Corporation Charter Act, referred to in pars. (8) and (9), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-Section 4 of the Food for Peace Act of 1966 (7 U.S.C. 1707a), referred to in par. (9), was repealed by Pub. L.101–624, title XV, §1574, Nov. 28, 1990, 104 Stat. 3702. See subchapter II (§5621 et seq.) of chapter 87 of this title.
+Section 4 of the Food for Peace Act of 1966 (7 U.S.C. 1707a), referred to in par. (9), was repealed by Pub. L. 101–624, title XV, §1574, Nov. 28, 1990, 104 Stat. 3702. See subchapter II (§5621 et seq.) of chapter 87 of this title.
 
 #### Short Title
 
-Section 4001 of title IV of Pub. L. 100–418 provided that: “This title \[enacting this chapter, section 2112 of Title 16, Conservation, and sections 1401, 1402, and 1403 of Title 21, Food and Drugs, amending sections 608c, 608e–1, 626, 1704, 1707a, 1726, 1736<i>o</i>, 1736s, 1736t, 1736v, 1736x, 1736bb, and 1736bb–3 to 1736bb–6 of this title, section 713a–14 of Title 15, Commerce and Trade, and section 620 of Title 21, and enacting provisions set out as notes under sections 624, 1431, 1446, 1691, and 1736t of this title and section 1401 of Title 21\] may be cited as the ‘Agricultural Competitiveness and Trade Act of 1988’.”
+Section 4001 of title IV of Pub. L. 100–418 provided that: “This title \[enacting this chapter, section 2112 of Title 16, Conservation, and sections 1401, 1402, and 1403 of Title 21, Food and Drugs, amending sections 608c, 608e–1, 626, 1704, 1707a, 1726, 1736<i>o</i>, 1736s, 1736t, 1736v, 1736x, 1736bb, and 1736bb–3 to 1736bb–6 of this title, section 713a–14 of Title 15, Commerce and Trade, and section 620 of Title 21, and enacting provisions set out asnotes under sections 624, 1431, 1446, 1691, and 1736t of this title and section 1401 of Title 21\] may be cited as the ‘Agricultural Competitiveness and Trade Act of 1988’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

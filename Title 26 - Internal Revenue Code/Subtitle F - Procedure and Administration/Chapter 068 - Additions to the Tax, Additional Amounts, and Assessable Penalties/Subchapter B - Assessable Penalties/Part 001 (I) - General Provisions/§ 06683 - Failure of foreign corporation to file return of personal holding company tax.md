@@ -6,7 +6,7 @@ Any foreign corporation which—
 
 &emsp;(2) fails to file or to cause to be filed with the Secretary a true and accurate return of the tax imposed by section 541,
 
-> shall, in addition to other penalties provided by law, pay a penalty equal to 10 percent of the taxes imposed by chapter 1 (including the taximposed by section 541) on such foreign corporation for such taxable year. No penalty shall be imposed under this section on any failure which is shown to be due to reasonable cause and not willful neglect.
+> shall, in addition to other penalties provided by law, pay a penalty equal to 10 percent of the taxes imposed by chapter 1 (including the tax imposed by section 541) on such foreign corporation for such taxable year. No penalty shall be imposed under this section on any failure which is shown to be due to reasonable cause and not willful neglect.
 
 (Added Pub. L. 89–809, title I, §104(h)(4)(A), Nov. 13, 1966, 80 Stat. 1560; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XII, §1281(c), Aug. 5, 1997, 111 Stat. 1037.)
 

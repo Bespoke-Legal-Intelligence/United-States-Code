@@ -14,7 +14,3 @@ For the purposes of this subchapter—
 
 (Pub. L. 93–473, §3, Oct. 26, 1974, 88 Stat. 1431.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 29 section 1531.
-

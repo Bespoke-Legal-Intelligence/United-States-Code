@@ -46,7 +46,7 @@ Deposit of receipts.—All receipts from numismatic operations and programs shal
 
 &emsp;(3)
 
-Transfer of seigniorage.—The Secretary shall transfer monthly from the Fund to the general fund of the Treasury an amount equal to the total amount on the seigniorage of numismatic items sold since the date of any preceding transfer.
+Transfer of seigniorage.—The Secretary shall transfer monthly from the Fundto the general fund of the Treasury an amount equal to the total amount on the seigniorage of numismatic items sold since the date of any preceding transfer.
 
 &emsp;(4)
 
@@ -58,7 +58,7 @@ Transfer of excess amounts to the treasury.—
 
 &emsp;&emsp;(A)
 
-In general.—At such times as the Secretary determines to be appropriate, theSecretary shall transfer any amount in the Fund which the Secretary determines to be in excess of the amount required by the Fund to the Treasury for deposit as miscellaneous receipts.
+In general.—At such times as the Secretary determines to be appropriate, the Secretary shall transfer any amount in the Fund which the Secretary determines to be in excess of the amount required by the Fund to the Treasury for deposit as miscellaneous receipts.
 
 &emsp;&emsp;(B)
 
@@ -164,7 +164,7 @@ Contents of annual report.—The annual report required under subparagraph (A) f
 
 &emsp;&emsp;&emsp;(iv) a summary of information relating to numismatic operations and programs contained in the reports on systems on internal accounting and administrative controls and accounting systems submitted to the President and the Congress under section 3512(c);
 
-&emsp;&emsp;&emsp;(v) a summary of the corrective actions taken with respect to material weaknesses relating to numismatic operations and programs identified in the reports prepared under section 3512(c);
+&emsp;&emsp;&emsp;(v) a summary of the corrective actions taken with respect to material weaknessesrelating to numismatic operations and programs identified in the reports prepared under section 3512(c);
 
 &emsp;&emsp;&emsp;(vi) any other information the Secretary considers appropriate to fully inform the Congress concerning the financial management of the Fund; and
 
@@ -242,11 +242,11 @@ Nonapplicability to federal entities.—This paragraph shall not apply to any Fe
 
 &emsp;&emsp;(H)
 
-Availability of books and records.—An organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such payment, to the Inspector General of the Department of the Treasury or the Comptroller General of the United States, upon the request of such Inspector General or the Comptroller General, all books, records, and work papers belonging to or used by the organization, or by any independent public accountant who audited the organization in accordance with subparagraph (A), which may relate to the receipt or expenditure of any such amount by the organization.
+Availability of books and records.—An organization that receives any payment from the fund <sup>2</sup> of any amount derived from the proceeds of any surcharge imposed onthe sale of any numismatic item shall provide, as a condition for receiving any such payment, to the Inspector General of the Department of the Treasury or the Comptroller General of the United States, upon the request of such Inspector General or the Comptroller General, all books, records, and work papers belonging to or used by the organization, or by any independent public accountant who audited the organization in accordance with subparagraph (A), which may relate to the receipt or expenditure of any such amount by the organization.
 
 &emsp;(3)
 
-Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>2</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, bythe organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
+Use of agents or attorneys to influence commemorative coin legislation.—No portion of any payment from the fund <sup>2</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
 
 &emsp;(4)
 
@@ -332,7 +332,7 @@ In general.—As soon as practicable after the end of fiscal year 1992, the Secr
 
 “(2)
 
-Excess amounts to be deposited in the general fund.—That portion of the total amount of numismatic profits for fiscal year 1992 which remains after the transfer to the Fund pursuant to paragraph (1)(A) is made shall be deposited by the Secretary in the general fund of the Treasury as soon as practicable after the end of the fiscal year.
+Excess amounts to be deposited in the general fund.—That portion of the total amount of numismatic profits for fiscal year 1992 which remains after thetransfer to the Fund pursuant to paragraph (1)(A) is made shall be deposited by the Secretary in the general fund of the Treasury as soon as practicable after the end of the fiscal year.
 
 “(3)
 

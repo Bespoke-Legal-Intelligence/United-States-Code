@@ -6,7 +6,7 @@ The Secretary, in consultation with the tribes, shall determine—
 
 &emsp;(1) by tribe and by Service unit of the Service, the incidence of, and the types of complications resulting from, diabetes among Indians; and
 
-&emsp;(2) based on paragraph (1), the measures (including patient education) each Service unit should take to reduce the incidence of, and prevent, treat, and control the complicationsresulting from, diabetes among tribes within that Service unit.
+&emsp;(2) based on paragraph (1), the measures (including patient education) each Service unit should take to reduce the incidence of, and prevent, treat, and control the complications resulting from, diabetes among tribes within that Service unit.
 
 #### (b) Screening
 

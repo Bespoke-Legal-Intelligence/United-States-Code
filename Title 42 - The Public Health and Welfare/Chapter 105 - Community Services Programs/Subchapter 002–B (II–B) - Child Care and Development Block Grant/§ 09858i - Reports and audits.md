@@ -66,11 +66,11 @@
 
 &emsp;Not later than December 31, 1997, and every 12 months thereafter, a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
 
-&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types of providers listed in section 9858n(5) of this title;
+&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types ofproviders listed in section 9858n(5) of this title;
 
 &emsp;&emsp;(B) the monthly cost of child care services, and the portion of such cost that is paid for with assistance provided under this subchapter, listed by the type of child care services provided;
 
-&emsp;&emsp;(C) the number of payments made by the State through vouchers, contracts, cash, anddisregards under public benefit programs, listed by the type of child care services provided;
+&emsp;&emsp;(C) the number of payments made by the State through vouchers, contracts, cash, and disregards under public benefit programs, listed by the type of child care services provided;
 
 &emsp;&emsp;(D) the manner in which consumer education information was provided to parents and the number of parents to whom such information was provided; and
 

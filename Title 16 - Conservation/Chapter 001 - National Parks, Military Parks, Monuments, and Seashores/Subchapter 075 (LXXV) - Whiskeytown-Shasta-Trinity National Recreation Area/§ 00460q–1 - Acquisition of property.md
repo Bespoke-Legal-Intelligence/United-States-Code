@@ -16,7 +16,7 @@ When the public interests will be benefited thereby, the Secretary of the Interi
 
 #### (c) Reservation of use and occupancy of improved property for noncommercial residential purposes; term; valuation
 
-Any owner or owners of improved residential property on the date of its acquisition by either Secretary may, as a condition to such acquisition, retain the right of use and occupancy of the property by himself and members of his immediate family for noncommercial residential purposes for a term ending at the death of such owner, the death of his spouse, or the day his last surviving child reaches the age of thirty, whichever is the latest. The value of the right retained shall be taken into consideration by the respective Secretary in determining the value of the property being acquired.
+Any owner or owners of improved residential property on the date of its acquisition by either Secretary may, as a condition to such acquisition, retain the right of use and occupancy of the property by himself and members of his immediate family for noncommercial residentialpurposes for a term ending at the death of such owner, the death of his spouse, or the day his last surviving child reaches the age of thirty, whichever is the latest. The value of the right retained shall be taken into consideration by the respective Secretary in determining the value of the property being acquired.
 
 #### (d) Limitation of acquisition of improved property during existence of zoning ordinance; “improved property” defined
 
@@ -28,7 +28,7 @@ Prior to the approval of any zoning ordinance for the purposes of this section, 
 
 #### (f) Termination of suspension of authority for acquisition without owner's consent because of nonconforming variances and uses
 
-The suspension of the respective Secretary's authority to acquire any improved property without the owner's consent shall automatically cease if (1) such property is made the subject of a variance or exception to any applicable zoningordinance that does not conform to any applicable standard contained in regulations issued pursuant to this section; or (2) if such property is put to any use which does not conform to any applicable zoning ordinance.
+The suspension of the respective Secretary's authority to acquire any improved property without the owner's consent shall automatically cease if (1) such property is made the subject of a variance or exception to any applicable zoning ordinance that does not conform to any applicable standard contained in regulations issued pursuant to this section; or (2) if such property is put to any use which does not conform to any applicable zoning ordinance.
 
 #### (g) Certificate of suspension of authority for acquisition without owner's consent
 

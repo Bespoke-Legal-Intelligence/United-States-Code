@@ -12,7 +12,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(ii) add any charges which are not part of the finance charge or of the principal amount of the loan and which are financed by the consumer, including the cost of any items excluded from the finance charge pursuant to section 1605 of this title; and
 
-&emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of theconsummation of the transaction, or have been withheld from the proceeds of the credit.
+&emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
 &emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a “yes” and “no” indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, “itemization of the amount financed” means a disclosure of the following items, to the extent applicable:
 
@@ -36,7 +36,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(8) Descriptive explanations of the terms “amount financed”, “finance charge”, “annual percentage rate”, “total of payments”, and “total sale price” as specified by the Board. The descriptive explanation of “total sale price” shall include reference to the amount of the downpayment.
 
-&emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
+&emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of thecredit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
 &emsp;(10) Any dollar charge or percentage amount which may be imposed by a creditor solely on account of a late payment, other than a deferral or extension charge.
 

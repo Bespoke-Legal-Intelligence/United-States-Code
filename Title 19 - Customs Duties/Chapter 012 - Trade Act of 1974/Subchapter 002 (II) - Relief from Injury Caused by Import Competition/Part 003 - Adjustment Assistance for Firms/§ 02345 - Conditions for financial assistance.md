@@ -56,7 +56,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 #### (h) Maximum aggregate amount of outstanding guaranteed or direct loans
 
-(1) The aggregate amount of loans made to any firm which are guaranteed under this part and which are outstanding at any time shall not exceed $3,000,000.
+(1) The aggregate amount of loans made to any firm which are guaranteed under this partand which are outstanding at any time shall not exceed $3,000,000.
 
 (2) The aggregate amount of direct loans made to any firm under this part which are outstanding at any time shall not exceed $1,000,000.
 
@@ -96,7 +96,7 @@ The Secretary may charge a fee to a lender which makes a loan guaranteed under t
 
 &emsp;(A) “employee stock ownership plan” means a plan described in section 4975(e)(7) of title 26,
 
-&emsp;(B) “qualified trust” means a trust established under an employee stock ownership plan and meeting the requirements of title I ofthe Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and section 401 of title 26,
+&emsp;(B) “qualified trust” means a trust established under an employee stock ownership plan and meeting the requirements of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and section 401 of title 26,
 
 &emsp;(C) “qualified employer securities” means common stock issued by the recipient corporation or by a parent or subsidiary of such corporation with voting power and dividend rights no less favorable than the voting power and dividend rights on other common stock issued by the issuing corporation and with voting power being exercised by the participants in the employee stock ownership plan after it is allocated to their plan accounts, and
 

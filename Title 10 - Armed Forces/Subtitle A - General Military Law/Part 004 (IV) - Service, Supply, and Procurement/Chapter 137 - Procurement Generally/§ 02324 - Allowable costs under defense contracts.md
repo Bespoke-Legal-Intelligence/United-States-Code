@@ -40,7 +40,7 @@ Applicability of Contract Disputes Procedure to Disallowance of Cost and Assessm
 
 Specific Costs Not Allowable.—(1) The following costs are not allowable under a covered contract:
 
-&emsp;(A) Costs of entertainment, including amusement, diversion, and social activities and any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
+&emsp;(A) Costs of entertainment, including amusement, diversion, and social activitiesand any costs directly associated with such costs (such as tickets to shows or sports events, meals, lodging, rentals, transportation, and gratuities).
 
 &emsp;(B) Costs incurred to influence (directly or indirectly) legislative action on any matter pending before Congress, a State legislature, or a legislative body of a political subdivision of a State.
 
@@ -234,7 +234,7 @@ Proceeding Costs Not Allowable.—(1) Except as otherwise provided in this subse
 
 Definitions.—In this section:
 
-&emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
+&emsp;(1)(A) The term “covered contract” means a contract for an amount in excess of $500,000 that is entered into by the head of an agency, except that such term does not include a fixed-price contract without cost incentives or any firm fixed-price contract for the purchase of commercial items.
 
 &emsp;(B) Effective on October 1 of each year that is divisible by five, the amount set forth in subparagraph (A) shall be adjusted to the equivalent amount in constant fiscal year 1994 dollars. An amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but is not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000.
 
@@ -390,7 +390,7 @@ Subsec. (<i>l</i>)(3). Pub. L. 102–484, §1052(26)(B)(ii), added par. (3).
 
 Subsec. (k)(5)(B)(i). Pub. L. 101–189, §853(b)(3), substituted “the Federal Acquisition Regulation” for “the single Government-wide procurement regulation issued pursuant to section 4(4)(A) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(4)(A))”.
 
-Subsec. (k)(6). Pub. L. 101–189, §853(a)(1)(A), designated par. (2) of subsec. (<i>l</i>), set out first, as subsec. (k)(6) and substituted “In this subsection:” for “In subsection (k):” in introductory provisions.
+Subsec. (k)(6). Pub. L. 101–189, §853(a)(1)(A), designated par. (2) of subsec. (<i>l</i>), set out first, as subsec.\(k)(6) and substituted “In this subsection:” for “In subsection (k):” in introductory provisions.
 
 Subsec. (<i>l</i>). Pub. L. 101–189, §853(a)(1)(A), (C), restored the text of subsec. (k) as in effect prior to being struck out by Pub. L. 100–700, §8(b)(2) (see 1988 Amendment note below), designated such text as subsec. (<i>l</i>), and struck out former subsec. (<i>l</i>)(1), set out first, which defined “covered contract”. Former subsec. (<i>l</i>)(2), set out first, was redesignated subsec. (k)(6). Former subsec. (<i>l</i>), set out second, was redesignated (m).
 
@@ -456,7 +456,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1992 Amendments
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 Section 818(b) of Pub. L. 102–484 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 23, 1992\] and shall apply, as provided in regulations prescribed by the Secretary of Defense, with respect to proposals for settlement of indirect costs for which the Federal Government has not formally initiated an audit before that date.”
 
@@ -546,7 +546,7 @@ Report.—Not later than November 13 in each of the years 1995, 1996, and 1997, 
 
 &emsp;“(3) The Department's experience with business combinations for which the Department has agreed to allow restructuring costs since July 21, 1993, including the following:
 
-&emsp;&emsp;“(A) The estimated amount of costs associated with each restructuring that have been or will be treated as allowable costs under defense contracts, including the type and amounts of costs that would not have arisen absent the business combination.
+&emsp;&emsp;“(A) The estimated amount of costs associated with each restructuring that have been or will betreated as allowable costs under defense contracts, including the type and amounts of costs that would not have arisen absent the business combination.
 
 &emsp;&emsp;“(B) The estimated amount of savings associated with each restructuring that are expected to be achieved on defense contracts.
 
@@ -620,7 +620,7 @@ Expiration.—This section shall cease to be effective three years after the dat
 
 #### Burden of Proof in Government Contract Dispute Resolution
 
-Section 933 of Pub. L. 99–145, which provided that in proceeding before the Armed Services Board of Contract Appeals, United States Claims Court, or anyother Federal court in which reasonableness of indirect costs for which a contractor seeks reimbursement from Department of Defense is in issue, the burden of proof is upon the contractor to establish that such costs are reasonable, was repealed and restated in subsec. (j) of this section by Pub. L. 100–370, §1(f)(3)(A)(ii), (B), July 19, 1988, 102 Stat. 846.
+Section 933 of Pub. L. 99–145, which provided that in proceeding before the Armed Services Board of Contract Appeals, United States Claims Court, or any other Federal court in which reasonableness of indirect costs for which a contractor seeks reimbursement from Department of Defense is in issue, the burden of proof is upon the contractor to establish that such costs are reasonable, was repealed and restated in subsec. (j) of this section by Pub. L. 100–370, §1(f)(3)(A)(ii), (B), July 19, 1988, 102 Stat. 846.
 
 #### Section Referred to in Other Sections
 

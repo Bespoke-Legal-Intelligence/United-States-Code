@@ -5,6 +5,7 @@
 | [5101\.](%C2%A7%2005101%20-%20Purpose.md) | Purpose. |
 | [5102\.](%C2%A7%2005102%20-%20Definitions.md) | Definitions. |
 | [5103\.](%C2%A7%2005103%20-%20General%20regulatory%20authority.md) | General regulatory authority. |
+| [5103a.](%C2%A7%2005103a%20-%20Limitation%20on%20issuance%20of%20hazmat%20licenses.md) | Limitation on issuance of hazmat licenses. |
 | [5104\.](%C2%A7%2005104%20-%20Representation%20and%20tampering.md) | Representation and tampering. |
 | [5105\.](%C2%A7%2005105%20-%20Transporting%20certain%20highly%20radioactive%20material.md) | Transporting certain highly radioactive material. |
 | [5106\.](%C2%A7%2005106%20-%20Handling%20criteria.md) | Handling criteria. |
@@ -32,6 +33,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+2001—Pub. L. 107–56, title X, §1012(a)(2), Oct. 26, 2001, 115 Stat. 397, added item 5103a.
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 113, 521, 5710, 5908, 13905, 20109, 20111, 20114, 31144, 31146, 31305 of this title; title 18 section 844; title 42 sections 6912, 6921, 6923, 9656.
@@ -44,6 +49,7 @@ This chapter is referred to in sections 113, 521, 5710, 5908, 13905, 20109, 2011
 - [&sect; 05101 - Purpose](%C2%A7%2005101%20-%20Purpose.md)
 - [&sect; 05102 - Definitions](%C2%A7%2005102%20-%20Definitions.md)
 - [&sect; 05103 - General regulatory authority](%C2%A7%2005103%20-%20General%20regulatory%20authority.md)
+- [&sect; 05103a - Limitation on issuance of hazmat licenses](%C2%A7%2005103a%20-%20Limitation%20on%20issuance%20of%20hazmat%20licenses.md)
 - [&sect; 05104 - Representation and tampering](%C2%A7%2005104%20-%20Representation%20and%20tampering.md)
 - [&sect; 05105 - Transporting certain highly radioactive material](%C2%A7%2005105%20-%20Transporting%20certain%20highly%20radioactive%20material.md)
 - [&sect; 05106 - Handling criteria](%C2%A7%2005106%20-%20Handling%20criteria.md)

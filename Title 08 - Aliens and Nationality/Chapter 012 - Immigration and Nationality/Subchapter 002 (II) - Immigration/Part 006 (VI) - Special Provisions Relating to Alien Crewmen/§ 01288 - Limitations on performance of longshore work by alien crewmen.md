@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal operation and service on board a vessel” does not include any activity that is longshore work (as defined in subsection (b) of this section), except as provided under subsection (c), (d), or (e) of this section.
+For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal operation and service on board a vessel” does not include any activitythat is longshore work (as defined in subsection (b) of this section), except as provided under subsection (c), (d), or (e) of this section.
 
 #### (b) “Longshore work” defined
 
@@ -30,7 +30,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 &emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (covering such percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
 
-&emsp;(B) there is no collective bargaining agreement in effect in the local port covering at least 30 percent of the number of individuals employed in performing longshore work, and an employer of alien crewmen (or the employer's designated agent or representative) hasfiled with the Secretary of Labor at least 14 days before the date of performance of the activity (or later, if necessary due to an unanticipated emergency, but not later than the date of performance of the activity) an attestation setting forth facts and evidence to show that—
+&emsp;(B) there is no collective bargaining agreement in effect in the local port covering at least 30 percent of the number of individuals employed in performing longshore work, and an employer of alien crewmen (or the employer's designated agent or representative) has filed with the Secretary of Labor at least 14 days before the date of performance of the activity (or later, if necessary due to an unanticipated emergency, but not later than the date of performance of the activity) an attestation setting forth facts and evidence to show that—
 
 &emsp;&emsp;(i) the performance of the activity by alien crewmen is permitted under the prevailing practice of the particular port as of the date of filing of the attestation and that the use of alien crewmen for such activity—
 
@@ -56,7 +56,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 (ii) Complaints may be filed by any aggrieved person or organization (including bargaining representatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary).
 
-(iii) The Secretary shall promptly conduct an investigation under this subparagraph if there is reasonable cause to believe that an entity fails to meet conditions attested to, an entity has misrepresented a material fact in the attestation, or, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in paragraph (1)(B)(i).
+(iii) The Secretary shall promptly conduct an investigation under this subparagraph if there is reasonable cause to believe that an entity fails to meet conditions attested to, an entity hasmisrepresented a material fact in the attestation, or, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in paragraph (1)(B)(i).
 
 (C)(i) If the Secretary determines that reasonable cause exists to conduct an investigation with respect to an attestation, a complaining party may request that the activities attested to by the employer cease during the hearing process described in subparagraph (D). If such a request is made, the attesting employer shall be issued notice of such request and shall respond within 14 days to the notice. If the Secretary makes an initial determination that the complaining party's position is supported by a preponderance of the evidence submitted, the Secretary shall require immediately that the employer cease and desist from such activities until completion of the process described in subparagraph (D).
 
@@ -64,7 +64,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 (D) Under the process established under subparagraph (B), the Secretary shall provide, within 180 days after the date a complaint is filed (or later for good cause shown), for a determination as to whether or not a basis exists to make a finding described in subparagraph (E). The Secretary shall provide notice of such determination to the interested parties and an opportunity for a hearing on the complaint within 60 days of the date of the determination.
 
-(E)(i) If the Secretary of Labor finds, after notice and opportunity for a hearing, that an entity has failed to meet a condition attested to or has made a misrepresentation of material fact in the attestation, the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties inan amount not to exceed $5,000 for each alien crewman performing unauthorized longshore work) as the Secretary determines to be appropriate. Upon receipt of such notice, the Attorney General shall not permit the vessels owned or chartered by such entity to enter any port of the United States during a period of up to 1 year.
+(E)(i) If the Secretary of Labor finds, after notice and opportunity for a hearing, that an entity has failed to meet a condition attested to or has made a misrepresentation of material fact in the attestation, the Secretary shall notify the Attorney General of such finding and may, in addition, impose such other administrative remedies (including civil monetary penalties in an amount not to exceed $5,000 for each alien crewman performing unauthorized longshore work) as the Secretary determines to be appropriate. Upon receipt of such notice, the Attorney General shall not permit the vessels owned or chartered by such entity to enter any port of the United States during a period of up to 1 year.
 
 (ii) If the Secretary of Labor finds, after notice and opportunity for a hearing, that, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in subparagraph (B)(i), the Secretary shall notify the Attorney General of such finding and, thereafter, the attestation described in paragraph (1) shall be required of the employer for the performance of the particular activity.
 
@@ -116,7 +116,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 (B) In the cases of Wide Bay, Alaska, and Klawock/Craig, Alaska, the travel times and travel distances specified in subclauses (III) and (IV) of subparagraph (A)(iii) shall be extended to 45 minutes and 71/2 miles, respectively, unless the party responding to the request for longshore workers agrees to the lesser time and distance limitations specified in those subclauses.
 
-(4) Subject to subparagraphs (A) through (D) of subsection (c)(4) of this section, attestationsfiled under paragraph (1) of this subsection shall—
+(4) Subject to subparagraphs (A) through (D) of subsection (c)(4) of this section, attestations filed under paragraph (1) of this subsection shall—
 
 &emsp;(A) expire at the end of the 1-year period beginning on the date the employer anticipates the longshore work to begin, as specified in the attestation filed with the Secretary of Labor, and
 
@@ -152,7 +152,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 &emsp;For purposes of this subsection, the term “in practice” refers to an activity normally performed in such country during the one-year period preceding the arrival of such vessel into the United States or coastal waters thereof.
 
-(June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29, 1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L. 103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29, 1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L.103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
 
 #### References in Text
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 103–416 effective as if included in the enactment of the 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date
 

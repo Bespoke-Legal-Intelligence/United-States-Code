@@ -216,11 +216,11 @@ Information of the dci and the secretary of defense.—The Director of Central I
 
 &emsp;“(3)
 
-Information of the tribunal.—The Secretary of State shall request that the Tribunal and other international organizations and governments provide the Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals and concerning country, entity and municipality authorities known to have obstructed the work of the Tribunal.
+Information of the tribunal.—The Secretary of State shall request that the Tribunal and other international organizations and governments providethe Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals and concerning country, entity and municipality authorities known to have obstructed the work of the Tribunal.
 
 &emsp;“(4)
 
-Report.—Beginning 30 days after the date of the enactment of this Act \[Nov. 6, 2000\], and not later than September 1 each year thereafter, the Secretary of State shall submit a report in classified and unclassified form to the appropriate congressional committees on the location, including the municipality,if known, of publicly indicted war criminals, on country, entity and municipality authorities known to have obstructed the work of the Tribunal, and on sanctioned countries, entities, and municipalities.
+Report.—Beginning 30 days after the date of the enactment of this Act \[Nov. 6, 2000\], and not later than September 1 each year thereafter, the Secretary of State shall submit a report in classified and unclassified form to the appropriate congressional committees on the location, including the municipality, if known, of publicly indicted war criminals, on country, entity and municipality authorities known to have obstructed the work of the Tribunal, and on sanctioned countries, entities, and municipalities.
 
 &emsp;“(5)
 
@@ -318,7 +318,7 @@ Pub. L. 103–236, title V, §536, Apr. 30, 1994, 108 Stat. 481, provided that:
 
 “(a)
 
-Report on United States-Tibet Relations.—Because Congress has determined that Tibet is an occupied sovereign country under international law and that its true representatives are the Dalai Lama and the Tibetan Government in exile—
+Report on United States-Tibet Relations.—Because Congress has determined that Tibet is an occupied sovereign country under international law andthat its true representatives are the Dalai Lama and the Tibetan Government in exile—
 
 &emsp;“(1) it is the sense of the Congress that the United States should seek to establish a dialogue with those recognized by Congress as the true representatives of the Tibetan people, the Dalai Lama, his representatives and the Tibetan Government in exile, concerning the situation in Tibet and the future of the Tibetan people and to expand and strengthen United States-Tibet cultural and educational relations, including promoting bilateral exchanges arranged directly with the Tibetan Government in exile; and
 
@@ -410,7 +410,7 @@ Findings.—The Congress finds that a primary role of the Department of State is
 
 “(b)
 
-Recruitment.—(1) Not later than 120 days after the date of enactment of this Act \[Feb. 16, 1990\], the Secretary of State shall provide the Congress with a plan to assure that equal efforts are undertaken in each of the regions of the United States to recruit policy and professional Government Service employees and Foreign Service officers for the Department of State and each of its affiliated agencies.
+Recruitment.—(1) Not later than 120 days after the date of enactment of this Act \[Feb. 16, 1990\], the Secretary of State shall provide the Congress with a plan to assure that equal efforts are undertaken in each of the regions of the United States to recruit policy andprofessional Government Service employees and Foreign Service officers for the Department of State and each of its affiliated agencies.
 
 “(2) Not later than January 1, 1991, the Secretary of State shall implement the plan provided for in paragraph (1).”
 
@@ -480,7 +480,7 @@ Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: “
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
-Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress reaffirms that it is the continuing policy of the United States Government to oppose the practice of torture by foreign governments through public and private diplomacy and, when necessary and appropriate, through the enactment and vigorous implementation of laws intended to reinforce United States policies with respect to torture. The United States Government opposes acts of torture wherever they occur, without regard to ideological or regional considerations, and will make every effort to work cooperatively with other governments and with nongovernmental organizations to combat the practice of torture worldwide.
+Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress reaffirms that it is the continuing policy of the United States Government to oppose the practice of torture by foreign governments through public and private diplomacy and, when necessary and appropriate, through the enactment and vigorous implementation of laws intended to reinforce United States policies with respect to torture. The United States Government opposes acts of torture wherever they occur, without regard to ideological or regionalconsiderations, and will make every effort to work cooperatively with other governments and with nongovernmental organizations to combat the practice of torture worldwide.
 
 “Sec. 2. (a) The President is requested—
 

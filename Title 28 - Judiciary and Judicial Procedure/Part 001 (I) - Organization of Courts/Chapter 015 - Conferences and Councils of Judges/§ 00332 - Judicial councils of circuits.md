@@ -74,7 +74,7 @@ All duties delegated to the circuit executive shall be subject to the general su
 
 Based on title 28, U.S.C., 1940 ed., §448 (Mar. 3, 1911, ch. 231, §306, as added Aug. 7, 1939, ch. 501, §1, 53 Stat. 1223).
 
-The final sentence of section 448 of title 28, U.S.C., 1940 ed., excepting from the operation of said section the provisions of existing law as to assignment of district judges outside their districts, was omitted as surplusage, since there is nothing in this section in conflict with section 292 of this title providing for such assignments.
+The final sentence of section 448 of title 28, U.S.C., 1940 ed., excepting from the operation of said sectionthe provisions of existing law as to assignment of district judges outside their districts, was omitted as surplusage, since there is nothing in this section in conflict with section 292 of this title providing for such assignments.
 
 The requirement for attendance of circuit judges, unless excused by the chief judge, was included in conformity with a similar provision of section 331 of this title.
 

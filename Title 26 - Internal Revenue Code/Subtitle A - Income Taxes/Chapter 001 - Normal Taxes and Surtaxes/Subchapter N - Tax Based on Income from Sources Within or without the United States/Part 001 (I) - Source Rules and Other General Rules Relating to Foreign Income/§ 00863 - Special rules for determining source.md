@@ -208,7 +208,7 @@ For nonapplication of amendments by sections 1211(b)(1)(A) and 1212(a) of Pub. L
 
 #### Qualified Research and Experimental Expenditures; Allocation and Appointment; Definitions; Special Rules; Effective Dates
 
-For allocation and apportionment of qualified research and experimental expenditures for purposes of sections 861 to 863 of this title, see section 4009 of Pub.L. 100–647, set out as a note under section 861 of this title.
+For allocation and apportionment of qualified research and experimental expenditures for purposes of sections 861 to 863 of this title, see section 4009 of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### 1-Year Modification in Regulations Providing for Allocation of Research and Experimental Expenditures
 

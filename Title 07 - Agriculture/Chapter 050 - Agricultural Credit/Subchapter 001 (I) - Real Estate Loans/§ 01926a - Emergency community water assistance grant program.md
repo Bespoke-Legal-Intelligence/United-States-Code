@@ -46,7 +46,7 @@ To be eligible to obtain a grant under this section, an applicant shall—
 
 &emsp;&emsp;(A) includes any area in any city or town with a population in excess of 10,000 inhabitants according to the most recent decennial census of the United States; or
 
-&emsp;&emsp;(B) has a median household income in excess of the State nonmetropolitan median household income according to the most recent decennial census of the United States.
+&emsp;&emsp;(B) has a median household income in excess of the State nonmetropolitan medianhousehold income according to the most recent decennial census of the United States.
 
 #### (2) Set-aside for smaller communities
 

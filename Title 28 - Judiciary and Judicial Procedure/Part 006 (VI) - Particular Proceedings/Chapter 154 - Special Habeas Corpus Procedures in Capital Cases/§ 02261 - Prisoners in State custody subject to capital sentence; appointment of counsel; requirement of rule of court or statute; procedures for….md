@@ -14,7 +14,7 @@
 
 (d) No counsel appointed pursuant to subsections (b) and (c) to represent a State prisoner under capital sentence shall have previously represented the prisoner at trial or on direct appeal in the case for which the appointment is made unless the prisoner and counsel expressly request continued representation.
 
-(e) The ineffectiveness or incompetence of counsel during State or Federal post-conviction proceedings in a capital case shall not be a ground for relief in a proceeding arising under section 2254. This limitation shall not preclude the appointment of different counsel, on the court's own motion or at the request of the prisoner, at any phase of State or Federal post-conviction proceedings on the basis of the ineffectiveness or incompetence of counsel in such proceedings.
+(e) The ineffectiveness or incompetence of counsel during State or Federal post-conviction proceedings in a capital case shall not be aground for relief in a proceeding arising under section 2254. This limitation shall not preclude the appointment of different counsel, on the court's own motion or at the request of the prisoner, at any phase of State or Federal post-conviction proceedings on the basis of the ineffectiveness or incompetence of counsel in such proceedings.
 
 (Added Pub. L. 104–132, title I, §107(a), Apr. 24, 1996, 110 Stat. 1221.)
 

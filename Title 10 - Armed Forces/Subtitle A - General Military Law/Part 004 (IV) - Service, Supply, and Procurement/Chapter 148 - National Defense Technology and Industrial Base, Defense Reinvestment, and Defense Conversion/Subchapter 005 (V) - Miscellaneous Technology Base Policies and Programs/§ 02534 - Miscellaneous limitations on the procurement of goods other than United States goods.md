@@ -150,7 +150,7 @@ Implementation of Naval Vessel Component Limitation.—In implementing subsectio
 
 &emsp;(1) may not use contract clauses or certifications; and
 
-&emsp;(2) shall use management and oversight techniques that achieve the objective of the subsection without imposing a significant management burden on the Government or the contractor involved.
+&emsp;(2) shall use management and oversight techniques that achieve the objective of thesubsection without imposing a significant management burden on the Government or the contractor involved.
 
 (i)
 
@@ -164,7 +164,21 @@ Implementation of Certain Waiver Authority.—(1) The Secretary of Defense may e
 
 (5) Any waiver made by the Secretary under the waiver authority described in paragraph (2) shall be in effect for a period not greater than one year, as determined by the Secretary.
 
-(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207.)
+(j)
+
+Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearings.—(1) This section does not apply with respect to a contract or subcontract to purchase items described in subsection (a)(5) (relating to ball bearings and roller bearings) for which—
+
+&emsp;(A) the amount of the purchase does not exceed $2,500;
+
+&emsp;(B) the precision level of the ball or roller bearings to be procured under the contract or subcontract is rated lower than the rating known as Annual Bearing Engineering Committee (ABEC) 5 or Roller Bearing Engineering Committee (RBEC) 5, or an equivalent of such rating;
+
+&emsp;(C) at least two manufacturers in the national technology and industrial base that are capable of producing the ball or roller bearings have not responded to a request for quotation issued by the contracting activity for that contract or subcontract; and
+
+&emsp;(D) no bearing to be procured under the contract or subcontract has a basic outside diameter (exclusive of flange diameters) in excess of 30 millimeters.
+
+(2) Paragraph (1) does not apply to a purchase if such purchase would result in the total amount of purchases of ball bearings and roller bearings to satisfy requirements under Department of Defense contracts, using the authority provided in such paragraph, to exceed $200,000 during the fiscal year of such purchase.
+
+(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225.)
 
 Historical and Revision Notes
 
@@ -184,9 +198,11 @@ The words “of the United States under the provisions of this Act or the provis
 
 #### Amendments
 
-2000—Subsec. (c)(3). Pub. L. 106–398 substituted “October 1, 2005” for “October 1, 2000”.
+2001—Subsec. (i)(3). Pub. L. 107–107, §1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1999—Subsec. (i)(3). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+Subsec. (j). Pub. L. 107–107, §835(a), added subsec. (j).
+
+2000—Subsec. (c)(3). Pub. L. 106–398 substituted “October 1, 2005” for “October 1, 2000”.
 
 1997—Subsec. (b)(3). Pub. L. 105–85, §1073(a)(55), substituted “(a)(3)(A)(iii)” for “(a)(3)(A)(ii)”.
 
@@ -265,6 +281,10 @@ Subsec. (a). Pub. L. 100–370 substituted “this subsection” for “this sec
 Subsec. (d). Pub. L. 100–456, §822, added subsec. (d).
 
 1987—Pub. L. 100–180 substituted “Miscellaneous procurement limitations” for “Limitation on procurement of buses” in section catchline, designated existing provisions as subsec. (a) and added heading, and added subsecs. (b) and (c).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VIII, §835(b), Dec. 28, 2001, 115 Stat. 1192, provided that: “Subsection (j) of such section 2534 (as added by subsection (a)) shall apply with respect to a contract or subcontract to purchase ball bearings or roller bearings entered into after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date of 1997 Amendment
 

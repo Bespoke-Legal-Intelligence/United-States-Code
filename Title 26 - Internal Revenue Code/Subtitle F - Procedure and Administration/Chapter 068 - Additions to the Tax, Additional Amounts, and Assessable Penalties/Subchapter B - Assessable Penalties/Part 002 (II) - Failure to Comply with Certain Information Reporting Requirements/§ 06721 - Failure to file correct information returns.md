@@ -58,7 +58,7 @@
 
 #### (1) In general
 
-&emsp;If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such taxable year—
+&emsp;If any person meets the gross receipts test of paragraph (2) with respect to any calendaryear, with respect to failures during such taxable year—
 
 &emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting “$100,000” for “$250,000”,
 
@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A person meets the gross receipts test of this paragraph for any calendar year if the average annual gross receipts of such personfor the most recent 3 taxable years ending before such calendar year do not exceed $5,000,000.
+&emsp;&emsp;A person meets the gross receipts test of this paragraph for any calendar year if the average annual gross receipts of such person for the most recent 3 taxable years ending before such calendar year do not exceed $5,000,000.
 
 #### (B) Certain rules made applicable
 

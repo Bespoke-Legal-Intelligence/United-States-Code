@@ -12,7 +12,7 @@
 
 #### (2) Liability in rem
 
-&emsp;Any vessel used to destroy, cause the loss of, or injure any sanctuary resource shall be liable in rem to the United States for response costs and damages resulting from such destruction, loss, or injury. The amount of that liability shall constitute a maritime lien on the vessel and may be recovered in an actionin rem in any district court of the United States that has jurisdiction over the vessel.
+&emsp;Any vessel used to destroy, cause the loss of, or injure any sanctuary resource shall be liable in rem to the United States for response costs and damages resulting from such destruction, loss, or injury. The amount of that liability shall constitute a maritime lien on the vessel and may be recovered in an action in rem in any district court of the United States that has jurisdiction over the vessel.
 
 #### (3) Defenses
 

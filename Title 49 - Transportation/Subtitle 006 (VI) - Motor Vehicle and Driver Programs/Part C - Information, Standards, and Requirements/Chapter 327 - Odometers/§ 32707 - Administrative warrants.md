@@ -8,7 +8,7 @@ Definition.—In this section, “probable cause” means a valid public interes
 
 Warrant Requirement and Issuance.—(1) Except as provided in paragraph (4) of this subsection, an inspection or impoundment under section 32706 of this title may be carried out only after a warrant is obtained.
 
-(2) A judge of a court of the United States or a State court of record or a United States magistrate may issue a warrant for an inspection orimpoundment under section 32706 of this title within the territorial jurisdiction of the court or magistrate. The warrant must be based on an affidavit that—
+(2) A judge of a court of the United States or a State court of record or a United States magistrate may issue a warrant for an inspection or impoundment under section 32706 of this title within the territorial jurisdiction of the court or magistrate. The warrant must be based on an affidavit that—
 
 &emsp;(A) establishes probable cause to issue the warrant; and
 

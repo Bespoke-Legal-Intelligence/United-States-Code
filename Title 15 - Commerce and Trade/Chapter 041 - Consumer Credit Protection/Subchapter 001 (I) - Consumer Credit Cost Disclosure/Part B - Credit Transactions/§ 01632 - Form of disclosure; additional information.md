@@ -6,7 +6,7 @@ Information required by this subchapter shall be disclosed clearly and conspicuo
 
 #### (b) Optional information by creditor or lessor
 
-Any creditor or lessor may supply additional information or explanation with any disclosures required under parts D and E of this subchapter and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
+Any creditor or lessor may supply additional information or explanation with any disclosuresrequired under parts D and E of this subchapter and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
 
 #### (c) Tabular format required for certain disclosures under section 1637(c)
 

@@ -2,7 +2,7 @@
 
 For purposes of this subtitle:
 
-&emsp;(1) The term “multifamily housing” means housing accommodations on the mortgagedproperty that are designed principally for residential use, conform to standards satisfactory to the Secretary, and consist of not less than 5 rental units on 1 site. These units may be detached, semidetached, row house, or multifamily structures.
+&emsp;(1) The term “multifamily housing” means housing accommodations on the mortgaged property that are designed principally for residential use, conform to standards satisfactory to the Secretary, and consist of not less than 5 rental units on 1 site. These units may be detached, semidetached, row house, or multifamily structures.
 
 &emsp;(2) The term “qualified housing finance agency” means any State or local housing finance agency that—
 
@@ -30,7 +30,7 @@ For purposes of this subtitle:
 
 #### References in Text
 
-This subtitle, referred to in text, means subtitle C (§§541–544) of Pub. L. 102–550, title V, Oct. 28, 1992, 106 Stat. 3794, as amended, known as the Multifamily Housing Finance Improvement Act, which enacted this section and section 1715z–22 of this title and provisions set out as a note under section 1701 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1701 of this title and Tables.
+This subtitle, referred to in text, means subtitle C (§§541–544) of Pub. L. 102–550, title V, Oct. 28, 1992, 106Stat. 3794, as amended, known as the Multifamily Housing Finance Improvement Act, which enacted this section and section 1715z–22 of this title and provisions set out as a note under section 1701 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1701 of this title and Tables.
 
 #### Codification
 

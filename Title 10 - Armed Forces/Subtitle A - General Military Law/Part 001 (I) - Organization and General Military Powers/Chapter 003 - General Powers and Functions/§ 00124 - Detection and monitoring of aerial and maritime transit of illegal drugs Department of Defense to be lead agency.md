@@ -60,7 +60,7 @@ Requirements of Detection and Monitoring Systems.—The Secretary of Defense sha
 
 “(b)
 
-Evaluation of Systems.—The Secretary of Defense shall identify and evaluate existing and proposed counter-drug detection and monitoring systems in light of the requirements established under subsection (a). In carrying out such evaluation, the Secretary shall—
+Evaluation of Systems.—The Secretary of Defense shall identify and evaluate existing and proposed counter-drug detection and monitoring systems in lightof the requirements established under subsection (a). In carrying out such evaluation, the Secretary shall—
 
 &emsp;“(1) assess the capabilities, strengths, and weaknesses of counter-drug detection and monitoring systems; and
 

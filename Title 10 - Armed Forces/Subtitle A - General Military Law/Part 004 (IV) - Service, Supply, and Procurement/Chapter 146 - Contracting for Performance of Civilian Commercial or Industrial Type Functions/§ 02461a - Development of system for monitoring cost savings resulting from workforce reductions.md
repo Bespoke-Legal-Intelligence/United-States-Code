@@ -6,11 +6,11 @@ Workforce Review Defined.—In this section, the term “workforce review”, wi
 
 &emsp;(1) should be performed by a workforce composed of Department of Defense civilian employees or by a private sector workforce; or
 
-&emsp;(2) should be reorganized or otherwise reengineered to improve the effeciency<sup>1</sup> or effectiveness of the performance of the function, with a resulting decrease in the number of Department of Defense civilian employees performing the function.
+&emsp;(2) should be reorganized or otherwise reengineered to improve the efficiency or effectiveness of the performance of the function, with a resulting decrease in the number of Department of Defense civilian employees performing the function.
 
 (b)
 
-System for Monitoring Performance.—(1) The Secretary of Defense shall establish a system for monitoring the performance, including the cost of performance, of each function of the Department of Defense that, after the date of the enactment of this section, is the subject of a workforce review.
+System for Monitoring Performance.—(1) The Secretary of Defense shall establish a system for monitoring the performance, including the cost of performance, of each function of the Department of Defense that, after October 30, 2000, is the subject of a workforce review.
 
 (2) The monitoring system shall be designed to compare the following:
 
@@ -26,7 +26,7 @@ Waiver for Certain Workforce Reviews.—Subsection (b) shall not apply to a work
 
 (d)
 
-Annual Report.—Not later than February 1 of each fiscal year, the Secretary of Defense shall submit to Congress a report on the results of the monitoring performed under the system established under subsection (b). For each function subject to monitoring during the previous fiscal year, the report shall indicate the following:
+Annual Report.—Not later than February 1 of each fiscal year, the Secretary of Defenseshall submit to Congress a report on the results of the monitoring performed under the system established under subsection (b). For each function subject to monitoring during the previous fiscal year, the report shall indicate the following:
 
 &emsp;(1) The cost of the workforce review.
 
@@ -38,11 +38,11 @@ Annual Report.—Not later than February 1 of each fiscal year, the Secretary of
 
 Consideration in Preparation of Future-Years Defense Program.—In preparing the future-years defense program under section 221 of this title, the Secretary of Defense shall, for the fiscal years covered by the program, estimate and take into account the costs to be incurred and the savings to be derived from the performance of functions by workforces selected in workforce reviews. The Secretary shall consider the results of the monitoring under this section in making the estimates.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §354(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–73.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title III, §354(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–73; amended Pub. L. 107–107, div. A, title X, §1048(a)(21), (c)(11), Dec. 28, 2001, 115 Stat. 1224, 1226.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of this section, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 106–398, which was approved Oct. 30, 2000.
+2001—Subsec. (a)(2). Pub. L. 107–107, §1048(a)(21), substituted “efficiency” for “effeciency”.
 
-<i><sup>1</sup></i><i> So in original.</i>
+Subsec. (b)(1). Pub. L. 107–107, §1048(c)(11), substituted “October 30, 2000,” for “the date of the enactment of this section,”.
 

@@ -44,7 +44,7 @@ Agency Contributions for Retention in Critical Specialties.—(1) The Secretary 
 
 Section and amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless postponed, see section 663 of Pub. L. 106–65, as amended, set out as a note under section 8440e of Title 5, Government Organization and Employees.
 
-Section Referred to in Other Sections
+#### Section Referred to in Other Sections
 
 This section is referred to in title 5 sections 8432b, 8440e.
 

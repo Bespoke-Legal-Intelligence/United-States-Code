@@ -44,7 +44,7 @@ If the Secretary has reason to believe that a health care entity has failed to r
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchaptersII to IX (§2000a et seq.) of chapter 21 of this title. Title VII of this Act relates to equal employment opportunities, and is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. Title VII of this Act relates to equal employment opportunities, and is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Civil Rights Acts, referred to in subsec. (a)(1), are classified generally to chapter 21 (§1981 et seq.) of this title.
 

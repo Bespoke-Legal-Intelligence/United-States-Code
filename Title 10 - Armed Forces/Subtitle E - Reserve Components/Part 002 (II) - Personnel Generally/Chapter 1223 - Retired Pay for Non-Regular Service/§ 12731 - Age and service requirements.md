@@ -106,7 +106,7 @@ Subsec. (f). Pub. L. 103–337, §636, added subsec. (f) which read as follows: 
 
 &emsp;“(2) he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953, after August 13, 1961, and before May 31, 1963, or after August 4, 1964, and before March 28, 1973.”,
 
-> for “unless he performed active duty after April 5, 1917, and before November 12, 1918, or after September 8, 1940, and before January 1, 1947, or unless he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953”.
+> for “unless he performed active duty after April 5, 1917, and before November 12, 1918, or after September 8,1940, and before January 1, 1947, or unless he performed active duty (other than for training) after June 26, 1950, and before July 28, 1953”.
 
 1980—Subsec. (b). Pub. L. 96–513, §511(47)(A), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 

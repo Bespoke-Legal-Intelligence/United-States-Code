@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (2) Treatment of amount paid on death of insured
 
-&emsp;If any contract which is a life insurance contract under the applicable law does not meet the definition of life insurance contract under subsection (a), the excess of the amount paid by the reason of the death of the insured over the net surrender value of the contract shall be deemed to be paid under a life insurance contract for purposes of section 101 and subtitle B.
+&emsp;If any contract which is a life insurance contract under the applicable law does not meetthe definition of life insurance contract under subsection (a), the excess of the amount paid by the reason of the death of the insured over the net surrender value of the contract shall be deemed to be paid under a life insurance contract for purposes of section 101 and subtitle B.
 
 #### (3) Contract continues to be treated as insurance contract
 
@@ -386,7 +386,7 @@ Subsec. (f)(1)(A). Pub. L. 99–514, §1825(b)(2), substituted “less any exces
 
 Subsec. (f)(7). Pub. L. 99–514, §1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: “In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.”, and par. (7)(B), certain changes treated as exchange, read as follows: “In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract.”
 
-Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year.”
+Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: “the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year.”
 
 #### Effective Date of 1988 Amendment
 
@@ -488,7 +488,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Flexible Premium Contracts Issued During 1984 Which Meet New Requirements
 
-Section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848, provided that: “Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code.”
+Section 221(b)(3) of Pub. L. 98–369, as added by Pub. L. 99–514, title XVIII, §1825(d), Oct. 22, 1986, 100 Stat. 2848,provided that: “Any flexible premium contract issued during 1984 which meets the requirements of section 7702 of the Internal Revenue Code of 1954 \[now 1986\] (as added by this section) shall be treated as meeting the requirements of section 101(f) of such Code.”
 
 #### Section Referred to in Other Sections
 

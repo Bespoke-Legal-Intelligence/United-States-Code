@@ -22,7 +22,7 @@ The Secretary shall publish procedures for the issuance of subpoenas under this 
 
 #### (f) Scope of subpoena
 
-Subpoenas for witnesses to attend court in any judicial district or testify or produce evidence atan administrative hearing in any judicial district in any action or proceeding arising under section 2279e of this title may run to any other judicial district.
+Subpoenas for witnesses to attend court in any judicial district or testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under section 2279e of this title may run to any other judicial district.
 
 (Pub. L. 106–224, title V, §502, June 20, 2000, 114 Stat. 455.)
 

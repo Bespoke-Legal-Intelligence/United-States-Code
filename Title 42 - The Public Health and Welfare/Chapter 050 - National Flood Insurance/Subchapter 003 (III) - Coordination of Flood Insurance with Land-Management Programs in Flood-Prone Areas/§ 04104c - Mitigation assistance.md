@@ -54,7 +54,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (2) Determination of eligible plans
 
-&emsp;The Director may approve only mitigation plans that specify mitigation activities that the Director determines are technically feasible and cost-effective and only such plans that propose activities that are cost-beneficial to the National Flood Mitigation Fund.
+&emsp;The Director may approve only mitigation plans that specify mitigation activities that the Director determines are technically feasible and cost-effective and only such plansthat propose activities that are cost-beneficial to the National Flood Mitigation Fund.
 
 #### (3) Standard for approval
 
@@ -124,7 +124,7 @@ The Director shall conduct oversight of recipients of mitigation assistance unde
 
 #### (2) Failure to provide matching funds
 
-&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount certified under subsection (g) of this section, the Director shall recapture any unexpended amounts of mitigation assistance exceeding 3 times the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
+&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not providedmatching funds in the amount certified under subsection (g) of this section, the Director shall recapture any unexpended amounts of mitigation assistance exceeding 3 times the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
 
 #### (j) Reports
 
@@ -136,7 +136,7 @@ For purposes of this section, the term “community” means—
 
 &emsp;(1) a political subdivision that (A) has zoning and building code jurisdiction over a particular area having special flood hazards, and (B) is participating in the national flood insurance program; or
 
-&emsp;(2) a political subdivision of a State, or other authority, that is designated to develop andadminister a mitigation plan by political subdivisions, all of which meet the requirements of paragraph (1).
+&emsp;(2) a political subdivision of a State, or other authority, that is designated to develop and administer a mitigation plan by political subdivisions, all of which meet the requirements of paragraph (1).
 
 (Pub. L. 90–448, title XIII, §1366, as added Pub. L. 103–325, title V, §553(a), Sept. 23, 1994, 108 Stat. 2270.)
 

@@ -18,7 +18,7 @@ The new section 2679 of title 10 is transferred from section 1220 of title 10.
 
 1994—Subsec. (a). Pub. L. 103–337 substituted “section 5902 of title 38” for “section 3402 of title 38”.
 
-1989—Subsec. (a). Pub. L. 101–189, §1621(a)(9)(A), substituted “the Secretary of Veterans Affairs, the Secretary concerned” for “the Administrator of Veterans’ Affairs, the Secretary”, “recognized by the Secretary of Veterans Affairs” for “recognized by the Administrator”, and “of that Secretary concerned” for “of that Secretary”.
+1989—Subsec. (a). Pub. L. 101–189, §1621(a)(9)(A), substituted “the Secretary of Veterans Affairs, the Secretary concerned” for “the Administrator of Veterans’Affairs, the Secretary”, “recognized by the Secretary of Veterans Affairs” for “recognized by the Administrator”, and “of that Secretary concerned” for “of that Secretary”.
 
 Subsec. (c). Pub. L. 101–189, §1621(a)(9)(B), substituted “the Secretary of Veterans Affairs” for “the Administrator”.
 

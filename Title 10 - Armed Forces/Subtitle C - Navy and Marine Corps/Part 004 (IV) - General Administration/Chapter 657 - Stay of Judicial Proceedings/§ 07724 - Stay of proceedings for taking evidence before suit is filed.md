@@ -8,7 +8,7 @@
 
 &emsp;(3) the taking of depositions or production of evidence pursuant to such dedimus potestatem or direction, or pursuant to any other proceedings for the purpose;
 
-> that the proceedings would tend to endanger the security of the United States or any of its naval or military operations in the war, or would tend to interfere with those operations, then the proceedings may not be started or, if they have been started, they shall, when the certificate is filed, be stayed.
+> that the proceedings would tend to endanger the security of the United States or any of its navalor military operations in the war, or would tend to interfere with those operations, then the proceedings may not be started or, if they have been started, they shall, when the certificate is filed, be stayed.
 
 (b) The time during which a claimant may file suit of the type described in section 7721 of this title is computed by excluding the time during which a stay under this section or any extension of such a stay is in effect.
 

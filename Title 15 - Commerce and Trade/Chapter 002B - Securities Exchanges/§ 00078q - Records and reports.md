@@ -44,7 +44,7 @@
 
 #### (c) Copies of reports filed with other regulatory agencies
 
-(1) Every clearing agency, transfer agent, and municipal securities dealer for which the Commission is not the appropriate regulatory agency shall (A) file with the appropriate regulatory agency for such clearing agency, transfer agent, or municipal securities dealer a copy of any application, notice, proposal, report, or document filed with the Commission by reason of its beinga clearing agency, transfer agent, or municipal securities dealer and (B) file with the Commission a copy of any application, notice, proposal, report, or document filed with such appropriate regulatory agency by reason of its being a clearing agency, transfer agent, or municipal securities dealer. The Municipal Securities Rulemaking Board shall file with each agency enumerated in section 78c(a)(34)(A) of this title copies of every proposed rule change filed with the Commission pursuant to section 78s(b) of this title.
+(1) Every clearing agency, transfer agent, and municipal securities dealer for which the Commission is not the appropriate regulatory agency shall (A) file with the appropriate regulatory agency for such clearing agency, transfer agent, or municipal securities dealer a copy of any application, notice, proposal, report, or document filed with the Commission by reason of its being a clearing agency, transfer agent, or municipal securities dealer and (B) file with the Commission a copy of any application, notice, proposal, report, or document filed with such appropriate regulatory agency by reason of its being a clearing agency, transfer agent, or municipal securities dealer. The Municipal Securities Rulemaking Board shall file with each agency enumerated in section 78c(a)(34)(A) of this title copies of every proposed rule change filed with the Commission pursuant to section 78s(b) of this title.
 
 (2) The appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall file with the Commission notice of the commencement of any proceeding and a copy of any order entered by such appropriate regulatory agency against any clearing agency, transfer agent, municipal securities dealer, or person associated with a transfer agent or municipal securities dealer, and the Commission shall file with such appropriate regulatory agency, if any, notice of the commencement of any proceeding and a copy of any order entered by the Commission against the clearing agency, transfer agent, or municipal securities dealer, or against any person associated with a transfer agent or municipal securities dealer for which the agency is the appropriate regulatory agency.
 
@@ -72,7 +72,7 @@
 
 (C) The Commission, by rule or order, may conditionally or unconditionally exempt any registered broker or dealer, or class of such brokers or dealers, from any provision of this paragraph if the Commission determines that such exemption is consistent with the public interest and the protection of investors.
 
-(2) The Commission, by rule, as it deems necessary or appropriate in the public interest orfor the protection of investors, may prescribe the form and content of financial statements filed pursuant to this chapter and the accounting principles and accounting standards used in their preparation.
+(2) The Commission, by rule, as it deems necessary or appropriate in the public interest or for the protection of investors, may prescribe the form and content of financial statements filed pursuant to this chapter and the accounting principles and accounting standards used in their preparation.
 
 #### (f) Missing, lost, counterfeit, and stolen securities
 
@@ -106,7 +106,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (1) Obligations to obtain, maintain, and report information
 
-&emsp;Every person who is (A) a registered broker or dealer, or (B) a registered municipal securities dealer for which the Commission is the appropriate regulatory agency, shall obtain such information and make and keep such records as the Commission by rule prescribes concerning the registered person's policies, procedures, or systems for monitoring and controlling financial and operational risks toit resulting from the activities of any of its associated persons, other than a natural person. Such records shall describe, in the aggregate, each of the financial and securities activities conducted by, and the customary sources of capital and funding of, those of its associated persons whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person, including its net capital, its liquidity, or its ability to conduct or finance its operations. The Commission, by rule, may require summary reports of such information to be filed with the Commission no more frequently than quarterly.
+&emsp;Every person who is (A) a registered broker or dealer, or (B) a registered municipal securities dealer for which the Commission is the appropriate regulatory agency, shall obtain such information and make and keep such records as the Commission by rule prescribes concerning the registered person's policies, procedures, or systems for monitoring and controlling financial and operational risks to it resulting from the activities of any of its associated persons, other than a natural person. Such records shall describe, in the aggregate, each of the financial and securities activities conducted by, and the customary sources of capital and funding of, those of its associated persons whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person, including its net capital, its liquidity, or its ability to conduct or finance its operations. The Commission, by rule, may require summary reports of such information to be filed with the Commission no more frequently than quarterly.
 
 #### (2) Authority to require additional information
 
@@ -136,7 +136,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (E) Confidentiality of information provided
 
-&emsp;&emsp;No information provided to or obtained by the Commission from any Federal banking agency pursuant to a request by the Commission under subparagraph (C) of this paragraph regarding any associated person whichis subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than a self-regulatory organization), without the prior written approval of the Federal banking agency. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
+&emsp;&emsp;No information provided to or obtained by the Commission from any Federal banking agency pursuant to a request by the Commission under subparagraph (C) of this paragraph regarding any associated person which is subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than a self-regulatory organization), without the prior written approval of the Federal banking agency. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
 
 #### (F) Notice to banking agencies concerning financial and operational condition concerns
 
@@ -162,7 +162,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (5) Authority to limit disclosure of information
 
-&emsp;Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under this subsection, or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a registered broker, dealer, government securities broker, government securities dealer, or municipal securities dealer. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraph (B) or (C) of paragraph (3) of this subsection as confidential information for purposes of section 78x(b)(2) of this title.
+&emsp;Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under this subsection, or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a registered broker, dealer, government securities broker, government securities dealer, or municipal securities dealer. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes withinthe scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraph (B) or (C) of paragraph (3) of this subsection as confidential information for purposes of section 78x(b)(2) of this title.
 
 #### (i) Investment bank holding companies
 
@@ -214,7 +214,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 &emsp;&emsp;&emsp;&emsp;(II) an assessment of the consolidated capital of the supervised investment bank holding company;
 
-&emsp;&emsp;&emsp;&emsp;(III) an independent auditor's report attesting to the supervised investment bank holding company's compliance with its internal risk management and internal control objectives; and
+&emsp;&emsp;&emsp;&emsp;(III) an independent auditor's report attesting to the supervised investmentbank holding company's compliance with its internal risk management and internal control objectives; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) reports concerning the extent to which the company or affiliate has complied with the provisions of this chapter and any regulations prescribed and orders issued under this chapter.
 
@@ -286,7 +286,7 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (j) Authority to limit disclosure of information
 
-Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under subsection (h) or (i) of this section or any information supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a broker or dealer, investment bank holding company, or any affiliate of an investment bank holding company. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraphs (A), (B), and (C) of subsection (i)(5) <sup>4</sup> of this section as confidential information for purposes of section 78x(b)(2) of this title.
+Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any information required to be reported under subsection (h) or (i) of this section or anyinformation supplied to the Commission by any domestic or foreign regulatory agency that relates to the financial or operational condition of any associated person of a broker or dealer, investment bank holding company, or any affiliate of an investment bank holding company. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency or any self-regulatory organization requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. In prescribing regulations to carry out the requirements of this subsection, the Commission shall designate information described in or obtained pursuant to subparagraphs (A), (B), and (C) of subsection (i)(5) <sup>4</sup> of this section as confidential information for purposes of section 78x(b)(2) of this title.
 
 #### (k) Coordination of examining authorities
 
@@ -306,7 +306,7 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 #### (A) In general
 
-&emsp;&emsp;Section 78x of this title shall apply to the sharing of information in accordance with this subsection. The Commission shall takeappropriate action under section 78x(c) of this title to ensure that such information is not inappropriately disclosed.
+&emsp;&emsp;Section 78x of this title shall apply to the sharing of information in accordance with this subsection. The Commission shall take appropriate action under section 78x(c) of this title to ensure that such information is not inappropriately disclosed.
 
 #### (B) Appropriate disclosure not prohibited
 
@@ -320,13 +320,15 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), (i)(3)(A)(ii)(V), and (k)(5), was in the original “this title”, and this chapter, referred to in subsec. (i)(3)(A)(i)(II), was in the original “this Act”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), (i)(3)(A)(ii)(IV), and (k)(5), was in the original “this title”, and this chapter, referred to in subsec. (i)(3)(A)(i)(II), was in the original “this Act”. See References in Text note set out under section 78a of this title.
 
 Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 Section 3401(6) of title 12, referred to in subsec. (h)(4)(A), was redesignated section 3401(7) of title 12 by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
 
 Section 25A of the Federal Reserve Act, referred to in subsec. (i)(1)(A)(iii), is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking.
+
+The Bank Secrecy Act, referred to in subsec. (i)(3)(C)(i)(II), is also the popular name of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, as amended, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
 #### Amendments
 
@@ -342,7 +344,7 @@ Pub. L. 106–554, §1(a)(5) \[title II, §204(1) to (4), (6)\], inserted subsec
 
 1990—Subsec. (h). Pub. L. 101–432 added subsec. (h).
 
-1987—Subsec. (c)(2). Pub. L. 100–181, §321(1), substituted new par. (2) for former par. (2) which read as follows: “The appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall file with the Commission notice of the commencement of any proceeding and a copy of any order entered by such appropriate regulatory agency against such clearing agency, transfer agent, or municipal securities dealer, and the Commission shall file with such appropriate regulatory agency notice of the commencement of any proceeding and a copy of any order entered by the Commission against such clearing agency, transfer agent, or municipal securities dealer.”
+1987—Subsec. (c)(2). Pub. L. 100–181, §321(1), substituted new par. (2) for former par. (2) which read as follows: “The appropriate regulatory agency for a clearing agency, transfer agent, or municipal securitiesdealer for which the Commission is not the appropriate regulatory agency shall file with the Commission notice of the commencement of any proceeding and a copy of any order entered by such appropriate regulatory agency against such clearing agency, transfer agent, or municipal securities dealer, and the Commission shall file with such appropriate regulatory agency notice of the commencement of any proceeding and a copy of any order entered by the Commission against such clearing agency, transfer agent, or municipal securities dealer.”
 
 Subsec. (f)(1)(A). Pub. L. 100–181, §801(b), substituted “securities issued pursuant to chapter 31 of title 31” for “government securities”.
 
@@ -376,7 +378,7 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Section Referred to in Other Sections
 

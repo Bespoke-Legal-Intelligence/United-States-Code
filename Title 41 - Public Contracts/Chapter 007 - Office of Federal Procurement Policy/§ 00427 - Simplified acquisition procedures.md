@@ -6,7 +6,7 @@ In order to promote efficiency and economy in contracting and to avoid unnecessa
 
 &emsp;(1) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
 
-&emsp;(2) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+&emsp;(2) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonablyexpects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
 #### (b) Prohibition on dividing purchases
 

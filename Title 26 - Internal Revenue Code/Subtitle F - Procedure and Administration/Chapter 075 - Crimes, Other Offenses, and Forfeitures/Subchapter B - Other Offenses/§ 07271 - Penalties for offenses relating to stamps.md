@@ -8,13 +8,13 @@ Any person who with respect to any tax payable by stamps—
 
 #### (2) Instruments
 
-&emsp;Makes, signs, issues, or accepts, or causes to be made, signed, issued, or accepted, any instrument, document, or paper of any kind or description whatsoever without the full amount of tax thereon being duly paid; or
+&emsp;Makes, signs, issues, or accepts, or causes to be made, signed, issued, or accepted, any instrument, document, or paper of any kind ordescription whatsoever without the full amount of tax thereon being duly paid; or
 
 #### (3) Disposal and receipt of stamped packages
 
 &emsp;In the case of any container which is stamped, branded, or marked (whether or not under authority of law) in such manner as to show that the provisions of the internal revenue laws with respect to the contents or intended contents thereof have been complied with, and which is empty or contains any contents other than contents therein when the container was lawfully stamped, branded, or marked—
 
-&emsp;&emsp;(A) Transfers or receives (whether by sale, gift, or otherwise) such container knowing itto be empty or to contain such other contents; or
+&emsp;&emsp;(A) Transfers or receives (whether by sale, gift, or otherwise) such container knowing it to be empty or to contain such other contents; or
 
 &emsp;&emsp;(B) Stamps, brands, or marks such container, or otherwise produces such as stamped, branded, or marked container, knowing it to be empty or to contain such other contents;
 

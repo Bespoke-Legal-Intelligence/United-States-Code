@@ -57,7 +57,7 @@ Provisions of section 552(a) of Title 37, Pay and Allowances of the Uniformed Se
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 101, 106, 107, 1151, 4213, 5105, 5310, 5313 of this title; title 10 sections 1431, 1446; title 26 section 6334; title 31 section 3803.
+This chapter is referred to in sections 101, 106, 107, 1151, 4213, 5105, 5310, 5313, 5313B of this title; title 10 sections 1431, 1446; title 26 section 6334; title 31 section 3803.
 
 
 ---

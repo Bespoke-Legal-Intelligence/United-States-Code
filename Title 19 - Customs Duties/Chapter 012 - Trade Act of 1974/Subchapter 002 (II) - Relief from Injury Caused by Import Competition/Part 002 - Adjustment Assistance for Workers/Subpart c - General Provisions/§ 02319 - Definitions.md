@@ -36,7 +36,7 @@ For purposes of this part—
 
 &emsp;(13) The term “week” means a week as defined in the applicable State law.
 
-&emsp;(14) The term “week of unemployment” means a week of total, part-total, or partial unemployment as determined under the applicable State law or Federal unemployment insurance law.
+&emsp;(14) The term “week of unemployment” means a week of total, part-total, or partialunemployment as determined under the applicable State law or Federal unemployment insurance law.
 
 &emsp;(15) The term “benefit period” means, with respect to an individual—
 

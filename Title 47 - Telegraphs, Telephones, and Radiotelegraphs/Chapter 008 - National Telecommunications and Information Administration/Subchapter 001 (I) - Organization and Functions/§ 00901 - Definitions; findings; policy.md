@@ -34,7 +34,7 @@ The Congress finds the following:
 
 The NTIA shall seek to advance the following policies:
 
-&emsp;(1) Promoting the benefits of technological development in the United States for all users of telecommunications and information facilities.
+&emsp;(1) Promoting the benefits of technological development in the United States for all usersof telecommunications and information facilities.
 
 &emsp;(2) Fostering national safety and security, economic prosperity, and the delivery of critical social services through telecommunications.
 

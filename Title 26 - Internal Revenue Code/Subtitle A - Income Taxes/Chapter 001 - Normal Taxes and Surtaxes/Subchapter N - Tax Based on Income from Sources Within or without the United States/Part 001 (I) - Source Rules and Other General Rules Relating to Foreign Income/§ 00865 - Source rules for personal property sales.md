@@ -16,7 +16,7 @@ In the case of income derived from the sale of inventory property—
 
 &emsp;(2) such income shall be sourced under the rules of sections 861(a)(6), 862(a)(6), and 863.
 
-> Notwithstanding the preceding sentence, any income from the sale of any unprocessed timberwhich is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term “unprocessed timber” means any log, cant, or similar form of timber.
+> Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term “unprocessed timber” means any log, cant, or similar form of timber.
 
 #### (c) Exception for depreciable personal property
 
@@ -56,7 +56,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) Depreciable personal property
 
-&emsp;&emsp;The term “depreciable personal property” means any personal property if the adjusted basis of such property includes depreciation adjustments.
+&emsp;&emsp;The term “depreciable personal property” means any personal property if the adjustedbasis of such property includes depreciation adjustments.
 
 #### (B) Depreciation adjustments
 
@@ -308,7 +308,7 @@ Section 1704(f)(4)(B) of Pub. L. 104–188 provided that: “The amendment made 
 
 #### Effective Date of 1993 Amendment
 
-Section 13239(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 927, 954, and 993 of this title\] shallapply to sales, exchanges, or other dispositions after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Section 13239(e) of Pub. L. 103–66 provided that: “The amendments made by this section \[amending this section and sections 927, 954, and 993 of this title\] shall apply to sales, exchanges, or other dispositions after the date of the enactment of this Act \[Aug. 10, 1993\].”
 
 #### Effective Date of 1990 Amendment
 

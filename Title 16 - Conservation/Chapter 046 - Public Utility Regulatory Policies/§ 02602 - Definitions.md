@@ -22,7 +22,7 @@ As used in this Act, except as otherwise specifically provided—
 
 &emsp;(7) The term “Federal agency” means an executive agency (as defined in section 105 of title 5).
 
-&emsp;(8) The term “load management technique” means any technique (other than a time-of-day or seasonal rate) to reduce the maximumkilowatt demand on the electric utility, including ripple or radio control mechanisms, and other types of interruptible electric service, energy storage devices, and load-limiting devices.
+&emsp;(8) The term “load management technique” means any technique (other than a time-of-day or seasonal rate) to reduce the maximum kilowatt demand on the electric utility, including ripple or radio control mechanisms, and other types of interruptible electric service, energy storage devices, and load-limiting devices.
 
 &emsp;(9) The term “nonregulated electric utility” means any electric utility other than a State regulated electric utility.
 
@@ -64,7 +64,7 @@ The Federal Trade Commission Act (15 U.S.C. 14 and following), referred to in pa
 
 The Wilson Tariff Act (15 U.S.C. 8 and 9), referred to in par. (1), is sections 73 to 77 of act Aug. 27, 1894, ch. 349, 28 Stat. 570. Sections 73 to 76 enacted sections 8 to 11 of Title 15, Commerce and Trade. Section 77 of said Act was not classified to the Code. For complete classification of this Act to the Code, see Short Title note under section 8 of Title 15 and Tables.
 
-Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21A), referred to in par. (1), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
+Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21A), referred to in par. (1), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
 #### Codification
 

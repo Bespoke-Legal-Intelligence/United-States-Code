@@ -14,7 +14,7 @@ Every United States shareholder who is required under subsection (b) to include 
 
 #### (d) Effect on capital account of foreign personal holding company
 
-An amount which bears the same ratio to the undistributed foreign personal holding company income of the foreign personal holding company for its taxable year as the portion of such taxable year up to and including the last day on which a United States group existed with respect to the company bears to the entire taxable year, shall, for the purpose of determining the effect of distributions in subsequent taxable years by the corporation, be considered as paid-in surplus or as a contribution to capital, and the accumulated earnings and profits as of the close of the taxable year shall be correspondingly reduced, if such amount or any portionthereof is required to be included as a dividend, directly or indirectly, in the gross income of United States shareholders.
+An amount which bears the same ratio to the undistributed foreign personal holding company income of the foreign personal holding company for its taxable year as the portion of such taxable year up to and including the last day on which a United States group existed with respect to the company bears to the entire taxable year, shall, for the purpose of determining the effect of distributions in subsequent taxable years by the corporation, be considered as paid-in surplus or as a contribution to capital, and the accumulated earnings and profits as of the close of the taxable year shall be correspondingly reduced, if such amount or any portion thereof is required to be included as a dividend, directly or indirectly, in the gross income of United States shareholders.
 
 #### (e) Basis of stock in hands of shareholders
 
@@ -28,7 +28,7 @@ For purposes of this section, stock of a foreign personal holding company owned 
 
 &emsp;(2) a foreign corporation which is not a foreign personal holding company,
 
-> shall be considered as being owned proportionately by its partners, beneficiaries, or shareholders. In any case to which the preceding sentence applies, the Secretary may by regulations provide that rules similar to the rules of section 1298(b)(5) shall apply, and provide for such other adjustments in the application of this subchapter as may be necessary to carry out the purposes of this subsection.
+> shall be considered as being owned proportionately by its partners, beneficiaries, or shareholders. In any case to which the preceding sentence applies, the Secretary may by regulations provide that rules similar to the rules of section 1298(b)(5) shall apply, and provide for such otheradjustments in the application of this subchapter as may be necessary to carry out the purposes of this subsection.
 
 #### (g) Coordination with passive foreign investment company provisions
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 88–272 applicable to distributions made in any taxable ye
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 

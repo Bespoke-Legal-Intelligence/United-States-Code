@@ -96,13 +96,13 @@ Additional Limitations.—(1) A commercial or industrial type function of the De
 
 (g)
 
-Annual Reports.—Not later than February 1 of each fiscal year, the Secretary of Defense shall submit to Congress a written report describing the extent to which commercial and industrial type functions were performed by Department of Defense contractors during the preceding fiscal year. The Secretary shall include in each such report an estimate of the percentage of commercial and industrial type functions of the Department of Defense that will be performed by Department of Defense civilian employees, and the percentage of such functions that will be performed by private contractors, during the fiscal year during which the report is submitted.
+Annual Reports.—Not later than June 30 of each fiscal year, the Secretary of Defense shall submit to Congress a written report describing the extent to which commercial and industrial type functions were performed by Department of Defense contractors during the preceding fiscal year. The Secretary shall include in each such report an estimate of the percentage of commercial and industrial type functions of the Department of Defense that will be performed by Department of Defense civilian employees, and the percentage of such functions that will be performed by private contractors, during the fiscal year during which the report is submitted.
 
 (h)
 
 Inapplicability During War or Emergency.—The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72.)
+(Added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Stat. 851; amended Pub. L. 101–189, div. A, title XI, §1132, Nov. 29, 1989, 103 Stat. 1561; Pub. L. 104–106, div. D, title XLIII, §4321(b)(19), Feb. 10, 1996, 110 Stat. 673; Pub. L. 105–85, div. A, title III, §384, Nov. 18, 1997, 111 Stat. 1711; Pub. L. 105–261, div. A, title III, §342(a)–(c), Oct. 17, 1998, 112 Stat. 1974–1976; Pub. L. 106–65, div. A, title III, §341, Oct. 5, 1999, 113 Stat. 568; Pub. L. 106–398, §1 \[\[div. A\], title III, §§351, 352\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, 1654A–72; Pub. L. 107–107, div. A, title III, §344, Dec. 28, 2001, 115 Stat. 1061.)
 
 #### Historical and Revision Notes
 
@@ -113,6 +113,8 @@ Section is based on Pub. L. 96–342, title V, §502, Sept. 8, 1980, 94 Stat. 10
 The Javits-Wagner-O'Day Act, referred to in subsec. (e), is act June 25, 1938, ch. 697, 52 Stat. 1196, as amended, which is classified to sections 46 to 48c of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 46 of Title 41 and Tables.
 
 #### Amendments
+
+2001—Subsec. (g). Pub. L. 107–107 substituted “June 30” for “February 1”.
 
 2000—Subsec. (b)(1)(D). Pub. L. 106–398, §1 \[\[div. A\], title III, §351(a)\], inserted before period “, and a specific identification of the budgetary line item from which funds will be used to cover the cost of the analysis”.
 
@@ -148,11 +150,33 @@ Subsec. (d). Pub. L. 105–85, §384(c), substituted “20 or fewer” for “45
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title III, §342(d), Oct. 17, 1998, 112 Stat. 1976, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\], but the amendments shall not apply with respect to a conversion of a function of the Department of Defense to performance by a private contractor concerning which the Secretary of Defense provided to Congress, before the date of the enactment of this Act, a notification under paragraph (1) of section 2461(a) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act.”
+Pub. L. 105–261, div. A, title III, §342(d), Oct. 17, 1998, 112 Stat. 1976, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1998\], but the amendments shall not apply with respect to a conversion of a function of the Department of Defenseto performance by a private contractor concerning which the Secretary of Defense provided to Congress, before the date of the enactment of this Act, a notification under paragraph (1) of section 2461(a) of title 10, United States Code, as in effect on the day before the date of the enactment of this Act.”
 
 #### Effective Date of 1996 Amendment
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
+
+#### Pilot Manpower Reporting System in Department of the Army
+
+Pub. L. 107–107, div. A, title III, §345(a)–(c), Dec. 28, 2001, 115 Stat. 1061, 1062, provided that:
+
+“(a)
+
+Annual Reporting Requirement.—Not later than March 1 of each of the fiscal years 2002 through 2004, the Secretary of the Army shall submit to Congress a report describing the use during the previous fiscal year of non-Federal entities to provide services to the Department of the Army.
+
+“(b)
+
+Content of Report.—Using information available from existing data collection and reporting systems available to the Department of the Army and the non-Federal entities referred to in subsection (a), the report shall—
+
+&emsp;“(1) specify the number of work year equivalents performed by individuals employed by non-Federal entities in providing services to the Department;
+
+&emsp;“(2) categorize the information by Federal supply class or service code; and
+
+&emsp;“(3) indicate the appropriation from which the services were funded and the major organizational element of the Department procuring the services.
+
+“(c)
+
+Limitation on Requirement for Non-Federal Entities To Provide Information.—For the purposes of meeting the requirements set forth in subsection (b), the Secretary of the Army may not require the provision of information beyond the information that is currently provided to the Department of the Army by the non-Federal entities referred to in subsection (a), except for the number of work year equivalents associated with Department of the Army contracts, identified by contract number, to the extent this information is available to the contractor from existing data collection systems.”
 
 #### Pilot Program for Commercial Services
 
@@ -210,6 +234,10 @@ Report to Congress.—(1) The Secretary shall submit to Congress a report on the
 
 Price Trend Analysis.—The Secretary of Defense shall apply the procedures developed pursuant to section 803(c) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2081; 10 U.S.C. 2306a note) to collect and analyze information on price trends for all services covered by the pilot program and for the services in such categories of services not covered by the pilot program to which the Secretary considers it appropriate to apply those procedures.”
 
+#### Public Availability of Operating Agreements Between Military Installations and Financial Institutions
+
+Pub. L. 105–261, div. A, title III, §379, Oct. 17, 1998, 112 Stat. 1995, provided that: “With respect to an agreement between the commander of a military installation in the United States (or the designee of such an installation commander) and a financial institution that permits, allows, or otherwise authorizes the provision of financial services by the financial institution on the military installation, nothing in the terms or nature of such an agreement shall be construed to exempt the agreement from the provisions of sections 552 and 552a of title 5, United States Code.”
+
 #### Development of Standard Forms Regarding Performance Work Statement and Request for Proposal for Conversion of Certain Operational Functions of Military Installations
 
 Section 389 of Pub. L. 105–85, as amended by Pub. L. 105–261, div. A, title X, §1069(b)(1), Oct. 17, 1998, 112 Stat. 2136, provided that:
@@ -220,7 +248,7 @@ Standardization of Requirements.—The Secretary of Defense is authorized and en
 
 “(b)
 
-Relationship to OMB Requirements.—A standard performance work statement or a standard request for proposal developed under subsection (a) must fulfill the basic requirements of the performance work statement or request for proposal otherwise required under the procedures and requirements of Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) in effect at the time the standard form will be used.
+Relationship to OMB Requirements.—A standard performance work statement or a standard requestfor proposal developed under subsection (a) must fulfill the basic requirements of the performance work statement or request for proposal otherwise required under the procedures and requirements of Office of Management and Budget Circular A–76 (or any successor administrative regulation or policy) in effect at the time the standard form will be used.
 
 “(c)
 

@@ -40,7 +40,7 @@ July 9, 1952, ch. 608, §233(b), 66 Stat. 489.
 
 In subsection (a), the words “after January 1, 1953” are substituted for the word “hereafter”, to reflect the effective date of the source statute. The words “without the consent of the persons concerned” are substituted for the word “involuntarily”.
 
-The words “under the jurisdiction of that Secretary” are inserted for clarity. The last sentence of the revised subsection is substituted for 50:961(b)(1) (proviso). Thewords “and the members thereof” and “and required to perform” are omitted as surplusage.
+The words “under the jurisdiction of that Secretary” are inserted for clarity. The last sentence of the revised subsection is substituted for 50:961(b)(1) (proviso). The words “and the members thereof” and “and required to perform” are omitted as surplusage.
 
 In subsection (b), the words “to achieve” are substituted for the words “in the interest of”. The words “without their consent” are substituted for the word “involuntarily”. The words “who are being considered for” are inserted for clarity. The words “prescribe such policies and procedures” are substituted for the words “promulgate such policies and establish such procedures”. The words “as he considers necessary” are substituted for the words “as may be required in his opinion”. The words “this subsection” are substituted for the words “our intent here declared”. The words “at least once a year” are substituted for the words “from time to time, and at least annually”. The words “Senate and the House of Representatives” are substituted for the word “Congress”. 50:961(b)(2) (1st 18 words) is omitted as surplusage. The words “with the objective” and “found to be” are omitted as surplusage.
 
@@ -111,6 +111,32 @@ Sec. 6. This order is intended to improve the internal management of the executi
 Sec. 7. This order is effective immediately, and shall be transmitted to the Congress and published in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13223. Ordering the Ready Reserve of the Armed Forces To Active Duty and Delegating Certain Authorities to the Secretary of Defense and the Secretary of Transportation
+
+Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended by Ex. Ord. No. 13253, Jan. 16, 2002, 67 F.R. 2791, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) and section 301 of title 3, United States Code, and in furtherance of the proclamation of September 14, 2001, Declaration of National Emergency by Reason of Certain Terrorist Attacks \[Proc. No. 7463, 50 U.S.C. 1621 note\], which declared a national emergency by reason of the terrorist attacks on the World Trade Center, New York, New York, and the Pentagon, and the continuing and immediate threat of further attacks on the United States, I hereby order as follows:
+
+Section 1. To provide additional authority to the Department of Defense and the Department of Transportation to respond to the continuing and immediate threat of further attacks on the United States, the authority under title 10, United States Code, to order any unit, and any member of the Ready Reserve not assigned to a unit organized to serve as a unit, in the Ready Reserve to active duty for not more than 24 consecutive months, is invoked and made available, according to its terms, to the Secretary concerned, subject in the case of the Secretaries of the Army, Navy, and Air Force, to the direction of the Secretary of Defense. The term “Secretary concerned” is defined in section 101(a)(9) of title 10, United States Code, to mean the Secretary of the Army with respect to the Army; the Secretary of the Navy with respect to the Navy, the Marine Corps, and the Coast Guard when it is operating as a service in the Navy; the Secretary of the Air Force with respect to the Air Force; and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
+
+Sec. 2. To allow for the orderly administration of personnel within the armed forces, the following authorities vested in the President are hereby invoked to the full extent provided by the terms thereof: section 527 of title 10, United States Code, to suspend the operation of sections 523, 525, and 526 of that title, regarding officer and warrant officer strength and distribution; and sections 123, 123a, and 12006 of title 10, United States Code, to suspend certain laws relating to promotion, involuntary retirement, and separation of commissioned officers; end strength limitations; and Reserve component officer strength limitations.
+
+Sec. 3. To allow for the orderly administration of personnel within the armed forces, the authorities vested in the President by sections 331, 359, and 367 of title 14, United States Code, relating to the authority to order to active duty certain officers and enlisted members of the Coast Guard and to detain enlisted members, are invoked to the full extent provided by the terms thereof.
+
+Sec. 4. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by sections 123, 123a, 527, and 12006 of title 10, United States Code, as invoked by sections 2 and 3 of this order.
+
+Sec. 5. The Secretary of Transportation is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in sections 331, 359, and 367 of title 14, United States Code, when the Coast Guard is not serving as part of the Navy, as invoked by section 2 of this order, to recall any regular officer or enlisted member on the retired list to active duty and to detain any enlisted member beyond the term of his or her enlistment. The Secretary of Transportation is further designated and empowered, without the approval, ratification or any other action by the President, to exercise the authority vested in the President by sections 123 and 123a of title 10, United States Code, and sections 149 (detail members to assist foreign governments), 275(a) (suspension of provisions on selection, promotion, or involuntary separation of officers), and 722 (administration of reserve forces) of title 14, United States Code, as invoked by section 2 of Executive Order 13223.
+
+Sec. 6. The authority delegated by this order to the Secretary of Defense and the Secretary of Transportation may be redelegated and further subdelegated to civilian subordinates who are appointed to their offices by the President, by and with the advice and consent of the Senate.
+
+Sec. 7. Based upon my determination under 10 U.S.C. 2201(c) that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces on active duty for the Department of Defense beyond the number for which funds are provided in the appropriation Act for the Department of Defense, which, by virtue of 14 U.S.C. 652, applies to the Department of Transportation with respect to the Coast Guard, the Secretary of Defense and the Secretary of Transportation may provide for the cost of such additional members under their respective jurisdictions as an excepted expense under section 11(a) of title 41, United States Code.
+
+Sec. 8. This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+
+Sec. 9. This order is effective immediately and shall be promptly transmitted to the Congress and published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

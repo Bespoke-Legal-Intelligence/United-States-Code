@@ -12,7 +12,7 @@
 
 (c) In furnishing respite care services, the Secretary may enter into contract arrangements.
 
-(Added Pub. L. 99–576, title II, §201(a)(1), Oct. 28, 1986, 100 Stat. 3254, §620B; amended Pub. L.101–237, title II, §201(a), Dec. 18, 1989, 103 Stat. 2066; renumbered §1720B and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §502, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 106–117, title I, §101(e), Nov. 30, 1999, 113 Stat. 1549.)
+(Added Pub. L. 99–576, title II, §201(a)(1), Oct. 28, 1986, 100 Stat. 3254, §620B; amended Pub. L. 101–237, title II, §201(a), Dec. 18, 1989, 103 Stat. 2066; renumbered §1720B and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §502, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 106–117, title I, §101(e), Nov. 30, 1999, 113 Stat. 1549.)
 
 #### Amendments
 

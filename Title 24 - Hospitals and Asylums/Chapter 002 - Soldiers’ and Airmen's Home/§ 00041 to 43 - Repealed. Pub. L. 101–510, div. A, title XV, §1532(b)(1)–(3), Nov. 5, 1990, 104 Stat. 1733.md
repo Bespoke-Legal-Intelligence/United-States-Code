@@ -8,7 +8,7 @@ Section 43, R.S. §4816; Mar. 3, 1883, ch. 130, §7, 22 Stat. 565; June 6, 1972,
 
 #### Effective Date of Repeal
 
-Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, set out as an Effective Date note under section 401 of this title.
+Repeal effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as an Effective Date note under section 401 of this title.
 
 #### Authority for Exemption of Certain Physicians at Soldiers’ and Airmen's Home From Reductions in Retired Pay
 

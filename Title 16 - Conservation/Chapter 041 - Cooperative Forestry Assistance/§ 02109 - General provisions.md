@@ -8,7 +8,7 @@ In implementing this chapter, the Secretary shall, to the maximum extent practic
 
 &emsp;(2) encourage cooperation and coordination between State foresters or equivalent State officials and other State agencies that manage renewable natural resources;
 
-&emsp;(3) use and encourage cooperators under this chapter to use, private agencies, consultants,organizations, firms, and individuals to furnish necessary materials and services; and
+&emsp;(3) use and encourage cooperators under this chapter to use, private agencies, consultants, organizations, firms, and individuals to furnish necessary materials and services; and
 
 &emsp;(4) promote effectiveness and economy by coordinating the direct actions and assistance authorized under this chapter with related programs the Secretary administers, and with cooperative programs of other agencies.
 

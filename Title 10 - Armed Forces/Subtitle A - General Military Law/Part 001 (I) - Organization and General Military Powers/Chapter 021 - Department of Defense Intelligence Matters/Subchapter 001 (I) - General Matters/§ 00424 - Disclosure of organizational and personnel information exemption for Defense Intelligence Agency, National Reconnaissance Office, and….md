@@ -26,7 +26,7 @@ Provision of Information to Congress.—Subsection (a) does not apply with respe
 
 #### Prior Provisions
 
-A prior section 424, added Pub. L. 100–178, title VI, §603(a), Dec. 2, 1987, 101 Stat. 1016, §1607; renumbered §424 and amended Pub. L. 100–453, title VII, §703(a), Sept. 29, 1988, 102 Stat. 1912, related to disclosure of organizational and personnel information with respect to the Defense Intelligence Agency prior to repeal by Pub. L. 104–201, div. A, title XI, §§1112(d), 1124, Sept. 23, 1996, 110 Stat. 2683, 2688, effective Oct. 1, 1996.
+A prior section 424, added Pub. L. 100–178, title VI, §603(a), Dec. 2, 1987, 101 Stat. 1016, §1607; renumbered §424 and amended Pub. L. 100–453, title VII, §703(a),Sept. 29, 1988, 102 Stat. 1912, related to disclosure of organizational and personnel information with respect to the Defense Intelligence Agency prior to repeal by Pub. L. 104–201, div. A, title XI, §§1112(d), 1124, Sept. 23, 1996, 110 Stat. 2683, 2688, effective Oct. 1, 1996.
 
 #### Effective Date
 

@@ -8,6 +8,10 @@ The Secretary of the Interior shall prepare, maintain, and present annually to t
 
 Section is comprised of first sentence of first par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Second sentence of the first par. repealed section 832h(c) of this title; second par. of such section 2(a) is classified to section 835k of this title; subsecs. (b) and\(c) of section 2 are classified to sections 835<i>l</i> and 835m of this title, respectively.
 
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of provisions of this section requiring annual presentation to Congress of a consolidated financial statement, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 11th item on page 86 of House Document No. 103–7.
+
 #### Transfer of Functions
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.

@@ -32,6 +32,7 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 | [6039E.](%C2%A7%2006039E%20-%20Information%20concerning%20resident%20status.md) | Information concerning resident status. |
 | [6039F.](%C2%A7%2006039F%20-%20Notice%20of%20large%20gifts%20received%20from%20foreign%20persons.md) | Notice of large gifts received from foreign persons. |
 | [6039G.](%C2%A7%2006039G%20-%20Information%20on%20individuals%20losing%20United%20States%20citizenship.md) | Information on individuals losing United States citizenship. |
+| [6039H.](%C2%A7%2006039H%20-%20Information%20with%20respect%20to%20Alaska%20Native%20Settlement%20Trusts%20and%20sponsoring%20Native%20Corporations.md) | Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations. |
 | [6040\.](%C2%A7%2006040%20-%20Cross%20references.md) | Cross references. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,6 +42,8 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 Pub. L. 96–603, §1(e)(1), Dec. 28, 1980, 94 Stat. 3505, which directed that item 6034 be amended by substituting “4947(a)(2)” for “4947(a)”, could not be executed because item 6034 does not contain “4947(a)”.
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title VI, §671(c)(2), June 7, 2001, 115 Stat. 147, added item 6039H.
 
 <b>1997</b>—Pub. L. 105–34, title XI, §1142(e)(5), title XVI, §1602(h)(2), Aug. 5, 1997, 111 Stat. 983, 1096, inserted “reporting” after “Information” and “and partnerships” after “corporations” in item 6038, struck out item 6039F “Information on individuals losing United States citizenship”, and added item 6039G.
 
@@ -105,4 +108,5 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 - [&sect; 06039E - Information concerning resident status](%C2%A7%2006039E%20-%20Information%20concerning%20resident%20status.md)
 - [&sect; 06039F - Notice of large gifts received from foreign persons](%C2%A7%2006039F%20-%20Notice%20of%20large%20gifts%20received%20from%20foreign%20persons.md)
 - [&sect; 06039G - Information on individuals losing United States citizenship](%C2%A7%2006039G%20-%20Information%20on%20individuals%20losing%20United%20States%20citizenship.md)
+- [&sect; 06039H - Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations](%C2%A7%2006039H%20-%20Information%20with%20respect%20to%20Alaska%20Native%20Settlement%20Trusts%20and%20sponsoring%20Native%20Corporations.md)
 - [&sect; 06040 - Cross references](%C2%A7%2006040%20-%20Cross%20references.md)

@@ -38,7 +38,7 @@ Full Time Support Program.—The Chief of Air Force Reserve manages, with respec
 
 (f)
 
-Annual Report.—(1) The Chief of Air Force Reserve shall submit to the Secretary of Defense, through the Secretary of the Air Force, an annual report on the state of the Air Force Reserve and the ability of the Air Force Reserveto meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Air Force and may be submitted in classified and unclassified versions.
+Annual Report.—(1) The Chief of Air Force Reserve shall submit to the Secretary of Defense, through the Secretary of the Air Force, an annual report on the state of the Air Force Reserve and the ability of the Air Force Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Air Force and may be submitted in classified and unclassified versions.
 
 (2) The Secretary of Defense shall transmit the annual report of the Chief of Air Force Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.
 

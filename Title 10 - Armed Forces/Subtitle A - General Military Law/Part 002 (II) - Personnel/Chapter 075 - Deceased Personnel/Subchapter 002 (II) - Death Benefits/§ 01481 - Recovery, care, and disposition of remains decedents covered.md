@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) performing authorized travel directly to or from active duty or inactive-duty training;
 
-&emsp;&emsp;(D) remaining overnight immediately before the commencement of inactive-duty training, or remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training, if the site is outside reasonable commuting distance from the member's residence;
+&emsp;&emsp;(D) remaining overnight immediately before the commencement of inactive-duty training, or remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training;
 
 &emsp;&emsp;(E) hospitalized or undergoing treatment for an injury, illness, or disease incurred or aggravated while on active duty or performing inactive-duty training; or
 
@@ -40,13 +40,13 @@
 
 &emsp;(8) Any military prisoner who dies while in his custody.
 
-&emsp;(9) To the extent authorized under section 1482(g) of this title, any retired member of an armed force who dies while outside the United States or any individual who dies outside the United States while a dependent of such a member.
+&emsp;(9) To the extent authorized under section 1482(f) of this title, any retired member of an armed force who dies while outside the United States or any individual who dies outside the United States while a dependent of such a member.
 
 (b) This section applies to each person covered by subsection (a)(1)–(7) even though he may have been temporarily absent from active duty, with or without leave, at the time of his death, unless he had been dropped from the rolls of his organization before his death.
 
 (c) In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, §301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, §604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, §652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, §702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, §645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, §578(i)(5), Oct. 5, 1999, 113 Stat. 630; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, §301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, §604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, §652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, §702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, §645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, §578(i)(5), Oct. 5, 1999, 113 Stat. 630; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title V, §513(c), title VI, §638(b)(2), Dec. 28, 2001, 115 Stat. 1093, 1147.)
 
 Historical and Revision Notes
 
@@ -76,6 +76,10 @@ In subsection (b), the words “This section applies to each person \* \* \* e
 
 #### Amendments
 
+2001—Subsec. (a)(2)(D). Pub. L. 107–107, §513(c), struck out “, if the site is outside reasonable commuting distance from the member's residence” before semicolon at end.
+
+Subsec. (a)(9). Pub. L. 107–107, §638(b)(2), substituted “section 1482(f)” for “section 1482(g)”.
+
 2000—Subsec. (a)(1). Pub. L. 106–398 amended directory language of Pub. L. 105–261, §645(b). See 1998 Amendment note below.
 
 1999—Subsec. (a)(2)(F). Pub. L. 106–65 added subpar. (F).
@@ -96,7 +100,7 @@ Subsec. (c). Pub. L. 103–337, §652(a)(1)(B), added subsec. (c).
 
 “(2) any Reserve of an armed force under his jurisdiction who dies while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;
 
-“(3) any member of the Army National Guard or Air National Guard who dies while entitled to pay from the United States and while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;”.
+“(3) any member of the Army National Guard or Air National Guard who dies while entitled to pay from theUnited States and while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;”.
 
 1964—Subsec. (a)(4). Pub. L. 88–647 substituted “, or applicant for membership in, a reserve officers’ training corps” for “the Army Reserve Officers’ Training Corps, Naval Reserve Officers’ Training Corps, or Air Force Reserve Officers’ Training Corps”.
 

@@ -140,7 +140,7 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;An organization is described in this subparagraph if it—
 
-&emsp;&emsp;&emsp;(i) is organized under, and governed by, State laws which are specifically and exclusively applicable to not-for-profit health insurance or health service type organizations, and
+&emsp;&emsp;&emsp;(i) is organized under, and governed by, State laws which are specifically and exclusively applicable to not-for-profithealth insurance or health service type organizations, and
 
 &emsp;&emsp;&emsp;(ii) is not a Blue Cross or Blue Shield organization or health maintenance organization.
 
@@ -184,7 +184,7 @@ In general.—In the case of any existing Blue Cross or Blue Shield organization
 
 &emsp;&emsp;“(i) no adjustment shall be made under section 481 (or any other provision) of such Code on account of a change in its method of accounting for its 1st taxable year beginning after December 31, 1986, and
 
-&emsp;&emsp;“(ii) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day ofsuch taxable year shall be treated as equal to its fair market value as of such day.
+&emsp;&emsp;“(ii) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of such taxable year shall be treated as equal to its fair market value as of such day.
 
 &emsp;“(B)
 
@@ -240,7 +240,7 @@ Reserve Weakening After June 8, 1997.—Any reserve weakening after June 8, 1997
 
 “(d)
 
-Regulations.—The Secretary of the Treasury or his delegate may prescribe rules for providing proper adjustments for organizations described in subsection (b) with respect to short taxable years which begin during 1998 by reason of section 843 of the Internal Revenue Code of 1986.”
+Regulations.—The Secretary of the Treasury or his delegate may prescribe rules for providing proper adjustments for organizations described in subsection\(b) with respect to short taxable years which begin during 1998 by reason of section 843 of the Internal Revenue Code of 1986.”
 
 #### Rules Providing Adjustments for Certain Taxpayers Affected by Section 1012 of Pub. L. 99–514
 

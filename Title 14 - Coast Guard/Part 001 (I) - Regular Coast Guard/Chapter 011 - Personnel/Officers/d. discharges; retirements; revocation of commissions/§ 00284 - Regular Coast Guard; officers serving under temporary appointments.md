@@ -1,6 +1,6 @@
 ### §284. Regular Coast Guard; officers serving under temporary appointments
 
-(a) Each officer of the Regular Coast Guard appointed under section 214 of this title who is serving in the grade of lieutenant (junior grade) or lieutenant and who has failed of selection for promotion to the grade of lieutenant or lieutenant commander, respectively, for the second time shall:
+(a) Each officer of the Regular Coast Guard appointed under section 214 of this title who isserving in the grade of lieutenant (junior grade) or lieutenant and who has failed of selection for promotion to the grade of lieutenant or lieutenant commander, respectively, for the second time shall:
 
 &emsp;(1) be honorably discharged on June 30 of the promotion year in which his second failure of selection occurs; or
 
@@ -18,7 +18,7 @@
 
 #### Retired Pay on or Prior to September 24, 1963
 
-Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retiredpay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
+Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 211 of this title.
 
 #### Effectiveness of Election, Change, or Revocation of Election of Annuity
 

@@ -14,21 +14,27 @@
 
 &emsp;(1) All judge advocates, including reserve judge advocates when not in a duty status.
 
-&emsp;(2) All civilian attorneys serving as legal assistance officers.
+&emsp;(2) All civilian attorneys serving as legal assistance attorneys.
 
 &emsp;(3) All adjutants, assistant adjutants, and personnel adjutants, including reserve members when not in a duty status.
 
 &emsp;(4) All other members of the armed forces, including reserve members when not in a duty status, who are designated by regulations of the armed forces or by statute to have those powers.
 
+&emsp;(5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations of the Secretary concerned or by statute to have those powers for exercise outside the United States.
+
 (c) No fee may be paid to or received by any person for the performance of a notarial act authorized in this section.
 
 (d) The signature of any such person acting as notary, together with the title of that person's offices, is prima facie evidence that the signature is genuine, that the person holds the designated title, and that the person is authorized to perform a notarial act.
 
-(Added Pub. L. 101–510, div. A, title V, §551(a)(1), Nov. 5, 1990, 104 Stat. 1566; amended Pub. L. 104–201, div. A, title V, §573, Sept. 23, 1996, 110 Stat. 2534.)
+(Added Pub. L. 101–510, div. A, title V, §551(a)(1), Nov. 5, 1990, 104 Stat. 1566; amended Pub. L. 104–201, div. A, title V, §573, Sept. 23, 1996, 110 Stat. 2534; Pub. L. 107–107, div. A, title XI, §1103, Dec. 28, 2001, 115 Stat. 1236.)
 
 #### Amendments
 
-1996—Subsec. (b)(1). Pub. L. 104–201, §573(1), substituted “, including reserve judge advocates when notin a duty status” for “on active duty or performing inactive-duty training”.
+2001—Subsec. (b)(2). Pub. L. 107–107, §1103(a), substituted “legal assistance attorneys” for “legal assistance officers”.
+
+Subsec. (b)(5). Pub. L. 107–107, §1103(b), added par. (5).
+
+1996—Subsec. (b)(1). Pub. L. 104–201, §573(1), substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
 
 Subsec. (b)(3). Pub. L. 104–201, §573(2), substituted “adjutants, including reserve members when not in a duty status” for “adjutants on active duty or performing inactive-duty training”.
 

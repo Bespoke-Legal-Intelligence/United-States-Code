@@ -166,7 +166,7 @@ Before the expiration of two years following May 9, 1956, and each year thereaft
 
 #### (e) Termination of activities or ownership or control of nonbank subsidiaries constituting serious risk
 
-(1) Notwithstanding any other provision of this chapter, the Board may, whenever it has reasonable cause to believe that the continuation by a bank holding company of any activity or of ownership or control of any of itsnonbank subsidiaries, other than a nonbank subsidiary of a bank, constitutes a serious risk to the financial safety, soundness, or stability of a bank holding company subsidiary bank and is inconsistent with sound banking principles or with the purposes of this chapter or with the Financial Institutions Supervisory Act of 1966, at the election of the bank holding company—
+(1) Notwithstanding any other provision of this chapter, the Board may, whenever it has reasonable cause to believe that the continuation by a bank holding company of any activity or of ownership or control of any of its nonbank subsidiaries, other than a nonbank subsidiary of a bank, constitutes a serious risk to the financial safety, soundness, or stability of a bank holding company subsidiary bank and is inconsistent with sound banking principles or with the purposes of this chapter or with the Financial Institutions Supervisory Act of 1966, at the election of the bank holding company—
 
 &emsp;(A) order the bank holding company or any such nonbank subsidiaries, after due notice and opportunity for hearing, and after considering the views of the bank's primary supervisor, which shall be the Comptroller of the Currency in the case of a national bank or the Federal Deposit Insurance Corporation and the appropriate State supervisory authority in the case of an insured nonmember bank, to terminate such activities or to terminate (within one hundred and twenty days or such longer period as the Board may direct in unusual circumstances) its ownership or control of any such subsidiary either by sale or by distribution of the shares of the subsidiary to the shareholders of the bank holding company; or
 
@@ -174,7 +174,7 @@ Before the expiration of two years following May 9, 1956, and each year thereaft
 
 > The distribution referred to in subparagraph (A) shall be pro rata with respect to all of the shareholders of the distributing bank holding company, and the holding company shall not make any charge to its shareholders arising out of such a distribution.
 
-(2) The Board may in its discretion apply to the United States district court within the jurisdiction of which the principal office of the holding company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith, but except as provided in section 1848 of this title, no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
+(2) The Board may in its discretion apply to the United States district court within the jurisdiction of which the principal office of the holding company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith, but except as provided in section 1848 of this title, no court shall have jurisdiction to affect by injunction or otherwise the issuance orenforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
 #### (f) Powers of Board respecting applications, examinations, or other proceedings
 
@@ -192,7 +192,7 @@ In the course of or in connection with an application, examination, investigatio
 
 &emsp;&emsp;&emsp;(ii) an affiliate of the depository institution that is an insurance company or a broker or dealer registered under the Securities Exchange Act of 1934, an investment company registered under the Investment Company Act of 1940, or an investment adviser registered by or on behalf of either the Securities and Exchange Commission or any State; and
 
-&emsp;&emsp;(B) the State insurance authority for the insurance company or the Securities and Exchange Commission for the registeredbroker, dealer, investment adviser (solely with respect to investment advisory activities or activities incidental thereto), or investment company, as the case may be, determines in writing sent to the holding company and the Board that the holding company shall not provide such funds or assets because such action would have a material <sup>1</sup> adverse effect on the financial condition of the insurance company or the broker, dealer, investment company, or investment adviser, as the case may be.
+&emsp;&emsp;(B) the State insurance authority for the insurance company or the Securities and Exchange Commission for the registered broker, dealer, investment adviser (solely with respect to investment advisory activities or activities incidental thereto), or investment company, as the case may be, determines in writing sent to the holding company and the Board that the holding company shall not provide such funds or assets because such action would have a material <sup>1</sup> adverse effect on the financial condition of the insurance company or the broker, dealer, investment company, or investment adviser, as the case may be.
 
 #### (2) Notice to State insurance authority or SEC required
 
@@ -204,7 +204,7 @@ In the course of or in connection with an application, examination, investigatio
 
 #### (4) Conditions before divestiture
 
-&emsp;During the period beginning on the date an order to divest is issued by the Board under paragraph (3) to a bank holding company and ending on the date the divestiture is completed, the Board may impose any conditions or restrictions on the holding company's ownership or operation of the depository institution, including restricting or prohibiting transactions between the depository institution and any affiliate of the institution, as are appropriate under the circumstances.
+&emsp;During the period beginning on the date an order to divest is issued by the Board under paragraph (3) to a bank holding company and ending on the date the divestiture is completed, the Board may impose any conditionsor restrictions on the holding company's ownership or operation of the depository institution, including restricting or prohibiting transactions between the depository institution and any affiliate of the institution, as are appropriate under the circumstances.
 
 #### (5) Rule of construction
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

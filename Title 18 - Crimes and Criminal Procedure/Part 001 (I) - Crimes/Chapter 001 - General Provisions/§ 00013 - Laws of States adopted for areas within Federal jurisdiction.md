@@ -2,7 +2,7 @@
 
 (a) Whoever within or upon any of the places now existing or hereafter reserved or acquired as provided in section 7 of this title, or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district is guilty of any act or omission which, although not made punishable by any enactment of Congress, would be punishable if committed or omitted within the jurisdiction of the State, Territory, Possession, or District in which such place is situated, by the laws thereof in force at the time of such act or omission, shall be guilty of a like offense and subject to a like punishment.
 
-(b)(1) Subject to paragraph (2) and for purposes of subsection (a) of this section, that which may or shall be imposed through judicial or administrative action under the law of a State, territory, possession, or district, for a conviction for operating a motor vehicle under the influence of a drug or alcohol, shall be considered to be a punishment provided by that law. Any limitation on the right or privilege to operate a motor vehicle imposed under this subsection shall apply only to the special maritime and territorial jurisdiction of the United States.
+(b)(1) Subject to paragraph (2) and for purposes of subsection (a) of this section, that which may or shall be imposed through judicial or administrative action under the law of a State, territory, possession, or district, for a conviction for operating a motor vehicle under the influence of a drug or alcohol, shall be considered to be a punishment provided by that law. Any limitation on the right or privilege to operate a motorvehicle imposed under this subsection shall apply only to the special maritime and territorial jurisdiction of the United States.
 
 (2)(A) In addition to any term of imprisonment provided for operating a motor vehicle under the influence of a drug or alcohol imposed under the law of a State, territory, possession, or district, the punishment for such an offense under this section shall include an additional term of imprisonment of not more than 1 year, or if serious bodily injury of a minor is caused, not more than 5 years, or if death of a minor is caused, not more than 10 years, and an additional fine under this title, or both, if—
 
@@ -18,7 +18,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §468 (Mar. 4, 1909, ch. 321, §289, 35 Stat. 1145; June 15, 1933, ch. 85, 48 Stat.152; June 20, 1935, ch. 284, 49 Stat. 394; June 6, 1940, ch. 241, 54 Stat. 234).
+Based on title 18, U.S.C., 1940 ed., §468 (Mar. 4, 1909, ch. 321, §289, 35 Stat. 1145; June 15, 1933, ch. 85, 48 Stat. 152; June 20, 1935, ch. 284, 49 Stat. 394; June 6, 1940, ch. 241, 54 Stat. 234).
 
 Act March 4, 1909, §289 used the words “now in force” when referring to the laws of any State, organized Territory or district, to be considered in force.
 

@@ -94,7 +94,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effect on Certain Orders
 
-Pub. L. 106–181, title II, §209(c), Apr. 5, 2000, 114 Stat. 95, provided that: “All orders issued by the Secretary \[of Transportation\] after September 30, 1999, and before the date of the enactment of this Act \[Apr. 5, 2000\] establishing, modifying, or revoking essential air service levels shall be null and void beginning on the 90th day following such date of enactment. During the 90-day period, the Secretary shall reconsider such orders and shall issue new orders consistent with the amendments made by this section \[amending this section and section 41742 of this title\].”
+Pub. L. 106–181, title II, §209(c), Apr. 5, 2000, 114 Stat. 95, provided that: “All orders issued by the Secretary \[of Transportation\] after September 30, 1999, and before the date of the enactment of this Act \[Apr. 5, 2000\] establishing, modifying, or revoking essential air service levels shall be null and void beginning on the 90th day following such date of enactment. During the 90-day period, the Secretary shall reconsider such orders and shall issue new orders consistent with the amendmentsmade by this section \[amending this section and section 41742 of this title\].”
 
 #### Section Referred to in Other Sections
 

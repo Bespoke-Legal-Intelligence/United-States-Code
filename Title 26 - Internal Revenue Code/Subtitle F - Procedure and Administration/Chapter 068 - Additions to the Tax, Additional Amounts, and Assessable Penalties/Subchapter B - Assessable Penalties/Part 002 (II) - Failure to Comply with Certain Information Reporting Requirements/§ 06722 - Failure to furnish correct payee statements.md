@@ -18,7 +18,7 @@ If 1 or more failures to which subsection (a) applies are due to intentional dis
 
 &emsp;(1) the penalty imposed under subsection (a) shall be $100, or, if greater—
 
-&emsp;&emsp;(A) in the case of a payee statement other than a statement required under section 6045(b), 6041A(e) (in respect of a return required under section 6041A(b)), 6050H(d), 6050J(e), 6050K(b), or 6050L(c), 10 percent ofthe aggregate amount of the items required to be reported correctly, or
+&emsp;&emsp;(A) in the case of a payee statement other than a statement required under section 6045(b), 6041A(e) (in respect of a return required under section 6041A(b)), 6050H(d), 6050J(e), 6050K(b), or 6050L(c), 10 percent of the aggregate amount of the items required to be reported correctly, or
 
 &emsp;&emsp;(B) in the case of a payee statement required under section 6045(b), 6050K(b), or 6050L(c), 5 percent of the aggregate amount of the items required to be reported correctly, and
 

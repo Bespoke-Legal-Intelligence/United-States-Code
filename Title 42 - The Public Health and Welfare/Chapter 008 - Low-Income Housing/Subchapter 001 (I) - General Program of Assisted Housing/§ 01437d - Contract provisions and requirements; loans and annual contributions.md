@@ -70,7 +70,7 @@ Every contract for contributions with respect to a low-income housing project sh
 
 Every contract for contributions (including contracts which amend or supersede contracts previously made) may provide that—
 
-&emsp;(1) upon the occurrence of a substantial default in respect to the covenants or conditions to which the public housing agency is subject (as such substantial default shall be defined in such contract), the public housing agency shall be obligated at the option of the Secretary either to convey title in any case where, in the determination of the Secretary (which determination shall be final and conclusive), such conveyance of title is necessary to achieve the purposes of this chapter, or to deliver to the Secretary possession of the project, as then constituted, to which such contract relates; and
+&emsp;(1) upon the occurrence of a substantial default in respect to the covenants or conditions to which the public housing agency is subject (as such substantial default shall be defined in such contract), the public housing agency shall be obligated at the option of the Secretary either to convey title in any case where, in the determination of the Secretary (which determination shall be final and conclusive), such conveyance of title is necessary to achieve the purposes of this chapter, or to deliver to the Secretary possession of theproject, as then constituted, to which such contract relates; and
 
 &emsp;(2) the Secretary shall be obligated to reconvey or redeliver possession of the project as constituted at the time of reconveyance or redelivery, to such public housing agency or to its successor (if such public housing agency or a successor exists) upon such terms as shall be prescribed in such contract, and as soon as practicable (i) after the Secretary is satisfied that all defaults with respect to the project have been cured, and that the project will, in order to fulfill the purposes of this chapter, thereafter be operated in accordance with the terms of such contract; or (ii) after the termination of the obligation to make annual contributions available unless there are any obligations or covenants of the public housing agency to the Secretary which are then in default. Any prior conveyances and reconveyances or deliveries and redeliveries of possession shall not exhaust the right to require a conveyance or delivery of possession of the project to the Secretary pursuant to subparagraph (1) upon the subsequent occurrence of a substantial default.
 
@@ -82,7 +82,7 @@ On or after October 1, 1983, the Secretary may enter into a contract involving n
 
 #### (i) Reserve fund; major repairs
 
-The Secretary may, upon application by a public housing agency in connection with theacquisition of housing for use as public housing, establish and set aside a reserve fund in an amount not to exceed 30 per centum of the acquisition cost which shall be available for use for major repairs to such housing.
+The Secretary may, upon application by a public housing agency in connection with the acquisition of housing for use as public housing, establish and set aside a reserve fund in an amount not to exceed 30 per centum of the acquisition cost which shall be available for use for major repairs to such housing.
 
 #### (j) Performance indicators for public housing agencies
 
@@ -116,7 +116,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 &emsp;(J) The extent to which the public housing agency is providing acceptable basic housing conditions.
 
-&emsp;(K) Any other factors as the Secretary deems appropriate which shall not exceed the seven factors in the statute, plus an additional five.
+&emsp;(K) Any other factors as the Secretary deems appropriate which shall not exceed theseven factors in the statute, plus an additional five.
 
 &emsp;(I) <sup>3</sup> The Secretary shall:
 
@@ -134,7 +134,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 (B)(i) Upon designating a public housing agency with more than 250 units as troubled pursuant to subparagraph (A) and determining that an assessment under this subparagraph will not duplicate any comparable and recent review, the Secretary shall provide for an on-site, independent assessment of the management of the agency.
 
-(ii) To the extent the Secretary deems appropriate (taking into account an agency's performance under the indicators specified under paragraph (1)), the assessment team shall also consider issues relating to the agency's resident population and physical inventory, including the extent to which (I) the agency's comprehensive plan prepared pursuant to section 1437<i>l</i> <sup>4</sup> ofthis title adequately and appropriately addresses the rehabilitation needs of the agency's inventory, (II) residents of the agency are involved in and informed of significant management decisions, and (III) any projects in the agency's inventory are severely distressed and eligible for assistance pursuant to section 1437v of this title.
+(ii) To the extent the Secretary deems appropriate (taking into account an agency's performance under the indicators specified under paragraph (1)), the assessment team shall also consider issues relating to the agency's resident population and physical inventory, including the extent to which (I) the agency's comprehensive plan prepared pursuant to section 1437<i>l</i> <sup>4</sup> of this title adequately and appropriately addresses the rehabilitation needs of the agency's inventory, (II) residents of the agency are involved in and informed of significant management decisions, and (III) any projects in the agency's inventory are severely distressed and eligible for assistance pursuant to section 1437v of this title.
 
 (iii) An independent assessment under this subparagraph shall be carried out by a team of knowledgeable individuals selected by the Secretary (referred to in this section as the “assessment team”) with expertise in public housing and real estate management. In conducting an assessment, the assessment team shall consult with the residents and with public and private entities in the jurisdiction in which the public housing is located. The assessment team shall provide to the Secretary and the public housing agency a written report, which shall contain, at a minimum, recommendations for such management improvements as are necessary to eliminate or substantially remedy existing deficiencies.
 
@@ -152,7 +152,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 (3)(A) Notwithstanding any other provision of law or of any contract for contributions, upon the occurrence of events or conditions that constitute a substantial default by a public housing agency with respect to the covenants or conditions to which the public housing agency is subject or an agreement entered into under paragraph (2), the Secretary may—
 
-&emsp;(i) solicit competitive proposals from other public housing agencies and private housing management agents which (I) in the discretion of the Secretary, may be selected by existing public housing residents through administrative procedures established by the Secretary, and (II) if appropriate, shall provide for such agents to manage all, or part, of the housing administered by the public housing agency or all or part of the other programs of the agency;
+&emsp;(i) solicit competitive proposals from other public housing agencies and private housing management agents which (I) in the discretion of the Secretary, may be selected by existing public housing residents through administrative procedures established by the Secretary, and (II) if appropriate, shall provide for such agents to manage all, or part, of the housingadministered by the public housing agency or all or part of the other programs of the agency;
 
 &emsp;(ii) petition for the appointment of a receiver (which may be another public housing agency or a private management corporation) of the public housing agency to any district court of the United States or to any court of the State in which the real property of the public housing agency is situated, that is authorized to appoint a receiver for the purposes and having the powers prescribed in this subsection;
 
@@ -170,7 +170,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 (II) Upon the expiration of the 2-year period beginning on the later of the date on which the agency receives initial notice from the Secretary of the troubled status of the agency under clause (i) and October 21, 1998, the agency shall improve its performance, as measured by the performance indicators established pursuant to paragraph (1), such that the agency is no longer designated as troubled.
 
-(III) In the event that a public housing agency designated as troubled under this subsectionfails to comply with the requirements set forth in subclause (I) or (II), the Secretary shall—
+(III) In the event that a public housing agency designated as troubled under this subsection fails to comply with the requirements set forth in subclause (I) or (II), the Secretary shall—
 
 &emsp;(aa) in the case of a troubled public housing agency with 1,250 or more units, petition for the appointment of a receiver pursuant to subparagraph (A)(ii); or
 
@@ -190,7 +190,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 &emsp;(iv) if determined to be appropriate by the Secretary, may seek consolidation of all or part of the agency (including all or part of any project or program of the agency), as permitted by applicable State and local laws, into other well-managed public housing agencies with the consent of such well-managed agencies; and
 
-&emsp;(v) shall not be required to comply with any State or local law relating to civil service requirements, employee rights (except civil rights), procurement, or financial or administrative controls that, in the receiver's written determination (which shall include the basis for such determination), substantially impedes correction of the substantial default.
+&emsp;(v) shall not be required to comply with any State or local law relating to civil service requirements, employee rights (except civilrights), procurement, or financial or administrative controls that, in the receiver's written determination (which shall include the basis for such determination), substantially impedes correction of the substantial default.
 
 (D)(i) If, pursuant to subparagraph (A)(iv), the Secretary takes possession of all or part of the public housing agency, including all or part of any project or program of the agency, the Secretary—
 
@@ -210,7 +210,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 (iii) An administrative receiver may not take an action described in subclause (III) or (IV) of clause (i) unless the Secretary first approves an application by the administrative receiver to authorize such action.
 
-(E) The Secretary may make available to receivers and other entities selected or appointed pursuant to this paragraph such assistance as the Secretary determines in the discretion ofthe Secretary is necessary and available to remedy the substantial deterioration of living conditions in individual public housing projects or other related emergencies that endanger the health, safety, and welfare of public housing residents or families assisted under section 1437f of this title. A decision made by the Secretary under this paragraph shall not be subject to review in any court of the United States, or in any court of any State, territory, or possession of the United States.
+(E) The Secretary may make available to receivers and other entities selected or appointed pursuant to this paragraph such assistance as the Secretary determines in the discretion of the Secretary is necessary and available to remedy the substantial deterioration of living conditions in individual public housing projects or other related emergencies that endanger the health, safety, and welfare of public housing residents or families assisted under section 1437f of this title. A decision made by the Secretary under this paragraph shall not be subject to review in any court of the United States, or in any court of any State, territory, or possession of the United States.
 
 (F) In any proceeding under subparagraph (A)(ii), upon a determination that a substantial default has occurred and without regard to the availability of alternative remedies, the court shall appoint a receiver to conduct the affairs of all or part of the public housing agency in a manner consistent with this chapter and in accordance with such further terms and conditions as the court may provide. The receiver appointed may be another public housing agency, a private management corporation, or any other person or appropriate entity. The court shall have power to grant appropriate temporary or preliminary relief pending final disposition of the petition by the Secretary.
 
@@ -384,7 +384,7 @@ In providing housing in low-income housing projects, each public housing agency 
 
 #### (5) Confidentiality
 
-&emsp;A public housing agency receiving information under this subsection may use such information only for the purposes provided in this subsection and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the agency and who has a job-related need to have access to the information in connection with admission of applicants, eviction of tenants, or termination of assistance. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under thissubsection to a public housing agency is used, and confidentiality of such information is maintained, as required under this subsection. The Secretary shall establish standards for confidentiality of information obtained under this subsection by public housing agencies on behalf of owners.
+&emsp;A public housing agency receiving information under this subsection may use such information only for the purposes provided in this subsection and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the agency and who has a job-related need to have access to the information in connection with admission of applicants, eviction of tenants, or termination of assistance. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under this subsection to a public housing agency is used, and confidentiality of such information is maintained, as required under this subsection. The Secretary shall establish standards for confidentiality of information obtained under this subsection by public housing agencies on behalf of owners.
 
 #### (6) Penalty
 
@@ -490,7 +490,7 @@ A public housing agency may require, as a condition of providing admission to th
 
 #### (5) Disclosure permitted by treatment facilities
 
-&emsp;A drug abuse treatment facility shall not be liable for damages based on any information required to be disclosed pursuant to this subsection if such disclosure is consistent with section 543 of the Public Health Service Act (42 U.S.C. 290dd–2).
+&emsp;A drug abuse treatment facility shall not be liable for damages based on any informationrequired to be disclosed pursuant to this subsection if such disclosure is consistent with section 543 of the Public Health Service Act (42 U.S.C. 290dd–2).
 
 #### (6) Option to not request information
 
@@ -524,7 +524,7 @@ A public housing agency may require, as a condition of providing admission to th
 
 &emsp;This subsection shall take effect on October 21, 1998, and without the necessity of guidance from, or any regulation issued by, the Secretary.
 
-(Sept. 1, 1937, ch. 896, title I, §6, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 659; amended Pub. L. 96–153, title II, §206(a), Dec. 21, 1979, 93 Stat. 1108; Pub. L. 96–399, title II, §§201(c), (e), 202(c), Oct. 8, 1980, 94 Stat. 1625, 1629; Pub. L. 97–35, title III, §322(c), (d), Aug. 13, 1981, 95 Stat. 402; Pub. L. 98–181, title II, §§201(c), 203(a), 204, 205, 214(b), Nov. 30, 1983, 97 Stat. 1177–1179, 1185; Pub. L. 98–479, title I, §102(b)(4), (5), title II, §204(b)(1), Oct. 17, 1984, 98 Stat. 2221, 2233; Pub. L. 99–160, title I, §101, Nov. 25, 1985, 99 Stat. 910; Pub. L. 100–242, title I, §§112(b)(2), 116, 170(d), Feb. 5, 1988, 101 Stat. 1824, 1826, 1867; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §§1001(b), 1014(a)(1), Nov. 7, 1988, 102 Stat. 3263, 3269; Pub. L. 100–690, title V, §5101, Nov. 18, 1988, 102 Stat. 4300; Pub. L. 101–144, title II, Nov. 9,1989, 103 Stat. 846; Pub. L. 101–625, title V, §§501, 502(a), (c)(1), 503(a), (b), 504–506, 572, Nov. 28, 1990, 104 Stat. 4180, 4181, 4183–4185, 4236; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756, 757; Pub. L. 102–550, title I, §§112, 113, title VI, §§622(b), 625(a)(2), 682(a), Oct. 28, 1992, 106 Stat. 3689, 3817, 3820, 3830; Pub. L. 103–233, title I, §101(c)(1), title III, §303, Apr. 11, 1994, 108 Stat. 357, 370; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2315; Pub. L. 104–99, title IV, §402(d)(1), (6)(A)(i), Jan. 26, 1996, 110 Stat. 41, 42; Pub. L. 104–120, §9(a)–(c), Mar. 28, 1996, 110 Stat. 836, 837; Pub. L. 104–193, title IX, §903(a)(1), Aug. 22, 1996, 110 Stat. 2348; Pub. L. 104–330, title V, §501(b)(3), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §§511(d), 512(b), 514(a)(1), (2)(A), 519(b), 520(b), 521, 525, 529, 530, 564, 565(a), 575, 576(d)(1), Oct. 21, 1998, 112 Stat. 2539, 2543, 2547, 2561, 2563, 2568, 2569, 2627, 2628, 2634, 2640.)
+(Sept. 1, 1937, ch. 896, title I, §6, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 659; amended Pub. L. 96–153, title II, §206(a), Dec. 21, 1979, 93 Stat. 1108; Pub. L. 96–399, title II, §§201(c), (e), 202(c), Oct. 8, 1980, 94 Stat. 1625, 1629; Pub. L. 97–35, title III, §322(c), (d), Aug. 13, 1981, 95 Stat. 402; Pub. L. 98–181, title II, §§201(c), 203(a), 204, 205, 214(b), Nov. 30, 1983, 97 Stat. 1177–1179, 1185; Pub. L. 98–479, title I, §102(b)(4), (5), title II, §204(b)(1), Oct. 17, 1984, 98 Stat. 2221, 2233; Pub. L. 99–160, title I, §101, Nov. 25, 1985, 99 Stat. 910; Pub. L. 100–242, title I, §§112(b)(2), 116, 170(d), Feb. 5, 1988, 101 Stat. 1824, 1826, 1867; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §§1001(b), 1014(a)(1), Nov. 7, 1988, 102 Stat. 3263, 3269; Pub. L. 100–690, title V, §5101, Nov. 18, 1988, 102 Stat. 4300; Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 846; Pub. L. 101–625, title V, §§501, 502(a), (c)(1), 503(a), (b), 504–506, 572, Nov. 28, 1990, 104 Stat. 4180, 4181, 4183–4185, 4236; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756, 757; Pub. L. 102–550, title I, §§112, 113, title VI, §§622(b), 625(a)(2), 682(a), Oct. 28, 1992, 106 Stat. 3689, 3817, 3820, 3830; Pub. L. 103–233, title I, §101(c)(1), title III, §303, Apr. 11, 1994, 108 Stat. 357, 370; Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2315; Pub. L. 104–99, title IV, §402(d)(1), (6)(A)(i), Jan. 26, 1996, 110 Stat. 41, 42; Pub. L. 104–120, §9(a)–(c), Mar. 28, 1996, 110 Stat. 836, 837; Pub. L. 104–193, title IX, §903(a)(1), Aug. 22, 1996, 110 Stat. 2348; Pub. L. 104–330, title V, §501(b)(3), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §§511(d), 512(b), 514(a)(1), (2)(A), 519(b), 520(b), 521, 525, 529, 530, 564, 565(a), 575, 576(d)(1), Oct. 21, 1998, 112 Stat. 2539, 2543, 2547, 2561, 2563, 2568, 2569, 2627, 2628, 2634, 2640.)
 
 #### References in Text
 
@@ -548,7 +548,7 @@ The Public Health Service Act, referred to in subsec. (t)(1), is act July 1, 194
 
 #### Prior Provisions
 
-A prior section 6 of act Sept. 1, 1937, ch. 896, 50 Stat. 890, as amended, enumerated financial provisions applicable to the Authority and was classified to section 1406 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
+A prior section 6 of act Sept. 1, 1937, ch. 896, 50 Stat. 890, as amended, enumerated financial provisions applicable to the Authority and was classified to section1406 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
 
@@ -828,7 +828,7 @@ Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 199
 
 #### Effective Date of 1992 Amendment
 
-Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
+Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expirationof 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -904,7 +904,7 @@ Other models.—Various models of any other systems that may be more effective a
 
 “(d)
 
-Consultation.—The entity that, pursuant to subsection (e), carries out the study under this section shall, in carrying out the study, consult with individuals and organizations experienced in managing public housing, private real estate managers, representatives from State and local governments, residents of public housing, families and individuals receiving tenant-based assistance, the Secretary of Housing and Urban Development, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States.
+Consultation.—The entity that, pursuant to subsection (e), carries out the study under this sectionshall, in carrying out the study, consult with individuals and organizations experienced in managing public housing, private real estate managers, representatives from State and local governments, residents of public housing, families and individuals receiving tenant-based assistance, the Secretary of Housing and Urban Development, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States.
 
 “(e)
 

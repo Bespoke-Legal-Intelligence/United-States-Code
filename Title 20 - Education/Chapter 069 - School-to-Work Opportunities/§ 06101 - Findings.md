@@ -24,7 +24,7 @@ Congress finds that—
 
 &emsp;(9) Federal resources currently fund a series of categorical, work-related education and training programs, many of which serve disadvantaged youths, that are not administered as a coherent whole; and
 
-&emsp;(10) in 1992 approximately 3,400,000 individuals in the United States age 16 through 24 had not completed high school and were not currently enrolled in school, a number representing approximately 11 percent of all individuals in this age group, which indicates that these young persons are particularly unprepared for the demands of a 21st century workforce.
+&emsp;(10) in 1992 approximately 3,400,000 individuals in the United States age 16 through 24 hadnot completed high school and were not currently enrolled in school, a number representing approximately 11 percent of all individuals in this age group, which indicates that these young persons are particularly unprepared for the demands of a 21st century workforce.
 
 (Pub. L. 103–239, §2, May 4, 1994, 108 Stat. 569.)
 

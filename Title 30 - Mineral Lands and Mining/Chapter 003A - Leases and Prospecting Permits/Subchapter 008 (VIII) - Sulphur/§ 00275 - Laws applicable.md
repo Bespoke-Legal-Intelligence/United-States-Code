@@ -1,6 +1,6 @@
 ### §275. Laws applicable
 
-The general provisions of sections 181 to 184, 185 to 188, 189 to 192, 193, and 194 <sup>1</sup> of this title, are made applicable to permits and leases under this subchapter, sections 181 and 193 of this titlebeing amended to include deposits of sulphur, and section 184 of this title being amended so as to prohibit any person, association, or corporation from taking or holding more than three sulphur permits or leases in any one State during the life of such permits or leases.
+The general provisions of sections 181 to 184, 185 to 188, 189 to 192, 193, and 194 <sup>1</sup> of this title, are made applicable to permits and leases under this subchapter, sections 181 and 193 of this title being amended to include deposits of sulphur, and section 184 of this title being amended so as to prohibit any person, association, or corporation from taking or holding more than three sulphur permits or leases in any one State during the life of such permits or leases.
 
 (Apr. 17, 1926, ch. 158, §5, 44 Stat. 302.)
 

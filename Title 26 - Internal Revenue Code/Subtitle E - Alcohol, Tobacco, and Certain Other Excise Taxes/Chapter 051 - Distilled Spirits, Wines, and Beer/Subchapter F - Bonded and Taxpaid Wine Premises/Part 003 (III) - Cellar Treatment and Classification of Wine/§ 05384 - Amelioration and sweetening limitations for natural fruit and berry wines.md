@@ -26,7 +26,7 @@ A prior section 5384, act Aug. 16, 1954, ch. 736, 68A Stat. 670, consisted of pr
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
+<b>1997</b>—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 partsper thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
 
 <b>1968</b>—Subsec. (a). Pub. 90–619 substituted “not more than 14 percent” for “less than 14 percent”.
 

@@ -78,7 +78,7 @@ The Secretary shall make available the data collected pursuant to subsection (a)
 
 #### (5) Fines
 
-&emsp;In addition to actions authorized in section 1094(c) of this title, the Secretary may impose a fine in an amount not to exceed $25,000 on an institution of higher education for failing to provide the information described in paragraph (1) in a timely and accurate manner, or for failing to otherwise cooperate with the National Center for Education Statistics regarding efforts to obtain data on the cost of higher education under this section and pursuant to the program participation agreement entered into under section 1094 of this title.
+&emsp;In addition to actions authorized in section 1094(c) of this title, the Secretary may impose a fine in an amount not to exceed $25,000 on aninstitution of higher education for failing to provide the information described in paragraph (1) in a timely and accurate manner, or for failing to otherwise cooperate with the National Center for Education Statistics regarding efforts to obtain data on the cost of higher education under this section and pursuant to the program participation agreement entered into under section 1094 of this title.
 
 #### (d) Student aid recipient survey
 
@@ -126,7 +126,7 @@ A prior section 1015c, Pub. L. 89–329, title I, §134, as added Pub. L. 102–
 
 Another prior section 1015c, Pub. L. 89–329, title I, §134, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2089, related to annual reports by Assistant Secretary and content of these reports, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1015d, Pub. L. 89–329, title I, §135, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106Stat. 466, required grant recipients to submit reports, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1015d, Pub. L. 89–329, title I, §135, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 466, required grant recipients to submit reports, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 A prior section 1016, Pub. L. 89–329, title I, §121, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1285, related to adult learning research, prior to the general amendment of this subchapter by Pub. L. 102–325.
 

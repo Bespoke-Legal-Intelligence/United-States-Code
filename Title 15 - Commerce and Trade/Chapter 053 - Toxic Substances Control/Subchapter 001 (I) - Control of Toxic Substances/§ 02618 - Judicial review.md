@@ -18,7 +18,7 @@
 
 &emsp;(D) any written submission of interested parties respecting the promulgation of such rule; and
 
-&emsp;(E) any other information which the Administrator considers to be relevant to such rule and which the Administrator identified, on or before the date of the promulgation of such rule, in a notice published in the Federal Register.
+&emsp;(E) any other information which the Administrator considers to be relevant to such ruleand which the Administrator identified, on or before the date of the promulgation of such rule, in a notice published in the Federal Register.
 
 #### (b) Additional submissions and presentations; modifications
 

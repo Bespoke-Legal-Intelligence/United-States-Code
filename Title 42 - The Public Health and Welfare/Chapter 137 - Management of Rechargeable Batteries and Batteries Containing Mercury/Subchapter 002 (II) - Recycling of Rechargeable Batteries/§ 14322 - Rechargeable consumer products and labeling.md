@@ -68,7 +68,7 @@ Each regulated battery or rechargeable consumer product without an easily remova
 
 #### (e) Uniformity
 
-After the effective dates of a requirement set forth in subsection (a), (b), or (c) of this section or a regulation promulgated by the Administrator under subsection (d) of this section, no Federal agency, State, or political subdivision of a State may enforce any easy removability or environmental labeling requirement for a rechargeable battery or rechargeable consumerproduct that is not identical to the requirement or regulation.
+After the effective dates of a requirement set forth in subsection (a), (b), or (c) of this section or a regulation promulgated by the Administrator under subsection (d) of this section, no Federal agency, State, or political subdivision of a State may enforce any easy removability or environmental labeling requirement for a rechargeable battery or rechargeable consumer product that is not identical to the requirement or regulation.
 
 #### (f) Exemptions
 

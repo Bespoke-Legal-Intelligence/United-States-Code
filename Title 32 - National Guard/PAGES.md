@@ -1,6 +1,6 @@
 # Printed pages - Title 32 - National Guard
 
-GPO's 2000 edition (laws in effect as of 2001-01-02), from its printed page marks. The exact position of
+GPO's 2001 edition (laws in effect as of 2002-01-22), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title32.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -22,14 +22,14 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00112 - Drug interdiction and counter-drug activities](Chapter%20001%20-%20Organization/%C2%A7%2000112%20-%20Drug%20interdiction%20and%20counter-drug%20activities.md) | 9–11 |
 | [&sect; 00113 - Federal financial assistance for support of additional duties assigned to the Army National Guard](Chapter%20001%20-%20Organization/%C2%A7%2000113%20-%20Federal%20financial%20assistance%20for%20support%20of%20additional%20duties%20assigned%20to%20the%20Army%20National%20Guard.md) | 11–12 |
 | [&sect; 00114 - Funeral honors functions at funerals for veterans](Chapter%20001%20-%20Organization/%C2%A7%2000114%20-%20Funeral%20honors%20functions%20at%20funerals%20for%20veterans.md) | 12 |
-| [&sect; 00115 - Funeral honors duty performed as a Federal function](Chapter%20001%20-%20Organization/%C2%A7%2000115%20-%20Funeral%20honors%20duty%20performed%20as%20a%20Federal%20function.md) | 12 |
-| [Chapter 003 - Personnel](Chapter%20003%20-%20Personnel/README.md) | 12–13 |
+| [&sect; 00115 - Funeral honors duty performed as a Federal function](Chapter%20001%20-%20Organization/%C2%A7%2000115%20-%20Funeral%20honors%20duty%20performed%20as%20a%20Federal%20function.md) | 12–13 |
+| [Chapter 003 - Personnel](Chapter%20003%20-%20Personnel/README.md) | 13 |
 | [&sect; 00301 - Federal recognition of enlisted members](Chapter%20003%20-%20Personnel/%C2%A7%2000301%20-%20Federal%20recognition%20of%20enlisted%20members.md) | 13 |
 | [&sect; 00302 - Enlistments, reenlistments, and extensions](Chapter%20003%20-%20Personnel/%C2%A7%2000302%20-%20Enlistments%2C%20reenlistments%2C%20and%20extensions.md) | 13–14 |
 | [&sect; 00303 - Active and inactive enlistments and transfers](Chapter%20003%20-%20Personnel/%C2%A7%2000303%20-%20Active%20and%20inactive%20enlistments%20and%20transfers.md) | 14 |
 | [&sect; 00304 - Enlistment oath](Chapter%20003%20-%20Personnel/%C2%A7%2000304%20-%20Enlistment%20oath.md) | 14–15 |
-| [&sect; 00305 - Federal recognition of commissioned officers persons eligible](Chapter%20003%20-%20Personnel/%C2%A7%2000305%20-%20Federal%20recognition%20of%20commissioned%20officers%20persons%20eligible.md) | 15 |
-| [&sect; 00307 - Federal recognition of officers examination; certificate of eligibility](Chapter%20003%20-%20Personnel/%C2%A7%2000307%20-%20Federal%20recognition%20of%20officers%20examination%3B%20certificate%20of%20eligibility.md) | 15–17 |
+| [&sect; 00305 - Federal recognition of commissioned officers persons eligible](Chapter%20003%20-%20Personnel/%C2%A7%2000305%20-%20Federal%20recognition%20of%20commissioned%20officers%20persons%20eligible.md) | 15–16 |
+| [&sect; 00307 - Federal recognition of officers examination; certificate of eligibility](Chapter%20003%20-%20Personnel/%C2%A7%2000307%20-%20Federal%20recognition%20of%20officers%20examination%3B%20certificate%20of%20eligibility.md) | 16–17 |
 | [&sect; 00308 - Federal recognition of officers temporary recognition](Chapter%20003%20-%20Personnel/%C2%A7%2000308%20-%20Federal%20recognition%20of%20officers%20temporary%20recognition.md) | 17 |
 | [&sect; 00309 - Federal recognition of National Guard officers officers promoted to fill vacancies](Chapter%20003%20-%20Personnel/%C2%A7%2000309%20-%20Federal%20recognition%20of%20National%20Guard%20officers%20officers%20promoted%20to%20fill%20vacancies.md) | 17 |
 | [&sect; 00310 - Federal recognition of National Guard officers automatic recognition](Chapter%20003%20-%20Personnel/%C2%A7%2000310%20-%20Federal%20recognition%20of%20National%20Guard%20officers%20automatic%20recognition.md) | 17–18 |
@@ -43,16 +43,16 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00322 - Discharge of enlisted members](Chapter%20003%20-%20Personnel/%C2%A7%2000322%20-%20Discharge%20of%20enlisted%20members.md) | 20–21 |
 | [&sect; 00323 - Withdrawal of Federal recognition](Chapter%20003%20-%20Personnel/%C2%A7%2000323%20-%20Withdrawal%20of%20Federal%20recognition.md) | 21–22 |
 | [&sect; 00324 - Discharge of officers; termination of appointment](Chapter%20003%20-%20Personnel/%C2%A7%2000324%20-%20Discharge%20of%20officers%3B%20termination%20of%20appointment.md) | 22 |
-| [&sect; 00325 - Relief from National Guard duty when ordered to active duty](Chapter%20003%20-%20Personnel/%C2%A7%2000325%20-%20Relief%20from%20National%20Guard%20duty%20when%20ordered%20to%20active%20duty.md) | 22 |
-| [&sect; 00326 - Courts-martial of National Guard not in Federal service composition, jurisdiction, and procedures](Chapter%20003%20-%20Personnel/%C2%A7%2000326%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20composition%2C%20jurisdiction%2C%20and%20procedures.md) | 22–23 |
+| [&sect; 00325 - Relief from National Guard duty when ordered to active duty](Chapter%20003%20-%20Personnel/%C2%A7%2000325%20-%20Relief%20from%20National%20Guard%20duty%20when%20ordered%20to%20active%20duty.md) | 22–23 |
+| [&sect; 00326 - Courts-martial of National Guard not in Federal service composition, jurisdiction, and procedures](Chapter%20003%20-%20Personnel/%C2%A7%2000326%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20composition%2C%20jurisdiction%2C%20and%20procedures.md) | 23 |
 | [&sect; 00327 - General courts-martial of National Guard not in Federal service](Chapter%20003%20-%20Personnel/%C2%A7%2000327%20-%20General%20courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service.md) | 23 |
 | [&sect; 00328 - Special courts-martial of National Guard not in Federal service](Chapter%20003%20-%20Personnel/%C2%A7%2000328%20-%20Special%20courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service.md) | 23 |
 | [&sect; 00329 - Summary courts-martial of National Guard not in Federal service](Chapter%20003%20-%20Personnel/%C2%A7%2000329%20-%20Summary%20courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service.md) | 23–24 |
 | [&sect; 00330 - Confinement instead of fine](Chapter%20003%20-%20Personnel/%C2%A7%2000330%20-%20Confinement%20instead%20of%20fine.md) | 24 |
 | [&sect; 00331 - Dismissal or dishonorable discharge](Chapter%20003%20-%20Personnel/%C2%A7%2000331%20-%20Dismissal%20or%20dishonorable%20discharge.md) | 24 |
 | [&sect; 00332 - Compelling attendance of accused and witnesses](Chapter%20003%20-%20Personnel/%C2%A7%2000332%20-%20Compelling%20attendance%20of%20accused%20and%20witnesses.md) | 24 |
-| [&sect; 00333 - Execution of process and sentence](Chapter%20003%20-%20Personnel/%C2%A7%2000333%20-%20Execution%20of%20process%20and%20sentence.md) | 24 |
-| [&sect; 00334 - Repealed. Pub. L. 97&#8211;124, &sect;3, Dec. 29, 1981, 95 Stat. 1666](Chapter%20003%20-%20Personnel/%C2%A7%2000334%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93124%2C%20%C2%A73%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201666.md) | 24–25 |
+| [&sect; 00333 - Execution of process and sentence](Chapter%20003%20-%20Personnel/%C2%A7%2000333%20-%20Execution%20of%20process%20and%20sentence.md) | 24–25 |
+| [&sect; 00334 - Repealed. Pub. L. 97&#8211;124, &sect;3, Dec. 29, 1981, 95 Stat. 1666](Chapter%20003%20-%20Personnel/%C2%A7%2000334%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93124%2C%20%C2%A73%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201666.md) | 25 |
 | [&sect; 00335 - Repealed. Pub. L. 98&#8211;525, title IV, &sect;414(b)(2)(A), Oct. 19, 1984, 98 Stat. 2519](Chapter%20003%20-%20Personnel/%C2%A7%2000335%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93525%2C%20title%20IV%2C%20%C2%A7414%28b%29%282%29%28A%29%2C%20Oct.%2019%2C%201984%2C%2098%20Stat.%202519.md) | 25 |
 | [Chapter 005 - Training](Chapter%20005%20-%20Training/README.md) | 25 |
 | [&sect; 00501 - Training generally](Chapter%20005%20-%20Training/%C2%A7%2000501%20-%20Training%20generally.md) | 25–27 |
@@ -65,19 +65,19 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00508 - Assistance for certain youth and charitable organizations](Chapter%20005%20-%20Training/%C2%A7%2000508%20-%20Assistance%20for%20certain%20youth%20and%20charitable%20organizations.md) | 30–31 |
 | [&sect; 00509 - National Guard Challenge Program of opportunities for civilian youth](Chapter%20005%20-%20Training/%C2%A7%2000509%20-%20National%20Guard%20Challenge%20Program%20of%20opportunities%20for%20civilian%20youth.md) | 31–33 |
 | [Chapter 007 - Service, Supply, and Procurement](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/README.md) | 33 |
-| [&sect; 00701 - Uniforms, arms, and equipment to be same as Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000701%20-%20Uniforms%2C%20arms%2C%20and%20equipment%20to%20be%20same%20as%20Army%20or%20Air%20Force.md) | 33 |
-| [&sect; 00702 - Issue of supplies](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000702%20-%20Issue%20of%20supplies.md) | 33–34 |
-| [&sect; 00703 - Purchases of supplies by States from Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000703%20-%20Purchases%20of%20supplies%20by%20States%20from%20Army%20or%20Air%20Force.md) | 34 |
-| [&sect; 00704 - Accountability relief from upon order to active duty](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000704%20-%20Accountability%20relief%20from%20upon%20order%20to%20active%20duty.md) | 34–35 |
+| [&sect; 00701 - Uniforms, arms, and equipment to be same as Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000701%20-%20Uniforms%2C%20arms%2C%20and%20equipment%20to%20be%20same%20as%20Army%20or%20Air%20Force.md) | 33–34 |
+| [&sect; 00702 - Issue of supplies](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000702%20-%20Issue%20of%20supplies.md) | 34 |
+| [&sect; 00703 - Purchases of supplies by States from Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000703%20-%20Purchases%20of%20supplies%20by%20States%20from%20Army%20or%20Air%20Force.md) | 34–35 |
+| [&sect; 00704 - Accountability relief from upon order to active duty](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000704%20-%20Accountability%20relief%20from%20upon%20order%20to%20active%20duty.md) | 35 |
 | [&sect; 00705 - Purchase of uniforms and equipment by officers of National Guard from Army or Air Force](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000705%20-%20Purchase%20of%20uniforms%20and%20equipment%20by%20officers%20of%20National%20Guard%20from%20Army%20or%20Air%20Force.md) | 35 |
 | [&sect; 00706 - Return of arms and equipment upon relief from Federal service](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000706%20-%20Return%20of%20arms%20and%20equipment%20upon%20relief%20from%20Federal%20service.md) | 35 |
-| [&sect; 00707 - Use of public buildings for offices by instructors](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000707%20-%20Use%20of%20public%20buildings%20for%20offices%20by%20instructors.md) | 35 |
-| [&sect; 00708 - Property and fiscal officers](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000708%20-%20Property%20and%20fiscal%20officers.md) | 35–36 |
-| [&sect; 00709 - Technicians employment, use, status](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000709%20-%20Technicians%20employment%2C%20use%2C%20status.md) | 36–41 |
-| [&sect; 00710 - Accountability for property issued to the National Guard](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000710%20-%20Accountability%20for%20property%20issued%20to%20the%20National%20Guard.md) | 41–43 |
+| [&sect; 00707 - Use of public buildings for offices by instructors](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000707%20-%20Use%20of%20public%20buildings%20for%20offices%20by%20instructors.md) | 35–36 |
+| [&sect; 00708 - Property and fiscal officers](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000708%20-%20Property%20and%20fiscal%20officers.md) | 36 |
+| [&sect; 00709 - Technicians employment, use, status](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000709%20-%20Technicians%20employment%2C%20use%2C%20status.md) | 36–42 |
+| [&sect; 00710 - Accountability for property issued to the National Guard](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000710%20-%20Accountability%20for%20property%20issued%20to%20the%20National%20Guard.md) | 42–43 |
 | [&sect; 00711 - Disposition of obsolete or condemned property](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000711%20-%20Disposition%20of%20obsolete%20or%20condemned%20property.md) | 43 |
-| [&sect; 00712 - Disposition of proceeds of condemned stores issued to National Guard](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000712%20-%20Disposition%20of%20proceeds%20of%20condemned%20stores%20issued%20to%20National%20Guard.md) | 43 |
-| [&sect; 00713 - Official mail free transmission](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000713%20-%20Official%20mail%20free%20transmission.md) | 43–44 |
+| [&sect; 00712 - Disposition of proceeds of condemned stores issued to National Guard](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000712%20-%20Disposition%20of%20proceeds%20of%20condemned%20stores%20issued%20to%20National%20Guard.md) | 43–44 |
+| [&sect; 00713 - Official mail free transmission](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000713%20-%20Official%20mail%20free%20transmission.md) | 44 |
 | [&sect; 00714 - Final settlement of accounts deceased members](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000714%20-%20Final%20settlement%20of%20accounts%20deceased%20members.md) | 44 |
-| [&sect; 00715 - Property loss; personal injury or death activities under certain sections of this title](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000715%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20activities%20under%20certain%20sections%20of%20this%20title.md) | 44–45 |
-| [&sect; 00716 - Claims for overpayment of pay and allowances, and travel and transportation allowances](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000716%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%2C%20and%20travel%20and%20transportation%20allowances.md) | 45–46 |
+| [&sect; 00715 - Property loss; personal injury or death activities under certain sections of this title](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000715%20-%20Property%20loss%3B%20personal%20injury%20or%20death%20activities%20under%20certain%20sections%20of%20this%20title.md) | 44–46 |
+| [&sect; 00716 - Claims for overpayment of pay and allowances, and travel and transportation allowances](Chapter%20007%20-%20Service%2C%20Supply%2C%20and%20Procurement/%C2%A7%2000716%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%2C%20and%20travel%20and%20transportation%20allowances.md) | 46 |

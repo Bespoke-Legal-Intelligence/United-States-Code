@@ -22,17 +22,53 @@ Section 10 of Pub. L. 93–148 provided that: “This joint resolution \[enactin
 
 Section 1 of Pub. L. 93–148 provided that: “This joint resolution \[enacting this chapter\] may be cited as the ‘War Powers Resolution’.”
 
+#### Authorization for Use of Military Force Against September 11 Terrorists
+
+Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, provided that:
+
+“Whereas, on September 11, 2001, acts of treacherous violence were committed against the United States and its citizens; and
+
+“Whereas, such acts render it both necessary and appropriate that the United States exercise its rights to self-defense and to protect United States citizens both at home and abroad; and
+
+“Whereas, in light of the threat to the national security and foreign policy of the United States posed by these grave acts of violence; and
+
+“Whereas, such acts continue to pose an unusual and extraordinary threat to the national security and foreign policy of the United States; and
+
+“Whereas, the President has authority under the Constitution to take action to deter and prevent acts of international terrorism against the United States: Now, therefore, be it
+
+<i>“Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,</i>
+
+#### “SECTION 1. SHORT TITLE.
+
+“This joint resolution may be cited as the ‘Authorization for Use of Military Force’.
+
+#### “SEC. 2. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
+
+“
+
+(a) In General.—That the President is authorized to use all necessary and appropriate force against those nations, organizations, or persons he determines planned, authorized, committed, or aided the terrorist attacks that occurred on September 11, 2001, or harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States by such nations, organizations or persons.
+
+“(b)
+
+War Powers Resolution Requirements.—
+
+&emsp;“(1)
+
+Specific statutory authorization.—Consistent with section 8(a)(1) of the War Powers Resolution \[50 U.S.C. 1547(a)(1)\], the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution \[50 U.S.C. 1544(b)\].
+
+&emsp;“(2)
+
+Applicability of other requirements.—Nothing in this resolution supercedes any requirement of the War Powers Resolution \[50 U.S.C. 1541 et seq.\].”
+
 #### Limitation on Deployment of Armed Forces in Haiti During Fiscal Year 2000 and Congressional Notice of Deployments to Haiti
 
-Pub. L. 106–65, div. A, title XII, §1232, Oct. 5, 1999, 113 Stat. 788, provided that:
+Pub. L. 106–65, div. A, title XII, §1232, Oct. 5, 1999, 113 Stat. 788, as amended by Pub. L. 107–107, div. A, title XII, §1222, Dec. 28, 2001, 115 Stat. 1253, provided that:
 
 “(a)
 
 Limitation on Deployment.—No funds available to the Department of Defense during fiscal year 2000 may be expended after May 31, 2000, for the continuous deployment of United States Armed Forces in Haiti pursuant to the Department of Defense operation designated as Operation Uphold Democracy.
 
-“(b)
-
-Report.—Whenever there is a deployment of United States Armed Forces to Haiti after May 31, 2000, the President shall, not later than 96 hours after such deployment begins, transmit to Congress a written report regarding the deployment. In any such report, the President shall specify (1) the purpose of the deployment, and (2) the date on which the deployment is expected to end.”
+“\[(b) Repealed. Pub. L. 107–107, div. A, title XII, §1222, Dec. 28, 2001, 115 Stat. 1253.\]”
 
 #### Involvement of Armed Forces in Haiti
 
@@ -54,7 +90,7 @@ Pub. L. 103–423, Oct. 25, 1994, 108 Stat. 4358, provided that:
 
 #### “SEC. 2. PRESIDENTIAL STATEMENT OF NATIONAL SECURITY OBJECTIVES.
 
-“The President shall prepare and submit to the President pro tempore of the Senate and the Speaker of the House of Representatives (hereafter, ‘Congress’) not later than seven days after enactment of this resolution \[Oct. 25, 1994\] a statement of the national security objectives to be achieved by Operation Uphold Democracy, and a detailed description of United States policy, the military mission and the general rules of engagement under which operations of United States Armed Forces are conducted in and around Haiti, including the role of United States Armed Forces regarding Haitian on Haitian violence, and efforts to disarm Haitian military or police forces, or civilians. Changesor modifications to such objectives, policy, military mission, or general rules of engagement shall be submitted to Congress within forty-eight hours of approval.
+“The President shall prepare and submit to the President pro tempore of the Senate and the Speaker of the House of Representatives (hereafter, ‘Congress’) not later than seven days after enactment of this resolution \[Oct. 25, 1994\] a statement of the national security objectives to be achieved by Operation Uphold Democracy, and a detailed description of United States policy, the military mission and the general rules of engagement under which operations of United States Armed Forces are conducted in and around Haiti, including the role of United States Armed Forces regarding Haitian on Haitian violence, and efforts to disarm Haitian military or police forces, or civilians. Changes or modifications to such objectives, policy, military mission, or general rules of engagement shall be submitted to Congress within forty-eight hours of approval.
 
 #### “SEC. 3. REPORT ON THE SITUATION IN HAITI.
 
@@ -62,7 +98,7 @@ Pub. L. 103–423, Oct. 25, 1994, 108 Stat. 4358, provided that:
 
 &emsp;“(a) a listing of the units of the United States Armed Forces and of the police and military units of other nations participating in operations in and around Haiti;
 
-&emsp;“(b) the estimated duration of Operation Uphold Democracy and progress toward the withdrawal of all United States Armed Forces from Haiti consistent with the goal of section 1(e) of this resolution;
+&emsp;“(b) the estimated duration of Operation Uphold Democracy and progress toward the withdrawal of allUnited States Armed Forces from Haiti consistent with the goal of section 1(e) of this resolution;
 
 &emsp;“(c) armed incidents or the use of force in or around Haiti involving United States Armed Forces or Coast Guard personnel in the time period covered by the report;
 
@@ -328,11 +364,11 @@ Sec. 4. As required by section 4(c) of the War Powers Resolution \[50 U.S.C. 154
 
 “
 
-Sec. 5. (a) The Congress declares that the participation of the armed forces of other countries in theMultinational Force in Lebanon is essential to maintain the international character of the peacekeeping function in Lebanon.
+Sec. 5. (a) The Congress declares that the participation of the armed forces of other countries in the Multinational Force in Lebanon is essential to maintain the international character of the peacekeeping function in Lebanon.
 
 “(b) The Congress believes that it should continue to be the policy of the United States to promote continuing discussions with Israel, Syria, and Lebanon with the objective of bringing about the withdrawal of all foreign troops from Lebanon and establishing an environment which will permit the Lebanese Armed Forces to carry out their responsibilities in the Beirut area.
 
-“(c) It is the sense of the Congress that, not later than one year after the date of enactment of this joint resolution \[Oct. 12, 1983\] and at least once a year thereafter, the United States should discuss with the other members of the Security Council of the United Nations the establishment of a United Nations peacekeeping force to assume the responsibilities of the Multinational Force in Lebanon. An analysis of the implications of the response to such discussions for the continuation of the Multinational Force in Lebanon shall be included in the reports required under paragraph (3) of section 4 of this resolution.
+“(c) It is the sense of the Congress that, not later than one year after the date of enactment of this joint resolution \[Oct. 12, 1983\] and at least once a year thereafter, the United States should discuss with the othermembers of the Security Council of the United Nations the establishment of a United Nations peacekeeping force to assume the responsibilities of the Multinational Force in Lebanon. An analysis of the implications of the response to such discussions for the continuation of the Multinational Force in Lebanon shall be included in the reports required under paragraph (3) of section 4 of this resolution.
 
 #### “duration of authorization for united states participation in the multinational force in lebanon
 

@@ -14,7 +14,7 @@ Factors for Secretary To Consider.—(1) Factors to be considered by the Secreta
 
 &emsp;(B) The extent to which the local educational agency is able to provide an appropriate educational program for such dependents.
 
-(2) For purposes of paragraph (1)(B), an appropriate educational program is a program that, as determined by the Secretary, is comparableto a program of free public education provided for children by the following local educational agencies:
+(2) For purposes of paragraph (1)(B), an appropriate educational program is a program that, as determined by the Secretary, is comparable to a program of free public education provided for children by the following local educational agencies:
 
 &emsp;(A) In the case of a military installation located in a State (other than an installation referred to in subparagraph (B)), local educational agencies in the State that are similar to the local educational agency referred to in paragraph (1)(B).
 
@@ -38,7 +38,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (d)
 
-School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section. The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
+School Boards.—(1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at eachmilitary installation under this section. The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
 
 (2) The school board shall be composed of the number of members, not fewer than three, prescribed by the Secretary.
 
@@ -104,7 +104,7 @@ Substantive and Procedural Rights and Protections for Children.—(1) The Secret
 
 &emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
 
-&emsp;(B) In the case of infants and toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants and toddlers with disabilities under part H <sup>1</sup> of such Act (20 U.S.C. 1471 et seq.).
+&emsp;(B) In the case of infants and toddlers with disabilities, all substantive rights, protections, and procedural safeguards (includingdue process procedures) available to infants and toddlers with disabilities under part H <sup>1</sup> of such Act (20 U.S.C. 1471 et seq.).
 
 &emsp;(C) In the case of all other children with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities who are 3 to 5 years old under part B of such Act.
 

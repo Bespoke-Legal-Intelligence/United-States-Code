@@ -12,7 +12,7 @@ In determining the taxable income of an organization to which this part applies,
 
 &emsp;(2) in money or other property (except written notices of allocation) in redemption of a nonqualified written notice of allocation which was paid as a patronage dividend during the payment period for the taxable year during which the patronage occurred;
 
-&emsp;(3) as per-unit retain allocations (as defined in section 1388(f)), to the extent paid in money, qualified per-unit retain certificates (as defined in section 1388(h)), or other property (except nonqualified per-unit retain certificates, as defined in section 1388(i)) with respect tomarketing occurring during such taxable year; or
+&emsp;(3) as per-unit retain allocations (as defined in section 1388(f)), to the extent paid in money, qualified per-unit retain certificates (as defined in section 1388(h)), or other property (except nonqualified per-unit retain certificates, as defined in section 1388(i)) with respect to marketing occurring during such taxable year; or
 
 &emsp;(4) in money or other property (except per-unit retain certificates) in redemption of a nonqualified per-unit retain certificate which was paid as a per-unit retain allocation during the payment period for the taxable year during which the marketing occurred.
 
@@ -26,7 +26,7 @@ In determining the taxable income of an organization described in section 1381(a
 
 &emsp;(2) amounts paid during the payment period for the taxable year—
 
-&emsp;&emsp;(A) in money, qualified written notices of allocation, or other property (except nonqualified written notices of allocation) on a patronage basis to patrons with respect to its earnings during such taxable year which are derived from business done for the United States or any of its agencies or from sources other than patronage, or
+&emsp;&emsp;(A) in money, qualified written notices of allocation, or other property (except nonqualified written notices of allocation) on a patronage basis to patrons with respect to its earnings during such taxable year whichare derived from business done for the United States or any of its agencies or from sources other than patronage, or
 
 &emsp;&emsp;(B) in money or other property (except written notices of allocation) in redemption of a nonqualified written notice of allocation which was paid, during the payment period for the taxable year during which the earnings were derived, on a patronage basis to a patron with respect to earnings derived from business or sources described in subparagraph (A).
 

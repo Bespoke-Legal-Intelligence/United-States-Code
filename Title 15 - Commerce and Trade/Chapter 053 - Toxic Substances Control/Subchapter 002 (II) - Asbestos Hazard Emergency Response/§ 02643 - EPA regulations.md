@@ -42,7 +42,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (1) In general
 
-&emsp;The Administrator shall promulgate regulations describing a response action in a school building under the authority of a local educational agency, using the least burdensome methods which protect human health and the environment. In determining the least burdensome methods, the Administrator shall take into account local circumstances, including occupancy and use patterns within the school building and short- and long-term costs.
+&emsp;The Administrator shall promulgate regulations describing a response action in a schoolbuilding under the authority of a local educational agency, using the least burdensome methods which protect human health and the environment. In determining the least burdensome methods, the Administrator shall take into account local circumstances, including occupancy and use patterns within the school building and short- and long-term costs.
 
 #### (2) Response action for damaged asbestos
 
@@ -108,7 +108,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 #### (1) In general
 
-&emsp;The Administrator shall promulgate regulations which require each local educational agency to develop an asbestos management plan for school buildings under its authority, to begin implementation of such plan within 990 days after October 22, 1986, and to complete implementation of such plan in a timely fashion. The regulations shall require that each plan include the following elements, wherever relevant to the school building:
+&emsp;The Administrator shall promulgate regulations which require each local educational agency to develop an asbestos managementplan for school buildings under its authority, to begin implementation of such plan within 990 days after October 22, 1986, and to complete implementation of such plan in a timely fashion. The regulations shall require that each plan include the following elements, wherever relevant to the school building:
 
 &emsp;&emsp;(A) An inspection statement describing inspection and response action activities carried out before October 22, 1986.
 
@@ -168,7 +168,7 @@ Changes may be made in the regulations promulgated under this section only by ru
 
 #### (k) Changes in guidance document
 
-Any change made in the “Guidance for Controlling Asbestos-Containing Material in Buildings” shall be made only by rule in accordance with section 553 of title 5, unless a regulation described in this section dealing with the same subject matter is in effect. Any such changemust protect human health and the environment.
+Any change made in the “Guidance for Controlling Asbestos-Containing Material in Buildings” shall be made only by rule in accordance with section 553 of title 5, unless a regulation described in this section dealing with the same subject matter is in effect. Any such change must protect human health and the environment.
 
 #### (<i>l</i>) Treatment of Department of Defense schools
 

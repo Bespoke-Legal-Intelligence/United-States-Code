@@ -150,7 +150,7 @@ For purposes of this title—
 
 #### (D) Additional reporting requirements
 
-&emsp;&emsp;Trustees of Roth IRAs, trustees of individual retirement plans, or both, whichever is appropriate, shall include such additional information in reports required under section408(i) as the Secretary may require to ensure that amounts required to be included in gross income under subparagraph (A) are so included.
+&emsp;&emsp;Trustees of Roth IRAs, trustees of individual retirement plans, or both, whichever is appropriate, shall include such additional information in reports required under section 408(i) as the Secretary may require to ensure that amounts required to be included in gross income under subparagraph (A) are so included.
 
 #### (E) Special rules for contributions to which 4-year averaging applies
 
@@ -210,7 +210,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;&emsp;(II) Qualified rollover contributions to which paragraph (3) applies on a first-in, first-out basis.
 
-> &emsp;&emsp;Any distribution allocated to a qualified rollover contribution under clause (ii)(II) shall be allocated first to the portion of such contribution required to be included in gross income.
+> &emsp;&emsp;Any distribution allocated to a qualified rollover contribution under clause (ii)(II)shall be allocated first to the portion of such contribution required to be included in gross income.
 
 #### (5) Qualified special purpose distribution
 
@@ -230,7 +230,7 @@ For purposes of this title—
 
 #### (ii) No deduction
 
-&emsp;&emsp;&emsp;Subparagraph (A) shall apply to the transfer of any contribution only to theextent no deduction was allowed with respect to the contribution to the transferor plan.
+&emsp;&emsp;&emsp;Subparagraph (A) shall apply to the transfer of any contribution only to the extent no deduction was allowed with respect to the contribution to the transferor plan.
 
 #### (7) Due date
 
@@ -248,7 +248,11 @@ For purposes of this section—
 
 &emsp;(2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
 
-(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908.)
+(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 107–16, title VI, §617(e)(1), (f), title IX, §901, June 7, 2001, 115 Stat. 106, 150, provided that, applicable to taxable years beginning after Dec. 31, 2005, subsection (e) of this section is temporarily amended by inserting after the first sentence “Such term includes a rollover contribution described in section 402A(c)(3)(A).” See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -286,7 +290,7 @@ Subsec. (d)(2)(C). Pub. L. 105–206, §6005(b)(3)(B), added subpar. (C).
 
 Subsec. (d)(3)(A). Pub. L. 105–206, §6005(b)(4)(A), added cl. (iii) and concluding provisions and struck out former cl. (iii) which read as follows: “in the case of a distribution before January 1, 1999, any amount required to be included in gross income by reason of this paragraph shall be so included ratably over the 4-taxable year period beginning with the taxable year in which the payment or distribution is made.”
 
-Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: “If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount.”
+Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading andtext of former subpar. (D). Text read as follows: “If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount.”
 
 Subsec. (d)(3)(E). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
@@ -306,13 +310,19 @@ Subsec. (d)(7). Pub. L. 105–206, §6005(b)(7), added par. (7).
 
 Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2005, see section 617(f) of Pub. L. 107–16, set out as a note under section 402 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendments
 
 Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under section 1 of this title.
 
 Amendment by section 6005(b)(1)–(7), (9) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
-Pub. L. 105–206, title VII, §7004(b), July 22, 1998, 112 Stat. 833, provided that: “The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 105–206, title VII, §7004(b), July 22, 1998, 112 Stat. 833, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
 
 #### Effective Date
 
@@ -320,5 +330,5 @@ Section applicable to taxable years beginning after Dec. 31, 1997, see section 3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 219, 4973 of this title.
+This section is referred to in sections 25B, 219, 402A, 408, 4973 of this title.
 

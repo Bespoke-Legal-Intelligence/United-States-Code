@@ -46,7 +46,7 @@ The development of a restoration plan, including any compatible use, under this 
 
 #### (d) Compatible uses
 
-Wetland reserve program lands may be used for compatible economic uses, including such activities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the plan and consistent with the long-term protection and enhancement of the wetlands resources for which the easement was established.
+Wetland reserve program lands may be used for compatible economic uses, including suchactivities as hunting and fishing, managed timber harvest, or periodic haying or grazing, if such use is specifically permitted by the plan and consistent with the long-term protection and enhancement of the wetlands resources for which the easement was established.
 
 #### (e) Type and length of easement
 

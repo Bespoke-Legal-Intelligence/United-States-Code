@@ -6,7 +6,7 @@ The eligibility of any State organization to represent producers and to particip
 
 #### (b) State cattle association or State general farm organization
 
-A State cattle association or State general farm organization may be certified as describedin subsection (a) of this section if such association or organization meets all of the following eligibility criteria:
+A State cattle association or State general farm organization may be certified as described in subsection (a) of this section if such association or organization meets all of the following eligibility criteria:
 
 &emsp;(1) The association or organization's total paid membership is comprised of at least a majority of cattle producers or the association or organization's total paid membership represents at least a majority of the cattle producers in the State.
 
@@ -18,7 +18,7 @@ A State cattle association or State general farm organization may be certified a
 
 #### (c) Factual report basis for certification of State cattle association and State general farm association
 
-Certification of State cattle associations and State general farm organizations shall be based on a factual report submitted by the association or organization involved.
+Certification of State cattle associations and State general farm organizations shall be basedon a factual report submitted by the association or organization involved.
 
 #### (d) Certification of more than one State organization; caucus
 

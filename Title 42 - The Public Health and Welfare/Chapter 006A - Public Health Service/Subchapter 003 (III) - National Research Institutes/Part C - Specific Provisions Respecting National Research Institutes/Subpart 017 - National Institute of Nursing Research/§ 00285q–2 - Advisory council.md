@@ -26,11 +26,11 @@
 
 &emsp;(A) the Secretary, the Director of NIH, the Director of the Institute, the chief nursing officer of the Department of Veterans Affairs, the Assistant Secretary of Defense for Health Affairs, the Director of the Division of Nursing of the Health Resources and Services Administration (or the designees of such officers), and
 
-&emsp;(B) such additional officers or employees of the United States as the Secretary determines necessary for the advisory council to effectively carry out its functions.
+&emsp;(B) such additional officers or employees of the United States as the Secretary determinesnecessary for the advisory council to effectively carry out its functions.
 
 (3) The members of the advisory council who are not ex officio members shall be appointed as follows:
 
-&emsp;(A) Two-thirds of the members shall be appointed by the Secretary from among the leading representatives of the health and scientificdisciplines (including public health and the behavioral or social sciences) relevant to the activities of the Institute. Of the members appointed pursuant to this subparagraph, at least seven shall be professional nurses who are recognized experts in the area of clinical practice, education, or research.
+&emsp;(A) Two-thirds of the members shall be appointed by the Secretary from among the leading representatives of the health and scientific disciplines (including public health and the behavioral or social sciences) relevant to the activities of the Institute. Of the members appointed pursuant to this subparagraph, at least seven shall be professional nurses who are recognized experts in the area of clinical practice, education, or research.
 
 &emsp;(B) One-third of the members shall be appointed by the Secretary from the general public and shall include leaders in fields of public policy, law, health policy, economics, and management.
 
@@ -84,7 +84,7 @@ Subsec. (g). Pub. L. 103–43, §1511(a)(3)(C), (b)(4)(B), substituted “sectio
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

@@ -18,7 +18,7 @@ It is the policy of the United States to—
 
 &emsp;&emsp;(E) increased student and community pride;
 
-&emsp;(4) encourage State and local education programs to work with Native American parents, educators, Indian tribes, and other Native American governing bodies in the implementation of programs to put this policy into effect;
+&emsp;(4) encourage State and local education programs to work with Native American parents,educators, Indian tribes, and other Native American governing bodies in the implementation of programs to put this policy into effect;
 
 &emsp;(5) recognize the right of Indian tribes and other Native American governing bodies to use the Native American languages as a medium of instruction in all schools funded by the Secretary of the Interior;
 

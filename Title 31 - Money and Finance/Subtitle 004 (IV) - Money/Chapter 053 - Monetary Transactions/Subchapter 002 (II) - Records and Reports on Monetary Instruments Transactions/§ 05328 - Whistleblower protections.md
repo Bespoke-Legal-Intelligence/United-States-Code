@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition Against Discrimination.—No financial institution may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Secretary of the Treasury, the Attorney General, or any Federal supervisory agency regarding a possible violation of any provision of this subchapter or section 1956, 1957, or 1960 of title 18, or any regulation under any such provision, by the financial institution or any director, officer, or employee of the financial institution.
+Prohibition Against Discrimination.—No financial institution or nonfinancial trade or business may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Secretary of the Treasury, the Attorney General, or any Federal supervisory agency regarding a possible violation of any provision of this subchapter or section 1956, 1957, or 1960 of title 18, or any regulation under any such provision, by the financial institution or nonfinancial trade or business or any director, officer, or employee of the financial institution or nonfinancial trade or business.
 
 (b)
 
@@ -10,7 +10,7 @@ Enforcement.—Any employee or former employee who believes that such employee h
 
 (c)
 
-Remedies.—If the district court determines that a violation has occurred, the court may order the financial institution which committed the violation to—
+Remedies.—If the district court determines that a violation has occurred, the court may order the financial institution or nonfinancial trade or business which committed the violation to—
 
 &emsp;(1) reinstate the employee to the employee's former position;
 
@@ -28,9 +28,9 @@ Limitation.—The protections of this section shall not apply to any employee wh
 
 (e)
 
-Coordination With Other Provisions of Law.—This section shall not apply with respect to any financial institution which is subject to section 33 of the Federal Deposit Insurance Act, section 213 of the Federal Credit Union Act, or section 21A(q) of the Home Owners’ Loan Act <sup>1</sup> (as added by section 251(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991).
+Coordination With Other Provisions of Law.—This section shall not apply with respect to any financial institution or nonfinancial trade or business which is subject to section 33 of the Federal Deposit Insurance Act, section 213 of the Federal Credit Union Act, or section 21A(q) of the Home Owners’ Loan Act <sup>1</sup> (as addedby section 251(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991).
 
-(Added Pub. L. 102–550, title XV, §1563(a), Oct. 28, 1992, 106 Stat. 4072.)
+(Added Pub. L. 102–550, title XV, §1563(a), Oct. 28, 1992, 106 Stat. 4072; amended Pub. L. 107–56, title III, §365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 335.)
 
 #### References in Text
 
@@ -39,6 +39,18 @@ Section 33 of the Federal Deposit Insurance Act, referred to in subsec. (e), is 
 Section 213 of the Federal Credit Union Act, referred to in subsec. (e), is classified to section 1790b of Title 12.
 
 Section 21A(q) of the Home Owners’ Loan Act, referred to in subsec. (e), probably means section 21A(q) of the Federal Home Loan Bank Act, which is classified to section 1441a(q) of Title 12.
+
+#### Codification
+
+Another section 365(c) of Pub. L. 107–56 amended the table of sections at the beginning of this chapter.
+
+#### Amendments
+
+2001—Subsecs. (a), (c), (e). Pub. L. 107–56 inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ Definitions.—In this section—
 
 &emsp;(2) the term “forfeiture or confiscation judgment” means a final order of a foreign nation compelling a person or entity—
 
-&emsp;&emsp;(A) to pay a sum of money representing the proceeds of an offense described in Article 3, Paragraph 1, of the United Nations Convention, or any foreign offense described in section 1956(c)(7)(B) of title 18, or property the value of which corresponds to such proceeds; or
+&emsp;&emsp;(A) to pay a sum of money representing the proceeds of an offense described in Article 3, Paragraph 1, of the United Nations Convention, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States, or any foreign offense described in section 1956(c)(7)(B) of title 18, or property the value of which corresponds to such proceeds; or
 
 &emsp;&emsp;(B) to forfeit property involved in or traceable to the commission of such offense.
 
@@ -24,7 +24,7 @@ In general.—A foreign nation seeking to have a forfeiture or confiscation judg
 
 &emsp;&emsp;(B) certified <sup>1</sup> copy of the forfeiture or confiscation judgment;
 
-&emsp;&emsp;(C) an affidavit or sworn declaration establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant to defend against the charges and that the judgment rendered is in force and is not subject to appeal; and
+&emsp;&emsp;(C) an affidavit or sworn declaration establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons to defend against the charges and that the judgment rendered is in force and is not subject to appeal; and
 
 &emsp;&emsp;(D) such additional information and evidence as may be required by the Attorney General or the designee of the Attorney General.
 
@@ -46,7 +46,7 @@ Proceedings.—In a proceeding filed under paragraph (1)—
 
 &emsp;&emsp;(A) the United States shall be the applicant and the defendant or another person or entity affected by the forfeiture or confiscation judgment shall be the respondent;
 
-&emsp;&emsp;(B) venue shall lie in the district court for the District of Columbia or in any other district in which the defendant or the property that may be the basis for satisfaction of a judgment under this section may be found; and
+&emsp;&emsp;(B) venue shall lie in the district court for the District of Columbia or in any other district in which the defendant or the propertythat may be the basis for satisfaction of a judgment under this section may be found; and
 
 &emsp;&emsp;(C) the district court shall have personal jurisdiction over a defendant residing outside of the United States if the defendant is served with process in accordance with rule 4 of the Federal Rules of Civil Procedure.
 
@@ -64,13 +64,33 @@ In general.—The district court shall enter such orders as may be necessary to 
 
 &emsp;&emsp;(C) the foreign court lacked jurisdiction over the subject matter;
 
-&emsp;&emsp;(D) the defendant in the proceedings in the foreign court did not receive notice of the proceedings in sufficient time to enable him or her to defend; or
+&emsp;&emsp;(D) the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property of the proceedings <sup>2</sup> in sufficient time to enable him or her to defend; or
 
 &emsp;&emsp;(E) the judgment was obtained by fraud.
 
 &emsp;(2)
 
 Process.—Process to enforce a judgment under this section shall be in accordance with rule 69(a) of the Federal Rules of Civil Procedure.
+
+&emsp;(3)
+
+Preservation of property.—
+
+&emsp;&emsp;(A)
+
+In general.—To preserve the availability of property subject to a foreign forfeiture or confiscation judgment, the Government may apply for, and the court may issue, a restraining order pursuant to section 983(j) of title 18, at any time before or after an application is filed pursuant to subsection (c)(1) of this section.
+
+&emsp;&emsp;(B)
+
+Evidence.—The court, in issuing a restraining order under subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) may rely on information set forth in an affidavit describing the nature of the proceeding or investigation underway in the foreign country, and setting forth a reasonable basis to believe that the property to be restrained will be named in a judgment of forfeiture at the conclusion of such proceeding; or
+
+&emsp;&emsp;&emsp;(ii) may register and enforce a restraining order that has been issued by a court of competent jurisdiction in the foreign country and certified by the Attorney General pursuant to subsection (b)(2).
+
+&emsp;&emsp;(C)
+
+Limit on grounds for objection.—No person may object to a restraining order under subparagraph (A) on any ground that is the subject of parallel litigation involving the same property that is pending in a foreign court.
 
 (e)
 
@@ -80,15 +100,31 @@ Finality of Foreign Findings.—In entering orders to enforce the judgment, the 
 
 Currency Conversion.—The rate of exchange in effect at the time the suit to enforce is filed by the foreign nation shall be used in calculating the amount stated in any forfeiture or confiscation judgment requiring the payment of a sum of money submitted for registration.
 
-(Added Pub. L. 106–185, §15(a), Apr. 25, 2000, 114 Stat. 219.)
+(Added Pub. L. 106–185, §15(a), Apr. 25, 2000, 114 Stat. 219; amended Pub. L. 107–56, title III, §323, Oct. 26, 2001, 115 Stat. 315.)
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (c)(2)(C) and (d)(2), are set out in the Appendix to this title.
+
+#### Amendments
+
+<b>2001</b>—Subsec. (a)(2)(A). Pub. L. 107–56, §323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
+
+Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
+
+Subsec. (d)(1)(D). Pub. L. 107–56, §323(3), substituted “the foreign nation did not take steps, in accordance with the principles of due process, to give notice of the proceedings to a person with an interest in the property” for “the defendant in the proceedings in the foreign court did not receive notice”.
+
+Subsec. (d)(3). Pub. L. 107–56, §323(1), added par. (3).
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Effective Date
 
 Section applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
+
+<i><sup>2</sup></i><i> So in original. The words “of the proceedings” probably should not appear.</i>
 

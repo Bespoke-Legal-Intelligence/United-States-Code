@@ -2,7 +2,29 @@
 
 (a)
 
-In General.—Upon an application made under section 3122 of this title, the court shall enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device within the jurisdiction of the court if the court finds that the attorney for the Government or the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.
+In General.—
+
+&emsp;(1)
+
+Attorney for the government.—Upon an application made under section 3122(a)(1), the court shall enter an ex parte order authorizing the installation and use of a pen register or trap and trace device anywhere within the United States, if the court finds that the attorney for the Government has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation. The order, upon service of that order, shall apply to any person or entity providing wire or electronic communication service in the United States whose assistance may facilitate the execution of the order. Whenever such an order is served on any person or entity not specifically named in the order, upon request of such person or entity, the attorney for the Government or law enforcement or investigative officer that is serving the order shall provide written or electronic certification that the order applies to the person or entity being served.
+
+&emsp;(2)
+
+State investigative or law enforcement officer.—Upon an application made under section 3122(a)(2), the court shall enter an ex parte order authorizing the installation and use of a pen register or trap and trace device within the jurisdiction of the court, if the court finds that the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.
+
+&emsp;(3)(A) Where the law enforcement agency implementing an ex parte order under this subsection seeks to do so by installing and using its own pen register or trap and trace device on a packet-switched data network of a provider of electronic communication service to the public, the agency shall ensure that a record will be maintained which will identify—
+
+&emsp;&emsp;(i) any officer or officers who installed the device and any officer or officers who accessed the device to obtain information from the network;
+
+&emsp;&emsp;(ii) the date and time the device was installed, the date and time the device was uninstalled, and the date, time, and duration of each time the device is accessed to obtain information;
+
+&emsp;&emsp;(iii) the configuration of the device at the time of its installation and any subsequent modification thereof; and
+
+&emsp;&emsp;(iv) any information which has been collected by the device.
+
+> &emsp;To the extent that the pen register or trap and trace device can be set automatically to record this information electronically, the record shall be maintained electronically throughout the installation and use of such device.
+
+&emsp;(B) The record maintained under subparagraph (A) shall be provided ex parte and under seal to the court which entered the ex parte order authorizing the installation and use of the device within 30 days after termination of the order (including any extensions thereof).
 
 (b)
 
@@ -10,11 +32,11 @@ Contents of Order.—An order issued under this section—
 
 &emsp;(1) shall specify—
 
-&emsp;&emsp;(A) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line to which the pen register or trap and trace device is to be attached;
+&emsp;&emsp;(A) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied;
 
 &emsp;&emsp;(B) the identity, if known, of the person who is the subject of the criminal investigation;
 
-&emsp;&emsp;(C) the number and, if known, physical location of the telephone line to which the pen register or trap and trace device is to be attached and, in the case of a trap and tracedevice, the geographic limits of the trap and trace order; and
+&emsp;&emsp;(C) the attributes of the communications to which the order applies, including the number or other identifier and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied, and, in the case of an order authorizing installation and use of a trap and trace device under subsection (a)(2), the geographic limits of the order; and
 
 &emsp;&emsp;(D) a statement of the offense to which the information likely to be obtained by the pen register or trap and trace device relates; and
 
@@ -32,11 +54,21 @@ Nondisclosure of Existence of Pen Register or a Trap and Trace Device.—An orde
 
 &emsp;(1) the order be sealed until otherwise ordered by the court; and
 
-&emsp;(2) the person owning or leasing the line to which the pen register or a trap and trace device is attached, or who has been ordered by the court to provide assistance to the applicant, not disclose the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber, or to any other person, unless or until otherwise ordered by the court.
+&emsp;(2) the person owning or leasing the line or other facility to which the pen register or a trap and trace device is attached or applied, or who is obligated by the order to provide assistance to the applicant, not disclose the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber, or to any other person, unless or until otherwise ordered by the court.
 
-(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1869.)
+(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1869; amended Pub. L. 107–56, title II, §216(b), Oct. 26, 2001, 115 Stat. 288.)
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–56, §216(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Upon an application made under section 3122 of this title, the court shall enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device within the jurisdiction of the court if the court finds that the attorney for the Government or the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.”
+
+Subsec. (b)(1)(A). Pub. L. 107–56, §216(b)(2)(A), inserted “or other facility” after “telephone line” and “or applied” before semicolon at end.
+
+Subsec. (b)(1)(C). Pub. L. 107–56, §216(b)(2)(B), added subpar. (C) and struck out former subpar (C) which read as follows: “the number and, if known, physical location of the telephone line to which the pen register or trap and trace device is to be attached and, in the case of a trap and trace device, the geographic limits of the trap and trace order; and”.
+
+Subsec. (d)(2). Pub. L. 107–56, §216(b)(3), inserted “or other facility” after “leasing the line” and substituted “or applied, or who is obligated by the order” for “, or who has been ordered by the court”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3121, 3122, 3124, 3125 of this title.
+This section is referred to in sections 2707, 3121, 3122, 3124, 3125 of this title.
 

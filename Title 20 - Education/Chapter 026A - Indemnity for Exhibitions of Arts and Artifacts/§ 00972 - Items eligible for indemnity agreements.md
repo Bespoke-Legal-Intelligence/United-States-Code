@@ -28,7 +28,7 @@ The Council may make an indemnity agreement under this chapter with respect to�
 
 #### Effective Date of 1985 Amendment
 
-Section 302(b) of Pub. L. 99–194 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any exhibition which is certified under section 3(a) of the Arts and Artifacts Indemnity Act \[subsec. (a) of this section\] after the date of enactment of this Act \[Dec. 20, 1985\].”
+Section 302(b) of Pub. L. 99–194 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any exhibition which is certified under section 3(a) of the Arts and ArtifactsIndemnity Act \[subsec. (a) of this section\] after the date of enactment of this Act \[Dec. 20, 1985\].”
 
 #### Section Referred to in Other Sections
 

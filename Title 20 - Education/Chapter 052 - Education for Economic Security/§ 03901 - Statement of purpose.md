@@ -16,8 +16,6 @@ Part A of title III of Pub. L. 98–377, as amended, which enacted part A of sub
 
 Title V of Pub. L. 98–377, which enacted subchapter V of this chapter, is known as “Asbestos School Hazard Abatement Act of 1984”, see note set out under section 4011 of this title.
 
-Title VI of Pub. L. 98–377, which enacted subchapter VI of this chapter, is known as “Excellence in Education Act”, see note set out under section 4031 of this title.
-
 Title VIII of Pub. L. 98–377, which enacted subchapter VIII of this chapter, is known as “The Equal Access Act”, see note set out under section 4071 of this title.
 
 Title IX of Pub. L. 98–377, which enacted subchapter IX of this chapter, is known as the “Star Schools Program Assistance Act”, see note set out under section 4081 of this title.

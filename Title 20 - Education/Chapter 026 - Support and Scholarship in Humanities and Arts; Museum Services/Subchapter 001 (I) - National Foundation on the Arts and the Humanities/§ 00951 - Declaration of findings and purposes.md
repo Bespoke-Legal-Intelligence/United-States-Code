@@ -18,7 +18,7 @@ The Congress finds and declares the following:
 
 &emsp;(8) The world leadership which has come to the United States cannot rest solely upon superior power, wealth, and technology, but must be solidly founded upon worldwide respect and admiration for the Nation's high qualities as a leader in the realm of ideas and of the spirit.
 
-&emsp;(9) Americans should receive in school, background and preparation in the arts and humanities to enable them to recognize and appreciate the aesthetic dimensions of our lives, the diversity of excellence that comprises our cultural heritage, and artistic and scholarly expression.
+&emsp;(9) Americans should receive in school, background and preparation in the arts and humanities to enable them to recognize and appreciate the aesthetic dimensions of our lives,the diversity of excellence that comprises our cultural heritage, and artistic and scholarly expression.
 
 &emsp;(10) It is vital to a democracy to honor and preserve its multicultural artistic heritage as well as support new ideas, and therefore it is essential to provide financial assistance to its artists and the organizations that support their work.
 

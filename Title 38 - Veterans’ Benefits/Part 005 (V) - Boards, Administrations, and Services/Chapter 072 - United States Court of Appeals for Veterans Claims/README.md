@@ -38,8 +38,9 @@
 | [7282\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007282%20-%20Budget%20and%20expenditures.md) | Budget and expenditures. |
 | [7283\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007283%20-%20Disposition%20of%20fees.md) | Disposition of fees. |
 | [7284\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007284%20-%20Fee%20for%20transcript%20of%20record.md) | Fee for transcript of record. |
-| [7285\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007285%20-%20Practice%20fee.md) | Practice fee. |
+| [7285\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007285%20-%20Practice%20and%20registration%20fees.md) | Practice and registration fees. |
 | [7286\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007286%20-%20Judicial%20Conference%20of%20the%20Court.md) | Judicial Conference of the Court. |
+| [7287\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/%C2%A7%2007287%20-%20Administration.md) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,6 +65,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–103, title VI, §§604(c)(2), 605(b), Dec. 27, 2001, 115 Stat. 1000, substituted “Practice and registration fees” for “Practice fee” in item 7285 and added item 7287.
 
 1999—Pub. L. 106–117, title X, §§1021(b), 1024(b), Nov. 30, 1999, 113 Stat. 1592, 1594, added items 7257 and 7299.
 

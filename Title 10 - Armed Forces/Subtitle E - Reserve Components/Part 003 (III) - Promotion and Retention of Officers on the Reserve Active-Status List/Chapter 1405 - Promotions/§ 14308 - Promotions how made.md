@@ -12,11 +12,25 @@ Promotion; How Made; Order.—(1) Officers on a promotion list for a competitive
 
 (3) Officers to be promoted to the grade of first lieutenant or lieutenant (junior grade) shall be promoted in accordance with regulations prescribed by the Secretary of the military department concerned.
 
+(4)(A) Officers in the permanent grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who are on an approved all-fully-qualified-officers list shall be promoted to the next higher grade in accordance with regulations prescribed by the Secretary concerned. Such promotions shall be in the manner specified in section 12203 of this title.
+
+(B) An all-fully-qualified-officers list shall be considered to be approved for purposes of subparagraph (A) when the list is approved by the President. When so approved, such a list shall be treated in the same manner as a promotion list under this chapter and chapter 1403 of this title.
+
+(C) The Secretary of a military department may make a recommendation to the President for approval of an all-fully-qualified-officers list only when the Secretary determines that all officers on the list are needed in the next higher grade to accomplish mission objectives.
+
+(D) For purposes of this paragraph, an all-fully-qualified-officers list is a list of all officers on the reserve active-status list in a grade who the Secretary of the military department concerned determines—
+
+&emsp;(i) are fully qualified for promotion to the next higher grade; and
+
+&emsp;(ii) would be eligible for consideration for promotion to the next higher grade by a selection board convened under section 14101(a) of this title upon the convening of such a board.
+
 (c)
 
 Date of Rank.—(1) The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d)(2) of this title.
 
-(2) Except as specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer's promotion is adjusted to reflect a date earlier than the actual date of the officer's promotion.
+(2) The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under section 741(d)(4) of this title in the date of rank of an officer appointed to a higher grade under section 624(a) of this title. In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting “reserve active-status list” for “active-duty list”.
+
+(3) Except as provided in paragraph (2) or as otherwise specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer's promotion is adjusted to reflect a date earlier than the actual date of the officer's promotion.
 
 (d)
 
@@ -36,9 +50,9 @@ Effective Date of Promotion After Federal Recognition.—The effective date of a
 
 (g)
 
-Army and Air Force General Officer Promotions.—A reserve officer of the Army orthe Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
+Army and Air Force General Officer Promotions.—A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §§505(b)(1), 506(b), Dec. 28, 2001, 115 Stat. 1086, 1089.)
 
 #### Prior Provisions
 
@@ -46,11 +60,21 @@ Provisions similar to those in subsecs. (a), (d), and (f) of this section were c
 
 #### Amendments
 
+2001—Subsec. (b)(4). Pub. L. 107–107, §505(b)(1), added par. (4).
+
+Subsec. (c)(2). Pub. L. 107–107, §506(b)(1)(B), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (c)(3). Pub. L. 107–107, §506(b)(1)(A), (2), redesignated par. (2) as (3) and inserted “provided in paragraph (2) or as otherwise” after “Except as”.
+
 1997—Subsec. (e)(2). Pub. L. 105–85, §514(c)(1), inserted “a grade below colonel in” after “an officer in”.
 
 Subsec. (g). Pub. L. 105–85, §514(c)(2), inserted “or the Air Force” after “A reserve officer of the Army”, substituted “in the Army Reserve or the Air Force Reserve, as the case may be, in that grade” for “in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army”, and struck out at end “A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade.”
 
+#### Effective Date of 2001 Amendment
+
+Subsec. (c)(2) of this section applicable with respect to any report of a selection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after Dec. 28, 2001, and Secretary of the military department concerned may apply subsec. (c)(2) of this section in the case of an appointment of an officer to a higher grade resulting from a report of a selection board submitted to the Secretary before Dec. 28, 2001, if the Secretary determines that such appointment would have been made on an earlier date that is on or after Oct. 1, 2001, and was delayed under the circumstances specified in section 741(d)(4) of this title, see section 506(c) of Pub. L. 107–107, set out as a note under section 741 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14304 of this title; title 32 section 310; title 37 section 905.
+This section is referred to in sections 14101, 14301, 14304, 14502, 14504 of this title; title 32 section 310; title 37 section 905.
 

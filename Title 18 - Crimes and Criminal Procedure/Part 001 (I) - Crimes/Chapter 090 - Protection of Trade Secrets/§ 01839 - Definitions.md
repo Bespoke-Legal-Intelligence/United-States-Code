@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(1) the term “foreign instrumentality” means any agency, bureau, ministry, component, institution, association, or any legal,commercial, or business organization, corporation, firm, or entity that is substantially owned, controlled, sponsored, commanded, managed, or dominated by a foreign government;
+&emsp;(1) the term “foreign instrumentality” means any agency, bureau, ministry, component, institution, association, or any legal, commercial, or business organization, corporation, firm, or entity that is substantially owned, controlled, sponsored, commanded, managed, or dominated by a foreign government;
 
 &emsp;(2) the term “foreign agent” means any officer, employee, proxy, servant, delegate, or representative of a foreign government;
 

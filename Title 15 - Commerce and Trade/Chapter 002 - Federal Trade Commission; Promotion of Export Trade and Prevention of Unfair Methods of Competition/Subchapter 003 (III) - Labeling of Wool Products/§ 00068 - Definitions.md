@@ -4,7 +4,7 @@ As used in this subchapter—
 
 (a) The term “person” means an individual, partnership, corporation, association, or any other form of business enterprise, plural or singular, as the case demands.
 
-(b) The term “wool” means the fiber from the fleece of the sheep or lamb or hair of the Angoraor Cashmere goat (and may include the so-called specialty fibers from the hair of the camel, alpaca, llama, and vicuna) which has never been reclaimed from any woven or felted wool product.
+(b) The term “wool” means the fiber from the fleece of the sheep or lamb or hair of the Angora or Cashmere goat (and may include the so-called specialty fibers from the hair of the camel, alpaca, llama, and vicuna) which has never been reclaimed from any woven or felted wool product.
 
 (c) The term “recycled wool” means (1) the resulting fiber when wool has been woven or felted into a wool product which, without ever having been utilized in any way by the ultimate consumer, subsequently has been made into a fibrous state, or (2) the resulting fiber when wool or reprocessed wool has been spun, woven, knitted, or felted into a wool product which, after having been used in any way by the ultimate consumer, subsequently has been made into a fibrous state.
 

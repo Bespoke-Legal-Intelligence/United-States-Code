@@ -52,7 +52,7 @@ As used in this chapter, the term—
 
 &emsp;(13) “Task Force” means the Aquatic Nuisance Species Task Force established under section 4721 of this title;
 
-&emsp;(14) “territorial sea” means the belt of the sea measured from the baseline of the United States determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988;
+&emsp;(14) “territorial sea” means the belt of the sea measured from the baseline of the UnitedStates determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988;
 
 &emsp;(15) “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere;
 

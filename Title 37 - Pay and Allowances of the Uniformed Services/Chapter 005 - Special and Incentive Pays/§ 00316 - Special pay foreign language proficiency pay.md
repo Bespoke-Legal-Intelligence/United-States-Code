@@ -30,7 +30,7 @@
 
 (3) This subsection does not apply to a member who is entitled to basic pay under section 204 of this title.
 
-(d) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary, by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
+(d) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdictionof the Secretary, by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
 
 (Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884; amended Pub. L. 104–201, div. A, title VI, §616(a), (b), Sept. 23, 1996, 110 Stat. 2547; Pub. L. 106–65, div. A, title VI, §625(a), Oct. 5, 1999, 113 Stat. 654.)
 

@@ -106,7 +106,7 @@ Establishment and Forms of Partnership Projects.—(1) A partnership project und
 
 (2) Projects under the program may include demonstration projects.
 
-(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470; amended Pub. L. 105–85, div. A, title II, §241(a), title X, §1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, §1066(a)(30), Oct. 5, 1999, 113 Stat. 772.)
+(Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470; amended Pub. L. 105–85, div. A, title II, §241(a), title X,§1073(a)(64), Nov. 18, 1997, 111 Stat. 1665, 1903; Pub. L. 106–65, div. A, title X, §1066(a)(30), Oct. 5, 1999, 113 Stat. 772.)
 
 #### Amendments
 

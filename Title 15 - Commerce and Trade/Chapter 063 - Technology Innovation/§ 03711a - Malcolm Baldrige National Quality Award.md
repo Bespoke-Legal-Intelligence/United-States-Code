@@ -8,7 +8,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 (1) The President (on the basis of recommendations received from the Secretary), or the Secretary, shall periodically make the award to companies and other organizations which in the judgment of the President or the Secretary have substantially benefited the economic or social well-being of the United States through improvements in the quality of their goods or services resulting from the effective practice of quality management, and which as a consequence are deserving of special recognition.
 
-(2) The presentation of the award shall be made by the President or the Secretary withsuch ceremonies as the President or the Secretary may deem proper.
+(2) The presentation of the award shall be made by the President or the Secretary with such ceremonies as the President or the Secretary may deem proper.
 
 (3) An organization to which an award is made under this section, and which agrees to help other American organizations improve their quality management, may publicize its receipt of such award and use the award in its advertising, but it shall be ineligible to receive another such award in the same category for a period of 5 years.
 
@@ -64,7 +64,7 @@ The Secretary shall prepare and submit to the President and the Congress, within
 
 1998—Subsec. (c)(1)(D), (E). Pub. L. 105–309, §3(b), added subpars. (D) and (E).
 
-Subsec. (c)(3). Pub. L. 105–309, §3(a), inserted “, unless the Secretary determines that a third award is meritedand can be given at no additional cost to the Federal Government” after “in any year”.
+Subsec. (c)(3). Pub. L. 105–309, §3(a), inserted “, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government” after “in any year”.
 
 1992—Subsec. (f). Pub. L. 102–245 inserted at end “The Director is authorized to use appropriated funds to carry out responsibilities under this chapter.”
 

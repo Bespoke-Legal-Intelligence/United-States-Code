@@ -10,7 +10,7 @@ In General.—A person shall be fined under title 18, imprisoned for not more th
 
 (b)
 
-Knowledge of Regulations.—For purposes of subsection (a), knowledge by the person of the existence of a regulation or requirement related to the transportation of hazardous material prescribed by the Secretary under this part is not an element of an offense under this section but shall be considered in mitigation of the penalty.
+Knowledge of Regulations.—For purposes of subsection (a), knowledge by the person of the existence of a regulation or requirement relatedto the transportation of hazardous material prescribed by the Secretary under this part is not an element of an offense under this section but shall be considered in mitigation of the penalty.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1239; Pub. L. 106–181, title V, §507, Apr. 5, 2000, 114 Stat. 140.)
 

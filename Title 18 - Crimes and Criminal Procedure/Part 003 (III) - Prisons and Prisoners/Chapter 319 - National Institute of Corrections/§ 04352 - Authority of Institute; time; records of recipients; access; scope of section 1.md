@@ -4,7 +4,7 @@
 
 &emsp;(1) to receive from or make grants to and enter into contracts with Federal, State, and general units of local government, public and private agencies, educational institutions, organizations, and individuals to carry out the purposes of this chapter;
 
-&emsp;(2) to serve as a clearinghouse and information center for the collection, preparation, anddissemination of information on corrections, including, but not limited to, programs for prevention of crime and recidivism, training of corrections personnel, and rehabilitation and treatment of criminal and juvenile offenders;
+&emsp;(2) to serve as a clearinghouse and information center for the collection, preparation, and dissemination of information on corrections, including, but not limited to, programs for prevention of crime and recidivism, training of corrections personnel, and rehabilitation and treatment of criminal and juvenile offenders;
 
 &emsp;(3) to assist and serve in a consulting capacity to Federal, State, and local courts, departments, and agencies in the development, maintenance, and coordination of programs, facilities, and services, training, treatment, and rehabilitation with respect to criminal and juvenile offenders;
 
@@ -26,7 +26,7 @@
 
 &emsp;(12) to confer with and avail itself of the assistance, services, records, and facilities of State and local governments or other public or private agencies, organizations, or individuals;
 
-&emsp;(13) to enter into contracts with public or private agencies, organizations, or individuals, for the performance of any of the functions of the Institute; and
+&emsp;(13) to enter into contracts with public or private agencies, organizations, or individuals,for the performance of any of the functions of the Institute; and
 
 &emsp;(14) to procure the services of experts and consultants in accordance with section 3109 of title 5 of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
 
@@ -60,7 +60,7 @@ Pub. L. 100–690, title VI, §6292, Nov. 18, 1988, 102 Stat. 4369, provided tha
 
 “(a)
 
-In General.—The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the ‘center’) for training Federal,State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
+In General.—The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the ‘center’) for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
 
 “(b)
 

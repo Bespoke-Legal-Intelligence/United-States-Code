@@ -1,6 +1,6 @@
 ### §1795h. Audit of financial transactions
 
-The Comptroller General of the United States shall audit the Central Liquidity Facility under such rules and regulations as the Comptroller may prescribe.
+The Comptroller General of the United States shall audit the Central Liquidity Facility undersuch rules and regulations as the Comptroller may prescribe.
 
 (June 26, 1934, ch. 750, title III, formerly subch. III, §309, as added Pub. L. 95–630, title XVIII, §1802, Nov. 10, 1978, 92 Stat. 3723; amended Pub. L. 96–221, title III, §309(b)(1), Mar. 31, 1980, 94 Stat. 149.)
 

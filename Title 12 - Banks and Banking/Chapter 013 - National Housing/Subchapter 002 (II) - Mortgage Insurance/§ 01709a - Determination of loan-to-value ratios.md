@@ -6,7 +6,7 @@ The Secretary of Housing and Urban Development, in establishing maximum loan-to-
 
 #### References in Text
 
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.).For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 Amendments by sections 101, 102, and 103 of this act, referred to in text, refers to amendment of sections 1709(b), (i), 1715k(d)(3), and 1715m(b) of this title by Pub. L. 85–104.
 

@@ -38,7 +38,7 @@ Words “felony or larceny” in subsection (a) were changed to “felony affect
 
 Use of term “felony” without limitation caused confusion as to whether a common law, State, or Federal felony was intended. Change conforms with <i>Jerome v. U.S</i>. (1943, 63 S. Ct. 483, 318 U.S. 101, 87 L. Ed. 640): “§2(a) \[§588b(a) of title 12, U.S.C., 1940 ed., Banks and Banking\] is not deprived of vitality if it is interpreted to exclude State felonies and to include only those Federal felonies which affect banks protected by the Act.”
 
-Minimum punishment provisions were omitted from subsection (c). (See reviser's note under section 203 of this title.) Also the provisions of subsection (b) measuring the punishment by the amount involved were extended and made applicable to the receiver as well as the thief. There seems no good reason why the thief ofless than $100 should be liable to a maximum of imprisonment for one year and the receiver subject to 10 years.
+Minimum punishment provisions were omitted from subsection (c). (See reviser's note under section 203 of this title.) Also the provisions of subsection (b) measuring the punishment by the amount involved were extended and made applicable to the receiver as well as the thief. There seems no good reason why the thief of less than $100 should be liable to a maximum of imprisonment for one year and the receiver subject to 10 years.
 
 The figures “100” were substituted for “50” in view of the fact that the present worth of $100 is less than the value of $50 when that sum was fixed as the dividing line between petit larceny and grand larceny.
 
@@ -88,5 +88,5 @@ Subsec. (h). Pub. L. 91–468, §8(2), added subsec. (h).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1956, 3559, 5032 of this title.
+This section is referred to in sections 1956, 3559, 5032 of this title; title 42 section 14135a.
 

@@ -42,7 +42,9 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-<b>2001</b>—Salaries of district judges increased to $145,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2001, by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+<b>2002</b>—Salaries of district judges increased to $150,000 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2002, by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+<b>2001</b>—Salaries of district judges increased to $145,100 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2001, by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, formerly set out as a note under section 5332 of Title 5.
 
 <b>2000</b>—Salaries of district judges increased to $141,300 per annum, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
 

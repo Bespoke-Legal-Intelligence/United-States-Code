@@ -14,7 +14,7 @@
 
 (g) Upon request of any addressee, the order of the Postal Service shall include the names of any of his minor children who have not attained their nineteenth birthday, and who reside with the addressee.
 
-(h) The provisions of subchapter II of chapter 5, relating to administrative procedure, andchapter 7, relating to judicial review, of title 5, shall not apply to any provisions of this section.
+(h) The provisions of subchapter II of chapter 5, relating to administrative procedure, and chapter 7, relating to judicial review, of title 5, shall not apply to any provisions of this section.
 
 (i) For purposes of this section—
 

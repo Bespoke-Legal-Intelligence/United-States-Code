@@ -14,7 +14,7 @@ For purposes of this chapter, if—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the provisions of subsection (a) shall not affect the inclusion ratio determined with respect to any trust. Under regulations prescribed by the Secretary, notwithstanding the preceding sentence, proper adjustment shall be made to the inclusion ratio with respect to such trust to take into account any tax under this chapter borne by such trust which is imposed by this chapter on the transfer described in subsection (a).
+&emsp;Except as provided in paragraph (2), the provisions of subsection (a) shall not affect theinclusion ratio determined with respect to any trust. Under regulations prescribed by the Secretary, notwithstanding the preceding sentence, proper adjustment shall be made to the inclusion ratio with respect to such trust to take into account any tax under this chapter borne by such trust which is imposed by this chapter on the transfer described in subsection (a).
 
 #### (2) Special rule for pour-over trust
 

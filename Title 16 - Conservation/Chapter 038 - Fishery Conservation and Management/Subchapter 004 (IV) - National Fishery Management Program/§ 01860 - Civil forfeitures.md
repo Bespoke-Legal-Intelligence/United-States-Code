@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by section 1857 of this title (other than any act for which the issuance of a citation under section 1861(c) of this title is sufficient sanction) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish (or the fair market value thereof) shall, be forfeited to the United States pursuant to a civil proceeding under this section.
+Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo)used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by section 1857 of this title (other than any act for which the issuance of a citation under section 1861(c) of this title is sufficient sanction) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish (or the fair market value thereof) shall, be forfeited to the United States pursuant to a civil proceeding under this section.
 
 #### (b) Jurisdiction of district courts
 
@@ -34,7 +34,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 #### (e) Rebuttable presumptions
 
-(1) For purposes of this section, it shall be a rebuttable presumption that all fish found onboard a fishing vessel which is seized in connection with an act prohibited by section 1857 of this title were taken or retained in violation of this chapter.
+(1) For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel which is seized in connection with an act prohibited by section 1857 of this title were taken or retained in violation of this chapter.
 
 (2) For purposes of this chapter, it shall be a rebuttable presumption that any fish of a species which spawns in fresh or estuarine waters and migrates to ocean waters that is found on board a vessel is of United States origin if the vessel is within the migratory range of the species during that part of the year to which the migratory range applies.
 

@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(II) implementation of programs to increase the number of individuals training for and placed in nontraditional employment; and
 
-&emsp;&emsp;&emsp;(vii) carrying out other activities authorized in this section that the State determines to be necessary to assist local areas in carrying out activities describedin subsection (d) or (e) of this section through the statewide workforce investment system.
+&emsp;&emsp;&emsp;(vii) carrying out other activities authorized in this section that the State determines to be necessary to assist local areas in carrying out activities described in subsection (d) or (e) of this section through the statewide workforce investment system.
 
 #### (B) Limitation
 
@@ -82,7 +82,7 @@
 
 #### (ii) Use of funds
 
-&emsp;&emsp;&emsp;Funds made available for administrative costs under clause (i) may be used for the administrative cost of any of the statewide youth activities or statewide employment and training activities, regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title.
+&emsp;&emsp;&emsp;Funds made available for administrative costs under clause (i) may be used for theadministrative cost of any of the statewide youth activities or statewide employment and training activities, regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title.
 
 #### (b) Local employment and training activities
 
@@ -296,7 +296,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(I) the State list of eligible providers of training services required under section 2842(e) of this title, with a description of the programs through which the providers may offer the training services, and the information identifying eligible providers of on-the-job training and customized training required under section 2842(h) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the performance information and performance cost information relating toeligible providers of training services described in subsections (e) and (h) of section 2842 of this title.
+&emsp;&emsp;&emsp;&emsp;(II) the performance information and performance cost information relating to eligible providers of training services described in subsections (e) and (h) of section 2842 of this title.
 
 #### (iii) Individual training accounts
 
@@ -398,5 +398,5 @@ The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49a, 49<i>l</i>–2, 772, 2102, 2801, 2821, 2822, 2832, 2841, 2842, 2853, 2854, 2863, 2871, 2888, 2913, 2918, 2931, 2934, 2944 of this title; title 5 section 3502; title 42 section 3056h.
+This section is referred to in sections 49a, 49<i>l</i>–2, 772, 2102, 2801, 2821, 2822, 2832, 2841, 2842, 2853, 2854, 2863, 2871, 2888, 2913, 2918, 2931, 2934, 2944 of this title; title 5 section 3502; title 42 sections 3056, 3056c, 3056j.
 

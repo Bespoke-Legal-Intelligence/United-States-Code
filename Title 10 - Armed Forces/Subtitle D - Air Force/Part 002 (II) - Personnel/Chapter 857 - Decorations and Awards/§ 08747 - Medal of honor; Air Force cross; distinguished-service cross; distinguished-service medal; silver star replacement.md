@@ -1,8 +1,8 @@
 ### §8747. Medal of honor; Air Force cross; distinguished-service cross; distinguished-service medal; silver star: replacement
 
-Any medal of honor, Air Force cross, distinguished-service cross, distinguished-service medal, or silver star, or any bar, ribbon, rosette, or other device issued for wear with or in place of any of them, that is lost or destroyed, or becomes unfit for use, without fault or neglect of the person to whom it was awarded, shall be replaced without charge.
+Any medal of honor, Air Force cross, distinguished-service cross, distinguished-service medal, or silver star, or any bar, ribbon, rosette, or other device issued for wear with or in place of any of them, that is stolen, lost, or destroyed, or becomes unfit for use, without fault or neglect of the person to whom it was awarded, shall be replaced without charge.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 541; Pub. L. 86–593, §1(4), July 6, 1960, 74 Stat. 332.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 541; Pub. L. 86–593, §1(4), July 6, 1960, 74 Stat. 332; Pub. L. 107–107, div. A, title V, §553(c)(2), Dec. 28, 2001, 115 Stat. 1116.)
 
 Historical and Revision Notes
 
@@ -22,9 +22,11 @@ The words “issued for wear with or in place of any of them” are inserted for
 
 #### Amendments
 
+2001—Pub. L. 107–107 substituted “stolen, lost,” for “lost”.
+
 1960—Pub. L. 86–593 inserted “Air Force cross” in section catchline and in text.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 8748 of this title.
+This section is referred to in section 8748 of this title; title 18 section 704.
 

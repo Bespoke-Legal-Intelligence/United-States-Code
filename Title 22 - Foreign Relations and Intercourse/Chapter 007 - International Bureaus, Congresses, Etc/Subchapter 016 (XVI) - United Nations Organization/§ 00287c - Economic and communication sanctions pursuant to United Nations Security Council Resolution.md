@@ -6,7 +6,7 @@ Notwithstanding the provisions of any other law, whenever the United States is c
 
 #### (b) Penalties
 
-Any person who willfully violates or evades or attempts to violate or evade any order, rule, or regulation issued by the President pursuant to subsection (a) of this section shall, upon conviction, be find <sup>1</sup> not more than $10,000 or, if a natural person, be imprisoned for not more than ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and anyproperty, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.
+Any person who willfully violates or evades or attempts to violate or evade any order, rule, or regulation issued by the President pursuant to subsection (a) of this section shall, upon conviction, be find <sup>1</sup> not more than $10,000 or, if a natural person, be imprisoned for not more than ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.
 
 #### (c) Steel mill products containing chromium; certificate of origin; regulations; subpenas; certificate exemption; release from customs custody; definitions
 
@@ -74,7 +74,7 @@ Section 2 of Pub. L. 95–12 provided that:
 
 #### Executive Order No. 11322
 
-Ex. Ord. No. 11322, Jan. 5, 1967, 32 F.R. 119, which related to transactions involving Southern Rhodesia, wasrevoked by Ex. Ord. No. 12183, Dec. 16, 1979, 44 F.R. 74787, set out below.
+Ex. Ord. No. 11322, Jan. 5, 1967, 32 F.R. 119, which related to transactions involving Southern Rhodesia, was revoked by Ex. Ord. No. 12183, Dec. 16, 1979, 44 F.R. 74787, set out below.
 
 #### Executive Order No. 11419
 
@@ -114,7 +114,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12918, May 26, 1994, 59 F.R. 28205, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.), the Arms Export Control Act (22 U.S.C. 2751 <i>et seq</i>.), and section 301 of title 3, United States Code, and in view of United Nations Security Council Resolution 918 of May 17, 1994, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), theExport Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.), the Arms Export Control Act (22 U.S.C. 2751 <i>et seq</i>.), and section 301 of title 3, United States Code, and in view of United Nations Security Council Resolution 918 of May 17, 1994, it is hereby ordered as follows:
 
 Section 1. <i>Arms Embargo</i>. The following activities are prohibited, notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted before the effective date of this order, except to the extent provided in regulations, orders, directives, or licenses that may hereafter be issued pursuant to this order: (a) The sale or supply to Rwanda from the territory of the United States by any person, or by any United States person in any foreign country or other location, or using any U.S.-registered vessel or aircraft, of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary police equipment, and spare parts for the aforementioned, irrespective of origin. This prohibition does not apply to activities related to the United Nations Assistance Mission for Rwanda or the United Nations Observer Mission Uganda-Rwanda or other entities permitted to have such items by the United Nations Security Council; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for any of the following supportive services:
+The Assistant Secretary shall carry out a program for making grants to States under Stateplans approved under section 3027 of this title for any of the following supportive services:
 
 &emsp;(1) health (including mental health), education and training, welfare, informational, recreational, homemaker, counseling, or referral services;
 
@@ -92,7 +92,7 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(12), is Pub. L.
 
 2000—Subsec. (a)(2). Pub. L. 106–501, §311(1)(A), substituted “and services provided by an area agency on aging, in conjunction with local transportation service providers, public transportation agencies, and other local government agencies, that result in increased provision of such transportation services for older individuals” for “or both”.
 
-Subsec. (a)(4). Pub. L. 106–501, §311(1)(B), substituted “or (D) to assist older individuals in obtaining housing for which assistance is provided under programs of theDepartment of Housing and Urban Development;” for “or (D) to receive applications from older individuals for housing under section 1701q of title 12;”.
+Subsec. (a)(4). Pub. L. 106–501, §311(1)(B), substituted “or (D) to assist older individuals in obtaining housing for which assistance is provided under programs of the Department of Housing and Urban Development;” for “or (D) to receive applications from older individuals for housing under section 1701q of title 12;”.
 
 Subsec. (a)(5). Pub. L. 106–501, §311(1)(C), substituted “including—” and subpars. (A) to (C) for “including client assessment through case management and integration and coordination of community services such as preinstitution evaluation and screening and home health services, homemaker services, shopping services, escort services, reader services, and letter writing services, through resource development and management to assist such individuals to live independently in a home environment;”.
 
@@ -108,7 +108,7 @@ Subsecs. (c), (d). Pub. L. 106–501, §311(2), added subsecs. (c) and (d).
 
 1993—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” in introductory and concluding provisions and in par. (14).
 
-Subsec. (a)(15). Pub. L. 103–171, §2(12), which directed amendment of par. (15) by substituting “subpart III of part A of subchapter XI of this chapter and section 3027(a)(16) of this title” for “clause (16) of section 3027(a) of this title”, was executed by making the substitution for “paragraph (16) of section 3027(a) of this title” to reflect the probable intent of Congress and amendment by Pub. L. 102–375, §904(a)(15)(C). See 1992 Amendment note below.
+Subsec. (a)(15). Pub. L. 103–171, §2(12), which directed amendment of par. (15) by substituting “subpart III of part A of subchapter XI of this chapter and section 3027(a)(16) of this title” for “clause (16) of section3027(a) of this title”, was executed by making the substitution for “paragraph (16) of section 3027(a) of this title” to reflect the probable intent of Congress and amendment by Pub. L. 102–375, §904(a)(15)(C). See 1992 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
 

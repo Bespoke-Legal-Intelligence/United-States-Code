@@ -28,7 +28,7 @@ Notification and Analysis.—(1) A rail carrier intending to downgrade or dispos
 
 &emsp;(E) economic characteristics of rail passenger transportation related to the facility and the extent to which the characteristics are consistent with sound economic principles of short haul or long haul rail transportation; and
 
-&emsp;(F) the feasibility of applying effective internal cost controls to the facility and routeserved by the facility to improve the ratio of passenger revenue to transportation expenses (excluding maintenance of tracks, structures, and equipment and depreciation).
+&emsp;(F) the feasibility of applying effective internal cost controls to the facility and route served by the facility to improve the ratio of passenger revenue to transportation expenses (excluding maintenance of tracks, structures, and equipment and depreciation).
 
 (d)
 

@@ -14,7 +14,7 @@ Reports to congress.—An independent counsel appointed under this chapter shall
 
 (b)
 
-Oversight of Conduct of Attorney General.—Within 15 days after receiving an inquiry about a particular case under this chapter, which is a matter of public knowledge, from a committee of the Congress with jurisdiction over this chapter, the Attorney General shall provide the following information to that committee with respect to that case:
+Oversight of Conduct of Attorney General.—Within 15 days after receiving an inquiryabout a particular case under this chapter, which is a matter of public knowledge, from a committee of the Congress with jurisdiction over this chapter, the Attorney General shall provide the following information to that committee with respect to that case:
 
 &emsp;(1) When the information about the case was received.
 

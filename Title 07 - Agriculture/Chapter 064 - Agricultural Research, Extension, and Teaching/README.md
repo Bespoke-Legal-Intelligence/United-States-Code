@@ -366,7 +366,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 16 sections 1647, 1676.
+This chapter is referred to in section 450i of this title; title 16 sections 1647, 1676.
 
 
 ---

@@ -2,7 +2,7 @@
 
 For the purposes of section 1300f of this title, membership of the Pascua Yaqui Tribe shall consist of—
 
-&emsp;(A) the members of the Pascua Yaqui Association, Incorporated, as of September 18, 1978, who apply for enrollment in the Pascua Yaqui Tribe within one year from September 18, 1978 pursuant to the membership criteria and procedures provided for in the official governing documents of the Pascua Yaqui Tribe;
+&emsp;(A) the members of the Pascua Yaqui Association, Incorporated, as of September 18, 1978, who apply for enrollment in the Pascua Yaqui Tribe within one year from September 18, 1978pursuant to the membership criteria and procedures provided for in the official governing documents of the Pascua Yaqui Tribe;
 
 &emsp;(B) all those persons of Yaqui blood who are citizens of the United States and who, within two years from September 18, 1978, apply for, and are admitted to, membership in the Association pursuant to article VII of the Articles of Incorporation of the Association;
 

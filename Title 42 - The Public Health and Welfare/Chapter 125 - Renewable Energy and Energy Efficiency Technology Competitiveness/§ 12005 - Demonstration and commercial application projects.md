@@ -24,7 +24,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 &emsp;(A) In supporting projects selected under subsection (c) of this section, the Secretary may choose from among the forms of agreements described in section 13541 of this title.
 
-&emsp;(B) In supporting projects selected under subsection (c) of this section, the Secretarymay also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
+&emsp;(B) In supporting projects selected under subsection (c) of this section, the Secretary may also enter into agreements with private lenders to pay a portion of the interest on loans made for such projects.
 
 #### (3) Cost sharing
 
@@ -32,7 +32,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 #### (4) Advisory Committee
 
-&emsp;(A) The Secretary shall establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this chapter referred to as the “Advisory Committee”) to advise the Secretary on the development of the solicitation and evaluation criteria for projects under this section, and on otherwise carrying out his responsibilities under this section. The Secretary shall appoint members to the Advisory Committee, including at least one member representing—
+&emsp;(A) The Secretary shall establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this chapter referred to as the “Advisory Committee”) to advise the Secretary on the development of the solicitation and evaluation criteria for projects under this section, and on otherwise carrying out his responsibilities under thissection. The Secretary shall appoint members to the Advisory Committee, including at least one member representing—
 
 &emsp;&emsp;(i) the Secretary of Commerce;
 
@@ -130,7 +130,7 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 #### Amendments
 
-1992—Pub. L. 102–486 amended section generally, substituting provisions relating to demonstration andcommercial application projects for renewable energy and energy efficiency technologies for provisions relating to use of joint ventures to further commercialization of renewable energy and energy efficiency technologies.
+1992—Pub. L. 102–486 amended section generally, substituting provisions relating to demonstration and commercial application projects for renewable energy and energy efficiency technologies for provisions relating to use of joint ventures to further commercialization of renewable energy and energy efficiency technologies.
 
 #### Termination of Advisory Committees
 

@@ -6,7 +6,7 @@ Under regulations prescribed by the Secretary of the Army, and with the approval
 
 #### Amendments
 
-1990—Pub. L. 101–510 struck out at end “The Secretary of the Army shall report annually to the Committees on Armed Services of the Senate and House of Representatives the following information: (1) the criteria which must be met to entitle a student to award of the degree, (2) whether such criteria have changed in any respect during the reporting year, (3) the number of students in the most recent resident course graduating class, (4) the number of such students who were enrolled in the master of military art and science program, and (5) the number of students successfully completing the master of military art and science program.”
+1990—Pub. L. 101–510 struck out at end “The Secretary of the Army shall report annually to the Committees on Armed Services of the Senate and House ofRepresentatives the following information: (1) the criteria which must be met to entitle a student to award of the degree, (2) whether such criteria have changed in any respect during the reporting year, (3) the number of students in the most recent resident course graduating class, (4) the number of such students who were enrolled in the master of military art and science program, and (5) the number of students successfully completing the master of military art and science program.”
 
 1980—Pub. L. 96–513 substituted “Secretary of Education” for “Commissioner of Education, Department of Health, Education, and Welfare”.
 

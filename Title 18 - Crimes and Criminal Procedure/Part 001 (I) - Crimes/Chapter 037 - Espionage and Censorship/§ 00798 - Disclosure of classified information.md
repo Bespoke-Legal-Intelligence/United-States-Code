@@ -1,6 +1,6 @@
 ### §798. Disclosure of classified information
 
-(a) Whoever knowingly and willfully communicates, furnishes, transmits, or otherwisemakes available to an unauthorized person, or publishes, or uses in any manner prejudicial to the safety or interest of the United States or for the benefit of any foreign government to the detriment of the United States any classified information—
+(a) Whoever knowingly and willfully communicates, furnishes, transmits, or otherwise makes available to an unauthorized person, or publishes, or uses in any manner prejudicial to the safety or interest of the United States or for the benefit of any foreign government to the detriment of the United States any classified information—
 
 &emsp;(1) concerning the nature, preparation, or use of any code, cipher, or cryptographic system of the United States or any foreign government; or
 
@@ -8,7 +8,7 @@
 
 &emsp;(3) concerning the communication intelligence activities of the United States or any foreign government; or
 
-&emsp;(4) obtained by the process of communication intelligence from the communications of any foreign government, knowing the same to have been obtained by such processes—
+&emsp;(4) obtained by the processes of communication intelligence from the communications of any foreign government, knowing the same to have been obtained by such processes—
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 

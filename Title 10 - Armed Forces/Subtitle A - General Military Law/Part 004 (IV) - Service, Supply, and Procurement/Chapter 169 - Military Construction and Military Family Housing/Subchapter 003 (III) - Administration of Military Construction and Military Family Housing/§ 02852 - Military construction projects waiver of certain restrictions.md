@@ -20,7 +20,7 @@ In 10:2852(a), the title 31 citation is substituted on authority of Pub. L. 97�
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”.
 
-Subsec. (b). Pub. L. 97–321 substituted “may be exercised on land not owned by the United States” for “on land not owned by the United States may be exercised” in introductory text, redesignated former cl. (1) as par. (1), added par. (2), and struck out former cl. (2) which read as follows: “even though the land is held temporarily”.
+Subsec. (b). Pub. L. 97–321 substituted “may be exercised on land not owned by the United States” for “on land not owned by the United States may be exercised” in introductory text, redesignated former cl. (1) as par.\(1), added par. (2), and struck out former cl. (2) which read as follows: “even though the land is held temporarily”.
 
 #### Effective Date
 

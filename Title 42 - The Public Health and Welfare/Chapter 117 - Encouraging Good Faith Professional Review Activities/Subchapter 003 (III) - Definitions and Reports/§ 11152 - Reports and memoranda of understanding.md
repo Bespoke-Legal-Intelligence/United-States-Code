@@ -6,7 +6,7 @@ The Secretary shall report to Congress, annually during the three years after No
 
 #### (b) Memoranda of understanding
 
-The Secretary of Health and Human Services shall seek to enter into memoranda of understanding with the Secretary of Defense and the Administrator of Veterans’ Affairs to apply the provisions of subchapter II of this chapter to hospitals and other facilities and health careproviders under the jurisdiction of the Secretary or Administrator, respectively. The Secretary shall report to Congress, not later than two years after November 14, 1986, on any such memoranda and on the cooperation among such officials in establishing such memoranda.
+The Secretary of Health and Human Services shall seek to enter into memoranda of understanding with the Secretary of Defense and the Administrator of Veterans’ Affairs to apply the provisions of subchapter II of this chapter to hospitals and other facilities and health care providers under the jurisdiction of the Secretary or Administrator, respectively. The Secretary shall report to Congress, not later than two years after November 14, 1986, on any such memoranda and on the cooperation among such officials in establishing such memoranda.
 
 #### (c) Memorandum of understanding with Drug Enforcement Administration
 

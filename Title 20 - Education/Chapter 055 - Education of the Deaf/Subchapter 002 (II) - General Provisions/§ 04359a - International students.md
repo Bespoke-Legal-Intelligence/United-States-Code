@@ -48,5 +48,5 @@ Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4353 of this title.
+This section is referred to in sections 4353, 6715 of this title.
 

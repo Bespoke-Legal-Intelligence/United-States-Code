@@ -6,13 +6,13 @@ Definition.—In this section, “law enforcement personnel” means individuals
 
 &emsp;(1) authorized to carry and use firearms;
 
-&emsp;(2) vested with the degree of the police power of arrest the Administrator of the Federal Aviation Administration considers necessary to carry out this section; and
+&emsp;(2) vested with the degree of the police power of arrest the Under Secretary of Transportation for Security considers necessary to carry out this section; and
 
 &emsp;(3) identifiable by appropriate indicia of authority.
 
 (b)
 
-Protection Against Violence and Piracy.—The Administrator shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Administrator shall—
+Protection Against Violence and Piracy.—The Under Secretary shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Under Secretary shall—
 
 &emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
@@ -32,31 +32,23 @@ Protection Against Violence and Piracy.—The Administrator shall prescribe regu
 
 (c)
 
-Security Programs.—(1) The Administrator shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Administrator decides, after being notified by an operator in the form the Administrator prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Administrator may authorize the operator to use, on a reimbursable basis, personnel employed by the Administrator, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Administrator shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
+Security Programs.—(1) The Under Secretary shall prescribe regulations under subsection (b) of this section that require each operator of an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation to establish an air transportation security program that provides a law enforcement presence and capability at each of those airports that is adequate to ensure the safety of passengers. The regulations shall authorize the operator to use the services of qualified State, local, and private law enforcement personnel. When the Under Secretary decides, after being notified by an operator in the form the Under Secretary prescribes, that not enough qualified State, local, and private law enforcement personnel are available to carry out subsection (b), the Under Secretary may authorize the operator to use, on a reimbursable basis, personnel employed by the Under Secretary, or by another department, agency, or instrumentality of the Government with the consent of the head of the department, agency, or instrumentality, to supplement State, local, and private law enforcement personnel. When deciding whether additional personnel are needed, the Under Secretary shall consider the number of passengers boarded at the airport, the extent of anticipated risk of criminal violence or aircraft piracy at the airport or to the air carrier aircraft operations at the airport, and the availability of qualified State or local law enforcement personnel at the airport.
 
-(2)(A) The Administrator may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant (except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
+(2)(A) The Under Secretary may approve a security program of an airport operator, or an amendment in an existing program, that incorporates a security program of an airport tenant (except an air carrier separately complying with part 108 or 129 of title 14, Code of Federal Regulations) having access to a secured area of the airport, if the program or amendment incorporates—
 
-&emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Administrator on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
+&emsp;(i) the measures the tenant will use, within the tenant's leased areas or areas designated for the tenant's exclusive use under an agreement with the airport operator, to carry out the security requirements imposed by the Under Secretary on the airport operator under the access control system requirements of section 107.14 of title 14, Code of Federal Regulations, or under other requirements of part 107 of title 14; and
 
 &emsp;(ii) the methods the airport operator will use to monitor and audit the tenant's compliance with the security requirements and provides that the tenant will be required to pay monetary penalties to the airport operator if the tenant fails to carry out a security requirement under a contractual provision or requirement imposed by the airport operator.
 
-(B) If the Administrator approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
+(B) If the Under Secretary approves a program or amendment described in subparagraph (A) of this paragraph, the airport operator may not be found to be in violation of a requirement of this subsection or subsection (b) of this section when the airport operator demonstrates that the tenant or an employee, permittee, or invitee of the tenant is responsible for the violation and that the airport operator has complied with all measures in its security program for securing compliance with its security program by the tenant.
 
 (C)
 
-Manual process.—
+Maximum use of chemical and biological weapon detection equipment.—The Secretary of Transportation may require airports to maximize the use of technology and equipment that is designed to detect or neutralize potential chemical or biological weapons.
 
-&emsp;(i)
+(3)
 
-In general.—The Administrator shall issue an amendment to air carrier security programs to require a manual process, at explosive detection system screen locations in airports where explosive detection equipment is underutilized, which will augment the Computer Assisted Passenger Prescreening System by randomly selecting additional checked bags for screening so that a minimum number of bags, as prescribed by the Administrator, are examined.
-
-&emsp;(ii)
-
-Limitation on statutory construction.—Clause (i) shall not be construed to limit the ability of the Administrator to impose additional security measures on an air carrier or a foreign air carrier when a specific threat warrants such additional measures.
-
-&emsp;(iii)
-
-Maximum use of explosive detection equipment.—In prescribing the minimum number of bags to be examined under clause (i), the Administrator shall seek to maximize the use of the explosive detection equipment.
+Pilot programs.—The Administrator shall establish pilot programs in no fewer than 20 airports to test and evaluate new and emerging technology for providing access control and other security protections for closed or secure areas of the airports. Such technology may include biometric or other technology that ensures only authorized access to secure areas.
 
 (d)
 
@@ -68,11 +60,11 @@ Authorizing Individuals To Carry Firearms and Make Arrests.—With the approval 
 
 (e)
 
-Exclusive Responsibility Over Passenger Safety.—The Administrator has the exclusive responsibility to direct law enforcement activity related to the safety of passengers on an aircraft involved in an offense under section 46502 of this title from the moment all external doors of the aircraft are closed following boarding until those doors are opened to allow passengers to leave the aircraft. When requested by the Administrator, other departments, agencies, and instrumentalities of the Government shall provide assistance necessary to carry out this subsection.
+Exclusive Responsibility Over Passenger Safety.—The Under Secretary has the exclusive responsibility to direct law enforcement activity related to the safety of passengers on an aircraft involved in an offense under section 46502 of this title from the moment all external doors of the aircraft are closed following boarding until those doors are opened to allow passengers to leave the aircraft. When requested by the Under Secretary, other departments, agencies, and instrumentalities of the Government shall provide assistance necessary to carry out this subsection.
 
 (f)
 
-Government and Industry Consortia.—The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administrator may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
+Government and Industry Consortia.—The Under Secretary may establish at airports such consortia of government and aviation industry representatives as the Under Secretary may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (g)
 
@@ -84,31 +76,127 @@ Enforcement.—
 
 &emsp;&emsp;(A)
 
-Administrator to publish sanctions.—The Administrator shall publish in the Federal Register a list of sanctions for use as guidelines in the discipline of employees for infractions of airport access controlrequirements. The guidelines shall incorporate a progressive disciplinary approach that relates proposed sanctions to the severity or recurring nature of the infraction and shall include measures such as remedial training, suspension from security-related duties, suspension from all duties without pay, and termination of employment.
+Under Secretary to publish sanctions.—The Under Secretary shall publish in the Federal Register a list of sanctions for use as guidelines in the discipline of employees for infractions of airport access control requirements. The guidelines shall incorporate a progressive disciplinary approach that relates proposed sanctions to the severity or recurring nature of the infraction and shall include measures such as remedial training, suspension from security-related duties, suspension from all duties without pay, and termination of employment.
 
 &emsp;&emsp;(B)
 
-Use of sanctions.—Each airport operator, air carrier, and security screening company shall include the list of sanctions published by the Administrator in its security program. The security program shall include a process for taking prompt disciplinary action against an employee who commits an infraction of airport access control requirements.
+Use of sanctions.—Each airport operator, air carrier, and security screening company shall include the list of sanctions published by the Under Secretary in its security program. The security program shall include a process for taking prompt disciplinary action against an employee who commits an infraction of airport access control requirements.
 
 &emsp;(2)
 
-Improvements.—The Administrator shall—
+Improvements.—The Under Secretary shall—
 
-&emsp;&emsp;(A) work with airport operators and air carriers to implement and strengthen existing controls to eliminate airport access control weaknesses by January 31, 2001;
+&emsp;&emsp;(A) work with airport operators and air carriers to implement and strengthen existing controls to eliminate airport access control weaknesses;
 
 &emsp;&emsp;(B) require airport operators and air carriers to develop and implement comprehensive and recurring training programs that teach employees their roles in airport security, the importance of their participation, how their performance will be evaluated, and what action will be taken if they fail to perform;
 
-&emsp;&emsp;(C) require airport operators and air carriers to develop and implement programs that foster and reward compliance with airport access control requirements and discourage and penalize noncompliance in accordance with guidelines issued by the Administrator to measure employee compliance;
+&emsp;&emsp;(C) require airport operators and air carriers to develop and implement programs that foster and reward compliance with airport access control requirements and discourage and penalize noncompliance in accordance with guidelines issued by the Under Secretary to measure employee compliance;
 
-&emsp;&emsp;(D) assess and test for compliance with access control requirements, report findings, and assess penalties or take other appropriate enforcement actions when noncompliance is found;
+&emsp;&emsp;(D) on an ongoing basis, assess and test for compliance with access control requirements, report annually findings of the assessments, and assess the effectiveness of penalties in ensuring compliance with security procedures and take any other appropriate enforcement actions when noncompliance is found;
 
-&emsp;&emsp;(E) improve and better administer the Administrator's security database to ensure its efficiency, reliability, and usefulness for identification of systemic problems and allocation of resources;
+&emsp;&emsp;(E) improve and better administer the Under Secretary's security database to ensure its efficiency, reliability, and usefulness for identification of systemic problems and allocation of resources;
 
-&emsp;&emsp;(F) improve the execution of the Administrator's quality control program by January 31, 2001; and
+&emsp;&emsp;(F) improve the execution of the Under Secretary's quality control program; and
 
-&emsp;&emsp;(G) require airport operators and air carriers to strengthen access control points in secured areas (including air traffic control operations areas) to ensure the security of passengers and aircraft by January 31, 2001.
+&emsp;&emsp;(G) work with airport operators to strengthen access control points in secured areas (including air traffic control operations areas, maintenance areas, crew lounges, baggage handling areas, concessions, and catering delivery areas) to ensure the security of passengers and aircraft and consider the deployment of biometric or similar technologies that identify individuals based on unique personal characteristics.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521.)
+(h) <sup>1</sup>
+
+Improved Airport Perimeter Access Security.—
+
+&emsp;(1)
+
+In general.—The Under Secretary, in consultation with the airport operator and law enforcement authorities, may order the deployment of such personnel at any secure area of the airport as necessary to counter the risk of criminal violence, the risk of aircraft piracy at the airport, the risk to air carrier aircraft operations at the airport, or to meet national security concerns.
+
+&emsp;(2)
+
+Security of aircraft and ground access to secure areas.—In determining where to deploy such personnel, the Under Secretary shall consider the physical security needs of air traffic control facilities, parked aircraft, aircraft servicing equipment, aircraft supplies (including fuel), automobile parking facilities within airport perimeters or adjacent to secured facilities, and access and transition areas at airports served by other means of ground or water transportation.
+
+&emsp;(3)
+
+Deployment of federal law enforcement personnel.—The Secretary may enter into a memorandum of understanding or other agreement with the Attorney General or the head of any other appropriate Federal law enforcement agency to deploy Federal law enforcement personnel at an airport in order to meet aviation safety and security concerns.
+
+&emsp;(4)
+
+Airport perimeter screening.—The Under Secretary—
+
+&emsp;&emsp;(A) shall require, as soon as practicable after the date of enactment of this subsection, screening or inspection of all individuals, goods, property, vehicles, and other equipment before entry into a secured area of an airport in the United States described in section 44903(c);
+
+&emsp;&emsp;(B) shall prescribe specific requirements for such screening and inspection that will assure at least the same level of protection as will result from screening of passengers and their baggage;
+
+&emsp;&emsp;(C) shall establish procedures to ensure the safety and integrity of—
+
+&emsp;&emsp;&emsp;(i) all persons providing services with respect to aircraft providing passenger air transportation or intrastate air transportation and facilities of such persons at an airport in the United States described in section 44903(c);
+
+&emsp;&emsp;&emsp;(ii) all supplies, including catering and passenger amenities, placed aboard such aircraft, including the sealing of suppliesto ensure easy visual detection of tampering; and
+
+&emsp;&emsp;&emsp;(iii) all persons providing such supplies and facilities of such persons;
+
+&emsp;&emsp;(D) shall require vendors having direct access to the airfield and aircraft to develop security programs; and
+
+&emsp;&emsp;(E) may provide for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
+
+(h) <sup>1</sup>
+
+Authority to Arm Flight Deck Crew With Less-Than-Lethal Weapons.—
+
+&emsp;(1)
+
+In general.—If the Secretary, after receiving the recommendations of the National Institute of Justice, determines, with the approval of the Attorney General and the Secretary of State, that it is appropriate and necessary and would effectively serve the public interest in avoiding air piracy, the Secretary may authorize members of the flight deck crew on any aircraft providing air transportation or intrastate air transportation to carry a less-than-lethal weapon while the aircraft is engaged in providing such transportation.
+
+&emsp;(2)
+
+Usage.—If the Secretary grants authority under paragraph (1) for flight deck crew members to carry a less-than-lethal weapon while engaged in providing air transportation or intrastate air transportation, the Secretary shall—
+
+&emsp;&emsp;(A) prescribe rules requiring that any such crew member be trained in the proper use of the weapon; and
+
+&emsp;&emsp;(B) prescribe guidelines setting forth the circumstances under which such weapons may be used.
+
+(i)
+
+Short-Term Assessment and Deployment of Emerging Security Technologies and Procedures.—
+
+&emsp;(1)
+
+In general.—The Under Secretary of Transportation for Security shall recommend to airport operators, within 6 months after the date of enactment of the Aviation and Transportation Security Act, commercially available measures or procedures to prevent access to secure airport areas by unauthorized persons. As part of the 6-month assessment, the Under Secretary for Transportation Security shall—
+
+&emsp;&emsp;(A) review the effectiveness of biometrics systems currently in use at several United States airports, including San Francisco International;
+
+&emsp;&emsp;(B) review the effectiveness of increased surveillance at access points;
+
+&emsp;&emsp;(C) review the effectiveness of card- or keypad-based access systems;
+
+&emsp;&emsp;(D) review the effectiveness of airport emergency exit systems and determine whether those that lead to secure areas of the airport should be monitored or how breaches can be swiftly responded to; and
+
+&emsp;&emsp;(E) specifically target the elimination of the “piggy-backing” phenomenon, where another person follows an authorized person through the access point.
+
+> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
+
+&emsp;(2)
+
+Computer-assisted passenger prescreening system.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary of Transportation shall ensure that the Computer-Assisted Passenger Prescreening System, or any successor system—
+
+&emsp;&emsp;&emsp;(i) is used to evaluate all passengers before they board an aircraft; and
+
+&emsp;&emsp;&emsp;(ii) includes procedures to ensure that individuals selected by the system and their carry-on and checked baggage are adequately screened.
+
+&emsp;&emsp;(B)
+
+Modifications.—The Secretary of Transportation may modify any requirement under the Computer-Assisted Passenger Prescreening System for flights that originate and terminate within the same State, if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) the State has extraordinary air transportation needs or concerns due to its isolation and dependence on air transportation; and
+
+&emsp;&emsp;&emsp;(ii) the routine characteristics of passengers, given the nature of the market, regularly triggers primary selectee status.
+
+(h) <sup>1</sup>
+
+Limitation on Liability for Acts To Thwart Criminal Violence or Aircraft Piracy.—An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts of the individual in attempting to thwart an act of criminal violence or piracy on an aircraft if that individual reasonably believed that such an act of criminal violence or piracy was occurring or was about to occur.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644.)
 
 Historical and Revision Notes
 
@@ -164,9 +252,49 @@ In subsection (e), the words “Notwithstanding any other provisions of law”, 
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+The date of enactment of this subsection, referred to in subsec. (h)(4)(A), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+
+The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (i)(1), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+
+The date of enactment of this Act, referred to in subsec. (i)(1), probably means the date of enactment of Pub. L. 107–71, which enacted subsec. (i) of this section and which was approved Nov. 19, 2001.
 
 #### Amendments
+
+2001—Subsec. (a)(2). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
+
+Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places in introductory provisions.
+
+Subsec. (c)(1), (2)(A), (B). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
+
+Subsec. (c)(2)(C). Pub. L. 107–71, §120, amended heading and text of subpar. (C) generally, substituting provisions relating to maximum use of chemical and biological weapon detection equipment for provisions relating to a manual process at explosive detection locations for randomly selecting additional checked bags for screening.
+
+Subsec. (c)(3). Pub. L. 107–71, §106(d), added par. (3).
+
+Subsecs. (e), (f), (g)(1)(A), (B). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” wherever appearing.
+
+Subsec. (g)(2). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in introductory provisions.
+
+Subsec. (g)(2)(A). Pub. L. 107–71, §106(c)(1), substituted “weaknesses;” for “weaknesses by January 31, 2001;”.
+
+Subsec. (g)(2)(D). Pub. L. 107–71, §106(c)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “assess and test for compliance with access control requirements, report findings, and assess penalties or take other appropriate enforcement actions when noncompliance is found;”.
+
+Subsec. (g)(2)(C). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
+
+Subsec. (g)(2)(E). Pub. L. 107–71, §101(f)(8), substituted “Under Secretary's” for “Administrator's”.
+
+Subsec. (g)(2)(F). Pub. L. 107–71, §§101(f)(8), 106(c)(3), substituted “Under Secretary's” for “Administrator's” and “program;” for “program by January 31, 2001;”.
+
+Subsec. (g)(2)(G). Pub. L. 107–71, §106(c)(4), added subpar. (G) and struck out former subpar. (G) which read as follows: “require airport operators and air carriers to strengthen access control points in secured areas (including air traffic control operations areas) to ensure the security of passengers and aircraft by January 31, 2001.”
+
+Subsec. (h). Pub. L. 107–71, §144, which directed that subsec. (h) relating to limitation on liability for acts to thwart criminal violence or aircraft piracy be added at end of section 44903, without specifying the Code title to be amended, was executed by making the addition at the end of this section, to reflect the probable intent of Congress.
+
+Pub. L. 107–71, §126(b), added subsec. (h) relating to authority to arm flight deck crews with less-than-lethal weapons.
+
+Pub. L. 107–71, §106(a), added subsec. (h) relating to improved airport perimeter access security.
+
+Subsec. (i). Pub. L. 107–71, §136, added subsec. (i).
 
 2000—Subsec. (c)(2)(C). Pub. L. 106–528, §6, added subpar. (C).
 
@@ -179,6 +307,118 @@ Subsec. (g). Pub. L. 106–528, §4, added subsec. (g).
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Improved Flight Deck Integrity Measures
+
+2001—Pub. L. 107–71, title I, §104, Nov. 19, 2001, 115 Stat. 605, provided that:
+
+“(a)
+
+In General.—As soon as possible after the date of enactment of this Act \[Nov. 19, 2001\], the Administrator of the Federal Aviation Administration shall—
+
+&emsp;“(1) issue an order (without regard to the provisions of chapter 5 of title 5, United States Code)—
+
+&emsp;&emsp;“(A) prohibiting access to the flight deck of aircraft engaged in passenger air transportation or intrastate air transportation that are required to have a door between the passenger and pilot compartments under title 14, Code of Federal Regulations, except to authorized persons;
+
+&emsp;&emsp;“(B) requiring the strengthening of the flight deck door and locks on any such aircraft operating in air transportation or intrastate air transportation that has a rigid door in a bulkhead between the flight deck and the passenger area to ensure that the door cannot be forced open from the passenger compartment;
+
+&emsp;&emsp;“(C) requiring that such flight deck doors remain locked while any such aircraft is in flight except when necessary to permit access and egress by authorized persons; and
+
+&emsp;&emsp;“(D) prohibiting the possession of a key to any such flight deck door by any member of the flight crew who is not assigned to the flight deck; and
+
+&emsp;“(2) take such other action, including modification of safety and security procedures and flight deck redesign, as may be necessary to ensure the safety and security of the aircraft.
+
+“(b)
+
+Implementation of Other Methods.—As soon as possible after such date of enactment \[Nov. 19, 2001\], the Administrator of the Federal Aviation Administration may develop and implement methods—
+
+&emsp;“(1) to use video monitors or other devices to alert pilots in the flight deck to activity in the cabin, except that the use of such monitors or devices shall be subject to nondisclosure requirements applicable to cockpit video recordings under section 1114(c) \[of title 49\];
+
+&emsp;“(2) to ensure continuous operation of an aircraft transponder in the event of an emergency; and
+
+&emsp;“(3) to revise the procedures by which cabin crews of aircraft can notify flight deck crews of security breaches and other emergencies, including providing for the installation of switches or other devices or methods in an aircraft cabin to enable flight crews to discreetly notify the pilots in the case of a security breach occurring in the cabin.
+
+“(c)
+
+Commuter Aircraft.—The Administrator shall investigate means of securing the flight deck of scheduled passenger aircraft operating in air transportation or intrastate air transportation that do not have a rigid fixed door with a lock between the passenger compartment and the flight deck and issue such an order as the Administrator deems appropriate to ensure the inaccessibility, to the greatest extent feasible, of the flight deck while the aircraft is so operating, taking into consideration such aircraft operating in regions where there is minimal threat to aviation security or national security.”
+
+#### Small and Medium Airports
+
+Pub. L. 107–71, title I, §106(b), Nov. 19, 2001, 115 Stat. 609, provided that:
+
+“(1)
+
+Technical support and financial assistance.—The Under Secretary of Transportation for Security shall develop a plan to—
+
+&emsp;“(A) provide technical support to airports, each of which had less than 1 percent of the total annual enplanements in the United States for the most recent calendar year for which data is available, to enhance security operations; and
+
+&emsp;“(B) provide financial assistance to those airports to defray the costs of enhancing security.
+
+“(2)
+
+Removal of certain restrictions.—
+
+&emsp;“(A)
+
+Certification by operator.—If the operator of an airport described in paragraph (1), after consultation with the appropriate State and local law enforcement authorities, determines that safeguards are in place to sufficiently protect public safety, and so certifies in writing to the Under Secretary, then any security rule, order, or other directive restricting the parking of passenger vehicles shall not apply at that airport after the applicable time period specified in subparagraph (B), unless the Under Secretary, taking into account individual airport circumstances, notifies the airport operator that the safeguards in place do not adequately respond to specific security risks and that the restriction must be continued in order to ensure public safety.
+
+&emsp;“(B)
+
+Countermand period.—The time period within which the Secretary may notify an airport operator, after receiving a certification under subparagraph (A), that a restriction must be continued in order to ensure public safety at the airport is—
+
+&emsp;&emsp;“(i) 15 days for a nonhub airport (as defined in section 41714(h) of title 49, United States Code);
+
+&emsp;&emsp;“(ii) 30 days for a small hub airport (as defined in such section);
+
+&emsp;&emsp;“(iii) 60 days for a medium hub airport (as defined in such section); and
+
+&emsp;&emsp;“(iv) 120 days for an airport that had at least 1 percent of the total annual enplanements in the United States for the most recent calendar year for which data is available.”
+
+#### Airport Security Awareness Programs
+
+Pub. L. 107–71, title I, §106(e), Nov. 19, 2001, 115 Stat. 610, provided that: “The Under Secretary of Transportation for Security shall require scheduled passenger air carriers, and airports in the United States described in section 44903(c) \[of title 49\] to develop security awareness programs for airport employees, ground crews, gate, ticket, and curbside agents of the air carriers, and other individuals employed at such airports.”
+
+#### Airline Computer Reservation Systems
+
+Pub. L. 107–71, title I, §117, Nov. 19, 2001, 115 Stat. 624, provided that: “In order to ensure that all airline computer reservation systems maintained by United States air carriers are secure from unauthorized access by persons seeking information on reservations, passenger manifests, or other nonpublic information, the Secretary of Transportation shall require all such air carriers to utilize to the maximum extent practicable the best technology available to secure their computer reservation system against such unauthorized access.”
+
+#### Authorization of Funds for Reimbursement of Airports for Security Mandates
+
+Pub. L. 107–71, title I, §121, Nov. 19, 2001, 115 Stat. 630, provided that:
+
+“(a)
+
+Airport Security.—There is authorized to be appropriated to the Secretary of Transportation for fiscal years 2002 and 2003 a total of $1,500,000,000 to reimburse airport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers for direct costs incurred by such operators to comply with new, additional, or revised security requirements imposed on such operators by the Federal Aviation Administration or Transportation Security Administration on or after September 11, 2001. Such sums shall remain available until expended.
+
+“(b)
+
+Documentation of Costs; Audit.—The Secretary may not reimburse an airport operator, on-airport parking lot, or vendor of on-airfield direct services to air carriers under this section for any cost for which the airport operator, on-airport parking lot, or vendor of on-airfield direct services does not demonstrate to the satisfaction of the Secretary, using sworn financial statements or other appropriate data, that—
+
+&emsp;“(1) the cost is eligible for reimbursement under subsection (a); and
+
+&emsp;“(2) the cost was incurred by the airport operator, on-airport parking lot, or vendor of on-airfield direct services to air carriers.
+
+> The Inspector General of the Department of Transportation and the Comptroller General of the United States may audit such statements and may request any other information necessary to conduct such an audit.
+
+“(c)
+
+Claim Procedure.—Within 30 days after the date of enactment of this Act \[Nov. 19, 2001\], the Secretary,after consultation with airport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers, shall publish in the Federal Register the procedures for filing claims for reimbursement under this section of eligible costs incurred by airport operators.”
+
+#### Flight Deck Security
+
+Pub. L. 107–71, title I, §128, Nov. 19, 2001, 115 Stat. 633, provided that: “The pilot of a passenger aircraft operated by an air carrier in air transportation or intrastate air transportation is authorized to carry a firearm into the cockpit if—
+
+&emsp;“(1) the Under Secretary of Transportation for Security approves;
+
+&emsp;“(2) the air carrier approves;
+
+&emsp;“(3) the firearm is approved by the Under Secretary; and
+
+&emsp;“(4) the pilot has received proper training for the use of the firearm, as determined by the Under Secretary.”
+
+#### Charter Air Carriers
+
+Pub. L. 107–71, title I, §132(a), Nov. 19, 2001, 115 Stat. 635, provided that: “Within 90 days after the date of enactment of this Act \[Nov. 19, 2001\], the Under Secretary of Transportation for Transportation \[sic\] Security shall implement an aviation security program for charter air carriers (as defined in section 40102(a)(13) of title 49, United States Code) with a maximum certificated takeoff weight of 12,500 pounds or more.”
 
 #### Physical Security for ATC Facilities
 
@@ -288,7 +528,17 @@ Regulations.—The Attorney General may promulgate such regulations as may be ne
 
 Notification of Congress.—Not later than 90 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Attorney General shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on whether or not the Attorney General intends to establish the program authorized by this section.”
 
+#### Development of Aviation Security Liaison Agreement
+
+Pub. L. 104–264, title III, §309, Oct. 9, 1996, 110 Stat. 3253, provided that: “The Secretary of Transportation and the Attorney General, acting through the Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation, shall enter into an interagency agreement providing for the establishment of an aviation security liaison at existing appropriate Federal agencies’ field offices in or near cities served by a designated high-risk airport.”
+
+#### Definitions of Terms in Pub. L. 107–71
+
+For definitions of terms used in sections 104, 106(b), (e), 117, 121, 128, and 132(a) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40109, 40119, 44915, 44935, 44937, 46301, 46314, 46316 of this title.
+This section is referred to in sections 106, 40109, 40119, 44901, 44915, 44917, 44933, 44935, 44937, 44940, 46301, 46314, 46316 of this title.
+
+<i><sup>1</sup></i><i> So in original. Three subsecs. (h) have been enacted.</i>
 

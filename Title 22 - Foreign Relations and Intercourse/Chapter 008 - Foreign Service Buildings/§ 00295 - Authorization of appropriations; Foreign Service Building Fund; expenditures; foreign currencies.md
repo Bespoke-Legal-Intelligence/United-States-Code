@@ -6,7 +6,7 @@
 
 (c) For the purpose of carrying into effect the provisions of this chapter there is hereby authorized to be appropriated, in addition to amounts previously authorized, an amount not to exceed $10,000,000, which shall remain available until expended.
 
-(d) In addition to amounts authorized before the date of enactment of this section, there is hereby authorized to be appropriated to the Secretary of State—
+(d) In addition to amounts authorized before the date of enactment of this section, there ishereby authorized to be appropriated to the Secretary of State—
 
 &emsp;(1) for acquisition, by purchase or construction (including acquisition of leaseholds) of sites and buildings in foreign countries under this chapter, and for major alterations of buildings acquired under this chapter, the following sums—
 

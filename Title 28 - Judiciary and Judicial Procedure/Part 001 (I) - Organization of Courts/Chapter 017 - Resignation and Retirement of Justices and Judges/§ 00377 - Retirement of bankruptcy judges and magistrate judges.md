@@ -48,7 +48,7 @@ Calculation of Service.—(1) For purposes of calculating an annuity under this 
 
 &emsp;(B) each month of service shall be credited as one-twelfth of a year, and the fractional part of any month shall not be credited.
 
-(2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
+(2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-timejudicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
 (B) In the case of an individual who is a magistrate judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
@@ -256,6 +256,30 @@ In General.—Subject to subsection (b), this Act \[enacting this section and se
 
 Exception for Judges and Magistrate Judges Retiring on or after July 31, 1987.—A bankruptcy judge or magistrate judge who left office on or after July 31, 1987, and before the date of the enactment of this Act \[Nov. 15, 1988\] may elect to receive an annuity, or to participate in the Judicial Survivors’ Annuity System, under the amendments made by this Act if such bankruptcy judge or magistrate judge, within 60 days after so leaving office, accepted office or employment with the United States Government or a State government or was eligible at the time he or she left office for an immediate annuity under title 5, United States Code. Any election under this subsection shall not be valid unless it is made within 6 months after the date of the enactment of this Act and under the same conditions as other persons who may make elections under the amendments made by this Act, except that any such person who makes an election under this subsection shall not receive a lump-sum credit under section 8342 or 8424 of title 5, United States Code, for prior service and shall not be required to make contributions for prior years of creditable service.”
 
+#### Annuity of Qualified Magistrate Judge
+
+Pub. L. 107–116, title V, §515, Jan. 10, 2002, 115 Stat. 2220, provided that:
+
+“(a) In this section the term ‘qualified magistrate judge’ means any person who—
+
+&emsp;“(1) retired as a magistrate judge before November 15, 1988; and
+
+&emsp;“(2) on the date of filing an election under subsection (b)—
+
+&emsp;&emsp;“(A) is serving as a recalled magistrate judge on a full-time basis under section 636(h) of title 28, United States Code; and
+
+&emsp;&emsp;“(B) has completed at least 5 years of full-time recall service.
+
+“(b) The Director of the Administrative Office of the United States Courts may accept the election of a qualified magistrate judge to—
+
+&emsp;“(1) receive an annuity under section 377 of title 28, United States Code; and
+
+&emsp;“(2) come within the purview of section 376 of such title.
+
+“(c) Full-time recall service performed by a qualified magistrate judge shall be credited for service in calculating an annuity elected under this section.
+
+“(d) The Director of the Administrative Office of the United States Courts may promulgate regulations to carry out this section.”
+
 #### Retirement Annuities for Incumbent Bankruptcy Judges and Magistrate Judges
 
 Section 2(c) of Pub. L. 100–659, as amended by Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117, provided that:
@@ -274,7 +298,7 @@ Retirement annuity under title 5 and section 377 of title 28.—A bankruptcy jud
 
 “(2)
 
-Filing of notice of election.—A bankruptcy judge or magistrate judge shall be entitled to an annuity under this subsection only if the judge or magistrate judge files a notice of that election with the Director of the Administrative Office of the United States Courts specifying the date on which service wouldbegin to be credited under section 377 of title 28, United States Code, in lieu of chapter 83 or chapter 84 of title 5, United States Code.
+Filing of notice of election.—A bankruptcy judge or magistrate judge shall be entitled to an annuity under this subsection only if the judge or magistrate judge files a notice of that election with the Director of the Administrative Office of the United States Courts specifying the date on which service would begin to be credited under section 377 of title 28, United States Code, in lieu of chapter 83 or chapter 84 of title 5, United States Code.
 
 “(3)
 

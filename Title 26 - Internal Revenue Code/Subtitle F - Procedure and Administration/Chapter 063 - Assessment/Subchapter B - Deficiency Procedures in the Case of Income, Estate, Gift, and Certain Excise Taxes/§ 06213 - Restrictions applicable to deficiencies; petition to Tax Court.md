@@ -110,7 +110,15 @@ For purposes of this section—
 
 &emsp;&emsp;<b>(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 771; Pub. L. 89–44, title VIII, §809(d)(4)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title I, §101(f)(3), (j)(42), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(11), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XII, §§1204(c)(6), 1206(a)–(c)(1), title XIII, §1307(d)(2)(F)(iii), title XVI, §1605(b)(6), title XIX, §§1906(a)(15), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1703, 1704, 1728, 1755, 1825, 1834; Pub. L. 95–227, §4(d)(1), (2), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title V, §504(b)(2), Nov. 6, 1978, 92 Stat. 2881; Pub. L. 96–223, title I, §101(f)(1)(D), (E), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(b)(1), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 96–596, §2(a)(4)(C), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–248, title IV, §402(c)(2), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, title III, §305(b)(4), title IV, §474(r)(34), July 18, 1984, 98 Stat. 784, 845; Pub. L. 99–514, title XVIII, §1875(d)(2)(B)(i), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–203, title X, §§10712(c)(1), 10713(b)(2)(D), Dec. 22, 1987, 101 Stat. 1330–467, 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iv), (v), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(3), title VI, §6243(a), Nov. 10, 1988, 102 Stat. 3573, 3749; Pub. L. 101–239, title VII, §7811(k)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 104–168, title XIII, §1311(c)(3), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1615(c), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 104–193, title IV, §451(c), Aug. 22, 1996, 110 Stat. 2277; Pub. L. 105–34, title I, §101(d)(2), title II, §201(b), title X, §1085(a)(3), Aug. 5, 1997, 111 Stat. 799, 803, 956; Pub. L. 105–206, title III, §§3463(b), 3464(a), title VI, §6010(p)(3), July 22, 1998, 112 Stat. 767, 817; Pub. L. 105–277, div. J, title III, §3003(a), (b), Oct. 21, 1998, 112 Stat. 2681–905.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 771; Pub. L. 89–44, title VIII, §809(d)(4)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title I, §101(f)(3), (j)(42), Dec. 30, 1969, 83 Stat. 524, 530; Pub. L. 93–406, title II, §1016(a)(11), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–455, title XII, §§1204(c)(6), 1206(a)–(c)(1), title XIII, §1307(d)(2)(F)(iii), title XVI, §1605(b)(6), title XIX, §§1906(a)(15), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1698, 1703, 1704, 1728, 1755, 1825, 1834; Pub. L. 95–227, §4(d)(1), (2), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title V, §504(b)(2), Nov. 6, 1978, 92 Stat. 2881; Pub. L. 96–223, title I, §101(f)(1)(D), (E), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(b)(1), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 96–596, §2(a)(4)(C), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–248, title IV, §402(c)(2), Sept. 3, 1982, 96 Stat. 667; Pub. L. 98–369, title III, §305(b)(4), title IV, §474(r)(34), July 18, 1984, 98 Stat. 784, 845; Pub. L. 99–514, title XVIII, §1875(d)(2)(B)(i), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–203, title X, §§10712(c)(1), 10713(b)(2)(D), Dec. 22, 1987, 101 Stat. 1330–467, 1330–470; Pub. L. 100–418, title I, §1941(b)(2)(B)(iv), (v), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title I, §1015(r)(3), title VI, §6243(a), Nov. 10, 1988, 102 Stat. 3573, 3749; Pub. L. 101–239, title VII, §7811(k)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 104–168, title XIII, §1311(c)(3), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1615(c), Aug. 20, 1996, 110 Stat. 1853; Pub. L. 104–193, title IV, §451(c), Aug. 22, 1996, 110 Stat. 2277; Pub. L. 105–34, title I, §101(d)(2), title II, §201(b), title X, §1085(a)(3), Aug. 5, 1997, 111 Stat. 799, 803, 956; Pub. L. 105–206, title III, §§3463(b), 3464(a), title VI, §6010(p)(3), July 22, 1998, 112 Stat. 767, 817; Pub. L. 105–277, div. J, title III, §3003(a), (b), Oct. 21, 1998, 112 Stat. 2681–905; Pub. L. 107–16, title III, §303(g), June 7, 2001, 115 Stat. 56.)
+
+#### Amendment of Subsection (g)(2)
+
+<i>Pub. L. 107–16, title III, §303(g), (i)(2), title IX, §901, June 7, 2001, 115 Stat. 56, 57, 150, provided that, effective Jan. 1, 2004, subsection (g)(2) of this section is temporarily amended by striking “and” at the end of subparagraph (K), by striking the period at the end of subparagraph (L) and inserting “, and”, and by inserting after subparagraph (L) the following new subparagraph:</i>
+
+&emsp;&emsp;<i>(M) the entry on the return claiming the credit under section 32 with respect to a child if, according to the Federal Case Registry of Child Support Orders established under section 453(h) of the Social Security Act, the taxpayer is a noncustodial parent of such child.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -198,6 +206,12 @@ Subsecs. (e), (f). Pub. L. 91–172, §101(f)(3), added subsec. (e) and redesign
 
 <b>1965</b>—Subsec. (e)(3). Pub. L. 89–44 added par. (3).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 effective Jan. 1, 2004, see section 303(i) of Pub. L. 107–16, set out as a note under section 32 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendments
 
 Pub. L. 105–277, div. J, title III, §3003(c), Oct. 21, 1998, 112 Stat. 2681–905, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 21, 1998\].”
@@ -206,7 +220,7 @@ Pub. L. 105–206, title III, §3463(c), July 22, 1998, 112 Stat. 767, provided 
 
 Pub. L. 105–206, title III, §3464(d), July 22, 1998, 112 Stat. 767, provided that: “The amendments made by this section \[amending this section and section 6512 of this title\] shall take effect on the date of the enactment of this Act \[July 22, 1998\].”
 
-Amendment by section 6010(p)(3) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by section 6010(p)(3) of Pub. L. 105–206 effective, except as otherwise provided, as if included inthe provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -242,7 +256,7 @@ Amendment by section 10712(c)(1) of Pub. L. 100–203 applicable to taxable year
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective as if included in the Tax Equity and Fiscal Responsibility Act of 1982,Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under section 6230 of this title.
+Amendment by Pub. L. 99–514 effective as if included in the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 1875(d)(2)(C) of Pub. L. 99–514, set out as a note under section 6230 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -298,5 +312,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 303, 2011, 2014, 4942, 4961, 4963, 6013, 6034A, 6037, 6155, 6201, 6204, 6212, 6230, 6234, 6241, 6246, 6255, 6404, 6501, 6512, 6601, 6651, 6861, 6863, 6871, 7404, 7421, 7429, 7436, 7482 of this title.
+This section is referred to in sections 303, 2011, 2014, 2058, 4942, 4961, 4963, 6013, 6034A, 6037, 6155, 6201, 6204, 6212, 6230, 6234, 6241, 6246, 6255, 6404, 6428, 6501, 6512, 6601, 6651, 6861, 6863, 6871, 7404, 7421, 7429, 7436, 7482 of this title.
 

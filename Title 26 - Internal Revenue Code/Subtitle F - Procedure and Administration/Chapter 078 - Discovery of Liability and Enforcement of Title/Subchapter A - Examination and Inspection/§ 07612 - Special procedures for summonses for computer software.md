@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;The term “computer software executable code” means—
 
-&emsp;&emsp;(A) any object code, machine code, or other code readable by a computer whenloaded into its memory and used directly by such computer to execute instructions; and
+&emsp;&emsp;(A) any object code, machine code, or other code readable by a computer when loaded into its memory and used directly by such computer to execute instructions; and
 
 &emsp;&emsp;(B) any related user manuals.
 

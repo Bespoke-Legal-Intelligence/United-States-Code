@@ -34,7 +34,7 @@ Section 5 of Pub. L. 87–294 provided that: “The amendments made by this Act 
 
 #### Short Title of 1988 Amendment
 
-Section 401 of title IV of Pub. L. 100–630 provided that: “This title \[amending this section and enactingprovisions set out as notes under this section\] may be cited as the ‘American Printing House for the Blind Amendments of 1988’.”
+Section 401 of title IV of Pub. L. 100–630 provided that: “This title \[amending this section and enacting provisions set out as notes under this section\] may be cited as the ‘American Printing House for the Blind Amendments of 1988’.”
 
 #### Transfer of Functions
 

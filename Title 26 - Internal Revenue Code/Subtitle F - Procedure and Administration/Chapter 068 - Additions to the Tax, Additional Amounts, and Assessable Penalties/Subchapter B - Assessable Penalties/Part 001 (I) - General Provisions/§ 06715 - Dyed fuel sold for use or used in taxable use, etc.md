@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (d) Joint and several liability of certain officers and employees
 
-If a penalty is imposed under this section on any business entity, each officer, employee, oragent of such entity who willfully participated in any act giving rise to such penalty shall be jointly and severally liable with such entity for such penalty.
+If a penalty is imposed under this section on any business entity, each officer, employee, or agent of such entity who willfully participated in any act giving rise to such penalty shall be jointly and severally liable with such entity for such penalty.
 
 (Added Pub. L. 103–66, title XIII, §13242(b)(1), Aug. 10, 1993, 107 Stat. 520, §6714; renumbered §6715, Pub. L. 104–188, title I, §1703(n)(9)(A), Aug. 20, 1996, 110 Stat. 1877; amended Pub. L. 105–34, title X, §1032(e)(11), Aug. 5, 1997, 111 Stat. 935.)
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 89–10, title VIII, §8001, as added Pub. L. 103–227, title X, §1032(3), Mar. 31, 1994, 108 Stat. 270, which related to gun-free school requirements, was omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. See section 8921 of this title.
+Section, Pub. L. 89–10, title VIII, §8001, as added Pub. L. 103–227, title X, §1032(3), Mar. 31, 1994, 108 Stat. 270, which related to gun-free school requirements, was omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 Prior sections 3351 to 3354 and 3361 to 3367 were repealed by Pub. L. 97–35, title V, §587(a)(1), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
@@ -14,7 +14,7 @@ Section 3353, Pub. L. 89–10, title IX, §943, as added Pub. L. 95–561, title
 
 Section 3354, Pub. L. 89–10, title IX, §944, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2302; amended Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to submission of applications by local educational agencies in order to receive grants.
 
-Section 3361, Pub. L. 89–10, title IX, §951, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2303,set out statement of policy for ethnic heritage program.
+Section 3361, Pub. L. 89–10, title IX, §951, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2303, set out statement of policy for ethnic heritage program.
 
 Section 3362, Pub. L. 89–10, title IX, §952, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2303; amended Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, authorized an ethnic heritage studies program.
 

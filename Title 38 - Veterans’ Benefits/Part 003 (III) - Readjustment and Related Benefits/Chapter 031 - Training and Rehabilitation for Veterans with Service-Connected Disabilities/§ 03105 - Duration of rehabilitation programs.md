@@ -12,13 +12,25 @@
 
 (d) Unless the Secretary determines that a longer period is necessary and likely to result in a substantial increase in a veteran's level of independence in daily living, the period of a program of independent living services and assistance for a veteran under this chapter (following a determination by the Secretary that such veteran's disability or disabilities are so severe that the achievement of a vocational goal currently is not reasonably feasible) may not exceed twenty-four months.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324.)
+(e)(1) Notwithstanding any other provision of this chapter or chapter 36 of this title, any payment of a subsistence allowance and other assistance described in paragraph (2) shall not—
+
+&emsp;(A) be charged against any entitlement of any veteran under this chapter; or
+
+&emsp;(B) be counted toward the aggregate period for which section 3695 of this title limits an individual's receipt of allowance or assistance.
+
+(2) The payment of the subsistence allowance and other assistance referred to in paragraph (1) is the payment of such an allowance or assistance for the period described in paragraph (3) to a veteran for participation in a vocational rehabilitation program under this chapter if the Secretary finds that the veteran had to suspend or discontinue participation in such vocational rehabilitation program as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10.
+
+(3) The period for which, by reason of this subsection, a subsistence allowance and other assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall be the period of participation in the vocational rehabilitation program for which the veteran failed to receive credit or with respect to which the veteran lost training time, as determined by the Secretary.
+
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2176, §1505; amended Pub. L. 99–576, title III, §333(b)(3), Oct. 28, 1986, 100 Stat. 3279; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3105 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(e), Oct. 9, 1996, 110 Stat. 3324; Pub. L. 107–103, title I, §103(c)(1), Dec. 27, 2001, 115 Stat. 979.)
 
 #### Prior Provisions
 
 Prior section 3105 was renumbered section 5305 of this title.
 
 #### Amendments
+
+2001—Subsec. (e). Pub. L. 107–103 added subsec. (e).
 
 1996—Subsec. (c)(1). Pub. L. 104–275 substituted “veteran's current employment” for “veteran's employment”.
 
@@ -35,6 +47,10 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3104(a)(2)” for “15
 Subsec. (b). Pub. L. 99–576, §333(b)(3)(B), inserted “current” after “of the”.
 
 Subsec. (d). Pub. L. 99–576, §333(b)(3)(C), inserted “currently” after “goal”.
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of Pub. L. 107–103, set out as a note under section 3013 of this title.
 
 #### Effective Date
 

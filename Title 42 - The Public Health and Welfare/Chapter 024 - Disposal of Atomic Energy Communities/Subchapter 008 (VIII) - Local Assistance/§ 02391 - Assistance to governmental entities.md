@@ -2,7 +2,7 @@
 
 #### (a) Annual assistance payments; extensions; determination of amount and recipient
 
-From the date of transfer of any municipal installations to a governmental or other entity at or for the community, the Administrator is authorized, for a period of ten years, to make annual assistance payments of just and reasonable sums to the State, county, or local entity having jurisdiction to collect property taxes or to the entity receiving the installation transferred hereunder: <i>Provided, however</i>, That with respect to the cities of Oak Ridge, Tennessee, and Richland, Washington, the Richland School District, the Los Alamos School Board, and the county of Los Alamos, New Mexico, the Administrator isauthorized to continue to make assistance payments of just and reasonable sums after expiration of such ten-year period: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee. In determining the amount and recipient of such payments the Administrator shall consider—
+From the date of transfer of any municipal installations to a governmental or other entity at or for the community, the Administrator is authorized, for a period of ten years, to make annual assistance payments of just and reasonable sums to the State, county, or local entity having jurisdiction to collect property taxes or to the entity receiving the installation transferred hereunder: <i>Provided, however</i>, That with respect to the cities of Oak Ridge, Tennessee, and Richland, Washington, the Richland School District, the Los Alamos School Board, and the county of Los Alamos, New Mexico, the Administrator is authorized to continue to make assistance payments of just and reasonable sums after expiration of such ten-year period: <i>Provided further</i>, That the Administrator is also authorized to make payments of just and reasonable sums to Anderson County and Roane County, Tennessee. In determining the amount and recipient of such payments the Administrator shall consider—
 
 &emsp;(1) the approximate real property taxes and assessments for local improvements which would be paid to the governmental entity upon property within the community if such property were not exempt from taxation by reason of Federal ownership;
 
@@ -24,7 +24,7 @@ Special interim payments may be made under the provisions of this section to any
 
 #### (c) Payments for special burdens
 
-Payments made under this section shall be payments made for special burdens imposed on the local governmental entities in accordance with the second sentence of section 2208 of this title. Payments may be made under this section notwithstanding the provisions of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, Eighty-first Congress), as amended.
+Payments made under this section shall be payments made for special burdens imposed on the local governmental entities in accordance with the second sentence of section 2208 of this title. Payments may be made under this sectionnotwithstanding the provisions of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, Eighty-first Congress), as amended.
 
 #### (d) Recommendation for further assistance payments
 
@@ -150,7 +150,7 @@ Pub. L. 99–145, title XV, §1532, Nov. 8, 1985, 99 Stat. 773, as amended by Pu
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 
-Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 76, set out as a note under section 5821 of this title.
+Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, Feb. 25, 1978, 92Stat. 76, set out as a note under section 5821 of this title.
 
 #### Section Referred to in Other Sections
 

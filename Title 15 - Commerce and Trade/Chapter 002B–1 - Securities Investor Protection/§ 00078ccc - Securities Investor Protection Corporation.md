@@ -46,7 +46,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;(A) the conduct of its business; and
 
-&emsp;&emsp;(B) the indemnity of its directors, officers, and employees (including any such person acting as trustee or otherwise in connection with a liquidation proceeding) for liabilities and expenses actually and reasonably incurred by any such person in connection with the defense or settlement of an actionor suit if such person acted in good faith and in a manner reasonably believed to be consistent with the purposes of this chapter.
+&emsp;&emsp;(B) the indemnity of its directors, officers, and employees (including any such person acting as trustee or otherwise in connection with a liquidation proceeding) for liabilities and expenses actually and reasonably incurred by any such person in connection with the defense or settlement of an action or suit if such person acted in good faith and in a manner reasonably believed to be consistent with the purposes of this chapter.
 
 &emsp;(4) to adopt, amend, and repeal, by its Board of Directors, such rules as may be necessary or appropriate to carry out the purposes of this chapter, including rules relating to—
 
@@ -118,7 +118,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 #### (1) Proposed bylaw changes
 
-&emsp;The Board of Directors of SIPC shall file with the Commission a copy of any proposed bylaw or any proposed amendment to or repeal of any bylaw of SIPC (hereinafter in this paragraph collectively referred to as a “proposed bylaw change”), accompanied by a concise general statement of the basis and purpose of such proposed bylaw change. Each such proposed bylaw change shall take effect thirtydays after the date of the filing of a copy thereof with the Commission, or upon such later date as SIPC may designate or such earlier date as the Commission may determine, unless—
+&emsp;The Board of Directors of SIPC shall file with the Commission a copy of any proposed bylaw or any proposed amendment to or repeal of any bylaw of SIPC (hereinafter in this paragraph collectively referred to as a “proposed bylaw change”), accompanied by a concise general statement of the basis and purpose of such proposed bylaw change. Each such proposed bylaw change shall take effect thirty days after the date of the filing of a copy thereof with the Commission, or upon such later date as SIPC may designate or such earlier date as the Commission may determine, unless—
 
 &emsp;&emsp;(A) the Commission, by notice to SIPC setting forth the reasons therefor, disapproves such proposed bylaw change as being contrary to the public interest or contrary to the purposes of this chapter; or
 
@@ -160,7 +160,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 &emsp;The Commission may, by such rules as it determines to be necessary or appropriate in the public interest or to carry out the purposes of this chapter, require SIPC to adopt, amend, or repeal any SIPC bylaw or rule, whenever adopted.
 
-(Pub. L. 91–598, §3, Dec. 30, 1970, 84 Stat. 1637; Pub. L. 95–283, §§2–5, May 21, 1978, 92 Stat.249–251; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
+(Pub. L. 91–598, §3, Dec. 30, 1970, 84 Stat. 1637; Pub. L. 95–283, §§2–5, May 21, 1978, 92 Stat. 249–251; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
 
 #### References in Text
 

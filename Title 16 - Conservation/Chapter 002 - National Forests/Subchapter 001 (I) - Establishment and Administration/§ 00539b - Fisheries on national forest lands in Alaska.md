@@ -36,7 +36,7 @@ Because of the large scale of contemplated mining operations and the proximity o
 
 #### (c) Authority of State of Alaska to manage fish and wildlife
 
-Nothing in this section shall enlarge or diminish the responsibility and authority of the State of Alaska to manage fish and wildlife or to exercise its other responsibilities under applicable law.
+Nothing in this section shall enlarge or diminish the responsibility and authority of the Stateof Alaska to manage fish and wildlife or to exercise its other responsibilities under applicable law.
 
 #### (d) Authority of Secretary of Agriculture to manage national forests
 

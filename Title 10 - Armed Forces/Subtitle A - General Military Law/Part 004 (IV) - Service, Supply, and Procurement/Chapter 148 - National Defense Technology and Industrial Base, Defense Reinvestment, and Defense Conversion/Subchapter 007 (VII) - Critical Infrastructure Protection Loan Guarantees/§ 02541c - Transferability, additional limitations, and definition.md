@@ -1,6 +1,6 @@
 ### §2541c. Transferability, additional limitations, and definition
 
-The following provisions of subtitle <sup>1</sup> VI of this chapter apply to guarantees issued under this subtitle <sup>1</sup> :
+The following provisions of subchapter VI of this chapter apply to guarantees issued under this subchapter:
 
 &emsp;(1) Section 2540a, relating to transferability of guarantees.
 
@@ -8,7 +8,9 @@ The following provisions of subtitle <sup>1</sup> VI of this chapter apply to g
 
 &emsp;(3) Section 2540d(2), providing a definition of the term “cost”.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; amended Pub. L. 107–107, div. A, title X, §1048(a)(24), Dec. 28, 2001, 115 Stat. 1224.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subchapter”.</i>
+#### Amendments
+
+2001—Pub. L. 107–107 substituted “subchapter” for “subtitle” in two places in introductory provisions.
 

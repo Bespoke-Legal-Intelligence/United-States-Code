@@ -26,6 +26,8 @@
 
 This chapter is referred to in section 8062 of this title.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “capability”.</i>
+
 
 ---
 

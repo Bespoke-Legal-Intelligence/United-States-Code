@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### Prior Provisions
 
-A prior section 134 was renumbered section 139 of this title.
+A prior section 134 was renumbered section 140 of this title.
 
 #### Amendments
 

@@ -46,9 +46,53 @@ Pub. L. 100–180, div. A, title VII, §701, Dec. 4, 1987, 101 Stat. 1108, provi
 
 Section 1 of Pub. L. 89–614 provided: “That this Act \[enacting sections 1086 and 1087 of this title, amendingthis section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
 
+#### Pilot Program Providing for Department of Veterans Affairs Support in the Performance of Separation Physical Examinations
+
+Pub. L. 107–107, div. A, title VII, §734, Dec. 28, 2001, 115 Stat. 1170, provided that:
+
+“(a)
+
+Authority.—The Secretary of Defense and the Secretary of Veterans Affairs may jointly carry out a pilot program under which the Secretary of Veterans Affairs may perform the physical examinations required for members of the uniformed services separating from the uniformed services who are in one or more geographic areas designated for the pilot program by the Secretaries.
+
+“(b)
+
+Reimbursement.—The Secretary of Defense shall reimburse the Secretary of Veterans Affairs for the cost incurred by the Secretary of Veterans Affairs in performing, under the pilot program, the elements of physical examination that are required by the Secretary concerned in connection with the separation of a member of a uniformed service. Reimbursements shall be paid out of funds available for the performance of separation physical examinations of members of that uniformed service in facilities of the uniformed services.
+
+“(c)
+
+Agreement.—(1) If the Secretary of Defense and the Secretary of Veterans Affairs carry out the pilot program authorized by this section, the Secretaries shall enter into an agreement specifying the geographic areas in which the pilot program is carried out and the means for making reimbursement payments under subsection (b).
+
+“(2) The other administering Secretaries shall also enter into the agreement to the extent that the Secretary of Defense determines necessary to apply the pilot program, including the requirement for reimbursement, to the uniformed services not under the jurisdiction of the Secretary of a military department.
+
+“(d)
+
+Consultation Requirement.—In developing and carrying out the pilot program, the Secretary of Defense shall consult with the other administering Secretaries.
+
+“(e)
+
+Period of Program.—The Secretary of Defense and the Secretary of Veterans Affairs may carry out the pilot program under this section beginning not later than July 1, 2002, and terminating on December 31, 2005.
+
+“(f)
+
+Reports.—(1) If the Secretary of Defense and the Secretary of Veterans Affairs carry out the pilot program authorized by this section—
+
+&emsp;“(A) not later than January 31, 2004, the Secretaries shall jointly submit to Congress an interim report on the conduct of the pilot program; and
+
+&emsp;“(B) not later than March 1, 2005, the Secretaries shall jointly submit to Congress a final report on the conduct of the pilot program.
+
+“(2) Reports under this subsection shall include the Secretaries’ assessment, as of the date of the report, of the efficacy of the performance of separation physical examinations as provided for under the pilot program.
+
+“(g)
+
+Definitions.—In this section:
+
+&emsp;“(1) The term ‘administering Secretaries’ has the meaning given that term in section 1072(3) of title 10, United States Code.
+
+&emsp;“(2) The term ‘Secretary concerned’ has the meaning given that term in section 101(5) of title 37, United States Code.”
+
 #### Health Care Management Demonstration Program
 
-Pub. L. 106–398, §1 \[\[div. A\], title VII, §733\], Oct. 30, 2000, 114 Stat. 1654, 1654A–191, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title VII, §733\], Oct. 30, 2000, 114 Stat. 1654, 1654A–191, as amended by Pub. L. 107–107, div. A, title VII, §737, Dec. 28, 2001, 115 Stat. 1173, provided that:
 
 “(a)
 
@@ -68,11 +112,11 @@ Demonstration Sites.—The Secretary shall test each model separately at one or 
 
 “(d)
 
-Period for Program.—The demonstration program shall begin not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall terminate on December 31, 2001.
+Period for Program.—The demonstration program shall begin not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\] and shall terminate on December 31, 2003.
 
 “(e)
 
-Reports.—The Secretary of Defense shall submit a report on the demonstration program to the Committees on Armed Services of the Senate and the House of Representatives not later than March 15, 2002. The report shall include the Secretary's assessment of the value of incorporating the use of the tested planning and management models throughout the planning, programming, budgeting systems, and management of the Department of Defense health care system.
+Report.—The Secretary of Defense shall submit a report on the demonstration program to the Committees on Armed Services of the Senate and the House of Representatives not later than March 15, 2004. The report shall include the Secretary's assessment of the value of incorporating the use of the tested planning and management models throughout the planning, programming, budgeting systems, and management of the Department of Defense health care system.
 
 “(f)
 
@@ -222,7 +266,7 @@ Department of Defense Program for Medical Informatics and Data.—The Secretary 
 
 “(c)
 
-Automation and Capture of Clinical Data.—(1) Through the program established under subsection (b), the Secretary of Defense shall accelerate the efforts of the Department of Defense to automate, capture, and exchange controlled clinical data and present providers with clinical guidance using a personal information carrier, clinical lexicon, or digital patient record.
+Automation and Capture of Clinical Data.—(1) Through the program established under subsection (b), the Secretary of Defense shall accelerate the efforts of the Department of Defense to automate, capture, andexchange controlled clinical data and present providers with clinical guidance using a personal information carrier, clinical lexicon, or digital patient record.
 
 “(2) The program shall serve as a primary resource for the Department of Defense for matters concerning the capture, processing, and dissemination of data on health care quality.
 
@@ -356,7 +400,7 @@ Review of Law and Policies.—(1) The Secretary of Defense and the Secretary of 
 
 &emsp;“(C) The perceptions of beneficiaries in a variety of categories (defined as the Secretaries consider appropriate) regarding the various Federal health care systems available for their use.
 
-&emsp;“(D) The types and frequency of medical services furnished by the Department of Defense and the Department of Veterans Affairs through cooperative arrangements to each category of beneficiary (including active-duty members, retirees, dependents, veterans in the health-care eligibility categories referred to as Category A and Category C, and persons authorized to receive medical care under section 1713 of title 38, United States Code) of the other department.
+&emsp;“(D) The types and frequency of medical services furnished by the Department of Defense and the Department of Veterans Affairs through cooperative arrangements to each category of beneficiary (including active-duty members, retirees, dependents, veterans in the health-care eligibility categories referred to as Category A and Category C, and persons authorized to receive medical care under section 1713 \[1781\] of title 38, United States Code) of the other department.
 
 &emsp;“(E) The extent to which health care facilities of the Department of Defense and Department of Veterans Affairs have sufficient capacity, or could jointly or individually create sufficient capacity, to provide services to beneficiaries of the other department without diminution of access or services to their primary beneficiaries.
 
@@ -384,7 +428,7 @@ Pharmaceutical Benefits and Programs.—(1) The Department of Defense-Department
 
 “(g)
 
-Standardization of Physical Examinations for Disability.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to the appropriate committees of Congress a report on the status of the efforts of the Department of Defense and the Department of Veterans Affairs to standardize physical examinations administered by the two departments for the purpose of determining or rating disabilities.
+Standardization of Physical Examinations for Disability.—The Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to theappropriate committees of Congress a report on the status of the efforts of the Department of Defense and the Department of Veterans Affairs to standardize physical examinations administered by the two departments for the purpose of determining or rating disabilities.
 
 “(h)
 

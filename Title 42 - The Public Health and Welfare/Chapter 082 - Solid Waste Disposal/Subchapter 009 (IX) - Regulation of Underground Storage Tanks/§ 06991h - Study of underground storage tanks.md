@@ -22,7 +22,7 @@ Upon completion of the studies authorized by this section, the Administrator sha
 
 #### (f) Reimbursement
 
-(1) If any owner or operator (excepting an agency, department, or instrumentality of theUnited States Government, a State or a political subdivision thereof) shall incur costs, including the loss of business opportunity, due to the closure or interruption of operation of an underground storage tank solely for the purpose of conducting studies authorized by this section, the Administrator shall provide such person fair and equitable reimbursement for such costs.
+(1) If any owner or operator (excepting an agency, department, or instrumentality of the United States Government, a State or a political subdivision thereof) shall incur costs, including the loss of business opportunity, due to the closure or interruption of operation of an underground storage tank solely for the purpose of conducting studies authorized by this section, the Administrator shall provide such person fair and equitable reimbursement for such costs.
 
 (2) All claims for reimbursement shall be filed with the Administrator not later than ninety days after the closure or interruption which gives rise to the claim.
 

@@ -66,5 +66,5 @@ Provisions similar to those in this section were contained in Pub. L. 103–337,
 
 #### Funds Available Solely for Student Financial Assistance
 
-Pub. L. 106–79, title VIII, §8120, Oct. 25, 1999, 113 Stat. 1260, provided that: “During the current fiscal year and hereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs may be used for the purpose for which the grant is made without regard to any provision to the contrary in section 514 of the Departments of Labor, Health and Human Services, Education, and Related Agencies Appropriations Act, 1997 (\[former\] 10 U.S.C. 503 note), or section 983 of title 10, United States Code.”
+Pub. L. 106–79, title VIII, §8120, Oct. 25, 1999, 113 Stat. 1260, provided that: “During the current fiscal year and hereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs may be used for the purpose for which the grant is made without regard to any provision to the contrary in section 514 of the Departments of Labor, Health andHuman Services, Education, and Related Agencies Appropriations Act, 1997 (\[former\] 10 U.S.C. 503 note), or section 983 of title 10, United States Code.”
 

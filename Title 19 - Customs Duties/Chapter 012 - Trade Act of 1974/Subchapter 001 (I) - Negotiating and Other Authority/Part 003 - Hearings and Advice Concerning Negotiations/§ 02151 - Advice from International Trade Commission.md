@@ -4,7 +4,7 @@
 
 (1) In connection with any proposed trade agreement under section 2133 of this title or section 2902(a) or (c) of this title, the President shall from time to time publish and furnish the International Trade Commission (hereafter in this section referred to as the “Commission”) with lists of articles which may be considered for modification or continuance of United States duties, continuance of United States duty-free or excise treatment, or additional duties. In the case of any article with respect to which consideration may be given to reducing or increasing the rate of duty, the list shall specify the provision of this subchapter under which such consideration may be given.
 
-(2) In connection with any proposed trade agreement under section 2902(b) or (c) of this title, the President may from time to time publish and furnish the Commission with lists of nontariff matters which may be considered for modification.
+(2) In connection with any proposed trade agreement under section 2902(b) or (c) of this title, the President may from time to time publish and furnish the Commission with lists ofnontariff matters which may be considered for modification.
 
 #### (b) Advice to President by Commission
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment and maintenance of computer file by executive agency; time period coverage
 
-Each executive agency shall establish and maintain for a period of five years a computer file, by fiscal year, containing unclassified records of all procurements greater than the simplified acquisition threshold in such fiscal year.
+Each executive agency shall establish and maintain for a period of five years a computerfile, by fiscal year, containing unclassified records of all procurements greater than the simplified acquisition threshold in such fiscal year.
 
 #### (b) Contents
 

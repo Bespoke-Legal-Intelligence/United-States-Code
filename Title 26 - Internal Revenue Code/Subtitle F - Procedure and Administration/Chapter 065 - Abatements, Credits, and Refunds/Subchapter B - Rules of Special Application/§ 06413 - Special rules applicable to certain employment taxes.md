@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid with respect to any payment of remuneration, proper adjustments, with respect to both the tax and the amount to be deducted, shall be made, without interest, in such manner and at such times as the Secretary may by regulations prescribe.
+&emsp;If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 ispaid with respect to any payment of remuneration, proper adjustments, with respect to both the tax and the amount to be deducted, shall be made, without interest, in such manner and at such times as the Secretary may by regulations prescribe.
 
 #### (2) United States as employer
 
@@ -60,7 +60,7 @@ If more than the correct amount of tax imposed by section 3101, 3111, 3201, 3221
 
 #### (G) Employees of States and political subdivisions
 
-&emsp;&emsp;In the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makesa return pursuant to section 3125(a) shall, for purposes of this subsection, be deemed a separate employer.
+&emsp;&emsp;In the case of remuneration received from a State or any political subdivision thereof (or any instrumentality of any one or more of the foregoing which is wholly owned thereby) during any calendar year, each head of an agency or instrumentality, and each agent designated by either, who makes a return pursuant to section 3125(a) shall, for purposes of this subsection, be deemed a separate employer.
 
 #### (d) Refund or credit of Federal unemployment tax
 
@@ -92,7 +92,7 @@ Subsec. (c)(3). Pub. L. 103–66, §13207(d)(3), struck out heading and text of 
 
 <b>1986</b>—Subsec. (a)(5). Pub. L. 99–272, §13205(a)(2)(E)(i), added par. (5).
 
-Subsec. (c)(2)(D) to (F). Pub. L. 99–272, §13205(a)(2)(E)(ii)(I), substituted “3125(b)”, “3125(c)”, and “3125(d)” for “3125(a)”, “3125(b)”, and “3125(c)”, respectively, in subpars. (D), (E), and (F), respectively.
+Subsec. (c)(2)(D) to (F). Pub. L. 99–272, §13205(a)(2)(E)(ii)(I), substituted “3125(b)”, “3125(c)”,and “3125(d)” for “3125(a)”, “3125(b)”, and “3125(c)”, respectively, in subpars. (D), (E), and (F), respectively.
 
 Subsec. (c)(2)(G). Pub. L. 99–272, §13205(a)(2)(E)(ii)(II), added subpar. (G).
 
@@ -207,7 +207,7 @@ Section 1906(a)(23)(B)(iii) of Pub. L. 94–455 provided that: “The amendments
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–445 effective Jan. 1, 1975, and applicable only with respect to compensation paid for services rendered on or after that date, see section604 of Pub. L. 93–445, set out as a note under section 3221 of this title.
+Amendment by Pub. L. 93–445 effective Jan. 1, 1975, and applicable only with respect to compensation paid for services rendered on or after that date, see section 604 of Pub. L. 93–445, set out as a note under section 3221 of this title.
 
 #### Effective Date of 1973 Amendments
 

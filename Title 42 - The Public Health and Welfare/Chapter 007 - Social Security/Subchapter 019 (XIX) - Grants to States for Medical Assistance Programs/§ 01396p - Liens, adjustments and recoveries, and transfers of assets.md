@@ -40,7 +40,7 @@
 
 &emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause (ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medical assistance paid on behalf of the individual for nursing facility and other long-term care services.
 
-&emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistance under a State plan of a State which had a State plan amendment approved as of May 14, 1993, which provided for the disregard of any assets or resources—
+&emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistance under a State plan of a State which had aState plan amendment approved as of May 14, 1993, which provided for the disregard of any assets or resources—
 
 &emsp;&emsp;(I) to the extent that payments are made under a long-term care insurance policy; or
 
@@ -68,7 +68,7 @@
 
 #### (c) Taking into account certain transfers of assets
 
-(1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalizedindividual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
+(1)(A) In order to meet the requirements of this subsection for purposes of section 1396a(a)(18) of this title, the State plan must provide that if an institutionalized individual or the spouse of such an individual (or, at the option of a State, a noninstitutionalized individual or the spouse of such an individual) disposes of assets for less than fair market value on or after the look-back date specified in subparagraph (B)(i), the individual is ineligible for medical assistance for services described in subparagraph (C)(i) (or, in the case of a noninstitutionalized individual, for the services described in subparagraph (C)(ii)) during the period beginning on the date specified in subparagraph (D) and equal to the number of months specified in subparagraph (E).
 
 (B)(i) The look-back date specified in this subparagraph is a date that is 36 months (or, in the case of payments from a trust or portions of a trust that are treated as assets disposed of by the individual pursuant to paragraph (3)(A)(iii) or (3)(B)(ii) of subsection (d) of this section, 60 months) before the date specified in clause (ii).
 
@@ -150,7 +150,7 @@
 
 &emsp;(ii) The individual's spouse.
 
-&emsp;(iii) A person, including a court or administrative body, with legal authority to act in place of or on behalf of the individual or the individual's spouse.
+&emsp;(iii) A person, including a court or administrative body, with legal authority to act inplace of or on behalf of the individual or the individual's spouse.
 
 &emsp;(iv) A person, including any court or administrative body, acting at the direction or upon the request of the individual or the individual's spouse.
 
@@ -248,7 +248,7 @@ Subsec. (c)(1). Pub. L. 103–66, §13611(a)(1), amended par. (1) generally. Pri
 
 &emsp;“(A) 30 months, or
 
-&emsp;“(B)(i) the total uncompensated value of the resources so transferred, divided by (ii) the averagecost, to a private patient at the time of the application, of nursing facility services in the State or, at State option, in the community in which the individual is institutionalized.”
+&emsp;“(B)(i) the total uncompensated value of the resources so transferred, divided by (ii) the average cost, to a private patient at the time of the application, of nursing facility services in the State or, at State option, in the community in which the individual is institutionalized.”
 
 Subsec. (c)(2)(A). Pub. L. 103–66, §13611(a)(2)(A), substituted “assets” for “resources” in introductory provisions.
 
@@ -336,7 +336,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) ofPub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -348,7 +348,7 @@ Section 132(d) of Pub. L. 97–248 provided that: “The amendments made by this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1320a–7b, 1382, 1382b, 1396a, 1396r–5 of this title.
+This section is referred to in sections 1320a–7b, 1382, 1382b, 1396a, 1396r–5 of this title; title 26 section 642.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

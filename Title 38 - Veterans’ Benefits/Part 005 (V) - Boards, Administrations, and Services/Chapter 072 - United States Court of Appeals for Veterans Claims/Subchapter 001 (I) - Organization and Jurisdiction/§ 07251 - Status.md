@@ -16,6 +16,22 @@ Pub. L. 105–368, title V, §511(a), Nov. 11, 1998, 112 Stat. 3341, provided th
 
 Pub. L. 105–368, title V, §512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “Any reference in a law, regulation, document, paper, or other record of the United States to the United States Court of Veterans Appeals shall be deemed to be a reference to the United States Court of Appeals for Veterans Claims.”
 
+#### Effective Date of 2001 Amendment; Construction
+
+Pub. L. 107–103, title VI, §603(c), (d), Dec. 27, 2001, 115 Stat. 999, provided that:
+
+“(c)
+
+Construction.—The repeal in subsection (a) \[repealing section 402 of Pub. L. 100–687, formerly set out as a note below\] may not be construed to confer upon the United States Court of Appeals for Veterans Claims jurisdiction over any appeal or other matter not within the jurisdiction of the Court as provided in section 7266(a) of title 38, United States Code.
+
+“(d)
+
+Applicability.—The repeals made by subsections (a) and (b) \[repealing section 402 of Pub. L. 100–687, formerly set out as a note below, and section 403 of Pub. L. 100–687, formerly set out as a note under section 5904 of this title\] shall apply to any appeal filed with the United States Court of Appeals for Veterans Claims—
+
+&emsp;“(1) on or after the date of the enactment of this Act \[Dec. 27, 2001\]; or
+
+&emsp;“(2) before the date of the enactment of this Act but in which a final decision has not been made under section 7291 of title 38, United States Code, as of that date.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–368, title V, §513, Nov. 11, 1998, 112 Stat. 3342, provided that: “This subtitle \[subtitle B (§§511–513) of title V of Pub. L. 105–368, see Tables for classification\], and the amendments made by this subtitle, shall take effect on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Nov. 11, 1998\].”
@@ -50,5 +66,5 @@ Pub. L. 105–111, §1(c)(2), Nov. 21, 1997, 111 Stat. 2272, provided that: “N
 
 #### Chapter Applicable to Cases Filed On or After November 18, 1988
 
-Section 402 of Pub. L. 100–687, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239, provided that: “Chapter 72 of title 38, United States Code, as added by section 301, shall apply with respect to any case in which a notice of disagreement is filed under section 7105 \[formerly 4005\] of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
+Section 402 of Pub. L. 100–687, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239, which provided that this chapter applied to any case in which a notice of disagreement was filed under section 7105 of this title on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, §603(a), Dec. 27, 2001, 115 Stat. 999.
 

@@ -10,7 +10,7 @@ All property found in the possession of any person intending to manufacture the 
 
 #### (c) Equipment
 
-All property whatsoever, in the place or building, or any yard or enclosure, where the property described in subsection (a) or (b) is found, or which is intended to be used in the making of property described in subsection (a), with intent to defraud the United States of tax or any part thereof, on the property described in subsection (a) may also be seized, and shall be forfeited to the United States.
+All property whatsoever, in the place or building, or any yard or enclosure, where the property described in subsection (a) or (b) is found, or which is intended to be used in the making of property described in subsection (a), with intent to defraud the United States of tax or any part thereof, on the property described in subsection\(a) may also be seized, and shall be forfeited to the United States.
 
 #### (d) Packages
 
@@ -18,7 +18,7 @@ All property used as a container for, or which shall have contained, property de
 
 #### (e) Conveyances
 
-Any property (including aircraft, vehicles, vessels, or draft animals) used to transport or forthe deposit or concealment of property described in subsection (a) or (b), or any property used to transport or for the deposit or concealment of property which is intended to be used in the making or packaging of property described in subsection (a), may also be seized, and shall be forfeited to the United States.
+Any property (including aircraft, vehicles, vessels, or draft animals) used to transport or for the deposit or concealment of property described in subsection (a) or (b), or any property used to transport or for the deposit or concealment of property which is intended to be used in the making or packaging of property described in subsection (a), may also be seized, and shall be forfeited to the United States.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 867; Pub. L. 85–859, title II, §204(8), Sept. 2, 1958, 72 Stat. 1429.)
 

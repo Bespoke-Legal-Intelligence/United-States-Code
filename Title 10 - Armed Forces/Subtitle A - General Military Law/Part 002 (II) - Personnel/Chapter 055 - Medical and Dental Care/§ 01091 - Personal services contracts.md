@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—(1) The Secretary of Defense, with respect to medical treatment facilities of the Department of Defense, and the Secretary ofTransportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
+Authority.—(1) The Secretary of Defense, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Transportation, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
 
 (2) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may also enter into personal services contracts to carry out other health care responsibilities of the Secretary (such as the provision of medical screening examinations at Military Entrance Processing Stations) at locations outside medical treatment facilities, as determined necessary pursuant to regulations prescribed by the Secretary. The Secretary may not enter into a contract under this paragraph after December 31, 2002.
 
@@ -62,7 +62,7 @@ Pub. L. 105–261, div. A, title VII, §733(b), Oct. 17, 1998, 112 Stat. 2072, a
 
 &emsp;“(B) determine whether any savings or cost avoidance may be achieved through use of an alternative system as a result of any increased detection of disqualifying medical conditions before entry by applicants into initial entry training; and
 
-&emsp;“(C) compare the capability of an alternative system to meet or exceed the cost, responsiveness, andtimeliness standards of the system currently used by the Department.
+&emsp;“(C) compare the capability of an alternative system to meet or exceed the cost, responsiveness, and timeliness standards of the system currently used by the Department.
 
 “(2) The alternative system described in paragraph (1) may include the system used under the TRICARE system, the health-care system of the Department of Veterans Affairs, or any other system, or combination of systems, considered appropriate by the Secretary.
 

@@ -82,7 +82,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;“(3) Payment of expenses for the procurement of services of experts or consultants or organizations thereof for the President-elect or Vice-President-elect, as authorized for the head of any department by section 15 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 55a) \[section 3109 of title 5\].
 
-&emsp;“(4)(A) Payment of travel expenses and subsistence allowances, including rental of Government or hired motor vehicles, found necessary by the President-elect or Vice-President-elect, as authorized for persons employed intermittently or for persons servingwithout compensation by section 5 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 73b–2) \[section 5703 of title 5\], as may be appropriate;
+&emsp;“(4)(A) Payment of travel expenses and subsistence allowances, including rental of Government or hired motor vehicles, found necessary by the President-elect or Vice-President-elect, as authorized for persons employed intermittently or for persons serving without compensation by section 5 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 73b–2) \[section 5703 of title 5\], as may be appropriate;
 
 &emsp;“(B) When requested by the President-elect or Vice-President-elect or their designee, and approved by the President, Government aircraft may be provided for transition purposes on a reimbursable basis; when requested by the President-elect, the Vice-President-elect, or the designee of the President-elect or Vice-President-elect, aircraft may be chartered for transition purposes; and any collections from the Secret Service, press, or others occupying space on chartered aircraft shall be deposited to the credit of the appropriations made under section 6 of this Act.
 
@@ -140,7 +140,7 @@ Sec. 4. The Administrator is authorized to provide, upon request, to each former
 
 “
 
-Sec. 5. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof ofall money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+Sec. 5. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
 
 “(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
 
@@ -183,6 +183,8 @@ Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator 
 #### Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable
 
 Provisions prohibiting expenditure of funds made available for official expenses for any other purpose, requiring reversion of any unused amount to the Treasury pursuant to 31 U.S.C. 1552, and providing that none of the funds made available for official expenses shall be considered as taxable to the President were contained in the following appropriation acts:
+
+Pub. L. 107–67, title III, Nov. 12, 2001, 115 Stat. 526.
 
 Pub. L. 106–554, §1(a)(3) \[title III\], Dec. 21, 2000, 114 Stat. 2763, 2763A–136.
 
@@ -232,7 +234,7 @@ Pub. L. 96–74, title III, Sept. 29, 1979, 93 Stat. 563.
 
 Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, §12(c), Sept. 2, 1960, 74 Stat. 730; Pub. L. 88–426, title I, §124, Aug. 14, 1964, 78 Stat. 412; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 90–206, title II, §224(c), Dec. 16, 1967, 81 Stat. 642; Pub. L. 91–231, §7, Apr. 15, 1970, 84 Stat. 198; Pub. L. 91–658, §6, Jan. 8, 1971, 84 Stat. 1963; Pub. L. 95–138, §1, Oct. 18, 1977, 91 Stat. 1170; Pub. L. 103–123, title IV, §6(a), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 103–329, title V, §531, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title V, §523, Nov. 19, 1995, 109 Stat. 495; Pub. L. 105–61, title IV, §409(a), Oct. 10, 1997, 111 Stat. 1299, provided that:
 
-“(a) Each former President shall be entitled for the remainder of his life to receive from the United States a monetary allowance at a rate per annum, payablemonthly by the Secretary of the Treasury, which is equal to the annual rate of basic pay, as in effect from time to time, of the head of an executive department, as defined in section 101 of title 5, United States Code. However, such allowance shall not be paid for any period during which such former President holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate.
+“(a) Each former President shall be entitled for the remainder of his life to receive from the United States a monetary allowance at a rate per annum, payable monthly by the Secretary of the Treasury, which is equal to the annual rate of basic pay, as in effect from time to time, of the head of an executive department, as defined in section 101 of title 5, United States Code. However, such allowance shall not be paid for any period during which such former President holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate.
 
 “(b) The Administrator of General Services shall, without regard to the civil-service and classification laws, provide for each former President an office staff. Persons employed under this subsection shall be selected by the former President and shall be responsible only to him for the performance of their duties. Each former President shall fix basic rates of compensation for persons employed for him under this paragraph which in the aggregate shall not exceed $96,000 per annum except that for the first 30-month period during which a former President is entitled to staff assistance under this subsection, such rates of compensation in the aggregate shall not exceed $150,000 per annum. The annual rate of compensation payable to any such person shall not exceed the highest annual rate of basic pay now or hereafter provided by law for positions at level II of the Executive Schedule under section 5313 of title 5, United States Code.
 
@@ -270,5 +272,5 @@ Allowance to former President Eisenhower as precluding entitlement to pay of Gen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1091; title 20 section 1018; title 31 section 3524; title 38 section 7437.
+This section is referred to in title 10 section 1091; title 20 section 1018; title 31 section 3524; title 38 section 7437; title 49 section 106.
 

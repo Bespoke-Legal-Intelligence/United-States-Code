@@ -24,7 +24,7 @@ In the event an investigation made pursuant to subsections (a) and (b) of this s
 
 #### (f) Certification of specific positions for investigation by FBI
 
-Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of the members of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigation and reports required by such provisions shall be made by the Federal Bureau of Investigation.
+Notwithstanding the provisions of subsections (a), (b), and (c) of this section, a majority of themembers of the Commission shall certify those specific positions which are of a high degree of importance or sensitivity, and upon such certification, the investigation and reports required by such provisions shall be made by the Federal Bureau of Investigation.
 
 #### (g) Investigation standards
 

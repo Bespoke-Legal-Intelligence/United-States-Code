@@ -70,9 +70,9 @@ In the case of a contract, sale, or arrangement described in paragraph (2), (3),
 
 (Added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 451; Pub. L. 105–34, title IX, §906(b)(3), (4), title XIV, §1401(a), Aug. 5, 1997, 111 Stat. 875, 1045.)
 
-#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Calendar Year 2001
+#### Adjustment of Threshold Price for Purposes of Determining Excise Tax Under This Section for Calendar Year 2002
 
-<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for calendar year 2001, see section 3.19 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of threshold price above which purchase of luxury passenger vehicle becomes subject to excise tax under this section for calendar year 2002, see section 3.21 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 

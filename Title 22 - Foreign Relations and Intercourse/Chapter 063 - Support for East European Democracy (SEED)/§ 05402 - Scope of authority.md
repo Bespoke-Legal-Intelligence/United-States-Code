@@ -12,7 +12,7 @@ In order to strengthen the administration of justice in East European countries,
 
 For purposes of this chapter, the term “East European country” includes Albania, Bulgaria, the Czech and Slovak Federal Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, and states that were part of the former Socialist Federal Republic of Yugoslavia.
 
-(Pub. L. 101–179, §3, as added Pub. L. 102–511, title IX, §903(a), 106 Stat. 3355.)
+(Pub. L. 101–179, §3, as added Pub. L. 102–511, title IX, §903(a), Oct. 24, 1992, 106 Stat. 3355.)
 
 #### References in Text
 

@@ -46,7 +46,7 @@
 
 (d)(1) A member of the Committee who is not an officer or employee of the United States or a member of the Armed Forces, when attending meetings of the Committee or when otherwise engaged in the business of the Committee, is entitled to receive—
 
-&emsp;(A) compensation at a rate fixed by the Secretary, not exceeding the daily equivalent of the current rate of basic pay in effect for GS–18 of the General Schedule under section 5332 of title 5 including travel time; and
+&emsp;(A) compensation at a rate fixed by the Secretary, not exceeding the daily equivalent ofthe current rate of basic pay in effect for GS–18 of the General Schedule under section 5332 of title 5 including travel time; and
 
 &emsp;(B) travel or transportation expenses under section 5703 of title 5.
 
@@ -56,7 +56,7 @@
 
 (4) The provisions of this section relating to an officer or employee of the United States or a member of the Armed Forces do not apply to a member of a reserve component of the Armed Forces unless that member is in an active status.
 
-(e)(1) The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) applies to the Committee,except that the Committee terminates on September 30, 2000.
+(e)(1) The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) applies to the Committee, except that the Committee terminates on September 30, 2000.
 
 (2) Two years prior to the termination date referred to in paragraph (1) of this subsection, the Committee shall submit to Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 

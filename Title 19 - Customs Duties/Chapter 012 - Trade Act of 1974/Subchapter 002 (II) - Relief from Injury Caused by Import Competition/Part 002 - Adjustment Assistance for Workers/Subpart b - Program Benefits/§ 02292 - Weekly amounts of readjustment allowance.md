@@ -16,7 +16,7 @@ Any adversely affected worker who is entitled to trade readjustment allowances a
 
 If a training allowance under any Federal law other than this chapter is paid to an adversely affected worker for any week of unemployment with respect to which he would be entitled (determined without regard to any disqualification under section 2291(b) of this title) to a trade readjustment allowance if he applied for such allowance, each such week shall be deducted from the total number of weeks of trade readjustment allowance otherwise payable to him under section 2293(a) of this title when he applies for a trade readjustment allowance and is determined to be entitled to such allowance. If such training allowance paid to such worker for any week of unemployment is less than the amount of the trade readjustment allowance to which he would be entitled if he applied for such allowance, he shall receive, when he applies for a trade readjustment allowance and is determined to be entitled to such allowance, a trade readjustment allowance for such week equal to such difference.
 
-(Pub. L. 93–618, title II, §232, Jan. 3, 1975, 88 Stat. 2021; Pub. L. 97–35, title XXV, §2504(a), Aug. 13,1981, 95 Stat. 883; Pub. L. 99–272, title XIII, §13003(c), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1423(b), Aug. 23, 1988, 102 Stat. 1246.)
+(Pub. L. 93–618, title II, §232, Jan. 3, 1975, 88 Stat. 2021; Pub. L. 97–35, title XXV, §2504(a), Aug. 13, 1981, 95 Stat. 883; Pub. L. 99–272, title XIII, §13003(c), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1423(b), Aug. 23, 1988, 102 Stat. 1246.)
 
 #### References in Text
 
@@ -44,7 +44,7 @@ Amendment by section 1423(b)(1) effective Aug. 23, 1988, and amendment by sectio
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
-Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin afterSept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
 
 #### Termination Date
 

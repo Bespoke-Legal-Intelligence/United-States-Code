@@ -20,7 +20,7 @@ The President shall promulgate regulations to carry out this section and such re
 
 #### (d) Administrative expenses
 
-A State may expend not to exceed 5 percent of any grant made by the President to it under subsection (a) of this section for expenses of administering grants to individuals and families under this section.
+A State may expend not to exceed 5 percent of any grant made by the President to it undersubsection (a) of this section for expenses of administering grants to individuals and families under this section.
 
 #### (e) Administration through Governor
 

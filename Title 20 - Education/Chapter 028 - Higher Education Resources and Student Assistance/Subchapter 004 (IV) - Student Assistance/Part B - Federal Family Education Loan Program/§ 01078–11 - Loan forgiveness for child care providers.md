@@ -40,7 +40,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary may carry out a demonstration program of assuming the obligation to repay, pursuant to subsection (d) of this section, a loan made, insured, or guaranteed under this part or part C of this subchapter (excluding loans made under sections 1078–2 and 1078–3 of this title or comparable loans made under part C of this subchapter) for any new borrower after October 7, 1998, who—
+&emsp;The Secretary may carry out a demonstration program of assuming the obligation torepay, pursuant to subsection (d) of this section, a loan made, insured, or guaranteed under this part or part C of this subchapter (excluding loans made under sections 1078–2 and 1078–3 of this title or comparable loans made under part C of this subchapter) for any new borrower after October 7, 1998, who—
 
 &emsp;&emsp;(A) completes a degree in early childhood education;
 

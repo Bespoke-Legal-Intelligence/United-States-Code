@@ -44,7 +44,7 @@ Pub. L. 101–593, title II, Nov. 16, 1990, 104 Stat. 2962, provided that:
 
 “(b) For fiscal year 1991 and in each of the following 4 fiscal years, the Administrator shall, during each such fiscal year, provide increasing numbers of additional support staff to the Office of Criminal Investigations.
 
-“(c) The head of the Office of Criminal Investigations shall be a position in the competitive service as defined in 2102 of title 5 U.S.C. or a career reserve position as defined in 3132(A) of title 5 U.S.C. and the head of such office shall report directly, without intervening reviewor approval, to the Assistant Administrator for Enforcement.
+“(c) The head of the Office of Criminal Investigations shall be a position in the competitive service as defined in 2102 of title 5 U.S.C. or a career reserve position as defined in 3132(A) of title 5 U.S.C. and the head of such office shall report directly, without intervening review or approval, to the Assistant Administrator for Enforcement.
 
 #### “SEC. 203. CIVIL INVESTIGATORS.
 
@@ -102,7 +102,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (5) So much of the functions of the Council on Environmental Quality under section 204(5) of the National Environmental Policy Act of 1969 (Public Law 91–190, approved January 1, 1970, 83 Stat. 855) \[42 U.S.C. 4344(5)\], as pertains to ecological systems.
 
-(6) The functions of the Atomic Energy Commission under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], administered through its Division of Radiation Protection Standards, to the extent that such functions of the Commission consist of establishing generally applicable environmental standards for the protection of the general environment from radioactive material. As used herein, standards mean limits on radiation exposures or levels, or concentrations or quantities of radioactive material, in the general environment outside the boundaries of locations under the control of persons possessing or using radio-active material.
+(6) The functions of the Atomic Energy Commission under the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], administered through its Division of Radiation Protection Standards, to the extent that such functions of the Commission consist of establishing generally applicable environmental standards for the protection of the general environment from radioactive material. As used herein, standards mean limitson radiation exposures or levels, or concentrations or quantities of radioactive material, in the general environment outside the boundaries of locations under the control of persons possessing or using radio-active material.
 
 (7) All functions of the Federal Radiation Council (42 U.S.C. 2021(h)).
 
@@ -230,11 +230,11 @@ National Air Pollution Control Administration.—As the principal Federal agency
 
 Elements of the Environmental Control Administration.—ECA is the focal point within HEW for evaluation and control of a broad range of environmental health problems, including water quality, solid wastes, and radiation. Programs in the ECA involve research, development of criteria and standards, and the administration of planning and demonstration grants. From the ECA, the activities of the Bureaus of Water Hygiene and Solid Waste Management and portions of the activities of the Bureau of Radiological Health would be transferred. Other functions of the ECA including those related to the regulation of radiation from consumer products and occupational safety and health would remain in HEW.
 
-Pesticides research and standard-setting programs of the Food and Drug Administration.—FDA's pesticides program consists of setting and enforcing standards which limit pesticide residues in food. EPA would have the authority to set pesticide standards and to monitor compliance with them, as well as to conduct related research. However, as an integral part of its food protection activities, FDA would retain its authority to remove from the market food with excess pesticide residues.
+Pesticides research and standard-setting programs of the Food and Drug Administration.—FDA's pesticides program consists of setting and enforcing standards which limit pesticide residues in food. EPA would havethe authority to set pesticide standards and to monitor compliance with them, as well as to conduct related research. However, as an integral part of its food protection activities, FDA would retain its authority to remove from the market food with excess pesticide residues.
 
 General ecological research from the Council on Environmental Quality.—This authority to perform studies and research relating to ecological systems would be in addition to EPA's other specific research authorities, and it would help EPA to measure the impact of pollutants. The Council on Environmental Quality would retain its authority to conduct studies and research relating to environmental quality.
 
-Environmental radiation standards programs.—The Atomic Energy Commission is now responsible for establishing environmental radiation standards and emission limits for radioactivity. Those standards havebeen based largely on broad guidelines recommended by the Federal Radiation Council. The Atomic Energy Commission's authority to set standards for the protection of the general environment from radioactive material would be transferred to the Environmental Protection Agency. The functions of the Federal Radiation Council would also be transferred. AEC would retain responsibility for the implementation and enforcement of radiation standards through its licensing authority.
+Environmental radiation standards programs.—The Atomic Energy Commission is now responsible for establishing environmental radiation standards and emission limits for radioactivity. Those standards have been based largely on broad guidelines recommended by the Federal Radiation Council. The Atomic Energy Commission's authority to set standards for the protection of the general environment from radioactive material would be transferred to the Environmental Protection Agency. The functions of the Federal Radiation Council would also be transferred. AEC would retain responsibility for the implementation and enforcement of radiation standards through its licensing authority.
 
 Pesticides registration program of the Agricultural Research Service.—The Department of Agriculture is currently responsible for several distinct functions related to pesticides use. It conducts research on the efficacy of various pesticides as related to other pest control methods and on the effects of pesticides on non-target plants, livestock, and poultry. It registers pesticides, monitors their persistence and carries out an educational program on pesticide use through the extension service. It conducts extensive pest control programs which utilize pesticides.
 
@@ -280,7 +280,7 @@ The oceans and the atmosphere are interacting parts of the total environmental s
 
 We face immediate and compelling needs for better protection of life and property from natural hazards, and for a better understanding of the total environment—and understanding which will enable us more effectively to monitor and predict its actions, and ultimately, perhaps to exercise some degree of control over them.
 
-We also face a compelling need for exploration and development leading to the intelligent use of our marine resources. The global oceans, which constitute nearly three-fourths of the surface of our planet, are today the least-understood, the least-developed, and the least-protected part of our earth. Food from the oceans will increasingly be a key element in the world's fight against hunger. The mineral resources of the ocean beds and of the oceans themselves, are beingincreasingly tapped to meet the growing world demand. We must understand the nature of these resources, and assure their development without either contaminating the marine environment or upsetting its balance.
+We also face a compelling need for exploration and development leading to the intelligent use of our marine resources. The global oceans, which constitute nearly three-fourths of the surface of our planet, are today the least-understood, the least-developed, and the least-protected part of our earth. Food from the oceans will increasingly be a key element in the world's fight against hunger. The mineral resources of the ocean beds and of the oceans themselves, are being increasingly tapped to meet the growing world demand. We must understand the nature of these resources, and assure their development without either contaminating the marine environment or upsetting its balance.
 
 Establishment of the National Oceanic and Atmospheric Administration—NOAA—within the Department of Commerce would enable us to approach these tasks in a coordinated way. By employing a unified approach to the problems of the oceans and atmosphere, we can increase our knowledge and expand our opportunities not only in those areas, but in the third major component of our environment, the solid earth, as well.
 
@@ -426,7 +426,7 @@ Sec. 102. <i>Functions of the Cabinet Committee</i>. (a) The Cabinet Committee s
 
 (8) Facilitate coordination among departments and agencies of the Federal Government in protecting and improving the environment.
 
-(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plans and programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and waterresources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistent with other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5) interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
+(b) The Cabinet Committee shall review plans and actions of Federal agencies affecting outdoor recreation and natural beauty. The Cabinet Committee may conduct studies and make recommendations to the President on matters of policy in the fields of outdoor recreation and natural beauty. In carrying out the foregoing provisions of this subsection, the Cabinet Committee shall, as far as may be practical, advise Federal agencies with respect to the effect of their respective plans and programs on recreation and natural beauty, and may suggest to such agencies ways to accomplish the purposes of this order. For the purposes of this order, plans and programs may include, but are not limited to, those for or affecting: (1) Development, restoration, and preservation of the beauty of the countryside, urban and suburban areas, water resources, wild rivers, scenic roads, parkways and highways, (2) the protection and appropriate management of scenic or primitive areas, natural wonders, historic sites, and recreation areas, (3) the management of Federal land and water resources, including fish and wildlife, to enhance natural beauty and recreational opportunities consistent with other essential uses, (4) cooperation with the States and their local subdivisions and private organizations and individuals in areas of mutual interest, (5) interstate arrangements, including Federal participation where authorized and necessary, and (6) leadership in a nationwide recreation and beautification effort.
 
 Sec. 103. <i>Coordination</i>. The Secretary of the Interior may make available to the Cabinet Committee for coordination of outdoor recreation the authorities and resources available to him under the Act of May 28, 1963, 77 Stat. 49 \[16 U.S.C. 460<i>l</i> et seq.\], to the extent permitted by law, he may make such authorities and resources available to the Cabinet Committee also for promoting such coordination of other matters assigned to the Cabinet Committee by this order.
 
@@ -474,7 +474,7 @@ Sec. 2. <i>Responsibilities of Federal agencies</i>. Consonant with Title I of t
 
 (c) Insure that information regarding existing or potential environmental problems and control methods developed as part of research, development, demonstration, test, or evaluation activities is made available to Federal agencies, States, counties, municipalities, institutions, and other entities, as appropriate.
 
-(d) Review their agencies’ statutory authority, administrative regulations, policies, and procedures, including those relating to loans, grants, contracts, leases, licenses, or permits, in order to identify any deficiencies or inconsistencies therein which prohibit or limit full compliance with the purposes and provisions of the Act. A report on this review and the corrective actions taken or planned, including such measures to be proposed to the President as may be necessary to bring their authority and policies into conformance with the intent, purposes, and procedures of the Act, shall be provided to the Council on Environmental Quality not later than September 1, 1970.
+(d) Review their agencies’ statutory authority, administrative regulations, policies, and procedures, including those relating to loans, grants, contracts, leases, licenses, or permits, in order to identify any deficiencies or inconsistencies therein which prohibit or limit full compliance with the purposes and provisions of the Act. A report on this review and the corrective actions taken or planned, including such measures to be proposed to the President as may be necessary to bring their authority and policies into conformancewith the intent, purposes, and procedures of the Act, shall be provided to the Council on Environmental Quality not later than September 1, 1970.
 
 (e) Engage in exchange of data and research results, and cooperate with agencies of other governments to foster the purposes of the Act.
 
@@ -554,7 +554,7 @@ Sec. 4. <i>Assistance for the Industrial Council</i>. In compliance with applica
 
 Sec. 5. <i>Expenses</i>. Members of the Industrial Council or any of its subordinate committees shall receive no compensation from the United States by reason of their services hereunder, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently.
 
-Sec. 6. <i>Regulations</i>. The provisions of Executive Order No. 11007 of February 26, 1962 (3 CFR 573) \[see 5 U.S.C. 901 note\] prescribing regulations for the formation anduse of advisory committees, are hereby made applicable to the Industrial Council and each of its subordinate committees. The Secretary may exercise the discretionary powers set forth in that order.
+Sec. 6. <i>Regulations</i>. The provisions of Executive Order No. 11007 of February 26, 1962 (3 CFR 573) \[see 5 U.S.C. 901 note\] prescribing regulations for the formation and use of advisory committees, are hereby made applicable to the Industrial Council and each of its subordinate committees. The Secretary may exercise the discretionary powers set forth in that order.
 
 Sec. 7. <i>Construction</i>. Nothing in this order shall be construed as subjecting any Federal agency, or any function vested by law in, or assigned pursuant to law to, any Federal agency to the authority of any other Federal agency or of the Industrial Council or of any of its subordinate committees, or as abrogating or restricting any such function in any manner.
 
@@ -640,7 +640,7 @@ Sec. 2. In carrying out the activities described in Section 1 of this Order, eac
 
 (c) Each agency shall take floodplain management into account when formulating or evaluating any water and land use plans and shall require land and water resources use appropriate to the degree of hazard involved. Agencies shall include adequate provision for the evaluation and consideration of flood hazards in the regulations and operating procedures for the licenses, permits, loan or grants-in-aid programs that they administer. Agencies shall also encourage and provide appropriate guidance to applicants to evaluate the effects of their proposals in floodplains prior to submitting applications for Federal licenses, permits, loans or grants.
 
-(d) As allowed by law, each agency shall issue or amend existing regulations and procedures within one year to comply with this Order. These procedures shall incorporate the Unified National Program for Floodplain Management of the Water Resources Council, and shall explain the means that the agency will employ to pursue the nonhazardous use of riverine, coastal and other floodplains in connection with the activities under its authority. To the extent possible, existing processes, such as those of the Council on Environmental Quality and the Water Resources Council, shall be utilized to fulfill the requirements of this Order. Agencies shall prepare their procedures in consultation with the Water Resources Council, the Director of the Federal Emergency Management Agency, and theCouncil on Environmental Quality, and shall update such procedures as necessary.
+(d) As allowed by law, each agency shall issue or amend existing regulations and procedures within oneyear to comply with this Order. These procedures shall incorporate the Unified National Program for Floodplain Management of the Water Resources Council, and shall explain the means that the agency will employ to pursue the nonhazardous use of riverine, coastal and other floodplains in connection with the activities under its authority. To the extent possible, existing processes, such as those of the Council on Environmental Quality and the Water Resources Council, shall be utilized to fulfill the requirements of this Order. Agencies shall prepare their procedures in consultation with the Water Resources Council, the Director of the Federal Emergency Management Agency, and the Council on Environmental Quality, and shall update such procedures as necessary.
 
 Sec. 3. In addition to the requirements of Section 2, agencies with responsibilities for Federal real property and facilities shall take the following measures:
 
@@ -688,7 +688,7 @@ Sec. 2. (a) In furtherance of Section 101(b)(3) of the National Environmental Po
 
 Sec. 3. Any requests for new authorizations or appropriations transmitted to the Office of Management and Budget shall indicate, if an action to be proposed will be located in wetlands, whether the proposed action is in accord with this Order.
 
-Sec. 4. When Federally-owned wetlands or portions of wetlands are proposed for lease, easement, right-of-way or disposal to non-Federal public or private parties, the Federal agency shall (a) reference in the conveyance those uses that are restricted under identified Federal,State or local wetlands regulations; and (b) attach other appropriate restrictions to the uses of properties by the grantee or purchaser and any successor, except where prohibited by law; or (c) withhold such properties from disposal.
+Sec. 4. When Federally-owned wetlands or portions of wetlands are proposed for lease, easement, right-of-way or disposal to non-Federal public or private parties, the Federal agency shall (a) reference in the conveyance those uses that are restricted under identified Federal, State or local wetlands regulations; and (b) attach other appropriate restrictions to the uses of properties by the grantee or purchaser and any successor, except where prohibited by law; or (c) withhold such properties from disposal.
 
 Sec. 5. In carrying out the activities described in Section 1 of this Order, each agency shall consider factors relevant to a proposal's effect on the survival and quality of the wetlands. Among these factors are:
 
@@ -754,7 +754,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 #### 1–3. Technical Advice and Oversight
 
-1–301. The Administrator shall provide technical advice and assistance to Executive agencies in order to ensure their cost effective and timely compliance with applicable pollution control standards.
+1–301. The Administrator shall provide technical advice and assistance to Executive agencies in order toensure their cost effective and timely compliance with applicable pollution control standards.
 
 1–302. The administrator shall conduct such reviews and inspections as may be necessary to monitor compliance with applicable pollution control standards by Federal facilities and activities.
 
@@ -764,7 +764,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 #### 1–5. Funding
 
-1–501. The head of each Executive agency shall ensure that sufficient funds for compliance with applicablepollution control standards are requested in the agency budget.
+1–501. The head of each Executive agency shall ensure that sufficient funds for compliance with applicable pollution control standards are requested in the agency budget.
 
 1–502. The head of each Executive agency shall ensure that funds appropriated and apportioned for the prevention, control and abatement of environmental pollution are not used for any other purpose unless permitted by law and specifically approved by the Office of Management and Budget.
 
@@ -904,7 +904,7 @@ In order to avoid duplication of resources, agencies in their procedures shall p
 
 3–3. <i>Multi-Agency Actions</i>. Where more than one Federal agency is involved in an action or program, a lead agency, as determined by the agencies involved, shall have responsibility for implementation of this Order.
 
-3–4. <i>Certain Terms</i>. For purposes of this Order, “environment” means the natural and physical environment and excludes social, economic and other environments; and an action significantly affects the environment if it does significant harm to the environment even though on balance the agency believes the action to be beneficial to the environment. The term “export approvals” in Section 2–5(a)(v) does not mean or include direct loans to finance exports.
+3–4. <i>Certain Terms</i>. For purposes of this Order, “environment” means the natural and physical environment and excludes social, economic and other environments;and an action significantly affects the environment if it does significant harm to the environment even though on balance the agency believes the action to be beneficial to the environment. The term “export approvals” in Section 2–5(a)(v) does not mean or include direct loans to finance exports.
 
 3–5. <i>Multiple Impacts</i>. If a major Federal action having effects on the environment of the United States or the global commons requires preparation of an environmental impact statement, and if the action also has effects on the environment of a foreign nation, an environmental impact statement need not be prepared with respect to the effects on the environment of the foreign nation.
 
@@ -950,7 +950,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12852
 
-Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 12855, July 19, 1993, 58 F.R. 39107; Ex. Ord. No. 12965, June 27, 1995, 60 F.R. 34087; Ex. Ord. No. 12980, Nov. 17, 1995, 60 F.R. 57819; Ex. Ord. No. 13053, June 30, 1997, 62 F.R. 39945 \[35945\]; Ex. Ord. No. 13114, Feb. 25, 1999, 64 F.R. 10099, which established the President's Council on Sustainable Development, was revoked by Ex. Ord. No. 13138, §3(f), Sept. 30, 1999, 64 F.R. 53880, set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 12855, July 19, 1993, 58 F.R. 39107; Ex. Ord. No. 12965, June 27, 1995, 60 F.R. 34087; Ex. Ord. No. 12980, Nov. 17, 1995, 60 F.R. 57819; Ex. Ord. No. 13053, June 30, 1997, 62 F.R. 39945 \[35945\]; Ex. Ord. No. 13114, Feb. 25, 1999, 64 F.R. 10099, which established the President's Council on Sustainable Development, was revoked by Ex. Ord. No. 13138, §3(f), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 12898. Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations
 
@@ -962,7 +962,7 @@ Section 1–1. IMPLEMENTATION.
 
 1–101. <i>Agency Responsibilities</i>. To the greatest extent practicable and permitted by law, and consistent with the principles set forth in the report on the National Performance Review, each Federal agency shall make achieving environmental justice part of its mission by identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations in the United States and its territories and possessions, the District of Columbia, the Commonwealth of Puerto Rico, and the Commonwealth of the Mariana Islands.
 
-1–102. <i>Creation of an Interagency Working Group on Environmental Justice</i>. (a) Within 3 months of the date of this order, the Administrator of the Environmental Protection Agency (“Administrator”) or the Administrator's designee shall convene an interagency Federal Working Group on Environmental Justice (“Working Group”). The Working Group shall comprise the heads of the following executive agencies and offices, or their designees: (a) Department of Defense; (b) Department of Health and Human Services; (c) Department of Housing and Urban Development; (d) Department of Labor; (e) Department of Agriculture; (f) Department of Transportation; (g) Department of Justice; (h) Department of the Interior; (i) Department of Commerce; (j) Department of Energy; (k) Environmental Protection Agency; (<i>l</i>) Office of Management and Budget; (m) Office of Science and Technology Policy; (n) Office of the Deputy Assistant to the President for Environmental Policy; (<i>o</i>) Office of the Assistant to the President for Domestic Policy; (p) National Economic Council; (q) Council of Economic Advisers; and (r) such other Government officials as the President may designate. The Working Group shall report to the President through the Deputy Assistant to the President for Environmental Policy and the Assistant to the President for Domestic Policy.
+1–102. <i>Creation of an Interagency Working Group on Environmental Justice</i>. (a) Within 3 months of the date of this order, the Administrator of the Environmental Protection Agency (“Administrator”) or the Administrator's designee shall convene an interagency Federal Working Group on Environmental Justice (“Working Group”). The Working Group shall comprise the heads of the following executive agencies and offices, or their designees: (a) Department of Defense; (b) Department of Health and Human Services; (c) Department of Housing and Urban Development; (d) Department of Labor; (e) Department of Agriculture; (f) Department of Transportation; (g) Department of Justice; (h) Department of the Interior; (i) Department of Commerce; (j) Department of Energy; (k) Environmental Protection Agency; (<i>l</i>) Office of Management and Budget; (m) Office of Science and Technology Policy; (n) Office of the Deputy Assistant to the President for Environmental Policy; (<i>o</i>) Office of the Assistant to the President for Domestic Policy; (p) National Economic Council; (q) Council of Economic Advisers; and (r) such other Government officials as the President may designate. TheWorking Group shall report to the President through the Deputy Assistant to the President for Environmental Policy and the Assistant to the President for Domestic Policy.
 
 (b) The Working Group shall: (1) provide guidance to Federal agencies on criteria for identifying disproportionately high and adverse human health or environmental effects on minority populations and low-income populations;
 
@@ -1014,7 +1014,7 @@ Sec. 3–3. RESEARCH, DATA COLLECTION, AND ANALYSIS.
 
 Sec. 4–4. SUBSISTENCE CONSUMPTION OF FISH AND WILDLIFE.
 
-4–401. <i>Consumption Patterns</i>. In order to assist in identifying the need for ensuring protection of populations with differential patterns of subsistence consumption of fish and wildlife, Federal agencies, whenever practicable and appropriate, shall collect, maintain, and analyze information on the consumption patterns of populations who principally rely on fish and/or wildlifefor subsistence. Federal agencies shall communicate to the public the risks of those consumption patterns.
+4–401. <i>Consumption Patterns</i>. In order to assist in identifying the need for ensuring protection of populations with differential patterns of subsistence consumption of fish and wildlife, Federal agencies, whenever practicable and appropriate, shall collect, maintain, and analyze information on the consumption patterns of populations who principally rely on fish and/or wildlife for subsistence. Federal agencies shall communicate to the public the risks of those consumption patterns.
 
 4–402. <i>Guidance</i>. Federal agencies, whenever practicable and appropriate, shall work in a coordinated manner to publish guidance reflecting the latest scientific information available concerning methods for evaluating the human health risks associated with the consumption of pollutant-bearing fish or wildlife. Agencies shall consider such guidance in developing their policies and rules.
 
@@ -1050,7 +1050,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13045. Protection of Children From Environmental Health Risks and Safety Risks
 
-Ex. Ord. No. 13045, Apr. 21, 1997, 62 F.R. 19885, provided:
+Ex. Ord. No. 13045, Apr. 21, 1997, 62 F.R. 19885, as amended by Ex. Ord. No. 13229, Oct. 9, 2001, 66 F.R. 52013, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -1080,7 +1080,7 @@ Sec. 3. <i>Task Force on Environmental Health Risks and Safety Risks to Children
 
 3–301. There is hereby established the Task Force on Environmental Health Risks and Safety Risks to Children (“Task Force”).
 
-3–302. The Task Force will report to the President in consultation with the Domestic Policy Council, the National Science and Technology Council, the Council onEnvironmental Quality, and the Office of Management and Budget (OMB).
+3–302. The Task Force will report to the President in consultation with the Domestic Policy Council, the National Science and Technology Council, the Council on Environmental Quality, and the Office of Management and Budget (OMB).
 
 3–303. <i>Membership</i>. The Task Force shall be composed of the:
 
@@ -1136,7 +1136,7 @@ Members of the Task Force may delegate their responsibilities under this order t
 
 3–305. The Task Force shall prepare a biennial report on research, data, or other information that would enhance our ability to understand, analyze, and respond to environmental health risks and safety risks to children. For purposes of this report, cabinet agencies and other agencies identified by the Task Force shall identify and specifically describe for the Task Force key data needs related to environmental health risks and safety risks to children that have arisen in the course of the agency's programs and activities. The Task Force shall incorporate agency submissions into its report and ensure that this report is publicly available and widely disseminated. The Office of Science and Technology Policy and the National Science and Technology Council shall ensure that this report is fully considered in establishing research priorities.
 
-3–306. The Task Force shall exist for a period of 4 years from the first meeting. At least 6 months prior to the expiration of that period, the member agencies shall assess the need for continuation of the Task Force or its functions, and make appropriate recommendations to the President.
+3–306. The Task Force shall exist for 6 years from the date of this order. At least 6 months prior to the expiration of that period, the member agencies shall assess the need for continuation of the Task Force or its functions, and make appropriate recommendations to the President.
 
 Sec. 4. <i>Research Coordination and Integration.</i>
 
@@ -1169,8 +1169,6 @@ Sec. 7. <i>General Provisions.</i>
 7–701. This order is intended only for internal management of the executive branch. This order is not intended, and should not be construed to create, any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or its employees. This order shall not be construed to create any right to judicial review involving the compliance or noncompliance with this order by the United States, its agencies, its officers, or any other person.
 
 7–702. Executive Order 12606 of September 2, 1987 is revoked.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13061. Federal Support of Community Efforts Along American Heritage Rivers
 
@@ -1226,7 +1224,7 @@ The Chair of the Council on Environmental Quality (“CEQ”) shall develop a fa
 
 (2) The Interagency Committee provided for in section 3 of this order shall develop a process by which any community that nominates and has its river designated may have this designation terminated at its request.
 
-(3) Upon a determination by the Chair of the CEQ that a community has failed to implement its plan, the Chair may recommend to the President that a designation be revoked. The Chair shall notify the community at least 30 days prior to making such a recommendation to the President. Based on that recommendation, the President may revoke the designation.
+(3) Upon a determination by the Chair of the CEQ that a community has failed to implement its plan, theChair may recommend to the President that a designation be revoked. The Chair shall notify the community at least 30 days prior to making such a recommendation to the President. Based on that recommendation, the President may revoke the designation.
 
 Sec. 3. <i>Establishment of an Interagency Committee</i>. There is hereby established the American Heritage Rivers Interagency Committee (“Committee”). The Committee shall have two co-chairs. The Chair of the CEQ shall be a permanent co-chair. The other co-chair will rotate among the heads of the agencies listed below.
 
@@ -1296,67 +1294,9 @@ Sec. 7. <i>Judicial Review</i>. This order does not create any right or benefit,
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13080. American Heritage Rivers Initiative Advisory Committee
+#### Executive Order No. 13080
 
-Ex. Ord. No. 13080, Apr. 7, 1998, 63 F.R. 17667, as amended by Ex. Ord. No. 13093, July 27, 1998, 63 F.R. 40357, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States, including the Federal Advisory Committee Act, 5 U.S.C. App., as amended, it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. There is hereby established the American Heritage Rivers Initiative Advisory Committee (“Committee”). The Committee shall consist of up to 20 members appointed by the President from the public and private sectors. Each member of the Committee shall be a person who, as a result of his or her training, experience, and attainments, is well qualified to appraise the quality of nominations for selection of rivers as American Heritage Rivers submitted by communities across the country. The expertise of members of the Committee shall be in areas such as natural, cultural, and historic resources; water quality; public health; scenic and recreation interests; tourism and economic development interests; industry; and agriculture. The President shall designate a Chair from among the members of the Committee.
-
-Sec. 2. (a) The Committee shall review nominations from communities and recommend to the President up to 20 rivers for consideration for designation as American Heritage Rivers. From the rivers recommended for consideration, the President shall designate up to 20 as American Heritage Rivers.
-
-(b) In its review of nominations submitted by communities, the Committee shall provide its assessment of:
-
-&emsp;(1) The scope of each nomination's application and the adequacy of its design to achieve the community's goals;
-
-&emsp;(2) Whether the natural, economic (including agricultural), scenic, historic, cultural, and/or recreational resources featured in the application are distinctive or unique;
-
-&emsp;(3) The extent to which the community's plan of action is clearly defined and the extent to which the plan addresses all three American Heritage Rivers objectives—natural resource and environmental protection, economic revitalization, and historic and cultural preservation—either through planned actions or past accomplishments, as well as any other characteristics of the proposals that distinguish a nomination, such as:
-
-&emsp;&emsp;(A) Community vision and partnership;
-
-&emsp;&emsp;(B) Sustainability of products and projects, including project maintenance;
-
-&emsp;&emsp;(C) Resources, both committed and anticipated, including means of generating additional support from both private and public sources;
-
-&emsp;&emsp;(D) Anticipated Federal role as defined by the applicants;
-
-&emsp;&emsp;(E) Schedule or timeline;
-
-&emsp;&emsp;(F) Citizen involvement;
-
-&emsp;&emsp;(G) Public education relating to the designation of the river;
-
-&emsp;&emsp;(H) Logistical support, operating procedures, and policies;
-
-&emsp;&emsp;(I) Prior accomplishments, if relevant, and relationship to existing plans and projects in the area; and
-
-&emsp;&emsp;(J) Measures of performance.
-
-&emsp;(4) The strength and diversity of support for the nomination and plan of action as evidenced by letters from local and State governments, Indian tribes, elected officials, any and all parties who participate in the life and health of the area to be nominated, or who have an interest in the economic life and cultural and environmental vigor of the involved community.
-
-(c) The Committee also should seek to recommend the selection of rivers that as a group:
-
-&emsp;(1) Represent the natural, historic, cultural, social, economic, and agricultural diversity of American rivers;
-
-&emsp;(2) Showcase a variety of stream sizes and an assortment of urban, rural, and mixed settings from around the country, including both relatively pristine and degraded rivers;
-
-&emsp;(3) Highlight a variety of innovative programs in such areas as historic preservation, sustainable development through tourism, wildlife management, fisheries restoration, recreation, community revitalization, agricultural practices, and flood plain and watershed management;
-
-&emsp;(4) Include community efforts in early stages of development as well as those that are more well established; and
-
-&emsp;(5) Stand to benefit from targeted Federal assistance.
-
-(d) The Committee shall report its recommendations for selection of rivers as American Heritage Rivers to the President through the Chair of the Council on Environmental Quality.
-
-Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall provide the Committee, to the extent practicable and permitted by law, such information with respect to river revitalization as the Committee requires to fulfill its functions.
-
-(b) The Committee shall be supported both administratively and financially by the Secretary of Defense, acting through the Assistant Secretary of the Army for Civil Works.
-
-Sec. 4. <i>General</i>. The Committee shall terminate no later than 2 years from the date of this order. The Chair of the Committee, with the approval of the designated Federal officer, shall call meetings of the American Heritage Rivers Initiative Advisory Committee.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13080, Apr. 7, 1998, 63 F.R. 17667, as amended by Ex. Ord. No. 13093, July 27, 1998, 63 F.R. 40357, which established the American Heritage Rivers Initiative Advisory Committee, was revoked by Ex. Ord. No. 13225, §3(b), Sept. 28, 2001, 66 F.R. 50292, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Proc. No. 7112. Designation of American Heritage Rivers
 
@@ -1366,7 +1306,7 @@ In celebration of America's rivers, and to recognize and reward grassroots effor
 
 Having reviewed the recommendations of the American Heritage Rivers Initiative Advisory Committee, I am pleased to be able to recognize a select group of rivers and communities that reflect the true diversity and splendor of America's natural endowment, and the tremendous energy and commitment of its citizenry.
 
-Pursuant to Executive Orders 13061, 13080, and 13093 \[set out above\], I hereby designate the following American Heritage Rivers:
+Pursuant to Executive Orders 13061 \[set out above\], 13080, and 13093 \[set out above\], I hereby designate the following American Heritage Rivers:
 
 &emsp;• The Blackstone and Woonasquatucket Rivers, in the States of Massachusetts and Rhode Island;
 
@@ -1454,7 +1394,7 @@ Sec. 4. <i>Duties of the Invasive Species Council</i>. The Invasive Species Coun
 
 (e) facilitate development of a coordinated network among Federal agencies to document, evaluate, and monitor impacts from invasive species on the economy, the environment, and human health;
 
-(f) facilitate establishment of a coordinated, up-to-date information-sharing system that utilizes, to the greatest extent practicable, the Internet; this system shall facilitate access to and exchange of information concerning invasive species, including, but not limited to, information on distribution and abundance of invasive species; life histories of such species and invasive characteristics; economic, environmental, and human health impacts; management techniques, and laws and programs for management, research, and public education; and
+(f) facilitate establishment of a coordinated, up-to-date information-sharing system that utilizes, to the greatest extent practicable, the Internet; this systemshall facilitate access to and exchange of information concerning invasive species, including, but not limited to, information on distribution and abundance of invasive species; life histories of such species and invasive characteristics; economic, environmental, and human health impacts; management techniques, and laws and programs for management, research, and public education; and
 
 (g) prepare and issue a national Invasive Species Management Plan as set forth in section 5 of this order.
 
@@ -1496,7 +1436,7 @@ Sec. 204. <i>Release Reduction: Toxic Chemicals</i>. Through innovative pollutio
 
 Sec. 205. <i>Use Reduction: Toxic Chemicals and Hazardous Substances and Other Pollutants</i>. Through identification of proven substitutes and established facility management practices, including pollution prevention, each agency shall reduce its use of selected toxic chemicals, hazardous substances, and pollutants, or its generation of hazardous and radioactive waste types at its facilities by 50 percent by December 31, 2006. If an agency is unable to reduce the use of selected chemicals, that agency will reduce the use of selected hazardous substances or its generation of other pollutants, such as hazardous and radioactive waste types, at its facilities by 50 percent by December 31, 2006.
 
-Sec. 206. <i>Reductions in Ozone-Depleting Substances</i>. Through evaluating present and future uses of ozone-depleting substances and maximizing the purchase and the use of safe, cost effective, and environmentally preferable alternatives, each agency shall develop a plan to phase out the procurement of Class I ozone-depleting substances for all nonexcepted uses by December 31, 2010.
+Sec. 206. <i>Reductions in Ozone-Depleting Substances</i>. Through evaluating present and future uses of ozone-depleting substances and maximizing the purchase andthe use of safe, cost effective, and environmentally preferable alternatives, each agency shall develop a plan to phase out the procurement of Class I ozone-depleting substances for all nonexcepted uses by December 31, 2010.
 
 Sec. 207. <i>Environmentally and Economically Beneficial Landscaping</i>. Each agency shall strive to promote the sustainable management of Federal facility lands through the implementation of cost-effective, environmentally sound landscaping practices, and programs to reduce adverse impacts to the natural environment.
 
@@ -1508,7 +1448,7 @@ Sec. 302. <i>Application of Life Cycle Assessment Concepts</i>. Each agency with
 
 Sec. 303. <i>Pollution Prevention to Address Compliance</i>. Each agency shall ensure that its environmental regulatory compliance funding policies promote the use of pollution prevention to achieve and maintain environmental compliance at the agency's facilities. Agencies shall adopt a policy to preferentially use pollution prevention projects and activities to correct and prevent noncompliance with environmental regulatory requirements. Agency funding requests for facility compliance with Federal, State, and local environmental regulatory requirements shall emphasize pollution prevention through source reduction as the means of first choice to ensure compliance, with reuse and recycling alternatives having second priority as a means of compliance.
 
-Sec. 304. <i>Pollution Prevention Return-on-Investment Programs</i>. Each agency shall develop and implement a pollution prevention program at its facilities that compares the life cycle costs of treatment and/or disposalof waste and pollutant streams to the life cycle costs of alternatives that eliminate or reduce toxic chemicals or pollutants at the source. Each agency shall implement those projects that are life-cycle cost-effective, or otherwise offer substantial environmental or economic benefits.
+Sec. 304. <i>Pollution Prevention Return-on-Investment Programs</i>. Each agency shall develop and implement a pollution prevention program at its facilities that compares the life cycle costs of treatment and/or disposal of waste and pollutant streams to the life cycle costs of alternatives that eliminate or reduce toxic chemicals or pollutants at the source. Each agency shall implement those projects that are life-cycle cost-effective, or otherwise offer substantial environmental or economic benefits.
 
 Sec. 305. <i>Policies, Strategies, and Plans.</i>
 
@@ -1590,7 +1530,7 @@ Sec. 501. <i>Toxics Release Inventory/Pollution Prevention Act Reporting</i>. To
 
 Sec. 502. <i>Release Reduction: Toxic Chemicals</i>. To attain the goals of section 204 of this order:
 
-(a) Beginning with reporting for calendar year 2001 activities, each agency reporting under section 501 ofthis order shall adopt a goal of reducing, where cost effective, the agency's total releases of toxic chemicals to the environment and off-site transfers of such chemicals for treatment and disposal by at least 10 percent annually, or by 40 percent overall by December 31, 2006. Beginning with activities for calendar year 2001, the baseline for measuring progress in meeting the reduction goal will be the aggregate of all such releases and off-site transfers of such chemicals for treatment and disposal as reported by all of the agency's facilities under section 501 of this order. The list of toxic chemicals applicable to this goal is the EPCRA section 313 \[42 U.S.C. 11023\] list as of December 1, 2000. If an agency achieves the 40 percent reduction goal prior to December 31, 2006, that agency shall establish a new baseline and reduction goal based on agency priorities.
+(a) Beginning with reporting for calendar year 2001 activities, each agency reporting under section 501 of this order shall adopt a goal of reducing, where cost effective, the agency's total releases of toxic chemicals to the environment and off-site transfers of such chemicals for treatment and disposal by at least 10 percent annually, or by 40 percent overall by December 31, 2006. Beginning with activities for calendar year 2001, the baseline for measuring progress in meeting the reduction goal will be the aggregate of all such releases and off-site transfers of such chemicals for treatment and disposal as reported by all of the agency's facilities under section 501 of this order. The list of toxic chemicals applicable to this goal is the EPCRA section 313 \[42 U.S.C. 11023\] list as of December 1, 2000. If an agency achieves the 40 percent reduction goal prior to December 31, 2006, that agency shall establish a new baseline and reduction goal based on agency priorities.
 
 (b) Where an agency is unable to pursue the reduction goal established in subsection (a) for certain chemicals that are mission critical and/or needed to protect human health and the environment or where agency off-site transfer of toxic chemicals for treatment is directly associated with environmental restoration activities, that agency may request a waiver from the EPA for all or part of the requirement in subsection (a) of this section. As appropriate, waiver requests must provide: (1) an explanation of the mission critical use of the chemical; (2) an explanation of the nature of the need for the chemical to protect human health; (3) a description of efforts to identify a less harmful substitute chemical or alternative processes to reduce the release and transfer of the chemical in question; and (4) a description of the off-site transfers of toxic chemicals for treatment directly associated with environmental restoration activities. The EPA shall respond to the waiver request within 90 days and may grant such a waiver for no longer than 2 years. An agency may resubmit a request for waiver at the end of that period. The waiver under this section shall not alter requirements to report under section 501 of this order.
 
@@ -1602,7 +1542,7 @@ Sec. 503. <i>Use Reduction: Toxic Chemicals, Hazardous Substances, and Other Pol
 
 (b) Within 9 months of the date of this order the Administrator, in coordination with the Workgroup established in section 306 of this order, shall develop a list of not less than 15 priority chemicals used by the Federal Government that may result in significant harm to human health or the environment and that have known, readily available, less harmful substitutes for identified applications and purposes. In addition to identifying the applications and purposes to which such reductions apply, the Administrator, in coordination with the Workgroup shall identify a usage threshold below which this section shall not apply. The chemicals will be selected from listed EPCRA section 313 \[42 U.S.C. 11023\] toxic chemicals and, where appropriate, other regulated hazardous substances or pollutants. In developing the list, the Administrator, in coordination with the Workgroup shall consider: (1) environmental factors including toxicity, persistence, and bio-accumulation; (2) availability of known, less environmentally harmful substitute chemicals that can be used in place of the priority chemical for identified applications and purposes; (3) availability of known, less environmentally harmful processes that can be used in place of the priority chemical for identified applications and purposes; (4) relative costs of alternative chemicals or processes; and (5) potential risk and environmental and human exposure based upon applications and uses of the chemicals by Federal agencies and facilities. In identifying alternatives, the Administrator should take into consideration the guidance issued under section 503 of Executive Order 13101 \[42 U.S.C. 6961 note\].
 
-(c) If an agency, which has facilities required to report under EPCRA, uses at its facilities less than five of the priority chemicals on the list developed in subsection (b) of this section for the identified applications and purposes, the agency shall develop, within 12 months of the date of this order, a list of not less than five chemicals that may include priority chemicals under subsection (b) of this section or other toxic chemicals, hazardous substances, and/or other pollutants the agency uses or generates, the release, transfer or waste management of which may result in significant harm to human health or the environment.
+(c) If an agency, which has facilities required to report under EPCRA, uses at its facilities less than five of the priority chemicals on the list developed in subsection (b) of this section for the identified applications and purposes, the agency shall develop, within 12 months of the date of this order, a list of not less than five chemicals that may include priority chemicalsunder subsection (b) of this section or other toxic chemicals, hazardous substances, and/or other pollutants the agency uses or generates, the release, transfer or waste management of which may result in significant harm to human health or the environment.
 
 (d) In lieu of requirements under subsection (a) of this section, an agency may, upon concurrence with the Workgroup established under section 306 of this order, develop within 12 months of the date of this order, a list of not less than five priority hazardous or radioactive waste types generated by its facilities. Within 18 months of the date of this order, the agency shall develop and support goals to reduce the agency's generation of these wastes by at least 50 percent by December 31, 2006. To the maximum extent possible, such reductions shall be achieved by implementing source reduction practices.
 

@@ -10,7 +10,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (A) Establishment
 
-&emsp;&emsp;The order shall provide for the establishment of, and selection of members to, a Mushroom Council that shall consist of atleast 4 members and not more than 9 members.
+&emsp;&emsp;The order shall provide for the establishment of, and selection of members to, a Mushroom Council that shall consist of at least 4 members and not more than 9 members.
 
 #### (B) Membership
 
@@ -24,7 +24,7 @@ Each order issued under this chapter shall contain the terms and conditions pres
 
 #### (B) Units
 
-&emsp;&emsp;In establishing such geographical distribution of mushroom production, a whole State shall be considered as a unit and such units shall be organized into 4 regions that shall fairly represent the geographic distribution of mushroom production within the United States.
+&emsp;&emsp;In establishing such geographical distribution of mushroom production, a whole Stateshall be considered as a unit and such units shall be organized into 4 regions that shall fairly represent the geographic distribution of mushroom production within the United States.
 
 #### (C) Importers
 

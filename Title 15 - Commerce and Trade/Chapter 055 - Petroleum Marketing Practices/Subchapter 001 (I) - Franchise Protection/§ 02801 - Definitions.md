@@ -80,7 +80,7 @@ As used in this subchapter:
 
 &emsp;(B) which affects any trade, transportation, exchange, or other commerce described in subparagraph (A).
 
-(19) The term “State” means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
+(19) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
 (Pub. L. 95–297, title I, §101, June 19, 1978, 92 Stat. 322; Pub. L. 103–371, §6, Oct. 19, 1994, 108 Stat. 3486.)
 

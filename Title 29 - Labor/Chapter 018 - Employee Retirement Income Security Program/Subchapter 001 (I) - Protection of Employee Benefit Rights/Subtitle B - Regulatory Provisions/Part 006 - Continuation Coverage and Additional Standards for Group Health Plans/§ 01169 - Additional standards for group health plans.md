@@ -40,7 +40,7 @@
 
 &emsp;A medical child support order meets the requirements of this paragraph only if such order clearly specifies—
 
-&emsp;&emsp;(A) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternaterecipient covered by the order, except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,
+&emsp;&emsp;(A) the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate recipient covered by the order, except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,
 
 &emsp;&emsp;(B) a reasonable description of the type of coverage to be provided to each such alternate recipient, or the manner in which such type of coverage is to be determined, and
 
@@ -48,7 +48,7 @@
 
 #### (4) Restriction on new types or forms of benefits
 
-&emsp;A medical child support order meets the requirements of this paragraph only if such order does not require a plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of the Omnibus Budget Reconciliation Act of 1993).
+&emsp;A medical child support order meets the requirements of this paragraph only if suchorder does not require a plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of the Omnibus Budget Reconciliation Act of 1993).
 
 #### (5) Procedural requirements
 
@@ -100,7 +100,7 @@
 
 #### (B) Treatment as participant for purposes of reporting and disclosure requirements
 
-&emsp;&emsp;A person who is an alternate recipient under any medical child support order shallbe considered a participant under the plan for purposes of the reporting and disclosure requirements of part 1 of this subtitle.
+&emsp;&emsp;A person who is an alternate recipient under any medical child support order shall be considered a participant under the plan for purposes of the reporting and disclosure requirements of part 1 of this subtitle.
 
 #### (8) Direct provision of benefits provided to alternate recipients
 
@@ -154,13 +154,13 @@ A group health plan may not reduce its coverage of the costs of pediatric vaccin
 
 Any regulations prescribed under this section shall be prescribed by the Secretary of Labor, in consultation with the Secretary of Health and Human Services.
 
-(Pub. L. 93–406, title I, §609, as added Pub. L. 103–66, title IV, §4301(a), Aug. 10, 1993, 107 Stat. 371; amended Pub. L. 104–193, title III, §381(a), Aug. 22, 1996, 110 Stat. 2257; Pub. L. 105–33, titleV, §§5611(a), (b), 5612(a), 5613(a), (b), Aug. 5, 1997, 111 Stat. 647, 648; Pub. L. 105–200, title IV, §401(d), (h)(2)(A)(iii), (B), (3)(A), July 16, 1998, 112 Stat. 662, 668.)
+(Pub. L. 93–406, title I, §609, as added Pub. L. 103–66, title IV, §4301(a), Aug. 10, 1993, 107 Stat. 371; amended Pub. L. 104–193, title III, §381(a), Aug. 22, 1996, 110 Stat. 2257; Pub. L. 105–33, title V, §§5611(a), (b), 5612(a), 5613(a), (b), Aug. 5, 1997, 111 Stat. 647, 648; Pub. L. 105–200, title IV, §401(d), (h)(2)(A)(iii), (B), (3)(A), July 16, 1998, 112 Stat. 662, 668.)
 
 #### References in Text
 
 Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i), is section 401(b) of Pub. L. 105–200, which is set out as a note under section 651 of Title 42, The Public Health and Welfare.
 
-This chapter, referred to in subsec. (a)(7)(A), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (a)(7)(A), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -254,7 +254,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;“(A)
 
-State or local governmental group health plan.—The term ‘State or local governmental group health plan’ means a group health plan which is established or maintained for its employees by the government of any State, any political subdivision of a State, or any agency or instrumentality of either of the foregoing.
+State or local governmental group health plan.—The term ‘State or local governmental group health plan’ means a group healthplan which is established or maintained for its employees by the government of any State, any political subdivision of a State, or any agency or instrumentality of either of the foregoing.
 
 &emsp;&emsp;“(B)
 

@@ -124,7 +124,7 @@ Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section
 
 #### Effective Date of 1992 Amendment
 
-Section (f)(1)(B) of Pub. L. 102–552 provided that: “The amendment made by subparagraph (A) \[amending thissection\] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624\] at the time such Act became law.”
+Section (f)(1)(B) of Pub. L. 102–552 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624\] at the time such Act became law.”
 
 #### Effective Date of 1977 Amendment
 

@@ -5,10 +5,4 @@ Part B—Gifted and Talented Children
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08031 - Short title](%C2%A7%2008031%20-%20Short%20title.md)
-- [&sect; 08032 - Findings and purposes](%C2%A7%2008032%20-%20Findings%20and%20purposes.md)
-- [&sect; 08033 - Construction](%C2%A7%2008033%20-%20Construction.md)
-- [&sect; 08034 - Authorized programs](%C2%A7%2008034%20-%20Authorized%20programs.md)
-- [&sect; 08035 - Program priorities](%C2%A7%2008035%20-%20Program%20priorities.md)
-- [&sect; 08036 - General provisions](%C2%A7%2008036%20-%20General%20provisions.md)
-- [&sect; 08037 - Authorization of appropriations](%C2%A7%2008037%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 08031 to 8037 - Repealed. Pub. L. 107&#8211;110, title X, &sect;1011(5)(A), Jan. 8, 2002, 115 Stat. 1986](%C2%A7%2008031%20to%208037%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93110%2C%20title%20X%2C%20%C2%A71011%285%29%28A%29%2C%20Jan.%208%2C%202002%2C%20115%20Stat.%201986.md)

@@ -38,7 +38,7 @@
 
 #### (b) Apportionment to States
 
-The Secretary of the Interior, after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) <sup>1</sup> of this section, any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area of all the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive monthsfrom October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
+The Secretary of the Interior, after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) <sup>1</sup> of this section, any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion the remainder of the revenue in said fund for each fiscal year among the several States in the following manner: One-half in the ratio which the area of each State bears to the total area ofall the States, and one-half in the ratio which the number of paid hunting-license holders of each State in the second fiscal year preceding the fiscal year for which such apportionment is made, as certified to said Secretary by the State fish and game departments, bears to the total number of paid hunting-license holders of all the States. Such apportionments shall be adjusted equitably so that no State shall receive less than one-half of 1 per centum nor more than 5 per centum of the total amount apportioned. The term fiscal year as used in this chapter shall be a period of twelve consecutive months from October 1 through the succeeding September 30, except that the period for enumeration of paid hunting-license holders shall be a State's fiscal or license year.
 
 #### (c) <sup>2</sup> Apportionment of certain taxes
 
@@ -142,11 +142,11 @@ Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organ
 
 #### Suspension of Expense Limitation
 
-The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
+The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to1415 of Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 669g, 669h, 669h–1, 669h–2, 669k of this title.
+This section is referred to in sections 669a, 669b, 669g, 669h, 669h–1, 669h–2, 669k of this title.
 
 <i><sup>1</sup></i><i> Probably means the subsection (c) relating to apportionment of certain taxes.</i>
 

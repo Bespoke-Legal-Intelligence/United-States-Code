@@ -14,7 +14,7 @@ The Senate finds that—
 
 It is the sense of the Senate that—
 
-&emsp;(1) the Federal Government should not shift certain costs to the State, and States shouldend the practice of shifting costs to local governments, which forces many local governments to increase property taxes;
+&emsp;(1) the Federal Government should not shift certain costs to the State, and States should end the practice of shifting costs to local governments, which forces many local governments to increase property taxes;
 
 &emsp;(2) States should end the imposition, in the absence of full consideration by their legislatures, of State issued mandates on local governments without adequate State funding, in a manner that may displace other essential government priorities; and
 

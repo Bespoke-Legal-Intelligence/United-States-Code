@@ -54,11 +54,11 @@ The Administrator is the senior procurement executive for the Administration for
 
 The Administrator may establish Administration-specific policies, unless disapproved by the Secretary of Energy.
 
-#### (e) <sup>1</sup> Membership on Joint Nuclear Weapons Council
+#### (e) Membership on Joint Nuclear Weapons Council
 
 The Administrator serves as a member of the Joint Nuclear Weapons Council under section 179 of title 10.
 
-#### (e) <sup>1</sup> Reorganization authority
+#### (f) Reorganization authority
 
 Except as provided by subsections (b) and (c) of section 2481 of this title:
 
@@ -66,9 +66,11 @@ Except as provided by subsections (b) and (c) of section 2481 of this title:
 
 &emsp;(2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
 
-(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469.)
+(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230.)
 
 #### Amendments
+
+2001—Subsecs. (e), (f). Pub. L. 107–107 redesignated subsec. (e), relating to reorganization authority, as (f).
 
 2000—Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(a)\], added subsec. (e) relating to reorganization authority.
 
@@ -144,7 +146,7 @@ Selection Criteria.—(1) The projects selected for the pilot program shall—
 
 > &emsp;that can support the missions of those laboratories and facilities.
 
-“(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing the project determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
+“(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing theproject determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
 
 “(3) The Administrator shall require the director of the laboratory or facility to consider the following criteria in selecting a project to receive Federal funds:
 
@@ -186,7 +188,5 @@ Report on Implementation.—(1) Not later than February 1, 2002, the Administrat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2403 of this title; title 42 sections 7132, 7253.
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
+This section is referred to in section 2410 of this title; title 42 sections 7132, 7253.
 

@@ -14,7 +14,7 @@ All franchise fees (and other monetary consideration) paid to the United States 
 
 #### (d) Subaccount for each unit
 
-There shall be established within the special account required under subsection (c) of thissection a subaccount for each unit of the National Park System. Each subaccount shall be credited with 80 percent of the franchise fees (and other monetary consideration) collected at a single unit of the National Park System under concessions contracts. The funds credited to the subaccount for a unit of the National Park System shall be available for expenditure by the Secretary, without further appropriation, for use at the unit for visitor services and for purposes of funding high-priority and urgently necessary resource management programs and operations. The funds credited to a subaccount shall remain available until expended.
+There shall be established within the special account required under subsection (c) of this section a subaccount for each unit of the National Park System. Each subaccount shall be credited with 80 percent of the franchise fees (and other monetary consideration) collected at a single unit of the National Park System under concessions contracts. The funds credited to the subaccount for a unit of the National Park System shall be available for expenditure by the Secretary, without further appropriation, for use at the unit for visitor services and for purposes of funding high-priority and urgently necessary resource management programs and operations. The funds credited to a subaccount shall remain available until expended.
 
 (Pub. L. 105–391, title IV, §407, Nov. 13, 1998, 112 Stat. 3511.)
 

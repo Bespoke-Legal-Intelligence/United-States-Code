@@ -86,7 +86,7 @@ A prior section 4357, Pub. L. 99–371, title II, §207, formerly title IV, §40
 
 #### Amendments
 
-1998—Subsec. (b)(2). Pub. L. 105–244, §919(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
+1998—Subsec. (b)(2). Pub. L. 105–244, §919(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments toeach Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
 
 Subsec. (b)(3). Pub. L. 105–244, §919(1)(B), struck out par. (3) which read as follows: “Effective for fiscal year 1993 and each succeeding fiscal year, for any fiscal year in which the sums contributed to the Federal endowment fund of the institution involved from non-Federal sources exceed $1,000,000, the non-Federal contribution to the Federal endowment fund shall be $2 for each Federal dollar provided in excess of $1,000,000 (excluding transfers from other endowment funds of the institution involved).”
 

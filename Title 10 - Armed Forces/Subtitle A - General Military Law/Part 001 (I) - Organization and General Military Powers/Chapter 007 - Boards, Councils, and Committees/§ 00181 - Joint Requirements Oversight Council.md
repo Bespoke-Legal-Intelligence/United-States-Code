@@ -58,17 +58,17 @@ Availability of Oversight Information to Congressional Defense Committees.—(1)
 
 Section 905(b) of Pub. L. 104–106 provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 31, 1997.”
 
-#### Semiannual Report on Joint Requirements Oversight Council Reform Initiative
+#### Reports on Joint Requirements Oversight Council Reform Initiative
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §916\], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §916\], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, §923, Dec. 28, 2001, 115 Stat. 1199, provided that:
 
 “(a)
 
-Semiannual Report.—The Chairman of the Joints Chiefs of Staff shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a series of five semiannual reports, as prescribed by subsection (b), on the activities of the Joint Requirements Oversight Council. The principal focus of each such report shall be on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
+Reports Required.—The Chairman of the Joints Chiefs of Staff shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a series of reports, as prescribed by subsection (b), on the activities of the Joint Requirements Oversight Council. The principal focus of each such report shall be on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council.
 
 “(b)
 
-Submission of Reports.—Reports under this section shall be submitted not later than March 1, 2001, September 1, 2001, March 1, 2002, September 1, 2002, and March 1, 2003. Each report shall cover the half of a fiscal year that ends five months before the date on which the report is due.
+Submission of Reports.—Reports under this section shall be submitted not later than March 1, 2001, September 1, 2001, March 1, 2002, and March 1, 2003. Each report shall cover the half of a fiscal year that ends five months before the date on which the report is due, except that the last report shall cover all of the preceding fiscal year.
 
 “(c)
 
@@ -78,7 +78,7 @@ Content.—In the case of any report under this section after the first such rep
 
 &emsp;“(2) A listing of the joint requirements developed, considered, or approved within each of the capability areas listed pursuant to paragraph (1).
 
-&emsp;“(3) A listing and explanation of the decisions made by the Joint Requirements Oversight Council and, tothe extent appropriate, a listing of each of the recommendations to the Council made by the commander of the United States Joint Forces Command.
+&emsp;“(3) A listing and explanation of the decisions made by the Joint Requirements Oversight Council and, to the extent appropriate, a listing of each of the recommendations to the Council made by the commander of the United States Joint Forces Command.
 
 &emsp;“(4) An assessment of—
 

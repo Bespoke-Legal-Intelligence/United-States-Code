@@ -34,7 +34,7 @@ The Congress hereby declares it to be the national policy of the United States t
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 3251 of this title, prior to the generalamendment of the Solid Waste Disposal Act by Pub. L. 94–580.
+Provisions similar to those in this section were contained in section 3251 of this title, prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
 
 #### Amendments
 

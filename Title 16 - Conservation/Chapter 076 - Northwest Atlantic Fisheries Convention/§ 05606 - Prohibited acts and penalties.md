@@ -18,7 +18,7 @@ It is unlawful for any person or vessel that is subject to the jurisdiction of t
 
 #### (b) Civil penalty
 
-Any person who commits any act that is unlawful under subsection (a) of this section shallbe liable to the United States for a civil penalty, or may be subject to a permit sanction, under section 1858 of this title.
+Any person who commits any act that is unlawful under subsection (a) of this section shall be liable to the United States for a civil penalty, or may be subject to a permit sanction, under section 1858 of this title.
 
 #### (c) Criminal penalty
 

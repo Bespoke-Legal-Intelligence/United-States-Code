@@ -8,7 +8,7 @@
 
 #### (2) Countries described
 
-&emsp;A country described in this paragraph is a country that is eligible to receive assistance under subchapter I of this chapter (including part IV of subchapter II of this chapter) or the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\].
+&emsp;A country described in this paragraph is a country that is eligible to receive assistanceunder subchapter I of this chapter (including part IV of subchapter II of this chapter) or the Support for East European Democracy (SEED) Act of 1989 \[22 U.S.C. 5401 et seq.\].
 
 #### (3) Priority
 
@@ -40,7 +40,7 @@ The programs established pursuant to subsection (a) of this section shall includ
 
 &emsp;(4) promote responsive, transparent, and accountable legislatures and local governments that ensure legislative and local oversight and whistle-blower protection;
 
-&emsp;(5) promote legal and judicial reforms that criminalize corruption and law enforcementreforms and development that encourage prosecutions of criminal corruption;
+&emsp;(5) promote legal and judicial reforms that criminalize corruption and law enforcement reforms and development that encourage prosecutions of criminal corruption;
 
 &emsp;(6) assist in the development of a legal framework for commercial transactions that fosters business practices that promote transparent, ethical, and competitive behavior in the economic sector, such as commercial codes that incorporate international standards and protection of intellectual property rights;
 
@@ -72,7 +72,7 @@ Projects and activities under the programs established pursuant to subsection (a
 
 &emsp;&emsp;(B) A description of United States diplomatic efforts to combat corruption and improve transparency and accountability in the country.
 
-&emsp;&emsp;(C) An analysis of major actions taken by the government of the country to combat corruption and improve transparency and accountability in the country.
+&emsp;&emsp;(C) An analysis of major actions taken by the government of the country to combatcorruption and improve transparency and accountability in the country.
 
 #### (e) Funding
 
@@ -144,5 +144,5 @@ Purpose.—The purpose of this title \[see Short Title of 2000 Amendments note s
 
 #### Deadline for Initial Report
 
-Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, provided that: “The initial annual report required by section 133(d)(1) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2152c(d)(1)\], as added by subsection (a), shall be transmitted not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2000\].”
+Pub. L. 106–309, title II, §205(b), Oct. 17, 2000, 114 Stat. 1094, provided that: “The initial annual report required by section 133(d)(1) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2152c(d)(1)\], as added by subsection (a),shall be transmitted not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2000\].”
 

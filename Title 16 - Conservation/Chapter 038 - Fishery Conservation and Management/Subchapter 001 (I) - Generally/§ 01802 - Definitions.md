@@ -148,7 +148,7 @@ Sponges
 
 &emsp;(22) The term “international fishery agreement” means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
 
-&emsp;(23) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+&emsp;(23) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or aseries of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
 &emsp;(24) <sup>1</sup> The term “Marine Fisheries Commission” means the Atlantic States Marine Fisheries Commission, the Gulf States Marine Fisheries Commission, or the Pacific States Marine Fisheries Commission.
 
@@ -174,7 +174,7 @@ Sponges
 
 &emsp;(32) The term “recreational fishing” means fishing for sport or pleasure.
 
-&emsp;(33) The term “regulatory discards” means fish harvested in a fishery which fishermen arerequired by regulation to discard whenever caught, or are required by regulation to retain but not sell.
+&emsp;(33) The term “regulatory discards” means fish harvested in a fishery which fishermen are required by regulation to discard whenever caught, or are required by regulation to retain but not sell.
 
 &emsp;(34) The term “Secretary” means the Secretary of Commerce or his designee.
 

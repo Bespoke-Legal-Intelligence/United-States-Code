@@ -16,7 +16,7 @@
 
 &emsp;(ii) identify which of those needs are to be fulfilled by the United States; and
 
-&emsp;(iii) specify the design of the research referred to in paragraph (1)(B) and the funds, personnel, and facilities required for the research, including, in particular, the need for the cost of enhanced ship capacity.
+&emsp;(iii) specify the design of the research referred to in paragraph (1)(B) and the funds,personnel, and facilities required for the research, including, in particular, the need for the cost of enhanced ship capacity.
 
 (B) In preparing the plan referred to in subparagraph (A), the Secretary of Commerce shall take into account, in addition to any other matters the Secretary considers appropriate, the possibilities of securing productive results, the minimization of duplication, and the methods for monitoring and evaluating a project.
 

@@ -16,7 +16,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### (1) In general
 
-&emsp;A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under section 7703(a)(2)(B) of this title) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that the State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in the State.
+&emsp;A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under section 7703(a)(2)(B) of this title and, with respect to a local educational agency that receives a payment under section 7703(b)(2) of this title, the amount in excess of the amount that the agency would receive if the agency were deemed to be an agency eligible to receive a payment under section 7703(b)(1) of this title and not section 7703(b)(2) of this title) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that the State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in the State.
 
 #### (2) Computation
 
@@ -100,9 +100,11 @@ Except as provided in subsection (b) of this section, a State may not—
 
 &emsp;The court shall grant such relief as the court determines is appropriate.
 
-(Pub. L. 89–10, title VIII, §8009, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3764; amended Pub. L. 104–195, §10, Sept. 16, 1996, 110 Stat. 2384; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812\], Oct. 30, 2000, 114 Stat. 1654, 1654A–386.)
+(Pub. L. 89–10, title VIII, §8009, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3764; amended Pub. L. 104–195, §10, Sept. 16, 1996, 110 Stat. 2384; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812\], Oct. 30, 2000, 114 Stat. 1654, 1654A–386; Pub. L. 107–110, title VIII, §804, Jan. 8, 2002, 115 Stat. 1956.)
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–110 inserted “and, with respect to a local educational agency that receives a payment under section 7703(b)(2) of this title, the amount in excess of the amount that the agency would receive if the agency were deemed to be an agency eligible to receive a payment under section 7703(b)(1) of this title and not section 7703(b)(2) of this title” after “section 7703(a)(2)(B) of this title”.
 
 2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(1)\], struck out “or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)” after “under this subchapter” in introductory provisions.
 
@@ -115,6 +117,10 @@ Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(3)\], stru
 &emsp;“(i) 25 percent for fiscal year 1995, 1996, or 1997; and
 
 &emsp;“(ii) 20 percent for fiscal year 1998 or 1999”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 

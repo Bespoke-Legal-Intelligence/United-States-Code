@@ -74,7 +74,7 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 #### Authority To Incur Obligations in Excess of Borrowing Authority and Cash in Fund
 
-Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: “Without fiscal year limitation, the Bonneville Power Administration continues to be authorized to incur obligations for authorized purposesand may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund.”
+Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: “Without fiscal year limitation, theBonneville Power Administration continues to be authorized to incur obligations for authorized purposes and may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund.”
 
 #### Section Referred to in Other Sections
 

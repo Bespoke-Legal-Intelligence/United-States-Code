@@ -1,6 +1,6 @@
 ### §589a. United States Trustee System Fund
 
-(a) There is hereby established in the Treasury of the United States a special fund to be known as the “United States Trustee System Fund” (hereinafter in this section referred to as the “Fund”). Monies in the Fund shall be available to the Attorney General without fiscal year limitation in such amounts as may be specified in appropriations Acts for the following purposes in connection with the operations of United States trustees—
+(a) There is hereby established in the Treasury of the United States a special fund to be knownas the “United States Trustee System Fund” (hereinafter in this section referred to as the “Fund”). Monies in the Fund shall be available to the Attorney General without fiscal year limitation in such amounts as may be specified in appropriations Acts for the following purposes in connection with the operations of United States trustees—
 
 &emsp;(1) salaries and related employee benefits;
 
@@ -42,7 +42,7 @@
 
 (c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
-(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end ofeach fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
+(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 

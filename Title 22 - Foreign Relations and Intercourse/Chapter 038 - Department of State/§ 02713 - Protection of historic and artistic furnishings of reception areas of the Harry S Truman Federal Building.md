@@ -8,7 +8,7 @@ The Secretary of State shall administer the historic and artistic articles of fu
 
 #### (1) Items covered
 
-&emsp;Articles of furniture, fixtures, and decorative objects of the reception areas (and similararticles, fixtures, and objects acquired by the Secretary of State), when declared by the Secretary of State to be of historic or artistic interest, shall thereafter be considered to be the property of the Secretary in his or her official capacity and shall be subject to disposition solely in accordance with this subsection.
+&emsp;Articles of furniture, fixtures, and decorative objects of the reception areas (and similar articles, fixtures, and objects acquired by the Secretary of State), when declared by the Secretary of State to be of historic or artistic interest, shall thereafter be considered to be the property of the Secretary in his or her official capacity and shall be subject to disposition solely in accordance with this subsection.
 
 #### (2) Sale or trade
 

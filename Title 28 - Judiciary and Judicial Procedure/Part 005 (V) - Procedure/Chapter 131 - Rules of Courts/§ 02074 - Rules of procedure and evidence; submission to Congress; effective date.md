@@ -56,7 +56,7 @@ Technical Amendment.—Rule 15(c)(3) of the Federal Rules of Civil Procedure for
 
 “(b)
 
-Amendment to Forms.—Form 1–A, Notice of Lawsuit and Request for Waiver of Service of Summons, and Form 1–B, Waiver of Service of Summons, included in the transmittal by the Supreme Court described in subsection (a), shall not be effective andForm 18–A, Notice and Acknowledgment for Service by Mail, abrogated by the Supreme Court in such transmittal, effective December 1, 1991, shall continue in effect on or after that date.”
+Amendment to Forms.—Form 1–A, Notice of Lawsuit and Request for Waiver of Service of Summons, and Form 1–B, Waiver of Service of Summons, included in the transmittal by the Supreme Court described in subsection (a), shall not be effective and Form 18–A, Notice and Acknowledgment for Service by Mail, abrogated by the Supreme Court in such transmittal, effective December 1, 1991, shall continue in effect on or after that date.”
 
 #### Amendments to Civil Rules Proposed April 28, 1982
 
@@ -90,7 +90,7 @@ Pub. L. 94–349, §2, July 8, 1976, 90 Stat. 822, provided: “That, notwithsta
 
 Pub. L. 93–595, §3, Jan. 2, 1975, 88 Stat. 1949, provided that: “The Congress expressly approves the amendments to the Federal Rules of Civil Procedure \[Rules 30(c), 32(c), 43, and 44.1\] and the amendments to the Federal Rules of Criminal Procedure \[Rules 26, 26.1, and 28\], which are embraced by the orders entered by the Supreme Court of the United States on November 20, 1972, and December 18, 1972, and such amendments shall take effect on the one hundred and eightieth day beginning after the date of the enactment of this Act \[Jan. 2, 1975\].”
 
-#### Congressional Approval Requirement for Proposed Rules of Evidence for United States Courts and Amendments to Federal Rules of Civic Procedure and Criminal Procedure; Suspension of Effectiveness of Such Rules
+#### Congressional Approval Requirement for Proposed Rules of Evidence for United States Courts and Amendments to Federal Rules of Civil Procedure and Criminal Procedure; Suspension of Effectiveness of Such Rules
 
 Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided: “That notwithstanding any other provisions of law, the Rules of Evidence for United States Courts and Magistrates, the Amendments to the Federal Rules of Civil Procedure, and the Amendments to the Federal Rules of Criminal Procedure, which are embraced by the orders entered by the Supreme Court of the United States on Monday, November 20, 1972, and Monday, December 18, 1972, shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by the Act of Congress.”
 

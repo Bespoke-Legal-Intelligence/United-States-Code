@@ -54,7 +54,7 @@ Notwithstanding section 6013(d)(3)—
 
 &emsp;&emsp;&emsp;An individual shall only be eligible to elect the application of this subsection if—
 
-&emsp;&emsp;&emsp;&emsp;(I) at the time such election is filed, such individual is no longer married to, or is legally separated from, the individual with whom such individual filed the joint return to which the election relates; or
+&emsp;&emsp;&emsp;&emsp;(I) at the time such election is filed, such individual is no longer married to,or is legally separated from, the individual with whom such individual filed the joint return to which the election relates; or
 
 &emsp;&emsp;&emsp;&emsp;(II) such individual was not a member of the same household as the individual with whom such joint return was filed at any time during the 12-month period ending on the date such election is filed.
 
@@ -126,7 +126,7 @@ For purposes of subsection (c)—
 
 #### (C) Exception for fraud
 
-&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribedby subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
+&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribed by subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
 
 #### (4) Limitations on separate returns disregarded
 
@@ -202,7 +202,7 @@ Under procedures prescribed by the Secretary, if—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), notwithstanding any other law or rule of law\(other than section 6511, 6512(b), 7121, or 7122), credit or refund shall be allowed or made to the extent attributable to the application of this section.
+&emsp;Except as provided in paragraphs (2) and (3), notwithstanding any other law or rule of law (other than section 6511, 6512(b), 7121, or 7122), credit or refund shall be allowed or made to the extent attributable to the application of this section.
 
 #### (2) Res judicata
 

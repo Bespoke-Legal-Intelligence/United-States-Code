@@ -28,7 +28,7 @@
 
 &emsp;(2) The term “dependency and indemnity compensation” means death compensation payable under section 1121 or 1141 of this title, death compensation and dependency and indemnity compensation payable under section 1151 of this title, and any benefit payable under chapter 13 of this title.
 
-(Added Pub. L. 96–385, title V, §504(a), Oct. 7, 1980, 94 Stat. 1534, §3113; amended Pub. L. 98–160, title VII, §702(17), Nov. 21, 1983, 97 Stat. 1010; renumbered §5313 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238,239; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title X, §1005(b)(16), Nov. 11, 1998, 112 Stat. 3365.)
+(Added Pub. L. 96–385, title V, §504(a), Oct. 7, 1980, 94 Stat. 1534, §3113; amended Pub. L. 98–160, title VII, §702(17), Nov. 21, 1983, 97 Stat. 1010; renumbered §5313 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title X, §1005(b)(16), Nov. 11, 1998, 112 Stat. 3365.)
 
 #### Amendments
 
@@ -49,4 +49,28 @@ Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “1151” for “351” i
 #### Effective Date
 
 Section effective Oct. 7, 1980, see section 601(d) of Pub. L. 96–385, set out as an Effective Date of 1980 Amendment note under section 1114 of this title.
+
+#### Limitation on Payment of Compensation for Veterans Remaining Incarcerated Since October 7, 1980
+
+Pub. L. 107–103, title V, §506, Dec. 27, 2001, 115 Stat. 996, provided that:
+
+“(a)
+
+Limitation.—Section 5313 of title 38, United States Code, other than subsection (d) of that section, shall apply with respect to the payment of compensation to or with respect to any veteran described in subsection (b).
+
+“(b)
+
+Covered Veterans.—A veteran described in this subsection is a veteran who is entitled to compensation and who—
+
+&emsp;“(1) on October 7, 1980, was incarcerated in a Federal, State, or local penal institution for a felony committed before that date; and
+
+&emsp;“(2) remains so incarcerated for conviction of that felony as of the date of the enactment of this Act \[Dec. 27, 2001\].
+
+“(c)
+
+Effective Date.—This section shall apply with respect to the payment of compensation for months beginning on or after the end of the 90-day period beginning on the date of the enactment of this Act \[Dec. 27, 2001\].
+
+“(d)
+
+Compensation Defined.—For purposes of this section, the term ‘compensation’ has the meaning given that term in section 5313 of title 38, United States Code.”
 

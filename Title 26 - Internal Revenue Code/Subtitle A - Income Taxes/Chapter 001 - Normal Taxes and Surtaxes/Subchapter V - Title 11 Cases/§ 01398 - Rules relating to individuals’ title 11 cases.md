@@ -116,7 +116,7 @@ The estate shall succeed to and take into account the following items (determine
 
 #### (4) Credit carryovers, etc.
 
-&emsp;The carryovers of any credit, and all other items which, but for the commencement of the case, would be required to be taken into account by the debtor with respect to any credit.
+&emsp;The carryovers of any credit, and all other items which, but for the commencement of thecase, would be required to be taken into account by the debtor with respect to any credit.
 
 #### (5) Capital loss carryovers
 
@@ -172,7 +172,7 @@ In the case of a termination of an estate, the debtor shall succeed to and take 
 
 #### (A) Carrybacks from estate
 
-&emsp;&emsp;If any carryback year of the estate is a taxable year before the estate's first taxableyear, the carryback to such carryback year shall be taken into account for the debtor's taxable year corresponding to the carryback year.
+&emsp;&emsp;If any carryback year of the estate is a taxable year before the estate's first taxable year, the carryback to such carryback year shall be taken into account for the debtor's taxable year corresponding to the carryback year.
 
 #### (B) Carrybacks from debtor's activities
 
@@ -200,7 +200,7 @@ Part IV of subchapter A, referred to in subsec. (j)(2)(C)(i), probably means par
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514, §104(b)(14)(A), substituted “basic standard deduction” for “zero bracket amount” in heading.
 
-Subsec. (c)(3). Pub. L. 99–514, §104(b)(14)(B), amended par. (3) generally, substituting “Basic standard deduction” for “Amount of zero bracket amount” in heading and substituting “In the case of an estate which does not itemize deductions, the basic standard deduction for the estate” for “The amount of the estate's zero bracket amount” in text.
+Subsec. (c)(3). Pub. L. 99–514, §104(b)(14)(B), amended par. (3) generally, substituting “Basic standard deduction” for “Amount of zero bracket amount” in heading and substituting “In the case of an estate which doesnot itemize deductions, the basic standard deduction for the estate” for “The amount of the estate's zero bracket amount” in text.
 
 Subsec. (d)(2)(B). Pub. L. 99–514, §1301(j)(8), substituted “section 7703” for “section 143”.
 

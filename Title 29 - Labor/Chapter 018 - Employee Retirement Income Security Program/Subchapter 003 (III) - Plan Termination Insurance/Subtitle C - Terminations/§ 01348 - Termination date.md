@@ -14,7 +14,7 @@
 
 &emsp;(1) in the case of a plan terminated in accordance with the provisions of section 1341a of this title, the date determined under subsection (b) of that section; or
 
-&emsp;(2) in the case of a plan terminated in accordance with the provisions of section 1342 of this title the date agreed to between the plan administrator and the corporation (or the trustee appointed under section 1342(b)(2) of this title, if any), or, if no agreement is reached, the date established by the court.
+&emsp;(2) in the case of a plan terminated in accordance with the provisions of section 1342 of this title, the date agreed to between the plan administrator and the corporation (or the trustee appointed under section 1342(b)(2) of this title, if any), or, if no agreement is reached, the date established by the court.
 
 (Pub. L. 93–406, title IV, §4048, Sept. 2, 1974, 88 Stat. 1028; Pub. L. 96–364, title IV, §402(a)(8), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(a)(4), Apr. 7, 1986, 100 Stat. 268.)
 

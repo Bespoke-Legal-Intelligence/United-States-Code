@@ -76,7 +76,7 @@ An application submitted under subsection (a) of this section shall contain the 
 
 #### (2) Competitive selection
 
-&emsp;The application of a State shall contain an assurance that all assistance provided under section 12571(a) of this title to the State will be used to support national service programs that were selected by the State on a competitive basis. In making such competitive selections, the State shall seek to ensure the equitable allocation within the State of assistance and approved national service positions provided under this division to the State takinginto consideration such factors as the location of the programs applying to the State, population density, and economic distress.
+&emsp;The application of a State shall contain an assurance that all assistance provided under section 12571(a) of this title to the State will be used to support national service programs that were selected by the State on a competitive basis. In making such competitive selections, the State shall seek to ensure the equitable allocation within the State of assistance and approved national service positions provided under this division to the State taking into consideration such factors as the location of the programs applying to the State, population density, and economic distress.
 
 #### (3) Assistance to non-State entities
 

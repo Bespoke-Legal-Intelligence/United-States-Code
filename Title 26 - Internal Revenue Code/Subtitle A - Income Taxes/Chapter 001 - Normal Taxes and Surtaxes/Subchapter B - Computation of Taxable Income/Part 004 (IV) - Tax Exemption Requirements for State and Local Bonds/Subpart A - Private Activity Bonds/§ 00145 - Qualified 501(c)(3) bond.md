@@ -38,7 +38,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 &emsp;&emsp;&emsp;&emsp;(I) such bond would have been an industrial development bond (as defined in section 103(b)(2), as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) if 501(c)(3) organizations were not exempt persons, and
 
-&emsp;&emsp;&emsp;&emsp;(II) such bond was not described in paragraph (4), (5), or (6) of such section 103(b) (as in effect on the date such bond was issued).
+&emsp;&emsp;&emsp;&emsp;(II) such bond was not described in paragraph (4), (5), or (6) of such section103(b) (as in effect on the date such bond was issued).
 
 #### (C) Only nonhospital portion of bonds taken into account
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after De
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -6,7 +6,7 @@ Transportation by Air Carriers Holding Certificates.—A department, agency, or 
 
 &emsp;(1) the department, agency, or instrumentality—
 
-&emsp;&emsp;(A) obtains the transportation for itself or in carrying out an arrangement under which payment is made by the Government or payment is made from amounts provided for the use of the Government; or
+&emsp;&emsp;(A) obtains the transportation for itself or in carrying out an arrangement under whichpayment is made by the Government or payment is made from amounts provided for the use of the Government; or
 
 &emsp;&emsp;(B) provides the transportation to or for a foreign country or international or other organization without reimbursement;
 

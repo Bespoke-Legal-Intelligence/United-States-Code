@@ -60,7 +60,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (C) The Secretary may lower the percentage required to be allocated
 
-&emsp;&emsp;Upon the petition of the employer or the majority of employees of such employer, the Secretary may reduce (but not below 2 percent) the percentage of gross receipts required to be allocated under subparagraph (A) where he determines that the percentage of gross receipts constituting tips is less than 8 percent.
+&emsp;&emsp;Upon the petition of the employer or the majority of employees of such employer, theSecretary may reduce (but not below 2 percent) the percentage of gross receipts required to be allocated under subparagraph (A) where he determines that the percentage of gross receipts constituting tips is less than 8 percent.
 
 #### (4) Large food or beverage establishment
 

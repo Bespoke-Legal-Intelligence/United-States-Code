@@ -2,7 +2,7 @@
 
 The Secretary of a military department may acquire by lease in foreign countries structures and real property relating to structures that are needed for military purposes other than for military family housing. A lease under this section may be for a period of up to five years, and the rental for each yearly period may be paid from funds appropriated to that military department for that year.
 
-(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 91–511, title VI, §608, Oct. 26, 1970, 84 Stat. 1224; Pub. L. 94–107, title VI, §607(10), (11), Oct. 7, 1975, 89 Stat. 567; Pub. L. 95–82, title V, §505(a), Aug. 1, 1977, 91 Stat. 371; Pub. L. 95–356, title V, §503(b), Sept. 8, 1978, 92 Stat. 579; Pub. L. 96–125, title V, §502(b), Nov. 26, 1979, 93 Stat. 940; Pub. L. 96–418, title V, §504(b), Oct. 10, 1980, 94 Stat. 1765; Pub. L. 97–99, title VI, §604, Dec. 23, 1981, 95 Stat. 1374; Pub. L. 97–214, §8, July 12, 1982, 96 Stat. 174; Pub. L. 98–525, title XIV, §1405(40), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, §1322(a)(11), Nov. 5, 1990, 104 Stat. 1671.)
+(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 91–511, title VI, §608, Oct. 26, 1970, 84 Stat. 1224; Pub. L. 94–107, title VI, §607(10), (11), Oct. 7, 1975, 89 Stat. 567; Pub. L.95–82, title V, §505(a), Aug. 1, 1977, 91 Stat. 371; Pub. L. 95–356, title V, §503(b), Sept. 8, 1978, 92 Stat. 579; Pub. L. 96–125, title V, §502(b), Nov. 26, 1979, 93 Stat. 940; Pub. L. 96–418, title V, §504(b), Oct. 10, 1980, 94 Stat. 1765; Pub. L. 97–99, title VI, §604, Dec. 23, 1981, 95 Stat. 1374; Pub. L. 97–214, §8, July 12, 1982, 96 Stat. 174; Pub. L. 98–525, title XIV, §1405(40), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, §1322(a)(11), Nov. 5, 1990, 104 Stat. 1671.)
 
 Historical and Revision Notes
 
@@ -26,7 +26,7 @@ The words “that are not located on a military base” are substituted for the 
 
 1984—Subsec. (b). Pub. L. 98–525 substituted “30” for “thirty”.
 
-1982—Subsec. (a). Pub. L. 97–214, §8(a), substituted provisions that the Secretary of a military department may acquire by lease in foreign countries, structures and real property needed for military purposes otherthan for military family housing for up to a period of five years with the rental to be paid from funds appropriated to that military department for that year, for former provisions that had allowed such leases including leases for military family housing and in the latter case for a period of up to 10 years.
+1982—Subsec. (a). Pub. L. 97–214, §8(a), substituted provisions that the Secretary of a military department may acquire by lease in foreign countries, structures and real property needed for military purposes other than for military family housing for up to a period of five years with the rental to be paid from funds appropriated to that military department for that year, for former provisions that had allowed such leases including leases for military family housing and in the latter case for a period of up to 10 years.
 
 Subsec. (b). Pub. L. 97–214, §8(b), struck out “or any other provision of law” after “into under this section”, and “, family housing facilities,” after “for structures”.
 

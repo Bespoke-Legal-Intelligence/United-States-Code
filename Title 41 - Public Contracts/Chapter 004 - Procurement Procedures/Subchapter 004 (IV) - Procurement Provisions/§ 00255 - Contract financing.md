@@ -46,7 +46,7 @@ Advance payments under subsection (a) of this section may be made only upon adeq
 
 (1) In any case in which the remedy coordination official of an executive agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that executive agency is based on fraud, the remedy coordination official shall recommend that the executive agency reduce or suspend further payments to such contractor.
 
-(2) The head of an executive agency receiving a recommendation under paragraph (1) in the case of a contractor's request for payment undera contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the head of the executive agency may reduce or suspend further payments to the contractor under such contract.
+(2) The head of an executive agency receiving a recommendation under paragraph (1) in the case of a contractor's request for payment under a contract shall determine whether there is substantial evidence that the request is based on fraud. Upon making such a determination, the head of the executive agency may reduce or suspend further payments to the contractor under such contract.
 
 (3) The extent of any reduction or suspension of payments by an executive agency under paragraph (2) on the basis of fraud shall be reasonably commensurate with the anticipated loss to the United States resulting from the fraud.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Persons Not Considered by Promotion Boards Due to Administrative Error.—(1) If the Secretary of the military department concerned determines that because of administrative error a person who should have been considered for selection for promotion by a promotion board was not so considered, the Secretary shall convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion.
+Persons Not Considered by Promotion Boards Due to Administrative Error.—(1) If the Secretary of the military department concerned determines that because of administrative error a person who should have been considered for selection for promotion by a promotion board was not so considered, or the name of a person that should have been placed on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed, the Secretary shall convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion.
 
 (2) A special selection board convened under paragraph (1) shall consider the record of the person whose name was referred to it for consideration as that record would have appeared to the board that should have considered him. That record shall be compared with a sampling of the records of those officers of the same competitive category who were recommended for promotion, and those officers who were not recommended for promotion, by the board that should have considered him.
 
@@ -48,11 +48,73 @@ Convening of Boards.—A board convened under this section—
 
 (g)
 
+Judicial Review.—(1)(A) A court of the United States may review a determination by the Secretary of a military department under subsection (a)(1) or (b)(1) not to convene a special selection board in the case of any person. In any such case, the court may set aside the Secretary's determination only if the court finds the determination to be—
+
+&emsp;(i) arbitrary or capricious;
+
+&emsp;(ii) not based on substantial evidence;
+
+&emsp;(iii) a result of material error of fact or material administrative error; or
+
+&emsp;(iv) otherwise contrary to law.
+
+(B) If a court sets aside a determination by the Secretary of a military department not to convene a special selection board under this section, it shall remand the case to the Secretary concerned, who shall provide for consideration by such a board.
+
+(2) A court of the United States may review the action of a special selection board convened under this section or an action of the Secretary of the military department concerned on the report of such a board. In any such case, a court may set aside the action only if the court finds that the action was—
+
+&emsp;(A) arbitrary or capricious;
+
+&emsp;(B) not based on substantial evidence;
+
+&emsp;(C) a result of material error of fact or material administrative error; or
+
+&emsp;(D) otherwise contrary to law.
+
+(3)(A) If, six months after receiving a complete application for consideration by a special selection board under this section in any case, the Secretary concerned has not convened such a board and has not denied consideration by such a board in that case, the Secretary shall be deemed for the purposes of this subsection to have denied the consideration of the case by such a board.
+
+(B) If, six months after the convening of a special selection board under this section in any case, the Secretary concerned has not taken final action on the report of the board, the Secretary shall be deemed for the purposes of this subsection to have denied relief in such case.
+
+(C) Under regulations prescribed under subsection (j), the Secretary of a military department may waive the applicability of subparagraph (A) or (B) in a case if the Secretary determines that a longer period for consideration of the case is warranted. Such a waiver may be for an additional period of not more than six months. The Secretary concerned may not delegate authority to make a determination under this subparagraph.
+
+(h)
+
+Limitations of Other Jurisdiction.—No official or court of the United States may, with respect to a claim based to any extent on the failure of a person to be selected for promotion by a promotion board—
+
+&emsp;(1) consider the claim unless the person has first been referred by the Secretary concerned to a special selection board convened under this section and acted upon by that board and the report of the board has been approved by the President; or
+
+&emsp;(2) except as provided in subsection (g), grant any relief on the claim unless the person has been selected for promotion by a special selection board convened under this section to consider the person for recommendation for promotion and the report of the board has been approved by the President.
+
+(i)
+
+Existing Jurisdiction.—Nothing in this section limits—
+
+&emsp;(1) the jurisdiction of any court of the United States under any provision of law to determine the validity of any law, regulation, or policy relating to selection boards; or
+
+&emsp;(2) the authority of the Secretary of a military department to correct a military record under section 1552 of this title.
+
+(j)
+
+Regulations.—(1) The Secretary of each military department shall prescribe regulations to carry out this section. Regulations under this subsection may not apply to subsection (g), other than to paragraph (3)(C) of that subsection.
+
+(2) The Secretary may prescribe in the regulations under paragraph (1) the circumstances under which consideration by a special selection board may be provided for under this section, including the following:
+
+&emsp;(A) The circumstances under which consideration of a person's case by a special selection board is contingent upon application by or for that person.
+
+&emsp;(B) Any time limits applicable to the filing of an application for such consideration.
+
+(3) Regulations prescribed by the Secretary of a military department under this subsection may not take effect until approved by the Secretary of Defense.
+
+(k)
+
 Promotion Board Defined.—In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088.)
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–107, §505(c)(3)(A), inserted “or the name of a person that should have been placed on an all-fully-qualified-officers list under section 624(a)(3) of this title was not so placed,” after “not so considered,”.
+
+Subsecs. (g) to (k). Pub. L. 107–107, §503(b), added subsecs. (g) to (j) and redesignated former subsec. (g) as (k).
 
 2000—Subsec. (c)(2). Pub. L. 106–398 substituted “sections” for “section” after “rather than the provisions of”.
 
@@ -94,6 +156,14 @@ Subsecs. (f), (g). Pub. L. 105–261, §501(e), added subsecs. (f) and (g).
 
 1984—Subsecs. (a)(1), (b)(1). Pub. L. 98–525 substituted “(composed in accordance with section 612 of this title or, in the case of a warrant officer, composed in accordance with section 558 of this title and regulations prescribed by the Secretary of the military department concerned)” for “(composed in accordance with section 612 of this title)”.
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §503(c), Dec. 28, 2001, 115 Stat. 1084, provided that:
+
+“(1) Except as provided in paragraph (2), the amendments made by this section \[enacting section 1558 of this title and amending this section\] shall apply with respect to any proceeding pending on or after the date of the enactment of this Act \[Dec. 28, 2001\] without regard to whether a challenge to an action of a selection board of any of the Armed Forces being considered in the proceeding was initiated before, on, or after that date.
+
+“(2) The amendments made by this section shall not apply with respect to any action commenced in a court of the United States before the date of the enactment of this Act.”
+
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under section 521 of this title.
@@ -108,5 +178,5 @@ Pub. L. 105–261, div. A, title V, §501(f), Oct. 17, 1998, 112 Stat. 2002, pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 618, 641 of this title.
+This section is referred to in sections 618, 641, 1558 of this title.
 

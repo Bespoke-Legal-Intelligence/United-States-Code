@@ -80,19 +80,59 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (1) It shall be unlawful for an issuer which has a class of equity securities registered pursuant to section 78<i>l</i> of this title, or which is a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], to purchase any equity security issued by it if such purchase is in contravention of such rules and regulations as the Commission, in the public interest or for the protection of investors, may adopt (A) to define acts and practices which are fraudulent, deceptive, or manipulative, and (B) to prescribe means reasonably designed to prevent such acts and practices. Such rules and regulations may require such issuer to provide holders of equity securities of such class with such information relating to the reasons for such purchase, the source of funds, the number of shares to be purchased, the price to be paid for such securities, the method of purchase, and such additional information, as the Commission deems necessary or appropriate in the public interest or for the protection of investors, or which the Commission deems to be material to a determination whether such security should be sold.
 
-(2) For the purpose of this subsection, a purchase by or for the issuer or any person controlling, controlled by, or under common control with the issuer, or a purchase subject to control of the issuer or any such person, shall be deemed to be a purchase by the issuer. The Commission shall have power to make rules and regulations implementing this paragraph in the public interest and for the protection of investors, including exemptive rules and regulations covering situations in which the Commission deems it unnecessary or inappropriate that a purchase of the type described in this paragraph shall be deemed to be a purchase by the issuer for purposes of some or all of the provisions of paragraph (1) of this subsection.
+(2) For the purpose of this subsection, a purchase by or for the issuer or any person controlling, controlled by, or under common control with the issuer, or a purchase subject to controlof the issuer or any such person, shall be deemed to be a purchase by the issuer. The Commission shall have power to make rules and regulations implementing this paragraph in the public interest and for the protection of investors, including exemptive rules and regulations covering situations in which the Commission deems it unnecessary or inappropriate that a purchase of the type described in this paragraph shall be deemed to be a purchase by the issuer for purposes of some or all of the provisions of paragraph (1) of this subsection.
 
-(3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee of 1/50 of 1 per centum of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
+(3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
+
+(4)
+
+Offsetting collections.—Fees collected pursuant to this subsection for any fiscal year shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission, and, except as provided in paragraph (9), shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts. No fees collected pursuant to this subsection for fiscal year 2002 or any succeeding fiscal year shall be deposited and credited as general revenue of the Treasury.
+
+(5)
+
+Annual adjustment.—For each of the fiscal years 2003 through 2011, the Commission shall by order adjust the rate required by paragraph (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for such fiscal year.
+
+(6)
+
+Final rate adjustment.—For fiscal year 2012 and all of the succeeding fiscal years, the Commission shall by order adjust the rate required by paragraph (3) for all of such fiscal years to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for all of such fiscal years.
+
+(7)
+
+Pro rata application.—The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
+
+(8)
+
+Review and effective date.—In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (5) or (6) and published under paragraph (10) shall not be subject to judicial review. Subject to paragraphs (4) and (9)—
+
+&emsp;(A) an adjusted rate prescribed under paragraph (5) shall take effect on the later of—
+
+&emsp;&emsp;(i) the first day of the fiscal year to which such rate applies; or
+
+&emsp;&emsp;(ii) five days after the date on which a regular appropriation to the Commission for such fiscal year is enacted; and
+
+&emsp;(B) an adjusted rate prescribed under paragraph (6) shall take effect on the later of—
+
+&emsp;&emsp;(i) the first day of fiscal year 2012; or
+
+&emsp;&emsp;(ii) five days after the date on which a regular appropriation to the Commission for fiscal year 2012 is enacted.
+
+(9)
+
+Lapse of appropriation.—If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect fees (as offsetting collections) under this subsection at the rate in effect during the preceding fiscal year, until 5 days after the date such a regular appropriation is enacted.
+
+(10)
+
+Publication.—The rate applicable under this subsection for each fiscal year is published pursuant to section 6(b)(10) of the Securities Act of 1933 \[15 U.S.C. 77f(b)(10)\].
 
 #### (f) Reports by institutional investment managers
 
-(1) Every institutional investment manager which uses the mails, or any means or instrumentality of interstate commerce in the courseof its business as an institutional investment manager and which exercises investment discretion with respect to accounts holding equity securities of a class described in subsection (d)(1) of this section having an aggregate fair market value on the last trading day in any of the preceding twelve months of at least $100,000,000 or such lesser amount (but in no case less than $10,000,000) as the Commission, by rule, may determine, shall file reports with the Commission in such form, for such periods, and at such times after the end of such periods as the Commission, by rule, may prescribe, but in no event shall such reports be filed for periods longer than one year or shorter than one quarter. Such reports shall include for each such equity security held on the last day of the reporting period by accounts (in aggregate or by type as the Commission, by rule, may prescribe) with respect to which the institutional investment manager exercises investment discretion (other than securities held in amounts which the Commission, by rule, determines to be insignificant for purposes of this subsection), the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value of each such security. Such reports may also include for accounts (in aggregate or by type) with respect to which the institutional investment manager exercises investment discretion such of the following information as the Commission, by rule, prescribes—
+(1) Every institutional investment manager which uses the mails, or any means or instrumentality of interstate commerce in the course of its business as an institutional investment manager and which exercises investment discretion with respect to accounts holding equity securities of a class described in subsection (d)(1) of this section having an aggregate fair market value on the last trading day in any of the preceding twelve months of at least $100,000,000 or such lesser amount (but in no case less than $10,000,000) as the Commission, by rule, may determine, shall file reports with the Commission in such form, for such periods, and at such times after the end of such periods as the Commission, by rule, may prescribe, but in no event shall such reports be filed for periods longer than one year or shorter than one quarter. Such reports shall include for each such equity security held on the last day of the reporting period by accounts (in aggregate or by type as the Commission, by rule, may prescribe) with respect to which the institutional investment manager exercises investment discretion (other than securities held in amounts which the Commission, by rule, determines to be insignificant for purposes of this subsection), the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value of each such security. Such reports may also include for accounts (in aggregate or by type) with respect to which the institutional investment manager exercises investment discretion such of the following information as the Commission, by rule, prescribes—
 
 &emsp;(A) the name of the issuer and the title, class, CUSIP number, number of shares or principal amount, and aggregate fair market value or cost or amortized cost of each other security (other than an exempted security) held on the last day of the reporting period by such accounts;
 
 &emsp;(B) the aggregate fair market value or cost or amortized cost of exempted securities (in aggregate or by class) held on the last day of the reporting period by such accounts;
 
-&emsp;(C) the number of shares of each equity security of a class described in subsection (d)(1) of this section held on the last day of the reporting period by such accounts with respect to which the institutional investment manager possesses sole or shared authority to exercise the voting rights evidenced by such securities;
+&emsp;(C) the number of shares of each equity security of a class described in subsection (d)(1) ofthis section held on the last day of the reporting period by such accounts with respect to which the institutional investment manager possesses sole or shared authority to exercise the voting rights evidenced by such securities;
 
 &emsp;(D) the aggregate purchases and aggregate sales during the reporting period of each security (other than an exempted security) effected by or for such accounts; and
 
@@ -120,7 +160,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (3) The Commission shall make available to the public for a reasonable fee a list of all equity securities of a class described in subsection (d)(1) of this section, updated no less frequently than reports are required to be filed pursuant to paragraph (1) of this subsection. The Commission shall tabulate the information contained in any report filed pursuant to this subsection in a manner which will, in the view of the Commission, maximize the usefulness of the information to other Federal and State authorities and the public. Promptly after the filing of any such report, the Commission shall make the information contained therein conveniently available to the public for a reasonable fee in such form as the Commission, by rule, may prescribe, except that the Commission, as it determines to be necessary or appropriate in the public interest or for the protection of investors, may delay or prevent public disclosure of any such information in accordance with section 552 of title 5. Notwithstanding the preceding sentence, any such information identifying the securities held by the account of a natural person or an estate or trust (other than a business trust or investment company) shall not be disclosed to the public.
 
-(4) In exercising its authority under this subsection, the Commission shall determine (and so state) that its action is necessary or appropriate in the public interest and for the protection of investors or to maintain fair and orderly markets or, in granting an exemption, that its action is consistent with the protection of investors and the purposes of this subsection. In exercising such authority the Commission shall take such steps as are within its power, including consulting with the Comptroller General of the United States, the Director of the Office of Management and Budget, the appropriate regulatory agencies, Federal and State authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection, national securities exchanges, and registered securities associations, (A) to achieve uniform, centralized reporting of information concerning the securities holdings of and transactions by or for accounts with respect to which institutional investment managers exercise investment discretion, and (B) consistently with the objective set forth in the preceding subparagraph, to avoid unnecessarily duplicative reporting by, and minimize the compliance burden on, institutional investment managers. Federal authorities which, directly or indirectly, require reports from institutional investment managersof information substantially similar to that called for by this subsection shall cooperate with the Commission in the performance of its responsibilities under the preceding sentence. An institutional investment manager which is a bank, the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], shall file with the appropriate regulatory agency a copy of every report filed with the Commission pursuant to this subsection.
+(4) In exercising its authority under this subsection, the Commission shall determine (and so state) that its action is necessary or appropriate in the public interest and for the protection of investors or to maintain fair and orderly markets or, in granting an exemption, that its action is consistent with the protection of investors and the purposes of this subsection. In exercising such authority the Commission shall take such steps as are within its power, including consulting with the Comptroller General of the United States, the Director of the Office of Management and Budget, the appropriate regulatory agencies, Federal and State authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection, national securities exchanges, and registered securities associations, (A) to achieve uniform, centralized reporting of information concerning the securities holdings of and transactions by or for accounts with respect to which institutional investment managers exercise investment discretion, and (B) consistently with the objective set forth in the preceding subparagraph, to avoid unnecessarily duplicative reporting by, and minimize the compliance burden on, institutional investment managers. Federal authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection shall cooperate with the Commission in the performance of its responsibilities under the preceding sentence. An institutional investment manager which is a bank, the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], shall file with the appropriate regulatory agency a copy of every report filed with the Commission pursuant to this subsection.
 
 (5)(A) For purposes of this subsection the term “institutional investment manager” includes any person, other than a natural person, investing in or buying and selling securities for its own account, and any person exercising investment discretion with respect to the account of any other person.
 
@@ -134,7 +174,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 &emsp;(B) the number and description of the shares in which such person has an interest and the nature of such interest.
 
-(2) If any material change occurs in the facts set forth in the statement sent to the issuer and filed with the Commission, an amendment shall be transmitted to the issuer and shall be filed with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+(2) If any material change occurs in the facts set forth in the statement sent to the issuer and filed with the Commission, an amendment shall be transmitted to the issuer and shall be filedwith the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 (3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for the purposes of this subsection.
 
@@ -198,7 +238,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 &emsp;&emsp;(E) the term “person” has the meaning given in section 78c(a)(9) of this title and also includes two or more persons acting as a partnership, limited partnership, syndicate, or other group, but does not include a foreign central bank.
 
-(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964.)
+(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395.)
 
 #### References in Text
 
@@ -208,9 +248,13 @@ The Investment Company Act of 1940, referred to in subsecs. (d)(1) and (e)(1), i
 
 The Securities Act of 1933, referred to in subsec. (d)(6)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (f)(4), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, seeShort Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (f)(4), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
 #### Amendments
+
+2002—Subsec. (e)(3). Pub. L. 107–123, §5(1), substituted “a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased” for “a fee of 1/50 of 1 per centum of the value of securities proposed to be purchased”.
+
+Subsec. (e)(4) to (10). Pub. L. 107–123, §5(2), added pars. (4) to (10).
 
 1990—Subsec. (h). Pub. L. 101–432 added subsec. (h).
 
@@ -244,6 +288,10 @@ Subsec. (e)(2). Pub. L. 91–567, §2, inserted provisions empowering the Commis
 
 1964—Subsec. (a). Pub. L. 88–467 substituted provisions which require the issuer of a security registered pursuant to section 78<i>l</i> of this title to file reports with the Commission rather than with the exchange and to furnish the exchange with duplicate originals and prohibit the Commission from requiring the filing of any material contract wholly executed before July 1, 1962 for former provisions which required the issuer of a security registered on a national securities exchange to file certain reports with the exchange and to file duplicates with the Commission.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities provided by subsec. (e)(9) of this section to not apply until Oct. 1, 2002, see section 11 of Pub. L. 107–123, set out as a note under section 78ee of this title.
+
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–210 not applicable to any report by any person with respect to a fiscal year of such person which began before Feb. 5, 1976, see section 308(d)(2) of Pub. L. 94–210, set out as a note under section 80a–3 of this title.
@@ -274,7 +322,7 @@ Definitions.—For purposes of subsection (a), the terms ‘insured depository i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77r, 77z–2, 77nnn, 78c, 78<i>l</i>, 78n, 78<i>o</i>, 78u–5, 78w, 78hh, 80a–8, 80a–29, 80a–54, 80a–63, 773 of this title; title 7 section 12a; title 11 section 1145; title 12 section 1817; title 16 section 824c; title 22 section 2197; title 26 sections 162, 952, 964; title 29 section 1343; title 43 section 1629c.
+This section is referred to in sections 77f, 77r, 77z–2, 77nnn, 78c, 78<i>l</i>, 78n, 78<i>o</i>, 78u–5, 78w, 78hh, 80a–8, 80a–29, 80a–54, 80a–63, 773 of this title; title 7 section 12a; title 11 section 1145; title 12 section 1817; title 16 section 824c; title 22 section 2197; title 26 sections 162, 952, 964; title 29 section 1343; title 43 section 1629c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “account.”</i>
 

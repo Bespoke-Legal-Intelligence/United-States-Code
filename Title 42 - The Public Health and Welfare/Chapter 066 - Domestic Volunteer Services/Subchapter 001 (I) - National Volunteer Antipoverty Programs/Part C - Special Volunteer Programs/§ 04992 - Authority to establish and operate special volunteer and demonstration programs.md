@@ -46,7 +46,7 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 
 #### Report on Programs, Activities, Grants, and Contracts Resulting From Amendment by Section 7 of Pub. L. 96–143
 
-Section 7(d) of Pub. L. 96–143 directed Director of ACTION Agency, not later than 18 months after fundswere first made available to carry out activities under the amendments to this part made by section 7 of Pub. L. 96–143, to submit to appropriate committees of Congress a report on programs, activities, grants, and contracts so carried out.
+Section 7(d) of Pub. L. 96–143 directed Director of ACTION Agency, not later than 18 months after funds were first made available to carry out activities under the amendments to this part made by section 7 of Pub. L. 96–143, to submit to appropriate committees of Congress a report on programs, activities, grants, and contracts so carried out.
 
 #### Executive Order No. 12034
 

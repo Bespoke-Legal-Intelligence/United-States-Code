@@ -276,5 +276,5 @@ Pub. L. 91–688, §3, Jan. 12, 1971, 84 Stat. 2073, as amended by Pub. L. 99–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 108, 165, 170, 246, 381, 383, 481, 514, 535, 613A, 642, 805, 822, 832, 871, 877, 904, 1222, 1247, 1314, 1341, 1351, 1398, 1503, 6411, 6655 of this title.
+This section is referred to in sections 1, 108, 165, 170, 246, 381, 383, 481, 514, 535, 613A, 642, 805, 822, 832, 871, 877, 904, 1022, 1222, 1247, 1314, 1341, 1351, 1398, 1503, 6411, 6655 of this title.
 

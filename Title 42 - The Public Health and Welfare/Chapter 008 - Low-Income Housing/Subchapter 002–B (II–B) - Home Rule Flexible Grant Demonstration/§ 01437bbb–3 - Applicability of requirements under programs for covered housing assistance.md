@@ -10,7 +10,7 @@ In each fiscal year of the demonstration program under this subchapter, amounts 
 
 #### (b) Number of families assisted
 
-In carrying out the demonstration program under this subchapter, each participating jurisdiction shall assist substantially the same totalnumber of eligible low-income families as would have otherwise been served by the public housing agency for the jurisdiction had the jurisdiction not participated in the demonstration program under this subchapter.
+In carrying out the demonstration program under this subchapter, each participating jurisdiction shall assist substantially the same total number of eligible low-income families as would have otherwise been served by the public housing agency for the jurisdiction had the jurisdiction not participated in the demonstration program under this subchapter.
 
 #### (c) Protection of recipients
 

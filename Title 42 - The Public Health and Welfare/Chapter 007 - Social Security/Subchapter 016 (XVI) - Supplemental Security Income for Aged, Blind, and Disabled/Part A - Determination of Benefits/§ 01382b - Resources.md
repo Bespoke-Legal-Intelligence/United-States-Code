@@ -10,7 +10,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(B) the value of any burial space or agreement (including any interest accumulated thereon) representing the purchase of a burial space (subject to such limits as to size or value as the Commissioner of Social Security may by regulation prescribe) held for the purpose of providing a place for the burial of the individual, his spouse, or any other member of his immediate family;
 
-&emsp;(3) other property which is so essential to the means of self-support of such individual (and such spouse) as to warrant its exclusion, as determined in accordance with and subject to limitations prescribed by the Commissioner of Social Security, except that the Commissioner of Social Security shall not establish a limitation on property (including the tools of a tradesperson and the machinery and livestock of a farmer) that is used in a trade or business or by such individual as an employee;
+&emsp;(3) other property which is so essential to the means of self-support of such individual (and such spouse) as to warrant its exclusion, as determined in accordance with and subjectto limitations prescribed by the Commissioner of Social Security, except that the Commissioner of Social Security shall not establish a limitation on property (including the tools of a tradesperson and the machinery and livestock of a farmer) that is used in a trade or business or by such individual as an employee;
 
 &emsp;(4) such resources of an individual who is blind or disabled and who has a plan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan;
 
@@ -164,7 +164,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(A) the term “trust” includes any legal instrument or device that is similar to a trust;
 
-&emsp;(B) the term “corpus” means, with respect to a trust, all property and other interests held by the trust, including accumulated earnings and any other addition to the trust after its establishment (except that such term does not include any such earnings or addition in the month in which the earnings or addition is credited or otherwise transferred to the trust); and
+&emsp;(B) the term “corpus” means, with respect to a trust, all property and other interestsheld by the trust, including accumulated earnings and any other addition to the trust after its establishment (except that such term does not include any such earnings or addition in the month in which the earnings or addition is credited or otherwise transferred to the trust); and
 
 &emsp;(C) the term “asset” includes any income or resource of the individual (or of the individual's spouse), including—
 
@@ -238,7 +238,7 @@ Subsec. (c)(1). Pub. L. 100–203, §9104(a)(1), inserted “, and subject to p
 
 Subsec. (c)(4). Pub. L. 100–203, §9104(a)(2), added par. (4).
 
-Subsec. (d)(1). Pub. L. 100–203, §9105(a)(1), struck out “if the inclusion of any portion of such amount or amounts would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title” after “individual or spouse”.
+Subsec. (d)(1). Pub. L. 100–203, §9105(a)(1), struck out “if the inclusion of any portion of such amount oramounts would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title” after “individual or spouse”.
 
 Subsec. (d)(3). Pub. L. 100–203, §9105(a)(2), substituted “aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title” for “aside”.
 

@@ -62,7 +62,7 @@ In awarding a scholarship or fellowship under the program, the Secretary or cont
 
 #### (c) Evaluation of progress in language skills
 
-The Secretary shall, through the National Security Education Program office, administer a test of the foreign language skills of each recipient of a scholarship or fellowship under this chapter before the commencement of the study or education for which the scholarship or fellowship is awarded and after the completion of suchstudy or education. The purpose of these tests is to evaluate the progress made by recipients of scholarships and fellowships in developing foreign language skills as a result of assistance under this chapter.
+The Secretary shall, through the National Security Education Program office, administer a test of the foreign language skills of each recipient of a scholarship or fellowship under this chapter before the commencement of the study or education for which the scholarship or fellowship is awarded and after the completion of such study or education. The purpose of these tests is to evaluate the progress made by recipients of scholarships and fellowships in developing foreign language skills as a result of assistance under this chapter.
 
 #### (d) Distribution of assistance
 
@@ -78,7 +78,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 #### (g) Determination of agencies and offices of Federal Government having national security responsibilities
 
-(1) The Secretary, in consultation with the Board, shall annually determine and develop a list identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first such list to the Congress and include each subsequent list in the annual report to the Congress, as required by section 1906(b)(6) of this title.
+(1) The Secretary, in consultation with the Board, shall annually determine and develop alist identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first such list to the Congress and include each subsequent list in the annual report to the Congress, as required by section 1906(b)(6) of this title.
 
 (2) Notwithstanding section 1904 of this title, funds may not be made available from the Fund to carry out this chapter for fiscal year 1997 until 30 days after the date on which the Secretary of Defense submits to the Congress the first such list required by paragraph (1).
 

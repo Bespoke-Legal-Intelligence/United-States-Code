@@ -124,7 +124,7 @@ Property Support Service Defined.—In this section, the term ‘property suppor
 
 &emsp;(2) Any other service determined by the Secretary to be a service that supports the operation and maintenance of real property, personal property, or facilities.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, §2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(16)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Added Pub. L. 106–65, div. B, title XXVIII, §2802(a)(1), Oct. 5, 1999, 113 Stat. 845; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(16)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227.)
 
 #### References in Text
 
@@ -132,9 +132,9 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Amendments
 
-2000—Subsec. (j)(2). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+2001—Subsec. (j)(2). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-Subsec. (k). Pub. L. 106–398 inserted “and” after “Balanced Budget”.
+2000—Subsec. (k). Pub. L. 106–398 inserted “and” after “Balanced Budget”.
 
 #### Section Referred to in Other Sections
 

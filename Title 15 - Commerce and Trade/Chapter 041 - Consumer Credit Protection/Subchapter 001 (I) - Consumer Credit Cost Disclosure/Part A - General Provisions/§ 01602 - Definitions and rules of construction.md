@@ -112,7 +112,7 @@
 
 #### References in Text
 
-The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (aa)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
+The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec.\(aa)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
@@ -182,5 +182,5 @@ Section 156 of title I of Pub. L. 103–325 provided that: “This subtitle \[su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1604, 1605, 1610, 1615, 1631, 1635, 1638, 1639, 1641, 1667, 1679a, 1693a, 1693g of this title; title 12 sections 1735f–5, 1735f–7a, 1834b, 2602, 3401; title 18 section 1030; title 26 section 6311; title 42 section 5511.
+This section is referred to in sections 1604, 1605, 1610, 1615, 1631, 1635, 1638, 1639, 1641, 1667, 1679a, 1693a, 1693g ofthis title; title 12 sections 1735f–5, 1735f–7a, 1834b, 2602, 3401; title 18 section 1030; title 26 section 6311; title 42 section 5511.
 

@@ -8,11 +8,11 @@
 
 #### (2) Special rule
 
-&emsp;No such commitments shall be made to students under this subpart unless the academic department, program or unit has determined adequate funds are available to fulfill the commitment from funds received or anticipated under this subpart, or from institutional funds.
+&emsp;No such commitments shall be made to students under this subpart unless the academicdepartment, program or unit has determined adequate funds are available to fulfill the commitment from funds received or anticipated under this subpart, or from institutional funds.
 
 #### (b) Amount of stipends
 
-The Secretary shall make payments to institutions of higher education for the purpose ofpaying stipends to individuals who are awarded fellowships under this subpart. The stipends the Secretary establishes shall reflect the purpose of the program under this subpart to encourage highly talented students to undertake graduate study as described in this subpart. In the case of an individual who receives such individual's first stipend under this subpart in academic year 1999–2000 or any succeeding academic year, such stipend shall be set at a level of support equal to that provided by the National Science Foundation graduate fellowships, except such amount shall be adjusted as necessary so as not to exceed the fellow's demonstrated level of need as determined under part E of subchapter IV of this chapter.
+The Secretary shall make payments to institutions of higher education for the purpose of paying stipends to individuals who are awarded fellowships under this subpart. The stipends the Secretary establishes shall reflect the purpose of the program under this subpart to encourage highly talented students to undertake graduate study as described in this subpart. In the case of an individual who receives such individual's first stipend under this subpart in academic year 1999–2000 or any succeeding academic year, such stipend shall be set at a level of support equal to that provided by the National Science Foundation graduate fellowships, except such amount shall be adjusted as necessary so as not to exceed the fellow's demonstrated level of need as determined under part E of subchapter IV of this chapter.
 
 #### (c) Treatment of institutional payments
 

@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide under subsection (d) of this section for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
+&emsp;&emsp;The Secretary shall provide under subsection (d) of this section for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State onor after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
 
 #### (B) Special rules where vaccine is unavailable
 
@@ -48,7 +48,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) A child who is not insured.
 
-&emsp;&emsp;&emsp;(iii) A child who (I) is administered a qualified pediatric vaccine by a federally-qualified health center (as defined in section 1396d(<i>l</i>)(2)(B) of this title) or a ruralhealth clinic (as defined in section 1396d(<i>l</i>)(1) of this title), and (II) is not insured with respect to the vaccine.
+&emsp;&emsp;&emsp;(iii) A child who (I) is administered a qualified pediatric vaccine by a federally-qualified health center (as defined in section 1396d(<i>l</i>)(2)(B) of this title) or a rural health clinic (as defined in section 1396d(<i>l</i>)(1) of this title), and (II) is not insured with respect to the vaccine.
 
 &emsp;&emsp;&emsp;(iv) A child who is an Indian (as defined in subsection (h)(3) of this section).
 
@@ -110,7 +110,7 @@ For purposes of this section:
 
 #### (4) State requirements
 
-&emsp;Except as the Secretary may permit in order to prevent fraud and abuse and for related purposes, a State may not impose additional qualifications or conditions, in addition to the requirements of paragraph (1), in order that aprovider qualify as a program-registered provider under this section. This subsection does not limit the exercise of State authority under section 1396n(b) of this title.
+&emsp;Except as the Secretary may permit in order to prevent fraud and abuse and for related purposes, a State may not impose additional qualifications or conditions, in addition to the requirements of paragraph (1), in order that a provider qualify as a program-registered provider under this section. This subsection does not limit the exercise of State authority under section 1396n(b) of this title.
 
 #### (d) Negotiation of contracts with manufacturers
 
@@ -156,7 +156,7 @@ For purposes of this section:
 
 #### (7) Multiple suppliers
 
-&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including termsand conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
+&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including terms and conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
 
 #### (e) Use of pediatric vaccines list
 
@@ -188,7 +188,7 @@ For purposes of this section:
 
 &emsp;(7) The term “program-registered provider” has the meaning given such term in subsection (c) of this section.
 
-&emsp;(8) The term “qualified pediatric vaccine” means a pediatric vaccine with respect to which a contract is in effect under subsection (d) of this section.
+&emsp;(8) The term “qualified pediatric vaccine” means a pediatric vaccine with respect towhich a contract is in effect under subsection (d) of this section.
 
 &emsp;(9) The terms “vaccine-eligible child”, “federally vaccine-eligible child”, and “State vaccine-eligible child” have the meaning given such terms in subsection (b) of this section.
 

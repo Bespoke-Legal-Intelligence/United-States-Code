@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) that—
 
-&emsp;&emsp;&emsp;(i) the application of the import restrictions set forth in section 2606 of this title with respect to archaeological or ethnological material of the State Party, if applied in concert with similar restrictions implemented, or to be implemented within a reasonable period of time, by those nations (whether or not State Parties) individually having a significant import trade in such material, would be of substantial benefit in deterring a serious situation of pillage, and
+&emsp;&emsp;&emsp;(i) the application of the import restrictions set forth in section 2606 of this title with respect to archaeological or ethnological material of the State Party, if applied in concert with similar restrictions implemented, or to be implemented within a reasonable period of time, by those nations (whether or not State Parties) individually having a significant import tradein such material, would be of substantial benefit in deterring a serious situation of pillage, and
 
 &emsp;&emsp;&emsp;(ii) remedies less drastic than the application of the restrictions set forth in such section are not available; and
 
@@ -136,7 +136,7 @@ Section 1. <i>United States Information Agency</i>. The following functions conf
 
 (e) The functions conferred by section 303(g)(1)(B) relating to the notification of Presidential action and the furnishing of reports to the Congress.
 
-(f) The functions conferred by section 304(b) \[19 U.S.C. 2603(b)\] to the extent that they involve determinationsby the President that an emergency condition applies with respect to any archaeological or ethnological material of any State Party to the Convention, subject to the limitations of sections 304(c)(1), 304(c)(2), and 304(c)(3).
+(f) The functions conferred by section 304(b) \[19 U.S.C. 2603(b)\] to the extent that they involve determinations by the President that an emergency condition applies with respect to any archaeological or ethnological material of any State Party to the Convention, subject to the limitations of sections 304(c)(1), 304(c)(2), and 304(c)(3).
 
 (g) The functions conferred by section 304(c)(3) to the extent that they involve determinations to be made and the receipt and consideration of an advisory report from the Cultural Property Advisory Committee by the President prior to extensions of emergency import restrictions.
 

@@ -34,5 +34,5 @@ Section 2003 of part A (§§2001–2003) of chapter XX of title II of Pub. L. 98
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1956, 2332b, 2333, 2339A, 2516, 3286, 3592 of this title.
+This section is referred to in sections 1956, 2332b, 2333, 2339A, 2516, 3592 of this title.
 

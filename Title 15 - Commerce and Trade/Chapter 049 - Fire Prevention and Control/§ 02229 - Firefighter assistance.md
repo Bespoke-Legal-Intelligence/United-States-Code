@@ -34,35 +34,35 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (3) Use of fire department grant funds
 
-&emsp;The Director may make a grant under paragraph (1)(A) only if the applicant for the grant agrees to use the grant funds—
+&emsp;The Director may make a grant under paragraph (1)(A) only if the applicant for the grant agrees to use the grant funds for one or more of the following purposes:
 
-&emsp;&emsp;(A) to hire additional firefighting personnel;
+&emsp;&emsp;(A) To hire additional firefighting personnel.
 
-&emsp;&emsp;(B) to train firefighting personnel in firefighting, emergency response, arson prevention and detection, or the handling of hazardous materials, or to train firefighting personnel to provide any of the training described in this subparagraph;
+&emsp;&emsp;(B) To train firefighting personnel in firefighting, emergency response (including response to a terrorism incident or use of a weapon of mass destruction), arson prevention and detection, or the handling of hazardous materials, or to train firefighting personnel to provide any of the training described in this subparagraph.
 
-&emsp;&emsp;(C) to fund the creation of rapid intervention teams to protect firefighting personnel at the scenes of fires and other emergencies;
+&emsp;&emsp;(C) To fund the creation of rapid intervention teams to protect firefighting personnel at the scenes of fires and other emergencies.
 
-&emsp;&emsp;(D) to certify fire inspectors;
+&emsp;&emsp;(D) To certify fire inspectors.
 
-&emsp;&emsp;(E) to establish wellness and fitness programs for firefighting personnel to ensure that the firefighting personnel can carry out their duties;
+&emsp;&emsp;(E) To establish wellness and fitness programs for firefighting personnel to ensure that the firefighting personnel can carry out their duties.
 
-&emsp;&emsp;(F) to fund emergency medical services provided by fire departments;
+&emsp;&emsp;(F) To fund emergency medical services provided by fire departments.
 
-&emsp;&emsp;(G) to acquire additional firefighting vehicles, including fire trucks;
+&emsp;&emsp;(G) To acquire additional firefighting vehicles, including fire trucks.
 
-&emsp;&emsp;(H) to acquire additional firefighting equipment, including equipment for communications and monitoring;
+&emsp;&emsp;(H) To acquire additional firefighting equipment, including equipment for communications, monitoring, and response to a terrorism incident or use of a weapon of mass destruction.
 
-&emsp;&emsp;(I) to acquire personal protective equipment required for firefighting personnel by the Occupational Safety and Health Administration, and other personal protective equipment for firefighting personnel;
+&emsp;&emsp;(I) To acquire personal protective equipment required for firefighting personnel by the Occupational Safety and Health Administration, and other personal protective equipment for firefighting personnel, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction.
 
-&emsp;&emsp;(J) to modify fire stations, fire training facilities, and other facilities to protect the health and safety of firefighting personnel;
+&emsp;&emsp;(J) To modify fire stations, fire training facilities, and other facilities to protect the health and safety of firefighting personnel.
 
-&emsp;&emsp;(K) to enforce fire codes;
+&emsp;&emsp;(K) To enforce fire codes.
 
-&emsp;&emsp;(L) to fund fire prevention programs;
+&emsp;&emsp;(L) To fund fire prevention programs.
 
-&emsp;&emsp;(M) to educate the public about arson prevention and detection; or
+&emsp;&emsp;(M) To educate the public about arson prevention and detection.
 
-&emsp;&emsp;(N) to provide incentives for the recruitment and retention of volunteer firefighting personnel for volunteer firefighting departments and other firefighting departments that utilize volunteers.
+&emsp;&emsp;(N) To provide incentives for the recruitment and retention of volunteer firefighting personnel for volunteer firefighting departments and other firefighting departments that utilize volunteers.
 
 #### (4) Fire prevention programs
 
@@ -146,7 +146,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (11) Reservation of grant funds for volunteer departments
 
-&emsp;In making grants to firefighting departments, the Director shall ensure that those firefighting departments that have either all-volunteer forces of firefighting personnel or combined forces of volunteer and professional firefighting personnel receive a proportion of the total grant funding that is not less than the proportion of the United States population that those firefighting departments protect.
+&emsp;In making grants to firefighting departments, the Director shall ensure that thosefirefighting departments that have either all-volunteer forces of firefighting personnel or combined forces of volunteer and professional firefighting personnel receive a proportion of the total grant funding that is not less than the proportion of the United States population that those firefighting departments protect.
 
 #### (c) Audits
 
@@ -158,15 +158,27 @@ In this section, the term “State” includes the District of Columbia and the 
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated for the purposes of this section amounts as follows:
+#### (1) In general
 
-&emsp;(1) $100,000,000 for fiscal year 2001.
+&emsp;There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.
 
-&emsp;(2) $300,000,000 for fiscal year 2002.
+#### (2) Administrative expenses
 
-(Pub. L. 93–498, §33, as added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360.)
+&emsp;Of the funds appropriated pursuant to paragraph (1) for a fiscal year, the Director may use not more than three percent of the funds to cover salaries and expenses and other administrative costs incurred by the Director to operate the office established under subsection (b)(2) of this section and make grants and provide assistance under this section.
+
+(Pub. L. 93–498, §33, as added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, §1061, Dec. 28, 2001, 115 Stat. 1231.)
 
 #### Codification
 
 Another section 33 of Pub. L. 93–498 is classified to section 2230 of this title.
+
+#### Amendments
+
+2001—Subsec. (b)(3). Pub. L. 107–107, §1061(b), (c), substituted “the grant funds for one or more of the following purposes:” for “the grant funds—” in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for “; or” at end of subpar. (M), inserted “(including response to a terrorism incident or use of a weapon of mass destruction)” after “emergency response” in subpar. (B), substituted “, monitoring, and response to a terrorism incident or use of a weapon of mass destruction” for “and monitoring” in subpar. (H), and inserted “, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction” after “equipment for firefighting personnel” in subpar. (I).
+
+Subsec. (e). Pub. L. 107–107, §1061(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for the purposes of this section amounts as follows:
+
+&emsp;“(1) $100,000,000 for fiscal year 2001.
+
+&emsp;“(2) $300,000,000 for fiscal year 2002.”
 

@@ -28,7 +28,7 @@ In the case of the death of a taxpayer whose taxable income is computed under an
 
 #### (1) General rule
 
-&emsp;In the case of a taxpayer whose taxable income is computed under an accrual method ofaccounting, to the extent that the time for accruing taxes is earlier than it would be but for any action of any taxing jurisdiction taken after December 31, 1960, then, under regulations prescribed by the Secretary, such taxes shall be treated as accruing at the time they would have accrued but for such action by such taxing jurisdiction.
+&emsp;In the case of a taxpayer whose taxable income is computed under an accrual method of accounting, to the extent that the time for accruing taxes is earlier than it would be but for any action of any taxing jurisdiction taken after December 31, 1960, then, under regulations prescribed by the Secretary, such taxes shall be treated as accruing at the time they would have accrued but for such action by such taxing jurisdiction.
 
 #### (2) Limitation
 
@@ -196,7 +196,7 @@ If—
 
 &emsp;For purposes of this subsection, the term “economic performance” has the meaning given such term by subsection (h).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), titleXVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891.)
 
 #### Amendments
 
@@ -246,7 +246,7 @@ Subsec. (i)(4). Pub. L. 99–514, §801(b)(2), amended par. (4) generally. Prior
 
 &emsp;“(C) in determining whether an entity is a tax shelter, the definition of farming syndicate in section 464(c) shall be substituted for subparagraphs (A) and (B) of paragraph (3).”
 
-Subsec. (i)(4)(A). Pub. L. 99–514, §1807(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “section 464 shall be applied to any tax shelter described in paragraph (3)(C),”.
+Subsec. (i)(4)(A). Pub. L. 99–514, §1807(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: “section 464 shall be applied to any tax shelter described in paragraph (3)(C),”.
 
 <b>1984</b>—Subsec. (f)(4). Pub. L. 98–369, §91(e), inserted “determined after application of subsection (h)”.
 
@@ -278,7 +278,7 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 801(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,with certain exceptions and qualifications, see section 801(d) of Pub. L. 99–514, set out as an Effective Date note under section 448 of this title.
+Amendment by section 801(b) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 801(d) of Pub. L. 99–514, set out as an Effective Date note under section 448 of this title.
 
 Amendment by section 805(c)(5) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain changes required in method of accounting, see section 805(d) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
@@ -480,5 +480,5 @@ Section 223(d) of Pub. L. 88–272 provided that: “The amendments made by subs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 164, 167, 172, 448, 468A, 468B of this title.
+This section is referred to in sections 164, 167, 172, 448, 468A, 468B, 5891 of this title.
 

@@ -60,7 +60,7 @@ Subsections (b) and (c) of this section shall not apply with respect to any agre
 
 #### (2) Fulfillment of CRA
 
-&emsp;For purposes of subparagraph (A), the term “fulfillment” means a list of factors that theappropriate Federal banking agency determines have a material impact on the agency's decision—
+&emsp;For purposes of subparagraph (A), the term “fulfillment” means a list of factors that the appropriate Federal banking agency determines have a material impact on the agency's decision—
 
 &emsp;&emsp;(A) to approve or disapprove an application for a deposit facility (as defined in section 803 of the Community Reinvestment Act of 1977 \[12 U.S.C. 2902\]); or
 
@@ -124,5 +124,5 @@ No provision of this section shall be construed as authorizing any appropriate F
 
 #### References in Text
 
-The Community Reinvestment Act of 1977, referred to in subsecs. (a) and (e)(1)(A), (B)(iii), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Community Reinvestment Act of 1977, referred to in subsecs. (a) and (e)(1)(A), (B)(iii), is title VIII of Pub.L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 

@@ -6,7 +6,7 @@ The Director of the Federal Bureau of Investigation is authorized to—
 
 &emsp;(1) establish and conduct training programs at the Federal Bureau of Investigation National Academy at Quantico, Virginia, to provide, at the request of a State, unit of local government, or rail carrier, training for State and local criminal justice personnel, including railroad police officers;
 
-&emsp;(2) develop new or improved approaches, techniques, systems, equipment, and devices to improve and strengthen criminal justice; and
+&emsp;(2) develop new or improved approaches, techniques, systems, equipment, and devicesto improve and strengthen criminal justice; and
 
 &emsp;(3) assist in conducting, at the request of a State, unit of local government, or rail carrier, local and regional training programs for the training of State and local criminal justice personnel engaged in the investigation of crime and the apprehension of criminals. Training for rural criminal justice personnel shall include, when appropriate, effective use of regional resources and methods to improve coordination among criminal justice personnel in different areas and in different levels of government. Such training shall be provided only for persons actually employed as State police or highway patrol, police of a unit of local government, sheriffs, and their deputies, railroad police officer,<sup>1</sup> and other persons as the State, unit of local government, or rail carrier may nominate for police training while such persons are actually employed as officers of such State, unit of local government, or rail carrier.
 
@@ -74,9 +74,11 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 
 #### Annual Outstanding Student Award
 
-Pub. L. 106–554, §1(a)(3) \[title I\], Dec. 21, 2000, 114 Stat. 2763, 2763A–127, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
+Pub. L. 107–67, title I, Nov. 12, 2001, 115 Stat. 516, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a giftof intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–554, §1(a)(3) \[title I\], Dec. 21, 2000, 114 Stat. 2763, 2763A–127.
 
 Pub. L. 106–58, title I, Sept. 29, 1999, 113 Stat. 432.
 

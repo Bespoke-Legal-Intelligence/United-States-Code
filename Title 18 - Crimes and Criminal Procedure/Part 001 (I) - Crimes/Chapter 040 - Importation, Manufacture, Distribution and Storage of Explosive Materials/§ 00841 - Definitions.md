@@ -34,7 +34,7 @@ As used in this chapter—
 
 &emsp;(p) “Detection agent” means any one of the substances specified in this subsection when introduced into a plastic explosive or formulated in such explosive as a part of the manufacturing process in such a manner as to achieve homogeneous distribution in the finished explosive, including—
 
-&emsp;&emsp;(1) Ethylene glycol dinitrate (EGDN), C<sub>2</sub>H<sub>4</sub>(NO<sub>3</sub>)<sub>2</sub>, molecular weight 152, when theminimum concentration in the finished explosive is 0.2 percent by mass;
+&emsp;&emsp;(1) Ethylene glycol dinitrate (EGDN), C<sub>2</sub>H<sub>4</sub>(NO<sub>3</sub>)<sub>2</sub>, molecular weight 152, when the minimum concentration in the finished explosive is 0.2 percent by mass;
 
 &emsp;&emsp;(2) 2,3-Dimethyl-2,3-dinitrobutane (DMNB), C<sub>6</sub>H<sub>12</sub>(NO<sub>2</sub>)<sub>2</sub>, molecular weight 176, when the minimum concentration in the finished explosive is 0.1 percent by mass;
 

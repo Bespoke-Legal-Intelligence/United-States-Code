@@ -36,7 +36,7 @@
 
 #### (2) Waiver regarding certain secondary agreements
 
-&emsp;(A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regarding a participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
+&emsp;(A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regardinga participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
 
 &emsp;(B) A determination by the Secretary of whether a provider referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the provider accepts voluntary donations regarding the provision of services to the public.
 
@@ -92,7 +92,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 &emsp;(1) the fair market value of any supplies or equipment furnished the grant recipient; and
 
-&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
+&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee ofthe Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
 > when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
@@ -194,7 +194,7 @@ In general.—The Director of the Centers for Disease Control and Prevention sha
 
 &emsp;“(E) use data obtained as result of activities under this section to formulate or revise existing lead blood screening and case management policies; and
 
-&emsp;“(F) establish performance measures for evaluating State and local implementation of the requirementsand improvements described in subparagraphs (A) through (E).
+&emsp;“(F) establish performance measures for evaluating State and local implementation of the requirements and improvements described in subparagraphs (A) through (E).
 
 “(2)
 

@@ -40,3 +40,4 @@ Part IX—Miscellaneous
 - [&sect; 01376 - Data on nonimmigrant overstay rates](%C2%A7%2001376%20-%20Data%20on%20nonimmigrant%20overstay%20rates.md)
 - [&sect; 01377 - Collection of data on detained asylum seekers](%C2%A7%2001377%20-%20Collection%20of%20data%20on%20detained%20asylum%20seekers.md)
 - [&sect; 01378 - Collection of data on other detained aliens](%C2%A7%2001378%20-%20Collection%20of%20data%20on%20other%20detained%20aliens.md)
+- [&sect; 01379 - Technology standard to confirm identity](%C2%A7%2001379%20-%20Technology%20standard%20to%20confirm%20identity.md)

@@ -1,6 +1,6 @@
 ### §1973. Denial or abridgement of right to vote on account of race or color through voting qualifications or prerequisites; establishment of violation
 
-(a) No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by any State or political subdivision in a manner which results in a denial or abridgement of the right of any citizen of the United States to vote on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title, as provided in subsection (b) of this section.
+(a) No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by any State or political subdivision in a manner which results in a denial or abridgement of the right of any citizen ofthe United States to vote on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title, as provided in subsection (b) of this section.
 
 (b) A violation of subsection (a) of this section is established if, based on the totality of circumstances, it is shown that the political processes leading to nomination or election in the State or political subdivision are not equally open to participation by members of a class of citizens protected by subsection (a) of this section in that its members have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice. The extent to which members of a protected class have been elected to office in the State or political subdivision is one circumstance which may be considered: <i>Provided</i>, That nothing in this section establishes a right to have members of a protected class elected in numbers equal to their proportion in the population.
 
@@ -16,17 +16,9 @@
 
 Section 6 of Pub. L. 97–205 provided that: “Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1982 Amendment note below\] shall take effect on the date of the enactment of this Act \[June 29, 1982\].”
 
-#### Short Title of 1982 Amendment
-
-Section 1 of Pub. L. 97–205 provided: “That this Act \[enacting section 1973aa–6 of this title, amending this section and sections 1973b and 1973aa–1a of this title,and enacting provisions set out as notes under this section and sections 1971, 1973b, 1973aa–1a, and 1973aa–6 of this title\] may be cited as the ‘Voting Rights Act Amendments of 1982’.”
-
-#### Short Title of 1970 Amendment
-
-Pub. L. 91–285, §1, June 22, 1970, 84 Stat. 314, provided: “That this Act \[designating existing provisions of Pub. L. 89–110 as subchapter I–A, enacting subchapters I–B and I–C of this chapter, and amending sections 1973b and 1973c of this title\] may be cited as the ‘Voting Rights Act Amendments of 1970’.”
-
 #### Short Title
 
-Section 1 of Pub. L. 89–110 provided that: “This Act \[enacting subchapters I–A, I–B, and I–C of this chapter and amending section 1971 of this title\] shall be known as the ‘Voting Rights Act of 1965’.”
+This subchapter and subchapters I–B and I–C of this chapter known as the “Voting Rights Act of 1965”, see Short Title note set out under section 1971 of this title.
 
 #### Separability
 

@@ -50,7 +50,7 @@ In subsection (b), the words “of the District of Columbia” are added for cla
 
 In subsection (c)(2), the words “After the Council receives the statement of the Mayor” are substituted for “After the Mayor has had an opportunity to be heard”, and the words “of the Comptroller General” are added, for clarity. The word “thereto” is omitted as surplus.
 
-In subsection (d), the words “To carry out this section” are added for clarity. The words “records and property of or used by . . . shall be made available to the Comptroller General” are substituted for 31:61(a)(last sentence 1st–30th words) for consistency in the revised title and with other titles of the UnitedStates Code and to eliminate unnecessary words. The words “of Columbia government” are added for consistency. The words “The Mayor shall provide facilities to carry out an audit” are substituted for 31:61(a)(last sentence words after last comma) for clarity.
+In subsection (d), the words “To carry out this section” are added for clarity. The words “records and property of or used by . . . shall be made available to the Comptroller General” are substituted for 31:61(a)(last sentence 1st–30th words) for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words “of Columbia government” are added for consistency. The words “The Mayor shall provide facilities to carry out an audit” are substituted for 31:61(a)(last sentence words after last comma) for clarity.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Section 2(e) of Pub. L. 102–102 provided that: “The amendments made by this 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Abolition of House Committee on the District of Columbia
 

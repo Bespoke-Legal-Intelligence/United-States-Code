@@ -6,7 +6,7 @@ Except as provided in subsection (b) of this section, for each fiscal year for w
 
 #### (b) Exception
 
-If the amount made available for administration of programs under this chapter for a fiscal year is less than the amount made available for administration of programs under this chapter for the preceding fiscal year, the amount the eligible agency is required to provide from non-Federal sources for costs the eligible agency incurs for administration of programs under this chapter shall be the same percentage as the amount made available for administration of programs under this chapter.
+If the amount made available for administration of programs under this chapter for a fiscalyear is less than the amount made available for administration of programs under this chapter for the preceding fiscal year, the amount the eligible agency is required to provide from non-Federal sources for costs the eligible agency incurs for administration of programs under this chapter shall be the same percentage as the amount made available for administration of programs under this chapter.
 
 (Pub. L. 88–210, title III, §323, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3124.)
 

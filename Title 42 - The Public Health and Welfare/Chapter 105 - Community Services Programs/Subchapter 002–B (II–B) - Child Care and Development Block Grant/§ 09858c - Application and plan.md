@@ -32,7 +32,7 @@ The State plan contained in the application under subsection (a) of this section
 
 &emsp;&emsp;&emsp;&emsp;(II) to receive a child care certificate as defined in section 9858n(2) of this title;
 
-&emsp;&emsp;&emsp;(ii) in cases in which the parent selects the option described in clause (i)(I), thechild will be enrolled with the eligible provider selected by the parent to the maximum extent practicable; and
+&emsp;&emsp;&emsp;(ii) in cases in which the parent selects the option described in clause (i)(I), the child will be enrolled with the eligible provider selected by the parent to the maximum extent practicable; and
 
 &emsp;&emsp;&emsp;(iii) child care certificates offered to parents selecting the option described in clause (i)(II) shall be of a value commensurate with the subsidy value of child care services provided under the option described in clause (i)(I);
 
@@ -92,7 +92,7 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (C) Limitation on administrative costs
 
-&emsp;&emsp;Not more than 5 percent of the aggregate amount of funds available to the State to carry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
+&emsp;&emsp;Not more than 5 percent of the aggregate amount of funds available to the State tocarry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
 
 #### (D) Assistance for certain families
 

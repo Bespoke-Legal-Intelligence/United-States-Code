@@ -74,7 +74,7 @@
 
 (e) The Director may promulgate appropriate rules and regulations approved by the conference and not inconsistent with any provision of law, to assist him in the performance of the duties conferred upon him by subsection (d) of this section. Magistrate judges shall keep such records and make such reports as are specified in such rules and regulations.
 
-(f) The Director may make, promulgate, issue, rescind, and amend rules and regulations (including regulations prescribing standards of conduct for Administrative Office employees) as may be necessary to carry out the Director's functions, powers, duties, and authority. The Director may publish in the Federal Register such rules, regulations, and notices for the judicial branch of Government as the Director determines to be of public interest; and the Director of the Federal Register hereby is authorized to accept and shall publish such materials.
+(f) The Director may make, promulgate, issue, rescind, and amend rules and regulations (including regulations prescribing standards of conduct for Administrative Office employees) as may be necessary to carry out the Director's functions, powers, duties, and authority. The Director may publish in the Federal Register such rules, regulations, and notices for the judicial branch of Government as the Director determines to be of public interest; and the Directorof the Federal Register hereby is authorized to accept and shall publish such materials.
 
 (g)(1) When authorized to exchange personal property, the Director may exchange or sell similar items and may apply the exchange allowance or proceeds of sale in such cases in whole or in part payment for the property acquired, but any transaction carried out under the authority of this subsection shall be evidenced in writing.
 
@@ -180,7 +180,7 @@ Pub. L. 100–659, §6(a)(3), added par. (18). Former par. (18) redesignated (19
 
 Subsec. (a)(19). Pub. L. 100–702, §1008(2), redesignated par. (19), as added by Pub. L. 100–702, §402(a)(2), as (20).
 
-Pub. L. 100–702, §402(a), as amended by Pub. L. 101–474, §5(r), and Pub. L. 101–650, §306(e)(1)(A), redesignated par. (19), relating to performance of other duties, as (23) and added par. (19) relating to compilation of rules and orders.
+Pub. L. 100–702, §402(a), as amended by Pub. L. 101–474, §5(r), and Pub. L. 101–650, §306(e)(1)(A), redesignatedpar. (19), relating to performance of other duties, as (23) and added par. (19) relating to compilation of rules and orders.
 
 Pub. L. 100–659, §6(a)(2), redesignated par. (18), relating to performance of other duties, as (19).
 
@@ -400,7 +400,7 @@ Words “this part”, referred to above, means Part B of Pub. L. 86–568, whic
 
 salaries of supporting personnel’ in the Judiciary Appropriation Act, 1955 (Public Law 470, Eighty-third Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
 
-<b>1951</b>—Act Oct. 24, 1951, ch. 554, §1(d), 65 Stat. 613, provided that: “The limitations of $9,600 and $13,050 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, containedin the sixteenth paragraph under the head ‘Miscellaneous salaries’ in the Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
+<b>1951</b>—Act Oct. 24, 1951, ch. 554, §1(d), 65 Stat. 613, provided that: “The limitations of $9,600 and $13,050 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the sixteenth paragraph under the head ‘Miscellaneous salaries’ in the Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act.”
 
 The particular paragraph of the “Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress)”, referred to above, is act Sept. 6, 1950, ch. 896, ch. III, title IV, §401 (part), 64 Stat. 631. The salary limitations therein, also referred to above, were identical with those in the Judiciary Appropriation Act, 1952 (act Oct. 22, 1951, ch. 533, title IV, §401 (part), 65 Stat. 596).
 

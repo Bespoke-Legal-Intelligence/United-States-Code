@@ -38,7 +38,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;(ii) The organization or entity has in place a process to review complaints submitted against the organization or entity with respect to the test or the process for obtaining a license or certificate required for vocations or professions.
 
-&emsp;(G) The organization or entity furnishes to the Secretary such information with respectto the test as the Secretary requires to determine whether payment may be made for the test under chapter 30, 32, 34, or 35 of this title, including personal identifying information, fee payment, and test results. Such information shall be furnished in the form prescribed by the Secretary.
+&emsp;(G) The organization or entity furnishes to the Secretary such information with respect to the test as the Secretary requires to determine whether payment may be made for the test under chapter 30, 32, 34, or 35 of this title, including personal identifying information, fee payment, and test results. Such information shall be furnished in the form prescribed by the Secretary.
 
 &emsp;(H) The organization or entity furnishes to the Secretary the following information:
 
@@ -82,7 +82,7 @@ Professional Certification and Licensure Advisory Committee.—(1) There is esta
 
 #### Prior Provisions
 
-A prior section 3689, added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1087, §1789; amended Pub. L. 94–502, title V, §509(b), Oct. 15, 1976, 90 Stat. 2401; Pub. L. 95–202, title III, §305(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title VI, §601(g), Oct. 17, 1980, 94 Stat. 2208; Pub. L. 101–237, title IV, §§418, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3689, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, related to approval of enrollment in courses in operation for less than two years, prior to repeal by Pub. L. 104–275, title I, §103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326.
+A prior section 3689, added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1087, §1789; amended Pub. L. 94–502, title V, §509(b), Oct. 15, 1976, 90 Stat. 2401; Pub. L. 95–202, title III, §305(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title VI, §601(g), Oct. 17, 1980, 94 Stat. 2208; Pub. L. 101–237, title IV, §§418, 423(b)(1)(A),Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3689, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, related to approval of enrollment in courses in operation for less than two years, prior to repeal by Pub. L. 104–275, title I, §103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Adjustments applicable to all taxpayers
 
-In determining the amount of the alternative minimum taxable income for any taxable yearthe following treatment shall apply (in lieu of the treatment applicable for purposes of computing the regular tax):
+In determining the amount of the alternative minimum taxable income for any taxable year the following treatment shall apply (in lieu of the treatment applicable for purposes of computing the regular tax):
 
 #### (1) Depreciation
 
@@ -76,7 +76,7 @@ In determining the amount of the alternative minimum taxable income for any taxa
 
 #### (b) Adjustments applicable to individuals
 
-In determining the amount of the alternative minimum taxable income of any taxpayer (other than a corporation), the following treatment shall apply (in lieu of the treatment applicable for purposes of computing the regular tax):
+In determining the amount of the alternative minimum taxable income of any taxpayer (other than a corporation), the following treatmentshall apply (in lieu of the treatment applicable for purposes of computing the regular tax):
 
 #### (1) Limitation on deductions
 
@@ -252,7 +252,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The alternative minimum taxable income of any corporation for any taxable year shall beincreased by 75 percent of the excess (if any) of—
+&emsp;The alternative minimum taxable income of any corporation for any taxable year shall be increased by 75 percent of the excess (if any) of—
 
 &emsp;&emsp;(A) the adjusted current earnings of the corporation, over
 
@@ -262,7 +262,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The alternative minimum taxable income for any corporation of any taxable year, shall be reduced by 75 percent of the excess (if any) of—
+&emsp;&emsp;The alternative minimum taxable income for any corporation of any taxable year,shall be reduced by 75 percent of the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the amount referred to in subparagraph (B) of paragraph (1), over
 
@@ -342,7 +342,7 @@ For purposes of this part—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A deduction shall not be allowed for any item if such item would not be deductible for any taxable year for purposes of computing earnings and profits.
+&emsp;&emsp;&emsp;A deduction shall not be allowed for any item if such item would not be deductiblefor any taxable year for purposes of computing earnings and profits.
 
 #### (ii) Special rule for certain dividends
 
@@ -400,7 +400,7 @@ For purposes of this part—
 
 #### (iv) Installment sales
 
-&emsp;&emsp;&emsp;In the case of any installment sale in a taxable year beginning after December 31,1989, adjusted current earnings shall be computed as if the corporation did not use the installment method. The preceding sentence shall not apply to the applicable percentage (as determined under section 453A) of the gain from any installment sale with respect to which section 453A(a)(1) applies.
+&emsp;&emsp;&emsp;In the case of any installment sale in a taxable year beginning after December 31, 1989, adjusted current earnings shall be computed as if the corporation did not use the installment method. The preceding sentence shall not apply to the applicable percentage (as determined under section 453A) of the gain from any installment sale with respect to which section 453A(a)(1) applies.
 
 #### (E) Disallowance of loss on exchange of debt pools
 
@@ -464,7 +464,7 @@ Sections 921 and 927, referred to in subsec. (g)(4)(C), were repealed by Pub. L.
 
 #### Prior Provisions
 
-A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L.95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
+A prior section 56, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 83 Stat. 580; amended Pub. L. 91–614, title V, §501(a), Dec. 31, 1970, 84 Stat. 1846; Pub. L. 92–178, title VI, §601(c)(4), (5), Dec. 10, 1971, 85 Stat. 558; Pub. L. 93–406, title II, §§2001(g)(2)(D), 2002(g)(4), 2005(c)(7), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title II, §§203(b)(2), (3), 208(d)(2), (3), Mar. 29, 1975, 89 Stat. 30, 35; Pub. L. 94–455, title III, §301(a), (b), (c)(4)(B), Oct. 4, 1976, 90 Stat. 1549, 1552; Pub. L. 95–30, title II, §202(d)(2), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title I, §141(d), Nov. 6, 1978, 92 Stat. 2794; Pub. L. 95–618, title I, §101(b)(2), Nov. 9, 1978, 92 Stat. 3179; Pub. L. 96–222, title I, §101(a)(7)(L)(iii)(IV), Apr. 1, 1980, 94 Stat. 200; Pub. L. 97–34, title III, §331(c)(2), Aug. 13, 1981, 95 Stat. 293; Pub. L. 97–248, title II, §201(d)(1), formerly §201(c)(1), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(1), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(1), July 18, 1984, 98 Stat. 839; Pub. L. 99–514, title XI, §1171(b)(3), Oct. 22, 1986, 100 Stat. 2513, related to a corporate minimum tax, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
 
@@ -546,7 +546,7 @@ Adjusted current earnings.—For taxable years beginning after 1989, alternative
 
 Subsec. (d)(1)(A). Pub. L. 101–508, §11531(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of such deduction shall not exceed 90 percent of alternative minimum taxable income determined without regard to such deduction, and”.
 
-Subsec. (f). Pub. L. 101–508, §11801(a)(3), struck out subsec. (f) which related to adjustments for book income of corporations with respect to minimum taxable income, adjusted net book income, adjustments for certain taxes, special rules for related corporations for consolidated returns, treatment of dividends, statements covering different periods, special rule for cooperatives, treatment and limitation of taxes on dividends from 936 corporations, rules for Alaska native corporations, special rules for life insurance companies, exclusion of certain income from transfer of stock for debt, secretarial authority to adjust items, applicable financial statements, earnings and profits used, specialrules for more than one statement and exception for certain corporations.
+Subsec. (f). Pub. L. 101–508, §11801(a)(3), struck out subsec. (f) which related to adjustments for book income of corporations with respect to minimum taxable income, adjusted net book income, adjustments for certain taxes, special rules for related corporations for consolidated returns, treatment of dividends, statements covering different periods, special rule for cooperatives, treatment and limitation of taxes on dividends from 936 corporations, rules for Alaska native corporations, special rules for life insurance companies, exclusion of certain income from transfer of stock for debt, secretarial authority to adjust items, applicable financial statements, earnings and profits used, special rules for more than one statement and exception for certain corporations.
 
 Subsec. (g)(1), (2)(A). Pub. L. 101–508, §11801(c)(2)(B), which directed that pars. (1) and (2) “of section 59(g) are each amended by striking ‘beginning after 1989’ ”, was executed to pars. (1) and (2)(A) of subsec. (g) of this section after “any taxable year”. See 1996 Amendment note above.
 
@@ -738,7 +738,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 “(2)
 
-Coordination with transitional rules.—The amendments made by this section shall not apply to any property to which paragraph (1) of section 56(a) of the Internal Revenue Code of 1986 does not apply by reason of subparagraph (C)(i) thereof.”
+Coordination with transitional rules.—The amendments made by this section shall not apply to any property to which paragraph (1) of section 56(a) ofthe Internal Revenue Code of 1986 does not apply by reason of subparagraph (C)(i) thereof.”
 
 Amendment by section 13171(b) of Pub. L. 103–66 applicable to contributions made after June 30, 1992, except that in case of any contribution of capital gain property which is not tangible personal property, such amendment applicable only if the contribution is made after Dec. 31, 1992, see section 13171(d) of Pub. L. 103–66, set out as a note under section 53 of this title.
 
@@ -810,7 +810,7 @@ Amendment by sections 7811(d)(3) and 7815(e)(2), (4) of Pub. L. 101–239 effect
 
 #### Effective Date of 1988 Amendment
 
-Section 1007(b)(14)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amendingthis section and section 57 of this title\] shall apply with respect to options exercised after December 31, 1987.”
+Section 1007(b)(14)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section and section 57 of this title\] shall apply with respect to options exercised after December 31, 1987.”
 
 Amendment by sections 1002(a)(12) and 1007(b)(1)–(13), (15)–(19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

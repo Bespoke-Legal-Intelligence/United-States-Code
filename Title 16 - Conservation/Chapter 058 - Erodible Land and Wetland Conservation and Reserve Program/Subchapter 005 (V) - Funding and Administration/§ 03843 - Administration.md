@@ -56,7 +56,7 @@ Section 3844, Pub. L. 99–198, title XII, §1244, Dec. 23, 1985, 99 Stat. 1515,
 
 Section 3845, Pub. L. 99–198, title XII, §1245, Dec. 23, 1985, 99 Stat. 1516; Pub. L. 101–624, title XIV, §1443, Nov. 28, 1990, 104 Stat. 3602; Pub. L. 102–552, title V, §516(b)(1), Oct. 28, 1992, 106 Stat. 4137, related to authorization of appropriations.
 
-A prior section 3846, Pub. L. 99–198, title XII, §1246, as added Pub. L. 101–624, title XIV, §1444, Nov. 28, 1990, 104Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, §1011(a), Dec. 21, 1995, 109 Stat. 709.
+A prior section 3846, Pub. L. 99–198, title XII, §1246, as added Pub. L. 101–624, title XIV, §1444, Nov. 28, 1990, 104 Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, §1011(a), Dec. 21, 1995, 109 Stat. 709.
 
 A prior section 3847, Pub. L. 99–198, title XII, §1247, as added Pub. L. 101–624, title XIV, §1445, Nov. 28, 1990, 104 Stat. 3603; amended Pub. L. 102–237, title II, §204(8), Dec. 13, 1991, 105 Stat. 1855, which related to assistance for control of spread of weeds and pests, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
 

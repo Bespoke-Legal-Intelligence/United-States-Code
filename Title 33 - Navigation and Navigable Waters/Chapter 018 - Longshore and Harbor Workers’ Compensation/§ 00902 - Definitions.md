@@ -26,7 +26,7 @@ When used in this chapter—
 
 > &emsp;if individuals described in clauses (A) through (F) are subject to coverage under a State workers’ compensation law.
 
-&emsp;(4) The term “employer” means an employer any of whose employees are employed in maritime employment, in whole or in part, uponthe navigable waters of the United States (including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel).
+&emsp;(4) The term “employer” means an employer any of whose employees are employed in maritime employment, in whole or in part, upon the navigable waters of the United States (including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel).
 
 &emsp;(5) The term “carrier” means any person or fund authorized under section 932 of this title to insure under this chapter and includes self-insurers.
 
@@ -38,7 +38,7 @@ When used in this chapter—
 
 &emsp;(9) The term “United States” when used in a geographical sense means the several States and Territories and the District of Columbia, including the territorial waters thereof.
 
-&emsp;(10) “Disability” means incapacity because of injury to earn the wages which the employee was receiving at the time of injury in the same or any other employment; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in section 910(d)(2) of this title.
+&emsp;(10) “Disability” means incapacity because of injury to earn the wages which the employee was receiving at the time of injury in the same or any other employment; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whoseclaim is described in section 910(d)(2) of this title.
 
 &emsp;(11) “Death” as a basis for a right to compensation means only death resulting from an injury.
 
@@ -82,7 +82,7 @@ The phrase “a student as defined in paragraph (19) of this section”, referre
 
 #### Amendments
 
-1984—Par. (3). Pub. L. 98–426, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
+1984—Par. (3). Pub. L. 98–426, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, andany harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
 
 Par. (6). Pub. L. 98–426, §27(a)(1), substituted “The term ‘Secretary’ means the Secretary of Labor” for “The term ‘commission’ means the United States Employees’ Compensation Commission”.
 
@@ -126,7 +126,7 @@ Section 22 of Pub. L. 92–576 provided that: “The amendments made by this Act
 
 #### Transfer of Functions
 
-Prior to the amendment of this chapter by Pub. L. 98–426 the word “Secretary” meaning the Secretary of Labor had been substituted for the word “commission” meaning the United States Employees’ Compensation Commission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later tothe Secretary of Labor by Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
+Prior to the amendment of this chapter by Pub. L. 98–426 the word “Secretary” meaning the Secretary of Labor had been substituted for the word “commission” meaning the United States Employees’ Compensation Commission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later to the Secretary of Labor by Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
 
 #### Section Referred to in Other Sections
 

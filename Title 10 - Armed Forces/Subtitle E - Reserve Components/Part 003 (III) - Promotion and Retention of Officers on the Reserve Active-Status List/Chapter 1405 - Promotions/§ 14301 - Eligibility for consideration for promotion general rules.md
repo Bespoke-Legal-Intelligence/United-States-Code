@@ -24,6 +24,8 @@ Previously Selected Officers Not Eligible To Be Considered.—A promotion board 
 
 &emsp;(4) An officer who has been nominated by the President for promotion to that grade under any other provision of law, if that nomination is pending before the Senate.
 
+&emsp;(5) An officer in the grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who is on an approved all-fully-qualified-officers list under section 14308(b)(4) of this title.
+
 (d)
 
 Officers Below the Zone.—The Secretary of the military department concerned may, by regulation, prescribe procedures to limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion. The regulations shall include criteria for determining which officers below the promotion zone are exceptionally well qualified for promotion.
@@ -50,9 +52,11 @@ Officers on Educational Delay.—An officer on the reserve active-status list is
 
 &emsp;(2) is receiving from the Secretary financial assistance in connection with the pursuit of that program of education while in that status.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, §505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087.)
 
 #### Amendments
+
+2001—Subsec. (c)(5). Pub. L. 107–107 added par. (5).
 
 1999—Subsec. (g)(1), (2). Pub. L. 106–65, §1066(a)(32), substituted “one year” for “1 year”.
 

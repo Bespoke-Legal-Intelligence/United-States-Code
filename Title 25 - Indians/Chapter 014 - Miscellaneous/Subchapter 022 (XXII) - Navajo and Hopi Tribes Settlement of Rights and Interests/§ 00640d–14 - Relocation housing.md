@@ -2,7 +2,7 @@
 
 #### (a) Purchase of habitation and improvements from head of household; fair market value
 
-The Commissioner shall purchase from the head of each household whose household is required to relocate under the terms of this subchapter the habitation and other improvements owned by him on the area from which he is required to move. The purchase price shall be the fair market value of such habitation and improvements as determined under section 640d–12(b)(2) <sup>1</sup> of this title.
+The Commissioner shall purchase from the head of each household whose household is required to relocate under the terms of this subchapter the habitation and other improvements owned by him on the area from which he is required to move. The purchase price shall be thefair market value of such habitation and improvements as determined under section 640d–12(b)(2) <sup>1</sup> of this title.
 
 #### (b) Reimbursement for moving expenses; payment for replacement dwelling; limitations
 
@@ -20,7 +20,7 @@ In implementing subsection (b) of this section, the Commissioner shall establish
 
 The Commissioner shall be responsible for the provision of housing for each household eligible for payments under this section in one of the following manners:
 
-&emsp;(1) Should any head of household apply for and become a participant or homebuyer in a mutual help housing or other homeownership opportunity project undertaken under the United States Housing Act of 1937 (50 Stat. 888) as amended \[42 U.S.C. 1437 et seq.\], or in any other federally assisted housing program nowor hereafter established, the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section shall be paid to the local housing agency or sponsor involved as a voluntary equity payment and shall be credited against the outstanding indebtedness or purchase price of the household's home in the project in a manner which will accelerate to the maximum extent possible the achievement by that household of debt free homeownership.
+&emsp;(1) Should any head of household apply for and become a participant or homebuyer in a mutual help housing or other homeownership opportunity project undertaken under the United States Housing Act of 1937 (50 Stat. 888) as amended \[42 U.S.C. 1437 et seq.\], or in any other federally assisted housing program now or hereafter established, the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section shall be paid to the local housing agency or sponsor involved as a voluntary equity payment and shall be credited against the outstanding indebtedness or purchase price of the household's home in the project in a manner which will accelerate to the maximum extent possible the achievement by that household of debt free homeownership.
 
 &emsp;(2) Should any head of household wish to purchase or have constructed a dwelling which the Commissioner determines is decent, safe, sanitary, and adequate to accommodate the household, the amounts payable with respect to such household under paragraph (2) of subsection (b) of this section and under subsection (a) of this section shall be paid to such head of household in connection with such purchase or construction in a manner which the Commissioner determines will assure the use of the funds for such purpose.
 

@@ -14,7 +14,7 @@ If the Secretary finds that the State of Florida has satisfied the conditions se
 
 (2) By virtue of the approval of a transfer of lands or natural resources effected by this section, or an extinguishment of aboriginal title effected thereby, all claims against the United States, any State or subdivision thereof, or any other person or entity, by the Miccosukee Tribe, arising subsequent to the transfer and based upon any interest in or right involving such lands or natural resources, including but not limited to claims for trespass damages or claims for use and occupancy, shall be regarded as extinguished as of the date of the transfer.
 
-(3) Notwithstanding any other provision of this subsection, nothing in this subchapter shall be construed as extinguishing any right, title,interest, or claim to lands or natural resources in the State of Florida by any individual Indian—
+(3) Notwithstanding any other provision of this subsection, nothing in this subchapter shall be construed as extinguishing any right, title, interest, or claim to lands or natural resources in the State of Florida by any individual Indian—
 
 &emsp;(A) which is based on use and occupancy, or
 

@@ -20,7 +20,7 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### (5) Compensation of Commodity Credit Corporation
 
-&emsp;Before the end of each fiscal year that a Compact price regulation is in effect, the Northeast Interstate Dairy Compact Commission shall compensate the Commodity CreditCorporation for the cost of any purchases of milk and milk products by the Corporation that result from the projected rate of increase in milk production for the fiscal year within the Compact region in excess of the projected national average rate of the increase in milk production, as determined by the Secretary.
+&emsp;Before the end of each fiscal year that a Compact price regulation is in effect, the Northeast Interstate Dairy Compact Commission shall compensate the Commodity Credit Corporation for the cost of any purchases of milk and milk products by the Corporation that result from the projected rate of increase in milk production for the fiscal year within the Compact region in excess of the projected national average rate of the increase in milk production, as determined by the Secretary.
 
 #### (6) Milk marketing order Administrator
 

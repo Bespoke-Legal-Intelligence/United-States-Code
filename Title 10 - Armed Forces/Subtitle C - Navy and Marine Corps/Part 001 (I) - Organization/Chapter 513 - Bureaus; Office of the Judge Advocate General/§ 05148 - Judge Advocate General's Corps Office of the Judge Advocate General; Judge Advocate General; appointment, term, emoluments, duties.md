@@ -60,7 +60,7 @@ Subsection (c)(2) is substituted for the reference, in 5 U.S.C. 428, to courts-m
 
 1994—Subsec. (b). Pub. L. 103–337, §504(b)(1)(A), added last sentence and struck out former last sentence which read as follows: “While so serving, the Judge Advocate General of the Navy shall be entitled to the rank and grade of rear admiral or major general, as appropriate, unless entitled to a higher rank and grade under another provision of law.”
 
-Subsec. (c). Pub. L. 103–337, §504(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Judge Advocate General of the Navy isentitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”
+Subsec. (c). Pub. L. 103–337, §504(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Judge Advocate General of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.”
 
 1980—Subsec. (b). Pub. L. 96–513 inserted provision entitling Judge Advocate General of Navy to rank and grade of rear admiral or major general, as appropriate.
 

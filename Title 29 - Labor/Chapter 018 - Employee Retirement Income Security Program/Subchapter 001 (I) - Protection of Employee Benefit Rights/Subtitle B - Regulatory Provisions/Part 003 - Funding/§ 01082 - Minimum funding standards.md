@@ -54,7 +54,7 @@
 
 &emsp;(A) may be combined into one amount under such paragraph to be amortized over a period determined on the basis of the remaining amortization period for all items entering into such combined amount, and
 
-&emsp;(B) may be off set against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
+&emsp;(B) may be offset against amounts required to be amortized under the other such paragraph, with the resulting amount to be amortized over a period determined on the basis of the remaining amortization periods for all items entering into whichever of the two amounts being offset is the greater.
 
 (5)
 
@@ -188,7 +188,7 @@ Full-funding limitation.—
 
 In general.—For purposes of paragraph (6), the term “full-funding limitation” means the excess (if any) of—
 
-&emsp;&emsp;(i) the lesser of (I) the applicable percentage of current liability (including the expected increase in current liability due to benefits accruing during the plan year), or (II) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
+&emsp;&emsp;(i) the lesser of (I) in the case of plan years beginning before January 1, 2004, the applicable percentage of current liability (including the expected increase in current liability due to benefits accruing during the plan year), or (II) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
 
 &emsp;&emsp;(ii) the lesser of—
 
@@ -236,27 +236,19 @@ Current liability; assets.—For purposes of clause (i)—
 
 Applicable percentage.—For purposes of subparagraph (A)(i)(I), the applicable percentage shall be determined in accordance with the following table:
 
-<b>In the case of any plan</b>
+<b>In the case of any plan year</b>
 
 <b>The applicable</b>
 
-<b> year beginning in—</b>
+<b> beginning in calendar year—</b>
 
 <b>percentage is—</b>
 
-&nbsp;&nbsp;1999 or 2000
-
-155&nbsp;&nbsp;
-
-&nbsp;&nbsp;2001 or 2002
-
-160&nbsp;&nbsp;
-
-&nbsp;&nbsp;2003 or 2004
+&nbsp;&nbsp;2002
 
 165&nbsp;&nbsp;
 
-&nbsp;&nbsp;2005 and succeeding years
+&nbsp;&nbsp;2003
 
 170\.
 
@@ -272,7 +264,13 @@ Applicable percentage.—For purposes of subparagraph (A)(i)(I), the applicable 
 
 > shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment or, within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless he determines that such amendment is necessary because of a substantial business hardship (as determined under section 1083(b) of this title) and that waiver under section 1083(a) of this title is unavailable or inadequate.
 
-(9) For purposes of this part, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary of the Treasury.
+(9)(A) For purposes of this part, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary of the Treasury.
+
+(B)(i) Except as provided in clause (ii), the valuation referred to in subparagraph (A) shall be made as of a date within the plan year to which the valuation refers or within one month prior to the beginning of such year.
+
+(ii) The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 125 percent of the plan's current liability (as defined in paragraph (7)(B)).
+
+(iii) Information under clause (ii) shall, in accordance with regulations, be actuarially adjusted to reflect significant differences in participants.
 
 (10) For purposes of this section—
 
@@ -324,7 +322,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 &emsp;&emsp;(B) the unpredictable contingent event amount (if any) for such plan year.
 
-> &emsp;Such increase shall not exceed the amount which, after taking into account charges (other than the additional charge under this subsection) and credits under subsection (b) of this section, is necessary to increase the funded current liability percentage (taking intoaccount the expected increase in current liability due to benefits accruing during the plan year) to 100 percent.
+> &emsp;Such increase shall not exceed the amount which, after taking into account charges (other than the additional charge under this subsection) and credits under subsection (b) of this section, is necessary to increase the funded current liability percentage (taking into account the expected increase in current liability due to benefits accruing during the plan year) to 100 percent.
 
 #### (2) Deficit reduction contribution
 
@@ -758,7 +756,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (ii) Special rule for 1995 and 1996
 
-&emsp;&emsp;&emsp;For purposes of determining whether subparagraph (B) applies to any plan yearbeginning in 1995 or 1996, a plan shall be treated as meeting the requirements of subparagraph (B)(ii) if the plan met the requirements of clause (i) of this subparagraph for any two of the plan years beginning in 1992, 1993, and 1994 (whether or not consecutive).
+&emsp;&emsp;&emsp;For purposes of determining whether subparagraph (B) applies to any plan year beginning in 1995 or 1996, a plan shall be treated as meeting the requirements of subparagraph (B)(ii) if the plan met the requirements of clause (i) of this subparagraph for any two of the plan years beginning in 1992, 1993, and 1994 (whether or not consecutive).
 
 #### (10) Unfunded mortality increase amount
 
@@ -872,7 +870,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (1) In general
 
-&emsp;If a defined benefit plan (other than a multiemployer plan) which has a funded current liability percentage (as defined in subsection (d)(8) of this section) for the preceding plan year of less than 100 percent fails to pay the full amount of a required installment for theplan year, then the rate of interest charged to the funding standard account under subsection (b)(5) of this section with respect to the amount of the underpayment for the period of the underpayment shall be equal to the greater of—
+&emsp;If a defined benefit plan (other than a multiemployer plan) which has a funded current liability percentage (as defined in subsection (d)(8) of this section) for the preceding plan year of less than 100 percent fails to pay the full amount of a required installment for the plan year, then the rate of interest charged to the funding standard account under subsection (b)(5) of this section with respect to the amount of the underpayment for the period of the underpayment shall be equal to the greater of—
 
 &emsp;&emsp;(A) 175 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of such plan year), or
 
@@ -1001,7 +999,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (B) Plans to which paragraph applies
 
-&emsp;&emsp;This paragraph shall apply to a defined benefit plan (other than a multiemployerplan or a plan described in subsection (d)(6)(A) of this section) which—
+&emsp;&emsp;This paragraph shall apply to a defined benefit plan (other than a multiemployer plan or a plan described in subsection (d)(6)(A) of this section) which—
 
 &emsp;&emsp;&emsp;(i) is required to pay installments under this subsection for a plan year, and
 
@@ -1013,7 +1011,7 @@ Anticipation of benefit increases effective in the future.—In determining proj
 
 #### (D) Limitation on increase
 
-&emsp;&emsp;If the amount of any required installment is increased by reason of subparagraph (A), in no event shall such increase exceed the amount which, when added to prior installments for the plan year, is necessary to increase the funded current liability percentage (taking into account the expected increase in current liability due to benefits accruing during the plan year) to 100 percent.
+&emsp;&emsp;If the amount of any required installment is increased by reason of subparagraph (A),in no event shall such increase exceed the amount which, when added to prior installments for the plan year, is necessary to increase the funded current liability percentage (taking into account the expected increase in current liability due to benefits accruing during the plan year) to 100 percent.
 
 #### (E) Definitions
 
@@ -1133,7 +1131,11 @@ For purposes of this section, in the case of a qualified transfer (as defined in
 
 &emsp;&emsp;<b>For alternative amortization method for certain multiemployer plans see section 1013(d) of this Act.</b>
 
-(Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097.)
+(Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 869; Pub. L. 96–364, title III, §304(b), Sept. 26, 1980, 94 Stat. 1293; Pub. L. 100–203, title IX, §§9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, 101 Stat. 1330–332, 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; Pub. L. 100–647, title II, §2005(a)(2)(B), (d)(2), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §§7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, 103 Stat. 2435–2439, 2445, 2447, 2449, 2450; Pub. L. 101–508, title XII, §12012(c), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–465, title VII, §§761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, 108 Stat. 5024–5031, 5033–5036, 5041; Pub. L. 105–34, title XV, §1521(b), (c)(2), (3)(B), title XVI, §1604(b)(2)(B), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(b), 661(b), June 7, 2001, 115 Stat. 129, 142.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -1148,6 +1150,12 @@ Section 1013(d) of this Act, referred to in subsec. (h), is section 1013(d) of P
 Section 2005(d)(2) of Pub. L. 100–647, which directed that subsec. (d)(3)(B) of this section be amended by striking out “October 17, 1987” in cl. (i) and inserting in lieu thereof “October 29, 1987”, and by striking out “October 16, 1987” in cl. (iii) and inserting in lieu thereof “October 28, 1987”, could not be executed because it did not contain cls. (i) and (iii).
 
 #### Amendments
+
+2001—Subsec. (c)(7)(A)(i)(I). Pub. L. 107–16, §§651(b)(1), 901, temporarily substituted “in the case of plan years beginning before January 1, 2004, the applicable percentage” for “the applicable percentage”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(7)(F). Pub. L. 107–16, §§651(b)(2), 901, temporarily reenacted heading without change and amended text of subpar. (F) generally, substituting applicable percentages 165 and 170 in the case of any plan year beginning in calendar year 2002 and 2003, respectively, for applicable percentages 155, 160, 165, and 170 in the case of any plan year beginning in 1999 or 2000, 2001 or 2002, 2003 or 2004, and 2005 and succeeding years, respectively. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(9). Pub. L. 107–16, §§661(b), 901, temporarily designated existing provisions as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 2001 Amendment note below.
 
 1997—Subsec. (b)(2)(E). Pub. L. 105–34, §1521(c)(2), added subpar. (E).
 
@@ -1311,6 +1319,14 @@ Subsec. (b)(3). Pub. L. 96–364, §304(b)(1), struck out in par. (B)(i) “(40 
 
 Subsec. (b)(6), (7). Pub. L. 96–364, §304(b)(2), added pars. (6) and (7).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 651(b) of Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2001, see section 651(c) of Pub. L. 107–16, set out as a note under section 412 of Title 26, Internal Revenue Code.
+
+Amendment by section 661(b) of Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2001, see section 661(c) of Pub. L. 107–16, set out as a note under section 412 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 1521(b), (c)(2), (3)(B) of Pub. L. 105–34 applicable to plan years beginning after Dec. 31, 1998, see section 1521(d)(1) of Pub. L. 105–34, set out as a note under section 412 of Title 26, Internal Revenue Code.
@@ -1329,7 +1345,7 @@ In general.—The amendment made by this section \[amending this section\] shall
 
 “(2)
 
-Certain changes cease to be effective.—In the case of changes in assumptions for plan years beginning after December 31, 1992, and on or before October 28, 1993, such changes shall cease to be effective for plan years beginning after December 31, 1994, if—
+Certain changes cease to be effective.—In the case of changes in assumptions for plan years beginningafter December 31, 1992, and on or before October 28, 1993, such changes shall cease to be effective for plan years beginning after December 31, 1994, if—
 
 &emsp;“(A) such change would have required the approval of the Secretary of the Treasury had such amendment applied to such change, and
 
@@ -1339,7 +1355,7 @@ Section 763(b) of Pub. L. 103–465 provided that: “The amendment made by this
 
 Section 764(b) of Pub. L. 103–465 provided that: “The amendment made by this section \[amending this section\] shall apply to plan years beginning after the date of enactment of this Act \[Dec. 8, 1994\].
 
-Amendment by section 768(b) of Pub. L. 103–465 effective for installments and other payments required under section 412 of Title 26, Internal Revenue Code, or under this part, that become due on or after Dec. 8,1994, see section 768(c) of Pub. L. 103–465, set out as a note under section 412 of Title 26.
+Amendment by section 768(b) of Pub. L. 103–465 effective for installments and other payments required under section 412 of Title 26, Internal Revenue Code, or under this part, that become due on or after Dec. 8, 1994, see section 768(c) of Pub. L. 103–465, set out as a note under section 412 of Title 26.
 
 #### Effective Date of 1990 Amendment
 

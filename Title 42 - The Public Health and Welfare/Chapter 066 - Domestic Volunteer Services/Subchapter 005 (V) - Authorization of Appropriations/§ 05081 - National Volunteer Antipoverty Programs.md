@@ -4,7 +4,7 @@
 
 #### (1) Volunteers in Service to America
 
-&emsp;There are authorized to be appropriated to carry out parts A and B of subchapter I of this chapter, excluding section 4959 of this title, $56,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
+&emsp;There are authorized to be appropriated to carry out parts A and B of subchapter I of this chapter, excluding section 4959 of this title,$56,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996.
 
 #### (2) Literacy activities
 
@@ -24,7 +24,7 @@
 
 #### (b) Subsistence
 
-The minimum level of an allowance for subsistence required under section 4955(b)(2) of this title, to be provided to each volunteer under subchapter I of this chapter, may not be reducedor limited in order to provide for an increase in the number of volunteer service years under part A of subchapter I of this chapter.
+The minimum level of an allowance for subsistence required under section 4955(b)(2) of this title, to be provided to each volunteer under subchapter I of this chapter, may not be reduced or limited in order to provide for an increase in the number of volunteer service years under part A of subchapter I of this chapter.
 
 #### (c) Limitation
 
@@ -94,7 +94,7 @@ Subsec. (d)(1). Pub. L. 99–551 added par. (1) and struck out former par. (1) w
 
 &emsp;“(C) 2,400 years of volunteer service in fiscal year 1986.”
 
-1984—Pub. L. 98–288 designated existing provisions as subsec. (a), substituted “There is authorized to be appropriated to carry out part A of subchapter I of this chapter $17,000,000 for fiscal year 1984, $20,000,000 for fiscal year 1985, and $25,000,000 for fiscal year 1986” for “There is authorized to be appropriated to carry out subchapter I of this chapter $25,763,000 for fiscal year 1982 and $15,391,000 for fiscal year 1983. Of the amounts appropriated under this section, not less than$16,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1982, and not less than $8,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1983”, and added subsecs. (b) to (e).
+1984—Pub. L. 98–288 designated existing provisions as subsec. (a), substituted “There is authorized to be appropriated to carry out part A of subchapter I of this chapter $17,000,000 for fiscal year 1984, $20,000,000 for fiscal year 1985, and $25,000,000 for fiscal year 1986” for “There is authorized to be appropriated to carry out subchapter I of this chapter $25,763,000 for fiscal year 1982 and $15,391,000 for fiscal year 1983. Of the amounts appropriated under this section, not less than $16,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1982, and not less than $8,000,000 shall first be available for carrying out part A of subchapter I of this chapter for fiscal year 1983”, and added subsecs. (b) to (e).
 
 1981—Pub. L. 97–35 substituted provisions relating to authorization and availability of funds for fiscal years 1982 and 1983, for provisions relating to authorization and availability of funds for fiscal year ending June 30, 1974, through fiscal year ending Sept. 30, 1981.
 

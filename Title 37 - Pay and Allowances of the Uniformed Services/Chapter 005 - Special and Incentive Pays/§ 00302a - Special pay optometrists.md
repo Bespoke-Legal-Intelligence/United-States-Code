@@ -18,7 +18,7 @@ Regular Special Pay.—Each of the following officers is entitled to special pay
 
 > &emsp;who is on active duty as a result of a call or order to active duty for a period of at least one year.
 
-&emsp;(3) A general officer of the Army or the Air Force appointed, from any of the categories named in clause (1) or (2), in the Army, Air Force, or the National Guard, as the case may be.
+&emsp;(3) A general officer of the Army or the Air Force appointed, from any of the categoriesnamed in clause (1) or (2), in the Army, Air Force, or the National Guard, as the case may be.
 
 (b)
 
@@ -52,7 +52,7 @@ Subsec. (b)(4). Pub. L. 104–201, §614(a)(2), struck out “of the military de
 
 1987—Pub. L. 100–26 substituted “A” for “a” at beginning of pars. (1) to (3), “; or” for “, or” at end of par. (1)(A), period for semicolon at end of par. (1)(B), and period for “; and” at end of par. (2).
 
-1980—Pub. L. 96–284 substituted “Each” for “(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each”, struckout “beginning on or after October 1, 1977” after “active duty”, struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
+1980—Pub. L. 96–284 substituted “Each” for “(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each”, struck out “beginning on or after October 1, 1977” after “active duty”, struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
 
 1978—Subsec. (c). Pub. L. 95–485 substituted “September 1980” for “September 1978”.
 

@@ -12,7 +12,7 @@
 
 #### (3) Individuals already in CODIS
 
-&emsp;For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, or if a DNA sample has been collected from that individual under section 1565 of title 10, the Director of the Bureau of Prisons or the probation office responsible (as applicable)may (but need not) collect a DNA sample from that individual.
+&emsp;For each individual described in paragraph (1) or (2), if the Combined DNA Index System (in this section referred to as “CODIS”) of the Federal Bureau of Investigation contains a DNA analysis with respect to that individual, or if a DNA sample has been collected from that individual under section 1565 of title 10, the Director of the Bureau of Prisons or the probation office responsible (as applicable) may (but need not) collect a DNA sample from that individual.
 
 #### (4) Collection procedures
 
@@ -58,7 +58,13 @@ In this section:
 
 &emsp;(G) Any attempt or conspiracy to commit any of the above offenses.
 
-(2) The initial determination of qualifying Federal offenses shall be made not later than 120 days after December 19, 2000.
+(2) In addition to the offenses described in paragraph (1), the following offenses shall be treated for purposes of this section as qualifying Federal offenses, as determined by the Attorney General:
+
+&emsp;(A) Any offense listed in section 2332b(g)(5)(B) of title 18.
+
+&emsp;(B) Any crime of violence (as defined in section 16 of title 18).
+
+&emsp;(C) Any attempt or conspiracy to commit any of the above offenses.
 
 #### (e) Regulations
 
@@ -74,11 +80,15 @@ In this section:
 
 Collection of DNA samples under subsection (a) of this section shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
 
-(Pub. L. 106–546, §3, Dec. 19, 2000, 114 Stat. 2728.)
+(Pub. L. 106–546, §3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, §503, Oct. 26, 2001, 115 Stat. 364.)
 
 #### Codification
 
 Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+2001—Subsec. (d)(2). Pub. L. 107–56 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The initial determination of qualifying Federal offenses shall be made not later than 120 days after December 19, 2000.”
 
 #### Section Referred to in Other Sections
 

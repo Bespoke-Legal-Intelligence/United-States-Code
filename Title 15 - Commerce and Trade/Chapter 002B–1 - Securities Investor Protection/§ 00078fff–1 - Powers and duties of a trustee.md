@@ -32,7 +32,7 @@ The trustee shall—
 
 &emsp;(3) report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities, and to any causes of action available to the estate; and
 
-&emsp;(4) as soon as practicable, prepare and submit, to SIPC and such other persons as the court designates and in such form and manner as the court directs, a statement of his investigation of matters referred to in paragraph (1).
+&emsp;(4) as soon as practicable, prepare and submit, to SIPC and such other persons as thecourt designates and in such form and manner as the court directs, a statement of his investigation of matters referred to in paragraph (1).
 
 (Pub. L. 91–598, §7, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; amended Pub. L. 95–598, title III, §308(i)–(k), Nov. 6, 1978, 92 Stat. 2675.)
 

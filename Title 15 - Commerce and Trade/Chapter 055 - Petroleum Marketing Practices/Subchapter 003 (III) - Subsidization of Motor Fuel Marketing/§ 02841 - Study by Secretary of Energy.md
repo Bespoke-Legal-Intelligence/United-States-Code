@@ -30,7 +30,7 @@ In conducting the study required by this section, the Secretary shall give appro
 
 (3) No interim measure proposed by the President under this section may be submitted after January 1, 1980, and the effect of such measure if approved by the Congress under paragraph (4) may not extend beyond 18 months after such Congressional approval.
 
-(4) Such interim measure shall not take effect unless approved by both Houses of Congress as if it were a contingency plan under section 6422 of title 42: <i>Provided</i>, That the 60-day period referred to in such section shall be extended to 90 days for purposes of this section.
+(4) Such interim measure shall not take effect unless approved by both Houses of Congress as ifit were a contingency plan under section 6422 of title 42: <i>Provided</i>, That the 60-day period referred to in such section shall be extended to 90 days for purposes of this section.
 
 #### (e) Authorization of appropriations
 

@@ -92,7 +92,7 @@ In this subtitle—
 
 &emsp;(18) “oceanographic research vessel” means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including those studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
 
-&emsp;(19) “offshore supply vessel” means a motor vessel of more than 15 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of thistitle that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
+&emsp;(19) “offshore supply vessel” means a motor vessel of more than 15 gross tons but less than 500 gross tons as measured under section 14502of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
 &emsp;(20) “oil” includes oil of any type or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes except dredged spoil.
 
@@ -343,7 +343,7 @@ Section 2101(9) makes it clear that the term “discharge” when referring to a
 
 Section 2101(10) defines a “documented vessel” as any vessel of the United States that has been issued a certificate of documentation that might include a register, enrollment, license, or enrollment and license for various trades.
 
-Section 2101(11) lists what is included in the term “fisheries” for the purpose of documentation of vessels and is intended to be all-inclusive of the numerous types of fishing activities.
+Section 2101(11) lists what is included in the term “fisheries” for the purpose of documentation of vesselsand is intended to be all-inclusive of the numerous types of fishing activities.
 
 Section 2101(12) defines “foreign vessel” as any foreign flag or foreign operated vessel that is operated under the jurisdiction or authority of a government other than the United States.
 
@@ -423,7 +423,7 @@ Presidential Proclamation No. 5928, referred to in par. (17a), is set out under 
 
 1998—Pars. (17a), (17b). Pub. L. 105–383 added par. (17a) and redesignated former par. (17a) as (17b).
 
-1996—Par. (13). Pub. L. 104–324, §709(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this titleas prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
+1996—Par. (13). Pub. L. 104–324, §709(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
 
 Par. (13a). Pub. L. 104–324, §709(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “3,500 gross tons”.
 
@@ -611,13 +611,13 @@ Conditions for Extension.—To receive an extension authorized by subsection (b)
 
 “(d)
 
-Operation of Vessel During Extension Period.—The owner of a vessel receiving an extension under this section shall operate the vessel under the conditions of route, service, number of passengers, manning, and equipment as may be prescribed by the Coast Guard for the extension period.”
+Operation of Vessel During Extension Period.—The owner of a vessel receiving an extension under this section shall operate the vessel under theconditions of route, service, number of passengers, manning, and equipment as may be prescribed by the Coast Guard for the extension period.”
 
 #### Tank Vessel Definition Clarification
 
 Pub. L. 102–587, title V, §5209, Nov. 4, 1992, 106 Stat. 5076, as amended by Pub. L. 105–383, title IV, §422, Nov. 13, 1998, 112 Stat. 3439, provided that:
 
-“(a) In this section, ‘offshore supply vessel’, ‘fish tender vessel’, ‘fishing vessel’, and ‘tank vessel’ have themeanings given those terms under section 2101 of title 46, United States Code.
+“(a) In this section, ‘offshore supply vessel’, ‘fish tender vessel’, ‘fishing vessel’, and ‘tank vessel’ have the meanings given those terms under section 2101 of title 46, United States Code.
 
 “(b) The following vessels are deemed not to be a tank vessel for the purposes of any law:
 

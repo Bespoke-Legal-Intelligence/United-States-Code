@@ -2,7 +2,7 @@
 
 In emergencies which threaten any segment of the agricultural production industry of this country, the Secretary may transfer from other appropriations or funds available to the agencies or corporations of the Department such sums as may be deemed necessary, to be available only in such emergencies for the arrest and eradication of contagious or infectious disease or pests of animals, poultry, or plants, and for expenses in accordance with sections 114b to 114d–1 of this title and section 7759 of title 7, and any unexpended balances of funds transferred for such emergency purposes in the preceding fiscal year shall be merged with such transferred amounts.
 
-(Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–9.)
+(Pub. L. 107–76, title I, Nov. 28, 2001, 115 Stat. 712.)
 
 #### Codification
 
@@ -13,6 +13,8 @@ Similar provisions relating to authority to transfer funds for emergency arrest 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–9.
 
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1143.
 

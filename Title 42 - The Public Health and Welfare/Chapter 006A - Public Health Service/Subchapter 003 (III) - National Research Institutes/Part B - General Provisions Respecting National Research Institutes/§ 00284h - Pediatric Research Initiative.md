@@ -36,5 +36,5 @@ The Director of NIH may transfer amounts appropriated under this section to any 
 
 #### Codification
 
-Another section 409D of act July 1, 1944, is classified to section 284<i>l</i> of this title.
+Another section 409D of act July 1, 1944, was renumbered section 409H and is classified to section 284<i>l</i> of this title.
 

@@ -4,7 +4,3 @@ The Secretary of Defense shall require that each military department conduct an 
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1651.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1762 of this title.
-

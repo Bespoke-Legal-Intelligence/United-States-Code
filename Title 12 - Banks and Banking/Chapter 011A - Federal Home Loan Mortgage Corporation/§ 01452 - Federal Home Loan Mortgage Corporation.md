@@ -32,7 +32,7 @@ The Corporation, including its franchise, activities, capital, reserves, surplus
 
 #### (f) Actions by and against the Corporation; jurisdiction; removal of actions; attachment or execution issued against the Corporation
 
-Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removed by the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district in which the principal office of the Corporation islocated, by following any procedure for removal of causes in effect at the time of such removal.
+Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removed by the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district in which the principal office of the Corporation is located, by following any procedure for removal of causes in effect at the time of such removal.
 
 #### (g) Mortgages, obligations, or other securities sold by Corporation deemed lawful investments for security purposes
 
@@ -46,7 +46,7 @@ All mortgages, obligations, or other securities which are or have been sold by t
 
 (3) For purposes of this subsection, the term “executive officer” has the meaning given the term in section 4502 of this title.
 
-(Pub. L. 91–351, title III, §303, July 24, 1970, 84 Stat. 452; Pub. L. 96–153, title III, §316(b), Dec. 21, 1979, 93 Stat. 1118; Pub. L. 98–369, div. A, title I, §177(a), July 18, 1984, 98 Stat. 709; Pub. L. 101–73, title VII, §731(b)(1), (c), Aug. 9, 1989, 103 Stat. 429, 431; Pub. L. 102–550, title XIII, §1382(c)(1), (d)–(h), Oct. 28, 1992, 106 Stat. 4002–4004.)
+(Pub. L. 91–351, title III, §303, July 24, 1970, 84 Stat. 452; Pub. L. 96–153, title III, §316(b), Dec. 21,1979, 93 Stat. 1118; Pub. L. 98–369, div. A, title I, §177(a), July 18, 1984, 98 Stat. 709; Pub. L. 101–73, title VII, §731(b)(1), (c), Aug. 9, 1989, 103 Stat. 429, 431; Pub. L. 102–550, title XIII, §1382(c)(1), (d)–(h), Oct. 28, 1992, 106 Stat. 4002–4004.)
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Subsecs. (b) to (g). Pub. L. 101–73, §731(c), added subsec. (b) and redesigna
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, setout as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1992 Amendment
 

@@ -28,7 +28,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) any individual who is incarcerated in an institution under the jurisdiction of the Bureau of Prisons; or
 
-&emsp;&emsp;(B) any other individual, as designated by the Director, who has been charged with or convicted of an offense against the United States.
+&emsp;&emsp;(B) any other individual, as designated by the Director, who has been charged with orconvicted of an offense against the United States.
 
 (b)
 

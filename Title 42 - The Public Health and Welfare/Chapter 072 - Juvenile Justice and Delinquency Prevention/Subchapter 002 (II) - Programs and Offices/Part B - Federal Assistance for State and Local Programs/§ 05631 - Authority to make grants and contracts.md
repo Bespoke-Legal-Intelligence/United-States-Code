@@ -6,7 +6,7 @@
 
 (2) Grants and contracts may be made under paragraph (1) only to public and private agencies, organizations, and individuals that have experience in providing such technical assistance. In providing such technical assistance, the recipient of a grant or contract under this subsection shall coordinate its activities with the State agency described in section 5671(c)(1) of this title.
 
-(Pub. L. 93–415, title II, §221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, §625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII,§7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(1), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(A)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75.)
+(Pub. L. 93–415, title II, §221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, §625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(1), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(A)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75.)
 
 #### Amendments
 
@@ -20,7 +20,7 @@ Pub. L. 102–586, §2(f)(1)(B), made technical amendment to reference to sectio
 
 1984—Pub. L. 98–473 amended section catchline.
 
-1977—Pub. L. 95–115 inserted “grants and” before “contracts” and substituted “units of general local government or combinations thereof” for “local governments”.
+1977—Pub. L. 95–115 inserted “grants and” before “contracts” and substituted “units of general localgovernment or combinations thereof” for “local governments”.
 
 #### Effective Date of 1988 Amendment
 

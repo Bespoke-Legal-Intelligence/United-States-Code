@@ -142,7 +142,7 @@ Section 15(a)(3) of Pub. L. 101–637 provided that: “Not later than one year 
 
 #### EPA Administrator Not Exercising “Statutory Authority” Under OSHA Law in Exercising Authority Under This Chapter
 
-Section 15(b) of Pub. L. 101–637 provided that: “In exercising any authority under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and section 2647 of this title\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.”
+Section 15(b) of Pub. L. 101–637 provided that: “In exercising any authority under the Toxic SubstancesControl Act \[15 U.S.C. 2601 et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and section 2647 of this title\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.”
 
 #### Section Referred to in Other Sections
 

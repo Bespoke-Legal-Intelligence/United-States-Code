@@ -362,7 +362,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12689, Aug. 16, 1989, 54 F.R. 34131, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to protect the interest of the Federal Government, to deal only with responsible persons, and toinsure proper management and integrity in Federal activities, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to protect the interest of the Federal Government, to deal only with responsible persons, and to insure proper management and integrity in Federal activities, it is hereby ordered as follows:
 
 Section 1. <i>Definitions</i>. For purposes of this order:
 

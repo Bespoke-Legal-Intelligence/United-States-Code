@@ -158,13 +158,29 @@ In this subchapter:
 
 &emsp;&emsp;(B) Bone cancer.
 
-&emsp;(18) The term “survivor” means any individual or individuals eligible to receive compensation pursuant to section 8133 of title 5.
+&emsp;&emsp;(C) Renal cancers.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3621\], Oct. 30, 2000, 114 Stat. 1654, 1654A–498.)
+&emsp;&emsp;(D) Leukemia (other than chronic lymphocytic leukemia), if initial occupational exposure occurred before 21 years of age and onset occurred more than two years after initial occupational exposure.
+
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3621\], Oct. 30, 2000, 114 Stat. 1654, 1654A–498; Pub. L. 107–20, title II, §2403(a), July 24, 2001, 115 Stat. 175; Pub. L. 107–107, div. C, title XXXI, §3151(a)(1), (4)(C), Dec. 28, 2001, 115 Stat. 1371, 1374.)
 
 #### References in Text
 
 Section 4(b)(2) of the Radiation Exposure Compensation Act, referred to in par. (17)(A), is section 4(b)(2) of Pub. L. 101–426, which is set out in a note under section 2210 of this title.
+
+#### Amendments
+
+2001—Par. (17)(C). Pub. L. 107–20 added subpar. (C).
+
+Par. (17)(D). Pub. L. 107–107, §3151(a)(1), added subpar. (D).
+
+Par. (18). Pub. L. 107–107, §3151(a)(4)(C), struck out par. (18) which read as follows: “The term ‘survivor’ means any individual or individuals eligible to receive compensation pursuant to section 8133 of title 5.”
+
+#### Effective Date of 2001 Amendments
+
+Pub. L. 107–107, div. C, title XXXI, §3151(a)(4)(D), Dec. 28, 2001, 115 Stat. 1374, provided that: “The amendments made by this paragraph \[amending this section and sections 7384s and 7384u of this title\] shall take effect on July 1, 2001.”
+
+Pub. L. 107–20, title II, §2403(b), July 24, 2001, 115 Stat. 175, provided that: “This section \[amending this section\] shall be effective on October 1, 2001.”
 
 #### Section Referred to in Other Sections
 

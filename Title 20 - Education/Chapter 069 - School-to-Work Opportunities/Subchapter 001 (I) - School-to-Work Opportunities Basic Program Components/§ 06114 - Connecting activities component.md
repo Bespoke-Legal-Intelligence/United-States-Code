@@ -4,7 +4,7 @@ The connecting activities component of a School-to-Work Opportunities program sh
 
 &emsp;(1) matching students with the work-based learning opportunities of employers;
 
-&emsp;(2) providing, with respect to each student, a school site mentor to act as a liaison amongthe student and the employer, school, teacher, school administrator, and parent of the student, and, if appropriate, other community partners;
+&emsp;(2) providing, with respect to each student, a school site mentor to act as a liaison among the student and the employer, school, teacher, school administrator, and parent of the student, and, if appropriate, other community partners;
 
 &emsp;(3) providing technical assistance and services to employers, including small- and medium-sized businesses, and other parties in—
 

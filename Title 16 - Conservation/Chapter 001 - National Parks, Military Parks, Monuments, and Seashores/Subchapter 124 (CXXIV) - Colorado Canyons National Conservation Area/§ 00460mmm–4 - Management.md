@@ -34,7 +34,7 @@ Subject to valid existing rights, all Federal land within the Conservation Area 
 
 &emsp;Except as provided in paragraph (2), use of motorized vehicles in the Conservation Area—
 
-&emsp;&emsp;(A) before the effective date of a management plan under subsection (h) of this section, shall be allowed only on roads andtrails designated for use of motor vehicles in the management plan that applies on October 24, 2000, to the public lands in the Conservation Area; and
+&emsp;&emsp;(A) before the effective date of a management plan under subsection (h) of this section, shall be allowed only on roads and trails designated for use of motor vehicles in the management plan that applies on October 24, 2000, to the public lands in the Conservation Area; and
 
 &emsp;&emsp;(B) after the effective date of a management plan under subsection (h) of this section, shall be allowed only on roads and trails designated for use of motor vehicles in that management plan.
 
@@ -102,7 +102,7 @@ The Congress does not intend for the establishment of the Conservation Area or t
 
 #### (k) Interpretive facilities or sites
 
-The Secretary may establish minimal interpretive facilities or sites in cooperation withother public or private entities as the Secretary considers appropriate. Any facilities or sites shall be designed to protect the resources referred to in section 460mmm(b) of this title.
+The Secretary may establish minimal interpretive facilities or sites in cooperation with other public or private entities as the Secretary considers appropriate. Any facilities or sites shall be designed to protect the resources referred to in section 460mmm(b) of this title.
 
 #### (<i>l</i>) Water rights
 
@@ -134,7 +134,7 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 &emsp;(A) As used in this paragraph, the term “water resource facility” means irrigation and pumping facilities, reservoirs, water conservation works, aqueducts, canals, ditches, pipelines, wells, hydropower projects, and transmission and other ancillary facilities, and other water diversion, storage, and carriage structures. Such term does not include any such facilities related to or used for the purpose of livestock grazing.
 
-&emsp;(B) Except as otherwise provided by subsection (g) of this section or other provisions of this subchapter, on and after October 24, 2000, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new water resource facility within the wilderness area designated by this subchapter.
+&emsp;(B) Except as otherwise provided by subsection (g) of this section or other provisionsof this subchapter, on and after October 24, 2000, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new water resource facility within the wilderness area designated by this subchapter.
 
 &emsp;(C) Except as provided in this paragraph, nothing in this subchapter shall be construed to affect or limit the use, operation, maintenance, repair, modification, or replacement of water resource facilities in existence on October 24, 2000, within the boundaries of the Wilderness.
 

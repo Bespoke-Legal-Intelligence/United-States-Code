@@ -70,7 +70,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 <b>1989</b>—Subsec. (b)(2)(B). Pub. L. 101–239, §7811(i)(6)(A), substituted “section 11(b)(1)” for “section 11(b)”.
 
-Subsec. (d)(2). Pub. L. 101–239, §7811(i)(6)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A foreign partner's share of any withholding tax paid by the partnership under this section shall be treated as distributed to such partner by such partnership on the last day of the partnership's taxable year (for which such tax was paid).”
+Subsec. (d)(2). Pub. L. 101–239, §7811(i)(6)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A foreign partner's share of any withholding tax paid by the partnership under this section shall betreated as distributed to such partner by such partnership on the last day of the partnership's taxable year (for which such tax was paid).”
 
 Subsec. (f). Pub. L. 101–239, §7811(i)(6)(C), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations providing for the application of this section in the case of publicly traded partnerships.”
 

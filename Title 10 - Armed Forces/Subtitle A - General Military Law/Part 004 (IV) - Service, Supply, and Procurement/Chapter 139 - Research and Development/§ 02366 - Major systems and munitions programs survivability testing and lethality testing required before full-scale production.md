@@ -22,9 +22,9 @@ Test Guidelines.—(1) Survivability and lethality tests required under subsecti
 
 (c)
 
-Waiver Authority.—(1) The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters engineering and manufacturing development, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.
+Waiver Authority.—(1) The Secretary of Defense may waive the application of the survivability and lethality tests of this section to a covered system, munitions program, missile program, or covered product improvement program if the Secretary, before the system or program enters system development and demonstration, certifies to Congress that live-fire testing of such system or program would be unreasonably expensive and impractical.
 
-(2) In the case of a covered system (or covered product improvement program for a covered system), the Secretary may waive the application of the survivability and lethality tests of this section to such system or program and instead allow testing of the system or program in combat by firing munitions likely to be encountered in combat at components, subsystems, and subassemblies, together with performing designanalyses, modeling and simulation, and analysis of combat data. Such alternative testing may not be carried out in the case of any covered system (or covered product improvement program for a covered system) unless the Secretary certifies to Congress, before the system or program enters engineering and manufacturing development, that the survivability and lethality testing of such system or program otherwise required by this section would be unreasonably expensive and impracticable.
+(2) In the case of a covered system (or covered product improvement program for a covered system), the Secretary may waive the application of the survivability and lethality tests of this section to such system or program and instead allow testing of the system or program in combat by firing munitions likely to be encountered in combat at components, subsystems, and subassemblies, together with performing design analyses, modeling and simulation, and analysis of combat data. Such alternative testing may not be carried out in the case of any covered system (or covered product improvement program for a covered system) unless the Secretary certifies to Congress, before the system or programenters system development and demonstration, that the survivability and lethality testing of such system or program otherwise required by this section would be unreasonably expensive and impracticable.
 
 (3) The Secretary shall include with any certification under paragraph (1) or (2) a report explaining how the Secretary plans to evaluate the survivability or the lethality of the system or program and assessing possible alternatives to realistic survivability testing of the system or program.
 
@@ -68,7 +68,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 99–500, §101(c) \[title X, §910(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–143, and Pub. L. 99–591, §101(c) \[title X, §910(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–143; Pub. L. 99–661, div. A, title IX, formerly title IV, §910(a)(1), Nov. 14, 1986, 100 Stat. 3923, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–180, div. A, title VIII, §802, title XII, §1231(11), Dec. 4, 1987, 101 Stat. 1123, 1160; Pub. L. 100–456, div. A, title XII, §1233(<i>l</i>)(3), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, §§802(c)(1)–(4)(A), 804, Nov. 29, 1989, 103 Stat. 1486, 1488; Pub. L. 101–510, div. A, title XIV, §1484(h)(7), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 103–160, div. A, title VIII, §828(d)(2), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 103–355, title III, §3014, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title XV, §1502(a)(18), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title VIII, §821(a), Dec. 28, 2001, 115 Stat. 1181.)
 
 #### Codification
 
@@ -77,6 +77,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+2001—Subsec. (c)(1), (2). Pub. L. 107–107 substituted “system development and demonstration” for “engineering and manufacturing development”.
 
 1999—Subsec. (e)(7)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 

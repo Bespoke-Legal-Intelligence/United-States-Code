@@ -10,7 +10,7 @@
 
 (b) The authority to acquire an interest in land under this section includes authority to make surveys and acquire interests in land (including temporary use), by gift, purchase, exchange of land owned by the United States, or otherwise.
 
-(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, §112(a), Sept. 7, 1962, 76 Stat. 511; Pub. L. 92–145, title VII, §707(2), (3), Oct. 27, 1971, 85 Stat. 411; Pub. L. 96–418, title VIII, §806(a), Oct. 10, 1980, 94 Stat. 1777; Pub. L. 99–167, title VIII, §810(a), (b)(1), Dec. 3, 1985, 99 Stat. 989, 990; Pub. L. 99–661, div. A, title XIII, §1343(a)(16), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–456, div. B, title XXVIII, §2804, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 105–85, div. B, title XXVIII, §2811(a), (b)(1), Nov. 18, 1997, 111 Stat. 1991.)
+(Added Pub. L. 85–861, §1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I,§112(a), Sept. 7, 1962, 76 Stat. 511; Pub. L. 92–145, title VII, §707(2), (3), Oct. 27, 1971, 85 Stat. 411; Pub. L. 96–418, title VIII, §806(a), Oct. 10, 1980, 94 Stat. 1777; Pub. L. 99–167, title VIII, §810(a), (b)(1), Dec. 3, 1985, 99 Stat. 989, 990; Pub. L. 99–661, div. A, title XIII, §1343(a)(16), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–456, div. B, title XXVIII, §2804, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 105–85, div. B, title XXVIII, §2811(a), (b)(1), Nov. 18, 1997, 111 Stat. 1991.)
 
 Historical and Revision Notes<br>1958
 

@@ -60,7 +60,7 @@ The amendment reflects section 1 of the Act of May 31, 1956, ch. 348 (70 Stat. 2
 
 #### Amendments
 
-1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) asa senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
+1996—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: “Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty.”
 
 1980—Pub. L. 96–343, §13(b)(2), substituted “positions” for “positions: regular commissioned officers” in section catchline.
 
@@ -70,7 +70,7 @@ Pub. L. 96–343, §13(b)(1), substituted “Air Force who has” for “Regular
 
 1965—Subsec. (a). Pub. L. 89–288 added the Surgeon General of the Air Force to the list of commissioned officers who may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him at any time on the active list.
 
-1958—Subsecs. (b), (c). Pub. L. 85–861 redesignated subsec. (c) as (b), and struck out former subsec. (b) which related to retirement grade of a woman Air Force officer who served at least two and one-half years on active duty in the temporary grade of colonel in the Air Force under section 8071 of this title.
+1958—Subsecs. (b), (c). Pub. L. 85–861 redesignated subsec. (c) as (b), and struck out former subsec. (b) which related to retirement grade of a woman AirForce officer who served at least two and one-half years on active duty in the temporary grade of colonel in the Air Force under section 8071 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -6,7 +6,7 @@ For purposes of this Act, the terms “independent states of the former Soviet U
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification ofthis Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title of 1993 Amendment
 
@@ -36,7 +36,7 @@ Pub. L. 103–199, title I, §§101–103, Dec. 17, 1993, 107 Stat. 2318, 2319, 
 
 &emsp;&emsp;“(B) the rapid integration of Russia into the community of democratic nations and the world economy is important to the national interest of the United States; and
 
-&emsp;&emsp;“(C) cooperation between the United States and Russia is essential to the peaceful resolution of international conflicts and the promotion of democratic values, the protection of human rights, and the solution of global problems such as environmental pollution, terrorism, and narcotics trafficking.
+&emsp;&emsp;“(C) cooperation between the United States and Russia is essential to the peaceful resolution of international conflicts and the promotion of democratic values, the protection of human rights, andthe solution of global problems such as environmental pollution, terrorism, and narcotics trafficking.
 
 &emsp;“(3) The Congress enacted the FREEDOM Support Act (Public Law 102–511) \[see Short Title note above\], as well as other legislation such as the Soviet Nuclear Threat Reduction Act of 1991 (title II of Public Law 102–228) \[22 U.S.C. 2551 note\] and the Former Soviet Union Demilitarization Act of 1992 (title XIV of Public Law 102–484) \[22 U.S.C. 5901 et seq.\], to help meet the historic opportunities and challenges presented by the transformation that has taken place, and is continuing to take place, in what once was the Soviet Union.
 
@@ -64,7 +64,7 @@ Findings and Affirmation.—The Congress finds and affirms that provisions such 
 
 &emsp;“(3) section 1222 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (Public Law 100–204; 101 Stat. 1411 \[1414\]),
 
-&emsp;“(4) the Multilateral Export Control Enhancement Amendments Act \[see Short Title of 1988 Amendmentnote set out under section 2410 of Title 50, App., War and National Defense\] (50 \[App.\] U.S.C. 2410 note, et seq.),
+&emsp;“(4) the Multilateral Export Control Enhancement Amendments Act \[see Short Title of 1988 Amendment note set out under section 2410 of Title 50, App., War and National Defense\] (50 \[App.\] U.S.C. 2410 note, et seq.),
 
 &emsp;“(5) the joint resolution providing for the designation of ‘Captive Nations Week’ (Public Law 86–90) \[73 Stat. 212\],
 
@@ -88,5 +88,5 @@ The Freedom for Russian and Emerging Eurasian Democracies and Open Markets Suppo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 262d, 282m, 2295b, 6036 of this title; title 50 section 2302.
+This section is referred to in sections 262d, 282m, 2295b, 6036 of this title; title 20 section 6715; title 50 section 2302.
 

@@ -34,7 +34,7 @@
 
 #### (2) Purpose
 
-&emsp;The purpose of this subchapter is to assist States in operating statewide comprehensive,coordinated, effective, efficient, and accountable programs of vocational rehabilitation, each of which is—
+&emsp;The purpose of this subchapter is to assist States in operating statewide comprehensive, coordinated, effective, efficient, and accountable programs of vocational rehabilitation, each of which is—
 
 &emsp;&emsp;(A) an integral part of a statewide workforce investment system; and
 
@@ -90,7 +90,7 @@
 
 #### (3) Definition
 
-&emsp;For purposes of this section, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers, published monthly by the Bureau of Labor Statistics.
+&emsp;For purposes of this section, the term “Consumer Price Index” means the Consumer PriceIndex for All Urban Consumers, published monthly by the Bureau of Labor Statistics.
 
 #### (d) Extension
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;Unless the Congress in the regular session which ends prior to the beginning of the terminal fiscal year—
 
-&emsp;&emsp;&emsp;(i) of the authorization of appropriations for the program authorized by the Stategrant program under part B of this subchapter; or
+&emsp;&emsp;&emsp;(i) of the authorization of appropriations for the program authorized by the State grant program under part B of this subchapter; or
 
 &emsp;&emsp;&emsp;(ii) of the duration of the program authorized by the State grant program under part B of this subchapter;
 
@@ -134,5 +134,5 @@ A prior section 720, Pub. L. 93–112, title I, §100, Sept. 26, 1973, 87 Stat. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 722, 730 of this title; title 42 sections 6025, 6042, 10822.
+This section is referred to in sections 722, 730 of this title; title 42 sections 15022, 15042, 15062, 15066.
 

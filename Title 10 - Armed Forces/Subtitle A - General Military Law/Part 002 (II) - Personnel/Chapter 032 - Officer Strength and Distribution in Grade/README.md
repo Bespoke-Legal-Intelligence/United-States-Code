@@ -9,11 +9,13 @@
 | [525\.](%C2%A7%2000525%20-%20Distribution%20of%20commissioned%20officers%20on%20active%20duty%20in%20general%20officer%20and%20flag%20officer%20grades.md) | Distribution of commissioned officers on active duty in general officer and flag officer grades. |
 | [526\.](%C2%A7%2000526%20-%20Authorized%20strength%20general%20and%20flag%20officers%20on%20active%20duty.md) | Authorized strength: general and flag officers on active duty. |
 | [527\.](%C2%A7%2000527%20-%20Authority%20to%20suspend%20sections%20523%2C%20525%2C%20and%20526.md) | Authority to suspend sections 523, 525, and 526. |
-| [528\.](%C2%A7%2000528%20-%20Limitation%20on%20number%20of%20officers%20on%20active%20duty%20in%20grades%20of%20general%20and%20admiral.md) | Limitation on number of officers on active duty in grades of general and admiral. |
+| \[528. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title V, §501(b), Dec. 28, 2001, 115 Stat. 1079, struck out item 528 “Limitation on number of officers on active duty in grades of general and admiral”.
 
 1994—Pub. L. 103–337, div. A, title IV, §405(b)(2), title XVI, §1671(b)(4), Oct. 5, 1994, 108 Stat. 2745, 3013, struck out item 524 “Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain”, struck out “524,” after “523,” in item 527, and added item 528.
 
@@ -33,4 +35,4 @@
 - [&sect; 00525 - Distribution of commissioned officers on active duty in general officer and flag officer grades](%C2%A7%2000525%20-%20Distribution%20of%20commissioned%20officers%20on%20active%20duty%20in%20general%20officer%20and%20flag%20officer%20grades.md)
 - [&sect; 00526 - Authorized strength general and flag officers on active duty](%C2%A7%2000526%20-%20Authorized%20strength%20general%20and%20flag%20officers%20on%20active%20duty.md)
 - [&sect; 00527 - Authority to suspend sections 523, 525, and 526](%C2%A7%2000527%20-%20Authority%20to%20suspend%20sections%20523%2C%20525%2C%20and%20526.md)
-- [&sect; 00528 - Limitation on number of officers on active duty in grades of general and admiral](%C2%A7%2000528%20-%20Limitation%20on%20number%20of%20officers%20on%20active%20duty%20in%20grades%20of%20general%20and%20admiral.md)
+- [&sect; 00528 - Repealed. Pub. L. 107&#8211;107, div. A, title V, &sect;501(a), Dec. 28, 2001, 115 Stat. 1079](%C2%A7%2000528%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7501%28a%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201079.md)

@@ -16,7 +16,7 @@ Assessment Process.—The Secretary of Defense shall ensure that technology and 
 
 (c)
 
-Assessment of Extent of Dependency on Foreign Source Items.—Each assessment under subsection (a) shall include a separate discussion and presentation regarding the extent towhich the national technology and industrial base is dependent on items for which the source of supply, manufacture, or technology is outside of the United States and Canada and for which there is no immediately available source in the United States or Canada. The discussion and presentation regarding foreign dependency shall—
+Assessment of Extent of Dependency on Foreign Source Items.—Each assessment under subsection (a) shall include a separate discussion and presentation regarding the extent to which the national technology and industrial base is dependent on items for which the source of supply, manufacture, or technology is outside of the United States and Canada and for which there is no immediately available source in the United States or Canada. The discussion and presentation regarding foreign dependency shall—
 
 &emsp;(1) identify cases that pose an unacceptable risk of foreign dependency, as determined by the Secretary; and
 

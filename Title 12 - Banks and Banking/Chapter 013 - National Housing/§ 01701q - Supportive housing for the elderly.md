@@ -76,7 +76,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (1) In general
 
-&emsp;In carrying out the provisions of this section, the Secretary shall ensure that housing assisted under this section provides a range of services tailored to the needs of the category or categories of elderly persons (including frailelderly persons) occupying such housing. Such services may include (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance; (D) transportation services; (E) health-related services; (F) providing education and outreach regarding telemarketing fraud, in accordance with the standards issued under section 671(f) of the Housing and Community Development Act of 1992 (42 U.S.C. 13631(f)); and (G) such other services as the Secretary deems essential for maintaining independent living. The Secretary may permit the provision of services to elderly persons who are not residents if the participation of such persons will not adversely affect the cost-effectiveness or operation of the program or add significantly to the need for assistance under this Act.
+&emsp;In carrying out the provisions of this section, the Secretary shall ensure that housing assisted under this section provides a range of services tailored to the needs of the category or categories of elderly persons (including frail elderly persons) occupying such housing. Such services may include (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance; (D) transportation services; (E) health-related services; (F) providing education and outreach regarding telemarketing fraud, in accordance with the standards issued under section 671(f) of the Housing and Community Development Act of 1992 (42 U.S.C. 13631(f)); and (G) such other services as the Secretary deems essential for maintaining independent living. The Secretary may permit the provision of services to elderly persons who are not residents if the participation of such persons will not adversely affect the cost-effectiveness or operation of the program or add significantly to the need for assistance under this Act.
 
 #### (2) Local coordination of services
 
@@ -164,7 +164,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (2) Information regarding housing under this section
 
-&emsp;The Secretary shall provide to an appropriate agency in each area (which may be the applicable Area Agency on the Aging) information regarding the availability of housing assisted under this section.
+&emsp;The Secretary shall provide to an appropriate agency in each area (which may be theapplicable Area Agency on the Aging) information regarding the availability of housing assisted under this section.
 
 #### (j) Miscellaneous provisions
 
@@ -210,7 +210,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (6) Access to residual receipts
 
-&emsp;The Secretary shall authorize the owner of a project assisted under this section to use anyresidual receipts held for the project in excess of $500 per unit (or in excess of such other amount prescribed by the Secretary based on the needs of the project) for activities to retrofit and renovate the project described under section 8011(d)(3) of title 42, to provide a service coordinator for the project as described in section 8011(d)(4) of title 42, or to provide supportive services (as such term is defined in section 8011(k) of title 42) to residents of the project. Any owner that uses residual receipts under this paragraph shall submit to the Secretary a report, not less than annually, describing the uses of the residual receipts. In determining the amount of project rental assistance to be provided to a project under subsection (c)(2) of this section, the Secretary may take into consideration the residual receipts held for the project only if, and to the extent that, excess residual receipts are not used under this paragraph.
+&emsp;The Secretary shall authorize the owner of a project assisted under this section to use any residual receipts held for the project in excess of $500 per unit (or in excess of such other amount prescribed by the Secretary based on the needs of the project) for activities to retrofit and renovate the project described under section 8011(d)(3) of title 42, to provide a service coordinator for the project as described in section 8011(d)(4) of title 42, or to provide supportive services (as such term is defined in section 8011(k) of title 42) to residents of the project. Any owner that uses residual receipts under this paragraph shall submit to the Secretary a report, not less than annually, describing the uses of the residual receipts. In determining the amount of project rental assistance to be provided to a project under subsection (c)(2) of this section, the Secretary may take into consideration the residual receipts held for the project only if, and to the extent that, excess residual receipts are not used under this paragraph.
 
 #### (7) Compliance with Housing and Community Development Act of 1992
 
@@ -268,7 +268,7 @@ There is authorized to be appropriated for providing assistance under this secti
 
 There are authorized to be appropriated for providing assistance under this section such sums as may be necessary for each of fiscal years 2001, 2002, and 2003.
 
-(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a),May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title II, §223(a)(1), (b)–(e), Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024.)
+(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title II, §223(a)(1), (b)–(e), Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024.)
 
 #### References in Text
 
@@ -328,7 +328,7 @@ Subsec. (j)(5). Pub. L. 102–550, §913(a), amended par. (5) generally. Prior t
 
 “(A)
 
-In general.—Any contract for the construction of affordable housing with 12 or more units assisted with funds made available under this subtitle shall contain a provision requiring that not less than the wagesprevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-Bacon Act (40 U.S.C. 276a–276a–5), shall be paid to all laborers and mechanics employed in the development of affordable housing involved, and participating jurisdictions shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
+In general.—Any contract for the construction of affordable housing with 12 or more units assisted with funds made available under this subtitle shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-Bacon Act (40 U.S.C. 276a–276a–5), shall be paid to all laborers and mechanics employed in the development of affordable housing involved, and participating jurisdictions shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
 
 “(B)
 
@@ -356,7 +356,7 @@ Subsec. (h)(2). Pub. L. 102–242 inserted “or from the Federal Deposit Insura
 
 1990—Pub. L. 101–625, §801(a), amended section generally, substituting present provisions for provisions authorizing loans for housing and related facilities for elderly or handicapped families.
 
-Subsec. (a)(4)(C). Pub. L. 101–625, §801(e), struck out before period at end “, and not more than $666,400,000 may be approved in appropriation Acts for such loans with respect to fiscal year 1984. For fiscal years 1988 and 1989, not more than $621,701,000 and $630,000,000, respectively, may be approved in appropriation Acts for such loans” and inserted at end “For fiscal year 1991, not more than $714,200,000 may be approved in appropriation Acts for such loans.”
+Subsec. (a)(4)(C). Pub. L. 101–625, §801(e), struck out before period at end “, and not more than $666,400,000 may be approved in appropriation Acts for such loans with respect to fiscal year 1984. For fiscal years 1988 and 1989, not more than $621,701,000 and $630,000,000, respectively, may be approved in appropriation Acts for such loans” and inserted at end “For fiscal year 1991,not more than $714,200,000 may be approved in appropriation Acts for such loans.”
 
 Subsec. (a)(9). Pub. L. 101–625, §804(b), added par. (9).
 
@@ -586,11 +586,11 @@ Section 3(b) of Pub. L. 87–723 provided that the amendments made by that secti
 
 #### Regulations
 
-Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: “The Secretary of Housing and Urban Development shall issue any regulations to carry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553.”
+Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: “The Secretary of Housing andUrban Development shall issue any regulations to carry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553.”
 
 #### Prepayment and Refinancing
 
-Pub. L. 106–569, title VIII, §811, Dec. 27, 2000, 114 Stat. 3019, provided that:
+Pub. L. 106–569, title VIII, §811, Dec. 27, 2000, 114 Stat. 3019, as amended by Pub. L. 107–116, title VI, §633(a), Jan. 10, 2002, 115 Stat. 2228, provided that:
 
 “(a)
 
@@ -624,9 +624,13 @@ Use of Certain Project Funds.—The Secretary shall allow a project sponsor that
 
 &emsp;“(2) to use any reserves for replacement in excess of $1,000 per individual dwelling unit for activities described in paragraphs (2) and (3) of subsection (c).
 
-“(e)
+”
 
-Budget Act Compliance.—This section shall be effective only to extent or in such amounts that are provided in advance in appropriation Acts.”
+\[Pub. L. 107–116, title VI, §633(b), Jan. 10, 2002, 115 Stat. 2228, provided that: “The amendment made by subsection (a) of this section \[amending section 811 of Pub. L. 106–569, set out above\] shall take effect upon the date of the enactment of this Act \[Jan. 10, 2002\] and the provisions of section 811 of the American Homeownership and Economic Opportunity Act of 2000 (12 U.S.C. 1701q note), as amended by subsection (a) of this section, shall apply as so amended upon such date of enactment, notwithstanding—
+
+&emsp;\[“(1) any authority of the Secretary of Housing and Urban Development to issue regulations to implement or carry out the amendments made by subsection (a) of this section or the provisions of section 811 of the American Homeownership and Economic Opportunity Act of 2000 (12 U.S.C. 1701q note); or
+
+&emsp;\[“(2) any failure of the Secretary of Housing and Urban Development to issue any such regulations authorized.”\]
 
 #### Consideration of Costs of Providing Service Coordinators in Determining Amount of Housing Assistance
 
@@ -648,7 +652,7 @@ Inapplicability of hud reform act provisions.—Notwithstanding section 102 of t
 
 “(3)
 
-Limitation.—If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] or section 802 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8011\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
+Limitation.—If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] or section 802 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8011\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residentsunder such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
 
 #### Expedited Financing and Construction
 
@@ -712,7 +716,7 @@ Section 162(a) of Pub. L. 100–242 provided that:
 
 &emsp;“(E) the cost containment policies currently being implemented in the development of small group homes (i) do not adequately reflect the necessity for building designs to meet the needs of the designated residents; and (ii) do not recognize necessary State and local standards for the operation of such homes;
 
-&emsp;“(F) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals forhousing for nonelderly handicapped families is time consuming and unnecessarily costly and, in some areas of the Nation, prevents the development of such housing;
+&emsp;“(F) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families is time consuming and unnecessarily costly and, in some areas of the Nation, prevents the development of such housing;
 
 &emsp;“(G) the use of the program under section 8 of the United States Housing Act of 1937 to assist rentals for housing for nonelderly handicapped families should be replaced by a more appropriate subsidy mechanism;
 
@@ -764,7 +768,7 @@ Section 210(g) of Pub. L. 93–383 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1441a, 1701q–1, 1701q–2, 1701r–1, 1701s, 1701z–11, 1701z–13, 1715<i>l</i>, 1715v, 1715z–1, 1715z–1a, 1715z–1b, 1715z–4a, 1715z–19, 1831q, 3702, 3705 of this title; title 42 sections 1382a, 1436b, 1437e, 1437f, 1439, 3013, 3026, 3030d, 3535, 8002, 8008, 8009, 8011, 8012, 8013, 8231, 13641, 13664.
+This section is referred to in sections 1441a, 1701q–1, 1701q–2, 1701r–1, 1701s, 1701z–11, 1701z–13, 1715<i>l</i>, 1715v, 1715z–1, 1715z–1a, 1715z–1b, 1715z–4a, 1715z–19, 1831q, 3702, 3705 of this title; title 42 sections 1382a, 1436b, 1437e, 1437f, 1439, 3013, 3535, 8002, 8008, 8009, 8011, 8012, 8013, 8231, 13641, 13664.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “(n)”.</i>
 

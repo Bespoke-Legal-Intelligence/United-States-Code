@@ -24,7 +24,7 @@ Subject to subsection (f) of this section, the Board shall place in such account
 
 #### (c) Demand and receipt of one-time refund
 
-Subject to subsections (d), (e), and (f) of this section and notwithstanding any other provision of this chapter,<sup>1</sup> any person shall have the right to demand and receive from the Board a one-time refund of all assessments collected under section 2906 of this title from such person during the period referred to in subsection (a) of this section if such person—
+Subject to subsections (d), (e), and (f) of this section and notwithstanding any other provisionof this chapter,<sup>1</sup> any person shall have the right to demand and receive from the Board a one-time refund of all assessments collected under section 2906 of this title from such person during the period referred to in subsection (a) of this section if such person—
 
 &emsp;(1) is responsible for paying such assessment; and
 

@@ -34,9 +34,19 @@
 | (d) | Amount. |
 | (e) | Provisions as not imposing duty, burden, requirement or penalty on United States, Senate, or any officer or employee of United States; effect of filing paper. |
 | (f) | Rules and regulations. |
-| [60d.](%C2%A7%2000060d%20-%20Officers%20and%20employees%20paid%20by%20Chief%20Administrative%20Officer%20of%20House%3B%20payment%20of%20December%20salary.md) | Officers and employees paid by Chief Administrative Officer of House; payment of December salary. |
-| [60e.](%C2%A7%2000060e%20-%20Payment%20of%20salary%20for%20months%20other%20than%20December%20by%20Chief%20Administrative%20Officer%20of%20House%20to%20officers%20and%20employees.md) | Payment of salary for months other than December by Chief Administrative Officer of House to officers and employees. |
-| 60e–1. | Payment of salaries in or under House when payday falls on Saturday. |
+| 60c–5. | Student loan repayment program. |
+| (a) | Definitions. |
+| (b) | Senate student loan repayment program. |
+| (c) | Program conditions. |
+| (d) | Loss of eligibility for student loan payments and obligation to reimburse. |
+| (e) | Records and reports. |
+| (f) | Other administrative matters. |
+| (g) | Allocation of funds. |
+| (h) | Authorization of appropriations. |
+| (i) | Effective date. |
+| [60d.](%C2%A7%2000060d%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9368%2C%20title%20I%2C%20%C2%A7116%28b%29%281%29%2C%20Nov.%2012%2C%202001%2C%20115%20Stat.%20573.md) | Repealed. |
+| 60d–1. | Day for paying salaries of the House of Representatives. |
+| 60e, 60e–1. Repealed. |  |
 | 60e–1a. | Withholding of State income tax by Chief Administrative Officer of House. |
 | (a) | Agreement with proper State official; covered individuals. |
 | (b) | Number of remittances authorized. |
@@ -129,6 +139,9 @@
 | 61f–7. | Abolition of statutory positions in Office of Sergeant at Arms and Doorkeeper of Senate; authority to establish and fix compensation for positions. |
 | 61f–8. | Use by Sergeant at Arms and Doorkeeper of Senate of individual consultants or organizations, and department and agency personnel. |
 | 61f–9. | Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on amount of compensation. |
+| 61f–10. | Procurement of temporary help. |
+| (a) | In general. |
+| (b) | Effective date. |
 | [61g.](%C2%A7%2000061g%20-%20Compensation%20of%20Secretaries%20for%20Senate%20Majority%20and%20Minority.md) | Compensation of Secretaries for Senate Majority and Minority. |
 | 61g–1 to 61g–3. Omitted. |  |
 | 61g–4. | Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of Senate. |
@@ -264,6 +277,7 @@
 | (a) | In general. |
 | (b) | Official expenses. |
 | (c) | Applicability. |
+| 74a–12. | Lump sum allowance for Speaker. |
 | [74b.](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md) | Employment of additional administrative assistants. |
 | [74c.](%C2%A7%2000074c%20-%20Compensation%20of%20certain%20House%20minority%20employees.md) | Compensation of certain House minority employees. |
 | [74d.](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md) | Corrections Calendar Office. |
@@ -275,7 +289,13 @@
 | (a) | Temporary appointments in case of vacancy or incapacity in office of Clerk, Sergeant at Arms, Chief Administrative Officer, or Chaplain of House. |
 | (b) | Duties of temporary appointees. |
 | (c) | Compensation of temporary appointee. |
-| 75b to 76b. Omitted or Repealed. |  |
+| 75b to 75e. Omitted. |  |
+| [75f.](%C2%A7%2000075f%20-%20House%20emergency%20operations%20positions.md) | House emergency operations positions. |
+| (a) | Establishment in certain offices. |
+| (b) | Duties. |
+| (c) | Rate of pay. |
+| (d) | Appointment authority. |
+| 76 to 76b. Omitted or Repealed. |  |
 | [77\.](%C2%A7%2000077%20-%20Sergeant%20at%20Arms%20of%20House%3B%20additional%20compensation.md) | Sergeant at Arms of House; additional compensation. |
 | [77a.](%C2%A7%2000077a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2822%29%28A%29%28iii%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201733.md) | Repealed. |
 | [78\.](%C2%A7%2000078%20-%20Duties%20of%20Sergeant%20at%20Arms.md) | Duties of Sergeant at Arms. |
@@ -523,6 +543,20 @@
 | (b) | Notification by Attorney General. |
 | (c) | General Counsel definition. |
 | (d) | Effective date. |
+| [130g.](%C2%A7%2000130g%20-%20Support%20services%20for%20Senate%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md) | Support services for Senate during emergency; memorandum of understanding with an executive agency. |
+| (a) | Authorization. |
+| (b) | Consistency with Senate Procurement Regulations. |
+| (c) | Applicability. |
+| [130h.](%C2%A7%2000130h%20-%20Support%20services%20for%20House%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md) | Support services for House during emergency; memorandum of understanding with an executive agency. |
+| (a) | Authorization. |
+| (b) | Approval of Speaker required. |
+| (c) | Applicability. |
+| [130i.](%C2%A7%2000130i%20-%20House%20of%20Representatives%20Office%20of%20Emergency%20Planning%2C%20Preparedness%2C%20and%20Operations.md) | House of Representatives Office of Emergency Planning, Preparedness, and Operations. |
+| (a) | Establishment. |
+| (b) | Duties of Speaker. |
+| (c) | Duties of Director; House of Representatives Continuity of Operations Board. |
+| (d) | Availability of funds. |
+| (e) | Effective date; applicability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -546,9 +580,10 @@
 - [&sect; 00060c&#8211;2a - Banking and financial transactions of Secretary of Senate](%C2%A7%2000060c%E2%80%932a%20-%20Banking%20and%20financial%20transactions%20of%20Secretary%20of%20Senate.md)
 - [&sect; 00060c&#8211;3 - Withholding and remittance of State income tax by Secretary of Senate](%C2%A7%2000060c%E2%80%933%20-%20Withholding%20and%20remittance%20of%20State%20income%20tax%20by%20Secretary%20of%20Senate.md)
 - [&sect; 00060c&#8211;4 - Withholding of charitable contributions from salaries paid by Secretary of Senate and from employees of Architect of Capitol](%C2%A7%2000060c%E2%80%934%20-%20Withholding%20of%20charitable%20contributions%20from%20salaries%20paid%20by%20Secretary%20of%20Senate%20and%20from%20employees%20of%20Architect%20of%20Capitol.md)
-- [&sect; 00060d - Officers and employees paid by Chief Administrative Officer of House; payment of December salary](%C2%A7%2000060d%20-%20Officers%20and%20employees%20paid%20by%20Chief%20Administrative%20Officer%20of%20House%3B%20payment%20of%20December%20salary.md)
-- [&sect; 00060e - Payment of salary for months other than December by Chief Administrative Officer of House to officers and employees](%C2%A7%2000060e%20-%20Payment%20of%20salary%20for%20months%20other%20than%20December%20by%20Chief%20Administrative%20Officer%20of%20House%20to%20officers%20and%20employees.md)
-- [&sect; 00060e&#8211;1 - Payment of salaries in or under House when payday falls on Saturday](%C2%A7%2000060e%E2%80%931%20-%20Payment%20of%20salaries%20in%20or%20under%20House%20when%20payday%20falls%20on%20Saturday.md)
+- [&sect; 00060c&#8211;5 - Student loan repayment program](%C2%A7%2000060c%E2%80%935%20-%20Student%20loan%20repayment%20program.md)
+- [&sect; 00060d - Repealed. Pub. L. 107&#8211;68, title I, &sect;116(b)(1), Nov. 12, 2001, 115 Stat. 573](%C2%A7%2000060d%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9368%2C%20title%20I%2C%20%C2%A7116%28b%29%281%29%2C%20Nov.%2012%2C%202001%2C%20115%20Stat.%20573.md)
+- [&sect; 00060d&#8211;1 - Day for paying salaries of the House of Representatives](%C2%A7%2000060d%E2%80%931%20-%20Day%20for%20paying%20salaries%20of%20the%20House%20of%20Representatives.md)
+- [&sect; 00060e, 60e&#8211;1 - Repealed. Pub. L. 107&#8211;68, title I, &sect;116(b)(1), (2), Nov. 12, 2001, 115 Stat. 573](%C2%A7%2000060e%2C%2060e%E2%80%931%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9368%2C%20title%20I%2C%20%C2%A7116%28b%29%281%29%2C%20%282%29%2C%20Nov.%2012%2C%202001%2C%20115%20Stat.%20573.md)
 - [&sect; 00060e&#8211;1a - Withholding of State income tax by Chief Administrative Officer of House](%C2%A7%2000060e%E2%80%931a%20-%20Withholding%20of%20State%20income%20tax%20by%20Chief%20Administrative%20Officer%20of%20House.md)
 - [&sect; 00060e&#8211;1b - State income tax withholding; definitions](%C2%A7%2000060e%E2%80%931b%20-%20State%20income%20tax%20withholding%3B%20definitions.md)
 - [&sect; 00060e&#8211;1c - Withholding of charitable contributions by Chief Administrative Officer of House](%C2%A7%2000060e%E2%80%931c%20-%20Withholding%20of%20charitable%20contributions%20by%20Chief%20Administrative%20Officer%20of%20House.md)
@@ -611,6 +646,7 @@
 - [&sect; 00061f&#8211;7 - Abolition of statutory positions in Office of Sergeant at Arms and Doorkeeper of Senate; authority to establish and fix compensation&#8230;](%C2%A7%2000061f%E2%80%937%20-%20Abolition%20of%20statutory%20positions%20in%20Office%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%3B%20authority%20to%20establish%20and%20fix%20compensation%E2%80%A6.md)
 - [&sect; 00061f&#8211;8 - Use by Sergeant at Arms and Doorkeeper of Senate of individual consultants or organizations, and department and agency personnel](%C2%A7%2000061f%E2%80%938%20-%20Use%20by%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20of%20individual%20consultants%20or%20organizations%2C%20and%20department%20and%20agency%20personnel.md)
 - [&sect; 00061f&#8211;9 - Employment of personnel by Sergeant at Arms and Doorkeeper of Senate at daily rates of compensation; authorization; limitation on&#8230;](%C2%A7%2000061f%E2%80%939%20-%20Employment%20of%20personnel%20by%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20at%20daily%20rates%20of%20compensation%3B%20authorization%3B%20limitation%20on%E2%80%A6.md)
+- [&sect; 00061f&#8211;10 - Procurement of temporary help](%C2%A7%2000061f%E2%80%9310%20-%20Procurement%20of%20temporary%20help.md)
 - [&sect; 00061g - Compensation of Secretaries for Senate Majority and Minority](%C2%A7%2000061g%20-%20Compensation%20of%20Secretaries%20for%20Senate%20Majority%20and%20Minority.md)
 - [&sect; 00061g&#8211;1 to 61g&#8211;3 - Omitted](%C2%A7%2000061g%E2%80%931%20to%2061g%E2%80%933%20-%20Omitted.md)
 - [&sect; 00061g&#8211;4 - Appointment and compensation of employees by Secretary of Conference of Majority of Senate and Secretary of Conference of Minority of&#8230;](%C2%A7%2000061g%E2%80%934%20-%20Appointment%20and%20compensation%20of%20employees%20by%20Secretary%20of%20Conference%20of%20Majority%20of%20Senate%20and%20Secretary%20of%20Conference%20of%20Minority%20of%E2%80%A6.md)
@@ -701,6 +737,7 @@
 - [&sect; 00074a&#8211;9 - Appointment of consultants by Speaker, Majority Leader, and Minority Leader of House; compensation](%C2%A7%2000074a%E2%80%939%20-%20Appointment%20of%20consultants%20by%20Speaker%2C%20Majority%20Leader%2C%20and%20Minority%20Leader%20of%20House%3B%20compensation.md)
 - [&sect; 00074a&#8211;10 - Lump sum allowances for House Minority Leader and Majority Whip](%C2%A7%2000074a%E2%80%9310%20-%20Lump%20sum%20allowances%20for%20House%20Minority%20Leader%20and%20Majority%20Whip.md)
 - [&sect; 00074a&#8211;11 - Transfer of appropriations by House Leadership Offices](%C2%A7%2000074a%E2%80%9311%20-%20Transfer%20of%20appropriations%20by%20House%20Leadership%20Offices.md)
+- [&sect; 00074a&#8211;12 - Lump sum allowance for Speaker](%C2%A7%2000074a%E2%80%9312%20-%20Lump%20sum%20allowance%20for%20Speaker.md)
 - [&sect; 00074b - Employment of additional administrative assistants](%C2%A7%2000074b%20-%20Employment%20of%20additional%20administrative%20assistants.md)
 - [&sect; 00074c - Compensation of certain House minority employees](%C2%A7%2000074c%20-%20Compensation%20of%20certain%20House%20minority%20employees.md)
 - [&sect; 00074d - Corrections Calendar Office](%C2%A7%2000074d%20-%20Corrections%20Calendar%20Office.md)
@@ -711,6 +748,7 @@
 - [&sect; 00075a - Death, resignation, etc., of Chief Administrative Officer of House; accounts and payments; liability of Chief Administrative Officer for&#8230;](%C2%A7%2000075a%20-%20Death%2C%20resignation%2C%20etc.%2C%20of%20Chief%20Administrative%20Officer%20of%20House%3B%20accounts%20and%20payments%3B%20liability%20of%20Chief%20Administrative%20Officer%20for%E2%80%A6.md)
 - [&sect; 00075a&#8211;1 - Temporary appointments in case of vacancies or incapacity of House officers; compensation](%C2%A7%2000075a%E2%80%931%20-%20Temporary%20appointments%20in%20case%20of%20vacancies%20or%20incapacity%20of%20House%20officers%3B%20compensation.md)
 - [&sect; 00075b to 75e - Omitted](%C2%A7%2000075b%20to%2075e%20-%20Omitted.md)
+- [&sect; 00075f - House emergency operations positions](%C2%A7%2000075f%20-%20House%20emergency%20operations%20positions.md)
 - [&sect; 00076 to 76a - Repealed. Pub. L. 104&#8211;186, title II, &sect;204(21), (22)(A)(iii), (23), Aug. 20, 1996, 110 Stat. 1733](%C2%A7%2000076%20to%2076a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93186%2C%20title%20II%2C%20%C2%A7204%2821%29%2C%20%2822%29%28A%29%28iii%29%2C%20%2823%29%2C%20Aug.%2020%2C%201996%2C%20110%20Stat.%201733.md)
 - [&sect; 00076b - Omitted](%C2%A7%2000076b%20-%20Omitted.md)
 - [&sect; 00077 - Sergeant at Arms of House; additional compensation](%C2%A7%2000077%20-%20Sergeant%20at%20Arms%20of%20House%3B%20additional%20compensation.md)
@@ -845,3 +883,6 @@
 - [&sect; 00130d - Waiver by Speaker of House of claims of United States arising out of erroneous payments to officers or employees paid by Chief&#8230;](%C2%A7%2000130d%20-%20Waiver%20by%20Speaker%20of%20House%20of%20claims%20of%20United%20States%20arising%20out%20of%20erroneous%20payments%20to%20officers%20or%20employees%20paid%20by%20Chief%E2%80%A6.md)
 - [&sect; 00130e - Special Services Office](%C2%A7%2000130e%20-%20Special%20Services%20Office.md)
 - [&sect; 00130f - Office of General Counsel of House; administrative provisions](%C2%A7%2000130f%20-%20Office%20of%20General%20Counsel%20of%20House%3B%20administrative%20provisions.md)
+- [&sect; 00130g - Support services for Senate during emergency; memorandum of understanding with an executive agency](%C2%A7%2000130g%20-%20Support%20services%20for%20Senate%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md)
+- [&sect; 00130h - Support services for House during emergency; memorandum of understanding with an executive agency](%C2%A7%2000130h%20-%20Support%20services%20for%20House%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md)
+- [&sect; 00130i - House of Representatives Office of Emergency Planning, Preparedness, and Operations](%C2%A7%2000130i%20-%20House%20of%20Representatives%20Office%20of%20Emergency%20Planning%2C%20Preparedness%2C%20and%20Operations.md)

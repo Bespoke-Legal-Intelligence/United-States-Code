@@ -52,5 +52,5 @@ Pub. L. 106–386, div. B, §1002, Oct. 28, 2000, 114 Stat. 1491, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3002, 3796gg–6, 10420, 13971, 13992, 14041, 14042 of this title.
+This section is referred to in sections 3002, 3796gg–6, 10420, 13971, 13992, 14041, 14042 of this title; title 20 section 7275.
 

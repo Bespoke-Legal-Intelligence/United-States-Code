@@ -48,7 +48,7 @@ Not later than 90 days after December 21, 2000, and annually thereafter, the Aut
 
 &emsp;&emsp;&emsp;(i) by the most recent Federal data available; or
 
-&emsp;&emsp;&emsp;(ii) if no recent Federal data are available, by the most recent data availablethrough the government of the State in which the isolated area of distress is located.
+&emsp;&emsp;&emsp;(ii) if no recent Federal data are available, by the most recent data available through the government of the State in which the isolated area of distress is located.
 
 #### (d) Transportation and basic public infrastructure
 

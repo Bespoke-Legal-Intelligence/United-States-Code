@@ -14,7 +14,7 @@
 
 (2) The Secretary shall prescribe an appropriate method or methods for the delivery of payments of monetary benefits under laws administered by the Secretary in cases described in paragraph (1) of this subsection. To the maximum extent practicable, such method or methods shall be designed to ensure the delivery of payments in such cases.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, §3020; Pub. L. 95–117, title IV, §402(a), (b)(1), Oct. 3,1977, 91 Stat. 1065, 1066; Pub. L. 97–295, §4(73), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–570, title XI, §11007(a)(2), Oct. 27, 1986, 100 Stat. 3207–170; Pub. L. 99–576, title VII, §701(65), Oct. 28, 1986, 100 Stat. 3296; renumbered §5120, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, §3020; Pub. L. 95–117, title IV, §402(a), (b)(1), Oct. 3, 1977, 91 Stat. 1065, 1066; Pub. L. 97–295, §4(73), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–570, title XI, §11007(a)(2), Oct. 27, 1986, 100 Stat. 3207–170; Pub. L. 99–576, title VII, §701(65), Oct. 28, 1986, 100 Stat. 3296; renumbered §5120, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 #### Amendments
 

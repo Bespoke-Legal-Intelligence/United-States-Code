@@ -8,7 +8,7 @@
 
 &emsp;(1) the original issue price of the obligation, plus
 
-&emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under the principles of section 1272(a) of the Internal Revenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
+&emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under theprinciples of section 1272(a) of the Internal Revenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648.)
 
@@ -90,7 +90,7 @@ The public debt limit set forth in this section was temporarily increased for li
 
 Oct. 28, 1990, Pub. L. 101–467, §106, 104 Stat. 1087—Increase to $3,230,000,000,000 for the period Oct. 28, 1990, to Nov. 5, 1990.
 
-Aug. 9, 1990, Pub. L. 101–350, §1, 104 Stat. 403, as amended Oct. 2, 1990, Pub. L. 101–405, §1, 104 Stat. 878; Oct. 9, 1990, Pub. L. 101–412, §114, 104 Stat. 897; Oct. 19, 1990, Pub. L. 101–444, §114, 104 Stat. 1033; Oct. 25, 1990, Pub. L. 101–461, §114, 104 Stat. 1078—Increase to $3,195,000,000,000 for the period Aug. 9, 1990, to Oct. 27, 1990.
+Aug. 9, 1990, Pub. L. 101–350, §1, 104 Stat. 403, as amended Oct. 2, 1990, Pub. L. 101–405, §1, 104 Stat. 878; Oct. 9, 1990, Pub. L. 101–412, §114, 104 Stat. 897; Oct. 19, 1990, Pub. L. 101–444, §114, 104 Stat. 1033; Oct. 25, 1990,Pub. L. 101–461, §114, 104 Stat. 1078—Increase to $3,195,000,000,000 for the period Aug. 9, 1990, to Oct. 27, 1990.
 
 Aug. 7, 1989, Pub. L. 101–72, §1, 103 Stat. 182—Increase of $70,000,000,000 for the period Aug. 7, 1989, to Oct. 31, 1989.
 
@@ -178,7 +178,7 @@ Pub. L. 87–512, §1(1), July 1, 1962, 76 Stat. 124, provided for a temporary i
 
 Pub. L. 87–414, Mar. 13, 1962, 76 Stat. 23, provided for a temporary increase from $285,000,000,000 to $300,000,000,000 for the period Mar. 13, 1962, to June 30, 1962.
 
-Pub. L. 87–69, June 30, 1961, 75 Stat. 148, provided for a temporary increase from $285,000,000,000 to$298,000,000,000 for the period July 1, 1961, to June 30, 1962.
+Pub. L. 87–69, June 30, 1961, 75 Stat. 148, provided for a temporary increase from $285,000,000,000 to $298,000,000,000 for the period July 1, 1961, to June 30, 1962.
 
 Pub. L. 86–564, title I, §101, June 30, 1960, 74 Stat. 290, provided for a temporary increase from $285,000,000,000 to $293,000,000,000 for the period July 1, 1960, to June 30, 1961.
 

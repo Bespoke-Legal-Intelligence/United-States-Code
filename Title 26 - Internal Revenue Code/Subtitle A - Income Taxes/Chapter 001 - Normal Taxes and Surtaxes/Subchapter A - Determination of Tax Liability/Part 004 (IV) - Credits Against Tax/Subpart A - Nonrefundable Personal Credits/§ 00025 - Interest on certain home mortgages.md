@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If the credit allowable under subsection (a) for any taxable year exceeds the applicable tax limit for such taxable year, such excess shall be a carryover to each of the 3 succeeding taxable years and, subject to the limitations of subparagraph (B), shall be added to the credit allowable by subsection (a) for such succeeding taxable year.
+&emsp;&emsp;If the credit allowable under subsection (a) for any taxable year exceeds the applicabletax limit for such taxable year, such excess shall be a carryover to each of the 3 succeeding taxable years and, subject to the limitations of subparagraph (B), shall be added to the credit allowable by subsection (a) for such succeeding taxable year.
 
 #### (B) Limitation
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (C) Applicable tax limit
 
-&emsp;&emsp;For purposes of this paragraph, the term “applicable tax limit” means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23 and 1400C).
+&emsp;&emsp;For purposes of this paragraph, the term “applicable tax limit” means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25B, and 1400C).
 
 #### (2) Indebtedness not treated as certified where certain requirements not in fact met
 
@@ -290,13 +290,21 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 
 &emsp;&emsp;<b>For provisions increasing the tax imposed by this chapter to recapture a portion of the Federal subsidy from the use of mortgage credit certificates, see section 143(m).</b>
 
-(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L.99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812.)
+(Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 25 was renumbered section 26 of this title.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (e)(1)(C). Pub. L. 107–16, §§618(b)(2)(B), 901, temporarily inserted “25B,” after “24,”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§201(b)(2)(F), 901, temporarily inserted “, 24,” after “sections 23”. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1998</b>—Subsec. (e)(1)(C). Pub. L. 105–206 substituted “sections 23 and 1400C” for “section 23”.
 
@@ -385,6 +393,14 @@ Subsec. (f)(2)(A). Pub. L. 99–514, §1301(f)(1)(B), substituted “0.25” for
 Subsec. (f)(3). Pub. L. 99–514, §1301(f)(2)(O), substituted “section 146(d)(3)(C)” for “section 103A(g)(5)(C)”.
 
 Subsec. (f)(4). Pub. L. 99–514, §1899A(1), substituted “ensure” for “insure”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 201(b)(2)(F) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
+
+Amendment by section 618(b)(2)(B) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as a note under section 24 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -18,6 +18,10 @@ Sums deducted from the basic pay of a reemployed annuitant under this section sh
 
 A prior section 273 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1053; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to reemployment compensation and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Waiver of Dual Compensation Provisions
+
+For waiver of application of the dual compensation reduction provisions of this section for temporary employees during an emergency, see Ex. Ord. No. 13236, Nov. 27, 2001, 66 F.R. 59671, set out as a note under section 2141 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2032 of this title.

@@ -58,7 +58,7 @@ The National Housing Act, referred to in subsec. (a)(5), is act June 27, 1934, c
 
 Paragraph (11) of section 2 of the Securities Act of 1933, referred to in subsec. (b), was redesignated paragraph (11) of section 2(a) of the Act by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424, and is classified to section 77b(a)(11) of this title.
 
-The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified generally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (e), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 #### Amendments
 
@@ -88,7 +88,7 @@ Subsec. (a)(9). Pub. L. 96–477, §302(b), substituted “$10,000,000, or such 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–567 applicable with respect to securities sold after Jan. 1, 1970, see section 6(d) ofPub. L. 91–567, set out as a note under section 77c of this title.
+Amendment by Pub. L. 91–567 applicable with respect to securities sold after Jan. 1, 1970, see section 6(d) of Pub. L. 91–567, set out as a note under section 77c of this title.
 
 #### Effective Date of 1954 Amendment
 

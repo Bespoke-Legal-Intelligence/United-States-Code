@@ -46,7 +46,7 @@ A prior section 931 of Pub. L. 99–660, which was classified to section 11231 o
 
 Subsec. (b). Pub. L. 102–507, §7(a)(2), designated par. (1) as entire subsec. and redesignated former par. (1)(A) as par. (1), former par. (1)(A)(i) to (vii) as par. (1)(A) to (G), respectively, former par. (1)(A)(iii)(I) to (IV) as par. (1)(C)(i) to (iv), respectively, and former par. (1)(B) as par. (2).
 
-Subsec. (b)(1). Pub. L. 102–507, §7(a)(1)(C)(i), substituted “The Director of the National Institute of Mental Health shall” for “Within 6 months after November 14, 1986, the Director of the National Instituteof Mental Health shall prepare and transmit to the Chairman of the Council a plan for the research to be conducted under subsection (a) of this section. The plan shall” in introductory provisions.
+Subsec. (b)(1). Pub. L. 102–507, §7(a)(1)(C)(i), substituted “The Director of the National Institute of Mental Health shall” for “Within 6 months after November 14, 1986, the Director of the National Institute of Mental Health shall prepare and transmit to the Chairman of the Council a plan for the research to be conducted under subsection (a) of this section. The plan shall” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 102–507, §7(a)(1)(C)(ii)(I), substituted “ensure that the research conducted under subsection (a) of this section includes” for “provide for” in introductory provisions.
 

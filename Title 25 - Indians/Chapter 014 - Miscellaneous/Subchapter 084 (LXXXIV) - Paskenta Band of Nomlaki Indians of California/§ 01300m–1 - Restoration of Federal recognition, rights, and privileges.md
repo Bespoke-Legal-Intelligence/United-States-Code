@@ -2,7 +2,7 @@
 
 #### (a) Federal recognition
 
-Federal recognition is hereby extended to the Tribe. Except as otherwise provided in this subchapter, all laws and regulations of general application to Indians and nations, tribes, or bands of Indians that are not inconsistent with anyspecific provision of this subchapter shall be applicable to the Tribe and its members.
+Federal recognition is hereby extended to the Tribe. Except as otherwise provided in this subchapter, all laws and regulations of general application to Indians and nations, tribes, or bands of Indians that are not inconsistent with any specific provision of this subchapter shall be applicable to the Tribe and its members.
 
 #### (b) Restoration of rights and privileges
 

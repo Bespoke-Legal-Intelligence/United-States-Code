@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) there has been a payee certification failure described in subsection (d),
 
-> &emsp;then the payor shall deduct and withhold from such payment a tax equal to 31 percent of such payment.
+> &emsp;then the payor shall deduct and withhold from such payment a tax equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment.
 
 #### (2) Subparagraphs (C) and (D) of paragraph (1) apply only to interest and dividend payments
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the payor was required under section 6041(a) or 6041A(a) to file a return for the preceding calendar year with respect to payments to the payee, or
 
-&emsp;&emsp;(C) during the preceding calendar year, the payor made reportable payments to the payee with respect to which amounts were required to be deducted and withheld under subsection (a).
+&emsp;&emsp;(C) during the preceding calendar year, the payor made reportable payments to thepayee with respect to which amounts were required to be deducted and withheld under subsection (a).
 
 #### (7) Exception for certain window payments of interest, etc.
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the Secretary determines with respect to any payee that there has been payee underreporting,
 
-&emsp;&emsp;(B) at least 4 notices have been mailed by the Secretary to the payee (over a period ofat least 120 days) with respect to the underreporting, and
+&emsp;&emsp;(B) at least 4 notices have been mailed by the Secretary to the payee (over a period of at least 120 days) with respect to the underreporting, and
 
 &emsp;&emsp;(C) in the case of any payee who has filed a return for the taxable year, any deficiency of tax attributable to such failure has been assessed,
 
@@ -284,7 +284,7 @@ For purposes of this section—
 
 #### (ii) Determination that there was no underreporting; hardship
 
-&emsp;&emsp;&emsp;In the case of any determination under clause (i) or (iii) of subsection (c)(3)(A), thedetermination effective date shall be the date on which the Secretary's determination is made.
+&emsp;&emsp;&emsp;In the case of any determination under clause (i) or (iii) of subsection (c)(3)(A), the determination effective date shall be the date on which the Secretary's determination is made.
 
 #### (4) Failure to provide certification that payee is not subject to withholding
 
@@ -356,7 +356,7 @@ For purposes of this section—
 
 #### (4) Payor defined
 
-&emsp;The term “payor” means, with respect to any reportable payment, a person required to file a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
+&emsp;The term “payor” means, with respect to any reportable payment, a person required tofile a return described in paragraph (2) or (3) of subsection (b) with respect to such payment.
 
 #### (5) Broker
 
@@ -404,9 +404,15 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–67, title I, §104(a), Aug. 5, 1983, 97 Stat. 371; amended Pub. L. 98–369, div. A, title I, §152(a), title VII, §722(h)(1), (2), July 18, 1984, 98 Stat. 691, 975; Pub. L. 99–514, title XV, §§1521(b), 1523(b)(1), title XVIII, §1899A(46), Oct. 22, 1986, 100 Stat. 2746, 2748, 2961; Pub. L. 100–647, title I, §1018(u)(44), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 102–486, title XIX, §1935(a), Oct. 24, 1992, 106 Stat. 3032.)
+(Added Pub. L. 98–67, title I, §104(a), Aug. 5, 1983, 97 Stat. 371; amended Pub. L. 98–369, div. A, title I, §152(a), title VII, §722(h)(1), (2), July 18, 1984, 98 Stat. 691, 975; Pub. L. 99–514, title XV, §§1521(b), 1523(b)(1), title XVIII, §1899A(46), Oct. 22, 1986, 100 Stat. 2746, 2748, 2961; Pub. L. 100–647, title I, §1018(u)(44), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 102–486, title XIX, §1935(a), Oct. 24, 1992, 106 Stat. 3032; Pub. L. 107–16, title I, §101(c)(10), June 7, 2001, 115 Stat. 44.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §§101(c)(10), 901, temporarily substituted “equal to the product of the fourth lowest rate of tax applicable under section 1(c) and such payment” for “equal to 31 percent of such payment” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, in closing provisions, substituted “31 percent” for “20 percent”.
 
@@ -425,6 +431,12 @@ Subsec. (d)(2)(A). Pub. L. 98–369, §722(h)(1)(A), inserted “the payor was n
 Subsec. (d)(2)(B). Pub. L. 98–369, §722(h)(1)(B), in amending subpar. (B) generally, reenacted cl. (i), in cl. (ii) inserted “with respect to such acquisition—”, added subcls. (I) and (II), redesignated former subcls. (I) and (II) as (III) and (IV), respectively, and in subcl. (III) substituted “the Secretary notifies such broker” for “such broker is notified by the Secretary”, and in provisions following cl. (ii) substituted “shall within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C) or (D) of subsection (a)(1),” for “within 15 days after the date of the acquisition notify the payor that such payee is subject to withholding under subsection (a)(1)(D) (or subsection (a)(1)(C) in the case of a notification described in clause (ii)(II).”
 
 Subsec. (e)(1). Pub. L. 98–369, §152(a), inserted provision that the Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to amounts paid after the 60th day after June 7, 2001, and references to income brackets and rates of tax in such amendment to be applied without regard to section 1(i)(1)(D) of this title, see section 101(d)(2) of Pub. L. 107–16, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010,and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -62,7 +62,7 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 &emsp;&emsp;<b>(3) For treatment of gifts to or for the use of Indian tribal governments (or their subdivisions), see section 7871.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 410; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(3), (4)(C), (D), Dec. 30, 1969, 83 Stat. 561, 562; Pub. L. 91–614, title I, §102(c)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XII, §§1307(d)(1)(B)(iv), (v), 1313(b)(3), title XIX, §1902(a)(11), (12)(D), title XXI, §2124(e)(3), Oct. 4, 1976, 90 Stat. 1727, 1730, 1805, 1806, 1920; Pub. L. 97–34, title IV, §§423(b), 442(c),Aug. 13, 1981, 95 Stat. 317, 322; Pub. L. 97–248, title II, §286(b)(3), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–473, title II, §202(b)(7), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(c), 1032(b)(3), July 18, 1984, 98 Stat. 1028, 1034; Pub. L. 99–514, title XIV, §1422(b), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(5), (6), Dec. 22, 1987, 101 Stat. 1330–464.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 410; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(3), (4)(C), (D), Dec. 30, 1969, 83 Stat. 561, 562; Pub. L. 91–614, title I, §102(c)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XII, §§1307(d)(1)(B)(iv), (v), 1313(b)(3), title XIX, §1902(a)(11), (12)(D), title XXI, §2124(e)(3), Oct. 4, 1976, 90 Stat. 1727, 1730, 1805, 1806, 1920; Pub. L. 97–34, title IV, §§423(b), 442(c), Aug. 13, 1981, 95 Stat. 317, 322; Pub. L. 97–248, title II, §286(b)(3), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–473, title II, §202(b)(7), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(c), 1032(b)(3), July 18, 1984, 98 Stat. 1028, 1034; Pub. L. 99–514, title XIV, §1422(b), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(5), (6), Dec. 22, 1987, 101 Stat. 1330–464.)
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Subsec. (c). Pub. L. 91–172, §201(d)(3), substituted substantive provisions f
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 22, 1987, see section 10711(c) of Pub. L. 100–203, set out as a note under section 170 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 22, 1987, see section10711(c) of Pub. L. 100–203, set out as a note under section 170 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -152,7 +152,7 @@ For inclusion of provisions comparable to section 2055(e)(3) of this title in th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 170, 501, 508, 1015, 2012, 2503, 2642, 4947, 4948, 6019, 7871 of this title; title 12 section 3051; title 15 section 80a–3; title 16 section 1285; title 22 section 3307.
+This section is referred to in sections 170, 501, 508, 1015, 2012, 2503, 2632, 2642, 4947, 4948, 6019, 7871 of this title; title 12 section 3051; title 15 section 80a–3; title 16 section 1285; title 22 section 3307.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
 

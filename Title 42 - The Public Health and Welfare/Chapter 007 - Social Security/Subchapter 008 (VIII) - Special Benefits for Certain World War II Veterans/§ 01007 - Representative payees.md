@@ -94,7 +94,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (1) In general
 
-&emsp;In advance, to the extent practicable, of the payment of a qualified individual's benefit to a representative payee under subsection (a) of this section, the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to so make the payment. The notice shall be provided to the qualified individual, except that, if the qualified individual is legally incompetent, then the notice shall be provided solely to thelegal guardian or legal representative of the qualified individual.
+&emsp;In advance, to the extent practicable, of the payment of a qualified individual's benefit to a representative payee under subsection (a) of this section, the Commissioner of Social Security shall provide written notice of the Commissioner's initial determination to so make the payment. The notice shall be provided to the qualified individual, except that, if the qualified individual is legally incompetent, then the notice shall be provided solely to the legal guardian or legal representative of the qualified individual.
 
 #### (2) Specific requirements
 

@@ -30,7 +30,7 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 (3) The Secretary of the Interior shall allocate funds appropriated pursuant to this subsection on the basis of priority of need of the various Indian tribes and such funds, when allocated, shall be subject to contracting or available for grants pursuant to the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\].
 
-(4) Funds appropriated under the authority of this subsection may be used by any Indian tribeor tribal organization to purchase or lease any land or facilities if—
+(4) Funds appropriated under the authority of this subsection may be used by any Indian tribe or tribal organization to purchase or lease any land or facilities if—
 
 &emsp;(A) the Secretary of the Interior determines that no Federal land or facilities are reasonably available for emergency shelters or halfway <sup>1</sup> houses described in subsection (a) of this section to serve the needs of that Indian tribe or tribal organization, and
 

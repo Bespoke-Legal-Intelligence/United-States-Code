@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish an annual goal for the purchase by each enterprise of mortgages on housing located in central cities, rural areas, and other underserved areas. The Secretary may establish separate subgoals within the goal under this section and such subgoals shall not be enforceable under the provisions of section 4566 of this title, any other provision of this chapter, or any provision of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\] or the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\].
+The Secretary shall establish an annual goal for the purchase by each enterprise of mortgageson housing located in central cities, rural areas, and other underserved areas. The Secretary may establish separate subgoals within the goal under this section and such subgoals shall not be enforceable under the provisions of section 4566 of this title, any other provision of this chapter, or any provision of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\] or the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\].
 
 #### (b) Factors to be applied
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and culture by local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the “park”) in Hawaii comprising approximately one thousand three hundred acres as generally depicted on the map entitled “Kaloko-Honokōhau National Historical Park,” numbered KHN–80,000, and dated May 1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
+In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and cultureby local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the “park”) in Hawaii comprising approximately one thousand three hundred acres as generally depicted on the map entitled “Kaloko-Honokōhau National Historical Park,” numbered KHN–80,000, and dated May 1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.
 
 #### (b) Land acquisition; manner
 
@@ -52,7 +52,7 @@ There are hereby authorized to be appropriated not to exceed $25,000,000 for acq
 
 Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original act “approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467)”. Act Aug. 25, 1916, is classified to sections 1, 2, 3, and 4 of this title.
 
-The date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996, referred to in subsec. (f)(7), probably means the date of enactment of the Omnibus Parks and Public Lands Management Act of 1996, Pub. L. 104–333, which was approved Nov. 12, 1996. No act named the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996 has been enacted. Section 503 of title V of div. I of Pub. L. 104–333, which amended this section and enacted provisions set out as a note below, relates to extension of Kaloko-Honokōhau Advisory Commission.
+The date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996, referred to in subsec. (f)(7), probably means the date of enactment of the Omnibus Parks and Public Lands Management Actof 1996, Pub. L. 104–333, which was approved Nov. 12, 1996. No act named the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996 has been enacted. Section 503 of title V of div. I of Pub. L. 104–333, which amended this section and enacted provisions set out as a note below, relates to extension of Kaloko-Honokōhau Advisory Commission.
 
 #### Amendments
 

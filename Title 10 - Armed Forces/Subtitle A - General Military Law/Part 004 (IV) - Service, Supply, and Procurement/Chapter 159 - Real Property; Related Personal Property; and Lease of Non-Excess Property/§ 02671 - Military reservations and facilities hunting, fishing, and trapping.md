@@ -1,6 +1,8 @@
 ### §2671. Military reservations and facilities: hunting, fishing, and trapping
 
-(a) The Secretary of Defense shall, with respect to each military installation or facility under the jurisdiction of any military department in a State or Territory—
+(a)
+
+General Requirements for Hunting, Fishing, and Trapping.—The Secretary of Defense shall, with respect to each military installation or facility under the jurisdiction of any military department in a State or Territory—
 
 &emsp;(1) require that all hunting, fishing, and trapping at that installation or facility be in accordance with the fish and game laws of the State or Territory in which it is located;
 
@@ -8,11 +10,35 @@
 
 &emsp;(3) develop, subject to safety requirements and military security, and in cooperation with the Governor (or his designee) of the State or Territory in which the installation or facility is located, procedures under which designated fish and game or conservation officials of that State or Territory may, at such time and under such conditions as may be agreed upon, have full access to that installation or facility to effect measures for the management, conservation, and harvesting of fish and game resources.
 
-(b) The Secretary of Defense shall prescribe regulations to carry out this section.
+(b)
 
-(c) Whoever is guilty of an act or omission which violates a requirement prescribed under subsection (a)(1) or (2), which act or omission would be punishable if committed or omitted within the jurisdiction of the State or Territory in which the installation or facility is located, by the laws thereof in effect at the time of that act or omission, is guilty of a like offense and is subject to a like punishment.
+Waiver Authority.—(1) The Secretary of Defense may waive or otherwise modify the fish and game laws of a State or Territory otherwise applicable under subsection (a)(1) to hunting, fishing, or trapping at a military installation or facility if the Secretary determines that the application of such laws to such hunting, fishing, or trapping without modification could result in undesirable consequences for public health or safety at the installation or facility. The authority to waive such laws includes the authority to extend, but not reduce, the specified season for certain hunting, fishing, or trapping. The Secretary may not waive the requirements under subsection (a)(2) regarding a license for such hunting, fishing, or trapping or any fee imposed by a State or Territory to obtain such a license.
 
-(d) This section does not modify any rights granted by the treaty or otherwise to any Indian tribe or to the members thereof.
+(2) If the Secretary determines that a waiver of fish and game laws of a State or Territory is appropriate under paragraph (1), the Secretary shall provide written notification to the appropriate State or Territory officials stating the reasons for, and extent of, the waiver. The notification shall be provided at least 30 days before implementation of the waiver.
 
-(Added Pub. L. 85–337, §4(1), Feb. 28, 1958, 72 Stat. 29.)
+(c)
+
+Violations.—Whoever is guilty of an act or omission which violates a requirement prescribed under subsection (a)(1) or (2), which act or omission would be punishable if committed or omitted within the jurisdiction of the State or Territory in which the installation or facility is located, by the laws thereof in effect at the time of that act or omission, is guilty of a like offense and is subject to a like punishment.
+
+(d)
+
+Relation to Treaty Rights.—This section does not modify any rights granted by the treaty or otherwise to any Indian tribe or to the members thereof.
+
+(e)
+
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
+
+(Added Pub. L. 85–337, §4(1), Feb. 28, 1958, 72 Stat. 29; amended Pub. L. 107–107, div. B, title XXVIII, §2811, Dec. 28, 2001, 115 Stat. 1307.)
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §2811(b)(1), inserted heading.
+
+Subsec. (b). Pub. L. 107–107, §2811(a)(2), added subsec. (b). Former subsec. (b) redesignated (e).
+
+Subsec. (c). Pub. L. 107–107, §2811(b)(2), inserted heading.
+
+Subsec. (d). Pub. L. 107–107, §2811(b)(3), inserted heading.
+
+Subsec. (e). Pub. L. 107–107, §2811(a)(1), redesignated subsec. (b) as (e), inserted heading, and transferred subsec. to end of section.
 

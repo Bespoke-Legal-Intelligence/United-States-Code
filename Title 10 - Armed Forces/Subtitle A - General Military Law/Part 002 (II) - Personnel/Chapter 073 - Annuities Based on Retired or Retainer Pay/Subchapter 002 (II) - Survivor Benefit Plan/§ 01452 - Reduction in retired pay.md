@@ -94,7 +94,7 @@ Special rule for certain rcsbp participants.—In the case of a participant in t
 
 &emsp;(4)
 
-Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverage is a participant who has a dependent child and who—
+Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverageis a participant who has a dependent child and who—
 
 &emsp;&emsp;(A) does not have an eligible spouse or former spouse; or
 
@@ -198,7 +198,7 @@ Right to withdraw discontinuation request.—A person may withdraw a request mad
 
 &emsp;(4)
 
-Refund of deductions from retired pay.—Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay of that person under this section shall be refunded to the person's surviving spouse.
+Refund of deductions from retired pay.—Upon the death of a person described inparagraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay of that person under this section shall be refunded to the person's surviving spouse.
 
 &emsp;(5)
 
@@ -310,7 +310,7 @@ Pub. L. 99–145, §723(b)(2)(1), inserted “or former spouse” after first tw
 
 Subsec. (a)(2). Pub. L. 99–145, §714(a)(3), designated existing second sentence of subsec. (a) as par. (2), and substituted “If there is a dependent child as well as a spouse or former spouse, the amount prescribed under paragraph (1)” for “As long as there is an eligible spouse and a dependent child, that amount”.
 
-Subsec. (a)(3). Pub. L. 99–145, §714(a)(4), designated existing third sentence of subsec. (a) as par. (3), substituted “paragraph (1)” for “the first sentence of thissubsection”, and inserted “or former spouse” after “eligible spouse”.
+Subsec. (a)(3). Pub. L. 99–145, §714(a)(4), designated existing third sentence of subsec. (a) as par. (3), substituted “paragraph (1)” for “the first sentence of this subsection”, and inserted “or former spouse” after “eligible spouse”.
 
 Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
 
@@ -404,7 +404,7 @@ Amount of recomputed premium.—The amount of an SBP premium recomputed under th
 
 “(4)
 
-SBP premium defined.—For purposes of this subsection, the term ‘SBP premium’ means a reduction inretired pay under section 1452 of title 10, United States Code.”
+SBP premium defined.—For purposes of this subsection, the term ‘SBP premium’ means a reduction in retired pay under section 1452 of title 10, United States Code.”
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ Every retail dealer in liquors and every retail dealer in beer shall provide and
 
 #### (b) Dispositions
 
-When he deems it necessary for law enforcement purposes or the protection of the revenue, the Secretary may by regulations require retaildealers in liquors and retail dealers in beer to keep records of the disposition of distilled spirits, wines, or beer, in such form or manner and of such quantities as the Secretary may prescribe.
+When he deems it necessary for law enforcement purposes or the protection of the revenue, the Secretary may by regulations require retail dealers in liquors and retail dealers in beer to keep records of the disposition of distilled spirits, wines, or beer, in such form or manner and of such quantities as the Secretary may prescribe.
 
 #### (c) Cross references
 

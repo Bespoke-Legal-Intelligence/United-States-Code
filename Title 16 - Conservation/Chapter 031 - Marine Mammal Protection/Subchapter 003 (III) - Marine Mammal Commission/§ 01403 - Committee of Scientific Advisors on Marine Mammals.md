@@ -10,7 +10,7 @@ Except for United States Government employees, members of the Committee shall ea
 
 #### (c) Consultation with Commission on studies and recommendations; explanation for nonadoption
 
-The Commission shall consult with the Committee on all studies and recommendations which it may propose to make or has made, on research programs conducted or proposed to be conducted under the authority of this chapter, and on all applications for permits for scientific research. Any recommendations made by the Committee or any of its members which are not adopted by the Commission shall be transmitted by the Commission to the appropriate Federal agency and to the appropriate committees of Congress with a detailed explanation of the Commission's reasons for not accepting such recommendations.
+The Commission shall consult with the Committee on all studies and recommendations which it may propose to make or has made, on research programs conducted or proposed to be conducted under the authority of this chapter, and on all applications for permits for scientificresearch. Any recommendations made by the Committee or any of its members which are not adopted by the Commission shall be transmitted by the Commission to the appropriate Federal agency and to the appropriate committees of Congress with a detailed explanation of the Commission's reasons for not accepting such recommendations.
 
 (Pub. L. 92–522, title II, §203, Oct. 21, 1972, 86 Stat. 1044.)
 
@@ -20,5 +20,5 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

@@ -36,7 +36,7 @@
 
 (2) In the case of a removal of a member under this section for a reason other than job performance that would be covered by section 7521 of title 5 in the case of an administrative law judge, the removal of the member of the Board shall be carried out subject to the same requirements as apply to removal of an administrative law judge under that section. Section 554(a)(2) of title 5 shall not apply to a removal action under this subsection. In such a removal action, a member shall have the rights set out in section 7513(b) of that title.
 
-(f) The Chairman, subject to the approval of the Secretary, shall establish standards for the performance of the job of a member of the Board (other than the Chairman or a member of the Senior Executive Service). Those standards shall establish objective and fair criteria for evaluation of the job performance of a member of the Board.
+(f) The Chairman, subject to the approval of the Secretary, shall establish standards for the performance of the job of a member of the Board (other than the Chairman or a member of the Senior Executive Service). Those standards shallestablish objective and fair criteria for evaluation of the job performance of a member of the Board.
 
 (g) The Secretary shall prescribe procedures for the administration of this section, including deadlines and time schedules for different actions under this section.
 

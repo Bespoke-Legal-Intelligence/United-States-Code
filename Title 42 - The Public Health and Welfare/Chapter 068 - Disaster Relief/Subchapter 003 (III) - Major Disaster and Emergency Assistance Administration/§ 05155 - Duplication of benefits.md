@@ -24,7 +24,7 @@ A person receiving Federal assistance for a major disaster or emergency shall be
 
 #### (d) Assistance not income
 
-Federal major disaster and emergency assistance provided to individuals and families under this chapter, and comparable disaster assistance provided by States, local governments, and disaster assistance organizations, shall not be considered as income or a resource when determining eligibility for or benefit levels under federally funded income assistance or resource-tested benefit programs.
+Federal major disaster and emergency assistance provided to individuals and families underthis chapter, and comparable disaster assistance provided by States, local governments, and disaster assistance organizations, shall not be considered as income or a resource when determining eligibility for or benefit levels under federally funded income assistance or resource-tested benefit programs.
 
 (Pub. L. 93–288, title III, §312, as added Pub. L. 100–707, title I, §105(i), Nov. 23, 1988, 102 Stat. 4693.)
 

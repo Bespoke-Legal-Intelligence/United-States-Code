@@ -22,7 +22,7 @@ Any proposal for a consent judgment submitted by the United States for entry in 
 
 #### (c) Publication of summaries in newspapers
 
-The United States shall also cause to be published, commencing at least 60 days prior to theeffective date of the judgment described in subsection (b) of this section, for 7 days over a period of 2 weeks in newspapers of general circulation of the district in which the case has been filed, in the District of Columbia, and in such other districts as the court may direct—
+The United States shall also cause to be published, commencing at least 60 days prior to the effective date of the judgment described in subsection (b) of this section, for 7 days over a period of 2 weeks in newspapers of general circulation of the district in which the case has been filed, in the District of Columbia, and in such other districts as the court may direct—
 
 &emsp;(i) a summary of the terms of the proposal for consent judgment,
 
@@ -32,7 +32,7 @@ The United States shall also cause to be published, commencing at least 60 days 
 
 #### (d) Consideration of public comments by Attorney General and publication of response
 
-During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments.
+During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating tothe proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments.
 
 #### (e) Public interest determination
 
@@ -66,7 +66,7 @@ Proceedings before the district court under subsections (e) and (f) of this sect
 
 #### (i) Suspension of limitations
 
-Whenever any civil or criminal proceeding is instituted by the United States to prevent, restrain, or punish violations of any of the antitrust laws, but not including an action under section 15a of this title, the running of the statute of limitations in respect to every private or State right of action arising under said laws andbased in whole or in part on any matter complained of in said proceeding shall be suspended during the pendency thereof and for one year thereafter: <i>Provided, however</i>, That whenever the running of the statute of limitations in respect of a cause of action arising under section 15 or 15c of this title is suspended hereunder, any action to enforce such cause of action shall be forever barred unless commenced either within the period of suspension or within four years after the cause of action accrued.
+Whenever any civil or criminal proceeding is instituted by the United States to prevent, restrain, or punish violations of any of the antitrust laws, but not including an action under section 15a of this title, the running of the statute of limitations in respect to every private or State right of action arising under said laws and based in whole or in part on any matter complained of in said proceeding shall be suspended during the pendency thereof and for one year thereafter: <i>Provided, however</i>, That whenever the running of the statute of limitations in respect of a cause of action arising under section 15 or 15c of this title is suspended hereunder, any action to enforce such cause of action shall be forever barred unless commenced either within the period of suspension or within four years after the cause of action accrued.
 
 (Oct. 15, 1914, ch. 323, §5, 38 Stat. 731; July 7, 1955, ch. 283, §2, 69 Stat. 283; Pub. L. 93–528, §2, Dec. 21, 1974, 88 Stat. 1706; Pub. L. 94–435, title III, §302(2), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 96–349, §5(a), Sept. 12, 1980, 94 Stat. 1157.)
 
@@ -76,7 +76,7 @@ The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are define
 
 #### Amendments
 
-1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
+1980—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for reliefunder the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
 
 1976—Pub. L. 94–435 substituted “private or State right of action” for “private right of action” and “section 15 or 15c” for “section 15”.
 

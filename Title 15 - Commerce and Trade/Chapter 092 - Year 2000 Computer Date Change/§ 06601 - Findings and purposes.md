@@ -10,7 +10,7 @@ The Congress finds the following:
 
 &emsp;(2) It is in the national interest that producers and users of technology products concentrate their attention and resources in the time remaining before January 1, 2000, on assessing, fixing, testing, and developing contingency plans to address any and all outstanding year 2000 computer date-change problems, so as to minimize possible disruptions associated with computer failures.
 
-&emsp;(3)(A) Because year 2000 computer date-change problems may affect virtually all businesses and other users of technology products to some degree, there is a substantial likelihood that actual or potential year 2000 failures will prompt a significant volume of litigation, much of it insubstantial.
+&emsp;(3)(A) Because year 2000 computer date-change problems may affect virtually all businesses and other users of technology productsto some degree, there is a substantial likelihood that actual or potential year 2000 failures will prompt a significant volume of litigation, much of it insubstantial.
 
 &emsp;(B) The litigation described in subparagraph (A) would have a range of undesirable effects, including the following:
 

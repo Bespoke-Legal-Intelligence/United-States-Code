@@ -10,7 +10,7 @@ The Secretary, in consultation with the Advisory Committee on Demonstration and 
 
 &emsp;(1) The degree to which the technological development increases the utilization of renewable energy.
 
-&emsp;(2) The degree to which the development will have a significant impact, by benefitting a large number of people, by reducing the costsof an important industrial process or commercial product or service, or otherwise.
+&emsp;(2) The degree to which the development will have a significant impact, by benefitting a large number of people, by reducing the costs of an important industrial process or commercial product or service, or otherwise.
 
 &emsp;(3) The ingenuity of the development.
 

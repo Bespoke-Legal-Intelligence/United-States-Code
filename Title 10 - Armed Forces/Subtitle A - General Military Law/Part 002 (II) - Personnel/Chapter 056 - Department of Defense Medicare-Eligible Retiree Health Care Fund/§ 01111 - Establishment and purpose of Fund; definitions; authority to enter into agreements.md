@@ -1,0 +1,48 @@
+### §1111. Establishment and purpose of Fund; definitions; authority to enter into agreements
+
+(a) There is established on the books of the Treasury a fund to be known as the Department of Defense Medicare-Eligible Retiree Health Care Fund (hereinafter in this chapter referred to as the “Fund”), which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis liabilities of the Department of Defense under uniformed services retiree health care programs for medicare-eligible beneficiaries.
+
+(b) In this chapter:
+
+&emsp;(1) The term “uniformed services retiree health care programs” means the provisions of this title or any other provision of law creating an entitlement to or eligibility for health care for a member or former member of a participating uniformed service who is entitled to retired or retainer pay, and an eligible dependent under such program.
+
+&emsp;(2) The term “eligible dependent” means a dependent described in section 1076(a)(2) (other than a dependent of a member on active duty), 1076(b), 1086(c)(2), or 1086(c)(3) of this title.
+
+&emsp;(3) The term “medicare-eligible”, with respect to any person, means entitled to benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.).
+
+&emsp;(4) The term “participating uniformed service” means the Army, Navy, Air Force, and Marine Corps, and any other uniformed service that is covered by an agreement entered into under subsection (c).
+
+(c) The Secretary of Defense may enter into an agreement with any other administering Secretary (as defined in section 1072(3) of this title) for participation in the Fund by a uniformed service under the jurisdiction of that Secretary. Any such agreement shall require that Secretary to determine contributions to the Fund on behalf of the members of the uniformed service under the jurisdiction of that Secretary in a manner comparable to the determination with respect to contributions to the Fund made by the Secretary of Defense under section 1116 of this title, and such administering Secretary may make such contributions.
+
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–179; amended Pub. L. 107–107, div. A, title VII, §711(a), (b)(1), (e)(1), (2), title X, §1048(a)(12), Dec. 28, 2001, 115 Stat. 1164–1166, 1223.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+2001—Pub. L. 107–107, §711(e)(2), inserted “; authority to enter into agreements” after “definitions” in section catchline.
+
+Subsec. (a). Pub. L. 107–107, §1048(a)(12), substituted “hereinafter” for “hereafter”.
+
+Pub. L. 107–107, §711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
+
+Subsec. (b). Pub. L. 107–107, §711(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In this chapter:
+
+&emsp;“(1) The term ‘Department of Defense retiree health care programs for medicare-eligible beneficiaries’ means the provisions of this title or any other provision of law creating entitlement to health care for a medicare-eligible member or former member of the uniformed services entitled to retired or retainer pay, or a medicare-eligible dependent of a member or former member of the uniformed services entitled to retired or retainer pay.
+
+&emsp;“(2) The term ‘medicare-eligible’ means entitled to benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.).
+
+&emsp;“(3) The term ‘dependent’ means a dependent (as such term is defined in section 1072 of this title) described in section 1076(b)(1) of this title.”
+
+Subsec. (c). Pub. L. 107–107, §711(b)(1), added subsec. (c).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VII, §711(f), Dec. 28, 2001, 115 Stat. 1167, provided that: “The amendments made by this section \[amending this section and sections 1112, 1113, 1115, and 1116 of this title\] shall take effect as if included in the enactment of chapter 56 of title 10, United States Code, by section 713(a)(1) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–179).”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1112, 1113 of this title.
+

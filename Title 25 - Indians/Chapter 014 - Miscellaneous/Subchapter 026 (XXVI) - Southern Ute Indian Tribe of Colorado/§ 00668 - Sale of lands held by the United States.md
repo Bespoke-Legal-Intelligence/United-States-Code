@@ -40,7 +40,7 @@ Pub. L. 98–290, May 21, 1984, 98 Stat. 201, provided that:
 
 &emsp;“(3) Bounded on the west by the eastern boundary of the Ute Mountain Ute Indian Reservation.
 
-&emsp;“(4) Bounded on the east by the southernmost 15 miles of the eastern boundary of the lands reserved to the Ute Indians by article II of the treaty betweenthe United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 (15 Stat. 619), except that the lands east of such boundary in township 32 north, range 1 west, New Mexico principal meridian, that are held by the United States in trust for the benefit of the Southern Ute Indian Tribe are part of the Southern Ute Indian Reservation.
+&emsp;“(4) Bounded on the east by the southernmost 15 miles of the eastern boundary of the lands reserved to the Ute Indians by article II of the treaty between the United States and the Ute Indians concluded March 2, 1868, and proclaimed November 6, 1868 (15 Stat. 619), except that the lands east of such boundary in township 32 north, range 1 west, New Mexico principal meridian, that are held by the United States in trust for the benefit of the Southern Ute Indian Tribe are part of the Southern Ute Indian Reservation.
 
 #### “jurisdiction over reservation
 

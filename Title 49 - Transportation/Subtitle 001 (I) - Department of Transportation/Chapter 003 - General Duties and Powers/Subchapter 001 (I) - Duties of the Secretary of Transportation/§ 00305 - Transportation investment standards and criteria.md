@@ -14,7 +14,7 @@
 
 &emsp;(6) grant-in-aid programs authorized by law.
 
-(b) A department, agency, or instrumentality of the Government preparing a survey, plan, or report that includes a proposal about which the Secretary has prescribed standards and criteria under subsection (a) of this section shall—
+(b) A department, agency, or instrumentality of the Government preparing a survey, plan, or report that includes a proposal about which theSecretary has prescribed standards and criteria under subsection (a) of this section shall—
 
 &emsp;(1) prepare the survey, plan, or report under those standards and criteria and on the basis of information provided by the Secretary on the—
 

@@ -32,7 +32,7 @@ The Secretary shall administer the provisions of this chapter and shall prescrib
 
 &emsp;&emsp;&emsp;(ii) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
 
-&emsp;(3) are free to submit to officials of the Service and the Department any report, evaluation, or recommendation, including the right to submit such report, evaluation, or recommendation through a separate dissent channel, whether or not the views expressed therein are in accord with approved policy, unless the report, evaluation, or recommendation was submitted with the knowledge that it was false or with willful disregard for its truth or falsity; and
+&emsp;(3) are free to submit to officials of the Service and the Department any report, evaluation, or recommendation, including the right to submit such report, evaluation, or recommendation through a separate dissent channel, whether or not the views expressed therein arein accord with approved policy, unless the report, evaluation, or recommendation was submitted with the knowledge that it was false or with willful disregard for its truth or falsity; and
 
 &emsp;(4) are free from any personnel practice prohibited by section 2302 of title 5.
 

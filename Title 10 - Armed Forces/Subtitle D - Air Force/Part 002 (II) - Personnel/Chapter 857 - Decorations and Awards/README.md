@@ -14,10 +14,13 @@
 | [8750\.](%C2%A7%2008750%20-%20Airman%27s%20Medal%20award%3B%20limitations.md) | Airman's Medal: award; limitations. |
 | [8751\.](%C2%A7%2008751%20-%20Service%20medals%20issue%3B%20replacement%3B%20availability%20of%20appropriations.md) | Service medals: issue; replacement; availability of appropriations. |
 | [8752\.](%C2%A7%2008752%20-%20Medals%20posthumous%20award%20and%20presentation.md) | Medals: posthumous award and presentation. |
+| [8754\.](%C2%A7%2008754%20-%20Medal%20of%20honor%20duplicate%20medal.md) | Medal of honor: duplicate medal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title V, §553(c)(1)(B), Dec. 28, 2001, 115 Stat. 1116, added item 8754.
 
 1960—Pub. L. 86–593, §1(7), July 6, 1960, 74 Stat. 332, substituted “Air Force cross” for “distinguished-service cross” in items 8742, 8744, and 8745, inserted “Air Force cross;” in items 8747 and 8748, and substituted “Airman's Medal” for “Soldier's Medal” in item 8750.
 
@@ -48,3 +51,4 @@ Establishment of, see Ex. Ord. No. 11448, set out as a note preceding section 11
 - [&sect; 08750 - Airman's Medal award; limitations](%C2%A7%2008750%20-%20Airman%27s%20Medal%20award%3B%20limitations.md)
 - [&sect; 08751 - Service medals issue; replacement; availability of appropriations](%C2%A7%2008751%20-%20Service%20medals%20issue%3B%20replacement%3B%20availability%20of%20appropriations.md)
 - [&sect; 08752 - Medals posthumous award and presentation](%C2%A7%2008752%20-%20Medals%20posthumous%20award%20and%20presentation.md)
+- [&sect; 08754 - Medal of honor duplicate medal](%C2%A7%2008754%20-%20Medal%20of%20honor%20duplicate%20medal.md)

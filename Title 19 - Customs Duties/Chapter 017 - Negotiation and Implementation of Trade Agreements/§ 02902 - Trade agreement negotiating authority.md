@@ -22,7 +22,7 @@
 
 &emsp;(B) increases any rate of duty above the rate that applies on August 23, 1988.
 
-(3)(A) Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if a reduction of 3 percent ad valorem or a reduction of one-tenth of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed in paragraph (1) to carry out such agreement with respect to such article.
+(3)(A) Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if a reduction of 3 percent ad valorem or areduction of one-tenth of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed in paragraph (1) to carry out such agreement with respect to such article.
 
 (B) No staging under subparagraph (A) is required with respect to a rate reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States. The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
 
@@ -72,7 +72,7 @@
 
 (4) The 60-day period of time described in paragraph (3)(C) shall be computed in accordance with section 2903(e) of this title.
 
-(5) In any case in which there is an inconsistency between any provision of this Act and any bilateral free trade area agreement that entered into force and effect with respect to the United States before January 1, 1987, the provision shallnot apply with respect to the foreign country that is party to that agreement.
+(5) In any case in which there is an inconsistency between any provision of this Act and any bilateral free trade area agreement that entered into force and effect with respect to the United States before January 1, 1987, the provision shall not apply with respect to the foreign country that is party to that agreement.
 
 #### (d) Consultation with Congress before agreements entered into
 

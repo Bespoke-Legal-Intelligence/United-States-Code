@@ -14,7 +14,7 @@
 | [14510\.](%C2%A7%2014510%20-%20Separation%20at%20age%2060%20reserve%20brigadier%20generals%20and%20rear%20admirals%20%28lower%20half%29.md) | Separation at age 60: reserve brigadier generals and rear admirals (lower half). |
 | [14511\.](%C2%A7%2014511%20-%20Separation%20at%20age%2062%20major%20generals%20and%20rear%20admirals.md) | Separation at age 62: major generals and rear admirals. |
 | [14512\.](%C2%A7%2014512%20-%20Separation%20at%20age%2064%20officers%20holding%20certain%20offices.md) | Separation at age 64: officers holding certain offices. |
-| [14513\.](%C2%A7%2014513%20-%20Separation%20for%20failure%20of%20selection%20of%20promotion.md) | Separation for failure of selection of promotion. |
+| [14513\.](%C2%A7%2014513%20-%20Failure%20of%20selection%20for%20promotion%20transfer%2C%20retirement%2C%20or%20discharge.md) | Failure of selection for promotion: transfer, retirement, or discharge. |
 | [14514\.](%C2%A7%2014514%20-%20Discharge%20or%20retirement%20for%20years%20of%20service%20or%20after%20selection%20for%20early%20removal.md) | Discharge or retirement for years of service or after selection for early removal. |
 | [14515\.](%C2%A7%2014515%20-%20Discharge%20or%20retirement%20for%20age.md) | Discharge or retirement for age. |
 | [14516\.](%C2%A7%2014516%20-%20Separation%20to%20be%20considered%20involuntary.md) | Separation to be considered involuntary. |
@@ -24,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title V, §517(b)(2)(B), Dec. 28, 2001, 115 Stat. 1094, substituted “Failure of selection for promotion: transfer, retirement, or discharge” for “Separation for failure of selection of promotion” in item 14513.
 
 1999—Pub. L. 106–65, div. A, title V, §511(b), Oct. 5, 1999, 113 Stat. 592, added item 14518.
 
@@ -50,7 +52,7 @@ This chapter is referred to in sections 12645, 12646, 12647, 14001, 14006, 14703
 - [&sect; 14510 - Separation at age 60 reserve brigadier generals and rear admirals (lower half)](%C2%A7%2014510%20-%20Separation%20at%20age%2060%20reserve%20brigadier%20generals%20and%20rear%20admirals%20%28lower%20half%29.md)
 - [&sect; 14511 - Separation at age 62 major generals and rear admirals](%C2%A7%2014511%20-%20Separation%20at%20age%2062%20major%20generals%20and%20rear%20admirals.md)
 - [&sect; 14512 - Separation at age 64 officers holding certain offices](%C2%A7%2014512%20-%20Separation%20at%20age%2064%20officers%20holding%20certain%20offices.md)
-- [&sect; 14513 - Separation for failure of selection of promotion](%C2%A7%2014513%20-%20Separation%20for%20failure%20of%20selection%20of%20promotion.md)
+- [&sect; 14513 - Failure of selection for promotion transfer, retirement, or discharge](%C2%A7%2014513%20-%20Failure%20of%20selection%20for%20promotion%20transfer%2C%20retirement%2C%20or%20discharge.md)
 - [&sect; 14514 - Discharge or retirement for years of service or after selection for early removal](%C2%A7%2014514%20-%20Discharge%20or%20retirement%20for%20years%20of%20service%20or%20after%20selection%20for%20early%20removal.md)
 - [&sect; 14515 - Discharge or retirement for age](%C2%A7%2014515%20-%20Discharge%20or%20retirement%20for%20age.md)
 - [&sect; 14516 - Separation to be considered involuntary](%C2%A7%2014516%20-%20Separation%20to%20be%20considered%20involuntary.md)

@@ -6,5 +6,5 @@ Provisions similar to those comprising this section were contained in a prior se
 
 #### Effective Date of Repeal
 
-Repeal effective with respect to appropriations for fiscal year ending after June 30, 1967, see section 3(b) of Pub. L. 90–174, set out as an Effective Date of 1967 Amendment note under section 246 of this title.
+Repeal effective with respect to appropriations for fiscal year ending after June 30, 1967, see section 3(b) ofPub. L. 90–174, set out as an Effective Date of 1967 Amendment note under section 246 of this title.
 

@@ -34,7 +34,7 @@ For purposes of this section, the term “Medicare+Choice MSA” means an Archer
 
 #### (A) In general
 
-&emsp;&emsp;The tax imposed by this chapter for any taxable year in which there is a payment or distribution from a Medicare+Choice MSA which is not used exclusively to pay the qualified medical expenses of the account holder shall be increased by 50 percent of the excess (if any) of—
+&emsp;&emsp;The tax imposed by this chapter for any taxable year in which there is a payment or distribution from a Medicare+Choice MSAwhich is not used exclusively to pay the qualified medical expenses of the account holder shall be increased by 50 percent of the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the amount of such payment or distribution, over
 
@@ -100,7 +100,7 @@ The Social Security Act, referred to in subsecs. (a) and (b)(2)(A), is act Aug. 
 
 #### Prior Provisions
 
-A prior section 138 was renumbered section 139 of this title.
+A prior section 138 was renumbered section 140 of this title.
 
 #### Amendments
 

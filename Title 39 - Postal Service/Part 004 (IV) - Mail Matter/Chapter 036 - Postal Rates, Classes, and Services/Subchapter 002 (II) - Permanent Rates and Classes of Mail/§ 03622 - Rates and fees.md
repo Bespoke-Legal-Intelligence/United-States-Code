@@ -30,7 +30,7 @@
 
 #### References in Text
 
-Former sections 4358, 4452, and 4554 of this title, referred to in subsec. (c), mean the aforesaid sectionswhich were classified to former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
+Former sections 4358, 4452, and 4554 of this title, referred to in subsec. (c), mean the aforesaid sections which were classified to former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 The Occupational Safety and Health Act of 1970, referred to in subsec. (d), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 

@@ -1,6 +1,6 @@
 ### §1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
 
-(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
+(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services tothe extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
 
 (2) A covered beneficiary may not be required to pay an additional amount to the United States for health care services by reason of this section.
 
@@ -132,7 +132,7 @@ Subsecs. (h), (i). Pub. L. 101–510, §713(c), added subsecs. (h) and (i) and s
 
 1989—Subsec. (g). Pub. L. 101–189, §727(a)(2), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 101–189, §1622(e)(5), which directed amendment of subsec. (g) by insertion of “the term” after “In this section,” was executed by making the insertion in subsec. (h) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (h) by Pub. L. 101–189, §727(a)(1), see below.
+Subsec. (h). Pub. L. 101–189, §1622(e)(5), which directed amendment of subsec. (g) by insertion of “the term” after “In this section,” was executed by making the insertion in subsec. (h) to reflect the probable intent ofCongress and the intervening redesignation of subsec. (g) as (h) by Pub. L. 101–189, §727(a)(1), see below.
 
 Pub. L. 101–189, §727(a)(1), redesignated subsec. (g) as (h).
 

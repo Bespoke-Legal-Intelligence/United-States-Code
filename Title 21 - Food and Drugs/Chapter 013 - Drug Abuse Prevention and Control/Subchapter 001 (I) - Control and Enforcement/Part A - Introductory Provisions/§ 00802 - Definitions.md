@@ -22,13 +22,13 @@ As used in this subchapter:
 
 (7) The term “counterfeit substance” means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
 
-(8) The terms “deliver” or “delivery” mean the actual, constructive, or attempted transferof a controlled substance or a listed chemical, whether or not there exists an agency relationship.
+(8) The terms “deliver” or “delivery” mean the actual, constructive, or attempted transfer of a controlled substance or a listed chemical, whether or not there exists an agency relationship.
 
 (9) The term “depressant or stimulant substance” means—
 
 &emsp;(A) a drug which contains any quantity of barbituric acid or any of the salts of barbituric acid; or
 
-&emsp;(B) a drug which contains any quantity of (i) amphetamine or any of its optical isomers; (ii) any salt of amphetamine or any salt of an optical isomer of amphetamine; or (iii) any substance which the Attorney General, after investigation, has found to be, and by regulation designated as, habit forming because of its stimulant effect on the central nervous systems; or
+&emsp;(B) a drug which contains any quantity of (i) amphetamine or any of its optical isomers; (ii) any salt of amphetamine or any salt of an optical isomer of amphetamine; or (iii) any substance which the Attorney General, after investigation, has found to be, and by regulation designated as, habit forming because of its stimulant effect on the central nervous system; or
 
 &emsp;(C) lysergic acid diethylamide; or
 
@@ -50,7 +50,7 @@ As used in this subchapter:
 
 (17) The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
-&emsp;(A) Opium, opiates, derivatives of opium and opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation. Such term does not include the isoquinoline alkaloids of opium.
+&emsp;(A) Opium, opiates, derivatives of opium and opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation. Suchterm does not include the isoquinoline alkaloids of opium.
 
 &emsp;(B) Poppy straw and concentrate of poppy straw.
 
@@ -176,7 +176,7 @@ As used in this subchapter:
 
 &emsp;(Y) Any salt, optical isomer, or salt of an optical isomer of the chemicals listed in subparagraphs (M) through (U) of this paragraph.
 
-(35) The term “list II chemical” means a chemical (other than a list I chemical) specified by regulation of the Attorney General as achemical that is used in manufacturing a controlled substance in violation of this subchapter, and such term includes (until otherwise specified by regulation of the Attorney General, as considered appropriate by the Attorney General or upon petition to the Attorney General by any person) the following chemicals:
+(35) The term “list II chemical” means a chemical (other than a list I chemical) specified by regulation of the Attorney General as a chemical that is used in manufacturing a controlled substance in violation of this subchapter, and such term includes (until otherwise specified by regulation of the Attorney General, as considered appropriate by the Attorney General or upon petition to the Attorney General by any person) the following chemicals:
 
 &emsp;(A) Acetic anhydride.
 
@@ -358,7 +358,7 @@ Par. (35)(I), (J). Pub. L. 104–237, §204(a), added subpars. (I) and (J).
 
 Par. (39)(A)(iv)(I)(aa). Pub. L. 104–237, §401(a)(1), (b)(1), substituted “, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);” for “as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;”.
 
-Par. (39)(A)(iv)(II). Pub. L. 104–237, §401(a)(2), (b)(2), inserted “, pseudoephedrine, phenylpropanolamine,” after “ephedrine” and inserted before semicolon “, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction”.
+Par. (39)(A)(iv)(II). Pub. L. 104–237, §401(a)(2), (b)(2), inserted “, pseudoephedrine, phenylpropanolamine,” after “ephedrine” and inserted before semicolon “, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction”.
 
 Pars. (43), (44). Pub. L. 104–237, §401(b)(3), and Pub. L. 104–294, §§604(b)(4), 607(j)(2), amended section identically, redesignating par. (43), relating to felony drug offense, as (44).
 
@@ -408,7 +408,7 @@ Par. (39)(A)(iii). Pub. L. 103–200, §2(a)(6)(B), inserted “or any category 
 
 Par. (39)(A)(iv). Pub. L. 103–200, §2(a)(6)(C), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act; or”.
 
-Par. (39)(A)(v). Pub. L. 103–200, §2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in theillicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
+Par. (39)(A)(v). Pub. L. 103–200, §2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
 
 Par. (40). Pub. L. 103–200, §2(a)(7), substituted “list I chemical or a list II chemical” for “listed precursor chemical or a listed essential chemical” in two places.
 
@@ -476,7 +476,7 @@ Section 401(g) of Pub. L. 104–237 provided that: “Notwithstanding any other 
 
 #### Effective Date of 1994 Amendment
 
-Section 330024(f) of Pub. L. 103–322 provided that: “The amendments made by this section \[amending this section and sections 824, 960, and 971 of this title\] shall take effect as of the date that is 120 days after the date of enactment of the Domestic Chemical Diversion Control Act of 1993 \[Dec. 17, 1993\].”
+Section 330024(f) of Pub. L. 103–322 provided that: “The amendments made by this section \[amending this section and sections 824, 960, and 971 of this title\] shall take effect as of the date that is 120 days after the dateof enactment of the Domestic Chemical Diversion Control Act of 1993 \[Dec. 17, 1993\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -496,7 +496,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Regulations
 
-Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[now 503(b)\] of the Public Health Service Act \[42 U.S.C. 290aa–2(b)\] after the expiration of such ninetydays the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
+Section 301(b) of Pub. L. 98–509 provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act \[Oct. 19, 1984\], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act \[21 U.S.C. 802(29)\] as amended by subsection (a) and shall include in the first report submitted under section 505(b) \[503(b)\] of the Public Health Service Act \[former 42 U.S.C. 290aa–2(b)\] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
 
 #### Report on Diversion of Ordinary, Over-the-Counter Pseudoephedrine and Phenylpropanolamine Products
 
@@ -592,7 +592,7 @@ Conditions.—In order to establish a single-transaction limit of 24 grams of ph
 
 &emsp;&emsp;“(B)
 
-Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurringwithin 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
+Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
 
 &emsp;“(3)
 
@@ -666,5 +666,5 @@ Date of Issuance of Regulations.—The Attorney General shall issue regulations 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701, 1907 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 10 section 986; title 16 section 559b; title 18 sections 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 29 sections 1111, 1854, 2892; title 42 sections 201, 1437a, 1437d, 1437f, 1786, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 9919, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302; title 50 section 404i.
+This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701, 1907 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 10 section 986; title 16 section 559b; title 18 sections 175b, 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 29 sections 1111, 1854, 2892; title 42 sections 201, 1437a, 1437d, 1437f, 1786, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 9601, 9919, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302; title 50 section 404i.
 

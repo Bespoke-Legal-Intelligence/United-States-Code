@@ -10,7 +10,7 @@
 | [7506\.](%C2%A7%2007506%20-%20Administration%20of%20real%20estate%20acquired%20by%20the%20United%20States.md) | Administration of real estate acquired by the United States. |
 | [7507\.](%C2%A7%2007507%20-%20Exemption%20of%20insolvent%20banks%20from%20tax.md) | Exemption of insolvent banks from tax. |
 | [7508\.](%C2%A7%2007508%20-%20Time%20for%20performing%20certain%20acts%20postponed%20by%20reason%20of%20service%20in%20combat%20zone.md) | Time for performing certain acts postponed by reason of service in combat zone. |
-| [7508A.](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20tax-related%20deadlines%20by%20reason%20of%20presidentially%20declared%20disaster.md) | Authority to postpone certain tax-related deadlines by reason of presidentially declared disaster. |
+| [7508A.](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20deadlines%20by%20reason%20of%20Presidentially%20declared%20disaster%20or%20terroristic%20or%20military%20actions.md) | Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions. |
 | [7509\.](%C2%A7%2007509%20-%20Expenditures%20incurred%20by%20the%20United%20States%20Postal%20Service.md) | Expenditures incurred by the United States Postal Service. |
 | [7510\.](%C2%A7%2007510%20-%20Exemption%20from%20tax%20of%20domestic%20goods%20purchased%20for%20the%20United%20States.md) | Exemption from tax of domestic goods purchased for the United States. |
 | \[7511. | Repealed.\] |
@@ -38,6 +38,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2002</b>—Pub. L. 107–134, title I, §112(e)(1), Jan. 23, 2002, 115 Stat. 2435, substituted “Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions” for “Authority to postpone certain tax-related deadlines by reason of presidentially declared disaster” in item 7508A.
 
 <b>1998</b>—Pub. L. 105–206, title III, §§3411(b), 3601(b), July 22, 1998, 112 Stat. 751, 776, added items 7525 and 7526.
 
@@ -94,7 +96,7 @@ This chapter is referred to in section 7851 of this title.
 - [&sect; 07506 - Administration of real estate acquired by the United States](%C2%A7%2007506%20-%20Administration%20of%20real%20estate%20acquired%20by%20the%20United%20States.md)
 - [&sect; 07507 - Exemption of insolvent banks from tax](%C2%A7%2007507%20-%20Exemption%20of%20insolvent%20banks%20from%20tax.md)
 - [&sect; 07508 - Time for performing certain acts postponed by reason of service in combat zone](%C2%A7%2007508%20-%20Time%20for%20performing%20certain%20acts%20postponed%20by%20reason%20of%20service%20in%20combat%20zone.md)
-- [&sect; 07508A - Authority to postpone certain tax-related deadlines by reason of presidentially declared disaster](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20tax-related%20deadlines%20by%20reason%20of%20presidentially%20declared%20disaster.md)
+- [&sect; 07508A - Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20deadlines%20by%20reason%20of%20Presidentially%20declared%20disaster%20or%20terroristic%20or%20military%20actions.md)
 - [&sect; 07509 - Expenditures incurred by the United States Postal Service](%C2%A7%2007509%20-%20Expenditures%20incurred%20by%20the%20United%20States%20Postal%20Service.md)
 - [&sect; 07510 - Exemption from tax of domestic goods purchased for the United States](%C2%A7%2007510%20-%20Exemption%20from%20tax%20of%20domestic%20goods%20purchased%20for%20the%20United%20States.md)
 - [&sect; 07511 - Repealed. Pub. L. 87&#8211;456, title III, &sect;302(d), May 24, 1962, 76 Stat. 77](%C2%A7%2007511%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93456%2C%20title%20III%2C%20%C2%A7302%28d%29%2C%20May%2024%2C%201962%2C%2076%20Stat.%2077.md)

@@ -62,7 +62,7 @@ Subsec. (a)(1). Pub. L. 102–587, §2205(b)(16), in first sentence, made techni
 
 Pub. L. 102–587, §2205(b)(1)(A), substituted “coastal state” for “coastal State” in two places.
 
-Subsec. (b)(1). Pub. L. 102–587, §2205(b)(17), (18), struck out “(hereinafter in this section referred to as the‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a) of this section”.
+Subsec. (b)(1). Pub. L. 102–587, §2205(b)(17), (18), struck out “(hereinafter in this section referred to as the ‘Fund’)” after “Management Fund’ ” and inserted “and fees deposited into the Fund under section 1456(i)(3) of this title” after “subsection (a) of this section”.
 
 Subsec. (b)(2)(B)(vi). Pub. L. 102–587, §2205(b)(1)(B), substituted “coastal states” for “coastal States”.
 

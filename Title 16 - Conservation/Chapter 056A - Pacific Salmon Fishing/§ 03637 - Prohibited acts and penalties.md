@@ -22,7 +22,7 @@ Any person who commits any act that is unlawful under subsection (a) of this sec
 
 #### (c) Criminal penalty
 
-Any person who commits an act that is unlawful under paragraph (2), (3), (4), or (6) of subsection (a) of this section shall be guilty of an offense punishable as provided by section 309(b) of the Magnuson Act (16 U.S.C. 1859(b)).
+Any person who commits an act that is unlawful under paragraph (2), (3), (4), or (6) of subsection (a) of this section shall be guilty of anoffense punishable as provided by section 309(b) of the Magnuson Act (16 U.S.C. 1859(b)).
 
 #### (d) Forfeiture
 

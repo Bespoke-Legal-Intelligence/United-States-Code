@@ -22,7 +22,7 @@ Except as otherwise provided in this section, the net direct interest expense wi
 
 #### (B) Period to which election applies
 
-&emsp;&emsp;An election under this paragraph shall apply to the taxable year for which it ismade and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election.
+&emsp;&emsp;An election under this paragraph shall apply to the taxable year for which it is made and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election.
 
 #### (c) Certain rules made applicable
 

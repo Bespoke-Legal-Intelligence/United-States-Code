@@ -53,6 +53,8 @@
 
 #### Amendments
 
+2001—Pub. L. 107–107, div. A, title X, §1048(a)(1), Dec. 28, 2001, 115 Stat. 1222, struck out period after “1111” in item for chapter 56.
+
 2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, added item for chapter 56.
 
 1999—Pub. L. 106–65, div. A, title V, §586(c)(1), title VII, §721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.

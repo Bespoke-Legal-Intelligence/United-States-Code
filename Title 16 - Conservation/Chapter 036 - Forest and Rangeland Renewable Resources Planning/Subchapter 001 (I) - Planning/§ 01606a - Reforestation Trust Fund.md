@@ -2,7 +2,7 @@
 
 #### (a) Establishment; source of funds
 
-There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to the Trust Fund under subsection (b)(1) of this section and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2) of this section.
+There is established in the Treasury of the United States a trust fund, to be known as the Reforestation Trust Fund (hereinafter in this section referred to as the “Trust Fund”), consisting of such amounts as are transferred to theTrust Fund under subsection (b)(1) of this section and any interest earned on investment of amounts in the Trust Fund under subsection (c)(2) of this section.
 
 #### (b) Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates
 
@@ -20,7 +20,7 @@ There is established in the Treasury of the United States a trust fund, to be kn
 
 (B) Any obligation acquired by the Trust Fund (except special obligations issued exclusively to the Trust Fund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.
 
-(C) The interest on, and the proceeds from the sale or redemption of, any obligations held inTrust Fund shall be credited to and form a part of the Trust Fund.
+(C) The interest on, and the proceeds from the sale or redemption of, any obligations held in Trust Fund shall be credited to and form a part of the Trust Fund.
 
 #### (d) Obligations from Trust Fund
 
@@ -48,7 +48,7 @@ In subsec. (c)(2)(A), “chapter 31 of title 31” substituted for “the Second
 
 1988—Subsec. (b)(1). Pub. L. 100–418 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to the limitation in paragraph (2), the Secretary of the Treasury shall transfer to the Trust Fund an amount equal to the sum of the tariffs received in the Treasury after September 30, 1979, under subparts A and B of part 1 of schedule 2 of the Tariff Schedules of the United States (19 U.S.C. 1202) and under part 3 of such schedule.”
 
-1985—Subsec. (d). Pub. L. 99–190 amended subsec. (d) generally, substituting provisions authorizing the Secretary to obligate available sums in the Trust Fund, for provisions requiring the Secretary to expend all available amounts in each of fiscal years 1983, 1984, and 1985.
+1985—Subsec. (d). Pub. L. 99–190 amended subsec. (d) generally, substituting provisions authorizing the Secretary to obligate available sums in the Trust Fund, forprovisions requiring the Secretary to expend all available amounts in each of fiscal years 1983, 1984, and 1985.
 
 Subsec. (e). Pub. L. 99–190 struck out subsec. (e) which related to sense of Congress with respect to disposition of unexpended funds.
 

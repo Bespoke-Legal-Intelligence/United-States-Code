@@ -74,7 +74,7 @@ Pub. L. 105–277, div. J, title II, §2012, Oct. 21, 1998, 112 Stat. 2681–902
 
 “(a)
 
-In General.—The options under paragraphs (2) and (3) of section 112(d) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7212(d)(2) and (3)), as in effect on the date of the enactment ofthis Act \[Oct. 21, 1998\], shall be disregarded in determining the taxable year for which any payment under a production flexibility contract under subtitle B of title I of such Act \[7 U.S.C. 7211 et seq.\] (as so in effect) is properly includible in gross income for purposes of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\].
+In General.—The options under paragraphs (2) and (3) of section 112(d) of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7212(d)(2) and (3)), as in effect on the date of the enactment of this Act \[Oct. 21, 1998\], shall be disregarded in determining the taxable year for which any payment under a production flexibility contract under subtitle B of title I of such Act \[7 U.S.C. 7211 et seq.\] (as so in effect) is properly includible in gross income for purposes of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\].
 
 “(b)
 

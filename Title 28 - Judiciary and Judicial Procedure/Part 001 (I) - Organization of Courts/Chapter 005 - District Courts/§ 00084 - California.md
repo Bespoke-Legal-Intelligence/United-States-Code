@@ -4,7 +4,7 @@ California is divided into four judicial districts to be known as the Northern, 
 
 ### Northern District
 
-(a) The Northern District comprises the counties of Alameda, Contra Costa, Del Norte, Humboldt, Lake Marin, Mendocino, Monterey, Napa, San Benito, Santa Clara, Santa Cruz, San Francisco, San Mateo, and Sonoma.
+(a) The Northern District comprises the counties of Alameda, Contra Costa, Del Norte, Humboldt, Lake, Marin, Mendocino, Monterey, Napa, San Benito, Santa Clara, Santa Cruz, San Francisco, San Mateo, and Sonoma.
 
 &emsp;&emsp;Court for the Northern District shall be held at Eureka, Oakland, San Francisco, and San Jose.
 
@@ -76,13 +76,13 @@ Juries Not Affected.—This Act and the amendments made by this Act shall not af
 
 Section 7 of Pub. L. 96–462 provided that:
 
-“(a) This Act and the amendments made by this Act \[amending this section and sections 95, 105, 113, and 124 of this title and enacting provisions set out as notes under this section and sections 95, 105, and 113 of this title\] shall take effect on October 1, 1981.
+“(a) This Act and the amendments made by this Act \[amending this section and sections 95, 105, 113, and 124 of this title and enacting provisions set out as notesunder this section and sections 95, 105, and 113 of this title\] shall take effect on October 1, 1981.
 
 “(b) Nothing in this Act shall affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act \[Oct. 1, 1981\].”
 
 #### Effective Date of 1966 Amendment
 
-Section 3(i) of Pub. L. 89–372 provided that: “The provisions of this section \[amending this section and enacting provisions set out as a note under this section and section 133 of this title\] shall become effective sixmonths after the date of enactment of this Act \[Mar. 18, 1966\].”
+Section 3(i) of Pub. L. 89–372 provided that: “The provisions of this section \[amending this section and enacting provisions set out as a note under this section and section 133 of this title\] shall become effective six months after the date of enactment of this Act \[Mar. 18, 1966\].”
 
 #### Congressional Findings Concerning Creation of Three Divisions in Central District
 

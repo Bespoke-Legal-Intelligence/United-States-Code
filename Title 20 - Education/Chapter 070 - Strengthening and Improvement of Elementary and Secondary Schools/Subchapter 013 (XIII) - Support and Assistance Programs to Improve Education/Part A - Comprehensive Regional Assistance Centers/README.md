@@ -1,16 +1,12 @@
 Part A—Comprehensive Regional Assistance Centers
 
-#### Part Referred to in Other Sections
+#### Codification
 
-This part is referred to in sections 6317, 6318, 7453, 7455, 8651 of this title.
+Part A of title XIII of Pub. L. 89–10, comprising this part, was renumbered part K of title IX of Pub. L. 103–227, the Educational Research, Development, Dissemination, and Improvement Act of 1994, by Pub. L. 107–110, title X, §1021(a), Jan. 8, 2002, 115 Stat. 1987, and is classified to part G (§6053 et seq.) of subchapter IX of chapter 68 of this title.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08621 - Program authorized](%C2%A7%2008621%20-%20Program%20authorized.md)
-- [&sect; 08622 - Requirements of comprehensive regional assistance centers](%C2%A7%2008622%20-%20Requirements%20of%20comprehensive%20regional%20assistance%20centers.md)
-- [&sect; 08623 - Maintenance of service and application requirements](%C2%A7%2008623%20-%20Maintenance%20of%20service%20and%20application%20requirements.md)
-- [&sect; 08624 - Transition](%C2%A7%2008624%20-%20Transition.md)
-- [&sect; 08625 - Authorization of appropriations](%C2%A7%2008625%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 08621 to 8625 - Transferred](%C2%A7%2008621%20to%208625%20-%20Transferred.md)

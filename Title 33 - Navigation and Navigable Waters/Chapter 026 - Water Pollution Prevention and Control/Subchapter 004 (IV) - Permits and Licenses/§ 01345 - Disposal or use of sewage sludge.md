@@ -54,11 +54,11 @@ Each State desiring to administer its own permit program for disposal of sewage 
 
 #### (D) Minimum standards; compliance date
 
-&emsp;&emsp;The management practices and numerical criteria established under subparagraphs (A), (B), and (C) shall be adequate to protect public health and the environment from anyreasonably anticipated adverse effects of each pollutant. Such regulations shall require compliance as expeditiously as practicable but in no case later than 12 months after their publication, unless such regulations require the construction of new pollution control facilities, in which case the regulations shall require compliance as expeditiously as practicable but in no case later than two years from the date of their publication.
+&emsp;&emsp;The management practices and numerical criteria established under subparagraphs (A), (B), and (C) shall be adequate to protect public health and the environment from any reasonably anticipated adverse effects of each pollutant. Such regulations shall require compliance as expeditiously as practicable but in no case later than 12 months after their publication, unless such regulations require the construction of new pollution control facilities, in which case the regulations shall require compliance as expeditiously as practicable but in no case later than two years from the date of their publication.
 
 #### (3) Alternative standards
 
-&emsp;For purposes of this subsection, if, in the judgment of the Administrator, it is not feasible to prescribe or enforce a numerical limitation for a pollutant identified under paragraph (2), the Administrator may instead promulgate a design, equipment, management practice, or operational standard, or combination thereof, which in the Administrator's judgment is adequate to protect public health and the environment from any reasonably anticipated adverse effects of such pollutant. In the event the Administrator promulgates a design or equipment standard under this subsection, the Administrator shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
+&emsp;For purposes of this subsection, if, in the judgment of the Administrator, it is not feasible to prescribe or enforce a numerical limitation for a pollutant identified under paragraph (2), the Administrator may instead promulgate a design, equipment, management practice, or operational standard, or combination thereof, which in the Administrator's judgment is adequate to protect public health and the environment from any reasonably anticipated adverse effects of such pollutant. Inthe event the Administrator promulgates a design or equipment standard under this subsection, the Administrator shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
 
 #### (4) Conditions on permits
 
@@ -96,13 +96,13 @@ The determination of the manner of disposal or use of sludge is a local determin
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat.997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (f)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended. Part C of the Act is classified generally to part C (§300h et seq.) of subchapter XII of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (f)(1), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
-The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
 

@@ -24,7 +24,7 @@ Fund Management.—
 
 &emsp;&emsp;(ii) the conduct of the Alaskan fisheries pursuant to the 1999 Pacific Salmon Treaty Agreement, without further clarification or modification of the management regimes contained therein; and
 
-&emsp;&emsp;(iii) the decision by the North Pacific Fisheries Management Council to continue to defer its management authority over salmon to the State of Alaska are not likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonidspecies listed under Public Law 93–205, as amended \[16 U.S.C. 1531 et seq.\], in any fishery subject to the Pacific Salmon Treaty.
+&emsp;&emsp;(iii) the decision by the North Pacific Fisheries Management Council to continue to defer its management authority over salmon to the State of Alaska are not likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonid species listed under Public Law 93–205, as amended \[16 U.S.C. 1531 et seq.\], in any fishery subject to the Pacific Salmon Treaty.
 
 (2) If the requests for orders in subparagraph (1)(A) are withdrawn after December 31, 1999, or if such orders are not entered by March 1, 2000, amounts in the Northern Fund and the Southern Fund shall be transferred to the general fund of the United States Treasury.
 
@@ -70,7 +70,7 @@ Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93�
 
 Section was enacted as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2000, and not as part of the Pacific Salmon Treaty Act of 1985 which comprises this chapter.
 
-Section is comprised of section 1000(a)(1) \[title VI, §623\] of div. B of Pub. L. 106–113. Subsec. (c) of section 1000(a)(1) \[title VI, §623\] of div. B of Pub. L. 106–113 amended section 3632 of this title.
+Section is comprised of section 1000(a)(1) \[title VI, §623\] of div. B of Pub. L. 106–113. Section 1000(a)(1) \[title VI, §623(c)\] of div. B of Pub. L. 106–113 amended section 3632 of this title.
 
 #### Amendments
 

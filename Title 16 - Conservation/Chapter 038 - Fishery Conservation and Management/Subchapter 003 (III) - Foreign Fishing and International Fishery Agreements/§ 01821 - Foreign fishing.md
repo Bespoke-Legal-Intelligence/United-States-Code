@@ -30,7 +30,7 @@ Foreign fishing described in subsection (a) of this section may be conducted pur
 
 &emsp;&emsp;&emsp;(i) to board, and search or inspect, any such vessel at any time,
 
-&emsp;&emsp;&emsp;(ii) to make arrests and seizures provided for in section 1861(b) of this title whenever such officer has reasonable cause to believe, as a result of such a search or inspection, that any such vessel or any person has committed an act prohibited by section 1857 of this title, and
+&emsp;&emsp;&emsp;(ii) to make arrests and seizures provided for in section 1861(b) of this titlewhenever such officer has reasonable cause to believe, as a result of such a search or inspection, that any such vessel or any person has committed an act prohibited by section 1857 of this title, and
 
 &emsp;&emsp;&emsp;(iii) to examine and make notations on the permit issued pursuant to section 1824 of this title for such vessel;
 
@@ -210,7 +210,7 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-StevensFishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
@@ -254,7 +254,7 @@ Subsec. (i)(2)(B). Pub. L. 99–659, §103(a)(3), amended subpar. (B) generally.
 
 &emsp;“(i) the time during which the vessel engages in such fishing will be of such short duration that the placing of a United States observer aboard the vessel would be impractical, or
 
-&emsp;“(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out of observer functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or”
+&emsp;“(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out ofobserver functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or”
 
 Subsec. (j). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 

@@ -1,6 +1,6 @@
 ### §1918. Disloyalty and asserting the right to strike against the Government
 
-Whoever violates the provision of section 7311 of title 5 that an individual may not accept or hold a position in the Government of the United States or the government of the District of Columbia if he—
+Whoever violates the provision of section 7311 of title 5 that an individual may not accept or hold a position in the Government of the UnitedStates or the government of the District of Columbia if he—
 
 &emsp;(1) advocates the overthrow of our constitutional form of government;
 

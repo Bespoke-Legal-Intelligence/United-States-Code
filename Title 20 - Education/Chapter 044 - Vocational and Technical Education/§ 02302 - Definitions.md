@@ -24,11 +24,11 @@ In this chapter:
 
 #### (4) Career guidance and academic counseling
 
-&emsp;The term “career guidance and academic counseling” means providing access to information regarding career awareness and planning with respect to an individual's occupational and academic future that shall involve guidance and counseling with respect to careeroptions, financial aid, and postsecondary options.
+&emsp;The term “career guidance and academic counseling” means providing access to information regarding career awareness and planning with respect to an individual's occupational and academic future that shall involve guidance and counseling with respect to career options, financial aid, and postsecondary options.
 
 #### (5) Charter school
 
-&emsp;The term “charter school” has the meaning given the term in section 8066 <sup>1</sup> of this title.
+&emsp;The term “charter school” has the meaning given the term in section 7221i <sup>1</sup> of this title.
 
 #### (6) Cooperative education
 
@@ -48,7 +48,7 @@ In this chapter:
 
 #### (8) Educational service agency
 
-&emsp;The term “educational service agency” has the meaning given the term in section 8801 of this title.
+&emsp;The term “educational service agency” has the meaning given the term in section 7801 of this title.
 
 #### (9) Eligible agency
 
@@ -106,7 +106,7 @@ In this chapter:
 
 #### (16) Local educational agency
 
-&emsp;The term “local educational agency” has the meaning given the term in section 8801 of this title.
+&emsp;The term “local educational agency” has the meaning given the term in section 7801 of this title.
 
 #### (17) Nontraditional training and employment
 
@@ -114,7 +114,7 @@ In this chapter:
 
 #### (18) Outlying area
 
-&emsp;The term “outlying area” means the United States Virgin Islands, Guam, AmericanSamoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (19) Postsecondary educational institution
 
@@ -132,7 +132,7 @@ In this chapter:
 
 #### (21) Secondary school
 
-&emsp;The term “secondary school” has the meaning given the term in section 8801 of this title.
+&emsp;The term “secondary school” has the meaning given the term in section 7801 of this title.
 
 #### (22) Secretary
 
@@ -216,11 +216,11 @@ In this chapter:
 
 &emsp;&emsp;An organization described in subparagraph (A) may have State and national units that aggregate the work and purposes of instruction in vocational and technical education at the local level.
 
-(Pub. L. 88–210, §3, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3077.)
+(Pub. L. 88–210, §3, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3077; amended Pub. L. 107–110, title X, §1076(k), Jan. 8, 2002, 115 Stat. 2091.)
 
 #### References in Text
 
-Section 8066 of this title, referred to in par. (5), was in the original “section 10306 of the Elementary and Secondary Education Act of 1965”, and was translated as reading section 10310 of that Act to reflect the probable intent of Congress, because Pub. L. 105–278, §3(g), Oct. 22, 1998, 112 Stat. 2687, renumbered section 10306, which defines “charter school”, as section 10310, and added a new section 10306, relating to Federal formula allocation during first year and for successive enrollment expansions, which is classified to section 8065a of this title.
+Section 7221i of this title, referred to in par. (5), was in the original “section 5206 of the Elementary and Secondary Education Act of 1965” and was translated as reading section 5210 of that Act to reflect the probable intent of Congress, because section 5206 does not contain definitions and section 5210 defines “charter school”.
 
 The Social Security Act, referred to in par. (7)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -236,7 +236,17 @@ Section 1001 of this title, referred to in par. (28), contains a paragraph (2) i
 
 Provisions similar to this section were contained in section 2471 of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
+A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
+
+#### Amendments
+
+2002—Par. (5). Pub. L. 107–110, §1076(k)(1), substituted “7221i” for “8066”.
+
+Pars. (8), (16), (21). Pub. L. 107–110, §1076(k)(2), (3), substituted “7801” for “8801”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 

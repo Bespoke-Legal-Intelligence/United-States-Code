@@ -6,7 +6,7 @@ Under regulations prescribed by the President, the head of an executive agency m
 
 &emsp;(2) when necessary to promote expeditious processing of applications or effective and efficient administration of the project; and
 
-&emsp;(3) in a way consistent with protecting the interest of the United States Government and with the program purposes and requirements of law.
+&emsp;(3) in a way consistent with protecting the interest of the United States Government andwith the program purposes and requirements of law.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1039.)
 

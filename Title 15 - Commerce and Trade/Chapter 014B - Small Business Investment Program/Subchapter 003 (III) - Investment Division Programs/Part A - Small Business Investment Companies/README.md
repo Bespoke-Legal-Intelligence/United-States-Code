@@ -16,7 +16,7 @@ Part A—Small Business Investment Companies
 - [&sect; 00687b - Investigations and examinations; power to subpena and take oaths and affirmations; aid of courts; examiners; reports](%C2%A7%2000687b%20-%20Investigations%20and%20examinations%3B%20power%20to%20subpena%20and%20take%20oaths%20and%20affirmations%3B%20aid%20of%20courts%3B%20examiners%3B%20reports.md)
 - [&sect; 00687c - Injunctions and other orders](%C2%A7%2000687c%20-%20Injunctions%20and%20other%20orders.md)
 - [&sect; 00687d - Conflicts of interest](%C2%A7%2000687d%20-%20Conflicts%20of%20interest.md)
-- [&sect; 00687e - Removal and suspension of directors and officers of licensees](%C2%A7%2000687e%20-%20Removal%20and%20suspension%20of%20directors%20and%20officers%20of%20licensees.md)
+- [&sect; 00687e - Removal or suspension of management officials](%C2%A7%2000687e%20-%20Removal%20or%20suspension%20of%20management%20officials.md)
 - [&sect; 00687f - Unlawful acts and omissions by officers, directors, employees, or agents](%C2%A7%2000687f%20-%20Unlawful%20acts%20and%20omissions%20by%20officers%2C%20directors%2C%20employees%2C%20or%20agents.md)
 - [&sect; 00687g - Penalties and forfeitures](%C2%A7%2000687g%20-%20Penalties%20and%20forfeitures.md)
 - [&sect; 00687h - Jurisdiction and service of process](%C2%A7%2000687h%20-%20Jurisdiction%20and%20service%20of%20process.md)

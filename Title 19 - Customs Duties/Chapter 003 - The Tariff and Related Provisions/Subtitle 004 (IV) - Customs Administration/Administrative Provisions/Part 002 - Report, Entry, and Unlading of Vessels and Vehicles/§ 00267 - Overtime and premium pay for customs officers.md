@@ -10,7 +10,7 @@
 
 #### (A) Minimum duration
 
-&emsp;&emsp;Any work for which compensation is authorized under paragraph (1) and for which the customs officer is required to return to the officer's place of work shall be treated as being not less than 2 hours in duration; but only if such work begins at least 1 hour after the end of any previous regularly scheduled work assignment and ends at least 1 hour before the beginning of the following regularly scheduled work assignment.
+&emsp;&emsp;Any work for which compensation is authorized under paragraph (1) and for which the customs officer is required to return to the officer's place of work shall be treated asbeing not less than 2 hours in duration; but only if such work begins at least 1 hour after the end of any previous regularly scheduled work assignment and ends at least 1 hour before the beginning of the following regularly scheduled work assignment.
 
 #### (B) Compensation for commuting time
 
@@ -80,13 +80,13 @@ As used in this section:
 
 &emsp;(2) The term “holiday” means any day designated as a holiday under a Federal statute or Executive order.
 
-(Feb. 13, 1911, ch. 46, §5, 36 Stat. 901; Feb. 7, 1920, ch. 61, 41 Stat. 402; Pub. L. 91–271, title III, §316,June 2, 1970, 84 Stat. 293; Pub. L. 103–66, title XIII, §13811(a), Aug. 10, 1993, 107 Stat. 668.)
+(Feb. 13, 1911, ch. 46, §5, 36 Stat. 901; Feb. 7, 1920, ch. 61, 41 Stat. 402; Pub. L. 91–271, title III, §316, June 2, 1970, 84 Stat. 293; Pub. L. 103–66, title XIII, §13811(a), Aug. 10, 1993, 107 Stat. 668.)
 
 #### Codification
 
 Section derived from R.S. §2872, as amended by act June 26, 1884, ch. 121, §25, 23 Stat. 59.
 
-Prior to the general revision of section 5 of act Feb. 13, 1911, by section 13811(a) of Pub. L. 103–66, provisions of section 5 of act Feb. 13, 1911, relating to extra compensation for boarding officers performing services at night or on Sundays and holidays, were classified to section 261 of this title.
+Prior to the general revision of section 5 of act Feb. 13, 1911, by section 13811(a) of Pub. L. 103–66, provisions of section 5 of act Feb. 13, 1911, relating to extra compensation for boarding officers performing services atnight or on Sundays and holidays, were classified to section 261 of this title.
 
 #### Amendments
 

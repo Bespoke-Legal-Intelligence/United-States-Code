@@ -32,7 +32,7 @@
 
 #### References in Text
 
-The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(2), is Pub. L.96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes under former section 4101 of this title. For the purposes of title III, see section 301 of Pub. L. 96–330, set out as a note under section 7314 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
+The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(2), is Pub. L. 96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes under former section 4101 of this title. For the purposes of title III, seesection 301 of Pub. L. 96–330, set out as a note under section 7314 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
 
 #### Amendments
 

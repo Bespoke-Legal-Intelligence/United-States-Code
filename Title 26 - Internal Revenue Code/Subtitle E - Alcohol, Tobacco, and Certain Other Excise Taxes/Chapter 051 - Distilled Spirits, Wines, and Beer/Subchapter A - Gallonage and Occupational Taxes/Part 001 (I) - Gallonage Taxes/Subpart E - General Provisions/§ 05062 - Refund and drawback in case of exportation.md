@@ -56,7 +56,7 @@ Amendment by Pub. L. 89–44 effective July 1, 1965, see section 805(g)(1) of Pu
 
 #### Effective Date of 1964 Amendment
 
-Section 2 of Pub. L. 88–539 provided that: “The amendment made by the first section of this Act\[amending this section\] shall apply with respect to articles exported or destroyed after the date of the enactment of this Act \[Aug. 31, 1964\].”
+Section 2 of Pub. L. 88–539 provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to articles exported or destroyed after the date of the enactment of this Act \[Aug. 31, 1964\].”
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 #### (d) Injunction proceedings; authority of court to prohibit persons from serving as officers and directors; money penalties in civil actions
 
-(1) Whenever it shall appear to the Commission that any person is engaged or is about to engage in acts or practices constituting a violation of any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, or the rules of the Municipal Securities Rulemaking Board, it may in its discretion bring an action in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices as may constitute a violation of any provision of this chapter or the rules or regulations thereunder to the Attorney General, who may, in his discretion, institute the necessary criminal proceedings under this chapter.
+(1) Whenever it shall appear to the Commission that any person is engaged or is about to engage in acts or practices constituting a violation of any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, or the rules of the Municipal Securities Rulemaking Board, it mayin its discretion bring an action in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices as may constitute a violation of any provision of this chapter or the rules or regulations thereunder to the Attorney General, who may, in his discretion, institute the necessary criminal proceedings under this chapter.
 
 (2)
 
@@ -40,7 +40,7 @@ First tier.—The amount of the penalty shall be determined by the court in ligh
 
 &emsp;&emsp;(ii)
 
-Second tier.—Notwithstanding clause (i), the amount of penalty for each such violation shall not exceed the greater of (I)$50,000 for a natural person or $250,000 for any other person, or (II) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in subparagraph (A) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
+Second tier.—Notwithstanding clause (i), the amount of penalty for each such violation shall not exceed the greater of (I) $50,000 for a natural person or $250,000 for any other person, or (II) the gross amount of pecuniary gain to such defendant as a result of the violation, if the violation described in subparagraph (A) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement.
 
 &emsp;&emsp;(iii)
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 3(a)(1) of Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as a note under section 78<i>o</i> of this title.
+Amendment by section 3(a)(1) of Pub. L. 100–704 not applicable to actions occurring before Nov. 19, 1988, seesection 9 of Pub. L. 100–704 set out as a note under section 78<i>o</i> of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -30,7 +30,7 @@ Georgia is divided into three judicial districts to be known as the Northern, Mi
 
 &emsp;&emsp;Court for the Athens Division shall be held at Athens.
 
-&emsp;&emsp;(2) The Macon Division comprises the counties of Baldwin, Bibb, Bleckley, Butts, Crawford, Hancock, Houston, Jasper,Jones, Lamar, Monroe, Peach, Pulaski, Putnam, Twiggs, Upson, Washington, and Wilkinson.
+&emsp;&emsp;(2) The Macon Division comprises the counties of Baldwin, Bibb, Bleckley, Butts, Crawford, Hancock, Houston, Jasper, Jones, Lamar, Monroe, Peach, Pulaski, Putnam, Twiggs, Upson, Washington, and Wilkinson.
 
 &emsp;&emsp;Court for the Macon Division shall be held at Macon.
 

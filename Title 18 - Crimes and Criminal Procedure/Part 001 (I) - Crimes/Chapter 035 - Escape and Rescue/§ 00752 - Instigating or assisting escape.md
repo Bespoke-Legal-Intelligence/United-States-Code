@@ -10,7 +10,7 @@
 
 Based on title 18, U.S.C., 1940 ed., §§246, 247, 252, 661, 662c, 753i, 910 (R.S. §5277; Mar. 4, 1909, ch. 321, §§141, 143, 35 Stat. 1114; May 14, 1930, ch. 274, §10, 46 Stat. 327; May 27, 1930, ch. 339, §10, 46 Stat. 390; Mar. 22, 1934, ch. 73, §2, 48 Stat. 455; May 18, 1934, ch. 303, §1, 48 Stat. 782).
 
-Section consolidated escape and rescue provisions of sections 246, 247, 252, 661, 662c, 753i, and 910 of title 18, U.S.C., 1940 ed. Remaining provisions of those sections are in sections 1071, 1072, 1502, 1792, 3183, and 3195 of this title.
+Section consolidated escape and rescue provisions of sections 246, 247, 252, 661, 662c, 753i, and 910 of title 18,U.S.C., 1940 ed. Remaining provisions of those sections are in sections 1071, 1072, 1502, 1792, 3183, and 3195 of this title.
 
 No two sections provided the same punishment. Every section except said section 252 made the offense a misdemeanor by providing for fines varying from $500 to $1,000 and terms of imprisonment varying from 6 months to 1 year. Said section 252, representing the latest expression by Congress, provided for 10 years’ imprisonment.
 
@@ -38,5 +38,5 @@ Changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 3050 of this title; title 8 section 1537; title 28 section 2902; title 42 section 3425.
+This section is referred to in sections 14, 3050 of this title; title 8 section 1537.
 

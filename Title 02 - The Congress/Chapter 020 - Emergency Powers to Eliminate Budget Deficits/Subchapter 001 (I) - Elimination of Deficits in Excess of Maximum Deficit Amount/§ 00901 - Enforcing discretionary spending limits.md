@@ -16,7 +16,7 @@
 
 #### (3) Military personnel
 
-&emsp;If the President uses the authority to exempt any military personnel from sequestration under section 905(f) of this title, each account within subfunctional category 051 (otherthan those military personnel accounts for which the authority provided under section 905(f) of this title has been exercised) shall be further reduced by a dollar amount calculated by multiplying the enacted level of non-exempt budgetary resources in that account at that time by the uniform percentage necessary to offset the total dollar amount by which outlays are not reduced in military personnel accounts by reason of the use of such authority.
+&emsp;If the President uses the authority to exempt any military personnel from sequestration under section 905(f) of this title, each account within subfunctional category 051 (other than those military personnel accounts for which the authority provided under section 905(f) of this title has been exercised) shall be further reduced by a dollar amount calculated by multiplying the enacted level of non-exempt budgetary resources in that account at that time by the uniform percentage necessary to offset the total dollar amount by which outlays are not reduced in military personnel accounts by reason of the use of such authority.
 
 #### (4) Part-year appropriations
 
@@ -114,7 +114,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 #### (C) Continuing disability reviews
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disabilityreviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 1998, $290,000,000 in additional new budget authority and $338,000,000 in additional outlays;
 
@@ -178,7 +178,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;&emsp;(i) If a bill or resolution making appropriations for any fiscal year appropriates an amount for the conservation spending category that is less than the limit for the conservation spending category as specified in subsection (c) of this section, then the adjustment for new budget authority and outlays for the following fiscal year for that category shall be the amount of new budget authority and outlays that equals the difference between the amount appropriated and the amount of that category specified in subsection (c) of this section.
 
-&emsp;&emsp;(ii) If a bill or resolution making appropriations for any fiscal year appropriates an amount for any conservation spending sub-category that is less than the limit for that conservation spending sub-category as specified in subsections (c)(11)–(c)(16) of this section, then the adjustment for new budget authority for the following fiscal year for that sub-category shall be the amount of new budget authority that equals the difference between the amount appropriated and the amount of that sub-category specified in subsection (c)(11)–(c)(16) of this section.
+&emsp;&emsp;(ii) If a bill or resolution making appropriations for any fiscal year appropriates anamount for any conservation spending sub-category that is less than the limit for that conservation spending sub-category as specified in subsections (c)(11)–(c)(16) of this section, then the adjustment for new budget authority for the following fiscal year for that sub-category shall be the amount of new budget authority that equals the difference between the amount appropriated and the amount of that sub-category specified in subsection (c)(11)–(c)(16) of this section.
 
 &emsp;&emsp;(iii) The total amount provided for any conservation activity within the conservation spending category may not exceed any authorized ceiling for that activity.
 
@@ -228,13 +228,13 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 &emsp;(6) with respect to fiscal year 2002—
 
-&emsp;&emsp;(A) for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;
+&emsp;&emsp;(A) for the discretionary category: $681,441,000,000 in new budget authority and $670,206,000,000 in outlays;
 
 &emsp;&emsp;(B) for the highway category: $26,977,000,000 in outlays;
 
-&emsp;&emsp;(C) for the mass transit category: $5,709,000,000 in outlays; and and <sup>3</sup>
+&emsp;&emsp;(C) for the mass transit category: $5,709,000,000 in outlays; and
 
-&emsp;&emsp;(D) for the conservation spending category: $1,760,000,000, in new budget authority and $1,232,000,000 in outlays;
+&emsp;&emsp;(D) for the conservation spending category: $1,760,000,000, in new budget authority and $1,473,000,000 in outlays;
 
 &emsp;(7) with respect to fiscal year 2003—
 
@@ -260,11 +260,11 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 &emsp;(15) with respect to each fiscal year 2002 through 2006 for the Federal Deferred Maintenance sub-category of the conservation spending category: $150,000,000 in new budget authority and the outlays flowing therefrom;
 
-&emsp;(16) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 in new budget authority and the outlays flowing therefrom;
+&emsp;(16) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 innew budget authority and the outlays flowing therefrom;
 
 > as adjusted in strict conformance with subsection (b) of this section.
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341.)
 
 #### Termination of Section
 
@@ -281,6 +281,12 @@ Section 211 of the Personal Responsibility and Work Opportunity Reconciliation A
 Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to section 907(e) of this title.
 
 #### Amendments
+
+2002—Subsec. (c)(6)(A). Pub. L. 107–117, §101(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;”.
+
+Subsec. (c)(6)(C). Pub. L. 107–117, §101(a)(2), struck out second “and” at end.
+
+Subsec. (c)(6)(D). Pub. L. 107–117, §101(a)(3), substituted “$1,473,000,000” for “$1,232,000,000”.
 
 2000—Subsec. (b)(2)(H). Pub. L. 106–291, §801(b), added subpar. (H).
 
@@ -322,7 +328,7 @@ Subsec. (b)(2)(H). Pub. L. 104–121 added subpar. (H).
 
 Subsec. (b)(2)(H)(i). Pub. L. 104–193, §211(d)(5)(B)(i), substituted “$175,000,000” for “$25,000,000” and “$310,000,000” for “$160,000,000” in subcl. (II), and “$245,000,000” for “$145,000,000” and “$470,000,000” for “$370,000,000” in subcl. (III).
 
-Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, §211(d)(5)(B)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
+Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, §211(d)(5)(B)(ii), amended subcl. (I) generally. Prior toamendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
 
 1994—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end “This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.”
 
@@ -422,11 +428,9 @@ Mass Transit Category.—For the purposes of section 251(b) of the Balanced Budg
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 633, 643, 645, 691a, 691c, 900, 902, 903, 904, 907 of this title; title 16 section 556c; title 23 section 110; title 38 sections 113, 1729A; title 39 section 2009a; title 42 sections 5203, 8621; title 43 section 1474a.
+This section is referred to in sections 633, 643, 645, 691a, 691c, 900, 902, 903, 904, 907 of this title; title 16 section 556c; title 23 section 110; title 33 section 2736; title 38 sections 113, 1729A; title 39 section 2009a; title 42 sections 5203, 8621; title 43 section 1474a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “year”.</i>
-
-<i><sup>3</sup></i><i> So in original.</i>
 

@@ -68,7 +68,7 @@ Section 1. The Secretary of the Treasury, with the concurrence of the Secretary 
 
 (a) to prevent the importation into the Customs Territory of the United States, except for the Commonwealth of Puerto Rico, of certain cheeses, originating in member states of the European Communities, upon which restitution payments have been made for export to (1) Puerto Rico, the Virgin Islands, other United States possessions and territories or (2) any country other than the United States;
 
-(b) to prevent the importation of such cheeses into the Commonwealth of Puerto Rico if such cheeses are imported into the Commonwealth of Puerto Rico for transshipment to other areas of the Customs Territory of the United States.
+(b) to prevent the importation of such cheeses into the Commonwealth of Puerto Rico if such cheeses areimported into the Commonwealth of Puerto Rico for transshipment to other areas of the Customs Territory of the United States.
 
 Sec. 2. Heads of departments and heads of agencies are hereby authorized to redelegate within their respective departments or agencies the functions herein assigned to them, except that the function of issuing regulations delegated to the Secretary of the Treasury by Section 1 of this order may be redelegated only to officials required to be appointed by and with the advice and consent of the Senate, as provided by 3 U.S.C. 301.
 

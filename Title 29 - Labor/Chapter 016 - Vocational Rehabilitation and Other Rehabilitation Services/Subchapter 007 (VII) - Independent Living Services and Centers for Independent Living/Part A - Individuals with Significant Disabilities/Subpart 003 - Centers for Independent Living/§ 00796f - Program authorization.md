@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the funds appropriated for fiscal year 1999 and for each subsequent fiscal year to carry out this subpart, the Commissioner shall allot such sums as may be necessary to States andother entities in accordance with subsections (b) through (d) of this section.
+From the funds appropriated for fiscal year 1999 and for each subsequent fiscal year to carry out this subpart, the Commissioner shall allot such sums as may be necessary to States and other entities in accordance with subsections (b) through (d) of this section.
 
 #### (b) Training
 
@@ -40,7 +40,7 @@ From the funds appropriated for fiscal year 1999 and for each subsequent fiscal 
 
 #### (C) Minimums
 
-&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart and except as provided in subparagraph (B), for a fiscal year in which the amounts appropriated to carry out this subpart exceed the amounts appropriated for fiscal year 1992 to carry out part B of this subchapter, as in effect on the day before October 29, 1992.
+&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart and except as provided in subparagraph (B), for a fiscal year in which the amounts appropriated to carry out this subpart exceed the amounts appropriated for fiscal year 1992 to carry out part B of this subchapter, as in effect on the day before October 29, 1992—
 
 &emsp;&emsp;&emsp;(i) if such excess is not less than $8,000,000, the allotment to any State under subparagraph (A) shall be not less than $450,000 or 1/3 of 1 percent of the sums made available for the fiscal year for which the allotment is made, whichever is greater, and the allotment of any State under this section for any fiscal year that is less than $450,000 or 1/3 of 1 percent of such sums shall be increased to the greater of the 2 amounts;
 
@@ -64,7 +64,7 @@ From the funds appropriated for fiscal year 1999 and for each subsequent fiscal 
 
 #### (4) Proportional reduction
 
-&emsp;To provide allotments to States in accordance with paragraph (1)(B), to provide minimum allotments to States (as increased under paragraph (3)) under paragraph (1)(C), or to provide minimum allotments to States under paragraph (2)(B), the Commissioner shall proportionately reduce the allotments of the remaining States under paragraph (1)(A), with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by paragraph (1)(B).
+&emsp;To provide allotments to States in accordance with paragraph (1)(B), to provide minimum allotments to States (as increased under paragraph (3)) under paragraph (1)(C), or to provide minimum allotments to States underparagraph (2)(B), the Commissioner shall proportionately reduce the allotments of the remaining States under paragraph (1)(A), with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by paragraph (1)(B).
 
 #### (d) Reallotment
 

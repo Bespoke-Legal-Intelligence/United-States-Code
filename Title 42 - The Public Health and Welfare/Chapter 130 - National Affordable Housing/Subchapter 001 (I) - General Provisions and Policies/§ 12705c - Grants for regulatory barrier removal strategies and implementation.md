@@ -56,7 +56,7 @@ Section is comprised of section 1204 of Pub. L. 102–550. Subsection (i) of sec
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–569, §102(a), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: “The amounts set aside under section 5307 of this title for the purpose of this subsection shall be available for grants under subsection (b) and (c) of this section.”
+2000—Subsec. (a). Pub. L. 106–569, §102(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The amounts set aside under section 5307 of this title for the purpose of this subsection shall be available for grants under subsection (b) and (c) of this section.”
 
 Subsec. (b). Pub. L. 106–569, §102(b)(1), (2), substituted “Grant authority” for “State grants” in heading and inserted “and units of general local government (including consortia of such governments)” after “States” in introductory provisions.
 

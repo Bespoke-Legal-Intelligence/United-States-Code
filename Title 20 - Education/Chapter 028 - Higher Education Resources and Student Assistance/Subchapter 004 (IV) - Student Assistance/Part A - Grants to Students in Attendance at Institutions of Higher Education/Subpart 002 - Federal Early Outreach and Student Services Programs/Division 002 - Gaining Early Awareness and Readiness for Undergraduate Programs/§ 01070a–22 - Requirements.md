@@ -64,7 +64,7 @@ An eligible entity described in <sup>1</sup> 1070a–21(c)(2) of this title sha
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (g)(1)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (g)(1)(A), is act June 4, 1946, ch.281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 #### Prior Provisions
 

@@ -2,35 +2,17 @@
 
 (a)
 
-Establishment, Designation, and Stationing.—The Administrator of the Federal Aviation Administration shall establish the position of Federal Security Manager at each airport in the United States at which the Administrator decides a Manager is necessary for air transportation security. The Administrator shall designate individuals as Managers for, and station those Managers at, those airports. The Administrator may designate a current field employee of the Administration as a Manager. A Manager reports directly to the Assistant Administrator for Civil Aviation Security. The Administrator shall station an individual as Manager at each airport in the United States that the Secretary of Transportation designates as a category X airport.
+Establishment, Designation, and Stationing.—The Under Secretary of Transportation for Security shall establish the position of Federal Security Manager at each airport in the United States described in section 44903(c). The Under Secretary shall designate individuals as Managers for, and station those Managers at, those airports.
 
 (b)
 
 Duties and Powers.—The Manager at each airport shall—
 
-&emsp;(1) receive intelligence information related to aviation security;
+&emsp;(1) oversee the screening of passengers and property at the airport; and
 
-&emsp;(2) ensure, and assist in, the development of a comprehensive security plan for the airport that—
+&emsp;(2) carry out other duties prescribed by the Under Secretary.
 
-&emsp;&emsp;(A) establishes the responsibilities of each air carrier and airport operator for air transportation security at the airport; and
-
-&emsp;&emsp;(B) includes measures to be taken during periods of normal airport operations and during periods when the Manager decides that there is a need for additional airport security, and identifies the individuals responsible for carrying out those measures;
-
-&emsp;(3) oversee and enforce the carrying out by air carriers and airport operators of United States Government security requirements, including the security plan under clause (2) of this subsection;
-
-&emsp;(4) serve as the on-site coordinator of the Administrator's response to terrorist incidents and threats at the airport;
-
-&emsp;(5) coordinate the day-to-day Government aviation security activities at the airport;
-
-&emsp;(6) coordinate efforts related to aviation security with local law enforcement; and
-
-&emsp;(7) coordinate activities with other Managers.
-
-(c)
-
-Limitation.—A Civil Aviation Security Field Officer may not be assigned security duties and powers at an airport having a Manager.
-
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1216.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1216; Pub. L. 107–71, title I, §§101(f)(4), 103, Nov. 19, 2001, 115 Stat. 603, 605.)
 
 Historical and Revision Notes
 
@@ -62,7 +44,13 @@ In subsection (b), before clause (1), the words “The Manager at each airport s
 
 In subsection (c), the words “duties and powers” are substituted for “responsibilities” for clarity and consistency in the revised title and with other titles of the Code.
 
+#### Amendments
+
+2001—Pub. L. 107–71, §103, amended section generally, substituting provisions relating to designation, establishment, and stationing procedures and duties and powers for provisions which contained a more detailed listing of responsibilities and a prohibition against a Civil Aviation Security Field Officer being assigned security duties and powers at an airport having a Manager.
+
+Subsec. (a). Pub. L. 107–71, §101(f)(4), substituted “Under Secretary” for “Assistant Administrator for Civil Aviation Security”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 44932, 44934 of this title.
+This section is referred to in sections 106, 114, 44934 of this title.
 

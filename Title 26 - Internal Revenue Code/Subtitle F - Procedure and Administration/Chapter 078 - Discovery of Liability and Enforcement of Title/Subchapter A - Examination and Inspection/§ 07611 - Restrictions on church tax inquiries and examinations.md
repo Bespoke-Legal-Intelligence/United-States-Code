@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(ii) a description of the church records and activities which the Secretary seeks to examine,
 
-&emsp;&emsp;&emsp;(iii) an offer to have a conference between the church and the Secretary in order to discuss, and attempt to resolve,concerns relating to such examination, and
+&emsp;&emsp;&emsp;(iii) an offer to have a conference between the church and the Secretary in order to discuss, and attempt to resolve, concerns relating to such examination, and
 
 &emsp;&emsp;&emsp;(iv) a copy of all documents which were collected or prepared by the Internal Revenue Service for use in such examination and the disclosure of which is required by the Freedom of Information Act (5 U.S.C. 552).
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;(i) a judicial proceeding brought by the church against the Secretary with respect to the church tax inquiry or examination is pending or being appealed,
 
-&emsp;&emsp;&emsp;(ii) a judicial proceeding brought by the Secretary against the church (or any official thereof) to compel compliance with any reasonable request of the Secretary in a church tax examination for examination of church records or religious activities is pending or being appealed, or
+&emsp;&emsp;&emsp;(ii) a judicial proceeding brought by the Secretary against the church (or any official thereof) to compel compliance with any reasonable request of the Secretary in a church tax examination for examinationof church records or religious activities is pending or being appealed, or
 
 &emsp;&emsp;&emsp;(iii) the Secretary is unable to take actions with respect to the church tax inquiry or examination by reason of an order issued in any judicial proceeding brought under section 7609,
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section 1033(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending sections 7428 and 7605 of this title\] shall apply with respect to inquiries and examinations beginning after December 31, 1984.”
+Section 1033(d) of Pub. L. 98–369 provided that: “The amendments made by this section \[enacting this section and amending sections 7428 and 7605 of this title\]shall apply with respect to inquiries and examinations beginning after December 31, 1984.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

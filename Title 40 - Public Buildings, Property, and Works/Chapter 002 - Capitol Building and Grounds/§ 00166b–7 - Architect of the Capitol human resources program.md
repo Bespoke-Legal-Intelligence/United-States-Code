@@ -54,7 +54,7 @@ This section may be cited as the “Architect of the Capitol Human Resources Act
 
 #### (2) Evaluation and reporting
 
-&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
+&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensurethat the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
 
 #### (3) Application of laws
 
@@ -128,7 +128,7 @@ Voluntary Separation Incentive Payments.—(1) In this subsection, the term ‘e
 
 &emsp;“(ii) includes an appropriate adjustment to the amount computed under clause (i) if the employee is last serving on other than a full-time basis.
 
-“(6)(A) Subject to subparagraph (B), an employee who has received a voluntary separation incentive payment under this section and accepts employment with the Government of the United States within 5 years after the date of the separation on which the payment is based shall be required to repay the entire amount of the incentive payment to the agency that paid the incentive payment.
+“(6)(A) Subject to subparagraph (B), an employee who has received a voluntary separation incentive payment under this section and accepts employment with the Government of the United States within 5 years after the date of the separation on which the payment is based shall be required to repay the entire amount ofthe incentive payment to the agency that paid the incentive payment.
 
 “(B)(i) If the employment is with an executive agency (as defined by section 105 of title 5, United States Code), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 

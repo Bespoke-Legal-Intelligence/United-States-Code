@@ -26,7 +26,7 @@ The standards to be applied in meeting the preference requirements of this secti
 
 #### (e) Record of placement; availability
 
-A record of each such placement, under State law, of an Indian child shall be maintained by the State in which the placement was made, evidencing the efforts to comply with the order ofpreference specified in this section. Such record shall be made available at any time upon the request of the Secretary or the Indian child's tribe.
+A record of each such placement, under State law, of an Indian child shall be maintained by the State in which the placement was made, evidencing the efforts to comply with the order of preference specified in this section. Such record shall be made available at any time upon the request of the Secretary or the Indian child's tribe.
 
 (Pub. L. 95–608, title I, §105, Nov. 8, 1978, 92 Stat. 3073.)
 

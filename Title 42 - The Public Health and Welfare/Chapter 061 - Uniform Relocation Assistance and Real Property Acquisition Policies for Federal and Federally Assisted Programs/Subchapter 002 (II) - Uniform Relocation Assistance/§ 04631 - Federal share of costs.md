@@ -2,7 +2,7 @@
 
 #### (a) Cost to displacing agency; eligibility
 
-The cost to a displacing agency of providing payments and assistance under this subchapter and subchapter III of this chapter shall be included as part of the cost of a program or project undertaken by a Federal agency or with Federal financial assistance. A displacing agency, other than a Federal agency, shall be eligible for Federal financial assistance with respect to such payments and assistance in the same manner and to the same extent as other program or project costs.
+The cost to a displacing agency of providing payments and assistance under this subchapter and subchapter III of this chapter shall be included as part of the cost of a program or project undertaken by a Federal agency or withFederal financial assistance. A displacing agency, other than a Federal agency, shall be eligible for Federal financial assistance with respect to such payments and assistance in the same manner and to the same extent as other program or project costs.
 
 #### (b) Comparable payments under other laws
 
@@ -16,7 +16,7 @@ Any grant to, or contract or agreement with, a State agency executed before Janu
 
 #### References in Text
 
-Subchapter III of this chapter, referred to in subsecs. (a) and (b), was in the original “title III of this Act”,meaning title III of Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1904, which enacted subchapter III of this chapter, repealed sections 3071 to 3073 of this title, section 141 of Title 23, Highways, and section 596 of Title 33, Navigation and Navigable Waters, and enacted provisions set out as a note under section 4651 of this title. For complete classification of title III to the Code, see Tables.
+Subchapter III of this chapter, referred to in subsecs. (a) and (b), was in the original “title III of this Act”, meaning title III of Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1904, which enacted subchapter III of this chapter, repealed sections 3071 to 3073 of this title, section 141 of Title 23, Highways, and section 596 of Title 33, Navigation and Navigable Waters, and enacted provisions set out as a note under section 4651 of this title. For complete classification of title III to the Code, see Tables.
 
 #### Amendments
 

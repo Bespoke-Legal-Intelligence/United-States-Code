@@ -98,7 +98,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;&emsp;(i) in a hospital or penal institution by a patient or inmate thereof;
 
-&emsp;&emsp;&emsp;(ii) by any individual as an employee included under section 5351(2) of title 5 (relating to certain interns, student nurses,and other student employees of hospitals of the District of Columbia Government), other than as a medical or dental intern or as a medical or dental resident in training;
+&emsp;&emsp;&emsp;(ii) by any individual as an employee included under section 5351(2) of title 5 (relating to certain interns, student nurses, and other student employees of hospitals of the District of Columbia Government), other than as a medical or dental intern or as a medical or dental resident in training;
 
 &emsp;&emsp;&emsp;(iii) by any individual as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or other similar emergency; or
 
@@ -252,7 +252,7 @@ The term “employee” means—
 
 &emsp;&emsp;(D) as a traveling or city salesman, other than as an agent-driver or commission-driver, engaged upon a full-time basis in the solicitation on behalf of, and the transmission to, his principal (except for side-line sales activities on behalf of some other person) of orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar establishments for merchandise for resale or supplies for use in their business operations;
 
-> &emsp;if the contract of service contemplates that substantially all of such services are to be performed personally by such individual; exceptthat an individual shall not be included in the term “employee” under the provisions of this paragraph if such individual has a substantial investment in facilities used in connection with the performance of such services (other than in facilities for transportation), or if the services are in the nature of a single transaction not part of a continuing relationship with the person for whom the services are performed.
+> &emsp;if the contract of service contemplates that substantially all of such services are to be performed personally by such individual; except that an individual shall not be included in the term “employee” under the provisions of this paragraph if such individual has a substantial investment in facilities used in connection with the performance of such services (other than in facilities for transportation), or if the services are in the nature of a single transaction not part of a continuing relationship with the person for whom the services are performed.
 
 #### (k) Covered transportation service
 
@@ -272,7 +272,7 @@ The term “employee” means—
 
 > the service of such employee in connection with the operation of the transportation system shall constitute covered transportation service, commencing with the first day of the third calendar quarter following the calendar quarter in which the acquisition of such part took place, unless on such first day such service of such employee is covered by a general retirement system which does not, with respect to such employee, contain special provisions applicable only to employees described in subparagraph (C) of this paragraph.
 
-(3) All service performed in the employ of a State or political subdivision thereof in connection with its operation of a public transportation system shall constitute covered transportation service if the transportation system was not operated by the State or political subdivision prior to 1951 and, at the time of its first acquisition (after 1950) from private ownership of any part of its transportation system, the State or political subdivision did not have a general retirement system covering substantially all service performed in connection with the operation of the transportation system.
+(3) All service performed in the employ of a State or political subdivision thereof in connection with its operation of a public transportation system shall constitute covered transportation service if the transportation system wasnot operated by the State or political subdivision prior to 1951 and, at the time of its first acquisition (after 1950) from private ownership of any part of its transportation system, the State or political subdivision did not have a general retirement system covering substantially all service performed in connection with the operation of the transportation system.
 
 (4) For the purposes of this subsection—
 
@@ -296,7 +296,7 @@ The term “employee” means—
 
 (4)(A) Paragraph (1) of this subsection shall not apply in the case of any service, performed by an individual as a member of a uniformed service, which is creditable under section 231b(i) of title 45. The Railroad Retirement Board shall notify the Commissioner of Social Security,<sup>2</sup> with respect to all such service which is so creditable.
 
-(B) In any case where benefits under this subchapter are already payable on the basis of such individual's wages and self-employment income at the time such notification (with respect to such individual) is received by the Commissioner of Social Security, the Commissioner ofSocial Security shall certify no further benefits for payment under this subchapter on the basis of such individual's wages and self-employment income, or shall recompute the amount of any further benefits payable on the basis of such wages and self-employment income, as may be required as a consequence of subparagraph (A) of this paragraph. No payment of a benefit to any person on the basis of such individual's wages and self-employment income, certified by the Commissioner of Social Security prior to the end of the month in which the Commissioner receives such notification from the Railroad Retirement Board, shall be deemed by reason of this subparagraph to have been an erroneous payment or a payment to which such person was not entitled. The Commissioner of Social Security shall, as soon as possible after the receipt of such notification from the Railroad Retirement Board, advise such Board whether or not any such benefit will be reduced or terminated by reason of subparagraph (A) of this paragraph, and if any such benefit will be so reduced or terminated, specify the first month with respect to which such reduction or termination will be effective.
+(B) In any case where benefits under this subchapter are already payable on the basis of such individual's wages and self-employment income at the time such notification (with respect to such individual) is received by the Commissioner of Social Security, the Commissioner of Social Security shall certify no further benefits for payment under this subchapter on the basis of such individual's wages and self-employment income, or shall recompute the amount of any further benefits payable on the basis of such wages and self-employment income, as may be required as a consequence of subparagraph (A) of this paragraph. No payment of a benefit to any person on the basis of such individual's wages and self-employment income, certified by the Commissioner of Social Security prior to the end of the month in which the Commissioner receives such notification from the Railroad Retirement Board, shall be deemed by reason of this subparagraph to have been an erroneous payment or a payment to which such person was not entitled. The Commissioner of Social Security shall, as soon as possible after the receipt of such notification from the Railroad Retirement Board, advise such Board whether or not any such benefit will be reduced or terminated by reason of subparagraph (A) of this paragraph, and if any such benefit will be so reduced or terminated, specify the first month with respect to which such reduction or termination will be effective.
 
 #### (m) Member of a uniformed service
 
@@ -394,7 +394,7 @@ Notwithstanding any other provision of this subchapter, the rules of section 350
 
 The Internal Revenue Code of 1986, referred to in text, is classified to Title 26, Internal Revenue Code.
 
-The Civil Service Retirement and Disability Fund, referred to in subsec. (a)(5)(B)(ii), (G), is provided for insection 8348 of Title 5, Government Organization and Employees.
+The Civil Service Retirement and Disability Fund, referred to in subsec. (a)(5)(B)(ii), (G), is provided for in section 8348 of Title 5, Government Organization and Employees.
 
 Section 301 of the Federal Employees’ Retirement System Act of 1986, referred to in subsec. (a)(5)(H)(i), is section 301 of Pub. L. 99–335, which is set out as a note under section 8331 of Title 5.
 
@@ -424,7 +424,7 @@ Subsec. (a)(20)(A). Pub. L. 104–188, §1116(a)(2)(B), amended subpar. (A) gene
 
 1994—Subsec. (a). Pub. L. 103–296, §321(c)(6)(C), substituted “1986” for “1954” after “Code of” in introductory provisions.
 
-Subsec. (a)(5)(B)(i)(V). Pub. L. 103–296, §321(a)(13), made technical amendment to reference to section 450i(e)(2) of title 25 to reflect renumbering of corresponding section of original act.
+Subsec. (a)(5)(B)(i)(V). Pub. L. 103–296, §321(a)(13), made technical amendment to reference to section450i(e)(2) of title 25 to reflect renumbering of corresponding section of original act.
 
 Subsec. (a)(7)(F)(iv). Pub. L. 103–296, §303(a)(1), substituted “$1,000 with respect to service performed during any calendar year commencing on or after January 1, 1995, ending on or before December 31, 1999, and the adjusted amount determined under section 418(c)(8)(B) of this title for any calendar year commencing on or after January 1, 2000, with respect to service performed during such calendar year” for “$100”.
 
@@ -498,7 +498,7 @@ Subsec. (a)(5)(B). Pub. L. 98–369, §2601(a)(1), in amending subpar. (B) gener
 
 Subsec. (a)(5)(C) to (F). Pub. L. 98–369, §2601(a)(2)(A), (B), in provisions following “except that this paragraph shall not apply with respect to—” redesignated cls. (i), (ii), (iii), and (iv) as subpars. (C), (D), (E), and (F), respectively, and redesignated former subcls. (I), (II), and (III) as cls. (i), (ii), and (iii), respectively, of the redesignated subpar. (D).
 
-Subsec. (a)(5)(G). Pub. L. 98–369, §2601(a)(2)(A), (C), in provisions following “except that this paragraph shall not apply with respect to—” redesignated former cl. (v) as subpar. (G), and in subpar. (G) as so redesignated, designated the existing provisions of subpar. (G) as the introductory language and the first phrase of cl. (i) and added the remainder of cl. (i) following “chapter 38 of title 5”, cls. (ii) and (iii), and the provisions following cl. (iii).
+Subsec. (a)(5)(G). Pub. L. 98–369, §2601(a)(2)(A), (C), in provisions following “except that this paragraph shall not apply with respect to—” redesignated former cl. (v) as subpar. (G), and in subpar. (G) as so redesignated, designated the existing provisions of subpar. (G) as theintroductory language and the first phrase of cl. (i) and added the remainder of cl. (i) following “chapter 38 of title 5”, cls. (ii) and (iii), and the provisions following cl. (iii).
 
 Subsec. (a)(7)(D). Pub. L. 98–369, §2663(a)(7)(B), realigned margins of subpar. (D).
 
@@ -626,7 +626,7 @@ Subsecs. (j) to (<i>o</i>). Pub. L. 86–778, §103(j)(2)(A), (B), repealed subs
 
 Subsecs. (h), (i). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
-1958—Subsec. (a)(1). Pub. L. 85–840, §311(a), struck out provisions which excluded from coverage service performed in connection with the production or harvestingof any commodity defined as an agricultural commodity in section 1141j(g) of title 12.
+1958—Subsec. (a)(1). Pub. L. 85–840, §311(a), struck out provisions which excluded from coverage service performed in connection with the production or harvesting of any commodity defined as an agricultural commodity in section 1141j(g) of title 12.
 
 Subsec. (a)(8)(B). Pub. L. 85–840, §312(a), substituted references to the Internal Revenue Code of 1954 for references to the Internal Revenue Code of 1939, and inserted provisions making subparagraph inapplicable to service performed during the period for which a certificate is in effect if such service is performed by an employee who, after the calendar quarter in which the certificate was filed with respect to a group described in section 3121(k)(1)(E) of the Internal Revenue Code of 1954 became a member of such group, and making subparagraph applicable with respect to service performed by an employee as a member of a group described in section 3121(k)(1)(E) with respect to which no certificate is in effect.
 
@@ -698,7 +698,7 @@ Amendment by section 320(b) of Pub. L. 103–296 effective with calendar quarter
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1990 Amendment
 
@@ -738,7 +738,7 @@ Section 13205(d)(2) of Pub. L. 99–272 provided that:
 
 “(A)
 
-In general.—The amendments made by subsection (b) \[amending this section and sections 426, 426–1, and 1395c of this title\] shall be effective after March 31, 1986, and the amendments made by paragraph (3) of that subsection \[subsection does not contain a paragraph (3)\] shall apply to services performed (for medicare qualified government employment) after that date.
+In general.—The amendments made by subsection (b) \[amending this section and sections 426,426–1, and 1395c of this title\] shall be effective after March 31, 1986, and the amendments made by paragraph (3) of that subsection \[subsection does not contain a paragraph (3)\] shall apply to services performed (for medicare qualified government employment) after that date.
 
 “(B)
 
@@ -838,7 +838,7 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 47(d) of Pub. L
 
 Section 311(b) of Pub. L. 85–840 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to service performed after 1958.”
 
-Section 312(b) of Pub. L. 85–840, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendment made by subsection (a) \[amending this section\] shall apply with respect to certificates filed under section 3121(k)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 3121(k)(1) of Title 26, Internal Revenue Code\] after the date of enactment of this Act \[Aug. 28, 1958\].”
+Section 312(b) of Pub. L. 85–840, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to certificates filed under section 3121(k)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[section 3121(k)(1) of Title 26, Internal Revenue Code\] after the date of enactment of this Act \[Aug. 28, 1958\].”
 
 #### Effective Date of 1956 Amendments
 
@@ -868,7 +868,7 @@ Amendment by section 105(b) of act Aug. 1, 1956, ch. 836, applicable with respec
 
 #### Effective Date of 1954 Amendment
 
-Amendment by section 101(a)(4), (5) of act Sept. 1, 1954, applicable only with respect to services (whether performed after 1954 or prior to 1955) for which the remuneration is paid after 1954, and amendment by section 101(b), (c)(1), (2), (e), and (f) of act Sept. 1, 1954, applicable only with respect to services performed after 1954, see section 101(n) of act Sept. 1, 1954, set out as a note under section 405 of this title.
+Amendment by section 101(a)(4), (5) of act Sept. 1, 1954, applicable only with respect to services (whetherperformed after 1954 or prior to 1955) for which the remuneration is paid after 1954, and amendment by section 101(b), (c)(1), (2), (e), and (f) of act Sept. 1, 1954, applicable only with respect to services performed after 1954, see section 101(n) of act Sept. 1, 1954, set out as a note under section 405 of this title.
 
 #### Effective Date of 1950 Amendment
 
@@ -896,7 +896,7 @@ Section 2601(d) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, title 
 
 “(1) Any individual who—
 
-&emsp;“(A) was subject to subchapter III of chapter 83 of title 5, United States Code, or to another retirementsystem established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services), on December 31, 1983 (as determined for purposes of section 210(a)(5)(G) of the Social Security Act \[subsec. (a)(5)(G) of this section\]), and
+&emsp;“(A) was subject to subchapter III of chapter 83 of title 5, United States Code, or to another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services), on December 31, 1983 (as determined for purposes of section 210(a)(5)(G) of the Social Security Act \[subsec. (a)(5)(G) of this section\]), and
 
 &emsp;“(B)(i) received a lump-sum payment under section 8342(a) of such title 5, or under the corresponding provision of the law establishing the other retirement system described in subparagraph (A), after December 31, 1983, and prior to June 15, 1984, or received such a payment on or after June 15, 1984, pursuant to an application which was filed in accordance with such section 8342(a) or the corresponding provision of the law establishing such other retirement system prior to that date, or
 

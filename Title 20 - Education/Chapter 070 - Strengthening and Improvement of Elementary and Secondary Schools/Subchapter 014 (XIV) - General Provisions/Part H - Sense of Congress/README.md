@@ -5,5 +5,4 @@ Part H—Sense of Congress
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08961 - Sense of Congress to increase total share of Federal spending on education](%C2%A7%2008961%20-%20Sense%20of%20Congress%20to%20increase%20total%20share%20of%20Federal%20spending%20on%20education.md)
-- [&sect; 08962 - Sense of Congress; requirement regarding notice](%C2%A7%2008962%20-%20Sense%20of%20Congress%3B%20requirement%20regarding%20notice.md)
+- [&sect; 08961, 8962 - Repealed. Pub. L. 107&#8211;110, title X, &sect;1011(5)(C), Jan. 8, 2002, 115 Stat. 1986](%C2%A7%2008961%2C%208962%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93110%2C%20title%20X%2C%20%C2%A71011%285%29%28C%29%2C%20Jan.%208%2C%202002%2C%20115%20Stat.%201986.md)

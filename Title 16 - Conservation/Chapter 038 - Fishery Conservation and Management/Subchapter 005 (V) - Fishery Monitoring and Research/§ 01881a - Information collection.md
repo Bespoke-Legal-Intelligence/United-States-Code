@@ -10,7 +10,7 @@ If a Council determines that additional information (other than information that
 
 &emsp;(A) to Federal employees and Council employees who are responsible for fishery management plan development and monitoring;
 
-&emsp;(B) to State or Marine Fisheries Commission employees pursuant to an agreement with the Secretary that prevents public disclosure of the identity or business of any person;
+&emsp;(B) to State or Marine Fisheries Commission employees pursuant to an agreement with theSecretary that prevents public disclosure of the identity or business of any person;
 
 &emsp;(C) when required by court order;
 

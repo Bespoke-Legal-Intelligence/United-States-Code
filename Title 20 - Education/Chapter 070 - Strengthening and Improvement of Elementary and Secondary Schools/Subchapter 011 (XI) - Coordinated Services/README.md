@@ -1,18 +1,8 @@
 ### SUBCHAPTER XI—COORDINATED SERVICES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 1413, 8826 of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08401 - Findings and purpose](%C2%A7%2008401%20-%20Findings%20and%20purpose.md)
-- [&sect; 08402 - Definitions](%C2%A7%2008402%20-%20Definitions.md)
-- [&sect; 08403 - Authority](%C2%A7%2008403%20-%20Authority.md)
-- [&sect; 08404 - Project development and implementation](%C2%A7%2008404%20-%20Project%20development%20and%20implementation.md)
-- [&sect; 08405 - Uses of funds](%C2%A7%2008405%20-%20Uses%20of%20funds.md)
-- [&sect; 08406 - Continuing authority](%C2%A7%2008406%20-%20Continuing%20authority.md)
-- [&sect; 08407 - Federal agency coordination](%C2%A7%2008407%20-%20Federal%20agency%20coordination.md)
+- [&sect; 08401 to 8407 - Repealed. Pub. L. 107&#8211;110, title X, &sect;1011(5)(A), Jan. 8, 2002, 115 Stat. 1986](%C2%A7%2008401%20to%208407%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93110%2C%20title%20X%2C%20%C2%A71011%285%29%28A%29%2C%20Jan.%208%2C%202002%2C%20115%20Stat.%201986.md)

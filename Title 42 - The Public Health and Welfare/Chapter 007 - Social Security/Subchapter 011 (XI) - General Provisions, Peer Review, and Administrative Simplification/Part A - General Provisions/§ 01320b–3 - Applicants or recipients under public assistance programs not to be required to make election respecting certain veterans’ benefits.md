@@ -36,7 +36,7 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date
 
-Section 310(a)(2) of Pub. L. 96–272 provided that: “The amendment made by paragraph (1) \[enacting this section\] shall be effective on and after January 1, 1979; except that nothing contained in such amendment shall be construed to authorize or require any payment (or increase in payment) of any aid or assistance or benefits referred to in section 1133(a) of the Social Security Act \[subsec. (a) of this section\] (as added by paragraph (1)) for any benefit period which begins prior to the date of enactment of this Act \[June 17, 1980\].”
+Section 310(a)(2) of Pub. L. 96–272 provided that: “The amendment made by paragraph (1) \[enacting this section\] shall be effective on and after January 1, 1979; except that nothing contained in such amendment shall be construed to authorize or require any payment (or increase in payment) of any aid or assistance or benefits referred to in section 1133(a) of the Social SecurityAct \[subsec. (a) of this section\] (as added by paragraph (1)) for any benefit period which begins prior to the date of enactment of this Act \[June 17, 1980\].”
 
 #### Continuing Medicaid Eligibility for Certain Recipients of Veterans’ Administration Pensions
 

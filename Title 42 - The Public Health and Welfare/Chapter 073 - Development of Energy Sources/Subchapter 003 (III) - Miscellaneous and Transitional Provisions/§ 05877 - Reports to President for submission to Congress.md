@@ -10,7 +10,7 @@ During the first year of operation of the Administration, the Administrator, in 
 
 #### (c) Report by Commission on activities of Commission
 
-The Commission shall, as soon as practicable after the end of each fiscal year, make a reportto the President for submission to the Congress on the activities of the Commission during the preceding fiscal year. Such report shall include a clear statement of the short-range and long-range goals, priorities, and plans of the Commission as they relate to the benefits, costs, and risks of commercial nuclear power. Such report shall also include a clear description of the Commission's activities and findings in the following areas—
+The Commission shall, as soon as practicable after the end of each fiscal year, make a report to the President for submission to the Congress on the activities of the Commission during the preceding fiscal year. Such report shall include a clear statement of the short-range and long-range goals, priorities, and plans of the Commission as they relate to the benefits, costs, and risks of commercial nuclear power. Such report shall also include a clear description of the Commission's activities and findings in the following areas—
 
 &emsp;(1) insuring the safe design of nuclear powerplants and other licensed facilities;
 

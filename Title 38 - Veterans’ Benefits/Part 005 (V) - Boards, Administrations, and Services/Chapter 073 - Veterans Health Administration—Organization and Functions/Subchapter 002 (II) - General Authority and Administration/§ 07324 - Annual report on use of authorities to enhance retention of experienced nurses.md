@@ -1,0 +1,26 @@
+### §7324. Annual report on use of authorities to enhance retention of experienced nurses
+
+(a)
+
+Annual Report.—Not later than January 31 each year, the Secretary, acting through the Under Secretary for Health, shall submit to Congress a report on the use during the preceding year of authorities for purposes of retaining experienced nurses in the Veterans Health Administration, as follows:
+
+&emsp;(1) The authorities under chapter 76 of this title.
+
+&emsp;(2) The authority under VA Directive 5102.1, relating to the Department of Veterans Affairs nurse qualification standard, dated November 10, 1999, or any successor directive.
+
+&emsp;(3) Any other authorities available to the Secretary for those purposes.
+
+(b)
+
+Report Elements.—Each report under subsection (a) shall specify for the period covered by such report, for each Department medical facility and for each geographic service area of the Department, the following:
+
+&emsp;(1) The number of waivers requested under the authority referred to in subsection (a)(2), and the number of waivers granted under that authority, to promote to the Nurse II grade or Nurse III grade under the Nurse Schedule under section 7404(b)(1) of this title any nurse who has not completed a baccalaureate degree in nursing in a recognized school of nursing, set forth by age, race, and years of experience of the individuals subject to such waiver requests and waivers, as the case may be.
+
+&emsp;(2) The programs carried out to facilitate the use of nursing education programs by experienced nurses, including programs for flexible scheduling, scholarships, salary replacement pay, and on-site classes.
+
+(Added Pub. L. 107–135, title I, §125(a)(1), Jan. 23, 2002, 115 Stat. 2452.)
+
+#### Initial Report
+
+Pub. L. 107–135, title I, §125(b), Jan. 23, 2002, 115 Stat. 2453, provided that: “The initial report required under section 7324 of title 38, United States Code, as added by subsection (a), shall be submitted to the National Commission on VA Nursing established under subtitle D \[set out as a note under section 7451 of this title\] as well as to Congress.”
+

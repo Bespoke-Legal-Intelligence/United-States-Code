@@ -6,7 +6,7 @@ The head of any Federal department or agency shall provide such information to t
 
 #### Amendments
 
-2000—Pub. L. 106–475 inserted at end “The cost of providing information to the Secretary under this sectionshall be borne by the department or agency providing the information.”
+2000—Pub. L. 106–475 inserted at end “The cost of providing information to the Secretary under this section shall be borne by the department or agency providing the information.”
 
 1991—Pub. L. 102–40 renumbered section 3006 of this title as this section.
 

@@ -22,7 +22,7 @@
 
 (3) From funds appropriated under section 5082 of this title, the Director shall expend not less than $375,000 in each fiscal year to carry out paragraph (2).
 
-(Pub. L. 93–113, title II, §221, Oct. 1, 1973, 87 Stat. 403; Pub. L. 96–143, §18(b), Dec. 13, 1979, 93 Stat. 1083; Pub. L. 97–35, title VI, §608(f)(2), Aug. 13, 1981, 95 Stat. 488; Pub. L. 101–204, title V, §505, Dec. 7, 1989, 103 Stat. 1817; Pub. L. 103–82, title III, §§341(b)(2), 348, Sept. 21, 1993, 107 Stat. 904, 905.)
+(Pub. L. 93–113, title II, §221, Oct. 1, 1973, 87 Stat. 403; Pub. L. 96–143, §18(b), Dec. 13, 1979, 93 Stat.1083; Pub. L. 97–35, title VI, §608(f)(2), Aug. 13, 1981, 95 Stat. 488; Pub. L. 101–204, title V, §505, Dec. 7, 1989, 103 Stat. 1817; Pub. L. 103–82, title III, §§341(b)(2), 348, Sept. 21, 1993, 107 Stat. 904, 905.)
 
 #### References in Text
 

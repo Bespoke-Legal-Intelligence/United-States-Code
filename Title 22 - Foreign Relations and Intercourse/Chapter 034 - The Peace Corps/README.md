@@ -105,7 +105,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2275, 2371, 2398, 4071c, 5424 of this title; title 5 sections 8332, 8334, 8411,8422; title 20 sections 1087ee, 1092; title 26 sections 912, 3121, 3122, 6051; title 42 sections 292d, 292r, 297b, 405, 409, 410, 12639.
+This chapter is referred to in sections 2275, 2371, 2398, 4071c, 5424 of this title; title 5 sections 8332, 8334, 8411, 8422; title 20 sections 1087ee, 1092; title 26 sections 912, 3121, 3122, 6051; title 42 sections 292d, 292r, 297b, 405, 409, 410, 12639.
 
 
 ---

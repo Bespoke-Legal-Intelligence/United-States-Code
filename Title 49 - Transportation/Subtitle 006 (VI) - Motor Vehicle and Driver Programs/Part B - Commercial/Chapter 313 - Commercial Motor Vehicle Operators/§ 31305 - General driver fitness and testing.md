@@ -18,7 +18,7 @@ Minimum Standards for Testing and Fitness.—The Secretary of Transportation sha
 
 &emsp;(5) shall ensure that an individual who operates or will operate a commercial motor vehicle carrying a hazardous material—
 
-&emsp;&emsp;(A) is qualified to operate the vehicle under regulations on motor vehicle transportation of hazardous material prescribed under chapter 51 of this title; and
+&emsp;&emsp;(A) is qualified to operate the vehicle under regulations on motor vehicle transportation of hazardous material prescribed under chapter 51 of this title;
 
 &emsp;&emsp;(B) has a working knowledge of—
 
@@ -28,7 +28,9 @@ Minimum Standards for Testing and Fitness.—The Secretary of Transportation sha
 
 &emsp;&emsp;&emsp;(iii) the operation of emergency equipment used in response to emergencies arising out of the transportation of hazardous material; and
 
-&emsp;&emsp;&emsp;(iv) appropriate response procedures to follow in those emergencies;
+&emsp;&emsp;&emsp;(iv) appropriate response procedures to follow in those emergencies; and
+
+&emsp;&emsp;(C) is licensed by a State to operate the vehicle after having first been determined under section 5103a of this title as not posing a security risk warranting denial of the license.
 
 &emsp;(6) shall establish minimum scores for passing the tests;
 
@@ -50,7 +52,7 @@ Requirements for Operating Vehicles.—(1) Except as provided in paragraph (2) o
 
 &emsp;(B) has a driver's license that is not suspended, revoked, or canceled.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016; Pub. L. 106–159, title II, §201(d), Dec. 9, 1999, 113 Stat. 1760.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1016; Pub. L. 106–159, title II, §201(d), Dec. 9, 1999, 113 Stat. 1760; Pub. L. 107–56, title X, §1012(b), Oct. 26, 2001, 115 Stat. 397.)
 
 Historical and Revision Notes
 
@@ -80,11 +82,13 @@ In subsection (b)(1), the words “taken and” are omitted as unnecessary. The 
 
 #### Amendments
 
+2001—Subsec. (a)(5)(C). Pub. L. 107–56 added subpar. (C).
+
 1999—Subsec. (b)(1). Pub. L. 106–159 struck out “to operate the vehicle” after “written and driving tests” and inserted “to operate the vehicle and has a commercial driver's license to operate the vehicle” before period at end.
 
 #### CDL School Bus Endorsement
 
-Pub. L. 106–159, title II, §214, Dec. 9, 1999, 113 Stat. 1766, provided that: “The Secretary shall conduct a rulemaking to establish a special commercial driver's license endorsement for drivers of school buses. The endorsement shall, at a minimum—
+Pub. L. 106–159, title II, §214, Dec. 9, 1999, 113 Stat. 1766, provided that: “The Secretary shall conduct arulemaking to establish a special commercial driver's license endorsement for drivers of school buses. The endorsement shall, at a minimum—
 
 &emsp;“(1) include a driving skills test in a school bus; and
 

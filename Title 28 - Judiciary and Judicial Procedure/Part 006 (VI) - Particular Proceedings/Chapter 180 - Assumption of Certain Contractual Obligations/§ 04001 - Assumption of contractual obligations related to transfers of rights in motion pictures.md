@@ -2,7 +2,7 @@
 
 (a)
 
-Assumption of Obligations.—(1) In the case of a transfer of copyright ownership under United States law in a motion picture (as the terms “transfer of copyright ownership” and “motion picture” are defined in section 101 of title 17) that is produced subject to 1 or more collective bargaining agreements negotiated under the laws of the United States, if the transfer is executed on or after the effective date of this chapter and is not limited to public performance rights, the transfer instrument shall be deemed to incorporate the assumption agreements applicable to the copyright ownership being transferred that are required by the applicable collective bargaining agreement, and the transferee shall be subject to the obligations under each such assumption agreement to make residual payments and provide related notices, accruing after the effective date of the transfer and applicable to the exploitation of the rights transferred, and any remedies under each such assumption agreement for breach of those obligations, as those obligations and remedies are set forth in the applicable collective bargaining agreement, if—
+Assumption of Obligations.—(1) In the case of a transfer of copyright ownership under United States law in a motion picture (as the terms “transfer of copyright ownership” and “motion picture” are defined in section 101 of title 17) that is produced subject to 1 or more collective bargaining agreements negotiated under the laws of the United States, if the transfer is executed on or after the effective date of this chapter and is not limited to public performance rights, the transfer instrument shall be deemed to incorporate the assumption agreements applicable to the copyright ownership being transferred that are required by the applicable collective bargaining agreement, and the transferee shall be subject to the obligationsunder each such assumption agreement to make residual payments and provide related notices, accruing after the effective date of the transfer and applicable to the exploitation of the rights transferred, and any remedies under each such assumption agreement for breach of those obligations, as those obligations and remedies are set forth in the applicable collective bargaining agreement, if—
 
 &emsp;(A) the transferee knows or has reason to know at the time of the transfer that such collective bargaining agreement was or will be applicable to the motion picture; or
 
@@ -64,5 +64,5 @@ Study.—The Comptroller General, in consultation with the Register of Copyright
 
 #### References in Text
 
-The effective date of this chapter, referred to in subsecs. (a) and (h), is Oct. 28, 1998. See Effective Date of 1998 Amendment note set out under section 108 of Title 17, Copyrights.
+The effective date of this chapter, referred to in subsecs. (a) and (h), is Oct. 28, 1998. See Effective Date of1998 Amendment note set out under section 108 of Title 17, Copyrights.
 

@@ -32,7 +32,7 @@
 
 &emsp;The Secretary shall provide the assistance described in paragraph (1) for rural community development activities, which shall include providing—
 
-&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provide assistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
+&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provideassistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
 
 &emsp;&emsp;(B) grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technical assistance to small, rural communities concerning meeting their community facility needs.
 
@@ -56,9 +56,11 @@ A prior section 680 of Pub. L. 97–35 was classified to section 9909 of this ti
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 106–554, §1(a)(1) \[title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–23, provided in part: “That the Secretary shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act, as amended \[42 U.S.C. 9921\], to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant.”
+Pub. L. 107–116, title II, Jan. 10, 2002, 115 Stat. 2196, provided in part: “That the Secretary shall establish procedures regarding the disposition of intangible property which permits grant funds, or intangible assets acquired with funds authorized under section 680 of the Community Services Block Grant Act, as amended \[42 U.S.C. 9921\], to become the sole property of such grantees after a period of not more than 12 years after the end of the grant for purposes and uses consistent with the original grant”.
 
 Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 106–554, §1(a)(1) \[title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–23.
 
 Pub. L. 106–113, div. B, §1000(a)(4) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–235.
 

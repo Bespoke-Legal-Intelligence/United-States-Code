@@ -90,7 +90,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 &emsp;&emsp;&emsp;(ii) so much of the taxpayer's average daily marginal production of domestic natural gas as does not exceed the taxpayer's depletable natural gas quantity (determined without regard to paragraph (3)(A)(ii)),
 
-> &emsp;&emsp;and the applicable percentage shall be deemed to be specified in subsection (b) of section 613 for purposes of subsection (a) of that section.
+> &emsp;&emsp;and the applicable percentage shall be deemed to be specified in subsection (b) ofsection 613 for purposes of subsection (a) of that section.
 
 #### (B) Election to have paragraph apply to pro rata portion of marginal production
 
@@ -144,7 +144,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (A) Production of crude oil in excess of depletable oil quantity
 
-&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletableoil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oil produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
+&emsp;&emsp;If the taxpayer's average daily production of domestic crude oil exceeds his depletable oil quantity, the allowance under paragraph (1)(A) with respect to oil produced during the taxable year from each property in the United States shall be that amount which bears the same ratio to the amount of depletion which would have been allowable under section 613(a) for all of the taxpayer's oil produced from such property during the taxable year (computed as if section 613 applied to all of such production at the rate specified in paragraph (1) or (6), as the case may be) as his depletable oil quantity bears to the aggregate number of barrels representing the average daily production of domestic crude oil of the taxpayer for such year.
 
 #### (B) Production of natural gas in excess of depletable natural gas quantity
 
@@ -152,7 +152,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (C) Taxable income from the property
 
-&emsp;&emsp;If both oil and gas are produced from the property during the taxable year, for purposes of subparagraphs (A) and (B) the taxable income from the property, in applying the taxable income limitation in section 613(a), shall be allocated between the oil production and the gas production in proportion to the gross income during the taxable year from each.
+&emsp;&emsp;If both oil and gas are produced from the property during the taxable year, for purposes of subparagraphs (A) and (B) the taxable income from the property, in applying the taxable income limitation in section 613(a), shall be allocated between the oil production and the gas production in proportionto the gross income during the taxable year from each.
 
 #### (D) Partnerships
 
@@ -186,7 +186,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (9) Special rule for fiscal year taxpayers
 
-&emsp;In applying this subsection to a taxable year which is not a calendar year, each portion ofsuch taxable year which occurs during a single calendar year shall be treated as if it were a short taxable year.
+&emsp;In applying this subsection to a taxable year which is not a calendar year, each portion of such taxable year which occurs during a single calendar year shall be treated as if it were a short taxable year.
 
 #### (10) Certain production not taken into account
 
@@ -206,7 +206,7 @@ Except as otherwise provided in this section, the allowance for depletion under 
 
 #### (1) Limitation based on taxable income
 
-&emsp;The deduction for the taxable year attributable to the application of subsection (c) shall not exceed 65 percent of the taxpayer's taxable income for the year computed without regard to—
+&emsp;The deduction for the taxable year attributable to the application of subsection (c)shall not exceed 65 percent of the taxpayer's taxable income for the year computed without regard to—
 
 &emsp;&emsp;(A) any depletion on production from an oil or gas property which is subject to the provisions of subsection (c),
 
@@ -408,7 +408,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1980 Amendment
 
-Section 3(b) of Pub. L. 96–603, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendments made by subsection (a) \[amending this section\] shall apply to transfers in taxable years ending after December 31, 1974, but only for purposes of applying section 613A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to periods after December 31, 1979.”
+Section 3(b) of Pub. L. 96–603, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to transfers in taxable years ending after December 31, 1974, but only for purposes of applying section 613A of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to periods after December 31, 1979.”
 
 #### Effective Date of 1978 Amendment
 
@@ -434,7 +434,7 @@ For provisions that nothing in amendment by section 11815(a) of Pub. L. 101–50
 
 #### Transfer of Functions
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred toSecretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Coordination With Other Provision
 

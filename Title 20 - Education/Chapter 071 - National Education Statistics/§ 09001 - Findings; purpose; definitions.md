@@ -24,11 +24,11 @@ For the purpose of this chapter and unless otherwise specified—
 
 &emsp;(3) the term “institution of higher education” has the same meaning given such term in section 1001 of this title;
 
-&emsp;(4) the term “local educational agency” has the same meaning given such term in section 8801 of this title;
+&emsp;(4) the term “local educational agency” has the same meaning given such term in section 7801 of this title;
 
 &emsp;(5) the term “Secretary” means the Secretary of Education;
 
-&emsp;(6) the term “State educational agency” has the same meaning given such term in section 8801 of this title; and
+&emsp;(6) the term “State educational agency” has the same meaning given such term in section 7801 of this title; and
 
 &emsp;(7) the terms “State” and “United States”—
 
@@ -36,7 +36,7 @@ For the purpose of this chapter and unless otherwise specified—
 
 &emsp;&emsp;(B) for the purpose of section 9010 of this title, have the same meaning given such terms in subparagraph (A), except that such terms include Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and Palau.
 
-(Pub. L. 103–382, title IV, §402, Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(a)(6)(L), Oct. 7, 1998, 112 Stat. 1619.)
+(Pub. L. 103–382, title IV, §402, Oct. 20, 1994, 108 Stat. 4029; Pub. L. 105–244, title I, §102(a)(6)(L), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 107–110, title X, §1076(r), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### References in Text
 
@@ -44,7 +44,13 @@ The reference to section 3412(b)(1)(E) of this title in subsec. (c)(1) probably 
 
 #### Amendments
 
+2002—Subsec. (c)(4), (6). Pub. L. 107–110 substituted “7801” for “8801”.
+
 1998—Subsec. (c)(3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -52,7 +58,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Short Title
 
-Section 401 of Pub. L. 103–382 provided that: “This title \[enacting this chapter\] may be cited as the ‘National Education Statistics Act of 1994’.”
+Pub. L. 103–382, title IV, §401, Oct. 20, 1994, 108 Stat. 4029, provided that: “This title \[enacting this chapter\] may be cited as the ‘National Education Statistics Act of 1994’.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -240,7 +240,7 @@ The term “nitrogen stabilizer” means any substance or mixture of substances 
 
 &emsp;(2) ammonium thiosulfate; or
 
-&emsp;(3) any substance or mixture of substances.—<sup>2</sup>
+&emsp;(3) any substance or mixture of substances.— <sup>2</sup>
 
 &emsp;&emsp;(A) that was not registered pursuant to section 136a of this title prior to January 1, 1992; and
 
@@ -456,7 +456,7 @@ This section is referred to in sections 136a, 136<i>o</i>, 136w, 136w–1, 138 o
 
 <i><sup>2</sup></i><i> So in original. Period probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “, or”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by “, or”.</i>
 
 <i><sup>4</sup></i><i> So in original. No subsec. (ii) was enacted.</i>
 

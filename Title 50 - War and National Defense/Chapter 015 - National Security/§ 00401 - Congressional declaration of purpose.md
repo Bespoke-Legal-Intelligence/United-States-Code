@@ -1,6 +1,6 @@
 ### §401. Congressional declaration of purpose
 
-In enacting this legislation, it is the intent of Congress to provide a comprehensive programfor the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military department shall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified direction under civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and a clear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
+In enacting this legislation, it is the intent of Congress to provide a comprehensive program for the future security of the United States; to provide for the establishment of integrated policies and procedures for the departments, agencies, and functions of the Government relating to the national security; to provide a Department of Defense, including the three military Departments of the Army, the Navy (including naval aviation and the United States Marine Corps), and the Air Force under the direction, authority, and control of the Secretary of Defense; to provide that each military department shall be separately organized under its own Secretary and shall function under the direction, authority, and control of the Secretary of Defense; to provide for their unified direction under civilian control of the Secretary of Defense but not to merge these departments or services; to provide for the establishment of unified or specified combatant commands, and a clear and direct line of command to such commands; to eliminate unnecessary duplication in the Department of Defense, and particularly in the field of research and engineering by vesting its overall direction and control in the Secretary of Defense; to provide more effective, efficient, and economical administration in the Department of Defense; to provide for the unified strategic direction of the combatant forces, for their operation under unified command, and for their integration into an efficient team of land, naval, and air forces but not to establish a single Chief of Staff over the armed forces nor an overall armed forces general staff.
 
 (July 26, 1947, ch. 343, §2, 61 Stat. 496; Aug. 10, 1949, ch. 412, §2, 63 Stat. 579; Pub. L. 85–599, §2, Aug. 6, 1958, 72 Stat. 514.)
 
@@ -44,11 +44,11 @@ Pub. L. 97–200, §1, June 23, 1982, 96 Stat. 122, provided: “That this Act \
 
 #### Short Title of 1949 Amendment
 
-Section 1 of act Aug. 10, 1949, provided that: “This Act \[enacting sections 408 and 412 of this title and sections 171–1, 171t, 172, 172a to 172d, and 172f to 172j of former Title 5, Executive Departments and Government Officers and Employees, amending this section, sections 151, 402, 403d, 405, 410, 459, 481, and 494 of this title, sections 171, 171a, 171b to 171d, 171e to 171j, 171n, 171r, 172e, 411b, and 626c of former Title 5, section 1748b of Title 12, Banks and Banking, section 1517 of Title 15, Commerce and Trade, sections 474, 481 to 484, and 487 of Title 40, Public Buildings, Property, and Works, section 364a of Title 43, Public Lands, sections 1156 and 1157 of former Title 49, Transportation, and section 1193 of the Appendix to this title, and enacting provisions set out as notes under this section and sections 171 and 171c of former Title 5\] may be cited as the ‘National Security Act Amendments of 1949’.”
+Section 1 of act Aug. 10, 1949, provided that: “This Act \[enacting sections 408 and 412 of this title and sections 171–1, 171t, 172, 172a to 172d, and 172f to 172j of former Title 5, Executive Departments and Government Officers and Employees, amending this section, sections 151, 402, 403d, 405, 410, 459, 481, and 494 of this title, sections 171, 171a, 171b to 171d, 171e to 171j, 171n, 171r, 172e, 411b, and 626c of former Title 5, section 1748b of Title 12, Banks and Banking, section 1517 of Title 15,Commerce and Trade, sections 474, 481 to 484, and 487 of Title 40, Public Buildings, Property, and Works, section 364a of Title 43, Public Lands, sections 1156 and 1157 of former Title 49, Transportation, and section 1193 of the Appendix to this title, and enacting provisions set out as notes under this section and sections 171 and 171c of former Title 5\] may be cited as the ‘National Security Act Amendments of 1949’.”
 
 #### Short Title
 
-Section 1 of act July 26, 1947, provided: “That this Act \[enacting this section, sections 401a to 403, 404, 405,and 408 to 412 of this title, and sections 171, 171–1, 171–2, 171a, 171b to 171d, 171e to 171j, 171k to 171m, 171n, 172, 172a to 172d, 172f to 172j, 181–1, 181–2, 411a, 411b, 626, 626a to 626c, and 626d of former Title 5, Executive Department and Government Officers and Employees, amending sections 1, 11, and 172e of former Title 5, section 1517 of Title 15, Commerce and Trade, and section 72 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 135 of Title 10, Armed Forces\] may be cited as the ‘National Security Act of 1947’.”
+Section 1 of act July 26, 1947, provided: “That this Act \[enacting this section, sections 401a to 403, 404, 405, and 408 to 412 of this title, and sections 171, 171–1, 171–2, 171a, 171b to 171d, 171e to 171j, 171k to 171m, 171n, 172, 172a to 172d, 172f to 172j, 181–1, 181–2, 411a, 411b, 626, 626a to 626c, and 626d of former Title 5, Executive Department and Government Officers and Employees, amending sections 1, 11, and 172e of former Title 5, section 1517 of Title 15, Commerce and Trade, and section 72 of former Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 135 of Title 10, Armed Forces\] may be cited as the ‘National Security Act of 1947’.”
 
 Sections of National Security Act of 1947, which were classified to former Title 5, were repealed and restated in Title 10, Armed Forces, except as noted, as follows:
 
@@ -143,7 +143,7 @@ Composition.—The Commission shall be composed of 11 members, as follows:
 
 &emsp;“(4) Three members appointed by the Speaker of the House of Representatives, in consultation with the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and two from private life.
 
-&emsp;“(5) Two members appointed by the Minority Leader of the House of Representatives, in consultationwith the ranking member of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and one from private life.
+&emsp;“(5) Two members appointed by the Minority Leader of the House of Representatives, in consultation with the ranking member of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and one from private life.
 
 > The Director of the National Reconnaissance Office shall be an ex officio member of the Commission.
 
@@ -453,7 +453,7 @@ Implementation.—In carrying out subsection (a), the Commission shall specifica
 
 &emsp;“(11) Whether resources for intelligence activities should continue to be allocated as part of the defense budget or be treated by the President and Congress as a separate budgetary program.
 
-&emsp;“(12) Whether the existing levels of resources allocated for intelligence collection or intelligence analysis, or to provide a capability to conduct covert actions, are seriously at variance with United States needs.
+&emsp;“(12) Whether the existing levels of resources allocated for intelligence collection or intelligenceanalysis, or to provide a capability to conduct covert actions, are seriously at variance with United States needs.
 
 &emsp;“(13) Whether there are areas of redundant or overlapping activity or areas where there is evidence of serious waste, duplication, or mismanagement.
 
@@ -541,7 +541,7 @@ Administrative and Support Services.—The Director of Central Intelligence shal
 
 #### “SEC. 907. PAYMENT OF COMMISSION EXPENSES.
 
-“The compensation, travel expenses, per diem allowances of members and employees of the Commission, and other expenses of the Commission shall be paid out of funds available to the Director of Central Intelligence for the payment of compensation, travel allowances, and per diem allowances, respectively, of employees of the Central Intelligence Agency.
+“The compensation, travel expenses, per diem allowances of members and employees of the Commission,and other expenses of the Commission shall be paid out of funds available to the Director of Central Intelligence for the payment of compensation, travel allowances, and per diem allowances, respectively, of employees of the Central Intelligence Agency.
 
 #### “SEC. 908. TERMINATION OF THE COMMISSION.
 
@@ -671,7 +671,7 @@ Final Report.—The Commission shall transmit to the President and to Congress a
 
 “(c)
 
-Contents of Reports.—The report under subsection (b) shall contain a detailed statement of the findings and conclusions of the Commission concerning the matters to be studied by the Commission under section 4, together with its recommendations for such legislation and administrative actions as it considers appropriate. Such report shall include a comprehensive description and discussion of the matters set forth in section 4.
+Contents of Reports.—The report under subsection (b) shall contain a detailed statement of thefindings and conclusions of the Commission concerning the matters to be studied by the Commission under section 4, together with its recommendations for such legislation and administrative actions as it considers appropriate. Such report shall include a comprehensive description and discussion of the matters set forth in section 4.
 
 “(d)
 
@@ -976,7 +976,7 @@ The United States intelligence effort shall provide the President and the Nation
 
 (b) All means, consistent with applicable United States law and this Order, and with full consideration of the rights of United States persons, shall be used to develop intelligence information for the President and the National Security Council. A balanced approach between technical collection efforts and other means should be maintained and encouraged.
 
-(c) Special emphasis should be given to detecting and countering espionage and other threats and activities directed by foreign intelligence services against theUnited States Government, or United States corporations, establishments, or persons.
+(c) Special emphasis should be given to detecting and countering espionage and other threats and activities directed by foreign intelligence services against the United States Government, or United States corporations, establishments, or persons.
 
 (d) To the greatest extent possible consistent with applicable United States law and this Order, and with full consideration of the rights of United States persons, all agencies and departments should seek to ensure full and free exchange of information in order to derive maximum benefit from the United States intelligence effort.
 
@@ -1058,7 +1058,7 @@ In order to discharge the duties and responsibilities prescribed by law, the Dir
 
 (<i>l</i>) Ensure the timely exploitation and dissemination of data gathered by national foreign intelligence collection means, and ensure that the resulting intelligence is disseminated immediately to appropriate government entities and military commands;
 
-(m) Establish mechanisms which translate national foreign intelligence objectives and priorities approved by the NSC into specific guidance for the Intelligence Community, resolve conflicts in tasking priority, provide to departments and agencies having information collection capabilities that are not part of the National Foreign Intelligence Program advisory tasking concerning collection of national foreign intelligence, and provide for the development of plans and arrangementsfor transfer of required collection tasking authority to the Secretary of Defense when directed by the President;
+(m) Establish mechanisms which translate national foreign intelligence objectives and priorities approved by the NSC into specific guidance for the Intelligence Community, resolve conflicts in tasking priority, provide to departments and agencies having information collection capabilities that are not part of the National Foreign Intelligence Program advisory tasking concerning collection of national foreign intelligence, and provide for the development of plans and arrangements for transfer of required collection tasking authority to the Secretary of Defense when directed by the President;
 
 (n) Develop, with the advice of the program managers and departments and agencies concerned, the consolidated National Foreign Intelligence Program budget, and present it to the President and the Congress;
 
@@ -1228,7 +1228,7 @@ In carrying out the responsibilities assigned in section 1.11, the Secretary of 
 
 (10) Protection of the security of its installations, activities, property, information, and employees by appropriate means, including such investigations of applicants, employees, contractors, and other persons with similar associations with the NSA as are necessary;
 
-(11) Prescribing, within its field of authorized operations, security regulations covering operating practices, including the transmission, handling and distribution of signals intelligence and communications security material within and among the elementsunder control of the Director of the NSA, and exercising the necessary supervisory control to ensure compliance with the regulations;
+(11) Prescribing, within its field of authorized operations, security regulations covering operating practices, including the transmission, handling and distribution of signals intelligence and communications security material within and among the elements under control of the Director of the NSA, and exercising the necessary supervisory control to ensure compliance with the regulations;
 
 (12) Conduct of foreign cryptologic liaison relationships, with liaison for intelligence purposes conducted in accordance with policies formulated by the Director of Central Intelligence; and
 
@@ -1310,7 +1310,7 @@ Agencies within the Intelligence Community are authorized to collect, retain or 
 
 (d) Information needed to protect the safety of any persons or organizations, including those who are targets, victims or hostages of international terrorist organizations;
 
-(e) Information needed to protect foreign intelligence or counterintelligence sources or methods from unauthorized disclosure. Collection within the United States shall be undertaken by the FBI except thatother agencies of the Intelligence Community may also collect such information concerning present or former employees, present or former intelligence agency contractors or their present or former employees, or applicants for any such employment or contracting;
+(e) Information needed to protect foreign intelligence or counterintelligence sources or methods from unauthorized disclosure. Collection within the United States shall be undertaken by the FBI except that other agencies of the Intelligence Community may also collect such information concerning present or former employees, present or former intelligence agency contractors or their present or former employees, or applicants for any such employment or contracting;
 
 (f) Information concerning persons who are reasonably believed to be potential sources or contacts for the purpose of determining their suitability or credibility;
 
@@ -1392,7 +1392,7 @@ No one acting on behalf of agencies within the Intelligence Community may join o
 
 Human Experimentation
 
-No agency within the Intelligence Community shall sponsor, contract for or conduct research on human subjects except in accordance with guidelines issued by the Department of Health and Human Services. The subject's informed consent shall be documented as required by those guidelines.
+No agency within the Intelligence Community shall sponsor, contract for or conduct research on human subjects except in accordance with guidelines issued by the Department of Health and Human Services. Thesubject's informed consent shall be documented as required by those guidelines.
 
 #### 2\.11
 
@@ -1490,7 +1490,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12334
 
-Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R. 5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, set out below.
+Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R.5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, set out below.
 
 #### Ex. Ord. No. 12863. President's Foreign Intelligence Advisory Board
 

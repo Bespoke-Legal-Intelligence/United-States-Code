@@ -2,7 +2,7 @@
 
 #### (a) Proceedings by Attorney General; venue; conditions subsequent
 
-Whenever a licensee fails to comply with any applicable provision of this chapter, or any applicable rule, regulation, restriction, or condition issued or imposed by the Secretary under the authority of this chapter, the Attorney General, at the request of the Secretary, may, file an appropriate action in the United States district court nearest to the location of the proposed or actual deepwater port, as the case may be, or in the district in which the licensee resides or may be found, to—
+Whenever a licensee fails to comply with any applicable provision of this chapter, or any applicable rule, regulation, restriction, or condition issued or imposed by the Secretary under the authority of this chapter, the Attorney General, at the request of the Secretary, may file an appropriate action in the United States district court nearest to the location of the proposed or actual deepwater port, as the case may be, or in the district in which the licensee resides or may be found, to—
 
 &emsp;(1) suspend the license; or
 

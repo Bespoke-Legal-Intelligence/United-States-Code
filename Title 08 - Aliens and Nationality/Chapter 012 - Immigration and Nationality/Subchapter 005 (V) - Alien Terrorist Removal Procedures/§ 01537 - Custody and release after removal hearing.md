@@ -28,7 +28,7 @@
 
 #### (C) Continued detention
 
-&emsp;&emsp;If no country is willing to receive such an alien, the Attorney General may, notwithstanding any other provision of law, retain the alien in custody. The Attorney General, in coordination with the Secretary of State, shall make periodic efforts to reach agreement with other countries to accept such an alien and at least every 6 months shall provide to the attorney representing the alien at the removal hearing a written report on the Attorney General's efforts. Any alien in custody pursuant to this subparagraph shall be released from custody solely at the discretion of the Attorney General and subject to such conditions as the Attorney General shall deem appropriate.
+&emsp;&emsp;If no country is willing to receive such an alien, the Attorney General may, notwithstanding any other provision of law, retain the alien in custody. The Attorney General, in coordination with the Secretary of State, shall make periodic efforts to reach agreement with other countries to accept such an alien and at least every 6 months shall provide to the attorney representing the alien at the removal hearing a written report on the Attorney General's efforts. Any alien incustody pursuant to this subparagraph shall be released from custody solely at the discretion of the Attorney General and subject to such conditions as the Attorney General shall deem appropriate.
 
 #### (D) Fingerprinting
 

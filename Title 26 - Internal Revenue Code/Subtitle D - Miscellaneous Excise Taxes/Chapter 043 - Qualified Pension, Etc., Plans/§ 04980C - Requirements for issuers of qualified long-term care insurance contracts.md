@@ -26,7 +26,7 @@ The requirements of this subsection are as follows:
 
 &emsp;&emsp;&emsp;(i) Section 13 (relating to application forms and replacement coverage).
 
-&emsp;&emsp;&emsp;(ii) Section 14 (relating to reporting requirements), except that the issuer shallalso report at least annually the number of claims denied during the reporting period for each class of business (expressed as a percentage of claims denied), other than claims denied for failure to meet the waiting period or because of any applicable preexisting condition.
+&emsp;&emsp;&emsp;(ii) Section 14 (relating to reporting requirements), except that the issuer shall also report at least annually the number of claims denied during the reporting period for each class of business (expressed as a percentage of claims denied), other than claims denied for failure to meet the waiting period or because of any applicable preexisting condition.
 
 &emsp;&emsp;&emsp;(iii) Section 20 (relating to filing requirements for marketing).
 

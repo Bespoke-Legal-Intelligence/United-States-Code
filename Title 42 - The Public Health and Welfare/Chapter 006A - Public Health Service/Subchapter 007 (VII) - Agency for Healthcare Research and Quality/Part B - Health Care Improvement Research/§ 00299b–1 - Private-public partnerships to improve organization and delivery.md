@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) an increase in the appropriate use of drugs, biological products, or devices; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the prevention of adverse effects of drugs, biological products, and devicesand the consequences of such effects, such as unnecessary hospitalizations.
+&emsp;&emsp;&emsp;&emsp;(II) the prevention of adverse effects of drugs, biological products, and devices and the consequences of such effects, such as unnecessary hospitalizations.
 
 &emsp;&emsp;(B) The conduct of research on the comparative effectiveness, cost-effectiveness, and safety of drugs, biological products, and devices.
 

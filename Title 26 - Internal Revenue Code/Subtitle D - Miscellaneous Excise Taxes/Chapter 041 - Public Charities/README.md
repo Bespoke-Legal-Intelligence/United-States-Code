@@ -19,7 +19,7 @@ The provisions of a prior chapter 41, Interest Equalization Tax, were set out as
 
 &emsp;Subchapter B, Acquisition by commercial banks, comprising section 4931.
 
-Prior sections 4911 to 4922 and 4931 were repealed by Pub. L. 94–455, §1904(a)(21)(A), Oct. 4, 1976, 90 Stat. 1814,effective with respect to acquisitions of stock and debt obligations made after June 30, 1974. See section 1904(a)(21)(B), set out as an Effective Date of Repeal of Prior Provisions note below.
+Prior sections 4911 to 4922 and 4931 were repealed by Pub. L. 94–455, §1904(a)(21)(A), Oct. 4, 1976, 90 Stat. 1814, effective with respect to acquisitions of stock and debt obligations made after June 30, 1974. See section 1904(a)(21)(B), set out as an Effective Date of Repeal of Prior Provisions note below.
 
 The subject matter of the prior provisions is as follows:
 

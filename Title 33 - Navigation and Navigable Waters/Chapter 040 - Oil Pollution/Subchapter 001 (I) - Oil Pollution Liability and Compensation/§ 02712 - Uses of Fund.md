@@ -16,7 +16,7 @@ The Fund shall be available to the President for—
 
 &emsp;(4) the payment of claims in accordance with section 2713 of this title for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages;
 
-&emsp;(5) the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (<i>l</i>) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
+&emsp;(5) the payment of Federal administrative, operational, and personnel costs and expensesreasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (<i>l</i>) of section 1321 of this title with respect to prevention, removal, and enforcement related to oil discharges, provided that—
 
 &emsp;&emsp;(A) not more than $25,000,000 in each fiscal year shall be available to the Secretary for operating expenses incurred by the Coast Guard;
 
@@ -96,11 +96,11 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), amounts may be obligated from the Fund for the restoration, rehabilitation, replacement, or acquisition of natural resources only in accordance with a plan adopted under section 2706(c) of this title.
+&emsp;Except as provided in paragraph (2), amounts may be obligated from the Fund forthe restoration, rehabilitation, replacement, or acquisition of natural resources only in accordance with a plan adopted under section 2706(c) of this title.
 
 #### (2) Exception
 
-&emsp;Paragraph (1) shall not apply in a situation requiring action to avoid irreversible loss ofnatural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action.
+&emsp;Paragraph (1) shall not apply in a situation requiring action to avoid irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action.
 
 #### (k) Preference for private persons in area affected by discharge
 

@@ -6,7 +6,7 @@ Upon receipt of notice and demand from the Secretary, there shall be paid at the
 
 #### (b) Cross references
 
-&emsp;&emsp;<b>(1) For restrictions on assessment and collection of deficiency assessments of taxes subject to the ju</b><b>risdiction of the Tax Court, see sections 6212 and 6213.</b>
+&emsp;&emsp;<b>(1) For restrictions on assessment and collection of deficiency assessments of taxes subject to the jurisdiction of the Tax Court, see sections 6212 and 6213.</b>
 
 &emsp;&emsp;<b>(2) For provisions relating to assessment of claims allowed in a receivership proceeding, see section 6873.</b>
 

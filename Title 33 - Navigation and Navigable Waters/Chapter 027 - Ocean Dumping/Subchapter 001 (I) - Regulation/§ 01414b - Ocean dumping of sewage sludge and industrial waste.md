@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(i) subject to paragraph (4), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount; and
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
+&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act\[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
 
 &emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3) of this section.
 
@@ -242,7 +242,7 @@
 
 &emsp;&emsp;(A) not to exceed one-third of such total amount shall be used by the Administrator for—
 
-&emsp;&emsp;&emsp;(i) costs incurred or expected to be incurred in undertaking activities directly associated with the issuance under this Act of permits for the transportation ordumping of sewage sludge and industrial waste, including the costs of any environmental assessment of the direct effects of dumping under the permits;
+&emsp;&emsp;&emsp;(i) costs incurred or expected to be incurred in undertaking activities directly associated with the issuance under this Act of permits for the transportation or dumping of sewage sludge and industrial waste, including the costs of any environmental assessment of the direct effects of dumping under the permits;
 
 &emsp;&emsp;&emsp;(ii) preparation of reports under subsection (i) of this section; and
 
@@ -316,7 +316,7 @@
 
 &emsp;&emsp;(B) shall state with reasonable specificity the nature of the violation for which the order is issued; and
 
-&emsp;&emsp;(C) shall require that the person named in the order, as a condition of dumping intoocean waters, or transporting for the purpose of dumping into ocean waters, sewage sludge or industrial waste—
+&emsp;&emsp;(C) shall require that the person named in the order, as a condition of dumping into ocean waters, or transporting for the purpose of dumping into ocean waters, sewage sludge or industrial waste—
 
 &emsp;&emsp;&emsp;(i) shall enter into a compliance agreement or an enforcement agreement under subsection (c) of this section; and
 

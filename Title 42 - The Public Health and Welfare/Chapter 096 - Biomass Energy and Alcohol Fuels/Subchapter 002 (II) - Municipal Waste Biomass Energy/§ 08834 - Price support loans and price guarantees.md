@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of Energy with respect to loans for existing projects; disbursements, etc.
 
-(1) In the case of any existing municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price support loan in amounts determined under paragraph (3) for the operation of such project. Payments under any such loan shall be disbursed on an annual basis, as determined (in accordance with paragraph (3)) on the basis of the amount of biomass energy produced and sold by that project during the 12-month period involved and the type and cost of fuel displaced by the biomass energy sold.
+(1) In the case of any existing municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price support loan inamounts determined under paragraph (3) for the operation of such project. Payments under any such loan shall be disbursed on an annual basis, as determined (in accordance with paragraph (3)) on the basis of the amount of biomass energy produced and sold by that project during the 12-month period involved and the type and cost of fuel displaced by the biomass energy sold.
 
 (2)(A) In the case of any support loan under this section for an existing municipal waste energy project—
 
@@ -12,7 +12,7 @@
 
 &emsp;(iii) commencing at the end of the last of such 12-month periods, the support loan shall be repayable over a period equal to the then remaining useful life of the project (as determined by the Secretary) or 10 years, whichever is shorter; and
 
-&emsp;(iv) commencing at the end of such last 12-month period, such loan shall bear interest at a rate determined by the Secretary of Energy\(taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans) plus not to exceed one per centum, as determined by the Secretary of Energy, and adjusted to the nearest one-eighth of one per centum.
+&emsp;(iv) commencing at the end of such last 12-month period, such loan shall bear interest at a rate determined by the Secretary of Energy (taking into consideration the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans) plus not to exceed one per centum, as determined by the Secretary of Energy, and adjusted to the nearest one-eighth of one per centum.
 
 (3) The amount of the loan payment to be disbursed under this subsection for any year with respect to each type of biomass energy produced and sold by an existing municipal waste energy project shall be equal to—
 

@@ -66,7 +66,7 @@ Basis rule.—The adjusted basis of any partner's interest in a partnership or s
 
 &emsp;“(B)
 
-Treatment of dispositions.—If any interest in a partnership or stock in an S corporation is disposed of before the last taxable year in the spread period, all amounts which would be included in the gross income of the partner or shareholder for subsequent taxable years in the spread period under paragraph (2)(C) and attributable to the interest or stock disposed of shall be included in gross income for the taxable year in which the disposition occurs. For purposes of the preceding sentence, the term ‘spread period’ means the period consisting of the 4 taxable years referred to in paragraph (2)(C).”
+Treatment of dispositions.—If any interest in a partnership or stock in an S corporation is disposed of before the last taxable year in the spread period,all amounts which would be included in the gross income of the partner or shareholder for subsequent taxable years in the spread period under paragraph (2)(C) and attributable to the interest or stock disposed of shall be included in gross income for the taxable year in which the disposition occurs. For purposes of the preceding sentence, the term ‘spread period’ means the period consisting of the 4 taxable years referred to in paragraph (2)(C).”
 
 #### Effective Date of 1984 Amendment
 

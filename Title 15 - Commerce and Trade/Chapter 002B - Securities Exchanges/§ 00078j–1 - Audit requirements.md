@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each audit required pursuant to this chapter of the financial statements of an issuer by an independent public accountant shall include, inaccordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
+Each audit required pursuant to this chapter of the financial statements of an issuer by an independent public accountant shall include, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
 
 &emsp;(1) procedures designed to provide reasonable assurance of detecting illegal acts that would have a direct and material effect on the determination of financial statement amounts;
 
@@ -52,7 +52,7 @@ No independent public accountant shall be liable in a private action for any fin
 
 #### (d) Civil penalties in cease-and-desist proceedings
 
-If the Commission finds, after notice and opportunity for hearing in a proceeding instituted pursuant to section 78u–3 of this title, that an independent public accountant has willfully violated paragraph (3) or (4) of subsection (b) of this section, the Commission may, in addition to entering an order under section 78u–3 of this title, impose a civil penalty against the independent public accountant and any other person that the Commission finds was a cause of such violation. The determination to impose a civil penalty and the amount of the penalty shall be governed by the standards set forth in section 78u–2 of this title.
+If the Commission finds, after notice and opportunity for hearing in a proceeding instituted pursuant to section 78u–3 of this title, that an independent public accountant has willfully violated paragraph (3) or (4) of subsection (b) of this section, the Commission may, in addition to entering an order under section 78u–3 of this title,impose a civil penalty against the independent public accountant and any other person that the Commission finds was a cause of such violation. The determination to impose a civil penalty and the amount of the penalty shall be governed by the standards set forth in section 78u–2 of this title.
 
 #### (e) Preservation of existing authority
 

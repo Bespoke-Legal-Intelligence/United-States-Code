@@ -22,15 +22,23 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 (e)
 
-Duration of Authority.—No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2001.
+Duration of Authority.—No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2002.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; amended Pub. L. 107–107, div. A, title VI, §614(c), Dec. 28, 2001, 115 Stat. 1136.)
 
 #### Prior Provisions
 
 A prior section 309, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 468, related to authority of Secretary concerned to provide for additional pay for performance of administrative functions by officers of the National Guard and reserve components, prior to repeal by Pub. L. 96–107, title IV, §404(a)(1), (b), Nov. 9, 1979, 93 Stat. 808, 809, applicable only with respect to administrative functions performed after September 30, 1980.
 
+#### Amendments
+
+2001—Subsec. (e). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+
 #### Effective Date
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 2000, and apply with respect to enlistments in the Armed Forces made on or after that date.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 section 3264.
 

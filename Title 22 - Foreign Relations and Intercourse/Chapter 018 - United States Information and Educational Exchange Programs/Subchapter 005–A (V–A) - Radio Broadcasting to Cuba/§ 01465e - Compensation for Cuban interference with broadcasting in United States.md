@@ -10,7 +10,7 @@ Accordingly, the Board may make payments to the United States radio broadcasting
 
 #### (c) Regulations and procedures
 
-The Federal Communications Commission shall issue such regulations and establish suchprocedures for carrying out this section as the Federal Communications Commission finds appropriate. Such regulations shall be issued no later than one hundred and eighty days after October 4, 1983.
+The Federal Communications Commission shall issue such regulations and establish such procedures for carrying out this section as the Federal Communications Commission finds appropriate. Such regulations shall be issued no later than one hundred and eighty days after October 4, 1983.
 
 #### (d) Authorization of appropriations
 

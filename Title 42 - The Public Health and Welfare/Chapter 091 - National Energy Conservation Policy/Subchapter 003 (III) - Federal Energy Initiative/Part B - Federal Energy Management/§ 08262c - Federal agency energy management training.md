@@ -54,7 +54,7 @@ Each department and agency listed in subsection (a)(1) of this section shall rep
 
 The General Schedule, referred to in subsec. (b)(1)(B), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-This Act, referred to in subsec. (c)(1)(C), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
+This Act, referred to in subsec. (c)(1)(C), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification ofthis Act to the Code, see Short Title note set out under section 13201 of this title and Tables.
 
 #### Codification
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) Accept payment under any insurance or assistance program established under title XVIII or XIX of the Social Security Act or under chapter 55 of title 10 for professional services rendered by such person while carrying out such person's responsibilities under this title.
 
-&emsp;(3) Accept from any source, with respect to any travel performed by such person in the course of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
+&emsp;(3) Accept from any source, with respect to any travel performed by such person in thecourse of carrying out such person's responsibilities under this title, any payment or per diem for such travel, other than as provided for in section 4111 of title 5.
 
 &emsp;(4) Request or permit any individual or organization to pay, on such person's behalf for insurance insuring such person against malpractice claims arising in the course of carrying out such person's responsibilities under this title or for such person's dues or similar fees for membership in medical or dental societies or related professional associations, except where such payments constitute a part of such person's remuneration for the performance of professional responsibilities permitted under this section, other than those carried out under this title.
 
@@ -26,7 +26,7 @@
 
 &emsp;(2) The term “remuneration” means the receipt of any amount of monetary benefit from any non-Department source in payment for carrying out any professional responsibilities.
 
-(e)(1) The Secretary shall establish a leave transfer program for the benefit of health-care professionals in positions listed in section 7401(1) of this title. The Secretary may also establish aleave bank program for the benefit of such health-care professionals.
+(e)(1) The Secretary shall establish a leave transfer program for the benefit of health-care professionals in positions listed in section 7401(1) of this title. The Secretary may also establish a leave bank program for the benefit of such health-care professionals.
 
 (2) To the maximum extent feasible—
 

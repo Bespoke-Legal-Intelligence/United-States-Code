@@ -6,7 +6,7 @@
 
 &emsp;(1) where the contractor or subcontractor is a foreign government or agency thereof or is precluded by the laws of the country involved from making its books, documents, papers, or records available for examination; and
 
-&emsp;(2) where the agency head determines, after taking into account the price and availabilityof the property or services from United States sources, that the public interest would be best served by the omission of the clause.
+&emsp;(2) where the agency head determines, after taking into account the price and availability of the property or services from United States sources, that the public interest would be best served by the omission of the clause.
 
 > If the clause is omitted based on a determination under clause (2), a written report shall be furnished to the Congress.
 
@@ -26,5 +26,5 @@ Secretaries of Defense, Army, Navy, or Air Force, or their designees, to determi
 
 #### Nonapplicability of the National Emergencies Act
 
-The provisions of the National Emergencies Act \[see Short Title note set out under section 1601 of this title\] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see section 1651(a)(6) of this title.
+The provisions of the National Emergencies Act \[see Short Title note set out under section 1601 of this title\]shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see section 1651(a)(6) of this title.
 

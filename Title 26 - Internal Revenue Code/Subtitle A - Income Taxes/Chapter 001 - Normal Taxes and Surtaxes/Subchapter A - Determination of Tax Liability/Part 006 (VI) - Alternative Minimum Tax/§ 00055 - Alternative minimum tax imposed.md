@@ -78,7 +78,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increasein tax under section 49(b) or 50(a) or subsection (j) or (k) of section 42.
+&emsp;For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increase in tax under section 49(b) or 50(a) or subsection (j) or (k) of section 42.
 
 #### (2) Cross references
 
@@ -92,23 +92,21 @@ For purposes of this section—
 
 &emsp;In the case of a taxpayer other than a corporation, the term “exemption amount” means—
 
-&emsp;&emsp;(A) $45,000 in the case of—
+&emsp;&emsp;(A) $45,000 ($49,000 in the case of taxable years beginning in 2001, 2002, 2003, and 2004) in the case of—
 
 &emsp;&emsp;&emsp;(i) a joint return, or
 
 &emsp;&emsp;&emsp;(ii) a surviving spouse,
 
-&emsp;&emsp;(B) $33,750 in the case of an individual who—
+&emsp;&emsp;(B) $33,750 ($35,750 in the case of taxable years beginning in 2001, 2002, 2003, and 2004) in the case of an individual who—
 
 &emsp;&emsp;&emsp;(i) is not a married individual, and
 
-&emsp;&emsp;&emsp;(ii) is not a surviving spouse, and
+&emsp;&emsp;&emsp;(ii) is not a surviving spouse,
 
-&emsp;&emsp;(C) $22,500 in the case of—
+&emsp;&emsp;(C) 50 percent of the dollar amount applicable under paragraph (1)(A) in the case of a married individual who files a separate return, and
 
-&emsp;&emsp;&emsp;(i) a married individual who files a separate return, or
-
-&emsp;&emsp;&emsp;(ii) an estate or trust.
+&emsp;&emsp;(D) $22,500 in the case of an estate or trust.
 
 > &emsp;For purposes of this paragraph, the term “surviving spouse” has the meaning given to such term by section 2(a), and marital status shall be determined under section 7703.
 
@@ -124,9 +122,9 @@ For purposes of this section—
 
 &emsp;&emsp;(B) $112,500 in the case of a taxpayer described in paragraph (1)(B), and
 
-&emsp;&emsp;(C) $75,000 in the case of a taxpayer described in paragraph (1)(C).
+&emsp;&emsp;(C) $75,000 in the case of a taxpayer described in subparagraph (C) or (D) of paragraph (1).
 
-> &emsp;In the case of a taxpayer described in paragraph (1)(C)(i), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over $165,000 or (ii) $22,500.
+> &emsp;In the case of a taxpayer described in paragraph (1)(C), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over the minimum amount of such income (as so determined) for which the exemption amount under paragraph (1)(C) is zero, or (ii) such exemption amount (determined without regard to this paragraph).
 
 #### (e) Exemption for small corporations
 
@@ -134,7 +132,7 @@ For purposes of this section—
 
 #### (A) $7,500,000 gross receipts test
 
-&emsp;&emsp;The tentative minimum tax of a corporation shall be zero for any taxable year if the corporation's average annual gross receipts for all 3-taxable-year periods ending before such taxable year does not exceed $7,500,000. For purposes of the preceding sentence, only taxable years beginning after December 31, 1993, shall be taken into account.
+&emsp;&emsp;The tentative minimum tax of a corporation shall be zero for any taxable year if the corporation's average annual gross receipts for all 3-taxable-year periods ending beforesuch taxable year does not exceed $7,500,000. For purposes of the preceding sentence, only taxable years beginning after December 31, 1993, shall be taken into account.
 
 #### (B) $5,000,000 gross receipts test for first 3-year period
 
@@ -184,13 +182,35 @@ For purposes of this section—
 
 &emsp;In the case of a taxpayer whose tentative minimum tax for any taxable year is zero by reason of paragraph (1), section 53(c) shall be applied for such year by reducing the amount otherwise taken into account under section 53(c)(1) by 25 percent of so much of such amount as exceeds $25,000. Rules similar to the rules of section 38(c)(3)(B) shall apply for purposes of the preceding sentence.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(<i>l</i>)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, §104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, §232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, §4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, §101(d)(1), title II, §221(b)(1)(A), title III, §331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, §201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, §5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §103(g)(2)(E), title III, §§305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§474(q), 491(d)(1), title VI, §612(e)(3), title VII, §711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, §1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments
+
+<b>2001</b>—Subsec. (d)(1)(A). Pub. L. 107–16, §§701(a)(1), 901, temporarily substituted “$45,000 ($49,000 in the case of taxable years beginning in 2001, 2002, 2003, and 2004)” for“$45,000” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(1)(B). Pub. L. 107–16, §§701(b)(1), 901, temporarily struck out “and” at end. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§701(a)(2), 901, temporarily substituted “$33,750 ($35,750 in the case of taxable years beginning in 2001, 2002, 2003, and 2004)” for “$33,750” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(1)(C), (D). Pub. L. 107–16, §§701(b)(1), 901, temporarily added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “$22,500 in the case of—
+
+&emsp;“(i) a married individual who files a separate return, or
+
+&emsp;“(ii) an estate or trust.”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(3). Pub. L. 107–16, §§701(b)(3), 901, in concluding provisions, temporarily substituted “paragraph (1)(C)” for “paragraph (1)(C)(i)” and “the minimum amount of such income (as so determined) for which the exemption amount under paragraph (1)(C) is zero, or (ii) such exemption amount (determined without regard to this paragraph)” for “$165,000 or (ii) $22,500”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(3)(C). Pub. L. 107–16, §§701(b)(2), 901, temporarily substituted “subparagraph (C) or (D) of paragraph (1)” for “paragraph (1)(C)”. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1998</b>—Subsec. (b)(3). Pub. L. 105–206, §6005(d)(2), reenacted par. heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The amount determined under the first sentence of paragraph (1)(A)(i) shall not exceed the sum of—
 
@@ -268,9 +288,15 @@ Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end “In the case 
 
 <b>1986</b>—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted “or section 42(j)”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title VII, §701(c), June 7, 2001, 115 Stat. 148, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2000.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to whichsuch amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -410,5 +436,5 @@ Section 2123 of Pub. L. 94–455, as amended by Pub. L. 98–369, div. A, title 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2, 5, 11, 12, 24, 26, 32, 38, 45A, 45D, 53, 59, 59A, 168, 443, 641, 666, 815, 847, 860E, 860J, 871, 877, 882, 897, 962, 1260, 1397E, 1400I, 1561, 6015, 6425, 6655, 6662 of this title.
+This section is referred to in sections 2, 5, 11, 12, 23, 24, 25B, 26, 38, 45A, 45D, 53, 59, 59A, 168, 443, 641, 666, 815, 847, 860E, 860J, 871, 877, 882, 897, 962, 1260, 1397E, 1400I, 1561, 6015, 6425, 6428, 6655, 6662 of this title.
 

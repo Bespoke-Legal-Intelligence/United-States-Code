@@ -72,7 +72,7 @@ Leased Motor Vehicles.—(1) For a leased motor vehicle, the regulations prescri
 
 (d)
 
-State Alternate Vehicle Mileage Disclosure Requirements.—The requirements of subsections (b) and (c)(1) of this section on the disclosure of motor vehicle mileage when motor vehicles are transferred or leased apply in a State unless the State has in effect alternate motor vehicle mileage disclosure requirements approved by the Secretary. The Secretary shall approve alternate motor vehicle mileage disclosure requirements submitted by a State unless the Secretary decides that the requirements are not consistent with the purpose of the disclosure required by subsection (b) or (c), as the case may be.
+State Alternate Vehicle Mileage Disclosure Requirements.—The requirements of subsections (b) and (c)(1) of this section on the disclosure of motor vehicle mileage when motor vehicles are transferred or leased apply in a State unless the State has in effect alternate motor vehicle mileage disclosure requirements approved by the Secretary. The Secretary shall approve alternate motor vehicle mileage disclosure requirements submitted by a State unlessthe Secretary decides that the requirements are not consistent with the purpose of the disclosure required by subsection (b) or (c), as the case may be.
 
 (e)
 

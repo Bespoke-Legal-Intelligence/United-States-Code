@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the plan's accumulated funding deficiency under section 412(a) for such plan year shall be equal to the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 418C(a)) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section if the plan was in reorganization during such plan year or under section 412(a) if the plan was not in reorganization), over
+&emsp;&emsp;&emsp;(i) the sum of the minimum contribution requirement for such plan year (taking into account any overburden credit under section 418C(a)) plus the plan's accumulated funding deficiency for the preceding plan year (determined under this section ifthe plan was in reorganization during such plan year or under section 412(a) if the plan was not in reorganization), over
 
 &emsp;&emsp;&emsp;(ii) amounts considered contributed by employers to or under the plan for the plan year (increased by any amount waived under subsection (f) for the plan year).
 
@@ -34,7 +34,7 @@
 
 #### (2) Adjustment for reductions in contribution base units
 
-&emsp;If the plan's current contribution base for the plan year is less than the plan's valuation contribution base for the plan year, the minimum contribution requirement for such plan year shall be equal to the product of theamount determined under paragraph (1) (after any adjustment required by this subpart other than this paragraph) multiplied by a fraction—
+&emsp;If the plan's current contribution base for the plan year is less than the plan's valuation contribution base for the plan year, the minimum contribution requirement for such plan year shall be equal to the product of the amount determined under paragraph (1) (after any adjustment required by this subpart other than this paragraph) multiplied by a fraction—
 
 &emsp;&emsp;(A) the numerator of which is the plan's current contribution base for the plan year, and
 

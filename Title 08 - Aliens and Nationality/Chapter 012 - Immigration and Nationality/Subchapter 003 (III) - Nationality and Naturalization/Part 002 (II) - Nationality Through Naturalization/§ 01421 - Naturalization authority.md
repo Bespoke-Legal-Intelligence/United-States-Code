@@ -78,7 +78,7 @@ A person whose application for naturalization under this subchapter is denied, a
 
 #### (d) Sole procedure
 
-A person may only be naturalized as a citizen of the United States in the manner and underthe conditions prescribed in this subchapter and not otherwise.
+A person may only be naturalized as a citizen of the United States in the manner and under the conditions prescribed in this subchapter and not otherwise.
 
 (June 27, 1952, ch. 477, title III, ch. 2, §310, 66 Stat. 239; Pub. L. 85–508, §25, July 7, 1958, 72 Stat. 351; Pub. L. 86–3, §20(c), Mar. 18, 1959, 73 Stat. 13; Pub. L. 87–301, §17, Sept. 26, 1961, 75 Stat. 656; Pub. L. 100–525, §9(s), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §401(a), Nov. 29, 1990, 104 Stat. 5038; Pub. L. 102–232, title I, §102(a), title III, §305(a), Dec. 12, 1991, 105 Stat. 1734, 1749; Pub. L. 103–416, title II, §219(u), Oct. 25, 1994, 108 Stat. 4318.)
 
@@ -148,7 +148,7 @@ Continuing Duties.—The amendments to section 339 of the Immigration and Nation
 
 “(d)
 
-General Savings Provisions.—(1) Nothing contained in this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, repealing section 1459 of this title, and enacting provisions set out as a note under section 1440 of this title\], unless otherwise specifically provided, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certification of citizenship, or other document or proceeding which is valid as of the effective date; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process of acquisition, act, thing, liability, obligation, or matter, civil or criminal, done or existing, as of the effective date.
+General Savings Provisions.—(1) Nothing contained in this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, repealing section 1459 of this title, and enacting provisions set out as a note under section 1440 of this title\], unless otherwise specifically provided, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certification of citizenship, or other document or proceeding which is valid as of the effective date; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process ofacquisition, act, thing, liability, obligation, or matter, civil or criminal, done or existing, as of the effective date.
 
 “(2) As to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters, the provisions of law repealed by this title are, unless otherwise specifically provided, hereby continued in force and effect.
 
@@ -162,7 +162,7 @@ Filipino War Veterans.—Section 405 \[enacting provisions set out as a note und
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union onAug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
 
 #### Section Referred to in Other Sections
 

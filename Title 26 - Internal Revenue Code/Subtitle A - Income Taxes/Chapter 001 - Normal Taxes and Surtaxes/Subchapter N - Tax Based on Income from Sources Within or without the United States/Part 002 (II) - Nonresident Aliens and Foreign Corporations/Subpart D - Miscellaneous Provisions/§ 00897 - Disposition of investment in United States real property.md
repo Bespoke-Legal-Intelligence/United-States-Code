@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) in the case of a foreign corporation, under section 882(a)(1),
 
-> &emsp;as if the taxpayer were engaged in a trade or business within the United States during the taxable year and as if such gain or loss were effectively connected with such trade or business.
+> &emsp;as if the taxpayer were engaged in a trade or business within the United States during thetaxable year and as if such gain or loss were effectively connected with such trade or business.
 
 #### (2) Minimum tax on nonresident alien individuals
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) at the time of the receipt of the distributed property, the distributee would be subject to taxation under this chapter on a subsequent disposition of the distributed property, and
 
-&emsp;&emsp;&emsp;(ii) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by theamount of gain (if any) recognized by the distributing corporation, or
+&emsp;&emsp;&emsp;(ii) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation, or
 
 &emsp;&emsp;(B) if such nonrecognition is provided in regulations prescribed by the Secretary under subsection (e)(2).
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (1) Look-through of distributions
 
-&emsp;Any distribution by a REIT to a nonresident alien individual or a foreign corporation shall, to the extent attributable to gain from sales or exchanges by the REIT of United States real property interests, be treated as gain recognized by such nonresident alien individual or foreign corporation from the sale or exchange of a United States real property interest.
+&emsp;Any distribution by a REIT to a nonresident alien individual or a foreign corporation shall, to the extent attributable to gain from salesor exchanges by the REIT of United States real property interests, be treated as gain recognized by such nonresident alien individual or foreign corporation from the sale or exchange of a United States real property interest.
 
 #### (2) Sale of stock in domestically-controlled REIT not taxed
 
@@ -234,7 +234,7 @@ For purposes of this section—
 
 &emsp;An election under paragraph (1) may be made only—
 
-&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the time of the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contraryin a treaty to which the United States is a party, and
+&emsp;&emsp;(A) if all of the owners of all classes of interests (other than interests solely as a creditor) in the foreign corporation at the time of the election consent to the making of the election and agree that gain, if any, from the disposition of such interest after June 18, 1980, which would be taken into account under subsection (a) shall be taxable notwithstanding any provision to the contrary in a treaty to which the United States is a party, and
 
 &emsp;&emsp;(B) subject to such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders.
 
@@ -300,7 +300,7 @@ Subsec. (i)(1), (4). Pub. L. 99–514, §1810(f)(1), inserted reference to secti
 
 <b>1981</b>—Subsec. (c)(1)(A)(i). Pub. L. 97–34, §831(a)(1), defined “United States real property interest” to also mean an interest in real property located in the Virgin Islands.
 
-Subsec. (c)(4)(B). Pub. L. 97–34, §831(b), substituted “Assets” for “Interests” in heading and in first sentence “Under regulations prescribed by the Secretary, assets held by a partnership, trust or estate shall be treated as held” for “United States real property interests held by a partnership, trust, or estate shall be treated as owned” before “proportionately by its partners or beneficiaries”, and inserted provisions respecting treatment of an asset as used or held for use in atrade or business by a partner or beneficiary when used or held by the partnership, trust, or estate in a trade or business and attributing chain treatment of such trade or business to partnership, trust, or estate which are above the first such entity.
+Subsec. (c)(4)(B). Pub. L. 97–34, §831(b), substituted “Assets” for “Interests” in heading and in first sentence “Under regulations prescribed by the Secretary, assets held by a partnership, trust or estate shall be treated as held” for “United States real property interests held by a partnership, trust, or estate shall be treated as owned” before “proportionately by its partners or beneficiaries”, and inserted provisions respecting treatment of an asset as used or held for use in a trade or business by a partner or beneficiary when used or held by the partnership, trust, or estate in a trade or business and attributing chain treatment of such trade or business to partnership, trust, or estate which are above the first such entity.
 
 Subsec. (d)(1)(B). Pub. L. 97–34, §831(c), substituted “Exceptions” for “Exception where there is a carryover basis” in heading, inserted introductory text “Gain shall not be recognized under subparagraph (A)”, inserted cls. (i)(I) and (ii), and substituted cl. (i)(II) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation” for subpar. (B) provision “Subparagraph (A) shall not apply if the basis of the distributed property in the hands of the distributee is the same as the adjusted basis of such property before the distribution increased by the amount of any gain recognized by the distributing corporation.”
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
+Amendment by section 631(e)(12) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described insection 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
 Amendment by section 701(e)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) Criminal penalty
 
-&emsp;Whoever, as an owner, agent, employee, or manager, or is otherwise in custody, control, or possession of property that is security for a loan made or guaranteed under this subchapter, willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other funds derived from such property, for any purpose other than to meet actual, reasonable, and necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulationsadopted pursuant to this subchapter, shall be fined under title 18 or imprisoned not more than 5 years, or both.
+&emsp;Whoever, as an owner, agent, employee, or manager, or is otherwise in custody, control, or possession of property that is security for a loan made or guaranteed under this subchapter, willfully uses, or authorizes the use, of any part of the rents, assets, proceeds, income, or other funds derived from such property, for any purpose other than to meet actual, reasonable, and necessary expenses of the property, or for any other purpose not authorized by this subchapter or the regulations adopted pursuant to this subchapter, shall be fined under title 18 or imprisoned not more than 5 years, or both.
 
 #### (2) Civil sanctions
 

@@ -58,13 +58,9 @@ Definitions.—In this section, the terms “competitive service” and “excep
 
 #### Amendments
 
-1992—Subsec. (c)(2). Pub. L. 102–484, §812(f)(1), inserted “and” before “(C)” and substituted “Secretary).” for “Secretary), and (D) after completion of the course of education, to serve as a full-time employee in an acquisition position in the Department of Defense for a period of time of one calendar year for each school year or part thereof for which the participant was provided a scholarship under the scholarship program.”
+1992—Subsec. (c)(2). Pub. L. 102–484, §812(f)(1), inserted “and” before “(C)” and substituted “Secretary).” for “Secretary), and (D) after completion of the course of education, to serve as a full-time employee in an acquisition position in the Department of Defense for a period of time of one calendar year for each school yearor part thereof for which the participant was provided a scholarship under the scholarship program.”
 
 Subsec. (c)(3). Pub. L. 102–484, §812(f)(2), added par. (3).
 
 Subsecs. (e), (f). Pub. L. 102–484, §812(f)(3), added subsecs. (e) and (f).
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1762 of this title.
 

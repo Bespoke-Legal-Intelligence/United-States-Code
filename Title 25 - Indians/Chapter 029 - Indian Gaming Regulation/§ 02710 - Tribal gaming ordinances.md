@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(III) notification by the Indian tribe to the Commission of the results of such background check before the issuance of any of such licenses.
 
-(3) Net revenues from any class II gaming activities conducted or licensed by any Indian tribe may be used to make per capita payments to members of the Indian tribe only if—
+(3) Net revenues from any class II gaming activities conducted or licensed by any Indiantribe may be used to make per capita payments to members of the Indian tribe only if—
 
 &emsp;(A) the Indian tribe has prepared a plan to allocate revenues to uses authorized by paragraph (2)(B);
 
@@ -116,7 +116,7 @@
 
 &emsp;(B) the tribe shall continue to submit an annual independent audit as required by subsection (b)(2)(C) of this section and shall submit to the Commission a complete resume on all employees hired and licensed by the tribe subsequent to the issuance of a certificate of self-regulation; and
 
-&emsp;(C) the Commission may not assess a fee on such activity pursuant to section 2717 of this title in excess of one quarter of 1 per centum of the gross revenue.
+&emsp;(C) the Commission may not assess a fee on such activity pursuant to section 2717 of thistitle in excess of one quarter of 1 per centum of the gross revenue.
 
 (6) The Commission may, for just cause and after an opportunity for a hearing, remove a certificate of self-regulation by majority vote of its members.
 
@@ -158,7 +158,7 @@
 
 &emsp;(II) any civil action that arises before, and any crime that is committed before, the close of such 1-year period shall not be affected by such revocation ordinance or resolution.
 
-(3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which suchlands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
+(3)(A) Any Indian tribe having jurisdiction over the Indian lands upon which a class III gaming activity is being conducted, or is to be conducted, shall request the State in which such lands are located to enter into negotiations for the purpose of entering into a Tribal-State compact governing the conduct of gaming activities. Upon receiving such a request, the State shall negotiate with the Indian tribe in good faith to enter into such a compact.
 
 (B) Any State and any Indian tribe may enter into a Tribal-State compact governing gaming activities on the Indian lands of the Indian tribe, but such compact shall take effect only when notice of approval by the Secretary of such compact has been published by the Secretary in the Federal Register.
 
@@ -178,7 +178,7 @@
 
 &emsp;(vii) any other subjects that are directly related to the operation of gaming activities.
 
-(4) Except for any assessments that may be agreed to under paragraph (3)(C)(iii) of this subsection, nothing in this section shall be interpreted as conferring upon a State or any of its political subdivisions authority to impose any tax, fee, charge, or other assessment upon an Indian tribe or upon any other person or entity authorized by an Indian tribe to engage in a class III activity. No State may refuse to enter into the negotiations described in paragraph (3)(A) based upon the lack of authority in such State, or its political subdivisions, to impose such a tax, fee, charge, or other assessment.
+(4) Except for any assessments that may be agreed to under paragraph (3)(C)(iii) of this subsection, nothing in this section shall be interpreted as conferring upon a State or any of its political subdivisions authority to impose any tax, fee, charge, or other assessment upon an Indian tribe or upon any other person or entity authorized by an Indian tribe to engage in a class III activity. No State may refuse to enter intothe negotiations described in paragraph (3)(A) based upon the lack of authority in such State, or its political subdivisions, to impose such a tax, fee, charge, or other assessment.
 
 (5) Nothing in this subsection shall impair the right of an Indian tribe to regulate class III gaming on its Indian lands concurrently with the State, except to the extent that such regulation is inconsistent with, or less stringent than, the State laws and regulations made applicable by any Tribal-State compact entered into by the Indian tribe under paragraph (3) that is in effect.
 
@@ -216,7 +216,7 @@
 
 (v) The mediator appointed by the court under clause (iv) shall submit to the State and the Indian tribe the compact selected by the mediator under clause (iv).
 
-(vi) If a State consents to a proposed compact during the 60-day period beginning on the dateon which the proposed compact is submitted by the mediator to the State under clause (v), the proposed compact shall be treated as a Tribal-State compact entered into under paragraph (3).
+(vi) If a State consents to a proposed compact during the 60-day period beginning on the date on which the proposed compact is submitted by the mediator to the State under clause (v), the proposed compact shall be treated as a Tribal-State compact entered into under paragraph (3).
 
 (vii) If the State does not consent during the 60-day period described in clause (vi) to a proposed compact submitted by a mediator under clause (v), the mediator shall notify the Secretary and the Secretary shall prescribe, in consultation with the Indian tribe, procedures—
 
@@ -238,7 +238,7 @@
 
 (D) The Secretary shall publish in the Federal Register notice of any Tribal-State compact that is approved, or considered to have been approved, under this paragraph.
 
-(9) An Indian tribe may enter into a management contract for the operation of a class III gaming activity if such contract has been submitted to, and approved by, the Chairman. The Chairman's review and approval of such contract shall be governed by the provisions of subsections (b), (c), (d), (f), (g), and (h) of section 2711 of this title.
+(9) An Indian tribe may enter into a management contract for the operation of a class III gaming activity if such contract has been submitted to, and approved by, the Chairman. TheChairman's review and approval of such contract shall be governed by the provisions of subsections (b), (c), (d), (f), (g), and (h) of section 2711 of this title.
 
 #### (e) Approval of ordinances
 

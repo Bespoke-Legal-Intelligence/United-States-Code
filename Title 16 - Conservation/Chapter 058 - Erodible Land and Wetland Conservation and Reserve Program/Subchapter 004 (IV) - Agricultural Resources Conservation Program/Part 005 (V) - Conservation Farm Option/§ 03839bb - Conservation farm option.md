@@ -6,7 +6,7 @@ The Secretary shall establish conservation farm option pilot programs for produc
 
 #### (b) Eligible owners and producers
 
-An owner or producer with a farm that has contract acreage enrolled in the agricultural market transition program established under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] shall be eligible to participate in the conservation farm option offered under a pilot program under subsection (a) of this section if the owner or producer meets the conditions established under section (e) of this section.
+An owner or producer with a farm that has contract acreage enrolled in the agricultural market transition program established under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\] shall be eligible to participate in the conservation farm option offeredunder a pilot program under subsection (a) of this section if the owner or producer meets the conditions established under section (e) of this section.
 
 #### (c) Purposes
 

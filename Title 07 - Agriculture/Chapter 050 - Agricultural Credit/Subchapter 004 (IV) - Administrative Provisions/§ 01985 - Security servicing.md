@@ -2,7 +2,7 @@
 
 #### (a) Preservation and protection of security, lien, or priority of lien securing loan
 
-The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve and protect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure thepayment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
+The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve and protect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure the payment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
 
 #### (b) Operation or lease of realty
 
@@ -58,7 +58,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (4) Other law
 
-&emsp;The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) shall not apply to any exercise of authority under this chapter.
+&emsp;The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) shallnot apply to any exercise of authority under this chapter.
 
 #### (5) Lease of property
 
@@ -124,7 +124,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 (ii) For purposes of this subparagraph, the term “Indian reservation” means all land located within the limits of any Indian reservation under the jurisdiction of the United States, notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation; trust or restricted land located within the boundaries of a former reservation of a federally recognized Indian tribe in the State of Oklahoma; or all Indian allotments the Indian titles to which have not been extinguished if such allotments are subject to the jurisdiction of a federally recognized Indian tribe.
 
-(iii) Not later than 90 days after acquiring the property, the Secretary shall afford an opportunity to purchase or lease the real property in accordance with the order of priority established under clause (iv) by the Indian tribe having jurisdiction over the Indian reservation within which the real property is located or, if no order of priority is established by such Indian tribe under clause (iv), in the following order:
+(iii) Not later than 90 days after acquiring the property, the Secretary shall afford an opportunity to purchase or lease the real property in accordance with the order of priority established under clause (iv) by the Indian tribe having jurisdiction over the Indian reservation within which the real property is located or, ifno order of priority is established by such Indian tribe under clause (iv), in the following order:
 
 &emsp;(I) to an Indian member of the Indian tribe that has jurisdiction over the reservation within which the real property is located;
 
@@ -146,7 +146,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(II) such time as the lands are transferred into trust pursuant to clause (viii).
 
-(vi) At any time any real property is transferred to the Secretary of the Interior under clause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regardto any lien arising out of such loan transaction, nor for repayments of any amount with regard to such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretary of Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
+(vi) At any time any real property is transferred to the Secretary of the Interior under clause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regard to any lien arising out of such loan transaction, nor for repayments of any amount with regard to such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretary of Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
 
 (vii) After the payment of any taxes which are required to be paid under clause (v), all remaining rental income derived from the lease of the real property transferred to the Secretary of the Interior under clause (v), and all other income generated from the real property transferred to the Secretary of the Interior under clause (v), shall be deposited as miscellaneous receipts in the Treasury of the United States until the amount deposited is equal to the lesser of—
 
@@ -198,7 +198,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;&emsp;(bb) in the event of foreclosure, the property will be offered for sale;
 
-&emsp;&emsp;(cc) the Secretary must offer a bid for the property that is equal to the fair marketvalue of the property or the outstanding principal and interest of the loan, whichever is higher;
+&emsp;&emsp;(cc) the Secretary must offer a bid for the property that is equal to the fair market value of the property or the outstanding principal and interest of the loan, whichever is higher;
 
 &emsp;&emsp;(dd) the property may be purchased by another party; and
 
@@ -266,7 +266,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (1) As used in this subsection, the term “normal income security” means all security not considered basic security, including crops, livestock, poultry products, Agricultural Stabilization and Conservation Service payments and Commodity Credit Corporation payments, and other property covered by Farmers Home Administration liens that is sold in conjunction with the operation of a farm or other business, but shall not include any equipment (including fixtures in States that have adopted the Uniform Commercial Code), or foundation herd or flock, that is the basis of the farming or other operation, and is the basic security for a Farmers Home Administration farmer program loan.
 
-(2) The Secretary shall release from the normal income security provided for such loan anamount sufficient to pay for the essential household and farm operating expenses of the borrower, until such time as the Secretary accelerates such loan.
+(2) The Secretary shall release from the normal income security provided for such loan an amount sufficient to pay for the essential household and farm operating expenses of the borrower, until such time as the Secretary accelerates such loan.
 
 (3) A borrower whose account was accelerated on or after November 1, 1985, and on or before May 7, 1987, but not thereafter foreclosed on or liquidated, shall be entitled to the release of security income for a period of 12 months, to pay the essential household and farm operating expenses of such borrower in an amount not to exceed $18,000 over 12 months, if such borrower—
 
@@ -310,7 +310,7 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 #### (3) Notification
 
-&emsp;The Secretary shall provide prior written notification to a borrower considering preservation loan servicing that a wetlands conservation easement may be placed on land for which the borrower is negotiating a lease option.
+&emsp;The Secretary shall provide prior written notification to a borrower considering preservation loan servicing that a wetlands conservation easement may be placed on land forwhich the borrower is negotiating a lease option.
 
 #### (4) Appraised value
 
@@ -392,7 +392,7 @@ Subsec. (g)(3). Pub. L. 104–127, §639(3), (4), redesignated par. (6) as (3), 
 
 &emsp;“(D) ensure that access to other portions of the property for farming and other uses is provided.”
 
-Subsec. (g)(4). Pub. L. 104–127, §639(3), (5), redesignated par. (7) as (4), inserted heading, and struck outformer par. (4) which read as follows: “The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands.”
+Subsec. (g)(4). Pub. L. 104–127, §639(3), (5), redesignated par. (7) as (4), inserted heading, and struck out former par. (4) which read as follows: “The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands.”
 
 Subsec. (g)(5). Pub. L. 104–127, §639(3), struck out par. (5) which read as follows: “If, despite the limitations contained in paragraph (3), wetland conservation easements established under paragraph (1) would prevent a particular parcel of inventoried property that is to be sold or leased to a borrower described in clause (i), (ii), or (iii) of subsection (e)(1)(C) of this section, or to a borrower who is a beginning farmer or rancher, from being a marketable agricultural production unit that is comparable to the parcel as acquired, the Secretary may—
 
@@ -424,7 +424,7 @@ Subsec. (c)(2)(A), (B). Pub. L. 101–624, §1813(e)(1), added subpar. (A) and s
 
 Subsec. (c)(2)(B)(ii). Pub. L. 101–624, §1813(g)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “offer suitable land at a price not greater than that which reflects the appraised market value of such land;”.
 
-Subsec. (c)(2)(B)(iii). Pub. L. 101–624, §1813(b)(1), inserted before semicolon “, except that if the committee determines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
+Subsec. (c)(2)(B)(iii). Pub. L. 101–624, §1813(b)(1), inserted before semicolon “, except that if the committeedetermines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
 
 Subsec. (c)(2)(B)(iv). Pub. L. 101–624, §2388(g), substituted “cause” for “caused”.
 
@@ -496,7 +496,7 @@ Amendment by section 1816 of Pub. L. 101–624 applicable to new applications su
 
 #### Effective Date of 1985 Amendment
 
-Section 1314(b) of Pub. L. 99–198 provided that: “The Secretary of Agriculture shall implement the amendments made by this section \[amending this section\] not later than 90 days after the date of enactment of this Act \[Dec. 23, 1985\].”
+Section 1314(b) of Pub. L. 99–198 provided that: “The Secretary of Agriculture shall implement the amendments made by this section \[amending this section\] notlater than 90 days after the date of enactment of this Act \[Dec. 23, 1985\].”
 
 #### Completion of Sales of Farmers Home Administration Inventory Farms
 

@@ -2,15 +2,25 @@
 
 (a)
 
-Domestic Coin and Currency Transactions.—No person shall for the purpose of evading the reporting requirements of section 5313(a) or 5325 or any regulation prescribed under any such section—
+Domestic Coin and Currency Transactions Involving Financial Institutions.—Noperson shall, for the purpose of evading the reporting requirements of section 5313(a) or 5325 or any regulation prescribed under any such section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—
 
-&emsp;(1) cause or attempt to cause a domestic financial institution to fail to file a report required under section 5313(a) or 5325 or any regulation prescribed under any such section;
+&emsp;(1) cause or attempt to cause a domestic financial institution to fail to file a report required under section 5313(a) or 5325 or any regulation prescribed under any such section, to file a report or to maintain a record required by an order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508;
 
-&emsp;(2) cause or attempt to cause a domestic financial institution to file a report required under section 5313(a) or 5325 or any regulation prescribed under any such section that contains a material omission or misstatement of fact; or
+&emsp;(2) cause or attempt to cause a domestic financial institution to file a report required under section 5313(a) or 5325 or any regulation prescribed under any such section, to file a report or to maintain a record required by any order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508, that contains a material omission or misstatement of fact; or
 
 &emsp;(3) structure or assist in structuring, or attempt to structure or assist in structuring, any transaction with one or more domestic financial institutions.
 
 (b)
+
+Domestic Coin and Currency Transactions Involving Nonfinancial Trades or Businesses.—No person shall, for the purpose of evading the report requirements of section 5333 <sup>1</sup> or any regulation prescribed under such section—
+
+&emsp;(1) cause or attempt to cause a nonfinancial trade or business to fail to file a report required under section 5333 <sup>1</sup> or any regulation prescribed under such section;
+
+&emsp;(2) cause or attempt to cause a nonfinancial trade or business to file a report required under section 5333 <sup>1</sup> or any regulation prescribed under such section that contains a material omission or misstatement of fact; or
+
+&emsp;(3) structure or assist in structuring, or attempt to structure or assist in structuring, any transaction with 1 or more nonfinancial trades or businesses.
+
+(c)
 
 International Monetary Instrument Transactions.—No person shall, for the purpose of evading the reporting requirements of section 5316—
 
@@ -20,7 +30,7 @@ International Monetary Instrument Transactions.—No person shall, for the purpo
 
 &emsp;(3) structure or assist in structuring, or attempt to structure or assist in structuring, any importation or exportation of monetary instruments.
 
-(c)
+(d)
 
 Criminal Penalty.—
 
@@ -32,13 +42,27 @@ In general.—Whoever violates this section shall be fined in accordance with ti
 
 Enhanced penalty for aggravated cases.—Whoever violates this section while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period shall be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of title 18, United States Code, imprisoned for not more than 10 years, or both.
 
-(Added Pub. L. 99–570, title I, §1354(a), Oct. 27, 1986, 100 Stat. 3207–22; amended Pub. L. 102–550, title XV, §§1517(a), 1525(a), 1535(a)(1), Oct. 28, 1992, 106 Stat. 4059, 4064, 4066; Pub. L. 103–322, title XXXIII, §330017(a)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§411(a), 413(a)(2), Sept. 23, 1994, 108 Stat. 2253, 2254.)
+(Added Pub. L. 99–570, title I, §1354(a), Oct. 27, 1986, 100 Stat. 3207–22; amended Pub. L. 102–550, title XV, §§1517(a), 1525(a), 1535(a)(1), Oct. 28, 1992, 106 Stat. 4059, 4064, 4066; Pub. L. 103–322, title XXXIII, §330017(a)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§411(a), 413(a)(2), Sept. 23, 1994, 108 Stat. 2253, 2254; Pub. L. 107–56, title III, §§353(c), 365(b)(1), (2)(A), Oct. 26, 2001, 115 Stat. 323, 334, 335.)
+
+#### References in Text
+
+Section 21 of the Federal Deposit Insurance Act, referred to in subsec. (a), is classified to section 1829b of Title 12, Banks and Banking.
+
+Section 123 of Public Law 91–508, referred to in subsec. (a), is classified to section 1953 of Title 12, Banks and Banking.
 
 #### Amendments
 
+2001—Subsec. (a). Pub. L. 107–56, §§353(c)(1), (2), 365(b)(2)(A), inserted “Involving Financial Institutions” after “Transactions” in heading, and in introductory provisions, inserted comma after “No person shall” and substituted “section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—” for “section—”.
+
+Subsec. (a)(1). Pub. L. 107–56, §353(c)(3), inserted “, to file a report or to maintain a record required by an order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508” before semicolon at end.
+
+Subsec. (a)(2). Pub. L. 107–56, §353(c)(4), inserted “, to file a report or to maintain a record required by any order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508,” after “regulation prescribed under any such section”.
+
+Subsecs. (b) to (d). Pub. L. 107–56, §365(b)(1), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
 1994—Subsec. (a). Pub. L. 103–322, §330017(a)(2) and Pub. L. 103–325, §413(a)(2), amended subsec. (a), introductory provisions, identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325” and striking out “with respect to such transaction” before dash.
 
-Subsec. (a)(1), (2). Pub. L. 103–322, §330017(a)(2)(A) and Pub. L. 103–325, §413(a)(2)(A), amended pars. (1) and (2) identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325”.
+Subsec. (a)(1), (2). Pub. L. 103–322, §330017(a)(2)(A) and Pub. L. 103–325, §413(a)(2)(A), amended pars. (1) and (2) identically, substituting “section 5313(a) or 5325 or anyregulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325”.
 
 Subsec. (c). Pub. L. 103–325, §411(a), added subsec. (c).
 
@@ -46,11 +70,17 @@ Subsec. (c). Pub. L. 103–325, §411(a), added subsec. (c).
 
 Pub. L. 102–550, §§1517(a), 1535(a)(1), inserted the following duplicative provisions “or section 5325 or regulations prescribed under such section 5325” and “, section 5325, or the regulations issued thereunder” after “section 5313(a)” wherever appearing.
 
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
+
 #### Effective Date
 
 Section 1364(a) of Pub. L. 99–570 provided that: “The amendment made by section 1354 \[enacting this section\] shall apply with respect to transactions for the payment, receipt, or transfer of United States coins or currency or other monetary instruments completed after the end of the 3-month period beginning on the date of the enactment of this Act \[Oct. 27, 1986\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5317, 5321, 5322 of this title; title 12 sections 93, 1464, 1772d, 1786, 1818, 1821, 3420; title 18 sections 981, 982, 986, 1956; title 28 section 524.
+This section is referred to in sections 5317, 5321, 5322 of this title; title 12 sections 93, 1464, 1772d, 1786, 1818, 1821, 3420; title 18 sections 986, 1956; title 28 section 524.
+
+<i><sup>1</sup></i><i> So in original. Probably should be section “5331”.</i>
 

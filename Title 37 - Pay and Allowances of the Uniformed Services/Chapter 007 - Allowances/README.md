@@ -107,7 +107,7 @@ Pub. L. 97–22, §11(b)(3)(B), July 10, 1981, 95 Stat. 138, substituted “unif
 
 Pub. L. 96–342, title VIII, §808(a)(2), Sept. 8, 1980, 94 Stat. 1097, substituted “house trailers and mobile homes” for “trailers” in item 409.
 
-1978—Pub. L. 95–561, title XIV, §1407(d)(1)(B), formerly §1407(c)(1)(B), Nov. 1, 1978, 92 Stat. 2367, as renumbered by Pub. L. 101–510, div. A, title V, §504(a)(1), Nov. 5, 1990, 104 Stat. 1559, added item 429.
+1978—Pub. L. 95–561, title XIV, §1407(e)(1)(B), formerly §1407(c)(1)(B), Nov. 1, 1978, 92 Stat. 2367, renumbered §1407(d)(1)(B) by Pub. L. 101–510, div. A, title V, §504(a)(1), Nov. 5, 1990, 104 Stat. 1559, renumbered §1407(e)(1)(B) by Pub. L. 107–107, div. A, title III, §353(1), Dec. 28, 2001, 115 Stat. 1063, added item 429.
 
 1973—Pub. L. 93–213, §1(2), Dec. 28, 1973, 87 Stat. 910, added item 411b.
 

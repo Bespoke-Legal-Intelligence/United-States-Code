@@ -8,7 +8,7 @@
 
 #### (2) Factors for determination of amount
 
-&emsp;To determine the amount of funds to be reserved under this subsection, a State shall consider the burden placed on a county or unit of local government that results from the implementation of policies adopted by the State to carry out section 13703 or 13704 of this title.
+&emsp;To determine the amount of funds to be reserved under this subsection, a State shallconsider the burden placed on a county or unit of local government that results from the implementation of policies adopted by the State to carry out section 13703 or 13704 of this title.
 
 #### (b) Additional requirements
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) provide assurances to the Attorney General that the State has implemented or will implement not later than 18 months after April 26, 1996,<sup>1</sup> policies that provide for the recognition of the rights of crime victims; and
 
-&emsp;&emsp;(B) subject to the limitation of paragraph (2), no later than September 1, 2000, consider a program of drug testing and interventionfor appropriate categories of convicted offenders during periods of incarceration and post-incarceration and criminal justice supervision, with sanctions including denial or revocation of release for positive drug tests, consistent with guidelines issued by the Attorney General.
+&emsp;&emsp;(B) subject to the limitation of paragraph (2), no later than September 1, 2000, consider a program of drug testing and intervention for appropriate categories of convicted offenders during periods of incarceration and post-incarceration and criminal justice supervision, with sanctions including denial or revocation of release for positive drug tests, consistent with guidelines issued by the Attorney General.
 
 #### (2) Use of funds
 

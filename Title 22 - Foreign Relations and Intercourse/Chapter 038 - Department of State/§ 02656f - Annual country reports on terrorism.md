@@ -30,7 +30,7 @@ The report required under subsection (a) of this section should to the extent fe
 
 &emsp;&emsp;(A) a review of major counterterrorism efforts undertaken by countries which are the subject of such report, including, as appropriate, steps taken in international fora;
 
-&emsp;&emsp;(B) the response of the judicial system of each country which is the subject of such report with respect to matters relating to terrorism affecting American citizens or facilities, or which have, in the opinion of the Secretary, a significant impact on United States counterterrorism efforts, including responses to extradition requests; and
+&emsp;&emsp;(B) the response of the judicial system of each country which is the subject of such report with respect to matters relating to terrorism affecting American citizens or facilities, or which have, in the opinion of theSecretary, a significant impact on United States counterterrorism efforts, including responses to extradition requests; and
 
 &emsp;&emsp;(C) significant support, if any, for international terrorism by each country which is the subject of such report, including (but not limited to)—
 
@@ -142,5 +142,5 @@ Initial Report.—Except as provided in subsection (a)(8), the initial report fi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2656g of this title; title 10 section 2249a.
+This section is referred to in section 2656g of this title; title 8 section 1189; title 10 section 2249a.
 

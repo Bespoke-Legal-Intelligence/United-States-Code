@@ -148,7 +148,7 @@
 
 #### (1) In general
 
-&emsp;In any private action arising under this subchapter, all discovery and other proceedings shall be stayed during the pendency of any motion to dismiss, unless the court finds, upon the motion of any party, that particularized discovery is necessary to preserve evidence or to prevent undue prejudice to that party.
+&emsp;In any private action arising under this subchapter, all discovery and other proceedingsshall be stayed during the pendency of any motion to dismiss, unless the court finds, upon the motion of any party, that particularized discovery is necessary to preserve evidence or to prevent undue prejudice to that party.
 
 #### (2) Preservation of evidence
 
@@ -220,5 +220,5 @@ Section not to affect or apply to any private action arising under this subchapt
 
 #### Construction
 
-Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
+Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission,by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 

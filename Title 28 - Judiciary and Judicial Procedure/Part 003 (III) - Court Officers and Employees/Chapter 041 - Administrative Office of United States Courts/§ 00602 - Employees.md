@@ -62,7 +62,7 @@ Sections 1 to 4 and 6 of Pub. L. 101–474 provided that:
 
 “(a) The Director shall, by regulation, establish a personnel management system for the Administrative Office which provides for the appointment, pay, promotion, and assignment of all employees on the basis of merit, but without regard to the provisions of title 5, United States Code, governing appointments and other personnel actions in the competitive service, or the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates. The system shall apply to all Administrative Office employees except those referred to in section 603 of title 28, United States Code, and shall, at a minimum—
 
-&emsp;“(1) provide for a schedule of pay rates applicable to all employees; except as provided in paragraph (10), the basic pay of any person appointed under this section shall not exceed the rate of basic pay for level V of the Executive Schedule;
+&emsp;“(1) provide for a schedule of pay rates applicable to all employees; except as provided in paragraph (10),the basic pay of any person appointed under this section shall not exceed the rate of basic pay for level V of the Executive Schedule;
 
 &emsp;“(2) incorporate pay comparability principles as set forth in section 5301(a) of title 5, United States Code;
 

@@ -38,7 +38,7 @@ The Secretary shall administer the national park and the preserve in accordance 
 
 #### (3) Agency agreement
 
-&emsp;Except in an emergency, regulations closing areas within the preserve to hunting, fishing, or trapping under this subsection shall be made in consultation with the appropriate agency of the State of Colorado having responsibility for fish and wildlife administration.
+&emsp;Except in an emergency, regulations closing areas within the preserve to hunting, fishing, or trapping under this subsection shall bemade in consultation with the appropriate agency of the State of Colorado having responsibility for fish and wildlife administration.
 
 #### (4) Savings clause
 
@@ -78,7 +78,7 @@ Any feature of the Closed Basin Division, San Luis Valley Project, located withi
 
 #### References in Text
 
-The Reclamation Project Authorization Act of 1972, referred to in subsec. (d)(2), is Pub. L. 92–514, Oct. 20,1972, 86 Stat. 964, as amended. Title I of the Act was classified generally to subchapter XXXI (§615aaa et seq.) of chapter 12 of Title 43, Public Lands, prior to its omission from the Code. See Codification notes under sections 615aaa to 615iii of Title 43.
+The Reclamation Project Authorization Act of 1972, referred to in subsec. (d)(2), is Pub. L. 92–514, Oct. 20, 1972, 86 Stat. 964, as amended. Title I of the Act was classified generally to subchapter XXXI (§615aaa et seq.) of chapter 12 of Title 43, Public Lands, prior to its omission from the Code. See Codification notes under sections 615aaa to 615iii of Title 43.
 
 The public land laws, referred to in subsec. (e)(1)(A), are classified generally to Title 43, Public Lands.
 

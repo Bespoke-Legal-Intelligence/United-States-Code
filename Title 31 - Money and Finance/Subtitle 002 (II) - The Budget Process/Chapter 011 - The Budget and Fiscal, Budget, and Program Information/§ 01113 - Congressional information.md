@@ -98,7 +98,7 @@ In subsection (a), the word “President” is substituted for “Office of Mana
 
 In subsections (b)–(d), the words “program information” are substituted for “program-related data and information” to eliminate unnecessary words.
 
-In subsection (b)(1) and (3), the words “to such committee or joint committee, the Comptroller General, or the Director of the Congressional Budget Office” are omitted as unnecessary because of the restatement. In clause (1), the word “kind” is substituted for “nature” for consistency in the revised title. In clause (2), the words “that fiscal, budgetary, and program information” are substituted for “such data and information” because of the restatement.
+In subsection (b)(1) and (3), the words “to such committee or joint committee, the Comptroller General, or the Director of the Congressional Budget Office” areomitted as unnecessary because of the restatement. In clause (1), the word “kind” is substituted for “nature” for consistency in the revised title. In clause (2), the words “that fiscal, budgetary, and program information” are substituted for “such data and information” because of the restatement.
 
 In subsection (c), the word “inventory” is omitted as unnecessary. In clause (1), the word “develop” is omitted as being included in “establish”. In clause (2), the word “obtaining” is substituted for “securing” as being more precise. In clause (3), the word “evaluating” is substituted for “appraising and analyzing” for clarity and to eliminate unnecessary words.
 
@@ -132,7 +132,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, §201(k)(2); added Sept. 8, 1982, Pub. L. 97
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (e)(2)(A), (E), (3) of this section are listed on pages 9, 6, and 149, respectively), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes below.
 
 #### Oversight of Counterterrorism and Antiterrorism Activities; Report
 
@@ -181,6 +181,66 @@ Annex on Domestic Emergency Preparedness Program.—As part of the annual report
 \[Memorandum of President of the United States, Mar. 5, 1998, 63 F.R. 12377, delegated to Director of the Office of Management and Budget reporting functions of President under section 1051(b) of Public Law 105–85 set out above.\]
 
 #### Termination of Reporting Requirements
+
+Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1) Section 801(b) and (c) of the Department of Energy Organization Act (42 U.S.C. 7321(b) and (c)).
+
+&emsp;“(2) Section 822(b) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (42 U.S.C. 6687).
+
+&emsp;“(3) Section 7(a) of the Marine Resources and Engineering Development Act of 1966 (33 U.S.C. 1106(a)).
+
+&emsp;“(4) Section 206 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2476).
+
+&emsp;“(5) Section 404 of the Communications Satellite Act of 1962 (47 U.S.C. 744).
+
+&emsp;“(6) Section 205(a)(1) of the National Critical Materials Act of 1984 (30 U.S.C. 1804(a)(1)).
+
+&emsp;“(7) Section 17(c)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3711a(c)(2)).
+
+&emsp;“(8) Section 10(h) of the National Institute of Standards and Technology Act (15 U.S.C. 278(h)).
+
+&emsp;“(9) Section 212(f)(3) of the National Institute of Standards and Technology Authorization Act for Fiscal Year 1989 (15 U.S.C. 3704b(f)(3)).
+
+&emsp;“(10) Section 11(g)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(g)(2)).
+
+&emsp;“(11) Section 5(d)(9) of the National Climate Program Act (15 U.S.C. 2904(d)(9)).
+
+&emsp;“(12) Section 7 of the National Climate Program Act (15 U.S.C. 2906).
+
+&emsp;“(13) Section 703 of the Weather Service Modernization Act (15 U.S.C. 313 note).
+
+&emsp;“(14) Section 118(d)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1268(d)(2)).
+
+&emsp;“(15) Section 304(d) of the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1992 (49 U.S.C. 47508 note).
+
+&emsp;“(16) Section 2367(c) of title 10, United States Code.
+
+&emsp;“(17) Section 303(c)(7) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(7)).
+
+&emsp;“(18) Section 102(e)(7) of the Global Change Research Act of 1990 (15 U.S.C. 2932(e)(7)).
+
+&emsp;“(19) Section 5(b)(1)(C) and (D) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(1)(C) and (D)).
+
+&emsp;“(20) Section 11(e)(6) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)(6)).
+
+&emsp;“(21) Section 2304(c)(7) of title 10, United States Code, but only to the extent of its application to the National Aeronautics and Space Administration.
+
+&emsp;“(22) Section 4(j)(1) of the National Science Foundation Act of 1950 (42 U.S.C. 1863(j)(1)).
+
+&emsp;“(23) Section 36(e) of the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885c(e)).
+
+&emsp;“(24) Section 37 of the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885d).
+
+&emsp;“(25) Section 108 of the National Science Foundation Authorization Act for Fiscal Year 1986 (42 U.S.C. 1886).
+
+&emsp;“(26) Section 101(a)(3) of the High-Performance Computing Act of 1991 (15 U.S.C. 5511(a)(3)).
+
+&emsp;“(27) Section 3(a)(7) and (f) of the National Science Foundation Act of 1950 (42 U.S.C. 1862(a)(7) and (f)).
+
+&emsp;“(28) Section 7(a) of the National Science Foundation Authorization Act, 1977 (42 U.S.C. 1873 note).
+
+&emsp;“(29) Section 16 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2215).”
 
 Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) shall not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -460,7 +520,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763
 
 &emsp;“(33) Section 4207(f) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\] (42 U.S.C. 1395b–1 note).”
 
-Pub. L. 106–476, title I, §1463, Nov. 9, 2000, 114 Stat. 2173, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 106–476, title I, §1463, Nov. 9, 2000, 114 Stat. 2173, provided that: “Section 3003(a)(1) of the FederalReports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;“(1) Section 163 of the Trade Act of 1974 (19 U.S.C. 2213).
 

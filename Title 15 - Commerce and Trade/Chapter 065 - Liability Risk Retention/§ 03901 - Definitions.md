@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) its owners only persons who comprise the membership of the risk retention group and who are provided insurance by such group;
 
-&emsp;&emsp;(F) whose members are engaged in businesses or activities similar or related with respect to the liability to which such members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations;
+&emsp;&emsp;(F) whose members are engaged in businesses or activities similar or related withrespect to the liability to which such members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations;
 
 &emsp;&emsp;(G) whose activities do not include the provision of insurance other than—
 
@@ -114,7 +114,7 @@ Special Rule Regarding Feasibility Study.—The provisions of section 3(d) of th
 
 &emsp;“(1) was defined in the Product Liability Risk Retention Act of 1981 \[Pub. L. 97–45, which enacted this chapter\] before the date of the enactment of this Act \[Oct. 27, 1986\]; and
 
-&emsp;“(2) was offered before such date of enactment by any risk retention group which has been charteredand operating for not less than 3 years before such date of enactment.
+&emsp;“(2) was offered before such date of enactment by any risk retention group which has been chartered and operating for not less than 3 years before such date of enactment.
 
 “(c)
 

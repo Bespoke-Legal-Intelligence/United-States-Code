@@ -28,7 +28,7 @@ The Director shall ensure that any regulatory analysis that is conducted under t
 
 &emsp;&emsp;(A) whether the regulation will advance the purpose of protecting against the risk referred to in paragraph (1)(A); and
 
-&emsp;&emsp;(B) whether the regulation will produce benefits and reduce risks to human health,human safety, or the environment, and any combination thereof, in a cost-effective manner as a result of the implementation of and compliance with the regulation, by local, State, and Federal Government and other public and private entities, as estimated in paragraph (1)(B).
+&emsp;&emsp;(B) whether the regulation will produce benefits and reduce risks to human health, human safety, or the environment, and any combination thereof, in a cost-effective manner as a result of the implementation of and compliance with the regulation, by local, State, and Federal Government and other public and private entities, as estimated in paragraph (1)(B).
 
 #### (3) Construction
 

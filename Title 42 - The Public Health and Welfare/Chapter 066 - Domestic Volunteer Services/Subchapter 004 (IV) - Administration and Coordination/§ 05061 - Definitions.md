@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(4) the term “poor” or “low-income” persons, individuals, or volunteers means such individuals whose incomes fall at or below the poverty line as set forth in section 625 of the Economic Opportunity Act of 1964, as amended by Public Law 92–424 (42 U.S.C. 2971d): <sup>1</sup> <i>Provided</i>, That in determining who is “poor” or “low-income”, the Director shall take into consideration existing poverty guidelines as appropriate to local situations;
 
-&emsp;(5) the terms “public agencies or organizations” and “Federal, State, or local agencies” shall include any Indian tribe, band, nation, orother organized group or community (including any Alaskan native village or regional village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]) which is recognized by the United States or the State in which it resides as eligible for special programs and services provided to Indians because of their status as Indians;
+&emsp;(5) the terms “public agencies or organizations” and “Federal, State, or local agencies” shall include any Indian tribe, band, nation, or other organized group or community (including any Alaskan native village or regional village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\]) which is recognized by the United States or the State in which it resides as eligible for special programs and services provided to Indians because of their status as Indians;
 
 &emsp;(6) the term “poverty line for a single individual” means such poverty line as established by the Director of the Office of Management and Budget in accordance with section 9902(2) of this title;
 
@@ -74,7 +74,7 @@ Par. (5). Pub. L. 99–551, §6(b), added par. (5).
 
 #### Effective Date of 1993 Amendment
 
-Amendment by sections 404 and 405(a)(10) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by sections 404 and 405(a)(10) of Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L.103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
 
 Section 406(a) of Pub. L. 103–82 provided that: “The amendments made by sections 401 through 402 \[amending this section, sections 12612, 12617, 12619, 12622 to 12626, 12632, 12636, 12637, 12639, and 12662 of this title, and provisions set out as notes under section 12612 of this title\] will take effect on October 1, 1993.”
 

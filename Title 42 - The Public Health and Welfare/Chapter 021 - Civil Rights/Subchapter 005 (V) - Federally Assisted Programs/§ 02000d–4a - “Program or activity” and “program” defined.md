@@ -8,7 +8,7 @@ For the purposes of this subchapter, the term “program or activity” and the 
 
 &emsp;(2)(A) a college, university, or other postsecondary institution, or a public system of higher education; or
 
-&emsp;(B) a local educational agency (as defined in section 8801 of title 20), system of vocational education, or other school system;
+&emsp;(B) a local educational agency (as defined in section 7801 of title 20), system of vocational education, or other school system;
 
 &emsp;(3)(A) an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
 
@@ -22,11 +22,17 @@ For the purposes of this subchapter, the term “program or activity” and the 
 
 > any part of which is extended Federal financial assistance.
 
-(Pub. L. 88–352, title VI, §606, as added Pub. L. 100–259, §6, Mar. 22, 1988, 102 Stat. 31; amended Pub. L. 103–382, title III, §391(q), Oct. 20, 1994, 108 Stat. 4024.)
+(Pub. L. 88–352, title VI, §606, as added Pub. L. 100–259, §6, Mar. 22, 1988, 102 Stat. 31; amended Pub. L. 103–382, title III, §391(q), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 107–110, title X, §1076(y), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### Amendments
 
+2002—Par. (2)(B). Pub. L. 107–110 substituted “7801” for “8801”.
+
 1994—Par. (2)(B). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Exclusion From Coverage
 

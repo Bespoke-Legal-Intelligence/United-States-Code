@@ -21,9 +21,11 @@
 
 #### Amendments
 
+2001—Pub. L. 107–107, div. A, title X, §1048(g)(2), Dec. 28, 2001, 115 Stat. 1228, amended directory language of Pub. L. 106–65. See 1999 Amendment note below.
+
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1071(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276, added item 986.
 
-1999—Pub. L. 106–65, div. A, title V, §549(a)(2), Oct. 5, 1999, 113 Stat. 611, which directed the general amendment of item 983 in the table of sections at the beginning of “such chapter” without specifying the chapter or title, was executed to item 983 in the analysis for this chapter to reflect the probable intent of Congress. Prior to amendment, item 983 read as follows: “Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts”.
+1999—Pub. L. 106–65, div. A, title V, §549(a)(2), Oct. 5, 1999, 113 Stat. 611, as amended by Pub. L. 107–107, div. A, title X, §1048(g)(2), Dec. 28, 2001, 115 Stat. 1228, substituted “Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies” for “Institutions of higher education that prohibit Senior ROTC units: denial of Department of Defense grants and contracts” in item 983.
 
 1998—Pub. L. 105–261, div. A, title V, §569(b), Oct. 17, 1998, 112 Stat. 2032, struck out item 974 “Civilian employment: enlisted members”.
 

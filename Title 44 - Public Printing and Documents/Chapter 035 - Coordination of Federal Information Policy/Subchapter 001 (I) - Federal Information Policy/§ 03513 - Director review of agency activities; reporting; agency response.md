@@ -12,5 +12,5 @@
 
 #### Prior Provisions
 
-A prior section 3513, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2822; amended Pub. L. 98–497, title I, §107(b)(27), Oct. 19, 1984, 98 Stat. 2291, related to periodic review of agency activities by Director and report of review and agency response to it prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3513, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2822; amended Pub. L. 98–497, title I,§107(b)(27), Oct. 19, 1984, 98 Stat. 2291, related to periodic review of agency activities by Director and report of review and agency response to it prior to the general amendment of this chapter by Pub. L. 104–13.
 

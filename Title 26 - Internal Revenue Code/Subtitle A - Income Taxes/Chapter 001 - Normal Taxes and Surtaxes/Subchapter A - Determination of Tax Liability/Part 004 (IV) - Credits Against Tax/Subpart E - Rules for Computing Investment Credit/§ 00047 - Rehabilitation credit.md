@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Any expenditure in connection with the rehabilitation of a building which is allocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section 168(h)).
+&emsp;&emsp;&emsp;&emsp;Any expenditure in connection with the rehabilitation of a building which isallocable to the portion of such property which is (or may reasonably be expected to be) tax-exempt use property (within the meaning of section 168(h)).
 
 #### (II) Clause not to apply for purposes of paragraph (1)(C)
 
@@ -264,7 +264,7 @@ Subsec. (c). Pub. L. 100–647, §1007(g)(3)(A), substituted “D, or G” for �
 
 Subsec. (d)(1). Pub. L. 100–647, §1002(a)(18), substituted “section 46(c)(8)(C)” for “section 48(c)(8)(C)”.
 
-Subsec. (d)(3)(C)(i). Pub. L. 100–647, §1002(a)(28), substituted “class life (as defined in section 168(i)(1))” for “present class life (as defined in section 168(g)(2))” and “no class life” for “no present class life”.
+Subsec. (d)(3)(C)(i). Pub. L. 100–647, §1002(a)(28), substituted “class life (as defined in section 168(i)(1))” for“present class life (as defined in section 168(g)(2))” and “no class life” for “no present class life”.
 
 <b>1986</b>—Subsec. (a)(9). Pub. L. 99–514, §1802(a)(5)(A), added par. (9).
 
@@ -348,7 +348,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section 1511(d) of Pub. L. 99–514 provided that: “The amendments made by this section \[amending this section and sections 48, 167, 644, 852, 4497, 6214, 6332, 6343, 6601, 6602, 6611, 6621, 6654, 6655, and 7426 of this title and sections 1961 and 2411 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 6621 of this title\] shall apply for purposes of determining interest for periods after December 31, 1986.”
 
-Amendment by sections 1802(a)(5)(A) and 1844(b)(1), (2), (4) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1802(a)(5)(A) and 1844(b)(1), (2), (4) of Pub. L. 99–514 effective, except as otherwiseprovided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1985 Amendment
 
@@ -416,7 +416,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Clarification of Effect of 1984 Amendment on Investment Tax Credit
 
-For provision that nothing in the amendments made by section 474(<i>o</i>) of Pub. L. 98–369, which amended this section, be construed as reducing the investment tax credit in taxable years beginning before Jan. 1, 1984, see section 475(c) of Pub. L. 98–369, set out as a note under section 46 of this title.
+For provision that nothing in the amendments made by section 474(<i>o</i>) of Pub. L. 98–369, which amended this section, be construed as reducing the investment tax credit in taxable years beginning before Jan. 1, 1984, seesection 475(c) of Pub. L. 98–369, set out as a note under section 46 of this title.
 
 #### Transfer of Functions
 

@@ -44,7 +44,7 @@ Subsecs. (f), (g). Pub. L. 94–406, §4(1), (2), redesignated subsec. (g) as (f
 
 1973—Subsec. (e). Pub. L. 93–65 extended termination date of authority provided in subsecs. (b) and (c) from June 30, 1973, to June 30, 1976.
 
-1972—Subsec. (a). Pub. L. 92–343, §4(1), substituted “The Secretary of the Department in which the Coast Guard is operating” for “The Secretary” in first sentence.
+1972—Subsec. (a). Pub. L. 92–343, §4(1), substituted “The Secretary of the Department in which the CoastGuard is operating” for “The Secretary” in first sentence.
 
 Subsec. (e). Pub. L. 92–343, §4(2), struck out reference to subsec. (a) and extended authority provided in subsecs. (b) and (c) to June 30, 1973.
 

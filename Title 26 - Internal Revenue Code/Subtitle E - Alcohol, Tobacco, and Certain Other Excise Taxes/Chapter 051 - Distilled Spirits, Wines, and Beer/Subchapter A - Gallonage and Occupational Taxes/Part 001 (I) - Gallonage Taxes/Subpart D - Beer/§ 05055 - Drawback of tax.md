@@ -1,6 +1,6 @@
 ### §5055. Drawback of tax
 
-On the exportation of beer, brewed or produced in the United States, the brewer thereof shall be allowed a drawback equal in amount to the tax paid on such beer if there is such proof of exportation as the Secretary may by regulations require. For the purpose of this section, exportation shall include delivery for use as supplies on the vessels and aircraft described in section 309 of the Tariff Act of 1930, as amended (19 U.S.C. 1309).
+On the exportation of beer, brewed or produced in the United States, the brewer thereof shall beallowed a drawback equal in amount to the tax paid on such beer if there is such proof of exportation as the Secretary may by regulations require. For the purpose of this section, exportation shall include delivery for use as supplies on the vessels and aircraft described in section 309 of the Tariff Act of 1930, as amended (19 U.S.C. 1309).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIV, §1420(a), Aug. 5, 1997, 111 Stat. 1049.)
 
@@ -12,7 +12,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–34 substituted “paid on such beer if there is such proof of exportation as the Secretary mayby regulations require.” for “found to have been paid on such beer, to be paid on submission of such evidence, records and certificates indicating exportation, as the Secretary may by regulations prescribe.”
+<b>1997</b>—Pub. L. 105–34 substituted “paid on such beer if there is such proof of exportation as the Secretary may by regulations require.” for “found to have been paid on such beer, to be paid on submission of such evidence, records and certificates indicating exportation, as the Secretary may by regulations prescribe.”
 
 <b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 

@@ -72,7 +72,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 #### Amendments
 
-1994—Subsec. (b)(1). Pub. L. 103–465, §282(c)(4)(A), in introductory provisions, inserted “, or with respect to an extension described in section 3572(c)(3) of this title,” after “trade agreements” and substituted “, section 2903(a)(1) of this title, or section 3572 of this title” for “or section 2903(a)(1) of this title”, and in subpars. (A) and (C), inserted “or such extension” after “agreements” wherever appearing.
+1994—Subsec. (b)(1). Pub. L. 103–465, §282(c)(4)(A), in introductory provisions, inserted “, or with respect to an extension described in section 3572(c)(3) of this title,” after “trade agreements” and substituted “, section 2903(a)(1) of this title, or section 3572 of thistitle” for “or section 2903(a)(1) of this title”, and in subpars. (A) and (C), inserted “or such extension” after “agreements” wherever appearing.
 
 Subsec. (c)(1). Pub. L. 103–465, §282(c)(4)(B), inserted “or section 3572 of this title” after “section 2112 of this title” and “or extension” after “agreement” wherever appearing.
 

@@ -1,6 +1,6 @@
 ### §304<i>l</i>. Reports by agencies concerning abandoned or forfeited property; rules and regulations
 
-The Administrator is authorized, with the approval of the Secretary of the Treasury, (1) to require any agency, from time to time, to make a report of all property abandoned to it or seized and the disposal thereof, and (2) to make such rules and regulations as may be necessary to carry out the provisions of sections 304f to 304m of this title.
+The Administrator is authorized, with the approval of the Secretary of the Treasury, (1) to require any agency, from time to time, to make a report of all property abandoned to it or seized and the disposal thereof, and (2) to make such rules and regulations as may be necessary tocarry out the provisions of sections 304f to 304m of this title.
 
 (Aug. 27, 1935, ch. 740, title III, §307, 49 Stat. 880; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380.)
 

@@ -166,7 +166,7 @@ In this chapter:
 
 #### (23) Local educational agency
 
-&emsp;The term “local educational agency” has the meaning given the term in section 8801 of title 20.
+&emsp;The term “local educational agency” has the meaning given the term in section 7801 of title 20.
 
 #### (24) Lower living standard income level
 
@@ -282,7 +282,7 @@ In this chapter:
 
 #### (40) Secondary school
 
-&emsp;The term “secondary school” has the meaning given the term in section 8801 of title 20.
+&emsp;The term “secondary school” has the meaning given the term in section 7801 of title 20.
 
 #### (41) Secretary
 
@@ -342,7 +342,7 @@ In this chapter:
 
 &emsp;The term “youth council” means a council established under section 2832(h) of this title.
 
-(Pub. L. 105–220, title I, §101, Aug. 7, 1998, 112 Stat. 939; Pub. L. 105–244, title I, §102(d)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–332, §3(f), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Pub. L. 105–220, title I, §101, Aug. 7, 1998, 112 Stat. 939; Pub. L. 105–244, title I, §102(d)(1), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 105–332, §3(f), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–110, title X, §1076(w), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### References in Text
 
@@ -362,11 +362,17 @@ Provisions similar to this section were contained in section 1503 of this title 
 
 #### Amendments
 
+2002—Pars. (23), (40). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
+
 2000—Par. (25)(D). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11302 of title 42.
 
 1998—Par. (3). Pub. L. 105–332 substituted “section 2302 of title 20” for “section 2471 of title 20”.
 
 Par. (35). Pub. L. 105–244 substituted “section 1002 of title 20” for “section 1088 of title 20”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Effective Date of 1998 Amendment
 
@@ -386,43 +392,63 @@ Pub. L. 102–367, title I, §101(a), Sept. 7, 1992, 106 Stat. 1022, provided th
 
 For provisions relating to transition from authority under the Job Training Partnership Act (29 U.S.C. 1501 et seq.) to the workforce investment systems established under this chapter, including provisions relating to regulations, expenditures, and reorganization of functions in the Department of Labor, see section 9276 of Title 20, Education.
 
-#### Ex. Ord. No. 13174. Commission on Workers, Communities, and Economic Change in the New Economy
+#### Executive Order No. 13174
 
-Ex. Ord. No. 13174, Oct. 27, 2000, 65 F.R. 65705, provided:
+Ex. Ord. No. 13174, Oct. 27, 2000, 65 F.R. 65705, which established the Commission on Workers, Communities, and Economic Change in the New Economy, was revoked by Ex. Ord. No. 13218, §3(b), June 20, 2001, 66 F.R. 33629, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+#### Ex. Ord. No. 13218. 21st Century Workforce Initiative
 
-Section 1. <i>Establishment</i>. There is established the “Commission on Workers, Communities, and Economic Change in the New Economy” (Commission). The Commission shall be composed of up to 14 persons to be appointed by the President from individuals who represent State or local agencies relating to workforce or community development, economists or other workforce development experts, labor organizations, business leaders, and Members of Congress. The President shall designate a Chairperson from among the members of the Commission.
+Ex. Ord. No. 13218, June 20, 2001, 66 F.R. 33627, provided:
 
-Sec. 2. <i>Functions</i>. The Commission shall conduct a study of matters relating to economic dislocation, and worker and community adjustment to such dislocations. In carrying out this study, the Commission shall examine:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to promote the study and the development of strategies to address the needs of the 21st century workforce, it is hereby ordered as follows:
 
-&emsp;(a) the impact of international trade, technology, globalization, and the changing nature of work on both workers and their communities;
+Section 1. <i>Establishment of the Office of the 21st Century Workforce</i>. (a) The Secretary of Labor is hereby directed to establish within the Department of Labor the Office of the 21st Century Workforce. The Office shall provide a focal point for the identification and study of issues relating to the workforce of the United States and the development of strategies for effectively addressing such issues.
 
-&emsp;(b) the effectiveness of existing Federal programs in assisting workers and communities in adjusting to economic change, including the adequacy of the design of such programs;
+(b) The Office of the 21st Century Workforce shall gather and disseminate information relating to workforce issues by conducting summits, conferences, field hearings, meetings, and other appropriate forums designed to encourage the participation of organizations and individuals interested in such issues, including business and labor organizations, academicians, employers, employees, and public officials at the local, State, and Federal levels.
 
-&emsp;(c) the strategies for providing workplace education and training to assist workers in acquiring new skills;
+(c) Among the issues to be addressed by the Office of the 21st Century Workforce shall be the identification of the ways in which the Department of Labor may streamline and update the information and services made available to the workforce by the Department; eliminate duplicative or overlapping rules and regulations; and eliminate statutory and regulatory barriers to assisting the workforce in successfully adapting to the challenges of the 21st century.
 
-&emsp;(d) the strategies for assisting communities to adjust to changing economic conditions and changes in the mix of employment opportunities in those communities;
+Sec. 2. <i>Establishment of the Council on the 21st Century Workforce.</i>
 
-&emsp;(e) the role of public-private partnerships in implementing job training and community assistance; and
+(a) <i>Establishment and Composition of the Council.</i>
 
-&emsp;(f) the role of income support and economic security programs in facilitating worker adjustment to rapidly changing economic circumstances.
+&emsp;(i) There is hereby established the “President's Council on the 21st Century Workforce” (Council).
 
-Sec. 3. <i>Report</i>. Not later than 12 months after the first meeting of the Commission, the Commission shall prepare and submit to the President and the Congress a report that contains a detailed statement of the findings and conclusions of the Commission's study carried out under section 2 of this order, and includes:
+&emsp;(ii) The Council shall be composed of not more than 13 members who shall be appointed by the President. The membership shall include individuals who represent the views of business and labor organizations, Federal, State, and local governments, academicians and educators, and such other associations and entities as the President determines are appropriate. In addition, the Secretary of Labor and the Director of the Office of Personnel Management shall serve as ex officio members representing the views of the Federal Government. The Secretary of Labor shall be the Chairperson of the Council.
 
-&emsp;(1) a summary of best practices and policies carried out by employers and public-private partnerships in providing workers with the education and training needed to effectively adjust to economic change;
+(b) <i>Functions of the Council</i>. The Council shall provide information and advice to the President through the Secretary of Labor, the Office of the 21st Century Workforce within the Department of Labor, and other appropriate Federal officials relating to issues affecting the 21st century workforce. These activities shall include:
 
-&emsp;(2) a summary of best practices and policies carried out by or on behalf of communities in responding to large-scale economic changes; and
+&emsp;(i) assessing the effects of rapid technological changes, demographic trends, globalization, changes in work processes, and the need for new and enhanced skills for workers, employers, and other related sectors of society;
 
-&emsp;(3) any recommendations relating to legislative and administrative actions that the Commission determines to be appropriate.
+&emsp;(ii) examining current and alternative approaches to assisting workers and employers in adjusting to and benefitting from such changes, including opportunities for workplace education, retraining, access to assistive technologies and workplace supports, and skills upgrading;
 
-Sec. 4. <i>Administration</i>. (a) Members of the Commission shall serve without compensation for their work on the Commission. While engaged in the work of the Commission, members appointed from among private citizens of the United States may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
+&emsp;(iii) identifying impediments to the adjustment to such changes by workers and employers and recommending approaches and policies that could remove those impediments;
 
-(b) The Department of Labor shall provide the Commission with funding and administrative support. The Commission may have paid staff. In addition, appropriate Federal agencies may be requested to designate staff to assist with the work of the Commission. The Secretary of Labor shall perform the functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting to the Congress, in accordance with the guidelines and procedures established by the Administrator of General Services.
+&emsp;(iv) assisting the Office of the 21st Century Workforce in reviewing programs carried out by the Department of Labor and identifying changes to such programs that would stream line \[sic\] and update their effectiveness in meeting the needs of the workforce; and
 
-Sec. 5. <i>General Provisions</i>. The Commission shall terminate 30 days after submitting its report.
+&emsp;(v) analyzing such additional issues relating to the workforce and making such reports as the President or the Secretary of Labor may request.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(c) <i>Administration of the Council.</i>
+
+&emsp;(i) The Council shall meet on the call of the Chairperson, at a time and place designated by the Chairperson. The Chairperson may form subcommittees or working groups within the Council to address particular matters.
+
+&emsp;(ii) The Council may from time to time prescribe such procedures and policies relating to the activities of the Council as are not inconsistent with law or with the provisions of this order.
+
+&emsp;(iii) Each member of the Council who is not an officer or employee of the Federal Government shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal service (5 U.S.C. 5701–5707).
+
+&emsp;(iv) The Department of Labor shall make available appropriate funding and administrative support to assist the Council in carrying out the functions under this section, including necessary office space, equipment, supplies, staff, and services. The Secretary of Labor shall perform the functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.), as amended, except that of reporting to the Congress, with respect to the Council in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+&emsp;(v) The heads of executive agencies shall, to the extent permitted by law, provide the Council with such information as it may require for purposes of carrying out the functions described in this section.
+
+(d) <i>Termination of the Council</i>. The Council shall terminate 2 years from the date of this order unless extended by the President prior to such date.
+
+Sec. 3. <i>Effect on Prior Orders.</i>
+
+(a) \[Amended Ex. Ord. No. 13111, 5 U.S.C. 4103 note.\]
+
+(b) <i>Revocation of Executive Order 13174</i>. Executive Order 13174 of October 27, 2000, relating to the establishment of the Commission on Workers, Communities, and Economic Change in the New Economy, is revoked.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

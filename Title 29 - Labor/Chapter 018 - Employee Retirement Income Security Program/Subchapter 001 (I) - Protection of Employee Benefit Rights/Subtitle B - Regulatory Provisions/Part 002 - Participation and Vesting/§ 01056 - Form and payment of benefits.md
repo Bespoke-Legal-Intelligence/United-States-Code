@@ -10,7 +10,7 @@ Each pension plan shall provide that unless the participant otherwise elects, th
 
 &emsp;(3) the participant terminates his service with the employer.
 
-> In the case of a plan which provides for the payment of an early retirement benefit, such plan shall provide that a participant who satisfied the service requirements for such early retirement benefit, but separate from the service (with any nonforfeitable right to an accrued benefit) before satisfying the age requirement for such early retirement benefit, is entitled upon satisfaction of such age requirement to receive a benefit not less than the benefit to which he would be entitled at the normal retirement age, actuarially reduced under regulations prescribed by the Secretary of the Treasury.
+> In the case of a plan which provides for the payment of an early retirement benefit, such plan shall provide that a participant who satisfied the service requirements for such early retirement benefit, but separated from the service (with any nonforfeitable right to an accrued benefit) before satisfying the age requirement for such early retirement benefit, is entitled upon satisfaction of such age requirement to receive a benefit not less than the benefit to which he would be entitled at the normal retirement age, actuarially reduced under regulations prescribed by the Secretary of the Treasury.
 
 #### (b) Decrease in plan benefits by reason of increases in benefit levels under Social Security Act or Railroad Retirement Act of 1937
 
@@ -30,7 +30,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 (1) Each pension plan shall provide that benefits provided under the plan may not be assigned or alienated.
 
-(2) For the purposes of paragraph (1) of this subsection, there shall not be taken into account any voluntary and revocable assignment of not to exceed 10 percent of any benefit payment, or of any irrevocable assignment or alienation of benefits executed before September 2, 1974. The preceding sentence shall not apply to any assignment or alienation made for the purposes of defraying plan administration costs. For purposes of this paragraph a loan made to a participant or beneficiary shall not be treated asan assignment or alienation if such loan is secured by the participant's accrued non-forfeitable benefit and is exempt from the tax imposed by section 4975 of title 26 (relating to tax on prohibited transactions) by reason of section 4975(d)(1) of title 26.
+(2) For the purposes of paragraph (1) of this subsection, there shall not be taken into account any voluntary and revocable assignment of not to exceed 10 percent of any benefit payment, or of any irrevocable assignment or alienation of benefits executed before September 2, 1974. The preceding sentence shall not apply to any assignment or alienation made for the purposes of defraying plan administration costs. For purposes of this paragraph a loan made to a participant or beneficiary shall not be treated as an assignment or alienation if such loan is secured by the participant's accrued non-forfeitable benefit and is exempt from the tax imposed by section 4975 of title 26 (relating to tax on prohibited transactions) by reason of section 4975(d)(1) of title 26.
 
 (3)(A) Paragraph (1) shall apply to the creation, assignment, or recognition of a right to any benefit payable with respect to a participant pursuant to a domestic relations order, except that paragraph (1) shall not apply if the order is determined to be a qualified domestic relations order. Each pension plan shall provide for the payment of benefits in accordance with the applicable requirements of any qualified domestic relations order.
 
@@ -98,7 +98,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(I) shall be in writing,
 
-&emsp;(II) shall provide for the notification of each person specified in a domestic relations order as entitled to payment of benefits under the plan (at the address included in the domestic relations order) of such procedures promptlyupon receipt by the plan of the domestic relations order, and
+&emsp;(II) shall provide for the notification of each person specified in a domestic relations order as entitled to payment of benefits under the plan (at the address included in the domestic relations order) of such procedures promptly upon receipt by the plan of the domestic relations order, and
 
 &emsp;(III) shall permit an alternate payee to designate a representative for receipt of copies of notices that are sent to the alternate payee with respect to a domestic relations order.
 
@@ -180,7 +180,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that is subject to the additional funding requirements of section 1082(d) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1082(e)(5) of this title).
+&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that issubject to the additional funding requirements of section 1082(d) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1082(e)(5) of this title).
 
 #### (2) Prohibited payment
 
@@ -264,7 +264,7 @@ Section 761(b) of Pub. L. 103–465 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1082, 1132, and 1301 of this title\] shall apply to plan years beginning after December 31, 1994.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 1082, 1132, and 1301 of this title\] shall apply to plan years beginning after December 31, 1994.
 
 “(2)
 

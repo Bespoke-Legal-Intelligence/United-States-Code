@@ -10,6 +10,8 @@
 
 (3) For purposes of this subsection, a veteran who served on active duty in the Southwest Asia theater of operations during the Persian Gulf War and has an illness described in paragraph (2) shall be presumed to have been exposed by reason of such service to the agent, hazard, or medicine or vaccine associated with the illness in the regulations prescribed under this section unless there is conclusive evidence to establish that the veteran was not exposed to the agent, hazard, or medicine or vaccine by reason of such service.
 
+(4) For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness include the signs and symptoms listed in section 1117(g) of this title.
+
 (b)(1)(A) Whenever the Secretary makes a determination described in subparagraph (B), the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
 
 (B) A determination referred to in subparagraph (A) is a determination based on sound medical and scientific evidence that a positive association exists between—
@@ -44,13 +46,23 @@
 
 &emsp;(2) a survivor of a veteran who was awarded dependency and indemnity compensation for the death of a veteran resulting from the illness on the basis of the presumption before that date shall continue to be entitled to receive dependency and indemnity compensation on that basis.
 
-(e) Subsections (b) through (d) shall cease to be effective 10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998.
+(e) Subsections (b) through (d) shall cease to be effective on September 30, 2011.
 
-(Added Pub. L. 105–277, div. C, title XVI, §1602(a)(1), oct. 21, 1998, 112 Stat. 2681–742.)
+(Added Pub. L. 105–277, div. C, title XVI, §1602(a)(1), Oct. 21, 1998, 112 Stat. 2681–742; amended Pub. L. 107–103, title II, §202(b)(2), (d)(1), Dec. 27, 2001, 115 Stat. 989.)
 
 #### References in Text
 
-Section 1603 of the Persian Gulf War Veterans Act of 1998, referred to in subsecs. (b)(2)(A)(i), (c)(1), and (e), is section 1603 of Pub. L. 105–277, which is set out in a note under section 1117 of this title.
+Section 1603 of the Persian Gulf War Veterans Act of 1998, referred to in subsecs. (b)(2)(A)(i) and (c)(1), is section 1603 of Pub. L. 105–277, which is set out in a note under section 1117 of this title.
+
+#### Amendments
+
+2001—Subsec. (a)(4). Pub. L. 107–103, §202(b)(2), added par. (4).
+
+Subsec. (e). Pub. L. 107–103, §202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
+
+#### Effective Date of 2001 Amendment
+
+Amendment by section 202(b)(2) of Pub. L. 107–103 effective Mar. 1, 2002, see section 202(c) of Pub. L. 107–103, set out as a note under section 1117 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -120,7 +120,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as anEffective Date of 1986 Amendment note under section 48 of this title.
+Section effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 48 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -84,13 +84,13 @@ In applying this section for purposes of determining income tax liability incurr
 
 #### Prior Provisions
 
-A prior section 932, acts Aug. 16, 1954, ch. 736, 68A Stat. 292; Nov. 13, 1966, Pub. L. 89–809, title I, §103(m), 80 Stat. 1554; Oct. 31, 1972, Pub. L. 92–606, §1(f)(2), (3), 86Stat. 1497; Apr. 7, 1986, Pub. L. 99–272, title XII, §12103(a), 100 Stat. 285, related to income taxation of citizens of possessions of the United States, prior to repeal by Pub. L. 99–514, title XII, §1272(d)(1), Oct. 22, 1986, 100 Stat. 2594.
+A prior section 932, acts Aug. 16, 1954, ch. 736, 68A Stat. 292; Nov. 13, 1966, Pub. L. 89–809, title I, §103(m), 80 Stat. 1554; Oct. 31, 1972, Pub. L. 92–606, §1(f)(2), (3), 86 Stat. 1497; Apr. 7, 1986, Pub. L. 99–272, title XII, §12103(a), 100 Stat. 285, related to income taxation of citizens of possessions of the United States, prior to repeal by Pub. L. 99–514, title XII, §1272(d)(1), Oct. 22, 1986, 100 Stat. 2594.
 
 #### Amendments
 
 <b>1988</b>—Subsec. (c)(2). Pub. L. 100–647, §1012(w)(3), substituted “an income tax return” for “his income tax return”.
 
-Subsec. (c)(4). Pub. L. 100–647, §1012(w)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an individual who is a bona fide resident of the Virgin Islands at the close of the taxable year and who, on his return of income tax to the Virgin Islands, reports income from all sources and identifies the source of each item shown on such return, for purposes of calculating income tax liability to the United States gross income shall not include any amount included in gross income on such return.”
+Subsec. (c)(4). Pub. L. 100–647, §1012(w)(2), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: “In the case of an individual who is a bona fide resident of the Virgin Islands at the close of the taxable year and who, on his return of income tax to the Virgin Islands, reports income from all sources and identifies the source of each item shown on such return, for purposes of calculating income tax liability to the United States gross income shall not include any amount included in gross income on such return.”
 
 Subsec. (e). Pub. L. 100–647, §1012(w)(1), substituted current heading for “Section not to apply to tax imposed in Virgin Islands” and amended text generally. Prior to amendment, text read as follows: “This section shall not apply for purposes of determining income tax liability incurred to the Virgin Islands.”
 

@@ -58,7 +58,7 @@ The Secretary shall make and insure loans under this subchapter only to the exte
 
 #### (c) Family farm system
 
-The Secretary shall conduct the emergency loan program under this subchapter in a mannerthat will foster and encourage the family farm system of agriculture, consistent with the reaffirmation of policy and declaration of the intent of Congress contained in section 2266(a) of this title.
+The Secretary shall conduct the emergency loan program under this subchapter in a manner that will foster and encourage the family farm system of agriculture, consistent with the reaffirmation of policy and declaration of the intent of Congress contained in section 2266(a) of this title.
 
 #### (d) Definitions
 
@@ -132,7 +132,7 @@ Section 3(d) of Pub. L. 96–438 provided that: “The amendments to subtitle C 
 
 &emsp;“(2) the reduction in the time limit on subsequent emergency loans under section 330 of the Consolidated Farm and Rural Development Act \[section 1971 of this title\] made by subsection (b)(2) of this section \[amending section 1971 of this title\]
 
-> shall not apply to subsequent emergency loans under section 330 (as in effect on the date preceding the date of enactment of this Act) that are made to such borrowers for the disasters for which the borrowers obtained loans under subtitle C prior to December 16, 1979.”
+> shall not apply to subsequent emergency loans under section 330 (as in effect on the date preceding the dateof enactment of this Act) that are made to such borrowers for the disasters for which the borrowers obtained loans under subtitle C prior to December 16, 1979.”
 
 Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as a note under section 631 of Title 15, Commerce and Trade.
 

@@ -230,5 +230,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 164, 170, 401, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6427, 7701 of this title; title 25 section 566.
+This section is referred to in sections 164, 170, 401, 1022, 2055, 2106, 2522, 4227, 4484, 6420, 6421, 6427, 7701 of this title; title 25 section 566.
 

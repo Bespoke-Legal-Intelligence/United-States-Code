@@ -124,12 +124,7 @@
 | (f) | Commodity Credit Corporation. |
 | (g) | Omitted. |
 | (h) | Period of effectiveness. |
-| [7252\.](Subchapter%20004%20%28IV%29%20-%20Other%20Commodities/Part%20A%20-%20Dairy/%C2%A7%2007252%20-%20Recourse%20loan%20program%20for%20commercial%20processors%20of%20dairy%20products.md) | Recourse loan program for commercial processors of dairy products. |
-| (a) | Recourse loans available. |
-| (b) | Amount of loan. |
-| (c) | Period of loan. |
-| (d) | “Eligible dairy products” defined. |
-| (e) | Effective date. |
+| [7252\.](Subchapter%20004%20%28IV%29%20-%20Other%20Commodities/Part%20A%20-%20Dairy/%C2%A7%2007252%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9376%2C%20title%20VII%2C%20%C2%A7772%28b%29%2C%20Nov.%2028%2C%202001%2C%20115%20Stat.%20745.md) | Repealed. |
 | [7253\.](Subchapter%20004%20%28IV%29%20-%20Other%20Commodities/Part%20A%20-%20Dairy/%C2%A7%2007253%20-%20Consolidation%20and%20reform%20of%20Federal%20milk%20marketing%20orders.md) | Consolidation and reform of Federal milk marketing orders. |
 | (a) | Amendment of orders. |
 | (b) | Expedited process. |

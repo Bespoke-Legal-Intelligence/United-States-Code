@@ -92,7 +92,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 #### (f) Reception and investigation of complaints or information; disclosure of identity of informer
 
-(1) The Inspector General may receive and investigate complaints or information from a member of the Service or employee of the Department concerning the possible existence of an activity constituting a violation of laws or regulations, constituting mismanagement, gross waste of funds, or abuse of authority, or constituting a substantial and specific danger to public health or safety.
+(1) The Inspector General may receive and investigate complaints or information from amember of the Service or employee of the Department concerning the possible existence of an activity constituting a violation of laws or regulations, constituting mismanagement, gross waste of funds, or abuse of authority, or constituting a substantial and specific danger to public health or safety.
 
 (2) The Inspector General shall not, after receipt of a complaint or information from a member of the Service or employee of the Department, disclose the identity of such individual without the consent of such individual, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
 
@@ -100,7 +100,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 Under the general supervision of the Secretary of State, the Inspector General may review activities and operations performed under the direction, coordination, and supervision of chiefs of mission for the purpose of ascertaining their consonance with the foreign policy of the United States and their consistency with the responsibilities of the Secretary of State and the chief of mission.
 
-(Pub. L. 96–465, title I, §209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, §413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2208(a), (b), Oct. 21,1998, 112 Stat. 2681–810; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–443.)
+(Pub. L. 96–465, title I, §209, Oct. 17, 1980, 94 Stat. 2080; Pub. L. 99–399, title IV, §413(a)(6), Aug. 27, 1986, 100 Stat. 868; Pub. L. 99–529, title IV, §405, Oct. 24, 1986, 100 Stat. 3020; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2208(a), (b), Oct. 21, 1998, 112 Stat. 2681–810; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–443.)
 
 #### References in Text
 

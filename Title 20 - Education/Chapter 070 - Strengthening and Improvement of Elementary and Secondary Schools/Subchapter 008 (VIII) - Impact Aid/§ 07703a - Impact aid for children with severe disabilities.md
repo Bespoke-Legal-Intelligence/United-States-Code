@@ -54,5 +54,5 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(B
 
 #### Codification
 
-Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year2001, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
 

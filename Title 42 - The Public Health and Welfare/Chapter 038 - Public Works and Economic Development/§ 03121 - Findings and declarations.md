@@ -152,7 +152,7 @@ Federal cochairperson.—
 
 &emsp;&emsp;“(A)
 
-In general.—The President pro temporare of the Senate and the Speaker of the House of Representatives shall each submit a list of nominations for the position of the Federal Cochairperson under paragraph (1)(G), including pertinent biographical information, to the Secretary.
+In general.—The President pro temporare \[sic\] of the Senate and the Speaker of the House of Representatives shall each submit a list of nominations for the position of the Federal Cochairperson under paragraph (1)(G), including pertinent biographical information, to the Secretary.
 
 &emsp;&emsp;“(B)
 

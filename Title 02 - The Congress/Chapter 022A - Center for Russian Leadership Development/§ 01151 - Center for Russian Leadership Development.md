@@ -8,7 +8,7 @@
 
 #### (2) Board of Trustees
 
-&emsp;The Center shall be subject to the supervision and direction of a Board of Trustees which shall be composed of nine members as follows:
+&emsp;The Center shall be subject to the supervision and direction of a Board of Trusteeswhich shall be composed of nine members as follows:
 
 &emsp;&emsp;(A) Two members appointed by the Speaker of the House of Representatives, one of whom shall be designated by the Majority Leader of the House of Representatives and one of whom shall be designated by the Minority Leader of the House of Representatives.
 
@@ -24,7 +24,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the Center is to establish, in accordance with the provisions of paragraph\(2), a program to enable emerging political leaders of Russia at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States.
+&emsp;The purpose of the Center is to establish, in accordance with the provisions of paragraph (2), a program to enable emerging political leaders of Russia at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States.
 
 #### (2) Grant program
 
@@ -118,7 +118,7 @@ Any amounts appropriated for use in the program established under section 3011 o
 
 #### (2) Transfer
 
-&emsp;Subsection (g) of this section shall only apply to amounts which remain unexpendedon and after the date the Board of Trustees of the Center certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
+&emsp;Subsection (g) of this section shall only apply to amounts which remain unexpended on and after the date the Board of Trustees of the Center certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
 
 (Pub. L. 106–554, §1(a)(2) \[title III, §313\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120.)
 
@@ -128,15 +128,15 @@ Section 3011 of the 1999 Emergency Supplemental Appropriations Act, referred to 
 
 #### Russian Leadership Program
 
-Pub. L. 106–31, title III, §3011, May 21, 1999, 113 Stat. 93, as amended by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §585\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117, provided that:
+Pub. L. 106–31, title III, §3011, May 21, 1999, 113 Stat. 93, as amended by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §585\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117; Pub. L. 106–554, §1(a)(2) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–119, provided that:
 
 “(a)
 
 Purpose.—It is the purpose of this section to establish, in accordance with the provisions of this section—
 
-&emsp;“(1) a pilot program within the Library of Congress for fiscal years 1999 and 2000; and
+&emsp;“(1) a pilot program within the Library of Congress for fiscal years 2000 and 2001; and
 
-&emsp;“(2) a permanent program within the Executive agency designated by the President of the United States for fiscal years 2001 and thereafter,
+&emsp;“(2) a permanent program within the Executive agency designated by the President of the United States for fiscal years 2002 and thereafter,
 
 > to enable emerging political leaders of Russia at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States.
 
@@ -170,7 +170,7 @@ In general.—Subject to the availability of appropriations, the head of the adm
 
 &emsp;&emsp;“(B)
 
-Waiver of competitive bidding.—The Librarian of Congress, after consultation with the Joint Committee on the Library of Congress, may enter into contracts under subparagraph (A)(i) to carry out the pilot program during fiscal years 1999 and 2000 without regard to section 3709 of the Revised Statutes \[41 U.S.C. 5\] or any other requirement for competitive contracting or the providing of notice of contracting opportunities.
+Waiver of competitive bidding.—The Librarian of Congress, after consultation with the Joint Committee on the Library of Congress, may enter into contracts under subparagraph (A)(i) to carry out the pilot program during fiscal years 2000 and 2001 without regard to section 3709 of the Revised Statutes \[41 U.S.C. 5\] or any other requirement for competitive contracting or the providing of notice of contracting opportunities.
 
 “(c)
 
@@ -204,7 +204,7 @@ Contents.—Each application submitted pursuant to paragraph (1) shall—
 
 &emsp;“(3)
 
-Waiver.—The Librarian of Congress may waive the requirement of this subsection in carrying out the pilot program during fiscal years 1999 and 2000.
+Waiver.—The Librarian of Congress may waive the requirement of this subsection in carrying out the pilot program during fiscal years 2000 and 2001.
 
 “(e)
 
@@ -212,13 +212,13 @@ Advisory Board.—
 
 &emsp;“(1)
 
-In general.—There is established a Russian Leadership Program Advisory Board which shall advise the head of the administering agency as to the carrying out of the permanent program during fiscal years 2001 and thereafter.
+In general.—There is established a Russian Leadership Program Advisory Board which shall advise the head of the administering agency as to the carrying out of the permanent program during fiscal years 2002 and thereafter.
 
 &emsp;“(2)
 
 Membership.—The Advisory Board under paragraph (1) shall consist of—
 
-&emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
+&emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall bedesignated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
 
 &emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
 
@@ -250,7 +250,7 @@ In general.—Of funds made available under the heading ‘SENATE’ under title
 
 &emsp;&emsp;“(B)
 
-Use of funds at close of fiscal year.—Funds made available under this paragraph which are unexpended and unobligated as of the close of fiscal year 1999 shall no longer be available for suchpurpose and shall be available for the purpose originally appropriated.
+Use of funds at close of fiscal year.—Funds made available under this paragraph which are unexpended and unobligated as of the close of fiscal year 1999 shall no longer be available for such purpose and shall be available for the purpose originally appropriated.
 
 &emsp;“(2)
 
@@ -272,9 +272,9 @@ Definitions.—In this section:
 
 Administering agency.—The term ‘administering agency’ means—
 
-&emsp;&emsp;“(A) for fiscal years 1999 and 2000, the Library of Congress; and
+&emsp;&emsp;“(A) for fiscal years 2000 and 2001, the Library of Congress; and
 
-&emsp;&emsp;“(B) for fiscal year 2001, and subsequent fiscal years, the Executive agency designated by the President of the United States under subsection (a)(2).
+&emsp;&emsp;“(B) for fiscal year 2002, and subsequent fiscal years, the Executive agency designated by the President of the United States under subsection (a)(2).
 
 &emsp;“(2)
 

@@ -88,7 +88,7 @@ Pub. L. 106–224, title II, §255, June 20, 2000, 114 Stat. 424, provided that:
 
 #### Authority of Secretary To Make or Guarantee Certain Loans
 
-Pub. L. 104–134, title II, §2002, Apr. 26, 1996, 110 Stat. 1321–313, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture is hereby authorized to make or guarantee an operating loan under Subtitle B \[7 U.S.C. 1941 et seq.\] or an emergency loan under Subtitle C \[7 U.S.C. 1961 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C.1922 et. seq.), as in effect prior to April 4, 1996, to a loan applicant who was less than 90 days delinquent on April 4, 1996, if the loan applicant had submitted an application for the loan prior to April 5, 1996.”
+Pub. L. 104–134, title II, §2002, Apr. 26, 1996, 110 Stat. 1321–313, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture is hereby authorized to make or guarantee an operating loan under Subtitle B \[7 U.S.C. 1941 et seq.\] or an emergency loan under Subtitle C \[7 U.S.C. 1961 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1922 et. seq.), as in effect prior to April 4, 1996, to a loan applicant who was less than 90 days delinquent on April 4, 1996, if the loan applicant had submitted an application for the loan prior to April 5, 1996.”
 
 #### 1989 Farm Operating Loans
 

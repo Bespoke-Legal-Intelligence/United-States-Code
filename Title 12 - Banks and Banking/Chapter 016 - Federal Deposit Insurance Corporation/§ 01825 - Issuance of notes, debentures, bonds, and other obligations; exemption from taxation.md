@@ -10,7 +10,7 @@ When acting as a receiver, the following provisions shall apply with respect to 
 
 &emsp;(1) The Corporation including its franchise, its capital, reserves, and surplus, and its income, shall be exempt from all taxation imposed by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed, except that, notwithstanding the failure of any person to challenge an assessment under State law of such property's value, such value, and the tax thereon, shall be determined as of the period for which such tax is imposed.
 
-&emsp;(2) No property of the Corporation shall be subject to levy, attachment, garnishment,foreclosure, or sale without the consent of the Corporation, nor shall any involuntary lien attach to the property of the Corporation.
+&emsp;(2) No property of the Corporation shall be subject to levy, attachment, garnishment, foreclosure, or sale without the consent of the Corporation, nor shall any involuntary lien attach to the property of the Corporation.
 
 &emsp;(3) The Corporation shall not be liable for any amounts in the nature of penalties or fines, including those arising from the failure of any person to pay any real property, personal property, probate, or recording tax or any recording or filing fees when due.
 
@@ -50,7 +50,7 @@ When acting as a receiver, the following provisions shall apply with respect to 
 
 &emsp;&emsp;(A) the amount of cash or the equivalent of cash held by the Bank Insurance Fund or Savings Association Insurance Fund, respectively;
 
-&emsp;&emsp;(B) the amount which is equal to 90 percent of the Corporation's estimate of the fair market value of assets held by the Bank Insurance Fund or the Savings Association Insurance Fund, respectively, other than assets described in subparagraph (A); and
+&emsp;&emsp;(B) the amount which is equal to 90 percent of the Corporation's estimate of the fairmarket value of assets held by the Bank Insurance Fund or the Savings Association Insurance Fund, respectively, other than assets described in subparagraph (A); and
 
 &emsp;&emsp;(C) the total of the amounts authorized to be borrowed from the Secretary of the Treasury pursuant to section 1824(a) of this title.
 
@@ -100,7 +100,7 @@ obligations liabilities” in heading.
 
 1991—Subsec. (c)(5), (6). Pub. L. 102–242, §102(a), added pars. (5) and (6) and struck out former par. (5) which provided for a 10-percent-minimum net worth requirement for Bank Insurance Fund or Savings Association Insurance Fund and former par. (6) which provided exception for up to $5,000,000,000 in additional liabilities beyond limitations of par. (5).
 
-Subsec. (c)(7). Pub. L. 102–242, §102(c), struck out par. (7) which provided for calculation of net worth andasset valuation of Bank Insurance Fund and the Savings Association Insurance Fund for purposes of par. (5).
+Subsec. (c)(7). Pub. L. 102–242, §102(c), struck out par. (7) which provided for calculation of net worth and asset valuation of Bank Insurance Fund and the Savings Association Insurance Fund for purposes of par. (5).
 
 1989—Subsec. (a). Pub. L. 101–73 designated existing provision as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 

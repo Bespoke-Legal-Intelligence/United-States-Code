@@ -6,7 +6,7 @@ There is hereby established in the Commission an Office of Nuclear Regulatory Re
 
 #### (b) Functions of Director
 
-Subject to the provisions of this chapter, the Director of Nuclear Regulatory Research shall perform such functions as the Commission shall delegate including:
+Subject to the provisions of this chapter, the Director of Nuclear Regulatory Research shallperform such functions as the Commission shall delegate including:
 
 &emsp;(1) Developing recommendations for research deemed necessary for performance by the Commission of its licensing and related regulatory functions.
 

@@ -14,7 +14,7 @@ Section 1682 of title XVI of div. A of Pub. L. 103–337 provided that:
 
 “(a)
 
-Promotions To Fill Vacancies.—A reserve commissioned officer of the Army or Air Force (other than a commissioned warrant officer) who, on the day before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], is recommended for promotion to fill a vacancy in the ArmyReserve or the Air Force Reserve under section 3383, 3384, 8372, or 8373 of title 10, United States Code, as in effect on the day before the effective date of this title, in the next higher reserve grade shall be considered to have been recommended for promotion to that grade by a vacancy promotion board under section 14101(a)(2) of title 10, United States Code, as added by this title.
+Promotions To Fill Vacancies.—A reserve commissioned officer of the Army or Air Force (other than a commissioned warrant officer) who, on the day before the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title\], is recommended for promotion to fill a vacancy in the Army Reserve or the Air Force Reserve under section 3383, 3384, 8372, or 8373 of title 10, United States Code, as in effect on the day before the effective date of this title, in the next higher reserve grade shall be considered to have been recommended for promotion to that grade by a vacancy promotion board under section 14101(a)(2) of title 10, United States Code, as added by this title.
 
 “(b)
 
@@ -68,7 +68,7 @@ Officers Found Qualified for Promotion to Lieutenant (Junior Grade) or First Lie
 
 “(e)
 
-Officers Whose Names Have Been Omitted From a List Furnished to a Selection Board.—A covered officer whose name, as of the effective date of this title, had been omitted by administrative error from the list of officers furnished the most recent selection board to consider officers of the same grade and component, shall be considered by a special selection boardestablished under section 14502 of title 10, United States Code, as added by this title. If the officer is selected for promotion by that board, the officer shall be promoted as specified in section 5904 of title 10, United States Code, as in effect on the day before the effective date of this title.
+Officers Whose Names Have Been Omitted From a List Furnished to a Selection Board.—A covered officer whose name, as of the effective date of this title, had been omitted by administrative error from the list of officers furnished the most recent selection board to consider officers of the same grade and component, shall be considered by a special selection board established under section 14502 of title 10, United States Code, as added by this title. If the officer is selected for promotion by that board, the officer shall be promoted as specified in section 5904 of title 10, United States Code, as in effect on the day before the effective date of this title.
 
 “(f)
 

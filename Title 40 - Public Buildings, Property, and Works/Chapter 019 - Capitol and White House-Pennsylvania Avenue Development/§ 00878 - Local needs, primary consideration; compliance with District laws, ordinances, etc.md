@@ -8,7 +8,7 @@
 
 &emsp;(3) shall foster local initiative and participation in connection with the planning and development of its projects.
 
-(b) The Corporation shall comply with all District of Columbia laws, ordinances, codes, and regulations in constructing, reconstructing, rehabilitating, altering, and improving any project: <i>Provided</i>, That the provisions of section 428 of title 5 of the District of Columbia Code shall apply to all the constructing, reconstructing, rehabilitating, altering, and improving of all buildings by the Corporation. The construction, reconstruction, rehabilitation, alteration, and improvement of any project by non-Government sources shall be subject to the provisions of the District of Columbia Code and zoning regulations.
+(b) The Corporation shall comply with all District of Columbia laws, ordinances, codes, and regulations in constructing, reconstructing, rehabilitating, altering, and improving any project: <i>Provided</i>, That the provisions of section 428 of title 5 of the District of Columbia Code shall apply to all the constructing, reconstructing, rehabilitating, altering, and improving of all buildings by the Corporation. The construction, reconstruction, rehabilitation, alteration, and improvement of any project by non-Government sources shall be subject to the provisionsof the District of Columbia Code and zoning regulations.
 
 (Pub. L. 92–578, §9, Oct. 27, 1972, 86 Stat. 1273.)
 

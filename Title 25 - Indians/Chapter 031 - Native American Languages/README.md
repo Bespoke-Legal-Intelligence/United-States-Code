@@ -13,7 +13,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 20 section 7902.
+This chapter is referred to in title 20 section 7512.
 
 
 ---

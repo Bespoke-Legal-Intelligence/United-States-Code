@@ -196,7 +196,7 @@ The President shall not provide financial assistance under this section in an am
 
 #### (<i>l</i>) Report on Federal and State administration
 
-Not later than 18 months after October 30, 2000, the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility foradministering the assistance program established under this section to capable States.
+Not later than 18 months after October 30, 2000, the President, in consultation with State and local governments, shall submit to Congress a report evaluating efforts to implement this section and recommending a process for transferring greater authority and responsibility for administering the assistance program established under this section to capable States.
 
 #### (m) Termination of authority
 

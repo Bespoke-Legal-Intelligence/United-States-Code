@@ -28,5 +28,5 @@ Section effective 180 days after Apr. 28, 1988, but not applicable to recipients
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1234a, 1234h, 8071h of this title.
+This section is referred to in sections 1234a, 1234h, 7223h of this title.
 

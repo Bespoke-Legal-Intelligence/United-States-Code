@@ -6,7 +6,9 @@ The tax imposed by section 2001 shall be credited with the amount of any estate,
 
 #### (b) Amount of credit
 
-The credit allowed by this section shall not exceed the appropriate amount stated in the following table:
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the credit allowed by this section shall not exceed the appropriate amount stated in the following table:
 
 &nbsp;
 
@@ -33,7 +35,39 @@ The credit allowed by this section shall not exceed the appropriate amount state
 | Over $9,040,000 but not over $10,040,000 | $930,800 plus 15.2% of the excess over $9,040,000. |
 | Over $10,040,000 | $1,082,800 plus 16% of the excess over $10,040,000. |
 
-> For purposes of this section, the term “adjusted taxable estate” means the taxable estate reduced by $60,000.
+#### (2) Reduction of maximum credit
+
+#### (A) In general
+
+&emsp;&emsp;In the case of estates of decedents dying after December 31, 2001, the credit allowed by this section shall not exceed the applicable percentage of the credit otherwise determined under paragraph (1).
+
+#### (B) Applicable percentage
+
+<b>In the case of estates of decedents</b>
+
+<b>The applicable</b>
+
+<b> dying during:</b>
+
+<b>percentage is:</b>
+
+&emsp;&emsp;2002
+
+75 percent&nbsp;&nbsp;
+
+&emsp;&emsp;2003
+
+50 percent&nbsp;&nbsp;
+
+&emsp;&emsp;2004
+
+25 percent.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (3) Adjusted taxable estate
+
+&emsp;For purposes of this section, the term “adjusted taxable estate” means the taxable estate reduced by $60,000.
 
 #### (c) Period of limitations on credit
 
@@ -47,11 +81,7 @@ The credit allowed by this section shall include only such taxes as were actuall
 
 > Refund based on the credit may (despite the provisions of sections 6511 and 6512) be made if claim therefor is filed within the period above provided. Any such refund shall be made without interest.
 
-#### (d) Basic estate tax
-
-The basic estate tax and the estate tax imposed by the Revenue Act of 1926 shall be 125 percent of the amount determined to be the maximum credit provided by subsection (b). The additional estate tax shall be the difference between the tax imposed by section 2001 or 2101 and the basic estate tax.
-
-#### (e) Limitation in cases involving deduction under section 2053(d)
+#### (d) Limitation in cases involving deduction under section 2053(d)
 
 In any case where a deduction is allowed under section 2053(d) for an estate, succession, legacy, or inheritance tax imposed by a State or the District of Columbia upon a transfer for public, charitable, or religious uses described in section 2055 or 2106(a)(2), the allowance of the credit under this section shall be subject to the following conditions and limitations:
 
@@ -65,17 +95,27 @@ In any case where a deduction is allowed under section 2053(d) for an estate, su
 
 &emsp;(3) If the amount determined under subparagraph (B) of paragraph (2) is less than the amount determined under subparagraph (A) of that paragraph, then for purposes of subsection (d) such lesser amount shall be the maximum credit provided by subsection (b).
 
-#### (f) Limitation based on amount of tax
+#### (e) Limitation based on amount of tax
 
 The credit provided by this section shall not exceed the amount of the tax imposed by section 2001, reduced by the amount of the unified credit provided by section 2010.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 374; Feb. 20, 1956, ch. 63, §3, 70 Stat. 24; Pub. L. 85–866, title I, §§65(a), 102(c)(1), Sept. 2, 1958, 72 Stat. 1657, 1674; Pub. L. 86–175, §3, Aug. 21, 1959, 73 Stat. 397; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), title XX, §§2001(c)(1)(A), 2004(f)(3), Oct. 4, 1976, 90 Stat. 1806, 1834, 1849, 1872; Pub. L. 97–34, title IV, §422(e)(2), Aug. 13, 1981, 95 Stat. 316.)
+#### (f) Termination
 
-#### References in Text
+This section shall not apply to the estates of decedents dying after December 31, 2004.
 
-The Revenue Act of 1926, referred to in subsec. (d), is act Feb. 26, 1926, ch. 27, 44 Stat. 9. For complete classification of this Act to the Code, see Tables.
+(Aug. 16, 1954, ch. 736, 68A Stat. 374; Feb. 20, 1956, ch. 63, §3, 70 Stat. 24; Pub. L. 85–866, title I, §§65(a), 102(c)(1), Sept. 2, 1958, 72 Stat. 1657, 1674; Pub. L. 86–175, §3, Aug. 21, 1959, 73 Stat. 397; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), title XX, §§2001(c)(1)(A), 2004(f)(3), Oct. 4, 1976, 90 Stat. 1806, 1834, 1849, 1872; Pub. L. 97–34, title IV, §422(e)(2), Aug. 13, 1981, 95 Stat. 316; Pub. L. 107–16, title V, §§531(a), 532(a), June 7, 2001, 115 Stat. 72, 73; Pub. L. 107–134, title I, §103(b)(1), Jan. 23, 2002, 115 Stat. 2431.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2002</b>—Subsecs. (d) to (g). Pub. L. 107–134 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “The basic estate tax and the estate tax imposed by the Revenue Act of 1926 shall be 125 percent of the amount determined to be the maximum credit provided by subsection (b). The additional estate tax shall be the difference between the tax imposed by section 2001 or 2101 and the basic estate tax.”
+
+<b>2001</b>—Subsec. (b). Pub. L. 107–16, §§531(a), 901, temporarily designated existing provisions as pars. (1) and (3), inserted headings, in par. (1) substituted “Except as provided in paragraph (2), the credit allowed” for “The credit allowed”, and added par. (2). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (g). Pub. L. 107–16, §§532(a), 901, temporarily added subsec. (g). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1981</b>—Subsec. (c)(2). Pub. L. 97–34 struck out reference to section 6166A.
 
@@ -98,6 +138,30 @@ Subsec. (f). Pub. L. 94–455, §2001(c)(1)(A)(iv), added subsec. (f).
 Subsec. (c)(3). Pub. L. 85–866, §65(a), added par. (3).
 
 <b>1956</b>—Subsec. (e). Act Feb. 20, 1956, added subsec. (e).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–134, title I, §103(d), Jan. 23, 2002, 115 Stat. 2431, provided that:
+
+“(1)
+
+Effective date.—The amendments made by this section \[amending this section and sections 2053 and 2201 of this title\] shall apply to estates of decedents—
+
+&emsp;“(A) dying on or after September 11, 2001; and
+
+&emsp;“(B) in the case of individuals dying as a result of the April 19, 1995, terrorist attack, dying on or after April 19, 1995.
+
+“(2)
+
+Waiver of limitations.—If refund or credit of any overpayment of tax resulting from the amendments made by this section is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[Jan. 23, 2002\] by the operation of any law or rule of law (including res judicata), such refund or credit may nevertheless be made or allowed if claim therefor is filed before the close of such period.”
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title V, §531(b), June 7, 2001, 115 Stat. 73, provided that: “The amendments made by this subsection \[probably means this section, amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
+
+Pub. L. 107–16, title V, §532(d), June 7, 2001, 115 Stat. 75, provided that: “The amendments made by this section \[enacting section 2058 of this title and amending this section and sections 2012 to 2016, 2053, 2056A, 2102, 2106, 2107, 2201, 2604, 6511, and 6612 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2004.”
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -129,5 +193,5 @@ Amendment by act Feb. 20, 1956, applicable to the estates of all decedents dying
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2012, 2013, 2014, 2015, 2016, 2053, 2056A, 2102, 2107, 2201, 6511, 6612 of this title.
+This section is referred to in sections 2012, 2013, 2014, 2015, 2016, 2053, 2056A, 2102, 2106, 2107, 6511, 6612 of this title.
 

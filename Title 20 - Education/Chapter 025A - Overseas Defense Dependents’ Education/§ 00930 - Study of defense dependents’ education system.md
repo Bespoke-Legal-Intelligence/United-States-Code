@@ -32,7 +32,7 @@ Subsec. (d). Pub. L. 106–65, §354(5)(E), struck out subsec. (d) which read as
 
 #### Effective Date of 1979 Amendment
 
-Section 8 of Pub. L. 96–46 provided that: “The amendments made by this Act \[enacting section 3164 of this title, amending this section, sections 240, 241–1, 1211a, 1221–3, 1221h, 1226c, 1232g, 2308, 2310, 2603, 2721, 2733 to2735, 2740, 2762, 2763, 2772, 2782, 2902, 3084, 3163, 3200, 3289, 3381 to 3386 of this title, and sections 2001, 2002, 2006, 2008, 2012 of Title 25, Indians, enacting a provision set out as a note under section 1221e of this title, and amending provisions set out as notes under sections 236, 1211b, 1221–1, 1231a, and 2701 of this title and section 13 of Title 25\] shall take effect October 1, 1978.”
+Section 8 of Pub. L. 96–46 provided that: “The amendments made by this Act \[enacting section 3164 of this title, amending this section, sections 240, 241–1, 1211a, 1221–3, 1221h, 1226c, 1232g, 2308, 2310, 2603, 2721, 2733 to 2735, 2740, 2762, 2763, 2772, 2782, 2902, 3084, 3163, 3200, 3289, 3381 to 3386 of this title, and sections 2001, 2002, 2006, 2008, 2012 of Title 25, Indians, enacting a provision set out as a note under section 1221e of this title, and amending provisions set out as notes under sections 236, 1211b, 1221–1, 1231a, and 2701 of this title and section 13 of Title 25\] shall take effect October 1, 1978.”
 
 #### Section Referred to in Other Sections
 

@@ -16,7 +16,7 @@
 
 Based on title 28, U.S.C., 1940 ed., §§104, 106, 107, and 108, and section 3745(c) of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1911, ch. 231, §§43, 45, 46, 47, 36 Stat. 1100; Feb. 10, 1939, ch. 2, §3745(c), 53 Stat. 460).
 
-This section consolidates section 3745(c) of title 26, U.S.C., 1940 ed., with sections 104, 106, 107, and 108 of title 28, U.S.C., 1940 ed., relating to venue in civil proceedings to recover and enforce civil fines, penalties,and forfeitures, pecuniary or otherwise. Subsection (a) is based on said section 104 of title 28 and said section 3745(c) of title 26. Subsections (b) and (c) consolidate such sections 106 and 107 of title 28. Subsection (e) is based on such section 108 of title 28.
+This section consolidates section 3745(c) of title 26, U.S.C., 1940 ed., with sections 104, 106, 107, and 108 of title 28, U.S.C., 1940 ed., relating to venue in civil proceedings to recover and enforce civil fines, penalties, and forfeitures, pecuniary or otherwise. Subsection (a) is based on said section 104 of title 28 and said section 3745(c) of title 26. Subsections (b) and (c) consolidate such sections 106 and 107 of title 28. Subsection (e) is based on such section 108 of title 28.
 
 Subsection (b) substituted words “may be prosecuted in any district where such property is found” for “shall be prosecuted in the district where the seizure is made,” to include not only property seized, but also all other property subject to forfeiture.
 

@@ -2,7 +2,7 @@
 
 #### (a) Capital restoration plan
 
-If the Corporation is classified as within level II, the Corporation shall, within the time period determined by the Director, submit to the Director a capital restoration plan and, after approval, carry out the plan.
+If the Corporation is classified as within level II, the Corporation shall, within the time perioddetermined by the Director, submit to the Director a capital restoration plan and, after approval, carry out the plan.
 
 #### (b) Restriction on dividends
 

@@ -76,7 +76,7 @@ In subsec. (b)(9), “section 3324(a) and (b) of title 31” substituted for ref
 
 Subsec. (b). Pub. L. 102–321, §122(b)(1), (2)(A), transferred subsec. (b) of section 290bb of this title to subsec. (b) of this section, substituted “(b)
 
-Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
+Research Program.—The research program established under thissubpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
 
 Subsecs. (c), (d). Pub. L. 102–321, §122(b)(2)(B), added subsecs. (c) and (d).
 
@@ -84,7 +84,7 @@ Subsecs. (c), (d). Pub. L. 102–321, §122(b)(2)(B), added subsecs. (c) and (d)
 
 Section 3 of Pub. L. 102–352 provided that: “The amendments made by—
 
-&emsp;“(1) subsection (a) of section 2 \[amending this section and sections 285n–2, 285<i>o</i>, 285<i>o</i>–2, 285p, 290aa–1, 290aa–3, 300x–7, 300x–27, 300x–33, 300x–53, and 300y ofthis title\], shall take effect immediately upon the effectuation of the amendments made by titles I and II of the ADAMHA Reorganization Act \[Pub. L. 102–321, see Effective Date of 1992 Amendment note set out under section 236 of this title\]; and
+&emsp;“(1) subsection (a) of section 2 \[amending this section and sections 285n–2, 285<i>o</i>, 285<i>o</i>–2, 285p, 290aa–1, 290aa–3, 300x–7, 300x–27, 300x–33, 300x–53, and 300y of this title\], shall take effect immediately upon the effectuation of the amendments made by titles I and II of the ADAMHA Reorganization Act \[Pub. L. 102–321, see Effective Date of 1992 Amendment note set out under section 236 of this title\]; and
 
 &emsp;“(2) subsections (b) and (c) of section 2 \[amending sections 290cc–21, 290cc–28, and 290cc–30 of this title and provisions set out as notes under sections 290aa and 300x of this title\], shall take effect on the date of enactment of this Act \[Aug. 26, 1992\].”
 

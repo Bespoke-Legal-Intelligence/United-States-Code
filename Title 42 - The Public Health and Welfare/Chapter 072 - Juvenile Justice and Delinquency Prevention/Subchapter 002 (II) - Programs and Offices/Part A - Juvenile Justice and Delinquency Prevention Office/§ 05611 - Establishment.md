@@ -24,7 +24,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 1992—Subsec. (b). Pub. L. 102–586 amended third sentence generally, substituting “The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have” for “The Administrator shall report to the Attorney General through the Assistant Attorney General who heads the Office of Justice Programs under part A of title I of the Omnibus Crime Control and Safe Streets Act of 1968”.
 
-1988—Subsec. (c). Pub. L. 100–690 struck out “and whose function shall be to supervise and direct the National Institute for Juvenile Justice and Delinquency Prevention established by section 5651 of this title” after “Attorney General” in first sentence and “also” after “The Deputy Administrator shall” in second sentence.
+1988—Subsec. (c). Pub. L. 100–690 struck out “and whose function shall be to supervise and direct the National Institute for Juvenile Justice and Delinquency Prevention established by section 5651 of this title”after “Attorney General” in first sentence and “also” after “The Deputy Administrator shall” in second sentence.
 
 1984—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions relating to establishment of the Office of Juvenile Justice and Delinquency Prevention for former provisions which also provided for the establishment of the Office and its administration by an Administrator.
 

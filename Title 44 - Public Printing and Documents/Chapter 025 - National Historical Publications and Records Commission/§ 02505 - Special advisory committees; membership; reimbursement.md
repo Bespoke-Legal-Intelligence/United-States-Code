@@ -1,6 +1,6 @@
 ### §2505. Special advisory committees; membership; reimbursement
 
-The Commission may establish special advisory committees to consult with and make recommendations to it, from among the leadinghistorians, political scientists, archivists, librarians, and other specialists of the Nation. Members of special advisory committees shall be reimbursed for transportation and other expenses on the same basis as members of the Commission.
+The Commission may establish special advisory committees to consult with and make recommendations to it, from among the leading historians, political scientists, archivists, librarians, and other specialists of the Nation. Members of special advisory committees shall be reimbursed for transportation and other expenses on the same basis as members of the Commission.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294.)
 

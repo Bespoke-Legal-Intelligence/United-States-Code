@@ -14,7 +14,7 @@ The Secretary shall not approve the management program submitted by a state purs
 
 (B) After any final judgment, decree, or order of any Federal court that is appealable under section 1291 or 1292 of title 28, or under any other applicable provision of Federal law, that a specific Federal agency activity is not in compliance with subparagraph (A), and certification by the Secretary that mediation under subsection (h) of this section is not likely to result in such compliance, the President may, upon written request from the Secretary, exempt from compliance those elements of the Federal agency activity that are found by the Federal court to be inconsistent with an approved State program, if the President determines that the activity is in the paramount interest of the United States. No such exemption shall be granted on the basis of a lack of appropriations unless the President has specifically requested such appropriations as part of the budgetary process, and the Congress has failed to make available the requested appropriations.
 
-(C) Each Federal agency carrying out an activity subject to paragraph (1) shall provide a consistency determination to the relevant State agency designated under section 1455(d)(6) of this title at the earliest practicable time, but in no case later than 90 days before final approval of the Federal activity unless both the Federal agency and the State agency agree to a different schedule.
+(C) Each Federal agency carrying out an activity subject to paragraph (1) shall provide a consistency determination to the relevant State agency designated under section 1455(d)(6) of this title at the earliest practicable time, but in no case later than 90 days before final approval of the Federal activity unless both the Federalagency and the State agency agree to a different schedule.
 
 (2) Any Federal agency which shall undertake any development project in the coastal zone of a state shall insure that the project is, to the maximum extent practicable, consistent with the enforceable policies of approved state management programs.
 
@@ -44,7 +44,7 @@ Nothing in this chapter shall be construed—
 
 #### (f) Construction with existing requirements of water and air pollution programs
 
-Notwithstanding any other provision of this chapter, nothing in this chapter shall in anyway affect any requirement (1) established by the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\], or the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\], or (2) established by the Federal Government or by any state or local government pursuant to such Acts. Such requirements shall be incorporated in any program developed pursuant to this chapter and shall be the water pollution control and air pollution control requirements applicable to such program.
+Notwithstanding any other provision of this chapter, nothing in this chapter shall in any way affect any requirement (1) established by the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\], or the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\], or (2) established by the Federal Government or by any state or local government pursuant to such Acts. Such requirements shall be incorporated in any program developed pursuant to this chapter and shall be the water pollution control and air pollution control requirements applicable to such program.
 
 #### (g) Concurrence with programs which affect inland areas
 
@@ -104,7 +104,7 @@ Subsec. (d). Pub. L. 101–508, §6208(b)(4), substituted “, in or outside of
 
 Subsec. (i). Pub. L. 101–508, §6208(c), added subsec. (i).
 
-1978—Subsec. (c)(3)(B)(ii). Pub. L. 95–372 inserted “, except if such state fails to concur with or object tosuch certification within three months after receipt of its copy of such certification and supporting information, such state shall provide the Secretary, the appropriate federal agency, and such person with a written statement describing the status of review and the basis for further delay in issuing a final decision, and if such statement is not so provided, concurrence by such state with such certification shall be conclusively presumed” after “as provided for in subparagraph (A)”.
+1978—Subsec. (c)(3)(B)(ii). Pub. L. 95–372 inserted “, except if such state fails to concur with or object to such certification within three months after receipt of its copy of such certification and supporting information, such state shall provide the Secretary, the appropriate federal agency, and such person with a written statement describing the status of review and the basis for further delay in issuing a final decision, and if such statement is not so provided, concurrence by such state with such certification shall be conclusively presumed” after “as provided for in subparagraph (A)”.
 
 1976—Subsec. (b). Pub. L. 94–370, §6(2), struck out provisions requiring that in case of serious disagreement between Federal agency and state in development of program, Secretary shall seek to mediate the differences in cooperation with the Executive Office of the President and incorporated such provision into subsec. (h).
 

@@ -6,7 +6,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(1) All tobacco offered for importation into the United States, except tobacco described in paragraph (2), shall be inspected, insofar as practicable, for grade and quality as tobacco marketed through a warehouse in the United States is inspected for grade and quality.
 
-&emsp;(2) Cigar tobacco and oriental tobacco (both as provided for in chapter 24 of the Harmonized Tariff Schedule of the United States)offered for importation into the United States shall be accompanied by a certification by the importer, in such form as the Secretary of Agriculture may prescribe, stating the kind and type of such tobacco, and, in the case of cigar tobacco, that such tobacco will be used solely in the manufacture or production of cigars.
+&emsp;(2) Cigar tobacco and oriental tobacco (both as provided for in chapter 24 of the Harmonized Tariff Schedule of the United States) offered for importation into the United States shall be accompanied by a certification by the importer, in such form as the Secretary of Agriculture may prescribe, stating the kind and type of such tobacco, and, in the case of cigar tobacco, that such tobacco will be used solely in the manufacture or production of cigars.
 
 #### (b) Establishment of grade and quality standards
 
@@ -101,4 +101,8 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 #### Waiver Authority of President
 
 For provision that President may waive application of amendment to this section by section 1106(c) of Pub. L. 103–66, if President determines that waiver is necessary or appropriate pursuant to an international agreement entered into by United States, see section 422(c) of Pub. L. 103–465 set out as a note under section 1445 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “flue-cured”.</i>
 

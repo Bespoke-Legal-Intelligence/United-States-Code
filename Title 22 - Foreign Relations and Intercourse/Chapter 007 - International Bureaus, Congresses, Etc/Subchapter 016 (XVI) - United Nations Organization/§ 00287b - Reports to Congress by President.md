@@ -88,7 +88,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 &emsp;&emsp;&emsp;(iii) An estimate of the total cost to the United Nations of each such operation for the period covered by the resolution, and an estimate of the amount of that cost that will be assessed to the United States.
 
-&emsp;&emsp;&emsp;(iv) Any anticipated significant changes in United States participation in or support for each such operation during the period covered by the resolution (including the provision of facilities, training, transportation, communication, and logisticalsupport, but not including intelligence activities reportable under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)), and the estimated costs to the United States of such changes.
+&emsp;&emsp;&emsp;(iv) Any anticipated significant changes in United States participation in or support for each such operation during the period covered by the resolution (including the provision of facilities, training, transportation, communication, and logistical support, but not including intelligence activities reportable under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.)), and the estimated costs to the United States of such changes.
 
 &emsp;&emsp;(B) With respect to each new United Nations peacekeeping operation that is anticipated to be authorized by a Security Council resolution during such month, the following information for the period covered by the resolution:
 
@@ -116,7 +116,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (ii) New operations
 
-&emsp;&emsp;&emsp;The information required under paragraph (2)(B) shall be submitted in writing with respect to each new United Nations peacekeeping operation not less than 15 days before the anticipated date of the vote on the resolution concerned unless the President determines that exceptional circumstances prevent compliance with the requirement to report 15 days in advance. If the President makes such a determination, the information required under paragraph (2)(B) shall be submitted as far in advance of the vote as is practicable.
+&emsp;&emsp;&emsp;The information required under paragraph (2)(B) shall be submitted in writing with respect to each new United Nations peacekeeping operation not less than 15 days before the anticipated date of thevote on the resolution concerned unless the President determines that exceptional circumstances prevent compliance with the requirement to report 15 days in advance. If the President makes such a determination, the information required under paragraph (2)(B) shall be submitted as far in advance of the vote as is practicable.
 
 #### (4) New United Nations peacekeeping operation defined
 
@@ -160,7 +160,7 @@ In addition to the report required by subsection (a) of this section, the Presid
 
 #### (f) Designated congressional committees
 
-In this section, the term “designated congressional committees” means the Committee onForeign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
+In this section, the term “designated congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
 
 #### (g) Relationship to other notification requirements
 

@@ -14,7 +14,7 @@ Subject to the provisions of this chapter and to any valid intervening rights ac
 
 #### (b) Labor and improvement
 
-Labor performed or improvements made upon or for the benefit of such mining claims afterthe original location thereof shall be recognized as applicable thereto for all purposes to the same extent as labor performed and improvements made upon or for the benefit of mining claims which are not affected by this chapter.
+Labor performed or improvements made upon or for the benefit of such mining claims after the original location thereof shall be recognized as applicable thereto for all purposes to the same extent as labor performed and improvements made upon or for the benefit of mining claims which are not affected by this chapter.
 
 #### (c) Withdrawal or reservation
 

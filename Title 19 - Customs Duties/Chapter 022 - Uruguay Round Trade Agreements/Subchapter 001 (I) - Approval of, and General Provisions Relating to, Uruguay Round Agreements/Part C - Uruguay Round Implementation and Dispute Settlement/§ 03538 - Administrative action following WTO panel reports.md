@@ -20,7 +20,7 @@
 
 #### (4) Commission determination
 
-&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\] or title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], if a majority of the Commissioners issues an affirmative report under paragraph (1), the Commission, upon the written request of the Trade Representative, shall issue a determination in connection with the particular proceeding that would render the Commission's action described in paragraph (1) not inconsistent with the findings of the panel or Appellate Body. The Commission shall issue its determination not later than 120 days after the request from the Trade Representative is made.
+&emsp;Notwithstanding any provision of the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\] or title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], if a majority of the Commissioners issues an affirmative report under paragraph (1), the Commission, upon the written request of the Trade Representative, shall issue a determination in connection with the particular proceedingthat would render the Commission's action described in paragraph (1) not inconsistent with the findings of the panel or Appellate Body. The Commission shall issue its determination not later than 120 days after the request from the Trade Representative is made.
 
 #### (5) Consultations on implementation of Commission determination
 
@@ -42,7 +42,7 @@
 
 #### (3) Consultations before implementation
 
-&emsp;Before the administering authority implements any determination under paragraph (2),the Trade Representative shall consult with the administering authority and the congressional committees with respect to such determination.
+&emsp;Before the administering authority implements any determination under paragraph (2), the Trade Representative shall consult with the administering authority and the congressional committees with respect to such determination.
 
 #### (4) Implementation of determination
 

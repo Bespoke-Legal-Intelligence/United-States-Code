@@ -42,7 +42,7 @@ The Congress hereby finds that—
 
 &emsp;&emsp;(D) worked with law enforcement on the cases of 59,481 missing children, resulting in the recovery of 40,180 children;
 
-&emsp;(15) the demand for the services of the Center is growing dramatically, as evidenced by the fact that in 1997, the Center handled 129,100 calls, an all-time record, and by the fact that its new Internet website (www.missingkids.com) receives 1,500,000 “hits” every day, and is linked with hundreds of other websites to provide real-time images of breaking cases of missing children;
+&emsp;(15) the demand for the services of the Center is growing dramatically, as evidenced bythe fact that in 1997, the Center handled 129,100 calls, an all-time record, and by the fact that its new Internet website (www.missingkids.com) receives 1,500,000 “hits” every day, and is linked with hundreds of other websites to provide real-time images of breaking cases of missing children;
 
 &emsp;(16) in 1997, the Center provided policy training to 256 police chiefs and sheriffs from 50 States and Guam at its new Jimmy Ryce Law Enforcement Training Center;
 

@@ -54,11 +54,11 @@
 
 #### (I) Penalty not to apply where failure not discovered exercising reasonable diligence
 
-&emsp;&emsp;&emsp;&emsp;No civil money penalty shall be imposed under this paragraph on any failure during any period for which it is established to the satisfaction of the Secretary that none of the entities against whom the penalty would be imposed knew, or exercising reasonable diligence would have known, that such failure existed.
+&emsp;&emsp;&emsp;&emsp;No civil money penalty shall be imposed under this paragraph on any failure during any period for which it is established to the satisfaction of the Secretary that none of the entities against whom the penalty would be imposed knew, or exercising reasonable diligencewould have known, that such failure existed.
 
 #### (II) Penalty not to apply to failures corrected within 30 days
 
-&emsp;&emsp;&emsp;&emsp;No civil money penalty shall be imposed under this paragraph on any failure if such failure was due to reasonablecause and not to willful neglect, and such failure is corrected during the 30-day period beginning on the first day any of the entities against whom the penalty would be imposed knew, or exercising reasonable diligence would have known, that such failure existed.
+&emsp;&emsp;&emsp;&emsp;No civil money penalty shall be imposed under this paragraph on any failure if such failure was due to reasonable cause and not to willful neglect, and such failure is corrected during the 30-day period beginning on the first day any of the entities against whom the penalty would be imposed knew, or exercising reasonable diligence would have known, that such failure existed.
 
 #### (D) Administrative review
 

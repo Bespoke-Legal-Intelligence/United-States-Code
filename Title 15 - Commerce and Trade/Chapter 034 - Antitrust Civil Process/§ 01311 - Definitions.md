@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 &emsp;(f) The term “person” means any natural person, partnership, corporation, association, or other legal entity, including any person acting under color or authority of State law;
 
-&emsp;(g) The term “documentary material” includes the original or any copy of any book,record, report, memorandum, paper, communication, tabulation, chart, or other document, and any product of discovery;
+&emsp;(g) The term “documentary material” includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, and any product of discovery;
 
 &emsp;(h) The term “custodian” means the custodian or any deputy custodian designated under section 1313(a) of this title;
 
@@ -67,8 +67,6 @@ Section 106 of Pub. L. 94–435 provided that: “The amendments to the Antitrus
 Section 1 of Pub. L. 96–349 provided: “That this Act \[amending sections 15, 15a, 15c, 16, 18, and 1311 to 1314 of this title, section 1905 of Title 18, Crimes and Criminal Procedure, and section 1927 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 15, 16, and 18 of this title\] may be cited as the ‘Antitrust Procedural Improvements Act of 1980’.”
 
 #### Short Title
-
-Section 1 of Pub. L. 94–435 provided: “That this Act \[enacting sections 15c to 15h, 18a, and 66 of this title, amending this section, sections 12, 15b, 16, 26, and 1312 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 1, 8, 15c, and 18a of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
 
 Section 1 of Pub. L. 87–664 provided: “That this Act \[enacting this chapter and amending section 1505 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Antitrust Civil Process Act’.”
 

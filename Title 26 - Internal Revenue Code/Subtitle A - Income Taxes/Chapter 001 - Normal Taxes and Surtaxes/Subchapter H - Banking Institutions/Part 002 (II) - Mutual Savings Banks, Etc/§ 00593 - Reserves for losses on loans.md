@@ -40,7 +40,7 @@
 
 #### (B) Reduction for amounts referred to in paragraph (1)(A)
 
-&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced (but not below 0)by the amount determined under paragraph (1)(A).
+&emsp;&emsp;The amount determined under subparagraph (A) shall be reduced (but not below 0) by the amount determined under paragraph (1)(A).
 
 #### (C) Overall limitation on paragraph
 
@@ -188,7 +188,7 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 #### (3) Recapture of pre-1988 reserves where taxpayer ceases to be bank
 
-&emsp;If, during any taxable year beginning after December 31, 1995, a taxpayer to which paragraph (1) applied is not a bank (as defined in section 581), paragraph (1) shall apply to the reserves described in paragraph (2)(A)(ii) and the supplemental reserve; except that such reserves shall be taken into account ratably over the 6-taxable year period beginning with such taxable year.
+&emsp;If, during any taxable year beginning after December 31, 1995, a taxpayer to which paragraph (1) applied is not a bank (as defined in section 581), paragraph (1) shall apply to thereserves described in paragraph (2)(A)(ii) and the supplemental reserve; except that such reserves shall be taken into account ratably over the 6-taxable year period beginning with such taxable year.
 
 #### (4) Suspension of recapture if residential loan requirement met
 

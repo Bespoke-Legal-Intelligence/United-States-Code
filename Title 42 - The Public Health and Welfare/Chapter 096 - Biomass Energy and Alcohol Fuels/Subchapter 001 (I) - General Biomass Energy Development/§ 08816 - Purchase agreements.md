@@ -30,7 +30,7 @@ The Secretary concerned may take delivery of biomass energy pursuant to a purcha
 
 #### (e) Consultative requirements
 
-The Secretary concerned shall consult with the Secretary of Defense and the Administrator of the General Services Administration in carrying out this section.
+The Secretary concerned shall consult with the Secretary of Defense and the Administratorof the General Services Administration in carrying out this section.
 
 #### (f) Terms and conditions
 

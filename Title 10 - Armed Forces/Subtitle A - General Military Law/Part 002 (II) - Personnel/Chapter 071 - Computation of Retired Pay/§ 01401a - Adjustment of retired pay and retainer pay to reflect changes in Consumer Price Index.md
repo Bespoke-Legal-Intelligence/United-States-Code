@@ -146,7 +146,7 @@ Special rule for fiscal year 1996” for “
 
 Special rules for fiscal years 1996 and 1998” as subpar. heading, struck out cl. (i) designation and heading “
 
-Fiscal year 1996” before “In the case of”, and struck out cl. (ii) which read as follows: “
+Fiscal year 1996” before “In the case of”, and struckout cl. (ii) which read as follows: “
 
 Fiscal year 1998.—In the case of the increase in retired pay that, pursuant to paragraph (1), becomes effective on December 1, 1997, the initial month for which such increase is payable as part of such retired pay shall (notwithstanding such December 1 effective date) be September 1998.”
 
@@ -238,7 +238,7 @@ Subsec. (e). Pub. L. 100–224, §1(b), substituted “by the percent (adjusted 
 
 &emsp;“(2) the price index for the calendar quarter immediately before the calendar quarter in which the member became entitled to retired pay.”
 
-1986—Subsec. (a). Pub. L. 99–348, §102(b)(1), (c)(1), inserted heading, struck out “or retainer” after “retired pay”, and struck out sentence defining “Index” in this section as meaning the Consumer Price Index (all items, United States city average) published by the Bureau of Labor Statistics.
+1986—Subsec. (a). Pub. L. 99–348, §102(b)(1), (c)(1), inserted heading, struck out “or retainer” after “retired pay”, and struck out sentence defining “Index” in thissection as meaning the Consumer Price Index (all items, United States city average) published by the Bureau of Labor Statistics.
 
 Subsecs. (b) to (d). Pub. L. 99–348, §102(a), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which read as follows:
 
@@ -302,7 +302,7 @@ Section 921(a)(2) of Pub. L. 98–94 provided that:
 
 “(A) Notwithstanding the repeal of such subsection \[subsec. (e) of this section\], the provisions of such subsection shall apply in the case of any member or former member of the Armed Forces eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] for a period of three years after such date in the same manner such provisions would have applied had they not been repealed.
 
-“(B) The amount of retired or retainer pay of any member or former member of the Armed Forces whowas eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] and who becomes entitled to such pay at any time after the end of the three-year period beginning on the date of the enactment of this Act may not be less than it would have been had he become entitled to retired or retainer pay on the day before the end of such three-year period.”
+“(B) The amount of retired or retainer pay of any member or former member of the Armed Forces who was eligible to retire on the date of the enactment of this Act \[Sept. 24, 1983\] and who becomes entitled to such pay at any time after the end of the three-year period beginning on the date of the enactment of this Act may not be less than it would have been had he become entitled to retired or retainer pay on the day before the end of such three-year period.”
 
 Amendment by section 922 of Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under section 1401 of this title.
 

@@ -26,7 +26,7 @@ Notwithstanding any preliminary finding under subsection (a) of this section, a 
 
 #### (c) Discovery
 
-Nothing in this section shall give a claimant or any other party the right to obtain discoveryfrom a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under section 1605 of this title.
+Nothing in this section shall give a claimant or any other party the right to obtain discovery from a biomaterials supplier at any time prior to grant of a motion for impleader beyond that allowed under section 1605 of this title.
 
 (Pub. L. 105–230, §7, Aug. 13, 1998, 112 Stat. 1528.)
 

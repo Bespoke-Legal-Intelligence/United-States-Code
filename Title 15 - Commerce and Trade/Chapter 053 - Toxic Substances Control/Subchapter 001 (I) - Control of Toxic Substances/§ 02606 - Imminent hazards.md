@@ -34,7 +34,7 @@
 
 #### (d) Action under section 2605
 
-Where appropriate, concurrently with the filing of an action under subsection (a) of this section or as soon thereafter as may be practicable, the Administrator shall initiate a proceeding for the promulgation of a rule under section 2605(a) of this title.
+Where appropriate, concurrently with the filing of an action under subsection (a) of this section or as soon thereafter as may be practicable, the Administrator shall initiate a proceeding forthe promulgation of a rule under section 2605(a) of this title.
 
 #### (e) Representation
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, in any action under subsection (a) o
 
 #### (f) “Imminently hazardous chemical substance or mixture” defined
 
-For the purposes of subsection (a) of this section, the term “imminently hazardous chemicalsubstance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under section 2605 of this title can protect against such risk.
+For the purposes of subsection (a) of this section, the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under section 2605 of this title can protect against such risk.
 
 (Pub. L. 94–469, title I, §7, Oct. 11, 1976, 90 Stat. 2026; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, §1021(b)(1), Oct. 28, 1992, 106 Stat. 3923.)
 

@@ -1,6 +1,6 @@
 ### §410. Establishment; acquisition of land
 
-When title to all the lands within boundaries to be determined by the Secretary of the Interior within the area of approximately two thousand square miles in the region of the Everglades of Dade, Monroe, and Collier Counties, in the State of Florida, recommended by said Secretary, in his report to Congress of December 3, 1930, pursuant to the Act of March 1, 1929 (45 Stat. 1443), shall have been vested in the UnitedStates, said lands shall be, and are, established, dedicated, and set apart as a public park for the benefit and enjoyment of the people and shall be known as the Everglades National Park: <i>Provided</i>, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
+When title to all the lands within boundaries to be determined by the Secretary of the Interior within the area of approximately two thousand square miles in the region of the Everglades of Dade, Monroe, and Collier Counties, in the State of Florida, recommended by said Secretary, in his report to Congress of December 3, 1930, pursuant to the Act of March 1, 1929 (45 Stat. 1443), shall have been vested in the United States, said lands shall be, and are, established, dedicated, and set apart as a public park for the benefit and enjoyment of the people and shall be known as the Everglades National Park: <i>Provided</i>, That the United States shall not purchase by appropriation of public moneys any land within the aforesaid area, but such lands shall be secured by the United States only by public or private donation.
 
 (May 30, 1934, ch. 371, §1, 48 Stat. 816.)
 
@@ -118,7 +118,7 @@ Expansion of special use permit area.—The geographical area contained in the f
 
 &emsp;“(3)
 
-Governance of affairs in miccosukee reserved area.—Subject to the provisions of this Act and other applicable Federal law, the Tribe shall govern its own affairs and otherwise make laws andapply those laws in the MRA as though the MRA were a Federal Indian reservation.
+Governance of affairs in miccosukee reserved area.—Subject to the provisions of this Act and other applicable Federal law, the Tribe shall govern its own affairs and otherwise make laws and apply those laws in the MRA as though the MRA were a Federal Indian reservation.
 
 “(b)
 
@@ -220,11 +220,11 @@ Effect of failure to adopt or prescribe standards.—In the event the Tribe fail
 
 &emsp;&emsp;&emsp;“(iv)
 
-Modification of standards.—If, after the date of the enactment of this Act \[Oct. 30, 1998\], the standards referred to in clause (iii) are revised, not later than 1 year after those standards are revised, the Tribe shall make such revisions to water quality standards of the Tribe as are necessary to ensure that those water quality standards are at least as protective as the revised water quality standards approved by the Administrator.
+Modification of standards.—If, after the date of the enactment of this Act \[Oct. 30, 1998\], the standards referred to in clause (iii) are revised, not later than 1 year after those standards are revised, the Tribe shall make such revisions to water quality standards of the Tribe as are necessary to ensure that those water qualitystandards are at least as protective as the revised water quality standards approved by the Administrator.
 
 &emsp;&emsp;&emsp;“(v)
 
-Effect of failure to modify water quality standards.—If the Tribe fails to revise water quality standards in accordance with clause (iv), the revised water quality standards applicable to the Everglades Park, approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) shall be deemed to apply by operation of Federal law to the MRA until such time as the Tribe adopts water qualitystandards that are at least as protective as the revised water quality standards approved by the Administrator.
+Effect of failure to modify water quality standards.—If the Tribe fails to revise water quality standards in accordance with clause (iv), the revised water quality standards applicable to the Everglades Park, approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) shall be deemed to apply by operation of Federal law to the MRA until such time as the Tribe adopts water quality standards that are at least as protective as the revised water quality standards approved by the Administrator.
 
 &emsp;&emsp;“(G)
 
@@ -356,7 +356,7 @@ Federal Mediation and Conciliation Service.—If the Secretary and the tribal ch
 
 “(c) 60-
 
-Day Time Limit.—The Federal Mediation and Conciliation Service may conduct mediation or other nonbinding dispute resolution activities for a period not to exceed 60 days beginning on the date on which the Federal Mediation and Conciliation Service receives the request for assistance, unless the Secretary and the tribal chairman agree to an extension of period of time.
+Day Time Limit.—The Federal Mediation and Conciliation Service may conduct mediation or other nonbinding dispute resolution activities for a periodnot to exceed 60 days beginning on the date on which the Federal Mediation and Conciliation Service receives the request for assistance, unless the Secretary and the tribal chairman agree to an extension of period of time.
 
 “(d)
 

@@ -1,14 +1,8 @@
 Part F—Gun Possession
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 8802 of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08921 - Gun-free requirements](%C2%A7%2008921%20-%20Gun-free%20requirements.md)
-- [&sect; 08922 - Policy regarding criminal justice system referral](%C2%A7%2008922%20-%20Policy%20regarding%20criminal%20justice%20system%20referral.md)
-- [&sect; 08923 - Data and policy dissemination under IDEA](%C2%A7%2008923%20-%20Data%20and%20policy%20dissemination%20under%20IDEA.md)
+- [&sect; 08921 to 8923 - Repealed. Pub. L. 107&#8211;110, title X, &sect;1011(5)(C), Jan. 8, 2002, 115 Stat. 1986](%C2%A7%2008921%20to%208923%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93110%2C%20title%20X%2C%20%C2%A71011%285%29%28C%29%2C%20Jan.%208%2C%202002%2C%20115%20Stat.%201986.md)

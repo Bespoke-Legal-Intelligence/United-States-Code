@@ -68,7 +68,7 @@
 
 (2) A judge who elects to receive an annuity under this section shall not be entitled to receive—
 
-&emsp;(A) any annuity to which such judge would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5, for service performed as a judge or otherwise;
+&emsp;(A) any annuity to which such judge would otherwise have been entitled under subchapterIII of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5, for service performed as a judge or otherwise;
 
 &emsp;(B) an annuity or salary in senior status or retirement under section 371 or 372 of this title;
 
@@ -76,7 +76,7 @@
 
 &emsp;(D) retired pay under section 7296 of title 38.
 
-(g) For purposes of calculating the years of service of an individual under subsections (a)and (c), only those years of service as a judge of the Court of Federal Claims or a commissioner of the United States Court of Claims shall be credited, and that portion of the aggregate number of years of such service that is a fractional part of 1 year shall not be credited if it is less than 6 months, and shall be credited if it is 6 months or more.
+(g) For purposes of calculating the years of service of an individual under subsections (a) and (c), only those years of service as a judge of the Court of Federal Claims or a commissioner of the United States Court of Claims shall be credited, and that portion of the aggregate number of years of such service that is a fractional part of 1 year shall not be credited if it is less than 6 months, and shall be credited if it is 6 months or more.
 
 (h) An annuity under this section shall be payable at the times and in the same manner as the salary of a Court of Federal Claims judge in regular active service. Such annuity shall begin to accrue on the day following the day on which the annuitant's salary as a judge in regular active service ceases to accrue.
 
@@ -124,11 +124,11 @@
 
 &emsp;&emsp;(ii) section 376(g) shall not apply, and the amount credited to such individual's account (together with interest at 3 percent per annum, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to such individual,
 
-&emsp;(C) no credit shall be allowed for any service as a judge of the Court of Federal Claims or as a commissioner of the United States Court of Claims unless with respect to such service either there has been deducted and withheld the amount required by chapter 83 or 84 (as the case may be) of title 5 or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
+&emsp;(C) no credit shall be allowed for any service as a judge of the Court of Federal Claims or as a commissioner of the United States Court of Claims unless with respect to such service either there has been deducted and withheld the amount required by chapter 83 or 84 (as thecase may be) of title 5 or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest,
 
 &emsp;(D) the Court of Federal Claims shall deposit in the Civil Service Retirement and Disability Fund an amount equal to the additional amount it would have contributed to such Fund but for the election under subsection (f), and
 
-&emsp;(E) if subparagraph (D) is complied with, service on the Court of Federal Claims or as acommissioner of the United States Court of Claims shall be treated as service with respect to which deductions and contributions had been made during the period of service.
+&emsp;(E) if subparagraph (D) is complied with, service on the Court of Federal Claims or as a commissioner of the United States Court of Claims shall be treated as service with respect to which deductions and contributions had been made during the period of service.
 
 (<i>l</i>)(1) There is established in the Treasury a fund which shall be known as the “Court of Federal Claims Judges Retirement Fund”. The Fund is appropriated for the payment of annuities and other payments under this section.
 

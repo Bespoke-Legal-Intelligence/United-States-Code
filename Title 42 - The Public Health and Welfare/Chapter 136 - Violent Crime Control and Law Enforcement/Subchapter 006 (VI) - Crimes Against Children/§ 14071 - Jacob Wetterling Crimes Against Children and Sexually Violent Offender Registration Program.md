@@ -92,7 +92,7 @@ An approved State registration program established under this section shall cont
 
 #### (B) National reporting
 
-&emsp;&emsp;A State shall participate in the national database established under section 14072(b) of this title in accordance with guidelines issued by the Attorney General, including transmission of current address information and other information on registrants to the extent provided by the guidelines.
+&emsp;&emsp;A State shall participate in the national database established under section 14072(b) of this title in accordance with guidelines issued by the Attorney General, including transmission of current address informationand other information on registrants to the extent provided by the guidelines.
 
 #### (3) Verification
 
@@ -172,7 +172,7 @@ Each requirement to register under this section shall be deemed to also require 
 
 #### (A) In general
 
-&emsp;&emsp;The Director of the Bureau of Justice Assistance (in this subsection referred to as the “Director”) shall carry out a program, which shall be known as the “Sex Offender Management Assistance Program” (in this subsection referred to as the “SOMA program”), under which the Director shall award a grant to each eligible State to offset costs directly associated with complying with this section.
+&emsp;&emsp;The Director of the Bureau of Justice Assistance (in this subsection referred to as the “Director”) shall carry out a program, which shall be known as the “Sex OffenderManagement Assistance Program” (in this subsection referred to as the “SOMA program”), under which the Director shall award a grant to each eligible State to offset costs directly associated with complying with this section.
 
 #### (B) Uses of funds
 
@@ -264,7 +264,7 @@ Subsec. (b)(1)(A)(iii). Pub. L. 105–119, §115(a)(2)(A)(ii)(III), substituted 
 
 Subsec. (b)(1)(B). Pub. L. 105–119, §115(a)(2)(A)(iii), substituted “, the court, or another responsible officer or official” for “or the court”.
 
-Subsec. (b)(2). Pub. L. 105–119, §115(a)(2)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The Statelaw enforcement agency shall also immediately transmit all information described in paragraph (1) to the Federal Bureau of Investigation for inclusion in the FBI database described in section 14072 of this title.”
+Subsec. (b)(2). Pub. L. 105–119, §115(a)(2)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The officer, or in the case of a person placed on probation, the court, shall, within 3 days after receipt of information described in paragraph (1), forward it to a designated State law enforcement agency. The State law enforcement agency shall immediately enter the information into the appropriate State law enforcement record system and notify the appropriate law enforcement agency having jurisdiction where the person expects to reside. The State law enforcement agency shall also immediately transmit all information described in paragraph (1) to the Federal Bureau of Investigation for inclusion in the FBI database described in section 14072 of this title.”
 
 Subsec. (b)(3)(A). Pub. L. 105–119, §115(a)(2)(C)(i), in introductory provisions, substituted “State procedures shall provide for verification of address at least annually.” for “on each anniversary of the person's initial registration date during the period in which the person is required to register under this section the following applies:”.
 
@@ -324,7 +324,7 @@ Pub. L. 106–386, div. B, title VI, §1601(b)(2), Oct. 28, 2000, 114 Stat. 1537
 
 Section 115(c) of Pub. L. 105–119 provided that: “This section \[amending this section, section 14072 of this title, and sections 3521, 3563, 3583, 4042, and 4209 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under section 14039 of this title and section 951 of Title 10, Armed Forces, and amending provisions set out as a note under this section\] shall take effect on the date of the enactment of this Act \[Nov. 26, 1997\], except that—
 
-&emsp;“(1) subparagraphs (A), (B), and (C) of subsection (a)(8) \[amending sections 3563, 3583, 4042, and 4209 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 951 ofTitle 10, Armed Forces\] shall take effect 1 year after the date of the enactment of this Act; and
+&emsp;“(1) subparagraphs (A), (B), and (C) of subsection (a)(8) \[amending sections 3563, 3583, 4042, and 4209 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 951 of Title 10, Armed Forces\] shall take effect 1 year after the date of the enactment of this Act; and
 
 &emsp;“(2) States shall have 3 years from such date of enactment to implement amendments made by this Act \[probably should be “this section”\] which impose new requirements under the Jacob Wetterling Crimes Against Children and Sexually Violent Offender Registration Act \[42 U.S.C. 14071 et seq.\], and the Attorney General may grant an additional 2 years to a State that is making good faith efforts to implement these amendments.”
 

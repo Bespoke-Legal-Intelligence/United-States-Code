@@ -6,7 +6,7 @@
 
 &emsp;(A) notified his employer of an alleged violation of this chapter or the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.);
 
-&emsp;(B) refused to engage in any practice made unlawful by this chapter or the Atomic Energy Act of 1954, if the employee has identified the alleged illegality to the employer;
+&emsp;(B) refused to engage in any practice made unlawful by this chapter or the Atomic EnergyAct of 1954, if the employee has identified the alleged illegality to the employer;
 
 &emsp;(C) testified before Congress or at any Federal or State proceeding regarding any provision (or proposed provision) of this chapter or the Atomic Energy Act of 1954;
 
@@ -98,7 +98,7 @@ Executive Order No. 12344, referred to in subsec. (a)(2)(D), is Ex. Ord. No. 123
 
 Subsec. (b)(1). Pub. L. 102–486, §2902(b), (h)(2), substituted “180” for “thirty”, “(in this section referred to as the ‘Secretary’)” for “(hereinafter in this subsection referred to as the ‘Secretary’)”, and “, the Commission, and the Department of Energy” for “and the Commission”.
 
-Subsec. (b)(2)(A). Pub. L. 102–486, §2902(c), inserted before last sentence “Upon the conclusion of such hearing and the issuance of a recommended decision that thecomplaint has merit, the Secretary shall issue a preliminary order providing the relief prescribed in subparagraph (B), but may not order compensatory damages pending a final order.”
+Subsec. (b)(2)(A). Pub. L. 102–486, §2902(c), inserted before last sentence “Upon the conclusion of such hearing and the issuance of a recommended decision that the complaint has merit, the Secretary shall issue a preliminary order providing the relief prescribed in subparagraph (B), but may not order compensatory damages pending a final order.”
 
 Subsec. (b)(3). Pub. L. 102–486, §2902(d), added par. (3).
 

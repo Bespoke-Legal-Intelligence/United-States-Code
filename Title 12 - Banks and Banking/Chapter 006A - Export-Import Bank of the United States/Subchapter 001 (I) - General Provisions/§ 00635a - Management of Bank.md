@@ -58,7 +58,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 (3) The Advisory Committee shall meet at least once each quarter.
 
-(4) The Advisory Committee shall advise the Bank on its programs, and shall submit, with the report specified in section 635(b)(1)(A) of this title, its own comments to the Congress on the extent to which the Bank is meeting its mandate to provide competitive financing to expand United States exports, and any suggestions for improvements in this regard.
+(4) The Advisory Committee shall advise the Bank on its programs, and shall submit, with the report specified in section 635(b)(1)(A) of this title, its own comments to the Congress on theextent to which the Bank is meeting its mandate to provide competitive financing to expand United States exports, and any suggestions for improvements in this regard.
 
 #### (e) Conflicting personal interests
 
@@ -132,9 +132,11 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
 
-\[Pub. L. 106–429, §101(a) \[title I\], Nov. 6, 2000, 114 Stat. 1900, 1900A–4, provided in part: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2001.”
+\[Pub. L. 107–115, title I, Jan. 10, 2002, 115 Stat. 2119, provided in part that: “That, notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2002.”
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+\[Pub. L. 106–429, §101(a) \[title I\], Nov. 6, 2000, 114 Stat. 1900, 1900A–4.
 
 \[Pub. L. 106–113, div. B, §1000(a)(2) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–64.
 
@@ -182,7 +184,7 @@ There is hereby established the office of Managing Director of the Export-Import
 
 #### Sec. 2. Deputy Director
 
-There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. TheDeputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
+There is hereby established the office of Deputy Director of the Export-Import Bank of Washington. The Deputy Director shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate of $16,000 per annum, shall perform such functions as the Managing Director may from time to time prescribe, and shall act as Managing Director during the absence or disability of the Managing Director or in the event of a vacancy in the office of Managing Director.
 
 #### Sec. 3. Assistant Director
 
@@ -208,7 +210,7 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
+\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director ofthe Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 
 #### United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States
 

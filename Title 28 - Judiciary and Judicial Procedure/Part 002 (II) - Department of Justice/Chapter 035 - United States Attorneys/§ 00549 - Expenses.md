@@ -28,7 +28,7 @@ Section 6 of the Travel Expense Act of 1949, which is codified in section 5706 o
 
 Sections 2 and 3 of the Act of 1949, which are codified in sections 5701 and 5702 of title 5, United States Code, defined the coverage of the Act and allowed for specific exclusions in the legislative and judicial branches but did not mention an exclusion in the executive branch for United States attorneys.
 
-Section 7 of the 1949 Act, which is codified in section 5707 of title 5, United States Code, expressly vested inthe Director of the Bureau of the Budget the authority to prescribe regulations covering travel allowances and the reimbursement of travel expenses.
+Section 7 of the 1949 Act, which is codified in section 5707 of title 5, United States Code, expressly vested in the Director of the Bureau of the Budget the authority to prescribe regulations covering travel allowances and the reimbursement of travel expenses.
 
 Section 8 of the 1949 Act, which is codified in section 5708(1), (2) of title 5, United States Code, made specific exclusions from the coverage of the Act, and United States attorneys were not so excluded.
 

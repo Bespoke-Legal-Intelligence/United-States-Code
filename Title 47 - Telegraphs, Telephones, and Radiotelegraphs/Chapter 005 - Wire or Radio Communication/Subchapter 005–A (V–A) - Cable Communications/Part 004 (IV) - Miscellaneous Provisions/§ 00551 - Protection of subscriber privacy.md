@@ -42,7 +42,7 @@
 
 &emsp;(A) necessary to render, or conduct a legitimate business activity related to, a cable service or other service provided by the cable operator to the subscriber;
 
-&emsp;(B) subject to subsection (h) of this section, made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed; or
+&emsp;(B) subject to subsection (h) of this section, made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
 
 &emsp;(C) a disclosure of the names and addresses of subscribers to any cable service or other service, if—
 
@@ -52,7 +52,9 @@
 
 &emsp;&emsp;&emsp;(I) extent of any viewing or other use by the subscriber of a cable service or other service provided by the cable operator, or
 
-&emsp;&emsp;&emsp;(II) the nature of any transaction made by the subscriber over the cable system of the cable operator.
+&emsp;&emsp;&emsp;(II) the nature of any transaction made by the subscriber over the cable system of the cable operator; or
+
+&emsp;(D) to a government entity as authorized under chapters 119, 121, or 206 of title 18, except that such disclosure shall not include records revealing cable subscriber selection of video programming from a cable operator.
 
 #### (d) Subscriber access to information
 
@@ -82,19 +84,23 @@ Nothing in this subchapter shall be construed to prohibit any State or any franc
 
 #### (h) Disclosure of information to governmental entity pursuant to court order
 
-A governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
+Except as provided in subsection (c)(2)(D) of this section, a governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
 
 &emsp;(1) such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
 
 &emsp;(2) the subject of the information is afforded the opportunity to appear and contest such entity's claim.
 
-(June 19, 1934, ch. 652, title VI, §631, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2794; amended Pub. L. 102–385, §20, Oct. 5, 1992, 106 Stat. 1497.)
+(June 19, 1934, ch. 652, title VI, §631, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2794; amended Pub. L. 102–385, §20, Oct. 5, 1992, 106 Stat. 1497; Pub. L. 107–56, title II, §211, Oct. 26, 2001, 115 Stat. 283.)
 
 #### References in Text
 
 For “the effective date of this section”, referred to in subsec. (a)(1), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 
 #### Amendments
+
+2001—Subsec. (c)(2)(D). Pub. L. 107–56, §211(1), added subpar. (D).
+
+Subsec. (h). Pub. L. 107–56, §211(2), substituted “Except as provided in subsection (c)(2)(D) of this section, a governmental entity” for “A governmental entity” in introductory provisions.
 
 1992—Subsec. (a)(2). Pub. L. 102–385, §20(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section, the term ‘personally identifiable information’ does not include any record of aggregate data which does not identify particular persons.”
 

@@ -42,7 +42,7 @@ The provisions of subsection (a) of this section shall not be superseded except 
 
 Whenever any person who has requested agency records under section 552 of title 5 (Freedom of Information Act), alleges that the Central Intelligence Agency has improperly withheld records because of failure to comply with any provision of this section, judicial review shall be available under the terms set forth in section 552(a)(4)(B) of title 5, except that—
 
-&emsp;(1) in any case in which information specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign relationswhich is filed with, or produced for, the court by the Central Intelligence Agency, such information shall be examined ex parte, in camera by the court;
+&emsp;(1) in any case in which information specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign relations which is filed with, or produced for, the court by the Central Intelligence Agency, such information shall be examined ex parte, in camera by the court;
 
 &emsp;(2) the court shall, to the fullest extent practicable, determine issues of fact based on sworn written submissions of the parties;
 

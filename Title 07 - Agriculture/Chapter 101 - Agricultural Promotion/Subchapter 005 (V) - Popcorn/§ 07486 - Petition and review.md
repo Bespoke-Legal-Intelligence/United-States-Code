@@ -34,7 +34,7 @@
 
 #### (3) Remands
 
-&emsp;If the court determines, under paragraph (1), that a ruling issued under subsection (a)(4) ofthis section is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions—
+&emsp;If the court determines, under paragraph (1), that a ruling issued under subsection (a)(4) of this section is not in accordance with applicable law, the court shall remand the matter to the Secretary with directions—
 
 &emsp;&emsp;(A) to make such ruling as the court shall determine to be in accordance with law; or
 

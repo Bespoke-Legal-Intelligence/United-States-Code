@@ -310,7 +310,17 @@ For purposes of this section—
 
 &emsp;&emsp;(P) Section 6324B (relating to special lien for additional estate tax).
 
-(Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 and amended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809.)
+(Added Pub. L. 105–34, title V, §502(a), Aug. 5, 1997, 111 Stat. 847, §2033A; renumbered §2057 and amended Pub. L. 105–206, title VI, §6007(b)(1)(A)–(D), (2)–(7), July 22, 1998, 112 Stat. 807–809; Pub. L. 107–16, title V, §521(d), June 7, 2001, 115 Stat. 72.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–16, title V, §521(d), (e)(3), title IX, §901, June 7, 2001, 115 Stat. 72, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, this section is temporarily amended by adding at the end the following new subsection:</i>
+
+#### <i>(j) Termination</i>
+
+<i>This section shall not apply to the estates of decedents dying after December 31, 2003.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
@@ -361,6 +371,12 @@ Subsec. (f)(3). Pub. L. 105–206, §6007(b)(5)(B), added par. (3).
 Subsec. (g)(1). Pub. L. 105–206, §6007(b)(6), struck out “or (M)” after “subparagraph (F)”.
 
 Subsec. (i)(3)(L) to (P). Pub. L. 105–206, §6007(b)(7), added subpars. (L) and (M) and redesignated former subpars. (L) to (N) as (N) to (P), respectively.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers,after Dec. 31, 2003, see section 521(e)(3) of Pub. L. 107–16, set out as a note under section 2010 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

@@ -8,7 +8,7 @@ When any land on the project is opened to homestead entry under the terms of the
 
 #### References in Text
 
-References to the reclamation Act, the reclamation law, and the “Reclamation Law”, in text, probably mean act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+References to the reclamation Act, the reclamation law, and the “Reclamation Law”, in text, probablymean act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 Act of March 3, 1905, referred to in text, is act Mar. 3, 1905, ch. 1452, 33 Stat. 1016, which is not classified to the Code.
 

@@ -1,6 +1,6 @@
 ### §460w. Establishment; boundaries
 
-In order to conserve and develop for the benefit, inspiration, education, recreational use, andenjoyment of the public certain significant islands and shoreline of the United States and their related geographic, scenic, and scientific values, there is hereby established the Apostle Islands National Lakeshore (hereinafter referred to as the “lakeshore”) in Ashland and Bayfield Counties, Wisconsin, consisting of:
+In order to conserve and develop for the benefit, inspiration, education, recreational use, and enjoyment of the public certain significant islands and shoreline of the United States and their related geographic, scenic, and scientific values, there is hereby established the Apostle Islands National Lakeshore (hereinafter referred to as the “lakeshore”) in Ashland and Bayfield Counties, Wisconsin, consisting of:
 
 #### (a) In general
 

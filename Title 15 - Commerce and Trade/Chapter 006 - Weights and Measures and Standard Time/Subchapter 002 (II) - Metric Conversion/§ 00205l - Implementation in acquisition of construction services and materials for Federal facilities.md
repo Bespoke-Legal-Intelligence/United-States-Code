@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth inchapter 137 of title 10, section 2377 of title 10, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 2377(c) of title 10 and section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c)). If the requirements of this subchapter conflict with the provisions of section 2377 of title 10 or section 314B of the Federal Property and Administrative Services Act of 1949, then the provisions of <sup>1</sup> 2377 or 314B shall take precedence.
+Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in chapter 137 of title 10, section 2377 of title 10, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 2377(c) of title 10 and section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c)). If the requirements of this subchapter conflict with the provisions of section 2377 of title 10 or section 314B of the Federal Property and Administrative Services Act of 1949, then the provisions of <sup>1</sup> 2377 or 314B shall take precedence.
 
 #### (b) Concrete masonry units
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior, in consultation with the Secretary of Commerce, may carry out projects to restore or enhance salmon stocks originating from the Yukon River in Canada and the United States.
+The Secretary of the Interior, in consultation with the Secretary of Commerce, may carry outprojects to restore or enhance salmon stocks originating from the Yukon River in Canada and the United States.
 
 #### (b) Cooperation with Canada
 

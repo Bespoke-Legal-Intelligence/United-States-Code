@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(i) the number of infants under one year of age who were in the State in the year, and
 
-&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the State plan under subchapter XIX of this chapter or the State plan under subchapter XXI of this chapter at any time during the year.
+&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the Stateplan under subchapter XIX of this chapter or the State plan under subchapter XXI of this chapter at any time during the year.
 
 &emsp;(E) Information on the number of—
 
@@ -154,7 +154,7 @@
 
 (2) Each State shall repay to the United States amounts found by the Secretary, after notice and opportunity for a hearing to the State, not to have been expended in accordance with this subchapter and, if such repayment is not made, the Secretary may offset such amounts against the amount of any allotment to which the State is or may become entitled under this subchapter or may otherwise recover such amounts.
 
-(3) The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any State which is not using its allotment under this subchapter in accordance with this subchapter. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
+(3) The Secretary may, after notice and opportunity for a hearing, withhold payment of fundsto any State which is not using its allotment under this subchapter in accordance with this subchapter. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
 
 #### (c) Public inspection of reports and audits
 
@@ -200,7 +200,7 @@ Pub. L. 101–239, §6504(a)(2), redesignated former par. (2) as (3).
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1999 Amendment
 
@@ -216,7 +216,7 @@ Section 2192(b) of Pub. L. 97–35 provided that:
 
 “(1) The Secretary of Health and Human Services shall, no later than October 1, 1984, report to the Congress on the activities of States receiving allotments under title V of the Social Security Act \[this subchapter\] (as amended by this section) and include in such report any recommendations for appropriate changes in legislation.
 
-“(2) The Secretary of Health and Human Services, in consultation with the Comptroller General, shall examine alternative formulas, for the allotment of funds to States under section 502(b) of the Social Security Act \[section 702(b) of this title\] (as amended by this section) which might be used as a substitute for the method of allotting funds described in such section, which provide for the equitable distribution of such funds to States (as defined for purposes of such section), and which take into account—
+“(2) The Secretary of Health and Human Services, in consultation with the Comptroller General, shall examine alternative formulas, for the allotment of funds to States under section 502(b) of the Social Security Act\[section 702(b) of this title\] (as amended by this section) which might be used as a substitute for the method of allotting funds described in such section, which provide for the equitable distribution of such funds to States (as defined for purposes of such section), and which take into account—
 
 &emsp;“(A) the populations of the States,
 

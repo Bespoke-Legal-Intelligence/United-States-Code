@@ -242,7 +242,7 @@ Issuance of Certificates.—For the purposes of subsection (a), a valid certific
 
 “(c)
 
-Bilateral or Multilateral Agreements.—Efforts undertaken by the Secretary of State pursuant tosubsection (a) may, at the discretion of the Secretary, be directed toward achieving either bilateral or multilateral agreements, including trade agreements, whichever the Secretary determines to be most likely to result in the earliest possible date or dates of agreement by those nations which individually have in excess of $1,000,000, or the equivalent, in import or export trade in anadromous fish and anadromous fish products.
+Bilateral or Multilateral Agreements.—Efforts undertaken by the Secretary of State pursuant to subsection (a) may, at the discretion of the Secretary, be directed toward achieving either bilateral or multilateral agreements, including trade agreements, whichever the Secretary determines to be most likely to result in the earliest possible date or dates of agreement by those nations which individually have in excess of $1,000,000, or the equivalent, in import or export trade in anadromous fish and anadromous fish products.
 
 “(d)
 
@@ -294,7 +294,7 @@ Driftnet.—The term ‘driftnet’ means a gillnet composed of a panel of plast
 
 &emsp;“(2)
 
-Driftnet fishing.—The term ‘driftnet fishing’ means a fish-harvesting method in which a driftnet is placed in water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+Driftnet fishing.—The term ‘driftnet fishing’ means a fish-harvesting method in which a driftnet isplaced in water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
 &emsp;“(3)
 

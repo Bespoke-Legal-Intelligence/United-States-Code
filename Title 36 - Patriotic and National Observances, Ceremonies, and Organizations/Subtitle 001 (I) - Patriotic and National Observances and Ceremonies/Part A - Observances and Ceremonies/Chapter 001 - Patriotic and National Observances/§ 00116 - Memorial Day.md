@@ -286,7 +286,7 @@ Authority To Procure and To Make Legal Agreements.—
 
 &emsp;“(1)
 
-In general.—Subject to the availability of appropriations, to carry out this Act, the Chairpersonor Vice Chairperson of the Commission or the Executive Director and White House Liaison may, on behalf of the Commission—
+In general.—Subject to the availability of appropriations, to carry out this Act, the Chairperson or Vice Chairperson of the Commission or the Executive Director and White House Liaison may, on behalf of the Commission—
 
 &emsp;&emsp;“(A) procure supplies, services, and property; and
 
@@ -360,7 +360,7 @@ Federal employees.—A member of the Commission who is an officer or employee of
 
 “(b)
 
-Travel Expenses.—A member of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+Travel Expenses.—A member of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from thehome or regular place of business of the member in the performance of the duties of the Commission.
 
 “(c)
 
@@ -432,7 +432,7 @@ In general.—The Commission may enter into a cooperative agreement with another
 
 &emsp;“(2)
 
-Administrative support services.—On the request of the Commission, the Administrator of General Services shall provide to the Commission, on areimbursable basis, any administrative support services and any property, equipment, or office space that the Commission determines to be necessary to carry out this Act.
+Administrative support services.—On the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, any administrative support services and any property, equipment, or office space that the Commission determines to be necessary to carry out this Act.
 
 “(g)
 

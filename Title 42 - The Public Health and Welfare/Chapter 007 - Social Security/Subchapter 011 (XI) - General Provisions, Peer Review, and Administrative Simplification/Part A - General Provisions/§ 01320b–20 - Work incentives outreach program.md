@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(i) preparing and disseminating information explaining such programs; and
 
-&emsp;&emsp;&emsp;(ii) working in cooperation with other Federal, State, and private agencies and nonprofit organizations that serve disabledbeneficiaries, and with agencies and organizations that focus on vocational rehabilitation and work-related training and counseling;
+&emsp;&emsp;&emsp;(ii) working in cooperation with other Federal, State, and private agencies and nonprofit organizations that serve disabled beneficiaries, and with agencies and organizations that focus on vocational rehabilitation and work-related training and counseling;
 
 &emsp;&emsp;(C) establish a corps of trained, accessible, and responsive work incentives specialists within the Social Security Administration who will specialize in disability work incentives under subchapters II and XVI of this chapter for the purpose of disseminating accurate information with respect to inquiries and issues relating to work incentives to—
 
@@ -94,7 +94,7 @@
 
 #### (4) Allocation of costs
 
-&emsp;The costs of carrying out this section shall be paid from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, and shall be allocated among those amounts as appropriate.
+&emsp;The costs of carrying out this section shall be paid from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, andshall be allocated among those amounts as appropriate.
 
 #### (c) Definitions
 

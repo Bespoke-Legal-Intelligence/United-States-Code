@@ -38,7 +38,7 @@
 
 (2) The Exchange making the contract shall reimburse the Government for the amount paid by the Government.
 
-(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843.)
+(Pub. L. 97–258, §§1, 2(m)(2), Sept. 13, 1982, 96 Stat. 917, 1062; Pub. L. 102–572, title IX,§902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–316, title II, §202(m), Oct. 19, 1996, 110 Stat. 3843.)
 
 Historical and Revision Notes
 
@@ -96,7 +96,7 @@ Section 2(m) of Pub. L. 97–258 provided that the amendment made by that sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3723, 7430, 7432, 7433 of this title; title 7 section 136m; title 10 sections 2733, 2734; title 16 sections 79g, 429b, 460bb–2, 838<i>l</i>; title 25 sections 1777c, 1778c; title 26 sections 7426, 7435; title 28 sections 1961, 3906; title 32 sections 334, 715; title 41 section 612.
+This section is referred to in sections 3723, 7430, 7432, 7433 of this title; title 7 section 136m; title 10 sections 2733, 2734; title 16 sections 79g, 429b, 460bb–2, 838<i>l</i>; title 18 section 2712; title 25 sections 1777c, 1778c; title 26 sections 7426, 7435; title 28 sections 1961, 3906; title 32 sections 334, 715; title 41 section 612.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

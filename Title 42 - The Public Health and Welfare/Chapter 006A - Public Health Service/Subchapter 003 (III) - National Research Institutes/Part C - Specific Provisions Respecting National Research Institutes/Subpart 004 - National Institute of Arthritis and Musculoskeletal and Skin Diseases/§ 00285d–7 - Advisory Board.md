@@ -28,7 +28,7 @@ Members of the Advisory Board who are officers or employees of the Federal Gover
 
 #### (d) Term of office; vacancy
 
-The term of office of an appointed member of the Advisory Board is four years. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successorhas taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days after the date the vacancy occurred.
+The term of office of an appointed member of the Advisory Board is four years. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days after the date the vacancy occurred.
 
 #### (e) Chairman
 

@@ -26,7 +26,7 @@ The Congress finds that barriers to (and other distortions of) international tra
 
 &emsp;&emsp;(II) consults with such committees regarding the negotiation of such agreement.
 
-(B) The provisions of section 2191 of this title shall not apply to an implementing bill (within the meaning of section 2191(b) of this title if—
+(B) The provisions of section 2191 of this title shall not apply to an implementing bill (within the meaning of section 2191(b) of this title) if—
 
 &emsp;(i) such implementing bill contains a provision approving of any trade agreement which—
 
@@ -124,7 +124,447 @@ Section 1106(c)(1) of Pub. L. 96–39 provided in part that the amendment of sub
 
 Pub. L. 101–382, title I, §135(c), Aug. 20, 1990, 104 Stat. 652, provided that: “For purposes of section 404 of the United States-Canada Free-Trade Agreement Implementation Act of 1988 \[Pub. L. 100–449, set out in a note below\], the amendments made by subsection (b) \[amending section 1677f of this title\] also apply with respect to investigations under title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] involving products of Canadian origin.”
 
-#### United States-Canada Free-Trade Agreement Implementation Act of 1988
+#### United States-Jordan Free Trade Area Implementation
+
+Pub. L. 107–43, Sept. 28, 2001, 115 Stat. 243, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘United States-Jordan Free Trade Area Implementation Act’.
+
+#### “SEC. 2. PURPOSES.
+
+“The purposes of this Act are—
+
+&emsp;“(1) to implement the agreement between the United States and Jordan establishing a free trade area;
+
+&emsp;“(2) to strengthen and develop the economic relations between the United States and Jordan for their mutual benefit; and
+
+&emsp;“(3) to establish free trade between the 2 nations through the removal of trade barriers.
+
+#### “SEC. 3. DEFINITIONS.
+
+“For purposes of this Act:
+
+&emsp;“(1)
+
+Agreement.—The term ‘Agreement’ means the Agreement between the United States of America and the Hashemite Kingdom of Jordan on the Establishment of a Free Trade Area, entered into on October 24, 2000.
+
+&emsp;“(2) HTS.—The term ‘HTS’ means the Harmonized Tariff Schedule of the United States.
+
+#### “TITLE I—TARIFF MODIFICATIONS; RULES OF ORIGIN
+
+#### “SEC. 101. TARIFF MODIFICATIONS.
+
+“(a)
+
+Tariff Modifications Provided for in the Agreement.—The President may proclaim—
+
+&emsp;“(1) such modifications or continuation of any duty;
+
+&emsp;“(2) such continuation of duty-free or excise treatment; or
+
+&emsp;“(3) such additional duties,
+
+> as the President determines to be necessary or appropriate to carry out article 2.1 of the Agreement and the schedule of duty reductions with respect to Jordan set out in Annex 2.1 of the Agreement.
+
+“(b)
+
+Other Tariff Modifications.—The President may proclaim—
+
+&emsp;“(1) such modifications or continuation of any duty;
+
+&emsp;“(2) such continuation of duty-free or excise treatment; or
+
+&emsp;“(3) such additional duties,
+
+> as the President determines to be necessary or appropriate to maintain the general level of reciprocal and mutually advantageous concessions with respect to Jordan provided for by the Agreement.
+
+#### “SEC. 102. RULES OF ORIGIN.
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Eligible articles.—
+
+&emsp;&emsp;“(A)
+
+In general.—The reduction or elimination of any duty imposed on any article by the United States provided for in the Agreement shall apply only if—
+
+&emsp;&emsp;&emsp;“(i) that article is imported directly from Jordan into the customs territory of the United States; and
+
+&emsp;&emsp;&emsp;“(ii) that article—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) is wholly the growth, product, or manufacture of Jordan; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) is a new or different article of commerce that has been grown, produced, or manufactured in Jordan and meets the requirements of subparagraph (B).
+
+&emsp;&emsp;“(B)
+
+Requirements.—
+
+&emsp;&emsp;&emsp;“(i)
+
+General rule.—The requirements of this subparagraph are that with respect to an article described in subparagraph (A)(ii)(II), the sum of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the cost or value of the materials produced in Jordan, plus
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the direct costs of processing operations performed in Jordan,
+
+&emsp;&emsp;&nbsp;is not less than 35 percent of the appraised value of such article at the time it is entered.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Materials produced in united states.—If the cost or value of materials produced in the customs territory of the United States is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributable to such United States cost or value may be applied toward determining the percentage referred to in clause (i).
+
+&emsp;“(2)
+
+Exclusions.—No article may be considered to meet the requirements of paragraph (1)(A) by virtue of having merely undergone—
+
+&emsp;&emsp;“(A) simple combining or packaging operations; or
+
+&emsp;&emsp;“(B) mere dilution with water or mere dilution with another substance that does not materially alter the characteristics of the article.
+
+“(b)
+
+Direct Costs of Processing Operations.—
+
+&emsp;“(1)
+
+In general.—As used in this section, the term ‘direct costs of processing operations’ includes, but is not limited to—
+
+&emsp;&emsp;“(A) all actual labor costs involved in the growth, production, manufacture, or assembly of the specific merchandise, including fringe benefits, on-the-job training, and the cost of engineering, supervisory, quality control, and similar personnel; and
+
+&emsp;&emsp;“(B) dies, molds, tooling, and depreciation on machinery and equipment which are allocable to the specific merchandise.
+
+&emsp;“(2)
+
+Excluded costs.—The term ‘direct costs of processing operations’ does not include costs which are not directly attributable to the merchandise concerned, or are not costs of manufacturing the product, such as—
+
+&emsp;&emsp;“(A) profit; and
+
+&emsp;&emsp;“(B) general expenses of doing business which are either not allocable to the specific merchandise or are not related to the growth, production, manufacture, or assembly of the merchandise, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions, or expenses.
+
+“(c)
+
+Textile and Apparel Articles.—
+
+&emsp;“(1)
+
+In general.—A textile or apparel article imported directly from Jordan into the customs territory of the United States shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) only if—
+
+&emsp;&emsp;“(A) the article is wholly obtained or produced in Jordan;
+
+&emsp;&emsp;“(B) the article is a yarn, thread, twine, cordage, rope, cable, or braiding, and—
+
+&emsp;&emsp;&emsp;“(i) the constituent staple fibers are spun in Jordan, or
+
+&emsp;&emsp;&emsp;“(ii) the continuous filament is extruded in Jordan;
+
+&emsp;&emsp;“(C) the article is a fabric, including a fabric classified under chapter 59 of the HTS, and the constituent fibers, filaments, or yarns are woven, knitted, needled, tufted, felted, entangled, or transformed by any other fabric-making process in Jordan; or
+
+&emsp;&emsp;“(D) the article is any other textile or apparel article that is wholly assembled in Jordan from its component pieces.
+
+&emsp;“(2)
+
+Definition.—For purposes of paragraph (1), an article is ‘wholly obtained or produced in Jordan’ if it is wholly the growth, product, or manufacture of Jordan.
+
+&emsp;“(3)
+
+Special rules.—
+
+&emsp;&emsp;“(A)
+
+Certain made-up articles, textile articles in the piece, and certain other textiles and textile articles.—Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (C) and (D) of this paragraph, subparagraph (A), (B), or (C) of paragraph (1), as appropriate, shall determine whether a good that is classified under one of the following headings or subheadings of the HTS shall be considered to meet the requirements of paragraph (1)(A) of subsection (a): 5609, 5807, 5811, 6209.20.50.40, 6213, 6214, 6301, 6302, 6304, 6305, 6306, 6307.10, 6307.90, 6308, and 9404.90.
+
+&emsp;&emsp;“(B)
+
+Certain knit-to-shape textiles and textile articles.—Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (C) and (D) of this paragraph, a textile or apparel article which is knit-to-shape in Jordan shall be considered to meet the requirements of paragraph (1)(A) of subsection (a).
+
+&emsp;&emsp;“(C)
+
+Certain dyed and printed textiles and textile articles.—Notwithstanding paragraph (1)(D), a good classified under heading 6117.10, 6213.00, 6214.00. 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95 of the HTS, except for a good classified under any such heading as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight of cotton, shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) if the fabric in the good is both dyed and printed in Jordan, and such dyeing and printing is accompanied by 2 or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
+
+&emsp;&emsp;“(D)
+
+Fabrics of silk, cotton, manmade fiber or vegetable fiber.—Notwithstanding paragraph (1)(C), a fabric classified under the HTS as of silk, cotton, man-made fiber, or vegetable fiber shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) if the fabric is both dyed and printed in Jordan, and such dyeing and printing is accompanied by 2 or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
+
+&emsp;“(4)
+
+Multicountry rule.—If the origin of a textile or apparel article cannot be determined under paragraph (1) or (3), then that article shall be considered to meet the requirements of paragraph (1)(A) of subsection (a) if—
+
+&emsp;&emsp;“(A) the most important assembly or manufacturing process occurs in Jordan; or
+
+&emsp;&emsp;“(B) if the applicability of paragraph (1)(A) of subsection (a) cannot be determined under subparagraph (A), the last important assembly or manufacturing occurs in Jordan.
+
+“(d)
+
+Exclusion.—A good shall not be considered to meet the requirements of paragraph (1)(A) of subsection (a) if the good—
+
+&emsp;“(1) is imported into Jordan, and, at the time of importation, would be classified under heading 0805 of the HTS; and
+
+&emsp;“(2) is processed in Jordan into a good classified under any of subheadings 2009.11 through 2009.30 of the HTS.
+
+(e)
+
+Regulations.—The Secretary of the Treasury, after consultation with the United States Trade Representative, shall prescribe such regulations as may be necessary to carry out this section.
+
+#### “TITLE II—RELIEF FROM IMPORTS
+
+#### “Subtitle A—General Provisions
+
+#### “SEC. 201. DEFINITIONS.
+
+“As used in this title:
+
+&emsp;“(1)
+
+Commission.—The term ‘Commission’ means the United States International Trade Commission.
+
+&emsp;“(2)
+
+Jordanian article.—The term ‘Jordanian article’ means an article that qualifies for reduction or elimination of a duty under section 102.
+
+#### “Subtitle B—Relief From Imports Benefiting From The Agreement
+
+#### “SEC. 211. COMMENCING OF ACTION FOR RELIEF.
+
+“(a)
+
+Filing of Petition.—
+
+&emsp;“(1)
+
+In general.—A petition requesting action under this subtitle for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers that is representative of an industry. The Commission shall transmit a copy of any petition filed under this subsection to the United States Trade Representative.
+
+&emsp;“(2)
+
+Provisional relief.—An entity filing a petition under this subsection may request that provisional relief be provided as if the petition had been filed under section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\].
+
+&emsp;“(3)
+
+Critical circumstances.—Any allegation that critical circumstances exist shall be included in the petition.
+
+“(b)
+
+Investigation and Determination.—
+
+&emsp;“(1)
+
+In general.—Upon the filing of a petition under subsection (a), the Commission, unless subsection (d) applies, shall promptly initiate an investigation to determine whether, as a result of the reduction or elimination of a duty provided for under the Agreement, a Jordanian article is being imported into the United States in such increased quantities, in absolute terms or relative to domestic production, and under such conditions that imports of the Jordanian article alone constitute a substantial cause of serious injury or threat thereof to the domestic industry producing an article that is like, or directly competitive with, the imported article.
+
+&emsp;“(2)
+
+Causation.—For purposes of this subtitle, a Jordanian article is being imported into the United States in increased quantities as a result of the reduction or elimination of a duty provided for under the Agreement if the reduction or elimination is a cause that contributes significantly to the increase in imports. Such cause need not be equal to or greater than any other cause.
+
+“(c)
+
+Applicable Provisions.—The following provisions of section 202 of the Trade Act of 1974 (19 U.S.C. 2252) apply with respect to any investigation initiated under subsection (b):
+
+&emsp;“(1) Paragraphs (1)(B) and (3) of subsection (b).
+
+&emsp;“(2) Subsection (c).
+
+&emsp;“(3) Subsection (d).
+
+“(d)
+
+Articles Exempt From Investigation.—No investigation may be initiated under this section with respect to any Jordanian article if import relief has been provided under this subtitle with respect to that article.
+
+#### “SEC. 212. COMMISSION ACTION ON PETITION.
+
+“(a)
+
+Determination.—By no later than 120 days (180 days if critical circumstances have been alleged) after the date on which an investigation is initiated under section 211(b) with respect to a petition, the Commission shall make the determination required under that section.
+
+“(b)
+
+Additional Finding and Recommendation if Determination Affirmative.—If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, the Commission shall find, and recommend to the President in the report required under subsection (c), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to that described in section 213(c).
+
+“(c)
+
+Report to President.—No later than the date that is 30 days after the date on which a determination is made under subsection (a) with respect to an investigation, the Commission shall submit to the President a report that shall include—
+
+&emsp;“(1) a statement of the basis for the determination;
+
+&emsp;“(2) dissenting and separate views; and
+
+&emsp;“(3) any finding made under subsection (b) regarding import relief.
+
+“(d)
+
+Public Notice.—Upon submitting a report to the President under subsection (c), the Commission shall promptly make public such report (with the exception of information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
+
+“(e)
+
+Applicable Provisions.—For purposes of this subtitle, the provisions of paragraphs (1), (2), and (3) of section 330(d) of the Tariff Act of 1930 (19 U.S.C. 1330(d)) shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 202 of the Trade Act of 1974 (19 U.S.C. 2252).
+
+#### “SEC. 213. PROVISION OF RELIEF.
+
+“(a)
+
+In General.—No later than the date that is 30 days after the date on which the President receives the report of the Commission containing an affirmative determination of the Commission under section 212(a), the President shall provide relief from imports of the article that is the subject of such determination to the extent that the President determines necessary to prevent or remedy the injury found by the Commission and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition, unless the President determines that the provision of such relief is not in the national economic interest of the United States or, in extraordinary circumstances, that the provision of such relief would cause serious harm to the national security of the United States.
+
+“(b)
+
+National Economic Interest.—The President may determine under subsection (a) that providing import relief is not in the national economic interest of the United States only if the President finds that taking such action would have an adverse impact on the United States economy clearly greater than the benefits of taking such action.
+
+“(c)
+
+Nature of Relief.—The import relief (including provisional relief) that the President is authorized to provide under this subtitle with respect to imports of an article is—
+
+&emsp;“(1) the suspension of any further reduction provided for under the United States Schedule to Annex 2.1 of the Agreement in the duty imposed on that article;
+
+&emsp;“(2) an increase in the rate of duty imposed on such article to a level that does not exceed the lesser of—
+
+&emsp;&emsp;“(A) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
+
+&emsp;&emsp;“(B) the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force; or
+
+&emsp;“(3) in the case of a duty applied on a seasonal basis to that article, an increase in the rate of duty imposed on the article to a level that does not exceed the column 1 general rate of duty imposed under the HTS on the article for the corresponding season occurring immediately before the date on which the Agreement enters into force.
+
+“(d)
+
+Period of Relief.—The import relief that the President is authorized to provide under this section may not exceed 4 years.
+
+“(e)
+
+Rate After Termination of Import Relief.—When import relief under this subtitle is terminated with respect to an article—
+
+&emsp;“(1) the rate of duty on that article after such termination and on or before December 31 of the year in which termination occurs shall be the rate that, according to the United States Schedule to Annex 2.1 of the Agreement for the staged elimination of the tariff, would have been in effect 1 year after the initiation of the import relief action under section 211; and
+
+&emsp;“(2) the tariff treatment for that article after December 31 of the year in which termination occurs shall be, at the discretion of the President, either—
+
+&emsp;&emsp;“(A) the rate of duty conforming to the applicable rate set out in the United States Schedule to Annex 2.1; or
+
+&emsp;&emsp;“(B) the rate of duty resulting from the elimination of the tariff in equal annual stages ending on the date set out in the United States Schedule to Annex 2.1 for the elimination of the tariff.
+
+#### “SEC. 214. TERMINATION OF RELIEF AUTHORITY.
+
+“(a)
+
+General Rule.—Except as provided in subsection (b), no import relief may be provided under this subtitle after the date that is 15 years after the date on which the Agreement enters into force.
+
+“(b)
+
+Exception.—Import relief may be provided under this subtitle in the case of a Jordanian article after the date on which such relief would, but for this subsection, terminate under subsection (a), but only if the Government of Jordan consents to such provision.
+
+#### “SEC. 215. COMPENSATION AUTHORITY.
+
+“For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under section 213 shall be treated as action taken under chapter 1 of title II of such Act \[19 U.S.C. 2251 et seq.\].
+
+#### “SEC. 216. SUBMISSION OF PETITIONS.
+
+“A petition for import relief may be submitted to the Commission under—
+
+&emsp;“(1) this subtitle;
+
+&emsp;“(2) chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\]; or
+
+&emsp;“(3) under both this subtitle and such chapter 1 at the same time, in which case the Commission shall consider such petitions jointly.
+
+#### “Subtitle C—Cases Under Title II of The Trade Act of 1974
+
+#### “SEC. 221. FINDINGS AND ACTION ON JORDANIAN IMPORTS.
+
+“(a)
+
+Effect of Imports.—If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], the Commission makes an affirmative determination (or a determination which the President may treat as an affirmative determination under such chapter by reason of section 330(d) of the Tariff Act of 1930 \[19 U.S.C. 1330(d)\]), the Commission shall also find (and report to the President at the time such injury determination is submitted to the President) whether imports of the article from Jordan are a substantial cause of serious injury or threat thereof.
+
+“(b)
+
+Presidential Action Regarding Jordanian Imports.—In determining the nature and extent of actionto be taken under chapter 1 of title II of the Trade Act of 1974, the President shall determine whether imports from Jordan are a substantial cause of the serious injury found by the Commission and, if such determination is in the negative, may exclude from such action imports from Jordan.
+
+#### “SEC. 222. TECHNICAL AMENDMENT.
+
+\[Amended section 2252 of this title.\]
+
+#### “TITLE III—TEMPORARY ENTRY
+
+#### “SEC. 301. NONIMMIGRANT TRADERS AND INVESTORS.
+
+“Upon the basis of reciprocity secured by the Agreement, an alien who is a national of Jordan (and any spouse or child (as defined in section 101(b)(1) of the Immigration and Nationality Act (8 U.S.C. 1101(b)(1)) of the alien, if accompanying or following to join the alien) shall be considered as entitled to enter the United States under and in pursuance of the provisions of the Agreement as a nonimmigrant described in section 101(a)(15)(E) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(E)), if the entry is solely for a purpose described in clause (i) or (ii) of such section and the alien is otherwise admissible to the United States as such a nonimmigrant.
+
+#### “TITLE IV—GENERAL PROVISIONS
+
+#### “SEC. 401. RELATIONSHIP OF THE AGREEMENT TO UNITED STATES AND STATE LAW.
+
+“(a)
+
+Relationship of Agreement to United States Law.—
+
+&emsp;“(1)
+
+United states law to prevail in conflict.—No provision of the Agreement, nor the application of any such provision to any person or circumstance, that is inconsistent with any law of the United States shall have effect.
+
+&emsp;“(2)
+
+Construction.—Nothing in this Act shall be construed—
+
+&emsp;&emsp;“(A) to amend or modify any law of the United States; or
+
+&emsp;&emsp;“(B) to limit any authority conferred under any law of the United States,
+
+> &emsp;unless specifically provided for in this Act.
+
+“(b)
+
+Relationship of Agreement to State Law.—
+
+&emsp;“(1)
+
+Legal challenge.—No State law, or the application thereof, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+
+&emsp;“(2)
+
+Definition of state law.—For purposes of this subsection, the term ‘State law’ includes—
+
+&emsp;&emsp;“(A) any law of a political subdivision of a State; and
+
+&emsp;&emsp;“(B) any State law regulating or taxing the business of insurance.
+
+“(c)
+
+Effect of Agreement With Respect to Private Remedies.—No person other than the United States—
+
+&emsp;“(1) shall have any cause of action or defense under the Agreement; or
+
+&emsp;“(2) may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State on the ground that such action or inaction is inconsistent with the Agreement.
+
+#### “SEC. 402. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated for each fiscal year after fiscal year 2001 to the Department of Commerce not more than $100,000 for the payment of the United States share of the expenses incurred in dispute settlement proceedings under article 17 of the Agreement.
+
+#### “SEC. 403. IMPLEMENTING REGULATIONS.
+
+“After the date of enactment of this Act \[Sept. 28, 2001\]—
+
+&emsp;“(1) the President may proclaim such actions; and
+
+&emsp;“(2) other appropriate officers of the United States may issue such regulations,
+
+> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date the Agreement enters into force is appropriately implemented on such date, but no such proclamation or regulation may have an effective date earlier than the date the Agreement enters into force.
+
+#### “SEC. 404. EFFECTIVE DATES; EFFECT OF TERMINATION.
+
+“(a)
+
+Effective Dates.—Except as provided in subsection (b), the provisions of this Act and the amendments made by this Act take effect on the date the Agreement enters into force \[Dec. 17, 2001\].
+
+“(b)
+
+Exceptions.—Sections 1 through 3 and this title take effect on the date of the enactment of this Act \[Sept. 28, 2001\].
+
+“(c)
+
+Termination of the Agreement.—On the date on which the Agreement ceases to be in force, the provisions of this Act (other than this subsection) and the amendments made by this Act, shall cease to be effective.”
+
+\[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
+
+#### United States-Canada Free-Trade Agreement Implementation
 
 Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789, provided that:
 
@@ -156,7 +596,7 @@ Table of Contents.—\[Omitted.\]
 
 “(a)
 
-Approval of Agreement and Statement of Administrative Action.—Pursuant to sections 102 and 151 of the Trade Act of 1974 (19 U.S.C. 2112 and 2191), the Congress approves—
+Approval of Agreement and Statement of Administrative Action.—Pursuant to sections 102 and 151of the Trade Act of 1974 (19 U.S.C. 2112 and 2191), the Congress approves—
 
 &emsp;“(1) the United States-Canada Free-Trade Agreement (hereinafter in this Act referred to as the ‘Agreement’) entered into on January 2, 1988, and submitted to the Congress on July 25, 1988;
 
@@ -262,7 +702,7 @@ Definition.—As used in this Act, the term ‘Harmonized System’ means the no
 
 “(b)
 
-Interim Application of TSUS.—The following apply if the International Convention, and the protocol thereto, referred to in subsection (a) are not implemented under United States law before the Agreement enters into force:
+Interim Application of TSUS.—The following apply if the International Convention, and the protocolthereto, referred to in subsection (a) are not implemented under United States law before the Agreement enters into force:
 
 &emsp;“(1) The President, subject to subsection (c), shall proclaim such modifications to the Tariff Schedules of the United States (19 U.S.C. 1202) as may be necessary to give effect, until such time as such Convention and protocol are so implemented, to the rules of origin, schedule of rate reductions, and other provisions that would, but for the absence of such implementation, be proclaimed under the authority of this Act to, or in terms of, the Harmonized System to implement the obligations of the United States under the Agreement.
 
@@ -300,7 +740,7 @@ Tariff Modifications Specified in the Agreement.—The President may proclaim—
 
 &emsp;“(3) such additional duties;
 
-> as the President determines to be necessary or appropriate to carry out article 401 of the Agreement and the schedule of duty reductions with respect to Canada set forth in Annexes 401.2 and 401.7 to the Agreement, asapproved under section 101(a)(1). For purposes of proclaiming necessary modifications under such Annex 401.2, any article covered under subheading 9813.00.05 (contained in the United States Schedule in such Annex) shall, unless such article is a drawback eligible good under section 204(a), be treated as being subject to any otherwise applicable customs duty if the article, or merchandise incorporating such article, is exported to Canada.
+> as the President determines to be necessary or appropriate to carry out article 401 of the Agreement and the schedule of duty reductions with respect to Canada set forth in Annexes 401.2 and 401.7 to the Agreement, as approved under section 101(a)(1). For purposes of proclaiming necessary modifications under such Annex 401.2, any article covered under subheading 9813.00.05 (contained in the United States Schedule in such Annex) shall, unless such article is a drawback eligible good under section 204(a), be treated as being subject to any otherwise applicable customs duty if the article, or merchandise incorporating such article, is exported to Canada.
 
 “(b)
 
@@ -360,7 +800,7 @@ Transshipment.—Goods exported from the territory of one Party originate in the
 
 &emsp;“(2) the goods, if shipped through the territory of a third country, do not undergo any operation other than unloading, reloading, or any operation necessary to transport them to the territory of the other Party or to preserve them in good condition; and
 
-&emsp;“(3) the documents related to the exportation and shipment of the goods from the territory of a Party show the territory of the other Party as their final destination.
+&emsp;“(3) the documents related to the exportation and shipment of the goods from the territory of a Partyshow the territory of the other Party as their final destination.
 
 “(c)
 
@@ -504,7 +944,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;&emsp;“(iii) the cost of waste or spoilage resulting from the use or consumption of such materials, less the value of renewable scrap or byproduct; and
 
-&emsp;&emsp;&emsp;“(iv) the value of goods and services relating to such materials determined in accordance withsubparagraph 1(b) of article 8 of the Agreement on Implementation of article VII of the General Agreement on Tariffs and Trade.
+&emsp;&emsp;&emsp;“(iv) the value of goods and services relating to such materials determined in accordance with subparagraph 1(b) of article 8 of the Agreement on Implementation of article VII of the General Agreement on Tariffs and Trade.
 
 &emsp;“(10) The term ‘value of the goods when exported to the territory of the other Party’ means the aggregate of—
 
@@ -588,7 +1028,7 @@ Certifications of Origin.—
 
 &emsp;“(2) Any person that fails to provide a copy of a certification requested under paragraph (1) shall be liable to the United States for a civil penalty not to exceed $10,000.
 
-&emsp;“(3) Any person that certifies falsely that goods exported to Canada meet the rules of origin under such section 202 shall be liable to the United States for the same civil penalties provided under section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) for a violation of section 592(a) of such Act by fraud, gross negligence, or negligence, as the case may be. The procedures and provisions of section 592 of such Act that are applicable to a violation under section 592(a) of such Act shall apply with respect to such false certification.
+&emsp;“(3) Any person that certifies falsely that goods exported to Canada meet the rules of origin under suchsection 202 shall be liable to the United States for the same civil penalties provided under section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) for a violation of section 592(a) of such Act by fraud, gross negligence, or negligence, as the case may be. The procedures and provisions of section 592 of such Act that are applicable to a violation under section 592(a) of such Act shall apply with respect to such false certification.
 
 “(b)
 
@@ -854,7 +1294,7 @@ In General.—
 
 &emsp;&emsp;“(E) liberalize government procurement practices, particularly with regard to telecommunications.
 
-&emsp;“(2) As an exercise of the foreign relations powers of the President under the Constitution, the President will enter into immediate consultations with the Government of Canada to obtain the exclusion from the transport rates established under Canada's Western Grain Transportation Act of agricultural goods that originate in Canada and are shipped via east coast ports for consumption in the United States.
+&emsp;“(2) As an exercise of the foreign relations powers of the President under the Constitution, the President will enter into immediate consultations withthe Government of Canada to obtain the exclusion from the transport rates established under Canada's Western Grain Transportation Act of agricultural goods that originate in Canada and are shipped via east coast ports for consumption in the United States.
 
 “(b)
 
@@ -1068,7 +1508,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;“(C) For purposes of applying section 1001 of title 18, United States Code, the written or oral responses of individuals to inquiries of the interagency group established under paragraph (1) or the Trade Representative regarding their personal and professional qualifications, and financial and other relevant interests, that bear on their suitability for the placements and appointments described in subparagraph (B), shall be treated as matters within the jurisdiction of an agency of the United States.
 
-&emsp;“(3)(A) By no later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the ‘appropriate Congressional Committees’) the preliminary candidate lists of those individuals selected by the Trade Representative under paragraph (2)(A) to be candidates eligible to serve on binational panels or extraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year.
+&emsp;“(3)(A) By no later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the ‘appropriate Congressional Committees’) the preliminary candidate lists of those individuals selected by the Trade Representative under paragraph (2)(A) to be candidates eligible to serve on binational panels orextraordinary challenge committees convened pursuant to chapter 19 of the Agreement during the 1-year period beginning on April 1 of such calendar year.
 
 &emsp;“(B) Upon submission of the preliminary candidate lists under subparagraph (A) to the appropriate Congressional Committees, the Trade Representative shall consult with the appropriate Congressional Committees with regard to the individuals listed on the preliminary candidate lists.
 
@@ -1202,7 +1642,7 @@ Authority of Extraordinary Challenge Committee To Obtain Information.—If an ex
 
 “(b)
 
-Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individual or entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Witnesses and Evidence.—The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subsection (a) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena authorized under subsection (a), the committee may request the Attorney General of the United States to invoke the aid of any district or territorial court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization, or other entity, issue an order requiring such individualor entity to appear before the committee, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 “(c)
 
@@ -1510,7 +1950,7 @@ Elimination or Modifications of Duties.—The President is authorized to proclai
 
 > &emsp;is not less than 35 percent of the appraised value of the product at the time it is entered into the United States.
 
-> For purposes of determining the 35 percent content requirement contained in paragraph (3), the cost or valueof materials which are used in the production of an article in the West Bank, the Gaza Strip, or a qualifying industrial zone, and are the products of the United States, may be counted in an amount up to 15 percent of the appraised value of the article.
+> For purposes of determining the 35 percent content requirement contained in paragraph (3), the cost or value of materials which are used in the production of an article in the West Bank, the Gaza Strip, or a qualifying industrial zone, and are the products of the United States, may be counted in an amount up to 15 percent of the appraised value of the article.
 
 “(b)
 
@@ -1606,7 +2046,7 @@ Documentation required.—An article is eligible for the duty exemption under th
 
 “(c)
 
-Shipment of Articles of Israel Through West Bank or Gaza Strip.—The President is authorized to proclaim that articles of Israel may be treated asthough they were articles directly shipped from Israel for the purposes of the Agreement even if shipped to the United States from the West Bank, the Gaza Strip, or a qualifying industrial zone, if the articles otherwise meet the requirements of the Agreement.
+Shipment of Articles of Israel Through West Bank or Gaza Strip.—The President is authorized to proclaim that articles of Israel may be treated as though they were articles directly shipped from Israel for the purposes of the Agreement even if shipped to the United States from the West Bank, the Gaza Strip, or a qualifying industrial zone, if the articles otherwise meet the requirements of the Agreement.
 
 “(d)
 
@@ -1666,7 +2106,7 @@ Regulations.—The Secretary of the Treasury, after consultation with the United
 
 “(a)
 
-Suspension of Duty-Free Treatment.—The President may by proclamation suspend the reduction or elimination of any duty provided under any trade agreement provision entered into with Israel under the authority of section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] with respect to any article and may proclaim a duty rate for such article if such action is proclaimed under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] or section 232 of the Trade Expansion Act of 1962 \[19 U.S.C. 1862\].
+Suspension of Duty-Free Treatment.—The President may by proclamation suspend the reductionor elimination of any duty provided under any trade agreement provision entered into with Israel under the authority of section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] with respect to any article and may proclaim a duty rate for such article if such action is proclaimed under section 203 of the Trade Act of 1974 \[19 U.S.C. 2253\] or section 232 of the Trade Expansion Act of 1962 \[19 U.S.C. 1862\].
 
 “(b)
 
@@ -1682,7 +2122,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 #### “SEC. 404. FAST TRACK PROCEDURES FOR PERISHABLE ARTICLES.
 
-“(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of theTrade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
+“(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
 
 “(b) Within 14 days after the filing of a petition under subsection (a)—
 

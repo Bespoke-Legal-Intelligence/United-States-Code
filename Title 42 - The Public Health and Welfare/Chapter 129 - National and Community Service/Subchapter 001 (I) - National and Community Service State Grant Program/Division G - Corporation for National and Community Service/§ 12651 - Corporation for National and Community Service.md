@@ -98,7 +98,7 @@ Transfer and allocations of appropriations and personnel.—Except as otherwise 
 
 “(6)
 
-Incidental transfer.—The Director of the Office of Management and Budget, at such time or timesas the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
+Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 “(7)
 
@@ -110,7 +110,7 @@ In general.—Except as otherwise provided by this subsection, the transfer purs
 
 &emsp;“(B)
 
-Executive schedule positions.—Except as otherwise provided in this subsection, any person who, on the day preceding the effective date of this subsection \[see Effective Date of 1993 Amendment note above\], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Corporation to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
+Executive schedule positions.—Except as otherwise provided in this subsection, any personwho, on the day preceding the effective date of this subsection \[see Effective Date of 1993 Amendment note above\], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Corporation to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
 
 &emsp;“(C)
 
@@ -172,7 +172,7 @@ Business Plan Required.—
 
 &emsp;“(1)
 
-In general.—The Corporation for National and Community Service (referred to in this section as the ‘Corporation’) shall prepare and submit to Congress abusiness plan. The Corporation may not provide assistance under section 121 of the National and Community Service Act of 1990 \[42 U.S.C. 12571\] before the twentieth day of continuous session of Congress after the date on which the Corporation submits the business plan to Congress.
+In general.—The Corporation for National and Community Service (referred to in this section as the ‘Corporation’) shall prepare and submit to Congress a business plan. The Corporation may not provide assistance under section 121 of the National and Community Service Act of 1990 \[42 U.S.C. 12571\] before the twentieth day of continuous session of Congress after the date on which the Corporation submits the business plan to Congress.
 
 &emsp;“(2)
 
@@ -200,7 +200,7 @@ Allocation of funds.—The business plan shall contain—
 
 Investigative and audit functions.—The business plan shall include a description of the plans of the Corporation—
 
-&emsp;&emsp;“(A) to ensure continuity, during the transition period, and after the transition period, in the investigative and audit functions carried out by the Inspector General of ACTION prior to such period, consistent with the Inspector General Act of 1978 (5 U.S.C. App.); and
+&emsp;&emsp;“(A) to ensure continuity, during the transition period, and after the transition period, in the investigative and audit functions carried out by the Inspector General of ACTION prior to such period,consistent with the Inspector General Act of 1978 (5 U.S.C. App.); and
 
 &emsp;&emsp;“(B) to carry out investigative and audit functions and implement financial management controls regarding programs carried out by the Corporation after October 1, 1993, consistent with the Inspector General Act of 1978, including a specific description of—
 
@@ -266,7 +266,7 @@ In the few short months since the Corporation's establishment, enormous progress
 
 The ACTION Agency, provided for by the Domestic Volunteer Service Act of 1973 \[42 U.S.C. 4950 et seq.\], has worked closely with the Corporation, sharing its many years of experience in engaging Americans in service to their communities. Because the Corporation's initiatives and those programs operated by the ACTION Agency involve similar goals, the National and Community Service Trust Act calls for the merger of ACTION with the Corporation no later than March 22, 1995. To build upon the tremendous accomplishments already achieved by the Corporation, and to facilitate the further development of community service programs across the country, I am pleased to order that the functions of the Director of the ACTION Agency be transferred to the Corporation for National and Community Service.
 
-NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under theauthority vested in me by the Constitution and the laws of the United States of America, including but not limited to sections 203(c)(2) and (d)(1)(B) of the National and Community Service Trust Act of 1993 \[set out above\], proclaim that all functions of the Director of the ACTION Agency are hereby transferred to the Corporation for National and Community Service, effective April 4, 1994.
+NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, acting under the authority vested in me by the Constitution and the laws of the United States of America, including but not limited to sections 203(c)(2) and (d)(1)(B) of the National and Community Service Trust Act of 1993 \[set out above\], proclaim that all functions of the Director of the ACTION Agency are hereby transferred to the Corporation for National and Community Service, effective April 4, 1994.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this fourth day of April, in the year of our Lord nineteen hundred and ninety-four, and of the Independence of the United States of America the two hundred and eighteenth.
 
@@ -280,7 +280,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. A youth award for community service is hereby established. The award shall recognize outstanding voluntary community service contributions made by individuals between the ages of 5 and 22.
 
-Sec. 2. The Director of the White House Office of National Service shall establish the criteria for the award. The criteria shall be based upon participation in voluntary community service activity. The award may be bestowed upon any eligible individual who meets the established criteria.
+Sec. 2. The Director of the White House Office of National Service shall establish the criteria for the award. The criteria shall be based upon participation in voluntary community service activity. The award maybe bestowed upon any eligible individual who meets the established criteria.
 
 Sec. 3. The selection process for the award shall be administered by the Commission on National and Community Service and the White House Office of National Service. Such other individuals and entities as the Director of the White House Office of National Service deems appropriate may participate in the selection process.
 

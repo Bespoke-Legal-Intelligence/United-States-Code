@@ -44,5 +44,5 @@ Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1234, 1234c, 1234g, 7001 of this title.
+This section is referred to in sections 1234, 1234c, 1234g, 6777 of this title.
 

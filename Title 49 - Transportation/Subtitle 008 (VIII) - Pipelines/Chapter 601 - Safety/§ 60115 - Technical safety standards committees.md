@@ -160,7 +160,7 @@ In subsection (c)(3), the words “final . . . or a final amendment to a stand
 
 In subsection (d), the words “for his consideration” are omitted as surplus.
 
-In subsection (e), the words “(or his designee)” are omitted as surplus because of 49:322(b). The words “at least” are substituted for “not less frequently than” to eliminate unnecessary words. The word “calendar” is omitted as surplus.
+In subsection (e), the words “(or his designee)” are omitted as surplus because of 49:322(b). The words “at least” are substituted for “not less frequently than” toeliminate unnecessary words. The word “calendar” is omitted as surplus.
 
 In subsection (f), the words “The Secretary may establish the pay” are substituted for “may be compensated at a rate to be fixed by the Secretary” for consistency and to eliminate unnecessary words. The words “of the Committee” after “Members”, “actual”, and “then currently” are omitted as surplus. The reference to section 5376 of title 5 is substituted for the reference to section 5332 of title 5 because of section 529 of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442). The words “A member is entitled to expenses under section 5703 of title 5” are substituted for 49 App.:1673(c) (2d sentence) and 2003(c) (2d sentence) to eliminate unnecessary words. The words “for any purpose” are omitted as surplus. The words “This subsection does not apply to members regularly employed by the Government” are substituted for “other than Federal employees” for clarity.
 

@@ -16,7 +16,7 @@
 
 (d) The head of an agency may require other returns or reports about the agency that the public interest requires.
 
-(e)(1) The Comptroller General shall disapprove a requisition for an advance of money if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section. The Comptroller General may disapprove the request for another reason related to the condition of an account of the official for whom the advance is requested. However, the Secretary of the Treasury may overrule the decision of the Comptroller General on the sufficiency of the other reasons.
+(e)(1) The Comptroller General shall disapprove a requisition for an advance of money if an account from which the advance is to be made is not submitted to the Comptroller General within the time required by subsection (b) of this section. The Comptroller General maydisapprove the request for another reason related to the condition of an account of the official for whom the advance is requested. However, the Secretary of the Treasury may overrule the decision of the Comptroller General on the sufficiency of the other reasons.
 
 (2) The Secretary may extend the time requirements of subsection (b)(1) and (2) of this section for submitting an account to the proper official in the District of Columbia or waive a condition of delinquency only when there is, or is likely to be, a manifest physical difficulty in complying with those requirements. If an account is not submitted to the Comptroller General on time under subsection (b), an order of the President or, if the President is ill or not in the District of Columbia, the Secretary is required to authorize an advance.
 

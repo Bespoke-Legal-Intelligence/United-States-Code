@@ -114,7 +114,7 @@
 
 #### (2) Annual report
 
-&emsp;Each year, the Chief Operating Officer shall prepare and submit to Congress, through theSecretary, an annual report on the performance of the PBO, including an evaluation of the extent to which the PBO met the goals and objectives contained in the 5-year performance plan described in paragraph (1) for the preceding year. The annual report shall include the following:
+&emsp;Each year, the Chief Operating Officer shall prepare and submit to Congress, through the Secretary, an annual report on the performance of the PBO, including an evaluation of the extent to which the PBO met the goals and objectives contained in the 5-year performance plan described in paragraph (1) for the preceding year. The annual report shall include the following:
 
 &emsp;&emsp;(A) An independent financial audit of the expenditures of both the PBO and programs administered by the PBO.
 
@@ -256,7 +256,7 @@ The Secretary and the Chief Operating Officer, not later than 180 days after Oct
 
 #### (j) Authorization of appropriations
 
-The Secretary shall allocate from funds made available under section 1087h of this title suchfunds as are appropriate to the functions assumed by the PBO. In addition, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this part, including transition costs.
+The Secretary shall allocate from funds made available under section 1087h of this title such funds as are appropriate to the functions assumed by the PBO. In addition, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this part, including transition costs.
 
 (Pub. L. 89–329, title I, §141, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1604.)
 

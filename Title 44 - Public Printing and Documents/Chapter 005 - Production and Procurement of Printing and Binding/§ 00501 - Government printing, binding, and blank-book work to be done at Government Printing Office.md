@@ -58,7 +58,7 @@ Findings.—The Congress finds the following:
 
 “(b)
 
-Purpose.—The purpose of this Act is to require that all lithographic printing using ink containing oil that is performed or procured by a Federal agency shall use ink containing the maximum amounts of vegetableoil and materials derived from other renewable resources that—
+Purpose.—The purpose of this Act is to require that all lithographic printing using ink containing oil that is performed or procured by a Federal agency shall use ink containing the maximum amounts of vegetable oil and materials derived from other renewable resources that—
 
 &emsp;“(1) are technologically feasible, and
 

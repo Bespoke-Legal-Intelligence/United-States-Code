@@ -36,7 +36,7 @@ Subsec. (b)(2). Pub. L. 100–568, §9(b)(1)(C), substituted “work, if require
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
+Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, setout as an Effective Date note under section 106A of this title.
 
 #### Effective Date of 1988 Amendment
 

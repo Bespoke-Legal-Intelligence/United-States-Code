@@ -54,7 +54,7 @@ With respect to the programs authorized in subchapters II through VII of this ch
 
 #### (B) Minority entity
 
-&emsp;&emsp;The term “minority entity” means an entity that is a historically Black college oruniversity, a Hispanic-serving institution of higher education, an American Indian tribal college or university, or another institution of higher education whose minority student enrollment is at least 50 percent.
+&emsp;&emsp;The term “minority entity” means an entity that is a historically Black college or university, a Hispanic-serving institution of higher education, an American Indian tribal college or university, or another institution of higher education whose minority student enrollment is at least 50 percent.
 
 #### (c) Demonstration
 

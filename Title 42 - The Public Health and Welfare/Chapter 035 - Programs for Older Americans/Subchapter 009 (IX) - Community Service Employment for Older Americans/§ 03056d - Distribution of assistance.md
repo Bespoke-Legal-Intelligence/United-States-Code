@@ -54,7 +54,7 @@ From the sums provided for national grants under subsection (c) of this section,
 
 &emsp;&emsp;(A) equal to or less than the amount necessary to maintain the fiscal year 2000 level of activities, allotments for public and private nonprofit agency and organization grantees that operate under this subchapter under national grants from the Secretary in each State shall be proportional to their fiscal year 2000 level of activities; or
 
-&emsp;&emsp;(B) greater than the amount necessary to maintain the fiscal year 2000 level of activities, no State shall be provided a percentage increase above the fiscal year 2000 level of activities for public and private nonprofit agency and organization grantees that operate under this subchapter under national grants from the Secretary in the State that is less than 30 percent of such percentage increase above the fiscal year 2000 level of activities for public and private nonprofit agency and organization grantees that operate under this subchapter under national grants from the Secretary in all of the States.
+&emsp;&emsp;(B) greater than the amount necessary to maintain the fiscal year 2000 level of activities, no State shall be provided a percentageincrease above the fiscal year 2000 level of activities for public and private nonprofit agency and organization grantees that operate under this subchapter under national grants from the Secretary in the State that is less than 30 percent of such percentage increase above the fiscal year 2000 level of activities for public and private nonprofit agency and organization grantees that operate under this subchapter under national grants from the Secretary in all of the States.
 
 #### (3) Reduction
 
@@ -132,7 +132,7 @@ In this section:
 
 #### Prior Provisions
 
-A prior section 3056d, Pub. L. 89–73, title V, §506, formerly title IX, §906, as added Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 723; renumbered title V, §506, and amended Pub. L. 95–478, title I, §105(a), (e), Oct. 18, 1978, 92 Stat. 1547, 1548; Pub. L. 97–115, §12(e), Dec. 29, 1981, 95 Stat. 1607; Pub. L. 98–459, title V, §503(a), (b), Oct. 9, 1984, 98 Stat. 1787; Pub. L. 100–175, title I, §§162(b), 182(b)(3), Nov. 29, 1987, 101 Stat. 957, 964; Pub. L. 102–375, title V, §504(a)–(c)(1), (3), title IX, §904(b)(2), Sept. 30, 1992, 106 Stat. 1267–1269, 1309, related to national grants or contracts and State allotments for projects, prior to the general amendment of this subchapter by Pub. L. 106–501.
+A prior section 3056d, Pub. L. 89–73, title V, §506, formerly title IX, §906, as added Pub. L. 94–135, title I,§113(a), Nov. 28, 1975, 89 Stat. 723; renumbered title V, §506, and amended Pub. L. 95–478, title I, §105(a), (e), Oct. 18, 1978, 92 Stat. 1547, 1548; Pub. L. 97–115, §12(e), Dec. 29, 1981, 95 Stat. 1607; Pub. L. 98–459, title V, §503(a), (b), Oct. 9, 1984, 98 Stat. 1787; Pub. L. 100–175, title I, §§162(b), 182(b)(3), Nov. 29, 1987, 101 Stat. 957, 964; Pub. L. 102–375, title V, §504(a)–(c)(1), (3), title IX, §904(b)(2), Sept. 30, 1992, 106 Stat. 1267–1269, 1309, related to national grants or contracts and State allotments for projects, prior to the general amendment of this subchapter by Pub. L. 106–501.
 
 Another prior section 506 of Pub. L. 89–73 was classified to section 3041e of this title, prior to repeal by Pub. L. 95–478.
 

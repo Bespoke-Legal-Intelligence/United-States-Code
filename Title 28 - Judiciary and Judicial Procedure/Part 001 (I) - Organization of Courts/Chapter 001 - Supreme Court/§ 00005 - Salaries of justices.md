@@ -34,7 +34,9 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-<b>2001</b>—Salaries of Chief Justice and Associate Justices increased to $186,300 and $178,300 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 2001, by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+<b>2002</b>—Salaries of Chief Justice and Associate Justices increased to $192,600 and $184,400 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 2002, by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5, Government Organization and Employees.
+
+<b>2001</b>—Salaries of Chief Justice and Associate Justices increased to $186,300 and $178,300 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 2001, by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, formerly set out as a note under section 5332 of Title 5.
 
 <b>2000</b>—Salaries of Chief Justice and Associate Justices increased to $181,400 and $173,600 per annum, respectively, effective on first day of first pay period beginning on or after Jan. 1, 2000, by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, formerly set out as a note under section 5332 of Title 5.
 
@@ -62,9 +64,9 @@ Salaries of Chief Justice and Associate Justices continued respectively at $115,
 
 <b>1988</b>—Salaries of Chief Justice and Associate Justices continued respectively at $115,000 and $110,000 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, formerly set out as a note under section 5332 of Title 5.
 
-<b>1987</b>—Salaries of Chief Justice and Associate Justices increased respectively to $115,000 and $110,000 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
+<b>1987</b>—Salaries of Chief Justice and Associate Justices increased respectively to $115,000 and $110,000 per annum, on recommendation of the President of theUnited States, see note set out under section 358 of Title 2, The Congress.
 
-Salaries of Chief Justice and Associate Justices increased to $111,700 and $107,200, respectively, effective on first day of first pay period beginning on or afterJan. 1, 1987, by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
+Salaries of Chief Justice and Associate Justices increased to $111,700 and $107,200, respectively, effective on first day of first pay period beginning on or after Jan. 1, 1987, by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
 <b>1985</b>—Salaries of Chief Justice and Associate Justices increased to $108,400 and $104,100, respectively, effective on first day of first pay period beginning on or after Jan. 1, 1985, by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out as a note under section 5332 of Title 5.
 

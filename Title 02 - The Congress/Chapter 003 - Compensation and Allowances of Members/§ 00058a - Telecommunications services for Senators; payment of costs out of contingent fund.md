@@ -24,11 +24,13 @@ Amendment by Pub. L. 99–65 effective on first day of first calendar month begi
 
 #### Payment for Telecommunications Service
 
-Pub. L. 104–53, title I, §5, Nov. 19, 1995, 109 Stat. 517, as amended by Pub. L. 104–197, title I, §4(a), Sept. 16, 1996, 110 Stat. 2397, provided that:
+Pub. L. 104–53, title I, §5, Nov. 19, 1995, 109 Stat. 517, as amended by Pub. L. 104–197, title I, §4(a), Sept. 16, 1996, 110 Stat. 2397; Pub. L. 107–68, title I, §104(a), Nov. 12, 2001, 115 Stat. 568, provided that:
 
-“(a) Any payment for local and long distance telecommunications service provided to any user shall cover the total invoiced amount, including any amount relating to separately identified toll calls, and shall be charged to the appropriation for the fiscal year in which the underlying base service period covered by the invoice ends.
+“(a) Any payment for local and long distance telecommunications service provided to any user shall cover the total invoiced amount, including any amount relating to separately identified toll calls, and shall be charged to the appropriation for the fiscal year in which the underlying base service period covered by the invoice begins.
 
 “(b) As used in subsection (a), the term ‘user’ means a Senator, an Officer of the Senate, and any office, committee, or other entity the funds of which are disbursed by the Secretary of the Senate.”
+
+\[Pub. L. 107–68, title I, §104(b), Nov. 12, 2001, 115 Stat. 568, provided that: “The amendment made by subsection (a) \[amending section 5 of Pub. L. 104–53, set out above\] shall take effect on October 1, 2001, and shall apply to base service periods beginning on or after that date.”\]
 
 \[Pub. L. 104–197, title I, §4(b), Sept. 16, 1996, 110 Stat. 2397, provided that: “The amendments made by subsection (a) \[amending section 5 of Pub. L. 104–53, set out above\] shall take effect on October 1, 1996, and shall apply to all payments made on or after such date for local and long distance telecommunications service.”\]
 

@@ -82,7 +82,7 @@ Definitions and Special Rules.—For purposes of this section—
 
 &emsp;&emsp;“(F) any restriction on substitution of an assignee as a limited partner of a partnership, including a general partner consent requirement: <i>Provided</i>, That the economic benefits of ownership of the assignor may be transferred or assigned without regard to such restriction or consent (other than compliance with any other restriction described in this section);
 
-&emsp;&emsp;“(G) any administrative procedure which establishes an effective date, or an event such as thecompletion of the offering, prior to which a transfer or assignment will not be effective; and
+&emsp;&emsp;“(G) any administrative procedure which establishes an effective date, or an event such as the completion of the offering, prior to which a transfer or assignment will not be effective; and
 
 &emsp;&emsp;“(H) any limitation or restriction on transfer or assignment which is not created or imposed by the issuer or any person acting for or on behalf of such issuer.
 

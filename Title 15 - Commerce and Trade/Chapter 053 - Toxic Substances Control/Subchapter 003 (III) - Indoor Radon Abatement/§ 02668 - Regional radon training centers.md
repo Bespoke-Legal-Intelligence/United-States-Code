@@ -10,7 +10,7 @@ The purpose of a regional radon training center is to develop information and pr
 
 #### (c) Applications
 
-Any colleges, universities, institutions of higher learning or consortia of such institutions may submit an application for funding under this section. Such applications shall be submitted to the Administrator in such form and containing such information as the Administrator may require.
+Any colleges, universities, institutions of higher learning or consortia of such institutionsmay submit an application for funding under this section. Such applications shall be submitted to the Administrator in such form and containing such information as the Administrator may require.
 
 #### (d) Selection criteria
 

@@ -32,7 +32,7 @@ Use of Appropriated Funds.—(1) If a nonappropriated fund instrumentality incur
 
 Definitions.—In this section:
 
-&emsp;(1) The term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any otherinstrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
+&emsp;(1) The term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the Armed Forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
 &emsp;(2) The term “base closure law” has the meaning given such term by section 2667(h) of this title.
 

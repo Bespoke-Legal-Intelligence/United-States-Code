@@ -20,7 +20,7 @@ In return for the granting of an easement by an owner under this subpart, the Se
 
 #### (2) Restoration cost-share agreements
 
-&emsp;In making cost-share payments in connection with a restoration cost-share agreement entered into under section 3837a(h) of this title, the Secretary shall pay the owner an amount that is not less than 50 percent, but not more than 75 percent, of the eligible costs.
+&emsp;In making cost-share payments in connection with a restoration cost-share agreement entered into under section 3837a(h) of thistitle, the Secretary shall pay the owner an amount that is not less than 50 percent, but not more than 75 percent, of the eligible costs.
 
 #### (3) Technical assistance
 

@@ -28,7 +28,7 @@ The Federal Government, and any State or local government that receives Federal 
 
 &emsp;&emsp;&emsp;(i) prevent any health care entity from voluntarily electing to be trained, to train, or to arrange for training in the performance of, to perform, or to make referrals for induced abortions; or
 
-&emsp;&emsp;&emsp;(ii) prevent an accrediting agency or a Federal, State or local government from establishing standards of medical competency applicable only to those individuals who have voluntarily elected to perform abortions.
+&emsp;&emsp;&emsp;(ii) prevent an accrediting agency or a Federal, State or local government fromestablishing standards of medical competency applicable only to those individuals who have voluntarily elected to perform abortions.
 
 #### (c) Definitions
 

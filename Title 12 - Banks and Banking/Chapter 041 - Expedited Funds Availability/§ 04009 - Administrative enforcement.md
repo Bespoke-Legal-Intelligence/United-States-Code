@@ -16,7 +16,7 @@ Compliance with the requirements imposed under this chapter, including regulatio
 
 &emsp;(3) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the National Credit Union Administration Board with respect to any Federal credit union or insured credit union.
 
-> The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act\(12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (b) Additional powers
 
@@ -46,7 +46,7 @@ Compliance with the requirements imposed under this chapter, including regulatio
 
 #### (d) Procedural rules
 
-The authority of the Board to prescribe regulations under this chapter does not impair the authority of any other agency designated in this section to make rules regarding its own procedures in enforcing compliance with requirements imposed under this chapter.
+The authority of the Board to prescribe regulations under this chapter does not impair theauthority of any other agency designated in this section to make rules regarding its own procedures in enforcing compliance with requirements imposed under this chapter.
 
 (Pub. L. 100–86, title VI, §610, Aug. 10, 1987, 101 Stat. 649; Pub. L. 101–73, title VII, §744(d), Aug. 9, 1989, 103 Stat. 438; Pub. L. 102–242, title II, §212(h), Dec. 19, 1991, 105 Stat. 2303.)
 

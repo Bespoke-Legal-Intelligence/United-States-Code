@@ -9,6 +9,15 @@
 | [373\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373%20-%20General%20authority%20of%20Secretary%20of%20the%20Interior.md) | General authority of Secretary of the Interior. |
 | [373a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373a%20-%20Commissioner%20of%20Reclamation%3B%20appointment.md) | Commissioner of Reclamation; appointment. |
 | 373a–1. | Repealed. |
+| [373b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373b%20-%20Law%20enforcement%20authority%20at%20Bureau%20of%20Reclamation%20facilities.md) | Law enforcement authority at Bureau of Reclamation facilities. |
+| (a) | Public safety regulations. |
+| (b) | Violations; criminal penalties. |
+| (c) | Authorization of law enforcement officers. |
+| (d) | Powers of law enforcement officers. |
+| (e) | Legal status of State or local law enforcement officers. |
+| (f) | Concurrent jurisdiction. |
+| (g) | Regulations. |
+| [373c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000373c%20-%20Definitions.md) | Definitions. |
 | [374\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000374%20-%20Sale%20of%20lands%20acquired%20in%20connection%20with%20irrigation%20project.md) | Sale of lands acquired in connection with irrigation project. |
 | [375\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000375%20-%20Sale%20of%20land%20improved%20at%20expense%20of%20reclamation%20fund.md) | Sale of land improved at expense of reclamation fund. |
 | [375a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000375a%20-%20Sale%20under%20sections%20374%20and%20375%20of%20lands%20appraised%20at%20not%20exceeding%20%24300.md) | Sale under sections 374 and 375 of lands appraised at not exceeding $300. |

@@ -2,7 +2,7 @@
 
 (a) Each person who manufactures, packages, or imports cigarettes shall annually provide the Secretary with a list of the ingredients added to tobacco in the manufacture of cigarettes which does not identify the company which uses the ingredients or the brand of cigarettes which contain the ingredients. A person or group of persons required to provide a list by this subsection may designate an individual or entity to provide the list required by this subsection.
 
-(b)(1) At such times as the Secretary considers appropriate, the Secretary shall transmit to the Congress a report, based on the information provided under subsection (a) of this section, respecting—
+(b)(1) At such times as the Secretary considers appropriate, the Secretary shall transmit to theCongress a report, based on the information provided under subsection (a) of this section, respecting—
 
 &emsp;(A) a summary of research activities and proposed research activities on the health effects of ingredients added to tobacco in the manufacture of cigarettes and the findings of such research;
 
@@ -30,7 +30,11 @@ A prior section 7 of Pub. L. 89–92 was renumbered section 8 and is classified 
 
 #### Effective Date of 1984 Amendment
 
-Section 5(b) of Pub. L. 98–474 provided that: “Section 7 of the Federal Cigarette Labeling and Advertising Act\[this section\] added by subsection (a) shall take effect upon the expiration of the one-year period beginning on the date of the enactment of this Act \[Oct. 12, 1984\].”
+Section 5(b) of Pub. L. 98–474 provided that: “Section 7 of the Federal Cigarette Labeling and Advertising Act \[this section\] added by subsection (a) shall take effect upon the expiration of the one-year period beginning on the date of the enactment of this Act \[Oct. 12, 1984\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 19 section 1681a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “judgment”.</i>
 

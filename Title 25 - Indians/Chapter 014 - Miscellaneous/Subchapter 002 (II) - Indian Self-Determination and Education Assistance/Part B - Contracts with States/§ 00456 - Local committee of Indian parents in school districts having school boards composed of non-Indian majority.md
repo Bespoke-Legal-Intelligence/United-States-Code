@@ -2,17 +2,13 @@
 
 #### (a) Election; functions
 
-Whenever a school district affected by a contract or contracts for the education of Indians pursuant to sections 452 to 457 of this title has a local school board not composed of a majority of Indians, the parents of the Indian children enrolled in the school or schools affected by such contract or contracts shall elect a local committee from among their number. Such committee shall fully participate in the development of, and shall have the authority to approve or disapprove programs to be conducted under such contract or contracts, and shall carry out such other duties, and be so structured, as the Secretary of the Interior shall by regulation provide: <i>Provided, however</i>, That, whenever a local Indian committee or committees established pursuant to section 7814(c)(4) <sup>1</sup> of title 20 or an Indian advisory school board or boards established pursuant to sections 452 to 457 of this title prior to January 4, 1975, exists in such school district, such committee or board may, in the discretion of the affected tribal governing body or bodies, be utilized for the purposes of this section.
+Whenever a school district affected by a contract or contracts for the education of Indians pursuant to sections 452 to 457 of this title has a local school board not composed of a majority of Indians, the parents of the Indian children enrolled in the school or schools affected by such contract or contracts shall elect a local committee from among their number. Such committee shall fully participate in the development of, and shall have the authority to approve or disapprove programs to be conducted under such contract or contracts, and shall carry out such other duties, and be so structured, as the Secretary of the Interior shall by regulation provide: <i>Provided, however</i>, That, whenever a local Indian committee or committees established pursuant to section 7424(c)(4) of title 20 or an Indian advisory school board or boards established pursuant to sections 452 to 457 of this title prior to January 4, 1975, exists in such school district, such committee or board may, in the discretion of the affected tribal governing body or bodies, be utilized for the purposes of this section.
 
 #### (b) Revocation of contracts
 
 The Secretary of the Interior may, in his discretion, revoke any contract if the contractor fails to permit a local committee to perform its duties pursuant to subsection (a) of this section.
 
-(Apr. 16, 1934, ch. 147, §5, as added Pub. L. 93–638, title II, §202, Jan. 4, 1975, 88 Stat. 2213; amended Pub. L. 103–382, title III, §393(d), Oct. 20, 1994, 108 Stat. 4027.)
-
-#### References in Text
-
-Section 7814(c)(4) of title 20, referred to in subsec. (a), was in the original “section 9104(c)(4) of the Elementary and Secondary Education Act of 1965”, meaning section 9104(c)(4) of Pub. L. 89–10, which was translatedas reading section 9114(c)(4) of Pub. L. 89–10 to reflect the probable intent of Congress, because Pub. L. 89–10 does not contain a section 9104, but it does contain a section 9114 which in subsec. (c)(4) relates to committees of parents of Indian children.
+(Apr. 16, 1934, ch. 147, §5, as added Pub. L. 93–638, title II, §202, Jan. 4, 1975, 88 Stat. 2213; amended Pub. L. 103–382, title III, §393(d), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title VII, §702(e), Jan. 8, 2002, 115 Stat. 1947.)
 
 #### Prior Provisions
 
@@ -20,11 +16,15 @@ A prior section 5 of act Apr. 16, 1934, ch. 147, 48 Stat. 596, excluded Oklahoma
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–110 substituted reference to section 7424(c)(4) of title 20 for reference to section 7814(c)(4) of title 20.
+
 1994—Subsec. (a). Pub. L. 103–382 substituted reference to section 7814(c)(4) of title 20 for reference to section 241dd(b)(2)(B)(ii) of title 20.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 20 section 2326.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@ The unexpended balances of appropriations authorized by section 1912(d) <sup>1<
 
 #### References in Text
 
-The Small Business Act, referred to in subsec. (a), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended,which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (a), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 Section 2342(d) of this title, referred to in subsec. (a), was redesignated section 2342(c) of this title by Pub. L. 99–272, title XIII, §13006(a)(2), Apr. 7, 1986, 100 Stat. 304.
 

@@ -32,7 +32,7 @@ Section 1 of Pub. L. 94–205, Jan. 2, 1976, 89 Stat. 1157, provided: “That th
 
 #### Short Title
 
-Section 1 of Pub. L. 93–533 provided that: “This Act \[enacting this chapter and sections 1730f and 1831b ofthis title and provisions set out as notes under this section and section 1730f of this title\] may be cited as the ‘Real Estate Settlement Procedures Act of 1974’.”
+Section 1 of Pub. L. 93–533 provided that: “This Act \[enacting this chapter and sections 1730f and 1831b of this title and provisions set out as notes under this section and section 1730f of this title\] may be cited as the ‘Real Estate Settlement Procedures Act of 1974’.”
 
 #### Simplification and Unification of Disclosures Required Under RESPA and TILA for Mortgage Transactions
 

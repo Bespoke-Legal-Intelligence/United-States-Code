@@ -6,7 +6,7 @@ No court of the United States shall have jurisdiction to issue a temporary or pe
 
 (b) That substantial and irreparable injury to complainant's property will follow;
 
-(c) That as to each item of relief granted greater injury will be inflicted upon complainant by the denial of relief then will be inflicted upon defendants by the granting of relief;
+(c) That as to each item of relief granted greater injury will be inflicted upon complainant by the denial of relief than will be inflicted upon defendants by the granting of relief;
 
 (d) That complainant has no adequate remedy at law; and
 

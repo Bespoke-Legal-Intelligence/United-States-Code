@@ -46,12 +46,24 @@
 | [1532\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20A%20-%20Drug-Free%20Communities%20Support%20Program/%C2%A7%2001532%20-%20Program%20authorization.md) | Program authorization. |
 | (a) | Grant eligibility. |
 | (b) | Grant amounts. |
+| (c) | Treatment of funds for coalitions representing certain organizations. |
+| (d) | Priority in awarding grants. |
 | [1533\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20A%20-%20Drug-Free%20Communities%20Support%20Program/%C2%A7%2001533%20-%20Information%20collection%20and%20dissemination%20with%20respect%20to%20grant%20recipients.md) | Information collection and dissemination with respect to grant recipients. |
 | (a) | Coalition information. |
 | (b) | Data collection and dissemination. |
 | [1534\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20A%20-%20Drug-Free%20Communities%20Support%20Program/%C2%A7%2001534%20-%20Technical%20assistance%20and%20training.md) | Technical assistance and training. |
 | (a) | In general. |
 | (b) | Training. |
+| [1535\.](Subchapter%20002%20%28II%29%20-%20Drug-Free%20Communities/Part%20A%20-%20Drug-Free%20Communities%20Support%20Program/%C2%A7%2001535%20-%20Supplemental%20grants%20for%20coalition%20mentoring%20activities.md) | Supplemental grants for coalition mentoring activities. |
+| (a) | Authority to make grants. |
+| (b) | Treatment with other grants. |
+| (c) | Application. |
+| (d) | Criteria. |
+| (e) | Use of grant funds. |
+| (f) | Renewal grants. |
+| (g) | Grant amounts. |
+| (h) | Fiscal year limitation on amount available for grants. |
+| (i) | Priority in awarding initial grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

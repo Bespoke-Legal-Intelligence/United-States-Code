@@ -42,7 +42,7 @@ Par. (9). Pub. L. 89–44 struck out par (9) relating to playing cards.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1904(b)(5)(B), (7)(A), (8)(B), (9)(A) of Pub. L. 94–455 effective on first day of first month which begins more than ninety days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
+Amendment by section 1904(b)(5)(B), (7)(A), (8)(B), (9)(A) of Pub. L. 94–455 effective on first day of firstmonth which begins more than ninety days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
 Amendment by section 1952(n)(1) of Pub. L. 94–455 effective on ninetieth day after Oct. 4, 1976, see section 1952(<i>o</i>) of Pub. L. 94–455, set out as an Effective Date note under section 15b of Title 7, Agriculture.
 

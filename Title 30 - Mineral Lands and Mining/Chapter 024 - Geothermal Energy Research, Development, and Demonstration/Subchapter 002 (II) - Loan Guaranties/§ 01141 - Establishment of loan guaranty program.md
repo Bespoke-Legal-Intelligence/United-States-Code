@@ -44,7 +44,7 @@ As used in this subchapter, the term “qualified borrower” means any public o
 
 #### (g) Payment of interest; criteria
 
-With respect to any guaranty which is issued after February 25, 1978, by, or in behalf of, any State, political subdivision, or Indian tribe and which is either guaranteed under, or supported by taxes levied by said issuer which are guaranteed under this subchapter and for which the interest paid on such obligation and received by the purchaser thereof is included in gross income for the purposes of chapter 1 of title 26, the Secretary of Energy shall pay to such issuer out of the fund established by this subchapter such portion of the interest on such obligations, as determined by the Secretary of Energy, in consultation with the Secretary of the Treasury, to be appropriated after taking into account current market yields (1) on obligations of such issuer, if any, or (2) on other obligations with similar terms and conditions, the interest on which is not so included in gross income for purposes of chapter 1 of title 26, and in accordance with such terms and conditions as the Secretary of Energy shall require in consultation with the Secretary of the Treasury.
+With respect to any guaranty which is issued after February 25, 1978, by, or in behalf of, any State, political subdivision, or Indian tribe and which is either guaranteed under, or supportedby taxes levied by said issuer which are guaranteed under this subchapter and for which the interest paid on such obligation and received by the purchaser thereof is included in gross income for the purposes of chapter 1 of title 26, the Secretary of Energy shall pay to such issuer out of the fund established by this subchapter such portion of the interest on such obligations, as determined by the Secretary of Energy, in consultation with the Secretary of the Treasury, to be appropriated after taking into account current market yields (1) on obligations of such issuer, if any, or (2) on other obligations with similar terms and conditions, the interest on which is not so included in gross income for purposes of chapter 1 of title 26, and in accordance with such terms and conditions as the Secretary of Energy shall require in consultation with the Secretary of the Treasury.
 
 #### (h) Pledge of full faith and credit of United States to guaranties
 
@@ -52,7 +52,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### (i) Fees for guaranties; amount, collection, etc.
 
-The Secretary of Energy shall charge and collect fees for guaranties in amounts sufficient in his judgment to cover applicable administrativecosts and probable losses on guaranteed obligations, but in any event not to exceed 1 per centum per annum of the outstanding indebtedness covered by each guaranty. Fees collected under this subsection shall be deposited in the fund established by this subchapter.
+The Secretary of Energy shall charge and collect fees for guaranties in amounts sufficient in his judgment to cover applicable administrative costs and probable losses on guaranteed obligations, but in any event not to exceed 1 per centum per annum of the outstanding indebtedness covered by each guaranty. Fees collected under this subsection shall be deposited in the fund established by this subchapter.
 
 #### (j) Minimization of capital market impact of guaranties
 

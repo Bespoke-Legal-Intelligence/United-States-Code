@@ -20,7 +20,7 @@ Pub. L. 100–132, §2, Oct. 16, 1987, 101 Stat. 807, provided that:
 
 “(a)
 
-Acquisition of Additional Lands.—Except as provided in section 1 of this Act \[16 U.S.C. 430g–3\], untilCongress receives the study under subsection (b), the Secretary of the Interior may not acquire by purchase, donation, exchange, or any other means any additional land for the Gettysburg National Military Park which is not within the boundaries of the 3,874 acre area depicted on the map dated July 25, 1974, numbered 305–92,004 and entitled ‘Gettysburg National Military Park’.
+Acquisition of Additional Lands.—Except as provided in section 1 of this Act \[16 U.S.C. 430g–3\], until Congress receives the study under subsection (b), the Secretary of the Interior may not acquire by purchase, donation, exchange, or any other means any additional land for the Gettysburg National Military Park which is not within the boundaries of the 3,874 acre area depicted on the map dated July 25, 1974, numbered 305–92,004 and entitled ‘Gettysburg National Military Park’.
 
 “(b)
 

@@ -2,7 +2,7 @@
 
 #### (a) Allotment; Pell Grant basis
 
-From the amounts appropriated to carry out this part for any fiscal year, the Secretary shall allot to each part B institution a sum which bears the same ratio to one-half that amount as the number of Pell Grant recipients in attendance at such institution at the end of the school year preceding the beginning of that fiscal year bears to the total number of Pell Grant recipients at all part B institutions.
+From the amounts appropriated to carry out this part for any fiscal year, the Secretary shallallot to each part B institution a sum which bears the same ratio to one-half that amount as the number of Pell Grant recipients in attendance at such institution at the end of the school year preceding the beginning of that fiscal year bears to the total number of Pell Grant recipients at all part B institutions.
 
 #### (b) Allotment; graduates basis
 
@@ -24,7 +24,7 @@ The amount of any part B institution's allotment under subsection (a), (b), (c),
 
 #### (f) Special merger rule
 
-(1) The Secretary shall permit any eligible institution for a grant under part B in any fiscalyear prior to the fiscal year 1986 to apply for a grant under this part if the eligible institution has merged with another institution of higher education which is not so eligible or has merged with an eligible institution.
+(1) The Secretary shall permit any eligible institution for a grant under part B in any fiscal year prior to the fiscal year 1986 to apply for a grant under this part if the eligible institution has merged with another institution of higher education which is not so eligible or has merged with an eligible institution.
 
 (2) The Secretary may establish such regulations as may be necessary to carry out the requirement of paragraph (1) of this subsection.
 

@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(iii) has no authority over any other activity of the organization.
 
-(2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether anentity meets the requirement established in paragraph (1)(E).<sup>1</sup>
+(2)(A) Not later than 90 days after November 16, 1990, the Secretary shall publish in the Federal Register a notice of proposed rulemaking to establish criteria for determining whether an entity meets the requirement established in paragraph (1)(E).<sup>1</sup>
 
 (B) Not later than 1 year after November 16, 1990, the Secretary shall publish in the Federal Register a final rule to establish the criteria described in subparagraph (A).
 
@@ -212,7 +212,7 @@ Pub. L. 103–432, title I, §155(b), Oct. 31, 1994, 108 Stat. 4439, directed Of
 
 #### Task Force on Organ Procurement and Transplantation
 
-Pub. L. 98–507, title I, §§101–105, Oct. 19, 1984, 98 Stat. 2339–2342, directed Secretary of Health and HumanServices, not later than 90 days after Oct. 19, 1984, to establish a Task Force on Organ Transplantation to conduct comprehensive examinations, prepare an assessment and report, and submit advice as to regulation of the medical, legal, ethical, economic, and social issues presented by human organ procurement and transplantation, with the final report due not later than 12 months after the Task Force is established and the Task Force to terminate 3 months thereafter.
+Pub. L. 98–507, title I, §§101–105, Oct. 19, 1984, 98 Stat. 2339–2342, directed Secretary of Health and Human Services, not later than 90 days after Oct. 19, 1984, to establish a Task Force on Organ Transplantation to conduct comprehensive examinations, prepare an assessment and report, and submit advice as to regulation of the medical, legal, ethical, economic, and social issues presented by human organ procurement and transplantation, with the final report due not later than 12 months after the Task Force is established and the Task Force to terminate 3 months thereafter.
 
 #### Bone Marrow Registry Demonstration and Study
 

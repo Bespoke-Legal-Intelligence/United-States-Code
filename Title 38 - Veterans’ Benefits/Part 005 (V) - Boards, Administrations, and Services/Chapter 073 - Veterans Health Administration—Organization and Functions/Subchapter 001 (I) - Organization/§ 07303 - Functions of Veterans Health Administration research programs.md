@@ -32,7 +32,9 @@
 
 &emsp;(C) Members of appropriate task forces and working groups within the Department (including the Women Veterans Working Group and the Task Force on Treatment of Women Who Suffer Sexual Abuse).
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242.)
+(e) Amounts for the activities of the field offices of the Office of Research Compliance and Assurance of the Department shall be derived from amounts appropriated for the Veterans Health Administration for Medical Care (rather than from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research).
+
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 107–135, title II, §205(a), Jan. 23, 2002, 115 Stat. 2460.)
 
 #### References in Text
 
@@ -40,11 +42,17 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 
 #### Amendments
 
+2002—Subsec. (e). Pub. L. 107–135 added subsec. (e).
+
 1998—Subsec. (b). Pub. L. 105–220 substituted “section 204(b)(3) of the Rehabilitation Act of 1973” for “section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))”.
 
 1994—Pub. L. 103–452 transferred text of subsec. (c) to the end of subsec. (a)(1), struck out subsec. (c) designation, and added new subsecs. (c) and (d).
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+
+#### Applicability to Fiscal Year 2002
+
+Pub. L. 107–135, title II, §205(b), Jan. 23, 2002, 115 Stat. 2460, provided that: “In order to carry out subsection (e) of section 7303 of title 38, United States Code, as added by subsection (a), for fiscal year 2002, the Secretary of Veterans Affairs shall transfer such sums as necessary for that purpose from amounts appropriated for the Veterans Health Administration for Medical and Prosthetic Research for fiscal year 2002 to amounts appropriated for the Veterans Health Administration for Medical Care for that fiscal year.”
 
 #### Post-Traumatic Stress Disorder Research
 

@@ -8,11 +8,11 @@ Subject to the provisions of section 835<i>l</i> of this title, that portion of 
 
 The Federal reclamation laws, referred to in text, are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands.
 
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, known as theReclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 #### Codification
 
-Section is comprised of second par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. Firstsentence of first par. of such section 2(a) is classified to section 835j of this title; second sentence of such first par. repealed section 832h(c) of this title; subsecs. (b) and (c) of section 2 are classified to sections 835<i>l</i> and 835m of this title, respectively.
+Section is comprised of second par. of section 2(a) of Pub. L. 89–448, as so designated by Pub. L. 89–561. First sentence of first par. of such section 2(a) is classified to section 835j of this title; second sentence of such first par. repealed section 832h(c) of this title; subsecs. (b) and (c) of section 2 are classified to sections 835<i>l</i> and 835m of this title, respectively.
 
 #### Amendments
 

@@ -24,7 +24,7 @@ The research, development, or utilization of any technology pursuant to an agree
 
 #### (e) Authorization of appropriations
 
-To carry out the purposes of this section, there is authorized to be appropriated to theSecretary of the Army civil works funds $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for fiscal year 1991, and $6,000,000 for each fiscal year thereafter.
+To carry out the purposes of this section, there is authorized to be appropriated to the Secretary of the Army civil works funds $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for fiscal year 1991, and $6,000,000 for each fiscal year thereafter.
 
 #### (f) Funding from other Federal sources
 

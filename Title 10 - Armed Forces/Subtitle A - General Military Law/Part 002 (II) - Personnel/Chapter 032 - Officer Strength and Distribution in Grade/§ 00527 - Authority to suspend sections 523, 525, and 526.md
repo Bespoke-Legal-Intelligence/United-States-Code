@@ -2,7 +2,7 @@
 
 In time of war, or of national emergency declared by Congress or the President after November 30, 1980, the President may suspend the operation of any provision of section 523, 525, or 526 of this title. So long as such war or national emergency continues, any such suspension may be extended by the President. Any such suspension shall, if not sooner ended, end on the last day of the two-year period beginning on the date on which the suspension (or the last extension thereof) takes effect or on the last day of the one-year period beginning on the date of the termination of the war or national emergency, whichever occurs first. With respect to the end of any such suspension, the preceding sentence supersedes the provisions of title II of the National Emergencies Act (50 U.S.C. 1621–1622) which provide that powers or authorities exercised by reason of a national emergency shall cease to be exercised after the date of the termination of the emergency.
 
-(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2845, §526; renumbered §527 and amended Pub. L. 100–370, §1(b)(1)(A), (2), July 19, 1988, 102 Stat. 840; Pub. L. 103–337, div. A, title XVI, §1671(c)(4), Oct. 5, 1994, 108 Stat. 3014.)
+(Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2845, §526; renumbered §527 and amendedPub. L. 100–370, §1(b)(1)(A), (2), July 19, 1988, 102 Stat. 840; Pub. L. 103–337, div. A, title XVI, §1671(c)(4), Oct. 5, 1994, 108 Stat. 3014.)
 
 #### References in Text
 
@@ -20,7 +20,11 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Delegation of Functions
 
-Functions of President under this section to suspend operation of sections 523, 524 \[now 12011\], and 525 of this title, relating to authorized strength of commissioned officers, delegated to Secretary of Defense to performduring a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, the exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure that actions taken pursuant to any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of President under this section to suspend operation of sections 523, 524 \[now 12011\], and 525 of this title, relating to authorized strength of commissioned officers, delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, the exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure that actions taken pursuant to any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+
+#### Delegation of Authority
+
+Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, set out as a note under section 12302 of this title.
 
 #### Authority To Waive Grade Strength Laws For Fiscal Year 1991; Certification; Relationship to Other Suspension Authority
 
@@ -28,5 +32,5 @@ Pub. L. 102–25, title II, §§201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 517, 12011, 12012 of this title.
+This section is referred to in section 517 of this title.
 

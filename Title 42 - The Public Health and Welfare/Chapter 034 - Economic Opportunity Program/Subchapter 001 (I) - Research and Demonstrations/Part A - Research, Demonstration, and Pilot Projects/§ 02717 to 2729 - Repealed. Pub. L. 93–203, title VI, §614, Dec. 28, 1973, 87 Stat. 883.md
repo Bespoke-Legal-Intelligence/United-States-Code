@@ -20,7 +20,7 @@ Section 2725, Pub. L. 88–452, title I, §114, as added Pub. L. 90–222, title
 
 Section 2726, Pub. L. 88–452, title I, §115, as added Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 680, covered participation of States.
 
-Section 2727, Pub. L. 88–452, title I, §116, as added Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 681;amended Pub. L. 90–623, §5(a), Oct. 22, 1968, 82 Stat. 1315, covered the application of provisions of Federal law.
+Section 2727, Pub. L. 88–452, title I, §116, as added Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 681; amended Pub. L. 90–623, §5(a), Oct. 22, 1968, 82 Stat. 1315, covered the application of provisions of Federal law.
 
 Section 2728, Pub. L. 88–452, title I, §117, as added Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 682, set out certain special limitations.
 

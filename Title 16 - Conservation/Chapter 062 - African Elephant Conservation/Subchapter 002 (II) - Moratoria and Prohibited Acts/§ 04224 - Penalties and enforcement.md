@@ -24,5 +24,5 @@ The Secretary, the Secretary of the Treasury, and the Secretary of the departmen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4212, 4246 of this title.
+This section is referred to in section 4246 of this title.
 

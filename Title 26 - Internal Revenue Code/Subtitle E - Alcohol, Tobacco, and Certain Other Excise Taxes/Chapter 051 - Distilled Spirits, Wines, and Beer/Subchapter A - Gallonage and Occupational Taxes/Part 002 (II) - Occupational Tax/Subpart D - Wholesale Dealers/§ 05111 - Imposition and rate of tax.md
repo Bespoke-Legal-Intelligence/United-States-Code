@@ -14,7 +14,7 @@ Every wholesale dealer in beer shall pay a special tax of $500 a year.
 
 A prior section 5111, act Aug. 16, 1954, ch. 736, 68A Stat. 618, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Provisions similar to those comprising subsec. (a) of this section were contained in former section 5112(a),act Aug. 16, 1954, ch. 736, 68A Stat. 618, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising subsec. (a) of this section were contained in former section 5112(a), act Aug. 16, 1954, ch. 736, 68A Stat. 618, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 

@@ -14,6 +14,10 @@ The Congress makes the following findings:
 
 (Pub. L. 103–297, §2, Aug. 16, 1994, 108 Stat. 1545.)
 
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–56, title X, §1011(a), Oct. 26, 2001, 115 Stat. 396, provided that: “This section \[amending sections 6102 and 6106 of this title and sections 917 and 2325 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Crimes Against Charitable Americans Act of 2001’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–534, §1, Nov. 22, 2000, 114 Stat. 2555, provided that: “This Act \[enacting provisions set out as notes under this section and section 3732 of Title 42, The Public Health and Welfare\] may be cited as the ‘Protecting Seniors From Fraud Act’.”

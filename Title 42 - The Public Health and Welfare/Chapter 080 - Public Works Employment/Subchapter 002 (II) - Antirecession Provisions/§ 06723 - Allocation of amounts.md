@@ -70,7 +70,7 @@ In subsecs. (b)(3)(D) and (c)(3)(C), “sections 6705–6707(a) of title 31” s
 
 #### Amendments
 
-1977—Subsec. (b)(3)(D). Pub. L. 95–30, §603(a), substituted “for the most recently completed entitlementperiod, as defined under section 1261(b) of title 31” for “for the one-year period beginning on July 1, 1975”.
+1977—Subsec. (b)(3)(D). Pub. L. 95–30, §603(a), substituted “for the most recently completed entitlement period, as defined under section 1261(b) of title 31” for “for the one-year period beginning on July 1, 1975”.
 
 Subsec. (c)(1). Pub. L. 95–30, §603(b), substituted “paragraph (4)” for “paragraphs (3) and (5)”.
 

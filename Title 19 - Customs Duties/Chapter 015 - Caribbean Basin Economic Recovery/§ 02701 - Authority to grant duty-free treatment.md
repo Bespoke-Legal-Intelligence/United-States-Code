@@ -62,7 +62,7 @@ Pub. L. 106–200, title II, §213, May 18, 2000, 114 Stat. 288, provided that:
 
 “(a)
 
-Schedule of Meetings.—The President shall take the necessary steps to convene a meeting with the trade ministers of the CBTPA beneficiary countries in order to establish a schedule of regular meetings, to commence as soon as is practicable, of the trade ministers and the Trade Representative, for the purpose set forth in subsection (b).
+Schedule of Meetings.—The President shall take the necessary steps to convene a meeting with the trade ministers of the CBTPA beneficiary countries in order to establish a schedule of regular meetings, tocommence as soon as is practicable, of the trade ministers and the Trade Representative, for the purpose set forth in subsection (b).
 
 “(b)
 

@@ -14,7 +14,7 @@ Reduction of Processing Time.—(1) With respect to claims for payment for medic
 
 (b)
 
-Requirement to Provide Start-Up Time For Certain Contractors.—(1) The Secretary of Defense shall not require that a contractor described in paragraph (2) begin to provide managed care support pursuant to a contract to provide such support under the TRICARE program until at least nine months after the date of the award of the contract. In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the contract, but in no case later than one year after the date of such award.
+Requirement to Provide Start-Up Time For Certain Contractors.—(1) Except as provided in paragraph (3), the Secretary of Defense shall not require that a contractor described in paragraph (2) begin to provide managed care support pursuant to a contract to provide such support under the TRICARE program until at least nine months after the date of the award of the contract, but in no case later than one year after the date of such award.
 
 (2) A contractor under this paragraph is a contractor who is awarded a contract to provide managed care support under the TRICARE program—
 
@@ -22,11 +22,27 @@ Requirement to Provide Start-Up Time For Certain Contractors.—(1) The Secretar
 
 &emsp;(B) who has previously been awarded such a contract by the Department of Defense but for whom the subcontractors have not previously been awarded the subcontracts for such a contract.
 
+(3) The Secretary may reduce the nine-month start-up period required under paragraph (1) if—
+
+&emsp;(A) the Secretary—
+
+&emsp;&emsp;(i) determines that a shorter period is sufficient to ensure effective implementation of all contract requirements; and
+
+&emsp;&emsp;(ii) submits notification to the Committees on Armed Services of the House of Representatives and the Senate of the Secretary's intent to reduce the nine-month start-up period; and
+
+&emsp;(B) 60 days have elapsed since the date of such notification.
+
 (c)
 
 Incentives for Electronic Processing.—The Secretary of Defense shall require that new contracts for managed care support under the TRICARE program provide that the contractor be permitted to provide financial incentives to health care providers who file claims for payment electronically.
 
-(Added Pub. L. 106–65, div. A, title VII, §713(a)(1), Oct. 5, 1999, 113 Stat. 688.)
+(Added Pub. L. 106–65, div. A, title VII, §713(a)(1), Oct. 5, 1999, 113 Stat. 688; amended Pub. L. 107–107, div. A, title VII, §708(b), Dec. 28, 2001, 115 Stat. 1164.)
+
+#### Amendments
+
+2001—Subsec. (b)(1). Pub. L. 107–107, §708(b)(1), substituted “Except as provided in paragraph (3), the Secretary” for “The Secretary” and struck out “contract. In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the” before “contract, but in no case”.
+
+Subsec. (b)(3). Pub. L. 107–107, §708(b)(2), added par. (3).
 
 #### Effective Date
 

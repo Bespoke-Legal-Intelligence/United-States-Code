@@ -38,7 +38,7 @@ At any time after the Director of OMB issues a final sequestration report under 
 
 #### (7) Resolution from other House
 
-&emsp;If, before the passage by the Senate of a joint resolution of the Senate introduced under subsection (a) of this section, the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) of this section, then the following procedures shall apply:
+&emsp;If, before the passage by the Senate of a joint resolution of the Senate introduced under subsection (a) of this section, the Senate receives from the House of Representatives a joint resolution introduced under subsection\(a) of this section, then the following procedures shall apply:
 
 &emsp;&emsp;(A) The joint resolution of the House of Representatives shall not be referred to a committee and shall be placed on the calendar.
 

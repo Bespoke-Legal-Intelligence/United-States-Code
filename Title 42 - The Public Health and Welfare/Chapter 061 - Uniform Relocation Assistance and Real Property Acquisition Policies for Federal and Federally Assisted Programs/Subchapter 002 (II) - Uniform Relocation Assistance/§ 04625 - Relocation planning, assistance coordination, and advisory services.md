@@ -36,7 +36,7 @@ The head of a displacing agency shall coordinate the relocation activities perfo
 
 #### (e) Selection of implementation procedures
 
-Whenever two or more Federal agencies provide financial assistance to a displacing agency other than a Federal agency, to implement functionally or geographically related activities which will result in the displacement of a person, the heads of such Federal agencies may agree that the procedures of one of such agencies shall be utilized to implement this subchapter with respect to such activities. If such agreement cannot be reached, then the head of the lead agency shall designate one of suchagencies as the agency whose procedures shall be utilized to implement this subchapter with respect to such activities. Such related activities shall constitute a single program or project for purposes of this chapter.
+Whenever two or more Federal agencies provide financial assistance to a displacing agency other than a Federal agency, to implement functionally or geographically related activities which will result in the displacement of a person, the heads of such Federal agencies may agree that the procedures of one of such agencies shall be utilized to implement this subchapter with respect to such activities. If such agreement cannot be reached, then the head of the lead agency shall designate one of such agencies as the agency whose procedures shall be utilized to implement this subchapter with respect to such activities. Such related activities shall constitute a single program or project for purposes of this chapter.
 
 #### (f) Tenants occupying property acquired for programs or projects; eligibility for advisory services
 
@@ -52,7 +52,7 @@ Notwithstanding section 4601(1) of this title, in any case in which a displacing
 
 Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
 
-#### Section Referred in in Other Sections
+#### Section Referred to in Other Sections
 
 This section is referred to in sections 4601, 4603, 4623, 4630 of this title; title 16 sections 429b–2, 450e–1, 460<i>l</i>–8, 460bb–2, 698b, 698h.
 

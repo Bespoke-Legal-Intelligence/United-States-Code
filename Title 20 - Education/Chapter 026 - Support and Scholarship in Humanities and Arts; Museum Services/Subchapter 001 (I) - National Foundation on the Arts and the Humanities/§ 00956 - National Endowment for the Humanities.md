@@ -8,7 +8,7 @@ There is established within the Foundation the National Endowment for the Humani
 
 (1) The Endowment shall be headed by a chairperson, who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(2) The term of office of the Chairperson shall be four years, and the Chairperson shall be eligible for reappointment. The provisions of this paragraph shall apply to any person appointed to fill a vacancy in the office of the Chairperson. Upon expiration of the Chairperson's term of office the Chairperson shall serve until the Chairperson's successor shall have been appointed and shall have qualified.
+(2) The term of office of the Chairperson shall be four years, and the Chairperson shall be eligible for reappointment. The provisions of thisparagraph shall apply to any person appointed to fill a vacancy in the office of the Chairperson. Upon expiration of the Chairperson's term of office the Chairperson shall serve until the Chairperson's successor shall have been appointed and shall have qualified.
 
 #### (c) Functions of the Endowment; publications; traditionally underrepresented recipients of financial assistance
 
@@ -274,7 +274,7 @@ Subsec. (f)(3). Pub. L. 96–496, §104(a)(2), substituted provisions requiring 
 
 Subsec. (f)(4). Pub. L. 96–496, §104(a)(3), in provisions preceding subpar. (A), substituted “each State and each grant recipient” for “each grant recipient” and “such States and grant recipients” for “such grant recipients”, in subpar. (A), substituted “34 per centum of the amount of such excess for such” for “the amount of such excess which is no greater than 25 per centum of the sums available to carry out this subsection for any” and inserted “States and regional groups and”, in subpar. (B), substituted “44 per centum of the amount of such excess for such fiscal year” for “the amount of such excess, if any, which remains after reserving in full for the Chairman the amount required under subparagraph (A)” and “States and grant recipients” for “grant recipients” and struck out “but in no event shall any grant recipient be allotted less than $200,000” after “Chairman” and added subpar. (C).
 
-Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan orapplication approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
+Subsec. (f)(5)(A). Pub. L. 96–496, §104(a)(4)(A), substituted “The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State or grant recipient, which has a plan or application approved by the Chairman in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any” for “Whenever the provisions of paragraph (3)(B) of this subsection apply in any State, that part of any”.
 
 Subsec. (f)(5)(B). Pub. L. 96–496, §104(a)(4)(B), inserted “State agency or”.
 
@@ -326,7 +326,7 @@ Amendment by section 2(a)(6) of Pub. L. 93–133 effective on and after July 1, 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (k) of this section relating to quadrennially submitting the state of the humanities report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (k) of this section relating to quadrenniallysubmitting the state of the humanities report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 183 of House Document No. 103–7.
 
 #### Section Referred to in Other Sections
 

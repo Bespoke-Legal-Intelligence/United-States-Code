@@ -12,7 +12,7 @@ On request of a State dam safety agency, with respect to any dam the failure of 
 
 &emsp;(2) allow any official of the State dam safety agency to participate in the Federal inspection of the dam.
 
-(Pub. L. 92–367, §3, formerly §2, Aug. 8, 1972, 86 Stat. 506; Pub. L. 95–91, title IV, §402(a)(1)(A),Aug. 4, 1977, 91 Stat. 583; renumbered §3 and amended Pub. L. 104–303, title II, §215(c)(3), (5), Oct. 12, 1996, 110 Stat. 3685, 3687.)
+(Pub. L. 92–367, §3, formerly §2, Aug. 8, 1972, 86 Stat. 506; Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; renumbered §3 and amended Pub. L. 104–303, title II, §215(c)(3), (5), Oct. 12, 1996, 110 Stat. 3685, 3687.)
 
 #### References in Text
 

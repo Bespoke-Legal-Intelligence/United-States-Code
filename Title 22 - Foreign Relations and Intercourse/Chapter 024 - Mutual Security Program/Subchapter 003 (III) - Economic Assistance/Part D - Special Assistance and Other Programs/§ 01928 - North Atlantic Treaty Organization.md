@@ -96,7 +96,7 @@ Implementation.—NATO enlargement should be carried out in such a manner as to 
 
 &emsp;“(2)
 
-Limitations on commitments to russia.—In seeking to demonstrate to Russia NATO's defensive and security-enhancing intentions, it is essential that neither fundamental United States security interests in Europe nor the effectiveness and flexibility of NATO as a defensive alliance be jeopardized. In particular, no commitments should be made to Russia that would have the effect of—
+Limitations on commitments to russia.—In seeking to demonstrate to Russia NATO's defensive and security-enhancing intentions, it is essentialthat neither fundamental United States security interests in Europe nor the effectiveness and flexibility of NATO as a defensive alliance be jeopardized. In particular, no commitments should be made to Russia that would have the effect of—
 
 &emsp;&emsp;“(A) extending rights or imposing responsibilities on new NATO members different from those applicable to current NATO members, including rights or responsibilities with respect to the deployment of nuclear weapons and the stationing of troops and equipment from other NATO members;
 
@@ -192,7 +192,7 @@ In general.—Funds described in paragraph (2) are authorized to be made availab
 
 Funds described.—Funds described in this paragraph are funds that are available—
 
-&emsp;&emsp;“(A) during any fiscal year under the NATO Participation Act of 1994 \[Pub. L. 103–447, title II, setout as a note below\] with respect to countries eligible for assistance under that Act; or
+&emsp;&emsp;“(A) during any fiscal year under the NATO Participation Act of 1994 \[Pub. L. 103–447, title II, set out as a note below\] with respect to countries eligible for assistance under that Act; or
 
 &emsp;&emsp;“(B) during fiscal year 1998 under any Act to carry out the Warsaw Initiative.
 
@@ -372,7 +372,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title VI\], Sept. 30, 1996, 110 S
 
 &emsp;“(14) NATO is an important diplomatic forum and has played a positive role in defusing tensions between members of the Alliance and, as a result, no military action has occurred between two Alliance member states since the inception of NATO in 1949.
 
-&emsp;“(15) The admission to NATO of emerging democracies in Central and Eastern Europe which are found to be in a position to further the principles of the Washington Treaty would contribute to international peace and enhance the security of the region. Countries which have become democracies and established market economies, which practice good neighborly relations, and which have established effective democratic civilian control over their defense establishments and attained a degree of interoperability with NATO, should be evaluated for their potential to further the principles of the Washington Treaty.
+&emsp;“(15) The admission to NATO of emerging democracies in Central and Eastern Europe which are found to be in a position to further the principles of the Washington Treaty would contribute to internationalpeace and enhance the security of the region. Countries which have become democracies and established market economies, which practice good neighborly relations, and which have established effective democratic civilian control over their defense establishments and attained a degree of interoperability with NATO, should be evaluated for their potential to further the principles of the Washington Treaty.
 
 &emsp;“(16) Democratic civilian control of defense forces is an essential element in the process of preparation for those states interested in possible NATO membership.
 
@@ -432,7 +432,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title VI\], Sept. 30, 1996, 110 S
 
 “(a)
 
-In General.—The following countries are designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a notebelow\] and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act: Poland, Hungary, and the Czech Republic.
+In General.—The following countries are designated as eligible to receive assistance under the program established under section 203(a) of the NATO Participation Act of 1994 \[Pub. L. 103–447, set out in a note below\] and shall be deemed to have been so designated pursuant to section 203(d)(1) of such Act: Poland, Hungary, and the Czech Republic.
 
 “(b)
 
@@ -528,11 +528,11 @@ Pub. L. 105–85, div. A, title XII, §1221, Nov. 18, 1997, 111 Stat. 1935, as a
 
 Efforts To Increase Allied Burdensharing.—The President shall seek to have each nation that has cooperative military relations with the United States (including security agreements, basing arrangements, or mutual participation in multinational military organizations or operations) take one or more of the following actions:
 
-&emsp;“(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving bySeptember 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
+&emsp;“(1) For any nation in which United States military personnel are assigned to permanent duty ashore, increase its financial contributions to the payment of the nonpersonnel costs incurred by the United States Government for stationing United States military personnel in that nation, with a goal of achieving by September 30, 2000, 75 percent of such costs. An increase in financial contributions by any nation under this paragraph may include the elimination of taxes, fees, or other charges levied on United States military personnel, equipment, or facilities stationed in that nation.
 
 &emsp;“(2) Increase its annual budgetary outlays for national defense as a percentage of its gross domestic product by 10 percent or at least to a level commensurate to that of the United States by September 30, 1999.
 
-&emsp;“(3) Increase its annual budgetary outlays for foreign assistance (to promote democratization, governmental accountability and transparency, economic stabilization and development, defense economic conversion, respect for the rule of law and internationally recognized human rights, and humanitarian relief efforts) by 10 percent or to provide such foreign assistance at an annual rate that is not less than one percent of its gross domestic product, by September 30, 1999.
+&emsp;“(3) Increase its annual budgetary outlays for foreign assistance (to promote democratization, governmental accountability and transparency, economic stabilization and development, defense economic conversion, respect for the rule of law and internationally recognized human rights, and humanitarian relief efforts) by 10 percent or to provide such foreignassistance at an annual rate that is not less than one percent of its gross domestic product, by September 30, 1999.
 
 &emsp;“(4) Increase the military assets (including personnel, equipment, logistics, support and other resources) that it contributes or has pledged to contribute to multinational military activities worldwide by 10 percent by September 30, 1999.
 
@@ -706,7 +706,7 @@ Effect on Other Authorities.—Nothing in this Act \[title\] shall affect the el
 
 “(a)
 
-Arms Export Control Act.—The President is authorized to exercise the authority of sections 63 and65 of the Arms Export Control Act \[22 U.S.C. 2796b, 2796d\] with respect to any country designated under section 203(d) of this title on the same basis authorized with respect to NATO countries.
+Arms Export Control Act.—The President is authorized to exercise the authority of sections 63 and 65 of the Arms Export Control Act \[22 U.S.C. 2796b, 2796d\] with respect to any country designated under section 203(d) of this title on the same basis authorized with respect to NATO countries.
 
 “(b)
 
@@ -872,7 +872,7 @@ Findings.—The Congress hereby finds—
 
 &emsp;“(3) in recognition of these and other threats, the United States has greatly increased its annual defense spending through sustained real growth averaging 8.8 percent yearly between fiscal 1981 and 1985, and cumulative real growth of 50 percent in that period;
 
-&emsp;“(4) the United States Government appreciates the May 1981 commitment by the Prime Minister of Japan that, pursuant to the Treaty of Mutual Cooperation and Security of 1960 between Japan and the United States, Japan, on its own initiative, would seek to make even greater efforts for improving its defense capabilities, and pursuant to Japan's own Constitution, it was national policy for his country to acquire and maintain the self-defense forces adequate for the defense of its land area and surrounding airspace and sealanes, out to a distance of 1,000 miles;
+&emsp;“(4) the United States Government appreciates the May 1981 commitment by the Prime Minister of Japan that, pursuant to the Treaty of Mutual Cooperation and Security of 1960 between Japan and the United States, Japan, on its own initiative, would seek to make even greater efforts for improving its defense capabilities, and pursuant to Japan's own Constitution, it was national policy for his countryto acquire and maintain the self-defense forces adequate for the defense of its land area and surrounding airspace and sealanes, out to a distance of 1,000 miles;
 
 &emsp;“(5) the United States Government applauds the policy of Japan to obtain the capabilities to defend its sea and air lanes out to 1,000 miles, expects that these capabilities should be acquired by the end of the decade, and recognizes that achieving those capabilities would significantly improve the national security of both Japan and the United States;
 
@@ -988,7 +988,7 @@ Pub. L. 97–252, title XI, §1122, Sept. 8, 1982, 96 Stat. 755, provided that:
 
 “(a) The Congress finds that—
 
-&emsp;“(1) the United States remains firmly committed to cooperating closely with its North Atlantic TreatyOrganization (hereinafter in this section referred to as ‘NATO’) allies in protecting liberty and maintaining world peace;
+&emsp;“(1) the United States remains firmly committed to cooperating closely with its North Atlantic Treaty Organization (hereinafter in this section referred to as ‘NATO’) allies in protecting liberty and maintaining world peace;
 
 &emsp;“(2) the financial burden of providing for the defense of Western Europe and for the protection of the interests of NATO member countries in areas outside the NATO treaty area has reached such proportions that new cooperative approaches among the United States and its NATO allies are required to achieve and maintain an adequate collective defense at acceptable costs;
 
@@ -1044,7 +1044,7 @@ Pub. L. 93–155, title VIII, §812, Nov. 16, 1973, 87 Stat. 619, provided that:
 
 “(b) In the event that the North Atlantic Treaty Organization members (other than the United States) fail to offset the net balance-of-payment deficit described in subsection (a) prior to the expiration of eighteen months after the date of enactment of this section \[Nov. 16, 1973\], no funds may be expended after the expiration of twenty-four months following the date of enactment of this section \[Nov. 16, 1973\] for the purpose of maintaining or supporting United States forces in Europe in any number greater than a number equal to the average monthly number of United States forces assigned to duty in Europe during the fiscal year ending June 30, 1974, reduced by a percentage figure equal to the percentage figure by which such balance-of-payment deficit during such fiscal year was not offset.
 
-“(c) The Congress further finds (1) that the other members of the North Atlantic Treaty Organization should, in order to achieve a more equitable sharing of the cost burden under the treaty, substantially increase their contributions to assist the United States in meeting those added budgeting expenses incurred as the result of maintaining and supporting United States forces in Europe, including, but not limited to, wages paid to local personnel by the United States, recurring expenses incurred in connection with the maintenance and operation of real property, maintenance facilities, supply depots, cold storage facilities, communications systems, and standby operations, and nonrecurring expenses such as the construction and rehabilitation of plants and facilities; (2) that the amount paid by the United States in connection with the North Atlantic Treaty infrastructure program should be reduced to a more equitable amount; and (3) that the President should seek, through appropriate bilateral and multilateral arrangements, a substantial reduction of the amounts paid by the United States in connection with those matters described in (1) and (2) above.
+“(c) The Congress further finds (1) that the other members of the North Atlantic Treaty Organization should, in order to achieve a more equitable sharing of the cost burden under the treaty, substantially increase their contributions to assist the United States in meeting those added budgeting expenses incurred as the result of maintaining and supporting United States forces in Europe, including, but not limited to, wages paid to local personnel by the United States, recurring expenses incurred in connection with the maintenance and operation of real property, maintenance facilities, supply depots, cold storage facilities, communications systems, and standby operations, and nonrecurring expenses such as the construction and rehabilitation of plants and facilities; (2) that the amount paid by the United States in connection with the North AtlanticTreaty infrastructure program should be reduced to a more equitable amount; and (3) that the President should seek, through appropriate bilateral and multilateral arrangements, a substantial reduction of the amounts paid by the United States in connection with those matters described in (1) and (2) above.
 
 “(d) The President shall submit to the Congress within ninety days after the date of enactment of this Act \[Nov. 16, 1973\], and at the end of each ninety-day period thereafter, a written report informing the Congress of the progress that has been made in implementing the provisions of this section.”
 

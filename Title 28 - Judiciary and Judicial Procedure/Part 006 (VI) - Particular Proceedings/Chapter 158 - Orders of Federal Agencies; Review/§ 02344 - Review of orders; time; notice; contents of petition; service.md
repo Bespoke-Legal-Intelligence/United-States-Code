@@ -6,7 +6,7 @@ On the entry of a final order reviewable under this chapter, the agency shall pr
 
 &emsp;(2) the facts on which venue is based;
 
-&emsp;(3) the grounds on which relief sought; and
+&emsp;(3) the grounds on which relief is sought; and
 
 &emsp;(4) the relief prayed.
 

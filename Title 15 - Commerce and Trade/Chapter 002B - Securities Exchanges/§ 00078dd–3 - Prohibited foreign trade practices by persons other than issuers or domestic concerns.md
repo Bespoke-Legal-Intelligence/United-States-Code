@@ -6,7 +6,7 @@ It shall be unlawful for any person other than an issuer that is subject to sect
 
 &emsp;(1) any foreign official for purposes of—
 
-&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official in his official capacity, (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or (iii) securing any improper advantage; or
+&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official in his official capacity, (ii) inducing such foreign official to do oromit to do any act in violation of the lawful duty of such official, or (iii) securing any improper advantage; or
 
 &emsp;&emsp;(B) inducing such foreign official to use his influence with a foreign government or instrumentality thereof to affect or influence any act or decision of such government or instrumentality,
 
@@ -36,7 +36,7 @@ Subsection (a) of this section shall not apply to any facilitating or expediting
 
 It shall be an affirmative defense to actions under subsection (a) of this section that—
 
-&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of theforeign official's, political party's, party official's, or candidate's country; or
+&emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
 
 &emsp;(2) the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or on behalf of a foreign official, party, party official, or candidate and was directly related to—
 

@@ -10,7 +10,7 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–471, title II, §201, 92 Stat. 1329, provided that: “This title \[enacting section 640c–1 of this title, amending section 640c of this title and enacting provisions set out as notes under this section and section 640c–1 of this title may be cited as the ‘Navajo Community College Assistance Act of 1978’.”
+Pub. L. 95–471, title II, §201, Oct. 17, 1978, 92 Stat. 1329, provided that: “This title \[enacting section 640c–1 of this title, amending section 640c of this title and enacting provisions set out as notes under this section and section 640c–1 of this title\] may be cited as the ‘Navajo Community College Assistance Act of 1978’.”
 
 #### Short Title
 
@@ -18,7 +18,7 @@ Section 1 of Pub. L. 92–189 provided: “That this Act \[sections 640a to 640c
 
 #### Expansion of Navajo Community College
 
-Pub. L. 95–471, title II, §202, 92 Stat. 1329, provided that: “The Congress after careful study and deliberation, finds that—
+Pub. L. 95–471, title II, §202, Oct. 17, 1978, 92 Stat. 1329, provided that: “The Congress after careful study and deliberation, finds that—
 
 &emsp;“(1) the Navajo Tribe constitutes the largest American Indian tribe in the United States;
 
@@ -30,5 +30,5 @@ Pub. L. 95–471, title II, §202, 92 Stat. 1329, provided that: “The Congress
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13d–2, 640c–1, 640c–2, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 3489.
+This section is referred to in sections 13d–2, 640c–1, 640c–2, 640c–3, 1812, 1851 of this title; title 20 sections 1085, 2327, 3489.
 

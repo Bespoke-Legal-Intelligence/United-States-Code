@@ -30,7 +30,7 @@ In any case where it is necessary to determine the gross income of a shareholder
 
 &emsp;The aggregate amount of losses and deductions taken into account by a shareholder under subsection (a) for any taxable year shall not exceed the sum of—
 
-&emsp;&emsp;(A) the adjusted basis of the shareholder's stock in the S corporation (determined withregard to paragraphs (1) and (2)(A) of section 1367(a) for the taxable year), and
+&emsp;&emsp;(A) the adjusted basis of the shareholder's stock in the S corporation (determined with regard to paragraphs (1) and (2)(A) of section 1367(a) for the taxable year), and
 
 &emsp;&emsp;(B) the shareholder's adjusted basis of any indebtedness of the S corporation to the shareholder (determined without regard to any adjustment under paragraph (2) of section 1367(b) for the taxable year).
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

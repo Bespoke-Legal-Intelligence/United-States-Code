@@ -18,7 +18,7 @@ A program carried out with assistance provided under this division for conservat
 
 #### (d) Participation by other conservation programs
 
-Any land or water conservation program (or any related program) administered in any Stateunder the authority of any Federal program is encouraged to use services available under this part <sup>1</sup> to carry out its program.
+Any land or water conservation program (or any related program) administered in any State under the authority of any Federal program is encouraged to use services available under this part <sup>1</sup> to carry out its program.
 
 (Pub. L. 101–610, title I, §199F, formerly §126, Nov. 16, 1990, 104 Stat. 3144; renumbered §199F and amended Pub. L. 103–82, title I, §101(a), (e)(1), (6), Sept. 21, 1993, 107 Stat. 788, 815, 816.)
 

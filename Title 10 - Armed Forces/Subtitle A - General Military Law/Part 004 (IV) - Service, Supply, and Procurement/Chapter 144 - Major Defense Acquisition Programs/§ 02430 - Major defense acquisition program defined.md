@@ -4,7 +4,7 @@
 
 &emsp;(1) that is designated by the Secretary of Defense as a major defense acquisition program; or
 
-&emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventual total expenditure for procurement of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
+&emsp;(2) that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than $300,000,000 (based on fiscal year 1990 constant dollars) or an eventualtotal expenditure for procurement of more than $1,800,000,000 (based on fiscal year 1990 constant dollars).
 
 (b) The Secretary of Defense may adjust the amounts (and the base fiscal year) provided in subsection (a)(2) on the basis of Department of Defense escalation rates. An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
@@ -74,7 +74,7 @@ Pub. L. 103–355, title V, §5064, Oct. 13, 1994, 108 Stat. 3359, as amended by
 
 “(a)
 
-In General.—The Secretary of Defense is authorized to designate the following defense acquisition programs for participation in the defense acquisition pilot program authorized by section 809 of the National Defense Authorization Act for Fiscal Year 1991 \[Pub. L. 101–510\] (10 U.S.C. 2430 note):
+In General.—The Secretary of Defense is authorized to designate the following defense acquisition programs for participation in the defense acquisition pilot program authorized by section 809 of the NationalDefense Authorization Act for Fiscal Year 1991 \[Pub. L. 101–510\] (10 U.S.C. 2430 note):
 
 &emsp;“(1)
 

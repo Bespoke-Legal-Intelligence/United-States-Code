@@ -2,7 +2,7 @@
 
 #### (a) Establishment and appointment
 
-The order shall provide for the establishment and appointment by the Secretary, not laterthan 60 days after the effective date of such order, of a National Pork Producers Delegate Body.
+The order shall provide for the establishment and appointment by the Secretary, not later than 60 days after the effective date of such order, of a National Pork Producers Delegate Body.
 
 #### (b) Membership; number of producer members; number of importer members
 

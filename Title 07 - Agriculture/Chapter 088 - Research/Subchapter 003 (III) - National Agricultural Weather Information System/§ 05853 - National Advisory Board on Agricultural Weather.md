@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture shall establish the Advisory Board on Agricultural Weather\(hereinafter referred to in this section as the “Board”) to advise the Director of the Agricultural Weather Office with respect to carrying out this subchapter.
+The Secretary of Agriculture shall establish the Advisory Board on Agricultural Weather (hereinafter referred to in this section as the “Board”) to advise the Director of the Agricultural Weather Office with respect to carrying out this subchapter.
 
 #### (b) Composition
 
@@ -22,7 +22,7 @@ The Board shall meet not less than twice annually.
 
 #### (f) Compensation
 
-Members of the Board shall serve without compensation, but while away from their homes or regular places of business in the performance of services for the Board, members of the Board shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, in the same manner as individuals employed in Government service are allowed travel expenses under section 5703 of title 5.
+Members of the Board shall serve without compensation, but while away from their homes or regular places of business in the performance of services for the Board, members of the Board shall be allowed travel expenses, including a perdiem allowance in lieu of subsistence, in the same manner as individuals employed in Government service are allowed travel expenses under section 5703 of title 5.
 
 #### (g) Federal Advisory Committee Act
 

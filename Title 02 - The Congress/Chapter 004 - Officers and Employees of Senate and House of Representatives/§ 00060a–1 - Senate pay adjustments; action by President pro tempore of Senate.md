@@ -8,7 +8,7 @@
 
 &emsp;(2) adjust any limitation or allowance applicable to such personnel;
 
-> by percentages which are equal or equivalent, insofar as practicable and with such exceptions as may be necessary to provide for appropriate pay relationships between positions, to the percentages of the adjustments made by the President under such section 5303 (and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Marylandconsolidated metropolitan statistical area) for corresponding rates of pay for employees subject to the General Schedule contained in section 5332 of such title and adjust the rates of such personnel by such amounts as necessary to restore the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions. Such rates, limitations, and allowances adjusted by the President pro tempore shall become effective on the first day of the month in which any adjustment becomes effective under such section 5303 or section 3(c) of this Act.
+> by percentages which are equal or equivalent, insofar as practicable and with such exceptions as may be necessary to provide for appropriate pay relationships between positions, to the percentages of the adjustments made by the President under such section 5303 (and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area) for corresponding rates of pay for employees subject to the General Schedule contained in section 5332 of such title and adjust the rates of such personnel by such amounts as necessary to restore the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions. Such rates, limitations, and allowances adjusted by the President pro tempore shall become effective on the first day of the month in which any adjustment becomes effective under such section 5303 or section 3(c) of this Act.
 
 (b) The adjustments made by the President pro tempore shall be made in such manner as he considers advisable and shall have the force and effect of law.
 
@@ -56,11 +56,11 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Order of the President Pro Tempore of the United States Senate
 
-I74December 20, 2000
+I74December 20, 2001
 
 By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 (2 U.S.C. 60a–1) in order—
 
-&emsp;(1) to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 (5 U.S.C. 5318 note; Public Law 101–194) and the amendments made by such section \[amending section 31 of this title, section 104 of Title 3, The President, section 5318 of Title 5, Government Organization and Employees, and section 461 of Title 28, Judiciary and Judicial Procedure\]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2001, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code, and
+&emsp;(1) to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 (5 U.S.C. 5318 note; Public Law 101–194) and the amendments made by such section \[amending section 31 of this title, section 104 of Title 3, The President, section 5318 of Title 5, Government Organization and Employees, and section 461 of Title 28, Judiciary and Judicial Procedure\]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2002, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code, and
 
 &emsp;(2) to provide (subject to such provisions of law) for the restoration of, and to maintain in effect, the same pay relationships that existed on December 31, 1986, between personnel and Senators and between Senate positions,
 
@@ -74,13 +74,13 @@ Section 1. For purposes of this Order, the term “employee” includes an offic
 
 #### rate increases for specified positions
 
-Sec. 2. (a) The annual rates of compensation of the Secretary of the Senate, the Sergeant at Arms andDoorkeeper, and the Legislative Counsel shall each be $143,600.
+Sec. 2. (a) The annual rates of compensation of the Secretary of the Senate, the Sergeant at Arms and Doorkeeper, and the Legislative Counsel shall each be $148,500.
 
-(b) The annual rates of compensation of the Secretary for the Majority and the Secretary for the Minority shall each be $143,034.
+(b) The annual rates of compensation of the Secretary for the Majority and the Secretary for the Minority shall each be $147,934.
 
-(c) The annual rates of compensation of the Deputy Legislative Counsel and the Senior Counsels in the Office of the Legislative Counsel and the maximum annual rates of compensation for the Assistant Secretary of the Senate, the Parliamentarian, the Financial Clerk, the Assistant to the Majority Leader for Floor Operations, the Assistant to the Minority Leader for Floor Operations, the Chief of Staff for the Majority Leader, and the Chief of Staff for the Minority Leader shall each be $142,415.
+(c) The annual rates of compensation of the Deputy Legislative Counsel and the Senior Counsels in the Office of the Legislative Counsel and the maximum annual rates of compensation for the Assistant Secretary of the Senate, the Parliamentarian, the Financial Clerk, the Assistant to the Majority Leader for Floor Operations, the Assistant to the Minority Leader for Floor Operations, the Chief of Staff for the Majority Leader, and the Chief of Staff for the Minority Leader shall each be $147,315.
 
-(d) The maximum annual rates of compensation for the positions authorized for the Capitol Guide Service by the Capitol Guide Board shall each be increased by 3.81 percent.
+(d) The maximum annual rates of compensation for the positions authorized for the Capitol Guide Service by the Capitol Guide Board shall each be increased by 4.77 percent.
 
 #### chaplain's office
 
@@ -118,13 +118,13 @@ Sec. 4. (a) The following individuals are authorized to increase the annual rate
 
 &emsp;(14) The appointing authority of any Senate entity not referred to under paragraphs (1) through (13) for any employee under its jurisdiction.
 
-(b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(f)) (as such rate is adjusted in section 7(b) of the Order of the President pro tempore of December 12, 1999).
+(b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(f)) (as such rate is adjusted in section 7(b) of the Order of the President pro tempore of December 20, 2000).
 
 #### committee staffs
 
 Sec. 5. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1) (as modified by this Order), and to the other provisions of this Order, the chairman of any standing, special, or select committee of the Senate (including the majority and minority policy committees and the conference majority and the conference minority of the Senate), and the chairman of any joint committee of the Congress whose funds are disbursed by the Secretary of the Senate, are each authorized to increase the annual rate of compensation of any employee of the committee, or any subcommittee thereof, of which he is chairman, subject to applicable limitations adjusted by this Order.
 
-(b) The maximum annual rates of “$136,264”, “$136,759”, and “$138,615” referred to in section 105(e) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(e)) (as provided for in section 5(b) of the Order of the President pro tempore of December 12, 1999) shall be deemed to be the figures “$140,064”, “$140,559”, and “$142,415”, respectively.
+(b) The maximum annual rates of “$140,064”, “$140,559”, and “$142,415” referred to in section 105(e) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(e)) (as provided for in section 5(b) of the Order of the President pro tempore of December 20, 2000) shall be deemed to be the figures “$144,964”, “$145,459”, and “$147,315”, respectively.
 
 #### senators’ offices
 
@@ -132,91 +132,93 @@ Sec. 6. (a) Subject to the provisions of section 105 of the Legislative Branch A
 
 (b) The table contained in section 105(d)(1) of such Act shall be deemed to read as follows:
 
-“$1,399,205 if the population of the State is less than 5,000,000;
+“$1,518,333 if the population of the State is less than 5,000,000;
 
-“$1,451,667 if such population is 5,000,000 but less than 6,000,000;
+“$1,573,297 if such population is 5,000,000 but less than 6,000,000;
 
-“$1,504,132 if such population is 6,000,000 but less than 7,000,000;
+“$1,628,265 if such population is 6,000,000 but less than 7,000,000;
 
-“$1,556,595 if such population is 7,000,000 but less than 8,000,000;
+“$1,683,230 if such population is 7,000,000 but less than 8,000,000;
 
-“$1,609,059 if such population is 8,000,000 but less than 9,000,000;
+“$1,738,197 if such population is 8,000,000 but less than 9,000,000;
 
-“$1,661,521 if such population is 9,000,000 but less than 10,000,000;
+“$1,793,161 if such population is 9,000,000 but less than 10,000,000;
 
-“$1,713,987 if such population is 10,000,000 but less than 11,000,000;
+“$1,848,130 if such population is 10,000,000 but less than 11,000,000;
 
-“$1,766,451 if such population is 11,000,000 but less than 12,000,000;
+“$1,903,096 if such population is 11,000,000 but less than 12,000,000;
 
-“$1,818,913 if such population is 12,000,000 but less than 13,000,000;
+“$1,958,061 if such population is 12,000,000 but less than 13,000,000;
 
-“$1,871,377 if such population is 13,000,000 but less than 14,000,000;
+“$2,013,027 if such population is 13,000,000 but less than 14,000,000;
 
-“$1,923,841 if such population is 14,000,000 but less than 15,000,000;
+“$2,067,994 if such population is 14,000,000 but less than 15,000,000;
 
-“$1,976,305 if such population is 15,000,000 but less than 16,000,000;
+“$2,122,960 if such population is 15,000,000 but less than 16,000,000;
 
-“$2,028,770 if such population is 16,000,000 but less than 17,000,000;
+“$2,177,928 if such population is 16,000,000 but less than 17,000,000;
 
-“$2,081,234 if such population is 17,000,000 but less than 18,000,000;
+“$2,232,894 if such population is 17,000,000 but less than 18,000,000;
 
-“$2,114,796 if such population is 18,000,000 but less than 19,000,000;
+“$2,268,057 if such population is 18,000,000 but less than 19,000,000;
 
-“$2,148,362 if such population is 19,000,000 but less than 20,000,000;
+“$2,303,224 if such population is 19,000,000 but less than 20,000,000;
 
-“$2,181,928 if such population is 20,000,000 but less than 21,000,000;
+“$2,338,391 if such population is 20,000,000 but less than 21,000,000;
 
-“$2,215,493 if such population is 21,000,000 but less than 22,000,000;
+“$2,373,558 if such population is 21,000,000 but less than 22,000,000;
 
-“$2,249,059 if such population is 22,000,000 but less than 23,000,000;
+“$2,408,725 if such population is 22,000,000 but less than 23,000,000;
 
-“$2,282,624 if such population is 23,000,000 but less than 24,000,000;
+“$2,443,891 if such population is 23,000,000 but less than 24,000,000;
 
-“$2,316,186 if such population is 24,000,000 but less than 25,000,000;
+“$2,479,054 if such population is 24,000,000 but less than 25,000,000;
 
-“$2,349,749 if such population is 25,000,000 but less than 26,000,000;
+“$2,514,218 if such population is 25,000,000 but less than 26,000,000;
 
-“$2,383,317 if such population is 26,000,000 but less than 27,000,000;
+“$2,549,387 if such population is 26,000,000 but less than 27,000,000;
 
-“$2,416,881 if such population is 27,000,000 but less than 28,000,000; and
+“$2,584,552 if such population is 27,000,000 but less than 28,000,000; and
 
-“$2,450,448 if such population is 28,000,000 or more.”.
+“$2,619,720 if such population is 28,000,000 or more.”.
 
-(c) The figures “$1,893” and “$136,759” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(d)(2)) (as provided in section 6(c) of the Order of the President pro tempore of December 12, 1999) shall be deemed to be the figures “$1,966” and “$140,559”, respectively.
+(c) The figures “$1,966” and “$140,559” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(d)(2)) (as provided in section 6(c) of the Order of the President pro tempore of December 20, 2000) shall be deemed to be the figures “$2,060” and “$145,459”, respectively.
 
-(d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 (2 U.S.C. 61–1 note), as amended by section 1 of the Legislative Branch Appropriations Act, 1993 (Public Law 102–392; 106 Stat. 1706) shall be $421,677.
+(d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 (2 U.S.C. 61–1 note), as amended by section 1 of the Legislative Branch Appropriations Act, 1993 (Public Law 102–392; 106 Stat. 1706) shall be $436,377.
 
 #### general limitation
 
-Sec. 7. (a) The figure “$1,893” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(f)) (as provided in section 7(a) of the Order of the President pro tempore of December 12, 1999) shall be deemed to be the figure “$1,966”.
+Sec. 7. (a) The figure “$1,966” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(f)) (as provided in section 7(a) of the Order of the President pro tempore of December 20, 2000) shall be deemed to be the figure “$2,060”.
 
-(b) The maximum annual rate of compensation of “$136,759” appearing in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(f)) (as provided for in section 7(b) of the Order of the President pro tempore of December 12, 1999) shall be deemed to be the figure “$140,559”.
+(b) The maximum annual rate of compensation of “$140,559” appearing in section 105(f) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(f)) (as provided for in section 7(b) of the Order of the President pro tempore of December 20, 2000) shall be deemed to be the figure “$145,459”.
 
 #### notifying disbursing office of increases
 
-Sec. 8. In order for an employee to receive the increase in his annual rate of compensation pursuant to section 4, 5, or 6, the individual designated to authorize such increases for that employee shall notify the Disbursing Office of the Senate in writing that he authorizes such increase for that employee and the date (prescribed in accordance with section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(a)(2))) on which such increase is to be effective. Such increase shall become effective as provided in section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(a)(2)), except that if the notice required by the preceding sentence is given within five days (not counting Saturdays, Sundays, or holidays) after the date on which this Order is issued, such increase may become effective on January 1, 2001.
+Sec. 8. In order for an employee to receive the increase in his annual rate of compensation pursuant to section 4, 5, or 6, the individual designated to authorize such increases for that employee shall notify the Disbursing Office of the Senate in writing that he authorizes such increase for that employee and the date (prescribed in accordance with section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(a)(2))) on which such increase is to be effective. Such increase shall become effective as provided in section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 (2 U.S.C. 61–1(a)(2)), except that if the notice required by the preceding sentence is given within five days (not counting Saturdays, Sundays, or holidays) after the date on which this Order is issued, such increase may become effective on January 1, 2002.
 
 #### dual compensation
 
-Sec. 9. The figure “$25,362” referred to in section 5533(c)(1) of title 5, United States Code (as provided in section 9 of the Order of the President pro tempore of December 12, 1999) shall be deemed to be the figure “$26,329”.
+Sec. 9. The figure “$26,329” referred to in section 5533(c)(1) of title 5, United States Code (as provided in section 9 of the Order of the President pro tempore of December 20, 2000) shall be deemed to be the figure “$26,985”.
 
 #### office of the senate legal counsel
 
-Sec. 10. (a) The annual rate of compensation of the Senate Legal Counsel shall be $143,600.
+Sec. 10. (a) The annual rate of compensation of the Senate Legal Counsel shall be $148,500.
 
-(b) The annual rate of compensation of the Deputy Senate Legal Counsel shall be $142,300.
+(b) The annual rate of compensation of the Deputy Senate Legal Counsel shall be $147,200.
 
 (c) The maximum annual rate of compensation of each Assistant Senate Legal Counsel may not at any time exceed the rate equal to the difference between the annual rate of compensation for a position referred to in section 2(a) and $4,900.
 
 #### effective date
 
-Sec. 11. Sections 1 through 10 of this Order are effective January 1, 2001.
+Sec. 11. Sections 1 through 10 of this Order are effective January 1, 2002.
 
-Strom Thurmond&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Robert C. Byrd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i>President pro tempore</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior Orders of the President pro tempore of the Senate were issued on the following dates:
+
+Dec. 20, 2000, eff. Jan. 1, 2001.
 
 Dec. 12, 1999, eff. Jan. 1, 2000.
 
@@ -320,7 +322,7 @@ Pub. L. 86–568, title I, §117(c), (d), July 1, 1960, 74 Stat. 303, provided t
 
 “(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956 (69 Stat. 510; Public Law 242, Eighty-fourth Congress), is amended to read as follows:
 
-“ ‘No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $17,525 per annum, unless expressly authorized by law.’ ” \[Prior to this amendment “$8,880” and “$17,525” were, respectively, “$8,880” and “$16,300” per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
+“ ‘No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $17,525 per annum, unless expressly authorized by law.’ ” \[Prior to this amendment “$8,880” and “$17,525” were, respectively, “$8,880” and “$16,300” per annum.\] \[The paragraph in the Legislative Appropriation Act,1956, referred to above was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
 
 #### Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1958
 

@@ -2,33 +2,37 @@
 
 #### (a) Payments for Federal acquisition of real property
 
-For the purpose of making payments under section 7702 of this title, there are authorized to be appropriated $32,000,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
+For the purpose of making payments under section 7702 of this title, there are authorized to be appropriated $32,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years.
 
 #### (b) Basic payments; payments for heavily impacted local educational agencies
 
-For the purpose of making payments under section 7703(b) of this title, there are authorized to be appropriated $809,400,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
+For the purpose of making payments under section 7703(b) of this title, there are authorized to be appropriated $809,400,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years.
 
 #### (c) Payments for children with disabilities
 
-For the purpose of making payments under section 7703(d) of this title, there are authorized to be appropriated $50,000,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
+For the purpose of making payments under section 7703(d) of this title, there are authorized to be appropriated $50,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years.
 
 #### (d) Repealed. Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–388
 
 #### (e) Construction
 
-For the purpose of carrying out section 7707 of this title, there are authorized to be appropriated $10,052,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
+For the purpose of carrying out section 7707 of this title, there are authorized to be appropriated $10,052,000 for fiscal year 2000 and such sums as may be necessary for fiscal year 2001, $150,000,000 for fiscal year 2002, and such sums as may be necessary for each of the five succeeding fiscal years.
 
 #### (f) Facilities maintenance
 
-For the purpose of carrying out section 7708 of this title, there are authorized to be appropriated $5,000,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
+For the purpose of carrying out section 7708 of this title, there are authorized to be appropriated $5,000,000 for fiscal year 2000 and such sums as may be necessary for each of the seven succeeding fiscal years.
 
-#### (g) Additional assistance for certain local educational agencies impacted by Federal property acquisition
-
-For the purpose of carrying out section 7702(j) of this title there are authorized to be appropriated $1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.
-
-(Pub. L. 89–10, title VIII, §8014, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817\], Oct. 30, 2000, 114 Stat. 1654, 1654A–388.)
+(Pub. L. 89–10, title VIII, §8014, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3772; amended Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817\], Oct. 30, 2000, 114 Stat. 1654, 1654A–388; Pub. L. 107–110, title VIII, §805, Jan. 8, 2002, 115 Stat. 1956.)
 
 #### Amendments
+
+2002—Subsecs. (a) to (c). Pub. L. 107–110, §805(a), substituted “seven succeeding fiscal years” for “three succeeding fiscal years”.
+
+Subsec. (e). Pub. L. 107–110, §805(b), substituted “for fiscal year 2001, $150,000,000 for fiscal year 2002, and such sums as may be necessary for each of the five succeeding fiscal years” for “for each of the three succeeding fiscal years”.
+
+Subsec. (f). Pub. L. 107–110, §805(a), substituted “seven succeeding fiscal years” for “three succeeding fiscal years”.
+
+Subsec. (g). Pub. L. 107–110, §805(c), struck out heading and text of subsec. (g). Text read as follows: “For the purpose of carrying out section 7702(j) of this title there are authorized to be appropriated $1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years.”
 
 2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(a)\], substituted “$32,000,000 for fiscal year 2000” for “$16,750,000 for fiscal year 1995” and “three” for “four”.
 
@@ -45,6 +49,10 @@ Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(f)\], subs
 Subsec. (g). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1817(g)\], amended heading and substituted “$1,500,000 for fiscal year 2000 and such sums as may be necessary for each of the three succeeding fiscal years” for “such sums as are necessary beginning in fiscal year 1998 and for each succeeding fiscal year” in text.
 
 1997—Subsec. (g). Pub. L. 105–78 added subsec. (g).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 

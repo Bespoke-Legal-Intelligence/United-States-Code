@@ -6,7 +6,7 @@ It is the policy of the Congress to encourage the development and maintenance of
 
 #### (b) Support of educational programs in science and engineering
 
-The National Science Foundation is authorized to support programs of education in the sciences and engineering to carry out the policy of subsection (a) of this section. Such support may include fellowships traineeships, technical training programs, technologist training programs, and summer institute programs.
+The National Science Foundation is authorized to support programs of education in the sciences and engineering to carry out the policy of subsection (a) of this section. Such support may include fellowships, traineeships, technical training programs, technologist training programs, and summer institute programs.
 
 #### (c) Selection of programs of education; coordination with National Science Foundation
 

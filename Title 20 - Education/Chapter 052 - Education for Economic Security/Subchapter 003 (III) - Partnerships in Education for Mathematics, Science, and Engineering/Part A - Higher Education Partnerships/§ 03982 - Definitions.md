@@ -8,7 +8,7 @@ As used in this part—
 
 &emsp;(3) the term “State agency for higher education” means the State board of higher education or other agency or officer primarily responsible for the State supervision of higher education, or if there is no such officer or agency, an officer or agency designated by the Governor or by State law.
 
-(Pub. L. 98–377, title III, §303, Aug. 11, 1984, 98 Stat. 1283; Pub. L. 99–159, title II, §232, Nov. 22,1985, 99 Stat. 900; Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
+(Pub. L. 98–377, title III, §303, Aug. 11, 1984, 98 Stat. 1283; Pub. L. 99–159, title II, §232, Nov. 22, 1985, 99 Stat. 900; Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
 #### Amendments
 

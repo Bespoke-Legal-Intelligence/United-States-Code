@@ -78,7 +78,7 @@ Findings Concerning On-Site Inspection Personnel.—Congress makes the following
 
 &emsp;“(1) The United States is currently engaged in multilateral and bilateral negotiations seeking to achieve treaties or agreements to reduce or eliminate various types of military weapons and to make certain reductions in military personnel levels. These negotiations include negotiations for (A) reductions in strategic forces, conventional armaments, and military personnel levels, (B) regimes for monitoring nuclear testing, and (C) the complete elimination of chemical weapons.
 
-&emsp;“(2) Requirements for monitoring these possible treaties or agreements will be extensive and will place severe stress on the monitoring capabilities of United States national technical means.
+&emsp;“(2) Requirements for monitoring these possible treaties or agreements will be extensive and willplace severe stress on the monitoring capabilities of United States national technical means.
 
 &emsp;“(3) In the case of the INF Treaty, the United States and the Soviet Union negotiated, and are currently using, on-site inspection procedures to complement and support monitoring by national technical means. Similar on-site inspection procedures are being negotiated for inclusion in possible future treaties and agreements referred to in paragraph (1).
 

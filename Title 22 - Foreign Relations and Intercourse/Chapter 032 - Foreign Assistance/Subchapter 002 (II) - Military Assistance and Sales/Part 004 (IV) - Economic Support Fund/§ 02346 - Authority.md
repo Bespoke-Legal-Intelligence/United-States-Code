@@ -16,7 +16,7 @@ As part of the annual presentation materials for foreign assistance submitted to
 
 #### (e) Availability of funds
 
-Amounts appropriated to carry out this part shall be available for economic programs only and may not be used for military or paramilitary purposes.
+Amounts appropriated to carry out this part shall be available for economic programs onlyand may not be used for military or paramilitary purposes.
 
 (Pub. L. 87–195, pt. II, §531, as added Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210; amended Pub. L. 101–513, title V, §562(d)(8), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180.)
 

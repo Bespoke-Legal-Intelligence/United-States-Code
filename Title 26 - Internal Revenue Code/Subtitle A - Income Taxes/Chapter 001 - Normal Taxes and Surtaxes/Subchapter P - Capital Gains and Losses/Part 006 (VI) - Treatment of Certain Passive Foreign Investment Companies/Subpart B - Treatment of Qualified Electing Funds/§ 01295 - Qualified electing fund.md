@@ -74,5 +74,5 @@ Section 1012(p)(37)(B) of Pub. L. 100–647 provided that: “The period during 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1 of this title.
+This section is referred to in sections 1, 1022 of this title.
 

@@ -10,7 +10,7 @@
 
 #### (b) Reports to Attorney General
 
-(1) Each regulated person shall report to the Attorney General, in such form and manner as the Attorney General shall prescribe by regulation—
+(1) Each regulated person shall report to the Attorney General, in such form and manner asthe Attorney General shall prescribe by regulation—
 
 &emsp;(A) any regulated transaction involving an extraordinary quantity of a listed chemical, an uncommon method of payment or delivery, or any other circumstance that the regulated person believes may indicate that the listed chemical will be used in violation of this subchapter;
 
@@ -30,7 +30,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 &emsp;(i) The term “drug product” means an active ingredient in dosage form that has been approved or otherwise may be lawfully marketed under the Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] for distribution in the United States.
 
-&emsp;(ii) The term “valid prescription” means a prescription which is issued for a legitimatemedical purpose by an individual practitioner licensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner's professional practice.
+&emsp;(ii) The term “valid prescription” means a prescription which is issued for a legitimate medical purpose by an individual practitioner licensed by law to administer and prescribe the drugs concerned and acting in the usual course of the practitioner's professional practice.
 
 (B) Each regulated person who engages in a transaction with a nonregulated person or who engages in an export transaction which—
 
@@ -66,7 +66,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 #### (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
 
-(1) Except as provided in paragraph (2), any information obtained by the Attorney General under this section which is exempt from disclosure under section 552(a) of title 5, by reason of section 552(b)(4) of such title, is confidential and may not be disclosed to any person.
+(1) Except as provided in paragraph (2), any information obtained by the Attorney General under this section which is exempt from disclosure under section 552(a) of title 5, by reason ofsection 552(b)(4) of such title, is confidential and may not be disclosed to any person.
 
 (2) Information referred to in paragraph (1) may be disclosed only—
 
@@ -92,7 +92,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 #### References in Text
 
-The Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3)(A)(i), probably means the Federal Food,Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3)(A)(i), probably means the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 This subchapter, referred to in subsec. (b)(3)(D)(vi), (E), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 

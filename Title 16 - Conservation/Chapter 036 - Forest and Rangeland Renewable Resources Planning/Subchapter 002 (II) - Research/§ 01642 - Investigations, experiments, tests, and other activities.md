@@ -10,7 +10,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(3) Renewable resource protection research shall include, as appropriate, research activities related to protecting vegetation and other forest and rangeland resources, including threatened and endangered flora and fauna, as well as wood and wood products in storage or use, from fires, insects, diseases, noxious plants, animals, air pollutants, and other agents through biological, chemical, and mechanical control methods and systems; and protecting people, natural resources, and property from fires in rural areas.
 
-&emsp;(4) Renewable resource utilization research shall include, as appropriate, research activities related to harvesting, transporting, processing, marketing, distributing, and utilizing wood and other materials derived from forest and rangeland renewable resources; recycling and fully utilizing wood fiber; producing and conserving energy; and testing forest products, including necessary fieldwork associated therewith.
+&emsp;(4) Renewable resource utilization research shall include, as appropriate, research activities related to harvesting, transporting, processing, marketing, distributing, and utilizing wood and other materials derived from forest and rangeland renewable resources; recycling and fully utilizing wood fiber; producing andconserving energy; and testing forest products, including necessary fieldwork associated therewith.
 
 &emsp;(5) Renewable resource assessment research shall include, as appropriate, research activities related to developing and applying scientific knowledge and technology in support of the survey and analysis of forest and rangeland renewable resources described in subsection (b) of this section.
 
@@ -60,7 +60,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(i) updating information about declining health and productivity of forest ecosystems on public and private lands in North America and Europe;
 
-&emsp;&emsp;(ii) updating the findings and status of all current research and monitoring efforts in North America and Europe on the causes and effects of atmospheric pollution on the health and productivity of forest ecosystems, including efforts conducted under the Program;
+&emsp;&emsp;(ii) updating the findings and status of all current research and monitoring efforts in North America and Europe on the causes and effects of atmospheric pollution on thehealth and productivity of forest ecosystems, including efforts conducted under the Program;
 
 &emsp;&emsp;(iii) recommending additional research and monitoring efforts to be undertaken under the Program to determine the effects of atmospheric pollution on the health and productivity of domestic forest ecosystems; and
 
@@ -104,7 +104,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(C) technology transfer to the wood products industry of technologies that promote efficient processing, pollution prevention, and energy conservation;
 
-&emsp;&emsp;(D) dissemination of existing and new information to landowners, public and privateresource managers, State forest citizen advisory committees, and the general public through professional associations, publications, and other information clearinghouse activities; and
+&emsp;&emsp;(D) dissemination of existing and new information to landowners, public and private resource managers, State forest citizen advisory committees, and the general public through professional associations, publications, and other information clearinghouse activities; and
 
 &emsp;&emsp;(E) analysis of strategies for the protection of areas of outstanding ecological significance or high biological diversity, and strategies for the provision of important recreational opportunities and traditional uses, including strategies for areas identified through State land conservation planning processes.
 

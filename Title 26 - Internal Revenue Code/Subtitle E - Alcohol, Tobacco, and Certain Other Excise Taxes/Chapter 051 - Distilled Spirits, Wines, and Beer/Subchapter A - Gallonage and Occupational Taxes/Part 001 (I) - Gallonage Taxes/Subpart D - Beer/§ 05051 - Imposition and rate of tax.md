@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A tax is hereby imposed on all beer brewed or produced, and removed for consumption orsale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be $18 for every barrel containing not more than 31 gallons and at a like rate for any other quantity or for fractional parts of a barrel.
+&emsp;A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be $18 for every barrel containing not more than 31 gallons and at a like rate for any other quantity or for fractional parts of a barrel.
 
 #### (2) Reduced rate for certain domestic production
 
@@ -40,7 +40,7 @@ The production of any beer at any place in the United States shall be subject to
 
 #### Prior Provisions
 
-A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, §3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(8), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, §3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(8), 70Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 

@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (2) Annual limit
 
-&emsp;The term “annual limit” means, with respect to benefits under a group health plan or health insurance coverage, a dollar limitation on the total amount of benefits that may be paid with respect to such benefits in a 12-month period under the plan or health insurance coverage with respect to an individual or other coverage unit.
+&emsp;The term “annual limit” means, with respect to benefits under a group health plan or health insurance coverage, a dollar limitationon the total amount of benefits that may be paid with respect to such benefits in a 12-month period under the plan or health insurance coverage with respect to an individual or other coverage unit.
 
 #### (3) Medical or surgical benefits
 
@@ -108,9 +108,13 @@ For purposes of this section—
 
 #### (f) Sunset
 
-This section shall not apply to benefits for services furnished on or after September 30, 2001.
+This section shall not apply to benefits for services furnished on or after December 31, 2002.
 
-(Pub. L. 93–406, title I, §712, as added Pub. L. 104–204, title VII, §702(a), Sept. 26, 1996, 110 Stat. 2944.)
+(Pub. L. 93–406, title I, §712, as added Pub. L. 104–204, title VII, §702(a), Sept. 26, 1996, 110 Stat. 2944; amended Pub. L. 107–116, title VII, §701(a), Jan. 10, 2002, 115 Stat. 2228.)
+
+#### Amendments
+
+2002—Subsec. (f). Pub. L. 107–116 substituted “December 31, 2002” for “September 30, 2001”.
 
 #### Effective Date
 

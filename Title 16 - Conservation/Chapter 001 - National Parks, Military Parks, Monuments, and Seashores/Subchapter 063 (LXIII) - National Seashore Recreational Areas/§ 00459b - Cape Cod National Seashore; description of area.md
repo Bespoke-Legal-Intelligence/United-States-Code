@@ -6,7 +6,7 @@
 
 &emsp;Beginning at a point in the Atlantic Ocean one-quarter of a mile due west of the mean low-water line of the Atlantic Ocean on Cape Cod at the westernmost extremity of Race Point, Provincetown, Massachusetts;
 
-&emsp;thence from the point of beginning along a line a quarter of a mile offshore of and parallel to the mean low-water line of the Atlantic Ocean, Cape Cod Bay, and Provincetown Harbor in generally southerly, easterly, and northerly directions rounding Long Point and then southwesterly to a point a quarter of a mile offshore of the mean low-water line on the harbor side of the dike depicted on the United States Geological Survey Provincetown quadrangle sheet (1949) crossing an arm of the Provincetown Harbor;
+&emsp;thence from the point of beginning along a line a quarter of a mile offshore of and parallel to the mean low-water line of the Atlantic Ocean, Cape Cod Bay, and Provincetown Harbor in generally southerly, easterly, and northerly directions rounding Long Point and then southwesterly to a point a quarter of a mile offshore of the mean low-water line onthe harbor side of the dike depicted on the United States Geological Survey Provincetown quadrangle sheet (1949) crossing an arm of the Provincetown Harbor;
 
 &emsp;thence northerly, along a line a quarter of a mile offshore of and parallel to the low-water line at the dike to a point easterly of the point of intersection of the said dike with the boundary of the Province Lands Reservation as depicted on the said Provincetown quadrangle sheet;
 
@@ -32,7 +32,7 @@
 
 &emsp;thence in a generally southwesterly direction paralleling the general alinement of North Pamet Road and generally distant 300 feet northerly therefrom to a point approximately two-tenths of a mile east of the easterly right-of-way line of United States Route 6;
 
-&emsp;thence in a southerly direction paralleling the alinement of United States Route 6 andgenerally distant two-tenths of a mile easterly therefrom to a point three-tenths of a mile south of South Pamet Road;
+&emsp;thence in a southerly direction paralleling the alinement of United States Route 6 and generally distant two-tenths of a mile easterly therefrom to a point three-tenths of a mile south of South Pamet Road;
 
 &emsp;thence west to the intersection of Old County Road and Mill Pond Road;
 
@@ -48,7 +48,7 @@
 
 &emsp;thence north to the mean high-water line on the north shore of the Herring River estuary in the vicinity of its confluence with Wellfleet Harbor;
 
-&emsp;thence following the mean, high-water line southwesterly, northwesterly, and northeasterly to the easterly right-of-way line of Chequesset Neck Road at its crossing of Herring River;
+&emsp;thence following the mean high-water line southwesterly, northwesterly, and northeasterly to the easterly right-of-way line of Chequesset Neck Road at its crossing of Herring River;
 
 &emsp;thence following the course of Herring River along the 20-foot contour line of the southeasterly shore thereof to a point near Mill Creek;
 
@@ -56,7 +56,7 @@
 
 &emsp;thence following generally northerly and easterly along the easterly edge of the Herring River marshes on the 20-foot contour to a point north of which the easterly right-of-way line of a medium duty road, as depicted on said Wellfleet quadrangle sheet, crosses northward across a marshy stream near the juncture of said medium duty road with Bound Brook Island Road;
 
-&emsp;thence crossing said marshy stream along said easterly right-of-way line of said medium duty road and continuing in a northerly direction to the 20-foot contour level on the north side of said marshy stream;
+&emsp;thence crossing said marshy stream along said easterly right-of-way line of said medium duty road, and continuing in a northerly direction to the 20-foot contour level on the north side of said marshy stream;
 
 &emsp;thence following the 20-foot contour line westward approximately 1,000 feet to its intersection with an unimproved dirt road, as depicted on said Wellfleet quadrangle sheet, leading from a point near the juncture of Bound Brook Island Road and the said medium duty road;
 

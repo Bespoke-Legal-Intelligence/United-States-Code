@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 R.S. 4619.
 
-The Act of March 3, 1899, ch. 413, §13, 30 Stat. 1007, which repealed all laws authorizing the distribution of prize money to captors, rendered inoperative parts of R.S. 4619 relative to protection of captors’ interest. These parts are omitted from 34 U.S.C. 1136 and from the revised section.
+The Act of March 3, 1899, ch. 413, §13, 30 Stat. 1007, which repealed all laws authorizing the distribution of prize money to captors, rendered inoperative parts ofR.S. 4619 relative to protection of captors’ interest. These parts are omitted from 34 U.S.C. 1136 and from the revised section.
 

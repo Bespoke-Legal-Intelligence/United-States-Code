@@ -12,9 +12,11 @@ Gross income shall not include any fringe benefit which qualifies as a—
 
 &emsp;(4) de minimis fringe,
 
-&emsp;(5) qualified transportation fringe, or
+&emsp;(5) qualified transportation fringe,
 
-&emsp;(6) qualified moving expense reimbursement.
+&emsp;(6) qualified moving expense reimbursement, or
+
+&emsp;(7) qualified retirement planning services.
 
 #### (b) No-additional-cost service defined
 
@@ -104,7 +106,7 @@ For purposes of this section—
 
 &emsp;The amount of the fringe benefits which are provided by an employer to any employee and which may be excluded from gross income under subsection (a)(5) shall not exceed—
 
-&emsp;&emsp;(A) $65 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1), and
+&emsp;&emsp;(A) $100 per month in the case of the aggregate of the benefits described in subparagraphs (A) and (B) of paragraph (1), and
 
 &emsp;&emsp;(B) $175 per month in the case of qualified parking.
 
@@ -161,6 +163,8 @@ For purposes of this section—
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
 &emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 1998” for “calendar year 1992”.
+
+> &emsp;&emsp;In the case of any taxable year beginning in a calendar year after 2002, clause (ii) shall be applied by substituting “calendar year 2001” for “calendar year 1998” for purposes of adjusting the dollar amount contained in paragraph (2)(A).
 
 #### (B) Rounding
 
@@ -232,7 +236,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (B) Leased section of department store
 
-&emsp;&emsp;For purposes of subparagraph (A), a leased section of a department store is any part ofa department store where over-the-counter sales of property are made under a lease or similar arrangement where it appears to the general public that individuals making such sales are employed by the person operating the department store.
+&emsp;&emsp;For purposes of subparagraph (A), a leased section of a department store is any part of a department store where over-the-counter sales of property are made under a lease or similar arrangement where it appears to the general public that individuals making such sales are employed by the person operating the department store.
 
 #### (3) Auto salesmen
 
@@ -320,27 +324,47 @@ For purposes of this section (other than subsection (c)(2)), the term “custome
 
 This section (other than subsections (e) and (g)) shall not apply to any fringe benefits of a type the tax treatment of which is expressly provided for in any other section of this chapter.
 
-#### (m) Regulations
+#### (m) Qualified retirement planning services
+
+#### (1) In general
+
+&emsp;For purposes of this section, the term “qualified retirement planning services” means any retirement planning advice or information provided to an employee and his spouse by an employer maintaining a qualified employer plan.
+
+#### (2) Nondiscrimination rule
+
+&emsp;Subsection (a)(7) shall apply in the case of highly compensated employees only if such services are available on substantially the same terms to each member of the group of employees normally provided education and information regarding the employer's qualified employer plan.
+
+#### (3) Qualified employer plan
+
+&emsp;For purposes of this subsection, the term “qualified employer plan” means a plan, contract, pension, or account described in section 219(g)(5).
+
+#### (n) Regulations
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX,§9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508.)
+(Added Pub. L. 98–369, div. A, title V, §531(a)(1), July 18, 1984, 98 Stat. 877; amended Pub. L. 99–272, title XIII, §13207(a)(1), (b)(1), Apr. 7, 1986, 100 Stat. 319; Pub. L. 99–514, title XI, §§1114(b)(5), 1151(e)(2)(A), (g)(5), title XVIII, §§1853(a), 1899A(5), Oct. 22, 1986, 100 Stat. 2451, 2506, 2507, 2870, 2958; Pub. L. 100–647, title I, §1011B(a)(31)(B), title VI, §6066(a), Nov. 10, 1988, 102 Stat. 3488, 3702; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(b), 7841(d)(7), (19), Dec. 19, 1989, 103 Stat. 2304, 2428, 2429; Pub. L. 102–486, title XIX, §1911(a)–(c), Oct. 24, 1992, 106 Stat. 3012–3014; Pub. L. 103–66, title XIII, §§13101(b), 13201(b)(3)(F), 13213(d)(1), (2), (3)(B), (C), Aug. 10, 1993, 107 Stat. 420, 459, 474; Pub. L. 105–34, title IX, §970(a), title X, §1072(a), Aug. 5, 1997, 111 Stat. 897, 948; Pub. L. 105–178, title IX, §9010(a)(1), (b)(1), (2), (c)(1), (2), June 9, 1998, 112 Stat. 507, 508; Pub. L. 107–16, title VI, §665(a), (b), June 7, 2001, 115 Stat. 143.)
 
-#### Qualified Transportation Fringe Benefit Exclusion Adjustment for Tax Years Beginning in 2001
+#### Qualified Transportation Fringe Benefit Exclusion Adjustment for Tax Years Beginning in 2002
 
-<i>For adjustment of qualified transportation fringe benefit exclusion amount under this section for tax years beginning in 2001, see section 3.07 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of qualified transportation fringe benefit exclusion amount under this section for tax years beginning in 2002, see section 3.09 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
-#### Amendment of Subsection (f)
+#### Amendment of Section
 
-<i>Pub. L. 105–178, title IX, §9010(c), June 9, 1998, 112 Stat. 508, provided that, applicable to taxable years beginning after Dec. 31, 2001, subsection (f)(2)(A) of this section is amended by substituting “$100” for “$65” and subsection (f)(6)(A) of this section is amended by inserting flush sentence at end reading as follows: “In the case of any taxable year beginning in a calendar year after 2002, clause (ii) shall be applied by substituting ‘calendar year 2001’ for ‘calendar year 1998’ for purposes of adjusting the dollar amount contained in paragraph (2)(A).”</i>
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
-A prior section 132 was renumbered section 139 of this title.
+A prior section 132 was renumbered section 140 of this title.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (f)(2)(A). Pub. L. 105–178, §9010(b)(2)(A), substituted “$65” for “$60”.
+<b>2001</b>—Subsec. (a)(7). Pub. L. 107–16, §§665(a), 901, temporarily added par. (7). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsecs. (m), (n). Pub. L. 107–16, §§665(b), 901, temporarily added subsec. (m) and redesignated former subsec. (m) as (n). See Effective and Termination Dates of 2001 Amendment note below.
+
+<b>1998</b>—Subsec. (f)(2)(A). Pub. L. 105–178, §9010(c)(1), substituted “$100” for “$65”.
+
+Pub. L. 105–178, §9010(b)(2)(A), substituted “$65” for “$60”.
 
 Subsec. (f)(2)(B). Pub. L. 105–178, §9010(b)(2)(B), substituted “$175” for “$155”.
 
@@ -353,6 +377,8 @@ Subsec. (f)(6). Pub. L. 105–178, §9010(b)(1), reenacted heading without chang
 &emsp;“(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins.
 
 > If any increase determined under the preceding sentence is not a multiple of $5, such increase shall be rounded to the next lowest multiple of $5.”
+
+Subsec. (f)(6)(A). Pub. L. 105–178, §9010(c)(2), inserted concluding provisions.
 
 <b>1997</b>—Subsec. (e)(2). Pub. L. 105–34, §970(a), inserted at end of concluding provisions “For purposes of subparagraph (B), an employee entitled under section 119 to exclude the value of a meal provided at such facility shall be treated as having paid an amount for such meal equal to the direct operating costs of the facility attributable to such meal.”
 
@@ -408,7 +434,7 @@ Subsec. (f)(2)(B)(ii). Pub. L. 99–514, §1853(a)(1), substituted “are deceas
 
 Subsec. (f)(3). Pub. L. 99–272, §13207(a)(1), added par. (3).
 
-Subsec. (g). Pub. L. 99–514, §1151(e)(2)(A), in amending subsec. (g) generally, designated par. (2) as the entire subsection, struck out former subsec. heading, “Special rules relating to employer”, struck out “For purposesof this section—”, and struck out par. (1) which read as follows: “All employees treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.”
+Subsec. (g). Pub. L. 99–514, §1151(e)(2)(A), in amending subsec. (g) generally, designated par. (2) as the entire subsection, struck out former subsec. heading, “Special rules relating to employer”, struck out “For purposes of this section—”, and struck out par. (1) which read as follows: “All employees treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.”
 
 Subsec. (h)(1). Pub. L. 99–514, §1151(g)(5), inserted “For purposes of this paragraph and subsection (e), there may be excluded from consideration employees who may be excluded from consideration under section 89(h).”
 
@@ -421,6 +447,12 @@ Subsec. (h)(6). Pub. L. 99–272, §13207(b)(1), added par. (6).
 Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted “subsection (c)(2)” for “subsection (c)(2)(B)”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title VI, §665(c), June 7, 2001, 115 Stat. 143, provided that: “The amendments made by this section \[amending this section\] shall apply to years beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

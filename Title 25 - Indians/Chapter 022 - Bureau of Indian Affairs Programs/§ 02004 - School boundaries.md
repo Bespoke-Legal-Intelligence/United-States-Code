@@ -1,26 +1,68 @@
 ### §2004. School boundaries
 
-#### (a) Establishment
+#### (a) Establishment by Secretary
 
-The Secretary shall, in accordance with this section, establish separate geographical attendance areas for each Bureau school.
+The Secretary shall establish, by regulation, separate geographical attendance areas for each Bureau-funded school.
 
-#### (b) Alternative or revised boundaries
+#### (b) Establishment by tribal body
 
-(1) Except as provided in paragraph (2), on or after July 1, 1985, no attendance area shall be changed or established with respect to any Bureau funded school unless the tribal governing body or the local school board concerned (if so designated by the tribal governing body) has been (i) afforded at least six months notice of the intention of the Bureau to change or establish such attendance area, and (ii) given the opportunity to propose alternative boundaries. Any tribe may petition the Secretary for revision of existing attendance area boundaries. The Secretary shall accept such proposed alternative or revised boundaries unless the Secretary finds, after consultation with the affected tribe or tribes, that such revised boundaries do not reflect the needs of the Indian students to be served or do not provide adequate stability to all of the affected programs.
+In any case where there is more than one Bureau-funded school located on an Indian reservation, at the direction of the tribal governing body, the relevant school boards of the Bureau-funded schools on the reservation may, by mutual consent, establish the relevant attendance areas for such schools, subject to the approval of the tribal governing body. Any such boundaries so established shall be accepted by the Secretary.
 
-(2) In any case where there is more than 1 Bureau funded school located on an Indian reservation, at the direction of the tribal governing body, the relevant school boards of the Bureau funded schools on the reservation may, by mutual consent, establish the relevant attendance areas for such schools, subject to the approval of the tribal governing body. Any such boundaries so established shall be accepted by the Secretary.
+#### (c) Boundary revisions
 
-#### (c) Reservation as boundary
+#### (1) Notice
 
-In any case where there is only 1 Bureau operated program located on an Indian reservation, the attendance area for the program shall be the boundaries of the reservation served, and those students residing near the reservation shall also receive services from such program.
+&emsp;On or after July 1, 2001, no geographical attendance area shall be revised or established with respect to any Bureau-funded school unless the tribal governing body or the local school board concerned (if so designated by the tribal governing body) has been afforded—
 
-#### (d) Coordination and consultation with tribes and school boards
+&emsp;&emsp;(A) at least 6 months notice of the intention of the Bureau to revise or establish such attendance area; and
 
-The Bureau shall include in the regulations the requirement that each appropriate education line officer coordinate and consult with the affected tribes and relevant school boards in the establishment of such geographic boundaries.
+&emsp;&emsp;(B) the opportunity to propose alternative boundaries.
 
-(Pub. L. 95–561, title XI, §1124, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3986.)
+#### (2) Revision process
+
+&emsp;Any tribe may petition the Secretary for revision of existing attendance area boundaries. The Secretary shall accept such proposed alternative or revised boundaries unless the Secretary finds, after consultation with the affected tribe or tribes, that such revised boundaries do not reflect the needs of the Indian students to be served or do not provide adequate stability to all of the affected programs. The Secretary shall cause such revisions to be published in the Federal Register.
+
+#### (3) Tribal resolution determination
+
+&emsp;Nothing in this section shall deny a tribal governing body the authority, on a continuing basis, to adopt a tribal resolution allowing parents the choice of the Bureau-funded school their children may attend, regardless of the attendance boundaries established under this section.
+
+#### (d) Funding restrictions
+
+#### (1) In general
+
+&emsp;The Secretary shall not deny funding to a Bureau-funded school for any eligible Indian student attending the school solely because that student's home or domicile is outside of the geographical attendance area established for that school under this section.
+
+#### (2) Transportation
+
+&emsp;No funding shall be made available without tribal authorization to enable a school to provide transportation for any student to or from the school and a location outside the approved attendance area of the school.
+
+#### (e) Reservation as boundary
+
+When there is only one Bureau-funded program located on an Indian reservation—
+
+&emsp;(1) the attendance area for the program shall be the boundaries (established by treaty, agreement, legislation, court decisions, or executive decisions and as accepted by the tribe) of the reservation served; and
+
+&emsp;(2) those students residing near the reservation shall also receive services from such program.
+
+#### (f) Off-reservation home-living (dormitory) schools
+
+#### (1) In general
+
+&emsp;Notwithstanding any geographical attendance areas, attendance at off-reservation home-living (dormitory) schools shall include students requiring special emphasis programs to be implemented at each off-reservation home-living (dormitory) school.
+
+#### (2) Coordination
+
+&emsp;Such attendance shall be coordinated between education line officers, the family, and the referring and receiving programs.
+
+(Pub. L. 95–561, title XI, §1124, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2019.)
 
 #### Prior Provisions
 
-A prior section 2004, Pub. L. 95–561, title XI, §1124, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 98–511, title V, §503, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, §3, Aug. 15, 1985, 99 Stat. 380; Pub. L. 100–297, title V, §5120, Apr. 28, 1988, 102 Stat. 384, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 103–382.
+A prior section 2004, Pub. L. 95–561, title XI, §1124, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3986, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 107–110.
+
+Another prior section 2004, Pub. L. 95–561, title XI, §1124, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 98–511, title V, §503, Oct. 19, 1984, 98 Stat. 2393; Pub. L. 99–89, §3, Aug. 15, 1985, 99 Stat. 380; Pub. L. 100–297, title V, §5120, Apr. 28, 1988, 102 Stat. 384, related to school boundaries, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2015 of this title.
 

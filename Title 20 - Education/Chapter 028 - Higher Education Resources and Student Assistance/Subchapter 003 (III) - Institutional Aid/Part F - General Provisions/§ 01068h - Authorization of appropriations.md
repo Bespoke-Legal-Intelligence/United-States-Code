@@ -22,7 +22,7 @@
 
 #### (4) Part D
 
-&emsp;(A) There are authorized to be appropriated to carry out part D of this subchapter (other than section 1066d(7) of this title, but including section 1066f of this title), $110,000 for fiscalyear 1999, and such sums as may be necessary for each of the 4 succeeding fiscal years.
+&emsp;(A) There are authorized to be appropriated to carry out part D of this subchapter (other than section 1066d(7) of this title, but including section 1066f of this title), $110,000 for fiscal year 1999, and such sums as may be necessary for each of the 4 succeeding fiscal years.
 
 &emsp;(B) There are authorized to be appropriated to carry out section 1066d(7) of this title, such sums as may be necessary for fiscal year 1999 and each of the 4 succeeding fiscal years.
 
@@ -56,7 +56,7 @@ A prior section 1069b, Pub. L. 89–329, title III, §356, as added Pub. L. 99�
 
 Another prior section 1069b, Pub. L. 89–329, title III, §346, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, limited activities for which funds appropriated to carry out this subchapter could be expended, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-A prior section 1069c, Pub. L. 89–329, title III, §357, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1307, which related to limitations on use of funds, was renumbered section 396 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068e of this title.
+A prior section 1069c, Pub. L. 89–329, title III, §357, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100Stat. 1307, which related to limitations on use of funds, was renumbered section 396 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068e of this title.
 
 Another prior section 1069c, Pub. L. 89–329, title III, §347, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, and Pub. L. 98–95, §3, Sept. 26, 1983, 97 Stat. 711; Pub. L. 98–312, §1, June 12, 1984, 98 Stat. 233, authorized appropriations to carry out parts A to C of this subchapter, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 105–244, §308(h)(5), struck out heading and text of subs
 
 Subsec. (d). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (d). Text read as follows: “In any fiscal year in which the sums appropriated for part A of this subchapter are insufficient to make the reservations required by subsection (c) of this section, the Secretary shall ratably reduce the amount of the reservation.”
 
-Subsec. (e). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (e). Text read as follows: “In any fiscal year beginning after September 30, 1992, the Secretary shall award at least 25 percent of the amount appropriated pursuant to the authority ofparagraph (3) of subsection (a) of this section in each fiscal year to historically black colleges and universities that meet the requirements of part C of this subchapter, unless there are an insufficient number of quality applications or an insufficient number of applications due to the provisions in subsection (b)(2)(C) or subsection (b)(4)(B) of section 1065 of this title.”
+Subsec. (e). Pub. L. 105–244, §308(h)(5), struck out heading and text of subsec. (e). Text read as follows: “In any fiscal year beginning after September 30, 1992, the Secretary shall award at least 25 percent of the amount appropriated pursuant to the authority of paragraph (3) of subsection (a) of this section in each fiscal year to historically black colleges and universities that meet the requirements of part C of this subchapter, unless there are an insufficient number of quality applications or an insufficient number of applications due to the provisions in subsection (b)(2)(C) or subsection (b)(4)(B) of section 1065 of this title.”
 
 1992—Subsec. (a). Pub. L. 102–325, §305(e), amended subsec. (a) generally, substituting present provisions for provisions authorizing appropriations for fiscal year 1987 and the four succeeding fiscal years.
 

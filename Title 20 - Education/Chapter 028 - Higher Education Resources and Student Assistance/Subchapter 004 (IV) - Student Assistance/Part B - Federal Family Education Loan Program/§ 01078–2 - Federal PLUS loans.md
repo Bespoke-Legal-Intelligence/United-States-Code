@@ -106,7 +106,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 #### Codification
 
-October 17, 1986, referred to in subsec. (e)(5), was in the original “the date of enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 99–498 which enacted this section in the general revision of this part, to reflect the probable intent of Congress.
+October 17, 1986, referred to in subsec. (e)(5), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 99–498 which enacted this section in the general revision of this part, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -152,7 +152,7 @@ Subsec. (b)(3). Pub. L. 100–50, §10(p)(2), amended first sentence generally, 
 
 Subsec. (c)(1). Pub. L. 100–50, §10(<i>o</i>)(2)(B), struck out “pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title” after “subject to deferral” and inserted in lieu cls. (A) and (B).
 
-Subsec. (c)(2). Pub. L. 100–50, §10(<i>o</i>)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for “under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
+Subsec. (c)(2). Pub. L. 100–50, §10(<i>o</i>)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for“under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
 
 Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted “at any time” after “eligible lender may” in first sentence, substituted “the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)” for “the borrower complies with the requirements of paragraph (2)” in second sentence, and inserted “(if required by them)” after “shall be reported” in third sentence.
 
@@ -172,7 +172,7 @@ Section 4109(c) of Pub. L. 103–66 provided that: “The amendments made by thi
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (b), relating to annual and aggregate loan limits, are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, changes made in subsec. (a) withrespect to use of credit histories are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, and subsec. (c), as added by Pub. L. 102–325, relating to disbursement of Federal PLUS Loans, is applicable with respect to loans for which first disbursement is made on or after Oct. 1, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (b), relating to annual and aggregate loan limits, are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, changes made in subsec. (a) with respect to use of credit histories are applicable with respect to loans for which first disbursement is made on or after July 1, 1993, and subsec. (c), as added by Pub. L. 102–325, relating to disbursement of Federal PLUS Loans, is applicable with respect to loans for which first disbursement is made on or after Oct. 1, 1992, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1987 Amendment
 

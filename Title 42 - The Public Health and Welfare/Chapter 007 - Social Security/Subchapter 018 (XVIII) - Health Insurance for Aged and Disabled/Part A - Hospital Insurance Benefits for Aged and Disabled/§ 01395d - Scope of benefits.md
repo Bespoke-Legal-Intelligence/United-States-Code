@@ -304,5 +304,5 @@ For provisions repealing amendment by section 101 of Pub. L. 100–360, restorin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395e, 1395f, 1395w–23, 1395x, 1395eee, 1396b, 1396d, 1396r–8 of this title.
+This section is referred to in sections 1395e, 1395f, 1395w–23, 1395x, 1395eee, 1396b, 1396d, 1396r–8 of this title; title 10 section 1074j.
 

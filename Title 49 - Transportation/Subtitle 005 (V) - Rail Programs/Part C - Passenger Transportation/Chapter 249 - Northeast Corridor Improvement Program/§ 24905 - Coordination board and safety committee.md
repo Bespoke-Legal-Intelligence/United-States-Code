@@ -88,7 +88,7 @@ June 22, 1988, Pub. L. 100–342, §11, 102 Stat. 629; Sept. 3, 1992, Pub. L. 10
 
 In subsection (a)(2), before clause (A), the words “develop and” are omitted as surplus. In clause (B)(v), the word “rates” is substituted for “fares, tariffs” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(3), the words “of opinions” and “(among or between the Corporation, Amtrak Commuter, other railroads, commuter authorities, and other State, local, and regional agencies responsible for the provision of commuter rail, rapid rail, or rail freight service), with respect to all matters” are omitted as surplus. The words “for facilities and transportation matters under” are substituted for “those conferred on the Commission in” for clarity.
+In subsection (a)(3), the words “of opinions” and “(among or between the Corporation, Amtrak Commuter, other railroads, commuter authorities, and other State, local, and regional agencies responsible forthe provision of commuter rail, rapid rail, or rail freight service), with respect to all matters” are omitted as surplus. The words “for facilities and transportation matters under” are substituted for “those conferred on the Commission in” for clarity.
 
 In subsection (b)(1), the words “Within 30 days after the date of enactment of this Act . . . shall establish” are omitted as executed.
 

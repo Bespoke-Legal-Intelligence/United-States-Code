@@ -38,7 +38,7 @@ Minerals locatable under the mining laws of the United States in lands subject t
 
 #### (h) Bona fide effort
 
-To meet the bona fide effort requirement referred to in subsection (g)(1) of this section thelessee must submit a report to the Secretary demonstrating bona fide efforts (as determined by the Secretary) to produce or utilize geothermal steam in commercial quantities for such lease, given the then current economic conditions.
+To meet the bona fide effort requirement referred to in subsection (g)(1) of this section the lessee must submit a report to the Secretary demonstrating bona fide efforts (as determined by the Secretary) to produce or utilize geothermal steam in commercial quantities for such lease, given the then current economic conditions.
 
 #### (i) Payments in lieu of commercial quantities production
 
@@ -102,7 +102,7 @@ The Multiple Mineral Development Act, referred to in subsec. (f), is act Aug. 13
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–443, §2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam in commercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
+1988—Subsec. (d). Pub. L. 100–443, §2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam incommercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
 
 Subsecs. (g) to (j). Pub. L. 100–443, §3, added subsecs. (g) to (j).
 
@@ -194,7 +194,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 &emsp;“(4) requiring the lessee to suspend activity, temporarily or permanently, on the lease if the Secretary determines that ongoing exploration, development, or utilization activities are having a significant adverse effect on significant thermal features listed pursuant to subsection (a) of this section until such time as the significant adverse effect is eliminated.
 
-“(e) The Secretary of Agriculture shall consider the effects on significant thermal features of those units of the National Park System identified in subsection (a) of this section in determining whether to consent to leasing under the Geothermal Steam Act of 1970, as amended, on national forest or other lands administered by the Department of Agriculture available for leasing under the Geothermal Steam Act of 1970, as amended, including public, withdrawn, and acquired lands.
+“(e) The Secretary of Agriculture shall consider the effects on significant thermal features of those units of the National Park System identified in subsection (a) of this section in determining whether to consent toleasing under the Geothermal Steam Act of 1970, as amended, on national forest or other lands administered by the Department of Agriculture available for leasing under the Geothermal Steam Act of 1970, as amended, including public, withdrawn, and acquired lands.
 
 “(f) Nothing contained in this section shall affect the ban on leasing under the Geothermal Steam Act of 1970, as amended, with respect to the Island Park Known Geothermal Resources Area, as provided for in Public Law 98–473 (98 Stat. 1837) \[see Tables for classification\] and Public Law 99–190 (99 Stat. 1267) \[see Tables for classification\].
 

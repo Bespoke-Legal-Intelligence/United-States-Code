@@ -6,7 +6,7 @@ Establishment; Reasonableness.—A motor carrier providing transportation of pas
 
 (b)
 
-Prescribed by Board.—When the Board finds it necessary to enforce the requirements of this section, the Board may prescribe through routes and the conditions under which those routes must be operated for motor carriers providing transportation of passengers subject to jurisdiction under subchapter I of chapter 135.
+Prescribed by Board.—When the Board finds it necessary to enforce the requirements ofthis section, the Board may prescribe through routes and the conditions under which those routes must be operated for motor carriers providing transportation of passengers subject to jurisdiction under subchapter I of chapter 135.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 872.)
 

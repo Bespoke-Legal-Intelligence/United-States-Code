@@ -38,7 +38,7 @@ A vessel engaged in dredging or underwater operations, when restricted in her ab
 
 #### (e) Vessels engaged in diving operations
 
-Whenever the size of a vessel engaged in diving operations makes it impracticable to exhibit alllights and shapes prescribed in paragraph (d) of this Rule, the following shall instead be exhibited:
+Whenever the size of a vessel engaged in diving operations makes it impracticable to exhibit all lights and shapes prescribed in paragraph (d) of this Rule, the following shall instead be exhibited:
 
 &emsp;(i) Three all-round lights in a vertical line where they can best be seen. The highest and lowest of these lights shall be red and the middle light shall be white.
 
@@ -46,7 +46,7 @@ Whenever the size of a vessel engaged in diving operations makes it impracticabl
 
 #### (f) Vessels engaged in mineclearance operations
 
-A vessel engaged in mineclearance operations shall, in addition to the lights prescribed for a power-driven vessel in Rule 23 or to the lights or shape prescribed for a vessel at anchor in Rule 30, as appropriate, exhibit three all-round green lights or three balls. One of these lights or shapes shall be exhibited near the foremast head and one at each end of the fore yard. These lights or shapes indicate that it is dangerous for another vessel to approach within 1,000 meters of the mineclearance vessel.
+A vessel engaged in mineclearance operations shall, in addition to the lights prescribed for a power-driven vessel in Rule 23 or to the lights orshape prescribed for a vessel at anchor in Rule 30, as appropriate, exhibit three all-round green lights or three balls. One of these lights or shapes shall be exhibited near the foremast head and one at each end of the fore yard. These lights or shapes indicate that it is dangerous for another vessel to approach within 1,000 meters of the mineclearance vessel.
 
 #### (g) Vessels of less than 12 meters in length
 

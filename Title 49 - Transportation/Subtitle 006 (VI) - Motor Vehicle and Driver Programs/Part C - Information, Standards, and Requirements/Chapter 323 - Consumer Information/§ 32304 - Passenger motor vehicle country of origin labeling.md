@@ -46,7 +46,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;&emsp;(ii) that portion of the purchase price of passenger motor vehicle equipment containing less than 70 percent value added in the United States and Canada that is attributable to the percent value added in the United States and Canada when such percent is expressed to the nearest 5 percent; and
 
-&emsp;&emsp;(B) for an allied supplier, that part of the individual passenger motor vehicle equipment whose purchase price the manufacturer determines remains after subtractingthe total of the purchase prices of all material of foreign content purchased from outside suppliers, with the determination of the United States/Canadian origin or of the foreign content from outside suppliers being consistent with subclause (A) of this clause.
+&emsp;&emsp;(B) for an allied supplier, that part of the individual passenger motor vehicle equipment whose purchase price the manufacturer determines remains after subtracting the total of the purchase prices of all material of foreign content purchased from outside suppliers, with the determination of the United States/Canadian origin or of the foreign content from outside suppliers being consistent with subclause (A) of this clause.
 
 &emsp;(10) “outside supplier” means a supplier of passenger motor vehicle equipment to a manufacturer's allied supplier, or a person other than an allied supplier, who ships directly to the manufacturer's final assembly place.
 
@@ -58,7 +58,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(B) does not include minor parts (including nuts, bolts, clips, screws, pins, braces, and other attachment hardware) and other similar items the Secretary of Transportation may prescribe by regulation after consulting with manufacturers and labor.
 
-&emsp;(13) “percentage (by value)”, when referring to passenger motor vehicle equipment of United States/Canadian origin, means the percentage remaining after subtracting the percentage (by value) of passenger motor vehicle equipment that is not of United States/Canadian origin that will be installed or included on those vehicles produced in a carline, from 100 percent—
+&emsp;(13) “percentage (by value)”, when referring to passenger motor vehicle equipment ofUnited States/Canadian origin, means the percentage remaining after subtracting the percentage (by value) of passenger motor vehicle equipment that is not of United States/Canadian origin that will be installed or included on those vehicles produced in a carline, from 100 percent—
 
 &emsp;&emsp;(A) with value being expressed in terms of the purchase price; and
 
@@ -104,7 +104,7 @@ Value Added Determination.—If a manufacturer or allied supplier requests infor
 
 &emsp;(4) A manufacturer and its allied suppliers may, on a combined basis, make value added determinations for no more than 10 percent, by value, of a carline's total parts content from outside suppliers.
 
-&emsp;(5) Value added determinations made by a manufacturer or allied supplier under thisparagraph shall have the same effect as if they were made by the outside supplier.
+&emsp;(5) Value added determinations made by a manufacturer or allied supplier under this paragraph shall have the same effect as if they were made by the outside supplier.
 
 &emsp;(6) This provision does not affect the obligation of outside suppliers to provide the requested information.
 
@@ -118,7 +118,7 @@ Dealer Requirement.—Each dealer engaged in the sale or distribution of a new p
 
 (g)
 
-Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate label that is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
+Form and Content of Label.—The Secretary of Transportation shall prescribe by regulation the form and content of the label required under subsection (b) of this section and the manner and location in which the label is attached. The Secretary shall permit a manufacturer to comply with this section by allowing the manufacturer to disclose the information required under subsection (b)(1) on the label required by section 3 of the Automobile Information Disclosure Act (15 U.S.C. 1232), on the label required by section 32908 of this title, or on a separate labelthat is readily visible. A manufacturer may add to the label required under subsection (b) a line stating the country in which vehicle assembly was completed.
 
 (h)
 

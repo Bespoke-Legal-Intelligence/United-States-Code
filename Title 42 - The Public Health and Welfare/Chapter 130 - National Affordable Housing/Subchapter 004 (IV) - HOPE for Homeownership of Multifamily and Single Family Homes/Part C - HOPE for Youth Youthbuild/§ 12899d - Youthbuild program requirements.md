@@ -48,7 +48,7 @@ Each residential rental housing project receiving assistance under this part sha
 
 #### (5) Prohibition against discrimination
 
-&emsp;A unit in a project assisted under this part may not be refused for leasing to a family holding tenant-based assistance under section 1437f of this title because of the status of the prospective tenant as a holder of such assistance.
+&emsp;A unit in a project assisted under this part may not be refused for leasing to a familyholding tenant-based assistance under section 1437f of this title because of the status of the prospective tenant as a holder of such assistance.
 
 #### (b) Transitional housing
 

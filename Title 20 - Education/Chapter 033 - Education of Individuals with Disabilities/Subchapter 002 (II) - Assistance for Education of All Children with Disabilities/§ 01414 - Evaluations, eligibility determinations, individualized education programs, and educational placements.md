@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a child with limited English proficiency, consider the language needs of the child as such needs relate to the child's IEP;
 
-&emsp;&emsp;&emsp;(iii) in the case of a child who is blind or visually impaired, provide for instructionin Braille and the use of Braille unless the IEP Team determines, after an evaluation of the child's reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child's future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
+&emsp;&emsp;&emsp;(iii) in the case of a child who is blind or visually impaired, provide for instruction in Braille and the use of Braille unless the IEP Team determines, after an evaluation of the child's reading and writing skills, needs, and appropriate reading and writing media (including an evaluation of the child's future needs for instruction in Braille or the use of Braille), that instruction in Braille or the use of Braille is not appropriate for the child;
 
 &emsp;&emsp;&emsp;(iv) consider the communication needs of the child, and in the case of a child who is deaf or hard of hearing, consider the child's language and communication needs, opportunities for direct communications with peers and professional personnel in the child's language and communication mode, academic level, and full range of needs, including opportunities for direct instruction in the child's language and communication mode; and
 
@@ -276,7 +276,7 @@
 
 #### (5) Failure to meet transition objectives
 
-&emsp;If a participating agency, other than the local educational agency, fails to provide the transition services described in the IEP in accordance with paragraph (1)(A)(vii), the local educational agency shall reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in that program.
+&emsp;If a participating agency, other than the local educational agency, fails to provide the transition services described in the IEP in accordance with paragraph (1)(A)(vii), the local educational agency shall reconvene the IEP Team to identify alternative strategies tomeet the transition objectives for the child set out in that program.
 
 #### (6) Children with disabilities in adult prisons
 
@@ -314,7 +314,7 @@ Section effective June 4, 1997, except subsec. (d)(1) to (5), effective July 1, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1412, 1415, 1473, 2351, 2415, 6661b, 6661d of this title; title 29 section 721.
+This section is referred to in sections 1401, 1412, 1415, 1473, 2351, 2415, 6316, 6362 of this title; title 29 section 721.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “2-year-old”.</i>
 

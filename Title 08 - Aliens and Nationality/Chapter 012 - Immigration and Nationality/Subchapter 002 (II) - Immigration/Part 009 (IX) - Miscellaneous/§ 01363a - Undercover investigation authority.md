@@ -30,7 +30,7 @@ With respect to any undercover investigative operation of the Service which is n
 
 #### (b) Disposition of proceeds no longer required
 
-As soon as practicable after the proceeds from an undercover investigative operation, carried out under paragraphs (3) and (4) of subsection (a) of this section, are no longer necessary for the conduct of the operation, the proceeds or the balance of the proceeds remaining at the timeshall be deposited into the Treasury of the United States as miscellaneous receipts.
+As soon as practicable after the proceeds from an undercover investigative operation, carried out under paragraphs (3) and (4) of subsection (a) of this section, are no longer necessary for the conduct of the operation, the proceeds or the balance of the proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Disposition of certain corporations and business entities
 

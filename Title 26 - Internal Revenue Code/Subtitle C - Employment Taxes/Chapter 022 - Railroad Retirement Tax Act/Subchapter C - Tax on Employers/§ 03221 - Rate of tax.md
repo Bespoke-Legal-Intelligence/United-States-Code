@@ -6,25 +6,31 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 
 #### (b) Tier 2 tax
 
-In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 16.10 percent of the compensation paid during any calendar year by such employer for services rendered to such employer.
+#### (1) In general
 
-(c) In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, for each man-hour for which compensation is paid by such employer for services rendered to him during any calendar quarter, at such rate as will make available sufficient funds to meet the obligation to pay supplemental annuities at the level provided under section 3(j) of the Railroad Retirement Act of 1937 as in effect on December31, 1974 and administrative expenses in connection therewith. For the purpose of this subsection, the Railroad Retirement Board is directed to determine what rate is required for each calendar quarter. The Railroad Retirement Board shall make the determinations provided for not later than fifteen days before each calendar quarter. As soon as practicable after each determination of the rate, as provided in this subsection, the Railroad Retirement Board shall publish a notice in the Federal Register, and shall advise all employers, employee representatives, and the Secretary, of the rate so determined. With respect to daily, weekly, or monthly rates of compensation such tax shall apply to the number of hours comprehended in the rate together with the number of overtime hours for which compensation in addition to the daily, weekly, or monthly rate is paid. With respect to compensation paid on a mileage or piecework basis such tax shall apply to the number of hours constituting the hourly equivalent of the compensation paid.
+&emsp;In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to the applicable percentage of the compensation paid during any calendar year by such employer for services rendered to such employer.
 
-Each employer of employees whose supplemental annuities are reduced pursuant to section 3(j)(2) of the Railroad Retirement Act of 1937 or section 2(h)(2) of the Railroad Retirement Act of 1974 shall be allowed as a credit against the tax imposed by this subsection an amount equivalent in each month to the aggregate amount of reductions in supplemental annuities accruing in such month to employees of such employer. If the credit so allowed to such an employer for any month exceeds the tax liability of such employer accruing under this subsection in such month, the excess may be carried forward for credit against such taxes accruing in subsequent months but the total credit allowed by this paragraph to an employer shall not exceed the total of the taxes on such employer imposed by this subsection. At the end of each calendar quarter the Railroad Retirement Board shall certify to the Secretary with respect to each such employer the amount of credit accruing to such employer under this paragraph during such quarter and shall notify such employer as to the amount so certified.
+#### (2) Applicable percentage
 
-(d) Notwithstanding the provisions of subsection (c) of this section, the tax imposed by such subsection (c) shall not apply to an employer with respect to employees who are covered by a supplemental pension plan which is established pursuant to an agreement reached through collective bargaining between the employer and employees. There is hereby imposed on every such employer an excise tax equal to the amount of the supplemental annuity paid to each such employee under section 2(b) of the Railroad Retirement Act of 1974, plus a percentage thereof determined by the Railroad Retirement Board to be sufficient to cover the administrative costs attributable to such payments under section 2(b) of such Act.
+&emsp;For purposes of paragraph (1), the term “applicable percentage” means—
 
-#### (e) Cross reference
+&emsp;&emsp;(A) 15.6 percent in the case of compensation paid during 2002,
+
+&emsp;&emsp;(B) 14.2 percent in the case of compensation paid during 2003, and
+
+&emsp;&emsp;(C) in the case of compensation paid during any calendar year after 2003, the percentage determined under section 3241 for such calendar year.
+
+#### (c) Cross reference
 
 &emsp;&emsp;<b>For application of different contribution bases with respect to the taxes imposed by subsections (a) and (b), see section 3231(e)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 433; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(d), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §202, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(3), 111(c)(3), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(c), Sept. 29, 1965, 79 Stat. 861, 862; Pub. L. 89–699, title III, §301(c), (e), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §§301(iii), (v), (vi), 302, Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §5(a), (b)(1), Mar. 17, 1970, 84 Stat. 71; Pub. L. 93–69, title I, §102(d)–(f), July 10, 1973, 87 Stat. 162, 163; Pub. L. 93–445, title V, §501, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–93, title II, §203, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§1903(a)(9), 1906(b)(13)(G), Oct. 4, 1976, 90 Stat. 1808, 1835; Pub. L. 97–34, title VII, §741(c), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(b), 222, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9032(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(c), Nov. 5, 1990, 104 Stat. 1388–286.)
-
-#### References in Text
-
-The Railroad Retirement Act of 1937, referred to in subsec. (c), is act Aug. 29, 1935, ch. 812, 49 Stat. 867, as amended generally by act June 24, 1937, ch. 382, pt. I, 50 Stat. 307, and which was classified principally to subchapter III (§228a et seq.) of chapter 9 of Title 45, Railroads. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305. The Railroad Retirement Act of 1974, referred to in subsecs. (c) and (d), is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45. Section 3(j) of the Railroad Retirement Act of 1937, referred to in subsec. (c), was classified to section 228c(j) of Title 45. Section 2(b) of the Railroad Retirement Act of 1974, referred to in subsec. (d), and section 2(h)(2) of the Railroad Retirement Act of 1974, referred to in subsec. (c), was classified to section 231a(b) and (h)(2) of Title 45. For complete classification of these Acts to the Code, see Tables.
+(Aug. 16, 1954, ch. 736, 68A Stat. 433; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(d), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §202, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(3), 111(c)(3), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(c), Sept. 29, 1965, 79 Stat. 861, 862; Pub. L. 89–699, title III, §301(c), (e), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §§301(iii), (v), (vi), 302, Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §5(a), (b)(1), Mar. 17, 1970, 84 Stat. 71; Pub. L. 93–69, title I, §102(d)–(f), July 10, 1973, 87 Stat. 162, 163; Pub. L. 93–445, title V, §501, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–93, title II, §203, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§1903(a)(9), 1906(b)(13)(G), Oct. 4, 1976, 90 Stat. 1808, 1835; Pub. L. 97–34, title VII, §741(c), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(b), 222, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9032(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(c), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 107–90, title II, §§203(b), 204(a), Dec. 21, 2001, 115 Stat. 891.)
 
 #### Amendments
+
+<b>2001</b>—Subsec. (b). Pub. L. 107–90, §204(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In addition to other taxes, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 16.10 percent of the compensation paid during any calendar year by such employer for services rendered to such employer.”
+
+Subsecs. (c) to (e). Pub. L. 107–90, §203(b), redesignated subsec. (e) as (c) and struck out former subsecs. (c) and (d) which provided, in subsec. (c), for imposition of excise tax on every employer, with respect to having individuals in his employ, for each man-hour for which compensation was paid by such employer for services rendered to him during any calendar quarter, and for credit against such tax of amount equivalent in each month to the aggregate amount of reductions in supplemental annuities accruing in such month to employees of such employer, and, in subsec. (d), that such tax would not apply to an employer with respect to employees covered by a supplemental pension plan which is established pursuant to an agreement reached through collective bargaining between the employer and employees.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508 substituted “applicable” for “following” before “percentage of” and provision defining “applicable percentage” for provision specifying the tax rate to be 7.05 percent, 7.15 percent, 7.51 percent, and 7.65 percent in the case of compensation paid during 1985, 1986 or 1987, 1988 or 1989, or 1990 or thereafter, respectively.
 
@@ -60,7 +66,7 @@ Subsec. (e). Pub. L. 98–76, §222(b), added subsec. (e).
 
 Subsec. (b). Pub. L. 94–455, §1903(a)(9)(B), struck out “, with respect to compensation paid for services rendered after September 30, 1973,” after “shall be increased”, “of the Internal Revenue Code of 1954” after “by section 3111(a)” and “of such Code” after “by section 3111(b)”.
 
-Subsec. (c). Pub. L. 94–455, §§1903(a)(9)(C), 1906(b)(13)(G), struck out “(1) at the rate of two cents for the period beginning November 1, 1966, and ending March 31, 1970, and (2) commencing April 1, 1970,” after “during any calendar quarter,” , “commencing with the quarter beginning April 1, 1970” after “required for each calendar quarter”, “of the Treasury” after “representatives, and the Secretary” and “of the Treasury” after “shall certify to the Secretary”.
+Subsec. (c). Pub. L. 94–455, §§1903(a)(9)(C), 1906(b)(13)(G), struck out “(1) at the rate of two centsfor the period beginning November 1, 1966, and ending March 31, 1970, and (2) commencing April 1, 1970,” after “during any calendar quarter,” , “commencing with the quarter beginning April 1, 1970” after “required for each calendar quarter”, “of the Treasury” after “representatives, and the Secretary” and “of the Treasury” after “shall certify to the Secretary”.
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–93 substituted “compensation paid in any calendar month by such employer” for “compensation paid by such employer”.
 
@@ -90,11 +96,17 @@ Subsec. (b). Pub. L. 89–97 substituted “the rate of the tax imposed with res
 
 <b>1963</b>—Subsec. (a). Pub. L. 88–133 limited the existing taxable compensation base of $400 to any calendar month before Nov. 1963 and increased such base to $450 for any calendar month after Oct. 1963.
 
-<b>1959</b>—Subsec. (a). Pub. L. 86–28, §201(d)(1), (2)(A), (B), designated former provisions of section as subsec. (a),increased the tax from 61/4 percent of the compensation not in excess of $350 for any calendar month to 63/4 percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 71/4 percent for services rendered after Dec. 31, 1961, and substituted “after the month in which this provision was amended in 1959” for “after 1954” and for “after December 31, 1954” in six places, “not more than $400” for “not more than $350”, and “less than $400” for “less than $350”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–28, §201(d)(1), (2)(A), (B), designated former provisions of section as subsec. (a), increased the tax from 61/4 percent of the compensation not in excess of $350 for any calendar month to 63/4 percent of the compensation not in excess of $400 for any calendar month for services rendered before Jan. 1, 1962, and to 71/4 percent for services rendered after Dec. 31, 1961, and substituted “after the month in which this provision was amended in 1959” for “after 1954” and for “after December 31, 1954” in six places, “not more than $400” for “not more than $350”, and “less than $400” for “less than $350”.
 
 Subsec. (b). Pub. L. 86–28, §201(d)(2)(C), added subsec. (b).
 
 <b>1954</b>—Act Aug. 31, 1954, substituted “$350” for “$300” wherever appearing.
+
+#### Effective Date of 2001 Amendment
+
+Amendment by section 203(b) of Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 203(c) of Pub. L. 107–90, set out as a note under section 3211 of this title.
+
+Amendment by section 204(a) of Pub. L. 107–90 applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as an Effective and Termination Dates of 2001 Amendments note under section 24 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -156,5 +168,5 @@ Section 5(b)(2) of Pub. L. 91–215 provided that: “The amendment made by para
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 72, 3211, 3231, 6205, 6413 of this title; title 45 sections 231f–1, 231n, 231n–1; title 49 section 24104.
+This section is referred to in sections 72, 3231, 3241, 6205, 6413 of this title; title 45 sections 231f–1, 231n–1; title 49 section 24104.
 

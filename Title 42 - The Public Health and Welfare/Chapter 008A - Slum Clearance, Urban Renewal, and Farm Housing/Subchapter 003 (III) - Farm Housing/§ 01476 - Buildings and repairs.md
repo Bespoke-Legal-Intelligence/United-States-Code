@@ -24,7 +24,7 @@ The Secretary is further authorized to carry out a program of research, study, a
 
 #### (d) Research capacity within Farmers Home Administration; establishment; authority
 
-In order to carry out this section, the Secretary shall establish a research capacity within the Farmers Home Administration which shall have authority to undertake, or to contract with any public or private body to undertake, research authorized by this section.
+In order to carry out this section, the Secretary shall establish a research capacity withinthe Farmers Home Administration which shall have authority to undertake, or to contract with any public or private body to undertake, research authorized by this section.
 
 #### (e) Preparation and submission of estimates of housing needs
 

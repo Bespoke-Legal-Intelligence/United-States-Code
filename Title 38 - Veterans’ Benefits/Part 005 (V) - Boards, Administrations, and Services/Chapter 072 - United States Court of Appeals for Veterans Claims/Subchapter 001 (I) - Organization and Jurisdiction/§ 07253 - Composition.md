@@ -4,9 +4,13 @@
 
 Composition.—The Court of Appeals for Veterans Claims is composed of at least three and not more than seven judges, one of whom shall serve as chief judge in accordance with subsection (d).
 
-(b) The judges of the Court shall be appointed by the President, by and with the advice and consent of the Senate, solely on the grounds of fitness to perform the duties of the office. A person may not be appointed to the Court who is not a member in good standing of the bar of a Federal court or of the highest court of a State. Not more than the number equal to the next whole number greater than one-half of the number of judges of the Court may be members of the same political party.
+(b)
 
-(c) The term of office of the judges of the Court of Appeals for Veterans Claims shall be 15 years. A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.
+Appointment.—The judges of the Court shall be appointed by the President, by and with the advice and consent of the Senate, solely on the grounds of fitness to perform the duties of the office. A person may not be appointed to the Court who is not a member in good standing of the bar of a Federal court or of the highest court of a State. Not more than the number equal to the next whole number greater than one-half of the number of judges of the Court may be members of the same political party.
+
+(c)
+
+Term of Office.—The term of office of the judges of the Court of Appeals for Veterans Claims shall be 15 years. A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.
 
 (d)
 
@@ -36,11 +40,15 @@ Chief Judge.—(1) The chief judge of the Court shall be the judge of the Court 
 
 Salary.—Each judge of the Court shall receive a salary at the same rate as is received by judges of the United States district courts.
 
-(f)(1) A judge of the Court may be removed from office by the President on grounds of misconduct, neglect of duty, or engaging in the practice of law. A judge of the Court may not be removed from office by the President on any other ground.
+(f)
+
+Removal.—(1) A judge of the Court may be removed from office by the President on grounds of misconduct, neglect of duty, or engaging in the practice of law. A judge of the Court may not be removed from office by the President on any other ground.
 
 (2) Before a judge may be removed from office under this subsection, the judge shall be provided with a full specification of the reasons for the removal and an opportunity to be heard.
 
-(g)(1) The Court shall prescribe rules, consistent with the provisions of section 372(c) of title 28, establishing procedures for the filing of complaints with respect to the conduct of any judge of the Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Court shall have the powers granted to a judicial council under such section.
+(g)
+
+Rules.—(1) The Court shall prescribe rules, consistent with the provisions of section 372(c) of title 28, establishing procedures for the filing of complaints with respect to the conduct of any judge of the Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Court shall have the powers granted to a judicial council under such section.
 
 (2) The provisions of paragraphs (7) through (15) of section 372(c) of title 28, regarding referral or certification to, and petition for review in, the Judicial Conference of the United States and action thereon, shall apply to the exercise by the Court of the powers of a judicial council under paragraph (1) of this subsection. The grounds for removal from office specified in subsection (f)(1) shall provide a basis for a determination pursuant to paragraph (7) or (8) of section 372(c) of title 28, and certification and transmittal by the Conference shall be made to the President for consideration under subsection (f).
 
@@ -48,9 +56,35 @@ Salary.—Each judge of the Court shall receive a salary at the same rate as is 
 
 (B) The Court shall have the power provided under section 372(c)(16) of title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this subparagraph shall be made from funds appropriated to the Court.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595.)
+(h)
+
+Temporary Expansion of Court.—(1) During the period from January 1, 2002, through August 15, 2005, the authorized number of judges of the Court specified in subsection (a) is increased by two.
+
+(2)(A) Of the two additional judges authorized by this subsection—
+
+&emsp;(i) only one may be appointed pursuant to a nomination made in 2002; and
+
+&emsp;(ii) only one may be appointed pursuant to a nomination made in 2003.
+
+(B) If a judge is not appointed under this subsection pursuant to a nomination made in 2002, a judge may be appointed under this subsection pursuant to a nomination made in 2004. If a judge is not appointed under this subsection pursuant to a nomination made in 2003, a judge may be appointed under this subsection pursuant to a nomination made in 2004. In either case, such an appointment may be made only pursuant to a nomination made before October 1, 2004.
+
+(3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of Public Law 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) if the judge is one of the first two judges appointed to the Court after November 30, 1999.
+
+(4) A judge of the Court as of the date of the enactment of this subsection who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
+
+(5) Notwithstanding paragraph (1), an appointment may not be made to the Court if the appointment would result in there being more than seven judges on the Court who were appointed after January 1, 1997. For the purposes of this paragraph, a judge serving in recall status under section 7257 of this title shall be disregarded in counting the number of judges appointed to the Court after such date.
+
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998.)
+
+#### References in Text
+
+The date of the enactment of this subsection, referred to in subsec. (h)(4), is the date of enactment of Pub. L. 107–103, which was approved Dec. 27, 2001.
 
 #### Amendments
+
+2001—Subsecs. (b), (c), (f), (g). Pub. L. 107–103, §601(b), inserted subsec. headings.
+
+Subsec. (h). Pub. L. 107–103, §601(a), added subsec. (h).
 
 1999—Subsec. (a). Pub. L. 106–117, §1031, inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Court of Appeals for Veterans Claims shall be composed of a chief judge and at least two and not more than six associate judges.”
 

@@ -70,7 +70,7 @@ Participation by Other Interested Parties.—The chairman shall ensure that all 
 
 “(e)
 
-Information From Agencies.—The panel may request directly from any department or agency of theUnited States any information that the panel considers necessary to carry out a meaningful study of the policies and procedures described in subsection (a), including the Office of Management and Budget Circular A–76 process. To the extent consistent with applicable laws and regulations, the head of such department or agency shall furnish the requested information to the panel.
+Information From Agencies.—The panel may request directly from any department or agency of the United States any information that the panel considers necessary to carry out a meaningful study of the policies and procedures described in subsection (a), including the Office of Management and Budget Circular A–76 process. To the extent consistent with applicable laws and regulations, the head of such department or agency shall furnish the requested information to the panel.
 
 “(f)
 
@@ -184,7 +184,7 @@ Initial Decision.—Within 28 days after an executive agency receives a challeng
 
 &emsp;“(1) decide the challenge; and
 
-&emsp;“(2) transmit to the party submitting the challenge a written notification of the decision together with adiscussion of the rationale for the decision and an explanation of the party's right to appeal under subsection (e).
+&emsp;“(2) transmit to the party submitting the challenge a written notification of the decision together with a discussion of the rationale for the decision and an explanation of the party's right to appeal under subsection (e).
 
 “(e)
 
@@ -284,23 +284,27 @@ Pub. L. 104–316, title II, §201, Oct. 19, 1996, 110 Stat. 3842, provided that
 
 #### Department of Commerce Franchise Fund Pilot
 
-Pub. L. 106–553, §1(a)(2) \[title II, §208\], Dec. 21, 2000, 114 Stat. 2762, 2762A–79, provided in part: “That an amount not to exceed 4 percent of the total annual income to such fund \[Commerce franchise fund\] may be retained in the fund for fiscal year 2001 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, ADP, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2001 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[114 Stat. 2762, 2762A–104\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury: <i>Provided further</i>, That such franchise fund pilot program shall terminate pursuant to section 403(f) of Public Law 103–356 \[set out below\].”
+Pub. L. 107–77, title II, §207, Nov. 28, 2001, 115 Stat. 778, provided in part: “That an amount not to exceed 4 percent of the total annual income to such fund \[Commerce franchise fund\] may be retained in the fund for fiscal year 2002 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of department financial management, ADP, and other support systems: <i>Provided further</i>, That such amounts retained in the fund for fiscal year 2002 and each fiscal year thereafter shall be available for obligation and expenditure only in accordance with section 605 of this Act \[115 Stat. 798\]: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury: <i>Provided further</i>, That such franchise fund pilot program shall terminate pursuant to section 403(f) of Public Law 103–356 \[set out below\].”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–553, §1(a)(2) \[title II, §208\], Dec. 21, 2000, 114 Stat. 2762, 2762A–79.
 
 Pub. L. 106–113, div. B, §1000(a)(1) \[title II, §209\], Nov. 29, 1999, 113 Stat. 1535, 1501A–33.
 
 Pub. L. 105–277, div. A, §101(b) \[title II, §209\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–87.
 
-#### Department of the Interior Franchise Fund
+#### Department of the Interior Franchise Fund Pilot
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–200, as amended by Pub. L. 106–554, §1(a)(3) \[title I, §120\], Dec. 21, 2000, 114 Stat. 2763, 2763A–135, provided that: “There is hereby established in the Treasury a franchise fund until October 1, 2002 to be available without fiscal year limitation, for costs of capitalizing and operating administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automatic data processing (ADP) software and systems (either acquired or donated) and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of Department financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury.
+Pub. L. 104–208, div. A, title I, §101(d) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–200, provided that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for costs of capitalizing and operating administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automatic data processing (ADP) software and systems (either acquired or donated) and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment, and for the improvement and implementation of Department financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
 
-#### Department of the Treasury Franchise Fund Pilot
+#### Department of the Treasury Franchise Fund
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–316, provided in part that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses and equipment necessary for the maintenance and operation of such financial and administrative support services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with the payments, including advanced payments, from applicable appropriations and funds available to the Department and other Federal agencies for which such administrative and financial services are performed, at rates which will recover all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automatic Data Processing (ADP) software and systems, and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Treasury financial management, ADP, and other support systems: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
+Pub. L. 104–208, div. A, title I, §101(f) \[title I\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–316, as amended by Pub. L. 106–554, §1(a)(3) \[title I, §120\], Dec. 21, 2000, 114 Stat. 2763, 2763A–135, provided in part that: “There is hereby established in the Treasury a franchise fund until October 1, 2002 to be available without fiscal year limitation, for expenses and equipment necessary for the maintenance and operation of such financial and administrative support services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with the payments, including advanced payments, from applicable appropriations and funds available to the Department and other Federal agencies for which such administrative and financial services are performed, at rates which will recover all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automatic Data Processing (ADP) software and systems, and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed 4 percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Treasury financial management, ADP, and other support systems: <i>Provided further</i>, That no later than 30 days after the end of each fiscal year, amounts in excess of this reserve limitation shall be deposited as miscellaneous receipts in the Treasury.”
 
 #### Department of Veterans Affairs Franchise Fund Pilot
+
+Pub. L. 107–73, title I, §108, Nov. 26, 2001, 115 Stat. 658, provided that: “Notwithstanding any other provision of law, the Department of Veterans Affairs shall continue the Franchise Fund pilot program authorized to be established by section 403 of Public Law 103–356 \[set out below\] until October 1, 2002: <i>Provided</i>, That the Franchise Fund, established by title I of Public Law 104–204 \[set out below\] to finance the operations of the Franchise Fund pilot program, shall continue until October 1, 2002.”
 
 Pub. L. 104–204, title I, Sept. 26, 1996, 110 Stat. 2880, provided in part that: “There is hereby established in the Treasury a franchise fund pilot, as authorized by section 403 of Public Law 103–356 \[set out below\], to be available as provided in such section for expenses and equipment necessary for the maintenance and operation of such administrative services as the Secretary determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment and other assets pertaining to the services to be provided by the franchise fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize the franchise fund: <i>Provided further</i>, That the franchise fund may be paid in advance from funds available to the Department and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the Secretary: <i>Provided further</i>, That the franchise fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each fiscal year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of Departmental financial management, ADP, and other support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year amounts in excess of this reserve limitation shall be transferred to the Treasury: <i>Provided further</i>, That such franchise fund pilot shall terminate pursuant to section 403(f) of Public Law 103–356.”
 
@@ -314,11 +318,11 @@ Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, provided in part: 
 
 #### Franchise Fund Pilot Programs
 
-Pub. L. 103–356, title IV, §403, Oct. 13, 1994, 108 Stat. 3413, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §627\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–360, provided that:
+Pub. L. 103–356, title IV, §403, Oct. 13, 1994, 108 Stat. 3413, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §627\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–360; Pub. L. 107–67, title VI, §634, Nov. 12, 2001, 115 Stat. 553, provided that:
 
 “(a)
 
-Establishment.—There is authorized to be established on a pilot program basis in each of six executive agencies a franchise fund. The Director of the Office of Management and Budget, after consultationwith the chairman and ranking members of the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Operations \[now Committee on Government Reform\] of the House of Representatives, shall designate the agencies.
+Establishment.—There is authorized to be established on a pilot program basis in each of six executive agencies a franchise fund. The Director of the Office of Management and Budget, after consultation with the chairman and ranking members of the Committees on Appropriations and Governmental Affairs of the Senate, and the Committees on Appropriations and Government Operations \[now Committee on Government Reform\] of the House of Representatives, shall designate the agencies.
 
 “(b)
 
@@ -350,7 +354,7 @@ Procurement.—Nothing in this section shall be construed as relieving any agenc
 
 “(f)
 
-Termination.—The provisions of this section shall expire on October 1, 2001.”
+Termination.—The provisions of this section shall expire on October 1, 2002.”
 
 #### Simplification of Management Reporting Process
 
@@ -602,7 +606,7 @@ Domestic Council, established by Reorg. Plan No. 2 of 1970, §201, eff. July 1, 
 
 Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, as amended by Ex. Ord. No. 12013, Oct. 7, 1977, 42 F.R. 54931; Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States, includingsection 301 of Title 3 of the United States Code, and pursuant to Reorganization Plan No. 2 of 1970 (hereinafter referred to as “the Plan”) \[set out as a note under this section\], it is ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States, including section 301 of Title 3 of the United States Code, and pursuant to Reorganization Plan No. 2 of 1970 (hereinafter referred to as “the Plan”) \[set out as a note under this section\], it is ordered as follows:
 
 Section 1. (a) All functions transferred to the President of the United States by Part I of the Plan (including the function vested by section 102(f) of designating the officials of the Office of Management and Budget who shall act as Director during the absence or disability of the Deputy Director or in the event of a vacancy in the office of Deputy Director) are hereby delegated to the Director of the Office of Management and Budget in the Executive Office of the President. Such functions shall be carried out by the Director under the direction of the President and pursuant to such further instructions as the President from time to time may issue.
 
@@ -614,7 +618,7 @@ Section 1. (a) All functions transferred to the President of the United States b
 
 (1) Providing overall Executive Branch leadership, regulation, and guidance in executive personnel selection, development and management.
 
-(2) Studying and reporting on issues relating to position classification and the compensation of Federal civilian employees, including linkages among pay systems, and providing reports on average grade levels, work-years and personnel costs of Federal civilian employees.
+(2) Studying and reporting on issues relating to position classification and the compensation of Federal civilian employees, including linkages among pay systems, and providing reports on average grade levels,work-years and personnel costs of Federal civilian employees.
 
 (3) Providing primary Executive Branch leadership in (i) developing and reviewing a program of policy guidance to departments and agencies for the organization of management responsibility under the Federal Labor Relations program; and (ii) monitoring issues and trends in labor management relations for referral to appropriate Executive Branch officials including the Federal Labor Relations Council.
 
@@ -654,7 +658,7 @@ Sec. 2. There are hereby transferred to the Secretary of Commerce all functions 
 
 Sec. 3. (a) The functions transferred to the Administrator of the General Services Administration and to the Secretary of Commerce by this order do not include those performed in connection with the general oversight responsibilities of the Director of the Office of Management and Budget, as the head of that agency and as Assistant to the President for executive management, and the functions transferred by this order shall be performed subject to such general oversight to the same extent that other functions of the General Services Administration and the Department of Commerce, respectively, are so performed.
 
-(b) The functions vested in the President by the first sentence of section 111(g) of the Federal Property and Administrative Services Act of 1949, as amended \[former 40 U.S.C. 759(g)\], with respect to fiscal controlof automatic data processing activities shall continue to be performed by the Director of the Office of Management and Budget. No function vested by statute in the Director shall be deemed to be affected by the provisions of this order.
+(b) The functions vested in the President by the first sentence of section 111(g) of the Federal Property and Administrative Services Act of 1949, as amended \[former 40 U.S.C. 759(g)\], with respect to fiscal control of automatic data processing activities shall continue to be performed by the Director of the Office of Management and Budget. No function vested by statute in the Director shall be deemed to be affected by the provisions of this order.
 
 Sec. 4. So much of the personnel, property, records and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available, in connection with the functions transferred by this order as the Director of the Office of Management and Budget shall determine, shall be transferred to the Department of Commerce and the General Services Administration, respectively, at such times as the Director shall specify.
 
@@ -676,7 +680,7 @@ Ex. Ord. No. 12013, Oct. 7, 1977, 42 F.R. 54931, which related to transfer of ce
 
 Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to transfer certain functions from the Director of the Office of Management and Budget to the Office of Personnel Management, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order totransfer certain functions from the Director of the Office of Management and Budget to the Office of Personnel Management, it is hereby ordered as follows:
 
 Section 1. The following functions which heretofore have been performed by the Director of the Office of Management and Budget, either alone or in conjunction with the Office of Personnel Management, are hereby reassigned and delegated to the Office of Personnel Management:
 
@@ -812,7 +816,7 @@ Sec. 2. The Director of the Office of Management and Budget shall, to the extent
 
 (a) Issue guidance to departments and agencies to implement this Order. Such guidance shall be designed to ensure an equitable cost comparison of government-operated commercial activities with private industry performance of the same activities, and to improve the efficiency in the conduct of studies;
 
-(b) Publish for public review (i) not later than 30 days after its completion, the inventory of commercial activities identified pursuant to section 1(b) and the activities scheduled for study by departments and agencies in Fiscal Year 1988 pursuant to section 1(c); and (ii) not later than 30 days before the start of each successive fiscal year, the list of activities to be reviewed during that year pursuant to section 1(d); and
+(b) Publish for public review (i) not later than 30 days after its completion, the inventory of commercial activities identified pursuant to section 1(b) and the activities scheduled for study by departments and agencies in Fiscal Year 1988 pursuant to section 1(c); and (ii)not later than 30 days before the start of each successive fiscal year, the list of activities to be reviewed during that year pursuant to section 1(d); and
 
 (c) Establish a tracking system to monitor, on a quarterly basis, progress by departments and agencies in carrying out this Order.
 
@@ -868,7 +872,7 @@ Sec. 3. <i>Privatization Initiative</i>. To the extent permitted by law, the hea
 
 Sec. 4. <i>Criteria</i>. To the extent permitted by law, the head of an executive department or agency shall approve a request in accordance with section 3(c) of this order only if the grantee: (a) Agrees to use the proceeds described in section 3(c)(iii) of this order only for investment in additional infrastructure assets (after public notice of the proposed investment), or for debt or tax reduction; and
 
-(b) Demonstrates that a market mechanism, legally enforceable agreement, or regulatory mechanism will ensure that: (i) the infrastructure asset or assets will continue to be used for their originally authorized purposes, as long as needed for those purposes, even if the purchaser becomes insolvent or is otherwise hindered from fulfilling the originally authorized purposes; and (ii) user charges will be consistent with any current Federal conditions that protect users and the public by limiting the charges.
+(b) Demonstrates that a market mechanism, legally enforceable agreement, or regulatory mechanism will ensure that: (i) the infrastructure asset or assets will continue to be used for their originally authorized purposes, as long as needed for those purposes, even if thepurchaser becomes insolvent or is otherwise hindered from fulfilling the originally authorized purposes; and (ii) user charges will be consistent with any current Federal conditions that protect users and the public by limiting the charges.
 
 Sec. 5. <i>Government-wide Coordination and Review</i>. In implementing Executive Order Nos. 12291 and 12498 \[formerly set out under section 601 of Title 5, Government Organization and Employees\] and OMB Circular No. A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities, shall take action to ensure that the policies of the executive department and agencies are consistent with the principles, criteria, and requirements of this order. The Office of Management and Budget shall review the results of implementing this order and report thereon to the President 1 year after the date of this order.
 
@@ -940,7 +944,7 @@ Sec. 2. <i>Establishment of the Executive Council on Integrity and Efficiency.</
 
 Sec. 3. <i>Functions of the PCIE and the ECIE.</i>
 
-(a) The Councils shall continually identify, review, and discuss areas of weakness and vulnerability in Federal programs and operations to fraud, waste, and abuse, and shall develop plans for coordinated, Governmentwide activities that address these problems and promote economy and efficiency in Federal programs and operations. These activities will include interagency and inter-entity audit and investigation programs and projects to deal efficiently and effectively with those problems concerning fraud and waste thatexceed the capability or jurisdiction of an individual agency or entity. The Councils shall recognize the preeminent role of the Department of Justice in law enforcement and litigation.
+(a) The Councils shall continually identify, review, and discuss areas of weakness and vulnerability in Federal programs and operations to fraud, waste, and abuse, and shall develop plans for coordinated, Governmentwide activities that address these problems and promote economy and efficiency in Federal programs and operations. These activities will include interagency and inter-entity audit and investigation programs and projects to deal efficiently and effectively with those problems concerning fraud and waste that exceed the capability or jurisdiction of an individual agency or entity. The Councils shall recognize the preeminent role of the Department of Justice in law enforcement and litigation.
 
 (b) The Councils shall develop policies that will aid in the establishment of a corps of well-trained and highly skilled Office of Inspector General staff members.
 
@@ -1038,122 +1042,6 @@ Sec. 5. <i>Judicial Review</i>. This order is for the internal management of the
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Implementing Management Reform in Executive Branch
-
-Memorandum of President of the United States, Oct. 1, 1993, 58 F.R. 52393, provided:
-
-Memorandum for the Heads of Executive Departments and Agencies
-
-The National Performance Review has examined how well the government serves its citizens, where it can improve, and where it is necessary to make fundamental changes to make government work better. It has presented its findings and recommendations—including the adoption of new management principles and structural reforms—to improve government throughout the Executive branch.
-
-In order to establish and implement more effective and efficient leadership and management principles throughout the Executive branch as identified in the National Performance Review, I hereby direct the following:
-
-1\. <i>Establish Chief Operating Officers.</i>
-
-Each agency head shall designate a Chief Operating Officer, who shall be the Deputy or another official with agency-wide authority. The Chief Operating Officer shall report directly to the agency head and shall be responsible for:
-
-(a) implementing the President's and agency head's goals and the agency's mission;
-
-(b) providing overall organization management to improve agency performance;
-
-(c) assisting the agency head in promoting ongoing quality improvement, developing strategic plans, and measuring results;
-
-(d) directing ongoing reengineering of the agency's administrative processes;
-
-(e) overseeing agency-specific application of performance measures, procurement reforms, personnel reductions, financial management improvements, telecommunications and information technology policies, and other government-wide systems reforms adopted as a result of the recommendations of the National Performance Review; and
-
-(f) reforming the agency's management practices by incorporating the principles of the National Performance Review into day-to-day management.
-
-2\. <i>Implement Additional Agency Reforms.</i>
-
-Each agency head shall identify and implement additional changes within the agency that will promote the principles and standards of the National Performance Review and the strategic and quality management approaches described by the Federal Quality Institute's “Presidential Award for Quality” or its successor award(s).
-
-3\. <i>Establishment of President's Management Council.</i>
-
-In order to advise and assist the President and the Vice President in ensuring that the reforms adopted as a result of the National Performance Review are implemented throughout the Executive branch, I hereby establish the President's Management Council (“The Council”). The Council shall comprise the:
-
-(a) The Deputy Director for Management, Office of Management and Budget;
-
-(b) The Chief Operating Officers from the following agencies:
-
-&emsp;(1) Department of State;
-
-&emsp;(2) Department of the Treasury;
-
-&emsp;(3) Department of Defense;
-
-&emsp;(4) Department of Justice;
-
-&emsp;(5) Department of the Interior;
-
-&emsp;(6) Department of Agriculture;
-
-&emsp;(7) Department of Commerce;
-
-&emsp;(8) Department of Labor;
-
-&emsp;(9) Department of Health and Human Services;
-
-&emsp;(10) Department of Housing and Urban Development;
-
-&emsp;(11) Department of Transportation;
-
-&emsp;(12) Department of Energy;
-
-&emsp;(13) Department of Education;
-
-&emsp;(14) Department of Veterans Affairs;
-
-&emsp;(15) Environmental Protection Agency;
-
-(c) The following central management agency representatives:
-
-&emsp;(1) Director of the Office of Personnel Management;
-
-&emsp;(2) Administrator of General Services;
-
-(d) Chief Operating Officers of three other Executive branch agencies designated by the Chairperson, in his or her discretion;
-
-(e) Secretary of the Cabinet; and
-
-(f) Such other officials of Executive departments and agencies as I may, from time to time, designate.
-
-The Deputy Director for Management of the Office of Management and Budget shall serve as Chairperson of the Council. The Chairperson of the Council shall appoint a Vice-Chairperson from the Council's membership to assist the Chairperson in conducting the affairs of the Council.
-
-I also establish an Executive Committee of the Council. Members of the Executive Committee shall be: the Chairperson; the Vice Chairperson; the two central management agency representatives; two Chief Operating Officers serving on the Council, whom I shall designate, and any additional Council members whom I may, from time to time, designate.
-
-The Chairperson shall convene meetings of the Council, which shall be held at least once a month.
-
-The functions of the Council shall include, among others:
-
-(a) improving overall Executive branch management, including reform of government-wide management systems, such as management controls, financial management, personnel, budgeting, and procurement;
-
-(b) coordinating management-related efforts to improve government throughout the Executive branch and, as necessary, resolving specific interagency management issues;
-
-(c) ensuring the adoption of new management practices in agencies throughout the Executive branch; and
-
-(d) identifying examples of, and providing mechanisms for, interagency exchange of information about best management practices.
-
-The Council shall be provided with appropriate staff support and other resources as may be necessary to carry out its duties. In addition, the Federal Quality Institute shall serve as a resource to the Council.
-
-The Council shall seek advice and information as appropriate from nonmember Federal agencies, particularly smaller agencies. The Council shall also consider the management reform experience of corporations, nonprofit organizations, State and local governments, government employees, public sector unions, and customers of government services.
-
-Agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
-
-4\. <i>Independent Agencies.</i>
-
-Independent agencies are requested to adhere to this directive.
-
-5\. <i>Judicial Review.</i>
-
-This directive is for the internal management of the Executive branch and does not create any right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
-
-6\. <i>Publication.</i>
-
-The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 #### Ex. Ord. No. 12893. Principles for Federal Infrastructure Investments
 
 Ex. Ord. No. 12893, Jan. 26, 1994, 59 F.R. 4233, provided:
@@ -1200,7 +1088,7 @@ Sec. 5. <i>Application to Legislative Proposals</i>. Beginning March 15, 1994, a
 
 Sec. 6. <i>Guidance</i>. The Office of Management and Budget shall provide guidance to the agencies on the implementation of this order.
 
-Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executivebranch and does not create any right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 7. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1295,4 +1183,136 @@ Sec. 4. <i>Judicial Review</i>. This order is for the internal management of the
 Sec. 5. <i>Revocation</i>. Executive Order 12816 (creating the President's Council on Management Improvement), Executive Order 12552 (establishing the executive branch productivity improvement program) and Executive Order 12637 (revising the executive branch productivity improvement program) are revoked.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Implementing Management Reform in Executive Branch
+
+Memorandum of President of the United States, Oct. 1, 1993, 58 F.R. 52393, which directed the head of executive departments and agencies, and requested independent agencies, to establish a chief operating officer and implement additional agency management reforms and established the President's Management Council to advise and assist the President and Vice President in ensuring that such reforms were implemented, was revoked by Memorandum of President of the United States, July 11, 2001, 66 F.R. 37105, set out below.
+
+#### Implementing Government Reform
+
+Memorandum of President of the United States, July 11, 2001, 66 F.R. 37105, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Throughout the campaign and in my Budget, I have called for “active, but limited” Government: one that empowers States, cities, and citizens to make decisions; ensures results through accountability; and promotes innovation through competition. Thus, if reform is to help the Federal Government adapt to a rapidly changing world, its primary objectives must be a Government that is:
+
+&emsp;• Citizen-centered—not bureaucracy centered;
+
+&emsp;• Results-oriented—not process-oriented; and
+
+&emsp;• Market-based—actively promoting, not stifling, innovation and competition.
+
+In order to establish and implement Government reform throughout the executive branch, I hereby direct the following:
+
+1\. <i>Establish Chief Operating Officers.</i>
+
+Each agency head shall designate a Chief Operating Officer, who shall be the senior official with agency-wide authority on behalf of the Secretary or agency head. The Chief Operating Officer, the equivalent of the Deputy Secretary, shall report directly to the agency head and shall be responsible for:
+
+&emsp;(a) implementing the President's and agency head's goals and the agency's mission;
+
+&emsp;(b) providing overall organization management to improve agency performance;
+
+&emsp;(c) assisting the agency head in promoting Government reform, developing strategic plans, and measuring results; and
+
+&emsp;(d) overseeing agency-specific efforts to integrate performance and budgeting, expand competitive sourcing, strengthen their workforce, improve financial management, advance e-government, apply information policy and technology policies, and other Government-wide management reforms.
+
+2\. <i>Implement Additional Agency Reforms.</i>
+
+Each agency head shall identify and implement additional changes within the agency that will promote the principles of government reform.
+
+3\. <i>Establishment of President's Management Council.</i>
+
+In order to advise and assist the President in ensuring that Government reform is implemented throughout the executive branch, I hereby establish the President's Management Council (“Council”). The Council shall comprise:
+
+&emsp;(a) The Deputy Director, Office of Management and Budget;
+
+&emsp;(b) The Chief Operating Officers from the following agencies:
+
+&emsp;&emsp;(1) Department of State;
+
+&emsp;&emsp;(2) Department of the Treasury;
+
+&emsp;&emsp;(3) Department of Defense;
+
+&emsp;&emsp;(4) Department of Justice;
+
+&emsp;&emsp;(5) Department of the Interior;
+
+&emsp;&emsp;(6) Department of Agriculture;
+
+&emsp;&emsp;(7) Department of Commerce;
+
+&emsp;&emsp;(8) Department of Labor;
+
+&emsp;&emsp;(9) Department of Health and Human Services;
+
+&emsp;&emsp;(10) Department of Housing and Urban Development;
+
+&emsp;&emsp;(11) Department of Transportation;
+
+&emsp;&emsp;(12) Department of Energy;
+
+&emsp;&emsp;(13) Department of Education; and
+
+&emsp;&emsp;(14) Department of Veterans Affairs.
+
+&emsp;(c) The following central management agency representatives:
+
+&emsp;&emsp;(1) Director of the Office of Personnel Management;
+
+&emsp;&emsp;(2) Administrator of General Services;
+
+&emsp;(d) Chief Operating Officers of the following agencies:
+
+&emsp;&emsp;(1) Environmental Protection Agency;
+
+&emsp;&emsp;(2) National Aeronautics and Space Administration;
+
+&emsp;&emsp;(3) National Science Foundation;
+
+&emsp;&emsp;(4) Social Security Administration; and
+
+&emsp;&emsp;(5) Federal Emergency Management Agency.
+
+&emsp;(e) Chief Operating Officers of three other executive branch agencies designated by the Chairperson, in his or her discretion;
+
+&emsp;(f) Assistant to the President and Cabinet Secretary;
+
+&emsp;(g) Deputy Assistant to the President for Management and Administration; and
+
+&emsp;(h) Deputy Chief of Staff to the Vice President; and
+
+&emsp;(i) Such other officials of the executive departments and agencies as the Director of the Office of Management and Budget or I may, from time to time, designate.
+
+The Deputy Director of the Office of Management and Budget shall serve as Chairperson of the Council. The Chairperson of the Council may appoint a Vice-Chairperson from the Council's membership to assist the Chairperson in conducting affairs of the Council.
+
+&emsp;The functions of the Council shall include, among others:
+
+&emsp;(a) improving overall executive branch management, including implementation of the President's Management Agenda;
+
+&emsp;(b) coordinating management-related efforts to improve Government throughout the executive branch and, as necessary, resolving specific interagency management issues;
+
+&emsp;(c) ensuring the adoption of new management practices in agencies throughout the executive branch; and
+
+&emsp;(d) identifying examples of, and providing mechanisms for, interagency exchange of information about best management practices.
+
+The Council shall seek advice and information as appropriate from nonmember Federal agencies, particularly smaller agencies. The Council shall also consider the management reform experience of corporations, nonprofit organizations, State and local governments, Government employees, public sector unions, and customers of Government services.
+
+Agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
+
+4\. <i>Independent Agencies.</i>
+
+Independent agencies are requested to comply with this memorandum.
+
+5\. <i>Revocation and Judicial Review.</i>
+
+&emsp;(a) the memorandum of October 1, 1993, entitled “Implementing Management Reform in the Executive Branch” is revoked.
+
+&emsp;(b) this memorandum is for the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+6\. <i>Publication.</i>
+
+The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

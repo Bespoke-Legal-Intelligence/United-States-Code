@@ -86,5 +86,5 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 629d of this title.
+This section is referred to in sections 629c, 629d, 629f of this title.
 

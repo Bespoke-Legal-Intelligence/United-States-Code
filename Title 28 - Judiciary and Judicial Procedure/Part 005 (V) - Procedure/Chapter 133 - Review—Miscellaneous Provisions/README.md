@@ -22,7 +22,7 @@
 
 #### 1949 Act
 
-This section inserts in the chapter analysis of chapter 133 of title 28, U.S.C., a new item “2111,” in view ofthe insertion in such title, by another section of this bill, of a new section 2111.
+This section inserts in the chapter analysis of chapter 133 of title 28, U.S.C., a new item “2111,” in view of the insertion in such title, by another section of this bill, of a new section 2111.
 
 #### Amendments
 

@@ -42,7 +42,7 @@ The Secretary may from time to time make such provisions as he shall deem approp
 
 (2) The Bureau of State Services, including the office of Chief of the Bureau of State Services.
 
-(3) The agency designated as the National Institutes of Health (42 U.S.C. 203), including the office of Director of the National Institutes of Health (42 U.S.C. 206(b)) but excluding the several research Institutes in the agency designated as the National Institutes of Health.
+(3) The agency designated as the National Institutes of Health (42 U.S.C. 203), including the office of Directorof the National Institutes of Health (42 U.S.C. 206(b)) but excluding the several research Institutes in the agency designated as the National Institutes of Health.
 
 (4) The agency designated as the Office of the Surgeon General (42 U.S.C. 203(1)), together with the office held by the Deputy Surgeon General (42 U.S.C. 206(a)).
 
@@ -128,7 +128,7 @@ To secure the highest possible level of health services for the American people 
 
 He must also have the authority to coordinate health functions throughout the Department. The reorganization plan I propose will accomplish these purposes. It will provide the Secretary with the flexibility to create new and responsive organizational arrangements to keep pace with the changing and dynamic nature of our health programs.
 
-My views in this respect follow a basic principle of good government set by the Hoover Commission in 1949 when it recommended that “the Department head should be given authority to determine the organization within his Department.”
+My views in this respect follow a basic principle of good government set by the Hoover Commission in 1949when it recommended that “the Department head should be given authority to determine the organization within his Department.”
 
 #### IV
 
@@ -150,7 +150,7 @@ In summary, the reorganization plan would:
 
 #### V
 
-I have found, after investigation, that each reorganization included in the accompanying reorganizationplan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
+I have found, after investigation, that each reorganization included in the accompanying reorganization plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
 Should the reorganizations in the accompanying reorganization plan take effect, they will make possible more effective and efficient administration of the affected health programs. It is, however, not practicable at this time to itemize the reductions in expenditures which may result.
 

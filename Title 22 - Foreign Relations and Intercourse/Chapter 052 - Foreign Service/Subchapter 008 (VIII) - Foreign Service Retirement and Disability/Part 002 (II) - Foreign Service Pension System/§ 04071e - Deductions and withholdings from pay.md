@@ -2,7 +2,7 @@
 
 #### (a) Basic pay
 
-(1) The employing agency shall deduct and withhold from the basic pay of each participant the applicable percentage of basic pay specifiedin paragraph (2) of this subsection minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors, and disability insurance).
+(1) The employing agency shall deduct and withhold from the basic pay of each participant the applicable percentage of basic pay specified in paragraph (2) of this subsection minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors, and disability insurance).
 
 (2) The applicable percentage under this subsection shall be as follows:
 

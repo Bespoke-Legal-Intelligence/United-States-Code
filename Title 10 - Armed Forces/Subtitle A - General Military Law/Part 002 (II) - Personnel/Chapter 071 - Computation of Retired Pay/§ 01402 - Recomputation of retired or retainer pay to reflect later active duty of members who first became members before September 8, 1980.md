@@ -20,7 +20,7 @@
 
 &emsp;(1) was retired for physical disability under section 1201 or 1204 of this title or any other law or whose name is on the temporary disability retired list;
 
-&emsp;(2) incurs, while on active duty after retirement or after his name was placed on that list, a physical disability that is in addition to or that aggravates the physical disability for which he was retired or for which his name was placed on the temporary disability retired list; and
+&emsp;(2) incurs, while on active duty after retirement or after his name was placed on that list, a physical disability that is in addition to or that aggravates the physical disability for which he was retired or for which his namewas placed on the temporary disability retired list; and
 
 &emsp;(3) is qualified under section 1201, 1202, 1204, or 1205 of this title;
 
@@ -102,7 +102,7 @@ Subsec. (d). Pub. L. 99–348, §201(b)(3), struck out provision that if the amo
 
 1983—Subsec. (a). Pub. L. 98–94, §922(a)(3), substituted “according to the following table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
-Pub. L. 98–94, §923(a)(1), (2)(B), in footnote 2 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to thenumber of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
+Pub. L. 98–94, §923(a)(1), (2)(B), in footnote 2 of table, substituted “Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month” for “Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months”.
 
 Subsec. (d). Pub. L. 98–94, §922(a)(4), substituted “according to the following table. The amount computed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.” for “as follows:”.
 
@@ -160,7 +160,7 @@ Pub. L. 98–525, title VI, §655, Oct. 19, 1984, 98 Stat. 2552, provided that:
 
 “(b) The retired or retainer pay of a member of the Armed Forces described in subsection (a) shall be the amount determined under section 1402(a) of title 10, United States Code (as modified with respect to such member by subsection (a)), and increased by the amount by which the member's retired or retainer pay would have been increased during the period beginning on the date of the member's release from active duty referred to in subsection (a)(4) and ending on the day before the day on which this section becomes effective had subsection (a) applied in the case of the member at the time of that release from active duty.
 
-“(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date of the enactment of this Act \[Oct. 19, 1984\], whichever is later.”
+“(c) This section shall apply only with respect to retired pay and retainer pay payable for months beginning after September 30, 1984, or on or after the date ofthe enactment of this Act \[Oct. 19, 1984\], whichever is later.”
 
 #### Retired Pay and Retainer Pay; Prohibition Against Recomputation Under 1963 Pay Rates; Exceptions; Increments Based on the Greater of a 5 Percent Increase or Recomputation Under 1958 Pay Rates for Members Retired Prior to October 1949 for Reasons Other Than Physical Disability, Members Receiving Retired Pay Under Career Compensation Act of 1949 and Former Chiefs of Staff; Additional 5 Percent Increase for Other Retired Members; Exclusion From Increase of Officers Retired Under Certain Provisions
 

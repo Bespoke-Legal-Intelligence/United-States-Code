@@ -40,11 +40,11 @@
 
 &emsp;&emsp;(A) appropriated for those programs for the fiscal year in which the report is submitted; and
 
-&emsp;&emsp;(B) requested, or proposed to be requested, for those programs for each of the 2 fiscalyears following the fiscal year for which the report is submitted; and
+&emsp;&emsp;(B) requested, or proposed to be requested, for those programs for each of the 2 fiscal years following the fiscal year for which the report is submitted; and
 
 &emsp;(8) a description of each weapon system or other military equipment originally developed or procured in the United States and that is being developed or procured by members of the Organization other than the United States during the fiscal year for which the report is submitted.
 
-(e) If the Secretary decides that procurement of equipment manufactured outside the United States is necessary to carry out the policy of subsection (a), the Secretary may determine under section 2 of the Buy American Act (41 U.S.C. 10a) that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
+(e) If the Secretary decides that procurement of equipment manufactured outside the UnitedStates is necessary to carry out the policy of subsection (a), the Secretary may determine under section 2 of the Buy American Act (41 U.S.C. 10a) that acquiring that equipment manufactured in the United States is inconsistent with the public interest.
 
 (f) The Secretary shall submit the results of each assessment and evaluation made under subsection (a)(1) and (2) to the appropriate North Atlantic Treaty Organization body to become an integral part of the overall Organization review of force goals and development of force plans.
 
@@ -164,5 +164,5 @@ In subsection (f), the words “The Secretary shall submit the results of these 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2350a of this title.
+This section is referred to in sections 2350a, 2533a of this title.
 

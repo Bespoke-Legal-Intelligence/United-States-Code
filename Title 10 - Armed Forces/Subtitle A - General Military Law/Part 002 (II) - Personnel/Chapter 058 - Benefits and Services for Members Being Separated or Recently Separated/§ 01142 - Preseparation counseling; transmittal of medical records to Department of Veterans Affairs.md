@@ -2,9 +2,17 @@
 
 (a)
 
-Requirement.—(1) As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member. A notation of the provision of such counseling with respect to each matter specified in subsection (b),signed by the member, shall be placed in the service record of each member receiving such counseling.
+Requirement.—(1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whose discharge or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
 
 (2) In carrying out this section, the Secretary concerned may use the services available under section 1144 of this title.
+
+(3)(A) In the case of an anticipated retirement, preseparation counseling shall commence as soon as possible during the 24-month period preceding the anticipated retirement date. In the case of a separation other than a retirement, preseparation counseling shall commence as soon as possible during the 12-month period preceding the anticipated date. Except as provided in subparagraph (B), in no event shall preseparation counseling commence later than 90 days before the date of discharge or release.
+
+(B) In the event that a retirement or other separation is unanticipated until there are 90 or fewer days before the anticipated retirement or separation date, preseparation counseling shall begin as soon as possible within the remaining period of service.
+
+(4)(A) Subject to subparagraph (B), the Secretary concerned shall not provide preseparation counseling to a member who is being discharged or released before the completion of that member's first 180 days of active duty.
+
+(B) Subparagraph (A) shall not apply in the case of a member who is being retired or separated for disability.
 
 (b)
 
@@ -34,13 +42,17 @@ Matters To Be Covered By Counseling.—Counseling under this section shall inclu
 
 Transmittal of Medical Information to Department of Veterans Affairs.—In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member's service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991.)
 
 #### References in Text
 
 The Troops-to-Teachers Program Act of 1999, referred to in subsec. (b)(4), is title XVII of div. A of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 817, which is classified principally to chapter 74 (§9301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 9301(a) of Title 20 and Tables.
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member.”
+
+Subsec. (a)(3), (4). Pub. L. 107–103, §302(a)(2), added pars. (3) and (4).
 
 2000—Subsec. (b)(4). Pub. L. 106–398 substituted “sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)” for “sections 1151, 1152, and 1153 of this title”.
 

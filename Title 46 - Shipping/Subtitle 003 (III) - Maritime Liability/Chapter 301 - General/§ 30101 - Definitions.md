@@ -22,7 +22,7 @@ In this subtitle—
 
 &emsp;(8) “United States”, when used in a geographic sense, means the States of the United States, Guam, Puerto Rico, the Virgin Islands, American Samoa, the District of Columbia, the Northern Mariana Islands, and any other territory or possession of the United States; and
 
-&emsp;(9) “vessel of the United States” means a vessel documented under chapter 121 of this title, numbered under chapter 123 of this title, or titled under the law of a State.
+&emsp;(9) “vessel of the United States” means a vessel documented under chapter 121 of thistitle, numbered under chapter 123 of this title, or titled under the law of a State.
 
 (Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4738.)
 

@@ -48,7 +48,7 @@ Availability of Obligation Limitation.—Obligation authority attributable to fu
 
 (h)
 
-Treatment.—Funds allocated to a State in accordance with this section shall be treated asamounts in addition to the amounts a State is apportioned under sections 104, 105, and 144 for programmatic purposes.
+Treatment.—Funds allocated to a State in accordance with this section shall be treated as amounts in addition to the amounts a State is apportioned under sections 104, 105, and 144 for programmatic purposes.
 
 (Added Pub. L. 105–178, title I, §1601(a), June 9, 1998, 112 Stat. 255; amended Pub. L. 106–346, §101(a) \[title III, §363\], Oct. 23, 2000, 114 Stat. 1356, 1356A–36.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Good Samaritan protections regarding AEDs
 
-Except as provided in subsection (b) of this section, any person who uses or attempts to use an automated external defibrillator device on avictim of a perceived medical emergency is immune from civil liability for any harm resulting from the use or attempted use of such device; and in addition, any person who acquired the device is immune from such liability, if the harm was not due to the failure of such acquirer of the device—
+Except as provided in subsection (b) of this section, any person who uses or attempts to use an automated external defibrillator device on a victim of a perceived medical emergency is immune from civil liability for any harm resulting from the use or attempted use of such device; and in addition, any person who acquired the device is immune from such liability, if the harm was not due to the failure of such acquirer of the device—
 
 &emsp;(1) to notify local emergency response personnel or other appropriate entities of the most recent placement of the device within a reasonable period of time after the device was placed;
 
@@ -70,7 +70,7 @@ In any civil action arising under State law, the courts of the State involved ha
 
 &emsp;&emsp;&emsp;(i) is commercially distributed in accordance with the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\];
 
-&emsp;&emsp;&emsp;(ii) is capable of recognizing the presence or absence of ventricular fibrillation, andis capable of determining without intervention by the user of the device whether defibrillation should be performed;
+&emsp;&emsp;&emsp;(ii) is capable of recognizing the presence or absence of ventricular fibrillation, and is capable of determining without intervention by the user of the device whether defibrillation should be performed;
 
 &emsp;&emsp;&emsp;(iii) upon determining that defibrillation should be performed, is able to deliver an electrical shock to an individual; and
 

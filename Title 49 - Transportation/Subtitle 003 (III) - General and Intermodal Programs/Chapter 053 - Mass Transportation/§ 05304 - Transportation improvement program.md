@@ -26,7 +26,7 @@ Contents.—A transportation improvement program for a metropolitan area shall i
 
 &emsp;&emsp;(C) identifies innovative financing techniques to finance projects, programs, and strategies; and
 
-&emsp;&emsp;(D) may include, for illustrative purposes, additional projects that would be included in the approved transportation improvementprogram if reasonable additional resources beyond those identified in the financial plan were available.
+&emsp;&emsp;(D) may include, for illustrative purposes, additional projects that would be included in the approved transportation improvement program if reasonable additional resources beyond those identified in the financial plan were available.
 
 (c)
 

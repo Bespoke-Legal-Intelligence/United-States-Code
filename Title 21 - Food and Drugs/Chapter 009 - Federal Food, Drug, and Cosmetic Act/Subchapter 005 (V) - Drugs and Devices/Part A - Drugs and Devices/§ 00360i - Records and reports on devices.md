@@ -72,7 +72,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;(B) a communication to a manufacturer of a device which is the subject of a report under paragraph (1).
 
-> This paragraph does not prohibit the Secretary from disclosing the identity of a device user facility making a report under paragraph (1) or any information in such a report to employees of the Department of Health and Human Services, to the Department of Justice, or to the duly authorized committees and subcommittees of the Congress.
+> This paragraph does not prohibit the Secretary from disclosing the identity of a device user facility making a report under paragraph (1) or any information in such a report to employeesof the Department of Health and Human Services, to the Department of Justice, or to the duly authorized committees and subcommittees of the Congress.
 
 (3) No report made under paragraph (1) by—
 
@@ -82,7 +82,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;(C) a physician who is not required to make such a report,
 
-> shall be admissible into evidence or otherwise used in any civil action involving private partiesunless the facility, individual, or physician who made the report had knowledge of the falsity of the information contained in the report.
+> shall be admissible into evidence or otherwise used in any civil action involving private parties unless the facility, individual, or physician who made the report had knowledge of the falsity of the information contained in the report.
 
 (4) A report made under paragraph (1) does not affect any obligation of a manufacturer who receives the report to file a report as required under subsection (a) of this section.
 
@@ -150,7 +150,7 @@ Subsection (a) of this section shall not apply to—
 
 (3) For purposes of paragraphs (1) and (2), the terms “correction” and “removal” do not include routine servicing.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347.)
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28,1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347.)
 
 #### Amendments
 
@@ -244,13 +244,13 @@ Section 3(b)(3) of Pub. L. 101–629, as amended by Pub. L. 102–300, §2(a)(1)
 
 #### Regulations
 
-Section 2(b) of Pub. L. 101–629 provided that: “The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information.”
+Section 2(b) of Pub. L. 101–629 provided that: “The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act\[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information.”
 
 Section 3(c) of Pub. L. 101–629, as amended by Pub. L. 102–300, §2(a)(2), (3), June 16, 1992, 106 Stat. 238, provided that:
 
 “(1)(A) Not later than 9 months after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Health and Human Services shall issue proposed regulations—
 
-&emsp;“(i) to require distributors of devices to establish and maintain records and to make reports (includingreports required by part 803 of title 21 of the Code of Federal Regulations) under section 519(a)(6) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(a)(6)\], and
+&emsp;“(i) to require distributors of devices to establish and maintain records and to make reports (including reports required by part 803 of title 21 of the Code of Federal Regulations) under section 519(a)(6) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(a)(6)\], and
 
 &emsp;“(ii) to implement section 519(e) of such Act.
 

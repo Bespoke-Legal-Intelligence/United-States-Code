@@ -12,7 +12,7 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 #### (3) Housing services
 
-&emsp;The provision of housing-related services for affordable housing, such as housing counselingin connection with rental or homeownership assistance, establishment and support of resident organizations and resident management corporations, energy auditing, activities related to the provision of self-sufficiency and other services, and other services related to assisting owners, tenants, contractors, and other entities, participating or seeking to participate in other housing activities assisted pursuant to this section.
+&emsp;The provision of housing-related services for affordable housing, such as housing counseling in connection with rental or homeownership assistance, establishment and support of resident organizations and resident management corporations, energy auditing, activities related to the provision of self-sufficiency and other services, and other services related to assisting owners, tenants, contractors, and other entities, participating or seeking to participate in other housing activities assisted pursuant to this section.
 
 #### (4) Housing management services
 

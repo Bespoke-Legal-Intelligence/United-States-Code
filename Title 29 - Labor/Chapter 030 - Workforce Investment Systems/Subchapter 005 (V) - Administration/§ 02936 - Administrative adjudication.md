@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Whenever any applicant for financial assistance under this chapter is dissatisfied becausethe Secretary has made a determination not to award financial assistance in whole or in part to such applicant, the applicant may request a hearing before an administrative law judge of the Department of Labor. A similar hearing may also be requested by any recipient for whom a corrective action has been required or a sanction has been imposed by the Secretary under section 2934 of this title.
+Whenever any applicant for financial assistance under this chapter is dissatisfied because the Secretary has made a determination not to award financial assistance in whole or in part to such applicant, the applicant may request a hearing before an administrative law judge of the Department of Labor. A similar hearing may also be requested by any recipient for whom a corrective action has been required or a sanction has been imposed by the Secretary under section 2934 of this title.
 
 #### (b) Appeal
 

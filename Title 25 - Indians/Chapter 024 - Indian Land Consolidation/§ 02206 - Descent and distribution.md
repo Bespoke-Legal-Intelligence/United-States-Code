@@ -72,7 +72,7 @@
 
 #### (1) Testate
 
-&emsp;If a testator devises interests in the same parcel of trust or restricted lands to more than 1 person, in the absence of express language in the devise to the contrary, the devise shall be presumed to create joint tenancy with the right of survivorship in the land involved.
+&emsp;If a testator devises interests in the same parcel of trust or restricted lands to morethan 1 person, in the absence of express language in the devise to the contrary, the devise shall be presumed to create joint tenancy with the right of survivorship in the land involved.
 
 #### (2) Intestate
 

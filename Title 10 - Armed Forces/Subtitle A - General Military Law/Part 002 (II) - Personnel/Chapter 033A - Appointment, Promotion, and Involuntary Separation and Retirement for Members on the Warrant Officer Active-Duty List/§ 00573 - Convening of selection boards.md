@@ -14,7 +14,7 @@
 
 (f) The Secretary concerned shall prescribe all other matters relating to the functions and duties of the boards, including the number of members constituting a quorum, and instructions concerning notice of convening of boards and communications with boards.
 
-(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L.103–337, div. A, title V, §541(b)(1), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–106, div. A, title XV, §1503(a)(5), Feb. 10, 1996, 110 Stat. 511.)
+(Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1493; amended Pub. L. 103–337, div. A, title V, §541(b)(1), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–106, div. A, title XV, §1503(a)(5), Feb. 10, 1996, 110 Stat. 511.)
 
 #### Prior Provisions
 
@@ -34,5 +34,5 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 574, 575, 576, 577, 580, 580a, 581, 583 of this title.
+This section is referred to in sections 574, 575, 576, 577, 580, 580a, 581, 583, 1558 of this title.
 

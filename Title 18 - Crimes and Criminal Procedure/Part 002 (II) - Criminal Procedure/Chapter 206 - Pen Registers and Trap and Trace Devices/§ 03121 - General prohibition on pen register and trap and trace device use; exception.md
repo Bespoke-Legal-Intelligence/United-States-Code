@@ -10,23 +10,25 @@ Exception.—The prohibition of subsection (a) does not apply with respect to th
 
 &emsp;(1) relating to the operation, maintenance, and testing of a wire or electronic communication service or to the protection of the rights or property of such provider, or to the protection of users of that service from abuse of service or unlawful use of service; or
 
-&emsp;(2) to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire communication, or a user of that service, from fraudulent, unlawful or abusive use of service; or (3) where the consent of the user of that service has been obtained.
+&emsp;(2) to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire communication, or auser of that service, from fraudulent, unlawful or abusive use of service; or (3) where the consent of the user of that service has been obtained.
 
 (c)
 
-Limitation.—A government agency authorized to install and use a pen register under this chapter or under State law shall use technology reasonably available to it that restricts the recording or decoding of electronic or other impulses to the dialing and signaling information utilized in call processing.
+Limitation.—A government agency authorized to install and use a pen register or trap and trace device under this chapter or under State law shall use technology reasonably available to it that restricts the recording or decoding of electronic or other impulses to the dialing, routing, addressing, and signaling information utilized in the processing and transmitting of wire or electronic communications so as not to include the contents of any wire or electronic communications.
 
 (d)
 
 Penalty.—Whoever knowingly violates subsection (a) shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1868; amended Pub. L. 103–414, title II, §207(b), Oct. 25, 1994, 108 Stat. 4292.)
+(Added Pub. L. 99–508, title III, §301(a), Oct. 21, 1986, 100 Stat. 1868; amended Pub. L. 103–414, title II, §207(b), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 107–56, title II, §216(a), Oct. 26, 2001, 115 Stat. 288.)
 
 #### References in Text
 
 The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (a), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 #### Amendments
+
+2001—Subsec. (c). Pub. L. 107–56 inserted “or trap and trace device” after “pen register” and “, routing, addressing,” after “dialing” and substituted “the processing and transmitting of wire or electronic communications so as not to include the contents of any wire or electronic communications” for “call processing”.
 
 1994—Subsecs. (c), (d). Pub. L. 103–414 added subsec. (c) and redesignated former subsec. (c) as (d).
 

@@ -42,7 +42,7 @@ Each registration under this section shall contain—
 
 &emsp;(3) the name, address, and principal place of business of any organization, other than the client, that—
 
-&emsp;&emsp;(A) contributes more than $10,000 toward the lobbying activities of the registrant in a semiannual period described in section 1604(a) of this title; and
+&emsp;&emsp;(A) contributes more than $10,000 toward the lobbying activities of the registrant in asemiannual period described in section 1604(a) of this title; and
 
 &emsp;&emsp;(B) in whole or in major part plans, supervises, or controls such lobbying activities.
 

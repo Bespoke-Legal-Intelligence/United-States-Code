@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 \[No source\].
 
-The effect of the act of April 23, 1930 (5 U.S.C. 47a), in temporarily deferring retirement dates otherwise specifically fixed by law is reflected in the sections of the proposed text that name those dates. This section is inserted to make clear that under that act such deferments have no effect on the applicability of the specific rates that are to be used in computing retired pay.
+The effect of the act of April 23, 1930 (5 U.S.C. 47a), in temporarily deferring retirement dates otherwise specifically fixed by law is reflected in the sections of theproposed text that name those dates. This section is inserted to make clear that under that act such deferments have no effect on the applicability of the specific rates that are to be used in computing retired pay.
 
 #### Amendments
 

@@ -78,7 +78,7 @@ Subsec. (c)(1). Pub. L. 102–573, §301(4), amended introductory provisions gen
 
 Subsec. (c)(2) to (5). Pub. L. 102–573, §301(5), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
 
-Subsecs. (d), (e). Pub. L. 102–573, §§301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted “section 102 of the Indian Self-Determination Act” for “sections102 and 103(b) of the Indian Self-Determination Act”. Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 102–573, §§301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted “section 102 of the Indian Self-Determination Act” for “sections 102 and 103(b) of the Indian Self-Determination Act”. Former subsec. (d) redesignated (c).
 
 1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (e) relating to consultation, closure of facilities, and reports for former subsecs. (a) to (c) relating to construction and renovation of Service facilities.
 

@@ -6,7 +6,7 @@
 
 (2) The credit shall be permitted against the tax for the taxable year only for the amount of contributions paid with respect to such taxable year.
 
-(3) The credit against the tax for any taxable year shall be permitted only for contributions paid on or before the last day upon which the taxpayer is required under section 6071 to file a return for such year; except that credit shall bepermitted for contributions paid after such last day, but such credit shall not exceed 90 percent of the amount which would have been allowable as credit on account of such contributions had they been paid on or before such last day.
+(3) The credit against the tax for any taxable year shall be permitted only for contributions paid on or before the last day upon which the taxpayer is required under section 6071 to file a return for such year; except that credit shall be permitted for contributions paid after such last day, but such credit shall not exceed 90 percent of the amount which would have been allowable as credit on account of such contributions had they been paid on or before such last day.
 
 (4) Upon the payment of contributions into the unemployment fund of a State which are required under the unemployment compensation law of that State with respect to remuneration on the basis of which, prior to such payment into the proper fund, the taxpayer erroneously paid an amount as contributions under another unemployment compensation law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made at the time of the erroneous payment. If, by reason of such other law, the taxpayer was entitled to cease paying contributions with respect to services subject to such other law, the payment into the proper fund shall, for purposes of credit against the tax, be deemed to have been made on the date the return for the taxable year was filed under section 6071.
 
@@ -22,7 +22,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 (2) If an advance or advances have been made to the unemployment account of a State under title XII of the Social Security Act, then the total credits (after applying subsections (a) and (b) and paragraph (1) of this subsection) otherwise allowable under this section for the taxable year in the case of a taxpayer subject to the unemployment compensation law of such State shall be reduced—
 
-&emsp;(A)(i) in the case of a taxable year beginning with the second consecutive January 1 as of the beginning of which there is a balance of such advances, by 5 percent of the tax imposed by section 3301 with respect to the wages paid by such taxpayer during such taxable year which are attributable to such State; and
+&emsp;(A)(i) in the case of a taxable year beginning with the second consecutive January 1 as ofthe beginning of which there is a balance of such advances, by 5 percent of the tax imposed by section 3301 with respect to the wages paid by such taxpayer during such taxable year which are attributable to such State; and
 
 &emsp;(ii) in the case of any succeeding taxable year beginning with a consecutive January 1 as of the beginning of which there is a balance of such advances, by an additional 5 percent, for each such succeeding taxable year, of the tax imposed by section 3301 with respect to the wages paid by such taxpayer during such taxable year which are attributable to such State;
 
@@ -72,7 +72,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 &emsp;&emsp;(ii) for purposes of subparagraph (C) of subsection (c)(2), the total of the remuneration subject to contributions under the State unemployment compensation law with respect to such calendar year.
 
-> &emsp;For purposes of subparagraph (C) of subsection (c)(2), if the average employer contribution rate for any State for any calendar year (determined without regard to this sentence) equals or exceeds 2.7 percent, such rate shall be determined by increasing the amount taken into account under subparagraph (A) of the preceding sentence by the aggregate amount of employee payments (if any) into the unemployment fund of such State with respect to such calendar year which are to be used solely in the payment of unemployment compensation.
+> &emsp;For purposes of subparagraph (C) of subsection (c)(2), if the average employer contribution rate for any State for any calendar year (determined without regard to this sentence) equals or exceeds 2.7 percent, such rate shall be determined by increasing the amount taken into account under subparagraph (A) of the preceding sentence by the aggregate amountof employee payments (if any) into the unemployment fund of such State with respect to such calendar year which are to be used solely in the payment of unemployment compensation.
 
 #### (5) 5-year benefit cost rate
 
@@ -104,7 +104,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (1) Limitation
 
-&emsp;In the case of any State which meets the requirements of paragraph (2) with respect to any taxable year the reduction under subsection (c)(2) in credits otherwise applicable totaxpayers subject to the unemployment compensation law of such State shall not exceed the greater of—
+&emsp;In the case of any State which meets the requirements of paragraph (2) with respect to any taxable year the reduction under subsection (c)(2) in credits otherwise applicable to taxpayers subject to the unemployment compensation law of such State shall not exceed the greater of—
 
 &emsp;&emsp;(A) the reduction which was in effect with respect to such State under subsection (c)(2) for the preceding taxable year, or
 
@@ -178,7 +178,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (i) Taxable year 1983
 
-&emsp;&emsp;&emsp;For purposes of determining whether a State meets the requirements of paragraph\(2)(C) for taxable year 1983, only regular compensation (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1982.
+&emsp;&emsp;&emsp;For purposes of determining whether a State meets the requirements of paragraph (2)(C) for taxable year 1983, only regular compensation (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970) shall be taken into account for purposes of determining the benefit ratio for any preceding calendar year before 1982.
 
 #### (ii) Taxable year 1984
 
@@ -240,7 +240,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;The Secretary of Labor may require a State to furnish such information at such time and in such manner as may be necessary for purposes of paragraph (2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub.L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, §523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, §14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, §1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, §2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, §1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, §142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, §239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, §110(a), title III, §302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, §201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, §6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, §2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, §1884(1), (2), Oct. 22, 1986, 100 Stat. 2919.)
 
 #### References in Text
 
@@ -318,7 +318,7 @@ Subsec. (b). Pub. L. 91–373, §142(b), changed the certification date from Dec
 
 <b>1963</b>—Subsec. (c). Pub. L. 88–173, in cl. (2), substituted “on January 1, 1963 (and in the case of any succeeding taxable year beginning before January 1, 1968),” for “with the fourth consecutive January 1”, in subpar. (A), and “on or after January 1, 1968,” for “with a consecutive January 1”, in subpar. (B), and inserted paragraph following subpar. (B).
 
-Subsec. (d)(1). Pub. L. 88–31 substituted “the rate provided by such section” for “3.1 percent (or, in the caseof the tax imposed with respect to the calendar years 1962 and 1963, in lieu of 3.5 percent)”.
+Subsec. (d)(1). Pub. L. 88–31 substituted “the rate provided by such section” for “3.1 percent (or, in the case of the tax imposed with respect to the calendar years 1962 and 1963, in lieu of 3.5 percent)”.
 
 <b>1961</b>—Subsec. (d)(1). Pub. L. 87–6 provided for computation of the tax at the rate of 3 percent in lieu of 3.5 percent for calendar years 1962 and 1968.
 
@@ -360,7 +360,7 @@ Section 142(i) of Pub. L. 91–373 provided that: “The amendments made by this
 
 #### Effective Date of 1963 Amendment
 
-Section 1(d) of Pub. L. 88–173 provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section\] shall apply only with respect to taxable years beginning on or after January 1, 1963.”
+Section 1(d) of Pub. L. 88–173 provided that: “The amendments made by subsections (a), (b), and (c) ofthis section \[amending this section\] shall apply only with respect to taxable years beginning on or after January 1, 1963.”
 
 #### Effective Date of 1961 Amendment
 

@@ -26,7 +26,7 @@ Prohibition.—(1) An individual who is convicted of fraud or any other felony a
 
 (b)
 
-Criminal Penalty.—A defense contractor or subcontractor shall be subject to a criminalpenalty of not more than $500,000 if such contractor or subcontractor is convicted of knowingly—
+Criminal Penalty.—A defense contractor or subcontractor shall be subject to a criminal penalty of not more than $500,000 if such contractor or subcontractor is convicted of knowingly—
 
 &emsp;(1) employing a person under a prohibition under subsection (a); or
 

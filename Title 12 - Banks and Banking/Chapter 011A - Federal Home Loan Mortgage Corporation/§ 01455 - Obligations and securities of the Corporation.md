@@ -22,7 +22,7 @@ The Corporation may, by regulation or by writing executed by the Corporation, es
 
 #### (d) Validity of provisions; validity of restrictions, prohibitions, liens, or charges
 
-The provisions of this section and of any restriction, prohibition, lien, or charge referred to in subsection (b) of this section shall be fully effective notwithstanding any other law, including without limitation on the generality of the foregoing any law of or relating to sovereign immunity or priority.
+The provisions of this section and of any restriction, prohibition, lien, or charge referred toin subsection (b) of this section shall be fully effective notwithstanding any other law, including without limitation on the generality of the foregoing any law of or relating to sovereign immunity or priority.
 
 #### (e) Authority to purchase, hold, or invest by person, trust, or organization
 
@@ -60,7 +60,7 @@ Except for fees paid pursuant to sections 1452(c) <sup>2</sup> and 1455(c) <su
 
 #### (k) Securities in form of debt obligations or trust certificates of beneficial interest; issuance, maturities, interest rates, etc.
 
-(1) Any securities in the form of debt obligations or trust certificates of beneficial interest, or both, and based upon mortgages held and set aside by the Corporation, shall be issued upon the approval of the Secretary of the Treasury and shall have such maturities and shall bear such rate or rates of interest as may be determined by the Corporation with the approval of the Secretary of the Treasury.
+(1) Any securities in the form of debt obligations or trust certificates of beneficial interest, or both, and based upon mortgages held and setaside by the Corporation, shall be issued upon the approval of the Secretary of the Treasury and shall have such maturities and shall bear such rate or rates of interest as may be determined by the Corporation with the approval of the Secretary of the Treasury.
 
 (2) Any securities in the form of debt obligations or trust certificates of beneficial interest, or both, and based upon mortgages held and set aside by the Corporation, that the Corporation has issued or is issuing as of August 9, 1989, shall be deemed to have been approved by the Secretary of the Treasury as required by this subsection.
 
@@ -82,7 +82,7 @@ Subsec. (i). Pub. L. 102–550, §1382(n)(2), substituted “sections 1452(c) an
 
 1989—Subsec. (c). Pub. L. 101–73, §731(g), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Federal home loan banks shall, to such extent as the Board of Directors may prescribe, guarantee the faithful and timely performance by the Corporation of any obligation or undertaking of the Corporation on or with respect to any security (which term as used in this sentence shall not include the capital stock referred to in section 1453 of this title).”
 
-Subsec. (f). Pub. L. 101–73, §731(h), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Corporation may have preferred stock on such terms and conditions as the Board of Directors shall prescribe. Any preferred stock shall not affect the status of the capital stock issued under section 1453 of this title as nonvoting common stock, and shall not be entitled to vote with respect to the election of any member of the Board of Directors. Such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except that this sentence does not apply to any preferred stock, or class thereof, the initial sale of which is made directly or indirectlyby the Corporation exclusively to any Federal Home Loan Bank or Banks.”
+Subsec. (f). Pub. L. 101–73, §731(h), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Corporation may have preferred stock on such terms and conditions as the Board of Directors shall prescribe. Any preferred stock shall not affect the status of the capital stock issued under section 1453 of this title as nonvoting common stock, and shall not be entitled to vote with respect to the election of any member of the Board of Directors. Such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except that this sentence does not apply to any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.”
 
 Subsecs. (j), (k). Pub. L. 101–73, §731(i), added subsecs. (j) and (k).
 

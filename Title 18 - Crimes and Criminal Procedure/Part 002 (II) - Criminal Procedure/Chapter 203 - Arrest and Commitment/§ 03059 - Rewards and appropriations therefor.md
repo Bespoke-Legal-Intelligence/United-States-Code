@@ -24,7 +24,7 @@
 
 &emsp;(D) when, in the judgment of the Attorney General, it appears that a person whose illegal activities are being prosecuted or investigated could benefit from the award.
 
-(3) For the purposes of paragraph (2)(C)(iii), the term “original source” means a person who has direct and independent knowledge of the information that is furnished and has voluntarily provided the information to the Government prior to disclosure by the news media.
+(3) For the purposes of paragraph (2)(C)(iii), the term “original source” means a person who has direct and independent knowledge of the information that is furnished and has voluntarilyprovided the information to the Government prior to disclosure by the news media.
 
 (4) Neither the failure of the Attorney General to authorize a payment under paragraph (1) nor the amount authorized shall be subject to judicial review.
 
@@ -71,6 +71,8 @@ The criminal laws of the United States, referred to in subsec. (a)(1), are class
 Pub. L. 104–19, title III, §3001, July 27, 1995, 109 Stat. 250, provided that: “Any funds made available to the Attorney General heretofore or hereafter in any Act shall not be subject to the spending limitations contained in sections 3059 and 3072 of title 18, United States Code: <i>Provided</i>, That any reward of $100,000 or more, up to a maximum of $2,000,000, may not be made without the personal approval of the President or the Attorney General, and such approval may not be delegated.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 107–77, title I, §106, Nov. 28, 2001, 115 Stat. 765.
 
 Pub. L. 106–553, §1(a)(2) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2762, 2762A–67.
 

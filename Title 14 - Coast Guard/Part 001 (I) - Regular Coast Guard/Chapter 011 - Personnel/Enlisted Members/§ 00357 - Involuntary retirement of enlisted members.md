@@ -48,7 +48,7 @@
 
 &emsp;(1) the active-duty pay and permanent additions thereto of the grade or rating with which retired when the member's retired pay is computed under section 423(a) of this title; or
 
-&emsp;(2) the member's retired pay base under section 1407 of title 10, when a member's retired pay is computed under section 423(b) of this title.
+&emsp;(2) the member's retired pay base under section 1407 of title 10, when a member's retiredpay is computed under section 423(b) of this title.
 
 (j) When the Secretary orders a reduction in force, enlisted personnel may be involuntarily separated from the service without the Board's action.
 
@@ -66,7 +66,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
-1991—Pub. L. 102–241 substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard EnlistedPersonnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years’ service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years’ service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
+1991—Pub. L. 102–241 substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in section catchline and amended text generally. Prior to amendment, text provided that the Commandant assemble annually a Coast Guard Enlisted Personnel Board to recommend enlisted members for retirement, that the recommendations be transmitted to the Commandant for approval, in which event the enlisted members concerned would be notified and given opportunity to file a written protest, which would require a subsequent annual Board determination and approval by the Commandant to effect the involuntary retirement of that member, and further provided that an enlisted member with twenty years’ service retired from active duty by the Commandant pursuant to this section was to receive retired pay, and that an enlisted member voluntarily or involuntarily retired by reason of twenty years’ service who had been cited for extraordinary heroism was entitled to an increase in retired pay.
 
 1986—Subsec. (b). Pub. L. 99–348, §205(b)(9)(A), substituted “retired pay” for “the retired pay of the grade or rating with which retired”.
 

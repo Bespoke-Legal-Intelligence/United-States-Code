@@ -38,7 +38,7 @@ Section 529 \[title I, §112(e)\] of Pub. L. 101–509 provided that:
 
 #### Construction of References
 
-Section 529 \[title I, §112(c)\] of Pub. L. 101–509 provided that: “Any reference in any statute, reorganization plan, regulation, executive order, or any document issued pursuant thereto in force on the date this section takes effect \[see Effective Date of 1990 Amendment; Continued Service by Incumbents note above\] to the Under Secretary of Health and Human Services, the Under Secretary of the Interior, the Under Secretary of Education, or the Under Secretary of Housing and Urban Development shall be deemed to be a reference to the Deputy Secretary of Health and Human Services, the Deputy Secretary of the Interior, the Deputy Secretary of Education, or the Deputy Secretary of Housing and Urban Development, respectively.”
+Section 529 \[title I, §112(c)\] of Pub. L. 101–509 provided that: “Any reference in any statute, reorganization plan, regulation, executive order, or any document issued pursuant thereto in force on the date this section takes effect \[see Effective Date of 1990 Amendment; Continued Service by Incumbents note above\] to the Under Secretary of Health and Human Services, the Under Secretary of the Interior, the Under Secretary of Education, or the Under Secretary of Housing andUrban Development shall be deemed to be a reference to the Deputy Secretary of Health and Human Services, the Deputy Secretary of the Interior, the Deputy Secretary of Education, or the Deputy Secretary of Housing and Urban Development, respectively.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

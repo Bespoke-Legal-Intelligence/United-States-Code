@@ -28,7 +28,7 @@
 
 (c) Except as otherwise specifically prescribed by law, the Army Staff shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 93–547, Dec. 26, 1974, 88 Stat. 1742; Pub. L. 93–608, §1(6), Jan. 2, 1975, 88 Stat. 1968; Pub. L. 98–525, title V, §515, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–433, title V, §502(a), Oct. 1, 1986, 100 Stat. 1039.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 93–547, Dec. 26, 1974, 88 Stat. 1742; Pub. L. 93–608, §1(6), Jan. 2, 1975, 88 Stat. 1968; Pub. L. 98–525,title V, §515, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–433, title V, §502(a), Oct. 1, 1986, 100 Stat. 1039.)
 
 Historical and Revision Notes
 
@@ -66,7 +66,7 @@ In subsection (d), the second sentence is substituted for 10:21a(d) (last 31 wor
 
 #### Amendments
 
-1986—Pub. L. 99–433 amended section generally, substituting “The Army Staff: function; composition” for “Composition: assignment and detail of members of Army and civilians” in section catchline and substituting in text provisions relating to establishment and composition of the Army Staff and authorizing the Secretary to prescribe the organization, duties, and titles of the Army Staff for provisions relating to establishment and composition of the Army Staff, authorizing the Secretary to prescribe the organization, duties, and titles of the Army Staff and authorizing part of theArmy Staff to be designated as the Army General Staff, and limiting the number of officers who may be assigned or detailed to permanent duty in the executive part of the Department of the Army and on or with the Army General Staff.
+1986—Pub. L. 99–433 amended section generally, substituting “The Army Staff: function; composition” for “Composition: assignment and detail of members of Army and civilians” in section catchline and substituting in text provisions relating to establishment and composition of the Army Staff and authorizing the Secretary to prescribe the organization, duties, and titles of the Army Staff for provisions relating to establishment and composition of the Army Staff, authorizing the Secretary to prescribe the organization, duties, and titles of the Army Staff and authorizing part of the Army Staff to be designated as the Army General Staff, and limiting the number of officers who may be assigned or detailed to permanent duty in the executive part of the Department of the Army and on or with the Army General Staff.
 
 1984—Subsec. (d). Pub. L. 98–525 struck out subsec. (d) which provided that no commissioned officer who was assigned or detailed to duty in the executive part of the Department of the Army could serve for a tour of duty of more than four years, but that the Secretary could extend such a tour of duty if he made a special finding that the extension was necessary in the public interest, that no officer could be assigned or detailed to duty in the executive part of the Department of the Army within two years after relief from that duty, except upon a special finding by the Secretary that the assignment or detail was necessary in the public interest, and that the subsection did not apply in time of war, or of national emergency declared by Congress.
 

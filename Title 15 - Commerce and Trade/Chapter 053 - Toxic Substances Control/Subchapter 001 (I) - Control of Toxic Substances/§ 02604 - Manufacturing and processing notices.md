@@ -30,7 +30,7 @@
 
 &emsp;(ii) such person has been granted an exemption under section 2603(c) of this title from the requirements of a rule promulgated under section 2603 of this title before the submission of such notice,
 
-> such person may not, before the expiration of the 90 day period which begins on the date of the submission in accordance with such rule of the test data the submission or development of which was the basis for the exemption, manufacture such substance if such person is subject to subsection (a)(1)(A) of this section or manufacture or process such substance for a significant new use if the person is subject to subsection (a)(1)(B) of this section.
+> such person may not, before the expiration of the 90 day period which begins on the date of the submission in accordance with such rule of the test data the submission or development of which was the basis for the exemption, manufacture such substance if such person is subject to subsection (a)(1)(A) of this section or manufacture or process such substance for a significantnew use if the person is subject to subsection (a)(1)(B) of this section.
 
 (2)(A) If a person—
 
@@ -174,7 +174,7 @@ If the Administrator has not initiated any action under this section or section 
 
 > the Administrator shall exempt the applicant from the requirement to submit such data on such substance. No exemption which is granted under this subparagraph with respect to the submission of data for a chemical substance may take effect before the beginning of the reimbursement period applicable to such data.
 
-(B) If the Administrator exempts any person, under subparagraph (A), from submitting datarequired under subsection (b)(2) of this section for a chemical substance because of the existence of previously submitted data and if such exemption is granted during the reimbursement period for such data, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
+(B) If the Administrator exempts any person, under subparagraph (A), from submitting data required under subsection (b)(2) of this section for a chemical substance because of the existence of previously submitted data and if such exemption is granted during the reimbursement period for such data, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 
 &emsp;(i) to the person who previously submitted the data on which the exemption was based, for a portion of the costs incurred by such person in complying with the requirement under subsection (b)(2) of this section to submit such data, and
 

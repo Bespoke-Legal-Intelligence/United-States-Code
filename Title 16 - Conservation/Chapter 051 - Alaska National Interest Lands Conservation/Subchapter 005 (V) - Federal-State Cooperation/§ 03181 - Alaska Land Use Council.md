@@ -30,7 +30,7 @@ If the State elects not to participate on the Council or elects to end its parti
 
 (2) The other members of the Council who are Federal employees shall receive no additional compensation for service on the Council.
 
-(3) While away from their homes or regular places of business in the performance of services for the Council, members of the Council who are Federal employees, or members of the Council referred to in subsection (c)(3) of this section, shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.
+(3) While away from their homes or regular places of business in the performance of services for the Council, members of the Council who are Federal employees, or members of the Councilreferred to in subsection (c)(3) of this section, shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.
 
 (4) The State Cochairman and other State members of the Council have been compensated in accordance with applicable State law.
 
@@ -54,7 +54,7 @@ The Council shall meet at the call of the Cochairmen, but not less than four tim
 
 #### (h) Rules
 
-The Council shall adopt such internal rules of procedure as it deems necessary. All Councilmeetings shall be open to the public, and at least fifteen days prior to the date when any meeting of the Council is to take place the Cochairman shall publish public notice of such meeting in the Federal Register and in newspapers of general circulation in various areas throughout Alaska.
+The Council shall adopt such internal rules of procedure as it deems necessary. All Council meetings shall be open to the public, and at least fifteen days prior to the date when any meeting of the Council is to take place the Cochairman shall publish public notice of such meeting in the Federal Register and in newspapers of general circulation in various areas throughout Alaska.
 
 #### (i) Functions of the Council
 

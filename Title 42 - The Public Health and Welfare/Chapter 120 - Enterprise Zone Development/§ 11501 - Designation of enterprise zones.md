@@ -80,7 +80,7 @@
 
 #### (5) Nomination process for Indian reservations
 
-&emsp;In the case of a nominated area on an Indian reservation, the reservation governing body (as determined by the Secretary of the Interior) shall be deemed to be both the State and local governments with respect to such area.
+&emsp;In the case of a nominated area on an Indian reservation, the reservation governing body\(as determined by the Secretary of the Interior) shall be deemed to be both the State and local governments with respect to such area.
 
 #### (b) Period for which designation is in effect
 
@@ -152,7 +152,7 @@
 
 #### (1) In general
 
-&emsp;No nominated area shall be designated as an enterprise zone unless the local government and the State in which it is located agree in writing that, during any period during which the area is an enterprise zone, such governments will follow a specified course of actiondesignated to reduce the various burdens borne by employers or employees in such area. A course of action shall not be treated as meeting the requirements of this paragraph unless the course of action include provisions described in not less than 4 of the subparagraphs of paragraph (2).
+&emsp;No nominated area shall be designated as an enterprise zone unless the local government and the State in which it is located agree in writing that, during any period during which the area is an enterprise zone, such governments will follow a specified course of action designated to reduce the various burdens borne by employers or employees in such area. A course of action shall not be treated as meeting the requirements of this paragraph unless the course of action include provisions described in not less than 4 of the subparagraphs of paragraph (2).
 
 #### (2) Course of action
 

@@ -24,7 +24,7 @@ The following shall apply with respect to the Committee:
 
 &emsp;(1) The Committee shall receive necessary and appropriate administrative support from the Department of Health and Human Services.
 
-&emsp;(2) Members of the Committee appointed under subsection (b)(2)(A) of this section shallserve for a term of 3 years, and may serve for an unlimited number of terms if reappointed.
+&emsp;(2) Members of the Committee appointed under subsection (b)(2)(A) of this section shall serve for a term of 3 years, and may serve for an unlimited number of terms if reappointed.
 
 &emsp;(3) The Committee shall meet not less than two times each year.
 

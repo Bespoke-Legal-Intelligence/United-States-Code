@@ -50,7 +50,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (C) Good moral character
 
-&emsp;&emsp;Notwithstanding section 1101(f) of this title, an act or conviction that does not bar the Attorney General from granting relief under this paragraph by reason of subparagraph (A)(iv) shall not bar the Attorney General from finding the alien to be of good moral character under subparagraph (A)(i)(III) or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), if the Attorney General finds that the act or conviction was connected to the alien's having been battered or subjected to extreme cruelty and determines that a waiver is otherwise warranted.
+&emsp;&emsp;Notwithstanding section 1101(f) of this title, an act or conviction that does not bar the Attorney General from granting relief under this paragraph by reason of subparagraph (A)(iv) shall not bar the Attorney General from finding the alien to be of good moral character under subparagraph\(A)(i)(III) or section 1254(a)(3) of this title (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), if the Attorney General finds that the act or conviction was connected to the alien's having been battered or subjected to extreme cruelty and determines that a waiver is otherwise warranted.
 
 #### (D) Credible evidence considered
 
@@ -108,7 +108,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### (3) Continuity not required because of honorable service in Armed Forces and presence upon entry into service
 
-&emsp;The requirements of continuous residence or continuous physical presence in the United States under subsections (a) and (b) of this section shall not apply to an alien who—
+&emsp;The requirements of continuous residence or continuous physical presence in the UnitedStates under subsections (a) and (b) of this section shall not apply to an alien who—
 
 &emsp;&emsp;(A) has served for a minimum period of 24 months in an active-duty status in the Armed Forces of the United States and, if separated from such service, was separated under honorable conditions, and
 
@@ -182,7 +182,7 @@ Section 204(e) of Pub. L. 105–100 provided that: “The amendments made by thi
 
 #### Effective Date
 
-Section effective on the first day of the first month beginning more than 180 days after Sept. 30, 1996, with certain transitional provisions including provision that subsec. (d)(1), (2) of this section be applicable to notices to appear issued before, on, or after Sept. 30, 1996, seesection 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section effective on the first day of the first month beginning more than 180 days after Sept. 30, 1996, with certain transitional provisions including provision that subsec. (d)(1), (2) of this section be applicable to notices to appear issued before, on, or after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Definitions
 

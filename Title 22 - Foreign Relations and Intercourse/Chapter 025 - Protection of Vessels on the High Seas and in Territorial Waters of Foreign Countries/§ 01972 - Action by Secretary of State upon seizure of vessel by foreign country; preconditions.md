@@ -4,7 +4,7 @@ If—
 
 &emsp;(1) any vessel of the United States is seized by a foreign country on the basis of claims to jurisdiction that are not recognized by the United States, or on the basis of claims to jurisdiction recognized by the United States but exercised in a manner inconsistent with international law as recognized by the United States; <sup>1</sup>
 
-&emsp;(2) any general claim of any foreign country to exclusive fishery management authority isrecognized by the United States, and any vessel of the United States is seized by such foreign country on the basis of conditions and restrictions under such claim, if such conditions and restrictions—
+&emsp;(2) any general claim of any foreign country to exclusive fishery management authority is recognized by the United States, and any vessel of the United States is seized by such foreign country on the basis of conditions and restrictions under such claim, if such conditions and restrictions—
 
 &emsp;&emsp;(A) are unrelated to fishery conservation and management,
 

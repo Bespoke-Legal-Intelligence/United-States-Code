@@ -2,7 +2,7 @@
 
 #### (a) Deputy Secretary, Assistant Secretaries, and General Counsel
 
-There shall be in the Department a Deputy Secretary, eight Assistant Secretaries, and aGeneral Counsel, who shall be appointed by the President by and with the advice and consent of the Senate, and who shall perform such functions, powers, and duties as the Secretary shall prescribe from time to time.
+There shall be in the Department a Deputy Secretary, eight Assistant Secretaries, and a General Counsel, who shall be appointed by the President by and with the advice and consent of the Senate, and who shall perform such functions, powers, and duties as the Secretary shall prescribe from time to time.
 
 #### (b) Federal Housing Commissioner
 
@@ -52,7 +52,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (e)(1)(B),are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (e)(1)(B), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

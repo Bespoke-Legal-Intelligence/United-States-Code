@@ -22,7 +22,7 @@
 
 &emsp;(8) the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force with respect to the administration of section 1171(b) of Appendix to title 50;
 
-&emsp;(9) the Secretary of Agriculture or the Department of Agriculture under (A) the Richard B. Russell National School Lunch Act (60 Stat. 230) \[42 U.S.C. 1751 et seq.\]; (B) the Farmers Home Administration Act of 1946 (60 Stat. 1062); (C) the Act of August <sup>1</sup> 31, 1947, Public Law 298, Eightieth Congress, with respect to the disposal of labor supply centers, and labor homes, labor camps, or facilities; (D) section 612c of title 7, with respect to the exportation and domestic consumption of agricultural products; or (E) section 1291 or section 1622(j) of title 7;
+&emsp;(9) the Secretary of Agriculture or the Department of Agriculture under (A) the Richard B. Russell National School Lunch Act (60 Stat. 230) \[42 U.S.C. 1751 et seq.\]; (B) the Farmers Home Administration Act of 1946 (60 Stat. 1062); (C) the Act of August <sup>1</sup> 31, 1947, PublicLaw 298, Eightieth Congress, with respect to the disposal of labor supply centers, and labor homes, labor camps, or facilities; (D) section 612c of title 7, with respect to the exportation and domestic consumption of agricultural products; or (E) section 1291 or section 1622(j) of title 7;
 
 &emsp;(10) the Secretary of Agriculture, Farm Credit Administration, or any farm credit board under section 640<i>l</i>(b) of title 12, with respect to the acquisition or disposal of property;
 
@@ -58,7 +58,7 @@ This Act, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as a
 
 The Office of Federal Procurement Policy Act, referred to in subsec. (c), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
 
-The Philippine Property Act of 1946, referred to in subsec. (d)(1), is act July 3, 1946, ch. 536, 60 Stat. 418, as amended, which is classified generally to subchapter V (§1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1381 of Title 22 and Tables.
+The Philippine Property Act of 1946, referred to in subsec. (d)(1), is act July 3, 1946, ch. 536, 60 Stat. 418, asamended, which is classified generally to subchapter V (§1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1381 of Title 22 and Tables.
 
 The National Industrial Reserve Act of 1948, referred to in subsec. (d)(5), is act July 2, 1948, ch. 811, 62 Stat. 1225, as amended, known as the Defense Industrial Reserve Act, which is classified generally to chapter 16 (§451 et seq.) of Title 50, War and National Defense. The text of sections 451 to 453 of Title 50 was transferred to section 2535 of Title 10, Armed Forces, by Pub. L. 102–484, div. D, title XLII, §4235, Oct. 23, 1992, 106 Stat. 2690. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 50 and Tables.
 
@@ -114,7 +114,7 @@ Subsec. (d)(21). Pub. L. 96–60 added par. (21).
 
 1974—Subsec. (c). Pub. L. 93–400 substituted “inconsistent herewith, except as provided by the Office of Federal Procurement Policy Act, and except” for “inconsistent herewith, except”.
 
-1970—Subsec. (d)(15). Pub. L. 91–375 substituted “the United States Postal Service” for “the Postmaster General or the Postal Establishment with respect to the means and methods of distribution and transportation of the mails, and contracts, negotiations, and proceedings before Federal and State regulatory andrate-making bodies, relating to the transportation of the mails, and the leasing and acquisition of real property, as authorized by law”.
+1970—Subsec. (d)(15). Pub. L. 91–375 substituted “the United States Postal Service” for “the Postmaster General or the Postal Establishment with respect to the means and methods of distribution and transportation of the mails, and contracts, negotiations, and proceedings before Federal and State regulatory and rate-making bodies, relating to the transportation of the mails, and the leasing and acquisition of real property, as authorized by law”.
 
 1967—Subsec. (d)(11). Pub. L. 90–19 substituted “the Department of Housing and Urban Development or any officer thereof” for “the Housing and Home Finance Agency, or any officer or constituent agency therein,”.
 

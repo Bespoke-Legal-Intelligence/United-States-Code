@@ -2,7 +2,7 @@
 
 #### (a) Other authorities of Administrator
 
-Nothing in this chapter shall limit or prevent the Administrator from establishing a lowerpermissible release rate for organotin under authorities other than this chapter.
+Nothing in this chapter shall limit or prevent the Administrator from establishing a lower permissible release rate for organotin under authorities other than this chapter.
 
 #### (b) State laws
 

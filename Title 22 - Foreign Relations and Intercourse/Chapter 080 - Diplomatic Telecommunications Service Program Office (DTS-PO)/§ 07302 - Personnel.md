@@ -44,7 +44,7 @@
 
 #### (5) Vacancy
 
-&emsp;In the event of a vacancy in the position of CEO or during the absence or disability of theCEO, the Director of the Office of Management and Budget may designate an officer or employee of DTS-PO to perform the duties of the position as the acting CEO.
+&emsp;In the event of a vacancy in the position of CEO or during the absence or disability of the CEO, the Director of the Office of Management and Budget may designate an officer or employee of DTS-PO to perform the duties of the position as the acting CEO.
 
 #### (6) Authorities and duties
 
@@ -92,7 +92,7 @@ Effective upon the first appointment of a CEO pursuant to subsection (a) of this
 
 #### (1) In general
 
-&emsp;DTS-PO is authorized to have the following employees: a CEO established under subsection (a) of this section, two Deputy Executive Officers established under subsection (b) of this section, and not more than four other employees.
+&emsp;DTS-PO is authorized to have the following employees: a CEO established under subsection (a) of this section, two Deputy Executive Officers established under subsection (b)of this section, and not more than four other employees.
 
 #### (2) Applicability of certain civil service laws
 

@@ -34,7 +34,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 14\. Exactly two hundred and twelve degrees and thirty minutes exactly eight thousand and fifteen feet along the land of Kahaualea;
 
-15\. Exactly two hundred and ninety-seven degrees and fifteen minutes exactly twenty-fourthousand five hundred and fifty-two feet along the land of Kahaualea;
+15\. Exactly two hundred and ninety-seven degrees and fifteen minutes exactly twenty-four thousand five hundred and fifty-two feet along the land of Kahaualea;
 
 16\. Exactly two hundred and forty-five degrees and fifty-eight minutes exactly six thousand one hundred and sixty-eight feet along the land of Kahaualea;
 
@@ -86,7 +86,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 14\. Two hundred and twenty-two degrees and fifty-three minutes exactly two hundred and forty feet along fence to a spike in stone pile;
 
-15\. Two hundred and twenty-five degrees and forty-six minutes three hundred and forty and six-tenths feet to the point of beginning and containing an area of five thousand seven hundred and thirty acres, more or less; and, in addition, any lands adjacent or contiguous to the Hawaii National Park as extended which, in the discretion of the Secretary of the Interior, are necessary for the proper rounding out of the boundaries of the park. Land (including the land depicted on the map entitled “NPS–PAC 1997HW”) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.
+15\. Two hundred and twenty-five degrees and forty-six minutes three hundred and forty andsix-tenths feet to the point of beginning and containing an area of five thousand seven hundred and thirty acres, more or less; and, in addition, any lands adjacent or contiguous to the Hawaii National Park as extended which, in the discretion of the Secretary of the Interior, are necessary for the proper rounding out of the boundaries of the park. Land (including the land depicted on the map entitled “NPS–PAC 1997HW”) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.
 
 (June 20, 1938, ch. 530, §1, 52 Stat. 781; Pub. L. 105–380, §2, Nov. 12, 1998, 112 Stat. 3401; Pub. L. 106–510, §2, Nov. 13, 2000, 114 Stat. 2363.)
 

@@ -56,7 +56,7 @@ In any action under this section, the United States or the State, or both, if no
 
 #### (h) Other rights
 
-This chapter does not affect or otherwise impair the rights of any person under Federal, State, or common law, except with respect to the timing of review as provided in section 9613(h) of this title or as otherwise provided in section 9658 of this title (relating to actions under State law).
+This chapter does not affect or otherwise impair the rights of any person under Federal,State, or common law, except with respect to the timing of review as provided in section 9613(h) of this title or as otherwise provided in section 9658 of this title (relating to actions under State law).
 
 #### (i) Definitions
 
@@ -66,7 +66,7 @@ The terms used in this section shall have the same meanings as when used in subc
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat.997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

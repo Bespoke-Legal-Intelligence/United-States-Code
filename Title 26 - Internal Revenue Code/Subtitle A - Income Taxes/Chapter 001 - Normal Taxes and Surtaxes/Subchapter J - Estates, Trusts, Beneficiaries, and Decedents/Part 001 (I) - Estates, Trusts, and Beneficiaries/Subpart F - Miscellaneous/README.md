@@ -10,6 +10,10 @@ Subpart F—Miscellaneous
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 107–16, title V, §542(e)(1)(D), (f)(2), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to transfers after Dec. 31, 2009, item 684 is temporarily amended by inserting “and nonresident aliens” after “estates”.</i>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–34, title XI, §1131(c)(6), title XIII, §1309(b), Aug. 5, 1997, 111 Stat. 980, 1043, added items 684 and 685.

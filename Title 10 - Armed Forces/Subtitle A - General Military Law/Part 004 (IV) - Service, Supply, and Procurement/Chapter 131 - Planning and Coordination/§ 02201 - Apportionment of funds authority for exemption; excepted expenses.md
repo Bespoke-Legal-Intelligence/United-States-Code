@@ -30,5 +30,5 @@ A prior section 2201, act Aug. 10, 1956, ch. 1041, 70A Stat. 119, prescribed the
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–65 substituted “Defense” for “Defense—”, struck out par. (1) designation,substituted “this section.” for “this section; and”, and struck out par. (2) which read as follows: “shall submit monthly reports to Congress on the estimated obligations incurred pursuant to subsections (b) and (c).”
+1999—Subsec. (d). Pub. L. 106–65 substituted “Defense” for “Defense—”, struck out par. (1) designation, substituted “this section.” for “this section; and”, and struck out par. (2) which read as follows: “shall submit monthly reports to Congress on the estimated obligations incurred pursuant to subsections (b) and (c).”
 

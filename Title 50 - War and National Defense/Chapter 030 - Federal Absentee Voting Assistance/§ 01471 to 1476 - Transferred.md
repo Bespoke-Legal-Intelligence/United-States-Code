@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 1471, act Aug. 9, 1955, ch. 656, title III, §301, 69 Stat. 588, which related to definitions, was transferredto section 1973cc–21 of Title 42, The Public Health and Welfare.
+Section 1471, act Aug. 9, 1955, ch. 656, title III, §301, 69 Stat. 588, which related to definitions, was transferred to section 1973cc–21 of Title 42, The Public Health and Welfare.
 
 Section 1472, act Aug. 9, 1955, ch. 656, title III, §302, 69 Stat. 588, which related to free postage, was transferred to section 1973cc–22 of Title 42.
 

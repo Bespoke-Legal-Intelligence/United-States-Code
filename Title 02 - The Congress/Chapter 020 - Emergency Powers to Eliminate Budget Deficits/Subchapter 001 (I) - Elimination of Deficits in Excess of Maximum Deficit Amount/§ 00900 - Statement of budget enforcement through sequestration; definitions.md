@@ -94,11 +94,11 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(H) The term “Urban and Historic Preservation sub-category” means discretionary appropriations for activities in the accounts described in (E)(ix)–(E)(xii),<sup>2</sup> with the exception of Forest Legacy and Smart Growth Partnerships as described in (E)(ix),<sup>2</sup> or portions thereof.
 
-&emsp;(I) The term “Payments in Lieu of Taxes sub-category” means discretionary appropriations for activities in the account described in (E)(xiii)<sup>2</sup> or portions thereof.
+&emsp;(I) The term “Payments in Lieu of Taxes sub-category” means discretionary appropriations for activities in the account described in (E)(xiii) <sup>2</sup> or portions thereof.
 
-&emsp;(J) The term “Federal Deferred Maintenance sub-category” means discretionary appropriations for activities in the account described in (E)(xiv)<sup>2</sup> or portions thereof.
+&emsp;(J) The term “Federal Deferred Maintenance sub-category” means discretionary appropriations for activities in the account described in (E)(xiv) <sup>2</sup> or portions thereof.
 
-&emsp;(K) The term “Coastal Assistance sub-category” means discretionary appropriations for activities in the accounts described in (E)(xv)–(E)(xvii)<sup>2</sup> or portions thereof.
+&emsp;(K) The term “Coastal Assistance sub-category” means discretionary appropriations for activities in the accounts described in (E)(xv)–(E)(xvii) <sup>2</sup> or portions thereof.
 
 &emsp;(5) The term “baseline” means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
 
@@ -136,7 +136,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(19) The term “asset sale” means the sale to the public of any asset (except for those assets covered by title V of the Congressional Budget Act of 1974 \[2 U.S.C. 661 et seq.\]), whether physical or financial, owned in whole or in part by the United States.
 
-(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, titleXIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028.)
+(Pub. L. 99–177, title II, §250, as added Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, §250(c)(21), formerly §257(12), as added Pub. L. 100–119, title I, §102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered §250(c)(21), Pub. L. 101–508, title XIII, §13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, §8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, §9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, §801(c), Oct. 11, 2000, 114 Stat. 1028.)
 
 #### Termination of Section
 
@@ -204,9 +204,9 @@ Subsec. (c)(9). Pub. L. 105–33, §10202(b)(4), substituted “that budget subm
 
 Subsec. (c)(14). Pub. L. 105–33, §10202(b)(5), inserted “first 4” before “fiscal years” and struck out “through fiscal year 1995” after “the budget year”.
 
-Subsec. (c)(17). Pub. L. 105–33, §10202(b)(6), (7), redesignated par. (18) as (17), substituted “Balanced Budget Act of 1997” for “Omnibus Budget Reconciliation Act of 1990”, and struck out former par. (17) which read as follows: “For purposes of sections 902 and 903 of this title, legislation enacted during the second session of the One Hundred First Congress shall be deemed to have been enacted before November 5, 1990.”
+Subsec. (c)(17). Pub. L. 105–33, §10202(b)(6), (7), redesignated par. (18) as (17), substituted “Balanced BudgetAct of 1997” for “Omnibus Budget Reconciliation Act of 1990”, and struck out former par. (17) which read as follows: “For purposes of sections 902 and 903 of this title, legislation enacted during the second session of the One Hundred First Congress shall be deemed to have been enacted before November 5, 1990.”
 
-Subsec. (c)(18). Pub. L. 105–33, §10202(b)(6), (8), redesignated par. (19) as (18) and substituted “the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.” for “of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the CurrencyAssessment Fund, and the RTC Office of Inspector General.” Former par. (18) redesignated (17).
+Subsec. (c)(18). Pub. L. 105–33, §10202(b)(6), (8), redesignated par. (19) as (18) and substituted “the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.” for “of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the Currency Assessment Fund, and the RTC Office of Inspector General.” Former par. (18) redesignated (17).
 
 Subsec. (c)(19). Pub. L. 105–33, §10202(b)(9), added par. (19) and struck out former par. (19) which read as follows: “The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term ‘prepayment of a loan’ means payments to the United States made in advance of the schedules set by law or contract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term ‘in advance’ shall mean in advance of the slowest payment schedule allowed under such law or contract.”
 
@@ -266,11 +266,17 @@ Section 101(b) of title I of Pub. L. 100–119 provided that: “This title \[en
 
 #### Short Title
 
-Section 200(a) of title II of Pub. L. 99–177 provided that: “This title \[enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Act of 1985’.”
+Section 200(a) of title II of Pub. L. 99–177 provided that: “This title \[enacting this chapter and sections 654to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Act of 1985’.”
+
+#### Habitat Conservation Activities Considered Within Coastal Assistance Sub-category
+
+Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 775, provided in part: “That, hereafter, habitat conservation activities under this heading \[
+
+National Oceanic and Atmospheric Administration; operations, research, and facilities\] shall be considered to be within the ‘Coastal Assistance sub-category’ in section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 900(c)(4)(K)\]”.
 
 #### Purpose of Subtitle B of Title X of Pub. L. 105–33
 
-Section 10201 of title X of Pub. L. 105–33 provided that: “The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title,section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section\] is to extend discretionary spending limits and pay-as-you-go requirements.”
+Section 10201 of title X of Pub. L. 105–33 provided that: “The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section\] is to extend discretionary spending limits and pay-as-you-go requirements.”
 
 #### Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development
 
@@ -312,7 +318,7 @@ Section 271(d), formerly section 271(c), of Pub. L. 99–177, as redesignated by
 
 &emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.”
+&emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the samemanner and to the same extent as in the case of any other rule of such House.”
 
 #### Restoration of Trust Fund Investments; Funds Borrowed or Not Invested During Delays in Raising Public Debt Limit
 
@@ -324,7 +330,7 @@ Ex. Ord. No. 12857, Aug. 4, 1993, 58 F.R. 42181, provided:
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including section 1105 of title 31, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. The purpose of this order is to create a mechanism to monitor total costs of directspending programs, and, in the event that actual or projected costs exceed targeted levels, to require that the budget address adjustments in direct spending.
+Section 1. <i>Purpose</i>. The purpose of this order is to create a mechanism to monitor total costs of direct spending programs, and, in the event that actual or projected costs exceed targeted levels, to require that the budget address adjustments in direct spending.
 
 Sec. 2. <i>Establishment of Direct Spending Targets.</i>
 
@@ -446,7 +452,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Act Referred to in Other Sections
 
-The Balanced Budget and Emergency Deficit Control Act of 1985 (see Short Title note above) is referred to in sections 643, 691c of this title; title 7 section 1446; title 10 section 2814; title 12 section 2250; title 21 section 379g; title 22 sections 2295b, 3751, 5857; title 25 section 2010; title 38 section 113; title 39 section 2009a; title 42 sections 1382, 8621, 11303, 14211; title 48 section 1469a–1.
+The Balanced Budget and Emergency Deficit Control Act of 1985 (see Short Title note above) is referred to in sections 643, 691c of this title; title 7 section 1446; title 10 section 2814; title 12 section 2250; title 21 section 379g; title 22 sections 2295b, 3751, 5857; title 25 section 2010; title 33 section 2736; title 38 section 113; title 39 section 2009a; title 42 sections 1382, 8621, 11303, 14211; title 48 section 1469a–1.
 
 #### Section Referred to in Other Sections
 

@@ -58,9 +58,9 @@ The Secretary of State and the Board, in carrying out their functions, shall res
 
 #### References in Text
 
-The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
-The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Titlenote set out under section 1465aa of this title and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(11), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 105–277, §1323(g), (h), struck out “(1)” before “T
 
 Pub. L. 105–277, §1323(f)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 105–277, §1323(i), amended heading and text of subsec. (d) generally. Prior to amendment,text read as follows: “The Director of the United States Information Agency and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and grantees.”
+Subsec. (d). Pub. L. 105–277, §1323(i), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of the United States Information Agency and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and grantees.”
 
 Pub. L. 105–277, §1323(f)(1), redesignated subsec. (c) as (d).
 

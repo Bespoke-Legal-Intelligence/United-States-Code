@@ -50,7 +50,7 @@ In general.—The amount of the tax imposed by subsection (a) shall be determine
 
 &emsp;&emsp;DPT vaccine
 
-$4.56&nbsp;
+$4.56 
 
 &emsp;&emsp;DT vaccine
 
@@ -110,7 +110,7 @@ Method of payment.—The tax imposed by paragraph (1) shall be paid in such mann
 
 &emsp;“(C)
 
-Time for payment.—The tax imposed by paragraph (1) shall be paid on or before the last day of the6th month beginning after the date of the enactment of this Act.
+Time for payment.—The tax imposed by paragraph (1) shall be paid on or before the last day of the 6th month beginning after the date of the enactment of this Act.
 
 “(3)
 

@@ -30,7 +30,7 @@ The Administrator shall, not later than one year after August 7, 1977, promulgat
 
 (C) Such committee shall also (i) advise the Administrator of areas in which additional knowledge is required to appraise the adequacy and basis of existing, new, or revised national ambient air quality standards, (ii) describe the research efforts necessary to provide the required information, (iii) advise the Administrator on the relative contribution to air pollution concentrations of natural as well as anthropogenic activity, and (iv) advise the Administrator of any adverse public health, welfare, social, economic, or energy effects which may result from various strategies for attainment and maintenance of such national ambient air quality standards.
 
-(July 14, 1955, ch. 360, title I, §109, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1679;amended Pub. L. 95–95, title I, §106, Aug. 7, 1977, 91 Stat. 691.)
+(July 14, 1955, ch. 360, title I, §109, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1679; amended Pub. L. 95–95, title I, §106, Aug. 7, 1977, 91 Stat. 691.)
 
 #### Codification
 

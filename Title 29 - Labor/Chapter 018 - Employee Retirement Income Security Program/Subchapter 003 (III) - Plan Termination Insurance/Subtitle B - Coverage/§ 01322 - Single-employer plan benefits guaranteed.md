@@ -16,11 +16,11 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 (3) The amount of monthly benefits described in subsection (a) of this section provided by a plan, which are guaranteed under this section with respect to a participant, shall not have an actuarial value which exceeds the actuarial value of a monthly benefit in the form of a life annuity commencing at age 65 equal to the lesser of—
 
-&emsp;(A) his average monthly gross income from his employer during the 5 consecutive calendar year period (or, if less, during the number of calendar years in such period in which he actively participates in the plan) during which his gross income from that employer was greater than during any other such period with that employer determined by dividing 1/12 of the sum of all such gross income by the number of such calendar years in which he had such gross income, or
+&emsp;(A) his average monthly gross income from his employer during the 5 consecutive calendar year period (or, if less, during the number of calendar years in such period in whichhe actively participates in the plan) during which his gross income from that employer was greater than during any other such period with that employer determined by dividing 1/12 of the sum of all such gross income by the number of such calendar years in which he had such gross income, or
 
 &emsp;(B) $750 multiplied by a fraction, the numerator of which is the contribution and benefit base (determined under section 230 of the Social Security Act \[42 U.S.C. 430\]) in effect at the time the plan terminates and the denominator of which is such contribution and benefit base in effect in calendar year 1974.
 
-> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulationsthereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
+> The provisions of this paragraph do not apply to non-basic benefits. The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act \[42 U.S.C. 401 et seq.; 1381 et seq.\], and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.
 
 (4)(A) The actuarial value of a benefit, for purposes of this subsection, shall be determined in accordance with regulations prescribed by the corporation.
 
@@ -60,7 +60,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(B) $20 per month,
 
-> multiplied by the number of years (but not more than 5) the plan or amendment, as the case may be, has been in effect. In determining how many years a plan or amendment has been in effect for purposes of this paragraph, the first 12 months beginning with the date on which the plan or amendment is made or first becomes effective (whichever is later) constitutes one year, and each consecutive period of 12 months thereafter constitutes an additional year. This paragraph does not apply to benefits payable under a plan unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter.
+> multiplied by the number of years (but not more than 5) the plan or amendment, as the case maybe, has been in effect. In determining how many years a plan or amendment has been in effect for purposes of this paragraph, the first 12 months beginning with the date on which the plan or amendment is made or first becomes effective (whichever is later) constitutes one year, and each consecutive period of 12 months thereafter constitutes an additional year. This paragraph does not apply to benefits payable under a plan unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter.
 
 #### (c) Payment by corporation to participants and beneficiaries of recovery percentage of outstanding amount of benefit liabilities
 
@@ -134,7 +134,7 @@ Subsec. (b)(7). Pub. L. 99–272, §11016(c)(8), in provisions following subpar.
 
 Subsec. (d). Pub. L. 99–272, §11016(c)(9), added subsec. (d).
 
-1980—Subsec. (a). Pub. L. 96–364, §403(c)(2), inserted “, in accordance with this section,” after “guarantee”and “single-employer” before “plan which”, and struck out “the terms of” after “under”.
+1980—Subsec. (a). Pub. L. 96–364, §403(c)(2), inserted “, in accordance with this section,” after “guarantee” and “single-employer” before “plan which”, and struck out “the terms of” after “under”.
 
 Subsec. (b). Pub. L. 96–364, §403(c)(3), (4), in par. (1) substituted “(7)” for “(8)”, struck out par. (5) relating to receipt of a life annuity commencing at age 65, and redesignated pars. (6) to (8) as (5) to (7), respectively.
 

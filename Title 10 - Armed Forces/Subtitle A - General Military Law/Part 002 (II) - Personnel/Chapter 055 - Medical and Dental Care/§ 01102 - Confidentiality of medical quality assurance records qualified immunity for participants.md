@@ -28,7 +28,7 @@ Authorized Disclosure and Testimony.—(1) Subject to paragraph (2), a medical q
 
 &emsp;(G) In an administrative or judicial proceeding commenced by a criminal or civil law enforcement agency or instrumentality referred to in subparagraph (F), but only with respect to the subject of such proceeding.
 
-(2) With the exception of the subject of a quality assurance action, the identity of any person receiving health care services from the Department of Defense or the identity of any other person associated with such department for purposes of a medical quality assurance program that is disclosed in a medical quality assurance record described in subsection (a) shall be deleted from that record or document before any disclosure of such record is made outside the Department of Defense. Such requirement does not apply to the release of information pursuant to section 552a of title 5.
+(2) With the exception of the subject of a quality assurance action, the identity of any person receiving health care services from the Department of Defense or the identity of any other person associated with such department for purposes of a medical quality assurance program that is disclosed in a medical quality assurance record described in subsection (a) shall be deleted from that record or document before anydisclosure of such record is made outside the Department of Defense. Such requirement does not apply to the release of information pursuant to section 552a of title 5.
 
 (d)
 
@@ -64,7 +64,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term “medical quality assurance record” means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Department of Defense as part of a medical quality assurance program.
 
-&emsp;(3) The term “health care provider” means any military or civilian health care professional who, under regulations of a military department, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility orwho is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
+&emsp;(3) The term “health care provider” means any military or civilian health care professional who, under regulations of a military department, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
 
 (k)
 

@@ -8,7 +8,7 @@ An order shall contain the terms and conditions specified in this section.
 
 #### (1) In general
 
-&emsp;The order shall provide for the establishment of, and appointment of members to, aPopcorn Board that shall consist of not fewer than 4 members and not more than 9 members.
+&emsp;The order shall provide for the establishment of, and appointment of members to, a Popcorn Board that shall consist of not fewer than 4 members and not more than 9 members.
 
 #### (2) Nominations
 
@@ -102,7 +102,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (B) Adjustment of rate
 
-&emsp;&emsp;The order shall provide that the Board, with the approval of the Secretary, mayraise or lower the rate of assessment annually up to a maximum of $.08 per hundredweight of popcorn.
+&emsp;&emsp;The order shall provide that the Board, with the approval of the Secretary, may raise or lower the rate of assessment annually up to a maximum of $.08 per hundredweight of popcorn.
 
 #### (4) Use of assessments
 
@@ -190,7 +190,7 @@ The order shall require the Board to—
 
 #### (j) Other terms and conditions
 
-The order shall contain such other terms and conditions, consistent with this subchapter, asare necessary to effectuate this subchapter, including regulations relating to the assessment of late payment charges.
+The order shall contain such other terms and conditions, consistent with this subchapter, as are necessary to effectuate this subchapter, including regulations relating to the assessment of late payment charges.
 
 (Pub. L. 104–127, title V, §575, Apr. 4, 1996, 110 Stat. 1077.)
 

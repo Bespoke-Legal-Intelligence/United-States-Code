@@ -22,7 +22,7 @@ In addition to any authorities vested in them by other provisions of this subcha
 
 #### (b) Rules for distribution of donations, bequests, and devises; gifts with or without conditions; transfers for tax purposes
 
-(1) In any case in which any money or other property is donated, bequeathed, or devised to the Foundation without designation of the Endowment for the benefit of which such property is intended, and without condition or restriction other than that it be used for the purposes of theFoundation, such property shall be deemed to have been donated, bequeathed, or devised in equal shares to each Endowment and each Chairperson of an Endowment shall have authority to receive such property.
+(1) In any case in which any money or other property is donated, bequeathed, or devised to the Foundation without designation of the Endowment for the benefit of which such property is intended, and without condition or restriction other than that it be used for the purposes of the Foundation, such property shall be deemed to have been donated, bequeathed, or devised in equal shares to each Endowment and each Chairperson of an Endowment shall have authority to receive such property.
 
 (2) In any case in which any money or other property is donated, bequeathed, or devised to the Foundation with a condition or restriction, such property shall be deemed to have been donated, bequeathed, or devised to that Endowment whose function it is to carry out the purpose or purposes described or referred to by the terms of such condition or restriction, and each Chairperson of an Endowment shall have authority to receive such property.
 
@@ -50,7 +50,7 @@ The Chairperson of the National Endowment for the Arts shall utilize advisory pa
 
 &emsp;&emsp;(B) to make such records available to the public in a manner that protects the privacy of individual applicants and panel members;
 
-&emsp;(5) to require, when necessary and feasible, the use of site visitations to view the work of the applicant and deliver a written report on the work being reviewed, in order to assist panelists in making their recommendations; and
+&emsp;(5) to require, when necessary and feasible, the use of site visitations to view the work ofthe applicant and deliver a written report on the work being reviewed, in order to assist panelists in making their recommendations; and
 
 &emsp;(6) to require that the membership of each panel change substantially from year to year and to provide that each individual is ineligible to serve on a panel for more than 3 consecutive years.
 

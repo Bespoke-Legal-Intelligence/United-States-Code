@@ -2,7 +2,7 @@
 
 #### (a) Development and transmittal to Congress; contents
 
-Within three full fiscal years following the fiscal year of enactment of this subchapter, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, separate general management plans for the monument and the conservation area which shall describe the appropriate uses and development of the monument and the conservation area consistent with the purposes of this subchapter. The plans shall include but not be limited to each of the following:
+Within three full fiscal years following the fiscal year of enactment of this subchapter, the Secretary shall develop and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources ofthe United States Senate, separate general management plans for the monument and the conservation area which shall describe the appropriate uses and development of the monument and the conservation area consistent with the purposes of this subchapter. The plans shall include but not be limited to each of the following:
 
 &emsp;(1) implementation plans for a continuing program of interpretation and public education about the resources and values of the monument and the conservation area;
 
@@ -20,7 +20,7 @@ Within three full fiscal years following the fiscal year of enactment of this su
 
 #### (c) Review and recommendation of suitability or nonsuitability of roadless lands
 
-(1) The general management plan for the monument shall review and recommend the suitability or nonsuitability for preservation as wilderness of all roadless lands within the boundaries of the monument as established bythis subchapter except those lands within the areas identified as “potential development areas” on the map referenced in section 460uu of this title.
+(1) The general management plan for the monument shall review and recommend the suitability or nonsuitability for preservation as wilderness of all roadless lands within the boundaries of the monument as established by this subchapter except those lands within the areas identified as “potential development areas” on the map referenced in section 460uu of this title.
 
 (2) Pending the submission of a recommendation and until otherwise directed by Act of Congress, the Secretary, through the Director of the National Park Service, shall manage all roadless lands within the boundaries of the monument so as to maintain their potential for inclusion in the National Wilderness Preservation System, except those lands within the areas identified as “potential development areas” on the map referenced in section 460uu of this title.
 

@@ -44,7 +44,7 @@ As used in this subchapter—
 
 &emsp;(3) such project, production, workshop, or program, when taken as a whole, lacks serious literary, artistic, political, or scientific value.
 
-(Pub. L. 89–209, §3, Sept. 29, 1965, 79 Stat. 845; Pub. L. 90–348, §§1, 7, June 18, 1968, 82 Stat. 184, 187; Pub. L. 91–346, §3, July 20, 1970, 84 Stat. 443; Pub. L. 93–133, §2(a)(2), Oct. 19, 1973, 87 Stat. 462; Pub. L. 96–496, title I, §101, Dec. 4, 1980, 94 Stat. 2583; renumbered title I, §3, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §3 and amended Pub. L. 99–194, title I, §§101(1), 103, Dec.20, 1985, 99 Stat. 1332; Pub. L. 101–512, title III, §318 \[title I, §102\], Nov. 5, 1990, 104 Stat. 1960, 1962.)
+(Pub. L. 89–209, §3, Sept. 29, 1965, 79 Stat. 845; Pub. L. 90–348, §§1, 7, June 18, 1968, 82 Stat. 184, 187; Pub. L. 91–346, §3, July 20, 1970, 84 Stat. 443; Pub. L. 93–133, §2(a)(2), Oct. 19, 1973, 87 Stat. 462; Pub. L. 96–496, title I, §101, Dec. 4, 1980, 94 Stat. 2583; renumbered title I, §3, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §3 and amended Pub. L. 99–194, title I, §§101(1), 103, Dec. 20, 1985, 99 Stat. 1332; Pub. L. 101–512, title III, §318 \[title I, §102\], Nov. 5, 1990, 104 Stat. 1960, 1962.)
 
 #### Amendments
 

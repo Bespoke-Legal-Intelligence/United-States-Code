@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(ii) who is entitled to care (or payment of the expenses of care) under a health-plan contract; or
 
-&emsp;(E) for which care and services are furnished before October 1, 2002, under this chapter to a veteran who—
+&emsp;(E) for which care and services are furnished before October 1, 2007, under this chapter to a veteran who—
 
 &emsp;&emsp;(i) has a service-connected disability; and
 
@@ -58,7 +58,7 @@
 
 &emsp;(2) may not be required by reason of this section to make any copayment or deductible payment in order to receive such care.
 
-(f) No law of any State or of any political subdivision of a State, and no provision of any contract or other agreement, shall operate to prevent recovery or collection by the United States under this section or with respect to care or services furnished under section 1711(b) of this title.
+(f) No law of any State or of any political subdivision of a State, and no provision of any contract or other agreement, shall operate to prevent recovery or collection by the United States under this section or with respect to care or services furnished under section 1784 of this title.
 
 \[(g) Repealed. Pub. L. 105–33, title VIII, §8023(b)(4), Aug. 5, 1997, 111 Stat. 667.\]
 
@@ -98,13 +98,17 @@
 
 &emsp;&emsp;(D) a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, §101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667.)
+(Added Pub. L. 97–72, title I, §106(a)(1), Nov. 3, 1981, 95 Stat. 1050, §629; amended Pub. L. 99–272, title XIX, §19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, §202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, §8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1729 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, §604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, §12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262,title I, §101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 107–135, title II, §§208(e)(4), 209(b), Jan. 23, 2002, 115 Stat. 2463, 2464.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (i)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(2)(E). Pub. L. 107–135, §209(b), substituted “October 1, 2007” for “October 1, 2002”.
+
+Subsec. (f). Pub. L. 107–135, §208(e)(4), substituted “section 1784” for “section 1711(b)”.
 
 1997—Subsec. (a)(1). Pub. L. 105–33, §8023(d)(1), substituted “reasonable charges for” for “the reasonable cost of”.
 
@@ -116,7 +120,7 @@ Subsec. (c)(2)(B). Pub. L. 105–33, §8023(d)(2)(A), substituted “reasonable 
 
 Subsec. (g). Pub. L. 105–33, §8023(b)(4), struck out subsec. (g) which established in the Treasury a fund known as the Department of Veterans Affairs Medical-Care Cost Recovery Fund and provided for deposits to and payments from the Fund.
 
-1996—Subsec. (g)(3)(A). Pub. L. 104–262 substituted “under subsection (f) or (g) of section 1710 of this titlefor hospital care, medical services, or nursing home care” for “under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services,”.
+1996—Subsec. (g)(3)(A). Pub. L. 104–262 substituted “under subsection (f) or (g) of section 1710 of this title for hospital care, medical services, or nursing home care” for “under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services,”.
 
 1993—Subsec. (a)(2)(E). Pub. L. 103–66 substituted “October 1, 1998” for “August 1, 1994”.
 
@@ -148,7 +152,7 @@ Subsec. (g). Pub. L. 101–508, §8011(c), amended subsec. (g) generally. Prior 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 8023(b)(4) of Pub. L. 105–33 effective Oct. 1, 1997, and amendment by section 8023(d) of Pub. L. 105–33 effective Aug. 5, 1997, see section 8023(g) of Pub. L. 105–33, set out as a note under section 712 of this title.
+Amendment by section 8023(b)(4) of Pub. L. 105–33 effective Oct. 1, 1997, and amendment by section 8023(d) of Pub. L. 105–33 effective Aug. 5, 1997, see section 8023(g) of Pub. L. 105–33, set out as a note under section 1710 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -184,7 +188,7 @@ Section 8023(c) of Pub. L. 105–33 provided that: “The amount of the unobliga
 
 #### Transfers to Medical-Care Cost Recovery Fund
 
-Section 8011(d) of Pub. L. 101–508, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that the Secretary of the Treasury was to transfer $25,000,000 from the Department of Veterans Affairs Loan Guaranty Revolving Fund to the Department of Veterans Affairs Medical-Care Cost Recovery Fund and that the amount so transferred was to be available until the end of Sept. 30, 1991, for the support of the equivalent of 800 full-time employees and other expenses described in former subsec. (g)(3) of this section, and provided that the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities was to be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
+Section 8011(d) of Pub. L. 101–508, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that the Secretary of the Treasury was to transfer $25,000,000 from the Department of Veterans Affairs Loan Guaranty Revolving Fund to the Department of Veterans Affairs Medical-Care Cost Recovery Fund and that the amount so transferred was to be available until the end of Sept. 30, 1991, for the support of the equivalent of 800 full-time employees and other expenses described in former subsec. (g)(3) of this section, and provided that the first $25,000,000 recovered or collected by the Department of Veterans Affairs duringfiscal year 1991 as a result of third-party medical recovery activities was to be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
 
 #### Reports on Implementation of 1986 Amendment
 
@@ -192,5 +196,5 @@ Section 19013(c) of Pub. L. 99–272 directed Administrator of Veterans’ Affai
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1725, 1729A of this title.
+This section is referred to in sections 1725, 1729A, 1781 of this title.
 

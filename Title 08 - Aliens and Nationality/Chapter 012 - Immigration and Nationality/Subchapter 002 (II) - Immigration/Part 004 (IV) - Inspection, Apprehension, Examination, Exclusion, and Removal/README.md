@@ -16,6 +16,7 @@ This part is referred to in sections 1252, 1306, 1361 of this title; title 22 se
 - [&sect; 01225 - Inspection by immigration officers; expedited removal of inadmissible arriving aliens; referral for hearing](%C2%A7%2001225%20-%20Inspection%20by%20immigration%20officers%3B%20expedited%20removal%20of%20inadmissible%20arriving%20aliens%3B%20referral%20for%20hearing.md)
 - [&sect; 01225a - Preinspection at foreign airports](%C2%A7%2001225a%20-%20Preinspection%20at%20foreign%20airports.md)
 - [&sect; 01226 - Apprehension and detention of aliens](%C2%A7%2001226%20-%20Apprehension%20and%20detention%20of%20aliens.md)
+- [&sect; 01226a - Mandatory detention of suspected terrorists; habeas corpus; judicial review](%C2%A7%2001226a%20-%20Mandatory%20detention%20of%20suspected%20terrorists%3B%20habeas%20corpus%3B%20judicial%20review.md)
 - [&sect; 01227 - Deportable aliens](%C2%A7%2001227%20-%20Deportable%20aliens.md)
 - [&sect; 01228 - Expedited removal of aliens convicted of committing aggravated felonies](%C2%A7%2001228%20-%20Expedited%20removal%20of%20aliens%20convicted%20of%20committing%20aggravated%20felonies.md)
 - [&sect; 01229 - Initiation of removal proceedings](%C2%A7%2001229%20-%20Initiation%20of%20removal%20proceedings.md)

@@ -17,13 +17,14 @@
 | (b) | Project proposal. |
 | (c) | Project review and approval. |
 | (d) | Criteria for approval. |
-| (e) | Project reporting. |
-| [4212\.](Subchapter%20001%20%28I%29%20-%20African%20Elephant%20Conservation%20Assistance/%C2%A7%2004212%20-%20African%20Elephant%20Conservation%20Fund.md) | African Elephant Conservation Fund. |
-| (a) | Establishment. |
-| (b) | Deposits into Fund. |
-| (c) | Use. |
-| (d) | Acceptance and use of donations. |
+| (e) | Project sustainability. |
+| (f) | Project reporting. |
+| [4212\.](Subchapter%20001%20%28I%29%20-%20African%20Elephant%20Conservation%20Assistance/%C2%A7%2004212%20-%20Acceptance%20and%20use%20of%20donations.md) | Acceptance and use of donations. |
 | [4213\.](Subchapter%20001%20%28I%29%20-%20African%20Elephant%20Conservation%20Assistance/%C2%A7%2004213%20-%20Omitted.md) | Omitted. |
+| [4214\.](Subchapter%20001%20%28I%29%20-%20African%20Elephant%20Conservation%20Assistance/%C2%A7%2004214%20-%20Advisory%20group.md) | Advisory group. |
+| (a) | In general. |
+| (b) | Public participation. |
+| (c) | Exemption from Federal Advisory Committee Act. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -61,9 +62,11 @@
 | :--- | ---: |
 | [4241\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004241%20-%20Relationship%20to%20Endangered%20Species%20Act%20of%201973.md) | Relationship to Endangered Species Act of 1973. |
 | [4242\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004242%20-%20Certification%20under%20Pelly%20amendment.md) | Certification under Pelly amendment. |
-| [4243\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004243%20-%20Effectiveness%20of%20CITES.md) | Effectiveness of CITES. |
+| [4243\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004243%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93111%2C%20%C2%A76%28a%29%283%29%2C%20Jan.%208%2C%202002%2C%20115%20Stat.%202096.md) | Repealed. |
 | [4244\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004244%20-%20Definitions.md) | Definitions. |
 | [4245\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004245%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Administrative expenses. |
 | [4246\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2004246%20-%20Multinational%20Species%20Conservation%20Fund.md) | Multinational Species Conservation Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -32,6 +32,10 @@ The Congress finds the following:
 
 The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–112, §1, Jan. 8, 2002, 115 Stat. 2097, provided that: “This Act \[enacting section 5305c of this title and amending sections 4246, 5303 to 5305, and 5306 of this title\] may be cited as the ‘Rhinoceros and Tiger Conservation Reauthorization Act of 2001’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–312, title IV, §401, Oct. 30, 1998, 112 Stat. 2959, provided that: “This title \[enacting sections 5305a and 5305b of this title, amending sections 5302, 5303, and 5306 of this title, and enacting provisions set out as a note below\] may be cited as the ‘Rhinoceros and Tiger Conservation Act of 1998’.”

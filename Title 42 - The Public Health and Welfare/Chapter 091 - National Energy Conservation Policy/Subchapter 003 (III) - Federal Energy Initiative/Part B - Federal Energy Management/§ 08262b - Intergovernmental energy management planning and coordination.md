@@ -2,7 +2,7 @@
 
 #### (a) Conference workshops
 
-The Administrator of General Services, in consultation with the Secretary and the Task Force, shall hold regular, biennial conference workshops in each of the 10 standard Federal regions on energy management, conservation, efficiency, and planning strategy. The Administrator shall work and consult with the Department of Energy and other Federal agencies to plan for particular regional conferences. The Administrator shall invite Department of Energy, State, local, tribal, and county public officials who have responsibilities for energy management or may have an interest in such conferences and shall seek the input of, and be responsive to, the views of such officials in the planning and organization of such workshops.
+The Administrator of General Services, in consultation with the Secretary and the Task Force, shall hold regular, biennial conference workshops in each of the 10 standard Federal regions on energy management, conservation, efficiency, and planning strategy. The Administrator shall work and consult with the Department of Energy and other Federal agencies to plan for particular regional conferences. The Administrator shall invite Department of Energy, State, local, tribal, and county public officialswho have responsibilities for energy management or may have an interest in such conferences and shall seek the input of, and be responsive to, the views of such officials in the planning and organization of such workshops.
 
 #### (b) Focus of workshops
 
@@ -20,7 +20,7 @@ Such workshops and conferences shall focus on the following (but may include oth
 
 #### (c) Establishment of workshop timetable
 
-As a part of the first report to be submitted pursuant to section 8262a of this title, the Administrator shall set forth the schedule for the regional energy management workshops to be conducted under this section. Not less than five such workshops shall be held by September 30, 1993, and at least one such workshop shall beheld in each of the 10 Federal regions every two years beginning on September 30, 1993.
+As a part of the first report to be submitted pursuant to section 8262a of this title, the Administrator shall set forth the schedule for the regional energy management workshops to be conducted under this section. Not less than five such workshops shall be held by September 30, 1993, and at least one such workshop shall be held in each of the 10 Federal regions every two years beginning on September 30, 1993.
 
 (Pub. L. 102–486, title I, §156, Oct. 24, 1992, 106 Stat. 2855.)
 

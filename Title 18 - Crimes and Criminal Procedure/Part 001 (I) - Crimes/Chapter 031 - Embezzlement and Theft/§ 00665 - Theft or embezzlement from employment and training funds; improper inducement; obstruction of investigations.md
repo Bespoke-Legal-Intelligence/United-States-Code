@@ -1,6 +1,6 @@
 ### §665. Theft or embezzlement from employment and training funds; improper inducement; obstruction of investigations
 
-(a) Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 knowingly enrolls an ineligible participant, embezzles, willfully misapplies, steals, or obtains by fraud any of the moneys, funds, assets, or property which are the subject of a financial assistance agreement or contract pursuant to such Act shall be fined under this title or imprisoned for not more than 2 years, or both; but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $1,000, such person shall be fined under this title or imprisoned not more than 1 year, or both.
+(a) Whoever, being an officer, director, agent, or employee of, or connected in any capacitywith any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 knowingly enrolls an ineligible participant, embezzles, willfully misapplies, steals, or obtains by fraud any of the moneys, funds, assets, or property which are the subject of a financial assistance agreement or contract pursuant to such Act shall be fined under this title or imprisoned for not more than 2 years, or both; but if the amount so embezzled, misapplied, stolen, or obtained by fraud does not exceed $1,000, such person shall be fined under this title or imprisoned not more than 1 year, or both.
 
 (b) Whoever, by threat or procuring dismissal of any person from employment or of refusal to employ or refusal to renew a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998 induces any person to give up any money or thing of any value to any person (including such organization or agency receiving funds) shall be fined under this title, or imprisoned not more than 1 year, or both.
 
@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
+The Job Training Partnership Act, referred to in text, is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
 
 The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

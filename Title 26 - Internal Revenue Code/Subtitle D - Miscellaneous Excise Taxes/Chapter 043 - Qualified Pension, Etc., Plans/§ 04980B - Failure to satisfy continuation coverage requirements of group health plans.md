@@ -60,7 +60,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the maximum amount of tax imposed by subsection (a) on failures on any day during the noncompliance period with respect to a qualified beneficiary shall be $100.
+&emsp;&emsp;Except as provided in subparagraph (B), the maximum amount of tax imposed bysubsection (a) on failures on any day during the noncompliance period with respect to a qualified beneficiary shall be $100.
 
 #### (B) Special rule where more than 1 qualified beneficiary
 
@@ -146,7 +146,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;&emsp;(I) employer or plan administrator, or
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a qualifying event described in subparagraph (C) or (E) of subsection (f)(3) where the person described in clause (i) is the plan administrator, the qualified beneficiary,
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a qualifying event described in subparagraph (C) or (E) ofsubsection (f)(3) where the person described in clause (i) is the plan administrator, the qualified beneficiary,
 
 &emsp;&emsp;&nbsp;submits to such person a written request that such person make available to such qualified beneficiary the same coverage which such person provides to the beneficiary referred to in clause (i).
 
@@ -188,7 +188,7 @@ This section shall not apply to—
 
 #### (V) Medicare entitlement followed by qualifying event
 
-&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) that occurs less than 18 months after the date thecovered employee became entitled to benefits under title XVIII of the Social Security Act, the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this clause before the close of the 36-month period beginning on the date the covered employee became so entitled.
+&emsp;&emsp;&emsp;&emsp;In the case of a qualifying event described in paragraph (3)(B) that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act, the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this clause before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
 &emsp;&emsp;&nbsp;In the case of a qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at any time during the first 60 days of continuation coverage under this section, any reference in subclause (I) or (II) to 18 months is deemed a reference to 29 months (with respect to all qualified beneficiaries), but only if the qualified beneficiary has provided notice of such determination under paragraph (6)(C) before the end of such 18 months.
 
@@ -246,7 +246,7 @@ This section shall not apply to—
 
 &emsp;&emsp;(F) A proceeding in a case under title 11, United States Code, commencing on or after July 1, 1986, with respect to the employer from whose employment the covered employee retired at any time.
 
-> &emsp;In the case of an event described in subparagraph (F), a loss of coverage includes a substantial elimination of coverage with respect to a qualified beneficiary described in subsection (g)(1)(D) within one year before orafter the date of commencement of the proceeding.
+> &emsp;In the case of an event described in subparagraph (F), a loss of coverage includes a substantial elimination of coverage with respect to a qualified beneficiary described in subsection (g)(1)(D) within one year before or after the date of commencement of the proceeding.
 
 #### (4) Applicable premium
 
@@ -390,7 +390,7 @@ For purposes of this section—
 
 > &emsp;For purposes of applying subparagraph (B), the qualified beneficiary shall be treated as if he had elected the most favorable coverage in light of the expenses he incurred since the failure first occurred.
 
-(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub.L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088.)
+(Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub. L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088.)
 
 #### References in Text
 
@@ -408,7 +408,7 @@ The Public Health Service Act, referred to in subsec. (f)(2)(B)(iv)(I), is act J
 
 Pub. L. 104–188, §1704(t)(21), made technical amendment to directory language of Pub. L. 101–239, §6701(a)(1). See 1989 Amendment note below.
 
-Subsec. (f)(2)(B)(i)(V). Pub. L. 104–188, §1704(g)(1)(A), substituted “Medicare entitlement followed by qualifying event” for “Qualifying event involving medicare entitlement” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of an event described in paragraph (3)(D) (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
+Subsec. (f)(2)(B)(i)(V). Pub. L. 104–188, §1704(g)(1)(A), substituted “Medicare entitlement followed by qualifying event” for “Qualifying event involving medicare entitlement” in heading and amended text generally.Prior to amendment, text read as follows: “In the case of an event described in paragraph (3)(D) (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
 
 Subsec. (f)(2)(B)(iv)(I). Pub. L. 104–191, §421(c)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of this title, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or title XXVII of the Public Health Service Act)” before “, or”.
 
@@ -442,7 +442,7 @@ Pub. L. 101–239, §7891(d)(1)(B)(i)(II), inserted “(or, in the case of a gro
 
 Subsec. (f)(6)(B). Pub. L. 101–239, §7891(d)(1)(B)(i)(I), inserted “(or, in the case of a group health plan which is a multiemployer plan, such longer period of time as may be provided in the terms of the plan)” after “30 days”.
 
-Subsec. (f)(6)(C). Pub. L. 101–239, §6701(c), inserted before period at end “and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B) is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 daysof the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled”.
+Subsec. (f)(6)(C). Pub. L. 101–239, §6701(c), inserted before period at end “and each qualified beneficiary who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in paragraph (3)(B) is responsible for notifying the plan administrator of such determination within 60 days after the date of the determination and for notifying the plan administrator within 30 days of the date of any final determination under such title or titles that the qualified beneficiary is no longer disabled”.
 
 Subsec. (f)(7). Pub. L. 101–239, §7862(c)(2)(B), substituted “the performance of services by the individual for 1 or more persons maintaining the plan (including as an employee defined in section 401(c)(1))” for “the individual's employment or previous employment with an employer”.
 

@@ -112,7 +112,3 @@ In General.—Not later than 30 days after the date of enactment of this Act \[D
 
 Section 9516(c) of Pub. L. 99–272, as amended by Pub. L. 100–203, title IV, §4211(<i>l</i>), Dec. 22, 1987, 101 Stat. 1330–207, directed Secretary of Health and Human Services to submit a report to Congress on implementation and results of this section, such report to be submitted not later than 30 months after the effective date of final regulations promulgated to implement this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 6006 of this title.
-

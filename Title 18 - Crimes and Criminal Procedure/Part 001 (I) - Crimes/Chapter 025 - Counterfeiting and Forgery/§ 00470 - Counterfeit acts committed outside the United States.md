@@ -4,11 +4,21 @@ A person who, outside the United States, engages in the act of—
 
 &emsp;(1) making, dealing, or possessing any counterfeit obligation or other security of the United States; or
 
-&emsp;(2) making, dealing, or possessing any plate, stone, or other thing, or any part thereof, used to counterfeit such obligation or security,
+&emsp;(2) making, dealing, or possessing any plate, stone, analog, digital, or electronic image, or other thing, or any part thereof, used to counterfeit such obligation or security,
 
-> if such act would constitute a violation of section 471, 473, or 474 if committed within the United States, shall be fined under this title, imprisoned not more than 20 years, or both.
+> if such act would constitute a violation of section 471, 473, or 474 if committed within the United States, shall be punished as is provided for the like offense within the United States.
 
-(Added Pub. L. 103–322, title XII, §120003(a), Sept. 13, 1994, 108 Stat. 2021.)
+(Added Pub. L. 103–322, title XII, §120003(a), Sept. 13, 1994, 108 Stat. 2021; amended Pub. L. 107–56, title III, §374(a), Oct. 26, 2001, 115 Stat. 340.)
+
+#### Amendments
+
+2001—Pub. L. 107–56, §374(a)(2), in concluding provisions, substituted “shall be punished as is provided for the like offense within the United States” for “shall befined under this title, imprisoned not more than 20 years, or both”.
+
+Par. (2). Pub. L. 107–56, §374(a)(1), inserted “analog, digital, or electronic image,” after “plate, stone,”.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Combatting International Counterfeiting of United States Currency
 

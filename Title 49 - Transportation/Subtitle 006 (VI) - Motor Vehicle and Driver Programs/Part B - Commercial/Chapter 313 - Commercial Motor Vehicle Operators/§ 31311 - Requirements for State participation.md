@@ -2,7 +2,7 @@
 
 (a)
 
-General.—To avoid having amounts withheld from apportionment under section 31314 ofthis title, a State shall comply with the following requirements:
+General.—To avoid having amounts withheld from apportionment under section 31314 of this title, a State shall comply with the following requirements:
 
 &emsp;(1) The State shall adopt and carry out a program for testing and ensuring the fitness of individuals to operate commercial motor vehicles consistent with the minimum standards prescribed by the Secretary of Transportation under section 31305(a) of this title.
 
@@ -56,7 +56,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;&emsp;(i) has been disqualified from operating a motor vehicle (except a commercial motor vehicle);
 
-&emsp;&emsp;(ii) has had a license (except a license authorizing the individual to operate a commercial motor vehicle) revoked, suspended,or canceled for cause in the 3-year period ending on the date of application for the commercial driver's license; or
+&emsp;&emsp;(ii) has had a license (except a license authorizing the individual to operate a commercial motor vehicle) revoked, suspended, or canceled for cause in the 3-year period ending on the date of application for the commercial driver's license; or
 
 &emsp;&emsp;(iii) has been convicted of an offense specified in section 30304(a)(3) of this title.
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) be selected for advanced training under procedures prescribed by the Secretary of the military department concerned;
 
-&emsp;(3) enlist in a reserve component of an armed force under the jurisdiction of the Secretary of the military department concerned for the period prescribed by the Secretary;
+&emsp;(3) enlist in an armed force under the jurisdiction of the Secretary of the military department concerned for the period prescribed by the Secretary;
 
 &emsp;(4) contract, with the consent of his parent or guardian if he is a minor, with the Secretary of the military department concerned, or his designated representative, to serve for the period required by the program;
 
@@ -30,7 +30,7 @@
 
 (d) This section does not apply to cadets and midshipmen appointed under section 2107, or foreign students enrolled under section 2103(b), of this title.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 98–94, title X, §1003(a)(2), Sept. 24, 1983, 97 Stat. 656; Pub. L. 98–525, title V, §543(a), title XIV, §1401(h), Oct. 19, 1984, 98 Stat. 2530, 2619; Pub. L. 104–106, div. A, title V, §544, Feb. 10, 1996, 110 Stat. 317.)
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 98–94, title X, §1003(a)(2), Sept. 24, 1983, 97 Stat. 656; Pub. L. 98–525, title V, §543(a), title XIV, §1401(h), Oct. 19, 1984, 98 Stat. 2530, 2619; Pub. L. 104–106, div. A, title V, §544, Feb. 10, 1996, 110 Stat. 317; Pub. L. 107–107, div. A, title V, §535(a), Dec. 28, 2001, 115 Stat. 1106.)
 
 #### Prior Provisions
 
@@ -100,11 +100,13 @@ June 30, 1954, ch. 432, title VII, §731, 68 Stat. 356.
 
 #### Amendments
 
+2001—Subsec. (b)(3). Pub. L. 107–107 struck out “a reserve component of” before “an armed force”.
+
 1996—Subsec. (b)(6)(A)(ii). Pub. L. 104–106 substituted “a duration” for “not less than six weeks’ duration”.
 
 1984—Subsec. (a). Pub. L. 98–525, §543(a)(1), struck out “, who have at least two academic years remaining at such educational institution” after “in the program”.
 
-Subsec. (b)(6). Pub. L. 98–525, §543(a)(2), inserted initial word “either”, redesignated existing subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
+Subsec. (b)(6). Pub. L. 98–525, §543(a)(2), inserted initial word “either”, redesignated existing subpars. (A)and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
 
 Subsec. (b)(7). Pub. L. 98–525, §1401(h), added par. (7).
 

@@ -14,7 +14,7 @@ Membership.—(A)(i) The Reform Board shall consist of 7 voting members appointe
 
 &emsp;(ii) Notwithstanding clause (i), if the Secretary of Transportation is appointed to the Reform Board, such appointment shall not be subject to the advice and consent of the Senate. If appointed, the Secretary may be represented at Board meetings by his designee.
 
-&emsp;(B) In selecting the individuals described in subparagraph (A) for nominations for appointments to the Reform Board, the President should consult with the Speaker of the Houseof Representatives, the Minority Leader of the House of Representatives, the Majority Leader of the Senate, and the Minority Leader of the Senate.
+&emsp;(B) In selecting the individuals described in subparagraph (A) for nominations for appointments to the Reform Board, the President should consult with the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Majority Leader of the Senate, and the Minority Leader of the Senate.
 
 &emsp;(C) Appointments under subparagraph (A) shall be made from among individuals who—
 
@@ -36,7 +36,7 @@ Confirmation procedure in senate.—
 
 &emsp;&emsp;&emsp;(ii) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
-&emsp;&emsp;(B) If, by the first day of June on which the Senate is in session after a nomination is submitted to the Senate under this section, the committee to which the nomination was referred has not reported the nomination, then it shall be discharged from further consideration of the nomination and the nomination shall be placed on the Executive Calendar.
+&emsp;&emsp;(B) If, by the first day of June on which the Senate is in session after a nominationis submitted to the Senate under this section, the committee to which the nomination was referred has not reported the nomination, then it shall be discharged from further consideration of the nomination and the nomination shall be placed on the Executive Calendar.
 
 &emsp;&emsp;(C) It shall be in order at any time thereafter to move to proceed to the consideration of the nomination without any intervening action or debate.
 

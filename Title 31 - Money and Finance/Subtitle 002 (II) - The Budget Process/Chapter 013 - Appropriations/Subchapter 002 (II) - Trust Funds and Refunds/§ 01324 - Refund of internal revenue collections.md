@@ -22,7 +22,7 @@
 
 &emsp;(2) refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, §101(d)(1), Aug. 5, 1997, 111 Stat. 799.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L.105–34, title I, §101(d)(1), Aug. 5, 1997, 111 Stat. 799.)
 
 Historical and Revision Notes
 

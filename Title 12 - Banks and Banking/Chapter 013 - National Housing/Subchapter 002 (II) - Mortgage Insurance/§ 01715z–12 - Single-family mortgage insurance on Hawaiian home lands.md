@@ -22,19 +22,35 @@ Notwithstanding any other provision of this chapter, the insurance of a mortgage
 
 For purposes of this section:
 
-&emsp;(1) The term “native Hawaiian” means any descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands before January 1, 1778 (or, in the case of an individual who succeeds a spouse or parent in an interest in a lease of Hawaiian home lands, such lower percentage as may be established for such succession under section 209 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 5)).
+#### (1) Native Hawaiian
 
-&emsp;(2) The term “Hawaiian home lands” means all lands given the status of Hawaiian home lands under section 204 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 5).
+&emsp;The term “native Hawaiian” means any descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands before January 1, 1778, or, in the case of an individual who is awarded an interest in a lease of Hawaiian home lands through transfer or succession, such lower percentage as may be established for such transfer or succession under section 208 or 209 of the Hawaiian Homes Commission Act of 1920 (42 Stat. 111), or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 5).
 
-(June 27, 1934, ch. 847, title II, §247, as added Pub. L. 98–181, title IV, §421, Nov. 30, 1983, 97 Stat. 1213; amended Pub. L. 100–202, §101(f) \[title I, §101\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–191; Pub. L. 100–242, title IV, §§413(a), (b), 429(h), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 100–628, title X, §1065, Nov. 7, 1988, 102 Stat. 3275.)
+#### (2) Hawaiian home lands
+
+&emsp;The term “Hawaiian home lands” means all lands given the status of Hawaiian home lands under section 204 of the Hawaiian Homes Commission Act of 1920 (42 Stat. 110), or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved March 18, 1959 (73 Stat. 5).
+
+#### (e) Certification of eligibility for existing lessees
+
+Possession of a lease of Hawaiian home lands issued under section 207(a) of the Hawaiian Homes Commission Act of 1920 (42 Stat. 110), shall be sufficient to certify eligibility to receive a mortgage under this section.
+
+(June 27, 1934, ch. 847, title II, §247, as added Pub. L. 98–181, title IV, §421, Nov. 30, 1983, 97 Stat. 1213; amended Pub. L. 100–202, §101(f) \[title I, §101\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–191; Pub. L. 100–242, title IV, §§413(a), (b), 429(h), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 100–628, title X, §1065, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 107–73, title II, §215, Nov. 26, 2001, 115 Stat. 677.)
 
 #### References in Text
 
-The Hawaiian Homes Commission Act, 1920, referred to in subsecs. (a)(1) and (d), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended. Sections 204, 207, and 209 of that Act were classified to sections 698, 701, and 703 of Title 48, Territories and Insular Possessions, and were omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended. The Hawaiian Homes Commission Act of 1920, referred to in subsecs. (d) and (e), probably means the Hawaiian Homes Commission Act, 1920. Sections 204, 207, 208, and 209 of that Act were classified to sections 698, 701, 702, and 703 of Title 48, Territories and Insular Possessions, and were omitted from the Code.
 
 Section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved Mar. 18, 1959 (73 Stat. 5), referred to in subsecs. (a)(1) and (d), is section 4 of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 5, which is set out as a note preceding section 491 of Title 48.
 
 #### Amendments
+
+2001—Subsec. (d)(1), (2). Pub. L. 107–73, §215(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+“(1) The term ‘native Hawaiian’ means any descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands before January 1, 1778 (or, in the case of an individual who succeeds a spouse or parent in an interest in a lease of Hawaiian home lands, such lower percentage as may be established for such succession under section 209 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled ‘AnAct to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 5)).
+
+“(2) The term ‘Hawaiian home lands’ means all lands given the status of Hawaiian home lands under section 204 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 5).”
+
+Subsec. (e). Pub. L. 107–73, §215(2), added subsec. (e).
 
 1988—Subsec. (a)(2). Pub. L. 100–242, §429(h), substituted “mortgagor” for “Mortgagor”.
 

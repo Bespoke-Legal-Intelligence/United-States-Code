@@ -19,7 +19,11 @@
 | (c) | Passport Office, Visa Office, and other offices; directors. |
 | (d) | Transfer of duties. |
 | (e) | General Counsel of Visa Office; appointment and duties. |
-| [1105\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001105%20-%20Liaison%20with%20internal%20security%20officers.md) | Liaison with internal security officers. |
+| [1105\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001105%20-%20Liaison%20with%20internal%20security%20officers%3B%20data%20exchange.md) | Liaison with internal security officers; data exchange. |
+| (a) | In general. |
+| (b) | Access to National Crime Information Center files. |
+| (c) | Reconsideration upon development of more cost effective means of sharing information. |
+| (d) | Regulations. |
 | 1105a, 1106. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -248,10 +252,10 @@
 |  |  |
 | :--- | ---: |
 | [1221\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001221%20-%20Lists%20of%20alien%20and%20citizen%20passengers%20arriving%20and%20departing.md) | Lists of alien and citizen passengers arriving and departing. |
-| (a) | Shipment or aircraft manifest; arrival; form and contents; exclusions. |
-| (b) | Departure; shipment or aircraft manifest; form and contents; exclusions. |
+| (a) | Arrival manifest; form and contents. |
+| (b) | Departure manifest; form and contents. |
 | (c) | Record of citizens and resident aliens leaving permanently for foreign countries. |
-| (d) | Penalties against noncomplying shipments or aircraft. |
+| (d) | Penalties against noncomplying shipments, aircraft or carriers. |
 | (e) | Waiver of requirements. |
 | [1222\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001222%20-%20Detention%20of%20aliens%20for%20physical%20and%20mental%20examination.md) | Detention of aliens for physical and mental examination. |
 | (a) | Detention of aliens. |
@@ -277,6 +281,10 @@
 | (c) | Detention of criminal aliens. |
 | (d) | Identification of criminal aliens. |
 | (e) | Judicial review. |
+| [1226a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001226a%20-%20Mandatory%20detention%20of%20suspected%20terrorists%3B%20habeas%20corpus%3B%20judicial%20review.md) | Mandatory detention of suspected terrorists; habeas corpus; judicial review. |
+| (a) | Detention of terrorist aliens. |
+| (b) | Habeas corpus and judicial review. |
+| (c) | Statutory construction. |
 | [1227\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001227%20-%20Deportable%20aliens.md) | Deportable aliens. |
 | (a) | Classes of deportable aliens. |
 | (b) | Deportation of certain nonimmigrants. |
@@ -652,6 +660,7 @@
 | (c) | Criminal aliens. |
 | (d) | Annual reports. |
 | (e) | Availability to public. |
+| [1379\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2001379%20-%20Technology%20standard%20to%20confirm%20identity.md) | Technology standard to confirm identity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -880,6 +889,7 @@
 | (i) | Determination of deportation. |
 | (j) | Written order. |
 | (k) | No right to ancillary relief. |
+| (<i>l</i>) | Report on terrorist removal proceedings. |
 | [1535\.](Subchapter%20005%20%28V%29%20-%20Alien%20Terrorist%20Removal%20Procedures/%C2%A7%2001535%20-%20Appeals.md) | Appeals. |
 | (a) | Appeal of denial of application for removal proceedings. |
 | (b) | Appeal of determination regarding summary of classified information. |
@@ -900,7 +910,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1184a, 1255b, 1367, 1572, 1611, 1612, 1621, 1622, 1641, 1642, 1643 of this title; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 section 278g; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705; title 46 section 8103; title 50 sections 47c, 47f.
+This chapter is referred to in sections 1184a, 1255b, 1367, 1572, 1611, 1612, 1621, 1622, 1641, 1642, 1643 of thistitle; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 section 278g; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705, 14941; title 46 section 8103; title 50 sections 47c, 47f.
 
 
 ---

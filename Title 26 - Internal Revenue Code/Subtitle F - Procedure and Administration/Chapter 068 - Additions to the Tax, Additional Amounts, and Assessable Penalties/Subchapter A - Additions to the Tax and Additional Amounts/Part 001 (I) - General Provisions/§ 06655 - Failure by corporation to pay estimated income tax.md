@@ -293,7 +293,7 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 #### (iii) Certain carrybacks and carryovers not taken into account
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), taxable income shall be determined withoutregard to any amount carried to the taxable year under section 172 or 1212(a).
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), taxable income shall be determined without regard to any amount carried to the taxable year under section 172 or 1212(a).
 
 #### (3) Certain tax-exempt organizations
 
@@ -337,7 +337,7 @@ No addition to tax shall be imposed under subsection (a) for any taxable year if
 
 #### (1) Addition to tax
 
-&emsp;If the amount of an adjustment under section 6425 made before the 15th day of the 3rd month following the close of the taxable year is excessive, there shall be added to the tax under chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
+&emsp;If the amount of an adjustment under section 6425 made before the 15th day of the 3rd month following the close of the taxable year is excessive, there shall be added to the taxunder chapter 1 for the taxable year an amount determined at the underpayment rate established under section 6621 upon the excessive amount from the date on which the credit is allowed or the refund is paid to such 15th day.
 
 #### (2) Excessive amount
 
@@ -497,7 +497,7 @@ Section 1461(b) of Pub. L. 105–34 provided that: “The amendment made by subs
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of1993, Pub. L. 103–66, §§13001–13444, to which such amendment relates, see section 1703(<i>o</i>) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -541,7 +541,7 @@ Amendment by section 701(d)(3) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 1511(c)(15) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Amendment by Pub. L. 99–499 applicable to taxable years beginning after Dec. 31, 1986, see section 516(c) ofPub. L. 99–499, set out as a note under section 26 of this title.
+Amendment by Pub. L. 99–499 applicable to taxable years beginning after Dec. 31, 1986, see section 516(c) of Pub. L. 99–499, set out as a note under section 26 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -581,6 +581,14 @@ Amendment by Pub. L. 90–364 applicable with respect to taxable years beginning
 
 Amendment by Pub. L. 88–272 effective, except for purposes of section 21 of this title, with respect to taxable years beginning after Dec. 31, 1963, see section 131 of Pub. L. 88–272, set out as a note under section 1 of this title.
 
+#### Time for Payment of September 2001 and September 2004 Corporate Estimated Taxes
+
+Pub. L. 107–16, title VIII, §801, June 7, 2001, 115 Stat. 148, provided that: “Notwithstanding section 6655 of the Internal Revenue Code of 1986—
+
+&emsp;“(1) 100 percent of the amount of any required installment of corporate estimated tax which is otherwise due in September 2001 shall not be due until October 1, 2001; and
+
+&emsp;“(2) 20 percent of the amount of any required installment of corporate estimated tax which is otherwise due in September 2004 shall not be due until October 1, 2004.”
+
 #### Waiver of Estimated Tax Penalties for 1998 Underpayments
 
 No addition to tax to be made under this section with respect to any underpayment of an installment required to be paid on or before the 30th day after July 22, 1998, to the extent such underpayment was created or increased by any provision of Pub. L. 105–206, see section 1(c) of Pub. L. 105–206, set out as a note under section 6654 of this title.
@@ -617,7 +625,7 @@ Section 10303(b)(2) of Pub. L. 100–203 provided that:
 
 “(A)
 
-In general.—In the case of a large corporation, no addition to tax shall be imposed by section 6655 of the Internal Revenue Code of 1986 with respect to any underpayment of an estimated tax installment towhich this subsection applies if no addition would be imposed with respect to such underpayment by reason of section 6655(d)(1) of such Code if such corporation were not a large corporation. The preceding sentence shall apply only to the extent the underpayment is paid on or before the last date prescribed for payment of the most recent installment of estimated tax due on or before September 15, 1987.
+In general.—In the case of a large corporation, no addition to tax shall be imposed by section 6655 of the Internal Revenue Code of 1986 with respect to any underpayment of an estimated tax installment to which this subsection applies if no addition would be imposed with respect to such underpayment by reason of section 6655(d)(1) of such Code if such corporation were not a large corporation. The preceding sentence shall apply only to the extent the underpayment is paid on or before the last date prescribed for payment of the most recent installment of estimated tax due on or before September 15, 1987.
 
 “(B)
 

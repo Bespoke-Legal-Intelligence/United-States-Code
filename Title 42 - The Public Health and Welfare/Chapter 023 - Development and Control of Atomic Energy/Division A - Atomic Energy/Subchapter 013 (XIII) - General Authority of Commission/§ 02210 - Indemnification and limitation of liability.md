@@ -16,7 +16,7 @@ Each license issued under section 2133 or 2134 of this title and each constructi
 
 (B) In the event that the Commission assesses a lesser annual deferred premium amount under subparagraph (A), the Commission shall require payment of the difference between the standard annual deferred premium assessment under paragraph (1) and any such lesser annual deferred premium assessment within a reasonable period of time, with interest at a rate determined by the Secretary of the Treasury on the basis of the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the date that the standard annual deferred premium assessment under paragraph (1) would become due.
 
-(3) The Commission shall establish such requirements as are necessary to assure availability of funds to meet any assessment of deferred premiums within a reasonable time when due, and may provide reinsurance or shall otherwise guarantee the payment of such premiums in the event it appears that the amount of such premiums will not be available on a timely basis through the resources of private industry and insurance. Any agreement by the Commission with a licensee or indemnitor to guarantee the payment of deferred premiums may contain such terms as the Commission deems appropriate to carry out the purposes of this section and to assure reimbursement to the Commission for its payments made due to the failure of such licensee or indemnitor to meet any of its obligations arising under or in connection with financial protection required under this subsection including without limitation terms creating liens upon the licensed facility and the revenues derived therefrom or any other property or revenues of such licensee to secure such reimbursement and consent to the automatic revocation of any license.
+(3) The Commission shall establish such requirements as are necessary to assure availability of funds to meet any assessment of deferred premiums within a reasonable time when due, and may provide reinsurance or shall otherwise guarantee the payment of such premiums in the event it appears that the amount of such premiums will not be available on a timely basis through the resources of private industry andinsurance. Any agreement by the Commission with a licensee or indemnitor to guarantee the payment of deferred premiums may contain such terms as the Commission deems appropriate to carry out the purposes of this section and to assure reimbursement to the Commission for its payments made due to the failure of such licensee or indemnitor to meet any of its obligations arising under or in connection with financial protection required under this subsection including without limitation terms creating liens upon the licensed facility and the revenues derived therefrom or any other property or revenues of such licensee to secure such reimbursement and consent to the automatic revocation of any license.
 
 (4)(A) In the event that the funds available to pay valid claims in any year are insufficient as a result of the limitation on the amount of deferred premiums that may be required of a licensee in any year under paragraph (1) or (2), or the Commission is required to make reinsurance or guaranteed payments under paragraph (3), the Commission shall, in order to advance the necessary funds—
 
@@ -40,7 +40,7 @@ The Commission shall, with respect to licenses issued between August 30, 1954, a
 
 (II) The Secretary may incorporate in agreements of indemnification under subparagraph (A) the provisions relating to the waiver of any issue or defense as to charitable or governmental immunity authorized in subsection (n)(1) of this section to be incorporated in agreements of indemnification. Any such provisions incorporated under this subclause shall apply to any nuclear incident arising out of nuclear waste activities subject to an agreement of indemnification under subparagraph (A).
 
-(ii) Public liability arising out of nuclear waste activities subject to an agreement of indemnification under subparagraph (A) that are funded by the Nuclear Waste Fund established in section 10222 of this title shall be compensated from the Nuclear Waste Fund in an amount not to exceed the maximum amount of financial protection required of licensees under subsection (b) of this section.
+(ii) Public liability arising out of nuclear waste activities subject to an agreement of indemnification under subparagraph (A) that are funded by the Nuclear Waste Fund establishedin section 10222 of this title shall be compensated from the Nuclear Waste Fund in an amount not to exceed the maximum amount of financial protection required of licensees under subsection (b) of this section.
 
 (2) In agreements of indemnification entered into under paragraph (1), the Secretary may require the contractor to provide and maintain financial protection of such a type and in such amounts as the Secretary shall determine to be appropriate to cover public liability arising out of or in connection with the contractual activity, and shall indemnify the persons indemnified against such claims above the amount of the financial protection required, to the full extent of the aggregate public liability of the persons indemnified for each nuclear incident, including such legal costs of the contractor as are approved by the Secretary.
 
@@ -88,7 +88,7 @@ In administering the provisions of this section, the Commission or the Secretary
 
 #### (h) Conditions of agreements of indemnification
 
-The agreement of indemnification may contain such terms as the Commission or the Secretary, as appropriate, deems appropriate to carry out the purposes of this section. Such agreement shall provide that, when the Commission or the Secretary, as appropriate, makes a determination that the United States will probably be required to make indemnity payments under this section, the Commission or the Secretary, as appropriate, shall collaborate with any person indemnified and may approve the payment of any claim under the agreement of indemnification, appear through the Attorney General on behalf of the person indemnified,take charge of such action, and settle or defend any such action. The Commission or the Secretary, as appropriate, shall have final authority on behalf of the United States to settle or approve the settlement of any such claim on a fair and reasonable basis with due regard for the purposes of this chapter. Such settlement shall not include expenses in connection with the claim incurred by the person indemnified.
+The agreement of indemnification may contain such terms as the Commission or the Secretary, as appropriate, deems appropriate to carry out the purposes of this section. Such agreement shall provide that, when the Commission or the Secretary, as appropriate, makes a determination that the United States will probably be required to make indemnity payments under this section, the Commission or the Secretary, as appropriate, shall collaborate with any person indemnified and may approve the payment of any claim under the agreement of indemnification, appear through the Attorney General on behalf of the person indemnified, take charge of such action, and settle or defend any such action. The Commission or the Secretary, as appropriate, shall have final authority on behalf of the United States to settle or approve the settlement of any such claim on a fair and reasonable basis with due regard for the purposes of this chapter. Such settlement shall not include expenses in connection with the claim incurred by the person indemnified.
 
 #### (i) Compensation plans
 
@@ -132,7 +132,7 @@ The agreement of indemnification may contain such terms as the Commission or the
 
 (D)(i) If the committee of the Senate to which a resolution with respect to a compensation plan has been referred has not reported it at the end of twenty calendar days after its referral, it shall be in order to move either to discharge the committee from further consideration of such resolution or to discharge the committee from further consideration with respect to such compensation plan which has been referred to the committee.
 
-(ii) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same compensationplan), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
+(ii) A motion to discharge may be made only by an individual favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same compensation plan), and debate thereon shall be limited to not more than one hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion shall not be in order, and it shall not be in order to move to reconsider the vote by which the motion was agreed to or disagreed to.
 
 (iii) If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same compensation plan.
 
@@ -180,7 +180,7 @@ With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a)
 
 (3) The study commission shall conduct a comprehensive study of appropriate means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1) of this section, and shall submit to the Congress a final report setting forth—
 
-&emsp;(A) recommendations for any changes in the laws and rules governing the liability or civil procedures that are necessary for the equitable, prompt, and efficient resolution andpayment of all valid damage claims, including the advisability of adjudicating public liability claims through an administrative agency instead of the judicial system;
+&emsp;(A) recommendations for any changes in the laws and rules governing the liability or civil procedures that are necessary for the equitable, prompt, and efficient resolution and payment of all valid damage claims, including the advisability of adjudicating public liability claims through an administrative agency instead of the judicial system;
 
 &emsp;(B) recommendations for any standards or procedures that are necessary to establish priorities for the hearing, resolution, and payment of claims when awards are likely to exceed the amount of funds available within a specific time period; and
 
@@ -210,7 +210,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 (1) With respect to any extraordinary nuclear occurrence to which an insurance policy or contract furnished as proof of financial protection or an indemnity agreement applies and which—
 
-&emsp;(A) arises out of or results from or occurs in the course of the construction, possession, or operation of a production or utilization facility,
+&emsp;(A) arises out of or results from or occurs in the course of the construction, possession, oroperation of a production or utilization facility,
 
 &emsp;(B) arises out of or results from or occurs in the course of transportation of source material, byproduct material, or special nuclear material to or from a production or utilization facility,
 
@@ -220,9 +220,9 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 &emsp;(E) arises out of, results from, or occurs in the course of, transportation of source material, byproduct material, or special nuclear material to or from any facility licensed under section 2073, 2093, or 2111 of this title, for which the Commission has imposed as a condition of the license a requirement that the licensee have and maintain financial protection under subsection (a) of this section, or
 
-&emsp;(F) arises out of, results from, or occurs in the course of nuclear waste activities.
+&emsp;(F) arises out of, results from, or occurs in the course of nuclear waste activities.<sup>3</sup>
 
-> the Commission or the Secretary, as appropriate, may incorporate provisions in indemnity agreements with licensees and contractors under this section, and may require provisions to be incorporated in insurance policies or contracts furnished as proof of financial protection, which waive (i) any issue or defense as to conduct of the claimant or fault of persons indemnified, (ii) any issue or defense as to charitable or governmental immunity, and (iii) any issue or defense based on any statute of limitations if suit is instituted within three years from the date on which the claimant first knew, or reasonably could have known, of his injury or damage and the cause thereof. The waiver of anysuch issue or defense shall be effective regardless of whether such issue or defense may otherwise be deemed jurisdictional or relating to an element in the cause of action. When so incorporated, such waivers shall be judicially enforcible in accordance with their terms by the claimant against the person indemnified. Such waivers shall not preclude a defense based upon a failure to take reasonable steps to mitigate damages, nor shall such waivers apply to injury or damage to a claimant or to a claimant's property which is intentionally sustained by the claimant or which results from a nuclear incident intentionally and wrongfully caused by the claimant. The waivers authorized in this subsection shall, as to indemnitors, be effective only with respect to those obligations set forth in the insurance policies or the contracts furnished as proof of financial protection and in the indemnity agreements. Such waivers shall not apply to, or prejudice the prosecution or defense of, any claim or portion of claim which is not within the protection afforded under (i) the terms of insurance policies or contracts furnished as proof of financial protection, or indemnity agreements, and (ii) the limit of liability provisions of subsection (e) of this section.
+> the Commission or the Secretary, as appropriate, may incorporate provisions in indemnity agreements with licensees and contractors under this section, and may require provisions to be incorporated in insurance policies or contracts furnished as proof of financial protection, which waive (i) any issue or defense as to conduct of the claimant or fault of persons indemnified, (ii) any issue or defense as to charitable or governmental immunity, and (iii) any issue or defense based on any statute of limitations if suit is instituted within three years from the date on which the claimant first knew, or reasonably could have known, of his injury or damage and the cause thereof. The waiver of any such issue or defense shall be effective regardless of whether such issue or defense may otherwise be deemed jurisdictional or relating to an element in the cause of action. When so incorporated, such waivers shall be judicially enforcible in accordance with their terms by the claimant against the person indemnified. Such waivers shall not preclude a defense based upon a failure to take reasonable steps to mitigate damages, nor shall such waivers apply to injury or damage to a claimant or to a claimant's property which is intentionally sustained by the claimant or which results from a nuclear incident intentionally and wrongfully caused by the claimant. The waivers authorized in this subsection shall, as to indemnitors, be effective only with respect to those obligations set forth in the insurance policies or the contracts furnished as proof of financial protection and in the indemnity agreements. Such waivers shall not apply to, or prejudice the prosecution or defense of, any claim or portion of claim which is not within the protection afforded under (i) the terms of insurance policies or contracts furnished as proof of financial protection, or indemnity agreements, and (ii) the limit of liability provisions of subsection (e) of this section.
 
 (2) With respect to any public liability action arising out of or resulting from a nuclear incident, the United States district court in the district where the nuclear incident takes place, or in the case of a nuclear incident taking place outside the United States, the United States District Court for the District of Columbia, shall have original jurisdiction without regard to the citizenship of any party or the amount in controversy. Upon motion of the defendant or of the Commission or the Secretary, as appropriate, any such action pending in any State court (including any such action pending on August 20, 1988) or United States district court shall be removed or transferred to the United States district court having venue under this subsection. Process of such district court shall be effective throughout the United States. In any action that is or becomes removable pursuant to this paragraph, a petition for removal shall be filed within the period provided in section 1446 of title 28 or within the 30-day period beginning on August 20, 1988, whichever occurs later.
 
@@ -260,7 +260,7 @@ The Commission or the Secretary, as appropriate, is authorized to enter into agr
 
 &emsp;(B) The court shall not authorize payments in excess of 15 per centum of such limit of liability unless the court determines that such payments are or will be in accordance with a plan of distribution which has been approved by the court or such payments are not likely to prejudice the subsequent adoption and implementation by the court of a plan of distribution pursuant to subparagraph (C); and
 
-&emsp;(C) The Commission or the Secretary, as appropriate, shall, and any other indemnitor or other interested person may, submit to such district court a plan for the disposition of pending claims and for the distribution of remaining funds available. Such a plan shall include an allocation of appropriate amounts for personal injury claims, property damageclaims, and possible latent injury claims which may not be discovered until a later time and shall include establishment of priorities between claimants and classes of claims, as necessary to insure the most equitable allocation of available funds. Such court shall have all power necessary to approve, disapprove, or modify plans proposed, or to adopt another plan; and to determine the proportionate share of funds available for each claimant. The Commission or the Secretary as appropriate, any other indemnitor, and any person indemnified shall be entitled to such orders as may be appropriate to implement and enforce the provisions of this section, including orders limiting the liability of the persons indemnified, orders approving or modifying the plan, orders staying the payment of claims and the execution of court judgments, orders apportioning the payments to be made to claimants, and orders permitting partial payments to be made before final determination of the total claims. The orders of such court shall be effective throughout the United States.
+&emsp;(C) The Commission or the Secretary, as appropriate, shall, and any other indemnitor or other interested person may, submit to such district court a plan for the disposition of pending claims and for the distribution of remaining funds available. Such a plan shall include an allocation of appropriate amounts for personal injury claims, property damage claims, and possible latent injury claims which may not be discovered until a later time and shall include establishment of priorities between claimants and classes of claims, as necessary to insure the most equitable allocation of available funds. Such court shall have all power necessary to approve, disapprove, or modify plans proposed, or to adopt another plan; and to determine the proportionate share of funds available for each claimant. The Commission or the Secretary as appropriate, any other indemnitor, and any person indemnified shall be entitled to such orders as may be appropriate to implement and enforce the provisions of this section, including orders limiting the liability of the persons indemnified, orders approving or modifying the plan, orders staying the payment of claims and the execution of court judgments, orders apportioning the payments to be made to claimants, and orders permitting partial payments to be made before final determination of the total claims. The orders of such court shall be effective throughout the United States.
 
 &emsp;(D) A court may authorize payment of only such legal costs as are permitted under paragraph (2) from the amount of financial protection required by subsection (b) of this section.
 
@@ -386,7 +386,7 @@ Pub. L. 100–408, §16(b)(4), inserted “or the Secretary, as appropriate,” 
 
 Subsec. (n). Pub. L. 100–408, §16(e)(10), inserted “Waiver of defenses and judicial procedures” as heading.
 
-Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”,which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
+Subsec. (n)(1). Pub. L. 100–408, §§10, 16(b)(5)(A), (d)(6), redesignated existing subpars. (a), (b), and (c) as (A), (B), and (C), respectively, added subpars. (D), (E), and (F), substituted “a Department of Energy contractor” for “a Commission contractor” in subpar. (C), and, in closing provisions inserted “, or the Secretary, as appropriate,” after “the Commission”, struck out “, but in no event more than twenty years after the date of the nuclear incident” after “and the cause thereof”, and substituted “subsection e” for “subsection 170e”, which for purposes of codification was translated as “subsection (e) of this section”, requiring no change in text.
 
 Subsec. (n)(2). Pub. L. 100–408, §16(b)(5)(B), inserted “or the Secretary, as appropriate” after “Commission”.
 
@@ -538,7 +538,7 @@ Contents.—Each report submitted under this subsection shall include an analysi
 
 #### Radiation Exposure Compensation
 
-Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended by Pub. L. 101–510, div. C, title XXXI, §§3139, 3140, Nov. 5, 1990, 104 Stat. 1835, 1837; Pub. L. 102–486, title XXX, §3018, Oct. 24, 1992, 106 Stat. 3131; Pub. L. 106–245, §3(a)–(e)(1), (f)–(h), July 10, 2000, 114 Stat. 502–508, provided that:
+Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended by Pub. L. 101–510, div. C, title XXXI, §§3139, 3140, Nov. 5, 1990, 104 Stat. 1835, 1837; Pub. L. 102–486, title XXX, §3018, Oct. 24, 1992, 106 Stat. 3131; Pub. L. 106–245, §3(a)–(e)(1), (f)–(h), July 10, 2000, 114 Stat. 502–508; Pub. L. 107–107, div. A, title X, §1063, Dec. 28, 2001, 115 Stat. 1232, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -588,7 +588,35 @@ Termination.—The Fund shall terminate 22 years after the date of the enactment
 
 “(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Fund such sums as may be necessary to carry out its purposes. Any amounts appropriated pursuant to this section are authorized to remain available until expended.
+Appropriation.—
+
+&emsp;“(1)
+
+In general.—There are appropriated to the Fund, out of any money in the Treasury not otherwise appropriated, for fiscal year 2002 and each fiscal year thereafter through fiscal year 2011, such sums as may be necessary, not to exceed the applicable maximum amount specified in paragraph (2), to carry out the purposes of the Fund.
+
+&emsp;“(2)
+
+Limitation.—Appropriation of amounts to the Fund pursuant to paragraph (1) is subject to the following maximum amounts:
+
+&emsp;&emsp;“(A) For fiscal year 2002, $172,000,000.
+
+&emsp;&emsp;“(B) For fiscal year 2003, $143,000,000.
+
+&emsp;&emsp;“(C) For fiscal year 2004, $107,000,000.
+
+&emsp;&emsp;“(D) For fiscal year 2005, $65,000,000.
+
+&emsp;&emsp;“(E) For fiscal year 2006, $47,000,000.
+
+&emsp;&emsp;“(F) For fiscal year 2007, $29,000,000.
+
+&emsp;&emsp;“(G) For fiscal year 2008, $29,000,000.
+
+&emsp;&emsp;“(H) For fiscal year 2009, $23,000,000.
+
+&emsp;&emsp;“(I) For fiscal year 2010, $23,000,000.
+
+&emsp;&emsp;“(J) For fiscal year 2011, $17,000,000.
 
 #### “SEC. 4. CLAIMS RELATING TO ATMOSPHERIC NUCLEAR TESTING.
 
@@ -656,7 +684,7 @@ Conformity with section 6.—Payments under this section may be made only in acc
 
 &emsp;“(4)
 
-Exclusion.—No payment may be made under this section on any claim of the Government of theMarshall Islands, or of any citizen or national of the Marshall Islands, that is referred to in Article X, Section 1 of the Agreement Between the Government of the United States and the Government of the Marshall Islands for the Implementation of section 177 of the Compact of Free Association (as approved by the Compact of Free Association Act of 1985 (Public Law 99–239) \[48 U.S.C. 1901 et seq., 2001 et seq.\]).
+Exclusion.—No payment may be made under this section on any claim of the Government of the Marshall Islands, or of any citizen or national of the Marshall Islands, that is referred to in Article X, Section 1 of the Agreement Between the Government of the United States and the Government of the Marshall Islands for the Implementation of section 177 of the Compact of Free Association (as approved by the Compact of Free Association Act of 1985 (Public Law 99–239) \[48 U.S.C. 1901 et seq., 2001 et seq.\]).
 
 “(b)
 
@@ -892,7 +920,7 @@ Definitions.—For purposes of this paragraph—
 
 &emsp;&emsp;&emsp;“(i) the ‘spouse’ of an individual is a wife or husband of that individual who was married to that individual for at least one year immediately before the death of that individual;
 
-&emsp;&emsp;&emsp;“(ii) a ‘child’ includes a recognized natural child, a stepchild who lived with an individual ina regular parent-child relationship, and an adopted child;
+&emsp;&emsp;&emsp;“(ii) a ‘child’ includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child;
 
 &emsp;&emsp;&emsp;“(iii) a ‘parent’ includes fathers and mothers through adoption;
 
@@ -1095,4 +1123,6 @@ This section is referred to in sections 2014, 2021d, 2073, 2243, 2273, 2282a, 22
 <i><sup>1</sup></i><i> So in original. Probably should be “Commission,”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be paragraph “(6)”.</i>
+
+<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

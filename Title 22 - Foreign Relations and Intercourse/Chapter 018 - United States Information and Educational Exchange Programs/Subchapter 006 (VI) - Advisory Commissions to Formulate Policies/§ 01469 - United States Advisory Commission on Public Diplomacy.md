@@ -14,7 +14,7 @@
 
 #### (b) Staff
 
-The Commission shall have a staff director who shall be appointed by the chairperson of theCommission. Subject to such rules and regulations as may be adopted by the Commission, the chairperson of the Commission may—
+The Commission shall have a staff director who shall be appointed by the chairperson of the Commission. Subject to such rules and regulations as may be adopted by the Commission, the chairperson of the Commission may—
 
 &emsp;(1) appoint such additional personnel for the staff of the Commission as the chairperson considers necessary; and
 
@@ -34,17 +34,17 @@ The Commission shall have a staff director who shall be appointed by the chairpe
 
 The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO.
 
-(Jan. 27, 1948, ch. 36, title VI, §604, as added Pub. L. 96–60, title II, §203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, §213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II, §206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447.)
-
-#### Repeal of Section
-
-<i>Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that, effective Sept. 30, 2001, this section is repealed.</i>
+(Jan. 27, 1948, ch. 36, title VI, §604, as added Pub. L. 96–60, title II, §203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, §213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II,§206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.)
 
 #### Amendments
 
-1999—Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended Pub. L. 105–277, §1334, generally (see 1998 Amendment note below) and provided for reenactment of this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+2001—Pub. L. 107–77 reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
-1998—Pub. L. 105–277, §1334(b), which directed the repeal of this section, was amended generally by Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a)\], and, as so amended, no longer contains provisions repealing this section. See 1999 Amendment note above.
+1999—Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], repealed this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+
+Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended Pub. L. 105–277, §1334, generally (see 1998 Amendment note below) and reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+
+1998—Pub. L. 105–277, §1334(b), which directed the repeal of this section, was omitted in the general amendment of Pub. L. 105–277, §1334, by Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a)\]. See 1999 Amendment note above.
 
 1990—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment of members, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
 
@@ -70,13 +70,17 @@ Reenactment.—The provisions of law repealed by section 1334 \[22 U.S.C. 6553\]
 
 Repeal.—Effective September 30, 2001, section 604 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469) and section 8 of the Reorganization Plan Numbered 2 of 1977 are repealed.”
 
+\[Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790, reenacted into law the provisions that were repealed by section 1000(a)(7) \[div. A, title IV, §404(c)(2)\] of div. B of Pub. L. 106–113, set out above.\]
+
 #### Continuity of Advisory Commission
+
+Pub. L. 107–77, title IV, §407(d), Nov. 28, 2001, 115 Stat. 790, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
 
 #### Reduction in Staff and Budget
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1469(b)\], effective on the date of the enactment of this Act \[Nov. 29, 1999\], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff,and not more than 50 percent of the resources allocated in fiscal year 1999.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1469(b)\], effective on the date of the enactment of this Act \[Nov. 29, 1999\], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff, and not more than 50 percent of the resources allocated in fiscal year 1999.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

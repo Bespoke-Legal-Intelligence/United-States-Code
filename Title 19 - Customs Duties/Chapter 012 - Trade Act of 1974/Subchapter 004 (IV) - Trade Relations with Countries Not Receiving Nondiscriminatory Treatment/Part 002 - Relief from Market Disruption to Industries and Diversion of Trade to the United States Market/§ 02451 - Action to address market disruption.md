@@ -40,7 +40,7 @@ The Commission shall make and transmit to the President and the Trade Representa
 
 #### (f) Recommendations of Commission on proposed remedies
 
-If the Commission makes an affirmative determination under subsection (b) of this section, or a determination which the President or the Trade Representative may consider as affirmative under subsection (e) of this section, the Commission shall propose the amount of increase in, or imposition of, any duty or other import restrictions necessary to prevent or remedy the market disruption. Only those members of the Commission who agreed to the affirmative determination under subsection (b) of this section are eligible to vote on the proposed action to prevent or remedy market disruption. Members of the Commission who did not agree to the affirmative determination may submit, in the report required under subsection (g) of this section, separate views regarding what action, if any, should be taken to prevent or remedy market disruption.
+If the Commission makes an affirmative determination under subsection (b) of this section, or a determination which the President or the Trade Representative may consider as affirmative under subsection (e) of this section, theCommission shall propose the amount of increase in, or imposition of, any duty or other import restrictions necessary to prevent or remedy the market disruption. Only those members of the Commission who agreed to the affirmative determination under subsection (b) of this section are eligible to vote on the proposed action to prevent or remedy market disruption. Members of the Commission who did not agree to the affirmative determination may submit, in the report required under subsection (g) of this section, separate views regarding what action, if any, should be taken to prevent or remedy market disruption.
 
 #### (g) Report by Commission
 
@@ -74,7 +74,7 @@ If the Commission makes an affirmative determination under subsection (b) of thi
 
 &emsp;(A) determine whether delay in taking action under this section would cause damage to the relevant domestic industry which would be difficult to repair; and
 
-&emsp;(B) if the determination under subparagraph (A) is affirmative, make a preliminary determination of whether imports of the productwhich is the subject of the investigation have caused or threatened to cause market disruption.
+&emsp;(B) if the determination under subparagraph (A) is affirmative, make a preliminary determination of whether imports of the product which is the subject of the investigation have caused or threatened to cause market disruption.
 
 > If the Commissioners voting are equally divided with respect to either of its determinations, then the determination agreed upon by either group of Commissioners may be considered by the President and the Trade Representative as the determination of the Commission.
 

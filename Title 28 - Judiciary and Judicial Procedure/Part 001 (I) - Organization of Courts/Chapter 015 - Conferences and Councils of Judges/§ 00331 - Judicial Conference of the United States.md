@@ -84,7 +84,7 @@ Section 7 of Pub. L. 96–458 provided that: “This Act \[amending this section
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in this section relating to requirement that the Chief Justice submit to Congress an annual report of proceedings of the Judicial Conference and recommendations for legislation, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in this section relating to requirement that the Chief Justice submit to Congress an annual report of proceedings of the Judicial Conference and recommendations for legislation, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 ofTitle 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Policies, Procedures, and Methodologies Used in Recommendation for Creation of Additional Federal Judgeships; Study by General Accounting Office and Report to Congress
 

@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 94–502, §504(2), inserted provision requiring that schoo
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–446 applicable with respect to programs of education exclusively by correspondence and to correspondence-residence coursescommencing more than 90 days after Nov. 2, 1994, see section 605(b) of Pub. L. 103–446, set out as a note under section 3672 of this title.
+Amendment by Pub. L. 103–446 applicable with respect to programs of education exclusively by correspondence and to correspondence-residence courses commencing more than 90 days after Nov. 2, 1994, see section 605(b) of Pub. L. 103–446, set out as a note under section 3672 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;All Tennessee Valley Authority property associated with the administration of the Recreation Area, including any property purchased with Federal funds appropriated for the management of the Tennessee Valley Authority land, shall be available for transfer to the Secretary.
+&emsp;&emsp;All Tennessee Valley Authority property associated with the administration of the Recreation Area, including any propertypurchased with Federal funds appropriated for the management of the Tennessee Valley Authority land, shall be available for transfer to the Secretary.
 
 #### (B) Property included
 
@@ -46,5 +46,5 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1)(B), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For completeclassification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1)(B), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 

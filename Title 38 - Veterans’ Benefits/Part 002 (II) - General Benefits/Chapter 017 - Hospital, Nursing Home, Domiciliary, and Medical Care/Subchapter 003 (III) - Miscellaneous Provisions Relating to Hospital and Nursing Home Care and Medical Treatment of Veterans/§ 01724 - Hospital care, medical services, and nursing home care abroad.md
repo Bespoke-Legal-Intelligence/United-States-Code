@@ -8,7 +8,7 @@
 
 &emsp;(A) if the veteran is in the Republic of the Philippines or in Canada; or
 
-&emsp;(B) if the Secretary determines, as a matter of discretion and pursuant to regulations which the Secretary shall prescribe, that it is appropriate and feasible to furnish such care and services.
+&emsp;(B) if the Secretary determines, as a matter of discretion and pursuant to regulations which the Secretary shall prescribe, that it isappropriate and feasible to furnish such care and services.
 
 (c) Within the limits of those facilities of the Veterans Memorial Medical Center at Manila, Republic of the Philippines, for which the Secretary may contract, the Secretary may furnish necessary hospital care to a veteran for any non-service-connected disability if such veteran is unable to defray the expenses of necessary hospital care. The Secretary may enter into contracts to carry out this section.
 
@@ -16,7 +16,7 @@
 
 (e) Within the limits of an outpatient clinic in the Republic of the Philippines that is under the direct jurisdiction of the Secretary, the Secretary may furnish a veteran who has a service-connected disability with such medical services as the Secretary determines to be needed.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §624; Pub. L. 86–152, Aug. 11, 1959, 73 Stat. 332; Pub. L. 86–624, §25(a), July 12, 1960, 74 Stat. 418; Pub. L. 87–815, §4, Oct. 15, 1962, 76 Stat. 927; Pub. L. 93–82, title I, §108, Aug. 2, 1973, 87 Stat. 186; Pub. L. 94–581, title II, §§202(<i>l</i>), 210(a)(11), Oct. 21, 1976, 90Stat. 2856, 2863; Pub. L. 95–520, §3(a), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, §107(a), Nov. 3, 1981, 95 Stat. 1051; Pub. L. 97–295, §4(20), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 100–322, title I, §105, May 20, 1988, 102 Stat. 493; renumbered §1724 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–377, §1(a)(1) \[title V, §501(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–58.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, §624; Pub. L. 86–152, Aug. 11, 1959, 73 Stat. 332; Pub. L. 86–624, §25(a), July 12, 1960, 74 Stat. 418; Pub. L. 87–815, §4, Oct. 15, 1962, 76 Stat. 927; Pub. L. 93–82, title I, §108, Aug. 2, 1973, 87 Stat. 186; Pub. L. 94–581, title II, §§202(<i>l</i>), 210(a)(11), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 95–520, §3(a), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, §107(a), Nov. 3, 1981, 95 Stat. 1051; Pub. L. 97–295, §4(20), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 100–322, title I, §105, May 20, 1988, 102 Stat. 493; renumbered §1724 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–377, §1(a)(1) \[title V, §501(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–58.)
 
 #### Prior Provisions
 

@@ -8,7 +8,7 @@ It shall be unlawful for any person, by the use of the mails or by any means or 
 
 (1) It shall be unlawful for any member of a national securities exchange, or any broker or dealer registered under this chapter, or any bank, association, or other entity that exercises fiduciary powers, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, to give, or to refrain from giving a proxy, consent, authorization, or information statement in respect of any security registered pursuant to section 78<i>l</i> of this title, or any security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], and carried for the account of a customer.
 
-(2) With respect to banks, the rules and regulations prescribed by the Commission under paragraph (1) shall not require the disclosure of the names of beneficial owners of securities in an account held by the bank on December 28, 1985, unless the beneficial owner consents to thedisclosure. The provisions of this paragraph shall not apply in the case of a bank which the Commission finds has not made a good faith effort to obtain such consent from such beneficial owners.
+(2) With respect to banks, the rules and regulations prescribed by the Commission under paragraph (1) shall not require the disclosure of the names of beneficial owners of securities in an account held by the bank on December 28, 1985, unless the beneficial owner consents to the disclosure. The provisions of this paragraph shall not apply in the case of a bank which the Commission finds has not made a good faith effort to obtain such consent from such beneficial owners.
 
 #### (c) Information to holders of record prior to annual or other meeting
 
@@ -16,7 +16,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 #### (d) Tender offer by owner of more than five per centum of class of securities; exceptions
 
-(1) It shall be unlawful for any person, directly or indirectly, by use of the mails or by any means or instrumentality of interstate commerce or of any facility of a national securities exchange or otherwise, to make a tender offer for, or a request or invitation for tenders of, any class of any equity security which is registered pursuant to section 78<i>l</i> of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78<i>l</i>(g)(2)(G) of this title, or any equity security issued by a a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], if, after consummation thereof, such person would, directly or indirectly, be the beneficial owner of more than 5 per centum of such class, unless at the time copies of the offer or request or invitation are first published or sent or given to security holders such person has filed with the Commission a statement containing such of the information specified in section 78m(d) of this title, and such additional information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. All requests or invitations for tenders or advertisements making a tender offer or requesting or inviting tenders of such a security shall be filed as a part of such statement and shall contain such of the information contained in such statement as the Commission may by rules and regulations prescribe. Copies of any additional material soliciting or requesting such tender offers subsequent to the initial solicitation or request shall contain such information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors, and shall be filed with the Commission not later than the time copies of such material are first published or sent or given to security holders. Copies of all statements, in the form in which such material is furnished to security holders and the Commission, shall be sent to the issuer not later than the date such material is first published or sent or given to any security holders.
+(1) It shall be unlawful for any person, directly or indirectly, by use of the mails or by any means or instrumentality of interstate commerce or of any facility of a national securities exchange or otherwise, to make a tender offer for, or a request or invitation for tenders of, anyclass of any equity security which is registered pursuant to section 78<i>l</i> of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78<i>l</i>(g)(2)(G) of this title, or any equity security issued by a a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], if, after consummation thereof, such person would, directly or indirectly, be the beneficial owner of more than 5 per centum of such class, unless at the time copies of the offer or request or invitation are first published or sent or given to security holders such person has filed with the Commission a statement containing such of the information specified in section 78m(d) of this title, and such additional information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. All requests or invitations for tenders or advertisements making a tender offer or requesting or inviting tenders of such a security shall be filed as a part of such statement and shall contain such of the information contained in such statement as the Commission may by rules and regulations prescribe. Copies of any additional material soliciting or requesting such tender offers subsequent to the initial solicitation or request shall contain such information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors, and shall be filed with the Commission not later than the time copies of such material are first published or sent or given to security holders. Copies of all statements, in the form in which such material is furnished to security holders and the Commission, shall be sent to the issuer not later than the date such material is first published or sent or given to any security holders.
 
 (2) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for purposes of this subsection.
 
@@ -50,17 +50,57 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 (1)(A) At the time of filing such preliminary proxy solicitation material as the Commission may require by rule pursuant to subsection (a) of this section that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of a company, the person making such filing, other than a company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], shall pay to the Commission the following fees:
 
-&emsp;(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee of 1/50 of 1 per centum of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
+&emsp;(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
 
-&emsp;(ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee of 1/50 of 1 per centum of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
+&emsp;(ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
 
 (B) The fee imposed under subparagraph (A) shall be reduced with respect to securities in an amount equal to any fee paid to the Commission with respect to such securities in connection with the proposed transaction under section 77f(b) of this title, or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection. Where two or more companies involved in an acquisition, merger, consolidation, sale, or other disposition of substantially all the assets of a company must file such proxy material with the Commission, each shall pay a proportionate share of such fee.
 
 (2) At the time of filing such preliminary information statement as the Commission may require by rule pursuant to subsection (c) of this section, the issuer shall pay to the Commission the same fee as required for preliminary proxy solicitation material under paragraph (1) of this subsection.
 
-(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee of 1/50 of 1 per centum of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 77f(b) of this title, or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
+(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
 
-(4) Notwithstanding any other provision of law, the Commission may impose fees, charges, or prices for matters not involving any acquisition, merger, consolidation, sale, or other disposition of assets described in this subsection, as authorized by section 9701 of title 31, or otherwise.
+(4)
+
+Offsetting collections.—Fees collected pursuant to this subsection for any fiscal year shall be deposited and credited as offsetting collections to the account providing appropriations to the Commission, and, except as provided in paragraph (9), shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts. No fees collected pursuant to this subsection for fiscal year 2002 or any succeeding fiscal year shall be deposited and credited as general revenue of the Treasury.
+
+(5)
+
+Annual adjustment.—For each of the fiscal years 2003 through 2011, the Commission shall by order adjust each of the rates required by paragraphs (1) and (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for such fiscal year.
+
+(6)
+
+Final rate adjustment.—For fiscal year 2012 and all of the succeeding fiscal years, the Commission shall by order adjust each of the rates required by paragraphs (1) and (3) for all of such fiscal years to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\] for all of such fiscal years.
+
+(7)
+
+Pro rata application.—The rates per $1,000,000 required by this subsection shall be applied pro rata to amounts and balances of less than $1,000,000.
+
+(8)
+
+Review and effective date.—In exercising its authority under this subsection, the Commission shall not be required to comply with the provisions of section 553 of title 5. An adjusted rate prescribed under paragraph (5) or (6) and published under paragraph (10) shall not be subject to judicial review. Subject to paragraphs (4) and (9)—
+
+&emsp;(A) an adjusted rate prescribed under paragraph (5) shall take effect on the later of—
+
+&emsp;&emsp;(i) the first day of the fiscal year to which such rate applies; or
+
+&emsp;&emsp;(ii) five days after the date on which a regular appropriation to the Commission for such fiscal year is enacted; and
+
+&emsp;(B) an adjusted rate prescribed under paragraph (6) shall take effect on the later of—
+
+&emsp;&emsp;(i) the first day of fiscal year 2012; or
+
+&emsp;&emsp;(ii) five days after the date on which a regular appropriation to the Commission for fiscal year 2012 is enacted.
+
+(9)
+
+Lapse of appropriation.—If on the first day of a fiscal year a regular appropriation to the Commission has not been enacted, the Commission shall continue to collect fees (as offsetting collections) under this subsection at the rate in effect during the preceding fiscal year, until 5 days after the date such a regular appropriation is enacted.
+
+(10)
+
+Publication.—The rate applicable under this subsection for each fiscal year is published pursuant to section 6(b)(10) of the Securities Act of 1933 \[15 U.S.C. 77f(b)(10)\].
+
+(11) Notwithstanding any other provision of law, the Commission may impose fees, charges, or prices for matters not involving any acquisition, merger, consolidation, sale, or other disposition of assets described in this subsection, as authorized by section 9701 of title 31, or otherwise.
 
 #### (h) Proxy solicitations and tender offers in connection with limited partnership rollup transactions
 
@@ -112,7 +152,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;&emsp;(G) provide that, if the general partner or sponsor has obtained any opinion, appraisal, or report as described in subparagraph (F) from any person whose compensation is contingent on the transaction's approval or completion or who has not been given access by the issuer to its personnel and premises and relevant books and records, the general partner or sponsor shall state the reasons therefor;
 
-&emsp;&emsp;(H) provide that, if the general partner or sponsor has not obtained any opinion on the fairness of the proposed limited partnership rollup transaction to investors in each of the affected partnerships, such soliciting materials shall contain or be accompanied by astatement of such partner's or sponsor's reasons for concluding that such an opinion is not necessary in order to permit the limited partners to make an informed decision on the proposed transaction;
+&emsp;&emsp;(H) provide that, if the general partner or sponsor has not obtained any opinion on the fairness of the proposed limited partnership rollup transaction to investors in each of the affected partnerships, such soliciting materials shall contain or be accompanied by a statement of such partner's or sponsor's reasons for concluding that such an opinion is not necessary in order to permit the limited partners to make an informed decision on the proposed transaction;
 
 &emsp;&emsp;(I) require that the soliciting material include a clear, concise, and comprehensible summary of the limited partnership rollup transaction (including a summary of the matters referred to in clauses (i) through (vii) of subparagraph (D) and a summary of the matter referred to in subparagraphs (F), (G), and (H)), with the risks of the limited partnership rollup transaction set forth prominently in the fore part thereof;
 
@@ -164,7 +204,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 &emsp;&emsp;&emsp;(ii) the securities of that entity issued to investors in the transaction do not exceed 20 percent of the total outstanding securities of the entity, exclusive of any securities of such class held by or for the account of the entity or a subsidiary of the entity.
 
-(June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236.)
+(June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–123, §6, Jan. 16, 2002, 115 Stat. 2396.)
 
 #### References in Text
 
@@ -175,6 +215,10 @@ The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1),
 The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (g)(1)(A)(i), (ii), (3). Pub. L. 107–123, §6(1), substituted “a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of” for “a fee of 1/50 of 1 per centum of”.
+
+Subsec. (g)(4) to (11). Pub. L. 107–123, §6(2), (3), added pars. (4) to (10) and redesignated former par. (4) as (11).
 
 1998—Subsec. (g)(4). Pub. L. 105–353 substituted “consolidation, sale,” for “consolidation sale,”.
 
@@ -201,6 +245,10 @@ Subsec. (e). Pub. L. 91–567, §5, inserted provisions requiring the Commission
 Subsec. (b). Pub. L. 88–467, §5(b), substituted provisions which make it unlawful for members of a national securities exchange and brokers and dealers registered under this chapter, in contravention of such rules as may be prescribed by the Commission, to give, or to refrain from giving proxies, consents, and other authorizations in respect of any security registered under section 78<i>l</i> of this title carried for the account of customers for former provisions which limited the Commission's rulemaking authority only to the giving of proxies in respect to listed securities carried for the account of customers by members of the national securities exchanges and by brokers or dealers who conduct business through the medium of an exchange member, and deleted the reference to brokers and dealers who transacted business through the medium of an exchange member as being now covered by brokers and dealers registered under this chapter.
 
 Subsec. (c). Pub. L. 88–467, §5(c), added subsec. (c).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities provided by subsec. (g)(9) of this section to not apply until Oct. 1, 2002, see section 11 of Pub. L. 107–123, set out as a note under section 78ee of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -268,5 +316,5 @@ Report required.—Not later than the end of the 18-month period referred to in 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 78f, 78<i>l</i>, 78<i>o</i>, 78<i>o</i>–3, 78hh of this title.
+This section is referred to in sections 77f, 78c, 78f, 78<i>l</i>, 78<i>o</i>, 78<i>o</i>–3, 78hh of this title.
 

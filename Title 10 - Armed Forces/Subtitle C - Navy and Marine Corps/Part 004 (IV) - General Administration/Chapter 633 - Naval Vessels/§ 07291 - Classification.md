@@ -68,7 +68,7 @@ Report on Defense Contracts.—The Secretary of Defense shall prepare a report o
 
 &emsp;“(1) the amount of Department of Defense contracts that were awarded to companies physically located or headquartered in the countries identified in the Secretary of Transportation's report under subsection (d) for the most recent year for which data is available; and
 
-&emsp;“(2) the effect on defense programs of a prohibition of awarding contracts to companies physically located or headquartered in the countries identified in the Secretary of Transportation's report under subsection (d).
+&emsp;“(2) the effect on defense programs of a prohibition of awarding contracts to companies physically located or headquartered in the countries identified inthe Secretary of Transportation's report under subsection (d).
 
 “(e)
 

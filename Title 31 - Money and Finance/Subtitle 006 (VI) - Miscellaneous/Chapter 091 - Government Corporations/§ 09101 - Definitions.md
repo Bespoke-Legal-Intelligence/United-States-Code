@@ -146,7 +146,7 @@ Par. (3)(E). Pub. L. 101–73, §307(e), struck out subpar. (E) relating to Fede
 
 #### Effective Date of 1996 Amendment
 
-Section 3117(a) of Pub. L. 104–134 provided that the amendment made by that section was to take effect as of the privatization date \[July 28, 1998\]. For definition of that term, see section 2297h(9) of Title 42, The Public Health and Welfare.
+Section 3117(a) of Pub. L. 104–134 provided that the amendment made by that section was to take effect asof the privatization date \[July 28, 1998\]. For definition of that term, see section 2297h(9) of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1993 Amendment
 

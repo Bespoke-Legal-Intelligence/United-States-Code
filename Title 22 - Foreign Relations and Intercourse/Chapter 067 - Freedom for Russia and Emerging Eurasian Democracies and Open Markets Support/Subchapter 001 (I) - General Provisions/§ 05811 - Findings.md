@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(4) failure to meet the opportunities presented by these developments could threaten United States national security interests and jeopardize substantial savings in United States defense that these developments have made possible;
 
-&emsp;(5) the independent states of the former Soviet Union face unprecedented environmental problems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries, and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
+&emsp;(5) the independent states of the former Soviet Union face unprecedented environmental problems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries,and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
 
 &emsp;(6) the success of United States assistance for the independent states of the former Soviet Union depends on—
 

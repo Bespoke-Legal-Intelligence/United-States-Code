@@ -1,6 +1,0 @@
-### §7238. Authorization of appropriations
-
-For the purpose of carrying out this part, there are authorized to be appropriated $5,000,000 for fiscal year 1995 and such sums as may be necessary for each of the four succeeding fiscal years, of which not less than two-thirds of the amount appropriated under this section for each fiscal year shall be available to carry out the activities described in section 7233(b)(1) of this title.
-
-(Pub. L. 89–10, title V, §5208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3701.)
-

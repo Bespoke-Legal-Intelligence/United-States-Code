@@ -40,7 +40,7 @@ Section is derived from subsec. (a) of former section 264 of this title. See Cod
 
 Section 22(b) of Pub. L. 103–204 provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on July 1, 1995.”
 
-#### Short Title of <i>2000</i> Amendment
+#### Short Title of 2000 Amendment
 
 Pub. L. 106–569, title XII, §1200, Dec. 27, 2000, 114 Stat. 3032, provided that: “This title \[enacting sections 215a–2, 215a–3, and 4805a of this title, amending sections 11, 71 to 72, 83, 215b, 1426, 1464, 1467a, 1817, 1818, 1821, 1828, 1831n, and 3102 of this title, repealing sections 51, 1465, and 1831f–1 of this title, enacting provisions set out as a note under section 1817 of this title, and amending provisions set out as a note under section 1828 of this title\] may be cited as the ‘Financial Regulatory Relief and Economic Efficiency Act of 2000’.”
 
@@ -508,7 +508,7 @@ In General.—The Comptroller General of the United States shall conduct a study
 
 “(b)
 
-Consultation and Cooperation With Other Agencies.—The Comptroller General shall determine the structure and methodology of the study under this section in consultation with and with the cooperation of the Secretary of Agriculture and the Farm Credit Administration (with respect to the Farm Credit Banks, the Banks for Cooperatives, and the Federal Agricultural Mortgage Corporation), the Secretary of Education (with respect to the Student Loan Marketing Association and the College Construction Loan Corporation), the Secretary of Housing and Urban Development (with respect to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation), and the government-sponsored enterprises.
+Consultation and Cooperation With Other Agencies.—The Comptroller General shall determine the structure and methodology of the study under thissection in consultation with and with the cooperation of the Secretary of Agriculture and the Farm Credit Administration (with respect to the Farm Credit Banks, the Banks for Cooperatives, and the Federal Agricultural Mortgage Corporation), the Secretary of Education (with respect to the Student Loan Marketing Association and the College Construction Loan Corporation), the Secretary of Housing and Urban Development (with respect to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation), and the government-sponsored enterprises.
 
 “(c)
 
@@ -554,7 +554,7 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 Definition.—For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
 
-\[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: “The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, set out above\] shall not apply after the end of the 7-yearperiod beginning on the date of enactment of this Act \[Sept. 29, 1994\].”\]
+\[Pub. L. 103–328, title I, §108(b), Sept. 29, 1994, 108 Stat. 2362, provided that: “The requirements of subsection (a) \[amending section 1002 of Pub. L. 101–73, set out above\] shall not apply after the end of the 7-year period beginning on the date of enactment of this Act \[Sept. 29, 1994\].”\]
 
 #### Expansion of Use of Underutilized Minority Banks, Women's Banks, and Low-Income Credit Unions
 
@@ -660,7 +660,7 @@ Penalty for unauthorized disclosure.—Any officer or employee of the Department
 
 “(c)
 
-Assessment of Risk.—In assessing the financial safety and soundness of the activities of Government-sponsored enterprises, and the impact of their activities on Federal borrowing, the Secretary shall quantify the risks associated with each Government-sponsored enterprise. In quantifying such risks, the Secretary shall determine the volume and type of securities outstanding which are issued or guaranteed by each Government-sponsored enterprise, the capitalization of each Government-sponsored enterprise, and the degree of risk involved in the operations of each Government-sponsored enterprise due to factors such as credit risk, interest rate risk, management and operations risk, and business risk. The Secretary shall also report on the quality and timeliness of information currently available to the public and the Federal Governmentconcerning the extent and nature of the activities of Government-sponsored enterprises and the financial risk associated with such activities.
+Assessment of Risk.—In assessing the financial safety and soundness of the activities of Government-sponsored enterprises, and the impact of their activities on Federal borrowing, the Secretary shall quantify the risks associated with each Government-sponsored enterprise. In quantifying such risks, the Secretary shall determine the volume and type of securities outstanding which are issued or guaranteed by each Government-sponsored enterprise, the capitalization of each Government-sponsored enterprise, and the degree of risk involved in the operations of each Government-sponsored enterprise due to factors such as credit risk, interest rate risk, management and operations risk, and business risk. The Secretary shall also report on the quality and timeliness of information currently available to the public and the Federal Government concerning the extent and nature of the activities of Government-sponsored enterprises and the financial risk associated with such activities.
 
 “(d)
 

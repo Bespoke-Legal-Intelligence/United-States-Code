@@ -60,7 +60,7 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §117(f); added Apr. 3, 1980, Pub. L. 96�
 
 In subsection (a)(1), the words “Notwithstanding any provision of law” are omitted as unnecessary. The words “may audit” are added for clarity and for consistency in the revised section and chapter. The words “as may be necessary to enable him” and “in fact, actually” are omitted as surplus. The words “Records . . . shall be made available” are substituted for “shall have access to such books, documents, papers, records” for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(2), the words “With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency andnotwithstanding any provision of law” are omitted because of the restatement. The words “in question” are omitted as surplus.
+In subsection (a)(2), the words “With respect to any expenditure accounted for solely on the approval, authorization, or certificate of the President of the United States or an official of an executive agency and notwithstanding any provision of law” are omitted because of the restatement. The words “in question” are omitted as surplus.
 
 In subsection (b), the words “Before December 1 of each year” are substituted for “Not later than sixty days after the beginning of each fiscal year” for clarity. The words “starting on or after October 1, 1980” are omitted as executed. The words “audit by the Comptroller General under” and “the Chairmen of” are omitted as surplus.
 

@@ -138,7 +138,7 @@ Section 1005(b) of Pub. L. 100–702 provided that: “The amendment made by thi
 
 #### Effective Date of 1984 Amendment
 
-Section 204(c) of Pub. L. 98–353 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any justice or judge ofthe United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act \[July 10, 1984\].”
+Section 204(c) of Pub. L. 98–353 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to any justice or judge of the United States appointed to hold office during good behavior who retires on or after the date of enactment of this Act \[July 10, 1984\].”
 
 #### Computation of Judicial Service, District of Alaska
 

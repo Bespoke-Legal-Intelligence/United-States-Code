@@ -6,7 +6,7 @@ A prior part C of this subchapter, consisting of section 1395x et seq., was rede
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1395b–6, 1395w–4, 1395cc, 1395cc–2, 1395ff, 1395mm, 1395nn, 1395ss, 1395ww, 1395eee, 1395ggg, 1396b, 1396u–2, 1396u–4 of this title; title 26 section 138.
+This part is referred to in sections 1320d, 1395b–6, 1395w–4, 1395cc, 1395cc–2, 1395ff, 1395mm, 1395nn, 1395ss, 1395ww, 1395eee, 1395ggg, 1396b, 1396u–2, 1396u–4 of this title; title 26 section 138.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “elapsed”.</i>
 

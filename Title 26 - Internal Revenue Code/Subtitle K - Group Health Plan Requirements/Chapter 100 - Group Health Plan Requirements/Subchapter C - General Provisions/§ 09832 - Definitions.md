@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “health insurance coverage” meansbenefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
+&emsp;&emsp;Except as provided in subparagraph (B), the term “health insurance coverage” means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
 
 #### (B) No application to certain excepted benefits
 
@@ -100,7 +100,7 @@ For purposes of this chapter—
 
 #### (4) Network plan
 
-&emsp;The term “network plan” means health insurance coverage of a health insurance issuer under which the financing and delivery of medical care are provided, in whole or in part, through a defined set of providers under contract with the issuer.
+&emsp;The term “network plan” means health insurance coverage of a health insurance issuerunder which the financing and delivery of medical care are provided, in whole or in part, through a defined set of providers under contract with the issuer.
 
 #### (5) Placed for adoption defined
 
@@ -110,7 +110,7 @@ For purposes of this chapter—
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(2) and (d)(1)(B), is Pub.L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Section 514(b)(2) of the Act is classified to section 1144(b)(2) of Title 29, Labor. Section 609 of the Act is classified to section 1169 of Title 29. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(2) and (d)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Section 514(b)(2) of the Act is classified to section 1144(b)(2) of Title 29, Labor. Section 609 of the Act is classified to section 1169 of Title 29. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of this section, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 104–191, which was approved Aug. 21, 1996.
 

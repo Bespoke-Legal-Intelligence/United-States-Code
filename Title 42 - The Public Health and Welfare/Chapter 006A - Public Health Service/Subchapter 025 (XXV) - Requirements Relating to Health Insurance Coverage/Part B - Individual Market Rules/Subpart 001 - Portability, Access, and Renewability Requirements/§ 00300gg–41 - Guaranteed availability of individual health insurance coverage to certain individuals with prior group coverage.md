@@ -18,9 +18,9 @@
 
 In this part, the term “eligible individual” means an individual—
 
-&emsp;(1)(A) for whom, as of the date on which the individual seeks coverage under this section, the aggregate of the periods of creditable coverage (as defined in section 300gg(c) of this title) is 18 or more months and (B) whose most recent prior creditable coverage was under a group health plan, governmental plan, or church plan (or health insurance coverage offered in connection with any such plan);
+&emsp;(1)(A) for whom, as of the date on which the individual seeks coverage under this section, the aggregate of the periods of creditable coverage (as defined in section 300gg(c) of this title) is 18 or more months and (B) whose most recent prior creditable coverage was under agroup health plan, governmental plan, or church plan (or health insurance coverage offered in connection with any such plan);
 
-&emsp;(2) who is not eligible for coverage under (A) a group health plan, (B) part A or part B oftitle XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\], or (C) a State plan under title XIX of such Act \[42 U.S.C. 1396 et seq.\] (or any successor program), and does not have other health insurance coverage;
+&emsp;(2) who is not eligible for coverage under (A) a group health plan, (B) part A or part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\], or (C) a State plan under title XIX of such Act \[42 U.S.C. 1396 et seq.\] (or any successor program), and does not have other health insurance coverage;
 
 &emsp;(3) with respect to whom the most recent coverage within the coverage period described in paragraph (1)(A) was not terminated based on a factor described in paragraph (1) or (2) of section 300gg–12(b) of this title (relating to nonpayment of premiums or fraud);
 
@@ -86,7 +86,7 @@ In this part, the term “eligible individual” means an individual—
 
 &emsp;&emsp;&emsp;(i) it will not have the capacity to deliver services adequately to additional individual enrollees because of its obligations to existing group contract holders and enrollees and individual enrollees, and
 
-&emsp;&emsp;&emsp;(ii) it is applying this paragraph uniformly to individuals without regard toany health status-related factor of such individuals and without regard to whether the individuals are eligible individuals.
+&emsp;&emsp;&emsp;(ii) it is applying this paragraph uniformly to individuals without regard to any health status-related factor of such individuals and without regard to whether the individuals are eligible individuals.
 
 #### (2) 180-day suspension upon denial of coverage
 

@@ -18,7 +18,7 @@ The provisions of this section requiring the disclosure of information shall not
 
 #### (e) Announcement under section 317 as sufficient disclosure
 
-The inclusion in the program of the announcement required by section 317 of this title shall constitute the disclosure required by this section.
+The inclusion in the program of the announcement required by section 317 of this title shallconstitute the disclosure required by this section.
 
 #### (f) “Service or other valuable consideration” defined
 

@@ -1,6 +1,10 @@
 ### §1074i. Reimbursement for certain travel expenses
 
-In any case in which a covered beneficiary is referred by a primary care physician to a specialty care provider who provides services more than 100 miles from the location in which the primary care provider provides services to the covered beneficiary, the Secretary shall provide reimbursement for reasonable travel expenses for the covered beneficiary.
+In any case in which a covered beneficiary is referred by a primary care physician to a specialty care provider who provides services more than 100 miles from the location in which the primary care provider provides services to the covered beneficiary, the Secretary shall provide reimbursement for reasonable travel expenses for the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §758(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §758(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199; amended Pub. L. 107–107, div. A, title VII, §706, Dec. 28, 2001, 115 Stat. 1163.)
+
+#### Amendments
+
+2001—Pub. L. 107–107 inserted before period at end “and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age”.
 

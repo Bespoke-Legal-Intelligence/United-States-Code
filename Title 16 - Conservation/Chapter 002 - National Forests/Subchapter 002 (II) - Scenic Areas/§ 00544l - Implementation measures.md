@@ -10,7 +10,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 &emsp;(A) not less than 50 per centum shall be expended for the benefit of the public schools of the county which has adopted implementation measures pursuant to sections 544 to 544p of this title; and
 
-&emsp;(B) the remainder shall be expended for the benefit of public roads or any public purposesof any county which has adopted implementation measures pursuant to sections 544 to 544p of this title.
+&emsp;(B) the remainder shall be expended for the benefit of public roads or any public purposes of any county which has adopted implementation measures pursuant to sections 544 to 544p of this title.
 
 (2) Paragraph (1) of this subsection shall not apply—
 
@@ -42,7 +42,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 #### (e) Limitations on Federal expenditures affecting the scenic area
 
-(1) Except as provided in paragraph (3), if the Commission has not been established pursuant to section 544c of this title within fifteen months after November 17, 1986, or is otherwise disestablished for any reason, no new expenditures or new financial assistance may be made available, and no new license or new permit, or exemption from a license or permit requirement, shall be issued, under authority of any Federal law for any activity within the scenic area, excluding urban areas, which the Secretary,<sup>1</sup> determines is inconsistent with any implementation measure pursuant to, the standards established in section 544d(b) of this title, or the purposes of sections 544 to 544p of this title.
+(1) Except as provided in paragraph (3), if the Commission has not been established pursuantto section 544c of this title within fifteen months after November 17, 1986, or is otherwise disestablished for any reason, no new expenditures or new financial assistance may be made available, and no new license or new permit, or exemption from a license or permit requirement, shall be issued, under authority of any Federal law for any activity within the scenic area, excluding urban areas, which the Secretary,<sup>1</sup> determines is inconsistent with any implementation measure pursuant to, the standards established in section 544d(b) of this title, or the purposes of sections 544 to 544p of this title.
 
 (2)(A)(i) An expenditure or financial assistance made available under authority of Federal law shall be treated, for purposes of this subsection, as a new expenditure or new financial assistance if—
 
@@ -64,7 +64,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 &emsp;(D) Any of the following actions or projects, but only if the making available of expenditures or assistance therefor is consistent with the standards in section 544d(b) of this title and the purposes of sections 544 to 544p of this title:
 
-&emsp;&emsp;(i) Projects for the study, management, protection and enhancement of fish and wildlife resources and habitats, including,but not limited to, acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
+&emsp;&emsp;(i) Projects for the study, management, protection and enhancement of fish and wildlife resources and habitats, including, but not limited to, acquisition of fish and wildlife habitats and related lands, stabilization projects for fish and wildlife habitats, and recreational projects.
 
 &emsp;&emsp;(ii) The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
@@ -100,7 +100,7 @@ The Land and Water Conservation Fund Act of 1965, referred to in subsec. (e)(3)(
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (e)(3)(D)(iii), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
-The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act (42 U.S.C. 5145 and 5146) and redesignated sections 308 and 309 of the Act (42 U.S.C. 5148 and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42, The Public Health and Welfare.
+The Disaster Relief Act of 1974, referred to in subsec. (e)(3)(D)(v), was renamed The Robert T. Stafford Disaster Relief and Emergency Assistance Act, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of The Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Robert T. Stafford Disaster Relief and Emergency Assistance Act was renamed the Robert T. Stafford Disaster Relief and Emergency Assistance Act by Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act (42 U.S.C. 5145 and 5146) and redesignated sections 308 and 309 of the Act (42 U.S.C. 5148 and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42, The Public Health and Welfare.
 
 Section 1362 of the National Flood Insurance Act of 1968 (42 U.S.C. 4103), referred to in subsec. (e)(3)(D)(v), was repealed by Pub. L. 103–325, title V, §551(a), Sept. 23, 1994, 108 Stat. 2269.
 

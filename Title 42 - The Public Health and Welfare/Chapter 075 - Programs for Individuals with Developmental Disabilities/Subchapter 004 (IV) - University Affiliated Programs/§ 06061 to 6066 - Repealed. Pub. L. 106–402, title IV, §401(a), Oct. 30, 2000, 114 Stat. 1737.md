@@ -10,7 +10,7 @@ A prior section 6062, Pub. L. 88–164, title I, §132, as added Pub. L. 91–51
 
 Section 6063, Pub. L. 88–164, title I, §153, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2682; amended Pub. L. 100–146, title IV, §403, Oct. 29, 1987, 101 Stat. 855; Pub. L. 101–496, §18, Oct. 31, 1990, 104 Stat. 1203; Pub. L. 103–230, title IV, §404, Apr. 6, 1994, 108 Stat. 324, related to applications.
 
-A prior section 6063, Pub. L. 88–164, title I, §133, formerly §134, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1319; renumbered §133 and amendedPub. L. 94–103, title I, §§110(e)(2), 111, title III, §302(a), (b)(2), Oct. 4, 1975, 89 Stat. 490, 506; Pub. L. 95–602, title V, §511, Nov. 6, 1978, 92 Stat. 3011, related to State plans, prior to the general amendment of this chapter by Pub. L. 98–527.
+A prior section 6063, Pub. L. 88–164, title I, §133, formerly §134, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1319; renumbered §133 and amended Pub. L. 94–103, title I, §§110(e)(2), 111, title III, §302(a), (b)(2), Oct. 4, 1975, 89 Stat. 490, 506; Pub. L. 95–602, title V, §511, Nov. 6, 1978, 92 Stat. 3011, related to State plans, prior to the general amendment of this chapter by Pub. L. 98–527.
 
 Section 6064, Pub. L. 88–164, title I, §154, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2683; amended Pub. L. 100–146, title IV, §404, Oct. 29, 1987, 101 Stat. 857; Pub. L. 101–496, §19, Oct. 31, 1990, 104 Stat. 1203; Pub. L. 103–230, title IV, §405, Apr. 6, 1994, 108 Stat. 326, established the order of priorities for grant awards.
 

@@ -1,6 +1,6 @@
 ### §3491. Non-regular officers: status
 
-A commissioned officer of the Army, other than of the Regular Army, who is on active dutyin any commissioned grade has the rights and privileges, and is entitled to the benefits, provided by law for a commissioned officer of the Army Reserve—
+A commissioned officer of the Army, other than of the Regular Army, who is on active duty in any commissioned grade has the rights and privileges, and is entitled to the benefits, provided by law for a commissioned officer of the Army Reserve—
 
 &emsp;(1) whose reserve grade is that in which the officer not of the Regular Army is serving;
 

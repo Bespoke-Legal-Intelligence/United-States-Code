@@ -1,0 +1,60 @@
+### §185. Financial Management Modernization Executive Committee
+
+(a)
+
+Establishment of Financial Management Modernization Executive Committee.—(1) The Secretary of Defense shall establish a Financial Management Modernization Executive Committee.
+
+(2) The Committee shall be composed of the following:
+
+&emsp;(A) The Under Secretary of Defense (Comptroller), who shall be the chairman of the committee.
+
+&emsp;(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+&emsp;(C) The Under Secretary of Defense for Personnel and Readiness.
+
+&emsp;(D) The Chief Information Officer of the Department of Defense.
+
+&emsp;(E) Such additional personnel of the Department of Defense (including appropriate personnel of the military departments and Defense Agencies) as are designated by the Secretary.
+
+(3) The Committee shall be accountable to the Senior Executive Council (composed of the Secretary of Defense, the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force).
+
+(b)
+
+Duties.—In addition to other matters assigned to it by the Secretary of Defense, the Committee shall have the following duties:
+
+&emsp;(1) To establish a process that ensures that each critical accounting system, financial management system, and data feeder system of the Department of Defense is compliant with applicable Federal financial management and reporting requirements.
+
+&emsp;(2) To develop a management plan for the implementation of the financial and data feeder systems compliance process established pursuant to paragraph (1).
+
+&emsp;(3) To supervise and monitor the actions that are necessary to implement the management plan developed pursuant to paragraph (2), as approved by the Secretary of Defense.
+
+&emsp;(4) To ensure that a Department of Defense financial management enterprise architecture is developed and maintained in accordance with—
+
+&emsp;&emsp;(A) the overall business process transformation strategy of the Department; and
+
+&emsp;&emsp;(B) the architecture framework of the Department for command, control, communications, computers, intelligence, surveillance, and reconnaissance functions.
+
+&emsp;(5) To ensure that investments in existing or proposed financial management systems for the Department comply with the overall business practice transformation strategy of the Department and the financial management enterprise architecture developed under paragraph (4).
+
+&emsp;(6) To provide an annual accounting of each financial and data feeder system investment technology project to ensure that each such project is being implemented at acceptable cost and within a reasonable schedule and is contributing to tangible, observable improvements in mission performance.
+
+(c)
+
+Management Plan for Implementation of Financial Data Feeder Systems Compliance Process.—The management plan developed under subsection (b)(2) shall include among its principal elements at least the following elements:
+
+&emsp;(1) A requirement for the establishment and maintenance of a complete inventory of all budgetary, accounting, finance, and data feeder systems that support the transformed business processes of the Department and produce financial statements.
+
+&emsp;(2) A phased process (consisting of the successive phases of Awareness, Evaluation, Renovation, Validation, and Compliance) for improving systems referred to in paragraph (1) that provides for mapping financial data flow from the cognizant Department business function source (as part of the overall business process transformation strategy of the Department) to Department financial statements.
+
+&emsp;(3) Periodic submittal to the Secretary of Defense, the Deputy Secretary of Defense, and the Senior Executive Council (or any combination thereof) of reports on the progress being made in achieving financial managementtransformation goals and milestones included in the annual financial management improvement plan in 2002.
+
+&emsp;(4) Documentation of the completion of each phase specified in paragraph (2) of improvements made to each accounting, finance, and data feeder system of the Department.
+
+&emsp;(5) Independent audit by the Inspector General of the Department, the audit agencies of the military departments, and private sector firms contracted to conduct validation audits (or any combination thereof) at the validation phase for each accounting, finance, and data feeder system.
+
+(d)
+
+Data Feeder Systems.—In this section, the term “data feeder system” has the meaning given that term in section 2222(c)(2) of this title.
+
+(Added Pub. L. 107–107, div. A, title X, §1009(a)(1), Dec. 28, 2001, 115 Stat. 1206.)
+

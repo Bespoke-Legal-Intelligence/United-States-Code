@@ -30,9 +30,9 @@
 
 &emsp;(1) The term “defense laboratory” means any laboratory, product center, test center, depot, training and educational organization, or operational command under the jurisdiction of the Department of Defense.
 
-&emsp;(2) The term “local educational agency” has the meaning given such term in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801).
+&emsp;(2) The term “local educational agency” has the meaning given such term in section 9101 of the Elementary and Secondary Education Act of 1965.
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, §391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, §1 \[\[div. A\], title II, §253\], Oct. 30, 2000, 114 Stat. 1654, 1654A–49.)
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, §391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, §1 \[\[div. A\], title II, §253\], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X, §1076(e), Jan. 8, 2002, 115 Stat. 2091.)
 
 #### References in Text
 
@@ -40,7 +40,11 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)), referred to in subsec. (c), were repealed by Pub. L. 102–325, title III, §302(a)(3), July 23, 1992, 106 Stat. 472.
 
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (e)(2), is classified to section 7801 of Title 20, Education.
+
 #### Amendments
+
+2002—Subsec. (e)(2). Pub. L. 107–110 substituted “section 9101 of the Elementary and Secondary Education Act of 1965” for “section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)”.
 
 2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(a)(1)\], inserted “, and is encouraged to provide,” after “may provide” in introductory provisions.
 
@@ -57,6 +61,10 @@ Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(b)\], amended 
 Subsec. (e). Pub. L. 103–382, §394(b)(4)(B)(iii), which directed amendment of subsec. (e) by striking out “(20 U.S.C. 1058(b)” could not be executed because “(20 U.S.C. 1058(b)” does not appear in subsec. (e).
 
 Pub. L. 103–382, §391(b)(4)(B)(i), (ii), substituted “educational agency” for “education agency” and “section 14101” for “section 1471(12)”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

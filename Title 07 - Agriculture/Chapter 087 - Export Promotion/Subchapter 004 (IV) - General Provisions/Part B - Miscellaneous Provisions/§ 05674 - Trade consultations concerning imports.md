@@ -20,7 +20,7 @@ The Secretary shall monitor the compliance of World Trade Organization member co
 
 &emsp;&emsp;(B) any notice given by the Secretary to the United States Trade Representative.
 
-(Pub. L. 95–501, title IV, §414, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat.3685; amended Pub. L. 104–127, title II, §242(b), Apr. 4, 1996, 110 Stat. 965.)
+(Pub. L. 95–501, title IV, §414, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3685; amended Pub. L. 104–127, title II, §242(b), Apr. 4, 1996, 110 Stat. 965.)
 
 #### Amendments
 

@@ -38,7 +38,7 @@ Pub. L. 102–388, title III, §348(c)(2), Oct. 6, 1992, 106 Stat. 1554, added i
 
 1990—Pub. L. 101–595, title VI, §603(8), Nov. 16, 1990, 104 Stat. 2993, which directed the amendment of the chapter analysis of title 46 was executed to the chapter analysis of this chapter to reflect the probable intent of Congress by striking out items 12113 “Ports of documentation”, 12114 “Home ports”, 12115 “Names of vessels”, 12116 “Numbers, signal letters, and identification markings”, 12118 “Registration of funnel marks and house flags”, and 12121 “Regulations”.
 
-1989—Pub. L. 101–225, title III, §301(a)(12), Dec. 12, 1989, 103 Stat. 1922, inserted “endorsements” in item 12105, substituted “endorsements” for “licenses and registry” in items 12106, 12107, and 12108, and substituted “endorsements” for “vessel licenses” in item 12109.
+1989—Pub. L. 101–225, title III, §301(a)(12), Dec. 12, 1989, 103 Stat. 1922, inserted “endorsements” in item 12105, substituted “endorsements” for “licenses andregistry” in items 12106, 12107, and 12108, and substituted “endorsements” for “vessel licenses” in item 12109.
 
 1988—Pub. L. 100–710, title I, §103(b), Nov. 23, 1988, 102 Stat. 4749, substituted “Surrender and invalidation” for “Invalidation” in item 12111.
 

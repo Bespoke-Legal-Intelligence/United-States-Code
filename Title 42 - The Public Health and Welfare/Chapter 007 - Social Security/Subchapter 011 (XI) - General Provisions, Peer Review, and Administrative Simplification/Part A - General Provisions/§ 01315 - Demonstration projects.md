@@ -24,7 +24,7 @@ In the case of any experimental, pilot, or demonstration project undertaken unde
 
 #### (c) Demonstration projects to test alternative definitions of unemployment
 
-(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in such States to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits an application under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
+(1)(A) The Secretary shall enter into agreements with up to 8 States submitting applications under this subsection for the purpose of conducting demonstration projects in such States to test and evaluate the use, with respect to individuals who received aid under part A of subchapter IV of this chapter in the preceding month (on the basis of the unemployment of the parent who is the principal earner), of a number greater than 100 for the number of hours per month that such individuals may work and still be considered to be unemployed for purposes of section 607 of this title. If any State submits anapplication under this subsection for the purpose of conducting a demonstration project to test and evaluate the total elimination of the 100-hour rule, the Secretary shall approve at least one such application.
 
 (B) If any State with an agreement under this subsection so requests, the demonstration project conducted pursuant to such agreement may test and evaluate the complete elimination of the 100-hour rule and of any other durational standard that might be applied in defining unemployment for purposes of determining eligibility under section 607 of this title.
 
@@ -66,7 +66,7 @@ An application by the chief executive officer of a State for an extension of a w
 
 &emsp;(4) During the 30-day period that begins on the date information described in paragraph (3) is provided to a State, the Secretary shall negotiate revised terms and conditions of the waiver project with the State.
 
-&emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiver project is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
+&emsp;(5)(A) Not later than 120 days after the date an application for an extension of the waiverproject is submitted to the Secretary (or such later date agreed to by the chief executive officer of the State), the Secretary shall—
 
 &emsp;&emsp;(i) approve the application subject to such modifications in the terms and conditions—
 
@@ -200,7 +200,7 @@ State Demonstration Projects To Encourage Innovative Education and Training Prog
 
 “(c)
 
-Demonstrations To Ensure Long Term Family Self-Sufficiency Through Community-Based Services.—Any State, using funds made available to it from appropriations made pursuant to subsection (d) in conjunction with its other resources, may conduct demonstrations to test more effective methods of providingcoordination and services to ensure long term family self-sufficiency through community-based comprehensive family support services involving a partnership between the State agency administering or supervising the administrating of the State's plan under section 402 of the Social Security Act \[section 602 of this title\] and community-based organizations having experience and demonstrated effectiveness in providing services.
+Demonstrations To Ensure Long Term Family Self-Sufficiency Through Community-Based Services.—Any State, using funds made available to it from appropriations made pursuant to subsection (d) in conjunction with its other resources, may conduct demonstrations to test more effective methods of providing coordination and services to ensure long term family self-sufficiency through community-based comprehensive family support services involving a partnership between the State agency administering or supervising the administrating of the State's plan under section 402 of the Social Security Act \[section 602 of this title\] and community-based organizations having experience and demonstrated effectiveness in providing services.
 
 “(d)
 
@@ -208,7 +208,7 @@ Authorization of Appropriations.—For the purpose of making grants to States to
 
 #### Demonstration Projects To Encourage States To Employ Parents Receiving AFDC as Paid Child Care Providers
 
-Section 502 of Pub. L. 100–485 authorized Secretary of Health and Human Services to permit up to 5 States to undertake and carry out demonstration projects designed to test whether employment of parents of dependent children receiving AFDC as providers of child care for other children receiving AFDC would effectively facilitate the conduct of the job opportunities and basic skills training program under part F of title IV of this chapter by making additional child care services available to meet the requirements of section 602(g)(1)(A) of this title while affording significant numbers of families receiving such aid a realistic opportunity to avoid welfare dependence through employment as a child care provider, and authorized to be appropriated not to exceed $1,000,000 for each of the fiscal years 1990, 1991, and 1992 for grants to States to carry out such demonstration projects.
+Section 502 of Pub. L. 100–485 authorized Secretary of Health and Human Services to permit up to 5 States to undertake and carry out demonstration projects designed to test whether employment of parents of dependent children receiving AFDC as providers of child care for other children receiving AFDC would effectively facilitate the conduct of the job opportunities and basic skills training program under part F of title IV of this chapter by making additional child care services available to meet the requirements of section 602(g)(1)(A) of this title while affording significantnumbers of families receiving such aid a realistic opportunity to avoid welfare dependence through employment as a child care provider, and authorized to be appropriated not to exceed $1,000,000 for each of the fiscal years 1990, 1991, and 1992 for grants to States to carry out such demonstration projects.
 
 #### Demonstration Projects To Address Child Access Problems
 
@@ -298,7 +298,7 @@ Applications; Selection Criteria.—(1) In selecting States to conduct demonstra
 
 “(e)
 
-Evaluation and Report.—(1) Each State conducting a demonstration project under this sectionshall submit to the Secretary for his approval an evaluation plan that provides for examining the effectiveness of the project in both the home base and peripheral area of the State.
+Evaluation and Report.—(1) Each State conducting a demonstration project under this section shall submit to the Secretary for his approval an evaluation plan that provides for examining the effectiveness of the project in both the home base and peripheral area of the State.
 
 “(2) Not later than October 1, 1992, the Secretary shall submit to the Congress a report containing a summary of the evaluations conducted by States pursuant to the plans described in paragraph (1).
 
@@ -310,7 +310,7 @@ Funding.—(1) Three-fifths of the total amount appropriated pursuant to this se
 
 “(g)
 
-Duration.—A demonstration project conducted under this section shall be commenced not later than September 30, 1989, and shall be conducted for a 3-year period; except that the Secretary may terminate a project before the end of such period if he determines that the State conducting the project is not in substantial compliance with the terms of the agreement entered into with the Secretary under this section.
+Duration.—A demonstration project conducted under this section shall be commenced not later than September 30, 1989, and shall be conducted for a 3-yearperiod; except that the Secretary may terminate a project before the end of such period if he determines that the State conducting the project is not in substantial compliance with the terms of the agreement entered into with the Secretary under this section.
 
 “(h)
 

@@ -228,7 +228,7 @@ Retired stock.—
 
 &emsp;“(A) Except as provided in subparagraph (B), if stock issued before November 18, 1989, (or described in paragraph (2)), is retired or acquired after November 17, 1989, by the corporation or another member of the same affiliated group, such stock shall be treated, for purposes of section 1503(f)(3)(D) of such Code, as issued on the date of such retirement or acquisition.
 
-&emsp;“(B) Subparagraph (A) shall not apply to any retirement or acquisition pursuant to an obligation to reissue under a binding written contract in effect on November 17, 1989, and at all times thereafter before such retirement or acquisition.
+&emsp;“(B) Subparagraph (A) shall not apply to any retirement or acquisition pursuant to an obligation to reissue under a binding written contract in effect onNovember 17, 1989, and at all times thereafter before such retirement or acquisition.
 
 “(5)
 
@@ -328,7 +328,7 @@ Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ The Attorney General or Secretary of Health and Human Services, as applicable, s
 
 #### References in Text
 
-This division, referred to in subsec. (a), is division B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491, known as the Violence Against Women Act of 2000. For complete classification of division B to the Code, see Short Title of 2000 Amendment note set out under section 13701 of this title and Tables.
+This division, referred to in subsec. (a), is division B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491, known asthe Violence Against Women Act of 2000. For complete classification of division B to the Code, see Short Title of 2000 Amendment note set out under section 13701 of this title and Tables.
 
 #### Codification
 

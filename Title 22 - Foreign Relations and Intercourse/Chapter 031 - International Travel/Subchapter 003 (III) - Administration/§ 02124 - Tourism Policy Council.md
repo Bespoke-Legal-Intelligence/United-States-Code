@@ -40,7 +40,7 @@ The Council shall conduct its first meeting not later than 6 months after Octobe
 
 #### (e) Involvement of Federal agencies and departments
 
-(1) The Council shall coordinate national policies and programs relating to international travel and tourism, recreation, and national heritage resources, which involve Federal agencies;
+(1) The Council shall coordinate national policies and programs relating to internationaltravel and tourism, recreation, and national heritage resources, which involve Federal agencies;
 
 (2) The Council may request directly from any Federal department or agency such personnel, information, services, or facilities as deemed necessary by the Chairman and to the extent permitted by law and within the limits of available funds.
 

@@ -6,7 +6,7 @@ The Secretary shall take such action as may be necessary to insure that all labo
 
 #### References in Text
 
-Act of March 3, 1931, as amended, known as the Davis-Bacon Act, referred to in text, is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 276a of this title and Tables.
+Act of March 3, 1931, as amended, known as the Davis-Bacon Act, referred to in text, is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 276a of this title and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in text, is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

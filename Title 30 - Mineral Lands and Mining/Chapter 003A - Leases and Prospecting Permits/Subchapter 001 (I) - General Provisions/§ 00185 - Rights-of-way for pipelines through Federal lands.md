@@ -24,11 +24,11 @@ The width of a right-of-way shall not exceed fifty feet plus the ground occupied
 
 #### (e) Temporary permits
 
-A right-of-way may be supplemented by such temporary permits for the use of Federal lands in the vicinity of the pipeline as the Secretary or agency head finds are necessary in connection with construction, operation, maintenance, or termination of the pipeline, or to protect the natural environment or public safety.
+A right-of-way may be supplemented by such temporary permits for the use of Federal lands in the vicinity of the pipeline as the Secretaryor agency head finds are necessary in connection with construction, operation, maintenance, or termination of the pipeline, or to protect the natural environment or public safety.
 
 #### (f) Regulatory authority
 
-Rights-of-way or permits granted or renewed pursuant to this section shall be subject to regulations promulgated in accord with the provisions of this section and shall be subject to such terms and conditions as the Secretary or agency head may prescribe regarding extent, duration, survey, location, construction, operation, maintenance use and termination.
+Rights-of-way or permits granted or renewed pursuant to this section shall be subject to regulations promulgated in accord with the provisions of this section and shall be subject to such terms and conditions as the Secretary or agency head may prescribe regarding extent, duration, survey, location, construction, operation, maintenance, use, and termination.
 
 #### (g) Pipeline safety
 
@@ -38,7 +38,7 @@ The Secretary or agency head shall impose requirements for the operation of the 
 
 (1) Nothing in this section shall be construed to amend, repeal, modify, or change in any way the requirements of section 102(2)(C) \[42 U.S.C. 4332(2)(C)\] or any other provision of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 
-(2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities in connection with the right-of-way or permit will not violate applicable air and water qualitystandards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public or private property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.
+(2) The Secretary or agency head, prior to granting a right-of-way or permit pursuant to this section for a new project which may have a significant impact on the environment, shall require the applicant to submit a plan of construction, operation, and rehabilitation for such right-of-way or permit which shall comply with this section. The Secretary or agency head shall issue regulations or impose stipulations which shall include, but shall not be limited to: (A) requirements for restoration, revegetation, and curtailment of erosion of the surface of the land; (B) requirements to insure that activities in connection with the right-of-way or permit will not violate applicable air and water quality standards nor related facility siting standards established by or pursuant to law; (C) requirements designed to control or prevent (i) damage to the environment (including damage to fish and wildlife habitat), (ii) damage to public or private property, and (iii) hazards to public health and safety; and (D) requirements to protect the interests of individuals living in the general area of the right-of-way or permit who rely on the fish, wildlife, and biotic resources of the area for subsistence purposes. Such regulations shall be applicable to every right-of-way or permit granted pursuant to this section, and may be made applicable by the Secretary or agency head to existing rights-of-way or permits, or rights-of-way or permits to be renewed pursuant to this section.
 
 #### (i) Disclosure
 
@@ -78,7 +78,7 @@ In order to minimize adverse environmental impacts and the proliferation of sepa
 
 #### (q) Statutes
 
-No rights-of-way for the purposes provided for in this section shall be granted or renewedacross Federal lands except under and subject to the provisions, limitations, and conditions of this section. Any application for a right-of-way filed under any other law prior to the effective date of this provision may, at the applicant's option, be considered as an application under this section. The Secretary or agency head may require the applicant to submit any additional information he deems necessary to comply with the requirements of this section.
+No rights-of-way for the purposes provided for in this section shall be granted or renewed across Federal lands except under and subject to the provisions, limitations, and conditions of this section. Any application for a right-of-way filed under any other law prior to the effective date of this provision may, at the applicant's option, be considered as an application under this section. The Secretary or agency head may require the applicant to submit any additional information he deems necessary to comply with the requirements of this section.
 
 #### (r) Common carriers
 
@@ -100,7 +100,7 @@ No rights-of-way for the purposes provided for in this section shall be granted 
 
 #### (s) Exports of Alaskan North Slope oil
 
-(1) Subject to paragraphs (2) through (6) of this subsection and notwithstanding any other provision of this chapter or any other provision of law (including any regulation) applicable to the export of oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43, such oil may be exported unless the President finds that exportation of this oil is not in the national interest. The President shall make his national interest determination within five months of November 28, 1995. In evaluating whether exports of this oil are in the national interest, the President shall at a minimum consider—
+(1) Subject to paragraphs (2) through (6) of this subsection and notwithstanding any other provision of this chapter or any other provision of law (including any regulation) applicable to theexport of oil transported by pipeline over right-of-way granted pursuant to section 1652 of title 43, such oil may be exported unless the President finds that exportation of this oil is not in the national interest. The President shall make his national interest determination within five months of November 28, 1995. In evaluating whether exports of this oil are in the national interest, the President shall at a minimum consider—
 
 &emsp;(A) whether exports of this oil would diminish the total quantity or quality of petroleum available to the United States;
 
@@ -232,7 +232,7 @@ Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1017.
 
 #### GAO Report
 
-Section 202 of Pub. L. 104–58 directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a review of energy production in California and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuilding and ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
+Section 202 of Pub. L. 104–58 directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a review of energy production in California and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuildingand ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
 
 #### Outer Continental Shelf; Pipeline Rights-of-Way
 
@@ -254,7 +254,7 @@ I have also considered the interagency group's conclusions regarding potential e
 
 Therefore, pursuant to section 28(s) of the Mineral Leasing Act I direct the Secretary of Commerce to promulgate immediately a general license, or a license exception, authorizing exports of such crude oil, subject to appropriate documentation requirements, and consistent with the following conditions:
 
-—tankers exporting ANS exports must use the same route that they do for shipments to Hawaii until they reach a point 300 miles due south of Cape Hinchinbrook Light and then turn toward Asian destinations. Afterreaching that point, tankers in the ANS oil trade must remain outside of the 200 nautical-miles Exclusive Economic Zone of the United States as defined in the Fisheries Conservation and Management Act (16 U.S.C. 1811) \[probably means the Magnuson-Stevens Fishery Conservation and Management Act\]. This condition also applies to tankers returning from foreign ports to Valdez, Alaska. Exceptions can be made at the discretion of the vessel master only to ensure the safety of the vessel;
+—tankers exporting ANS exports must use the same route that they do for shipments to Hawaii until they reach a point 300 miles due south of Cape Hinchinbrook Light and then turn toward Asian destinations. After reaching that point, tankers in the ANS oil trade must remain outside of the 200 nautical-miles Exclusive Economic Zone of the United States as defined in the Fisheries Conservation and Management Act (16 U.S.C. 1811) \[probably means the Magnuson-Stevens Fishery Conservation and Management Act\]. This condition also applies to tankers returning from foreign ports to Valdez, Alaska. Exceptions can be made at the discretion of the vessel master only to ensure the safety of the vessel;
 
 —that export tankers be equipped with satellite-based communications systems that will enable the Coast Guard independently to determine their location. The Coast Guard will conduct appropriate monitoring of the tankers, a measure that will ensure compliance with the 200-mile condition, and help the Coast Guard respond quickly to any emergencies;
 

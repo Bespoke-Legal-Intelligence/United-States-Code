@@ -5,6 +5,4 @@ Part A—Definitions
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08801 - Definitions](%C2%A7%2008801%20-%20Definitions.md)
-- [&sect; 08802 - Applicability of this subchapter](%C2%A7%2008802%20-%20Applicability%20of%20this%20subchapter.md)
-- [&sect; 08803 - Applicability to Bureau of Indian Affairs operated schools](%C2%A7%2008803%20-%20Applicability%20to%20Bureau%20of%20Indian%20Affairs%20operated%20schools.md)
+- [&sect; 08801 to 8803 - Repealed. Pub. L. 107&#8211;110, title X, &sect;1011(5)(C), Jan. 8, 2002, 115 Stat. 1986](%C2%A7%2008801%20to%208803%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93110%2C%20title%20X%2C%20%C2%A71011%285%29%28C%29%2C%20Jan.%208%2C%202002%2C%20115%20Stat.%201986.md)

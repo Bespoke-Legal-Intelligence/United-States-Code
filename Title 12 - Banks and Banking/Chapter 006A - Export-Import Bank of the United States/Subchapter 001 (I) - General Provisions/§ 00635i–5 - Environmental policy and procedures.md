@@ -14,7 +14,7 @@
 
 #### (2) Authority to withhold financing
 
-&emsp;The procedures established under paragraph (1) shall permit the Board of Directors, in its judgment, to withhold financing from a project for environmental reasons or to approve financing after considering the potential environmental effects of a project.
+&emsp;The procedures established under paragraph (1) shall permit the Board of Directors, in its judgment, to withhold financing from aproject for environmental reasons or to approve financing after considering the potential environmental effects of a project.
 
 #### (b) Use of Bank programs to encourage certain exports
 
@@ -46,5 +46,5 @@ A prior section 11 of act July 31, 1945, ch. 341, was renumbered section 9 and i
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–428 inserted par. (1) designation and heading, inserted before period at end offirst sentence “(such as exports of products and services used to aid in the monitoring, abatement, control, or prevention of air, water, and ground contaminants or pollution, or which provide protection in the handling of toxic substances, subject to a final determination by the Bank, and products and services for foreign environmental projects dedicated entirely to the prevention, control, or cleanup of air, water, or ground pollution, including facilities to provide for control or cleanup, and used in the retrofitting of facility equipment for the sole purpose of mitigating, controlling, or preventing adverse environmental effects, subject to a final determination by the Bank)”, and added par. (2).
+1994—Subsec. (b). Pub. L. 103–428 inserted par. (1) designation and heading, inserted before period at end of first sentence “(such as exports of products and services used to aid in the monitoring, abatement, control, or prevention of air, water, and ground contaminants or pollution, or which provide protection in the handling of toxic substances, subject to a final determination by the Bank, and products and services for foreign environmental projects dedicated entirely to the prevention, control, or cleanup of air, water, or ground pollution, including facilities to provide for control or cleanup, and used in the retrofitting of facility equipment for the sole purpose of mitigating, controlling, or preventing adverse environmental effects, subject to a final determination by the Bank)”, and added par. (2).
 

@@ -52,7 +52,7 @@ Sec. 101. (a) Upon the application of any State, political subdivision of a Stat
 
 “(b) The Secretary of Commerce may designate any area in the United States as an emergency drought impact area if he or she finds that a major and continuing adverse drought condition exists and is expected to continue, and such condition is causing significant hardships on the affected areas.
 
-“(c) Eligible applicants shall be those States or political subdivisions of States with a population of ten thousand or more, Indian tribes, or public or private nonprofit organizations within areas designated pursuant to subsection (b) of this section.
+“(c) Eligible applicants shall be those States or political subdivisions of States with a population of ten thousand or more, Indian tribes, or public or privatenonprofit organizations within areas designated pursuant to subsection (b) of this section.
 
 “(d) Projects assisted under this Act shall be only those with respect to which assurances can be given to the satisfaction of the Secretary of Commerce that the work can be completed by April 30, 1978, or within such extended time as the Secretary may approve in exceptional circumstances.
 

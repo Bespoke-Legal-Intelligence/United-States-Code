@@ -1,10 +1,10 @@
 ### §1362. Communication lines, stations or systems
 
-Whoever willfully or maliciously injures or destroys or attempts willfully or maliciously to injure or destroy any of the works, property, or material of any radio, telegraph, telephone or cable, line, station, or system, or other means of communication, operated or controlled by the United States, or used or intended to be used for military or civil defense functions of the United States, whether constructed or in process of construction, or willfully or maliciously interferes in any way with the working or use of any such line, or system, or willfully or maliciously obstructs, hinders, or delays the transmission of any communication over any such line, or system, shall be fined under this title or imprisoned not more than ten years, or both.
+Whoever willfully or maliciously injures or destroys any of the works, property, or material of any radio, telegraph, telephone or cable, line, station, or system, or other means of communication, operated or controlled by the United States, or used or intended to be used for military or civil defense functions of the United States, whether constructed or in process of construction, or willfully or maliciously interferes in any way with the working or use of any such line, or system, or willfully or maliciously obstructs, hinders, or delays the transmission of any communication over any such line, or system, or attempts or conspires to do such an act, shall be fined under this title or imprisoned not more than ten years, or both.
 
 In the case of any works, property, or material, not operated or controlled by the United States, this section shall not apply to any lawful strike activity, or other lawful concerted activities for the purposes of collective bargaining or other mutual aid and protection which do not injure or destroy any line or system used or intended to be used for the military or civil defense functions of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 87–306, Sept. 26, 1961, 75 Stat. 669; Pub. L. 103–322, title XXXII, §320903(d)(2), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 87–306, Sept. 26, 1961, 75 Stat. 669; Pub. L. 103–322, title XXXII, §320903(d)(2), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 107–56, title VIII, §811(c), Oct. 26, 2001, 115 Stat. 381.)
 
 #### Historical and Revision Notes
 
@@ -13,6 +13,8 @@ Based on title 18, U.S.C., 1940 ed., §116 (Mar. 4, 1909, ch. 321, §60, 35 Stat
 This section was extended to include radio and radio stations. Minor changes were made in phraseology.
 
 #### Amendments
+
+2001—Pub. L. 107–56, in first par., struck out “or attempts willfully or maliciously to injure or destroy” after “Whoever willfully or maliciously injures or destroys” and inserted “or attempts or conspires to do such an act,” before “shall be fined”.
 
 1994—Pub. L. 103–322, in first par., inserted “or attempts willfully or maliciously to injure or destroy” after “willfully or maliciously injures or destroys” and substituted “fined under this title” for “fined not more than $10,000”.
 

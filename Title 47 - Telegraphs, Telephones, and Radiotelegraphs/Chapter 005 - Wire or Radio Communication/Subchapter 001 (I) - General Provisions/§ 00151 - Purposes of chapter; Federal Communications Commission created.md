@@ -16,7 +16,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 #### Moratorium on Internet Taxes
 
-Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, provided that:
+Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, as amended by Pub. L. 107–75, §2, Nov. 28, 2001, 115 Stat. 703, provided that:
 
 #### “SEC. 1100. SHORT TITLE.
 
@@ -26,7 +26,7 @@ Pub. L. 105–277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681–719, provid
 
 “(a)
 
-Moratorium.—No State or political subdivision thereof shall impose any of the following taxes during the period beginning on October 1, 1998, and ending 3 years after the date of the enactment of this Act \[Oct. 21, 1998\]—
+Moratorium.—No State or political subdivision thereof shall impose any of the following taxes during the period beginning on October 1, 1998, and ending on November 1, 2003—
 
 &emsp;“(1) taxes on Internet access, unless such tax was generally imposed and actually enforced prior to October 1, 1998; and
 

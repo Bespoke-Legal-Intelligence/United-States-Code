@@ -10,7 +10,7 @@ An exercise of a general power of appointment created on or before October 21, 1
 
 #### (b) Powers created after October 21, 1942
 
-The exercise or release of a general power of appointment created after October 21, 1942, shallbe deemed a transfer of property by the individual possessing such power.
+The exercise or release of a general power of appointment created after October 21, 1942, shall be deemed a transfer of property by the individual possessing such power.
 
 #### (c) Definition of general power of appointment
 

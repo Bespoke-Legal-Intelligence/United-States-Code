@@ -10,7 +10,7 @@ It is intended that the Commission, in the performance of its duties, will—
 
 &emsp;(3) give critical attention to the conditions and controls involved in the administration of Federal grant programs;
 
-&emsp;(4) make available technical assistance to the executive and legislative branches of the Federal Government in the review of proposed legislation to determine its overall effect on the Federal system;
+&emsp;(4) make available technical assistance to the executive and legislative branches of theFederal Government in the review of proposed legislation to determine its overall effect on the Federal system;
 
 &emsp;(5) encourage discussion and study at an early stage of emerging public problems that are likely to require intergovernmental cooperation;
 

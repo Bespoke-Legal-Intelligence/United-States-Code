@@ -28,7 +28,7 @@ Pub. L. 96–395, title III, §307, June 30, 1980, 94 Stat. 791, provided that:
 
 &emsp;“(3) effective response to any such event or sequence.
 
-> Such plan shall include provision for Commission review and approval of the qualifications of personnelconducting any required training and retraining program. The plan shall also include requirements for the renewal of operator licenses including, to the extent practicable, requirements that the operator—
+> Such plan shall include provision for Commission review and approval of the qualifications of personnel conducting any required training and retraining program. The plan shall also include requirements for the renewal of operator licenses including, to the extent practicable, requirements that the operator—
 
 &emsp;“(A) has been actively and extensively engaged in the duties listed in such license,
 

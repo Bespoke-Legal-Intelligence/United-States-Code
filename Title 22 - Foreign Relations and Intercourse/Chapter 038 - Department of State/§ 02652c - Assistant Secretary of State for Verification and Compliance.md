@@ -32,7 +32,7 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 #### (A) Primary role
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Assistant Secretary, or his designee, shall participate in all interagency groups or organizations within the executive branch of Government that assess, analyze, or review United States planned or ongoing policies, programs, or actions that have a direct bearing on verification or compliance matters, including interagency intelligence committees concerned with the developmentor exploitation of measurement or signals intelligence or other national technical means of verification.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Assistant Secretary, or his designee, shall participate in all interagency groups or organizations within the executive branch of Government that assess, analyze, or review United States planned or ongoing policies, programs, or actions that have a direct bearing on verification or compliance matters, including interagency intelligence committees concerned with the development or exploitation of measurement or signals intelligence or other national technical means of verification.
 
 #### (B) Requirement for designation
 

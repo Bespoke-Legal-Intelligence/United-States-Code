@@ -1,6 +1,6 @@
 ### §2347. Petitions to review; proceedings
 
-(a) Unless determined on a motion to dismiss, petitions to review orders reviewable under this chapter are heard in the court of appeals on the record of the pleadings, evidence adduced and proceedings before the agency, when the agency has held a hearing whether or not required to do so by law.
+(a) Unless determined on a motion to dismiss, petitions to review orders reviewable under this chapter are heard in the court of appeals on the record of the pleadings, evidence adduced, and proceedings before the agency, when the agency has held a hearing whether or not required to do so by law.
 
 (b) When the agency has not held a hearing before taking the action of which review is sought by the petition, the court of appeals shall determine whether a hearing is required by law. After that determination, the court shall—
 

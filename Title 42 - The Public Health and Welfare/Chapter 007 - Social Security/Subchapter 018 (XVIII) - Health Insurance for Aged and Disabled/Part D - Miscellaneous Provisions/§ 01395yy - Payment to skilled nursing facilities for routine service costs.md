@@ -76,7 +76,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (ii) Services excluded
 
-&emsp;&emsp;&emsp;Services described in this clause are physicians’ services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
+&emsp;&emsp;&emsp;Services described in this clause are physicians’ services, services described byclauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
 
 #### (iii) Exclusion of certain additional items and services
 
@@ -210,7 +210,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (G) Determination of Federal rate
 
-&emsp;&emsp;The Secretary shall compute for each skilled nursing facility for each fiscal year (beginning with the initial period described in subparagraph (E)(i)) an adjusted Federalper diem rate equal to the unadjusted Federal per diem rate determined under subparagraph (E), as adjusted under subparagraph (F), and as further adjusted as follows:
+&emsp;&emsp;The Secretary shall compute for each skilled nursing facility for each fiscal year (beginning with the initial period described in subparagraph (E)(i)) an adjusted Federal per diem rate equal to the unadjusted Federal per diem rate determined under subparagraph (E), as adjusted under subparagraph (F), and as further adjusted as follows:
 
 #### (i) Adjustment for case mix
 
@@ -310,7 +310,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;&emsp;(ii) is immuno-compromised secondary to an infectious disease, with specific diagnoses as specified by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578;Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497.)
 
 #### References in Text
 
@@ -332,7 +332,7 @@ Subsec. (e)(7)(B). Pub. L. 106–554, §1(a)(6) \[title II, §203(a)(4)\], struc
 
 Subsec. (e)(7)(C). Pub. L. 106–554, §1(a)(6) \[title II, §203(a)(5)\], added subpar. (C).
 
-1999—Subsec. (e)(1). Pub. L. 106–113, §1000(a)(6) \[title I, §105(a)(1)\], substituted “subject to paragraphs (7), (11),and (12)” for “subject to paragraphs (7) and (11)” in introductory provisions.
+1999—Subsec. (e)(1). Pub. L. 106–113, §1000(a)(6) \[title I, §105(a)(1)\], substituted “subject to paragraphs (7), (11), and (12)” for “subject to paragraphs (7) and (11)” in introductory provisions.
 
 Pub. L. 106–113, §1000(a)(6) \[title I, §102(a)(1)\], substituted “paragraphs (7) and (11)” for “paragraph (7)” in introductory provisions.
 
@@ -488,7 +488,7 @@ Audit.—The Comptroller General of the United States shall conduct an audit of 
 
 “(2)
 
-Report.—Not later than August 1, 2002, the Comptroller General shall submit to Congress a report on the audits conducted under paragraph (1). Such report shall include an assessment of the impact of the increased payments under this subtitle \[subtitle B, §§311–315, of title III of §1(a)(6) of Pub. L. 106–554, amending this section and sections 1395u, 1395y, and 1395cc of this title and enacting provisions set out as notes under this section and section 1395u of this title\] on increased nursing staff ratios and shall make recommendations as to whether increased payments undersubsection (a) \[114 Stat. 2763A–498\] should be continued.”
+Report.—Not later than August 1, 2002, the Comptroller General shall submit to Congress a report on the audits conducted under paragraph (1). Such report shall include an assessment of the impact of the increased payments under this subtitle \[subtitle B, §§311–315, of title III of §1(a)(6) of Pub. L. 106–554, amending this section and sections 1395u, 1395y, and 1395cc of this title and enacting provisions set out as notes under this section and section 1395u of this title\] on increased nursing staff ratios and shall make recommendations as to whether increased payments under subsection (a) \[114 Stat. 2763A–498\] should be continued.”
 
 #### Oversight
 

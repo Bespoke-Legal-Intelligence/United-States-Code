@@ -22,7 +22,7 @@ There are authorized to be appropriated $25,000,000 for the fiscal year ending J
 
 (3) Approval of any application for a grant or contract under this section by the Secretary, including the earmarking of financial assistance for a program or project, may be granted only if the application substantially meets a set of criteria that—
 
-&emsp;(A) provide that the activities and services for which assistance under this section issought will be substantially administered by or under the supervision of the applicant;
+&emsp;(A) provide that the activities and services for which assistance under this section is sought will be substantially administered by or under the supervision of the applicant;
 
 &emsp;(B) provide for such methods of administration as are necessary for the proper and efficient operation of such programs or projects; and
 

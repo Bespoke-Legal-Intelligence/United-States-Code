@@ -20,7 +20,7 @@
 
 &emsp;(2) make available to civilian law enforcement personnel nationwide, tollfree telephone communication with such office or offices.
 
-(Added Pub. L. 100–180, div. A, title XII, §1243(a), Dec. 4, 1987, 101 Stat. 1163; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2046.)
+(Added Pub. L. 100–180, div. A, title XII, §1243(a), Dec. 4, 1987, 101 Stat. 1163; amended Pub. L.100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2046.)
 
 #### Amendments
 

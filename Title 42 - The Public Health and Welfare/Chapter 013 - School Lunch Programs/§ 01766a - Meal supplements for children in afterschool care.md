@@ -4,7 +4,7 @@
 
 #### (1) Grants to States
 
-&emsp;The Secretary shall carry out a program to assist States through grants-in-aid and other means to provide meal supplements under aprogram organized primarily to provide care for children in afterschool care in eligible elementary and secondary schools.
+&emsp;The Secretary shall carry out a program to assist States through grants-in-aid and other means to provide meal supplements under a program organized primarily to provide care for children in afterschool care in eligible elementary and secondary schools.
 
 #### (2) Eligible schools
 

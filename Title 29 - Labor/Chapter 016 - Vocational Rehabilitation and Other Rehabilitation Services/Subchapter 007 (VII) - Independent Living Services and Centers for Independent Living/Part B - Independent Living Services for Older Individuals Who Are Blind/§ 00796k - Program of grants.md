@@ -92,7 +92,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 #### (1) In general
 
-&emsp;The Commissioner may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Commissioner and the application is in suchform, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (j)(4) of this section).
+&emsp;The Commissioner may not make a grant under subsection (a) of this section unless an application for the grant is submitted to the Commissioner and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Commissioner determines to be necessary to carry out this section (including agreements, assurances, and information with respect to any grants under subsection (j)(4) of this section).
 
 #### (2) Contents
 
@@ -186,7 +186,7 @@ The Commissioner may not make a grant under subsection (a) of this section unles
 
 #### References in Text
 
-Part C of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B),means former part C (§796f) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.
+Part C of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§796f) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.
 
 #### Prior Provisions
 

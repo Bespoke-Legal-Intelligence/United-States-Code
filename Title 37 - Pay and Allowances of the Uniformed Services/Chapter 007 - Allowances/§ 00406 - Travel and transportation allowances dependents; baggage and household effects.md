@@ -1,6 +1,6 @@
 ### §406. Travel and transportation allowances: dependents; baggage and household effects
 
-(a)(1) Except as provided in paragraph (2), a member of a uniformed service who is ordered to make a change of permanent station is entitled to transportation in kind, reimbursement therefor, or a monetary allowance in place of the cost of transportation, plus a per diem, for the member's dependents at rates prescribed by the Secretaries concerned, but not more than the rate authorized under section 404(d) of this title. The Secretary concerned may also reimburse the member for mandatory pet quarantine fees for household pets, but not to exceed $275 per change of station, when the member incurs the fees incident to such change of station.
+(a)(1) Except as provided in paragraph (2), a member of a uniformed service who is ordered to make a change of permanent station is entitled to transportation in kind, reimbursement therefor, or a monetary allowance in place of the cost of transportation, plus a per diem, for the member's dependents at rates prescribed by the Secretaries concerned, but not more than the rate authorized under section 404(d) of this title. The Secretary concerned may also reimburse the member for mandatory pet quarantine fees for household pets, but not to exceed $550 per change of station, when the member incurs the fees incident to such change of station.
 
 (2)(A) Except as provided in subparagraph (B), a member who—
 
@@ -40,7 +40,7 @@
 
 &emsp;(ii) from the customary port of debarkation which has been designated by the Government as most cost-effective for the Government considering all operational, travel, and transportation requirements incident to such change of station to the new duty station.
 
-> Such monetary allowance shall be established at a rate per mile that does not exceed the rate established under section 404(d)(1) of this title. Ifclause (i)(I) applies to the transportation by the member of a motor vehicle from the old duty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle.
+> Such monetary allowance shall be established at a rate per mile that does not exceed the rate established under section 404(d)(1) of this title. If clause (i)(I) applies to the transportation by the member of a motor vehicle from the old duty station, the monetary allowance under this subparagraph shall also cover return travel to the old duty station by the member or other person transporting the vehicle. In the case of transportation described in clause (ii), the monetary allowance shall also cover travel from the new duty station to the port of debarkation to pick up the vehicle.
 
 (C) Under regulations prescribed by the Secretary of Defense, the weight allowance in pounds to which a member is entitled under subparagraph (A) is determined in accordance with the following table:
 
@@ -122,7 +122,7 @@
 
 > is, not later than one year from the date he is so retired, placed on that list, involuntarily separated, discharged, or released, except as prescribed in regulations by the Secretaries concerned, entitled to transportation for his dependents, baggage, and household effects to the home selected under section 404(c) of this title, and to a per diem for his dependents. In addition, baggage and household effects may be shipped to a location other than the home selected by the member.
 
-(2) If baggage and household effects of a member are shipped to a place selected by a member as his home under section 404(c) of this title that is not a place described in clause (A) or (B) of section 404(c)(2) of this title or to a location other than the home selected by the member, or if transportation is provided for a member's dependents to a place selected by the member as his home under section 404(c) of this title that is not a place described in clause (A) or (B) of section 404(c)(2) of this title, and the costs of thatshipment or transportation are in excess of those that would have been incurred if the shipment had been made or the transportation had been provided to a location in the United States (other than Alaska or Hawaii), the member shall pay that excess cost.
+(2) If baggage and household effects of a member are shipped to a place selected by a member as his home under section 404(c) of this title that is not a place described in clause (A) or (B)of section 404(c)(2) of this title or to a location other than the home selected by the member, or if transportation is provided for a member's dependents to a place selected by the member as his home under section 404(c) of this title that is not a place described in clause (A) or (B) of section 404(c)(2) of this title, and the costs of that shipment or transportation are in excess of those that would have been incurred if the shipment had been made or the transportation had been provided to a location in the United States (other than Alaska or Hawaii), the member shall pay that excess cost.
 
 (3) If a member authorized to select a home under section 404(c) of this title accrues that right or any entitlement under this subsection but dies before he exercises it, that right or entitlement accrues to and may be exercised by his surviving dependents or, if there are no surviving dependents, his baggage and household effects may be shipped to the home of the person legally entitled to such baggage and effects. However, if baggage and household effects are shipped under circumstances described in paragraph (2) in which the member would have been required to pay the excess costs of that shipment, the surviving dependents or the person legally entitled to the baggage and household effects, as the case may be, shall pay that excess cost.
 
@@ -156,9 +156,22 @@
 
 (k) For the purposes of this section, the residence of a dependent of a member who is a student not living with the member while at school shall be considered to be the permanent duty station of the member or the designated residence of dependents of the member if the member's dependents are not authorized to reside with the member.
 
-(<i>l</i>) No carrier, port agent, warehouseman, freight forwarder, or other person involved in the transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
+(<i>l</i>) No carrier, port agent, warehouseman, freight forwarder, or other person involved inthe transportation of property may have any lien on, or hold, impound, or otherwise interfere with, the movement of baggage and household goods being transported under this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 88–431, §1(a), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §2, July 30, 1965, 79 Stat. 425; Pub. L. 89–680, §1(2), (3), Oct. 15, 1966, 80 Stat. 957; Pub.L. 89–718, §§58, 59, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(6), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–107, title VIII, §814, Nov. 9, 1979, 93 Stat. 817; Pub. L. 96–513, title V, §506(7), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title I, §121(b), Oct. 14, 1981, 95 Stat. 1000; Pub. L. 97–86, title IV, §404, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 97–258, §2(i)(1), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 97–295, §3(4), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–94, title IX, §909, Sept. 24, 1983, 97 Stat. 638; Pub. L. 99–145, title VI, §§612(b), 614(a), 617(a), title XIII, §1303(b)(9), Nov. 8, 1985, 99 Stat. 639–641, 741; Pub. L. 99–433, title VI, §602(f)(2), Oct. 1, 1986, 100 Stat. 1070; Pub. L. 99–661, div. A, title VI, §§617(a), 620(a), (b)(1), 652(a), (b), Nov. 14, 1986, 100 Stat. 3880, 3882, 3888; Pub. L. 100–180, div. A, title VI, §616(b), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 100–456, div. A, title VI, §602(a), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, §623(a), (b), Nov. 29, 1989, 103 Stat. 1447; Pub. L. 101–510, div. A, title V, §503(b), title VI, §§621, 622(a), title XIV, §1484(i)(9), Nov. 5, 1990, 104 Stat. 1558, 1580, 1718; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(4), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 102–241, §12, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 102–484, div. A, title VI, §622(a), title X, §1054(a)(4), Oct. 23, 1992, 106 Stat. 2422, 2502; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), title XI, §1182(d)(1), Nov. 30, 1993, 107 Stat. 1668, 1773; Pub. L. 104–106, div. A, title VI, §§623, 642(a)(1), title XV, §§1502(b), 1505(d), Feb. 10, 1996, 110 Stat. 363, 368, 506, 514; Pub. L. 104–201, div. A, title III, §368(b), title VI, §§621(a), 624, Sept. 23, 1996, 110 Stat. 2498, 2548; Pub. L. 105–85, div. A, title VI, §§603(d)(1)(B), 631, Nov. 18, 1997, 111 Stat. 1782, 1795; Pub. L. 105–261, div. A, title V, §561(f), title VI, §§631(a), (b)(1), 632, 653(b), Oct. 17, 1998, 112 Stat. 2025, 2043, 2044, 2051; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title VI, §§642(a), 643\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–161.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473; Pub. L. 88–431, §1(a), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, §2, July 30, 1965, 79 Stat. 425; Pub. L. 89–680, §1(2), (3), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§58, 59, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, §3(6), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–107, title VIII, §814, Nov. 9, 1979, 93 Stat. 817; Pub. L. 96–513, title V, §506(7), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title I, §121(b), Oct. 14, 1981, 95 Stat. 1000; Pub. L. 97–86, title IV, §404, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 97–258, §2(i)(1), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 97–295, §3(4), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–94, title IX, §909, Sept. 24, 1983, 97 Stat. 638; Pub. L. 99–145, title VI, §§612(b), 614(a), 617(a), title XIII, §1303(b)(9), Nov. 8, 1985, 99 Stat. 639–641, 741; Pub. L. 99–433, title VI, §602(f)(2), Oct. 1, 1986, 100 Stat. 1070; Pub. L. 99–661, div. A, title VI, §§617(a), 620(a), (b)(1), 652(a), (b), Nov. 14, 1986, 100 Stat. 3880, 3882, 3888; Pub. L. 100–180, div. A, title VI, §616(b), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 100–456, div. A, title VI, §602(a), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, §623(a), (b), Nov. 29, 1989, 103 Stat. 1447; Pub. L. 101–510, div. A, title V, §503(b), title VI, §§621, 622(a), title XIV, §1484(i)(9), Nov. 5, 1990, 104 Stat. 1558, 1580, 1718; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(4), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 102–241, §12, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 102–484, div. A, title VI, §622(a), title X, §1054(a)(4), Oct. 23, 1992, 106 Stat. 2422, 2502; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), title XI, §1182(d)(1), Nov. 30, 1993, 107 Stat. 1668, 1773; Pub. L. 104–106, div. A, title VI, §§623, 642(a)(1), title XV, §§1502(b), 1505(d), Feb. 10, 1996, 110 Stat. 363, 368, 506, 514; Pub. L. 104–201, div. A, title III, §368(b), title VI, §§621(a), 624, Sept. 23, 1996, 110 Stat. 2498, 2548; Pub. L. 105–85, div. A, title VI, §§603(d)(1)(B), 631, Nov. 18, 1997, 111 Stat. 1782, 1795; Pub. L. 105–261, div. A, title V, §561(f), title VI, §§631(a), (b)(1), 632, 653(b), Oct. 17, 1998, 112 Stat. 2025, 2043, 2044, 2051; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title VI, §§642(a), 643\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–161; Pub. L. 107–107, div. A, title VI, §§633(a), 634(a), Dec. 28, 2001, 115 Stat. 1144.)
+
+#### Amendment of Subsection (b)(1)(C)
+
+<i>Pub. L. 107–107, div. A, title VI, §634, Dec. 28, 2001, 115 Stat. 1144, provided that, effective Jan. 1, 2003, and applicable with respect to an order in connection with a change of temporary or permanent station issued on or after Jan. 1, 2003, the table in subsection (b)(1)(C) of this section is amended by striking the two footnotes and by striking the items relating to pay grade E–1 through E–4 and inserting the following new items:</i>
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| :--- | :---: | ---: |
+| E–4 | &nbsp;7,000 | &nbsp;8,000 |
+| E–3 | &nbsp;5,000 | &nbsp;8,000 |
+| E–2 | &nbsp;5,000 | &nbsp;8,000 |
+| E–1 | &nbsp;5,000 | &nbsp;8,000 |
 
 Historical and Revision Notes<br>1962
 
@@ -284,7 +297,9 @@ July 1, 1937, ch. 423, 50 Stat. 448.
 
 #### Amendments
 
-2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §642(a)\], inserted at end “The Secretary concernedmay also reimburse the member for mandatory pet quarantine fees for household pets, but not to exceed $275 per change of station, when the member incurs the fees incident to such change of station.”
+2001—Subsec. (a)(1). Pub. L. 107–107, §633(a), substituted “$550” for “$275”.
+
+2000—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §642(a)\], inserted at end “The Secretary concerned may also reimburse the member for mandatory pet quarantine fees for household pets, but not to exceed $275 per change of station, when the member incurs the fees incident to such change of station.”
 
 Subsec. (a)(2)(B)(v). Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f)\], substituted “December 31, 2001” for “September 30, 2001”.
 
@@ -420,7 +435,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 99–661, §620(b)(1), added subsec. (<i>l</i>
 
 Subsec. (k). Pub. L. 99–145, §1303(b)(9), substituted “for providing transportation of household effects of members of the armed forces under subsection (b)” for “to carry out subsection (b)”.
 
-Pub. L. 99–145, §614, which designated existing provisions as par. (1), inserted “or in which a member provides all or a part of the labor in connection with the transportation of the baggage and household effects of the member (including packing, crating, and loading)”, and added par. (2), expired Sept. 30, 1989, pursuant to section 614(b) of Pub. L. 99–145, set out as an Effective and Termination Dates of 1985 Amendment note below. Section 614(b) of Pub. L. 99–145 was repealed and the amendment made by section 614(a) of Pub. L. 99–145 was revived effective Oct. 1, 1989, by Pub. L. 101–510, §621, set out as a Revival of Expired Amendment note below.
+Pub. L. 99–145, §614, which designated existing provisions as par. (1), inserted “or in which a member provides all or a part of the labor in connection with the transportation of the baggage and household effects of the member (including packing, crating, and loading)”, and added par. (2), expired Sept. 30, 1989, pursuant to section 614(b) of Pub. L. 99–145, set out as an Effective and Termination Dates of 1985 Amendment note below. Section 614(b) of Pub. L. 99–145 was repealed and the amendment made by section 614(a) of Pub. L. 99–145 wasrevived effective Oct. 1, 1989, by Pub. L. 101–510, §621, set out as a Revival of Expired Amendment note below.
 
 Subsec. (<i>l</i>). Pub. L. 99–145, §617(a), added subsec. (<i>l</i>).
 
@@ -465,6 +480,12 @@ Pub. L. 89–680, §1(3), inserted, in authorization for transportation for depe
 1965—Subsec. (h)(2). Pub. L. 89–101 substituted “by means of transportation authorized under section 2634 of title 10” for “on a vessel owned, leased, or chartered by the United States or by privately owned American shipping services”.
 
 1964—Subsec. (h). Pub. L. 88–431 added subsec. (h).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VI, §633(b), Dec. 28, 2001, 115 Stat. 1144, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to the reimbursement of members of the uniformed services for mandatory pet quarantine fees incurred in connection with the mandatory quarantine of a household pet underway on the date of the enactment of this Act \[Dec. 28, 2001\] or beginning on or after that date.”
+
+Pub. L. 107–107, div. A, title VI, §634(b), Dec. 28, 2001, 115 Stat. 1144, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 2003, and apply with respect to an order in connection with a change of temporary or permanent station issued on or after that date.”
 
 #### Effective Date of 2000 Amendment
 
@@ -512,7 +533,7 @@ Section 620(c) of Pub. L. 99–661 provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall apply to members whose baggage and household goods enter nontemporary storage on or after the date of the enactment of this Act \[Nov. 14, 1986\].
 
-“(2) The amendments made by subsection (b) \[amending this section and section 2634 of Title 10, Armed Forces\] shall apply only with respect to memberswhose dependents are unable to accompany them to an overseas permanent duty station because of circumstances arising on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
+“(2) The amendments made by subsection (b) \[amending this section and section 2634 of Title 10, Armed Forces\] shall apply only with respect to members whose dependents are unable to accompany them to an overseas permanent duty station because of circumstances arising on or after the date of the enactment of this Act \[Nov. 14, 1986\].”
 
 Section 652(e)(1), (2) of Pub. L. 99–661 provided that:
 
@@ -560,7 +581,7 @@ Section 621 of Pub. L. 101–510 provided that: “Subsection (b) of section 614
 
 #### Prohibition on Retroactive Payments Under 1985 Amendment
 
-Section 614(c) of Pub. L. 99–145 prohibited payment of allowances to members by virtue of the amendments made by subsection (a), amending this section, in connection with transportation of baggage and household effects provided the member before Nov. 8, 1985.
+Section 614(c) of Pub. L. 99–145 prohibited payment of allowances to members by virtue of the amendmentsmade by subsection (a), amending this section, in connection with transportation of baggage and household effects provided the member before Nov. 8, 1985.
 
 #### Allowances for Labor in Connection With Transportation of Members’ Baggage and Effects; Report to Congress
 
@@ -572,29 +593,7 @@ Pub. L. 94–212, title VII, §747, Feb. 9, 1976, 90 Stat. 176, which provided t
 
 #### Funeral Transportation and Living Expense Benefits; Vietnam Conflict
 
-Pub. L. 93–257, Mar. 29, 1974, 88 Stat. 53, provided that:
-
-“
-
-Section 1 \[Short title\]. This Act may be cited as the ‘Funeral Transportation and Living Expense Benefits Act of 1974’.
-
-“
-
-Sec. 2 \[Findings\]. (a) The United States did in 1973 provide transportation and other amenities to families of five hundred and fifty-six returned prisoners of war for reunions upon these men's arrival in the continental United States after release from imprisonment by the government of the Democratic Republic of Vietnam and did in 1973 also provide transportation and other amenities to these returned prisoners of war and theirfamilies to attend ceremonies in their honor in Washington, District of Columbia.
-
-“(b) The remains of other prisoners of war, having died in captivity in Southeast Asia, are now being returned to the United States for burial.
-
-“(c) The United States owes no lesser degree of respect, honor or solicitude to the memories of the men who died in captivity and their families than in the cases of those who survived and returned alive to the United States.
-
-“(d) It is fitting and proper, therefore, as a mark of respect to those men who died in captivity while serving in the Armed Forces of the United States, that comparable courtesies and amenities be extended to the families of these deceased military personnel.
-
-“
-
-Sec. 3 \[Benefits; deceased prisoners of war or members missing in action; eligible family members\]. (a) The Secretary of Defense is authorized to provide funeral transportation and living expenses benefits for the family of any deceased member of the Armed Forces who shall have died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains shall have been returned to the United States after January 27, 1973.
-
-“(b) Such benefits shall include transportation roundtrip from such family members’ places of residence to the place of burial for such deceased member of the Armed Forces, living expenses and other such allowances as the Secretary shall deem appropriate.
-
-“(c) Eligible family members shall include the deceased's widow, children, stepchildren, mother, father, stepfather and stepmother, or if none of these shall desire to be granted such benefits, the deceased's brothers, sisters, halfbrothers and halfsisters.”
+Pub. L. 93–257, Mar. 29, 1974, 88 Stat. 53, entitled the “Funeral Transportation and Living Expense Benefits Act of 1974”, authorized the Secretary of Defense to provide funeral transportation and living expenses benefits for the family of any deceased member of the Armed Forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains were returned to the United States after January 27, 1973, prior to repeal by Pub. L. 107–107, div. A, title VI, §638(b)(3), Dec. 28, 2001, 115 Stat. 1148. See section 411f(d) of this title.
 
 #### Section Referred to in Other Sections
 

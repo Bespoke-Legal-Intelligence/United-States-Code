@@ -76,11 +76,11 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 I74Section 21. Executive Committee
 
-(a) There is hereby established the Executive Committee of the National Science Board, hereafter in this Part referred to as the Executive Committee, which shall be composed of five voting members. Four of the members shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
+(a) There is hereby established the Executive Committee of the National Science Board, hereafter in thisPart referred to as the Executive Committee, which shall be composed of five voting members. Four of the members shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
 
 (b) At its annual meeting held in 1964 and at each of its succeeding annual meetings the National Science Board, hereafter in this Part referred to as the Board, shall elect two of its members as members of the Executive Committee, and the Executive Committee members so elected shall hold office for two years from the date of their election. Any person who has been a member of the Executive Committee (established by this reorganization plan) for six consecutive years shall thereafter be ineligible for service as a member thereof during the two-year period following the expiration of such sixth year. For the purposes of this subsection, the period between any two consecutive annual meetings of the Board shall be deemed to be one year.
 
-(c) At its first meeting held after the effective date of this section the Board shall elect four of its members as members of the Executive Committee. As designated by the Board, two of the Executive Committee members so elected shall hold office as such members until the date of the annual meeting of the Board held in 1964and the other two members so elected shall hold such office until the annual meeting of the Board held in 1965.
+(c) At its first meeting held after the effective date of this section the Board shall elect four of its members as members of the Executive Committee. As designated by the Board, two of the Executive Committee members so elected shall hold office as such members until the date of the annual meeting of the Board held in 1964 and the other two members so elected shall hold such office until the annual meeting of the Board held in 1965.
 
 (d) Any person elected as a member of the Executive Committee to fill a vacancy occurring prior to the expiration of the term for which his predecessor was elected shall be elected for the remainder of such term.
 
@@ -136,7 +136,7 @@ I74Section 31. Incidental Transfers
 
 I transmit herewith Reorganization Plan No. 2 of 1962, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for certain reorganizations in the field of science and technology.
 
-Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within the Executive Office of the President; places at the head thereof a Director appointed by the President by andwith the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
+Part I of the reorganization plan establishes the Office of Science and Technology as a new unit within the Executive Office of the President; places at the head thereof a Director appointed by the President by and with the advice and consent of the Senate and makes provision for a Deputy Director similarly appointed; and transfers to the Director certain functions of the National Science Foundation under sections 3(a)(1) and 3(a)(6) of the National Science Foundation Act of 1950.
 
 The new arrangements incorporated in part I of the reorganization plan will constitute an important development in executive branch organization for science and technology. Under those arrangements the President will have permanent staff resources capable of advising and assisting him on matters of national policy affected by or pertaining to science and technology. Considering the rapid growth and far-reaching scope of Federal activities in science and technology, it is imperative that the President have adequate staff support in developing policies and evaluating programs in order to assure that science and technology are used most effectively in the interests of national security and general welfare.
 
@@ -176,7 +176,7 @@ Part II of the reorganization plan provides for certain reorganizations within t
 
 &emsp;(3) Committees advisory to each of the divisions of the Foundation will make their recommendations to the Director only rather than to both the Director and the National Science Board.
 
-After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 2 of 1962 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
+After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 2 of 1962 is necessary to accomplish one ormore of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
 I have found and hereby declare that it is necessary to include in the reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of the Director and Deputy Director of the Office of Science and Technology and of the Director of the National Science Foundation. The rate of compensation fixed for each of these officers is that which I have found to prevail in respect of comparable officers in the executive branch of the Government.
 

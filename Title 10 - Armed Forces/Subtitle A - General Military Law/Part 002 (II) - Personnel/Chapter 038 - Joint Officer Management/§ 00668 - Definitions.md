@@ -2,7 +2,7 @@
 
 (a)
 
-Joint Matters.—In this chapter, the term “joint matters” means matters relating to the integrated employment of land, sea, and air forces, including matters relating to—
+Joint Matters.—In this chapter, the term “joint matters” means matters relating to theintegrated employment of land, sea, and air forces, including matters relating to—
 
 &emsp;(1) national military strategy;
 

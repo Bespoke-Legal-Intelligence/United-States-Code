@@ -30,7 +30,7 @@
 
 (g) The Advisory Board shall assist and advise the Council in identifying the environmental data and analytical assistance activities that should be covered by the policies and procedures prescribed pursuant to section 2902(d)(1) of this title.
 
-(h) Each member of the Advisory Board shall be required to file a financial disclosure report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+(h) Each member of the Advisory Board shall be required to file a financial disclosure reportunder title I of the Ethics in Government Act of 1978 (5 U.S.C. App.).
 
 (Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1756; amended Pub. L. 102–190, div. A, title II, §257(b), Dec. 5, 1991, 105 Stat. 1331; Pub. L. 105–85, div. A, title III, §341, Nov. 18, 1997, 111 Stat. 1686; Pub. L. 106–398, §1 \[\[div. A\], title III, §313(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–55.)
 

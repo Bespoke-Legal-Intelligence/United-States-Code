@@ -18,7 +18,7 @@
 
 #### (D) Authorization of appropriations
 
-&emsp;&emsp;For the cost (as defined in section 661a(5) of title 2) for the reduction of any debt pursuant to subparagraph (A), amounts authorized to <sup>1</sup> appropriated under sections 2431d(a)(2) and 2431e(a)(2) of this title shall be made available for such reduction of debt pursuant to subparagraph (A).
+&emsp;&emsp;For the cost (as defined in section 661a(5) of title 2) for the reduction of any debt pursuant to subparagraph (A), amounts authorized to be appropriated under sections 2431d(a)(2), 2431e(a)(2), and 2431d(d) of this title shall be made available for such reduction of debt pursuant to subparagraph (A).
 
 #### (2) Debt buybacks
 
@@ -30,7 +30,7 @@
 
 #### (4) Terms and conditions
 
-&emsp;Notwithstanding any other provision of law, the President shall, in accordance with this section, establish the terms and conditions under which loans and credits may be sold, reduced, or canceled pursuant to this section.
+&emsp;Notwithstanding any other provision of law, the President shall, in accordance with thissection, establish the terms and conditions under which loans and credits may be sold, reduced, or canceled pursuant to this section.
 
 #### (5) Administration
 
@@ -46,7 +46,11 @@
 
 The proceeds from the sale, reduction, or cancellation of any loan sold, reduced, or canceled pursuant to this section shall be deposited in the United States Government account or accounts established for the repayment of such loan.
 
-(Pub. L. 87–195, pt. V, §808, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 889.)
+(Pub. L. 87–195, pt. V, §808, as added Pub. L. 105–214, §1, July 29, 1998, 112 Stat. 889; amended Pub. L. 107–26, §2(b), Aug. 17, 2001, 115 Stat. 206.)
+
+#### Amendments
+
+2001—Subsec. (a)(1)(D). Pub. L. 107–26 substituted “to be appropriated under sections 2431d(a)(2), 2431e(a)(2), and 2431d(d) of this title” for “to appropriated under sections 2431d(a)(2) and 2431e(a)(2) of this title”.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -59,6 +63,4 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2431a of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “be”.</i>
 

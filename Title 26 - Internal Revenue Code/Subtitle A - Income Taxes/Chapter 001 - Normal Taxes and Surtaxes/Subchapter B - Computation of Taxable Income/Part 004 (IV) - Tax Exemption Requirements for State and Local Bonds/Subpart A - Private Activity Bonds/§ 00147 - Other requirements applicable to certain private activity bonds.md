@@ -300,7 +300,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;In the case of an issue of qualified mortgage bonds or qualified veterans’ mortgage bonds, paragraph (1) shall be applied by substituting “3.5 percent” for “2 percent” if the proceeds of the issue do not exceed $20,000,000.
 
-#### (h) Certain rules not to apply to mortgage revenue bonds, qualified student loan bonds, and qualified 501(c)(3) bonds
+#### (h) Certain rules not to apply to certain bonds
 
 #### (1) Mortgage revenue bonds and qualified student loan bonds
 
@@ -310,13 +310,25 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 &emsp;Subsections (a), (c), and (d) shall not apply to any qualified 501(c)(3) bond and subsection (e) shall be applied as if it did not contain “health club facility” with respect to such a bond.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764.)
+#### (3) Exempt facility bonds for qualified public-private schools
+
+&emsp;Subsection (c) shall not apply to any exempt facility bond issued as part of an issue described in section 142(a)(13) (relating to qualified public educational facilities).
+
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2635; amended Pub. L. 100–647, title I, §1013(a)(11)–(13)(B), (29), (36), title VI, §6180(b)(4), (5), Nov. 10, 1988, 102 Stat. 3539, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(3), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 101–508, title XI, §11813(b)(8), Nov. 5, 1990, 104 Stat. 1388–552; Pub. L. 104–188, title I, §1117(a), (b), Aug. 20, 1996, 110 Stat. 1764; Pub. L. 107–16, title IV, §422(d), (e), June 7, 2001, 115 Stat. 66.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (h). Pub. L. 107–16, §§422(e), 901, temporarily substituted “certain bonds” for “mortgage revenue bonds, qualified student loan bonds, and qualified 501(c)(3) bonds” in heading. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (h)(3). Pub. L. 107–16, §§422(d), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1996</b>—Subsec. (c)(2)(E)(i). Pub. L. 104–188, §1117(b), substituted “30 percent” for “15 percent”.
 
@@ -342,6 +354,12 @@ Subsec. (g)(1). Pub. L. 100–647, §1013(a)(13)(A), substituted “proceeds” 
 
 Subsec. (g)(2). Pub. L. 100–647, §1013(a)(13)(B), substituted “proceeds” for “aggregate authorized face amount” and “do” for “does”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, see section 422(f) of Pub. L. 107–16, set out as a note under section 142 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Section 1117(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 20, 1996\].”
@@ -358,7 +376,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Section 1013(a)(13)(C) of Pub. L. 100–647 provided that: “The amendments made by this paragraph \[amending this section\] shall apply to bonds issued after June 30, 1987.”
 
-Amendment by section 1013(a)(11), (12), (29), (36) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1013(a)(11), (12), (29), (36) of Pub. L. 100–647 effective, except as otherwise provided,as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 6180(b)(4), (5) of Pub. L. 100–647 applicable to bonds issued after Nov. 10, 1988, see section 6180(c) of Pub. L. 100–647, set out as a note under section 142 of this title.
 

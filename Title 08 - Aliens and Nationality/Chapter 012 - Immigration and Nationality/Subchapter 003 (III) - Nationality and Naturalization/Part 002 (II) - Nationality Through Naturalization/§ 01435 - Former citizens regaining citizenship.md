@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Any person formerly a citizen of the United States who (1) prior to September 22, 1922, lost United States citizenship by marriage to an alien, or by the loss of United States citizenship of such person's spouse, or (2) on or after September 22, 1922, lost United States citizenship by marriage to an alien ineligible to citizenship, may if no other nationality was acquired by an affirmative act of such person other than by marriage be naturalized upon compliance with all requirements of this subchapter, except—
+Any person formerly a citizen of the United States who (1) prior to September 22, 1922, lost United States citizenship by marriage to an alien, or by the loss of United States citizenship of such person's spouse, or (2) on or after September 22, 1922, lost United States citizenship by marriage to an alien ineligible to citizenship,may if no other nationality was acquired by an affirmative act of such person other than by marriage be naturalized upon compliance with all requirements of this subchapter, except—
 
 &emsp;(1) no period of residence or specified period of physical presence within the United States or within the State or district of the Service in the United States where the application is filed shall be required; and
 
@@ -12,7 +12,7 @@ Such person, or any person who was naturalized in accordance with the provisions
 
 #### (b) Additional requirements
 
-No person who is otherwise eligible for naturalization in accordance with the provisions ofsubsection (a) of this section shall be naturalized unless such person shall establish to the satisfaction of the Attorney General that she has been a person of good moral character, attached to the principles of the Constitution of the United States, and well disposed to the good order and happiness of the United States for a period of not less than five years immediately preceding the date of filing an application for naturalization and up to the time of admission to citizenship, and, unless she has resided continuously in the United States since the date of her marriage, has been lawfully admitted for permanent residence prior to filing her application for naturalization.
+No person who is otherwise eligible for naturalization in accordance with the provisions of subsection (a) of this section shall be naturalized unless such person shall establish to the satisfaction of the Attorney General that she has been a person of good moral character, attached to the principles of the Constitution of the United States, and well disposed to the good order and happiness of the United States for a period of not less than five years immediately preceding the date of filing an application for naturalization and up to the time of admission to citizenship, and, unless she has resided continuously in the United States since the date of her marriage, has been lawfully admitted for permanent residence prior to filing her application for naturalization.
 
 #### (c) Oath of allegiance
 

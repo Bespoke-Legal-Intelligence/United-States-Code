@@ -120,7 +120,7 @@ Section 6510 of Pub. L. 101–239 provided that:
 
 “(a)
 
-In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§6501–6510) of title VI of Pub. L. 101–239, amending this section and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
+In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C\(§§6501–6510) of title VI of Pub. L. 101–239, amending this section and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
 
 “(b)
 
@@ -168,7 +168,7 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(i) for expenditures by the Secretary under section 502(a) of the Social Security Act \[section 702(a) of this title\] (as amended by this subtitle) by the amounts which the Secretary determines or estimates are payable for consolidated Federal programs (as defined in subsection (c)(2)(B)) from funds for fiscal year 1982, and
 
-&emsp;“(ii) for allotment to each of the States under section 502(b) of such Act \[section 702(b) of this title\] (asso amended) by the amounts which the Secretary determines or estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
+&emsp;“(ii) for allotment to each of the States under section 502(b) of such Act \[section 702(b) of this title\] (as so amended) by the amounts which the Secretary determines or estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
 
 “(c) For purposes of this section:
 
@@ -188,7 +188,7 @@ Section 2194 of Pub. L. 97–35 provided that:
 
 &emsp;“(C) The term ‘consolidated State programs’ means the consolidated health programs, other than the consolidated Federal programs.
 
-“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
+“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 ofTitle 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
 
 #### Development of Model Applications for Maternal and Child Assistance Programs
 

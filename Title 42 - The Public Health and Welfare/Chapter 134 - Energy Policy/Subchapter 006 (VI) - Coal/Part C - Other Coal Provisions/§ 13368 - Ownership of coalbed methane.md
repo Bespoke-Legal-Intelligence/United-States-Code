@@ -30,7 +30,7 @@ In implementing this section, the Secretary of the Interior, with the participat
 
 &emsp;(B) preserve the mineability of coal seams, and
 
-&emsp;(C) provide for the prevention of waste and maximization of recovery of coal and coalbedmethane gas in a manner which will protect the rights of all entities owning an interest in such coalbed methane resource.
+&emsp;(C) provide for the prevention of waste and maximization of recovery of coal and coalbed methane gas in a manner which will protect the rights of all entities owning an interest in such coalbed methane resource.
 
 #### (e) Spacing
 

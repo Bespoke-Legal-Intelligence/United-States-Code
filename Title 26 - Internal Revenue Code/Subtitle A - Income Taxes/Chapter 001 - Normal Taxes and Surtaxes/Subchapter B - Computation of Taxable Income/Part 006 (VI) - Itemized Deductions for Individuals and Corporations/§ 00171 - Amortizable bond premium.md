@@ -24,7 +24,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 &emsp;&emsp;(A) with reference to the amount of the basis (for determining loss on sale or exchange) of such bond,
 
-&emsp;&emsp;(B)(i) with reference to the amount payable on maturity or on earlier call date, in the case of any bond other than a bond to which clause (ii) applies, or and <sup>1</sup>
+&emsp;&emsp;(B)(i) with reference to the amount payable on maturity or on earlier call date, inthe case of any bond other than a bond to which clause (ii) applies, or and <sup>1</sup>
 
 &emsp;&emsp;(ii) with reference to the amount payable on maturity (or if it results in a smaller amortizable bond premium attributable to the period to earlier call date, with reference to the amount payable on earlier call date), in the case of any bond described in subsection (a)(1) which is acquired after December 31, 1957, and
 
@@ -122,7 +122,7 @@ Subsec. (a)(4). Pub. L. 94–455, §1901(b)(1)(E)(iii), redesignated par. (4) as
 
 Subsec. (b)(1)(B)(i). Pub. L. 94–455, §1951(b)(5)(A)(ii), substituted “clause (ii) applies, or” for “clause (ii) or (iii) applies” after “bond to which” and inserted “and” at the end.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 94–455, §§1901(b)(1)(E)(iv), 1951(b)(5)(A)(iii), substituted “subsection (a)(1)” for“subsection (c)(1)(B)” after “bond described in” and “and” for “or” after “1957”.
+Subsec. (b)(1)(B)(ii). Pub. L. 94–455, §§1901(b)(1)(E)(iv), 1951(b)(5)(A)(iii), substituted “subsection (a)(1)” for “subsection (c)(1)(B)” after “bond described in” and “and” for “or” after “1957”.
 
 Subsec. (b)(1)(B)(iii). Pub. L. 94–455, §1951(b)(5)(A)(i), struck out cl. (iii) relating to certain bonds acquired before 1958.
 
@@ -164,7 +164,7 @@ Section 1803(a)(12)(B) of Pub. L. 99–514 provided that: “The amendment made 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(1)(E)(iii)–(v) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(1)(E)(iii)–(v) of Pub. L. 94–455 effective for taxable years beginning after Dec.31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1951(b)(5)(A)(i) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1951(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 

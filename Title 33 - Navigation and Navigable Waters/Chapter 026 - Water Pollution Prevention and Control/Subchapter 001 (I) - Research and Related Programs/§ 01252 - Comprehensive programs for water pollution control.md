@@ -8,7 +8,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 (1) In the survey or planning of any reservoir by the Corps of Engineers, Bureau of Reclamation, or other Federal agency, consideration shall be given to inclusion of storage for regulation of streamflow, except that any such storage and water releases shall not be provided as a substitute for adequate treatment or other methods of controlling waste at the source.
 
-(2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, and fish and wildlife, shall be determined by the Corps of Engineers, Bureau of Reclamation, or other Federal agencies.
+(2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, and fish and wildlife, shall be determined by theCorps of Engineers, Bureau of Reclamation, or other Federal agencies.
 
 (3) The need for, the value of, and the impact of, storage for water quality control shall be determined by the Administrator, and his views on these matters shall be set forth in any report or presentation to Congress proposing authorization or construction of any reservoir including such storage.
 
@@ -16,7 +16,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 (5) Costs of regulation of streamflow features incorporated in any Federal reservoir or other impoundment under the provisions of this chapter shall be determined and the beneficiaries identified and if the benefits are widespread or national in scope, the costs of such features shall be nonreimbursable.
 
-(6) No license granted by the Federal Energy Regulatory for a hydroelectric power project shall include storage for regulation of streamflow for the purpose of water quality control unless the Administrator shall recommend its inclusion and such reservoir storage capacity shall not exceed such proportion of the total storage required for the water quality control plan as the drainage area of such reservoir bears to the drainage area of the river basin or basins involved in such water quality control plan.
+(6) No license granted by the Federal Energy Regulatory Commission for a hydroelectric power project shall include storage for regulation of streamflow for the purpose of water quality control unless the Administrator shall recommend its inclusion and such reservoir storage capacity shall not exceed such proportion of the total storage required for the water quality control plan as the drainage area of such reservoir bears to the drainage area of the river basin or basins involved in such water quality control plan.
 
 #### (c) Basins; grants to State agencies
 
@@ -34,7 +34,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 (3) For the purposes of this subsection the term “basin” includes, but is not limited to, rivers and their tributaries, streams, coastal waters, sounds, estuaries, bays, lakes, and portions thereof as well as the lands drained thereby.
 
-(June 30, 1948, ch. 758, title I, §102, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 817; amendedPub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; Pub. L. 95–217, §5(b), Dec. 27, 1977, 91 Stat. 1567; Pub. L. 104–66, title II, §2021(a), Dec. 21, 1995, 109 Stat. 726.)
+(June 30, 1948, ch. 758, title I, §102, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 817; amended Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; Pub. L. 95–217, §5(b), Dec. 27, 1977, 91 Stat. 1567; Pub. L. 104–66, title II, §2021(a), Dec. 21, 1995, 109 Stat. 726.)
 
 #### Amendments
 

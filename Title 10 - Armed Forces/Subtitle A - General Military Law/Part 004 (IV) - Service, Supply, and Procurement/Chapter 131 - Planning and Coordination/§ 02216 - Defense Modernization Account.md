@@ -50,7 +50,7 @@ Limitations.—(1) Funds in the Defense Modernization Account may not be used to
 
 &emsp;(B) result in an obligation or expenditure of funds in excess of a specific limitation provided by law on the amount that may be obligated or expended, respectively, for that procurement program.
 
-(2) Funds in the Defense Modernization Account may not be used for a purpose or program for which Congress has not authorized appropriations.
+(2) Funds in the Defense Modernization Account may not be used for a purpose or programfor which Congress has not authorized appropriations.
 
 (3) Funds may not be transferred from the Defense Modernization Account in any year for the purpose of—
 
@@ -150,5 +150,5 @@ Section 912(d) of Pub. L. 104–106 provided that:
 
 “(4) Each such report shall include any recommended legislation regarding the account that the Comptroller General considers appropriate.
 
-“(5) For purposes of this subsection, the term ‘specified committees of Congress’ means the congressional committees referred to in section 2216(i)(2) of title 10, United States Code, as added by subsection (a).”
+“(5) For purposes of this subsection, the term ‘specified committees of Congress’ means the congressionalcommittees referred to in section 2216(i)(2) of title 10, United States Code, as added by subsection (a).”
 

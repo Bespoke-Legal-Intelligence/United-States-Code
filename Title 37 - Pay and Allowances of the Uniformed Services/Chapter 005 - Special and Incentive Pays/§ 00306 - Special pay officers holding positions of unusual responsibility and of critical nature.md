@@ -12,7 +12,7 @@
 
 (b) The Secretary concerned shall prescribe the criteria and circumstances under which officers of an armed force under his jurisdiction are eligible for special pay under this section and, when he considers it necessary, may abolish that special pay.
 
-(c) Not more than 5 percent of the number of officers on active duty (other than for training) in an armed force in each of the pay grades O–3 and below, and not more than 10 percent of the number of officers on active duty in an armed force in pay grade O–4, O–5, or O–6, may be paid special pay under this section.
+(c) Not more than 5 percent of the number of officers on active duty (other than for training)in an armed force in each of the pay grades O–3 and below, and not more than 10 percent of the number of officers on active duty in an armed force in pay grade O–4, O–5, or O–6, may be paid special pay under this section.
 
 (d) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction, and by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 

@@ -58,7 +58,7 @@ The Secretary may abate the penalty imposed by subsection (a) with respect to th
 
 #### (1) In general
 
-&emsp;A person may, with respect to any deposit of tax to be reported on such person's return for a specified tax period, designate the period or periods within such specified tax period to which the deposit is to be applied for purposes of this section.
+&emsp;A deposit made under this section shall be applied to the most recent period or periods within the specified tax period to which the deposit relates, unless the person making such deposit designates a different period or periods to which such deposit is to be applied.
 
 #### (2) Time for making designation
 
@@ -66,19 +66,13 @@ The Secretary may abate the penalty imposed by subsection (a) with respect to th
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 826; Pub. L. 91–172, title IX, §943(b), Dec. 30, 1969, 83 Stat. 728; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title VII, §724(a), (b)(1), (3), Aug. 13, 1981, 95 Stat. 344, 345; Pub. L. 99–509, title VIII, §8001(a), Oct. 21, 1986, 100 Stat. 1951; Pub. L. 101–239, title VII, §7742(a), Dec. 19, 1989, 103 Stat. 2405; Pub. L. 104–168, title III, §304(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1458, 1464; Pub. L. 105–206, title III, §3304(a)–(c), July 22, 1998, 112 Stat. 742.)
 
-#### Amendment of Subsection (e)(1)
-
-<i>Pub. L. 105–206, title III, §3304(c), (d), July 22, 1998, 112 Stat. 742, provided that, applicable to deposits required to be made after Dec. 31, 2001, subsection (e)(1) of this section is amended to read as follows:</i>
-
-#### (1) In general
-
-A deposit made under this section shall be applied to the most recent period or periods within the specified tax period to which the deposit relates, unless the person making such deposit designates a different period or periods to which such deposit is to be applied.
-
 #### Amendments
 
 <b>1998</b>—Subsec. (c)(2). Pub. L. 105–206, §3304(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “such failure occurs during the 1st quarter that such person was required to deposit any employment tax, and”.
 
 Subsec. (e). Pub. L. 105–206, §3304(a), added subsec. (e).
+
+Subsec. (e)(1). Pub. L. 105–206, §3304(c), reenacted heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “A person may, with respect to any deposit of tax to be reported on such person's return for a specified tax period, designate the period or periods within such specified tax period to which the deposit is to be applied for purposes of this section.”
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–168, §304(a), added subsec. (c).
 

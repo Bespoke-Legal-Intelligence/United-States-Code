@@ -52,7 +52,7 @@ Special Authority for Navy.—The Secretary of the Navy shall provide base opera
 
 (g)
 
-Annual Report.—Not later than January 15 of each year, the Secretary of each military department shall submit to Congress a report describing the operation of Fisher Houses and Fisher Suites associated with health care facilities of that military department. The report shall include, at a minimum, the following:
+Annual Report.—Not later than January 15 of each year, the Secretary of each military department shall submit to Congress a report describing the operation of Fisher Houses andFisher Suites associated with health care facilities of that military department. The report shall include, at a minimum, the following:
 
 &emsp;(1) The amount in the fund established by that Secretary under subsection (d) as of October 1 of the previous year.
 

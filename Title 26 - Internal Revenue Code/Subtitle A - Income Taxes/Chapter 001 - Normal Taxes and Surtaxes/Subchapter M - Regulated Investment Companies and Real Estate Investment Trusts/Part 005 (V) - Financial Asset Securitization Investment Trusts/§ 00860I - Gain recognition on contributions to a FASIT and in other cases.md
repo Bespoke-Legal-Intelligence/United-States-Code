@@ -4,7 +4,7 @@
 
 #### (1) Property acquired from holder of ownership interest or related person
 
-&emsp;If property is sold or contributed to a FASIT by the holder of the ownership interest in suchFASIT (or by a related person) gain (if any) shall be recognized to such holder (or person) in an amount equal to the excess (if any) of such property's value under subsection (d) on the date of such sale or contribution over its adjusted basis on such date.
+&emsp;If property is sold or contributed to a FASIT by the holder of the ownership interest in such FASIT (or by a related person) gain (if any) shall be recognized to such holder (or person) in an amount equal to the excess (if any) of such property's value under subsection (d) on the date of such sale or contribution over its adjusted basis on such date.
 
 #### (2) Property acquired other than from holder of ownership interest or related person
 

@@ -48,7 +48,7 @@ Any person may be prosecuted, tried, and punished for any violation of this sect
 
 1993—Subsec. (a). Pub. L. 103–199, §803(2)(A)–(C), redesignated subsec. (b) as (a), struck out “or an officer or member of any Communist organization as defined in paragraph (5) of section 782 of this title” after “foreign government”, and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person knowingly to combine, conspire, or agree with any other person to perform any act which would substantially contribute to the establishment within the United States of a totalitarian dictatorship, as defined in paragraph (15) of section 782 of this title, the direction and control of which is to be vested in, or exercised by or under the domination or control of, any foreign government, foreign organization, or foreign individual: <i>Provided, however</i>, That this subsection shall not apply to the proposal of a constitutional amendment.”
 
-Subsec. (b). Pub. L. 103–199, §803(2)(B), (D), redesignated subsec. (c) as (b) and struck out “, or any officeror member of any Communist organization as defined in paragraph (5) of section 782 of this title,” after “foreign government”. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 103–199, §803(2)(B), (D), redesignated subsec. (c) as (b) and struck out “, or any officer or member of any Communist organization as defined in paragraph (5) of section 782 of this title,” after “foreign government”. Former subsec. (b) redesignated (a).
 
 Subsecs. (c) to (e). Pub. L. 103–199, §803(2)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 

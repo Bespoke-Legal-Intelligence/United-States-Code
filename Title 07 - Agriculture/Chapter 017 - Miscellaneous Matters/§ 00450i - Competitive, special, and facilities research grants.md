@@ -10,7 +10,7 @@ Short Title.—This section may be cited as the “Competitive, Special, and Fac
 
 #### (b) Competitive grants
 
-(1) The Secretary of Agriculture is authorized to make competitive grants, for periods not to exceed five years, to State agricultural experiment stations, all colleges and universities, other research institutions and organizations, Federal agencies, national laboratories, private organizations or corporations, and individuals, for research to further the programs of the Department of Agriculture. To the greatest extentpossible the Secretary shall allocate these grants to high priority research taking into consideration, when available, the determinations made by the National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title) identifying high priority research areas.
+(1) The Secretary of Agriculture is authorized to make competitive grants, for periods not toexceed five years, to State agricultural experiment stations, all colleges and universities, other research institutions and organizations, Federal agencies, national laboratories, private organizations or corporations, and individuals, for research to further the programs of the Department of Agriculture. To the greatest extent possible the Secretary shall allocate these grants to high priority research taking into consideration, when available, the determinations made by the National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title) identifying high priority research areas.
 
 (2)
 
@@ -44,6 +44,8 @@ Types of Grants.—In addition to making research grants under paragraph (1), th
 
 &emsp;(F) Grants may be awarded to ensure that the faculty of small and mid-sized institutions who have not previously been successful in obtaining competitive grants under this subsection receive a portion of the grants.
 
+&emsp;(G) Grants may be awarded to improve research capabilities in States (as defined in the National Agricultural Research, Extension, and Teaching Policy Act of 1977, as amended \[7 U.S.C. 3101 et seq.\]) in which institutions have been less successful in receiving funding under this subsection, based on a three-year rolling average of funding levels.
+
 (4)
 
 Term.—The term of a competitive grant made under this subsection may not exceed 5 years.
@@ -64,7 +66,7 @@ Construction Prohibited.—A grant made under paragraph (1) may not be used for 
 
 Matching Funds.—(A) Except as provided in subparagraph (B), the Secretary may not take the offer or availability of matching funds into consideration in making a grant under this subsection.
 
-(B) In the case of grants under paragraph (3)(D), the amount provided under this subsection may not exceed 50 percent of the cost of the special research equipment or other equipment acquired. The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title) if the equipment tobe acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.
+(B) In the case of grants under paragraph (3)(D), the amount provided under this subsection may not exceed 50 percent of the cost of the special research equipment or other equipment acquired. The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title) if the equipment to be acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.
 
 (9)
 
@@ -82,7 +84,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 &emsp;(B) not less than 40 percent shall be available to make grants for research to be conducted by persons conducting mission-linked systems research;
 
-&emsp;(C) not less than 10 percent shall be available to make grants under subparagraphs (D) and (F) of paragraph (3) for awarding grants in research and education strengthening and research opportunity;
+&emsp;(C) not less than 10 percent shall be available to make grants under subparagraphs (D), (F), and (G) of paragraph (3) for research and education strengthening and research opportunity;
 
 &emsp;(D) not more than two percent may be used for equipment grants under subparagraph (3)(D); and
 
@@ -162,7 +164,7 @@ Exceptions.—Clause (i) shall not apply to the extent that making the report, o
 
 #### (d) Facilities grants
 
-The Secretary of Agriculture shall make annual grants to support the renovation and refurbishment (including energy retrofitting) of research spaces in buildings or spaces to be used for research, and the purchase and installationof fixed equipment in such spaces. Such grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations. Such grants shall be made to—
+The Secretary of Agriculture shall make annual grants to support the renovation and refurbishment (including energy retrofitting) of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces. Such grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations. Such grants shall be made to—
 
 &emsp;(1) each State agricultural experiment station in an amount of $100,000 or an amount which is equal to 10 per centum of the funds received by such station under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), and the Act of October 10, 1962 (76 Stat. 806–807, as amended; 16 U.S.C. 582a, 582a–1—582a–7), whichever is greater: <i>Provided</i>, That of any amount in excess of $50,000 made available under this paragraph during any year for allotment to a State agricultural experiment station, no payment thereof shall be made in excess of the amount which the station makes available during that year for the purposes for which grants under this paragraph are made available;
 
@@ -210,7 +212,7 @@ The Secretary of Agriculture shall make annual grants to support the renovation 
 
 &emsp;(C) recommendations for implementation of such a recoupment policy.
 
-(7) There are authorized to be appropriated $25,000,000 for fiscal year 1991, and such sums as are necessary for subsequent fiscal years to carry out this subsection.
+(7) There are authorized to be appropriated $25,000,000 for fiscal year 1991, and such sums asare necessary for subsequent fiscal years to carry out this subsection.
 
 #### (f) Record keeping
 
@@ -236,13 +238,15 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103(17) of this title.
 
-(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604.)
+(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746.)
 
 #### References in Text
 
-Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), referred to in subsec. (d)(1), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
+The National Agricultural Research, Extension, and Teaching Policy Act of 1977, as amended, referred to in subsec. (b)(3)(G), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, as amended, which is classified principally to chapter 64 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Act of October 10, 1962, referred to in subsecs. (c)(1)(B) and (d)(1), (3), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+
+Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i), referred to in subsec. (d)(1), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
 Act of August 30, 1890 (7 U.S.C. 321 et seq.), referred to in subsec. (d)(4), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
@@ -253,6 +257,10 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 #### Amendments
+
+2001—Subsec. (b)(3)(G). Pub. L. 107–76, §775(1), added subpar. (G).
+
+Subsec. (b)(10)(C). Pub. L. 107–76, §775(2), substituted “, (F), and (G) of paragraph (3) for” for “and (F) of paragraph (3) for awarding grants in”.
 
 1998—Subsec. (b)(1). Pub. L. 105–185, §§211(1), 606(h)(1), in first sentence, inserted “national laboratories,” after “Federal agencies,” and in second sentence, substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title)” for “Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board”.
 
@@ -360,7 +368,7 @@ Subsec. (i). Pub. L. 99–198, §1409(c), added subsec. (i).
 
 Subsec. (c). Pub. L. 97–98, §1415(b), in par. (1) inserted “research foundations established by land-grant colleges and universities,”, in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
 
-Subsec. (d). Pub. L. 97–98, §1415(c), in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made tosupport the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
+Subsec. (d). Pub. L. 97–98, §1415(c), in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made to support the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
 
 1977—Pub. L. 95–113 designated existing provisions as subsec. (e) and a part of subsec. (b) and added the remainder of subsec. (b) and subsecs. (a), (c), (d), (f), (g), and (h).
 

@@ -32,7 +32,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1029, 2232 of this title; title 47 sections 605, 1008; title 50 section 1805.
+This chapter is referred to in sections 1029, 2232, 2712 of this title; title 47 sections 551, 605, 1008; title 50 section 1805.
 
 
 ---

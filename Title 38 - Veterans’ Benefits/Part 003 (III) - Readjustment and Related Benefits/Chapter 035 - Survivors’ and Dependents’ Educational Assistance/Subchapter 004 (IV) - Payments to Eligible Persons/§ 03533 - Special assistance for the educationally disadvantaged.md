@@ -6,7 +6,7 @@
 
 (b) Any eligible person shall, without charge to any entitlement such person may have under section 3511 of this title, be entitled to the benefits provided an eligible veteran under section 3492 of this title.
 
-(Added Pub. L. 92–540, title III, §313, Oct. 24, 1972, 86 Stat. 1084, §1733; amended Pub. L. 94–502, title III, §310(17), (18), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 98–223, title II, §203(b), Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–689, title I, §106(c), Nov. 18, 1988, 102Stat. 4167; Pub. L. 101–237, title IV, §403(a)(8), Dec. 18, 1989, 103 Stat. 2079; Pub. L. 102–16, §10(a)(6), Mar. 22, 1991, 105 Stat. 56; renumbered §3533 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 92–540, title III, §313, Oct. 24, 1972, 86 Stat. 1084, §1733; amended Pub. L. 94–502, title III, §310(17), (18), Oct. 15, 1976, 90 Stat. 2392; Pub. L. 98–223, title II, §203(b), Mar. 2, 1984, 98 Stat. 41; Pub. L. 100–689, title I, §106(c), Nov. 18, 1988, 102 Stat. 4167; Pub. L. 101–237, title IV, §403(a)(8), Dec. 18, 1989, 103 Stat. 2079; Pub. L. 102–16, §10(a)(6), Mar. 22, 1991, 105 Stat. 56; renumbered §3533 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

@@ -156,7 +156,7 @@ I74“preambleI74“the government of the united states of america and the gover
 
 #### “Section 122
 
-“The Government of the United States shall support application by the Government of Palau for membership or other participation in regional or international organizations as may be mutually agreed. The Government of the United States agrees to accept citizens of Palau for training and instruction at the United States Foreign Service Institute, established under 22 U.S.C. 4021, or similar training under terms and conditions to be mutually agreed.
+“The Government of the United States shall support application by the Government of Palau for membership or other participation in regional or international organizations as may be mutually agreed. The Government of the United States agrees to accept citizens of Palau for training and instruction at the United States Foreign Service Institute \[now George P. Shultz National Foreign Affairs Training Center\], established under 22 U.S.C. 4021, or similar training under terms and conditions to be mutually agreed.
 
 #### “Section 123
 

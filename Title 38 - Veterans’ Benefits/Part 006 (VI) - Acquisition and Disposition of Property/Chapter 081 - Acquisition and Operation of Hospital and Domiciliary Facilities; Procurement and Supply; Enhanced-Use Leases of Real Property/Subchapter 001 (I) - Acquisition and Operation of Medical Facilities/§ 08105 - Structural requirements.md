@@ -4,7 +4,7 @@
 
 (b)(1) In order to carry out this section, the Secretary shall appoint an advisory committee to be known as the “Advisory Committee on Structural Safety of Department Facilities”, on which shall serve at least one architect and one structural engineer who are experts in structural resistance to fire, earthquake, and other natural disasters and who are not employees of the Federal Government.
 
-(2) Such advisory committee shall advise the Secretary on all matters of structural safety inthe construction and altering of medical facilities in accordance with the requirements of this section and shall review and make recommendations to the Secretary on the regulations prescribed under this section.
+(2) Such advisory committee shall advise the Secretary on all matters of structural safety in the construction and altering of medical facilities in accordance with the requirements of this section and shall review and make recommendations to the Secretary on the regulations prescribed under this section.
 
 (3) The Associate Deputy Secretary, the Under Secretary for Health or the designee of the Under Secretary for Health, and the Department official charged with the responsibility for construction shall be ex officio members of such advisory committee.
 

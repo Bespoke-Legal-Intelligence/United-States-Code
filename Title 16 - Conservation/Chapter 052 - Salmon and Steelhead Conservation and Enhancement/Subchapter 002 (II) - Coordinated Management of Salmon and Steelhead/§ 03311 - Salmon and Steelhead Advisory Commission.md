@@ -18,7 +18,7 @@ Within 90 days after December 22, 1980, the Secretary of Commerce (hereinafter i
 
 #### (b) Membership
 
-(1) The voting representatives shall be appointed by the Secretary from a list of qualified individuals submitted by the Governor of each applicable State, by each appropriate tribal coordinating body, and by the Pacific Fishery Management Council. The representative for the National Marine Fisheries Service shall be the Northwest regional director of the Service or his designee.
+(1) The voting representatives shall be appointed by the Secretary from a list of qualified individuals submitted by the Governor of each applicable State, by each appropriate tribal coordinating body, and by the Pacific Fishery Management Council. The representative for the National Marine Fisheries Service shall be theNorthwest regional director of the Service or his designee.
 
 (2) The Commission shall have 6 nonvoting members, 5 of which shall be qualified individuals appointed by the Secretary. The sixth nonvoting member shall be the regional director of the United States Fish and Wildlife Service or his designee.
 

@@ -8,29 +8,31 @@
 
 &emsp;&emsp;(A) the organization is a foreign organization;
 
-&emsp;&emsp;(B) the organization engages in terrorist activity (as defined in section 1182(a)(3)(B) of this title); and
+&emsp;&emsp;(B) the organization engages in terrorist activity (as defined in section 1182(a)(3)(B) of this title or terrorism (as defined in section 2656f(d)(2) of title 22), or retains the capability and intent to engage in terrorist activity or terrorism) <sup>1</sup>; and
 
-&emsp;&emsp;(C) the terrorist activity of the organization threatens the security of United States nationals or the national security of the United States.
+&emsp;&emsp;(C) the terrorist activity or terrorism of the organization threatens the security of United States nationals or the national security of the United States.
 
 #### (2) Procedure
 
 #### (A) Notice
 
-&emsp;&emsp;Seven days before making a designation under this subsection, the Secretary shall, by classified communication—
+#### (i) To congressional leaders
 
-&emsp;&emsp;&emsp;(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
+&emsp;&emsp;&emsp;Seven days before making a designation under this subsection, the Secretary shall, by classified communication, notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees of the House of Representatives and the Senate, in writing, of the intent to designate an organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor.
 
-&emsp;&emsp;&emsp;(ii) seven days after such notification, publish the designation in the Federal Register.
+#### (ii) Publication in Federal Register
+
+&emsp;&emsp;&emsp;The Secretary shall publish the designation in the Federal Register seven days after providing the notification under clause (i).
 
 #### (B) Effect of designation
 
-&emsp;&emsp;(i) For purposes of section 2339B of title 18, a designation under this subsection shall take effect upon publication under subparagraph (A).
+&emsp;&emsp;(i) For purposes of section 2339B of title 18, a designation under this subsection shall take effect upon publication under subparagraph (A)(ii).
 
 &emsp;&emsp;(ii) Any designation under this subsection shall cease to have effect upon an Act of Congress disapproving such designation.
 
 #### (C) Freezing of assets
 
-&emsp;&emsp;Upon notification under paragraph (2), the Secretary of the Treasury may requireUnited States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
+&emsp;&emsp;Upon notification under paragraph (2)(A)(i), the Secretary of the Treasury may require United States financial institutions possessing or controlling any assets of any foreign organization included in the notification to block all financial transactions involving those assets until further directive from either the Secretary of the Treasury, Act of Congress, or order of court.
 
 #### (3) Record
 
@@ -40,7 +42,7 @@
 
 #### (B) Classified information
 
-&emsp;&emsp;The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (c) of this section.
+&emsp;&emsp;The Secretary may consider classified information in making a designation under this subsection. Classified information shall not be subject to disclosure for such time as it remains classified, except that such information may be disclosed to a court ex parte and in camera for purposes of judicial review under subsection (b) of this section.
 
 #### (4) Period of designation
 
@@ -50,7 +52,7 @@
 
 #### (B) Redesignation
 
-&emsp;&emsp;The Secretary may redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subparagraph (A) (but not sooner than 60 days prior to the termination of such period) upon a finding that the relevant circumstances described in paragraph (1) still exist. The procedural requirements of paragraphs (2) and (3) shall apply to a redesignation under this subparagraph.
+&emsp;&emsp;The Secretary may redesignate a foreign organization as a foreign terrorist organization for an additional 2-year period at the end of the 2-year period referred to in subparagraph (A) (but not sooner than 60 days prior to the termination of such period) upon a finding that the relevant circumstances described in paragraph (1) still exist. The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of the prior 2-year designation or redesignation period unless a different effective date is provided in such redesignation. The procedural requirements of paragraphs (2) and (3) shall apply to a redesignation under this subparagraph.
 
 #### (5) Revocation by Act of Congress
 
@@ -60,23 +62,23 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may revoke a designation made under paragraph (1) if the Secretary finds that—
+&emsp;&emsp;The Secretary may revoke a designation made under paragraph (1) or a redesignation made under paragraph (4)(B) if the Secretary finds that—
 
-&emsp;&emsp;&emsp;(i) the circumstances that were the basis for the designation have changed in such a manner as to warrant revocation of the designation; or
+&emsp;&emsp;&emsp;(i) the circumstances that were the basis for the designation or redesignation have changed in such a manner as to warrant revocation; or
 
-&emsp;&emsp;&emsp;(ii) the national security of the United States warrants a revocation of the designation.
+&emsp;&emsp;&emsp;(ii) the national security of the United States warrants a revocation.
 
 #### (B) Procedure
 
-&emsp;&emsp;The procedural requirements of paragraphs (2) through (4) shall apply to a revocation under this paragraph.
+&emsp;&emsp;The procedural requirements of paragraphs (2) and (3) shall apply to a revocation under this paragraph. Any revocation shall take effect on the date specified in the revocation or upon publication in the Federal Register if no effective date is specified.
 
 #### (7) Effect of revocation
 
-&emsp;The revocation of a designation under paragraph (5) or (6) shall not affect any action or proceeding based on conduct committed prior to the effective date of such revocation.
+&emsp;The revocation of a designation under paragraph (5) or (6), or the revocation of a redesignation under paragraph (6), shall not affect any action or proceeding based on conduct committed prior to the effective date of such revocation.
 
 #### (8) Use of designation in trial or hearing
 
-&emsp;If a designation under this subsection has become effective under paragraph (1)(B), a defendant in a criminal action shall not be permitted to raise any question concerning the validity of the issuance of such designation as a defense or an objection at any trial or hearing.
+&emsp;If a designation under this subsection has become effective under paragraph (2)(B), or if a redesignation under this subsection has become effective under paragraph (4)(B), a defendant in a criminal action or an alien in a removal proceeding shall not be permitted to raise any question concerning the validity of the issuance of such designation or redesignation as a defense or an objection at any trial or hearing.
 
 #### (b) Judicial review of designation
 
@@ -98,7 +100,7 @@
 
 &emsp;&emsp;(C) in excess of statutory jurisdiction, authority, or limitation, or short of statutory right;
 
-&emsp;&emsp;(D) lacking substantial support in the administrative record taken as a whole or in classified information submitted to the court under paragraph (2),<sup>1</sup> or
+&emsp;&emsp;(D) lacking substantial support in the administrative record taken as a whole or in classified information submitted to the court under paragraph (2),<sup>2</sup> or
 
 &emsp;&emsp;(E) not in accord with the procedures required by law.
 
@@ -118,17 +120,55 @@ As used in this section—
 
 &emsp;(4) the term “Secretary” means the Secretary of State, in consultation with the Secretary of the Treasury and the Attorney General.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §219, as added Pub. L. 104–132, title III, §302(a), Apr. 24,1996, 110 Stat. 1248; amended Pub. L. 104–208, div. C, title III, §356, title VI, §671(c)(1), Sept. 30, 1996, 110 Stat. 3009–644, 3009–722.)
+(June 27, 1952, ch. 477, title II, ch. 2, §219, as added Pub. L. 104–132, title III, §302(a), Apr. 24, 1996, 110 Stat. 1248; amended Pub. L. 104–208, div. C, title III, §356, title VI, §671(c)(1), Sept. 30, 1996, 110 Stat. 3009–644, 3009–722; Pub. L. 107–56, title IV, §411(c), Oct. 26, 2001, 115 Stat. 349.)
 
 #### References in Text
 
-Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (c)(1), is section 1(a) of Pub. L. 96–456, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (c)(1), is section 1(a) of Pub.L. 96–456, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### Codification
+
+Another section 411(c) of Pub. L. 107–56 enacted provisions set out as an Effective Date of 2001 Amendment note under section 1182 of this title.
 
 #### Amendments
+
+2001—Subsec. (a)(1)(B). Pub. L. 107–56, §411(c)(1), inserted “or terrorism (as defined in section 2656f(d)(2) of title 22), or retains the capability and intent to engage in terrorist activity or terrorism” after “section 1182(a)(3)(B) of this title”.
+
+Subsec. (a)(1)(C). Pub. L. 107–56, §411(c)(2), inserted “or terrorism” after “the terrorist activity”.
+
+Subsec. (a)(2)(A). Pub. L. 107–56, §411(c)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Seven days before making a designation under this subsection, the Secretary shall, by classified communication—
+
+&emsp;“(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
+
+&emsp;“(ii) seven days after such notification, publish the designation in the Federal Register.”
+
+Subsec. (a)(2)(B)(i). Pub. L. 107–56, §411(c)(4), substituted “subparagraph (A)(ii)” for “subparagraph (A)”.
+
+Subsec. (a)(2)(C). Pub. L. 107–56, §411(c)(5), substituted “paragraph (2)(A)(i)” for “paragraph (2)”.
+
+Subsec. (a)(3)(B). Pub. L. 107–56, §411(c)(6), substituted “subsection (b) of this section” for “subsection (c) of this section”.
+
+Subsec. (a)(4)(B). Pub. L. 107–56, §411(c)(7), inserted after first sentence “The Secretary also may redesignate such organization at the end of any 2-year redesignation period (but not sooner than 60 days prior to the termination of such period) for an additional 2-year period upon a finding that the relevant circumstances described in paragraph (1) still exist. Any redesignation shall be effective immediately following the end of the prior 2-year designation or redesignation period unless a different effective date is provided in such redesignation.”
+
+Subsec. (a)(6)(A). Pub. L. 107–56, §411(c)(8)(A), inserted “or a redesignation made under paragraph (4)(B)” after “paragraph (1)” in introductory provisions.
+
+Subsec. (a)(6)(A)(i). Pub. L. 107–56, §411(c)(8)(B), inserted “or redesignation” after “basis for the designation” and struck out “of the designation” before semicolon.
+
+Subsec. (a)(6)(A)(ii). Pub. L. 107–56, §411(c)(8)(C), struck out “of the designation” before period at end.
+
+Subsec. (a)(6)(B). Pub. L. 107–56, §411(c)(9), substituted “and (3)” for “through (4)” and inserted “Any revocation shall take effect on the date specified in the revocation or upon publication in the Federal Register if no effective date is specified.” at end.
+
+Subsec. (a)(7). Pub. L. 107–56, §411(c)(10), inserted “, or the revocation of a redesignation under paragraph (6),” after “paragraph (5) or (6)”.
+
+Subsec. (a)(8). Pub. L. 107–56, §411(c)(11), substituted “paragraph (2)(B), or if a redesignation under this subsection has become effective under paragraph (4)(B)” for “paragraph (1)(B)” and inserted “or an alien in a removal proceeding” after “criminal action” and “or redesignation” before “as a defense”.
 
 1996—Pub. L. 104–208, §671(c)(1), made technical amendment to section catchline.
 
 Subsec. (b)(3)(D), (E). Pub. L. 104–208, §356, added subpars. (D) and (E).
+
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–56 effective Oct. 26, 2001, and applicable to actions taken by an alien before, on, or after Oct. 26, 2001, and to all aliens, regardless of date of entry or attempted entry into the United States, in removal proceedings on or after such date (except for proceedings in which there has been a final administrative decision before such date) or seeking admission to the United States on or after such date, with special rules and exceptions, see section 411(c) of Pub. L. 107–56, set out as a note under section 1182 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -50,7 +50,7 @@ An Indian tribe may retrocede, fully or partially, to the Secretary programs, se
 
 #### (A) In general
 
-&emsp;&emsp;An Indian tribe may fully or partially withdraw from a participating inter-tribalconsortium or tribal organization its share of any program, function, service, or activity (or portions thereof) included in a compact or funding agreement.
+&emsp;&emsp;An Indian tribe may fully or partially withdraw from a participating inter-tribal consortium or tribal organization its share of any program, function, service, or activity (or portions thereof) included in a compact or funding agreement.
 
 #### (B) Effective date
 

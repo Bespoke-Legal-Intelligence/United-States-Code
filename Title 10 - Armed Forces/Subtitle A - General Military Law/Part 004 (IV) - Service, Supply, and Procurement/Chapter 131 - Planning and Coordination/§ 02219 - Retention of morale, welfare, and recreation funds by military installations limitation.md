@@ -1,6 +1,6 @@
 ### §2219. Retention of morale, welfare, and recreation funds by military installations: limitation
 
-Amounts may not be retained in a nonappropriated morale, welfare, and recreation account of a military installation of an armed force in excess of the amount necessary to meet cash requirements of that installation. Amounts in excess of that amount shall be transferred to a single nonappropriated morale, welfare, and recreation account for that armed force. This section does not apply to the Coast Guard.
+Amounts may not be retained in a nonappropriated morale, welfare, and recreation account of a military installation of an armed force in excess of the amount necessary to meetcash requirements of that installation. Amounts in excess of that amount shall be transferred to a single nonappropriated morale, welfare, and recreation account for that armed force. This section does not apply to the Coast Guard.
 
 (Added Pub. L. 103–337, div. A, title III, §373(a), Oct. 5, 1994, 108 Stat. 2736; amended Pub. L. 104–106, div. A, title III, §341, Feb. 10, 1996, 110 Stat. 265.)
 

@@ -14,7 +14,7 @@ No information acquired pursuant to this subchapter shall be disclosed for law e
 
 #### (d) Notification by United States
 
-Whenever the United States intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from a physical search pursuant to the authority of this subchapter, the United States shall, prior to the trial, hearing, or the other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the United States intends to so disclose or so use such information.
+Whenever the United States intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from a physical search pursuant to the authority of this subchapter, the United States shall, prior to thetrial, hearing, or the other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the United States intends to so disclose or so use such information.
 
 #### (e) Notification by States or political subdivisions
 
@@ -54,15 +54,31 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 (2) On an ex parte showing of good cause to the judge, the serving of the notice required by this subsection may be postponed or suspended for a period not to exceed 90 days. Thereafter, on a further ex parte showing of good cause, the court shall forego ordering the serving of the notice required under this subsection.
 
-(Pub. L. 95–511, title III, §305, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3449.)
+#### (k) Coordination with law enforcement on national security matters
+
+(1) Federal officers who conduct physical searches to acquire foreign intelligence information under this subchapter may consult with Federal law enforcement officers to coordinate efforts to investigate or protect against—
+
+&emsp;(A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
+
+&emsp;(B) sabotage or international terrorism by a foreign power or an agent of a foreign power; or
+
+&emsp;(C) clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power.
+
+(2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 1823(a)(7) of this title or the entry of an order under section 1824 of this title.
+
+(Pub. L. 95–511, title III, §305, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3449; amended Pub. L. 107–56, title V, §504(b), Oct. 26, 2001, 115 Stat. 364.)
 
 #### References in Text
 
 Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title by Pub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
 
+#### Amendments
+
+2001—Subsec. (k). Pub. L. 107–56 added subsec. (k).
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1822, 1826 of this title.
+This section is referred to in sections 1822, 1826 of this title; title 18 section 2712.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -122,7 +122,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (iii) Waivers
 
-&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make thecertification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this chapter.
+&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this chapter.
 
 #### (5) Noncompliance
 
@@ -197,6 +197,18 @@ Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(2)\], 
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that: “The amendment made by this section \[amending this section\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+
+#### Availability of Certain Funds for Acquisition of Technology Protection Measures
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that:
+
+“(1)
+
+In general.—Notwithstanding any other provision of law, funds available under section 3134 \[former 20 U.S.C. 6844\] or part A of title VI of the Elementary and Secondary Education Act of 1965 \[former 20 U.S.C. 7311 et seq.\], or under section 231 of the Library Services and Technology Act \[20 U.S.C. 9141\], may be used for the purchase or acquisition of technology protection measures that are necessary to meet the requirements of this title \[see Short Title of 2000 Amendments note set out under section 6301 of this title\] and the amendments made by this title. No other sources of funds for the purchase or acquisition of such measures are authorized by this title, or the amendments made by this title.
+
+“(2)
+
+Technology protection measure defined.—In this section, the term ‘technology protection measure’ has the meaning given that term in section 1703 \[set out as a note under section 902 of Title 47, Telegraphs, Telephones, and Radiotelegraphs\].”
 
 #### Section Referred to in Other Sections
 

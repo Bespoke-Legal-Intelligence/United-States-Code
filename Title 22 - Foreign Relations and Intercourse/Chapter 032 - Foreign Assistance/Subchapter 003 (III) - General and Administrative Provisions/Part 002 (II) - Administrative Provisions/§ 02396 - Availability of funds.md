@@ -8,7 +8,7 @@ Appropriations for the purposes of or pursuant to this chapter (except for subch
 
 &emsp;(2) expenses of attendance at meetings concerned with the purposes of such appropriations or of this chapter, including (notwithstanding the provisions of section 1346(a) and (c) of title 31) expenses in connection with meetings of persons whose employment is authorized by section 2386 of this title;
 
-&emsp;(3) contracting with individuals for personal services abroad: <i>Provided</i>, That such individuals shall not be regarded as employees of theUnited States Government for the purpose of any law administered by the Civil Service Commission;
+&emsp;(3) contracting with individuals for personal services abroad: <i>Provided</i>, That such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Civil Service Commission;
 
 &emsp;(4) purchase, maintenance, operation, and hire of aircraft: <i>Provided</i>, That aircraft for administrative purposes may be purchased only as specifically provided for in an appropriation or other Act;
 
@@ -44,7 +44,7 @@ Funds made available for the purposes of this chapter may be used for compensati
 
 #### (c) Construction of living quarters, office space, and supporting facilities
 
-Notwithstanding any other law, not to exceed $6,000,000 of the funds available for assistance under this chapter may be used in any fiscalyear (in addition to funds available for such use under other authorities in this chapter) to construct or otherwise acquire outside the United States (1) essential living quarters, office space, and necessary supporting facilities for use of personnel carrying out activities authorized by this chapter, and (2) schools (including dormitories and boarding facilities) and hospitals for use of personnel carrying out activities authorized by this chapter, United States Government personnel, and their dependents. In addition, funds made available for assistance under this chapter may be used, notwithstanding any other law, to equip, staff, operate, and maintain such schools and hospitals.
+Notwithstanding any other law, not to exceed $6,000,000 of the funds available for assistance under this chapter may be used in any fiscal year (in addition to funds available for such use under other authorities in this chapter) to construct or otherwise acquire outside the United States (1) essential living quarters, office space, and necessary supporting facilities for use of personnel carrying out activities authorized by this chapter, and (2) schools (including dormitories and boarding facilities) and hospitals for use of personnel carrying out activities authorized by this chapter, United States Government personnel, and their dependents. In addition, funds made available for assistance under this chapter may be used, notwithstanding any other law, to equip, staff, operate, and maintain such schools and hospitals.
 
 #### (d) Education of dependents
 
@@ -76,7 +76,7 @@ In carrying out programs under this chapter, the President shall take all approp
 
 Notwithstanding section 2399a <sup>3</sup> of this title or any other provision of this chapter, none of the funds made available to carry out this chapter shall be used to finance the purchase, sale, long-term lease, exchange, or guaranty of a sale of motor vehicles unless such motor vehicles are manufactured in the United States: <i>Provided</i>, That where special circumstances exist the President is authorized to waive the provisions of this section in order to carry out the purposes of this chapter.
 
-(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(<i>o</i>), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214.)
+(Pub. L. 87–195, pt. III, §636, Sept. 4, 1961, 75 Stat. 457; Pub. L. 88–205, pt. III, §302(f), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(h), Sept. 6, 1965, 79 Stat. 660; Pub. L. 90–137, pt. III, §302(j)–(<i>o</i>), Nov. 14, 1967, 81 Stat. 461, 462; Pub. L. 90–554, pt. III, §302(d), Oct. 8, 1968, 82 Stat. 965; Pub. L. 91–175, pt. III, §306, Dec. 30, 1969, 83 Stat. 821; Pub. L. 94–329, title I, §106(b)(5), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §102(g)(2)(H)–(J), title V, §505, Oct. 6, 1978, 92 Stat. 943, 960; Pub. L. 99–83, title XII, §1211(b)(1), Aug. 8, 1985, 99 Stat. 279; Pub. L. 99–234, title I, §107(b), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–550, §2(b), Oct. 27, 1986, 100 Stat. 3070; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214.)
 
 #### References in Text
 
@@ -150,7 +150,7 @@ Subsec. (g)(2). Pub. L. 90–137, §302(n), substituted reference to section 570
 
 Subsec. (i). Pub. L. 90–137, §302(<i>o</i>), added subsec. (i).
 
-1965—Subsec. (e). Pub. L. 89–171, §302(h)(1), substituted “section 301 of the Dual Compensation Act (5U.S.C. 3105)” for “section 2 of the Act of July 31, 1894, as amended (5 U.S.C. 62)”.
+1965—Subsec. (e). Pub. L. 89–171, §302(h)(1), substituted “section 301 of the Dual Compensation Act (5 U.S.C. 3105)” for “section 2 of the Act of July 31, 1894, as amended (5 U.S.C. 62)”.
 
 Subsec. (f). Pub. L. 89–171, §302(h)(2), substituted “Latin American Development Act, as amended” for “Act to provide for assistance in the development of Latin America and in the reconstruction of Chile, and for other purposes”.
 

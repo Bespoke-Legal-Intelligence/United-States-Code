@@ -18,7 +18,7 @@ Each inspection of a plant, plant site, or other facility or location in the Uni
 
 #### (A) In general
 
-&emsp;&emsp;The notice under paragraph (1) shall include all appropriate information supplied by the Technical Secretariat to the United States National Authority concerning—
+&emsp;&emsp;The notice under paragraph (1) shall include all appropriate information suppliedby the Technical Secretariat to the United States National Authority concerning—
 
 &emsp;&emsp;&emsp;(i) the type of inspection;
 
@@ -38,7 +38,7 @@ Each inspection of a plant, plant site, or other facility or location in the Uni
 
 #### (c) Credentials
 
-The head of the inspection team of the Technical Secretariat and the accompanying employees of the Federal government <sup>1</sup> shall display appropriate identifying credentials to the owner, operator, occupant, or agent in charge of the premises before the inspection is commenced.
+The head of the inspection team of the Technical Secretariat and the accompanying employees of the Federal Government (and, in the case of an inspection of a United States Government facility, any accompanying contractor personnel) shall display appropriate identifying credentials to the owner, operator, occupant, or agent in charge of the premises before the inspection is commenced.
 
 #### (d) Timeframe for inspections
 
@@ -74,7 +74,7 @@ Consistent with the provisions of the Convention, each inspection shall be comme
 
 #### (1) In general
 
-&emsp;The Director of the United States National Authority is authorized to require the provision of samples to a member of the inspection team of the Technical Secretariat in accordance with the provisions of the Convention. The owner or the operator, occupant or agent in charge of the premises to be inspected shall determine whether the sample shall be takenby representatives of the premises or the inspection team or other individuals present. No sample collected in the United States pursuant to an inspection permitted by this chapter may be transferred for analysis to any laboratory outside the territory of the United States.
+&emsp;The Director of the United States National Authority is authorized to require the provision of samples to a member of the inspection team of the Technical Secretariat in accordance with the provisions of the Convention. The owner or the operator, occupant or agent in charge of the premises to be inspected shall determine whether the sample shall be taken by representatives of the premises or the inspection team or other individuals present. No sample collected in the United States pursuant to an inspection permitted by this chapter may be transferred for analysis to any laboratory outside the territory of the United States.
 
 #### (2) Compliance with regulations
 
@@ -84,15 +84,17 @@ Consistent with the provisions of the Convention, each inspection shall be comme
 
 The appropriate representatives of the United States, as designated, if present, shall assist the owner and the operator, occupant or agent in charge of the premises to be inspected in interacting with the members of the inspection team of the Technical Secretariat.
 
-(Pub. L. 105–277, div. I, title III, §304, Oct. 21, 1998, 112 Stat. 2681–874.)
+(Pub. L. 105–277, div. I, title III, §304, Oct. 21, 1998, 112 Stat. 2681–874; Pub. L. 107–107, div. A, title XII, §1204(b), Dec. 28, 2001, 115 Stat. 1247.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (f)(1), was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
+#### Amendments
+
+2001—Subsec. (c). Pub. L. 107–107 substituted “Federal Government (and, in the case of an inspection of a United States Government facility, any accompanying contractor personnel)” for “Federal government”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6713, 6725 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

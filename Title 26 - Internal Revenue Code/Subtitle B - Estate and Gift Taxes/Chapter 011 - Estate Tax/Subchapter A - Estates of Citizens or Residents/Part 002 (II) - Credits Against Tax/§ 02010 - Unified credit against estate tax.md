@@ -12,43 +12,29 @@ The amount of the credit allowable under subsection (a) shall be reduced by an a
 
 For purposes of this section, the applicable credit amount is the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax is to be computed were the applicable exclusion amount determined in accordance with the following table:
 
-<b> In the case of estates of</b>
-
-<b>  decedents dying, and</b>
+<b>In the case of estates of decedents</b>
 
 <b>The applicable</b>
 
-<b>  gifts made, during:</b>
+<b> dying during:</b>
 
 <b>exclusion amount is:</b>
 
-&emsp;&emsp;1998
-
-$625,000&nbsp;&nbsp;
-
-&emsp;&emsp;1999
-
-$650,000&nbsp;&nbsp;
-
-&emsp;&emsp;2000 and 2001
-
-$675,000&nbsp;&nbsp;
-
 &emsp;&emsp;2002 and 2003
 
-$700,000&nbsp;&nbsp;
+$1,000,000&nbsp;&nbsp;
 
-&emsp;&emsp;2004
+&emsp;&emsp;2004 and 2005
 
-$850,000&nbsp;&nbsp;
+$1,500,000&nbsp;&nbsp;
 
-&emsp;&emsp;2005
+&emsp;&emsp;2006, 2007, and 2008
 
-$950,000&nbsp;&nbsp;
+$2,000,000&nbsp;&nbsp;
 
-&emsp;&emsp;2006 or thereafter
+&emsp;&emsp;2009
 
-$1,000,000.
+$3,500,000.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,7 +42,11 @@ $1,000,000.
 
 The amount of the credit allowed by subsection (a) shall not exceed the amount of the tax imposed by section 2001.
 
-(Added Pub. L. 94–455, title XX, §2001(a)(2), Oct. 4, 1976, 90 Stat. 1848; amended Pub. L. 97–34, title IV, §401(a)(1), (2)(A), Aug. 13, 1981, 95 Stat. 299; Pub. L. 101–508, title XI, §11801(a)(39), (c)(19)(A), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, §501(a)(1)(A), (B), Aug. 5, 1997, 111 Stat. 845.)
+(Added Pub. L. 94–455, title XX, §2001(a)(2), Oct. 4, 1976, 90 Stat. 1848; amended Pub. L. 97–34, title IV, §401(a)(1), (2)(A), Aug. 13, 1981, 95 Stat. 299; Pub. L. 101–508, title XI, §11801(a)(39), (c)(19)(A), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, §501(a)(1)(A), (B), Aug. 5, 1997, 111 Stat. 845; Pub. L. 107–16, title V, §521(a), June 7, 2001, 115 Stat. 71.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -65,6 +55,8 @@ The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct
 Section 2521 of this title, referred to in subsec. (b), was repealed by section 2001(b)(3) of Pub. L. 94–455, applicable to gifts made after Dec. 31, 1976.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c). Pub. L. 107–16, §§521(a), 901, in table, temporarily substituted provision that in the case of estates of decedents dying during the years 2002 and 2003, the years 2004 and 2005, the years 2006, 2007, and 2008, and the year 2009, the applicable exclusion amount is $1,000,000, $1,500,000, $2,000,000, and $3,500,000, respectively, for provision that in the case of decedents dying, and gifts made, during the year 1998, the year 1999, the years 2000 and 2001, the years 2002 and 2003, the year 2004, the year 2005, and the year 2006 or thereafter, the applicable exclusion amount is $625,000, $650,000, $675,000, $700,000, $850,000, $950,000, and $1,000,000, respectively. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–34, §501(a)(1)(A), substituted “the applicable credit amount” for “$192,800”.
 
@@ -75,6 +67,26 @@ Subsecs. (c), (d). Pub. L. 105–34, §501(a)(1)(B), added subsec. (c) and redes
 <b>1981</b>—Subsec. (a). Pub. L. 97–34, §401(a)(1), substituted “$192,800” for “$47,000”.
 
 Subsec. (b). Pub. L. 97–34, §401(a)(2)(A), struck out “$47,000” before “credit” from heading and in text substituted in subsec. (a) substitutions for “$192,800” amounts of “$62,800”, “$79,300”, “$96,300”, “$121,800”, and “$155,800” in the case of decedents dying in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a) substitutions for “$47,000” amounts of “$30,000”, “$34,000”, “$38,000”, and “$42,500” in the case of decedents dying in 1977, 1978, 1979, and 1980, respectively.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title V, §521(e), June 7, 2001, 115 Stat. 72, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 2057, 2505, and 2631 of this title\] shall apply to estates of decedents dying, and gifts made, after December 31, 2001.
+
+“(2)
+
+Subsection (b)(2).—The amendments made by subsection (b)(2) \[amending section 2505 of this title\] shall apply to gifts made after December 31, 2009.
+
+“(3)
+
+Subsections (c)
+
+and (d).—The amendments made by subsections (c) and (d) \[amending sections 2057 and 2631 of this title\] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2003.”
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -90,5 +102,5 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2011, 2012, 2013, 2014, 2056A, 2057, 2101, 2102, 2107, 2505, 6018, 6601 of this title.
+This section is referred to in sections 2011, 2012, 2013, 2014, 2056A, 2057, 2101, 2102, 2107, 2201, 2505, 2631, 6018, 6601 of this title.
 

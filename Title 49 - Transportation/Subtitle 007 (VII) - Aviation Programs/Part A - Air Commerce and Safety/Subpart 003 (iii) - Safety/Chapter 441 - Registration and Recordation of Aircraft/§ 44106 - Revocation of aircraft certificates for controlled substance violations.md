@@ -32,7 +32,7 @@ Appeals.—(1) A person whose certificate is revoked by the Administrator under 
 
 &emsp;(B) the Board shall dispose of the appeal not later than 60 days after notification by the Administrator under this paragraph.
 
-(3) A person substantially affected by an order of the Board under this subsection may seek judicial review of the order under section 46110 ofthis title. The Administrator shall be made a party to that judicial proceeding.
+(3) A person substantially affected by an order of the Board under this subsection may seek judicial review of the order under section 46110 of this title. The Administrator shall be made a party to that judicial proceeding.
 
 (e)
 

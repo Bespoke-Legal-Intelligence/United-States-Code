@@ -1,6 +1,6 @@
 ### §3285. Criminal contempt
 
-No proceeding for criminal contempt within section 402 of this title shall be instituted against any person, corporation or association unless begun within one year from the date of the act complained of; nor shall any such proceeding be a bar to any criminal prosecution for the same act.
+No proceeding for criminal contempt within section 402 of this title shall be instituted against any person, corporation or association unless begun within one year from the date ofthe act complained of; nor shall any such proceeding be a bar to any criminal prosecution for the same act.
 
 (June 25, 1948, ch. 645, 62 Stat. 828.)
 

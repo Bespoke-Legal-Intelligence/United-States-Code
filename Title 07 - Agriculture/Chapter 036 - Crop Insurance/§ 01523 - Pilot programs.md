@@ -8,7 +8,7 @@
 
 #### (2) Private coverage
 
-&emsp;Under this section, the Corporation shall not conduct any pilot program that provides insurance protection against a risk if insurance protection against the risk is generally available from private companies.
+&emsp;Under this section, the Corporation shall not conduct any pilot program that provides insurance protection against a risk if insuranceprotection against the risk is generally available from private companies.
 
 #### (3) Covered activities
 
@@ -98,7 +98,7 @@
 
 #### (10) Limitation on expenditures
 
-&emsp;The Corporation shall conduct all livestock programs under this chapter so that, to the maximum extent practicable, all costs associated with conducting the livestock programs (other than research and development costs covered by section 1522 of this title) are not expected to exceed the following:
+&emsp;The Corporation shall conduct all livestock programs under this chapter so that, to the maximum extent practicable, all costs associated with conducting the livestock programs\(other than research and development costs covered by section 1522 of this title) are not expected to exceed the following:
 
 &emsp;&emsp;(A) $10,000,000 for each of fiscal years 2001 and 2002.
 

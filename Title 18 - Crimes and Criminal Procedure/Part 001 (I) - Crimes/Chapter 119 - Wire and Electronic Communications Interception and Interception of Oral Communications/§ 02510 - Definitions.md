@@ -2,13 +2,13 @@
 
 As used in this chapter—
 
-&emsp;(1) “wire communication” means any aural transfer made in whole or in part through the use of facilities for the transmission of communications by the aid of wire, cable, or other like connection between the point of origin and the point of reception (including the use of such connection in a switching station) furnished or operated by any person engaged in providing or operating such facilities for the transmission of interstate or foreign communications or communications affecting interstate or foreign commerce and such term includes any electronic storage of such communication;
+&emsp;(1) “wire communication” means any aural transfer made in whole or in part through the use of facilities for the transmission of communications by the aid of wire, cable, or other like connection between the point of origin and the point of reception (including the use of such connection in a switching station) furnished or operated by any person engaged in providing or operating such facilities for the transmission of interstate or foreign communications or communications affecting interstate or foreign commerce;
 
 &emsp;(2) “oral communication” means any oral communication uttered by a person exhibiting an expectation that such communication is not subject to interception under circumstances justifying such expectation, but such term does not include any electronic communication;
 
 &emsp;(3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States;
 
-&emsp;(4) “intercept” means the aural or other acquisition of the contents of any wire, electronic, or oral communication through the use of any electronic, mechanical, or other device.
+&emsp;(4) “intercept” means the aural or other acquisition of the contents of any wire, electronic, or oral communication through the use of any electronic, mechanical, or other device.<sup>1</sup>
 
 &emsp;(5) “electronic, mechanical, or other device” means any device or apparatus which can be used to intercept a wire, oral, or electronic communication other than—
 
@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;&emsp;(b) a judge of any court of general criminal jurisdiction of a State who is authorized by a statute of that State to enter orders authorizing interceptions of wire, oral, or electronic communications;
 
-&emsp;(10) “communication common carrier” shall have the same meaning which is given the term “common carrier” by section 153(h) <sup>1</sup> of title 47 of the United States Code;
+&emsp;(10) “communication common carrier” shall have the same meaning which is given the term “common carrier” by section 153(h) <sup>2</sup> of title 47 of the United States Code;
 
 &emsp;(11) “aggrieved person” means a person who was a party to any intercepted wire, oral, or electronic communication or a person against whom the interception was directed;
 
@@ -48,7 +48,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) is duly authorized by the provider of such service to engage in such use;
 
-&emsp;(14) “electronic communications system” means any wire, radio, electromagnetic, photooptical or photoelectronic facilities for the transmission of electronic communications, and any computer facilities or related electronic equipment for the electronic storage of such communications;
+&emsp;(14) “electronic communications system” means any wire, radio, electromagnetic, photooptical or photoelectronic facilities for the transmission of wire or electronic communications, and any computer facilities or related electronic equipment for the electronic storage of such communications;
 
 &emsp;(15) “electronic communication service” means any service which provides to users thereof the ability to send or receive wire or electronic communications;
 
@@ -68,17 +68,55 @@ As used in this chapter—
 
 &emsp;&emsp;(A) any temporary, intermediate storage of a wire or electronic communication incidental to the electronic transmission thereof; and
 
-&emsp;&emsp;(B) any storage of such communication by an electronic communication service for purposes of backup protection of such communication; and
+&emsp;&emsp;(B) any storage of such communication by an electronic communication service for purposes of backup protection of such communication;
 
-&emsp;(18) “aural transfer” means a transfer containing the human voice at any point between and including the point of origin and the point of reception.
+&emsp;(18) “aural transfer” means a transfer containing the human voice at any point between and including the point of origin and the point of reception;
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303.)
+&emsp;(19) “foreign intelligence information”, for purposes of section 2517(6) of this title, means—
+
+&emsp;&emsp;(A) information, whether or not concerning a United States person, that relates to the ability of the United States to protect against—
+
+&emsp;&emsp;&emsp;(i) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
+
+&emsp;&emsp;&emsp;(ii) sabotage or international terrorism by a foreign power or an agent of a foreign power; or
+
+&emsp;&emsp;&emsp;(iii) clandestine intelligence activities by an intelligence service or network of a foreign power or by an agent of a foreign power; or
+
+&emsp;&emsp;(B) information, whether or not concerning a United States person, with respect to a foreign power or foreign territory that relates to—
+
+&emsp;&emsp;&emsp;(i) the national defense or the security of the United States; or
+
+&emsp;&emsp;&emsp;(ii) the conduct of the foreign affairs of the United States;
+
+&emsp;(20) “protected computer” has the meaning set forth in section 1030; and
+
+&emsp;(21) “computer trespasser”—
+
+&emsp;&emsp;(A) means a person who accesses a protected computer without authorization and thus has no reasonable expectation of privacy in any communication transmitted to, through, or from the protected computer; and
+
+&emsp;&emsp;(B) does not include a person known by the owner or operator of the protected computer to have an existing contractual relationship with the owner or operator of the protected computer for access to all or part of the protected computer.
+
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, §314(b), Dec. 28, 2001, 115 Stat. 1402.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
 
 #### References in Text
 
 Section 153 of title 47, referred to in par. (10), was subsequently amended, and section 153(h) no longer defines “common carrier”. However, such term is defined elsewhere in that section.
 
 #### Amendments
+
+2001—Par. (1). Pub. L. 107–56, §§209(1)(A), 224, temporarily struck out “and such term includes any electronic storage of such communication” before semicolon at end. See Termination Date of 2001 Amendment note below.
+
+Par. (14). Pub. L. 107–56, §§209(1)(B), 224, temporarily inserted “wire or” after “transmission of”. See Termination Date of 2001 Amendment note below.
+
+Par. (19). Pub. L. 107–108 inserted “, for purposes of section 2517(6) of this title,” before “means” in introductory provisions.
+
+Pub. L. 107–56, §§203(b)(2), 224, temporarily added par. (19). See Termination Date of 2001 Amendment note below.
+
+Pars. (20), (21). Pub. L. 107–56, §§217(1), 224, temporarily added pars. (20) and (21). See Termination Date of 2001 Amendment note below.
 
 1996—Par. (12)(D). Pub. L. 104–132, §731(1), added subpar. (D).
 
@@ -103,6 +141,18 @@ Par. (8). Pub. L. 99–508, §101(a)(5), (c)(1)(A), substituted “wire, oral, o
 Pars. (9)(b), (11). Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
 
 Pars. (12) to (18). Pub. L. 99–508, §101(a)(6), added pars. (12) to (18).
+
+#### Termination Date of 2001 Amendment
+
+Pub. L. 107–56, title II, §224, Oct. 26, 2001, 115 Stat. 295, provided that:
+
+“(a)
+
+In General.—Except as provided in subsection (b), this title \[enacting section 2712 of this title, section 7210 of Title 22, Foreign Relations and Intercourse, and sections 403–5d, 1861, and 1862 of Title 50, War and National Defense, amending this section, sections 2511, 2516, 2517, 2520, 2702, 2703, 2707, 2711, 3103a, 3121, 3123, 3124, and 3127 of this title, sections 7203 and 7205 of Title 22, section 551 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, sections 1803 to 1805, 1823, 1824, 1842, and 1843 of Title 50, and Rules 6 and 41 of the Federal Rules of Criminal Procedure, repealing sections 1861 to 1863 of Title 50, and enacting provisions set out as notes under sections 2517, and 3124 of this title and section 532 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this title (other than sections 203(a), 203(c), 205, 208, 210, 211, 213, 216, 219, 221, and 222 \[amending sections 2703, 3103a, 3121, 3123, 3124, 3127 of this title, sections 7203 and 7205 of Title 22, section 551 of Title 47, section 1803 of Title 50, and Rules 6 and 41 of the Federal Rules of Criminal Procedure\], and the amendments made by those sections) shall cease to have effect on December 31, 2005.
+
+“(b)
+
+Exception.—With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in subsection (a) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which such provisions cease to have effect, such provisions shall continue in effect.”
 
 #### Effective Date of 1986 Amendment
 
@@ -144,7 +194,7 @@ In General.—Nothing in this Act or the amendments made by this Act \[see Short
 
 Certain Activities Under Procedures Approved by the Attorney General.—Nothing in chapter 119 or chapter 121 of title 18, United States Code, shall affect the conduct, by officers or employees of the United States Government in accordance with other applicable Federal law, under procedures approved by the Attorney General of activities intended to—
 
-&emsp;“(1) intercept encrypted or other official communications of United States executive branch entities or United States Government contractors for communications security purposes;
+&emsp;“(1) intercept encrypted or other official communications of United States executive branch entitiesor United States Government contractors for communications security purposes;
 
 &emsp;“(2) intercept radio communications transmitted between or among foreign powers or agents of a foreign power as defined by the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\]; or
 
@@ -168,7 +218,9 @@ Section 804 of Pub. L. 90–351, as amended by Pub. L. 91–452, title XII, §12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2711, 3127, 3504 of this title; title 15 section 1114; title 42 section 13032; title 47 section 1001.
+This section is referred to in sections 2517, 2711, 3103a, 3127, 3504 of this title; title 15 section 1114; title 27 section 122b; title 42 section 13032; title 47 section 1001.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ It shall be unlawful for any issuer which has a class of securities registered p
 
 > &emsp;in order to assist such issuer in obtaining or retaining business for or with, or directing business to, any person; or
 
-&emsp;(3) any person, while knowing that all or a portion of such money or thing of value will be offered, given, or promised, directly or indirectly, to any foreign official, to any foreignpolitical party or official thereof, or to any candidate for foreign political office, for purposes of—
+&emsp;(3) any person, while knowing that all or a portion of such money or thing of value will be offered, given, or promised, directly or indirectly, to any foreign official, to any foreign political party or official thereof, or to any candidate for foreign political office, for purposes of—
 
 &emsp;&emsp;(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or (iii) securing any improper advantage; or
 
@@ -90,7 +90,7 @@ For purposes of this section:
 
 &emsp;&emsp;(ii) processing governmental papers, such as visas and work orders;
 
-&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspections associated with contract performance or inspections related to transit of goods across country;
+&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspectionsassociated with contract performance or inspections related to transit of goods across country;
 
 &emsp;&emsp;(iv) providing phone service, power and water supply, loading and unloading cargo, or protecting perishable products or commodities from deterioration; or
 
@@ -114,7 +114,7 @@ For purposes of this section:
 
 Subsec. (a)(2)(A). Pub. L. 105–366, §2(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
-“(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, or\(ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate,”.
+“(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, or (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate,”.
 
 Subsec. (a)(3)(A). Pub. L. 105–366, §2(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
@@ -160,7 +160,7 @@ Treatment.—An international organization providing commercial communications s
 
 &emsp;“(2)
 
-Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] in authorizing the provision of services to, from, or within the United States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
+Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] in authorizing the provision of services to, from, or within theUnited States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
 
 “(c)
 
@@ -224,7 +224,7 @@ Reports Required.—Not later than July 1 of 1999 and each of the 5 succeeding y
 
 &emsp;“(1)
 
-Ratification.—A list of the countries that have ratified the Convention, the dates of ratificationby such countries, and the entry into force for each such country.
+Ratification.—A list of the countries that have ratified the Convention, the dates of ratification by such countries, and the entry into force for each such country.
 
 &emsp;“(2)
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), not less than once every 5 fiscal years, each public housing agency shall submit to the Secretary a plan thatincludes, with respect to the 5 fiscal years immediately following the date on which the plan is submitted—
+&emsp;Subject to paragraph (2), not less than once every 5 fiscal years, each public housing agency shall submit to the Secretary a plan that includes, with respect to the 5 fiscal years immediately following the date on which the plan is submitted—
 
 &emsp;&emsp;(A) a statement of the mission of the public housing agency for serving the needs of low-income and very low-income families in the jurisdiction of the public housing agency during such fiscal years; and
 
@@ -158,7 +158,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (2) Functions
 
-&emsp;Each resident advisory board established under this subsection by a public housing agency shall assist and make recommendations regarding the development of the public housing agency plan for the agency. The agency shall consider the recommendations of the resident advisory boards in preparing the final public housing agency plan, and shall include,in the public housing agency plan submitted to the Secretary under this section, a copy of the recommendations and a description of the manner in which the recommendations were addressed.
+&emsp;Each resident advisory board established under this subsection by a public housing agency shall assist and make recommendations regarding the development of the public housing agency plan for the agency. The agency shall consider the recommendations of the resident advisory boards in preparing the final public housing agency plan, and shall include, in the public housing agency plan submitted to the Secretary under this section, a copy of the recommendations and a description of the manner in which the recommendations were addressed.
 
 #### (3) Waiver
 
@@ -198,7 +198,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (4) Advisory board consultation enforcement
 
-&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4) of this section, the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
+&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4) of this section, the Secretarymay require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
 
 #### (g) Amendments and modifications to plans
 
@@ -236,7 +236,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 &emsp;&emsp;(A) set forth the information required by this section and this chapter to be contained in a public housing agency plan;
 
-&emsp;&emsp;(B) are consistent with information and data available to the Secretary, includingthe approved comprehensive housing affordability strategy under title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\] for the jurisdiction in which the public housing agency is located; and
+&emsp;&emsp;(B) are consistent with information and data available to the Secretary, including the approved comprehensive housing affordability strategy under title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\] for the jurisdiction in which the public housing agency is located; and
 
 &emsp;&emsp;(C) are not prohibited by or inconsistent with any provision of this subchapter or other applicable law.
 
@@ -266,7 +266,7 @@ An annual public housing agency plan under subsection (b) of this section for a 
 
 #### (1) In general
 
-&emsp;The Secretary may require, for each public housing agency that is at risk of being designated as troubled under section 1437d(j)(2) of this title or is designated as troubled under section 1437d(j)(2) of this title, that the public housing agency plan for such agency include such additional information as the Secretary determines to be appropriate, in accordance with such standards as the Secretary may establish or in accordance with such determinations as the Secretary may make on an agency-by-agency basis.
+&emsp;The Secretary may require, for each public housing agency that is at risk of being designated as troubled under section 1437d(j)(2) of this title or is designated as troubled under section 1437d(j)(2) of this title, that the public housing agency plan for such agency includesuch additional information as the Secretary determines to be appropriate, in accordance with such standards as the Secretary may establish or in accordance with such determinations as the Secretary may make on an agency-by-agency basis.
 
 #### (2) Troubled agencies
 
@@ -304,7 +304,7 @@ The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(15), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Fair Housing Act, referred to in subsec. (d)(15), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, asamended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (d)(15), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(15), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 

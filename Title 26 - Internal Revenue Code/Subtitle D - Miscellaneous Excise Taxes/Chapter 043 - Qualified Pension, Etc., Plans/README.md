@@ -24,10 +24,13 @@
 | [4980C.](%C2%A7%2004980C%20-%20Requirements%20for%20issuers%20of%20qualified%20long-term%20care%20insurance%20contracts.md) | Requirements for issuers of qualified long-term care insurance contracts. |
 | [4980D.](%C2%A7%2004980D%20-%20Failure%20to%20meet%20certain%20group%20health%20plan%20requirements.md) | Failure to meet certain group health plan requirements. |
 | [4980E.](%C2%A7%2004980E%20-%20Failure%20of%20employer%20to%20make%20comparable%20medical%20savings%20account%201%20contributions.md) | Failure of employer to make comparable medical savings account contributions. |
+| [4980F.](%C2%A7%2004980F%20-%20Failure%20of%20applicable%20plans%20reducing%20benefit%20accruals%20to%20satisfy%20notice%20requirements.md) | Failure of applicable plans reducing benefit accruals to satisfy notice requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title VI, §659(a)(2), June 7, 2001, 115 Stat. 139, added item 4980F.
 
 <b>1998</b>—Pub. L. 105–206, title VI, §6023(18)(B), July 22, 1998, 112 Stat. 825, substituted “certain tax-favored accounts and annuities” for “individual retirement accounts, certain section 403(b) contracts, and certain individual retirement annuities” in item 4973.
 
@@ -78,3 +81,4 @@ This chapter is referred to in sections 275, 6161, 6201, 6211, 6212, 6213, 6214,
 - [&sect; 04980C - Requirements for issuers of qualified long-term care insurance contracts](%C2%A7%2004980C%20-%20Requirements%20for%20issuers%20of%20qualified%20long-term%20care%20insurance%20contracts.md)
 - [&sect; 04980D - Failure to meet certain group health plan requirements](%C2%A7%2004980D%20-%20Failure%20to%20meet%20certain%20group%20health%20plan%20requirements.md)
 - [&sect; 04980E - Failure of employer to make comparable medical savings account 1 contributions](%C2%A7%2004980E%20-%20Failure%20of%20employer%20to%20make%20comparable%20medical%20savings%20account%201%20contributions.md)
+- [&sect; 04980F - Failure of applicable plans reducing benefit accruals to satisfy notice requirements](%C2%A7%2004980F%20-%20Failure%20of%20applicable%20plans%20reducing%20benefit%20accruals%20to%20satisfy%20notice%20requirements.md)

@@ -6,7 +6,7 @@ The Attorney General shall determine the total quantity and establish production
 
 #### (b) Individual production quotas; revised quotas
 
-The Attorney General shall limit or reduce individual production quotas to the extent necessary to prevent the aggregate of individual quotas from exceeding the amount determined necessary each year by the Attorney General under subsection (a) of this section. The quota of each registered manufacturer for each basic class of controlled substance in schedule I or II shall be revised in the same proportion as the limitation or reduction of the aggregate of the quotas. However, if any registrant, before the issuance of a limitation or reduction in quota, has manufactured in excess of his revised quota, the amount of the excess shall be subtracted from his quota for the following year.
+The Attorney General shall limit or reduce individual production quotas to the extent necessary to prevent the aggregate of individual quotas from exceeding the amount determined necessary each year by the Attorney General under subsection (a) of this section. The quota of each registered manufacturer for each basicclass of controlled substance in schedule I or II shall be revised in the same proportion as the limitation or reduction of the aggregate of the quotas. However, if any registrant, before the issuance of a limitation or reduction in quota, has manufactured in excess of his revised quota, the amount of the excess shall be subtracted from his quota for the following year.
 
 #### (c) Manufacturing quotas for registered manufacturers
 
@@ -18,7 +18,7 @@ The Attorney General shall, upon application and subject to the provisions of su
 
 #### (e) Quota increases
 
-At any time during the year any registrant who has applied for or received a manufacturingquota for a basic class of controlled substance in schedule I or II may apply for an increase in that quota to meet his estimated disposal, inventory, and other requirements during the remainder of that year. In passing upon the application the Attorney General shall take into consideration any occurrences since the filing of the registrant's initial quota application that may require an increased manufacturing rate by the registrant during the balance of the year. In passing upon the application the Attorney General may also take into account the amount, if any, by which the determination of the Attorney General under subsection (a) of this section exceeds the aggregate of the quotas of all registrants under this section.
+At any time during the year any registrant who has applied for or received a manufacturing quota for a basic class of controlled substance in schedule I or II may apply for an increase in that quota to meet his estimated disposal, inventory, and other requirements during the remainder of that year. In passing upon the application the Attorney General shall take into consideration any occurrences since the filing of the registrant's initial quota application that may require an increased manufacturing rate by the registrant during the balance of the year. In passing upon the application the Attorney General may also take into account the amount, if any, by which the determination of the Attorney General under subsection (a) of this section exceeds the aggregate of the quotas of all registrants under this section.
 
 #### (f) Incidental production exception
 

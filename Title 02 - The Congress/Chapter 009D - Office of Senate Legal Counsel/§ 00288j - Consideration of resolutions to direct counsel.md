@@ -20,7 +20,7 @@ For purposes of this chapter, other than section 288b of this title, the term â€
 
 The provisions of this section are enactedâ€”
 
-&emsp;(1) as an exercise of the rulemaking power of the Senate, and, as such, they shall be considered as part of the rules of the Senate, and such rules shall supersede any other rule of the Senate only to the extent that rule is inconsistent therewith; and
+&emsp;(1) as an exercise of the rulemaking power of the Senate, and, as such, they shall be considered as part of the rules of the Senate, and such rules shall supersede any other rule ofthe Senate only to the extent that rule is inconsistent therewith; and
 
 &emsp;(2) with full recognition of the constitutional right of the Senate to change such rules at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.
 

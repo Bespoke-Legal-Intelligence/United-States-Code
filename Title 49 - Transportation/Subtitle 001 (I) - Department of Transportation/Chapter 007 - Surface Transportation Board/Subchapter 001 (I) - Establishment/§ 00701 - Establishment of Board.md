@@ -14,7 +14,7 @@ Membership.—(1) The Board shall consist of 3 members, to be appointed by the P
 
 (4) On January 1, 1996, the members of the Interstate Commerce Commission serving unexpired terms on December 29, 1995, shall become members of the Board, to serve for a period of time equal to the remainder of the term for which they were originally appointed to the Interstate Commerce Commission. Any member of the Interstate Commerce Commission whose term expires on December 31, 1995, shall become a member of the Board, subject to paragraph (3).
 
-(5) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual who becomes a member of the Board pursuant to paragraph (4), or an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individualmay not be appointed for more than one additional term.
+(5) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual who becomes a member of the Board pursuant to paragraph (4), or an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individual may not be appointed for more than one additional term.
 
 (6) A member of the Board may not have a pecuniary interest in, hold an official relation to, or own stock in or bonds of, a carrier providing transportation by any mode and may not engage in another business, vocation, or employment.
 

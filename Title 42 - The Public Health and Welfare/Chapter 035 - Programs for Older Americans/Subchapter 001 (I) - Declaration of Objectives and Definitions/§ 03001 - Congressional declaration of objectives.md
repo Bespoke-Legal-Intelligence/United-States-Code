@@ -100,7 +100,7 @@ Section 701 of Pub. L. 100–175 provided that:
 
 “(a)
 
-General Effective Date.—Except as provided in subsections (b) and (c), this Act and the amendmentsmade by this Act \[see Short Title of 1987 Amendment note below\] shall take effect on October 1, 1987.
+General Effective Date.—Except as provided in subsections (b) and (c), this Act and the amendments made by this Act \[see Short Title of 1987 Amendment note below\] shall take effect on October 1, 1987.
 
 “(b)
 
@@ -160,7 +160,7 @@ Section 1 of Pub. L. 98–459 provided that: “This Act \[enacting sections 303
 
 #### Short Title of 1981 Amendment
 
-Section 1(a) of Pub. L. 97–115 provided that: “This act \[enacting sections 3031, 3032, 3035 to 3035e, 3037, and 3037a of this title, amending this section, sections 3002 to 3003, 3012, 3013, 3015 to 3020d, 3021 to 3028, 3030, 3030a, 3030d, 3030g, 3035b, 3035e, 3036, 3056, 3056a, 3056c, 3056d, 3056f, 3057 to 3057g, 8622, 9902 to 9904, and 9911 of this title, and section 1087–2 of Title 20, Education, repealing section 3014 of this title, and enacting a provision set out as a note under section 3045 of this title\] may be cited as the ‘Older American Act Amendments of 1981’.”
+Section 1(a) of Pub. L. 97–115 provided that: “This act \[enacting sections 3031, 3032, 3035 to 3035e, 3037, and 3037a of this title, amending this section, sections 3002 to 3003, 3012, 3013, 3015 to 3020d, 3021 to 3028, 3030, 3030a, 3030d, 3030g, 3035b, 3035e, 3036, 3056, 3056a, 3056c, 3056d, 3056f, 3057 to 3057g, 8622, 9902 to 9904, and 9911 of this title, and section 1087–2 of Title 20, Education, repealing section 3014 of this title, and enacting a provision set out as a note under section 3045 of this title\] may be cited as the ‘Older Americans Act Amendments of 1981’.”
 
 #### Short Title of 1978 Amendment
 
@@ -186,7 +186,7 @@ Pub. L. 89–73, title III, §371, as added Pub. L. 106–501, title III, §316(
 
 Pub. L. 89–73, title V, §501, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267, provided that: “This title \[enacting subchapter IX of this chapter\] may be cited as the ‘Older American Community Service Employment Act’.”
 
-Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and renumbered by Pub. L. 95–478, title I, §105(a), Oct. 18, 1978, 92 Stat. 1547, provided that title V of Pub. L. 89–73, enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of Pub. L. 89–73 by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267.
+Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and renumbered by Pub. L. 95–478, title I,§105(a), Oct. 18, 1978, 92 Stat. 1547, provided that title V of Pub. L. 89–73, enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of Pub. L. 89–73 by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267.
 
 #### Regulations
 
@@ -310,7 +310,7 @@ Scope of Study.—The study shall include—
 
 &emsp;“(1) an examination of existing quality, health and safety requirements for home care services and the enforcement of such requirements for their adequacy, effectiveness, and appropriateness;
 
-&emsp;“(2) an examination of, and recommendations with respect to, the appropriate role of Federal, State, and local governments in ensuring the health and safety of patients and clients of home care services; and
+&emsp;“(2) an examination of, and recommendations with respect to, the appropriate role of Federal, State, andlocal governments in ensuring the health and safety of patients and clients of home care services; and
 
 &emsp;“(3) specific recommendations to the Congress and the Secretary, not later than 20 months after the date of the enactment of this Act \[Sept. 30, 1992\], concerning the establishment of minimum national standards for the quality, health, and safety of patients and clients of such services and the enforcement of such standards.
 
@@ -566,7 +566,7 @@ Administration.—In administering this section, the Secretary shall—
 
 “(b)
 
-Duties.—The Secretary shall, in carrying out the Secretary's responsibilities and functions under this section, and as part of the White House Conference on Aging, ensure that—
+Duties.—The Secretary shall, in carrying out the Secretary's responsibilities and functions underthis section, and as part of the White House Conference on Aging, ensure that—
 
 &emsp;“(1) the agenda prepared under subsection (a)(3) for the Conference is published in the Federal Register not later than 30 days after such agenda is approved by the Policy Committee, and the Secretary may republish such agenda together with the recommendations of the Secretary regarding such agenda, and
 

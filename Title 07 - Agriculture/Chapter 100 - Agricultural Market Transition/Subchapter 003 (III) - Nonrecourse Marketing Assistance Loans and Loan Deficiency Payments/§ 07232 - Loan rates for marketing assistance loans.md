@@ -26,7 +26,7 @@
 
 &emsp;Subject to paragraph (2), the loan rate for a marketing assistance loan under section 7231 of this title for corn shall be—
 
-&emsp;&emsp;(A) not less than 85 percent of the simple average price received by producers of corn, as determined by the Secretary, during the marketing years for the immediately preceding 5 crops of corn, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
+&emsp;&emsp;(A) not less than 85 percent of the simple average price received by producers of corn, as determined by the Secretary, during themarketing years for the immediately preceding 5 crops of corn, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
 
 &emsp;&emsp;(B) not more than $1.89 per bushel.
 
@@ -84,7 +84,7 @@ The loan rate for a marketing assistance loan under section 7231 of this title f
 
 &emsp;The loan rate for a marketing assistance loan under section 7231 of this title for sunflower seed, canola, rapeseed, safflower, mustard seed, and flaxseed, individually, shall be—
 
-&emsp;&emsp;(A) not less than 85 percent of the simple average price received by producers of sunflower seed, individually, as determined by the Secretary, during the marketing yearsfor the immediately preceding 5 crops of sunflower seed, individually, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
+&emsp;&emsp;(A) not less than 85 percent of the simple average price received by producers of sunflower seed, individually, as determined by the Secretary, during the marketing years for the immediately preceding 5 crops of sunflower seed, individually, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
 
 &emsp;&emsp;(B) not less than $0.087 or more than $0.093 per pound.
 

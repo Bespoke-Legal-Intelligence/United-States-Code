@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified tertiary injectant expenses” means any cost paid or incurred (whether or not chargeable to capital account) for any tertiary injectant (other than a hydrocarbon injectant which is recoverable) which is used as a part of a tertiary recovery method.
+&emsp;The term “qualified tertiary injectant expenses” means any cost paid or incurred (whether or not chargeable to capital account)for any tertiary injectant (other than a hydrocarbon injectant which is recoverable) which is used as a part of a tertiary recovery method.
 
 #### (2) Hydrocarbon injectant
 
@@ -46,7 +46,7 @@ Section 4996(b)(8)(C), referred to in subsec. (b)(3)(A), was repealed by Pub. L.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, seesection 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
+Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
 #### Effective Date of 1983 Amendment
 

@@ -52,7 +52,7 @@
 
 #### (3) Credits
 
-&emsp;The credits on premium rates for flood insurance coverage shall be based on the estimated reduction in flood and erosion damage risks resulting from the measures adopted bythe community under this program. If a community has received mitigation assistance under section 4104c of this title, the credits shall be phased in a manner, determined by the Director, to recover the amount of such assistance provided for the community.
+&emsp;The credits on premium rates for flood insurance coverage shall be based on the estimated reduction in flood and erosion damage risks resulting from the measures adopted by the community under this program. If a community has received mitigation assistance under section 4104c of this title, the credits shall be phased in a manner, determined by the Director, to recover the amount of such assistance provided for the community.
 
 #### (4) Reports
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2350a.](%C2%A7%2002350a%20-%20Cooperative%20research%20and%20development%20projects%20allied%20countries.md) | Cooperative research and development projects: allied countries. |
+| [2350a.](%C2%A7%2002350a%20-%20Cooperative%20research%20and%20development%20agreements%20NATO%20organizations%3B%20allied%20and%20friendly%20foreign%20countries.md) | Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries. |
 | [2350b.](%C2%A7%2002350b%20-%20Cooperative%20projects%20under%20Arms%20Export%20Control%20Act%20acquisition%20of%20defense%20equipment.md) | Cooperative projects under Arms Export Control Act: acquisition of defense equipment. |
 | [2350c.](%C2%A7%2002350c%20-%20Cooperative%20military%20airlift%20agreements%20allied%20countries.md) | Cooperative military airlift agreements: allied countries. |
 | [2350d.](%C2%A7%2002350d%20-%20Cooperative%20logistic%20support%20agreements%20NATO%20countries.md) | Cooperative logistic support agreements: NATO countries. |
@@ -13,10 +13,13 @@
 | [2350i.](%C2%A7%2002350i%20-%20Foreign%20contributions%20for%20cooperative%20projects.md) | Foreign contributions for cooperative projects. |
 | [2350j.](%C2%A7%2002350j%20-%20Burden%20sharing%20contributions%20by%20designated%20countries%20and%20regional%20organizations.md) | Burden sharing contributions by designated countries and regional organizations. |
 | [2350k.](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md) | Relocation within host nation of elements of armed forces overseas. |
+| 2350<i>l.</i> | Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title XII, §§1212(e)(2), 1213(b), Dec. 28, 2001, 115 Stat. 1250, 1251, substituted “Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries” for “Cooperative research and development projects: allied countries” in item 2350a and added item 2350<i>l.</i>
 
 1996—Pub. L. 104–106, div. A, title XIII, §1332(a)(2), Feb. 10, 1996, 110 Stat. 484, added item 2350k.
 
@@ -35,7 +38,7 @@ Pub. L. 101–510, div. A, title XIV, §1451(b)(2), Nov. 5, 1990, 104 Stat. 1693
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02350a - Cooperative research and development projects allied countries](%C2%A7%2002350a%20-%20Cooperative%20research%20and%20development%20projects%20allied%20countries.md)
+- [&sect; 02350a - Cooperative research and development agreements NATO organizations; allied and friendly foreign countries](%C2%A7%2002350a%20-%20Cooperative%20research%20and%20development%20agreements%20NATO%20organizations%3B%20allied%20and%20friendly%20foreign%20countries.md)
 - [&sect; 02350b - Cooperative projects under Arms Export Control Act acquisition of defense equipment](%C2%A7%2002350b%20-%20Cooperative%20projects%20under%20Arms%20Export%20Control%20Act%20acquisition%20of%20defense%20equipment.md)
 - [&sect; 02350c - Cooperative military airlift agreements allied countries](%C2%A7%2002350c%20-%20Cooperative%20military%20airlift%20agreements%20allied%20countries.md)
 - [&sect; 02350d - Cooperative logistic support agreements NATO countries](%C2%A7%2002350d%20-%20Cooperative%20logistic%20support%20agreements%20NATO%20countries.md)
@@ -46,3 +49,4 @@ Pub. L. 101–510, div. A, title XIV, §1451(b)(2), Nov. 5, 1990, 104 Stat. 1693
 - [&sect; 02350i - Foreign contributions for cooperative projects](%C2%A7%2002350i%20-%20Foreign%20contributions%20for%20cooperative%20projects.md)
 - [&sect; 02350j - Burden sharing contributions by designated countries and regional organizations](%C2%A7%2002350j%20-%20Burden%20sharing%20contributions%20by%20designated%20countries%20and%20regional%20organizations.md)
 - [&sect; 02350k - Relocation within host nation of elements of armed forces overseas](%C2%A7%2002350k%20-%20Relocation%20within%20host%20nation%20of%20elements%20of%20armed%20forces%20overseas.md)
+- [&sect; 02350l - Cooperative agreements for reciprocal use of test facilities foreign countries and international organizations](%C2%A7%2002350l%20-%20Cooperative%20agreements%20for%20reciprocal%20use%20of%20test%20facilities%20foreign%20countries%20and%20international%20organizations.md)

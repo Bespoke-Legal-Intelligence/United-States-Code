@@ -24,7 +24,7 @@ Point of order.—It shall not be in order in either the House of Representative
 
 #### (c) Exceptions
 
-(1) Subsections (a) and (b) of this section shall not apply to new authority described in those subsections if outlays from that new authority will flow—
+(1) Subsections (a) and (b) of this section shall not apply to new authority described in thosesubsections if outlays from that new authority will flow—
 
 &emsp;(A) from a trust fund established by the Social Security Act (as in effect on July 12, 1974) \[42 U.S.C. 301 et seq.\]; or
 

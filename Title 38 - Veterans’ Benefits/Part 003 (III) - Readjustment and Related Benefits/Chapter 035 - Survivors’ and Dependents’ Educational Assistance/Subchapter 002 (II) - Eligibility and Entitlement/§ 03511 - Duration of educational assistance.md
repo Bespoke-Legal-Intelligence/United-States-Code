@@ -1,6 +1,6 @@
 ### §3511. Duration of educational assistance
 
-(a)(1) Each eligible person shall be entitled to educational assistance under this chapter for a period not in excess of 45 months (or to the equivalent thereof in part-time training).
+(a)(1) Each eligible person shall be entitled to educational assistance under this chapter for a period not in excess of 45 months (or to the equivalent thereof in part-time training). In no event may the aggregate educational assistance afforded to a spouse made eligible under both 3501(a)(1)(D)(i) <sup>1</sup> and 3501(a)(1)(D)(ii) of this title exceed 45 months.
 
 (2)(A) Notwithstanding any other provision of this chapter or chapter 36 of this title, any payment of an educational assistance allowance described in subparagraph (B) of this paragraph shall not—
 
@@ -10,11 +10,11 @@
 
 (B) The payment of the educational assistance allowance referred to in subparagraph (A) of this paragraph is the payment of such an allowance to an individual for pursuit of a course or courses under this chapter if the Secretary finds that the individual—
 
-&emsp;(i) had to discontinue such course pursuit as a result of being ordered, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b,<sup>1</sup> or 688 of title 10; and
+&emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10; and
 
 &emsp;(ii) failed to receive credit or training time toward completion of the individual's approved educational, professional, or vocational objective as a result of having to discontinue, as described in clause (i) of this subparagraph, his or her course pursuit.
 
-(C) The period for which, by reason of this subsection, an educational assistance allowance isnot charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii) of this paragraph.
+(C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii) of this paragraph.
 
 (b) If any eligible person pursuing a program of education, or of special restorative training, under this chapter ceases to be an “eligible person” because—
 
@@ -26,13 +26,17 @@
 
 > then such eligible person (if such person has sufficient remaining entitlement) may, nevertheless, be afforded educational assistance under this chapter until the end of the quarter or semester for which enrolled if the educational institution in which such person is enrolled is operated on a quarter or semester system, or if the educational institution is not so operated until the end of the course, or until 12 weeks have expired, whichever first occurs.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1711; Pub. L. 88–361, §2, July 7, 1964, 78 Stat. 297; Pub. L. 89–358, §4(k), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §§1(c), 2(d), Oct. 23, 1968, 82 Stat. 1331, 1332; Pub. L. 91–24, §9(b), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §2, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 94–502, title III, §§303, 310(6), Oct. 15, 1976, 90 Stat. 2390, 2391; renumbered §3511 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(c), Oct. 10, 1991, 105 Stat. 620.)
+(c) Any entitlement used by an eligible person as a result of eligibility under section 3501(a)(1)(A)(iii), 3501(a)(1)(C), or 3501(a)(1)(D)(i) of this title shall be deducted from any entitlement to which such person may subsequently be entitled under this chapter.
 
-#### References in Text
-
-Sections 672, 673, and 673b of title 10, referred to in subsec. (a)(2)(B)(i), were renumbered sections 12301, 12302, and 12304, respectively, of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992. A new section 672 of Title 10 was enacted by section 1662(e)(4) of Pub. L. 103–337.
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1194, §1711; Pub. L. 88–361, §2, July 7, 1964, 78 Stat. 297; Pub. L. 89–358, §4(k), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §§1(c), 2(d), Oct. 23, 1968, 82 Stat. 1331, 1332; Pub. L. 91–24, §9(b), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §2, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 94–502, title III, §§303, 310(6), Oct. 15, 1976, 90 Stat. 2390, 2391; renumbered §3511 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–127, §2(c), Oct. 10, 1991, 105 Stat. 620; Pub. L. 107–103, title I, §§103(a), 108(b)(1), (c)(1), Dec. 27, 2001, 115 Stat. 979, 985.)
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–103, §108(c)(1), inserted at end “In no event may the aggregate educational assistance afforded to a spouse made eligible under both 3501(a)(1)(D)(i) and 3501(a)(1)(D)(ii) of this title exceed 45 months.”
+
+Subsec. (a)(2)(B)(i). Pub. L. 107–103, §103(a), substituted “to serve on active duty under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10;” for “, in connection with the Persian Gulf War, to serve on active duty under section 672(a), (d), or (g), 673, 673b, or 688 of title 10;”.
+
+Subsec. (c). Pub. L. 107–103, §108(b)(1), added subsec. (c).
 
 1991—Pub. L. 102–83, §5(a), renumbered section 1711 of this title as this section.
 
@@ -58,6 +62,12 @@ Subsec. (d). Pub. L. 90–631, §1(c), redesignated subsec. (d) as (b).
 
 1964—Subsec. (d). Pub. L. 88–361 added subsec. (d).
 
+#### Effective Date of 2001 Amendment
+
+Amendment by section 103(a) of Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of Pub. L. 107–103, set out as a note under section 3013 of this title.
+
+Pub. L. 107–103, title I, §108(c)(4), Dec. 27, 2001, 115 Stat. 985, provided that: “The amendments made by this subsection \[amending this section and section 3512 of this title\] shall apply with respect to any determination (whether administrative or judicial) of the eligibility of a spouse or surviving spouse for educational assistance under chapter 35 of title 38, United States Code, made on or after the date of the enactment of this Act \[Dec. 27, 2001\], whether pursuant to an original claim for such assistance or pursuant to a reapplication or attempt to reopen or readjudicate a claim for such assistance.”
+
 #### Effective Date of 1976 Amendment
 
 Amendment by sections 303 and 310(6) of Pub. L. 94–502 effective Oct. 1, 1976, and Oct. 15, 1976, respectively, see section 703(a), (b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
@@ -70,5 +80,5 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 
 This section is referred to in sections 3512, 3533, 3541 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “sections”.</i>
 

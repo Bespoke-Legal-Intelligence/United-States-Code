@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any mobile home or other readily fabricated dwelling provided under this sectionshall whenever possible be located on a site which—
+&emsp;&emsp;Any mobile home or other readily fabricated dwelling provided under this section shall whenever possible be located on a site which—
 
 &emsp;&emsp;&emsp;(i) is provided by the State or local government; and
 
@@ -94,7 +94,7 @@ In providing assistance under this section, consideration shall be given to the 
 
 #### <i>(1) Provision of assistance</i>
 
-&emsp;<i>In accordance with this section, the President, in consultation with the Governor of a State, may</i><i>provide financial assistance, and, if necessary, direct services, to individuals and households in the State who, as a direct result of a major disaster, have necessary expenses and serious needs in cases in which the individuals and households are unable to meet such expenses or needs through other means.</i>
+&emsp;<i>In accordance with this section, the President, in consultation with the Governor of a State, may provide financial assistance, and, if necessary, direct services, to individuals and households in the State who, as a direct result of a major disaster, have necessary expenses and serious needs in cases in which the individuals and households are unable to meet such expenses or needs through other means.</i>
 
 #### <i>(2) Relationship to other assistance</i>
 
@@ -134,7 +134,7 @@ In providing assistance under this section, consideration shall be given to the 
 
 #### <i>(i) In general</i>
 
-&emsp;&emsp;&emsp;<i>The President may provide temporary housing units, acquired by purchase or lease, directly to individuals or households who, because of a lack of available housing resources, would be unable to make use of the assistance provided under subparagraph (A).</i>
+&emsp;&emsp;&emsp;<i>The President may provide temporary housing units, acquired by purchase or lease, di</i><i>rectly to individuals or households who, because of a lack of available housing resources, would be unable to make use of the assistance provided under subparagraph (A).</i>
 
 #### <i>(ii) Period of assistance</i>
 
@@ -178,7 +178,7 @@ In providing assistance under this section, consideration shall be given to the 
 
 #### <i>(4) Permanent housing construction</i>
 
-&emsp;<i>The President may provide financial assistance or direct assistance to individuals or households</i><i>to construct permanent housing in insular areas outside the continental United States and in other remote locations in cases in which—</i>
+&emsp;<i>The President may provide financial assistance or direct assistance to individuals or households to construct permanent housing in insular areas outside the continental United States and in other remote locations in cases in which—</i>
 
 &emsp;&emsp;<i>(A) no alternative housing resources are available; and</i>
 
@@ -230,7 +230,7 @@ In providing assistance under this section, consideration shall be given to the 
 
 &emsp;&emsp;&emsp;<i>(i) may be sold to any person; or</i>
 
-&emsp;&emsp;&emsp;<i>(ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—</i>
+&emsp;&emsp;&emsp;<i>(ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing</i><i>temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—</i>
 
 &emsp;&emsp;&emsp;&emsp;<i>(I) to comply with the nondiscrimination provisions of section 5151 of this title; and</i>
 

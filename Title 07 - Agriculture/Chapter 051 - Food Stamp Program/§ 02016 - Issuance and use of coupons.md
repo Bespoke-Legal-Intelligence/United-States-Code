@@ -2,7 +2,7 @@
 
 #### (a) Printing
 
-Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
+Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and\(except as provided in subsection (j) of this section) shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
 
 #### (b) Approved food stores; receipt of cash in change for coupons used to purchase food
 
@@ -292,7 +292,7 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 #### (C) Smart card systems
 
-&emsp;&emsp;The Secretary shall allow a State agency that is using smart cards for the delivery offood stamp program benefits to comply with the requirements of paragraph (2) at such time after October 1, 2002, as the Secretary determines that a practicable technological method is available for interoperability with electronic benefit transfer cards.
+&emsp;&emsp;The Secretary shall allow a State agency that is using smart cards for the delivery of food stamp program benefits to comply with the requirements of paragraph (2) at such time after October 1, 2002, as the Secretary determines that a practicable technological method is available for interoperability with electronic benefit transfer cards.
 
 #### (6) Funding
 
@@ -368,7 +368,7 @@ Pub. L. 93–86 substituted provisions relating to determination of semiannual a
 
 1971—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted “any” before “households”.
 
-Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments withoutcharge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
+Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
 #### Effective Date of 1990 Amendment
 

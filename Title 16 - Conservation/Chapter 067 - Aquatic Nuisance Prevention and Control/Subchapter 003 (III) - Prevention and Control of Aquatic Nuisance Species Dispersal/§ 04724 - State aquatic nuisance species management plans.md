@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;After providing notice and opportunity for public comment, the Governor of each Statemay prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit—
+&emsp;After providing notice and opportunity for public comment, the Governor of each State may prepare and submit, or the Governors of the States and the governments of the Indian tribes involved in an interstate organization, may jointly prepare and submit—
 
 &emsp;&emsp;(A) a comprehensive management plan to the Task Force for approval which identifies those areas or activities within the State or within the interstate region involved, other than those related to public facilities, for which technical, enforcement, or financial assistance (or any combination thereof) is needed to eliminate or reduce the environmental, public health, and safety risks associated with aquatic nuisance species, particularly the zebra mussel; and
 
@@ -54,7 +54,7 @@
 
 #### (5) In-kind contributions
 
-&emsp;In addition to cash outlays and payments, in-kind contributions of property or personnel services by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
+&emsp;In addition to cash outlays and payments, in-kind contributions of property or personnelservices by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
 
 #### (c) Enforcement assistance
 

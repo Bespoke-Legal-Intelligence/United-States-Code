@@ -4,11 +4,15 @@
 
 If—
 
-&emsp;(1) there is a prohibited allocation of qualified securities by any employee stock ownership plan or eligible worker-owned cooperative, or
+&emsp;(1) there is a prohibited allocation of qualified securities by any employee stock ownership plan or eligible worker-owned cooperative,
 
 &emsp;(2) there is an allocation described in section 664(g)(5)(A),
 
-> there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.
+&emsp;(3) there is any allocation of employer securities which violates the provisions of section 409(p), or a nonallocation year described in subsection (e)(2)(C) with respect to an employee stock ownership plan, or
+
+&emsp;(4) any synthetic equity is owned by a disqualified person in any nonallocation year,
+
+> there is hereby imposed a tax on such allocation or ownership equal to 50 percent of the amount involved.
 
 #### (b) Prohibited allocation
 
@@ -20,13 +24,17 @@ For purposes of this section, the term “prohibited allocation” means—
 
 #### (c) Liability for tax
 
-The tax imposed by this section shall be paid by—
+The tax imposed by this section shall be paid—
 
-&emsp;(1) the employer sponsoring such plan, or
+&emsp;(1) in the case of an allocation referred to in paragraph (1) or (2) of subsection (a), by—
 
-&emsp;(2) the eligible worker-owned cooperative,
+&emsp;&emsp;(A) the employer sponsoring such plan, or
 
-> which made the written statement described in section 664(g)(1)(E) or in section 1042(b)(3)(B) (as the case may be).
+&emsp;&emsp;(B) the eligible worker-owned cooperative,
+
+> &emsp;which made the written statement described in section 664(g)(1)(E) or in section 1042(b)(3)(B) (as the case may be), and
+
+&emsp;(2) in the case of an allocation or ownership referred to in paragraph (3) or (4) of subsection (a), by the S corporation the stock in which was so allocated or owned.
 
 #### (d) Special statute of limitations for tax attributable to certain allocations
 
@@ -36,13 +44,57 @@ The statutory period for the assessment of any tax imposed by this section on an
 
 &emsp;(2) the date on which the Secretary is notified of the allocation described in subsection (a)(2).
 
-#### (e) Definitions
+#### (e) Definitions and special rules
 
-Terms used in this section have the same respective meaning as when used in section 4978.
+For purposes of this section—
 
-(Added and amended Pub. L. 99–514, title XI, §1172(b)(2), title XVIII, §1854(a)(9)(A), Oct. 22, 1986, 100 Stat. 2514, 2877; Pub. L. 101–239, title VII, §7304(a)(2)(D), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 104–188, title I, §1704(t)(22), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title XV, §1530(c)(15)–(17), Aug. 5, 1997, 111 Stat. 1079, 1080.)
+#### (1) Definitions
+
+&emsp;Except as provided in paragraph (2), terms used in this section have the same respective meanings as when used in sections 409 and 4978.
+
+#### (2) Special rules relating to tax imposed by reason of paragraph (3) or (4) of subsection (a)
+
+#### (A) Prohibited allocations
+
+&emsp;&emsp;The amount involved with respect to any tax imposed by reason of subsection (a)(3) is the amount allocated to the account of any person in violation of section 409(p)(1).
+
+#### (B) Synthetic equity
+
+&emsp;&emsp;The amount involved with respect to any tax imposed by reason of subsection (a)(4) is the value of the shares on which the synthetic equity is based.
+
+#### (C) Special rule during first nonallocation year
+
+&emsp;&emsp;For purposes of subparagraph (A), the amount involved for the first nonallocation year of any employee stock ownership plan shall be determined by taking into account the total value of all the deemed-owned shares of all disqualified persons with respect to such plan.
+
+#### (D) Statute of limitations
+
+&emsp;&emsp;The statutory period for the assessment of any tax imposed by this section by reason of paragraph (3) or (4) of subsection (a) shall not expire before the date which is 3 years from the later of—
+
+&emsp;&emsp;&emsp;(i) the allocation or ownership referred to in such paragraph giving rise to such tax, or
+
+&emsp;&emsp;&emsp;(ii) the date on which the Secretary is notified of such allocation or ownership.
+
+(Added and amended Pub. L. 99–514, title XI, §1172(b)(2), title XVIII, §1854(a)(9)(A), Oct. 22, 1986, 100 Stat. 2514, 2877; Pub. L. 101–239, title VII, §7304(a)(2)(D), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 104–188, title I, §1704(t)(22), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title XV, §1530(c)(15)–(17), Aug. 5, 1997, 111 Stat. 1079, 1080; Pub. L. 107–16, title VI, §656(c), June 7, 2001, 115 Stat. 134.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §§656(c)(1), 901, temporarily added pars. (3) and (4) and, in concluding provisions, substituted “there is hereby imposed a tax on such allocation or ownership equal to 50 percent of the amount involved.” for “there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c). Pub. L. 107–16, §§656(c)(2), 901, temporarily amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The tax imposed by this section shall be paid by—
+
+&emsp;“(1) the employer sponsoring such plan, or
+
+&emsp;“(2) the eligible worker-owned cooperative,
+
+> which made the written statement described in section 664(g)(1)(E) or in section 1042(b)(3)(B) (as the case may be).”
+
+> See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e). Pub. L. 107–16, §§656(c)(3), 901, temporarily amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Terms used in this section have the same respective meaning as when used in section 4978.” See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–34, §1530(c)(15), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If there is a prohibited allocation of qualified securities by any employee stock ownership plan or eligible worker-owned cooperative, there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved.”
 
@@ -66,6 +118,12 @@ Subsec. (c). Pub. L. 101–239, §7304(a)(2)(D)(ii), as amended by Pub. L. 104�
 
 Subsec. (c). Pub. L. 99–514, §1172(b)(2)(B), inserted reference to section 2057(d).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2004, except that in the case of any employee stock ownership plan established after Mar. 14, 2001, or established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of this title is not in effect on such date, amendment applicable to plan years ending after Mar. 14, 2001, see section 656(d) of Pub. L. 107–16, set out as a note under section 409 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
@@ -76,7 +134,7 @@ Amendment by Pub. L. 101–239 applicable to estates of decedents dying after De
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1172(b)(2) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, with respect towhich election is made by executor of an estate who is required to file the return of the tax imposed by this title on a date (including extensions) after Oct. 22, 1986, see section 1172(c) of Pub. L. 99–514, set out as a note under section 409 of this title.
+Amendment by section 1172(b)(2) of Pub. L. 99–514 applicable to sales after Oct. 22, 1986, with respect to which election is made by executor of an estate who is required to file the return of the tax imposed by this title on a date (including extensions) after Oct. 22, 1986, see section 1172(c) of Pub. L. 99–514, set out as a note under section 409 of this title.
 
 #### Effective Date
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) such additional duties,
 
-> &emsp;as the President determines to be necessary or appropriate to carry out or apply articles 302, 305, 307, 308, and 703 and Annexes 302.2, 307.1, 308.1, 308.2, 300–B, 703.2, and 703.3 of the Agreement.
+> &emsp;as the President determines to be necessary or appropriate to carry out or apply articles 302,305, 307, 308, and 703 and Annexes 302.2, 307.1, 308.1, 308.2, 300–B, 703.2, and 703.3 of the Agreement.
 
 #### (2) Effect on Mexican GSP status
 
@@ -36,7 +36,7 @@
 
 #### (2) Special rule for articles with tariff phaseout periods of more than 10 years
 
-&emsp;The President may not consider a request to accelerate the staging of duty reductions foran article for which the United States tariff phaseout period is more than 10 years if a request for acceleration with respect to such article has been denied in the preceding 3 calendar years.
+&emsp;The President may not consider a request to accelerate the staging of duty reductions for an article for which the United States tariff phaseout period is more than 10 years if a request for acceleration with respect to such article has been denied in the preceding 3 calendar years.
 
 #### (c) Conversion to ad valorem rates for certain textiles
 

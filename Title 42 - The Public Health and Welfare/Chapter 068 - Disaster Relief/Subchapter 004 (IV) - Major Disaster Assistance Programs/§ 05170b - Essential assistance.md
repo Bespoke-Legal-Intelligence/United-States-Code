@@ -36,7 +36,7 @@ Federal agencies may on the direction of the President, provide assistance essen
 
 #### (4) Contributions
 
-&emsp;Making contributions to State or local governments or owners or operators of privatenonprofit facilities for the purpose of carrying out the provisions of this subsection.
+&emsp;Making contributions to State or local governments or owners or operators of private nonprofit facilities for the purpose of carrying out the provisions of this subsection.
 
 #### (b) Federal share
 

@@ -20,7 +20,7 @@
 
 &emsp;(2) is an unserviceable firearm, other than a machinegun as defined in section 5845(b) of the Internal Revenue Code of 1986 (not readily restorable to firing condition), imported or brought in as a curio or museum piece;
 
-&emsp;(3) is of a type that does not fall within the definition of a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 and is generally recognized as particularlysuitable for or readily adaptable to sporting purposes, excluding surplus military firearms, except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled; or
+&emsp;(3) is of a type that does not fall within the definition of a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 and is generally recognized as particularly suitable for or readily adaptable to sporting purposes, excluding surplus military firearms, except in any case where the Secretary has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled; or
 
 &emsp;(4) was previously taken out of the United States or a possession by the person who is bringing in the firearm or ammunition.
 
@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 90–618 added licensed collectors to the enumerated list o
 
 Subsec. (c). Pub. L. 90–618 substituted “imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, or possession of firearms and” for “under this chapter”, “to act in a manner dangerous to public safety” for “to conduct his operations in an unlawful manner,” and “licensed importer, licensed manufacturer, licensed dealer, or licensed collector” for “licensee”.
 
-Subsec. (d). Pub. L. 90–618 made minor changes in phraseology, subjected ammunition to the authority of the Secretary in text preceding par. (1), substituted “section 5845(b)” for “section 5848(2)” in par. (2), substituted “section 5845(a)” for “section 5848(1)” and “excluding surplus military firearms” for “and in the case of surplus military firearms is a rifle or shotgun” in par. (3), inserted “or ammunition” after “the firearm”in par. (4), and authorized the Secretary to permit the importation of ammunition for examination and testing in text following par. (4).
+Subsec. (d). Pub. L. 90–618 made minor changes in phraseology, subjected ammunition to the authority of the Secretary in text preceding par. (1), substituted “section 5845(b)” for “section 5848(2)” in par. (2), substituted “section 5845(a)” for “section 5848(1)” and “excluding surplus military firearms” for “and in the case of surplus military firearms is a rifle or shotgun” in par. (3), inserted “or ammunition” after “the firearm” in par. (4), and authorized the Secretary to permit the importation of ammunition for examination and testing in text following par. (4).
 
 #### Effective Date of 1996 Amendment
 

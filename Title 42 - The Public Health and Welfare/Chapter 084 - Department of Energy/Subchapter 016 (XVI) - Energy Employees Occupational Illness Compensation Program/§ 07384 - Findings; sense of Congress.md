@@ -50,13 +50,49 @@ It is the sense of Congress that—
 
 Pub. L. 106–398, §1 \[div. C, title XXXVI, §3601\], Oct. 30, 2000, 114 Stat. 1654, 1654A–495, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Energy Employees Occupational Illness Compensation Program Act of 2000’.”
 
+#### Study of Residual Contamination of Facilities
+
+Pub. L. 107–107, div. C, title XXXI, §3151(b), Dec. 28, 2001, 115 Stat. 1375, provided that:
+
+“(1) The National Institute for Occupational Safety and Health shall, with the cooperation of the Department of Energy and the Department of Labor, carry out a study on the following matters:
+
+&emsp;“(A) Whether or not significant contamination remained in any atomic weapons employer facility or facility of a beryllium vendor after such facility discontinued activities relating to the production of nuclear weapons.
+
+&emsp;“(B) If so, whether or not such contamination could have caused or substantially contributed to the cancer of a covered employee with cancer or a covered beryllium illness, as the case may be.
+
+“(2)(A) The National Institute for Occupational Safety and Health shall submit to the applicable congressional committees the following reports:
+
+&emsp;“(i) Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\], a report on the progress made as of the date of the report on the study required by paragraph (1).
+
+&emsp;“(ii) Not later than one year after the date of the enactment of this Act, a final report on the study required by paragraph (1).
+
+“(B) In this paragraph, the term ‘applicable congressional committees’ means—
+
+&emsp;“(i) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Health, Education, Labor, and Pensions of the Senate; and
+
+&emsp;“(ii) the Committee on Armed Services, Committee on Appropriations, Committee on the Judiciary, and Committee on Education and the Workforce of the House of Representatives.
+
+“(3) Amounts for the study under paragraph (1) shall be derived from amounts authorized to be appropriated by section 3614(a) of the Energy Employees Occupational Illness Compensation Program Act of 2000 (114 Stat. 1654A–498) \[42 U.S.C. 7384g(a)\].
+
+“(4) In this subsection:
+
+&emsp;“(A) The terms ‘atomic weapons employer facility’, ‘beryllium vendor’, ‘covered employee with cancer’, and ‘covered beryllium illness’ have the meanings given those terms in section 3621 of the Energy Employees Occupational Illness Compensation Program Act of 2000 (114 Stat. 1654A–498; 42 U.S.C. 7384<i>l</i>).
+
+&emsp;“(B) The term ‘contamination’ means the presence of any—
+
+&emsp;&emsp;“(i) material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling; or
+
+&emsp;&emsp;“(ii) beryllium dust, particles, or vapor,
+
+> &emsp;exposure to which could cause or substantially contribute to the cancer of a covered employee with cancer or a covered beryllium illness, as the case may be.”
+
 #### Ex. Ord. No. 13179. Providing Compensation to America's Nuclear Weapons Workers
 
 Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including Public Law 106–398, the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384 et seq.\] (Public Law 106–398, the “Act”), and to allocate the responsibilities imposed by that legislation and to provide for further legislative efforts, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and women have served their Nation in building its nuclear defense. In the course of their work, they overcame previously unimagined scientific and technical challenges. Thousands of these courageous Americans, however, paid a high price for their service, developing disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, and other hazards unique to nuclear weapons production and testing. Too often, these workers were neither adequately protected from, nor informed of, the occupational hazards to which they were exposed.
+Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and women have served their Nationin building its nuclear defense. In the course of their work, they overcame previously unimagined scientific and technical challenges. Thousands of these courageous Americans, however, paid a high price for their service, developing disabling or fatal illnesses as a result of exposure to beryllium, ionizing radiation, and other hazards unique to nuclear weapons production and testing. Too often, these workers were neither adequately protected from, nor informed of, the occupational hazards to which they were exposed.
 
 Existing workers’ compensation programs have failed to provide for the needs of these workers and their families. Federal workers’ compensation programs have generally not included these workers. Further, because of long latency periods, the uniqueness of the hazards to which they were exposed, and inadequate exposure data, many of these individuals have been unable to obtain State workers’ compensation benefits. This problem has been exacerbated by the past policy of the Department of Energy (DOE) and its predecessors of encouraging and assisting DOE contractors in opposing the claims of workers who sought those benefits. This policy has recently been reversed.
 

@@ -4,7 +4,7 @@
 
 The Secretary and the Service shall conduct, in conjunction with other appropriate Federal agencies and in consultation with concerned Indian tribes and organizations, a study of the health hazards to Indian miners and Indians on or near Indian reservations and in Indian communities as a result of nuclear resource development. Such study shall include—
 
-&emsp;(1) an evaluation of the nature and extent of nuclear resource development related health problems currently exhibited among Indians and the causes of such health problems;
+&emsp;(1) an evaluation of the nature and extent of nuclear resource development related healthproblems currently exhibited among Indians and the causes of such health problems;
 
 &emsp;(2) an analysis of the potential effect of ongoing and future nuclear resource development on or near Indian reservations and communities;
 

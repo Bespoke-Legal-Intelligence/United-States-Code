@@ -1,6 +1,6 @@
 ### §6124. Approval of application
 
-The Secretaries may approve an application submitted by a State under section 6123 of this title only if the State demonstrates in such application that the activities proposed to be undertaken by the State to develop a statewideSchool-to-Work Opportunities system are consistent with the State improvement plan for the State, if any, under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\].
+The Secretaries may approve an application submitted by a State under section 6123 of this title only if the State demonstrates in such application that the activities proposed to be undertaken by the State to develop a statewide School-to-Work Opportunities system are consistent with the State improvement plan for the State, if any, under the Goals 2000: Educate America Act \[20 U.S.C. 5801 et seq.\].
 
 (Pub. L. 103–239, title II, §204, May 4, 1994, 108 Stat. 580.)
 

@@ -16,13 +16,13 @@ The Director of the Institute may designate National Drug Abuse Research Centers
 
 &emsp;&emsp;(E) the applicant has the capacity to conduct courses on drug abuse problems and research on drug abuse for undergraduate and graduate students, and medical and osteopathic, nursing, social work, and other specialized graduate students; and
 
-&emsp;&emsp;(F) the applicant has the capacity to conduct programs of continuing education in such medical, legal, and social service fields as the Secretary may require.<sup>1</sup>
+&emsp;&emsp;(F) the applicant has the capacity to conduct programs of continuing education insuch medical, legal, and social service fields as the Secretary may require.<sup>1</sup>
 
 &emsp;(2) the application contains a detailed five-year plan for research relating to drug abuse.
 
 #### (b) Grants
 
-The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of thepreceding sentence, the term “construction” has the meaning given that term by section 292a(1) <sup>2</sup> of this title.
+The Director of the Institute shall, under such conditions as the Secretary may reasonably require, make annual grants to Centers which have been designated under this section. No funds provided under a grant under this subsection may be used for the purchase of any land or the purchase, construction, preservation, or repair of any building. For the purposes of the preceding sentence, the term “construction” has the meaning given that term by section 292a(1) <sup>2</sup> of this title.
 
 #### (c) Methamphetamine research
 

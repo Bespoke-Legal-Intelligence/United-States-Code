@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in section 2511(2)(a)(ii), any person whose wire, oral, orelectronic communication is intercepted, disclosed, or intentionally used in violation of this chapter may in a civil action recover from the person or entity which engaged in that violation such relief as may be appropriate.
+In General.—Except as provided in section 2511(2)(a)(ii), any person whose wire, oral, or electronic communication is intercepted, disclosed, or intentionally used in violation of this chapter may in a civil action recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
 
 (b)
 
@@ -44,9 +44,25 @@ Defense.—A good faith reliance on—
 
 Limitation.—A civil action under this section may not be commenced later than two years after the date upon which the claimant first has a reasonable opportunity to discover the violation.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, §211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, §103, Oct. 21, 1986, 100 Stat. 1853.)
+(f)
+
+Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
+
+(g)
+
+Improper Disclosure Is Violation.—Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).
+
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, §211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, §103, Oct. 21, 1986, 100 Stat. 1853; Pub. L. 107–56, title II, §223(a), Oct. 26, 2001, 115 Stat. 293.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–56, §§223(a)(1), 224, temporarily inserted “, other than the United States,” after “person or entity”. See Termination Date of 2001 Amendment note below.
+
+Subsecs. (f), (g). Pub. L. 107–56, §§223(a)(2), (3), 224, temporarily added subsecs. (f) and (g). See Termination Date of 2001 Amendment note below.
 
 1986—Pub. L. 99–508 amended section generally. Prior to amendment, section read as follows: “Any person whose wire or oral communication is intercepted, disclosed, or used in violation of this chapter shall (1) have a civil cause of action against any person who intercepts, discloses, or uses, or procures any other person to intercept, disclose, or use such communications, and (2) be entitled to recover from any such person—
 
@@ -59,6 +75,10 @@ Limitation.—A civil action under this section may not be commenced later than 
 > A good faith reliance on a court order or legislative authorization shall constitute a complete defense to any civil or criminal action brought under this chapter or under any other law.”
 
 1970—Pub. L. 91–358 substituted provisions that a good faith reliance on a court order or legislative authorization constitute a complete defense to any civil or criminal action brought under this chapter or under any other law, for provisions that a good faith reliance on a court order or on the provisions of section 2518(7) of this chapter constitute a complete defense to any civil or criminal action brought under this chapter.
+
+#### Termination Date of 2001 Amendment
+
+Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of this title.
 
 #### Effective Date of 1986 Amendment
 

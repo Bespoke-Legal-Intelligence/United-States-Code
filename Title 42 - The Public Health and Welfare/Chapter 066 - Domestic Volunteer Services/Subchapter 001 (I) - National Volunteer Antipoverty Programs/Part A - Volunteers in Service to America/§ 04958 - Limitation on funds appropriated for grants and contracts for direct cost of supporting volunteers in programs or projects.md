@@ -1,6 +1,6 @@
 ### §4958. Limitation on funds appropriated for grants and contracts for direct cost of supporting volunteers in programs or projects
 
-(a) Of funds appropriated for the purpose of this part under section 5081 of this title, not more than 30 percent for the fiscal year ending September 30, 1984, and for each fiscal year thereafter, may be obligated for the direct cost of supporting volunteers in programs or projects carried out pursuant to grants and contracts made under section 5042(12) <sup>1</sup> of this title.
+(a) Of funds appropriated for the purpose of this part under section 5081 of this title, notmore than 30 percent for the fiscal year ending September 30, 1984, and for each fiscal year thereafter, may be obligated for the direct cost of supporting volunteers in programs or projects carried out pursuant to grants and contracts made under section 5042(12) <sup>1</sup> of this title.
 
 (b) No funds shall be obligated under this part pursuant to grants or contracts made after December 13, 1979, for new projects for the direct cost of supporting volunteers unless the recipient of each such grant or contract has been selected through a competitive process which includes—
 
@@ -18,7 +18,7 @@ Section 5042 of this title, referred to in subsec. (a), was repealed by Pub. L. 
 
 1989—Subsec. (a). Pub. L. 101–204 substituted “30 percent” for “16 per centum”.
 
-1984—Subsec. (a). Pub. L. 98–288, §8(1), (2), substituted “1984” for “1977”, and struck out “During the fiscal year ending September 30, 1980—(1) in no event may in excess of $5,800,000 be used pursuant to grants and contracts under this part for the direct cost of supporting such volunteers; and (2) funds obligated pursuant tosuch grants and contracts for such cost may be used to support no greater number of years of volunteer service than the number of such years supported during the fiscal year ending September 30, 1979, pursuant to grants and contracts for such cost.”
+1984—Subsec. (a). Pub. L. 98–288, §8(1), (2), substituted “1984” for “1977”, and struck out “During the fiscal year ending September 30, 1980—(1) in no event may in excess of $5,800,000 be used pursuant to grants and contracts under this part for the direct cost of supporting such volunteers; and (2) funds obligated pursuant to such grants and contracts for such cost may be used to support no greater number of years of volunteer service than the number of such years supported during the fiscal year ending September 30, 1979, pursuant to grants and contracts for such cost.”
 
 Subsec. (b)(2). Pub. L. 98–288, §8(3), struck out “human, social, or environmental” after “poverty-related”.
 

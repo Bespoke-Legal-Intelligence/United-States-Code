@@ -30,11 +30,7 @@
 | :--- | ---: |
 | [731\.](Subchapter%20003%20%28III%29%20-%20Communications%20Satellite%20Corporation/%C2%A7%2000731%20-%20Creation%20of%20corporation.md) | Creation of corporation. |
 | [732\.](Subchapter%20003%20%28III%29%20-%20Communications%20Satellite%20Corporation/%C2%A7%2000732%20-%20Applicable%20laws.md) | Applicable laws. |
-| 733, 734. Omitted. |  |
-| [735\.](Subchapter%20003%20%28III%29%20-%20Communications%20Satellite%20Corporation/%C2%A7%2000735%20-%20Powers%20of%20corporation.md) | Powers of corporation. |
-| (a) | Authorized powers. |
-| (b) | Specific corporate activities. |
-| (c) | Usual powers of stock corporation. |
+| 733 to 735. Omitted. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -126,7 +126,7 @@ Section 142(c) of Pub. L. 95–600 provided that: “The amendments made by this
 
 Amendment by section 156(c)(4) of Pub. L. 95–600 applicable to distributions or transfers made after Dec. 31, 1977, in taxable years beginning after such date, see section 156(d) of Pub. L. 95–600, set out as a note under section 403 of this title.
 
-Section 702(j)(3)(A) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
+Section 702(j)(3)(A) of Pub. L. 95–600 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall apply to the estates of decedents dying after December 31, 1976.”
 
 #### Effective Date of 1976 Amendment
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 93–406 applicable to taxable years ending on or after Sep
 
 #### Effective Date of 1972 Amendment
 
-Section 2(b) of Pub. L. 92–580, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:“The amendment made by subsection (a) \[amending this section\] shall apply with respect to estate of decedents for which the period prescribed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for filing of a claim for credit or refund of an overpayment of estate tax ends on or after the date of enactment of this Act \[Oct. 27, 1972\]. No interest shall be allowed or paid on any overpayment of estate tax resulting from the application of the amendment made by subsection (a) for any period prior to the expiration of the one hundred and eightieth day following the date of the enactment of this Act.”
+Section 2(b) of Pub. L. 92–580, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to estate of decedents for which the period prescribed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for filing of a claim for credit or refund of an overpayment of estate tax ends on or after the date of enactment of this Act \[Oct. 27, 1972\]. No interest shall be allowed or paid on any overpayment of estate tax resulting from the application of the amendment made by subsection (a) for any period prior to the expiration of the one hundred and eightieth day following the date of the enactment of this Act.”
 
 #### Effective Date of 1969 Amendment
 

@@ -36,7 +36,7 @@ The level of price support for any commodity shall be determined upon the basis 
 
 This Act, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as The Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
@@ -923,7 +923,7 @@ In General.—\[Amended section 7251 of this title.\]
 
 “(b)
 
-Conforming Amendment.—\[Amended section 7252 of this title.\]
+Conforming Amendment.—\[Amended former section 7252 of this title.\]
 
 #### “Subtitle B—Other Assistance
 
@@ -1133,7 +1133,7 @@ Designation as Emergency Requirement.—Such sums as are necessary to carry out 
 
 Pub. L. 106–31, title I, §104, May 21, 1999, 113 Stat. 62, provided that: “For an additional amount for the Livestock Assistance Program under Public Law 105–277 \[see section 101(a) \[title XI\] of Pub. L. 105–277, set out below\], $70,000,000: <i>Provided</i>, That for the purposes of section 1103 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (Public Law 105–277) \[set out below\], notwithstanding any other provision of law or regulation, the definition of ‘livestock’ shall include ‘reindeer’: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request for $70,000,000, that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[see Short Title note set out under section 900 of Title 2, The Congress\], is transmitted by the President to the Congress: <i>Provided further</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of such Act \[2 U.S.C. 901(b)(2)(A)\].”
 
-Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, §1(a) \[title VII, §754\], Oct. 28, 2000, 114 Stat. 1549, 1549A–42, provided that:
+Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, §1(a) \[title VII, §754\], Oct. 28, 2000, 114 Stat. 1549, 1549A–42; Pub. L. 107–25, §9, Aug. 13, 2001, 115 Stat. 203, provided that:
 
 #### “Subtitle A—Emergency Assistance for Crop and Livestock Feed Losses Due to Disasters
 
@@ -1261,31 +1261,31 @@ Federal Contribution.—Subject to subsection (b), the Secretary of Agriculture 
 
 “(b)
 
-Conditions on Payment to State.—The Secretary of Agriculture shall make the payment to the State of Georgia under subsection (a) only if the State also contributes $5,000,000 to the indemnity fund and agrees to expend all amounts in the indemnity fund by not later than January 1, 2001, to provide compensation to cotton producers as provided in such subsection. If the State of Georgia fails to make its contribution of $5,000,000 to the indemnity fund by July 1, 1999, the funds that would otherwise be paid to the State shall be available to the Secretary for the purpose of providing partial compensation to cotton producers as provided in such subsection.
+Conditions on Payment to State.—The Secretary of Agriculture shall make the payment to the State of Georgia under subsection (a) only if the State—
+
+&emsp;“(1) contributes $5,000,000 to the indemnity fund and agrees to expend all amounts in the indemnity fund by not later than January 1, 2002 (or as soon as administratively practical thereafter), to provide compensation to cotton producers as provided in such subsection;
+
+&emsp;“(2) requires the recipient of a payment from the indemnity fund to repay the State, for deposit in the indemnity fund, the amount of any duplicate payment the recipient otherwise recovers for such loss of cotton, or the loss of proceeds from the sale of cotton, up to the amount of the payment from the indemnity fund; and
+
+&emsp;“(3) agrees to deposit in the indemnity fund the proceeds of any bond collected by the State for the benefit of recipients of payments from the indemnity fund, to the extent of such payments.
 
 “(c)
 
-Reporting Requirements.—Upon the establishment of the indemnity fund, and not later than October 1, 1999, the State of Georgia shall submit a report to the Secretary of Agriculture and the Congress describing the State's efforts to use the indemnity fund to provide compensation to injured cotton producers.
+Reporting Requirements.—The State of Georgia shall submit a report to the Secretary of Agriculture and the Congress describing the State's efforts to use the indemnity fund to provide compensation to injured cotton producers.
 
 “(d)
 
-Additional Disbursement.—
+Additional Disbursement to Cotton Ginners.—The State of Georgia shall use funds remaining in the indemnity fund, after the provision of compensation to cotton producers in Georgia under subsection (a) (including cotton producers who file a contingent claim, as defined and provided in section 5.1 of chapter 19 of title 2 of the Official Code of Georgia), to compensate cotton ginners (as defined and provided in such section) that—
 
-&emsp;“(1)
+&emsp;“(1) incurred a loss as the result of—
 
-Cotton stored in georgia.—The State of Georgia may use funds remaining in the indemnity fund established in accordance with this section to compensate cotton producers in other States who stored cotton in the State of Georgia and incurred losses in 1998 or 1999 as the result of the events described in subsection (a).
+&emsp;&emsp;“(A) the business failure of any cotton buyer doing business in Georgia; or
 
-&emsp;“(2)
+&emsp;&emsp;“(B) the failure or refusal of any such cotton buyer to pay the contracted price that had been agreed upon by the ginner and the buyer for cotton grown in Georgia on or after January 1, 1997, and had been purchased or contracted by the ginner from cotton producers in Georgia;
 
-Ginners and others.—The State of Georgia may also use funds remaining in the indemnity fund established in accordance with this section to compensate cotton ginners and others in the business of producing, ginning, warehousing, buying, or selling cotton for losses they incurred in 1998 or 1999 as the result of the events described in subsection (a), if—
+&emsp;“(2) paid cotton producers the amount which the cotton ginner had agreed to pay for such cotton received from such cotton producers in Georgia; and
 
-&emsp;&emsp;“(A) as of March 1, 2000, the indemnity fund has not been exhausted,
-
-&emsp;&emsp;“(B) the State of Georgia provides cotton producers an additional time period prior to May 1, 2000, in which to establish eligibility for compensation under this section;
-
-&emsp;&emsp;“(C) the State of Georgia determines during calendar year 2000 that all cotton producers in that State and cotton producers in other States as described in paragraph (d)(1) have been appropriately compensated for losses incurred in 1998 or 1999 as described in subsection (a); and
-
-&emsp;&emsp;“(D) such additional compensation is not made available until May 1, 2000.
+&emsp;“(3) satisfy the procedural requirements and deadlines specified in chapter 19 of title 2 of the Official Code of Georgia applicable to cotton ginner claims.
 
 #### “SEC. 1122. HONEY RECOURSE LOANS.
 
@@ -1389,7 +1389,7 @@ Pub. L. 101–624, title XXV, §2515, Nov. 28, 1990, 104 Stat. 4075, authorized 
 
 #### Recordkeeping Improvement
 
-Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as “Agricultural Program Reporting and Recordkeeping Improvement Act of 1990”, directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
+Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as “Agricultural Program Reporting and RecordkeepingImprovement Act of 1990”, directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
 
 #### Readjustment of Support Levels
 

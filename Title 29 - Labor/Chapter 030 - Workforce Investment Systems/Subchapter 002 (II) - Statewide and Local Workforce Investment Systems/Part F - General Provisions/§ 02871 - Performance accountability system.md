@@ -56,7 +56,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each State submitting a State plan, there shall be established, in accordance with this subparagraph, levels of performance for each of the core indicators of performance described in paragraph (2)(A) and the customer satisfaction indicator described in paragraph (2)(B) for workforce investment activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
+&emsp;&emsp;&emsp;For each State submitting a State plan, there shall be established, in accordancewith this subparagraph, levels of performance for each of the core indicators of performance described in paragraph (2)(A) and the customer satisfaction indicator described in paragraph (2)(B) for workforce investment activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) be expressed in an objective, quantifiable, and measurable form; and
 
@@ -98,7 +98,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 &emsp;For each local area in a State, the local performance measures shall consist of—
 
-&emsp;&emsp;(A)(i) the core indicators of performance described in subsection (b)(2)(A) of this section, and the customer satisfaction indicator of performance described in subsection\(b)(2)(B) of this section, for activities described in such subsections, other than statewide workforce investment activities; and
+&emsp;&emsp;(A)(i) the core indicators of performance described in subsection (b)(2)(A) of this section, and the customer satisfaction indicator of performance described in subsection (b)(2)(B) of this section, for activities described in such subsections, other than statewide workforce investment activities; and
 
 &emsp;&emsp;(ii) additional indicators of performance (if any) identified by the State under subsection (b)(2)(C) of this section for activities described in such subsection, other than statewide workforce investment activities; and
 
@@ -116,7 +116,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) In general
 
-&emsp;Each State that receives an allotment under section 2852 or 2862 of this title shall annually prepare and submit to the Secretary a report on the progress of the State in achieving State performance measures, including information on the levels of performance achieved by the State with respect to the core indicators of performance and the customer satisfaction indicator. The annual report also shall include information regarding the progress of local areas in the State in achieving local performance measures, including information on the levels of performance achieved by the areas with respect to the core indicators of performance and the customer satisfaction indicator. The report also shall include information on the status of State evaluations of workforce investment activities described in subsection (e) of this section.
+&emsp;Each State that receives an allotment under section 2852 or 2862 of this title shall annuallyprepare and submit to the Secretary a report on the progress of the State in achieving State performance measures, including information on the levels of performance achieved by the State with respect to the core indicators of performance and the customer satisfaction indicator. The annual report also shall include information regarding the progress of local areas in the State in achieving local performance measures, including information on the levels of performance achieved by the areas with respect to the core indicators of performance and the customer satisfaction indicator. The report also shall include information on the status of State evaluations of workforce investment activities described in subsection (e) of this section.
 
 #### (2) Additional information
 
@@ -162,7 +162,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) In general
 
-&emsp;Using funds made available under this subchapter, the Governor, in coordination with local boards and chief elected officials in theState, shall establish and operate a fiscal and management accountability information system based on guidelines established by the Secretary after consultation with the Governors, local elected officials, and one-stop partners. Such guidelines shall promote efficient collection and use of fiscal and management information for reporting and monitoring the use of funds made available under this subchapter and for preparing the annual report described in subsection (d) of this section.
+&emsp;Using funds made available under this subchapter, the Governor, in coordination with local boards and chief elected officials in the State, shall establish and operate a fiscal and management accountability information system based on guidelines established by the Secretary after consultation with the Governors, local elected officials, and one-stop partners. Such guidelines shall promote efficient collection and use of fiscal and management information for reporting and monitoring the use of funds made available under this subchapter and for preparing the annual report described in subsection (d) of this section.
 
 #### (2) Wage records
 
@@ -244,7 +244,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(3)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (b)(3)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 This Act, referred to in subsec. (f)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

@@ -1,6 +1,6 @@
 ### §292. District judges
 
-(a) The chief judge of a circuit may designate and assign one or more district judges withinthe circuit to sit upon the court of appeals or a division thereof whenever the business of that court so requires. Such designations or assignments shall be in conformity with the rules or orders of the court of appeals of the circuit.
+(a) The chief judge of a circuit may designate and assign one or more district judges within the circuit to sit upon the court of appeals or a division thereof whenever the business of that court so requires. Such designations or assignments shall be in conformity with the rules or orders of the court of appeals of the circuit.
 
 (b) The chief judge of a circuit may, in the public interest, designate and assign temporarily any district judge of the circuit to hold a district court in any district within the circuit.
 
@@ -48,7 +48,7 @@ Many changes were made in phraseology.
 
 <b>1958</b>—Subsecs. (a) to (c). Pub. L. 85–755 reenacted subsecs. (a) to (c) without change.
 
-Subsec. (d). Pub. L. 85–755 incorporated provisions for assignment of district judges to the Court of Customs and Patent Appeals and the Customs Court, formerly contained in section 293 of this title and subsec. (f) of this section.
+Subsec. (d). Pub. L. 85–755 incorporated provisions for assignment of district judges to the Court of Customs and Patent Appeals and the Customs Court, formerlycontained in section 293 of this title and subsec. (f) of this section.
 
 Subsec. (e). Pub. L. 85–755 struck out subsec. (e) which provided for assignment of judges of the Court of Claims to district courts. See section 293(a) of this title.
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
 #### Effective Date of 1970 Amendment
 

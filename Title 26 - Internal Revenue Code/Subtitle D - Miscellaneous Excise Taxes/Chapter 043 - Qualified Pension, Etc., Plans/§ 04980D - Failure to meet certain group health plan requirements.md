@@ -52,7 +52,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 &emsp;&emsp;(A) such failure was due to reasonable cause and not to willful neglect, and
 
-&emsp;&emsp;(B)(i) in the case of a plan other than a church plan (as defined in section 414(e)), such failure is corrected during the 30-day period beginning on the first date the person otherwise liable for such tax knew, or exercising reasonable diligence would have known, that such failure existed, and
+&emsp;&emsp;(B)(i) in the case of a plan other than a church plan (as defined in section 414(e)),such failure is corrected during the 30-day period beginning on the first date the person otherwise liable for such tax knew, or exercising reasonable diligence would have known, that such failure existed, and
 
 &emsp;&emsp;(ii) in the case of a church plan (as so defined), such failure is corrected before the close of the correction period (determined under the rules of section 414(e)(4)(C)).
 

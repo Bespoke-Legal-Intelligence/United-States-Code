@@ -130,7 +130,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (1) Timetable required
 
-&emsp;The Secretary shall, as part of the reports required by subsections (a) and (d)(1) of this section, include a timetable that recommendseffective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
+&emsp;The Secretary shall, as part of the reports required by subsections (a) and (d)(1) of this section, include a timetable that recommends effective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
 
 #### (2) Expedited reallocation
 
@@ -178,11 +178,11 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (ii) Availability
 
-&emsp;&emsp;&emsp;Subject to the provisions of authorization Acts and appropriations Acts, amounts deposited under this subparagraph shall be available to the Federal entity concerned to pay directly the costs of relocation under this paragraph, to repay or make advances to appropriations or funds which do or will initially bear all or part of such costs, or to refund excess sums when necessary.
+&emsp;&emsp;&emsp;Subject to the provisions of authorization Acts and appropriations Acts, amounts deposited under this subparagraph shall be available to the Federal entity concerned to pay directly the costs of relocation under this paragraph, to repay or make advances to appropriations orfunds which do or will initially bear all or part of such costs, or to refund excess sums when necessary.
 
 #### (D) Application to certain other relocations
 
-&emsp;&emsp;The provisions of this paragraph also apply to any Federal entity that operates a Federal Government station assigned to used <sup>1</sup> electromagnetic spectrum identified for reallocation under subsection (a) of this section if before August 5, 1997, the Commission has not identified that spectrum for serviceor assigned licenses or otherwise authorized service for that spectrum.
+&emsp;&emsp;The provisions of this paragraph also apply to any Federal entity that operates a Federal Government station assigned to used <sup>1</sup> electromagnetic spectrum identified for reallocation under subsection (a) of this section if before August 5, 1997, the Commission has not identified that spectrum for service or assigned licenses or otherwise authorized service for that spectrum.
 
 #### (E) Implementation procedures
 
@@ -234,7 +234,7 @@ Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f
 
 1999—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “12 megahertz” for “20 megahertz”.
 
-1998—Subsec. (g)(1). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.” for “Such payments may be in advance of relocation and may be in cash or in kind. Any such payment in cash shall be deposited in the account of such Federal entity in the Treasury of the United States or in a separate account authorized by law. Funds deposited according to this paragraph shall be available, without appropriation or fiscal year limitation, only for such expenses of the Federal entity for which such funds were deposited under this paragraph.”, and added subpars. (B) to (F).
+1998—Subsec. (g)(1). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turnshall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.” for “Such payments may be in advance of relocation and may be in cash or in kind. Any such payment in cash shall be deposited in the account of such Federal entity in the Treasury of the United States or in a separate account authorized by law. Funds deposited according to this paragraph shall be available, without appropriation or fiscal year limitation, only for such expenses of the Federal entity for which such funds were deposited under this paragraph.”, and added subpars. (B) to (F).
 
 1997—Subsec. (a). Pub. L. 105–33, §3002(e)(1), inserted “and within 6 months after August 5, 1997” after “August 10, 1993,” in introductory provisions.
 

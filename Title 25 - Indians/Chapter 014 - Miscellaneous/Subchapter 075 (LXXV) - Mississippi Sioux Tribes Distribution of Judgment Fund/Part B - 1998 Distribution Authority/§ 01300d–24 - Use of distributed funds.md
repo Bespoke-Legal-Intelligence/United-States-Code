@@ -12,7 +12,7 @@ The funds allocated under section 1300d–23 of this title may be used, administ
 
 &emsp;(2) the development of resources of the covered Indian tribe;
 
-&emsp;(3) the development of programs that are beneficial to members of the covered Indiantribe, including educational and social welfare programs;
+&emsp;(3) the development of programs that are beneficial to members of the covered Indian tribe, including educational and social welfare programs;
 
 &emsp;(4) the payment of any existing obligation or debt (existing as of the date of the distribution of the funds) arising out of any activity referred to in paragraph (1), (2), or (3);
 

@@ -42,7 +42,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;(5) Every estate or trust of which any beneficiary is a nonresident alien;
 
-&emsp;(6) Every political organization (within the meaning of section 527(e)(1)), and every fund treated under section 527(g) as if it constituted a political organization, which has political organization taxable income (within the meaning of section 527(c)(1)) for the taxable year or which has gross receipts of $25,000 or more for the taxable year (other than an organization to which section 527 applies solely by reason of subsection (f)(1) of such section); and <sup>1</sup>
+&emsp;(6) Every political organization (within the meaning of section 527(e)(1)), and every fund treated under section 527(g) as if it constituted a political organization, which has political organization taxable income (within the meaning of section 527(c)(1)) for the taxable year or which has gross receipts of $25,000 or more for the taxable year (other than an organization to which section 527 applies solely byreason of subsection (f)(1) of such section); and <sup>1</sup>
 
 &emsp;(7) Every homeowners association (within the meaning of section 528(c)(1)) which has homeowners association taxable income (within the meaning of section 528(d)) for the taxable year.<sup>1</sup>
 
@@ -174,7 +174,7 @@ Subsec. (b)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegat
 
 <b>1975</b>—Subsec. (a)(1)(A). Pub. L. 94–164 substituted “$2,450” for “$2,350” in cl. (i), “$2,850” for “$2,650” in cl. (ii), and “$3,600” for “$3,400” in cl. (iii).
 
-Pub. L. 94–12 substituted “(determined by applying section 143), is not a surviving spouse (as defined in section 2(a)), and for the taxable year has a gross income of less than $2,350” for “determined by applying section 143(a)) and for the taxable year has a gross income of less than $2,050, or” in cl. (i), added cl. (ii), redesignated existing cl. (ii) as (iii), in cl. (iii) as so redesignated substituted “$3,400” for “$2,800”, and in provisions following cl. (iii) substituted “Clause (iii)” for “Clause (ii)”.
+Pub. L. 94–12 substituted “(determined by applying section 143), is not a surviving spouse (as defined in section 2(a)), and for the taxable year has a gross income of less than $2,350” for “determined by applying section 143(a)) and for the taxable year has a gross income of less than $2,050, or” in cl. (i), added cl. (ii), redesignated existing cl. (ii) as (iii), in cl. (iii) as so redesignatedsubstituted “$3,400” for “$2,800”, and in provisions following cl. (iii) substituted “Clause (iii)” for “Clause (ii)”.
 
 Subsec. (a)(1)(B). Pub. L. 94–12 substituted “The amount specified in clause (i) or (ii) of subparagraph (A) shall be increased by $750” for “The $2,050 amount specified in subparagraph (A)(i) shall be increased to $2,800” and “the amount specified in clause (iii) of subparagraph (A) shall be increased by $750” for “the $2,800 amount specified in subparagraph (A)(ii) shall be increased by $750”.
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) ofPub. L. 95–30, set out as a note under section 1 of this title.
+Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31, 1976, see section 106(a) of Pub. L. 95–30, set out as a note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

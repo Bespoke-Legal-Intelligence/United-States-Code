@@ -36,11 +36,53 @@
 
 > conducts or attempts to conduct a financial transaction involving property represented to be the proceeds of specified unlawful activity, or property used to conduct or facilitate specified unlawful activity, shall be fined under this title or imprisoned for not more than 20 years, or both. For purposes of this paragraph and paragraph (2), the term “represented” means any representation made by a law enforcement officer or by another person at the direction of, or with the approval of, a Federal official authorized to investigate or prosecute violations of this section.
 
-(b) Whoever conducts or attempts to conduct a transaction described in subsection (a)(1) or (a)(3), or a transportation, transmission, or transfer described in subsection (a)(2), is liable to the United States for a civil penalty of not more than the greater of—
+(b)
 
-&emsp;(1) the value of the property, funds, or monetary instruments involved in the transaction; or
+Penalties.—
 
-&emsp;(2) $10,000.
+&emsp;(1)
+
+In general.—Whoever conducts or attempts to conduct a transaction described in subsection (a)(1) or (a)(3), or section 1957, or a transportation, transmission, or transfer described in subsection (a)(2), is liable to the United States for a civil penalty of not more than the greater of—
+
+&emsp;&emsp;(A) the value of the property, funds, or monetary instruments involved in the transaction; or
+
+&emsp;&emsp;(B) $10,000.
+
+&emsp;(2)
+
+Jurisdiction over foreign persons.—For purposes of adjudicating an action filed or enforcing a penalty ordered under this section, the district courts shall have jurisdiction over any foreign person, including any financial institution authorized under the laws of a foreign country, against whom the action is brought, if service of process upon the foreign person is made under the Federal Rules of Civil Procedure or the laws of the country in which the foreign person is found, and—
+
+&emsp;&emsp;(A) the foreign person commits an offense under subsection (a) involving a financial transaction that occurs in whole or in part in the United States;
+
+&emsp;&emsp;(B) the foreign person converts, to his or her own use, property in which the United States has an ownership interest by virtue of the entry of an order of forfeiture by a court of the United States; or
+
+&emsp;&emsp;(C) the foreign person is a financial institution that maintains a bank account at a financial institution in the United States.
+
+&emsp;(3)
+
+Court authority over assets.—A court described in paragraph (2) may issue a pretrial restraining order or take any other action necessary to ensure that any bank account or other property held by the defendant in the United States is available to satisfy a judgment under this section.
+
+&emsp;(4)
+
+Federal receiver.—
+
+&emsp;&emsp;(A)
+
+In general.—A court described in paragraph (2) may appoint a Federal Receiver, in accordance with subparagraph (B) of this paragraph, to collect, marshal, and take custody, control, and possession of all assets of the defendant, wherever located, to satisfy a civil judgment under this subsection, a forfeiture judgment under section 981 or 982, or a criminal sentence under section 1957 or subsection (a) of this section, including an order of restitution to any victim of a specified unlawful activity.
+
+&emsp;&emsp;(B)
+
+Appointment and authority.—A Federal Receiver described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) may be appointed upon application of a Federal prosecutor or a Federal or State regulator, by the court having jurisdiction over the defendant in the case;
+
+&emsp;&emsp;&emsp;(ii) shall be an officer of the court, and the powers of the Federal Receiver shall include the powers set out in section 754 of title 28, United States Code; and
+
+&emsp;&emsp;&emsp;(iii) shall have standing equivalent to that of a Federal prosecutor for the purpose of submitting requests to obtain information regarding the assets of the defendant—
+
+&emsp;&emsp;&emsp;&emsp;(I) from the Financial Crimes Enforcement Network of the Department of the Treasury; or
+
+&emsp;&emsp;&emsp;&emsp;(II) from a foreign country pursuant to a mutual legal assistance treaty, multilateral agreement, or other arrangement for international law enforcement assistance, provided that such requests are in accordance with the policies and procedures of the Attorney General.
 
 (c) As used in this section—
 
@@ -54,7 +96,11 @@
 
 &emsp;(5) the term “monetary instruments” means (i) coin or currency of the United States or of any other country, travelers’ checks, personal checks, bank checks, and money orders, or (ii) investment securities or negotiable instruments, in bearer form or otherwise in such form that title thereto passes upon delivery;
 
-&emsp;(6) the term “financial institution” has the definition given that term in section 5312(a)(2) of title 31, United States Code, or the regulations promulgated thereunder;
+&emsp;(6) the term “financial institution” includes—
+
+&emsp;&emsp;(A) any financial institution, as defined in section 5312(a)(2) of title 31, United States Code, or the regulations promulgated thereunder; and
+
+&emsp;&emsp;(B) any foreign bank, as defined in section 1 of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 &emsp;(7) the term “specified unlawful activity” means—
 
@@ -64,13 +110,23 @@
 
 &emsp;&emsp;&emsp;(i) the manufacture, importation, sale, or distribution of a controlled substance (as such term is defined for the purposes of the Controlled Substances Act);
 
-&emsp;&emsp;&emsp;(ii) murder, kidnapping, robbery, extortion, or destruction of property by means of explosive or fire; <sup>1</sup>
+&emsp;&emsp;&emsp;(ii) murder, kidnapping, robbery, extortion, destruction of property by means of explosive or fire, or a crime of violence (as defined in section 16);
 
-&emsp;&emsp;&emsp;(iii) fraud, or any scheme or attempt to defraud, by or against a foreign bank (as defined in paragraph 7 of section 1(b) of the International Banking Act of 1978);
+&emsp;&emsp;&emsp;(iii) fraud, or any scheme or attempt to defraud, by or against a foreign bank (as defined in paragraph 7 of section 1(b) of the International Banking Act of 1978)); <sup>1</sup>
+
+&emsp;&emsp;&emsp;(iv) bribery of a public official, or the misappropriation, theft, or embezzlement of public funds by or for the benefit of a public official;
+
+&emsp;&emsp;&emsp;(v) smuggling or export control violations involving—
+
+&emsp;&emsp;&emsp;&emsp;(I) an item controlled on the United States Munitions List established under section 38 of the Arms Export Control Act (22 U.S.C. 2778); or
+
+&emsp;&emsp;&emsp;&emsp;(II) an item controlled under regulations under the Export Administration Regulations (15 C.F.R. Parts 730–774); or
+
+&emsp;&emsp;&emsp;(vi) an offense with respect to which the United States would be obligated by amultilateral treaty, either to extradite the alleged offender or to submit the case for prosecution, if the offender were found within the territory of the United States;
 
 &emsp;&emsp;(C) any act or acts constituting a continuing criminal enterprise, as that term is defined in section 408 of the Controlled Substances Act (21 U.S.C. 848);
 
-&emsp;&emsp;(D) an offense under section 32 (relating to the destruction of aircraft), section 37 (relating to violence at international airports), section 115 (relating to influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member), section 152 (relating to concealment of assets; false oaths and claims; bribery), section 215 (relating to commissions or gifts for procuring loans), section 351 (relating to congressional or Cabinet officer assassination), any of sections 500 through 503 (relating to certain counterfeiting offenses), section 513 (relating to securities of States and private entities), section 542 (relating to entry of goods by means of false statements), section 545 (relating to smuggling goods into the United States), section 549 (relating to removing goods from Customs custody), section 641 (relating to public money, property, or records), section 656 (relating to theft, embezzlement, or misapplication by bank officer or employee), section 657 (relating to lending, credit, and insurance institutions), section 658 (relating to property mortgaged or pledged to farm credit agencies), section 666 (relating to theft or bribery concerning programs receiving Federal funds), section 793, 794, or 798 (relating to espionage), section 831 (relating to prohibited transactions involving nuclear materials), section 844(f) or (i) (relating to destruction by explosives or fire of Government property or property affecting interstate or foreign commerce), section 875 (relating to interstate communications), section 956 (relating to conspiracy to kill, kidnap, maim, or injure certain property in a foreign country), section 1005 (relating to fraudulent bank entries), 1006 <sup>2</sup> (relating to fraudulent Federal credit institution entries), 1007 <sup>2</sup> (relating to Federal Deposit Insurance transactions), 1014 <sup>2</sup> (relating to fraudulent loan or credit applications), 1032 <sup>2</sup> (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution), section 1111 (relating to murder), section 1114 (relating to murder of United States law enforcement officials), section 1116 (relating to murder of foreign officials, official guests, or internationally protected persons), section 1201 (relating to kidnaping), section 1203 (relating to hostage taking), section 1361 (relating to willful injury of Government property), section 1363 (relating to destruction of property within the special maritime and territorial jurisdiction), section 1708 (theft from the mail), section 1751 (relating to Presidential assassination), section 2113 or 2114 (relating to bank and postal robbery and theft), section 2280 (relating to violence against maritime navigation), section 2281 (relating to violence against maritime fixed platforms), section 2319 (relating to copyright infringement), section 2320 (relating to trafficking in counterfeit goods and services),,<sup>3</sup> section 2332 (relating to terrorist acts abroad against United States nationals), section 2332a (relating to use of weapons of mass destruction), section 2332b (relating to international terrorist acts transcending national boundaries), or section 2339A (relating to providing material support to terrorists) of this title, section 46502 of title 49, United States Code,,<sup>3</sup> a felony violation of the Chemical Diversion and Trafficking Act of 1988 (relating to precursor and essential chemicals), section 590 of the Tariff Act of 1930 (19 U.S.C. 1590) (relating to aviation smuggling), section 422 of the Controlled Substances Act (relating to transportation of drug paraphernalia), section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 (relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, section 16 (relating to offenses and punishment) of the Trading with the Enemy Act, any felony violation of section 15 of the Food Stamp Act of 1977 (relating to food stamp fraud) involving a quantity of coupons having a value of not less than $5,000, any violation of section 543(a)(1) of the Housing Act of 1949 (relating to equity skimming), or any felony violation of the Foreign Corrupt Practices Act; or
+&emsp;&emsp;(D) an offense under section 32 (relating to the destruction of aircraft), section 37 (relating to violence at international airports), section 115 (relating to influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member), section 152 (relating to concealment of assets; false oaths and claims; bribery), section 215 (relating to commissions or gifts for procuring loans), section 351 (relating to congressional or Cabinet officer assassination), any of sections 500 through 503 (relating to certain counterfeiting offenses), section 513 (relating to securities of States and private entities), section 541 (relating to goods falsely classified), section 542 (relating to entry of goods by means of false statements), section 545 (relating to smuggling goods into the United States), section 549 (relating to removing goods from Customs custody), section 641 (relating to public money, property, or records), section 656 (relating to theft, embezzlement, or misapplication by bank officer or employee), section 657 (relating to lending, credit, and insurance institutions), section 658 (relating to property mortgaged or pledged to farm credit agencies), section 666 (relating to theft or bribery concerning programs receiving Federal funds), section 793, 794, or 798 (relating to espionage), section 831 (relating to prohibited transactions involving nuclear materials), section 844(f) or (i) (relating to destruction by explosives or fire of Government property or property affecting interstate or foreign commerce), section 875 (relating to interstate communications), section 922(<i>l</i>) (relating to the unlawful importation of firearms), section 924(n) (relating to firearms trafficking), section 956 (relating to conspiracy to kill, kidnap, maim, or injure certain property in a foreign country), section 1005 (relating to fraudulent bank entries), 1006 <sup>2</sup> (relating to fraudulent Federal credit institution entries), 1007 <sup>2</sup> (relating to Federal Deposit Insurance transactions), 1014 <sup>2</sup> (relating to fraudulent loan or credit applications), section 1030 (relating to computer fraud and abuse), 1032 <sup>2</sup> (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution), section 1111 (relating to murder), section 1114 (relating to murder of United States law enforcement officials), section 1116 (relating to murder of foreign officials, official guests, or internationally protected persons), section 1201 (relating to kidnaping), section 1203 (relating to hostage taking), section 1361 (relating to willful injury of Government property), section 1363 (relating to destruction of property within the special maritime and territorial jurisdiction), section 1708 (theft from the mail), section 1751 (relating to Presidential assassination), section 2113 or 2114 (relating to bank and postal robbery and theft), section 2280 (relating to violence against maritime navigation), section 2281 (relating to violence against maritime fixed platforms), section 2319 (relating to copyright infringement), section 2320 (relating to trafficking in counterfeit goods and services),,<sup>3</sup> section 2332 (relating to terrorist acts abroad against United States nationals), section 2332a (relating to use of weapons of mass destruction), section 2332b (relating to international terrorist acts transcending national boundaries), or section 2339A or 2339B (relating to providing material support to terrorists) of this title, section 46502 of title 49, United States Code,,<sup>3</sup> a felony violation of the Chemical Diversion and Trafficking Act of 1988 (relating to precursor and essential chemicals), section 590 of the Tariff Act of 1930 (19 U.S.C. 1590) (relating to aviation smuggling), section 422 of the Controlled Substances Act (relating to transportation of drug paraphernalia), section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 (relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, section 16 (relating to offenses and punishment) of the Trading with the Enemy Act, any felony violation of section 15 of the Food Stamp Act of 1977 (relating to food stamp fraud) involving a quantity of coupons having a value of not less than $5,000, any violation of section 543(a)(1) of the Housing Act of 1949 (relating to equity skimming), any felony violation of the Foreign Agents Registration Act of 1938, or any felony violation of the Foreign Corrupt Practices Act; or
 
 environmental crimes
 
@@ -96,15 +152,27 @@ Notice of Conviction of Financial Institutions.—If any financial institution o
 
 (h) Any person who conspires to commit any offense defined in this section or section 1957 shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
 
-(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–18; amended Pub. L. 100–690, title VI, §§6183, 6465, 6466, 6469(a)(1), 6471(a), (b), title VII, §7031, Nov. 18, 1988, 102 Stat. 4354, 4375, 4377, 4378, 4398; Pub. L. 101–647, title I, §§105–108, title XII, §1205(j), title XIV, §§1402, 1404, title XXV, §2506, title XXXV, §3557, Nov. 29, 1990, 104 Stat. 4791, 4792, 4831, 4835, 4862, 4927; Pub. L. 102–550, title XV, §§1504(c), 1524, 1526(a), 1527(a), 1530, 1531, 1534, 1536, Oct. 28, 1992, 106 Stat. 4055, 4064–4067; Pub. L. 103–322, title XXXII, §320104(b), title XXXIII, §§330008(2), 330011(<i>l</i>), 330012, 330019, 330021(1), Sept. 13, 1994, 108 Stat. 2111, 2142, 2145, 2146, 2149, 2150; Pub. L. 103–325, title IV, §§411(c)(2)(E), 413(c)(1), (d), Sept. 23, 1994, 108 Stat. 2253–2255; Pub. L. 104–132, title VII, §726, Apr. 24, 1996, 110 Stat. 1301; Pub. L. 104–191, title II, §246, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 104–294, title VI, §§601(f)(6), 604(b)(38), Oct. 11, 1996, 110 Stat. 3499, 3509; Pub. L. 106–569, title VII, §709(a), Dec. 27, 2000, 114 Stat. 3018.)
+(i)
+
+Venue.—(1) Except as provided in paragraph (2), a prosecution for an offense under this section or section 1957 may be brought in—
+
+&emsp;(A) any district in which the financial or monetary transaction is conducted; or
+
+&emsp;(B) any district where a prosecution for the underlying specified unlawful activity could be brought, if the defendant participated in the transfer of the proceeds of the specified unlawful activity from that district to the district where the financial or monetary transaction is conducted.
+
+(2) A prosecution for an attempt or conspiracy offense under this section or section 1957 may be brought in the district where venue would lie for the completed offense under paragraph (1), or in any other district where an act in furtherance of the attempt or conspiracy took place.
+
+(3) For purposes of this section, a transfer of funds from 1 place to another, by wire or any other means, shall constitute a single, continuing transaction. Any person who conducts (as that term is defined in subsection (c)(2)) any portion of the transaction may be charged in any district in which the transaction takes place.
+
+(Added Pub. L. 99–570, title I, §1352(a), Oct. 27, 1986, 100 Stat. 3207–18; amended Pub. L. 100–690, title VI, §§6183, 6465, 6466, 6469(a)(1), 6471(a), (b), title VII, §7031, Nov. 18, 1988, 102 Stat. 4354, 4375, 4377, 4378, 4398; Pub. L. 101–647, title I, §§105–108, title XII, §1205(j), title XIV, §§1402, 1404, title XXV, §2506, title XXXV, §3557, Nov. 29, 1990, 104 Stat. 4791, 4792, 4831, 4835, 4862, 4927; Pub. L. 102–550, title XV, §§1504(c), 1524, 1526(a), 1527(a), 1530, 1531, 1534, 1536, Oct. 28, 1992, 106 Stat. 4055, 4064–4067; Pub. L. 103–322, title XXXII, §320104(b), title XXXIII, §§330008(2), 330011(<i>l</i>), 330012, 330019, 330021(1), Sept. 13, 1994, 108 Stat. 2111, 2142, 2145, 2146, 2149, 2150; Pub. L. 103–325, title IV, §§411(c)(2)(E), 413(c)(1), (d), Sept. 23, 1994, 108 Stat. 2253–2255; Pub. L. 104–132, title VII, §726, Apr. 24, 1996, 110 Stat. 1301; Pub. L. 104–191, title II, §246, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 104–294, title VI, §§601(f)(6), 604(b)(38), Oct. 11, 1996, 110 Stat. 3499, 3509; Pub. L. 106–569, title VII, §709(a), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–56, title III, §§315, 317, 318, 376, title VIII, §805(b), title X, §1004, Oct. 26, 2001, 115 Stat. 308, 310, 311, 342, 378, 392.)
 
 #### References in Text
 
 Sections 7201 and 7206 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)(A)(ii), are classified, respectively, to sections 7201 and 7206 of Title 26, Internal Revenue Code.
 
-The Controlled Substances Act, referred to in subsec. (c)(7)(B)(i), (D), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Section 422 of the Act is classified to section 863 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Section 1(b) of the International Banking Act of 1978, referred to in subsec. (c)(7)(B)(iii), is classified to section 3101 of Title 12, Banks and Banking.
+The Controlled Substances Act, referred to in subsec. (c)(7)(B)(i), (D), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Section 422 of the Act is classified to section 863 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Chemical Diversion and Trafficking Act of 1988, referred to in subsec. (c)(7)(D), is subtitle A (§6051–6061) of title VI of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4312. For complete classification of subtitle A to the Code, see Short Title of 1988 Amendment note set out under section 801 of Title 21, Food and Drugs, and Tables.
 
@@ -120,7 +188,9 @@ Section 15 of the Food Stamp Act of 1977, referred to in subsec. (c)(7)(D), is c
 
 Section 543(a)(1) of the Housing Act of 1949, referred to in subsec. (c)(7)(D), is classified to section 1490s(a)(1) of Title 42, The Public Health and Welfare.
 
-The Foreign Corrupt Practices Act, referred to in subsec. (c)(7)(D), probably means the “Foreign Corrupt Practices Act of 1977, title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 and 78dd–2 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
+The Foreign Agents Registration Act of 1938, referred to in subsec. (c)(7)(D), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+
+The Foreign Corrupt Practices Act, referred to in subsec. (c)(7)(D), probably means the “Foreign Corrupt Practices Act of 1977, title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 and 78dd–2 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of1977 Amendment note set out under section 78a of Title 15 and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (c)(7)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
@@ -134,6 +204,18 @@ The Resources Conservation and Recovery Act, referred to in subsec. (c)(7)(E), p
 
 #### Amendments
 
+2001—Subsec. (b). Pub. L. 107–56, §317, inserted subsec. heading, designated existing provisions as par. (1), inserted heading and inserted “, or section 1957” after “or (a)(3)” in introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added pars. (2) to (4).
+
+Subsec. (c)(6). Pub. L. 107–56, §318, added par. (6) and struck out former par. (6) which read as follows: “the term ‘financial institution’ has the definition given that term in section 5312(a)(2) of title 31, United States Code, or the regulations promulgated thereunder;”.
+
+Subsec. (c)(7)(B). Pub. L. 107–56, §315(1), substituted “destruction of property by means of explosive or fire, or a crime of violence (as defined in section 16)” for “or destruction of property by means of explosive or fire” in cl. (ii), inserted a closing parenthesis after “1978” in cl. (iii), and added cls. (iv) to (vi).
+
+Subsec. (c)(7)(D). Pub. L. 107–56, §§376, 805(b), amended subpar. (D) identically, inserting “or 2339B” after “2339A”.
+
+Pub. L. 107–56, §315(2), inserted “section 541 (relating to goods falsely classified),” before “section 542”, “section 922(<i>l</i>) (relating to the unlawful importation of firearms), section 924(n) (relating to firearms trafficking),” before “section 956”, “section 1030 (relating to computer fraud and abuse),” before “1032”, and “any felony violation of the Foreign Agents Registration Act of 1938,” before “or any felony violation of the Foreign Corrupt Practices Act”.
+
+Subsec. (i). Pub. L. 107–56, §1004, added subsec. (i).
+
 2000—Subsec. (c)(7)(D). Pub. L. 106–569 inserted “any violation of section 543(a)(1) of the Housing Act of 1949 (relating to equity skimming),” after “coupons having a value of not less than $5,000,”.
 
 1996—Subsec. (c)(7)(B)(ii). Pub. L. 104–132, §726(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “kidnapping, robbery, or extortion; or”.
@@ -144,7 +226,7 @@ Subsec. (c)(7)(D). Pub. L. 104–294, §604(b)(38), amended directory language o
 
 Pub. L. 104–132, §726(2)(A), (B), (D), (F), (H)–(J), inserted “section 32 (relating to the destruction of aircraft), section 37 (relating to violence at international airports), section 115 (relating to influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member),” after “an offense under”, “section 351 (relating to congressional or Cabinet officer assassination),” after “section 215 (relating to commissions or gifts for procuring loans),”, “section 956 (relating to conspiracy to kill, kidnap, maim, or injure certain property in a foreign country),” after “section 875 (relating to interstate communications),”, “section 1361 (relating to willful injury of Government property), section 1363 (relating to destruction of property within the special maritime and territorial jurisdiction),” after “section 1203 (relating to hostage taking),”, “section 2280 (relating to violence against maritime navigation), section 2281 (relating to violence against maritime fixed platforms),” after “2114 (relating to bank and postal robbery and theft),”, and substituted “section 2320” for “or section 2320” and “, section 2332 (relating to terrorist acts abroad against United States nationals), section 2332a (relating to use of weapons of mass destruction), section 2332b (relating to international terrorist acts transcending national boundaries), or section 2339A (relating to providing material support to terrorists) of this title, section 46502 of title 49, United States Code,” for “of this title”.
 
-Pub. L. 104–132, §726(2)(C), (E), (G), which directed insertion of “section 831 (relating to prohibited transactions involving nuclear materials), section 844(f) or (i) (relating to destruction by explosives or fire of Government property or property affecting interstate orforeign commerce),” after “section 798 (relating to espionage),”, “section 1111 (relating to murder), section 1114 (relating to murder of United States law enforcement officials), section 1116 (relating to murder of foreign officials, official guests, or internationally protected persons),” after “section 1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),”, and “section 1751 (relating to Presidential assassination),” after “section 1708 (relating to theft from the mail),”, were executed by making the insertions, respectively, after text which read “798 (relating to espionage),”, text which read “1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),”, and text which read “section 1708 (theft from the mail),”, to reflect the probable intent of Congress.
+Pub. L. 104–132, §726(2)(C), (E), (G), which directed insertion of “section 831 (relating to prohibited transactions involving nuclear materials), section 844(f) or (i) (relating to destruction by explosives or fire of Government property or property affecting interstate or foreign commerce),” after “section 798 (relating to espionage),”, “section 1111 (relating to murder), section 1114 (relating to murder of United States law enforcement officials), section 1116 (relating to murder of foreign officials, official guests, or internationally protected persons),” after “section 1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),”, and “section 1751 (relating to Presidential assassination),” after “section 1708 (relating to theft from the mail),”, were executed by making the insertions, respectively, after text which read “798 (relating to espionage),”, text which read “1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),”, and text which read “section 1708 (theft from the mail),”, to reflect the probable intent of Congress.
 
 Subsec. (c)(7)(F). Pub. L. 104–191 added subpar. (F).
 
@@ -216,7 +298,7 @@ Pub. L. 101–647, §3557(2)(E), which directed the amendment of subpar. (D) by 
 
 Pub. L. 101–647, §2506(2), inserted “section 1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution,” after “section 1203 (relating to hostage taking),”.
 
-Pub. L. 101–647, §2506(1), inserted “section 1005 (relating to fraudulent bank entries), 1006 (relating to fraudulent Federal credit institution entries), 1007 (relatingto Federal Deposit Insurance transactions), 1014 (relating to fraudulent loan or credit applications), 1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),” after “section 875 (relating to interstate communications),”.
+Pub. L. 101–647, §2506(1), inserted “section 1005 (relating to fraudulent bank entries), 1006 (relating to fraudulent Federal credit institution entries), 1007 (relating to Federal Deposit Insurance transactions), 1014 (relating to fraudulent loan or credit applications), 1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution),” after “section 875 (relating to interstate communications),”.
 
 Pub. L. 101–647, §1404(a)(2), inserted “; or” after “Trading with the Enemy Act” at end.
 
@@ -242,6 +324,10 @@ Pub. L. 100–690, §6183, substituted “section 38(c) (relating to criminal vi
 
 Subsec. (e). Pub. L. 100–690, §6469(a)(1), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
 
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 604(b)(38) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
@@ -252,9 +338,9 @@ Section 330011(<i>l</i>) of Pub. L. 103–322 and section 413(d) of Pub. L. 103�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 981, 982, 986, 1510, 1952, 1957, 1961, 2332d, 2516 of this title; title 8 section 1101; title 12 sections 93, 1464, 1772d, 1785, 1786, 1818, 1821, 1829, 3105, 3413, 3420; title 22 section 2714; title 26 section 6050I; title 28 sections 524, 2467; title 31 sections 5328, 9703.
+This section is referred to in sections 981, 982, 986, 1510, 1952, 1957, 1961, 2332d, 2516 of this title; title 8 sections 1101, 1182; title 12 sections 93, 1464, 1772d, 1785, 1786, 1818, 1821, 1829, 3105, 3413, 3420; title 22 section 2714; title 26 section 6050I; title 28 sections 524, 2467; title 31 sections 5328, 9703.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
 

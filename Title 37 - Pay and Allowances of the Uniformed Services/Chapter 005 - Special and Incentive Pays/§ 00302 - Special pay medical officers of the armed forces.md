@@ -132,7 +132,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §203(a), (b) (less applicability to veterinarians), 63 Stat. 809; June 25, 1952, ch. 459, §1, 66 Stat. 156; June 29, 1953, ch. 138, §8 (less applicability to veterinarians), 67 Stat. 89; June 30, 1955, ch. 250, §203, 69 Stat. 225; Apr. 30, 1956, ch. 223, §5, 70 Stat. 122; Mar. 23, 1959, Pub. L. 86–4, §5, 73 Stat. 13.
 
-In subsection (a), clause (1) is substituted for section 234(a)(1), (2), and (3) of existing title 37. The words “of the Regular Army or the Regular Navy” and “of theRegular Air Force” are inserted in clauses (1)(A) and (B), respectively, since, in contradistinction to section 234(a)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2) (A) and (B) are substituted for the enumeration of categories in section 234(a)(4) of existing title 37 to reflect current usage and designation of those categories. Clause (3) is substituted for section 234(a)(5) and (6) of existing title 37.
+In subsection (a), clause (1) is substituted for section 234(a)(1), (2), and (3) of existing title 37. The words “of the Regular Army or the Regular Navy” and “of the Regular Air Force” are inserted in clauses (1)(A) and (B), respectively, since, in contradistinction to section 234(a)(4) of existing title 37, their source was intended to apply only to regular officers. Clauses (2) (A) and (B) are substituted for the enumeration of categories in section 234(a)(4) of existing title 37 to reflect current usage and designation of those categories. Clause (3) is substituted for section 234(a)(5) and (6) of existing title 37.
 
 In subsection (c), the words “disability retirement pay” are omitted as covered by the words “retired pay”. Section 234(b) (2d proviso) of existing title 37 is omitted as obsolete.
 
@@ -220,7 +220,7 @@ Subsec. (i). Pub. L. 99–145, §640(2), added subsec. (i).
 
 Subsec. (h). Pub. L. 96–513 added subsec. (h).
 
-1974—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, whichrequire the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
+1974—Pub. L. 93–274 reduced for uniformed services physicians the present four steps of special pay, which require the completion of ten years of active duty before attaining eligibility for the $350 per month maximum down to two steps, with the maximum being reached upon completion of two years of active duty, and repealed provisions relating to special pay for dentists. See section 302b of this title.
 
 1973—Subsec. (a). Pub. L. 93–64 substituted “July 1, 1975” for “July 1, 1973” wherever appearing.
 

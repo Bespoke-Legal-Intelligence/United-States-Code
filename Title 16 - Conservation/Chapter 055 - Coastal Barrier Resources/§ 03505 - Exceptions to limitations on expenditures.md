@@ -26,7 +26,7 @@ Notwithstanding section 3504 of this title, the appropriate Federal officer, aft
 
 &emsp;&emsp;(E) Assistance for emergency actions essential to the saving of lives and the protection of property and the public health and safety, if such actions are performed pursuant to sections 5170a, 5170b, and 5192 of title 42 and section 1362 <sup>1</sup> of the National Flood Insurance Act of 1968 (42 U.S.C. 4103) and are limited to actions that are necessary to alleviate the emergency.
 
-&emsp;&emsp;(F) Maintenance, replacement, reconstruction, or repair, but not the expansion (exceptwith respect to United States route 1 in the Florida Keys), of publicly owned or publicly operated roads, structures, and facilities.
+&emsp;&emsp;(F) Maintenance, replacement, reconstruction, or repair, but not the expansion (except with respect to United States route 1 in the Florida Keys), of publicly owned or publicly operated roads, structures, and facilities.
 
 &emsp;&emsp;(G) Nonstructural projects for shoreline stabilization that are designed to mimic, enhance, or restore a natural stabilization system.
 
@@ -62,7 +62,7 @@ The limitations on the use of Federal expenditures or financial assistance withi
 
 &emsp;&emsp;For purposes of this paragraph, the term “financial assistance” includes any contract, loan, grant, cooperative agreement, or other form of assistance, including the insurance or guarantee of a loan, mortgage, or pool of mortgages.
 
-(Pub. L. 97–348, §6, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 100–707, title I, §109(h), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–591, §5(a), Nov. 16, 1990, 104 Stat. 2934.)
+(Pub. L. 97–348, §6, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 100–707, title I, §109(h), Nov. 23, 1988, 102Stat. 4709; Pub. L. 101–591, §5(a), Nov. 16, 1990, 104 Stat. 2934.)
 
 #### References in Text
 

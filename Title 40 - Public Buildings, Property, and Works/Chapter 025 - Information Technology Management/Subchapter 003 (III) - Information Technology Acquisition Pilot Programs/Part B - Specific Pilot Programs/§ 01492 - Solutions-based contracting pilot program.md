@@ -48,7 +48,7 @@ The Administrator shall require use of a process with the following aspects for 
 
 #### (6) Simple solicitation
 
-&emsp;Use of a simple solicitation that sets forth only the functional work description, the source selection factors to be used in accordance with paragraph (4), the required terms and conditions, instructions regarding submission of offers, and the estimate of the Federal Government's budget for the desired work.
+&emsp;Use of a simple solicitation that sets forth only the functional work description, the source selection factors to be used in accordance with paragraph (4), the required termsand conditions, instructions regarding submission of offers, and the estimate of the Federal Government's budget for the desired work.
 
 #### (7) Simple proposals
 

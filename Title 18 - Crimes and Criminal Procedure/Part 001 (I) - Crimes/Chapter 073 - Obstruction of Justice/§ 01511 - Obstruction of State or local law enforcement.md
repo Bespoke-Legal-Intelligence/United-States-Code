@@ -6,7 +6,7 @@
 
 &emsp;(2) one or more of such persons is an official or employee, elected, appointed, or otherwise, of such State or political subdivision; and
 
-&emsp;(3) one or more of such persons conducts finances, manages, supervises, directs, or owns all or part of an illegal gambling business.
+&emsp;(3) one or more of such persons conducts, finances, manages, supervises, directs, or owns all or part of an illegal gambling business.
 
 (b) As used in this section—
 

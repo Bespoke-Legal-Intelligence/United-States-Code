@@ -36,5 +36,5 @@ Application of Other Law.—Section 420 of this title does not apply with respec
 
 #### Amendments
 
-1991—Subsec. (b)(1). Pub. L. 102–190 substituted “the designated home port of the ship, or the area where the dependents of the member are residing,” for “the location that was the home port of the ship before commencement of construction”.
+1991—Subsec. (b)(1). Pub. L. 102–190 substituted “the designated home port of the ship, or the area where thedependents of the member are residing,” for “the location that was the home port of the ship before commencement of construction”.
 

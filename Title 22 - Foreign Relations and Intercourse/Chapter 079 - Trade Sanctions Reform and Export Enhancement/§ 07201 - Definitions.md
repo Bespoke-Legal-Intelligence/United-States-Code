@@ -28,7 +28,7 @@ In this chapter:
 
 &emsp;&emsp;(A) in the case of section 7202(a)(1) of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7202(a)(1) of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.”, with the blank completed with the appropriate date; and
 
-&emsp;&emsp;(B) in the case of section 7205(1) <sup>1</sup> of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7205(2) <sup>1</sup> of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.”, with the blank completed with the appropriate date.
+&emsp;&emsp;(B) in the case of section 7205(1) <sup>1</sup> of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the Presidentunder section 7205(2) <sup>1</sup> of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.”, with the blank completed with the appropriate date.
 
 #### (4) Medical device
 
@@ -62,7 +62,7 @@ The Agricultural Trade Development and Assistance Act of 1954, referred to in pa
 
 The Agricultural Trade Act of 1978, referred to in par. (2)(C), is Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, as amended generally by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3668, which is classified generally to chapter 87 (§5601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 7 and Tables.
 
-Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(A), is section 1(a) \[title IX, §903(a)(1)\] of Pub. L.106–387, which is classified to section 7202(a)(1) of this title.
+Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(A), is section 1(a) \[title IX, §903(a)(1)\] of Pub. L. 106–387, which is classified to section 7202(a)(1) of this title.
 
 Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(B), is section 1(a) \[title IX, §906\] of Pub. L. 106–387, which is classified to section 7205 of this title. Provisions relating to report of the President and enactment into law of a joint resolution are contained in section 905 of the Act, which is classified to section 7204 of this title.
 

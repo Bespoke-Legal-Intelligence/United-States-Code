@@ -32,7 +32,7 @@ Section 584j, acts June 28, 1937, ch. 383, §11, 50 Stat. 321; Oct. 10, 1940, ch
 
 Section 584k, act June 28, 1937, ch. 383, §12, 50 Stat. 321, related to use of services and facilities of other governmental agencies.
 
-Section 584<i>l</i>, acts June 28, 1937, ch. 383, §13, 50 Stat. 321; Aug. 7, 1939, ch. 553, §2, 53 Stat. 1253, related to useof services and facilities of state agencies and departments.
+Section 584<i>l</i>, acts June 28, 1937, ch. 383, §13, 50 Stat. 321; Aug. 7, 1939, ch. 553, §2, 53 Stat. 1253, related to use of services and facilities of state agencies and departments.
 
 Section 584m, act June 28, 1937, ch. 383, §14, 50 Stat. 321, related to expenditures for subsistence, transportation, etc., of enrollees.
 

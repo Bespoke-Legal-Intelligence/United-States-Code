@@ -22,7 +22,7 @@ Section 10 of act of July 8, 1937, previously set out as section 134g of former 
 
 #### Delegation of Functions
 
-Power of Secretary of the Treasury and Postmaster General \[now United States Postal Service\] to prescribe, without approval of President, regulations under this section, see section 3(a) of Ex. Ord. No. 10289,Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
+Power of Secretary of the Treasury and Postmaster General \[now United States Postal Service\] to prescribe, without approval of President, regulations under this section, see section 3(a) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 

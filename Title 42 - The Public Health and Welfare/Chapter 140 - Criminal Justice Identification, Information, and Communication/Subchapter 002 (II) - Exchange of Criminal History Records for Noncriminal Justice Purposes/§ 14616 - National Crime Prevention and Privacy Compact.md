@@ -36,7 +36,7 @@ In this Compact:
 
 &emsp;The term “criminal history records”—
 
-&emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notationsof arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
+&emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
 
 &emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.
 
@@ -94,7 +94,7 @@ In this Compact:
 
 #### (14) National Fingerprint File
 
-&emsp;The term “National Fingerprint File” means a database of fingerprints, or other uniquely personal identifying information, relating to an arrested or charged individual maintained by the FBI to provide positive identification of record subjects indexed in the III System.
+&emsp;The term “National Fingerprint File” means a database of fingerprints, or otheruniquely personal identifying information, relating to an arrested or charged individual maintained by the FBI to provide positive identification of record subjects indexed in the III System.
 
 #### (15) National Identification Index
 
@@ -204,7 +204,7 @@ In carrying out their responsibilities under this Compact, the FBI and each Part
 
 #### (d) Maintenance of record services
 
-(1) Use of the III System for noncriminal justice purposes authorized in this Compact shallbe managed so as not to diminish the level of services provided in support of criminal justice purposes.
+(1) Use of the III System for noncriminal justice purposes authorized in this Compact shall be managed so as not to diminish the level of services provided in support of criminal justice purposes.
 
 (2) Administration of Compact provisions shall not reduce the level of service available to authorized noncriminal justice users on the effective date of this Compact.
 
@@ -240,7 +240,7 @@ Each request for a criminal history record check utilizing the national indices 
 
 #### (c) Submission of Federal requests
 
-Each request for criminal history record checks utilizing the national indices made under Federal authority shall be submitted through the FBI or, if the State criminal history record repository consents to process fingerprint submissions, through the criminal history record repository in the State in which such request originated. Direct access to the National Identification Index by entities other than the FBI and State criminal history records repositories shall not be permitted for noncriminal justice purposes.
+Each request for criminal history record checks utilizing the national indices made under Federal authority shall be submitted through the FBI or, if the State criminal history record repository consents to process fingerprint submissions, through the criminal history record repository in the State in which such requestoriginated. Direct access to the National Identification Index by entities other than the FBI and State criminal history records repositories shall not be permitted for noncriminal justice purposes.
 
 #### (d) Fees
 
@@ -326,7 +326,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (e) Rules, procedures, and standards
 
-The Council shall make available for public inspection and copying at the Council office within the FBI, and shall publish in the Federal Register, any rules, procedures, or standards established by the Council.
+The Council shall make available for public inspection and copying at the Council officewithin the FBI, and shall publish in the Federal Register, any rules, procedures, or standards established by the Council.
 
 #### (f) Assistance from FBI
 
@@ -400,7 +400,7 @@ The FBI or a Party State may appeal any decision of the Council to the Attorney 
 
 #### References in Text
 
-The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
+The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, asamended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
 The Federal Advisory Committee Act, referred to in Article VIII(a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

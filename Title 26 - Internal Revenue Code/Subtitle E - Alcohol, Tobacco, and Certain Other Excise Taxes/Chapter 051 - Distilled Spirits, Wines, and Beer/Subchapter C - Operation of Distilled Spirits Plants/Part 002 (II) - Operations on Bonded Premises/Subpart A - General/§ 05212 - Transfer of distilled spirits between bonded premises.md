@@ -6,7 +6,7 @@ Bulk distilled spirits on which the internal revenue tax has not been paid or de
 
 #### Prior Provisions
 
-A prior section 5212, act Aug. 16, 1954, ch. 736, 68A Stat. 639, related to the prevention and detection of fraud and contained a cross reference to provisions for gauging and marking of spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5204(b) of this title.
+A prior section 5212, act Aug. 16, 1954, ch. 736, 68A Stat. 639, related to the prevention and detection of fraud and contained a cross reference to provisions forgauging and marking of spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5204(b) of this title.
 
 Provisions similar to those comprising this section were contained in prior sections 5194(a), (e) to (g), 5217(a), 5246, 5308, act Aug. 16, 1954, ch. 736, 68A Stat. 634 to 636, 641, 647, 657, prior to the general revision of this chapter by Pub. L. 85–859.
 

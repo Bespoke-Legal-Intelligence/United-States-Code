@@ -22,7 +22,7 @@ Notwithstanding the provisions of subsections (a) and (b) of this section, no pr
 
 #### References in Text
 
-Subchapter VII of this chapter, referred to in text, was amended, effective Oct. 1, 1992, by Pub. L. 102–325, title VII, §§703–707(a), July 23, 1992, 106 Stat. 738–753, by amending parts A to C generally, repealing part D, andredesignating former part E as D, and was further amended generally, effective Oct. 1, 1998, by Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786, by substituting provisions relating to graduate and post-secondary improvement programs for former provisions relating to construction, reconstruction, and renovation of academic facilities.
+Subchapter VII of this chapter, referred to in text, was amended, effective Oct. 1, 1992, by Pub. L. 102–325, title VII, §§703–707(a), July 23, 1992, 106 Stat. 738–753, by amending parts A to C generally, repealing part D, and redesignating former part E as D, and was further amended generally, effective Oct. 1, 1998, by Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786, by substituting provisions relating to graduate and post-secondary improvement programs for former provisions relating to construction, reconstruction, and renovation of academic facilities.
 
 #### Prior Provisions
 
@@ -40,5 +40,5 @@ Another prior section 1013, Pub. L. 89–329, title I, §113, as added Pub. L. 9
 
 A prior section 1014, Pub. L. 89–329, title I, §114, as added Pub. L. 99–498, title I, §101, Oct. 17, 1986, 100 Stat. 1285, related to administration of programs by Secretary, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-Another prior section 1014, Pub. L. 89–329, title I, §114, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1379; amended Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357; Pub. L. 98–524, §4(c)(2), Oct. 19, 1984, 98 Stat. 2488, related to information services, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1014, Pub. L. 89–329, title I, §114, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94Stat. 1379; amended Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357; Pub. L. 98–524, §4(c)(2), Oct. 19, 1984, 98 Stat. 2488, related to information services, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

@@ -2,7 +2,7 @@
 
 Not less than $1,500,000 of the appropriations of the Department of Agriculture in this Act for research and service work authorized by sections 1 and 10 of the Act of June 29, 1935 (7 U.S.C. 427, 427i; commonly known as the Bankhead-Jones Act), subtitle A of title II and section 302 of the Act of August 14, 1946 (7 U.S.C. 1621 et seq.), and chapter 63 of title 31 shall be available for contracting in accordance with such Acts and chapter.
 
-(Pub. L. 106–387, §1(a) \[title VII, §703\], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.)
+(Pub. L. 107–76, title VII, §703, Nov. 28, 2001, 115 Stat. 731.)
 
 #### Codification
 
@@ -11,6 +11,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 106–387, §1(a) \[title VII, §703\], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.
 
 Pub. L. 106–78, title VII, §703, Oct. 22, 1999, 113 Stat. 1160.
 

@@ -8,7 +8,7 @@ Developmental Work and Service Testing.—The Administrator of the Federal Aviat
 
 Research.—The Administrator shall conduct or supervise research—
 
-&emsp;(1) to develop technologies and analyze information to predict the effects of aircraft design, maintenance, testing, wear, and fatigue on the life of aircraft, including nonstructural aircraft systems, and air safety;
+&emsp;(1) to develop technologies and analyze information to predict the effects of aircraft design, maintenance, testing, wear, and fatigueon the life of aircraft, including nonstructural aircraft systems, and air safety;
 
 &emsp;(2) to develop methods of analyzing and improving aircraft maintenance technology and practices, including nondestructive evaluation of aircraft structures;
 

@@ -16,7 +16,7 @@ For purposes of the housing programs under this part, there are authorized to be
 
 Sums appropriated under this section shall remain available until expended.
 
-(Pub. L. 100–77, title IV, §463, formerly §459, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4370; renumbered §463 and amended Pub. L. 102–550, title XIV, §1406(a), (e)(3), Oct. 28, 1992, 106 Stat. 4029, 4031.)
+(Pub. L. 100–77, title IV, §463, formerly §459, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28,1990, 104 Stat. 4370; renumbered §463 and amended Pub. L. 102–550, title XIV, §1406(a), (e)(3), Oct. 28, 1992, 106 Stat. 4029, 4031.)
 
 #### Prior Provisions
 

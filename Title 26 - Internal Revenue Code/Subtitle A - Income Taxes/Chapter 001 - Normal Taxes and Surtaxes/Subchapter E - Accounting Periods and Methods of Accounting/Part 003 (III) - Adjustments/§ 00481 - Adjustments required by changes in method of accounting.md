@@ -44,7 +44,7 @@ In computing the taxpayer's taxable income for any taxable year (referred to in 
 
 In the case of any change described in subsection (a), the taxpayer may, in such manner and subject to such conditions as the Secretary may by regulations prescribe, take the adjustments required by subsection (a)(2) into account in computing the tax imposed by this chapter for the taxable year or years permitted under such regulations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 160; Pub. L. 85–866, title I, §29(a), (b), Sept. 2, 1958, 72 Stat.1626–1628; Pub. L. 91–172, title V, §512(f)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 94–455, title XIX, §§1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1834; Pub. L. 96–471, §2(b)(3), Oct. 19, 1980, 94 Stat. 2254.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 160; Pub. L. 85–866, title I, §29(a), (b), Sept. 2, 1958, 72 Stat. 1626–1628; Pub. L. 91–172, title V, §512(f)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 94–455, title XIX, §§1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1834; Pub. L. 96–471, §2(b)(3), Oct. 19, 1980, 94 Stat. 2254.)
 
 #### References in Text
 

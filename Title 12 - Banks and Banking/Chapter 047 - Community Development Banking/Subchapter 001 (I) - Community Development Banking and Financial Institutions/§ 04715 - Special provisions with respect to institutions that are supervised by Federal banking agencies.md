@@ -46,7 +46,7 @@ The Fund, the appropriate Federal banking agency, and any other party providing 
 
 #### (g) Exceptions
 
-Nothing in this section shall authorize the Fund or the appropriate Federal banking agency to withhold information from the Congress or prevent it from complying with a request for information from a Federal department or agency in compliance with applicable law.
+Nothing in this section shall authorize the Fund or the appropriate Federal banking agencyto withhold information from the Congress or prevent it from complying with a request for information from a Federal department or agency in compliance with applicable law.
 
 #### (h) Sanctions
 

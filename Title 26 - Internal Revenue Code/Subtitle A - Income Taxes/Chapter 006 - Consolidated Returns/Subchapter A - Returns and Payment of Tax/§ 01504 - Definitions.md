@@ -92,7 +92,7 @@ Notwithstanding the provisions of paragraph (2) of subsection (b)—
 
 &emsp;(1) Two or more domestic insurance companies each of which is subject to tax under section 801 shall be treated as includible corporations for purposes of applying subsection (a) to such insurance companies alone.
 
-&emsp;(2)(A) If an affiliated group (determined without regard to subsection (b)(2)) includes one or more domestic insurance companies taxed under section 801, the common parent of such group may elect (pursuant to regulationsprescribed by the Secretary) to treat all such companies as includible corporations for purposes of applying subsection (a) except that no such company shall be so treated until it has been a member of the affiliated group for the 5 taxable years immediately preceding the taxable year for which the consolidated return is filed.
+&emsp;(2)(A) If an affiliated group (determined without regard to subsection (b)(2)) includes one or more domestic insurance companies taxed under section 801, the common parent of such group may elect (pursuant to regulations prescribed by the Secretary) to treat all such companies as includible corporations for purposes of applying subsection (a) except that no such company shall be so treated until it has been a member of the affiliated group for the 5 taxable years immediately preceding the taxable year for which the consolidated return is filed.
 
 &emsp;(B) If an election under this paragraph is in effect for a taxable year—
 
@@ -156,11 +156,11 @@ Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, §211(b)(20), substituted “
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted “(within the meaning for section 409A(<i>l</i>)) while such securities are held under an ESOP, or qualifying employer securities (within the meaning of section 4975(e)(8)) while such securities are held under a leveraged employee stock ownership plan which meets the requirements of section 4975(e)(7)” for “within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1975, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §803(b)(3), substituted “dividends, employer securities within themeaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively” for “dividends” after “preferred as to”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §803(b)(3), substituted “dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively” for “dividends” after “preferred as to”.
 
 Subsec. (b)(4). Pub. L. 94–455, §1051(g), substituted “Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year” for “Corporations entitled to the benefits of section 931, by reason of receiving a large percentage of their income from sources within possessions of the United States” in par. (4).
 
-Subsec. (b)(5). Pub. L. 94–455, §1053(d)(2), struck out par. (5) which included corporations organized under the China Trade Act, 1922, within term “includible corporation”.
+Subsec. (b)(5). Pub. L. 94–455, §1053(d)(2), struck out par. (5) which included corporations organized underthe China Trade Act, 1922, within term “includible corporation”.
 
 Subsec. (c). Pub. L. 94–455, §1507(a), designated existing provisions as provision preceding par. (1) and par. (1), in provision preceding par. (1) as so designated, substituted “Notwithstanding the provisions” for “Despite the provisions”, in par. (1) as so designated, substituted “tax under section 802 shall be treated” for “taxation under the same section of this subtitle shall be considered” and added par. (2).
 
@@ -238,13 +238,13 @@ Exception for certain sell-downs.—Subsection (b)(2) (and not subsection (b)(3)
 
 Native corporations.—
 
-&emsp;“(A) In the case of a Native Corporation established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), or a corporation all of whose stock is owned directly by such a corporation, during any taxable year (beginning after the effective date of these amendments and before 1992), or any partthereof, in which the Native Corporation is subject to the provisions of section 7(h)(1) of such Act (43 U.S.C. 1606(h)(1))—
+&emsp;“(A) In the case of a Native Corporation established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), or a corporation all of whose stock is owned directly by such a corporation, during any taxable year (beginning after the effective date of these amendments and before 1992), or any part thereof, in which the Native Corporation is subject to the provisions of section 7(h)(1) of such Act (43 U.S.C. 1606(h)(1))—
 
 &emsp;&emsp;“(i) the amendment made by subsection (a) \[amending this section\] shall not apply, and
 
 &emsp;&emsp;“(ii) the requirements for affiliation under section 1504(a) of the Internal Revenue Code of 1986 before the amendment made by subsection (a) shall be applied solely according to the provisions expressly contained therein, without regard to escrow arrangements, redemption rights, or similar provisions.
 
-&emsp;“(B) Except as provided in subparagraph (C), during the period described in subparagraph (A), no provision of the Internal Revenue Code of 1986 (including sections 269 and 482) or principle of law shall apply to deny the benefit or use of losses incurred or credits earned by a corporation described in subparagraph (A) to the affiliated group of which the Native Corporation is the common parent.
+&emsp;“(B) Except as provided in subparagraph (C), during the period described in subparagraph (A), no provision of the Internal Revenue Code of 1986 (including sections 269 and 482) or principle of law shall apply todeny the benefit or use of losses incurred or credits earned by a corporation described in subparagraph (A) to the affiliated group of which the Native Corporation is the common parent.
 
 &emsp;“(C) Losses incurred or credits earned by a corporation described in subparagraph (A) shall be subject to the general consolidated return regulations, including the provisions relating to separate return limitation years, and to sections 382 and 383 of the Internal Revenue Code of 1986.
 
@@ -324,7 +324,7 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 #### Effective Date of 1959 Amendments
 
-Section 2(d) of Pub. L. 86–376 provided that: “The amendment made by subsection (a) \[amending section 1371 of this title\] shall apply to taxable years beginning after December 31, 1959. The amendments made by subsections (b) and (c) \[amending this section and section 1374 of this title\] shall take effect on the day after the date of the enactment of this Act \[Sept. 23, 1959\].”
+Section 2(d) of Pub. L. 86–376 provided that: “The amendment made by subsection (a) \[amending section1371 of this title\] shall apply to taxable years beginning after December 31, 1959. The amendments made by subsections (b) and (c) \[amending this section and section 1374 of this title\] shall take effect on the day after the date of the enactment of this Act \[Sept. 23, 1959\].”
 
 Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, see section 4 of Pub. L. 86–69, set out as an Effective Date note under section 381 of this title.
 
@@ -424,7 +424,7 @@ Disqualified Income Defined.—For purposes of subsection (a), the term ‘disqu
 
 “(e)
 
-Basis Determination.—For purposes of determining basis for Federal tax purposes, no provision inany law enacted after the date of the enactment of this Act \[Nov. 10, 1988\] shall affect the date on which the transfer to the Native Corporation is made. The preceding sentence shall apply to all taxable years whether beginning before, on, or after such date of enactment.”
+Basis Determination.—For purposes of determining basis for Federal tax purposes, no provision in any law enacted after the date of the enactment of this Act \[Nov. 10, 1988\] shall affect the date on which the transfer to the Native Corporation is made. The preceding sentence shall apply to all taxable years whether beginning before, on, or after such date of enactment.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -446,5 +446,5 @@ Nontermination of affiliated group.—The mere election to file a consolidated r
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 132, 149, 163, 165, 172, 243, 246A, 279, 280G, 281, 304, 312, 332, 336, 338, 355, 358, 367, 382, 384, 404, 448, 465, 472, 542, 543, 584, 593, 732, 805, 818, 832, 861, 864, 865, 904, 936, 952, 954, 1042, 1092, 1313, 1362, 1503, 4216, 4282, 4612, 7701 of this title.
+This section is referred to in sections 132, 149, 163, 165, 172, 243, 246A, 279, 280G, 281, 304, 312, 332, 336, 338, 355, 358, 367, 382, 384, 404, 448, 465, 472, 542, 543, 584, 593, 732, 805, 818, 832, 861, 864, 865, 904, 936, 952, 954, 1042, 1092, 1313, 1362, 1503, 4216, 4282, 4612, 6166, 7701 of this title.
 

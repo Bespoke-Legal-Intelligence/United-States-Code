@@ -4,7 +4,7 @@ Whenever the Secretary of the Army considers that space is available, the follow
 
 &emsp;(1) Members of the Navy, Marine Corps, or Coast Guard.
 
-&emsp;(2) Officers and employees of the Department of the Army, the Department of the Navy, theDepartment of the Air Force, or the Coast Guard.
+&emsp;(2) Officers and employees of the Department of the Army, the Department of the Navy, the Department of the Air Force, or the Coast Guard.
 
 &emsp;(3) Supplies of the Department of the Navy.
 

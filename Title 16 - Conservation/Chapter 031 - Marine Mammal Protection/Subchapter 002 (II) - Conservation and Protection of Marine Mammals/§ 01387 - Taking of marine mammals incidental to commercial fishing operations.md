@@ -2,9 +2,9 @@
 
 #### (a) In general
 
-(1) Effective on April 30, 1994, and except as provided in section 1383a of this title and in paragraphs (2), (3), and (4) of this subsection, the provisions of this section shall govern the incidental taking of marine mammals in the course of commercial fishing operations by persons using vessels of the United States or vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) ofthis title. In any event it shall be the immediate goal that the incidental mortality or serious injury of marine mammals occurring in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate within 7 years after April 30, 1994.
+(1) Effective on April 30, 1994, and except as provided in section 1383a of this title and in paragraphs (2), (3), and (4) of this subsection, the provisions of this section shall govern the incidental taking of marine mammals in the course of commercial fishing operations by persons using vessels of the United States or vessels which have valid fishing permits issued by the Secretary in accordance with section 1824(b) of this title. In any event it shall be the immediate goal that the incidental mortality or serious injury of marine mammals occurring in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate within 7 years after April 30, 1994.
 
-(2) In the case of the incidental taking of marine mammals from species or stocks designated under this chapter as depleted on the basis of their listing as threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), both this section and section 1371(a)(5)(E) of this chapter shall apply.
+(2) In the case of the incidental taking of marine mammals from species or stocks designated under this chapter as depleted on the basis of their listing as threatened species or endangered species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), both this section and section 1371(a)(5)(E) of this title shall apply.
 
 (3) Sections <sup>1</sup> 1374(h) of this title and subchapter IV of this chapter, and not this section, shall govern the taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean.
 
@@ -50,7 +50,7 @@
 
 (C) Except as provided in subsection (a) of this section, an authorization granted under this section shall allow the incidental taking of all species and stocks of marine mammals to which this chapter applies.
 
-(3)(A) An owner of a vessel engaged in any fishery listed under paragraph (1)(A)(i) or (ii) shall, in order to engage in the lawful incidentaltaking of marine mammals in a commercial fishery—
+(3)(A) An owner of a vessel engaged in any fishery listed under paragraph (1)(A)(i) or (ii) shall, in order to engage in the lawful incidental taking of marine mammals in a commercial fishery—
 
 &emsp;(i) have registered as required under paragraph (2) with the Secretary in order to obtain for each such vessel owned and used in the fishery an authorization for the purpose of incidentally taking marine mammals in accordance with this section, except that owners of vessels holding valid certificates of exemption under section 1383a of this title are deemed to have registered for purposes of this subsection for the period during which such exemption is valid;
 
@@ -86,7 +86,7 @@
 
 (B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
-(C) The Secretary is authorized to charge a fee for the granting of an authorization under this section. The level of fees charged under this subparagraph shall not exceed the administrative costs incurred in granting an authorization. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of authorizations under this section.
+(C) The Secretary is authorized to charge a fee for the granting of an authorization under thissection. The level of fees charged under this subparagraph shall not exceed the administrative costs incurred in granting an authorization. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of authorizations under this section.
 
 #### (d) Monitoring of incidental takes
 
@@ -106,7 +106,7 @@
 
 &emsp;(C) perform other scientific investigations.
 
-(3) In determining the distribution of observers among commercial fisheries and vesselswithin a fishery, the Secretary shall be guided by the following standards:
+(3) In determining the distribution of observers among commercial fisheries and vessels within a fishery, the Secretary shall be guided by the following standards:
 
 &emsp;(A) The requirement to obtain statistically reliable information.
 
@@ -158,7 +158,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(3) The name and description of the fishery.
 
-&emsp;(4) The species of each marine mammal incidentally killed or injured, and the date, time, and approximate geographic location of such occurrence.
+&emsp;(4) The species of each marine mammal incidentally killed or injured, and the date, time,and approximate geographic location of such occurrence.
 
 #### (f) Take reduction plans
 
@@ -196,7 +196,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (E) Members of take reduction teams shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their duties as members of the team.
 
-(7) Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, the following procedures shall apply in the development of the take reduction plan for the stock:
+(7) Where the human-caused mortality and serious injury from a strategic stock is estimatedto be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, the following procedures shall apply in the development of the take reduction plan for the stock:
 
 &emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary, consistent with the other provisions of this section.
 
@@ -234,7 +234,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (9) In implementing a take reduction plan developed pursuant to this subsection, the Secretary may, where necessary to implement a take reduction plan to protect or restore a marine mammal stock or species covered by such plan, promulgate regulations which include, but are not limited to, measures to—
 
-&emsp;(A) establish fishery-specific limits on incidental mortality and serious injury of marine mammals in commercial fisheries or restrict commercial fisheries by time or area;
+&emsp;(A) establish fishery-specific limits on incidental mortality and serious injury of marinemammals in commercial fisheries or restrict commercial fisheries by time or area;
 
 &emsp;(B) require the use of alternative commercial fishing gear or techniques and new technologies, encourage the development of such gear or technology, or convene expert skippers’ panels;
 
@@ -244,7 +244,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (10)(A) Notwithstanding paragraph (6), in the case of any stock to which paragraph (1) applies for which a final stock assessment has not been published under section 1386(b)(3) of this title by April 1, 1995, due to a proceeding under section 1386(b)(2) of this title, or any Federal court review of such proceeding, the Secretary shall establish a take reduction team under paragraph (6) for such stock as if a final stock assessment had been published.
 
-(B) The draft stock assessment published for such stock under section 1386(b)(1) of this title shall be deemed the final stock assessment forpurposes of preparing and implementing a take reduction plan for such stock under this section.
+(B) The draft stock assessment published for such stock under section 1386(b)(1) of this title shall be deemed the final stock assessment for purposes of preparing and implementing a take reduction plan for such stock under this section.
 
 (C) Upon publication of a final stock assessment for such stock under section 1386(b)(3) of this title the Secretary shall immediately reconvene the take reduction team for such stock for the purpose of amending the take reduction plan, and any regulations issued to implement such plan, if necessary, to reflect the final stock assessment or court action. Such amendments shall be made in accordance with paragraph (7)(F) or (8)(F), as appropriate.
 

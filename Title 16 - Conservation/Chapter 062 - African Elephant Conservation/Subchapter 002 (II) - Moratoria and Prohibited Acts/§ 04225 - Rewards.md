@@ -16,5 +16,5 @@ An officer or employee of the United States or of any State or local government 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4212, 4224, 4246 of this title.
+This section is referred to in sections 4224, 4246 of this title.
 

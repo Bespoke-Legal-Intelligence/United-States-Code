@@ -26,7 +26,7 @@ Subsections (a) through (c) of this section shall be exercised notwithstanding a
 
 #### References in Text
 
-Subchapter III of this chapter, referred to in subsecs. (a) and (b), was in the original “title XIII”, meaning title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–776. For complete classification of title XIII of div. G of this Act to the Code, see Tables.
+Subchapter III of this chapter, referred to in subsecs. (a) and (b), was in the original “title XIII”, meaning title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–776. For complete classificationof title XIII of div. G of this Act to the Code, see Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 

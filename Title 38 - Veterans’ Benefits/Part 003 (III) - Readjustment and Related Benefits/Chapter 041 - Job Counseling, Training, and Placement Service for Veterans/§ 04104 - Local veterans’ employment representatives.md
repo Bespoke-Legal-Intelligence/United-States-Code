@@ -1,12 +1,12 @@
 ### §4104. Local veterans’ employment representatives
 
-(a)(1) Beginning with fiscal year 1988, the total of the amount of funds made available for use in the States under section 4102A(b)(5)(A)(ii) of this title shall be sufficient to support the appointment of 1,600 full-time local veterans’ employment representatives and the States’ administrative expenses associated with the appointment of that number of such representatives and shall be allocated to the several States so that each State receives funding sufficient to support—
+(a)(1) For any fiscal year, the total of the amount of funds made available for use in the States under section 4102A(b)(5)(A)(ii) of this title shall be sufficient to support the appointment of 1,600 full-time local veterans’ employment representatives and the States’ administrative expenses associated with the appointment of that number of such representatives and shall be allocated to the several States so that each State receives funding sufficient to support—
 
 &emsp;(A) the number of such representatives who were assigned in such State on January 1, 1987, for which funds were provided under this chapter, plus one additional such representative;
 
-&emsp;(B) the percentage of the 1,600 such representatives for which funding is not provided under clause (A) of this paragraph which is equal to the average of (i) the percentage of all veterans residing in the United States who reside in such State, (ii) the percentage of the total of all eligible veterans and eligible persons registered for assistance with local employment service offices in the United States who are registered for assistance with local employment service offices in such State, and (iii) the percentage of all full-service local employment service offices in the United States which are located in such State; and
+&emsp;(B) the percentage of the 1,600 such representatives for which funding is not provided under subparagraph (A) of this paragraph which is equal to the average of (i) the percentage of all veterans residing in the United States who reside in such State, (ii) the percentage of the total of all eligible veterans and eligible persons registered for assistance with local employment service offices in the United States who are registered for assistance with local employment service offices in such State, and (iii) the percentage of all full-service local employment service offices in the United States which are located in such State; and
 
-&emsp;(C) the State's administrative expenses associated with the appointment of the number of such representatives for which funding is allocated to the State under clauses (A) and (B) of this paragraph.
+&emsp;(C) the State's administrative expenses associated with the appointment of the number of such representatives for which funding is allocated to the State under subparagraphs (A) and (B) of this paragraph.
 
 (2)(A) The local veterans’ employment representatives allocated to a State pursuant to paragraph (1) of this subsection shall be assigned by the administrative head of the employment service in the State, after consultation with the Director for Veterans’ Employment and Training for the State, so that as nearly as practical (i) one full-time representative is assigned to each local employment service office at which at least 1,100 eligible veterans and eligible persons are registered for assistance, (ii) one additional full-time representative is assigned to each local employment service office for each 1,500 eligible veterans and eligible persons above 1,100 who are registered at such office for assistance, and (iii) one half-time representative is assigned to each local employment service office at which at least 350 but less than 1,100 eligible veterans and eligible persons are registered for assistance.
 
@@ -18,37 +18,39 @@
 
 &emsp;(B) so registered or renewed such individual's registration during a previous program year and, in accordance with regulations which the Secretary shall prescribe, is counted as still being registered for administrative purposes.
 
-(4) In the appointment of local veterans’ employment representatives on or after July 1, 1988, preference shall be given to qualified eligible veterans or eligible persons. Preference shall be accorded first to qualified service-connected disabled veterans; then, if no such disabled veteran is available, to qualified eligible veterans; and, if no such eligible veteran is available, then to qualified eligible persons.
+(4) In the appointment of local veterans’ employment representatives, preference shall be given to qualified eligible veterans or eligible persons. Preference shall be accorded first to qualified service-connected disabled veterans; then, if no such disabled veteran is available, to qualified eligible veterans; and, if no such eligible veteran is available, then to qualified eligible persons.
 
-(b) Local veterans’ employment representatives shall—
+(b) Local veterans’ employment representatives shall perform the following functions:
 
-&emsp;(1) functionally supervise the providing of services to eligible veterans and eligible persons by the local employment service staff;
+&emsp;(1) Functionally supervise the providing of services to eligible veterans and eligible persons by the local employment service staff.
 
-&emsp;(2) maintain regular contact with community leaders, employers, labor unions, training programs, and veterans’ organizations for the purpose of (A) keeping them advised of eligible veterans and eligible persons available for employment and training, and (B) keeping eligible veterans and eligible persons advised of opportunities for employment and training;
+&emsp;(2) Maintain regular contact with community leaders, employers, labor unions, training programs, and veterans’ organizations for the purpose of (A) keeping them advised of eligible veterans and eligible persons available for employment and training, and (B) keeping eligible veterans and eligible persons advised of opportunities for employment and training.
 
-&emsp;(3) provide directly, or facilitate the provision of, labor exchange services by local employment service staff to eligible veterans and eligible persons, including intake and assessment, counseling, testing, job-search assistance, and referral and placement;
+&emsp;(3) Provide directly, or facilitate the provision of, labor exchange services by local employment service staff to eligible veterans and eligible persons, including intake and assessment, counseling, testing, job-search assistance, and referral and placement.
 
-&emsp;(4) encourage employers and labor unions to employ eligible veterans and eligible persons and conduct on-the-job training and apprenticeship programs for such veterans and persons;
+&emsp;(4) Encourage employers and labor unions to employ eligible veterans and eligible persons and conduct on-the-job training and apprenticeship programs for such veterans and persons.
 
-&emsp;(5) promote and monitor the participation of veterans in federally funded employment and training programs, monitor the listing of vacant positions with State employment agencies by Federal agencies, and report to the Director for Veterans’ Employment and Training for the State concerned any evidence of failure to provide priority or other special consideration in the provision of services to veterans as is required by law or regulation;
+&emsp;(5) Promote and monitor the participation of veterans in federally funded employment and training programs, monitor the listing of vacant positions with State employment agencies by Federal agencies, and report to the Director for Veterans’ Employment and Training for the State concerned any evidence of failure to provide priority or other special consideration in the provision of services to veterans as is required by law or regulation.
 
-&emsp;(6) monitor the listing of jobs and subsequent referrals of qualified veterans as required by section 4212 of this title;
+&emsp;(6) Monitor the listing of jobs and subsequent referrals of qualified veterans as required by section 4212 of this title.
 
-&emsp;(7) work closely with appropriate Department of Veterans Affairs personnel engaged in providing counseling or rehabilitation services under chapter 31 of this title, and cooperate with employers in identifying disabled veterans who have completed or are participating in a vocational rehabilitation training program under such chapter and who are in need of employment;
+&emsp;(7) Work closely with appropriate Department of Veterans Affairs personnel engaged in providing counseling or rehabilitation services under chapter 31 of this title, and cooperate with employers in identifying disabled veterans who have completed or are participating in a vocational rehabilitation training program under such chapter and who are in need of employment.
 
-&emsp;(8) refer eligible veterans and eligible persons to training, supportive services, and educational opportunities, as appropriate;
+&emsp;(8) Refer eligible veterans and eligible persons to training, supportive services, and educational opportunities, as appropriate.
 
-&emsp;(9) assist, through automated data processing, in securing and maintaining current information regarding available employment and training opportunities;
+&emsp;(9) Assist, through automated data processing, in securing and maintaining current information regarding available employment and training opportunities.
 
-&emsp;(10) cooperate with the staff of programs operated under section 1712A of this title in identifying and assisting veterans who have readjustment problems and who may need services available at the local employment service office;
+&emsp;(10) Cooperate with the staff of programs operated under section 1712A of this title in identifying and assisting veterans who have readjustment problems and who may need services available at the local employment service office.
 
-&emsp;(11) when requested by a Federal or State agency, a private employer, or a service-connected disabled veteran, assist such agency, employer, or veteran in identifying and acquiring prosthetic and sensory aids and devices needed to enhance the employability of disabled veterans; and
+&emsp;(11) When requested by a Federal or State agency, a private employer, or a service-connected disabled veteran, assist such agency, employer, or veteran in identifying and acquiring prosthetic and sensory aids and devices needed to enhance the employability of disabled veterans.
 
-&emsp;(12) facilitate the provision of guidance or counseling services, or both, to veterans who,pursuant to section 5(b)(3) of the Veterans’ Job Training Act (29 U.S.C. 1721 note),<sup>1</sup> are certified as eligible for participation under such Act.
+&emsp;(12) Facilitate the provision of guidance or counseling services, or both, to veterans who, pursuant to section 5(b)(3) of the Veterans’ Job Training Act (29 U.S.C. 1721 note),<sup>1</sup> are certified as eligible for participation under such Act; and <sup>2</sup>
+
+&emsp;(13) coordinate <sup>3</sup> employment services with training assistance provided to veterans by entities receiving funds under section 2021 of this title.
 
 (c) Each local veterans’ employment representative shall be administratively responsible to the manager of the local employment service office and shall provide reports, not less frequently than quarterly, to the manager of such office and to the Director for Veterans’ Employment and Training for the State regarding compliance with Federal law and regulations with respect to special services and priorities for eligible veterans and eligible persons.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, §2013; renumbered §2004, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 94–502, title VI, §606(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §3(a), May 20, 1988, 102 Stat. 560; Pub. L. 101–237, title IV, §423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, §10(a)(8), Mar. 22, 1991, 105 Stat. 56; renumbered §4104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, §2013; renumbered §2004, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 94–502, title VI, §606(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §3(a), May 20, 1988, 102 Stat. 560; Pub. L. 101–237, title IV, §423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, §10(a)(8), Mar. 22, 1991, 105 Stat. 56; renumbered §4104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(10), June 5, 2001, 115 Stat. 35; Pub. L. 107–95, §9(b), Dec. 21, 2001, 115 Stat. 920.)
 
 #### References in Text
 
@@ -63,6 +65,28 @@ Prior section 4104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 89�
 Provisions similar to those comprising this section were contained in former section 2003 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
 #### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–14, §8(a)(10)(A)(i), substituted “For any fiscal year,” for “Beginning with fiscal year 1988,” in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 107–14, §8(a)(10)(A)(ii), substituted “subparagraph (A)” for “clause (A)”.
+
+Subsec. (a)(1)(C). Pub. L. 107–14, §8(a)(10)(A)(iii), substituted “subparagraphs (A) and (B)” for “clauses (A) and (B)”.
+
+Subsec. (a)(4). Pub. L. 107–14, §8(a)(10)(B), struck out “on or after July 1, 1988” after “local veterans’ employment representatives”.
+
+Subsec. (b). Pub. L. 107–14, §8(a)(10)(C)(i), substituted “shall perform the following functions:” for “shall—” in introductory provisions.
+
+Subsec. (b)(1) to (10). Pub. L. 107–14, §8(a)(10)(C)(ii), (iii), capitalized the first letter of the first word and substituted a period for the semicolon at end.
+
+Subsec. (b)(11). Pub. L. 107–95, §9(b)(1), which directed that “and” be struck out at end, could not be executed because of the intervening amendment by Pub. L. 107–14, §8(a)(10)(C)(iv). See below.
+
+Pub. L. 107–14, §8(a)(10)(C)(ii), (iv), capitalized the first letter of the first word and substituted a period for “; and” at end.
+
+Subsec. (b)(12). Pub. L. 107–95, §9(b)(2), substituted “; and” for period at end.
+
+Pub. L. 107–14, §8(a)(10)(C)(ii), capitalized the first letter of the first word.
+
+Subsec. (b)(13). Pub. L. 107–95, §9(b)(3), added par. (13).
 
 1991—Pub. L. 102–83, §5(a), renumbered section 2004 of this title as this section.
 
@@ -149,4 +173,8 @@ Expiration Date.—The authority to carry out the pilot program under this secti
 This section is referred to in sections 4102A, 4103A, 4104A, 4106, 4107 of this title; title 5 section 5948.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. A period probably should appear instead of “; and”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
 

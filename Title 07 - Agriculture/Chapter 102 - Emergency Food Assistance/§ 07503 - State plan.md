@@ -28,5 +28,5 @@ The Secretary shall encourage each State receiving commodities under this chapte
 
 #### Amendments
 
-1996—Pub. L. 104–193 amended section generally, substituting present provisions for provisions relating toavailability of flour, cornmeal, and cheese acquired by the Commodity Credit Corporation.
+1996—Pub. L. 104–193 amended section generally, substituting present provisions for provisions relating to availability of flour, cornmeal, and cheese acquired by the Commodity Credit Corporation.
 

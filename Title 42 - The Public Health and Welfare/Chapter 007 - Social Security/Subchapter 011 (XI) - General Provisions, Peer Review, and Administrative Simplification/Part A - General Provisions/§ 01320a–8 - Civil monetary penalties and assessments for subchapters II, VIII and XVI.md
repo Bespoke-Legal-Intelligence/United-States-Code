@@ -16,7 +16,7 @@
 
 #### (b) Initiation of proceedings; hearing; sanctions
 
-(1) The Commissioner of Social Security may initiate a proceeding to determine whether to impose a civil money penalty or assessment, or whether to recommend exclusion under subsection (a) of this section only as authorized by the Attorney General pursuant to procedures agreed upon by the Commissioner of Social Security and the Attorney General. The Commissioner of Social Security may not initiate an action under this section with respect to any violation described in subsection (a) of this section later than 6 years after the date the violation was committed. The Commissioner of Social Security may initiate an action under this section by serving notice of the action in any mannerauthorized by Rule 4 of the Federal Rules of Civil Procedure.
+(1) The Commissioner of Social Security may initiate a proceeding to determine whether to impose a civil money penalty or assessment, or whether to recommend exclusion under subsection (a) of this section only as authorized by the Attorney General pursuant to procedures agreed upon by the Commissioner of Social Security and the Attorney General. The Commissioner of Social Security may not initiate an action under this section with respect to any violation described in subsection (a) of this section later than 6 years after the date the violation was committed. The Commissioner of Social Security may initiate an action under this section by serving notice of the action in any manner authorized by Rule 4 of the Federal Rules of Civil Procedure.
 
 (2) The Commissioner of Social Security shall not make a determination adverse to any person under this section until the person has been given written notice and an opportunity for the determination to be made on the record after a hearing at which the person is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the person.
 
@@ -130,7 +130,7 @@ The Debt Collection Act of 1982, referred to in subsec. (e)(1)(D), is Pub. L. 97
 
 #### Prior Provisions
 
-A prior section 1320a–8, act Aug. 14, 1935, ch. 531, title XI, §1129, as added Dec. 5, 1980, Pub. L. 96–499, title IX, §914(a), 94 Stat. 2621; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2193(c)(4), 95 Stat. 827; July 18, 1984, Pub. L. 98–369, div. B, title III, §2354(a)(4), 98 Stat. 1100, related to coordinated audits, prior to repeal by Pub. L. 100–203, title IV, §4118(m)(1)(A), (2), Dec. 22, 1987, 101 Stat. 1330–157, applicable to audits conducted after Dec. 22, 1987.
+A prior section 1320a–8, act Aug. 14, 1935, ch. 531, title XI, §1129, as added Dec. 5, 1980, Pub. L. 96–499, title IX, §914(a), 94 Stat. 2621; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2193(c)(4), 95 Stat. 827; July 18, 1984, Pub. L. 98–369, div. B, title III, §2354(a)(4), 98 Stat. 1100, related to coordinated audits, prior to repeal by Pub. L. 100–203, title IV, §4118(m)(1)(A), (2), Dec. 22, 1987, 101Stat. 1330–157, applicable to audits conducted after Dec. 22, 1987.
 
 #### Amendments
 

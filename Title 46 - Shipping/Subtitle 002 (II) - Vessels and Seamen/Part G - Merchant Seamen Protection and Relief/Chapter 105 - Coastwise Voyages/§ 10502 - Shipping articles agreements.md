@@ -10,7 +10,7 @@
 
 (e) The owner, charterer, managing operator, master, or individual in charge shall maintain the shipping agreement and make the shipping agreement available to the seaman.
 
-(f) The Secretary shall prescribe regulations requiring shipping companies to maintain records of seamen on matters of engagement, discharge, and service. The shipping companies shall make these records available to the seaman and the Coast Guard on request.
+(f) The Secretary shall prescribe regulations requiring shipping companies to maintainrecords of seamen on matters of engagement, discharge, and service. The shipping companies shall make these records available to the seaman and the Coast Guard on request.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 570; Pub. L. 103–206, title IV, §413, Dec. 20, 1993, 107 Stat. 2437.)
 

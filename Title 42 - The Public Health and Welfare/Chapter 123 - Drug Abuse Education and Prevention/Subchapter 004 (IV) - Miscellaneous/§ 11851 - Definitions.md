@@ -1,6 +1,6 @@
 ### §11851. Definitions
 
-Unless otherwise defined by an Act amended by this title,<sup>1</sup> for purposes of this title <sup>1</sup> and the amendments made by this title—<sup>1</sup>
+Unless otherwise defined by an Act amended by this title,<sup>1</sup> for purposes of this title <sup>1</sup> and the amendments made by this title— <sup>1</sup>
 
 &emsp;(1) the term “community based” has the meaning given it in section 5603(1) of this title,
 
@@ -58,7 +58,7 @@ Section 5603(8) of this title, referred to in par. (12), was subsequently amende
 
 1993—Par. (5). Pub. L. 103–82 added par. (5) and struck out former par. (5) which read as follows: “the term ‘Director’ means the Director of the ACTION Agency,”.
 
-1989—Pub. L. 101–204 redesignated pars. (2) to (13) as (1) to (12), respectively, and struck out former par. (1) which read as follows: “the term ‘Administrator’ meansthe Administrator of the Office of Juvenile Justice and Delinquency Prevention,”.
+1989—Pub. L. 101–204 redesignated pars. (2) to (13) as (1) to (12), respectively, and struck out former par. (1) which read as follows: “the term ‘Administrator’ means the Administrator of the Office of Juvenile Justice and Delinquency Prevention,”.
 
 #### Effective Date of 1998 Amendment
 

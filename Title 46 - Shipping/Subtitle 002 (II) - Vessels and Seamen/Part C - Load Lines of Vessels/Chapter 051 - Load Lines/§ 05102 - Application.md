@@ -48,7 +48,7 @@
 
 &emsp;(8) a public vessel of the United States on a domestic voyage.
 
-&emsp;(9) a vessel excluded from the application of this chapter by an international agreement to which the United States Government is a party.
+&emsp;(9) a vessel excluded from the application of this chapter by an international agreement towhich the United States Government is a party.
 
 &emsp;(10) an existing vessel of not more than 150 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that is on a domestic voyage.
 
@@ -122,7 +122,7 @@ Section 5102(d) provides that this chapter shall not be construed as abrogating 
 
 1996—Subsec. (b)(4). Pub. L. 104–324, §719(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons” in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 104–324, §719(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons” in introductory provisions.
+Subsec. (b)(5). Pub. L. 104–324, §719(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this titleas prescribed by the Secretary under section 14104 of this title” after “500 gross tons” in introductory provisions.
 
 Subsec. (b)(10). Pub. L. 104–324, §719(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “150 gross tons”.
 

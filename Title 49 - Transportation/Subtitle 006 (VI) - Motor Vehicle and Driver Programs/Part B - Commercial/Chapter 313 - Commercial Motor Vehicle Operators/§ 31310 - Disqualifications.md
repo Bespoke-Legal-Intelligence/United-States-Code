@@ -82,7 +82,7 @@ State Disqualification.—Notwithstanding subsections (b) through (g) of this se
 
 (i)
 
-Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Federal Regulations, the Secretary shall prescribe regulationsestablishing and enforcing an out-of-service period of 24 hours for an individual who violates section 392.5. An individual may not violate an out-of-service order issued under those regulations.
+Out-of-Service Orders.—(1)(A) To enforce section 392.5 of title 49, Code of Federal Regulations, the Secretary shall prescribe regulations establishing and enforcing an out-of-service period of 24 hours for an individual who violates section 392.5. An individual may not violate an out-of-service order issued under those regulations.
 
 (B) The Secretary shall prescribe regulations establishing and enforcing requirements for reporting out-of-service orders issued under regulations prescribed under subparagraph (A) of this paragraph. Regulations prescribed under this subparagraph shall require at least that an operator of a commercial motor vehicle who is issued an out-of-service order to report the issuance to the individual's employer and to the State that issued the operator a driver's license.
 

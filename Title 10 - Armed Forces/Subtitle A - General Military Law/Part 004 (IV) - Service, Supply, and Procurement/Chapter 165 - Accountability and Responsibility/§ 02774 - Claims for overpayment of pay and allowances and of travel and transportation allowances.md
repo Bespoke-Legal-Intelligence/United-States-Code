@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the waiver is made in accordance with standards which the Director of the Office of Management and Budget shall prescribe.
 
-(b) The Director of the Office of Management and Budget or the Secretary concerned, as thecase may be, may not exercise his authority under this section to waive any claim—
+(b) The Director of the Office of Management and Budget or the Secretary concerned, as the case may be, may not exercise his authority under this section to waive any claim—
 
 &emsp;(1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the member or any other person having an interest in obtaining a waiver of the claim; or
 

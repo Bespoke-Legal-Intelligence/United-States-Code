@@ -32,7 +32,7 @@ The Secretary shall include among those interested groups that participate in th
 
 #### Codification
 
-October 17, 2000, referred to in subsec. (b), was in the original “the date of the enactment of this Act”, whichwas translated as meaning the date of enactment of Pub. L. 106–310, which amended this section generally, to reflect the probable intent of Congress.
+October 17, 2000, referred to in subsec. (b), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 106–310, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

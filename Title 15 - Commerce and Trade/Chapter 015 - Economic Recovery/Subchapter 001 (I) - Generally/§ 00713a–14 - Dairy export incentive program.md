@@ -22,7 +22,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (d) Payments under program to be made in cash or commodities
 
-(1) The regulations issued by the Secretary may provide for payments under the program to be made in cash or in commodities of equal value that are available in Commodity Credit Corporation stock.
+(1) The regulations issued by the Secretary may provide for payments under the program tobe made in cash or in commodities of equal value that are available in Commodity Credit Corporation stock.
 
 (2) If payments in commodities are authorized, such payments shall be made through the issuance of generic certificates redeemable in commodities.
 
@@ -32,7 +32,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 &emsp;(B) any such export sales by the entity—
 
-&emsp;&emsp;(i) will be in addition to, and not in place of, export sales of dairy products that theentity would otherwise make under the program or in the absence of the program; and
+&emsp;&emsp;(i) will be in addition to, and not in place of, export sales of dairy products that the entity would otherwise make under the program or in the absence of the program; and
 
 &emsp;&emsp;(ii) to the extent practicable, will not displace commercial export sales of United States dairy products by other exporters.
 

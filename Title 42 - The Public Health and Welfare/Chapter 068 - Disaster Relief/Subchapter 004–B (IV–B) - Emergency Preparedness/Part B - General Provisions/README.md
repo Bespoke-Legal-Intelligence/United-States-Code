@@ -13,3 +13,4 @@ Part B—General Provisions
 - [&sect; 05197e - Authorization of appropriations and transfers of funds](%C2%A7%2005197e%20-%20Authorization%20of%20appropriations%20and%20transfers%20of%20funds.md)
 - [&sect; 05197f - Relation to Atomic Energy Act of 1954](%C2%A7%2005197f%20-%20Relation%20to%20Atomic%20Energy%20Act%20of%201954.md)
 - [&sect; 05197g - Federal Bureau of Investigation](%C2%A7%2005197g%20-%20Federal%20Bureau%20of%20Investigation.md)
+- [&sect; 05197h - Minority emergency preparedness demonstration program](%C2%A7%2005197h%20-%20Minority%20emergency%20preparedness%20demonstration%20program.md)

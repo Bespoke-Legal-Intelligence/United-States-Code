@@ -6,11 +6,11 @@ Pay and Allowances.—Any person (except for a person subsequently determined to
 
 (b)
 
-Effect on Gratuities Paid as a Result of Status.—Subsection (a) shall not be interpreted to invalidate or otherwise affect the receipt by any person of a death gratuity or other payment from the United States on behalf of a person referred to in subsection (a) before the date of the enactment of this chapter.
+Effect on Gratuities Paid as a Result of Status.—Subsection (a) shall not be interpreted to invalidate or otherwise affect the receipt by any person of a death gratuity or other payment from the United States on behalf of a person referred to in subsection (a) before February 10, 1996.
 
-(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 349.)
+(Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 349; amended Pub. L. 107–107, div. A, title X, §1048(c)(10), Dec. 28, 2001, 115 Stat. 1226.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 104–106, which was approved Feb. 10, 1996.
+2001—Subsec. (b). Pub. L. 107–107 substituted “February 10, 1996” for “the date of the enactment of this chapter”.
 

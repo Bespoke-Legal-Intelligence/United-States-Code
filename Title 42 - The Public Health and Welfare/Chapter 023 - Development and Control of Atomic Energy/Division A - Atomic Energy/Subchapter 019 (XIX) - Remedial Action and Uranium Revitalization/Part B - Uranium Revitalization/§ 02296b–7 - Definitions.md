@@ -12,7 +12,7 @@ For purposes of this part:
 
 &emsp;&emsp;(C) with respect to enrichment services, that country where the enrichment services were performed.
 
-&emsp;(3) The term “domestic origin” refers to any uranium that has been mined in the UnitedStates including uranium recovered from uranium deposits in the United States by underground mining, open-pit mining, strip mining, in situ recovery, leaching, and ion recovery, or recovered from phosphoric acid manufactured in the United States.
+&emsp;(3) The term “domestic origin” refers to any uranium that has been mined in the United States including uranium recovered from uranium deposits in the United States by underground mining, open-pit mining, strip mining, in situ recovery, leaching, and ion recovery, or recovered from phosphoric acid manufactured in the United States.
 
 &emsp;(4) The term “domestic uranium producer” means a person or entity who produces domestic uranium and who has, to the extent required by State and Federal agencies having jurisdiction, licenses and permits for the operation, decontamination, decommissioning, and reclamation of sites, structures and equipment.
 

@@ -20,7 +20,7 @@
 
 #### (5) Offers from handlers
 
-&emsp;If a producer markets a quota peanut crop, meeting quality requirements for domestic edible use, through the marketing association loan for two consecutive marketing years and the Secretary determines that a handler provided the producer with a written offer, upon delivery, for the purchase of the quota peanut crops at a price equal to or in excess of the quota support price, the producer shall be ineligible for quota price support for the next marketing year. The Secretary shall establish the method by which a producer may appeal a determination under this paragraph regarding ineligibility for quota price support.
+&emsp;If a producer markets a quota peanut crop, meeting quality requirements for domestic edible use, through the marketing association loan for two consecutive marketing years and the Secretary determines that a handler provided the producer with a written offer, upon delivery, for the purchase of the quota peanut crops at a price equal to or in excess of thequota support price, the producer shall be ineligible for quota price support for the next marketing year. The Secretary shall establish the method by which a producer may appeal a determination under this paragraph regarding ineligibility for quota price support.
 
 #### (b) Additional peanuts
 
@@ -98,7 +98,7 @@ Losses in quota area pools shall be covered using the following sources in the f
 
 #### (3) Offset within area
 
-&emsp;Further losses in an area quota pool shall be offset by any gains or profits from additional peanuts (other than separate type pools established under subsection (c)(2)(A) of this section for Valencia peanuts produced in New Mexico) owned or controlled by the Commodity Credit Corporation in that area and sold for domestic edible use, in accordance with regulations issued by the Secretary. This paragraph shall not apply to profits or gains from a farm with 1 acre or less of peanut production.
+&emsp;Further losses in an area quota pool shall be offset by any gains or profits from additionalpeanuts (other than separate type pools established under subsection (c)(2)(A) of this section for Valencia peanuts produced in New Mexico) owned or controlled by the Commodity Credit Corporation in that area and sold for domestic edible use, in accordance with regulations issued by the Secretary. This paragraph shall not apply to profits or gains from a farm with 1 acre or less of peanut production.
 
 #### (4) First use of marketing assessments
 

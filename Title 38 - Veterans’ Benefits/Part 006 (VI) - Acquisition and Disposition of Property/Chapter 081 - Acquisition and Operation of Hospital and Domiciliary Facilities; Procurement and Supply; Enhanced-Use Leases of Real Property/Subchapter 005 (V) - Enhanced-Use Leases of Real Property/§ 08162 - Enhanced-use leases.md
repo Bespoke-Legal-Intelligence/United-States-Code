@@ -18,7 +18,9 @@
 
 (4) A property that is leased to another party under an enhanced-use lease may not be considered to be unutilized or underutilized for purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
-(b)(1) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall select the party with whom the lease will be entered into using selection procedures determined by the Secretary that ensure the integrity of the selection process.
+(b)(1)(A) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall select the party with whom the lease will be entered into using selection procedures determined by the Secretary that ensure the integrity of the selection process.
+
+(B) In the case of a property that the Secretary determines is appropriate for use as a facility to furnish services to homeless veterans under chapter 20 of this title, the Secretary may enter into an enhanced-use lease with a provider of homeless services without regard to the selection procedures required under subparagraph (A).
 
 (2) The term of an enhanced-use lease may not exceed 75 years.
 
@@ -50,7 +52,7 @@
 
 &emsp;(D) over one-half of the children to whom child-care services are provided are required to be children of employees of the Department.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920.)
 
 #### References in Text
 
@@ -59,6 +61,8 @@ Section 421(b) of the Veterans’ Benefits and Services Act of 1988, referred to
 Act of March 3, 1931, referred to in subsec. (a)(3), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
 
 #### Amendments
+
+2001—Subsec. (b)(1). Pub. L. 107–95 designated existing provisions as subpar. (A) and added subpar. (B).
 
 2000—Subsec. (a)(4). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
@@ -71,4 +75,12 @@ Subsec. (b)(2). Pub. L. 106–117, §208(b)(1), substituted “may not exceed 75
 &emsp;“(B) 20 years, in the case of a lease not described in subparagraph (A).”
 
 Subsec. (b)(4). Pub. L. 106–117, §208(b)(2), added par. (4) and struck out former par. (4) which read as follows: “Any payment by the Secretary for the use of space or services by the Department on property that has been leased under this subchapter may only be made from funds appropriated to the Department for the activity that uses the space or services. No other such payment may be made by the Secretary to a lessee under an enhanced-use lease unless the authority to make the payment is provided in advance in an appropriation Act.”
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–95, §10(c), Dec. 21, 2001, 115 Stat. 920, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to leases entered into on or after the date of the enactment of this Act \[Dec. 21, 2001\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8122 of this title.
 

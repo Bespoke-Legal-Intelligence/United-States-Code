@@ -84,7 +84,7 @@ Application to a Sentence by a Magistrate Judge.—An appeal of an otherwise fin
 
 Guideline Not Expressed as a Range.—For the purpose of this section, the term “guideline range” includes a guideline range having the same upper and lower limits.
 
-(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a),Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140.)
+(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140.)
 
 #### References in Text
 
@@ -154,7 +154,7 @@ Subsec. (f). Pub. L. 100–182, §4, added subsec. (f).
 
 Subsec. (e)(2)(A). Pub. L. 99–646, §73(a)(2), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate for provision directing the court to remand the case for imposition of a lesser sentence, remand the case for further sentencing proceedings, or impose a lesser sentence.
 
-Subsec. (e)(2)(B). Pub. L. 99–646, §73(a)(2), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate, for provision directing the court to remand the case for imposition of agreater sentence, remand the case for further sentencing proceedings, or impose a greater sentence.
+Subsec. (e)(2)(B). Pub. L. 99–646, §73(a)(2), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate, for provision directing the court to remand the case for imposition of a greater sentence, remand the case for further sentencing proceedings, or impose a greater sentence.
 
 #### Change of Name
 

@@ -14,7 +14,7 @@ The tax imposed by section 2001 shall be credited with all or a part of the amou
 
 #### (b) Computation of credit
 
-Subject to the limitation prescribed in subsection (c), the credit provided by this section shall be an amount which bears the same ratio to the estate tax paid (adjusted as indicatedhereinafter) with respect to the estate of the transferor as the value of the property transferred bears to the taxable estate of the transferor (determined for purposes of the estate tax) decreased by any death taxes paid with respect to such estate. For purposes of the preceding sentence, the estate tax paid shall be the Federal estate tax paid increased by any credits allowed against such estate tax under section 2012, or corresponding provisions of prior laws, on account of gift tax, and for any credits allowed against such estate tax under this section on account of prior transfers where the transferor acquired property from a person who died within 10 years before the death of the decedent.
+Subject to the limitation prescribed in subsection (c), the credit provided by this section shall be an amount which bears the same ratio to the estate tax paid (adjusted as indicated hereinafter) with respect to the estate of the transferor as the value of the property transferred bears to the taxable estate of the transferor (determined for purposes of the estate tax) decreased by any death taxes paid with respect to such estate. For purposes of the preceding sentence, the estate tax paid shall be the Federal estate tax paid increased by any credits allowed against such estate tax under section 2012, or corresponding provisions of prior laws, on account of gift tax, and for any credits allowed against such estate tax under this section on account of prior transfers where the transferor acquired property from a person who died within 10 years before the death of the decedent.
 
 #### (c) Limitation on credit
 
@@ -54,7 +54,11 @@ If section 2032A applies to any property included in the gross estate of the tra
 
 &emsp;(2) the value of such property and the amount of the taxable estate of the transferor shall be determined as if section 2032A did not apply with respect to such property.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 377; Pub. L. 94–455, title XIX, §1902(a)(2), title XX, §§2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, 90 Stat. 1804, 1850, 1862, 1888; Pub. L. 99–514, title XIV, §1432(c)(2), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 100–647, title I, §1011A(g)(7), Nov. 10, 1988, 102 Stat. 3481; Pub. L. 105–34, title X, §1073(b)(2), Aug. 5, 1997, 111 Stat. 948.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 377; Pub. L. 94–455, title XIX, §1902(a)(2), title XX, §§2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, 90 Stat. 1804, 1850, 1862, 1888; Pub. L. 99–514, title XIV, §1432(c)(2), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 100–647, title I, §1011A(g)(7), Nov. 10, 1988, 102 Stat. 3481; Pub. L. 105–34, title X, §1073(b)(2),Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title V, §532(c)(2), June 7, 2001, 115 Stat. 74.)
+
+#### Amendment of Subsection (c)(1)(A)
+
+<i>Pub. L. 107–16, title V, §532(c)(2), (d), title IX, §901, June 7, 2001, 115 Stat. 74, 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (c)(1)(A) of this section is temporarily amended by striking out “2011,” after “sections 2010,”. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -74,9 +78,15 @@ Subsec. (f). Pub. L. 94–455, §2003(c), added subsec. (f).
 
 Subsec. (g). Pub. L. 94–455, §2006(b)(2), added subsec. (g).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) ofPub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
+Amendment by Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
 
 #### Effective Date of 1988 Amendment
 

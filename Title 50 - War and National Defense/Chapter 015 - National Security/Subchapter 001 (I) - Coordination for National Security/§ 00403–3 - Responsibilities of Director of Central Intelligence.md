@@ -54,9 +54,11 @@ In the Director's capacity as head of the intelligence community, the Director s
 
 &emsp;(5) eliminate waste and unnecessary duplication within the intelligence community;
 
-&emsp;(6) protect intelligence sources and methods from unauthorized disclosure; and
+&emsp;(6) establish requirements and priorities for foreign intelligence information to be collected under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), and provide assistance to the Attorney General to ensure that information derived from electronic surveillance or physical searches under that Act is disseminated so it may be used efficiently and effectively for foreign intelligence purposes, except that the Director shall have no authority to direct, manage, or undertake electronic surveillance or physical search operations pursuant to that Act unlessotherwise authorized by statute or Executive order;
 
-&emsp;(7) perform such other functions as the President or the National Security Council may direct.
+&emsp;(7) protect intelligence sources and methods from unauthorized disclosure; and
+
+&emsp;(8) perform such other functions as the President or the National Security Council may direct.
 
 #### (d) Head of Central Intelligence Agency
 
@@ -72,13 +74,19 @@ In the Director's capacity as head of the Central Intelligence Agency, the Direc
 
 &emsp;(5) perform such other functions and duties related to intelligence affecting the national security as the President or the National Security Council may direct.
 
-(July 26, 1947, ch. 343, title I, §103, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 103–178, title V, §502, Dec. 3, 1993, 107 Stat. 2038; Pub. L. 104–293, title VIII, §§806, 807(a), Oct. 11, 1996, 110 Stat. 3479, 3480.)
+(July 26, 1947, ch. 343, title I, §103, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 103–178, title V, §502, Dec. 3, 1993, 107 Stat. 2038; Pub. L. 104–293, title VIII, §§806, 807(a), Oct. 11, 1996, 110 Stat. 3479, 3480; Pub. L. 107–56, title IX, §901, Oct. 26, 2001, 115 Stat. 387.)
+
+#### References in Text
+
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (c)(6), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 103 of act July 26, 1947, was renumbered section 107 and is classified to section 404 of this title.
 
 #### Amendments
+
+2001—Subsec. (c)(6) to (8). Pub. L. 107–56 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–293, §806(1), inserted “, or as contractors of the Council or employees of such contractors,” after “on the Council”.
 

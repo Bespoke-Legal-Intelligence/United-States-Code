@@ -2,25 +2,25 @@
 
 (a)
 
-Filing and Venue.—Except for an order related to a foreign air carrier subject to disapproval by the President under section 41307 or 41509(f) of this title, a person disclosing a substantial interest in an order issued by the Secretary of Transportation (or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) under this part may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60th day only if there are reasonable grounds for not filing by the 60th day.
+Filing and Venue.—Except for an order related to a foreign air carrier subject to disapproval by the President under section 41307 or 41509(f) of this title, a person disclosing a substantial interest in an order issued by the Secretary of Transportation (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator) under this part may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60th day only if there are reasonable grounds for not filing by the 60th day.
 
 (b)
 
-Judicial Procedures.—When a petition is filed under subsection (a) of this section, the clerk of the court immediately shall send a copy of the petition to the Secretary or Administrator, as appropriate. The Secretary or Administrator shall file with the court a record of any proceeding in which the order was issued, as provided in section 2112 of title 28.
+Judicial Procedures.—When a petition is filed under subsection (a) of this section, the clerk of the court immediately shall send a copy of the petition to the Secretary, Under Secretary, or Administrator, as appropriate. The Secretary, Under Secretary, or Administrator shall file with the court a record of any proceeding in which the order was issued, as provided in section 2112 of title 28.
 
 (c)
 
-Authority of Court.—When the petition is sent to the Secretary or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary or Administrator to conduct further proceedings. After reasonable notice to the Secretary or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary or Administrator, if supported by substantial evidence, are conclusive.
+Authority of Court.—When the petition is sent to the Secretary, Under Secretary, or Administrator, the court has exclusive jurisdiction to affirm, amend, modify, or set aside any part of the order and may order the Secretary, Under Secretary, or Administrator to conduct further proceedings. After reasonable notice to the Secretary, Under Secretary, or Administrator, the court may grant interim relief by staying the order or taking other appropriate action when good cause for its action exists. Findings of fact by the Secretary, Under Secretary, or Administrator, if supported by substantial evidence, are conclusive.
 
 (d)
 
-Requirement for Prior Objection.—In reviewing an order under this section, the court may consider an objection to an order of the Secretary or Administrator only if the objection was made in the proceeding conducted by the Secretary or Administrator or if there was a reasonable ground for not making the objection in the proceeding.
+Requirement for Prior Objection.—In reviewing an order under this section, the court may consider an objection to an order of the Secretary, Under Secretary, or Administrator only if the objection was made in the proceeding conducted by the Secretary, Under Secretary, or Administrator or if there was a reasonable ground for not making the objection in the proceeding.
 
 (e)
 
 Supreme Court Review.—A decision by a court under this section may be reviewed only by the Supreme Court under section 1254 of title 28.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1230.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1230; Pub. L. 107–71, title I, §140(b)(1), (2), Nov. 19, 2001, 115 Stat. 641.)
 
 Historical and Revision Notes
 
@@ -115,6 +115,12 @@ In subsection (b), the words “if any” are omitted as surplus. The words “o
 In subsection (c), the word “amend” is added for consistency in the revised title. The word “interim” is substituted for “interlocutory” for clarity. The words “taking other appropriate action” are substituted for “by such mandatory or other relief as may be appropriate” for clarity and to eliminate unnecessary words.
 
 In subsection (d), the words “made in the proceeding conducted by” are substituted for “urged before” for clarity.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+
+Subsecs. (b) to (d). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
 
 #### Section Referred to in Other Sections
 

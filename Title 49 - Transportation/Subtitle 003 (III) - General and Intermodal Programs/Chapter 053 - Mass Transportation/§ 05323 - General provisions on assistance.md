@@ -40,7 +40,7 @@ Condition on Charter Bus Transportation Service.—(1) Financial assistance unde
 
 (e)
 
-Bus Passenger Seat Functional Specifications.—The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.
+Bus Passenger Seat Functional Specifications.—The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performancespecifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.
 
 (f)
 
@@ -72,7 +72,7 @@ Government Share of Costs for Certain Projects.—A grant for a project to be as
 
 (j)
 
-Buy America.—(1) The Secretary of Transportation may obligate an amount that may beappropriated to carry out this chapter for a project only if the steel, iron, and manufactured goods used in the project are produced in the United States.
+Buy America.—(1) The Secretary of Transportation may obligate an amount that may be appropriated to carry out this chapter for a project only if the steel, iron, and manufactured goods used in the project are produced in the United States.
 
 (2) The Secretary of Transportation may waive paragraph (1) of this subsection if the Secretary finds that—
 
@@ -106,7 +106,7 @@ Buy America.—(1) The Secretary of Transportation may obligate an amount that m
 
 (7)
 
-Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
+Opportunity to correct inadvertent error.—The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properlycomplete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
 
 (k)
 

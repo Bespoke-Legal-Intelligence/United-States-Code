@@ -114,7 +114,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354,see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+Amendment by Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
 #### Effective Date of 1983 Amendment
 

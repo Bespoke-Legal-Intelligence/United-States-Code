@@ -12,7 +12,7 @@
 
 (2) Payment may not be made under this subsection to a member who is discharged for the purpose of accepting an appointment or a warrant in any uniformed service.
 
-(3) Payment may not be made to a member for any leave he elects to have carried over to a new enlistment in any uniformed service on the day after the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
+(3) Payment may not be made to a member for any leave he elects to have carried over to a new enlistment in any uniformed service on the dayafter the date of his discharge; but payment may be made to a member for any leave he elects not to carry over to a new enlistment. However, the number of days of leave for which payment is made may not exceed sixty, less the number of days for which payment was previously made under this section after February 9, 1976.
 
 (4) A member to whom a payment may not be made under this subsection, or a member who reverts from officer to enlisted status, carries the accrued leave standing to his credit from the one status to the other within any uniformed service.
 
@@ -20,9 +20,11 @@
 
 &emsp;(A) by a member of a reserve component while serving on active duty in support of a contingency operation;
 
-&emsp;(B) by a member of the armed forces in the Retired Reserve while serving on active duty in support of a contingency operation; or
+&emsp;(B) by a member of the armed forces in the Retired Reserve while serving on active duty in support of a contingency operation;
 
-&emsp;(C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation.
+&emsp;(C) by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or
+
+&emsp;(D) by a member of a reserve component while serving on active duty, full-time National Guard duty, or active duty for training for a period of more than 30 days but not in excess of 365 days.
 
 (c) Unused accrued leave for which payment is made under subsection (b) is not considered as service for any purpose.
 
@@ -48,7 +50,7 @@
 
 (h) Payment shall be made for all leave accumulated under section 701(g) of title 10 as soon as possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, §641, Feb. 10, 1996, 110 Stat. 368; Pub. L. 106–65, div. A, title VI, §671, Oct. 5, 1999, 113 Stat. 674.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, §2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, §304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, §516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, §606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, §8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, §641, Feb. 10, 1996, 110 Stat. 368; Pub. L. 106–65, div. A, title VI, §671, Oct. 5, 1999, 113 Stat. 674; Pub. L. 107–107, div. A, title VI, §651(a), Dec. 28, 2001, 115 Stat. 1152.)
 
 Historical and Revision Notes
 
@@ -120,6 +122,8 @@ In subsection (g), the word “retirement” is omitted as covered by the words 
 
 #### Amendments
 
+2001—Subsec. (b)(5)(D). Pub. L. 107–107 added subpar. (D).
+
 1999—Subsec. (a)(1). Pub. L. 106–65, §671(1), inserted “, termination of an enlistment in conjunction with the commencement of a successive enlistment (without regard to the date of the expiration of the term of the enlistment being terminated),” after “honorable conditions”.
 
 Subsec. (b)(2). Pub. L. 106–65, §671(2), struck out “, or entering into an enlistment,” after “or a warrant”.
@@ -160,7 +164,7 @@ Subsec. (g). Pub. L. 96–513, §516(14)(C), substituted “Secretary of Health 
 
 Subsec. (b). Pub. L. 94–361, §304(c), in revising text, incorporated in provisions designated par. (1) provisions of former first and second sentences for payments for unused accrued leave of officers and enlisted members, striking out consideration of allowances to officers and of allowances to enlisted members computed at rate of 70 cents a day for subsistence and of allowance to enlisted members in pay grades E–9 through E–5 with dependents at rate of $1.25 for quarters, and substituting “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”; incorporated in par. (2) provisions of item (1) of former third sentence, substituting “in any uniformed service” for “in his armed force”; incorporated in par. (3) provisions of item (2) of former third sentence, substituting “in any uniformed service” for “in his armed force” and inserting provisions for payment for leave not carried over to a new enlistment and prescribing number of days of leave for which payment may be made; and designated last (the fourth) sentence as par. (4), substituting “within any uniformed service” for “within his armed force”.
 
-Subsec. (d). Pub. L. 94–361, §304(d), substituted provision making the number of days upon which payment is based subject to subsec. (f) for provision limiting to not more than 60 the number of days upon which the payment is based.
+Subsec. (d). Pub. L. 94–361, §304(d), substituted provision making the number of days upon which paymentis based subject to subsec. (f) for provision limiting to not more than 60 the number of days upon which the payment is based.
 
 Subsec. (e). Pub. L. 94–361, §304(e), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
@@ -179,6 +183,10 @@ Subsec. (d). Pub. L. 89–718, §65, substituted “60” for “sixty”.
 1965—Subsec. (a)(1). Pub. L. 89–151, §1, added subpar. (C).
 
 Subsec. (d). Pub. L. 89–151, §2, included members who die while on active service and payments for unused accrued leave of members of the Public Health Service, substituted provisions referring to section 2771 of title 10 to find the mode of payment for provision spelling out the mode of payment in detail, omitted provisions prohibiting payment under this section in the event of no survivor and making valid any payments to survivors between the ages of 17 and 21, and inserted provisions basing payment for unused leave in the event of members dying while on active duty upon accrued leave carried forward into the year plus leave accruing during the year with a limit of 60 days.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VI, §651(b), Dec. 28, 2001, 115 Stat. 1153, provided that: “Subparagraph (D) of section 501(b)(5) of title 37, United States Code, as added by subsection (a)(3), shall apply with respect to periods of active duty beginning on or after October 1, 2001.”
 
 #### Effective Date of 1984 Amendment
 
@@ -204,7 +212,7 @@ Pub. L. 101–510, div. A, title XI, §1115, Nov. 5, 1990, 104 Stat. 1636, as am
 
 “(a)
 
-Inapplicability of Eligibility Limitation.—The limitation in the second sentence of subsection (b)(3) ofsection 501 of title 37, United States Code, and in subsection (f) of that section does not apply with respect to the following leave:
+Inapplicability of Eligibility Limitation.—The limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section does not apply with respect to the following leave:
 
 &emsp;“(1) Leave accrued by a member of a reserve component of the Armed Forces while serving on active duty (other than for training) in connection with the Persian Gulf conflict pursuant to an order to active duty authorized under section 672, 673, 673b, or 674 \[now 12301, 12302, 12304, or 12306\] of title 10, United States Code.
 
@@ -232,7 +240,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations establishing
 
 #### Options of Members As To Basis of Payment for Accrued Leave
 
-Section 304(h) of Pub. L. 94–361 provided that: “Notwithstanding the provisions of section 501(b)(1) of title 37, United States Code, as amended by subsection (c), and subject to the limitations prescribed in section 501(b)(3) of such title, as amended by subsection (c), any leave accrued by any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration prior to the first day of the second calendar month following the month \[July, 1976\] in which this section is enacted shall, at the option of such member, be paid for on the same basis such leave would have been paid for under the provisions of section 501(b) of title 37, United States Code, on the day prior to the first day of the second calendar month following the month in which this section is enacted”.
+Section 304(h) of Pub. L. 94–361 provided that: “Notwithstanding the provisions of section 501(b)(1) of title 37, United States Code, as amended by subsection (c), and subject to the limitations prescribed in section 501(b)(3) of such title, as amended by subsection (c), any leave accrued by any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration prior to the first dayof the second calendar month following the month \[July, 1976\] in which this section is enacted shall, at the option of such member, be paid for on the same basis such leave would have been paid for under the provisions of section 501(b) of title 37, United States Code, on the day prior to the first day of the second calendar month following the month in which this section is enacted”.
 
 #### Section Referred to in Other Sections
 

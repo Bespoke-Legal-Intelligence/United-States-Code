@@ -78,7 +78,7 @@ In subsection (g), the words “bought on credit under section 9621(a)(1) of thi
 
 The change \[in subsec. (b)\] reflects the opinion of the Judge Advocate General of the Air Force (June 10, 1957) that the term “rate of pay”, as used in the source law for section 9837(b) (Act of May 22, 1928, ch. 676 (45 Stat. 698), as amended), included special pay and incentive pay.
 
-The change \[in subsec. (f)\] reflects the opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense (July 19, 1957), that section 1304, Revised Statutes (formerly 10 U.S.C. 872), the source law for this section, applied to warrant officers as well as to commissioned officers.
+The change \[in subsec. (f)\] reflects the opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense (July 19, 1957), that section 1304, Revised Statutes (formerly 10 U.S.C. 872), the source lawfor this section, applied to warrant officers as well as to commissioned officers.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ To request a grant under this subchapter, the chief executive of a State, unit o
 
 #### (b) Regulations
 
-Not later than 90 days after June 16, 1998, the Director of the Bureau of Justice Assistance shall promulgate regulations to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
+Not later than 90 days after June 16, 1998, the Director of the Bureau of Justice Assistanceshall promulgate regulations to implement this section (including the information that must be included and the requirements that the States, units of local government, and Indian tribes must meet) in submitting the applications required under this section.
 
 #### (c) Eligibility
 

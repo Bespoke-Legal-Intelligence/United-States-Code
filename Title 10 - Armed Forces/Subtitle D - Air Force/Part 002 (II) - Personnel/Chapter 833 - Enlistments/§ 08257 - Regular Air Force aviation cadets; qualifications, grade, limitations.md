@@ -6,7 +6,7 @@
 
 (c) Any enlisted member of the Regular Air Force who is otherwise qualified may be designated, with his consent, as an aviation cadet by the Secretary of the Air Force.
 
-(d) Except in time of war or of emergency declared by Congress, at least 20 percent of theaviation cadets designated in each fiscal year shall be selected from members of the Regular Air Force or the Regular Army who are eligible and qualified. No person may be enlisted or designated as an aviation cadet unless—
+(d) Except in time of war or of emergency declared by Congress, at least 20 percent of the aviation cadets designated in each fiscal year shall be selected from members of the Regular Air Force or the Regular Army who are eligible and qualified. No person may be enlisted or designated as an aviation cadet unless—
 
 &emsp;(1) he agrees in writing that, upon his successful completion of the course of training as an aviation cadet, he will accept a commission as second lieutenant in the Air Force Reserve, and will serve on active duty as such for a period of three years, unless sooner released; and
 

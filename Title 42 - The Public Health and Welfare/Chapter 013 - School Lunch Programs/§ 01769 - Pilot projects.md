@@ -56,7 +56,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 (4)(A) In selecting where to establish pilot projects under this subsection, the Secretary shall take into account, among other factors, the availability of fortified milk and the interest of the school district in being included in the pilot project.
 
-(B) The Secretary shall establish the pilot projects in as many geographic areas as practicable, except that none of the projects shall be established in school districts that use milk described in paragraph (3) or similar milk.
+(B) The Secretary shall establish the pilot projects in as many geographic areas as practicable, except that none of the projects shall beestablished in school districts that use milk described in paragraph (3) or similar milk.
 
 (5) Not later than 2 years after the establishment of the first pilot project under this subsection, the Secretary shall report to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on—
 
@@ -220,7 +220,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 #### (B) Administrative costs
 
-&emsp;&emsp;Under the pilot project, a service institution (other than a service institution described in section 1761(a)(7) of this title) in an eligible State shall receive the maximum amounts for administrative costs determined by the Secretary under section 1761(b)(4) of this title without regard to the requirement under section 1761(b)(3) of this title that payments to service institutions shall equal the full amount of State-approved administrative costs incurred.
+&emsp;&emsp;Under the pilot project, a service institution (other than a service institution described in section 1761(a)(7) of this title) in an eligible State shall receive the maximum amounts for administrative costs determined by the Secretary under section1761(b)(4) of this title without regard to the requirement under section 1761(b)(3) of this title that payments to service institutions shall equal the full amount of State-approved administrative costs incurred.
 
 #### (C) Compliance
 
@@ -240,7 +240,7 @@ The Secretary may conduct pilot projects in not more than three States in which 
 
 &emsp;&emsp;An evaluation under this paragraph shall describe—
 
-&emsp;&emsp;&emsp;(i) any effect on participation by children and service institutions in the summer food service program in the eligibleState in which the pilot project is carried out;
+&emsp;&emsp;&emsp;(i) any effect on participation by children and service institutions in the summer food service program in the eligible State in which the pilot project is carried out;
 
 &emsp;&emsp;&emsp;(ii) any effect of the pilot project on the quality of the meals and supplements served in the eligible State in which the pilot project is carried out; and
 
@@ -316,7 +316,7 @@ Subsec. (c)(2)(B)(i). Pub. L. 102–512 substituted “Each private nonprofit or
 
 Subsec. (c)(3)(A). Pub. L. 102–342, §101(a)(2), inserted at end “The projects shall receive reimbursement payments for meals and supplements served on Saturdays, Sundays, and holidays, at the request of the sponsor of any such project. The meal pattern requirements of this subparagraph may be modified as necessary by the Secretary to take into account the needs of infants.”
 
-Subsec. (c)(5)(A). Pub. L. 102–342, §101(a)(1), (3), substituted “not less than $350,000 in each of fiscal years1991 and 1992, not less than $650,000 in fiscal year 1993, and not less than $800,000 in fiscal year 1994,” for “and not less than $350,000 in each of the fiscal years 1991, 1992, 1993, and 1994,” and inserted “State, city, local, or county governments, other public entities, or” before “private nonprofit”.
+Subsec. (c)(5)(A). Pub. L. 102–342, §101(a)(1), (3), substituted “not less than $350,000 in each of fiscal years 1991 and 1992, not less than $650,000 in fiscal year 1993, and not less than $800,000 in fiscal year 1994,” for “and not less than $350,000 in each of the fiscal years 1991, 1992, 1993, and 1994,” and inserted “State, city, local, or county governments, other public entities, or” before “private nonprofit”.
 
 Subsec. (c)(7). Pub. L. 102–342, §101(a)(4), added par. (7).
 

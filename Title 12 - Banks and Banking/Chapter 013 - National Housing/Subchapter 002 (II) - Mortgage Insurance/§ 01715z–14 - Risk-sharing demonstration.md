@@ -10,7 +10,7 @@ Notwithstanding any other provision of this chapter inconsistent with this secti
 
 &emsp;(1) assume a secondary percentage of loss on any mortgage insured pursuant to section 1709(b), 1715y, or 1715z–10 of this title covering a one- to four-family dwelling, which percentage of loss shall be set forth in the risk-sharing contract, with the first percentage of loss to be borne by the Secretary; <sup>1</sup>
 
-&emsp;(2) perform or delegate underwriting, credit approval, appraisal, inspection, commitment, claims processing, property disposition, or other functions as the Secretary shall approve as consistent with the purposes of this section and shall set forth in the risk-sharing contract.
+&emsp;(2) perform or delegate underwriting, credit approval, appraisal, inspection, commitment,claims processing, property disposition, or other functions as the Secretary shall approve as consistent with the purposes of this section and shall set forth in the risk-sharing contract.
 
 #### (c) Required contract provisions
 
@@ -24,7 +24,7 @@ The Secretary shall require any private mortgage insurance company or insured co
 
 For purposes of this section, the term “insured community development financial institution” means a community development financial institution, as such term is defined in section 4702 of this title that is an insured depository institution (as such term is defined in section 1813 of this title) or an insured credit union (as such term is defined in section 1752 of this title).
 
-(June 27, 1934, ch. 847, title II, §249, as added Pub. L. 98–181, title IV, §428(a), Nov. 30, 1983, 97 Stat. 1219; amended Pub. L. 99–120, §1(g), Oct. 8, 1985, 99 Stat. 502; Pub. L. 99–156, §1(g), Nov. 15, 1985, 99 Stat. 815; Pub. L. 99–219, §1(g), Dec. 26, 1985, 99 Stat. 1730; Pub. L. 99–267, §1(g), Mar. 27, 1986, 100 Stat. 73; Pub. L. 99–272, title III, §3007(g), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289,§1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 106–554, §1(a)(7) \[title I, §143\], Dec. 21, 2000, 114 Stat. 2763, 2763A–618.)
+(June 27, 1934, ch. 847, title II, §249, as added Pub. L. 98–181, title IV, §428(a), Nov. 30, 1983, 97 Stat. 1219; amended Pub. L. 99–120, §1(g), Oct. 8, 1985, 99 Stat. 502; Pub. L. 99–156, §1(g), Nov. 15, 1985, 99 Stat. 815; Pub. L. 99–219, §1(g), Dec. 26, 1985, 99 Stat. 1730; Pub. L. 99–267, §1(g), Mar. 27, 1986, 100 Stat. 73; Pub. L. 99–272, title III, §3007(g), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 106–554, §1(a)(7) \[title I, §143\], Dec. 21, 2000, 114 Stat. 2763, 2763A–618.)
 
 #### Amendments
 

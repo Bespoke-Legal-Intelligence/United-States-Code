@@ -16,7 +16,7 @@ The Congress finds and declares that—
 
 #### (b) Policy
 
-This subchapter establishes a uniform policy for the fair and equitable treatment of personsdisplaced as a direct result of programs or projects undertaken by a Federal agency or with Federal financial assistance. The primary purpose of this subchapter is to ensure that such persons shall not suffer disproportionate injuries as a result of programs and projects designed for the benefit of the public as a whole and to minimize the hardship of displacement on such persons.
+This subchapter establishes a uniform policy for the fair and equitable treatment of persons displaced as a direct result of programs or projects undertaken by a Federal agency or with Federal financial assistance. The primary purpose of this subchapter is to ensure that such persons shall not suffer disproportionate injuries as a result of programs and projects designed for the benefit of the public as a whole and to minimize the hardship of displacement on such persons.
 
 #### (c) Congressional intent
 
@@ -52,5 +52,5 @@ Amendment by Pub. L. 100–17 effective on effective date provided in regulation
 
 #### Savings Provision
 
-Section 220(b) of Pub. L. 91–646 provided that: “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Acts or portions thereof under subsection (a) of this section \[repealing sections 1415(7)(b)(iii), (8) second sentence, 1465, 2473(b)(14), 3074, and 3307(b), (c) of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and section 1606(b) of former Title 49, Transportation, and provisions set out as notes under sections 501 and 511 of Title 23\].”
+Section 220(b) of Pub. L. 91–646 provided that: “Any rights or liabilities now existing under prior Acts orportions thereof shall not be affected by the repeal of such prior Acts or portions thereof under subsection (a) of this section \[repealing sections 1415(7)(b)(iii), (8) second sentence, 1465, 2473(b)(14), 3074, and 3307(b), (c) of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and section 1606(b) of former Title 49, Transportation, and provisions set out as notes under sections 501 and 511 of Title 23\].”
 

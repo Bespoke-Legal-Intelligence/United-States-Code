@@ -92,7 +92,7 @@ Rule for liquidations.—For purposes of this subsection, the determination of t
 
 &emsp;&emsp;&emsp;(II) the date on which a receiver is appointed for such institution; or
 
-&emsp;&emsp;&emsp;(III) the date on which the Corporation makes any determination to provide any assistance under this section with respect to such institution.
+&emsp;&emsp;&emsp;(III) the date on which the Corporation makes any determination to provide anyassistance under this section with respect to such institution.
 
 &emsp;(D)
 
@@ -180,7 +180,7 @@ Rule of construction.—No provision of law shall be construed as permitting the
 
 (5) The Corporation may not use its authority under this subsection to purchase the voting or common stock of an insured depository institution. Nothing in the preceding sentence shall be construed to limit the ability of the Corporation to enter into and enforce covenants and agreements that it determines to be necessary to protect its financial interest.
 
-(6)(A) During any period in which an insured depository institution has received assistance under this subsection and such assistance is still outstanding, such insured depository institution may defer the payment of any State or local tax which is determined on the basis of the deposits held by such insured depository institution or of the interest or dividends paid on such deposits.
+(6)(A) During any period in which an insured depository institution has received assistanceunder this subsection and such assistance is still outstanding, such insured depository institution may defer the payment of any State or local tax which is determined on the basis of the deposits held by such insured depository institution or of the interest or dividends paid on such deposits.
 
 (B) When such insured depository institution no longer has any outstanding assistance, such insured depository institution shall pay all taxes which were deferred under subparagraph (A). Such payments shall be made in accordance with a payment plan established by the Corporation, after consultation with the applicable State and local taxing authorities.
 
@@ -292,7 +292,7 @@ Public disclosure.—Any determination under this paragraph to provide assistanc
 
 (B)(i) Before making a determination to take any action under subparagraph (A), the Corporation shall consult the State bank supervisor of the State in which the insured bank in default was chartered.
 
-(ii) The State bank supervisor shall be given a reasonable opportunity, and in no event less than forty-eight hours, to object to the use of the provisions of this paragraph. Such noticemay be provided by the Corporation prior to its appointment as receiver, but in anticipation of an impending appointment.
+(ii) The State bank supervisor shall be given a reasonable opportunity, and in no event less than forty-eight hours, to object to the use of the provisions of this paragraph. Such notice may be provided by the Corporation prior to its appointment as receiver, but in anticipation of an impending appointment.
 
 (iii) If the State supervisor objects during such period, the Corporation may use the authority of this paragraph only by a vote of 75 percent of the Board of Directors. The Board of Directors shall provide to the State supervisor, as soon as practicable, a written certification of its determination.
 
@@ -328,7 +328,7 @@ Certain acquisitions authorized after assistance is provided.—Notwithstanding 
 
 &emsp;&emsp;(ii) at the time such assistance is granted, the insured bank, the holding company which controls the insured bank (if any), or any affiliated insured bank is eligible to be acquired by an out-of-State bank or out-of-State holding company under this paragraph,
 
-> &emsp;the insured bank, the holding company, and such other affiliated insured bank shall remain eligible, subject to such terms and conditions as the Corporation (in the Corporation's discretion) may impose, to be acquired by an out-of-State bank or out-of-State holding company under this paragraph as long as any portion of such assistance remains outstanding.
+> &emsp;the insured bank, the holding company, and such other affiliated insured bank shall remain eligible, subject to such terms and conditions as the Corporation (in the Corporation's discretion) may impose, to be acquired by an out-of-State bank or out-of-State holding company under this paragraph as long as anyportion of such assistance remains outstanding.
 
 &emsp;(E)
 
@@ -442,7 +442,7 @@ No Assistance Authorized for Certain Subsidiaries of Holding Companies.—
 
 &emsp;(A)
 
-In general.—The Corporation shall not provide any assistance to a subsidiary, otherthan a subsidiary that is an insured depository institution, of a holding company in connection with any acquisition under this subsection.
+In general.—The Corporation shall not provide any assistance to a subsidiary, other than a subsidiary that is an insured depository institution, of a holding company in connection with any acquisition under this subsection.
 
 &emsp;(B)
 
@@ -606,7 +606,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (B) Minority-controlled institutions
 
-&emsp;&emsp;In the case of a minority-controlled depository institution, the Corporation shall seekan offer from other minority-controlled depository institutions before seeking an offer from other persons or entities.
+&emsp;&emsp;In the case of a minority-controlled depository institution, the Corporation shall seek an offer from other minority-controlled depository institutions before seeking an offer from other persons or entities.
 
 #### (3) Determination of costs
 
@@ -674,7 +674,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;&emsp;For purposes of this paragraph, the term “economically depressed region” means any geographical region which the Corporation determines by regulation to be a region within which real estate values have suffered serious decline due to severe economic conditions, such as a decline in energy or agricultural values or prices.
 
-(Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b),141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492.)
+(Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b), 141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492.)
 
 #### References in Text
 
@@ -744,7 +744,7 @@ Pub. L. 101–73, §201(a), substituted reference to insured depository institut
 
 Subsec. (c)(1)(B). Pub. L. 101–73, §217(3)(C), which directed the amendment of subsec. (c) by substituting “insured depository institution in default” for “in default insured depository institution” wherever appearing, could not be executed because phrase “in default insured depository institution” did not appear in text.
 
-Pub. L. 101–73, §217(3)(B), which directed the amendment of subsec. (c) by substituting “a” for “an” wherever appearing before “closed insured bank”, could notbe executed because “an” did not appear before “closed insured bank” in text.
+Pub. L. 101–73, §217(3)(B), which directed the amendment of subsec. (c) by substituting “a” for “an” wherever appearing before “closed insured bank”, could not be executed because “an” did not appear before “closed insured bank” in text.
 
 Pub. L. 101–73, §217(3)(A), substituted “in default” for “closed” in two places.
 
@@ -898,7 +898,7 @@ Subsec. (e). Pub. L. 97–320, §113(m)(2), inserted “(e)” before “No agre
 
 Subsecs. (f) to (h). Pub. L. 97–320, §§113(m)(1), 116, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-Pub. L. 97–320, §141(a)(3), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 116 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisionsof Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, §141(a)(3), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 116 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, §509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
 Subsec. (i). Pub. L. 97–320, §§203, 206, added subsec. (i), relating to net worth certificates, and provided for its prospective repeal. See Effective Date of 1982 Amendment note below.
 

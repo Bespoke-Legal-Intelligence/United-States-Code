@@ -50,7 +50,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (4) Incentive base amount
 
-&emsp;In paragraph (3), the term “incentive base amount” means, with respect to a State and a fiscal year, the sum of the applicable percentages (determined in accordance with paragraph (6)) multiplied by the corresponding maximum incentive base amounts for the State for the fiscal year, with respect to each of the following measures of State performance for the fiscal year:
+&emsp;In paragraph (3), the term “incentive base amount” means, with respect to a State and afiscal year, the sum of the applicable percentages (determined in accordance with paragraph (6)) multiplied by the corresponding maximum incentive base amounts for the State for the fiscal year, with respect to each of the following measures of State performance for the fiscal year:
 
 &emsp;&emsp;(A) The paternity establishment performance level.
 
@@ -144,7 +144,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (i) Determination of support order performance level
 
-&emsp;&emsp;&emsp;The support order performance level for a State for a fiscal year is the percentage of the total number of cases under the State plan approved under this part in which there is a support order during the fiscal year.
+&emsp;&emsp;&emsp;The support order performance level for a State for a fiscal year is the percentage of the total number of cases under the State plan approved under this part inwhich there is a support order during the fiscal year.
 
 #### (ii) Determination of applicable percentage
 
@@ -354,11 +354,7 @@ A State to which a payment is made under this section shall expend the full amou
 
 &emsp;(2) for any activity (including cost-effective contracts with local agencies) approved by the Secretary, whether or not the expenditures for the activity are eligible for reimbursement under this part, which may contribute to improving the effectiveness or efficiency of the State program operated under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §458A, as added Pub. L. 105–200, title II, §201(a), July 16, 1998, 112 Stat. 648.)
-
-#### Renumbering of Section
-
-<i>Pub. L. 105–200, title II, §201(f)(2)(A), (3), July 16, 1998, 112 Stat. 657, 658, provided that, effective Oct. 1, 2001, this section is renumbered section 458 of act Aug. 14, 1935.</i>
+(Aug. 14, 1935, ch. 531, title IV, §458, formerly §458A, as added and renumbered §458, Pub. L.105–200, title II, §201(a), (f)(2)(A), July 16, 1998, 112 Stat. 648, 658.)
 
 #### References in Text
 
@@ -370,19 +366,15 @@ Pub. L. 105–200, title II, §201(g), July 16, 1998, 112 Stat. 658, provided th
 
 #### Regulations
 
-Pub. L. 105–200, title II, §201(c), July 16, 1998, 112 Stat. 656, provided that: “Within 9 months after the date of the enactment of this section \[July 16, 1998\], the Secretary of Health and Human Services shall prescribe regulations governing the implementation of section 458A of the Social Security Act \[this section\] when such section takes effect and the implementation of subsection (b) of this section \[set out as a note below\].”
+Pub. L. 105–200, title II, §201(c), July 16, 1998, 112 Stat. 656, provided that: “Within 9 months after the date of the enactment of this section \[July 16, 1998\], the Secretary of Health and Human Services shall prescribe regulations governing the implementation of section 458A \[now 458\] of the Social Security Act \[this section\] when such section takes effect and the implementation of subsection (b) of this section \[formerly set out as a note below\].”
 
 #### Transition Rule
 
-Pub. L. 105–200, title II, §201(b), July 16, 1998, 112 Stat. 656, provided that: “Notwithstanding any other provision of law—
-
-&emsp;“(1) for fiscal year 2000, the Secretary shall reduce by one-third the amount otherwise payable to a State under section 458 of the Social Security Act \[section 658 of this title\], and shall reduce by two-thirds the amount otherwise payable to a State under section 458A of such Act \[this section\]; and
-
-&emsp;“(2) for fiscal year 2001, the Secretary shall reduce by two-thirds the amount otherwise payable to a State under section 458 of the Social Security Act, and shall reduce by one-third the amount otherwise payable to a State under section 458A of such Act.”
+Pub. L. 105–200, title II, §201(b), July 16, 1998, 112 Stat. 656, provided for reductions by the Secretary of the amount otherwise payable to a State under this section and former section 658 of this title for fiscal years 2000 and 2001.
 
 #### Studies
 
-Pub. L. 105–200, title II, §201(d), July 16, 1998, 112 Stat. 656, provided that:
+Pub. L. 105–200, title II, §201(d), (f)(2)(C), July 16, 1998, 112 Stat. 656, 658, provided that:
 
 “(1)
 
@@ -390,7 +382,7 @@ General review of new incentive payment system.—
 
 &emsp;“(A)
 
-In general.—The Secretary of Health and Human Services shall conduct a study of the implementation of the incentive payment system established by section 458A of the Social Security Act \[this section\], in order to identify the problems and successes of the system.
+In general.—The Secretary of Health and Human Services shall conduct a study of the implementation of the incentive payment system established by section 458 of the Social Security Act \[this section\], in order to identify the problems and successes of the system.
 
 &emsp;“(B)
 
@@ -414,11 +406,13 @@ Development of medical support incentive.—
 
 &emsp;“(A)
 
-In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[this part\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A of the Social Security Act \[this section\].
+In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[this part\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[this section\].
 
 &emsp;“(B)
 
 Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report that describes the performance measure and contains the recommendations required by subparagraph (A).”
 
-\[Pub. L. 105–200, title II, §201(f)(2)(C), (3), July 16, 1998, 112 Stat. 658, provided that, effective Oct. 1, 2001, section 201(d)(1) of Pub. L. 105–200, set out above, is amended by substituting “section 458” for “section 458A”.\]
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 652, 654, 654a of this title.
 

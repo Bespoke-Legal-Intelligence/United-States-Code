@@ -24,13 +24,9 @@ Pub. L. 94–43, §1, June 28, 1975, 89 Stat. 233, provided: “That this Act \[
 
 Pub. L. 93–644, §1, Jan. 4, 1975, 88 Stat. 2291, provided: “That this Act \[enacting sections 2706, 2707, 2711 to 2715, 2828 to 2830, 2865, 2928 to 2928n, 2929 to 2929c, 2930 to 2930f, 2971f, 2971g, 2981a, 2981b, 2985a to 2985g, 2991 to 2991h, and 2992 to 2992d of this title, amending sections 2790, 2809, 2812, 2813, 2837, 2862, 2871, 2901, 2902, 2921, 2922, 2923, 2932, 2933, 2941, 2942, 2943, 2945, 2965, 2971d, 2974, 2979, 2981, 2982, 2982a, 2982b, 2982c, 2983, 2983a, 2983b, 2984, 2984a, 2985, 2995, 2995a, and 2995b of this title, repealing sections 2703, 2705, 2942 note, and 2949 of this title, and enacting provisions set out as notes under this section and sections 2706, 2865, and 2981 of this title\] may be cited as the ‘Headstart, Economic Opportunity, and Community Partnership Act of 1974’.”
 
-Section 3, formerly §101 of Pub. L. 88–452, as added by section 3 of Pub. L. 93–644, Jan. 4, 1975, 88 Stat. 2292, and renumbered and amended by Pub. L. 94–341, §2(a)(1), July 6, 1976, 90 Stat. 803, provided that: “Title I through IX of this Act \[subchapter I through IX of this chapter\] may be cited as the ‘Community Services Act of 1974’.”
-
-#### Short Title of 1974 Amendments
+#### Short Title of 1974 Amendment
 
 Pub. L. 93–355, §1, July 25, 1974, 88 Stat. 378, provided: “That this Act \[enacting subchapter X of this title and section 2971e of this title, amending section 2809 of this title, and enacting provisions set out as notes under sections 2809 and 2996b of this title\] may be cited as the ‘Legal Services Corporation Act of 1974’.”
-
-Pub. L. 88–452, title X, §1014, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 389, provided that: “This title \[subchapter X of this chapter\] may be cited as the ‘Legal Services Corporation Act’.”
 
 #### Short Title of 1972 Amendment
 
@@ -50,11 +46,15 @@ Section 1 of Pub. L. 89–794 provided: “That this Act \[enacting sections 261
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: “That this Act \[amending sections 2713, 2714, 2716, 2720, 2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the ‘Economic Opportunity Amendments of 1965’.”
+Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: “That this Act \[amending sections 2713, 2714, 2716, 2720,2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the ‘Economic Opportunity Amendments of 1965’.”
 
 #### Short Title
 
 Section 1 of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which provided that Pub. L. 88–452, which enacted this chapter, was to be cited as the “Economic Opportunity Act of 1964”, was repealed by section 683(a) of Pub. L. 97–35.
+
+Section 3, formerly §101, of Pub. L. 88–452, as added by section 3 of Pub. L. 93–644, Jan. 4, 1975, 88 Stat. 2292, and renumbered and amended by Pub. L. 94–341, §2(a)(1), July 6, 1976, 90 Stat. 803, provided that: “Title I through IX of this Act \[subchapters I through IX of this chapter\] may be cited as the ‘Community Services Act of 1974’.”
+
+Pub. L. 88–452, title X, §1014, as added by Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 389, provided that: “This title \[subchapter X of this chapter\] may be cited as the ‘Legal Services Corporation Act’.”
 
 #### Statement of Purpose of 1978 Amendment
 

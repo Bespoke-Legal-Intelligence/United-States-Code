@@ -8,7 +8,7 @@
 
 (2) A member may recompute his retainer pay under section 1402 or 1402a of this title, as appropriate, to reflect active duty after transfer.
 
-(3) If the member has been credited by the Secretary of the Navy with extraordinary heroism in the line of duty, which determination by the Secretary is final and conclusive for all purposes, his retainer pay shall be increased by 10 percent.
+(3) If the member has been credited by the Secretary of the Navy with extraordinary heroismin the line of duty, which determination by the Secretary is final and conclusive for all purposes, his retainer pay shall be increased by 10 percent.
 
 (d)(1) For the purposes of subsection (c), each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
@@ -128,7 +128,7 @@ Act July 24, 1956, ch. 683, 70 Stat. 626, provided: “Upon application by any f
 
 “
 
-Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the firstcalendar month, beginning after the expiration of ten years from the date of such discharge.
+Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the first calendar month, beginning after the expiration of ten years from the date of such discharge.
 
 “
 

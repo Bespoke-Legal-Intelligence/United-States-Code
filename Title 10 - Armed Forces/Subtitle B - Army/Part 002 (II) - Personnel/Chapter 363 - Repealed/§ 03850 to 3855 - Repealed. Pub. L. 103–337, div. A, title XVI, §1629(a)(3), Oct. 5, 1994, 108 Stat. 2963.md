@@ -6,7 +6,7 @@ Section 3851, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1486; ame
 
 Section 3852, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1486; amended Pub. L. 86–559, §1(29), June 30, 1960, 74 Stat. 272; Pub. L. 99–145, title V, §523, title XIII, §1303(a)(20)(B), Nov. 8, 1985, 99 Stat. 632, 739; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of reserve major generals with 35 years of service or five years in grade. See section 14508(b), (d) of this title.
 
-Section 3853, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1486; amended Pub. L. 86–559, §1(30), June 30, 1960, 74 Stat. 273; Pub. L. 86–651, title I, §115, Sept. 7, 1962, 76 Stat. 513; Pub. L. 96–513, title V, §512(9), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 98–94, title X, §1016(a), Sept. 24, 1983, 97 Stat. 668; Pub. L. 103–337, div. A, title XVI, §1635(a), Oct. 5, 1994, 108 Stat. 2968, related to computation of years of service. See section 14706 of this title.
+Section 3853, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1486; amended Pub. L. 86–559, §1(30), June 30, 1960, 74 Stat. 273; Pub. L. 86–651, title I, §115, Sept. 7, 1962, 76 Stat. 513; Pub. L. 96–513, title V, §512(9), Dec. 12,1980, 94 Stat. 2929; Pub. L. 98–94, title X, §1016(a), Sept. 24, 1983, 97 Stat. 668; Pub. L. 103–337, div. A, title XVI, §1635(a), Oct. 5, 1994, 108 Stat. 2968, related to computation of years of service. See section 14706 of this title.
 
 Section 3854, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1486, authorized Secretary of the Army to prescribe regulations to carry out this chapter.
 

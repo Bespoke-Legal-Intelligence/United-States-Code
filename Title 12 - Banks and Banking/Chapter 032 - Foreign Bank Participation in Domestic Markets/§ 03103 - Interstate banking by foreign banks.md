@@ -106,7 +106,7 @@ Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8
 
 #### Amendments
 
-1999—Subsec. (a)(7). Pub. L. 106–102 amended heading and text of par. (7) generally. Prior to amendment, textread as follows: “Notwithstanding paragraphs (1) and (2), a foreign bank may, with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—
+1999—Subsec. (a)(7). Pub. L. 106–102 amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “Notwithstanding paragraphs (1) and (2), a foreign bank may, with the approval of the Board and the Comptroller of the Currency, establish and operate a Federal branch or Federal agency or, with the approval of the Board and the appropriate State bank supervisor, a State branch or State agency in any State outside the foreign bank's home State if—
 
 “(A) the establishment and operation of a branch or agency is expressly permitted by the State in which the branch or agency is to be established; and
 

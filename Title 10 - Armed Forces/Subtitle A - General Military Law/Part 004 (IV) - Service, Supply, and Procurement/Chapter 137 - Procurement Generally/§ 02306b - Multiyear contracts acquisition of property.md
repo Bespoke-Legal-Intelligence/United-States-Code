@@ -58,7 +58,7 @@ Cancellation or Termination for Insufficient Funding.—In the event funds are n
 
 (g)
 
-Contract Cancellation Ceilings Exceeding $100,000,000.—Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
+Contract Cancellation Ceilings Exceeding $100,000,000.—Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notificationof the proposed contract and of the proposed cancellation ceiling for that contract to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
 (h)
 
@@ -104,7 +104,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 (2) The head of an agency may not initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government's liability.
 
-(3) The head of an agency may not initiate a multiyear procurement contract for any system (or component thereof) if the value of the multiyear contract would exceed $500,000,000 unlessauthority for the contract is specifically provided in an appropriations Act.
+(3) The head of an agency may not initiate a multiyear procurement contract for any system (or component thereof) if the value of the multiyear contract would exceed $500,000,000 unless authority for the contract is specifically provided in an appropriations Act.
 
 (4) Not later than the date of the submission of the President's budget request under section 1105 of title 31, the Secretary of Defense shall submit a report to the congressional defense committees each year, providing the following information with respect to each multiyear contract (and each extension of an existing multiyear contract) entered into, or planned to be entered into, by the head of an agency during the current or preceding year, shown for each year in the current future-years defense program and in the aggregate over the period of the current future-years defense program:
 
@@ -114,7 +114,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 &emsp;&emsp;(ii) the agency procurement total.
 
-&emsp;(B) The amount of total obligational authority under all multiyear procurements of the agency concerned (determined without regard to the amount of the multiyear contract (or contract extension)) under multiyear contracts in effect at the time the report is submitted and the percentage that such amount represents of—
+&emsp;(B) The amount of total obligational authority under all multiyear procurements of the agency concerned (determined without regard to the amount of the multiyear contract (orcontract extension)) under multiyear contracts in effect at the time the report is submitted and the percentage that such amount represents of—
 
 &emsp;&emsp;(i) the applicable procurement account; and
 
@@ -227,6 +227,8 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;“(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 107–117, div. A, title VIII, §8008, Jan. 10, 2002, 115 Stat. 2248.
 
 Pub. L. 106–259, title VIII, §8008, Aug. 9, 2000, 114 Stat. 675.
 

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(II) the agreement applies to or affects purchases and sales by such enterprises.
 
-(3) To ensure that a foreign country which receives benefits under a trade agreement entered into under section 2902(b) or (c) of this title is subject to the obligations imposed by such agreement, the President shall recommend to Congress in the implementing bill and statement of administrative action submitted with respect to such agreement that the benefits and obligations of such agreement apply solely to the parties to such agreement, if such application is consistent with the terms of such agreement. The President may also recommend with respect to any such agreement that the benefits and obligations of such agreement not apply uniformly to all parties to such agreement, if such application is consistent with the terms of such agreement.
+(3) To ensure that a foreign country which receives benefits under a trade agreement entered into under section 2902(b) or (c) of this title is subject to the obligations imposed by suchagreement, the President shall recommend to Congress in the implementing bill and statement of administrative action submitted with respect to such agreement that the benefits and obligations of such agreement apply solely to the parties to such agreement, if such application is consistent with the terms of such agreement. The President may also recommend with respect to any such agreement that the benefits and obligations of such agreement not apply uniformly to all parties to such agreement, if such application is consistent with the terms of such agreement.
 
 #### (b) Application of Congressional “fast track” procedures to implementing bills
 
@@ -78,7 +78,7 @@
 
 &emsp;(ii) shall be jointly referred, in the House of Representatives, to the Committee on Ways and Means and the Committee on Rules.
 
-(C) The provisions of section 2192(d) and (e) of this title (relating to the floor consideration ofcertain resolutions in the House and Senate) apply to extension disapproval resolutions.
+(C) The provisions of section 2192(d) and (e) of this title (relating to the floor consideration of certain resolutions in the House and Senate) apply to extension disapproval resolutions.
 
 (D) It is not in order for—
 

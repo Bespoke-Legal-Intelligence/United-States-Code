@@ -12,7 +12,7 @@ In the performance of its functions the Commission is authorized to—
 
 #### (c) Studies and investigations
 
-&emsp;make such studies and investigations, obtain such information, and hold such meetings or hearings as the Commission may deem necessary or proper to assist it in exercising any authority provided in this chapter, or in the administration or enforcement of this chapter, or any regulations or orders issued thereunder. For such purposes the Commission is authorized to administer oaths and affirmations, and by subpena to require any person to appear and testify, or to appear and produce documents, or both, at any designated place. Witnesses subpenaed under this subsection shall be paid the same fees and mileage as are paid witnesses in the district courts of the United States;
+&emsp;make such studies and investigations, obtain such information, and hold such meetings or hearings as the Commission may deem necessary or proper to assist it in exercising any authority provided in this chapter, or in theadministration or enforcement of this chapter, or any regulations or orders issued thereunder. For such purposes the Commission is authorized to administer oaths and affirmations, and by subpena to require any person to appear and testify, or to appear and produce documents, or both, at any designated place. Witnesses subpenaed under this subsection shall be paid the same fees and mileage as are paid witnesses in the district courts of the United States;
 
 #### (d) Employment of personnel
 
@@ -90,7 +90,7 @@ In the performance of its functions the Commission is authorized to—
 
 &emsp;&emsp;(9) Telephone service.
 
-&emsp;Proceeds of sales under this subsection shall be credited to the appropriation currently available for the supply of that utility or service. To meet local needs the Commission maymake minor expansions and extensions of any distributing system or facility within or in the immediate vicinity of a Commission-owned community through which a utility or service is furnished under this subsection.
+&emsp;Proceeds of sales under this subsection shall be credited to the appropriation currently available for the supply of that utility or service. To meet local needs the Commission may make minor expansions and extensions of any distributing system or facility within or in the immediate vicinity of a Commission-owned community through which a utility or service is furnished under this subsection.
 
 #### (s) Succession of authority
 
@@ -108,7 +108,7 @@ In the performance of its functions the Commission is authorized to—
 
 &emsp;(B) In entering into such contracts the Commission shall be guided by the following principles: (i) the percentage of the total cost of special facilities devoted to contract performance and chargeable to the Commission should not exceed the ratio between the period of contract deliveries and the anticipated useful life of such special facilities; (ii) the desirability of obtaining options to renew the contract for reasonable periods at prices not to include charges for special facilities already amortized; and (iii) the desirability of reserving in the Commission the right to take title to the special facilities under appropriate circumstances; and
 
-&emsp;(3) include in contracts made under this subsection provisions which limit the obligation of funds to estimated annual deliveries and services and the unamortized balance of such amounts due for special facilities as the parties shall agree is chargeable to the performance of the contract. Any appropriation available at the time of termination or thereafter made available to the Commission for operating expenses shall be available for payment of such costs which may arise from termination as the contract may provide. The term “special facilities” as used in this subsection means any land and any depreciable buildings, structures, utilities, machinery, equipment, and fixtures necessary for the production or furnishing of such supplies, equipment, materials, or services and not available to the vendors or suppliers for the performance of the contract.
+&emsp;(3) include in contracts made under this subsection provisions which limit the obligationof funds to estimated annual deliveries and services and the unamortized balance of such amounts due for special facilities as the parties shall agree is chargeable to the performance of the contract. Any appropriation available at the time of termination or thereafter made available to the Commission for operating expenses shall be available for payment of such costs which may arise from termination as the contract may provide. The term “special facilities” as used in this subsection means any land and any depreciable buildings, structures, utilities, machinery, equipment, and fixtures necessary for the production or furnishing of such supplies, equipment, materials, or services and not available to the vendors or suppliers for the performance of the contract.
 
 #### (v) Support of United States Enrichment Corporation
 
@@ -138,7 +138,7 @@ In the performance of its functions the Commission is authorized to—
 
 The civil service laws, referred to in subsec. (d), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (j), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (j), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Forcomplete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 Section 2297c–2 of this title, referred to in subsec. (v), was repealed by Pub. L. 104–134, title III, §3116(a)(1), Apr. 26, 1996, 110 Stat. 1321–349.
 
@@ -160,7 +160,7 @@ Provisions similar to this section were contained in section 1812(a) of this tit
 
 Subsec. (w). Pub. L. 102–486, §902(a)(5), inserted “or which operates any facility regulated or certified under section 2297f or 2297f–1 of this title,” after “2134(b) of this title,” and “or certificates” after “holders of, such licenses”.
 
-1990—Subsec. (b). Pub. L. 101–575, which directed amendment of subsec. (b) by striking the period at the end and inserting “; in addition, the Commission shall prescribe such regulations or orders as may be necessary or desirable to promote the Nation's common defense and security with regard to control, ownership, or possession of any equipment or device, or important component part especially designed for such equipmentor device, capable of separating the isotopes of uranium or enriching uranium in the isotope 235;”, was executed by striking the semicolon at end of subsec. (b) and making insertion to reflect probable intent of Congress.
+1990—Subsec. (b). Pub. L. 101–575, which directed amendment of subsec. (b) by striking the period at the end and inserting “; in addition, the Commission shall prescribe such regulations or orders as may be necessary or desirable to promote the Nation's common defense and security with regard to control, ownership, or possession of any equipment or device, or important component part especially designed for such equipment or device, capable of separating the isotopes of uranium or enriching uranium in the isotope 235;”, was executed by striking the semicolon at end of subsec. (b) and making insertion to reflect probable intent of Congress.
 
 1988—Subsec. (v). Pub. L. 100–449 inserted in closing provisions “For purposes of this subsection and of section 305 of Public Law 99–591 (100 Stat. 3341–209, 210), ‘foreign origin’ excludes source or special nuclear material originating in Canada.”
 
@@ -202,7 +202,7 @@ Subsecs. (t) to (v). Pub. L. 85–681, §7, added subsecs. (t) to (v).
 
 1957—Subsec. (d). Pub. L. 85–287 inserted “up to a limit of $19,000” after “scientific and technical personnel”.
 
-Subsec. (e). Pub. L. 85–162, §201, inserted “(at the time of the initial grant of any privilege grant, lease, or permit, or renewal thereof, or in order to avoid inequities or undue hardship prior to the sale by the United States of property affected by such grant)” after “adjusted terms which”.
+Subsec. (e). Pub. L. 85–162, §201, inserted “(at the time of the initial grant of any privilege grant, lease, or permit, or renewal thereof, or in order to avoid inequities or undue hardship prior to the sale by the UnitedStates of property affected by such grant)” after “adjusted terms which”.
 
 Subsec. (s). Pub. L. 85–162, §204, added subsec. (s).
 
@@ -232,7 +232,7 @@ For effective date of amendment by Pub. L. 85–507, see section 21(a) of Pub. L
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See, also, notes set out under those sections.
 
-Functions of Atomic Energy Commission administered through its Division of Radiation Protection Standards, to extent that such functions of Commission consisted of establishing generally applicable environmental standards for the protection of the general environment from radioactive material, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(6), eff. Dec. 2, 1970, 35F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Atomic Energy Commission administered through its Division of Radiation Protection Standards, to extent that such functions of Commission consisted of establishing generally applicable environmental standards for the protection of the general environment from radioactive material, transferred to Administrator of Environmental Protection Agency by Reorg. Plan No. 3 of 1970, §2(a)(6), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References to United States Enrichment Corporation
 

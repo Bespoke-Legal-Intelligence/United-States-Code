@@ -188,7 +188,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(B) are based on a determination of the needs of an eligible individual, as specified in an individualized plan for employment; and
 
-&emsp;&emsp;(C) are provided by a State agency, a nonprofit private organization, employer, or any other appropriate resource, after an individual has made the transition from support provided by the designated State unit.
+&emsp;&emsp;(C) are provided by a State agency, a nonprofit private organization, employer, or anyother appropriate resource, after an individual has made the transition from support provided by the designated State unit.
 
 #### (14) Federal share
 
@@ -198,7 +198,7 @@ For the purposes of this chapter:
 
 #### (B) Exception
 
-&emsp;&emsp;The term “Federal share” means the share specifically set forth in section 731(a)(3) ofthis title, except that with respect to payments pursuant to part B of subchapter I of this chapter to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
+&emsp;&emsp;The term “Federal share” means the share specifically set forth in section 731(a)(3) of this title, except that with respect to payments pursuant to part B of subchapter I of this chapter to any State that are used to meet the costs of construction of those rehabilitation facilities identified in section 723(b)(2) of this title in such State, the Federal share shall be the percentages determined in accordance with the provisions of section 731(a)(3) of this title applicable with respect to the State.
 
 #### (C) Relationship to expenditures by a political subdivision
 
@@ -362,7 +362,7 @@ For the purposes of this chapter:
 
 #### (F) Rights provisions; exclusion of individuals on basis of certain disorders
 
-&emsp;&emsp;For the purposes of sections 791, 793, and 794 of this title, the term “individual with adisability” does not include an individual on the basis of—
+&emsp;&emsp;For the purposes of sections 791, 793, and 794 of this title, the term “individual with a disability” does not include an individual on the basis of—
 
 &emsp;&emsp;&emsp;(i) transvestism, transsexualism, pedophilia, exhibitionism, voyeurism, gender identity disorders not resulting from physical impairments, or other sexual behavior disorders;
 
@@ -418,7 +418,7 @@ For the purposes of this chapter:
 
 #### (24) Local agency
 
-&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
+&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency fromarranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
 
 #### (25) Local workforce investment board
 
@@ -510,7 +510,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(A) are provided singly or in combination and are organized and made available in such a way as to assist an eligible individual to achieve competitive employment;
 
-&emsp;&emsp;(B) are based on a determination of the needs of an eligible individual, as specifiedin an individualized plan for employment; and
+&emsp;&emsp;(B) are based on a determination of the needs of an eligible individual, as specified in an individualized plan for employment; and
 
 &emsp;&emsp;(C) are provided by the designated State unit for a period of time not to extend beyond 18 months, unless under special circumstances the eligible individual and the rehabilitation counselor or coordinator involved jointly agree to extend the time in order to achieve the employment outcome identified in the individualized plan for employment.
 

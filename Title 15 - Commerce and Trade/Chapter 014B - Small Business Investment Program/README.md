@@ -87,13 +87,13 @@
 | (b) | Equity jurisdiction of licensee and assets thereof. |
 | (c) | Trusteeship or receivership over licensee. |
 | [687d.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20A%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687d%20-%20Conflicts%20of%20interest.md) | Conflicts of interest. |
-| [687e.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20A%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687e%20-%20Removal%20and%20suspension%20of%20directors%20and%20officers%20of%20licensees.md) | Removal and suspension of directors and officers of licensees. |
-| (a) | Written notice of intention to remove; grounds. |
-| (b) | Suspension pending completion of administrative proceedings. |
-| (c) | Hearing; order of removal. |
-| (d) | Stay by United States district court of suspension or prohibition. |
-| (e) | Suspension of directors and officers charged with felonies involving dishonesty or breach of trust; notice; duration of suspension; removal. |
-| (f) | Hearings; procedure; form and requisites of decision; review; stay of orders. |
+| [687e.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20A%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687e%20-%20Removal%20or%20suspension%20of%20management%20officials.md) | Removal or suspension of management officials. |
+| (a) | Definition of “management official”. |
+| (b) | Removal of management officials. |
+| (c) | Authority to suspend or prohibit participation. |
+| (d) | Authority to suspend on criminal charges. |
+| (e) | Notification to licensees. |
+| (f) | Procedural provisions; judicial review. |
 | [687f.](Subchapter%20003%20%28III%29%20-%20Investment%20Division%20Programs/Part%20A%20-%20Small%20Business%20Investment%20Companies/%C2%A7%2000687f%20-%20Unlawful%20acts%20and%20omissions%20by%20officers%2C%20directors%2C%20employees%2C%20or%20agents.md) | Unlawful acts and omissions by officers, directors, employees, or agents. |
 | (a) | Violation by licensee deemed violation by persons participating. |
 | (b) | Breach of fiduciary duty. |
@@ -244,6 +244,7 @@
 | (f) | Effective date. |
 | (g) | Calculation of subsidy rate. |
 | (h) | Required actions upon default. |
+| (i) | Two-year waiver of fees. |
 | [697a.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697a%20-%20Private%20debenture%20sales.md) | Private debenture sales. |
 | [697b.](Subchapter%20005%20%28V%29%20-%20Loans%20to%20State%20and%20Local%20Development%20Companies/%C2%A7%2000697b%20-%20Pooling%20of%20debentures.md) | Pooling of debentures. |
 | (a) | Issuance; debentures composing trust or pool. |

@@ -16,7 +16,7 @@ The purpose of this part is to increase the flexibility of States in operating a
 
 This part shall not be interpreted to entitle any individual or family to assistance under any State program funded under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §401, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §401, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2112; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
 #### Prior Provisions
 
@@ -204,7 +204,7 @@ Section 101 of Pub. L. 104–193 provided that: “The Congress makes the follow
 
 &emsp;“(6) The increase of out-of-wedlock pregnancies and births is well documented as follows:
 
-&emsp;&emsp;“(A) It is estimated that the rate of nonmarital teen pregnancy rose 23 percent from 54 pregnancies per 1,000 unmarried teenagers in 1976 to 66.7 pregnancies in 1991. The overall rate of nonmarital pregnancy rose 14 percent from 90.8 pregnancies per 1,000 unmarried women in 1980 to 103 in both 1991 and 1992. In contrast, the overall pregnancy rate for married couples decreased 7.3 percent between 1980 and 1991, from 126.9 pregnancies per 1,000 married women in 1980 to 117.6 pregnancies in 1991.
+&emsp;&emsp;“(A) It is estimated that the rate of nonmarital teen pregnancy rose 23 percent from 54 pregnanciesper 1,000 unmarried teenagers in 1976 to 66.7 pregnancies in 1991. The overall rate of nonmarital pregnancy rose 14 percent from 90.8 pregnancies per 1,000 unmarried women in 1980 to 103 in both 1991 and 1992. In contrast, the overall pregnancy rate for married couples decreased 7.3 percent between 1980 and 1991, from 126.9 pregnancies per 1,000 married women in 1980 to 117.6 pregnancies in 1991.
 
 &emsp;&emsp;“(B) The total of all out-of-wedlock births between 1970 and 1991 has risen from 10.7 percent to 29.5 percent and if the current trend continues, 50 percent of all births by the year 2015 will be out-of-wedlock.
 

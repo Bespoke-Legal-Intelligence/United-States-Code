@@ -24,7 +24,7 @@ The Secretary, acting through the Director of the Centers for Disease Control, m
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
+&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by thissubsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
 
 #### (c) Eligibility for grants
 
@@ -76,7 +76,7 @@ The Secretary, acting through the Director of the Centers for Disease Control, m
 
 #### (4) Coordination
 
-&emsp;To encourage the greatest possible efficiency and effectiveness of Federally supported efforts with respect to the activities described in this subsection, the Secretary shall take steps to assure the appropriate coordination of programs supported under this part with existing Federally supported cancer registry programs.
+&emsp;To encourage the greatest possible efficiency and effectiveness of Federally supported efforts with respect to the activities described in this subsection, the Secretary shall takesteps to assure the appropriate coordination of programs supported under this part with existing Federally supported cancer registry programs.
 
 #### (e) Requirement regarding certain study on breast cancer
 

@@ -56,7 +56,7 @@ Each State improvement plan shall—
 
 &emsp;&emsp;(B) is in effect for the period of the grant;
 
-&emsp;(2) describe how grant funds will be used in undertaking the systemic-change activities, and the amount and nature of funds from any other sources, including part B \[subchapter II\] funds retained for use at the State level undersections 1411(f) and 1419(d) of this title, that will be committed to the systemic-change activities;
+&emsp;(2) describe how grant funds will be used in undertaking the systemic-change activities, and the amount and nature of funds from any other sources, including part B \[subchapter II\] funds retained for use at the State level under sections 1411(f) and 1419(d) of this title, that will be committed to the systemic-change activities;
 
 &emsp;(3) describe the strategies the State will use to address the needs identified under subsection (b) of this section, including—
 
@@ -80,7 +80,7 @@ Each State improvement plan shall—
 
 &emsp;&emsp;&emsp;(vi) the State will enhance the ability of teachers and others to use strategies, such as behavioral interventions, to address the conduct of children with disabilities that impedes the learning of children with disabilities and others;
 
-&emsp;&emsp;&emsp;(vii) the State will acquire and disseminate, to teachers, administrators, school board members, and related services personnel, significant knowledge derived from educational research and other sources, and how the State will, when appropriate, adopt promising practices, materials, and technology;
+&emsp;&emsp;&emsp;(vii) the State will acquire and disseminate, to teachers, administrators, schoolboard members, and related services personnel, significant knowledge derived from educational research and other sources, and how the State will, when appropriate, adopt promising practices, materials, and technology;
 
 &emsp;&emsp;&emsp;(viii) the State will recruit, prepare, and retain qualified personnel, including personnel with disabilities and personnel from groups that are underrepresented in the fields of regular education, special education, and related services;
 
@@ -130,7 +130,7 @@ Each State educational agency that receives a grant under this part shall submit
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(2)(A), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 

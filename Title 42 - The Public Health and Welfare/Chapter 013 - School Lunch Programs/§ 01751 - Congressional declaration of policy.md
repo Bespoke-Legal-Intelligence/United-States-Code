@@ -48,11 +48,11 @@ Pub. L. 95–166, §1, Nov. 10, 1977, 91 Stat. 1325, provided: “That this Act 
 
 #### Short Title of 1975 Amendment
 
-Pub. L. 94–105, §1, Oct. 7, 1975, 89 Stat. 511, provided: “That this Act \[enacting sections 1765, 1766, 1767, 1768, and 1787 of this title, amending sections 1752, 1755, 1756, 1758, 1759, 1759a, 1760, 1761, 1762a, 1772, 1773, 1774, 1784, and 1786 of this title, repealing section 1764 of this title, and enacting provisions set out as notes under sections 1758, 1760, 1761, and 1786 of this title\] may be cited as the ‘National School Lunch Act and Child Nutrition Act of 1966 Amendments of 1975’.”
+Pub. L. 94–105, §1, Oct. 7, 1975, 89 Stat. 511, provided: “That this Act \[enacting sections 1765, 1766, 1767, 1768, and 1787 of this title, amending sections 1752, 1755, 1756, 1758, 1759, 1759a, 1760, 1761, 1762a, 1772, 1773, 1774, 1784,and 1786 of this title, repealing section 1764 of this title, and enacting provisions set out as notes under sections 1758, 1760, 1761, and 1786 of this title\] may be cited as the ‘National School Lunch Act and Child Nutrition Act of 1966 Amendments of 1975’.”
 
 #### Short Title of 1974 Amendment
 
-Pub. L. 93–326, §1, June 30, 1974, 88 Stat. 286, provided: “That this Act \[enacting section 1762a of this title and amending sections 1752, 1755, 1758, 1763, 1774, and 1786 ofthis title\] may be cited as the ‘National School Lunch and Child Nutrition Act Amendments of 1974’.”
+Pub. L. 93–326, §1, June 30, 1974, 88 Stat. 286, provided: “That this Act \[enacting section 1762a of this title and amending sections 1752, 1755, 1758, 1763, 1774, and 1786 of this title\] may be cited as the ‘National School Lunch and Child Nutrition Act Amendments of 1974’.”
 
 #### Short Title of 1973 Amendment
 
@@ -130,7 +130,7 @@ Recommendations with respect to change in payment amounts.—If the Secretary pr
 
 #### Study and Report Relating to Use of Private Food Establishments and Caterers Under School Lunch Program and School Breakfast Program
 
-Pub. L. 103–448, title III, §302, Nov. 2, 1994, 108 Stat. 4750, directed Comptroller General of the United States, in conjunction with the Director of the Office of Technology Assessment, to conduct a study and submit a report to Congress, not later than Sept. 1, 1996, on the use of private food establishments and caterers by schools that participate in the school lunch program under this chapter or the school breakfast program under section 1773 of this title.
+Pub. L. 103–448, title III, §302, Nov. 2, 1994, 108 Stat. 4750, directed Comptroller General of the United States,in conjunction with the Director of the Office of Technology Assessment, to conduct a study and submit a report to Congress, not later than Sept. 1, 1996, on the use of private food establishments and caterers by schools that participate in the school lunch program under this chapter or the school breakfast program under section 1773 of this title.
 
 #### School Lunch Studies
 

@@ -30,7 +30,7 @@ In addition to the number of positions which may be placed at GS–16, GS–17, 
 
 #### (e) Determination of maximum aggregate number of positions
 
-For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under section 5108(a) of title 5, 63 percent of the positions established under subsections (b) and (c) of thissection shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
+For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under section 5108(a) of title 5, 63 percent of the positions established under subsections (b) and (c) of this section shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
 
 #### (f) Intelligence and intelligence-related positions exempt from competitive service
 
@@ -48,7 +48,7 @@ This chapter, referred to in subsecs. (c)(2) and (d), was in the original “thi
 
 #### Codification
 
-August 14, 1991, referred to in subsec. (f), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–88, which enacted subsec. (f) of this section, to reflect the probable intent of Congress.
+August 14, 1991, referred to in subsec. (f), was in the original “the date of enactment of this Act”, which wastranslated as meaning the date of enactment of Pub. L. 102–88, which enacted subsec. (f) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
 

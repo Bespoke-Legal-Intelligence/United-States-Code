@@ -8,7 +8,7 @@ Any person who shall carry on a business subject to a special tax imposed by par
 
 For the purposes of this chapter, the sale, or offer for sale, of distilled spirits, wines, or beer, in quantities of 20 wine gallons or more to the same person at the same time, shall be presumptive evidence that the person making such sale, or offer for sale, is engaged in or carrying on the business of a wholesale dealer in liquors or a wholesale dealer in beer, as the case may be. Such presumption may be overcome by evidence satisfactorily showing that such sale, or offer for sale, was made to a person other than a dealer, as defined in section 5112(a).
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1413; amended Pub. L. 96–39, title VIII, §807(a)(60), July 26, 1979, 93 Stat. 290; Pub. L. 98–369, div. A, title IV, §451(b)(3), July 18, 1984, 98 Stat. 819; Pub. L. 100–203, title X, §10512(a)(1)(B)(i), (ii), Dec. 22, 1987, 101 Stat. 1330–447, 1330–448.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1413; amended Pub. L. 96–39, title VIII,§807(a)(60), July 26, 1979, 93 Stat. 290; Pub. L. 98–369, div. A, title IV, §451(b)(3), July 18, 1984, 98 Stat. 819; Pub. L. 100–203, title X, §10512(a)(1)(B)(i), (ii), Dec. 22, 1987, 101 Stat. 1330–447, 1330–448.)
 
 #### Prior Provisions
 

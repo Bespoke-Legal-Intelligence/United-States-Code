@@ -18,7 +18,7 @@ The Secretary is authorized to expend funds which are appropriated under the aut
 
 &emsp;&emsp;(C) dental care (direct and indirect);
 
-&emsp;&emsp;(D) mental health, including community mental health services, inpatient mental health services, dormitory mental health services, therapeutic and residential treatment centers, and training of traditional Indian practitioners;
+&emsp;&emsp;(D) mental health, including community mental health services, inpatient mental health services, dormitory mental healthservices, therapeutic and residential treatment centers, and training of traditional Indian practitioners;
 
 &emsp;&emsp;(E) emergency medical services;
 
@@ -94,7 +94,7 @@ Any funds appropriated under the authority of this section shall be designated a
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsecs. (a)(4) and (d), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (a)(4) and (d), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II ofchapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
 
@@ -136,7 +136,7 @@ Subsec. (e)(1). Pub. L. 102–573, §201(a)(5)(B), substituted “health status 
 
 Subsec. (e)(2). Pub. L. 102–573, §201(a)(5)(C), substituted “the extent of the health status and resource deficiency of” for “the level of health resources deficiency for”.
 
-Subsec. (e)(3). Pub. L. 102–573, §201(a)(5)(D), substituted “eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and” for “raise all Indian tribes served by the Service belowhealth resources deficiency level II to health resources deficiency level II;”.
+Subsec. (e)(3). Pub. L. 102–573, §201(a)(5)(D), substituted “eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and” for “raise all Indian tribes served by the Service below health resources deficiency level II to health resources deficiency level II;”.
 
 Subsec. (e)(4) to (6). Pub. L. 102–573, §201(a)(5)(E), redesignated par. (6) as (4) and struck out former pars. (4) and (5) which read as follows:
 
@@ -166,7 +166,7 @@ Subsec. (c)(4)(D). Pub. L. 96–537, §4(b)(4), inserted provisions authorizing 
 
 Subsec. (c)(4)(E). Pub. L. 96–537, §4(b)(5), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
 
-Subsec. (c)(5). Pub. L. 96–537, §4(c)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
+Subsec. (c)(5). Pub. L. 96–537, §4(c)(1), inserted provisions authorizing appropriation of specific amounts forfiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
 
 Subsec. (c)(6). Pub. L. 96–537, §4(c)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 

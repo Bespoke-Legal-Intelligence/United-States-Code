@@ -42,7 +42,7 @@
 
 (7)(A) There are authorized to be appropriated such sums as are necessary for each National Conference and associated State and regional conferences under part I of this subchapter, to remain available until expended.
 
-(B) New spending authority or authority to enter into contracts under part I of this subchapter shall be effective only to such extent and in such amounts as are provided in advance in appropriation Acts.
+(B) New spending authority or authority to enter into contracts under part I of this subchapter shall be effective only to such extentand in such amounts as are provided in advance in appropriation Acts.
 
 (C) No funds appropriated to carry out this chapter shall be made available to carry out part I of this subchapter other than funds appropriated specifically for the purpose of conducting the Conference.
 
@@ -100,7 +100,7 @@ Subsec. (a)(1). Pub. L. 101–204, §1002, substituted “are authorized” for 
 
 1988—Subsec. (a). Pub. L. 100–690, §7265(a), as amended by Pub. L. 101–204, §1001(e)(1), designated existing provisions as par. (1), inserted “(other than part D)” after “this subchapter”, struck out “1985, 1986, 1987, and 1988” after “fiscal years”, inserted “1989, 1990, 1991, and 1992”, and added par. (2).
 
-Subsec. (b). Pub. L. 100–690, §7265(b), inserted “(other than part D)” after “this subchapter” in introductory provisions and substituted “5 percent” for “7.5 percent” in par. (1), “70 percent” for “81.5 percent” in par. (2), and “25 percent” for “11 percent” in par. (3).
+Subsec. (b). Pub. L. 100–690, §7265(b), inserted “(other than part D)” after “this subchapter” in introductoryprovisions and substituted “5 percent” for “7.5 percent” in par. (1), “70 percent” for “81.5 percent” in par. (2), and “25 percent” for “11 percent” in par. (3).
 
 1984—Subsec. (a). Pub. L. 98–473, amended subsec. (a) generally, substituting provisions relating to authorization of appropriations for fiscal years 1985 to 1988 for former provisions which authorized appropriations for fiscal years 1981 to 1984.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States within the contingent fund of theSenate a revolving fund, to be known as the “Office of the Chaplain Expense Revolving Fund” (hereafter referred to as the “fund”). The fund shall consist of all moneys collected or received with respect to the Office of the Chaplain of the Senate.
+There is established in the Treasury of the United States within the contingent fund of the Senate a revolving fund, to be known as the “Office of the Chaplain Expense Revolving Fund” (hereafter referred to as the “fund”). The fund shall consist of all moneys collected or received with respect to the Office of the Chaplain of the Senate.
 
 #### (b) Disbursements
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary of Agriculture shall procure and preserve all information concerning agriculture, rural development, aquaculture, and human nutrition which he can obtain by means of books and correspondence, and by practical and scientific experiments, accurate records of which experiments shall be kept in his office, by the collection of statistics, and by any other appropriate means within his power; he shall collect new and valuable seeds and plants; shall test, by cultivation, the value of such of them as may require such tests; shall propagate such as may be worthy of propagation; and shall distribute them among agriculturists; and he shall advise the President, other members of his Cabinet, and the Congress on policies and programs designed to improve the quality of life for people living in the rural and nonmetropolitan regions of the Nation.
 
-(b) The Secretary is authorized to initiate or expand research and development efforts related to solution of problems of rural water supply, rural sewage and solid waste management, rural housing, rural industrialization, and technology appropriate to small- and moderate-sized family farming operations, and any other problem that the Secretary may determine has an effect upon the economic development or the quality of life in rural areas.
+(b) The Secretary is authorized to initiate or expand research and development efforts relatedto solution of problems of rural water supply, rural sewage and solid waste management, rural housing, rural industrialization, and technology appropriate to small- and moderate-sized family farming operations, and any other problem that the Secretary may determine has an effect upon the economic development or the quality of life in rural areas.
 
 (R.S. §526; Feb. 9, 1889, ch. 122, §§1, 4, 25 Stat. 659; Pub. L. 92–419, title VI, §603(b), Aug. 30, 1972, 86 Stat. 675; Pub. L. 94–273, §7(4), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–113, title XV, §1502(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 96–355, §5, Sept. 24, 1980, 94 Stat. 1174.)
 
@@ -94,11 +94,7 @@ Submission of results.—Not later than one year after the date of the implement
 
 #### Order of Succession
 
-Order of succession upon death, absence, sickness, or resignation of Secretary of Agriculture, see Ex. Ord. No. 11793, July 10, 1974, 39 F.R. 25631, set out as a note under section 3345 of Title 5, Government Organization and Employees.
-
-#### Cross References
-
-Purchase of seeds and plants for distribution, see section 415 of this title.
+For order of succession during any period when both Secretary and Deputy Secretary of Agriculture are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13241, Dec. 18, 2001, 66 F.R. 66258,set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ There is established in the Department a National Advisory Committee on Institut
 
 #### (b) Terms of members
 
-Terms of office of each member of the Committee shall be 3 years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of such term.
+Terms of office of each member of the Committee shall be 3 years, except that any memberappointed to fill a vacancy occurring prior to the expiration of the term for which the member's predecessor was appointed shall be appointed for the remainder of such term.
 
 #### (c) Public notice
 

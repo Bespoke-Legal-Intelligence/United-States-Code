@@ -82,3 +82,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(b)\], Oct. 30, 2000, 114 
 
 Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, provided that: “Not later than 15 months after the date of the enactment of this Act \[Oct. 30, 2000\], the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the collection of data under such section 2225. The report shall include the Comptroller General's assessment of the extent to which the collection of data meets the requirements of that section.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2330a of this title.
+

@@ -58,17 +58,17 @@ Description of Property.—The exact acreage and legal description of any family
 
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with the conveyance of family housing facilities under this section as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amended Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amended Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of theAct relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(2), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Title V of the Act is classified generally to subchapter V (§11411 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 #### Amendments
 
-2000—Subsec. (d)(2). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+2001—Subsec. (d)(2). Pub. L. 107–107 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
 #### Section Referred to in Other Sections
 

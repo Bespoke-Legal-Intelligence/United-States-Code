@@ -64,7 +64,7 @@ In making grants under this section, the Secretary shall give priority to—
 
 &emsp;(3) projects to provide after-school, vacation, and weekend activities designed to give youth opportunities to actively participate in a variety of activities, including youth sports programs;
 
-&emsp;(4) activities and projects that are consistent with activities and projects described in subsection (e)(1) of this section and that include participation by the business community;
+&emsp;(4) activities and projects that are consistent with activities and projects described insubsection (e)(1) of this section and that include participation by the business community;
 
 &emsp;(5) projects that provide outreach to individuals of all ages who are at high risk of involvement with drug abuse;
 
@@ -130,7 +130,7 @@ To carry out this section, there are authorized to be appropriated $40,000,000 f
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title IV of the Act is classified generally to subchapter IV (§7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally. Title IV of the Act is classified generally to subchapter IV (§7101 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 #### Amendments
 
@@ -142,7 +142,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8
 
 Subsec. (c)(3)(A). Pub. L. 101–93, §4(1)(B), substituted “subsection (g)” for “subsection (h)”.
 
-Subsec. (d). Pub. L. 101–226, which directed amendment of section 3521(d) of the National Narcotics Leadership Act of 1988 by adding par. (8) and redesignating former par. (8) as (9), was executed to section 3521(d) of Pub. L. 100–690, the Anti-Drug Abuse Act of 1988, as theprobable intent of Congress. Subtitle A (§§1001–1012) of title I of Pub. L. 100–690 is the National Narcotics Leadership Act of 1988.
+Subsec. (d). Pub. L. 101–226, which directed amendment of section 3521(d) of the National Narcotics Leadership Act of 1988 by adding par. (8) and redesignating former par. (8) as (9), was executed to section 3521(d) of Pub. L. 100–690, the Anti-Drug Abuse Act of 1988, as the probable intent of Congress. Subtitle A (§§1001–1012) of title I of Pub. L. 100–690 is the National Narcotics Leadership Act of 1988.
 
 #### Termination of Trust Territory of the Pacific Islands
 

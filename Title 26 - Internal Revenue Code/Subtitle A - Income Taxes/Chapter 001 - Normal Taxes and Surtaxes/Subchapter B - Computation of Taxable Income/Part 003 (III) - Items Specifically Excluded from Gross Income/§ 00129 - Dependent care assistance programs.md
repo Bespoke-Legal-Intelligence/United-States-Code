@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (B) Interest in unincorporated trade or business
 
-&emsp;&emsp;The interest of an employee in a trade or business which is not incorporated shall bedetermined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
+&emsp;&emsp;The interest of an employee in a trade or business which is not incorporated shall be determined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
 
 #### (6) Utilization test not applicable
 
@@ -158,7 +158,7 @@ Pub. L. 101–140, §203(a)(1), amended this section to read as if the amendment
 
 #### Prior Provisions
 
-A prior section 129 was renumbered section 139 of this title.
+A prior section 129 was renumbered section 140 of this title.
 
 #### Amendments
 
@@ -196,7 +196,7 @@ Subsec. (e)(6). Pub. L. 101–140, §204(a)(3)(C), substituted “(8)” for “
 
 Subsec. (d)(1)(B). Pub. L. 100–647, §1011B(a)(30), substituted “(7)” for “(6)”, see Codification note above.
 
-Subsec. (d)(3). Pub. L. 100–647, §1011B(a)(31)(A)(i), struck out at end “For purposes of this paragraph,there may be excluded from consideration employees who may be excluded from consideration under section 89(h).”
+Subsec. (d)(3). Pub. L. 100–647, §1011B(a)(31)(A)(i), struck out at end “For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h).”
 
 Subsec. (d)(7). Pub. L. 100–647, §1011B(a)(14), redesignated par. (8) as (7).
 

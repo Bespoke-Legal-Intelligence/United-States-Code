@@ -8,9 +8,11 @@ General.—Except as provided in subsection (b) of this section, the United Stat
 
 &emsp;(2) not more than 90 percent for a project funded by a grant issued to and administered by a State under section 47128, relating to the State block grant program;
 
-&emsp;(3) 90 percent for a project at any other airport; and
+&emsp;(3) 90 percent for a project at any other airport;
 
-&emsp;(4) 40 percent for a project funded by the Administrator from the discretionary fund under section 47115 at an airport receiving an exemption under section 47134.
+&emsp;(4) 40 percent for a project funded by the Administrator from the discretionary fund undersection 47115 at an airport receiving an exemption under section 47134; and
+
+&emsp;(5) for fiscal year 2002, 100 percent for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L).
 
 (b)
 
@@ -26,7 +28,7 @@ Increased Government Share.—If, under subsection (a) of this section, the Gove
 
 Special Rule for Privately Owned Reliever Airports.—If a privately owned reliever airport contributes any lands, easements, or rights-of-way to carry out a project under this subchapter, the current fair market value of such lands, easements, or rights-of-way shall be credited toward the non-Federal share of allowable project costs.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282; Pub. L. 106–181, title I, §126, Apr. 5, 2000, 114 Stat. 76.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282; Pub. L. 106–181, title I, §126, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(4), Nov. 19, 2001, 115 Stat. 629.)
 
 Historical and Revision Notes
 
@@ -65,6 +67,8 @@ In subsection (c), the words “Notwithstanding subsections (a) and (b) of this 
 Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 #### Amendments
+
+2001—Subsec. (a)(5). Pub. L. 107–71 added par. (5).
 
 2000—Subsec. (a)(2) to (4). Pub. L. 106–181 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 

@@ -32,13 +32,13 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;&emsp;(B) is an officer or managing employee (as defined in section 1320a–5(b) of this title) of such an entity;
 
-&emsp;(5) offers to or transfers remuneration to any individual eligible for benefits under subchapter XVIII of this chapter, or under a State health care program (as defined in section1320a–7(h) of this title) that such person knows or should know is likely to influence such individual to order or receive from a particular provider, practitioner, or supplier any item or service for which payment may be made, in whole or in part, under subchapter XVIII of this chapter, or a State health care program (as so defined);
+&emsp;(5) offers to or transfers remuneration to any individual eligible for benefits under subchapter XVIII of this chapter, or under a State health care program (as defined in section 1320a–7(h) of this title) that such person knows or should know is likely to influence such individual to order or receive from a particular provider, practitioner, or supplier any item or service for which payment may be made, in whole or in part, under subchapter XVIII of this chapter, or a State health care program (as so defined);
 
 &emsp;(6) arranges or contracts (by employment or otherwise) with an individual or entity that the person knows or should know is excluded from participation in a Federal health care program (as defined in section 1320a–7b(f) of this title), for the provision of items or services for which payment may be made under such a program; or
 
 &emsp;(7) commits an act described in paragraph (1) or (2) of section 1320a–7b(b) of this title;
 
-> shall be subject, in addition to any other penalties that may be prescribed by law, to a civil money penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; or in cases under paragraph (7), $50,000 for each such act). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
+> shall be subject, in addition to any other penalties that may be prescribed by law, to a civilmoney penalty of not more than $10,000 for each item or service (or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given; in cases under paragraph (4), $10,000 for each day the prohibited relationship occurs; or in cases under paragraph (7), $50,000 for each such act). In addition, such a person shall be subject to an assessment of not more than 3 times the amount claimed for each such item or service in lieu of damages sustained by the United States or a State agency because of such claim (or, in cases under paragraph (7), damages of not more than 3 times the total amount of remuneration offered, paid, solicited, or received, without regard to whether a portion of such remuneration was offered, paid, solicited, or received for a lawful purpose). In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the Federal health care programs (as defined in section 1320a–7b(f)(1) of this title) and to direct the appropriate State agency to exclude the person from participation in any State health care program.
 
 #### (b) Payments to induce reduction or limitation of services
 
@@ -182,7 +182,7 @@ For the purposes of this section:
 
 #### (k) Injunctions
 
-Whenever the Secretary has reason to believe that any person has engaged, is engaging, or is about to engage in any activity which makes the person subject to a civil monetary penalty under this section, the Secretary may bring an action in an appropriate district court of theUnited States (or, if applicable, a United States court of any territory) to enjoin such activity, or to enjoin the person from concealing, removing, encumbering, or disposing of assets which may be required in order to pay a civil monetary penalty if any such penalty were to be imposed or to seek other appropriate relief.
+Whenever the Secretary has reason to believe that any person has engaged, is engaging, or is about to engage in any activity which makes the person subject to a civil monetary penalty under this section, the Secretary may bring an action in an appropriate district court of the United States (or, if applicable, a United States court of any territory) to enjoin such activity, or to enjoin the person from concealing, removing, encumbering, or disposing of assets which may be required in order to pay a civil monetary penalty if any such penalty were to be imposed or to seek other appropriate relief.
 
 #### (<i>l</i>) Liability of principal for acts of agent
 
@@ -330,7 +330,7 @@ Subsec. (<i>l</i>). Pub. L. 100–485, §608(d)(26)(I), inserted “for penaltie
 
 Pub. L. 100–360, §411(k)(10)(B)(ii)(III), added Pub. L. 100–203, §4118(e)(1)(B), see 1987 Amendment note below.
 
-1987—Subsec. (a). Pub. L. 100–203, §4118(e)(10)(A), as added by Pub. L. 100–360, §411(k)(10)(D), inserted “, butexcluding a beneficiary, as defined in subsection (i)(5) of this section” in introductory provisions.
+1987—Subsec. (a). Pub. L. 100–203, §4118(e)(10)(A), as added by Pub. L. 100–360, §411(k)(10)(D), inserted “, but excluding a beneficiary, as defined in subsection (i)(5) of this section” in introductory provisions.
 
 Pub. L. 100–93, §3(a)(3)(B), in concluding provisions, inserted “(or, in cases under paragraph (3), $15,000 for each individual with respect to whom false or misleading information was given)” before period at end of first sentence, and inserted at end “In addition the Secretary may make a determination in the same proceeding to exclude the person from participation in the programs under subchapter XVIII of this chapter and to direct the appropriate State agency to exclude the person from participation in any State health care program.”
 
@@ -492,7 +492,7 @@ Section 201(a) of Pub. L. 101–234 provided that:
 
 “(1)
 
-General rule.—Except as provided in paragraph (2), sections 201 through 208 of MCCA \[sections 201 to 208 of Pub. L. 100–360, enacting section 1395w–3 of this title, amending this section and sections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, and 1396n of this title, and enacting provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] are repealed and the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted.
+General rule.—Except as provided in paragraph (2), sections 201 through 208 of MCCA \[sections 201 to 208 of Pub. L. 100–360, enacting section 1395w–3 of this title, amending this section and sections 1320c–3, 1395h, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, and 1396n of this title, and enacting provisions set out as notesunder sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395<i>ll</i>, and 1395ww of this title\] are repealed and the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted.
 
 “(2)
 

@@ -40,7 +40,7 @@
 
 #### (b) Former Federal employees
 
-(1)(A) An employee of the Corporation that was subject to either the Civil Service Retirement System (referred to in this section as “CSRS”) or the Federal Employees’ Retirement System (referred to in this section as “FERS”) on the day immediately preceding the privatization date shall elect—
+(1)(A) An employee of the Corporation that was subject to either the Civil Service Retirement System (referred to in this section as “CSRS”) or the Federal Employees’ Retirement System (referred to in this section as “FERS”)on the day immediately preceding the privatization date shall elect—
 
 &emsp;(i) to retain the employee's coverage under either CSRS or FERS, as applicable, in lieu of coverage by the Corporation's retirement system, or
 

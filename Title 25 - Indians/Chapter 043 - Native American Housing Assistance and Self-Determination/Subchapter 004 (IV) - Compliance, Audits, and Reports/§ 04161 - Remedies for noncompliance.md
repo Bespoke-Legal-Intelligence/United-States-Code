@@ -68,7 +68,7 @@
 
 #### (1) Authority
 
-&emsp;In lieu of, or in addition to, any action authorized by subsection (a) of this section, if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
+&emsp;In lieu of, or in addition to, any action authorized by subsection (a) of this section, if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretarymay refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
 
 #### (2) Civil action
 
@@ -110,7 +110,7 @@
 
 &emsp;Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 104–330, title IV, §401, Oct. 26, 1996, 110 Stat. 4037; Pub. L. 106–568, title X, §1003(h), (i), Dec. 27, 2000, 114 Stat. 2928, 2929; Pub. L. 106–569,title V, §503(g), (h), Dec. 27, 2000, 114 Stat. 2964, 2965.)
+(Pub. L. 104–330, title IV, §401, Oct. 26, 1996, 110 Stat. 4037; Pub. L. 106–568, title X, §1003(h), (i), Dec. 27, 2000, 114 Stat. 2928, 2929; Pub. L. 106–569, title V, §503(g), (h), Dec. 27, 2000, 114 Stat. 2964, 2965.)
 
 #### References in Text
 

@@ -44,7 +44,7 @@ Subsec. (a)(2). Pub. L. 102–375, §309(2), substituted “2 percent” for “
 
 Subsec. (a)(3). Pub. L. 102–375, §309(1)(B), added par. (3).
 
-Subsec. (b)(1). Pub. L. 102–375, §309(2), substituted “2 percent” for “5 percent” and “to carry out subchapter IV of this chapter” for “for carrying out the purposes of section 3035a of this title”.
+Subsec. (b)(1). Pub. L. 102–375, §309(2), substituted “2 percent” for “5 percent” and “to carry out subchapterIV of this chapter” for “for carrying out the purposes of section 3035a of this title”.
 
 Subsec. (b)(2). Pub. L. 102–375, §309(2)(B), substituted “to carry out subchapter IV of this chapter” for “for carrying out the purposes of section 3035a of this title”.
 

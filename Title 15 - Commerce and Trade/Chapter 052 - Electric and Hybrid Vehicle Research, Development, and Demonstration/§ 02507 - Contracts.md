@@ -2,7 +2,7 @@
 
 #### (a) Research, development, and demonstration
 
-The Secretary of Energy shall provide funds, by contract, to initiate, continue, supplement, and maintain research, development, and demonstration activities which are necessary to carry out the purposes of the project. The Secretary of Energy may enter into such contracts with any Federal agency, laboratory, university, nonprofit organization, industrial organization, public or private agency, institution, organization, corporation, partnership, or individual.
+The Secretary of Energy shall provide funds, by contract, to initiate, continue, supplement, and maintain research, development, and demonstration activities which are necessary to carry out the purposes of the project. The Secretary of Energy may enter into such contracts with any Federal agency, laboratory, university, nonprofit organization, industrial organization,public or private agency, institution, organization, corporation, partnership, or individual.
 
 #### (b) Consultation
 
@@ -10,7 +10,7 @@ In addition to the requirements of sections 2503 and 2504 of this title, the Sec
 
 #### (c) Rules of Secretary of Energy; funding applications; required advertising
 
-Each contract under this section shall be entered into in accordance with such rules as theSecretary of Energy may prescribe in accordance with the provisions of this section. Each application for funding shall be made in writing in such form and with such content and other submissions as the Secretary of Energy shall require. The Secretary of Energy may enter into contracts under this section without regard to section 5 of title 41.
+Each contract under this section shall be entered into in accordance with such rules as the Secretary of Energy may prescribe in accordance with the provisions of this section. Each application for funding shall be made in writing in such form and with such content and other submissions as the Secretary of Energy shall require. The Secretary of Energy may enter into contracts under this section without regard to section 5 of title 41.
 
 #### (d) Purchase or lease of demonstration vehicles pursuant to agreements and utilization of Federal forms of assistance and participation authorized under other statutory provisions
 

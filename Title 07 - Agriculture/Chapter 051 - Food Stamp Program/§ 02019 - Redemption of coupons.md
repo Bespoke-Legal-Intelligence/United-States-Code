@@ -46,7 +46,7 @@ Subsec. (h). Pub. L. 91–671, §6(c), added subsec. (h).
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Amendment by Pub. L. 99–570 effective, and to be implemented by issuance of final regulations, not later than Apr. 1, 1987, and cease to be effective after Sept. 30, 1990, see section 11002(f)(1), (2) of Pub. L. 99–570, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 99–570 effective, and to be implemented by issuance of final regulations, not later than Apr. 1, 1987, and cease to be effective after Sept.30, 1990, see section 11002(f)(1), (2) of Pub. L. 99–570, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1981 Amendment
 

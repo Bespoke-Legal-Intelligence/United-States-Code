@@ -28,7 +28,7 @@
 
 (c) Service shall be deemed to have been made—
 
-&emsp;(1) in the case of service under subsection (a)(4), as of the date of transmittal indicatedin the certified copy of the diplomatic note; and
+&emsp;(1) in the case of service under subsection (a)(4), as of the date of transmittal indicated in the certified copy of the diplomatic note; and
 
 &emsp;(2) in any other case under this section, as of the date of receipt indicated in the certification, signed and returned postal receipt, or other proof of service applicable to the method of service employed.
 

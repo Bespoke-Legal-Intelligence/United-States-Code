@@ -62,7 +62,7 @@ The Chairman, upon his appointment, shall invite to serve on the Board of Direct
 
 #### (h) Compensation
 
-Members of the Board of Directors who are officers or employees of the Federal or District of Columbia government shall receive no additional compensation by virtue of their membership on the Board. Other members of the Board, when engaged in the activities of the Corporation, shall be entitled to receive compensation at the daily equivalent of the rate for GS–18 of the General Schedule, and travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703(b)–(d) <sup>1</sup> and 5707) for persons in the Government service employed intermittently.
+Members of the Board of Directors who are officers or employees of the Federal or District ofColumbia government shall receive no additional compensation by virtue of their membership on the Board. Other members of the Board, when engaged in the activities of the Corporation, shall be entitled to receive compensation at the daily equivalent of the rate for GS–18 of the General Schedule, and travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703(b)–(d) <sup>1</sup> and 5707) for persons in the Government service employed intermittently.
 
 #### (i) Meetings; quorum
 

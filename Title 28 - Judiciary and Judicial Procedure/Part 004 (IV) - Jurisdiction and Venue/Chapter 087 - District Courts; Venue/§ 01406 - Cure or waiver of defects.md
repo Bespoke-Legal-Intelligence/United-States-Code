@@ -18,7 +18,7 @@ Subsection (b) is declaratory of existing law. (See <i>Panama R.R. Co. v. Johnso
 
 #### 1949 Act
 
-This section removes an ambiguity in section 1406(a) of title 28, U.S.C., by substituting “may” for “shall”,thus making it clear that the court may decline to transfer a case brought in the wrong district under circumstances where it would not be in the interest of justice to make such transfer.
+This section removes an ambiguity in section 1406(a) of title 28, U.S.C., by substituting “may” for “shall”, thus making it clear that the court may decline to transfer a case brought in the wrong district under circumstances where it would not be in the interest of justice to make such transfer.
 
 #### Amendments
 

@@ -88,7 +88,7 @@ No drawback shall be allowed under the provisions of this section unless the com
 
 > shall not be treated as a use of that merchandise for purposes of applying paragraph (1)(B) or (2)(C).
 
-(4) Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301(4)\], of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act, shall not constitute an exportation for purposes of paragraph (2) \[19 U.S.C. 3333(a)\].
+(4) Effective upon the entry into force of the North American Free Trade Agreement, the exportation to a NAFTA country, as defined in section 2(4) of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3301(4)\], of merchandise that is fungible with and substituted for imported merchandise, other than merchandise described in paragraphs (1) through (8) of section 203(a) of that Act \[19 U.S.C. 3333(a)\], shall not constitute an exportation for purposes of paragraph (2).
 
 #### (k) Use of domestic merchandise acquired in exchange for imported merchandise of same kind and quality
 

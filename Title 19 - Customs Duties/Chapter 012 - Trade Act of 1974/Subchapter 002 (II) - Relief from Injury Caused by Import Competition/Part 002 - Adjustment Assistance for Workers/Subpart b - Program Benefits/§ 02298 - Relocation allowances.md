@@ -2,7 +2,7 @@
 
 #### (a) Filing of application
 
-Any adversely affected worker covered by a certification under subpart A of this part may file an application with the Secretary for a relocation allowance, subject to the terms and conditions of this section, if such worker files such application before—
+Any adversely affected worker covered by a certification under subpart A of this part mayfile an application with the Secretary for a relocation allowance, subject to the terms and conditions of this section, if such worker files such application before—
 
 &emsp;(1) the later of—
 

@@ -42,6 +42,10 @@ Office of the Architect of the Capitol’ and ‘
 
 Salaries’ in the Legislative Branch Appropriation Act, 1960 (40 U.S.C. 166b–3).”
 
+#### Compensation of Assistant Architect of the Capitol
+
+Pub. L. 107–68, title I, §129(b), Nov. 12, 2001, 115 Stat. 580, provided that: “Pursuant to the authority described in section 308(a) of the Legislative Branch Appropriations Act, 1988 (40 U.S.C. 166b–3a(a)), the pay for the position of assistant referred to in the proviso in the first undesignated paragraph under the center subheadings ‘Office of the Architect of the Capitol’ and ‘salaries’ in the first section of the Legislative Branch Appropriation Act, 1971 (40 U.S.C. 164a) shall be an amount equal to $1,000 less than the annual rate of pay for the Architect of the Capitol.”
+
 #### Fiscal Year Adjustments in Pay
 
 Section 307 of Pub. L. 101–163 provided that: “The pay for the positions described in section 308(b) of the Legislative Branch Appropriations Act, 1988, as contained in section 101(i) of Public Law 100–202 \[40 U.S.C. 166b–3a(b)\]—

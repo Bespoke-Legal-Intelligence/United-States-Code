@@ -48,7 +48,7 @@ In determining the amount of any deficiency for purposes of this subchapter, adj
 
 Subsec. (b)(2). Pub. L. 100–418, §1941(b)(2)(B)(ii), substituted “or 44” for “44, or 45”.
 
-Subsec. (b)(4). Pub. L. 100–647, §1015(r)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The tax imposed by subtitle A and the tax shown on the return shall both be determined without regard to the credit under section 34, unless, without regard to such credit, the tax imposed by subtitle A exceeds the excess of the amount specified in subsection (a)(1) over the amount specified in subsection (a)(2).”
+Subsec. (b)(4). Pub. L. 100–647, §1015(r)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The tax imposed by subtitle A and the tax shown on the return shall both be determined withoutregard to the credit under section 34, unless, without regard to such credit, the tax imposed by subtitle A exceeds the excess of the amount specified in subsection (a)(1) over the amount specified in subsection (a)(2).”
 
 Subsec. (b)(5), (6). Pub. L. 100–418, §1941(b)(2)(D), struck out pars. (5) and (6) which read as follows:
 

@@ -30,7 +30,7 @@ Compensation for Wages Below Industry Standard.—The Corporation shall pay $200
 
 “(f) ESOP
 
-Transactions.—(1) As soon as practicable after the date of the enactment of this Act \[Oct. 21, 1986\], the employee stock ownership plan of the Corporation (hereafter in this subsection referred to as the ‘ESOP’) shall be amended to provide that—
+Transactions.—(1) As soon as practicable after the date of the enactment of this Act \[Oct. 21,1986\], the employee stock ownership plan of the Corporation (hereafter in this subsection referred to as the ‘ESOP’) shall be amended to provide that—
 
 &emsp;“(A) the shares of the ConRail Equity Corporation preferred stock held by the ESOP shall be surrendered by the ESOP in exchange for an equal number of shares of the common stock of the Corporation, and such common stock of the Corporation shall be allocated by the ESOP to the same persons in the same amounts as the shares of ConRail Equity Corporation preferred stock had been allocated; and
 

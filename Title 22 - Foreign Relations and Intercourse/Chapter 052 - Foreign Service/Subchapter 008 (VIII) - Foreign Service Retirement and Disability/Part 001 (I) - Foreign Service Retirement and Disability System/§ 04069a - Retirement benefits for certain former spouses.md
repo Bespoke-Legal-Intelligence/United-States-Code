@@ -6,7 +6,7 @@ Any individual who was a former spouse of a participant or former participant on
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the benefits of the participant; or
 
-&emsp;(2) if not married to the participant throughout such creditable service, equal to thatformer spouse's pro rata share of 50 percent of such benefits.
+&emsp;(2) if not married to the participant throughout such creditable service, equal to that former spouse's pro rata share of 50 percent of such benefits.
 
 #### (b) Disqualification
 
@@ -54,7 +54,7 @@ For the purposes of this section, the term “benefits” means—
 
 #### (e) Effect of section on annuity
 
-Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
+Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuityor the entitlement to an annuity of a participant or former participant under this subchapter.
 
 #### (f) Former spouses of United States Information Agency and Agency for International Development employees
 

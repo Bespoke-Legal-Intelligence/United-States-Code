@@ -24,7 +24,7 @@ The Secretary may not, through policy letters or other statements, establish a r
 
 #### (e) Issues of national significance
 
-If the Secretary receives a written request regarding a policy, question, or interpretationunder subchapter II of this chapter, and determines that it raises an issue of general interest or applicability of national significance to the implementation of subchapter II of this chapter, the Secretary shall—
+If the Secretary receives a written request regarding a policy, question, or interpretation under subchapter II of this chapter, and determines that it raises an issue of general interest or applicability of national significance to the implementation of subchapter II of this chapter, the Secretary shall—
 
 &emsp;(1) include a statement to that effect in any written response;
 
@@ -52,5 +52,5 @@ Section 1407, Pub. L. 91–230, title VI, §608, as added Pub. L. 98–199, §6,
 
 Section 1408, Pub. L. 91–230, title VI, §609, as added Pub. L. 99–457, title II, §202, Oct. 8, 1986, 100 Stat. 1158, related to eligibility for financial assistance.
 
-Section 1409, Pub. L. 91–230, title VI, §610, as added Pub. L. 101–476, title I, §104, Oct. 30, 1990, 104 Stat. 1106, provided administrative provisions applicable to former subchapters III to VII of this chapter and former section 1418 of this title.
+Section 1409, Pub. L. 91–230, title VI, §610, as added Pub. L. 101–476, title I, §104, Oct. 30, 1990, 104 Stat. 1106,provided administrative provisions applicable to former subchapters III to VII of this chapter and former section 1418 of this title.
 

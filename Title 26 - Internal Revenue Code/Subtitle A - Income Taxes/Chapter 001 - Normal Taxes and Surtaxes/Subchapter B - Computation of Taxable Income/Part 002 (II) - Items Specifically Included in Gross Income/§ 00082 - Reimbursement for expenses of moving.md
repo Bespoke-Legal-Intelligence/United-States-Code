@@ -14,7 +14,7 @@ Amendment by Pub. L. 103–66 applicable to reimbursements or other payments in 
 
 #### Effective Date
 
-Section applicable to taxable years beginning after December 31, 1969, except that it does not apply to moving expenses paid or incurred before July 1, 1970, in connection with the commencement of work by the taxpayer as an employee at a new principal place of workof which the taxpayer had been notified by his employer on or before December 19, 1969, see section 231(d) of Pub. L. 91–172, set out as an Effective Date of 1969 Amendment note under section 217 of this title.
+Section applicable to taxable years beginning after December 31, 1969, except that it does not apply to moving expenses paid or incurred before July 1, 1970, in connection with the commencement of work by the taxpayer as an employee at a new principal place of work of which the taxpayer had been notified by his employer on or before December 19, 1969, see section 231(d) of Pub. L. 91–172, set out as an Effective Date of 1969 Amendment note under section 217 of this title.
 
 #### Moving Expenses of Members of the Uniformed Services
 

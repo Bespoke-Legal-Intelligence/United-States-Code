@@ -110,7 +110,7 @@ Prevention of discriminatory practices.—If the President, or the delegate ther
 
 &emsp;&emsp;(A) seek elimination of such practices through consultations; or
 
-&emsp;&emsp;(B) notwithstanding any other provision of law, suspend, modify, amend, condition, orrestrict operations, including geographical restriction of operations, in the United States by motor carriers of property or passengers domiciled in such foreign country or owned or controlled by persons of such foreign country.
+&emsp;&emsp;(B) notwithstanding any other provision of law, suspend, modify, amend, condition, or restrict operations, including geographical restriction of operations, in the United States by motor carriers of property or passengers domiciled in such foreign country or owned or controlled by persons of such foreign country.
 
 &emsp;(2)
 
@@ -214,6 +214,116 @@ Subsec. (b)(8)(B). Pub. L. 104–287, §5(32)(B), substituted “January 1, 1996
 
 Subsecs. (c)(4)(A), (d)(1)(A), (2). Pub. L. 104–287, §5(32)(C), substituted “December 31, 1995” for “the day before the effective date of this section”.
 
+#### Safety of Cross-Border Trucking Between United States and Mexico
+
+Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
+
+“(a) No funds limited or appropriated in this Act \[see Tables for classification\] may be obligated or expended for the review or processing of an application by a Mexican motor carrier for authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border until the Federal Motor Carrier Safety Administration—
+
+&emsp;“(1)(A) requires a safety examination of such motor carrier to be performed before the carrier is granted conditional operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
+
+&emsp;“(B) requires the safety examination to include—
+
+&emsp;&emsp;“(i) verification of available performance data and safety management programs;
+
+&emsp;&emsp;“(ii) verification of a drug and alcohol testing program consistent with part 40 of title 49, Code of Federal Regulations;
+
+&emsp;&emsp;“(iii) verification of that motor carrier's system of compliance with hours-of-service rules, including hours-of-service records;
+
+&emsp;&emsp;“(iv) verification of proof of insurance;
+
+&emsp;&emsp;“(v) a review of available data concerning that motor carrier's safety history, and other information necessary to determine the carrier's preparedness to comply with Federal Motor Carrier Safety rules and regulations and Hazardous Materials rules and regulations;
+
+&emsp;&emsp;“(vi) an inspection of that Mexican motor carrier's commercial vehicles to be used under such operating authority, if any such commercial vehicles have not received a decal from the inspection required in subsection (a)(5);
+
+&emsp;&emsp;“(vii) an evaluation of that motor carrier's safety inspection, maintenance, and repair facilities ormanagement systems, including verification of records of periodic vehicle inspections;
+
+&emsp;&emsp;“(viii) verification of drivers’ qualifications, including a confirmation of the validity of the Licencia de Federal de Conductor of each driver of that motor carrier who will be operating under such authority; and
+
+&emsp;&emsp;“(ix) an interview with officials of that motor carrier to review safety management controls and evaluate any written safety oversight policies and practices.
+
+&emsp;“(C) requires that—
+
+&emsp;&emsp;“(i) Mexican motor carriers with three or fewer commercial vehicles need not undergo on-site safety examination; however 50 percent of all safety examinations of all Mexican motor carriers shall be conducted onsite; and
+
+&emsp;&emsp;“(ii) such on-site inspections shall cover at least 50 percent of estimated truck traffic in any year.
+
+&emsp;“(2) requires a full safety compliance review of the carrier consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, and gives the motor carrier a satisfactory rating, before the carrier is granted permanent operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border, and requires that any such safety compliance review take place within 18 months of that motor carrier being granted conditional operating authority, provided that—
+
+&emsp;&emsp;“(A) Mexican motor carriers with three or fewer commercial vehicles need not undergo onsite compliance review; however 50 percent of all compliance reviews of all Mexican motor carriers shall be conducted on-site; and
+
+&emsp;&emsp;“(B) any Mexican motor carrier with 4 or more commercial vehicles that did not undergo an on-site safety exam under (a)(1)(C), shall undergo an on-site safety compliance review under this section.
+
+&emsp;“(3) requires Federal and State inspectors to verify electronically the status and validity of the license of each driver of a Mexican motor carrier commercial vehicle crossing the border;
+
+&emsp;&emsp;“(A) for every such vehicle carrying a placardable quantity of hazardous materials;
+
+&emsp;&emsp;“(B) whenever the inspection required in subsection (a)(5) is performed; and
+
+&emsp;&emsp;“(C) randomly for other Mexican motor carrier commercial vehicles, but in no case less than 50 percent of all other such commercial vehicles.
+
+&emsp;“(4) gives a distinctive Department of Transportation number to each Mexican motor carrier operating beyond the commercial zone to assist inspectors in enforcing motor carrier safety regulations including hours-of-service rules under part 395 of title 49, Code of Federal Regulations;
+
+&emsp;“(5) requires, with the exception of Mexican motor carriers that have been granted permanent operating authority for three consecutive years—
+
+&emsp;&emsp;“(A) inspections of all commercial vehicles of Mexican motor carriers authorized, or seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border that do not display a valid Commercial Vehicle Safety Alliance inspection decal, by certified inspectors in accordance with the requirements for a Level I Inspection under the criteria of the North American Standard Inspection (as defined in section 350.105 of title 49, Code of Federal Regulations), including examination of the driver, vehicle exterior and vehicle under-carriage;
+
+&emsp;&emsp;“(B) a Commercial Vehicle Safety Alliance decal to be affixed to each such commercial vehicle upon completion of the inspection required by clause (A) or a re-inspection if the vehicle has met the criteria for the Level I inspection; and
+
+&emsp;&emsp;“(C) that any such decal, when affixed, expire at the end of a period of not more than 90 days, but nothing in this paragraph shall be construed to preclude the Administration from requiring reinspection of a vehicle bearing a valid inspection decal or from requiring that such a decal be removed when a certified Federal or State inspector determines that such a vehicle has a safety violation subsequent to the inspection for which the decal was granted.
+
+&emsp;“(6) requires State inspectors who detect violations of Federal motor carrier safety laws or regulations to enforce them or notify Federal authorities of such violations;
+
+&emsp;“(7)(A) equips all United States-Mexico commercial border crossings with scales suitable for enforcement action; equips 5 of the 10 such crossings that have the highest volume of commercial vehicle traffic with weigh-in-motion (WIM) systems; ensures that the remaining 5 such border crossings are equipped within 12 months; requires inspectors to verify the weight of each Mexican motor carrier commercial vehicle entering the United States at said WIM equipped high volume border crossings; and
+
+&emsp;“(B) initiates a study to determine which other crossings should also be equipped with weigh-in-motion systems;
+
+&emsp;“(8) the Federal Motor Carrier Safety Administration has implemented a policy to ensure that no Mexican motor carrier will be granted authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border unless that carrier provides proof of valid insurance with an insurance company licensed in the United States;
+
+&emsp;“(9) requires commercial vehicles operated by a Mexican motor carrier to enter the United States only at commercial border crossings where and when a certified motor carrier safety inspector is on duty and where adequate capacity exists to conduct a sufficient number of meaningful vehicle safety inspections and to accommodate vehicles placed out-of-service as a result of said inspections.
+
+&emsp;“(10) publishes—
+
+&emsp;&emsp;“(A) interim final regulations under section 210(b) of the Motor Carrier Safety Improvement Act of 1999 \[Pub. L. 106–159\] (49 U.S.C. 31144 note) that establish minimum requirements for motor carriers, including foreign motor carriers, to ensure they are knowledgeable about Federal safety standards, that may include the administration of a proficiency examination;
+
+&emsp;&emsp;“(B) interim final regulations under section 31148 of title 49, United States Code, that implement measures to improve training and provide for the certification of motor carrier safety auditors;
+
+&emsp;&emsp;“(C) a policy under sections 218(a) and (b) of that Act (49 U.S.C. 31133 note) establishing standards for the determination of the appropriate number of Federal and State motor carrier inspectors for the United States-Mexico border;
+
+&emsp;&emsp;“(D) a policy under section 219(d) of that Act (49 U.S.C. 14901 note) that prohibits foreign motor carriers from leasing vehicles to another carrier to transport products to the United States while the lessor is subject to a suspension, restriction, or limitation on its right to operate in the United States; and
+
+&emsp;&emsp;“(E) a policy under section 219(a) of that Act (49 U.S.C. 14901 note) that prohibits foreign motor carriers from operating in the United States that is found to have operated illegally in the United States.
+
+“(b) No vehicles owned or leased by a Mexican motor carrier and carrying hazardous materials in a placardable quantity may be permitted to operate beyond a United States municipality or commercial zone until the United States has completed an agreement with the Government of Mexico which ensures that drivers of such vehicles carrying such placardable quantities of hazardous materials meet substantially the same requirements as United States drivers carrying such materials.
+
+“(c) No vehicles owned or leased by a Mexican motor carrier may be permitted to operate beyond UnitedStates municipalities and commercial zones under conditional or permanent operating authority granted by the Federal Motor Carrier Safety Administration until—
+
+&emsp;“(1) the Department of Transportation Inspector General conducts a comprehensive review of border operations within 180 days of enactment \[probably means date of enactment of this Act, which was approved Dec. 18, 2001\] to verify that—
+
+&emsp;&emsp;“(A) all new inspector positions funded under this Act \[see Tables for classification\] have been filled and the inspectors have been fully trained;
+
+&emsp;&emsp;“(B) each inspector conducting on-site safety compliance reviews in Mexico consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, is fully trained as a safety specialist;
+
+&emsp;&emsp;“(C) the requirement of subparagraph (a)(2) has not been met by transferring experienced inspectors from other parts of the United States to the United States-Mexico border, undermining the level of inspection coverage and safety elsewhere in the United States;
+
+&emsp;&emsp;“(D) the Federal Motor Carrier Safety Administration has implemented a policy to ensure compliance with hours-of-service rules under part 395 of title 49, Code of Federal Regulations, by Mexican motor carriers seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
+
+&emsp;&emsp;“(E) the information infrastructure of the Mexican government is sufficiently accurate, accessible, and integrated with that of United States enforcement authorities to allow United States authorities to verify the status and validity of licenses, vehicle registrations, operating authority and insurance of Mexican motor carriers while operating in the United States, and that adequate telecommunications links exist at all United States-Mexico border crossings used by Mexican motor carrier commercial vehicles, and in all mobile enforcement units operating adjacent to the border, to ensure that licenses, vehicle registrations, operating authority and insurance information can be easily and quickly verified at border crossings or by mobile enforcement units;
+
+&emsp;&emsp;“(F) there is adequate capacity at each United States-Mexico border crossing used by Mexican motor carrier commercial vehicles to conduct a sufficient number of meaningful vehicle safety inspections and to accommodate vehicles placed out-of-service as a result of said inspections;
+
+&emsp;&emsp;“(G) there is an accessible database containing sufficiently comprehensive data to allow safety monitoring of all Mexican motor carriers that apply for authority to operate commercial vehicles beyond United States municipalities and commercial zones on the United States-Mexico border and the drivers of those vehicles; and
+
+&emsp;&emsp;“(H) measures are in place to enable United States law enforcement authorities to ensure the effective enforcement and monitoring of license revocation and licensing procedures of Mexican motor carriers.
+
+&emsp;“(2) The Secretary of Transportation certifies in writing in a manner addressing the Inspector General's findings in paragraphs (c)(1)(A) through (c)(1)(H) of this section that the opening of the border does not pose an unacceptable safety risk to the American public.
+
+“(d) The Department of Transportation Inspector General shall conduct another review using the criteria in (c)(1)(A) through (c)(1)(H) consistent with paragraph (c) of this section, 180 days after the first review is completed, and at least annually thereafter.
+
+“(e) For purposes of this section, the term ‘Mexican motor carrier’ shall be defined as a Mexico-domiciled motor carrier operating beyond United States municipalities and commercial zones on the United States-Mexico border.
+
+“(f) In addition to amounts otherwise made available in this Act, to be derived from the Highway Trust Fund, there is hereby appropriated to the Federal Motor Carrier Safety Administration, $25,866,000 for the salary, expense, and capital costs associated with the requirements of this section.”
+
 #### Limited Modification to Moratorium on Issuance of Certificates or Permits With Respect to Mexico
 
 Memorandum of President of the United States, May 6, 1993, 58 F.R. 27647, provided:
@@ -252,7 +362,7 @@ As set forth in the Statement of Administrative Action regarding the North Ameri
 
 This is to give public notice that, pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(<i>l</i>)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], on November 3, 1993, I gave the Congress notice of my intention to make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of Mexico. This modification will take effect on January 1, 1994, the 60th day after my notice to the Congress.
 
-The moratorium is modified only to authorize the Interstate Commerce Commission to grant Mexicanmotor carriers authority to transport passengers in charter or tour bus operations, in foreign commerce, in round-trip or one-way service between Mexico and the United States.
+The moratorium is modified only to authorize the Interstate Commerce Commission to grant Mexican motor carriers authority to transport passengers in charter or tour bus operations, in foreign commerce, in round-trip or one-way service between Mexico and the United States.
 
 This action applies only to international charter or tour bus operations, does not allow for point-to-point bus service within the United States, and does not authorize companies to conduct cross-border regular route bus service.
 
@@ -285,6 +395,22 @@ Memorandum of President of the United States, Sept. 15, 1988, 53 F.R. 36430, ext
 Memorandum of President of the United States, Sept. 23, 1986, 51 F.R. 34079, extended moratorium through Sept. 19, 1988.
 
 Memorandum of President of the United States, Aug. 30, 1984, 49 F.R. 35001, extended moratorium through Sept. 19, 1986.
+
+Memorandum of President of the United States, June 5, 2001, 66 F.R. 30799, provided:
+
+Memorandum for the Secretary of Transportation
+
+Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country, and authorized the President to modify the moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA) \[ICC Termination Act of 1995, Pub. L. 104–88, see Tables for classification\] maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and authorized the President to make further modifications to the moratorium. The relevant provisions of the ICCTA are codified at 49 U.S.C. 13902.
+
+The North American Free Trade Agreement (NAFTA) established a schedule for liberalizing certain restrictions on investment in truck and bus services. Pursuant to 49 U.S.C. 13902(c)(3), I have determined that the following modifications to the moratorium are consistent with obligations of the United States under NAFTA and with U.S. transportation policy, and that the moratorium shall be modified accordingly. First, enterprises domiciled in the United States that are owned or controlled by persons of Mexico will be allowed to obtain operating authority to provide truck services for the transportation of international cargo between points in the United States. Second, enterprises domiciled in the United States that are owned or controlled by persons of Mexico will be allowed to obtain operating authority to provide bus services between points in the United States. These modifications shall be effective today.
+
+Pursuant to 49 U.S.C. 13902(c)(5), I have determined that expeditious action is required to implement these modifications to the moratorium. Effective today, the Department of Transportation will accept and expeditiously process applications, submitted by enterprises domiciled in the United States that are owned or controlled by persons of Mexico, to obtain operating authority to provide truck services for the transportation of international cargo between points in the United States or to provide bus services between points in the United States.
+
+Motor carriers domiciled in the United States that are owned or controlled by persons of Mexico will be subject to the same Federal and State regulations and procedures that apply to all other U.S. carriers. These include safety regulations, such as drug and alcoholtesting; insurance requirements; taxes and fees; and all other applicable laws and regulations, including those administered by the U.S. Customs Service, the Immigration and Naturalization Service, and the Department of Labor.
+
+This memorandum shall be published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

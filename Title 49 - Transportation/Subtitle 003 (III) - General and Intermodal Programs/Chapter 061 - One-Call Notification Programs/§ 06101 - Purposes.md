@@ -18,7 +18,7 @@ The purposes of this chapter are—
 
 Pub. L. 105–178, title VII, §7301, June 9, 1998, 112 Stat. 477, provided that: “Congress finds that—
 
-&emsp;“(1) unintentional damage to underground facilities during excavation is a significant cause of disruptions in telecommunications, water supply, electricpower, and other vital public services, such as hospital and air traffic control operations, and is a leading cause of natural gas and hazardous liquid pipeline accidents;
+&emsp;“(1) unintentional damage to underground facilities during excavation is a significant cause of disruptions in telecommunications, water supply, electric power, and other vital public services, such as hospital and air traffic control operations, and is a leading cause of natural gas and hazardous liquid pipeline accidents;
 
 &emsp;“(2) excavation that is performed without prior notification to an underground facility operator or with inaccurate or untimely marking of such a facility prior to excavation can cause damage that results in fatalities, serious injuries, harm to the environment and disruption of vital services to the public; and
 

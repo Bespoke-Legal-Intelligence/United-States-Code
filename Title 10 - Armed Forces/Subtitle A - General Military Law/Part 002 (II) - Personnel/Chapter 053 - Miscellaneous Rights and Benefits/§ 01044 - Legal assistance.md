@@ -44,5 +44,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §524(c)\], Oct. 30, 2000, 114 Sta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1044a, 1044c, 1044d, 1052 of this title; title 14 section 514.
+This section is referred to in sections 1044a, 1044c, 1044d, 1052, 1588 of this title; title 14 section 514.
 

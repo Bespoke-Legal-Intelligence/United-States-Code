@@ -4,7 +4,7 @@
 
 There is established the Council on Graduate Medical Education (in this section referred to as the “Council”). The Council shall—
 
-&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this sectionreferred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
+&emsp;(1) make recommendations to the Secretary of Health and Human Services (in this section referred to as the “Secretary”), and to the Committee on Labor and Human Resources of the Senate, and the Committee on Energy and Commerce of the House of Representatives, with respect to—
 
 &emsp;&emsp;(A) the supply and distribution of physicians in the United States;
 
@@ -70,7 +70,7 @@ Each member of the Council who is not otherwise employed by the United States Go
 
 &emsp;&emsp;(A) collect such information, hold such hearings, and sit and act at such times and places, either as a whole or by subcommittee, and request the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents as the Council or such subcommittee may consider available; and
 
-&emsp;&emsp;(B) request the cooperation and assistance of Federal departments, agencies, and instrumentalities, and such departments, agencies, and instrumentalities are authorized to provide such cooperation and assistance.
+&emsp;&emsp;(B) request the cooperation and assistance of Federal departments, agencies, and instrumentalities, and such departments,agencies, and instrumentalities are authorized to provide such cooperation and assistance.
 
 #### (2) Coordination of activities
 

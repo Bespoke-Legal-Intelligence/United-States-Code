@@ -6,7 +6,7 @@ Prices.—All maps, charts, and other publications offered for sale by the Natio
 
 (b)
 
-Use of Proceeds To Pay Foreign Licensing Fees.—(1) The Secretary of Defense may pay any NIMA foreign data acquisition fee out of the proceeds of the sale of maps, charts, and other publications of the Agency, and those proceeds are hereby made available for that purpose.
+Use of Proceeds To Pay Foreign Licensing Fees.—(1) The Secretary of Defense may payany NIMA foreign data acquisition fee out of the proceeds of the sale of maps, charts, and other publications of the Agency, and those proceeds are hereby made available for that purpose.
 
 (2) In this subsection, the term “NIMA foreign data acquisition fee” means any licensing or other fee imposed by a foreign country or international organization for the acquisition or use of data or products by the National Imagery and Mapping Agency.
 

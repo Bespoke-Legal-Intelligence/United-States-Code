@@ -12,7 +12,7 @@ The rules shall establish the time limits within which banks and savings and loa
 
 #### Amendments
 
-1989—Subsec. (b). Pub. L. 101–73 struck out “and shall require the submission of periodic reports with respect to the installation, maintenance, and operation of security devices and procedures” before period at end.
+1989—Subsec. (b). Pub. L. 101–73 struck out “and shall require the submission of periodic reports with respectto the installation, maintenance, and operation of security devices and procedures” before period at end.
 
 #### Effective Date of 1989 Amendment
 

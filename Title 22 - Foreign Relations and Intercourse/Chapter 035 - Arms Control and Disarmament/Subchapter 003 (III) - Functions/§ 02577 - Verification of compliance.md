@@ -8,7 +8,7 @@ In order to ensure that arms control, nonproliferation, and disarmament agreemen
 
 &emsp;(2) in the case of any arms control, nonproliferation, or disarmament agreement that has entered into force, any significant degradation or alteration in the capacity of the United States to verify compliance of the components of such agreement;
 
-&emsp;(3) the amount and percentage of research funds expended by the Department of State for the purpose of analyzing issues relating to arms control, nonproliferation, and disarmament verification; and
+&emsp;(3) the amount and percentage of research funds expended by the Department of State forthe purpose of analyzing issues relating to arms control, nonproliferation, and disarmament verification; and
 
 &emsp;(4) the number of professional personnel assigned to arms control verification on a full-time basis by each Government agency.
 

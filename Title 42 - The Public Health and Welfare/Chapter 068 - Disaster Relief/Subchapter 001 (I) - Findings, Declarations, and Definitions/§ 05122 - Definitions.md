@@ -42,7 +42,7 @@ Public facility.—“Public facility” means the following facilities owned by
 
 (9)
 
-Private nonprofit facility.—“Private nonprofit facility” means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled), other private nonprofit facilities which provide essential services of a governmental nature to the general public, and facilities on Indian reservations as defined by the President.
+Private nonprofit facility.—“Private nonprofit facility” means private nonprofit educational, utility, irrigation, emergency, medical, rehabilitational, and temporary or permanent custodial care facilities (including those for the aged and disabled), other private nonprofit facilities which provide essential services of a governmental nature to the general public,and facilities on Indian reservations as defined by the President.
 
 (Pub. L. 93–288, title I, §102, May 22, 1974, 88 Stat. 144; Pub. L. 100–707, title I, §103(b)–(d), (f), Nov. 23, 1988, 102 Stat. 4689, 4690; Pub. L. 102–247, title II, §205, Feb. 24, 1992, 106 Stat. 38; Pub. L. 106–390, title III, §302, Oct. 30, 2000, 114 Stat. 1572.)
 
@@ -86,5 +86,5 @@ Termination of effectiveness.—Paragraph (1) shall not be effective on and afte
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4625 of this title; title 12 section 1706c; title 19 section 1313; title 29 sections 1784, 2918.
+This section is referred to in section 4625 of this title; title 12 section 1706c; title 19 section 1313; title 29 section 2918.
 

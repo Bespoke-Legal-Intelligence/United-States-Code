@@ -141,7 +141,7 @@ Amendment by section 1111(b) of Pub. L. 102–190 effective Feb. 1, 1992, see se
 
 #### Effective Date of 1990 Amendment
 
-Section 5(k)(3) of Pub. L. 101–502 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 207 of Title 42, The Public Health and Welfare\] shall take effect on the first day of the month immediately following the month in which this Act was enacted \[November 1990\].”
+Section 5(k)(3) of Pub. L. 101–502 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 207 of Title 42, The Public Health and Welfare\] shall take effect on the first day ofthe month immediately following the month in which this Act was enacted \[November 1990\].”
 
 #### Effective Date of 1983 Amendment
 
@@ -167,7 +167,7 @@ Section 14 of Pub. L. 88–132 provided that: “This Act \[see Short Title of 1
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 
-Section Referred to in Other Sections
+#### Section Referred to in Other Sections
 
 This section is referred to in title 2 section 1602; title 10 section 571; title 18 section 207.
 

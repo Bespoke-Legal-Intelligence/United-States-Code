@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) which the attorney general of that State has found that (I) absent a delegation of authority under Federal law, the Governor lacks the authority under the laws of the State to invoke, (II) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing under a delegation of authority pursuant to Federal law; and (III) if implemented, would not be contrary to State law; and
 
-&emsp;&emsp;(iii) which either the Secretary determines are contained in the standby Federal conservation plan established under section 8513of this title or are approved by the Secretary, in his discretion.
+&emsp;&emsp;(iii) which either the Secretary determines are contained in the standby Federal conservation plan established under section 8513 of this title or are approved by the Secretary, in his discretion.
 
 (2) In the preparation of such plan (and any amendment to the plan) the Governor shall, to the maximum extent practicable, provide for consultation with representatives of affected businesses and local governments and provide an opportunity for public comment.
 

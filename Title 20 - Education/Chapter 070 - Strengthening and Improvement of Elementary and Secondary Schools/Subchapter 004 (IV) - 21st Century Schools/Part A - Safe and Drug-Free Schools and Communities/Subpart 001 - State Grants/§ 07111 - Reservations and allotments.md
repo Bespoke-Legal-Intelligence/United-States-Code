@@ -1,0 +1,78 @@
+### §7111. Reservations and allotments
+
+#### (a) Reservations
+
+#### (1) In general
+
+&emsp;From the amount made available under section 7103(1) of this title to carry out this subpart for each fiscal year, the Secretary—
+
+&emsp;&emsp;(A) shall reserve 1 percent or $4,750,000 (whichever is greater) of such amount for grants to Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands,to be allotted in accordance with the Secretary's determination of their respective needs and to carry out programs described in this subpart;
+
+&emsp;&emsp;(B) shall reserve 1 percent or $4,750,000 (whichever is greater) of such amount for the Secretary of the Interior to carry out programs described in this subpart for Indian youth; and
+
+&emsp;&emsp;(C) shall reserve 0.2 percent of such amount for Native Hawaiians to be used under section 7117 of this title to carry out programs described in this subpart.
+
+#### (2) Other reservations
+
+&emsp;From the amount made available under section 7103(2) of this title to carry out subpart 2 of this part for each fiscal year, the Secretary—
+
+&emsp;&emsp;(A) may reserve not more than $2,000,000 for the national impact evaluation required by section 7132(a) of this title;
+
+&emsp;&emsp;(B) notwithstanding section 3 of the No Child Left Behind Act of 2001,<sup>1</sup> shall reserve an amount necessary to make continuation grants to grantees under the Safe Schools/Healthy Students initiative (under the same terms and conditions as provided for in the grants involved).
+
+#### (b) State allotments
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the Secretary shall, for each fiscal year, allot among the States—
+
+&emsp;&emsp;(A) one-half of the remainder not reserved under subsection (a) of this section according to the ratio between the school-aged population of each State and the school-aged population of all the States; and
+
+&emsp;&emsp;(B) one-half of such remainder according to the ratio between the amount each State received under section 6334 of this title for the preceding year and the sum of such amounts received by all the States.
+
+#### (2) Minimum
+
+&emsp;For any fiscal year, no State shall be allotted under this subsection an amount that is less than the greater of—
+
+&emsp;&emsp;(A) one-half of 1 percent of the total amount allotted to all the States under this subsection; or
+
+&emsp;&emsp;(B) the amount such State received for fiscal year 2001 under section 4111 as such section was in effect the day preceding January 8, 2002.<sup>1</sup>
+
+#### (3) Reallotment
+
+#### (A) Reallotment for failure to apply
+
+&emsp;&emsp;If any State does not apply for an allotment under this subpart for a fiscal year, the Secretary shall reallot the amount of the State's allotment to the remaining States in accordance with this section.
+
+#### (B) Reallotment of unused funds
+
+&emsp;&emsp;The Secretary may reallot any amount of any allotment to a State if the Secretary determines that the State will be unable to use such amount within 2 years of such allotment. Such reallotments shall be made on the same basis as allotments are made under paragraph (1).
+
+#### (4) Definition
+
+&emsp;In this section the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+#### (c) Limitation
+
+Amounts appropriated under section 7103(2) of this title for a fiscal year may not be increased above the amounts appropriated under such section for the previous fiscal year unless the amounts appropriated under section 7103(1) of this title for the fiscal year involved are at least 10 percent greater that <sup>2</sup> the amounts appropriated under such section 7103(1) of this title for the previous fiscal year.
+
+(Pub. L. 89–10, title IV, §4111, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1735.)
+
+#### References in Text
+
+Section 3 of the No Child Left Behind Act of 2001, referred to in subsec. (a)(2)(B), is section 3 of Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1426, which is not classified to the Code. The reference probably should be to section 4 of the Act, which is set out as a note under section 6301 of this title, and which contains transition provisions
+
+Section 4111 as such section was in effect the day preceding January 8, 2002, referred to in subsec. (b)(2)(B), probably means section 4011 of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3674, which was classified to this section prior to the general amendment of this subchapter by Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1734.
+
+#### Prior Provisions
+
+A prior section 7111, Pub. L. 89–10, title IV, §4011 \[4111\], as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3674, related to reservations and allotments, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7112, 7113, 7117 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “than”.</i>
+

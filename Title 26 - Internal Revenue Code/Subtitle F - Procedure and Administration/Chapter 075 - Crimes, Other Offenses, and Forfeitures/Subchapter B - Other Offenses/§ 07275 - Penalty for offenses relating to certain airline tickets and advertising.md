@@ -2,7 +2,7 @@
 
 #### (a) Tickets
 
-In the case of transportation by air all of which is taxable transportation (as defined insection 4262), the ticket for such transportation shall show the total of—
+In the case of transportation by air all of which is taxable transportation (as defined in section 4262), the ticket for such transportation shall show the total of—
 
 &emsp;(1) the amount paid for such transportation, and
 

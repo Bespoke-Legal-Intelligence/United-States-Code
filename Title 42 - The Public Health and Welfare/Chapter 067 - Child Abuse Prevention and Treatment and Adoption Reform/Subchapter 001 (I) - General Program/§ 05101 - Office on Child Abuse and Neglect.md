@@ -34,7 +34,7 @@ Subsec. (b)(10). Pub. L. 99–401, §103(a)(5), added par. (10).
 
 Subsec. (b)(6). Pub. L. 98–457, §101(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “make a complete and full study and investigation of the national incidence of child abuse and neglect, including a determination of the extent to which incidents of child abuse and neglect are increasing in number or severity; and”.
 
-Subsec. (b)(7). Pub. L. 98–457, §101(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “in consultation with Federal agencies serving on the Advisory Board on Child Abuse and Neglect (established by section 5105 of this title), prepare a comprehensive plan for seeking to bring about maximum coordination of the goals, objectives, and activities of allagencies and organizations which have responsibilities for programs and activities related to child abuse and neglect, and submit such plan to such Advisory Board not later than twelve months after April 24, 1978.”
+Subsec. (b)(7). Pub. L. 98–457, §101(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “in consultation with Federal agencies serving on the Advisory Board on Child Abuse and Neglect (established by section 5105 of this title), prepare a comprehensive plan for seeking to bring about maximum coordination of the goals, objectives, and activities of all agencies and organizations which have responsibilities for programs and activities related to child abuse and neglect, and submit such plan to such Advisory Board not later than twelve months after April 24, 1978.”
 
 Subsec. (c). Pub. L. 98–457, §101(c), substituted “The functions of the Secretary under subsection (b) of this section may be carried out” for “The Secretary may carry out his functions under subsection (b) of this section”.
 
@@ -112,7 +112,7 @@ Section 127 of Pub. L. 98–457 provided that:
 
 “(a) No provision of this Act or any amendment made by this Act \[See Short Title of 1984 Amendment note above\] is intended to affect any right or protection under section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\].
 
-“(b) No provision of this Act or any amendment made by this Act may be so construed as to authorize theSecretary or any other governmental entity to establish standards prescribing specific medical treatments for specific conditions, except to the extent that such standards are authorized by other laws.
+“(b) No provision of this Act or any amendment made by this Act may be so construed as to authorize the Secretary or any other governmental entity to establish standards prescribing specific medical treatments for specific conditions, except to the extent that such standards are authorized by other laws.
 
 “(c) If the provisions of any part of this Act or any amendment made by this Act or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.”
 

@@ -16,7 +16,7 @@ Sections 360d and 360e of this title do not apply to any device which, in order 
 
 #### (c) Trade secrets
 
-Any information reported to or otherwise obtained by the Secretary or his representativeunder section 360c, 360d, 360e, 360f, 360h, 360i, or 374 of this title or under subsection (f) or (g) of this section which is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reason of subsection (b)(4) of such section shall be considered confidential and shall not be disclosed and may not be used by the Secretary as the basis for the reclassification of a device from class III to class II or class I or as the basis for the establishment or amendment of a performance standard under section 360d of this title for a device reclassified from class III to class II, except (1) in accordance with subsection (h) of this section, and (2) that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter (other than section 360c or 360d of this title).
+Any information reported to or otherwise obtained by the Secretary or his representative under section 360c, 360d, 360e, 360f, 360h, 360i, or 374 of this title or under subsection (f) or (g) of this section which is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reason of subsection (b)(4) of such section shall be considered confidential and shall not be disclosed and may not be used by the Secretary as the basis for the reclassification of a device from class III to class II or class I or as the basis for the establishment or amendment of a performance standard under section 360d of this title for a device reclassified from class III to class II, except (1) in accordance with subsection (h) of this section, and (2) that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter (other than section 360c or 360d of this title).
 
 #### (d) Notices and findings
 
@@ -60,7 +60,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(iii) contain such other information as the Secretary shall prescribe.
 
-(B) The Secretary may refer to the advisory committee established under paragraph (3) any petition submitted under subparagraph (A). The advisory committee shall report its recommendations to the Secretary with respect to a petition referred to it within sixty days of the date of the petition's referral. Within sixty days after—
+(B) The Secretary may refer to the advisory committee established under paragraph (3) any petition submitted under subparagraph (A). Theadvisory committee shall report its recommendations to the Secretary with respect to a petition referred to it within sixty days of the date of the petition's referral. Within sixty days after—
 
 &emsp;(i) the date the petition was submitted to the Secretary under subparagraph (A), or
 
@@ -100,7 +100,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(iii) Such other requirements as the Secretary may determine to be necessary for the protection of the public health and safety.
 
-(C) Procedures and conditions prescribed pursuant to subparagraph (A) for an exemption may appropriately vary depending on (i) the scope and duration of clinical testing to be conducted under such exemption, (ii) the number of human subjects that are to be involved in such testing, (iii) the need to permit changes to be made in the device subject to the exemption during testing conducted in accordance with a clinical testing plan required under paragraph (3)(A), and (iv) whether the clinical testing of such device is for the purpose of developing data to obtain approval for the commercial distribution of such device.
+(C) Procedures and conditions prescribed pursuant to subparagraph (A) for an exemption may appropriately vary depending on (i) the scope and duration of clinical testing to be conducted under such exemption, (ii) the number of human subjects that are to be involved in such testing, (iii) the need to permit changes to be made in the device subject to the exemption during testing conducted in accordance with a clinical testing plan required under paragraph (3)(A), and (iv) whether the clinical testing of such device isfor the purpose of developing data to obtain approval for the commercial distribution of such device.
 
 (3) Procedures and conditions prescribed pursuant to paragraph (2)(A) shall require, as a condition to the exemption of any device to be the subject of testing involving human subjects, that the person applying for the exemption—
 
@@ -148,7 +148,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(ii) the sponsor submits to the Secretary, not later than 5 days after making the change or modification, a notice of the change or modification.
 
-(7)(A) In the case of a person intending to investigate the safety or effectiveness of a class III device or any implantable device, the Secretary shall ensure that the person has an opportunity, prior to submitting an application to the Secretary or to an institutional review committee, to submit to the Secretary, for review, an investigational plan (including a clinical protocol). If the applicant submits a written request for a meeting with the Secretary regarding such review, the Secretary shall, not later than 30 days after receiving the request, meetwith the applicant for the purpose of reaching agreement regarding the investigational plan (including a clinical protocol). The written request shall include a detailed description of the device, a detailed description of the proposed conditions of use of the device, a proposed plan (including a clinical protocol) for determining whether there is a reasonable assurance of effectiveness, and, if available, information regarding the expected performance from the device.
+(7)(A) In the case of a person intending to investigate the safety or effectiveness of a class III device or any implantable device, the Secretary shall ensure that the person has an opportunity, prior to submitting an application to the Secretary or to an institutional review committee, to submit to the Secretary, for review, an investigational plan (including a clinical protocol). If the applicant submits a written request for a meeting with the Secretary regarding such review, the Secretary shall, not later than 30 days after receiving the request, meet with the applicant for the purpose of reaching agreement regarding the investigational plan (including a clinical protocol). The written request shall include a detailed description of the device, a detailed description of the proposed conditions of use of the device, a proposed plan (including a clinical protocol) for determining whether there is a reasonable assurance of effectiveness, and, if available, information regarding the expected performance from the device.
 
 (B) Any agreement regarding the parameters of an investigational plan (including a clinical protocol) that is reached between the Secretary and a sponsor or applicant shall be reduced to writing and made part of the administrative record by the Secretary. Any such agreement shall not be changed, except—
 
@@ -196,7 +196,7 @@ Except as provided in section 360i(e) of this title, no regulation under this ch
 
 #### (k) Research and development
 
-The Secretary may enter into contracts for research, testing, and demonstrations respectingdevices and may obtain devices for research, testing, and demonstration purposes without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
+The Secretary may enter into contracts for research, testing, and demonstrations respecting devices and may obtain devices for research, testing, and demonstration purposes without regard to section 3324(a) and (b) of title 31 and section 5 of title 41.
 
 #### (<i>l</i>) Transitional provisions for devices considered as new drugs
 

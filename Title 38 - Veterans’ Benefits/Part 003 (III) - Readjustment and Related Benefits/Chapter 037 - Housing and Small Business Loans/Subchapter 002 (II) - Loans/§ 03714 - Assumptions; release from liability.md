@@ -40,11 +40,11 @@
 
 (b) If a person disposes of residential property described in subsection (a)(1) of this section and the person fails to notify the holder of the loan before the property is disposed of, the holder, upon learning of such action by the person, may demand immediate and full payment of the principal, interest, and all other amounts owing under the terms of the loan.
 
-(c)(1) In any case in which the holder of a loan described in subsection (a)(1) of this section hasknowledge of a person's disposing of residential property securing the loan, the holder shall notify the Secretary of such action.
+(c)(1) In any case in which the holder of a loan described in subsection (a)(1) of this section has knowledge of a person's disposing of residential property securing the loan, the holder shall notify the Secretary of such action.
 
 (2) If the holder fails to notify the Secretary in such a case, the holder shall be liable to the Secretary for any damage sustained by the Secretary as a result of the holder's failure, as determined at the time the Secretary is required to make payments in accordance with any insurance or guaranty provided by the Secretary with respect to the loan concerned.
 
-(d) The Secretary shall provide that the mortgage or deed of trust and any other instrument evidencing the loan entered into by a person with respect to a loan guaranteed, insured, or made under this chapter shall contain provisions, in such form as the Secretary shall specify, implementing the requirements of this section, and shall bear in conspicuous position in capital letters on the first page of the document in type at least 2 and 1/2 times larger than the regular type on such page the following: “This loan is not assumable without the approval of the Department of Veterans Affairs or its authorized agent.”.
+(d) With respect to a loan guaranteed, insured, or made under this chapter, the Secretary shall provide, by regulation, that at least one instrument evidencing either the loan or the mortgage or deed of trust therefor, shall conspicuously contain, in such form as the Secretary shall specify, a notice in substantially the following form: “This loan is not assumable without the approval of the Department of Veterans Affairs or its authorized agent”.
 
 (e) The Secretary shall establish in regulations a reasonable amount as the maximum amount that a lender may charge for processing an application for a creditworthiness determination and assumption of a loan pursuant to this section. Such regulations shall establish requirements for the timely processing of applications for acceptance of assumptions.
 
@@ -56,9 +56,11 @@
 
 (2) This section shall not apply to a loan which the Secretary has sold without recourse.
 
-(Added Pub. L. 100–198, §10(a)(1), Dec. 21, 1987, 101 Stat. 1321, §1817A; renumbered §1814, Pub. L. 100–322, title IV, §415(b)(2)(B), May 20, 1988, 102 Stat. 551; amended Pub. L. 100–689, title III, §302, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3714 and amended Pub. L. 102–83, §§4(a)(2)(B)(iv), (3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 404, 406; Pub. L. 105–368, title X, §1005(b)(10), Nov. 11, 1998, 112 Stat. 3365.)
+(Added Pub. L. 100–198, §10(a)(1), Dec. 21, 1987, 101 Stat. 1321, §1817A; renumbered §1814, Pub. L. 100–322, title IV, §415(b)(2)(B), May 20, 1988, 102 Stat. 551; amended Pub. L. 100–689, title III, §302, Nov. 18, 1988, 102 Stat. 4176; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §3714 and amended Pub. L. 102–83, §§4(a)(2)(B)(iv), (3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 404, 406; Pub. L. 105–368, title X, §1005(b)(10), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title IV, §403, Dec. 27, 2001, 115 Stat. 993.)
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–103 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary shall provide that the mortgage or deed of trust and any other instrument evidencing the loan entered into by a person with respect to a loan guaranteed, insured, or made under this chapter shall contain provisions, in such form as the Secretary shall specify, implementing the requirements of this section, and shall bear in conspicuous position in capital letters on the first page of the document in type at least 2 and 1/2 times larger than the regular type on such page the following: ‘This loan is not assumable without the approval of the Department of Veterans Affairs or its authorized agent.’.”
 
 1998—Subsec. (f)(1)(B). Pub. L. 105–368 substituted “after January 1, 1989” for “more than 45 days after the date of the enactment of the Veterans’ Benefits and Programs Improvement Act of 1988”.
 

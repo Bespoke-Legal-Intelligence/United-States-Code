@@ -54,7 +54,7 @@ Cooperators.—Each cooperator, including each Federal agency, to the extent tha
 
 (5) The rural development strategy and the annual updates to the strategy shall be transmitted to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry by January 31 of the calendar year immediately preceding the beginning of the appropriate fiscal year.
 
-(6) The rural development strategy and each annual update of the strategy shall contain an analysis of the budget recommendations of the President for the fiscal year following the transmittal of the strategy or update of the strategy and of all the available budget projections of the President for subsequent fiscal years, and projections regarding the budget that are relevant or essential to the rural development policy and the rural development strategy developed under this subsection. Each annual update shall also contain a detailed statement of the findings and conclusions of the Secretary regarding the implementation during the preceding fiscal year ofthe rural development strategy, including any revisions of the strategy, any recommended legislation to improve the rural development effort of the Federal Government, and an evaluation of and recommendations regarding the rural development information system required under section 1926(a)(12) of this title.
+(6) The rural development strategy and each annual update of the strategy shall contain an analysis of the budget recommendations of the President for the fiscal year following the transmittal of the strategy or update of the strategy and of all the available budget projections of the President for subsequent fiscal years, and projections regarding the budget that are relevant or essential to the rural development policy and the rural development strategy developed under this subsection. Each annual update shall also contain a detailed statement of the findings and conclusions of the Secretary regarding the implementation during the preceding fiscal year of the rural development strategy, including any revisions of the strategy, any recommended legislation to improve the rural development effort of the Federal Government, and an evaluation of and recommendations regarding the rural development information system required under section 1926(a)(12) of this title.
 
 #### (d) Strategy implementation; goals
 
@@ -86,7 +86,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Effective Date
 
-Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
+Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
 
 #### Termination of Reporting Requirements
 

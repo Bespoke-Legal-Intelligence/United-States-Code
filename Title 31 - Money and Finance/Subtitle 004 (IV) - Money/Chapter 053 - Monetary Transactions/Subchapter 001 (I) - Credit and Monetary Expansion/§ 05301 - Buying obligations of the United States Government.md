@@ -42,6 +42,10 @@ In subsection (a), before clause (1), the text of 31:821(b)(matter before (1)) i
 
 In subsection (b), before clause (1), the words “(and the Board is authorized to permit the banks notwithstanding another law)” are substituted for “notwithstanding any provisions of law or rules and regulations to the contrary” for clarity. In clause (1), the words “pursuant to existing law” are omitted as surplus. The words “through each entire” are substituted for “throughout” for clarity. In clause (2), the words “in portfolio”, “or periods of time Treasury bills or other” and “in an aggregate sum of” are omitted as surplus.
 
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–56, title III, §301, Oct. 26, 2001, 115 Stat. 296, provided that: “This title \[enacting sections 310, 5318A, 5331, and 5332 of this title, section 1681v of Title 15, Commerce and Trade, and section 262p–4r of Title 22, Foreign Relations and Intercourse, amending sections 5311, 5312, 5317, 5318, 5319, 5321, 5322, 5324, 5326, 5328, 5330, and 5341 of this title, sections 248, 1828, 1829b, 1842, 1953, 3412, 3414, and 3420 of Title 12, Banks and Banking, section 1681u of Title 15, sections 470 to 474, 476 to 484, 493, 981 to 983, 1029, 1956, and 1960 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, renumbering former section 310 of this title as section 311, and enacting provisions set out as notes under sections 310, 5311, 5313, 5314, 5318, 5331, and 5332 of this title, sections 1828, 1829b, and 1842 of Title 12, and section 983 of Title 18\] may be cited as the ‘International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–310, §1, Oct. 30, 1998, 112 Stat. 2941, provided that: “This Act \[enacting subchapter III of this chapter and provisions set out as a note under section 5342 of this title\] may be cited as the ‘Money Laundering and Financial Crimes Strategy Act of 1998’.”

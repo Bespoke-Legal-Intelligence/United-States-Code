@@ -84,11 +84,11 @@ Five-Year Plan.—(1) The Secretary of Defense shall prepare a five-year plan fo
 
 (3) The plan shall be updated annually and shall be included in the budget justification documents submitted in support of the budget of the Department of Defense for a fiscal year (as included in the budget of the President submitted to Congress under section 1105 of title 31).
 
-(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 543, 717; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71.)
+(Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
 
 #### Prior Provisions
 
-A prior section 2521, added Pub. L. 102–484, div. D, title XLII, §4231(a), Oct. 23, 1992, 106 Stat. 2686, related to National Defense Manufacturing Technology Program, prior to repeal by Pub. L. 104–106, div. A, title X, §1081(f), Feb. 10, 1996, 110 Stat. 454.
+A prior section 2521, added Pub. L. 102–484, div. D, title XLII, §4231(a), Oct. 23, 1992, 106 Stat. 2686, relatedto National Defense Manufacturing Technology Program, prior to repeal by Pub. L. 104–106, div. A, title X, §1081(f), Feb. 10, 1996, 110 Stat. 454.
 
 Another prior section 2521, added Pub. L. 102–190, div. A, title VIII, §821(a), Dec. 5, 1991, 105 Stat. 1426, defined terms for purposes of former chapter 150 of this title, prior to repeal and restatement in section 2491 \[now 2500\] of this title by Pub. L. 102–484, §§4202(a), 4203(a).
 
@@ -96,11 +96,11 @@ Another prior section 2521 was renumbered section 2540 of this title and subsequ
 
 #### Amendments
 
+2001—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+
 2000—Pub. L. 106–398 renumbered section 2525 of this title as this section.
 
-1999—Subsec. (a). Pub. L. 106–65, §911(a)(1), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
-
-Pub. L. 106–65, §216(a), in first sentence, inserted “through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems” after “title”.
+1999—Subsec. (a). Pub. L. 106–65, §216(a), in first sentence, inserted “through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems” after “title”.
 
 Subsec. (b)(4). Pub. L. 106–65, §216(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to promote dual-use manufacturing processes;”.
 
@@ -134,7 +134,7 @@ Subsec. (a). Pub. L. 104–106, §276(a)(2), struck out “Science and” after 
 
 Subsec. (b). Pub. L. 104–106, §1081(e), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “
 
-Purpose.—The purpose of the program is toenhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
+Purpose.—The purpose of the program is to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
 
 Subsec. (c). Pub. L. 104–106, §276(a)(3), designated existing provisions as par. (1) and added par. (2).
 

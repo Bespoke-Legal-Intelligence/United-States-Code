@@ -8,7 +8,7 @@ The Secretary may approve a plan of action that provides for termination of the 
 
 &emsp;&emsp;(A) materially increase economic hardship for current tenants, and will not in any event result in (i) a monthly rental payment by any current tenant that exceeds 30 percent of the monthly adjusted income of the tenant or an increase in the monthly rental payment in any year that exceeds 10 percent (whichever is lower), or (ii) in the case of a current tenant who already pays more than such percentage, an increase in the monthly rental payment in any year that exceeds the increase in the Consumer Price Index or 10 percent (whichever is lower); or
 
-&emsp;&emsp;(B) involuntarily displace current tenants (except for good cause) where comparable and affordable housing is not readily available determined without regard to the availability of Federal housing assistance that would address any such hardship or involuntary displacement; and
+&emsp;&emsp;(B) involuntarily displace current tenants (except for good cause) where comparableand affordable housing is not readily available determined without regard to the availability of Federal housing assistance that would address any such hardship or involuntary displacement; and
 
 &emsp;(2) the supply of vacant, comparable housing is sufficient to ensure that such prepayment will not materially affect—
 

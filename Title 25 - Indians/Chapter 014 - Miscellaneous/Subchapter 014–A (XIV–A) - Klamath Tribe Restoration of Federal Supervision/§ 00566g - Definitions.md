@@ -10,7 +10,7 @@ For the purposes of this subchapter the following definitions apply:
 
 &emsp;(4) The term “State” means the State of Oregon.
 
-&emsp;(5) The term “Constitution and Bylaws” means the Constitution and Bylaws of theKlamath Tribe of Indians in effect on August 27, 1986.
+&emsp;(5) The term “Constitution and Bylaws” means the Constitution and Bylaws of the Klamath Tribe of Indians in effect on August 27, 1986.
 
 &emsp;(6) The term “General Council” means the governing body of the tribe under the Constitution and Bylaws.
 

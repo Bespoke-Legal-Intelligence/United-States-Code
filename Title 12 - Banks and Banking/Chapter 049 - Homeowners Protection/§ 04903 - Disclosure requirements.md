@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) written notice—
 
-&emsp;&emsp;&emsp;&emsp;(I) that the mortgagor may cancel the requirement in accordance with section 4902(a) of this title indicating the date onwhich the mortgagor may request cancellation, based solely on the initial amortization schedule;
+&emsp;&emsp;&emsp;&emsp;(I) that the mortgagor may cancel the requirement in accordance with section 4902(a) of this title indicating the date on which the mortgagor may request cancellation, based solely on the initial amortization schedule;
 
 &emsp;&emsp;&emsp;&emsp;(II) that the mortgagor may request cancellation in accordance with section 4902(a) of this title earlier than provided for in the initial amortization schedule, based on actual payments;
 
@@ -66,7 +66,7 @@ The mortgagee or servicer may use standardized forms for the provision of disclo
 
 The effective date of this chapter, referred to in subsec. (b), is 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as an Effective Date note under section 4901 of this title.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), is Pub. L. 93–533, Dec. 22, 1974,88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 #### Amendments
 

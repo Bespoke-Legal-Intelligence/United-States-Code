@@ -36,11 +36,11 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 (1) If the President determines that the further extension of the waiver authority granted under subsection (c) of this section will substantially promote the objectives of this section, he may recommend further extensions of such authority for successive 12-month periods. Any such recommendations shall—
 
-&emsp;(A) be made no later than 30 days before the expiration of such authority;
+&emsp;(A) be made not later than 30 days before the expiration of such authority;
 
 &emsp;(B) be made in a document transmitted to the House of Representatives and the Senate setting forth his reasons for recommending the extension of such authority; and
 
-&emsp;(C) include, for each country with respect to which a waiver granted under subsection (c) ofthis section is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.
+&emsp;(C) include, for each country with respect to which a waiver granted under subsection (c) of this section is in effect, a determination that continuation of the waiver applicable to that country will substantially promote the objectives of this section, and a statement setting forth his reasons for such determination.
 
 > If the President recommends the further extension of such authority, such authority shall continue in effect until the end of the 12-month period following the end of the previous 12-month extension with respect to any country (except for any country with respect to which such authority has not been extended under this subsection), unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2).
 
@@ -90,7 +90,7 @@ Section 132(d) of Pub. L. 101–382 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 2191 to 2194, 2435, and 2437 of this title\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 2191 to 2194, 2435, and 2437 of this title\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].
 
 “(2)
 
@@ -145,6 +145,8 @@ Ex. Ord. No. 12809, June 3, 1992, 57 F.R. 23925.—Albania, Azerbaijan, Georgia,
 Ex. Ord. No. 12811, June 24, 1992, 57 F.R. 28585.—Tajikistan and Turkmenistan.
 
 Ex. Ord. No. 13079, Apr. 7, 1998, 63 F.R. 17309.—Vietnam.
+
+Ex. Ord. No. 13220, July 2, 2001, 66 F.R. 35527.—Republic of Belarus.
 
 #### Presidential Determinations Relating to Waivers
 
@@ -237,6 +239,12 @@ Determination No. 2000–21, June 2, 2000, 65 F.R. 36309.—Vietnam.
 Determination No. 2000–22, June 2, 2000, 65 F.R. 36311.—Republic of Belarus.
 
 Determination No. 2000–23, June 2, 2000, 65 F.R. 36313.—People's Republic of China.
+
+Determination No. 2001–16, June 1, 2001, 66 F.R. 30631.—People's Republic of China.
+
+Determination No. 2001–17, June 1, 2001, 66 F.R. 30633.—Vietnam.
+
+Determination No. 2001–20, July 2, 2001, 66 F.R. 37109.—Republic of Belarus.
 
 #### Section Referred to in Other Sections
 

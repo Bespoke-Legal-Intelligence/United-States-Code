@@ -192,7 +192,7 @@ Section 3(e)(2) of Pub. L. 95–190 provided that: “Nothing in this Act \[see 
 
 #### Rural Water Survey; Report to President and Congress; Authorization of Appropriations
 
-Section 3 of Pub. L. 93–523, as amended by Pub. L. 95–190, §§2(d), 3(d), Nov. 16, 1977, 91 Stat. 1393, 1394, directed Administrator of Environmental Protection Agency, after consultation with Secretary of Agriculture and the several States, to enter into arrangements with public or private entities to conduct a survey of quantity, quality, and availability of rural drinking water supplies, which survey was to include, but not be limited to, consideration of number of residents in each rural area who presently are being inadequately served by a public or private drinking water supply system, or by an individual home drinking water supply system, or who presently have limited or otherwise inadequate access to drinking water, or who, due to absence or inadequacy of a drinking water supply system, are exposed to an increased health hazard, and who have experienced incidents of chronic or acute illness, which may be attributed to inadequacy of a drinking water supply system. Survey to be completed within eighteen months of Dec. 16, 1974, and a final report thereon submitted, not later than six months after completion of survey, to President and to Congress.
+Section 3 of Pub. L. 93–523, as amended by Pub. L. 95–190, §§2(d), 3(d), Nov. 16, 1977, 91 Stat. 1393, 1394, directed Administrator of Environmental Protection Agency, after consultation with Secretary of Agriculture and the several States, to enter into arrangements with public or private entities to conduct a survey of quantity, quality, and availability of rural drinking water supplies, which survey was to include, but not be limited to, consideration of number of residents in each rural area who presently are being inadequately served by a public or private drinking water supply system, or by an individual home drinking water supply system, or who presently have limited or otherwise inadequate access to drinking water, or who, due to absence or inadequacy of a drinking water supply system, are exposed to an increased health hazard,and who have experienced incidents of chronic or acute illness, which may be attributed to inadequacy of a drinking water supply system. Survey to be completed within eighteen months of Dec. 16, 1974, and a final report thereon submitted, not later than six months after completion of survey, to President and to Congress.
 
 #### Federal Compliance With Pollution Control Standards
 
@@ -200,7 +200,7 @@ For provisions relating to the responsibility of the head of each Executive agen
 
 #### Termination of Advisory Committees
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time asmay be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Section Referred to in Other Sections
 

@@ -68,7 +68,7 @@ The Director may publicly disseminate appropriate emergency preparedness informa
 
 (3) The Director may lease real property required for the purpose of carrying out the provisions of this subsection, but shall not acquire fee title to property unless specifically authorized by law.
 
-(4) The Director may procure and maintain under this subsection radiological, chemical, bacteriological, and biological agent monitoring and decontamination devices and distribute such devices by loan or grant to the States foremergency preparedness purposes, under such terms and conditions as the Director shall prescribe.
+(4) The Director may procure and maintain under this subsection radiological, chemical, bacteriological, and biological agent monitoring and decontamination devices and distribute such devices by loan or grant to the States for emergency preparedness purposes, under such terms and conditions as the Director shall prescribe.
 
 #### (j) Financial contributions
 
@@ -108,7 +108,7 @@ Provisions similar to those in this section were contained in section 2281 of Ti
 
 #### Amendments
 
-1995—Subsec. (i)(3) to (5). Pub. L. 104–66 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The Director shall submit to Congress a report, at least quarterly, describing all property acquisitions made pursuant to this subsection.”
+1995—Subsec. (i)(3) to (5). Pub. L. 104–66 redesignated pars. (4) and (5) as (3) and (4), respectively, and struckout former par. (3) which read as follows: “The Director shall submit to Congress a report, at least quarterly, describing all property acquisitions made pursuant to this subsection.”
 
 #### Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions
 

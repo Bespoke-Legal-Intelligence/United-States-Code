@@ -12,7 +12,7 @@
 
 #### Effective Date of 1991 Amendment
 
-Section 1132 of title XI of Pub. L. 102–190 provided that: “This title \[enacting sections 571 to 583 and 742 ofthis title, amending this section, sections 522, 597 \[now 12241\], 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under sections 555 and 571 of this title and section 1009 of Title 37\] and the amendments made by this title shall take effect on February 1, 1992.”
+Section 1132 of title XI of Pub. L. 102–190 provided that: “This title \[enacting sections 571 to 583 and 742 of this title, amending this section, sections 522, 597 \[now 12241\], 598 \[now 12242\], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under sections 555 and 571 of this title and section 1009 of Title 37\] and the amendments made by this title shall take effect on February 1, 1992.”
 
 #### Effective Date
 

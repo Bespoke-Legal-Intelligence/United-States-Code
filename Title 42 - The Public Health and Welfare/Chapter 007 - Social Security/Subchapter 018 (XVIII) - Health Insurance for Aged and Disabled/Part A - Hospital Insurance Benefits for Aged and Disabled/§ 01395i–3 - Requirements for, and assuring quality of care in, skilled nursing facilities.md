@@ -1240,7 +1240,7 @@ Section 4205 of Pub. L. 100–203 provided that: “The Secretary of Health and 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395x, 1395aa, 1395bb, 1395cc, 1395tt, 1395yy, 1396r, 3002 of this title; title 38 section 3675.
+This section is referred to in sections 1395x, 1395aa, 1395bb, 1395cc, 1395tt, 1395yy, 1396r, 3002 of this title; title 10 section 1074j; title 38 section 3675.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

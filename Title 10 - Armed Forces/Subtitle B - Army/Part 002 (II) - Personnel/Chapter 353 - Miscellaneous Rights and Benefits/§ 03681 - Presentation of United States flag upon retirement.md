@@ -2,7 +2,7 @@
 
 (a)
 
-Presentation of Flag.—Upon the release of a member of the Army from active duty forretirement, the Secretary of the Army shall present a United States flag to the member.
+Presentation of Flag.—Upon the release of a member of the Army from active duty for retirement, the Secretary of the Army shall present a United States flag to the member.
 
 (b)
 

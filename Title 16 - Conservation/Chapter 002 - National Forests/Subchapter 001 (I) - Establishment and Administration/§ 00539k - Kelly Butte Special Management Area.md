@@ -58,7 +58,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §346(a), (e)–(g), (i)\],
 
 > The Secretary shall promptly seek to identify lands acceptable to equalize values under paragraph (A) of this subsection and shall, not later than July 1, 2000, provide a report to the Congress outlining the results of such efforts.
 
-“(g) As funds or lands are provided to Plum Creek by the Secretary, Plum Creek shall release to the United States deeds for lands and interests in lands held in escrow based on the values determined during the Appraisal process in the context of the whole estate to be conveyed. Deeds shall be released for lands and interests in lands in the following order: Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, Township 19 North, Range 15 East, Section 31, Township 19 North, Range 14 East, Section 25, Township 22 North, Range 11 East, Section 3, W.M., and Township 22 North, Range 11 East, Section 19, W.M.
+“(g) As funds or lands are provided to Plum Creek by the Secretary, Plum Creek shall release to the United States deeds for lands and interests in lands held in escrow based on the values determined during the Appraisal process in the context of the whole estate to be conveyed. Deeds shall be released for lands and interests in lands in the following order: Township 21 North, Range 12 East, Section 15, W.M., Township 21 North, Range 12 East, Section 23, W.M., Township 21 North, Range 12 East, Section 25, W.M., Township 19 North, Range 13 East, Section 7, Township 19 North, Range 15 East, Section 31, Township 19 North, Range 14 East, Section 25, Township 22 North, Range 11 East, Section3, W.M., and Township 22 North, Range 11 East, Section 19, W.M.
 
 “(i) The deadline for the Report to Congress required by section 609(c) of the Interstate 90 Land Exchange Act of 1998 \[section 101(e) \[title VI, §609(c)\] of Pub. L. 105–277, set out below\] is hereby extended. Such Report is due to the Congress 18 months from the date of the enactment of this Interstate 90 Land Exchange Amendment \[Nov. 29, 1999\].”
 
@@ -116,7 +116,7 @@ Findings.—Congress finds that—
 
 &emsp;&emsp;“(ii) have lower public recreation and other public values than the Plum Creek offered land;
 
-&emsp;“(6) time is of the essence in consummating a land exchange because delays may force Plum Creek toroad or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
+&emsp;“(6) time is of the essence in consummating a land exchange because delays may force Plum Creek to road or log the offered land and thereby diminish the public values for which the offered land is to be acquired; and
 
 &emsp;“(7) it is in the public interest to complete the land exchange at the earliest practicable date so that the offered land can be acquired and preserved by the United States for permanent public management, use, and enjoyment.
 
@@ -152,7 +152,7 @@ Condition and Conveyance of Offered Land.—The exchange directed by this Act sh
 
 &emsp;“(1) Certain land comprising approximately 8,808 acres and located within the exterior boundaries of the Mt. Baker-Snoqualmie National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998; and
 
-&emsp;“(2) Certain land comprising approximately 53,576 acres and located within or adjacent to the exterior boundaries of the Wenatchee National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998 except the following parcels: Township 19 North, Range 15 East, Section 29, W.M., Township 18 North, Range 15 East, Section 3, W.M., Township 19 North, Range 14 East, Section 9, W.M., Township 21 North, Range 14 East, Section 7, W.M., Township 22 North, Range 12 East, Section 35, W.M., Township 22 North, Range 13 East, Section 3, W.M., Township 22 North, Range 13 East, Section 9, W.M., Township 22 North, Range 13 East, Section 11, W.M., Township 22 North, Range 13 East, Section 13, W.M., Township 22 North, Range 13 East, Section 15, W.M., Township 22 North, Range 13 East, Section 25, W.M., Township 22 North, Range 13 East, Section 33, W.M., Township 22 North, Range 13 East, Section 35, W.M., Township 22 North, Range 14 East, Section 7, W.M., Township 22 North, Range 14 East, Section 9, W.M., Township 22 North, Range 14 East, Section 11, W.M., Township 22 North, Range 14 East, Section 15, W.M., Township 22 North, Range 14 East, Section 17, W.M., Township 22 North, Range 14 East, Section 21, W.M., Township 22 North, Range 14 East, Section 31, W.M., Township 22 North, Range 14 East, Section 27, W.M. The appraisal approved by the Secretary of Agriculture on June 14, 1999 (the ‘Appraisal’) shall be adjusted by subtracting the values for the parcels described in the preceding sentence determined during the Appraisal process in the context of the whole estate to be conveyed.
+&emsp;“(2) Certain land comprising approximately 53,576 acres and located within or adjacent to the exteriorboundaries of the Wenatchee National Forest, Washington, as generally depicted on a map entitled ‘Interstate 90 Land Exchange’, dated October 1998 except the following parcels: Township 19 North, Range 15 East, Section 29, W.M., Township 18 North, Range 15 East, Section 3, W.M., Township 19 North, Range 14 East, Section 9, W.M., Township 21 North, Range 14 East, Section 7, W.M., Township 22 North, Range 12 East, Section 35, W.M., Township 22 North, Range 13 East, Section 3, W.M., Township 22 North, Range 13 East, Section 9, W.M., Township 22 North, Range 13 East, Section 11, W.M., Township 22 North, Range 13 East, Section 13, W.M., Township 22 North, Range 13 East, Section 15, W.M., Township 22 North, Range 13 East, Section 25, W.M., Township 22 North, Range 13 East, Section 33, W.M., Township 22 North, Range 13 East, Section 35, W.M., Township 22 North, Range 14 East, Section 7, W.M., Township 22 North, Range 14 East, Section 9, W.M., Township 22 North, Range 14 East, Section 11, W.M., Township 22 North, Range 14 East, Section 15, W.M., Township 22 North, Range 14 East, Section 17, W.M., Township 22 North, Range 14 East, Section 21, W.M., Township 22 North, Range 14 East, Section 31, W.M., Township 22 North, Range 14 East, Section 27, W.M. The appraisal approved by the Secretary of Agriculture on June 14, 1999 (the ‘Appraisal’) shall be adjusted by subtracting the values for the parcels described in the preceding sentence determined during the Appraisal process in the context of the whole estate to be conveyed.
 
 “(b)
 
@@ -170,7 +170,7 @@ Offered Land Title.—If Plum Creek conveys title acceptable to the Secretary to
 
 “(d)
 
-Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interestsin lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S1/2 of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
+Land Donation.—Plum Creek agrees that it will convey, in the form of a voluntary donation, title acceptable to the Secretary in and to lands and interests in lands comprising approximately 320 acres, described as Township 22 North, Range 11 East, S1/2 of Section 13, if Plum Creek conveys title to lands and interests pursuant to subsections (a) or (c). It is the intention of Congress that any portion of such donated land which the Secretary determines qualifies as wilderness be, upon the date of its acquisition by the United States, incorporated in and managed as part of the adjacent Alpine Lakes Wilderness (as designated by Public Law 94–357) in accordance with section 6(a) of the Wilderness Act (16 U.S.C. 1135).
 
 #### “SEC. 605. EXCHANGE VALUATION, APPRAISALS AND EQUALIZATION.
 
@@ -208,7 +208,7 @@ Equalization if Surplus of Offered Land.—
 
 &emsp;“(1)
 
-In general.—If the final appraised value of the offered land or lands and interest in lands conveyed by Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, exceeds the final appraised value of the selected land, Plum Creek shall delete offered land parcels from the exchange in the exact order each land Section (or offered portion thereof) is listed in paragraph (2) until the values are approximately equal.
+In general.—If the final appraised value of the offered land or lands and interest in lands conveyedby Plum Creek under section 604(c), except for the Cle Elum and Lost Lake lands, exceeds the final appraised value of the selected land, Plum Creek shall delete offered land parcels from the exchange in the exact order each land Section (or offered portion thereof) is listed in paragraph (2) until the values are approximately equal.
 
 &emsp;“(2)
 
@@ -298,7 +298,7 @@ Land acquired by the secretary.—
 
 &emsp;&emsp;“(A)
 
-In general.—Land acquired by the Secretary under this Act shall become part of the Mt.Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate.
+In general.—Land acquired by the Secretary under this Act shall become part of the Mt. Baker-Snoqualmie, Gifford Pinchot or Wenatchee National Forests, as appropriate.
 
 &emsp;&emsp;“(B)
 
@@ -340,7 +340,7 @@ Access outside cost share agreement areas.—Outside of Cost Share Construction 
 
 “(c)
 
-Access to Certain Lands Acquired by the United States.—Outside of Cost Share Construction and Use Agreement Areas, Plum Creek shall grant the Secretary road access easements at no cost on the locations identified by the Secretary in a format acceptable to the Secretary.
+Access to Certain Lands Acquired by the United States.—Outside of Cost Share Constructionand Use Agreement Areas, Plum Creek shall grant the Secretary road access easements at no cost on the locations identified by the Secretary in a format acceptable to the Secretary.
 
 “(d)
 
@@ -390,7 +390,7 @@ Purchase Consultation.—In furtherance of subsection (a), the Secretary is auth
 
 “(c)
 
-Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire landsfrom Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
+Other Agreements.—Nothing in this Act shall be construed to prohibit the Secretary from entering into additional agreements or contracts with Plum Creek to purchase, exchange or otherwise acquire lands from Plum Creek in Washington or any other state under the laws, rules and regulations generally applicable to Federal land acquisitions.
 
 #### “SEC. 608. TIETON RIVER STUDY.
 
@@ -412,7 +412,7 @@ Report to Congress.—Not later than 18 months after the date of enactment of th
 
 #### “SEC. 610. WILDERNESS STUDY AREA.
 
-“In furtherance of the purposes of the Wilderness Act \[16 U.S.C. 1131 et seq.\], if the land exchange directed by this Act is consummated, the area of land comprising approximately 15,000 acres, as generally depicted on a map entitled ‘Alpine Lakes Wilderness Study Area’, dated October 1998, shall be reviewed by the Secretary of Agriculture as to its suitability for preservation as wilderness. The Secretary shall submit a report and findings to the President, and the President shall submit his recommendations to the United States House of Representatives and United States Senate no later than three years after the first date on which deeds are exchanged to consummate the land exchange. Subject to valid existing rights and existing uses, such lands shall, until Congress determines otherwise or until December 31, 2003, be administered by the Secretary to maintain their wilderness character existing as of the date of enactment of this Act and potential for inclusion in the National Wilderness Preservation System, and shall be withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasing laws, including the Geothermal Steam Act of 1970 \[30 U.S.C. 1001 et seq.\].
+“In furtherance of the purposes of the Wilderness Act \[16 U.S.C. 1131 et seq.\], if the land exchange directed by this Act is consummated, the area of land comprising approximately 15,000 acres, as generally depicted on a map entitled ‘Alpine Lakes Wilderness Study Area’, dated October 1998, shall be reviewed by the Secretary of Agriculture as to its suitability for preservation as wilderness. The Secretary shall submit a report and findings to the President, and the President shall submit his recommendations to the United States House of Representatives and United States Senate no later than three years after the first date on which deeds are exchanged to consummate the land exchange. Subject to valid existing rights and existing uses, such lands shall, until Congress determines otherwise or until December 31, 2003, be administered by the Secretary to maintain their wilderness character existing as of the date of enactment of this Act and potential for inclusion in the National Wilderness Preservation System, and shall be withdrawn from all forms of entry and appropriation under the U.S. mining and mineral leasinglaws, including the Geothermal Steam Act of 1970 \[30 U.S.C. 1001 et seq.\].
 
 #### “SEC. 611. KELLY BUTTE SPECIAL MANAGEMENT AREA.
 

@@ -26,7 +26,7 @@ In administering water resources for the national wildlife refuge, the Secretary
 
 #### References in Text
 
-The National Wildlife Refuge System Administration Act of 1966, referred to in subsec. (c), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668eeof this title. For further details, see Short Title note set out under section 668dd of this title.
+The National Wildlife Refuge System Administration Act of 1966, referred to in subsec. (c), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
 Act of September 28, 1962, referred to in subsec. (c), is Pub. L. 87–714, Sept. 28, 1962, 76 Stat. 653, as amended, popularly known as the Refuge Recreation Act, which is classified generally to subchapter LXVIII (§460k et seq.) of this chapter.
 

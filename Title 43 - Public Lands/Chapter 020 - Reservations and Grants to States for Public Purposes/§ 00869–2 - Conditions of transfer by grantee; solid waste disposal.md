@@ -2,7 +2,7 @@
 
 #### (a) Conditions of transfer by grantee
 
-Title to lands conveyed by the Government under sections 869 to 869–4 of this title may not be transferred by the grantee or its successor except, with the consent of the Secretary of the Interior, to a transferee which would be a qualified grantee under section 869–1(a) or 869–1(c) of this title and subject to the acreage limitation contained in section 869(b) of this title. A grantee or its successor may not change the use specified in the conveyance to another or additional use except, with the consent of the Secretary, to a use for which such grantee or its successor could obtain a conveyance under sections 869 to 869–4 of this title. If at any time after the lands are conveyed by the Government, the grantee or its successor attempts to transfer title to or control over these lands to another or the landsare devoted to a use other than that for which the lands were conveyed, without the consent of the Secretary, title to the lands shall revert to the United States.
+Title to lands conveyed by the Government under sections 869 to 869–4 of this title may not be transferred by the grantee or its successor except, with the consent of the Secretary of the Interior, to a transferee which would be a qualified grantee under section 869–1(a) or 869–1(c) of this title and subject to the acreage limitation contained in section 869(b) of this title. A grantee or its successor may not change the use specified in the conveyance to another or additional use except, with the consent of the Secretary, to a use for which such grantee or its successor could obtain a conveyance under sections 869 to 869–4 of this title. If at any time after the lands are conveyed by the Government, the grantee or its successor attempts to transfer title to or control over these lands to another or the lands are devoted to a use other than that for which the lands were conveyed, without the consent of the Secretary, title to the lands shall revert to the United States.
 
 #### (b) New disposal sites
 
@@ -52,7 +52,7 @@ Prior provisions on the subject of reverter were formerly contained in section 8
 
 #### Savings Provisions
 
-Section 3 of Pub. L. 100–648 provided that: “Nothing in this Act \[amending section 869–2 of this title and enacting provisions set out as notes under sections 869 and 869–2 of this title\] or the amendments made thereby shall be construed to affect the applicability and operation of the Comprehensive Environmental Response, Compensation\[,\] and Liability Act \[of 1980\] (42 U.S.C. 9601 et seq.) as amended, and the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6901 et seq.), as amended.”
+Section 3 of Pub. L. 100–648 provided that: “Nothing in this Act \[amending section 869–2 of this title and enacting provisions set out as notes under sections 869 and 869–2 of this title\] or the amendments made thereby shall be construed to affect the applicability and operation of the Comprehensive Environmental Response, Compensation\[,\] and Liability Act \[of 1980\] (42 U.S.C.9601 et seq.) as amended, and the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6901 et seq.), as amended.”
 
 #### Congressional Review of Conveyance of Land or Renunciation of Reversionary Interests
 

@@ -18,7 +18,7 @@ Provisions similar to those in this section were contained in section 4(d) of Pu
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
+1997—Subsec. (b). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 etseq.)” for “the Information Technology Management Reform Act of 1996”.
 
 1996—Pub. L. 104–106 substituted “Chief Information Officer” for “Chief Information Resources Officer” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d), relating to designation, powers, and duties of the Chief Information Resources Officer.
 

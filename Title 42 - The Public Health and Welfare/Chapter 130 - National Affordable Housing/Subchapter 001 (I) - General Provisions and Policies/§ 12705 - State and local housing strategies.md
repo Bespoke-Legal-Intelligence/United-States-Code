@@ -62,7 +62,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 #### (1) In general
 
-&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 days after receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) of this section has not been provided in a substantially complete manner. For the purpose of the preceding sentence, the adoption or continuation of a public policy identified pursuant to subsection (b)(4) of this section shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
+&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 days after receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) of this section has not been provided in a substantially completemanner. For the purpose of the preceding sentence, the adoption or continuation of a public policy identified pursuant to subsection (b)(4) of this section shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
 
 #### (2) Actions in case of disapproval
 
@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 105–276, §568, added subsec. (g).
 
 Subsec. (b)(2). Pub. L. 102–550, §220(a), inserted “, including rural homelessness,” after “extent of homelessness” and “including tabular representation of such information,” after “with homelessness,”.
 
-Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end “, except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submittedto the State to the Secretary and shall be considered to have complied with this paragraph”.
+Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end “, except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submitted to the State to the Secretary and shall be considered to have complied with this paragraph”.
 
 Subsec. (b)(8). Pub. L. 102–550, §220(c)(2), added par. (8). Former par. (8) redesignated (9).
 

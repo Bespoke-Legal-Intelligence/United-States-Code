@@ -17,10 +17,13 @@
 | [1411\.](%C2%A7%2001411%20-%20Rules%20of%20construction.md) | Rules of construction. |
 | [1412\.](%C2%A7%2001412%20-%20Rounding%20to%20next%20lower%20dollar.md) | Rounding to next lower dollar. |
 | [1413\.](%C2%A7%2001413%20-%20Special%20compensation%20for%20certain%20severely%20disabled%20uniformed%20services%20retirees.md) | Special compensation for certain severely disabled uniformed services retirees. |
+| [1414\.](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20have%20service-connected%20disabilities%20payment%20of%20retired%20pay%20and%20veterans%E2%80%99%20disability%20compensation%E2%80%A6.md) | Members eligible for retired pay who have service-connected disabilities: payment of retired pay and veterans’ disability compensation; contingent authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title VI, §641(c), Dec. 28, 2001, 115 Stat. 1150, added item 1414.
 
 1999—Pub. L. 106–65, div. A, title VI, §§643(b)(3)(B), 658(a)(2), Oct. 5, 1999, 113 Stat. 664, 669, inserted “certain” before “members” in item 1410 and added item 1413.
 
@@ -66,3 +69,4 @@ This chapter is referred to in sections 642, 1275, 1315 of this title; title 4 s
 - [&sect; 01411 - Rules of construction](%C2%A7%2001411%20-%20Rules%20of%20construction.md)
 - [&sect; 01412 - Rounding to next lower dollar](%C2%A7%2001412%20-%20Rounding%20to%20next%20lower%20dollar.md)
 - [&sect; 01413 - Special compensation for certain severely disabled uniformed services retirees](%C2%A7%2001413%20-%20Special%20compensation%20for%20certain%20severely%20disabled%20uniformed%20services%20retirees.md)
+- [&sect; 01414 - Members eligible for retired pay who have service-connected disabilities payment of retired pay and veterans&#8217; disability compensation&#8230;](%C2%A7%2001414%20-%20Members%20eligible%20for%20retired%20pay%20who%20have%20service-connected%20disabilities%20payment%20of%20retired%20pay%20and%20veterans%E2%80%99%20disability%20compensation%E2%80%A6.md)

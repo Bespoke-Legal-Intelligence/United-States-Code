@@ -114,7 +114,7 @@ Section 1 of Pub. L. 96–509 provided that: “This Act \[enacting section 5617
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–115, §1, Oct. 3, 1977, 91 Stat. 1048, provided that: “This Act \[enacting section 5741 of this title, amending section 5316 of Title 5, Government Organization and Employees, sections 4351 and 5038 of Title 18, Crimes and Criminal Procedure, and sections 3723, 3767, 3811 to 3814, 3821, 3882, 3883, 3888, 3889, 5603, 5611, 5612, 5614 to 5618, 5631 to 5635, 5637 to 5639, 5651, 5653 to 5657, 5659 to 5661, 5671, 5672, 5711 to 5713, 5731, and 5751 of thistitle, repealing sections 3821, 5658, and 5732 of this title, enacting provisions set out as notes under this section and sections 5632, 5633, and 5638 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Juvenile Justice Amendments of 1977’.”
+Pub. L. 95–115, §1, Oct. 3, 1977, 91 Stat. 1048, provided that: “This Act \[enacting section 5741 of this title, amending section 5316 of Title 5, Government Organization and Employees, sections 4351 and 5038 of Title 18, Crimes and Criminal Procedure, and sections 3723, 3767, 3811 to 3814, 3821, 3882, 3883, 3888, 3889, 5603, 5611, 5612, 5614 to 5618, 5631 to 5635, 5637 to 5639, 5651, 5653 to 5657, 5659 to 5661, 5671, 5672, 5711 to 5713, 5731, and 5751 of this title, repealing sections 3821, 5658, and 5732 of this title, enacting provisions set out as notes under this section and sections 5632, 5633, and 5638 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Juvenile Justice Amendments of 1977’.”
 
 #### Short Title
 

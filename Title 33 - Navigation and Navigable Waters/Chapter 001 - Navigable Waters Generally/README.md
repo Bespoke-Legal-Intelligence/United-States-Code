@@ -163,6 +163,10 @@
 | (a) | Canal declared nonnavigable. |
 | (b) | Ensuring public safety. |
 | (c) | Termination of declaration. |
+| [59jj.](Subchapter%20002%20%28II%29%20-%20Waters%20Declared%20Nonnavigable%20Change%20of%20Name/%C2%A7%2000059jj%20-%20Designation%20of%20nonnavigability%20for%20portions%20of%20Gloucester%20County%2C%20New%20Jersey.md) | Designation of nonnavigability for portions of Gloucester County, New Jersey. |
+| (a) | Designation. |
+| (b) | Limits on applicability; regulatory requirements. |
+| (c) | Termination of designation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -50,7 +50,7 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;&emsp;(iii) in cooperation with appropriate Federal, State, and local authorities, assisting the signatories to the Chesapeake Bay Agreement in developing and implementing specific action plans to carry out the responsibilities of the signatories to the Chesapeake Bay Agreement;
 
-&emsp;&emsp;&emsp;(iv) coordinating the actions of the Environmental Protection Agency with the actions of the appropriate officials of other Federal agencies and State and local authorities in developing strategies to—
+&emsp;&emsp;&emsp;(iv) coordinating the actions of the Environmental Protection Agency with the actions of the appropriate officials of otherFederal agencies and State and local authorities in developing strategies to—
 
 &emsp;&emsp;&emsp;&emsp;(I) improve the water quality and living resources in the Chesapeake Bay ecosystem; and
 
@@ -144,7 +144,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (2) Compliance with agreement
 
-&emsp;The head of each Federal agency that owns or occupies real property in the Chesapeake Bay watershed shall ensure that the property, and actions taken by the agency with respect to the property, comply with the Chesapeake Bay Agreement, the Federal Agencies Chesapeake Ecosystem Unified Plan, and any subsequent agreements and plans.
+&emsp;The head of each Federal agency that owns or occupies real property in the Chesapeake Bay watershed shall ensure that the property, and actions taken by the agency with respectto the property, comply with the Chesapeake Bay Agreement, the Federal Agencies Chesapeake Ecosystem Unified Plan, and any subsequent agreements and plans.
 
 #### (3) Budget coordination
 

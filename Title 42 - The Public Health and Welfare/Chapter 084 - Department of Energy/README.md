@@ -320,6 +320,7 @@
 | [7270\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [7270a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270a%20-%20Guards%20for%20Strategic%20Petroleum%20Reserve%20facilities.md) | Guards for Strategic Petroleum Reserve facilities. |
 | [7270b.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270b%20-%20Trespass%20on%20Strategic%20Petroleum%20Reserve%20facilities.md) | Trespass on Strategic Petroleum Reserve facilities. |
+| [7270c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270c%20-%20Annual%20assessment%20and%20report%20on%20vulnerability%20of%20facilities%20to%20terrorist%20attack.md) | Annual assessment and report on vulnerability of facilities to terrorist attack. |
 | [7271\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007271%20-%20Common%20defense%20and%20security%20program%20requests%20of%20single%20authorization%20of%20appropriations.md) | Common defense and security program requests of single authorization of appropriations. |
 | 7271a to 7271c. Repealed. |  |
 | [7272\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007272%20-%20Restriction%20on%20licensing%20requirement%20for%20certain%20defense%20activities%20and%20facilities.md) | Restriction on licensing requirement for certain defense activities and facilities. |
@@ -441,6 +442,8 @@
 | (b) | Annual reports. |
 | (c) | State regulated investor-owned utilities. |
 | (d) | Rural Electrification Administration requirements. |
+| [7276d.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007276d%20-%20Property%20protection%20program%20for%20power%20marketing%20administrations.md) | Property protection program for power marketing administrations. |
+| [7276e.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007276e%20-%20Provision%20of%20rewards.md) | Provision of rewards. |
 | [7277\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007277%20-%20Report%20concerning%20review%20of%20United%20States%20coal%20imports.md) | Report concerning review of United States coal imports. |
 | (a) | In general. |
 | (b) | Contents. |
@@ -629,6 +632,12 @@
 | (f) | Counterintelligence polygraph examination. |
 | (g) | Regulations. |
 | (h) | Plan for extension of program. |
+| 7383h–1. | Department of Energy counterintelligence polygraph program. |
+| (a) | New counterintelligence polygraph program required. |
+| (b) | Authorities and limitations. |
+| (c) | Omitted. |
+| (d) | Report on further enhancement of personnel security program. |
+| (e) | Polygraph Review defined. |
 | [7383i.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383i%20-%20Definitions%20of%20national%20laboratory%20and%20nuclear%20weapons%20production%20facility.md) | Definitions of national laboratory and nuclear weapons production facility. |
 | [7383j.](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/%C2%A7%2007383j%20-%20Definition%20of%20Restricted%20Data.md) | Definition of Restricted Data. |
 
@@ -701,7 +710,7 @@
 | (b) | Medical benefits. |
 | (c) | Beryllium sensitivity monitoring. |
 | (d) | Payment from compensation fund. |
-| (e) | Survivors. |
+| (e) | Payments in the case of deceased persons. |
 | (f) | Effective date. |
 | [7384t.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384t%20-%20Medical%20benefits.md) | Medical benefits. |
 | (a) | Medical benefits provided. |
@@ -715,7 +724,7 @@
 | (b) | Medical benefits. |
 | (c) | Coordination with RECA. |
 | (d) | Payment from compensation fund. |
-| (e) | Survivors. |
+| (e) | Payments in the case of deceased persons. |
 | (f) | Procedures required. |
 | (g) | Effective date. |
 | [7384v.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20B%20-%20Program%20Administration/%C2%A7%2007384v%20-%20Assistance%20for%20claimants%20and%20potential%20claimants.md) | Assistance for claimants and potential claimants. |
@@ -737,10 +746,10 @@
 | (b) | Applicability. |
 | (c) | Workers’ compensation. |
 | [7385d.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385d%20-%20Election%20of%20remedy%20for%20beryllium%20employees%20and%20atomic%20weapons%20employees.md) | Election of remedy for beryllium employees and atomic weapons employees. |
-| (a) | Election to file suit. |
-| (b) | Applicable time limits. |
-| (c) | Dismissal of claims. |
-| (d) | Dismissal of pending suit. |
+| (a) | Effect of tort cases filed before enactment of original law. |
+| (b) | Effect of tort cases filed between enactment of original law and enactment of 2001 amendments. |
+| (c) | Effect of tort cases filed after enactment of 2001 amendments. |
+| (d) | Covered tort cases. |
 | (e) | Workers’ compensation. |
 | [7385e.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385e%20-%20Certification%20of%20treatment%20of%20payments%20under%20other%20laws.md) | Certification of treatment of payments under other laws. |
 | [7385f.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385f%20-%20Claims%20not%20assignable%20or%20transferable%3B%20choice%20of%20remedies.md) | Claims not assignable or transferable; choice of remedies. |
@@ -749,7 +758,8 @@
 | [7385g.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385g%20-%20Attorney%20fees.md) | Attorney fees. |
 | (a) | General rule. |
 | (b) | Applicable percentage limitations. |
-| (c) | Penalty. |
+| (c) | Inapplicability to other services. |
+| (d) | Penalty. |
 | [7385h.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385h%20-%20Certain%20claims%20not%20affected%20by%20awards%20of%20damages.md) | Certain claims not affected by awards of damages. |
 | [7385i.](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/Part%20C%20-%20Treatment%2C%20Coordination%2C%20and%20Forfeiture%20of%20Compensation%20and%20Benefits/%C2%A7%2007385i%20-%20Forfeiture%20of%20benefits%20by%20convicted%20felons.md) | Forfeiture of benefits by convicted felons. |
 | (a) | Forfeiture of compensation. |

@@ -40,7 +40,7 @@ For purposes of this subchapter:
 
 #### (8) Elementary school
 
-&emsp;The term “elementary school” has the same meaning given such term in section 8801 of title 20.
+&emsp;The term “elementary school” has the same meaning given such term in section 7801 of title 20.
 
 #### (9) Indian
 
@@ -74,7 +74,7 @@ For purposes of this subchapter:
 
 #### (14) Local educational agency
 
-&emsp;The term “local educational agency” has the same meaning given such term in section 8801 of title 20.
+&emsp;The term “local educational agency” has the same meaning given such term in section 7801 of title 20.
 
 #### (15) National service laws
 
@@ -126,7 +126,7 @@ For purposes of this subchapter:
 
 #### (22) Secondary school
 
-&emsp;The term “secondary school” has the same meaning given such term in section 8801 of title 20.
+&emsp;The term “secondary school” has the same meaning given such term in section 7801 of title 20.
 
 #### (23) Service-learning
 
@@ -160,17 +160,17 @@ For purposes of this subchapter:
 
 #### (27) State Commission
 
-&emsp;The term “State Commission” means a State Commission on National and Community Service maintained by a State pursuantto section 12638 of this title. Except when used in section 12638 of this title, the term includes an alternative administrative entity for a State approved by the Corporation under such section to act in lieu of a State Commission.
+&emsp;The term “State Commission” means a State Commission on National and Community Service maintained by a State pursuant to section 12638 of this title. Except when used in section 12638 of this title, the term includes an alternative administrative entity for a State approved by the Corporation under such section to act in lieu of a State Commission.
 
 #### (28) State educational agency
 
-&emsp;The term “State educational agency” has the same meaning given such term in section 8801 of title 20.
+&emsp;The term “State educational agency” has the same meaning given such term in section 7801 of title 20.
 
 #### (29) Student
 
 &emsp;The term “student” means an individual who is enrolled in an elementary or secondary school or institution of higher education on a full- or part-time basis.
 
-(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621.)
+(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 107–110, title X, §1076(ff), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### References in Text
 
@@ -180,11 +180,13 @@ This chapter, referred to in pars. (15) and (17)(A)(ii), was in the original “
 
 The Domestic Volunteer Service Act of 1973, referred to in par. (15), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (21)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. Section 602 of the Act, which was classified to section 1401 of Title 20, was omitted in the general amendment of subchapter I of chapter 33 of Title 20 by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602, which is classified to section 1401 of Title 20, and contains provisions defining “child with a disability”. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (21)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. Section 602 of the Act,which was classified to section 1401 of Title 20, was omitted in the general amendment of subchapter I of chapter 33 of Title 20 by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602, which is classified to section 1401 of Title 20, and contains provisions defining “child with a disability”. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 For ratification of Compact of Free Association with Palau, referred to in par. (26), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
 #### Amendments
+
+2002—Pars. (8), (14), (22), (28). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
 
 1998—Par. (12). Pub. L. 105–220 substituted “section 705(20)(B) of title 29” for “section 706(8)(B) of title 29”.
 
@@ -223,6 +225,10 @@ Par. (24). Pub. L. 102–10, §3(2), (6), redesignated par. (23) as (24) and in 
 Pars. (25) to (29). Pub. L. 102–10, §3(2), redesignated pars. (24) to (28) as (25) to (29), respectively. Former par. (29) redesignated (30).
 
 Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and inserted “corps” after “youth service”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Effective Date of 1998 Amendment
 

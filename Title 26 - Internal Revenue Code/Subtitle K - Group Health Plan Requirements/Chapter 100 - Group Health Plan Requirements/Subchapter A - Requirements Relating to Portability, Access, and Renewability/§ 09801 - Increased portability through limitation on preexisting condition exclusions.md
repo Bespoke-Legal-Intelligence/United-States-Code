@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (2) Enrollment date
 
-&emsp;The term “enrollment date” means, with respect to an individual covered under a group health plan, the date of enrollment of the individual in the plan or, if earlier, the first day of the waiting period for such enrollment.
+&emsp;The term “enrollment date” means, with respect to an individual covered under a grouphealth plan, the date of enrollment of the individual in the plan or, if earlier, the first day of the waiting period for such enrollment.
 
 #### (3) Late enrollee
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (1) Exclusion not applicable to certain newborns
 
-&emsp;Subject to paragraph (4), a group health plan may not impose any preexisting condition exclusion in the case of an individual who, as of the last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
+&emsp;Subject to paragraph (4), a group health plan may not impose any preexisting condition exclusion in the case of an individual who, as ofthe last day of the 30-day period beginning with the date of birth, is covered under creditable coverage.
 
 #### (2) Exclusion not applicable to certain adopted children
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
 
-> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person\(or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
+> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person (or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
 
 #### (B) Dependent special enrollment period
 

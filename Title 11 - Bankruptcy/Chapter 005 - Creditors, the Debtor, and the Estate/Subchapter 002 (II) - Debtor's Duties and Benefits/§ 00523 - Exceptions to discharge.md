@@ -340,7 +340,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (a)(2)(C) of this section by the Judicial Conference of the United States, effective Apr. 1, 1998, see note set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (a)(2)(C) of this section by the Judicial Conference of the United States, effective Apr. 1, 2001, see note set out under section 104 of this title.
 
 #### Section Referred to in Other Sections
 

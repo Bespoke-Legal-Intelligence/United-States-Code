@@ -140,7 +140,7 @@ Subsec. (g). Pub. L. 106–310, §1304(5), (7), redesignated subsec. (e) as (g) 
 
 Subsec. (h). Pub. L. 106–310, §1304(5), redesignated subsec. (f) as (h). Former subsec. (h) redesignated (j).
 
-Subsec. (i). Pub. L. 106–310, §1304(5), (8), redesignated subsec. (g) as (i), substituted “anoxia due to trauma” for “anoxia due to near drowning” in second sentence, and inserted before period at end “, after consultationwith States and other appropriate public or nonprofit private entities”.
+Subsec. (i). Pub. L. 106–310, §1304(5), (8), redesignated subsec. (g) as (i), substituted “anoxia due to trauma” for “anoxia due to near drowning” in second sentence, and inserted before period at end “, after consultation with States and other appropriate public or nonprofit private entities”.
 
 Subsec. (j). Pub. L. 106–310, §1304(9), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1997 through 1999.”
 

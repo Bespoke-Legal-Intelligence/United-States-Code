@@ -4,7 +4,7 @@
 
 (b) All valid claims and obligations payable out of said fund shall be assumed by the corporation.
 
-(c) The corporation, in accordance with the laws generally applicable to the expenditures of the several departments, agencies, and establishments of the Government, is authorized to employ the fund, and any earnings that may accrue to the corporation—
+(c) The corporation, in accordance with the laws generally applicable to the expenditures ofthe several departments, agencies, and establishments of the Government, is authorized to employ the fund, and any earnings that may accrue to the corporation—
 
 &emsp;(1) as operating capital in performing the duties imposed by this chapter;
 
@@ -36,7 +36,7 @@ The first sentence of section 744<i>l</i> of title 18, U.S.C., 1940 ed., authori
 
 The phrase “or received from the sale of the products or by-products of such Industries, or for the services of Federal prisoners,” was inserted to make the first paragraph of this section complete, and required the Federal Prison Industries to account for all moneys under its control.
 
-The words “in the repair, alteration, erection and maintenance of industrial buildings and equipment” and “under rules and regulations promulgated by the Attorney General in paying compensation to inmates employed in any industry, or performing outstanding services in industrial operations” were inserted in partto conform to administrative construction, and in part to provide greater flexibility in the operation of Prison Industries. Much friction was caused by the inability of Prison Industries to compensate inmates whose services in operating the utilities of the institution were most necessary but which were uncompensated while those prisoners who worked in the Industries received compensation. This inequitable situation is corrected by the revised section.
+The words “in the repair, alteration, erection and maintenance of industrial buildings and equipment” and “under rules and regulations promulgated by the Attorney General in paying compensation to inmates employed in any industry, or performing outstanding services in industrial operations” were inserted in part to conform to administrative construction, and in part to provide greater flexibility in the operation of Prison Industries. Much friction was caused by the inability of Prison Industries to compensate inmates whose services in operating the utilities of the institution were most necessary but which were uncompensated while those prisoners who worked in the Industries received compensation. This inequitable situation is corrected by the revised section.
 
 The words “in performing the duties imposed by this chapter” were substituted for the words “for the purposes enumerated in sections 744a–744h of this title,” since the provisions with regard to prison industries now appear in this chapter. The general provisions as to use of the fund supersede the more specific provisions of section 744f of said title (enacted earlier).
 

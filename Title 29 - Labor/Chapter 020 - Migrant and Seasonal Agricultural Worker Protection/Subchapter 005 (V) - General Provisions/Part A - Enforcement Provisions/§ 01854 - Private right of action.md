@@ -2,7 +2,7 @@
 
 #### (a) Maintenance of civil action in district court by aggrieved person
 
-Any person aggrieved by a violation of this chapter or any regulation under this chapter by a farm labor contractor, agricultural employer, agricultural association, or other person may file suit in any district court of the United States having jurisdiction of the parties, without respect to the amount in controversy and without regard to the citizenship of the parties and without regard to exhaustion of any alternative administrative remedies provided herein.
+Any person aggrieved by a violation of this chapter or any regulation under this chapter bya farm labor contractor, agricultural employer, agricultural association, or other person may file suit in any district court of the United States having jurisdiction of the parties, without respect to the amount in controversy and without regard to the citizenship of the parties and without regard to exhaustion of any alternative administrative remedies provided herein.
 
 #### (b) Appointment of attorney and commencement of action
 
@@ -12,7 +12,7 @@ Upon application by a complainant and in such circumstances as the court may dee
 
 (1) If the court finds that the respondent has intentionally violated any provision of this chapter or any regulation under this chapter, it may award damages up to and including an amount equal to the amount of actual damages, or statutory damages of up to $500 per plaintiff per violation, or other equitable relief, except that (A) multiple infractions of a single provision of this chapter or of regulations under this chapter shall constitute only one violation for purposes of determining the amount of statutory damages due a plaintiff; and (B) if such complaint is certified as a class action, the court shall award no more than the lesser of up to $500 per plaintiff per violation, or up to $500,000 or other equitable relief.
 
-(2) In determining the amount of damages to be awarded under paragraph (1), the court is authorized to consider whether an attempt wasmade to resolve the issues in dispute before the resort to litigation.
+(2) In determining the amount of damages to be awarded under paragraph (1), the court is authorized to consider whether an attempt was made to resolve the issues in dispute before the resort to litigation.
 
 (3) Any civil action brought under this section shall be subject to appeal as provided in chapter 83 of title 28.
 
@@ -54,7 +54,7 @@ If the court finds in an action which is brought by or for a worker under subsec
 
 #### (f) Tolling of statute of limitations
 
-If it is determined under a State workers’ compensation law that the workers’ compensation law is not applicable to a claim for bodily injury or death of a migrant or seasonal agricultural worker, the statute of limitations for bringing an action for actual damages for such injury or death under subsection (a) of this section shall be tolled for the period during which the claim for such injury or death under such State workers’ compensation law was pending. The statute of limitations for an action for other actual damages, statutory damages, or equitable relief arising out of the same transaction or occurrence as the injury or death of the migrant or seasonal agricultural worker shall be tolled for the period during which the claim for such injury or death was pending under the State workers’ compensation law.
+If it is determined under a State workers’ compensation law that the workers’ compensation law is not applicable to a claim for bodilyinjury or death of a migrant or seasonal agricultural worker, the statute of limitations for bringing an action for actual damages for such injury or death under subsection (a) of this section shall be tolled for the period during which the claim for such injury or death under such State workers’ compensation law was pending. The statute of limitations for an action for other actual damages, statutory damages, or equitable relief arising out of the same transaction or occurrence as the injury or death of the migrant or seasonal agricultural worker shall be tolled for the period during which the claim for such injury or death was pending under the State workers’ compensation law.
 
 (Pub. L. 97–470, title V, §504, Jan. 14, 1983, 96 Stat. 2597; Pub. L. 102–392, title III, §325(a), Oct. 6, 1992, 106 Stat. 1728; Pub. L. 104–49, §§1(a)(2), 2(a), 3, Nov. 15, 1995, 109 Stat. 432, 433.)
 

@@ -1,6 +1,8 @@
 ### §1003. Coverage
 
-(a) Except as provided in subsection (b) of this section and in sections 1051, 1081, and 1101 of this title, this subchapter shall apply to any employee benefit plan if it is established or maintained—
+#### (a) In general
+
+Except as provided in subsection (b) or (c) of this section and in sections 1051, 1081, and 1101 of this title, this subchapter shall apply to any employee benefit plan if it is established or maintained—
 
 &emsp;(1) by any employer engaged in commerce or in any industry or activity affecting commerce; or
 
@@ -8,7 +10,9 @@
 
 &emsp;(3) by both.
 
-(b) The provisions of this subchapter shall not apply to any employee benefit plan if—
+#### (b) Exceptions for certain plans
+
+The provisions of this subchapter shall not apply to any employee benefit plan if—
 
 &emsp;(1) such plan is a governmental plan (as defined in section 1002(32) of this title);
 
@@ -22,9 +26,21 @@
 
 > The provisions of part 7 of subtitle B shall not apply to a health insurance issuer (as defined in section 1191b(b)(2) of this title) solely by reason of health insurance coverage (as defined in section 1191b(b)(1) of this title) provided by such issuer in connection with a group health plan (as defined in section 1191b(a)(1) of this title) if the provisions of this subchapter do not apply to such group health plan.
 
-(Pub. L. 93–406, title I, §4, Sept. 2, 1974, 88 Stat. 839; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 104–191, title I, §101(d), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(A), Sept. 26, 1996, 110 Stat. 2938.)
+#### (c) Voluntary employee contributions to accounts and annuities
+
+If a pension plan allows an employee to elect to make voluntary employee contributions to accounts and annuities as provided in section 408(q) of title 26, such accounts and annuities (and contributions thereto) shall not be treated as part of such plan (or as a separate pension plan) for purposes of any provision of this subchapter other than section 1103(c), 1104, or 1105 of this title (relating to exclusive benefit, and fiduciary and co-fiduciary responsibilities).
+
+(Pub. L. 93–406, title I, §4, Sept. 2, 1974, 88 Stat. 839; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 104–191, title I, §101(d), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(A), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 107–16, title VI, §602(b), June 7, 2001, 115 Stat. 96.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–16, §§602(b)(2), 901, temporarily inserted “or (c)” after “subsection (b)” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c). Pub. L. 107–16, §§602(b)(1), 901, temporarily added subsec. (c). See Effective and Termination Dates of 2001 Amendment note below.
 
 1996—Subsec. (b). Pub. L. 104–204, in concluding provisions, made technical amendment to references in original act which appear in text as references to section 1191b of this title.
 
@@ -32,9 +48,15 @@ Pub. L. 104–191 inserted at end “The provisions of part 7 of subtitle B shal
 
 1989—Subsec. (b)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2002, see section 602(c) of Pub. L. 107–16, set out as a note under section 408 of Title 26, Internal Revenue Code.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 1996 Amendments
 
-Section 603(c) of Pub. L. 104–204 provided that: “The amendments made by this section \[enacting section1185 of this title and amending this section and sections 1021, 1022, 1024, 1132, 1136, 1144, 1181, 1191, and 1191a of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
+Section 603(c) of Pub. L. 104–204 provided that: “The amendments made by this section \[enacting section 1185 of this title and amending this section and sections 1021, 1022, 1024, 1132, 1136, 1144, 1181, 1191, and 1191a of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
 
 Amendment by Pub. L. 104–191 applicable with respect to group health plans for plan years beginning after June 30, 1997, except as otherwise provided, see section 101(g) of Pub. L. 104–191, set out as an Effective Date note under section 1181 of this title.
 

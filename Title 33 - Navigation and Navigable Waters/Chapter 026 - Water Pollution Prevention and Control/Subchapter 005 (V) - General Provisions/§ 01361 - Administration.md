@@ -10,7 +10,7 @@ The Administrator, with the consent of the head of any other agency of the Unite
 
 #### (c) Recordkeeping
 
-Each recipient of financial assistance under this chapter shall keep such records as the Administrator shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portionof the cost of the project or undertaking supplied by other sources, and such other records as will facilitate effective audit.
+Each recipient of financial assistance under this chapter shall keep such records as the Administrator shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate effective audit.
 
 #### (d) Audit
 
@@ -18,7 +18,7 @@ The Administrator and the Comptroller General of the United States, or any of th
 
 #### (e) Awards for outstanding technological achievement or innovative processes, methods, or devices in waste treatment and pollution abatement programs
 
-(1) It is the purpose of this subsection to authorize a program which will provide official recognition by the United States Government to those industrial organizations and political subdivisions of States which during the preceding year demonstrated an outstanding technological achievement or an innovative process, method, or device in their waste treatment and pollution abatement programs. The Administrator shall, in consultation with the appropriate State water pollution control agencies, establish regulations under which such recognition may be applied for and granted, except that no applicant shall be eligible for an award under this subsection if such applicant is not in total compliance with all applicable water quality requirements under this chapter, or otherwise does not have a satisfactory record with respect to environmental quality.
+(1) It is the purpose of this subsection to authorize a program which will provide official recognition by the United States Government to those industrial organizations and political subdivisions of States which during the precedingyear demonstrated an outstanding technological achievement or an innovative process, method, or device in their waste treatment and pollution abatement programs. The Administrator shall, in consultation with the appropriate State water pollution control agencies, establish regulations under which such recognition may be applied for and granted, except that no applicant shall be eligible for an award under this subsection if such applicant is not in total compliance with all applicable water quality requirements under this chapter, or otherwise does not have a satisfactory record with respect to environmental quality.
 
 (2) The Administrator shall award a certificate or plaque of suitable design to each industrial organization or political subdivision which qualifies for such recognition under regulations established under this subsection.
 

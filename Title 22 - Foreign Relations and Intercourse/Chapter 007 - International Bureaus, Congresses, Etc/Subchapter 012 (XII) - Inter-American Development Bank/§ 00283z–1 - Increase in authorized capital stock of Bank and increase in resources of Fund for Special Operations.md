@@ -2,7 +2,7 @@
 
 #### (a) United States share
 
-The United States Governor of the Bank is authorized to vote for two resolutions which were proposed by the Governors at a special meeting in December 1978 and are pending before the Board of Governors of the Bank. These resolutions provide for (1) an increase in the authorized capital stock of the Bank and additional subscriptions thereto, and (2) an increase in the resources of the Fund for Special Operations and contributions thereto. Upon adoption of these resolutions, the United States Governor is authorized on behalf of the United States (A) to subscribe to two hundred twenty-seven thousand eight hundred and ninety-six shares of the increase in the authorized capital stock of the Bank, of which two hundred ten thousand eight hundred and four shall be callable and seventeen thousand and ninety-two shall be paid-in, and (B) to contribute to the Fund for Special Operations $630,000,000; except that any commitment to make such subscriptions to paid-in and callable capital stock and to make such contributions to the Fund for Special Operations shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+The United States Governor of the Bank is authorized to vote for two resolutions which were proposed by the Governors at a special meeting in December 1978 and are pending before the Board of Governors of the Bank. These resolutions provide for (1) an increase in the authorized capital stock of the Bank and additionalsubscriptions thereto, and (2) an increase in the resources of the Fund for Special Operations and contributions thereto. Upon adoption of these resolutions, the United States Governor is authorized on behalf of the United States (A) to subscribe to two hundred twenty-seven thousand eight hundred and ninety-six shares of the increase in the authorized capital stock of the Bank, of which two hundred ten thousand eight hundred and four shall be callable and seventeen thousand and ninety-two shall be paid-in, and (B) to contribute to the Fund for Special Operations $630,000,000; except that any commitment to make such subscriptions to paid-in and callable capital stock and to make such contributions to the Fund for Special Operations shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (b) Authorization of appropriations
 
@@ -28,7 +28,7 @@ None of the funds authorized to be appropriated by this section may be used for 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct.1, 1981, see section 1372 of Pub. L. 97–35, set out as an Effective Date note under section 290i of this title.
+Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as an Effective Date note under section 290i of this title.
 
 #### Section Referred to in Other Sections
 

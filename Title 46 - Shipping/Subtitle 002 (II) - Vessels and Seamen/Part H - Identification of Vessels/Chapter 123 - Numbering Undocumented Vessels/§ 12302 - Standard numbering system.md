@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 46:1467
 
-Section 12302 provides for a standard numbering system for undocumented vessels and for approval of Statenumbering systems by the Secretary. It also requires that a State, when implementing its numbering system, adopt any relevant terms required by the Secretary. In States without approved numbering systems, the Federal Government issues the numbers. This section also provides for the operation of a vessel in a State other than the one in which it was numbered.
+Section 12302 provides for a standard numbering system for undocumented vessels and for approval of State numbering systems by the Secretary. It also requires that a State, when implementing its numbering system, adopt any relevant terms required by the Secretary. In States without approved numbering systems, the Federal Government issues the numbers. This section also provides for the operation of a vessel in a State other than the one in which it was numbered.
 

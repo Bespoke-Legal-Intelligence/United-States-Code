@@ -74,7 +74,7 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (B) Annual average wages per employee
 
-&emsp;&emsp;For purposes of subparagraph (A), the “annual average wages per employee” for a State, or for all the States, for a fiscal year is equal to the average of the annual wages per employee for the State or for the 50 States and the District of Columbia for employees in the health services industry (SIC code 8000), as reported by the Bureau of Labor Statistics of the Department of Labor for each of the most recent 3 years before the beginning of the calendar year in which such fiscal year begins.
+&emsp;&emsp;For purposes of subparagraph (A), the “annual average wages per employee” for a State, or for all the States, for a fiscal year is equal to the average of the annual wages per employee for the State or for the 50 States and the District of Columbia for employees in the health services industry (SIC code 8000), as reported by the Bureau ofLabor Statistics of the Department of Labor for each of the most recent 3 years before the beginning of the calendar year in which such fiscal year begins.
 
 #### (4) Floors and ceilings in State allotments
 
@@ -118,7 +118,7 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (i) Proportion of allotment
 
-&emsp;&emsp;&emsp;The term “proportion” means, with respect to the allotment of a subsection (b)State for a fiscal year, the amount of the allotment of such State under this subsection for the fiscal year divided by the total of the amount available under this subsection for all such allotments for the fiscal year.
+&emsp;&emsp;&emsp;The term “proportion” means, with respect to the allotment of a subsection (b) State for a fiscal year, the amount of the allotment of such State under this subsection for the fiscal year divided by the total of the amount available under this subsection for all such allotments for the fiscal year.
 
 #### (ii) Subsection (b) State
 
@@ -172,7 +172,7 @@ For the purpose of providing allotments to States under this section, there is a
 
 #### (e) 3-year availability of amounts allotted
 
-Amounts allotted to a State pursuant to this section for a fiscal year shall remain available for expenditure by the State through the end of the second succeeding fiscal year; except that amounts reallotted to a State under subsection (f) of this section shall be available for expenditure by the State through the end of the fiscal year in which they are reallotted.
+Amounts allotted to a State pursuant to this section for a fiscal year shall remain available for expenditure by the State through the end ofthe second succeeding fiscal year; except that amounts reallotted to a State under subsection (f) of this section shall be available for expenditure by the State through the end of the fiscal year in which they are reallotted.
 
 #### (f) Procedure for redistribution of unused allotments
 
@@ -238,7 +238,7 @@ The Secretary shall determine an appropriate procedure for redistribution of all
 
 &emsp;For purposes of calculating the amounts described in paragraphs (1) and (2) relating to the allotment for fiscal year 1998 or fiscal year 1999, the Secretary shall use the amounts reported by the States not later than December 15, 2000, or November 30, 2001, respectively, on HCFA Form 64 or HCFA Form 21, as approved by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I,§162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) \[title VII, §706\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§701(a), 702, 705(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §§801(a), 802(b), (d)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581.)
 
 #### Amendments
 
@@ -304,7 +304,7 @@ Pub. L. 106–554, §1(a)(6) \[title VIII, §802(c)\], Dec. 21, 2000, 114 Stat. 
 
 #### Determination of Number of Children and State Cost Factors for Fiscal Years 1998 and 1999
 
-Pub. L. 105–277, div. A, §101(f) \[title VII, §707\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that: “Notwithstanding any other provision of law, for purposes of determining the product under section 2104(b)(1)(A) of the Social Security Act (42 U.S.C. 1397dd(b)(1)(A)) for a State for each of fiscal years 1998 and 1999—
+Pub. L. 105–277, div. A, §101(f) \[title VII, §707\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that: “Notwithstanding any other provision of law, for purposesof determining the product under section 2104(b)(1)(A) of the Social Security Act (42 U.S.C. 1397dd(b)(1)(A)) for a State for each of fiscal years 1998 and 1999—
 
 &emsp;“(1) the number of children under clause (i) of such section shall be the number of low-income children specified for the State in Column B of the table on pages 48101–48102 of the Federal Register published on September 12, 1997, adjusted by the Census Bureau as necessary to treat children as being without health insurance if they have access to health care funded by the Indian Health Service but do not have health insurance; and
 

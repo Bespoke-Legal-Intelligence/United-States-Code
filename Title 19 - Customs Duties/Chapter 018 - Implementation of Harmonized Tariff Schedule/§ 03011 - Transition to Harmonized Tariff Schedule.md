@@ -18,7 +18,7 @@
 
 #### (c) Import restrictions under Agricultural Adjustment Act
 
-(1) Whenever the President determines that the conversion of an import restriction proclaimed under section 22 of the Agricultural Adjustment Act (7 U.S.C. 624) from part 3 of the Appendix to the old Schedules to subchapter IV of chapter 99 of the Harmonized Tariff Schedule results in—
+(1) Whenever the President determines that the conversion of an import restriction proclaimed under section 22 of the Agricultural Adjustment Act (7 U.S.C. 624) from part 3 of the Appendix to the old Schedules to subchapter IVof chapter 99 of the Harmonized Tariff Schedule results in—
 
 &emsp;(A) an article that was previously subject to the restriction being excluded from the restriction; or
 

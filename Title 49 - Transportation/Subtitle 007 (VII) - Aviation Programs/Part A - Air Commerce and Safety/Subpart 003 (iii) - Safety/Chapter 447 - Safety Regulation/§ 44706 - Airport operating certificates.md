@@ -26,7 +26,7 @@ Exemptions.—The Administrator may exempt from the requirements of this section
 
 (d)
 
-Commuter Airports.—In developing the terms required by subsection (b) for airports covered by subsection (a)(2), the Administrator shall identify and consider a reasonable number of regulatory alternatives and select from such alternatives the least costly, most cost-effective or the least burdensome alternative that will provide comparable safety at airports described in subsections (a)(1) and (a)(2).
+Commuter Airports.—In developing the terms required by subsection (b) for airportscovered by subsection (a)(2), the Administrator shall identify and consider a reasonable number of regulatory alternatives and select from such alternatives the least costly, most cost-effective or the least burdensome alternative that will provide comparable safety at airports described in subsections (a)(1) and (a)(2).
 
 (e)
 

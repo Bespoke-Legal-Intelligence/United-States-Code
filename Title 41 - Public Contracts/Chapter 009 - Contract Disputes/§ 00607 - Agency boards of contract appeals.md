@@ -46,7 +46,7 @@ The rules of each agency board shall include a procedure for the accelerated dis
 
 #### (h) Procedural guidelines
 
-Pursuant to the authority conferred under the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], the Administrator is authorized and directed, as may be necessary or desirable to carry out the provisions of this chapter, to issue guidelines with respect to criteria for the establishment, functions, and procedures of the agency boards (except for a board established by the Tennessee Valley Authority).
+Pursuant to the authority conferred under the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], the Administrator is authorized and directed, as may be necessary or desirable to carry out the provisions of this chapter,to issue guidelines with respect to criteria for the establishment, functions, and procedures of the agency boards (except for a board established by the Tennessee Valley Authority).
 
 (Pub. L. 95–563, §8, Nov. 1, 1978, 92 Stat. 2385; Pub. L. 97–164, title I, §§156, 160(a)(15), Apr. 2, 1982, 96 Stat. 47, 48; Pub. L. 101–509, title V, §529 \[title I, §104(d)(4)\], Nov. 5, 1990, 104 Stat. 1427, 1447; Pub. L. 101–552, §6(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–355, title II, §2351(c), Oct. 13, 1994, 108 Stat. 3322.)
 

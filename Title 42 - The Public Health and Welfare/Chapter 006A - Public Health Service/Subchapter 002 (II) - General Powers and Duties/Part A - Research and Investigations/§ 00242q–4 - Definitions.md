@@ -4,7 +4,7 @@ For purposes of sections 242q to 242q–5 of this title:
 
 #### (1) Aging research
 
-&emsp;(A) The term “aging research” means research on the aging process and on the diagnosis and treatment of diseases, disorders, and complications related to aging, including menopause. Such research includes research on such treatments, and on medical devices and other medical interventions regarding such diseases, disorders, and complications, that can assist individuals in avoiding institutionalization and prolonged hospitalization and in otherwise increasing the independence of the individuals.
+&emsp;(A) The term “aging research” means research on the aging process and on the diagnosis and treatment of diseases, disorders, and complications related to aging, including menopause. Such research includes research on such treatments, and on medical devicesand other medical interventions regarding such diseases, disorders, and complications, that can assist individuals in avoiding institutionalization and prolonged hospitalization and in otherwise increasing the independence of the individuals.
 
 &emsp;(B) For purposes of subparagraph (A), the term “independence”, with respect to diseases, disorders, and complications of aging, means the functional ability of individuals to perform activities of daily living or instrumental activities of daily living without assistance or supervision.
 

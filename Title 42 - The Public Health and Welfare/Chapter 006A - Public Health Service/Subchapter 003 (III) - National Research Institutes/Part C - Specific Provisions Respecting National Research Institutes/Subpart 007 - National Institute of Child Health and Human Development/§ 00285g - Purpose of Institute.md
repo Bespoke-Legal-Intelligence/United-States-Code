@@ -1,6 +1,6 @@
 ### §285g. Purpose of Institute
 
-The general purpose of the National Institute of Child Health and Human Development (hereafter in this subpart referred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to gynecologic health, maternal health, child health, mental retardation, human growth and development, including prenatal development, population research, and special health problems and requirements of mothers and children.
+The general purpose of the National Institute of Child Health and Human Development (hereafter in this subpart referred to as the “Institute”) is the conduct and support of research, training, health information dissemination, and other programs with respect to gynecologichealth, maternal health, child health, mental retardation, human growth and development, including prenatal development, population research, and special health problems and requirements of mothers and children.
 
 (July 1, 1944, ch. 373, title IV, §448, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 856; amended Pub. L. 106–554, §1(a)(1) \[title II, §215\], Dec. 21, 2000, 114 Stat. 2763, 2763A–28.)
 
@@ -22,7 +22,7 @@ In General.—The Director of the National Institute of Child Health and Human D
 
 &emsp;“(1) plan, develop, and implement a prospective cohort study, from birth to adulthood, to evaluate the effects of both chronic and intermittent exposures on child health and human development; and
 
-&emsp;“(2) investigate basic mechanisms of developmental disorders and environmental factors, both risk andprotective, that influence health and developmental processes.
+&emsp;“(2) investigate basic mechanisms of developmental disorders and environmental factors, both risk and protective, that influence health and developmental processes.
 
 “(c)
 

@@ -15,7 +15,7 @@
 
 #### Historical and Revision Notes
 
-Chapter 63 sets forth the scope and procedures for the investigation of marine casualties and incidents thatare required to be reported by Chapter 61, as well as the rights of parties involved in a casualty.
+Chapter 63 sets forth the scope and procedures for the investigation of marine casualties and incidents that are required to be reported by Chapter 61, as well as the rights of parties involved in a casualty.
 
 #### Amendments
 

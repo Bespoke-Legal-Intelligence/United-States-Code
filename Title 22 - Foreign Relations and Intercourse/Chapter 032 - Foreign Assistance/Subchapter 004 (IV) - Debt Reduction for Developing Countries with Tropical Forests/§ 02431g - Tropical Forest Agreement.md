@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of State is authorized, in consultation with other appropriate officials ofthe Federal Government, to enter into a Tropical Forest Agreement with any eligible country concerning the operation and use of the Fund for that country.
+&emsp;The Secretary of State is authorized, in consultation with other appropriate officials of the Federal Government, to enter into a Tropical Forest Agreement with any eligible country concerning the operation and use of the Fund for that country.
 
 #### (2) Consultation
 

@@ -26,7 +26,7 @@ False and incomplete information.—The filing of false or materially incomplete
 
 (b)
 
-Contents of Registration.—The registration of a money transmitting business undersubsection (a) shall include the following information:
+Contents of Registration.—The registration of a money transmitting business under subsection (a) shall include the following information:
 
 &emsp;(1) The name and location of the business.
 
@@ -68,7 +68,7 @@ Definitions.—For purposes of this section, the following definitions shall app
 
 Money transmitting business.—The term “money transmitting business” means any business other than the United States Postal Service which—
 
-&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers’ checks, and other similar instruments;
+&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers’ checks, and other similar instruments or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;; <sup>1</sup>
 
 &emsp;&emsp;(B) is required to file reports under section 5313; and
 
@@ -94,13 +94,21 @@ Continuing violation.—Each day a violation described in paragraph (1) continue
 
 Assessments.—Any penalty imposed under this subsection shall be assessed and collected by the Secretary of the Treasury in the manner provided in section 5321 and any such assessment shall be subject to the provisions of such section.
 
-(Added Pub. L. 103–325, title IV, §408(b), Sept. 23, 1994, 108 Stat. 2250.)
+(Added Pub. L. 103–325, title IV, §408(b), Sept. 23, 1994, 108 Stat. 2250; amended Pub. L. 107–56, title III, §359(b), Oct. 26, 2001, 115 Stat. 328.)
 
 #### References in Text
 
 The date of enactment of the Money Laundering Suppression Act of 1994, referred to in subsec. (a)(1)(A), is the date of enactment of title IV of Pub. L. 103–325, which was approved Sept. 23, 1994.
 
 Section 19(b)(1)(C) of the Federal Reserve Act, referred to in subsec. (b)(3), is classified to section 461(b)(1)(C) of Title 12, Banks and Banking.
+
+#### Amendments
+
+2001—Subsec. (d)(1)(A). Pub. L. 107–56 inserted before semicolon “or any other person who engages as a business in the transmission of funds, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;”.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of this title.
 
 #### Findings and Purposes
 
@@ -127,4 +135,6 @@ Purpose.—It is the purpose of this section \[enacting this section and amendin
 #### Section Referred to in Other Sections
 
 This section is referred to in title 18 section 1960.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

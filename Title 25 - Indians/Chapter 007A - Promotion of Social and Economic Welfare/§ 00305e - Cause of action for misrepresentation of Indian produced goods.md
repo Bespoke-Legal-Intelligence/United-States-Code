@@ -70,7 +70,7 @@ This Act, referred to in subsec. (f), is act Aug. 27, 1935, ch. 748, 49 Stat. 89
 
 #### Prior Provisions
 
-A prior section, act Aug. 27, 1935, ch. 748, §6, 49 Stat. 893, related to offering for sale without trade mark goods as Indian goods, prior to repeal by acts June 25, 1948, ch. 645, §21, 62 Stat. 862; June 25, 1948, ch. 646, §39, 62 Stat. 992, effective Sept. 1, 1948. See section 1159 of Title 18, Crimes and Criminal Procedure.
+A prior section, act Aug. 27, 1935, ch. 748, §6, 49 Stat. 893, related to offering for sale without trade markgoods as Indian goods, prior to repeal by acts June 25, 1948, ch. 645, §21, 62 Stat. 862; June 25, 1948, ch. 646, §39, 62 Stat. 992, effective Sept. 1, 1948. See section 1159 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
 

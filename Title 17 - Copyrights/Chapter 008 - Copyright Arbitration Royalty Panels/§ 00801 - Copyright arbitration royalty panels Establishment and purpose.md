@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Librarian of Congress, upon the recommendation of the Registerof Copyrights, is authorized to appoint and convene copyright arbitration royalty panels.
+Establishment.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, is authorized to appoint and convene copyright arbitration royalty panels.
 
 (b)
 
@@ -120,7 +120,7 @@ In General.—This Act \[see Short Title of 1993 Amendment note set out under se
 
 “(b)
 
-Effectiveness of Existing Rates and Distributions.—All royalty rates and all determinations with respect to the proportionate division of compulsory license fees among copyright claimants, whether made by the Copyright Royalty Tribunal, or by voluntary agreement, before the effective date set forth in subsection (a) shall remain in effect until modified by voluntary agreement or pursuant to the amendments made by this Act.
+Effectiveness of Existing Rates and Distributions.—All royalty rates and all determinations with respect to the proportionate division of compulsory license fees among copyright claimants, whether made by the Copyright Royalty Tribunal, or by voluntaryagreement, before the effective date set forth in subsection (a) shall remain in effect until modified by voluntary agreement or pursuant to the amendments made by this Act.
 
 “(c)
 

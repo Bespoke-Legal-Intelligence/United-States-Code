@@ -22,7 +22,7 @@ The Director shall assign volunteers to projects and programs that meet the anti
 
 &emsp;(C) projects and programs focusing on providing literacy services to high risk populations;
 
-&emsp;(D) projects and programs operating in areas with the highest concentration of individuals and families living at or below the poverty level;
+&emsp;(D) projects and programs operating in areas with the highest concentration of individualsand families living at or below the poverty level;
 
 &emsp;(E) projects and programs providing literacy services to parents of disadvantaged children between the ages of two and eight, who may be educationally at risk; and
 

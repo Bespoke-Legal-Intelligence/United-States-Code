@@ -6,7 +6,7 @@ If there is a default by the borrower, as defined in regulations promulgated by 
 
 #### (b) Rights and authorities of Secretary of Energy upon payment
 
-If the Secretary of Energy makes a payment under subsection (a) of this subsection, the Secretary of Energy shall be subrogated to the rights of the recipient of such payment as specified in the guarantee or related agreements including, where appropriate, the authority (notwithstanding any other provision of law) to complete, maintain, operate, lease, or otherwise dispose of any property acquired pursuant to such guarantee or related agreements, or to permit the borrower, pursuant to an agreement with the Secretary of Energy, to continue to pursue the purposes of the project if the Secretary of Energy determines this to be in the public interest. The rights of the Secretary of Energy with respect to any property acquired pursuant to such guarantee or related agreements, shall be superior to the rights of any other person with respect to such property.
+If the Secretary of Energy makes a payment under subsection (a) of this subsection,<sup>1</sup> the Secretary of Energy shall be subrogated to the rights of the recipient of such payment as specified in the guarantee or related agreements including, where appropriate, the authority (notwithstanding any other provision of law) to complete, maintain, operate, lease, or otherwise dispose of any property acquired pursuant to such guarantee or related agreements, or to permit the borrower, pursuant to an agreement with the Secretary of Energy, to continue topursue the purposes of the project if the Secretary of Energy determines this to be in the public interest. The rights of the Secretary of Energy with respect to any property acquired pursuant to such guarantee or related agreements, shall be superior to the rights of any other person with respect to such property.
 
 #### (c) Rights and authorities of Attorney General upon default on any guarantee
 
@@ -14,7 +14,7 @@ In the event of a default on any guarantee under this subchapter, the Secretary 
 
 #### (d) Contracts to pay, and payment, from Geothermal Resources Development Fund of principal and interest of unpaid balance of obligation; preconditions
 
-With respect to any obligation guaranteed under this subchapter, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, holders of the obligation, for and onbehalf of the borrower, from the Geothermal Resources Development Fund, the principal and interest payments which become due and payable on the unpaid balance of such obligation if the Secretary of Energy finds that—
+With respect to any obligation guaranteed under this subchapter, the Secretary of Energy is authorized to enter into a contract to pay, and to pay, holders of the obligation, for and on behalf of the borrower, from the Geothermal Resources Development Fund, the principal and interest payments which become due and payable on the unpaid balance of such obligation if the Secretary of Energy finds that—
 
 &emsp;(1) the borrower is unable to meet such payments and is not in default; it is in the public interest to permit the borrower to continue to pursue the purposes of such project; and the probable net benefit to the Federal Government in paying such principal and interest will be greater than that which would result in the event of a default;
 
@@ -39,4 +39,6 @@ Subsecs. (c), (d). Pub. L. 95–238 added subsecs. (c) and (d).
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1145 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “this section,”.</i>
 

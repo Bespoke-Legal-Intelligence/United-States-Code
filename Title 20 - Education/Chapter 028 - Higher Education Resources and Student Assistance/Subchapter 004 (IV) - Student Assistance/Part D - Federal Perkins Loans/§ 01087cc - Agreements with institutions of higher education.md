@@ -54,7 +54,7 @@ An agreement with any institution of higher education for the payment of Federal
 
 #### (b) Administrative expenses
 
-An institution which has entered into an agreement under subsection (a) of this section shall be entitled, for each fiscal year during which it makes student loans from a student loan fund established under such agreement, to a payment in lieu of reimbursement for its expenses in administering its student loan program under this part during such year. Such payment shall be made in accordance with section 1096 of this title.
+An institution which has entered into an agreement under subsection (a) of this section shall be entitled, for each fiscal year during which it makes student loans from a studentloan fund established under such agreement, to a payment in lieu of reimbursement for its expenses in administering its student loan program under this part during such year. Such payment shall be made in accordance with section 1096 of this title.
 
 #### (c) Cooperative agreements with credit bureau organizations
 
@@ -110,7 +110,7 @@ A prior section 1087cc, Pub. L. 89–329, title IV, §463, as added Pub. L. 92�
 
 &emsp;“(ii) by any other institution, in an amount not less than three-seventeenths of such Federal capital contribution in fiscal year 1993, and one-third of such Federal capital contribution in each of the succeeding fiscal years, of the amount of the Federal capital contributions described in subparagraph (A);”.
 
-Subsec. (a)(4) to (10). Pub. L. 105–244, §463(a)(2), (3), redesignated pars. (5) to (10) as (4) to (9), respectively, and struck out former par. (4) which read as follows: “provide that where a note or written agreement evidencing a note has been in default for (A) 120 days, in the case of a loan which is repayable in monthly installments, or (B) 180 days, in the case of a loan which is repayable in less frequent installments, notice of such default shall be given to the Secretary in an annual report describing the total number of loans from such fund which are in such default;”.
+Subsec. (a)(4) to (10). Pub. L. 105–244, §463(a)(2), (3), redesignated pars. (5) to (10) as (4) to (9), respectively, and struck out former par. (4) which read as follows: “provide that where a note or written agreement evidencinga note has been in default for (A) 120 days, in the case of a loan which is repayable in monthly installments, or (B) 180 days, in the case of a loan which is repayable in less frequent installments, notice of such default shall be given to the Secretary in an annual report describing the total number of loans from such fund which are in such default;”.
 
 Subsec. (c)(1). Pub. L. 105–244, §463(b)(1), substituted “the Secretary and each institution of higher education participating in the program under this part shall” for “the Secretary shall” and inserted “and regarding loans held by the Secretary or an institution” after “section 1087gg of this title”.
 

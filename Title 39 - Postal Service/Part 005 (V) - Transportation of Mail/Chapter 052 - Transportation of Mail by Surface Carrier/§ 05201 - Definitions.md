@@ -52,7 +52,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1986 Amendment
 
-Section 15 of Pub. L. 99–521 provided that: “This Act \[see Tables for classification\] shall take effect sixty days after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Section 15 of Pub. L. 99–521 provided that: “This Act \[see Tables for classification\] shall take effect sixtydays after the date of the enactment of this Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1982 Amendment
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 97–261 effective on 60th day after Sept. 20, 1982, see se
 
 #### Effective Date
 
-Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) ofPub. L. 91–375, set out as a note preceding section 101 of this title.
+Chapter effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
 #### Section Referred to in Other Sections
 

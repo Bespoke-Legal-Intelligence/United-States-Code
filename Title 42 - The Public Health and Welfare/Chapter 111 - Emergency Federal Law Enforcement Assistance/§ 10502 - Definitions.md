@@ -44,7 +44,7 @@ For purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this subdivision” probably meaning subtitle B (that probably should have been designated “subdivision” B) of division I of chapter VI of title II of Pub. L. 98–473, which enacted this chapter.
+This chapter, referred to in text, was in the original “this subdivision” probably meaning subtitle B (thatprobably should have been designated “subdivision” B) of division I of chapter VI of title II of Pub. L. 98–473, which enacted this chapter.
 
 #### Termination of Trust Territory of the Pacific Islands
 

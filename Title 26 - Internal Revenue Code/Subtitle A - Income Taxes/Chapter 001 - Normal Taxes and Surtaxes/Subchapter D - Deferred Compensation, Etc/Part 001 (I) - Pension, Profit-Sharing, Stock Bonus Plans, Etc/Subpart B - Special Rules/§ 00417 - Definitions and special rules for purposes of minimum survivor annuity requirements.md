@@ -80,7 +80,7 @@
 
 &emsp;For purposes of this subsection, the term “applicable election period” means—
 
-&emsp;&emsp;(A) in the case of an election to waive the qualified joint and survivor annuity form of benefit, the 90-day period ending on the annuity starting date, or
+&emsp;&emsp;(A) in the case of an election to waive the qualified joint and survivor annuity form ofbenefit, the 90-day period ending on the annuity starting date, or
 
 &emsp;&emsp;(B) in the case of an election to waive the qualified preretirement survivor annuity, the period which begins on the first day of the plan year in which the participant attains age 35 and ends on the date of the participant's death.
 
@@ -316,7 +316,7 @@ Section 1451(c) of Pub. L. 104–188 provided that: “The amendments made by th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of this title.
+Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994,except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of this title.
 
 #### Effective Date of 1989 Amendment
 

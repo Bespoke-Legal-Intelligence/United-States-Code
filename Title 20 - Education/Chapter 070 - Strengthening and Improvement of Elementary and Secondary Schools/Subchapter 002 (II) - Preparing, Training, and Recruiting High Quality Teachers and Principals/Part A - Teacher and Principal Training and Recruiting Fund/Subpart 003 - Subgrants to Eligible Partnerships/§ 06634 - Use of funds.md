@@ -1,0 +1,30 @@
+### §6634. Use of funds
+
+#### (a) In general
+
+An eligible partnership that receives a subgrant under section 6632 of this title shall use the subgrant funds for—
+
+&emsp;(1) professional development activities in core academic subjects to ensure that—
+
+&emsp;&emsp;(A) teachers and highly qualified paraprofessionals, and, if appropriate, principals have subject matter knowledge in the academic subjects that the teachers teach, including the use of computer related technology to enhance student learning; and
+
+&emsp;&emsp;(B) principals have the instructional leadership skills that will help such principals work most effectively with teachers to help students master core academic subjects; and
+
+&emsp;(2) developing and providing assistance to local educational agencies and individuals who are teachers, highly qualified paraprofessionals, or principals of schools served by such agencies, for sustained, high-quality professional development activities that—
+
+&emsp;&emsp;(A) ensure that the individuals are able to use challenging State academic content standards and student academic achievement standards, and State assessments, to improve instructional practices and improve student academic achievement;
+
+&emsp;&emsp;(B) may include intensive programs designed to prepare such individuals who willreturn to a school to provide instruction related to the professional development described in subparagraph (A) to other such individuals within such school; and
+
+&emsp;&emsp;(C) may include activities of partnerships between one or more local educational agencies, one or more schools served by such local educational agencies, and one or more institutions of higher education for the purpose of improving teaching and learning at low-performing schools.
+
+#### (b) Coordination
+
+An eligible partnership that receives a subgrant to carry out this subpart and a grant under section 1023 of this title shall coordinate the activities carried out under this subpart and the activities carried out under that section 1023 of this title.
+
+(Pub. L. 89–10, title II, §2134, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1633.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6632 of this title.
+

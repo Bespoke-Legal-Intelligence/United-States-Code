@@ -16,7 +16,7 @@ Subject to section 9409 of this title, Lead State Agencies and Local Councils sh
 
 &emsp;(4) Developing linkages among early learning programs within a community and between early learning programs and health care services for young children.
 
-&emsp;(5) Increasing access to early learning opportunities for young children with special needs,including developmental delays, by facilitating coordination with other programs serving such young children.
+&emsp;(5) Increasing access to early learning opportunities for young children with special needs, including developmental delays, by facilitating coordination with other programs serving such young children.
 
 &emsp;(6) Increasing access to existing early learning programs by expanding the days or times that the young children are served, by expanding the number of young children served, or by improving the affordability of the programs for low-income families.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The aggregate amount of credits allowed by this subpart for the taxable year shall not exceed the excess (if any) of—
+&emsp;The aggregate amount of credits allowed by this subpart (other than sections 23, 24, and 25B) for the taxable year shall not exceed the excess (if any) of—
 
 &emsp;&emsp;(A) the taxpayer's regular tax liability for the taxable year, over
 
@@ -40,7 +40,7 @@ For purposes of this part—
 
 &emsp;&emsp;(D) section 143(m) (relating to recapture of proration of Federal subsidy from use of mortgage bonds and mortgage credit certificates),
 
-&emsp;&emsp;(E) section 530(d)(3) (relating to additional tax on certain distributions from education individual retirement accounts),
+&emsp;&emsp;(E) section 530(d)(3) (relating to additional tax on certain distributions from Coverdell education savings accounts),
 
 &emsp;&emsp;(F) section 531 (relating to accumulated earnings tax),
 
@@ -70,9 +70,21 @@ For purposes of this part—
 
 For purposes of this part, the term “tentative minimum tax” means the amount determined under section 55(b)(1).
 
-(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628.)
+(Added §25, renumbered §26, Pub. L. 98–369, div. A, title IV, §472, title VI, §612(a), July 18, 1984, 98 Stat. 827, 905; amended Pub. L. 99–499, title V, §516(b)(1)(A), Oct. 17, 1986, 100 Stat. 1770; Pub. L. 99–514, title II, §261(c), title VI, §632(c)(1), title VII, §701(c)(1), Oct. 22, 1986, 100 Stat. 2214, 2277, 2340; Pub. L. 100–647, title I, §§1006(t)(16)(C), 1007(g)(1), 1011A(c)(10), 1012(q)(8), title IV, §4005(g)(4), title V, §5012(b)(2), Nov. 10, 1988, 102 Stat. 3425, 3434, 3476, 3524, 3650, 3662; Pub. L. 101–239, title VII, §§7811(c)(1), (2), 7821(a)(4)(A), Dec. 19, 1989, 103 Stat. 2406, 2407, 2424; Pub. L. 104–188, title I, §1621(b)(1), Aug. 20, 1996, 110 Stat. 1866; Pub. L. 105–34, title II, §213(e)(1), title XVI, §1602(a)(1), Aug. 5, 1997, 111 Stat. 817, 1093; Pub. L. 105–277, div. J, title II, §2001(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(a), Dec. 17, 1999, 113 Stat. 1918; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628; Pub. L. 107–16, title II, §§201(b)(2)(D), 202(f)(2)(C), title VI, §618(b)(2)(C), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–22, §1(b)(2)(A), July 26, 2001, 115 Stat. 197.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+Subsec. (a)(1). Pub. L. 107–16, §§618(b)(2)(C), 901, temporarily substituted “, 24, and 25B” for “and 24” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§202(f)(2)(C), 901, temporarily substituted “sections 23 and 24” for “section 24” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Pub. L. 107–16, §§201(b)(2)(D), 901, temporarily inserted “(other than section 24)” after “this subpart” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(2)(E). Pub. L. 107–22 substituted “Coverdell education savings” for “education individual retirement”.
 
 <b>2000</b>—Subsec. (b)(2)(Q). Pub. L. 106–554 substituted “Archer MSA” for “medical savings account”.
 
@@ -112,7 +124,7 @@ Subsec. (b)(2)(L), (M). Pub. L. 101–239, §7811(c)(2), added subpars. (L) and 
 
 “(M) section 143(m) (relating to recapture of portion of federal subsidy from use of mortgage bonds and mortgage credit certificates).”
 
-Subsec. (b)(2)(N). Pub. L. 101–239, §7821(a)(4)(A), which directed amendment of subsec. (b)(2) of this section “as amended by section 11811” by adding subpar. (N), was executed as if it directed amendment of subsec. (b)(2) of this section “as amended by section 7811”, to reflect the probable intent of Congress and the renumbering of section 11811 of H.R. 3299 as section 7811 prior to the enactment of H.R. 3299 into law as Pub. L. 101–239.
+Subsec. (b)(2)(N). Pub. L. 101–239, §7821(a)(4)(A), which directed amendment of subsec. (b)(2) of this section “asamended by section 11811” by adding subpar. (N), was executed as if it directed amendment of subsec. (b)(2) of this section “as amended by section 7811”, to reflect the probable intent of Congress and the renumbering of section 11811 of H.R. 3299 as section 7811 prior to the enactment of H.R. 3299 into law as Pub. L. 101–239.
 
 <b>1988</b>—Subsec. (b)(2)(C). Pub. L. 100–647, §1011A(c)(10)(A), struck out “, (<i>o</i>)(2),” after “subsection (m)(5)(B)”.
 
@@ -145,6 +157,18 @@ Pub. L. 99–514, §261(c), added subpar. (I).
 Pub. L. 99–514, §701(c)(1)(B)(iv), added subpar. (J).
 
 Subsec. (c). Pub. L. 99–514, §701(c)(1)(C), amended subsec. (c) generally, substituting provisions relating to tentative minimum tax for provisions referring to section 55(c) of this title for similar rule for alternative minimum tax for taxpayers other than corporations.
+
+#### Effective and Termination Dates of 2001 Amendments
+
+Pub. L. 107–22, §1(c), July 26, 2001, 115 Stat. 197, provided that: “The amendments made by this section \[amending this section and sections 72, 135, 529, 530, 4973, 4975, and 6693 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 2001\].”
+
+Amendment by section 201(b)(2)(D) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 201(e)(2) of Pub. L. 107–16, set out as a note under section 24 of this title.
+
+Amendment by section 202(f)(2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
+
+Amendment by section 618(b)(2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as a note under section 24 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -182,7 +206,7 @@ Amendment by section 5012(b)(2) of Pub. L. 100–647 applicable to contracts ent
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 261(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 261(g) of Pub. L. 99–514, set out as an Effective Date note under section 7518 of this title.
+Amendment by section 261(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, seesection 261(g) of Pub. L. 99–514, set out as an Effective Date note under section 7518 of this title.
 
 Amendment by section 632(c)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in cases where the return for the taxable year is filed pursuant to an S election made after Dec. 31, 1986, see section 633(b) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 336 of this title.
 
@@ -206,5 +230,5 @@ Section 491(f)(5) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 23, 24, 25, 32, 39, 55, 163, 469, 901, 1397E, 1400C of this title.
+This section is referred to in sections 24, 25, 25B, 39, 55, 163, 469, 901, 1397E, 1400C, 6428 of this title.
 

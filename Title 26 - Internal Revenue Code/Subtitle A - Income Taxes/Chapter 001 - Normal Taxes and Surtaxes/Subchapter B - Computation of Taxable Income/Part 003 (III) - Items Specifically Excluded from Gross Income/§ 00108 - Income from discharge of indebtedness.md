@@ -80,7 +80,7 @@
 
 #### (B) Credit carryover reduction
 
-&emsp;&emsp;The reductions described in subparagraphs (B), (C), and (G) shall be 331/3 cents for eachdollar excluded by subsection (a). The reduction described in subparagraph (F) in any passive activity credit carryover shall be 331/3 cents for each dollar excluded by subsection (a).
+&emsp;&emsp;The reductions described in subparagraphs (B), (C), and (G) shall be 331/3 cents for each dollar excluded by subsection (a). The reduction described in subparagraph (F) in any passive activity credit carryover shall be 331/3 cents for each dollar excluded by subsection (a).
 
 #### (4) Ordering rules
 
@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The amount excluded from gross income under subparagraph (D) of subsection (a)(1) shall be applied to reduce the basis of the depreciable real property of the taxpayer.
+&emsp;&emsp;The amount excluded from gross income under subparagraph (D) of subsection (a)(1)shall be applied to reduce the basis of the depreciable real property of the taxpayer.
 
 #### (B) Cross reference
 
@@ -168,7 +168,7 @@
 
 #### (2) Title 11 case
 
-&emsp;For purposes of this section, the term “title 11 case” means a case under title 11 of theUnited States Code (relating to bankruptcy), but only if the taxpayer is under the jurisdiction of the court in such case and the discharge of indebtedness is granted by the court or is pursuant to a plan approved by the court.
+&emsp;For purposes of this section, the term “title 11 case” means a case under title 11 of the United States Code (relating to bankruptcy), but only if the taxpayer is under the jurisdiction of the court in such case and the discharge of indebtedness is granted by the court or is pursuant to a plan approved by the court.
 
 #### (3) Insolvent
 
@@ -200,7 +200,7 @@
 
 #### (8) Reductions of tax attributes in title 11 cases of individuals to be made by estate
 
-&emsp;In any case under chapter 7 or 11 of title 11 of the United States Code to which section 1398 applies, for purposes of paragraphs (1) and (5) of subsection (b) the estate (and not the individual) shall be treated as the taxpayer. The preceding sentence shall not apply for purposes of applying section 1017 to property transferred by the estate to the individual.
+&emsp;In any case under chapter 7 or 11 of title 11 of the United States Code to which section1398 applies, for purposes of paragraphs (1) and (5) of subsection (b) the estate (and not the individual) shall be treated as the taxpayer. The preceding sentence shall not apply for purposes of applying section 1017 to property transferred by the estate to the individual.
 
 #### (9) Time for making election, etc.
 
@@ -248,7 +248,7 @@ For purposes of this title—
 
 #### (C) Entities under common control treated as related
 
-&emsp;&emsp;For purposes of this paragraph, two entities which are treated as a single employerunder subsection (b) or (c) of section 414 shall be treated as bearing a relationship to each other which is described in section 267(b).
+&emsp;&emsp;For purposes of this paragraph, two entities which are treated as a single employer under subsection (b) or (c) of section 414 shall be treated as bearing a relationship to each other which is described in section 267(b).
 
 #### (5) Purchase-money debt reduction for solvent debtor treated as price reduction
 
@@ -290,7 +290,7 @@ For purposes of this title—
 
 &emsp;&emsp;&nbsp;shall be treated as an amount allowed as a deduction for depreciation, and
 
-&emsp;&emsp;&emsp;(iii) an exchange of such stock qualifying under section 354(a), 355(a), or 356(a) shall be treated as an exchange to which section 1245(b)(3) applies.
+&emsp;&emsp;&emsp;(iii) an exchange of such stock qualifying under section 354(a), 355(a), or 356(a) shallbe treated as an exchange to which section 1245(b)(3) applies.
 
 > &emsp;&emsp;The amount determined under clause (ii) shall be reduced by the amount (if any) included in the creditor's gross income on the exchange.
 
@@ -332,7 +332,7 @@ For purposes of this title—
 
 #### (1) In general
 
-&emsp;In the case of an individual, gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of any student loan if such discharge was pursuant to a provision of such loan underwhich all or part of the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain professions for any of a broad class of employers.
+&emsp;In the case of an individual, gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of any student loan if such discharge was pursuant to a provision of such loan under which all or part of the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain professions for any of a broad class of employers.
 
 #### (2) Student loan
 
@@ -404,7 +404,7 @@ For purposes of this title—
 
 &emsp;&emsp;For purposes of this paragraph, the adjusted basis of any qualified property and the amount of the adjusted tax attributes shall be determined after any reduction under subsection (b) by reason of amounts excluded from gross income under subsection (a)(1)(B).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2),title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 32; June 29, 1956, ch. 463, §5, 70 Stat. 403; Pub. L. 88–496, §1(a), June 8, 1960, 74 Stat. 164; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), 1951(b)(2)(A), Oct. 4, 1976, 90 Stat. 1834, 1836; Pub. L. 96–589, §2(a), Dec. 24, 1980, 94 Stat. 3389; Pub. L. 97–354, §3(e), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(h)(1), title III, §304(d), Jan. 12, 1983, 96 Stat. 2372, 2398; Pub. L. 98–369, div. A, title I, §59(a), (b)(1), title IV, §474(r)(5), title VII, §721(b)(2), title X, §1076(a), July 18, 1984, 98 Stat. 576, 839, 966, 1053; Pub. L. 99–514, title I, §104(b)(2), title II, §231(d)(3)(D), title IV, §405(a), title VI, §621(e)(1), title VIII, §§805(c)(2)–(4), 822(a), (b)(1)–(3), title XI, §1171(b)(4), title XVIII, §1847(b)(7), Oct. 22, 1986, 100 Stat. 2105, 2179, 2224, 2266, 2362, 2373, 2513, 2856; Pub. L. 100–647, title I, §1004(a)(1)–(4), (6), Nov. 10, 1988, 102 Stat. 3385, 3387; Pub. L. 101–508, title XI, §§11325(a)(1), (b), 11813(b)(6), Nov. 5, 1990, 104 Stat. 1388–466, 1388–551; Pub. L. 103–66, title XIII, §§13150(a)–(c)(5), 13226(a)(1), (2)(B), (b)(1)–(3), Aug. 10, 1993, 107 Stat. 446–448, 487, 488; Pub. L. 104–188, title I, §1703(n)(2), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title II, §225(a), Aug. 5, 1997, 111 Stat. 820; Pub. L. 105–206, title VI, §6004(f), July 22, 1998, 112 Stat. 795.)
 
 #### Amendments
 
@@ -664,7 +664,7 @@ Transitional rule.—The amendment made by subsection (a) shall not apply to the
 
 &emsp;“(A) pursuant to a written contract requiring such transfer which was binding on the corporation at all times on June 7, 1984, and at all times after such date but only if the transfer takes place before January 1, 1985, and only if the transferee held the debt at all times on June 7, 1984, or
 
-&emsp;“(B) pursuant to the exercise of an option to exchange debt for stock but only if such option was ineffect at all times on June 7, 1984, and at all times after such date and only if at all times on June 7, 1984, the option and the debt were held by the same person.
+&emsp;“(B) pursuant to the exercise of an option to exchange debt for stock but only if such option was in effect at all times on June 7, 1984, and at all times after such date and only if at all times on June 7, 1984, the option and the debt were held by the same person.
 
 “(3)
 
@@ -708,7 +708,7 @@ For Section 2
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by section 2 \[amending this section and sections 111, 118, 382, 703 and 1017 of this title\] shall apply to any transaction which occurs after December 31, 1980, other than a transaction which occurs in a proceeding in a bankruptcy case or similar judicial proceeding (or in a proceeding under the Bankruptcy Act) \[Title 11, Bankruptcy\] commencing on or before December 31, 1980.
+In general.—Except as provided in paragraph (2), the amendments made by section 2 \[amendingthis section and sections 111, 118, 382, 703 and 1017 of this title\] shall apply to any transaction which occurs after December 31, 1980, other than a transaction which occurs in a proceeding in a bankruptcy case or similar judicial proceeding (or in a proceeding under the Bankruptcy Act) \[Title 11, Bankruptcy\] commencing on or before December 31, 1980.
 
 &emsp;“(2)
 
@@ -839,6 +839,22 @@ Section 1(b) of Pub. L. 86–496 provided that: “The amendment made by subsect
 For provisions that nothing in amendment by section 11813 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
 
 Section 1951(b)(2)(B) of Pub. L. 94–455 provided that: “If any discharge, cancellation, or modification of indebtedness of a railroad corporation occurs in a taxable year beginning after December 31, 1976, pursuant to an order of a court in a proceeding referred to in section 108(b)(A) or (B) which commenced before January 1, 1960, then, notwithstanding the amendments made by subparagraph (A) \[amending this section\] the provisions of subsection (b) of section 108 shall be considered as not repealed with respect to such discharge, cancellation, or modification of indebtedness.”
+
+#### Exclusion of Certain Cancellations of Indebtedness
+
+Pub. L. 107–134, title I, §105, Jan. 23, 2002, 115 Stat. 2432, provided that:
+
+“(a)
+
+In General.—For purposes of the Internal Revenue Code of 1986—
+
+&emsp;“(1) gross income shall not include any amount which (but for this section) would be includible in gross income by reason of the discharge (in whole or in part) of indebtedness of any taxpayer if the discharge is by reason of the death of an individual incurred as the result of the terrorist attacks against the United States on September 11, 2001, or as the result of illness incurred as a result of an attack involving anthrax occurring on or after September 11, 2001, and before January 1, 2002; and
+
+&emsp;“(2) return requirements under section 6050P of such Code shall not apply to any discharge described in paragraph (1).
+
+“(b)
+
+Effective Date.—This section shall apply to discharges made on or after September 11, 2001, and before January 1, 2002.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -234,7 +234,7 @@ Subsec. (e). Pub. L. 98–369, §82(a), added subsec. (e).
 
 Subsec. (d). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, this section is amended by adding subsec. (d) relating to coordination with withholding on interest and dividends. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 (this title) shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, this section is amended by adding subsec. (d) relating to coordination with withholding on interest and dividends. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 (this title) shall be applied and administered (subject to certainexceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 <b>1981</b>—Subsec. (a)(7). Pub. L. 97–34, §301(b)(6)(A), inserted reference to “interest” in heading and text, which continued the amendment made by Pub. L. 96–223.
 
@@ -340,7 +340,7 @@ Amendment by Pub. L. 96–223 applicable with respect to taxable years beginning
 
 #### Effective Date of 1976 Amendment
 
-For effective date of amendment by section 1013(e)(2) of Pub. L. 94–455, see section 1013(f)(1) of Pub. L. 94–455, set out as an Effective Date note under section 679 of this title.
+For effective date of amendment by section 1013(e)(2) of Pub. L. 94–455, see section 1013(f)(1) of Pub. L. 94–455,set out as an Effective Date note under section 679 of this title.
 
 Section 1013(f)(2) of Pub. L. 94–455 provided that: “The amendments made by subsection (c) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.”
 
@@ -352,7 +352,7 @@ Section 7(j) of Pub. L. 87–834 provided that: “The amendments made by this s
 
 Section 1018(e) of Pub. L. 100–647 provided that: “If—
 
-&emsp;“(1) on a return for the 1st taxable year of the trusts involved beginning after March 1, 1984, 2 ormore trusts were treated as a single trust for purposes of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\],
+&emsp;“(1) on a return for the 1st taxable year of the trusts involved beginning after March 1, 1984, 2 or more trusts were treated as a single trust for purposes of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\],
 
 &emsp;“(2) such trusts would have been required to be so treated but for the amendment made by section 1806(b) of the Reform Act \[Pub. L. 99–514, which amended provisions set out as an Effective Date of 1984 Amendment note above\], and
 
@@ -366,5 +366,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 665, 679, 1361, 2056A, 6166, 7872 of this title.
+This section is referred to in sections 646, 665, 679, 1361, 2056A, 6166, 7872 of this title.
 

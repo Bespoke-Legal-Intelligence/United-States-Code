@@ -4,7 +4,7 @@
 
 &emsp;(1) shall be returned and actually presented to the grand jury unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.; <sup>1</sup>
 
-&emsp;(2) shall be used only for the purpose of considering whether to issue an indictment or presentment by that grand jury, or of prosecuting a crime for which that indictment or presentment is issued, or for a purpose authorized by rule 6(e) of the Federal Rules of Criminal Procedure;
+&emsp;(2) shall be used only for the purpose of considering whether to issue an indictment or presentment by that grand jury, or of prosecuting a crime for which that indictment or presentment is issued, or for a purpose authorized by rule 6(e) of the Federal Rules of Criminal Procedure, or for a purpose authorized by section 3412(a) of this title;
 
 &emsp;(3) shall be destroyed or returned to the financial institution if not used for one of the purposes specified in paragraph (2); and
 
@@ -20,7 +20,7 @@
 
 (2) Section 1818 of this title and section 1786(k)(2) of this title shall apply to any violation of this subsection.
 
-(Pub. L. 95–630, title XI, §1120, Nov. 10, 1978, 92 Stat. 3709; Pub. L. 100–690, title VI, §6186(e), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §943, Aug. 9, 1989, 103 Stat. 497; Pub. L. 102–550, title XV, §1532, Oct. 28, 1992, 106 Stat. 4066.)
+(Pub. L. 95–630, title XI, §1120, Nov. 10, 1978, 92 Stat. 3709; Pub. L. 100–690, title VI, §6186(e), Nov. 18, 1988, 102 Stat. 4358; Pub. L. 101–73, title IX, §943, Aug. 9, 1989, 103 Stat. 497; Pub. L. 102–550, title XV, §1532, Oct. 28, 1992, 106 Stat. 4066; Pub. L. 107–56, title III, §358(f)(3), Oct. 26, 2001, 115 Stat. 327.)
 
 #### References in Text
 
@@ -32,11 +32,19 @@ The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A
 
 #### Amendments
 
+2001—Subsec. (a)(2). Pub. L. 107–56 inserted “, or for a purpose authorized by section 3412(a) of this title” before semicolon at end.
+
 1992—Subsec. (b)(1)(A). Pub. L. 102–550 inserted before semicolon “or crime involving a violation of the Controlled Substance Act, the Controlled Substances Import and Export Act, section 1956 or 1957 of title 18, sections 5313, 5316 and 5324 of title 31, or section 6050I of title 26”.
 
 1989—Pub. L. 101–73 designated existing provisions as subsec. (a) and added subsec. (b).
 
 1988—Par. (1). Pub. L. 100–690 inserted “unless the volume of such records makes such return and actual presentation impractical in which case the grand jury shall be provided with a description of the contents of the records.” before semicolon at end.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+
+Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
 
 #### Section Referred to in Other Sections
 

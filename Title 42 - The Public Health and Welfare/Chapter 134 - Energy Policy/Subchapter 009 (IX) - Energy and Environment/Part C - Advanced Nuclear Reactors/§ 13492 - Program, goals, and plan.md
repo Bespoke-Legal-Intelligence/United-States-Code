@@ -38,7 +38,7 @@ The goals of the program established under subsection (a) of this section shall 
 
 Within 180 days after October 24, 1992, the Secretary shall prepare and submit to the Congress a 5-year program plan to guide the activities under this section. The program plan shall include schedule milestones, Federal funding requirements, and non-Federal cost sharing requirements. In preparing the program plan, the Secretary shall take into consideration—
 
-&emsp;(1) the need for, and the potential for future adoption by electric utilities or other entities of, advanced nuclear reactor technologies that are available, under development, or have the potential for being developed, for the generation of energy from nuclear fission;
+&emsp;(1) the need for, and the potential for future adoption by electric utilities or other entities of, advanced nuclear reactor technologies that are available, under development, or have thepotential for being developed, for the generation of energy from nuclear fission;
 
 &emsp;(2) how the Federal Government, acting through the Secretary, can be effective in ensuring the availability of such technologies when they are needed;
 
@@ -52,7 +52,7 @@ Within 180 days after October 24, 1992, the Secretary shall prepare and submit t
 
 #### References in Text
 
-The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (a)(4), is Pub. L. 95–242, Mar. 10, 1978, 92 Stat.120, as amended, which is classified principally to chapter 47 (§3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
+The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (a)(4), is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, as amended, which is classified principally to chapter 47 (§3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
 
 #### Section Referred to in Other Sections
 

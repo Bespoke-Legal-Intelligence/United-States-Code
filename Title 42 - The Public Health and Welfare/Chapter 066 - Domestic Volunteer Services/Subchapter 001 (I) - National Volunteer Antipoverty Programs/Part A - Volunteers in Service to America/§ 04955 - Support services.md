@@ -4,7 +4,7 @@
 
 (1)(A) The Director may provide a stipend to volunteers, while they are in training and during their assignments, enrolled for periods of service of not less than one year under this part, except that the Director may, on an individual basis, make an exception to provide a stipend to a volunteer enrolled under this part for an extended period of service not totaling one year.
 
-(B) Such stipend shall not exceed $95 per month in fiscal year 1994, but shall be set at a minimum of $100 per month, and a maximum of $125 per month assuming the availability of funds to accomplish such maximum, during the service of the volunteer after October 1, 1994. The Director may provide a stipend of a maximum of $200 per month in the case of persons who have served as volunteers under this partfor at least 1 year and who, in accordance with standards established in such regulations as the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.
+(B) Such stipend shall not exceed $95 per month in fiscal year 1994, but shall be set at a minimum of $100 per month, and a maximum of $125 per month assuming the availability of funds to accomplish such maximum, during the service of the volunteer after October 1, 1994. The Director may provide a stipend of a maximum of $200 per month in the case of persons who have served as volunteers under this part for at least 1 year and who, in accordance with standards established in such regulations as the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.
 
 (C) The Director shall not provide a stipend under this subsection to an individual who elects to receive a national service educational award under subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
@@ -36,7 +36,7 @@
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(1)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D (§12601 et seq.) of subchapter I of chapter 129 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(1)(C), is Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D (§12601 et seq.) of subchapter I of chapter 129 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Amendments
 

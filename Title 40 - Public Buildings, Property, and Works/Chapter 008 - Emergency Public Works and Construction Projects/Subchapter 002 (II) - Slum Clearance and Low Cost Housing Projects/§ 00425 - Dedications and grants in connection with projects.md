@@ -1,6 +1,6 @@
 ### §425. Dedications and grants in connection with projects
 
-In connection with any low-cost housing or slum-clearance project described in section 421 of this title, the Administrator of General Services, with the approval of the President, is authorized to dedicate streets, alleys, and parks for public use, and to grant easements.
+In connection with any low-cost housing or slum-clearance project described in section 421of this title, the Administrator of General Services, with the approval of the President, is authorized to dedicate streets, alleys, and parks for public use, and to grant easements.
 
 (June 29, 1936, ch. 860, §5, 49 Stat. 2026; 1939 Reorg. Plan No. I, §§301, 305, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1428; Ex. Ord. No. 9357, eff. June 30, 1943, 8 F.R. 9041; June 30, 1949, ch. 288, title I, §103(a), 63 Stat. 380.)
 

@@ -6,7 +6,7 @@ There is created a Mutual Mortgage Insurance Fund (hereinafter referred to as th
 
 #### (b) Advisory Board
 
-There is created a Federal Housing Administration Advisory Board (“Board”) that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of theFederal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of the Federal Advisory Committee Act.
+There is created a Federal Housing Administration Advisory Board (“Board”) that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of the Federal Advisory Committee Act.
 
 &emsp;(1) The Advisory Board shall be composed of 15 members to be appointed from among individuals who have substantial expertise and broad experience in housing and mortgage lending of whom—
 
@@ -76,7 +76,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (A) Letter of reprimand
 
-&emsp;&emsp;The Board may issue a letter of reprimand only once to a mortgagee without taking action under subparagraphs <sup>2</sup> (B), (C), or (D) of this section. A letter of reprimand shall explain the violation and describe actions the mortgagee should take to correct the violation.
+&emsp;&emsp;The Board may issue a letter of reprimand only once to a mortgagee without taking action under subparagraphs <sup>2</sup> (B), (C), or (D) ofthis section. A letter of reprimand shall explain the violation and describe actions the mortgagee should take to correct the violation.
 
 #### (B) Probation
 
@@ -124,7 +124,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 #### (6) Cease-and-desist orders
 
-&emsp;(A) Whenever the Secretary, upon request of the Mortgagee Review Board, determines that there is reasonable cause to believe that a mortgagee is violating, has violated, or isabout to violate, a law, rule or regulation or any condition imposed in writing by the Secretary or the Board, and that such violation could result in significant cost to the Federal Government or the public, the Secretary may issue a temporary order requiring the mortgagee to cease and desist from any such violation and to take affirmative action to prevent such violation or a continuation of such violation pending completion of proceedings of the Board with respect to such violation. Such order shall include a notice of charges in respect thereof and shall become effective upon service to the mortgagee. Such order shall remain effective and enforceable for a period not to exceed 30 days pending the completion of proceedings of the Board with respect to such violation, unless such order is set aside, limited, or suspended by a court in proceedings authorized by subparagraph (B) of this paragraph. The Board shall provide the mortgagee an opportunity for a hearing on the record, as soon as practicable but not later than 20 days after the temporary cease-and-desist order has been served.
+&emsp;(A) Whenever the Secretary, upon request of the Mortgagee Review Board, determines that there is reasonable cause to believe that a mortgagee is violating, has violated, or is about to violate, a law, rule or regulation or any condition imposed in writing by the Secretary or the Board, and that such violation could result in significant cost to the Federal Government or the public, the Secretary may issue a temporary order requiring the mortgagee to cease and desist from any such violation and to take affirmative action to preventsuch violation or a continuation of such violation pending completion of proceedings of the Board with respect to such violation. Such order shall include a notice of charges in respect thereof and shall become effective upon service to the mortgagee. Such order shall remain effective and enforceable for a period not to exceed 30 days pending the completion of proceedings of the Board with respect to such violation, unless such order is set aside, limited, or suspended by a court in proceedings authorized by subparagraph (B) of this paragraph. The Board shall provide the mortgagee an opportunity for a hearing on the record, as soon as practicable but not later than 20 days after the temporary cease-and-desist order has been served.
 
 &emsp;(B) Within 10 days after the mortgagee has been served with a temporary cease-and-desist order, the mortgagee may apply to the United States district court for the judicial district in which the home office of the mortgagee is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting of suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the mortgagee, and such court shall have jurisdiction to issue such injunction.
 
@@ -178,7 +178,7 @@ There is created a Federal Housing Administration Advisory Board (“Board”) t
 
 Direct Endorsement Program.—
 
-&emsp;(A) Any mortgagee that is authorized by the Secretary to process mortgages as a direct endorsement mortgagee (pursuant to the single-family home mortgage direct endorsement program established by the Secretary) may contract with an appraiser chosen at the discretion of the mortgagee for the performance of appraisals in connection with such mortgages. Such appraisers may include appraisalcompanies organized as corporations, partnerships, or sole proprietorships.
+&emsp;(A) Any mortgagee that is authorized by the Secretary to process mortgages as a direct endorsement mortgagee (pursuant to the single-family home mortgage direct endorsement program established by the Secretary) may contract with an appraiser chosen at the discretion of the mortgagee for the performance of appraisals in connection with such mortgages. Such appraisers may include appraisal companies organized as corporations, partnerships, or sole proprietorships.
 
 &emsp;(B) Any appraisal conducted pursuant to subparagraph (A) shall be conducted by an individual who complies with the qualifications or standards for appraisers established by the Secretary pursuant to this subsection.
 
@@ -242,7 +242,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1709, 1735, 1735f–14 of this title.
+This section is referred to in sections 1709, 1735, 1735f–11, 1735f–14 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may establish a program to assist eligible members of thearmed forces to obtain employment with health care providers upon their discharge or release from active duty.
+Placement Program.—The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard, may establish a program to assist eligible members of the armed forces to obtain employment with health care providers upon their discharge or release from active duty.
 
 (b)
 

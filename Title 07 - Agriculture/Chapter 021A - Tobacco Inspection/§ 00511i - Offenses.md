@@ -10,7 +10,7 @@ It shall be unlawful—
 
 (d) For any person employed, designated, or licensed by the Secretary as an inspector, sampler, or weigher of tobacco under this chapter knowingly to inspect, sample, or weigh improperly, or to issue any false certificate under this chapter, or to accept money or other consideration, directly or indirectly, for any neglect or improper performance of duty as an inspector, sampler or weigher.
 
-(e) For any person improperly to influence or to attempt improperly to influence or forcibly to assault, resist, impede, or interfere with any inspector, sampler, weigher, or other person employed, designated, or licensed by the Secretary in the execution of his duties under this chapter: <i>Provided, however</i>, That nothing herein shall operate to prevent the owner of tobacco from appealing or protesting, in accordance with regulations of the Secretary, the grade certified for his tobacco.
+(e) For any person improperly to influence or to attempt improperly to influence or forciblyto assault, resist, impede, or interfere with any inspector, sampler, weigher, or other person employed, designated, or licensed by the Secretary in the execution of his duties under this chapter: <i>Provided, however</i>, That nothing herein shall operate to prevent the owner of tobacco from appealing or protesting, in accordance with regulations of the Secretary, the grade certified for his tobacco.
 
 (f) For any person falsely to represent or otherwise indicate that he is authorized by the Secretary to inspect, sample, or weigh tobacco under this chapter.
 

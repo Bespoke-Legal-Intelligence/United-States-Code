@@ -52,7 +52,7 @@ A prior section 4271, act Aug. 16, 1954, ch. 736, 68A Stat. 507, 508, related to
 
 #### Amendments
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–2 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The tax imposed by subsection (a) shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of theSmall Business Job Protection Act of 1996 and before January 1, 1997.”
+<b>1997</b>—Subsec. (d). Pub. L. 105–2 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The tax imposed by subsection (a) shall apply with respect to transportation beginning after August 31, 1982, and before January 1, 1996, and to transportation beginning on or after the date which is 7 calendar days after the date of the enactment of the Small Business Job Protection Act of 1996 and before January 1, 1997.”
 
 Subsec. (d)(1)(A)(ii). Pub. L. 105–34 substituted “September 30, 2007” for “September 30, 1997”.
 

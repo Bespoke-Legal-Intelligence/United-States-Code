@@ -48,7 +48,7 @@ The Director of the Peace Corps shall have the same authority as is available to
 
 #### (j) Malpractice protection
 
-The provisions of section 2702 of this title shall apply to volunteers and persons employed, appointed, or assigned under this chapter, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section..<sup>1</sup> For purposes of this subsection, references to the Secretary in subsection (b) of such section shall be deemed to be references to the Director of the Peace Corps, references to the Secretary in subsection (f) of such section shall be deemed to be references to the President, and the reference in subsection (g) of such section to a principal representative of the United States shall be deemed to be a reference to a Peace Corps representative.
+The provisions of section 2702 of this title shall apply to volunteers and persons employed, appointed, or assigned under this chapter, and to individuals employed under personal services contracts to furnish medical services abroadpursuant to subsection (a)(5) of this section..<sup>1</sup> For purposes of this subsection, references to the Secretary in subsection (b) of such section shall be deemed to be references to the Director of the Peace Corps, references to the Secretary in subsection (f) of such section shall be deemed to be references to the President, and the reference in subsection (g) of such section to a principal representative of the United States shall be deemed to be a reference to a Peace Corps representative.
 
 (Pub. L. 87–293, title I, §10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, §5, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, §2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, §5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, §604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, §602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, §2(b)(4), May 21, 1999, 113 Stat. 56.)
 
@@ -98,7 +98,7 @@ Section 604(c) of Pub. L. 97–113 provided: “To the extent that the authoriti
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 
-For determination under subsec. (d) of this section that it is in the furtherance of the purposes of thischapter and that the functions under this chapter may be performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
+For determination under subsec. (d) of this section that it is in the furtherance of the purposes of this chapter and that the functions under this chapter may be performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
 
 #### Section Referred to in Other Sections
 

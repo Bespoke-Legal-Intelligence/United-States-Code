@@ -12,7 +12,7 @@
 
 &emsp;(D) a rendition of a suspected terrorist from a foreign country to the United States to stand trial.
 
-(2) Department of Defense personnel made available to a civilian law enforcement agency under this subsection may operate equipment for the following purposes:
+(2) Department of Defense personnel made available to a civilian law enforcement agencyunder this subsection may operate equipment for the following purposes:
 
 &emsp;(A) Detection, monitoring, and communication of the movement of air and sea traffic.
 
@@ -118,7 +118,7 @@ Subsec. (d). Pub. L. 99–661 added subsec. (d).
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Counter-Drug Activities; Conditions on Transfers of Funds and Detailing Personnel; Relationship to Other Law
 
@@ -146,9 +146,11 @@ Relationship to Other Law.—A provision of law may not be construed as modifyin
 
 &emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of subsection (b) or (c), as the case may be.”
 
-Pub. L. 106–259, title VIII, §8062(a), Aug. 9, 2000, 114 Stat. 688, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 107–117, div. A, title VIII, §8063(a), Jan. 10, 2002, 115 Stat. 2261, provided that: “None of the funds available to the Department of Defense for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–259, title VIII, §8062(a), Aug. 9, 2000, 114 Stat. 688.
 
 Pub. L. 106–79, title VIII, §8065(a), Oct. 25, 1999, 113 Stat. 1244.
 
@@ -164,11 +166,11 @@ Pub. L. 103–335, title VIII, §8154(a), Sept. 30, 1994, 108 Stat. 2658.
 
 #### Additional Support for Counter-Drug Activities
 
-Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120, provided that:
+Pub. L. 101–510, div. A, title X, §1004, Nov. 5, 1990, 104 Stat. 1629, as amended by Pub. L. 102–190, div. A, title X, §1088(a), Dec. 5, 1991, 105 Stat. 1484; Pub. L. 102–484, div. A, title X, §1041(a)–(d)(1), Oct. 23, 1992, 106 Stat. 2491; Pub. L. 103–160, div. A, title XI, §1121(a), (b), Nov. 30, 1993, 107 Stat. 1753; Pub. L. 103–337, div. A, title X, §1011(a), Oct. 5, 1994, 108 Stat. 2836; Pub. L. 105–261, div. A, title X, §1021, Oct. 17, 1998, 112 Stat. 2120; Pub. L. 107–107, div. A, title X, §1021, Dec. 28, 2001, 115 Stat. 1212, provided that:
 
 “(a)
 
-Support to Other Agencies.—During fiscal years 1991 through 2002, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
+Support to Other Agencies.—During fiscal years 2002 through 2006, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
 
 &emsp;“(1) by the official who has responsibility for the counter-drug activities of the department or agency of the Federal Government, in the case of support for other departments or agencies of the Federal Government;
 
@@ -178,7 +180,7 @@ Support to Other Agencies.—During fiscal years 1991 through 2002, the Secretar
 
 “(b)
 
-Types of Support.—The purposes for which the Secretary may provide support under subsection (a) are the following:
+Types of Support.—The purposes for which the Secretary of Defense may provide support under subsection (a) are the following:
 
 &emsp;“(1) The maintenance and repair of equipment that has been made available to any department or agency of the Federal Government or to any State or local government by the Department of Defense for the purposes of—
 
@@ -186,7 +188,7 @@ Types of Support.—The purposes for which the Secretary may provide support und
 
 &emsp;&emsp;“(B) upgrading such equipment to ensure compatibility of that equipment with other equipment used by the Department of Defense.
 
-&emsp;“(2) The maintenance, repair, or upgrading of equipment (including computer software), other than equipment referred to in subparagraph (A) for the purpose of—
+&emsp;“(2) The maintenance, repair, or upgrading of equipment (including computer software), other than equipment referred to in paragraph (1) for the purpose of—
 
 &emsp;&emsp;“(A) ensuring that the equipment being maintained or repaired is compatible with equipment used by the Department of Defense; and
 
@@ -226,7 +228,7 @@ Limited Waiver of Prohibition.—Notwithstanding section 376 of title 10, United
 
 “(f)
 
-Conduct of Training or Operation to Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564) \[10 U.S.C. 124 note\]) for the purpose of aiding civilian law enforcement agencies.
+Conduct of Training or Operation To Aid Civilian Agencies.—In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Stat. 1564 \[10 U.S.C. 124 note\])) for the purpose of aiding civilian law enforcement agencies.
 
 “(g)
 
@@ -236,7 +238,7 @@ Relationship to Other Laws.—(1) The authority provided in this section for the
 
 “(h)
 
-Congressional Notification of Facilities Projects.—(1) When a decision is made to carry out a military construction project described in paragraph (2), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] written notice of the decision, including the justification for the project and the estimated cost of the project. The project may be commenced only after the end of the 21-day period beginning on the date on which the written notice is received by Congress.
+Congressional Notification of Facilities Projects.—(1) When a decision is made to carry out a military construction project described in paragraph (2), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] written notice of the decision, including the justification for the project and the estimated cost of the project. The project may be commenced only after the end of the 21-day period beginning on the date on which the written notice is received by Congress.
 
 “(2) Paragraph (1) applies to an unspecified minor military construction project that—
 

@@ -36,7 +36,7 @@ In awarding grants under this chapter, Local Councils shall give preference to s
 
 #### (1) Assessments
 
-&emsp;Based on information and data received from Local Councils, and information and dataavailable through State resources, the State shall biennially assess the needs and available resources related to the provision of early learning programs within the State.
+&emsp;Based on information and data received from Local Councils, and information and data available through State resources, the State shall biennially assess the needs and available resources related to the provision of early learning programs within the State.
 
 #### (2) Performance goals
 

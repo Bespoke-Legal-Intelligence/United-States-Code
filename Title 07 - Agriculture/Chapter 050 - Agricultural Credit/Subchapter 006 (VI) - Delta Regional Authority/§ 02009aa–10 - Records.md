@@ -18,7 +18,7 @@
 
 #### (2) Availability
 
-&emsp;All records required under paragraph (1) shall be available for audit by the Comptroller General of the United States, the Inspector General of the Department of Agriculture, and the Authority (including authorized representatives of the Comptroller General, the Inspector General of the Department of Agriculture, and the Authority).
+&emsp;All records required under paragraph (1) shall be available for audit by the ComptrollerGeneral of the United States, the Inspector General of the Department of Agriculture, and the Authority (including authorized representatives of the Comptroller General, the Inspector General of the Department of Agriculture, and the Authority).
 
 #### (c) Annual audit
 

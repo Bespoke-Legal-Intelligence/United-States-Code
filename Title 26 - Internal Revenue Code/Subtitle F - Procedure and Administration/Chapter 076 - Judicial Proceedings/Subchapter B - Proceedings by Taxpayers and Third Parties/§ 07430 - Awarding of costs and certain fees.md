@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraphs (1) and (2), fees for the services of an individual (whether or not an attorney) who is authorized to practice before the Tax Court or before the Internal Revenue Service shall be treated as fees for the services of an attorney.
+&emsp;&emsp;For purposes of paragraphs (1) and (2), fees for the services of an individual (whether ornot an attorney) who is authorized to practice before the Tax Court or before the Internal Revenue Service shall be treated as fees for the services of an attorney.
 
 #### (B) Pro bono services
 
@@ -228,9 +228,9 @@ For purposes of subsection (c)(4)—
 
 (Added Pub. L. 97–248, title II, §292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, §714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, §1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, §1015(i), title VI, §6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–168, title VII, §§701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, §1285(a)–(c), title XIV, §1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, §3101(a)–(e), title VI, §§6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, §1(a)(7) \[title III, §319(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
 
-#### Adjustment of Hourly Limit on Attorney Fees Awarded for Calendar Year 2001
+#### Adjustment of Hourly Limit on Attorney Fees Awarded for Calendar Year 2002
 
-<i>For adjustment of the hourly limit on attorney fees awarded under this section for cal</i><i>endar year 2001, see section 3.26 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of the hourly limit on attorney fees awarded under this section for cal</i><i>endar year 2002, see section 3.28 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 

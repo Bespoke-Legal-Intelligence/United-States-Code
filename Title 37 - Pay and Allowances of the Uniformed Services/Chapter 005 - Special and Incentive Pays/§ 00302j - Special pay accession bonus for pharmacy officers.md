@@ -38,7 +38,7 @@ The date of the enactment of the Floyd D. Spence National Defense Authorization 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 303a of this title.
+This section is referred to in sections 303a, 324 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be subsection “(d)”.</i>
 

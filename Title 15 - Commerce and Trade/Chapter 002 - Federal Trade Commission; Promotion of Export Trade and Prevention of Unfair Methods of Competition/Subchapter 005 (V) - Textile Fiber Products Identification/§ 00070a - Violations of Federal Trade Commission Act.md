@@ -22,7 +22,7 @@ This section shall not apply—
 
 &emsp;(3) with respect to the manufacture, delivery for transportation, transportation, sale, or offering for sale of a textile fiber product for exportation from the United States to any foreign country;
 
-&emsp;(4) to any publisher or other advertising agency or medium for the dissemination of advertising or promotional material, except the manufacturer, distributor, or seller of the textile fiber product to which the false or deceptive advertisement relates, if such publisher or other advertising agency or medium furnishes to the Commission, upon request, the name and post office address of the manufacturer,distributor, seller, or other person residing in the United States, who caused the dissemination of the advertising material; or
+&emsp;(4) to any publisher or other advertising agency or medium for the dissemination of advertising or promotional material, except the manufacturer, distributor, or seller of the textile fiber product to which the false or deceptive advertisement relates, if such publisher or other advertising agency or medium furnishes to the Commission, upon request, the name and post office address of the manufacturer, distributor, seller, or other person residing in the United States, who caused the dissemination of the advertising material; or
 
 &emsp;(5) to any textile fiber product until such product has been produced by the manufacturer or processor in the form intended for sale or delivery to, or for use by, the ultimate consumer: <i>Provided</i>, That this exemption shall apply only if such textile fiber product is covered by an invoice or other paper relating to the marketing or handling of the textile fiber product and such invoice or paper correctly discloses the information with respect to the textile fiber product which would otherwise be required under section 70b of this title to be on the stamp, tag, label, or other identification and the name and address of the person issuing the invoice or paper.
 
@@ -30,7 +30,7 @@ This section shall not apply—
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsecs. (a) to (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) to (c), is act Sept. 26, 1914, ch. 311, 38 Stat.717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -42,7 +42,7 @@ Other rights unaffected.—This paragraph does not alter or annul any right of r
 
 (d)(1) The Secretary may prohibit or limit the exportation, melting, or treatment of United States coins when the Secretary decides the prohibition or limitation is necessary to protect the coinage of the United States.
 
-(2) A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
+(2) A person knowingly violating an order or license issued or regulation prescribed underparagraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
 (3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
 
@@ -167,6 +167,8 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
+
+Pub. L. 107–127, Jan. 16, 2002, 115 Stat. 2405, recognizing General Henry H. Shelton.
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XI, §1101\], Dec. 21, 2000, 114 Stat. 2763, 2763A–311, recognizing the Navajo Code Talkers.
 

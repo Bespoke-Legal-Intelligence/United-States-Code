@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There are authorized to be appropriated to provide financial assistance under division B of subchapter I of this chapter, $45,000,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 through 1996.
+&emsp;&emsp;There are authorized to be appropriated to provide financial assistance under division Bof subchapter I of this chapter, $45,000,000 for fiscal year 1994 and such sums as may be necessary for each of the fiscal years 1995 through 1996.
 
 #### (B) Programs
 

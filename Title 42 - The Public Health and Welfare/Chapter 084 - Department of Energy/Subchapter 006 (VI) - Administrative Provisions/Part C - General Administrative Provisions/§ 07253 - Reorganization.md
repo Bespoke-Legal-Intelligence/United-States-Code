@@ -10,7 +10,7 @@
 
 #### References in Text
 
-Section 2402(e) of title 50, referred to in subsec. (b) set out second, probably means the subsec. (e) of section 2402 which relates to reorganization authority and was added by Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(a)\] Oct. 30, 2000, 114 Stat. 1654, 1654A–469.
+Section 2402(e) of title 50, referred to in subsec. (b) set out second, probably means the subsec. (e) of section 2402 which relates to reorganization authority and was added by Pub. L. 106–398, §1 \[div. C, title XXXI, §3159(a)\] Oct. 30, 2000, 114 Stat. 1654, 1654A–469 and redesignated section 2402(f) of title 50 by Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230.
 
 #### Amendments
 

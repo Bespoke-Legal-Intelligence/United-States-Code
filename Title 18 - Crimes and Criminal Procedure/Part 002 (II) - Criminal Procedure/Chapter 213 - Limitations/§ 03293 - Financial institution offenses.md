@@ -10,7 +10,7 @@ No person shall be prosecuted, tried, or punished for a violation of, or a consp
 
 > unless the indictment is returned or the information is filed within 10 years after the commission of the offense.
 
-(Added Pub. L. 101–73, title IX, §961(<i>l</i>)(1), Aug. 9, 1989, 103 Stat. 501; amended Pub. L. 101–647, titleXXV, §2505(a), Nov. 29, 1990, 104 Stat. 4862; Pub. L. 103–322, title XXXII, §320604(b), title XXXIII, §330002(e), Sept. 13, 1994, 108 Stat. 2119, 2140.)
+(Added Pub. L. 101–73, title IX, §961(<i>l</i>)(1), Aug. 9, 1989, 103 Stat. 501; amended Pub. L. 101–647, title XXV, §2505(a), Nov. 29, 1990, 104 Stat. 4862; Pub. L. 103–322, title XXXII, §320604(b), title XXXIII, §330002(e), Sept. 13, 1994, 108 Stat. 2119, 2140.)
 
 #### Amendments
 

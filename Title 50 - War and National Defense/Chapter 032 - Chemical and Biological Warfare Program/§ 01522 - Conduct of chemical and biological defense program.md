@@ -80,7 +80,7 @@ Review and Modification of Policies and Doctrines.—The Secretary of Defense sh
 
 Objectives.—The objectives for the modification of policies and doctrines of the Department of Defense on chemical warfare defense are as follows:
 
-&emsp;“(1) To provide for adequate protection of personnel from any exposure to a chemical warfare agent (including chronic and low-level exposure to a chemical warfare agent) that would endanger the health of exposed personnel because of the deleterious effects of—
+&emsp;“(1) To provide for adequate protection of personnel from any exposure to a chemical warfare agent (including chronic and low-level exposure to a chemicalwarfare agent) that would endanger the health of exposed personnel because of the deleterious effects of—
 
 &emsp;&emsp;“(A) a single exposure to the agent;
 

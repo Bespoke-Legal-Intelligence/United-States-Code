@@ -2,17 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “act of terrorism” means an activity that—
-
-&emsp;&emsp;(A) involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or ofany State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State; and
-
-&emsp;&emsp;(B) appears to be intended—
-
-&emsp;&emsp;&emsp;(i) to intimidate or coerce a civilian population;
-
-&emsp;&emsp;&emsp;(ii) to influence the policy of a government by intimidation or coercion; or
-
-&emsp;&emsp;&emsp;(iii) to affect the conduct of a government by assassination or kidnapping;
+&emsp;(1) “act of terrorism” means an act of domestic or international terrorism as defined in section 2331;
 
 &emsp;(2) “United States person” means—
 
@@ -44,13 +34,25 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(B) section 4 of the Subversive Activities Control Act of 1950.
 
-(Added Pub. L. 98–533, title I, §101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 100–690, title VII, §7051, Nov. 18, 1988, 102 Stat. 4401; Pub. L. 101–647, title XXXV, §3572, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 103–359, title VIII, §803(b), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, §605(g), Oct. 11, 1996, 110 Stat. 3510.)
+(Added Pub. L. 98–533, title I, §101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 100–690, titleVII, §7051, Nov. 18, 1988, 102 Stat. 4401; Pub. L. 101–647, title XXXV, §3572, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 103–359, title VIII, §803(b), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, §605(g), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 107–56, title VIII, §802(b), Oct. 26, 2001, 115 Stat. 376.)
 
 #### References in Text
 
 Section 4 of the Subversive Activities Control Act of 1950, referred to in par. (8)(B), is classified to section 783 of Title 50, War and National Defense.
 
 #### Amendments
+
+2001—Par. (1). Pub. L. 107–56 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘act of terrorism’ means an activity that—
+
+&emsp;“(A) involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State; and
+
+&emsp;“(B) appears to be intended—
+
+&emsp;&emsp;“(i) to intimidate or coerce a civilian population;
+
+&emsp;&emsp;“(ii) to influence the policy of a government by intimidation or coercion; or
+
+&emsp;&emsp;“(iii) to affect the conduct of a government by assassination or kidnapping;”.
 
 1996—Par. (8)(A). Pub. L. 104–294 substituted “this title” for “title 18, United States Code”.
 

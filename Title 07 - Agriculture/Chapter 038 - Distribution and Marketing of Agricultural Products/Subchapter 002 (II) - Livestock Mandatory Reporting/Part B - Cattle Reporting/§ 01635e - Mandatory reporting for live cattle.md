@@ -14,7 +14,7 @@ The Secretary shall establish a program of live cattle price information reporti
 
 #### (1) In general
 
-&emsp;Whenever the prices or quantities of cattle are required to be reported or published under this section, the prices or quantities shall be categorized so as to clearly delineate—
+&emsp;Whenever the prices or quantities of cattle are required to be reported or published underthis section, the prices or quantities shall be categorized so as to clearly delineate—
 
 &emsp;&emsp;(A) the prices or quantities, as applicable, of the cattle purchased in the domestic market; and
 
@@ -122,5 +122,5 @@ The Secretary shall establish a program of live cattle price information reporti
 
 #### Termination of Section
 
-<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
+<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Re</i><i>porting note set out under section 1635 of this title.</i>
 

@@ -6,7 +6,7 @@ The district courts shall not enjoin, suspend or restrain the assessment, levy o
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §41(1) (Mar. 3, 1911, ch. 231, §24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, §1, 48 Stat. 775; Aug. 21, 1937, ch. 726, §1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
+Based on title 28, U.S.C., 1940 ed., §41(1) (Mar. 3, 1911, ch. 231, §24, par. 1, 36 Stat. 1091; May 14, 1934, ch. 283, §1,48 Stat. 775; Aug. 21, 1937, ch. 726, §1, 50 Stat. 738; Apr. 20, 1940, ch. 117, 54 Stat. 143).
 
 This section restates the last sentence of section 41(1) of title 28, U.S.C., 1940 ed.
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) for grants to local educational agencies of that State in accordance with section 405 of the Civil Rights Act of 1964 \[42 U.S.C. 2000c–4\], or for any other program administered by the Department that is designed to enhance equity in education or redress discrimination on the basis of race, color, national origin, sex, age, or disability.
 
-(Pub. L. 90–247, title IV, §435, formerly §416, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered §426, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §428, Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; renumbered§435 and amended Pub. L. 103–382, title II, §§212(b)(1), 245, Oct. 20, 1994, 108 Stat. 3913, 3922.)
+(Pub. L. 90–247, title IV, §435, formerly §416, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 168; renumbered §426, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §428, Pub. L. 93–380, title V, §508(a), Aug. 21, 1974, 88 Stat. 565; renumbered §435 and amended Pub. L. 103–382, title II, §§212(b)(1), 245, Oct. 20, 1994, 108 Stat. 3913, 3922.)
 
 #### References in Text
 

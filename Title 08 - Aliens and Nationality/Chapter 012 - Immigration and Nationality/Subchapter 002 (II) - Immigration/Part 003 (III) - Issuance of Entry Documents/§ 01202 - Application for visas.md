@@ -6,7 +6,7 @@ Every alien applying for an immigrant visa and for alien registration shall make
 
 #### (b) Other documentary evidence for immigrant visa
 
-Every alien applying for an immigrant visa shall present a valid unexpired passport or othersuitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Secretary of State. The immigrant shall furnish to the consular officer with his application a copy of a certification by the appropriate police authorities stating what their records show concerning the immigrant; a certified copy of any existing prison record, military record, and record of his birth; and a certified copy of all other records or documents concerning him or his case which may be required by the consular officer. The copy of each document so furnished shall be permanently attached to the application and become a part thereof. In the event that the immigrant establishes to the satisfaction of the consular officer that any document or record required by this subsection is unobtainable, the consular officer may permit the immigrant to submit in lieu of such document or record other satisfactory evidence of the fact to which such document or record would, if obtainable, pertain.
+Every alien applying for an immigrant visa shall present a valid unexpired passport or other suitable travel document, or document of identity and nationality, if such document is required under the regulations issued by the Secretary of State. The immigrant shall furnish to the consular officer with his application a copy of a certification by the appropriate police authorities stating what their records show concerning the immigrant; a certified copy of any existing prison record, military record, and record of his birth; and a certified copy of all other records or documents concerning him or his case which may be required by the consular officer. The copy of each document so furnished shall be permanently attached to the application and become a part thereof. In the event that the immigrant establishes to the satisfaction of the consular officer that any document or record required by this subsection is unobtainable, the consular officer may permit the immigrant to submit in lieu of such document or record other satisfactory evidence of the fact to which such document or record would, if obtainable, pertain.
 
 #### (c) Nonimmigrant visas; nonimmigrant registration; form, manner and contents of application
 
@@ -22,7 +22,15 @@ Except as may be otherwise prescribed by regulations, each application for an im
 
 #### (f) Confidential nature of records
 
-The records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance or refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States, except that in the discretion of the Secretary of State certified copies of such records may be made available to a court which certifies that the information contained in such records is needed by the court in the interest of the ends of justice in a case pending before the court.
+The records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance or refusal of visas or permits to enter the United States shall be considered confidential and shall be used only for the formulation, amendment, administration, or enforcement of the immigration, nationality, and other laws of the United States, except that—
+
+&emsp;(1) in the discretion of the Secretary of State certified copies of such records may be made available to a court which certifies that the information contained in such records is needed by the court in the interest of the ends of justice in a case pending before the court.<sup>2</sup>
+
+&emsp;(2) the Secretary of State, in the Secretary's discretion and on the basis of reciprocity, may provide to a foreign government information in the Department of State's computerized visa lookout database and, when necessary and appropriate, other records covered by this section related to information in the database—
+
+&emsp;&emsp;(A) with regard to individual aliens, at any time on a case-by-case basis for the purpose of preventing, investigating, or punishing acts that would constitute a crime in the United States, including, but not limited to, terrorism or trafficking in controlled substances, persons, or illicit weapons; or
+
+&emsp;&emsp;(B) with regard to any or all aliens in the database, pursuant to such conditions as the Secretary of State shall establish in an agreement with the foreign government in which that government agrees to use such information and records for the purposes described in subparagraph (A) or to deny visas to persons who would be inadmissible to the United States.
 
 #### (g) Nonimmigrant visa void at conclusion of authorized period of stay
 
@@ -34,9 +42,11 @@ The records of the Department of State and of diplomatic and consular offices of
 
 &emsp;(B) where extraordinary circumstances are found by the Secretary of State to exist.
 
-(June 27, 1952, ch. 477, title II, ch. 3, §222, 66 Stat. 193; Pub. L. 87–301, §6, Sept. 26, 1961, 75 Stat. 653; Pub. L. 89–236, §11(c), Oct. 3, 1965, 79 Stat. 918; Pub. L. 99–653, §6, Nov. 14, 1986, 100 Stat. 3656; Pub. L. 100–525, §§8(e), 9(j), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 103–416, title II, §205(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title VI, §§632(a), 634, Sept. 30, 1996, 110 Stat. 3009–701.)
+(June 27, 1952, ch. 477, title II, ch. 3, §222, 66 Stat. 193; Pub. L. 87–301, §6, Sept. 26, 1961, 75 Stat. 653; Pub. L. 89–236, §11(c), Oct. 3, 1965, 79 Stat. 918; Pub. L. 99–653, §6, Nov. 14, 1986, 100 Stat. 3656; Pub. L. 100–525, §§8(e), 9(j), Oct. 24, 1988, 102 Stat. 2617, 2620; Pub. L. 103–416, title II, §205(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title VI, §§632(a), 634, Sept. 30, 1996, 110 Stat. 3009–701; Pub. L. 107–56, title IV, §413, Oct. 26, 2001, 115 Stat. 353.)
 
 #### Amendments
+
+2001—Subsec. (f). Pub. L. 107–56 inserted “—” after “except that” and “(1)” before “in the discretion”, and added par. (2).
 
 1996—Subsec. (c). Pub. L. 104–208, §634(a), struck out “personal description (including height, complexion, color of hair and eyes, and marks of identification);” after “United States;”, substituted “applicant, the determination of his eligibility for a nonimmigrant visa,” for “applicant”, and inserted at end “At the discretion of the Secretary of State, application forms for the various classes of nonimmigrant admissions described in section 1101(a)(15) of this title may vary according to the class of visa being requested.”
 
@@ -44,7 +54,7 @@ Subsec. (e). Pub. L. 104–208, §634(b), in first sentence, substituted “for 
 
 Subsec. (g). Pub. L. 104–208, §632(a), added subsec. (g).
 
-1994—Subsec. (a). Pub. L. 103–416, §205(a), in second sentence substituted “the alien” for “the immigrant” after “In the application” and struck out “present address and places of previous residence; whether married or single, and the names and places of residence of spouse and children, if any; calling or occupation; personal description (including height, complexion, color of hair and eyes, and marks of identification); languages he can speak, read, or write; names and addresses of parents, and if neither parent living then the name and address of his next of kin in the country from which he comes; port of entry into the United States;final destination, if any, beyond the port of entry; whether he has a ticket through to such final destination; whether going to join a relative or friend, and, if so, the name and complete address of such relative or friend; the purpose for which he is going to the United States; the length of time he intends to remain in the United States; whether or not he intends to remain in the United States permanently; whether he was ever arrested, convicted or was ever in prison or almshouse; whether he has ever been the beneficiary of a pardon or an amnesty; whether he has ever been treated in an institution or hospital or other place for insanity or other mental disease; if he claims to be an immediate relative within the meaning of section 1151(b) of this title or a preference or special immigrant, the facts on which he bases such claim; whether or not he is a member of any class of individuals excluded from admission into the United States, or whether he claims to be exempt from exclusion under the immigration laws;” before “and such additional information”.
+1994—Subsec. (a). Pub. L. 103–416, §205(a), in second sentence substituted “the alien” for “the immigrant” after “In the application” and struck out “present address and places of previous residence; whether married or single, and the names and places of residence of spouse and children, if any; calling or occupation; personal description (including height, complexion, color of hair and eyes, and marks of identification); languages he can speak, read, or write; names and addresses of parents, and if neither parent living then the name and address of his next of kin in the country from which he comes; port of entry into the United States; final destination, if any, beyond the port of entry; whether he has a ticket through to such final destination; whether going to join a relative or friend, and, if so, the name and complete address of such relative or friend; the purpose for which he is going to the United States; the length of time he intends to remain in the United States; whether or not he intends to remain in the United States permanently; whether he was ever arrested, convicted or was ever in prison or almshouse; whether he has ever been the beneficiary of a pardon or an amnesty; whether he has ever been treated in an institution or hospital or other place for insanity or other mental disease; if he claims to be an immediate relative within the meaning of section 1151(b) of this title or a preference or special immigrant, the facts on which he bases such claim; whether or not he is a member of any class of individuals excluded from admission into the United States, or whether he claims to be exempt from exclusion under the immigration laws;” before “and such additional information”.
 
 1988—Subsec. (a). Pub. L. 100–525, §9(j), substituted “whether or not he intends” for “whether or not be intends”.
 
@@ -54,7 +64,7 @@ Subsecs. (b), (e). Pub. L. 100–525, §8(e), made technical correction to Pub. 
 
 Subsec. (e). Pub. L. 99–653, §6(b), as amended by Pub. L. 100–525, §8(e)(2), substituted “each application” for “each copy of an application”, “The application for” for “One copy of the application for”, and “the immigrant visa” for “the immigrant visa, and the other copy shall be disposed of as may be by regulations prescribed”.
 
-1965—Subsec. (a). Pub L. 89–236 substituted “an immediate relative within the meaning of section 1151 (b) of this title or a preference or special immigrant”, for “preference quota or a nonquota immigrant”.
+1965—Subsec. (a). Pub L. 89–236 substituted “an immediate relative within the meaning of section 1151 (b) ofthis title or a preference or special immigrant”, for “preference quota or a nonquota immigrant”.
 
 1961—Subsecs. (a), (c). Pub. L. 87–301 struck out requirement to state applicant's race and ethnic classification.
 
@@ -95,4 +105,6 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 This section is referred to in sections 1201, 1372 of this title; title 22 section 4355.
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
 

@@ -22,7 +22,7 @@
 
 #### (A) Application in States operating under demonstration projects
 
-&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+&emsp;&emsp;In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the Stateto meet the requirements of this section in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 #### (B) No application in commonwealths and territories
 
@@ -88,7 +88,7 @@
 
 #### (B) Assessment
 
-&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as a condition of providing the assessment, require payment of a fee not exceeding the reasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that the spouse will have a right to a fair hearing under subsection (e)(2) of this section.
+&emsp;&emsp;At the request of an institutionalized spouse or community spouse, at the beginning of the first continuous period of institutionalization (beginning on or after September 30, 1989) of the institutionalized spouse and upon the receipt of relevant documentation of resources, the State shall promptly assess and document the total value described in subparagraph (A)(i) and shall provide a copy of such assessment and documentation to each spouse and shall retain a copy of the assessment for use under this section. If the request is not part of an application for medical assistance under this subchapter, the State may, at its option as a condition of providing the assessment, require payment of a fee not exceeding thereasonable expenses of providing and documenting the assessment. At the time of providing the copy of the assessment, the State shall include a notice indicating that the spouse will have a right to a fair hearing under subsection (e)(2) of this section.
 
 #### (2) Attribution of resources at time of initial eligibility determination
 
@@ -124,7 +124,7 @@
 
 #### (1) Allowances to be offset from income of institutionalized spouse
 
-&emsp;After an institutionalized spouse is determined or redetermined to be eligible for medical assistance, in determining the amount of the spouse's income that is to be appliedmonthly to payment for the costs of care in the institution, there shall be deducted from the spouse's monthly income the following amounts in the following order:
+&emsp;After an institutionalized spouse is determined or redetermined to be eligible for medical assistance, in determining the amount of the spouse's income that is to be applied monthly to payment for the costs of care in the institution, there shall be deducted from the spouse's monthly income the following amounts in the following order:
 
 &emsp;&emsp;(A) A personal needs allowance (described in section 1396a(q)(1) of this title), in an amount not less than the amount specified in section 1396a(q)(2) of this title.
 
@@ -342,7 +342,7 @@ Section 303(g) of Pub. L. 100–360, as amended by Pub. L. 100–485, title VI, 
 
 “(C) Notwithstanding subparagraphs (A) and (B), a State may continue to apply the policies contained in the State plan as of June 30, 1988, with respect to resources disposed of before July 1, 1988, and the laws and policies established by the State as of June 30, 1988, or provided for before July 1, 1988, shall continue to apply through September 30, 1989, (and may, at a State's option continue after such date) to inter-spousal transfers occurring before October 1, 1989.
 
-“(3) The amendments made by subsection (c) \[amending sections 1382 and 1382b of this title\] shall apply totransfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+“(3) The amendments made by subsection (c) \[amending sections 1382 and 1382b of this title\] shall apply to transfers occurring on or after July 1, 1988, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
 “(4) The amendment made by subsection (d) \[amending section 1396a of this title\] is effective on and after April 8, 1988. The final rule of the Health Care Financing Administration published on February 8, 1988 (53 Federal Register 3586) is superseded to the extent inconsistent with the amendment made by subsection (d).
 

@@ -18,6 +18,10 @@ When the retired participant reverts to retired status, the annuity of the retir
 
 A prior section 271 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052, related to recalled participants and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
+#### Waiver of Dual Compensation Provisions
+
+For waiver of application of the dual compensation reduction provisions of this section for temporary employees during an emergency, see Ex. Ord. No. 13236, Nov. 27, 2001, 66 F.R. 59671, set out as a note under section 2141 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2031, 2032, 2152 of this title.

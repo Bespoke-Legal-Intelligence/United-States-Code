@@ -7,10 +7,13 @@ Subpart A—General Rules for Taxation of Estates and Trusts
 | [643\.](%C2%A7%2000643%20-%20Definitions%20applicable%20to%20subparts%20A%2C%20B%2C%20C%2C%20and%20D.md) | Definitions applicable to subparts A, B, C, and D. |
 | [644\.](%C2%A7%2000644%20-%20Taxable%20year%20of%20trusts.md) | Taxable year of trusts. |
 | [645\.](%C2%A7%2000645%20-%20Certain%20revocable%20trusts%20treated%20as%20part%20of%20estate.md) | Certain revocable trusts treated as part of estate. |
+| [646\.](%C2%A7%2000646%20-%20Tax%20treatment%20of%20electing%20Alaska%20Native%20Settlement%20Trusts.md) | Tax treatment of electing Alaska Native Settlement Trusts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title VI, §671(c)(1), June 7, 2001, 115 Stat. 147, added item 646.
 
 <b>1998</b>—Pub. L. 105–206, title VI, §6013(a)(2), July 22, 1998, 112 Stat. 819, renumbered item 646 as 645.
 
@@ -34,4 +37,4 @@ This subpart is referred to in sections 643, 671, 1312 of this title.
 - [&sect; 00643 - Definitions applicable to subparts A, B, C, and D](%C2%A7%2000643%20-%20Definitions%20applicable%20to%20subparts%20A%2C%20B%2C%20C%2C%20and%20D.md)
 - [&sect; 00644 - Taxable year of trusts](%C2%A7%2000644%20-%20Taxable%20year%20of%20trusts.md)
 - [&sect; 00645 - Certain revocable trusts treated as part of estate](%C2%A7%2000645%20-%20Certain%20revocable%20trusts%20treated%20as%20part%20of%20estate.md)
-- [&sect; 00646 - Renumbered &sect;645](%C2%A7%2000646%20-%20Renumbered%20%C2%A7645.md)
+- [&sect; 00646 - Tax treatment of electing Alaska Native Settlement Trusts](%C2%A7%2000646%20-%20Tax%20treatment%20of%20electing%20Alaska%20Native%20Settlement%20Trusts.md)

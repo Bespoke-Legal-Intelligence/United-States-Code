@@ -18,7 +18,7 @@ No tax shall be imposed under section 4251 on any payment received for any toll 
 
 #### (e) Items otherwise taxed
 
-Only one payment of tax under section 4251 shall be required with respect to the tax on any service, notwithstanding the lines or stations ofone or more persons are used in furnishing such service.
+Only one payment of tax under section 4251 shall be required with respect to the tax on any service, notwithstanding the lines or stations of one or more persons are used in furnishing such service.
 
 #### (f) Common carriers and communications companies
 
@@ -60,7 +60,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under sec
 
 #### Repeal
 
-<i>This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not executed in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.</i>
+<i>This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981. Repeal of this subchapter was not exe</i><i>cuted in view of the amendments to section 4251 of this title by Pub. L. 96–499, Pub. L. 97–34, Pub. L. 97–248, Pub. L. 98–369, Pub. L. 99–514, Pub. L. 100–203, and Pub. L. 101–508, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date.</i>
 
 #### Amendments
 
@@ -84,7 +84,7 @@ Subsec. (d). Pub. L. 89–44 reenacted subsec. (d) without change.
 
 Subsec. (e). Pub. L. 89–44 substituted “any service” for “toll telephone service, telegraph service, or teletypewriter exchange service”.
 
-Subsec. (f). Pub. L. 89–44 substituted amounts paid for any toll telephone service for amounts paid for wire mileage service, wire and equipment service, and use of any telephone or radiotelephone line or channel which constitutes general telephone service if such line orchannel connects stations between any two of which there would otherwise be a toll charge.
+Subsec. (f). Pub. L. 89–44 substituted amounts paid for any toll telephone service for amounts paid for wire mileage service, wire and equipment service, and use of any telephone or radiotelephone line or channel which constitutes general telephone service if such line or channel connects stations between any two of which there would otherwise be a toll charge.
 
 Subsec. (g). Pub. L. 89–44 reenacted subsec. (g) without change.
 
@@ -146,7 +146,7 @@ Section 4(b) of Pub. L. 86–344, as amended by Pub. L. 99–514, §2, Oct. 22, 
 
 “(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid on or after January 1, 1959, for services rendered on or after such date.
 
-“(2) The amendment made by subsection (a) \[amending this section\] shall not apply with respect to amounts paid pursuant to bills rendered before January 1, 1959. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no bill was rendered before such date, such amendment shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services.”
+“(2) The amendment made by subsection (a) \[amending this section\] shall not apply with respect to amounts paid pursuant to bills rendered before January1, 1959. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no bill was rendered before such date, such amendment shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date, the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services.”
 
 #### Effective Date of 1958 Amendment
 

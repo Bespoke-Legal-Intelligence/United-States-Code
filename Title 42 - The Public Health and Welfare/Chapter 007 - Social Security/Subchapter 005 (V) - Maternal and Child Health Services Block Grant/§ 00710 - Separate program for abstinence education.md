@@ -44,7 +44,7 @@ For the purpose of allotments under subsection (a) of this section, there is app
 
 #### Prior Provisions
 
-A prior section 710, act Aug. 14, 1935, ch. 531, title V, §510, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 927; amended July 10, 1972, Pub. L. 92–345, §2(f), 86 Stat. 457; July 1, 1973, Pub. L. 93–53, §4(a)(8), 87 Stat. 136, provided for special project grants for dental health of children, prior to the general revision of this subchapter by Pub. L. 97–35, title XXI, §2192(a), Aug. 13,1981, 95 Stat. 818. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
+A prior section 710, act Aug. 14, 1935, ch. 531, title V, §510, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 927; amended July 10, 1972, Pub. L. 92–345, §2(f), 86 Stat. 457; July 1, 1973, Pub. L. 93–53, §4(a)(8), 87 Stat. 136, provided for special project grants for dental health of children, prior to the general revision of this subchapter by Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
 #### Establishing National Goals To Prevent Teenage Pregnancies
 

@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;The term “qualified equity investment” means any equity investment in a qualified community development entity if—
 
-&emsp;&emsp;(A) such investment is acquired by the taxpayer at its original issue (directly or through an underwriter) solely in exchange for cash,
+&emsp;&emsp;(A) such investment is acquired by the taxpayer at its original issue (directly orthrough an underwriter) solely in exchange for cash,
 
 &emsp;&emsp;(B) substantially all of such cash is used by the qualified community development entity to make qualified low-income community investments, and
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (C) Portions of business may be qualified active low-income community business
 
-&emsp;&emsp;The term “qualified active low-income community business” includes any trades or businesses which would qualify as a qualified active low-income community business if such trades or businesses were separately incorporated.
+&emsp;&emsp;The term “qualified active low-income community business” includes any trades orbusinesses which would qualify as a qualified active low-income community business if such trades or businesses were separately incorporated.
 
 #### (3) Qualified business
 

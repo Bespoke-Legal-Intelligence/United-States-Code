@@ -104,7 +104,7 @@ In subsection (c)(2), the words “if appropriate” are omitted as surplus.
 
 #### References in Text
 
-The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (c)(1)(A), is Pub. L.102–240, Dec. 18, 1991, 105 Stat. 1914, as amended. Title III of the Act is also known as the Federal Transit Act Amendments of 1991. Provisions defining the New Jersey Urban Core Project are contained in section 3031 of the Act, which is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
+The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (c)(1)(A), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, as amended. Title III of the Act is also known as the Federal Transit Act Amendments of 1991. Provisions defining the New Jersey Urban Core Project are contained in section 3031 of the Act, which is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of this title and Tables.
 
 The Department of Transportation and Related Agencies Appropriations Act, 1991, referred to in subsec. (c)(1)(E), is Pub. L. 101–516, Nov. 5, 1990, 104 Stat. 2155, as amended. Provisions relating to the Westside Light Rail Program are contained in section 328 of the Act, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 

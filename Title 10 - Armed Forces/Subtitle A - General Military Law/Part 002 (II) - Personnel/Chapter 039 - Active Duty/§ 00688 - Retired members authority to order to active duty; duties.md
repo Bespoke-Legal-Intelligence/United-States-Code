@@ -42,11 +42,13 @@ Limitation of Period of Recall Service.—(1) A member ordered to active duty un
 
 &emsp;(C) An officer assigned to duty with the American Battle Monuments Commission for the period of active duty to which ordered.
 
+&emsp;(D) An officer who is assigned to duty as a defense attache�AE1 or service attache�AE1 for the period of active duty to which ordered.
+
 (f)
 
 Waiver for Periods of War or National Emergency.—Subsections (d) and (e) do not apply in time of war or of national emergency declared by Congress or the President.
 
-(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2515; amended Pub. L. 105–85, div. A, title V, §502, Nov. 18, 1997, 111 Stat. 1724.)
+(Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2515; amended Pub. L. 105–85, div. A, title V, §502, Nov. 18, 1997, 111 Stat. 1724; Pub. L. 107–107, div. A, title V, §509(a), Dec. 28, 2001, 115 Stat. 1091.)
 
 #### Prior Provisions
 
@@ -54,7 +56,13 @@ A prior section 688, added Pub. L. 96–513, title I, §106, Dec. 12, 1980, 94 S
 
 #### Amendments
 
+2001—Subsec. (e)(2)(D). Pub. L. 107–107 added subpar. (D).
+
 1997—Subsec. (e). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §509(c), Dec. 28, 2001, 115 Stat. 1091, provided that: “The amendments madeby subsections (a) and (b) \[amending this section and section 690 of this title\] shall apply with respect to officers serving on active duty as a defense attache�AE1 or service attache�AE1 on or after the date of the enactment of this Act \[Dec. 28, 2001\].”
 
 #### Effective Date
 

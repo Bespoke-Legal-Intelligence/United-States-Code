@@ -10,7 +10,7 @@
 
 (b) Subsection (a) of this section shall apply to a child adopted by a United States citizen parent if the child satisfies the requirements applicable to adopted children under section 1101(b)(1) of this title.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §320, 66 Stat. 245; Pub. L. 95–417, §4, Oct. 5, 1978, 92 Stat.917; Pub. L. 97–116, §18(m), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §14, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(<i>l</i>), 9(w), Oct. 24, 1988, 102 Stat. 2618, 2621; Pub. L. 106–395, title I, §101(a), Oct. 30, 2000, 114 Stat. 1631.)
+(June 27, 1952, ch. 477, title III, ch. 2, §320, 66 Stat. 245; Pub. L. 95–417, §4, Oct. 5, 1978, 92 Stat. 917; Pub. L. 97–116, §18(m), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §14, Nov. 14, 1986, 100 Stat. 3657; Pub. L. 100–525, §§8(<i>l</i>), 9(w), Oct. 24, 1988, 102 Stat. 2618, 2621; Pub. L. 106–395, title I, §101(a), Oct. 30, 2000, 114 Stat. 1631.)
 
 #### Amendments
 

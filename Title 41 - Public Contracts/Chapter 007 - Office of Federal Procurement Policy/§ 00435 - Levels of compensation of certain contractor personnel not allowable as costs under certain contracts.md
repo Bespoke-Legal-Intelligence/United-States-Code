@@ -2,7 +2,7 @@
 
 #### (a) Determination required
 
-For purposes of section 2324(e)(1)(P) of title 10 and section 256(e)(1)(P) of this title, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection the Administrator shallconsult with the Director of the Defense Contract Audit Agency and such other officials of executive agencies as the Administrator considers appropriate.
+For purposes of section 2324(e)(1)(P) of title 10 and section 256(e)(1)(P) of this title, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection the Administrator shall consult with the Director of the Defense Contract Audit Agency and such other officials of executive agencies as the Administrator considers appropriate.
 
 #### (b) Benchmark compensation amount
 
@@ -12,7 +12,7 @@ The benchmark compensation amount applicable for a fiscal year is the median amo
 
 In this section:
 
-&emsp;(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
+&emsp;(1) The term “compensation”, for a fiscal year, means the total amount of wages, salary,bonuses and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
 
 &emsp;(2) The term “senior executives”, with respect to a contractor, means the five most highly compensated employees in management positions at each home office and each segment of the contractor.
 

@@ -2,7 +2,7 @@
 
 For purposes of sections 429b to 429b–5 of this title—
 
-&emsp;(1) The term “improved property” means a detached, one-family dwelling, construction of which was begun before January 1, 1979, which is used for noncommercial residential purposes, together with not to exceed three acres of land on which the dwelling is situated and together with such additional lands or interests therein as the Secretary deems to be reasonably necessary for access thereto, such lands being in the same ownership as the dwelling, together with any structures accessory to the dwelling which are situated on such land.
+&emsp;(1) The term “improved property” means a detached, one-family dwelling, construction ofwhich was begun before January 1, 1979, which is used for noncommercial residential purposes, together with not to exceed three acres of land on which the dwelling is situated and together with such additional lands or interests therein as the Secretary deems to be reasonably necessary for access thereto, such lands being in the same ownership as the dwelling, together with any structures accessory to the dwelling which are situated on such land.
 
 &emsp;(2) The term “park” means the Manassas National Battlefield Park established under sections 429b to 429b–5 of this title.
 

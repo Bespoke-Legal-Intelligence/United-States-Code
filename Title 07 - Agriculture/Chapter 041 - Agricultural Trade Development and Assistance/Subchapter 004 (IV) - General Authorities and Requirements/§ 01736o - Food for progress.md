@@ -72,7 +72,7 @@ In entering into agreements under this section, the President shall take reasona
 
 #### (j) Agreements for distribution or sale on multiyear basis
 
-In carrying out this section, the President may, on request and subject to the availability of commodities, approve agreements that provide for commodities to be made available for distribution or sale by the recipient on a multiyear basis if the agreements otherwise meet the requirements of this section.
+In carrying out this section, the President may, on request and subject to the availabilityof commodities, approve agreements that provide for commodities to be made available for distribution or sale by the recipient on a multiyear basis if the agreements otherwise meet the requirements of this section.
 
 #### (k) Effective and termination dates
 
@@ -138,9 +138,9 @@ Subsec. (k). Pub. L. 104–127, §227(6), substituted “2002” for “1995”.
 
 Subsec. (<i>l</i>)(1). Pub. L. 104–127, §227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
 
-Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
+Subsec. (m). Pub. L. 104–127, §227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section”and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
 
-1992—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted “(including theindependent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
+1992—Subsec. (b). Pub. L. 102–511, §701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
 
 Subsec. (f)(1). Pub. L. 102–511, §701(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Commodities made available under section 1431(b) of this title for use in carrying out this section shall be provided on a grant basis.”
 

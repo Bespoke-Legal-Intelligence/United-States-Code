@@ -12,13 +12,15 @@
 
 #### (b) Special limitations on tax
 
-&emsp;&emsp;<b>(1) For limitation on tax in case of income of members of Armed Forces on death, see section 692.</b>
+&emsp;&emsp;<b>(1) For limitation on tax in case of income of members of Armed Forces and victims of certain terrorist attacks on death, see section 692.</b>
 
 &emsp;&emsp;<b>(2) For computation of tax where taxpayer restores substantial amount held under claim of right, see section 1341.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 10; Pub. L. 88–272, title II, §232(f)(2), Feb. 26, 1964, 78 Stat. 111; Pub. L. 91–172, title III, §301(b)(2), title VIII, §803(d)(6), Dec. 30, 1969, 83 Stat. 585, 684; Pub. L. 94–455, title XIX, §§1901(b)(22)(B), 1951(c)(3)(A), Oct. 4, 1976, 90 Stat. 1798, 1841; Pub. L. 95–600, title IV, §§401(b)(2), 421(e)(1), Nov. 6, 1978, 92 Stat. 2867, 2875; Pub. L. 96–222, title I, §104(a)(4)(H)(vii), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–248, title II, §201(d)(4), formerly §201(c)(4), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(4), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title I, §141(b)(2), title VII, §701(e)(4)(A), Oct. 22, 1986, 100 Stat. 2117, 2343.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 10; Pub. L. 88–272, title II, §232(f)(2), Feb. 26, 1964, 78 Stat. 111; Pub. L. 91–172, title III, §301(b)(2), title VIII, §803(d)(6), Dec. 30, 1969, 83 Stat. 585, 684; Pub. L. 94–455, title XIX, §§1901(b)(22)(B), 1951(c)(3)(A), Oct. 4, 1976, 90 Stat. 1798, 1841; Pub. L. 95–600, title IV, §§401(b)(2), 421(e)(1), Nov. 6, 1978, 92 Stat. 2867, 2875; Pub. L. 96–222, title I, §104(a)(4)(H)(vii), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–248, title II, §201(d)(4), formerly §201(c)(4), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(4), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title I, §141(b)(2), title VII, §701(e)(4)(A), Oct. 22, 1986, 100 Stat. 2117, 2343; Pub. L. 107–134, title I, §101(b)(1), Jan. 23, 2002, 115 Stat. 2428.)
 
 #### Amendments
+
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–134 inserted “and victims of certain terrorist attacks” before “on death”.
 
 <b>1986</b>—Subsec. (a)(4). Pub. L. 99–514, §701(e)(4)(A), amended par. (4) generally, substituting “alternative minimum tax” for “minimum tax for taxpayers other than corporations”.
 
@@ -39,6 +41,10 @@ Subsec. (a)(4), (5). Pub. L. 95–600, §§401(b)(2), 421(e)(1), redesignated pa
 Subsec. (b). Pub. L. 91–172, §803(d)(6), substituted “tax” for “surtax” in pars. (1) and (5).
 
 <b>1964</b>—Subsec. (b). Pub. L. 88–272 redesignated pars. (2), (3), (4), (7) and (8) as pars. (1) to (5), respectively, substituted “where an individual chooses the benefits of income averaging” for “with respect to compensation for longterm services” in par. (3), and struck out former pars. (1), (5) and (6) which referred to tax attributable to receipt of lump sum under annuity, endowment, or life insurance contract, to income from artistic work or inventions, and to back pay, respectively.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–134 applicable to taxable years ending before, on, or after Sept. 11, 2001, with provisions relating to waiver of limitations, see section 101(d) of Pub. L. 107–134, set out as a note under section 692 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -62,7 +68,7 @@ Section 421(g) of Pub. L. 95–600 provided that: “The amendments made by this
 
 #### Effective Date of 1969 Amendment
 
-Section 301(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting sections 56 to 58 of this title and amending this section and sections 12, 46, 51, 443, 453, 511, 901, 1373, 1375, 6015, and 6654 of this title\] shall apply to taxable years ending after December 31, 1969. In the case of a taxable year beginning in 1969 and ending in 1970, the tax imposed by section 56 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall be an amount equal to the tax imposed by such section (determined without regard to this sentence) multiplied by a fraction—
+Section 301(c) of Pub. L. 91–172, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting sections 56 to 58 of this title and amending this section and sections 12, 46, 51, 443, 453, 511, 901, 1373, 1375, 6015,and 6654 of this title\] shall apply to taxable years ending after December 31, 1969. In the case of a taxable year beginning in 1969 and ending in 1970, the tax imposed by section 56 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall be an amount equal to the tax imposed by such section (determined without regard to this sentence) multiplied by a fraction—
 
 &emsp;“(1) the numerator of which is the number of days in the taxable year occurring after December 31, 1969, and
 

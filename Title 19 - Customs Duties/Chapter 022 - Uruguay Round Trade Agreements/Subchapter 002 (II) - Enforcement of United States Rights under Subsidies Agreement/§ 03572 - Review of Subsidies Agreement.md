@@ -76,7 +76,7 @@ The Secretary of Commerce, in consultation with other appropriate departments an
 
 &emsp;(3) the extent to which the provisions of part IV of the Subsidies Agreement may have undermined the benefits derived from other parts of the Agreement, and, in particular—
 
-&emsp;&emsp;(A) the extent to which WTO member countries have cooperated in reviewing andimproving the operation of part IV of the Subsidies Agreement,
+&emsp;&emsp;(A) the extent to which WTO member countries have cooperated in reviewing and improving the operation of part IV of the Subsidies Agreement,
 
 &emsp;&emsp;(B) the extent to which the provisions of Articles 8.4 and 8.5 of the Subsidies Agreement have been effective in identifying and remedying violations of the conditions and criteria described in Article 8.2 of the Agreement, and
 

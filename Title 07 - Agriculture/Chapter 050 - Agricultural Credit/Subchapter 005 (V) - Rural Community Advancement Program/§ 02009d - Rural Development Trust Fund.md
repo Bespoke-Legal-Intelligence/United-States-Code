@@ -116,7 +116,7 @@ The function categories described in this subsection are the following:
 
 #### (2) Use of funds
 
-&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts in the federally recognized Indian tribe account for use pursuant to any authority described in subsection (d) of this section.
+&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts inthe federally recognized Indian tribe account for use pursuant to any authority described in subsection (d) of this section.
 
 #### (g) Allocation among States
 

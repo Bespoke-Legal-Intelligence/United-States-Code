@@ -58,7 +58,7 @@ Requirements.—In carrying out a demonstration project under this section, the 
 
 &emsp;&emsp;(J) an opportunity for public comment in the approval process; and
 
-&emsp;(4) in selecting participants for the demonstration project, take into consideration the past safety and regulatory performance ofeach applicant who submits a risk management plan pursuant to paragraph (1).
+&emsp;(4) in selecting participants for the demonstration project, take into consideration the past safety and regulatory performance of each applicant who submits a risk management plan pursuant to paragraph (1).
 
 (c)
 

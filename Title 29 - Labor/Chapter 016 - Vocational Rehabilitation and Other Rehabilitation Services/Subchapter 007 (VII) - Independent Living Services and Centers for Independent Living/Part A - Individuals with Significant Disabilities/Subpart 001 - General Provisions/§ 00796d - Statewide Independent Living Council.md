@@ -22,7 +22,7 @@ To be eligible to receive financial assistance under this part, each State shall
 
 &emsp;&emsp;&emsp;(ii) representatives from other State agencies that provide services for individuals with disabilities; and
 
-&emsp;&emsp;(C) in a State in which one or more projects are carried out under section 741 ofthis title, at least one representative of the directors of the projects.
+&emsp;&emsp;(C) in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects.
 
 #### (3) Additional members
 

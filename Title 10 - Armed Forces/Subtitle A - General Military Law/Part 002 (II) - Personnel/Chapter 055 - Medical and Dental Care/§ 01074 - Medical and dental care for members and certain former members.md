@@ -8,7 +8,7 @@
 
 (2)(A) Subject to such exceptions as the Secretary of Defense considers necessary, coverage for medical care for members of the uniformed services under this subsection, and standards with respect to timely access to such care, shall be comparable to coverage for medical care and standards for timely access to such care under the managed care option of the TRICARE program known as TRICARE Prime.
 
-(B) The Secretary of Defense shall enter into arrangements with contractors under the TRICARE program or with other appropriate contractors for the timely and efficient processing of claims under this subsection.
+(B) The Secretary of Defense shall enter into arrangements with contractors under theTRICARE program or with other appropriate contractors for the timely and efficient processing of claims under this subsection.
 
 (C) The Secretary of Defense shall consult with the other administering Secretaries in the administration of this paragraph.
 
@@ -188,7 +188,7 @@ Duty Assignments Covered.—A duty assignment referred to in subsection (c)(1) m
 
 &emsp;“(1) Permanent duty as a recruiter.
 
-&emsp;“(2) Permanent duty at an educational institution to instruct, administer a program of instruction, or provide administrative services in support of a program of instruction for the Reserve Officers’ Training Corps.
+&emsp;“(2) Permanent duty at an educational institution to instruct, administer a program of instruction, orprovide administrative services in support of a program of instruction for the Reserve Officers’ Training Corps.
 
 &emsp;“(3) Permanent duty as a full-time adviser to a unit of a reserve component of the uniformed services.
 
@@ -364,7 +364,7 @@ Presumptions on Behalf of Service Member.—(1) A member of the Armed Forces who
 
 Revision of the Physical Evaluation Board Criteria.—(1) The Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Health and Human Services, shall ensure that case definitions of Persian Gulf related illnesses, as well as the Physical Evaluation Board criteria used to set disability ratings for members no longer medically qualified for continuation on active duty, are established as soon as possible to permit accurate disability ratings related to a diagnosis of Persian Gulf illnesses.
 
-“(2) Until revised disability criteria can be implemented and members of the Armed Forces can be rated against those criteria, the Secretary of Defense shall ensure—
+“(2) Until revised disability criteria can be implemented and members of the Armed Forces can be ratedagainst those criteria, the Secretary of Defense shall ensure—
 
 &emsp;“(A) that any member of the Armed Forces on active duty who may be suffering from a Persian Gulf-related illness is afforded continued military medical care; and
 
@@ -576,39 +576,9 @@ Report to President and Congress
 
 Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
 
-#### Ex. Ord. No. 13075. Special Oversight Board for Department of Defense Investigations of Gulf War Chemical and Biological Incidents
+#### Executive Order No. 13075
 
-Ex. Ord. No. 13075, Feb. 19, 1997, 63 F.R. 9085, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
-
-Section 1. <i>Establishment</i>. (a) There is hereby established the Special Oversight Board for Department of Defense Investigations of Gulf War Chemical and Biological Incidents (“Special Oversight Board”). The Special Oversight Board shall be composed of not more than seven members appointed by the President. The members of the Special Oversight Board shall have expertise relevant to the functions of the Special Oversight Board and shall not be full-time officials or employees of the executive branch of the Federal Government.
-
-(b) The President shall designate a Chairperson and a Vice Chairperson from among the members of the Special Oversight Board.
-
-Sec. 2. <i>Functions</i>. (a) The Special Oversight Board shall report to the President through the Secretary of Defense.
-
-(b) The Special Oversight Board shall provide advice and recommendations based on its review of Department of Defense investigations into possible detections of, and exposures to, chemical or biological weapons agents and environmental and other factors that may have contributed to Gulf War illnesses.
-
-(c) It shall not be a function of the Special Oversight Board to conduct scientific research.
-
-(d) It shall not be a function of the Special Oversight Board to provide advice or recommendations on any legal liability of the Federal Government for any claims or potential claims against the Federal Government.
-
-(e) The Special Oversight Board shall submit an interim report within 9 months of its first meeting and a final report within 18 months of its first meeting, unless otherwise directed by the President.
-
-Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Special Oversight Board with such information as it may require for purposes of carrying out its functions.
-
-(b) Special Oversight Board members may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707). The administrative staff for the Special Oversight Board shall be compensated in accordance with Federal law.
-
-(c) To the extent permitted by law, and subject to the availability of appropriations, the Department of Defense shall provide the Special Oversight Board with such funds as may be necessary for the performance of its functions.
-
-Sec. 4. <i>General Provisions</i>. (a) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended, that are applicable to the Special Oversight Board, except that of reporting annually to the Congress, shall be performed by the Secretary of Defense, in accordance with the guidelines and procedures established by the Administrator of General Services.
-
-(b) The Special Oversight Board shall terminate 30 days after submitting its final report.
-
-(c) This order is intended only to improve the internal management of the executive branch and it is not intended, and shall not be construed, to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13075, Feb. 19, 1997, 63 F.R. 9085, which established the Special Oversight Board for Department of Defense Investigations of Gulf War Chemical and Biological Incidents, was revoked by Ex. Ord. No. 13225, §3(e), Sept. 28, 2001, 66 F.R. 50292.
 
 #### Section Referred to in Other Sections
 

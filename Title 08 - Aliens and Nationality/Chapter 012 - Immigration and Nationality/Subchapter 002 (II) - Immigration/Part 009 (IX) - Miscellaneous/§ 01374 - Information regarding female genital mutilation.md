@@ -14,7 +14,7 @@ In consultation with the Secretary of State, the Commissioner of Immigration and
 
 #### (c) “Female genital mutilation” defined
 
-For purposes of this section, the term “female genital mutilation” means the removal or infibulation (or both) of the whole or part of the clitoris, the labia minora, or labia majora.
+For purposes of this section, the term “female genital mutilation” means the removal orinfibulation (or both) of the whole or part of the clitoris, the labia minora, or labia majora.
 
 (Pub. L. 104–208, div. C, title VI, §644, Sept. 30, 1996, 110 Stat. 3009–708.)
 

@@ -50,7 +50,7 @@ For purposes of this section, the term “total unstated interest” means, with
 
 #### (3) Carrying charges
 
-&emsp;In the case of the purchaser, the tax treatment of amounts paid on account of the saleor exchange of property shall be made without regard to this section if any such amounts are treated under section 163(b) as if they included interest.
+&emsp;In the case of the purchaser, the tax treatment of amounts paid on account of the sale or exchange of property shall be made without regard to this section if any such amounts are treated under section 163(b) as if they included interest.
 
 #### (4) Certain sales of patents
 
@@ -90,7 +90,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;&emsp;<b>(3) For special rules in case of the borrower under certain loans for personal use, see section 1275(b).</b>
 
-(Added Pub. L. 88–272, title II, §224(a), Feb. 26, 1964, 78 Stat. 77; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1792, 1834; Pub. L. 97–34, title I, §126(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–448, title I, §101(g), Jan. 12, 1983, 96 Stat. 2367; Pub. L. 98–369, div. A, title I, §41(b), July 18, 1984, 98 Stat. 553; Pub. L. 99–121, title I, §§101(a)(2), 102(c)(1)–(3), Oct. 11, 1985, 99 Stat. 505, 508; Pub. L. 99–514, title XVIII, §1803(a)(14)(B), Oct. 22, 1986, 100 Stat. 2797.)
+(Added Pub. L. 88–272, title II, §224(a), Feb. 26, 1964, 78 Stat. 77; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1792, 1834; Pub. L. 97–34, title I, §126(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–448, title I, §101(g), Jan. 12, 1983, 96 Stat. 2367; Pub. L. 98–369, div. A, title I, §41(b), July 18, 1984, 98 Stat. 553;Pub. L. 99–121, title I, §§101(a)(2), 102(c)(1)–(3), Oct. 11, 1985, 99 Stat. 505, 508; Pub. L. 99–514, title XVIII, §1803(a)(14)(B), Oct. 22, 1986, 100 Stat. 2797.)
 
 #### Amendments
 

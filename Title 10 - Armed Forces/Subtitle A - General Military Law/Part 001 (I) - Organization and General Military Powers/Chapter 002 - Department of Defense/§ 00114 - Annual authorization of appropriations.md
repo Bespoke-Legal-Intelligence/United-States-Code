@@ -162,7 +162,7 @@ Subsec. (a). Pub. L. 96–342, §1001(a)(1), (b)(1), in cl. (6) substituted refe
 
 Subsec. (c)(1). Pub. L. 96–513, §102(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (c)(3)(D). Pub. L. 96–513, §102(b), substituted provisions relating to expanded coverage in the annual report of the Secretary of Defense for provisions under which the report had formerly covered only the estimated requirements in members on active duty during the next fiscal year, the estimated number of commissioned officers in each grade on active duty and to be promoted during the next fiscal year, and an analysis of the distribution by grade of commissioned officers on active duty at the time the report was prepared.
+Subsec. (c)(3)(D). Pub. L. 96–513, §102(b), substituted provisions relating to expanded coverage in the annual report of the Secretary of Defense for provisions under which the report had formerly covered only the estimated requirements in members on active duty during the next fiscal year, the estimated number of commissioned officers in each grade on active duty and to bepromoted during the next fiscal year, and an analysis of the distribution by grade of commissioned officers on active duty at the time the report was prepared.
 
 Subsec. (e). Pub. L. 96–342, §1001(b)(2), (3), added subsec. (e). Former subsec. (e) redesignated (f)(1).
 
@@ -180,7 +180,7 @@ Subsec. (e). Pub. L. 94–106, §801(a)(2), added subsec. (e).
 
 #### Effective Date of 1996 Amendment
 
-Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec.1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Section 1501(c) of Pub. L. 104–106 provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1982 Amendments
 
@@ -228,13 +228,13 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 “Sec. 706. \[Authorized use of appropriated funds for expenses incident to maintenance, pay, and allowances of prisoners of war, other persons in Army, Navy, or Air Force custody whose status was determined by Secretary concerned to be similar to prisoners of war, and persons detained in such custody pursuant to Presidential proclamation, and was repealed by Pub. L. 98–525, title XIV, §§1403(a)(1), 1404, Oct. 19, 1984, 98 Stat. 2621, effective Oct. 1, 1985. See section 956(5) of this title.\]
 
-“Sec. 707. \[Authorized use of appropriated funds for acquisition of certain interests in land, and was repealed and restated in sections 2673 and 2828(h) of this title by Pub. L. 100–370, §1(<i>l</i>)(1), (2), (p)(1), July 19, 1988, 102 Stat. 849, 851.\]
+“Sec. 707. \[Authorized use of appropriated funds for acquisition of certain interests in land, and was repealed and restated in sections 2673 and 2828(h) of thistitle by Pub. L. 100–370, §1(<i>l</i>)(1), (2), (p)(1), July 19, 1988, 102 Stat. 849, 851.\]
 
 “Sec. 723. \[Authorized use of appropriated funds for purchase of household furnishings, and automobiles from military and civilian personnel on duty outside continental United States, for purpose of resale at cost to incoming personnel, and for providing furnishings, without charge, in other than public quarters occupied by military or civilian personnel of Department of Defense on duty outside continental United States or in Alaska, and was repealed and restated in section 2251 of this title by Pub. L. 100–370, §1(e)(1), (p)(1), July 19, 1988, 102 Stat. 844, 851.\]
 
 “Sec. 728. \[Prohibited use of appropriated funds for payment of costs of advertising by any defense contractor, except advertising for which payment is made from profits, provided exemptions for advertising for personnel recruitment, procurement of scarce required items, and disposal of scrap or surplus materials, and was repealed by Pub. L. 100–370, §1(p)(1), July 19, 1988, 102 Stat. 851. See section 2324(e)(1)(H) of this title.\]
 
-“Sec. 735. \[Authorized use of appropriated funds for operation and maintenance of the active forces for welfare and recreation; hire of passenger motor vehicles; repair of facilities; modification of personal property; design of vessels; industrial mobilization; installation of equipment in public and private plants; military communications facilities on merchant vessels; acquisition of services, special clothing, supplies, and equipment; and expenses for the Reserve Officers’ Training Corps and other units at educational institutions was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404,Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, and was repealed and restated in sections 2241(a) and 2661(a) of this title by Pub. L. 100–370, §1(e)(1), (<i>l</i>)(3), (p)(1), July 19, 1988, 102 Stat. 844, 849, 851.\]
+“Sec. 735. \[Authorized use of appropriated funds for operation and maintenance of the active forces for welfare and recreation; hire of passenger motor vehicles; repair of facilities; modification of personal property; design of vessels; industrial mobilization; installation of equipment in public and private plants; military communications facilities on merchant vessels; acquisition of services, special clothing, supplies, and equipment; and expenses for the Reserve Officers’ Training Corps and other units at educational institutions was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, and was repealed and restated in sections 2241(a) and 2661(a) of this title by Pub. L. 100–370, §1(e)(1), (<i>l</i>)(3), (p)(1), July 19, 1988, 102 Stat. 844, 849, 851.\]
 
 “Sec. 774. During the current fiscal year and subsequent fiscal years, for the purposes of the appropriation ‘Foreign Currency Fluctuations, Defense’ the foreign currency exchange rates used in preparing budget submissions shall be the foreign currency exchange rates as adjusted or modified, as reflected in applicable Committee reports on this Act.”
 
@@ -322,7 +322,7 @@ Pub. L. 102–484, div. D, title XLV, §4501, Oct. 23, 1992, 106 Stat. 2769, pro
 
 “(a)
 
-Requirement for Determination.—An amount made available under this Act \[see Tables for classification\] for a program described in subsection (b) may be obligated for that program only if expenditures for that program have been determined by the Director of the Office of Management and Budget to be counted against the defense category of the discretionary spending limits for fiscal year 1993 (as defined in section 601(a)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 665(a)(2)\]) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
+Requirement for Determination.—An amount made available under this Act \[see Tables for classification\] for a program described in subsection (b) may be obligated for that program only if expenditures for that program have been determined by the Director of the Office of Management and Budget to be counted against the defense category of the discretionaryspending limits for fiscal year 1993 (as defined in section 601(a)(2) of the Congressional Budget Act of 1974 \[2 U.S.C. 665(a)(2)\]) for purposes of part C of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 900 et seq.\].
 
 “(b)
 
@@ -330,17 +330,17 @@ Covered Programs.—The programs referred to in subsection (a) are the programs 
 
 “(c)
 
-Effect on Appropriations for Programs Not Counted Against Defense Category.—(1) Not later than the third day after the date of the enactment of this Act \[Oct. 23, 1992\], the Director of the Office of Management and Budget shall make a determination as to the classification by discretionary spending limit category for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] of amounts appropriated for fiscal year 1993 for each of the programs described in subsection (b). If the Director determines that any such amount shall not classify against the defense category, then the President shall submit to Congress a report listing all such amounts that the Director has determined will not classify against the defense category (as described in subsection\(a)). Such report shall contain an explanation for each such determination.
+Effect on Appropriations for Programs Not Counted Against Defense Category.—(1) Not later than the third day after the date of the enactment of this Act \[Oct. 23, 1992\], the Director of the Office of Management and Budget shall make a determination as to the classification by discretionary spending limit category for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 \[see Short Title note set out under section 900 of Title 2, The Congress\] of amounts appropriated for fiscal year 1993 for each of the programs described in subsection (b). If the Director determines that any such amount shall not classify against the defense category, then the President shall submit to Congress a report listing all such amounts that the Director has determined will not classify against the defense category (as described in subsection (a)). Such report shall contain an explanation for each such determination.
 
 “(2) All amounts listed in the report under paragraph (1) may be transferred only to the programs under titles XLII, XLIII, and XLIV \[see Tables for classification\] that are classified against the defense category by virtue of the report of the President submitted under paragraph (1) pursuant to amounts specified in appropriation Acts. Any such transfer shall be taken into account for purposes of calculating all reports under section 254 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 904\].”
 
 #### Classified Annex
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1002\], Oct. 30, 2000, 114 Stat. 1654, 1654A–245, provided that:
+Pub. L. 107–107, div. A, title X, §1002, Dec. 28, 2001, 115 Stat. 1202, provided that:
 
 “(a)
 
-Status of Classified Annex.—The Classified Annex prepared by the committee of conference to accompany the conference report on the bill H.R. 4205 of the One Hundred Sixth Congress \[Pub. L. 106–398\] and transmitted to the President is hereby incorporated into this Act \[H.R. 5408, as enacted by section 1 of Pub. L. 106–398, see Tables for classification\].
+Status of Classified Annex.—The Classified Annex prepared by the committee of conference to accompany the conference report on the bill S. 1438 of the One Hundred Seventh Congress \[Pub. L. 107–107\] and transmitted to the President is hereby incorporated into this Act \[see Tables for classification\].
 
 “(b)
 
@@ -355,6 +355,8 @@ Limitation on Use of Funds.—Funds appropriated pursuant to an authorization co
 Distribution of Classified Annex.—The President shall provide for appropriate distribution of the Classified Annex, or of appropriate portions of the annex, within the executive branch of the Government.”
 
 Similar provisions were contained in the following prior authorization or appropriation acts:
+
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1002\], Oct. 30, 2000, 114 Stat. 1654, 1654A–245.
 
 Pub. L. 106–65, div. A, title X, §1002, Oct. 5, 1999, 113 Stat. 732.
 
@@ -408,7 +410,7 @@ Section 802 of Pub. L. 96–107 provided that:
 
 “(a) Except as provided in subsection (b), neither the implementing instructions for, nor the provisions of, Office of Management and Budget Circular A–76 (issued on August 30, 1967, and reissued on October 18, 1976, June 13, 1977, and March 29, 1979) shall control or be used for policy guidance for the obligation or expenditure of any funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law.
 
-“(b) Funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law may be obligated or expended for operation or support of installations or equipment used for research and development (including maintenance support of laboratories, operation and maintenance of test ranges, and maintenance of testaircraft and ships) in compliance with the implementing instructions for and the provisions of such Office of Management and Budget Circular.
+“(b) Funds which under section 138(a)(2) \[now 114(a)(2)\] of title 10, United States Code, are required to be specifically authorized by law may be obligated or expended for operation or support of installations or equipment used for research and development (including maintenance support of laboratories, operation and maintenance of test ranges, and maintenance of test aircraft and ships) in compliance with the implementing instructions for and the provisions of such Office of Management and Budget Circular.
 
 “(c) No law enacted after the date of the enactment of this Act \[Nov. 9, 1979\] shall be held, considered, or construed as amending, superseding, or otherwise modifying any provision of this section unless such law does so by specifically and explicitly amending, repealing, or superseding this section.”
 

@@ -1,6 +1,6 @@
 ### §450. Liability of vessel
 
-Any boat or vessel used or employed in violating any provision of this subchapter, shall beliable to the pecuniary penalties imposed thereby, and may be proceeded against, summarily by way of libel in any district court of the United States having jurisdiction thereof.
+Any boat or vessel used or employed in violating any provision of this subchapter, shall be liable to the pecuniary penalties imposed thereby, and may be proceeded against, summarily by way of libel in any district court of the United States having jurisdiction thereof.
 
 (June 29, 1888, ch. 496, §4, 25 Stat. 210.)
 

@@ -1,22 +1,44 @@
 ### §2263. Study of Corps capability to conserve fish and wildlife
 
-(a) The Secretary shall investigate and study the feasibility of utilizing the capabilities of theUnited States Army Corps of Engineers to conserve fish and wildlife (including their habitats) where such fish and wildlife are indigenous to the United States, its possessions, or its territories. The scope of such study shall include the use of engineering or construction capabilities to create alternative habitats, or to improve, enlarge, develop, or otherwise beneficially modify existing habitats of such fish and wildlife. The study shall be conducted in consultation with the Director of the Fish and Wildlife Service of the Department of the Interior, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, and the Administrator of the Environmental Protection Agency, and shall be transmitted within the 30-month period beginning on November 17, 1986, by the Secretary to Congress, together with the findings, conclusions, and recommendations of the Chief of Engineers. The Secretary, in consultation with the Federal officers referred to in the preceding sentence, shall undertake a continuing review of the matters covered in the study and shall transmit to Congress, on a biennial basis, any revisions to the study that may be required as a result of the review, together with the findings, conclusions, and recommendations of the Chief of Engineers.
+#### (a) Investigation and study
 
-(b) The Secretary is further authorized to conduct projects of alternative or beneficially modified habitats for fish and wildlife, including but not limited to man-made reefs for fish. There is authorized to be appropriated not to exceed $20,000,000 to carry out such projects. Such projects shall be developed, and their effectiveness evaluated, in consultation with the Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
+The Secretary shall investigate and study the feasibility of utilizing the capabilities of the United States Army Corps of Engineers to conserve fish and wildlife (including their habitats) where such fish and wildlife are indigenous to the United States, its possessions, or its territories. The scope of such study shall include the use of engineering or construction capabilities to create alternative habitats, or to improve, enlarge, develop, or otherwise beneficially modify existing habitats of such fish and wildlife. The study shall be conducted in consultationwith the Director of the Fish and Wildlife Service of the Department of the Interior, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, and the Administrator of the Environmental Protection Agency, and shall be transmitted within the 30-month period beginning on November 17, 1986, by the Secretary to Congress, together with the findings, conclusions, and recommendations of the Chief of Engineers. The Secretary, in consultation with the Federal officers referred to in the preceding sentence, shall undertake a continuing review of the matters covered in the study and shall transmit to Congress, on a biennial basis, any revisions to the study that may be required as a result of the review, together with the findings, conclusions, and recommendations of the Chief of Engineers.
 
-&emsp;(1) the construction of a reef for fish habitat in Lake Erie in the vicinity of Buffalo, New York;
+#### (b) Projects
 
-&emsp;(2) the construction of a reef for fish habitat in the Atlantic Ocean in the vicinity of Fort Lauderdale, Florida;
+#### (1) In general
 
-&emsp;(3) the construction of a reef for fish habitat in Lake Ontario in the vicinity of the town of Newfane, New York; and
+&emsp;The Secretary is further authorized to conduct projects of alternative or beneficially modified habitats for fish and wildlife, including but not limited to man-made reefs for fish. There is authorized to be appropriated not to exceed $20,000,000 to carry out such projects. Such projects shall be developed, and their effectiveness evaluated, in consultation with the Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
 
-&emsp;(4) the construction of reefs and related clean shell substrate for fish habitat, including manmade 3-dimensional oyster reefs, in the Chesapeake Bay and its tributaries in Maryland and Virginia if the reefs are preserved as permanent sanctuaries by the non-Federal interests, consistent with the recommendations of the scientific consensus document on Chesapeake Bay oyster restoration dated June 1999.
+&emsp;&emsp;(A) the construction of a reef for fish habitat in Lake Erie in the vicinity of Buffalo, New York;
 
-> The non-Federal share of the cost of any project under this section shall be 25 percent. In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.
+&emsp;&emsp;(B) the construction of a reef for fish habitat in the Atlantic Ocean in the vicinity of Fort Lauderdale, Florida;
 
-(Pub. L. 99–662, title VII, §704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, §505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, §342, Dec. 11, 2000, 114 Stat. 2612.)
+&emsp;&emsp;(C) the construction of a reef for fish habitat in Lake Ontario in the vicinity of the town of Newfane, New York; and
+
+&emsp;&emsp;(D) the construction of reefs and related clean shell substrate for fish habitat, including manmade 3-dimensional oyster reefs, in the Chesapeake Bay and its tributaries in Maryland and Virginia if the reefs are preserved as permanent sanctuaries by the non-Federal interests, consistent with the recommendations of the scientific consensus document on Chesapeake Bay oyster restoration dated June 1999.
+
+#### (2) Cost sharing
+
+#### (A) In general
+
+&emsp;&emsp;The non-Federal share of the cost of any project under this subsection shall be 25 percent.
+
+#### (B) Form
+
+&emsp;&emsp;The non-Federal share may be provided through in-kind services, including the provision by the non-Federal interest of shell stock material that is determined by the Chief of Engineers to be suitable for use in carrying out the project.
+
+#### (C) Applicability
+
+&emsp;&emsp;The non-Federal interest shall be credited with the value of in-kind services provided on or after October 1, 2000, for a project described in paragraph (1) completed on or after that date, if the Secretary determines that the work is integral to the project.
+
+> In carrying out paragraph (4),<sup>1</sup> the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.
+
+(Pub. L. 99–662, title VII, §704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, §505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, §342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, §113, Nov. 12, 2001, 115 Stat. 496.)
 
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–66 inserted subsec. heading, designated introductory provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and substituted par. (2) for first sentence of concluding provisions which read “The non-Federal share of the cost of any project under this section shall be 25 percent.”
 
 2000—Subsec. (b). Pub. L. 106–541, §342(1), (3), substituted “$20,000,000” for “$7,000,000” in second sentence of introductory provisions and inserted at end of concluding provisions “In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.”
 
@@ -27,4 +49,6 @@ Subsec. (b)(4). Pub. L. 106–541, §342(2), added par. (4) and struck out forme
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (a) of this section is listed on page 68), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(1)(D)”.</i>
 

@@ -16,7 +16,7 @@ In this division:
 
 #### (4) Corps members
 
-&emsp;The term “Corps members” means persons receiving training and participating in projects under the Civilian Community Corps Demonstration Program.
+&emsp;The term “Corps members” means persons receiving training and participating inprojects under the Civilian Community Corps Demonstration Program.
 
 #### (5) Director
 

@@ -212,7 +212,7 @@ Miscellaneous Administrative and Support Services.—The Secretary of Defense sh
 
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 
-Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, §1064, Oct. 5, 1999, 113 Stat. 769, Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, provided that:
+Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, §1064, Oct. 5, 1999, 113 Stat. 769, Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title XV, §1514(a), (b)(1), Dec. 28, 2001, 115 Stat. 1273, provided that:
 
 #### “SEC. 1401. SHORT TITLE.
 
@@ -236,7 +236,7 @@ Report.—Not later than January 31, 1999, the President shall submit to Congres
 
 “(a)
 
-Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction againstcities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
+Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terroristemployment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
 
 “(b)
 
@@ -292,7 +292,7 @@ Initial Meeting of the Panel.—The panel shall conduct its first meeting not la
 
 Reports.—(1) Not later than 6 months after the date of the first meeting of the panel, the panel shall submit to the President and to Congress an initial report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
 
-“(2) Not later than December 15 of each year, beginning in 1999 and ending in 2001, the panel shall submit to the President and to the Congress a report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
+“(2) Not later than December 15 of each year, beginning in 1999 and ending in 2003, the panel shall submit to the President and to the Congress a report setting forth its findings, conclusions, and recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction.
 
 “(i)
 
@@ -306,15 +306,15 @@ Funding.—The Secretary of Defense shall provide the funds necessary for the pa
 
 “(k)
 
-Compensation of Panel Members.—(1) Members of the panel shall serve without pay by reason of their work on the panel.
-
-“(2) Members of the panel shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under chapter 57 of title 5, United States Code, while away from their homes or regular place of business in performance of services for the panel.
+Compensation of Panel Members.—The provisions of paragraph (4) of section 591(c) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1999 (as contained in section 101(d) of division A of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277; 112 Stat. 2681–212)), shall apply to members of the panel in the same manner as to members of the National Commission on Terrorism under that paragraph.
 
 “(<i>l</i>)
 
-Termination of the Panel.—The panel shall terminate three years after the date of the appointment of the member selected as chairman of the panel.
+Termination of the Panel.—The panel shall terminate five years after the date of the appointment of the member selected as chairman of the panel.
 
 “(m)
 
 Definition.—In this section, the term ‘weapon of mass destruction’ has the meaning given that term in section 1403(1) of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).”
+
+\[Pub. L. 107–107, div. A, title XV, §1514(b)(2), Dec. 28, 2001, 115 Stat. 1274, provided that: “The amendment made by paragraph (1) \[amending section 1405(k) of Pub. L. 105–261, set out above\] shall apply with respect to periods of service on the advisory panel under section 1405 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] on or after the date of the enactment of this Act \[Dec. 28, 2001\].”\]
 

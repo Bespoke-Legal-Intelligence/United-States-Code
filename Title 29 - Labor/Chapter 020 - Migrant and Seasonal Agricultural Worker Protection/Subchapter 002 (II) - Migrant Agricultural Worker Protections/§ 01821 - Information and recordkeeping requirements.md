@@ -48,7 +48,7 @@ Each farm labor contractor, agricultural employer, and agricultural association 
 
 &emsp;&emsp;(F) the net pay; and
 
-&emsp;(2) provide to each such worker for each pay period, an itemized written statement of the information required by paragraph (1) of this subsection.
+&emsp;(2) provide to each such worker for each pay period, an itemized written statement of theinformation required by paragraph (1) of this subsection.
 
 #### (e) Furnishing of records by farm labor contractor; maintenance of records by recipient
 

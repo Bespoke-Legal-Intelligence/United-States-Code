@@ -60,7 +60,7 @@ A prior section 2101 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 Subsec. (b). Pub. L. 106–386, §1102(b)(2)(A), inserted “State and local courts (including juvenile courts),” after “Indian tribal governments” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 106–386, §§1102(b)(2)(B), 1109(c)(1), substituted “policies, educational programs, and” for “policies and” and inserted “and dating violence” before period at end.
+Subsec. (b)(2). Pub. L. 106–386, §§1102(b)(2)(B), 1109(c)(1), substituted “policies, educational programs,and” for “policies and” and inserted “and dating violence” before period at end.
 
 Subsec. (b)(3), (4). Pub. L. 106–386, §1102(b)(2)(C), (D), inserted “parole and probation officers,” after “prosecutors,”.
 

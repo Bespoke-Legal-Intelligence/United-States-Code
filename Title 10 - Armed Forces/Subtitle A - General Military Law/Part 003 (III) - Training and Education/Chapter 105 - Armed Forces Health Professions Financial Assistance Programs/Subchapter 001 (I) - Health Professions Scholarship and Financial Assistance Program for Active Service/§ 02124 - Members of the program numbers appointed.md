@@ -2,7 +2,7 @@
 
 The number of persons who may be designated as members of the program for training in each health profession shall be as prescribed by the Secretary of Defense, except that the total number of persons so designated may not, at any time, exceed 6,000.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 99–145, title VI,§672(i), Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title VII, §§711(a)(2), 712(b)(1), Dec. 4, 1987, 101 Stat. 1108, 1112; Pub. L. 101–189, div. A, title VII, §725(g), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 102–190, div. A, title VII, §717, Dec. 5, 1991, 105 Stat. 1404.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 718; amended Pub. L. 99–145, title VI, §672(i), Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title VII, §§711(a)(2), 712(b)(1), Dec. 4, 1987, 101 Stat. 1108, 1112; Pub. L. 101–189, div. A, title VII, §725(g), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 102–190, div. A, title VII, §717, Dec. 5, 1991, 105 Stat. 1404.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of a qualified individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 15 percent of such individual's section 22 amount for such taxable year.
+In the case of a qualified individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year anamount equal to 15 percent of such individual's section 22 amount for such taxable year.
 
 #### (b) Qualified individual
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (1) Married couple must file joint return
 
-&emsp;Except in the case of a husband and wife who live apart at all times during the taxable year,if the taxpayer is married at the close of the taxable year, the credit provided by this section shall be allowed only if the taxpayer and his spouse file a joint return for the taxable year.
+&emsp;Except in the case of a husband and wife who live apart at all times during the taxable year, if the taxpayer is married at the close of the taxable year, the credit provided by this section shall be allowed only if the taxpayer and his spouse file a joint return for the taxable year.
 
 #### (2) Marital status
 

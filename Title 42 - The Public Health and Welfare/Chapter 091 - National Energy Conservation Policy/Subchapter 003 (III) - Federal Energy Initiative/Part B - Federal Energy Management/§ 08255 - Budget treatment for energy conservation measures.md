@@ -24,5 +24,5 @@ Executive Order 12759, referred to in par. (2), is Ex. Ord. No. 12759, April 17,
 
 1986—Subsec. (a)(2). Pub. L. 99–509 substituted “average” for “marginal”.
 
-1980—Subsec. (a)(1). Pub. L. 96–294, which directed amendment of par. (1) by inserting provisions setting forth criteria for establishing life-cycle costs for Federal buildings before the period at end, was executed to par. (2) as the probable intent of Congress because par. (1) does not contain a period.
+1980—Subsec. (a)(1). Pub. L. 96–294, which directed amendment of par. (1) by inserting provisions settingforth criteria for establishing life-cycle costs for Federal buildings before the period at end, was executed to par. (2) as the probable intent of Congress because par. (1) does not contain a period.
 

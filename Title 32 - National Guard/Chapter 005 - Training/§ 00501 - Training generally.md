@@ -60,7 +60,7 @@ Pilot Program.—The Chief of the National Guard Bureau shall enter into an agre
 
 “(b)
 
-Funding Assistance.—Amounts made available from Department of Defense accounts for operation and maintenance and for pay and allowances to carry out the pilot program shall be apportioned by the Chief of the National Guard Bureau among those States with which the Chief has entered into approved agreements. In addition to such amounts, the Chief of the National Guard Bureau may authorize any such State, in order to carry out the pilot program during a fiscal year, to use funds received as part of the operation and maintenance allotments and the pay and allowances allotments for the National Guard of the State for that fiscal year.
+Funding Assistance.—Amounts made available from Department of Defense accounts for operation and maintenance and for pay and allowances to carry out the pilot program shall be apportioned by the Chief of the National Guard Bureau among those States with which the Chief has entered into approved agreements.In addition to such amounts, the Chief of the National Guard Bureau may authorize any such State, in order to carry out the pilot program during a fiscal year, to use funds received as part of the operation and maintenance allotments and the pay and allowances allotments for the National Guard of the State for that fiscal year.
 
 “(c)
 
@@ -74,7 +74,7 @@ Maintenance of Effort.—The Chief of the National Guard Bureau shall ensure tha
 
 “(e)
 
-Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose ofensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
+Coordination Among Programs.—In carrying out the pilot program under subsection (a), the Chief of the National Guard Bureau shall consult with the Secretary of Health and Human Services for the purpose of ensuring that the provision of services under the pilot program are not redundant with the services of programs of such Secretary.
 
 “(f)
 

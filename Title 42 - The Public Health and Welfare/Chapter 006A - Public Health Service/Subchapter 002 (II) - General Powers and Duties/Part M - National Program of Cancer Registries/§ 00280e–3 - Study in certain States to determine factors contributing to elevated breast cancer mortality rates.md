@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to subsections (c) and (d) of this section, the Secretary, acting through the Director of the National Cancer Institute, shall conduct a study for the purpose of determining the factors contributing to the fact that breast cancer mortality rates in the States specified in subsection (b) of this section are elevated compared to rates in other States.
+Subject to subsections (c) and (d) of this section, the Secretary, acting through the Directorof the National Cancer Institute, shall conduct a study for the purpose of determining the factors contributing to the fact that breast cancer mortality rates in the States specified in subsection (b) of this section are elevated compared to rates in other States.
 
 #### (b) Relevant States
 

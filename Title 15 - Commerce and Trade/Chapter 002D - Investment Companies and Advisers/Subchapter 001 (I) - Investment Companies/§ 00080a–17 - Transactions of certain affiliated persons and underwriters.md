@@ -6,9 +6,11 @@ It shall be unlawful for any affiliated person or promoter of or principal under
 
 &emsp;(1) knowingly to sell any security or other property to such registered company or to any company controlled by such registered company, unless such sale involves solely (A) securities of which the buyer is the issuer, (B) securities of which the seller is the issuer and which are part of a general offering to the holders of a class of its securities, or (C) securities deposited with the trustee of a unit investment trust or periodic payment plan by the depositor thereof;
 
-&emsp;(2) knowingly to purchase from such registered company, or from any company controlled by such registered company, any security or other property (except securities of which the seller is the issuer); or
+&emsp;(2) knowingly to purchase from such registered company, or from any company controlled by such registered company, any security or other property (except securities of which the seller is the issuer);
 
-&emsp;(3) to borrow money or other property from such registered company or from any company controlled by such registered company (unless the borrower is controlled by the lender) except as permitted in section 80a–21(b) of this title.
+&emsp;(3) to borrow money or other property from such registered company or from any company controlled by such registered company (unless the borrower is controlled by the lender) except as permitted in section 80a–21(b) of this title; or
+
+&emsp;(4) to loan money or other property to such registered company, or to any company controlled by such registered company, in contravention of such rules, regulations, or orders as the Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), prescribe or issue consistent with the protection of investors.
 
 #### (b) Application for exemption of proposed transaction from certain restrictions
 
@@ -36,9 +38,19 @@ It shall be unlawful for any affiliated person of a registered investment compan
 
 &emsp;(2) acting as broker, in connection with the sale of securities to or by such registered company or any controlled company thereof, to receive from any source a commission, fee, or other remuneration for effecting such transaction which exceeds (A) the usual and customary broker's commission if the sale is effected on a securities exchange, or (B) 2 per centum of the sales price if the sale is effected in connection with a secondary distribution of such securities, or (C) 1 per centum of the purchase or sale price of such securities if the sale is otherwise effected unless the Commission shall, by rules and regulations or order in the public interest and consistent with the protection of investors, permit a larger commission.
 
-#### (f) Custody and maintenance of securities and investments
+#### (f) Custody of securities
 
-Every registered management company shall place and maintain its securities and similar investments in the custody of (1) a bank or banks having the qualifications prescribed in paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts; or (2) a company which is a member of a national securities exchange as defined in the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], subject to such rules and regulations as the Commission may from time to time prescribe for the protection of investors; or (3) such registered company, but only in accordance with such rules and regulations or orders as the Commission may from time to time prescribe for the protection of investors. Subject to such rules, regulations, and orders as the Commission may adopt as necessary or appropriate for the protection of investors, a registered management company or any such custodian, with the consent of the registered management company for which it acts as custodian, may deposit all or any part of the securities owned by such registered management company in a system for the central handling of securities established by a national securities exchange or national securities association registered with the Commission under the Securities Exchange Act of 1934, or such other person as may be permitted by the Commission, pursuant to which system all securities of any particular class or series of any issuer deposited within the system are treated as fungible and may be transferred or pledged by bookkeeping entry without physical delivery of such securities. Rules, regulations, and orders of the Commission under this subsection, among other things, may make appropriate provision with respect to such matters as the earmarking, segregation, and hypothecation of such securities and investments, and may provide for or require periodic or other inspections by any or all of the following: Independent public accountants, employees and agents of the Commission, and such other persons as the Commission may designate. No such member which trades in securities for its own account may act as custodian except in accordance with rules and regulations prescribed by the Commission for the protection of investors. If a registered company maintains its securities and similar investments in the custody of a qualified bank or banks, the cash proceeds from the sale of such securities and similar investments and other cash assets of the company shall likewise be kept in the custody ofsuch a bank or banks, or in accordance with such rules and regulations or orders as the Commission may from time to time prescribe for the protection of investors, except that such a registered company may maintain a checking account in a bank or banks having the qualifications prescribed in paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts with the balance of such account or the aggregate balances of such accounts at no time in excess of the amount of the fidelity bond, maintained pursuant to subsection (g) of this section covering the officers or employees authorized to draw on such account or accounts.
+(1) Every registered management company shall place and maintain its securities and similar investments in the custody of (A) a bank or banks having the qualifications prescribed in paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts; or (B) acompany which is a member of a national securities exchange as defined in the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], subject to such rules and regulations as the Commission may from time to time prescribe for the protection of investors; or (C) such registered company, but only in accordance with such rules and regulations or orders as the Commission may from time to time prescribe for the protection of investors.
+
+(2) Subject to such rules, regulations, and orders as the Commission may adopt as necessary or appropriate for the protection of investors, a registered management company or any such custodian, with the consent of the registered management company for which it acts as custodian, may deposit all or any part of the securities owned by such registered management company in a system for the central handling of securities established by a national securities exchange or national securities association registered with the Commission under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or such other person as may be permitted by the Commission, pursuant to which system all securities of any particular class or series of any issuer deposited within the system are treated as fungible and may be transferred or pledged by bookkeeping entry without physical delivery of such securities.
+
+(3) Rules, regulations, and orders of the Commission under this subsection, among other things, may make appropriate provision with respect to such matters as the earmarking, segregation, and hypothecation of such securities and investments, and may provide for or require periodic or other inspections by any or all of the following: Independent public accountants, employees and agents of the Commission, and such other persons as the Commission may designate.
+
+(4) No such member which trades in securities for its own account may act as custodian except in accordance with rules and regulations prescribed by the Commission for the protection of investors.
+
+(5) If a registered company maintains its securities and similar investments in the custody of a qualified bank or banks, the cash proceeds from the sale of such securities and similar investments and other cash assets of the company shall likewise be kept in the custody of such a bank or banks, or in accordance with such rules and regulations or orders as the Commission may from time to time prescribe for the protection of investors, except that such a registered company may maintain a checking account in a bank or banks having the qualifications prescribed in paragraph (1) of section 80a–26(a) of this title for the trustees of unit investment trusts with the balance of such account or the aggregate balances of such accounts at no time in excess of the amount of the fidelity bond, maintained pursuant to subsection (g) of this section covering the officers or employees authorized to draw on such account or accounts.
+
+(6) The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person, promoter, organizer, or sponsor of, or principal underwriter for, a registered management company may serve as custodian of that registered management company.
 
 #### (g) Bonding of officers and employees having access to securities or funds
 
@@ -54,47 +66,21 @@ After one year from the effective date of this subchapter no contract or agreeme
 
 #### (j) Rules and regulations prohibiting fraudulent, deceptive or manipulative courses of conduct
 
-It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company or any affiliated person of an investment adviser of or principal underwriter for a registered investment company, to engage in any act, practice, or course of business in connection with the purchase or sale, directly or indirectly, by such person of any security held or to be acquired by such registered investment company in contravention of such rules and regulations as the Commission may adopt to define, and prescribe means reasonably necessary to prevent, such acts, practices, or courses of business as are fraudulent, deceptive or manipulative. Such rules and regulations may include requirements for the adoption of codes of ethics by registered investment companies and investment advisers of, and principal underwriters for, such investment companies establishing such standards as are reasonably necessary to prevent such acts, practices, or courses of business.
+It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company or any affiliated person of an investment adviser of or principal underwriter for a registered investment company, to engage in any act, practice, or course of business in connection with the purchase or sale, directly or indirectly, by such person of any security held or to be acquired by such registered investment company in contravention of such rules and regulations as the Commission may adopt to define,and prescribe means reasonably necessary to prevent, such acts, practices, or courses of business as are fraudulent, deceptive or manipulative. Such rules and regulations may include requirements for the adoption of codes of ethics by registered investment companies and investment advisers of, and principal underwriters for, such investment companies establishing such standards as are reasonably necessary to prevent such acts, practices, or courses of business.
 
 (Aug. 22, 1940, ch. 686, title I, §17, 54 Stat. 815; Pub. L. 91–547, §9, Dec. 14, 1970, 84 Stat. 1420; Pub. L. 100–181, title VI, §612, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 106–102, title II, §§211(a), 212, Nov. 12, 1999, 113 Stat. 1396.)
 
-#### Amendment of Subsections (a) and (f)
-
-<i>Pub. L. 106–102, title II, §§211(a), 212, 225, Nov. 12, 1999, 113 Stat. 1396, 1402, provided that, effective 18 months after Nov. 12, 1999—</i>
-
-<i>(1) Subsection (a) of this section is amended—</i>
-
-<i>(A) by striking “or” at the end of paragraph (2);</i>
-
-<i>(B) by striking the period at the end of paragraph (3) and inserting “; or”; and</i>
-
-<i>(C) by adding at the end the following new paragraph:</i>
-
-(4) to loan money or other property to such registered company, or to any company controlled by such registered company, in contravention of such rules, regulations, or orders as the Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), prescribe or issue consistent with the protection of investors.
-
-<i>(2) Subsection (f) of this section is amended—</i>
-
-<i>(A) by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively;</i>
-
-<i>(B) by striking “(f) Every registered” and inserting the following:</i>
-
-#### “(f) Custody of securities
-
-“(1) Every registered”;
-
-<i>(C) by redesignating the second, third, fourth, and fifth sentences of such subsection as paragraphs (2) through (5), respectively, and indenting the left margin of such paragraphs appropriately; and</i>
-
-<i>(D) by adding at the end the following new paragraph:</i>
-
-(6) The Commission may, after consultation with and taking into consideration the views of the Federal banking agencies (as defined in section 1813 of title 12), adopt rules and regulations, and issue orders, consistent with the protection of investors, prescribing the conditions under which a bank, or an affiliated person of a bank, either of which is an affiliated person, promoter, organizer, or sponsor of, or principal underwriter for, a registered management company may serve as custodian of that registered management company.
-
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (f), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (f)(1)(B), (2), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 For the effective date of this subchapter, referred to in subsecs. (h) and (i), see section 80a–52 of this title.
 
 #### Amendments
+
+1999—Subsec. (a)(4). Pub. L. 106–102, §212, added par. (4).
+
+Subsec. (f). Pub. L. 106–102, §211(a), inserted heading, designated first sentence as par. (1) and cls. (1) to (3) as (A) to (C), respectively, designated second through fifth sentences as pars. (2) to (5), respectively, and realigned margins, and added par. (6).
 
 1987—Subsec. (h). Pub. L. 100–181 struck out second sentence which read as follows: “In the event that any such instrument does not at the effective date of this chapter comply with the requirements of this subsection and is not amended to comply therewith prior to the expiration of said one year, such company may nevertheless continue to be a registered investment company and shall not be deemed to violate this subsection if prior to said expiration date each such director or officer shall have filed with the Commission a waiver in writing of any protective provision of the instrument to the extent that it does not comply with this subsection, and each such person subsequently elected or appointed shall before assuming office file a similar waiver.”
 

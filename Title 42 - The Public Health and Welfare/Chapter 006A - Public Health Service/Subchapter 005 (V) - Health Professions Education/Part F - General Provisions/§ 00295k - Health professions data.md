@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a program, including a uniform health professions data reporting system, to collect, compile, and analyzedata on health professions personnel which program shall initially include data respecting all physicians and dentists in the States. The Secretary is authorized to expand the program to include, whenever he determines it necessary, the collection, compilation, and analysis of data respecting pharmacists, optometrists, podiatrists, veterinarians, public health personnel, audiologists, speech pathologists, health care administration personnel, nurses, allied health personnel, medical technologists, chiropractors, clinical psychologists, professional counselors, and any other health personnel in States designated by the Secretary to be included in the program. Such data shall include data respecting the training, licensure status (including permanent, temporary, partial, limited, or institutional), place or places of practice, professional specialty, practice characteristics, place and date of birth, sex, and socioeconomic background of health professions personnel and such other demographic information regarding health professions personnel as the Secretary may require.
+The Secretary shall establish a program, including a uniform health professions data reporting system, to collect, compile, and analyze data on health professions personnel which program shall initially include data respecting all physicians and dentists in the States. The Secretary is authorized to expand the program to include, whenever he determines it necessary, the collection, compilation, and analysis of data respecting pharmacists, optometrists, podiatrists, veterinarians, public health personnel, audiologists, speech pathologists, health care administration personnel, nurses, allied health personnel, medical technologists, chiropractors, clinical psychologists, professional counselors, and any other health personnel in States designated by the Secretary to be included in the program. Such data shall include data respecting the training, licensure status (including permanent, temporary, partial, limited, or institutional), place or places of practice, professional specialty, practice characteristics, place and date of birth, sex, and socioeconomic background of health professions personnel and such other demographic information regarding health professions personnel as the Secretary may require.
 
 #### (b) Certain authorities and requirements
 
@@ -40,7 +40,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 &emsp;&emsp;(A) inform any individual who is asked to supply personal data whether he is legally required, or may refuse, to supply such data and inform him of any specific consequences, known to the Secretary or program entity, as the case may be, of providing or not providing such data;
 
-&emsp;&emsp;(B) upon request, inform any individual if he is the subject of personal data secured or maintained by the Secretary or program entity, as the case may be, and make the data available to him in a form comprehensible to him;
+&emsp;&emsp;(B) upon request, inform any individual if he is the subject of personal data secured ormaintained by the Secretary or program entity, as the case may be, and make the data available to him in a form comprehensible to him;
 
 &emsp;&emsp;(C) assure that no use is made of personal data which use is not within the purposes of this section unless an informed consent has been obtained from the individual who is the subject of such data; and
 
@@ -48,7 +48,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 #### (2) Consent as precondition to disclosure
 
-&emsp;Any entity which maintains a record of personal data and which receives a request from the Secretary or a program entity for such data for purposes of this section shall nottransfer any such data to the Secretary or to a program entity unless the individual whose personal data is to be so transferred gives an informed consent for such transfer.
+&emsp;Any entity which maintains a record of personal data and which receives a request from the Secretary or a program entity for such data for purposes of this section shall not transfer any such data to the Secretary or to a program entity unless the individual whose personal data is to be so transferred gives an informed consent for such transfer.
 
 #### (3) Disclosure by Secretary
 
@@ -104,7 +104,7 @@ Section 301 of Pub. L. 102–408, as amended by Pub. L. 102–531, title III, §
 
 #### Commission on Allied Health
 
-Section 302 of Pub. L. 102–408 provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a final report due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
+Section 302 of Pub. L. 102–408 provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations ofCommission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a final report due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
 
 #### Study Regarding Shortage of Clinical Laboratory Technologists for Medically Underserved and Rural Communities
 

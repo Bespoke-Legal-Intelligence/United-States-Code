@@ -24,7 +24,7 @@ Subpart B—Other Credits
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 38, 53, 469, 6401 of this title.
+This subpart is referred to in sections 38, 45F, 53, 469, 6401 of this title.
 
 
 ---

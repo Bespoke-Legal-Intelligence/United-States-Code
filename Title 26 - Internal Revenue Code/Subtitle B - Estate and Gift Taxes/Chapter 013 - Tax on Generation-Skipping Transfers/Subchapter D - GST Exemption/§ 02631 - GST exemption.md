@@ -24,11 +24,25 @@ Any allocation under subsection (a), once made, shall be irrevocable.
 
 &emsp;Any increase under paragraph (1) for any calendar year shall apply only to generation-skipping transfers made during or after such calendar year; except that no such increase for calendar years after the calendar year in which the transferor dies shall apply to transfers by such transferor.
 
-(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 105–34, title V, §501(d), Aug. 5, 1997, 111 Stat. 846; Pub. L. 105–206, title VI, §6007(a)(1), July 22, 1998, 112 Stat. 806.)
+(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 105–34, title V, §501(d), Aug. 5, 1997, 111 Stat. 846; Pub. L. 105–206, title VI, §6007(a)(1), July 22, 1998, 112 Stat. 806; Pub. L. 107–16, title V, §521(c), June 7, 2001, 115 Stat. 72.)
 
-#### Adjustment of Generation-Skipping Transfer Tax Exemption for Calendar Year 2001
+#### Adjustment of Generation-Skipping Transfer Tax Exemption for Calendar Year 2002
 
-<i>For adjustment of generation-skipping transfer tax exemption under this section for calendar year 2001, see section 3.18 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of generation-skipping transfer tax exemption under this section for calendar year 2002, see section 3.20 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
+
+#### Amendment of Section
+
+<i>Pub. L. 107–16, title V, §521(c), (e)(3), title IX, §901, June 7, 2001, 115 Stat. 72, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, this section is temporarily amended as follows:</i>
+
+<i>(1) in subsection (a), by substituting “amount” for “of $1,000,000”; and</i>
+
+<i>(2) by amending subsection (c) to read as follows:</i>
+
+#### <i>(c) GST exemption amount</i>
+
+<i>For purposes of subsection (a), the GST exemption amount for any calendar year shall be equal to the applicable exclusion amount under section 2010(c) for such calendar year.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -41,6 +55,12 @@ Any allocation under subsection (a), once made, shall be irrevocable.
 > If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.”
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2003, see section 521(e)(3) of Pub. L. 107–16, set out as a note under section 2010 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

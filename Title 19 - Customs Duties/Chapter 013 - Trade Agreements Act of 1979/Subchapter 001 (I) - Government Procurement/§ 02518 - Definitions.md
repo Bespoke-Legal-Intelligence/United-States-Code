@@ -48,7 +48,7 @@ As used in this subchapter—
 
 #### (D) Lowered threshold for certain products as a consequence of United States-Canada Free-Trade Agreement
 
-&emsp;&emsp;Except as otherwise agreed by the United States and Canada under paragraph 3 of article 1304 of the United States-Canada Free-Trade Agreement, the term “eligible product” includes a product or service of Canada having a contract value of $25,000 or more that would be covered for procurement bythe United States under the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.
+&emsp;&emsp;Except as otherwise agreed by the United States and Canada under paragraph 3 of article 1304 of the United States-Canada Free-Trade Agreement, the term “eligible product” includes a product or service of Canada having a contract value of $25,000 or more that would be covered for procurement by the United States under the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.
 
 #### (5) Instrumentality
 
@@ -66,7 +66,7 @@ As used in this subchapter—
 
 #### References in Text
 
-Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of the title.
+Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96–39 title VI, July 26, 1979, 93 Stat. 267, which directed a duty rate of “Free” in the rate column numbered 1 of the Tariff Schedules of the United States for articles classified under specified items between 518.51 and 772.65 which the President determines would provide coverage comparable to that provided by foreign countries in the Annex to the Agreement on Trade in Civil Aircraft if such articles were certified for use in civil aircraft in accordance with headnote 3 to schedule 6, part 6, subpart C of the Tariff Schedules of the United States. The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States, which is not set out in the Code. See Publication ofHarmonized Tariff Schedule note set out under section 1202 of the title.
 
 #### Amendments
 

@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;(9) A national system for the collection, analysis, and dissemination of fire data is needed to help local fire services establish research and action priorities.
 
-&emsp;(10) The number of specialized medical centers which are properly equipped and staffed for the treatment of burns and the rehabilitation of victims of fires is inadequate.
+&emsp;(10) The number of specialized medical centers which are properly equipped and staffedfor the treatment of burns and the rehabilitation of victims of fires is inadequate.
 
 &emsp;(11) The unacceptably high rates of death, injury, and property loss from fire can be reduced if the Federal Government establishes a coordinated program to support and reinforce the fire prevention and control activities of State and local governments.
 
@@ -118,7 +118,7 @@ Findings.—Congress finds that—
 
 &emsp;“(3) automatic sprinklers and smoke detectors should supplement and not supplant other fire protection measures, including existing requirements for fire resistive walls and fire retardant furnishings;
 
-&emsp;“(4) some State and local governments and the hotel industry need to act more rapidly to require the installation and use of automatic sprinkler systems in hotels; and
+&emsp;“(4) some State and local governments and the hotel industry need to act more rapidly to require theinstallation and use of automatic sprinkler systems in hotels; and
 
 &emsp;“(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use of residential sprinkler systems and other means of fire prevention and control.
 
@@ -242,7 +242,7 @@ The new Agency would be in this position. To increase White House oversight and 
 
 The communications, warning, evacuation, and public education processes involved in preparedness for a possible nuclear attack should be developed, tested, and used for major natural and accidental disasters as well. Consolidation of civil defense functions in the new Agency will assure that attack readiness programs are effectively integrated into the preparedness organizations and programs of State and local government, private industry, and volunteer organizations.
 
-While serving an important “all hazards” readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight ofcivil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
+While serving an important “all hazards” readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight of civil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
 
 <i>Third, whenever possible, emergency responsibilities should be extensions of the regular missions of Federal agencies</i>. The primary task of the Federal Emergency Management Agency will be to coordinate and plan for the emergency deployment of resources that have other routine uses. There is no need to develop a separate set of Federal skills and capabilities for those rare occasions when catastrophe occurs.
 

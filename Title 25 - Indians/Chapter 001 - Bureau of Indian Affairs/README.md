@@ -29,6 +29,7 @@
 | (c) | No effect on other eligibility requirements. |
 | 13d–3. | Tribal authority to change eligibility for, or amount of, general assistance payments. |
 | [13e.](%C2%A7%2000013e%20-%20Expenses%20of%20exhibits%3B%20advance%20payments%20for%20services%3B%20termination%20of%20Federal%20supervision%3B%20treaty%20expenses.md) | Expenses of exhibits; advance payments for services; termination of Federal supervision; treaty expenses. |
+| [13f.](%C2%A7%2000013f%20-%20Tribal%20priority%20allocations%20in%20Alaska.md) | Tribal priority allocations in Alaska. |
 | [14\.](%C2%A7%2000014%20-%20Money%20accruing%20to%20Indians%20from%20Department%20of%20Veterans%20Affairs%20or%20other%20governmental%20agencies.md) | Money accruing to Indians from Department of Veterans Affairs or other governmental agencies. |
 | [14a.](%C2%A7%2000014a%20-%20Deposit%20of%20grant%20funds%20received%20by%20Bureau%20from%20other%20Federal%20agencies.md) | Deposit of grant funds received by Bureau from other Federal agencies. |
 | [14b.](%C2%A7%2000014b%20-%20Disposition%20of%20funds%20received%20from%20public%20for%20goods%20and%20services%20provided%20by%20Bureau%20of%20Indian%20Affairs.md) | Disposition of funds received from public for goods and services provided by Bureau of Indian Affairs. |
@@ -78,6 +79,7 @@ Ex. Ord. No. 11399, Mar. 6, 1968, 33 F.R. 4245, as amended by Ex. Ord. 11551, Au
 - [&sect; 00013d&#8211;2 - Enrollment and general assistance payments](%C2%A7%2000013d%E2%80%932%20-%20Enrollment%20and%20general%20assistance%20payments.md)
 - [&sect; 00013d&#8211;3 - Tribal authority to change eligibility for, or amount of, general assistance payments](%C2%A7%2000013d%E2%80%933%20-%20Tribal%20authority%20to%20change%20eligibility%20for%2C%20or%20amount%20of%2C%20general%20assistance%20payments.md)
 - [&sect; 00013e - Expenses of exhibits; advance payments for services; termination of Federal supervision; treaty expenses](%C2%A7%2000013e%20-%20Expenses%20of%20exhibits%3B%20advance%20payments%20for%20services%3B%20termination%20of%20Federal%20supervision%3B%20treaty%20expenses.md)
+- [&sect; 00013f - Tribal priority allocations in Alaska](%C2%A7%2000013f%20-%20Tribal%20priority%20allocations%20in%20Alaska.md)
 - [&sect; 00014 - Money accruing to Indians from Department of Veterans Affairs or other governmental agencies](%C2%A7%2000014%20-%20Money%20accruing%20to%20Indians%20from%20Department%20of%20Veterans%20Affairs%20or%20other%20governmental%20agencies.md)
 - [&sect; 00014a - Deposit of grant funds received by Bureau from other Federal agencies](%C2%A7%2000014a%20-%20Deposit%20of%20grant%20funds%20received%20by%20Bureau%20from%20other%20Federal%20agencies.md)
 - [&sect; 00014b - Disposition of funds received from public for goods and services provided by Bureau of Indian Affairs](%C2%A7%2000014b%20-%20Disposition%20of%20funds%20received%20from%20public%20for%20goods%20and%20services%20provided%20by%20Bureau%20of%20Indian%20Affairs.md)

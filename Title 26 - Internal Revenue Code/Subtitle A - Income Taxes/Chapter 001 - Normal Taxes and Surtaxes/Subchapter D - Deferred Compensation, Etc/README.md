@@ -13,7 +13,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 861, 6103, 7476, 7802 of this title; title 29 sections 623, 1054.
+This subchapter is referred to in sections 6103, 7476, 7802 of this title; title 29 sections 623, 1054.
 
 
 ---

@@ -8,5 +8,5 @@ It is the policy of this chapter, to the fullest extent feasible and consistent 
 
 #### Amendments
 
-1970—Pub. L. 91–412 struck out provisos of first par. for deposit of moneys received for services and publications after Sept. 9, 1950, in a special account in the Treasury, to be available, subject to appropriation authorizations, for reimbursement of appropriations andfor refunds to organizations and individuals entitled thereto, and making appropriations reimbursed by the special account available for original purposes. See section 1526 of this title.
+1970—Pub. L. 91–412 struck out provisos of first par. for deposit of moneys received for services and publications after Sept. 9, 1950, in a special account in the Treasury, to be available, subject to appropriation authorizations, for reimbursement of appropriations and for refunds to organizations and individuals entitled thereto, and making appropriations reimbursed by the special account available for original purposes. See section 1526 of this title.
 

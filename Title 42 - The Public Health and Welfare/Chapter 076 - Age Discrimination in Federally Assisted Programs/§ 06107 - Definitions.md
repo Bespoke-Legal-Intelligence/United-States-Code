@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B)(i) a college, university, or other postsecondary institution, or a public system of higher education; or
 
-&emsp;&emsp;(ii) a local educational agency (as defined in section 8801 of title 20), system of vocational education, or other school system;
+&emsp;&emsp;(ii) a local educational agency (as defined in section 7801 of title 20), system of vocational education, or other school system;
 
 &emsp;&emsp;(C)(i) an entire corporation, partnership, or other private organization, or an entire sole proprietorship—
 
@@ -30,9 +30,11 @@ For purposes of this chapter—
 
 > &emsp;any part of which is extended Federal financial assistance.
 
-(Pub. L. 94–135, title III, §309, formerly §308, Nov. 28, 1975, 89 Stat. 731; renumbered §309, Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–259, §5, Mar. 22, 1988, 102 Stat. 30; Pub. L. 103–382, title III, §391(u), Oct. 20, 1994, 108 Stat. 4025.)
+(Pub. L. 94–135, title III, §309, formerly §308, Nov. 28, 1975, 89 Stat. 731; renumbered §309, Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–259, §5, Mar. 22, 1988, 102 Stat. 30; Pub. L. 103–382, title III, §391(u), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 107–110, title X, §1076(z), Jan. 8, 2002, 115 Stat. 2093.)
 
 #### Amendments
+
+2002—Par. (4)(B)(ii). Pub. L. 107–110 substituted “7801” for “8801”.
 
 1994—Par. (4)(B)(ii). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 198(a)(10), of the Elementary and Secondary Education Act of 1965”.
 
@@ -41,6 +43,10 @@ For purposes of this chapter—
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (2), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Exclusion From Coverage
 

@@ -160,7 +160,7 @@ Assistance and other activities under the SEED Program (which may be referred to
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424,as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -184,7 +184,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. <i>SEED Program Coordinator</i>. The functions conferred by Title VII of the Act \[22 U.S.C. 5471 et seq.\] relating to reports to the Congress are hereby delegated to the Coordinator of the SEED Program. The Coordinator is authorized to assign responsibility for particular aspects of the reports to appropriate agencies.
 
-Sec. 2. <i>Department of State</i>. The functions conferred upon the President by section 201 of the Act \[22 U.S.C.5421\] relating to Enterprise Funds for Poland and Hungary are hereby delegated to the Secretary of State.
+Sec. 2. <i>Department of State</i>. The functions conferred upon the President by section 201 of the Act \[22 U.S.C. 5421\] relating to Enterprise Funds for Poland and Hungary are hereby delegated to the Secretary of State.
 
 Sec. 3. <i>Department of Commerce</i>. The functions conferred upon the President by section 602 of the Act \[22 U.S.C. 5462\] regarding the establishment of a SEED Information Center System in cooperation with the Governments of Poland and Hungary are hereby delegated to the Secretary of Commerce. This authority is to be exercised in consultation with the SEED Program Coordinator and in consultation with other agencies as appropriate.
 

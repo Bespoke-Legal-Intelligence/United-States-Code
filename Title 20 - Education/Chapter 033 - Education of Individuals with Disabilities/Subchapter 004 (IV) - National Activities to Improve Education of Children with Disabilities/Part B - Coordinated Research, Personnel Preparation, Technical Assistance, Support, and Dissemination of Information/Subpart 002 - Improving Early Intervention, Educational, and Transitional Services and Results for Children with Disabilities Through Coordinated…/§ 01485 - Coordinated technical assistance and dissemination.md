@@ -18,7 +18,7 @@ The Secretary shall, by competitively making grants or entering into contracts a
 
 &emsp;&emsp;(B) Promoting change through a multistate or regional framework that benefits States, local educational agencies, and other participants in partnerships that are in the process of achieving systemic-change outcomes.
 
-&emsp;&emsp;(C) Increasing the depth and utility of information in ongoing and emerging areas ofpriority need identified by States, local educational agencies, and other participants in partnerships that are in the process of achieving systemic-change outcomes.
+&emsp;&emsp;(C) Increasing the depth and utility of information in ongoing and emerging areas of priority need identified by States, local educational agencies, and other participants in partnerships that are in the process of achieving systemic-change outcomes.
 
 &emsp;&emsp;(D) Promoting communication and information exchange among States, local educational agencies, and other participants in partnerships, based on the needs and concerns identified by the participants in the partnerships, rather than on externally imposed criteria or topics, regarding—
 
@@ -56,7 +56,7 @@ The Secretary shall, by competitively making grants or entering into contracts a
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall carry out or support information dissemination activities that are consistent with the objectives described in subsection (a) of this section, including activities that address national needs for the preparation and dissemination of information relating to eliminating barriers to systemic-change and improving early intervention, educational, and transitional results for children with disabilities.
+&emsp;In carrying out this section, the Secretary shall carry out or support information dissemination activities that are consistent with the objectives described in subsection (a) of this section, including activities that addressnational needs for the preparation and dissemination of information relating to eliminating barriers to systemic-change and improving early intervention, educational, and transitional results for children with disabilities.
 
 #### (2) Authorized activities
 

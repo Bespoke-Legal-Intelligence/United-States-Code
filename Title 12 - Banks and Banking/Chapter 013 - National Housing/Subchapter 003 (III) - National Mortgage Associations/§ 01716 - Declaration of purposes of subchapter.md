@@ -20,7 +20,7 @@ The Congress declares that the purposes of this subchapter are to establish seco
 
 Par. (1). Pub. L. 102–550, §1381(a)(1), substituted “residential” for “home”.
 
-Par. (3). Pub. L. 102–550, §1381(a)(1), (2), substituted “residential” for “home” in two places, substituted“(including activities relating to mortgages on housing for low- and moderate-income families involving a reasonable economic return that may be less than the return earned on other activities)” for “(including mortgages securing housing for low- and moderate-income families involving a reasonable economic return)”, and struck out “and” at end.
+Par. (3). Pub. L. 102–550, §1381(a)(1), (2), substituted “residential” for “home” in two places, substituted “(including activities relating to mortgages on housing for low- and moderate-income families involving a reasonable economic return that may be less than the return earned on other activities)” for “(including mortgages securing housing for low- and moderate-income families involving a reasonable economic return)”, and struck out “and” at end.
 
 Par. (4). Pub. L. 102–550, §1381(a)(3), (4), added par. (4) and redesignated former par. (4) as (5).
 
@@ -100,7 +100,7 @@ Functions of President under this section delegated to Secretary of Housing and 
 
 #### Service or Sale of Mortgages Purchased Prior to July 1, 1948; Fulfillment of Prior Commitments
 
-Section 2 of act July 1, 1948, provided that: “Nothing in the amendment made by the first section of this Act \[amending sections 1716, 1717 to 1721 of this title\] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchasedprior to the date of the enactment of this Act \[July 1, 1948\], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act \[July 1, 1948\].”
+Section 2 of act July 1, 1948, provided that: “Nothing in the amendment made by the first section of this Act \[amending sections 1716, 1717 to 1721 of this title\] shall limit the authority of the Federal National Mortgage Association to service or sell any mortgage purchased prior to the date of the enactment of this Act \[July 1, 1948\], or to purchase, service, or sell any mortgage with respect to which a commitment to purchase was made prior to the date of the enactment of this Act \[July 1, 1948\].”
 
 #### Section Referred to in Other Sections
 

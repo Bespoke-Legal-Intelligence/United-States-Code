@@ -20,5 +20,5 @@ For effective date and applicability of section, see section 6303 of Pub. L. 100
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 13d–2, 640a, 640c–1, 640c–2, 1812, 1851 of this title; title 20 sections 1085, 3489.
+This section is referred to in sections 13d–2, 640a, 640c–1, 640c–2, 1812, 1851 of this title; title 20 sections 1085, 2327, 3489.
 

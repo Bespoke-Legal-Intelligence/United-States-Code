@@ -52,7 +52,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(viii) to the extent that information is available, a description of the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are served through home and community-based waivers (authorized under section 1396n(c) of this title) receive;
 
-&emsp;&emsp;(D) a description of how entities funded under parts C and D of this subchapter, through interagency agreements or other mechanisms, collaborated with the entityfunded under this part in the State, each other, and other entities to contribute to the achievement of the purpose of this part; and
+&emsp;&emsp;(D) a description of how entities funded under parts C and D of this subchapter, through interagency agreements or other mechanisms, collaborated with the entity funded under this part in the State, each other, and other entities to contribute to the achievement of the purpose of this part; and
 
 &emsp;&emsp;(E) the rationale for the goals related to advocacy, capacity building, and systemic change to be undertaken by the Council to contribute to the achievement of the purpose of this part.
 
@@ -126,7 +126,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (G) Individualized services
 
-&emsp;&emsp;The plan shall provide assurances that any direct services provided to individuals withdevelopmental disabilities and funded under the plan will be provided in an individualized manner, consistent with the unique strengths, resources, priorities, concerns, abilities, and capabilities of such individual.
+&emsp;&emsp;The plan shall provide assurances that any direct services provided to individuals with developmental disabilities and funded under the plan will be provided in an individualized manner, consistent with the unique strengths, resources, priorities, concerns, abilities, and capabilities of such individual.
 
 #### (H) Human rights
 
@@ -154,7 +154,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (N) Other assurances
 
-&emsp;&emsp;The plan shall contain such additional information and assurances as the Secretary may find necessary to carry out the provisions (including the purpose) of this part.
+&emsp;&emsp;The plan shall contain such additional information and assurances as the Secretarymay find necessary to carry out the provisions (including the purpose) of this part.
 
 #### (d) Public input and review, submission, and approval
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) research into the evaluation of techniques (including surgical, medical, and behavioral approaches) and devices (including hearing aids, implanted auditory and nonauditory prosthetic devices and other communication aids) used in diagnosis, treatment, rehabilitation, and prevention of disorders of hearing and other communication processes;
 
-&emsp;(3) research into prevention, and early detection and diagnosis, of hearing loss and speech and language disturbances (including stuttering) and research into preventing the effects of such disorders on learning and learning disabilities with extension of programs for appropriate referral and rehabilitation;
+&emsp;(3) research into prevention, and early detection and diagnosis, of hearing loss and speechand language disturbances (including stuttering) and research into preventing the effects of such disorders on learning and learning disabilities with extension of programs for appropriate referral and rehabilitation;
 
 &emsp;(4) research into the detection, treatment, and prevention of disorders of hearing and other communication processes in the growing elderly population with extension of rehabilitative programs to ensure continued effective communication skills in such population;
 
@@ -16,7 +16,7 @@
 
 &emsp;(6) developing and facilitating intramural programs on clinical and fundamental aspects of disorders of hearing and all other communication processes.
 
-(July 1, 1944, ch. 373, title IV, §464A, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2769,and Pub. L. 100–607, title I, §101(4), Nov. 4, 1988, 102 Stat. 3049; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238.)
+(July 1, 1944, ch. 373, title IV, §464A, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2769, and Pub. L. 100–607, title I, §101(4), Nov. 4, 1988, 102 Stat. 3049; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238.)
 
 #### Codification
 

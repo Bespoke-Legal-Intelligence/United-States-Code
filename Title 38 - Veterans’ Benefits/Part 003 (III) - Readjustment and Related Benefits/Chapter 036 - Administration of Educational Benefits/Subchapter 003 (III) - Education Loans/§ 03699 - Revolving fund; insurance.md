@@ -10,7 +10,7 @@
 
 (e) A fee shall be collected from each veteran or person obtaining a loan made under this subchapter for the purpose of insuring against defaults on loans made under this subchapter; and no loan shall be made under this subchapter until the fee payable with respect to such loan has been collected and remitted to the Secretary. The amount of the fee shall be established from time to time by the Secretary, but shall in no event exceed 3 percent of the total loan amount. The amount of the fee may be included in the loan to the veteran or person and paid from the proceeds thereof.
 
-(Added Pub. L. 93–508, title III, §301(a), Dec. 3, 1974, 88 Stat. 1591, §1799; amended Pub. L. 94–502,title V, §513(a)(24), Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, §423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3699 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 93–508, title III, §301(a), Dec. 3, 1974, 88 Stat. 1591, §1799; amended Pub. L. 94–502, title V, §513(a)(24), Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–295, §4(61), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 101–237, title IV, §423(b)(1), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3699 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

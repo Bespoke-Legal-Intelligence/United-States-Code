@@ -2972,7 +2972,7 @@ Section 245(a)–(c) of Pub. L. 92–603 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 255, 295p, 297n, 300t–12, 426–1, 1301, 1320a–1, 1320a–3, 1320a–7b, 1320c–3, 1320c–11, 1320d, 1395a, 1395d, 1395f, 1395g, 1395h, 1395i–3, 1395i–4, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395r, 1395u, 1395w–3, 1395w–4, 1395w–22, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395dd, 1395ee, 1395mm, 1395nn, 1395pp, 1395qq, 1395rr, 1395tt, 1395uu, 1395ww, 1395yy, 1395bbb, 1395eee, 1395fff, 1396a, 1396b, 1396d, 1396g, 1396n, 1396r, 1396u–2, 3032c, 11151 of this title; title 10 sections 1077, 1079; title 25 sections 1621d, 1621k; title 26 sections 101, 213, 415, 7702B.
+This section is referred to in sections 255, 295p, 297n, 300t–12, 426–1, 1301, 1320a–1, 1320a–3, 1320a–7b, 1320c–3, 1320c–11, 1320d, 1395a, 1395d, 1395f, 1395g, 1395h, 1395i–3, 1395i–4, 1395k, 1395<i>l</i>, 1395m, 1395n, 1395r, 1395u, 1395w–3, 1395w–4, 1395w–22, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395dd, 1395ee, 1395mm, 1395nn, 1395pp, 1395qq, 1395rr, 1395tt, 1395uu, 1395ww, 1395yy, 1395bbb, 1395eee, 1395fff, 1396a, 1396b, 1396d, 1396g, 1396n, 1396r, 1396u–2, 3032c, 11151 of this title; title 10 sections 1074j, 1077, 1079; title 25 sections 1621d, 1621k; title 26 sections 101, 213, 7702B.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

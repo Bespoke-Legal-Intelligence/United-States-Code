@@ -18,7 +18,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;(4) enhancing the general child protective system by improving risk and safety assessment tools and protocols, automation systems that support the program and track reports of child abuse and neglect from intake through final disposition and information referral systems;
 
-&emsp;(5) developing, strengthening, and facilitating training opportunities and requirementsfor individuals overseeing and providing services to children and their families through the child protection system;
+&emsp;(5) developing, strengthening, and facilitating training opportunities and requirements for individuals overseeing and providing services to children and their families through the child protection system;
 
 &emsp;(6) developing and facilitating training protocols for individuals mandated to report child abuse or neglect;
 
@@ -68,7 +68,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;&emsp;(iv) provisions for immunity from prosecution under State and local laws and regulations for individuals making good faith reports of suspected or known instances of child abuse or neglect;
 
-&emsp;&emsp;&emsp;(v) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child's parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III of this chapter shall only be made available to—
+&emsp;&emsp;&emsp;(v) methods to preserve the confidentiality of all records in order to protect the rights of the child and of the child's parents or guardians, including requirements ensuring that reports and records made and maintained pursuant to the purposes of this subchapter and subchapter III ofthis chapter shall only be made available to—
 
 &emsp;&emsp;&emsp;&emsp;(I) individuals who are the subject of the report;
 
@@ -124,7 +124,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(C) a description of—
 
-&emsp;&emsp;&emsp;(i) the services to be provided under the grant to individuals, families, or communities, either directly or through referrals aimed at preventing the occurrence of child abuse and neglect;
+&emsp;&emsp;&emsp;(i) the services to be provided under the grant to individuals, families, or communities, either directly or through referralsaimed at preventing the occurrence of child abuse and neglect;
 
 &emsp;&emsp;&emsp;(ii) the training to be provided under the grant to support direct line and supervisory personnel in report taking, screening, assessment, decision making, and referral for investigating suspected instances of child abuse and neglect; and
 
@@ -142,7 +142,7 @@ The Secretary shall make grants to the States, based on the population of childr
 
 &emsp;&emsp;(A) the term “near fatality” means an act that, as certified by a physician, places the child in serious or critical condition; and
 
-&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial riskof death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
+&emsp;&emsp;(B) the term “serious bodily injury” means bodily injury which involves substantial risk of death, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
 #### (c) Citizen review panels
 
@@ -288,7 +288,7 @@ Subsecs. (e) to (g). Pub. L. 102–295, §114(b)(1), redesignated subsecs. (d) t
 
 #### Effective Date of 1992 Amendment
 
-Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention and Treatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
+Section 114(d) of Pub. L. 102–295, as amended by Pub. L. 103–171, §9(a), Dec. 2, 1993, 107 Stat. 1994, providedthat: “The amendments described in subsections (a) and (b) \[amending this section\] are made upon the date of the enactment of this Act \[May 28, 1992\]. Such amendments take effect on October 1 of the first fiscal year for which $40,000,000 or more is made available under subsection (a)(2)(B)(ii) of section 114 of the Child Abuse Prevention and Treatment Act \[section 5106h(a)(2)(B)(ii) of this title\] (as amended by section 117 of this Act). Prior to such amendments taking effect, section 107(a) of the Child Abuse Prevention and Treatment Act \[subsec. (a) of this section\], as in effect on the day before the date of the enactment of this Act, continues to be in effect.”
 
 \[Pub. L. 103–171, §9(b), Dec. 2, 1993, 107 Stat. 1994, provided that: “The amendments made by subsection (a) \[amending section 114(d) of Pub. L. 102–295, set out above\] take effect on September 30, 1993.”\]
 

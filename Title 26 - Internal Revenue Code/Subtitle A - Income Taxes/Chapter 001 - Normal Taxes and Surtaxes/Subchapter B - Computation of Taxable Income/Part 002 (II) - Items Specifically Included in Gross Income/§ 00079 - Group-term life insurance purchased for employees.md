@@ -96,7 +96,7 @@ For purposes of this section and section 6052, the cost of group-term insurance 
 
 #### (B) Definitions
 
-&emsp;&emsp;For purposes of subparagraph (A), the terms “church plan” and “church employee”have the meaning given such terms by paragraphs (1) and (3)(B) of section 414(e), respectively, except that—
+&emsp;&emsp;For purposes of subparagraph (A), the terms “church plan” and “church employee” have the meaning given such terms by paragraphs (1) and (3)(B) of section 414(e), respectively, except that—
 
 &emsp;&emsp;&emsp;(i) section 414(e) shall be applied by substituting “section 501(c)(3)” for “section 501” each place it appears, and
 
@@ -236,7 +236,7 @@ Special rule in the case of discriminatory group-term life insurance plan.—In 
 
 &emsp;“(C)
 
-Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory.—For purposes of determining whether a plan described in subparagraph (A) meets the requirements of section 79(d) of the Internal Revenue Code of 1986 with respect to group-term life insurance for former employees, coverage provided to employees who retired on or before December 31, 1986, may, at the employer's election, be disregarded.
+Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory.—For purposes of determining whether a plan described in subparagraph (A) meets the requirements of section 79(d) ofthe Internal Revenue Code of 1986 with respect to group-term life insurance for former employees, coverage provided to employees who retired on or before December 31, 1986, may, at the employer's election, be disregarded.
 
 &emsp;“(D)
 
@@ -260,9 +260,9 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 83, 125, 414, 505, 861, 6039D, 6052, 7701 of this title.
+This section is referred to in sections 83, 125, 414, 505, 6039D, 6052, 7701 of this title.
 

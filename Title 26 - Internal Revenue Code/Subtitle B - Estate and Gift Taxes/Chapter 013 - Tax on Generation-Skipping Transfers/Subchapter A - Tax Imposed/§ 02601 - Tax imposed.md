@@ -94,7 +94,7 @@ In general.—For purposes of chapter 13 of the Internal Revenue Code of 1986 (a
 
 &emsp;&emsp;“(A) the transfer occurs before the date of enactment of this Act \[Oct. 22, 1986\],
 
-&emsp;&emsp;“(B) the transfer would be a direct skip to a grandchild except for the fact that the trust instrument provides that, if the grandchild dies before vesting of the interest transferred, the interest is transferred to the grandchild's heir (rather than the grandchild's estate), and
+&emsp;&emsp;“(B) the transfer would be a direct skip to a grandchild except for the fact that the trust instrument provides that, if the grandchild dies beforevesting of the interest transferred, the interest is transferred to the grandchild's heir (rather than the grandchild's estate), and
 
 &emsp;&emsp;“(C) an election under this subsection applies to such transfer.
 
@@ -132,7 +132,7 @@ Exceptions.—The amendments made by this section shall not apply to any generat
 
 &emsp;“(B) in the case of a decedent dying before January 1, 1983, pursuant to a will (or revocable trust) which was in existence on June 11, 1976, and was not amended at any time after that date in any respect which will result in the creation of, or increasing the amount of, any generation-skipping transfer.
 
-> For purposes of subparagraph (B), if the decedent on June 11, 1976, was under a mental disability to changethe disposition of his property, the period set forth in such subparagraph shall not expire before the date which is 2 years after the date on which he first regains his competence to dispose of such property.
+> For purposes of subparagraph (B), if the decedent on June 11, 1976, was under a mental disability to change the disposition of his property, the period set forth in such subparagraph shall not expire before the date which is 2 years after the date on which he first regains his competence to dispose of such property.
 
 “(3)
 

@@ -154,9 +154,11 @@ Pub. L. 104–168, title XII, §1211, July 30, 1996, 110 Stat. 1474, provided th
 
 #### Taxpayers’ Rights, Courtesy and Cross-Cultural Relations Training
 
-Pub. L. 106–554, §1(a)(3) \[title I, §102\], Dec. 21, 2000, 114 Stat. 2763, 2763A–132, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
+Pub. L. 107–67, title I, §102, Nov. 12, 2001, 115 Stat. 523, provided that: “The Internal Revenue Service shall maintain a training program to ensure that Internal Revenue Service employees are trained in taxpayers’ rights, in dealing courteously with the taxpayers, and in cross-cultural relations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–554, §1(a)(3) \[title I, §102\], Dec. 21, 2000, 114 Stat. 2763, 2763A–132.
 
 Pub. L. 106–58, title I, §102, Sept. 29, 1999, 113 Stat. 437.
 
@@ -230,7 +232,7 @@ Findings.—The Congress hereby finds that—
 
 &emsp;“(4) Increased funding should be provided for compilation and analysis of statistics of income and research.
 
-> The Internal Revenue Service must issue a report on the extent of the tax gap and the measures that could be undertaken to decrease the tax gap. The report must utilize more current data than has been utilized recently. The report must be issued by April 15, 1989. The Internal Revenue Service must also report annually on the improvements being made in the audit rate, taxpayer assistance, and enforcement efforts.”
+> The Internal Revenue Service must issue a report on the extent of the tax gap and the measures that couldbe undertaken to decrease the tax gap. The report must utilize more current data than has been utilized recently. The report must be issued by April 15, 1989. The Internal Revenue Service must also report annually on the improvements being made in the audit rate, taxpayer assistance, and enforcement efforts.”
 
 #### Tax Counseling for the Elderly
 

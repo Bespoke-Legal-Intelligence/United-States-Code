@@ -78,5 +78,5 @@ Section 2 of Pub. L. 102–240, which provided that it was the policy of the Uni
 
 Pub. L. 106–159, §2, Dec. 9, 1999, 113 Stat. 1749, provided that: “In this Act \[see Tables for classification\], the term ‘Secretary’ means the Secretary of Transportation.”
 
-Section 3 of Pub. L. 102–240 provided that: “As used in this Act \[see Short Title of 1991 Amendment note setout above\], the term ‘Secretary’ means the Secretary of Transportation.”
+Section 3 of Pub. L. 102–240 provided that: “As used in this Act \[see Short Title of 1991 Amendment note set out above\], the term ‘Secretary’ means the Secretary of Transportation.”
 

@@ -50,7 +50,7 @@ For purposes of this section:
 
 #### (g) Authorization of appropriations
 
-For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated$5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.
+For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.
 
 #### (h) Breach of agreement
 

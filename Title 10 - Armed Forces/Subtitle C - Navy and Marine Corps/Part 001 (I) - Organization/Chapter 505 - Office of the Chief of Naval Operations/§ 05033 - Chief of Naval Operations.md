@@ -20,7 +20,7 @@
 
 &emsp;(2) transmit the plans and recommendations of the Office of the Chief of Naval Operations to the Secretary and advise the Secretary with regard to such plans and recommendations;
 
-&emsp;(3) after approval of the plans or recommendations of the Office of the Chief of NavalOperations by the Secretary, act as the agent of the Secretary in carrying them into effect;
+&emsp;(3) after approval of the plans or recommendations of the Office of the Chief of Naval Operations by the Secretary, act as the agent of the Secretary in carrying them into effect;
 
 &emsp;(4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Navy and the Marine Corps as the Secretary determines;
 

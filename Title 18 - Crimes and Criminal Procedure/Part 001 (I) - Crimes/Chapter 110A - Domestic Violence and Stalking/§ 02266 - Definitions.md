@@ -54,5 +54,5 @@ Travel in interstate or foreign commerce.—The term “travel in interstate or 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 sections 3796gg–5, 3796hh.
+This section is referred to in section 1993 of this title; title 42 sections 3796gg–5, 3796hh.
 

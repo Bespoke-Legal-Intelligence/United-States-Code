@@ -1,5 +1,9 @@
 Part B—General Provisions Respecting National Research Institutes
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+
 
 ---
 
@@ -18,3 +22,4 @@ Part B—General Provisions Respecting National Research Institutes
 - [&sect; 00284j - Muscular dystrophy research](%C2%A7%2000284j%20-%20Muscular%20dystrophy%20research.md)
 - [&sect; 00284k - Clinical research](%C2%A7%2000284k%20-%20Clinical%20research.md)
 - [&sect; 00284l - Enhancement awards](%C2%A7%2000284l%20-%20Enhancement%20awards.md)
+- [&sect; 00284m - Program for pediatric studies of drugs](%C2%A7%2000284m%20-%20Program%20for%20pediatric%20studies%20of%20drugs.md)

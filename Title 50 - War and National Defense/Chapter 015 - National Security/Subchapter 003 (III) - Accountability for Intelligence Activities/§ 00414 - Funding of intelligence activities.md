@@ -16,7 +16,7 @@ Appropriated funds available to an intelligence agency may be obligated or expen
 
 &emsp;&emsp;(C) the Director of Central Intelligence, the Secretary of Defense, or the Attorney General, as appropriate, has notified the appropriate congressional committees of the intent to make such funds available for such activity;
 
-&emsp;(4) nothing in this subsection prohibits obligation or expenditure of funds available to an intelligence agency in accordance with sections 1535 and 1536 of title 31.
+&emsp;(4) nothing in this subsection prohibits obligation or expenditure of funds available to anintelligence agency in accordance with sections 1535 and 1536 of title 31.
 
 #### (b) Activities denied funding by Congress
 

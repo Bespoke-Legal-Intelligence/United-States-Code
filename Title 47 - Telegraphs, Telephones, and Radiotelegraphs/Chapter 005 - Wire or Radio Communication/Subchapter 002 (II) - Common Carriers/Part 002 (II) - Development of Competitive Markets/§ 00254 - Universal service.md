@@ -132,7 +132,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (iii) Public notice; hearing
 
-&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
+&emsp;&emsp;&emsp;An elementary or secondary school described in clause (i), or the school board, local educational agency, or other authority with responsibility for administration of the school, shall provide reasonable public notice and hold at least one public hearing or meeting to address the proposed Internet safety policy. In the case of an elementary or secondary school other than an elementary or secondary school as defined in section 8801 <sup>1</sup> of title 20, the notice and hearing required by this clause may be limited to those members of the public with a relationship to the school.
 
 #### (B) Certification with respect to minors
 
@@ -182,7 +182,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (II) Schools without Internet safety policy and technology protection measures in place
 
-&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that does not have in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C)—
+&emsp;&emsp;&emsp;&emsp;A school covered by clause (i) that does not have in place an Internet safety policy and technology protection measuresmeeting the requirements necessary for certification under subparagraphs (B) and (C)—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the first program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy and technology protection measures meeting the requirements necessary for certification under subparagraphs (B) and (C); and
 
@@ -322,7 +322,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (A) Elementary and secondary schools
 
-&emsp;&emsp;The term “elementary and secondary schools” means elementary schools and secondary schools, as defined in paragraphs (14) and (25),<sup>1</sup> respectively, of section 8801 of title 20.
+&emsp;&emsp;The term “elementary and secondary schools” means elementary schools and secondary schools, as defined in section 7801 of title 20.
 
 #### (B) Health care provider
 
@@ -426,19 +426,21 @@ A telecommunications carrier may not use services that are not competitive to su
 
 &emsp;This subsection shall apply with respect to schools and libraries on or after the date that is 120 days after December 21, 2000.
 
-(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §§1721(a)–(d), 1732\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343 to 2763A–350.)
+(June 19, 1934, ch. 652, title II, §254, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 71; amended Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(8)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313; Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §§1721(a)–(d), 1732\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343 to 2763A–350; Pub. L. 107–110, title X, §1076(hh), Jan. 8, 2002, 115 Stat. 2094.)
 
 #### References in Text
 
 The Library Services and Technology Act, referred to in subsec. (h)(4), is subtitle B (§§211–263) of title II of Pub. L. 94–462, as added by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295, which is classified generally to subchapter II (§9121 et seq.) of chapter 72 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of Title 20 and Tables.
 
+Section 8801 of title 20, referred to in subsec. (h)(5)(A)(iii), was repealed by Pub. L. 107–110, title X, §1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See section 7801 of Title 20, Education.
+
 For the effective date of this paragraph under section 1721(h) of the Children's Internet Protection Act, referred to in subsec. (h)(5)(E), (6)(E), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
 The effective date of this subsection, referred to in subsec. (h)(5)(E), (6)(E), probably means the effective date of subsec. (h)(5) and (6) which is 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title VII, §1721(h)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
-Paragraph (25) of section 8801 of title 20, referred to in subsec. (h)(7)(A), was redesignated par. (26) by Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1606(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–334.
-
 #### Amendments
+
+2002—Subsec. (h)(7)(A). Pub. L. 107–110 substituted “section 7801” for “paragraphs (14) and (25), respectively, of section 8801”.
 
 2000—Subsec. (h)(4). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(d)\], substituted “paragraph (7)(A)” for “paragraph (5)(A)”.
 
@@ -453,6 +455,10 @@ Subsec. (h)(7)(D) to (I). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1
 Subsec. (<i>l</i>). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1732\], added subsec. (<i>l</i>).
 
 1996—Subsec. (h)(4). Pub. L. 104–208 substituted “library or library consortium not eligible for assistance from a State library administrative agency under the Library Services and Technology Act” for “library not eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 335c et seq.)”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Effective Date of 2000 Amendment
 
@@ -476,13 +482,37 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1733\], Dec. 21, 2000, 114 
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: “If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby.”
 
+#### Disclaimers Regarding Internet Access and Privacy
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1702\], Dec. 21, 2000, 114 Stat. 2763, 2763A–336, provided that:
+
+“(a)
+
+Disclaimer Regarding Content.—Nothing in this title \[see Short Title of 2000 Amendments note set out under section 6301 of Title 20, Education\] or the amendments made by this title shall be construed to prohibit a local educational agency, elementary or secondary school, or library from blocking access on the Internet on computers owned or operated by that agency, school, or library to any content other than content covered by this title or the amendments made by this title.
+
+“(b)
+
+Disclaimer Regarding Privacy.—Nothing in this title or the amendments made by this title shall be construed to require the tracking of Internet use by any identifiable minor or adult user.”
+
+#### Expedited Review
+
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1741\], Dec. 21, 2000, 114 Stat. 2763, 2763A–351, provided that:
+
+“(a)
+
+Three-Judge District Court Hearing.—Notwithstanding any other provision of law, any civil action challenging the constitutionality, on its face, of this title \[see Short Title of 2000 Amendments note set out under section 6301 of Title 20, Education\] or any amendment made by this title, or any provision thereof, shall be heard by a district court of three judges convened pursuant to the provisions of section 2284 of title 28, United States Code.
+
+“(b)
+
+Appellate Review.—Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order.”
+
 #### Universal Service Fund Payment Schedule
 
 Pub. L. 105–33, title III, §3006, Aug. 5, 1997, 111 Stat. 269, related to appropriations to the Universal Service Fund in support of programs established pursuant to rules implementing this section and adjustment of payments by telecommunications carriers and other providers of interstate telecommunications prior to repeal by Pub. L. 105–119, title VI, §622, Nov. 26, 1997, 111 Stat. 2521. Section 622 of Pub. L. 105–119 provided further that: “This section shall be deemed a section of the Balanced Budget Act of 1997 \[Pub. L. 105–33, see Tables for classification\] for the purposes of section 10213 of that Act (111 Stat. 712) \[2 U.S.C. 902 note\], and shall be scored pursuant to paragraph (2) of such section.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 214, 251, 253, 271 of this title; title 4 section 116; title 20 sections 7001, 9134.
+This section is referred to in sections 214, 251, 253, 271 of this title; title 4 section 116; title 20 sections 6777, 9134.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

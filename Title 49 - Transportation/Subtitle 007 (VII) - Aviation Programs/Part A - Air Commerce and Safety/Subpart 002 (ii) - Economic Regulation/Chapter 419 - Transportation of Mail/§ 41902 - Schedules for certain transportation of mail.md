@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement.—Except as provided in section 41906 of this title and section 5402 of title 39, an air carrier may transport mail by aircraft inforeign air transportation or between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
+Requirement.—Except as provided in section 41906 of this title and section 5402 of title 39, an air carrier may transport mail by aircraft in foreign air transportation or between places in Alaska only under a schedule designated or required to be established under subsection (c) of this section for the transportation of mail.
 
 (b)
 

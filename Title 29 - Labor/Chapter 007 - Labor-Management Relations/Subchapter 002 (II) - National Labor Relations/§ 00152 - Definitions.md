@@ -32,7 +32,7 @@ When used in this subchapter—
 
 &emsp;(13) In determining whether any person is acting as an “agent” of another person so as to make such other person responsible for his acts, the question of whether the specific acts performed were actually authorized or subsequently ratified shall not be controlling.
 
-&emsp;(14) The term “health care institution” shall include any hospital, convalescent hospital, health maintenance organization, health clinic, nursing home, extended care facility, or other institution devoted to the care of sick, infirm, or aged person.
+&emsp;(14) The term “health care institution” shall include any hospital, convalescent hospital, health maintenance organization, health clinic, nursing home, extended care facility, or other institution devoted to the care of sick, infirm, or aged person.<sup>1</sup>
 
 (July 5, 1935, ch. 372, §2, 49 Stat. 450; June 23, 1947, ch. 120, title I, §101, 61 Stat. 137; Pub. L. 93–360, §1(a), (b), July 26, 1974, 88 Stat. 395; Pub. L. 95–598, title III, §319, Nov. 6, 1978, 92 Stat. 2678.)
 
@@ -65,4 +65,6 @@ For effective date of amendment by act June 23, 1947, see section 104 of act Jun
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1803 of this title; title 7 section 2015; title 20 section 76k; title 42 section 653a.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “persons.”</i>
 

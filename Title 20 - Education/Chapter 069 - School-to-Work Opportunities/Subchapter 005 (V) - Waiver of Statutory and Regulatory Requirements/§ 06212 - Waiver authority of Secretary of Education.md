@@ -50,13 +50,13 @@ The provisions subject to the waiver authority of this section are—
 
 &emsp;(1) title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\];
 
-&emsp;(2) part A of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6621 et seq.\];
+&emsp;(2) part A of title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6601 et seq.\];
 
 &emsp;(3) part A of title V of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7201 et seq.\];
 
-&emsp;(4) part B of title IX of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7901 et seq.\];
+&emsp;(4) part B of title IX of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7821 et seq.\];
 
-&emsp;(5) title XIII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 8601 et seq.\]; and
+&emsp;(5) parts K through N of the Educational Research, Development, Dissemination, and Improvement Act of 1994 \[20 U.S.C. 6053 et seq., 6054 et seq., 6055 et seq., 6056 et seq.\]; and
 
 &emsp;(6) the Carl D. Perkins Vocational and Applied Technology Education Act \[20 U.S.C. 2301 et seq.\].
 
@@ -86,17 +86,21 @@ The Secretary of Education may not waive any requirement of any provision referr
 
 The Secretary of Education shall periodically review the performance of any State, local partnership, or local educational agency, for which the Secretary of Education has granted a waiver under this section and shall terminate the waiver under this section if the Secretary of Education determines that the performance of the State, local partnership, or local educational agency that is affected by the waiver has been inadequate to justify a continuation of the waiver, or the State fails to waive similar requirements of State law as required or agreed to in accordance with subsection (a)(1)(C) of this section.
 
-(Pub. L. 103–239, title V, §502, May 4, 1994, 108 Stat. 598; Pub. L. 103–382, title III, §394(j)(2), Oct. 20, 1994, 108 Stat. 4029.)
+(Pub. L. 103–239, title V, §502, May 4, 1994, 108 Stat. 598; Pub. L. 103–382, title III, §394(j)(2), Oct. 20, 1994, 108 Stat. 4029; Pub. L. 107–110, title X, §1076(q), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1)(A), (D)(i), (4), was in the original “this Act”, meaning Pub. L. 103–239, May 4, 1994, 108 Stat. 568, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1) to (5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6621 et seq.) of subchapter II of chapter 70 of this title. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. Part B of title IX of the Act is classified generally to part B (§7901 et seq.) of subchapter IX of chapter 70 of this title. Title XIII of the Act is classified generally to subchapter XIII (§8601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1) to (4), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6601 et seq.) of subchapter II of chapter 70 of this title. Part A of title V of the Act is classified generally to part A (§7201 et seq.) of subchapter V of chapter 70 of this title. Part B of title IX of the Act is classified generally to part B (§7821 et seq.) of subchapter IX of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+
+The Educational Research, Development, Dissemination, and Improvement Act of 1994, referred to in subsec. (b)(5), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended. Parts K to N of the Act are classified generally to parts G (§6053 et seq.), H (§6054 et seq.), I (§6055 et seq.), and J (§6056 et seq.), respectively, of subchapter IX of chapter 68 of this title. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
 
 The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (b)(6), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which was classified generally to chapter 44 (§2301 et seq.) of this title, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3076. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (b)(5). Pub. L. 107–110 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “title XIII of the Elementary and Secondary Education Act of 1965; and”.
 
 1994—Subsec. (b)(1) to (6). Pub. L. 103–382 amended pars. (1) to (6) generally. Prior to amendment, pars. (1) to (6) read as follows:
 
@@ -111,6 +115,10 @@ The Carl D. Perkins Vocational and Applied Technology Education Act, referred to
 “(5) title V of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 3171 et seq.); and
 
 “(6) the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.).”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 

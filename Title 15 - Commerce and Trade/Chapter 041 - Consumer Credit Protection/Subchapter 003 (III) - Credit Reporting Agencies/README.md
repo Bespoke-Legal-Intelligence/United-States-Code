@@ -33,3 +33,4 @@ This subchapter is referred to in sections 6802, 6806 of this title; title 18 se
 - [&sect; 01681s&#8211;2 - Responsibilities of furnishers of information to consumer reporting agencies](%C2%A7%2001681s%E2%80%932%20-%20Responsibilities%20of%20furnishers%20of%20information%20to%20consumer%20reporting%20agencies.md)
 - [&sect; 01681t - Relation to State laws](%C2%A7%2001681t%20-%20Relation%20to%20State%20laws.md)
 - [&sect; 01681u - Disclosures to FBI for counterintelligence purposes](%C2%A7%2001681u%20-%20Disclosures%20to%20FBI%20for%20counterintelligence%20purposes.md)
+- [&sect; 01681v - Disclosures to governmental agencies for counterterrorism purposes](%C2%A7%2001681v%20-%20Disclosures%20to%20governmental%20agencies%20for%20counterterrorism%20purposes.md)

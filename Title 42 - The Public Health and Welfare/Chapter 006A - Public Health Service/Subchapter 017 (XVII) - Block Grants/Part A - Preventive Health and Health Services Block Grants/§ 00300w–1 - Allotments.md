@@ -26,7 +26,7 @@ From the amount required to be made available under section 300w(b) of this titl
 
 #### (c) Distribution of appropriated funds not allotted
 
-To the extent that all the funds appropriated under section 300w of this title for a fiscal yearand available for allotment in such fiscal year are not otherwise allotted to States because—
+To the extent that all the funds appropriated under section 300w of this title for a fiscal year and available for allotment in such fiscal year are not otherwise allotted to States because—
 
 &emsp;(1) one or more States have not submitted an application or description of activities in accordance with section 300w–4 of this title for the fiscal year;
 

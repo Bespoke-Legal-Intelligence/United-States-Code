@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 6 months after the date on which a National Conference is convened, a final report of the Conference shall be submitted to the President and the Congress.
+Not later than 6 months after the date on which a National Conference is convened, a finalreport of the Conference shall be submitted to the President and the Congress.
 
 #### (b) Contents
 

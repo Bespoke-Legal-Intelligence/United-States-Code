@@ -30,7 +30,7 @@ Any information required to be compiled and made available under this section, o
 
 #### (d) Duration of disclosure requirements
 
-Notwithstanding the provisions of subsection (a)(1) of this section, data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis otherthan a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
+Notwithstanding the provisions of subsection (a)(1) of this section, data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
 
 #### (e) Format for disclosures
 
@@ -38,7 +38,7 @@ Subject to subsection (h) of this section, the Board shall prescribe a standard 
 
 #### (f) Data disclosure system; operation, etc.
 
-The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitate access to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
+The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitateaccess to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
 
 #### (g) Exceptions
 
@@ -102,7 +102,7 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (5) Time of disclosure
 
-&emsp;The disclosure of the loan application register information described in paragraph (1) for any year pursuant to a request under paragraph (1) shall be made—
+&emsp;The disclosure of the loan application register information described in paragraph (1)for any year pursuant to a request under paragraph (1) shall be made—
 
 &emsp;&emsp;(A) in the case of a request made on or before March 1 of the succeeding year, before April 1 of the succeeding year; and
 
@@ -176,13 +176,13 @@ The requirements of subsection (b)(4) of this section shall not apply with respe
 
 #### (2) Form of information
 
-&emsp;In complying with paragraph (1), a depository institution shall, in the sole discretion ofthe institution, provide the person requesting the information with—
+&emsp;In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
 
 &emsp;&emsp;(A) a paper copy of the information requested; or
 
 &emsp;&emsp;(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.
 
-(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416.)
+(Pub. L. 94–200, title III, §304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, §340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title VII, §701(a), Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, §1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, §212(a)(1),Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, §932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, §2225(b), Sept. 30, 1996, 110 Stat. 3009–416.)
 
 #### References in Text
 

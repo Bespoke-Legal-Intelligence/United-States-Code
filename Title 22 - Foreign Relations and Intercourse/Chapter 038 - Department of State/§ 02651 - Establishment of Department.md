@@ -44,7 +44,7 @@ Pub. L. 99–93, §1(a), Aug. 16, 1985, 99 Stat. 405, provided that: “This Act
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004, 1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out as notes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a,1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1977’.”
+Pub. L. 94–350, §1, July 12, 1976, 90 Stat. 823, provided: “That this Act \[enacting sections 817, 1065, 1076a, 1463, 1475a, 1928e, 2458a, 2661a, 2689, and 2690 of this title, amending sections 276e, 276i, 295, 889, 915, 1001, 1002, 1004, 1007, 1063, 1064, 1071, 1076, 1081, 1082, 1084, 1086, 1091, 1105, 1111, 1116, 1121, 1229, 1474, 1754, 2872, 2873, 2877, 2902, 2905, and 2906 of this title, repealing sections 1083, 1092, and 1094 of this title, and enacting provisions set out as notes under sections 801, 915, 1001, 1063, 1064, 1076, 1076a, 1086, 1091, 1121, 1229, and 2871 of this title\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 1977’.”
 
 #### Short Title of 1975 Amendment
 
@@ -62,7 +62,7 @@ Pub. L. 93–126, §1, Oct. 18, 1973, 87 Stat. 451, provided: “That this Act \
 
 Pub. L. 92–352, §1, July 13, 1972, 86 Stat. 489, provided: “That this Act \[enacting sections 1474, 1475, 2291a, and 2821 to 2826 of this title and section 194a of Title 2, The Congress, amending sections 901, 1461, 1476, 2291, 2501a, 2502, 2589, 2652, 2653, and 2680 of this title, sections 5313, 5314, 5315, and 8331 of Title 5, Government Organization and Employees, and section 241 of former Title 31, Money and Finance, repealing section 2511 of this title, and enacting provisions set out as notes under sections 2511, 2571, and 2652 of this title, section 8331 of Title 5, and section 241 of former Title 31\] may be cited as the ‘Foreign Relations Authorization Act of 1972’.”
 
-#### Short Title of 1956 Amendment
+#### Short Title
 
 Act Aug. 1, 1956, ch. 841, §1 \[part\], as added by Pub. L. 102–138, title I, §111(2), Oct. 28, 1991, 105 Stat. 654, provided: “That this Act \[enacting sections 2662, 2669 to 2672, 2673 to 2680a, 2684, 2687 to 2692, 2695 to 2723, 4301 to 4316, 4341 to 4343, and 4351 to 4357 of this title\] may be cited as the ‘State Department Basic Authorities Act of 1956’.”
 
@@ -74,7 +74,7 @@ For assignment of certain emergency preparedness functions to Secretary of State
 
 #### Order of Succession
 
-For order of succession in case of death, resignation, absence, or sickness of Secretary, see Ex. Ord. No. 10839, Sept. 30, 1959, 24 F.R. 7939, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of State are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13251, Dec. 28, 2001, 67 F.R. 1599, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Compliance With Congressional Budget Act
 

@@ -6,7 +6,7 @@ The purposes of this section are—
 
 &emsp;(1) to preserve for public use and enjoyment the lands and waters that comprise the Boston Harbor Islands National Recreation Area;
 
-&emsp;(2) to manage the recreation area in partnership with the private sector, the Commonwealth of Massachusetts, municipalities surrounding Massachusetts and Cape Cod Bays, the Thompson Island Outward Bound Education Center, and Trustees of Reservations, and with historical, business, cultural, civic, recreational and tourism organizations;
+&emsp;(2) to manage the recreation area in partnership with the private sector, the Commonwealth of Massachusetts, municipalities surrounding Massachusetts and Cape Cod Bays, the Thompson Island Outward Bound Education Center, and Trustees of Reservations,and with historical, business, cultural, civic, recreational and tourism organizations;
 
 &emsp;(3) to improve access to the Boston Harbor Islands through the use of public water transportation; and
 
@@ -64,7 +64,7 @@ For the purposes of this section—
 
 #### (6) Relationship of recreation area to Boston-Logan International Airport
 
-&emsp;With respect to the recreation area, the present and future maintenance, operation, improvement and use of Boston-Logan International Airport and associated flight patterns from time to time in effect shall not be deemed to constitute the use of publicly owned land of a public park, recreation area, or other resource within the meaning of section 303(c) of title 49, and shall not be deemed to have a significant effect on natural, scenic, and recreation assets within the meaning of section 47101(h)(2) of title 49.
+&emsp;With respect to the recreation area, the present and future maintenance, operation, improvement and use of Boston-Logan International Airport and associated flight patterns from time to time in effect shall not be deemed to constitute the use of publicly owned land of a public park, recreation area, or other resource within the meaning of section 303(c) of title 49, and shall not be deemed to have a significant effect on natural, scenic,and recreation assets within the meaning of section 47101(h)(2) of title 49.
 
 #### (7) Management in accordance with integrated management plan
 
@@ -220,7 +220,7 @@ For the purposes of this section—
 
 #### (1) Establishment
 
-&emsp;The Secretary, acting through the Director of the National Park Service, shall establish an advisory committee to be known as the Boston Harbor Islands Advisory Council. The purpose of the Advisory Council shall be to represent various groups with interests in the recreation area and make recommendations to the Boston Harbor Islands Partnership on issues related to the development and implementation of the integrated resource management plan developed under subsection (f) of this section. The Advisory Council is encouraged to establish committees relating to specific recreation area management issues, including (but not limited to) education, tourism, transportation, natural resources, cultural and historic resources, and revenue-raising activities. Participation on any such committee shall not be limited to members of the Advisory Council.
+&emsp;The Secretary, acting through the Director of the National Park Service, shall establish an advisory committee to be known as theBoston Harbor Islands Advisory Council. The purpose of the Advisory Council shall be to represent various groups with interests in the recreation area and make recommendations to the Boston Harbor Islands Partnership on issues related to the development and implementation of the integrated resource management plan developed under subsection (f) of this section. The Advisory Council is encouraged to establish committees relating to specific recreation area management issues, including (but not limited to) education, tourism, transportation, natural resources, cultural and historic resources, and revenue-raising activities. Participation on any such committee shall not be limited to members of the Advisory Council.
 
 #### (2) Membership
 

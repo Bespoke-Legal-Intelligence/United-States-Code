@@ -24,7 +24,7 @@ For the period of time determined under subsection (b) of this section, the Secr
 
 &emsp;&emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;&emsp;(I) the cabin owner of a lot described in clause (i) requests a new appraisal orpeer review under subsection (c) of this section; and
+&emsp;&emsp;&emsp;&emsp;(I) the cabin owner of a lot described in clause (i) requests a new appraisal or peer review under subsection (c) of this section; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the base cabin user fee established as a result of the appraisal or peer review is determined to be an amount that is 90 percent or more of the fee in effect for the lot as determined by an appraisal conducted on or after September 30, 1995,
 
@@ -34,7 +34,7 @@ For the period of time determined under subsection (b) of this section, the Secr
 
 #### (1) Lots not appraised since September 30, 1995
 
-&emsp;For a lot that has not been appraised since September 30, 1995, the Secretary shall charge fees in accordance with subsection (a)(2)(A) of this section until—
+&emsp;For a lot that has not been appraised since September 30, 1995, the Secretary shall chargefees in accordance with subsection (a)(2)(A) of this section until—
 
 &emsp;&emsp;(A) a base cabin user fee is determined in accordance with—
 

@@ -16,7 +16,7 @@ For purposes of this subpart—
 
 &emsp;&emsp;&emsp;(i) depends (in whole or in substantial part) on the life expectancy of 1 or more individuals, or
 
-&emsp;&emsp;&emsp;(ii) is issued by an insurance company subject to tax under subchapter L (or byan entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to tax under subchapter L were it not so exempt)—
+&emsp;&emsp;&emsp;(ii) is issued by an insurance company subject to tax under subchapter L (or by an entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to tax under subchapter L were it not so exempt)—
 
 &emsp;&emsp;&emsp;&emsp;(I) in a transaction in which there is no consideration other than cash or another annuity contract meeting the requirements of this clause,
 
@@ -114,7 +114,7 @@ For purposes of this subpart—
 
 #### (d) Regulation authority
 
-The Secretary may prescribe regulations providing that where, by reason of varying rates ofinterest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, or other circumstances, the tax treatment under this subpart (or section 163(e)) does not carry out the purposes of this subpart (or section 163(e)), such treatment shall be modified to the extent appropriate to carry out the purposes of this subpart (or section 163(e)).
+The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, or other circumstances, the tax treatment under this subpart (or section 163(e)) does not carry out the purposes of this subpart (or section 163(e)), such treatment shall be modified to the extent appropriate to carry out the purposes of this subpart (or section 163(e)).
 
 (Added and amended Pub. L. 98–369, div. A, title I, §§41(a), 61(c)(2), July 18, 1984, 98 Stat. 540, 581; Pub. L. 99–514, title XVIII, §1804(f)(2)(A), Oct. 22, 1986, 100 Stat. 2805; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 101–508, title XI, §11325(a)(2), Nov. 5, 1990, 104 Stat. 1388–466; Pub. L. 106–554, §1(a)(7) \[title III, §318(c)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645.)
 

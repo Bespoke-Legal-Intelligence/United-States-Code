@@ -12,7 +12,7 @@ Except as provided in subsection (c) of this section—
 
 #### (b) Availability of records
 
-Every inventory or other record required under this section (1) shall be in accordance with, and contain such relevant information as may be required by, regulations of the Attorney General, (2) shall (A) be maintained separately from all other records of the registrant, or (B) alternatively, in the case of nonnarcotic controlled substances, be in such form that information required by the Attorney General is readily retrievable from the ordinary business records of the registrant, and (3) shall be kept and be available, for at least two years, for inspection and copying by officers or employees of the United States authorized by the Attorney General.
+Every inventory or other record required under this section (1) shall be in accordancewith, and contain such relevant information as may be required by, regulations of the Attorney General, (2) shall (A) be maintained separately from all other records of the registrant, or (B) alternatively, in the case of nonnarcotic controlled substances, be in such form that information required by the Attorney General is readily retrievable from the ordinary business records of the registrant, and (3) shall be kept and be available, for at least two years, for inspection and copying by officers or employees of the United States authorized by the Attorney General.
 
 #### (c) Nonapplicability
 
@@ -26,7 +26,7 @@ The foregoing provisions of this section shall not apply—
 
 &emsp;(B) to the use of controlled substances, at establishments registered under this subchapter which keep records with respect to such substances, in preclinical research or in teaching; or
 
-&emsp;(3) to the extent of any exemption granted to any person, with respect to all or part of such provisions, by the Attorney General by or pursuant to regulation on the basis of a finding that the application of such provisions (or partthereof) to such person is not necessary for carrying out the purposes of this subchapter.
+&emsp;(3) to the extent of any exemption granted to any person, with respect to all or part of such provisions, by the Attorney General by or pursuant to regulation on the basis of a finding that the application of such provisions (or part thereof) to such person is not necessary for carrying out the purposes of this subchapter.
 
 > Nothing in the Convention on Psychotropic Substances shall be construed as superseding or otherwise affecting the provisions of paragraph (1)(B), (2), or (3) of this subsection.
 
@@ -72,7 +72,7 @@ Schedules II, III, IV, and V, referred to in subsec. (c), are set out in section
 
 2000—Subsec. (h). Pub. L. 106–172 added subsec. (h).
 
-1984—Subsec. (c)(1)(A). Pub. L. 98–473, §514(a), substituted “to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual” for “with respect to any narcotic controlled substance in scheduleII, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual”.
+1984—Subsec. (c)(1)(A). Pub. L. 98–473, §514(a), substituted “to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual” for “with respect to any narcotic controlled substance in schedule II, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual”.
 
 Subsec. (c)(1)(B). Pub. L. 98–473, §514(b), substituted “to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual” for “with respect to nonnarcotic controlled substances in schedule II, III, IV, or V, to any practitioner who dispenses such substances to his patients, unless the practitioner is regularly engaged in charging his patients, either separately or together with charges for other professional services, for substances so dispensed”.
 

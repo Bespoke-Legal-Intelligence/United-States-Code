@@ -6,7 +6,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;For each fiscal year, the Secretary shall, in accordance with regulations and this paragraph, allot the sums appropriated for such year under section 15029 of this title among the States on the basis of—
+&emsp;&emsp;For each fiscal year, the Secretary shall, in accordance with regulations and thisparagraph, allot the sums appropriated for such year under section 15029 of this title among the States on the basis of—
 
 &emsp;&emsp;&emsp;(i) the population;
 
@@ -50,7 +50,7 @@
 
 #### (B) Reduction of allotment
 
-&emsp;&emsp;The requirements of paragraph (3)(B) shall apply with respect to amounts to be allottedto States under subparagraph (A), in the same manner and to the same extent as such requirements apply with respect to amounts to be allotted to States under paragraph (3)(A).
+&emsp;&emsp;The requirements of paragraph (3)(B) shall apply with respect to amounts to be allotted to States under subparagraph (A), in the same manner and to the same extent as such requirements apply with respect to amounts to be allotted to States under paragraph (3)(A).
 
 #### (5) State supports, services, and other activities
 

@@ -12,7 +12,9 @@ Shall be fined under this title or imprisoned not more than twenty years, or bot
 
 Whoever is convicted of any such violation involving a train that, at the time the violation occurred, carried high-level radioactive waste (as that term is defined in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12))) or spent nuclear fuel (as that term is defined in section 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23))), shall be fined under this title and imprisoned for any term or <sup>1</sup> years not less than 30, or for life.
 
-(June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, §60003(a)(8), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, §402(b), Dec. 29, 1995, 109 Stat. 955.)
+(c) A person who conspires to commit any offense defined in this section shall be subject to the same penalties (other than the penalty of death) as the penalties prescribed for the offense, the commission of which was the object of the conspiracy.
+
+(June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–322, title VI, §60003(a)(8), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–88, title IV, §402(b), Dec. 29, 1995, 109 Stat. 955; Pub. L. 107–56, title VIII, §811(e), Oct. 26, 2001, 115 Stat. 381.)
 
 #### Historical and Revision Notes
 
@@ -23,6 +25,8 @@ First clause in second paragraph of said section 412a of title 18, U.S.C., 1940 
 Words “and on conviction thereof” were omitted as surplusage since punishment cannot be imposed until a conviction is secured.
 
 #### Amendments
+
+2001—Subsec. (c). Pub. L. 107–56 added subsec. (c).
 
 1995—Pub. L. 104–88, §402(b)(5), which directed amendment of section by inserting “(c)” before “A judgment”, could not be executed because phrase “A judgment” did not appear subsequent to amendment by Pub. L. 103–322, §60003(a)(8). See 1994 Amendment note below.
 
@@ -41,4 +45,6 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2332b, 2339A, 2516, 3592 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

@@ -2,7 +2,7 @@
 
 (a) Whoever willfully endeavors by means of bribery to obstruct, delay, or prevent the communication of information relating to a violation of any criminal statute of the United States by any person to a criminal investigator shall be fined under this title, or imprisoned not more than five years, or both.
 
-(b)(1) Whoever, being an officer of a financial institution, with the intent to obstruct a judicial proceeding, directly or indirectly notifies any other person about the existence or contents of a subpoena for records of that financial institution, or information that has been furnished to the grand jury in response to that subpoena, shall be fined under this title or imprisoned not more than 5 years, or both.
+(b)(1) Whoever, being an officer of a financial institution, with the intent to obstruct a judicial proceeding, directly or indirectly notifiesany other person about the existence or contents of a subpoena for records of that financial institution, or information that has been furnished to the grand jury in response to that subpoena, shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (2) Whoever, being an officer of a financial institution, directly or indirectly notifies—
 
@@ -34,7 +34,7 @@
 
 (2) As used in paragraph (1), the term “subpoena for records” means a Federal grand jury subpoena for records that has been served relating to a violation of, or a conspiracy to violate, section 1033 of this title.
 
-(Added Pub. L. 90–123, §1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, §4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, §962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, §1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, §320604(c), title XXXIII,§330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147; Pub. L. 104–191, title II, §248(c), Aug. 21, 1996, 110 Stat. 2020.)
+(Added Pub. L. 90–123, §1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, §4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, §962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, §1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, §320604(c), title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147; Pub. L. 104–191, title II, §248(c), Aug. 21, 1996, 110 Stat. 2020.)
 
 #### Amendments
 

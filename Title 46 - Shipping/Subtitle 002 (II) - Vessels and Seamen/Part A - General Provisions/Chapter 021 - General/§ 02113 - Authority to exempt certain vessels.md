@@ -12,7 +12,7 @@ If the Secretary decides that the application of a provision of part B, C, F, or
 
 &emsp;&emsp;(A) makes application for inspection to the Coast Guard within 6 months of the date of enactment of the Passenger Vessel Safety Act of 1993; and
 
-&emsp;&emsp;(B) provides satisfactory documentation that the vessel was chartered at least once within the previous 12 months prior to the date of enactment of that Act; and
+&emsp;&emsp;(B) provides satisfactory documentation that the vessel was chartered at least oncewithin the previous 12 months prior to the date of enactment of that Act; and
 
 &emsp;(5) establish different structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, carrying not more than 150 passengers on domestic voyages, if the owner of the vessel—
 

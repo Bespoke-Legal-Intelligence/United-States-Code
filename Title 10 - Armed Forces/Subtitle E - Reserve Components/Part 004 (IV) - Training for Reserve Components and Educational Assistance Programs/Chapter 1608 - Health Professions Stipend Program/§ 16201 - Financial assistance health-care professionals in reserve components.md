@@ -2,29 +2,61 @@
 
 (a)
 
-Establishment of Program.—For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions specialties critically needed in wartime, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training in such specialties. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in training in certain health care specialties in return for a commitment to subsequent service in the Ready Reserve.
+Establishment of Program.—For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in health care education and training in return for a commitment to subsequent service in the Ready Reserve.
 
 (b)
 
-Physicians and Dentists in Critical Specialties.—(1) Under the stipend program under this chapter, the Secretary of the military department concerned may enter into an agreement with a person who—
+Medical and Dental School Students.—(1) Under the stipend program under this chapter, the Secretary of the military department concerned may enter into an agreement with a person who—
+
+&emsp;(A) is eligible to be appointed as an officer in a reserve component;
+
+&emsp;(B) is enrolled or has been accepted for enrollment in an institution in a course of study that results in a degree in medicine or dentistry;
+
+&emsp;(C) signs an agreement that, unless sooner separated, the person will—
+
+&emsp;&emsp;(i) complete the educational phase of the program;
+
+&emsp;&emsp;(ii) accept a reappointment or redesignation within the person's reserve component, if tendered, based upon the person's health profession, following satisfactory completion of the educational and intern programs; and
+
+&emsp;&emsp;(iii) participate in a residency program; and
+
+&emsp;(D) if required by regulations prescribed by the Secretary of Defense, agrees to apply for, if eligible, and accept, if offered, residency training in a health profession skill which has been designated by the Secretary of Defense as a critically needed wartime skill.
+
+(2) Under the agreement—
+
+&emsp;(A) the Secretary of the military department concerned shall agree to pay the participant a stipend, in the amount determined under subsection (f), for the period or the remainder of the period that the student is satisfactorily progressing toward a degree in medicine or dentistry while enrolled in an accredited medical or dental school;
+
+&emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as an officer for service in the Ready Reserve;
+
+&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
+
+&emsp;(D) the participant shall agree to serve in the Selected Reserve, upon successful completion of the program, for the period of service applicable under paragraph (3).
+
+(3)(A) Subject to subparagraph (B), the period for which a participant is required to serve in the Selected Reserve under the agreement pursuant to paragraph (2)(D) shall be one year for each period of six months, or part thereof, for which the participant is provided a stipend pursuant to the agreement.
+
+(B) In the case of a participant who enters into a subsequent agreement under subsection (c) and successfully completes residency training in a specialty designated by the Secretary of Defense as a specialty critically needed by the military department in wartime, the requirement to serve in the Selected Reserve may be reduced to one year for each year, or part thereof, for which the stipend was provided while enrolled in medical or dental school.
+
+(c)
+
+Physicians and Dentists in Critical Wartime Specialties.—(1) Under the stipend program under this chapter, the Secretary of the military department concerned may enter into an agreement with a person who—
 
 &emsp;(A) is a graduate of a medical school or dental school;
 
-&emsp;(B) is eligible for appointment, designation, or assignment as a medical officer or dental officer in the Reserve of the armed force concerned; and
+&emsp;(B) is eligible for appointment, designation, or assignment as a medical officer or dental officer in the Reserve of the armed force concerned or has been appointed as a medical or dental officer in the Reserve of the armed force concerned; and
 
 &emsp;(C) is enrolled or has been accepted for enrollment in a residency program for physicians or dentists in a medical or dental specialty designated by the Secretary concerned as a specialty critically needed by that military department in wartime.
 
 (2) Under the agreement—
 
-&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (e), for the period or the remainder of the period of the residency program in which the participant enrolls or is enrolled;
+&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (f), for the period or the remainder of the period of the residency program in which the participant enrolls or is enrolled;
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before appointment, designation, or assignment as a medical officer or dental officer for service in the Ready Reserve;
 
 &emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
-&emsp;(D) the participant shall agree to serve, upon successful completion of the program, two years in the Ready Reserve for each year, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
+&emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
 
-(c)
+(d)
 
 Registered Nurses in Critical Specialties.—(1) Under the stipend program under this chapter, the Secretary of the military department concerned may enter into an agreement with a person who—
 
@@ -42,7 +74,7 @@ Registered Nurses in Critical Specialties.—(1) Under the stipend program under
 
 (2) Under the agreement—
 
-&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (e), for the period or the remainder of the period of the nursing program in which the participant enrolls or is enrolled;
+&emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (f), for the period or the remainder of the period of the nursing program in which the participant enrolls or is enrolled;
 
 &emsp;(B) the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve—
 
@@ -50,11 +82,11 @@ Registered Nurses in Critical Specialties.—(1) Under the stipend program under
 
 &emsp;&emsp;(ii) as an Air Force nurse of the Air Force;
 
-&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
+&emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time ofwar or national emergency as provided by law for members of the Ready Reserve; and
 
-&emsp;(D) the participant shall agree to serve, upon successful completion of the program, two years in the Ready Reserve for each year, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
+&emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
 
-(d)
+(e)
 
 Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the stipend program under this chapter, the Secretary of the military department concerned may enter into an agreement with a person who—
 
@@ -76,7 +108,7 @@ Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the s
 
 &emsp;(D) the participant shall agree to serve, upon graduation from the baccalaureate program, one year in the Ready Reserve for each year, or part thereof, for which the stipend is paid.
 
-(e)
+(f)
 
 Amount of Stipend.—The amount of a stipend under an agreement under subsection (b) or (c) shall be—
 
@@ -84,9 +116,29 @@ Amount of Stipend.—The amount of a stipend under an agreement under subsection
 
 &emsp;(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.
 
-(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383.)
+(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108.)
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §539(a), struck out “specialties critically needed in wartime” after “qualified in health professions” and substituted “training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime” for “training in such specialties” and “health care education and training” for “training in certain health care specialties”.
+
+Subsec. (b). Pub. L. 107–107, §539(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 107–107, §539(b)(1), (c)(1), redesignated subsec. (b) as (c) and inserted “Wartime” after “Critical” in heading. Former subsec. (c) redesignated (d).
+
+Subsec. (c)(1)(B). Pub. L. 107–107, §539(c)(2), inserted “or has been appointed as a medical or dental officer in the Reserve of the armed force concerned” before semicolon at end.
+
+Subsec. (c)(2)(A). Pub. L. 107–107, §539(e), substituted “subsection (f)” for “subsection (e)”.
+
+Subsec. (c)(2)(D). Pub. L. 107–107, §539(d), substituted “one year in the Ready Reserve for each six months” for “two years in the Ready Reserve for each year”.
+
+Subsec. (d). Pub. L. 107–107, §539(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(2)(A). Pub. L. 107–107, §539(e), substituted “subsection (f)” for “subsection (e)”.
+
+Subsec. (d)(2)(D). Pub. L. 107–107, §539(d), substituted “one year in the Ready Reserve for each six months” for “two years in the Ready Reserve for each year”.
+
+Subsecs. (e), (f). Pub. L. 107–107, §539(b)(1), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
 1996—Subsec. (b). Pub. L. 104–106, §736(1), inserted “and Dentists” in heading.
 

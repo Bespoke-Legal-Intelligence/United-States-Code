@@ -54,5 +54,5 @@ Pub. L. 98–211, §24(b), Dec. 8, 1983, 97 Stat. 1419, provided that: “The Na
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1232j of this title.
+This section is referred to in sections 1232j, 7909 of this title.
 

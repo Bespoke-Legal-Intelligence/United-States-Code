@@ -46,7 +46,7 @@ In making available the assistance authorized by section 1483 of this title and 
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–180, §734(f)(1), substituted “Except as otherwise provided in subsection (c) of this section, the Secretary” for “The Secretary” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–180, §734(f)(1), substituted “Except as otherwise provided in subsection\(c) of this section, the Secretary” for “The Secretary” in introductory provisions.
 
 Subsec. (c). Pub. L. 104–180, §734(f)(2), added subsec. (c).
 

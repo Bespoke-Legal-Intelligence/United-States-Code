@@ -32,7 +32,7 @@ The Secretary may make payments pursuant to any contract for financial assistanc
 
 #### (e) Regulations for prevention of waste
 
-The Secretary shall prescribe regulations to insure that Federal funds expended under this section are not wasted or dissipated. The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed.
+The Secretary shall prescribe regulations to insure that Federal funds expended under thissection are not wasted or dissipated. The Secretary shall not give priority for funding under this section to any one of the groups listed in subsection (a) of this section over any of the others so listed.
 
 #### (f) Wages; labor standards; waiver; authority and functions of Secretary
 
@@ -86,7 +86,7 @@ Housing and related facilities constructed with grants under this section may be
 
 #### (B) Available assistance
 
-&emsp;&emsp;A recipient may receive assistance under both clauses (i) and (ii) of subparagraph (A). The Secretary may increase the limit contained in such clauses to $800,000 in areas which the Secretary finds have high acquisition and rehabilitation costs.
+&emsp;&emsp;A recipient may receive assistance under both clauses (i) and (ii) of subparagraph (A). The Secretary may increase the limit contained in such clauses to $800,000 in areaswhich the Secretary finds have high acquisition and rehabilitation costs.
 
 #### (C) Repayment of advance
 
@@ -168,7 +168,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;&emsp;(i) means any person (and the family of such person) who (I) receives a substantial portion of his or her income from primary production of agricultural or aquacultural commodities, the handling of such commodities in the unprocessed stage, or the processing of such commodities, without respect to the source of employment, and (II) establishes residence in a location on a seasonal or temporary basis, in an attempt to receive an income as described in subclause (I); and
 
-&emsp;&emsp;&emsp;(ii) includes any person (and the family of such person) who is retired or disabled, but who met the requirements of clause (i)at the time of retirement or becoming disabled.
+&emsp;&emsp;&emsp;(ii) includes any person (and the family of such person) who is retired or disabled, but who met the requirements of clause (i) at the time of retirement or becoming disabled.
 
 &emsp;&emsp;(D) The term “operating costs” means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
 

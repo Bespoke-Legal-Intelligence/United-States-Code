@@ -40,11 +40,38 @@ This section shall be applied after the application of any other limitation on t
 
 This section shall not apply to any estate or trust.
 
-(Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911.)
+(Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911; Pub. L. 107–16, title I, §103(a), June 7, 2001, 115 Stat. 44.)
 
-#### Adjustment of Applicable Amount Under This Section for Tax Years Beginning in 2001
+#### Adjustment of Applicable Amount Under This Section for Tax Years Beginning in 2002
 
-<i>For adjustment of “applicable amount” for determining limitation on itemized deductions under this section for tax years beginning in 2001, see section 3.06 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of “applicable amount” for determining limitation on itemized deductions under this section for tax years beginning in 2002, see section 3.08 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
+
+#### Enactment of Subsections (f) and (g)
+
+<i>Pub. L. 107–16, title I, §§103, 901, June 7, 2001, 115 Stat. 44, 150, provided that, applicable to taxable years beginning after Dec. 31, 2005, this section is temporarily amended by adding subsections (f) and (g) to read as follows:</i>
+
+#### <i>(f) Phaseout of limitation</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>In the case of taxable years beginning after December 31, 2005, and before January 1, 2010, the reduction under subsection (a) shall be equal to the applicable fraction of the amount which would (but for this subsection) be the amount of such reduction.</i>
+
+#### <i>(2) Applicable fraction</i>
+
+&emsp;<i>For purposes of paragraph (1), the applicable fraction shall be determined in accordance with the following table:</i>
+
+&nbsp;
+
+| <i>For taxable years beginning</i> in calendar year— | <i>The applicable</i> fraction is— |
+| :--- | ---: |
+| &nbsp;&nbsp;2006 and 2007 | 2/3&nbsp; |
+| &nbsp;&nbsp;2008 and 2009 | 1/3. |
+
+#### <i>(g) Termination</i>
+
+<i>This section shall not apply to any taxable year beginning after December 31, 2009.</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -53,6 +80,12 @@ This section shall not apply to any estate or trust.
 <b>1993</b>—Subsec. (b)(2)(B). Pub. L. 103–66, §13201(b)(3)(E), substituted “1992” for “1989”.
 
 Subsec. (f). Pub. L. 103–66, §13204, struck out heading and text of subsec. (f). Text read as follows: “This section shall not apply to any taxable year beginning after December 31, 1995.”
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title I, §103(b), June 7, 2001, 115 Stat. 45, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

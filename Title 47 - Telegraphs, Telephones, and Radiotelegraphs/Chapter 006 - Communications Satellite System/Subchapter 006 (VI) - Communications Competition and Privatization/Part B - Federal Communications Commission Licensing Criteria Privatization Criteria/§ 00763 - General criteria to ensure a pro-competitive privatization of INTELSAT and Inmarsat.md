@@ -42,7 +42,7 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;&emsp;(i) shall be conducted, for the successor entities of INTELSAT, on or about October 1, 2001, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but such extensions shall not permit such offering to be conducted later than December 31, 2002; and
 
-&emsp;&emsp;&emsp;(ii) shall be conducted, for the successor entities of Inmarsat, on or about October 1, 2000, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but to no later than December 31, 2001.
+&emsp;&emsp;&emsp;(ii) shall be conducted, for the successor entities of Inmarsat, not later than December 31, 2002, except that the Commission may extend this deadline to not later than June 30, 2003.
 
 &emsp;&emsp;(B) The shares of any successor entities and separated entities shall be listed for trading on one or more major stock exchanges with transparent and effective securities regulation.
 
@@ -74,7 +74,11 @@ The President and the Commission shall secure a pro-competitive privatization of
 
 &emsp;&emsp;(C) have a schedule of commitments in such Agreement that includes non-discriminatory market access to their satellite markets.
 
-(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51.)
+(Pub. L. 87–624, title VI, §621, as added Pub. L. 106–180, §3, Mar. 17, 2000, 114 Stat. 51; amended Pub. L. 107–77, title VI, §628, Nov. 28, 2001, 115 Stat. 804.)
+
+#### Amendments
+
+2001—Par. (5)(A)(ii). Pub. L. 107–77 substituted “not later than December 31, 2002, except that the Commission may extend this deadline to not later than June 30, 2003” for “on or about October 1, 2000, except that the Commission may extend this deadline in consideration of market conditions and relevant business factors relating to the timing of an initial public offering, but to no later than December 31, 2001”.
 
 #### Immigration Status of Alien Employees of INTELSAT after Privatization
 

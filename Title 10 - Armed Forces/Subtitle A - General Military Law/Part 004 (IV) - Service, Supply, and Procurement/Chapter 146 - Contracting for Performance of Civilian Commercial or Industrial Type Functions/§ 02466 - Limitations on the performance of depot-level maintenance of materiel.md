@@ -4,11 +4,17 @@
 
 Percentage Limitation.—Not more than 50 percent of the funds made available in a fiscal year to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for the performance of depot-level maintenance and repair workload by employees of the Department of Defense.
 
-\[(b) Renumbered §2472(a)\]
+(b)
+
+Waiver of Limitation.—The Secretary of Defense may waive the limitation in subsection (a) for a fiscal year if—
+
+&emsp;(1) the Secretary determines that the waiver is necessary for reasons of national security; and
+
+&emsp;(2) the Secretary submits to Congress a notification of the waiver together with the reasons for the waiver.
 
 (c)
 
-Waiver of Limitation.—The Secretary of the military department concerned and, with respect to a Defense Agency, the Secretary of Defense may waive the applicability of subsection (a) for a fiscal year, to a particular workload, or to a particular depot-level activity if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.
+Prohibition on Delegation of Waiver Authority.—The authority to grant a waiver under subsection (b) may not be delegated.
 
 (d)
 
@@ -26,9 +32,11 @@ Annual Reports.—(1) Not later than February 1 of each year, the Secretary of D
 
 &emsp;(B) in the case of a report under paragraph (2), the expenditure projections for future fiscal years are reasonable.
 
-(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702; Pub. L. 106–65, div. A, title III, §333, Oct. 5, 1999, 113 Stat. 567.)
+(Added Pub. L. 100–456, div. A, title III, §326(a), Sept. 29, 1988, 102 Stat. 1955; amended Pub. L. 101–189, div. A, title III, §313, Nov. 29, 1989, 103 Stat. 1412; Pub. L. 102–190, div. A, title III, §314(a)(1), Dec. 5, 1991, 105 Stat. 1336; Pub. L. 102–484, div. A, title III, §352(a)–(c), Oct. 23, 1992, 106 Stat. 2378; Pub. L. 103–337, div. A, title III, §332, Oct. 5, 1994, 108 Stat. 2715; Pub. L. 104–106, div. A, title III, §§311(f)(1), 312(b), Feb. 10, 1996, 110 Stat. 248, 250; Pub. L. 105–85, div. A, title III, §§357, 358, 363, Nov. 18, 1997, 111 Stat. 1695, 1702; Pub. L. 106–65, div. A, title III, §333, Oct. 5, 1999, 113 Stat. 567; Pub. L. 107–107, div. A, title III, §341, Dec. 28, 2001, 115 Stat. 1060.)
 
 #### Amendments
+
+2001—Subsecs. (b), (c). Pub. L. 107–107 added subsecs. (b) and (c) and struck out heading and text of former subsec. (c). Text read as follows: “The Secretary of the military department concerned and, with respect to a Defense Agency, the Secretary of Defense may waive the applicability of subsection (a) for a fiscal year, to a particular workload, or to a particular depot-level activity if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver.”
 
 1999—Subsec. (e). Pub. L. 106–65 amended heading and text of subsec. (e) generally. Text read as follows:
 
@@ -48,7 +56,7 @@ Subsec. (b). Pub. L. 104–106, §312(b), redesignated subsec. (b) as section 24
 
 1994—Subsec. (a). Pub. L. 103–337, §332(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows:
 
-“(1) Except as provided in paragraph (2), the Secretary of a military department and, with respect to a Defense Agency, the Secretary of Defense, may notcontract for the performance by non-Federal Government personnel of more than 40 percent of the depot-level maintenance workload for the military department or the Defense Agency.
+“(1) Except as provided in paragraph (2), the Secretary of a military department and, with respect to a Defense Agency, the Secretary of Defense, may not contract for the performance by non-Federal Government personnel of more than 40 percent of the depot-level maintenance workload for the military department or the Defense Agency.
 
 “(2) The Secretary of the Army shall provide for the performance by employees of the Department of Defense of not less than the following percentages of Army aviation depot-level maintenance workload:
 
@@ -86,7 +94,7 @@ Subsec. (e). Pub. L. 102–484, §352(c), designated existing provisions as par.
 
 Section 331 of Pub. L. 103–337 provided that: “Congress makes the following findings:
 
-&emsp;“(1) By providing the Armed Forces with a critical capacity to respond to the needs of the Armed Forces for depot-level maintenance and repair of weapon systems and equipment, the depot-level maintenance and repair activities of the Department of Defense play an essential role in maintaining the readiness of the Armed Forces.
+&emsp;“(1) By providing the Armed Forces with a critical capacity to respond to the needs of the Armed Forcesfor depot-level maintenance and repair of weapon systems and equipment, the depot-level maintenance and repair activities of the Department of Defense play an essential role in maintaining the readiness of the Armed Forces.
 
 &emsp;“(2) It is appropriate for the capability of the depot-level maintenance and repair activities of the Department of Defense to perform maintenance and repair of weapon systems and equipment to be based on policies that take into consideration the readiness, mobilization, and deployment requirements of the military departments.
 
@@ -147,4 +155,8 @@ Report by Secretary of Defense.—Not later than December 1, 1993, the Secretary
 #### Pilot Program for Depot Maintenance Workload Competition
 
 Pub. L. 101–510, div. A, title IX, §922, Nov. 5, 1990, 104 Stat. 1627, authorized a depot maintenance workload competition pilot program during fiscal year 1991, outlined elements of the program, and provided for a report not later than Mar. 31, 1992, to congressional defense committees, prior to repeal by Pub. L. 102–190, div. A, title III, §314(b)(2), Dec. 5, 1991, 105 Stat. 1337.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2474 of this title.
 

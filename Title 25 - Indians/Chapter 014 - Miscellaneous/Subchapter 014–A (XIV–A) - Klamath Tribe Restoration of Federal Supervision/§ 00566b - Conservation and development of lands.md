@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding the tribe's previous rejection of the Act of June 18, 1934 (25 U.S.C. 461 et seq.),upon written request of the General Council, the Secretary of the Interior shall conduct a special election pursuant to section 18 of such Act \[25 U.S.C. 478\] to determine if such Act should be applicable to the tribe.
+Notwithstanding the tribe's previous rejection of the Act of June 18, 1934 (25 U.S.C. 461 et seq.), upon written request of the General Council, the Secretary of the Interior shall conduct a special election pursuant to section 18 of such Act \[25 U.S.C. 478\] to determine if such Act should be applicable to the tribe.
 
 #### (b) Adoption of constitution
 

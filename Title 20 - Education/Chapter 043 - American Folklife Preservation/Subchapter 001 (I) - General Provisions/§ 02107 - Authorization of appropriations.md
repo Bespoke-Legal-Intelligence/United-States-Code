@@ -14,7 +14,7 @@ There are authorized to be appropriated to the Center to carry out this subchapt
 
 1992—Pub. L. 102–399 substituted “1991,” for “1991, and” and inserted “, and $1,120,000 for the fiscal year ending September 30, 1993” after “September 30, 1992”.
 
-1989—Pub. L. 101–99 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1990,Sept. 30, 1991, and Sept. 30, 1992, of $998,000, $1,050,100, and $1,120,000, respectively. Direction to strike out “and” after “1988” was executed by striking “and” after “1988,” to reflect the probable intent of Congress.
+1989—Pub. L. 101–99 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1990, Sept. 30, 1991, and Sept. 30, 1992, of $998,000, $1,050,100, and $1,120,000, respectively. Direction to strike out “and” after “1988” was executed by striking “and” after “1988,” to reflect the probable intent of Congress.
 
 1986—Pub. L. 99–473 struck out subsec. designation “(a)” before “There are authorized” and “and” after “1985,”, inserted “, $867,900 for the fiscal year ending September 30, 1987, $919,974 for the fiscal year ending September 30, 1988, and $975,172 for the fiscal year ending September 30, 1989”, and struck out subsec. (b) which provided that no amount authorized by subsec. (a) of this section for fiscal years ending Sept. 30, 1985, or Sept. 30, 1986, be used for pay, benefits, or other expenses of any personnel position established after Aug. 21, 1984.
 

@@ -82,7 +82,7 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 &emsp;(A) to prepare assessments required under paragraph (2);
 
-&emsp;(B) to provide outreach, educational, and referral services to urban Indians regarding theavailability of direct mental health services, to educate urban Indians about mental health issues and services, and effect coordination with existing mental health providers in order to improve services to urban Indians;
+&emsp;(B) to provide outreach, educational, and referral services to urban Indians regarding the availability of direct mental health services, to educate urban Indians about mental health issues and services, and effect coordination with existing mental health providers in order to improve services to urban Indians;
 
 &emsp;(C) to provide outpatient mental health services to urban Indians, including the identification and assessment of illness, therapeutic treatments, case management, support groups, family treatment, and other treatment; and
 
@@ -110,7 +110,7 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 &emsp;(C) the assessment required under paragraph (2).
 
-(Pub. L. 94–437, title V, §503, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4821; amended Pub. L. 101–630, title V, §505, Nov. 28, 1990, 104 Stat. 4564; Pub. L. 102–573, title V, §§501(b)(1), 505(b)(1), Oct. 29, 1992, 106 Stat. 4567, 4570.)
+(Pub. L. 94–437, title V, §503, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4821;amended Pub. L. 101–630, title V, §505, Nov. 28, 1990, 104 Stat. 4564; Pub. L. 102–573, title V, §§501(b)(1), 505(b)(1), Oct. 29, 1992, 106 Stat. 4567, 4570.)
 
 #### References in Text
 

@@ -66,7 +66,7 @@
 
 #### (iii) Grants and technical assistance regarding counting of HIV cases
 
-&emsp;&emsp;&emsp;Of the amounts appropriated under section 247c–2 of this title for a fiscal year, the Secretary shall reserve amounts tomake grants and provide technical assistance to States and eligible areas with respect to obtaining data on cases of HIV disease to ensure that data on such cases is available from all States and eligible areas as soon as is practicable but not later than the beginning of fiscal year 2007.
+&emsp;&emsp;&emsp;Of the amounts appropriated under section 247c–2 of this title for a fiscal year, the Secretary shall reserve amounts to make grants and provide technical assistance to States and eligible areas with respect to obtaining data on cases of HIV disease to ensure that data on such cases is available from all States and eligible areas as soon as is practicable but not later than the beginning of fiscal year 2007.
 
 #### (E) Unexpended funds
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;In determining severe need in accordance with paragraph (1)(B), the Secretary shall consider the ability of the qualified applicant to expend funds efficiently and the impact of relevant factors on the cost and complexity of delivering health care and support services to individuals with HIV disease in the eligible area, including factors such as—
 
-&emsp;&emsp;&emsp;(i) sexually transmitted diseases, substance abuse, tuberculosis, severe mentalillness, or other comorbid factors determined relevant by the Secretary;
+&emsp;&emsp;&emsp;(i) sexually transmitted diseases, substance abuse, tuberculosis, severe mental illness, or other comorbid factors determined relevant by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) new or growing subpopulations of individuals with HIV disease;
 
@@ -194,11 +194,11 @@ A prior section 2603 of act July 1, 1944, was successively renumbered by subsequ
 
 Subsec. (a)(3)(C)(i). Pub. L. 106–345, §111(b)(1)(A), inserted before semicolon “, except that (subject to subparagraph (D)), for grants made pursuant to this paragraph for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
 
-Subsec. (a)(3)(C). Pub. L. 106–345, §111(b)(1)(B), in concluding provisions, inserted before period at end of first sentence “, and shall be reported to the congressional committees of jurisdiction” and inserted at end “Updates shall as applicable take into account the counting of cases of HIV disease pursuant to clause (i).”
+Subsec. (a)(3)(C). Pub. L. 106–345, §111(b)(1)(B), in concluding provisions, inserted before period at end of firstsentence “, and shall be reported to the congressional committees of jurisdiction” and inserted at end “Updates shall as applicable take into account the counting of cases of HIV disease pursuant to clause (i).”
 
 Subsec. (a)(3)(D), (E). Pub. L. 106–345, §111(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (a)(4). Pub. L. 106–345, §111(c), amended heading and text of par. (4) generally. Prior to amendment,text read as follows: “With respect to an eligible area under section 300ff–11(a) of this title, the Secretary shall increase the amount of a grant under paragraph (2) for a fiscal year to ensure that such eligible area receives not less than—
+Subsec. (a)(4). Pub. L. 106–345, §111(c), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “With respect to an eligible area under section 300ff–11(a) of this title, the Secretary shall increase the amount of a grant under paragraph (2) for a fiscal year to ensure that such eligible area receives not less than—
 
 &emsp;“(A) with respect to fiscal year 1996, 100 percent;
 

@@ -1,0 +1,40 @@
+### §1960. Prohibition of unlicensed money transmitting businesses
+
+(a) Whoever knowingly conducts, controls, manages, supervises, directs, or owns all or part of an unlicensed money transmitting business, shall be fined in accordance with this title or imprisoned not more than 5 years, or both.
+
+(b) As used in this section—
+
+&emsp;(1) the term “unlicensed money transmitting business” means a money transmitting business which affects interstate or foreign commerce in any manner or degree and—
+
+&emsp;&emsp;(A) is operated without an appropriate money transmitting license in a State where such operation is punishable as a misdemeanor or a felony under State law, whether or not the defendant knew that the operation was required to be licensed or that the operation was so punishable;
+
+&emsp;&emsp;(B) fails to comply with the money transmitting business registration requirements under section 5330 of title 31, United States Code, or regulations prescribed under such section; or
+
+&emsp;&emsp;(C) otherwise involves the transportation or transmission of funds that are known to the defendant to have been derived from a criminal offense or are intended to be used to be used <sup>1</sup> to promote or support unlawful activity;
+
+&emsp;(2) the term “money transmitting” includes transferring funds on behalf of the public by any and all means including but not limited to transfers within this country or to locations abroad by wire, check, draft, facsimile, or courier; and
+
+&emsp;(3) the term “State” means any State of the United States, the District of Columbia, the Northern Mariana Islands, and any commonwealth, territory, or possession of the United States.
+
+(Added Pub. L. 102–550, title XV, §1512(a), Oct. 28, 1992, 106 Stat. 4057; amended Pub. L. 103–325, title IV, §408(c), Sept. 23, 1994, 108 Stat. 2252; Pub. L. 107–56, title III, §373(a), Oct. 26, 2001, 115 Stat. 339.)
+
+#### Amendments
+
+2001—Pub. L. 107–56 amended section catchline and text generally, substituting provisions relating to prohibition of unlicensed money transmitting businesses for similar provisions relating to prohibition of illegal money transmitting businesses.
+
+1994—Subsec. (b)(1). Pub. L. 103–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+
+“(1) the term ‘illegal money transmitting business’ means a money transmitting business that affects interstate or foreign commerce in any manner or degree and which is knowingly operated in a State—
+
+&emsp;“(A) without the appropriate money transmitting State license; and
+
+&emsp;“(B) where such operation is punishable as a misdemeanor or a felony under State law;”.
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 981, 982, 986, 1956 of this title; title 12 sections 1786, 1818; title 31 section 5328.
+

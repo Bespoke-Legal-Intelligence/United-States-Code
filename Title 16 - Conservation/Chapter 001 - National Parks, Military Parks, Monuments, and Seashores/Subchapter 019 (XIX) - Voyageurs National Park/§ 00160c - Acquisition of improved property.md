@@ -10,11 +10,11 @@ If the State of Minnesota donates to the United States any lands within the boun
 
 #### (c) Termination of use and occupancy; tender by Secretary of fair market value of unexpired right
 
-Any right of use and occupancy retained or granted pursuant to this section shall be subject to termination by the Secretary upon his determination that such use and occupancy is being exercised in a manner not consistent with the purposes of this subchapter or upon his determination that the property is required for the proper administration of the park. The Secretary shall tender to the holder of the right so terminated an amount equal to the fair market value of that portion of the right which remains unexpired on the date of termination.
+Any right of use and occupancy retained or granted pursuant to this section shall be subjectto termination by the Secretary upon his determination that such use and occupancy is being exercised in a manner not consistent with the purposes of this subchapter or upon his determination that the property is required for the proper administration of the park. The Secretary shall tender to the holder of the right so terminated an amount equal to the fair market value of that portion of the right which remains unexpired on the date of termination.
 
 #### (d) “Improved property” defined
 
-The term “improved property”, as used in this section, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1969, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designateto be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+The term “improved property”, as used in this section, shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1969, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 91–661, §202, Jan. 8, 1971, 84 Stat. 1971.)
 

@@ -34,7 +34,7 @@ Section 816, Pub. L. 93–203, title I, §106, as added Pub. L. 95–524, §2, O
 
 A prior section 816, Pub. L. 93–203, title I, §106, Dec. 28, 1973, 87 Stat. 845; Pub. L. 94–444, §12(b)(2), Oct. 1, 1976, 90 Stat. 1483, provided for special provisions relating to State prime sponsors, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Provisions similar to those comprising this section were contained in former section 818 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+Provisions similar to those comprising this section were contained in former section 818 of this title priorto the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Section 817, Pub. L. 93–203, title I, §107, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1929, related to judicial review under this chapter.
 

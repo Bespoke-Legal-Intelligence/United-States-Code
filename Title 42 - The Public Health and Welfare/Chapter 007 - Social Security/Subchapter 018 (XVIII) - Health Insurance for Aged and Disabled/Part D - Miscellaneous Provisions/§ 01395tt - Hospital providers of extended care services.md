@@ -12,7 +12,7 @@
 
 &emsp;(I) the number of patient-days during the year for which the services were furnished, and
 
-&emsp;(II) the average reasonable cost per patient-day, such average reasonable cost per patient-day being the average rate per patient-day paid for routine services during the most recent year for which cost reporting data are available with respect to such services (increased in a compounded manner by the applicable increase for payments for routine service costs of skilled nursing facilities under subsections (a) through (d) of section 1395yy of this title for subsequent cost reporting periods and up to and including such calendar year) under this subchapter to freestanding skillednursing facilities in the region (as defined in section 1395ww(d)(2)(D) of this title) in which the facility is located.
+&emsp;(II) the average reasonable cost per patient-day, such average reasonable cost per patient-day being the average rate per patient-day paid for routine services during the most recent year for which cost reporting data are available with respect to such services (increased in a compounded manner by the applicable increase for payments for routine service costs of skilled nursing facilities under subsections (a) through (d) of section 1395yy of this title for subsequent cost reporting periods and up to and including such calendar year) under this subchapter to freestanding skilled nursing facilities in the region (as defined in section 1395ww(d)(2)(D) of this title) in which the facility is located.
 
 (iii) The reasonable cost of ancillary services shall be determined in the same manner as the reasonable cost of ancillary services provided for inpatient hospital services.
 
@@ -40,7 +40,7 @@ A hospital which enters into an agreement with the Secretary under this section 
 
 #### (g) Agreements on demonstration basis
 
-The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1) of this section, if the hospital otherwise meets the requirements of this section.
+The Secretary may enter into an agreement under this section on a demonstration basis withany hospital which does not meet the requirement of subsection (b)(1) of this section, if the hospital otherwise meets the requirements of this section.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(<i>l</i>)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §§403(f), 408(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375; Pub. L. 106–554, §1(a)(6) \[title II, §203(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–482.)
 
@@ -122,7 +122,7 @@ Section 904(d) of Pub. L. 96–499 provided that: “The amendments made by this
 
 #### Hold Harmless for Amendment by Pub. L. 101–508
 
-Section 4008(j)(2) of Pub. L. 101–508 provided that: “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year\(as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
+Section 4008(j)(2) of Pub. L. 101–508 provided that: “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
 
 #### Swing Beds Certified Prior to May 1, 1987
 

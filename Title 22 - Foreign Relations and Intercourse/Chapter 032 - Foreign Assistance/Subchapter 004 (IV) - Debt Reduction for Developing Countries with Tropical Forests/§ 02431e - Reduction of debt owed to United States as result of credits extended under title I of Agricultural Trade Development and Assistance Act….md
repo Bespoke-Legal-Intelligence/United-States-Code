@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Any debt reduction pursuant to subsection (a) of this section shall be accomplished at the direction of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) of this section outstanding as of the date specified in subsection (a)(1) of this section.
+&emsp;Any debt reduction pursuant to subsection (a) of this section shall be accomplished at thedirection of the Facility by the exchange of a new obligation for obligations of the type referred to in subsection (a) of this section outstanding as of the date specified in subsection (a)(1) of this section.
 
 #### (2) Exchange of obligations
 
@@ -58,5 +58,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2431a, 2431f of this title.
+This section is referred to in sections 2431a, 2431d, 2431f of this title.
 

@@ -1,12 +1,14 @@
 ### §80b–2. Definitions
 
-(a) When used in this subchapter, unless the context otherwise requires, the following definitions shall apply:
+#### (a) In general
 
-&emsp;(1) “Assignment” includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only aminority of the members and shall have only a minority interest in the business.
+When used in this subchapter, unless the context otherwise requires, the following definitions shall apply:
+
+&emsp;(1) “Assignment” includes any direct or indirect transfer or hypothecation of an investment advisory contract by the assignor or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but if the investment adviser is a partnership, no assignment of an investment advisory contract shall be deemed to result from the death or withdrawal of a minority of the members of the investment adviser having only a minority interest in the business of the investment adviser, or from the admission to the investment adviser of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
 
 &emsp;(2) “Bank” means (A) a banking institution organized under the laws of the United States, (B) a member bank of the Federal Reserve System, (C) any other banking institution or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
-&emsp;(3) “Broker” means any person engaged in the business of effecting transactions in securities for the account of others, but does not include a bank.
+&emsp;(3) The term “broker” has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\].
 
 &emsp;(4) “Commission” means the Securities and Exchange Commission.
 
@@ -14,7 +16,7 @@
 
 &emsp;(6) “Convicted” includes a verdict, judgment, or plea of guilty, or a finding of guilt on a plea of nolo contendere, if such verdict, judgment, plea, or finding has not been reversed, set aside, or withdrawn, whether or not sentence has been imposed.
 
-&emsp;(7) “Dealer” means any person regularly engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, insurance company, or investment company, or any person insofar as he is engaged in investing, reinvesting or trading in securities, or in owning or holding securities, for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business.
+&emsp;(7) The term “dealer” has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\], but does not include an insurance company or investment company.
 
 &emsp;(8) “Director” means any director of a corporation or any person performing similar functions with respect to any organization, whether incorporated or unincorporated.
 
@@ -22,9 +24,9 @@
 
 &emsp;(10) “Interstate commerce” means trade, commerce, transportation, or communication among the several States, or between any foreign country and any State, or between any State and any place or ship outside thereof.
 
-&emsp;(11) “Investment adviser” means any person who, for compensation, engages in the business of advising others, either directly or through publications or writings, as to the value of securities or as to the advisability of investing in, purchasing, or selling securities, or who, for compensation and as part of a regular business, issues or promulgates analyses or reports concerning securities; but does not include (A) a bank, or any bank holding company as defined in the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\] which is not an investment company; (B) any lawyer, accountant, engineer, or teacher whose performance of such services is solely incidental to the practice of his profession; (C) any broker or dealer whose performance of such services is solely incidental to the conduct of his business as a broker or dealer and who receives no special compensation therefor; (D) the publisher of any bona fide newspaper, news magazine or business or financial publication of general and regular circulation; (E) any person whose advice, analyses or reports relate to no securities other than securities which are direct obligations of or obligations guaranteed as to principal or interest by the United States, or securities issued or guaranteed by corporations in which the United States has a direct or indirect interest which shall have been designated by the Secretary of the Treasury, pursuant to section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\], as exempted securities for the purposes of that Act \[15 U.S.C. 78a et seq.\]; or (F) such other persons not within the intent of this paragraph, as the Commission may designate by rules and regulations or order.
+&emsp;(11) “Investment adviser” means any person who, for compensation, engages in the business of advising others, either directly or through publications or writings, as to the value of securities or as to the advisability of investing in, purchasing, or selling securities, or who, for compensation and as part of a regular business, issues or promulgates analyses or reports concerning securities; but does not include (A) a bank, or any bank holding company as defined in the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\] which is not an investment company, except that the term “investment adviser” includes any bank or bank holding company to the extent that such bank or bank holding company serves or acts as an investment adviser to a registered investment company, but if, in the case of a bank, such services or actions are performed through a separately identifiable department or division, the department or division, and not the bank itself, shall be deemed to be the investment adviser; (B) any lawyer, accountant, engineer, or teacher whose performance of such services is solely incidental to the practice of his profession; (C) any broker or dealer whose performance of such services is solely incidental to the conduct of his business as a broker or dealer and who receives no special compensation therefor; (D) the publisher of any bona fide newspaper, news magazine or business or financial publication of general and regular circulation; (E) any person whose advice, analyses or reports relate to no securities other than securities which are direct obligations of or obligations guaranteed as to principal or interest by the United States, or securities issued or guaranteed by corporations in which the United States has a direct or indirect interest which shall have been designated by the Secretary of the Treasury, pursuant to section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\], as exempted securities for the purposes of that Act \[15 U.S.C. 78a et seq.\]; or (F) such other persons not within the intent of this paragraph, as the Commission may designate by rules and regulations or order.
 
-&emsp;(12) “Investment company”, affiliated person, and “insurance company” have the same meanings as in the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\]. “Control” means the power to exercise a controlling influence over the management or policies of a company, unless such power is solely the result of an official position with such company.
+&emsp;(12) “Investment company”, affiliated person, and “insurance company” have the same meanings as in the Investment Company Actof 1940 \[15 U.S.C. 80a–1 et seq.\]. “Control” means the power to exercise a controlling influence over the management or policies of a company, unless such power is solely the result of an official position with such company.
 
 &emsp;(13) “Investment supervisory services” means the giving of continuous advice as to the investment of funds on the basis of the individual needs of each client.
 
@@ -58,7 +60,7 @@
 
 &emsp;(24) “Foreign financial regulatory authority” means any (A) foreign securities authority, (B) other governmental body or foreign equivalent of a self-regulatory organization empowered by a foreign government to administer or enforce its laws relating to the regulation of fiduciaries, trusts, commercial lending, insurance, trading in contracts of sale of a commodity for future delivery, or other instruments traded on or subject to the rules of a contract market, board of trade or foreign equivalent, or other financial activities, or (C) membership organization a function of which is to regulate the participation of its members in activities listed above.
 
-&emsp;(25) “Supervised person” means any partner, officer, director (or other person occupying a similar status or performing similar functions), or employee of an investment adviser, or other person who provides investment advice on behalf of the investment adviser and is subject to the supervision and control of the investment adviser.
+&emsp;(25) “Supervised person” means any partner, officer, director (or other person occupying a similar status or performing similar functions), or employee of an investment adviser, or other person who provides investment advice on behalf of the investment adviser and issubject to the supervision and control of the investment adviser.
 
 &emsp;(26) The term “separately identifiable department or division” of a bank means a unit—
 
@@ -66,31 +68,17 @@
 
 &emsp;&emsp;(B) for which all of the records relating to its investment adviser activities are separately maintained in or extractable from such unit's own facilities or the facilities of the bank, and such records are so maintained or otherwise accessible as to permit independent examination and enforcement by the Commission of this subchapter or the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] and rules and regulations promulgated under this subchapter or the Investment Company Act of 1940.
 
-&emsp;(27) The terms “security future” and “narrow-based security index” have the same meanings as provided in section 3(a)(55) of theSecurities Exchange Act of 1934 \[15 U.S.C. 78c(a)(55)\].
+&emsp;(27) The terms “security future” and “narrow-based security index” have the same meanings as provided in section 3(a)(55) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(55)\].
 
-(b) No provision in this subchapter shall apply to, or be deemed to include, the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned directly or indirectly by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
+#### (b) Applicability to Federal or State government, agency, or instrumentality, or to officers, agents, or employees thereof
 
-(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436.)
-
-#### Amendment of Section
-
-<i>Pub. L. 106–102, title II, §§217(a), 218, 219, 224, 225, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402, provided that, effective 18 months after Nov. 12, 1999—</i>
-
-<i>(1) Subsection (a)(3) of this section is amended to read as follows:</i>
-
-(3) The term “broker” has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\].
-
-<i>(2) Subsection (a)(7) of this section is amended to read as follows:</i>
-
-(7) The term “dealer” has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\], but does not include an insurance company or investment company.
-
-<i>(3) Subsection (a)(11)(A) of this section is amended by striking “investment company” and inserting “investment company, except that the term ‘investment adviser’ includes any bank or bank holding company to the extent that such bank or bank holding company serves or acts as an investment adviser to a registered investment company, but if, in the case of a bank, such services or actions are performed through a separately identifiable department or division, the department or division, and not the bank itself, shall be deemed to be the investment adviser”.</i>
-
-<i>(4) This section is amended by adding at the end the following new subsection:</i>
+No provision in this subchapter shall apply to, or be deemed to include, the United States, a State, or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or any corporation which is wholly owned directly or indirectly by any one or more of the foregoing, or any officer, agent, or employee of any of the foregoing acting as such in the course of his official duty, unless such provision makes specific reference thereto.
 
 #### (c) Consideration of promotion of efficiency, competition, and capital formation
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
+
+(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436.)
 
 #### References in Text
 
@@ -106,13 +94,23 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (a)(21), 
 
 The Trust Indenture Act of 1939, referred to in subsec. (a)(21), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, and amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77aaa of this title and Tables.
 
+This subchapter, referred to in subsec. (a)(26)(B), was in the original “this Act” and was translated as reading “this title”, meaning title II of act Aug. 22, 1940, ch. 686, known as the Investment Advisers Act of 1940, to reflect the probable intent of Congress.
+
 #### Amendments
 
 2000—Subsec. (a)(18). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2)\], inserted “security future,” after “treasury stock,”.
 
 Subsec. (a)(27). Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(4)\], added par. (27).
 
-1999—Subsec. (a)(26). Pub. L. 106–102, §217(b), added par. (26).
+1999—Subsec. (a)(3). Pub. L. 106–102, §218, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “ ‘Broker’ means any person engaged in the business of effecting transactions in securities for the account of others, but does not include a bank.”
+
+Subsec. (a)(7). Pub. L. 106–102, §219, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘Dealer’ means any person regularly engaged in the business of buying and selling securities for his own account, through a broker or otherwise, but does not include a bank, insurance company, or investment company, or any person insofar as he is engaged in investing, reinvesting or trading in securities, or in owning or holding securities, for his own account, either individually or in some fiduciary capacity, but not as a part of a regular business.”
+
+Subsec. (a)(11)(A). Pub. L. 106–102, §217(a), substituted “investment company, except that the term ‘investment adviser’ includes any bank or bank holding company to the extent that such bank or bank holding company serves or acts as an investment adviser to a registered investment company, but if, in the case of a bank, such services or actions are performed through a separately identifiable department or division, the department or division, and not the bank itself, shall bedeemed to be the investment adviser” for “investment company”.
+
+Subsec. (a)(26). Pub. L. 106–102, §217(b), added par. (26).
+
+Subsec. (c). Pub. L. 106–102, §224, added subsec. (c).
 
 1996—Subsec. (a). Pub. L. 104–290, §303(c)(1), substituted “requires, the following definitions shall apply:” for “requires—” in introductory provisions.
 

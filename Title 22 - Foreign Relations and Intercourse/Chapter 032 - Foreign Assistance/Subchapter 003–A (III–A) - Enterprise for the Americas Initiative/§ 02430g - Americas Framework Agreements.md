@@ -56,7 +56,7 @@ An Americas Framework Agreement with an eligible country shall—
 
 &emsp;&emsp;(C) shall be subject, on an annual basis, to an audit of financial statements conducted in accordance with generally accepted auditing standards by an independent auditor;
 
-&emsp;&emsp;(D) shall be required to grant to representatives of the United States General Accounting Office such access to books and recordsassociated with operations of the Americas Fund as the Comptroller General of the United States may request;
+&emsp;&emsp;(D) shall be required to grant to representatives of the United States General Accounting Office such access to books and records associated with operations of the Americas Fund as the Comptroller General of the United States may request;
 
 &emsp;&emsp;(E) shall present an annual program for review each year by the Enterprise for the Americas Board; and
 

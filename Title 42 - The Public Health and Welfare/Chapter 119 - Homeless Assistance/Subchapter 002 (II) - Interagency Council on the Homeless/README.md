@@ -1,5 +1,9 @@
 ### SUBCHAPTER II—INTERAGENCY COUNCIL ON THE HOMELESS
 
+#### Subchapter Referred to in Other Sections
+
+This subchapter is referred to in title 38 section 2066.
+
 
 ---
 

@@ -24,7 +24,7 @@
 
 (d) With the approval of the Secretary of the Treasury, the Postal Service may deposit moneys of the Fund in any Federal Reserve bank, any depository for public funds, or in such other places and in such manner as the Postal Service and the Secretary may mutually agree.
 
-(e)(1) The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission. The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9703(p) <sup>1</sup> of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service. Neither the Fund nor any of the funds credited to it shall be subject to apportionment under the provisions of subchapter II of chapter 15 of title 31.
+(e)(1) The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission. The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9703(p) <sup>1</sup> of title31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service. Neither the Fund nor any of the funds credited to it shall be subject to apportionment under the provisions of subchapter II of chapter 15 of title 31.
 
 (2) Funds appropriated to the Postal Service under section 2401 of this title shall be apportioned as provided in this paragraph. From the total amounts appropriated to the Postal Service for any fiscal year under the authorizations contained in section 2401 of this title, the Secretary of the Treasury shall make available to the Postal Service 25 percent of such amount at the beginning of each quarter of such fiscal year.
 
@@ -40,7 +40,7 @@
 
 Former section 2202 of title 39, referred to in subsec. (a)(6), means section 2202 of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
-Section 9703(f) of title 31, referred to in subsec. (e)(1), probably means the section 9703 of title 31 added by section 638(b)(1) of Pub. L. 102–393, title VI, Oct. 6, 1992, 106 Stat. 1779.
+Section 9703(p) of title 31, referred to in subsec. (e)(1), probably means the section 9703 of title 31 added by section 638(b)(1) of Pub. L. 102–393, title VI, Oct. 6, 1992, 106 Stat. 1779.
 
 Section 2004, as in effect before the effective date of this subsection, referred to in subsec. (h), means section 2004 of this title, as in effect before Oct. 1, 1997. Section 2004 was repealed by Pub. L. 105–33, title VII, §7003(a)(1), Aug. 5, 1997, 111 Stat. 663.
 
@@ -98,7 +98,7 @@ Section 4004(b) of Pub. L. 101–239 provided that: “The amendment made by sub
 
 #### Effective Date of 1981 Amendment
 
-Section 1727 of Pub. L. 97–35 provided that: “The provisions of this subtitle \[subtitle B (§§1721–1727) of title XVII of Pub. L. 97–35, amending this section and section 2401 of this title and enacting provisions set out asnotes under sections 403, 2004, and 2401 of this title\] (other than section 1726 and this section) shall take effect on October 1, 1981. The provisions of sections 1726 \[enacting a provision set out as a note under section 403 of this title\] and this section \[enacting this provision\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].”
+Section 1727 of Pub. L. 97–35 provided that: “The provisions of this subtitle \[subtitle B (§§1721–1727) of title XVII of Pub. L. 97–35, amending this section and section 2401 of this title and enacting provisions set out as notes under sections 403, 2004, and 2401 of this title\] (other than section 1726 and this section) shall take effect on October 1, 1981. The provisions of sections 1726 \[enacting a provision set out as a note under section 403 of this title\] and this section \[enacting this provision\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].”
 
 #### Contributions by United States Postal Service to Civil Service Retirement and Disability Fund
 

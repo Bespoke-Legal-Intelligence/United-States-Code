@@ -168,7 +168,7 @@ The Corporation may use the United States mails in the same manner and under the
 
 #### (A) Fiscal year 2002
 
-&emsp;&emsp;The amount made available to the Corporation for fiscal year 2002 may not exceed twice the amount that the Corporation certifies that it will provide for that fiscal year from sources other than the Federal Government.
+&emsp;&emsp;The amount made available to the Corporation for fiscal year 2002 may not exceedtwice the amount that the Corporation certifies that it will provide for that fiscal year from sources other than the Federal Government.
 
 #### (B) Subsequent fiscal years
 

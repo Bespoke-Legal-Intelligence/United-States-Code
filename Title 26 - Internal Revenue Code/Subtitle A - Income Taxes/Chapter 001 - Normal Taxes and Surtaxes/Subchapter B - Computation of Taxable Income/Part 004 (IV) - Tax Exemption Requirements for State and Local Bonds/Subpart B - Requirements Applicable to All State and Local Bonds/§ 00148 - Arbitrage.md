@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely by reason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
+&emsp;For purposes of subsection (a), a bond shall not be treated as an arbitrage bond solely byreason of the fact that an amount of the proceeds of the issue of which such bond is a part may be invested in higher yielding investments which are part of a reasonably required reserve or replacement fund. The amount referred to in the preceding sentence shall not exceed 10 percent of the proceeds of such issue unless the issuer establishes to the satisfaction of the Secretary that a higher amount is necessary.
 
 #### (2) Limitation on amount in reserve or replacement fund which may be financed by issue
 
@@ -390,11 +390,11 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(III) the aggregate face amount of all tax-exempt bonds (other than bonds described in subclause (II)) issued by such unit during the calendar year in which such issue was issued did not exceed $5,000,000.
 
-&emsp;&emsp;&nbsp;References in subclause (II) to section 103 shall be to such section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986. Rules similarto the rules of clauses (ii) and (iii) shall apply for purposes of subclause (III). For purposes of subclause (II) of clause (i), bonds described in subclause (II) of this clause to which section 141(a) does not apply shall not be treated as private activity bonds.
+&emsp;&emsp;&nbsp;References in subclause (II) to section 103 shall be to such section as in effect on the day before the date of the enactment of the Tax Reform Act of 1986. Rules similar to the rules of clauses (ii) and (iii) shall apply for purposes of subclause (III). For purposes of subclause (II) of clause (i), bonds described in subclause (II) of this clause to which section 141(a) does not apply shall not be treated as private activity bonds.
 
 #### (vii) Increase in exception for bonds financing public school capital expenditures
 
-&emsp;&emsp;&emsp;Each of the $5,000,000 amounts in the preceding provisions of this subparagraph shall be increased by the lesser of $5,000,000 or so much of the aggregate face amount of the bonds as are attributable to financing the construction (within the meaning of subparagraph (C)(iv)) of public school facilities.
+&emsp;&emsp;&emsp;Each of the $5,000,000 amounts in the preceding provisions of this subparagraph shall be increased by the lesser of $10,000,000 or so much of the aggregate face amount of the bonds as are attributable to financing the construction (within the meaning of subparagraph (C)(iv)) of public school facilities.
 
 #### (5) Exemption from gross income of sum rebated
 
@@ -448,7 +448,11 @@ For purposes of this section, the yield on an issue shall be determined on the b
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -457,6 +461,8 @@ The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. 
 Section 438 of the Higher Education Act of 1965, referred to in subsec. (g), is classified to section 1087–1 of Title 20, Education.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (f)(4)(D)(vii). Pub. L. 107–16, §§421(a), 901, temporarily substituted “the lesser of $10,000,000” for “the lesser of $5,000,000”. See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1997</b>—Subsec. (c)(2)(B) to (E). Pub. L. 105–34, §1444(a), redesignated subpars. (C) to (E) as (B) to (D), respectively, and struck out heading and text of former subpar. (B). Text read as follows: “In the case of the proceeds of an issue to be used to make or finance loans under a program described in section 144(b)(1)(A), subparagraph (A) shall be applied by substituting ‘18 months’ for ‘6 months’. The preceding sentence shall not apply to any bond issued after December 31, 1988.”
 
@@ -474,7 +480,7 @@ Subsec. (f)(4)(E). Pub. L. 105–34, §1444(b), struck out subpar. (E) which rel
 
 Subsec. (c)(2)(D), (E). Pub. L. 101–508, §11701(j)(6), made technical amendment to Pub. L. 101–239, §7652(c). See 1989 Amendment note below.
 
-Subsec. (f)(4)(B)(i). Pub. L. 101–508, §11701(j)(2), substituted in last sentence “replacement fund, and grossproceeds which arise after such 6 months and which were not reasonably anticipated as of the date of issuance, shall not be considered gross proceeds for purposes of subclause (I) only” for “replacement fund shall not be considered gross proceeds for purposes of this subparagraph only” in concluding provisions.
+Subsec. (f)(4)(B)(i). Pub. L. 101–508, §11701(j)(2), substituted in last sentence “replacement fund, and gross proceeds which arise after such 6 months and which were not reasonably anticipated as of the date of issuance, shall not be considered gross proceeds for purposes of subclause (I) only” for “replacement fund shall not be considered gross proceeds for purposes of this subparagraph only” in concluding provisions.
 
 Subsec. (f)(4)(B)(i)(II). Pub. L. 101–508, §11701(j)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the requirements of paragraph (2) are met after such 6 months with respect to earnings on amounts in any reasonably required reserve or replacement fund.”
 
@@ -486,7 +492,7 @@ Subsec. (f)(4)(C) to (E). Pub. L. 101–508, §11701(j)(3)(A), (B), added subpar
 
 Subsec. (d)(3)(E)(ii). Pub. L. 101–239, §7814(c)(2), struck out “a qualified mortgage bond or” after “in the case of”.
 
-Subsec. (f)(4)(B)(i). Pub. L. 101–239, §7652(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraph (2) if the gross proceeds of such issue are expended for the governmental purpose for which the issue was issued by no later than the day which is 6 months after the date of issuance of such issue. Gross proceeds which are held in a bona fide debt service fund shall not be considered gross proceeds for purposes of this subparagraph only.”
+Subsec. (f)(4)(B)(i). Pub. L. 101–239, §7652(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraph (2) if the gross proceeds of such issue are expended for the governmental purpose for which the issue was issued by no later than the day which is 6 months after the date of issuance of such issue. Gross proceeds which are heldin a bona fide debt service fund shall not be considered gross proceeds for purposes of this subparagraph only.”
 
 Subsec. (f)(4)(B)(ii)(I). Pub. L. 101–239, §7652(d), inserted “each place it appears” after “ ‘6 months’ ”.
 
@@ -526,6 +532,12 @@ Subsec. (f)(4)(D)(i). Pub. L. 100–647, §1013(a)(18), inserted “for a progra
 
 Subsec. (f)(7)(B). Pub. L. 100–647, §1013(a)(19), substituted “not due” for “due to reasonable cause and not”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title IV, §421(b), June 7, 2001, 115 Stat. 65, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued in calendar years beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Section 223(b) of Pub. L. 105–34 provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after December 31, 1997.”
@@ -546,7 +558,7 @@ Amendment by sections 7814(c)(2) and 7816(r), (t) of Pub. L. 101–239 effective
 
 #### Effective Date of 1988 Amendment
 
-Section 1013(a)(16)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall apply to bonds issued after June 30, 1987.”
+Section 1013(a)(16)(B) of Pub. L. 100–647 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to bonds issued after June 30, 1987.”
 
 Section 1013(a)(17)(C) of Pub. L. 100–647 provided that:
 

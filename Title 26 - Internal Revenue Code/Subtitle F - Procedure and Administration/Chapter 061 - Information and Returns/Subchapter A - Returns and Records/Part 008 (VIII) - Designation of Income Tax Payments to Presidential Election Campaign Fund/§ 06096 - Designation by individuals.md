@@ -66,13 +66,13 @@ Amendment by Pub. L. 97–414 applicable to amounts paid or incurred after Dec. 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 221(c)(1) of Pub. L. 97–34 applicable to amounts paid or incurred after June 30, 1981,see section 221(d) of Pub. L. 97–34, as amended, set out as an Effective Date note under section 41 of this title.
+Amendment by section 221(c)(1) of Pub. L. 97–34 applicable to amounts paid or incurred after June 30, 1981, see section 221(d) of Pub. L. 97–34, as amended, set out as an Effective Date note under section 41 of this title.
 
 Amendment by section 331(e)(1) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see section 339 of Pub. L. 97–34, set out as a note under section 401 of this title.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 231(b)(2) of Pub. L. 96–223, applicable to taxable years ending after Dec. 31, 1979, see section 231(c) of Pub. L. 96–223, set out as an Effective Date note under section 29 of this title.
+Amendment by section 231(b)(2) of Pub. L. 96–223, applicable to taxable years ending after Dec. 31, 1979, seesection 231(c) of Pub. L. 96–223, set out as an Effective Date note under section 29 of this title.
 
 Amendment by section 232(b)(3)(C) of Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, in taxable years ending after that date, see section 232(h)(1) of Pub. L. 96–223, set out as an Effective Date note under section 40 of this title.
 

@@ -136,7 +136,7 @@ Subsec. (e)(6). Pub. L. 98–369, §482(b)(2), substituted “section 213(d)(5)�
 
 <b>1976</b>—Subsec. (a)(9). Pub. L. 94–455, §1901(b)(7)(B), substituted “section 143” for “section 153”.
 
-Subsec. (a)(10). Pub. L. 94–455, §1901(a)(24)(A), struck out par. (10) relating to descendents of a taxpayer, who were members of taxpayer's household, before receiving institutional care.
+Subsec. (a)(10). Pub. L. 94–455, §1901(a)(24)(A), struck out par. (10) relating to descendents of a taxpayer, whowere members of taxpayer's household, before receiving institutional care.
 
 Subsec. (b)(3). Pub. L. 94–455, §1901(a)(24)(B), among other changes struck out “of the Canal Zone, or of the Republic of Panama” after “country contiguous to the United States,” and provisions relating to children born or adopted in Philippines.
 

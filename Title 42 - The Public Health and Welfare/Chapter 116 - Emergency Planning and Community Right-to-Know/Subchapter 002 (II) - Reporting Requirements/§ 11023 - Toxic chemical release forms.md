@@ -28,7 +28,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (c) Toxic chemicals covered
 
-The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of theSenate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
+The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
 
 #### (d) Revisions by Administrator
 
@@ -126,7 +126,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 &emsp;&emsp;(C) provide for submission of each of the following items of information for each listed toxic chemical known to be present at the facility:
 
-&emsp;&emsp;&emsp;(i) Whether the toxic chemical at the facility is manufactured, processed, or otherwise used, and the general category or categories of use of the chemical.
+&emsp;&emsp;&emsp;(i) Whether the toxic chemical at the facility is manufactured, processed, orotherwise used, and the general category or categories of use of the chemical.
 
 &emsp;&emsp;&emsp;(ii) An estimate of the maximum amounts (in ranges) of the toxic chemical present at the facility at any time during the preceding calendar year.
 
@@ -184,7 +184,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (5) Notification to Congress
 
-&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for amodification under this subsection. After such notification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
+&emsp;The Administrator shall notify Congress of an intention to initiate a rulemaking for a modification under this subsection. After such notification, the Administrator shall delay initiation of the rulemaking for at least 12 months, but no more than 24 months, after the date of such notification.
 
 #### (6) Judicial review
 
@@ -200,7 +200,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (j) EPA management of data
 
-The Administrator shall establish and maintain in a computer data base a national toxic chemical inventory based on data submitted to the Administrator under this section. The Administrator shall make these data accessible by computer telecommunication and other means to any person on a cost reimbursable basis.
+The Administrator shall establish and maintain in a computer data base a national toxic chemical inventory based on data submitted tothe Administrator under this section. The Administrator shall make these data accessible by computer telecommunication and other means to any person on a cost reimbursable basis.
 
 #### (k) Report
 
@@ -254,7 +254,7 @@ Memorandum for the Administrator of the Environmental Protection Agency and the 
 
 The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) (“EPCRA”) and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentive for businesses to find their own ways of preventing pollution.
 
-The laws provide the Environmental Protection Agency with substantial authority to add to the Toxics Release Inventory under EPCRA: (1) new chemicals; (2) new classes of industrial facilities; and (3) additional types of information concerning toxic chemical use at facilities. Community Right-to-Know should be enhanced wherever possible as appropriate. EPA currently is engaged in an on-going process to address potential facility expansion and the collection of use information. I am committed to a full and open process on the policy issues posed by EPA's exercise of these authorities.
+The laws provide the Environmental Protection Agency with substantial authority to add to the Toxics Release Inventory under EPCRA: (1) new chemicals; (2) new classes of industrial facilities; and (3) additional types of information concerning toxic chemical use at facilities. Community Right-to-Know should be enhanced wherever possible as appropriate. EPA currently is engaged in an on-going process to address potential facility expansion and the collection of use information. I am committed to a full and open processon the policy issues posed by EPA's exercise of these authorities.
 
 So that consideration of these issues can be fully accomplished during this Administration, I am directing the Administrator of the Environmental Protection Agency, in consultation with the Office of Management and Budget and appropriate Federal agencies with applicable technical and functional expertise, as necessary, to take the following actions:
 

@@ -96,7 +96,7 @@ A person described in subsection (b) of this section who is required to register
 
 #### (A) Notification of local law enforcement officials
 
-&emsp;&emsp;The FBI shall ensure that State and local law enforcement officials of the jurisdiction from which, and the State and local law enforcement officials of the jurisdiction to which, a person required to register undersubsection (c) of this section relocates are notified of the new residence of such person.
+&emsp;&emsp;The FBI shall ensure that State and local law enforcement officials of the jurisdiction from which, and the State and local law enforcement officials of the jurisdiction to which, a person required to register under subsection (c) of this section relocates are notified of the new residence of such person.
 
 #### (B) Notification of FBI
 

@@ -12,7 +12,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 &emsp;&emsp;(A) wheat in the reserve established under the Food Security Wheat Reserve Act of 1980 as of April 4, 1996;
 
-&emsp;&emsp;(B) wheat, rice, corn, and sorghum (referred to in this section as “eligible commodities”) acquired in accordance with paragraph (2) to replenish eligible commodities released from the trust, including wheat to replenish wheat released from the reserve established under the Food SecurityWheat Reserve Act of 1980 but not replenished as of April 4, 1996;
+&emsp;&emsp;(B) wheat, rice, corn, and sorghum (referred to in this section as “eligible commodities”) acquired in accordance with paragraph (2) to replenish eligible commodities released from the trust, including wheat to replenish wheat released from the reserve established under the Food Security Wheat Reserve Act of 1980 but not replenished as of April 4, 1996;
 
 &emsp;&emsp;(C) such rice, corn, and sorghum as the Secretary may, at such time and in such manner as the Secretary determines appropriate, acquire as a result of exchanging an equivalent value of wheat in the trust established under this section; and
 

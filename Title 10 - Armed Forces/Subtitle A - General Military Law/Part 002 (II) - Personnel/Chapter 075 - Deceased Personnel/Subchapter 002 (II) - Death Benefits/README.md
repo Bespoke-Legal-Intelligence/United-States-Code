@@ -25,7 +25,9 @@
 
 #### Amendments
 
-1999—Pub. L. 106–65, div. A, title VII, §721(c)(1), Oct. 5, 1999, 113 Stat. 694, which directed amendment of this chapter by inserting “SUBCHAPTER II—DEATH BENEFITS” before section 1475, was executed by making the insertion before the analysis to reflect the probable intent of Congress.
+2001—Pub. L. 107–107, div. A, title X, §1048(a)(14), Dec. 28, 2001, 115 Stat. 1223, transferred subchapter II heading so as to appear before the table of sections for that subchapter.
+
+1999—Pub. L. 106–65, div. A, title VII, §721(c)(1), Oct. 5, 1999, 113 Stat. 694, inserted “SUBCHAPTER II—DEATH BENEFITS” before section 1475 of this title.
 
 Pub. L. 106–65, div. A, title V, §578(k)(2)(A), Oct. 5, 1999, 113 Stat. 631, substituted “Funeral honors functions at funerals for veterans” for “Honor guard details at funerals of veterans” in item 1491.
 

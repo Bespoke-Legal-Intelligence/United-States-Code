@@ -18,7 +18,7 @@ The Architect of the Capitol, subject to the direction of the Joint Committee on
 
 #### (c) Donations of personal services
 
-(1) In carrying out this section and his duties, the Architect of the Capitol may accept personal services, including educationally relatedwork assignments for students in nonpay status, if the service is to be rendered without compensation.
+(1) In carrying out this section and his duties, the Architect of the Capitol may accept personal services, including educationally related work assignments for students in nonpay status, if the service is to be rendered without compensation.
 
 (2) No person shall be permitted to donate his or her personal services under this section unless such person has first agreed, in writing, to waive any and all claims against the United States arising out of or in connection with such services, other than a claim under the provisions of chapter 81 of title 5.
 
@@ -50,11 +50,11 @@ The income, estate, and gift tax laws of the United States, referred to in subse
 
 #### Funds Available for Constructing, Equipping, and Maintaining National Garden
 
-Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, as amended by Pub. L. 104–53, title II, §201(a), Nov. 19, 1995, 109 Stat. 529; Pub. L. 106–554, §1(a)(2) \[title III, §312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120, provided that:
+Pub. L. 102–392, title II, §201, Oct. 6, 1992, 106 Stat. 1716, as amended by Pub. L. 104–53, title II, §201(a), Nov. 19, 1995, 109 Stat. 529; Pub. L. 106–554, §1(a)(2) \[title III, §312\], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 107–68, title I, §135, Nov. 12, 2001, 115 Stat. 583, provided that:
 
-“(a) Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c), not more than $14,500,000 shall be accepted and not more than $14,500,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden.
+“(a) Pursuant to section 307E of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c), not more than $16,500,000 shall be accepted and not more than $16,500,000 of the amounts accepted shall be available for obligation by the Architect of the Capitol for constructing, equipping, and maintaining the National Garden.
 
-“(b) The Architect of the Capitol is authorized to solicit, receive, accept, and hold amounts under section 307E(a)(2) of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c(a)(2)) in excess of the $14,500,000 authorized under subsection (a), but such amounts (and any interest thereon) shall not be expended by the Architect without approval in appropriation Acts as required under section 307E(b)(3) of such Act (40 U.S.C. 216c(b)(3)).”
+“(b) The Architect of the Capitol is authorized to solicit, receive, accept, and hold amounts under section 307E(a)(2) of the Legislative Branch Appropriations Act, 1989 (40 U.S.C. 216c(a)(2)) in excess of the $16,500,000 authorized under subsection (a), but such amounts (and any interest thereon) shall not be expended by the Architect without approval in appropriation Acts as required under section 307E(b)(3) of such Act (40 U.S.C. 216c(b)(3)).”
 
 #### Renovation of Conservatory of Botanic Garden
 

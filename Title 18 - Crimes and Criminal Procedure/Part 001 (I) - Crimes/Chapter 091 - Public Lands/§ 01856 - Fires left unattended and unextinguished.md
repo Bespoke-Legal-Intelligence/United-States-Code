@@ -10,7 +10,7 @@ Based on title 18, U.S.C., 1940 ed., §107 (Mar. 4, 1909, ch. 321, §53, 35 Stat
 
 Words “without hard labor” which followed “six months” and preceded “or both” were omitted as unnecessary. (See reviser's note under section 1 of this title.)
 
-Enumeration of applicable condemnation statutes was deleted and section extended and made applicableto all lands in process of condemnation by the government. This does no violence to the intent of Congress and clarifies the section considerably.
+Enumeration of applicable condemnation statutes was deleted and section extended and made applicable to all lands in process of condemnation by the government. This does no violence to the intent of Congress and clarifies the section considerably.
 
 Other changes in phraseology were made.
 

@@ -10,7 +10,7 @@
 
 (c) Special pay under this section may be paid in addition to any compensation authorized under section 1602 of this title for which an officer or employee is eligible.
 
-(Added Pub. L. 101–193, title V, §501(a)(1), Nov. 30, 1989, 103 Stat. 1707, §1592; renumbered §1596,Pub. L. 101–510, div. A, title XIV, §1484(a), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 104–201, div. A, title XVI, §1633(e)(2), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1131(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–317.)
+(Added Pub. L. 101–193, title V, §501(a)(1), Nov. 30, 1989, 103 Stat. 1707, §1592; renumbered §1596, Pub. L. 101–510, div. A, title XIV, §1484(a), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 104–201, div. A, title XVI, §1633(e)(2), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1131(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–317.)
 
 #### Amendments
 

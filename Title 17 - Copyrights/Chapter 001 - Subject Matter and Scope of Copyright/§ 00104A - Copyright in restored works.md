@@ -82,7 +82,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 &emsp;(iii) Minor errors or omissions may be corrected by further notice at any time after the notice of intent is filed. Notices of corrections for such minor errors or omissions shall be accepted after the period established in subsection (d)(2)(A)(i). Notices shall be published in the Federal Register pursuant to subparagraph (B).
 
-&emsp;(B)(i) The Register of Copyrights shall publish in the Federal Register, commencing not later than 4 months after the date of restoration for a particular nation and every 4 months thereafter for a period of 2 years, lists identifying restored works and the ownership thereof if a notice of intent to enforce a restored copyright has been filed.
+&emsp;(B)(i) The Register of Copyrights shall publish in the Federal Register, commencing notlater than 4 months after the date of restoration for a particular nation and every 4 months thereafter for a period of 2 years, lists identifying restored works and the ownership thereof if a notice of intent to enforce a restored copyright has been filed.
 
 &emsp;(ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in the Public Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708.
 
@@ -94,7 +94,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 &emsp;(2)
 
-Notices of intent served on a reliance party.—(A) Notices of intent to enforce a restored copyright may be served on a relianceparty at any time after the date of restoration of the restored copyright.
+Notices of intent served on a reliance party.—(A) Notices of intent to enforce a restored copyright may be served on a reliance party at any time after the date of restoration of the restored copyright.
 
 &emsp;(B) Notices of intent to enforce a restored copyright served on a reliance party shall be signed by the owner or the owner's agent, shall identify the restored work and the work in which the restored work is used, if any, in detail sufficient to identify them, and shall include an English translation of the title, any other alternative titles known to the owner by which the work may be identified, the use or uses to which the owner objects, and an address and telephone number at which the reliance party may contact the owner. If the notice is signed by an agent, the agency relationship must have been constituted in writing and signed by the owner before service of the notice.
 
@@ -160,7 +160,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;(4) The term “reliance party” means any person who—
 
-&emsp;&emsp;(A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if the restored work had been subject to copyright protection, and who, after the source country becomes an eligible country, continues to engage in such acts;
+&emsp;&emsp;(A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if the restored work had been subject to copyrightprotection, and who, after the source country becomes an eligible country, continues to engage in such acts;
 
 &emsp;&emsp;(B) before the source country of a particular work becomes an eligible country, makes or acquires 1 or more copies or phonorecords of that work; or
 
@@ -264,7 +264,7 @@ Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) ge
 
 1996—Subsec. (h)(3). Pub. L. 104–295 substituted “subsection (g)” for “section 104A(g)”.
 
-1994—Pub. L. 103–465 substituted “Copyright in restored works” for “Copyright in certain motion pictures” as section catchline and amended text generally,substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
+1994—Pub. L. 103–465 substituted “Copyright in restored works” for “Copyright in certain motion pictures” as section catchline and amended text generally, substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
 
 #### Effective Date of 1998 Amendment
 

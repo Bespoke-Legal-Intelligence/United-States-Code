@@ -14,7 +14,7 @@ The Commission shall have no authority under this chapter to regulate any risk o
 
 &emsp;(C) an advance notice of proposed rulemaking for regulations under section 1261(q)(1) of this title,
 
-> relating to a risk of cancer, birth defects, or gene mutations from a consumer product unlessa Chronic Hazard Advisory Panel, established under section 2077 of this title, has, in accordance with paragraph (2), submitted a report to the Commission with respect to whether a substance contained in such product is a carcinogen, mutagen, or teratogen.
+> relating to a risk of cancer, birth defects, or gene mutations from a consumer product unless a Chronic Hazard Advisory Panel, established under section 2077 of this title, has, in accordance with paragraph (2), submitted a report to the Commission with respect to whether a substance contained in such product is a carcinogen, mutagen, or teratogen.
 
 (2)(A) Before the Commission issues an advance notice of proposed rulemaking for—
 

@@ -10,7 +10,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;(3) not to use such land for agricultural purposes, except as permitted by the Secretary;
 
-&emsp;(4) to establish approved vegetative cover, or water cover for the enhancement of wildlife, on such land, except that—
+&emsp;(4) to establish approved vegetative cover (which may include emerging vegetation in water), or water cover for the enhancement of wildlife, on such land, except that—
 
 &emsp;&emsp;(A) such water cover shall not include ponds for the purpose of watering livestock, irrigating crops, or raising fish for commercial purposes; and
 
@@ -22,7 +22,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;&emsp;(iii) the land on which the owner or operator was unable to plant such cover is planted to such cover after the wet conditions that prevented the planting subsides;
 
-&emsp;(5) in addition to the remedies provided under section 3836(d) of this title, on the violation of a term or condition of the contract at any time the owner or operator has control of such land—
+&emsp;(5) in addition to the remedies provided under section 3836(c) of this title, on the violation of a term or condition of the contract at any time the owner or operator has control of such land—
 
 &emsp;&emsp;(A) to forfeit all rights to receive rental payments and cost sharing payments under the contract and to refund to the Secretary any rental payments and cost sharing payments received by the owner or operator under the contract, together with interest thereon as determined by the Secretary, if the Secretary, after considering the recommendations of the soil conservation district and the Soil Conservation Service, determines that such violation is of such nature as to warrant termination of the contract; or
 
@@ -104,7 +104,7 @@ To the extent practicable, not less than one-eighth of land that is placed in th
 
 Notwithstanding any other provision of law, an owner or operator who is a party to a contract entered into under this subpart may not be required to make repayments to the Secretary of amounts received under such contract if the land that is subject to such contract has been foreclosed upon and the Secretary determines that forgiving such repayments is appropriate in order to provide fair and equitable treatment. This subsection shall not void the responsibilities of such an owner or operator under the contract if such owner or operator resumes control over the property that is subject to the contract within the period specified in the contract. Upon the resumption of such control over the property by the owner or operator, the provisions of the contract in effect on the date of the foreclosure shall apply.
 
-(Pub. L. 99–198, title XII, §1232, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1919; Pub. L. 101–624, title XIV, §§1433, 1447(a), Nov. 28, 1990, 104 Stat. 3579, 3605; Pub. L. 102–237, title II, §204(5), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title V, §516(a), Oct. 28, 1992, 106 Stat. 4136; Pub. L. 104–127, title III, §332(a)(2), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–78, title VII, §§763, 769, Oct. 22, 1999, 113 Stat. 1173, 1174; Pub. L. 106–387, §1(a) \[title VIII, §817, title XI, §1103\], Oct. 28, 2000, 114 Stat. 1549, 1549A–58, 1549A–77.)
+(Pub. L. 99–198, title XII, §1232, Dec. 23, 1985, 99 Stat. 1509; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1919; Pub. L. 101–624, title XIV, §§1433, 1447(a), Nov. 28, 1990, 104 Stat. 3579, 3605; Pub. L. 102–237, title II, §204(5), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title V, §516(a), Oct. 28, 1992, 106 Stat. 4136; Pub. L. 104–127, title III, §332(a)(2), Apr. 4, 1996, 110 Stat. 994; Pub. L. 106–78, title VII, §§763, 769, Oct. 22, 1999, 113 Stat. 1173, 1174; Pub. L. 106–387, §1(a) \[title VIII, §817, title XI, §1103\], Oct. 28, 2000, 114 Stat. 1549, 1549A–58, 1549A–77; Pub. L. 107–76, title VII, §§758(b), 759(b)(2), Nov. 28, 2001, 115 Stat. 741.)
 
 #### References in Text
 
@@ -115,6 +115,10 @@ The Agricultural Act of 1949, referred to in subsec. (a)(7), is act Oct. 31, 194
 Pub. L. 101–512 and Pub. L. 101–624 were approved by the President after Congress adjourned and in reverse order of passage by Congress. Accordingly, the amendments made by Pub. L. 101–624 were executed to text prior to the amendment made by Pub. L. 101–512 to reflect the probable intent of Congress.
 
 #### Amendments
+
+2001—Subsec. (a)(4). Pub. L. 107–76, §758(b), inserted “(which may include emerging vegetation in water)” after “vegetative cover” in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 107–76, §759(b)(2), substituted “section 3836(c) of this title” for “section 3836(d) of this title” in introductory provisions.
 
 2000—Subsec. (a)(4). Pub. L. 106–387, §1(a) \[title VIII, §817\], substituted “except that—” for “except that”, inserted “(A)” before “such water”, inserted “and” at end, and added subpar. (B).
 
@@ -152,11 +156,15 @@ Subsec. (a)(7). Pub. L. 101–624, §1433(a)(5), inserted before semicolon at en
 
 Subsec. (a)(11). Pub. L. 101–624, §1433(a)(6)–(8), added par. (11).
 
-Subsec. (c). Pub. L. 101–624, §1433(b), added subsec. (c) and struck out former subsec. (c) which read as follows: “To the extent practicable, not less than one eighth of the number of acres of land that is placed in the conservation reserve under this subpart in each of the 1986 through 1990 crop years shall be devoted to trees.”
+Subsec. (c). Pub. L. 101–624, §1433(b), added subsec. (c) and struck out former subsec. (c) which read as follows:“To the extent practicable, not less than one eighth of the number of acres of land that is placed in the conservation reserve under this subpart in each of the 1986 through 1990 crop years shall be devoted to trees.”
 
 Pub. L. 101–624, §1447(a), substituted “this subpart” for “this subchapter” in subsec. (c) as it existed prior to enactment of Pub. L. 101–624.
 
 Subsecs. (d), (e). Pub. L. 101–624, §1433(b), added subsecs. (d) and (e).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–76, title VII, §759(b)(3), Nov. 28, 2001, 115 Stat. 741, provided that: “The amendments made by this subsection \[amending this section and section 3836 of this title\] shall apply beginning with the 2002 crop.”
 
 #### Section Referred to in Other Sections
 

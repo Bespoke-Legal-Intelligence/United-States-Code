@@ -28,11 +28,11 @@
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), the phrase “reliably and consistently below the maximum contaminant level” means that, although contaminants have been detected in a water supply, the State has sufficient knowledge of the contamination source and extent of contamination to predict that the maximum contaminant level will not be exceeded. In determining that a contaminant is reliably and consistently below the maximum contaminant level, States shall consider the quality and completeness of data, the length of time covered and the volatility or stability of monitoring results during that time, and the proximity of such results to the maximum contaminant level. Wide variations in the analytical results, or analytical results close to the maximum contaminant level, shall not be considered to be reliably and consistently below the maximum contaminant level.
+&emsp;&emsp;For purposes of subparagraph (A), the phrase “reliably and consistently below themaximum contaminant level” means that, although contaminants have been detected in a water supply, the State has sufficient knowledge of the contamination source and extent of contamination to predict that the maximum contaminant level will not be exceeded. In determining that a contaminant is reliably and consistently below the maximum contaminant level, States shall consider the quality and completeness of data, the length of time covered and the volatility or stability of monitoring results during that time, and the proximity of such results to the maximum contaminant level. Wide variations in the analytical results, or analytical results close to the maximum contaminant level, shall not be considered to be reliably and consistently below the maximum contaminant level.
 
 #### (3) Effect of detection of contaminants
 
-&emsp;The guidelines issued by the Administrator under paragraph (2) shall require that if, after the monitoring program is in effect and operating, a contaminant covered by the alternative monitoring program is detected at levels at or above the maximum contaminant level or is no longer reliably or consistentlybelow the maximum contaminant level, the public water system must either—
+&emsp;The guidelines issued by the Administrator under paragraph (2) shall require that if, after the monitoring program is in effect and operating, a contaminant covered by the alternative monitoring program is detected at levels at or above the maximum contaminant level or is no longer reliably or consistently below the maximum contaminant level, the public water system must either—
 
 &emsp;&emsp;(A) demonstrate that the contamination source has been removed or that other action has been taken to eliminate the contamination problem; or
 

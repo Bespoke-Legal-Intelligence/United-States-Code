@@ -20,7 +20,7 @@
 
 An institution, in its application for a grant, shall—
 
-&emsp;(1) set forth, or describe how the institution (other than an institution applying under part C, D or E of this subchapter) will develop, a comprehensive development plan to strengthen the institution's academic quality and institutional management, and otherwise provide for institutional self-sufficiency and growth (including measurable objectives for the institution and the Secretary to use in monitoring the effectiveness of activities under this subchapter);
+&emsp;(1) set forth, or describe how the institution (other than an institution applying under partC, D or E of this subchapter) will develop, a comprehensive development plan to strengthen the institution's academic quality and institutional management, and otherwise provide for institutional self-sufficiency and growth (including measurable objectives for the institution and the Secretary to use in monitoring the effectiveness of activities under this subchapter);
 
 &emsp;(2) set forth policies and procedures to ensure that Federal funds made available under this subchapter for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purposes of section 1057(b) or 1062 of this title, and in no case supplant those funds;
 
@@ -70,7 +70,7 @@ A prior section 1068, Pub. L. 89–329, title III, §353, as added Pub. L. 99–
 
 Another prior section 1068, Pub. L. 89–329, title III, §343, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1398, related to application review process and provided for reader panels, recommendation of such panels, and notification to institutions, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1068, Pub. L. 89–329, title IV, §408, Nov. 8, 1965, 79 Stat. 1235; Pub. L. 90–575, title I, §105(a), Oct. 16, 1968, 82 Stat. 1018; Pub. L. 91–230, title VIII, §801, Apr. 13, 1970, 84 Stat. 190; Pub. L. 92–318, title I, §131(a)(1)(B), June 23, 1972, 86 Stat. 247, related to programs for identifying qualified low-income students and preparing them for post secondary education, grants or contracts for planning, developing or carrying out programs, “Talent Search” program, “Upward Bound” program, “Special Services for Disadvantaged Students” program, nature of programs, waiver of matching requirement in the “Upward Bound” program and authorization of appropriations, prior to the general amendment of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
+Another prior section 1068, Pub. L. 89–329, title IV, §408, Nov. 8, 1965, 79 Stat. 1235; Pub. L. 90–575, title I, §105(a), Oct. 16, 1968, 82 Stat. 1018; Pub. L. 91–230, title VIII, §801, Apr. 13, 1970, 84 Stat. 190; Pub. L. 92–318, title I, §131(a)(1)(B), June 23, 1972, 86 Stat. 247, related to programs for identifying qualified low-income students and preparing them for post secondary education, grants or contracts for planning, developing or carrying out programs, “Talent Search” program, “Upward Bound” program, “Special Services for Disadvantaged Students” program, nature of programs, waiver ofmatching requirement in the “Upward Bound” program and authorization of appropriations, prior to the general amendment of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
 #### Amendments
 

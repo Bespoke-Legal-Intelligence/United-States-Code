@@ -45,8 +45,147 @@
 | [141\.](%C2%A7%2000141%20-%20Thomas%20Jefferson%27s%20birthday.md) | Thomas Jefferson's birthday. |
 | [142\.](%C2%A7%2000142%20-%20White%20Cane%20Safety%20Day.md) | White Cane Safety Day. |
 | [143\.](%C2%A7%2000143%20-%20Wright%20Brothers%20Day.md) | Wright Brothers Day. |
+| [144\.](%C2%A7%2000144%20-%20Patriot%20Day.md) | Patriot Day. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+2001—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
+
+#### Brown v. Board of Education 50th Anniversary Commission
+
+Pub. L. 107–41, Sept. 18, 2001, 115 Stat. 226, provided that:
+
+#### “SECTION 1. FINDINGS.
+
+“The Congress finds that as the Nation approaches May 17, 2004, marking the 50th anniversary of the Supreme Court decision in Oliver L. Brown et al. v. Board of Education of Topeka, Kansas et al., it is appropriate to establish a national commission to plan and coordinate the commemoration of that anniversary.
+
+#### “SEC. 2. ESTABLISHMENT.
+
+“There is established a commission to be known as the ‘Brown v. Board of Education 50th Anniversary Commission’ (referred to in this Act as the ‘Commission’).
+
+#### “SEC. 3. DUTIES.
+
+“In order to commemorate the 50th anniversary of the Brown decision, the Commission shall—
+
+&emsp;“(1) in conjunction with the Department of Education, plan and coordinate public education activities and initiatives, including public lectures, writing contests, and public awareness campaigns, through the Department of Education's ten regional offices; and
+
+&emsp;“(2) in cooperation with the Brown Foundation for Educational Equity, Excellence, and Research in Topeka, Kansas (referred to in this Act as the ‘Brown Foundation’), and such other public or private entities as the Commission considers appropriate, encourage, plan, develop, and coordinate observances of the anniversary of the Brown decision.
+
+#### “SEC. 4. MEMBERSHIP.
+
+“(a)
+
+Number and Appointment.—The Commission shall be composed as follows:
+
+&emsp;“(1) Two representatives of the Department of Education appointed by the Secretary of Education, one of whom shall serve as one of two Co-chairpersons of the Commission.
+
+&emsp;“(2) Two representatives of the Department of Justice appointed by the Attorney General, one of whom shall serve as one of two Co-chairpersons of the Commission.
+
+&emsp;“(3) Eleven individuals appointed by the President after receiving recommendations as follows:
+
+&emsp;&emsp;“(A)(i) The Members of the Senate from each State described in clause (iii) shall each submit the name of one individual from the State to the majority leader and minority leader of the Senate.
+
+&emsp;&emsp;“(ii) After review of the submissions made under clause (i), the majority leader of the Senate, in consultation with the minority leader of the Senate, shall recommend to the President five individuals, one from each of the States described in clause (iii).
+
+&emsp;&emsp;“(iii) The States described in this clause are the States in which the lawsuits decided by the Brown decision were originally filed (Delaware, Kansas, South Carolina, and Virginia), and the State of the first legal challenge involved (Massachusetts).
+
+&emsp;&emsp;“(B)(i) The Members of the House of Representatives from each State described in subparagraph (A)(iii) shall each submit the name of one individual from the State to the Speaker of the House of Representatives and the minority leader of the House of Representatives.
+
+&emsp;&emsp;“(ii) After review of the submissions made under clause (i), the Speaker of the House of Representatives, in consultation with the minority leader of the House of Representatives, shall recommend to the President five individuals, one from each of the States described in subparagraph (A)(iii).
+
+&emsp;&emsp;“(C) The Delegate to the House of Representatives from the District of Columbia shall recommend to the President one individual from the District of Columbia.
+
+&emsp;“(4) Two representatives of the judicial branch of the Federal Government appointed by the Chief Justice of the United States Supreme Court.
+
+&emsp;“(5) Two representatives of the Brown Foundation.
+
+&emsp;“(6) Two representatives of the NAACP Legal Defense and Education Fund.
+
+&emsp;“(7) One representative of the Brown v. Board of Education National Historic Site.
+
+“(b)
+
+Terms.—Members of the Commission shall be appointed for the life of the Commission.
+
+“(c)
+
+Vacancies.—A vacancy in the Commission shall be filled in the same manner as the original appointment.
+
+“(d)
+
+Compensation.—
+
+&emsp;“(1)
+
+In general.—Members of the Commission shall serve without pay.
+
+&emsp;“(2)
+
+Travel expenses.—Each member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
+
+“(e)
+
+Quorum.—A majority of members of the Commission shall constitute a quorum.
+
+“(f)
+
+Meetings.—The Commission shall hold its first meeting not later than 6 months after the date of the enactment of this Act \[Sept. 18, 2001\]. The Commission shall subsequently meet at the call of a Co-chairperson or a majority of its members.
+
+“(g)
+
+Executive Director and Staff.—The Commission may secure the services of an executive director and staff personnel as it considers appropriate.
+
+#### “SEC. 5. POWERS.
+
+“(a)
+
+Powers of Members and Agents.—Any member or agent of the Commission may, if so authorized by the Commission, take any action which the Commission is authorized to take under this Act.
+
+“(b)
+
+Gifts and Donations.—
+
+&emsp;“(1)
+
+Authority to accept.—The Commission may accept and use gifts or donations of money, property, or personal services.
+
+&emsp;“(2)
+
+Disposition of property.—Any books, manuscripts, miscellaneous printed matter, memorabilia, relics, or other materials donated to the Commission which relate to the Brown decision, shall, upon termination of the Commission—
+
+&emsp;&emsp;“(A) be deposited for preservation in the Brown Foundation Collection at the Spencer Research Library at the University of Kansas in Lawrence, Kansas; or
+
+&emsp;&emsp;“(B) be disposed of by the Commission in consultation with the Librarian of Congress, and with the express consent of the Brown Foundation and the Brown v. Board of Education National Historic Site.
+
+“(c)
+
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+#### “SEC. 6. REPORTS.
+
+“(a)
+
+Interim Reports.—The Commission shall transmit interim reports to the President and the Congress not later than December 31 of each year. Each such report shall include a description of the activities of the Commission during the year covered by the report, an accounting of any funds received or expended by the Commission during such year, and recommendations for any legislation or administrative action which the Commission considers appropriate.
+
+“(b)
+
+Final Report.—The Commission shall transmit a final report to the President and the Congress not later than December 31, 2004. Such report shall include an accounting of any funds received or expended, and the disposition of any other properties, not previously reported.
+
+#### “SEC. 7. TERMINATION.
+
+“(a)
+
+Date.—The Commission shall terminate on such date as the Commission may determine, but not later than February 1, 2005.
+
+“(b)
+
+Disposition of Funds.—Any funds held by the Commission on the date the Commission terminates shall be deposited in the general fund of the Treasury.
+
+#### “SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated $250,000 for the period encompassing fiscal years 2003 and 2004 to carry out this Act, to remain available until expended.”
 
 #### James Madison Commemoration Commission
 
@@ -328,7 +467,7 @@ Audit Reports.—Not later than March 15, 2001, the Inspector General of the Gen
 
 #### Abraham Lincoln Bicentennial Commission
 
-Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, provided that:
+Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -478,7 +617,39 @@ Mails.—The Commission may use the United States mails in the same manner and u
 
 “(e)
 
-Administrative Support Services.—Upon the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, the administrative support services necessary for the Commission to carry out its responsibilities under this Act.
+Administrative Support Services.—Upon the request of the Commission, the Librarian of Congress shall provide to the Commission, on a reimbursable basis, administrative support services necessary for the Commission to carry out its responsibilities under this Act, including disbursing funds available to the Commission, and computing and disbursing the basic pay for Commission personnel.
+
+“(f)
+
+Gifts.—The Commission may, for the purpose of carrying out this Act, accept and use gifts of money, property, and services, and, notwithstanding section 1342 of title 31, United States Code, may accept and use voluntary services as the Commission deems necessary.
+
+“(g)
+
+Detail of Federal Employees.—On the request of the Commission, the head of a Federal agency or other Federal appointing authority may detail, on a reimbursable or nonreimbursable basis, any of its employees to the Commission to assist the Commission in carrying out the duties of the Commission under this Act. Any such detail of an employee shall be without interruption or loss of civil service status or privilege. Any reimbursement under this subsection shall be credited to the appropriation, fund, or account used for paying the amounts reimbursed.
+
+“(h)
+
+Employment Benefits.—
+
+&emsp;“(1)
+
+In general.—The Commission shall fix employment benefits for the Director and for additional personnel appointed under section 6(a), in accordance with paragraphs (2) and (3).
+
+&emsp;“(2)
+
+Employment benefits for the director.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Commission shall determine whether or not to treat the Director as a Federal employee for purposes of employment benefits. If the Commission determines that the Director is to be treated as a Federal employee, then he or she is deemed to be an employee as that term is defined by section 2105 of title 5, United States Code, for purposes of chapters 63, 83, 84, 87, 89, and 90 of that title, and is deemed to be an employee for purposes of chapter 81 of that title. If the Commission determines that the Director is not to be treated as a Federal employee for purposes of employment benefits, then the Commission or its administrative support service provider shall establish appropriate alternative employment benefits for the Director. The Commission's determination shall be irrevocable with respect to each individual appointed as Director, and the Commission shall notify the Office of Personnel Management and the Department of Labor of its determination. Notwithstanding the Commission's determination, the Director's service is deemed to be Federal service for purposes of section 8501 of title 5, United States Code.
+
+&emsp;&emsp;“(B)
+
+Detailee serving as director.—Subparagraph (A) shall not apply to a detailee who is serving as Director.
+
+&emsp;“(3)
+
+Employment benefits for additional personnel.—A person appointed to the Commission staff under subsection (b)(2) is deemed to be an employee as that term is defined by section 2105 of title 5, United States Code, for purposes of chapters 63, 83, 84, 87, 89, and 90 of that title, and is deemed to be an employee for purposes of chapter 81 of that title.
 
 #### “SEC. 8. REPORTS.
 
@@ -507,6 +678,8 @@ Final Report.—The Commission shall submit a final report to Congress not later
 #### “SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
 
 “There are authorized to be appropriated such sums as may be necessary to carry out this Act.”
+
+\[Pub. L. 107–117, div. B, §917(b), Jan. 10, 2002, 115 Stat. 2325, provided that: “The amendments made by this section \[amending section 209 of Pub. L. 107–68, which amended section 7 of Pub. L. 106–173, set out above\] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2002 (Public Law 107–68).”\]
 
 #### Proc. No. 4934. Armed Forces Day
 
@@ -584,3 +757,4 @@ Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided for formation of the Wh
 - [&sect; 00141 - Thomas Jefferson's birthday](%C2%A7%2000141%20-%20Thomas%20Jefferson%27s%20birthday.md)
 - [&sect; 00142 - White Cane Safety Day](%C2%A7%2000142%20-%20White%20Cane%20Safety%20Day.md)
 - [&sect; 00143 - Wright Brothers Day](%C2%A7%2000143%20-%20Wright%20Brothers%20Day.md)
+- [&sect; 00144 - Patriot Day](%C2%A7%2000144%20-%20Patriot%20Day.md)

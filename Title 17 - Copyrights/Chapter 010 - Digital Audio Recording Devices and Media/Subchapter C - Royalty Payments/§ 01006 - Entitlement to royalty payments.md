@@ -2,7 +2,7 @@
 
 (a)
 
-Interested Copyright Parties.—The royalty payments deposited pursuant to section1005 shall, in accordance with the procedures specified in section 1007, be distributed to any interested copyright party—
+Interested Copyright Parties.—The royalty payments deposited pursuant to section 1005 shall, in accordance with the procedures specified in section 1007, be distributed to any interested copyright party—
 
 &emsp;(1) whose musical work or sound recording has been—
 

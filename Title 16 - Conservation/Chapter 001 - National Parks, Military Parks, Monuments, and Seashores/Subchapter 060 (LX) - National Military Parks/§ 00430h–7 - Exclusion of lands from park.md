@@ -6,7 +6,7 @@ The park boundary is hereby revised to exclude those lands depicted as “Propos
 
 #### (b) Transfer to adjacent owners
 
-(1) For a period ending four years after October 18, 1990, and subject to the provisions ofparagraph (2), the Secretary is authorized to convey title to all or part of the lands referred to in subsection (a) of this section to an owner of property adjacent to such lands, upon the application of such owner.
+(1) For a period ending four years after October 18, 1990, and subject to the provisions of paragraph (2), the Secretary is authorized to convey title to all or part of the lands referred to in subsection (a) of this section to an owner of property adjacent to such lands, upon the application of such owner.
 
 (2) No property shall be conveyed unless the application referred to in paragraph (1) is accompanied by a payment in an amount equal to—
 

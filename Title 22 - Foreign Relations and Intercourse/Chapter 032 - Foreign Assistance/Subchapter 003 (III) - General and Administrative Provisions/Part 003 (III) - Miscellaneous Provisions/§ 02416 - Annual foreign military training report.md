@@ -8,7 +8,7 @@ Not later than January 31 of each year, the Secretary of Defense and the Secreta
 
 The report described in subsection (a) of this section shall include the following:
 
-&emsp;(1) For each military training activity, the foreign policy justification and purpose for theactivity, the number of foreign military personnel provided training and their units of operation, and the location of the training.
+&emsp;(1) For each military training activity, the foreign policy justification and purpose for the activity, the number of foreign military personnel provided training and their units of operation, and the location of the training.
 
 &emsp;(2) For each country, the aggregate number of students trained and the aggregate cost of the military training activities.
 

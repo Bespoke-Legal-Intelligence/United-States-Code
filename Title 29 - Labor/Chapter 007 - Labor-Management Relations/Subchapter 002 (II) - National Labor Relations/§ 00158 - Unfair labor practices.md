@@ -26,7 +26,7 @@ It shall be an unfair labor practice for a labor organization or its agents—
 
 &emsp;(4)(i) to engage in, or to induce or encourage any individual employed by any person engaged in commerce or in an industry affecting commerce to engage in, a strike or a refusal in the course of his employment to use, manufacture, process, transport, or otherwise handle or work on any goods, articles, materials, or commodities or to perform any services; or (ii) to threaten, coerce, or restrain any person engaged in commerce or in an industry affecting commerce, where in either case an object thereof is—
 
-&emsp;&emsp;(A) forcing or requiring any employer or selfemployed person to join any labor or employer organization or to enter into any agreement which is prohibited by subsection (e) of this section;
+&emsp;&emsp;(A) forcing or requiring any employer or self-employed person to join any labor or employer organization or to enter into any agreement which is prohibited by subsection (e) of this section;
 
 &emsp;&emsp;(B) forcing or requiring any person to cease using, selling, handling, transporting, or otherwise dealing in the products of any other producer, processor, or manufacturer, or to cease doing business with any other person, or forcing or requiring any other employer to recognize or bargain with a labor organization as the representative of his employees unless such labor organization has been certified as the representative of such employees under the provisions of section 159 of this title: <i>Provided</i>, That nothing contained in this clause (B) shall be construed to make unlawful, where not otherwise unlawful, any primary strike or primary picketing;
 

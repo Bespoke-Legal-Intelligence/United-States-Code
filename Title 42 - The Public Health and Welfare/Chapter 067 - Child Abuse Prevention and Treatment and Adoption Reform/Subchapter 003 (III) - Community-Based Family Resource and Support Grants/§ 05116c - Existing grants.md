@@ -28,7 +28,7 @@ The Temporary Child Care for Children With Disabilities and Crisis Nurseries Act
 
 #### Prior Provisions
 
-A prior section 5116c, Pub. L. 93–247, title II, §204, formerly Pub. L. 98–473, title IV, §405, Oct. 12, 1984, 98 Stat.2198; renumbered §204 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(d), Oct. 25, 1989, 103 Stat. 764, 766, 767; Pub. L. 102–295, title I, §123, May 28, 1992, 106 Stat. 198, established requirement for State grant eligibility, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
+A prior section 5116c, Pub. L. 93–247, title II, §204, formerly Pub. L. 98–473, title IV, §405, Oct. 12, 1984, 98 Stat. 2198; renumbered §204 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(d), Oct. 25, 1989, 103 Stat. 764, 766, 767; Pub. L. 102–295, title I, §123, May 28, 1992, 106 Stat. 198, established requirement for State grant eligibility, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
 
 #### Amendments
 

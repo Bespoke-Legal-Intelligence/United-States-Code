@@ -6,5 +6,5 @@ The Secretary is authorized to transfer the assets and liabilities of any progra
 
 #### Amendments
 
-1984—Pub. L. 98–479 substituted “title II of the Independent Offices Appropriation Act, 1955 (Public Law 83–428; 68 Stat. 272, 295)” for “title II of the Independent Offices Appropriation Act of 1965 (Public Law 81–428; 68 Stat. 272, 295)”.
+1984—Pub. L. 98–479 substituted “title II of the Independent Offices Appropriation Act, 1955 (Public Law83–428; 68 Stat. 272, 295)” for “title II of the Independent Offices Appropriation Act of 1965 (Public Law 81–428; 68 Stat. 272, 295)”.
 

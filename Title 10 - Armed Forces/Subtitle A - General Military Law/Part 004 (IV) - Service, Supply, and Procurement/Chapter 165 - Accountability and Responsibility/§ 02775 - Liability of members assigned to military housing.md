@@ -6,7 +6,7 @@
 
 &emsp;(A) who is assigned or provided a family housing unit; and
 
-&emsp;(B) who fails to clean satisfactorily that housing unit (as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as aservice in the Navy) upon termination of the assignment or provision of that housing unit,
+&emsp;(B) who fails to clean satisfactorily that housing unit (as determined under regulations prescribed by the Secretary of Defense or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy) upon termination of the assignment or provision of that housing unit,
 
 > shall be liable to the United States for the cost of cleaning made necessary as a result of that failure.
 
@@ -18,7 +18,7 @@
 
 (d) Amounts received under this section shall be credited to the family housing operations and maintenance account, in the case of damage to a family housing unit (or the equipment or furnishings of a family housing unit) or failure to clean satisfactorily a family housing unit, or to the operations and maintenance account, in the case of damage to an unaccompanied personnel housing unit (or the equipment or furnishings of an unaccompanied personnel housing unit), of the military department or defense agency concerned, or the operating expenses account of the Coast Guard, as appropriate. Amounts so credited shall be available for use for the same purposes and under the same circumstances as other funds in those accounts.
 
-(e) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section. Such regulations shall include—
+(e) The Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations tocarry out this section. Such regulations shall include—
 
 &emsp;(1) regulations for determining the cost of repairs and replacements made necessary as the result of abuse or negligence for which a member is liable under subsection (a)(1);
 
@@ -56,7 +56,7 @@ Subsec. (b). Pub. L. 98–407 added subsec. (b). Former subsec. (b) redesignated
 
 Subsec. (c). Pub. L. 98–407 redesignated former subsec. (b) as (c), in subsec. (c)(1) as so redesignated substituted reference to any abuse or negligence for which the member is liable for reference to any abuse or negligence on the part of such member or any dependent of such member, inserted provision that regulations implementing this section may also provide for the collection of amounts owed under this section by any other authorized means, and in subsec. (c)(2), as so redesignated, substituted reference to regulations prescribed under this section for reference to regulations issued under this section. Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 98–407 redesignated former subsec. (c) as (d) and substituted provisions requiring thatamounts received under this section be credited either to the family housing operations and maintenance account of the department or agency concerned, (in the case of damage to family housing or equipment or furnishings therein) or the operations and maintenance account of the department or agency concerned (in the case of damage to an unaccompanied personnel housing unit or equipment or furnishings therein) for provisions that amounts deducted from members’ pay under this section had to be credited to the Department of Defense Military Family Housing Management Account provided for in section 2831 of this title. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 98–407 redesignated former subsec. (c) as (d) and substituted provisions requiring that amounts received under this section be credited either to the family housing operations and maintenance account of the department or agency concerned, (in the case of damage to family housing or equipment or furnishings therein) or the operations and maintenance account of the department or agency concerned (in the case of damage to an unaccompanied personnel housing unit or equipment or furnishings therein) for provisions that amounts deducted from members’ pay under this section had to be credited to the Department of Defense Military Family Housing Management Account provided for in section 2831 of this title. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 98–407 redesignated former subsec. (d) as (e)(1), substituted reference to abuse or negligence referred to in subsec. (a) for reference to abuse or negligence on the part of a member or dependent of a member, and added par. (2).
 

@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If a distribution is not includible in gross income for the taxable year by reason of section 1293(c), then the extension under subsection (a) for payment of the undistributed PFIC earnings tax liability with respect to the earnings to which such distribution is attributable shall expire on the last date prescribed by law (determined without regard to extensions) for filing the return of tax for such taxable year.
+&emsp;&emsp;If a distribution is not includible in gross income for the taxable year by reason of section 1293(c), then the extension under subsection (a) for payment of the undistributedPFIC earnings tax liability with respect to the earnings to which such distribution is attributable shall expire on the last date prescribed by law (determined without regard to extensions) for filing the return of tax for such taxable year.
 
 #### (B) Ordering rule
 
@@ -80,7 +80,7 @@ For purposes of this section and section 1293, any loan by a qualified electing 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c)(2). Pub. L. 100–647, §1012(p)(4), (34), substituted “Transfers” for “Dispositions” in heading and “is transferred” for “is disposed of” in subpar. (A), and in closing provisions substituted “such transfer”for “such disposition” in two places and inserted at end “To the extent provided in regulations, the preceding sentence shall not apply in the case of a transfer in a transaction with respect to which gain or loss is not recognized (in whole or in part), and the transferee in such transaction shall succeed to the treatment under this section of the transferor.”
+<b>1988</b>—Subsec. (c)(2). Pub. L. 100–647, §1012(p)(4), (34), substituted “Transfers” for “Dispositions” in heading and “is transferred” for “is disposed of” in subpar. (A), and in closing provisions substituted “such transfer” for “such disposition” in two places and inserted at end “To the extent provided in regulations, the preceding sentence shall not apply in the case of a transfer in a transaction with respect to which gain or loss is not recognized (in whole or in part), and the transferee in such transaction shall succeed to the treatment under this section of the transferor.”
 
 Subsec. (f). Pub. L. 100–647, §1012(p)(25), added subsec. (f).
 

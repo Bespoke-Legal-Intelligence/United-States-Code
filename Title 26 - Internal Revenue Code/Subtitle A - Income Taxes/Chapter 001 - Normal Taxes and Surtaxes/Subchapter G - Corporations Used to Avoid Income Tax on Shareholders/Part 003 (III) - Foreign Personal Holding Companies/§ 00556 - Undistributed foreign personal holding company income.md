@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-For purposes of this part, the term “undistributed foreign personal holding company income” means the taxable income of a foreign personal holding company adjusted in the manner provided in subsection (b), minus the dividends paid deduction (as defined in section 561).
+For purposes of this part, the term “undistributed foreign personal holding company income”means the taxable income of a foreign personal holding company adjusted in the manner provided in subsection (b), minus the dividends paid deduction (as defined in section 561).
 
 #### (b) Adjustments to taxable income
 

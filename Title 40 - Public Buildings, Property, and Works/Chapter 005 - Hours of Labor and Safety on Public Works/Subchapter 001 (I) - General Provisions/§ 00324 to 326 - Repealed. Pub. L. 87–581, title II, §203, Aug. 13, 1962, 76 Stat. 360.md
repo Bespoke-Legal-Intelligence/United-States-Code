@@ -14,5 +14,5 @@ Repeal effective 60 days after Aug. 13, 1962, but not affecting contracts existi
 
 #### Savings Provision
 
-The provisions of sections 321, 322, and 324 to 326 of this title applicable with respect to certain contracts,see section 203 of Pub. L. 87–581, set out as a note under section 321 of this title.
+The provisions of sections 321, 322, and 324 to 326 of this title applicable with respect to certain contracts, see section 203 of Pub. L. 87–581, set out as a note under section 321 of this title.
 

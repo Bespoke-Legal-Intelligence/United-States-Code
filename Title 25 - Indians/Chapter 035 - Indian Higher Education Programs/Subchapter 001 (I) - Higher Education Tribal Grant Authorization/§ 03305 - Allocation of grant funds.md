@@ -8,7 +8,7 @@
 
 #### (2) Administrative costs
 
-&emsp;In addition to the amount determined under paragraph (1), a grantee which has exercised the option given in section 3304(a) of this title to administer the program under a grant shall receive an amount for administrative costs determined pursuant to the method used by the grantee during the preceding contract period. All other grantees shall receive an amount for administrative costs determined pursuant to the regulations governing such determinations under the Indian Self Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\], as in effect at the time of application to grants being made.
+&emsp;In addition to the amount determined under paragraph (1), a grantee which has exercisedthe option given in section 3304(a) of this title to administer the program under a grant shall receive an amount for administrative costs determined pursuant to the method used by the grantee during the preceding contract period. All other grantees shall receive an amount for administrative costs determined pursuant to the regulations governing such determinations under the Indian Self Determination and Education Assistance Act \[25 U.S.C. 450 et seq.\], as in effect at the time of application to grants being made.
 
 #### (3) Single grant; separate accounts
 

@@ -20,7 +20,7 @@ The Secretary of Agriculture is directed to implement policies under this Act wh
 
 #### References in Text
 
-Executive Order 11723 (dated June 13, 1973), referred to in subsec. (b), was revoked by Ex. Ord. No. 11788, June 18, 1974, 39 F.R. 22113, formerly set out as a note under section 1904 of Title 12, Banks and Banking.
+Executive Order 11723 (dated June 13, 1973), referred to in subsec. (b), was revoked by Ex. Ord. No. 11788, June 18, 1974, 39 F.R. 22113.
 
 This Act, referred to in subsec. (d), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, known as the Agricultural Act of 1970. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1281 of this title and Tables.
 

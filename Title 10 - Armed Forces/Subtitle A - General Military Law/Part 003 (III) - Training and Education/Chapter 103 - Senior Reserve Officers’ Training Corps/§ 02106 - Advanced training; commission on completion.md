@@ -16,7 +16,7 @@
 
 #### Benefits Not To Accrue for Periods Prior to September 23, 1996
 
-Section 507(c) of Pub. L. 104–201 provided that: “No increase in pay or retired or retainer pay shall accrue forperiods before the date of the enactment of this Act \[Sept. 23, 1996\] by reason of the amendments made by this section \[amending this section, sections 2107 and 2107a of this title, and section 205 of Title 37, Pay and Allowances of the Uniformed Services\].”
+Section 507(c) of Pub. L. 104–201 provided that: “No increase in pay or retired or retainer pay shall accrue for periods before the date of the enactment of this Act \[Sept. 23, 1996\] by reason of the amendments made by this section \[amending this section, sections 2107 and 2107a of this title, and section 205 of Title 37, Pay and Allowances of the Uniformed Services\].”
 
 #### Section Referred to in Other Sections
 

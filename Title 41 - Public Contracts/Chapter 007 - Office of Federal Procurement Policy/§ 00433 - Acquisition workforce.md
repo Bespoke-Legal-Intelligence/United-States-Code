@@ -74,7 +74,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### (3) Approval of requirements
 
-&emsp;The Administrator shall submit any requirement established or prescription made under paragraph (1) to the Director of the Office of Personnel Management for approval. If the Director does not disapprove a requirement or prescription within 30 days after the date on which the Director receives it, the requirement or prescription is deemed to be approved by the Director.
+&emsp;The Administrator shall submit any requirement established or prescription made under paragraph (1) to the Director of the Office ofPersonnel Management for approval. If the Director does not disapprove a requirement or prescription within 30 days after the date on which the Director receives it, the requirement or prescription is deemed to be approved by the Director.
 
 #### (h) Education and training
 

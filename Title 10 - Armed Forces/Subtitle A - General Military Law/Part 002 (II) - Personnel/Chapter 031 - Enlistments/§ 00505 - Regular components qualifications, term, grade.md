@@ -6,7 +6,7 @@
 
 (c) The Secretary concerned may accept original enlistments of persons for the duration of their minority or for a period of at least two but not more than six years, in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be.
 
-(d)(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard, as the case may be, for a period determined under this subsection.
+(d)(1) The Secretary concerned may accept a reenlistment in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps,or Regular Coast Guard, as the case may be, for a period determined under this subsection.
 
 (2) In the case of a member who has less than 10 years of service in the armed forces as of the day before the first day of the period for which reenlisted, the period for which the member reenlists shall be at least two years but not more than six years.
 
@@ -34,5 +34,5 @@ Subsec. (c). Pub. L. 93–290, §2, substituted provisions permitting the Secret
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 513, 519, 802, 16401 of this title.
+This section is referred to in sections 513, 519, 802, 3264, 16401 of this title.
 

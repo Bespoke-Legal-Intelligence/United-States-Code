@@ -32,9 +32,9 @@
 | (c) | Calculation of amounts. |
 | (d) | Effective date. |
 | 166b–3b. | Compensation of certain positions under jurisdiction of Architect of Capitol. |
-| (a) | Director of Engineering. |
-| (b) | Other listed positions. |
-| (c) | Authority to list additional positions. |
+| (a) | Twelve positions fixed in relation to Senior Executive Service. |
+| (b) | Eight positions fixed in relation to General Schedule. |
+| (c) | Executive Project Directors. |
 | 166b–4. | Gratuities for survivors of deceased employees under jurisdiction of Architect of Capitol. |
 | 166b–5. | Withholding and remittance of State income tax by Architect of Capitol. |
 | (a) | Agreement by Architect with appropriate State official; covered individuals. |
@@ -56,6 +56,11 @@
 | [166g.](%C2%A7%2000166g%20-%20Expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md) | Expenses for flying American flags and providing certification services therefor. |
 | [166h.](%C2%A7%2000166h%20-%20Transfer%20of%20funds%20by%20Architect%20of%20Capitol%3B%20approval.md) | Transfer of funds by Architect of Capitol; approval. |
 | [166i.](%C2%A7%2000166i%20-%20Energy%20conservation%20and%20management.md) | Energy conservation and management. |
+| [166j.](%C2%A7%2000166j%20-%20Construction%20contracts.md) | Construction contracts. |
+| (a) | Liquidated damages. |
+| (b) | Amount of payment. |
+| (c) | Daily liquidated damage payment rate. |
+| (d) | Effective date. |
 | [167\.](%C2%A7%2000167%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md) | Lighting, heating, and ventilating House of Representatives. |
 | [167a.](%C2%A7%2000167a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93417%2C%20July%2023%2C%201968%2C%2082%20Stat.%20407.md) | Repealed. |
 | [168\.](%C2%A7%2000168%20-%20Heating%20and%20ventilating%20Senate%20wing.md) | Heating and ventilating Senate wing. |
@@ -69,6 +74,12 @@
 | 174, 174a. Omitted. |  |
 | [174b.](%C2%A7%2000174b%20-%20Senate%20Office%20Building%3B%20approval%20of%20structural%20changes%20by%20Architect%20of%20Capitol.md) | Senate Office Building; approval of structural changes by Architect of Capitol. |
 | 174b–1. | Additional Senate office building. |
+| 174b–2. | Acquisition of buildings and facilities for use by Senate in emergency situation. |
+| (a) | Acquisition of buildings and facilities. |
+| (b) | Agreements. |
+| (c) | Authority of Capitol Police and Architect. |
+| (d) | Transfer of certain funds. |
+| (e) | Effective date. |
 | [174c.](%C2%A7%2000174c%20-%20Control%2C%20care%2C%20and%20supervision%20of%20Senate%20Office%20Building.md) | Control, care, and supervision of Senate Office Building. |
 | [174d.](%C2%A7%2000174d%20-%20Assignment%20of%20space%20in%20Senate%20Office%20Building.md) | Assignment of space in Senate Office Building. |
 | 174d–1. | Assignment of space for meetings of joint committees, conference committees, etc. |
@@ -93,6 +104,12 @@
 | (c) | Special deposit account. |
 | (d) | Effective date. |
 | [175\.](%C2%A7%2000175%20-%20House%20Office%20Building%3B%20control%2C%20supervision%2C%20and%20care.md) | House Office Building; control, supervision, and care. |
+| [175a.](%C2%A7%2000175a%20-%20Acquisition%20of%20buildings%20and%20facilities%20for%20use%20by%20House%20of%20Representatives%20in%20emergency%20situation.md) | Acquisition of buildings and facilities for use by House of Representatives in emergency situation. |
+| (a) | Acquisition of buildings and facilities. |
+| (b) | Agreements. |
+| (c) | Authority of Capitol Police and Architect. |
+| (d) | Transfer of certain funds. |
+| (e) | Effective date. |
 | [176\.](%C2%A7%2000176%20-%20Speaker%20as%20member%20of%20House%20Office%20Building%20commission.md) | Speaker as member of House Office Building commission. |
 | [177\.](%C2%A7%2000177%20-%20Assignment%20of%20rooms%20in%20House%20Office%20Building.md) | Assignment of rooms in House Office Building. |
 | [178\.](%C2%A7%2000178%20-%20Vacant%20rooms%3B%20assignment%20to%20Representatives.md) | Vacant rooms; assignment to Representatives. |
@@ -229,6 +246,9 @@
 | (e) | Transfer of accrued compensatory time off or receipt of lump-sum payment upon termination of service. |
 | (f) | Definitions. |
 | [206c.](%C2%A7%2000206c%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20Secretary%20of%20the%20Senate%3B%20compensatory%20time%20off%20in%20place%20of%E2%80%A6.md) | Emergency duty overtime pay for Capitol Police from funds disbursed by Secretary of the Senate; compensatory time off in place of additional pay; election, accrual and transfer of time off; rules and regulations. |
+| [206d.](%C2%A7%2000206d%20-%20Contributions%20of%20meals%20and%20refreshments%20during%20Capitol%20Police%20emergency%20duty.md) | Contributions of meals and refreshments during Capitol Police emergency duty. |
+| 206d–1. | Contributions of comfort and other incidental items and services during Capitol Police emergency duty. |
+| [206e.](%C2%A7%2000206e%20-%20Support%20and%20maintenance%20expenditures%20during%20Capitol%20Police%20emergency%20duty.md) | Support and maintenance expenditures during Capitol Police emergency duty. |
 | [207\.](%C2%A7%2000207%20-%20Payment%20of%20Capitol%20Police.md) | Payment of Capitol Police. |
 | [207a.](%C2%A7%2000207a%20-%20Unified%20payroll%20administration%20for%20Capitol%20Police.md) | Unified payroll administration for Capitol Police. |
 | [207b.](%C2%A7%2000207b%20-%20Establishment%20by%20Capitol%20Police%20Board%20of%20unified%20schedules%20of%20rates%20of%20basic%20pay%20and%20leave%20system%3B%20lump%20sum%20payments.md) | Establishment by Capitol Police Board of unified schedules of rates of basic pay and leave system; lump sum payments. |
@@ -236,6 +256,21 @@
 | (b) | Leave system. |
 | (c) | Lump sum payments. |
 | (d) | Effect on appointment authority. |
+| 207b–1. | Student loan repayment program for Capitol Police. |
+| (a) | Establishment and maintenance of program. |
+| (b) | Applicability of other laws. |
+| (c) | Limitations on amount. |
+| (d) | Reimbursements. |
+| (e) | Crediting and use of funds repaid by, or recovered from, an individual. |
+| (f) | Effective date. |
+| 207b–2. | Bonuses, retention allowances, and additional compensation for Capitol Police. |
+| (a) | Recruitment and relocation bonuses. |
+| (b) | Retention allowances. |
+| (c) | Lump sum incentive and merit bonus payments. |
+| (d) | Service step increases for meritorious service for officers. |
+| (e) | Additional compensation for field training officers. |
+| (f) | Regulations. |
+| (g) | Effective date. |
 | [207c.](%C2%A7%2000207c%20-%20Establishment%20of%20United%20States%20Capitol%20Police%20Memorial%20Fund.md) | Establishment of United States Capitol Police Memorial Fund. |
 | 207c–1. | Payments from Fund for families of Detective Gibson and Private First Class Chestnut. |
 | 207c–2. | Tax treatment of Fund. |
@@ -247,6 +282,7 @@
 | (a) | Appointment of certifying officers of the Capitol Police. |
 | (b) | Responsibility and accountability of certifying officers. |
 | (c) | Enforcement of liability. |
+| [207e.](%C2%A7%2000207e%20-%20Deposit%20and%20use%20of%20funds%20reimbursed%20to%20Capitol%20Police%20for%20law%20enforcement%20assistance.md) | Deposit and use of funds reimbursed to Capitol Police for law enforcement assistance. |
 | [208\.](%C2%A7%2000208%20-%20Suspension%20of%20Capitol%20Police%20members.md) | Suspension of Capitol Police members. |
 | [209\.](%C2%A7%2000209%20-%20Pay%20of%20Capitol%20Police%20members%20under%20suspension.md) | Pay of Capitol Police members under suspension. |
 | [210\.](%C2%A7%2000210%20-%20Uniform%2C%20belts%20and%20arms%3B%20Capitol%20Police.md) | Uniform, belts and arms; Capitol Police. |
@@ -280,6 +316,10 @@
 | (b) | Promulgation of regulations. |
 | (c) | Printing of regulations and effective dates. |
 | (d) | Cooperation with Mayor of District of Columbia. |
+| [212c.](%C2%A7%2000212c%20-%20Assistance%20by%20Executive%20departments%20and%20agencies%20to%20the%20Capitol%20Police.md) | Assistance by Executive departments and agencies to the Capitol Police. |
+| (a) | Assistance. |
+| (b) | Reports. |
+| (c) | Effective date. |
 | 213, 213a. | Repealed or Omitted. |
 | [214\.](%C2%A7%2000214%20-%20Protection%20of%20grounds.md) | Protection of grounds. |
 | [214a.](%C2%A7%2000214a%20-%20Omitted.md) | Omitted. |
@@ -323,7 +363,13 @@
 | [216d.](%C2%A7%2000216d%20-%20Disbursement%20of%20appropriations%20for%20Botanic%20Garden.md) | Disbursement of appropriations for Botanic Garden. |
 | [217\.](%C2%A7%2000217%20-%20Repealed.%20Oct.%2010%2C%201940%2C%20ch.%20851%2C%20%C2%A74%2C%2054%20Stat.%201111.md) | Repealed. |
 | [217a.](%C2%A7%2000217a%20-%20Plant%20material%20exchanges.md) | Plant material exchanges. |
-| 217b to 222. Repealed or Omitted. |  |
+| [217b.](%C2%A7%2000217b%20-%20Repealed.%20Oct.%2010%2C%201940%2C%20ch.%20851%2C%20%C2%A74%2C%2054%20Stat.%201111.md) | Repealed. |
+| [217c.](%C2%A7%2000217c%20-%20Congressional%20Award%20Youth%20Park.md) | Congressional Award Youth Park. |
+| (a) | Designation. |
+| (b) | Area included. |
+| (c) | Design. |
+| (d) | Funding. |
+| 218 to 222. Repealed or Omitted. |  |
 | [223\.](%C2%A7%2000223%20-%20Capitol%20Grounds%20shuttle%20service%3B%20purchase%2C%20etc.%2C%20of%20vehicles.md) | Capitol Grounds shuttle service; purchase, etc., of vehicles. |
 | [224\.](%C2%A7%2000224%20-%20Transportation%20of%20House%20Pages%20by%20Capitol%20Grounds%20shuttle%20service.md) | Transportation of House Pages by Capitol Grounds shuttle service. |
 
@@ -372,6 +418,7 @@
 - [&sect; 00166g - Expenses for flying American flags and providing certification services therefor](%C2%A7%2000166g%20-%20Expenses%20for%20flying%20American%20flags%20and%20providing%20certification%20services%20therefor.md)
 - [&sect; 00166h - Transfer of funds by Architect of Capitol; approval](%C2%A7%2000166h%20-%20Transfer%20of%20funds%20by%20Architect%20of%20Capitol%3B%20approval.md)
 - [&sect; 00166i - Energy conservation and management](%C2%A7%2000166i%20-%20Energy%20conservation%20and%20management.md)
+- [&sect; 00166j - Construction contracts](%C2%A7%2000166j%20-%20Construction%20contracts.md)
 - [&sect; 00167 - Lighting, heating, and ventilating House of Representatives](%C2%A7%2000167%20-%20Lighting%2C%20heating%2C%20and%20ventilating%20House%20of%20Representatives.md)
 - [&sect; 00167a - Repealed. Pub. L. 90&#8211;417, July 23, 1968, 82 Stat. 407](%C2%A7%2000167a%20-%20Repealed.%20Pub.%20L.%2090%E2%80%93417%2C%20July%2023%2C%201968%2C%2082%20Stat.%20407.md)
 - [&sect; 00168 - Heating and ventilating Senate wing](%C2%A7%2000168%20-%20Heating%20and%20ventilating%20Senate%20wing.md)
@@ -385,6 +432,7 @@
 - [&sect; 00174, 174a - Omitted](%C2%A7%2000174%2C%20174a%20-%20Omitted.md)
 - [&sect; 00174b - Senate Office Building; approval of structural changes by Architect of Capitol](%C2%A7%2000174b%20-%20Senate%20Office%20Building%3B%20approval%20of%20structural%20changes%20by%20Architect%20of%20Capitol.md)
 - [&sect; 00174b&#8211;1 - Additional Senate office building](%C2%A7%2000174b%E2%80%931%20-%20Additional%20Senate%20office%20building.md)
+- [&sect; 00174b&#8211;2 - Acquisition of buildings and facilities for use by Senate in emergency situation](%C2%A7%2000174b%E2%80%932%20-%20Acquisition%20of%20buildings%20and%20facilities%20for%20use%20by%20Senate%20in%20emergency%20situation.md)
 - [&sect; 00174c - Control, care, and supervision of Senate Office Building](%C2%A7%2000174c%20-%20Control%2C%20care%2C%20and%20supervision%20of%20Senate%20Office%20Building.md)
 - [&sect; 00174d - Assignment of space in Senate Office Building](%C2%A7%2000174d%20-%20Assignment%20of%20space%20in%20Senate%20Office%20Building.md)
 - [&sect; 00174d&#8211;1 - Assignment of space for meetings of joint committees, conference committees, etc](%C2%A7%2000174d%E2%80%931%20-%20Assignment%20of%20space%20for%20meetings%20of%20joint%20committees%2C%20conference%20committees%2C%20etc.md)
@@ -402,6 +450,7 @@
 - [&sect; 00174j&#8211;10 - Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account](%C2%A7%2000174j%E2%80%9310%20-%20Transfer%20of%20appropriations%20for%20management%20personnel%20and%20miscellaneous%20restaurant%20expenses%20to%20special%20deposit%20account.md)
 - [&sect; 00174k - House of Representatives restaurant, cafeteria, and food services](%C2%A7%2000174k%20-%20House%20of%20Representatives%20restaurant%2C%20cafeteria%2C%20and%20food%20services.md)
 - [&sect; 00175 - House Office Building; control, supervision, and care](%C2%A7%2000175%20-%20House%20Office%20Building%3B%20control%2C%20supervision%2C%20and%20care.md)
+- [&sect; 00175a - Acquisition of buildings and facilities for use by House of Representatives in emergency situation](%C2%A7%2000175a%20-%20Acquisition%20of%20buildings%20and%20facilities%20for%20use%20by%20House%20of%20Representatives%20in%20emergency%20situation.md)
 - [&sect; 00176 - Speaker as member of House Office Building commission](%C2%A7%2000176%20-%20Speaker%20as%20member%20of%20House%20Office%20Building%20commission.md)
 - [&sect; 00177 - Assignment of rooms in House Office Building](%C2%A7%2000177%20-%20Assignment%20of%20rooms%20in%20House%20Office%20Building.md)
 - [&sect; 00178 - Vacant rooms; assignment to Representatives](%C2%A7%2000178%20-%20Vacant%20rooms%3B%20assignment%20to%20Representatives.md)
@@ -474,14 +523,20 @@
 - [&sect; 00206a&#8211;9 - Chief Administrative Officer](%C2%A7%2000206a%E2%80%939%20-%20Chief%20Administrative%20Officer.md)
 - [&sect; 00206b - Emergency duty overtime pay for Capitol Police from funds disbursed by the Chief Administrative Officer of the House of Representatives](%C2%A7%2000206b%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20the%20Chief%20Administrative%20Officer%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00206c - Emergency duty overtime pay for Capitol Police from funds disbursed by Secretary of the Senate; compensatory time off in place of&#8230;](%C2%A7%2000206c%20-%20Emergency%20duty%20overtime%20pay%20for%20Capitol%20Police%20from%20funds%20disbursed%20by%20Secretary%20of%20the%20Senate%3B%20compensatory%20time%20off%20in%20place%20of%E2%80%A6.md)
+- [&sect; 00206d - Contributions of meals and refreshments during Capitol Police emergency duty](%C2%A7%2000206d%20-%20Contributions%20of%20meals%20and%20refreshments%20during%20Capitol%20Police%20emergency%20duty.md)
+- [&sect; 00206d&#8211;1 - Contributions of comfort and other incidental items and services during Capitol Police emergency duty](%C2%A7%2000206d%E2%80%931%20-%20Contributions%20of%20comfort%20and%20other%20incidental%20items%20and%20services%20during%20Capitol%20Police%20emergency%20duty.md)
+- [&sect; 00206e - Support and maintenance expenditures during Capitol Police emergency duty](%C2%A7%2000206e%20-%20Support%20and%20maintenance%20expenditures%20during%20Capitol%20Police%20emergency%20duty.md)
 - [&sect; 00207 - Payment of Capitol Police](%C2%A7%2000207%20-%20Payment%20of%20Capitol%20Police.md)
 - [&sect; 00207a - Unified payroll administration for Capitol Police](%C2%A7%2000207a%20-%20Unified%20payroll%20administration%20for%20Capitol%20Police.md)
 - [&sect; 00207b - Establishment by Capitol Police Board of unified schedules of rates of basic pay and leave system; lump sum payments](%C2%A7%2000207b%20-%20Establishment%20by%20Capitol%20Police%20Board%20of%20unified%20schedules%20of%20rates%20of%20basic%20pay%20and%20leave%20system%3B%20lump%20sum%20payments.md)
+- [&sect; 00207b&#8211;1 - Student loan repayment program for Capitol Police](%C2%A7%2000207b%E2%80%931%20-%20Student%20loan%20repayment%20program%20for%20Capitol%20Police.md)
+- [&sect; 00207b&#8211;2 - Bonuses, retention allowances, and additional compensation for Capitol Police](%C2%A7%2000207b%E2%80%932%20-%20Bonuses%2C%20retention%20allowances%2C%20and%20additional%20compensation%20for%20Capitol%20Police.md)
 - [&sect; 00207c - Establishment of United States Capitol Police Memorial Fund](%C2%A7%2000207c%20-%20Establishment%20of%20United%20States%20Capitol%20Police%20Memorial%20Fund.md)
 - [&sect; 00207c&#8211;1 - Payments from Fund for families of Detective Gibson and Private First Class Chestnut](%C2%A7%2000207c%E2%80%931%20-%20Payments%20from%20Fund%20for%20families%20of%20Detective%20Gibson%20and%20Private%20First%20Class%20Chestnut.md)
 - [&sect; 00207c&#8211;2 - Tax treatment of Fund](%C2%A7%2000207c%E2%80%932%20-%20Tax%20treatment%20of%20Fund.md)
 - [&sect; 00207c&#8211;3 - Administration by Capitol Police Board](%C2%A7%2000207c%E2%80%933%20-%20Administration%20by%20Capitol%20Police%20Board.md)
 - [&sect; 00207d - Certifying officers of Capitol Police](%C2%A7%2000207d%20-%20Certifying%20officers%20of%20Capitol%20Police.md)
+- [&sect; 00207e - Deposit and use of funds reimbursed to Capitol Police for law enforcement assistance](%C2%A7%2000207e%20-%20Deposit%20and%20use%20of%20funds%20reimbursed%20to%20Capitol%20Police%20for%20law%20enforcement%20assistance.md)
 - [&sect; 00208 - Suspension of Capitol Police members](%C2%A7%2000208%20-%20Suspension%20of%20Capitol%20Police%20members.md)
 - [&sect; 00209 - Pay of Capitol Police members under suspension](%C2%A7%2000209%20-%20Pay%20of%20Capitol%20Police%20members%20under%20suspension.md)
 - [&sect; 00210 - Uniform, belts and arms; Capitol Police](%C2%A7%2000210%20-%20Uniform%2C%20belts%20and%20arms%3B%20Capitol%20Police.md)
@@ -496,6 +551,7 @@
 - [&sect; 00212a&#8211;4a - Maintenance of security systems for Capitol buildings and grounds](%C2%A7%2000212a%E2%80%934a%20-%20Maintenance%20of%20security%20systems%20for%20Capitol%20buildings%20and%20grounds.md)
 - [&sect; 00212a&#8211;5 - Capitol Police citation release](%C2%A7%2000212a%E2%80%935%20-%20Capitol%20Police%20citation%20release.md)
 - [&sect; 00212b - Regulation of traffic by Capitol Police Board](%C2%A7%2000212b%20-%20Regulation%20of%20traffic%20by%20Capitol%20Police%20Board.md)
+- [&sect; 00212c - Assistance by Executive departments and agencies to the Capitol Police](%C2%A7%2000212c%20-%20Assistance%20by%20Executive%20departments%20and%20agencies%20to%20the%20Capitol%20Police.md)
 - [&sect; 00213 - Repealed. July 31, 1946, ch. 707, &sect;15, 60 Stat. 720](%C2%A7%2000213%20-%20Repealed.%20July%2031%2C%201946%2C%20ch.%20707%2C%20%C2%A715%2C%2060%20Stat.%20720.md)
 - [&sect; 00213a - Omitted](%C2%A7%2000213a%20-%20Omitted.md)
 - [&sect; 00214 - Protection of grounds](%C2%A7%2000214%20-%20Protection%20of%20grounds.md)
@@ -513,6 +569,7 @@
 - [&sect; 00217 - Repealed. Oct. 10, 1940, ch. 851, &sect;4, 54 Stat. 1111](%C2%A7%2000217%20-%20Repealed.%20Oct.%2010%2C%201940%2C%20ch.%20851%2C%20%C2%A74%2C%2054%20Stat.%201111.md)
 - [&sect; 00217a - Plant material exchanges](%C2%A7%2000217a%20-%20Plant%20material%20exchanges.md)
 - [&sect; 00217b - Repealed. Oct. 10, 1940, ch. 851, &sect;4, 54 Stat. 1111](%C2%A7%2000217b%20-%20Repealed.%20Oct.%2010%2C%201940%2C%20ch.%20851%2C%20%C2%A74%2C%2054%20Stat.%201111.md)
+- [&sect; 00217c - Congressional Award Youth Park](%C2%A7%2000217c%20-%20Congressional%20Award%20Youth%20Park.md)
 - [&sect; 00218 to 220 - Repealed. Oct. 31, 1951, ch. 654, &sect;3(19)&#8211;(21), 65 Stat. 709](%C2%A7%2000218%20to%20220%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A73%2819%29%E2%80%93%2821%29%2C%2065%20Stat.%20709.md)
 - [&sect; 00221, 222 - Omitted](%C2%A7%2000221%2C%20222%20-%20Omitted.md)
 - [&sect; 00223 - Capitol Grounds shuttle service; purchase, etc., of vehicles](%C2%A7%2000223%20-%20Capitol%20Grounds%20shuttle%20service%3B%20purchase%2C%20etc.%2C%20of%20vehicles.md)

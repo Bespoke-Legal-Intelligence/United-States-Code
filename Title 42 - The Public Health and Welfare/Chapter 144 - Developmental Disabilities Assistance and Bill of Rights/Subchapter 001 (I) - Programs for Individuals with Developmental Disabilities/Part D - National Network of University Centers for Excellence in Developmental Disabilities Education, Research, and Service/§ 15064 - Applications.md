@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) a representative of a self-advocacy organization described in section 15024(c)(4)(A)(ii)(I) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(VI) representatives of organizations that may include parent training and information centers assisted under section 1482 or 1483 of title 29, entities carrying out activities authorized under section 3011 or 3012 of title 20, relevant State agencies, and other community groups concerned with the welfare of individuals with developmental disabilities and their families;
+&emsp;&emsp;&emsp;&emsp;(VI) representatives of organizations that may include parent training and information centers assisted under section 1482 or 1483 of title 20, entities carrying out activities authorized under section 3011 or 3012 of title 29, relevant State agencies, and other community groups concerned with the welfare of individuals with developmental disabilities and their families;
 
 &emsp;&emsp;&emsp;(iii) that reflects the racial and ethnic diversity of the State; and
 
@@ -104,7 +104,7 @@ To be eligible to receive a supplemental grant under section 15061(b) of this ti
 
 #### (3) Grant expenditures
 
-&emsp;For the purpose of determining the Federal share with respect to the project, expenditures on that project by a political subdivision of a State or by a public or private entity shall, subject to such limitations and conditions as the Secretary may by regulation prescribe under section 15004(b) of this title, be considered to be expenditures made by a Center under this part.
+&emsp;For the purpose of determining the Federal share with respect to the project, expenditureson that project by a political subdivision of a State or by a public or private entity shall, subject to such limitations and conditions as the Secretary may by regulation prescribe under section 15004(b) of this title, be considered to be expenditures made by a Center under this part.
 
 #### (e) Annual report
 

@@ -2,7 +2,7 @@
 
 #### (a) Regulations; standards; consultation with Secretary of Transportation
 
-(1) Within nine months after October 27, 1972, the Administrator shall publish proposed noise emission regulations for motor carriers engaged in interstate commerce. Such proposed regulations shall include noise emission standards setting such limits on noise emissions resulting from operation of motor carriers engaged in interstate commerce which reflect the degree of noise reduction achievable through the application of the best available technology, taking into account the cost of compliance. These regulations shall be in addition to any regulations that may be proposed under section 4905 of this title.
+(1) Within nine months after October 27, 1972, the Administrator shall publish proposed noise emission regulations for motor carriers engaged in interstate commerce. Such proposed regulations shall include noise emission standards setting such limits on noise emissions resulting from operation of motor carriers engaged in interstate commerce which reflect the degree ofnoise reduction achievable through the application of the best available technology, taking into account the cost of compliance. These regulations shall be in addition to any regulations that may be proposed under section 4905 of this title.
 
 (2) Within ninety days after the publication of such regulations as may be proposed under paragraph (1) of this subsection, and subject to the provisions of section 4915 of this title, the Administrator shall promulgate final regulations. Such regulations may be revised from time to time, in accordance with this subsection.
 
@@ -16,7 +16,7 @@ The Secretary of Transportation, after consultation with the Administrator shall
 
 #### (c) State and local standards and controls
 
-(1) Subject to paragraph (2) of this subsection but notwithstanding any other provision of this chapter, after the effective date of a regulation under this section applicable to noise emissions resulting from the operation of any motor carrier engaged in interstate commerce, no Stateor political subdivision thereof may adopt or enforce any standard applicable to the same operation of such motor carrier, unless such standard is identical to a standard applicable to noise emissions resulting from such operation prescribed by any regulation under this section.
+(1) Subject to paragraph (2) of this subsection but notwithstanding any other provision of this chapter, after the effective date of a regulation under this section applicable to noise emissions resulting from the operation of any motor carrier engaged in interstate commerce, no State or political subdivision thereof may adopt or enforce any standard applicable to the same operation of such motor carrier, unless such standard is identical to a standard applicable to noise emissions resulting from such operation prescribed by any regulation under this section.
 
 (2) Nothing in this section shall diminish or enhance the rights of any State or political subdivision thereof to establish and enforce standards or controls on levels of environmental noise, or to control, license, regulate, or restrict the use, operation, or movement of any product if the Administrator, after consultation with the Secretary of Transportation, determines that such standard, control, license, regulation, or restriction is necessitated by special local conditions and is not in conflict with regulations promulgated under this section.
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4903, 4905, 4909, 4911, 4915 of this title.
+This section is referred to in sections 4903, 4905, 4909, 4911, 4915 of this title; title 49 section 113.
 

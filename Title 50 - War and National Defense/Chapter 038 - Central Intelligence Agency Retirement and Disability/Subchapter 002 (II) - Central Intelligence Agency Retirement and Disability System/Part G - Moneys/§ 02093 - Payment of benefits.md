@@ -24,7 +24,7 @@ Each annuity is stated as an annual amount, 1/12 of which, rounded to the next l
 
 #### (3) Other annuities
 
-&emsp;Any other annuity payable from the fund commences on the first day of the month after the occurrence of the event on which payment thereof is based.
+&emsp;Any other annuity payable from the fund commences on the first day of the month afterthe occurrence of the event on which payment thereof is based.
 
 #### (c) Termination of annuity
 
@@ -68,7 +68,7 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 #### (4) General provisions
 
-&emsp;This subsection does not give the consent of the United States to the application of a statute which imposes more burdensome requirements of the United States than on employers generally, or which subjects the United States or any annuitant to a penalty or liability because of this subsection. The Director may not accept pay from a State for services performed in withholding State income taxes from annuities. Any amount erroneously withheld froman annuity and paid to a State by the Director shall be repaid by the State in accordance with regulations prescribed by the Director.
+&emsp;This subsection does not give the consent of the United States to the application of a statute which imposes more burdensome requirements of the United States than on employers generally, or which subjects the United States or any annuitant to a penalty or liability because of this subsection. The Director may not accept pay from a State for services performed in withholding State income taxes from annuities. Any amount erroneously withheld from an annuity and paid to a State by the Director shall be repaid by the State in accordance with regulations prescribed by the Director.
 
 #### (5) “State” defined
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;Loans and grants under paragraph (1) shall be made only if the loan or grant funds will be used primarily to provide water or waste services, or both, to residents of a county—
 
-&emsp;&emsp;&emsp;(i) the per capita income of the residents of which is not more than 70 percent of the national average per capita income, as determined by the Department of Commerce; and
+&emsp;&emsp;&emsp;(i) the per capita income of the residents of which is not more than 70 percent of thenational average per capita income, as determined by the Department of Commerce; and
 
 &emsp;&emsp;&emsp;(ii) the unemployment rate of the residents of which is not less than 125 percent of the national average unemployment rate, as determined by the Bureau of Labor Statistics.
 

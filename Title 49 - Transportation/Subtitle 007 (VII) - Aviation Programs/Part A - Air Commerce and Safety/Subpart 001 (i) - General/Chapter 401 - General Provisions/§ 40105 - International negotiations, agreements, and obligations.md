@@ -100,13 +100,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1102(c), (d); added Feb. 15, 19
 
 49 App.:1502(d).
 
-In subsection (a), the words “government of a foreign country” are substituted for “foreign governments” in 49 App.:1462 and “foreign country” in 49 App.:1502(a) for consistency in the revised title and with other titles of the United States Code. The words “Secretary of Transportation” are substituted for “Department of Transportation” in 49 App.:1551(b)(1)(B) because of 49:102(b). The words “Secretary of State” are substituted for “Department of State” because of 22:2651.
+In subsection (a), the words “government of a foreign country” are substituted for “foreign governments” in49 App.:1462 and “foreign country” in 49 App.:1502(a) for consistency in the revised title and with other titles of the United States Code. The words “Secretary of Transportation” are substituted for “Department of Transportation” in 49 App.:1551(b)(1)(B) because of 49:102(b). The words “Secretary of State” are substituted for “Department of State” because of 22:2651.
 
 In subsection (b)(1), before clause (A), the words “carrying out” are substituted for “exercising and performing . . . powers and duties” for consistency in the revised title and with other titles of the Code. In clause (A), the words “an international agreement” are substituted for “any treaty, convention, or agreement that may be in force between the United States and any foreign country or foreign countries” for consistency and to eliminate unnecessary words. In clause (C), the word “public” is added for consistency in this part.
 
 In subsection (b)(2), the words “obligation, duty, or liability arising out of a contract or other” and “heretofore or hereafter” are omitted as surplus. The words “government of a foreign country” are substituted for “foreign country” for consistency in the revised title and with other titles of the Code. The last sentence is inserted to inform the reader that section 40106(b)(2) of the revised title qualifies this subsection.
 
-In subsection (c), before clause (1), the words “To assist” are omitted as surplus. The words “carrying out” are substituted for “developing and implementing” forconsistency in the revised title and with other titles of the Code. The word “both” is omitted as surplus. In clause (8), the word “authorities” is substituted for “agencies” for consistency in the revised title and with other titles of the Code.
+In subsection (c), before clause (1), the words “To assist” are omitted as surplus. The words “carrying out” are substituted for “developing and implementing” for consistency in the revised title and with other titles of the Code. The word “both” is omitted as surplus. In clause (8), the word “authorities” is substituted for “agencies” for consistency in the revised title and with other titles of the Code.
 
 #### Report on Certain Bilateral Negotiations
 
@@ -186,7 +186,7 @@ I74section i—passenger ticket
 
 (<i>h</i>) A statement that the transportation is subject to the rules relating to liability established by this convention.
 
-(4) The absence, irregularity, or loss of the baggage check shall not affect the existence or the validity of the contract of transportation which shall none theless be subject to the rules of this convention. Nevertheless, if the carrier accepts baggage without a baggage check having been delivered, or if the baggage check does not contain the particulars set out at (<i>d</i>), (<i>f</i>), and (<i>h</i>) above, the carrier shall not be entitled to avail himself of those provisions of the convention which exclude or limit his liability.
+(4) The absence, irregularity, or loss of the baggage check shall not affect the existence or the validity of the contract of transportation which shall none the less be subject to the rules of this convention. Nevertheless, if the carrier accepts baggage without a baggage check having been delivered, or if the baggage check does not contain the particulars set out at (<i>d</i>), (<i>f</i>), and (<i>h</i>) above, the carrier shall not be entitled to avail himself of those provisions of the convention which exclude or limit his liability.
 
 #### section iii—air waybill
 
@@ -282,7 +282,7 @@ If the carrier accepts goods without an air waybill having been made out, or if 
 
 (2) Unless it is otherwise agreed, it shall be the duty of the carrier to give notice to the consignee as soon as the goods arrive.
 
-(3) If the carrier admits the loss of the goods, or if the goods have not arrived at the expiration of seven daysafter the date on which they ought to have arrived, the consignee shall be entitled to put into force against the carrier the rights which flow from the contract of transportation.
+(3) If the carrier admits the loss of the goods, or if the goods have not arrived at the expiration of seven days after the date on which they ought to have arrived, the consignee shall be entitled to put into force against the carrier the rights which flow from the contract of transportation.
 
 #### <i>Article 14</i>
 
@@ -344,7 +344,7 @@ Any provision tending to relieve the carrier of liability or to fix a lower limi
 
 #### <i>Article 24</i>
 
-(1) In the cases covered by articles 18 and 19 any action for damages, however founded, can only be brought subject to the conditions and limits set out in this convention.
+(1) In the cases covered by articles 18 and 19 any action for damages, however founded, can only be broughtsubject to the conditions and limits set out in this convention.
 
 (2) In the cases covered by article 17 the provisions of the preceding paragraph shall also apply, without prejudice to the questions as to who are the persons who have the right to bring suit and what are their respective rights.
 
@@ -420,7 +420,7 @@ This convention is drawn up in French in a single copy which shall remain deposi
 
 #### <i>Article 37</i>
 
-(1) This convention shall be ratified. The instruments of ratification shall be deposited in the archives of the Ministry for Foreign Affairs of Poland, which shall give notice of the deposit to the Government of each of the High Contracting Parties.
+(1) This convention shall be ratified. The instruments of ratification shall be deposited in the archives of the Ministry for Foreign Affairs of Poland, which shall givenotice of the deposit to the Government of each of the High Contracting Parties.
 
 (2) As soon as this convention shall have been ratified by five of the High Contracting Parties it shall come into force as between them on the nineteenth day after the deposit of the fifth ratification. Thereafter it shall come into force between the High Contracting Parties which shall have ratified and the High Contracting Party which deposits its instrument of ratification on the ninetieth day after the deposit.
 
@@ -436,7 +436,7 @@ This convention is drawn up in French in a single copy which shall remain deposi
 
 #### <i>Article 39</i>
 
-(1) Any one of the High Contracting Parties may denounce this convention by a notification addressed tothe Government of the Republic of Poland, which shall at once inform the Government of each of the High Contracting Parties.
+(1) Any one of the High Contracting Parties may denounce this convention by a notification addressed to the Government of the Republic of Poland, which shall at once inform the Government of each of the High Contracting Parties.
 
 (2) Denunciation shall take effect six months after the notification of denunciation, and shall operate only as regards the party which shall have proceeded to denunciation.
 
@@ -468,7 +468,7 @@ The carriers by the agreement further stipulate that they will, at time of deliv
 
 As indicated, the decision of the U.S. Government to serve notice to denounce the Convention was predicated upon the low liability limits therein for personal injury and death. The Government announced, however, that it would be prepared to withdraw the Notice of Denunciation if, prior to its effective date, there is a reasonable prospect for international agreement on limits of liability for international transportation in the area of $100,000 per passenger or on uniform rules without any limit of liability, and if pending such international agreement there is a provisional arrangement among the principal international air carriers providing for liability up to $75,000 per passenger.
 
-Steps, have been taken by the signing carriers to have tariffs become effective May 16, 1966, upon approval of this agreement, which will increase by special contract their liability for personal injury or death as described herein. The signatory carriers provide by far the greater portion of international transportation to, from, and within the United States. The agreement will result in a salutory increase in the protection given to passengers from the increased liability amounts and the waiver of defenses under Article 20(1) of the Convention or Protocol. The U.S. Government has concluded that such arrangements warrant withdrawal of the Notice of Denunciation of the Warsaw Convention. Implementation of the agreement will permit continued adherence to the Convention with the benefits to be derived therefrom, but without the imposition of the low liability limits therein contained upon most international travel involving travel to or from theUnited States. The stipulation that no tariff provision shall be deemed to affect the rights and liabilities of the carrier with regard to any claim brought by, on behalf of, or in respect of any person who has willfully caused damage which results in death, wounding or other bodily injury of a passenger operates to diminish any incentive for sabotage.
+Steps, have been taken by the signing carriers to have tariffs become effective May 16, 1966, upon approval of this agreement, which will increase by special contract their liability for personal injury or death as described herein. The signatory carriers provide by far the greater portion of international transportation to, from, and within the United States. The agreement will result in a salutory increase in the protection given to passengers from the increased liability amounts and the waiver of defenses under Article 20(1) of the Convention or Protocol. The U.S. Government has concluded that such arrangements warrant withdrawal of the Notice of Denunciation of the Warsaw Convention. Implementation of the agreement will permit continued adherence to the Convention with the benefits to be derived therefrom, but without the imposition of the low liability limits therein contained upon most international travel involving travel to or from the United States. The stipulation that no tariff provision shall be deemed to affect the rights and liabilities of the carrier with regard to any claim brought by, on behalf of, or in respect of any person who has willfully caused damage which results in death, wounding or other bodily injury of a passenger operates to diminish any incentive for sabotage.
 
 Upon consideration of the agreement, and of matters relating thereto of which the Board takes notice, the Board does not find that the agreement is adverse to the public interest or in violation of the Act and it will be approved.
 

@@ -44,5 +44,5 @@ Par. (5). Pub. L. 104–132, §721(h), added par. (5).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2332a of this title.
+This section is referred to in sections 1993, 2332a of this title.
 

@@ -8,7 +8,7 @@ General Entitlement.—(1) Except as otherwise provided by law, a member of a un
 
 (b)
 
-Basic Allowance for Housing Inside the United States.—(1) The Secretary of Defense shall prescribe the rates of the basic allowancefor housing that are applicable for the various military housing areas in the United States. The rates for an area shall be based on the costs of adequate housing determined for the area under paragraph (2).
+Basic Allowance for Housing Inside the United States.—(1) The Secretary of Defense shall prescribe the rates of the basic allowance for housing that are applicable for the various military housing areas in the United States. The rates for an area shall be based on the costs of adequate housing determined for the area under paragraph (2).
 
 (2) The Secretary of Defense shall determine the costs of adequate housing in a military housing area in the United States for all members of the uniformed services entitled to a basic allowance for housing in that area. The Secretary shall base the determination upon the costs of adequate housing for civilians with comparable income levels in the same area. After June 30, 2001, the Secretary may not differentiate between members with dependents in pay grades E–1 through E–4 in determining what constitutes adequate housing for members.
 
@@ -70,7 +70,7 @@ Basic Allowance for Housing When Dependents Are Unable To Accompany Member.—(1
 
 (e)
 
-Effect of Assignment to Quarters.—(1) Except as otherwise provided by law, a member of a uniformed service who is assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service appropriate to the grade, rank, or rating of the member and adequate for the member and dependents of the member, if with dependents, is not entitled to a basic allowance for housing.
+Effect of Assignment to Quarters.—(1) Except as otherwise provided by law, a member of a uniformed service who is assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service appropriate to the grade, rank, or rating of themember and adequate for the member and dependents of the member, if with dependents, is not entitled to a basic allowance for housing.
 
 (2) A member without dependents who is in a pay grade above pay grade E–6 and who is assigned to quarters in the United States or a housing facility under the jurisdiction of a uniformed service, appropriate to the grade or rank of the member and adequate for the member, may elect not to occupy those quarters and instead to receive the basic allowance for housing prescribed for the member's pay grade by this section.
 
@@ -100,7 +100,7 @@ Reserve Members.—(1) A member of a reserve component without dependents who is
 
 &emsp;(B) which is owned by the member or for which the member is responsible for rental payments.
 
-(2) Paragraph (1) shall not apply if the member is authorized transportation of household goodsunder section 406 of this title as part of the call or order to active duty described in such paragraph.
+(2) Paragraph (1) shall not apply if the member is authorized transportation of household goods under section 406 of this title as part of the call or order to active duty described in such paragraph.
 
 (3) The Secretary of Defense shall establish a rate of basic allowance for housing to be paid to a member of a reserve component while the member serves on active duty under a call or order to active duty specifying a period of less than 140 days, unless the call or order to active duty is in support of a contingency operation.
 
@@ -110,7 +110,7 @@ Rental of Public Quarters.—Notwithstanding any other law (including those rest
 
 (i)
 
-Temporary Housing Allowance While in Travel or Leave Status.—A member of a uniformed service who is in a pay grade E–4 (4 or more years of service) or above is entitled to a temporary basic allowance for housing (at a rate determined by the Secretary of Defense) while the member is in a travel or leave status between permanent duty stations, including time granted as delay en route or proceed time, when the member is not assigned to quarters of the United States.
+Temporary Housing Allowance While in Travel or Leave Status.—A member of a uniformed service who is in a pay grade E–4 (4 or more years of service) or above is entitled to a temporary basic allowance for housing (at a rate determined by the Secretary of Defense) while the member is in a travel or leave status between permanent duty stations, including time granted as delay en route or proceed time, whenthe member is not assigned to quarters of the United States.
 
 (j)
 
@@ -150,7 +150,7 @@ Members Paying Child Support.—(1) A member of a uniformed service with depende
 
 (3) The basic allowance for housing differential to which a member is entitled under paragraph (2) is the amount equal to the difference between—
 
-&emsp;(A) the rate of the basic allowance for quarters (with dependents) for the member's pay grade, as such rate was in effect on December31, 1997, under this section (as in effect on that date); and
+&emsp;(A) the rate of the basic allowance for quarters (with dependents) for the member's pay grade, as such rate was in effect on December 31, 1997, under this section (as in effect on that date); and
 
 &emsp;(B) the rate of the basic allowance for quarters (without dependents) for the member's pay grade, as such rate was in effect on December 31, 1997, under this section (as in effect on that date).
 
@@ -162,9 +162,13 @@ Members Paying Child Support.—(1) A member of a uniformed service with depende
 
 Partial Allowance for Members Without Dependents.—(1) A member of a uniformed service without dependents who is not entitled to receive a basic allowance for housing under subsection (b), (c), or (d) is entitled to a partial basic allowance for housing at a rate determined by the Secretary of Defense under paragraph (2).
 
-(2) The rate of the partial basic allowance for housing is the partial rate of the basic allowance for quarters for the member's pay grade as such partial rate was in effect on December 31, 1997, under section 1009(c)(2) of this title (as such section was in effect on such date).
+(2) The rate of the partial basic allowance for housing is the partial rate of the basic allowance for quarters for the member's pay grade assuch partial rate was in effect on December 31, 1997, under section 1009(c)(2) of this title (as such section was in effect on such date).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 88–132, §10, Oct. 2, 1963, 77 Stat. 216; Pub. L. 89–718, §§49(a)(1), 54, Nov. 2, 1966, 80 Stat. 1121, 1122; Pub. L. 90–207, §1(3), Dec. 16, 1967, 81 Stat. 651; Pub. L. 92–129, title II, §204, Sept. 28, 1971, 85 Stat. 358; Pub. L. 93–64, title I, §105, July 9, 1973, 87 Stat. 148; Pub. L. 93–419, §3(6), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–343, §4(a)(1), (2), Sept. 8, 1980, 94 Stat. 1125; Pub. L. 96–513, title V, §516(10), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §§6(a)–(c), 7, Dec. 23, 1980, 94 Stat. 3367, 3368; Pub. L. 97–22, §11(b)(2), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title IX, §907(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §§602(c), 604(a), Oct. 19, 1984, 98 Stat. 2534, 2537; Pub. L. 99–145, title VI, §§604(a), 605(a), title VIII, §809(b), title XIII, §1303(b)(6), Nov. 8, 1985, 99 Stat. 638, 681, 740; Pub. L. 99–227, §1, Dec. 28, 1985, 99 Stat. 1745; Pub. L. 100–26, §8(d)(5), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§602(a), 604(a), 632(a), Dec. 5, 1991, 105 Stat. 1373, 1374, 1380; Pub. L. 103–337, div. A, title VI, §604(a), (b), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §§603(a), 604(a), Feb. 10, 1996, 110 Stat. 357, 358; Pub. L. 104–201, div. A, title VI, §§604(a)–(c), 605, Sept. 23, 1996, 110 Stat. 2540, 2541; Pub. L. 105–85, div. A, title VI, §603(a), Nov. 18, 1997, 111 Stat. 1775; Pub. L. 105–261, div. A, title VI, §603(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§605(a)–(d), 607, 608, title X, §1087(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147 to 1654A–149, 1654A–292.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 88–132, §10, Oct. 2, 1963, 77 Stat. 216; Pub. L. 89–718, §§49(a)(1), 54, Nov. 2, 1966, 80 Stat. 1121, 1122; Pub. L. 90–207, §1(3), Dec. 16, 1967, 81 Stat. 651; Pub. L. 92–129, title II, §204, Sept. 28, 1971, 85 Stat. 358; Pub. L. 93–64, title I, §105, July 9, 1973, 87 Stat. 148; Pub. L. 93–419, §3(6), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–343, §4(a)(1), (2), Sept. 8, 1980, 94 Stat. 1125; Pub. L. 96–513, title V, §516(10), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §§6(a)–(c), 7, Dec. 23, 1980, 94 Stat. 3367, 3368; Pub. L. 97–22, §11(b)(2), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title IX, §907(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §§602(c), 604(a), Oct. 19, 1984, 98 Stat. 2534, 2537; Pub. L. 99–145, title VI, §§604(a), 605(a), title VIII, §809(b), title XIII, §1303(b)(6), Nov. 8, 1985, 99 Stat. 638, 681, 740; Pub. L. 99–227, §1, Dec. 28, 1985, 99 Stat. 1745; Pub. L. 100–26, §8(d)(5), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§602(a), 604(a), 632(a), Dec. 5, 1991, 105 Stat. 1373, 1374, 1380; Pub. L. 103–337, div. A, title VI, §604(a), (b), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §§603(a), 604(a), Feb. 10, 1996, 110 Stat. 357, 358; Pub. L. 104–201, div. A, title VI, §§604(a)–(c), 605, Sept. 23, 1996, 110 Stat. 2540, 2541; Pub. L. 105–85, div. A, title VI, §603(a), Nov. 18, 1997, 111 Stat. 1775; Pub. L. 105–261, div. A, title VI, §603(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §§605(a)–(d), 607, 608, title X, §1087(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–147 to 1654A–149, 1654A–292; Pub. L. 107–107, div. A, title VI, §605(a), Dec. 28, 2001, 115 Stat. 1134.)
+
+#### Amendment of Subsection (i)
+
+<i>Pub. L. 107–107, div. A, title VI, §605, Dec. 28, 2001, 115 Stat. 1134, provided that, effective Jan. 1, 2003, and applicable to members of the uniformed services in a travel or leave status between permanent duty stations on or after Jan. 1, 2003, subsection (i) of this section is amended by striking “who is in a pay grade E–4 (4 or more years of service) or above”.</i>
 
 Historical and Revision Notes
 
@@ -254,7 +258,7 @@ Subsec. (b)(6). Pub. L. 106–398, §1 \[\[div. A\], title VI, §605(c)(1)\], st
 
 Subsec. (b)(7). Pub. L. 106–398, §1 \[\[div. A\], title VI, §605(c)(2)\], struck out “without dependents” after “In the case of a member”.
 
-Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title VI, §605(d)\], added par. (3) and struck out former par. (3) which read as follows: “In the case of a member with dependents who is assigned to duty at a location or under circumstances that, as determined by the Secretary concerned, require the member's dependents to reside at a different location, the member shall receive a basic allowance for housing, as provided in subsection (a) or (b), as if the member were assigned to duty in the area in which the dependents reside, regardless of whether the member resides in quarters of the United States or is also entitled to a family separation basic allowance for housing by reason of paragraph (1).”
+Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title VI, §605(d)\], added par. (3) and struck out former par. (3) which read as follows: “In the case of a member with dependents who is assigned to duty at a location or under circumstances that, as determined by the Secretary concerned, require the member's dependents toreside at a different location, the member shall receive a basic allowance for housing, as provided in subsection (a) or (b), as if the member were assigned to duty in the area in which the dependents reside, regardless of whether the member resides in quarters of the United States or is also entitled to a family separation basic allowance for housing by reason of paragraph (1).”
 
 Subsec. (f)(2)(B). Pub. L. 106–398, §1 \[\[div. A\], title VI, §608(a)\], substituted “E–4 or E–5” for “E–5” in first sentence and “grades E–4 and E–5” for “grade E–5” in second sentence.
 
@@ -330,7 +334,7 @@ Pub. L. 96–513, §516(10)(B), substituted “terms” for “words”.
 
 Subsec. (k). Pub. L. 96–579, §7, added subsec. (k).
 
-1974—Subsec. (a). Pub. L. 93–419 substituted reference to section 1009 of this title for provisions setting out intables the rates of basic allowance for quarters for members of uniformed services.
+1974—Subsec. (a). Pub. L. 93–419 substituted reference to section 1009 of this title for provisions setting out in tables the rates of basic allowance for quarters for members of uniformed services.
 
 1973—Subsec. (a). Pub. L. 93–64, §105(1), (2), substituted in table provisions reading:
 
@@ -422,6 +426,10 @@ Subsecs. (g) to (j). Pub. L. 93–64, §105(4), (5), added subsecs. (g) to (i) a
 Subsec. (e). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 1963—Subsec. (b). Pub. L. 88–132 authorized election by certain officers without dependents not to occupy government quarters.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title VI, §605(b), Dec. 28, 2001, 115 Stat. 1134, provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 2003, and apply to members of the uniformed services in a travel or leave status between permanent duty stations on or after that date.”
 
 #### Effective Date of 2000 Amendment
 
@@ -537,7 +545,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred toSecretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 
 #### Minimum Rates of Basic Allowance; Annual Limitation
 
@@ -549,7 +557,7 @@ Minimum Rates of Basic Allowance for Housing for Members of the Uniformed Servic
 
 “(b)
 
-Annual Limitation on Allowance.—In light of the rates for the basic allowance for housing authorized by subsection (a), the Secretary of Defense may exceed the limitation on the total amount paid during fiscal year 2000 and 2001 for the basic allowance for housing in the United States otherwise applicable under section 403(b)(3) of title 37, United States Code.”
+Annual Limitation on Allowance.—In light of the rates for the basic allowance for housing authorizedby subsection (a), the Secretary of Defense may exceed the limitation on the total amount paid during fiscal year 2000 and 2001 for the basic allowance for housing in the United States otherwise applicable under section 403(b)(3) of title 37, United States Code.”
 
 #### Transition to Basic Allowance for Housing
 
@@ -585,7 +593,7 @@ Section 4(c) of Pub. L. 96–343 provided that during fiscal year 1981, a member
 
 #### Pay Continuation
 
-Amendment of this section by Pub. L. 92–129 not to reduce the pay to which any member of the uniformed services was entitled on June 30, 1971, see section 210 ofPub. L. 92–129, set out as a note under section 203 of this title.
+Amendment of this section by Pub. L. 92–129 not to reduce the pay to which any member of the uniformed services was entitled on June 30, 1971, see section 210 of Pub. L. 92–129, set out as a note under section 203 of this title.
 
 #### 1962
 
@@ -595,7 +603,7 @@ Act Oct. 12, 1949, ch. 681, title III, §302(f), 63 Stat. 812, as amended by Pub
 
 #### Enlisted Members Without Dependents
 
-Act Oct. 12, 1949, ch. 681, title III, 302(g), 63 Stat. 812, which provided that enlisted members without dependents shall be entitled to a basic allowance for quarters at the rate of $51.30 per month, was repealed by Pub. L. 87–531, §2, July 10, 1962, 76 Stat. 152. Laws effective after Jan. 9, 1962, that are inconsistent with Pub. L. 87–649, to be considered as superseding Pub. L. 87–649 to the extent of the inconsistency, see section 12(a) of Pub. L. 87–649, set out as a note preceding section 101 of this title.
+Act Oct. 12, 1949, ch. 681, title III, 302(g), 63 Stat. 812, which provided that enlisted members without dependents shall be entitled to a basic allowance for quartersat the rate of $51.30 per month, was repealed by Pub. L. 87–531, §2, July 10, 1962, 76 Stat. 152. Laws effective after Jan. 9, 1962, that are inconsistent with Pub. L. 87–649, to be considered as superseding Pub. L. 87–649 to the extent of the inconsistency, see section 12(a) of Pub. L. 87–649, set out as a note preceding section 101 of this title.
 
 #### Authority of Secretaries With Respect to Payment of Quarters Allowances
 
@@ -607,5 +615,5 @@ Ex. Ord. No. 10204, Jan. 16, 1951, 16 F.R. 417, as amended by Ex. Ord. No. 11120
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402a, 404, 406, 420, 1003, 1009 of this title; title 10 sections 708, 2828 2830, 2882, 7573; title 14 section 686; title 32 section 107; title 50 App. section 454.
+This section is referred to in sections 402a, 404, 406, 420, 1003, 1009 of this title; title 10 sections 708, 2828 2830, 2882, 2883a, 7573; title 14 section 686; title 32 section 107; title 50 App. section 454.
 

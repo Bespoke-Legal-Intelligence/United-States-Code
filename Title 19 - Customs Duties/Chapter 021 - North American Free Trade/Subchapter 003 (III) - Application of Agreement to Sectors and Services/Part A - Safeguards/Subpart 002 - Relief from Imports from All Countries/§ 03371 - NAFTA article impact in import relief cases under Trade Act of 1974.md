@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], the International Trade Commission makes an affirmative determination (or a determination which the President may treat as an affirmative determination under such chapter by reason of section 1330(d) of this title), the International Trade Commission shall also find (and report to the President at the time such injury determination is submitted to the President) whether—
+If, in any investigation initiated under chapter 1 of title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], the International Trade Commission makes an affirmative determination (or a determination which the President may treat as an affirmative determination under such chapter by reason of section 1330(d) of this title), the International Trade Commission shall also find\(and report to the President at the time such injury determination is submitted to the President) whether—
 
 &emsp;(1) imports of the article from a NAFTA country, considered individually, account for a substantial share of total imports; and
 
@@ -20,7 +20,7 @@ If, in any investigation initiated under chapter 1 of title II of the Trade Act 
 
 #### (c) “Contribute importantly” defined
 
-For purposes of this section and section 3372(a) of this title, the term “contribute importantly”refers to an important cause, but not necessarily the most important cause.
+For purposes of this section and section 3372(a) of this title, the term “contribute importantly” refers to an important cause, but not necessarily the most important cause.
 
 (Pub. L. 103–182, title III, §311, Dec. 8, 1993, 107 Stat. 2106.)
 

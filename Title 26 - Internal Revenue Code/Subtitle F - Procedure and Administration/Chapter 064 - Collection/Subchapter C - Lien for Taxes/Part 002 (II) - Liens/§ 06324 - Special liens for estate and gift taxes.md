@@ -14,7 +14,7 @@ Except as otherwise provided in subsection (c)—
 
 #### (3) Continuance after discharge of fiduciary
 
-&emsp;The provisions of section 2204 (relating to discharge of fiduciary from personal liability)shall not operate as a release of any part of the gross estate from the lien for any deficiency that may thereafter be determined to be due, unless such part of the gross estate (or any interest therein) has been transferred to a purchaser or a holder of a security interest, in which case such part (or such interest) shall not be subject to a lien or to any claim or demand for any such deficiency, but the lien shall attach to the consideration received from such purchaser or holder of a security interest, by the heirs, legatees, devisees, or distributees.
+&emsp;The provisions of section 2204 (relating to discharge of fiduciary from personal liability) shall not operate as a release of any part of the gross estate from the lien for any deficiency that may thereafter be determined to be due, unless such part of the gross estate (or any interest therein) has been transferred to a purchaser or a holder of a security interest, in which case such part (or such interest) shall not be subject to a lien or to any claim or demand for any such deficiency, but the lien shall attach to the consideration received from such purchaser or holder of a security interest, by the heirs, legatees, devisees, or distributees.
 
 #### (b) Lien for gift tax
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 91–614, §102(d)(7), substituted “period for which the 
 
 <b>1966</b>—Subsec. (a)(1). Pub. L. 89–719 inserted “, or becomes unenforceable by reason of lapse of time,” after “sooner paid in full” and substituted “10 years from the date of death” for “10 years upon the gross estate of the decedent”.
 
-Subsec. (a)(2). Pub. L. 89–719 substituted “person in possession, or beneficiary, to a purchaser or holder of a security interest” for “person in possession of property by reason of the exercise, nonexercise, or release of a power of appointment, or beneficiary, to a bona fide purchaser, mortgagee, or pledgee, for an adequate and full consideration in money and money's worth” and “except any part transferred to a purchaser or a holder of a security interest” for “except any part transferred to a bona fide purchaser, mortgagee, or pledgee for an adequate and full consideration in money or money's worth”.
+Subsec. (a)(2). Pub. L. 89–719 substituted “person in possession, or beneficiary, to a purchaser or holder of a security interest” for “person in possession of propertyby reason of the exercise, nonexercise, or release of a power of appointment, or beneficiary, to a bona fide purchaser, mortgagee, or pledgee, for an adequate and full consideration in money and money's worth” and “except any part transferred to a purchaser or a holder of a security interest” for “except any part transferred to a bona fide purchaser, mortgagee, or pledgee for an adequate and full consideration in money or money's worth”.
 
 Subsec. (a)(3). Pub. L. 89–719 substituted “purchaser or a holder of a security interest” for “bona fide purchaser, mortgagee, or pledgee for an adequate and full consideration in money or money's worth” and “purchaser or holder of a security interest” for “purchaser, mortgagee, or pledgee”.
 

@@ -6,7 +6,7 @@ The Congress finds that the participation of rural and urban poor people in thei
 
 #### (b) Payment of transportation charges on shipments by American National Red Cross and United States voluntary agencies
 
-In order to further the efficient use of United States voluntary contributions for development, relief, and rehabilitation of friendly peoples, the President is authorized to use funds made available for the purposes of this part and part X of this subchapter to pay transportation charges on shipments by the American National Red Cross and by United States voluntary agencies registered with the Agency for International Development.
+In order to further the efficient use of United States voluntary contributions for development, relief, and rehabilitation of friendly peoples, the President is authorized to use funds made available for the purposes of this part and part X of this subchapter to pay transportation charges on shipments by the American National Red Cross and by United States voluntary agenciesregistered with the Agency for International Development.
 
 #### (c) Reimbursement for transportation charges
 
@@ -86,9 +86,11 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Private and Volunteer Organizations
 
-Pub. L. 106–429, §101(a) \[title II\], Nov. 6, 2000, 114 Stat. 1900, 1900A–8, provided in part that: “None of the funds appropriated or otherwise made available by this Act for development assistance may be made available to any United States private and voluntary organization, except any cooperative development organization, which obtains less than 20 percent of its total annual funding for international activities from sources other than the United States Government: <i>Provided</i>, That the Administrator of the Agency for International Development, after informing the Committees on Appropriations, may, on a case-by-case basis, waive the restriction contained in this paragraph, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency.”
+Pub. L. 107–115, title V, §502(a), Jan. 10, 2002, 115 Stat. 2139, provided that: “None of the funds appropriated or otherwise made available by this Act for development assistance may be made available to any United States private and voluntary organization, except any cooperative development organization, which obtains less than 20 percent of its total annual funding for international activities from sources other than the United States Government: <i>Provided</i>, That the Administrator of the United States Agency for International Development, after informing the Committees on Appropriations, may, on a case-by-case basis, waive the restriction contained in this subsection, after taking into account the effectiveness of the overseas development activities of the organization, its level of volunteer support, its financial viability and stability, and the degree of its dependence for its financial support on the agency.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–429, §101(a) \[title II\], Nov. 6, 2000, 114 Stat. 1900, 1900A–8.
 
 Pub. L. 106–113, div. B, §1000(a)(2) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–68.
 

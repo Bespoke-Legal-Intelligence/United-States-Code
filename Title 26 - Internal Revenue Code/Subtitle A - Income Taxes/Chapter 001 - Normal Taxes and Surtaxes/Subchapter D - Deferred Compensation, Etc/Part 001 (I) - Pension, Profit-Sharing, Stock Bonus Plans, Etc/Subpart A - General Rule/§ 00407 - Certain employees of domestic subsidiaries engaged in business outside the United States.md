@@ -66,7 +66,7 @@ An individual who is treated as an employee of a domestic parent corporation und
 
 &emsp;(2) Section 2039 (relating to annuities).
 
-(Added Pub. L. 88–272, title II, §220(b), Feb. 26, 1964, 78 Stat. 60; amended Pub. L. 91–172, title V, §515(c)(3), Dec. 30, 1969, 83 Stat. 646; Pub. L. 93–406, title II, §§1016(a)(5), 2005(c)(13), Sept. 2,1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(d), Apr. 20, 1983, 97 Stat. 119; Pub. L. 98–369, div. A, title IV, §491(d)(16)–(18), July 18, 1984, 98 Stat. 850; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(B), (C), title XVIII, §1852(e)(2)(D), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), Dec. 19, 1989, 103 Stat. 2409, 2427; Pub. L. 102–318, title V, §521(b)(15), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1401(b)(8), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
+(Added Pub. L. 88–272, title II, §220(b), Feb. 26, 1964, 78 Stat. 60; amended Pub. L. 91–172, title V, §515(c)(3), Dec. 30, 1969, 83 Stat. 646; Pub. L. 93–406, title II, §§1016(a)(5), 2005(c)(13), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(d), Apr. 20, 1983, 97 Stat. 119; Pub. L. 98–369, div. A, title IV, §491(d)(16)–(18), July 18, 1984, 98 Stat. 850; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(B), (C), title XVIII, §1852(e)(2)(D), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), Dec. 19, 1989, 103 Stat. 2409, 2427; Pub. L. 102–318, title V, §521(b)(15), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1401(b)(8), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
 
 #### Amendments
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 98–21 applicable to plans established after Apr. 20, 1983
 
 #### Effective Date of 1974 Amendment
 
-Amendment by section 1016(a)(5) of Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicablefor plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by section 1016(a)(5) of Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, but, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 
 Amendment by section 2005(c)(13) of Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
 

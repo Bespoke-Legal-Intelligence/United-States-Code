@@ -22,7 +22,7 @@ The prohibitions contained in sections 3202 and 3203 of this title shall not app
 
 > &emsp;during the 5-year period beginning on the date of the acquisition of the depository institution or depository holding company described in subparagraph (A).
 
-&emsp;(8)(A) A diversified savings and loan holding company (as defined in section 1730a(a)(1)(F) of this title) with respect to the service of a director of such company who is also a director of any nonaffiliated depository institution or depository holding company (including a savings and loan holding company) if—
+&emsp;(8)(A) A diversified savings and loan holding company (as defined in section 1730a(a)(1)(F) <sup>1</sup> of this title) with respect to the service of a director of such company who is also a director of any nonaffiliated depository institution or depository holding company (including a savings and loan holding company) if—
 
 &emsp;&emsp;(i) notice of the proposed dual service is given by such diversified savings and loan holding company to—
 
@@ -51,6 +51,8 @@ The prohibitions contained in sections 3202 and 3203 of this title shall not app
 #### References in Text
 
 Section 25 of the Federal Reserve Act, referred to in par. (2), is classified to subchapter I (§601 et seq.) of chapter 6 of this title. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+
+Section 1730a of this title, referred to in par. (8)(A), was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
 This chapter, referred to in par. (9), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 95–630, known as the Depository Management Interlocks Act, to reflect the probable intent of Congress.
 

@@ -46,7 +46,7 @@ Pub. L. 100–689, title IV, §402, Nov. 18, 1988, 100 Stat. 4178, as amended by
 
 “(a)
 
-Purpose.—It is the purpose of this section to ensure that veterans who are dislocated workers eligible for assistance under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—
+Purpose.—It is the purpose of this section to ensure that veterans who are dislocated workers eligiblefor assistance under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—
 
 &emsp;“(1) to apply for services and benefits for which they are eligible as veterans, dislocated workers, or unemployed persons;
 
@@ -278,7 +278,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 #### “entry into program of job training
 
-“Sec. 9. Notwithstanding any other provision of this Act, the Administrator may withhold or deny approval of a veteran's entry into an approved program of job training if the Administrator determines that funds are not available to make payments under this Act on behalf of the veteran to the employer offering that program. Before the entry of a veteran into an approved program of job training of an employer for purposes of assistance under this Act, the employer shall notify the Administrator of the employer's intention to employ that veteran. The veteran may begin such program of job training with the employer two weeks after the notice is transmitted to the Administrator unless within that time the employer has received notice from the Administrator that approval of the veteran's entry into that program of job training must be withheld or denied in accordance with this section.
+“Sec. 9. Notwithstanding any other provision of this Act, the Administrator may withhold or deny approval of a veteran's entry into an approved program of job training if the Administrator determines that funds are not available to make payments under this Act on behalf of the veteran to the employer offering that program. Before the entry of a veteran into an approved program of job training of an employer for purposes of assistance under this Act, the employer shall notify the Administrator of the employer's intention to employ that veteran. The veteran may begin such program ofjob training with the employer two weeks after the notice is transmitted to the Administrator unless within that time the employer has received notice from the Administrator that approval of the veteran's entry into that program of job training must be withheld or denied in accordance with this section.
 
 #### “provision of training through educational institutions
 
@@ -326,11 +326,11 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “(b)(1) The Secretary shall provide for a program under which—
 
-&emsp;“(A) except as provided in paragraph (2), a disabled veteran's outreach program specialist appointed under section 4103A(a) of title 38, United States Code,is assigned as a case manager for each veteran participating in a program of job training under this Act;
+&emsp;“(A) except as provided in paragraph (2), a disabled veteran's outreach program specialist appointed under section 4103A(a) of title 38, United States Code, is assigned as a case manager for each veteran participating in a program of job training under this Act;
 
 &emsp;“(B) the veteran has an in-person interview with the case manager not later than 60 days after entering into a program of training under this Act; and
 
-&emsp;“(C) periodic (not less frequent than monthly) contact is maintained with each such veteran for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the veteran to appropriate counseling, if necessary, (iii) facilitating the veteran's successful completion of such program, and (iv) following up with the employer and the veteran in order to determine the veteran's progress in the program and the outcome regarding the veteran's participation in and successful completion of the program.
+&emsp;“(C) periodic (not less frequent than monthly) contact is maintained with each such veteran for the purpose of (i) avoiding unnecessary termination of employment, (ii) referring the veteran to appropriatecounseling, if necessary, (iii) facilitating the veteran's successful completion of such program, and (iv) following up with the employer and the veteran in order to determine the veteran's progress in the program and the outcome regarding the veteran's participation in and successful completion of the program.
 
 “(2) No case manager shall be assigned pursuant to paragraph (1)(A)—
 
@@ -382,7 +382,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 “Sec. 16. (a) There is authorized to be appropriated to the Veterans’ Administration (1) $150,000,000 for each of fiscal years 1984 and 1985, (2) a total of $65,000,000 for fiscal years 1986, and 1987, and (3) $60,000,000 for each of the fiscal years 1988 and 1989 for the purpose of making payments to employers under this Act and for the purpose of section 18 of this Act. Amounts appropriated pursuant to this section shall remain available until September 30, 1991.
 
-“(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscal year which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
+“(b) Notwithstanding any other provision of law, any funds appropriated under subsection (a) for any fiscalyear which are obligated for the purpose of making payments under section 8 on behalf of a veteran (including funds so obligated which previously had been obligated for such purpose on behalf of another veteran and were thereafter deobligated) and are later deobligated shall immediately upon deobligation become available to the Administrator for obligation for such purpose. The further obligation of such funds by the Administrator for such purpose shall not be delayed, directly or indirectly, in any manner by any officer or employee in the executive branch.
 
 #### “time periods for application and initiation of training
 

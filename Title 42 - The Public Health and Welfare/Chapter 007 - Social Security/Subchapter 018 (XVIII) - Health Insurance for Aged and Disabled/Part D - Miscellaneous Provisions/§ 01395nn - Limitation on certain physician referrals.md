@@ -60,7 +60,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;(C) receiving payments on a prepaid basis, under a demonstration project under section 1395b–1(a) of this title or under section 222(a) of the Social Security Amendments of 1972, to an individual enrolled with the organization,
 
-&emsp;&emsp;(D) that is a qualified health maintenance organization (within the meaning of section 300e–9(d) <sup>1</sup> of this title) to an individual enrolled with the organization, or
+&emsp;&emsp;(D) that is a qualified health maintenance organization (within the meaning of section300e–9(d) <sup>1</sup> of this title) to an individual enrolled with the organization, or
 
 &emsp;&emsp;(E) that is a Medicare+Choice organization under part C of this subchapter that is offering a coordinated care plan described in section 1395w–21(a)(2)(A) of this title to an individual enrolled with the organization.
 
@@ -80,7 +80,7 @@ Ownership of the following shall not be considered to be an ownership or investm
 
 &emsp;&emsp;(B) in a corporation that had, at the end of the corporation's most recent fiscal year, or on average during the previous 3 fiscal years, stockholder equity exceeding $75,000,000.
 
-&emsp;(2) Ownership of shares in a regulated investment company as defined in section 851(a) ofthe Internal Revenue Code of 1986, if such company had, at the end of the company's most recent fiscal year, or on average during the previous 3 fiscal years, total assets exceeding $75,000,000.
+&emsp;(2) Ownership of shares in a regulated investment company as defined in section 851(a) of the Internal Revenue Code of 1986, if such company had, at the end of the company's most recent fiscal year, or on average during the previous 3 fiscal years, total assets exceeding $75,000,000.
 
 #### (d) Additional exceptions related only to ownership or investment prohibition
 
@@ -206,7 +206,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;(B) the amount of the remuneration under the arrangement is not determined in a manner that takes into account (directly or indirectly) the volume or value of any referrals by the referring physician, and
 
-&emsp;&emsp;(C) the arrangement meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
+&emsp;&emsp;(C) the arrangement meets such other requirements as the Secretary may impose byregulation as needed to protect against program or patient abuse.
 
 #### (6) Isolated transactions
 
@@ -358,7 +358,7 @@ For purposes of this section:
 
 #### (ii) Faculty practice plans
 
-&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution ofhigher education, or medical school with an approved medical residency training program in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
+&emsp;&emsp;&emsp;In the case of a faculty practice plan associated with a hospital, institution of higher education, or medical school with an approved medical residency training program in which physician members may provide a variety of different specialty services and provide professional services both within and outside the group, as well as perform other tasks such as research, subparagraph (A) shall be applied only with respect to the services provided within the faculty practice plan.
 
 #### (5) Referral; referring physician
 
@@ -416,7 +416,7 @@ Part B of this subchapter, referred to in subsec. (h)(5)(A), is classified to se
 
 #### Prior Provisions
 
-A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
+A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub.L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
 
 #### Amendments
 

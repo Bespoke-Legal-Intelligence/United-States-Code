@@ -16,7 +16,7 @@ A vessel not under command; a vessel restricted in her ability to maneuver, whet
 
 #### (d) Vessels towed
 
-A vessel towed or if more than one vessel is towed the last vessel of the tow, if manned, shall at intervals of not more than 2 minutes sound four blasts in succession; namely, one prolongedfollowed by three short blasts. When practicable, this signal shall be made immediately after the signal made by the towing vessel.
+A vessel towed or if more than one vessel is towed the last vessel of the tow, if manned, shall at intervals of not more than 2 minutes sound four blasts in succession; namely, one prolonged followed by three short blasts. When practicable, this signal shall be made immediately after the signal made by the towing vessel.
 
 #### (e) Pushing and pushed vessels connected in composite unit
 
@@ -24,7 +24,7 @@ When a pushing vessel and a vessel being pushed ahead are rigidly connected in a
 
 #### (f) Vessels at anchor
 
-A vessel at anchor shall at intervals of not more than 1 minute ring the bell rapidly for about 5 seconds. In a vessel of 100 meters or more in length the bell shall be sounded in the forepart of the vessel and immediately after the ringing of the bell the gong shall be sounded rapidly for about 5 seconds in the after part of the vessel. A vessel at anchor may in addition sound three blasts in succession; namely, one short, one prolonged and one short blast, to give warning of her position and of the possibility of collision to an approaching vessel.
+A vessel at anchor shall at intervals of not more than 1 minute ring the bell rapidly for about 5 seconds. In a vessel of 100 meters or more in length the bell shall be sounded in the forepart of the vessel and immediately after theringing of the bell the gong shall be sounded rapidly for about 5 seconds in the after part of the vessel. A vessel at anchor may in addition sound three blasts in succession; namely, one short, one prolonged and one short blast, to give warning of her position and of the possibility of collision to an approaching vessel.
 
 #### (g) Vessels aground
 

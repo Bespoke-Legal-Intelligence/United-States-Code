@@ -18,7 +18,7 @@ The Secretary shall establish a date not later than October 1, 1993, as the clos
 
 Not later than January 1, 1994, the Secretary shall publish in the Federal Register a list of the institutions of higher education selected to participate in the first year of the direct loan program under this part.
 
-(Pub. L. 89–329, title IV, §457, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 352.)
+(Pub. L. 89–329, title IV, §457, as added Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572;amended Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 352.)
 
 #### References in Text
 

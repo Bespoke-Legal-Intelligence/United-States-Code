@@ -44,7 +44,7 @@ If a bond issued at any time with interest coupons—
 
 &emsp;In the case of any tax-exempt obligation (as defined in section 1275(a)(3)) from which 1 or more coupons have been stripped—
 
-&emsp;&emsp;(A) the amount of the original issue discount determined under subsection (a) withrespect to any stripped bond or stripped coupon—
+&emsp;&emsp;(A) the amount of the original issue discount determined under subsection (a) with respect to any stripped bond or stripped coupon—
 
 &emsp;&emsp;&emsp;(i) shall be treated as original issue discount on a tax-exempt obligation to the extent such discount does not exceed the tax-exempt portion of such discount, and
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, or other circumstances, the tax treatment under this section does not accurately reflect the income of the holder of a stripped coupon or stripped bond, or of the person disposing of such bond or coupon, as the case may be, for any period, such treatment shall be modified to require that the proper amount of income be included for such period.
 
-(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 551; amended Pub. L. 99–514, title XVIII, §§1803(a)(13)(B), 1879(s)(1), Oct. 22, 1986, 100 Stat. 2796, 2912; Pub. L. 100–647, title I, §1018(q)(4)(A), Nov. 10, 1988, 102 Stat. 3585.)
+(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 551; amended Pub. L. 99–514, title XVIII, §§1803(a)(13)(B), 1879(s)(1), Oct. 22,1986, 100 Stat. 2796, 2912; Pub. L. 100–647, title I, §1018(q)(4)(A), Nov. 10, 1988, 102 Stat. 3585.)
 
 #### Amendments
 

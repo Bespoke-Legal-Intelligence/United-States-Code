@@ -8,7 +8,7 @@ Subject to this section:
 
 #### (A) General penalty
 
-&emsp;&emsp;If an audit conducted under chapter 75 of title 31 finds that an amount paid to a State under section 603 of this title for a fiscal year has been used in violation of this part, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter by the amount so used.
+&emsp;&emsp;If an audit conducted under chapter 75 of title 31 finds that an amount paid to a State under section 603 of this title for a fiscalyear has been used in violation of this part, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter by the amount so used.
 
 #### (B) Enhanced penalty for intentional violations
 
@@ -60,7 +60,7 @@ Subject to this section:
 
 #### (6) Failure to timely repay a Federal Loan Fund for State Welfare Programs
 
-&emsp;If the Secretary determines that a State has failed to repay any amount borrowed from the Federal Loan Fund for State Welfare Programs established under section 606 of this title within the period of maturity applicable to the loan, plus any interest owed on the loan, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter (without regard to this section) by the outstanding loan amount, plus the interest owed on the outstanding amount. The Secretary shall not forgive any outstanding loan amount or interest owed on the outstanding amount.
+&emsp;If the Secretary determines that a State has failed to repay any amount borrowed from the Federal Loan Fund for State Welfare Programs established under section 606 of this title within the period of maturity applicable to the loan, plus any interest owed on the loan, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter (without regard to this section)by the outstanding loan amount, plus the interest owed on the outstanding amount. The Secretary shall not forgive any outstanding loan amount or interest owed on the outstanding amount.
 
 #### (7) Failure of any State to maintain certain level of historic effort
 
@@ -158,7 +158,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) the data submitted by the State pursuant to section 654(15)(B) of this title is incomplete or unreliable;
 
-> &emsp;&emsp;the amounts otherwise payable to the State under this part for quarters following the end of such succeeding fiscal year, prior to quarters following the end of the first quarter throughout which the State program hasachieved the paternity establishment percentages or other performance measures as described in subparagraph (A)(i)(I), or is in substantial compliance with 1 or more of the requirements of part D of this subchapter as described in subparagraph (A)(i)(III), as appropriate, shall be reduced by the percentage specified in subparagraph (B).
+> &emsp;&emsp;the amounts otherwise payable to the State under this part for quarters following the end of such succeeding fiscal year, prior to quarters following the end of the first quarter throughout which the State program has achieved the paternity establishment percentages or other performance measures as described in subparagraph (A)(i)(I), or is in substantial compliance with 1 or more of the requirements of part D of this subchapter as described in subparagraph (A)(i)(III), as appropriate, shall be reduced by the percentage specified in subparagraph (B).
 
 #### (B) Amount of reductions
 
@@ -184,7 +184,7 @@ Subject to this section:
 
 #### (10) Failure of State receiving amounts from Contingency Fund to maintain 100 percent of historic effort
 
-&emsp;If, at the end of any fiscal year during which amounts from the Contingency Fund for State Welfare Programs have been paid to a State, the Secretary finds that the qualified State expenditures (as defined in paragraph (7)(B)(i) (other than the expenditures described in subclause (I)(bb) of that paragraph)) under the State program funded under this part for the fiscal year are less than 100 percent of historic State expenditures (as defined in paragraph (7)(B)(iii) of this subsection), excluding any amount expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994) for fiscal year 1994, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by the total of the amounts so paid to the State that the State has not remitted under section 603(b)(6) of this title.
+&emsp;If, at the end of any fiscal year during which amounts from the Contingency Fund for State Welfare Programs have been paid to a State, the Secretary finds that the qualified State expenditures (as defined in paragraph (7)(B)(i)\(other than the expenditures described in subclause (I)(bb) of that paragraph)) under the State program funded under this part for the fiscal year are less than 100 percent of historic State expenditures (as defined in paragraph (7)(B)(iii) of this subsection), excluding any amount expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994) for fiscal year 1994, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by the total of the amounts so paid to the State that the State has not remitted under section 603(b)(6) of this title.
 
 #### (11) Failure to maintain assistance to adult single custodial parent who cannot obtain child care for child under age 6
 
@@ -246,7 +246,7 @@ Subject to this section:
 
 #### (D) Acceptance of plan
 
-&emsp;&emsp;A corrective compliance plan submitted by a State in accordance with subparagraph (B) is deemed to be accepted by the Secretary if the Secretary does not accept or reject the plan during 60-day period that begins on the date the plan is submitted.
+&emsp;&emsp;A corrective compliance plan submitted by a State in accordance with subparagraph (B)is deemed to be accepted by the Secretary if the Secretary does not accept or reject the plan during 60-day period that begins on the date the plan is submitted.
 
 #### (2) Effect of correcting or discontinuing violation
 
@@ -314,7 +314,7 @@ Pub. L. 105–33, §5506(c), redesignated subcl. (III) as (IV).
 
 Subsec. (a)(7)(B)(ii). Pub. L. 105–33, §5506(e), struck out “reduced (if appropriate) in accordance with subparagraph (C)(ii)” after “75 percent)”.
 
-Subsec. (a)(7)(B)(iv). Pub. L. 105–33, §5001(a)(2), amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: “The term ‘expenditures by the State’ does not include—
+Subsec. (a)(7)(B)(iv). Pub. L. 105–33, §5001(a)(2), amended heading and text of cl. (iv) generally. Prior toamendment, text read as follows: “The term ‘expenditures by the State’ does not include—
 
 &emsp;“(I) any expenditures from amounts made available by the Federal Government;
 

@@ -12,7 +12,7 @@ Within one month after October 7, 1988, the Secretary shall issue a call for inf
 
 #### (1) In general
 
-&emsp;The Secretary shall review the African elephant conservation program of each ivory producing country and, not later than one year after October 7, 1988, shall issue and publish in the Federal Register a determination ofwhether or not the country meets the following criteria:
+&emsp;The Secretary shall review the African elephant conservation program of each ivory producing country and, not later than one year after October 7, 1988, shall issue and publish in the Federal Register a determination of whether or not the country meets the following criteria:
 
 &emsp;&emsp;(A) The country is a party to CITES and adheres to the CITES Ivory Control System.
 

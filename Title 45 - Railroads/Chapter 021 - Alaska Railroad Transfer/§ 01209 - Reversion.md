@@ -14,7 +14,7 @@ If, after the date of transfer pursuant to section 1203 of this title, the State
 
 #### (c) Conveyances by United States subsequent to reversion
 
-Upon such reversion pursuant to subsection (b) of this section, the Secretary of the Interiorshall immediately convey by patent to abutting landowners all right, title and interest of the United States. Where land abutting the reverted right-of-way is owned by different persons or entities, the conveyance made pursuant to this subsection shall extend the property of each abutting owner to the centerline of the right-of-way.
+Upon such reversion pursuant to subsection (b) of this section, the Secretary of the Interior shall immediately convey by patent to abutting landowners all right, title and interest of the United States. Where land abutting the reverted right-of-way is owned by different persons or entities, the conveyance made pursuant to this subsection shall extend the property of each abutting owner to the centerline of the right-of-way.
 
 #### (d) Discontinuance by State of use of national park or forest lands; jurisdiction upon reversion
 

@@ -46,7 +46,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (B) Effect
 
-&emsp;&emsp;The entry of any consent decree under this subsection shall not be construed to be an acknowledgment by the parties that the release or threatened release concerned constitutes an imminent and substantial endangerment to the public health or welfare or the environment. Except as otherwise provided in the Federal Rules of Evidence, the participation by any party in the process under this section shall not be considered an admission of liability for any purpose, and the fact of such participation shall not be admissible in any judicial or administrative proceeding, including a subsequent proceeding under this section.
+&emsp;&emsp;The entry of any consent decree under this subsection shall not be construed to be an acknowledgment by the parties that the release or threatened release concerned constitutes an imminent and substantial endangerment to the public health or welfare orthe environment. Except as otherwise provided in the Federal Rules of Evidence, the participation by any party in the process under this section shall not be considered an admission of liability for any purpose, and the fact of such participation shall not be admissible in any judicial or administrative proceeding, including a subsequent proceeding under this section.
 
 #### (C) Structure
 
@@ -146,9 +146,9 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 &emsp;In the case of any person to whom the President is authorized under paragraph (1) of this subsection to provide a covenant not to sue, for the portion of remedial action—
 
-&emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (<i>o</i>), (p), (u), and (v) and 6925(c) of this title, where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
+&emsp;&emsp;(A) which involves the transport and secure disposition offsite of hazardous substances in a facility meeting the requirements of sections 6924(c), (d), (e), (f), (g), (m), (<i>o</i>), (p), (u), and (v) and 6925(c) of this title,where the President has rejected a proposed remedial action that is consistent with the National Contingency Plan that does not include such offsite disposition and has thereafter required offsite disposition; or
 
-&emsp;&emsp;(B) which involves the treatment of hazardous substances so as to destroy, eliminate, or permanently immobilize the hazardous constituents of such substances, such that, in the judgment of the President, the substances no longer present any current or currently foreseeable future significant risk to public health, welfare or the environment, no byproduct of the treatment or destruction process presents any significant hazard to public health, welfare or the environment, and all byproducts are themselves treated, destroyed, or contained in a manner which assures that such byproducts do not present any current or currently foreseeablefuture significant risk to public health, welfare or the environment,
+&emsp;&emsp;(B) which involves the treatment of hazardous substances so as to destroy, eliminate, or permanently immobilize the hazardous constituents of such substances, such that, in the judgment of the President, the substances no longer present any current or currently foreseeable future significant risk to public health, welfare or the environment, no byproduct of the treatment or destruction process presents any significant hazard to public health, welfare or the environment, and all byproducts are themselves treated, destroyed, or contained in a manner which assures that such byproducts do not present any current or currently foreseeable future significant risk to public health, welfare or the environment,
 
 > &emsp;the President shall provide such person with a covenant not to sue with respect to future liability to the United States under this chapter for a future release or threatened release of hazardous substances from such facility, and a person provided such covenant not to sue shall not be liable to the United States under section 9606 or 9607 of this title with respect to such release or threatened release at a future time.
 
@@ -202,7 +202,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 &emsp;&emsp;&emsp;(i) is the owner of the real property on or in which the facility is located;
 
-&emsp;&emsp;&emsp;(ii) did not conduct or permit the generation, transportation, storage, treatment, or disposal of any hazardous substance at the facility; and
+&emsp;&emsp;&emsp;(ii) did not conduct or permit the generation, transportation, storage, treatment,or disposal of any hazardous substance at the facility; and
 
 &emsp;&emsp;&emsp;(iii) did not contribute to the release or threat of release of a hazardous substance at the facility through any action or omission.
 
@@ -210,7 +210,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (2) Covenant not to sue
 
-&emsp;The President may provide a covenant not to sue with respect to the facility concernedto any party who has entered into a settlement under this subsection unless such a covenant would be inconsistent with the public interest as determined under subsection (f) of this section.
+&emsp;The President may provide a covenant not to sue with respect to the facility concerned to any party who has entered into a settlement under this subsection unless such a covenant would be inconsistent with the public interest as determined under subsection (f) of this section.
 
 #### (3) Expedited agreement
 
@@ -227,6 +227,54 @@ The President, in his discretion, may enter into an agreement with any person (i
 #### (6) Settlements with other potentially responsible parties
 
 &emsp;Nothing in this subsection shall be construed to affect the authority of the President to reach settlements with other potentially responsible parties under this chapter.
+
+#### (7) Reduction in settlement amount based on limited ability to pay
+
+#### (A) In general
+
+&emsp;&emsp;The condition for settlement under this paragraph is that the potentially responsible party is a person who demonstrates to the President an inability or a limited ability to pay response costs.
+
+#### (B) Considerations
+
+&emsp;&emsp;In determining whether or not a demonstration is made under subparagraph (A) by a person, the President shall take into consideration the ability of the person to pay response costs and still maintain its basic business operations, including consideration of the overall financial condition of the person and demonstrable constraints on the ability of the person to raise revenues.
+
+#### (C) Information
+
+&emsp;&emsp;A person requesting settlement under this paragraph shall promptly provide the President with all relevant information needed to determine the ability of the person to pay response costs.
+
+#### (D) Alternative payment methods
+
+&emsp;&emsp;If the President determines that a person is unable to pay its total settlement amount at the time of settlement, the President shall consider such alternative payment methods as may be necessary or appropriate.
+
+#### (8) Additional conditions for expedited settlements
+
+#### (A) Waiver of claims
+
+&emsp;&emsp;The President shall require, as a condition for settlement under this subsection, that a potentially responsible party waive all of the claims (including a claim for contribution under this chapter) that the party may have against other potentially responsible parties for response costs incurred with respect to the facility, unless the President determines that requiring a waiver would be unjust.
+
+#### (B) Failure to comply
+
+&emsp;&emsp;The President may decline to offer a settlement to a potentially responsible party under this subsection if the President determines that the potentially responsible party has failed to comply with any request for access or information or an administrative subpoena issued by the President under this chapter or has impeded or is impeding, through action or inaction, the performance of a response action with respect to the facility.
+
+#### (C) Responsibility to provide information and access
+
+&emsp;&emsp;A potentially responsible party that enters into a settlement under this subsection shall not be relieved of the responsibility to provide any information or access requested in accordance with subsection (e)(3)(B) of this section or section 9604(e) of this title.
+
+#### (9) Basis of determination
+
+&emsp;If the President determines that a potentially responsible party is not eligible for settlement under this subsection, the President shall provide the reasons for the determination in writing to the potentially responsible party that requested a settlement under this subsection.
+
+#### (10) Notification
+
+&emsp;As soon as practicable after receipt of sufficient information to make a determination, the President shall notify any person that the President determines is eligible under paragraph (1) of the person's eligibility for an expedited settlement.
+
+#### (11) No judicial review
+
+&emsp;A determination by the President under paragraph (7), (8), (9), or (10) shall not be subject to judicial review.
+
+#### (12) Notice of settlement
+
+&emsp;After a settlement under this subsection becomes final with respect to a facility, the President shall promptly notify potentially responsible parties at the facility that have not resolved their liability to the United States of the settlement.
 
 #### (h) Cost recovery settlement authority
 
@@ -264,7 +312,7 @@ The President, in his discretion, may enter into an agreement with any person (i
 
 #### (1) Notification of trustee
 
-&emsp;Where a release or threatened release of any hazardous substance that is the subject of negotiations under this section may have resulted in damages to natural resources under the trusteeship of the United States, the President shall notify the Federal natural resource trustee of the negotiations and shallencourage the participation of such trustee in the negotiations.
+&emsp;Where a release or threatened release of any hazardous substance that is the subject of negotiations under this section may have resulted in damages to natural resources under the trusteeship of the United States, the President shall notify the Federal natural resource trustee of the negotiations and shall encourage the participation of such trustee in the negotiations.
 
 #### (2) Covenant not to sue
 
@@ -276,17 +324,25 @@ The provisions of this section shall not apply to releases from a vessel.
 
 #### (<i>l</i>) Civil penalties
 
-A potentially responsible party which is a party to an administrative order or consent decree entered pursuant to an agreement under this section or section 9620 of this title (relating to Federal facilities) or which is a party to an agreement under section 9620 of this title and which fails or refuses to comply with any term or condition of the order, decree or agreement shall be subject to a civil penalty in accordance with section 9609 of this title.
+A potentially responsible party which is a party to an administrative order or consent decree entered pursuant to an agreement under this section or section 9620 of this title (relating to Federal facilities) or which is a party to an agreement under section 9620 of this title and which fails or refuses to comply with any termor condition of the order, decree or agreement shall be subject to a civil penalty in accordance with section 9609 of this title.
 
 #### (m) Applicability of general principles of law
 
 In the case of consent decrees and other settlements under this section (including covenants not to sue), no provision of this chapter shall be construed to preclude or otherwise affect the applicability of general principles of law regarding the setting aside or modification of consent decrees or other settlements.
 
-(Pub. L. 96–510, title I, §122, as added Pub. L. 99–499, title I, §122(a), Oct. 17, 1986, 100 Stat. 1678.)
+(Pub. L. 96–510, title I, §122, as added Pub. L. 99–499, title I, §122(a), Oct. 17, 1986, 100 Stat. 1678; amended Pub. L. 107–118, title I, §102(b), Jan. 11, 2002, 115 Stat. 2359.)
 
 #### References in Text
 
 The Federal Rules of Evidence, referred to in subsec. (d)(1)(B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+#### Amendments
+
+2002—Subsec. (g)(7) to (12). Pub. L. 107–118 added pars. (7) to (12).
+
+#### Effect on Concluded Actions
+
+Amendment by Pub. L. 107–118 not to apply to or in any way affect any settlement lodged in, or judgment issued by, a United States District Court, or any administrative settlement or order entered into or issued by the United States or any State, before Jan. 11, 2002, see section 103 of Pub. L. 107–118, set out as a note under section 9607 of this title.
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 

@@ -1,6 +1,6 @@
 ### §561. United States Marshals Service
 
-(a) There is hereby established a United States Marshals Service as a bureau within the Department of Justice under the authority and direction of the Attorney General. There shall be at the head of the United States Marshals Service (hereafter in this chapter referred to as the “Service”) a Director who shall be appointed by the President, by and with the advice and consent of the Senate.
+(a) There is hereby established a United States Marshals Service as a bureau within the Department of Justice under the authority and direction of the Attorney General. There shall be at the head of the United States Marshals Service\(hereafter in this chapter referred to as the “Service”) a Director who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (b) The Director of the United States Marshals Service (hereafter in this chapter referred to as the “Director”) shall, in addition to the powers and duties set forth in this chapter, exercise such other functions as may be delegated by the Attorney General.
 

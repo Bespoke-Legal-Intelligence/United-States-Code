@@ -24,7 +24,7 @@ The Plan shall—
 
 &emsp;&emsp;(D) nutrition and the development of economical feeds, including natural food sources,
 
-&emsp;&emsp;(E) life history, genetics, physiology, pathology, and disease control (including research regarding organisms that may not be harmful to fish and shellfish, but are injurious to humans),
+&emsp;&emsp;(E) life history, genetics, physiology, pathology, and disease control (including research regarding organisms that may not beharmful to fish and shellfish, but are injurious to humans),
 
 &emsp;&emsp;(F) processing and market development,
 

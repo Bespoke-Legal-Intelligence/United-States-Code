@@ -14,7 +14,7 @@ Payments of grants or contracts under this subchapter may be made (after necessa
 
 A State's allotment under section 3024 of this title for a fiscal year shall be reduced by the percentage (if any) by which its expenditures for such year from State sources under its State plan approved under section 3027 of this title are less than its average annual expenditures from such sources for the period of 3 fiscal years preceding such year.
 
-(Pub. L. 89–73, title III, §309, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1532; amended Pub. L. 98–459, title III, §309, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §139, Nov. 29, 1987, 101 Stat. 944; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title III, §309, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1532; amended Pub. L. 98–459, title III, §309, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §139,Nov. 29, 1987, 101 Stat. 944; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
 #### Prior Provisions
 

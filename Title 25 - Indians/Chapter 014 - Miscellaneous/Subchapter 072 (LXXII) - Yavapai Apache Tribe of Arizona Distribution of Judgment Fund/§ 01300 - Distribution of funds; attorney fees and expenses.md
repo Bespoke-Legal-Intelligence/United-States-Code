@@ -6,7 +6,7 @@ The funds appropriated by the Act of July 22, 1969 (83 Stat. 49, 62), to pay a j
 
 #### References in Text
 
-Act of July 22, 1969, referred to in text, is act July 22, 1969, Pub. L. 91–47, 83 Stat. 49, known as the Second Supplemental Appropriation Act, 1969. Chapter XIII of the act, set out at 83 Stat. 62, appropriated the funds referred to and was not classified to the Code.
+Act of July 22, 1969, referred to in text, is act July 22, 1969, Pub. L. 91–47, 83 Stat. 49, known as the Second Supplemental Appropriation Act, 1969. Chapter XIII ofthe act, set out at 83 Stat. 62, appropriated the funds referred to and was not classified to the Code.
 
 The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. See Codification note set out under former section 70 et seq. of this title.
 

@@ -18,7 +18,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;(A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and
 
-&emsp;&emsp;(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only tothe extent such stock ownership is identical with respect to each such corporation.
+&emsp;&emsp;(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.
 
 #### (3) Combined group
 
@@ -30,7 +30,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (4) Certain insurance companies
 
-&emsp;Two or more insurance companies subject to taxation under section 801 which are members of a controlled group of corporations described in paragraph (1), (2), or (3). Such insurance companies shall be treated as a controlled group of corporations separate from any other corporations which are members of the controlled group of corporations described in paragraph (1), (2), or (3).
+&emsp;Two or more insurance companies subject to taxation under section 801 which are members of a controlled group of corporations described in paragraph (1), (2), or (3). Such insurance companies shall be treated as a controlledgroup of corporations separate from any other corporations which are members of the controlled group of corporations described in paragraph (1), (2), or (3).
 
 #### (b) Component member
 
@@ -94,7 +94,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;&emsp;(ii) stock in the subsidiary corporation owned by an individual (within the meaning of subsection (d)(2)) who is a principal stockholder or officer of the parent corporation. For purposes of this clause, the term “principal stockholder” of a corporation means an individual who owns (within the meaning of subsection (d)(2)) 5 percent or more of the total combined voting power of all classes of stock entitled to vote or 5 percent or more of the total value of shares of all classes of stock in such corporation,
 
-&emsp;&emsp;&emsp;(iii) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an employee of the subsidiary corporation if such stock is subject to conditions which run in favor of such parent (or subsidiary) corporation and which substantially restrict or limit the employee'sright (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock, or
+&emsp;&emsp;&emsp;(iii) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an employee of the subsidiary corporation if such stock is subject to conditions which run in favor of such parent (or subsidiary) corporation and which substantially restrict or limit the employee's right (or if the employee constructively owns such stock, the direct owner's right) to dispose of such stock, or
 
 &emsp;&emsp;&emsp;(iv) stock in the subsidiary corporation owned (within the meaning of subsection (d)(2)) by an organization (other than the parent corporation) to which section 501 (relating to certain educational and charitable organizations which are exempt from tax) applies and which is controlled directly or indirectly by the parent corporation or subsidiary corporation, by an individual, estate, or trust that is a principal stockholder (within the meaning of clause (ii)) of the parent corporation, by an officer of the parent corporation, or by any combination thereof.
 
@@ -150,7 +150,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 #### (5) Spouse
 
-&emsp;An individual shall be considered as owning stock in a corporation owned, directly or indirectly, by or for his spouse (other than aspouse who is legally separated from the individual under a decree of divorce whether interlocutory or final, or a decree of separate maintenance), except in the case of a corporation with respect to which each of the following conditions is satisfied for its taxable year—
+&emsp;An individual shall be considered as owning stock in a corporation owned, directly or indirectly, by or for his spouse (other than a spouse who is legally separated from the individual under a decree of divorce whether interlocutory or final, or a decree of separate maintenance), except in the case of a corporation with respect to which each of the following conditions is satisfied for its taxable year—
 
 &emsp;&emsp;(A) The individual does not, at any time during such taxable year, own directly any stock in such corporation;
 
@@ -214,7 +214,7 @@ For purposes of this part, the term “controlled group of corporations” means
 
 &emsp;&emsp;&emsp;(ii) requires that a portion of the employee's share of the profits of such corporation (whether received as compensation or as a dividend) be applied to the purchase of such stock (or the purchase of notes, bonds, debentures or other similar evidence of indebtedness of such franchised corporation held by such parent corporation or common owner);
 
-&emsp;&emsp;(D) such employee (or employees) owns directly more than 20 percent of the totalvalue of shares of all classes of stock in such franchised corporation;
+&emsp;&emsp;(D) such employee (or employees) owns directly more than 20 percent of the total value of shares of all classes of stock in such franchised corporation;
 
 &emsp;&emsp;(E) more than 50 percent of the inventory of such franchised corporation is acquired from members of the controlled group, the common owner, or both; and
 

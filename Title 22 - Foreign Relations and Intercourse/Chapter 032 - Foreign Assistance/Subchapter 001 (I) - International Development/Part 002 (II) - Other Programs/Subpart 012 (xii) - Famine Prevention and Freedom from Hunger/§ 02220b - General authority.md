@@ -62,7 +62,7 @@ The Administrator shall establish and carry out special programs under this subp
 
 Subsec. (a)(3). Pub. L. 106–373, §3(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to provide program support for long-term collaborative university research, in the developing countries themselves to the maximum extent practicable, on food production, distribution, storage, marketing, and consumption;”.
 
-Subsec. (a)(4). Pub. L. 106–373, §3(a)(3), inserted “United States” before “universities” and “agricultural” before “research centers” and substituted “multilateral banks, the institutions of agriculturally developing nations, and United States and foreign nongovernmental organizations supporting extension and other productivity-enhancing programs” for “and the institutions of agriculturally developing nations”.
+Subsec. (a)(4). Pub. L. 106–373, §3(a)(3), inserted “United States” before “universities” and “agricultural” before “research centers” and substituted “multilateral banks, the institutions of agriculturally developing nations, and United States and foreign nongovernmental organizations supporting extension andother productivity-enhancing programs” for “and the institutions of agriculturally developing nations”.
 
 Subsec. (b)(1). Pub. L. 106–373, §3(b)(1)(A), substituted “United States universities with public and private partners of universities” for “universities” in introductory provisions.
 

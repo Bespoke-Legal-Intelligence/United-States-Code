@@ -38,7 +38,7 @@ The Alien Registration Act, 1940, referred to in subsec. (d), is act June 28, 19
 
 1988—Subsec. (a). Pub. L. 100–525 amended Pub. L. 99–653. See 1986 Amendment note below.
 
-1986—Subsec. (a). Pub. L. 99–653, as amended by Pub. L. 100–525, amended first sentence generally, strikingout “and fingerprinting” before “of aliens under section 1301”.
+1986—Subsec. (a). Pub. L. 99–653, as amended by Pub. L. 100–525, amended first sentence generally, striking out “and fingerprinting” before “of aliens under section 1301”.
 
 #### Effective Date of 1988 Amendment
 

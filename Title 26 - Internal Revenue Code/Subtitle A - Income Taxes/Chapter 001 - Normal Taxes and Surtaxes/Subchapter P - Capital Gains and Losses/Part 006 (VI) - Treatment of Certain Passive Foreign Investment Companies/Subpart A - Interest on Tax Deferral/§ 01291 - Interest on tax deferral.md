@@ -58,7 +58,7 @@
 
 #### (B) No excess for 1st year
 
-&emsp;&emsp;The total excess distributions with respect to any stock shall be zero for the taxable year in which the taxpayer's holding period in such stock begins.
+&emsp;&emsp;The total excess distributions with respect to any stock shall be zero for the taxableyear in which the taxpayer's holding period in such stock begins.
 
 #### (3) Adjustments
 
@@ -224,7 +224,11 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 &emsp;&emsp;The rules of this subsection also shall apply in the case of any gain which but for this section would be includible in gross income as a dividend under section 1248.
 
-(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2566; amended Pub. L. 100–647, title I, §1012(p)(1), (3), (6), (7), (9), (12)–(14), (28), (31), (33), title VI, §6127(b), Nov. 10, 1988, 102 Stat. 3515–3517, 3520, 3521, 3715; Pub. L. 105–34, title XI, §1122(b), Aug. 5, 1997, 111 Stat. 976; Pub. L. 105–206, title VI, §6011(c)(2), July 22, 1998, 112 Stat. 818.)
+(Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2566; amended Pub. L. 100–647, title I, §1012(p)(1), (3), (6), (7), (9), (12)–(14), (28), (31), (33), title VI, §6127(b), Nov. 10, 1988, 102 Stat. 3515–3517, 3520, 3521, 3715; Pub. L. 105–34, title XI, §1122(b), Aug. 5, 1997, 111 Stat. 976; Pub. L.105–206, title VI, §6011(c)(2), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(B), June 7, 2001, 115 Stat. 85.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 107–16, title V, §542(e)(5)(B), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, subsection (e) of this section is temporarily amended by striking “(e),” and by striking “; except that” and all that follows and inserting a period at the end. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -281,6 +285,12 @@ Subsec. (e)(2). Pub. L. 100–647, §1012(p)(9), struck out “not” before “
 Subsec. (f). Pub. L. 100–647, §1012(p)(6)(A), amended subsec. (f) generally. Prior to amendment, subsec. (f), “Nonrecognition provisions”, read as follows: “To the extent provided in regulations, gain shall be recognized on any disposition of stock in a passive foreign investment company.”
 
 Subsec. (g). Pub. L. 100–647, §1012(p)(7)(B), added subsec. (g).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 

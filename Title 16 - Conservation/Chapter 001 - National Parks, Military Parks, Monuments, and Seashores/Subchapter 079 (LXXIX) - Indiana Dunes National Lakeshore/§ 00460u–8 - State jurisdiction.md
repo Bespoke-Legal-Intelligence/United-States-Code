@@ -1,6 +1,6 @@
 ### §460u–8. State jurisdiction
 
-Nothing in this subchapter shall deprive the State of Indiana or any political subdivision thereof of its civil and criminal jurisdiction over persons found, acts performed, and offenses committed within the boundaries of the Indiana Dunes National Lakeshore or of its right to tax persons, corporations, franchises, or other non-Federal property on lands included therein.
+Nothing in this subchapter shall deprive the State of Indiana or any political subdivision thereof of its civil and criminal jurisdiction overpersons found, acts performed, and offenses committed within the boundaries of the Indiana Dunes National Lakeshore or of its right to tax persons, corporations, franchises, or other non-Federal property on lands included therein.
 
 (Pub. L. 89–761, §8, formerly §9, Nov. 5, 1966, 80 Stat. 1312; renumbered §8, Pub. L. 94–549, §1(9), Oct. 18, 1976, 90 Stat. 2533.)
 

@@ -6,7 +6,7 @@ Prohibited Activities.—
 
 &emsp;(1)
 
-Unlawful conduct.—Whoever, within the United States or subject to the jurisdiction of the United States, knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 10 years, or both.
+Unlawful conduct.—Whoever, within the United States or subject to the jurisdiction of the United States, knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life.
 
 &emsp;(2)
 
@@ -182,7 +182,7 @@ Definitions.—As used in this section—
 
 &emsp;(6) the term “terrorist organization” means an organization designated as a terrorist organization under section 219 of the Immigration and Nationality Act.
 
-(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250.)
+(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380.)
 
 #### References in Text
 
@@ -191,6 +191,10 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f)(1)(A)(i), are s
 Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (g)(1), is section 1(a) of Pub. L. 95–456, which is set out in the Appendix to this title.
 
 Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6), is classified to section 1189 of Title 8, Aliens and Nationality.
+
+#### Amendments
+
+2001—Subsec. (a)(1). Pub. L. 107–56 substituted “15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life” for “10 years, or both”.
 
 #### Findings and Purpose
 
@@ -220,5 +224,5 @@ Purpose.—The purpose of this subtitle \[subtitle A (§§301–303) of title II
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2332b of this title; title 8 section 1189.
+This section is referred to in sections 1956, 2332b, 2516 of this title; title 8 section 1189; title 22 section 7211.
 

@@ -144,7 +144,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 #### (B) Electronic fund transfer
 
-&emsp;&emsp;The term “electronic fund transfer” means any transfer of funds, other than a transaction originated by check, draft, or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument, or computer or magnetic tape so as to order, instruct, or authorize a financial institution or other financial intermediary to debit or credit an account.
+&emsp;&emsp;The term “electronic fund transfer” means any transfer of funds, other than a transaction originated by check, draft, or similar paper instrument, which is initiated throughan electronic terminal, telephonic instrument, or computer or magnetic tape so as to order, instruct, or authorize a financial institution or other financial intermediary to debit or credit an account.
 
 #### (4) Coordination with other electronic fund transfer requirements
 
@@ -168,7 +168,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 Subsec. (g). Pub. L. 104–188, §1702(c)(3), inserted “, 22,” after “chapters 21”.
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–465, §712(d), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If, under regulations prescribed by the Secretary, a person is required to make deposits of any tax imposed by section4251 or subsection (a) or (b) of section 4261 with respect to amounts considered collected by such person during any semimonthly period, such deposit shall be made not later than the 3rd day (not including Saturdays, Sundays, or legal holidays) after the close of the 1st week of the 2nd semimonthly period following the period to which such amounts relate.”
+<b>1994</b>—Subsec. (e). Pub. L. 103–465, §712(d), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If, under regulations prescribed by the Secretary, a person is required to make deposits of any tax imposed by section 4251 or subsection (a) or (b) of section 4261 with respect to amounts considered collected by such person during any semimonthly period, such deposit shall be made not later than the 3rd day (not including Saturdays, Sundays, or legal holidays) after the close of the 1st week of the 2nd semimonthly period following the period to which such amounts relate.”
 
 Subsec. (f). Pub. L. 103–465, §712(a), substituted “certain excise taxes” for “taxes on gasoline and diesel fuel” in heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -216,7 +216,7 @@ Subsec. (e). Pub. L. 100–418 substituted “For” for “(1) For” and struc
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, §1906(a)(17), (b)(13)(A), substituted “section 4501(a) of chapter 37” for “sections 4501(a) or 4511 of chapter 37, or section 4701 or 4721 of chapter 39” and struck out “or his delegate” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, §1906(a)(17), (b)(13)(A), substituted “section 4501(a) of chapter 37” for “sections4501(a) or 4511 of chapter 37, or section 4701 or 4721 of chapter 39” and struck out “or his delegate” after “Secretary”.
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -258,7 +258,7 @@ General rule.—Except as provided in paragraph (2), the amendment made by subse
 
 #### Effective Date of 1988 Amendments
 
-Section 6107(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by themanufacturer, producer, or importer after December 31, 1988.”
+Section 6107(b) of Pub. L. 100–647 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer after December 31, 1988.”
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 

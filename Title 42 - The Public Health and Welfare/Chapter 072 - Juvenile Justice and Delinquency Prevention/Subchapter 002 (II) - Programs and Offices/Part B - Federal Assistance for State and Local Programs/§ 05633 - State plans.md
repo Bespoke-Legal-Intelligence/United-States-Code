@@ -66,7 +66,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(C) to provide funds for programs of Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior) and that agree to attempt to comply with the requirements specified in paragraphs (12)(A), (13), and (14), applicable to the detention and confinement of juveniles, an amount that bears the same ratio to the aggregate amount to be expended through programs referred to in subparagraphs (A) and (B) as the population under 18 years of age in the geographical areas in which such tribes perform such functions bears to the State population under 18 years of age,<sup>2</sup>
 
-&emsp;(6) provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government's part of a State plan, or for the supervision of the preparation and administration of the local government's part of the State plan, to that agency within the local government's structure or to a regional planning agency (hereinafter in thispart referred to as the “local agency”) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;
+&emsp;(6) provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government's part of a State plan, or for the supervision of the preparation and administration of the local government's part of the State plan, to that agency within the local government's structure or to a regional planning agency (hereinafter in this part referred to as the “local agency”) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;
 
 &emsp;(7) provide for an equitable distribution of the assistance received under section 5632 of this title within the State;
 
@@ -176,7 +176,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(13) provide that juveniles alleged to be or found to be delinquent and youths within the purview of paragraph (12) shall not be detained or confined in any institution in which they have contact with adult persons incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults;
 
-&emsp;(14) provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulations which make exceptions with regard to the detention of juveniles accused of nonstatus offenses who are awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
+&emsp;(14) provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulations which make exceptions with regard to the detention of juveniles accused of nonstatus offenses whoare awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
 
 &emsp;&emsp;(A)(i) are outside a Standard Metropolitan Statistical Area; and
 
@@ -216,7 +216,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(24) contain such other terms and conditions as the Administrator may reasonably prescribe to assure the effectiveness of the programs assisted under this subchapter; and
 
-&emsp;(25) provide an assurance that if the State receives under section 5632 of this title for anyfiscal year an amount that exceeds 105 percent of the amount the State received under such section for fiscal year 1992, all of such excess shall be expended through or for programs that are part of a comprehensive and coordinated community system of services.
+&emsp;(25) provide an assurance that if the State receives under section 5632 of this title for any fiscal year an amount that exceeds 105 percent of the amount the State received under such section for fiscal year 1992, all of such excess shall be expended through or for programs that are part of a comprehensive and coordinated community system of services.
 
 #### (b) Approval by State agency
 
@@ -268,7 +268,7 @@ Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(iv)\], su
 
 1994—Subsec. (a)(12)(A). Pub. L. 103–322 substituted “(other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law).” for “which do not constitute violations of valid court orders”.
 
-1992—Subsec. (a). Pub. L. 102–586, §2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
+1992—Subsec. (a). Pub. L. 102–586, §2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. TheState” for “programs, and the State” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 102–586, §2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
@@ -324,7 +324,7 @@ Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted “agency described i
 
 Subsec. (a)(2). Pub. L. 98–473, §626(a)(2), struck out “(hereafter referred to in this part as the ‘State criminal justice council’)” before “has or will have authority”.
 
-Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizationswhich”, added cl. (iii), designated provisions following “business groups as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
+Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
 
 Subsec. (a)(3)(F). Pub. L. 98–473, §626(a)(3)(B)(i), substituted “agency designated under paragraph (1)” for “criminal justice council” in three places.
 
@@ -396,7 +396,7 @@ Subsec. (a)(10)(A). Pub. L. 96–509, §11(a)(9), inserted provisions for inclus
 
 Subsec. (a)(10)(E). Pub. L. 96–509, §11(a)(10), clarified that educational programs included as advanced techniques should be designed to encourage delinquent and other youth to remain in school.
 
-Subsec. (a)(10)(H). Pub. L. 96–509, §11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designed as exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
+Subsec. (a)(10)(H). Pub. L. 96–509, §11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designedas exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
 
 Subsec. (a)(10)(I). Pub. L. 96–509, §11(a)(12), revised subpar. (I) to provide that advanced technique programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities include on-the-job training programs to assist law enforcement and juvenile justice personnel to more effectively recognize and provide for learning disabled and other handicapped juveniles.
 

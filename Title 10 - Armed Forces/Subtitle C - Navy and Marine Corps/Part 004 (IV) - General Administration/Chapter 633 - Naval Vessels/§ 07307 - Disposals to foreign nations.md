@@ -2,7 +2,7 @@
 
 (a)
 
-Larger or Newer Vessels.—A naval vessel that is in excess of 3,000 tons or that is lessthan 20 years of age may not be disposed of to another nation (whether by sale, lease, grant, loan, barter, transfer, or otherwise) unless the disposition of that vessel is approved by law enacted after August 5, 1974. A lease or loan of such a vessel under such a law may be made only in accordance with the provisions of chapter 6 of the Arms Export Control Act (22 U.S.C. 2796 et seq.) or chapter 2 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2311 et seq.).
+Larger or Newer Vessels.—A naval vessel that is in excess of 3,000 tons or that is less than 20 years of age may not be disposed of to another nation (whether by sale, lease, grant, loan, barter, transfer, or otherwise) unless the disposition of that vessel is approved by law enacted after August 5, 1974. A lease or loan of such a vessel under such a law may be made only in accordance with the provisions of chapter 6 of the Arms Export Control Act (22 U.S.C. 2796 et seq.) or chapter 2 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2311 et seq.).
 
 (b)
 

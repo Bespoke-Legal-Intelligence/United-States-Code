@@ -136,9 +136,23 @@ Section 14(a)–(c) of Pub. L. 100–496 provided that:
 
 “(c) The amendments made by sections 2(c) and 3(c) of this Act \[amending this section, section 3901 of this title, and section 410 of Title 39, Postal Service\] shall be applicable with respect to all obligations incurred on or after January 1, 1989.”
 
+#### Payment of Interest Penalties by Department of Defense
+
+Pub. L. 107–117, div. A, title VIII, §8084, Jan. 10, 2002, 115 Stat. 2266, provided that: “Notwithstanding 31U.S.C. 3902, during the current fiscal year and hereafter, interest penalties may be paid by the Department of Defense from funds financing the operation of the military department or defense agency with which the invoice or contract payment is associated.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–259, title VIII, §8083, Aug. 9, 2000, 114 Stat. 692.
+
+Pub. L. 106–79, title VIII, §8088, Oct. 25, 1999, 113 Stat. 1252.
+
+Pub. L. 105–262, title VIII, §8092, Oct. 17, 1998, 112 Stat. 2319.
+
+Pub. L. 105–56, title VIII, §8103, Oct. 8, 1997, 111 Stat. 1243.
+
 #### Interest Penalties for Late Payment of Interim Payments Due Under Government Service Contracts
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1010\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, provided that:
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1010\], Oct. 30, 2000, 114 Stat. 1654, 1654A–251, as amended by Pub. L. 107–107, div. A, title X, §1007, Dec. 28, 2001, 115 Stat. 1204, provided that:
 
 “(a)
 
@@ -154,7 +168,7 @@ Incorporation of Certain Provisions of Law.—The provisions of chapter 39 of ti
 
 “(d)
 
-Effective Date.—Subsection (a) shall take effect on December 15, 2000. No interest shall accrue by reason of that subsection for any period before that date.”
+Effective Date.—Subsection (a) shall take effect on December 15, 2000, and shall apply with respect to interim payments that are due on or after such date under contracts entered into before, on, or after that date. No interest shall accrue by reason of that subsection for any period before that date.”
 
 #### Section Referred to in Other Sections
 

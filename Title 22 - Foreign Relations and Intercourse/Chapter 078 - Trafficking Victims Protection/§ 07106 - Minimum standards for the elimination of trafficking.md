@@ -18,7 +18,7 @@ In determinations under subsection (a)(4) of this section, the following factors
 
 &emsp;(1) Whether the government of the country vigorously investigates and prosecutes acts of severe forms of trafficking in persons that take place wholly or partly within the territory of the country.
 
-&emsp;(2) Whether the government of the country protects victims of severe forms of traffickingin persons and encourages their assistance in the investigation and prosecution of such trafficking, including provisions for legal alternatives to their removal to countries in which they would face retribution or hardship, and ensures that victims are not inappropriately incarcerated, fined, or otherwise penalized solely for unlawful acts as a direct result of being trafficked.
+&emsp;(2) Whether the government of the country protects victims of severe forms of trafficking in persons and encourages their assistance in the investigation and prosecution of such trafficking, including provisions for legal alternatives to their removal to countries in which they would face retribution or hardship, and ensures that victims are not inappropriately incarcerated, fined, or otherwise penalized solely for unlawful acts as a direct result of being trafficked.
 
 &emsp;(3) Whether the government of the country has adopted measures to prevent severe forms of trafficking in persons, such as measures to inform and educate the public, including potential victims, about the causes and consequences of severe forms of trafficking in persons.
 

@@ -8,7 +8,7 @@ Within 1 year after October 24, 1992, the Secretary shall submit to the Congress
 
 &emsp;(3) an estimation of the potential need of the United States for inventories of highly enriched uranium;
 
-&emsp;(4) an analysis and summary of technological requirements and costs associated with converting highly enriched uranium to low-enriched uranium, including the construction of facilities if necessary;
+&emsp;(4) an analysis and summary of technological requirements and costs associated withconverting highly enriched uranium to low-enriched uranium, including the construction of facilities if necessary;
 
 &emsp;(5) an estimation of potential net proceeds from the conversion and sale of highly enriched uranium;
 

@@ -98,7 +98,7 @@ The Administrator, with the concurrence of the Director of the Office of Managem
 
 Except as otherwise provided by law, no duties, functions, or responsibilities, other than those expressly assigned by this chapter, shall be assigned, delegated, or transferred to the Administrator.
 
-#### (h) Automatic data processing and telecommunications equipment; real property procurement; Office of Management and Budget
+#### (h) Real property procurement; Office of Management and Budget
 
 Nothing in this chapter shall be construed to—
 
@@ -176,7 +176,7 @@ Pub. L. 104–106, §4307(b)(1), redesignated par. (10) as (11). Former par. (11
 
 Subsec. (d)(12). Pub. L. 104–106, §4307(b)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
-Subsec. (d)(13). Pub. L. 104–106, §4321(h)(1), which directed transferring par. (12) to end of subsec. (d), wasexecuted by transferring par. (13) to end of subsec. (d) to reflect the probable intent of Congress and the redesignation of par. (12) as (13) by Pub. L. 104–106, §4307(b)(1). See below.
+Subsec. (d)(13). Pub. L. 104–106, §4321(h)(1), which directed transferring par. (12) to end of subsec. (d), was executed by transferring par. (13) to end of subsec. (d) to reflect the probable intent of Congress and the redesignation of par. (12) as (13) by Pub. L. 104–106, §4307(b)(1). See below.
 
 Pub. L. 104–106, §4307(b)(1), redesignated par. (12) as (13).
 
@@ -198,7 +198,7 @@ Subsec. (k). Pub. L. 103–355, §5051(b), added subsec. (k).
 
 1988—Subsec. (a). Pub. L. 100–679, §3(a)(1), substituted “procurement policies. These policies shall be implemented in a single Government-wide procurement regulation called the Federal Acquisition Regulation and shall be” for “procurement policies which shall be implemented in the single system of Government-wide procurement regulations and shall be”.
 
-Subsec. (b). Pub. L. 100–679, §3(a)(2), inserted “, including any such regulations, procedures, and forms as are necessary to implement prescribed policy initiated by the Administrator under subsection (a) of this section,” after “timely manner” and substituted “Administrator shall” for “Administrator may”.
+Subsec. (b). Pub. L. 100–679, §3(a)(2), inserted “, including any such regulations, procedures, andforms as are necessary to implement prescribed policy initiated by the Administrator under subsection (a) of this section,” after “timely manner” and substituted “Administrator shall” for “Administrator may”.
 
 Subsec. (d)(4). Pub. L. 100–679, §3(a)(3), added par. (4) and struck out former par. (4) which read as follows: “providing for a computer-based Federal Procurement Data System which shall be located in the General Services Administration (acting as executive agent for the Administrator) and shall collect, develop, and disseminate procurement data;”.
 
@@ -258,7 +258,7 @@ Definitions.—In this section, the term ‘bundling of contract requirements’
 
 Section 1091(b)(1) of Pub. L. 103–355 provided that: “Congress makes the following findings:
 
-&emsp;“(A) Past contract performance of an offeror is one of the relevant factors that a contracting official ofan executive agency should consider in awarding a contract.
+&emsp;“(A) Past contract performance of an offeror is one of the relevant factors that a contracting official of an executive agency should consider in awarding a contract.
 
 &emsp;“(B) It is appropriate for a contracting official to consider past contract performance of an offeror as an indicator of the likelihood that the offeror will successfully perform a contract to be awarded by that official.”
 

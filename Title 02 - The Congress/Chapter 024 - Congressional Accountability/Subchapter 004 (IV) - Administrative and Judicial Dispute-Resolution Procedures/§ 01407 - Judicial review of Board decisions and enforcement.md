@@ -26,7 +26,7 @@
 
 &emsp;(A) In any proceeding commenced by a petition filed under subsection (a)(1)(A) or (B) of this section, or filed by a party other than the General Counsel under subsection (a)(1)(C) or (D) of this section, the Office shall be named respondent and any party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
 
-&emsp;(B) In any proceeding commenced by a petition filed by the General Counsel under subsection (a)(1)(C) or (D) of this section, the prevailing party in the final decision entered under section 1406(e) of this title shall benamed respondent, and any other party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
+&emsp;(B) In any proceeding commenced by a petition filed by the General Counsel under subsection (a)(1)(C) or (D) of this section, the prevailing party in the final decision entered under section 1406(e) of this title shall be named respondent, and any other party before the Board may be named respondent by filing a notice of election with the court within 30 days after service of the petition.
 
 &emsp;(C) In any proceeding commenced by a petition filed under subsection (a)(2) of this section, the party under section 1405 or 1406 of this title that the General Counsel determines has failed to comply with a final decision under section 1405(g) or 1406(e) of this title shall be named respondent.
 

@@ -16,9 +16,15 @@ In general.—If a decoration or medal involved in an offense under subsection (
 
 Definitions.—(A) As used in subsection (a) with respect to a Congressional Medal of Honor, “sells” includes trades, barters, or exchanges for anything of value.
 
-&emsp;(B) As used in this subsection, “Congressional Medal of Honor” means a medal awarded under section 3741, 6241, or 8741 of title 10.
+&emsp;(B) As used in this subsection, “Congressional Medal of Honor” means—
 
-(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, §16, 63 Stat. 92; Pub. L. 103–322, title XXXII, §320109, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2113, 2146; Pub. L. 103–442, Nov. 2, 1994, 108 Stat. 4630; Pub. L. 104–294, title VI, §604(b)(16), Oct. 11, 1996, 110 Stat. 3507.)
+&emsp;&emsp;(i) a medal of honor awarded under section 3741, 6241, or 8741 of title 10 or section 491 of title 14;
+
+&emsp;&emsp;(ii) a duplicate medal of honor issued under section 3754, 6256, or 8754 of title 10 or section 504 of title 14; or
+
+&emsp;&emsp;(iii) a replacement of a medal of honor provided under section 3747, 6253, or 8747 of title 10 or section 501 of title 14.
+
+(June 25, 1948, ch. 645, 62 Stat. 732; May 24, 1949, ch. 139, §16, 63 Stat. 92; Pub. L. 103–322, title XXXII, §320109, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2113, 2146; Pub. L. 103–442, Nov. 2, 1994, 108 Stat. 4630; Pub. L. 104–294, title VI, §604(b)(16), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–107, div. A, title V, §553(e), Dec. 28, 2001, 115 Stat. 1117.)
 
 #### Historical and Revision Notes
 
@@ -35,6 +41,8 @@ Minor changes were made in phraseology.
 This section \[section 16\] clarifies the wording of section 704 of title 18, U.S.C., to embrace all service decorations awarded to members of the armed forces whether by the Army, Navy, Air Force, or other branch of such forces. (See note to sec. 5 \[of 1949 Act, set out in Legislative History note under section 244 of title 18\]).
 
 #### Amendments
+
+2001—Subsec. (b)(2)(B). Pub. L. 107–107 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “As used in this subsection, ‘Congressional Medal of Honor’ means a medal awarded under section 3741, 6241, or 8741 of title 10.”
 
 1996—Subsec. (a). Pub. L. 104–294 amended Pub. L. 103–322, §320109(1). See 1994 Amendment note below.
 

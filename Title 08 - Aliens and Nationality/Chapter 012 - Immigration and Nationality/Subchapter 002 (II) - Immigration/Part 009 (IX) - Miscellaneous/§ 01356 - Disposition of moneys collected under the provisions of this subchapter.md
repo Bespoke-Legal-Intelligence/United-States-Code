@@ -14,11 +14,11 @@ Except as otherwise provided in subsection (a) and subsection (b) of this sectio
 
 #### (d) Schedule of fees
 
-In addition to any other fee authorized by law, the Attorney General shall charge and collect $6 per individual for the immigration inspection of each passenger arriving at a port of entry in the United States, or for the preinspection of a passenger in a place outside of the United States prior to such arrival, aboard a commercial aircraft or commercial vessel.
+In addition to any other fee authorized by law, the Attorney General shall charge and collect $7 per individual for the immigration inspection of each passenger arriving at a port of entry in the United States, or for the preinspection of a passenger in a place outside of the United States prior to such arrival, aboard a commercial aircraft or commercial vessel.
 
 #### (e) Limitations on fees
 
-(1) No fee shall be charged under subsection (d) of this section for immigration inspection or preinspection provided in connection with the arrival of any passenger, other than aircraft passengers, whose journey originated in the following:
+(1) Except as provided in paragraph (3), no fee shall be charged under subsection (d) of this section for immigration inspection or preinspection provided in connection with the arrival of any passenger, other than aircraft passengers, whose journey originated in the following:
 
 &emsp;(A) Canada,
 
@@ -33,6 +33,8 @@ In addition to any other fee authorized by law, the Attorney General shall charg
 &emsp;(A) who is in transit to a destination outside the United States, and
 
 &emsp;(B) for whom immigration inspection services are not provided.
+
+(3) The Attorney General is authorized to charge and collect $3 per individual for the immigration inspection or pre-inspection of each commercial vessel passenger whose journey originated in the United States or in any place set forth in paragraph (1): <i>Provided</i>, That this authorization shall not apply to immigration inspection at designated ports of entry of passengers arriving by the following vessels, when operating on a regular schedule: Great Lakes international ferries, or Great Lakes Vessels on the Great Lakes and connecting waterways.
 
 #### (f) Collection
 
@@ -118,11 +120,11 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 #### (q) Land Border Inspection Fee Account
 
-(1)(A)(i) Notwithstanding any other provision of law, the Attorney General is authorized to establish, by regulation, not more than 6 projects under which a fee may be charged and collected for inspection services provided at one or more land border points of entry. Such projects may include the establishment of commuter lanes to be made available to qualified United States citizens and aliens, as determined by the Attorney General.
+(1)(A)(i) Notwithstanding any other provision of law, the Attorney General is authorized to establish, by regulation, not more than 96 projects under which a fee may be charged and collected for inspection services provided at one or more land border points of entry. Such projects may include the establishment of commuter lanes to be made available to qualified United States citizens and aliens, as determined by the Attorney General.
 
 (ii) This subparagraph shall take effect, with respect to any project described in clause (1) <sup>2</sup> that was not authorized to be commenced before September 30, 1996, 30 days after submission of a written plan by the Attorney General detailing the proposed implementation of such project.
 
-(iii) The Attorney General shall prepare and submit on a quarterly basis a status report oneach land border inspection project implemented under this subparagraph.
+(iii) The Attorney General shall prepare and submit on a quarterly basis a status report on each land border inspection project implemented under this subparagraph.
 
 (B) The Attorney General, in consultation with the Secretary of the Treasury, may conduct pilot projects to demonstrate the use of designated ports of entry after working hours through the use of card reading machines or other appropriate technology.
 
@@ -172,7 +174,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 #### (2) Use of fees for job training
 
-&emsp;55 percent of amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for demonstration programs and projects described in section 414(c) of the American Competitiveness and Workforce Improvement Act of 1998.
+&emsp;55 percent of amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Labor until expended for demonstration programs and projects described in section 2916a of title 29.
 
 #### (3) Use of fees for low-income scholarship program
 
@@ -182,7 +184,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 #### (A) In general
 
-&emsp;&emsp;15 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expendedto carry out a direct or matching grant program to support private-public partnerships in K–12 education.
+&emsp;&emsp;15 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Director of the National Science Foundation until expended to carry out a direct or matching grant program to support private-public partnerships in K–12 education.
 
 #### (B) Types of programs covered
 
@@ -208,7 +210,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 The Attorney General is authorized to establish and collect a premium fee for employment-based petitions and applications. This fee shall be used to provide certain premium-processing services to business customers, and to make infrastructure improvements in the adjudications and customer-service processes. For approval of the benefit applied for, the petitioner/applicant must meet the legal criteria for such benefit. This fee shall be set at $1,000, shall be paid in addition to any normal petition/application fee that may be applicable, and shall be deposited as offsetting collections in the Immigration Examinations Fee Account. The Attorney General may adjust this fee according to the Consumer Price Index.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121,title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11.)
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765.)
 
 #### References in Text
 
@@ -218,9 +220,15 @@ The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–
 
 Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is section 606 of Pub. L. 101–162, title VI, Nov. 21, 1989, 103 Stat. 1031, which is not classified to the Code.
 
-Section 414(c) of the American Competitiveness and Workforce Improvement Act of 1998, referred to in subsec. (s)(2), is section 414(c) of div. C of Pub. L. 105–277, which is set out as a note under section 2916 of Title 29, Labor.
-
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–77, §109(1), substituted “$7” for “$6”.
+
+Subsec. (e)(1). Pub. L. 107–77, §109(2), substituted “Except as provided in paragraph (3), no” for “No”.
+
+Subsec. (e)(3). Pub. L. 107–77, §109(3), added par. (3).
+
+Subsec. (q)(1)(A)(i). Pub. L. 107–77, §110, which directed the substitution of “96” for “6” in section 286(q)(1)(A) of the Immigration and Nationality Act of 1953, was executed by making the substitution in section 286(q)(1)(A) of the Immigration and Nationality Act to reflect the probable intent of Congress.
 
 2000—Subsec. (s)(2). Pub. L. 106–313, §110(a)(1), substituted “55 percent” for “56.3 percent”.
 
@@ -446,7 +454,7 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Reporting Requirement
 

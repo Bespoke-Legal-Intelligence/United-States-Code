@@ -50,9 +50,35 @@
 
 #### (7) Access to reports or records
 
-&emsp;Nothing in this section shall restrict the right of the Secretary, the Comptroller General of the United States, the Director of theCongressional Budget Office, and the Librarian of Congress, to gain access to any reports or other records, including information identifying individuals, in the Center's possession, except that the same restrictions on disclosure that apply under paragraphs (1) and (6) shall apply to such individuals.
+&emsp;Nothing in this section shall restrict the right of the Secretary, the Comptroller General of the United States, the Director of the Congressional Budget Office, and the Librarian of Congress, to gain access to any reports or other records, including information identifying individuals, in the Center's possession, except that the same restrictions on disclosure that apply under paragraphs (1) and (6) shall apply to such individuals.
 
-(Pub. L. 103–382, title IV, §408, Oct. 20, 1994, 108 Stat. 4034.)
+#### (c) Investigation and prosecution of terrorism
+
+#### (1) In general
+
+&emsp;Notwithstanding subsections (a) and (b) of this section, the Attorney General (or any Federal officer or employee, in a position not lower than an Assistant Attorney General, designated by the Attorney General) may submit a written application to a court of competent jurisdiction for an ex parte order requiring the Secretary to permit the Attorney General (or his designee) to—
+
+&emsp;&emsp;(A) collect reports, records, and information (including individually identifiable information) in the possession of the center that are relevant to an authorized investigation or prosecution of an offense listed in section 2332b(g)(5)(B) of title 18 or an act of domestic or international terrorism as defined in section 2331 of that title; and
+
+&emsp;&emsp;(B) for official purposes related to the investigation or prosecution of an offense described in paragraph (1)(A), retain, disseminate, and use (including as evidence at trial or in other administrative or judicial proceedings) such information, consistent with such guidelines as the Attorney General, after consultation with the Secretary, shall issue to protect confidentiality.
+
+#### (2) Application and approval
+
+&emsp;(A)
+
+In general.—An application under paragraph (1) shall certify that there are specific and articulable facts giving reason to believe that the information sought is described in paragraph (1)(A).
+
+&emsp;(B) The court shall issue an order described in paragraph (1) if the court finds that the application for the order includes the certification described in subparagraph (A).
+
+#### (3) Protection
+
+&emsp;An officer or employee of the Department who, in good faith, produces information in accordance with an order issued under this subsection does not violate subsection (b)(2) of this section and shall not be liable to any person for that production.
+
+(Pub. L. 103–382, title IV, §408, Oct. 20, 1994, 108 Stat. 4034; Pub. L. 107–56, title V, §508, Oct. 26, 2001, 115 Stat. 368.)
+
+#### Amendments
+
+2001—Subsec. (c). Pub. L. 107–56 added subsec. (c).
 
 #### Section Referred to in Other Sections
 

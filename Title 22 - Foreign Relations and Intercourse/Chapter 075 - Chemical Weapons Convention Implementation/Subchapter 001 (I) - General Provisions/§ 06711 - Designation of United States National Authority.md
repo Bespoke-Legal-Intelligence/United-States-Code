@@ -22,7 +22,7 @@ The Director may utilize the administrative authorities otherwise available to t
 
 #### (e) Implementation
 
-The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
+The President is authorized to implement and carry out the provisions of this chapter and theConvention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
 
 (Pub. L. 105–277, div. I, title I, §101, Oct. 21, 1998, 112 Stat. 2681–860.)
 
@@ -50,7 +50,7 @@ Sec. 4. The Secretary of Commerce is authorized:
 
 (c) to carry out all functions with respect to proceedings under section 501(a) of the Act \[22 U.S.C. 6761(a)\] and to issue regulations with respect thereto, except for those functions that the Act specifies are to be performed by the Secretary of State or the USNA.
 
-Sec. 5. The Departments of State, Defense, Commerce, and Energy, and other agencies as appropriate,are authorized to carry out, consistent with the Act and in accordance with subsequent directives, appropriate functions that are not otherwise assigned in the Act and are necessary to implement the provisions of the Convention and the Act.
+Sec. 5. The Departments of State, Defense, Commerce, and Energy, and other agencies as appropriate, are authorized to carry out, consistent with the Act and in accordance with subsequent directives, appropriate functions that are not otherwise assigned in the Act and are necessary to implement the provisions of the Convention and the Act.
 
 Sec. 6. The Departments of State, Defense, Commerce, and Energy, and other agencies, as appropriate, are authorized to provide assistance to facilities not owned or operated by the U.S. Government, or contracted for use by or for the U.S. Government, in meeting reporting requirements and in preparing the facilities for possible inspection pursuant to the Convention.
 

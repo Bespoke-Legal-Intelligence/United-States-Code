@@ -2,7 +2,45 @@
 
 #### (a) Establishment
 
-There is hereby established in the Smithsonian Institution a bureau, which shall be directed by a board to be known as the Trustees of the John F. Kennedy Center for the Performing Arts (hereafter in this subchapter, referred to as the “Board”), whose duty it shall be to maintain and administer the John F. Kennedy Center for the Performing Arts and site thereof as the National Center for the Performing Arts, a living memorial to John Fitzgerald Kennedy, and to execute such other functions as are vested in the Board by this subchapter. The Board shall be composed as follows: The Secretary of Health and Human Services, the Librarian of Congress, the Director of the United States Information Agency, the Chairman of the Commission of Fine Arts, the Mayor of the District of Columbia, the Superintendent of Schools of the District of Columbia, the Director of the National Park Service, the Secretary of Education, the Secretary of the Smithsonian Institution, the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives and 3 additional Members of the House of Representatives appointed by the Speaker of the House of Representatives, and the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate and 3 additional Members of the Senate appointed by the President of the Senate ex officio; and thirty general trustees who shall be citizens of the United States, to be chosen as hereinafter provided.
+#### (1) In general
+
+&emsp;There is established in the Smithsonian Institution a bureau, which shall be directed by a board to be known as the Trustees of the John F. Kennedy Center for the Performing Arts (hereafter in this subchapter referred to as the “Board”), whose duty it shall be to maintain and administer the John F. Kennedy Center for the Performing Arts and site thereof as the National Center for the Performing Arts, a living memorial to John Fitzgerald Kennedy, and to execute such other functions as are vested in the Board by this subchapter.
+
+#### (2) Membership
+
+&emsp;The Board shall be composed of—
+
+&emsp;&emsp;(A) the Secretary of Health and Human Services;
+
+&emsp;&emsp;(B) the Librarian of Congress;
+
+&emsp;&emsp;(C) the Secretary of State;
+
+&emsp;&emsp;(D) the Chairman of the Commission of Fine Arts;
+
+&emsp;&emsp;(E) the Mayor of the District of Columbia;
+
+&emsp;&emsp;(F) the Superintendent of Schools of the District of Columbia;
+
+&emsp;&emsp;(G) the Director of the National Park Service;
+
+&emsp;&emsp;(H) the Secretary of Education;
+
+&emsp;&emsp;(I) the Secretary of the Smithsonian Institution;
+
+&emsp;&emsp;(J)(i) the Speaker and the Minority Leader of the House of Representatives;
+
+&emsp;&emsp;(ii) the chairman and ranking minority member of the Committee on Public Worksand Transportation of the House of Representatives; and
+
+&emsp;&emsp;(iii) three additional Members of the House of Representatives appointed by the Speaker of the House of Representatives;
+
+&emsp;&emsp;(K)(i) the Majority Leader and the Minority Leader of the Senate;
+
+&emsp;&emsp;(ii) the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate; and
+
+&emsp;&emsp;(iii) three additional Members of the Senate appointed by the President of the Senate; and
+
+&emsp;&emsp;(L) thirty-six general trustees, who shall be citizens of the United States, to be appointed in accordance with subsection (b) of this section.
 
 #### (b) General trustees
 
@@ -18,9 +56,11 @@ The general trustees shall be appointed by the President of the United States. E
 
 There shall be an Advisory Committee on the Arts composed of such members as the President of the United States may designate, to serve at the pleasure of the President. Persons appointed to the Advisory Committee on the Arts, including officers or employees of the United States, shall be persons who are recognized for their knowledge of, or experience or interest in, one or more of the arts in the fields covered by the John F. Kennedy Center for the Performing Arts. The President shall designate the Chairman of the Advisory Committee on the Arts. In making such appointments the President shall give consideration to such recommendations as may from time to time be submitted to him by leading national organizations in the appropriate art fields. The Advisory Committee on the Arts shall advise and consult with the Board and make recommendations to the Board regarding existing and prospective cultural activities to be carried out by the John F. Kennedy Center for the Performing Arts. The Advisory Committee on the Arts shall assist the Board in carrying out section 76k(a) of this title. Members of the Advisory Committee on the Arts shall serve without compensation.
 
-(Pub. L. 85–874, §2, Sept. 2, 1958, 72 Stat. 1698; Pub. L. 88–100, §§1, 2, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; 1967 Reorg. Plan No. 3, §401, eff. Aug. 11, 1967, 81 Stat. 951; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; 1977 Reorg. Plan No. 2, §7(b), 42 F.R. 62461, 91 Stat. 1637; Pub. L. 96–88, title III, §301(a)(1), title V, §§507, 509(b), Oct. 17, 1979, 93 Stat. 677, 692, 695; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 103–279, §2(b)(1), (c), (d), July 21, 1994, 108 Stat. 1409, 1410.)
+(Pub. L. 85–874, §2, Sept. 2, 1958, 72 Stat. 1698; Pub. L. 88–100, §§1, 2, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, §2(b)(1), (c), (d), July 21, 1994, 108 Stat. 1409, 1410; Pub. L. 107–117, div. D, title II, §201(a), Jan. 10, 2002, 115 Stat. 2353.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–117 designated existing provisions as par. (1), inserted par. heading, struck out “hereby” before “established”, struck out second sentence, and added par. (2). Prior to amendment, second sentence read as follows: “The Board shall be composed as follows: The Secretary of Health and Human Services, the Librarian of Congress, the Director of the United States Information Agency, the Chairman of the Commission of Fine Arts, the Mayor of the District of Columbia, the Superintendent of Schools of the District of Columbia, the Director of the National Park Service, the Secretary of Education, the Secretary of the Smithsonian Institution, the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives and 3 additional Members of the House of Representatives appointed by the Speaker of the House of Representatives, and the chairman and ranking minority member of the Committee on Environment and Public Works of the Senate and 3 additional Members of the Senate appointed by the President of the Senate ex officio; and thirty general trustees who shall be citizens of the United States, to be chosen as hereinafter provided.”
 
 1994—Pub. L. 103–279, §2(b)(1)(A), substituted section catchline for former section catchline.
 
@@ -37,8 +77,6 @@ Subsec. (c). Pub. L. 103–279, §2(d), inserted heading, inserted “of the Uni
 Subsec. (b). Pub. L. 88–100, §2, inserted provisions governing the terms of the additional fifteen general trustees added to the Board by section 1 of Pub. L. 88–100.
 
 #### Change of Name
-
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of this title.
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
@@ -76,15 +114,15 @@ Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section
 
 #### Short Title
 
-Section 1(a), formerly §1, of Pub. L. 85–874, as amended by Pub. L. 88–260, §1(1), Jan. 23, 1964, 78 Stat. 4; redesignated §1(a), Pub. L. 103–279, §2(a)(1), July 21, 1994, 108Stat. 1409, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘John F. Kennedy Center Act’.”
+Section 1(a), formerly §1, of Pub. L. 85–874, as amended by Pub. L. 88–260, §1(1), Jan. 23, 1964, 78 Stat. 4; redesignated §1(a), Pub. L. 103–279, §2(a)(1), July 21, 1994, 108 Stat. 1409, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘John F. Kennedy Center Act’.”
 
-#### Transfer of Functions
+#### Terms of Office for New General Trustees
 
-“Secretary of Education” substituted for “Commissioner of the United States Office of Education” in subsec. (a) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred all functions of Commissioner of Education to Secretary of Education.
+Pub. L. 107–117, div. D, title II, §201(b), Jan. 10, 2002, 115 Stat. 2354, provided that: “Section 2(b) of the John F. Kennedy Center Act (20 U.S.C. 76h(b)) shall apply to each general trustee of the John F. Kennedy Center for the Performing Arts whose position is established by the amendment made by subsection (a)(2) \[amending this section\] (referred to in this subsection as a ‘new general trustee’), except that the initial term of office of each new general trustee shall—
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22, Foreign Relations and Intercourse. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a) pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of Title 22. Previously, “Director of the International Communication Agency” had been substituted for “Assistant Secretary of State for Public Affairs” in subsec. (a) pursuant to Reorg. Plan No. 2 of 1977, §7(b), 42 F.R. 62461, 91 Stat. 1637, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before July 1, 1978, at such time as specified by the President, which transferred all functions vested in Assistant Secretary of State for Public Affairs under subsec. (a) of this section to Director of International Communication Agency.
+&emsp;“(1) commence on the date on which the new general trustee is appointed by the President; and
 
-Except as otherwise provided in Reorg. Plan No. 3 of 1967, eff. Aug. 11, 1967 (in part), 32 F.R. 11669, 81 Stat. 948, all functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (a) for “President of the Board of Commissioners”.
+&emsp;“(2) terminate on September 1, 2007.”
 
 #### National Cultural Center; Designation or References
 

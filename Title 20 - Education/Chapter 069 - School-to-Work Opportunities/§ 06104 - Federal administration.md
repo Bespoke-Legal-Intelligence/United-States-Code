@@ -12,7 +12,7 @@
 
 #### (b) Acceptance of gifts
 
-The Secretaries are authorized, in carrying out this chapter, to accept, purchase, or lease in the name of the Department of Labor or the Department of Education, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise.
+The Secretaries are authorized, in carrying out this chapter, to accept, purchase, or lease inthe name of the Department of Labor or the Department of Education, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise.
 
 #### (c) Use of voluntary and uncompensated services
 
@@ -28,5 +28,5 @@ The General Education Provisions Act, referred to in subsec. (a)(1), is title IV
 
 The Act entitled “An Act To Create a Department of Labor”, approved March 4, 1913, referred to in subsec. (a)(1), is act Mar. 4, 1913, ch. 141, 37 Stat. 736, as amended, which is classified principally to sections 2, 551, and 555 to 562 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
 
-Section 166 of the Job Training Partnership Act, referred to in subsec. (a)(1), which was classified to section 1576 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
+Section 166 of the Job Training Partnership Act, referred to in subsec. (a)(1), which was classified to section 1576 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 

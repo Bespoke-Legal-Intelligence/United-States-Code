@@ -44,7 +44,7 @@
 
 #### Prior Provisions
 
-Prior section 510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, provided monthly pension for persons who served in military or naval forces of Confederate States of America, prior to repeal by Pub. L. 94–169, title I, §101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
+Prior section 510, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1135, provided monthly pension for persons who served in military or naval forces of Confederate States ofAmerica, prior to repeal by Pub. L. 94–169, title I, §101(2)(F), Dec. 23, 1975, 89 Stat. 1014, effective Jan. 1, 1976.
 
 Provisions similar to those in this section were contained in section 210(b)(1), (2) of this title prior to repeal by Pub. L. 102–83, §2(a).
 

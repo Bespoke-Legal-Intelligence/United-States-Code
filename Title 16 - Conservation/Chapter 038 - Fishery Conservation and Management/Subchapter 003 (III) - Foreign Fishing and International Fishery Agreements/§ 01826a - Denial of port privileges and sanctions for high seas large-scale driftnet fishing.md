@@ -36,7 +36,7 @@
 
 #### (B) Additional identifications
 
-&emsp;&emsp;At any time after January 10, 1993, whenever the Secretary of Commerce has reason to believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing beyond the exclusive economiczone of any nation, the Secretary of Commerce shall—
+&emsp;&emsp;At any time after January 10, 1993, whenever the Secretary of Commerce has reason to believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing beyond the exclusive economic zone of any nation, the Secretary of Commerce shall—
 
 &emsp;&emsp;&emsp;(i) identify that nation; and
 
@@ -80,7 +80,7 @@
 
 #### (C) Effect of certification
 
-&emsp;&emsp;Certification by the Secretary of Commerce under subparagraph (B) is deemed to be a certification under section 1978(a) of title 22.
+&emsp;&emsp;Certification by the Secretary of Commerce under subparagraph (B) is deemed tobe a certification under section 1978(a) of title 22.
 
 (Pub. L. 102–582, title I, §101, Nov. 2, 1992, 106 Stat. 4901.)
 
@@ -114,7 +114,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(7) The United States, in section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857(1)(M)), has specifically prohibited the practice of large-scale driftnet fishing by United States nationals and vessels both within the exclusive economic zone of the United States and beyond the exclusive economic zone of any nation.
 
-&emsp;“(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18,1988), has called for a moratorium on fishing in the Central Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations.
+&emsp;“(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in the Central Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations.
 
 &emsp;“(9) Despite the continued evidence of a decline in the fishery resources of the Bering Sea and the multiyear cooperative negotiations undertaken by the United States, the Russian Federation, Japan, and other concerned fishing nations, some nations refuse to agree to measures to reduce or eliminate unregulated fishing practices in the waters of the Bering Sea beyond the exclusive economic zones of the United States and the Russian Federation.
 

@@ -2,7 +2,7 @@
 
 #### (a) Foreign employment; compensation, allowances, and benefits; utilization of Presidential authority respecting Foreign Service; additional compensation and differentials; additional governmental employment by person receiving Foreign Service Reserve or staff appointment or assignment; limitation on length of employment
 
-(1) For the purpose of performing functions under this chapter outside the United States, the President may employ or assign persons, or authorize the employment or assignment of officers or employees of agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\], together with allowances and benefits thereunder; and persons so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of the employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for persons appointed to the Foreign Service.
+(1) For the purpose of performing functions under this chapter outside the United States, the President may employ or assign persons, or authorize the employment or assignment of officers or employees of agencies of the United States Government which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3962, 3963\],together with allowances and benefits thereunder; and persons so employed or assigned shall be entitled, except to the extent that the President may specify otherwise in cases in which the period of the employment or assignment exceeds thirty months, to the same benefits as are provided by section 310 of that Act \[22 U.S.C. 3950\] for persons appointed to the Foreign Service.
 
 (2) The President may utilize such authority contained in the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] relating to members of the Foreign Service and other United States Government officers and employees as the President deems necessary to carry out functions under this chapter, except that—
 
@@ -28,7 +28,7 @@
 
 &emsp;(B) To permit individuals who have served at least two and one-half years of such an appointment or assignment in the United States to serve abroad thereafter.
 
-&emsp;(C) To permit individuals who have served at least two and one-half years of such an appointment or assignment in a recruitment, selection, or training activity to be reassignedto an activity other than the one in which they have most recently so served.
+&emsp;(C) To permit individuals who have served at least two and one-half years of such an appointment or assignment in a recruitment, selection, or training activity to be reassigned to an activity other than the one in which they have most recently so served.
 
 &emsp;(D) To promote the continuity of functions in administering the Peace Corps.
 

@@ -18,7 +18,7 @@ Requirements.—The Secretary of Transportation shall—
 
 &emsp;(1) investigate the types of vessels suitable for different classes of inland waterways to promote, encourage, and develop inland waterway transportation facilities for the commerce of the United States;
 
-&emsp;(2) investigate water terminals, both for inland waterway traffic and for through traffic by water and rail, including the necessary docks, warehouses, and equipment, and investigate railroad spurs and switches connecting with those water terminals, to develop the types most appropriate for different locations and for transferring passengers or property between water carriers and rail carriers more expeditiously and economically;
+&emsp;(2) investigate water terminals, both for inland waterway traffic and for through traffic by water and rail, including the necessary docks, warehouses, and equipment, and investigate railroad spurs and switches connecting with those water terminals, to develop thetypes most appropriate for different locations and for transferring passengers or property between water carriers and rail carriers more expeditiously and economically;
 
 &emsp;(3) consult with communities, cities, and towns about the location of water terminals, and cooperate with them in preparing plans for terminal facilities;
 

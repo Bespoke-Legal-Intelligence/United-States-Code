@@ -36,5 +36,5 @@ The Clayton Act \[see References in Text note above\] is referred to in sections
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 34, 37a, 1291, 1311, 4002, 4021, 4301, 6211, 6701 of this title; title 12 sections 1831u, 1841; title 16 section 824k; title 17 section 109; title 19 sections 2033, 2561; title 28 section 1407; title 42 sections 7651b, 12007, 13271; title 46 App. section 885; title 47 section 303c; title 49 sections 13703, 13907, 14104, 40102, 41308, 41716.
+This section is referred to in sections 34, 37a, 1291, 1311, 4002, 4021, 4301, 6211, 6701 of this title; title 12 sections 1831u, 1841; title 16 section 824k; title 17 section 109; title 19 sections 2033, 2561; title 28 section 1407; title 42 sections 7651b, 12007, 13271; title 46 App. section 885; title 47 section 303c; title 49 sections 13703, 13907, 14104, 40102, 41308, 41720.
 

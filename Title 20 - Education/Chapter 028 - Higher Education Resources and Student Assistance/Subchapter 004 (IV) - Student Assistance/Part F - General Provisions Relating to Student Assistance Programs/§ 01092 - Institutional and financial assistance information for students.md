@@ -2,7 +2,7 @@
 
 #### (a) Information dissemination activities
 
-(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall carry out information dissemination activities for prospective and enrolled students (including those attending or planning to attend less than full time) regarding the institution and all financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. The information required by this section shall be produced and be made readily available upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student. Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 1232g of this title, together with a statement of the procedures required to obtain such information. The information required by this section shall accurately describe—
+(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall carry out information dissemination activities for prospective and enrolled students (includingthose attending or planning to attend less than full time) regarding the institution and all financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. The information required by this section shall be produced and be made readily available upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student. Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 1232g of this title, together with a statement of the procedures required to obtain such information. The information required by this section shall accurately describe—
 
 &emsp;(A) the student financial assistance programs available to students who enroll at such institution;
 
@@ -60,7 +60,7 @@
 
 #### (b) Exit counseling for borrowers
 
-(1)(A) Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B\(other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
+(1)(A) Each eligible institution shall, through financial aid officers or otherwise, make available counseling to borrowers of loans which are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–2 of this title) of this subchapter or made under part C or D of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
 
 &emsp;(i) the average anticipated monthly repayments, a review of the repayment options available, and such debt and management strategies as the institution determines are designed to facilitate the repayment of such indebtedness; and
 
@@ -92,7 +92,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (2) The Secretary, to the extent the information is available, shall compile information describing State and other prepaid tuition programs and savings programs and disseminate such information to States, eligible institutions, students, and parents in departmental publications.
 
-(3) The Secretary, to the extent practicable, shall update the Department's Internet site to include direct links to databases that contain information on public and private financial assistance programs. The Secretary shall only provide direct links to databases that can be accessed without charge and shall make reasonable efforts to verify that the databases included in a direct link are not providing fraudulent information. The Secretary shall prominently display adjacent to any such direct link a disclaimer indicating that a direct link to a database does not constitute an endorsement or recommendation of the database, the provider of the database, or any services or products of such provider. The Secretary shall provide additional direct links to information resources from which students may obtain information aboutfraudulent and deceptive practices in the provision of services related to student financial aid.
+(3) The Secretary, to the extent practicable, shall update the Department's Internet site to include direct links to databases that contain information on public and private financial assistance programs. The Secretary shall only provide direct links to databases that can be accessed without charge and shall make reasonable efforts to verify that the databases included in a direct link are not providing fraudulent information. The Secretary shall prominently display adjacent to any such direct link a disclaimer indicating that a direct link to a database does not constitute an endorsement or recommendation of the database, the provider of the database, or any services or products of such provider. The Secretary shall provide additional direct links to information resources from which students may obtain information about fraudulent and deceptive practices in the provision of services related to student financial aid.
 
 #### (e) Disclosures required with respect to athletically related student aid
 
@@ -132,7 +132,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (f) Disclosure of campus security policy and campus crime statistics
 
-(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall on August 1, 1991, begin to collect the following information with respect to campus crime statistics and campus security policies of that institution, and beginning September 1, 1992, and each year thereafter, prepare, publish, and distribute, through appropriate publications or mailings, to all current students and employees, and to any applicant for enrollment or employment upon request, an annual security report containing at least the following information with respect to the campus security policies and campus crime statistics of that institution:
+(1) Each eligible institution participating in any program under this subchapter and part C ofsubchapter I of chapter 34 of title 42 shall on August 1, 1991, begin to collect the following information with respect to campus crime statistics and campus security policies of that institution, and beginning September 1, 1992, and each year thereafter, prepare, publish, and distribute, through appropriate publications or mailings, to all current students and employees, and to any applicant for enrollment or employment upon request, an annual security report containing at least the following information with respect to the campus security policies and campus crime statistics of that institution:
 
 &emsp;(A) A statement of current campus policies regarding procedures and facilities for students and others to report criminal actions or other emergencies occurring on campus and policies concerning the institution's response to such reports.
 
@@ -190,7 +190,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (B)(i) All entries that are required pursuant to this paragraph shall, except where disclosure of such information is prohibited by law or such disclosure would jeopardize the confidentiality of the victim, be open to public inspection within two business days of the initial report being made to the department or a campus security authority.
 
-(ii) If new information about an entry into a log becomes available to a police or security department, then the new information shall be recorded in the log not later than two business days after the information becomes available to the police or security department.
+(ii) If new information about an entry into a log becomes available to a police or security department, then the new information shall be recorded in the log not later than two businessdays after the information becomes available to the police or security department.
 
 (iii) If there is clear and convincing evidence that the release of such information would jeopardize an ongoing criminal investigation or the safety of an individual, cause a suspect to flee or evade detection, or result in the destruction of evidence, such information may be withheld until that damage is no longer likely to occur from the release of such information.
 
@@ -318,7 +318,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (2) Special rule
 
-&emsp;For the purposes of subparagraph (G),<sup>2</sup> if a coach has responsibilities for more than one team and the institution does not allocate such coach's salary by team, the institution should divide the salary by the number ofteams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
+&emsp;For the purposes of subparagraph (G),<sup>2</sup> if a coach has responsibilities for more than one team and the institution does not allocate such coach's salary by team, the institution should divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
 
 #### (3) Disclosure of information to students and public
 
@@ -366,7 +366,7 @@ Another prior section 1092, Pub. L. 89–329, title V, §508, formerly §502, No
 
 1998—Subsec. (a)(1). Pub. L. 105–244, §486(a)(1)(B), in introductory provisions, inserted after second sentence “Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 1232g of this title, together with a statement of the procedures required to obtain such information.”
 
-Pub. L. 105–244, §486(a)(1)(A), in introductory provisions, substituted “upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student” for “, through appropriate publications and mailings, to all current students, and to any prospective student upon request”.
+Pub. L. 105–244, §486(a)(1)(A), in introductory provisions, substituted “upon request, through appropriatepublications, mailings, and electronic media, to an enrolled student and to any prospective student” for “, through appropriate publications and mailings, to all current students, and to any prospective student upon request”.
 
 Subsec. (a)(1)(F). Pub. L. 105–244, §486(a)(1)(C), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “a statement of the refund policy of the institution, as determined under section 1091b of this title, for the return of unearned tuition and fees or other refundable portion of cost, as described in subparagraph (E) of this paragraph, which refunds shall be credited in the following order:
 
@@ -468,7 +468,7 @@ Subsec. (e)(9). Pub. L. 105–18, §60001(a)(2), substituted “August 31” for
 
 Subsec. (a)(1)(F)(iv). Pub. L. 103–208, §2(h)(29), inserted “under” after “awards”.
 
-Subsec. (a)(1)(F)(vi). Pub. L. 103–208, §2(h)(32), redesignated cl. (vii) as (vi) and struck out former cl. (vi) which read as follows: “to awards under part C of subchapter I of chapter 34 of title 42,”.
+Subsec. (a)(1)(F)(vi). Pub. L. 103–208, §2(h)(32), redesignated cl. (vii) as (vi) and struck out former cl. (vi)which read as follows: “to awards under part C of subchapter I of chapter 34 of title 42,”.
 
 Subsec. (a)(1)(F)(vii). Pub. L. 103–208, §2(h)(32), redesignated cl. (viii) as (vii). Former cl. (vii) redesignated (vi).
 
@@ -570,7 +570,7 @@ Information dissemination.—No institution shall be required to comply with the
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -582,7 +582,7 @@ Section 486(c)(3) of Pub. L. 102–325 provided that: “The amendment made by t
 
 &emsp;“(B) in the report required on September 1, 1993, include statistics concerning the occurrence on campus of offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar year 1992;
 
-&emsp;“(C) in the report required on September 1, 1994, include statistics concerning the occurrence on campusof offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar years 1992 and 1993; and
+&emsp;“(C) in the report required on September 1, 1994, include statistics concerning the occurrence on campus of offenses during (i) the period from August 1, 1991, to December 31, 1991, and (ii) the calendar years 1992 and 1993; and
 
 &emsp;“(D) in the report required on September 1 of 1995 and each succeeding year, include statistics concerning the occurrence on campus of offenses during the three calendar years preceding the year in which the report is made.”
 
@@ -646,7 +646,7 @@ Section 202 of Pub. L. 101–542 provided that: “The Congress finds that—
 
 &emsp;“(1) the reported incidence of crime, particularly violent crime, on some college campuses has steadily risen in recent years;
 
-&emsp;“(2) although annual ‘National Campus Violence Surveys’ indicate that roughly 80 percent of campus crimes are committed by a student upon another student and that approximately 95 percent of the campus crimes that are violent are alcohol- or drug-related, there are currently no comprehensive data on campus crimes;
+&emsp;“(2) although annual ‘National Campus Violence Surveys’ indicate that roughly 80 percent of campus crimes are committed by a student upon another student and that approximately 95 percent of the campuscrimes that are violent are alcohol- or drug-related, there are currently no comprehensive data on campus crimes;
 
 &emsp;“(3) out of 8,000 postsecondary institutions participating in Federal student aid programs, only 352 colleges and universities voluntarily provide crime statistics directly through the Uniform Crime Report of the Federal Bureau of Investigation, and other institutions report data indirectly, through local police agencies or States, in a manner that does not permit campus statistics to be separated;
 

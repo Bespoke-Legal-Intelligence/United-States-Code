@@ -6,7 +6,7 @@ The actuarial report described in subsection (b) shall be filed by the plan admi
 
 #### (b) Actuarial report
 
-The actuarial report of a plan required by subsection (a) shall be prepared and signed by anenrolled actuary (within the meaning of section 7701(a)(35)) and shall contain—
+The actuarial report of a plan required by subsection (a) shall be prepared and signed by an enrolled actuary (within the meaning of section 7701(a)(35)) and shall contain—
 
 &emsp;(1) a description of the funding method and actuarial assumptions used to determine costs under the plan,
 
@@ -46,7 +46,7 @@ Requirements of section applicable only with respect to plan years to which part
 
 #### Consolidation of Actuarial Reports
 
-Section 1033(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of the Treasury and the Secretary of Labor shall take such steps as may be necessary to assure coordination to the maximum extent feasible between the actuarial reports required by section 6059 of the Internal Revenue Code of 1986 and by section 103(d) of title I of the Employee Retirement Income Security Act of 1974 \[section 1023(d) of Title 29, Labor\].”
+Section 1033(c) of Pub. L. 93–406, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of the Treasury and the Secretary of Labor shall take such steps as may be necessary to assure coordination to the maximum extent feasible between the actuarial reports required by section 6059 of the Internal Revenue Code of 1986 and by section 103(d)of title I of the Employee Retirement Income Security Act of 1974 \[section 1023(d) of Title 29, Labor\].”
 
 #### Section Referred to in Other Sections
 

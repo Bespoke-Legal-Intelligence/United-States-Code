@@ -104,11 +104,7 @@
 
 &emsp;For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §409D, as added Pub. L. 106–505, title II, §204(b), Nov. 13, 2000, 114 Stat. 2327.)
-
-#### Codification
-
-Another section 409D of act July 1, 1944, is classified to section 284h of this title.
+(July 1, 1944, ch. 373, title IV, §409H, formerly §409D, as added Pub. L. 106–505, title II, §204(b), Nov. 13, 2000, 114 Stat. 2327; renumbered §409H, Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408.)
 
 #### Section Referred to in Other Sections
 

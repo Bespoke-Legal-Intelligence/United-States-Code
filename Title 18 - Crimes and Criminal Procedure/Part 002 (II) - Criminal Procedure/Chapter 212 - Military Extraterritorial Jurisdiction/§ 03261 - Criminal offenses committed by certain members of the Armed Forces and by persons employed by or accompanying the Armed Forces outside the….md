@@ -26,5 +26,5 @@ Pub. L. 106–523, §1, Nov. 22, 2000, 114 Stat. 2488, provided that: “This Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3262, 3263, 3264, 3265 of this title.
+This section is referred to in sections 7, 3262, 3263, 3264, 3265 of this title.
 

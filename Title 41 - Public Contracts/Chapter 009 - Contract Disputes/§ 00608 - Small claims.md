@@ -22,7 +22,7 @@ Administrative determinations and final decisions under this section shall have 
 
 #### (f) Review of requisite amount in controversy
 
-The Administrator is authorized to review at least every three years, beginning with the third year after November 1, 1978, the dollar amount defined in subsection (a) of this section as a small claim, and based upon economic indexes selected by the Administrator adjust that level accordingly.
+The Administrator is authorized to review at least every three years, beginning with the thirdyear after November 1, 1978, the dollar amount defined in subsection (a) of this section as a small claim, and based upon economic indexes selected by the Administrator adjust that level accordingly.
 
 (Pub. L. 95–563, §9, Nov. 1, 1978, 92 Stat. 2387; Pub. L. 103–355, title II, §2351(d), Oct. 13, 1994, 108 Stat. 3322.)
 

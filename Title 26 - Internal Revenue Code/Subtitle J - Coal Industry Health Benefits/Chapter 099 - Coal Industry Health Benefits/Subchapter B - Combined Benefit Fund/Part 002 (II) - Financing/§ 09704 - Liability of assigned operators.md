@@ -70,7 +70,7 @@ The unassigned beneficiaries premium for any plan year for any assigned operator
 
 &emsp;&emsp;Subparagraph (A) shall not apply to any surplus in the health benefit premium account or the unassigned beneficiaries premium account which is attributable to—
 
-&emsp;&emsp;&emsp;(i) the excess of the premiums credited to such account for a plan year over the benefits (and administrative costs) debited to such account for the plan year, but such excess shall only be available for purposes of the carryover described in section 9703(b)(2)(C)(ii) (relating to carryovers of premiums not used to provide benefits), or
+&emsp;&emsp;&emsp;(i) the excess of the premiums credited to such account for a plan year over the benefits (and administrative costs) debited to such account for the plan year, but such excess shall only be available for purposes of the carryover described in section9703(b)(2)(C)(ii) (relating to carryovers of premiums not used to provide benefits), or
 
 &emsp;&emsp;&emsp;(ii) interest credited under paragraph (2)(B) for the plan year or any preceding plan year.
 
@@ -156,7 +156,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (3) Startup costs
 
-&emsp;The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall pay the costs of theCombined Fund incurred before February 1, 1993. For purposes of this section, such costs shall be treated as administrative expenses incurred for the plan year beginning February 1, 1993.
+&emsp;The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall pay the costs of the Combined Fund incurred before February 1, 1993. For purposes of this section, such costs shall be treated as administrative expenses incurred for the plan year beginning February 1, 1993.
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3042; amended Pub. L. 103–296, title I, §108(h)(9)(A), Aug. 15, 1994, 108 Stat. 1487.)
 

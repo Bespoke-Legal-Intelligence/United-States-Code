@@ -8,7 +8,7 @@ Combat Readiness.—(1) Periodically (and not less often than every two years), 
 
 &emsp;(B) any recommendations that the Chairman considers appropriate.
 
-(2) In preparing each such report, the Chairman shall review the plans of each such agency with respect to its support of operating forces in the event of a war or threat to national security. After consultation with the Secretaries of the military departments and the commanders of the unified and specified combatant commands, as appropriate, the Chairman may, with the approval of the Secretary of Defense, take steps to provide for any revision of those plans that the Chairman considers appropriate.
+(2) In preparing each such report, the Chairman shall review the plans of each such agency with respect to its support of operating forces in the event of a war or threat to national security. After consultation with the Secretaries of the military departments and the commanders of the unified and specified combatant commands, as appropriate, the Chairman may, withthe approval of the Secretary of Defense, take steps to provide for any revision of those plans that the Chairman considers appropriate.
 
 (b)
 

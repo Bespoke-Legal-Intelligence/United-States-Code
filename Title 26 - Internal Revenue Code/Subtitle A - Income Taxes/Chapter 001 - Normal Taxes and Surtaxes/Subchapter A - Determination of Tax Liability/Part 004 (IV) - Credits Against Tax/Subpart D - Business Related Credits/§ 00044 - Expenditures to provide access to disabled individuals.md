@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (3) Expenditures must be reasonable
 
-&emsp;Amounts paid or incurred for the purposes described in paragraph (2) shall include only expenditures which are reasonable and shallnot include expenditures which are unnecessary to accomplish such purposes.
+&emsp;Amounts paid or incurred for the purposes described in paragraph (2) shall include only expenditures which are reasonable and shall not include expenditures which are unnecessary to accomplish such purposes.
 
 #### (4) Expenses in connection with new construction are not eligible
 

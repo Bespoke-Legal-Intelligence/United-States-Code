@@ -8,7 +8,7 @@ Application.—This section applies only to aircraft not used to provide air tra
 
 Criminal Penalty.—A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if—
 
-&emsp;(1) the person knowingly and willfully operates an aircraft in violation of a regulation or requirement of the Administrator of the Federal Aviation Administration related to the display of navigation or anticollision lights;
+&emsp;(1) the person knowingly and willfully operates an aircraft in violation of a regulation orrequirement of the Administrator of the Federal Aviation Administration related to the display of navigation or anticollision lights;
 
 &emsp;(2) the person is knowingly transporting a controlled substance by aircraft or aiding or facilitating a controlled substance offense; and
 

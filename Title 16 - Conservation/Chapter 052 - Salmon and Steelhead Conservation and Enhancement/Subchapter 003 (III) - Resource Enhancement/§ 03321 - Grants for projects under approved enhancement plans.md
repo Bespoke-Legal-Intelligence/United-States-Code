@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Secretary of the Interior (hereinafter referred to in this subchapter as the “Secretary”), in consultation with the Secretary of Commerce, is authorized to establish a program to provide grants for projects for the enhancementof the salmon and steelhead resources of the Washington conservation area and the Columbia River conservation area.
+The Secretary of the Interior (hereinafter referred to in this subchapter as the “Secretary”), in consultation with the Secretary of Commerce, is authorized to establish a program to provide grants for projects for the enhancement of the salmon and steelhead resources of the Washington conservation area and the Columbia River conservation area.
 
 #### (b) Plans
 

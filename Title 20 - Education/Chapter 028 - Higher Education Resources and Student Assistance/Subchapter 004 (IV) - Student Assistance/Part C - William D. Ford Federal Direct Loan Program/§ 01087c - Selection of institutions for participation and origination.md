@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary shall enter into agreements pursuant to section 1087d(a) of this title with institutions of higher education to participate in the direct student loan program under this part, and agreements pursuant to section 1087d(b) of this title with institutions of higher education,or consortia thereof, to originate loans in such program, for academic years beginning on or after July 1, 1994. Alternative origination services, through which an entity other than the participating institution at which the student is in attendance originates the loan, shall be provided by the Secretary, through 1 or more contracts under section 1087f(b) of this title or such other means as the Secretary may provide, for students attending participating institutions that do not originate direct student loans under this part. Such agreements for the academic year 1994–1995 shall, to the extent feasible, be entered into not later than January 1, 1994.
+The Secretary shall enter into agreements pursuant to section 1087d(a) of this title with institutions of higher education to participate in the direct student loan program under this part, and agreements pursuant to section 1087d(b) of this title with institutions of higher education, or consortia thereof, to originate loans in such program, for academic years beginning on or after July 1, 1994. Alternative origination services, through which an entity other than the participating institution at which the student is in attendance originates the loan, shall be provided by the Secretary, through 1 or more contracts under section 1087f(b) of this title or such other means as the Secretary may provide, for students attending participating institutions that do not originate direct student loans under this part. Such agreements for the academic year 1994–1995 shall, to the extent feasible, be entered into not later than January 1, 1994.
 
 #### (b) Selection criteria
 
@@ -54,7 +54,7 @@ The Secretary may not select an institution of higher education for participatio
 
 Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d) of this section) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) of this section with respect to loan origination.
 
-(Pub. L. 89–329, title IV, §453, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 342; Pub. L. 103–208, §2(e), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §451, Oct. 7, 1998, 112 Stat. 1715.)
+(Pub. L. 89–329, title IV, §453, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021,Aug. 10, 1993, 107 Stat. 342; Pub. L. 103–208, §2(e), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §451, Oct. 7, 1998, 112 Stat. 1715.)
 
 #### Codification
 
@@ -72,7 +72,7 @@ Subsec. (b)(2). Pub. L. 105–244, §451(b), substituted “prescribe.” for �
 
 &emsp;“(A)(i) categorizing such institutions according to anticipated loan volume, length of academic program, control of the institution, highest degree offered, size of student enrollment, geographic location, annual loan volume, and default experience; and
 
-&emsp;“(ii) beginning in academic year 1995–1996 selecting institutions that are reasonably representative ofeach of the categories described pursuant to clause (i); and
+&emsp;“(ii) beginning in academic year 1995–1996 selecting institutions that are reasonably representative of each of the categories described pursuant to clause (i); and
 
 &emsp;“(B) if the Secretary determines it necessary in order to carry out the purposes of subparagraph (A) and attain such reasonable representation (as required by subparagraph (A)), selecting additional institutions.”
 

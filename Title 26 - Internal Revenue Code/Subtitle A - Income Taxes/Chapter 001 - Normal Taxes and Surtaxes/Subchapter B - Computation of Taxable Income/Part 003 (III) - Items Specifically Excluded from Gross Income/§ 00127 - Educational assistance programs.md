@@ -48,7 +48,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the provision, by an employer, of courses of instruction for such employee (including books, supplies, and equipment),
 
-> &emsp;but does not include payment for, or the provision of, tools or supplies which may be retained by the employee after completion of a course of instruction, or meals, lodging, or transportation. The term “educational assistance” also does not include any payment for, or the provision of any benefits with respect to, any course or other education involving sports, games, or hobbies, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree.
+> &emsp;but does not include payment for, or the provision of, tools or supplies which may be retained by the employee after completion of a course of instruction, or meals, lodging, or transportation. The term “educational assistance” also does not include any payment for, or the provision of any benefits with respect to, any course or other education involving sports, games, or hobbies.
 
 #### (2) Employee
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (B) Interest in unincorporated trade or business
 
-&emsp;&emsp;The interest of an employee in a trade or business which is not incorporated shall be determined in accordance with regulations prescribed by the Secretary, which shall bebased on principles similar to the principles which apply in the case of subparagraph (A).
+&emsp;&emsp;The interest of an employee in a trade or business which is not incorporated shall be determined in accordance with regulations prescribed by the Secretary, which shall be based on principles similar to the principles which apply in the case of subparagraph (A).
 
 #### (5) Certain tests not applicable
 
@@ -84,21 +84,25 @@ For purposes of this section—
 
 &emsp;No deduction or credit shall be allowed to the employee under any other section of this chapter for any amount excluded from income by reason of this section.
 
-#### (d) Termination
-
-This section shall not apply to expenses paid with respect to courses beginning after December 31, 2001.
-
-#### (e) Cross reference
+#### (d) Cross reference
 
 &emsp;&emsp;<b>For reporting and recordkeeping requirements, see section 6039D.</b>
 
-(Added Pub. L. 95–600, title I, §164(a), Nov. 6, 1978, 92 Stat. 2811; amended Pub. L. 98–611, §1(a)–(c), (d)(3)(B), (e), Oct. 31, 1984, 98 Stat. 3176–3178; Pub. L. 99–514, title XI, §§1114(b)(4), 1151(c)(4), (g)(3), 1162(a), Oct. 22, 1986, 100 Stat. 2450, 2503, 2507, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(a)(1), 7814(a), Dec. 19, 1989, 103 Stat. 2304, 2413; Pub. L. 101–508, title XI, §11403(a), (b), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §103(a)(1), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13101(a)(1), Aug. 10, 1993, 107 Stat. 420; Pub. L. 104–188, title I, §1202(a), (b), Aug. 20, 1996, 110 Stat. 1772, 1773; Pub. L. 105–34, title II, §221(a), Aug. 5, 1997, 111 Stat. 818; Pub. L. 106–170, title V, §506(a), Dec. 17, 1999, 113 Stat. 1922.)
+(Added Pub. L. 95–600, title I, §164(a), Nov. 6, 1978, 92 Stat. 2811; amended Pub. L. 98–611, §1(a)–(c), (d)(3)(B), (e), Oct. 31, 1984, 98 Stat. 3176–3178; Pub. L. 99–514, title XI, §§1114(b)(4), 1151(c)(4), (g)(3), 1162(a), Oct. 22, 1986, 100 Stat. 2450, 2503, 2507, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(a)(1), 7814(a), Dec. 19, 1989, 103 Stat. 2304, 2413; Pub. L. 101–508, title XI, §11403(a), (b), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §103(a)(1), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13101(a)(1), Aug. 10, 1993, 107 Stat. 420; Pub. L. 104–188, title I, §1202(a), (b), Aug. 20, 1996, 110 Stat. 1772, 1773; Pub. L. 105–34, title II, §221(a), Aug. 5, 1997, 111 Stat. 818; Pub. L. 106–170, title V, §506(a), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 107–16, title IV, §411(a), (b), June 7, 2001, 115 Stat. 63.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
-A prior section 127 was renumbered section 139 of this title.
+A prior section 127 was renumbered section 140 of this title.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–16, §§411(b), 901, temporarily struck out before period at end “, and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsecs. (d), (e). Pub. L. 107–16, §§411(a), 901, temporarily redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “This section shall not apply to expenses paid with respect to courses beginning after December 31, 2001.” See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1999</b>—Subsec. (d). Pub. L. 106–170 substituted “December 31, 2001” for “May 31, 2000”.
 
@@ -140,7 +144,7 @@ Subsec. (d). Pub. L. 100–647, §4001(a), substituted “1988” for “1987”
 
 Subsec. (b)(1). Pub. L. 99–514, §1151(c)(4)(A), added par. (1) and struck out former par (1) which read as follows: “For purposes of this section an educational assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with educational assistance. The program must meet the requirements of paragraphs (2) through (6) of this subsection.”
 
-Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted “For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h).” for “For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by anagreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.”
+Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted “For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h).” for “For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers.”
 
 Pub. L. 99–514, §1114(b)(4), substituted “highly compensated employees (within the meaning of section 414(q))” for “officers, owners, or highly compensated,”.
 
@@ -159,6 +163,12 @@ Subsec. (c)(8). Pub. L. 98–611, §1(c), added par. (8).
 Subsec. (d). Pub. L. 98–611, §1(a), substituted “December 31, 1985” for “December 31, 1983”.
 
 Subsec. (e). Pub. L. 98–611, §1(d)(3)(B), added subsec. (e).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable with respect to expenses relating to courses beginning after Dec. 31, 2001, see section 411(d) of Pub. L. 107–16, set out as a note under section 51A of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 

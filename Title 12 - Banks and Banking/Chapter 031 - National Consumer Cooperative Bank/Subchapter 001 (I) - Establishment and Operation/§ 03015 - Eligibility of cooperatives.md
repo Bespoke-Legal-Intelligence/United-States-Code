@@ -2,7 +2,7 @@
 
 #### (a) General requirements
 
-For the purpose of all subchapters of this chapter, subject to the limitations of subsection\(d) of this section, an eligible cooperative is an organization chartered or operated on a cooperative, not-for-profit basis for producing or furnishing goods, services or facilities, primarily for the benefit of its members or voting stockholders who are ultimate consumers of such goods, services, or facilities, or a legally chartered entity primarily owned and controlled by any such organization or organizations, if it—
+For the purpose of all subchapters of this chapter, subject to the limitations of subsection (d) of this section, an eligible cooperative is an organization chartered or operated on a cooperative, not-for-profit basis for producing or furnishing goods, services or facilities, primarily for the benefit of its members or voting stockholders who are ultimate consumers of such goods, services, or facilities, or a legally chartered entity primarily owned and controlled by any such organization or organizations, if it—
 
 &emsp;(1) makes such goods, services or facilities directly or indirectly available to its members or voting stockholders on a not-for-profit basis;
 

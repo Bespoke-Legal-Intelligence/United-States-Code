@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) Improperly encouraging such aliens to withdraw their applications for admission.
 
-&emsp;&emsp;(B) Incorrectly failing to refer such aliens for an interview by an asylum officer for a determination of whether they have a credible fear of persecution (within the meaning of section 1225(b)(1)(B)(v) of title 8).
+&emsp;&emsp;(B) Incorrectly failing to refer such aliens for an interview by an asylum officer for adetermination of whether they have a credible fear of persecution (within the meaning of section 1225(b)(1)(B)(v) of title 8).
 
 &emsp;&emsp;(C) Incorrectly removing such aliens to a country where they may be persecuted.
 

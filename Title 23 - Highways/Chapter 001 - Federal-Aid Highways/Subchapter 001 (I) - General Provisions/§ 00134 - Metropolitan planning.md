@@ -64,7 +64,7 @@ Procedures.—A metropolitan planning organization may be redesignated by agreem
 
 &emsp;&emsp;(B)
 
-Certain requests to redesignate.—A metropolitan planning organization shall be redesignated upon request of a unit or units of general purpose local government representing at least 25 percent of the affected population (including the central city or cities as defined by the Bureau of the Census) in any urbanized area (i) whose population is more than 5,000,000 but less than 10,000,000, or (ii) which is an extreme nonattainment area for ozone or carbon monoxide as defined under the Clean Air Act. Such redesignation shall be accomplished using procedures established by subparagraph (A).
+Certain requests to redesignate.—A metropolitan planning organization shall be redesignated upon request of a unit or units of general purpose local government representing at least 25 percent of the affected population (including the central city or cities as defined by the Bureau of the Census) in any urbanized area (i) whose population is more than 5,000,000 but less than 10,000,000,or (ii) which is an extreme nonattainment area for ozone or carbon monoxide as defined under the Clean Air Act. Such redesignation shall be accomplished using procedures established by subparagraph (A).
 
 &emsp;(6)
 
@@ -152,7 +152,7 @@ Representation.—The policy board of a metropolitan planning organization desig
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Funding.—In addition to funds made available to the metropolitan planning organization under other provisions of this title and under chapter 53 of title 49, not more than 1 percent of the funds allocated under section 202 may be used to carry out the transportation planningprocess for the Lake Tahoe region under this subparagraph.
+Funding.—In addition to funds made available to the metropolitan planning organization under other provisions of this title and under chapter 53 of title 49, not more than 1 percent of the funds allocated under section 202 may be used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph.
 
 &emsp;&emsp;(D)
 
@@ -434,7 +434,7 @@ Withholding of funds.—If a metropolitan planning process is not certified, the
 
 &emsp;&emsp;&emsp;(ii)
 
-Restoration of withheld funds.—The withheld apportionments shall be restored to the metropolitan area at such time as the metropolitan planning organization is certified by the Secretary.
+Restoration of withheld funds.—The withheld apportionments shall be restored to the metropolitan area at suchtime as the metropolitan planning organization is certified by the Secretary.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -504,9 +504,9 @@ The date of enactment of this paragraph, referred to in subsec. (c)(3), (4), is 
 
 Public Law 96–551, referred to in subsec. (d)(3)(A), is Pub. L. 96–551, Dec. 19, 1980, 94 Stat. 3233, which is not classified to the Code.
 
-The Federal-Aid Highway Act of 1991, referred to in subsec. (k), was not enacted into law. However, provisions referred to as the Federal-Aid Highway Act of1991 were contained in several bills and are similar to those appearing in part A of title I of Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, which Act is known as the Intermodal Surface Transportation Efficiency Act of 1991. For classification of that Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
+The Federal-Aid Highway Act of 1991, referred to in subsec. (k), was not enacted into law. However, provisions referred to as the Federal-Aid Highway Act of 1991 were contained in several bills and are similar to those appearing in part A of title I of Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, which Act is known as the Intermodal Surface Transportation Efficiency Act of 1991. For classification of that Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally tochapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
@@ -598,11 +598,11 @@ Subsecs. (<i>l</i>), (m). Pub. L. 103–429, §3(5)(C), substituted “chapter 5
 
 Subsecs. (b), (c). Pub. L. 95–599, §169(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1970—Pub. L. 91–605 designated existing provisions as subsec. (a), inserted provision prohibiting a highway construction project in any urban area of 50,000 or morepopulation unless responsible public officials of such area have been consulted and their views considered with respect to the corridor, the location, and the design of the project, and added subsec. (b).
+1970—Pub. L. 91–605 designated existing provisions as subsec. (a), inserted provision prohibiting a highway construction project in any urban area of 50,000 or more population unless responsible public officials of such area have been consulted and their views considered with respect to the corridor, the location, and the design of the project, and added subsec. (b).
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day beforeJuly 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 

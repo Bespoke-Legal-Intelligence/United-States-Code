@@ -78,7 +78,7 @@ Exemption for Nonprofit Libraries, Archives, and Educational Institutions.—(1)
 
 &emsp;(B) shall, for repeated or subsequent offenses, in addition to the civil remedies under section 1203, forfeit the exemption provided under paragraph (1).
 
-(4) This subsection may not be used as a defense to a claim under subsection (a)(2) or (b),nor may this subsection permit a nonprofit library, archives, or educational institution to manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, component, or part thereof, which circumvents a technological measure.
+(4) This subsection may not be used as a defense to a claim under subsection (a)(2) or (b), nor may this subsection permit a nonprofit library, archives, or educational institution to manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, component, or part thereof, which circumvents a technological measure.
 
 (5) In order for a library or archives to qualify for the exemption under this subsection, the collections of that library or archives shall be—
 
@@ -268,7 +268,7 @@ Definitions.—For purposes of this subsection:
 
 &emsp;&emsp;(C) An analog video cassette recorder “conforms” to the automatic gain control copy control technology if it—
 
-&emsp;&emsp;&emsp;(i) detects one or more of the elements of such technology and does not record themotion picture or transmission protected by such technology; or
+&emsp;&emsp;&emsp;(i) detects one or more of the elements of such technology and does not record the motion picture or transmission protected by such technology; or
 
 &emsp;&emsp;&emsp;(ii) records a signal that, when played back, exhibits a meaningfully distorted or degraded display.
 

@@ -28,7 +28,7 @@ The Congress hereby finds and declares that—
 
 (3) Notwithstanding any other provision of law—
 
-&emsp;(A) the Secretary of Housing and Urban Affairs is authorized to transfer funds appropriated under the Housing and Community Development Act of 1974 (42 U.S.C. 5301, et seq.) to the Secretary of Health and Human Services, and
+&emsp;(A) the Secretary of Housing and Urban Affairs is authorized to transfer funds appropriated under the Housing and Community Development Act of 1974 (42 U.S.C. 5301, et seq.)to the Secretary of Health and Human Services, and
 
 &emsp;(B) the Secretary of Health and Human Services is authorized to accept and use such funds for the purpose of providing sanitation facilities and services for Indians under section 2004a of title 42.
 
@@ -72,7 +72,7 @@ Programs administered by Indian tribes or tribal organizations under the authori
 
 &emsp;(E) the amount of funds necessary to raise all Indian tribes and communities to zero sanitation deficiency.
 
-(2) In preparing each report required under paragraph (1) (other than the initial report), theSecretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]) to determine the sanitation needs of each tribe.
+(2) In preparing each report required under paragraph (1) (other than the initial report), the Secretary shall consult with Indian tribes and tribal organizations (including those tribes or tribal organizations operating health care programs or facilities under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\]) to determine the sanitation needs of each tribe.
 
 (3) The methodology used by the Secretary in determining sanitation deficiencies for purposes of paragraph (1) shall be applied uniformly to all Indian tribes and communities.
 

@@ -22,5 +22,5 @@ Mandatory punishment provision was rephrased in the alternative.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 115, 930, 1114, 1116, 1119, 5032 of this title; title 49 section 46506.
+This section is referred to in sections 115, 930, 1114, 1116, 1119, 5032 of this title; title 42 section 14135a; title 49 section 46506.
 

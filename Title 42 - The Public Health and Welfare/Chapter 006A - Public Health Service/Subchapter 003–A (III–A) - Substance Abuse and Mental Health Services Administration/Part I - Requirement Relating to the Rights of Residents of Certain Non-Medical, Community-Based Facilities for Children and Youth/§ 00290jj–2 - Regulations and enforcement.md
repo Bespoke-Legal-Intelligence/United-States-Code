@@ -14,7 +14,7 @@ Not later than 6 months after October 17, 2000, the Secretary, after consultatio
 
 The regulations promulgated under subsection (a) of this section shall require—
 
-&emsp;(1) that facilities described in subsection (a) of this section ensure that there is an adequate number of qualified professional and supportive staff to evaluate residents, formulate written individualized, comprehensive treatment plans, and to provide active treatment measures;
+&emsp;(1) that facilities described in subsection (a) of this section ensure that there is an adequate number of qualified professional and supportive staff to evaluate residents, formulate written individualized, comprehensivetreatment plans, and to provide active treatment measures;
 
 &emsp;(2) the provision of appropriate training and certification of the staff of such facilities in the prevention and use of physical restraint and seclusion, including the needs and behaviors of the population served, relationship building, alternatives to restraint, de-escalation methods, avoiding power struggles, thresholds for restraints, the physiological impact of restraint and seclusion, monitoring physical signs of distress and obtaining medical assistance, legal issues, position asphyxia, escape and evasion techniques, time limits for the use of restraint and seclusion, the process for obtaining approval for continued restraints and seclusion, procedures to address problematic restraints, documentation, processing with children, and follow-up with staff, and investigation of injuries and complaints; and
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, act May 11, 1922, ch. 185, 42 Stat. 532, which provided that powers conferred prior to May 11, 1922,and the duties imposed by law on the Bureau of Markets, Bureau of Markets and Crop Estimates, and the Office of Farm Management and Farms Economics of the Department of Agriculture shall be exercised and performed by the Bureau of Agricultural Economics, was omitted from the Code as executed and obsolete.
+Section, act May 11, 1922, ch. 185, 42 Stat. 532, which provided that powers conferred prior to May 11, 1922, and the duties imposed by law on the Bureau of Markets, Bureau of Markets and Crop Estimates, and the Office of Farm Management and Farms Economics of the Department of Agriculture shall be exercised and performed by the Bureau of Agricultural Economics, was omitted from the Code as executed and obsolete.
 
 All functions of all officers, agencies and employees of the Department of Agriculture were transferred, with certain exceptions, to the Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 

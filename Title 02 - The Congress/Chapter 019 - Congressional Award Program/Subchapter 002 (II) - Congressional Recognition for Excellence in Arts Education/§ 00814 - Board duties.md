@@ -92,7 +92,7 @@ The Board shall establish and administer an awards program to be known as the â€
 
 #### (c) Presentation
 
-The Board shall arrange for the presentation of awards under this section to the recipientsand shall provide for participation by Members of Congress in such presentation, when appropriate.
+The Board shall arrange for the presentation of awards under this section to the recipients and shall provide for participation by Members of Congress in such presentation, when appropriate.
 
 #### (d) Date of announcement
 

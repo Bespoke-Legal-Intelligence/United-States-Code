@@ -2,7 +2,7 @@
 
 #### (a) Agreements to establish and operate fund authorized
 
-The Secretary is authorized to enter into an agreement for the establishment and operation of a student loan fund in accordance with this part <sup>1</sup> with any public or nonprofit private school of nursing which is located in a State.
+The Secretary is authorized to enter into an agreement for the establishment and operationof a student loan fund in accordance with this part <sup>1</sup> with any public or nonprofit private school of nursing which is located in a State.
 
 #### (b) Provisions of agreements
 
@@ -10,7 +10,7 @@ Each agreement entered into under this section shall—
 
 &emsp;(1) provide for establishment of a student loan fund by the school;
 
-&emsp;(2) provide for deposit in the fund, except as provided in section 297h of this title, of (A) the Federal capital contributions paid from allotments under section 297d of this title to the school by the Secretary, (B) an additionalamount from other sources equal to not less than one-ninth of such Federal capital contributions, (C) collections of principal and interest on loans made from the fund, (D) collections pursuant to section 297b(f) of this title, and (E) any other earnings of the fund;
+&emsp;(2) provide for deposit in the fund, except as provided in section 297h of this title, of (A) the Federal capital contributions paid from allotments under section 297d of this title to the school by the Secretary, (B) an additional amount from other sources equal to not less than one-ninth of such Federal capital contributions, (C) collections of principal and interest on loans made from the fund, (D) collections pursuant to section 297b(f) of this title, and (E) any other earnings of the fund;
 
 &emsp;(3) provide that the fund, except as provided in section 297h of this title, shall be used only for loans to students of the school in accordance with the agreement and for costs of collection of such loans and interest thereon;
 
@@ -70,7 +70,7 @@ Subsec. (c)(3)(D)(ii). Pub. L. 99–129, §209(j)(2)(B), struck out “first” 
 
 1975—Subsec. (a). Pub. L. 94–63, §941(h)(1), (2), substituted “subpart” for “part” and struck out “of Health, Education, and Welfare” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substituted “from allotments under section 297d of this title” for “under this part”, in cl. (4) substituted “October 1, 1978” for “July 1, 1975”, and in cls. (2) and (3) substituted references to sections 836 and 841 of the Act for references to sections 823 and 829, which had previously been translated as sections 297b and 297h of this title, respectively, requiring no further translations in the text as a result of the renumbering of the Public Health Service Act.
+Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substituted “from allotments under section 297d of this title” for “under this part”, in cl. (4) substituted“October 1, 1978” for “July 1, 1975”, and in cls. (2) and (3) substituted references to sections 836 and 841 of the Act for references to sections 823 and 829, which had previously been translated as sections 297b and 297h of this title, respectively, requiring no further translations in the text as a result of the renumbering of the Public Health Service Act.
 
 1974—Subsec. (b)(4). Pub. L. 93–385 substituted “1975” for “1974”.
 
@@ -78,7 +78,7 @@ Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substitu
 
 1968—Subsec. (b)(2). Pub. L. 90–490, §222(a)(1), (c)(2), inserted “, except as provided in section 297h of this title,” after “fund” where first appearing and added cl. (D) and redesignated former cl. (D) as (E), respectively.
 
-Subsec. (b)(3). Pub. L. 90–490, §222(a)(1), inserted “, except as provided in section 297h of this title” after“fund” where first appearing and authorized the cancellation of an additional 50 per centum of a nursery student loan.
+Subsec. (b)(3). Pub. L. 90–490, §222(a)(1), inserted “, except as provided in section 297h of this title” after “fund” where first appearing and authorized the cancellation of an additional 50 per centum of a nursery student loan.
 
 Subsec. (b)(4). Pub. L. 90–490, §222(a)(2), substituted “1971” for “1969”.
 

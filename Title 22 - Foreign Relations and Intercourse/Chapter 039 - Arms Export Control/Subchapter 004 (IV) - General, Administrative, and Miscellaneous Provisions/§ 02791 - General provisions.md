@@ -50,7 +50,7 @@ The President shall, to the maximum extent possible and consistent with the purp
 
 1994—Subsec. (a). Pub. L. 103–236 designated existing provisions as par. (1), redesignated former cls. (1) to (3) as cls. (A) to (C), respectively, amended cl. (C) generally, and added par. (2). Prior to being amended generally, cl. (C) read as follows: “in coordination with the Director of the United States Arms Control and Disarmament Agency, the Director's opinion as to the extent to which such sale might contribute to an arms race, or increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements.”
 
-1986—Subsec. (e)(1), (3). Pub. L. 99–661 repealed section 1102(a)(4) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
+1986—Subsec. (e)(1), (3). Pub. L. 99–661 repealed section 1102(a)(4) of Pub. L. 99–145 and the amendments made by that section, and provided that this sectionshall apply as if that section had never been enacted. See 1985 Amendments note below.
 
 1985—Subsec. (e)(1), (3). Pub. L. 99–83 inserted reference to contracts under section 2767(d) of this title.
 

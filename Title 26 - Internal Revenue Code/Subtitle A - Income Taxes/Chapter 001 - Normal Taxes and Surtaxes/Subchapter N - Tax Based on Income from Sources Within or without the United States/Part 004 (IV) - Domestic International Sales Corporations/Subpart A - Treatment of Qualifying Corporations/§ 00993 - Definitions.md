@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) gross receipts from the sale, exchange, or other disposition of qualified export assets (other than export property),
 
-&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respectto stock of a related foreign export corporation (as defined in subsection (e)),
+&emsp;&emsp;(E) dividends (or amounts includible in gross income under section 951) with respect to stock of a related foreign export corporation (as defined in subsection (e)),
 
 &emsp;&emsp;(F) interest on any obligation which is a qualified export asset,
 
@@ -44,7 +44,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;(1) export property (as defined in subsection (c));
 
-&emsp;(2) assets used primarily in connection with the sale, lease, rental, storage, handling, transportation, packaging, assembly, or servicing of export property, or the performance of engineering or architectural services described in subparagraph (G) of subsection (a)(1) or managerial services in furtherance of the production of qualified export receipts described in subparagraphs (A), (B), (C), and (G) of subsection (a)(1);
+&emsp;(2) assets used primarily in connection with the sale, lease, rental, storage, handling, transportation, packaging, assembly, or servicing of export property, or the performance ofengineering or architectural services described in subparagraph (G) of subsection (a)(1) or managerial services in furtherance of the production of qualified export receipts described in subparagraphs (A), (B), (C), and (G) of subsection (a)(1);
 
 &emsp;(3) accounts receivable and evidences of indebtedness which arise by reason of transactions of such corporation or of another corporation which is a DISC and which is a member of a controlled group which includes such corporation described in subparagraph (A), (B), (C), (D), (G), or (H), of subsection (a)(1);
 
@@ -110,7 +110,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 #### (2) Limitation
 
-&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent that such loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, does not exceed an amount determined by multiplying the sum of—
+&emsp;An obligation shall be treated as arising out of a producer's loan only to the extent thatsuch loan, when added to the unpaid balance of all other producer's loans to the borrower outstanding at the time such loan is made, does not exceed an amount determined by multiplying the sum of—
 
 &emsp;&emsp;(A) the amount of the borrower's adjusted basis determined at the beginning of the borrower's taxable year in which the loan is made, in plant, machinery, and equipment, and supporting production facilities in the United States;
 
@@ -206,7 +206,7 @@ Sections 3(2)(C) and 7(a) of the Export Administration Act of 1979, referred to 
 
 #### Amendments
 
-<b>1993</b>—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), theterm ‘unprocessed timber’ means any log, cant, or similar form of timber.”
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–66, §13239(b)(2), inserted at end “For purposes of subparagraph (E), the term ‘unprocessed timber’ means any log, cant, or similar form of timber.”
 
 Subsec. (c)(2)(E). Pub. L. 103–66, §13239(b)(1), added subpar. (E).
 

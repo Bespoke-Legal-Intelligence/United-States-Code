@@ -4,7 +4,7 @@
 
 General Rule.—No person may use, in connection with, or as a part of, any advertisement, solicitation, business activity, or product, whether alone or with other words, letters, symbols, or emblems—
 
-&emsp;(1) the words “Department of the Treasury”, or the name of any service, bureau, office, or other subdivision of the Department of the Treasury,
+&emsp;(1) the words “Department of the Treasury”, or the name of any service, bureau, office, orother subdivision of the Department of the Treasury,
 
 &emsp;(2) the titles “Secretary of the Treasury” or “Treasurer of the United States” or the title of any other officer or employee of the Department of the Treasury,
 

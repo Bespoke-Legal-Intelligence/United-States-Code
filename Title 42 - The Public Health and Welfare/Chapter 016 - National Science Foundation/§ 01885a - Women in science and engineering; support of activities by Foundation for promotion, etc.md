@@ -20,7 +20,7 @@ The Foundation is authorized to—
 
 > &emsp;to acquire new knowledge, techniques, and skills in scientific and engineering fields;
 
-&emsp;(4) undertake a comprehensive research program designed to increase public understanding of (A) the potential contribution of womenin science and engineering and (B) the means to facilitate the participation and advancement of women in scientific and engineering careers;
+&emsp;(4) undertake a comprehensive research program designed to increase public understanding of (A) the potential contribution of women in science and engineering and (B) the means to facilitate the participation and advancement of women in scientific and engineering careers;
 
 &emsp;(5) establish a visiting women scientists and engineers program;
 
@@ -92,7 +92,7 @@ Pub. L. 105–255, Oct. 14, 1998, 112 Stat. 1889, provided that:
 
 &emsp;&emsp;“(H) Blacks, Hispanics, and Native Americans continue to be seriously underrepresented in graduate science and engineering programs; and
 
-&emsp;&emsp;“(I) Blacks, Hispanics, and Native Americans as a group are 23 percent of the population of the United States, but only 6 percent are scientists or engineers.
+&emsp;&emsp;“(I) Blacks, Hispanics, and Native Americans as a group are 23 percent of the population of the UnitedStates, but only 6 percent are scientists or engineers.
 
 &emsp;“(2) According to the National Research Council's 1995 report, Women Scientists and Engineers Employed in Industry: Why So Few?—
 
@@ -110,7 +110,7 @@ Pub. L. 105–255, Oct. 14, 1998, 112 Stat. 1889, provided that:
 
 &emsp;&emsp;“(C) to sensitize employers to the need to recruit and retain women and minority scientists, engineers, and computer specialists; and
 
-&emsp;&emsp;“(D) to encourage the replication of successful recruitment and retention programs by universities,corporations, and Federal agencies having difficulties in employing women or minorities in the fields of science, engineering, and technology.
+&emsp;&emsp;“(D) to encourage the replication of successful recruitment and retention programs by universities, corporations, and Federal agencies having difficulties in employing women or minorities in the fields of science, engineering, and technology.
 
 #### “SEC. 3. ESTABLISHMENT.
 
@@ -226,7 +226,7 @@ Staff.—The Commission may appoint and fix the pay of additional personnel as t
 
 “(c)
 
-Applicability of Certain Civil Service Laws.—The Director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard tothe provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of the maximum annual rate of basic pay payable under section 5376 of title 5, United States Code.
+Applicability of Certain Civil Service Laws.—The Director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates, except that an individual so appointed may not receive pay in excess of the maximum annual rate of basic pay payable under section 5376 of title 5, United States Code.
 
 “(d)
 
@@ -330,7 +330,7 @@ Pub. L. 99–383, §8, Aug. 21, 1986, 100 Stat. 815, provided that:
 
 &emsp;“(4) identify exemplary State, local, or private sector programs designed to promote such employment; and
 
-&emsp;“(5) develop a long-range plan to advance opportunities for women, minorities, and the handicapped in Federal scientific and technical positions in federally assisted research, and to coordinate the activities of participating agencies with the Committee on Equal Opportunities in Science and Engineering established by section 36 of the National Science Foundation Authorization and Science and Technology Equal Opportunities Act (42 U.S.C. 1885c), after the termination of the task force established by this section.
+&emsp;“(5) develop a long-range plan to advance opportunities for women, minorities, and the handicapped in Federal scientific and technical positions in federally assisted research, and to coordinate the activities of participating agencies with the Committee on Equal Opportunities in Science and Engineering established by section 36 of the National Science Foundation Authorization and Science and Technology Equal Opportunities Act \[now the National Science Foundation Authorization and Science and Engineering Equal Opportunities Act\] (42 U.S.C. 1885c), after the termination of the task force established by this section.
 
 “(b) For purposes of this section, the term ‘participating agency’ means—
 

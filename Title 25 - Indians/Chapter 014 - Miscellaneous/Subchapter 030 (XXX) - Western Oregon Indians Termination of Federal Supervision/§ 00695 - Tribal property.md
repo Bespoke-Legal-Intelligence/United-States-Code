@@ -2,7 +2,7 @@
 
 #### (a) Procedure for transfer
 
-Upon request of a tribe, the Secretary is authorized within two years from August 13, 1954, to transfer to a corporation or other legal entity organized by the tribe in a form satisfactory to the Secretary title to all or any part of the tribal property, real and personal, or to transfer to one or more trustees designated by the tribe and approved by the Secretary, title to all or any part of such property to be held in trust for management or liquidation purposes under such terms and conditions as may be specified by the tribe and approved by the Secretary, or to sell all or any part of such property and make a pro rata distribution of the proceeds of sale among the members of the tribe after deducting, in his discretion, reasonable costs of sale and distribution.
+Upon request of a tribe, the Secretary is authorized within two years from August 13, 1954,to transfer to a corporation or other legal entity organized by the tribe in a form satisfactory to the Secretary title to all or any part of the tribal property, real and personal, or to transfer to one or more trustees designated by the tribe and approved by the Secretary, title to all or any part of such property to be held in trust for management or liquidation purposes under such terms and conditions as may be specified by the tribe and approved by the Secretary, or to sell all or any part of such property and make a pro rata distribution of the proceeds of sale among the members of the tribe after deducting, in his discretion, reasonable costs of sale and distribution.
 
 #### (b) Property not transferred in accordance with recognized procedure; election to retain property
 

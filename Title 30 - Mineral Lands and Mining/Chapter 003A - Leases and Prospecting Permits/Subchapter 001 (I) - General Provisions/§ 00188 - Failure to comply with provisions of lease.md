@@ -26,7 +26,7 @@ Where any lease has been or is hereafter terminated automatically by operation o
 
 &emsp;&emsp;(i) the lessee tendered rental prior to January 12, 1983, and the final determination that the lease terminated was made by the Secretary or a court less than three years before January 12, 1983, and
 
-&emsp;&emsp;(ii) a petition for reinstatement together with the required back rental and royaltyaccruing from the date of termination, is filed with the Secretary on or before the one hundred and twentieth day after January 12, 1983, or
+&emsp;&emsp;(ii) a petition for reinstatement together with the required back rental and royalty accruing from the date of termination, is filed with the Secretary on or before the one hundred and twentieth day after January 12, 1983, or
 
 &emsp;(B) with respect to any lease that terminated under subsection (b) of this section on or after January 12, 1983, a petition for reinstatement together with the required back rental and royalty accruing from the date of termination is filed on or before the earlier of—
 
@@ -52,7 +52,7 @@ Any reinstatement under subsection (d) of this section shall be made only if the
 
 #### (f) Issuance of noncompetitive oil and gas lease; conditions
 
-Where an unpatented oil placer mining claim validly located prior to February 24, 1920, which has been or is currently producing or is capable of producing oil or gas, has been or is hereafter deemed conclusively abandoned for failure to file timely the required instruments or copies of instruments required by section 1744 of title 43, and it is shown to the satisfaction of the Secretary that such failure was inadvertent, justifiable, or not due to lack of reasonable diligence on the part of the owner, the Secretary may issue, for the lands covered by the abandoned unpatented oil placer mining claim, a noncompetitive oil and gas lease, consistent with the provisions of section 226(e) of this title, to be effective from the statutory date the claim was deemed conclusively abandoned. Issuance of such a lease shall be conditioned upon:
+Where an unpatented oil placer mining claim validly located prior to February 24, 1920, which has been or is currently producing or is capable of producing oil or gas, has been or is hereafterdeemed conclusively abandoned for failure to file timely the required instruments or copies of instruments required by section 1744 of title 43, and it is shown to the satisfaction of the Secretary that such failure was inadvertent, justifiable, or not due to lack of reasonable diligence on the part of the owner, the Secretary may issue, for the lands covered by the abandoned unpatented oil placer mining claim, a noncompetitive oil and gas lease, consistent with the provisions of section 226(e) of this title, to be effective from the statutory date the claim was deemed conclusively abandoned. Issuance of such a lease shall be conditioned upon:
 
 &emsp;(1) a petition for issuance of a noncompetitive oil and gas lease, together with the required rental and royalty, including back rental and royalty accruing from the statutory date of abandonment of the oil placer mining claim, being filed with the Secretary—
 
@@ -62,7 +62,7 @@ Where an unpatented oil placer mining claim validly located prior to February 24
 
 &emsp;(2) a valid lease not having been issued affecting any of the lands covered by the abandoned oil placer mining claim prior to the filing of such petition: <i>Provided, however</i>, That after the filing of a petition for issuance of a lease under this subsection, the Secretary shall not issue any new lease affecting any of the lands covered by such abandoned oil placer mining claim for a reasonable period, as determined in accordance with regulations issued by him;
 
-&emsp;(3) a requirement in the lease for payment of rental, including back rentals accruing from the statutory date of abandonment of the oilplacer mining claim, of not less than $5 per acre per year;
+&emsp;(3) a requirement in the lease for payment of rental, including back rentals accruing from the statutory date of abandonment of the oil placer mining claim, of not less than $5 per acre per year;
 
 &emsp;(4) a requirement in the lease for payment of royalty on production removed or sold from the oil placer mining claim, including all royalty on production made subsequent to the statutory date the claim was deemed conclusively abandoned, of not less than 121/2 percent; and
 
@@ -76,7 +76,7 @@ Where an unpatented oil placer mining claim validly located prior to February 24
 
 (3) Notwithstanding any other provision of law, any lease issued pursuant to section 223 of this title shall be eligible for reinstatement under the terms and conditions set forth in subsections (c), (d), and (e) of this section, applicable to leases issued under section 226(c) of this title except, that, upon reinstatement, such lease shall continue for twenty years and so long thereafter as oil or gas is produced in paying quantities.
 
-(4) Notwithstanding any other provision of law, any lease issued pursuant to section 223 of the title shall, upon renewal on or after November 15, 1990, continue for twenty years and so long thereafter as oil or gas is produced in paying quantities.
+(4) Notwithstanding any other provision of law, any lease issued pursuant to section 223 of this title shall, upon renewal on or after November 15, 1990, continue for twenty years and so long thereafter as oil or gas is produced in paying quantities.
 
 #### (h) Statutory provisions applicable to leases
 
@@ -92,7 +92,7 @@ The minimum royalty provisions of section 226(m) of this title and the provision
 
 Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to section 226–1(d) of this title, the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year's rental, provided the conditions of subparagraphs (1) and (2) of subsection (c) of this section are satisfied.
 
-(Feb. 25, 1920, ch. 85, §31, 41 Stat. 450; Aug. 8, 1946, ch. 916, §9, 60 Stat. 956; July 29, 1954, ch. 644, §1(7), 68 Stat. 585; Pub. L. 87–822, §1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§1, 2, May 12, 1970, 84 Stat. 206; Pub. L. 97–451, title IV, §401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, §1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589.)
+(Feb. 25, 1920, ch. 85, §31, 41 Stat. 450; Aug. 8, 1946, ch. 916, §9, 60 Stat. 956; July 29, 1954, ch. 644, §1(7), 68 Stat. 585; Pub. L. 87–822, §1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§1, 2, May 12, 1970,84 Stat. 206; Pub. L. 97–451, title IV, §401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, §1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, §11(a)(1), Nov. 2, 1994, 108 Stat. 4589.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 100–203, §5102(d)(2), substituted “section 226(m)” f
 
 1970—Subsec. (b). Pub. L. 91–245, §1, inserted proviso authorizing continuance of a lease where timely paid rent is nominally deficient or miscalculated due to an error either in acreage figure stated in the lease, in any decision affecting the lease, or in a bill or decision rendered by the Secretary, except where a new lease was issued prior to May 12, 1970 or the lessee failed to pay the deficiency within the period allowed by the Secretary.
 
-Subsec. (c). Pub. L. 91–245, §2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary's power to issue a new lease on the landscovered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
+Subsec. (c). Pub. L. 91–245, §2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary's power to issue a new lease on the lands covered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
 
 1962—Pub. L. 87–822 designated existing pars. as subsecs. (a) and (b) and added subsecs. (c) and (d).
 

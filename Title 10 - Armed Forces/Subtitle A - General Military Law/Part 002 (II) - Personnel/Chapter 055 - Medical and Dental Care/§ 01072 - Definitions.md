@@ -18,7 +18,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(ii) has not attained the age of 23, is enrolled in a full-time course of study at an institution of higher learning approved by the administering Secretary and is, or was at the time of the member's or former member's death, in fact dependent on the member or former member for over one-half of the child's support; or
 
-&emsp;&emsp;&emsp;(iii) is incapable of self-support because of a mental or physical incapacity that occurs while a dependent of a member or former member under clause (i) or (ii) and is, or was at the time of the member's or former member's death, in fact dependent on the member or former member for over one-half of the child's support;
+&emsp;&emsp;&emsp;(iii) is incapable of self-support because of a mental or physical incapacity that occurs while a dependent of a member or former member under clause (i) or (ii) and is, or was at the time of the member's orformer member's death, in fact dependent on the member or former member for over one-half of the child's support;
 
 &emsp;&emsp;(E) a parent or parent-in-law who is, or was at the time of the member's or former member's death, in fact dependent on him for over one-half of his support and residing in his household;
 
@@ -38,7 +38,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) has not attained the age of 23 and is enrolled in a full time course of study at an institution of higher learning approved by the administering Secretary; or
 
-&emsp;&emsp;&emsp;&emsp;(III) is incapable of self support because of a mental or physical incapacitythat occurred while the person was considered a dependent of the member or former member under this subparagraph pursuant to subclause (I) or (II);
+&emsp;&emsp;&emsp;&emsp;(III) is incapable of self support because of a mental or physical incapacity that occurred while the person was considered a dependent of the member or former member under this subparagraph pursuant to subclause (I) or (II);
 
 &emsp;&emsp;&emsp;(iii) is dependent on the member or former member for over one-half of the person's support;
 
@@ -68,7 +68,23 @@ In this chapter:
 
 &emsp;(7) The term “TRICARE program” means the managed health care program that is established by the Department of Defense under the authority of this chapter, principally section 1097 of this title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808.)
+&emsp;(8) The term “custodial care” means treatment or services, regardless of who recommends such treatment or services or where such treatment or services are provided, that—
+
+&emsp;&emsp;(A) can be rendered safely and reasonably by a person who is not medically skilled; or
+
+&emsp;&emsp;(B) is or are designed mainly to help the patient with the activities of daily living.
+
+&emsp;(9) The term “domiciliary care” means care provided to a patient in an institution or homelike environment because—
+
+&emsp;&emsp;(A) providing support for the activities of daily living in the home is not available or is unsuitable; or
+
+&emsp;&emsp;(B) members of the patient's family are unwilling to provide the care.
+
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2,1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160.)
+
+#### Amendment of Paragraph (7)
+
+<i>Pub. L. 107–107, div. A, title VII, §708(a)(1), Dec. 28, 2001, 115 Stat. 1164, provided that during the one-year period following Dec. 28, 2001, par. (7) of this section shall be deemed to be amended by striking “the competitive selection of contractors to financially underwrite”.</i>
 
 Historical and Revision Notes
 
@@ -99,6 +115,8 @@ Clause (2)(E) combines 37:402(a)(4)(E) and (G).
 A prior section 1072, act Aug. 10, 1956, ch. 1041, 70A Stat. 81, defined terms used in former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2001—Pars. (8), (9). Pub. L. 107–107 added pars. (8) and (9).
 
 1997—Par. (7). Pub. L. 105–85 added par. (7).
 
@@ -175,6 +193,24 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 #### Repeals
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+
+#### Continuation of Individual Case Management Services for Certain Eligible Beneficiaries
+
+Pub. L. 107–107, div. A, title VII, §701(d), Dec. 28, 2001, 115 Stat. 1160, provided that:
+
+“(1) Notwithstanding the termination of the Individual Case Management Program by subsection (g) \[amending section 1079 of this title and repealing provisions set out as a note under section 1077 of this title\], the Secretary of Defense shall, in any case in which the Secretary makes the determination described in paragraph (2), continue to provide payment as if such program were in effect for home health care or custodial care services provided to an eligible beneficiary that would otherwise be excluded from coverage under regulations implementing chapter 55 of title 10, United States Code.
+
+“(2) The determination referred to in paragraph (1) is a determination that discontinuation of payment for services not otherwise provided under such chapter would result in the provision of services inadequate to meet the needs of the eligible beneficiary and would be unjust to such beneficiary.
+
+“(3) For purposes of this subsection, ‘eligible beneficiary’ means a covered beneficiary (as that term is defined in section 1072 of title 10, United States Code) who, before the effective date of this section \[Dec. 28, 2001\], was provided custodial care services under the Individual Case Management Program for which the Secretary provided payment.”
+
+#### Improvements in Administration of the TRICARE Program; Flexibility of Contracting
+
+Pub. L. 107–107, div. A, title VII, §708(a), Dec. 28, 2001, 115 Stat. 1164, provided that:
+
+“(1) During the one-year period following the date of the enactment of this Act \[Dec. 28, 2001\], section 1072(7) of title 10, United States Code, shall be deemed to be amended by striking ‘the competitive selection of contractors to financially underwrite’.
+
+“(2) The terms and conditions of any contract to provide health care services under the TRICARE program entered into during the period described in paragraph (1) shall not be considered to be modified or terminated as a result of the termination of such period.”
 
 #### Transitional Provisions for Qualification for Conversion Health Policies; Preexisting Conditions
 

@@ -10,5 +10,5 @@ Any department or agency action taken pursuant to section 2000d–1 of this titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2930c, 2971c, 2985g, 9821, 9849, 10406 of this title; title 39 section 410.
+This section is referred to in sections 2930c, 2971c, 2985g, 9821, 9849, 10406 of this title; title 20 section 7905; title 39 section 410.
 

@@ -44,7 +44,7 @@ Subsec. (h). Pub. L. 96–399, §111(h)(1), struck out subsec. (h) relating to s
 
 #### Effective Date of 1983 Amendment
 
-Section 110(b) of Pub. L. 98–181, as amended by Pub. L. 98–479, title I, §101(b)(1), Oct. 17, 1984, 98 Stat. 2220, provided that: “The amendments made by this part \[part A (§§101–110) of title I of Pub. L. 98–181, amending this section, sections 5301 to 5308 and 5312 of this title,and provisions set out as a note under section 5305 of this title\] shall apply only to funds available for fiscal year 1984 and thereafter.”
+Section 110(b) of Pub. L. 98–181, as amended by Pub. L. 98–479, title I, §101(b)(1), Oct. 17, 1984, 98 Stat. 2220, provided that: “The amendments made by this part \[part A (§§101–110) of title I of Pub. L. 98–181, amending this section, sections 5301 to 5308 and 5312 of this title, and provisions set out as a note under section 5305 of this title\] shall apply only to funds available for fiscal year 1984 and thereafter.”
 
 #### Effective Date of 1981 Amendment
 

@@ -28,7 +28,7 @@
 
 (B) Notwithstanding any other provision of this section, amounts of interest paid by a State, on funds drawn from its account in the Unemployment Trust Fund, shall be deposited into that account and shall consist of actual interest earnings by the State, less related banking costs incurred by the State, for the period for which interest is calculated.
 
-(d)(1) If a State disburses its own funds for program purposes in accordance with Federal law, Federal regulation, or Federal-State agreement, the State shall be entitled to interest from the time the State's funds are paid out to redeem checks or warrants, or make payments by other means, until the Federal funds are deposited to the State's bank account. The Secretary shall pay, out of any money in the Treasury not otherwise appropriated, such amounts as may be necessary for interest owed to a State under this subsection. Such interest shall be calculated, at a rate equal to the average of the bond equivalent rates of 13-week Treasury bills auctioned during the period for which interest is calculated, as determined by the Secretary.
+(d)(1) If a State disburses its own funds for program purposes in accordance with Federal law, Federal regulation, or Federal-State agreement, the State shall be entitled to interest from the time the State's funds are paid out to redeem checks or warrants, or make payments by other means, until the Federal funds are deposited to the State's bank account. The Secretary shall pay, out of any money in the Treasury not otherwise appropriated, such amounts as may benecessary for interest owed to a State under this subsection. Such interest shall be calculated, at a rate equal to the average of the bond equivalent rates of 13-week Treasury bills auctioned during the period for which interest is calculated, as determined by the Secretary.
 
 (2) If interest is paid under this subsection as a result of a State disbursing its own funds before receiving payment from a trust fund for which the Secretary of the Treasury is the trustee, such interest shall be charged against such trust fund.
 
@@ -88,7 +88,7 @@ Secretary's efforts to enter agreements.—The Secretary of the Treasury shall m
 
 “(2)
 
-Effective date of regulations.—Regulations issued by the Secretary of the Treasury under subsection (b)(3) of section 6503 of title 31, United States Code, as added by the \[this\] section (relating to procedures and requirements for transfers of funds involving States not entering agreements), shall take effect on July 1, 1993 or the first day of a State's fiscal year beginning in 1993, whichever is later.”
+Effective date of regulations.—Regulations issued by the Secretary of the Treasury under subsection (b)(3) of section 6503 of title 31, United States Code, as added by the \[this\] section (relating to procedures and requirements for transfers of funds involving States not entering agreements), shall take effect onJuly 1, 1993 or the first day of a State's fiscal year beginning in 1993, whichever is later.”
 
 #### GAO Report
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting though the Director of the Centers for Disease Control and Prevention,shall award competitive grants to States and political subdivisions of States for the development and implementation of State and community-based intervention programs to promote good nutrition and physical activity in children and adolescents.
+The Secretary, acting though the Director of the Centers for Disease Control and Prevention, shall award competitive grants to States and political subdivisions of States for the development and implementation of State and community-based intervention programs to promote good nutrition and physical activity in children and adolescents.
 
 #### (b) Eligibility
 
@@ -30,7 +30,7 @@ The Secretary may set-aside an amount not to exceed 10 percent of the amount app
 
 &emsp;(1) provide States and political subdivisions of States with technical support in the development and implementation of programs under this section; and
 
-&emsp;(2) disseminate information about effective strategies and interventions in preventing and treating obesity through the promotion of good nutrition and physical activity.
+&emsp;(2) disseminate information about effective strategies and interventions in preventing andtreating obesity through the promotion of good nutrition and physical activity.
 
 #### (e) Limitation on administrative costs
 

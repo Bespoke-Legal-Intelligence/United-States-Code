@@ -116,7 +116,7 @@ For purposes of subsection (a), taxable income shall be adjusted as follows:
 
 #### (4) Accumulated earnings and profits
 
-&emsp;For purposes of paragraphs (2) and (3), the accumulated earnings and profits at the closeof the preceding taxable year shall be reduced by the dividends which under section 563(a) (relating to dividends paid after the close of the taxable year) are considered as paid during such taxable year.
+&emsp;For purposes of paragraphs (2) and (3), the accumulated earnings and profits at the close of the preceding taxable year shall be reduced by the dividends which under section 563(a) (relating to dividends paid after the close of the taxable year) are considered as paid during such taxable year.
 
 #### (5) Cross reference
 
@@ -196,7 +196,7 @@ Section 1225(c) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, �
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 58(b) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, seesection 58(c) of Pub. L. 98–369, set out as a note under section 532 of this title.
+Amendment by section 58(b) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, see section 58(c) of Pub. L. 98–369, set out as a note under section 532 of this title.
 
 Section 125(b) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

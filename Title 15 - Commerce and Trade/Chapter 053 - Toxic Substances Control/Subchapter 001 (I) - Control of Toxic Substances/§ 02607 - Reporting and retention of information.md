@@ -42,7 +42,7 @@
 
 &emsp;(II) with respect to which relief has been granted pursuant to a civil action brought under section 2604 or 2606 of this title,
 
-> to maintain such records on such substance or mixture, and to submit to the Administrator such reports on such substance or mixture, as the Administrator may reasonably require. Arule under this clause requiring reporting may require reporting with respect to the matters referred to in paragraph (2).
+> to maintain such records on such substance or mixture, and to submit to the Administrator such reports on such substance or mixture, as the Administrator may reasonably require. A rule under this clause requiring reporting may require reporting with respect to the matters referred to in paragraph (2).
 
 (B) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
 
@@ -84,7 +84,7 @@ Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 
 #### “SEC. 2. SUBMISSION OF INFORMATION BY MANUFACTURERS.
 
-“Within 90 days after the date of the enactment of this Act \[Oct. 31, 1988\], any person who manufactured or processed, before the date of the enactment of this Act, asbestos or asbestos-containing material that was prepared for sale for use as surfacing material, thermal system insulation, or miscellaneous material in buildings (or whose corporate predecessor manufactured or processed such asbestos or material) shall submit to the Administrator of the Environmental Protection Agency the years of manufacture, the types or classes of product, and, to the extent available, other identifying characteristics reasonably necessary to identify or distinguish the asbestos or asbestos-containing material. Such person also may submit to the Administrator protocols for samples of asbestos and asbestos-containing material.
+“Within 90 days after the date of the enactment of this Act \[Oct. 31, 1988\], any person who manufactured orprocessed, before the date of the enactment of this Act, asbestos or asbestos-containing material that was prepared for sale for use as surfacing material, thermal system insulation, or miscellaneous material in buildings (or whose corporate predecessor manufactured or processed such asbestos or material) shall submit to the Administrator of the Environmental Protection Agency the years of manufacture, the types or classes of product, and, to the extent available, other identifying characteristics reasonably necessary to identify or distinguish the asbestos or asbestos-containing material. Such person also may submit to the Administrator protocols for samples of asbestos and asbestos-containing material.
 
 #### “SEC. 3. PUBLICATION OF INFORMATION.
 

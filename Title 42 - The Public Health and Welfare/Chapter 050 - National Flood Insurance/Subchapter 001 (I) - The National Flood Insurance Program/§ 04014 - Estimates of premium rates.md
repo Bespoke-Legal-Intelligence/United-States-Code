@@ -32,11 +32,11 @@ The Director shall give priority to conducting studies and investigations and ma
 
 #### (d) Parishes of Louisiana; premium rates
 
-Notwithstanding any other provision of law, any structure existing on December 31, 1973, and located within Avoyelles, Evangeline, Rapides, or Saint Landry Parish in the State of Louisiana, which the Secretary determines is subject to additional flood hazards as a result of the construction or operation of the Atchafalaya Basin Levee System, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates that shall not exceed those which would be applicable if such additional hazards did not exist.
+Notwithstanding any other provision of law, any structure existing on December 31, 1973, and located within Avoyelles, Evangeline, Rapides, or Saint Landry Parish in the State of Louisiana, which the Secretary determines is subjectto additional flood hazards as a result of the construction or operation of the Atchafalaya Basin Levee System, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates that shall not exceed those which would be applicable if such additional hazards did not exist.
 
 #### (e) Eligibility of community making adequate progress on construction of flood protection system for rates not exceeding those applicable to completed flood protection system; determination of adequate progress
 
-Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Director, on the construction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Director, shall be eligible for flood insurance under this chapter (if and to the extent it is eligiblefor such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Director shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has been appropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.
+Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Director, on the construction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Director, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Director shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has been appropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.
 
 #### (f) Availability of flood insurance in communities restoring disaccredited flood protection systems; criteria; rates
 
@@ -94,7 +94,7 @@ Definition of Pre-FIRM Structure.—For purposes of subsection (a), the term ‘
 
 &emsp;“(1) December 31, 1974; or
 
-&emsp;“(2) the effective date of the initial rate map published by the Director under section 1360(a)(2) of theNational Flood Insurance Act of 1968 \[42 U.S.C. 4101(a)(2)\] for the area in which such structure is located.
+&emsp;“(2) the effective date of the initial rate map published by the Director under section 1360(a)(2) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4101(a)(2)\] for the area in which such structure is located.
 
 “(c)
 

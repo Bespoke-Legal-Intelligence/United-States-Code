@@ -46,7 +46,7 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 
 #### (9) Penalties forfeited because of premature withdrawal of funds from time savings accounts or deposits
 
-&emsp;The deductions allowed by section 165 for losses incurred in any transaction entered into for profit, though not connected with a trade or business, to the extent that such losses include amounts forfeited to a bank, mutual savings bank, savings and loan association, building and loan association, cooperative bank or homestead association as a penalty for premature withdrawal of funds from a time savings account, certificate of deposit, or similar class of deposit.
+&emsp;The deductions allowed by section 165 for losses incurred in any transaction entered intofor profit, though not connected with a trade or business, to the extent that such losses include amounts forfeited to a bank, mutual savings bank, savings and loan association, building and loan association, cooperative bank or homestead association as a penalty for premature withdrawal of funds from a time savings account, certificate of deposit, or similar class of deposit.
 
 #### (10) Alimony
 
@@ -79,6 +79,10 @@ For purposes of this subtitle, the term “adjusted gross income” means, in th
 #### (17) Interest on education loans
 
 &emsp;The deduction allowed by section 221.
+
+#### (18) Higher education expenses
+
+&emsp;The deduction allowed by section 222.
 
 > Nothing in this section shall permit the same item to be deducted more than once.
 
@@ -130,9 +134,15 @@ For purposes of subsection (a)(2)(A), an arrangement shall in no event be treate
 
 > The substantiation requirements of the preceding sentence shall not apply to any expense to the extent that substantiation is not required under section 274(d) for such expense by reason of the regulations prescribed under the 2nd sentence thereof.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980,94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a)(18). Pub. L. 107–16, §§431(b), 901, temporarily added par. (18). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (a)(16). Pub. L. 106–554 amended heading and text of par. (16) generally. Prior to amendment, text read as follows: “The deduction allowed by section 220.”
 
@@ -216,9 +226,15 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 
 <b>1962</b>—Par. (7). Pub. L. 87–792 added par. (7).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title IV, §431(d), June 7, 2001, 115 Stat. 69, provided that: “The amendments made by this section \[enacting section 222 of this title, amending this section and sections 86, 135, 137, 219, 221, and 469 of this title, and renumbering former section 222 of this title as 223\] shall apply to payments made in taxable years beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied andadministered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
-Section 202(e) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222 of this title\] shall apply to any qualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by thissection) incurred on, before, or after the date of the enactment of this Act \[Aug. 5, 1997\], but only with respect to—
+Section 202(e) of Pub. L. 105–34 provided that: “The amendments made by this section \[enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222 of this title\] shall apply to any qualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by this section) incurred on, before, or after the date of the enactment of this Act \[Aug. 5, 1997\], but only with respect to—
 
 &emsp;“(1) any loan interest payment due and paid after December 31, 1997, and
 
@@ -286,7 +302,7 @@ Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 3
 
 Section 502(c) of Pub. L. 94–455 provided that: “The amendments made by this section \[amending this section and section 3402 of this title\] shall apply to taxable years beginning after December 31, 1976.”
 
-Section 1501(d) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 as 221 of this title\], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. The amendment made by subsection (b)(3) \[amending section 415 of this title\] shall apply to years beginning after December 31, 1976.”
+Section 1501(d) of Pub. L. 94–455 provided that: “The amendments made by this section \[enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 as 221 of this title\], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. Theamendment made by subsection (b)(3) \[amending section 415 of this title\] shall apply to years beginning after December 31, 1976.”
 
 Amendment by section 1901(a)(8), (9) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 

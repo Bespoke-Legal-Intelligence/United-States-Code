@@ -30,13 +30,13 @@
 
 &emsp;&emsp;&emsp;(i) 20 percent or more of the total capital interest in such partnership is included in determining the gross estate of the decedent, or
 
-&emsp;&emsp;&emsp;(ii) such partnership had 15 or fewer partners; or
+&emsp;&emsp;&emsp;(ii) such partnership had 45 or fewer partners; or
 
 &emsp;&emsp;(C) stock in a corporation carrying on a trade or business if—
 
 &emsp;&emsp;&emsp;(i) 20 percent or more in value of the voting stock of such corporation is included in determining the gross estate of the decedent, or
 
-&emsp;&emsp;&emsp;(ii) such corporation had 15 or fewer shareholders.
+&emsp;&emsp;&emsp;(ii) such corporation had 45 or fewer shareholders.
 
 #### (2) Rules for applying paragraph (1)
 
@@ -66,7 +66,7 @@
 
 #### (3) Farmhouses and certain other structures taken into account
 
-&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closelyheld business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
+&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closely held business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
 
 #### (4) Value
 
@@ -116,7 +116,13 @@
 
 #### (B) All stock must be non-readily-tradable stock
 
-&emsp;&emsp;No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).
+#### (i) In general
+
+&emsp;&emsp;&emsp;No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).
+
+#### (ii) Special application where only holding company stock is non-readily-tradable stock
+
+&emsp;&emsp;&emsp;If the requirements of clause (i) are not met, but all of the stock of each holding company taken into account is non-readily-tradable, then this paragraph shall apply, but subsection (a)(1) shall be applied by substituting “5” for “10”.
 
 #### (C) Application of voting stock requirement of paragraph (1)(C)(i)
 
@@ -160,11 +166,59 @@
 
 &emsp;&emsp;&emsp;If—
 
-&emsp;&emsp;&emsp;&emsp;(I) a corporation owns 20 percent or more in value of the voting stock of another corporation, or such other corporation has 15 or fewer shareholders, and
+&emsp;&emsp;&emsp;&emsp;(I) a corporation owns 20 percent or more in value of the voting stock of another corporation, or such other corporation has 45 or fewer shareholders, and
 
 &emsp;&emsp;&emsp;&emsp;(II) 80 percent or more of the value of the assets of each such corporation is attributable to assets used in carrying on a trade or business,
 
 &emsp;&emsp;&nbsp;then such corporations shall be treated as 1 corporation for purposes of clause (ii). For purposes of applying subclause (II) to the corporation holding the stock of the other corporation, such stock shall not be taken into account.
+
+#### (10) Stock in qualifying lending and finance business treated as stock in an active trade or business company
+
+#### (A) In general
+
+&emsp;&emsp;If the executor elects the benefits of this paragraph, then—
+
+#### (i) Stock in qualifying lending and finance business treated as stock in an active trade or business company
+
+&emsp;&emsp;&emsp;For purposes of this section, any asset used in a qualifying lending and finance business shall be treated as an asset which is used in carrying on a trade or business.
+
+#### (ii) 5-year deferral for principal not to apply
+
+&emsp;&emsp;&emsp;The executor shall be treated as having selected under subsection (a)(3) the date prescribed by section 6151(a).
+
+#### (iii) 5 equal installments allowed
+
+&emsp;&emsp;&emsp;For purposes of applying subsection (a)(1), “5” shall be substituted for “10”.
+
+#### (B) Definitions
+
+&emsp;&emsp;For purposes of this paragraph—
+
+#### (i) Qualifying lending and finance business
+
+&emsp;&emsp;&emsp;The term “qualifying lending and finance business” means a lending and finance business, if—
+
+&emsp;&emsp;&emsp;&emsp;(I) based on all the facts and circumstances immediately before the date of the decedent's death, there was substantial activity with respect to the lending and finance business, or
+
+&emsp;&emsp;&emsp;&emsp;(II) during at least 3 of the 5 taxable years ending before the date of the decedent's death, such business had at least 1 full-time employee substantially all of whose services were the active management of such business, 10 full-time, nonowner employees substantially all of whose services were directly related to such business, and $5,000,000 in gross receipts from activities described in clause (ii).
+
+#### (ii) Lending and finance business
+
+&emsp;&emsp;&emsp;The term “lending and finance business” means a trade or business of—
+
+&emsp;&emsp;&emsp;&emsp;(I) making loans,
+
+&emsp;&emsp;&emsp;&emsp;(II) purchasing or discounting accounts receivable, notes, or installment obligations,
+
+&emsp;&emsp;&emsp;&emsp;(III) engaging in rental and leasing of real and tangible personal property, including entering into leases and purchasing, servicing, and disposing of leases and leased assets,
+
+&emsp;&emsp;&emsp;&emsp;(IV) rendering services or making facilities available in the ordinary course of a lending or finance business, and
+
+&emsp;&emsp;&emsp;&emsp;(V) rendering services or making facilities available in connection with activities described in subclauses (I) through (IV) carried on by the corporation rendering services or making facilities available, or another corporation which is a member of the same affiliated group (as defined in section 1504 without regard to section 1504(b)(3)).
+
+#### (iii) Limitation
+
+&emsp;&emsp;&emsp;The term “qualifying lending and finance business” shall not include any interest in an entity, if the stock or debt of such entity or a controlled group (as defined in section 267(f)(1)) of which such entity was a member was readily tradable on an established securities market or secondary market (as defined by the Secretary) at any time within 3 years before the date of the decedent's death.
 
 #### (c) Special rule for interest in 2 or more closely held businesses
 
@@ -218,7 +272,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;&emsp;(ii) for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed.
 
-> &emsp;&emsp;This subparagraph shall apply only if, on or before the date prescribed by subsection (a)(3) for the payment of the first installment which becomes due after the date of the distribution (or, if earlier, on or before the day which is 1 year after the date of the distribution), there is paid an amount of thetax imposed by section 2001 not less than the amount of money and other property distributed.
+> &emsp;&emsp;This subparagraph shall apply only if, on or before the date prescribed by subsection (a)(3) for the payment of the first installment which becomes due after the date of the distribution (or, if earlier, on or before the day which is 1 year after the date of the distribution), there is paid an amount of the tax imposed by section 2001 not less than the amount of money and other property distributed.
 
 &emsp;&emsp;(C) Subparagraph (A)(i) does not apply to an exchange of stock pursuant to a plan of reorganization described in subparagraph (D), (E), or (F) of section 368(a)(1) nor to an exchange to which section 355 (or so much of section 356 as relates to section 355) applies; but any stock received in such an exchange shall be treated for purposes of subparagraph (A)(i) as an interest qualifying under subsection (a)(1).
 
@@ -292,7 +346,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;(C) the executor has not made an election under subsection (a),
 
-> &emsp;the executor may elect to pay the deficiency in installments. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+> &emsp;the executor may elect to pay the deficiency in installments. This subsection shall not apply if the deficiency is due to negligence, tointentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (2) Time of election
 
@@ -332,13 +386,25 @@ The Secretary shall prescribe such regulations as may be necessary to the applic
 
 &emsp;&emsp;&emsp;<b>For special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent's death, see section 2035(c)(2).</b>
 
-(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
+(Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Prior Provisions
 
 A prior section 6166 was renumbered section 6166A of this title and later repealed by Pub. L. 97–34, title IV, §422(d), Aug. 13, 1981, 95 Stat. 315.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (b)(1)(B)(ii), (C)(ii). Pub. L. 107–16, §§571(a), 901, temporarily substituted “45” for “15”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(8)(B). Pub. L. 107–16, §§573(a), 901, temporarily reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(9)(B)(iii)(I). Pub. L. 107–16, §§571(a), 901, temporarily substituted “45” for “15”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(10). Pub. L. 107–16, §§572(a), 901, temporarily added par. (10). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (k)(5). Pub. L. 106–554 substituted “2035(c)(2)” for “2035(d)(4)”.
 
@@ -387,6 +453,16 @@ Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading “Failure 
 <b>1978</b>—Subsec. (b)(2)(D). Pub. L. 95–600, §512(a), added subpar. (D).
 
 Subsec. (b)(7). Pub. L. 95–600, §512(b), added par. (7).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title V, §571(b), June 7, 2001, 115 Stat. 92, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
+
+Pub. L. 107–16, title V, §572(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
+
+Pub. L. 107–16, title V, §573(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -458,5 +534,5 @@ Land diverted from production of agricultural commodities under a 1983 payment-i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 163, 303, 2011, 2032A, 2035, 2053, 2056A, 2057, 6324A, 6503, 6601, 7403, 7422, 7479, 7481 of this title.
+This section is referred to in sections 163, 303, 2011, 2032A, 2035, 2053, 2056A, 2057, 2058, 6324A, 6503, 6601, 7403, 7422, 7479, 7481 of this title.
 

@@ -6,7 +6,7 @@
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this subpart, there are authorized to be appropriated$63,900,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 2000.
+&emsp;For the purpose of carrying out this subpart, there are authorized to be appropriated $63,900,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 2000.
 
 #### (2) Reservation of amounts
 
@@ -34,7 +34,7 @@ Subsec. (a) of this section, which required the Secretary to report annually to 
 
 1990—Subsec. (a). Pub. L. 101–597, §205(a), substituted “March 1” for “January 20” and “5 fiscal years” for “3 fiscal years” wherever appearing.
 
-Subsec. (b). Pub. L. 101–597, §205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated such sums as may be necessary for scholarships and loan repayments under this subpart.”
+Subsec. (b). Pub. L. 101–597, §205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated suchsums as may be necessary for scholarships and loan repayments under this subpart.”
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

@@ -94,15 +94,19 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 6867
 
-Notice of President of the United States, dated Feb. 25, 2000, 65 F.R. 10929, provided:
+Notice of President of the United States, dated Feb. 26, 2002, 67 F.R. 9387, provided:
 
-On March 1, 1996, by Proclamation 6867 \[set out above\], I declared a national emergency to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Government of Cuba of two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba. In July 1996 and on subsequent occasions, the Government of Cuba stated its intent to forcefully defend its sovereignty against any U.S.-registered vessels or aircraft that might enter Cuban territorial waters or airspace while involved in a memorial flotilla and peaceful protest. Since these events, the Government of Cuba has not demonstrated that it will refrain from the future use of reckless and excessive force against U.S. vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Cuba and the emergency authority relating to the regulation of the anchorage and movement of vessels set out in Proclamation 6867.
+On March 1, 1996, by Proclamation 6867 \[set out above\], President Clinton declared a national emergency to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Government of Cuba of two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba. In July 1996 and on subsequent occasions, the Government of Cuba stated its intent to forcefully defend its sovereignty against any U.S.-registered vessels or aircraft that might enter Cuban territorial waters or airspace while involved in a flotilla and peaceful protest. Since these events, the Government of Cuba has not demonstrated that it will refrain from the future use of reckless and excessive force against U.S. vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Cuba and the emergency authority relating to the regulation of the anchorage and movement of vessels set out in Proclamation 6867.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 6867 were contained in the following:
+
+Notice of President of the United States, dated Feb. 27, 2001, 66 F.R. 12841.
+
+Notice of President of the United States, dated Feb. 25, 2000, 65 F.R. 10929.
 
 Notice of President of the United States, dated Feb. 24, 1999, 64 F.R. 9903.
 

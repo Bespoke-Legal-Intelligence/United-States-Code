@@ -6,7 +6,7 @@ The Secretary of Agriculture is authorized, under general regulations to be pres
 
 #### References in Text
 
-The Act of March first, nineteen hundred and eleven, known as the Weeks Law, referred to in text, means act Mar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of the Act to the Code, see Short Title note set out under section 552 of this title and Tables.
+The Act of March first, nineteen hundred and eleven, known as the Weeks Law, referred to in text, means actMar. 1, 1911, ch. 186, 36 Stat. 961, as amended, which is classified to sections 480, 500, 513 to 519, 521, 552, and 563 of this title. For complete classification of the Act to the Code, see Short Title note set out under section 552 of this title and Tables.
 
 #### Transfer of Functions
 
@@ -18,5 +18,5 @@ Functions of Secretary of the Interior under section 402 of Reorg. Plan No. 3 of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 539a of this title.
+This section is referred to in section 539a of this title; title 30 section 355.
 

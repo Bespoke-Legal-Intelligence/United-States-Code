@@ -28,7 +28,7 @@ Pub. L. 106–480, Nov. 9, 2000, 114 Stat. 2186, provided that:
 
 #### “SECTION 1. DESIGNATION.
 
-“A building proposed to be located within the boundaries of the Chincoteague National Wildlife Refuge, on Assateague Island, Virginia, shall be known and designated as the ‘Herbert H. Bateman Education and Administrative Center’.
+“A building proposed to be located within the boundaries of the Chincoteague National Wildlife Refuge, onAssateague Island, Virginia, shall be known and designated as the ‘Herbert H. Bateman Education and Administrative Center’.
 
 #### “SEC. 2. REFERENCES.
 

@@ -1,10 +1,10 @@
 ### §3734. Annual submission of information on the Veterans Housing Benefit Program Fund and housing programs
 
-(a) In the documents providing detailed information on the budget for the Department of Veterans Affairs that the Secretary submits to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 of title 31, United States Code, the Secretary shall include—
+(a) In the documents providing detailed information on the budget for the Department of Veterans Affairs that the Secretary submits to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 of title 31, the Secretary shall include—
 
 &emsp;(1) a description of the operations of the Veterans Housing Benefit Program Fund during the fiscal year preceding the fiscal year in which such budget is submitted; and
 
-&emsp;(2) the needs of such fund, if any, for appropriations in—
+&emsp;(2) the needs of such fund, if any, for appropriations for—
 
 &emsp;&emsp;(A) the fiscal year in which the budget is submitted; and
 
@@ -36,13 +36,17 @@
 
 (c) The information submitted under subsection (a) shall include a statement that summarizes the financial activity of each of the housing programs operated under this chapter. The statement shall be presented in a form that is simple, concise, and readily understandable, and shall not include references to financing accounts, liquidating accounts, or program accounts.
 
-(Added Pub. L. 101–237, title III, §302(b)(1), Dec. 18, 1989, 103 Stat. 2070, §1834; renumbered §3734 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, §602(d), (e)(1)(F), (3)(A), Nov. 11, 1998, 112 Stat. 3346, 3347.)
+(Added Pub. L. 101–237, title III, §302(b)(1), Dec. 18, 1989, 103 Stat. 2070, §1834; renumbered §3734 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, §602(d), (e)(1)(F), (3)(A), Nov. 11, 1998, 112 Stat. 3346, 3347; Pub. L. 107–14, §8(a)(9), June 5, 2001, 115 Stat. 35.)
 
 #### References in Text
 
 Section 3729 of this title, referred to in subsec. (b)(2)(B), was amended by Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861, and, as so amended, subsec. (a) of that section no longer contains a par. (3).
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–14, §8(a)(9)(A), struck out “United States Code,” after “section 1105 of title 31,” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 107–14, §8(a)(9)(B), substituted “appropriations for” for “appropriations in”.
 
 1998—Pub. L. 105–368, §602(e)(3)(A), substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in section catchline.
 

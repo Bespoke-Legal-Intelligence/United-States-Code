@@ -1,6 +1,6 @@
 ### §2556. Shelter for homeless; incidental services
 
-(a)(1) The Secretary of a military department may make military installations under his jurisdiction available for the furnishing of shelter topersons without adequate shelter. The Secretary may, incidental to the furnishing of such shelter, provide services as described in subsection (b). Shelter and incidental services provided under this section may be provided without reimbursement.
+(a)(1) The Secretary of a military department may make military installations under his jurisdiction available for the furnishing of shelter to persons without adequate shelter. The Secretary may, incidental to the furnishing of such shelter, provide services as described in subsection (b). Shelter and incidental services provided under this section may be provided without reimbursement.
 
 (2) The Secretary concerned shall carry out this section in cooperation with appropriate State and local governmental entities and charitable organizations. The Secretary shall, to the maximum extent practicable, use the services and personnel of such entities and organizations in determining to whom and the circumstances under which shelter is furnished under this section.
 

@@ -84,7 +84,7 @@ For purposes of this section, the following definitions apply:
 
 (C) Housing covered by this paragraph that does not have an adequate and reliable electrical system shall not be subject to the requirement under subparagraph (A) for protection by hard-wired smoke detectors, but shall be protected by battery operated smoke detectors.
 
-(D) If funding has been programmed or designated for the demolition of housing covered by this paragraph, such housing shall not be subject to the fire protection requirements of subparagraph (A), but shall be protected by battery operated smoke detectors.
+(D) If funding has been programmed or designated for the demolition of housing covered bythis paragraph, such housing shall not be subject to the fire protection requirements of subparagraph (A), but shall be protected by battery operated smoke detectors.
 
 (2)(A)(i) Housing assistance may not be used in connection with any newly constructed multifamily property, unless after the new construction the multifamily property is protected by an automatic sprinkler system and hard-wired smoke detectors.
 
@@ -126,7 +126,7 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 (2) Within 10 years after October 26, 1992, each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) of this section and on plans for continuing such implementation.
 
-(3)(A) The National Institute of Standards and Technology shall conduct a study and submit areport to Congress on the use, in combination, of fire detection systems, fire suppression systems, and compartmentation. Such study shall—
+(3)(A) The National Institute of Standards and Technology shall conduct a study and submit a report to Congress on the use, in combination, of fire detection systems, fire suppression systems, and compartmentation. Such study shall—
 
 &emsp;(i) quantify performance and reliability for fire detection systems, fire suppression systems, and compartmentation, including a field assessment of performance and determination of conditions under which a reduction or elimination of 1 or more of those systems would result in an unacceptable risk of fire loss; and
 

@@ -56,7 +56,7 @@ The functions and activities of the program shall include, at a minimum—
 
 #### (d) Eligibility
 
-(1) Individuals eligible for participation in the program are teachers, faculty, administrators and related support staff associated with local education agencies, colleges, and universities, employees of State education, environmental protection, and natural resource departments, and employees of not-for-profit organizations involved in environmental education activities and issues.
+(1) Individuals eligible for participation in the program are teachers, faculty, administrators and related support staff associated with local education agencies, colleges, and universities, employees of State education, environmental protection, and natural resource departments,and employees of not-for-profit organizations involved in environmental education activities and issues.
 
 (2) Individuals shall be selected for participation in the program based on applications which shall be in such form as the Administrator determines to be appropriate.
 

@@ -10,7 +10,7 @@ For the purpose of encouraging and promoting the marketing of agricultural commo
 
 #### World Livestock Market Price Information
 
-Pub. L. 101–624, title XV, §1545, Nov. 28, 1990, 104 Stat. 3695, directed Secretary of Agriculture to develop appropriate methodology for determining world price of livestock and livestock products, to gather and analyze appropriate price and cost of production information concerning such products in foreign countries for purpose of price discovery and to aid in sale of livestockand livestock products in foreign export markets, and to periodically publish such information, prior to repeal by Pub. L. 104–127, title II, §273, Apr. 4, 1996, 110 Stat. 976.
+Pub. L. 101–624, title XV, §1545, Nov. 28, 1990, 104 Stat. 3695, directed Secretary of Agriculture to develop appropriate methodology for determining world price of livestock and livestock products, to gather and analyze appropriate price and cost of production information concerning such products in foreign countries for purpose of price discovery and to aid in sale of livestock and livestock products in foreign export markets, and to periodically publish such information, prior to repeal by Pub. L. 104–127, title II, §273, Apr. 4, 1996, 110 Stat. 976.
 
 #### Implementation of 1978 Amendment; Regulations
 

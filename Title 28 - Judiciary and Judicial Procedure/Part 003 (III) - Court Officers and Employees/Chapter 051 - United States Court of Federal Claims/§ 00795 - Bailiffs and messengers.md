@@ -1,6 +1,6 @@
 ### §795. Bailiffs and messengers
 
-The chief judge of United States Court of Federal Claims, with the approval of the court, may appoint necessary bailiffs and messengers, in such numbers as the Director of the Administrative Office of the United States Courts may approve, each of whom shall be subject to removal by the chief judge, with the approval of the court.
+The chief judge of <sup>1</sup> United States Court of Federal Claims, with the approval of the court, may appoint necessary bailiffs and messengers, in such numbers as the Director of the Administrative Office of the United States Courts may approve, each of whom shall be subject to removal by the chief judge, with the approval of the court.
 
 (June 25, 1948, ch. 646, 62 Stat. 924; Pub. L. 97–164, title I, §121(d)(1), Apr. 2, 1982, 96 Stat. 35; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
@@ -31,4 +31,6 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

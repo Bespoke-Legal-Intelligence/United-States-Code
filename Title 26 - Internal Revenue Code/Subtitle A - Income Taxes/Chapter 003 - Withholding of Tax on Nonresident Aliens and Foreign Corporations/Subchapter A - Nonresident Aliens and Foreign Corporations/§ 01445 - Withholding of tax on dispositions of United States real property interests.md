@@ -82,7 +82,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (2) Authority of Secretary to prescribe reduced amount
 
-&emsp;At the request of the transferor or transferee, the Secretary may prescribe a reduced amount to be withheld under this section if the Secretary determines that to substitutesuch reduced amount will not jeopardize the collection of the tax imposed by section 871(b)(1) or 882(a)(1).
+&emsp;At the request of the transferor or transferee, the Secretary may prescribe a reduced amount to be withheld under this section if the Secretary determines that to substitute such reduced amount will not jeopardize the collection of the tax imposed by section 871(b)(1) or 882(a)(1).
 
 #### (3) Procedural rules
 
@@ -172,7 +172,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (3) Distributions by certain domestic corporations to foreign shareholders
 
-&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B).Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
+&emsp;If a domestic corporation which is or has been a United States real property holding corporation (as defined in section 897(c)(2)) during the applicable period specified in section 897(c)(1)(A)(ii) distributes property to a foreign person in a transaction to which section 302 or part II of subchapter C applies, such corporation shall deduct and withhold under subsection (a) a tax equal to 10 percent of the amount realized by the foreign shareholder. The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B). Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.
 
 #### (4) Taxable distributions by domestic or foreign partnerships, trusts, or estates
 
@@ -256,7 +256,7 @@ Subsec. (e)(6). Pub. L. 99–514, §1810(f)(8), inserted “and regulations for 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable only to amounts paid after Aug. 5, 1997, see section 311(d)(2) ofPub. L. 105–34, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–34 applicable only to amounts paid after Aug. 5, 1997, see section 311(d)(2) of Pub. L. 105–34, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

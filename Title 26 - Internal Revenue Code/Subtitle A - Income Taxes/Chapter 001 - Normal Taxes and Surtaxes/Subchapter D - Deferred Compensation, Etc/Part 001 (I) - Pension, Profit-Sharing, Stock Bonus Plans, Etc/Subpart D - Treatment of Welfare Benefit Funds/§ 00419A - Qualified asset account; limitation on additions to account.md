@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (B) Special rule for certain new plans
 
-&emsp;&emsp;In the case of any new plan for which SUB or severance pay benefits are not availableto any key employee, the Secretary shall, by regulations, provide for an interim amount to be taken into account under paragraph (1).
+&emsp;&emsp;In the case of any new plan for which SUB or severance pay benefits are not available to any key employee, the Secretary shall, by regulations, provide for an interim amount to be taken into account under paragraph (1).
 
 #### (4) Limitation on amounts to be taken into account
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (2) Medical benefit
 
-&emsp;The term “medical benefit” means a benefit which consists of the providing (directly orthrough insurance) of medical care (as defined in section 213(d)).
+&emsp;The term “medical benefit” means a benefit which consists of the providing (directly or through insurance) of medical care (as defined in section 213(d)).
 
 #### (3) Life insurance benefit
 
@@ -252,7 +252,7 @@ For purposes of this subpart—
 
 #### (i) Regulations
 
-The Secretary shall prescribe such regulations as may be appropriate to carry out the purposesof this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
+The Secretary shall prescribe such regulations as may be appropriate to carry out the purposes of this subpart. Such regulations may provide that the plan administrator of any welfare benefit fund which is part of a plan to which more than 1 employer contributes shall submit such information to the employers contributing to the fund as may be necessary to enable the employers to comply with the provisions of this section.
 
 (Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 856; amended Pub. L. 99–514, title XVIII, §1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, 100 Stat. 2858–2860, 2862; Pub. L. 100–647, title I, §1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, 102 Stat. 3587, 3590; Pub. L. 104–188, title I, §1704(t)(60), Aug. 20, 1996, 110 Stat. 1890.)
 
@@ -302,7 +302,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions ofthe Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -314,5 +314,5 @@ Section 1851(a)(3)(B) of Pub. L. 99–514, as amended by Pub. L. 100–647, titl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 415, 419, 512, 4976 of this title.
+This section is referred to in sections 401, 415, 419, 512, 4976 of this title.
 

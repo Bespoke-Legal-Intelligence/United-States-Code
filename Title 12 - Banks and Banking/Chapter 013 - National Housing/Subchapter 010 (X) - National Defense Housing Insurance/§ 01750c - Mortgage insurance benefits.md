@@ -32,7 +32,7 @@ Notwithstanding any other provision of law relating to the acquisition, handling
 
 No mortgagee or mortgagor shall have, and no certification of claim shall be construed to give to any mortgagee or mortgagor, any right or interest in any property conveyed to the Secretary or in any claim assigned to him; nor shall the Secretary owe any duty to any mortgagee or mortgagor with respect to the handling or disposal of any such property or the collection of any such claim.
 
-(June 27, 1934, ch. 847, title IX, §904, as added Sept. 1, 1951, ch. 378, title II, §201, 65 Stat. 298; amended Aug. 2, 1954, ch. 649, title I, §112(d), 68 Stat. 593; Pub. L. 88–560, title I, §105(e), (f), Sept. 2, 1964, 78 Stat. 773, 774; Pub. L. 89–117, title XI, §1108(y), Aug. 10, 1965, 79 Stat. 507; Pub. L. 90–19,§1(a)(3), (d), May 25, 1967, 81 Stat. 17, 18; Pub. L. 98–479, title II, §204(a)(23), Oct. 17, 1984, 98 Stat. 2233.)
+(June 27, 1934, ch. 847, title IX, §904, as added Sept. 1, 1951, ch. 378, title II, §201, 65 Stat. 298; amended Aug. 2, 1954, ch. 649, title I, §112(d), 68 Stat. 593; Pub. L. 88–560, title I, §105(e), (f), Sept. 2, 1964, 78 Stat. 773, 774; Pub. L. 89–117, title XI, §1108(y), Aug. 10, 1965, 79 Stat. 507; Pub. L. 90–19, §1(a)(3), (d), May 25, 1967, 81 Stat. 17, 18; Pub. L. 98–479, title II, §204(a)(23), Oct. 17, 1984, 98 Stat. 2233.)
 
 #### References in Text
 
@@ -48,7 +48,7 @@ Subsec. (f). Pub. L. 90–19, §1(d), substituted “an officer” for “the Co
 
 1965—Subsecs. (c), (d). Pub. L. 89–117, §1108(y)(1), substituted “General Insurance Fund” for “National Defense Housing Insurance Fund”.
 
-Subsec. (e). Pub. L. 89–117, §1108(y)(2), removed limitation which had rendered applicable to certificates of claim only those provisions of sections 1710(e) and 1710(f) of this title which were applicable to mortgages insured under section 1713 of this title and struck out provision that reference in section 1710(f) of this title to the “Housing Insurance Fund” shall be deemed for the purpose of this section to be reference to the “National Defense Housing Insurance Fund”.
+Subsec. (e). Pub. L. 89–117, §1108(y)(2), removed limitation which had rendered applicable to certificates of claim only those provisions of sections 1710(e) and 1710(f) of this title which were applicable to mortgages insured under section 1713 of this title and struck outprovision that reference in section 1710(f) of this title to the “Housing Insurance Fund” shall be deemed for the purpose of this section to be reference to the “National Defense Housing Insurance Fund”.
 
 1964—Subsec. (a). Pub. L. 88–560, §105(e)(1), (f), inserted “<i>Provided further</i>, That with respect to any debentures issued on or after September 2, 1964, the Commissioner may, with the consent of the mortgagee (in lieu of issuing a certificate of claim as provided in subsection (e)), include in debentures, in addition to amounts otherwise allowed for such costs, an amount not to exceed one-third of the total foreclosure, acquisition, and conveyance costs actually paid by the mortgagee and approved by the Commissioner, but in no event may the total allowance for such costs exceed the amount actually paid by the mortgagee:” and struck out “paid after either of such dates” after “mortgage insurance premiums” in third sentence, respectively.
 

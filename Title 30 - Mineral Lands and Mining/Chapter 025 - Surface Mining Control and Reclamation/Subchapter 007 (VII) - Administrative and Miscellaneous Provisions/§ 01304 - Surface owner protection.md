@@ -34,7 +34,7 @@ This section shall not apply to Indian lands.
 
 #### (g) Effect on property rights of United States or any other landowner
 
-Nothing in this section shall be construed as increasing or diminishing any property rights by the United States or by any other land-owner.
+Nothing in this section shall be construed as increasing or diminishing any property rights by the United States or by any other landowner.
 
 (Pub. L. 95–87, title VII, §714, Aug. 3, 1977, 91 Stat. 524.)
 

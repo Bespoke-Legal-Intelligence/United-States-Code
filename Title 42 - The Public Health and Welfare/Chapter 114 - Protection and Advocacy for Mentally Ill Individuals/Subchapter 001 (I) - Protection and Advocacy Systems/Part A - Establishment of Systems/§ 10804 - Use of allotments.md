@@ -24,7 +24,7 @@ An eligible system may use its allotment under this subchapter to provide repres
 
 The definition of “individual with a mental illness” contained in section 10802(4)(B)(iii) of this title shall apply, and thus an eligible system may use its allotment under this subchapter to provide representation to such individuals, only if the total allotment under this subchapter for any fiscal year is $30,000,000 or more, and in such case, an eligible system must give priority to representing persons with mental illness as defined in subparagraphs (A) and (B)(i) of section 10802(4) of this title.
 
-(Pub. L. 99–319, title I, §104, May 23, 1986, 100 Stat. 479; Pub. L. 100–509, §7(a), (b)(1), Oct. 20,1988, 102 Stat. 2544; Pub. L. 102–173, §§5, 10(2), Nov. 27, 1991, 105 Stat. 1217, 1219; Pub. L. 106–310, div. B, title XXXII, §3206(c), Oct. 17, 2000, 114 Stat. 1194.)
+(Pub. L. 99–319, title I, §104, May 23, 1986, 100 Stat. 479; Pub. L. 100–509, §7(a), (b)(1), Oct. 20, 1988, 102 Stat. 2544; Pub. L. 102–173, §§5, 10(2), Nov. 27, 1991, 105 Stat. 1217, 1219; Pub. L. 106–310, div. B, title XXXII, §3206(c), Oct. 17, 2000, 114 Stat. 1194.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@ The Secretary may require any person to prepare and maintain such records or acc
 
 #### (b) Audit of operations of storage facility
 
-The Secretary may audit the operations of any storage facility in which any petroleum product is stored or required to be stored pursuant to the provisions of this part.
+The Secretary may audit the operations of any storage facility in which any petroleum productis stored or required to be stored pursuant to the provisions of this part.
 
 #### (c) Access to and inspection of records or accounts and storage facilities
 

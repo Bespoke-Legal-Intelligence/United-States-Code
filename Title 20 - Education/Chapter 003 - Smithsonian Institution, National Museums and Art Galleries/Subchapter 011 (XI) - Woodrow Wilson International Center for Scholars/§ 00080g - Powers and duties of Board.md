@@ -6,7 +6,7 @@ In administering the Center, the Board shall have all necessary and proper power
 
 &emsp;(1) appoint scholars, from the United States and abroad, and, where appropriate, provide stipends, grants, and fellowships to such scholars, and to hire or accept the voluntary services of consultants, advisory boards, and panels to aid the Board in carrying out its responsibilities;
 
-&emsp;(2) solicit, accept, and dispose of gifts, bequests, and devises of money, securities, and other property of whatsoever character for the benefit of the Center; any such money, securities, or other property shall, upon receipt, be deposited with the Smithsonian Institution, and unless otherwise restricted by the terms of the gift, expenditures shall be in the discretion of the Board for the purposes of the Center;
+&emsp;(2) solicit, accept, and dispose of gifts, bequests, and devises of money, securities, and other property of whatsoever character for the benefit of the Center; any such money, securities, or other property shall, upon receipt, bedeposited with the Smithsonian Institution, and unless otherwise restricted by the terms of the gift, expenditures shall be in the discretion of the Board for the purposes of the Center;
 
 &emsp;(3) obtain grants from, and make contracts with, State, Federal, local, and private agencies, organizations, institutions, and individuals;
 
@@ -20,7 +20,7 @@ In administering the Center, the Board shall have all necessary and proper power
 
 #### (b) Relocation assistance and programs
 
-The Board shall, in connection with acquisition of any site authorized by Congress, as provided for in paragraph (4) of subsection (a) of this section, provide, to businesses and residents displaced from any such site, relocation assistance, including payments and other benefits, equivalent to that authorized to displace businesses and residents under the Housing Act of1949, as amended \[42 U.S.C. 1441 et seq.\]. The Board shall develop a relocation program for existing businesses and residents within the site and submit such program to the government of the District of Columbia for a determination as to its adequacy and feasibility. In providing such relocation assistance and developing such relocation program the Board shall utilize to the maximum extent the services and facilities of the appropriate Federal and local agencies.
+The Board shall, in connection with acquisition of any site authorized by Congress, as provided for in paragraph (4) of subsection (a) of this section, provide, to businesses and residents displaced from any such site, relocation assistance, including payments and other benefits, equivalent to that authorized to displace businesses and residents under the Housing Act of 1949, as amended \[42 U.S.C. 1441 et seq.\]. The Board shall develop a relocation program for existing businesses and residents within the site and submit such program to the government of the District of Columbia for a determination as to its adequacy and feasibility. In providing such relocation assistance and developing such relocation program the Board shall utilize to the maximum extent the services and facilities of the appropriate Federal and local agencies.
 
 (Pub. L. 90–637, §4, Oct. 24, 1968, 82 Stat. 1358; Pub. L. 95–286, §2, May 26, 1978, 92 Stat. 279.)
 

@@ -42,7 +42,7 @@ Adjustment and Diversification Assistance.—(1) The Secretary of Defense may ma
 
 (C) The Secretary of Defense may also make grants, conclude cooperative agreements, and supplement other Federal funds in order to assist a State or local government in enhancing the capabilities of the government to support efforts of the Department of Defense to privatize, contract for, or diversify the performance of military family support services in cases in which the capability of the Department to provide such services is adversely affected by an action described in paragraph (1).
 
-(6) Funds provided to State and local governments and regional organizations under this section may be used as part or all of any required non-Federal contribution to a Federal grant-in-aid program for the purposes stated in paragraph (1).
+(6) Funds provided to State and local governments and regional organizations under this section may be used as part or all of any requirednon-Federal contribution to a Federal grant-in-aid program for the purposes stated in paragraph (1).
 
 (7) To the extent practicable, the Secretary of Defense shall inform a State or local government applying for assistance under this subsection of the approval or rejection by the Secretary of the application for such assistance as follows:
 
@@ -72,7 +72,7 @@ Definitions.—In this section:
 
 Assistance Subject to Appropriations.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L.104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
+(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Subsec. (b)(4), (5). Pub. L. 102–484, §4301(a)(1), (2), added par. (4) and re
 
 Subsec. (c). Pub. L. 102–484, §4301(c)(3), inserted heading.
 
-Subsec. (d). Pub. L. 102–484, §4301(b)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In this section, the term ‘military installation’ means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.”
+Subsec. (d). Pub. L. 102–484, §4301(b)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In this section, the term ‘military installation’ means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the severalStates, the District of Columbia, the Commonwealth of Puerto Rico, or Guam.”
 
 Subsec. (e). Pub. L. 102–484, §4301(c)(4), inserted heading.
 
@@ -188,7 +188,7 @@ Findings.—Congress makes the following findings:
 
 Policy.—In view of the findings expressed in subsection (a), it is the policy of the United States that—
 
-&emsp;“(1) assistance be provided under existing planning assistance programs and economic adjustment assistance programs of the Federal Government to substantially and seriously affected communities, businesses, and workers to the extent necessary to facilitate an orderly transition for such communities, small businesses, and workers from economic reliance on Department of Defense spending to economic reliance on other sources of business, employment, and revenue; and
+&emsp;“(1) assistance be provided under existing planning assistance programs and economic adjustment assistance programs of the Federal Government to substantially and seriously affected communities, businesses, and workers to the extent necessary to facilitate anorderly transition for such communities, small businesses, and workers from economic reliance on Department of Defense spending to economic reliance on other sources of business, employment, and revenue; and
 
 &emsp;“(2) funding for such programs be increased by amounts necessary to meet the needs of such communities, small businesses, and workers without reducing the funding that would otherwise be available under those programs by reason of causes unrelated to the reductions referred to in subsection (a)(1).
 

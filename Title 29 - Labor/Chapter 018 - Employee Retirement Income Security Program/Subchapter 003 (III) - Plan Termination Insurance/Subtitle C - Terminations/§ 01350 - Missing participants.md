@@ -18,7 +18,7 @@
 
 &emsp;After a missing participant whose designated benefit was transferred to the corporation is located—
 
-&emsp;&emsp;(A) in any case in which the plan could have distributed the benefit of the missing participant in a single sum without participant or spousal consent under section 1055(g) of this title, the corporation shall pay theparticipant or beneficiary a single sum benefit equal to the designated benefit paid the corporation plus interest as specified by the corporation, and
+&emsp;&emsp;(A) in any case in which the plan could have distributed the benefit of the missing participant in a single sum without participant or spousal consent under section 1055(g) of this title, the corporation shall pay the participant or beneficiary a single sum benefit equal to the designated benefit paid the corporation plus interest as specified by the corporation, and
 
 &emsp;&emsp;(B) in any other case, the corporation shall pay a benefit based on the designated benefit and the assumptions prescribed by the corporation at the time that the corporation received the designated benefit.
 

@@ -36,7 +36,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(F) The right to freedom from restraint or seclusion, other than as a mode or course of treatment or restraint or seclusion during an emergency situation if such restraint or seclusion is pursuant to or documented contemporaneously by the written order of a responsible mental health professional.
 
-&emsp;&emsp;(G) The right to a humane treatment environment that affords reasonable protection from harm and appropriate privacy to such person with regard to personal needs.
+&emsp;&emsp;(G) The right to a humane treatment environment that affords reasonable protectionfrom harm and appropriate privacy to such person with regard to personal needs.
 
 &emsp;&emsp;(H) The right to confidentiality of such person's records.
 
@@ -78,7 +78,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(i) obligate an individual mental health or health professional to administer treatment contrary to such professional's clinical judgment;
 
-&emsp;&emsp;(ii) prevent any program or facility from discharging any person for whom the provision of appropriate treatment, consistent with the clinical judgment of the mental health professional primarily responsible forsuch person's treatment, is or has become impossible as a result of such person's refusal to consent to such treatment;
+&emsp;&emsp;(ii) prevent any program or facility from discharging any person for whom the provision of appropriate treatment, consistent with the clinical judgment of the mental health professional primarily responsible for such person's treatment, is or has become impossible as a result of such person's refusal to consent to such treatment;
 
 &emsp;&emsp;(iii) require a program or facility to admit any person who, while admitted on prior occasions to such program or facility, has repeatedly frustrated the purposes of such admissions by withholding consent to proposed treatment; or
 

@@ -38,6 +38,10 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 1998—Subsec. (c)(4). Pub. L. 105–368 substituted “Administration” for “System”.
 
+#### Order of Succession
+
+For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+
 #### Renaming of Veterans Health Services and Research Administration
 
 Pub. L. 102–40, §2, May 7, 1991, 105 Stat. 187, provided that:
@@ -78,7 +82,7 @@ Pub. L. 100–527, §§1–12, 14, 16, 18, Oct. 25, 1988, 102 Stat. 2635–2642,
 
 “(b)
 
-Continuation of Service of General Counsel.—The individual serving on the effective date of this Act \[Mar. 15, 1989\] as the General Counsel of the Veterans’ Administration may act as the GeneralCounsel of the Department of Veterans Affairs until a person is appointed under this Act to that office.
+Continuation of Service of General Counsel.—The individual serving on the effective date of this Act \[Mar. 15, 1989\] as the General Counsel of the Veterans’ Administration may act as the General Counsel of the Department of Veterans Affairs until a person is appointed under this Act to that office.
 
 #### “SEC. 9. OFFICE OF THE INSPECTOR GENERAL.
 
@@ -114,7 +118,7 @@ Redesignation.—The Office of Inspector General of the Veterans’ Administrati
 
 “(a)
 
-Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
+Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits,grants, contracts, certificates, licenses, and privileges—
 
 &emsp;“(1) which have been issued, made, granted, or allowed to become effective by the President, by the Administrator of Veterans’ Affairs, or by a court of competent jurisdiction, in the performance of functions of the Administrator or the Veterans’ Administration; and
 

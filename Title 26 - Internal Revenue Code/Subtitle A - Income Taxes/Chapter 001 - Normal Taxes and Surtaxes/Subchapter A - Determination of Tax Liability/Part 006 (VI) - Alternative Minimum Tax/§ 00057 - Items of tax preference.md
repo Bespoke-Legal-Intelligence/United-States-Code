@@ -18,7 +18,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 &emsp;&emsp;For purposes of subparagraph (A), the amount of the excess intangible drilling costs arising in the taxable year is the excess of—
 
-&emsp;&emsp;&emsp;(i) the intangible drilling and development costs paid or incurred in connectionwith oil, gas, and geothermal wells (other than costs incurred in drilling a nonproductive well) allowable under section 263(c) or 291(b) for the taxable year, over
+&emsp;&emsp;&emsp;(i) the intangible drilling and development costs paid or incurred in connection with oil, gas, and geothermal wells (other than costs incurred in drilling a nonproductive well) allowable under section 263(c) or 291(b) for the taxable year, over
 
 &emsp;&emsp;&emsp;(ii) the amount which would have been allowable for the taxable year if such costs had been capitalized and straight line recovery of intangibles (as defined in subsection (b)) had been used with respect to such costs.
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13113(b)(1) of Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as a note under section 53 of this title.
+Amendment by section 13113(b)(1) of Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, see section13113(e) of Pub. L. 103–66, set out as a note under section 53 of this title.
 
 Amendment by section 13171(a) of Pub. L. 103–66 applicable to contributions made after June 30, 1992, except that in case of any contribution of capital gain property which is not tangible personal property, such amendment applicable only if the contribution is made after Dec. 31, 1992, see section 13171(d) of Pub. L. 103–66, set out as a note under section 53 of this title.
 

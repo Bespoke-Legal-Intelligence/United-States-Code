@@ -4,7 +4,7 @@
 
 Except as provided in subsection (b) of this section, in no case may the Attorney General, or any other official or employee of the Department of Justice (including any bureau or agency of such Department)—
 
-&emsp;(1) make an adverse determination of admissibility or deportability of an alien under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] using information furnished solely by—
+&emsp;(1) make an adverse determination of admissibility or deportability of an alien under theImmigration and Nationality Act \[8 U.S.C. 1101 et seq.\] using information furnished solely by—
 
 &emsp;&emsp;(A) a spouse or parent who has battered the alien or subjected the alien to extreme cruelty,
 
@@ -66,7 +66,7 @@ Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwis
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(g)(8)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(8)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “240A(b)(2)”.</i>
 

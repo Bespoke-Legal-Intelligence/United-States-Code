@@ -24,7 +24,7 @@ If—
 
 &emsp;(2) there is a recapitalization of a corporation or other substantial change in the capital structure of a corporation,
 
-> when required by the Secretary, such corporation shall make a return (at such time and insuch manner as the Secretary may prescribe) setting forth the identity of the parties to the transaction, the fees involved, the changes in the capital structure involved, and such other information as the Secretary may require with respect to such transaction.
+> when required by the Secretary, such corporation shall make a return (at such time and in such manner as the Secretary may prescribe) setting forth the identity of the parties to the transaction, the fees involved, the changes in the capital structure involved, and such other information as the Secretary may require with respect to such transaction.
 
 #### (d) Cross references
 
@@ -60,7 +60,7 @@ Section 7208(b)(4) of Pub. L. 101–239 provided that: “The amendments made by
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
+Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1969 Amendment
 

@@ -48,7 +48,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 #### (1) Joint review
 
-&emsp;In carrying out the FAST program under this section, the Administrator and the SBIR program managers at the National Science Foundation and the Department of Defense shall jointly review proposals submitted by applicants and may make awards or enter into cooperative agreements under this section based on the factors for consideration set forthin paragraph (2), in order to enhance or develop in a State—
+&emsp;In carrying out the FAST program under this section, the Administrator and the SBIR program managers at the National Science Foundation and the Department of Defense shall jointly review proposals submitted by applicants and may make awards or enter into cooperative agreements under this section based on the factors for consideration set forth in paragraph (2), in order to enhance or develop in a State—
 
 &emsp;&emsp;(A) technology research and development by small business concerns;
 
@@ -56,7 +56,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;&emsp;(C) technology deployment and diffusion benefiting small business concerns;
 
-&emsp;&emsp;(D) the technological capabilities of small business concerns through the establishment or operation of consortia comprised of entities, organizations, or individuals, including—
+&emsp;&emsp;(D) the technological capabilities of small business concerns through the establishmentor operation of consortia comprised of entities, organizations, or individuals, including—
 
 &emsp;&emsp;&emsp;(i) State and local development agencies and entities;
 
@@ -92,9 +92,17 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;&emsp;&emsp;(iii) whether the projected costs of the proposed activities are reasonable;
 
-&emsp;&emsp;&emsp;(iv) whether the proposal integrates and coordinates the proposed activities with other State and local programs assisting small high-technology firms in the State; and
+&emsp;&emsp;&emsp;(iv) whether the proposal integrates and coordinates the proposed activities with other State and local programs assisting small high-technology firms in the State;
 
-&emsp;&emsp;&emsp;(v) the manner in which the applicant will measure the results of the activities to be conducted.
+&emsp;&emsp;&emsp;(v) the manner in which the applicant will measure the results of the activities to be conducted; and
+
+&emsp;&emsp;&emsp;(vi) whether the proposal addresses the needs of small business concerns—
+
+&emsp;&emsp;&emsp;&emsp;(I) owned and controlled by women;
+
+&emsp;&emsp;&emsp;&emsp;(II) owned and controlled by minorities; and
+
+&emsp;&emsp;&emsp;&emsp;(III) located in areas that have historically not participated in the SBIR and STTR programs.
 
 #### (3) Proposal limit
 
@@ -102,7 +110,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 #### (4) Process
 
-&emsp;Proposals and applications for assistance under this section shall be in such form and subject to such procedures as the Administrator shall establish.
+&emsp;Proposals and applications for assistance under this section shall be in such form and subject to such procedures as the Administrator shall establish. The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).
 
 #### (d) Cooperation and coordination
 
@@ -208,11 +216,17 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 The authority to carry out the FAST program under this section shall terminate on September 30, 2005.
 
-(Pub. L. 85–536, §2\[34\], as added Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674.)
+(Pub. L. 85–536, §2\[34\], as added Pub. L. 106–554, §1(a)(9) \[title I, §111(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, §8, Oct. 15, 2001, 115 Stat. 265.)
 
 #### Prior Provisions
 
 A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[36\] and is set out as a note under section 631 of this title.
+
+#### Amendments
+
+2001—Subsec. (c)(2)(B)(vi). Pub. L. 107–50, §8(a), added cl. (vi).
+
+Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposalsunder paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
 
 #### Findings
 
@@ -220,7 +234,7 @@ Pub. L. 106–554, §1(a)(9) \[title I, §111(a)\], Dec. 21, 2000, 114 Stat. 276
 
 &emsp;“(1) programs to foster economic development among small high-technology firms vary widely among the States;
 
-&emsp;“(2) States that do not aggressively support the development of small high-technology firms, includingparticipation by small business concerns in the SBIR program, are at a competitive disadvantage in establishing a business climate that is conducive to technology development; and
+&emsp;“(2) States that do not aggressively support the development of small high-technology firms, including participation by small business concerns in the SBIR program, are at a competitive disadvantage in establishing a business climate that is conducive to technology development; and
 
 &emsp;“(3) building stronger national, State, and local support for science and technology research in these disadvantaged States will expand economic opportunities in the United States, create jobs, and increase the competitiveness of the United States in the world market.”
 

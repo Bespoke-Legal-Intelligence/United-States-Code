@@ -32,7 +32,7 @@ In providing assistance under this part for the government of any independent st
 
 &emsp;(10) cooperate with the United States Government in uncovering all evidence regarding Americans listed as prisoners-of-war, or otherwise missing during American operations, who were detained in the former Soviet Union during the Cold War; and
 
-&emsp;(11) terminate support for the communist regime in Cuba, including removal of troops, closing military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos, and ceasing trade subsidies and economic, nuclear, and other assistance.
+&emsp;(11) terminate support for the communist regime in Cuba, including removal of troops,closing military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos, and ceasing trade subsidies and economic, nuclear, and other assistance.
 
 #### (b) Ineligibility for assistance
 
@@ -78,7 +78,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 &emsp;(A) The President may waive the requirement of paragraph (1) to withhold assistance if the President certifies to the appropriate congressional committees that the provision of such assistance is important to the national security of the United States, and, in the case of such a certification made with respect to Russia, if the President certifies that the Russian Government has assured the United States Government that the Russian Government is not sharing intelligence data collected at the Lourdes facility with officials or agents of the Cuban Government.
 
-&emsp;(B) At the time of a certification made with respect to Russia under subparagraph (A), the President shall also submit to the appropriate congressional committees a report describing the intelligence activities of Russia in Cuba, including the purposes for which the Lourdes facility is used by the Russian Governmentand the extent to which the Russian Government provides payment or government credits to the Cuban Government for the continued use of the Lourdes facility.
+&emsp;(B) At the time of a certification made with respect to Russia under subparagraph (A), the President shall also submit to the appropriate congressional committees a report describing the intelligence activities of Russia in Cuba, including the purposes for which the Lourdes facility is used by the Russian Government and the extent to which the Russian Government provides payment or government credits to the Cuban Government for the continued use of the Lourdes facility.
 
 &emsp;(C) The report required by subparagraph (B) may be submitted in classified form.
 

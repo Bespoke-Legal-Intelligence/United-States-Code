@@ -74,7 +74,7 @@ Covered Programs.—The programs described in this subsection are as follows:
 
 &emsp;“(1)
 
-Advanced mobile clandestine laboratory training teams.—A program of advanced mobile clandestine laboratory training teams, which shallprovide information and training to State and local law enforcement personnel in techniques utilized in conducting undercover investigations and conspiracy cases, and other information designed to assist in the investigation of the illegal manufacturing and trafficking of amphetamine and methamphetamine.
+Advanced mobile clandestine laboratory training teams.—A program of advanced mobile clandestine laboratory training teams, which shall provide information and training to State and local law enforcement personnel in techniques utilized in conducting undercover investigations and conspiracy cases, and other information designed to assist in the investigation of the illegal manufacturing and trafficking of amphetamine and methamphetamine.
 
 &emsp;“(2)
 

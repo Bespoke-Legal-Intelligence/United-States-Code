@@ -82,7 +82,11 @@ This section shall not apply to any gain to the extent such gain is treated as o
 
 &emsp;&emsp;<b>For special rules relating to the earnings and profits of foreign investment companies, see section 312(</b><b><i>l</i></b>).
 
-(Added Pub. L. 87–834, §14(a)(1), Oct. 16, 1962, 76 Stat. 1036; amended Pub. L. 94–455, title XIV, §1402(b)(1)(W), (2), title XIX, §§1901(a)(141), (b)(3)(I), (32)(B)(ii), 1906(b)(13)(A), title XX, §2005(a)(5), Oct. 4, 1976, 90 Stat. 1732, 1787, 1793, 1800, 1834, 1877; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title VIII, §832(a), Aug. 13, 1981, 95 Stat. 355; Pub. L. 98–369, div. A, title I, §134(a), title X, §1001(b)(20), (e), July 18, 1984, 98 Stat. 668, 1012; Pub. L. 99–514, title XII, §1235(b), Oct. 22, 1986, 100 Stat. 2574; Pub. L. 100–647, title I, §§1012(p)(21), 1018(<i>o</i>)(2), Nov. 10, 1988, 102 Stat. 3519, 3585.)
+(Added Pub. L. 87–834, §14(a)(1), Oct. 16, 1962, 76 Stat. 1036; amended Pub. L. 94–455, title XIV, §1402(b)(1)(W), (2), title XIX, §§1901(a)(141), (b)(3)(I), (32)(B)(ii), 1906(b)(13)(A), title XX, §2005(a)(5), Oct. 4, 1976, 90 Stat. 1732, 1787, 1793, 1800, 1834, 1877; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title VIII, §832(a), Aug. 13, 1981, 95 Stat. 355; Pub. L. 98–369, div. A, title I, §134(a), title X, §1001(b)(20), (e), July 18, 1984, 98 Stat. 668, 1012; Pub. L. 99–514, title XII, §1235(b), Oct. 22, 1986, 100 Stat. 2574; Pub. L. 100–647, title I, §§1012(p)(21), 1018(<i>o</i>)(2), Nov. 10, 1988, 102 Stat. 3519, 3585; Pub. L. 107–16, title V, §542(e)(5)(A), June 7, 2001, 115 Stat. 85.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–16, title V, §542(e)(5)(A), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, this section is temporarily amended by striking out subsection (e). See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -100,7 +104,7 @@ Subsec. (h). Pub. L. 100–647, §1012(p)(21), redesignated subsec. (g), relatin
 
 <b>1986</b>—Subsecs. (f), (g). Pub. L. 99–514 added subsec. (f) and redesignated former subsec. (f), relating to information with respect to certain foreign investment companies, as (g).
 
-<b>1984</b>—Subsec. (a)(4). Pub. L. 98–369, §1001(b)(20), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a)(4). Pub. L. 98–369, §1001(b)(20), (e), substituted “6 months” for “1 year”, applicable toproperty acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 Subsec. (b)(2). Pub. L. 98–369, §134(a), in amending par. (2) generally, substituted reference to securities, as defined in section 2(a)(36) of the Investment Company Act of 1940, commodities, or any interest, including a futures or forward contract or option, in property described in subpars. (A) and (B) for reference to securities within the meaning of section 3(a)(1) of the Investment Company Act of 1940, as limited by pars. (2) through (10), except par. (6)(C), and pars. (12) through (15) of section 3(c) of such Act, and reference to pars. (2) and (3) of section 958(a) and par. (4) of section 318(a) for reference to section 958(a).
 
@@ -119,6 +123,12 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(b)(13)(a), struck out “or his dele
 Subsecs. (e) to (g). Pub. L. 94–455, §2005(a)(5), struck out subsec. (e) and redesignated subsecs. (f) and (g) as (e) and (f), respectively. See Repeals note below.
 
 Pub. L. 94–455, §§1901(a)(141), (b)(32)(B)(ii), 1906(b)(13)(A), struck out “or his delegate” in subsecs. (e)(2) and (f), struck out “beginning after December 31, 1962” after “foreign investment company” in subsec. (f), and substituted “section 312(j)” for “section 312(<i>l</i>)” in subsec. (g).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

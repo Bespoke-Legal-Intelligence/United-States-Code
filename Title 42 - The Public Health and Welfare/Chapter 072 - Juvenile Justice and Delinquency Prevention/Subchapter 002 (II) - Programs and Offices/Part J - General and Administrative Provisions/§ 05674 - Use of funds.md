@@ -18,7 +18,7 @@ Except as provided in subsection (a) of this section, no funds paid to any publi
 
 (2) The Administrator shall take such action as may be necessary to ensure that no funds paid under section 5633(a)(10)(D) of this title or section 5665(a)(3) of this title are used either directly or indirectly in any manner prohibited in this paragraph.<sup>1</sup>
 
-(Pub. L. 93–415, title II, §299C, formerly §294, as added Pub. L. 100–690, title VII, §7266(4), Nov. 18,1988, 102 Stat. 4449; renumbered §299C, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
+(Pub. L. 93–415, title II, §299C, formerly §294, as added Pub. L. 100–690, title VII, §7266(4), Nov. 18, 1988, 102 Stat. 4449; renumbered §299C, Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ Whenever the President determines it to be consistent with and in furtherance of
 
 #### (b) Agency contracts with individuals to perform services
 
-When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States to perform such services or to replace officers or employees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government forthe purpose of any law administered by the Director of the Office of Personnel Management.
+When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States to perform such services or to replace officers or employees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Director of the Office of Personnel Management.
 
 #### (c) Excess property
 
@@ -20,7 +20,7 @@ When any agency of the United States Government provides services on an advance-
 
 &emsp;(B) as to the status and responsibility of the designated end-user and his ability effectively to use and maintain such property; and
 
-&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
+&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing,crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
 
 (2) For purposes of transferring property described in this subsection in furtherance of the provisions of part VIII of subchapter I of this chapter, the phrase “the agency administering such subchapter I” shall be considered to refer to the Department of State.
 
@@ -80,7 +80,7 @@ Section 122(b) of Pub. L. 95–88 provided that: “For purposes of implementing
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec.\(b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Authority of Secretary of State
 

@@ -10,7 +10,7 @@ Upon an application made pursuant to section 1823 of this title, the judge shall
 
 &emsp;(3) on the basis of the facts submitted by the applicant there is probable cause to believe that—
 
-&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power, except that no United States person may be considered an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
+&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power,except that no United States person may be considered an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
 
 &emsp;&emsp;(B) the premises or property to be searched is owned, used, possessed by, or is in transit to or from an agent of a foreign power or a foreign power;
 
@@ -52,9 +52,9 @@ An order approving a physical search under this section shall—
 
 #### (d) Duration of order; extensions; assessment of compliance
 
-(1) An order issued under this section may approve a physical search for the period necessary to achieve its purpose, or for forty-five days, whichever is less, except that an order under this section shall approve a physical search targeted against a foreign power, as defined in paragraph (1), (2), or (3) of section 1801(a) of this title, for the period specified in the application or for one year, whichever is less.
+(1) An order issued under this section may approve a physical search for the period necessary to achieve its purpose, or for 90 days, whichever is less, except that (A) an order under this section shall approve a physical search targeted against a foreign power, as defined in paragraph (1), (2), or (3) of section 1801(a) of this title, for the period specified in the application or for one year, whichever is less, and (B) an order under this section for a physical search targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for the period specified in the application or for 120 days, whichever is less.
 
-(2) Extensions of an order issued under this subchapter may be granted on the same basis as the original order upon an application for an extension and new findings made in the same manner as required for the original order, except that an extension of an order under this chapter for a physical search targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power, as defined in section 1801(a)(4) of this title, that is not a United States person, may be for a period not to exceed one year if the judge finds probable cause to believe that no property of any individual United States person will be acquired during the period.
+(2) Extensions of an order issued under this subchapter may be granted on the same basis as the original order upon an application for an extension and new findings made in the same manner as required for the original order, except that an extension of an order under this chapter for a physical search targeted against a foreign power, as defined in section 1801(a)(5) or (6) of this title, or against a foreign power, as defined in section 1801(a)(4) of this title, that is not a United States person, or against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title, may be for a period not to exceed one year if the judge finds probable cause to believe that no property of any individual United States person will be acquired during the period.
 
 (3) At or before the end of the period of time for which a physical search is approved by an order or an extension, or at any time after a physical search is carried out, the judge may assess compliance with the minimization procedures by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
@@ -64,7 +64,7 @@ An order approving a physical search under this section shall—
 
 &emsp;(i) a judge having jurisdiction under section 1803 of this title is informed by the Attorney General or the Attorney General's designee at the time of such authorization that the decision has been made to execute an emergency search, and
 
-&emsp;(ii) an application in accordance with this subchapter is made to that judge as soon as practicable but not more than 24 hours after the Attorney General authorizes such search.
+&emsp;(ii) an application in accordance with this subchapter is made to that judge as soon as practicable but not more than 72 hours after the Attorney General authorizes such search.
 
 (B) The determination referred to in subparagraph (A) is a determination that—
 
@@ -80,7 +80,7 @@ An order approving a physical search under this section shall—
 
 &emsp;(B) the date on which the application for the order is denied; or
 
-&emsp;(C) the expiration of 24 hours from the time of authorization by the Attorney General.
+&emsp;(C) the expiration of 72 hours from the time of authorization by the Attorney General.
 
 (4) In the event that such application for approval is denied, or in any other case where the physical search is terminated and no order is issued approving the search, no information obtained or evidence derived from such search shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such search shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General, if the information indicates a threat of death or serious bodily harm to any person. A denial of the application made under this subsection may be reviewed as provided in section 1822 of this title.
 
@@ -88,7 +88,11 @@ An order approving a physical search under this section shall—
 
 Applications made and orders granted under this subchapter shall be retained for a period of at least 10 years from the date of the application.
 
-(Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853.)
+(Pub. L. 95–511, title III, §304, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3447; amended Pub. L. 106–567, title VI, §603(b), Dec. 27, 2000, 114 Stat. 2853; Pub. L. 107–56, title II, §207(a)(2), (b)(2), Oct. 26, 2001, 115 Stat. 282; Pub. L. 107–108, title III, §314(a)(4), Dec. 28, 2001, 115 Stat. 1402.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -96,7 +100,17 @@ This chapter, referred to in subsec. (d)(2), was in the original “this Act”,
 
 #### Amendments
 
+2001—Subsec. (d)(1). Pub. L. 107–56, §§207(a)(2), 224, temporarily substituted “90 days,” for “forty-five days,” and temporarily inserted “(A)” after “except that” and “, and (B) an order under this section for a physical search targeted against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title may be for the period specified in the application or for 120 days, whichever is less” before period at end. See Termination Date of 2001 Amendment note below.
+
+Subsec. (d)(2). Pub. L. 107–56, §§207(b)(2), 224, temporarily inserted “or against an agent of a foreign power as defined in section 1801(b)(1)(A) of this title,” after “not a United States person,”. See Termination Date of 2001 Amendment note below.
+
+Subsec. (e)(1)(A)(ii), (3)(C). Pub. L. 107–108 substituted “72 hours” for “24 hours”.
+
 2000—Subsecs. (b) to (f). Pub. L. 106–567 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+
+#### Termination Date of 2001 Amendment
+
+Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 
 #### Section Referred to in Other Sections
 

@@ -143,6 +143,10 @@
 | 262p–4q. | Opposition to assistance by international financial institutions to terrorist states. |
 | (a) | In general. |
 | (b) | “International financial institution” defined. |
+| 262p–4r. | Use of authority of United States Executive Directors. |
+| (a) | Action by the President. |
+| (b) | Use of voice and vote. |
+| (c) | Definition. |
 | 262p–5. | Definitions. |
 | 262p–6. | Improvement of the Heavily Indebted Poor Countries Initiative. |
 | (a) | Improvement of the HIPC Initiative. |
@@ -1201,6 +1205,7 @@
 - [&sect; 00262p&#8211;4o - Respect for indigenous peoples](%C2%A7%2000262p%E2%80%934o%20-%20Respect%20for%20indigenous%20peoples.md)
 - [&sect; 00262p&#8211;4p - Encouragement of fair labor practices](%C2%A7%2000262p%E2%80%934p%20-%20Encouragement%20of%20fair%20labor%20practices.md)
 - [&sect; 00262p&#8211;4q - Opposition to assistance by international financial institutions to terrorist states](%C2%A7%2000262p%E2%80%934q%20-%20Opposition%20to%20assistance%20by%20international%20financial%20institutions%20to%20terrorist%20states.md)
+- [&sect; 00262p&#8211;4r - Use of authority of United States Executive Directors](%C2%A7%2000262p%E2%80%934r%20-%20Use%20of%20authority%20of%20United%20States%20Executive%20Directors.md)
 - [&sect; 00262p&#8211;5 - Definitions](%C2%A7%2000262p%E2%80%935%20-%20Definitions.md)
 - [&sect; 00262p&#8211;6 - Improvement of the Heavily Indebted Poor Countries Initiative](%C2%A7%2000262p%E2%80%936%20-%20Improvement%20of%20the%20Heavily%20Indebted%20Poor%20Countries%20Initiative.md)
 - [&sect; 00262p&#8211;7 - Reform of the Enhanced Structural Adjustment Facility](%C2%A7%2000262p%E2%80%937%20-%20Reform%20of%20the%20Enhanced%20Structural%20Adjustment%20Facility.md)

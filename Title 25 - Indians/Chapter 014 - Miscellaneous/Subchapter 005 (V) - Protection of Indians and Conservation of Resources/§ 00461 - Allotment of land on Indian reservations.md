@@ -6,7 +6,7 @@ On and after June 18, 1934, no land of any Indian reservation, created or set ap
 
 #### Short Title
 
-Act June 18, 1934, which enacted this section and sections 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476 to 478, and 479 of this title, is popularly known as the “Indian Reorganization Act”.
+Act June 18, 1934, which enacted this section and sections 462, 463, 464, 465, 466 to 470, 471, 472, 473, 474, 475, 476to 478, and 479 of this title, is popularly known as the “Indian Reorganization Act”.
 
 #### Act Referred to in Other Sections
 

@@ -26,9 +26,15 @@ Component Institutions.—The National Defense University consists of the follow
 
 Source of Funds for Center for Hemispheric Defense Studies.—Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies.
 
-(Added and amended Pub. L. 105–85, div. A, title IX, §§921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230.)
+(d)
+
+Source of Funds for Professional Development Education Operations.—Funding for the professional development education operations of the National Defense University shall be provided from funds made available to the Secretary of Defense from the annual appropriation “Operation and Maintenance, Defense-wide”.
+
+(Added and amended Pub. L. 105–85, div. A, title IX, §§921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, §1 \[\[div. A\], title IX, §913(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title V, §527(c)(1), Dec. 28, 2001, 115 Stat. 1102.)
 
 #### Amendments
+
+2001—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
 2000—Subsec. (b)(3). Pub. L. 106–398 substituted “Joint Forces Staff College” for “Armed Forces Staff College”.
 
@@ -49,6 +55,10 @@ Change in Name.—The Armed Forces Staff College of the Department of Defense is
 “(c)
 
 References.—Any reference to the Armed Forces Staff College in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Joint Forces Staff College.”
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–107, div. A, title V, §527(c)(2), Dec. 28, 2001, 115 Stat. 1102, provided that: “Subsection (d) of section 2165 of title 10, United States Code, as added by paragraph (1), shall become effective beginning with fiscal year 2003.”
 
 #### Center for the Study of Chinese Military Affairs
 
@@ -75,4 +85,8 @@ Startup of Center.—The Secretary of Defense shall establish the Center for the
 Implementation Report.—(1) Not later than January 1, 2001, the President of the National Defense University shall submit to the Secretary of Defense a report setting forth the President's organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University.
 
 “(2) The Secretary of Defense shall transmit the report under paragraph (1), together with whatever comments the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than February 1, 2001.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2167 of this title.
 

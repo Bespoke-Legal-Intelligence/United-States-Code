@@ -8,7 +8,7 @@ Bidding Requirements.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), construction of each project, subject to the provisions of subsection (a) of this section, shall be performed by contract awarded by competitive bidding, unless the State transportation department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective or that an emergency exists. Contracts for the construction of each project shall be awarded only on the basis of the lowest responsive bid submitted by a bidder meeting established criteria of responsibility. No requirement or obligation shall be imposed as a condition precedent to the award of a contract to such bidder for a project, or to the Secretary's concurrence in the award of a contract to such bidder, unless such requirement or obligation is otherwise lawful and is specifically set forth in the advertised specifications.
+In general.—Subject to paragraphs (2) and (3), construction of each project, subject to the provisions of subsection (a) of this section, shall be performed by contract awarded by competitive bidding, unless the State transportation department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective or that an emergency exists. Contracts for the construction of each project shall be awarded only on the basis of the lowest responsive bid submitted by a bidder meeting established criteria of responsibility. No requirement or obligation shall be imposed as a condition precedent to the award of a contract to such bidder for a project, or to the Secretary's concurrence in the award of a contract to such bidder, unless such requirement or obligation is otherwise lawful and is specifically set forth in the advertised specifications.
 
 &emsp;(2)
 
@@ -16,7 +16,7 @@ Contracting for engineering and design services.—
 
 &emsp;&emsp;(A)
 
-General rule.—Each contract for program management, construction management, feasibility studies, preliminary engineering, design, engineering, surveying, mapping, or architectural related services with respect to a project subject to the provisions of subsection (a) of this section shall be awarded in the same manner as a contract for architectural and engineering services is negotiated under title IX of the Federal Property and Administrative Services Act of 1949 or equivalent State qualifications-based requirements.
+General rule.—Subject to paragraph (3), each contract for program management, construction management, feasibility studies, preliminary engineering, design, engineering, surveying, mapping, or architectural related services with respect to a project subject to the provisions of subsection (a) of this section shall be awarded in the same manner as a contract for architectural and engineering services is negotiated under title IX of the Federal Property and Administrative Services Act of 1949 or equivalent State qualifications-based requirements.
 
 &emsp;&emsp;(B)
 
@@ -44,11 +44,39 @@ Application of rates.—Once a firm's indirect cost rates are accepted under thi
 
 &emsp;&emsp;(F)
 
-Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (E) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and ratedata shall not be disclosed under any circumstances.
+Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (E) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
 
 &emsp;&emsp;(G)
 
 State option.—Subparagraphs (C), (D), (E), and (F) shall take effect 1 year after the date of the enactment of this subparagraph; except that if a State, during such 1-year period, adopts by statute an alternative process intended to promote engineering and design quality and ensure maximum competition by professional companies of all sizes providing engineering and design services, such subparagraphs shall not apply with respect to the State. If the Secretary determines that the legislature of the State did not convene and adjourn a full regular session during such 1-year period, the Secretary may extend such 1-year period until the adjournment of the next regular session of the legislature.
+
+&emsp;(3)
+
+Design-build contracting.—
+
+&emsp;&emsp;(A)
+
+In general.—A State transportation department or local transportation agency may award a design-build contract for a qualified project described in subparagraph (C) using any procurement process permitted by applicable State and local law.
+
+&emsp;&emsp;(B)
+
+Limitation on final design.—Final design under a design-build contract referred to in subparagraph (A) shall not commence before compliance with section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
+
+&emsp;&emsp;(C)
+
+Qualified projects.—A qualified project referred to in subparagraph (A) is a project under this chapter for which—
+
+&emsp;&emsp;&emsp;(i) the Secretary has approved the use of design-build contracting described in subparagraph (A) under criteria specified in regulations issued by the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) the total costs are estimated to exceed—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a project that involves installation of an intelligent transportation system, $5,000,000; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of any other project, $50,000,000.
+
+&emsp;&emsp;(D)
+
+Design-build contract defined.—In this paragraph, the term “design-build contract” means an agreement that provides for design and construction of a project by a contractor, regardless of whether the agreement is in the form of a design-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
 
 (c) The Secretary shall require as a condition precedent to his approval of each contract awarded by competitive bidding pursuant to subsection (b) of this section, and subject to the provisions of this section, a sworn statement, executed by, or on behalf of, the person, firm, association, or corporation to whom such contract is to be awarded, certifying that such person, firm, association, or corporation has not, either directly or indirectly, entered into any agreement, participated in any collusion, or otherwise taken any action in restraint of free competitive bidding in connection with such contract.
 
@@ -72,7 +100,15 @@ General rule.—The Secretary shall issue regulations establishing and requiring
 
 &emsp;(2)
 
-Limitation on applicability.—Paragraph (1) shall apply in a State except to the extent that such State adopts or has adopted by statute a formal procedure for the development of a contract clause described in paragraph (1) or adopts or has adopted a statute which does not permit inclusion of such a contract clause.
+Limitation on applicability.—
+
+&emsp;&emsp;(A)
+
+State law.—Paragraph (1) shall apply in a State except to the extent that such State adopts or has adopted by statute a formal procedure for the development of a contract clause described in paragraph (1) or adopts or has adopted a statute which does not permit inclusion of such a contract clause.
+
+&emsp;&emsp;(B)
+
+Design-build contracts.—Paragraph (1) shall not apply to any design-build contract approved under subsection (b)(3).
 
 (f) The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 <sup>1</sup> of this title, except where employees of a political subdivision of a State are working on a project outside of such political subdivision.
 
@@ -81,48 +117,6 @@ Limitation on applicability.—Paragraph (1) shall apply in a State except to th
 Selection Process.—A State may procure, under a single contract, the services of a consultant to prepare any environmental impact assessments or analyses required for a project, including environmental impact statements, as well as subsequent engineering and design work on the project if the State conducts a review that assesses the objectivity of the environmental assessment, environmental analysis, or environmental impact statement prior to its submission to the Secretary.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230.)
-
-#### Amendment of Section
-
-<i>Pub. L. 105–178, title I, §1307(a), (b), (e), June 9, 1998, 112 Stat. 229–231, provided that, effective 3 years after June 9, 1998, this section is amended as follows:</i>
-
-<i>(1) Subsection (b) of this section is amended—</i>
-
-<i>(A) In the first sentence of paragraph (1) by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”.</i>
-
-<i>(B) In paragraph (2)(A) by striking “Each” and inserting “Subject to paragraph (3), each”.</i>
-
-<i>(C) By adding at the end the following:</i>
-
-(3) <i>DESIGN-BUILD CONTRACTING.—</i>
-
-&emsp;(A) <i>IN GENERAL</i>.—A State transportation department or local transportation agency may award a design-build contract for a qualified project described in subparagraph (C) using any procurement process permitted by applicable State and local law.
-
-&emsp;(B) <i>LIMITATION ON FINAL DESIGN</i>.—Final design under a design-build contract referred to in subparagraph (A) shall not commence before compliance with section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
-
-&emsp;(C) <i>QUALIFIED PROJECTS</i>.—A qualified project referred to in subparagraph (A) is a project under this chapter for which—
-
-&emsp;&emsp;(i) the Secretary has approved the use of design-build contracting described in subparagraph (A) under criteria specified in regulations issued by the Secretary; and
-
-&emsp;&emsp;(ii) the total costs are estimated to exceed—
-
-&emsp;&emsp;&emsp;<i>(I) in the case of a project that involves installation of an intelligent transportation system, $5,000,000; and</i>
-
-&emsp;&emsp;&emsp;<i>(II) in the case of any other project, $50,000,000.</i>
-
-&emsp;(D) <i>DESIGN-BUILD CONTRACT DEFINED</i>.—In this paragraph, the term “design-build contract” means an agreement that provides for design and construction of a project by a contractor, regardless of whether the agreement is in the form of adesign-build contract, a franchise agreement, or any other form of contract approved by the Secretary.
-
-<i>(2) Subsection (e)(2) of this section is amended—</i>
-
-<i>(A) By striking “Paragraph” and inserting the following:</i>
-
-“(A) <i>STATE LAW</i>.—Paragraph”.
-
-<i>(B) By adding at the end the following:</i>
-
-(B) <i>DESIGN-BUILD CONTRACTS</i>.—Paragraph (1) shall not apply to any design-build contract approved under subsection (b)(3).
-
-<i>(C) By aligning the remainder of the text of subparagraph (A) (as designated by paragraph (1) of this subsection) with subparagraph (B) of such section (as added by paragraph (2) of this subsection).</i>
 
 #### References in Text
 
@@ -136,13 +130,23 @@ Section 117 of this title, referred to in subsec. (f), relating to certification
 
 #### Amendments
 
-1998—Subsecs. (a), (b)(1). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
+1998—Subsec. (a). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
+
+Subsec. (b)(1). Pub. L. 105–178, §1307(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
+
+Subsec. (b)(2)(A). Pub. L. 105–178, §1307(a)(2), substituted “Subject to paragraph (3), each contract” for “Each contract”.
 
 Subsec. (b)(2)(B)(i). Pub. L. 105–178, §1205(a), struck out before period at end “, except to the extent that such State adopts by statute a formal procedure for the procurement of such services”.
 
 Subsec. (b)(2)(B)(ii). Pub. L. 105–178, §1205(a), struck out before period at end “, except to the extent that such State adopts or has adopted by statute a formal procedure for the procurement of the services described in subparagraph (A)”.
 
+Subsec. (b)(3). Pub. L. 105–178, §1307(a)(3), added par. (3).
+
 Subsec. (d). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
+
+Subsec. (e)(2). Pub. L. 105–178, §1307(b), designated existing provisions as subpar. (A), inserted heading, realigned margins, and added subpar. (B).
 
 Subsec. (g). Pub. L. 105–178, §1205(b), added subsec. (g).
 
@@ -244,7 +248,7 @@ Grants to States.—
 
 &emsp;“(1)
 
-In general.—In conducting the program under this section, the Secretary may make grants in each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 to not less than 3 States which the Secretary determines have implemented in the fiscal year preceding the fiscal year of the grant the most effective programs for increasing the percentage of funds expended for contracting with private firms (including small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals) for engineering and design services in carrying out Federal-aid highway projects.
+In general.—In conducting the program under this section, the Secretary may make grants in each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 tonot less than 3 States which the Secretary determines have implemented in the fiscal year preceding the fiscal year of the grant the most effective programs for increasing the percentage of funds expended for contracting with private firms (including small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals) for engineering and design services in carrying out Federal-aid highway projects.
 
 &emsp;“(2)
 

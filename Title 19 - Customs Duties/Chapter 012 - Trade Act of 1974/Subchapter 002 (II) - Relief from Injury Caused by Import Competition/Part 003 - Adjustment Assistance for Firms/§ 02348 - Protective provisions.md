@@ -18,7 +18,7 @@ No adjustment assistance under this part shall be extended to any firm unless th
 
 #### (d) Conflicts of interest
 
-No financial assistance shall be provided to any firm under this part unless the owners, partners, or officers shall execute an agreement binding them and the firm for a period of 2 years after such financial assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any person who, on the date such assistance or any part thereof was provided, or within 1 year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging in activities which the Secretary shall have determined involve discretion with respect to the provisions of such financial assistance.
+No financial assistance shall be provided to any firm under this part unless the owners, partners, or officers shall execute an agreement binding them and the firm for a period of 2 years after such financial assistance is provided, to refrain from employing, tendering any office or employment to, or retaining for professional services any person who, on the date such assistance or any part thereof was provided, or within 1 year prior thereto, shall have served as an officer, attorney, agent, or employee occupying a position or engaging in activities which the Secretary shall have determined involve discretion with respect to the provision of such financial assistance.
 
 (Pub. L. 93–618, title II, §258, Jan. 3, 1975, 88 Stat. 2033.)
 

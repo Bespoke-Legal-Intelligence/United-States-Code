@@ -16,7 +16,7 @@ General Criminal Penalty.—An individual shall be fined under title 18, impriso
 
 (c)
 
-Criminal Penalty Involving Disregard for Human Life.—An individual who willfully and without regard for the safety of human life, or with reckless disregard for the safety of human life, violates subsection (b) of this section, shall be fined under title 18, imprisoned for not more than 15 years, or both.
+Criminal Penalty Involving Disregard for Human Life.—An individual who willfully and without regard for the safety of human life, or with reckless disregard for the safety of human life, violates subsection (b) of this section, shall be fined under title 18, imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
 
 (d)
 
@@ -24,11 +24,15 @@ Nonapplication.—Subsection (b)(1) of this section does not apply to—
 
 &emsp;(1) a law enforcement officer of a State or political subdivision of a State, or an officer or employee of the United States Government, authorized to carry arms in an official capacity;
 
-&emsp;(2) another individual the Administrator of the Federal Aviation Administration by regulation authorizes to carry a dangerous weapon in air transportation or intrastate air transportation; or
+&emsp;(2) another individual the Administrator of the Federal Aviation Administration or the Under Secretary of Transportation for Security by regulation authorizes to carry a dangerous weapon in air transportation or intrastate air transportation; or
 
 &emsp;(3) an individual transporting a weapon (except a loaded firearm) in baggage not accessible to a passenger in flight if the air carrier was informed of the presence of the weapon.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244; Pub. L. 104–132, title VII, §705(b), Apr. 24, 1996, 110 Stat. 1295.)
+(e)
+
+Conspiracy.—If two or more persons conspire to violate subsection (b) or (c), and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be punished as provided in such subsection.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1244; Pub. L. 104–132, title VII, §705(b), Apr. 24, 1996, 110 Stat. 1295; Pub. L. 107–56, title VIII, §§810(g), 811(j), Oct. 26, 2001, 115 Stat. 381, 382; Pub. L. 107–71, title I, §140(d)(8), Nov. 19, 2001, 115 Stat. 642.)
 
 Historical and Revision Notes
 
@@ -80,11 +84,17 @@ In subsection (d)(3), the word “contained” is omitted as surplus.
 
 #### Amendments
 
+2001—Subsec. (c). Pub. L. 107–56, §810(g), substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
+
+Subsec. (d)(2). Pub. L. 107–71, §140(d)(8), inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”.
+
+Subsec. (e). Pub. L. 107–56, §811(j), added subsec. (e).
+
 1996—Subsec. (b). Pub. L. 104–132, §705(b)(1), substituted “10 years” for “one year”.
 
 Subsec. (c). Pub. L. 104–132, §705(b)(2), substituted “15 years” for “5 years”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 46302, 46507 of this title; title 18 sections 2333, 3286.
+This section is referred to in sections 46302, 46507 of this title; title 18 sections 2332b, 2333, 3286.
 

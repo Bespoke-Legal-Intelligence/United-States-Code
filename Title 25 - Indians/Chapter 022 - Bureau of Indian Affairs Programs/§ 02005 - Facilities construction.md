@@ -1,68 +1,242 @@
 ### §2005. Facilities construction
 
-#### (a) Compliance with health and safety standards
+#### (a) National survey of facilities conditions
 
-The Secretary shall immediately begin to bring all schools, dormitories, and other facilities operated by the Bureau or under contract or grant with the Bureau in connection with the education of Indian children into compliance with all applicable Federal, tribal, or State health and safety standards, whichever provide greater protection (except that the tribal standards to be applied shall be no greater than any otherwise applicable Federal or State standards), with section 794 of title 29, and with the Americans with Disabilities Act of 1990 \[42U.S.C. 12101 et seq.\], except that nothing in this section shall require termination of the operations of any facility which does not comply with such provisions and which is in use on October 20, 1994.
+#### (1) In general
 
-#### (b) Omitted
+&emsp;Not later than 12 months after January 8, 2002, the General Accounting Office shall compile, collect, and secure the data that are needed to prepare a national survey of the physical conditions of all Bureau-funded school facilities.
 
-#### (c) Priorities
+#### (2) Data and methodologies
 
-Within six months of November 1, 1978,<sup>1</sup> the Secretary shall submit to the appropriate committees of Congress, and publish in the Federal Register, the system used to establish priorities for school construction projects. At the time any budget request for school construction is presented, the Secretary shall publish in the Federal Register and submit with the budget request the current list of all school construction priorities.
+&emsp;In preparing the national survey required under paragraph (1), the General Accounting Office shall use the following data and methodologies:
 
-#### (d) Hazardous conditions at Bureau schools
+&emsp;&emsp;(A) The existing Department of Defense formula for determining the condition and adequacy of Department of Defense facilities.
 
-(1) A Bureau school may be closed or consolidated, and the programs of a Bureau school may be substantially curtailed, by reason of plant conditions that constitute an immediate hazard to health and safety only if a health and safety officer of the Bureau determines that such conditions exist at the Bureau school.
+&emsp;&emsp;(B) Data related to conditions of Bureau-funded schools that has previously been compiled, collected, or secured from whatever source derived so long as the data are accurate, relevant, timely, and necessary to the survey.
 
-(2)(A) In making determinations described in paragraph (1) before July 1, 1989, health and safety officers of the Bureau shall use the health and safety guidelines of the Bureau that were in effect on January 1, 1988.
+&emsp;&emsp;(C) The methodologies of the American Institute of Architects, or other accredited and reputable architecture or engineering associations.
 
-(B)(i) If—
+#### (3) Consultations
 
-&emsp;(I) the Secretary fails to publish in the Federal Register in final form before July 1, 1989, and
+#### (A) In general
 
-&emsp;(II) action described in paragraph (1) is taken after June 30, 1989, and before the date on which such regulations are published in final form in the Federal Register by reason of the condition of any plant,
+&emsp;&emsp;In carrying out the survey required under paragraph (1), the General Accounting Office shall, to the maximum extent practicable, consult (and if necessary contract) with national, regional, and tribal Indian education organizations to ensure that a complete and accurate national survey is achieved.
 
-> an inspection of the condition of such plant shall be conducted by an appropriate tribal, county, municipal, or State health and safety officer to determine whether conditions at such plant constitute an immediate hazard to health and safety. Such inspection shall be completed by not later than the date that is 30 days after the date on which the action described in paragraph (1) is taken.
+#### (B) Requests for information
 
-(ii) The inspection required under clause (i) shall be conducted by a health and safety officer designated jointly by the Secretary and the tribes affected by the action described in paragraph (1). If the Secretary and such tribes are unable to agree on the designation of the health and safety officer, the Secretary shall designate the health and safety officer and shall provide notice of such designation to each of such tribes before the inspection is conducted by such officer.
+&emsp;&emsp;All Bureau-funded schools shall comply with reasonable requests for information by the General Accounting Office and shall respond to such requests in a timely fashion.
 
-(iii) If the health and safety officer conducting an inspection of a plant required under clause (i) determines that conditions at the plant do not constitute an immediate hazard to health and safety, any consolidation or curtailment that was made by reason of conditions at the plant shall immediately cease and any school closed by reason of conditions at the plant shall be reopened immediately.
+#### (4) Submission
 
-(3) If—
+&emsp;Not later than 2 years after January 8, 2002, the General Accounting Office shall submit the results of the national survey conducted under paragraph (1) to the Committee on Indian Affairs, the Committee on Health, Education, Labor, and Pensions, and the Committee on Appropriations of the Senate and the Committee on Resources, the Committee on Education and the Workforce, and the Committee on Appropriations of the House of Representatives and to the Secretary. The Secretary shall submit the results of the national survey to school boards of Bureau-funded schools and their respective tribes.
 
-&emsp;(A) a Bureau school is temporarily closed or consolidated, or the programs of a Bureau school are substantially curtailed, by reason of plant conditions that constitute an immediate hazard to health and safety, and
+#### (5) Negotiated rulemaking committee
 
-&emsp;(B) the Secretary estimates that the closure, consolidation, or curtailment will be more than 1 year in duration,
+#### (A) In general
 
-> the Secretary shall submit to the Congress, by not later than the date that is 6 months after the date on which the closure, consolidation, or curtailment is initiated, a report which sets forth the reasons for such temporary actions and the actions the Secretary is taking to eliminate the conditions that constitute the hazard.
+&emsp;&emsp;Not later than 6 months after the date on which the submission is made under paragraph (4), the Secretary shall establish a negotiated rulemaking committee pursuant to section 2018(b)(3) of this title. The negotiated rulemaking committee shall prepare and submit to the Secretary the following:
 
-#### (e) Authorization of appropriations
+&emsp;&emsp;&emsp;(i) A catalog of the condition of school facilities at all Bureau-funded schools that—
 
-There are authorized to be appropriated such sums as may be necessary to carry out subsection (a) of this section.
+&emsp;&emsp;&emsp;&emsp;(I) incorporates the findings from the General Accounting Office study evaluating and comparing school systems of the Department of Defense and the Bureau of Indian Affairs;
 
-(Pub. L. 95–561, title XI, §1125, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3986.)
+&emsp;&emsp;&emsp;&emsp;(II) rates such facilities with respect to the rate of deterioration and useful life of structures and major systems;
+
+&emsp;&emsp;&emsp;&emsp;(III) establishes a routine maintenance schedule for each facility;
+
+&emsp;&emsp;&emsp;&emsp;(IV) identifies the complementary educational facilities that do not exist but that are needed; and
+
+&emsp;&emsp;&emsp;&emsp;(V) makes projections on the amount of funds needed to keep each school viable, consistent with the accreditation standards required pursuant to this Act.
+
+&emsp;&emsp;&emsp;(ii) A school replacement and new construction report that determines replacement and new construction need, and a formula for the equitable distribution of funds to address such need, for Bureau-funded schools. Such formula shall utilize necessary factors in determining an equitable distribution of funds, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) the size of school;
+
+&emsp;&emsp;&emsp;&emsp;(II) school enrollment;
+
+&emsp;&emsp;&emsp;&emsp;(III) the age of the school;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the condition of the school;
+
+&emsp;&emsp;&emsp;&emsp;(V) environmental factors at the school; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) school isolation.
+
+&emsp;&emsp;&emsp;(iii) A renovation repairs report that determines renovation need (major and minor), and a formula for the equitable distribution of funds to address such need, for Bureau-funded schools. Such report shall identify needed repairs or renovations with respect to a facility, or a part of a facility, or the grounds of the facility, to remedy a need based on disabilities access or health and safety changes to a facility. The formula developed shall utilize necessary factors in determining an equitable distribution of funds, including the factors described in clause (ii).
+
+#### (B) Submission of reports
+
+&emsp;&emsp;Not later than 24 months after the negotiated rulemaking committee is established under subparagraph (A), the reports described in clauses (ii) and (iii) of subparagraph (A) shall be submitted to the committees of Congress referred to in paragraph (4), the national and regional Indian education organizations, and to all school boards of Bureau-funded schools and their respective tribes.
+
+#### (6) Facilities information systems support database
+
+&emsp;The Secretary shall develop a Facilities Information Systems Support Database to maintain and update the information contained in the reports under clauses (ii) and (iii) of paragraph (5)(A) and the information contained in the survey conducted under paragraph (1). The system shall be updated every 3 years by the Bureau of Indian Affairs and monitored by General Accounting Office, and shall be made available to school boards of Bureau-funded schools and their respective tribes, and Congress.
+
+#### (b) Compliance with health and safety standards
+
+#### (1) In general
+
+&emsp;The Secretary shall immediately begin to bring all schools, dormitories, and other Indian education-related facilities operated bythe Bureau or under contract or grant with the Bureau, into compliance with—
+
+&emsp;&emsp;(A) all applicable tribal, Federal, or State health and safety standards, whichever provides greater protection (except that the tribal standards to be applied shall be no greater than any otherwise applicable Federal or State standards);
+
+&emsp;&emsp;(B) section 794 of title 29; and
+
+&emsp;&emsp;(C) the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\].
+
+#### (2) No termination required
+
+&emsp;Nothing in this subsection requires termination of the operations of any facility that—
+
+&emsp;&emsp;(A) does not comply with the provisions and standards described in paragraph (1); and
+
+&emsp;&emsp;(B) is in use on January 8, 2002.
+
+#### (c) Compliance plan
+
+At the time that the annual budget request for Bureau educational services is presented, the Secretary shall submit to the appropriate committees of Congress a detailed plan to bring all facilities covered under subsection (a) of this section into compliance with the standards referred to in that subsection that includes—
+
+&emsp;(1) detailed information on the status of each facility's compliance with such standards;
+
+&emsp;(2) specific cost estimates for meeting such standards at each school; and
+
+&emsp;(3) specific timelines for bringing each school into compliance with such standards.
+
+#### (d) Construction priorities
+
+#### (1) System to establish priorities
+
+&emsp;On an annual basis, the Secretary shall submit to the appropriate committees of Congress and cause to be published in the Federal Register, the system used to establish priorities for replacement and construction projects for Bureau-funded schools and home-living schools, including boarding schools and dormitories. At the time any budget request for education is presented, the Secretary shall publish in the Federal Register and submit with the budget request the current list of all Bureau-funded school construction priorities.
+
+#### (2) Long-term construction and replacement list
+
+&emsp;In addition to the plan submitted under subsection (c) of this section, the Secretary shall—
+
+&emsp;&emsp;(A) not later than 18 months after January 8, 2002, establish a long-term construction and replacement list for all Bureau-funded schools;
+
+&emsp;&emsp;(B) using the list prepared under subparagraph (A), propose a list for the orderly replacement of all Bureau-funded education-related facilities over a period of 40 years to enable planning and scheduling of budget requests;
+
+&emsp;&emsp;(C) cause the list prepared under subparagraph (B) to be published in the Federal Register and allow a period of not less than 120 days for public comment;
+
+&emsp;&emsp;(D) make such revisions to the list prepared under subparagraph (B) as are appropriate based on the comments received; and
+
+&emsp;&emsp;(E) cause the final list to be published in the Federal Register.
+
+#### (3) Effect on other list
+
+&emsp;Nothing in this section shall interfere with or change in any way the construction priority list as it existed on the day before January 8, 2002.
+
+#### (e) Hazardous condition at Bureau-funded school
+
+#### (1) Closure, consolidation, or curtailment
+
+#### (A) In general
+
+&emsp;&emsp;A Bureau-funded school may be closed or consolidated, or the programs of a Bureau-funded school may be substantially curtailed, by reason of facility conditions that constitute an immediate hazard to health and safety only if a health and safety officer of the Bureau and an individual designated at the beginning of the school year by the tribe involved under subparagraph (B) determine that such conditions exist at a facility of the Bureau-funded school.
+
+#### (B) Designation of individual by tribe
+
+&emsp;&emsp;To be designated by a tribe for purposes of subparagraph (A), an individual shall—
+
+&emsp;&emsp;&emsp;(i) be a licensed or certified facilities safety inspector;
+
+&emsp;&emsp;&emsp;(ii) have demonstrated experience in the inspection of facilities for health and safety purposes with respect to occupancy; or
+
+&emsp;&emsp;&emsp;(iii) have a significant educational background in the health and safety of facilities with respect to occupancy.
+
+#### (C) Inspection
+
+&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designated by the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, but not later than 20 days after the date on which the action described in subparagraph (A) is taken.
+
+#### (D) Failure to concur
+
+&emsp;&emsp;If the Bureau health and safety officer, and the individual designated by the tribe, conducting the inspection of a facility required under subparagraph (C) do not concur that conditions at the facility constitute an immediate hazard to health and safety, such officer and individual shall immediately notify the tribal governing body and provide written information related to their determinations.
+
+#### (E) Consideration by tribal governing body
+
+&emsp;&emsp;Not later than 10 days after a tribal governing body receives notice under subparagraph (D), the tribal governing body shall consider all information relating to the determinations of the Bureau health and safety officer and the individual designated by the tribe and make a determination regarding the closure, consolidation, or curtailment involved.
+
+#### (F) Agreement to close, consolidate, or curtail
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If the Bureau health and safety officer and the individual designated by the tribe conducting the inspection of a facility required under subparagraph (C), concur that conditions at the facility constitute an immediate hazard to health and safety, or if the tribal governing body makes such a determination under subparagraph (E), the facility involved shall be closed immediately.
+
+#### (ii) Reopening of facility if no immediate hazard found to exist
+
+&emsp;&emsp;&emsp;If the Bureau health and safety officer or the individual designated by the tribe conducting the inspection of a facility required under subparagraph (C) determines that conditions at the facility do not constitute an immediate hazard to health and safety, any consolidation or curtailment that was made under this paragraph shall immediately cease and any school closed by reason of conditions at the facility shall be reopened immediately.
+
+#### (G) General closure report
+
+&emsp;&emsp;If a Bureau-funded school is temporarily closed or consolidated or the programs of a Bureau-funded school are temporarily substantially curtailed under this subsection and the Secretary determines that the closure, consolidation, or curtailment will exceed 1 year, the Secretary shall submit to the appropriate committees of Congress, the affected tribe, and the local school board, not later than 90 days after the date on which the closure, consolidation, or curtailment was initiated, a report that specifies—
+
+&emsp;&emsp;&emsp;(i) the reasons for such temporary action;
+
+&emsp;&emsp;&emsp;(ii) the actions the Secretary is taking to eliminate the conditions that constitute the hazard;
+
+&emsp;&emsp;&emsp;(iii) an estimated date by which the actions described in clause (ii) will be concluded; and
+
+&emsp;&emsp;&emsp;(iv) a plan for providing alternate education services for students enrolled at the school that is to be closed.
+
+#### (2) Nonapplication of certain standards for temporary facility use
+
+#### (A) Classroom activities
+
+&emsp;&emsp;The Secretary shall permit the local school board to temporarily utilize facilities adjacent to the school, or satellite facilities, if such facilities are suitable for conducting classroom activities. In permitting the use of facilities under the preceding sentence, the Secretary may waive applicable minor standards under section 2001 of this title relating to such facilities (such as the required number of exit lights or configuration of restrooms) so long as such waivers do not result in the creation of an environment that constitutes an immediate and substantial threat to the health, safety, and life of students and staff.
+
+#### (B) Administrative activities
+
+&emsp;&emsp;The provisions of subparagraph (A) shall apply with respect to administrative personnel if the facilities involved are suitable for activities performed by such personnel.
+
+#### (C) Temporary
+
+&emsp;&emsp;In this paragraph, the term “temporary” means—
+
+&emsp;&emsp;&emsp;(i) with respect to a school that is to be closed for not more than 1 year, 3 months or less; and
+
+&emsp;&emsp;&emsp;(ii) with respect to a school that is to be closed for not less than 1 year, a time period determined appropriate by the Bureau.
+
+#### (3) Treatment of closure
+
+&emsp;Any closure of a Bureau-funded school under this subsection for a period that exceeds 30 days but is less than 1 year, shall be treated by the Bureau as an emergency facility improvement and repair project.
+
+#### (4) Use of funds
+
+&emsp;With respect to a Bureau-funded school that is closed under this subsection, the tribal governing body, or the designated local school board of each Bureau-funded school, involved may authorize the use of funds allocated pursuant to section 2007 of this title, to abate the hazardous conditions without further action by Congress.
+
+#### (f) Funding requirement
+
+#### (1) Distribution of funds
+
+&emsp;Beginning with the first fiscal year following January 8, 2002, all funds appropriated to the budget accounts for the operations and maintenance of Bureau-funded schools shall be distributed by formula to the schools. No funds from these accounts may be retained or segregated by the Bureau to pay for administrative or other costs of any facilities branch or office, at any level of the Bureau.
+
+#### (2) Requirements for certain uses
+
+&emsp;No funds shall be withheld from the distribution to the budget of any school operated under contract or grant by the Bureau for maintenance or any other facilities or road-related purpose, unless such school has consented, as a modification to the contract or in writing for grants schools, to the withholding of such funds, including the amount thereof, the purpose for which the funds will be used, and the timeline for the services to be provided. The school may, at the end of any fiscal year, cancel an agreement under this paragraph upon giving the Bureau 30 days notice of its intent to do so.
+
+#### (g) No reduction in Federal funding
+
+Nothing in this section shall diminish any Federal funding due to the receipt by the school of funding for facilities improvement or construction from a State or any other source.
+
+(Pub. L. 95–561, title XI, §1125, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2021.)
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended,known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-#### Codification
-
-Subsec. (b) of this section, which required the Secretary of the Interior, each time the annual budget request for Bureau educational services was presented, to submit to appropriate committees of Congress a detailed plan to bring facilities into compliance with standards as provided in this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 113 of House Document No. 103–7.
-
-In subsec. (c), “November 1, 1978” was substituted for “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 95–561, which enacted this chapter.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 
-A prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, §5103, Apr. 28, 1988, 102 Stat. 364, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 103–382.
+A prior section 2005, Pub. L. 95–561, title XI, §1125, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3986, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 107–110.
+
+Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, §5103, Apr. 28, 1988, 102 Stat. 364, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 #### Use of Tribal Priority Allocations Funds for School Facilities
 
-Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part: “That hereafter tribes may use tribal priority allocations funds for the replacement and repair of school facilities in compliance with 25 U.S.C. 2005(a), so long as such replacement or repair is approved by the Secretary and completed with non-Federal tribal and/or tribal priority allocation funds”.
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part: “That hereafter tribes may use tribal priority allocations funds for the replacement and repair of school facilities in compliance with \[former\] 25 U.S.C. 2005(a) \[see now 25 U.S.C. 2005(b)\], so long as such replacement or repair is approved by the Secretary and completed with non-Federal tribal and/or tribal priority allocation funds”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2006, 2017 of this title.
-
-<i><sup>1</sup></i><i> See Codification note below.</i>
+This section is referred to in sections 2006, 2503 of this title.
 

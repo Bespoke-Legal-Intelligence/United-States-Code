@@ -90,7 +90,7 @@ Amendment by Pub. L. 103–327 effective only during fiscal year 1995, see provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1715z–15, 4104, 4109, 4122, 4146 of this title.
+This section is referred to in sections 1715z–1a, 1715z–15, 4104, 4109, 4122, 4146 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

@@ -56,7 +56,7 @@ The following property shall be forfeited to the United States:
 
 #### (6) Unlawful removal of distilled spirits
 
-&emsp;All distilled spirits on which the tax has not been paid or determined which have been removed, other than as authorized by law, fromthe place of manufacture, storage, or instrument of transportation; and
+&emsp;All distilled spirits on which the tax has not been paid or determined which have been removed, other than as authorized by law, from the place of manufacture, storage, or instrument of transportation; and
 
 #### (7) Creation of fictitious proof
 
@@ -124,7 +124,7 @@ A prior section 5634, act Aug. 16, 1954, ch. 736, 68A Stat. 690, related to pena
 
 A prior section 5635, act Aug. 16, 1954, ch. 736, 68A Stat. 690, related to penalty for buying or selling used casks bearing inspection marks, prior to the general revision of this chapter by Pub. L. 85–859. See section 5604 of this title.
 
-A prior section 5636, act Aug. 16, 1954, ch. 736, 68A Stat. 690, related to penalty and forfeiture for failure to efface, etc., stamps and brands on emptied packages, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5604 and 7301 of this title.
+A prior section 5636, act Aug. 16, 1954, ch. 736, 68A Stat. 690, related to penalty and forfeiture for failure toefface, etc., stamps and brands on emptied packages, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5604 and 7301 of this title.
 
 A prior section 5637, act Aug. 16, 1954, ch. 736, 68A Stat. 691, related to penalty for changing stamps or shifting spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5604 of this title.
 

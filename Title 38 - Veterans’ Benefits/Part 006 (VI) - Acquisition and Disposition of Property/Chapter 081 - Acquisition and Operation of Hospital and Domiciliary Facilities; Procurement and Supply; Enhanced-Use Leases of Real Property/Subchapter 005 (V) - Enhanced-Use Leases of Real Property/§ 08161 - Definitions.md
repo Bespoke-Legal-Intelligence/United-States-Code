@@ -22,7 +22,7 @@ Pub. L. 106–117, title II, §208(g), Nov. 30, 1999, 113 Stat. 1568, provided t
 
 &emsp;“(A) a survey of facilities of the Department for purposes of identifying Department property that presents an opportunity for lease under the enhanced-use lease authority;
 
-&emsp;“(B) an assessment of the feasibility of entering into enhanced-use leases under that authority in the case of any property identified under subparagraph (A) as presenting an opportunity for such lease; and
+&emsp;“(B) an assessment of the feasibility of entering into enhanced-use leases under that authority in thecase of any property identified under subparagraph (A) as presenting an opportunity for such lease; and
 
 &emsp;“(C) an assessment of the resources required at the Department facilities concerned, and at the Department Central Office, in order to facilitate the entering into of enhanced-used leases in the case of property so identified.
 

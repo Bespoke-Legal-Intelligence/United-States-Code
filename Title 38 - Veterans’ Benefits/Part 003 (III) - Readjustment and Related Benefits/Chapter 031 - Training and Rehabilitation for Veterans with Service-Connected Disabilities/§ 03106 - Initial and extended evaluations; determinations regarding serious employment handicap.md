@@ -46,7 +46,7 @@ Subsec. (d). Pub. L. 102–83, §5(c)(1), substituted “3105(a)” for “1505(
 
 Subsec. (e). Pub. L. 102–83, §5(c)(1), substituted “3117” for “1517”.
 
-1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator” and “Veterans’ Administration”, respectively, wherever appearing.
+1989—Pub. L. 101–237 substituted “Secretary” and “Department of Veterans Affairs” for “Administrator”and “Veterans’ Administration”, respectively, wherever appearing.
 
 1986—Subsecs. (a)(2)(B), (b) to (d). Pub. L. 99–576 substituted “currently is reasonably feasible” for “is reasonably feasible” wherever appearing.
 

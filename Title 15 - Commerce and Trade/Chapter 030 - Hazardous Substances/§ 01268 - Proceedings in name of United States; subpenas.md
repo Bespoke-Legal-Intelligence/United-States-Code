@@ -6,5 +6,5 @@ All criminal proceedings and all libel or injunction proceedings for the enforce
 
 #### Transfer of Functions
 
-Functions of Secretary of Health, Education, and Welfare under this chapter transferred to ConsumerProduct Safety Commission, see section 2079 of this title.
+Functions of Secretary of Health, Education, and Welfare under this chapter transferred to Consumer Product Safety Commission, see section 2079 of this title.
 

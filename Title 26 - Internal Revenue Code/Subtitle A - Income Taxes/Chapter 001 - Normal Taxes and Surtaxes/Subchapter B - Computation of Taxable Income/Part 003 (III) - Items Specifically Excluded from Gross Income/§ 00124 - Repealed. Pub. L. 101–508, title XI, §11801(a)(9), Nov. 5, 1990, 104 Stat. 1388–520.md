@@ -2,7 +2,7 @@
 
 Section, added Pub. L. 95–618, title II, §242(a), Nov. 9, 1978, 92 Stat. 3193, related to qualified transportation provided by employers.
 
-A prior section 124 was renumbered section 139 of this title.
+A prior section 124 was renumbered section 140 of this title.
 
 #### Savings Provision
 

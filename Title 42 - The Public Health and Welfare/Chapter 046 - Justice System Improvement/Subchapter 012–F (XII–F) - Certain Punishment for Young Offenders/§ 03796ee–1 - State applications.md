@@ -4,7 +4,7 @@
 
 #### (1) Submission of application
 
-&emsp;To request a grant under this subchapter, the chief executive of a State shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
+&emsp;To request a grant under this subchapter, the chief executive of a State shall submit anapplication to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
 
 #### (2) Assurances
 

@@ -2,23 +2,33 @@
 
 #### (a) Year of inclusion in gross income
 
-In the case of a participant in an eligible deferred compensation plan, any amount of compensation deferred under the plan, and any income attributable to the amounts so deferred, shall be includible in gross income only for the taxable year in which such compensation or other income is paid or otherwise made available to the participant or other beneficiary.
+#### (1) In general
+
+&emsp;Any amount of compensation deferred under an eligible deferred compensation plan, and any income attributable to the amounts so deferred, shall be includible in gross income only for the taxable year in which such compensation or other income—
+
+&emsp;&emsp;(A) is paid to the participant or other beneficiary, in the case of a plan of an eligible employer described in subsection (e)(1)(A), and
+
+&emsp;&emsp;(B) is paid or otherwise made available to the participant or other beneficiary, in the case of a plan of an eligible employer described in subsection (e)(1)(B).
+
+#### (2) Special rule for rollover amounts
+
+&emsp;To the extent provided in section 72(t)(9), section 72(t) shall apply to any amount includible in gross income under this subsection.
 
 #### (b) Eligible deferred compensation plan defined
 
-For purposes of this section, the term “eligible deferred compensation plan” means a plan established and maintained by an eligible employer—
+For purposes of this section, the term “eligible deferred compensation plan” means a planestablished and maintained by an eligible employer—
 
 &emsp;(1) in which only individuals who perform service for the employer may be participants,
 
-&emsp;(2) which provides that (except as provided in paragraph (3)) the maximum amount which may be deferred under the plan for the taxable year shall not exceed the lesser of—
+&emsp;(2) which provides that (except as provided in paragraph (3)) the maximum amount which may be deferred under the plan for the taxable year (other than rollover amounts) shall not exceed the lesser of—
 
-&emsp;&emsp;(A) $7,500, or
+&emsp;&emsp;(A) the applicable dollar amount, or
 
-&emsp;&emsp;(B) 331/3 percent of the participant's includible compensation,
+&emsp;&emsp;(B) 100 percent of the participant's includible compensation,
 
 &emsp;(3) which may provide that, for 1 or more of the participant's last 3 taxable years ending before he attains normal retirement age under the plan, the ceiling set forth in paragraph (2) shall be the lesser of—
 
-&emsp;&emsp;(A) $15,000, or
+&emsp;&emsp;(A) twice the dollar amount in effect under subsection (b)(2)(A), or
 
 &emsp;&emsp;(B) the sum of—
 
@@ -42,25 +52,9 @@ For purposes of this section, the term “eligible deferred compensation plan”
 
 > A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) and which is administered in a manner which is inconsistent with the requirements of any of the preceding paragraphs shall be treated as not meeting the requirements of such paragraph as of the 1st plan year beginning more than 180 days after the date of notification by the Secretary of the inconsistency unless the employer corrects the inconsistency before the 1st day of such plan year.
 
-#### (c) Individuals who are participants in more than 1 plan
+#### (c) Limitation
 
-#### (1) In general
-
-&emsp;The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall not exceed $7,500 (as modified by any adjustment provided under subsection (b)(3)).
-
-#### (2) Coordination with certain other deferrals
-
-&emsp;In applying paragraph (1) of this subsection—
-
-&emsp;&emsp;(A) any amount excluded from gross income under section 403(b) for the taxable year, and
-
-&emsp;&emsp;(B) any amount—
-
-&emsp;&emsp;&emsp;(i) excluded from gross income under section 402(e)(3) or section 402(h)(1)(B) or (k) for the taxable year, or
-
-&emsp;&emsp;&emsp;(ii) with respect to which a deduction is allowable by reason of a contribution to an organization described in section 501(c)(18) for the taxable year,
-
-> &emsp;shall be treated as an amount deferred under subsection (a). In applying section 402(g)(8)(A)(iii) or 403(b)(2)(A)(ii), an amount deferred under subsection (a) for any year of service shall be taken into account as if described in section 402(g)(3)(C) or 403(b)(2)(A)(ii), respectively. Subparagraph (B) shall not apply in the case of a participant in a rural cooperative plan (as defined in section 401(k)(7)).
+The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
 
 #### (d) Distribution requirements
 
@@ -72,35 +66,23 @@ For purposes of this section, the term “eligible deferred compensation plan”
 
 &emsp;&emsp;&emsp;(i) the calendar year in which the participant attains age 701/2,
 
-&emsp;&emsp;&emsp;(ii) when the participant is separated from service with the employer, or
+&emsp;&emsp;&emsp;(ii) when the participant has a severance from employment with the employer, or
 
-&emsp;&emsp;&emsp;(iii) when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations), and
+&emsp;&emsp;&emsp;(iii) when the participant is faced with an unforeseeable emergency (determined in the manner prescribed by the Secretary in regulations),
 
-&emsp;&emsp;(B) the plan meets the minimum distribution requirements of paragraph (2).
+&emsp;&emsp;(B) the plan meets the minimum distribution requirements of paragraph (2), and
+
+&emsp;&emsp;(C) in the case of a plan maintained by an employer described in subsection (e)(1)(A), the plan meets requirements similar to the requirements of section 401(a)(31).
+
+> &emsp;Any amount transferred in a direct trustee-to-trustee transfer in accordance with section 401(a)(31) shall not be includible in gross income for the taxable year of transfer.
 
 #### (2) Minimum distribution requirements
 
-&emsp;A plan meets the minimum distribution requirements of this paragraph if such plan meets the requirements of subparagraphs (A), (B), and (C):
+&emsp;A plan meets the minimum distribution requirements of this paragraph if such plan meets the requirements of section 401(a)(9).
 
-#### (A) Application of section 401(a)(9)
+#### (3) Special rule for government plan
 
-&emsp;&emsp;A plan meets the requirements of this subparagraph if the plan meets the requirements of section 401(a)(9).
-
-#### (B) Additional distribution requirements
-
-&emsp;&emsp;A plan meets the requirements of this subparagraph if—
-
-&emsp;&emsp;&emsp;(i) in the case of a distribution beginning before the death of the participant, such distribution will be made in a form under which—
-
-&emsp;&emsp;&emsp;&emsp;(I) the amounts payable with respect to the participant will be paid at times specified by the Secretary which are not later than the time determined under section 401(a)(9)(G) (relating to incidental death benefits), and
-
-&emsp;&emsp;&emsp;&emsp;(II) any amount not distributed to the participant during his life will be distributed after the death of the participant at least as rapidly as under the method of distributions being used under subclause (I) as of the date of his death, or
-
-&emsp;&emsp;&emsp;(ii) in the case of a distribution which does not begin before the death of the participant, the entire amount payable with respect to the participant will be paid during a period not to exceed 15 years (or the life expectancy of the surviving spouse if such spouse is the beneficiary).
-
-#### (C) Nonincreasing benefits
-
-&emsp;&emsp;A plan meets the requirements of this subparagraph if any distribution payable over a period of more than 1 year can only be made in substantially nonincreasing amounts (paid not less frequently than annually).
+&emsp;An eligible deferred compensation plan of an employer described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely by reason of making a distribution described in subsection (e)(9)(A).
 
 #### (e) Other definitions and special rules
 
@@ -128,7 +110,7 @@ For purposes of this section—
 
 #### (5) Includible compensation
 
-&emsp;The term “includible compensation” means compensation for service performed for the employer which (taking into account the provisions of this section and other provisions of this chapter) is currently includible in gross income.
+&emsp;The term “includible compensation” means compensation for service performed for theemployer which (taking into account the provisions of this section and other provisions of this chapter) is currently includible in gross income.
 
 #### (6) Compensation taken into account at present value
 
@@ -142,13 +124,15 @@ For purposes of this section—
 
 &emsp;Gains from the disposition of property shall be treated as income attributable to such property.
 
-#### (9) Benefits not treated as made available by reason of certain elections, etc.
+#### (9) Benefits of tax exempt organization plans not treated as made available by reason of certain elections, etc.
+
+&emsp;In the case of an eligible deferred compensation plan of an employer described in subsection (e)(1)(B)—
 
 #### (A) Total amount payable is dollar limit or less
 
 &emsp;&emsp;The total amount payable to a participant under the plan shall not be treated as made available merely because the participant may elect to receive such amount (or the plan may distribute such amount without the participant's consent) if—
 
-&emsp;&emsp;&emsp;(i) such amount does not exceed the dollar limit under section 411(a)(11)(A), and
+&emsp;&emsp;&emsp;(i) the portion of such amount which is not attributable to rollover contributions (as defined in section 411(a)(11)(D)) does not exceed the dollar limit under section 411(a)(11)(A), and
 
 &emsp;&emsp;&emsp;(ii) such amount may be distributed only if—
 
@@ -216,9 +200,79 @@ For purposes of this section—
 
 &emsp;Subsections (b)(2) and (c)(1) shall not apply to any qualified governmental excess benefitarrangement (as defined in section 415(m)(3)), and benefits provided under such an arrangement shall not be taken into account in determining whether any other plan is an eligible deferred compensation plan.
 
-#### (15) Cost-of-living adjustment of maximum deferral amount
+#### (15) Applicable dollar amount
 
-&emsp;The Secretary shall adjust the $7,500 amount specified in subsections (b)(2) and (c)(1) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter ending September 30, 1994, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+#### (A) In general
+
+&emsp;&emsp;The applicable dollar amount shall be the amount determined in accordance with the following table:
+
+<b> For taxable years</b>
+
+<b>The applicable</b>
+
+<b>  beginning in</b>
+
+<b>dollar amount:</b>
+
+<b>  calendar year:</b>
+
+<b> </b>
+
+&emsp;&emsp;2002
+
+$11,000&nbsp;&nbsp;
+
+&emsp;&emsp;2003
+
+$12,000&nbsp;&nbsp;
+
+&emsp;&emsp;2004
+
+$13,000&nbsp;&nbsp;
+
+&emsp;&emsp;2005
+
+$14,000&nbsp;&nbsp;
+
+&emsp;&emsp;2006 or thereafter
+
+$15,000.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### (B) Cost-of-living adjustments
+
+&emsp;&emsp;In the case of taxable years beginning after December 31, 2006, the Secretary shall adjust the $15,000 amount under subparagraph (A) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2005, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
+
+#### (16) Rollover amounts
+
+#### (A) General rule
+
+&emsp;&emsp;In the case of an eligible deferred compensation plan established and maintained by an employer described in subsection (e)(1)(A), if—
+
+&emsp;&emsp;&emsp;(i) any portion of the balance to the credit of an employee in such plan is paid to such employee in an eligible rollover distribution (within the meaning of section 402(c)(4)),
+
+&emsp;&emsp;&emsp;(ii) the employee transfers any portion of the property such employee receives in such distribution to an eligible retirement plan described in section 402(c)(8)(B), and
+
+&emsp;&emsp;&emsp;(iii) in the case of a distribution of property other than money, the amount so transferred consists of the property distributed,
+
+> &emsp;&emsp;then such distribution (to the extent so transferred) shall not be includible in gross income for the taxable year in which paid.
+
+#### (B) Certain rules made applicable
+
+&emsp;&emsp;The rules of paragraphs (2) through (7) and (9) of section 402(c) and section 402(f) shall apply for purposes of subparagraph (A).
+
+#### (C) Reporting
+
+&emsp;&emsp;Rollovers under this paragraph shall be reported to the Secretary in the same manner as rollovers from qualified retirement plans (as defined in section 4974(c)).
+
+#### (17) Trustee-to-trustee transfers to purchase permissive service credit
+
+&emsp;No amount shall be includible in gross income by reason of a direct trustee-to-trustee transfer to a defined benefit governmental plan (as defined in section 414(d)) if such transfer is—
+
+&emsp;&emsp;(A) for the purchase of permissive service credit (as defined in section 415(n)(3)(A)) under such plan, or
+
+&emsp;&emsp;(B) a repayment to which section 415 does not apply by reason of subsection (k)(3) thereof.
 
 #### (f) Tax treatment of participants where plan or arrangement of employer is not eligible
 
@@ -274,9 +328,47 @@ For purposes of this section—
 
 &emsp;For purposes of this subsection, custodial accounts and contracts described in section 401(f) shall be treated as trusts under rules similar to the rules under section 401(f).
 
-(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948.)
+(Added Pub. L. 95–600, title I, §131(a), Nov. 6, 1978, 92 Stat. 2779; amended Pub. L. 96–222, title I, §101(a)(4), Apr. 1, 1980, 94 Stat. 196; Pub. L. 98–369, div. A, title IV, §491(d)(33), July 18, 1984, 98 Stat. 851; Pub. L. 99–514, title XI, §1107(a), Oct. 22, 1986, 100 Stat. 2426; Pub. L. 100–647, title I, §1011(e)(1), (2), (9), (10), title VI, §§6064(a)–(c), 6071(c), Nov. 10, 1988, 102 Stat. 3460, 3461, 3700, 3701, 3705; Pub. L. 101–239, title VII, §§7811(g)(4), (5), 7816(j), Dec. 19, 1989, 103 Stat. 2409, 2421; Pub. L. 102–318, title V, §521(b)(26), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §§1421(b)(3)(C), 1444(b)(2), (3), 1447(a), (b), 1448(a), (b), 1458(a), Aug. 20, 1996, 110 Stat. 1796, 1810, 1812, 1813, 1819; Pub. L. 105–34, title X, §1071(a)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§611(d)(3)(B), (e), 615(a), 632(c)(1), 641(a)(1)(A)–(C), 646(a)(3), 647(b), 648(b), 649(a), (b), June 7, 2001, 115 Stat. 98, 102, 115, 118, 119, 126–128.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (a). Pub. L. 107–16, §§649(b)(1), 901, temporarily reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “In the case of a participant in an eligible deferred compensation plan, any amount of compensation deferred under the plan, and any income attributable to the amounts so deferred, shall be includible in gross income only for the taxable year in which such compensation or other income is paid or otherwise made available to the participant or other beneficiary.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(2). Pub. L. 107–16, §§641(a)(1)(B), 901, temporarily inserted “(other than rollover amounts)” after “taxable year” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(2)(A). Pub. L. 107–16, §§611(e)(1)(A), 901, temporarily substituted “the applicable dollar amount” for “$7,500”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(2)(B). Pub. L. 107–16, §§632(c)(1), 901, temporarily substituted “100 percent” for “331/3 percent”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (b)(3)(A). Pub. L. 107–16, §§611(e)(1)(B), 901, temporarily substituted “twice the dollar amount in effect under subsection (b)(2)(A)” for “$15,000”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c). Pub. L. 107–16, §§615(a), 901, temporarily amended heading and text of subsec. (c) generally, substituting present provisions for provisions which stated that the maximum amount of compensation that an individual could defer under subsec. (a) during any taxable year could not exceed the applicable dollar amount, as modified by any adjustment provided under subsec. (b)(3), and provided for coordination with certain other deferrals. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(1). Pub. L. 107–16, §§611(e)(1)(A), 901, temporarily substituted “the applicable dollar amount” for “$7,500”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(2). Pub. L. 107–16, §§611(d)(3)(B), 901, temporarily substituted “402(g)(7)(A)(iii)” for “402(g)(8)(A)(iii)” in concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(1). Pub. L. 107–16, §§641(a)(1)(C), 901, temporarily added subpar. (C) and concluding provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(1)(A)(ii). Pub. L. 107–16, §§646(a)(3), 901, temporarily substituted “has a severance from employment” for “is separated from service”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(2). Pub. L. 107–16, §§649(a), 901, temporarily reenacted heading without change and amended text of par. (2) generally, substituting present provisions for provisions which stated that a plan would meet the minimum distribution requirements of this par. if plan met the requirements of section 401(a)(9), if plan met additional distribution requirements in the case of a deceased participant, and if any distribution payable over a period of more than 1 year would only be made in substantially nonincreasing amounts. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (d)(3). Pub. L. 107–16, §§649(b)(2)(B), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e)(9). Pub. L. 107–16, §§649(b)(2)(A), 901, in heading temporarily substituted “Benefits of tax exempt organization plans not treated as made available by reason of certain elections, etc.” for “Benefits not treated as made available by reason of certain elections, etc.” and temporarily inserted introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e)(9)(A)(i). Pub. L. 107–16, §§648(b), 901, temporarily substituted “the portion of such amount which is not attributable to rollover contributions (as defined in section 411(a)(11)(D))” for “such amount”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e)(15). Pub. L. 107–16, §§611(e)(2), 901, temporarily amended heading and text of par. (15) generally. Prior to amendment, text read as follows: “The Secretary shall adjust the $7,500 amount specified in subsections (b)(2) and (c)(1) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter ending September 30, 1994, and any increase under this paragraph which is not a multiple of $500 shall be rounded to the next lowest multiple of $500.” See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e)(16). Pub. L. 107–16, §§641(a)(1)(A), 901, temporarily added par. (16). See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (e)(17). Pub. L. 107–16, §§647(b), 901, temporarily added par. (17). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1997</b>—Subsec. (e)(9)(A). Pub. L. 105–34 substituted “dollar limit” for “$3,500” in heading and “the dollar limit under section 411(a)(11)(A)” for “$3,500” in cl. (i).
 
@@ -352,6 +444,26 @@ Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 
 <b>1980</b>—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out “described in section 501(c)(12)” after “any organization” and substituted “electric service on a mutual or cooperative basis” for “electric service” and in cl. (ii) substituted “paragraph (4) or (6) of section 501(a)” for “section 501(c)(6)” and “at least 80 percent of the members” for “all the members”.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by section 611(d)(3)(B), (e) of Pub. L. 107–16 applicable to years beginning after Dec. 31, 2001, see section 611(i)(1) of Pub. L. 107–16, set out as a note under section 415 of this title.
+
+Pub. L. 107–16, title VI, §615(b), June 7, 2001, 115 Stat. 102, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 2001.”
+
+Pub. L. 107–16, title VI, §632(c)(2), June 7, 2001, 115 Stat. 115, provided that: “The amendment made by this subsection \[amending this section\] shall apply to years beginning after December 31, 2001.”
+
+Amendment by section 641(a)(1)(A)–(C) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 641(f)(1) of Pub. L. 107–16, set out as a note under section 402 of this title.
+
+Amendment by section 646(a)(3) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 646(b) of Pub. L. 107–16, set out as a note under section 401 of this title.
+
+Amendment by section 647(b) of Pub. L. 107–16 applicable to trustee-to-trustee transfers after Dec. 31, 2001, see section 647(c) of Pub. L. 107–16, set out as a note under section 403 of this title.
+
+Amendment by section 648(b) of Pub. L. 107–16 applicable to distributions after Dec. 31, 2001, see section 648(c) of Pub. L. 107–16, set out as a note under section 411 of this title.
+
+Pub. L. 107–16, title VI, §649(c), June 7, 2001, 115 Stat. 128, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply to distributions after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub. L. 105–34, set out as a note under section 411 of this title.
@@ -360,7 +472,7 @@ Amendment by Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1
 
 Amendment by section 1421(b)(3)(C) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
-Amendment by section 1444(b)(2), (3) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1994, see section 1444(e) of Pub. L. 104–188, set out as a note under section 415 of this title.
+Amendment by section 1444(b)(2), (3) of Pub. L. 104–188 applicable to years beginning after Dec. 31, 1994, seesection 1444(e) of Pub. L. 104–188, set out as a note under section 415 of this title.
 
 Section 1447(c) of Pub. L. 104–188 provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1996.”
 
@@ -406,7 +518,7 @@ In general.—Section 457 of the 1986 Code (as in effect before and after the am
 
 &emsp;“(B)
 
-Nonelective plan.—For purposes of this paragraph, a nonelective plan is a plan which covers abroad group of employees and under which the covered employees earn nonelective deferred compensation under a definite, fixed and uniform benefit formula.
+Nonelective plan.—For purposes of this paragraph, a nonelective plan is a plan which covers a broad group of employees and under which the covered employees earn nonelective deferred compensation under a definite, fixed and uniform benefit formula.
 
 &emsp;“(C)
 
@@ -504,7 +616,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -566,5 +678,5 @@ Qualified state judicial plan.—For purposes of subparagraph (A), the term ‘q
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 219, 403, 414, 415, 818, 3121, 4974, 6051 of this title; title 4 section 114; title 11 section 101; title 12 section 1821; title 42 section 409.
+This section is referred to in sections 25B, 72, 219, 401, 402, 403, 408, 411, 414, 415, 818, 3121, 3401, 3405, 4973, 4974, 6051 of this title; title 4 section 114; title 11 section 101; title 12 section 1821; title 29 section 1053; title 42 section 409.
 

@@ -6,7 +6,7 @@ Except as otherwise provided in section 460gg–1 of this title and section 3 of
 
 &emsp;(2) conservation of scenic, wilderness, cultural, scientific, and other values contributing to the public benefit;
 
-&emsp;(3) preservation, especially in the area generally known as Hells Canyon, of all features and peculiarities believed to be biologicallyunique including, but not limited to, rare and endemic plant species, rare combinations of aquatic, terrestrial, and atmospheric habitats, and the rare combinations of outstanding and diverse ecosystems and parts of ecosystems associated therewith;
+&emsp;(3) preservation, especially in the area generally known as Hells Canyon, of all features and peculiarities believed to be biologically unique including, but not limited to, rare and endemic plant species, rare combinations of aquatic, terrestrial, and atmospheric habitats, and the rare combinations of outstanding and diverse ecosystems and parts of ecosystems associated therewith;
 
 &emsp;(4) protection and maintenance of fish and wildlife habitat;
 

@@ -1,6 +1,8 @@
 ### SUBCHAPTER LIX–C—SAN ANTONIO MISSIONS NATIONAL HISTORICAL PARK
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “heroism”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
 
 
 ---

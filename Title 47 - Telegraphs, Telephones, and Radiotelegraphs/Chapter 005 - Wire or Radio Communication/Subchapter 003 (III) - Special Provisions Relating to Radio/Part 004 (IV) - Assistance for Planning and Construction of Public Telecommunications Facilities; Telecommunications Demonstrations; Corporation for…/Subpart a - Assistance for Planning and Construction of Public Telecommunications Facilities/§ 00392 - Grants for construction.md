@@ -34,7 +34,7 @@ The Secretary shall establish such rules and regulations as may be necessary to 
 
 #### (f) Minorities and women
 
-In establishing criteria for grants pursuant to section 393 of this title and in establishing procedures relating to the order of priority established in subsection (e) of this section in approving applications for grants, the Secretary shall give special consideration to applications which would increase minority and women's ownership of, operation of, and participation in public telecommunications entities. The Secretary shall take affirmative steps to inform minorities and women of the availability of funds under this subpart, and the localities where new public telecommunications facilities are needed, and to provide such other assistance and information as may be appropriate.
+In establishing criteria for grants pursuant to section 393 of this title and in establishing procedures relating to the order of priority established in subsection (e) of this section in approving applications for grants, the Secretary shall give special consideration to applications whichwould increase minority and women's ownership of, operation of, and participation in public telecommunications entities. The Secretary shall take affirmative steps to inform minorities and women of the availability of funds under this subpart, and the localities where new public telecommunications facilities are needed, and to provide such other assistance and information as may be appropriate.
 
 #### (g) Recovering funds
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 90–129, §103(c), designated existing provisions as par. 
 
 Subsec. (d). Pub. 90–129, §103(d), inserted in cls. (2) and (3) “noncommercial” and “or noncommercial educational radio broadcasting facilities, as the case may be,” before and after “educational television broadcasting facilities”, respectively.
 
-Subsec. (e). Pub. L. 90–129, §104, increased the maximum Federal share in the cost of constructing educational broadcasting facilities from 50 to 75 percent, eliminated the additional credit, formerly allowed the grantee, of 25 percent of the cost of facilities owned by the applicant on the date his application is filed, eliminated the prohibition against using not more than 15 percent of a grant for the acquisition and installation of interconnection facilities, microwave equipment, boosters, translators, and repeaters, and provided for payment of cost of the project from the sum available therefor.
+Subsec. (e). Pub. L. 90–129, §104, increased the maximum Federal share in the cost of constructing educational broadcasting facilities from 50 to 75 percent,eliminated the additional credit, formerly allowed the grantee, of 25 percent of the cost of facilities owned by the applicant on the date his application is filed, eliminated the prohibition against using not more than 15 percent of a grant for the acquisition and installation of interconnection facilities, microwave equipment, boosters, translators, and repeaters, and provided for payment of cost of the project from the sum available therefor.
 
 Subsec. (f). Pub. L. 90–129, §103(e), inserted “or radio” in introductory text and, in par. (2), “noncommercial” and “or noncommercial educational radio purposes, as the case may be” before and after “educational television purposes”, respectively.
 

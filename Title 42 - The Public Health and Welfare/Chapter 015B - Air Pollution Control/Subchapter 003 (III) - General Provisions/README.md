@@ -24,7 +24,7 @@ Section 1857j, act July 14, 1955, ch. 360, title III, §311, formerly §11, as a
 
 Section 1857j–1, act July 14, 1955, ch. 360, title III, §312, formerly §305, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 505; renumbered §312 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to cost studies, was transferred to section 7612 of this title.
 
-Section 1857j–2, act July 14, 1955, ch. 360, title III, §313, formerly §306, as added Nov. 21, 1967, Pub. L.90–148, §2, 81 Stat. 506; renumbered §313 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to additional reports to Congress, was transferred to section 7613 of this title.
+Section 1857j–2, act July 14, 1955, ch. 360, title III, §313, formerly §306, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506; renumbered §313 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to additional reports to Congress, was transferred to section 7613 of this title.
 
 Section 1857j–3, act July 14, 1955, ch. 360, title III, §314, formerly §307, as added Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 506; renumbered §314 and amended Dec. 31, 1970, Pub. L. 91–604, §§12(a), 15(c)(2), 84 Stat. 1705, 1713, which related to labor standards, was transferred to section 7614 of this title.
 

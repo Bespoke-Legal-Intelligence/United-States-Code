@@ -40,7 +40,7 @@ The Secretary and the Secretary of Defense, and officials responsible for admini
 
 #### References in Text
 
-The National Aeronautics and Space Act of 1958, referred to in subsec. (c), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended. Title II of the National Aeronautics and Space Act of 1958 is classified generally to subchapter II (§2471 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The National Aeronautics and Space Act of 1958, referred to in subsec. (c), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended. Title II of the National Aeronautics and Space Act of 1958 is classified generally tosubchapter II (§2471 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Amendments
 

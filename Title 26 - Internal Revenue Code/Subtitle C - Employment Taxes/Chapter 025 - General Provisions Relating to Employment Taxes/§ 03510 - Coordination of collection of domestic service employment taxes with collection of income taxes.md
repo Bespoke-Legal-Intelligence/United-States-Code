@@ -72,7 +72,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Prior Provisions
 
-A prior section 3510, added Pub. L. 98–21, title I, §123(b)(1), Apr. 20, 1983, 97 Stat. 88, provided a credit for increased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(42), Nov. 5, 1990, 104 Stat. 1388–521.
+A prior section 3510, added Pub. L. 98–21, title I, §123(b)(1), Apr. 20, 1983, 97 Stat. 88, provided a credit forincreased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(42), Nov. 5, 1990, 104 Stat. 1388–521.
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Prohibition.—After the date of the enactment of this section, the Department of Defense may not grant or renew a security clearance for a person to whom this section applies who is described in subsection (c).
+Prohibition.—After October 30, 2000, the Department of Defense may not grant or renew a security clearance for a person to whom this section applies who is described in subsection (c).
 
 (b)
 
@@ -34,9 +34,9 @@ Waiver Authority.—In a meritorious case, the Secretary of Defense or the Secre
 
 Annual Report.—Not later than February 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report identifying each waiver issued under subsection (d) during the preceding year with an explanation for each case of the disqualifying factor in subsection (c) that applied, and the reason for the waiver of the disqualification.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1071(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1071(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; amended Pub. L. 107–107, div. A, title X, §1048(c)(3), Dec. 28, 2001, 115 Stat. 1226.)
 
-#### References in Text
+#### Amendments
 
-The date of the enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 106–398, which was approved Oct. 30, 2000.
+2001—Subsec. (a). Pub. L. 107–107 substituted “October 30, 2000,” for “the date of the enactment of this section,”.
 

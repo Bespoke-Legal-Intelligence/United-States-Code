@@ -42,7 +42,7 @@
 
 &emsp;(iii) Ensuring that salary levels and benefits are adequate to attract and retain qualified staff for such programs.
 
-&emsp;(iv) Using salary increases to improve staff qualifications, and to assist with the implementation of career development programs,for the staff of Head Start programs, and to encourage the staff to continually improve their skills and expertise by informing the staff of the availability of Federal and State incentive and loan forgiveness programs for professional development.
+&emsp;(iv) Using salary increases to improve staff qualifications, and to assist with the implementation of career development programs, for the staff of Head Start programs, and to encourage the staff to continually improve their skills and expertise by informing the staff of the availability of Federal and State incentive and loan forgiveness programs for professional development.
 
 &emsp;(v) Improving community-wide strategic planning and needs assessments for such programs and collaboration efforts for such programs.
 
@@ -82,7 +82,7 @@
 
 &emsp;(I) 80 percent of such funds shall be allotted among the States in the same proportion as the Secretary allots funds among the States under paragraph (4) for the respective fiscal year.
 
-&emsp;(II) 20 percent of such funds shall be allotted among the States, geographical areas specified in subsection (a)(2)(B) of this section and Indian Head Start programs and migrant and seasonal Head Start programs, and used to make grants to Head Start agencies, at the discretion of the Secretary.
+&emsp;(II) 20 percent of such funds shall be allotted among the States, geographical areas specified in subsection (a)(2)(B) of this section and Indian Head Start programs and migrant andseasonal Head Start programs, and used to make grants to Head Start agencies, at the discretion of the Secretary.
 
 (ii) Funds allotted under clause (i) shall be used by the Secretary to make grants to Head Start agencies that receive grants from funds allotted under paragraph (4) for such fiscal year, in such amounts as the Secretary considers to be appropriate, for expenditure for activities specified in subparagraph (C).
 
@@ -92,7 +92,7 @@
 
 &emsp;(A) each State receives an amount which is equal to the amount the State received for fiscal year 1998; and
 
-&emsp;(B) any amount available after all allotments are made under subparagraph (A) forsuch fiscal year shall be distributed proportionately on the basis of the number of children less than 5 years of age from families whose income is below the poverty line.
+&emsp;(B) any amount available after all allotments are made under subparagraph (A) for such fiscal year shall be distributed proportionately on the basis of the number of children less than 5 years of age from families whose income is below the poverty line.
 
 > For purposes of this paragraph, for each fiscal year the Secretary shall use the most recent data available on the number of children less than 5 years of age from families whose income is below the poverty line, as published by the Department of Commerce, unless the Secretary and the Secretary of Commerce determine that use of the most recent data available would be inappropriate or unreliable. If the Secretary and the Secretary of Commerce determine that some or all of the data referred to in this paragraph are inappropriate or unreliable, the Secretaries shall issue a report setting forth their reasons in detail.
 
@@ -132,11 +132,11 @@
 
 &emsp;(III) develop a mechanism to resolve administrative and programmatic conflicts between programs described in subclause (I) that would be a barrier to service providers, parents, or children related to the provision of unified services and the consolidation of funding for child care services.
 
-(ii) In the case of a collaborative activity funded under this subchapter and another provision of law providing for Federal child care or early childhood education, the use of equipment and nonconsumable supplies purchased with funds made available under this subchapter or such provision shall not be restricted to children enrolled or otherwise participating in the program carried out under that subchapter or provision, during a period in which the activity is predominantly funded under this subchapter or such provision.
+(ii) In the case of a collaborative activity funded under this subchapter and another provision of law providing for Federal child care orearly childhood education, the use of equipment and nonconsumable supplies purchased with funds made available under this subchapter or such provision shall not be restricted to children enrolled or otherwise participating in the program carried out under that subchapter or provision, during a period in which the activity is predominantly funded under this subchapter or such provision.
 
 (F) As used in this paragraph, the term “low-income”, used with respect to children or families, shall not be considered to refer only to children or families that meet the low-income criteria prescribed pursuant to section 9840(a)(1)(A) of this title.
 
-(6)(A) From amounts reserved and allotted pursuant to paragraphs (2) and (4), the Secretary shall use, for grants for programs described in section 9840a(a) of this title, a portion of the combined total of such amounts equal to 7.5 percent for fiscal year 1999, 8 percent for fiscal year 2000, 9 percent for fiscal year 2001, 10 percent forfiscal year 2002, and 10 percent for fiscal year 2003, of the amount appropriated pursuant to section 9834(a) of this title, except as provided in subparagraph (B).
+(6)(A) From amounts reserved and allotted pursuant to paragraphs (2) and (4), the Secretary shall use, for grants for programs described in section 9840a(a) of this title, a portion of the combined total of such amounts equal to 7.5 percent for fiscal year 1999, 8 percent for fiscal year 2000, 9 percent for fiscal year 2001, 10 percent for fiscal year 2002, and 10 percent for fiscal year 2003, of the amount appropriated pursuant to section 9834(a) of this title, except as provided in subparagraph (B).
 
 (B)(i) If the Secretary does not submit an interim report on the preliminary findings of the Early Head Start impact study currently being conducted by the Secretary (as of October 27, 1998) to the appropriate committees by June 1, 2001, the amount of the reserved portion for fiscal year 2002 that exceeds the reserved portion for fiscal year 2001, if any, shall be used for quality improvement activities described in subsection (a)(3) of this section and shall not be used to serve an increased number of eligible children under section 9840a of this title.
 
@@ -176,7 +176,7 @@ Financial assistance extended under this subchapter for a Head Start program sha
 
 #### (c) Services covered
 
-No programs shall be approved for assistance under this subchapter unless the Secretary is satisfied that the services to be provided under such program will be in addition to, and not in substitution for, comparable services previously provided without Federal assistance. The requirement imposed by the preceding sentence shall be subject to such regulations as the Secretary may prescribe.
+No programs shall be approved for assistance under this subchapter unless the Secretary is satisfied that the services to be provided under such program will be in addition to, and not insubstitution for, comparable services previously provided without Federal assistance. The requirement imposed by the preceding sentence shall be subject to such regulations as the Secretary may prescribe.
 
 #### (d) Enrollment of children with disabilities and provision of services
 
@@ -184,7 +184,7 @@ The Secretary shall establish policies and procedures designed to assure that fo
 
 #### (e) Distribution of benefits between residents of rural and urban areas
 
-The Secretary shall adopt appropriate administrative measures to assure that the benefits ofthis subchapter will be distributed equitably between residents of rural and urban areas.
+The Secretary shall adopt appropriate administrative measures to assure that the benefits of this subchapter will be distributed equitably between residents of rural and urban areas.
 
 #### (f) Guidelines for local service delivery models
 
@@ -226,7 +226,7 @@ The Secretary shall issue regulations establishing requirements for the safety f
 
 #### (j) Compensation of staff
 
-Any agency that receives financial assistance under this subchapter to improve the compensation of staff who provide services under this subchapter<sup>2</sup> shall use the financial assistance to improve the compensation of such staff, regardless of whether the agency has the ability to improve the compensation of staff employed by the agency who do not provide Head Start services.
+Any agency that receives financial assistance under this subchapter to improve the compensation of staff who provide services under this subchapter <sup>2</sup> shall use the financial assistance to improve the compensation of such staff, regardless of whether the agency has the ability to improve the compensation of staff employed by the agency who do not provide Head Start services.
 
 #### (k) Flexibility in hours of service requirement
 
@@ -238,7 +238,7 @@ Any agency that receives financial assistance under this subchapter to improve t
 
 &emsp;(C) reduce the number of days of service per year.
 
-(2) The provisions of this subsection shall not be construed to restrict the authority of the Secretary to fund alternative program variations authorized under section 1306.35 of title 45of the Code of Federal Regulations in effect on May 18, 1994.
+(2) The provisions of this subsection shall not be construed to restrict the authority of the Secretary to fund alternative program variations authorized under section 1306.35 of title 45 of the Code of Federal Regulations in effect on May 18, 1994.
 
 #### (<i>l</i>) Frequent relocation of migrant families
 
@@ -288,7 +288,7 @@ Subsec. (a)(3)(C)(i)(II). Pub. L. 105–285, §106(a)(2)(C)(i)(II), substituted 
 
 Subsec. (a)(3)(C)(i)(III). Pub. L. 105–285, §106(a)(2)(C)(i)(III), added subcl. (III).
 
-Subsec. (a)(3)(C)(ii). Pub. L. 105–285, §106(a)(2)(C)(ii), amended cl. (ii) generally. Prior to amendment, cl. (ii)read as follows: “To pay transportation costs incurred by Head Start agencies to enable eligible children to participate in a Head Start program.”
+Subsec. (a)(3)(C)(ii). Pub. L. 105–285, §106(a)(2)(C)(ii), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “To pay transportation costs incurred by Head Start agencies to enable eligible children to participate in a Head Start program.”
 
 Subsec. (a)(3)(C)(v) to (vii). Pub. L. 105–285, §106(a)(2)(C)(iii), (iv), redesignated cls. (vi) and (vii) as (v) and (vi), respectively, and struck out former cl. (v) which read as follows: “To make nonstructural and minor structural changes, and to acquire and install equipment, for the purpose of improving facilities necessary to expand the availability, or enhance the quality, of Head Start programs.”
 
@@ -344,7 +344,7 @@ Subsec. (<i>l</i>). Pub. L. 105–285, §106(d), designated existing provisions 
 
 Subsec. (a)(2)(A). Pub. L. 103–252, §105(b)(2)(A), substituted “1994” for “1990”.
 
-Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title)” after “Secretary”.
+Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plansunder section 9836a(d)(2) of this title)” after “Secretary”.
 
 Subsec. (a)(3)(A), (B). Pub. L. 103–252, §105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 

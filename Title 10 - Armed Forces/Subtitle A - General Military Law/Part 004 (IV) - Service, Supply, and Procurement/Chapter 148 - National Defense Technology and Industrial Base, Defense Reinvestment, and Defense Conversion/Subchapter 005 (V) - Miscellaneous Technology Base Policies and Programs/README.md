@@ -5,6 +5,7 @@
 | [2531\.](%C2%A7%2002531%20-%20Defense%20memoranda%20of%20understanding%20and%20related%20agreements.md) | Defense memoranda of understanding and related agreements. |
 | [2532\.](%C2%A7%2002532%20-%20Offset%20policy%3B%20notification.md) | Offset policy; notification. |
 | [2533\.](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20the%20Buy%20American%20Act.md) | Determinations of public interest under the Buy American Act. |
+| [2533a.](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md) | Requirement to buy certain articles from American sources; exceptions. |
 | [2534\.](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md) | Miscellaneous limitations on the procurement of goods other than United States goods. |
 | [2535\.](%C2%A7%2002535%20-%20Defense%20Industrial%20Reserve.md) | Defense Industrial Reserve. |
 | [2536\.](%C2%A7%2002536%20-%20Award%20of%20certain%20contracts%20to%20entities%20controlled%20by%20a%20foreign%20government%20prohibition.md) | Award of certain contracts to entities controlled by a foreign government: prohibition. |
@@ -17,6 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title VIII, §832(a)(2), Dec. 28, 2001, 115 Stat. 1190, added item 2533a.
 
 1994—Pub. L. 103–337, div. A, title VIII, §812(b)(2), title X, §1070(a)(13)(B), Oct. 5, 1994, 108 Stat. 2816, 2856, substituted “Determinations of public interest under the Buy American Act” for “Limitation on use of funds: procurement of goods which are other than American goods” in item 2533 and renumbered items 2540 and 2541 as 2539a and 2539b, respectively.
 
@@ -32,6 +35,7 @@
 - [&sect; 02531 - Defense memoranda of understanding and related agreements](%C2%A7%2002531%20-%20Defense%20memoranda%20of%20understanding%20and%20related%20agreements.md)
 - [&sect; 02532 - Offset policy; notification](%C2%A7%2002532%20-%20Offset%20policy%3B%20notification.md)
 - [&sect; 02533 - Determinations of public interest under the Buy American Act](%C2%A7%2002533%20-%20Determinations%20of%20public%20interest%20under%20the%20Buy%20American%20Act.md)
+- [&sect; 02533a - Requirement to buy certain articles from American sources; exceptions](%C2%A7%2002533a%20-%20Requirement%20to%20buy%20certain%20articles%20from%20American%20sources%3B%20exceptions.md)
 - [&sect; 02534 - Miscellaneous limitations on the procurement of goods other than United States goods](%C2%A7%2002534%20-%20Miscellaneous%20limitations%20on%20the%20procurement%20of%20goods%20other%20than%20United%20States%20goods.md)
 - [&sect; 02535 - Defense Industrial Reserve](%C2%A7%2002535%20-%20Defense%20Industrial%20Reserve.md)
 - [&sect; 02536 - Award of certain contracts to entities controlled by a foreign government prohibition](%C2%A7%2002536%20-%20Award%20of%20certain%20contracts%20to%20entities%20controlled%20by%20a%20foreign%20government%20prohibition.md)

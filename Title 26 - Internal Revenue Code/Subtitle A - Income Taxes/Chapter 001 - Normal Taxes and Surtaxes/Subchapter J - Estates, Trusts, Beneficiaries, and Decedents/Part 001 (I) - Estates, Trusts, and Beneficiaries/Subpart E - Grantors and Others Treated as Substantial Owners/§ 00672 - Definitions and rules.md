@@ -14,7 +14,7 @@ For purposes of this subpart, the term “related or subordinate party” means 
 
 &emsp;(1) the grantor's spouse if living with the grantor;
 
-&emsp;(2) any one of the following: The grantor's father, mother, issue, brother or sister; an employee of the grantor; a corporation or any employee of a corporation in which the stock holdings of the grantor and the trust are significant from the viewpoint of voting control; a subordinate employee of a corporation in which the grantor is an executive.
+&emsp;(2) any one of the following: The grantor's father, mother, issue, brother or sister; an employee of the grantor; a corporation or any employee of a corporation in which the stockholdings of the grantor and the trust are significant from the viewpoint of voting control; a subordinate employee of a corporation in which the grantor is an executive.
 
 > For purposes of subsection (f) and sections 674 and 675, a related or subordinate party shall be presumed to be subservient to the grantor in respect of the exercise or nonexercise of the powers conferred on him unless such party is shown not to be subservient by a preponderance of the evidence.
 
@@ -40,7 +40,7 @@ A person shall be considered to have a power described in this subpart even thou
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this subpart, this subpart shall apply only to the extent such application results in an amount (if any) being currently taken into account (directly or through 1 or more entities) underthis chapter in computing the income of a citizen or resident of the United States or a domestic corporation.
+&emsp;Notwithstanding any other provision of this subpart, this subpart shall apply only to the extent such application results in an amount (if any) being currently taken into account (directly or through 1 or more entities) under this chapter in computing the income of a citizen or resident of the United States or a domestic corporation.
 
 #### (2) Exceptions
 
@@ -102,7 +102,7 @@ In general.—If—
 
 &emsp;&emsp;“(B) such trust has a beneficiary who is a United States person,
 
-> &emsp;such beneficiary shall be treated as the grantor of such portion to the extent such beneficiary has made transfers of property by gift (directly or indirectly) to such foreign person. For purposes of the preceding sentence, any gift shall not be taken into account to the extent such gift would be excluded from taxable gifts under section 2503(b).
+> &emsp;such beneficiary shall be treated as the grantor of such portion to the extent such beneficiary has madetransfers of property by gift (directly or indirectly) to such foreign person. For purposes of the preceding sentence, any gift shall not be taken into account to the extent such gift would be excluded from taxable gifts under section 2503(b).
 
 &emsp;“(2)
 

@@ -36,7 +36,7 @@
 
 | &nbsp; | &nbsp; |
 | :--- | ---: |
-| Colonel | 2  percent&nbsp;&nbsp; |
+| Colonel | 2  percent   |
 | Lieutenant colonel | 6  percent&nbsp;&nbsp; |
 | Major | 12  percent&nbsp;&nbsp; |
 | Captain | 35  percent&nbsp;&nbsp; |

@@ -68,7 +68,7 @@ A city shall not be denied assistance under this part solely on the basis of its
 
 #### (f) Transmission of notification to Committee chairmen
 
-Notification of grants and contracts made under this part (and the applications submittedfor such grants and contracts) shall, upon being made, be transmitted by the Administrator,<sup>1</sup> to the chairman of the Committee on Education and Labor of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate.
+Notification of grants and contracts made under this part (and the applications submitted for such grants and contracts) shall, upon being made, be transmitted by the Administrator,<sup>1</sup> to the chairman of the Committee on Education and Labor of the House of Representatives and the chairman of the Committee on the Judiciary of the Senate.
 
 (Pub. L. 93–415, title II, §262, as added Pub. L. 100–690, title VII, §7263(a)(2)(F), Nov. 18, 1988, 102 Stat. 4445; amended Pub. L. 102–586, §2(h), Nov. 4, 1992, 106 Stat. 5001.)
 
@@ -82,7 +82,7 @@ A prior section 262 of Pub. L. 93–415 was renumbered section 299A and is class
 
 #### Amendments
 
-1992—Subsec. (d)(1)(B). Pub. L. 102–586, §2(h)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The competitive process described in subparagraph (A) shall not be required if the Administrator makes a written determination that—
+1992—Subsec. (d)(1)(B). Pub. L. 102–586, §2(h)(1), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: “The competitive process described in subparagraph (A) shall not be required if the Administrator makes a written determination that—
 
 &emsp;“(i)(I) the proposed program is not within the scope of any announcement issued, or expected to be issued, by the Administrator regarding the availability of funds to carry out programs under this part, but can be supported by a grant or contract in accordance with this part; and
 

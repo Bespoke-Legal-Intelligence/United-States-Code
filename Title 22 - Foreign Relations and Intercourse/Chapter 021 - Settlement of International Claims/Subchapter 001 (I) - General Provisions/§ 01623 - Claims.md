@@ -6,7 +6,7 @@
 
 &emsp;(A) included within the terms of the Yugoslav Claims Agreement of 1948;
 
-&emsp;(B) included within the terms of any claims agreement concluded on or after March 10, 1954, between the Government of the United States and a foreign government (exclusive of governments against which the United States declared the existence of a state of war during World War II) similarly providing for the settlement and discharge of claims of the Government of the United States and of nationals of the United States against a foreign government, arising out of the nationalization or other taking of property, by the agreement of the Government of the United States to accept from that government a sum in en bloc settlement thereof; or
+&emsp;(B) included within the terms of any claims agreement concluded on or after March 10, 1954, between the Government of the UnitedStates and a foreign government (exclusive of governments against which the United States declared the existence of a state of war during World War II) similarly providing for the settlement and discharge of claims of the Government of the United States and of nationals of the United States against a foreign government, arising out of the nationalization or other taking of property, by the agreement of the Government of the United States to accept from that government a sum in en bloc settlement thereof; or
 
 &emsp;(C) included in a category of claims against a foreign government which is referred to the Commission by the Secretary of State.
 
@@ -70,7 +70,7 @@ In exercising authority granted after October 8, 1986, under this chapter or any
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 
-References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, asenacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
+References to this subchapter deemed to include section 119 of H.R. 2076, see section 119(b) of H.R. 2076, as enacted into law by Pub. L. 104–91, set out as an Authority of Foreign Claims Settlement Commission note under section 1644 of this title.
 
 #### Codification
 
@@ -84,7 +84,7 @@ In subsec. (j), “subchapter II of chapter 5, and chapter 7, of title 5” subs
 
 Subsec. (k). Pub. L. 99–451, §1(b), added subsec. (k).
 
-1968—Subsec. (f). Pub. L. 90–421 struck out provisions which authorized the Commission to determine the amount of attorney's fees, such fees not to exceed 10% of the award and any written agreement between attorney and claimant as to fees to be conclusive upon the Commission, if the agreed upon fees do not exceed 10% of the award, provisions which authorized the Secretary of the Treasury to deduct the fees from the amount of the award and to pay it directly to the attorney, any agreement to the contrary to be unlawful and void, provisions which authorized the Commission to give notice by mail to each claimant of the provisions of this subsection, and provisions which authorized the Commission to recover any fees paid in contravention of this subsection, the recipient to forfeit all rights under this subchapter.
+1968—Subsec. (f). Pub. L. 90–421 struck out provisions which authorized the Commission to determine theamount of attorney's fees, such fees not to exceed 10% of the award and any written agreement between attorney and claimant as to fees to be conclusive upon the Commission, if the agreed upon fees do not exceed 10% of the award, provisions which authorized the Secretary of the Treasury to deduct the fees from the amount of the award and to pay it directly to the attorney, any agreement to the contrary to be unlawful and void, provisions which authorized the Commission to give notice by mail to each claimant of the provisions of this subsection, and provisions which authorized the Commission to recover any fees paid in contravention of this subsection, the recipient to forfeit all rights under this subchapter.
 
 1955—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 

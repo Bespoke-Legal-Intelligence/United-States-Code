@@ -4,7 +4,7 @@
 
 In any proceeding instituted pursuant to sections 78<i>o</i>(b)(4), 78<i>o</i>(b)(6), 78<i>o</i>–4, 78<i>o</i>–5, or 78q–1 of this title against any person, the Commission or the appropriate regulatory agency may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such person—
 
-&emsp;(1) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Investment Company Act of 1940 \[15 U.S.C.80a–1 et seq.\], the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], or this chapter, or the rules or regulations thereunder, or the rules of the Municipal Securities Rulemaking Board;
+&emsp;(1) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], or this chapter, or the rules or regulations thereunder, or the rules of the Municipal Securities Rulemaking Board;
 
 &emsp;(2) has willfully aided, abetted, counseled, commanded, induced, or procured such a violation by any other person;
 
@@ -42,7 +42,7 @@ In considering under this section whether a penalty is in the public interest, t
 
 &emsp;(3) the extent to which any person was unjustly enriched, taking into account any restitution made to persons injured by such behavior;
 
-&emsp;(4) whether such person previously has been found by the Commission, another appropriate regulatory agency, or a self-regulatory organization to have violated the Federal securities laws, State securities laws, or the rules of a self-regulatory organization, has been enjoined by a court of competent jurisdiction from violations of such laws or rules, or has been convicted by a court of competent jurisdiction of violations of such laws or of any felony or misdemeanor described in section 78<i>o</i>(b)(4)(B) of this title;
+&emsp;(4) whether such person previously has been found by the Commission, another appropriate regulatory agency, or a self-regulatory organization to have violated the Federal securities laws, State securities laws, or the rules of a self-regulatory organization, has been enjoined by a court of competent jurisdictionfrom violations of such laws or rules, or has been convicted by a court of competent jurisdiction of violations of such laws or of any felony or misdemeanor described in section 78<i>o</i>(b)(4)(B) of this title;
 
 &emsp;(5) the need to deter such person and other persons from committing such acts or omissions; and
 

@@ -22,7 +22,7 @@ For purposes of determining whether a corporation is a personal holding company,
 
 &emsp;&emsp;(A) for purposes of the stock ownership requirement provided in section 542(a)(2), if, but only if, the effect is to make the corporation a personal holding company;
 
-&emsp;&emsp;(B) for purposes of section 543(a)(7) (relating to personal service contracts), of section 543(a)(6) (relating to use of property by shareholders), or of section 543(a)(4) (relatingto copyright royalties), if, but only if, the effect is to make the amounts therein referred to includible under such paragraph as personal holding company income.
+&emsp;&emsp;(B) for purposes of section 543(a)(7) (relating to personal service contracts), of section 543(a)(6) (relating to use of property by shareholders), or of section 543(a)(4) (relating to copyright royalties), if, but only if, the effect is to make the amounts therein referred to includible under such paragraph as personal holding company income.
 
 #### (5) Constructive ownership as actual ownership
 

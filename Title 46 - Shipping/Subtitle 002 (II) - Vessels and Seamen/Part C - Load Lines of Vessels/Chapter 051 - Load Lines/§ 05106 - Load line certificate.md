@@ -12,7 +12,7 @@
 
 Source: Section (U.S. Code) 46 App. U.S.C. 86c.
 
-Section 5106(a) requires the Secretary to issue a load line certificate upon finding that a vessel has receiveda satisfactory load line survey and that the vessel's load line is marked correctly.
+Section 5106(a) requires the Secretary to issue a load line certificate upon finding that a vessel has received a satisfactory load line survey and that the vessel's load line is marked correctly.
 
 Section 5106(b) requires that the load line certificate be maintained as required by the Secretary of Transportation. It is expected that the Secretary will require in most cases that the certificate be carried on board the vessel. However, certain types of vessels such as barges do not have facilities for the carriage of certificates. In this case, this provision would give the Secretary the discretion to require that the certificates for the barges be carried on the towing vessels.
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) Interlocutory decrees of such district courts or the judges thereof determining the rights and liabilities of the parties to admiralty cases in which appeals from final decrees are allowed.
 
-(b) When a district judge, in making in a civil action an order not otherwise appealable under this section, shall be of the opinion that suchorder involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the litigation, he shall so state in writing in such order. The Court of Appeals which would have jurisdiction of an appeal of such action may thereupon, in its discretion, permit an appeal to be taken from such order, if application is made to it within ten days after the entry of the order: <i>Provided, however</i>, That application for an appeal hereunder shall not stay proceedings in the district court unless the district judge or the Court of Appeals or a judge thereof shall so order.
+(b) When a district judge, in making in a civil action an order not otherwise appealable under this section, shall be of the opinion that such order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the litigation, he shall so state in writing in such order. The Court of Appeals which would have jurisdiction of an appeal of such action may thereupon, in its discretion, permit an appeal to be taken from such order, if application is made to it within ten days after the entry of the order: <i>Provided, however</i>, That application for an appeal hereunder shall not stay proceedings in the district court unless the district judge or the Court of Appeals or a judge thereof shall so order.
 
 (c) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction—
 
@@ -22,7 +22,7 @@
 
 (3) Neither the application for nor the granting of an appeal under this subsection shall stay proceedings in the Court of International Trade or in the Court of Federal Claims, as the case may be, unless a stay is ordered by a judge of the Court of International Trade or of the Court of Federal Claims or by the United States Court of Appeals for the Federal Circuit or a judge of that court.
 
-(4)(A) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of an appeal from an interlocutory order of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, granting or denying, in whole or in part, a motion to transfer an action to the United States Court of Federal Claims under section 1631 of this title.
+(4)(A) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of an appeal from an interlocutory order of a district court of the United States, the District Court of Guam, the District Court of theVirgin Islands, or the District Court for the Northern Mariana Islands, granting or denying, in whole or in part, a motion to transfer an action to the United States Court of Federal Claims under section 1631 of this title.
 
 (B) When a motion to transfer an action to the Court of Federal Claims is filed in a district court, no further proceedings shall be taken in the district court until 60 days after the court has ruled upon the motion. If an appeal is taken from the district court's grant or denial of the motion, proceedings shall be further stayed until the appeal has been decided by the Court of Appeals for the Federal Circuit. The stay of proceedings in the district court shall not bar the granting of preliminary or injunctive relief, where appropriate and where expedition is reasonably necessary. However, during the period in which proceedings are stayed as provided in this subparagraph, no transfer to the Court of Federal Claims pursuant to the motion shall be carried out.
 
@@ -94,7 +94,7 @@ Amendment by sections 902(b) and 906(c) of Pub. L. 102–572 effective Oct. 29, 
 
 #### Effective Date of 1988 Amendment
 
-Section 502 of title V of Pub. L. 100–702 provided that: “The amendment made by section 501 \[amending this section\] shall apply to any action commenced in the district court on or after the date of enactment of this title \[Nov. 19, 1988\].”
+Section 502 of title V of Pub. L. 100–702 provided that: “The amendment made by section 501 \[amending thissection\] shall apply to any action commenced in the district court on or after the date of enactment of this title \[Nov. 19, 1988\].”
 
 #### Effective Date of 1982 Amendment
 

@@ -6,7 +6,7 @@
 | [471\.](%C2%A7%2000471%20-%20Obligations%20or%20securities%20of%20United%20States.md) | Obligations or securities of United States. |
 | [472\.](%C2%A7%2000472%20-%20Uttering%20counterfeit%20obligations%20or%20securities.md) | Uttering counterfeit obligations or securities. |
 | [473\.](%C2%A7%2000473%20-%20Dealing%20in%20counterfeit%20obligations%20or%20securities.md) | Dealing in counterfeit obligations or securities. |
-| [474\.](%C2%A7%2000474%20-%20Plates%20or%20stones%20for%20counterfeiting%20obligations%20or%20securities.md) | Plates or stones for counterfeiting obligations or securities. |
+| [474\.](%C2%A7%2000474%20-%20Plates%2C%20stones%2C%20or%20analog%2C%20digital%2C%20or%20electronic%20images%20for%20counterfeiting%20obligations%20or%20securities.md) | Plates, stones, or analog, digital, or electronic images for counterfeiting obligations or securities. |
 | [474A.](%C2%A7%2000474A%20-%20Deterrents%20to%20counterfeiting%20of%20obligations%20and%20securities.md) | Deterrents to counterfeiting of obligations and securities. |
 | [475\.](%C2%A7%2000475%20-%20Imitating%20obligations%20or%20securities%3B%20advertisements.md) | Imitating obligations or securities; advertisements. |
 | [476\.](%C2%A7%2000476%20-%20Taking%20impressions%20of%20tools%20used%20for%20obligations%20or%20securities.md) | Taking impressions of tools used for obligations or securities. |
@@ -14,7 +14,7 @@
 | [478\.](%C2%A7%2000478%20-%20Foreign%20obligations%20or%20securities.md) | Foreign obligations or securities. |
 | [479\.](%C2%A7%2000479%20-%20Uttering%20counterfeit%20foreign%20obligations%20or%20securities.md) | Uttering counterfeit foreign obligations or securities. |
 | [480\.](%C2%A7%2000480%20-%20Possessing%20counterfeit%20foreign%20obligations%20or%20securities.md) | Possessing counterfeit foreign obligations or securities. |
-| [481\.](%C2%A7%2000481%20-%20Plates%20or%20stones%20for%20counterfeiting%20foreign%20obligations%20or%20securities.md) | Plates or stones for counterfeiting foreign obligations or securities. |
+| [481\.](%C2%A7%2000481%20-%20Plates%2C%20stones%2C%20or%20analog%2C%20digital%2C%20or%20electronic%20images%20for%20counterfeiting%20foreign%20obligations%20or%20securities.md) | Plates, stones, or analog, digital, or electronic images for counterfeiting foreign obligations or securities. |
 | [482\.](%C2%A7%2000482%20-%20Foreign%20bank%20notes.md) | Foreign bank notes. |
 | [483\.](%C2%A7%2000483%20-%20Uttering%20counterfeit%20foreign%20bank%20notes.md) | Uttering counterfeit foreign bank notes. |
 | [484\.](%C2%A7%2000484%20-%20Connecting%20parts%20of%20different%20notes.md) | Connecting parts of different notes. |
@@ -54,6 +54,8 @@
 
 #### Amendments
 
+2001—Pub. L. 107–56, title III, §§374(e)(4), 375(d)(4), Oct. 26, 2001, 115 Stat. 340, 341, substituted “, stones, or analog, digital, or electronic images” for “or stones” in items 474 and 481.
+
 1996—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §648(b)(2)\], title II, §2603(b)(2), Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, 3009–470, amended analysis identically, adding item 514.
 
 1994—Pub. L. 103–322, title XII, §120003(b)(1), title XXII, §220003(d)(2), title XXXIII, §330010(14), Sept. 13, 1994, 108 Stat. 2022, 2077, 2144, added item 470, struck out extraneous period after “money” in item 491, and added item 511A.
@@ -89,7 +91,7 @@ This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>
 - [&sect; 00471 - Obligations or securities of United States](%C2%A7%2000471%20-%20Obligations%20or%20securities%20of%20United%20States.md)
 - [&sect; 00472 - Uttering counterfeit obligations or securities](%C2%A7%2000472%20-%20Uttering%20counterfeit%20obligations%20or%20securities.md)
 - [&sect; 00473 - Dealing in counterfeit obligations or securities](%C2%A7%2000473%20-%20Dealing%20in%20counterfeit%20obligations%20or%20securities.md)
-- [&sect; 00474 - Plates or stones for counterfeiting obligations or securities](%C2%A7%2000474%20-%20Plates%20or%20stones%20for%20counterfeiting%20obligations%20or%20securities.md)
+- [&sect; 00474 - Plates, stones, or analog, digital, or electronic images for counterfeiting obligations or securities](%C2%A7%2000474%20-%20Plates%2C%20stones%2C%20or%20analog%2C%20digital%2C%20or%20electronic%20images%20for%20counterfeiting%20obligations%20or%20securities.md)
 - [&sect; 00474A - Deterrents to counterfeiting of obligations and securities](%C2%A7%2000474A%20-%20Deterrents%20to%20counterfeiting%20of%20obligations%20and%20securities.md)
 - [&sect; 00475 - Imitating obligations or securities; advertisements](%C2%A7%2000475%20-%20Imitating%20obligations%20or%20securities%3B%20advertisements.md)
 - [&sect; 00476 - Taking impressions of tools used for obligations or securities](%C2%A7%2000476%20-%20Taking%20impressions%20of%20tools%20used%20for%20obligations%20or%20securities.md)
@@ -97,7 +99,7 @@ This chapter is referred to in title 7 section 12a; title 15 sections 78<i>o</i>
 - [&sect; 00478 - Foreign obligations or securities](%C2%A7%2000478%20-%20Foreign%20obligations%20or%20securities.md)
 - [&sect; 00479 - Uttering counterfeit foreign obligations or securities](%C2%A7%2000479%20-%20Uttering%20counterfeit%20foreign%20obligations%20or%20securities.md)
 - [&sect; 00480 - Possessing counterfeit foreign obligations or securities](%C2%A7%2000480%20-%20Possessing%20counterfeit%20foreign%20obligations%20or%20securities.md)
-- [&sect; 00481 - Plates or stones for counterfeiting foreign obligations or securities](%C2%A7%2000481%20-%20Plates%20or%20stones%20for%20counterfeiting%20foreign%20obligations%20or%20securities.md)
+- [&sect; 00481 - Plates, stones, or analog, digital, or electronic images for counterfeiting foreign obligations or securities](%C2%A7%2000481%20-%20Plates%2C%20stones%2C%20or%20analog%2C%20digital%2C%20or%20electronic%20images%20for%20counterfeiting%20foreign%20obligations%20or%20securities.md)
 - [&sect; 00482 - Foreign bank notes](%C2%A7%2000482%20-%20Foreign%20bank%20notes.md)
 - [&sect; 00483 - Uttering counterfeit foreign bank notes](%C2%A7%2000483%20-%20Uttering%20counterfeit%20foreign%20bank%20notes.md)
 - [&sect; 00484 - Connecting parts of different notes](%C2%A7%2000484%20-%20Connecting%20parts%20of%20different%20notes.md)

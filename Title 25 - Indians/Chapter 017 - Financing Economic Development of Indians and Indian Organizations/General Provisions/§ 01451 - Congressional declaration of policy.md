@@ -6,7 +6,7 @@ It is hereby declared to be the policy of Congress to provide capital on a reimb
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–449, §1, Oct. 4, 1984, 98 Stat. 1725, provided: “That this Act \[enacting section 47a of this title and amending sections 1461, 1465, 1481, 1484, 1491, 1497, 1512, 1522, 1523, 1541, and 1543 of this title\] may be cited as the ‘Indian Financing Act Amendments of 1984’.”
+Pub. L. 98–449, §1, Oct. 4, 1984, 98 Stat. 1725, provided: “That this Act \[enacting section 47a of this title and amending sections 1461, 1465, 1481, 1484, 1491, 1497, 1512,1522, 1523, 1541, and 1543 of this title\] may be cited as the ‘Indian Financing Act Amendments of 1984’.”
 
 #### Short Title
 

@@ -8,7 +8,7 @@ In General.—Whoever—
 
 &emsp;(2) forcibly assaults or intimidates any person who formerly served as a person designated in section 1114 on account of the performance of official duties during such person's term of service,
 
-> shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases, be fined under this title or imprisoned not more than three years, or both.
+> shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year,or both, and in all other cases, be fined under this title or imprisoned not more than three years, or both.
 
 (b)
 

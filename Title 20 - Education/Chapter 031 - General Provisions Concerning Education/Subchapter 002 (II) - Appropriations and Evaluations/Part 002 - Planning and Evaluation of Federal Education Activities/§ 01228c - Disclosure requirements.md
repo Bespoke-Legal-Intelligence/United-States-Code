@@ -146,7 +146,7 @@ As used in this section:
 
 #### (7) Recreational organization
 
-&emsp;The term “recreational organization” includes any organization or entity that has as its primary function pleasure, amusement, or sports activities.
+&emsp;The term “recreational organization” includes any organization or entity that has asits primary function pleasure, amusement, or sports activities.
 
 #### (8) Recreational program
 
@@ -156,7 +156,7 @@ As used in this section:
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 

@@ -6,7 +6,7 @@ If a partnership return is filed by an entity for a taxable year but it is deter
 
 #### (b) Similar rules in certain cases
 
-If a partnership return is filed for any taxable year but it is determined that there is no entityfor such taxable year, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.
+If a partnership return is filed for any taxable year but it is determined that there is no entity for such taxable year, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.
 
 (Added Pub. L. 98–369, div. A, title VII, §714(p)(1), July 18, 1984, 98 Stat. 964; amended Pub. L. 104–188, title I, §1307(c)(3)(B), Aug. 20, 1996, 110 Stat. 1782.)
 

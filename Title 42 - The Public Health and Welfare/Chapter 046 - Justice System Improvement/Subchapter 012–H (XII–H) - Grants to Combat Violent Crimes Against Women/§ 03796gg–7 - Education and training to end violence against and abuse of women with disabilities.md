@@ -36,5 +36,5 @@ Section was enacted as part of the Violence Against Women Act of 2000 and also a
 
 #### Definitions
 
-For definitions of “domestic violence” and “sexual assault” used in this section, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.
+For definitions of “domestic violence” and “sexual assault” used in this section, see section 1002 of Pub. L.106–386, set out as a note under section 3796gg–2 of this title.
 

@@ -30,7 +30,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;&emsp;(C) to identify the nature and severity of the injury;
 
-&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designated trauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment and treatment outcome of such trauma patients;
+&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designatedtrauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment and treatment outcome of such trauma patients;
 
 &emsp;&emsp;(E) to identify the total amount of uncompensated trauma care expenditures for each fiscal year by each designated trauma center in the State; and
 
@@ -102,7 +102,7 @@ Subsec. (a)(10). Pub. L. 103–183, §601(f)(3)(C), substituted “conducts” f
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183,see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
 #### Section Referred to in Other Sections
 

@@ -8,6 +8,10 @@ To facilitate the administration of the programs and activities of the Forest Se
 
 “Section 3324(a) and (b) of title 31” substituted in text for “the Act of January 31, 1823 (Rev. Stat. 3648, as amended; 31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
+#### Mutual Benefit of Agreements to Forest Service and Other Parties
+
+Pub. L. 107–63, title III, §328, Nov. 5, 2001, 115 Stat. 470, provided that: “Until September 30, 2003, the authority of the Secretary of Agriculture to enter into a cooperative agreement under the first section of Public Law 94–148 (16 U.S.C. 565a–1) for a purpose described in such section includes the authority to use that legal instrument when the principal purpose of the resulting relationship is to the mutually significant benefit of the Forest Service and the other party or parties to the agreement, including nonprofit entities.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 565a–2, 565a–3 of this title.

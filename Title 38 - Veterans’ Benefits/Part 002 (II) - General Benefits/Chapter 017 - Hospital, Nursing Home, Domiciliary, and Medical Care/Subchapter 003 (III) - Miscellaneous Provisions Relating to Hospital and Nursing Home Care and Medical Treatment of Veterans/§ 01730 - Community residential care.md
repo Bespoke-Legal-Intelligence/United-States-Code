@@ -24,7 +24,7 @@
 
 (3) Payment of the charges of a community residential-care facility for any care or service provided to a veteran whom the Secretary has referred to that facility under this section is not the responsibility of the United States or of the Department.
 
-(c)(1) In order to determine continued compliance by community residential-care facilities that have been approved under subsection (b) of this section with the standards established inregulations prescribed under this section, the Secretary shall provide for periodic inspection of such facilities.
+(c)(1) In order to determine continued compliance by community residential-care facilities that have been approved under subsection (b) of this section with the standards established in regulations prescribed under this section, the Secretary shall provide for periodic inspection of such facilities.
 
 (2) If the Secretary determines that a facility is not in compliance with such standards, the Secretary (in accordance with regulations prescribed under this section)—
 
@@ -57,4 +57,8 @@ Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (3).
 
 Subsecs. (c) to (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2062 of this title.
 

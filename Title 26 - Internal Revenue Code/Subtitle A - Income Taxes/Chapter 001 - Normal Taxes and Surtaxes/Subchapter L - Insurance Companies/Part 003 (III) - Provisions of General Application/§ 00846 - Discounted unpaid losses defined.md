@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The annual rate determined by the Secretary under this paragraph for any calendar year shall be a rate equal to the average ofthe applicable Federal mid-term rates (as defined in section 1274(d) but based on annual compounding) effective as of the beginning of each of the calendar months in the test period.
+&emsp;&emsp;The annual rate determined by the Secretary under this paragraph for any calendar year shall be a rate equal to the average of the applicable Federal mid-term rates (as defined in section 1274(d) but based on annual compounding) effective as of the beginning of each of the calendar months in the test period.
 
 #### (B) Test period
 

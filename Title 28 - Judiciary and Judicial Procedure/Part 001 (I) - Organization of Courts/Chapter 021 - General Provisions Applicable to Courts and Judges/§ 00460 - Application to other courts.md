@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-This section was included to make clear that the provisions of this chapter are equally applicable in Alaska, the Canal Zone and the Virgin Islands in view of definitive section 451 of this title.
+This section was included to make clear that the provisions of this chapter are equally applicable in Alaska,the Canal Zone and the Virgin Islands in view of definitive section 451 of this title.
 
 #### Amendments
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 9 section 203; title 16 sections 1540, 3375, 4912; title 19 section 3473; title 20section 290i–7; title 22 sections 283gg, 285f, 290g–6, 290k–9, 290k–11, 290m, 1650a; title 33 section 1479.
+This section is referred to in title 9 section 203; title 16 sections 1540, 3375, 4912; title 19 section 3473; title 20 section 290i–7; title 22 sections 283gg, 285f, 290g–6, 290k–9, 290k–11, 290m, 1650a; title 33 section 1479.
 

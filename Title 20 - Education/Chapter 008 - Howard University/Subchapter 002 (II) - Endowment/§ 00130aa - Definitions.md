@@ -24,5 +24,5 @@ Section 209 of title II of Pub. L. 98–480 provided that: “This title \[see S
 
 #### Short Title
 
-Section 201 of title II of Pub. L. 98–480 provided that: “This title \[enacting this subchapter, amending section 123 of this title, and enacting provisions set out as a note above\] may be cited as the ‘Howard University Endowment Act’.”
+Section 201 of title II of Pub. L. 98–480 provided that: “This title \[enacting this subchapter, amending section123 of this title, and enacting provisions set out as a note above\] may be cited as the ‘Howard University Endowment Act’.”
 

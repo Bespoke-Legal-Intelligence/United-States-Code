@@ -52,7 +52,17 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 398; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 86–779, §4(c), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §108(e), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title II, §201(d)(2), (4)(B), Dec. 30, 1969, 83 Stat. 561; Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), Oct. 4, 1976, 90 Stat. 1727, 1805, 1852; Pub. L. 97–473, title II, §202(b)(6), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 99–514, title XIV, §1422(c), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(4), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title V, §5033(c), Nov. 10, 1988, 102 Stat. 3672; Pub. L. 101–239, title VII, §7815(d)(3), Dec. 19, 1989, 103 Stat. 2415.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 398; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 86–779, §4(c), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §108(e), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title II, §201(d)(2), (4)(B), Dec. 30, 1969, 83 Stat. 561; Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), Oct. 4, 1976, 90 Stat. 1727, 1805, 1852; Pub. L. 97–473, title II, §202(b)(6), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 99–514, title XIV, §1422(c), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(4), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title V, §5033(c), Nov. 10, 1988, 102 Stat. 3672; Pub. L. 101–239, title VII, §7815(d)(3), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 107–16, title V, §532(c)(8), June 7, 2001, 115 Stat. 75.)
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 107–16, title V, §532(c)(8), (d), title IX, §901, June 7, 2001, 115 Stat. 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (a) of this section is temporarily amended by adding at the end the following new paragraph:</i>
+
+#### <i>(4) State death taxes</i>
+
+&emsp;<i>The amount which bears the same ratio to the State death taxes as the value of the property, as determined for purposes of this chapter, upon which State death taxes were paid and which is included in the gross estate under section 2103 bears to the value of the total gross estate under section 2103. For purposes of this paragraph, the term “State death taxes” means the taxes described in section 2011(a).</i>
+
+<i>See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
 
@@ -87,6 +97,12 @@ Subsec. (a)(2)(E). Pub. L. 91–172, §201(d)(2), substituted substantive provis
 <b>1960</b>—Subsec. (a)(3). Pub. L. 86–779 designated existing provisions as subpar. (A) and added subpar. (B).
 
 <b>1958</b>—Subsec. (a)(2)(E). Pub. L. 85–866 substituted “503” for “504”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -130,7 +146,7 @@ Section 4(e)(2) of Pub. L. 86–779 provided that: “The amendments made by sub
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 
-For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen or resident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
+For provisions directing that in the case of the estate of, or gift by, an individual who was not a citizen orresident of the United States but was a resident of a foreign country with which the United States has a tax treaty with respect to estate, inheritance, or gift taxes, the amendments made by section 5033 of Pub. L. 100–647 shall not apply to the extent such amendments would be inconsistent with the provisions of such treaty relating to estate, inheritance, or gift tax marital deductions, but that in the case of the estate of an individual dying before the date 3 years after Dec. 19, 1989, or a gift by an individual before the date 3 years after Dec. 19, 1989, the requirement of the preceding provision that the individual not be a citizen or resident of the United States shall not apply, see section 7815(d)(14) of Pub. L. 101–239, set out as a note under section 2056 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—If the requirements of section 3101 are satisfied, a court may issue a writ of garnishment against property (excluding earnings) in which the debtor has a substantial nonexempt interest and which is in the possession, custody, or control of a person other than the debtor in order to satisfy a claim for a debt. Co-owned property shall be subject to garnishment to the same extent as co-owned property is subject to garnishment under the law of the State in which such property is located. A court may issue simultaneous separate writs of garnishment to several garnishees. A writ of garnishment issued under this subsection shall be continuing and shall terminate only as provided in section 3205(c)(10).
+In General.—If the requirements of section 3101 are satisfied, a court may issue a writ of garnishment against property (excludingearnings) in which the debtor has a substantial nonexempt interest and which is in the possession, custody, or control of a person other than the debtor in order to satisfy a claim for a debt. Co-owned property shall be subject to garnishment to the same extent as co-owned property is subject to garnishment under the law of the State in which such property is located. A court may issue simultaneous separate writs of garnishment to several garnishees. A writ of garnishment issued under this subsection shall be continuing and shall terminate only as provided in section 3205(c)(10).
 
 (b)
 
@@ -20,7 +20,7 @@ Writ.—(1) Subsections (b)(2) and (c) of section 3205 shall apply with respect 
 
 (c)
 
-Limitation.—The value of property garnished shall not exceed the amount by which thesum of the amount of the debt claimed by the United States and the amount of interest and costs reasonably likely to be assessed against the debtor by the court exceeds the aggregate value of the nonexempt interest of the debtor in any—
+Limitation.—The value of property garnished shall not exceed the amount by which the sum of the amount of the debt claimed by the United States and the amount of interest and costs reasonably likely to be assessed against the debtor by the court exceeds the aggregate value of the nonexempt interest of the debtor in any—
 
 &emsp;(1) property securing the debt; and
 

@@ -22,7 +22,7 @@ For purposes of this subchapter:
 
 &emsp;(10) The term “public offering” means an underwritten offering to the public of the common stock of the private corporation pursuant to section 2297h–2 of this title.
 
-&emsp;(11) The “Russian HEU Agreement” means the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons, dated February 18, 1993.
+&emsp;(11) The “Russian HEU Agreement” means the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched UraniumExtracted from Nuclear Weapons, dated February 18, 1993.
 
 &emsp;(12) The term “Secretary” means the Secretary of Energy.
 
@@ -66,7 +66,7 @@ Sec. 3. <i>Organization</i>. (a) The EOC shall be Chaired by a senior official f
 
 (d) At the request of the EOC, appropriate agencies, including the Department of Energy, shall provide day-to-day support for the EOC.
 
-Sec. 4. <i>HEU Agreement Oversight</i>. The EOC shall form an HEU Agreement Oversight Subcommittee (the “Subcommittee”) in order to continue coordination of theimplementation of the HEU Agreement and related contracts and agreements, monitor actions taken by the executive agent, and make recommendations regarding steps designed to facilitate full implementation of the HEU Agreement, including changes with respect to the executive agent. The Subcommittee shall be chaired by a senior official from the NSC and shall include representatives of the Departments of State, Defense, Justice, Commerce, and Energy, and the Office of Management and Budget, the National Economic Council, the Intelligence Community, and, as appropriate, the United States Trade Representative, and the Council of Economic Advisers. The Subcommittee shall meet as appropriate to review the implementation of the HEU Agreement and consider steps to facilitate full implementation of that Agreement. In particular, the Subcommittee shall:
+Sec. 4. <i>HEU Agreement Oversight</i>. The EOC shall form an HEU Agreement Oversight Subcommittee (the “Subcommittee”) in order to continue coordination of the implementation of the HEU Agreement and related contracts and agreements, monitor actions taken by the executive agent, and make recommendations regarding steps designed to facilitate full implementation of the HEU Agreement, including changes with respect to the executive agent. The Subcommittee shall be chaired by a senior official from the NSC and shall include representatives of the Departments of State, Defense, Justice, Commerce, and Energy, and the Office of Management and Budget, the National Economic Council, the Intelligence Community, and, as appropriate, the United States Trade Representative, and the Council of Economic Advisers. The Subcommittee shall meet as appropriate to review the implementation of the HEU Agreement and consider steps to facilitate full implementation of that Agreement. In particular, the Subcommittee shall:
 
 (a) have access to all information concerning implementation of the HEU Agreement and related contracts and agreements;
 
@@ -86,7 +86,7 @@ Sec. 5. <i>Foreign Ownership, Control, or Influence (FOCI)</i>. The EOC shall co
 
 (b) monitor and review reports and submissions relating to FOCI issues made by the USEC or any successor entity to the Nuclear Regulatory Commission (NRC) under the Atomic Energy Act of 1954, 42 U.S.C. 2011 <i>et seq</i>. (1994), and the USEC Privatization Act, Public Law 104–134, title III, 110 Stat. 1321–335 <i>et seq</i>. (1996) \[42 U.S.C. 2297h et seq.\];
 
-(c) ensure coordination with the Intelligence Community of the collection and analysis of intelligence and ensure coordination of intelligence with other information related to FOCI issues; and
+(c) ensure coordination with the Intelligence Community of the collection and analysis of intelligence andensure coordination of intelligence with other information related to FOCI issues; and
 
 (d) ensure coordination with the Committee on Foreign Investment in the United States.
 

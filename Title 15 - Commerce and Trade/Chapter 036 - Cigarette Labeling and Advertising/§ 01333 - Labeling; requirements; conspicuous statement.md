@@ -22,7 +22,7 @@
 
 > &emsp;SURGEON GENERAL'S WARNING: Cigarette Smoke Contains Carbon Monoxide.
 
-(3) It shall be unlawful for any manufacturer or importer of cigarettes to advertise or cause to be advertised within the United States through the use of outdoor billboards any cigarette unless the advertising bears, in accordance with the requirements of this section, one of the following labels:
+(3) It shall be unlawful for any manufacturer or importer of cigarettes to advertise or cause to be advertised within the United Statesthrough the use of outdoor billboards any cigarette unless the advertising bears, in accordance with the requirements of this section, one of the following labels:
 
 > &emsp;SURGEON GENERAL'S WARNING: Smoking Causes Lung Cancer, Heart Disease, And Emphysema.
 
@@ -94,5 +94,5 @@ Section 3 of Pub. L. 91–222 provided in part that: “Section 4 of the amendme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1334, 1336 of this title.
+This section is referred to in sections 1334, 1336 of this title; title 19 section 1681a.
 

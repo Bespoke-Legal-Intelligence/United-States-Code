@@ -34,7 +34,7 @@ The Corporation shall develop and publish general standards for the evaluation o
 
 #### (e) Community participation
 
-In evaluating a program receiving assistance under the national service laws, the Corporation shall consider the opinions of participants andmembers of the communities where services are delivered concerning the strengths and weaknesses of such program.
+In evaluating a program receiving assistance under the national service laws, the Corporation shall consider the opinions of participants and members of the communities where services are delivered concerning the strengths and weaknesses of such program.
 
 #### (f) Comparison of program models
 
@@ -108,7 +108,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 #### (C) Communities
 
-&emsp;&emsp;In conducting the evaluation, the entity shall determine the amount of assistanceprovided under section 12571 of this title during the year that has been expended for projects conducted under the programs in areas described in section 12585(c)(6) of this title.
+&emsp;&emsp;In conducting the evaluation, the entity shall determine the amount of assistance provided under section 12571 of this title during the year that has been expended for projects conducted under the programs in areas described in section 12585(c)(6) of this title.
 
 #### (2) Report
 
@@ -124,7 +124,7 @@ The Corporation shall ensure that programs that receive assistance under divisio
 
 The Peace Corps Act, referred to in subsecs. (a)(2)(D) and (g)(3), (9), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
-Section 12575 of this title, referred to in subsec. (g)(1), was in the original a reference to section 145 of Pub. L. 101–610. Section 145 of Pub. L. 101–610 was omitted in the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816. Pub. L. 103–82 enacted a new section 125 of Pub. L. 101–610, relating to training and technical assistance, and a new section 145, relating to establishment of the National Service Trust, which are classified to sections 12575 and sections 12601, respectively, of this title. Provisions relating to the eligibility of individuals for participation in national service programs are now contained in section 12591 et seq. of this title.
+Section 12575 of this title, referred to in subsec. (g)(1), was in the original a reference to section 145 of Pub. L.101–610. Section 145 of Pub. L. 101–610 was omitted in the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816. Pub. L. 103–82 enacted a new section 125 of Pub. L. 101–610, relating to training and technical assistance, and a new section 145, relating to establishment of the National Service Trust, which are classified to sections 12575 and sections 12601, respectively, of this title. Provisions relating to the eligibility of individuals for participation in national service programs are now contained in section 12591 et seq. of this title.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(3), (9), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 

@@ -98,7 +98,7 @@ For purposes of this section, the term “employee” does not include an indivi
 
 &emsp;&emsp;(A) in the case of a benefit available to highly compensated individuals but not to all other participants (or which otherwise fails to satisfy the requirements of paragraph (2)(B)), the amount reimbursed under the plan to the employee with respect to such benefit, and
 
-&emsp;&emsp;(B) in the case of benefits (other than benefits described in subparagraph (A) <sup>1</sup> paid to a highly compensated individual by a plan which fails to satisfy the requirements ofparagraph (2), the total amount reimbursed to the highly compensated individual for the plan year multiplied by a fraction—
+&emsp;&emsp;(B) in the case of benefits (other than benefits described in subparagraph (A) <sup>1</sup> paid to a highly compensated individual by a plan which fails to satisfy the requirements of paragraph (2), the total amount reimbursed to the highly compensated individual for the plan year multiplied by a fraction—
 
 &emsp;&emsp;&emsp;(i) the numerator of which is the total amount reimbursed to all participants who are highly compensated individuals under the plan for the plan year, and
 
@@ -166,7 +166,7 @@ Subsec. (h). Pub. L. 95–600, §366(a), added subsec. (h).
 
 Subsec. (e)(2). Pub. L. 94–455, §1901(c)(2), struck out “a territory” after “of a State”.
 
-<b>1964</b>—Subsec. (d). Pub. L. 88–272 substituted provisions stating that “The preceding sentence shall not apply to amounts attributable to the first 30” days if the amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating that said “preceding sentence” did not apply in cases of sickness, to amounts attributable to the first 7 daysunless the employee was hospitalized for sickness for at least 1 day during such period.
+<b>1964</b>—Subsec. (d). Pub. L. 88–272 substituted provisions stating that “The preceding sentence shall not apply to amounts attributable to the first 30” days if the amounts exceed 75 percent of regular weekly wages, and if they do not exceed said 75 percent, the first sentence of this subsection shall not apply to the extent the amounts exceed $75 weekly and shall not apply to amounts attributable to the first 7 calendar days unless the employee is hospitalized for injury or sickness for at least 1 day in such period, for provisions stating that said “preceding sentence” did not apply in cases of sickness, to amounts attributable to the first 7 days unless the employee was hospitalized for sickness for at least 1 day during such period.
 
 <b>1962</b>—Subsec. (g). Pub. L. 87–792 added subsec. (g).
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Section 366(b) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(13)(D), Apr. 1, 1980, 94 Stat. 213, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts reimbursed after December 31, 1979. For purposes of applying such amendment, there shall not be taken into account any amount reimbursed before January 1, 1980.”
+Section 366(b) of Pub. L. 95–600, as amended by Pub. L. 96–222, title I, §103(a)(13)(D), Apr. 1, 1980, 94 Stat. 213,provided that: “The amendment made by this section \[amending this section\] shall apply to amounts reimbursed after December 31, 1979. For purposes of applying such amendment, there shall not be taken into account any amount reimbursed before January 1, 1980.”
 
 Section 701(c)(3) of Pub. L. 95–600, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -272,7 +272,7 @@ Section 505(d) of Pub. L. 94–455, as amended by Pub. L. 95–30, title III, §
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 22, 51A, 213, 861, 3401, 6039D, 7701, 7871 of this title.
+This section is referred to in sections 22, 51A, 213, 3401, 6039D, 7701, 7871 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

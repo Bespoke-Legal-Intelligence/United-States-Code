@@ -24,7 +24,7 @@ The Secretary of the Treasury shall deposit into the Fund—
 
 #### (d) Acceptance and use of donations
 
-The Secretary may accept and use donations to provide assistance under section 4264 of this title. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
+The Secretary may accept and use donations to provide assistance under section 4264 of thistitle. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
 
 (Pub. L. 105–96, §6, Nov. 19, 1997, 111 Stat. 2153.)
 

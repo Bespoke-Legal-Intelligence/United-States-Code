@@ -1,6 +1,6 @@
 ### §414. Transmittal of books to successors
 
-All government publications and law books furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agency thereof shall be transmitted to their successors in office. All permanent or bound books and publications furnished under this chapter except those books furnished to the Library of Congress for international exchange shall remain the property of the United States and shall be marked plainly, “The Property of the United States”.
+All government publications and law books furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agencythereof shall be transmitted to their successors in office. All permanent or bound books and publications furnished under this chapter except those books furnished to the Library of Congress for international exchange shall remain the property of the United States and shall be marked plainly, “The Property of the United States”.
 
 (June 25, 1948, ch. 646, 62 Stat. 906; Pub. L. 87–845, §7, Oct. 18, 1962, 76A Stat. 699.)
 
@@ -26,7 +26,7 @@ As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 306, w
 
 #### Amendments
 
-<b>1962</b>—Pub. L. 87–845 substituted “furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or anagency thereof” for “furnished to justices and judges of the United States and of the Territorial Courts, United States attorneys, clerks of courts, and other officers of the United States”.
+<b>1962</b>—Pub. L. 87–845 substituted “furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agency thereof” for “furnished to justices and judges of the United States and of the Territorial Courts, United States attorneys, clerks of courts, and other officers of the United States”.
 
 #### Effective Date of 1962 Amendment
 

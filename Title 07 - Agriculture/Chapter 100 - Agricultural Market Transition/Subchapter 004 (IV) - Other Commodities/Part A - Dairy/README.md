@@ -6,7 +6,7 @@ Part A—Dairy
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 07251 - Milk price support program](%C2%A7%2007251%20-%20Milk%20price%20support%20program.md)
-- [&sect; 07252 - Recourse loan program for commercial processors of dairy products](%C2%A7%2007252%20-%20Recourse%20loan%20program%20for%20commercial%20processors%20of%20dairy%20products.md)
+- [&sect; 07252 - Repealed. Pub. L. 107&#8211;76, title VII, &sect;772(b), Nov. 28, 2001, 115 Stat. 745](%C2%A7%2007252%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9376%2C%20title%20VII%2C%20%C2%A7772%28b%29%2C%20Nov.%2028%2C%202001%2C%20115%20Stat.%20745.md)
 - [&sect; 07253 - Consolidation and reform of Federal milk marketing orders](%C2%A7%2007253%20-%20Consolidation%20and%20reform%20of%20Federal%20milk%20marketing%20orders.md)
 - [&sect; 07254 - Effect on fluid milk standards in State of California](%C2%A7%2007254%20-%20Effect%20on%20fluid%20milk%20standards%20in%20State%20of%20California.md)
 - [&sect; 07255 - Milk manufacturing marketing adjustment](%C2%A7%2007255%20-%20Milk%20manufacturing%20marketing%20adjustment.md)

@@ -22,5 +22,5 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 1982—Pub. L. 97–322 inserted parenthetical provision respecting service of an officer or employee of the United States as a member of the Committee without receipt of additional pay and inserted provisions for publication in the Federal Register of notice for solicitation of nominations for membership on the Advisory Committee and for disclosures to Congress.
 
-1976—Pub. L. 94–546 substituted “chairman” for “Chairman” in fourth sentence and “Each member of the Committee shall be reimbursed from Coast Guard appropriations in conformity with the provisions of chapter 57 of title 5.” for “Each member of the Committee shall be reimbursed from Coast Guard appropriations in conformity with section 73b–1 of Title 5, or such actual expenses as permitted by section 73b–2 of Title 5 shall be defrayed by the Coast Guard”.
+1976—Pub. L. 94–546 substituted “chairman” for “Chairman” in fourth sentence and “Each member of the Committee shall be reimbursed from Coast Guard appropriations in conformity with the provisions of chapter 57 of title 5.” for “Each member of the Committee shall be reimbursed from Coast Guard appropriations in conformity with section 73b–1 of Title 5, orsuch actual expenses as permitted by section 73b–2 of Title 5 shall be defrayed by the Coast Guard”.
 

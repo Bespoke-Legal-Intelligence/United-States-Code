@@ -26,7 +26,7 @@ Whether divisions should sit simultaneously at the same or different places in t
 
 #### References in Text
 
-Section 6 of Public Law 95–486 (92 Stat. 1633), referred to in subsec. (c), is section 6 of Pub. L. 95–486, Oct. 20,1978, 92 Stat. 1633, which is set out as an Appeals Court Administrative Units note under section 41 of this title.
+Section 6 of Public Law 95–486 (92 Stat. 1633), referred to in subsec. (c), is section 6 of Pub. L. 95–486, Oct. 20, 1978, 92 Stat. 1633, which is set out as an Appeals Court Administrative Units note under section 41 of this title.
 
 #### Amendments
 

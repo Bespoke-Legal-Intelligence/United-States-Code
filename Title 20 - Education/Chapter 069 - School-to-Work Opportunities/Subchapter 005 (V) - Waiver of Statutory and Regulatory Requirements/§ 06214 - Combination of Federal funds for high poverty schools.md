@@ -24,7 +24,7 @@
 
 #### (b) Use of funds
 
-A local partnership may use the Federal funds combined under subsection (a) of this section under the requirements of this chapter, except that the provisions relating to the matters specified in paragraphs (1) through (6) and paragraphs (8) and (9) of section 6212(c) of this title, and paragraphs (1) through (3) and paragraphs (5) and (6) of section 6213(b) of this title, that relate to the program through which the funds described in subsection (a)(2)(B) of this section were made available, shall remain in effect with respect to the use of such funds.
+A local partnership may use the Federal funds combined under subsection (a) of this sectionunder the requirements of this chapter, except that the provisions relating to the matters specified in paragraphs (1) through (6) and paragraphs (8) and (9) of section 6212(c) of this title, and paragraphs (1) through (3) and paragraphs (5) and (6) of section 6213(b) of this title, that relate to the program through which the funds described in subsection (a)(2)(B) of this section were made available, shall remain in effect with respect to the use of such funds.
 
 #### (c) Additional information in application
 
@@ -46,7 +46,7 @@ The local partnership shall, to the extent feasible, provide information on the 
 
 #### References in Text
 
-The Job Training Partnership Act, referred to in subsec. (a)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Section 263 of the Act was classified to section 1643 of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Job Training Partnership Act, referred to in subsec. (a)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Section 263 of the Act was classified to section 1643 of Title 29. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Job Training Partnership Act to the Code, see Tables. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -90,7 +90,7 @@
 
 #### (1) Authority to require submission
 
-&emsp;When certified cost or pricing data are not required to be submitted under this section fora contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
+&emsp;When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A) of this section, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
 #### (2) Limitations on authority
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(B) A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial items from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
 
-&emsp;&emsp;(C) A statement that any information received relating to commercial items that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
+&emsp;&emsp;(C) A statement that any information received relating to commercial items that isexempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
 
 #### (e) Price reductions for defective cost or pricing data
 
@@ -204,7 +204,7 @@ Section 1251(b) of Pub. L. 103–355, as amended by Pub. L. 104–106, div. D, t
 
 #### Eligibility for Contracts and Subcontracts To Be Conditioned on Compliance
 
-Pub. L. 105–261, div. A, title VIII, §808(c), Oct. 17, 1998, 112 Stat. 2085, provided that: “Not later than 180 daysafter the date of the enactment of this Act \[Oct. 17, 1998\], the Federal Acquisition Regulation shall be amended to provide that an offeror's compliance with a requirement to submit data for a contract or subcontract in accordance with section 2306a(d)(1) of title 10, United States Code, or section 304A(d)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 254b(d)(1)\] shall be a condition for the offeror to be eligible to enter into the contract or subcontract, subject to such exceptions as the Federal Acquisition Regulatory Council determines appropriate.”
+Pub. L. 105–261, div. A, title VIII, §808(c), Oct. 17, 1998, 112 Stat. 2085, provided that: “Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Federal Acquisition Regulation shall be amended to provide that an offeror's compliance with a requirement to submit data for a contract or subcontract in accordance with section 2306a(d)(1) of title 10, United States Code, or section 304A(d)(1) of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 254b(d)(1)\] shall be a condition for the offeror to be eligible to enter into the contract or subcontract, subject to such exceptions as the Federal Acquisition Regulatory Council determines appropriate.”
 
 #### Criteria for Determining Specific Price Information Required
 

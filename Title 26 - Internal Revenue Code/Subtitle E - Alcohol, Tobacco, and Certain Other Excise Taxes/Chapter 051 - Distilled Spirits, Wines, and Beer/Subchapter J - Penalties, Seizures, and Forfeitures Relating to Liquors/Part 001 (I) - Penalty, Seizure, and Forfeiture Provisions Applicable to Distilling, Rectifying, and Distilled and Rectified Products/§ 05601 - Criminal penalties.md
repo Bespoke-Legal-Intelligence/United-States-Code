@@ -26,7 +26,7 @@ Any person who—
 
 #### (6) Distilling on prohibited premises
 
-&emsp;uses, or possesses with intent to use, any still, boiler, or other utensil for the purpose of producing distilled spirits, or aids or assists therein, or causes or procures the same to be done, in any dwelling house, or in any shed,yard, or inclosure connected with such dwelling house (except as authorized under section 5178(a)(1)(C)), or on board any vessel or boat, or on any premises where beer or wine is made or produced, or where liquors of any description are retailed, or on premises where any other business is carried on (except when authorized under section 5178(b)); or
+&emsp;uses, or possesses with intent to use, any still, boiler, or other utensil for the purpose of producing distilled spirits, or aids or assists therein, or causes or procures the same to be done, in any dwelling house, or in any shed, yard, or inclosure connected with such dwelling house (except as authorized under section 5178(a)(1)(C)), or on board any vessel or boat, or on any premises where beer or wine is made or produced, or where liquors of any description are retailed, or on premises where any other business is carried on (except when authorized under section 5178(b)); or
 
 #### (7) Unlawful production, removal, or use of material fit for production of distilled spirits
 

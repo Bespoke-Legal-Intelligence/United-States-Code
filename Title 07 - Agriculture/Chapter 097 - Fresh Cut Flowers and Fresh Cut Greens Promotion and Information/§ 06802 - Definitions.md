@@ -98,7 +98,7 @@ As used in this chapter:
 
 #### (I) Non-sale transfers and direct sales by importers
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (III), in the case of a non-sale transfer of cut flowers or cut greens from a distribution center (asdescribed in subparagraph (A)(ii)(II)), or a direct sale to a consumer by an importer (as described in subparagraph (A)(iii)), the amount of the sale shall be equal to the sum of—
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (III), in the case of a non-sale transfer of cut flowers or cut greens from a distribution center (as described in subparagraph (A)(ii)(II)), or a direct sale to a consumer by an importer (as described in subparagraph (A)(iii)), the amount of the sale shall be equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the price paid by the distribution center or importer, respectively, to acquire the cut flowers or cut greens; and
 

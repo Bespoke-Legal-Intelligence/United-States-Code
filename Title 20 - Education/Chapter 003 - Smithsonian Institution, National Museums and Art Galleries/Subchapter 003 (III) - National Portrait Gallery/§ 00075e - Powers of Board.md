@@ -2,7 +2,7 @@
 
 For the purpose of carrying out any function authorized by section 75b of this title, the Board may—
 
-&emsp;(1) purchase, accept, borrow, or otherwise acquire portraiture, statuary, and other itemsfor preservation, exhibition, or study. The Board may acquire any such item on the basis of its general historical interest, its artistic merit, or the historical significance of the individual to which it relates, or any combination of any such factors. The Board may acquire period furniture and other items to enhance its displays of portraiture and statuary.
+&emsp;(1) purchase, accept, borrow, or otherwise acquire portraiture, statuary, and other items for preservation, exhibition, or study. The Board may acquire any such item on the basis of its general historical interest, its artistic merit, or the historical significance of the individual to which it relates, or any combination of any such factors. The Board may acquire period furniture and other items to enhance its displays of portraiture and statuary.
 
 &emsp;(2) preserve or restore any item acquired pursuant to paragraph (1).
 

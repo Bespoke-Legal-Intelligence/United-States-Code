@@ -22,3 +22,7 @@ Subsec. (b). Pub. L. 101–647, §323(c)(2), amended subsec. (b) generally. Prio
 
 &emsp;“(2) the terms ‘minor’ and ‘sexually explicit conduct’ have the meaning given those terms in chapter 110 of this title.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 20 sections 6777, 9134; title 47 section 254.
+

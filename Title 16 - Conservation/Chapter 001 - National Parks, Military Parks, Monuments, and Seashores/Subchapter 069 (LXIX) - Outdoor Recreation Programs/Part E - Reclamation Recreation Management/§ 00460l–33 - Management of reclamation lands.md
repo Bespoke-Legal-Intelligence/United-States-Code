@@ -52,7 +52,7 @@ Funds expended by the Secretary in carrying out the provisions of this part shal
 
 #### References in Text
 
-This part, referred to in subsec. (d), was in the original “this title”, meaning title XXVIII of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460<i>l</i>–31 to 460<i>l</i>–34 of this title and amended sections 460<i>l</i>–13 to 460<i>l</i>–15 and 460<i>l</i>–18 of this title.
+This part, referred to in subsec. (d), was in the original “this title”, meaning title XXVIII of Pub. L.102–575, Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460<i>l</i>–31 to 460<i>l</i>–34 of this title and amended sections 460<i>l</i>–13 to 460<i>l</i>–15 and 460<i>l</i>–18 of this title.
 
 The Federal reclamation laws, referred to in subsec. (d), include act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, which are classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of act June 17, 1902 to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 

@@ -1,6 +1,6 @@
 ### §1064. Cancellation of registration
 
-A petition to cancel a registration of a mark, stating the grounds relied upon, may, upon payment of the prescribed fee, be filed as follows by any person who believes that he is or will be damaged, including as a result of dilution under section 1125(c) of this title, by the registration of a mark on the principal register established by this chapter, or under the Act of March 3, 1881, or the Act of February 20, 1905:
+A petition to cancel a registration of a mark, stating the grounds relied upon, may, upon payment of the prescribed fee, be filed as follows by any person who believes that he is or will be damaged, including as a result of dilution under section 1125(c) of this title, by the registrationof a mark on the principal register established by this chapter, or under the Act of March 3, 1881, or the Act of February 20, 1905:
 
 &emsp;(1) Within five years from the date of the registration of the mark under this chapter.
 
@@ -12,7 +12,7 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 &emsp;(5) At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately to exercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies:
 
-> <i>Provided</i>, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required. Nothing in paragraph (5) shall bedeemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.
+> <i>Provided</i>, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required. Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.
 
 (July 5, 1946, ch. 540, title I, §14, 60 Stat. 433; Pub. L. 87–772, §9, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, §9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, §102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, §201(a)(4), title III, §301, Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §2(c), Aug. 5, 1999, 113 Stat. 218.)
 
@@ -44,7 +44,7 @@ Par. (4). Pub. L. 100–667, §115(5), substituted “(4) At” for “(d) at”
 
 Par. (5). Pub. L. 100–667, §115(6), substituted “(5) At” for “(e) at” and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively.
 
-1984—Par. (c). Pub. L. 98–620 inserted provision that a registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service, and that the primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used.
+1984—Par. (c). Pub. L. 98–620 inserted provision that a registered mark shall not be deemed to be the commondescriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service, and that the primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used.
 
 1982—Pub. L. 97–247 struck out “verified” before “petition to cancel” in provision preceding par. (a).
 
@@ -80,7 +80,7 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 
 #### Restriction on Use of Funds To Cancel Registration of Trademarks
 
-For provisions restricting the use of funds authorized to be appropriated to carry out section 41 et seq. of thistitle for fiscal year 1980, 1981, or 1982, for the purpose of taking any action under this section with respect to the cancellation of the registration of any mark on the ground that such mark has become the common descriptive name of an article or substance, see section 18 of Pub. L. 96–252, set out as a note under section 57c of this title.
+For provisions restricting the use of funds authorized to be appropriated to carry out section 41 et seq. of this title for fiscal year 1980, 1981, or 1982, for the purpose of taking any action under this section with respect to the cancellation of the registration of any mark on the ground that such mark has become the common descriptive name of an article or substance, see section 18 of Pub. L. 96–252, set out as a note under section 57c of this title.
 
 #### Section Referred to in Other Sections
 

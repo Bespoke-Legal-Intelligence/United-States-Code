@@ -12,13 +12,13 @@ Implementation of Electronic Commerce Capability.—(1) The head of each agency 
 
 Designation of Agency Official.—The head of each agency named in paragraph (5) or (6) of section 2303(a) of this title shall designate a program manager to implement the electronic commerce capability for that agency. The program manager shall report directly to an official at a level not lower than the senior procurement executive designated for the agency under section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3)).
 
-(Added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1066(a)(18), Oct. 5, 1999, 113 Stat. 717, 771.)
+(Added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 106–65, div. A, title X, §1066(a)(18), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
 
 #### Amendments
 
-1999—Subsec. (a)(2). Pub. L. 106–65, §911(a)(1), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+2001—Subsec. (a)(2). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-Subsec. (b). Pub. L. 106–65, §1066(a)(18), substituted “section 2303(a)” for “section 2303”.
+1999—Subsec. (b). Pub. L. 106–65 substituted “section 2303(a)” for “section 2303”.
 
 1997—Pub. L. 105–85 substituted “electronic commerce” for “FACNET” in section catchline and amended text generally. Prior to amendment, text read as follows:
 

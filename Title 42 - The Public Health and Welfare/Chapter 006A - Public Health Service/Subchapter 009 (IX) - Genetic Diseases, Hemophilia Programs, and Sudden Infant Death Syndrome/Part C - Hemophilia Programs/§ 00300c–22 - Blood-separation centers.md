@@ -114,7 +114,7 @@ Determination.—The Secretary determines, in accordance with section 103(b), th
 
 “(a)
 
-Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
+Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establishprocedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
 
 “(b)
 
@@ -134,7 +134,7 @@ Payments in case of deceased individuals.—
 
 &emsp;&emsp;“(A)
 
-In general.—In the case of an individual referred to in section 102(a) who is deceased at the time that payment is made under this section on apetition filed by or on behalf of the individual, the payment shall be made as follows:
+In general.—In the case of an individual referred to in section 102(a) who is deceased at the time that payment is made under this section on a petition filed by or on behalf of the individual, the payment shall be made as follows:
 
 &emsp;&emsp;&emsp;“(i) If the individual is survived by a spouse who is living at the time of payment, the payment shall be made to such surviving spouse.
 

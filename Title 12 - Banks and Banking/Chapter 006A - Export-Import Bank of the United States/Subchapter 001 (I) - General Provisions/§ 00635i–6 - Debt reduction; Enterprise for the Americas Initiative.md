@@ -66,7 +66,7 @@ The proceeds from the sale, reduction, or cancellation of any loan sold, reduced
 
 #### (e) Eligible purchasers
 
-A loan may be sold pursuant to subsection (c)(1)(A) of this section only to a purchaser whopresents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
+A loan may be sold pursuant to subsection (c)(1)(A) of this section only to a purchaser who presents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 
 #### (f) Debtor consultation
 

@@ -6,9 +6,9 @@
 | [2552\.](%C2%A7%2002552%20-%20Equipment%20for%20instruction%20and%20practice%20American%20National%20Red%20Cross.md) | Equipment for instruction and practice: American National Red Cross. |
 | [2553\.](%C2%A7%2002553%20-%20Equipment%20and%20services%20Presidential%20inaugural%20ceremonies.md) | Equipment and services: Presidential inaugural ceremonies. |
 | [2554\.](%C2%A7%2002554%20-%20Equipment%20and%20other%20services%20Boy%20Scout%20Jamborees.md) | Equipment and other services: Boy Scout Jamborees. |
-| 2555\. | Transportation services: international Girl Scout events. |
+| [2555\.](%C2%A7%2002555%20-%20Transportation%20services%20international%20Girl%20Scout%20events.md) | Transportation services: international Girl Scout events. |
 | [2556\.](%C2%A7%2002556%20-%20Shelter%20for%20homeless%3B%20incidental%20services.md) | Shelter for homeless; incidental services. |
-| [2557\.](%C2%A7%2002557%20-%20Excess%20nonlethal%20supplies%20humanitarian%20relief.md) | Excess nonlethal supplies: humanitarian relief. |
+| [2557\.](%C2%A7%2002557%20-%20Excess%20nonlethal%20supplies%20availability%20for%20homeless%20veteran%20initiatives%20and%20humanitarian%20relief.md) | Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief. |
 | [2558\.](%C2%A7%2002558%20-%20National%20military%20associations%20assistance%20at%20national%20conventions.md) | National military associations: assistance at national conventions. |
 | [2559\.](%C2%A7%2002559%20-%20Provision%20of%20medical%20care%20to%20foreign%20military%20and%20diplomatic%20personnel%20reimbursement%20required%3B%20waiver%20for%20provision%20of%20reciprocal%20services.md) | Provision of medical care to foreign military and diplomatic personnel: reimbursement required; waiver for provision of reciprocal services. |
 | [2560\.](%C2%A7%2002560%20-%20Aircraft%20and%20vehicles%20limitation%20on%20leasing%20to%20non-Federal%20agencies.md) | Aircraft and vehicles: limitation on leasing to non-Federal agencies. |
@@ -16,7 +16,7 @@
 | [2562\.](%C2%A7%2002562%20-%20Limitation%20on%20use%20of%20excess%20construction%20or%20fire%20equipment%20from%20Department%20of%20Defense%20stocks%20in%20foreign%20assistance%20or%20military%20sales%E2%80%A6.md) | Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs. |
 | [2563\.](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md) | Articles and services of industrial facilities: sale to persons outside the Department of Defense. |
 | [2564\.](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md) | Provision of support for certain sporting events. |
-| 2555\.<sup>1</sup> | Nuclear test monitoring equipment: furnishing to foreign governments. |
+| [2565\.](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md) | Nuclear test monitoring equipment: furnishing to foreign governments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,7 +26,9 @@ Chapter was comprised of subchapter I, former section 2540, and subchapter II, s
 
 #### Amendments
 
-2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(2), title XII, §1203(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 “Nuclear test monitoring equipment: furnishing to foreign governments” at end.
+2001—Pub. L. 107–107, div. A, title III, §361(b)(2), title XII, §1201(a)(2), Dec. 28, 2001, 115 Stat. 1065, 1245, substituted “Excess nonlethal supplies: availability for homeless veteran initiatives and humanitarian relief” for “Excess nonlethal supplies: humanitarian relief” in item 2557 and substituted “2565.” for “2555.” in item 2565.
+
+2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(2), title XII, §1203(b)\], Oct. 30, 2000, 114 Stat. 1654,1654A–260, 1654A–325, renumbered items 2541 to 2554 as 2551 to 2564, respectively, and added item 2555 “Nuclear test monitoring equipment: furnishing to foreign governments” at end.
 
 1997—Pub. L. 105–85, div. A, title X, §1073(c)(2)(B), Nov. 18, 1997, 111 Stat. 1904, amended directory language of Pub. L. 104–201, §367(b). See 1996 Amendment note below.
 
@@ -56,8 +58,6 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 
 1958—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “2565”.</i>
-
 
 ---
 
@@ -67,9 +67,9 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 - [&sect; 02552 - Equipment for instruction and practice American National Red Cross](%C2%A7%2002552%20-%20Equipment%20for%20instruction%20and%20practice%20American%20National%20Red%20Cross.md)
 - [&sect; 02553 - Equipment and services Presidential inaugural ceremonies](%C2%A7%2002553%20-%20Equipment%20and%20services%20Presidential%20inaugural%20ceremonies.md)
 - [&sect; 02554 - Equipment and other services Boy Scout Jamborees](%C2%A7%2002554%20-%20Equipment%20and%20other%20services%20Boy%20Scout%20Jamborees.md)
-- [&sect; 02555 - 1 Transportation services international Girl Scout events](%C2%A7%2002555%20-%201%20Transportation%20services%20international%20Girl%20Scout%20events.md)
+- [&sect; 02555 - Transportation services international Girl Scout events](%C2%A7%2002555%20-%20Transportation%20services%20international%20Girl%20Scout%20events.md)
 - [&sect; 02556 - Shelter for homeless; incidental services](%C2%A7%2002556%20-%20Shelter%20for%20homeless%3B%20incidental%20services.md)
-- [&sect; 02557 - Excess nonlethal supplies humanitarian relief](%C2%A7%2002557%20-%20Excess%20nonlethal%20supplies%20humanitarian%20relief.md)
+- [&sect; 02557 - Excess nonlethal supplies availability for homeless veteran initiatives and humanitarian relief](%C2%A7%2002557%20-%20Excess%20nonlethal%20supplies%20availability%20for%20homeless%20veteran%20initiatives%20and%20humanitarian%20relief.md)
 - [&sect; 02558 - National military associations assistance at national conventions](%C2%A7%2002558%20-%20National%20military%20associations%20assistance%20at%20national%20conventions.md)
 - [&sect; 02559 - Provision of medical care to foreign military and diplomatic personnel reimbursement required; waiver for provision of reciprocal services](%C2%A7%2002559%20-%20Provision%20of%20medical%20care%20to%20foreign%20military%20and%20diplomatic%20personnel%20reimbursement%20required%3B%20waiver%20for%20provision%20of%20reciprocal%20services.md)
 - [&sect; 02560 - Aircraft and vehicles limitation on leasing to non-Federal agencies](%C2%A7%2002560%20-%20Aircraft%20and%20vehicles%20limitation%20on%20leasing%20to%20non-Federal%20agencies.md)
@@ -77,4 +77,4 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 - [&sect; 02562 - Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales&#8230;](%C2%A7%2002562%20-%20Limitation%20on%20use%20of%20excess%20construction%20or%20fire%20equipment%20from%20Department%20of%20Defense%20stocks%20in%20foreign%20assistance%20or%20military%20sales%E2%80%A6.md)
 - [&sect; 02563 - Articles and services of industrial facilities sale to persons outside the Department of Defense](%C2%A7%2002563%20-%20Articles%20and%20services%20of%20industrial%20facilities%20sale%20to%20persons%20outside%20the%20Department%20of%20Defense.md)
 - [&sect; 02564 - Provision of support for certain sporting events](%C2%A7%2002564%20-%20Provision%20of%20support%20for%20certain%20sporting%20events.md)
-- [&sect; 02555 - 1 Nuclear test monitoring equipment furnishing to foreign governments](%C2%A7%2002555%20-%201%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md)
+- [&sect; 02565 - Nuclear test monitoring equipment furnishing to foreign governments](%C2%A7%2002565%20-%20Nuclear%20test%20monitoring%20equipment%20furnishing%20to%20foreign%20governments.md)

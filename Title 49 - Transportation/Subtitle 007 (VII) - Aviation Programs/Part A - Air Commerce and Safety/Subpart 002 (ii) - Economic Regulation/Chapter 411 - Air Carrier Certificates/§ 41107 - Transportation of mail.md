@@ -1,6 +1,6 @@
 ### §41107. Transportation of mail
 
-When the United States Postal Service finds that the needs of the Postal Service require the transportation of mail by aircraft in foreign air transportation or between places in Alaska, in addition to the transportation of mail authorized under certificates in effect, the Postal Service shall certify that finding to the Secretary of Transportation with a statement about the additional transportation and facilities necessary toprovide the additional transportation. A copy of each certification and statement shall be posted for at least 20 days in the office of the Secretary. After notice and an opportunity for a hearing, the Secretary shall issue a new certificate under section 41102 of this title, or amend or modify an existing certificate under section 41110(a)(2)(A) of this title, to provide the additional transportation and facilities if the Secretary finds the additional transportation is required by the public convenience and necessity.
+When the United States Postal Service finds that the needs of the Postal Service require the transportation of mail by aircraft in foreign air transportation or between places in Alaska, in addition to the transportation of mail authorized under certificates in effect, the Postal Service shall certify that finding to the Secretary of Transportation with a statement about the additional transportation and facilities necessary to provide the additional transportation. A copy of each certification and statement shall be posted for at least 20 days in the office of the Secretary. After notice and an opportunity for a hearing, the Secretary shall issue a new certificate under section 41102 of this title, or amend or modify an existing certificate under section 41110(a)(2)(A) of this title, to provide the additional transportation and facilities if the Secretary finds the additional transportation is required by the public convenience and necessity.
 
 (Pub. L. 103–272, §§1(e), 4(k)(1), July 5, 1994, 108 Stat. 1121, 1370; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113.)
 
@@ -66,5 +66,5 @@ Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113, provided that t
 
 #### Effective Date of 1994 Amendment
 
-Section 4(k) of Pub. L. 103–272 which provided that the amendments made by that section (amending this section and sections 41901, 41902, and 41903 of this title) were effective Jan. 1, 1999, was repealed by Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113, effective Dec. 31, 1998.
+Section 4(k) of Pub. L. 103–272 which provided that the amendments made by that section (amending thissection and sections 41901, 41902, and 41903 of this title) were effective Jan. 1, 1999, was repealed by Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113, effective Dec. 31, 1998.
 

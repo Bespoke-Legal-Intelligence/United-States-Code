@@ -220,7 +220,7 @@ Subsec. (d)(1). Pub. L. 104–188, §1609(a)(2)(B), (g)(4)(B), substituted “th
 
 Subsec. (d)(2), (3). Pub. L. 104–188, §1609(a)(2)(A), (g)(2), added par. (3) relating to aviation gasoline, redesignated former par. (2), relating to leaking underground storage tank trust fund financing rate, as another par. (3), and added new par. (2) relating to aviation gasoline.
 
-<b>1993</b>—Pub. L. 103–66, §13242(a), amended section generally, substituting, in subsec. (a), provisions imposing tax on taxable fuels for provisions imposing tax on gasoline, in subsec. (b), provisions relating to treatment of removal or subsequent sale of taxable fuels by blender for provisions relating to treatment of removal or subsequent sale of gasoline by blender or compounder, in subsec. (c), provisions relating to taxable fuels mixed with alcohol for provisions relating to gasoline mixed with alcohol at refinery etc., in subsec. (d), provisions decreasing tax rate imposed on taxable fuels to 4.3cents per gallon beginning on and after Oct. 1, 1999, for provisions terminating the Highway Trust Fund financing and deficit reduction rates on and after Oct. 1, 1999, and Oct. 1, 1995, respectively, and, in subsec. (e), “taxable fuel” for “gasoline” in two places.
+<b>1993</b>—Pub. L. 103–66, §13242(a), amended section generally, substituting, in subsec. (a), provisions imposing tax on taxable fuels for provisions imposing tax on gasoline, in subsec. (b), provisions relating to treatment of removal or subsequent sale of taxable fuels by blender for provisions relating to treatment of removal or subsequent sale of gasoline by blender or compounder, in subsec. (c), provisions relating to taxable fuels mixed with alcohol for provisions relating to gasoline mixed with alcohol at refinery etc., in subsec. (d), provisions decreasing tax rate imposed on taxable fuels to 4.3 cents per gallon beginning on and after Oct. 1, 1999, for provisions terminating the Highway Trust Fund financing and deficit reduction rates on and after Oct. 1, 1999, and Oct. 1, 1995, respectively, and, in subsec. (e), “taxable fuel” for “gasoline” in two places.
 
 Subsec. (a)(2)(B)(iii). Pub. L. 103–66, §13241(a), amended cl. (iii) generally, substituting “6.8 cents per gallon” for “2.5 cents a gallon”.
 
@@ -282,7 +282,7 @@ Subsec. (d)(3). Pub. L. 101–508, §11211(a)(3), added par. (3).
 
 Subsec. (e). Pub. L. 101–508, §11212(d)(1), added subsec. (e).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1017(c)(1)(A), added pars. (1) and (2), struck out former par. (1) which imposed a tax at the rate specified in subsec. (d) on the earlier of the removal, or the sale of gasoline by the refiner or importer thereof or the terminal operator, and redesignated former par. (2) as (3).
+<b>1988</b>—Subsec. (a). Pub. L. 100–647, §1017(c)(1)(A), added pars. (1) and (2), struck out former par. (1) which imposed a tax at the rate specified in subsec. (d) on theearlier of the removal, or the sale of gasoline by the refiner or importer thereof or the terminal operator, and redesignated former par. (2) as (3).
 
 Subsec. (b)(1). Pub. L. 100–647, §1017(c)(1)(B), substituted “subsection (a)” for “subsection (d)”.
 
@@ -310,7 +310,7 @@ Subsec. (e)(1). Pub. L. 100–17, §502(a)(4), substituted “1993” for “198
 
 Subsec. (e)(2)(B). Pub. L. 100–203 substituted “net revenues are at least $500,000,000 from taxes imposed by section 4041(d) and taxes attributable to Leaking Underground Storage Tank Trust Fund financing rate imposed under this section and sections 4042 and 4091.” for “net revenues from the taxes imposed by this section (to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under subsection (d)(2)(B)), section 4041(d), and section 4042 (to the extent attributable to the Leaking Underground Storage Tank Trust Fund financing rate under section 4042(b)) are at least $500,000,000.”
 
-<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions imposing a tax on the removal or sale of gasoline by the refiner, importer, blender, orcompounder thereof or the terminal operator for provisions imposing a tax on gasoline sold by the producer or importer thereof, or by any producer of gasoline.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions imposing a tax on the removal or sale of gasoline by the refiner, importer, blender, or compounder thereof or the terminal operator for provisions imposing a tax on gasoline sold by the producer or importer thereof, or by any producer of gasoline.
 
 Subsec. (a). Pub. L. 99–499, §521(a)(1)(B)(i), substituted “at the rate specified in subsection (d)” for “of 9 cents a gallon” in par. (1) as amended by Pub. L. 99–514.
 
@@ -410,7 +410,7 @@ Section 1920(c) of Pub. L. 102–486 provided that: “The amendments made by th
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 11211(a)(1)–(3), (5)(A)–(C) of Pub. L. 101–508 applicable, except as otherwise provided,to gasoline removed (as defined in \[former\] section 4082 of this title) after Nov. 30, 1990, see section 11211(a)(6) of Pub. L. 101–508, set out as a note under section 4041 of this title.
+Amendment by section 11211(a)(1)–(3), (5)(A)–(C) of Pub. L. 101–508 applicable, except as otherwise provided, to gasoline removed (as defined in \[former\] section 4082 of this title) after Nov. 30, 1990, see section 11211(a)(6) of Pub. L. 101–508, set out as a note under section 4041 of this title.
 
 Section 11212(f) of Pub. L. 101–508 provided that:
 
@@ -474,7 +474,7 @@ Due date for deposit of taxes imposed by this section which would be required to
 
 #### Delayed Deposits of Airport Trust Fund Tax Revenues
 
-Due date for deposit of taxes imposed by subsec. (a)(2)(A)(ii) of this section which would be required to be made after July 31, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
+Due date for deposit of taxes imposed by subsec. (a)(2)(A)(ii) of this section which would be required tobe made after July 31, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
 
 #### Floor Stocks Taxes
 
@@ -814,7 +814,7 @@ Other Laws Applicable.—All provisions of law, including penalties, applicable 
 
 Section 11211(j) of Pub. L. 101–508 imposed a floor stocks tax on (A) gasoline and diesel fuel on which tax was imposed under section 4081 or 4091 of this title before Dec. 1, 1990, and which was held on such date by any person, or (B) diesel fuel on which no tax was imposed under section 4091 of this title at the Highway Trust Fund financing rate before Dec. 1, 1990, and which was held on such date by any person for use as fuel in a train.
 
-Section 1703(f) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1017(c)(13), title II, §2001(d)(4), Nov. 10, 1988, 102 Stat. 3577, 3595, imposed a floor stocks tax at the rate of 9.1 cents per gallon on gasoline subject to tax under section 4081 of this title which, on Jan. 1, 1988, was held by a dealer for sale, and with respect to which no tax had been imposed under such section.
+Section 1703(f) of Pub. L. 99–514, as amended by Pub. L. 100–647, title I, §1017(c)(13), title II, §2001(d)(4), Nov.10, 1988, 102 Stat. 3577, 3595, imposed a floor stocks tax at the rate of 9.1 cents per gallon on gasoline subject to tax under section 4081 of this title which, on Jan. 1, 1988, was held by a dealer for sale, and with respect to which no tax had been imposed under such section.
 
 #### Study of Evasion of Gasoline Tax
 

@@ -212,7 +212,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k) of this secti
 
 #### (C) Determination of amount of attorneys’ fees
 
-&emsp;&emsp;Fees awarded under this paragraph shall be based on rates prevailing in the community in which the action or proceeding arose for the kind and quality of services furnished. No bonus or multiplier may be used in calculating the fees awarded under this subsection.
+&emsp;&emsp;Fees awarded under this paragraph shall be based on rates prevailing in the community in which the action or proceeding arosefor the kind and quality of services furnished. No bonus or multiplier may be used in calculating the fees awarded under this subsection.
 
 #### (D) Prohibition of attorneys’ fees and related costs for certain services
 
@@ -246,7 +246,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k) of this secti
 
 #### (G) Exception to reduction in amount of attorneys’ fees
 
-&emsp;&emsp;The provisions of subparagraph (F) shall not apply in any action or proceeding if thecourt finds that the State or local educational agency unreasonably protracted the final resolution of the action or proceeding or there was a violation of this section.
+&emsp;&emsp;The provisions of subparagraph (F) shall not apply in any action or proceeding if the court finds that the State or local educational agency unreasonably protracted the final resolution of the action or proceeding or there was a violation of this section.
 
 #### (j) Maintenance of current educational placement
 
@@ -450,7 +450,7 @@ Nothing in this chapter shall be construed to restrict or limit the rights, proc
 
 #### (2) Special rule
 
-&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures forappointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
+&emsp;If, under State law, a child with a disability who has reached the age of majority under State law, who has not been determined to be incompetent, but who is determined not to have the ability to provide informed consent with respect to the educational program of the child, the State shall establish procedures for appointing the parent of the child, or if the parent is not available, another appropriate individual, to represent the educational interests of the child throughout the period of eligibility of the child under this subchapter.
 
 (Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 88; amended Pub. L. 106–25, §6(a), Apr. 29, 1999, 113 Stat. 49.)
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The taxes imposed by this subtitle shall be collected by the Secretary and shall be paid intothe Treasury of the United States as internal-revenue collections.
+The taxes imposed by this subtitle shall be collected by the Secretary and shall be paid into the Treasury of the United States as internal-revenue collections.
 
 #### (b) Taxes with respect to non-cash fringe benefits
 

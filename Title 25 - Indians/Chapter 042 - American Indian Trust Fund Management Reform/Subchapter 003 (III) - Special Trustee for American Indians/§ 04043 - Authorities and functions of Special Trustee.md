@@ -202,7 +202,7 @@ Hearings and sessions.—The Commission may, for the purpose of carrying out thi
 
 &emsp;“(2)
 
-Staff of federal agencies.—Upon request of the Commission, the head of any Federal departmentor agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this section.
+Staff of federal agencies.—Upon request of the Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this section.
 
 &emsp;“(3)
 

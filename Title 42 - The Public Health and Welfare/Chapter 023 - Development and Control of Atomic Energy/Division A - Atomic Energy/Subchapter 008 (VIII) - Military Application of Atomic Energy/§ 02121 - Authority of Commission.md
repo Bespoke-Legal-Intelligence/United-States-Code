@@ -16,7 +16,7 @@ The Commission is authorized to—
 
 #### (b) Material for Department of Defense use
 
-The President from time to time may direct the Commission (1) to deliver such quantities of special nuclear material or atomic weapons to the Department of Defense for such use as he deems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
+The President from time to time may direct the Commission (1) to deliver such quantities of special nuclear material or atomic weapons to the Department of Defense for such use as hedeems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
 
 #### (c) Sale, lease, or loan to other Nations of materials for military applications
 
@@ -140,7 +140,7 @@ Report.—Not later than March 1, 2000, the Secretary of Energy shall submit to 
 
 #### Panel To Assess the Reliability, Safety, and Security of the United States Nuclear Stockpile
 
-Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
+Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. C, title XXXI, §3156, Dec. 28, 2001, 115 Stat. 1379, provided that:
 
 “(a)
 
@@ -164,7 +164,7 @@ Duties of Panel.—Each year the panel shall review and assess the following:
 
 “(d)
 
-Report.—Not later than October 1 of each year, beginning with 1999, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report setting forth its findings and conclusions resulting from the review and assessment carried out for the year covered by the report. The report shall be submitted in classified and unclassified form.
+Report.—Not later than October 1 of 1999 and 2000, and not later than February 1, 2002, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report setting forth its findings and conclusions resulting from the review and assessment carried out for the year covered by the report. The report shall be submitted in classified and unclassified form.
 
 “(e)
 
@@ -264,7 +264,7 @@ Pub. L. 104–106, div. C, title XXXI, §3133, Feb. 10, 1996, 110 Stat. 618, pro
 
 Establishment of Program.—The Secretary of Energy shall establish a tritium production program that is capable of meeting the tritium requirements of the United States for nuclear weapons. In carrying out the tritium production program, the Secretary shall—
 
-&emsp;“(1) complete the tritium supply and recycling environmental impact statement in preparation by the Secretary as of the date of the enactment of this Act \[Feb. 10, 1996\]; and
+&emsp;“(1) complete the tritium supply and recycling environmental impact statement in preparation by theSecretary as of the date of the enactment of this Act \[Feb. 10, 1996\]; and
 
 &emsp;“(2) assess alternative means for tritium production, including production through—
 
@@ -302,7 +302,7 @@ Report.—Not later than 45 days after the date of the enactment of this Act \[F
 
 &emsp;“(2) the amount of funds required to be expended by the Department, and the program milestones (including feasibility demonstrations) required to be met, during fiscal years 1997 through 2001 to ensure tritium production beginning not later than 2005 that is adequate to meet the tritium requirements of the United States for nuclear weapons; and
 
-&emsp;“(3) the amount of such funds to be expended and such program milestones to be met during such fiscalyears to ensure such tritium production beginning not later than 2011.
+&emsp;“(3) the amount of such funds to be expended and such program milestones to be met during such fiscal years to ensure such tritium production beginning not later than 2011.
 
 “(f)
 
@@ -424,7 +424,7 @@ Report.—Not later than February 15, 1996, the Secretary of Energy shall submit
 
 “(b)
 
-Biennial Update Report.—(1) Not later than February 15 of each odd-numbered year, the Secretaryshall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an update of the report required under subsection (a), as updated by any report previously submitted under this paragraph.
+Biennial Update Report.—(1) Not later than February 15 of each odd-numbered year, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an update of the report required under subsection (a), as updated by any report previously submitted under this paragraph.
 
 “(2) Each report under paragraph (1) shall include, as of the date of such report, the following:
 
@@ -480,7 +480,7 @@ United States Policy.—It shall be the policy of the United States not to condu
 
 “(b)
 
-Limitation.—The Secretary of Energy may not conduct, or provide for the conduct of, research and development which could lead to the production by the United States of a low-yield nuclear weapon which, as of the date of the enactment of this Act \[Nov. 30, 1993\], has not entered production.
+Limitation.—The Secretary of Energy may not conduct, or provide for the conduct of, research and development which could lead to the production by the United States of a low-yield nuclear weapon which, asof the date of the enactment of this Act \[Nov. 30, 1993\], has not entered production.
 
 “(c)
 
@@ -614,7 +614,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
 
 &emsp;“(ii) within the 60-day period beginning on the date that Congress receives the certification, Congress does not agree to a joint resolution described in subparagraph (B).
 
-“(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weaponcovered by the certification of the President dated          .’ (the blank space being appropriately filled in).
+“(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weapon covered by the certification of the President dated          .’ (the blank space being appropriately filled in).
 
 “(3) The President may authorize the United Kingdom to conduct in the United States, within a period covered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States is permitted to conduct during that period under paragraph (1)(B).
 
@@ -662,7 +662,7 @@ Purposes of Program.—The purposes of the program under subsection (b) shall be
 
 “(d)
 
-Conduct of Program.—The Secretary of Energy shall carry out the program provided for in subsection (b). The program shall be carried out with the participation of representatives of the Department of Defense, the nuclear weapons production facilities, and the national nuclear weapons laboratories.”
+Conduct of Program.—The Secretary of Energy shall carry out the program provided for in subsection (b). The program shall be carried out with the participation of representatives of the Department of Defense,the nuclear weapons production facilities, and the national nuclear weapons laboratories.”
 
 #### Section Referred to in Other Sections
 

@@ -46,5 +46,5 @@ Substantially identical provisions were contained in Pub. L. 106–377, §1(a)(2
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 50 sections 2402, 2403.
+This section is referred to in title 50 sections 2402, 2410.
 

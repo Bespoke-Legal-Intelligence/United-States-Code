@@ -14,7 +14,7 @@ The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate
 
 #### (c) Determination and prioritization of construction and renovation needs
 
-(1) The Secretary shall enter into a contract with an organization described in paragraph (2) to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\].
+(1) The Secretary shall enter into a contract with an organization described in paragraph (2)to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\].
 
 (2) An organization described in this section is any organization that—
 

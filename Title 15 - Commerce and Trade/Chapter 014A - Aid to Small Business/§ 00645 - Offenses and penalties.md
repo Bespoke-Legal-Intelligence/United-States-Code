@@ -42,7 +42,7 @@ Any representation of the status of any concern or person as a “small business
 
 Whoever falsely certifies past compliance with the requirements of section 636(j)(10)(I) of this title shall be subject to the penalties prescribed in subsection (d) of this section.
 
-(Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376; Pub. L. 105–85, div. A, title X, §1073(g)(4), Nov. 18, 1997, 111 Stat. 1906;Pub. L. 105–135, title VI, §603(c), Dec. 2, 1997, 111 Stat. 2632.)
+(Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376; Pub. L. 105–85, div. A, title X, §1073(g)(4), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, §603(c), Dec. 2, 1997, 111 Stat. 2632.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 636, 637, 657a, 687 of this title.
+This section is referred to in sections 636, 637, 657a, 687 of this title; title 12 section 1833a.
 
 <i><sup>1</sup></i><i> So in original. Following provision probably should be set flush with par. (1).</i>
 

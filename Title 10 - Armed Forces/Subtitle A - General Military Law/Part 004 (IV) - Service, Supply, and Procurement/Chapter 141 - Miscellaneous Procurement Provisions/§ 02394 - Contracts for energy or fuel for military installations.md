@@ -4,7 +4,7 @@
 
 &emsp;(1) under section 2689 of this title; and
 
-&emsp;(2) for the provision and operation of energy production facilities on real property under the Secretary's jurisdiction or on private property and the purchase of energy produced from such facilities.
+&emsp;(2) for the provision and operation of energy production facilities on real property underthe Secretary's jurisdiction or on private property and the purchase of energy produced from such facilities.
 
 (b) A contract may be made under subsection (a) only after the approval of the proposed contract by the Secretary of Defense.
 

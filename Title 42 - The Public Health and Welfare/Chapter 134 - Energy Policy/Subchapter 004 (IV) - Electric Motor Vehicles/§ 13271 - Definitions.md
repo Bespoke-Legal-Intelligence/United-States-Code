@@ -4,7 +4,7 @@ For the purposes of this subchapter—
 
 &emsp;(1) the term “antitrust laws” means the Acts set forth in section 12 of title 15;
 
-&emsp;(2) the term “associated equipment” means equipment necessary for the regeneration, refueling, or recharging of batteries or other forms of electric energy used to power an electric motor vehicle and, in the case of electric-hybrid vehicles, such term includes nonpetroleum-related equipment necessary for, and solely related to, the demonstration of such vehicles;
+&emsp;(2) the term “associated equipment” means equipment necessary for the regeneration, refueling, or recharging of batteries or otherforms of electric energy used to power an electric motor vehicle and, in the case of electric-hybrid vehicles, such term includes nonpetroleum-related equipment necessary for, and solely related to, the demonstration of such vehicles;
 
 &emsp;(3) the term “discount payment” means the amount determined pursuant to section 13283 of this title;
 

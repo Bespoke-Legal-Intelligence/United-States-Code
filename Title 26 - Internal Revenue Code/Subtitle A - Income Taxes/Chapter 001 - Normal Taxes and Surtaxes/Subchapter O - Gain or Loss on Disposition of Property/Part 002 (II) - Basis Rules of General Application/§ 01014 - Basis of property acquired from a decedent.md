@@ -20,7 +20,7 @@ For purposes of subsection (a), the following property shall be considered to ha
 
 &emsp;(2) Property transferred by the decedent during his lifetime in trust to pay the income for life to or on the order or direction of the decedent, with the right reserved to the decedent at all times before his death to revoke the trust;
 
-&emsp;(3) In the case of decedents dying after December 31, 1951, property transferred by the decedent during his lifetime in trust to pay the income for life to or on the order or direction of the decedent with the right reserved to the decedent at all times before his death to makeany change in the enjoyment thereof through the exercise of a power to alter, amend, or terminate the trust;
+&emsp;(3) In the case of decedents dying after December 31, 1951, property transferred by the decedent during his lifetime in trust to pay the income for life to or on the order or direction of the decedent with the right reserved to the decedent at all times before his death to make any change in the enjoyment thereof through the exercise of a power to alter, amend, or terminate the trust;
 
 &emsp;(4) Property passing without full and adequate consideration under a general power of appointment exercised by the decedent by will;
 
@@ -68,13 +68,21 @@ If stock owned by a decedent in a DISC or former DISC (as defined in section 992
 
 #### (A) Appreciated property
 
-&emsp;&emsp;The term “appreciated property” means any property if the fair market value of suchproperty on the day it was transferred to the decedent by gift exceeds its adjusted basis.
+&emsp;&emsp;The term “appreciated property” means any property if the fair market value of such property on the day it was transferred to the decedent by gift exceeds its adjusted basis.
 
 #### (B) Treatment of certain property sold by estate
 
 &emsp;&emsp;In the case of any appreciated property described in subparagraph (A) of paragraph (1) sold by the estate of the decedent or by a trust of which the decedent was the grantor, rules similar to the rules of paragraph (1) shall apply to the extent the donor of such property (or the spouse of such donor) is entitled to the proceeds from such sale.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 85–320, §2, Feb. 11, 1958, 72 Stat. 5; Pub. L. 92–178, title V, §502(f), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §1901(c)(8), title XX, §2005(a)(1), Oct. 4, 1976, 90 Stat. 1803, 1872; Pub. L. 95–600, title V, §515(1), title VII, §702(c)(1)(A), Nov. 6, 1978, 92 Stat. 2884, 2926; Pub. L. 96–222, title I, §107(a)(2)(A), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title IV, §425(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(a)(1)(A), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 105–34, title V, §508(b), Aug. 5, 1997, 111 Stat. 860.)
+#### (f) Termination
+
+This section shall not apply with respect to decedents dying after December 31, 2009.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 85–320, §2, Feb. 11, 1958, 72 Stat. 5; Pub. L. 92–178, title V, §502(f), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §1901(c)(8), title XX, §2005(a)(1), Oct. 4, 1976, 90 Stat. 1803, 1872; Pub. L. 95–600, title V, §515(1), title VII, §702(c)(1)(A), Nov. 6, 1978, 92 Stat. 2884, 2926; Pub. L. 96–222, title I, §107(a)(2)(A), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title IV, §425(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(a)(1)(A), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 105–34, title V, §508(b), Aug. 5, 1997, 111 Stat. 860; Pub. L. 107–16, title V, §541, June 7, 2001, 115 Stat. 76.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Termination Date of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -87,6 +95,8 @@ Revenue Act of 1948, referred to in subsec. (b)(7), is act Apr. 2, 1948, ch. 168
 The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (f). Pub. L. 107–16, §§541, 901, temporarily added subsec. (f). See Termination Date of 2001 Amendment note below.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–34 struck out “or” at end of pars. (1) and (2), struck out the period at end of par. (3) and inserted “, or”, and added par. (4).
 
@@ -104,11 +114,15 @@ Subsec. (d). Pub. L. 95–600, §515(1), substituted “December 31, 1979” for
 
 <b>1976</b>—Subsec. (b)(6), (7). Pub. L. 94–455, §1901(c)(8), struck out “Territory,” after “under the community property laws of any State,”.
 
-Subsec. (d). Pub. L. 94–455, §2005(a)(1), substituted provision relating to the applicability of this section to decedents dying after 1976 for provision relating to a special rule with respect to DISC stock. See Repeals note below.
+Subsec. (d). Pub. L. 94–455, §2005(a)(1), substituted provision relating to the applicability of this section todecedents dying after 1976 for provision relating to a special rule with respect to DISC stock. See Repeals note below.
 
 <b>1971</b>—Subsec. (d). Pub. L. 92–178 added subsec. (d).
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–320 repealed subsec. (d) which made section inapplicable to restricted stock options described in section 421 which the employee has not exercised at death.
+
+#### Termination Date of 2001 Amendment
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -144,7 +158,7 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–320 applicable with respect to taxable years ending after Dec. 31, 1956, but only inthe case of employees dying after such date, see section 3 of Pub. L. 85–320, set out as a note under section 421 of this title.
+Amendment by Pub. L. 85–320 applicable with respect to taxable years ending after Dec. 31, 1956, but only in the case of employees dying after such date, see section 3 of Pub. L. 85–320, set out as a note under section 421 of this title.
 
 #### Repeals
 

@@ -2,11 +2,11 @@
 
 (a)
 
-General Penalty.—A person knowingly and willfully violating section 60114(c),<sup>1</sup> 60118(a),or 60128 of this title or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.
+General Penalty.—A person knowingly and willfully violating section 60114(c),<sup>1</sup> 60118(a), or 60128 of this title or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
 (b)
 
-Penalty for Damaging or Destroying Facility.—A person knowingly and willfully damaging or destroying, or attempting to damage or destroy, an interstate gas pipeline facility or interstate hazardous liquid pipeline facility shall be fined under title 18, imprisoned for not more than 15 years, or both.
+Penalty for Damaging or Destroying Facility.—A person knowingly and willfully damaging or destroying an interstate gas pipeline facility or interstate hazardous liquid pipeline facility, or attempting or conspiring to do such an act, shall be fined under title 18, imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
 
 (c)
 
@@ -30,7 +30,7 @@ Penalty for Not Using One-Call Notification System or Not Heeding Location Infor
 
 &emsp;&emsp;(C) a hazardous liquid pipeline facility that results in the release of more than 50 barrels of product.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 104–304, §§14, 18(b)(1), Oct. 12, 1996, 110 Stat. 3803, 3804.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 104–304, §§14, 18(b)(1), Oct. 12, 1996, 110 Stat. 3803, 3804; Pub. L. 107–56, title VIII, §§810(h), 811(k), Oct. 26, 2001, 115 Stat. 381, 382.)
 
 Historical and Revision Notes
 
@@ -96,13 +96,15 @@ Section 60114(c) of this title, referred to in subsec. (a), was redesignated sec
 
 #### Amendments
 
+2001—Subsec. (b). Pub. L. 107–56 struck out “, or attempting to damage or destroy,” before “an interstate gas pipeline facility”, inserted “, or attempting or conspiring to do such an act,” before “shall be fined under title 18,” and substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
+
 1996—Subsec. (a). Pub. L. 104–304, §18(b)(1), substituted “, 60118(a), or 60128” for “or 60118(a)”.
 
 Subsec. (d)(2). Pub. L. 104–304, §14, added subpar. (B) and redesignated former subpar. (B) as (C).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 60108 of this title; title 18 sections 2332b, 2516.
+This section is referred to in section 60108 of this title; title 18 sections 2332b, 2339A, 2516.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

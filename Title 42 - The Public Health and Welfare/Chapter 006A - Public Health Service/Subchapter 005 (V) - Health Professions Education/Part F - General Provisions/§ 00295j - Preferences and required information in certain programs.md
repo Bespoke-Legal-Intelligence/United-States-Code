@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 105–392, §§106(a)(2)(B)(ii), 107(a), added subsec. (c) 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 102–408, see section 313(c) of Pub. L. 102–531, set out as a note under section 292y of this title.
+Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 102–408, see section 313(c) ofPub. L. 102–531, set out as a note under section 292y of this title.
 
 #### Required Assurances Regarding Bloodborne Diseases
 

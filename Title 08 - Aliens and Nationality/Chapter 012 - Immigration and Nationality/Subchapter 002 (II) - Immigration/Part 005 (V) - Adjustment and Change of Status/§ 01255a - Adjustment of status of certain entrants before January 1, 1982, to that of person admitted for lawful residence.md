@@ -12,7 +12,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Application within 30 days of show-cause order
 
-&emsp;&emsp;An alien who, at any time during the first 11 months of the 12-month period described in subparagraph (A), is the subject of an order to show cause issued under section 1252 of this title (as in effect before October 1, 1996), must make application under this section not later than the end of the 30-day period beginning either on the first day of such 12-month period or on the date of the issuance of such order, whichever day is later.
+&emsp;&emsp;An alien who, at any time during the first 11 months of the 12-month period described in subparagraph (A), is the subject of an order to show cause issued under section 1252of this title (as in effect before October 1, 1996), must make application under this section not later than the end of the 30-day period beginning either on the first day of such 12-month period or on the date of the issuance of such order, whichever day is later.
 
 #### (C) Information included in application
 
@@ -192,7 +192,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (6) Penalties for false statements in applications
 
-&emsp;Whoever files an application for adjustment of status under this section and knowingly andwillfully falsifies, misrepresents, conceals, or covers up a material fact or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined in accordance with title 18 or imprisoned not more than five years, or both.
+&emsp;Whoever files an application for adjustment of status under this section and knowingly and willfully falsifies, misrepresents, conceals, or covers up a material fact or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined in accordance with title 18 or imprisoned not more than five years, or both.
 
 #### (7) Application fees
 
@@ -234,7 +234,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;&emsp;&emsp;(I) Paragraphs (2)(A) and (2)(B) (relating to criminals).
 
-&emsp;&emsp;&emsp;&emsp;(II) Paragraph (2)(C) (relating to drug offenses), except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
+&emsp;&emsp;&emsp;&emsp;(II) Paragraph (2)(C) (relating to drug offenses), except for so much of suchparagraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
 
 &emsp;&emsp;&emsp;&emsp;(III) Paragraph (3) (relating to security and related grounds).
 
@@ -262,7 +262,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (2) During application period
 
-&emsp;The Attorney General shall provide that in the case of an alien who presents a prima facieapplication for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
+&emsp;The Attorney General shall provide that in the case of an alien who presents a prima facie application for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
 
 &emsp;&emsp;(A) may not be deported, and
 
@@ -420,7 +420,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;(H) The Public Health Service Act \[42 U.S.C. 201 et seq.\].
 
-&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D,and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
+&emsp;&emsp;(I) Titles V, XVI, and XX \[42 U.S.C. 701 et seq., 1381 et seq., 1397 et seq.\], and parts B, D, and E of title IV \[42 U.S.C. 620 et seq., 651 et seq., 670 et seq.\], of the Social Security Act (and titles I, X, XIV, and XVI of such Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\] as in effect without regard to the amendment made by section 301 of the Social Security Amendments of 1972).
 
 #### (5) Adjustment not affecting Fascell-Stone benefits
 
@@ -446,7 +446,7 @@ Section 404 of the Immigration Reform and Control Act of 1986, referred to in su
 
 Section 1105a of this title, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 104–208, div. C, title III, §306(b), Sept. 30, 1996, 110 Stat. 3009–612.
 
-The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (B)(i), (C), (4)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A, B, D, and E of title IV of the Social Security Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), D (§651 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles I, V, X, XIV, XVI, XIX, and XX of the Social Security Act are classified generally to subchapters I (§301 et seq.), V (§701 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (B)(i), (C), (4)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A, B, D, and E of title IV of the Social Security Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), D (§651 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The PublicHealth and Welfare. Titles I, V, X, XIV, XVI, XIX, and XX of the Social Security Act are classified generally to subchapters I (§301 et seq.), V (§701 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 301 of the Social Security Amendments of 1972, referred to in subsec. (h)(4)(I), is section 301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of Title 42.
 
@@ -458,7 +458,7 @@ The Child Nutrition Act of 1966, referred to in subsec. (h)(4)(B), is Pub. L. 89
 
 The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (h)(4)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Headstart-Follow Through Act, referred to in subsec. (h)(4)(E), is title V of Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 527, as amended, which was classified generally to subchapter V (§2921 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
@@ -544,7 +544,7 @@ Subsec. (c)(1). Pub. L. 100–525, §2(h)(1)(C), amended closing provisions gene
 
 Subsec. (c)(5). Pub. L. 100–525, §2(h)(1)(D)(ii), substituted semicolon for period at end of first sentence and inserted “except that the Attorney General may provide, in the Attorney General's discretion, for the furnishing of information furnished under this section in the same manner and circumstances as census information may be disclosed by the Secretary of Commerce under section 8 of title 13.”
 
-Subsec. (c)(5)(A). Pub. L. 100–525, §2(h)(1)(D)(i), inserted “or for the preparation of reports to Congressunder section 404 of the Immigration Reform and Control Act of 1986” after “paragraph (6)”.
+Subsec. (c)(5)(A). Pub. L. 100–525, §2(h)(1)(D)(i), inserted “or for the preparation of reports to Congress under section 404 of the Immigration Reform and Control Act of 1986” after “paragraph (6)”.
 
 Subsec. (d)(2)(B)(ii). Pub. L. 100–525, §2(h)(1)(E)(ii), inserted at end “Subclause (II) (prohibiting the waiver of section 1182(a)(15) of this title) shall not apply to an alien who is or was an aged, blind, or disabled individual (as defined in section 1614(a)(1) of the Social Security Act).”
 
@@ -594,7 +594,7 @@ Section 109 of Pub. L. 103–416 provided that: “Not later than June 30, 1996,
 
 #### Family Unity
 
-Section 301 of Pub. L. 101–649, as amended by Pub. L. 101–649, title VI, §603(a)(23), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 103–416, title II, §206(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title III, §§308(d)(4)(R), (e)(2)(H), (16), (g)(1), (7)(E)(ii), 383(a), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–622, 3009–624, 3009–652, provided that:
+Section 301 of Pub. L. 101–649, as amended by Pub. L. 101–649, title VI, §603(a)(23), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 103–416, title II, §206(a), Oct. 25, 1994, 108 Stat.4311; Pub. L. 104–208, div. C, title III, §§308(d)(4)(R), (e)(2)(H), (16), (g)(1), (7)(E)(ii), 383(a), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–622, 3009–624, 3009–652, provided that:
 
 “(a)
 
@@ -684,7 +684,7 @@ Similar provisions were contained in Pub. L. 100–202, §101(a) \[title IX, §�
 
 #### Procedures for Property Acquisition or Leasing
 
-Section 201(c)(1) of Pub. L. 99–603 provided that notwithstanding Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
+Section 201(c)(1) of Pub. L. 99–603 provided that notwithstanding Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Attorney General was authorized for period of up to two yearsafter effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
 
 #### Use of Retired Federal Employees
 
@@ -700,7 +700,7 @@ Section 204 of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(k), Oct. 2
 
 #### Application of Certain State Assistance Provisions
 
-Section 303(c) of Pub. L. 99–603, defined “eligible legalized alien” relative to State legalization assistance,prior to repeal by Pub. L. 100–525, §2(n)(3), Oct. 24, 1988, 102 Stat. 2613.
+Section 303(c) of Pub. L. 99–603, defined “eligible legalized alien” relative to State legalization assistance, prior to repeal by Pub. L. 100–525, §2(n)(3), Oct. 24, 1988, 102 Stat. 2613.
 
 #### Reports on Legalization Program
 

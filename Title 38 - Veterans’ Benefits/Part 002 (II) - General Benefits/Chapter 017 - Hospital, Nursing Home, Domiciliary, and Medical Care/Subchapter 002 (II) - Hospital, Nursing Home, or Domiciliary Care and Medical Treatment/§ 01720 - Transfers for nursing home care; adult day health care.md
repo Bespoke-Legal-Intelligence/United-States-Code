@@ -62,7 +62,7 @@
 
 (f)(1)(A) The Secretary may furnish adult day health care services to a veteran enrolled under section 1705(a) of this title who would otherwise require nursing home care.
 
-(B) The Secretary may provide in-kind assistance (through the services of Department employees and the sharing of other Department resources) to a facility furnishing care to veterans under subparagraph (A) of this paragraph. Anysuch in-kind assistance shall be provided under a contract between the Secretary and the facility concerned. The Secretary may provide such assistance only for use solely in the furnishing of adult day health care and only if, under such contract, the Department receives reimbursement for the full cost of such assistance, including the cost of services and supplies and normal depreciation and amortization of equipment. Such reimbursement may be made by reduction in the charges to the United States or by payment to the United States. Any funds received through such reimbursement shall be credited to funds allotted to the Department facility that provided the assistance.
+(B) The Secretary may provide in-kind assistance (through the services of Department employees and the sharing of other Department resources) to a facility furnishing care to veterans under subparagraph (A) of this paragraph. Any such in-kind assistance shall be provided under a contract between the Secretary and the facility concerned. The Secretary may provide such assistance only for use solely in the furnishing of adult day health care and only if, under such contract, the Department receives reimbursement for the full cost of such assistance, including the cost of services and supplies and normal depreciation and amortization of equipment. Such reimbursement may be made by reduction in the charges to the United States or by payment to the United States. Any funds received through such reimbursement shall be credited to funds allotted to the Department facility that provided the assistance.
 
 (2) The Secretary may conduct, at facilities over which the Secretary has direct jurisdiction, programs for the furnishing of adult day health care to veterans who are eligible for such care under paragraph (1) of this subsection, except that necessary travel and incidental expenses (or transportation in lieu thereof) may be furnished under such a program only under the terms and conditions set forth in section 111 of this title. The furnishing of care under any such program shall be subject to the limitations that are applicable to the duration of adult day health care furnished under paragraph (1) of this subsection.
 
@@ -128,7 +128,7 @@ Subsec. (f)(3). Pub. L. 100–322, §111(a), substituted “September 30, 1991�
 
 1986—Subsec. (f)(1)(A)(ii). Pub. L. 99–272 substituted “612(a)(1)(B)” for “612(f)(2)”.
 
-1985—Subsec. (a). Pub. L. 99–166, §108(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) and except as provided in subsection (e) of this section, the Administrator may transfer—
+1985—Subsec. (a). Pub. L. 99–166, §108(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) readas follows: “Subject to subsection (b) and except as provided in subsection (e) of this section, the Administrator may transfer—
 
 &emsp;“(1) Any veteran who has been furnished care by the Administrator in a hospital under the direct jurisdiction of the Administrator, and
 

@@ -47,11 +47,9 @@
 | [2214\.](%C2%A7%2002214%20-%20Public%20safety%20awards.md) | Public safety awards. |
 | (a) | Establishment. |
 | (b) | Description. |
-| (c) | Selection. |
-| (d) | Limitation on number of awards. |
-| (e) | Award. |
-| (f) | Regulations. |
-| (g) | “Public safety officer” defined. |
+| (c) | Award. |
+| (d) | Regulations. |
+| (e) | “Public safety officer” defined. |
 | [2215\.](%C2%A7%2002215%20-%20Reports%20to%20Congress%20and%20President.md) | Reports to Congress and President. |
 | [2216\.](%C2%A7%2002216%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [2217\.](%C2%A7%2002217%20-%20Public%20access%20to%20information.md) | Public access to information. |

@@ -16,7 +16,7 @@
 
 (2) For purposes of paragraph (1), the term “supplementary or special plan provision” means any plan provision which—
 
-&emsp;(A) provides supplementary benefits, not in excess of one-third of the basic benefit, in the form of any annuity for the life of the participant, or
+&emsp;(A) provides supplementary benefits, not in excess of one-third of the basic benefit, in the form of an annuity for the life of the participant, or
 
 &emsp;(B) provides that, under a contractual agreement based on medical evidence as to the effects of working in an adverse environment for an extended period of time, a participant having 25 years of service is to be treated as having 30 years of service.
 
@@ -24,13 +24,13 @@
 
 (d) If the administrator of a plan elects under section 1017(d) of this Act to make applicable to a plan year and to all subsequent plan years the provisions of the Internal Revenue Code of 1986 relating to participation, vesting, funding, and form of benefit, this part shall apply to the first plan year to which such election applies and to all subsequent plan years.
 
-(e)(1) No pension plan to which section 1052 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1052 of this title first becomes effective with respect to such plan) which provides that any employee's participation in the plan would commence to any date later than the later of—
+(e)(1) No pension plan to which section 1052 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1052 of this title first becomes effective with respect to such plan) which provides that any employee's participation in the plan would commence at any date later than the later of—
 
 &emsp;(A) the date on which his participation would commence under the break in service rules of section 1052(b) of this title, or
 
 &emsp;(B) the date on which his participation would commence under the plan as in effect on January 1, 1974.
 
-(2) No pension plan to which section 1053 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1053 of this title first becomes effective with respect to such plan) if such amendment provides that the nonforfeitable benefit derived from employer contributions to whichany employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
+(2) No pension plan to which section 1053 of this title applies may make effective any plan amendment with respect to breaks in service (which amendment is made or becomes effective after January 1, 1974, and before the date on which section 1053 of this title first becomes effective with respect to such plan) if such amendment provides that the nonforfeitable benefit derived from employer contributions to which any employee would be entitled is less than the lesser of the nonforfeitable benefit derived from employer contributions to which he would be entitled under—
 
 &emsp;(A) the break in service rules of section 1052(b)(3) of this title, or
 
@@ -46,7 +46,7 @@
 
 Section 1086(c) of this title, referred to in subsec. (c)(1), was in the original “section 307(c)”, meaning section 307(c) of Pub. L. 93–406, the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by Pub. L. 100–203, title IX, §9341(b)(1), Dec. 22, 1987, 101 Stat. 1330–370.
 
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 93–406, known asthe Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (c)(1) and (d), is classified generally to Title 26, Internal Revenue Code.
 

@@ -28,7 +28,7 @@ Memorandum of President of the United States, Aug. 21, 2000, 65 F.R. 52289, prov
 
 Memorandum for the Secretary of State
 
-By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to you the functions vested in me by section 646 of the ORBIT Act (Public Law 106–180) \[probablymeans section 646 of Pub. L. 87–624, as added by Pub. L. 106–180, 47 U.S.C. 765e\], relating to submission of annual reports to the appropriate congressional committees regarding the privatization of intergovernmental satellite organizations. The authority delegated by the memorandum may be further redelegated within the Department of State.
+By the authority vested in me by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to you the functions vested in me by section 646 of the ORBIT Act (Public Law 106–180) \[probably means section 646 of Pub. L. 87–624, as added by Pub. L. 106–180, 47 U.S.C. 765e\], relating to submission of annual reports to the appropriate congressional committees regarding the privatization of intergovernmental satellite organizations. The authority delegated by the memorandum may be further redelegated within the Department of State.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

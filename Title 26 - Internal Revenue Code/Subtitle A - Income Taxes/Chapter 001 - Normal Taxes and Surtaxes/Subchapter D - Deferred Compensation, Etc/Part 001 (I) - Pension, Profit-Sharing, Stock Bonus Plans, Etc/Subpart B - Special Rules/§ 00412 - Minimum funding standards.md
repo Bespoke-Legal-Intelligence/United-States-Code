@@ -8,7 +8,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 &emsp;(2) such plan satisfied (or was determined by the Secretary to have satisfied) the requirements of section 403(a).
 
-> A plan to which this section applies shall have satisfied the minimum funding standard forsuch plan for a plan year if as of the end of such plan year, the plan does not have an accumulated funding deficiency. For purposes of this section and section 4971, the term “accumulated funding deficiency” means for any plan the excess of the total charges to the funding standard account for all plan years (beginning with the first plan year to which this section applies) over the total credits to such account for such years or, if less, the excess of the total charges to the alternative minimum funding standard account for such plan years over the total credits to such account for such years. In any plan year in which a multiemployer plan is in reorganization, the accumulated funding deficiency of the plan shall be determined under section 418B.
+> A plan to which this section applies shall have satisfied the minimum funding standard for such plan for a plan year if as of the end of such plan year, the plan does not have an accumulated funding deficiency. For purposes of this section and section 4971, the term “accumulated funding deficiency” means for any plan the excess of the total charges to the funding standard account for all plan years (beginning with the first plan year to which this section applies) over the total credits to such account for such years or, if less, the excess of the total charges to the alternative minimum funding standard account for such plan years over the total credits to such account for such years. In any plan year in which a multiemployer plan is in reorganization, the accumulated funding deficiency of the plan shall be determined under section 418B.
 
 #### (b) Funding standard account
 
@@ -190,7 +190,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 #### (A) In general
 
-&emsp;&emsp;If the funding method for a plan is changed, the new funding method shall become the funding method used to determine costs and liabilities under the plan only if the change is approved by the Secretary. If the plan year for a plan is changed, the new plan year shall become the plan year for the plan only if the change is approved by the Secretary.
+&emsp;&emsp;If the funding method for a plan is changed, the new funding method shall become the funding method used to determine costs and liabilities under the plan only if the change is approved by the Secretary. If the plan year for a plan is changed, the newplan year shall become the plan year for the plan only if the change is approved by the Secretary.
 
 #### (B) Approval required for certain changes in assumptions by certain single-employer plans subject to additional funding requirement
 
@@ -204,7 +204,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan is a defined benefit plan (other than a multiemployer plan) to which title IV of the Employee Retirement Income Security Act of 1974 applies;
 
-&emsp;&emsp;&emsp;&emsp;(II) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlledgroups (as defined in section 4001(a)(14) of such Act) which are covered by title IV of such Act (disregarding plans with no unfunded vested benefits) exceed $50,000,000; and
+&emsp;&emsp;&emsp;&emsp;(II) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 4006(a)(3)(E)(iii) of the Employee Retirement Income Security Act of 1974) of such plan and all other plans maintained by the contributing sponsors (as defined in section 4001(a)(13) of such Act) and members of such sponsors’ controlled groups (as defined in section 4001(a)(14) of such Act) which are covered by title IV of such Act (disregarding plans with no unfunded vested benefits) exceed $50,000,000; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the unfunded current liability of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the current liability of the plan before such change.
 
@@ -222,7 +222,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 &emsp;&emsp;For purposes of paragraph (6), the term “full-funding limitation” means the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) the lesser of (I) the applicable percentage of current liability (including the expected increase in current liability due to benefits accruing during the plan year), or (II) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
+&emsp;&emsp;&emsp;(i) the lesser of (I) in the case of plan years beginning before January 1, 2004, the applicable percentage of current liability (including the expected increase in current liability due to benefits accruing during the plan year), or (II) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
 
 &emsp;&emsp;&emsp;(ii) the lesser of—
 
@@ -268,27 +268,19 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 &emsp;&emsp;For purposes of subparagraph (A)(i)(I), the applicable percentage shall be determined in accordance with the following table:
 
-<b>In the case of any plan</b>
+<b>In the case of any plan year</b>
 
 <b>The applicable</b>
 
-<b> year beginning in—</b>
+<b> beginning in—</b>
 
 <b> percentage is—</b>
 
-&nbsp;&nbsp;1999 or 2000
-
-155&nbsp;&nbsp;
-
-&nbsp;&nbsp;2001 or 2002
-
-160&nbsp;&nbsp;
-
-&nbsp;&nbsp;2003 or 2004
+&nbsp;&nbsp;2002
 
 165&nbsp;&nbsp;
 
-&nbsp;&nbsp;2005 and succeeding years
+&nbsp;&nbsp;2003
 
 170\.
 
@@ -308,7 +300,23 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 #### (9) Annual valuation
 
-&emsp;For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.
+
+#### (B) Valuation date
+
+#### (i) Current year
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the valuation referred to in subparagraph (A) shall be made as of a date within the plan year to which the valuation refers or within one month prior to the beginning of such year.
+
+#### (ii) Use of prior year valuation
+
+&emsp;&emsp;&emsp;The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 125 percent of the plan's current liability (as defined in paragraph (7)(B)).
+
+#### (iii) Adjustments
+
+&emsp;&emsp;&emsp;Information under clause (ii) shall, in accordance with regulations, be actuarially adjusted to reflect significant differences in participants.
 
 #### (10) Time when certain contributions deemed made
 
@@ -376,7 +384,7 @@ Except as provided in subsection (h), this section applies to a plan if, for any
 
 #### (4) Application must be submitted before date 21/2 months after close of year
 
-&emsp;In the case of a plan other than a multiemployer plan, no waiver may be granted under this subsection with respect to any plan for any plan year unless an application therefor is submitted to the Secretary not later than the15th day of the 3rd month beginning after the close of such plan year.
+&emsp;In the case of a plan other than a multiemployer plan, no waiver may be granted under this subsection with respect to any plan for any plan year unless an application therefor is submitted to the Secretary not later than the 15th day of the 3rd month beginning after the close of such plan year.
 
 #### (5) Special rule if employer is member of controlled group
 
@@ -494,7 +502,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 &emsp;&emsp;(A) charged with the sum of—
 
-&emsp;&emsp;&emsp;(i) the lesser of normal cost under the funding method used under the plan or normal cost determined under the unit credit method,
+&emsp;&emsp;&emsp;(i) the lesser of normal cost under the funding method used under the plan ornormal cost determined under the unit credit method,
 
 &emsp;&emsp;&emsp;(ii) the excess, if any, of the present value of accrued benefits under the plan over the fair market value of the assets, and
 
@@ -584,7 +592,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 #### (A) In general
 
-&emsp;&emsp;The unfunded old liability amount with respect to any plan for any plan year is the amount necessary to amortize the unfunded old liability under the plan in equal annual installments over a period of 18 plan years (beginning with the 1st plan year beginning after December 31, 1988).
+&emsp;&emsp;The unfunded old liability amount with respect to any plan for any plan year is theamount necessary to amortize the unfunded old liability under the plan in equal annual installments over a period of 18 plan years (beginning with the 1st plan year beginning after December 31, 1988).
 
 #### (B) Unfunded old liability
 
@@ -684,7 +692,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 &emsp;&emsp;&emsp;(ii) the amount which would be determined for the plan year if the unpredictable contingent event benefit liabilities were amortized in equal annual installments over 7 plan years (beginning with the plan year in which such event occurs), or
 
-&emsp;&emsp;&emsp;(iii) the additional amount that would be determined under paragraph (4)(A) if theunpredictable contingent event benefit liabilities were included in unfunded new liability notwithstanding paragraph (4)(B)(ii).
+&emsp;&emsp;&emsp;(iii) the additional amount that would be determined under paragraph (4)(A) if the unpredictable contingent event benefit liabilities were included in unfunded new liability notwithstanding paragraph (4)(B)(ii).
 
 #### (B) Applicable percentage
 
@@ -848,7 +856,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 #### (I) Commissioners’ standard table
 
-&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this subsection shall be the table prescribed by the Secretary which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used todetermine reserves for group annuity contracts issued on January 1, 1993.
+&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this subsection shall be the table prescribed by the Secretary which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on January 1, 1993.
 
 #### (II) Secretarial authority
 
@@ -1132,7 +1140,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 #### (B) Period of underpayment
 
-&emsp;&emsp;The period for which interest is charged under this subsection with regard to any portion of the underpayment shall run from the due date for the installment to the date on which such portion is contributed to or under the plan (determined without regard to subsection (c)(10)).
+&emsp;&emsp;The period for which interest is charged under this subsection with regard to anyportion of the underpayment shall run from the due date for the installment to the date on which such portion is contributed to or under the plan (determined without regard to subsection (c)(10)).
 
 #### (C) Order of crediting contributions
 
@@ -1189,7 +1197,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 &emsp;&emsp;&nbsp;&nbsp;1989
 
-6\.25  
+6\.25&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;&nbsp;1990
 
@@ -1259,7 +1267,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 #### (i) Liquidity shortfall
 
-&emsp;&emsp;&emsp;The term “liquidity shortfall” means, with respect to any required installment, an amount equal to the excess (as of the last day of the quarter for which such installment is made) of the base amount with respect to such quarter over the value (as of such last day) of the plan's liquid assets.
+&emsp;&emsp;&emsp;The term “liquidity shortfall” means, with respect to any required installment,an amount equal to the excess (as of the last day of the quarter for which such installment is made) of the base amount with respect to such quarter over the value (as of such last day) of the plan's liquid assets.
 
 #### (ii) Base amount
 
@@ -1337,7 +1345,7 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 #### (B) Period of lien
 
-&emsp;&emsp;The lien imposed by paragraph (1) shall arise on the due date for the required installment or other payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2) during the period referred to in the preceding sentence.
+&emsp;&emsp;The lien imposed by paragraph (1) shall arise on the due date for the required installment or other payment and shall continue until the last day of the first plan year in which the plan ceases to be described in paragraph (1)(B). Such lien shall continue to run without regard to whether such plan continues to be described in paragraph (2)during the period referred to in the preceding sentence.
 
 #### (C) Certain rules to apply
 
@@ -1359,7 +1367,11 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 &emsp;&emsp;The term “controlled group” means any group treated as a single employer under subsections (b), (c), (m), and (<i>o</i>) of section 414.
 
-(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097.)
+(Added Pub. L. 93–406, title II, §1013(a), Sept. 2, 1974, 88 Stat. 914; amended Pub. L. 94–455, title XIX, §§1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834; Pub. L. 96–364, title II, §§203, 208(c), Sept. 26, 1980, 94 Stat. 1285, 1289; Pub. L. 98–369, div. A, title IV, §491(d)(25), July 18, 1984, 98 Stat. 850; Pub. L. 99–272, title XI, §§11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, 100 Stat. 265, 267, 273; Pub. L. 100–203, title IX, §§9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, 101 Stat. 1330–331, 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; Pub. L. 100–647, title II, §2005(a)(2)(A), (d)(1), Nov. 10, 1988, 102 Stat. 3610, 3612; Pub. L. 101–239, title VII, §7881(a)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, 103 Stat. 2435–2439; Pub. L. 103–465, title VII, §§751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, 108 Stat. 5012–5019, 5021–5023, 5040; Pub. L. 105–34, title XV, §1521(a), (c)(1), (3)(A), title XVI, §1604(b)(2)(A), Aug. 5, 1997, 111 Stat. 1069, 1070, 1097; Pub. L. 107–16, title VI, §§651(a), 661(a), June 7, 2001, 115 Stat. 129, 141.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -1374,6 +1386,12 @@ The Retirement Protection Act of 1994, referred to in subsec. (<i>l</i>)(11), is
 The date of the enactment of the Retirement Protection Act of 1994, referred to in subsec. (n)(2), is the date of enactment of subtitle F (§§750–781) of title VII of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c)(7)(A)(i)(I). Pub. L. 107–16, §§651(a)(1), 901, temporarily substituted “in the case of plan years beginning before January 1, 2004, the applicable percentage” for “the applicable percentage”. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(7)(F). Pub. L. 107–16, §§651(a)(2), 901, temporarily reenacted heading and introductory provisions without change and amended table generally, substituting present provisions for provisions which had set out applicable percentage of 155 in the case of any plan year beginning in 1999 or 2000, 160 in the case of any plan year beginning in 2001 or 2002, 165 in the case of any plan year beginning in 2003 or 2004, and 170 in the case of any plan year beginning in 2005 and succeeding years. See Effective and Termination Dates of 2001 Amendment note below.
+
+Subsec. (c)(9). Pub. L. 107–16, §§661(a), 901, temporarily reenacted heading without change and amended text of par. (9) generally. Prior to amendment, text read as follows: “For purposes of this section, a determination of experience gains and losses and a valuation of the plan's liability shall be made not less frequently than once every year, except that such determination shall be made more frequently to the extent required in particular cases under regulations prescribed by the Secretary.” See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>1997</b>—Subsec. (b)(2)(E). Pub. L. 105–34, §1521(c)(1), added subpar. (E).
 
@@ -1560,6 +1578,14 @@ Subsecs. (j), (k). Pub. L. 96–364, §203(3), added subsecs. (j) and (k).
 Subsec. (h). Pub. L. 94–455, §1901(a)(63), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974 in par. (5) and substituted reference to Sept. 1, 1974, for reference to the day before the date of enactment of the Employee Retirement Income Security Act of 1974 in the provisions following par. (6).
 
 Subsec. (i). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Pub. L. 107–16, title VI, §651(c), June 7, 2001, 115 Stat. 129, provided that: “The amendments made by this section \[amending this section and section 1082 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2001.”
+
+Pub. L. 107–16, title VI, §661(c), June 7, 2001, 115 Stat. 142, provided that: “The amendments made by this section \[amending this section and section 1082 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2001.”
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -1775,7 +1801,7 @@ In general.—In the case of a plan that—
 
 &emsp;&emsp;“(A) was not required to pay a variable rate premium for the plan year beginning in 1996;
 
-&emsp;&emsp;“(B) has not, in any plan year beginning after 1995 and before 2009, merged with another plan (other than a plan sponsored by an employer that was in 1996 within the controlled group of the plan sponsor); and
+&emsp;&emsp;“(B) has not, in any plan year beginning after 1995 and before 2009, merged with another plan (other than a plan sponsored by an employer that was in1996 within the controlled group of the plan sponsor); and
 
 &emsp;&emsp;“(C) is sponsored by a company that is engaged primarily in the interurban or interstate passenger bus service,
 
@@ -1873,7 +1899,7 @@ Limitation.—In the case of a plan which makes an election under paragraph (1),
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 401, 404, 404A, 411, 413, 414, 415, 418, 418B, 418D, 420, 4971, 4972, 6059, 6110, 6692 of this title; title 29 sections 1082, 1083, 1085a, 1202, 1301, 1303, 1306, 1310, 1322a, 1341, 1342, 1343, 1362, 1393, 1421, 1423, 1425.
+This section is referred to in sections 401, 404, 404A, 411, 413, 414, 415, 418, 418B, 418D, 420, 4971, 4972, 4980F, 6059, 6110, 6692 of this title; title 29 sections 1054, 1082, 1083, 1085a, 1202, 1301, 1303, 1306, 1310, 1341, 1342, 1343, 1362, 1393, 1421, 1423, 1425.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

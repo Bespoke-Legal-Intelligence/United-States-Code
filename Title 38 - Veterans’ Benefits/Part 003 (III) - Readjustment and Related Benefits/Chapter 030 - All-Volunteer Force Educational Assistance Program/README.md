@@ -17,6 +17,7 @@
 | [3012\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003012%20-%20Basic%20educational%20assistance%20entitlement%20for%20service%20in%20the%20Selected%20Reserve.md) | Basic educational assistance entitlement for service in the Selected Reserve. |
 | [3013\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003013%20-%20Duration%20of%20basic%20educational%20assistance.md) | Duration of basic educational assistance. |
 | [3014\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003014%20-%20Payment%20of%20basic%20educational%20assistance.md) | Payment of basic educational assistance. |
+| [3014A.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003014A%20-%20Accelerated%20payment%20of%20basic%20educational%20assistance%20for%20education%20leading%20to%20employment%20in%20high%20technology%20industry.md) | Accelerated payment of basic educational assistance for education leading to employment in high technology industry. |
 | [3015\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003015%20-%20Amount%20of%20basic%20educational%20assistance.md) | Amount of basic educational assistance. |
 | [3016\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003016%20-%20Inservice%20enrollment%20in%20a%20program%20of%20education.md) | Inservice enrollment in a program of education. |
 | [3017\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003017%20-%20Death%20benefit.md) | Death benefit. |
@@ -25,6 +26,7 @@
 | [3018B.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003018B%20-%20Opportunity%20for%20certain%20persons%20to%20enroll.md) | Opportunity for certain persons to enroll. |
 | [3018C.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003018C%20-%20Opportunity%20for%20certain%20VEAP%20participants%20to%20enroll.md) | Opportunity for certain VEAP participants to enroll. |
 | [3019\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003019%20-%20Tutorial%20assistance.md) | Tutorial assistance. |
+| [3020\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003020%20-%20Transfer%20of%20entitlement%20to%20basic%20educational%20assistance%20members%20of%20the%20Armed%20Forces%20with%20critical%20military%20skills.md) | Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -53,6 +55,10 @@
 
 #### Amendments
 
+2001—Pub. L. 107–107, div. A, title VI, §654(a)(2), Dec. 28, 2001, 115 Stat. 1156, added item 3020.
+
+Pub. L. 107–103, title I, §104(a)(2), Dec. 27, 2001, 115 Stat. 981, added item 3014A.
+
 1996—Pub. L. 104–275, title I, §106(b)(1), Oct. 9, 1996, 110 Stat. 3329, added item 3018C.
 
 1992—Pub. L. 102–484, div. D, title XLIV, §4404(b)(1), Oct. 23, 1992, 106 Stat. 2706, added item 3018B.
@@ -69,7 +75,7 @@ Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted “subch
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 113, 3108, 3485, 3674, 3680A, 3681, 3684A, 3688, 3689, 3690, 3692, 3693, 3695, 3697, 3697A, 4213, 5113, 5303A of this title; title 10 sections 708, 2006, 2007, 16131, 16132; title 20 sections 1087vv, 9305; title 26 sections 25A, 135; title 29 section 2913.
+This chapter is referred to in sections 113, 3108, 3485, 3674, 3680A, 3681, 3684A, 3688, 3689, 3690, 3692, 3693, 3695, 3697, 3697A, 4213, 5113, 5303A, 5313B of this title; title 10 sections 708, 2006, 2007, 16131, 16132; title 20 sections 1087vv, 6674; title 26 sections 25A, 135; title 29 section 2913.
 
 
 ---

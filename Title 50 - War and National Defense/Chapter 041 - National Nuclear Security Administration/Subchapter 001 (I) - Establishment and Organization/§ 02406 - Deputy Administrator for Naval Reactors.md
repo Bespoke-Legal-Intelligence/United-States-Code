@@ -22,5 +22,5 @@ As used in this section, the Naval Nuclear Propulsion Executive Order is Executi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2402, 2403 of this title.
+This section is referred to in sections 2402, 2410 of this title.
 

@@ -8,7 +8,7 @@ A State may submit to the Secretary, and the Secretary may approve, a workforce 
 
 &emsp;(2) any of the statutory or regulatory requirements applicable under sections 49g through 49i of this title to the State, except for requirements relating to the provision of services to unemployment insurance claimants and veterans, and to universal access to basic labor exchange services without cost to jobseekers; and
 
-&emsp;(3) any of the statutory or regulatory requirements applicable under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) to Stateagencies on aging with respect to activities carried out using funds allotted under section 506(a)(3) of such Act (42 U.S.C. 3056d(a)(3)), except for requirements relating to the basic purposes of such Act, wage and labor standards, eligibility of participants in the activities, and standards for agreements.
+&emsp;(3) any of the statutory or regulatory requirements applicable under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.) to State agencies on aging with respect to activities carried out using funds allotted under section 506(a)(3) <sup>1</sup> of such Act (42 U.S.C. 3056d(a)(3)), except for requirements relating to the basic purposes of such Act, wage and labor standards, eligibility of participants in the activities, and standards for agreements.
 
 #### (b) Content of plans
 
@@ -38,7 +38,7 @@ Prior to submitting a workforce flexibility plan to the Secretary for approval, 
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Section 506 of the Act, which is classified to section 3056d of Title 42, was amended generally by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2276, and provisions formerly appearing in subsec. (a)(3) of that section are now contained in subsec. (e). For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 #### Amendments
 
@@ -55,4 +55,6 @@ Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1469, provided in part: “T
 Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 104–208, div. A, title I, §101(e) \[title I\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–234.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

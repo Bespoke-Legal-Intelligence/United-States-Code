@@ -28,7 +28,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (2) National Institutes of Health
 
-&emsp;The Director of the National Institutes of Health, acting through the Director of the National Institute on Deafness and Other Communication Disorders, shall for purposes of this section, continue a program of research and development on the efficacy of newscreening techniques and technology, including clinical studies of screening methods, studies on efficacy of intervention, and related research.
+&emsp;The Director of the National Institutes of Health, acting through the Director of the National Institute on Deafness and Other Communication Disorders, shall for purposes of this section, continue a program of research and development on the efficacy of new screening techniques and technology, including clinical studies of screening methods, studies on efficacy of intervention, and related research.
 
 #### (c) Coordination and collaboration
 
@@ -42,7 +42,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (3) State early detection, diagnosis, and intervention programs and systems; data collection
 
-&emsp;The Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation and intervention programs and systems under subsection (a) of this section and to develop a data collection system under subsection (b) of this section.
+&emsp;The Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infanthearing screening, evaluation and intervention programs and systems under subsection (a) of this section and to develop a data collection system under subsection (b) of this section.
 
 #### (d) Rule of construction; religious accommodation
 

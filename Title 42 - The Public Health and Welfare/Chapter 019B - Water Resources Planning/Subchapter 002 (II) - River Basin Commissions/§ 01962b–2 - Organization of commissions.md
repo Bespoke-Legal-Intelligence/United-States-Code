@@ -10,7 +10,7 @@ State members of each commission shall elect a vice chairman, who shall serve al
 
 #### (c) Vacancies; alternates for chairman and vice chairman
 
-Vacancies in a commission shall not affect its powers but shall be filled in the same manner in which the original appointments were made: <i>Provided</i>, That the chairman and vice chairman may designate alternates to act for them during temporary absences.
+Vacancies in a commission shall not affect its powers but shall be filled in the same manner in which the original appointments were made:<i>Provided</i>, That the chairman and vice chairman may designate alternates to act for them during temporary absences.
 
 #### (d) Consensus of members on issues; opportunities for individual views; record of position of chairman and vice chairman; final authority on procedural questions
 

@@ -2,7 +2,7 @@
 
 (a) Each candidate for admission to the Naval Academy—
 
-&emsp;(1) must be at least 17 years of age and must not have passed his twenty-third birthday onJuly 1 of the calendar year in which he enters the Academy; and
+&emsp;(1) must be at least 17 years of age and must not have passed his twenty-third birthday on July 1 of the calendar year in which he enters the Academy; and
 
 &emsp;(2) shall be examined according to such regulations as the Secretary of the Navy prescribes, and if rejected at one examination may not be examined again for admission to the same class unless recommended by the Academic Board.
 

@@ -8,7 +8,7 @@ Prohibited Acts.—
 
 Offenses.—Whoever, involving conduct transcending national boundaries and in a circumstance described in subsection (b)—
 
-&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, orassaults with a dangerous weapon any person within the United States; or
+&emsp;&emsp;(A) kills, kidnaps, maims, commits an assault resulting in serious bodily injury, or assaults with a dangerous weapon any person within the United States; or
 
 &emsp;&emsp;(B) creates a substantial risk of serious bodily injury to any other person by destroying or damaging any structure, conveyance, or other real or personal property within the United States or by attempting or conspiring to destroy or damage any structure, conveyance, or other real or personal property within the United States;
 
@@ -90,7 +90,7 @@ Extraterritorial Jurisdiction.—There is extraterritorial Federal jurisdiction�
 
 (f)
 
-Investigative Authority.—In addition to any other investigative authority with respect to violations of this title, the Attorney General shall have primary investigative responsibility for all Federal crimes of terrorism, and the Secretary of the Treasury shall assist the Attorney General at the request of the Attorney General. Nothing in this section shall be construed to interfere with the authority of the United States Secret Service under section 3056.
+Investigative Authority.—In addition to any other investigative authority with respect to violations of this title, the Attorney General shall have primary investigative responsibility for all Federal crimes of terrorism, and any violation of section 351(e), 844(e), 844(f)(1), 956(b), 1361, 1366(b), 1366(c), 1751(e), 2152, or 2156 of this title, and the Secretary of the Treasury shall assist the Attorney General at the request of the Attorney General. Nothing in this section shall be construed to interfere with the authority of the United States Secret Service under section 3056.
 
 (g)
 
@@ -110,23 +110,23 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(B) is a violation of—
 
-&emsp;&emsp;&emsp;(i) section 32 (relating to destruction of aircraft or aircraft facilities), 37 (relating to violence at international airports), 81 (relating to arson within special maritime and territorial jurisdiction), 175 (relating to biological weapons), 351 (relating to congressional, cabinet, and Supreme Court assassination, kidnapping, and assault), 831 (relating to nuclear materials), 842(m) or (n) (relating to plastic explosives), 844(e) (relating to certain bombings), 844(f) or (i) (relating to arson and bombing of certain property), 930(c), 956 (relating to conspiracy to injure property of a foreign government), 1114 (relating to protection of officers and employees of the United States), 1116 (relating to murder or manslaughter of foreign officials, official guests, or internationally protected persons), 1203 (relating to hostage taking), 1361 (relating to injury of Government property or contracts), 1362 (relating to destruction of communication lines, stations, or systems), 1363 (relating to injury to buildings or property within special maritime and territorial jurisdiction of the United States), 1366 (relating to destruction of an energy facility), 1751 (relating to Presidential and Presidential staff assassination, kidnapping, and assault), 1992, 2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas), 2155 (relating to destruction of national defense materials, premises, or utilities), 2156 (relating to production of defective national defense materials, premises, or utilities), 2280 (relating to violence against maritime navigation), 2281 (relating to violence against maritime fixed platforms), 2332 (relating to certain homicides and other violence against United States nationals occurring outside of the United States), 2332a (relating to use of weapons of mass destruction), 2332b (relating to acts of terrorism transcending national boundaries), 2332c,<sup>1</sup> 2339A (relating to providing material support to terrorists), 2339B (relating to providing material support to terrorist organizations), or 2340A (relating to torture);
+&emsp;&emsp;&emsp;(i) section 32 (relating to destruction of aircraft or aircraft facilities), 37 (relating to violence at international airports), 81 (relating to arson within special maritime and territorial jurisdiction), 175 or 175b (relating to biological weapons), 229 (relating to chemical weapons), subsection (a), (b), (c), or (d) of section 351 (relating to congressional, cabinet, and Supreme Court assassination and kidnaping), 831 (relating to nuclear materials), 842(m) or (n) (relating to plastic explosives), 844(f)(2) or (3) (relating to arson and bombing of Government property risking or causing death), 844(i) (relating to arson and bombing of property used in interstate commerce), 930(c) (relating to killing or attempted killing during an attack on a Federal facility with a dangerous weapon), 956(a)(1) (relating to conspiracy to murder, kidnap, or maim persons abroad), 1030(a)(1) (relating to protection of computers), 1030(a)(5)(A)(i) resulting in damage as defined in 1030(a)(5)(B)(ii) through (v) (relating to protection of computers), 1114 (relating to killing or attempted killing of officers and employees of the United States), 1116 (relating to murder or manslaughter of foreign officials, official guests, or internationally protected persons), 1203 (relating to hostage taking), 1362 (relating to destruction of communication lines, stations, or systems), 1363 (relating to injury to buildings or property within special maritime and territorial jurisdiction of the United States), 1366(a) (relating to destruction of an energy facility), 1751(a), (b), (c), or (d) (relating to Presidential and Presidential staff assassination and kidnaping), 1992 (relating to wrecking trains), 1993 (relating to terrorist attacks and other acts of violence against mass transportation systems), 2155 (relating to destruction of national defense materials, premises, or utilities), 2280 (relating to violence against maritime navigation), 2281 (relating to violence against maritime fixed platforms), 2332 (relating to certain homicides and other violence against United States nationals occurring outside of the United States), 2332a (relating to use of weapons of mass destruction), 2332b (relating to acts of terrorism transcending national boundaries), 2339 (relating to harboring terrorists), 2339A (relating to providing material support to terrorists), 2339B (relating to providing material support to terrorist organizations), or 2340A (relating to torture) of this title;
 
 &emsp;&emsp;&emsp;(ii) section 236 (relating to sabotage of nuclear facilities or fuel) of the Atomic Energy Act of 1954 (42 U.S.C. 2284); or
 
-&emsp;&emsp;&emsp;(iii) section 46502 (relating to aircraft piracy) or section 60123(b) (relating to destruction of interstate gas or hazardous liquid pipeline facility) of title 49.
+&emsp;&emsp;&emsp;(iii) section 46502 (relating to aircraft piracy), the second sentence of section 46504 (relating to assault on a flight crew with a dangerous weapon), section 46505(b)(3) or (c) (relating to explosive or incendiary devices, or endangerment of human life by means of weapons, on aircraft), section 46506 if homicide or attempted homicide is involved (relating to application of certain criminal laws to acts on aircraft), or section 60123(b) (relating to destruction of interstate gas or hazardous liquid pipeline facility) of title 49.
 
-(Added Pub. L. 104–132, title VII, §702(a), Apr. 24, 1996, 110 Stat. 1291; amended Pub. L. 104–294, title VI, §601(s)(1), (3), Oct. 11, 1996, 110 Stat. 3502.)
-
-#### References in Text
-
-Section 2332c of this title, referred to in subsec. (g)(5)(B)(i), was repealed by Pub. L. 105–277, div. I, title II, §201(c)(1), Oct. 21, 1998, 112 Stat. 2681–871.
+(Added Pub. L. 104–132, title VII, §702(a), Apr. 24, 1996, 110 Stat. 1291; amended Pub. L. 104–294, title VI, §601(s)(1), (3), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 107–56, title VIII, §808, Oct. 26, 2001, 115 Stat. 378.)
 
 #### Amendments
 
+2001—Subsec. (f). Pub. L. 107–56, §808(1), inserted “and any violation of section 351(e), 844(e), 844(f)(1), 956(b), 1361, 1366(b), 1366(c), 1751(e), 2152, or 2156 of this title,” before “and the Secretary”.
+
+Subsec. (g)(5)(B)(i) to (iii). Pub. L. 107–56, §808(2), added cls. (i) to (iii) and struck out former cls. (i) to (iii), inserting references to sections 175b, 229, 1030, 1993, and 2339 of this title and striking out references to 1361, 2152, 2156, 2332c of this title in cl. (i) and inserting references to sections 46504, 46505, and 46506 of title 49 in cl. (iii).
+
 1996—Subsec. (b)(1)(A). Pub. L. 104–294, §601(s)(1), struck out “any of the offenders uses” before “the mail or any facility” and inserted “is used” after “foreign commerce”.
 
-Subsec. (g)(5)(B)(i). Pub. L. 104–294, §601(s)(3), inserted “930(c),” before “956 (relating to conspiracy to injure property of a foreign government)”, “1992,” before “2152 (relating to injury of fortifications, harbor defenses, or defensive sea areas)”, and “2332c,” before “2339A (relating to providing material support to terrorists)”.
+Subsec. (g)(5)(B)(i). Pub. L. 104–294, §601(s)(3), inserted “930(c),” before “956 (relating to conspiracy to injure property of a foreign government)”, “1992,” before “2152 (relating to injury of fortifications, harbor defenses, ordefensive sea areas)”, and “2332c,” before “2339A (relating to providing material support to terrorists)”.
 
 #### Territorial Sea of United States
 
@@ -134,7 +134,5 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1956, 2339A, 3142, 3286 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1956, 1961, 2339, 2339A, 2516, 3142, 3286, 3583 of this title; title 20 sections 1232g, 9007; title 42 section 14135a.
 

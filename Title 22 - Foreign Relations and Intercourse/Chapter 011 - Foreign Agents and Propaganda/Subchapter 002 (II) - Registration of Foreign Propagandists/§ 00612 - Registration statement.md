@@ -12,7 +12,7 @@ No person shall act as an agent of a foreign principal unless he has filed with 
 
 &emsp;(4) Copies of each written agreement and the terms and conditions of each oral agreement, including all modifications of such agreements, or, where no contract exists, a full statement of all the circumstances, by reason of which the registrant is an agent of a foreign principal; a comprehensive statement of the nature and method of performance of each such contract, and of the existing and proposed activity or activities engaged in or to be engaged in by the registrant as agent of a foreign principal for each such foreign principal, including a detailed statement of any such activity which is a political activity;
 
-&emsp;(5) The nature and amount of contributions, income, money, or thing of value, if any, thatthe registrant has received within the preceding sixty days from each such foreign principal, either as compensation or for disbursement or otherwise, and the form and time of each such payment and from whom received;
+&emsp;(5) The nature and amount of contributions, income, money, or thing of value, if any, that the registrant has received within the preceding sixty days from each such foreign principal, either as compensation or for disbursement or otherwise, and the form and time of each such payment and from whom received;
 
 &emsp;(6) A detailed statement of every activity which the registrant is performing or is assuming or purporting or has agreed to perform for himself or any other person other than a foreign principal and which requires his registration hereunder, including a detailed statement of any such activity which is a political activity;
 
@@ -40,7 +40,7 @@ The fact that a registration statement or supplement thereto has been filed shal
 
 #### (e) Incorporation of previous statement by reference
 
-If any agent of a foreign principal, required to register under the provisions of this subchapter,has previously thereto registered with the Attorney General under the provisions of section 2386 of title 18, the Attorney General, in order to eliminate inappropriate duplication, may permit the incorporation by reference in the registration statement or supplements thereto filed hereunder of any information or documents previously filed by such agent of a foreign principal under the provisions of said section.
+If any agent of a foreign principal, required to register under the provisions of this subchapter, has previously thereto registered with the Attorney General under the provisions of section 2386 of title 18, the Attorney General, in order to eliminate inappropriate duplication, may permit the incorporation by reference in the registration statement or supplements thereto filed hereunder of any information or documents previously filed by such agent of a foreign principal under the provisions of said section.
 
 #### (f) Exemption by Attorney General
 

@@ -35,4 +35,3 @@ This subchapter is referred to in sections 5321, 12840 of this title.
 - [&sect; 05189 - Simplified procedure](%C2%A7%2005189%20-%20Simplified%20procedure.md)
 - [&sect; 05189a - Appeals of assistance decisions](%C2%A7%2005189a%20-%20Appeals%20of%20assistance%20decisions.md)
 - [&sect; 05189b - Date of eligibility; expenses incurred before date of disaster](%C2%A7%2005189b%20-%20Date%20of%20eligibility%3B%20expenses%20incurred%20before%20date%20of%20disaster.md)
-- [Subchapter 004-A (IV-A) - Emergency Assistance Programs](Subchapter%20004-A%20%28IV-A%29%20-%20Emergency%20Assistance%20Programs/README.md)

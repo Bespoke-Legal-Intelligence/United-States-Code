@@ -8,7 +8,7 @@ To carry out section 12781 of this title, the Secretary shall provide assistance
 
 &emsp;(3) encourage private lenders and for-profit developers of low-income housing to participate in public-private partnerships to achieve the purposes of this subchapter;
 
-&emsp;(4) improve the ability of States and units of general local government, community housing development organizations, private lenders, and for-profit developers of low-income housing to incorporate energy efficiency into the planning, design, financing, construction, and operation of affordable housing;
+&emsp;(4) improve the ability of States and units of general local government, community housing development organizations, private lenders, and for-profit developers of low-income housing to incorporate energy efficiency into theplanning, design, financing, construction, and operation of affordable housing;
 
 &emsp;(5) facilitate the establishment and efficient operation of employer-assisted housing programs through research, technical assistance and demonstration projects; and
 

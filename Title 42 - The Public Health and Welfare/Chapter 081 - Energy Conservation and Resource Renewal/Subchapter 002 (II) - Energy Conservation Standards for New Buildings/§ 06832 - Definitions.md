@@ -14,7 +14,7 @@ As used in this subchapter:
 
 &emsp;(6) The term “Federal building” means any building to be constructed by, or for the use of, any Federal agency which is not legally subject to State or local building codes or similar requirements.
 
-&emsp;(7) The term “Federal financial assistance” means (A) any form of loan, grant, guarantee,insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance (other than general or special revenue sharing or formula grants made to States) approved by any Federal officer or agency; or (B) any loan made or purchased by any bank, savings and loan association, or similar institution subject to regulation by the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration.
+&emsp;(7) The term “Federal financial assistance” means (A) any form of loan, grant, guarantee, insurance, payment, rebate, subsidy, or any other form of direct or indirect Federal assistance (other than general or special revenue sharing or formula grants made to States) approved by any Federal officer or agency; or (B) any loan made or purchased by any bank, savings and loan association, or similar institution subject to regulation by the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Federal Home Loan Bank Board, the Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration.
 
 &emsp;(8) The term “National Institute of Building Sciences” means the institute established by section 1701j–2 of title 12.
 

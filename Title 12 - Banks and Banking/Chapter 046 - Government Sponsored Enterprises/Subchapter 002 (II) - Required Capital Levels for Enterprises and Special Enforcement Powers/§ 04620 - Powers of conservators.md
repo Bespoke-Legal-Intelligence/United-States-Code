@@ -2,7 +2,7 @@
 
 #### (a) General powers
 
-A conservator shall have all the powers of the shareholders, directors, and officers of the enterprise under conservatorship and may operatethe enterprise in the name of the enterprise, unless the Director provides otherwise.
+A conservator shall have all the powers of the shareholders, directors, and officers of the enterprise under conservatorship and may operate the enterprise in the name of the enterprise, unless the Director provides otherwise.
 
 #### (b) Additional power
 

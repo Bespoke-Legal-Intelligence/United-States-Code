@@ -26,7 +26,7 @@ The Secretary of Agriculture shall charge a rental charge for all ski area permi
 
 #### (c) Payment
 
-The rental charge set forth in subsection (b) of this section shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment schedule shall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, theSecretary shall each year provide the permittee with a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
+The rental charge set forth in subsection (b) of this section shall be due on June 1 of each year and shall be paid or prepaid by the permittee on a monthly, quarterly, annual or other schedule as determined appropriate by the Secretary in consultation with the permittee. Unless mutually agreed otherwise by the Secretary and the permittee, the payment or prepayment schedule shall conform to the permittee's schedule in effect prior to November 12, 1996. To reduce costs to the permittee and the Forest Service, the Secretary shall each year provide the permittee with a standardized form and worksheets (including annual rental charge calculation brackets and rates) to be used for rental charge calculation and submitted with the rental charge payment. Information provided on such forms shall be compiled by the Secretary annually and kept in the Office of the Chief, United States Forest Service.
 
 #### (d) Effective date
 
@@ -68,7 +68,7 @@ Subject to valid existing rights, all lands located within the boundaries of ski
 
 #### References in Text
 
-Act of March 4, 1915, referred to in subsecs. (a) and (j), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086, as amended. For complete classification of this Act to the Code, see Tables.
+Act of March 4, 1915, referred to in subsecs. (a) and (j), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086, as amended. Forcomplete classification of this Act to the Code, see Tables.
 
 Act of June 4, 1897, referred to in subsecs. (a) and (j), is act June 4, 1897, ch. 2, 30 Stat. 11. For complete classification of this Act to the Code, see Tables.
 

@@ -48,7 +48,7 @@
 
 #### (B) Rule of construction regarding training of trainers
 
-&emsp;&emsp;With respect to individuals who under a grant under paragraph (1) provide training for the designated staff of eligible health centers (referred to in this subparagraph as “trainers”), subparagraph (A)(iii) may not be construed as establishing any limitation regarding the geographic area in which the trainers receive instruction in being such trainers. A trainer may receive such instruction in a different geographic area than the area in which the trainer trains (or will train) the designated staff of eligible health centers.
+&emsp;&emsp;With respect to individuals who under a grant under paragraph (1) provide trainingfor the designated staff of eligible health centers (referred to in this subparagraph as “trainers”), subparagraph (A)(iii) may not be construed as establishing any limitation regarding the geographic area in which the trainers receive instruction in being such trainers. A trainer may receive such instruction in a different geographic area than the area in which the trainer trains (or will train) the designated staff of eligible health centers.
 
 #### (4) Adoption organizations; eligible health centers; other definitions
 
@@ -80,7 +80,7 @@
 
 &emsp;In the case of eligible health centers that receive grants under section 254b or 300 of this title:
 
-&emsp;&emsp;(A) Within a reasonable period after the Secretary begins making grants under paragraph (1), the Secretary shall provide eligible health centers with complete information about the training available from organizations receiving grants under such paragraph. The Secretary shall make reasonable efforts to encourage eligible health centers to arrange for designated staff to participate in such training. Such efforts shall affirmFederal requirements, if any, that the eligible health center provide nondirective counseling to pregnant women.
+&emsp;&emsp;(A) Within a reasonable period after the Secretary begins making grants under paragraph (1), the Secretary shall provide eligible health centers with complete information about the training available from organizations receiving grants under such paragraph. The Secretary shall make reasonable efforts to encourage eligible health centers to arrange for designated staff to participate in such training. Such efforts shall affirm Federal requirements, if any, that the eligible health center provide nondirective counseling to pregnant women.
 
 &emsp;&emsp;(B) All costs of such centers in obtaining the training shall be reimbursed by the organization that provides the training, using grants under paragraph (1).
 

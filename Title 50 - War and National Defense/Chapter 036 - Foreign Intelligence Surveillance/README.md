@@ -26,6 +26,7 @@
 | (f) | Emergency orders. |
 | (g) | Testing of electronic equipment; discovering unauthorized electronic surveillance; training of intelligence personnel. |
 | (h) | Retention of certifications, applications and orders. |
+| (i) | Bar to legal action. |
 | [1806\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001806%20-%20Use%20of%20information.md) | Use of information. |
 | (a) | Compliance with minimization procedures; privileged communications; lawful purposes. |
 | (b) | Statement for disclosure. |
@@ -37,6 +38,7 @@
 | (h) | Finality of orders. |
 | (i) | Destruction of unintentionally acquired information. |
 | (j) | Notification of emergency employment of electronic surveillance; contents; postponement, suspension or elimination. |
+| (k) | Coordination with law enforcement on national security matters. |
 | [1807\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001807%20-%20Report%20to%20Administrative%20Office%20of%20the%20United%20States%20Court%20and%20to%20Congress.md) | Report to Administrative Office of the United States Court and to Congress. |
 | [1808\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001808%20-%20Report%20of%20Attorney%20General%20to%20Congressional%20committees%3B%20limitation%20on%20authority%20or%20responsibility%20of%20information%20gathering%20activities%20of%E2%80%A6.md) | Report of Attorney General to Congressional committees; limitation on authority or responsibility of information gathering activities of Congressional committees; report of Congressional committees to Congress. |
 | [1809\.](Subchapter%20001%20%28I%29%20-%20Electronic%20Surveillance/%C2%A7%2001809%20-%20Criminal%20sanctions.md) | Criminal sanctions. |
@@ -83,6 +85,7 @@
 | (h) | Suppression of evidence; denial of motion. |
 | (i) | Finality of orders. |
 | (j) | Notification of emergency execution of physical search; contents; postponement, suspension, or elimination. |
+| (k) | Coordination with law enforcement on national security matters. |
 | [1826\.](Subchapter%20002%20%28II%29%20-%20Physical%20Searches/%C2%A7%2001826%20-%20Congressional%20oversight.md) | Congressional oversight. |
 | [1827\.](Subchapter%20002%20%28II%29%20-%20Physical%20Searches/%C2%A7%2001827%20-%20Penalties.md) | Penalties. |
 | (a) | Prohibited activities. |
@@ -129,19 +132,20 @@
 
 |  |  |
 | :--- | ---: |
-| [1861\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001861%20-%20Definitions.md) | Definitions. |
-| [1862\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001862%20-%20Access%20to%20certain%20business%20records%20for%20foreign%20intelligence%20and%20international%20terrorism%20investigations.md) | Access to certain business records for foreign intelligence and international terrorism investigations. |
-| (a) | Application for authorization. |
+| [1861\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001861%20-%20Access%20to%20certain%20business%20records%20for%20foreign%20intelligence%20and%20international%20terrorism%20investigations.md) | Access to certain business records for foreign intelligence and international terrorism investigations. |
+| (a) | Application for order; conduct of investigation generally. |
 | (b) | Recipient and contents of application. |
 | (c) | Ex parte judicial order of approval. |
-| (d) | Compliance; nondisclosure. |
-| [1863\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001863%20-%20Congressional%20oversight.md) | Congressional oversight. |
+| (d) | Nondisclosure. |
+| (e) | Liability for good faith disclosure; waiver. |
+| [1862\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001862%20-%20Congressional%20oversight.md) | Congressional oversight. |
+| [1863\.](Subchapter%20004%20%28IV%29%20-%20Access%20to%20Certain%20Business%20Records%20for%20Foreign%20Intelligence%20Purposes/%C2%A7%2001863%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9356%2C%20title%20II%2C%20%C2%A7215%2C%20Oct.%2026%2C%202001%2C%20115%20Stat.%20287.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 8 sections 1532, 1534; title 18 sections 2232, 2511, 2522, 3121; title 47 section 1008.
+This chapter is referred to in section 403–3 of this title; title 8 sections 1532, 1534; title 18 sections 2232, 2511, 2522, 3121; title 47 section 1008.
 
 
 ---

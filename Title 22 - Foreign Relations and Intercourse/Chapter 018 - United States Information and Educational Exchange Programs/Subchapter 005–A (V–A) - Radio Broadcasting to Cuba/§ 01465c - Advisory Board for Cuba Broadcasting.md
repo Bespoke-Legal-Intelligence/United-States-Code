@@ -80,7 +80,7 @@ Section 245(c) of Pub. L. 101–246 provided that: “Each member of the Advisor
 
 #### Staff Director
 
-Section 245(d) of Pub. L. 101–246, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1325(5), Oct. 21, 1998, 112 Stat. 2681–782, provided that: “The Advisory Board shall have a staff director who shall be appointed by the Chairperson of the Advisory Board for Cuba Broadcasting.”
+Section 245(d) of Pub. L. 101–246, as amended by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1325(5), Oct. 21,1998, 112 Stat. 2681–782, provided that: “The Advisory Board shall have a staff director who shall be appointed by the Chairperson of the Advisory Board for Cuba Broadcasting.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

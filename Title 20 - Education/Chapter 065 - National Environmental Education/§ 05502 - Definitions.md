@@ -6,11 +6,11 @@ For the purposes of this chapter, the term—
 
 &emsp;(2) “Agency” means the United States Environmental Protection Agency;
 
-&emsp;(3) “Federal agency” or “agency of the United States” means any department, agency or other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation;
+&emsp;(3) “Federal agency” or “agency of the United States” means any department, agencyor other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation;
 
 &emsp;(4) “Secretary” means the Secretary of the Department of Education;
 
-&emsp;(5) “local educational agency” means any education agency as defined in section 8801 of this title) and shall include any tribal education agency;
+&emsp;(5) “local educational agency” means any education agency as defined in section 7801 of this title and shall include any tribal education agency;
 
 &emsp;(6) “not-for-profit” organization <sup>1</sup> means an organization, association, or institution described in section 501(c)(3) of title 26, which is exempt from taxation pursuant to the provisions of section 501(a) of title 26;
 
@@ -28,11 +28,17 @@ For the purposes of this chapter, the term—
 
 &emsp;(13) “Board of Directors” means the Board of Directors of the National Environmental Education and Training Foundation.
 
-(Pub. L. 101–619, §3, Nov. 16, 1990, 104 Stat. 3326; Pub. L. 103–382, title III, §391(m), Oct. 20, 1994, 108 Stat. 4023.)
+(Pub. L. 101–619, §3, Nov. 16, 1990, 104 Stat. 3326; Pub. L. 103–382, title III, §391(m), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 107–110, title X, §1076(n), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### Amendments
 
+2002—Par. (5). Pub. L. 107–110 substituted “7801” for “8801”.
+
 1994—Par. (5). Pub. L. 103–382 substituted “local educational agency” for “local education agency” and reference to section 8801 of this title for reference to section 198 of the Elementary and Secondary Education Act of 1965.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Section Referred to in Other Sections
 

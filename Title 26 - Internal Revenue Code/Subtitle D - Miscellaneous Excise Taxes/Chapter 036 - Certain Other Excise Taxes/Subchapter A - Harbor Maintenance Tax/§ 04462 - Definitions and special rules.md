@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “commercial cargo” means any cargo transported on a commercial vessel,including passengers transported for compensation or hire.
+&emsp;&emsp;The term “commercial cargo” means any cargo transported on a commercial vessel, including passengers transported for compensation or hire.
 
 #### (B) Certain items not included
 
@@ -122,7 +122,7 @@ No tax shall be imposed under this subchapter with respect to the loading or unl
 
 &emsp;&emsp;&emsp;(i) the imposition of the tax imposed by this subchapter at such port (or to any transaction or class of transactions at such port) is not likely to divert a significant amount of cargo from such port to a port in a country contiguous to the United States, or that any such diversion is not likely to result in significant economic loss to such port, or
 
-&emsp;&emsp;&emsp;(ii) the nonapplicability of such tax at such port (or to any transaction or class oftransactions at such port) is likely to result in significant economic loss to any other United States port.
+&emsp;&emsp;&emsp;(ii) the nonapplicability of such tax at such port (or to any transaction or class of transactions at such port) is likely to result in significant economic loss to any other United States port.
 
 #### (e) Exemption for United States
 
@@ -188,7 +188,7 @@ For prior section 4462, see Prior Provisions note set out preceding section 4471
 
 <b>1996</b>—Subsec. (b)(1)(D). Pub. L. 104–188 inserted before period at end “, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters”.
 
-<b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–647, §2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
+<b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–647, §2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland forultimate use or consumption in the United States mainland,”.
 
 Subsec. (g)(3). Pub. L. 100–647, §6110(a), added par. (3).
 

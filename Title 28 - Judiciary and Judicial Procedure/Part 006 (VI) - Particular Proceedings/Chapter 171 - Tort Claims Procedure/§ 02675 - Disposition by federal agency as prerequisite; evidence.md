@@ -2,7 +2,7 @@
 
 (a) An action shall not be instituted upon a claim against the United States for money damages for injury or loss of property or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment, unless the claimant shall have first presented the claim to the appropriate Federal agency and his claim shall have been finally denied by the agency in writing and sent by certified or registered mail. The failure of an agency to make final disposition of a claim within six months after it is filed shall, at the option of the claimant any time thereafter, be deemed a final denial of the claim for purposes of this section. The provisions of this subsection shall not apply to such claims as may be asserted under the Federal Rules of Civil Procedure by third party complaint, cross-claim, or counterclaim.
 
-(b) Action under this section shall not be instituted for any sum in excess of the amount of the claim presented to the federal agency, except where the increased amount is based upon newly discovered evidence not reasonably discoverable at the time or presenting the claim to the federal agency, or upon allegation and proof of intervening facts, relating to the amount of the claim.
+(b) Action under this section shall not be instituted for any sum in excess of the amount of the claim presented to the federal agency, except where the increased amount is based upon newly discovered evidence not reasonably discoverable at the time of presenting the claim to the federal agency, or upon allegation and proof of intervening facts, relating to the amount of the claim.
 
 (c) Disposition of any claim by the Attorney General or other head of a federal agency shall not be competent evidence of liability or amount of damages.
 
@@ -28,7 +28,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 #### Amendments
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–506, §2(a), required that all administrative claims be filed with the agency or department and finally denied by the agency and sent by certified or registered mail prior to the filing of a court action against the United States, provided that the claimant be given the option of considering the claim to have been denied if the agency fails to make final disposition of the claim within six months of presentation of the claim to the agency, and provided that the requirements of the subsection would not apply to claims asserted under the Federal Rules of Civil Procedure by third party complaint, cross-claim, or counterclaim.
+<b>1966</b>—Subsec. (a). Pub. L. 89–506, §2(a), required that all administrative claims be filed with the agency or department and finally denied by the agency and sentby certified or registered mail prior to the filing of a court action against the United States, provided that the claimant be given the option of considering the claim to have been denied if the agency fails to make final disposition of the claim within six months of presentation of the claim to the agency, and provided that the requirements of the subsection would not apply to claims asserted under the Federal Rules of Civil Procedure by third party complaint, cross-claim, or counterclaim.
 
 Subsec. (b). Pub. L. 89–506, §2(b), struck out provisions under which a claimant could, upon 15 days written notice, withdraw a claim from the agency and institute an action thereon.
 

@@ -8,7 +8,7 @@
 
 #### Payments by Union Station Redevelopment Corporation or Successor on First Deed of Trust
 
-Pub. L. 106–346, §101(a) \[title I\], Oct. 23, 2000, 114 Stat. 1356, 1356A–14, provided in part: “That, as part of the Washington Union Station transaction in which the Secretary assumed the first deed of trust on the property and, where the Union Station Redevelopment Corporation or any successor is obligated to make payments on such deed of trust on the Secretary's behalf, including payments on and after September 30, 1988, the Secretary is authorized to receive such payments directly from the Union Station Redevelopment Corporation, credit them to the appropriation charged for the first deed of trust, and make payments on the first deed of trust with those funds”.
+Pub. L. 106–346, §101(a) \[title I\], Oct. 23, 2000, 114 Stat. 1356, 1356A–14, which provided that as part of the Washington Union Station transaction in which the Secretary assumed the first deed of trust on the property and, where the Union Station Redevelopment Corporation or any successor was obligated to make payments on such deed of trust on the Secretary's behalf, including payments on and after Sept. 30, 1988, the Secretary could receive such payments directly from the Union Station Redevelopment Corporation, credit them to the appropriation charged for the first deed of trust, and make payments on the first deed of trust with those funds, was from the Department of Transportation and Related Agencies Appropriations Act, 2001, and was not repeated in subsequent appropriations acts.
 
 Similar provisions were contained in the following prior appropriation acts:
 

@@ -6,7 +6,7 @@ Nothing in sections 544 to 544p of this title shall—
 
 &emsp;(1) affect or modify any treaty or other rights of any Indian tribe;
 
-&emsp;(2) except as provided in section 13(c), authorize the appropriation or use of water byany Federal, State, or local agency, Indian tribe, or any other entity or individual;
+&emsp;(2) except as provided in section 13(c), authorize the appropriation or use of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual;
 
 &emsp;(3) except as provided in section 13(c), affect the rights or jurisdictions of the United States, the States, Indian tribes or other entities over waters of any river or stream or over any ground water resource or affect or interfere with transportation activities on any such river or stream;
 
@@ -30,7 +30,7 @@ Except for the offsite disposal of excavation material, nothing in sections 544 
 
 #### (c) Rights and responsibilities of non-Federal timber land owners
 
-Except for the management, utilization, or disposal of timber resources of non-Federal lands within the special management areas, nothing in sections 544 to 544p of this title shall affect the rights and responsibilities of non-Federal timber land owners under the Oregon and Washington Forest Practices Acts or any county regulations which under applicable State law supersede such Acts.
+Except for the management, utilization, or disposal of timber resources of non-Federal lands within the special management areas,nothing in sections 544 to 544p of this title shall affect the rights and responsibilities of non-Federal timber land owners under the Oregon and Washington Forest Practices Acts or any county regulations which under applicable State law supersede such Acts.
 
 #### (d) Interstate compacts
 

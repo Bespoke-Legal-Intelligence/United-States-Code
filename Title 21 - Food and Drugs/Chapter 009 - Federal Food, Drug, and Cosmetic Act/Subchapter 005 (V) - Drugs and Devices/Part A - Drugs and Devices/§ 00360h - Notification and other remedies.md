@@ -4,7 +4,7 @@
 
 If the Secretary determines that—
 
-&emsp;(1) a device intended for human use which is introduced or delivered for introduction intointerstate commerce for commercial distribution presents an unreasonable risk of substantial harm to the public health, and
+&emsp;(1) a device intended for human use which is introduced or delivered for introduction into interstate commerce for commercial distribution presents an unreasonable risk of substantial harm to the public health, and
 
 &emsp;(2) notification under this subsection is necessary to eliminate the unreasonable risk of such harm and no more practicable means is available under the provisions of this chapter (other than this section) to eliminate such risk,
 

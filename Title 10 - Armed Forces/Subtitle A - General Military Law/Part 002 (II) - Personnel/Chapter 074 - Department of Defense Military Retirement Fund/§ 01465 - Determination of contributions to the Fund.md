@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) the current estimate of the value of the single level percentage of basic pay and of compensation (paid pursuant to section 206 of title 37) to be determined under subsection (c)(1)(B) at the time of the next actuarial valuation under subsection (c); and
 
-&emsp;&emsp;(ii) the total amount of basic pay and of compensation (paid pursuant to section 206 of title 37) expected to be paid during that fiscal year to members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-time National Guard duty other than for training) who are not otherwise described in subparagraph (A)(ii).
+&emsp;&emsp;(ii) the total amount of basic pay and of compensation (paid pursuant to section 206 of title 37) expected to be paid during that fiscal year to members of the Ready Reserve of the armed forces (other than the Coast Guard and other than members on full-timeNational Guard duty other than for training) who are not otherwise described in subparagraph (A)(ii).
 
 (2) The amount determined under paragraph (1) for any fiscal year is the amount needed to be appropriated to the Department of Defense for that fiscal year for payments to be made to the Fund during that year under section 1466(a) of this title. The President shall include not less than the full amount so determined in the budget transmitted to Congress for that fiscal year under section 1105 of title 31. The President may comment and make recommendations concerning any such amount.
 
@@ -32,7 +32,7 @@
 
 (4) Contributions to the Fund in accordance with amortization schedules under paragraphs (2) and (3) shall be made as provided in section 1466(b) of this title.
 
-(d) All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and inaccordance with generally accepted actuarial principles and practices.
+(d) All determinations under this section shall be made using methods and assumptions approved by the Board of Actuaries (including assumptions of interest rates and inflation) and in accordance with generally accepted actuarial principles and practices.
 
 (e) The Secretary of Defense shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 

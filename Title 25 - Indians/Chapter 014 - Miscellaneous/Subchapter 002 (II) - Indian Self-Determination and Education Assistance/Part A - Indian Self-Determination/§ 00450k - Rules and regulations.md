@@ -40,7 +40,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 #### (e) Exceptions in or waiver of regulations
 
-The Secretary may, with respect to a contract entered into under this subchapter, make exceptions in the regulations promulgated to carry out this subchapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this subchapter, and is not contrary to statutory law. In reviewing each request, theSecretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 450f of this title.
+The Secretary may, with respect to a contract entered into under this subchapter, make exceptions in the regulations promulgated to carry out this subchapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this subchapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 450f of this title.
 
 (Pub. L. 93–638, title I, §107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, §207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, §203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §105, Oct. 25, 1994, 108 Stat. 4269; Pub. L. 103–435, §22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–133, §1, Apr. 25, 1996, 110 Stat. 1320; Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399.)
 
@@ -48,7 +48,7 @@ The Secretary may, with respect to a contract entered into under this subchapter
 
 The Contract Disputes Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 41 and Tables.
 
-The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec. (d)(2)(C), is title I of Pub. L. 103–413, Oct. 25, 1994, 108 Stat. 4250, which enacted section 450<i>l</i> of this title, amended this section and sections 450b, 450c, 450e, 450f, 450j, 450j–1, 450m, and 450m–1 of this title, and enacted provisions set out as a note under section 450 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 450 of this title and Tables.
+The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec. (d)(2)(C), is title I of Pub. L. 103–413, Oct. 25, 1994, 108 Stat. 4250, which enacted section 450<i>l</i> of this title, amended this section and sections 450b, 450c, 450e, 450f, 450j, 450j–1, 450m, and 450m–1 of this title, and enacted provisions set out as a noteunder section 450 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 450 of this title and Tables.
 
 #### Amendments
 

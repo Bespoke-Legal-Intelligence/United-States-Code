@@ -4,7 +4,7 @@
 
 The Secretary shall not include in the benefit base for justifying Federal flood damage reduction projects—
 
-&emsp;(1)(A) any new or substantially improved structure (other than a structure necessary for conducting a water-dependent activity) built in the 100-year flood plain with a first floorelevation less than the 100-year flood elevation after July 1, 1991; or
+&emsp;(1)(A) any new or substantially improved structure (other than a structure necessary for conducting a water-dependent activity) built in the 100-year flood plain with a first floor elevation less than the 100-year flood elevation after July 1, 1991; or
 
 &emsp;(B) in the case of a county substantially located within the 100-year flood plain, any new or substantially improved structure (other than a structure necessary for conducting a water-dependent activity) built in the 10-year flood plain after July 1, 1991; and
 

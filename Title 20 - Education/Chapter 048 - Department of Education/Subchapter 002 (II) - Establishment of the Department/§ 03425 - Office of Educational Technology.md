@@ -18,23 +18,19 @@ The Director of the Office of Educational Technology (hereafter in this section 
 
 #### (c) Officers and employees
 
-The Director is authorized to select, appoint, and employ such officers and employees as may be necessary to carry out the functions of the Office, subject to the provisions of title 5 (governing appointments in the competitive service), and the provisions of chapter 51 and subchapter III of chapter 53 of such title (relating to classification and General Schedule pay rates).
+The Director is authorized to select, appoint, and employ such officers and employees as may be necessary to carry out the functions of theOffice, subject to the provisions of title 5 (governing appointments in the competitive service), and the provisions of chapter 51 and subchapter III of chapter 53 of such title (relating to classification and General Schedule pay rates).
 
 #### (d) Experts and consultants
 
 The Secretary may obtain the services of experts and consultants in accordance with section 3109 of title 5.
 
-(Pub. L. 96–88, title II, §216, as added Pub. L. 103–227, title II, §233(a), Mar. 31, 1994, 108 Stat. 154.)
+(Pub. L. 96–88, title II, §218, formerly §216, as added Pub. L. 103–227, title II, §233(a), Mar. 31, 1994, 108 Stat. 154; renumbered §218, Pub. L. 107–110, title X, §1072(e)(3), Jan. 8, 2002, 115 Stat. 2090.)
 
 #### References in Text
 
 Section 5862 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 103–382, title III, §361(a), Oct. 20, 1994, 108 Stat. 3974.
 
 The provisions of title 5 (governing appointments in the competitive service), referred to in subsec. (c), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
-
-#### Codification
-
-Another section 216 of Pub. L. 96–88 was enacted by Pub. L. 103–382 and is classified to section 3423d of this title.
 
 #### Transfer of Office of Training Technology Transfer
 

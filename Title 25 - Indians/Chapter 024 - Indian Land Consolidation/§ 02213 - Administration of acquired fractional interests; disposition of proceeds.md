@@ -20,7 +20,7 @@ Subject to the conditions described in subsection (b)(1) of this section, an Ind
 
 &emsp;&emsp;&emsp;(i) the Secretary makes any of the findings under paragraph (2)(A); or
 
-&emsp;&emsp;&emsp;(ii) an amount equal to the purchase price of that interest has been paid intothe Acquisition Fund created under section 2215 of this title.
+&emsp;&emsp;&emsp;(ii) an amount equal to the purchase price of that interest has been paid into the Acquisition Fund created under section 2215 of this title.
 
 #### (2) Exception
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established a fund consisting of such amounts as may be appropriated undersubsection (g) of this section. Subject to the provisions of this section, the Director of the Office, after consultation with the advisory council established under section 300cc–40a of this title, may expend amounts in the Fund for the purpose of conducting and supporting such AIDS activities, including projects of AIDS research, as may be authorized in this chapter for the National Institutes of Health.
+&emsp;There is established a fund consisting of such amounts as may be appropriated under subsection (g) of this section. Subject to the provisions of this section, the Director of the Office, after consultation with the advisory council established under section 300cc–40a of this title, may expend amounts in the Fund for the purpose of conducting and supporting such AIDS activities, including projects of AIDS research, as may be authorized in this chapter for the National Institutes of Health.
 
 #### (2) Preconditions to use of Fund
 

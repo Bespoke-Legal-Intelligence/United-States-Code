@@ -46,7 +46,7 @@
 
 #### (5) Ethics advisory boards
 
-&emsp;(A) Any advisory board convened for purposes of paragraph (1) shall be known as an ethics advisory board (in this paragraph referred to as an “ethics board”).
+&emsp;(A) Any advisory board convened for purposes of paragraph (1) shall be known as anethics advisory board (in this paragraph referred to as an “ethics board”).
 
 &emsp;(B)(i) An ethics board shall advise, consult with, and make recommendations to the Secretary regarding the ethics of the project of biomedical or behavioral research with respect to which the board has been convened.
 
@@ -70,7 +70,7 @@
 
 &emsp;(F) The Secretary shall designate an individual from among the members of an ethics board to serve as the chair of the board.
 
-&emsp;(G) In carrying out subparagraph (B)(i) with respect to a project of research, an ethicsboard shall conduct inquiries and hold public hearings.
+&emsp;(G) In carrying out subparagraph (B)(i) with respect to a project of research, an ethics board shall conduct inquiries and hold public hearings.
 
 &emsp;(H) In carrying out subparagraph (B)(i) with respect to a project of research, an ethics board shall have access to all relevant information possessed by the Department of Health and Human Services, or available to the Secretary from other agencies.
 

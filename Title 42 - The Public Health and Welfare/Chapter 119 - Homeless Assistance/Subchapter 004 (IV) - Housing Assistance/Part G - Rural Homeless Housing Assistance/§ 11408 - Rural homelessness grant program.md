@@ -118,7 +118,7 @@ Organizations eligible to receive a grant under subsection (a) of this section s
 
 #### (g) Participation of homeless individuals
 
-The Secretary shall, by regulation, require each eligible organization receiving a grant under this section to provide for the participation of not less than 1 homeless individual orformer homeless individual on the board of directors or other equivalent policy making entity of the recipient, to the extent that such entity considers and makes policies and decisions regarding any housing, services, or other assistance of the eligible organization receiving the grant under this section. The Secretary may grant waivers to recipients unable to meet the requirement under the preceding sentence if the recipient agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
+The Secretary shall, by regulation, require each eligible organization receiving a grant under this section to provide for the participation of not less than 1 homeless individual or former homeless individual on the board of directors or other equivalent policy making entity of the recipient, to the extent that such entityconsiders and makes policies and decisions regarding any housing, services, or other assistance of the eligible organization receiving the grant under this section. The Secretary may grant waivers to recipients unable to meet the requirement under the preceding sentence if the recipient agrees to otherwise consult with homeless or formerly homeless individuals in considering and making such policies and decisions.
 
 #### (h) Evaluation
 

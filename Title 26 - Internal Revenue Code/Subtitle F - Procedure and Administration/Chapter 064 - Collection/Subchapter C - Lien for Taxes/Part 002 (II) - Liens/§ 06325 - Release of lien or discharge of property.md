@@ -26,7 +26,7 @@ Subject to such regulations as the Secretary may prescribe, the Secretary shall 
 
 &emsp;&emsp;(B) the Secretary determines at any time that the interest of the United States in the part to be so discharged has no value.
 
-> &emsp;In determining the value of the interest of the United States in the part to be so discharged, the Secretary shall give consideration to the value of such part and to such liens thereon as have priority over the lien of the United States.
+> &emsp;In determining the value of the interest of the United States in the part to be so discharged, the Secretary shall give consideration to thevalue of such part and to such liens thereon as have priority over the lien of the United States.
 
 #### (3) Substitution of proceeds of sale
 
@@ -96,7 +96,7 @@ If the Secretary determines that, because of confusion of names or otherwise, an
 
 #### (2) Revocation of certificate of release or nonattachment
 
-&emsp;If the Secretary determines that a certificate of release or nonattachment of a lien imposed by section 6321 was issued erroneously or improvidently, or if a certificate of release of such lien was issued pursuant to a collateral agreement entered into in connection with a compromise under section 7122 which has been breached, and if the period of limitation on collection after assessment has not expired, the Secretary may revoke such certificate and reinstate the lien—
+&emsp;If the Secretary determines that a certificate of release or nonattachment of a lien imposed by section 6321 was issued erroneously or improvidently, or if a certificate of release of such lien was issued pursuant to a collateral agreement entered into in connection with a compromise under section 7122 which has been breached, and if the period of limitation on collection after assessment has not expired,the Secretary may revoke such certificate and reinstate the lien—
 
 &emsp;&emsp;(A) by mailing notice of such revocation to the person against whom the tax was assessed at his last known address, and
 

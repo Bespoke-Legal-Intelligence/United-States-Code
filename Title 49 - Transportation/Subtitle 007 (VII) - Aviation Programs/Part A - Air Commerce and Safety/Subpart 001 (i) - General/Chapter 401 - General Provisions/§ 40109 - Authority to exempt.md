@@ -48,7 +48,7 @@ Smaller Aircraft.—(1) An air carrier is exempt from section 41101(a)(1) of thi
 
 (g)
 
-Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that the Secretary decides an exemption is in the public interest, the Secretary may exempt by order a foreign air carrier from the requirements andlimitations of this part for not more than 30 days to allow the foreign air carrier to carry passengers or cargo in interstate air transportation in certain markets if the Secretary finds that—
+Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that the Secretary decides an exemption is in the public interest, the Secretary may exempt by order a foreign air carrier from the requirements and limitations of this part for not more than 30 days to allow the foreign air carrier to carry passengers or cargo in interstate air transportation in certain markets if the Secretary finds that—
 
 &emsp;(A) because of an emergency created by unusual circumstances not arising in the normal course of business, air carriers holding certificates under section 41102 of this title cannot accommodate traffic in those markets;
 
@@ -186,7 +186,7 @@ In subsection (b), the word “Administrator” in section 307(e) of the Federal
 
 In subsection (d), before clause (1), the words “to the extent” are omitted as surplus.
 
-In subsection (f)(1), before clause (A), the words “Subject to paragraph (5) of this subsection” and “in air transportation” are omitted as surplus. The words “the Secretary may exempt” are substituted for “as may be prescribed in regulations promulgated by the Board” for clarity and to eliminate unnecessary words. In clause (A)(ii), the word “capacity” is omitted as surplus. In clause (B), the word “reasonable” is omitted as surplus. The word “prescribes” is substituted for “adopt” for consistency in the revised title and with other titles of the Code. The words “in the public interest” are omitted as surplus.
+In subsection (f)(1), before clause (A), the words “Subject to paragraph (5) of this subsection” and “in air transportation” are omitted as surplus. The words “the Secretary may exempt” are substituted for “as may be prescribed in regulations promulgated by the Board” for clarity and to eliminate unnecessary words. In clause (A)(ii), the word “capacity” is omitted as surplus. In clause (B), the word “reasonable” is omitted assurplus. The word “prescribes” is substituted for “adopt” for consistency in the revised title and with other titles of the Code. The words “in the public interest” are omitted as surplus.
 
 In subsection (f)(2), the words “by regulation” are omitted as surplus. The word “payload” is substituted for “property” for consistency in this subsection. The words “specified in this paragraph” are omitted as surplus.
 

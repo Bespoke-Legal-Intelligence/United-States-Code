@@ -142,7 +142,7 @@ Subsec. (c). Pub. L. 93–647, §3(h), added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–279 effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L.106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
+Amendment by Pub. L. 106–279 effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
 
 #### Effective Date of 1997 Amendments
 
@@ -174,7 +174,7 @@ Section 13711(c) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1989 Amendment
 
-Section 10403(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment had been included in section 1883(e)(1) of the Tax Reform Act of 1986 \[Pub. L. 99–514, amending section 1397b of this title\] on the date of the enactment of such Act \[Oct. 22, 1986\].”
+Section 10403(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall take effect as if such amendment had been included in section 1883(e)(1) of the Tax Reform Act of 1986 \[Pub. L. 99–514, amending section 1397b of this title\] on the date of the enactment of such Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1975 Amendment
 
@@ -214,7 +214,7 @@ Purpose.—It is the purpose of this subpart \[subpart 1 of part E of title V of
 
 #### Guam, Puerto Rico, Virgin Islands, and Commonwealth of Northern Mariana Islands
 
-Section 103(c) of Pub. L. 96–272 provided that in the case of Guam, Puerto Rico, the Virgin Islands, and theCommonwealth of the Northern Mariana Islands, subsec. (b)(1) of this section (as otherwise amended by section 103(a) of Pub. L. 96–272), is deemed to read as follows:
+Section 103(c) of Pub. L. 96–272 provided that in the case of Guam, Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands, subsec. (b)(1) of this section (as otherwise amended by section 103(a) of Pub. L. 96–272), is deemed to read as follows:
 
 “(1) provide that (A) the State agency designated pursuant to section 602(a)(3) of this title to administer or supervise the administration of the plan of the State approved under part A of this subchapter will administer or supervise the administration of such plan for child welfare services, and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering such plan for child welfare services, the organizational unit in such State or local agency established pursuant to section 602(a)(15) of this title will be responsible for furnishing such child welfare services;”.
 
@@ -228,7 +228,7 @@ Section 240(f)(3) of Pub. L. 90–248 provided that in the case of any State whi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 623, 624, 625, 672, 1320a–9 of this title.
+This section is referred to in sections 623, 624, 625, 672, 1320a–9, 14914 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -22,7 +22,7 @@ Transfer of Ownership.—
 
 (e)
 
-Involuntary Transfer.—When an individual author's ownership of a copyright, or of any of the exclusive rights under a copyright, has not previously been transferred voluntarily by that individual author, no action by any governmental body or other official or organization purporting to seize, expropriate, transfer, or exercise rights of ownership with respect to thecopyright, or any of the exclusive rights under a copyright, shall be given effect under this title, except as provided under title 11.
+Involuntary Transfer.—When an individual author's ownership of a copyright, or of any of the exclusive rights under a copyright, has not previously been transferred voluntarily by that individual author, no action by any governmental body or other official or organization purporting to seize, expropriate, transfer, or exercise rights of ownership with respect to the copyright, or any of the exclusive rights under a copyright, shall be given effect under this title, except as provided under title 11.
 
 (Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2568; Pub. L. 95–598, title III, §313, Nov. 6, 1978, 92 Stat. 2676.)
 

@@ -1,6 +1,6 @@
 ### §§665 to 665e. Repealed. Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695
 
-Section 665, Pub. L. 93–344, title VI, §601, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–602; amended Pub. L. 103–66, title XIV, §14002(a),\(b), Aug. 10, 1993, 107 Stat. 683, defined terms and provided for points of order in cases where measures would exceed discretionary spending limits.
+Section 665, Pub. L. 93–344, title VI, §601, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–602; amended Pub. L. 103–66, title XIV, §14002(a), (b), Aug. 10, 1993, 107 Stat. 683, defined terms and provided for points of order in cases where measures would exceed discretionary spending limits.
 
 A prior section 601 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 323, was classified to section 11 of former Title 31, prior to repeal and reenactment as sections 1105(a)(15), 1106(b), and 1108(d) of Title 31, Money and Finance, by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
@@ -22,9 +22,9 @@ A prior section 605 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 325, 
 
 Section 665e, Pub. L. 93–344, title VI, §606, as added Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–606; amended Pub. L. 104–121, title I, §103(c), Mar. 29, 1996, 110 Stat. 849; Pub. L. 104–193, title II, §211(d)(5)(C), Aug. 22, 1996, 110 Stat. 2192, related to 5-year budget resolutions and requirement that budget resolutions conform to Balanced Budget and Emergency Deficit Control Act of 1985.
 
+A prior section 606 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 325, was classified to section 661 of this title, prior to repeal by Pub. L. 99–177, title II, §223, Dec. 12, 1985, 99 Stat. 1060.
+
 #### Effective Date
 
 Section 607 of title VI of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13111, Nov. 5, 1990, 104 Stat. 1388–607, and amended by Pub. L. 103–66, title XIV, §14002(c)(3)(B), Aug. 10, 1993, 107 Stat. 684, provided that title VI of Pub. L. 93–344, enacting this subchapter, was effective Nov. 5, 1990, and was applicable to fiscal years 1991 to 1998, prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695.
-
-A prior section 606 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 325, was classified to section 661 of this title, prior to repeal by Pub. L. 99–177, title II, §223, Dec. 12, 1985, 99 Stat. 1060.
 

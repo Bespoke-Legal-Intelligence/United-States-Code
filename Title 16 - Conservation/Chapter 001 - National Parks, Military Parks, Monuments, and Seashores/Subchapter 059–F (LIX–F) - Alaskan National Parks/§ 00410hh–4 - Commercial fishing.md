@@ -44,7 +44,7 @@ Savings.—(1) Nothing in this Act shall alter or affect the provisions of secti
 
 “(d)
 
-Study.—(1) Not later than one year after the date funds are made available, the Secretary, in consultation with the State, the National Marine Fisheries Service, the International Pacific Halibut Commission,and other affected agencies shall develop a plan for a comprehensive multi-agency research and monitoring program to evaluate the health of fisheries resources in the park's marine waters, to determine the effect, if any, of commercial fishing on—
+Study.—(1) Not later than one year after the date funds are made available, the Secretary, in consultation with the State, the National Marine Fisheries Service, the International Pacific Halibut Commission, and other affected agencies shall develop a plan for a comprehensive multi-agency research and monitoring program to evaluate the health of fisheries resources in the park's marine waters, to determine the effect, if any, of commercial fishing on—
 
 &emsp;“(A) the productivity, diversity, and sustainability of fishery resources in such waters; and
 
@@ -102,7 +102,7 @@ General.—
 
 The Beardslee Islands and Upper Dundas Bay.—Commercial fishing is prohibited in the designated wilderness waters within Glacier Bay National Park and Preserve, including the waters of the Beardslee Islands and Upper Dundas Bay. Any individual who—
 
-&emsp;“(1) on or before August 1, 1999, provides a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that he or she has engaged in commercial fishing for Dungeness crab in the designated wilderness waters of the Beardslee Islands or Dundas Bay within Glacier Bay National Park pursuant to a valid commercial fishing permit in at least six of the years during the period 1987 through 1998;
+&emsp;“(1) on or before August 1, 1999, provides a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that he or she has engaged in commercial fishing for Dungeness crab in the designated wilderness waters of the Beardslee Islands orDundas Bay within Glacier Bay National Park pursuant to a valid commercial fishing permit in at least six of the years during the period 1987 through 1998;
 
 &emsp;“(2) at the time of receiving compensation based on the Secretary of the Interior's determination as described below—
 

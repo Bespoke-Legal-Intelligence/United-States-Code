@@ -44,7 +44,7 @@ For purposes of this subtitle—
 
 > &emsp;then the person making such sale or other disposition shall be considered to have held such property for more than 1 year.
 
-&emsp;(13) In determining the period for which the taxpayer has held qualified replacement property (within the meaning of section 1042(b)) the acquisition of which resulted under section 1042 in the nonrecognition of any part ofthe gain realized on the sale of qualified securities (within the meaning of section 1042(b)), there shall be included the period for which such qualified securities had been held by the taxpayer.
+&emsp;(13) In determining the period for which the taxpayer has held qualified replacement property (within the meaning of section 1042(b)) the acquisition of which resulted under section 1042 in the nonrecognition of any part of the gain realized on the sale of qualified securities (within the meaning of section 1042(b)), there shall be included the period for which such qualified securities had been held by the taxpayer.
 
 &emsp;(14) In determining the period for which the taxpayer has held property the acquisition of which resulted under section 1043 in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property had been held as of the date of such sale.
 
@@ -118,7 +118,7 @@ Pub. L. 94–455, §1402(b)(1)(Q), provided that “6 months” would be changed
 
 #### Effective Date of 2000 Amendment
 
-Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
+Amendment by section 1(a)(7) \[title I, §116(b)(2)\] of Pub. L. 106–554 applicable to qualified empowerment zone assets acquired after Dec. 21, 2000, see section 1(a)(7) \[title I, §116(c)\] of Pub. L. 106–554, set out as a note under section 1016 of this title.
 
 Amendment by section 1(a)(7) \[title IV, §401(h)(1)\] of Pub. L. 106–554 effective Dec. 21, 2000, see section 1(a)(7) \[title IV, §401(j)\] of Pub. L. 106–554, set out as a note under section 1032 of this title.
 

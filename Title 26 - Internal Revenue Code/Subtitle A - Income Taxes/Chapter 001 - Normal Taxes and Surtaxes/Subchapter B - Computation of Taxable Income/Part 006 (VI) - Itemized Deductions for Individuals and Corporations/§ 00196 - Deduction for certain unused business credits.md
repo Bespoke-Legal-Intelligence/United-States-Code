@@ -6,7 +6,7 @@ If any portion of the qualified business credits determined for any taxable year
 
 #### (b) Taxpayer's dying or ceasing to exist
 
-If a taxpayer dies or ceases to exist before the first taxable year following the last taxable year for which the qualified business credits could, under section 39, have been allowed as a credit, the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
+If a taxpayer dies or ceases to exist before the first taxable year following the last taxable year for which the qualified business credits could, under section 39, have been allowed as a credit,the amount described in subsection (a) (or the proper portion thereof) shall, under regulations prescribed by the Secretary, be allowed to the taxpayer as a deduction for the taxable year in which such death or cessation occurs.
 
 #### (c) Qualified business credits
 
@@ -26,9 +26,11 @@ For purposes of this section, the term “qualified business credits” means—
 
 &emsp;(7) the Indian employment credit determined under section 45A(a),
 
-&emsp;(8) the employer Social Security credit determined under section 45B(a), and
+&emsp;(8) the employer Social Security credit determined under section 45B(a),
 
-&emsp;(9) the new markets tax credit determined under section 45D(a).
+&emsp;(9) the new markets tax credit determined under section 45D(a), and
+
+&emsp;(10) the small employer pension plan startup cost credit determined under section 45E(a).
 
 #### (d) Special rule for investment tax credit and research credit
 
@@ -38,9 +40,15 @@ Subsection (a) shall be applied by substituting “an amount equal to 50 percent
 
 &emsp;(2) the research credit determined under section 41(a) for a taxable year beginning before January 1, 1990.
 
-(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII,§§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610.)
+(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(2), June 7, 2001, 115 Stat. 110.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### Amendments
+
+<b>2001</b>—Subsec. (c)(10). Pub. L. 107–16, §§619(c)(2), 901, temporarily added par. (10). See Effective and Termination Dates of 2001 Amendment note below.
 
 <b>2000</b>—Subsec. (c)(9). Pub. L. 106–554 added par. (9).
 
@@ -70,6 +78,12 @@ Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted “and research credit
 
 <b>1984</b>—Pub. L. 98–369 amended section generally, substituting provisions relating to deduction for certain unused business credits for provisions relating to deduction for certain unused investment credits.
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 2001, with respect to qualified employer plans established after such date, see section 619(d) of Pub. L. 107–16, set out as a note under section 38 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to taxable, plan, or limitation years beginning after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such years as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–554 applicable to investments made after Dec. 31, 2000, see §1(a)(7) \[title I, §121(e)\] of Pub. L. 106–554, set out as a note under section 38 of this title.
@@ -84,7 +98,7 @@ Amendment by Pub. L. 104–188 applicable to individuals who begin work for the 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by section 13322(c)(2) of Pub. L. 103–66 applicable to wages paid or incurred after Dec. 31, 1993, see section 13322(f) of Pub. L. 103–66, set out as a note under section 38 of this title.
+Amendment by section 13322(c)(2) of Pub. L. 103–66 applicable to wages paid or incurred after Dec. 31, 1993,see section 13322(f) of Pub. L. 103–66, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 

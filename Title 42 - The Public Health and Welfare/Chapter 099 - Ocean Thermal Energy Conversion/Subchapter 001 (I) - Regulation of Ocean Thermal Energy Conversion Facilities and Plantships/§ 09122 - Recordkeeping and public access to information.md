@@ -8,7 +8,7 @@ Each licensee shall establish and maintain such records, make such reports, and 
 
 Any information reported to or collected by the Administrator under this chapter which is exempt from disclosure pursuant to section 552(b)(4) of title 5 (relating to trade secrets and commercial or financial information which is privileged or confidential) shall not—
 
-&emsp;(1) be publicly disclosed by the Administrator or by any other officer or employee ofthe United States, unless the Administrator has—
+&emsp;(1) be publicly disclosed by the Administrator or by any other officer or employee of the United States, unless the Administrator has—
 
 &emsp;&emsp;(A) determined that the disclosure is necessary to protect the public health or safety or the environment against an unreasonable risk of injury, and
 

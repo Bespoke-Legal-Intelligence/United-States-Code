@@ -10,7 +10,7 @@
 
 &emsp;(4) Such Medical Directors as may be appointed to suit the needs of the Department, who shall be either a qualified doctor of medicine or a qualified doctor of dental surgery or dental medicine.
 
-&emsp;(5) A Director of Nursing Service, who shall be a qualified registered nurse and who shall be responsible to the Under Secretary for Health for the operation of the Nursing Service.
+&emsp;(5) A Director of Nursing Service, who shall be a qualified registered nurse and who shall be responsible to, and report directly to, the Under Secretary for Health for the operation of the Nursing Service.
 
 &emsp;(6) A Director of Pharmacy Service, a Director of Dietetic Service, a Director of Podiatric Service, and a Director of Optometric Service, who shall be responsible to the Under Secretary for Health for the operation of their respective Services.
 
@@ -30,7 +30,7 @@
 
 &emsp;(3) one shall be a qualified physician trained in, or having suitable extensive experience in, geriatrics who shall be responsible to the Under Secretary for Health for evaluating all research, educational, and clinical health-care programs carried out in the Administration in the field of geriatrics and who shall serve as the principal advisor to the Under Secretary for Health with respect to such programs.
 
-(c) Appointments under subsection (a) shall be made by the Secretary. In the case of appointments under paragraphs (1), (2), (3), (4), and (8) ofthat subsection, such appointments shall be made upon the recommendation of the Under Secretary for Health.
+(c) Appointments under subsection (a) shall be made by the Secretary. In the case of appointments under paragraphs (1), (2), (3), (4), and (8) of that subsection, such appointments shall be made upon the recommendation of the Under Secretary for Health.
 
 (d) Except as provided in subsection (e)—
 
@@ -54,9 +54,11 @@
 
 &emsp;(2) with respect to the programs established under section 1712A of this title, a clinician with appropriate expertise in those programs is responsible to the Under Secretary for the management of those programs.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, §344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, §206, Nov. 1, 2000, 114 Stat. 1842.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, titleII, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, §344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, §206, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 107–135, title I, §131, Jan. 23, 2002, 115 Stat. 2454.)
 
 #### Amendments
+
+2002—Subsec. (a)(5). Pub. L. 107–135 inserted “, and report directly to,” after “responsible to”.
 
 2000—Subsec. (a)(9), (10). Pub. L. 106–419 added par. (9) and redesignated former par. (9) as (10).
 

@@ -6,7 +6,7 @@ For purposes of this chapter—
 
 &emsp;(b) “chief judge” shall mean the chief judge of any district court of the United States;
 
-&emsp;(c) “voter registration lists” shall mean the official records maintained by State or local election officials of persons registered to vote in either the most recent State or the most recent Federal general election, or, in the case of a State or political subdivision thereof that does not require registration as a prerequisite to voting, other official lists of persons qualified to vote in such election. The term shall also include the list of eligible voters maintained by any Federal examiners pursuant to the Voting Rights Act of 1965 where the names on such list have not been included on the official registration lists or other official lists maintained by the appropriate State or local officials. With respect to the districts of Guam and the Virgin Islands, “voter registration lists” shall mean the official records maintained by territorial election officials of persons registered to vote in the most recent territorial general election;
+&emsp;(c) “voter registration lists” shall mean the official records maintained by State or local election officials of persons registered to vote in either the most recent State or the most recent Federal general election, or, in the case of a State or political subdivision thereof that does not require registration as a prerequisite to voting, other official lists of persons qualified to vote in such election. The term shall also include the list of eligible voters maintained by any Federal examiner pursuant to the Voting Rights Act of 1965 where the names on such list have not been included on the official registration lists or other official lists maintained by the appropriate State or local officials. With respect to the districts of Guam and the Virgin Islands, “voter registration lists” shall mean the official records maintained by territorial election officials of persons registered to vote in the most recent territorial general election;
 
 &emsp;(d) “lists of actual voters” shall mean the official lists of persons actually voting in either the most recent State or the most recent Federal general election;
 
@@ -34,7 +34,7 @@ Based on title 28, U.S.C., 1940 ed., §423 (Mar. 3, 1911, ch. 231, §286, 36 Sta
 
 #### References in Text
 
-The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1973 of Title 42 and Tables.
+The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Subsec. (h). Pub. L. 95–572, §3(b), struck out “by pardon or amnesty” aft
 
 Subsecs. (j) to (<i>l</i>). Pub. L. 95–572, §4, added subsecs. (j) to (<i>l</i>).
 
-<b>1972</b>—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out “race and occupation of a potential juror”, and in information to be contained in the form, struck out “race, color” and “occupation” from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscriminationin jury selection and that it has no bearing on an individual's qualification for jury service.
+<b>1972</b>—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out “race and occupation of a potential juror”, and in information to be contained in the form, struck out “race, color” and “occupation” from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual's qualification for jury service.
 
 <b>1970</b>—Subsec. (f). Pub. L. 91–358 substituted reference to the Superior Court of the District of Columbia for references to the District of Columbia Court of General Sessions and the Juvenile Court of the District of Columbia.
 

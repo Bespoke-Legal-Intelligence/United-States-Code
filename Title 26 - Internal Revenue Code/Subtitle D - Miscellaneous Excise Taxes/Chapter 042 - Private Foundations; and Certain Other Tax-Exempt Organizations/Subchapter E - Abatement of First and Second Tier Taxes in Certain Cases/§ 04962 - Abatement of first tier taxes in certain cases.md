@@ -42,7 +42,7 @@ Section 1603(c) of Pub. L. 105–34 provided that: “The amendments made by thi
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 22, 1987, see section 10712(d)of Pub. L. 100–203, set out as an Effective Date note under section 4955 of this title.
+Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 22, 1987, see section 10712(d) of Pub. L. 100–203, set out as an Effective Date note under section 4955 of this title.
 
 #### Effective Date
 

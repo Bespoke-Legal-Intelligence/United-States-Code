@@ -30,7 +30,7 @@ As used in this section:
 
 #### (3) Native Hawaiian and Native Hawaiian organization
 
-&emsp;The terms “Native Hawaiian” and “Native Hawaiian organization” have the meanings given such terms in paragraphs (1) and (3), respectively, of section 7912 of title 20.
+&emsp;The terms “Native Hawaiian” and “Native Hawaiian organization” have the meanings given such terms in section 7517 of title 20.
 
 #### (c) Program authorized
 
@@ -64,7 +64,7 @@ As used in this section:
 
 #### (B) Special rule
 
-&emsp;&emsp;Notwithstanding any other provision of this section, individuals who were eligible to participate in programs under section 1671 of this title (as such section was in effect on the day before August 7, 1998) shall be eligible to participate in an activity assisted under this section.
+&emsp;&emsp;Notwithstanding any other provision of this section, individuals who were eligible to participate in programs under section 1671 of this title (as such section was in effect onthe day before August 7, 1998) shall be eligible to participate in an activity assisted under this section.
 
 #### (e) Program plan
 
@@ -142,7 +142,7 @@ Nothing in this section shall be construed—
 
 #### (iii) Administrative support
 
-&emsp;&emsp;&emsp;The Secretary shall provide the Council with such administrative support as may be necessary to perform the functions of the Council.
+&emsp;&emsp;&emsp;The Secretary shall provide the Council with such administrative support as maybe necessary to perform the functions of the Council.
 
 #### (E) Chairperson
 
@@ -178,7 +178,7 @@ Grants, contracts, and cooperative agreements entered into under this section sh
 
 &emsp;There are authorized to be appropriated for fiscal year 1999 such sums as may be necessary to carry out this subsection.
 
-(Pub. L. 105–220, title I, §166, Aug. 7, 1998, 112 Stat. 1021; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
+(Pub. L. 105–220, title I, §166, Aug. 7, 1998, 112 Stat. 1021; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(7)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 107–110, title VII, §702(g), Jan. 8, 2002, 115 Stat. 1947.)
 
 #### References in Text
 
@@ -202,7 +202,13 @@ Provisions similar to this section were contained in sections 1671 and 1673 of t
 
 #### Amendments
 
+2002—Subsec. (b)(3). Pub. L. 107–110 substituted “section 7517 of title 20” for “paragraphs (1) and (3), respectively, of section 7912 of title 20”.
+
 1998—Subsec. (h)(3)(A). Pub. L. 105–277 substituted “subparagraph (B)” for “paragraph (2)”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 If the Administrator finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance or mixture, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment, the Administrator shall by rule apply one or more of the following requirements to such substance or mixture to the extent necessary to protect adequately against such risk using the least burdensome requirements:
 
-&emsp;(1) A requirement (A) prohibiting the manufacturing, processing, or distribution in commerce of such substance or mixture, or (B)limiting the amount of such substance or mixture which may be manufactured, processed, or distributed in commerce.
+&emsp;(1) A requirement (A) prohibiting the manufacturing, processing, or distribution in commerce of such substance or mixture, or (B) limiting the amount of such substance or mixture which may be manufactured, processed, or distributed in commerce.
 
 &emsp;(2) A requirement—
 
@@ -42,7 +42,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 #### (c) Promulgation of subsection (a) rules
 
-(1) In promulgating any rule under subsection (a) of this section with respect to a chemical substance or mixture, the Administrator shall consider and publish a statement with respect to—
+(1) In promulgating any rule under subsection (a) of this section with respect to a chemical substance or mixture, the Administrator shallconsider and publish a statement with respect to—
 
 &emsp;(A) the effects of such substance or mixture on health and the magnitude of the exposure of human beings to such substance or mixture,
 
@@ -52,7 +52,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(D) the reasonably ascertainable economic consequences of the rule, after consideration of the effect on the national economy, small business, technological innovation, the environment, and public health.
 
-> If the Administrator determines that a risk of injury to health or the environment could beeliminated or reduced to a sufficient extent by actions taken under another Federal law (or laws) administered in whole or in part by the Administrator, the Administrator may not promulgate a rule under subsection (a) of this section to protect against such risk of injury unless the Administrator finds, in the Administrator's discretion, that it is in the public interest to protect against such risk under this chapter. In making such a finding the Administrator shall consider (i) all relevant aspects of the risk, as determined by the Administrator in the Administrator's discretion, (ii) a comparison of the estimated costs of complying with actions taken under this chapter and under such law (or laws), and (iii) the relative efficiency of actions under this chapter and under such law (or laws) to protect against such risk of injury.
+> If the Administrator determines that a risk of injury to health or the environment could be eliminated or reduced to a sufficient extent by actions taken under another Federal law (or laws) administered in whole or in part by the Administrator, the Administrator may not promulgate a rule under subsection (a) of this section to protect against such risk of injury unless the Administrator finds, in the Administrator's discretion, that it is in the public interest to protect against such risk under this chapter. In making such a finding the Administrator shall consider (i) all relevant aspects of the risk, as determined by the Administrator in the Administrator's discretion, (ii) a comparison of the estimated costs of complying with actions taken under this chapter and under such law (or laws), and (iii) the relative efficiency of actions under this chapter and under such law (or laws) to protect against such risk of injury.
 
 (2) When prescribing a rule under subsection (a) the Administrator shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with paragraph (3); (D) promulgate, if appropriate, a final rule based on the matter in the rulemaking record (as defined in section 2618(a) of this title), and (E) make and publish with the rule the finding described in subsection (a) of this section.
 
@@ -138,13 +138,13 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(i) an unreasonable risk of injury to health or environment would not result, and
 
-&emsp;(ii) good faith efforts have been made to develop a chemical substance which does not present an unreasonable risk of injury to health or the environment and which may be substituted for such polychlorinated biphenyl.
+&emsp;(ii) good faith efforts have been made to develop a chemical substance which does notpresent an unreasonable risk of injury to health or the environment and which may be substituted for such polychlorinated biphenyl.
 
 > An exemption granted under this subparagraph shall be subject to such terms and conditions as the Administrator may prescribe and shall be in effect for such period (but not more than one year from the date it is granted) as the Administrator may prescribe.
 
 (C) Subparagraph (A) shall not apply to the distribution in commerce of any polychlorinated biphenyl if such polychlorinated biphenyl was sold for purposes other than resale before two and one half years after October 11, 1976.
 
-(4) Any rule under paragraph (1), (2)(B), or (3)(B) shall be promulgated in accordance withparagraphs (2), (3), and (4) of subsection (c) of this section.
+(4) Any rule under paragraph (1), (2)(B), or (3)(B) shall be promulgated in accordance with paragraphs (2), (3), and (4) of subsection (c) of this section.
 
 (5) This subsection does not limit the authority of the Administrator, under any other provision of this chapter or any other Federal law, to take action respecting any polychlorinated biphenyl.
 

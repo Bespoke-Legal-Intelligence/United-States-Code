@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 (e) “Secretary” means the Secretary of Commerce.
 
-(f) “State” means one of the States of the United States, the District of Columbia, theCommonwealth of Puerto Rico, Guam or the Virgin Islands.
+(f) “State” means one of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam or the Virgin Islands.
 
 (g) “Governor”, in the case of the District of Columbia, means the Board of Commissioners of the District of Columbia.
 

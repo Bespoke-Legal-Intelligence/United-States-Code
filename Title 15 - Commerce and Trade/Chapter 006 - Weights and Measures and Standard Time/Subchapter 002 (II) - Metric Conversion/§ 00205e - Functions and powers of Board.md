@@ -20,7 +20,7 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 &emsp;&emsp;(B) counseling and consultation by the Secretary of Education; the Secretary of Labor; the Administrator of the Small Business Administration; and the Director of the National Science Foundation, with educational associations, State and local educational agencies, labor education committees, apprentice training committees, and other interested groups, in order to assure (i) that the metric system of measurement is included in the curriculum of the Nation's educational institutions, and (ii) that teachers and other appropriate personnel are properly trained to teach the metric system of measurement;
 
-&emsp;&emsp;(C) consultation by the Secretary of Commerce with the National Conference of Weights and Measures in order to assure that State and local weights and measures officials are (i) appropriately involved in metric conversion activities and (ii) assisted in their efforts to bring about timely amendments to weights and measures laws; and
+&emsp;&emsp;(C) consultation by the Secretary of Commerce with the National Conference ofWeights and Measures in order to assure that State and local weights and measures officials are (i) appropriately involved in metric conversion activities and (ii) assisted in their efforts to bring about timely amendments to weights and measures laws; and
 
 &emsp;&emsp;(D) such other public information activities, by any Federal agency in support of this subchapter, as relate to the mission of such agency;
 

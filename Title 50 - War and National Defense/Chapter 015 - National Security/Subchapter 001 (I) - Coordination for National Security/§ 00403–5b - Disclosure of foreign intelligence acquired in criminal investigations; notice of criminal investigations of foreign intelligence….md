@@ -1,0 +1,22 @@
+### §403–5b. Disclosure of foreign intelligence acquired in criminal investigations; notice of criminal investigations of foreign intelligence sources
+
+#### (a) Disclosure of foreign intelligence
+
+(1) Except as otherwise provided by law and subject to paragraph (2), the Attorney General, or the head of any other department or agency of the Federal Government with law enforcement responsibilities, shall expeditiously disclose to the Director of Central Intelligence, pursuant to guidelines developed by the Attorney General in consultation with the Director, foreign intelligence acquired by an element of the Department of Justice or an element of such department or agency, as the case may be, in the course of a criminal investigation.
+
+(2) The Attorney General by regulation and in consultation with the Director of Central Intelligence may provide for exceptions to the applicability of paragraph (1) for one or more classes of foreign intelligence, or foreign intelligence with respect to one or more targets or matters, if the Attorney General determines that disclosure of such foreign intelligence under that paragraph would jeopardize an ongoing law enforcement investigation or impair other significant law enforcement interests.
+
+#### (b) Procedures for notice of criminal investigations
+
+Not later than 180 days after October 26, 2001, the Attorney General, in consultation with the Director of Central Intelligence, shall develop guidelines to ensure that after receipt of a report from an element of the intelligence community of activity of a foreign intelligence source or potential foreign intelligence source that may warrant investigation as criminal activity, the Attorney General provides notice to the Director of Central Intelligence, within a reasonable period of time, of his intention to commence, or decline to commence, a criminal investigation of such activity.
+
+#### (c) Procedures
+
+The Attorney General shall develop procedures for the administration of this section, including the disclosure of foreign intelligence by elements of the Department of Justice, and elements of other departments and agencies of the Federal Government, under subsection (a) of this section and the provision of notice with respect to criminal investigations under subsection (b) of this section.
+
+(July 26, 1947, ch. 343, title I, §105B, as added Pub. L. 107–56, title IX, §905(a)(2), Oct. 26, 2001, 115 Stat. 388.)
+
+#### Prior Provisions
+
+A prior section 403–5b, act July 26, 1947, ch. 343, title I, §105B, as added Pub. L. 106–120, title V, §501(a)(1), Dec. 3, 1999, 113 Stat. 1616, which related to protection of operational files of the National Imagery and Mapping Agency, was renumbered section 105C of act July 26, 1947, by Pub. L. 107–56, title IX, §905(a)(1), Oct. 26, 2001, 115 Stat. 388, and transferred to section 403–5c of this title.
+

@@ -4,7 +4,7 @@
 
 (b)(1) Except to the extent provided in paragraphs (2) and (3) of this subsection, payments for entitlement earned under subchapter II of this chapter shall be made from funds appropriated to, or otherwise available to, the Department of Veterans Affairs for the payment of readjustment benefits and from transfers from the Post-Vietnam Era Veterans Education Account pursuant to section 3232(b)(2)(B) of this title.
 
-(2) Payments for entitlement earned under subchapter II of this chapter that is established under section 3015(d) of this title at a rate in excess of the rate prescribed under subsection (a)or (b) of section 3015 of this title shall, to the extent of that excess, be made from the Department of Defense Education Benefits Fund established under section 2006 of title 10 or from appropriations made to the Department of Transportation, as appropriate.
+(2) Payments for entitlement earned under subchapter II of this chapter that is established under section 3015(d) of this title at a rate in excess of the rate prescribed under subsection (a) or (b) of section 3015 of this title shall, to the extent of that excess, be made from the Department of Defense Education Benefits Fund established under section 2006 of title 10 or from appropriations made to the Department of Transportation, as appropriate.
 
 (3) Payment for entitlements established under section 3018A or 3018B of this title shall be made—
 
@@ -32,7 +32,7 @@
 
 > &emsp;in the same proportion as the Fund described in subclause (B) of this clause and the funds described in subclause (A) or (C) of this clause are used to pay the educational assistance allowance to the individual under this chapter.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1435; amended Pub. L. 99–576, title III, §321(8), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §107(a)(2), Nov. 18, 1988, 102 Stat. 4168; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(3), Nov. 5, 1990, 104 Stat. 1573; renumbered §3035 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4404(b)(3), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 103–446, title XII, §1201(d)(7), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §106(c)(2), Oct. 9, 1996, 110 Stat. 3329.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2562, §1435; amended Pub. L. 99–576, title III, §321(8), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–689, title I, §107(a)(2), Nov. 18, 1988, 102 Stat. 4168; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §561(b)(3), Nov. 5, 1990, 104 Stat. 1573; renumbered §3035 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406;Pub. L. 102–484, div. D, title XLIV, §4404(b)(3), Oct. 23, 1992, 106 Stat. 2706; Pub. L. 103–446, title XII, §1201(d)(7), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–275, title I, §106(c)(2), Oct. 9, 1996, 110 Stat. 3329.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ Amendment by Pub. L. 93–191 effective Dec. 18, 1973, see section 14, of Pub. L
 
 #### Archivist of the United States
 
-References to Archivist of the United States deemed to refer to Archivist appointed under section 2103 ofthis title with respect to functions transferred by Pub. L. 98–497 or an amendment made by Pub. L. 98–497 and exercised after Apr. 1, 1985, see sections 106 and 108 of Pub. L. 98–497, set out as notes under section 2102 of this title.
+References to Archivist of the United States deemed to refer to Archivist appointed under section 2103 of this title with respect to functions transferred by Pub. L. 98–497 or an amendment made by Pub. L. 98–497 and exercised after Apr. 1, 1985, see sections 106 and 108 of Pub. L. 98–497, set out as notes under section 2102 of this title.
 
 #### Section Referred to in Other Sections
 

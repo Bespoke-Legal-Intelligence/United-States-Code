@@ -6,7 +6,7 @@ Effective at the beginning of the Ninety-eighth Congress and until otherwise pro
 
 #### (b) Deposits in revolving fund; disbursements by Chief Administrative Officer of House
 
-There shall be deposited in the revolving fund such amounts as may be received by the Chief Administrative Officer of the House of Representatives with respect to lodging, meals, and related services furnished for congressional pages. Amounts so deposited shall be available for disbursement by the Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives, for expenses relating to the page residence hall and the page meal plan.
+There shall be deposited in the revolving fund such amounts as may be received by the ChiefAdministrative Officer of the House of Representatives with respect to lodging, meals, and related services furnished for congressional pages. Amounts so deposited shall be available for disbursement by the Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives, for expenses relating to the page residence hall and the page meal plan.
 
 #### (c) Regulations
 

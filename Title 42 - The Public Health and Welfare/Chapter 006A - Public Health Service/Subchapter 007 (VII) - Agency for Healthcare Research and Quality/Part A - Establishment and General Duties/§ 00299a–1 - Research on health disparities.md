@@ -24,7 +24,7 @@ The Director shall—
 
 &emsp;&emsp;(A) identify the clinical, cultural, socioeconomic, geographic, and organizational factors that contribute to health disparities, including minority health disparity populations, which research shall include behavioral research, such as examination of patterns of clinical decisionmaking, and research on access, outreach, and the availability of related support services (such as cultural and linguistic services);
 
-&emsp;&emsp;(B) identify and evaluate clinical and organizational strategies to improve the quality, outcomes, and access to care for health disparity populations, including minority health disparity populations;
+&emsp;&emsp;(B) identify and evaluate clinical and organizational strategies to improve the quality,outcomes, and access to care for health disparity populations, including minority health disparity populations;
 
 &emsp;&emsp;(C) test such strategies and widely disseminate those strategies for which there is scientific evidence of effectiveness; and
 
@@ -32,7 +32,7 @@ The Director shall—
 
 #### (2) Use of certain strategies
 
-&emsp;In carrying out this section, the Director shall implement research strategies and mechanisms that will enhance the involvement of individuals who are members of minorityhealth disparity populations or other health disparity populations, health services researchers who are such individuals, institutions that train such individuals as researchers, members of minority health disparity populations or other health disparity populations for whom the Agency is attempting to improve the quality and outcomes of care, and representatives of appropriate tribal or other community-based organizations with respect to health disparity populations. Such research strategies and mechanisms may include the use of—
+&emsp;In carrying out this section, the Director shall implement research strategies and mechanisms that will enhance the involvement of individuals who are members of minority health disparity populations or other health disparity populations, health services researchers who are such individuals, institutions that train such individuals as researchers, members of minority health disparity populations or other health disparity populations for whom the Agency is attempting to improve the quality and outcomes of care, and representatives of appropriate tribal or other community-based organizations with respect to health disparity populations. Such research strategies and mechanisms may include the use of—
 
 &emsp;&emsp;(A) centers of excellence that can demonstrate, either individually or through consortia, a combination of multi-disciplinary expertise in outcomes or quality improvement research, linkages to relevant sites of care, and a demonstrated capacity to involve members and communities of health disparity populations, including minority health disparity populations, in the planning, conduct, dissemination, and translation of research;
 

@@ -66,7 +66,7 @@ As soon as practicable, but not later than 180 days after the end of the fiscal 
 
 As used in this section—
 
-&emsp;(1) the term “eligible entity” has the same meaning given such term by section 673(1) of the Community Services Block Grant Act (42 U.S.C. 9902(1)), except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section; and
+&emsp;(1) the term “eligible entity” has the same meaning given such term by section 673(1) of the Community Services Block Grant Act (42U.S.C. 9902(1)), except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section; and
 
 &emsp;(2) the term “Secretary” means the Secretary of Health and Human Services.
 
@@ -76,7 +76,7 @@ As used in this section—
 
 (2) Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c) of this section.
 
-(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f) <sup>1</sup> of this section, the Secretary is authorized to reserve up to 2 percent of theamounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
+(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f) <sup>1</sup> of this section, the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
 
 (Pub. L. 99–425, title IV, §408, Sept. 30, 1986, 100 Stat. 972; Pub. L. 101–204, title VII, §705, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 101–501, title VI, §§601, 602, Nov. 3, 1990, 104 Stat. 1257, 1258; Pub. L. 103–252, title II, §207, May 18, 1994, 108 Stat. 656.)
 
@@ -130,7 +130,7 @@ Subsec. (c). Pub. L. 101–204, §705(c), amended subsec. (c) generally. Prior t
 
 Subsecs. (d), (e). Pub. L. 101–204, §705(f)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-Subsec. (f). Pub. L. 101–204, §705(d), (f)(1), redesignated subsec. (d) as (f) and inserted before semicolon in par. (1) “, except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community ServicesBlock Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section”.
+Subsec. (f). Pub. L. 101–204, §705(d), (f)(1), redesignated subsec. (d) as (f) and inserted before semicolon in par. (1) “, except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section”.
 
 Subsec. (g). Pub. L. 101–204, §705(e), (f)(1), redesignated subsec. (e) as (g), substituted “are” for “is”, and inserted “and $7,000,000 for fiscal year 1990,” after “1989,”.
 

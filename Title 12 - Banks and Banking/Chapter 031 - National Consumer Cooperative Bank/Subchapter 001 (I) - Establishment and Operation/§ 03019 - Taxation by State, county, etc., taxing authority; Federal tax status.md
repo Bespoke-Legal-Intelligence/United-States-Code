@@ -10,7 +10,7 @@
 
 &emsp;(3) the terms “written notice of allocation” and “qualified written notices of allocation”, as defined in sections 1388(b) and (c) of title 26, include (to the extent of par value), only as such sections apply to the Bank, any class B or class C stock distributed by the Bank pursuant to section 3014(i) of this title and shall also include any allocated surplus set aside by the Bank pursuant to section 3014(i) of this title;
 
-&emsp;(4) patrons of the Bank shall be deemed to have consented under section 1388(c)(2) of title26 to the inclusion in their incomes of any qualified written notices of allocation received by such patrons from the Bank; and
+&emsp;(4) patrons of the Bank shall be deemed to have consented under section 1388(c)(2) of title 26 to the inclusion in their incomes of any qualified written notices of allocation received by such patrons from the Bank; and
 
 &emsp;(5) any amounts required to be included in the incomes of patrons of the Bank with respect to class B or class C stock or allocated surplus shall be treated as earnings from business done by such patrons of the Bank with or for their own patrons.
 

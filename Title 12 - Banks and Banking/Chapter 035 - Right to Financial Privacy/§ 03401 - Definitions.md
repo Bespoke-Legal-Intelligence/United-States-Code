@@ -48,7 +48,7 @@ For the purpose of this chapter, the term—
 
 The Home Owners’ Loan Act, referred to in par. (6)(C), is act June 13, 1933, ch. 64, 48 Stat. 128, as amended, which is classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see section 1461 of this title and Tables.
 
-The Bank Secrecy Act, referred to in par. (7)(H), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Bank Secrecy Act, referred to in par. (7)(H), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, as amended, which is classified principally to chapter 21 (§1951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of this title and Tables.
 
 #### Codification
 

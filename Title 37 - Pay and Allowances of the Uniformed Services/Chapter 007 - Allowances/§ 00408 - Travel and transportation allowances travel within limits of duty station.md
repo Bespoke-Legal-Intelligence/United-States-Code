@@ -1,6 +1,6 @@
 ### §408. Travel and transportation allowances: travel within limits of duty station
 
-(a) A member of a uniformed service may be directed, by regulations of the head of the department or agency in which he is serving, to procure transportation necessary for conducting official business of the United States within the limits of his station. Expenses so incurred by the member for train, bus, streetcar, taxicab, ferry, bridge, and similar fares and tolls, or for the use of privately owned vehicles at a fixed rate a mile plus parking fees, shall be defrayedby the department or agency under which he is serving, or the member is entitled to be reimbursed for the expense.
+(a) A member of a uniformed service may be directed, by regulations of the head of the department or agency in which he is serving, to procure transportation necessary for conducting official business of the United States within the limits of his station. Expenses so incurred by the member for train, bus, streetcar, taxicab, ferry, bridge, and similar fares and tolls, or for the use of privately owned vehicles at a fixed rate a mile plus parking fees, shall be defrayed by the department or agency under which he is serving, or the member is entitled to be reimbursed for the expense.
 
 (b)(1) Under regulations prescribed by the Secretary concerned, a member of a uniformed service who performs emergency duty described in paragraph (2) is entitled to travel and transportation allowances under section 404 of this title for that duty.
 

@@ -22,7 +22,7 @@ Annual Certification.—(1) A State authority's annual certification must includ
 
 &emsp;&emsp;(ii) each accident or incident reported during the prior 12 months by a railroad carrier involving a fatality, personal injury requiring hospitalization, or property damage of more than $750 (or a higher amount prescribed by the Secretary), and a summary of the authority's investigation of the cause and circumstances surrounding the accident or incident;
 
-&emsp;&emsp;(iii) the record maintenance, reporting, and inspection practices conducted by the authority to aid the Secretary in enforcing railroad safety regulations prescribed and orders issued by the Secretary, including the number of inspections made of railroad equipment, facilities, rolling stock, and operations by the authority during the prior 12 months; and
+&emsp;&emsp;(iii) the record maintenance, reporting, and inspection practices conducted by the authority to aid the Secretary in enforcing railroad safety regulations prescribed andorders issued by the Secretary, including the number of inspections made of railroad equipment, facilities, rolling stock, and operations by the authority during the prior 12 months; and
 
 &emsp;&emsp;(iv) other information the Secretary requires.
 

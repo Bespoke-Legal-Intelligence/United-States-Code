@@ -40,7 +40,7 @@ In the administration of voter registration for elections for Federal office, ea
 
 #### (b) Confirmation of voter registration
 
-Any State program or activity to protect the integrity of the electoral process by ensuring the maintenance of an accurate and current voter registration roll for elections for Federal office—
+Any State program or activity to protect the integrity of the electoral process by ensuringthe maintenance of an accurate and current voter registration roll for elections for Federal office—
 
 &emsp;(1) shall be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.); and
 
@@ -68,7 +68,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 #### (d) Removal of names from voting rolls
 
-(1) A State shall not remove the name of a registrant from the official list of eligible voters inelections for Federal office on the ground that the registrant has changed residence unless the registrant—
+(1) A State shall not remove the name of a registrant from the official list of eligible voters in elections for Federal office on the ground that the registrant has changed residence unless the registrant—
 
 &emsp;(A) confirms in writing that the registrant has changed residence to a place outside the registrar's jurisdiction in which the registrant is registered; or
 
@@ -94,7 +94,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 &emsp;(ii)(I) shall be permitted to correct the voting records and vote at a central location within the same registrar's jurisdiction designated by the registrar where a list of eligible voters is maintained, upon written affirmation by the registrant of the new address on a standard form provided by the registrar at the central location; or
 
-&emsp;(II) shall be permitted to correct the voting records for purposes of voting in future elections at the appropriate polling place for the current address and, if permitted by State law, shall be permitted to vote in the present election, upon confirmation by the registrant of the new address by such means as are required by law.
+&emsp;(II) shall be permitted to correct the voting records for purposes of voting in future elections at the appropriate polling place for the current address and, if permitted by State law, shall be permitted to vote in the present election, upon confirmation by the registrant ofthe new address by such means as are required by law.
 
 (B) If State law permits the registrant to vote in the current election upon oral or written affirmation by the registrant of the new address at a polling place described in subparagraph (A)(i) or (A)(ii)(II), voting at the other locations described in subparagraph (A) need not be provided as options.
 
@@ -148,7 +148,7 @@ For the purposes of this section, the term “registrar's jurisdiction” means�
 
 #### References in Text
 
-The Voting Rights Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1973 of this title and Tables.
+The Voting Rights Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 
 #### Codification
 
@@ -156,5 +156,5 @@ Section is comprised of section 8 of Pub. L. 103–31. Subsec. (h) of section 8 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1973gg–3, 1973gg–4, 1973gg–7 of this title.
+This section is referred to in sections 1973ff–3, 1973gg–3, 1973gg–4, 1973gg–7 of this title.
 

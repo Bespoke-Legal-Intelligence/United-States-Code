@@ -446,7 +446,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 961, 1211, 1266, 1292 of this title; title 29 section 557a; title 31 section 1105; title 42 section 6211.
+This chapter is referred to in sections 961, 1211, 1266, 1292 of this title; title 29 section 557a; title 31 section 1105.
 
 
 ---

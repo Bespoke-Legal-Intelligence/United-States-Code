@@ -18,7 +18,7 @@ To carry out the purposes of this subchapter, the corporation has the powers con
 
 &emsp;(2) to adopt, alter, and use a corporate seal, which shall be judicially noticed;
 
-&emsp;(3) to adopt, amend, and repeal, by the board of directors, by laws, rules, and regulations relating to the conduct of its business and the exercise of all other rights and powers granted to it by this chapter and such other bylaws, rules, and regulations as may be necessary to carry out the purposes of this subchapter;
+&emsp;(3) to adopt, amend, and repeal, by the board of directors, bylaws, rules, and regulations relating to the conduct of its business and the exercise of all other rights and powers granted to it by this chapter and such other bylaws, rules, and regulations as may be necessary to carry out the purposes of this subchapter;
 
 &emsp;(4) to conduct its business (including the carrying on of operations and the maintenance of offices) and to exercise all other rights and powers granted to it by this chapter in any State or other jurisdiction without regard to qualification, licensing, or other requirements imposed by law in such State or other jurisdiction;
 
@@ -28,7 +28,7 @@ To carry out the purposes of this subchapter, the corporation has the powers con
 
 &emsp;(7) to utilize the personnel and facilities of any other agency or department of the United States Government, with or without reimbursement, with the consent of the head of such agency or department; and
 
-&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all others acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to the corporation by this chapter.
+&emsp;(8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to the corporation by this chapter.
 
 #### (c) Omitted
 
@@ -70,13 +70,17 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (8) The Federal Advisory Committee Act does not apply to the advisory committee established by this subsection.
 
-(Pub. L. 93–406, title IV, §4002, Sept. 2, 1974, 88 Stat. 1004; Pub. L. 94–455, title XV, §1510(a), Oct. 4, 1976, 90 Stat. 1741; Pub. L. 96–364, title IV, §§403(<i>l</i>), 406(a), Sept. 26, 1980, 94 Stat. 1302, 1303; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
+#### (i) Special rules regarding disasters, etc.
+
+In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in section 1033(h)(3) of title 26) or a terroristic or military action (as defined in section 692(c)(2) of such title), the corporation may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
+
+(Pub. L. 93–406, title IV, §4002, Sept. 2, 1974, 88 Stat. 1004; Pub. L. 94–455, title XV, §1510(a), Oct. 4, 1976, 90 Stat. 1741; Pub. L. 96–364, title IV, §§403(<i>l</i>), 406(a), Sept. 26, 1980, 94 Stat. 1302, 1303; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 107–134, title I, §112(c)(2), Jan. 23, 2002, 115 Stat. 2434.)
 
 #### References in Text
 
 The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
-This chapter, referred to in subsec. (b)(3), (4), and (8), was in original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (b)(3), (4), (8) and (i), was in original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Federal Insurance Contributions Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3128 of Title 26 and Tables.
 
@@ -90,6 +94,8 @@ Subsec. (c) amended section 5108 of Title 5, Government Organization and Employe
 
 #### Amendments
 
+2002—Subsec. (i). Pub. L. 107–134 added subsec. (i).
+
 1989—Subsec. (g)(1). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1980—Subsec. (b)(3). Pub. L. 96–364, §403(<i>l</i>), inserted provisions respecting bylaws, etc., to carry out this subchapter.
@@ -97,6 +103,10 @@ Subsec. (c) amended section 5108 of Title 5, Government Organization and Employe
 Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to inclusion of receipts and disbursements in United States budget totals and nonliability of United States for obligation or liability of corporation, for provisions relating to noninclusion of receipts and disbursements in United States budget totals, exemption from limitations with respect to budget outlays, and restrictions on liability for obligation or liability incurred by the corporation.
 
 1976—Subsec. (g)(1). Pub. L. 94–455 exempted corporation from all taxation now or hereafter imposed by United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act, and chapter 23 of title 26, relating to Federal Unemployment Tax Act).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

@@ -32,7 +32,7 @@ The Secretary of the Treasury, upon the concurrence of the Secretary of State, i
 
 #### (e) Payments; priorities
 
-Except as provided in subsection (f) of this section, the Secretary of the Treasury is authorizedand directed out of sums covered, subsequent to July 24, 1968, into any special fund created pursuant to this section to make payment on account of awards certified by the Commission pursuant to this subchapter with respect to claims included within the terms of a claims settlement agreement concluded between the Government of the United States and a foreign government as described in section 1623(a) of this title, as follows and in the following order of priority:
+Except as provided in subsection (f) of this section, the Secretary of the Treasury is authorized and directed out of sums covered, subsequent to July 24, 1968, into any special fund created pursuant to this section to make payment on account of awards certified by the Commission pursuant to this subchapter with respect to claims included within the terms of a claims settlement agreement concluded between the Government of the United States and a foreign government as described in section 1623(a) of this title, as follows and in the following order of priority:
 
 &emsp;(1) Payment in the amount of $1,000 or the principal amount of the award, whichever is less;
 
@@ -62,7 +62,7 @@ The Secretary of the Treasury is authorized and directed to invest the amounts h
 
 #### References in Text
 
-The Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was generally repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986,100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
+The Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was generally repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
 Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Section 14 of former Title 26 was repealed by act Oct. 20, 1951, ch. 521, title I, pt. II, §121(g), 65 Stat. 469. Sections 34 and 185 of former Title 26 were repealed by act Feb. 25, 1944, ch. 63, title I, §§106(c)(2), 107(a), 58 Stat. 31. Sections 264 and 363 of former Title 26 were repealed by act Oct. 21, 1942, ch. 619, title I, §§159(e), 170(a), 56 Stat. 860, 878. Sections 430 to 474 of former Title 26 were omitted, and subsequently, along with the remaining sections of former Title 26 comprising chapter 1, except sections 143 and 144, were repealed by sections 7851(a)(1)(A) of Title 26, Internal Revenue Code. Sections 143 and 144 of former Title 26 were repealed by section 7851(a)(1)(B) of Title 26.
 
@@ -74,7 +74,7 @@ Chapter 2D of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A
 
 Chapter 2E of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, §122(a), 59 Stat. 568. Section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§224(b), 228(b), 56 Stat. 920, 925. Section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, §229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 
-Subtitle A of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A), is subtitle A of act Aug. 16, 1954, ch. 736, 68A Stat. 4, as amended, which comprises Subtitle A (§1 et seq.) of Title 26, Internal Revenue Code.
+Subtitle A of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A), is subtitle A of act Aug. 16, 1954, ch. 736, 68A Stat. 4, as amended, which comprisesSubtitle A (§1 et seq.) of Title 26, Internal Revenue Code.
 
 #### References to This Subchapter Deemed To Include Section 119 of H.R. 2076
 

@@ -24,6 +24,7 @@
 | (h) | Emergency procurement powers; exercise by President. |
 | (i) | Agency for Toxic Substances and Disease Registry; establishment, functions, etc. |
 | (j) | Acquisition of property. |
+| (k) | Brownfields revitalization funding. |
 | [9605\.](Subchapter%20001%20%28I%29%20-%20Hazardous%20Substances%20Releases%2C%20Liability%2C%20Compensation/%C2%A7%2009605%20-%20National%20contingency%20plan.md) | National contingency plan. |
 | (a) | Revision and republication. |
 | (b) | Revision of plan. |
@@ -32,6 +33,7 @@
 | (e) | Releases from earlier sites. |
 | (f) | Minority contractors. |
 | (g) | Special study wastes. |
+| (h) | NPL deferral. |
 | [9606\.](Subchapter%20001%20%28I%29%20-%20Hazardous%20Substances%20Releases%2C%20Liability%2C%20Compensation/%C2%A7%2009606%20-%20Abatement%20actions.md) | Abatement actions. |
 | (a) | Maintenance, jurisdiction, etc. |
 | (b) | Fines; reimbursement. |
@@ -51,6 +53,10 @@
 | (<i>l</i>) | Federal lien. |
 | (m) | Maritime lien. |
 | (n) | Liability of fiduciaries. |
+| (<i>o</i>) | De micromis exemption. |
+| (p) | Municipal solid waste exemption. |
+| (q) | Contiguous properties. |
+| (r) | Prospective purchaser and windfall lien. |
 | [9608\.](Subchapter%20001%20%28I%29%20-%20Hazardous%20Substances%20Releases%2C%20Liability%2C%20Compensation/%C2%A7%2009608%20-%20Financial%20responsibility.md) | Financial responsibility. |
 | (a) | Establishment and maintenance by owner or operator of vessel; amount; failure to obtain certification of compliance. |
 | (b) | Establishment and maintenance by owner or operator of production, etc., facilities; amount; adjustment; consolidated form of responsibility; coverage of motor carriers. |
@@ -194,6 +200,10 @@
 | (j) | Liability for attorney's fees for certain actions. |
 | (k) | Relationship to liability under other laws. |
 | (<i>l</i>) | Limitation on statutory construction. |
+| [9628\.](Subchapter%20001%20%28I%29%20-%20Hazardous%20Substances%20Releases%2C%20Liability%2C%20Compensation/%C2%A7%2009628%20-%20State%20response%20programs.md) | State response programs. |
+| (a) | Assistance to States. |
+| (b) | Enforcement in cases of a release subject to State program. |
+| (c) | Effect on Federal laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

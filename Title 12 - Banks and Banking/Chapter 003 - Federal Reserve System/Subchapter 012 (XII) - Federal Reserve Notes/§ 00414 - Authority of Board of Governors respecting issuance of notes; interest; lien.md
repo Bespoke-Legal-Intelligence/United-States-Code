@@ -2,7 +2,7 @@
 
 The Board of Governors of the Federal Reserve System shall have the right, acting through the Federal Reserve agent, to grant in whole or in part, or to reject entirely the application of any Federal Reserve bank for Federal Reserve notes; but to the extent that such application may be granted the Board of Governors of the Federal Reserve System shall, through its local Federal Reserve agent, supply Federal Reserve notes to the banks so applying, and such bank shall be charged with the amount of the notes issued to it and shall pay such rate of interest as may be established by the Board of Governors of the Federal Reserve system on only that amount of such notes which equals the total amount of its outstanding Federal Reserve notes less the amount of gold certificates held by the Federal Reserve agent as collateral security. Federal Reserve notes issued to any such bank shall, upon delivery, together with such notes of such Federal Reserve bank as may be issued under subchapter XIII <sup>1</sup> of this chapter upon security of United States 2 per centum Government bonds, become a first and paramount lien on all the assets of such bank.
 
-(Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 266; June 21, 1917, ch. 32, §7, 40 Stat. 237; Jan. 30, 1934, ch. 6, §2(b)(5), 48 Stat. 338; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; June 12, 1945, ch. 186,§1(b), 59 Stat. 237; Pub. L. 90–269, §4, Mar. 18, 1968, 82 Stat. 50.)
+(Dec. 23, 1913, ch. 6, §16 (par.), 38 Stat. 266; June 21, 1917, ch. 32, §7, 40 Stat. 237; Jan. 30, 1934, ch. 6, §2(b)(5), 48 Stat. 338; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; June 12, 1945, ch. 186, §1(b), 59 Stat. 237; Pub. L. 90–269, §4, Mar. 18, 1968, 82 Stat. 50.)
 
 #### References in Text
 

@@ -24,7 +24,7 @@ Whoever, with intent to defraud the United States, the Postal Service, or any pe
 
 &emsp;(4) to have been stamped without lawful authority; or
 
-Whoever steals, or with intend to defraud or without being lawfully authorized by the Post Office Department or Postal Service, receives, possesses, disposes of or attempts to dispose of any postal money order machine or any stamp, tool, or instrument specifically designed to be used in preparing or filling out the blanks on postal money order forms—
+Whoever steals, or with intent to defraud or without being lawfully authorized by the Post Office Department or Postal Service, receives, possesses, disposes of or attempts to dispose of any postal money order machine or any stamp, tool, or instrument specifically designed to be used in preparing or filling out the blanks on postal money order forms—
 
 Shall be fined under this title <sup>1</sup> or imprisoned not more than five years, or both.
 

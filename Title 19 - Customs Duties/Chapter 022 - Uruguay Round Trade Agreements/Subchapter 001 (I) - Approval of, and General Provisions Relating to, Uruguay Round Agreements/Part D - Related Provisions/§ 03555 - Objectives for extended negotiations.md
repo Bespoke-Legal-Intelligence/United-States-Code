@@ -22,7 +22,7 @@ The principal negotiating objective of the United States in the extended negotia
 
 &emsp;&emsp;(B) to obtain the reduction or elimination of specific tariff and nontariff barriers, including through expanded membership in the Agreement on Trade in Civil Aircraft and in the US–EC bilateral agreement for large civil aircraft,
 
-&emsp;&emsp;(C) to maintain vigorous and effective disciplines on subsidies practices with respectto civil aircraft products under the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of this title,
+&emsp;&emsp;(C) to maintain vigorous and effective disciplines on subsidies practices with respect to civil aircraft products under the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of this title,
 
 &emsp;&emsp;(D) to maintain the scope and coverage on indirect support as specified in the US–EC bilateral agreement on large civil aircraft, and
 

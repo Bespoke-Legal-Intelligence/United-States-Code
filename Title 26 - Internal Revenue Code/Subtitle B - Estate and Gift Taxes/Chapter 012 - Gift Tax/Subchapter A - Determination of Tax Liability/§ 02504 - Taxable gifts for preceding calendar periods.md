@@ -46,9 +46,9 @@ Subsec. (a). Pub. L. 97–34, §442(a)(4)(A), substituted in introductory text �
 
 Subsec. (b). Pub. L. 97–34, §442(a)(4)(B), substituted in heading “calendar periods” for “years and quarters” and in text “preceding calendar periods” for “preceding calendar years and calendar quarters”, “the periods” for “the years and calendar quarters”, and “such preceding calendar periods” for “such years and calendar quarters”.
 
-Subsec. (c). Pub. L. 97–34, §442(a)(4)(C), substituted in heading “calendar periods” for “calendar years and quarters” and in text “preceding calendar period” for “preceding calendar year or calendar quarter” in fourplaces, “any calendar year” for “any calendar quarter”, and “section 2502(b)” for “section 2502(c)”.
+Subsec. (c). Pub. L. 97–34, §442(a)(4)(C), substituted in heading “calendar periods” for “calendar years and quarters” and in text “preceding calendar period” for “preceding calendar year or calendar quarter” in four places, “any calendar year” for “any calendar quarter”, and “section 2502(b)” for “section 2502(c)”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 inserted “(as in effect before its repeal by the Tax Reform Act of 1976)” after “section 2521” and “ending before January 1, 1977” after “years or calendar quarters” and substituted “of” for “to previous” after “computations in respect”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 inserted “(as in effect before its repeal by the Tax Reform Act of 1976)” after “section 2521” and “ending before January 1, 1977” after“years or calendar quarters” and substituted “of” for “to previous” after “computations in respect”.
 
 <b>1970</b>—Pub. L. 91–614 substituted “Taxable gifts for preceding years and quarters” for “Taxable gifts for preceding years” in section catchline.
 

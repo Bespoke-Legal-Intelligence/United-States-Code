@@ -10,7 +10,7 @@
 
 #### Historical and Revision Notes
 
-Subsection (a) was drafted to clarify a serious ambiguity in existing law and is based upon rulings of the Supreme Court. Numerous sections in the United States Code prescribe civil fines, penalties, and pecuniary forfeitures for violation of certain sections without specifying the mode of recovery or enforcement thereof. See, for example, section 567 of title 12, U.S.C., 1940 ed., Banks and Banking, section 64 of title 14, U.S.C., 1940 ed., Coast Guard, and section 180 of title 25, U.S.C., 1940 ed., Indians. Compare section 1 (21) of title 49, U.S.C., 1940 ed., Transportation.
+Subsection (a) was drafted to clarify a serious ambiguity in existing law and is based upon rulings of the Supreme Court. Numerous sections in the United States Code prescribe civil fines, penalties, and pecuniary forfeitures for violation of certain sections without specifying the mode of recovery or enforcement thereof. See, for example, section 567 of title 12, U.S.C., 1940 ed., Banks and Banking, section 64 of title 14,U.S.C., 1940 ed., Coast Guard, and section 180 of title 25, U.S.C., 1940 ed., Indians. Compare section 1 (21) of title 49, U.S.C., 1940 ed., Transportation.
 
 A civil fine, penalty, or pecuniary forfeiture is recoverable in a civil action. <i>United States ex rel. Marcus v. Hess</i> et al., 1943, 63 S.Ct. 379, 317 U.S. 537, 87 L.Ed. 433, rehearing denied 63 S.Ct. 756, 318 U.S. 799, 87 L.Ed. 1163; <i>Hepner v. United States</i>, 1909, 29 S.Ct. 474, 213 U.S. 103, 53 L.Ed. 720, and cases cited therein.
 

@@ -94,7 +94,7 @@ Subsec. (b)(3). Pub. L. 105–135, §304(2)(F), substituted “6” for “5”,
 
 Subsec. (c). Pub. L. 105–135, §304(3), inserted “(including both urban and rural areas)” after “geographic”.
 
-Subsec. (d). Pub. L. 105–135, §304(4), added subsec. (d) and struck out heading and text of former subsec. (d).Text read as follows: “The term of service of the members of the Council shall be 3 years.”
+Subsec. (d). Pub. L. 105–135, §304(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The term of service of the members of the Council shall be 3 years.”
 
 Subsec. (f). Pub. L. 105–135, §304(5), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “A vacancy on the Council shall, not later than 30 days after the date on which the vacancy occurs, be filled in the same manner in which the original appointment was made.”
 

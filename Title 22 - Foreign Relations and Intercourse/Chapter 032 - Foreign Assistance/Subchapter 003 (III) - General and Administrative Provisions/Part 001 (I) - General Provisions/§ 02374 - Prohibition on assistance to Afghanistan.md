@@ -26,6 +26,58 @@ Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Relief for Afghan Women and Children
+
+Pub. L. 107–81, Dec. 12, 2001, 115 Stat. 811, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Afghan Women and Children Relief Act of 2001’.
+
+#### “SEC. 2. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) In Afghanistan, Taliban restrictions on women's participation in society make it nearly impossible for women to exercise their basic human rights. The Taliban restrictions on Afghan women's freedom of expression, association, and movement deny women full participation in society and, consequently, from effectively securing basic access to work, education, and health care.
+
+&emsp;“(2) Afghanistan has one of the highest infant (165 of 1000) and child (257 of 1000) mortality rates in the world.
+
+&emsp;“(3) Only 5 percent of rural and 39 percent of urban Afghans have access to safe drinking water.
+
+&emsp;“(4) It is estimated that 42 percent of all deaths in Afghanistan are due to diarrheal diseases caused by contaminated food and water.
+
+&emsp;“(5) Over one-third of Afghan children under 5 years of age suffer from malnutrition, 85,000 of whom die annually.
+
+&emsp;“(6) Seventy percent of the health care system in Afghanistan is dependent on foreign assistance.
+
+&emsp;“(7) As of May 1998, only 20 percent of hospital medical and surgical beds dedicated to adults were available for women, and thousands of Afghan women and girls are routinely denied health care.
+
+&emsp;“(8) Women are forbidden to leave their homes without being escorted by a male relative. This prevents many women from seeking basic necessities like health care and food for their children. Doctors, virtually all of whom are male, are also not permitted to provide certain types of care not deemed appropriate by the Taliban.
+
+&emsp;“(9) Before the Taliban took control of Kabul, schools were coeducational, with women accounting for 70 percent of the teaching force. Women represented about 50 percent of the civil service corps, and 40 percent of the city's physicians were women. Today, the Taliban prohibits women from working as teachers, doctors, and in any other occupation.
+
+&emsp;“(10) The Taliban prohibit \[sic\] girls and women from attending school. In 1998, the Taliban ordered the closing of more than 100 privately funded schools where thousands of young women and girls were receiving education and training in skills that would have helped them support themselves and their families.
+
+&emsp;“(11) Of the many tens of thousands of war widows in Afghanistan, many are forced to beg for food and to sell their possessions because they are not allowed to work.
+
+&emsp;“(12) Resistance movements courageously continue to educate Afghan girls in secrecy and in foreign countries against Taliban law.
+
+#### “SEC. 3. AUTHORIZATION OF ASSISTANCE.
+
+“(a)
+
+In General.—Subject to subsection (b), the President is authorized, on such terms and conditions as the President may determine, to provide educational and health care assistance for the women and childrenliving in Afghanistan and as refugees in neighboring countries.
+
+“(b)
+
+Implementation.—(1) In providing assistance under subsection (a), the President shall ensure that such assistance is provided in a manner that protects and promotes the human rights of all people in Afghanistan, utilizing indigenous institutions and nongovernmental organizations, especially women's organizations, to the extent possible.
+
+“(2) Beginning 6 months after the date of enactment of this Act \[Dec. 12, 2001\], and at least annually for the 2 years thereafter, the Secretary of State shall submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on International Relations of the House of Representatives describing the activities carried out under this Act and otherwise describing the condition and status of women and children in Afghanistan and the persons in refugee camps while United States aid is given to displaced Afghans.
+
+“(c)
+
+Availability of Funds.—Funds made available under the 2001 Emergency Supplemental Appropriations Act for Recovery from and Response to Terrorist Attacks on the United States (Public Law 107–38) \[115 Stat. 220\], shall be available to carry out this Act.”
+
 #### Humanitarian Assistance
 
 Pub. L. 99–83, title IX, §904, Aug. 8, 1985, 99 Stat. 268, provided that:

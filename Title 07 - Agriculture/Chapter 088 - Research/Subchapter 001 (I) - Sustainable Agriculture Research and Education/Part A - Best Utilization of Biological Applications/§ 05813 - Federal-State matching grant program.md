@@ -32,7 +32,7 @@ States eligible to receive a grant under this section may conduct a variety of a
 
 #### (2) Elements of plan
 
-&emsp;State plans prepared under paragraph (1) shall provide details of the proposed program to be implemented using funds provided under this section for fiscal years 1991 through 1995,or any 5-year period thereafter, and shall identify the sources of matching State funds for the same fiscal year.
+&emsp;State plans prepared under paragraph (1) shall provide details of the proposed program to be implemented using funds provided under this section for fiscal years 1991 through 1995, or any 5-year period thereafter, and shall identify the sources of matching State funds for the same fiscal year.
 
 #### (3) Participation of farmers
 

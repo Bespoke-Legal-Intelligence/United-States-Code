@@ -1,6 +1,6 @@
 ### §1165. Tax exemption
 
-No part of any funds distributed or held in trust under the provisions of this subchapter shall be subject to Federal or State income taxes.
+No part of any funds distributed or held in trust under the provisions of this subchaptershall be subject to Federal or State income taxes.
 
 (Pub. L. 90–117, §5, Oct. 31, 1967, 81 Stat. 338.)
 

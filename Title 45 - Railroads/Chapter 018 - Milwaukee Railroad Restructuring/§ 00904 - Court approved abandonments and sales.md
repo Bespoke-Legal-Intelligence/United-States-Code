@@ -22,7 +22,7 @@ Nothing in this section shall be deemed to affect the priorities or timing of pa
 
 #### References in Text
 
-Section 11347 of title 49, referred to in subsecs. (a)(1) and (b)(1), was omitted in the general amendment ofsubtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 11347 are contained in section 11326(a) of Title 49.
+Section 11347 of title 49, referred to in subsecs. (a)(1) and (b)(1), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 11347 are contained in section 11326(a) of Title 49.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

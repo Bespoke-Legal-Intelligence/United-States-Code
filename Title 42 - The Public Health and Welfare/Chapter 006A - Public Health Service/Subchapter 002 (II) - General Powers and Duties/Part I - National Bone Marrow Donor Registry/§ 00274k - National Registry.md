@@ -60,7 +60,7 @@ The Registry shall—
 
 #### (3) Transplantation as treatment option
 
-&emsp;In addition to activities regarding recruitment, the program under paragraph (1) shall provide information to physicians, other health care professionals, and the public regarding the availability, as a potential treatment option, of receiving a transplant of bone marrow from an unrelated donor.
+&emsp;In addition to activities regarding recruitment, the program under paragraph (1) shallprovide information to physicians, other health care professionals, and the public regarding the availability, as a potential treatment option, of receiving a transplant of bone marrow from an unrelated donor.
 
 #### (d) Patient advocacy; case management
 
@@ -174,7 +174,7 @@ The Registry shall annually submit to the Secretary the data collected under sub
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–196, §2(a), substituted “(referred to in this part as the ‘Registry’) that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets” for “(referred to in this part as the ‘Registry’) that meets” and substituted “under the direction of a board of directors meeting the following requirements:” and pars. (1) to (4) for “under the direction of a board of directors that shall include representatives of marrow donor centers,marrow transplant centers, persons with expertise in the social science, and the general public.”
+1998—Subsec. (a). Pub. L. 105–196, §2(a), substituted “(referred to in this part as the ‘Registry’) that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets” for “(referred to in this part as the ‘Registry’) that meets” and substituted “under the direction of a board of directors meeting the following requirements:” and pars. (1) to (4) for “under the direction of a board of directors that shall include representatives of marrow donor centers, marrow transplant centers, persons with expertise in the social science, and the general public.”
 
 Subsec. (b)(2) to (8). Pub. L. 105–196, §2(b)(1), added pars. (2) to (7), redesignated former par. (7) as (8), and struck out former pars. (2) to (6) which read as follows:
 
@@ -210,7 +210,7 @@ Subsecs. (g) to (i). Pub. L. 105–196, §2(c), redesignated subsecs. (e) to (g)
 
 Subsec. (j). Pub. L. 105–196, §2(c), redesignated subsec. (h) as (j) and struck out heading and text of former subsec. (j). Text read as follows: “There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1991 and such sums as may be necessary for each of fiscal years 1992 and 1993.”
 
-Subsec. (k). Pub. L. 105–196, §2(c), (g)(2), redesignated subsec. (i) as (k) and substituted “subsection (e)(5)(A)” for “subsection (c)(5)(A)” and “subsection (e)(5)(B)” for “subsection (c)(5)(B)”.
+Subsec. (k). Pub. L. 105–196, §2(c), (g)(2), redesignated subsec. (i) as (k) and substituted “subsection (e)(5)(A)”for “subsection (c)(5)(A)” and “subsection (e)(5)(B)” for “subsection (c)(5)(B)”.
 
 Subsec. (<i>l</i>). Pub. L. 105–196, §2(f), added subsec. (<i>l</i>).
 
@@ -262,7 +262,7 @@ Report.—A report describing the findings of the study under subsection (a) sha
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 
-Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that: “With respect to requirements for the office of patient advocacy under section 379(d) of the Public Health Service Act \[subsec. (d) of this section\], the Secretary of Health and Human Services shall ensure that, not later than 180 days after the effective date of this Act \[Oct. 1, 1998\], such office is in compliance with allrequirements (established pursuant to the amendment made by section 2(d) \[amending this section\]) that are additional to the requirements that under section 379 of such Act \[this section\] were in effect with respect to patient advocacy on the day before the date of the enactment of this Act \[July 16, 1998\].”
+Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that: “With respect to requirements for the office of patient advocacy under section 379(d) of the Public Health Service Act \[subsec. (d) of this section\], the Secretary of Health and Human Services shall ensure that, not later than 180 days after the effective date of this Act \[Oct. 1, 1998\], such office is in compliance with all requirements (established pursuant to the amendment made by section 2(d) \[amending this section\]) that are additional to the requirements that under section 379 of such Act \[this section\] were in effect with respect to patient advocacy on the day before the date of the enactment of this Act \[July 16, 1998\].”
 
 #### Section Referred to in Other Sections
 

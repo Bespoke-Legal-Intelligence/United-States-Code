@@ -32,11 +32,11 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 
 #### Office of Justice Programs Grants, Cooperative Agreements, and Contracts
 
-Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §108(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Notwithstanding any other provision of law, for fiscal year 2000, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice—
+Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §108(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that:“Notwithstanding any other provision of law, for fiscal year 2000, the Assistant Attorney General for the Office of Justice Programs of the Department of Justice—
 
 &emsp;“(1) may make grants, or enter into cooperative agreements and contracts, for the Office of Justice Programs and the component organizations of that Office; and
 
-&emsp;“(2) shall have final authority over all grants, cooperative agreements and contracts made, or entered into, for the Office of Justice Programs and the component organizations of that Office, except for grants made under the provisions of sections 201, 202, 301, and 302 of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3721, 3722, 3731, 3732\], as amended; and sections 204(b)(3), 241(e)(1), 243(a)(1),243(a)(14) and 287A(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5614(b)(3), 5651(e)(1), 5653(a)(1), (14), 5667d–1(3)\], as amended.”
+&emsp;“(2) shall have final authority over all grants, cooperative agreements and contracts made, or entered into, for the Office of Justice Programs and the component organizations of that Office, except for grants made under the provisions of sections 201, 202, 301, and 302 of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3721, 3722, 3731, 3732\], as amended; and sections 204(b)(3), 241(e)(1), 243(a)(1), 243(a)(14) and 287A(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 \[42 U.S.C. 5614(b)(3), 5651(e)(1), 5653(a)(1), (14), 5667d–1(3)\], as amended.”
 
 Similar provisions were contained in the following prior appropriations act:
 

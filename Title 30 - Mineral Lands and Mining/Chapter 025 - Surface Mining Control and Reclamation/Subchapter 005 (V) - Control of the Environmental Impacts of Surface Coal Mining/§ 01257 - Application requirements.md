@@ -14,7 +14,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(3) a statement of any current or previous surface coal mining permits in the United States held by the applicant and the permit identification and each pending application;
 
-&emsp;(4) if the applicant is a partnership, corporation, association, or other business entity, the following where applicable: the names and addresses of every officer, partner, director, or person performing a function similar to a director, of the applicant, together with the name and address of any person owning, of record 10 per centum or more of any class of voting stock of the applicant and a list of all names under which the applicant, partner, or principal shareholder previously operated a surface mining operation within the United States within the five-year period preceding the date of submission of the application;
+&emsp;(4) if the applicant is a partnership, corporation, association, or other business entity, thefollowing where applicable: the names and addresses of every officer, partner, director, or person performing a function similar to a director, of the applicant, together with the name and address of any person owning, of record 10 per centum or more of any class of voting stock of the applicant and a list of all names under which the applicant, partner, or principal shareholder previously operated a surface mining operation within the United States within the five-year period preceding the date of submission of the application;
 
 &emsp;(5) a statement of whether the applicant, any subsidiary, affiliate, or persons controlled by or under common control with the applicant, has ever held a Federal or State mining permit which in the five-year period prior to the date of submission of the application has been suspended or revoked or has had a mining bond or similar security deposited in lieu of bond forefeited <sup>1</sup> and, if so, a brief explanation of the facts involved;
 
@@ -40,7 +40,7 @@ The permit application shall be submitted in a manner satisfactory to the regula
 
 &emsp;(16) for those lands in the permit application which a reconnaissance inspection suggests may be prime farm lands, a soil survey shall be made or obtained according to standards established by the Secretary of Agriculture in order to confirm the exact location of such prime farm lands, if any; and
 
-&emsp;(17) information pertaining to coal seams, test borings, core samplings, or soil samples asrequired by this section shall be made available to any person with an interest which is or may be adversely affected: <i>Provided</i>, That information which pertains only to the analysis of the chemical and physical properties of the coal (excepting information regarding such mineral or elemental content which is potentially toxic in the environment) shall be kept confidential and not made a matter of public record.
+&emsp;(17) information pertaining to coal seams, test borings, core samplings, or soil samples as required by this section shall be made available to any person with an interest which is or may be adversely affected: <i>Provided</i>, That information which pertains only to the analysis of the chemical and physical properties of the coal (excepting information regarding such mineral or elemental content which is potentially toxic in the environment) shall be kept confidential and not made a matter of public record.
 
 #### (c) Assistance to small coal operators
 
@@ -84,7 +84,7 @@ A coal operator that has received assistance pursuant to subsection (c)(1) or (2
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–486, §2513(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the regulatory authority finds that the probable total annual production at all locations of any coal surface mining operator will not exceed 300,000 tons, the determination of probable hydrologic consequences required by subsection (b)(11) of this section and the statement of the result of test borings or core samplings required by subsection (b)(15) of this section shall, upon the written request of the operator be performed by a qualified public or private laboratory designated by the regulatory authority and the cost of the preparation of such determination and statement shall be assumed by the regulatory authority.”
+1992—Subsec. (c). Pub. L. 102–486, §2513(a), amended subsec. (c) generally. Prior to amendment, subsec. (c)read as follows: “If the regulatory authority finds that the probable total annual production at all locations of any coal surface mining operator will not exceed 300,000 tons, the determination of probable hydrologic consequences required by subsection (b)(11) of this section and the statement of the result of test borings or core samplings required by subsection (b)(15) of this section shall, upon the written request of the operator be performed by a qualified public or private laboratory designated by the regulatory authority and the cost of the preparation of such determination and statement shall be assumed by the regulatory authority.”
 
 Subsec. (h). Pub. L. 102–486, §2513(b), added subsec. (h).
 

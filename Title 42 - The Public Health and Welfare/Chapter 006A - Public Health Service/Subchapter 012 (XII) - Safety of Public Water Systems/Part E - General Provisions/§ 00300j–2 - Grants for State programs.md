@@ -48,7 +48,7 @@ State loan funds.—
 
 &emsp;(A)
 
-Reservation of funds.—For any fiscal year for which the amount made available to the Administrator by appropriations to carry out this subsection is less than the amount that the Administrator determines is necessary to supplement funds made available pursuant to paragraph (8) to ensure the full and effective administration of a public water system supervision program in a State, the Administrator may reserve from the fundsmade available to the State under section 300j–12 of this title (relating to State loan funds) an amount that is equal to the amount of the shortfall. This paragraph shall not apply to any State not exercising primary enforcement responsibility for public water systems as of August 6, 1996.
+Reservation of funds.—For any fiscal year for which the amount made available to the Administrator by appropriations to carry out this subsection is less than the amount that the Administrator determines is necessary to supplement funds made available pursuant to paragraph (8) to ensure the full and effective administration of a public water system supervision program in a State, the Administrator may reserve from the funds made available to the State under section 300j–12 of this title (relating to State loan funds) an amount that is equal to the amount of the shortfall. This paragraph shall not apply to any State not exercising primary enforcement responsibility for public water systems as of August 6, 1996.
 
 &emsp;(B)
 
@@ -103,7 +103,7 @@ For purposes of this section:
 
 &emsp;There are authorized to be appropriated to the Administrator to carry out this subsection for each of fiscal years 1997 through 2003, $15,000,000 for the purpose of providing assistance to the State of New York to carry out paragraph (1).
 
-(July 1, 1944, ch. 373, title XIV, §1443, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1684; amended Pub. L. 95–190, §§2(b), (c), 5(a), Nov. 16, 1977, 91 Stat. 1393, 1395; Pub. L. 96–63, §2, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §§2(c), 4(d), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title III, §§301(b), (c), 302(d), June 19, 1986, 100 Stat. 664,666; Pub. L. 104–182, title I, §§120(c), 124, 128, Aug. 6, 1996, 110 Stat. 1651, 1653, 1659.)
+(July 1, 1944, ch. 373, title XIV, §1443, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1684; amended Pub. L. 95–190, §§2(b), (c), 5(a), Nov. 16, 1977, 91 Stat. 1393, 1395; Pub. L. 96–63, §2, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §§2(c), 4(d), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title III, §§301(b), (c), 302(d), June 19, 1986, 100 Stat. 664, 666; Pub. L. 104–182, title I, §§120(c), 124, 128, Aug. 6, 1996, 110 Stat. 1651, 1653, 1659.)
 
 #### Amendments
 

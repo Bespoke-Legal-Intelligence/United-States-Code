@@ -64,7 +64,7 @@
 
 (11)(A) The Commission shall promulgate a regulation under which a person required to file a designation, statement, or report under this Act—
 
-&emsp;(i) is required to maintain and file a designation, statement, or report for any calendar year in electronic form accessible by computers if the person has, or has reason to expect to have, aggregate contributions or expenditures in excess of a threshold amount determined by the Commission; and
+&emsp;(i) is required to maintain and file a designation, statement, or report for any calendaryear in electronic form accessible by computers if the person has, or has reason to expect to have, aggregate contributions or expenditures in excess of a threshold amount determined by the Commission; and
 
 &emsp;(ii) may maintain and file a designation, statement, or report in electronic form or an alternative form if not required to do so under the regulation promulgated under clause (i).
 

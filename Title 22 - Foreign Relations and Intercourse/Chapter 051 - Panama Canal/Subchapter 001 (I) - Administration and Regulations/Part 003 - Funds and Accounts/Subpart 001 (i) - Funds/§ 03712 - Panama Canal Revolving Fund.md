@@ -22,7 +22,7 @@ There is established in the Treasury of the United States a revolving fund to be
 
 &emsp;(9) The purchase and transportation to the Republic of Panama of passenger motor vehicles, including large, heavy-duty vehicles.
 
-&emsp;(10) Payment to the Panama Canal Authority, not later than the Canal Transfer Date, of such amount as is computed by the Commission to be the future amount of severance pay to be paid by the Panama Canal Authority to employees whose employment with the Authority is terminated, to the extent that such severance pay is attributable to periods of service performed with the Commission before the Canal Transfer Date (and assuming for purposes of such computation that the Panama Canal Authority, in paying severance pay to terminated employees, will provide for crediting of periods of service with the Commission).
+&emsp;(10) Payment to the Panama Canal Authority, not later than the Canal Transfer Date, ofsuch amount as is computed by the Commission to be the future amount of severance pay to be paid by the Panama Canal Authority to employees whose employment with the Authority is terminated, to the extent that such severance pay is attributable to periods of service performed with the Commission before the Canal Transfer Date (and assuming for purposes of such computation that the Panama Canal Authority, in paying severance pay to terminated employees, will provide for crediting of periods of service with the Commission).
 
 #### (b) Tolls and other receipts into Panama Canal Revolving Fund; restriction on use of funds
 

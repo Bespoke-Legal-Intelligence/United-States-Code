@@ -30,7 +30,7 @@
 
 &emsp;(11) To refinance in accordance with subsection (e) an existing loan guaranteed, insured, or made under this chapter, and to improve the dwelling securing such loan through energy efficiency improvements, as provided in subsection (d).
 
-> If there is an indebtedness which is secured by a lien against land owned by the veteran, the proceeds of a loan guaranteed under this section or made under section 3711 of this title for construction of a dwelling or farm residence on such land may be used also to liquidate such lien, but only if the reasonable value of the land is equal to or greater than the amount of the lien.
+> If there is an indebtedness which is secured by a lien against land owned by the veteran, the proceeds of a loan guaranteed under this section or made under section 3711 of this title for construction of a dwelling or farm residence on such land may be used also to liquidate such lien, but only if the reasonable value of the landis equal to or greater than the amount of the lien.
 
 (b) No loan may be guaranteed under this section or made under section 3711 of this title unless—
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(ii) the sum of the outstanding balance on the loan to be refinanced and the closing costs (including discounts) actually paid by the veteran, as specified by the Secretary in regulations; and
 
-&emsp;(8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 90 percent of the reasonable value of the dwelling or farm residence securing the loan,as determined pursuant to section 3731 of this title.
+&emsp;(8) in the case of a loan to refinance a loan (other than a loan or installment sales contract described in clause (7) of this subsection or a loan made for a purpose specified in subsection (a)(8) of this section), the amount of the loan to be guaranteed or made does not exceed 90 percent of the reasonable value of the dwelling or farm residence securing the loan, as determined pursuant to section 3731 of this title.
 
 \[(c) Repealed. Pub. L. 100–198, §3(a)(2), Dec. 21, 1987, 101 Stat. 1315.\]
 
@@ -316,7 +316,7 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
-Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+Section 9(c) of Pub. L. 102–547 directed Secretary of Veterans Affairs to transmit report on energy efficientmortgages to Committees on Veterans’ Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
 
 #### Section Referred to in Other Sections
 

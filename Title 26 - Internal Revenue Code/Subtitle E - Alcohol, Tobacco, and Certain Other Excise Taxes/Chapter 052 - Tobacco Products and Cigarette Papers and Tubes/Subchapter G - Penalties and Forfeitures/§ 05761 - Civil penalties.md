@@ -22,13 +22,13 @@ Except as provided in subsections (b) and (d) of section 5704—
 
 #### (d) Applicability of section 6665
 
-The penalties imposed by subsections (b) and (c) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).
+The penalties imposed by subsections (b) and (c) shall be assessed, collected, and paid in thesame manner as taxes, as provided in section 6665(a).
 
 #### (e) Cross references
 
 &emsp;&emsp;<b>For penalty for failure to make deposits or for overstatement of deposits, see section 6656.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 717; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1425; Pub. L. 97–34, title VII, §§722(a)(3), 724(b)(5), Aug. 13, 1981, 95 Stat. 342, 345; Pub. L. 97–448, title I, §107(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title VII, §714(h)(2), July 18, 1984, 98 Stat. 962; Pub. L. 101–239, title VII, §7721(c)(4), (5), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 105–33, title IX, §9302(h)(1)(B)–(D), Aug. 5, 1997, 111 Stat. 673; Pub.L. 106–476, title IV, §§4002(c), 4003(a), Nov. 9, 2000, 114 Stat. 2177; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 717; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1425; Pub. L. 97–34, title VII, §§722(a)(3), 724(b)(5), Aug. 13, 1981, 95 Stat. 342, 345; Pub. L. 97–448, title I, §107(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title VII, §714(h)(2), July 18, 1984, 98 Stat. 962; Pub. L. 101–239, title VII, §7721(c)(4), (5), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 105–33, title IX, §9302(h)(1)(B)–(D), Aug. 5, 1997, 111 Stat. 673; Pub. L. 106–476, title IV, §§4002(c), 4003(a), Nov. 9, 2000, 114 Stat. 2177; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644.)
 
 #### References in Text
 
@@ -40,7 +40,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (c),
 
 Pub. L. 106–476, §4003(a), inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
 
-Pub. L. 106–476, §4002(c), which directed amended of the last sentence of subsec. (c) by substituting “the jurisdiction of the United States shall be forfeited to the United States and destroyed. All vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” for “the jurisdiction of the United States” and all that followed through the end period, was executed by making the substitution for “the jurisdiction of the United States, and all vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” in the second sentence of subsec. (c) to reflect the probable intent of Congress and the intervening retroactive amendments by Pub. L. 106–476, §4003(a), and Pub. L. 106–554. See above.
+Pub. L. 106–476, §4002(c), which directed amendment of the last sentence of subsec. (c) by substituting “the jurisdiction of the United States shall be forfeited to the United States and destroyed. All vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” for “the jurisdiction of the United States” and all that followed through the end period, was executed by making the substitution for “the jurisdiction of the United States, and all vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” in the second sentence of subsec. (c) to reflect the probable intent of Congress and the intervening retroactive amendments by Pub. L. 106–476, §4003(a), and Pub. L. 106–554. See above.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §9302(h)(1)(C), substituted “subsection (b) or (c)” for “subsection (b)”.
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, seesection 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1981 Amendment
 

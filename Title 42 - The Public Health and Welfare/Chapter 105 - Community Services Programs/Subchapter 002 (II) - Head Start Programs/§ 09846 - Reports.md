@@ -10,7 +10,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;&emsp;(B) the amount of funds received by Head Start agencies newly designated under section 9836 of this title to provide such services in such fiscal year;
 
-&emsp;(2) a description of the distribution of Head Start services relative to the distribution of children who are eligible to participate in Head Start programs, including geographic distribution within States;
+&emsp;(2) a description of the distribution of Head Start services relative to the distribution of children who are eligible to participate inHead Start programs, including geographic distribution within States;
 
 &emsp;(3) a statement identifying how funds expended under section 9835(a)(2) of this title, and funds allotted under section 9835(a)(3) of this title, were distributed and used at national, regional, and local levels;
 
@@ -93,8 +93,4 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 4th item on page 79 identifies a reporting provision which, as subsequently amended, is contained in subsec. (a) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 20 section 6312.
 

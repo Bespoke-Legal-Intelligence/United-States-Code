@@ -42,7 +42,7 @@ The Secretary of the Treasury shall borrow from, receive from, lend to, or pay t
 
 #### (e) Authorization of appropriations for implementation expenses
 
-There are authorized to be appropriated to existing accounts such sums as may be necessary for salaries and expenses to carry out the responsibilities under this subchapter.
+There are authorized to be appropriated to existing accounts such sums as may be necessaryfor salaries and expenses to carry out the responsibilities under this subchapter.
 
 #### (f) Reinsurance
 

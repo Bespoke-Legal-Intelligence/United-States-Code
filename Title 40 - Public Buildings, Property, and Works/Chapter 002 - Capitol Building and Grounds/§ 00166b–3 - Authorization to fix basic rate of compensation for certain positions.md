@@ -1,6 +1,6 @@
 ### §166b–3. Authorization to fix basic rate of compensation for certain positions
 
-On and after August 21, 1959, the Architect of the Capitol is authorized, without regard tochapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of four positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of two positions under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings” at a basic rate of $8,200 per annum each: <i>Provided</i>, That this provision shall not be applicable to the positions of Architect or Assistant Architect.
+On and after August 21, 1959, the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of four positions under the appropriation “Salaries, Office of the Architect of the Capitol”, of two positions under the appropriation “Capitol Buildings”, and of one position under the appropriation “House Office Buildings” at a basic rate of $8,200 per annum each: <i>Provided</i>, That this provision shall not be applicable to the positions of Architect or Assistant Architect.
 
 On and after August 21, 1959, the Architect of the Capitol is authorized, without regard to chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of one position under the appropriation “Senate Office Buildings”, at a basic rate of $8,200 per annum.
 
@@ -8,7 +8,7 @@ On and after August 21, 1959, the Architect of the Capitol is authorized, withou
 
 #### Codification
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” in text on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” in text on authority of Pub. L. 89–554, §7(b),Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -36,7 +36,7 @@ Eligible Members.—This section and sections 1202 and 1203 of this title apply 
 
 &emsp;(3) Any other member of the armed forces who is on active duty but is not entitled to basic pay by reason of section 502(b) of title 37 due to authorized absence (A) to participate in an educational program, or (B) for an emergency purpose, as determined by the Secretary concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, §3(1), Sept. 19, 1978, 92 Stat. 719; Pub. L. 96–343, §10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, §117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(a), Sept. 23, 1996, 110 Stat. 2533.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, §3(1), Sept. 19, 1978, 92 Stat.719; Pub. L. 96–343, §10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, §117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(a), Sept. 23, 1996, 110 Stat. 2533.)
 
 Historical and Revision Notes<br>1956
 
@@ -140,5 +140,5 @@ Ex. Ord. No. 12239, Sept. 21, 1980, 45 F.R. 62967, which related to suspension o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1202, 1203, 1204, 1205, 1206, 1207a, 1210, 1372, 1401, 1402, 1402a, 1406, 1407 of this title; title 42 section 213a.
+This section is referred to in sections 1202, 1203, 1204, 1205, 1206, 1207a, 1210, 1372, 1401, 1402, 1402a, 1406, 1407, 1451 of this title; title 42 section 213a.
 

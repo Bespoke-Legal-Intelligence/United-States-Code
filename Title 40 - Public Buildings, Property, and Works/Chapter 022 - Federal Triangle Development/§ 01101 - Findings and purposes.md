@@ -40,7 +40,7 @@ Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996,
 
 #### Designation of Daniel Patrick Moynihan Place
 
-Pub. L. 106–567, title III, §310, Dec. 27, 2000, 114 Stat. 2841, designated as “Daniel Patrick Moynihan Place” a parcel of land located in Woodrow Wilson Plaza in the northwest quadrant of Washington, District of Columbia, directed the Administrator of General Services to erect appropriate gateways or other markers to denote that place, and provided that any reference in a law, map, regulation, document, paper, or other record of the United States to that parcel of land was to be deemed to be a reference to Daniel Patrick Moynihan Place.
+Pub. L. 106–567, title III, §310, Dec. 27, 2000, 114 Stat. 2841, designated as “Daniel Patrick Moynihan Place” a parcel of land located in Woodrow Wilson Plaza in thenorthwest quadrant of Washington, District of Columbia, directed the Administrator of General Services to erect appropriate gateways or other markers to denote that place, and provided that any reference in a law, map, regulation, document, paper, or other record of the United States to that parcel of land was to be deemed to be a reference to Daniel Patrick Moynihan Place.
 
 #### Designation of Ronald Reagan Building and International Trade Center
 

@@ -5,7 +5,7 @@
 | [10601\.](%C2%A7%2010601%20-%20Crime%20Victims%20Fund.md) | Crime Victims Fund. |
 | (a) | Establishment. |
 | (b) | Fines deposited in Fund; penalties; forfeited appearance bonds. |
-| (c) | Retention of sums in Fund; availability for expenditure without fiscal year limitation. |
+| §) | Retention of sums in Fund; availability for expenditure without fiscal year limitation. |
 | (d) | Availability for judicial branch administrative costs; grant program percentages. |
 | (e) | Amounts awarded and unspent. |
 | (f) | “Offenses against the United States” as excluding. |
@@ -13,7 +13,7 @@
 | [10602\.](%C2%A7%2010602%20-%20Crime%20victim%20compensation.md) | Crime victim compensation. |
 | (a) | Authority of Director; grants. |
 | (b) | Eligible crime victim compensation programs. |
-| (c) | Exclusion from income for purposes of means tests. |
+| (c) | Exclusion from income, resources, and assets for purposes of means tests. |
 | (d) | Definitions. |
 | (e) | Relationship to certain Federal programs. |
 | [10603\.](%C2%A7%2010603%20-%20Crime%20victim%20assistance.md) | Crime victim assistance. |
@@ -23,8 +23,8 @@
 | (d) | Definitions. |
 | [10603a.](%C2%A7%2010603a%20-%20Child%20abuse%20prevention%20and%20treatment%20grants.md) | Child abuse prevention and treatment grants. |
 | [10603b.](%C2%A7%2010603b%20-%20Compensation%20and%20assistance%20to%20victims%20of%20terrorism%20or%20mass%20violence.md) | Compensation and assistance to victims of terrorism or mass violence. |
-| (a) | Victims of acts of terrorism outside United States. |
-| (b) | Victims of terrorism within United States. |
+| (a) | Victims of acts of terrorism outside the United States. |
+| (b) | Victims of terrorism within the United States. |
 | [10603c.](%C2%A7%2010603c%20-%20Compensation%20to%20victims%20of%20international%20terrorism.md) | Compensation to victims of international terrorism. |
 | (a) | Definitions. |
 | (b) | Award of compensation. |

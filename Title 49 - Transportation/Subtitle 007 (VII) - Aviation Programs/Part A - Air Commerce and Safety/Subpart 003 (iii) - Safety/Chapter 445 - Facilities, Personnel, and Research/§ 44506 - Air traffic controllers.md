@@ -16,7 +16,7 @@ Research on Effect of Automation on Performance.—To develop the means necessar
 
 (b)
 
-Research on Human Factor Aspects of Automation.—The Administrators of the Federal Aviation Administration and National Aeronautics and Space Administration may make an agreement for the use of the National Aeronautics and Space Administration's unique human factor facilities and expertise in conducting research activities to study the human factor aspects of the highly automated environment for the next generation of air traffic controllers. The research activities shall include investigating—
+Research on Human Factor Aspects of Automation.—The Administrators of the Federal Aviation Administration and National Aeronautics and Space Administration may make an agreement for the use of the NationalAeronautics and Space Administration's unique human factor facilities and expertise in conducting research activities to study the human factor aspects of the highly automated environment for the next generation of air traffic controllers. The research activities shall include investigating—
 
 &emsp;(1) human perceptual capabilities and the effect of computer-aided decision making on the workload and performance of air traffic controllers;
 

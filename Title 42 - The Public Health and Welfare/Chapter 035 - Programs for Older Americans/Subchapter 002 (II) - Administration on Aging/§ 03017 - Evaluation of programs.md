@@ -10,11 +10,11 @@ The Secretary may not make grants or contracts under subchapter IV of this chapt
 
 #### (c) Opinions of program and project participants; comparison of effectiveness of related programs; consultation with organizations concerned with older individuals
 
-In carrying out evaluations under this section, the Secretary shall, whenever possible, arrangeto obtain the opinions of program and project participants about the strengths and weaknesses of the programs and projects, and conduct, where appropriate, evaluations which compare the effectiveness of related programs in achieving common objectives. In carrying out such evaluations, the Secretary shall consult with organizations concerned with older individuals, including those representing minority individuals, older individuals residing in rural areas and older individuals with disabilities.
+In carrying out evaluations under this section, the Secretary shall, whenever possible, arrange to obtain the opinions of program and project participants about the strengths and weaknesses of the programs and projects, and conduct, where appropriate, evaluations which compare the effectiveness of related programs in achieving common objectives. In carrying out such evaluations, the Secretary shall consult with organizations concerned with older individuals, including those representing minority individuals, older individuals residing in rural areas and older individuals with disabilities.
 
 #### (d) Annual summaries and analyses of evaluation; demonstration projects; transmittal to Congress; dissemination to Federal, State, and local agencies and private organizations; accessibility to public
 
-The Secretary shall annually publish summaries and analyses of the results of evaluative research and evaluation of program and project impact and effectiveness, including, as appropriate, health and nutrition education demonstration projects conducted under section 3027(f) <sup>1</sup> of this title, the full contents of which shall be transmitted to Congress, be disseminated to Federal, State, and local agencies and private organizations with an interest in aging, and be accessible to the public.
+The Secretary shall annually publish summaries and analyses of the results of evaluative research and evaluation of program and project impact and effectiveness, including, as appropriate, health and nutrition education demonstration projects conducted under section 3027(f) <sup>1</sup> of this title, the full contents of which shall be transmitted to Congress, be disseminated to Federal, State, and local agencies andprivate organizations with an interest in aging, and be accessible to the public.
 
 #### (e) Federal property
 
@@ -64,7 +64,7 @@ Subsec. (c). Pub. L. 98–459, §206(b), inserted provision requiring the Secret
 
 Subsec. (d). Pub. L. 98–459, §206(c), inserted reference to health and nutrition education demonstration projects conducted under section 3027(f) of this title and inserted provision requiring dissemination of summaries and analyses required by this subsection to Federal, State, and local agencies and private organizations with an interest in aging.
 
-Subsec. (g). Pub. L. 98–459, §206, substituted “one-tenth of 1 percent” for “1 per centum”, “under thischapter for each fiscal year” for “under this chapter”, and “$300,000 whichever is lower” for “$1,000,000 whichever is greater”.
+Subsec. (g). Pub. L. 98–459, §206, substituted “one-tenth of 1 percent” for “1 per centum”, “under this chapter for each fiscal year” for “under this chapter”, and “$300,000 whichever is lower” for “$1,000,000 whichever is greater”.
 
 1981—Subsec. (b). Pub. L. 97–115, §2(h), struck out “under section 3028 of this title” after “The Secretary may not make grants or contracts”.
 

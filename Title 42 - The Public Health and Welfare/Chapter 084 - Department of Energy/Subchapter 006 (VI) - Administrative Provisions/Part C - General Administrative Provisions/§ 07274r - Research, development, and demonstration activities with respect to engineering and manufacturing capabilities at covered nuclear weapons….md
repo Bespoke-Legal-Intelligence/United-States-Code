@@ -2,19 +2,25 @@
 
 The Administrator of the National Nuclear Security Administration may authorize the plant manager of a covered nuclear weapons production plant to engage in research, development, and demonstration activities with respect to the engineering and manufacturing capabilities at such plant in order to maintain and enhance such capabilities at such plant: <i>Provided</i>, That of the amount allocated to a covered nuclear weapons production plant each fiscal year from amounts available to the Department of Energy for such fiscal year for national security programs, not more than an amount equal to 2 percent of such amount may be used for these activities: <i>Provided further</i>, That for purposes of this section, the term “covered nuclear weapons production plant” means the following:
 
-&emsp;(1) The Kansas City Plant, Kansas City, Missouri.
+&emsp;(1) the Kansas City Plant, Kansas City, Missouri;
 
-&emsp;(2) The Y–12 Plant, Oak Ridge, Tennessee.
+&emsp;(2) the Y–12 Plant, Oak Ridge, Tennessee;
 
-&emsp;(3) The Pantex Plant, Amarillo, Texas.
+&emsp;(3) the Pantex Plant, Amarillo, Texas; and
 
-&emsp;(4) The Savannah River Plant, South Carolina.
+&emsp;(4) the Savannah River Plant, South Carolina.
 
-(Pub. L. 106–377, §1(a)(2) \[title III, §310\], Oct. 27, 2000, 114 Stat. 1441, 1441A–80.)
+(Pub. L. 107–66, title III, §309, Nov. 12, 2001, 115 Stat. 509.)
 
 #### Codification
 
-Section was enacted as part of the Energy and Water Development Appropriations Act, 2001, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the Energy and Water Development Appropriations Act, 2002, and not as part of the Department of Energy Organization Act which comprises this chapter.
+
+#### Similar Provisions
+
+Provisions similar to those in this section were contained in the following prior appropriation act:
+
+Pub. L. 106–377, §1(a)(2) \[title III, §310\], Oct. 27, 2000, 114 Stat. 1441, 1441A–80.
 
 #### Engineering and Manufacturing Research, Development, and Demonstration by Plant Managers of Certain Nuclear Weapons Production Plants
 

@@ -22,7 +22,7 @@ In order to meet the requirements of this section, a State must have in effect a
 
 &emsp;&emsp;(A) the information exchanged by the State agencies is made available only to the extent necessary to assist in the valid administrative needs of the program receiving such information, and the information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986 is only exchanged with agencies authorized to receive such information under such section 6103(<i>l</i>); and
 
-&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulationsestablished by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
+&emsp;&emsp;(B) the information is adequately protected against unauthorized disclosure for other purposes, as provided in regulations established by the Secretary of Health and Human Services, or, in the case of the unemployment compensation program, the Secretary of Labor, or, in the case of the food stamp program, the Secretary of Agriculture, or <sup>1</sup> in the case of information released pursuant to section 6103(<i>l</i>) of the Internal Revenue Code of 1986, the Secretary of the Treasury;
 
 &emsp;(6) all applicants for and recipients of benefits under any such program shall be notified at the time of application, and periodically thereafter, that information available through the system will be requested and utilized; and
 
@@ -98,7 +98,7 @@ The requirements of this subsection, with respect to an income and eligibility v
 
 &emsp;&emsp;(B) if there are submitted documents which the State determines constitutes reasonable evidence indicating such status—
 
-&emsp;&emsp;&emsp;(i) the State shall transmit to the Immigration and Naturalization Service either photostatic or other similar copies of such documents, or information from such documents, as specified by the Immigration and Naturalization Service, for official verification,
+&emsp;&emsp;&emsp;(i) the State shall transmit to the Immigration and Naturalization Service eitherphotostatic or other similar copies of such documents, or information from such documents, as specified by the Immigration and Naturalization Service, for official verification,
 
 &emsp;&emsp;&emsp;(ii) pending such verification, the State may not delay, deny, reduce, or terminate the individual's eligibility for benefits under the program on the basis of the individual's immigration status, and
 

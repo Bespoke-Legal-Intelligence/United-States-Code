@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;No law of any State or political subdivision thereof requiring the registration, licensing,or qualification as an investment adviser or supervised person of an investment adviser shall apply to any person—
+&emsp;No law of any State or political subdivision thereof requiring the registration, licensing, or qualification as an investment adviser or supervised person of an investment adviser shall apply to any person—
 
 &emsp;&emsp;(A) that is registered under section 80b–3 of this title as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State; or
 

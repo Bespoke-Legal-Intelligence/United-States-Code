@@ -66,7 +66,7 @@ Each protection and advocacy system that receives a payment under this section s
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year2001, and such sums as may be necessary for each <sup>2</sup> the fiscal years 2002 through 2005.
+There are authorized to be appropriated to carry out this section $5,000,000 for fiscal year 2001, and such sums as may be necessary for each <sup>2</sup> the fiscal years 2002 through 2005.
 
 #### (j) Definitions
 

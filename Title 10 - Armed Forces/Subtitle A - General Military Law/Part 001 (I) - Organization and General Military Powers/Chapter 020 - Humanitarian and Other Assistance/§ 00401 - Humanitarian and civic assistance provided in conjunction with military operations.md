@@ -114,7 +114,7 @@ Section 1504 of Pub. L. 103–160 provided that:
 
 “(a)
 
-Regulations.—The regulations required to be prescribed under section 401 of title 10, United States Code, shall be prescribed not later than March 1, 1994.In prescribing such regulations, the Secretary of Defense shall consult with the Secretary of State.
+Regulations.—The regulations required to be prescribed under section 401 of title 10, United States Code, shall be prescribed not later than March 1, 1994. In prescribing such regulations, the Secretary of Defense shall consult with the Secretary of State.
 
 “(b)
 
@@ -148,11 +148,13 @@ Pub. L. 102–396, title II, Oct. 6, 1992, 106 Stat. 1884, provided: “That whe
 
 #### Appropriation of Funds for Humanitarian and Civic Assistance; Annual Report to Congress on Obligations; Use of Civic Action Teams in Trust Territories of Pacific Islands and Freely Associated States of Micronesia
 
-Pub. L. 106–259, title VIII, §8009, Aug. 9, 2000, 114 Stat. 676, provided that: Within the funds appropriated for the operation and maintenance of the Armed Forces, funds are hereby appropriated pursuant to section 401 of title 10, United States Code, for humanitarian and civic assistance costs under chapter 20 of title 10, United States Code. Such funds may also be obligated for humanitarian and civic assistance costs incidental to authorized operations and pursuant to authority granted in section 401 of chapter 20 of title 10, United States Code, and these obligations shall be reported to the Congress on September 30 of each year: <i>Provided</i>, That funds available for operation and maintenance shall be available for providing humanitarian and similar assistance by using Civic Action Teams in the Trust Territories of the Pacific Islands and freely associated states of Micronesia, pursuant to the Compact of Free Association as authorized by Public Law 99–239 \[48 U.S.C. 1901 note\]: <i>Provided further</i>, That upon a determination by the Secretary of the Army that such action is beneficial for graduate medical education programs conducted at Army medical facilities located in Hawaii, the Secretary of the Army may authorize the provision of medical services at such facilities and transportation to such facilities, on a nonreimbursable basis, for civilian patients from American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, Palau, and Guam.”
+Pub. L. 107–117, div. A, title VIII, §8009, Jan. 10, 2002, 115 Stat. 2249, provided that: “Within the funds appropriated for the operation and maintenance of the Armed Forces, funds are hereby appropriated pursuant to section 401 of title 10, United States Code, for humanitarian and civic assistance costs under chapter 20 of title 10, United States Code. Such funds may also be obligated for humanitarian and civic assistance costs incidental to authorized operations and pursuant to authority granted in section 401 of chapter 20 of title 10, United States Code, and these obligations shall be reported to the Congress as of September 30 of each year: <i>Provided</i>, That funds available for operation and maintenance shall be available for providing humanitarian and similar assistance by using Civic Action Teams in the Trust Territories of the Pacific Islands and freely associated states of Micronesia, pursuant to the Compact of Free Association as authorized by Public Law 99–239 \[48 U.S.C. 1901 note\]: <i>Provided further</i>, That upon a determination by the Secretary of the Army that such action is beneficial for graduate medical education programs conducted at Army medical facilities located in Hawaii, the Secretary of the Army may authorize the provision of medical services at such facilities and transportation to such facilities, on a nonreimbursable basis, for civilian patients from American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, Palau, and Guam.”
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–259, title VIII, §8009, Aug. 9, 2000, 114 Stat. 676.
 
 Pub. L. 106–79, title VIII, §8009, Oct. 25, 1999, 113 Stat. 1232.
 

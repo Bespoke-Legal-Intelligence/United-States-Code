@@ -66,7 +66,7 @@ Sec. 3. <i>Activities of the Center</i>. The activities of the Center should be 
 
 (5) Stimulating the creation of new management entities, and strengthening the effectiveness of existing management entities.
 
-Sec. 4. <i>Assistance by Federal Agencies</i>. To the extent consistent with law, all other Federal executive departments and agencies shall cooperate and work with theDepartment of Housing and Urban Development and the Center in providing appropriate advice and financial support so as to ensure that the above described objectives are carried out with the most effective and efficient use of Federal, State and local resources, both public and private.
+Sec. 4. <i>Assistance by Federal Agencies</i>. To the extent consistent with law, all other Federal executive departments and agencies shall cooperate and work with the Department of Housing and Urban Development and the Center in providing appropriate advice and financial support so as to ensure that the above described objectives are carried out with the most effective and efficient use of Federal, State and local resources, both public and private.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

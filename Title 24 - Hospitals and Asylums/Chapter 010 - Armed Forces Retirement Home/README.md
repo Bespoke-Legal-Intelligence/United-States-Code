@@ -10,20 +10,20 @@
 
 |  |  |
 | :--- | ---: |
-| [411\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000411%20-%20Establishment%20of%20Armed%20Forces%20Retirement%20Home.md) | Establishment of Armed Forces Retirement Home. |
-| (a) | Inclusion of existing homes. |
+| [411\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000411%20-%20Establishment%20of%20the%20Armed%20Forces%20Retirement%20Home.md) | Establishment of the Armed Forces Retirement Home. |
+| (a) | Independent establishment. |
 | (b) | Purpose. |
-| (c) | Operation. |
-| (d) | Property and facilities. |
-| (e) | Department of Defense support. |
-| (f) | Accreditation. |
+| (c) | Facilities. |
+| (d) | Operation. |
+| (e) | Property and facilities. |
+| (f) | Department of Defense support. |
+| (g) | Accreditation. |
+| (h) | Annual report. |
 | [412\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000412%20-%20Residents%20of%20Retirement%20Home.md) | Residents of Retirement Home. |
 | (a) | Persons eligible to be residents. |
 | (b) | Persons ineligible to be residents. |
 | (c) | Acceptance. |
 | (d) | Priorities for acceptance. |
-| (e) | Effect of departure. |
-| (f) | Application of eligibility requirements to current residents of Naval Home and Soldiers’ and Airmen's Home. |
 | [413\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000413%20-%20Services%20provided%20residents.md) | Services provided residents. |
 | (a) | Services provided. |
 | (b) | Medical and dental care. |
@@ -31,41 +31,41 @@
 | (a) | Monthly fees. |
 | (b) | Deposit of fees. |
 | (c) | Fixing fees. |
-| (d) | Application of fees. |
-| [415\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000415%20-%20Composition%20and%20operation%20of%20Retirement%20Home%20Board.md) | Composition and operation of Retirement Home Board. |
+| (d) | Transitional fee structures. |
+| [415\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000415%20-%20Chief%20Operating%20Officer.md) | Chief Operating Officer. |
+| (a) | Appointment. |
+| (b) | Qualifications. |
+| (c) | Responsibilities. |
+| (d) | Compensation. |
+| (e) | Administrative staff. |
+| (f) | Acceptance of gifts. |
+| [416\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000416%20-%20Local%20Boards%20of%20Trustees.md) | Local Boards of Trustees. |
 | (a) | Establishment. |
-| (b) | Members. |
-| (c) | Local Boards. |
-| (d) | Chairmen. |
-| (e) | Terms. |
-| (f) | Early expiration of term. |
-| (g) | Vacancies. |
+| (b) | Duties. |
+| (c) | Composition. |
+| (d) | Terms. |
+| (e) | Early expiration of term. |
+| (f) | Vacancies. |
+| (g) | Early termination. |
 | (h) | Compensation. |
-| (i) | Meetings. |
-| [416\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000416%20-%20Duties%20of%20Retirement%20Home%20Board.md) | Duties of Retirement Home Board. |
-| (a) | Overall operation of Retirement Home. |
-| (b) | Special duties of specific members. |
-| (c) | Acquisition of real property. |
-| (d) | Limitation on disposal of real property. |
-| (e) | Gifts. |
-| (f) | Annual report. |
-| [417\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000417%20-%20Directors%20and%20staff.md) | Directors and staff. |
-| (a) | Appointment and qualifications. |
-| (b) | Application of civil service laws to appointment and fixing pay. |
-| (c) | Terms of Directors. |
-| (d) | Duties of Directors. |
-| (e) | Staff. |
-| (f) | Annual evaluation of Directors. |
-| (g) | Definitions. |
+| [417\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000417%20-%20Directors%2C%20deputy%20directors%2C%20associate%20directors%2C%20and%20staff%20of%20facilities.md) | Directors, deputy directors, associate directors, and staff of facilities. |
+| (a) | Appointment. |
+| (b) | Director. |
+| (c) | Duties of Director. |
+| (d) | Deputy Director. |
+| (e) | Duties of Deputy Director. |
+| (f) | Associate Director. |
+| (g) | Duties of Associate Director. |
+| (h) | Staff. |
+| (i) | Annual evaluation of directors. |
 | [418\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000418%20-%20Inspection%20of%20Retirement%20Home.md) | Inspection of Retirement Home. |
 | (a) | Triennial inspection. |
 | (b) | Alternating duty among Inspectors General. |
 | (c) | Reports. |
-| [419\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000419%20-%20Retirement%20Home%20Trust%20Fund.md) | Retirement Home Trust Fund. |
+| [419\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000419%20-%20Armed%20Forces%20Retirement%20Home%20Trust%20Fund.md) | Armed Forces Retirement Home Trust Fund. |
 | (a) | Establishment. |
 | (b) | Availability and use of Fund. |
 | (c) | Investments. |
-| (d) | Transitional accounts. |
 | [420\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000420%20-%20Disposition%20of%20effects%20of%20deceased%20persons%3B%20unclaimed%20property.md) | Disposition of effects of deceased persons; unclaimed property. |
 | (a) | Disposition of effects of deceased persons. |
 | (b) | Sale of effects. |
@@ -82,16 +82,11 @@
 | (c) | Authority to recruit and train persons providing services. |
 | (d) | Status of persons providing services. |
 | (e) | Reimbursement of incidental expenses. |
-| [423\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000423%20-%20Preservation%20of%20historic%20buildings%20and%20grounds%20at%20United%20States%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home.md) | Preservation of historic buildings and grounds at United States Soldiers’ and Airmen's Home. |
+| [423\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000423%20-%20Preservation%20of%20historic%20buildings%20and%20grounds%20at%20the%20Armed%20Forces%20Retirement%20Home%E2%80%94Washington.md) | Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington. |
 | (a) | Historic nature of facility. |
 | (b) | Authority to accept assistance. |
 | (c) | Requirements and limitations. |
-| [424\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000424%20-%20Conditional%20supervisory%20control%20of%20Retirement%20Home%20Board%20by%20Secretary%20of%20Defense.md) | Conditional supervisory control of Retirement Home Board by Secretary of Defense. |
-| (a) | Applicability. |
-| (b) | Board authority subject to Secretary's control. |
-| (c) | Appointment of Board members. |
-| (d) | Terms of Board members. |
-| (e) | Responsibility of chairman to the Secretary. |
+| [424\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000424%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20XIV%2C%20%C2%A71410%28a%29%285%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201266.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -99,9 +94,11 @@
 
 |  |  |
 | :--- | ---: |
-| [431\.](Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/%C2%A7%2000431%20-%20Transfer%20of%20trust%20funds%20relating%20to%20Naval%20Home%20and%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home.md) | Transfer of trust funds relating to Naval Home and Soldiers’ and Airmen's Home. |
-| (a) | Initial transfer. |
-| (b) | Subsequent transfers. |
+| [431\.](Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/%C2%A7%2000431%20-%20Temporary%20continuation%20of%20Armed%20Forces%20Retirement%20Home%20Board.md) | Temporary continuation of Armed Forces Retirement Home Board. |
+| [432\.](Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/%C2%A7%2000432%20-%20Directors%20of%20facilities.md) | Directors of facilities. |
+| (a) | Active duty officers. |
+| (b) | Temporary continuation of Director of the Armed Forces Retirement Home—Washington. |
+| [433\.](Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/%C2%A7%2000433%20-%20Temporary%20continuation%20of%20incumbent%20deputy%20directors.md) | Temporary continuation of incumbent deputy directors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -109,7 +106,7 @@
 
 |  |  |
 | :--- | ---: |
-| [441\.](Subchapter%20003%20%28III%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2000441%20-%20Authorization%20of%20appropriations%20for%20United%20States%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home.md) | Authorization of appropriations for United States Soldiers’ and Airmen's Home. |
+| [441\.](Subchapter%20003%20%28III%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2000441%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20XIV%2C%20%C2%A71410%28b%29%283%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201266.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

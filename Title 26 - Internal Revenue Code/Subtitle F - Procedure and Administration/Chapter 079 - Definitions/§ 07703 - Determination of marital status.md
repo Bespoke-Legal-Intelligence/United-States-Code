@@ -40,5 +40,5 @@ Section applicable to bonds issued after Aug. 15, 1986, except as otherwise prov
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1, 2, 22, 24, 25A, 32, 55, 62, 63, 68, 86, 135, 151, 152, 153, 194, 221, 879, 1044,1202, 1398, 3402, 6012, 6103, 6654 of this title; title 38 section 1503.
+This section is referred to in sections 1, 2, 22, 24, 25A, 32, 55, 62, 63, 68, 86, 135, 151, 152, 153, 194, 221, 222, 879, 1044, 1202, 1398, 3402, 6012, 6103, 6654 of this title; title 38 section 1503.
 

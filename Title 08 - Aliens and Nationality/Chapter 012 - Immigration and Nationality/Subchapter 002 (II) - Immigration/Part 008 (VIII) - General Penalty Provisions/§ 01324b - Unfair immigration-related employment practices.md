@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) is a citizen or national of the United States, or
 
-&emsp;&emsp;(B) is an alien who is lawfully admitted for permanent residence, is granted the status of an alien lawfully admitted for temporary residence under section 1160(a) or 1255a(a)(1)of this title, is admitted as a refugee under section 1157 of this title, or is granted asylum under section 1158 of this title; but does not include (i) an alien who fails to apply for naturalization within six months of the date the alien first becomes eligible (by virtue of period of lawful permanent residence) to apply for naturalization or, if later, within six months after November 6, 1986, and (ii) an alien who has applied on a timely basis, but has not been naturalized as a citizen within 2 years after the date of the application, unless the alien can establish that the alien is actively pursuing naturalization, except that time consumed in the Service's processing the application shall not be counted toward the 2-year period.
+&emsp;&emsp;(B) is an alien who is lawfully admitted for permanent residence, is granted the status of an alien lawfully admitted for temporary residence under section 1160(a) or 1255a(a)(1) of this title, is admitted as a refugee under section 1157 of this title, or is granted asylum under section 1158 of this title; but does not include (i) an alien who fails to apply for naturalization within six months of the date the alien first becomes eligible (by virtue of period of lawful permanent residence) to apply for naturalization or, if later, within six months after November 6, 1986, and (ii) an alien who has applied on a timely basis, but has not been naturalized as a citizen within 2 years after the date of the application, unless the alien can establish that the alien is actively pursuing naturalization, except that time consumed in the Service's processing the application shall not be counted toward the 2-year period.
 
 #### (4) Additional exception providing right to prefer equally qualified citizens
 
@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any person alleging that the person is adversely affected directly by an unfair immigration-related employment practice (or a person on that person's behalf) or an officer of the Service alleging that an unfair immigration-related employment practice has occurred or is occurring may file a charge respecting such practice or violation with the Special Counsel (appointed under subsection (c) of this section). Charges shall be in writing under oath or affirmation and shall contain such information as the Attorney General requires. The Special Counsel by certified mail shall serve a notice of the charge (including the date, place, and circumstances of the alleged unfair immigration-related employment practice) on the person or entity involved within 10 days.
+&emsp;Except as provided in paragraph (2), any person alleging that the person is adversely affected directly by an unfair immigration-related employment practice (or a person on that person's behalf) or an officer of the Service alleging that an unfair immigration-related employment practice has occurred or is occurring may file a charge respecting such practice or violation with the Special Counsel\(appointed under subsection (c) of this section). Charges shall be in writing under oath or affirmation and shall contain such information as the Attorney General requires. The Special Counsel by certified mail shall serve a notice of the charge (including the date, place, and circumstances of the alleged unfair immigration-related employment practice) on the person or entity involved within 10 days.
 
 #### (2) No overlap with EEOC complaints
 
@@ -72,7 +72,7 @@
 
 #### (1) By Special Counsel
 
-&emsp;The Special Counsel shall investigate each charge received and, within 120 days of the date of the receipt of the charge, determine whether or not there is reasonable cause to believe that the charge is true and whether or not to bring a complaint with respect to the charge before an administrative law judge.The Special Counsel may, on his own initiative, conduct investigations respecting unfair immigration-related employment practices and, based on such an investigation and subject to paragraph (3), file a complaint before such a judge.
+&emsp;The Special Counsel shall investigate each charge received and, within 120 days of the date of the receipt of the charge, determine whether or not there is reasonable cause to believe that the charge is true and whether or not to bring a complaint with respect to the charge before an administrative law judge. The Special Counsel may, on his own initiative, conduct investigations respecting unfair immigration-related employment practices and, based on such an investigation and subject to paragraph (3), file a complaint before such a judge.
 
 #### (2) Private actions
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(i) to comply with the requirements of section 1324a(b) of this title with respect to individuals hired (or recruited or referred for employment for a fee) during a period of up to three years;
 
-&emsp;&emsp;&emsp;(ii) to retain for the period referred to in clause (i) and only for purposes consistent with section 1324a(b)(5) of this title, thename and address of each individual who applies, in person or in writing, for hiring for an existing position, or for recruiting or referring for a fee, for employment in the United States;
+&emsp;&emsp;&emsp;(ii) to retain for the period referred to in clause (i) and only for purposes consistent with section 1324a(b)(5) of this title, the name and address of each individual who applies, in person or in writing, for hiring for an existing position, or for recruiting or referring for a fee, for employment in the United States;
 
 &emsp;&emsp;&emsp;(iii) to hire individuals directly and adversely affected, with or without back pay;
 
@@ -150,7 +150,7 @@
 
 #### (D) Treatment of distinct entities
 
-&emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
+&emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, withoutreference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
 
 #### (3) Orders not finding violations
 
@@ -186,7 +186,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (4) Awarding of attorneys’ fees
 
-&emsp;In any judicial proceeding under subsection (i) of this section or this subsection, the court,in its discretion, may allow a prevailing party, other than the United States, a reasonable attorney's fee as part of costs but only if the losing party's argument is without reasonable foundation in law and fact.
+&emsp;In any judicial proceeding under subsection (i) of this section or this subsection, the court, in its discretion, may allow a prevailing party, other than the United States, a reasonable attorney's fee as part of costs but only if the losing party's argument is without reasonable foundation in law and fact.
 
 #### (k) Termination dates
 
@@ -212,7 +212,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 &emsp;(A) may, to the extent deemed appropriate and subject to the availability of appropriations, contract with public and private organizations for outreach activities under the campaign, and
 
-&emsp;(B) shall consult with the Secretary of Labor, the chairman of the Equal Employment Opportunity Commission, and the heads of such other agencies as may be appropriate.
+&emsp;(B) shall consult with the Secretary of Labor, the chairman of the Equal EmploymentOpportunity Commission, and the heads of such other agencies as may be appropriate.
 
 (3) There are authorized to be appropriated to carry out this subsection $10,000,000 for each fiscal year (beginning with fiscal year 1991).
 

@@ -62,7 +62,7 @@
 
 (2) Paragraph (1) applies to the following service:
 
-&emsp;(A) Service performed while a member of a reserve component under an enlistment undersection 12103(b) or 12103(d) of title 10 before the member begins service on active duty under such section (including a period of active duty for training) unless the member performs inactive-duty training before beginning service on active duty or active duty for training;
+&emsp;(A) Service performed while a member of a reserve component under an enlistment under section 12103(b) or 12103(d) of title 10 before the member begins service on active duty under such section (including a period of active duty for training) unless the member performs inactive-duty training before beginning service on active duty or active duty for training;
 
 &emsp;(B) Service performed while a member of a reserve component under an enlistment under section 513 of title 10 (other than a period of active duty to which the member is ordered under chapter 1209 of title 10 or another provision of law).
 
@@ -184,7 +184,7 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. (particularly §625) of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
 
-Section Referred to in Other Sections
+#### Section Referred to in Other Sections
 
 This section is referred to in sections 201, 203, 301c, 308, 406 of this title; title 10 sections 972, 2126; title 42 section 212.
 

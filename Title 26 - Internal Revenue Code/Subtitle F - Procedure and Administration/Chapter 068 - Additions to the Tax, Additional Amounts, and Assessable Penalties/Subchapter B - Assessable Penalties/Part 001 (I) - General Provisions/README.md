@@ -51,10 +51,13 @@
 | [6713\.](%C2%A7%2006713%20-%20Disclosure%20or%20use%20of%20information%20by%20preparers%20of%20returns.md) | Disclosure or use of information by preparers of returns. |
 | [6714\.](%C2%A7%2006714%20-%20Failure%20to%20meet%20disclosure%20requirements%20applicable%20to%20quid%20pro%20quo%20contributions.md) | Failure to meet disclosure requirements applicable to quid pro quo contributions. |
 | [6715\.](%C2%A7%2006715%20-%20Dyed%20fuel%20sold%20for%20use%20or%20used%20in%20taxable%20use%2C%20etc.md) | Dyed fuel sold for use or used in taxable use, etc. |
+| [6716\.](%C2%A7%2006716%20-%20Failure%20to%20file%20information%20with%20respect%20to%20certain%20transfers%20at%20death%20and%20gifts.md) | Failure to file information with respect to certain transfers at death and gifts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title V, §542(b)(5)(A), June 7, 2001, 115 Stat. 83, added item 6716.
 
 <b>1997</b>—Pub. L. 105–34, title II, §211(e)(2)(D), Aug. 5, 1997, 111 Stat. 812, substituted “certain tax-favored” for “individual retirement” in item 6693.
 
@@ -189,3 +192,4 @@ This subchapter is referred to in section 6166 of this title.
 - [&sect; 06713 - Disclosure or use of information by preparers of returns](%C2%A7%2006713%20-%20Disclosure%20or%20use%20of%20information%20by%20preparers%20of%20returns.md)
 - [&sect; 06714 - Failure to meet disclosure requirements applicable to quid pro quo contributions](%C2%A7%2006714%20-%20Failure%20to%20meet%20disclosure%20requirements%20applicable%20to%20quid%20pro%20quo%20contributions.md)
 - [&sect; 06715 - Dyed fuel sold for use or used in taxable use, etc](%C2%A7%2006715%20-%20Dyed%20fuel%20sold%20for%20use%20or%20used%20in%20taxable%20use%2C%20etc.md)
+- [&sect; 06716 - Failure to file information with respect to certain transfers at death and gifts](%C2%A7%2006716%20-%20Failure%20to%20file%20information%20with%20respect%20to%20certain%20transfers%20at%20death%20and%20gifts.md)

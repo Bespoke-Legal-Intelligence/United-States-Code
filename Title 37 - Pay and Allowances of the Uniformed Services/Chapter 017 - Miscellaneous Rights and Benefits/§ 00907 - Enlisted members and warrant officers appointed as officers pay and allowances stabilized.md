@@ -6,7 +6,7 @@
 
 &emsp;(2) the pay and allowances to which he would be entitled if he were in the last enlisted grade he held before his appointment as an officer.
 
-(b) A warrant officer who accepts an appointment as a commissioned officer in a pay grade above W–4 shall, for service as such a commissioned officer, be paid the greater of—
+(b) A warrant officer who accepts an appointment as a commissioned officer in a pay gradeabove W–4 shall, for service as such a commissioned officer, be paid the greater of—
 
 &emsp;(1) the pay and allowances to which he is entitled as such a commissioned officer;
 

@@ -50,7 +50,7 @@ Definition.—In this clause the term “C-band service” means a service that 
 
 &emsp;&emsp;(C)
 
-Submission of subscriber lists to networks.—A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission. Thereafter, on the 15th of each month, the satellite carrier shall submit to the network a list identifying (by name and street address, including county and zip code) any persons who have been added or dropped as such subscribers since the last submission under this subparagraph. Such subscriber information submitted by a satellite carrier may be used only for purposes of monitoring compliance by the satellite carrier with this subsection. The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to whom the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents.
+Submission of subscriber lists to networks.—A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission. Thereafter, on the 15th of each month, the satellite carrier shall submit to the network a list identifying (by name and street address, including county and zip code) any persons who have been added or dropped as such subscribers since the last submission under this subparagraph. Such subscriber information submitted by a satellite carrier may be used only for purposes of monitoring compliance by the satellite carrier with this subsection. The submission requirements of this subparagraph shall apply to a satellitecarrier only if the network to whom the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents.
 
 &emsp;(3)
 
@@ -152,7 +152,7 @@ Loser pays for signal intensity measurement; recovery of measurement costs in a 
 
 &emsp;(10)
 
-Inability to conduct measurement.—If a network station makes a reasonable attempt to conduct a site measurement of its signal at a subscriber's household and is denied access for the purpose of conducting the measurement, and is otherwise unable to conduct a measurement, the satellite carrier shall within 60 days notice thereof, terminate service of the station's network to that household.
+Inability to conduct measurement.—If a network station makes a reasonable attempt to conduct a site measurement of its signal ata subscriber's household and is denied access for the purpose of conducting the measurement, and is otherwise unable to conduct a measurement, the satellite carrier shall within 60 days notice thereof, terminate service of the station's network to that household.
 
 &emsp;(11)
 
@@ -172,7 +172,7 @@ In general.—For purposes of this subsection, and subject to clauses (ii) and (
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation.—Clause (i) shall apply only to a recreational vehicle or commercial truck if any satellite carrier that proposes to make a secondary transmission of a network station to the operator of sucha recreational vehicle or commercial truck complies with the documentation requirements under subparagraphs (B) and (C).
+Limitation.—Clause (i) shall apply only to a recreational vehicle or commercial truck if any satellite carrier that proposes to make a secondary transmission of a network station to the operator of such a recreational vehicle or commercial truck complies with the documentation requirements under subparagraphs (B) and (C).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -288,7 +288,7 @@ Notice of initiation of proceedings.—On or before January 1, 1997, the Librari
 
 Establishment of royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall establish fees for the retransmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions. In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—
 
-&emsp;&emsp;&emsp;(i) the competitive environment in which such programming is distributed, the cost of similar signals in similar private and compulsory license marketplaces, and any special features and conditions of the retransmission marketplace;
+&emsp;&emsp;&emsp;(i) the competitive environment in which such programming is distributed, the costof similar signals in similar private and compulsory license marketplaces, and any special features and conditions of the retransmission marketplace;
 
 &emsp;&emsp;&emsp;(ii) the economic impact of such fees on copyright owners and satellite carriers; and
 
@@ -306,7 +306,7 @@ Period during which decision of arbitration panel or order of librarian effectiv
 
 &emsp;&emsp;(D)
 
-Persons subject to royalty fee.—The royalty fee referred to in subparagraph (C) shall be binding on all satellite carriers,distributors, and copyright owners, who are not party to a voluntary agreement filed with the Copyright Office under paragraph (2).
+Persons subject to royalty fee.—The royalty fee referred to in subparagraph (C) shall be binding on all satellite carriers, distributors, and copyright owners, who are not party to a voluntary agreement filed with the Copyright Office under paragraph (2).
 
 &emsp;(4)
 
@@ -394,7 +394,7 @@ Local market.—The term “local market” has the meaning given such term unde
 
 &emsp;(12)
 
-Public broadcasting service satellite feed.—The term “Public Broadcasting Service satellite feed” means the national satellite feed distributed and designated for purposes of this section by the Public Broadcasting Service consisting of educational and informational programming intended for private homeviewing, to which the Public Broadcasting Service holds national terrestrial broadcast rights.
+Public broadcasting service satellite feed.—The term “Public Broadcasting Service satellite feed” means the national satellite feed distributed and designated for purposes of this section by the Public Broadcasting Service consisting of educational and informational programming intended for private home viewing, to which the Public Broadcasting Service holds national terrestrial broadcast rights.
 
 (e)
 

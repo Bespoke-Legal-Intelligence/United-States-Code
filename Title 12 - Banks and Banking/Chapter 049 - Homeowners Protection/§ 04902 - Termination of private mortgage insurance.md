@@ -62,7 +62,7 @@ No payments or premiums may be required from the mortgagor in connection with a 
 
 &emsp;The termination and cancellation provisions in subsections (a) and (b) of this section do not apply to any residential mortgage transaction that, at the time at which the residential mortgage transaction is consummated, has high risks associated with the extension of the loan—
 
-&emsp;&emsp;(A) as determined in accordance with guidelines published by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, in the case of a mortgage loan with an original principal balance that does not exceed the applicable annual conforming loan limit for the secondary market established pursuant to section 1454(a)(2) of this title, so as to require the imposition or continuation of a private mortgage insurance requirement beyond the terms specified in subsection (a) or (b) of this section; or
+&emsp;&emsp;(A) as determined in accordance with guidelines published by the Federal NationalMortgage Association and the Federal Home Loan Mortgage Corporation, in the case of a mortgage loan with an original principal balance that does not exceed the applicable annual conforming loan limit for the secondary market established pursuant to section 1454(a)(2) of this title, so as to require the imposition or continuation of a private mortgage insurance requirement beyond the terms specified in subsection (a) or (b) of this section; or
 
 &emsp;&emsp;(B) as determined by the mortgagee in the case of any other mortgage, except that termination shall occur—
 

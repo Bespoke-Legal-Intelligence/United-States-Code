@@ -36,7 +36,7 @@
 
 #### (A) Reduction of basis
 
-&emsp;&emsp;If for any taxable year the amounts specified in subparagraphs (B), (C), (D), and (E) of subsection (a)(2) exceed the amount whichreduces the shareholder's basis to zero, such excess shall be applied to reduce (but not below zero) the shareholder's basis in any indebtedness of the S corporation to the shareholder.
+&emsp;&emsp;If for any taxable year the amounts specified in subparagraphs (B), (C), (D), and (E) of subsection (a)(2) exceed the amount which reduces the shareholder's basis to zero, such excess shall be applied to reduce (but not below zero) the shareholder's basis in any indebtedness of the S corporation to the shareholder.
 
 #### (B) Restoration of basis
 

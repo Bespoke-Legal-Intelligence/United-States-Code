@@ -2,7 +2,7 @@
 
 Funds appropriated under this subchapter may be used by the Secretary to provide technical assistance in relation to any of the authorities under this subchapter.
 
-(July 1, 1944, ch. 373, title VIII, §808, formerly §807, as added Pub. L. 105–392, title I, §123(4),Nov. 13, 1998, 112 Stat. 3566; renumbered §808, Pub. L. 106–525, title IV, §401(b)(1), Nov. 22, 2000, 114 Stat. 2508.)
+(July 1, 1944, ch. 373, title VIII, §808, formerly §807, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3566; renumbered §808, Pub. L. 106–525, title IV, §401(b)(1), Nov. 22, 2000, 114 Stat. 2508.)
 
 #### Prior Provisions
 

@@ -42,7 +42,7 @@ An individual who is not assigned to a generation by reason of the foregoing pro
 
 &emsp;(1) an individual born not more than 121/2 years after the date of the birth of the transferor assigned to the transferor's generation,
 
-&emsp;(2) an individual born more than 121/2 years but not more than 371/2 years after the date of the birth of the transferor assigned to the first generation younger than the transferor, and
+&emsp;(2) an individual born more than 121/2 years but not more than 371/2 years after the date ofthe birth of the transferor assigned to the first generation younger than the transferor, and
 
 &emsp;(3) similar rules for a new generation every 25 years.
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) madeafter Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
+Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title.
 
 #### Section Referred to in Other Sections
 

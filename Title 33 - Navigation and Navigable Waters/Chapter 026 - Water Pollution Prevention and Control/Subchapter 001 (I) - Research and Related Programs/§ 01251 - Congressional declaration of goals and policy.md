@@ -24,7 +24,7 @@ It is the policy of the Congress to recognize, preserve, and protect the primary
 
 #### (c) Congressional policy toward Presidential activities with foreign countries
 
-It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and the improvement of water quality to at least the same extent as the United States does under its laws.
+It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and theimprovement of water quality to at least the same extent as the United States does under its laws.
 
 #### (d) Administrator of Environmental Protection Agency to administer chapter
 
@@ -43,10 +43,6 @@ It is the national policy that to the maximum extent possible the procedures uti
 It is the policy of Congress that the authority of each State to allocate quantities of water within its jurisdiction shall not be superseded, abrogated or otherwise impaired by this chapter. It is the further policy of Congress that nothing in this chapter shall be construed to supersede or abrogate rights to quantities of water which have been established by any State. Federal agencies shall co-operate with State and local agencies to develop comprehensive solutions to prevent, reduce and eliminate pollution in concert with programs for managing water resources.
 
 (June 30, 1948, ch. 758, title I, §101, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816; amended Pub. L. 95–217, §§5(a), 26(b), Dec. 27, 1977, 91 Stat. 1567, 1575; Pub. L. 100–4, title III, §316(b), Feb. 4, 1987, 101 Stat. 60.)
-
-#### Codification
-
-The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act's provisions by Pub. L. 92–500.
 
 #### Amendments
 
@@ -70,7 +66,7 @@ Pub. L. 106–284, §1, Oct. 10, 2000, 114 Stat. 870, provided that: “This Act
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–431, §1, Oct. 31, 1994, 108 Stat. 4396, provided that: “This Act \[amending section 1311 of thistitle\] may be cited as the ‘Ocean Pollution Reduction Act’.”
+Pub. L. 103–431, §1, Oct. 31, 1994, 108 Stat. 4396, provided that: “This Act \[amending section 1311 of this title\] may be cited as the ‘Ocean Pollution Reduction Act’.”
 
 #### Short Title of 1990 Amendment
 
@@ -236,7 +232,7 @@ Section 6 of Pub. L. 92–500 provided that:
 
 &emsp;“(5) the impact, if any, which the imposition of a compensating tariff of other equalizing measure may have in encouraging foreign nations to implement pollution and abatement control programs.
 
-“(b) The Secretary shall make an initial report to the President and Congress within six months after the date of enactment of this section \[Oct. 18, 1972\] of the results of the study and investigation carried out pursuant to this section and shall make additional reports thereafter at such times as he deems appropriate taking into account the development of relevant data, but not less than once every twelve months.”
+“(b) The Secretary shall make an initial report to the President and Congress within six months after the date of enactment of this section \[Oct. 18, 1972\] of the results of the study and investigation carried out pursuant to this section and shall make additional reportsthereafter at such times as he deems appropriate taking into account the development of relevant data, but not less than once every twelve months.”
 
 #### International Agreements
 
@@ -270,7 +266,7 @@ Ex. Ord. No. 11548, July 20, 1970, 35 F.R. 11677, which related to the delegatio
 
 Ex. Ord. No. 11742, Oct. 23, 1973, 38 F.R. 29457, provided:
 
-Under and by virtue of the authority vested in me by section 301 of title 3 of the United States Code and as President of the United States, I hereby authorize and empower the Secretary of State, in coordination with the Council on Environmental Quality, the Environmental Protection Agency, and other appropriate Federal agencies, to perform, without the approval, ratification, or other action of the President, the functionsvested in the President by Section 7 of the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500; 86 Stat. 898) with respect to international agreements relating to the enhancement of the environment.
+Under and by virtue of the authority vested in me by section 301 of title 3 of the United States Code and as President of the United States, I hereby authorize and empower the Secretary of State, in coordination with the Council on Environmental Quality, the Environmental Protection Agency, and other appropriate Federal agencies, to perform, without the approval, ratification, or other action of the President, the functions vested in the President by Section 7 of the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500; 86 Stat. 898) with respect to international agreements relating to the enhancement of the environment.
 
 Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

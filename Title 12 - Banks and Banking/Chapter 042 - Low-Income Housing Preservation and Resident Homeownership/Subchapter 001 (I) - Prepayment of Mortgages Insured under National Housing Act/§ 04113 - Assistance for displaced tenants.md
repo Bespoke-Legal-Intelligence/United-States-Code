@@ -12,7 +12,7 @@ The Secretary shall coordinate with public housing agencies to ensure that any v
 
 #### (1) In general
 
-&emsp;Each owner that prepays the mortgage (or terminates the mortgage insurance contract) on eligible low-income housing shall, as provided in paragraph (3), allow the tenants occupying units in such housing on the date of the submission of notice of intent under section 4102 of this title to remain in the housing for a period of 3 years, at rent levels (except for increases necessary for increased operating costs) existing at the time of prepayment.
+&emsp;Each owner that prepays the mortgage (or terminates the mortgage insurance contract) on eligible low-income housing shall, as provided in paragraph (3), allow the tenants occupying units in such housing on the date of thesubmission of notice of intent under section 4102 of this title to remain in the housing for a period of 3 years, at rent levels (except for increases necessary for increased operating costs) existing at the time of prepayment.
 
 #### (2) Provision of assistance by owner
 
@@ -64,7 +64,7 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4106, 4114 of this title; title 42 section 1437f.
+This section is referred to in sections 1715z–1a, 4106, 4114 of this title; title 42 section 1437f.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Study; plan
 
-The Secretary of the Army, acting through the Chief of Engineers, is authorized and directed to conduct a study of the most efficient methods of utilizing the hydroelectric power resources at water resource development projects under the jurisdiction of the Secretary of the Army and to prepare a plan based upon the findings of such study. Such study shall include, but not be limited to, an analysis of—
+The Secretary of the Army, acting through the Chief of Engineers, is authorized and directed to conduct a study of the most efficient methods of utilizing the hydroelectric power resources at water resource development projects under the jurisdiction of the Secretary of theArmy and to prepare a plan based upon the findings of such study. Such study shall include, but not be limited to, an analysis of—
 
 &emsp;(1) the physical potential for hydroelectric development, giving consideration to the economic, social, environmental and institutional factors which will affect the realization of physical potential;
 

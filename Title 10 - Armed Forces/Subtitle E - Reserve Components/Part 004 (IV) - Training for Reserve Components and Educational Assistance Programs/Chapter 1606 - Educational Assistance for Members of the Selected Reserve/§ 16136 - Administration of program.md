@@ -36,7 +36,7 @@ Subsec. (c)(1). Pub. L. 102–568, §313(a)(6), substituted “section 3680A(b) 
 
 Subsec. (b). Pub. L. 101–237, §405(d)(3), inserted reference to section 1685 of title 38.
 
-Pub. L. 101–189, §642(c), amended first sentence generally and substituted “and the term ‘a person’, as used” for “, as used” in second sentence. Prior to amendment, first sentence read as follows: “Except as otherwise provided in this chapter, the provisions of sections 1663, 1670, 1671, 1673, 1674, 1676, 1682(g), and 1683 of chapter 34 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1780(a)(5), 1780(b), 1786, 1787(b)(1), and 1792) shall be applicable to the provision of educational assistance under this chapter.”
+Pub. L. 101–189, §642(c), amended first sentence generally and substituted “and the term ‘a person’, as used”for “, as used” in second sentence. Prior to amendment, first sentence read as follows: “Except as otherwise provided in this chapter, the provisions of sections 1663, 1670, 1671, 1673, 1674, 1676, 1682(g), and 1683 of chapter 34 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1780(a)(5), 1780(b), 1786, 1787(b)(1), and 1792) shall be applicable to the provision of educational assistance under this chapter.”
 
 Subsec. (c). Pub. L. 101–237, §422(b)(1), added subsec. (c).
 

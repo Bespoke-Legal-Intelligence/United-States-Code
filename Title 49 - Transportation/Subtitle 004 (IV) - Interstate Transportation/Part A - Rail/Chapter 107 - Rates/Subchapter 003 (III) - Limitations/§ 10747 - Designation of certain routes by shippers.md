@@ -24,7 +24,7 @@ Section 10747, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1393, related to transp
 
 Section 10748, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1393, related to transportation of livestock by rail carrier.
 
-Section 10749, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1393; Pub. L. 96–296, §10(c), July 1, 1980, 94 Stat. 800; Pub. L. 97–468, title VI, §615(b)(3), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–216, §2(13), Feb. 14, 1984, 98 Stat. 5; Pub. L. 99–521, §7(j)(1), (2), Oct. 22, 1986, 100 Stat. 2995; Pub. L. 103–272, §4(j)(24), July 5, 1994, 108 Stat. 1369, related to exchange of services and limitation on use of common carriers by household goods freight forwarders.
+Section 10749, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1393; Pub. L. 96–296, §10(c), July 1, 1980, 94 Stat. 800; Pub. L. 97–468, title VI, §615(b)(3), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–216, §2(13), Feb. 14, 1984, 98 Stat. 5; Pub. L. 99–521, §7(j)(1), (2), Oct. 22, 1986, 100 Stat. 2995; Pub. L. 103–272, §4(j)(24), July 5, 1994, 108 Stat. 1369, related toexchange of services and limitation on use of common carriers by household goods freight forwarders.
 
 Section 10750, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1394, related to demurrage charges. See section 10746 of this title.
 

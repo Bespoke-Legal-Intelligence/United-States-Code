@@ -23,6 +23,7 @@
 | [5316\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005316%20-%20Reports%20on%20exporting%20and%20importing%20monetary%20instruments.md) | Reports on exporting and importing monetary instruments. |
 | [5317\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005317%20-%20Search%20and%20forfeiture%20of%20monetary%20instruments.md) | Search and forfeiture of monetary instruments. |
 | [5318\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005318%20-%20Compliance%2C%20exemptions%2C%20and%20summons%20authority.md) | Compliance, exemptions, and summons authority. |
+| [5318A.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005318A%20-%20Special%20measures%20for%20jurisdictions%2C%20financial%20institutions%2C%20or%20international%20transactions%20of%20primary%20money%20laundering%20concern.md) | Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern. |
 | [5319\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005319%20-%20Availability%20of%20reports.md) | Availability of reports. |
 | [5320\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005320%20-%20Injunctions.md) | Injunctions. |
 | [5321\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005321%20-%20Civil%20penalties.md) | Civil penalties. |
@@ -35,6 +36,8 @@
 | [5328\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005328%20-%20Whistleblower%20protections.md) | Whistleblower protections. |
 | [5329\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005329%20-%20Staff%20commentaries.md) | Staff commentaries. |
 | [5330\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005330%20-%20Registration%20of%20money%20transmitting%20businesses.md) | Registration of money transmitting businesses. |
+| [5331\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005331%20-%20Reports%20relating%20to%20coins%20and%20currency%20received%20in%20nonfinancial%20trade%20or%20business.md) | Reports relating to coins and currency received in nonfinancial trade or business. |
+| [5332\.](Subchapter%20002%20%28II%29%20-%20Records%20and%20Reports%20on%20Monetary%20Instruments%20Transactions/%C2%A7%2005332%20-%20Bulk%20cash%20smuggling%20into%20or%20out%20of%20the%20United%20States.md) | Bulk cash smuggling into or out of the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,6 +71,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–56, title III, §365(c), Oct. 26, 2001, 115 Stat. 335, which directed the amendment of chapter 53 analysis by inserting item 5331 after the item relating to section 5332 (as added by section 112 of this title), was executed by inserting item 5331 after item 5330 to reflect the probable intent of Congress.
+
+Pub. L. 107–56, title III, §§311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 338, added items 5318A and 5332.
 
 1998—Pub. L. 105–310, §2(b), Oct. 30, 1998, 112 Stat. 2948, added subchapter III heading, parts 1 and 2 headings, and items 5340 to 5355.
 

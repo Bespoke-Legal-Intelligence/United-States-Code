@@ -46,7 +46,7 @@ Subsec. (b)(2), (3). Pub. L. 102–568 substituted “section 3031(f) of title 3
 
 1988—Subsec. (a). Pub. L. 100–689, §111(b)(5)(A), substituted “chapter” for “section”.
 
-Subsec. (b). Pub. L. 100–689, §111(b)(5)(B), added par. (1), redesignated existing pars. (1) and (2) as (2) and (3), respectively, and directed the substitution of “1431(f)” for “1431(e)” in par. (2) as redesignated, which could not be executed because such substitution was previously made by Pub. L. 100–456, prior to redesignation of par. (1) as (2), see below.
+Subsec. (b). Pub. L. 100–689, §111(b)(5)(B), added par. (1), redesignated existing pars. (1) and (2) as (2) and (3), respectively, and directed the substitution of “1431(f)”for “1431(e)” in par. (2) as redesignated, which could not be executed because such substitution was previously made by Pub. L. 100–456, prior to redesignation of par. (1) as (2), see below.
 
 Pub. L. 100–456 substituted “section 1431(f)” for “section 1431(e)” in par. (1).
 

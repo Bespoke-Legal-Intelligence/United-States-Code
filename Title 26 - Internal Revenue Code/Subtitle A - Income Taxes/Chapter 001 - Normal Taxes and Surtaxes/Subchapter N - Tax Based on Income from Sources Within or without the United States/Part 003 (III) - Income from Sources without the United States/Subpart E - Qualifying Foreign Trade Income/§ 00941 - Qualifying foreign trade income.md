@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) are described in paragraph (2)(A)(i) or (3) of section 942(b), and
 
-&emsp;&emsp;&emsp;(ii) are performed by the taxpayer (or any person acting under a contract with such taxpayer) outside the United States, or
+&emsp;&emsp;&emsp;(ii) are performed by the taxpayer (or any person acting under a contract withsuch taxpayer) outside the United States, or
 
 &emsp;&emsp;(B) foreign trade income derived by the taxpayer in connection with the lease or rental of qualifying foreign trade property for use by the lessee outside the United States.
 
@@ -170,7 +170,7 @@ Other corporations.—This paragraph shall apply to any controlled foreign corpo
 
 &emsp;&emsp;&emsp;“(ii) as of such date, such corporation is wholly owned (directly or indirectly) by a domestic corporation (determined without regard to any election under section 943(e));
 
-&emsp;&emsp;&emsp;“(iii) for each of the 3 taxable years preceding the first taxable year to which the election under section 943(e) by such controlled foreign corporation applies—
+&emsp;&emsp;&emsp;“(iii) for each of the 3 taxable years preceding the first taxable year to which the election undersection 943(e) by such controlled foreign corporation applies—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) all of the gross income of such corporation is subpart F income (as defined in section 952), including by reason of section 954(b)(3)(B); and
 

@@ -18,7 +18,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;(A) an assessment of the technical and commercial status of the domestic renewable energy industry and related service industries in domestic and foreign markets;
 
-&emsp;(B) an assessment of the Federal Government's activities affecting commerce in the domestic renewable energy industry and related service industries and in consolidating and coordinating such activities within the Federal Government; and
+&emsp;(B) an assessment of the Federal Government's activities affecting commerce in the domestic renewable energy industry and related service industries and in consolidating andcoordinating such activities within the Federal Government; and
 
 &emsp;(C) an assessment of the aspects of the domestic renewable energy industry and related service industries in which improvements must be made to increase the international commercialization of such industry.
 
@@ -68,7 +68,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;&emsp;(A) provide technical training and education for international development personnel and local users in their own country;
 
-&emsp;&emsp;(B) provide financial and technical assistance to nonprofit institutions that supportthe marketing and export efforts of domestic companies that provide renewable energy and energy efficiency products and services;
+&emsp;&emsp;(B) provide financial and technical assistance to nonprofit institutions that support the marketing and export efforts of domestic companies that provide renewable energy and energy efficiency products and services;
 
 &emsp;&emsp;(C) develop environmentally sustainable renewable energy and energy efficiency projects in foreign countries;
 

@@ -26,7 +26,7 @@ Each small business investment company shall be examined at least every two year
 
 &emsp;(7) it has charged an interest rate in excess of the maximum permitted by law:
 
-> <i>Provided</i>, That the Administration may waive the examination (A) for up to one additional year if, in its discretion, it determines such a delay would be appropriate, based upon the amount of debentures being issued by the company and its repayment record, the prior operating experience of the company, the contents and results of the last examination and the management expertise of the company, or (B) if it is a company whose operations have been suspended while the company is involved in litigation or is in receivership.
+> <i>Provided</i>, That the Administration may waive the examination (A) for up to one additional year if, in its discretion, it determines such a delay would be appropriate, based upon the amount of debentures being issued by the company and its repayment record, the prior operating experience of the company, the contents and results of the last examination and the management expertise of the company, or (B) if it is acompany whose operations have been suspended while the company is involved in litigation or is in receivership.
 
 #### (d) Valuations
 

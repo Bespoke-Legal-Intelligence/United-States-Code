@@ -6,7 +6,7 @@ A State plan approved under subchapter XIX of this chapter may provide that the 
 
 #### (b) Federal share of expenditures
 
-In the event a State enters into a contract in accordance with subsection (a) of this section, the Federal share of the expenditures made to the contracting organization for its costs in the performance of its functions under the State plan shall be 75 percent (as provided in section 1396b(a)(3)(C) of this title).
+In the event a State enters into a contract in accordance with subsection (a) of this section, the Federal share of the expenditures made to the contracting organization for its costs in theperformance of its functions under the State plan shall be 75 percent (as provided in section 1396b(a)(3)(C) of this title).
 
 (Aug. 14, 1935, ch. 531, title XI, §1158, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 390.)
 

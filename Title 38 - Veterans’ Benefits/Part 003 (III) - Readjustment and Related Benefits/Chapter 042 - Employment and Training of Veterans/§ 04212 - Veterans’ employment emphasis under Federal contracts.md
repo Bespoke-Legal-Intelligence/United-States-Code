@@ -10,7 +10,7 @@
 
 &emsp;(A) the number of employees in the work force of such contractor, by job category and hiring location, who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized;
 
-&emsp;(B) the total number of new employees hired by the contractor during the period covered by the report and the number of such employees who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expeditionfor which a campaign badge has been authorized; and
+&emsp;(B) the total number of new employees hired by the contractor during the period covered by the report and the number of such employees who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized; and
 
 &emsp;(C) the maximum number and the minimum number of employees of such contractor during the period covered by the report.
 

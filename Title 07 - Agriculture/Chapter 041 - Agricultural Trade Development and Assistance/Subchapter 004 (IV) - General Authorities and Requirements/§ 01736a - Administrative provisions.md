@@ -8,7 +8,7 @@
 
 #### (2) Invitation for bid
 
-&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II of this chapter unless such purchases are made on the basis of an invitation for bid that is publicly advertised in the United States, and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. All awards in the purchase of commodities or ocean transportation financed under subchapter II of this chapter shall be consistent with open, competitive, and responsive bid procedures, as determined appropriate by the Secretary. Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.
+&emsp;No purchase of agricultural commodities from private stock or purchase of ocean transportation shall be financed under subchapter II of this chapter unless such purchases are made on the basis of an invitation for bid that is publicly advertised in the United States,and on the basis of bid offerings that shall conform to such invitation and be received and publicly opened in the United States. All awards in the purchase of commodities or ocean transportation financed under subchapter II of this chapter shall be consistent with open, competitive, and responsive bid procedures, as determined appropriate by the Secretary. Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.
 
 #### (b) Agents
 
@@ -80,7 +80,7 @@ An agreement under subchapters II and III–A of this chapter shall, to the exte
 
 &emsp;(1) November 30 of the first fiscal year in which agricultural commodities are to be shipped under the agreement; or
 
-&emsp;(2) 60 days after the date of enactment of the annual Rural Development, Agriculture, andRelated Agencies Appropriations Act for the first fiscal year in which agricultural commodities are to be shipped under the agreement,
+&emsp;(2) 60 days after the date of enactment of the annual Rural Development, Agriculture, and Related Agencies Appropriations Act for the first fiscal year in which agricultural commodities are to be shipped under the agreement,
 
 > whichever is later.
 

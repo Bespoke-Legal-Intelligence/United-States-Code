@@ -8,7 +8,7 @@
 
 &emsp;(2) make recommendations to the district courts on ways to improve such services.
 
-(c)(1) The Judicial Conference of the United States shall prepare, periodically revise, andtransmit to the United States district courts a Manual for Litigation Management and Cost and Delay Reduction. The Director of the Federal Judicial Center and the Director of the Administrative Office of the United States Courts may make recommendations regarding the preparation of and any subsequent revisions to the Manual.
+(c)(1) The Judicial Conference of the United States shall prepare, periodically revise, and transmit to the United States district courts a Manual for Litigation Management and Cost and Delay Reduction. The Director of the Federal Judicial Center and the Director of the Administrative Office of the United States Courts may make recommendations regarding the preparation of and any subsequent revisions to the Manual.
 
 (2) The Manual shall be developed after careful evaluation of the plans implemented under section 472 of this title, the demonstration program conducted under section 104 of the Civil Justice Reform Act of 1990, and the pilot program conducted under section 105 of the Civil Justice Reform Act of 1990.
 

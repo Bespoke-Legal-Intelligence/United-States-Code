@@ -12,7 +12,7 @@ Notwithstanding the provisions of any other law, the President, upon the request
 
 #### (b) Reimbursement from United Nations; waiver of reimbursement
 
-Whenever personnel or assistance is made available pursuant to the authority contained in subsection (a)(1) and (2) of this section, the President shall require reimbursement from the United Nations for the expense thereby incurred by the United States: <i>Provided</i>, That in exceptional circumstances, or when the President finds it to be in the national interest, he may waive, in whole or in part, the requirement of such reimbursement: <i>Provided further</i>, That when any such reimbursement is made, it shall be credited, at the option of the appropriate department of the Department of Defense, eitherto the appropriation, fund, or account utilized in incurring the obligation, or to an appropriate appropriation, fund, or account currently available for the purposes for which expenditures were made.
+Whenever personnel or assistance is made available pursuant to the authority contained in subsection (a)(1) and (2) of this section, the President shall require reimbursement from the United Nations for the expense thereby incurred by the United States: <i>Provided</i>, That in exceptional circumstances, or when the President finds it to be in the national interest, he may waive, in whole or in part, the requirement of such reimbursement: <i>Provided further</i>, That when any such reimbursement is made, it shall be credited, at the option of the appropriate department of the Department of Defense, either to the appropriation, fund, or account utilized in incurring the obligation, or to an appropriate appropriation, fund, or account currently available for the purposes for which expenditures were made.
 
 #### (c) Additional appropriation authorizations
 
@@ -38,7 +38,7 @@ By virtue of the authority vested in me by the Constitution and the statutes, in
 
 2\. The Secretary of State, in accordance with and subject to the provisions of section 7(b) of the Act \[subsection (b) of this section\], shall require reimbursement from the United Nations for the expense thereby incurred by the United States whenever personnel or assistance is made available to the United Nations, except that in exceptional circumstances, or when the Secretary of State finds it to be in the national interest, he may, after consultation with the Secretary of Defense, waive, in whole or in part, the requirement of such reimbursement.
 
-3\. The Secretary of Defense, in accordance with and subject to the provisions of section 7(a)(1) of the Act \[subsection (a)(1) of this section\], may authorize personnel of the armed forces detailed to the United Nations to accept directly from the United Nations (a) any or all of the allowances or perquisites to which they are entitled under the first proviso of section 7(a)(1) of the Act \[subsection (a)(1) of this section\], and (b) extraordinary expenses and perquisites incident to such detail.
+3\. The Secretary of Defense, in accordance with and subject to the provisions of section 7(a)(1) of the Act\[subsection (a)(1) of this section\], may authorize personnel of the armed forces detailed to the United Nations to accept directly from the United Nations (a) any or all of the allowances or perquisites to which they are entitled under the first proviso of section 7(a)(1) of the Act \[subsection (a)(1) of this section\], and (b) extraordinary expenses and perquisites incident to such detail.
 
 Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -20,7 +20,7 @@ Members, Chairman, Pay, and Expenses.—(1) The committee is composed of not mor
 
 (2) The Administrator shall designate the chairman of the committee.
 
-(3) A member of the committee serves without pay. However, the Administrator may allow amember, when attending meetings of the committee or a subordinate committee, expenses as authorized under section 5703 of title 5.
+(3) A member of the committee serves without pay. However, the Administrator may allow a member, when attending meetings of the committee or a subordinate committee, expenses as authorized under section 5703 of title 5.
 
 (c)
 
@@ -94,7 +94,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

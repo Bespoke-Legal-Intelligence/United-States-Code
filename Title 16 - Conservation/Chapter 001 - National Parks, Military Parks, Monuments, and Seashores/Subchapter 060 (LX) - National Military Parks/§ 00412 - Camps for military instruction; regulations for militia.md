@@ -2,7 +2,7 @@
 
 The Secretary of the Army is authorized, within the limits of appropriations which may from time to time be available for such purpose, to assemble, at his discretion, in camp at such season of the year and for such period as he may designate, at such field of military maneuvers, such portions of the military forces of the United States as he may think best, to receive military instruction there.
 
-The Secretary of the Army is further authorized to make and publish regulations governing the assembling of the National Guard or militia of the several States upon the maneuvering grounds, and he may detail instructors from the Regular Army for such forces during their exercises.
+The Secretary of the Army is further authorized to make and publish regulations governing the assembling of the National Guard or militia of the several States upon the maneuveringgrounds, and he may detail instructors from the Regular Army for such forces during their exercises.
 
 (May 15, 1896, ch. 182, §2, 29 Stat. 121; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 

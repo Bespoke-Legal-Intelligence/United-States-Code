@@ -8,7 +8,7 @@ Not later than 180 days after December 21, 2000, the Attorney General, in consul
 
 The regulations shall include the following:
 
-&emsp;(1) Minimum standards for background checks and preemployment drug testing for potential employees, including requiring criminal background checks, to disqualify persons with a felony conviction or domestic violence conviction as defined by section 921 of title 18 for eligibility for employment. Preemployment drug testing will be in accordance with applicable State laws.
+&emsp;(1) Minimum standards for background checks and preemployment drug testing forpotential employees, including requiring criminal background checks, to disqualify persons with a felony conviction or domestic violence conviction as defined by section 921 of title 18 for eligibility for employment. Preemployment drug testing will be in accordance with applicable State laws.
 
 &emsp;(2) Minimum standards for the length and type of training that employees must undergo before they can transport prisoners not to exceed 100 hours of preservice training focusing on the transportation of prisoners. Training shall be in the areas of use of restraints, searches, use of force, including use of appropriate weapons and firearms, CPR, map reading, and defensive driving.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(I) the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], or
 
-&emsp;&emsp;&emsp;(II) section 23 of the Act of April 30, 1908 (25 U.S.C. 47), popularly known as the “Buy-Indian” Act; or
+&emsp;&emsp;&emsp;(II) section 23 of the Act of April 30, 1908 <sup>1</sup> (25 U.S.C. 47), popularly known as the “Buy-Indian” Act; or
 
 &emsp;&emsp;(iii) by an urban Indian organization pursuant to subchapter IV of this chapter; and
 
@@ -50,7 +50,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 (1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (<i>l</i>) of this section in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
-(2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a mannercalculated to be understood by the average individual applying to participate in the Loan Repayment Program.
+(2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
 (3) The Secretary shall make such application forms, contract forms, and other information available to individuals desiring to participate in the Loan Repayment Program on a date sufficiently early to ensure that such individuals have adequate time to carefully review and evaluate such forms and information.
 
@@ -190,7 +190,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 &emsp;(A) “A” is the amount the United States is entitled to recover;
 
-&emsp;(B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest atthe maximum legal prevailing rate, as determined by the Treasurer of the United States;
+&emsp;(B) “Z” is the sum of the amounts paid under this section to, or on behalf of, the individual and the interest on such amounts which would be payable if, at the time the amounts were paid, they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States;
 
 &emsp;(C) “t” is the total number of months in the individual's period of obligated service in accordance with subsection (f) of this section; and
 
@@ -220,7 +220,7 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 #### (n) Annual report
 
-The Secretary shall submit to the President, for inclusion in each report required to be submitted to the Congress under section 1671 of this title, a report concerning the previous fiscal year which sets forth—
+The Secretary shall submit to the President, for inclusion in each report required to be submitted to the Congress under section 1671 of thistitle, a report concerning the previous fiscal year which sets forth—
 
 &emsp;(1) the health professional positions maintained by the Service or by tribal or Indian organizations for which recruitment or retention is difficult;
 
@@ -244,6 +244,8 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
+Section 23 of the Act of April 30, 1908, referred to in subsec. (a)(2)(A)(ii)(II), probably should be a reference to section 23 of act June 25, 1910, ch. 431, 36 Stat. 861, which is popularly known as the “Buy Indian Act”, and is classified to section 47 of this title. Act Apr. 30, 1908, ch. 153, 35 Stat. 70, does not contain a section 23 but does have provisions (at 35 Stat. 71) similar to those in section 23 of act June 25, 1910, ch. 431, 36 Stat. 861.
+
 #### Amendments
 
 1992—Subsec. (a)(1). Pub. L. 102–573, §106(a)(1), substituted “health professionals” for “physicians, dentists, nurses, nurse practitioners, physician assistants, clinical and counseling psychologists, graduates of schools of public health, graduates of schools of social work, and other health professionals”.
@@ -254,7 +256,7 @@ Subsec. (b)(1)(A)(ii). Pub. L. 102–573, §106(a)(2)(A)(ii), substituted “a h
 
 Subsec. (b)(1)(B). Pub. L. 102–573, §106(a)(2)(B), in cl. (i), substituted “a degree in a health profession; and” for “a degree in medicine, osteopathy, dentistry, or other health profession;”, redesignated cl. (iii) as (ii) and substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”, and struck out former cl. (ii) which read as follows: “completed an approved graduate training program in medicine, osteopathy, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and”.
 
-Subsec. (b)(2) to (4). Pub. L. 102–573, §106(a)(2)(C), inserted “and” at end of par. (2)(D), added par. (3), andstruck out former pars. (3) and (4) which read as follows:
+Subsec. (b)(2) to (4). Pub. L. 102–573, §106(a)(2)(C), inserted “and” at end of par. (2)(D), added par. (3), and struck out former pars. (3) and (4) which read as follows:
 
 “(3) submit an application to participate in the Loan Repayment Program; and
 
@@ -291,4 +293,6 @@ Section 106(g)(2) of Pub. L. 102–573 provided that: “The amendment made by p
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1613a, 1616a–1, 1616b, 1616c, 1616d, 1616j, 1616k, 1616m, 1621h, 1671 of this title; title 42 section 292d.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

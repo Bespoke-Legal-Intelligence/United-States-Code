@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) an amount that bears the same ratio to 20 percent of the sums being allotted as the product of the population aged 20 to 24, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States;
 
-&emsp;&emsp;(C) an amount that bears the same ratio to 15 percent of the sums being allotted as the product of the population aged 25 to 65, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States; and
+&emsp;&emsp;(C) an amount that bears the same ratio to 15 percent of the sums being allotted as theproduct of the population aged 25 to 65, inclusive, in the State in the fiscal year preceding the fiscal year for which the determination is made and the State's allotment ratio bears to the sum of the corresponding products for all the States; and
 
 &emsp;&emsp;(D) an amount that bears the same ratio to 15 percent of the sums being allotted as the amounts allotted to the State under subparagraphs (A), (B), and (C) for such years bears to the sum of the amounts allotted to all the States under subparagraphs (A), (B), and (C) for such year.
 
@@ -64,7 +64,7 @@
 
 #### (B) Ratable reduction
 
-&emsp;&emsp;If for any fiscal year the amount appropriated for allotments under this section isinsufficient to satisfy the provisions of subparagraph (A), the payments to all States under such subparagraph shall be ratably reduced.
+&emsp;&emsp;If for any fiscal year the amount appropriated for allotments under this section is insufficient to satisfy the provisions of subparagraph (A), the payments to all States under such subparagraph shall be ratably reduced.
 
 #### (b) Reallotment
 

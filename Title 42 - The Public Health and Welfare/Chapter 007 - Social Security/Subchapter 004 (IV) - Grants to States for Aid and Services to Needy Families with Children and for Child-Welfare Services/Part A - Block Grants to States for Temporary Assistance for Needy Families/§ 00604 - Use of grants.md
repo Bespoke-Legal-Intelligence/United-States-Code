@@ -36,7 +36,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (A) In general
 
-&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.
+&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grantmade to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.
 
 #### (B) Applicable percent
 
@@ -184,7 +184,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### (j) Requirement for high school diploma or equivalent
 
-A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the food stamp program, as defined in section 2012(h) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
+A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the food stamp program, as defined in section 2012(h) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisitecapacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
 
 #### (k) Limitations on use of grant for matching under certain Federal transportation program
 
@@ -254,7 +254,7 @@ Subsec. (a)(2). Pub. L. 105–33, §5503, inserted “, or (at the option of th
 
 Subsec. (d)(1). Pub. L. 105–33, §5002(a)(1), substituted “Subject to paragraph (2), a State may” for “A State may”.
 
-Subsec. (d)(2). Pub. L. 105–33, §5002(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (1), not more than 1/3 of the total amount paid to a State under this part for a fiscal year that is used to carry out State programs pursuant to provisions of law specified in paragraph (1) may be used to carry out State programs pursuant to subchapter XX of this chapter.”
+Subsec. (d)(2). Pub. L. 105–33, §5002(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (1), not more than 1/3 of the total amount paid to a State under this part for a fiscal year that is used to carry out State programs pursuant to provisions of lawspecified in paragraph (1) may be used to carry out State programs pursuant to subchapter XX of this chapter.”
 
 #### Effective Date of 1999 Amendments
 
@@ -280,7 +280,7 @@ Section effective July 1, 1997, with transition rules relating to State options 
 
 #### Assets for Independence
 
-Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L. 106–554, §1(a)(1) \[title VI, §§602–607(a), 608(a), 609, 610\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74 to 2763A–76, provided that:
+Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L. 106–554, §1(a)(1) \[title VI, §§602–607(a), 608(a), 609, 610\], Dec. 21, 2000, 114 Stat. 2763, 2763A–74 to 2763A–76; Pub. L. 107–110, title VII, §702(h), Jan. 8, 2002, 115 Stat. 1947, provided that:
 
 #### “SEC. 401. SHORT TITLE.
 
@@ -412,7 +412,7 @@ Tuition and fees.—Tuition and fees required for the enrollment or attendance o
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Fees, books, supplies, and equipment.—Fees, books, supplies, and equipment requiredfor courses of instruction at an eligible educational institution.
+Fees, books, supplies, and equipment.—Fees, books, supplies, and equipment required for courses of instruction at an eligible educational institution.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -494,7 +494,7 @@ Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Se
 
 &emsp;“(11)
 
-Tribal government.—The term ‘tribal government’ means a tribal organization, as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) or a Native Hawaiian organization, as defined in section 9212 of the Native Hawaiian Education Act (20 U.S.C. 7912).
+Tribal government.—The term ‘tribal government’ means a tribal organization, as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b) or a Native Hawaiian organization, as defined in section 7207 of the Native Hawaiian Education Act \[20 U.S.C. 7517\].
 
 #### “SEC. 405. APPLICATIONS.
 
@@ -578,7 +578,7 @@ Grant Authority.—For each project year of a demonstration project conducted un
 
 “(a)
 
-Establishment.—A qualified entity under this title, other than a State or local government agency or a tribal government, shall establish a Reserve Fund that shall be maintained in accordance with this section.
+Establishment.—A qualified entity under this title, other than a State or local government agency ora tribal government, shall establish a Reserve Fund that shall be maintained in accordance with this section.
 
 “(b)
 
@@ -644,7 +644,7 @@ Unused Federal Grant Funds Transferred to the Secretary When Project Terminates.
 
 “(a)
 
-In General.—Any individual who is a member of a household that is eligible for assistance under the State temporary assistance for needy families program established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), or that meets each of thefollowing requirements shall be eligible to participate in a demonstration project conducted under this title:
+In General.—Any individual who is a member of a household that is eligible for assistance under the State temporary assistance for needy families program established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), or that meets each of the following requirements shall be eligible to participate in a demonstration project conducted under this title:
 
 &emsp;“(1)
 
@@ -752,7 +752,7 @@ Timing.—The first report required by subsection (a) shall be submitted not lat
 
 “(a)
 
-Authority To Terminate Demonstration Project.—If the Secretary determines that a qualifiedentity under this title is not operating a demonstration project in accordance with the entity's approved application under section 405 or the requirements of this title (and has not implemented any corrective recommendations directed by the Secretary), the Secretary shall terminate such entity's authority to conduct the demonstration project.
+Authority To Terminate Demonstration Project.—If the Secretary determines that a qualified entity under this title is not operating a demonstration project in accordance with the entity's approved application under section 405 or the requirements of this title (and has not implemented any corrective recommendations directed by the Secretary), the Secretary shall terminate such entity's authority to conduct the demonstration project.
 
 “(b)
 

@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 106–65, §803(a)(2), substituted “a defined fuel source
 
 Subsec. (c). Pub. L. 106–65, §803(a)(3), which directed the substitution of “a defined fuel source or services related to a defined fuel source by exchange of a defined fuel source or services related to a defined fuel source.” for “ ‘petroleum’ and all that follows through the period”, was executed by substituting the material for “petroleum, petroleum-related services, natural gas, or natural gas-related services by exchange of petroleum, petroleum-related services, natural gas, or natural gas-related services.” to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 106–65, §803(a)(4), substituted “a defined fuel source” for “petroleum or natural gas” in first sentence and “a defined fuel source or services related to a defined fuel source.” for “petroleum, petroleum-related services, natural gas, or natural gas-related services.” in second sentence.
+Subsec. (d). Pub. L. 106–65, §803(a)(4), substituted “a defined fuel source” for “petroleum or natural gas” infirst sentence and “a defined fuel source or services related to a defined fuel source.” for “petroleum, petroleum-related services, natural gas, or natural gas-related services.” in second sentence.
 
 Subsec. (f). Pub. L. 106–65, §803(a)(5), added subsec. (f).
 

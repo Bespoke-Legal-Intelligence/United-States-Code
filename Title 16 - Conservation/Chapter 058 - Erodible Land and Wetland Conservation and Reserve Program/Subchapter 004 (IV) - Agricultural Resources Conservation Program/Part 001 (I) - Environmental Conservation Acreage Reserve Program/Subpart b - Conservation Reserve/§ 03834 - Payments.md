@@ -18,7 +18,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 (2) The Secretary shall not make any payment under this subpart to the extent that the total amount of cost sharing payments provided to such owners and operators from all sources would exceed 100 percent of the total establishment costs.
 
-(3) In the case of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990, or in the case of land converted to such production under section 3835a of this title, the Secretary, in making cost share payments to anowner or operator of such land, shall pay 50 percent of the reasonable and necessary costs, as determined by the Secretary, incurred by such owner or operator for maintaining such plantings that are trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator), during not less than the 2-year, and not more than the 4-year, period beginning on the date of such plantings, as determined appropriate by the Secretary.
+(3) In the case of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors under a contract entered into under this subpart after November 28, 1990, or in the case of land converted to such production under section 3835a of this title, the Secretary, in making cost share payments to an owner or operator of such land, shall pay 50 percent of the reasonable and necessary costs, as determined by the Secretary, incurred by such owner or operator for maintaining such plantings that are trees or shrubs, including the cost of replanting (if the trees or shrubs were lost due to conditions beyond the control of the owner or operator), during not less than the 2-year, and not more than the 4-year, period beginning on the date of such plantings, as determined appropriate by the Secretary.
 
 (4) The Secretary may permit owners or operators who contract to devote at least 10 acres of land to the production of hardwood trees under this subpart to extend the planting of such trees over a 3-year period if at least one-third of such trees are planted in each of the first 2 years.
 
@@ -38,7 +38,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 &emsp;(A) take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, wildlife habitat, or provide other environmental benefits; and
 
-&emsp;(B) establish different criteria in various States and regions of the United States based upon the extent to which water quality or wildlife habitat may be improved or erosion may be abated.
+&emsp;(B) establish different criteria in various States and regions of the United States basedupon the extent to which water quality or wildlife habitat may be improved or erosion may be abated.
 
 (4) In the case of acreage enrolled in the conservation reserve established under this subpart that is to be devoted to hardwood trees, the Secretary may consider bids for contracts under this subsection on a continuous basis.
 
@@ -100,7 +100,7 @@ This Act, referred to in subsec. (f)(3), is Pub. L. 99–198, Dec. 23, 1985, 99 
 
 The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (f)(3), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7 and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (f)(3), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Act of 1949, referred to in subsec. (f)(3), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
 Section 1305(d) of the Agricultural Reconciliation Act of 1987, referred to in subsec. (f)(4), is section 1305(d) of Pub. L. 100–203, which is set out as a note under section 1308 of Title 7.
 

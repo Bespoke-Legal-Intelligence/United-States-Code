@@ -56,11 +56,11 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (4) Failure to obtain non-Federal funding
 
-&emsp;If any recipient of assistance fails to obtain the required non-Federal contribution during any project, it shall not be eligible thereafter for advance disbursements pursuant to paragraph (3) during the remainder of that project, or for any other project for which it is or may be funded by the Administration, and prior to approving assistance to such organization forany other projects, the Administration shall specifically determine whether the Administration believes that the recipient will be able to obtain the requisite non-Federal funding and enter a written finding setting forth the reasons for making such determination.
+&emsp;If any recipient of assistance fails to obtain the required non-Federal contribution during any project, it shall not be eligible thereafter for advance disbursements pursuant to paragraph (3) during the remainder of that project, or for any other project for which it is or may be funded by the Administration, and prior to approving assistance to such organization for any other projects, the Administration shall specifically determine whether the Administration believes that the recipient will be able to obtain the requisite non-Federal funding and enter a written finding setting forth the reasons for making such determination.
 
 #### (d) Contract authority
 
-A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
+A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder thewomen's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
 
 #### (e) Submission of 5-year plan
 
@@ -148,7 +148,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (2) Conditions for continued funding
 
-&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (<i>l</i>) of this section or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
+&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (<i>l</i>) of this section or to renew a contract (eitheras a grant or cooperative agreement) under this section with a women's business center, the Administration—
 
 &emsp;&emsp;(A) shall consider the results of the most recent examination of the center under paragraph (1); and
 
@@ -242,7 +242,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (1) In general
 
-&emsp;There is established a 4-year pilot program under which the Administration is authorizedto award grants (referred to in this section as “sustainability grants”) on a competitive basis for an additional 5-year project under this section to any private nonprofit organization (or a division thereof)—
+&emsp;There is established a 4-year pilot program under which the Administration is authorized to award grants (referred to in this section as “sustainability grants”) on a competitive basis for an additional 5-year project under this section to any private nonprofit organization (or a division thereof)—
 
 &emsp;&emsp;(A) that has received financial assistance under this section pursuant to a grant, contract, or cooperative agreement; and
 
@@ -338,7 +338,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (5) Timing of requests for proposals
 
-&emsp;In carrying out this subsection, the Administration shall issue requests for proposals for women's business centers applying for the pilot program under this subsection simultaneously with requests for proposals for grants under subsection (b) of this section.
+&emsp;In carrying out this subsection, the Administration shall issue requests for proposals forwomen's business centers applying for the pilot program under this subsection simultaneously with requests for proposals for grants under subsection (b) of this section.
 
 (Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798.)
 

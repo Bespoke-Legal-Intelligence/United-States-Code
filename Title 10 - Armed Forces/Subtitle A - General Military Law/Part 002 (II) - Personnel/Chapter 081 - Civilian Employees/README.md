@@ -27,11 +27,13 @@
 | \[1599. | Renumbered.\] |
 | [1599a.](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md) | Financial assistance to certain employees in acquisition of critical skills. |
 | [1599b.](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md) | Employees abroad: travel expenses; health care. |
-| \[1599c. | Repealed.\] |
+| [1599c.](%C2%A7%2001599c%20-%20Appointment%20in%20excepted%20service%20of%20certain%20health%20care%20professionals.md) | Appointment in excepted service of certain health care professionals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title XI, §1104(b), Dec. 28, 2001, 115 Stat. 1238, added item 1599c.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title VII, §751(c)(2), title XI, §§1102(b), 1131(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–194, 1654A–311, 1654A–317, added items 1580a, 1582, 1596, and 1596a and struck out former item 1596 “Foreign language proficiency: special pay”.
 
@@ -115,4 +117,4 @@ This chapter is referred to in section 1552 of this title.
 - [&sect; 01599 - Renumbered &sect;1611](%C2%A7%2001599%20-%20Renumbered%20%C2%A71611.md)
 - [&sect; 01599a - Financial assistance to certain employees in acquisition of critical skills](%C2%A7%2001599a%20-%20Financial%20assistance%20to%20certain%20employees%20in%20acquisition%20of%20critical%20skills.md)
 - [&sect; 01599b - Employees abroad travel expenses; health care](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md)
-- [&sect; 01599c - Repealed. Pub. L. 105&#8211;339, &sect;6(c)(1)(A), Oct. 31, 1998, 112 Stat. 3188](%C2%A7%2001599c%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93339%2C%20%C2%A76%28c%29%281%29%28A%29%2C%20Oct.%2031%2C%201998%2C%20112%20Stat.%203188.md)
+- [&sect; 01599c - Appointment in excepted service of certain health care professionals](%C2%A7%2001599c%20-%20Appointment%20in%20excepted%20service%20of%20certain%20health%20care%20professionals.md)

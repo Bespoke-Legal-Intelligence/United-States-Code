@@ -106,7 +106,7 @@ Payments under this section with respect to any project may not exceed 80 per ce
 
 &emsp;&emsp;(II) participation in the review would give the appearance of a conflict of interest.
 
-(4) In making a determination concerning any subsequent grant under this section, the Commissioner shall consider the past performance of the applicant, if applicable. The Commissioner shall use compliance indicators developed under this subsection that are consistent with program evaluation standards developed under subsection (d) of this section to assess minimum project performance for purposes of making continuation awards in the third, fourth, and fifth years.
+(4) In making a determination concerning any subsequent grant under this section, the Commissioner shall consider the past performance ofthe applicant, if applicable. The Commissioner shall use compliance indicators developed under this subsection that are consistent with program evaluation standards developed under subsection (d) of this section to assess minimum project performance for purposes of making continuation awards in the third, fourth, and fifth years.
 
 (5) Each fiscal year the Commissioner shall include in the annual report to Congress required by section 710 of this title an analysis of the extent to which grant recipients have complied with the evaluation standards. The Commissioner may identify individual grant recipients in the analysis. In addition, the Commissioner shall report the results of onsite compliance reviews, identifying individual grant recipients.
 

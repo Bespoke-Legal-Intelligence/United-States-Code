@@ -2,7 +2,7 @@
 
 #### (a) Notice
 
-Before taking any action referred to in subsection (b) of this section, the Director shallprovide to the enterprise written notice of the proposed action, which states the reasons for the proposed action and the information on which the proposed action is based.
+Before taking any action referred to in subsection (b) of this section, the Director shall provide to the enterprise written notice of the proposed action, which states the reasons for the proposed action and the information on which the proposed action is based.
 
 #### (b) Applicability
 

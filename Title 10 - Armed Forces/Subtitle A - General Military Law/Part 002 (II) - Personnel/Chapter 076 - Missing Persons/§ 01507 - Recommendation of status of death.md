@@ -16,7 +16,7 @@ Requirements Relating to Recommendation.—A board appointed under section 1503,
 
 (b)
 
-Submittal of Information on Death.—If a board appointed under section 1503, 1504, or 1505 of this title makes a recommendation that a missing person be declared dead, the board shall include in the report of the board with respect to the person under that section the following:
+Submittal of Information on Death.—If a board appointed under section 1503, 1504, or 1505 of this title makes a recommendation that amissing person be declared dead, the board shall include in the report of the board with respect to the person under that section the following:
 
 &emsp;(1) A detailed description of the location where the death occurred.
 

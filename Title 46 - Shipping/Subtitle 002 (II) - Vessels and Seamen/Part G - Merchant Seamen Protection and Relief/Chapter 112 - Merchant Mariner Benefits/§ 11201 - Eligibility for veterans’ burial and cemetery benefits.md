@@ -34,7 +34,7 @@ General rule.—Benefits may be provided under the provisions of law referred to
 
 &emsp;(2)
 
-Burials, etc. in national cemeteries.—Notwithstanding paragraph (1), in the case of an initial burial or columbarium placement after the date of the enactment of this chapter, benefits may be provided under chapter 24 of title 38 by reason of this chapter (regardless of the date of death), and in such a case benefits may be provided under section 2306 of such title.
+Burials, etc. in national cemeteries.—Notwithstanding paragraph (1), in the case of an initial burial or columbarium placementafter the date of the enactment of this chapter, benefits may be provided under chapter 24 of title 38 by reason of this chapter (regardless of the date of death), and in such a case benefits may be provided under section 2306 of such title.
 
 (Added Pub. L. 105–368, title IV, §402(a), Nov. 11, 1998, 112 Stat. 3336.)
 

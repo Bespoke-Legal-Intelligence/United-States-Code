@@ -37,6 +37,7 @@
 | [918a.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000918a%20-%20Energy%20generation%2C%20transmission%2C%20and%20distribution%20facilities%20efficiency%20grants%20and%20loans%20in%20rural%20communities%20with%20extremely%20high%20energy%E2%80%A6.md) | Energy generation, transmission, and distribution facilities efficiency grants and loans in rural communities with extremely high energy costs. |
 | (a) | In general. |
 | (b) | Authorization of appropriations. |
+| [918b.](Subchapter%20001%20%28I%29%20-%20Rural%20Electrification/%C2%A7%2000918b%20-%20Acquisition%20of%20existing%20systems%20in%20rural%20communities%20with%20high%20energy%20costs.md) | Acquisition of existing systems in rural communities with high energy costs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -183,7 +184,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 950aaa–2, 1926, 1981, 6941, 6942 of this title; title 12 section 2129; title 16 sections 590z–7, 824k; title 43 sections 485h, 1764.
+This chapter is referred to in sections 918b, 950aaa–2, 1926, 1981, 6941, 6942 of this title; title 12 section 2129; title 16 sections 590z–7, 824k; title 43 sections 485h, 1764.
 
 
 ---

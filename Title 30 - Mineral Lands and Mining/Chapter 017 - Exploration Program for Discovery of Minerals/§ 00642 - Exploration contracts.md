@@ -18,7 +18,7 @@ No provision of this chapter, nor any rule or regulation which may be issued by 
 
 #### (e) Rules and regulations; adjustment of contracts
 
-The Secretary shall establish and promulgate such rules and regulations as may be necessary to carry out the purposes of this chapter: <i>Provided, however</i>, That he may modify and adjust the terms and conditions of any contract to reduce the amount and term of any royalty payment when he shall determine that such action is necessary and in the public interest: <i>Provided further</i>, That no such single contract shall authorize Government participation in excess of $250,000.
+The Secretary shall establish and promulgate such rules and regulations as may be necessary to carry out the purposes of this chapter: <i>Pro</i><i>vided, however</i>, That he may modify and adjust the terms and conditions of any contract to reduce the amount and term of any royalty payment when he shall determine that such action is necessary and in the public interest: <i>Provided further</i>, That no such single contract shall authorize Government participation in excess of $250,000.
 
 #### (f) Availability of funds
 

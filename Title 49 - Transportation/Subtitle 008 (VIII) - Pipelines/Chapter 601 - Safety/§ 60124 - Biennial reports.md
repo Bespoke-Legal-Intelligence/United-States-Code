@@ -16,7 +16,7 @@ Submission and Contents.—Not later than August 15, 1997, and every 2 years the
 
 &emsp;(6) an analysis and evaluation of—
 
-&emsp;&emsp;(A) research activities, including their policy implications, completed as a result ofthe United States Government and private sponsorship; and
+&emsp;&emsp;(A) research activities, including their policy implications, completed as a result of the United States Government and private sponsorship; and
 
 &emsp;&emsp;(B) technological progress in safety achieved.
 

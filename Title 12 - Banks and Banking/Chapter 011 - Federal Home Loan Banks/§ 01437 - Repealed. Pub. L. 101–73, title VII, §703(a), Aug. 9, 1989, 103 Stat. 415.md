@@ -154,7 +154,7 @@ Continuation of Orders, Resolutions, Determinations, and Regulations.—Subject 
 
 Identification of Regulations Which Remain in Effect Pursuant to This Section.—Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Director of the Office of Thrift Supervision and the Chairperson of the Federal Deposit Insurance Corporation shall—
 
-&emsp;“(1) identify the regulations and orders which relate to the conduct of conservatorships and receiverships in accordance with the allocation of authority between them under this Act \[see Tables for classification\] and the amendments made by this Act; and
+&emsp;“(1) identify the regulations and orders which relate to the conduct of conservatorships and receiverships in accordance with the allocation of authoritybetween them under this Act \[see Tables for classification\] and the amendments made by this Act; and
 
 &emsp;“(2) promptly publish notice of such identification in the Federal Register.
 
@@ -196,7 +196,7 @@ Uniform treatment of insured deposits.—The Federal Deposit Insurance Corporati
 
 &emsp;&emsp;“(A) review its regulations, principles, and interpretations for deposit insurance coverage and those established by the Federal Savings and Loan Insurance Corporation; and
 
-&emsp;&emsp;“(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requiresor explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
+&emsp;&emsp;“(B) on or before the end of the 270-day period beginning on the date of the enactment of this Act, prescribe a uniform set of regulations which shall be applicable to all insured deposits in insured depository institutions (except to the extent any provision of this Act, any amendment made by this Act to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], or any other provision of law requires or explicitly permits the Federal Deposit Insurance Corporation to treat insured deposits of Savings Association Insurance Fund members differently than insured deposits of Bank Insurance Fund members).
 
 &emsp;“(4)
 
@@ -252,7 +252,7 @@ Substitution for indexes.—If any index used to calculate the applicable intere
 
 &emsp;&emsp;“(A) made available by the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board pursuant to paragraph (3); or
 
-&emsp;&emsp;“(B) determined by the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board, pursuant to paragraph (4), to be substantially similar to the index which is no longer calculated or made available,
+&emsp;&emsp;“(B) determined by the Director of the Office of Thrift Supervision, the Chairperson of the FederalDeposit Insurance Corporation, or the Chairperson of the Federal Housing Finance Board, pursuant to paragraph (4), to be substantially similar to the index which is no longer calculated or made available,
 
 > &emsp;may be substituted by the holder of any such adjustable rate mortgage instrument upon notice to the borrower.
 
@@ -308,7 +308,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 &emsp;“(4) If any agency or entity to which employees are transferred determines, after the end of the 1-year period beginning on the date the transfer of functions to such agency or entity is completed, that a reorganization of the combined work force is required, that reorganization shall be deemed a ‘major reorganization’ for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
 
-&emsp;“(5) Any employee accepting employment with any agency or entity (other than the Office of Thrift Supervision) as a result of such transfer may retain for 1 year after the date such transfer occurs membership in any employee benefit program of the Federal Home Loan Bank Board, including insurance, to which such employee belongs on the date of the enactment of this Act \[Aug. 9, 1989\] if—
+&emsp;“(5) Any employee accepting employment with any agency or entity (other than the Office of Thrift Supervision) as a result of such transfer may retain for 1 year after the date such transfer occurs membershipin any employee benefit program of the Federal Home Loan Bank Board, including insurance, to which such employee belongs on the date of the enactment of this Act \[Aug. 9, 1989\] if—
 
 &emsp;&emsp;“(A) the employee does not elect to give up the benefit or membership in the program; and
 
@@ -330,7 +330,7 @@ FSLIC Employees Engaged in Conservatorship or Receivership Functions.—Individu
 
 #### “SEC. 406. REPORT.
 
-“Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shallprovide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation.”
+“Before the end of the 60-day period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Chairman of the Federal Home Loan Bank Board shall provide by written report to the Secretary of the Treasury, the Director of the Office of Management and Budget, and the Congress, a final accounting of the finances and operations of the Federal Savings and Loan Insurance Corporation.”
 
 #### Transferred Employees of Federal Home Loan Banks and Joint Offices
 
@@ -496,7 +496,7 @@ Pub. L. 100–86, title IV, §415, Aug. 10, 1987, 101 Stat. 622, provided that:
 
 “(a)
 
-Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee onBanking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting former section 1442a of this title\].
+Banking Committee Review of Panel Actions.—The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act \[enacting former section 1442a of this title\].
 
 “(b)
 

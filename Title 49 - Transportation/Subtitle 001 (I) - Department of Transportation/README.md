@@ -1,6 +1,6 @@
 ## SUBTITLE I—DEPARTMENT OF TRANSPORTATION
 
-| Chap. |  | Sec. |
+| Chapter |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Organization/README.md) | <b>Organization</b> | <b>101</b> |
 | [<b>3.</b>](Chapter%20003%20-%20General%20Duties%20and%20Powers/README.md) | <b>General Duties and Powers</b> | <b>301</b> |

@@ -80,7 +80,7 @@ Notice; Claim; Complaint.—
 
 Representation.—
 
-&emsp;(1)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiture statute is financially unable to obtain representation by counsel, and the person is represented by counsel appointed under section 3006A of this title in connection with a related criminal case, the court may authorize counsel to represent that person with respect to the claim.
+&emsp;(1)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiturestatute is financially unable to obtain representation by counsel, and the person is represented by counsel appointed under section 3006A of this title in connection with a related criminal case, the court may authorize counsel to represent that person with respect to the claim.
 
 &emsp;(B) In determining whether to authorize counsel to represent a person under subparagraph (A), the court shall take into account such factors as—
 
@@ -198,7 +198,7 @@ Release Of Seized Property.—
 
 &emsp;&emsp;(A) the claimant has a possessory interest in the property;
 
-&emsp;&emsp;(B) the claimant has sufficient ties to the community to provide assurance that theproperty will be available at the time of the trial;
+&emsp;&emsp;(B) the claimant has sufficient ties to the community to provide assurance that the property will be available at the time of the trial;
 
 &emsp;&emsp;(C) the continued possession by the Government pending the final disposition of forfeiture proceedings will cause substantial hardship to the claimant, such as preventing the functioning of a business, preventing an individual from working, or leaving an individual homeless;
 
@@ -218,7 +218,7 @@ Release Of Seized Property.—
 
 &emsp;(4) If the Government establishes that the claimant's claim is frivolous, the court shall deny the petition. In responding to a petition under this subsection on other grounds, the Government may in appropriate cases submit evidence ex parte in order to avoid disclosing any matter that may adversely affect an ongoing criminal investigation or pending criminal trial.
 
-&emsp;(5) The court shall render a decision on a petition filed under paragraph (3) not later than 30 days after the date of the filing, unless such 30-day limitation is extended by consent of the parties or by the court for good cause shown.
+&emsp;(5) The court shall render a decision on a petition filed under paragraph (3) not later than30 days after the date of the filing, unless such 30-day limitation is extended by consent of the parties or by the court for good cause shown.
 
 &emsp;(6) If—
 
@@ -286,7 +286,7 @@ Civil Forfeiture Statute Defined.—In this section, the term “civil forfeitur
 
 &emsp;&emsp;(C) the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.);
 
-&emsp;&emsp;(D) the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.); or
+&emsp;&emsp;(D) the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.); or
 
 &emsp;&emsp;(E) section 1 of title VI of the Act of June 15, 1917 (40 Stat. 233; 22 U.S.C. 401).
 
@@ -310,7 +310,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
-(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791.)
+(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310.)
 
 #### References in Text
 
@@ -326,13 +326,21 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (i)(2)(C), is a
 
 The Trading with the Enemy Act, referred to in subsec. (i)(2)(D), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
+The International Emergency Economic Powers Act, referred to in (i)(2)(D), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+
 The Federal Rules of Evidence, referred to in subsec. (j)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 
+2001—Subsec. (i)(2)(D). Pub. L. 107–56 inserted “or the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.)” before semicolon.
+
 2000—Subsec. (a)(2)(C)(ii). Pub. L. 106–561 struck out “(and provide customary documentary evidence of such interest if available) and state that the claim is not frivolous” after “such property”.
 
 Subsec. (j). Pub. L. 106–185, §9, added subsec. (j).
+
+#### Termination Date of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
 #### Effective Date of 2000 Amendment
 
@@ -341,4 +349,42 @@ Pub. L. 106–561, §3(b), Dec. 21, 2000, 114 Stat. 2791, provided that: “The 
 #### Effective Date
 
 Section applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
+
+#### Anti-Terrorist Forfeiture Protection
+
+Pub. L. 107–56, title III, §316(a)–(c), Oct. 26, 2001, 115 Stat. 309, provided that:
+
+“(a)
+
+Right to Contest.—An owner of property that is confiscated under any provision of law relating to the confiscation of assets of suspected international terrorists, may contest that confiscation by filing a claim in the manner set forth in the Federal Rules of Civil Procedure (Supplemental Rules for Certain Admiralty and Maritime Claims) \[28 App. U.S.C.\], and asserting as an affirmative defense that—
+
+&emsp;“(1) the property is not subject to confiscation under such provision of law; or
+
+&emsp;“(2) the innocent owner provisions of section 983(d) of title 18, United States Code, apply to the case.
+
+“(b)
+
+Evidence.—In considering a claim filed under this section, a court may admit evidence that is otherwise inadmissible under the Federal Rules of Evidence \[28 App. U.S.C.\], if the court determines that the evidence is reliable, and that compliance with the Federal Rules of Evidence may jeopardize the national security interests of the United States.
+
+“(c)
+
+Clarifications.—
+
+&emsp;“(1)
+
+Protection of rights.—The exclusion of certain provisions of Federal law from the definition of the term ‘civil forfeiture statute’ in section 983(i) of title 18, United States Code, shall not be construed to deny an owner of property the right to contest the confiscation of assets of suspected international terrorists under—
+
+&emsp;&emsp;“(A) subsection (a) of this section;
+
+&emsp;&emsp;“(B) the Constitution; or
+
+&emsp;&emsp;“(C) subchapter II of chapter 5 of title 5, United States Code (commonly known as the ‘Administrative Procedure Act’).
+
+&emsp;“(2)
+
+Savings clause.—Nothing in this section shall limit or otherwise affect any other remedies that may be available to an owner of property under section 983 of title 18, United States Code, or any other provision of law.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 981 of this title; title 28 section 2467.
 

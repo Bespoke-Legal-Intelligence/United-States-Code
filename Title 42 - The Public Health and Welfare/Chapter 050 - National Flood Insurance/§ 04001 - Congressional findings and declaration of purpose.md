@@ -2,7 +2,7 @@
 
 #### (a) Necessity and reasons for flood insurance program
 
-The Congress finds that (1) from time to time flood disasters have created personal hardships and economic distress which have required unforeseen disaster relief measures and have placed an increasing burden on the Nation's resources; (2) despite the installation of preventive and protective works and the adoption of other public programs designed to reduce losses caused by flood damage, these methods have not been sufficient to protect adequately against growing exposure to future flood losses; (3) as a matter of national policy, a reasonable method of sharing the risk of flood losses is through a program of flood insurance which can complement and encourage preventive and protective measures; and (4) if such a program is initiated and carried out gradually, it can be expanded as knowledge is gained and experience is appraised, thus eventually making flood insurance coverage available on reasonable terms and conditions to persons who have need for such protection.
+The Congress finds that (1) from time to time flood disasters have created personal hardships and economic distress which have required unforeseen disaster relief measures and have placed an increasing burden on the Nation's resources; (2) despite the installation of preventive and protective works and the adoption of other public programs designed to reduce losses caused by flood damage, these methods have not been sufficient to protect adequately against growing exposure to future flood losses; (3) as a matter of national policy, a reasonable method of sharing the risk of flood losses is through a program of flood insurance which can complement and encourage preventive and protective measures; and (4) if such a program is initiated and carried out gradually, it can be expanded as knowledge is gained and experience isappraised, thus eventually making flood insurance coverage available on reasonable terms and conditions to persons who have need for such protection.
 
 #### (b) Participation of Federal Government in flood insurance program carried out by private insurance industry
 
@@ -10,7 +10,7 @@ The Congress also finds that (1) many factors have made it uneconomic for the pr
 
 #### (c) Unified national program for flood plain management
 
-The Congress further finds that (1) a program of flood insurance can promote the public interest by providing appropriate protection against the perils of flood losses and encouraging sound land use by minimizing exposure of property to flood losses; and (2) the objectives of a flood insurance program should be integrally related to a unified national program for flood plain management and, to this end, it is the sense of Congress that within two years following the effective date of this chapter the President should transmit to the Congress for its considerationany further proposals necessary for such a unified program, including proposals for the allocation of costs among beneficiaries of flood protection.
+The Congress further finds that (1) a program of flood insurance can promote the public interest by providing appropriate protection against the perils of flood losses and encouraging sound land use by minimizing exposure of property to flood losses; and (2) the objectives of a flood insurance program should be integrally related to a unified national program for flood plain management and, to this end, it is the sense of Congress that within two years following the effective date of this chapter the President should transmit to the Congress for its consideration any further proposals necessary for such a unified program, including proposals for the allocation of costs among beneficiaries of flood protection.
 
 #### (d) Authorization of flood insurance program; flexibility in program
 
@@ -138,7 +138,7 @@ Costs and Benefits of Mapping.—The determination under subsection (a)(5) shall
 
 &emsp;&emsp;“(A) funding the mitigation assistance program under section 1366 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4104c\] (as added by section 553 of this Act);
 
-&emsp;&emsp;“(B) funding the program under section 1304(b) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4011(b)\] (as added by section 555(a) of this Act) that provides additional coverage under the national flood insurance program for compliance with land use and control measures; and
+&emsp;&emsp;“(B) funding the program under section 1304(b) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4011(b)\] (as added by section 555(a) of this Act) that provides additional coverage under the nationalflood insurance program for compliance with land use and control measures; and
 
 &emsp;&emsp;“(C) reviewing, revising, and updating flood insurance rate maps under subsections (e) and (f) of section 1360 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4101(e), (f)\] (as added by the amendment made by section 575 of this Act);
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization to recover benefits
 
-Except as provided in subsection (c) of this section, the trustee is authorized to recover for the benefit of a plan from a participant the recoverable amount (as defined in subsection (b) of this section) of all payments from the plan to him which commenced within the 3-year period immediately preceding the time the plan is terminated.
+Except as provided in subsection (c) of this section, the trustee is authorized to recover forthe benefit of a plan from a participant the recoverable amount (as defined in subsection (b) of this section) of all payments from the plan to him which commenced within the 3-year period immediately preceding the time the plan is terminated.
 
 #### (b) Recoverable amount
 

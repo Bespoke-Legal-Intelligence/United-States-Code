@@ -40,7 +40,7 @@
 
 #### (c) Penalties for intentional transmission of HIV
 
-Not later than 6 months after September 13, 1994, the United States Sentencing Commission shall conduct a study and prepare and submit to the committees <sup>2</sup> on the Judiciary of the Senate and the House of Representatives a report concerning recommendations for the revision of sentencing guidelines that relate to offenses in which an HIV infected individual engages in sexual activity if the individual knows that he or she is infected with HIV and intends, through such sexual activity, to expose another to HIV.
+Not later than 6 months after September 13, 1994, the United States Sentencing Commission shall conduct a study and prepare and submit to the committees <sup>2</sup> on the Judiciary of the Senate and the House of Representatives a report concerning recommendations for the revision of sentencing guidelines that relate to offenses in which an HIV infected individual engages in sexual activity if the individual knows that he orshe is infected with HIV and intends, through such sexual activity, to expose another to HIV.
 
 (Pub. L. 103–322, title IV, §40503, Sept. 13, 1994, 108 Stat. 1946; Pub. L. 104–294, title VI, §604(b)(1), Oct. 11, 1996, 110 Stat. 3506.)
 

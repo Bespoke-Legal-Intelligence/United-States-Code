@@ -2,7 +2,7 @@
 
 #### (a) Congressional objectives and findings
 
-The Congress declares that, in order to achieve the mutual goals among nations of ensuring food security, human health, agricultural growth, trade expansion, and the wise and sustainable use of natural resources, the United States should mobilize the capacities of the United States land-grant universities, other eligible universities, and public and private partners of universities in the United States andother countries, consistent with sections 2151a and 2151a–1 of this title, for: (1) global research on problems affecting food, agriculture, forestry, and fisheries; (2) improved human capacity and institutional resource development for the global application of agricultural and related environmental sciences; (3) agricultural development and trade research and extension services in the United States and other countries to support the entry of rural industries into world markets; and (4) providing for the application of agricultural sciences to solving food, health, nutrition, rural income, and environmental problems, especially such problems in low-income, food deficit countries.
+The Congress declares that, in order to achieve the mutual goals among nations of ensuring food security, human health, agricultural growth, trade expansion, and the wise and sustainable use of natural resources, the United States should mobilize the capacities of the United States land-grant universities, other eligible universities, and public and private partners of universities in the United States and other countries, consistent with sections 2151a and 2151a–1 of this title, for: (1) global research on problems affecting food, agriculture, forestry, and fisheries; (2) improved human capacity and institutional resource development for the global application of agricultural and related environmental sciences; (3) agricultural development and trade research and extension services in the United States and other countries to support the entry of rural industries into world markets; and (4) providing for the application of agricultural sciences to solving food, health, nutrition, rural income, and environmental problems, especially such problems in low-income, food deficit countries.
 
 The Congress so declares because it finds—
 
@@ -96,7 +96,7 @@ The First Morrill Act and the Second Morrill Act, referred to in subsec. (d), re
 
 The National Sea Grant College and Program Act, referred to in subsec. (d), is title II of Pub. L. 89–454, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 998, as amended, which is classified generally to subchapter II (§1121 et seq.) of chapter 22 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1121 of Title 33 and Tables.
 
-The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (d), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended, which is set out as a note under section 301 of Title 7,Agriculture. For complete classification of this Act to the Code, see Tables.
+The Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (d), is Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended, which is set out as a note under section 301 of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -124,7 +124,7 @@ Subsec. (c)(1). Pub. L. 106–373, §2(c)(1), substituted “each of the program
 
 Subsec. (c)(2). Pub. L. 106–373, §2(c)(2)(A), inserted “and public and private partners of universities” after “for the universities”.
 
-Subsec. (c)(3). Pub. L. 106–373, §2(c)(3), inserted “and public and private partners of universities” after “such universities” in introductory provisions, added subpars. (C) to (E), and struck out concluding provisions which read as follows: “directed to strengthening their joint and respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.”
+Subsec. (c)(3). Pub. L. 106–373, §2(c)(3), inserted “and public and private partners of universities” after “such universities” in introductory provisions, added subpars.\(C) to (E), and struck out concluding provisions which read as follows: “directed to strengthening their joint and respective capabilities and to engage them more effectively in research, teaching, and extension activities for solving problems in food production, distribution, storage, marketing, and consumption in agriculturally underdeveloped nations.”
 
 Subsec. (c)(4), (5). Pub. L. 106–373, §2(c)(2)(B), (4), added pars. (4) and (5).
 
@@ -172,7 +172,7 @@ Pub. L. 95–105, title V, §510, Aug. 17, 1977, 91 Stat. 860.
 
 #### Commission on Hunger and Malnutrition
 
-Pub. L. 95–426, title VII, §711, Oct. 7, 1978, 92 Stat. 994, which authorized funds to be appropriated for fiscal years 1979 and 1980 for a commission to conduct studies on global hunger and malnutrition, which commissionwas to make recommendations to the President and Congress on policies to increase the capacity of the United States to reduce hunger and malnutrition, was repealed by Pub. L. 97–241, title V, §505(a)(2), Aug. 24, 1982, 96 Stat. 299.
+Pub. L. 95–426, title VII, §711, Oct. 7, 1978, 92 Stat. 994, which authorized funds to be appropriated for fiscal years 1979 and 1980 for a commission to conduct studies on global hunger and malnutrition, which commission was to make recommendations to the President and Congress on policies to increase the capacity of the United States to reduce hunger and malnutrition, was repealed by Pub. L. 97–241, title V, §505(a)(2), Aug. 24, 1982, 96 Stat. 299.
 
 #### Settlement of Debt Owed the United States
 

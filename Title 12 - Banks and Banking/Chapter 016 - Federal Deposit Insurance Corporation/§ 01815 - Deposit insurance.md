@@ -134,7 +134,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;&emsp;(II) the total amount of net interest credited to the depository institution's deposits during the period beginning on May 1, 1989, and ending on the date of the transfer of deposits in connection with such transaction; or
 
-&emsp;&emsp;&emsp;(ii) the amount which is equal to the total deposits of such insured depositoryinstitution on the date of the transfer of deposits in connection with such transaction.
+&emsp;&emsp;&emsp;(ii) the amount which is equal to the total deposits of such insured depository institution on the date of the transfer of deposits in connection with such transaction.
 
 #### (E) Exit and entrance fees
 
@@ -152,7 +152,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Bank Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Bank Insurance Fund, and shall be paid to the Bank Insurance Fund; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Savings Association Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Savings Association Insurance Fund, and shall be paid to the Savings Association Insurance Fund.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Savings Association Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the SavingsAssociation Insurance Fund, and shall be paid to the Savings Association Insurance Fund.
 
 #### (F) Assessment of exit and entrance fees
 
@@ -334,7 +334,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (ii) Underpayment
 
-&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1 or more such commonly controlled depository institutions is less than the actual loss incurred by the Corporation, the Corporation shall redetermine in its discretion the liability of each such commonly controlled depository institution to theCorporation and shall require each such commonly controlled depository institution to make payment of any additional liability to the Corporation.
+&emsp;&emsp;&emsp;If the amount of compensation estimated by and paid to the Corporation by 1 or more such commonly controlled depository institutions is less than the actual loss incurred by the Corporation, the Corporation shall redetermine in its discretion the liability of each such commonly controlled depository institution to the Corporation and shall require each such commonly controlled depository institution to make payment of any additional liability to the Corporation.
 
 #### (3) Review
 
@@ -368,7 +368,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (B) Condition
 
-&emsp;&emsp;During the period any exemption granted to any insured depository institution under subparagraph (A) or (C) is in effect, such insured depository institution and all other insured depository institution affiliates of such depository institution shall comply fully with the restrictions of sections 371c and 371c–1 of this title without regard to section 371c(d)(1) of this title.
+&emsp;&emsp;During the period any exemption granted to any insured depository institution undersubparagraph (A) or (C) is in effect, such insured depository institution and all other insured depository institution affiliates of such depository institution shall comply fully with the restrictions of sections 371c and 371c–1 of this title without regard to section 371c(d)(1) of this title.
 
 #### (C) Limited partnerships
 
@@ -402,7 +402,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;(A) such affiliate was receiving cash payments from the Federal Savings and Loan Insurance Corporation under an assistance agreement or note entered into before August 9, 1989;
 
-&emsp;&emsp;(B) the Federal Savings and Loan Insurance Corporation, or such other entity whichhas succeeded to the payment obligations of such Corporation with respect to such assistance agreement or note, is unable to continue such payments; and
+&emsp;&emsp;(B) the Federal Savings and Loan Insurance Corporation, or such other entity which has succeeded to the payment obligations of such Corporation with respect to such assistance agreement or note, is unable to continue such payments; and
 
 &emsp;&emsp;(C) such affiliate—
 

@@ -170,7 +170,7 @@
 | (c) | Credits to revolving fund. |
 | (d) | Unobligated balances. |
 | (e) | Annual report. |
-| [182a.](%C2%A7%2000182a%20-%20Revolving%20fund%20for%20audio%20and%20video%20duplication%20services%20associated%20with%20audiovisual%20conservation%20center.md) | Revolving fund for audio and video duplication services associated with audiovisual conservation center. |
+| [182a.](%C2%A7%2000182a%20-%20Revolving%20fund%20for%20duplication%20services%20associated%20with%20audiovisual%20conservation%20center.md) | Revolving fund for duplication services associated with audiovisual conservation center. |
 | (a) | Establishment. |
 | (b) | Fees for services. |
 | (c) | Contents of fund. |
@@ -317,7 +317,7 @@
 - [&sect; 00180 - Legislative information retrieval system](%C2%A7%2000180%20-%20Legislative%20information%20retrieval%20system.md)
 - [&sect; 00181 - Program for exchange of information among legislative branch agencies](%C2%A7%2000181%20-%20Program%20for%20exchange%20of%20information%20among%20legislative%20branch%20agencies.md)
 - [&sect; 00182 - Cooperative Acquisitions Program Revolving Fund](%C2%A7%2000182%20-%20Cooperative%20Acquisitions%20Program%20Revolving%20Fund.md)
-- [&sect; 00182a - Revolving fund for audio and video duplication services associated with audiovisual conservation center](%C2%A7%2000182a%20-%20Revolving%20fund%20for%20audio%20and%20video%20duplication%20services%20associated%20with%20audiovisual%20conservation%20center.md)
+- [&sect; 00182a - Revolving fund for duplication services associated with audiovisual conservation center](%C2%A7%2000182a%20-%20Revolving%20fund%20for%20duplication%20services%20associated%20with%20audiovisual%20conservation%20center.md)
 - [&sect; 00182b - Revolving fund for gift shop, decimal classification, photo duplication, and related services](%C2%A7%2000182b%20-%20Revolving%20fund%20for%20gift%20shop%2C%20decimal%20classification%2C%20photo%20duplication%2C%20and%20related%20services.md)
 - [&sect; 00182c - Revolving fund for FEDLINK program and Federal Research program](%C2%A7%2000182c%20-%20Revolving%20fund%20for%20FEDLINK%20program%20and%20Federal%20Research%20program.md)
 - [&sect; 00182d - Audits by Comptroller General](%C2%A7%2000182d%20-%20Audits%20by%20Comptroller%20General.md)

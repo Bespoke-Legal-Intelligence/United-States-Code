@@ -70,7 +70,7 @@
 
 #### (d) Review of sites and State participation
 
-(1) In carrying out the provisions of this part with regard to any interim storage of spent fuelfrom civilian nuclear power reactors which the Secretary is authorized by this section to provide, the Secretary shall, as soon as practicable, notify, in writing, the Governor and the State legislature of any State and the Tribal Council of any affected Indian tribe in such State in which is located a potentially acceptable site or facility for such interim storage of spent fuel of his intention to investigate that site or facility.
+(1) In carrying out the provisions of this part with regard to any interim storage of spent fuel from civilian nuclear power reactors which the Secretary is authorized by this section to provide, the Secretary shall, as soon as practicable, notify, in writing, the Governor and the State legislature of any State and the Tribal Council of any affected Indian tribe in such State in which is located a potentially acceptable site or facility for such interim storage of spent fuel of his intention to investigate that site or facility.
 
 (2) During the course of investigation of such site or facility, the Secretary shall keep the Governor, State legislature, and affected Tribal Council currently informed of the progress of the work, and results of the investigation. At the time of selection by the Secretary of any site or existing facility, but prior to undertaking any site-specific work or alterations, the Secretary shall promptly notify the Governor, the legislature, and any affected Tribal Council in writing of such selection, and subject to the provisions of paragraph (6) of this subsection, shall promptly enter into negotiations with such State and affected Tribal Council to establish a cooperative agreement under which such State and Council shall have the right to participate in a process of consultation and cooperation, based on public health and safety and environmental concerns, in all stages of the planning, development, modification, expansion, operation, and closure of storage capacity at a site or facility within such State for the interim storage of spent fuel from civilian nuclear power reactors. Public participation in the negotiation of such an agreement shall be provided for and encouraged by the Secretary, the State, and the affected Tribal Council. The Secretary, in cooperation with the States and Indian tribes, shall develop and publish minimum guidelines for public participation in such negotiations, but the adequacy of such guidelines or any failure to comply with such guidelines shall not be a basis for judicial review.
 
@@ -110,7 +110,7 @@ Notwithstanding any other provision of law, nothing in this chapter shall be con
 
 #### (i) Coordination with research and development program
 
-To the extent available, and consistent with the provisions of this section, the Secretary shall provide spent nuclear fuel for the research and development program authorized in section 10198 <sup>1</sup> of this title from spent nuclear fuel received by the Secretary for storage under this section. Such spent nuclear fuel shall not be subject to the provisions of subsection (e) of this section.
+To the extent available, and consistent with the provisions of this section, the Secretary shall provide spent nuclear fuel for the research and development program authorized in section 10198 <sup>1</sup> of this title from spent nuclear fuel received by the Secretary for storage under this section. Such spent nuclear fuel shall not besubject to the provisions of subsection (e) of this section.
 
 (Pub. L. 97–425, title I, §135, Jan. 7, 1983, 96 Stat. 2232.)
 
@@ -120,7 +120,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (a)(1)(A)(i), is act Aug. 
 
 The Energy Reorganization Act of 1974, referred to in subsec. (a)(1)(A)(i), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-Section 10198 of this title, referred to in subsec. (i), was in the original a reference to section 217 of Pub. L.97–425, which is classified to section 10197 of this title, and has been translated as section 10198 of this title as the probable intent of Congress in view of section 10198(c)(2) which directs the Secretary to provide spent nuclear fuel for the research and development program authorized by section 10198(c) of this title from spent nuclear fuel received by the Secretary for storage under section 10155 of this title.
+Section 10198 of this title, referred to in subsec. (i), was in the original a reference to section 217 of Pub. L. 97–425, which is classified to section 10197 of this title, and has been translated as section 10198 of this title as the probable intent of Congress in view of section 10198(c)(2) which directs the Secretary to provide spent nuclear fuel for the research and development program authorized by section 10198(c) of this title from spent nuclear fuel received by the Secretary for storage under section 10155 of this title.
 
 #### Termination of Reporting Requirements
 

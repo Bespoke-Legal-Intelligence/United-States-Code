@@ -18,7 +18,7 @@ The Secretary of the Treasury, in consultation with the Secretary of Commerce an
 
 &emsp;&emsp;(E) the opening of domestic capital markets.
 
-&emsp;(3) A description of the degree to which the countries requiring the financial stabilizationprograms have fully implemented reforms required by the International Monetary Fund that are directed at corporate governance and corporate structure, including—
+&emsp;(3) A description of the degree to which the countries requiring the financial stabilization programs have fully implemented reforms required by the International Monetary Fund that are directed at corporate governance and corporate structure, including—
 
 &emsp;&emsp;(A) making nontransparent conglomerate practices more transparent through the application of internationally accepted accounting practices, independent external audits, full disclosure, and provision of consolidated statements; and
 

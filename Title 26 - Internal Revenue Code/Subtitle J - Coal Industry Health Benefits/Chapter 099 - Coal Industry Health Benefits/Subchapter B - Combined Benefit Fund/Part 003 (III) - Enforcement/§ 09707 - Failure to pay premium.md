@@ -28,7 +28,7 @@ For purposes of this section, the term “noncompliance period” means, with re
 
 &emsp;&emsp;(A) such failure was due to reasonable cause and not to willful neglect, and
 
-&emsp;&emsp;(B) such failure is corrected during the 30-day period beginning on the 1st date that any of the persons responsible for such failure knew, or exercising reasonable diligence would have known, that such failure existed.
+&emsp;&emsp;(B) such failure is corrected during the 30-day period beginning on the 1st date thatany of the persons responsible for such failure knew, or exercising reasonable diligence would have known, that such failure existed.
 
 #### (3) Waiver
 

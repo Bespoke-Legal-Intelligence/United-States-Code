@@ -14,7 +14,7 @@ Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administ
 
 Pub. L. 102–40 substituted “5312” for “3112” in two places.
 
-1978—Pub. L. 95–588 amended section generally to speak in terms of children of veterans of any period of war rather than children of veterans of specifically named conflicts, restructured section to eliminate subsection designations, struck out provision formerly comprising subsec. (b) of this section which related topayment of pensions to recipient children in equal shares, and inserted reference to periodic pension increases pursuant to section 3112 of this title.
+1978—Pub. L. 95–588 amended section generally to speak in terms of children of veterans of any period of war rather than children of veterans of specifically named conflicts, restructured section to eliminate subsection designations, struck out provision formerly comprising subsec. (b) of this section which related to payment of pensions to recipient children in equal shares, and inserted reference to periodic pension increases pursuant to section 3112 of this title.
 
 1977—Subsec. (a). Pub. L. 95–204, §103(1), substituted “$61” and “$26” for “$57” and “$24”, respectively.
 
@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 95–204, §103(2), substituted “$3,080” for “$2,890�
 
 Subsec. (c). Pub. L. 94–432, §204(2), substituted “$2,890” for “$2,700”.
 
-1975—Subsec. (a). Pub. L. 94–169, §§101(2)(D), 104(1), substituted “surviving spouse” for “widow”, struck out “his” before “death,” and, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, substituted “$53” for “$49” and “$22” for “$20”.
+1975—Subsec. (a). Pub. L. 94–169, §§101(2)(D), 104(1), substituted “surviving spouse” for “widow”, struck out“his” before “death,” and, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, substituted “$53” for “$49” and “$22” for “$20”.
 
 Subsec. (c). Pub. L. 94–169, §104, substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “$2700” for “$2400”.
 

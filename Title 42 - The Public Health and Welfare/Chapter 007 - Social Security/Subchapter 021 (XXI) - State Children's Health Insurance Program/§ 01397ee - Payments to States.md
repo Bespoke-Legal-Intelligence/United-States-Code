@@ -62,7 +62,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (3) Waiver for purchase of family coverage
 
-&emsp;Payment may be made to a State under subsection (a)(1) of this section for the purchase of family coverage under a group health plan or health insurance coverage that includes coverage of targeted low-income children only if the State establishes to the satisfaction of the Secretary that—
+&emsp;Payment may be made to a State under subsection (a)(1) of this section for the purchase of family coverage under a group health plan or health insurance coverage that includescoverage of targeted low-income children only if the State establishes to the satisfaction of the Secretary that—
 
 &emsp;&emsp;(A) purchase of such coverage is cost-effective relative to the amounts that the State would have paid to obtain comparable coverage only of the targeted low-income children involved, and
 
@@ -90,7 +90,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (A) In general
 
-&emsp;&emsp;Payment shall not be made to a State under this section for any amount expendedunder the State plan to pay for any abortion or to assist in the purchase, in whole or in part, of health benefit coverage that includes coverage of abortion.
+&emsp;&emsp;Payment shall not be made to a State under this section for any amount expended under the State plan to pay for any abortion or to assist in the purchase, in whole or in part, of health benefit coverage that includes coverage of abortion.
 
 #### (B) Exception
 

@@ -44,7 +44,7 @@ The Administrator may appoint, fix the compensation, and remove additional emplo
 
 #### (e) Compensation
 
-Except as otherwise provided in subsection (a) of this section, the members of the Board who are officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (d)(1) of this section, shall receive no additional compensation for services, but shall continue to be compensated by the employing Department or agency of such officer or employee. Each member of the Board appointed from private life shall receive compensation at a rate not to exceed the daily equivalent of the rate prescribed for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board. Individuals hired under subsection (d)(2) of this section may receive compensation at rates fixed by the Administrator, but not to exceed the daily equivalent of the rate prescribed for level V of the Federal Executive Salary Schedule under section 5316 of title 5 for each day (including travel time) in which such appointees are properly engaged in the actual performance of duties under this section. While serving away from homes or the regular place of business, Board members and other appointees serving on an intermittent basis under this section shall be allowed travel expenses in accordance with section 5703 of title 5.
+Except as otherwise provided in subsection (a) of this section, the members of the Board who are officers or employees of the Federal Government, and officers and employees of other agencies of the Federal Government who are used under subsection (d)(1) of this section, shall receive no additional compensation for services, but shall continue to be compensated by the employing Department or agency of such officer or employee. Each member of the Board appointed from private life shall receive compensation at a rate not to exceed the daily equivalent of the rate prescribed for level IV of the Executive Schedule for each day (including travel time) in which the member is engaged in the actual performance of duties vested in the Board. Individuals hired under subsection (d)(2) of this section may receive compensation at rates fixed by the Administrator, but not to exceed the daily equivalent of the rate prescribed for level V of the Federal Executive Salary Schedule under section 5316 of title 5 for each day (including travel time) in which such appointees are properly engaged in the actual performance of duties under this section. While serving away fromhomes or the regular place of business, Board members and other appointees serving on an intermittent basis under this section shall be allowed travel expenses in accordance with section 5703 of title 5.
 
 #### (f) Cost accounting standards authority
 
@@ -98,7 +98,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 &emsp;&emsp;(i) the probable costs of implementation, including inflationary effects, if any, compared to the probable benefits;
 
-&emsp;&emsp;(ii) the advantages, disadvantages, and improvements anticipated in the pricing andadministration of, and settlement of disputes concerning, contracts; and
+&emsp;&emsp;(ii) the advantages, disadvantages, and improvements anticipated in the pricing and administration of, and settlement of disputes concerning, contracts; and
 
 &emsp;&emsp;(iii) the scope of, and alternatives available to, the action proposed to be taken;
 
@@ -144,7 +144,7 @@ Except as otherwise provided in subsection (a) of this section, the members of t
 
 #### (k) Examinations
 
-For the purpose of determining whether a contractor or subcontractor has complied with cost accounting standards promulgated under this section and has followed consistently the contractor's or subcontractor's disclosed cost accounting practices, any authorized representative of the head of the agency concerned, of the offices of inspector general established pursuant to the Inspector General Act of 1978, or of the Comptroller General of the United States shallhave the right to examine and make copies of any documents, papers, or records of such contractor or subcontractor relating to compliance with such cost accounting standards.
+For the purpose of determining whether a contractor or subcontractor has complied with cost accounting standards promulgated under this section and has followed consistently the contractor's or subcontractor's disclosed cost accounting practices, any authorized representative of the head of the agency concerned, of the offices of inspector general established pursuant to the Inspector General Act of 1978, or of the Comptroller General of the United States shall have the right to examine and make copies of any documents, papers, or records of such contractor or subcontractor relating to compliance with such cost accounting standards.
 
 #### (<i>l</i>) Authorization of appropriations
 
@@ -158,7 +158,7 @@ The provisions of title 5 governing appointments in the competitive service, ref
 
 Level IV of the Executive Schedule, referred to in subsec. (e), is set out in section 5315 of Title 5.
 
-For the effective date of this paragraph, referred to in subsec. (f)(5)(A)(ii), as 180 days after Oct. 5, 1999, see section 802(i) of Pub. L. 106–65, set out as an Effective Date of 1999 Amendment; Regulations; Implementation; Construction note below.
+For the effective date of this paragraph, referred to in subsec. (f)(5)(A)(ii), as 180 days after Oct. 5, 1999, see section 802(i) of Pub. L. 106–65, set out as an EffectiveDate of 1999 Amendment; Regulations; Implementation; Construction note below.
 
 The Contract Disputes Act, referred to in subsec. (h)(2), probably means the Contract Disputes Act of 1978, Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is classified principally to chapter 9 (§601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
@@ -232,7 +232,7 @@ Effective Date.—The amendments made by subsections (a) and (b) \[amending this
 
 &emsp;“(1) contracts that are entered into on or after such effective date; and
 
-&emsp;“(2) determinations made on or after such effective date regarding whether a segment of a contractor orsubcontractor is subject to the cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)), regardless of whether the contracts on which such determinations are made were entered into before, on, or after such date.”
+&emsp;“(2) determinations made on or after such effective date regarding whether a segment of a contractor or subcontractor is subject to the cost accounting standards under section 26(f) of the Office of Federal Procurement Policy Act (41 U.S.C. 422(f)), regardless of whether the contracts on which such determinations are made were entered into before, on, or after such date.”
 
 #### Effective Date of 1996 Amendment
 

@@ -4,7 +4,7 @@
 
 (1) Except as otherwise provided in sections 543 to 543h of this title, the Secretary, acting through the Chief of the Forest Service, shall administer the Scenic Area as a separate unit within the boundary of the Inyo National Forest in accordance with the laws, rules, and regulations applicable to the National Forest System. All Bureau of Land Management administered lands that fall within the boundaries of the Scenic Area are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System.
 
-(2) In addition, the following parcels administered by the Bureau of Land Management are hereby added to the Inyo National Forest andshall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System:
+(2) In addition, the following parcels administered by the Bureau of Land Management are hereby added to the Inyo National Forest and shall be administered in accordance with the laws, rules, and regulations applicable to the National Forest System:
 
 &emsp;township 1 south; range 26 east; Mount Diablo Meridian:
 
@@ -86,7 +86,7 @@ Nothing in sections 543 to 543h of this title shall be construed to reserve any 
 
 (3) The grant in paragraph (2) of this subsection shall become effective upon relinquishment in writing by the city of Los Angeles of its applications dated October 20, 1944, and January 17, 1945, to purchase twenty-three thousand eight hundred and fifty acres of Federal land.
 
-(4) The easements granted under paragraph (2) of this subsection shall provide that whenever the city of Los Angeles ceases to use the land or any part thereof subject to such easements for the purposes for which it is currently being used, as of September 28, 1984, all interests in such land or part thereof shall revert to the United States.
+(4) The easements granted under paragraph (2) of this subsection shall provide that whenever the city of Los Angeles ceases to use the land orany part thereof subject to such easements for the purposes for which it is currently being used, as of September 28, 1984, all interests in such land or part thereof shall revert to the United States.
 
 #### (j) Existing community recreational uses
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Board may, for the purpose of carrying out its duties, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Librarian and the Board consider appropriate.
+The Board may, for the purpose of carrying out its duties, hold such hearings, sit and act atsuch times and places, take such testimony, and receive such evidence, as the Librarian and the Board consider appropriate.
 
 #### (b) Service on Foundation
 

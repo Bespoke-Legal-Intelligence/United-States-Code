@@ -10,7 +10,7 @@ A record of lawful admission for permanent residence may, in the discretion of t
 
 &emsp;(d) is not ineligible to citizenship and is not deportable under section 1227(a)(4)(B) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §249, 66 Stat. 219; Pub. L. 85–616, Aug. 8, 1958, 72 Stat. 546; Pub. L. 89–236, §19, Oct. 3, 1965, 79 Stat. 920; Pub. L.99–603, title II, §203(a), Nov. 6, 1986, 100 Stat. 3405; Pub. L. 100–525, §2(j), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title VI, §603(a)(14), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §413(e), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §308(g)(10)(C), Sept. 30, 1996, 110 Stat. 3009–625.)
+(June 27, 1952, ch. 477, title II, ch. 5, §249, 66 Stat. 219; Pub. L. 85–616, Aug. 8, 1958, 72 Stat. 546; Pub. L. 89–236, §19, Oct. 3, 1965, 79 Stat. 920; Pub. L. 99–603, title II, §203(a), Nov. 6, 1986, 100 Stat. 3405; Pub. L. 100–525, §2(j), Oct. 24, 1988, 102 Stat. 2612; Pub. L. 101–649, title VI, §603(a)(14), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 104–132, title IV, §413(e), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §308(g)(10)(C), Sept. 30, 1996, 110 Stat. 3009–625.)
 
 #### Amendments
 

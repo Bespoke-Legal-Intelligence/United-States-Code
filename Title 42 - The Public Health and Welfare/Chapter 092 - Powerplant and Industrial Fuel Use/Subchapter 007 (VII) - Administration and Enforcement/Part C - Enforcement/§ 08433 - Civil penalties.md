@@ -2,7 +2,7 @@
 
 #### (a) General civil penalty
 
-Any person who violates any provision of this chapter, or rule or order thereunder, shall besubject to a civil penalty, which shall be assessed by the Secretary, of not more than $25,000 for each violation. Each day of violation shall constitute a separate violation.
+Any person who violates any provision of this chapter, or rule or order thereunder, shall be subject to a civil penalty, which shall be assessed by the Secretary, of not more than $25,000 for each violation. Each day of violation shall constitute a separate violation.
 
 #### (b) Civil penalty for operation in excess of exemption
 

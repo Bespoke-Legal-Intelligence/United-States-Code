@@ -38,7 +38,7 @@ Upon approving an application under this section, the Director shall award the a
 
 An amendment of any application shall be subject to approval in the same manner as an original application.
 
-(Pub. L. 90–351, title I, §603, as added Pub. L. 98–473, title II, §609, Oct. 12, 1984, 98 Stat. 2088; amended Pub. L. 103–322, title XXXIII, §330001(h)(4), Sept. 13, 1994, 108 Stat. 2139.)
+(Pub. L. 90–351, title I, §603, as added Pub. L. 98–473, title II, §609, Oct. 12, 1984, 98 Stat. 2088;amended Pub. L. 103–322, title XXXIII, §330001(h)(4), Sept. 13, 1994, 108 Stat. 2139.)
 
 #### Prior Provisions
 

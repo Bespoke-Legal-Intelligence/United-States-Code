@@ -16,6 +16,10 @@ Establishment of Accounts.—There are hereby established in the Department of D
 
 (b)
 
+Program Elements for Ordnance Remediation.—The Secretary of Defense shall establish a program element for remediation of unexploded ordnance, discarded military munitions, and munitions constituents within each environmental restoration account established under subsection (a). The terms “unexploded ordnance”, “discarded military munitions”, and “munitions constituents” have the meanings given such terms in section 2710 of this title.
+
+(c)
+
 Obligation of Authorized Amounts.—(1) Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only—
 
 &emsp;(A) to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law; and
@@ -42,11 +46,11 @@ Obligation of Authorized Amounts.—(1) Funds authorized for deposit in an accou
 
 (4) Funds authorized for deposit in an account under subsection (a) shall remain available until expended. Not more than 5 percent of the funds deposited in an account under subsection (a) for a fiscal year may be used to pay relocation costs under paragraph (1)(B).
 
-(c)
+(d)
 
 Budget Reports.—In proposing the budget for any fiscal year pursuant to section 1105 of title 31, the President shall set forth separately the amounts requested for environmental restoration programs of the Department of Defense and of each of the military departments under this chapter and under any other Act.
 
-(d)
+(e)
 
 Credit of Amounts Recovered.—The following amounts shall be credited to the appropriate environmental restoration account:
 
@@ -54,27 +58,29 @@ Credit of Amounts Recovered.—The following amounts shall be credited to the ap
 
 &emsp;(2) Any other amounts recovered from a contractor, insurer, surety, or other person to reimburse the Department of Defense or a military department for any expenditure for environmental response activities.
 
-(e)
+(f)
 
 Payments of Fines and Penalties.—None of the funds appropriated to the Environmental Restoration Account, Defense, for fiscal years 1995 through 2010, or to any environmental restoration account of a military department for fiscal years 1997 through 2010, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
 
-(f)
+(g)
 
 Sole Source of Funds for Operation and Monitoring of Environmental Remedies.—(1) The sole source of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
 
 (2) In this subsection, the term “environmental remedy” has the meaning given the term “remedy” in section 101 of CERCLA (42 U.S.C. 9601).
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1722; amended Pub. L. 103–337, div. A, title III, §321, Oct. 5, 1994, 108 Stat. 2710; Pub. L. 104–106, div. A, title III, §322, Feb. 10, 1996, 110 Stat. 252; Pub. L. 104–201, div. A, title III, §322(a)(1), Sept. 23, 1996, 110 Stat. 2477; Pub. L. 106–65, div. A, title III, §321, title X, §1066(a)(27), Oct. 5, 1999, 113 Stat. 560, 772; Pub. L. 106–398, §1 \[\[div. A\], title III, §§311, 312\], Oct. 30, 2000, 114 Stat. 1654, 1654A–53, 1654A–54; Pub. L. 107–107, div. A, title III, §312, Dec. 28, 2001, 115 Stat. 1051.)
 
 #### References in Text
 
-CERCLA, referred to in subsec. (d)(1), means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+CERCLA, referred to in subsec. (e)(1), means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
 
+2001—Subsecs. (b) to (g). Pub. L. 107–107 added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+
 2000—Subsec. (a)(5). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(a)\], added par. (5).
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restorationfunctions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended.”
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title III, §312\], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only in order to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law. Funds so authorized shall remain available until expended.”
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title III, §311(b)\], added subsec. (f).
 

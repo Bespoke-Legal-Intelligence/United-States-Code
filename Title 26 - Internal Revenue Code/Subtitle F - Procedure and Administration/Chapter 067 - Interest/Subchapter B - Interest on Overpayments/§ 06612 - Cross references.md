@@ -12,7 +12,11 @@
 
 &emsp;&emsp;<b>For other restrictions on interest, see section 2011(c) (relating to refunds due to credit for State taxes), 2014(e) (relating to refunds attributable to foreign tax credits), 6412 (relating to floor stock refunds), 6413(d) (relating to taxes under the Federal Unemployment Tax Act), 6416 (relating to certain taxes on sales and services), 6419 (relating to the excise tax on wagering), and 6420 (relating to payments in the case of gasoline used on the farm for farming purposes), and 6421 (relating to payments in the case of gasoline used for certain nonhighway purposes or by local transit systems).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 820; Apr. 2, 1956, ch. 160, §4(f), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(e)(7), 70 Stat. 397.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 820; Apr. 2, 1956, ch. 160, §4(f), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(e)(7), 70 Stat. 397; Pub. L. 107–16, title V, §532(c)(12), June 7, 2001, 115 Stat. 75.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 107–16, title V, §532(c)(12), (d), title IX, §901, June 7, 2001, 115 Stat. 75, 150, provided that, applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, subsection (c) of this section is temporarily amended by striking out “section 2011(c) (relating to refunds due to credit for State taxes),” after “see”. See Effective and Termination Dates of 2001 Amendment note below.</i>
 
 #### References in Text
 
@@ -23,6 +27,12 @@ The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 19
 <b>1956</b>—Subsec. (c). Act June 29, 1956, inserted reference to section 6421 of this title.
 
 Act Apr. 2, 1956, inserted reference to section 6420 of this title.
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2011 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
 
 #### Effective Date of 1956 Amendment
 

@@ -16,7 +16,7 @@
 
 #### (b) Taxable distribution
 
-For purposes of this chapter, the term “taxable distribution” means any distribution froma trust to a skip person (other than a taxable termination or a direct skip).
+For purposes of this chapter, the term “taxable distribution” means any distribution from a trust to a skip person (other than a taxable termination or a direct skip).
 
 #### (c) Direct skip
 
@@ -42,7 +42,7 @@ Pub. L. 105–34, §511(b)(1), redesignated par. (3) as (2) and struck out headi
 
 &emsp;“(B) as of the time of the transfer, the parent of such individual who is a lineal descendant of the transferor (or the transferor's spouse or former spouse) is dead,
 
-> such individual shall be treated as if such individual were a child of the transferor and all of that grandchild's children shall be treated as if they were grandchildren of the transferor. In the case of lineal descendants below a grandchild, the preceding sentence may be reapplied. If any transfer of property to a trust would be a direct skip but for this paragraph, any generation assignment under this paragraph shall apply also for purposes of applying this chapter to transfers from the portion of the trust attributable to such property.”
+> such individual shall be treated as if such individual were a child of the transferor and all of that grandchild's children shall be treated as if they were grandchildren of the transferor. In the case of lineal descendants below a grandchild, the preceding sentence may be reapplied. If any transfer of property to a trust wouldbe a direct skip but for this paragraph, any generation assignment under this paragraph shall apply also for purposes of applying this chapter to transfers from the portion of the trust attributable to such property.”
 
 Subsec. (c)(3). Pub. L. 105–34, §511(b)(1), redesignated par. (3) as (2).
 

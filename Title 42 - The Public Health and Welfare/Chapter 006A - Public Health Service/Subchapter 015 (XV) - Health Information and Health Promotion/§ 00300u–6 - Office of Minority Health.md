@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established an Office of Minority Health within the Office of Public Health andScience. There shall be in the Department of Health and Human Services a Deputy Assistant Secretary for Minority Health, who shall be the head of the Office of Minority Health. The Secretary, acting through such Deputy Assistant Secretary, shall carry out this section.
+There is established an Office of Minority Health within the Office of Public Health and Science. There shall be in the Department of Health and Human Services a Deputy Assistant Secretary for Minority Health, who shall be the head of the Office of Minority Health. The Secretary, acting through such Deputy Assistant Secretary, shall carry out this section.
 
 #### (b) Duties
 
@@ -64,7 +64,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (6) Vacancies
 
-&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretary within 90 days from the date that the vacancy occurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
+&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretary within 90 days from the date that the vacancyoccurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
 
 #### (7) Compensation
 
@@ -140,7 +140,7 @@ Subsections (e)(3) and (f)(2) of this section, referred to in subsec. (f)(1), wa
 
 #### Prior Provisions
 
-A prior section 300u–6, act July 1, 1944, ch. 373, title XVII, §1707, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3593; amended July 10, 1979, Pub. L.96–32, §6(k), 93 Stat. 84, related to project grants to State Councils on Physical Fitness for physical fitness improvement, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
+A prior section 300u–6, act July 1, 1944, ch. 373, title XVII, §1707, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3593; amended July 10, 1979, Pub. L. 96–32, §6(k), 93 Stat. 84, related to project grants to State Councils on Physical Fitness for physical fitness improvement, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
 
 #### Amendments
 
@@ -204,7 +204,7 @@ Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
 
 &emsp;“(13) the Report of the Secretary's Task Force on Black and Minority Health (prepared for the Secretary of Health and Human Services and issued in 1985) described the health status problems of minorities, and made recommendations concerning measures that should be implemented by the Secretary with respect to improving the health status of minorities through programs for providing health information and education; and
 
-&emsp;“(14) the Office of Minority Health, created in 1985 by the Secretary of Health and Human Services, should be authorized pursuant to statute and should receive increased funding to support efforts to improve the health of individuals from disadvantaged backgrounds, including minorities, including the implementation of the recommendations made by the Secretary's Task Force on Black and Minority Health.”
+&emsp;“(14) the Office of Minority Health, created in 1985 by the Secretary of Health and Human Services,should be authorized pursuant to statute and should receive increased funding to support efforts to improve the health of individuals from disadvantaged backgrounds, including minorities, including the implementation of the recommendations made by the Secretary's Task Force on Black and Minority Health.”
 
 #### Section Referred to in Other Sections
 

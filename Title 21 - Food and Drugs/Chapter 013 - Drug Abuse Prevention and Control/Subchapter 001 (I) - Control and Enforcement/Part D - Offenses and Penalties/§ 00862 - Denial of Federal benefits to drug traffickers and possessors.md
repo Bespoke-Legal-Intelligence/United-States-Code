@@ -54,7 +54,7 @@ As used in this section—
 
 #### (e) Inapplicability of this section to Government witnesses
 
-The penalties provided by this section shall not apply to any individual who cooperates ortestifies with the Government in the prosecution of a Federal or State offense or who is in a Government witness protection program.
+The penalties provided by this section shall not apply to any individual who cooperates or testifies with the Government in the prosecution of a Federal or State offense or who is in a Government witness protection program.
 
 #### (f) Indian provision
 

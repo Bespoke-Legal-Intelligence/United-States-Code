@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) an interest in a partnership or trust shall not be treated as an asset of the company, but
 
-&emsp;&emsp;&emsp;(ii) the company shall be treated as actually owning its proportionate share of the assets held by the partnership or trust (as the case may be).
+&emsp;&emsp;&emsp;(ii) the company shall be treated as actually owning its proportionate share of theassets held by the partnership or trust (as the case may be).
 
 #### (b) Tentative LICTI
 
@@ -78,7 +78,7 @@ For purposes of this part—
 
 #### (2) Nonlife insurance members included for asset test
 
-&emsp;For purposes of subsection (a)(3), all members of the same controlled group (whether ornot life insurance companies) shall be treated as 1 company.
+&emsp;For purposes of subsection (a)(3), all members of the same controlled group (whether or not life insurance companies) shall be treated as 1 company.
 
 #### (3) Controlled group
 
@@ -234,7 +234,7 @@ Section 217(m) of Pub. L. 98–369, as amended by Pub. L. 99–514, §2, Oct. 22
 
 “(1)
 
-In general.—For purposes of section 806 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the ownership by a qualified life insurance company of any undivided interest in operating mineral interests with respect to any oil or gas properties held on December 31, 1983, shall be treated as an insurance business.
+In general.—For purposes of section 806 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the ownership by a qualified life insurance company of anyundivided interest in operating mineral interests with respect to any oil or gas properties held on December 31, 1983, shall be treated as an insurance business.
 
 “(2)
 

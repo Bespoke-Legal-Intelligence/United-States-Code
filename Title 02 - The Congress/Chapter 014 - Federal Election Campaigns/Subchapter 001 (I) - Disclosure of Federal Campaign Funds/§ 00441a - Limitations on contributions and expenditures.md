@@ -24,7 +24,7 @@
 
 (5) For purposes of the limitations provided by paragraph (1) and paragraph (2), all contributions made by political committees established or financed or maintained or controlled by any corporation, labor organization, or any other person, including any parent, subsidiary, branch, division, department, or local unit of such corporation, labor organization, or any other person, or by any group of such persons, shall be considered to have been made by a single political committee, except that (A) nothing in this sentence shall limit transfers between political committees of funds raised through joint fund raising efforts; (B) for purposes of the limitations provided by paragraph (1) and paragraph (2) all contributions made by a single political committee established or financed or maintained or controlled by a national committee of a political party and by a single political committee established or financed or maintained or controlled by the State committee of a political party shall not be considered to have been made by a single political committee; and (C) nothing in this section shall limit the transfer of funds between the principal campaign committee of a candidate seeking nomination or election to a Federal office and the principal campaign committee of that candidate for nomination or election to another Federal office if (i) such transfer is not made when the candidate is actively seeking nomination or election to both such offices; (ii) the limitations contained in this Act on contributions by persons are not exceeded by such transfer; and (iii) the candidate has not elected to receive any funds under chapter 95 or chapter 96 of title 26. In any case in which a corporation and any of its subsidiaries, branches, divisions, departments, or local units, or a labor organization and any of its subsidiaries, branches, divisions, departments, or local units establish or finance or maintain or control more than one separate segregated fund, all such separate segregated funds shall be treated as a single separate segregated fund for purposes of the limitations provided by paragraph (1) and paragraph (2).
 
-(6) The limitations on contributions to a candidate imposed by paragraphs (1) and (2) of this subsection shall apply separately with respect to each election, except that all elections held in any calendar year for the office of President of the United States (except a general election for such office) shall be considered to be one election.
+(6) The limitations on contributions to a candidate imposed by paragraphs (1) and (2) of this subsection shall apply separately with respect to each election, except that all elections held in any calendar year for the office of Presidentof the United States (except a general election for such office) shall be considered to be one election.
 
 (7) For purposes of this subsection—
 
@@ -92,7 +92,7 @@ No candidate or political committee shall knowingly accept any contribution or m
 
 #### (g) Attribution of multi-State expenditures to candidate's expenditure limitation in each State
 
-The Commission shall prescribe rules under which any expenditure by a candidate for presidential nominations for use in 2 or more States shall be attributed to such candidate's expenditure limitation in each such State, based on thevoting age population in such State which can reasonably be expected to be influenced by such expenditure.
+The Commission shall prescribe rules under which any expenditure by a candidate for presidential nominations for use in 2 or more States shall be attributed to such candidate's expenditure limitation in each such State, based on the voting age population in such State which can reasonably be expected to be influenced by such expenditure.
 
 #### (h) Senatorial candidates
 
@@ -103,10 +103,6 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 #### References in Text
 
 This Act, referred to in subsecs. (a)(5) and (h), means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
-
-#### Codification
-
-Another section 320 of Pub. L. 92–225, which was classified to section 441 of this title, was repealed by Pub. L. 94–283, title I, §112(1), May 11, 1976, 90 Stat. 486.
 
 #### Amendments
 

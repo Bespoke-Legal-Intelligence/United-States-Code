@@ -10,7 +10,7 @@ Nothing in sections 962 to 965 of this title shall authorize the use of such rig
 
 #### Savings Provision
 
-Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing onOct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-way not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
 #### Section Referred to in Other Sections
 

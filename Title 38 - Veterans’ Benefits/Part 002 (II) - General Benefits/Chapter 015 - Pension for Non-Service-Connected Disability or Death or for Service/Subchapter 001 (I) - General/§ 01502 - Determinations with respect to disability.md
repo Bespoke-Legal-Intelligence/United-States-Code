@@ -1,16 +1,24 @@
 ### §1502. Determinations with respect to disability
 
-(a) For the purposes of this chapter, a person shall be considered to be permanently and totally disabled if such a person is unemployable as a result of disability reasonably certain to continue throughout the life of the disabled person, or is suffering from—
+(a) For the purposes of this chapter, a person shall be considered to be permanently and totally disabled if such person is any of the following:
 
-&emsp;(1) any disability which is sufficient to render it impossible for the average person to follow a substantially gainful occupation, but only if it is reasonably certain that such disability will continue throughout the life of the disabled person; or
+&emsp;(1) A patient in a nursing home for long-term care because of disability.
 
-&emsp;(2) any disease or disorder determined by the Secretary to be of such a nature or extent as to justify a determination that persons suffering therefrom are permanently and totally disabled.
+&emsp;(2) Disabled, as determined by the Commissioner of Social Security for purposes of any benefits administered by the Commissioner.
 
-(b) For the purposes of this chapter, a person shall be considered to be in need of regular aidand attendance if such person is (1) a patient in a nursing home or (2) helpless or blind, or so nearly helpless or blind as to need or require the regular aid and attendance of another person.
+&emsp;(3) Unemployable as a result of disability reasonably certain to continue throughout the life of the person.
+
+&emsp;(4) Suffering from—
+
+&emsp;&emsp;(A) any disability which is sufficient to render it impossible for the average person to follow a substantially gainful occupation, but only if it is reasonably certain that such disability will continue throughout the life of the person; or
+
+&emsp;&emsp;(B) any disease or disorder determined by the Secretary to be of such a nature or extent as to justify a determination that persons suffering therefrom are permanently and totally disabled.
+
+(b) For the purposes of this chapter, a person shall be considered to be in need of regular aid and attendance if such person is (1) a patient in a nursing home or (2) helpless or blind, or so nearly helpless or blind as to need or require the regular aid and attendance of another person.
 
 (c) For the purposes of this chapter, the requirement of “permanently housebound” will be considered to have been met when the veteran is substantially confined to such veteran's house (ward or clinical areas, if institutionalized) or immediate premises due to a disability or disabilities which it is reasonably certain will remain throughout such veteran's lifetime.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §502; Pub. L. 88–664, §6(b), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §102, Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–169, title I, §106(2), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, §201, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 101–508, title VIII, §8002(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §1502 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §502; Pub. L. 88–664, §6(b), Oct. 13, 1964, 78 Stat. 1095; Pub. L. 90–77, title I, §102, Aug. 31, 1967, 81 Stat. 178; Pub. L. 94–169, title I, §106(2), Dec. 23, 1975, 89 Stat. 1017; Pub. L. 94–432, title II, §201, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 101–508, title VIII, §8002(a), Nov. 5, 1990, 104 Stat. 1388–342; renumbered §1502 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, §206(a), Dec. 27, 2001, 115 Stat. 990.)
 
 #### Prior Provisions
 
@@ -21,6 +29,12 @@ Another prior section 1502, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1171; Pub.
 Prior section 1502A, Pub. L. 87–591, §1, Aug. 16, 1962, 76 Stat. 393, which related to vocational rehabilitation for blinded veterans, was repealed by Pub. L. 89–138, §2(3), Aug. 26, 1965, 79 Stat. 578.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–103 substituted “such person is any of the following:” and pars. (1) to (4) for “such a person is unemployable as a result of disability reasonably certain to continue throughout the life of the disabled person, or is suffering from—
+
+&emsp;“(1) any disability which is sufficient to render it impossible for the average person to follow a substantially gainful occupation, but only if it is reasonably certain that such disability will continue throughout the life of the disabled person; or
+
+&emsp;“(2) any disease or disorder determined by the Secretary to be of such a nature or extent as to justify a determination that persons suffering therefrom are permanently and totally disabled.”
 
 1991—Pub. L. 102–83, §5(a), renumbered section 502 of this title as this section.
 
@@ -39,6 +53,10 @@ Subsec. (c). Pub. L. 94–169 substituted “such veteran's” for “his” whe
 Subsec. (b). Pub. L. 90–77, §102(b), added cl. (1) and designated existing provisions as cl. (2).
 
 1964—Subsec. (c). Pub. L. 88–664 added subsec. (c).
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–103, title II, §206(b), Dec. 27, 2001, 115 Stat. 991, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of September 17, 2001.”
 
 #### Effective Date of 1990 Amendment
 

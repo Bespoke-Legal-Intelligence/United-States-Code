@@ -2,7 +2,7 @@
 
 (a) The National Imagery and Mapping Agency shall offer for sale maps and charts at scales of 1:500,000 and smaller, except those withheld in accordance with subsection (b) or those specifically authorized under criteria established by Executive order to be kept secret in the interest of national defense or foreign policy and in fact properly classified pursuant to such Executive order.
 
-(b)(1) Notwithstanding any other provision of law, the Secretary of Defense may withholdfrom public disclosure any geodetic product in the possession of, or under the control of, the Department of Defense—
+(b)(1) Notwithstanding any other provision of law, the Secretary of Defense may withhold from public disclosure any geodetic product in the possession of, or under the control of, the Department of Defense—
 
 &emsp;(A) that was obtained or produced, or that contains information that was provided, pursuant to an international agreement that restricts disclosure of such product or information to government officials of the agreeing parties or that restricts use of such product or information to government purposes only;
 
@@ -24,7 +24,7 @@
 
 #### Amendments
 
-2000—Subsec. (b)(1)(C). Pub. L. 106–398 substituted “, reveal military operational or contingency plans, or reveal, jeopardize, or compromise military or intelligence capabilities” for “or reveal military operational or contingency plans”.
+2000—Subsec. (b)(1)(C). Pub. L. 106–398 substituted “, reveal military operational or contingency plans, orreveal, jeopardize, or compromise military or intelligence capabilities” for “or reveal military operational or contingency plans”.
 
 1997—Subsec. (b)(1)(B). Pub. L. 105–85, §933(a), inserted “, or capabilities,” after “methods”.
 

@@ -597,11 +597,16 @@ I74subpart a—school-based programs for students
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—FOOD DONATIONS
+#### SUBCHAPTER III—PROJECTS HONORING VICTIMS OF TERRORIST ATTACKS
 
-|  |
-| :--- |
-| 12671 to 12673. Repealed or Transferred. |
+|  |  |
+| :--- | ---: |
+| [12671\.](Subchapter%20003%20%28III%29%20-%20Projects%20Honoring%20Victims%20of%20Terrorist%20Attacks/%C2%A7%2012671%20-%20Projects.md) | Projects. |
+| (a) | Definition. |
+| (b) | Identification of projects. |
+| (c) | Eligible entities. |
+| (d) | Projects. |
+| (e) | Website and database. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -620,7 +625,7 @@ I74subpart a—school-based programs for students
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2756a, 3056a of this title; title 20 sections 1087vv, 6143, 6314; title 29 sections 2822, 2841; title 40 section 484.
+This chapter is referred to in sections 2756a, 3056a of this title; title 20 sections 1087vv, 6143; title 29 sections 2822, 2841; title 40 section 484.
 
 
 ---
@@ -630,5 +635,5 @@ This chapter is referred to in sections 2756a, 3056a of this title; title 20 sec
 - [&sect; 12501 - Findings and purpose](%C2%A7%2012501%20-%20Findings%20and%20purpose.md)
 - [Subchapter 001 (I) - National and Community Service State Grant Program](Subchapter%20001%20%28I%29%20-%20National%20and%20Community%20Service%20State%20Grant%20Program/README.md)
 - [Subchapter 002 (II) - Points of Light Foundation](Subchapter%20002%20%28II%29%20-%20Points%20of%20Light%20Foundation/README.md)
-- [Subchapter 003 (III) - Food Donations](Subchapter%20003%20%28III%29%20-%20Food%20Donations/README.md)
+- [Subchapter 003 (III) - Projects Honoring Victims of Terrorist Attacks](Subchapter%20003%20%28III%29%20-%20Projects%20Honoring%20Victims%20of%20Terrorist%20Attacks/README.md)
 - [Subchapter 004 (IV) - Authorization of Appropriations](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/README.md)

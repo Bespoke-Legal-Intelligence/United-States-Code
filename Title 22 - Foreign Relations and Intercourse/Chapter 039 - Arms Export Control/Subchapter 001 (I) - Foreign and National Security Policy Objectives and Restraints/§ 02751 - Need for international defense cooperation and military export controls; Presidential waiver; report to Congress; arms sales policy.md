@@ -1,6 +1,6 @@
 ### §2751. Need for international defense cooperation and military export controls; Presidential waiver; report to Congress; arms sales policy
 
-As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 etseq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
+As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
 The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
@@ -372,7 +372,7 @@ Definitions.—For purposes of this section:
 
 “(g)
 
-Repeal of Superseded Law.—Section 1704 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1749; 22 U.S.C. 2797 \[22 U.S.C. 2797 note\]) is repealed.”
+Repeal of Superseded Law.—Section 1704 of the National Defense Authorization Act for Fiscal Year1991 (Public Law 101–510; 104 Stat. 1749; 22 U.S.C. 2797 \[22 U.S.C. 2797 note\]) is repealed.”
 
 \[Ex. Ord. No. 12851, §2(c), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title, delegated to Secretary of State authority and duties of the President to make certain reports to Congress as provided in section 1097 of the National Defense Authorization Act for Fiscal Years 1992 and 1993, Pub. L. 102–190, set out above.\]
 
@@ -382,7 +382,7 @@ Pub. L. 99–83, title I, §129, Aug. 8, 1985, 99 Stat. 206, directed President,
 
 #### Termination of Nonrecurring Activities Under Foreign Assistance Act of 1961 and This Chapter and Removal From Law
 
-Section 734(c) of Pub. L. 97–113 provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[thischapter\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
+Section 734(c) of Pub. L. 97–113 provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[this chapter\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
 
 #### Report to Congress by President on Multilateral Discussions Concerning Arms Transfer Policy
 
@@ -426,7 +426,7 @@ Section 506(b) of Pub. L. 94–329 provided that the total number of credits ext
 
 #### Additional Military and Civilian Personnel for Department of Defense
 
-Pub. L. 94–329, title VI, §605(a), June 30, 1976, 90 Stat. 768, provided that: “Nothing in this Act \[see Short Title of 1976 Amendment note set out under section 2151 of the title\] is intended to authorize any additional military or civilian personnel for the Department of Defense for the purposes of this Act, the Foreign Assistance Act of 1961 \[section 2151 et seq. of this title\], or the Arms Export Control Act \[this chapter\]. Personnel levels authorized in statutes authorizing appropriations for military and civilian personnel of the Department of Defense shall be controlling over all military and civilian personnel of the Department of Defense assigned to carry out functions under the Arms Export Control Act and the Foreign Assistance Act of 1961.”
+Pub. L. 94–329, title VI, §605(a), June 30, 1976, 90 Stat. 768, provided that: “Nothing in this Act \[see Short Title of 1976 Amendment note set out under section 2151 of the title\] is intended to authorize any additional military or civilian personnel for the Department of Defense for the purposes of this Act, the Foreign Assistance Act of 1961 \[section 2151 et seq. of this title\], or the Arms Export Control Act \[this chapter\]. Personnel levels authorized in statutes authorizing appropriationsfor military and civilian personnel of the Department of Defense shall be controlling over all military and civilian personnel of the Department of Defense assigned to carry out functions under the Arms Export Control Act and the Foreign Assistance Act of 1961.”
 
 #### Sales to the Middle East; Requests for Additional Appropriations
 
@@ -490,7 +490,7 @@ Section 1. <i>Delegation of Functions</i>. The following functions conferred upo
 
 (m) Those under Section 39(b) of the Act \[22 U.S.C. 2779(b)\] to the Secretary of State. In carrying out such functions, the Secretary of State shall consult with the Secretary of Defense as may be necessary to avoid interference in the application of Department of Defense regulations to sales made under Section 22 of the Act \[22 U.S.C. 2762\].
 
-(n) Those under Section 40A of the Act \[22 U.S.C. 2785\], as added by Public Law 104–164, to the Secretaryof State insofar as they relate to commercial exports licensed under the Act, and to the Secretary of Defense insofar as they relate to defense articles and defense services sold, leased, or transferred under the Foreign Military Sales Program.
+(n) Those under Section 40A of the Act \[22 U.S.C. 2785\], as added by Public Law 104–164, to the Secretary of State insofar as they relate to commercial exports licensed under the Act, and to the Secretary of Defense insofar as they relate to defense articles and defense services sold, leased, or transferred under the Foreign Military Sales Program.
 
 (<i>o</i>) Those under Section 40A of the Act \[22 U.S.C. 2781\], as added by the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), to the Secretary of State.
 

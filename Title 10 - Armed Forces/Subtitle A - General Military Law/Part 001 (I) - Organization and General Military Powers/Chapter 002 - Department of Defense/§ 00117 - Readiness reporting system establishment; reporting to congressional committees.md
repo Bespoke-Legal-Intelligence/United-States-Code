@@ -50,7 +50,7 @@ Quarterly and Monthly Joint Readiness Reviews.—(1) The Chairman of the Joint C
 
 (e)
 
-Submission to Congressional Committees.—The Secretary shall each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate andthe Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
+Submission to Congressional Committees.—The Secretary shall each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
 
 (f)
 

@@ -26,7 +26,7 @@ Notwithstanding sections 1053 and 1054 of this title, the plan sponsor of a term
 
 #### (d) Suspension of benefit payments; determinative factors; powers and duties of plan sponsor; retroactive benefit payments
 
-(1) In any case in which benefit payments under a plan which is insolvent under paragraph\(2)(A) exceed the resource benefit level, any such payments which are not basic benefits shall be suspended, in accordance with this subsection, to the extent necessary to reduce the sum of such payments and such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the corporation in connection with a supplemental guarantee program established under section 1322a(g)(2) of this title.
+(1) In any case in which benefit payments under a plan which is insolvent under paragraph (2)(A) exceed the resource benefit level, any such payments which are not basic benefits shall be suspended, in accordance with this subsection, to the extent necessary to reduce the sum of such payments and such basic benefits to the greater of the resource benefit level or the level of basic benefits, unless an alternative procedure is prescribed by the corporation in connection with a supplemental guarantee program established under section 1322a(g)(2) of this title.
 
 (2) For purposes of this subsection, for a plan year—
 

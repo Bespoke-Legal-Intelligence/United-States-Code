@@ -54,7 +54,7 @@ In this chapter:
 
 #### (9) Office
 
-&emsp;Unless the context clearly implicates otherwise, the term “Office” means the Office ofNational Drug Control Policy established under section 1702(a) of this title.
+&emsp;Unless the context clearly implicates otherwise, the term “Office” means the Office of National Drug Control Policy established under section 1702(a) of this title.
 
 #### (10) State and local affairs
 

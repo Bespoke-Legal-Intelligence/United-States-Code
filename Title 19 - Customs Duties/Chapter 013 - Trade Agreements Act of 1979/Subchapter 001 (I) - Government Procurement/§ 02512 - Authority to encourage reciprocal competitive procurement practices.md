@@ -50,7 +50,7 @@ Notwithstanding subsection (a) of this section, but in furtherance of the object
 
 #### (3) Consultation
 
-&emsp;In the preparation of the report required by paragraph (1) and the evaluation and analysis required by paragraph (2), the President shall consult with representatives of the public, industry, and labor, and make available pertinent, nonconfidential information obtained in the course of such preparation to the advisory committees established pursuant to section 2155 of this title.
+&emsp;In the preparation of the report required by paragraph (1) and the evaluation and analysisrequired by paragraph (2), the President shall consult with representatives of the public, industry, and labor, and make available pertinent, nonconfidential information obtained in the course of such preparation to the advisory committees established pursuant to section 2155 of this title.
 
 #### (d) Proposed action
 

@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (B) Special rule for 1990
 
-&emsp;&emsp;In the case of a qualified transfer described in subsection (b)(4), the requirements of thisparagraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant's benefits as if subparagraph (A) had applied immediately before such separation.
+&emsp;&emsp;In the case of a qualified transfer described in subsection (b)(4), the requirements of this paragraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant's benefits as if subparagraph (A) had applied immediately before such separation.
 
 #### (3) Minimum cost requirements
 
@@ -162,7 +162,7 @@ For purposes of this title—
 
 #### (2) No contributions allowed
 
-&emsp;An employer may not contribute after December 31, 1990, any amount to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) with respect to qualified current retiree health liabilities for which transferred assets are required to be used under subsection (c)(1).
+&emsp;An employer may not contribute after December 31, 1990, any amount to a health benefits account or welfare benefit fund (as definedin section 419(e)(1)) with respect to qualified current retiree health liabilities for which transferred assets are required to be used under subsection (c)(1).
 
 #### (e) Definition and special rules
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 &emsp;&emsp;The term “applicable health benefits” means health benefits or coverage which are provided to—
 
-&emsp;&emsp;&emsp;(i) retired employees who, immediately before the qualified transfer, are entitledto receive such benefits upon retirement and who are entitled to pension benefits under the plan, and
+&emsp;&emsp;&emsp;(i) retired employees who, immediately before the qualified transfer, are entitled to receive such benefits upon retirement and who are entitled to pension benefits under the plan, and
 
 &emsp;&emsp;&emsp;(ii) their spouses and dependents.
 

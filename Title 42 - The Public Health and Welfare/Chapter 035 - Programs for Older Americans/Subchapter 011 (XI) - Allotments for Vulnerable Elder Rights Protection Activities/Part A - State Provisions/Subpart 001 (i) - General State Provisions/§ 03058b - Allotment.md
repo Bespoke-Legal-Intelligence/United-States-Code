@@ -16,7 +16,7 @@
 
 #### (i) Minimum allotment for States
 
-&emsp;&emsp;&emsp;No State shall be allotted less than one-half of 1 percent of the funds appropriatedunder section 3058a of this title for the fiscal year for which the determination is made.
+&emsp;&emsp;&emsp;No State shall be allotted less than one-half of 1 percent of the funds appropriated under section 3058a of this title for the fiscal year for which the determination is made.
 
 #### (ii) Minimum allotment for territories
 

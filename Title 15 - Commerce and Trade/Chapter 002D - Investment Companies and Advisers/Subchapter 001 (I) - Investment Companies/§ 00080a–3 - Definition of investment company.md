@@ -8,7 +8,7 @@
 
 &emsp;(B) is engaged or proposes to engage in the business of issuing face-amount certificates of the installment type, or has been engaged in such business and has any such certificate outstanding; or
 
-&emsp;(C) is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of thevalue of such issuer's total assets (exclusive of Government securities and cash items) on an unconsolidated basis.
+&emsp;(C) is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of the value of such issuer's total assets (exclusive of Government securities and cash items) on an unconsolidated basis.
 
 (2) As used in this section, “investment securities” includes all securities except (A) Government securities, (B) securities issued by employees’ securities companies, and (C) securities issued by majority-owned subsidiaries of the owner which (i) are not investment companies, and (ii) are not relying on the exception from the definition of investment company in paragraph (1) or (7) of subsection (c) of this section.
 
@@ -30,7 +30,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;(A) Beneficial ownership by a company shall be deemed to be beneficial ownership by one person, except that, if the company owns 10 per centum or more of the outstanding voting securities of the issuer, and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company, the beneficial ownership shall be deemed to be that of the holders of such company's outstanding securities (other than short-term paper).
 
-&emsp;&emsp;(B) Beneficial ownership by any person who acquires securities or interests in securities of an issuer described in the first sentence of this paragraph shall be deemed to be beneficial ownership by the person from whom such transfer was made, pursuant to such rules and regulations as the Commission shall prescribe as necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, where the transfer was caused by legal separation, divorce, death, or other involuntary event.
+&emsp;&emsp;(B) Beneficial ownership by any person who acquires securities or interests in securities of an issuer described in the first sentence of this paragraph shall be deemed to be beneficial ownership by the person from whom such transfer was made, pursuant tosuch rules and regulations as the Commission shall prescribe as necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, where the transfer was caused by legal separation, divorce, death, or other involuntary event.
 
 &emsp;(2)(A) Any person primarily engaged in the business of underwriting and distributing securities issued by other persons, selling securities to customers, acting as broker, and acting as market intermediary, or any one or more of such activities, whose gross income normally is derived principally from such business and related activities.
 
@@ -46,7 +46,17 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;&emsp;(III) is entered into in response to a request from a counter party for a quotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.
 
-&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment ofmoneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian.
+&emsp;(3) Any bank or insurance company; any savings and loan association, building and loan association, cooperative bank, homestead association, or similar institution, or any receiver, conservator, liquidator, liquidating agent, or similar official or person thereof or therefor; or any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of moneys contributed thereto by the bank in its capacity as a trustee, executor, administrator, or guardian, if—
+
+&emsp;&emsp;(A) such fund is employed by the bank solely as an aid to the administration of trusts, estates, or other accounts created and maintained for a fiduciary purpose;
+
+&emsp;&emsp;(B) except in connection with the ordinary advertising of the bank's fiduciary services, interests in such fund are not—
+
+&emsp;&emsp;&emsp;(i) advertised; or
+
+&emsp;&emsp;&emsp;(ii) offered for sale to the general public; and
+
+&emsp;&emsp;(C) fees and expenses charged by such fund are not in contravention of fiduciary principles established under applicable Federal or State law.
 
 &emsp;(4) Any person substantially all of whose business is confined to making small loans, industrial banking, or similar businesses.
 
@@ -86,7 +96,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;(ii) which is or maintains a fund described in subparagraph (B).
 
-&emsp;(B) For the purposes of subparagraph (A)(ii), a fund is described in this subparagraph if suchfund is a pooled income fund, collective trust fund, collective investment fund, or similar fund maintained by a charitable organization exclusively for the collective investment and reinvestment of one or more of the following:
+&emsp;(B) For the purposes of subparagraph (A)(ii), a fund is described in this subparagraph if such fund is a pooled income fund, collective trust fund, collective investment fund, or similar fund maintained by a charitable organization exclusively for the collective investment and reinvestment of one or more of the following:
 
 &emsp;&emsp;(i) assets of the general endowment fund or other funds of one or more charitable organizations;
 
@@ -126,7 +136,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;(iv) the term “charitable lead trust” means a trust described in section 170(f)(2)(B), 2055(e)(2)(B), or 2522(c)(2)(B) of title 26;
 
-&emsp;&emsp;(v) the term “charitable remainder trust” means a charitable remainder annuity trust or a charitable remainder unitrust, as those terms are defined in section 664(d) of title 26; and
+&emsp;&emsp;(v) the term “charitable remainder trust” means a charitable remainder annuity trustor a charitable remainder unitrust, as those terms are defined in section 664(d) of title 26; and
 
 &emsp;&emsp;(vi) the term “charitable gift annuity” means an annuity issued by a charitable organization that is described in section 501(m)(5) of title 26.
 
@@ -148,25 +158,13 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 (Aug. 22, 1940, ch. 686, title I, §3, 54 Stat. 797; Oct. 21, 1942, ch. 619, title I, §162(e), 56 Stat. 867; Pub. L. 89–485, §13(i), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §3(a), (b), Dec. 14, 1970, 84 Stat. 1414; Pub. L. 94–210, title III, §308(c), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title I, §102, title VII, §703, Oct. 21, 1980, 94 Stat. 2276, 2295; Pub. L. 100–181, title VI, §§604–606, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 104–62, §2(a), Dec. 8, 1995, 109 Stat. 682; Pub. L. 104–290, title II, §209(a), (c), title V, §508(a), Oct. 11, 1996, 110 Stat. 3432, 3435, 3447; Pub. L. 105–353, title III, §301(c)(2), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §221(c), Nov. 12, 1999, 113 Stat. 1401.)
 
-#### Amendment of Subsection (c)(3)
-
-<i>Pub. L. 106–102, title II, §§221(c), 225, Nov. 12, 1999, 113 Stat. 1401, 1402, provided that, effective 18 months after Nov. 12, 1999, subsection (c)(3) of this section is amended by inserting before the period the following: “, if—</i>
-
-&emsp;“(A) such fund is employed by the bank solely as an aid to the administration of trusts, estates, or other accounts created and maintained for a fiduciary purpose;
-
-&emsp;“(B) except in connection with the ordinary advertising of the bank's fiduciary services, interests in such fund are not—
-
-&emsp;&emsp;“(i) advertised; or
-
-&emsp;&emsp;“(ii) offered for sale to the general public; and
-
-&emsp;“(C) fees and expenses charged by such fund are not in contravention of fiduciary principles established under applicable Federal or State law”.
-
 #### References in Text
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), is act Aug. 26, 1935, ch. 687, title I, 49 Stat. 838, as amended, which is classified generally to chapter 2C (§79 et seq.) of this title. For complete classification of this Act to the Code, see section 79 of this title and Tables.
 
 #### Amendments
+
+1999—Subsec. (c)(3). Pub. L. 106–102 inserted “, if—” and subpars. (A) to (C) before period at end.
 
 1998—Subsec. (b). Pub. L. 105–353 substituted “paragraph (1)(C)” for “paragraph (3)” in introductory provisions.
 
@@ -258,7 +256,7 @@ Taxable Years to Which Amendments Applicable.—The amendments made by this sect
 
 &emsp;“(A) such a plan shall not become subject to the requirements of section 165(a)(3), (4), (5), and (6) \[of Title 26, I.R.C. 1939\] until the beginning of the first taxable year beginning after December 31, 1942.
 
-&emsp;“(B) such a plan shall be considered as satisfying the requirements of section 165(a), (3), (4), and (5) and (6) \[of Title 26, I.R.C. 1939\] for the period beginning with the beginning of the first taxable year following December 31, 1942, and ending December 31, 1944, if the provisions thereof satisfy such requirements by December 31, 1944, and if by that time such provisions are made effective for all purposes as of a date not later than January 1, 1944.
+&emsp;“(B) such a plan shall be considered as satisfying the requirements of section 165(a), (3), (4), and (5) and (6) \[of Title 26, I.R.C. 1939\] for the period beginning with the beginning of the first taxable year followingDecember 31, 1942, and ending December 31, 1944, if the provisions thereof satisfy such requirements by December 31, 1944, and if by that time such provisions are made effective for all purposes as of a date not later than January 1, 1944.
 
 &emsp;“(C) if the contribution of an employer to such a plan in the employer's taxable year beginning in 1942 exceeds the maximum amount deductible for such year under section 23(p)(1), as amended by this section, the amount deductible in such year shall be not less than the sum of—
 
@@ -274,7 +272,7 @@ Section 209(d)(1) of Pub. L. 104–290 provided that: “Not later than 1 year a
 
 Section 209(d)(3) of Pub. L. 104–290 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules pursuant to its authority under section 6 of the Investment Company Act of 1940 \[15 U.S.C. 80a–6\] to permit the ownership of securities by knowledgeable employees of the issuer of the securities or an affiliated person without loss of the exception of the issuer under paragraph (1) or (7) of section 3(c) of that Act \[15 U.S.C. 80a–3(c)\] from treatment as an investment company under that Act \[15 U.S.C. 80a–1 et seq.\].”
 
-Section 209(d)(4) of Pub. L. 104–290 provided that: “Not later than 180 days after the date of enactment ofthis Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)(B)\], as amended by this Act.”
+Section 209(d)(4) of Pub. L. 104–290 provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term ‘beneficial owner’ for purposes of section 3(c)(7)(B) of the Investment Company Act of 1940 \[15 U.S.C. 80a–3(c)(7)(B)\], as amended by this Act.”
 
 #### Transfer of Functions
 

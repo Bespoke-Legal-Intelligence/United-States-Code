@@ -10,5 +10,5 @@ Except as otherwise provided in Reorg. Plan No. 3 of 1967, functions of Board of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136, 174b–1, 184a, 193g, 193h, 193i, 193<i>l</i>, 193m, 212a of this title.
+This section is referred to in sections 136, 174b–1, 184a, 193g, 193h, 193i, 193<i>l</i>, 193m, 212a, 212c of this title.
 

@@ -238,7 +238,7 @@ Funding.—For each fiscal year, of the funds made available to the Secretary fo
 
 “(g)
 
-Child Restraint Safety Ratings Program.—No later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall issue a notice of proposed rulemaking to establish a child restraint safety rating consumer information program to provide practicable, readily understandable, and timely information to consumers for use in making informed decisions in the purchase of child restraints. No later than 24 months after the date of the enactment of this Act the Secretary shall issue a final rule establishing a child restraint safety rating program and providing other consumer information whichthe Secretary determines would be useful \[to\] consumers who purchase child restraint systems.
+Child Restraint Safety Ratings Program.—No later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall issue a notice of proposed rulemaking to establish a child restraint safety rating consumer information program to provide practicable, readily understandable, and timely information to consumers for use in making informed decisions in the purchase of child restraints. No later than 24 months after the date of the enactment of this Act the Secretary shall issue a final rule establishing a child restraint safety rating program and providing other consumer information which the Secretary determines would be useful \[to\] consumers who purchase child restraint systems.
 
 “(h)
 

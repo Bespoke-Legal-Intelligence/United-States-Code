@@ -1,18 +1,8 @@
 Part A—National Education Goals Panel
 
-#### Part Referred to in Other Sections
-
-This part is referred to in section 5871 of this title.
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05821 - Purpose](%C2%A7%2005821%20-%20Purpose.md)
-- [&sect; 05822 - National Education Goals Panel](%C2%A7%2005822%20-%20National%20Education%20Goals%20Panel.md)
-- [&sect; 05823 - Duties](%C2%A7%2005823%20-%20Duties.md)
-- [&sect; 05824 - Powers of Goals Panel](%C2%A7%2005824%20-%20Powers%20of%20Goals%20Panel.md)
-- [&sect; 05825 - Administrative provisions](%C2%A7%2005825%20-%20Administrative%20provisions.md)
-- [&sect; 05826 - Director and staff; experts and consultants](%C2%A7%2005826%20-%20Director%20and%20staff%3B%20experts%20and%20consultants.md)
-- [&sect; 05827 - Early childhood assessment](%C2%A7%2005827%20-%20Early%20childhood%20assessment.md)
+- [&sect; 05821 to 5827 - Repealed. Pub. L. 107&#8211;110, title X, &sect;1011(4)(A), Jan. 8, 2002, 115 Stat. 1986](%C2%A7%2005821%20to%205827%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93110%2C%20title%20X%2C%20%C2%A71011%284%29%28A%29%2C%20Jan.%208%2C%202002%2C%20115%20Stat.%201986.md)

@@ -18,13 +18,17 @@ Section 7202 of this title shall not affect any authority or requirement to impo
 
 &emsp;&emsp;(B) controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); or
 
-&emsp;&emsp;(C) used to facilitate the development or production of a chemical or biological weapon or weapon of mass destruction.
+&emsp;&emsp;(C) used to facilitate the design, development, or production of chemical or biological weapons, missiles, or weapons of mass destruction.
 
-(Pub. L. 106–387, §1(a) \[title IX, §904\], Oct. 28, 2000, 114 Stat. 1549, 1549A–68.)
+(Pub. L. 106–387, §1(a) \[title IX, §904\], Oct. 28, 2000, 114 Stat. 1549, 1549A–68; Pub. L. 107–56, title II, §221(a)(1), Oct. 26, 2001, 115 Stat. 292.)
 
 #### References in Text
 
 The Export Administration Act of 1979, referred to in par. (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50, Appendix, and Tables.
+
+#### Amendments
+
+2001—Par. (2)(C). Pub. L. 107–56 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “used to facilitate the development or production of a chemical or biological weapon or weapon of mass destruction.”
 
 #### Section Referred to in Other Sections
 

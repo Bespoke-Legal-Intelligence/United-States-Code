@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–235, §213(1), substituted “$20,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001 to carry out programs and activities authorized” for “$10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993through 1995, to carry out programs and activities under this subchapter except for programs and activities authorized under sections 5113(b)(9) and 5113(c)(1) of this title”.
+1996—Subsec. (a). Pub. L. 104–235, §213(1), substituted “$20,000,000 for fiscal year 1997, and such sums as may be necessary for each of the fiscal years 1998 through 2001 to carry out programs and activities authorized” for “$10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995, to carry out programs and activities under this subchapter except for programs and activities authorized under sections 5113(b)(9) and 5113(c)(1) of this title”.
 
 Subsecs. (b), (c). Pub. L. 104–235, §213(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “For any fiscal year in which appropriations under subsection (a) of this section exceeds $5,000,000, there are authorized to be appropriated $10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995, to carry out section 5113(b)(9) of this title, and there are authorized to be appropriated $10,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 through 1995, to carry out section 5113(c)(1) of this title.”
 

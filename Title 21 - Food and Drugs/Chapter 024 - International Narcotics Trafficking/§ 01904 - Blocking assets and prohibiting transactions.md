@@ -6,7 +6,7 @@ A significant foreign narcotics trafficker publicly identified in the report req
 
 #### (b) Blocking of assets
 
-Except to the extent provided in regulations, orders, instructions, licenses, or directives issued pursuant to this chapter, and notwithstanding any contract entered into or any license or permit granted prior to the date on which the President submits the report required under subsection (b) or (h)(1) of section 1903 of this title, there are blocked as of such date, and any date thereafter, all such property and interests in property within the United States, or within the possession or control of any United States person, which are owned or controlled by—
+Except to the extent provided in regulations, orders, instructions, licenses, or directives issued pursuant to this chapter, and notwithstanding any contract entered into or any license or permit granted prior to the date on which the President submits the report required under subsection (b) or (h)(1) of section 1903 ofthis title, there are blocked as of such date, and any date thereafter, all such property and interests in property within the United States, or within the possession or control of any United States person, which are owned or controlled by—
 
 &emsp;(1) any significant foreign narcotics trafficker publicly identified by the President in the report required under subsection (b) or (h)(1) of section 1903 of this title;
 
@@ -14,7 +14,7 @@ Except to the extent provided in regulations, orders, instructions, licenses, or
 
 &emsp;(3) any foreign person that the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, designates as owned, controlled, or directed by, or acting for or on behalf of, a significant foreign narcotics trafficker so identified in the report required under subsection (b) or (h)(1) of section 1903 of this title, or foreign persons designated by the Secretary of the Treasury pursuant to this subsection; and
 
-&emsp;(4) any foreign person that the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau ofInvestigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, designates as playing a significant role in international narcotics trafficking.
+&emsp;(4) any foreign person that the Secretary of the Treasury, in consultation with the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, the Secretary of Defense, and the Secretary of State, designates as playing a significant role in international narcotics trafficking.
 
 #### (c) Prohibited transactions
 
@@ -42,9 +42,9 @@ Nothing in this chapter prohibits or otherwise limits the authorized law enforce
 
 (3) Section 552(a)(3) of title 5 shall not apply to any record or information obtained or created in the implementation of this chapter.
 
-#### (f) Judicial review
+(Pub. L. 106–120, title VIII, §805, Dec. 3, 1999, 113 Stat. 1629; Pub. L. 107–108, title III, §307, Dec. 28, 2001, 115 Stat. 1399.)
 
-The determinations, identifications, findings, and designations made pursuant to section 1903 of this title and subsection (b) of this section shall not be subject to judicial review.
+#### Amendments
 
-(Pub. L. 106–120, title VIII, §805, Dec. 3, 1999, 113 Stat. 1629.)
+2001—Subsec. (f). Pub. L. 107–108 struck out heading and text of subsec. (f). Text read as follows: “The determinations, identifications, findings, and designations made pursuant to section 1903 of this title and subsection (b) of this section shall not be subject to judicial review.”
 

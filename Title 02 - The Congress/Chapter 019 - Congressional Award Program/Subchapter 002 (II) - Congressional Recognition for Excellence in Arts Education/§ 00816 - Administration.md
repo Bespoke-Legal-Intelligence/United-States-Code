@@ -12,7 +12,7 @@ The Director shall, in consultation with the Board—
 
 &emsp;(2) establish such divisions within the Congressional Recognition for Excellence in Arts Education Awards Program as may be appropriate; and
 
-&emsp;(3) employ and provide for the compensation of such personnel as may be necessary to carry out the Congressional Recognition for Excellence in Arts Education Awards Program, subject to such policies as the Board shall prescribe under its bylaws.
+&emsp;(3) employ and provide for the compensation of such personnel as may be necessary to carryout the Congressional Recognition for Excellence in Arts Education Awards Program, subject to such policies as the Board shall prescribe under its bylaws.
 
 #### (c) Application
 

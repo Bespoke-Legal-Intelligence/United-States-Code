@@ -50,19 +50,29 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 &emsp;(B) supersede any such less restrictive standards in existence on February 3, 1988.
 
+(4)(A) Congress confirms that Federal procurement programs for tribes and Alaska Native Corporations are enacted pursuant to its authority under Article I, Section 8 of the United States Constitution.
+
+(B) Contracting with an entity defined in subsection (e)(2) of this section or section 1452(c) of title 25 shall be credited towards the satisfaction of a contractor's obligations under section 7 of Public Law 87–305.
+
+(C) Any entity that satisfies subsection (e)(2) of this section that has been certified under section 637 of title 15 is a Disadvantaged Business Enterprise for the purposes of Public Law 105–178.
+
 #### (f) Omitted
 
 #### (g) Civil Rights Act of 1964
 
 For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], a Native Corporation and corporations, partnerships, joint ventures, trusts, or affiliates in which the Native Corporation owns not less than 25 per centum of the equity shall be within the class of entities excluded from the definition of “employer” by section 701(b)(1) of Public Law 88–352 (78 Stat. 253), as amended \[42 U.S.C. 2000e(b)(1)\], or successor statutes.
 
-(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131.)
+(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L. 107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312.)
 
 #### References in Text
 
 The Food Stamp Act of 1964 (78 Stat. 703), as amended, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, known as the Food Stamp Act of 1977, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 5(a) of such Act is classified section 2014(a) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 7 of Public Law 87–305, referred to in subsec. (e)(4)(B), is section 7 of Pub. L. 87–305, Sept. 26, 1961, 75 Stat. 667, which amended section 637 of Title 15, Commerce and Trade, by adding subsec. (d).
+
+Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act are set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -71,6 +81,8 @@ The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, J
 Subsec. (f) amended section 1702(3), (4) of Title 30, Mineral Lands and Mining, and provided for effective date of such amendment.
 
 #### Amendments
+
+2002—Subsec. (e)(4). Pub. L. 107–117 added par. (4).
 
 1998—Subsec. (c)(3)(A). Pub. L. 105–333, §5(1), inserted “and on bonds received from a Native Corporation”.
 

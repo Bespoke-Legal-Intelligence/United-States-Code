@@ -2,7 +2,7 @@
 
 #### (a) Transfer of financial records to other agencies or departments; certification
 
-Financial records originally obtained pursuant to this chapter shall not be transferred to another agency or department unless the transferring agency or department certifies in writing that there is reason to believe that the records are relevant to a legitimate law enforcement inquiry within the jurisdiction of the receiving agency or department.
+Financial records originally obtained pursuant to this chapter shall not be transferred to another agency or department unless the transferring agency or department certifies in writing that there is reason to believe that the records are relevant to a legitimate law enforcement inquiry, or intelligence or counterintelligence activity, investigation or analysis related to international terrorism within the jurisdiction of the receiving agency or department.
 
 #### (b) Mailing of copy of certification and notice to customer
 
@@ -34,17 +34,19 @@ Notwithstanding section 3401(6) <sup>1</sup> of this title or any other provisi
 
 &emsp;Records so transferred shall be used only for criminal investigative or prosecutive purposes, for civil actions under section 1833a of this title, or for forfeiture under sections <sup>2</sup> 981 or 982 of title 18 by the Department of Justice and only for criminal investigative purposes relating to money laundering and other financial crimes by the Department of the Treasury and shall, upon completion of the investigation or prosecution (including any appeal), be returned only to the transferring agency or department. No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law.
 
-(Pub. L. 95–630, title XI, §1112, Nov. 10, 1978, 92 Stat. 3705; Pub. L. 97–320, title IV, §432(a), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 100–690, title VI, §6186(b), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 101–73, title IX, §944, Aug. 9, 1989, 103 Stat. 498; Pub. L. 102–242, title IV, §411(1), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–550, title XV, §1516, title XVI, §1606(b), Oct. 28, 1992, 106 Stat. 4059, 4087; Pub. L. 106–102, title II, §231(b)(2), title VII, §727(b)(2), Nov. 12, 1999, 113 Stat. 1407, 1475.)
+(Pub. L. 95–630, title XI, §1112, Nov. 10, 1978, 92 Stat. 3705; Pub. L. 97–320, title IV, §432(a), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 100–690, title VI, §6186(b), Nov. 18, 1988, 102 Stat. 4357; Pub. L. 101–73, title IX, §944, Aug. 9, 1989, 103 Stat. 498; Pub. L. 102–242, title IV, §411(1), Dec. 19, 1991, 105 Stat. 2375; Pub. L. 102–550, title XV, §1516, title XVI, §1606(b), Oct. 28, 1992, 106 Stat. 4059, 4087; Pub. L. 106–102, title II, §231(b)(2), title VII, §727(b)(2), Nov. 12, 1999, 113 Stat. 1407, 1475; Pub. L. 107–56, title III, §358(f)(1), Oct. 26, 2001, 115 Stat. 327.)
 
 #### References in Text
 
 The Right of Financial Privacy Act of 1978, and the Financial Privacy Act of 1978, referred to in subsec. (b), both probably mean title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, known as the Right to Financial Privacy Act of 1978, which is classified generally to this chapter (§3401 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
 
-The Privacy Act of 1974, referred to in subsec. (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enactedsection 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5.
+The Privacy Act of 1974, referred to in subsec. (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5.
 
 Section 3401(6) of this title, referred to in subsec. (e), was redesignated section 3401(7) of this title by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–56 inserted “, or intelligence or counterintelligence activity, investigation or analysis related to international terrorism” after “legitimate law enforcement inquiry”.
 
 1999—Subsec. (e). Pub. L. 106–102 inserted “, examination reports” after “financial records” and substituted “provision of law,” for “provision of this chapter,” and “, the Securities and Exchange Commission, and the Commodity Futures Trading Commission” for “and the Securities and Exchange Commission”.
 
@@ -64,13 +66,19 @@ Pub. L. 101–73, §944(2), substituted “Council and the Securities and Exchan
 
 1982—Subsec. (e). Pub. L. 97–320 added subsec. (e).
 
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+
+Amendment by Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
+
 #### Effective Date of 1992 Amendment
 
 Amendment by section 1606(b) of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3409, 3413 of this title; title 15 section 78u.
+This section is referred to in sections 3409, 3413, 3420 of this title; title 15 section 78u.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

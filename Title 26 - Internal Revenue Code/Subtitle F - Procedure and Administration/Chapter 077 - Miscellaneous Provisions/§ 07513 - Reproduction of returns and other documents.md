@@ -10,7 +10,7 @@ The Secretary shall prescribe regulations which shall provide such safeguards as
 
 #### (c) Penalty
 
-&emsp;&emsp;<b>For penalty for violation of regulations for safeguarding against unauthorized use of any film or photoimpression, or reproduction made therefrom, and against unauthorized disclosure of information contained therein, see section 7213.</b>
+&emsp;&emsp;<b>For penalty for violation of regulations for safeguarding against unauthorized use of any film or</b><b>photoimpression, or reproduction made therefrom, and against unauthorized disclosure of information contained therein, see section 7213.</b>
 
 (Added Pub. L. 85–866, title I, §90(a), Sept. 2, 1958, 72 Stat. 1666; amended Pub. L. 94–455, title XII, §1202(f), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1687, 1834.)
 

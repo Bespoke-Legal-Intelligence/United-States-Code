@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(i) to refrain from doing business with or in a country which is the object of the boycott or with the government, companies, or nationals of that country;
 
-&emsp;&emsp;&emsp;(ii) to refrain from doing business with any United States person engaged in tradein a country which is the object of the boycott or with the government, companies, or nationals of that country;
+&emsp;&emsp;&emsp;(ii) to refrain from doing business with any United States person engaged in trade in a country which is the object of the boycott or with the government, companies, or nationals of that country;
 
 &emsp;&emsp;&emsp;(iii) to refrain from doing business with any company whose ownership or management is made up, all or in part, of individuals of a particular nationality, race, or religion, or to remove (or refrain from selecting) corporate directors who are individuals of a particular nationality, race, or religion; or
 
@@ -78,7 +78,7 @@
 
 #### (d) Determination with respect to particular operations
 
-Upon a request made by the taxpayer, the Secretary shall issue a determination with respect to whether a particular operation of a person, or of a member of a controlled group which includes that person, constitutes participation in or cooperation with an international boycott. The Secretary may issue such a determination in advance of such operation in cases which are of such a nature that an advance determination is possible and appropriate under the circumstances. If the request is made before the operation is commenced, or before the end of a taxable year in which the operation is carried out, the Secretary may decline to issue such a determination before close of the taxable year.
+Upon a request made by the taxpayer, the Secretary shall issue a determination with respectto whether a particular operation of a person, or of a member of a controlled group which includes that person, constitutes participation in or cooperation with an international boycott. The Secretary may issue such a determination in advance of such operation in cases which are of such a nature that an advance determination is possible and appropriate under the circumstances. If the request is made before the operation is commenced, or before the end of a taxable year in which the operation is carried out, the Secretary may decline to issue such a determination before close of the taxable year.
 
 #### (e) Participation or cooperation by related persons
 
@@ -108,7 +108,7 @@ Subsec. (c)(2). Pub. L. 95–600, §703(h)(3), substituted “995(b)(1)(F)(ii)�
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relatingto existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as an Effective Date note under section 941 of this title.
+Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as an Effective Date note under section 941 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -11,7 +11,7 @@ Subpart C—Manufacturers of Stills
 
 A prior subpart C, consisting of sections 5101 to 5106, related to manufacturers of stills, prior to the general revision of this subpart by Pub. L. 98–369, div. A, title IV, §451(a), July 18, 1984, 98 Stat. 818.
 
-Another prior subpart C, consisting of sections 5101 to 5106, related to manufacturers of stills, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
+Another prior subpart C, consisting of sections 5101 to 5106, related to manufacturers of stills, prior to thegeneral revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
 
 
 ---

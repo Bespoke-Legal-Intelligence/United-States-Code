@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 
-&emsp;&emsp;(B) exercise the powers and functions provided by the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], as may be applicable; or
+&emsp;&emsp;(B) exercise the powers and functions provided by the Age Discrimination Act of 1975\[42 U.S.C. 6101 et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], or title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], as may be applicable; or
 
 &emsp;&emsp;(C) take such other actions as may be authorized by law.
 

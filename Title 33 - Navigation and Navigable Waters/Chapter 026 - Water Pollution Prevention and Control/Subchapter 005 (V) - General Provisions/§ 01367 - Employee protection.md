@@ -14,7 +14,7 @@ Whenever an order is issued under this section to abate such violation, at the r
 
 #### (d) Deliberate violations by employee acting without direction from his employer or his agent
 
-This section shall have no application to any employee who, acting without direction from hisemployer (or his agent) deliberately violates any prohibition of effluent limitation or other limitation under section 1311 or 1312 of this title, standards of performance under section 1316 of this title, effluent standard, prohibition or pretreatment standard under section 1317 of this title, or any other prohibition or limitation established under this chapter.
+This section shall have no application to any employee who, acting without direction from his employer (or his agent) deliberately violates any prohibition of effluent limitation or other limitation under section 1311 or 1312 of this title, standards of performance under section 1316 of this title, effluent standard, prohibition or pretreatment standard under section 1317 of this title, or any other prohibition or limitation established under this chapter.
 
 #### (e) Investigations of employment reductions
 

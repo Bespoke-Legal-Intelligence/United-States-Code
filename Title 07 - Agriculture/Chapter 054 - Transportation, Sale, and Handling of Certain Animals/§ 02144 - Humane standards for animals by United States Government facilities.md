@@ -1,6 +1,6 @@
 ### §2144. Humane standards for animals by United States Government facilities
 
-Any department, agency, or instrumentality of the United States having laboratory animal facilities shall comply with the standards and other requirements promulgated by the Secretary for a research facility under sections <sup>1</sup>2143(a), (f), (g), and (h) of this title. Any department, agency, or instrumentality of the United States exhibiting animals shall comply with the standards promulgated by the Secretary under sections <sup>1</sup> 2143(a), (f), (g), and (h) of this title.
+Any department, agency, or instrumentality of the United States having laboratory animal facilities shall comply with the standards and other requirements promulgated by the Secretary for a research facility under sections <sup>1</sup> 2143(a), (f), (g), and (h) of this title. Any department, agency, or instrumentality of the United States exhibiting animals shall comply with the standards promulgated by the Secretary under sections <sup>1</sup> 2143(a), (f), (g), and (h) of this title.
 
 (Pub. L. 89–544, §14, Aug. 24, 1966, 80 Stat. 352; Pub. L. 91–579, §15, Dec. 24, 1970, 84 Stat. 1563; Pub. L. 94–279, §19, Apr. 22, 1976, 90 Stat. 423; Pub. L. 99–198, title XVII, §1758, Dec. 23, 1985, 99 Stat. 1650.)
 

@@ -90,7 +90,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;&emsp;&emsp;(II) the total value of the stock of such corporation, and
 
-&emsp;&emsp;&emsp;(ii) to the extent such income or gain does not exceed the earnings and profits attributable to such stock which were earned or accumulated before the loss of citizenship and during periods that the ownership requirements of clause (i) are met.
+&emsp;&emsp;&emsp;(ii) to the extent such income or gain does not exceed the earnings and profitsattributable to such stock which were earned or accumulated before the loss of citizenship and during periods that the ownership requirements of clause (i) are met.
 
 #### (2) Gain recognition on certain exchanges
 
@@ -128,7 +128,7 @@ For purposes of subsection (b)—
 
 #### (3) Substantial diminishing of risks of ownership
 
-&emsp;For purposes of determining whether this section applies to any gain on the sale or exchange of any property, the running of the 10-year period described in subsection (a) and theperiod applicable under paragraph (2) shall be suspended for any period during which the individual's risk of loss with respect to the property is substantially diminished by—
+&emsp;For purposes of determining whether this section applies to any gain on the sale or exchange of any property, the running of the 10-year period described in subsection (a) and the period applicable under paragraph (2) shall be suspended for any period during which the individual's risk of loss with respect to the property is substantially diminished by—
 
 &emsp;&emsp;(A) the holding of a put with respect to such property (or similar property),
 
@@ -158,7 +158,7 @@ For purposes of subsection (b)—
 
 #### (C) Disposition of stock in corporation
 
-&emsp;&emsp;If stock in the corporation referred to in subparagraph (A) (or any other stock which has a basis determined in whole or part by reference to such stock) is disposed of during the 10-year period referred to in subsection (a) and while the property referred to in subparagraph (A) is held by such corporation, a pro rata share of such property (determined on the basis of the value of such stock) shall be treated as sold by the corporation immediately before such disposition.
+&emsp;&emsp;If stock in the corporation referred to in subparagraph (A) (or any other stock which has a basis determined in whole or part by reference to such stock) is disposed of during the 10-year period referred to in subsection (a) and while the property referred to in subparagraph (A) is held by such corporation, a pro rata share of such property (determinedon the basis of the value of such stock) shall be treated as sold by the corporation immediately before such disposition.
 
 #### (D) Anti-abuse rules
 
@@ -204,7 +204,7 @@ For purposes of subsection (b)—
 
 #### (5) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out thissubsection, including regulations providing for the application of this subsection in cases where an alien individual becomes a resident of the United States during the 10-year period after being treated as provided in paragraph (1).
+&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out this subsection, including regulations providing for the application of this subsection in cases where an alien individual becomes a resident of the United States during the 10-year period after being treated as provided in paragraph (1).
 
 #### (f) Burden of proof
 
@@ -212,9 +212,9 @@ If the Secretary establishes that it is reasonable to believe that an individual
 
 (Added Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §421(e)(5), Nov. 6, 1978, 92 Stat. 2876; Pub. L. 96–222, title I, §104(a)(1), (4)(H)(v), Apr. 1, 1980, 94 Stat. 214, 217; Pub. L. 99–514, title XII, §1243(a), Oct. 22, 1986, 100 Stat. 2580; Pub. L. 102–318, title V, §521(b)(31), July 3, 1992, 106 Stat. 312; Pub. L. 104–188, title I, §1401(b)(11), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title V, §511(a)–(d), (f)(1), Aug. 21, 1996, 110 Stat. 2093–2098; Pub. L. 105–34, title XVI, §1602(g)(1)–(4), (h)(3), Aug. 5, 1997, 111 Stat. 1095, 1096.)
 
-#### Adjustment of Net Tax and Net Worth Amounts for Calendar Year 2001
+#### Adjustment of Net Tax and Net Worth Amounts for Calendar Year 2002
 
-<i>For adjustment of average annual net income tax and net worth amounts under subsec. (a)(2) of this section for calendar year 2001, see section 3.15 of Revenue Procedure 2001–13, set out as a note under section 1 of this title.</i>
+<i>For adjustment of average annual net income tax and net worth amounts under subsec. (a)(2) of this section for calendar year 2002, see section 3.17 of Revenue Procedure 2001–59, set out as a note under section 1 of this title.</i>
 
 #### Prior Provisions
 
@@ -290,7 +290,7 @@ Subsecs. (e), (f). Pub. L. 104–191, §511(f)(1), added subsec. (e) and redesig
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, towhich such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -332,7 +332,7 @@ Section 1243(b) of Pub. L. 99–514 provided that: “The amendment made by subs
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in theprovisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 

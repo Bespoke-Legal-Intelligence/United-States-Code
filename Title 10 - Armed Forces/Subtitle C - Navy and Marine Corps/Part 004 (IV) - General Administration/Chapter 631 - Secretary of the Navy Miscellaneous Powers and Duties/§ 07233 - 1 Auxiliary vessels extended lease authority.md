@@ -12,7 +12,7 @@ Authorized Contracts.—Subject to subsection (b), the Secretary of the Navy may
 
 (b)
 
-Contracts Required To Be Authorized by Law.—A contract may be entered into under subsection (a) with respect to a specific vessel only if the Secretary is specifically authorized by law to enter into such a contract with respect to that vessel. As part of a request to Congress for enactment of any such authorization by law, the Secretary of the Navy shall provide to Congress the Secretary's findings under subsection (g).
+Contracts Required To Be Authorized by Law.—A contract may be entered into under subsection (a) with respect to a specific vessel only if the Secretary is specifically authorized by law to enter into such a contract with respect to that vessel. As part of a request to Congress for enactment of any such authorizationby law, the Secretary of the Navy shall provide to Congress the Secretary's findings under subsection (g).
 
 (c)
 

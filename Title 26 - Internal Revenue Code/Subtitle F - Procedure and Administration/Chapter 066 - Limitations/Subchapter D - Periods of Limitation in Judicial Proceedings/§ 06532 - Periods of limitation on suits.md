@@ -62,5 +62,5 @@ Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6015, 6230, 6234, 6330, 6512, 6514, 6515, 7405, 7426, 7479 of this title.
+This section is referred to in sections 2058, 6015, 6230, 6234, 6330, 6512, 6514, 6515, 7405, 7426, 7479 of this title.
 

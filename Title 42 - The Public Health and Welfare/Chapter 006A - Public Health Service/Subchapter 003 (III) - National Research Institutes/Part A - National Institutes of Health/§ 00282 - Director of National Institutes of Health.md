@@ -102,7 +102,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (i) Discretionary fund; uses; report to Congressional committees; authorization of appropriations
 
-(1) There is established a fund, consisting of amounts appropriated under paragraph (3) and made available for the fund, for use by the Director of NIH to carry out the activities authorized in this chapter for the National Institutesof Health. The purposes for which such fund may be expended include—
+(1) There is established a fund, consisting of amounts appropriated under paragraph (3) and made available for the fund, for use by the Director of NIH to carry out the activities authorized in this chapter for the National Institutes of Health. The purposes for which such fund may be expended include—
 
 &emsp;(A) providing for research on matters that have not received significant funding relative to other matters, responding to new issues and scientific emergencies, and acting on research opportunities of high priority;
 
@@ -124,7 +124,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 (3) The data bank shall include the following:
 
-&emsp;(A) A registry of clinical trials (whether federally or privately funded) of experimental treatments for serious or life-threatening diseases and conditions under regulations promulgated pursuant to section 355(i) of title 21, which provides a description of the purpose of each experimental drug, either with the consent of the protocol sponsor, or when a trial to test effectiveness begins. Information provided shall consist of eligibility criteria for participation in the clinical trials, a description of the location of trial sites, and a point of contact for those wanting to enroll in the trial, and shall be in a form that can be readily understood by members of the public. Such information shall be forwarded to the data bank by the sponsor of the trial not later than 21 days after the approval of the protocol.
+&emsp;(A) A registry of clinical trials (whether federally or privately funded) of experimental treatments for serious or life-threatening diseases and conditions under regulations promulgated pursuant to section 355(i) of title 21, which provides a description of the purpose of each experimental drug, either with the consent of the protocol sponsor, or when a trial to test effectiveness begins. Information provided shall consist of eligibility criteria for participation in the clinical trials, a description of the location of trial sites, a point of contact for those wanting to enroll in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children, and shall be in a form that can be readily understood by members of the public. Such information shall be forwarded to the data bank by the sponsor of the trial not later than 21 days after the approval of the protocol.
 
 &emsp;(B) Information pertaining to experimental treatments for serious or life-threatening diseases and conditions that may be available—
 
@@ -150,7 +150,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 The Director of NIH shall carry out the program established in part F of subchapter X of this chapter (relating to interagency research on trauma).
 
-(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI,§601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589.)
+(July 1, 1944, ch. 373, title IV, §402, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 823; amended Pub. L. 100–607, title I, §111, Nov. 4, 1988, 102 Stat. 3052; Pub. L. 102–321, title I, §163(b)(3), July 10, 1992, 106 Stat. 376; Pub. L. 103–43, title I, §141(b), title II, §§201, 202, 206, 208, 210(b), (c), title III, §303(b), June 10, 1993, 107 Stat. 139, 144, 148–150, 153; Pub. L. 105–115, title I, §113(a), Nov. 21, 1997, 111 Stat. 2310; Pub. L. 105–362, title VI, §601(a)(1)(A), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 105–392, title IV, §409, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–109, §15(c)(2), Jan. 4, 2002, 115 Stat. 1420.)
 
 #### References in Text
 
@@ -167,6 +167,8 @@ The provisions of title 5 relating to reimbursement for travel expenses, referre
 The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2002—Subsec. (j)(3)(A). Pub. L. 107–109, which directed the amendment of the first sentence of subsec. (j)(3)(A) by substituting “trial sites,” for “trial sites, and” and “in the trial, and a description of whether, and through what procedure, the manufacturer or sponsor of the investigation of a new drug will respond to requests for protocol exception, with appropriate safeguards, for single-patient and expanded protocol use of the new drug, particularly in children,” for “in the trial,”, was executed by making the substitutions in the second sentence, to reflect the probable intent of Congress.
 
 1998—Subsec. (b)(13), (14). Pub. L. 105–392 added pars. (13) and (14).
 
@@ -236,7 +238,7 @@ Section 902(c) of Pub. L. 103–43 provided that: “The Secretary of Health and
 
 Section 1901(a) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall conduct a study for the purpose of—
 
-&emsp;“(1) determining the policies of third-party payors regarding the payment of the costs of appropriate health services that are provided incident to the participation of individuals as subjects in clinical trials conducted in the development of drugs with respect to acquired immune deficiency syndrome, cancer, and other life-threatening illnesses; and
+&emsp;“(1) determining the policies of third-party payors regarding the payment of the costs of appropriatehealth services that are provided incident to the participation of individuals as subjects in clinical trials conducted in the development of drugs with respect to acquired immune deficiency syndrome, cancer, and other life-threatening illnesses; and
 
 &emsp;“(2) developing recommendations regarding such policies.”
 

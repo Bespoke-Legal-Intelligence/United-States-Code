@@ -44,7 +44,7 @@ Statutory Construction.—Notwithstanding any other provision of law, the eligib
 
 1983—Pub. L. 97–424 inserted “or for substitute highway projects approved under section 103(e)(4) of this title,” after “highway systems in urban areas,” and “or on highway projects approved under section 103(e)(4) of this title” after “expenditure on such system”.
 
-1978—Pub. L. 95–599 inserted provisions relating to the retirement of bonds the proceeds of which were used for program projects, provisions that section was not to be construed as a commitment on the part of the United States to pay the principal of any such bonds, and provisions prohibiting inclusion of interest and incidental costs of bonds in estimated cost of completion.
+1978—Pub. L. 95–599 inserted provisions relating to the retirement of bonds the proceeds of which were used for program projects, provisions that section was not to be construed as a commitment on the part of theUnited States to pay the principal of any such bonds, and provisions prohibiting inclusion of interest and incidental costs of bonds in estimated cost of completion.
 
 #### Payment of Interest on Bonds Issued Prior to and After November 6, 1978
 

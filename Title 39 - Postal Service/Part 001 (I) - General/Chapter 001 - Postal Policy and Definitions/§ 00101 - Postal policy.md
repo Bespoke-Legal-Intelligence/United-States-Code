@@ -20,6 +20,10 @@
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding this section.
 
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–67, title VI, §650(a), Nov. 12, 2001, 115 Stat. 556, provided that: “This section \[amending section 414 of this title and enacting provisions set out as a note under section 414 of this title\] may be cited as the ‘Breast Cancer Research Stamp Act of 2001’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–253, §1, July 28, 2000, 114 Stat. 634, provided that: “This Act \[enacting section 416 of this title, amending section 414 of this title, and enacting provisions set out as notes under sections 414 and 416 of this title\] may be cited as the ‘Semipostal Authorization Act’.”

@@ -100,7 +100,7 @@ For purposes of this title—
 
 #### (1) In general
 
-&emsp;In the case of a regulated investment company (within the meaning of subsection (a))having more than one fund, each fund of such regulated investment company shall be treated as a separate corporation for purposes of this title (except with respect to the definitional requirement of subsection (a)).
+&emsp;In the case of a regulated investment company (within the meaning of subsection (a)) having more than one fund, each fund of such regulated investment company shall be treated as a separate corporation for purposes of this title (except with respect to the definitional requirement of subsection (a)).
 
 #### (2) Fund defined
 

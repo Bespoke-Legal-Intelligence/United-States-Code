@@ -44,7 +44,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (B) Default aversion activities
 
-&emsp;&emsp;The term “default aversion activities” means activities of a guaranty agency that are directly related to providing collection assistance to the lender on a delinquent loan, prior to the loan's being legally in a default status, including due diligence activities required pursuant to regulations of the Secretary.
+&emsp;&emsp;The term “default aversion activities” means activities of a guaranty agency that are directly related to providing collection assistance to the lender on a delinquentloan, prior to the loan's being legally in a default status, including due diligence activities required pursuant to regulations of the Secretary.
 
 #### (C) Enrollment and repayment status management
 

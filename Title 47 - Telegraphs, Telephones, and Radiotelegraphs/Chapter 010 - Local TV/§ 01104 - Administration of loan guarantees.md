@@ -50,7 +50,7 @@ The holder of a loan guarantee under this chapter may assign the loan guaranteed
 
 #### (d) Expiration of loan guarantee upon stripping
 
-Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chapter shall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
+Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chaptershall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
 
 #### (e) Adjustment
 
@@ -130,13 +130,13 @@ The Administrator shall commence a civil action in a court of appropriate jurisd
 
 #### (m) Attachment
 
-No attachment or execution may be issued against the Administrator or any property in the control of the Administrator pursuant to this chapter before the entry of a final judgment (as to which all rights of appeal have expired) by a Federal, State, or other court of competent jurisdiction against the Administrator in a proceeding for such action.
+No attachment or execution may be issued against the Administrator or any property inthe control of the Administrator pursuant to this chapter before the entry of a final judgment (as to which all rights of appeal have expired) by a Federal, State, or other court of competent jurisdiction against the Administrator in a proceeding for such action.
 
 #### (n) Fees
 
 #### (1) Application fee
 
-&emsp;The Board shall charge and collect from an applicant for a loan guarantee under thischapter a fee to cover the cost of the Board in making necessary determinations and findings with respect to the loan guarantee application under this chapter. The amount of the fee shall be reasonable.
+&emsp;The Board shall charge and collect from an applicant for a loan guarantee under this chapter a fee to cover the cost of the Board in making necessary determinations and findings with respect to the loan guarantee application under this chapter. The amount of the fee shall be reasonable.
 
 #### (2) Loan guarantee origination fee
 

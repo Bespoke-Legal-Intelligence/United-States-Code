@@ -40,7 +40,7 @@ Subsecs. (e), (f). Pub. L. 101–644, §503(1), struck out subsec. (e) which rel
 
 1987—Subsec. (d). Pub. L. 100–153, §8(1), (2), substituted “Unless the Board provides otherwise” for “During the 2-year period beginning on the date referred to in subsection (f) of this section” and inserted “, until October 1, 1989,” after “Secretary of the Interior shall”.
 
-Subsec. (e). Pub. L. 100–153, §8(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “During the period beginning on October 17, 1986, and ending on the date referred to in subsection (f) of this section, the Advisory Board for Institute of American Indian Arts shall continue to act in an advisory role for the Board and the Institute of American Indian and Alaska Native Culture and Arts Development.”
+Subsec. (e). Pub. L. 100–153, §8(3), added subsec. (e) and struck out former subsec. (e) which read as follows:“During the period beginning on October 17, 1986, and ending on the date referred to in subsection (f) of this section, the Advisory Board for Institute of American Indian Arts shall continue to act in an advisory role for the Board and the Institute of American Indian and Alaska Native Culture and Arts Development.”
 
 Subsec. (f). Pub. L. 100–153, §8(3), added subsec. (f) and struck out former subsec. (f) which read as follows: “The provisions of this section (other than subsection (e) of this section) shall take effect on October 1, 1986.”
 

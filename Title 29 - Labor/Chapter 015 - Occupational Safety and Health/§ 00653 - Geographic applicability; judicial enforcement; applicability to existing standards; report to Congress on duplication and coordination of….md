@@ -22,7 +22,7 @@ Act of June 30, 1936, commonly known as the Walsh-Healey Act, referred to in sub
 
 The Service Contract Act of 1965, referred to in subsec. (b)(2), is Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
 
-Public Law 91–54, Act of August 9, 1969, referred to in subsec. (b)(2), is Pub. L. 91–54, Aug. 9, 1969, 83 Stat. 96, which enacted section 333 of Title 40, Public Buildings, Property, and Works, and amended section 2 of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, set out as a note undersection 327 of Title 40. For complete classification of this Act to the Code, see Tables.
+Public Law 91–54, Act of August 9, 1969, referred to in subsec. (b)(2), is Pub. L. 91–54, Aug. 9, 1969, 83 Stat. 96,which enacted section 333 of Title 40, Public Buildings, Property, and Works, and amended section 2 of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, set out as a note under section 327 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 Public Law 85–742, Act of August 23, 1958, referred to in subsec. (b)(2), is Pub. L. 85–742, Aug. 23, 1958, 72 Stat. 835, which amended section 941 of Title 33, Navigation and Navigable Waters, and enacted provisions set out as a note under section 941 of Title 33. For complete classification of this Act to the Code, see Tables.
 

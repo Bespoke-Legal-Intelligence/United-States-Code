@@ -6,15 +6,35 @@ The Secretary may insure under any provision of this subchapter a mortgage invol
 
 #### (b) Written explanation of mortgage features
 
-The Secretary shall issue regulations requiring that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first 5 years of the mortgage term.
+The Secretary shall require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of an adjustable rate mortgageconsistent with the disclosure requirements applicable to variable rate mortgages secured by a principal dwelling under the Truth in Lending Act \[15 U.S.C. 1601 et seq.\].
 
 #### (c) Number of mortgages and loans
 
 The aggregate number of mortgages and loans insured under this section in any fiscal year may not exceed 30 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.
 
-(June 27, 1934, ch. 847, title II, §251, as added Pub. L. 98–181, title IV, §443, Nov. 30, 1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(a), Feb. 5, 1988, 101 Stat. 1907.)
+#### (d) Adjustable rate mortgage with initial fixed rate of interest
+
+(1) The Secretary may insure under this subsection a mortgage that meets the requirements of subsection (a) of this section, except that the effective rate of interest—
+
+&emsp;(A) shall be fixed for a period of not less than the first 3 years of the mortgage term;
+
+&emsp;(B) shall be adjusted by the mortgagee initially upon the expiration of such period and annually thereafter; and
+
+&emsp;(C) in the case of the initial interest rate adjustment, is subject to the 1 percent limitation only if the interest rate remained fixed for five or fewer years.
+
+(2) The disclosure required under subsection (b) of this section shall be required for a mortgage insured under this subsection.
+
+(June 27, 1934, ch. 847, title II, §251, as added Pub. L. 98–181, title IV, §443, Nov. 30, 1983, 97 Stat. 1225; amended Pub. L. 100–242, title IV, §415(a), Feb. 5, 1988, 101 Stat. 1907; Pub. L. 107–73, title II, §206, Nov. 26, 2001, 115 Stat. 674.)
+
+#### References in Text
+
+The Truth in Lending Act, referred to in subsec. (b), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
+
+2001—Subsec. (b). Pub. L. 107–73, §206(1), substituted “require that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of an adjustable rate mortgage consistent with the disclosure requirements applicable to variable rate mortgages secured by a principal dwelling under the Truth in Lending Act” for “issue regulations requiring that the mortgagee make available to the mortgagor, at the time of loan application, a written explanation of the features of the adjustable rate mortgage, including a hypothetical payment schedule that displays the maximum potential increases in monthly payments to the mortgagor over the first 5 years of the mortgage term”.
+
+Subsec. (d). Pub. L. 107–73, §206(2), added subsec. (d).
 
 1988—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The aggregate number of mortgages and loans insured under this section, section 1715z–10(c) of this title, and section 1715z–17 of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year.”
 

@@ -1,6 +1,6 @@
 ### §2831. Military family housing management account
 
-(a) There is on the books of the Treasury an account known as the Department of Defense Military Family Housing Management Account\(hereinafter in this section referred to as the “account”). The account shall be used for the management and administration of funds appropriated or otherwise made available to the Department of Defense for military family housing programs.
+(a) There is on the books of the Treasury an account known as the Department of Defense Military Family Housing Management Account (hereinafter in this section referred to as the “account”). The account shall be used for the management and administration of funds appropriated or otherwise made available to the Department of Defense for military family housing programs.
 
 (b) The account shall be administered as a single account. There shall be transferred into the account—
 

@@ -6,7 +6,7 @@ The Department of Agriculture shall be the lead agency in carrying out this subc
 
 #### (b) Scope of program
 
-The Secretary of Agriculture shall conduct, sponsor, promote, and coordinate basic and applied research, technology development, and technology transfer leading to effective and economical methods for large-scale culturing of plantations and the extraction of latex fromParthenium or other hydrocarbon-containing plants, and for the development of other critical agricultural materials from native agricultural crops having strategic and industrial importance. Such research shall include, but not be limited to—
+The Secretary of Agriculture shall conduct, sponsor, promote, and coordinate basic and applied research, technology development, and technology transfer leading to effective and economical methods for large-scale culturing of plantations and the extraction of latex from Parthenium or other hydrocarbon-containing plants, and for the development of other critical agricultural materials from native agricultural crops having strategic and industrial importance. Such research shall include, but not be limited to—
 
 &emsp;(1) carrying out extensive seed collections from wild plants in Texas, Mexico, and other areas and borrowing or purchasing seeds from other sources;
 
@@ -58,7 +58,7 @@ Subsec. (b)(1), (2). Pub. L. 98–284, §5(2), redesignated cls. (a) and (b) as 
 
 Subsec. (b)(3). Pub. L. 98–284, §5(2), (3), redesignated cl. (c) as par. (3) of subsec. (b) and substituted “accelerating present plant breeding, genetics, and selection programs for the purpose of improving and increasing latex yields, expanding insect and disease resistance, broadening the ranges of drought and cold resistance of the Parthenium plant, and providing a system of regional research trials for enhancing and increasing the supply of foundation seed for certified seed production” for “carrying out breeding and selection programs for the purpose of improving latex yields, expanding insect and disease resistance, and broadening the ranges of drought and cold tolerance of the Parthenium plant”.
 
-Subsec. (b)(4). Pub. L. 98–284, §5(2), (4), redesignated cl. (d) as par. (4) of subsec. (b) and substituted “establishing a system of large-scale experimental plantings (aggregating ten thousand acres or more) to provide shrub for feedstock to process in the developmental rubber processing facility described in paragraph (7)” for “establishing a system of experimental plantings in arid and semiarid regions of the United States having suitable climatic and soil conditions for the culture of Parthenium”.
+Subsec. (b)(4). Pub. L. 98–284, §5(2), (4), redesignated cl. (d) as par. (4) of subsec. (b) and substituted “establishing a system of large-scale experimental plantings (aggregating ten thousand acres or more) to provide shrub for feedstock to process in the developmentalrubber processing facility described in paragraph (7)” for “establishing a system of experimental plantings in arid and semiarid regions of the United States having suitable climatic and soil conditions for the culture of Parthenium”.
 
 Subsec. (b)(5), (6). Pub. L. 98–284, §5(2), redesignated cls. (e) and (f) as pars. (5) and (6), respectively, of subsec. (b).
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) has signed a statement that his right to make such a claim has been explained to him, or has refused to sign such a statement.
 
-(b) A right that a member may assert after failing or refusing to sign a claim, as provided insubsection (a), is not affected by that failure or refusal.
+(b) A right that a member may assert after failing or refusing to sign a claim, as provided in subsection (a), is not affected by that failure or refusal.
 
 (c) This section does not prevent the immediate transfer of a member to a facility of the Department of Veterans Affairs for necessary hospital care.
 

@@ -1,6 +1,8 @@
 Part III—Issuance of Entry Documents
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should follow “section 1182(a)(3)(B) of this title”.</i>
+
+<i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
 
 ---

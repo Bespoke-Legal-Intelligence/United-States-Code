@@ -54,7 +54,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;(C) gain from the sale or other disposition of real property (including interests in real property and interests in mortgages on real property) which is not property described in section 1221(a)(1);
 
-&emsp;&emsp;(D) dividends or other distributions on, and gain (other than gain from prohibited transactions) from the sale or other disposition of, transferable shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part;
+&emsp;&emsp;(D) dividends or other distributions on, and gain (other than gain from prohibitedtransactions) from the sale or other disposition of, transferable shares (or transferable certificates of beneficial interest) in other real estate investment trusts which meet the requirements of this part;
 
 &emsp;&emsp;(E) abatements and refunds of taxes on real property;
 
@@ -82,7 +82,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;&emsp;&emsp;(III) the trust does not hold securities having a value of more than 10 percent of the total value of the outstanding securities of any one issuer.
 
-> &emsp;A real estate investment trust which meets the requirements of this paragraph at the close of any quarter shall not lose its status as a real estate investment trust because of a discrepancy during a subsequent quarter between the value of its various investments and such requirements unless such discrepancy exists immediately after the acquisition of any security or other property and is wholly or partly the result of such acquisition. A real estate investment trust which does not meet such requirements at the close of any quarter by reason of a discrepancy existing immediately after the acquisition of any security or other property which is wholly or partly the result of such acquisition during such quarter shallnot lose its status for such quarter as a real estate investment trust if such discrepancy is eliminated within 30 days after the close of such quarter and in such cases it shall be considered to have met such requirements at the close of such quarter for purposes of applying the preceding sentence.
+> &emsp;A real estate investment trust which meets the requirements of this paragraph at the close of any quarter shall not lose its status as a real estate investment trust because of a discrepancy during a subsequent quarter between the value of its various investments and such requirements unless such discrepancy exists immediately after the acquisition of any security or other property and is wholly or partly the result of such acquisition. A real estate investment trust which does not meet such requirements at the close of any quarter by reason of a discrepancy existing immediately after the acquisition of any security or other property which is wholly or partly the result of such acquisition during such quarter shall not lose its status for such quarter as a real estate investment trust if such discrepancy is eliminated within 30 days after the close of such quarter and in such cases it shall be considered to have met such requirements at the close of such quarter for purposes of applying the preceding sentence.
 
 &emsp;(5) For purposes of this part—
 
@@ -238,7 +238,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 #### (D) Amount attributable to impermissible services
 
-&emsp;&emsp;For purposes of subparagraph (A), the amount treated as received for any service (or management or operation) shall not be less than 150 percent of the direct cost of the trust in furnishing or rendering the service (or providing the management or operation).
+&emsp;&emsp;For purposes of subparagraph (A), the amount treated as received for any service\(or management or operation) shall not be less than 150 percent of the direct cost of the trust in furnishing or rendering the service (or providing the management or operation).
 
 #### (E) Coordination with limitations
 
@@ -312,7 +312,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 #### (F) Related person
 
-&emsp;&emsp;Persons shall be treated as related to each other if such persons are treated as a single employer under subsection (a) or (b) of section 52.
+&emsp;&emsp;Persons shall be treated as related to each other if such persons are treated as a singleemployer under subsection (a) or (b) of section 52.
 
 #### (e) Special rules for foreclosure property
 
@@ -336,7 +336,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 &emsp;&emsp;(B) any construction takes place on such property (other than completion of a building, or completion of any other improvement, where more than 10 percent of the construction of such building or other improvement was completed before default became imminent), or
 
-&emsp;&emsp;(C) if such day is more than 90 days after the day on which such property was acquired by the real estate investment trust and the property is used in a trade or business which is conducted by the trust (other than through an independent contractor (within the meaning of section (d)(3)) from whom thetrust itself does not derive or receive any income).
+&emsp;&emsp;(C) if such day is more than 90 days after the day on which such property was acquired by the real estate investment trust and the property is used in a trade or business which is conducted by the trust (other than through an independent contractor (within the meaning of section (d)(3)) from whom the trust itself does not derive or receive any income).
 
 > &emsp;For purposes of subparagraph (C), property shall not be treated as used in a trade or business by reason of any activities of the real estate investment trust with respect to such property to the extent that such activities would not result in amounts received or accrued, directly or indirectly, with respect to such property being treated as other than rents from real property.
 
@@ -396,7 +396,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 &emsp;&emsp;(A) any amount so received or accrued shall not be excluded from the term “interest” solely by reason of being based on a fixed percentage or percentages of receipts or sales, and
 
-&emsp;&emsp;(B) where a real estate investment trust receives any amount which would be excluded from the term “interest” solely because the debtor of the real estate investment trust receives or accrues any amount the determination of which depends in whole or in part on the income or profits of anyperson, only a proportionate part (determined pursuant to regulations prescribed by the Secretary) of the amount received or accrued by the real estate investment trust from the debtor will be excluded from the term “interest”.
+&emsp;&emsp;(B) where a real estate investment trust receives any amount which would be excluded from the term “interest” solely because the debtor of the real estate investment trust receives or accrues any amount the determination of which depends in whole or in part on the income or profits of any person, only a proportionate part (determined pursuant to regulations prescribed by the Secretary) of the amount received or accrued by the real estate investment trust from the debtor will be excluded from the term “interest”.
 
 #### (2) Special rule
 
@@ -420,7 +420,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 #### (3) Election after termination or revocation
 
-&emsp;Except as provided in paragraph (4), if a corporation, trust, or association has made an election under subsection (c)(1) and such election has been terminated or revoked under paragraph (1) or paragraph (2), such corporation, trust, or association (and any successor corporation, trust, or association) shall not be eligible to make an election under subsection (c)(1) for any taxable year prior to the fifth taxable year which begins after the first taxable year for which such termination or revocation is effective.
+&emsp;Except as provided in paragraph (4), if a corporation, trust, or association has made an election under subsection (c)(1) and such election has been terminated or revoked under paragraph (1) or paragraph (2), such corporation, trust, or association (and any successor corporation, trust, or association) shall not be eligible to make an election under subsection (c)(1) for any taxable year prior to the fifthtaxable year which begins after the first taxable year for which such termination or revocation is effective.
 
 #### (4) Exception
 
@@ -462,7 +462,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 #### (ii) Certain related trusts not eligible
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to any qualified trust if one or more disqualified persons (as defined in section 4975(e)(2), without regard to subparagraphs (B) and (I) thereof) with respect to such qualifiedtrust hold in the aggregate 5 percent or more in value of the interests in the real estate investment trust and such real estate investment trust has accumulated earnings and profits attributable to any period for which it did not qualify as a real estate investment trust.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to any qualified trust if one or more disqualified persons (as defined in section 4975(e)(2), without regard to subparagraphs (B) and (I) thereof) with respect to such qualified trust hold in the aggregate 5 percent or more in value of the interests in the real estate investment trust and such real estate investment trust has accumulated earnings and profits attributable to any period for which it did not qualify as a real estate investment trust.
 
 #### (B) Coordination with personal holding company rules
 
@@ -542,7 +542,7 @@ Straight debt safe harbor in applying paragraph (4).—Securities of an issuer w
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of section 857(b)(6)(C), if a real estate investment trust is treated ashaving sold secured property under paragraph (3)(A), the trust shall be treated as having held such property for at least 4 years if—
+&emsp;&emsp;For purposes of section 857(b)(6)(C), if a real estate investment trust is treated as having sold secured property under paragraph (3)(A), the trust shall be treated as having held such property for at least 4 years if—
 
 &emsp;&emsp;&emsp;(i) the secured property is sold or otherwise disposed of pursuant to a case under title 11 of the United States Code,
 
@@ -596,7 +596,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) such trust and such corporation jointly elect that such corporation shall be treated as a taxable REIT subsidiary of such trust for purposes of this part.
 
-> &emsp;Such an election, once made, shall be irrevocable unless both such trust and corporation consent to its revocation. Such election, and any revocation thereof, may be made without the consent of the Secretary.
+> &emsp;Such an election, once made, shall be irrevocable unless both such trust and corporationconsent to its revocation. Such election, and any revocation thereof, may be made without the consent of the Secretary.
 
 #### (2) Thirty-five percent ownership in another taxable REIT subsidiary
 
@@ -630,7 +630,7 @@ For purposes of this part—
 
 &emsp;&emsp;The term “health care facility” has the meaning given to such term by subsection (e)(6)(D)(ii).
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380;Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, §1(a)(7) \[title III, §319(9), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, §225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, §4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, §6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, §1402(b)(1)(O), (2), title XVI, §§1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, §363(a), (c), title VII, §701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, §1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§661(a), 662, 663, 671(b)(1), title IX, §901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, §1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, §13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, §1(a)(7) \[title III, §319(9), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
 #### References in Text
 
@@ -716,7 +716,7 @@ Subsec. (d)(7). Pub. L. 105–34, §1252(b), added par. (7).
 
 Subsec. (e)(2). Pub. L. 105–34, §1257(a)(1), which directed amendment of par. (2) by substituting “as of the close of the 3d taxable year following the taxable year in which the trust acquired such property” for “on the date which is 2 years after the date the trust acquired such property”, was executed by making the substitution for “on the date which is 2 years after the date such trust acquired such property” to reflect the probable intent of Congress.
 
-Subsec. (e)(3). Pub. L. 105–34, §1257(a)(2), substituted “grant one extension” for “grant one or more extensions” and “Any such extension shall not extend the grace period beyond the close of the 3d taxable year following the last taxable year in the period under paragraph (2).” for “Any such extension shall not extendthe grace period beyond the date which is 6 years after the date such trust acquired such property.”
+Subsec. (e)(3). Pub. L. 105–34, §1257(a)(2), substituted “grant one extension” for “grant one or more extensions” and “Any such extension shall not extend the grace period beyond the close of the 3d taxable year following the last taxable year in the period under paragraph (2).” for “Any such extension shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property.”
 
 Subsec. (e)(4). Pub. L. 105–34, §1257(c), inserted concluding provisions “For purposes of subparagraph (C), property shall not be treated as used in a trade or business by reason of any activities of the real estate investment trust with respect to such property to the extent that such activities would not result in amounts received or accrued, directly or indirectly, with respect to such property being treated as other than rents from real property.”
 
@@ -798,7 +798,7 @@ Subsec. (c)(4)(B). Pub. L. 95–600, §363(a)(3), substituted “property in a t
 
 Subsec. (e)(3). Pub. L. 95–600, §363(c), substituted “the Secretary may grant one or more extensions of the grace period for such property” for “the Secretary may extend the grace period for such property” and “shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property” for “shall be for a period of not more than one year, and not more than two extensions shall be granted with respect to any property”.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1603(a), 1604(f)(1), (2), in introductory provisions substituted “this title”for “this subtitle” and “a corporation, trust, or association” for “an unincorporated trust or an unincorporated association”, in par. (1) inserted “or directors” after “trustees”, and in par. (4) substituted reference to which is neither (A) a financial institution to which section 585, 586, or 593 applies, nor (B) an insurance company to which subchapter L applies for reference to which does not hold any property primarily for sale to customers in the ordinary course of its trade or business.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1603(a), 1604(f)(1), (2), in introductory provisions substituted “this title” for “this subtitle” and “a corporation, trust, or association” for “an unincorporated trust or an unincorporated association”, in par. (1) inserted “or directors” after “trustees”, and in par. (4) substituted reference to which is neither (A) a financial institution to which section 585, 586, or 593 applies, nor (B) an insurance company to which subchapter L applies for reference to which does not hold any property primarily for sale to customers in the ordinary course of its trade or business.
 
 Subsec. (c). Pub. L. 94–455, §1604(f)(3)(A), in introductory provision substituted “A corporation, trust, or association” for “A trust or association”.
 

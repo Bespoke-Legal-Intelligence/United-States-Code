@@ -8,11 +8,14 @@ Subpart A—Nonrefundable Personal Credits
 | [24\.](%C2%A7%2000024%20-%20Child%20tax%20credit.md) | Child tax credit. |
 | [25\.](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md) | Interest on certain home mortgages. |
 | [25A.](%C2%A7%2000025A%20-%20Hope%20and%20Lifetime%20Learning%20credits.md) | Hope and Lifetime Learning credits. |
+| [25B.](%C2%A7%2000025B%20-%20Elective%20deferrals%20and%20IRA%20contributions%20by%20certain%20individuals.md) | Elective deferrals and IRA contributions by certain individuals. |
 | [26\.](%C2%A7%2000026%20-%20Limitation%20based%20on%20tax%20liability%3B%20definition%20of%20tax%20liability.md) | Limitation based on tax liability; definition of tax liability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+<b>2001</b>—Pub. L. 107–16, title VI, §618(c), June 7, 2001, 115 Stat. 108, added item 25B.
 
 <b>1998</b>—Pub. L. 105–206, title VI, §6004(a)(1), July 22, 1998, 112 Stat. 792, substituted “Hope and Lifetime Learning credits” for “Higher education tuition and related expenses” in item 25A.
 
@@ -62,7 +65,7 @@ Pub. L. 94–12, title II, §§203(b)(1), 204(c), 208(d)(1), Mar. 29, 1975, 89 S
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 29, 30, 32, 38, 53, 904, 1400C, 6401 of this title; title 12 section 1831q.
+This subpart is referred to in sections 29, 30, 38, 45F, 53, 904, 1400C, 6401, 6428 of this title; title 12 section 1831q.
 
 
 ---
@@ -75,4 +78,5 @@ This subpart is referred to in sections 29, 30, 32, 38, 53, 904, 1400C, 6401 of 
 - [&sect; 00024 - Child tax credit](%C2%A7%2000024%20-%20Child%20tax%20credit.md)
 - [&sect; 00025 - Interest on certain home mortgages](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md)
 - [&sect; 00025A - Hope and Lifetime Learning credits](%C2%A7%2000025A%20-%20Hope%20and%20Lifetime%20Learning%20credits.md)
+- [&sect; 00025B - Elective deferrals and IRA contributions by certain individuals](%C2%A7%2000025B%20-%20Elective%20deferrals%20and%20IRA%20contributions%20by%20certain%20individuals.md)
 - [&sect; 00026 - Limitation based on tax liability; definition of tax liability](%C2%A7%2000026%20-%20Limitation%20based%20on%20tax%20liability%3B%20definition%20of%20tax%20liability.md)

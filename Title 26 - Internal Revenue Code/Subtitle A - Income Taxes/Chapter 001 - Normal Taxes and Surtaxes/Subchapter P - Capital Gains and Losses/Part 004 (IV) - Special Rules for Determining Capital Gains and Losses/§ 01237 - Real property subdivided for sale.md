@@ -84,7 +84,7 @@ Section 3 of act Apr. 27, 1956, provided that: “This Act \[amending this secti
 
 #### Sales or Exchanges by Corporations of Real Property Held More Than 25 Years
 
-Section 1 of Pub. L. 91–686, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided: “That\(a) for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] any lot or parcel of real property sold or exchanged by a corporation which would, but for this Act, be treated as property held primarily for sale to customers in the ordinary course of trade or business shall not, except to the extent provided in (b), be so treated if—
+Section 1 of Pub. L. 91–686, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided: “That (a) for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] any lot or parcel of real property sold or exchanged by a corporation which would, but for this Act, be treated as property held primarily for sale to customers in the ordinary course of trade or business shall not, except to the extent provided in (b), be so treated if—
 
 &emsp;“(1) no shareholder of the corporation directly or indirectly holds real property primarily for sale to customers in the ordinary course of trade or business; and
 

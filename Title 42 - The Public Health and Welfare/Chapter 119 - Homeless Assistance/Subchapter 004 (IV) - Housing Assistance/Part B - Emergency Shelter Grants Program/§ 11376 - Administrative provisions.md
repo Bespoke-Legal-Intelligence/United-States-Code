@@ -16,7 +16,7 @@ The Secretary shall prescribe such minimum standards of habitability as the Secr
 
 #### References in Text
 
-The emergency shelter grants program under the provisions made effective by section 101(g) of Public Law 99–500 or Public Law 99–591, referred to in subsec. (a), means the emergency shelter grants program authorized by title V of H.R. 5313 \[Department of Housing andUrban Development—Independent Agencies Appropriations Act, 1987\], as incorporated by reference by section 101(g) of Pub. L. 99–500 and 99–591, and enacted into law by section 106 of Pub. L. 100–202, which is set out as a note under section 11361 of this title.
+The emergency shelter grants program under the provisions made effective by section 101(g) of Public Law 99–500 or Public Law 99–591, referred to in subsec. (a), means the emergency shelter grants program authorized by title V of H.R. 5313 \[Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1987\], as incorporated by reference by section 101(g) of Pub. L. 99–500 and 99–591, and enacted into law by section 106 of Pub. L. 100–202, which is set out as a note under section 11361 of this title.
 
 #### Amendments
 

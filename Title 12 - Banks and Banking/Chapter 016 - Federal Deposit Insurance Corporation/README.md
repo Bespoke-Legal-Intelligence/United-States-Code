@@ -154,7 +154,7 @@
 | [1828\.](%C2%A7%2001828%20-%20Regulations%20governing%20insured%20depository%20institutions.md) | Regulations governing insured depository institutions. |
 | (a) | Insurance logo. |
 | (b) | Payment of dividends by defaulting depository institutions. |
-| (c) | Merger transactions; consent of banking agencies; emergency approval; notice; uniform standards; antitrust actions; review de novo; limitations; report to Congress; applicability. |
+| (c) | Merger transactions; consent of banking agencies; emergency approval; notice; uniform standards; antitrust actions; review de novo; limitations; report to Congress; money laundering; applicability. |
 | (d) | Branch banks. |
 | (e) | Indemnity insurance. |
 | (f) | Publication of reports. |
@@ -174,6 +174,7 @@
 | (t) | Recordkeeping requirements. |
 | (u) | Limitation on claims. |
 | (v) | Loans by insured institutions on their own stock. |
+| (w) | Written employment references may contain suspicions of involvement in illegal activity. |
 | [1828a.](%C2%A7%2001828a%20-%20Prudential%20safeguards.md) | Prudential safeguards. |
 | (a) | Comptroller of the Currency. |
 | (b) | Board of Governors of the Federal Reserve System. |
@@ -405,10 +406,11 @@
 | (a) | In general. |
 | (b) | Maximum amount of penalty. |
 | (c) | Violations to which penalty is applicable. |
-| (d) | Attorney General to bring action. |
-| (e) | Burden of proof. |
-| (f) | Administrative subpoenas. |
-| (g) | Statute of limitations. |
+| (d) | Effective date. |
+| (e) | Attorney General to bring action. |
+| (f) | Burden of proof. |
+| (g) | Administrative subpoenas. |
+| (h) | Statute of limitations. |
 | [1833b.](%C2%A7%2001833b%20-%20Comparability%20in%20compensation%20schedules.md) | Comparability in compensation schedules. |
 | [1833c.](%C2%A7%2001833c%20-%20Comptroller%20General%20audit%20and%20access%20to%20records.md) | Comptroller General audit and access to records. |
 | (a) | Audit of agencies or other persons performing functions under banking laws. |

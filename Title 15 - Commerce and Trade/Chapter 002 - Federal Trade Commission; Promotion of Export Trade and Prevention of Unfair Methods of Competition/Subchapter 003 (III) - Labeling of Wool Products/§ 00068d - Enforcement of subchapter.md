@@ -14,7 +14,7 @@ The Commission is also authorized to cause inspections, analyses, tests, and exa
 
 Every manufacturer of wool products shall maintain proper records showing the fiber content as required by this subchapter of all wool products made by him, and shall preserve such records for at least three years.
 
-The neglect or refusal to maintain and so preserve such records is unlawful, and any suchmanufacturer who neglects or refuses to maintain and so preserve such records shall forfeit to the United States the sum of $100 for each day of such failure, which shall accrue to the United States and be recoverable in a civil action.
+The neglect or refusal to maintain and so preserve such records is unlawful, and any such manufacturer who neglects or refuses to maintain and so preserve such records shall forfeit to the United States the sum of $100 for each day of such failure, which shall accrue to the United States and be recoverable in a civil action.
 
 (Oct. 14, 1940, ch. 871, §6, 54 Stat. 1131.)
 

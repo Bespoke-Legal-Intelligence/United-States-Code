@@ -74,7 +74,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 #### (i) Employee pension benefit plans; cessation or reduction of benefit accrual or of allocation to employee account; distribution of benefits after attainment of normal retirement age; compliance; highly compensated employees
 
-(1) Except as otherwise provided in this subsection, it shall be unlawful for an employer, anemployment agency, a labor organization, or any combination thereof to establish or maintain an employee pension benefit plan which requires or permits—
+(1) Except as otherwise provided in this subsection, it shall be unlawful for an employer, an employment agency, a labor organization, or any combination thereof to establish or maintain an employee pension benefit plan which requires or permits—
 
 &emsp;(A) in the case of a defined benefit plan, the cessation of an employee's benefit accrual, or the reduction of the rate of an employee's benefit accrual, because of age, or
 
@@ -180,7 +180,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
 
 &emsp;(F) If an employer that has implemented a deduction pursuant to subparagraph (A) fails to fulfill the obligation described in subparagraph (E), any aggrieved individual may bring an action for specific performance of the obligation described in subparagraph (E). The relief shall be in addition to any other remedies provided under Federal or State law.
 
-&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+&emsp;(3) It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employeebenefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
 &emsp;&emsp;(A) paid to the individual that the individual voluntarily elects to receive; or
 
@@ -244,11 +244,11 @@ Pub. L. 101–433, §103(3), added subsec. (<i>l</i>).
 
 1986—Subsec. (g)(1). Pub. L. 99–272, §9201(b)(1), and Pub. L. 99–592, §2(a), made identical amendments, substituting “or older” for “through 69” in two places.
 
-Subsec. (g)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (g)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 Subsec. (h). Pub. L. 99–272, §9201(b)(3), and Pub. L. 99–592, §2(b), made identical amendments, redesignating subsec. (g), relating to practices of foreign corporations controlled by American employers, as (h).
 
-Subsec. (i). Pub. L. 99–592, §3, temporarily added subsec. (i) which read as follows: “It shall not be unlawfulfor an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual's age if such action is taken—
+Subsec. (i). Pub. L. 99–592, §3, temporarily added subsec. (i) which read as follows: “It shall not be unlawful for an employer which is a State, a political subdivision of a State, an agency or instrumentality of a State or a political subdivision of a State, or an interstate agency to fail or refuse to hire or to discharge any individual because of such individual's age if such action is taken—
 
 &emsp;“(1) with respect to the employment of an individual as a firefighter or as a law enforcement officer and the individual has attained the age of hiring or retirement in effect under applicable State or local law on March 3, 1983, and
 
@@ -350,7 +350,7 @@ In general.—An employer that maintains a plan described in paragraph (1)(B) ma
 
 &emsp;&emsp;“(B)
 
-Previous disability benefits.—If the employee does not elect to be covered by the new disability benefits, the employer may continue to cover the employee under the previous disability benefits even though such previous benefits do nototherwise satisfy the requirements of the Age Discrimination in Employment Act of 1967 (as amended by this title).
+Previous disability benefits.—If the employee does not elect to be covered by the new disability benefits, the employer may continue to cover the employee under the previous disability benefits even though such previous benefits do not otherwise satisfy the requirements of the Age Discrimination in Employment Act of 1967 (as amended by this title).
 
 &emsp;&emsp;“(C)
 
@@ -540,7 +540,7 @@ Consultation.—The Secretary shall, during the conduct of the study required by
 
 &emsp;“(2)
 
-Public comment.—Prior to issuing the advisory guidelines required in subsection (c), the Secretaryshall provide an opportunity for public comment on the proposed advisory guidelines.
+Public comment.—Prior to issuing the advisory guidelines required in subsection (c), the Secretary shall provide an opportunity for public comment on the proposed advisory guidelines.
 
 “(c)
 

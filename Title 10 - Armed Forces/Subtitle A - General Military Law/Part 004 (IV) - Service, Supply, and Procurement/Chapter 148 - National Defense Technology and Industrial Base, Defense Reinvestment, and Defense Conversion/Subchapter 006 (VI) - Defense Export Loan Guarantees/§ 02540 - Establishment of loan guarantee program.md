@@ -10,7 +10,7 @@ Covered Countries.—The authority under subsection (a) applies with respect to 
 
 &emsp;(1) A member nation of the North Atlantic Treaty Organization (NATO).
 
-&emsp;(2) A country designated as of March 31, 1995, as a major non-NATO ally pursuant to section 2350a(i)(3) of this title.
+&emsp;(2) A country designated as of March 31, 1995, as a major non-NATO ally pursuant to section 2350a(i)(3) <sup>1</sup> of this title.
 
 &emsp;(3) A country in Central Europe that, as determined by the Secretary of State—
 
@@ -25,6 +25,10 @@ Covered Countries.—The authority under subsection (a) applies with respect to 
 Authority Subject to Provisions of Appropriations.—The Secretary may guarantee a loan under this subchapter only to such extent or in such amounts as may be provided in advance in appropriations Acts.
 
 (Added Pub. L. 104–106, div. A, title XIII, §1321(a)(1), Feb. 10, 1996, 110 Stat. 475.)
+
+#### References in Text
+
+Section 2350a of this title, referred to in subsec. (b)(2), was subsequently amended, and section 2350a(i)(3) no longer defines the term “major non-NATO ally”. However, such term is defined elsewhere in that section.
 
 #### Prior Provisions
 
@@ -43,4 +47,6 @@ Section 1321(b) of Pub. L. 104–106 provided that: “Not later than two years 
 &emsp;&emsp;“(A) any recommended addition to the list of countries for which a guarantee may be issued under the program; and
 
 &emsp;&emsp;“(B) any proposed legislation necessary to authorize a recommended modification.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

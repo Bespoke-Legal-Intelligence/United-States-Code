@@ -44,7 +44,7 @@ Although an individual may serve more than 2 terms of service described in subse
 
 #### (1) In general
 
-&emsp;An individual who, after qualifying under this section as an eligible individual, has been convicted under any Federal or State law ofthe possession or sale of a controlled substance shall not be eligible to receive a national service educational award during the period beginning on the date of such conviction and ending after the interval specified in the following table:
+&emsp;An individual who, after qualifying under this section as an eligible individual, has been convicted under any Federal or State law of the possession or sale of a controlled substance shall not be eligible to receive a national service educational award during the period beginning on the date of such conviction and ending after the interval specified in the following table:
 
 &nbsp;
 

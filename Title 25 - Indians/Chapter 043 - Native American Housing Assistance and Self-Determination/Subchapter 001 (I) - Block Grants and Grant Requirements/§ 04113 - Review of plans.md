@@ -4,7 +4,7 @@
 
 #### (1) Review
 
-&emsp;The Secretary shall conduct a limited review of each Indian housing plan submitted to the Secretary to ensure that the plan complies with the requirements of section 4112 of this title. The Secretary shall have the discretion to review a plan only to the extent that the Secretary considers review is necessary.
+&emsp;The Secretary shall conduct a limited review of each Indian housing plan submitted to the Secretary to ensure that the plan complies with the requirements of section 4112 of this title. The Secretary shall have the discretionto review a plan only to the extent that the Secretary considers review is necessary.
 
 #### (2) Notice
 

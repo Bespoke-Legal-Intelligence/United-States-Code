@@ -2,7 +2,7 @@
 
 (a)
 
-Advance Notification to Congress of the Establishment of New Regional Centers.—After the date of the enactment of this section, a regional center for security studies may not be established in the Department of Defense until—
+Advance Notification to Congress of the Establishment of New Regional Centers.—After October 30, 2000, a regional center for security studies may not be established in the Department of Defense until—
 
 &emsp;(1) the Secretary of Defense submits to Congress a notification of the intent of the Secretary to establish the center, including a description of the mission and functions of the proposed center and a justification for the proposed center; and
 
@@ -34,11 +34,13 @@ Regional Center for Security Studies Defined.—For the purposes of this section
 
 &emsp;(2) serves as a forum for bilateral and multilateral communication and military and civilian exchanges with nations in that region.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §912(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–228; amended Pub. L. 107–107, div. A, title X, §1048(c)(2), Dec. 28, 2001, 115 Stat. 1226.)
 
 #### References in Text
 
-The date of the enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 106–398 which was approved Oct. 30, 2000.
-
 Section 1306 of the National Defense Authorization Act for Fiscal Year 1995, referred to in subsec. (b)(4)(B), is section 1306 of Pub. L. 103–337, div. A, title XIII, Oct. 5, 1994, 108 Stat. 2892, which is not classified to the Code.
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107 substituted “October 30, 2000,” for “the date of the enactment of this section,” in introductory provisions.
 

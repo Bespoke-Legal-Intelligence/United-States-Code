@@ -6,5 +6,5 @@ All laws, general and special, and all treaty provisions affecting any Indian re
 
 #### References in Text
 
-Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classifiedgenerally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
+Act of June 18, 1934, referred to in text, popularly known as the Indian Reorganization Act, is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 

@@ -2,5 +2,5 @@
 
 #### Codification
 
-Section, act Aug. 8, 1894, ch. 236, §2, 28 Stat. 263, required railroad companies to establish within threemonths after Aug. 8, 1894, passenger and freight stations in all towns.
+Section, act Aug. 8, 1894, ch. 236, §2, 28 Stat. 263, required railroad companies to establish within three months after Aug. 8, 1894, passenger and freight stations in all towns.
 

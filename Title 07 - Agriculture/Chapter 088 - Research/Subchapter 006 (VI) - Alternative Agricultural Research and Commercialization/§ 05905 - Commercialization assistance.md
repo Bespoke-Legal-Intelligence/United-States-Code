@@ -14,7 +14,7 @@ The Corporation, at the discretion of the Corporate Board, may provide to entiti
 
 #### (b) Eligible entities
 
-To obtain financial assistance for commercialization of nonfood, nonfeed products from the Corporation, an entity shall be a university or other institution of higher education, a nonprofit organization, a cooperative, or a business concern.
+To obtain financial assistance for commercialization of nonfood, nonfeed products fromthe Corporation, an entity shall be a university or other institution of higher education, a nonprofit organization, a cooperative, or a business concern.
 
 #### (c) Application requirements
 

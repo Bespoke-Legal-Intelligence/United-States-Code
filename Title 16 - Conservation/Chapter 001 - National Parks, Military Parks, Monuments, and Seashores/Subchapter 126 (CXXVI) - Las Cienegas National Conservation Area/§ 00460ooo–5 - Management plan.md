@@ -2,7 +2,7 @@
 
 #### (a) Plan required
 
-Not later than 2 years after December 6, 2000, the Secretary, through the Bureau of Land Management, shall develop and begin to implement a comprehensive management plan for the long-term management of the public lands within the Conservation Area in order to fulfill the purposes for which it is established, as set forth insection 460<i>ooo</i>–3(a) of this title. Consistent with the provisions of this subchapter, the management plan shall be developed—
+Not later than 2 years after December 6, 2000, the Secretary, through the Bureau of Land Management, shall develop and begin to implement a comprehensive management plan for the long-term management of the public lands within the Conservation Area in order to fulfill the purposes for which it is established, as set forth in section 460<i>ooo</i>–3(a) of this title. Consistent with the provisions of this subchapter, the management plan shall be developed—
 
 &emsp;(1) in consultation with appropriate departments of the State of Arizona, including wildlife and land management agencies, with full public participation;
 

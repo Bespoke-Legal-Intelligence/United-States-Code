@@ -10,7 +10,7 @@ There is hereby established a Gulf Islands National Seashore Advisory Commission
 
 > <i>Provided</i>, That two members shall be appointed to the Advisory Commission in each instance in counties whose population exceeds one hundred thousand.
 
-The Secretary shall designate one member to be Chairman. Any vacancy in the Commissionshall be filled in the same manner in which the original appointment was made.
+The Secretary shall designate one member to be Chairman. Any vacancy in the Commission shall be filled in the same manner in which the original appointment was made.
 
 Members of the Commission shall serve without compensation as such. The Secretary is authorized to pay the expenses reasonably incurred by the Commission in carrying out its responsibilities under sections 459h to 459h–10 of this title on vouchers signed by the Chairman.
 

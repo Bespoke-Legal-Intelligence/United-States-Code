@@ -56,7 +56,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;&emsp;(A) any individual who is a displaced homemaker may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while a homemaker, owned a home with his or her spouse or resided in a home owned by the spouse;
 
-&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
+&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as afirst-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
 
 &emsp;&emsp;(C) an individual shall not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual owns or owned, as a principal residence during such 3-year period, a dwelling unit whose structure is—
 
@@ -82,7 +82,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;(20) The term “urban county” has the meaning given the term in section 5302(a)(6) of this title.
 
-&emsp;(21) The term “certification” means a written assertion, based on supporting evidence, which shall be kept available for inspection by the Secretary, the Inspector General and the public, which assertion shall be deemed to be accurate for purposes of this Act, unless theSecretary determines otherwise after inspecting the evidence and providing due notice and opportunity for comment.
+&emsp;(21) The term “certification” means a written assertion, based on supporting evidence, which shall be kept available for inspection by the Secretary, the Inspector General and the public, which assertion shall be deemed to be accurate for purposes of this Act, unless the Secretary determines otherwise after inspecting the evidence and providing due notice and opportunity for comment.
 
 &emsp;(23) <sup>1</sup> The term “to demonstrate to the Secretary” means to submit to the Secretary a written assertion together with supporting evidence that, in the determination of the Secretary, supports the accuracy of the assertion.
 

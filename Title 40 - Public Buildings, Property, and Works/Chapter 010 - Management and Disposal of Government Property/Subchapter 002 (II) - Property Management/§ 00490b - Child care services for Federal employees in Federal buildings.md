@@ -8,7 +8,7 @@ If any individual or entity which provides or proposes to provide child care ser
 
 &emsp;(2) such officer or agency determines that such space will be used to provide child care services to children of whom at least 50 percent have one parent or guardian who is employed by the Federal Government; and
 
-&emsp;(3) such officer or agency determines that such individual or entity will give priority foravailable child care services in such space to Federal employees.
+&emsp;(3) such officer or agency determines that such individual or entity will give priority for available child care services in such space to Federal employees.
 
 #### (b) Charges for rent or services; payment of costs, accreditation fees, and travel and per diem expenses; “services” defined
 

@@ -26,7 +26,7 @@ Each application for an order approving a physical search under this subchapter 
 
 &emsp;&emsp;(A) that the certifying official deems the information sought to be foreign intelligence information;
 
-&emsp;&emsp;(B) that the purpose of the search is to obtain foreign intelligence information;
+&emsp;&emsp;(B) that a significant purpose of the search is to obtain foreign intelligence information;
 
 &emsp;&emsp;(C) that such information cannot reasonably be obtained by normal investigative techniques;
 
@@ -60,11 +60,21 @@ The judge may require the applicant to furnish such other information as may be 
 
 (C) Upon review of any modifications of an application set forth under subparagraph (B), the official notified of the modifications under this paragraph shall modify the application if such official determines that such modification is warranted. Such official shall supervise the making of any modification under this subparagraph. Except when disabled or otherwise unavailable to supervise the making of any modification under the preceding sentence, such official may not delegate the responsibility to supervise the making of any modification under that preceding sentence. Each such official shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event such official is disabled or otherwise unavailable to supervise the making of such modification.
 
-(Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852.)
+(Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291.)
+
+#### Amendment of Section
+
+<i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
 
 #### Amendments
 
+2001—Subsec. (a)(7)(B). Pub. L. 107–56, §§218, 224, temporarily substituted “a significant purpose” for “the purpose”. See Termination Date of 2001 Amendment note below.
+
 2000—Subsec. (d). Pub. L. 106–567 added subsec. (d).
+
+#### Termination Date of 2001 Amendment
+
+Amendment by Pub. L. 107–56 to cease to have effect Dec. 31, 2005, except amendment to continue in effect with respect to any particular foreign intelligence investigation that began before Dec. 31, 2005, or with respect to any particular offense or potential offense that began or occurred before Dec. 31, 2005, see section 224 of Pub. L. 107–56, set out as a note under section 2510 of Title 18, Crimes and Criminal Procedure.
 
 #### Officials Designated To Make Certifications
 
@@ -72,5 +82,5 @@ For provisions listing officials designated by President to make certifications 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1822, 1824 of this title.
+This section is referred to in sections 1822, 1824, 1825 of this title.
 

@@ -12,7 +12,7 @@ It shall be unlawful for any registered investment company to pay any dividend, 
 
 #### (b) Long-term capital gains; limitation
 
-It shall be unlawful in contravention of such rules, regulations, or orders as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors for any registered investment company to distribute long-term capital gains, as defined in title 26, more often than once every twelve months.
+It shall be unlawful in contravention of such rules, regulations, or orders as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investorsfor any registered investment company to distribute long-term capital gains, as defined in title 26, more often than once every twelve months.
 
 (Aug. 22, 1940, ch. 686, title I, §19, 54 Stat. 821; Pub. L. 91–547, §11, Dec. 14, 1970, 84 Stat. 1422; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 91–547 effective on expiration of one year after Dec. 14,
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Section Referred to in Other Sections
 

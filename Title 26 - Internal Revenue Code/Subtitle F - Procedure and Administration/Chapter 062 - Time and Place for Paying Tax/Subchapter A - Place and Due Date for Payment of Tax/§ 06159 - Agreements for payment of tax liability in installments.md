@@ -2,7 +2,7 @@
 
 #### (a) Authorization of agreements
 
-The Secretary is authorized to enter into written agreements with any taxpayer under which such taxpayer is allowed to satisfy liability for payment of any tax in installment payments if the Secretary determines that such agreement will facilitate collection of such liability.
+The Secretary is authorized to enter into written agreements with any taxpayer under whichsuch taxpayer is allowed to satisfy liability for payment of any tax in installment payments if the Secretary determines that such agreement will facilitate collection of such liability.
 
 #### (b) Extent to which agreements remain in effect
 
@@ -14,7 +14,7 @@ The Secretary is authorized to enter into written agreements with any taxpayer u
 
 &emsp;The Secretary may terminate any agreement entered into by the Secretary under subsection (a) if—
 
-&emsp;&emsp;(A) information which the taxpayer provided to the Secretary prior to the date suchagreement was entered into was inaccurate or incomplete, or
+&emsp;&emsp;(A) information which the taxpayer provided to the Secretary prior to the date such agreement was entered into was inaccurate or incomplete, or
 
 &emsp;&emsp;(B) the Secretary believes that collection of any tax to which an agreement under this section relates is in jeopardy.
 
@@ -104,7 +104,7 @@ Subsec. (c). Pub. L. 104–168, §202(a), added subsec. (c).
 
 #### Effective Date of 1998 Amendments
 
-Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–277 effective as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, towhich such amendment relates, see section 4002(k) of Pub. L. 105–277, set out as a note under section 1 of this title.
 
 Amendment by section 3462(c)(2) of Pub. L. 105–206 applicable to proposed offers-in-compromise and installment agreements submitted after July 22, 1998, see section 3462(e)(1) of Pub. L. 105–206, set out as a note under section 6331 of this title.
 

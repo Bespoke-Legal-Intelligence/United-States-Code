@@ -20,7 +20,7 @@ As used in this chapter—
 
 #### (5) First handler
 
-&emsp;The term “first handler” means any person, as described in an order issued under this chapter, who receives or otherwise acquires mushrooms from a producer and prepares formarketing or markets such mushrooms, or who prepares for marketing or markets mushrooms of that person's own production.
+&emsp;The term “first handler” means any person, as described in an order issued under this chapter, who receives or otherwise acquires mushrooms from a producer and prepares for marketing or markets such mushrooms, or who prepares for marketing or markets mushrooms of that person's own production.
 
 #### (6) Importer
 
@@ -36,7 +36,7 @@ As used in this chapter—
 
 #### (9) Mushrooms
 
-&emsp;The term “mushrooms” means all varieties of cultivated mushrooms grown within the United States for the fresh market, or imported into the United States for the fresh market, that are marketed, except that such term shall not include mushrooms that are commercially marinated, canned, frozen, cooked, blanched, dried, packaged in brine, or otherwise processed, as may be determined by the Secretary.
+&emsp;The term “mushrooms” means all varieties of cultivated mushrooms grown within the United States for the fresh market, or imported into the United States for the freshmarket, that are marketed, except that such term shall not include mushrooms that are commercially marinated, canned, frozen, cooked, blanched, dried, packaged in brine, or otherwise processed, as may be determined by the Secretary.
 
 #### (10) Person
 

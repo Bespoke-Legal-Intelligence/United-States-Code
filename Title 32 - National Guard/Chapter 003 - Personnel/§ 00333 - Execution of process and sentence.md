@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §108 (less 1st par.), 39 Stat. 209.
 
-The words “In the National Guard not in Federal service \* \* \* its courts-martial” are substituted for the words “said courts”. The words “executing those processes and sentences” are substituted for the words “such action”. The words “deputy marshal” are substituted for the words “his duly appointed deputy”. The words “and it shall be the duty of any United States marshal to execute all such processes and sentences” are omitted as surplusage.
+The words “In the National Guard not in Federal service \* \* \* its courts-martial” are substituted for thewords “said courts”. The words “executing those processes and sentences” are substituted for the words “such action”. The words “deputy marshal” are substituted for the words “his duly appointed deputy”. The words “and it shall be the duty of any United States marshal to execute all such processes and sentences” are omitted as surplusage.
 
 #### Amendments
 

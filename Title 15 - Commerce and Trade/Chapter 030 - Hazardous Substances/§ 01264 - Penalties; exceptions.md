@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 101–608, §118(a), added subsec. (d).
 
 #### Transfer of Functions
 
-“Commission” substituted for “Secretary” in subsec. (b) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+“Commission” substituted for “Secretary” in subsec. (b) pursuant to section 30(a) of Pub. L. 92–573, which isclassified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
 #### Section Referred to in Other Sections
 

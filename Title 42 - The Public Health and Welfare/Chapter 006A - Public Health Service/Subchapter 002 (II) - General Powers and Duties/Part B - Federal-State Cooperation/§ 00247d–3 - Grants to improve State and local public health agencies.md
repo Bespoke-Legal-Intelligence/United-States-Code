@@ -22,7 +22,7 @@ An eligible entity that receives a grant under subsection (a) of this section, m
 
 #### (d) Report
 
-No later than January 1, 2005, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and theCommittee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report that describes the activities carried out under this section and sections 247d–1 and 247d–2 of this title.
+No later than January 1, 2005, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Commerce and the Committee on Appropriations of the House of Representatives a report that describes the activities carried out under this section and sections 247d–1 and 247d–2 of this title.
 
 #### (e) Supplement not supplant
 

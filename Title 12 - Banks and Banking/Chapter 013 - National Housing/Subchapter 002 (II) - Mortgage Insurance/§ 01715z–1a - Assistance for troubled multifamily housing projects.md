@@ -590,7 +590,7 @@ Section 1011(b) of Pub. L. 100–628 provided that: “To implement the amendmen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1701q–1, 1715<i>l</i>, 1715z–1, 1715z–1b, 1735f–15, 4109 of this title; title 42 section 3535.
+This section is referred to in sections 1701q–1, 1715<i>l</i>, 1715z–1, 1715z–1b, 1735f–15, 4109 of this title; title 42 sections 1437f, 3535.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

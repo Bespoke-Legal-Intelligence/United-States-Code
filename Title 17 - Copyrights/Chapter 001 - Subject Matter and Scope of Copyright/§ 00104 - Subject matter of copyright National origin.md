@@ -744,11 +744,11 @@ Done at Geneva, the sixth day of September 1952, in the English, French and the 
 
 #### Particular Proclamations, Treaties and Conventions Establishing Copyright Relations Between the United States of America and Other Countries
 
-The following is based on <i>Treaties in Force</i>, as of January 1, 2000, published by the Department of State:
+The following is based on <i>Treaties in Force</i>, as of January 1, 2002, published by the Department of State:
 
 By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries. This note is an attempt to present a complete and annotated list of those countries.
 
-Proclamations by the President of the United States extending copyright protection upon compliance with the provisions of the United States copyright law, to the works of foreign authors prior to July 1, 1909, were issued pursuant to the Act of March 3, 1891 (26 Stat. 1106) and those issued subsequent to July 1, 1909, were issued under the provisions of the Act of March 4, 1909 (35 Stat. 1075), as amended by the Act of December 18, 1919 (41 Stat. 368) and the Act of September 25, 1941 (55 Stat. 732). The Act of March 4, 1909, as amended, became Title 17 of the United States Code when it was codified and enacted into positive law by the Act of July 30, 1947 (61 Stat. 652). Title 17 of the United States Code was completely revised by the Act of October 19, 1976, (Public Law 94–553, 90 Stat. 2541), which became fully effective on January 1, 1978. A number of the proclamations were preceded or accompanied by exchanges of diplomatic notes which served as the basis for their issuance. Such exchanges of notes, if printed in the official pamphlet series, may be included in the preceding pages under appropriate country and subject heading.
+Proclamations by the President of the United States extending copyright protection upon compliance with the provisions of the United States copyright law, to the works of foreign authors prior to July 1, 1909, were issued pursuant to the Act of March 3, 1891 (26 Stat. 1106) and those issued subsequent to July 1, 1909, were issued under the provisions of the Act of March 4, 1909 (35 Stat. 1075), as amended by the Act of December 18, 1919 (41 Stat. 368) and the Act of September 25, 1941 (55 Stat. 732). The Act of March 4, 1909, as amended, became Title 17 of the United States Code when it was codified and enacted into positive law by the Act of July 30, 1947 (61 Stat. 652). Title 17 of the United States Code was completely revised by the Act of October 19, 1976, (Public Law 94–553, 90 Stat. 2541), which became fully effective on January 1, 1978. A number of the proclamations were preceded or accompanied by exchanges of diplomatic notes which served as the basis for their issuance.
 
 The period for compliance with the conditions and formalities prescribed by the copyright law was extended by proclamation with respect to certain works in the case of a number of countries because of the disruption or suspension of facilities essential for such compliance during World War I and World War II. In the case of World War I, this period for compliance was extended by proclamations issued under the Act of December 18, 1919 (41 Stat. 368) to fifteen months after the proclamation, as to works published after August 1, 1914, and before the proclamation of peace. In the case of World War II, this period was extended by proclamations issued under the Act of September 25, 1941 (55 Stat. 732) until such time as terminated or suspended, either by the terms of the proclamation itself or by the issuance of a subsequent proclamation. A number of the proclamations issued under the 1919 Act and all of the proclamations issued under the 1941 Act refer to rights previously granted.
 
@@ -900,15 +900,17 @@ Nov. 23, 1996
 
 33 ILM 15.
 
-Antigua and Barbuda
+Antigua and Barbuda DWTO DApr. 15, 1994 DJan. 1, 1995 D33 ILM 15.
 
-WTO
+&nbsp;
 
-Apr. 15, 1994
+Berne (Paris)
 
-Jan. 1, 1995
+July 24, 1971
 
-33 ILM 15.
+Mar. 17, 2000
+
+T. Doc. 99–27.
 
 Argentina DPm DAug. 23, 1934 DAug. 23, 1934 D49 Stat. 3413.
 
@@ -934,13 +936,13 @@ Feb. 13, 1958
 
 &nbsp;
 
-Berne (Brussels)
+Berne (Paris)
 
-June 26, 1948
+July 24, 1971
 
-June 10, 1967
+Oct. 8, 2000
 
-331 UNTS 217.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -962,15 +964,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Armenia
+Armenia DPcss DMay 21, 1974 DDec. 13, 1993 DT. Doc. 98–31.
 
-Pcss
+&nbsp;
 
-May 21, 1974
+Berne (Paris)
 
-Dec. 13, 1993
+July 24, 1971
 
-T. Doc. 98–31.
+Oct. 19, 2000
+
+T. Doc. 99–27.
 
 Australia <sup>1</sup> DPm DApr. 3, 1918 DMar. 15, 1918 D40 Stat. 1764.
 
@@ -1158,6 +1162,16 @@ June 4, 1999
 
 T. Doc. 99–27.
 
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Sept. 1, 2001
+
+25 UST 309.
+
 Bahamas, The DBerne (Brussels) DJune 26, 1948 DJuly 10, 1973 D331 UNTS 217.
 
 &nbsp;
@@ -1341,6 +1355,16 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+June 17, 2000
+
+T. Doc. 99–27.
 
 Benin DBerne (Paris) DJuly 24, 1971 DMar. 12, 1975 DT. Doc. 99–27.
 
@@ -1848,6 +1872,16 @@ Apr. 30, 1993
 
 25 UST 309.
 
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Dec. 11, 2001
+
+33 ILM 15.
+
 Colombia DBAC DAug. 11, 1910 DDec. 23, 1936 D38 Stat. 1785.
 
 &nbsp;
@@ -2073,6 +2107,16 @@ May 21, 1974
 Oct. 8, 1991
 
 T. Doc. 98–31.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Apr. 20, 2000
+
+25 UST 309.
 
 Cuba DP DNov. 17, 1903 DNov. 17, 1903 D33 Stat. 2324.
 
@@ -2522,15 +2566,27 @@ June 26, 1997
 
 T. Doc. 99–27.
 
-Estonia
+Estonia DBerne (Paris) DJuly 24, 1971 DOct. 26, 1994 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+Pg
 
-Oct. 26, 1994
+Oct. 29, 1971
 
-T. Doc. 99–27.
+May 28, 2000
+
+25 UST 309.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Nov. 13, 1999
+
+33 ILM 15.
 
 European Community
 
@@ -2794,15 +2850,17 @@ Oct. 23, 1996
 
 33 ILM 15.
 
-Georgia
+Georgia DBerne (Paris) DJuly 24, 1971 DMay 16, 1995 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+WTO
 
-May 16, 1995
+Apr. 15, 1994
 
-T. Doc. 99–27.
+June 14, 2000
+
+33 ILM 15.
 
 Germany <sup>3,</sup> \\29\\<sup>,</sup> \\36\\ DP DApr. 15, 1892 DApr. 15, 1892 D27 Stat. 1021.
 
@@ -3562,6 +3620,16 @@ Mar. 9, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Jan. 12, 2000
+
+T. Doc. 98–31.
+
 Japan DC \\15\\ DNov. 10, 1905 DMay 10, 1906 D34 Stat. 2890.
 
 &nbsp;
@@ -3644,15 +3712,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Jordan
+Jordan DBerne (Paris) DJuly 24, 1971 DJuly 28, 1999 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+WTO
 
-July 28, 1999
+Apr. 15, 1994
 
-T. Doc. 99–27.
+Apr. 11, 2000
+
+33 ILM 15.
 
 Kazakhstan DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
@@ -3665,6 +3735,16 @@ July 24, 1971
 Apr. 12, 1999
 
 T. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Aug. 3, 2001
+
+25 UST 309.
 
 Kenya DUCC DSept. 6, 1952 DSept. 7, 1966 D6 UST 2731.
 
@@ -3810,6 +3890,16 @@ Aug. 23, 1997
 
 25 UST 309.
 
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Feb. 10, 1999
+
+33 ILM 15.
+
 Lebanon DBerne (Rome) DJune 2, 1928 DSept. 30, 1947 D123 LNTS 232.
 
 &nbsp;
@@ -3898,15 +3988,17 @@ Oct. 12, 1999
 
 25 UST 309.
 
-Lithuania
+Lithuania DBerne (Paris) DJuly 24, 1971 DDec. 14, 1994 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+WTO
 
-Dec. 14, 1994
+Apr. 15, 1994
 
-T. Doc. 99–27.
+May 31, 2001
+
+33 ILM 15.
 
 Luxembourg DP DJune 29, 1910 DJune 29, 1910 D36 Stat. 2716.
 
@@ -3960,7 +4052,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Macau
+Macao
 
 WTO
 
@@ -4188,6 +4280,26 @@ July 18, 1997
 
 6 UST 2731.
 
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+July 17, 2000
+
+25 UST 309.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+July 26, 2001
+
+33 ILM 15.
+
 Monaco DPm DOct. 15, 1952 DOct. 15, 1952 D67 Stat. C16.
 
 &nbsp;
@@ -4240,15 +4352,17 @@ Jan. 29, 1997
 
 33 ILM 15.
 
-Mongolia
+Mongolia DBerne (Paris) DJuly 24, 1971 DMar. 12, 1998 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+WTO
 
-Mar. 12, 1998
+Apr. 15, 1994
 
-T. Doc. 99–27.
+Jan. 29, 1997
+
+33 ILM 15.
 
 Morocco DUCC DSept. 6, 1952 DMay 8, 1972 D6 UST 2731.
 
@@ -4500,6 +4614,16 @@ Sept. 3, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+Aug. 23, 2000
+
+T. Doc. 99–27.
+
 Niger DBerne (Paris) DJuly 24, 1971 DMay 21, 1975 DT. Doc. 99–27.
 
 &nbsp;
@@ -4732,15 +4856,17 @@ June 8, 1996
 
 T. Doc. 99–27.
 
-Papua New Guinea
+&nbsp;
 
 WTO
 
 Apr. 15, 1994
 
-June 9, 1996
+Sept. 6, 1997
 
 33 ILM 15.
+
+Papua New Guinea DWTO DApr. 15, 1994 DJune 9, 1996 D33 ILM 15.
 
 Paraguay DBAC DAug. 11, 1910 DSept. 20, 1917 D38 Stat. 1785.
 
@@ -4982,15 +5108,17 @@ Mar. 11, 1996
 
 T. Doc. 98–31.
 
-Qatar
+Qatar DWTO DApr. 15, 1994 DJan. 13, 1996 D33 ILM 15.
 
-WTO
+&nbsp;
 
-Apr. 15, 1994
+Berne (Paris)
 
-Jan. 13, 1996
+July 24, 1971
 
-33 ILM 15.
+July 5, 2000
+
+T. Doc. 99–27.
 
 Romania DPm \\22\\ DMay 14, 1928 DMay 14, 1928 D45 Stat. 2949.
 
@@ -5108,6 +5236,16 @@ May 22, 1996
 
 33 ILM 15.
 
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+July 25, 2001
+
+T. Doc. 98–31.
+
 St. Kitts and Nevis DBerne (Paris) DJuly 24, 1971 DApr. 9, 1995 DT. Doc. 99–27.
 
 &nbsp;
@@ -5131,6 +5269,16 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Apr. 2, 2001
+
+25 UST 309.
 
 Saint Vincent and the Grenadines DUCC DSept. 6, 1952 DApr. 22, 1985 D6 UST 2731.
 
@@ -5470,6 +5618,16 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+Sudan
+
+Berne (Paris)
+
+July 24, 1971
+
+Dec. 28, 2000
+
+T. Doc. 99–27.
+
 Suriname DBerne (Paris) DJuly 24, 1971 DFeb. 23, 1977 DT. Doc. 99–27.
 
 &nbsp;
@@ -5638,15 +5796,17 @@ July 1, 1995
 
 33 ILM 15.
 
-Tajikistan
+Tajikistan DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
-UCC
+&nbsp;
 
-Sept. 6, 1952
+Berne (Paris)
 
-May 27, 1973
+July 24, 1971
 
-6 UST 2731.
+Mar. 9, 2000
+
+T. Doc. 99–27.
 
 Tanzania (United Republic of) DBerne (Paris) DJuly 24, 1971 DJuly 25, 1994 DT. Doc. 99–27.
 
@@ -5713,6 +5873,16 @@ Apr. 15, 1994
 May 31, 1995
 
 33 ILM 15.
+
+Tonga
+
+Berne (Paris)
+
+July 24, 1971
+
+June 14, 2001
+
+T. Doc. 99–27.
 
 Trinidad and Tobago DBerne (Paris) DJuly 24, 1971 DAug. 16, 1988 DT. Doc. 99–27.
 
@@ -6184,7 +6354,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 <sup>19</sup> Copyright convention with Japan for reciprocal protection in Korea of inventions, designs, trademarks, and copyrights, signed at Washington, May 19, 1908 (TS 506). This convention is considered as having been abrogated on April 22, 1953, pursuant to the provisions of Article 7 of the Treaty of Peace with Japan signed at San Francisco, September 8, 1951 (TIAS 2490), since it was not included in the notification which was given on behalf of the United States Government to the Japanese Government on April 22, 1953, indicating the pre-war bilateral treaties or conventions which the United States wished to continue in force or revive.
 
-<sup>20</sup> Belize notified the Director-General of UNESCO on December 1, 1982, of its decision to apply “provisionally, and on thebasis of reciprocity” the Universal Copyright Convention as adopted at Geneva on September 6, 1952, the application of which had been extended to its territory before the attainment of independence from the United Kingdom on September 21, 1981.
+<sup>20</sup> Belize notified the Director-General of UNESCO on December 1, 1982, of its decision to apply “provisionally, and on the basis of reciprocity” the Universal Copyright Convention as adopted at Geneva on September 6, 1952, the application of which had been extended to its territory before the attainment of independence from the United Kingdom on September 21, 1981.
 
 <sup>21</sup> An instrument of accession was deposited by the Philippine Government August 19, 1955. In a communication received by the State Department January 17, 1956, UNESCO stated that by a note dated November 14, 1955, the Philippine Government informed the Director-General of UNESCO that “the President of the \* \* \* Philippines has directed the withdrawal of the \* \* \* accession \* \* \* to the Universal Copyright Convention prior to the date of November 19, 1955, at which time the Convention would become effective” for the Philippines. The Director-General notified the Philippine Government that he “proposed to submit their communication to the States concerned, upon whom it is incumbent to declare what legal inference they intend to draw from it.”
 
@@ -6228,7 +6398,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 Proc. No. 3792, July 12, 1967, 32 F.R. 10341, provided:
 
-WHEREAS the President is authorized, in accordance with the conditions prescribed in Section 9 of Title 17 of the United States Code which includes the provisions of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended by the act of September 25, 1941, 55 Stat. 732, to grant an extension of time for fulfillment of the conditions and formalities prescribed by the copyright laws of the United States of America, with respect to works first produced or published outside the United States of America and subject to copyright or to renewal of copyright under the laws of the United States of America, by nationals of countries which accord substantially equal treatment to citizens of the United States of America; and
+WHEREAS the President is authorized, in accordance with the conditions prescribed in Section 9 of Title 17 of the United States Code which includes the provisions of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended by the act of September 25, 1941, 55 Stat. 732, to grant an extension of time for fulfillment of the conditions and formalities prescribed by the copyright laws of the United States of America, with respect to works first produced or published outside theUnited States of America and subject to copyright or to renewal of copyright under the laws of the United States of America, by nationals of countries which accord substantially equal treatment to citizens of the United States of America; and
 
 WHEREAS satisfactory official assurances have been received that, since April 15, 1892, citizens of the United States have been entitled to obtain copyright in Germany for their works on substantially the same basis as German citizens without the need of complying with any formalities, provided such works secured protection in the United States; and
 
@@ -6236,7 +6406,7 @@ WHEREAS, pursuant to Article 2 of the Law No. 8, Industrial, Literary and Artist
 
 WHEREAS, pursuant to Article 5 of the aforesaid law, any literary or artistic property right in Germany owned by a United States national at the commencement of or during the state of war between Germany and the United States of America was, upon request made prior to October 3, 1950, extended in term for a period corresponding to the inclusive time from the date of the commencement of the state of war, or such later date on which such right came in existence, to September 30, 1949; and
 
-WHEREAS, by virtue of a proclamation by the President of the United States of America dated May 25,1922, 42 Stat. 2271, German citizens are and have been entitled to the benefits of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended, including the benefits of Section 1(e) of the aforementioned Title 17 of the United States Code \[section 1(e) of former Title 17\]; and
+WHEREAS, by virtue of a proclamation by the President of the United States of America dated May 25, 1922, 42 Stat. 2271, German citizens are and have been entitled to the benefits of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended, including the benefits of Section 1(e) of the aforementioned Title 17 of the United States Code \[section 1(e) of former Title 17\]; and
 
 WHEREAS, a letter of February 6, 1950, from the Chancellor of the Federal Republic of Germany to the Chairman of the Allied High Commission for Germany established the mutual understanding that reciprocal copyright relations continued in effect between the Federal Republic of Germany and the United States of America:
 

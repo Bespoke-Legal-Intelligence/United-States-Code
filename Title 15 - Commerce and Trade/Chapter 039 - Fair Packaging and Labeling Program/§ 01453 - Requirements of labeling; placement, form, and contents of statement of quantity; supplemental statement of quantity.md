@@ -2,7 +2,7 @@
 
 #### (a) Contents of label
 
-No person subject to the prohibition contained in section 1452 of this title shall distribute orcause to be distributed in commerce any packaged consumer commodity unless in conformity with regulations which shall be established by the promulgating authority pursuant to section 1455 of this title which shall provide that—
+No person subject to the prohibition contained in section 1452 of this title shall distribute or cause to be distributed in commerce any packaged consumer commodity unless in conformity with regulations which shall be established by the promulgating authority pursuant to section 1455 of this title which shall provide that—
 
 &emsp;(1) The commodity shall bear a label specifying the identity of the commodity and the name and place of business of the manufacturer, packer, or distributor;
 

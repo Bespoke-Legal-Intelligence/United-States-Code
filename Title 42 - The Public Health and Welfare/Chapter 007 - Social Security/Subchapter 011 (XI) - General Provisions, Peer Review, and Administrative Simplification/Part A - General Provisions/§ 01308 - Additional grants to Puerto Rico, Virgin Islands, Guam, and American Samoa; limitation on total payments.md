@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Each territory shall be entitled to receive from the Secretary for each fiscal year a grantin an amount equal to 75 percent of the amount (if any) by which—
+&emsp;Each territory shall be entitled to receive from the Secretary for each fiscal year a grant in an amount equal to 75 percent of the amount (if any) by which—
 
 &emsp;&emsp;(A) the total expenditures of the territory during the fiscal year under the territory programs funded under parts A and E of subchapter IV of this chapter, including any amount paid to the State under part A of subchapter IV of this chapter that is transferred in accordance with section 604(d) of this title and expended under the program to which transferred; exceeds
 
@@ -114,7 +114,7 @@ Subject to subsection (g) of this section, the total amount certified by the Sec
 
 &emsp;&emsp;(C) Guam shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-&emsp;&emsp;(D) the Northern Mariana Islands shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+&emsp;&emsp;(D) the Northern Mariana Islands shall not exceed the sum of the amount provided in this subsection for the preceding fiscal yearincreased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
 
 &emsp;&emsp;(E) American Samoa shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000.
 
@@ -232,7 +232,7 @@ Subsec. (d). Pub. L. 92–603, §272(b), inserted “, American Samoa, and the 
 
 1965—Pub. L. 89–97 substituted “and 722(a)” for “722(a) and 727(a)” and struck out “(or, in the case of section 727(a) of this title” after “in lieu of the initial”, and removed the litigation requiring that, with respect to any fiscal year, $625,000 of the $9,800,000 certified for payments to Puerto Rico, $18,750 of the $330,000 certified for payments to the Virgin Islands, and $25,000 of the $450,000 certified for payments to Guam, be used only for payments with respect to section 303(a)(2)(B) or 1383(a)(2)(B) of this title.
 
-1962—Pub. L. 87–543 substituted “$9,800,000”, “$330,000”, “$450,000”, and “initial (or, in the case of section 727(a) of this title, the minimum) allotment”for “$9,500,000”, “$320,000”, $430,000”, and “$60,000, $60,000 $60,000, respectively,” and inserted references to subchapter “XVI (other than section 1383(a)(3) thereof)” of this chapter, section 1383(a)(2) in three places and section 727(a) after section 722(a).
+1962—Pub. L. 87–543 substituted “$9,800,000”, “$330,000”, “$450,000”, and “initial (or, in the case of section 727(a) of this title, the minimum) allotment” for “$9,500,000”, “$320,000”, $430,000”, and “$60,000, $60,000 $60,000, respectively,” and inserted references to subchapter “XVI (other than section 1383(a)(3) thereof)” of this chapter, section 1383(a)(2) in three places and section 727(a) after section 722(a).
 
 1961—Pub. L. 87–64, substituted “$9,500,000”, “$320,000”, and “$430,000” for “$9,425,000”, “$318,750”, and “$425,000”, respectively. See Repeals note below.
 
@@ -312,7 +312,7 @@ Section 132(d) of Pub. L. 87–543 repealed section 303(d) of Pub. L. 87–64, w
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–778 effective with respect to fiscal years ending after 1960, see section 604 of Pub.L. 86–778, set out as a note under section 301 of this title.
+Amendment by Pub. L. 86–778 effective with respect to fiscal years ending after 1960, see section 604 of Pub. L. 86–778, set out as a note under section 301 of this title.
 
 #### Effective Date of 1958 Amendment
 

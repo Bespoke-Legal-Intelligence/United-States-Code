@@ -26,7 +26,7 @@ For purposes of subsection (a) of this section:
 
 For grants and contracts under subsection (a) of this section there are authorized to be appropriated $10,000,000 for fiscal year 1988, $12,000,000 for fiscal year 1989,<sup>1</sup> $14,000,000 for fiscal year 1990.
 
-(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326.)
+(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91;Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326.)
 
 #### Codification
 
@@ -38,7 +38,7 @@ Section was enacted as part of the Orphan Drug Act, and not as part of the Feder
 
 1988—Subsec. (a). Pub. L. 100–290, §3(a)(1), (b)(1), inserted “(1)” after “assist in” and added cls. (2) and (3).
 
-Subsec. (b)(2). Pub. L. 100–290, §3(a)(2), (b)(2), inserted “(1) in the case of a drug,” after “means”, added cls. (2)and (3), and substituted “under section 360bb of this title” for “under this subsection” in last sentence.
+Subsec. (b)(2). Pub. L. 100–290, §3(a)(2), (b)(2), inserted “(1) in the case of a drug,” after “means”, added cls. (2) and (3), and substituted “under section 360bb of this title” for “under this subsection” in last sentence.
 
 Subsec. (b)(3). Pub. L. 100–290, §3(b)(3), added par. (3).
 

@@ -26,7 +26,7 @@ The Commission shall conduct, in each of the respective fiscal years referred to
 
 The rates of pay of the offices and positions in the legislative branch, referred to in par. (B), are set out in section 136a–2 of this title; sections 703(f) and 731(c) of Title 31, Money and Finance; sections 162a and 166b–3a of Title 40, Public Buildings, Property, and Works; and section 303 of Title 44, Public Printing and Documents.
 
-The rates of pay of justices, judges, and other personnel in the judicial branch, referred to in par. (C), are set out in section 867 of Title 10, Armed Forces; section 7443 of Title 26, Internal Revenue Code; and sections 5,44, 135, 173, 213, 252, 603, and 792 of Title 28, Judiciary and Judicial Procedure.
+The rates of pay of justices, judges, and other personnel in the judicial branch, referred to in par. (C), are set out in section 867 of Title 10, Armed Forces; section 7443 of Title 26, Internal Revenue Code; and sections 5, 44, 135, 173, 213, 252, 603, and 792 of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

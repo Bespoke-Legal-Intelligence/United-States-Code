@@ -1,6 +1,6 @@
 ### §1514. Civil action to restrain harassment of a victim or witness
 
-(a)(1) A United States district court, upon application of the attorney for the Government, shall issue a temporary restraining order prohibiting harassment of a victim or witness in a Federal criminal case if the court finds, from specific facts shown by affidavit or by verifiedcomplaint, that there are reasonable grounds to believe that harassment of an identified victim or witness in a Federal criminal case exists or that such order is necessary to prevent and restrain an offense under section 1512 of this title, other than an offense consisting of misleading conduct, or under section 1513 of this title.
+(a)(1) A United States district court, upon application of the attorney for the Government, shall issue a temporary restraining order prohibiting harassment of a victim or witness in a Federal criminal case if the court finds, from specific facts shown by affidavit or by verified complaint, that there are reasonable grounds to believe that harassment of an identified victim or witness in a Federal criminal case exists or that such order is necessary to prevent and restrain an offense under section 1512 of this title, other than an offense consisting of misleading conduct, or under section 1513 of this title.
 
 (2)(A) A temporary restraining order may be issued under this section without written or oral notice to the adverse party or such party's attorney in a civil action under this section if the court finds, upon written certification of facts by the attorney for the Government, that such notice should not be required and that there is a reasonable probability that the Government will prevail on the merits.
 
@@ -18,7 +18,7 @@
 
 (2) At the hearing referred to in paragraph (1) of this subsection, any adverse party named in the complaint shall have the right to present evidence and cross-examine witnesses.
 
-(3) A protective order shall set forth the reasons for the issuance of such order, be specific in terms, describe in reasonable detail (and not by reference to the complaint or other document) the act or acts being restrained.
+(3) A protective order shall set forth the reasons for the issuance of such order, be specific in terms, describe in reasonable detail (and not byreference to the complaint or other document) the act or acts being restrained.
 
 (4) The court shall set the duration of effect of the protective order for such period as the court determines necessary to prevent harassment of the victim or witness but in no case for a period in excess of three years from the date of such order's issuance. The attorney for the Government may, at any time within ninety days before the expiration of such order, apply for a new protective order under this section.
 

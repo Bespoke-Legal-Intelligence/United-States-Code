@@ -2,45 +2,71 @@
 
 (a)
 
-Program Elements Specified.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), the amount requested for activities of the Ballistic Missile Defense Organization shall be set forth in accordance with the following program elements:
+Program Elements Specified.—In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31), the amount requested for activities of the Ballistic Missile Defense Organization shall be set forth in accordance with program elements governing functional areas as follows:
 
-&emsp;(1) The Patriot system.
+&emsp;(1) Technology.
 
-&emsp;(2) The Navy Area system.
+&emsp;(2) Ballistic Missile Defense System.
 
-&emsp;(3) The Theater High-Altitude Area Defense system.
+&emsp;(3) Terminal Defense Segment.
 
-&emsp;(4) The Navy Theater Wide system.
+&emsp;(4) Midcourse Defense Segment.
 
-&emsp;(5) The Medium Extended Air Defense System.
+&emsp;(5) Boost Defense Segment.
 
-&emsp;(6) Joint Theater Missile Defense.
-
-&emsp;(7) National Missile Defense.
-
-&emsp;(8) Support Technologies.
-
-&emsp;(9) Family of Systems Engineering and Integration.
-
-&emsp;(10) Ballistic Missile Defense Technical Operations.
-
-&emsp;(11) Threat and Countermeasures.
-
-&emsp;(12) International Cooperative Programs.
+&emsp;(6) Sensors Segment.
 
 (b)
 
-Treatment of Major Defense Acquisition Programs.—Amounts requested for Theater Missile Defense and National Missile Defense major defense acquisition programs shall be specified in individual, dedicated program elements, and amounts appropriated for those programs shall be available only for Ballistic Missile Defense activities.
+Separate Program Elements for Programs Entering Engineering and Manufacturing Development.—(1) The Secretary of Defense shall ensure that each ballistic missile defense program that enters engineering and manufacturing development is assigned a separate, dedicated program element.
+
+(2) In this subsection, the term “engineering and manufacturing development” means the development phase whose primary objectives are to—
+
+&emsp;(A) translate the most promising design approach into a stable, interoperable, producible, supportable, and cost-effective design;
+
+&emsp;(B) validate the manufacturing or production process; and
+
+&emsp;(C) demonstrate system capabilities through testing.
 
 (c)
 
 Management and Support.—The amount requested for each program element specified in subsection (a) shall include requests for the amounts necessary for the management and support of the programs, projects, and activities contained in that program element.
 
-(Added Pub. L. 105–261, div. A, title II, §235(a)(1), Oct. 17, 1998, 112 Stat. 1953.)
+(Added Pub. L. 105–261, div. A, title II, §235(a)(1), Oct. 17, 1998, 112 Stat. 1953; amended Pub. L. 107–107, div. A, title II, §232(a), (b), Dec. 28, 2001, 115 Stat. 1037.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which was set out as a note under section 221 of this title, prior to repeal by Pub. L. 105–261, §235(b).
+
+#### Amendments
+
+2001—Subsec. (a). Pub. L. 107–107, §232(a), substituted “in accordance with program elements governing functional areas as follows:” for “in accordance with the following program elements:” in introductory provisions, added pars. (1) to (6), and struck out former pars. (1) to (12) which read as follows:
+
+&emsp;“(1) The Patriot system.
+
+&emsp;“(2) The Navy Area system.
+
+&emsp;“(3) The Theater High-Altitude Area Defense system.
+
+&emsp;“(4) The Navy Theater Wide system.
+
+&emsp;“(5) The Medium Extended Air Defense System.
+
+&emsp;“(6) Joint Theater Missile Defense.
+
+&emsp;“(7) National Missile Defense.
+
+&emsp;“(8) Support Technologies.
+
+&emsp;“(9) Family of Systems Engineering and Integration.
+
+&emsp;“(10) Ballistic Missile Defense Technical Operations.
+
+&emsp;“(11) Threat and Countermeasures.
+
+&emsp;“(12) International Cooperative Programs.”
+
+Subsec. (b). Pub. L. 107–107, §232(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Amounts requested for Theater Missile Defense and National Missile Defense major defense acquisition programs shall be specified in individual, dedicated program elements, and amounts appropriated for those programs shall be available only for Ballistic Missile Defense activities.”
 
 #### Cooperative Ballistic Missile Defense Program Element
 

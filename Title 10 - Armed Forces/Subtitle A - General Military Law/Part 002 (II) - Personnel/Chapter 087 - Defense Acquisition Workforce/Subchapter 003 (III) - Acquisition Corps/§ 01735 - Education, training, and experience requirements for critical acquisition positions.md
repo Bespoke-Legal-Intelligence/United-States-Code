@@ -40,9 +40,11 @@ General and Flag Officers and Civilians in Equivalent Positions.—Before a gene
 
 Senior Contracting Officials.—Before a person may be assigned to a critical acquisition position as a senior contracting official, the person must have at least four years experience in contracting.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1648; amended Pub. L. 102–484, div. A, title VIII, §812(d), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1648; amended Pub. L. 102–484, div. A, title VIII, §812(d), Oct. 23, 1992, 106 Stat. 2451; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
 
 #### Amendments
+
+2001—Subsec. (c)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1999—Subsec. (c)(1). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
@@ -53,8 +55,4 @@ Senior Contracting Officials.—Before a person may be assigned to a critical ac
 #### Fulfillment Standards for Mandatory Training
 
 For provisions relating to development of fulfillment standards for purposes of the training requirements of this section, see section 812(c) of Pub. L. 102–484, set out as a note under section 1723 of this title.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 1736 of this title.
 

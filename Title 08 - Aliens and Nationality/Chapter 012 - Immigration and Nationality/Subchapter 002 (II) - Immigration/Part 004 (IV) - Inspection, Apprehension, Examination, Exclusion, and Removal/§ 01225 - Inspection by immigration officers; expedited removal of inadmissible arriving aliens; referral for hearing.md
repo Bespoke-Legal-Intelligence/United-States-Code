@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of an alien who is an applicant for admission, if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubt entitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of an alien who is an applicant for admission, if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubtentitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.
 
 #### (B) Exception
 
@@ -124,7 +124,7 @@
 
 #### (3) Challenge of decision
 
-&emsp;The decision of the examining immigration officer, if favorable to the admission of any alien, shall be subject to challenge by anyother immigration officer and such challenge shall operate to take the alien whose privilege to be admitted is so challenged, before an immigration judge for a proceeding under section 1229a of this title.
+&emsp;The decision of the examining immigration officer, if favorable to the admission of any alien, shall be subject to challenge by any other immigration officer and such challenge shall operate to take the alien whose privilege to be admitted is so challenged, before an immigration judge for a proceeding under section 1229a of this title.
 
 #### (c) Removal of aliens inadmissible on security and related grounds
 

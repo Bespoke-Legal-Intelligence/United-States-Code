@@ -8,7 +8,7 @@ In this subchapter:
 
 #### (2) Eligible individuals
 
-&emsp;The term “eligible individuals” means an individual who is 55 years old or older, who has a low income (including any such individual whose income is not more than 125 percent of the poverty guidelines established by the Office of Management and Budget), except that, pursuant to regulations prescribed by the Secretary, any such individual who is 60 years old or older shall have priority for the work opportunities provided for under this subchapter.
+&emsp;The term “eligible individuals” means an individual who is 55 years old or older, who hasa low income (including any such individual whose income is not more than 125 percent of the poverty guidelines established by the Office of Management and Budget), except that, pursuant to regulations prescribed by the Secretary, any such individual who is 60 years old or older shall have priority for the work opportunities provided for under this subchapter.
 
 #### (3) Pacific Island and Asian Americans
 

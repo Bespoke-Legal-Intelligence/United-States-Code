@@ -74,7 +74,7 @@
 
 #### (3) Report
 
-&emsp;The Secretary shall collect, and annually submit a report to the appropriate committees of Congress containing, information on the performance of each Job Corps center, and the Job Corps program, on the core performance measures, as compared to the expected performance level for each performance measure. The report shall also contain information on the performance of the service providers described in paragraph (2) on the performance measures established under such paragraph, as compared to the expected performance levels for the performance measures.
+&emsp;The Secretary shall collect, and annually submit a report to the appropriate committeesof Congress containing, information on the performance of each Job Corps center, and the Job Corps program, on the core performance measures, as compared to the expected performance level for each performance measure. The report shall also contain information on the performance of the service providers described in paragraph (2) on the performance measures established under such paragraph, as compared to the expected performance levels for the performance measures.
 
 #### (d) Additional information
 

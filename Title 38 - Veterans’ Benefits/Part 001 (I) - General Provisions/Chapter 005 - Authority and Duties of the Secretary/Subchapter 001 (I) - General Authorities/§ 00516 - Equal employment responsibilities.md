@@ -50,7 +50,7 @@
 
 &emsp;(C) shall include copies of such complaints, with the information described in subparagraph (A) redacted.
 
-(4) Not later than April 1 each year, the Assistant Secretary shall submit to the committees referred to in paragraph (1)(A) a report on the complaints covered by paragraph (1) during the preceding year, including the number of such complaints filed during that year and the status and resolution of the investigation of such complaints.
+(4) Not later than April 1 each year, the Assistant Secretary shall submit to the committees referred to in paragraph (1)(A) a report onthe complaints covered by paragraph (1) during the preceding year, including the number of such complaints filed during that year and the status and resolution of the investigation of such complaints.
 
 (f) The Secretary shall ensure that an employee of the Department who seeks counseling relating to employment discrimination may elect to receive such counseling from an employee of the Department who carries out equal employment opportunity counseling functions on a full-time basis rather than from an employee of the Department who carries out such functions on a part-time basis.
 

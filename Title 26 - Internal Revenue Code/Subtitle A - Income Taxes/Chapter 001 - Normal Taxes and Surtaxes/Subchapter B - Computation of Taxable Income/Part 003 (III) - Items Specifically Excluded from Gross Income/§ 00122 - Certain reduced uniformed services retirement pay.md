@@ -22,7 +22,7 @@ In the case of a member or former member of the uniformed services of the United
 
 #### Prior Provisions
 
-A prior section 122 was renumbered section 139 of this title.
+A prior section 122 was renumbered section 140 of this title.
 
 #### Amendments
 

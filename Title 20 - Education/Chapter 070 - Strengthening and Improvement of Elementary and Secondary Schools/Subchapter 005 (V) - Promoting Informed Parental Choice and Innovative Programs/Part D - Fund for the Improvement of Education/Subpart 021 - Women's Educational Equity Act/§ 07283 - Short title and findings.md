@@ -1,0 +1,40 @@
+### §7283. Short title and findings
+
+#### (a) Short title
+
+This subpart may be cited as the “Women's Educational Equity Act of 2001”.
+
+#### (b) Findings
+
+Congress finds that—
+
+&emsp;(1) since the enactment of title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], women and girls have made strides in educational achievement and in their ability to avail themselves of educational opportunities;
+
+&emsp;(2) because of funding provided under the Women's Educational Equity Act of 2001 \[20 U.S.C. 7283 et seq.\], more curricula, training, and other educational materials concerning educational equity for women and girls are available for national dissemination;
+
+&emsp;(3) teaching and learning practices in the United States are frequently inequitable as such practices relate to women and girls, for example—
+
+&emsp;&emsp;(A) sexual harassment, particularly that experienced by girls, undermines the ability of schools to provide a safe and equitable learning or workplace environment;
+
+&emsp;&emsp;(B) classroom textbooks and other educational materials do not sufficiently reflect the experiences, achievements, or concerns of women and, in most cases, are not written by women or persons of color;
+
+&emsp;&emsp;(C) girls do not take as many mathematics and science courses as boys, girls lose confidence in their mathematics and science ability as girls move through adolescence, and there are few women role models in the sciences; and
+
+&emsp;&emsp;(D) pregnant and parenting teenagers are at high risk for dropping out of school and existing dropout prevention programs do not adequately address the needs of such teenagers;
+
+&emsp;(4) efforts to improve the quality of public education also must include efforts to ensure equal access to quality education programs for all women and girls;
+
+&emsp;(5) Federal support should address not only research and development of innovative model curricula and teaching and learning strategies to promote gender equity, but should also assist schools and local communities implement gender equitable practices;
+
+&emsp;(6) Federal assistance for gender equity must be tied to systemic reform, involve collaborative efforts to implement effective gender practices at the local level, and encourage parental participation; and
+
+&emsp;(7) excellence in education, high educational achievements and standards, and the full participation of women and girls in American society, cannot be achieved without educational equity for women and girls.
+
+(Pub. L. 89–10, title V, §5611, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1867.)
+
+#### References in Text
+
+The Education Amendments of 1972, referred to in subsec. (b)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+
+The Women's Educational Equity Act of 2001, referred to in subsec. (b)(2), is subpart 21 of part D of title V of Pub. L. 89–10, as added by Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1867, which is classified generally to this subpart. For complete classification of this Act to the Code, see subsec. (a) of this section and Tables.
+

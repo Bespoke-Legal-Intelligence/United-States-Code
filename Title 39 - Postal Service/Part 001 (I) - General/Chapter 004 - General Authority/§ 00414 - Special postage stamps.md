@@ -4,13 +4,13 @@
 
 (b) The rate of postage established under this section—
 
-&emsp;(1) shall be equal to the regular first-class rate of postage, plus a differential of not to exceed 25 percent;
+&emsp;(1) shall be equal to the regular first-class rate of postage, plus a differential of not less than 15 percent;
 
 &emsp;(2) shall be set by the Governors in accordance with such procedures as the Governors shall by regulation prescribe (in lieu of the procedures under chapter 36); and
 
 &emsp;(3) shall be offered as an alternative to the regular first-class rate of postage.
 
-> The use of the special rate of postage established under this section shall be voluntary on the part of postal patrons.
+> The use of the special rate of postage established under this section shall be voluntary on the part of postal patrons. The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.
 
 (c)(1) Of the amounts becoming available for breast cancer research pursuant to this section, the Postal Service shall pay—
 
@@ -42,19 +42,31 @@
 
 &emsp;(2) of the amount under paragraph (1), how much (in the aggregate and by category) was required for the purposes described in subsection (c)(2)(B).
 
-(g) This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later.
+(g) For purposes of section 416 (including any regulation prescribed under subsection (e)(1)(C) of that section), the special postage stamp issued under this section shall not apply to any limitation relating to whether more than 1 semipostal may be offered for sale at the same time.
 
-(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636.)
+(h) This section shall cease to be effective after December 31, 2003.
+
+(Added Pub. L. 105–41, §2(a), Aug. 13, 1997, 111 Stat. 1119; amended Pub. L. 106–253, §3(a), July 28, 2000, 114 Stat. 636; Pub. L. 107–67, title VI, §650(b)(1), (c), Nov. 12, 2001, 115 Stat. 556, 557.)
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 105–41, which was approved Aug. 13, 1997.
 
-The date of the enactment of the Semipostal Authorization Act, referred to in subsec. (g), is the date of enactment of Pub. L. 106–253, which was approved July 28, 2000.
-
 #### Amendments
 
+2001—Subsec. (b). Pub. L. 107–67, §650(c), substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
+
+Subsec. (g), (h). Pub. L. 107–67, §650(b)(1), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later.”
+
 2000—Subsec. (g). Pub. L. 106–253 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “This section shall cease to be effective at the end of the 2-year period beginning on the date on which special postage stamps under this section are first made available to the public.”
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–67, title VI, §650(b)(2), Nov. 12, 2001, 115 Stat. 557, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on the earlier of—
+
+&emsp;“(A) the date of enactment of this Act \[Nov. 12, 2001\]; or
+
+&emsp;“(B) July 29, 2002.”
 
 #### Report by Comptroller General of United States
 

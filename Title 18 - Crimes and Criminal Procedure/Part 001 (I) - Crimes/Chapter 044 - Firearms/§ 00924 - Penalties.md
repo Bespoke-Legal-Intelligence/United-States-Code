@@ -22,7 +22,7 @@
 
 > shall be fined under this title, imprisoned not more than one year, or both.
 
-(4) Whoever violates section 922(q) shall be fined under this title, imprisoned for not more than 5 years, or both. Notwithstanding any other provision of law, the term of imprisonment imposed under this paragraph shall not run concurrently with any other term of imprisonment imposed under any other provision of law. Except for the authorization of a term of imprisonment of not more than 5 years made in this paragraph, for the purpose of any other law a violation of section 922(q) shall be deemed to be a misdemeanor.
+(4) Whoever violates section 922(q) shall be fined under this title, imprisoned for not more than 5 years, or both. Notwithstanding any other provision of law, the term of imprisonment imposed under this paragraph shall not run concurrently with any other term of imprisonment imposed under any other provision of law. Except for the authorization of a term ofimprisonment of not more than 5 years made in this paragraph, for the purpose of any other law a violation of section 922(q) shall be deemed to be a misdemeanor.
 
 (5) Whoever knowingly violates subsection (s) or (t) of section 922 shall be fined under this title, imprisoned for not more than 1 year, or both.
 
@@ -42,7 +42,7 @@
 
 (b) Whoever, with intent to commit therewith an offense punishable by imprisonment for a term exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceeding one year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
 
-(c)(1)(A) Except to the extent that a greater minimum sentence is otherwise provided by this subsection or by any other provision of law, any person who, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerousweapon or device) for which the person may be prosecuted in a court of the United States, uses or carries a firearm, or who, in furtherance of any such crime, possesses a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime—
+(c)(1)(A) Except to the extent that a greater minimum sentence is otherwise provided by this subsection or by any other provision of law, any person who, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which the person may be prosecuted in a court of the United States, uses or carries a firearm, or who, in furtherance of any such crime, possesses a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime—
 
 &emsp;(i) be sentenced to a term of imprisonment of not less than 5 years;
 
@@ -180,7 +180,7 @@ Section 5845(a) of that Code, referred to in subsec. (d)(1), is classified to se
 
 The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, seeShort Title note set out under section 951 of Title 21 and Tables.
 
 The Maritime Drug Law Enforcement Act, referred to in subsecs. (c)(2), (e)(2)(A)(i), (g)(2), and (k)(1), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
 
@@ -302,7 +302,7 @@ Pub. L. 100–690, §6460(1), (2)(A), substituted “thirty years. In” for “
 
 Pub. L. 100–690, §6460(2)(B), which directed amendment of subsec. (c)(1) by striking “20 years” and inserting “life imprisonment without release” was executed by substituting “life imprisonment without release” for “twenty years” to reflect the probable intent of Congress because “20 years” did not appear.
 
-Subsec. (c)(2). Pub. L. 100–690, §6212, amended par. (2) generally. Prior to amendment, par. (2) read as follows:“For purposes of this subsection, the term ‘drug trafficking crime’ means any felony violation of Federal law involving the distribution, manufacture, or importation of any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)).”
+Subsec. (c)(2). Pub. L. 100–690, §6212, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this subsection, the term ‘drug trafficking crime’ means any felony violation of Federal law involving the distribution, manufacture, or importation of any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)).”
 
 Subsec. (e)(1). Pub. L. 100–690, §7056, inserted “committed on occasions different from one another,” after “or both,”.
 
@@ -382,5 +382,5 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 844, 1028, 2516, 3142, 3559, 3592, 4042, 5032 of this title; title 8 section 1101; title 31 section 9703.
+This section is referred to in sections 844, 1028, 1956, 2516, 3142, 3559, 3592, 4042, 5032 of this title; title 8 section 1101; title 31 section 9703; title 42 section 13726a.
 

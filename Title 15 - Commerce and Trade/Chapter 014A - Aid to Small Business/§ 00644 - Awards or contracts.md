@@ -18,7 +18,7 @@ With respect to any work to be performed the amount of which would exceed the ma
 
 &emsp;(C) The term “handicapped individual” has the same meaning given such term in section 632(f) of this title.
 
-(2)(A) During fiscal year 1995, public or private organizations for the handicapped shall be eligible to participate in programs authorized underthis section in an aggregate amount not to exceed $40,000,000.
+(2)(A) During fiscal year 1995, public or private organizations for the handicapped shall be eligible to participate in programs authorized under this section in an aggregate amount not to exceed $40,000,000.
 
 (B) None of the amounts authorized for participation by subparagraph (A) may be placed on the procurement list maintained by the Committee pursuant to section 47 of title 41.
 
@@ -26,7 +26,7 @@ With respect to any work to be performed the amount of which would exceed the ma
 
 (4)(A) Not later than ten days after the announcement of a proposed award of a contract by an agency or department to a public or private organization for the handicapped, a for-profit small business concern that has experienced or is likely to experience severe economic injury as the result of the proposed award may file an appeal of the proposed award with the Administrator.
 
-(B) If such a concern files an appeal of a proposed award under subparagraph (A) and the Administrator, after consultation with the Executive Director of the Committee, finds that the concern has experienced or is likely to experience severe economic injury as the result of the proposed award, not later than thirty days after the filing of the appeal, the Administration shall require each agency and department having procurement powers to take such action as may be appropriate to alleviate economic injury sustained or likely to be sustained by the concern.
+(B) If such a concern files an appeal of a proposed award under subparagraph (A) and the Administrator, after consultation with the Executive Director of the Committee, finds that the concern has experienced or is likely to experience severe economic injury as the result of the proposed award, not later than thirty days after the filing of the appeal, the Administrationshall require each agency and department having procurement powers to take such action as may be appropriate to alleviate economic injury sustained or likely to be sustained by the concern.
 
 (5) Each agency and department having procurement powers shall report to the Office of Federal Procurement Policy each time a contract subject to paragraph (2)(A) is entered into, and shall include in its report the amount of the next higher bid submitted by a for-profit small business concern. The Office of Federal Procurement Policy shall collect data reported under the preceding sentence through the Federal procurement data system and shall report to the Administration which shall notify all such agencies and departments when the maximum amount of awards authorized under paragraph (2)(A) has been made during any fiscal year.
 
@@ -156,7 +156,7 @@ There is hereby established in each Federal agency having procurement powers an 
 
 &emsp;(8) assign a small business technical adviser to each office to which the Administration has assigned a procurement center representative—
 
-&emsp;&emsp;(A) who shall be a full-time employee of the procuring activity and shall be well qualified, technically trained and familiar with the supplies or services purchased at the activity, and
+&emsp;&emsp;(A) who shall be a full-time employee of the procuring activity and shall be wellqualified, technically trained and familiar with the supplies or services purchased at the activity, and
 
 &emsp;&emsp;(B) whose principal duty shall be to assist the Administration procurement center representative in his duties and functions relating to this section and section 637 of this title,
 
@@ -188,7 +188,7 @@ This subsection shall not apply to the Administration.
 
 (3) A breakout procurement center representative is authorized to appeal the failure to act favorably on any recommendation made pursuant to paragraph (2). Such appeal shall be filed and processed in the same manner and subject to the same conditions and limitations as an appeal filed by the Administrator pursuant to subsection (a) of this section.
 
-(4) The Administration shall assign and co-locate at least two small business technical advisers to each major procurement center in addition to such other advisers as may be authorized from time to time. The sole duties of such advisers shall be to assist the breakout procurement center representative for the center to which such advisers are assigned in carrying out thefunctions described in paragraph (2) and the representatives referred to in subsection (k)(6) of this section.
+(4) The Administration shall assign and co-locate at least two small business technical advisers to each major procurement center in addition to such other advisers as may be authorized from time to time. The sole duties of such advisers shall be to assist the breakout procurement center representative for the center to which such advisers are assigned in carrying out the functions described in paragraph (2) and the representatives referred to in subsection (k)(6) of this section.
 
 (5)(A) The breakout procurement center representatives and technical advisers assigned pursuant to this subsection shall be—
 
@@ -436,7 +436,7 @@ Subsec. (<i>l</i>)(2)(E). Pub. L. 100–590, §110(2), amended subpar. (E) gener
 
 Subsec. (<i>l</i>)(3). Pub. L. 100–590, §110(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A breakout procurement center representative is authorized to appeal a failure to act favorably on any recommendation made pursuant to paragraph (2). Such appeal shall be in writing, specifically reciting both the circumstances of the appeal and the basis of the recommendation. The appeal shall be decided by a person within the employ of the appropriate activity who is at least one supervisory level above the person who initially failed to act favorably on the recommendation. Such appeal shall be decided within 30 calendar days of its receipt.”
 
-Subsec. (<i>l</i>)(6). Pub. L. 100–590, §110(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “For purposes of this subsection, the term ‘major procurement center’ means a procurement center of the Department of Defense that awarded contracts for items other than commercial items totaling at least $150,000,000 in the preceding fiscal year, and such other procurement centers as designated by the Administrator.”
+Subsec. (<i>l</i>)(6). Pub. L. 100–590, §110(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “For purposes of this subsection, the term ‘major procurement center’ means a procurement center of the Department of Defense that awarded contracts for items other than commercial items totaling at least$150,000,000 in the preceding fiscal year, and such other procurement centers as designated by the Administrator.”
 
 Subsec. (<i>l</i>)(7). Pub. L. 100–590, §110(5), added par. (7).
 
@@ -502,7 +502,7 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by sections 4004 and 7106(a) of Pub. L. 103–355, see section10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
+For effective date and applicability of amendment by sections 4004 and 7106(a) of Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 251 of Title 41, Public Contracts.
 
 #### Effective Date of 1989 Amendment
 
@@ -930,7 +930,7 @@ Full and Open Competition.—Except as provided in subsections (b) and (c), each
 
 “(b)
 
-Restricted Competition.—If a participating agency has failed to attain its small business participation goal under section 712(a), subsequent contracting opportunities, which are in excess of the reserve thresholds specified pursuant to section 712(b) shall be solicited through a competition restricted to eligible small business concerns pursuant to section 15(a) of the Small Business Act (15 U.S.C. 644(a)) only at those buying activities of the participating agency that failed to attain the small business participation goal required by section 712(a). Upon determining that its contract awards to small business concerns again meet the goals required by section 712(a), a participating agency shall promptly resume the use of unrestricted solicitations pursuant to subsection (a). Such modifications in the participating agency's solicitation practices shall be made as soon as practicable, but not later than the beginning of the quarter following completion of the review made pursuant to section 712(d) indicating that changes to solicitation practices are required.
+Restricted Competition.—If a participating agency has failed to attain its small business participation goal under section 712(a), subsequent contracting opportunities, which are in excess of the reserve thresholds specified pursuant to section 712(b) shall be solicited through a competition restricted to eligible small business concerns pursuant to section 15(a) of the Small Business Act (15 U.S.C. 644(a)) only at those buying activities of the participating agency that failed to attain the small business participation goal required by section 712(a). Upon determining that its contract awards to small business concerns again meet the goals required by section 712(a), a participating agency shall promptly resume the use of unrestricted solicitationspursuant to subsection (a). Such modifications in the participating agency's solicitation practices shall be made as soon as practicable, but not later than the beginning of the quarter following completion of the review made pursuant to section 712(d) indicating that changes to solicitation practices are required.
 
 “(c)
 
@@ -1044,7 +1044,7 @@ Refuse.—Refuse systems and related services shall include contract awards assi
 
 “(d)
 
-Architectural and Engineering.—Architectural and engineering services (including surveying and mapping) shall include contract awards assigned to standard industrial classification code or North American Industrial Classification Code 7389 (if identified as pertaining to mapping services), 8711, 8712, or 8713, and such contract was awarded under the qualification-based selection procedures required by title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)
+Architectural and Engineering.—Architectural and engineering services (including surveying andmapping) shall include contract awards assigned to standard industrial classification code or North American Industrial Classification Code 7389 (if identified as pertaining to mapping services), 8711, 8712, or 8713, and such contract was awarded under the qualification-based selection procedures required by title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)
 
 “(e)
 
@@ -1148,7 +1148,7 @@ Enhanced Goals.—Of the aggregate value of all suitable contracts for dredging,
 
 “(c)
 
-Contract Award Procedures.—(1) Except as provided in paragraphs (3) and (4), the Department shall solicit and award contracts for dredging through full and open competition in conformity with section 2304 of title 10, United States Code, section 15 of the Small Business Act (15 U.S.C. 644), and the implementing procurement regulations promulgated in conformity with section 6 of the Office of Federal Procurement Policy Act (41 U.S.C. 405). Nothing herein shall impair the award of contracts pursuant to section 8(a) of the Small Business Act (15 U.S.C. 637(a)) or section 2323 of title 10, United States Code.
+Contract Award Procedures.—(1) Except as provided in paragraphs (3) and (4), the Department shall solicit and award contracts for dredging through full and open competition in conformity with section 2304 of title 10, United States Code, section 15 of the Small Business Act (15 U.S.C. 644), and the implementing procurement regulations promulgated in conformity with section 6 of the Office of Federal Procurement PolicyAct (41 U.S.C. 405). Nothing herein shall impair the award of contracts pursuant to section 8(a) of the Small Business Act (15 U.S.C. 637(a)) or section 2323 of title 10, United States Code.
 
 “(2) Prior to making a determination to restrict a solicitation for the performance of a dredging contract for exclusive competition among 2 or more eligible small business concerns in accordance with section 19.5 of the Governmentwide Federal Procurement Regulation (48 C.F.R. 19.5, or any successor thereto), the contracting officer shall make a determination that each anticipated offeror is a responsible source (as defined under section 4(7) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(7)) and has (or can demonstrate the capability to obtain) the specialized dredging equipment deemed necessary to perform the work to be required in accordance with the schedule to be specified in the solicitation.
 
@@ -1198,7 +1198,7 @@ Section 133(b) of Pub. L. 100–590 provided that: “Not later than September 3
 
 #### Task Force on Purchases From Blind and Severely Handicapped Individuals; Establishment; Meetings; Recommendations
 
-Section 133(c) of Pub. L. 100–590 provided that: “There is established within the Small Business Administration a task force on purchases from the blind and severely handicapped which shall consist of one representative of the small business community appointed by the Administrator of the Small Business Administration and one individual knowledgeable in the affiars \[sic\] of or experienced in the work of sheltered workshops appointed by the Executive Director of the Committee for Purchase from the Blind and Other Severely Handicapped established under the first section of the Act entitled ‘An Act to create a Committee on Purchases of Blind-made Products, and for other purposes’,approved June 25, 1938 (41 U.S.C. 46). The task force shall meet at least once every six months for the purpose of reviewing the award of contracts under section 15(c) of the Small Business Act \[15 U.S.C. 644(c)\] and recommending to the Small Business Administration such administrative or statutory changes as it deems appropriate.”
+Section 133(c) of Pub. L. 100–590 provided that: “There is established within the Small Business Administration a task force on purchases from the blind and severely handicapped which shall consist of one representative of the small business community appointed by the Administrator of the Small Business Administration and one individual knowledgeable in the affiars \[sic\] of or experienced in the work of sheltered workshops appointed by the Executive Director of the Committee for Purchase from the Blind and Other Severely Handicapped established under the first section of the Act entitled ‘An Act to create a Committee on Purchases of Blind-made Products, and for other purposes’, approved June 25, 1938 (41 U.S.C. 46). The task force shall meet at least once every six months for the purpose of reviewing the award of contracts under section 15(c) of the Small Business Act \[15 U.S.C. 644(c)\] and recommending to the Small Business Administration such administrative or statutory changes as it deems appropriate.”
 
 #### Standards for Measuring Cost Savings From Breakout Procurement Center Representatives
 
@@ -1254,7 +1254,7 @@ Sec. 4. <i>Other Responsibilities of Federal Agencies</i>. To the extent permitt
 
 &emsp;(d) implementing mentor-protege programs, which include women-owned small business firms; and
 
-&emsp;(e) offering industry-wide as well as industry-specific outreach, training, and technical assistance programs for WOSBs including, where appropriate, the use of Government acquisitions forecasts, in order to assist WOSBs in developing their products, skills,business planning practices, and marketing techniques.
+&emsp;(e) offering industry-wide as well as industry-specific outreach, training, and technical assistance programs for WOSBs including, where appropriate, the use of Government acquisitions forecasts, in order to assist WOSBs in developing their products, skills, business planning practices, and marketing techniques.
 
 Sec. 5. <i>Subcontracting Plans</i>. The head of each Federal agency, or designated representative, shall work closely with the SBA, OFPP, and others to develop procedures to increase compliance by prime contractors with subcontracting plans proposed under section 8(d) of the Small Business Act (15 U.S.C. 637(d)) or section 834 of Public Law 101–189, as amended (15 U.S.C. 637 note), including subcontracting plans involving WOSBs.
 
@@ -1304,7 +1304,7 @@ Sec. 2. <i>Responsibilities of Executive Departments and Agencies with Procureme
 
 (b) Each department and agency with procurement authority shall:
 
-&emsp;(i) develop a long-term comprehensive plan to implement the requirements of section 2(a) of this order and submit this plan to the Director of the Office ofManagement and Budget (OMB) within 90 days of the date of this order. The Director of OMB shall review each plan and report to the President on the sufficiency of each plan to carry out the terms of this order; and
+&emsp;(i) develop a long-term comprehensive plan to implement the requirements of section 2(a) of this order and submit this plan to the Director of the Office of Management and Budget (OMB) within 90 days of the date of this order. The Director of OMB shall review each plan and report to the President on the sufficiency of each plan to carry out the terms of this order; and
 
 &emsp;(ii) annually, by April 30 each year, assess its efforts and the results of those efforts to increase utilization of 8(a)s, SDBs, and MBEs as both prime contractors and subcontractors and report on those efforts to the President through the Director of OMB, who shall review the evaluations made of the agency assessments by the Small Business Administration.
 
@@ -1312,7 +1312,7 @@ Sec. 3. <i>Responsibilities of the Small Business Administration</i>. The Admini
 
 (a) evaluate on a semi-annual basis, using the Federal Procurement Data System (FPDS), the achievement of government-wide prime and subcontract goals and the actual prime and subcontract awards to 8(a)s and SDBs for each department and agency. The OMB shall review SBA's evaluation;
 
-(b) ensure that Procurement Center Representatives receive adequate training regarding the section 8(a) and SDB programs and that they consistently and aggressively seek opportunities for maximizing the use of 8(a)s and SDBs in department and agency procurements; and
+(b) ensure that Procurement Center Representatives receive adequate training regarding the section 8(a)and SDB programs and that they consistently and aggressively seek opportunities for maximizing the use of 8(a)s and SDBs in department and agency procurements; and
 
 (c) ensure that each department and agency's small and disadvantaged business procurement goals as well as the amount of procurement of each department and agency with 8(a)s, SDBs, and MBEs is publicly available in an easily accessible and understandable format such as through publication on the Internet.
 

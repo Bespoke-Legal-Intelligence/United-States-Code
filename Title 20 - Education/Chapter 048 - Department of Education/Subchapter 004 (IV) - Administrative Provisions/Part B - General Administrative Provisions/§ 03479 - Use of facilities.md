@@ -2,7 +2,7 @@
 
 #### (a) Federal, State, local and foreign government facilities
 
-With their consent, the Secretary may, with or without reimbursement, use the research, equipment, services, and facilities of any agency or instrumentality of the United States, of any State or political subdivision thereof, or of any foreign government, in carrying out any function of the Secretary or the Department.
+With their consent, the Secretary may, with or without reimbursement, use the research, equipment, services, and facilities of any agency or instrumentality of the United States, of anyState or political subdivision thereof, or of any foreign government, in carrying out any function of the Secretary or the Department.
 
 #### (b) Public and private permittees
 
@@ -20,5 +20,5 @@ Any interest in real property acquired pursuant to this chapter shall be acquire
 
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–145 struck out par. (1) designation and par. (2) which provided for treatmentof personnel, upon transfer of functions and personnel from the Secretary of Defense to the Secretary of Education, as employees of the Department of Defense for the purpose of access to services and facilities provided by the Department of Defense.
+1985—Subsec. (a). Pub. L. 99–145 struck out par. (1) designation and par. (2) which provided for treatment of personnel, upon transfer of functions and personnel from the Secretary of Defense to the Secretary of Education, as employees of the Department of Defense for the purpose of access to services and facilities provided by the Department of Defense.
 

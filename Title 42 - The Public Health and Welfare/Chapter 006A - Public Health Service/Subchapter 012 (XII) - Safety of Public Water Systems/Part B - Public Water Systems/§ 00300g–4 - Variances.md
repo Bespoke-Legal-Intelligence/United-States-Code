@@ -54,7 +54,7 @@ For purposes of this section, the term “treatment technique requirement” mea
 
 #### (1) In general
 
-&emsp;A State exercising primary enforcement responsibility for public water systems undersection 300g–2 of this title (or the Administrator in nonprimacy States) may grant a variance under this subsection for compliance with a requirement specifying a maximum contaminant level or treatment technique contained in a national primary drinking water regulation to—
+&emsp;A State exercising primary enforcement responsibility for public water systems under section 300g–2 of this title (or the Administrator in nonprimacy States) may grant a variance under this subsection for compliance with a requirement specifying a maximum contaminant level or treatment technique contained in a national primary drinking water regulation to—
 
 &emsp;&emsp;(A) public water systems serving 3,300 or fewer persons; and
 
@@ -118,7 +118,7 @@ For purposes of this section, the term “treatment technique requirement” mea
 
 #### (B) Affordability criteria
 
-&emsp;&emsp;Not later than 18 months after August 6, 1996, the Administrator, in consultation withthe States and the Rural Utilities Service of the Department of Agriculture, shall publish information to assist the States in developing affordability criteria. The affordability criteria shall be reviewed by the States not less often than every 5 years to determine if changes are needed to the criteria.
+&emsp;&emsp;Not later than 18 months after August 6, 1996, the Administrator, in consultation with the States and the Rural Utilities Service of the Department of Agriculture, shall publish information to assist the States in developing affordability criteria. The affordability criteria shall be reviewed by the States not less often than every 5 years to determine if changes are needed to the criteria.
 
 #### (8) Review by the Administrator
 

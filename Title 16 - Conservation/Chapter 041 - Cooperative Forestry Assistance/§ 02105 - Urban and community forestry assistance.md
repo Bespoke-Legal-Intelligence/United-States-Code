@@ -48,7 +48,7 @@ The purposes of this section are to—
 
 #### (c) General authority
 
-The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of localgovernment and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
+The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of local government and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
 
 #### (d) Program of education and technical assistance
 
@@ -70,7 +70,7 @@ The Secretary, in cooperation with State foresters and State extension directors
 
 &emsp;(4) assist in the development of State and local management plans for trees and associated resources in urban areas and communities; and
 
-&emsp;(5) increase public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community environments and expand knowledge of the ecological relationships and benefits of trees and related resources in these environments.
+&emsp;(5) increase public understanding of the energy conservation, economic, social, environmental, and psychological values of trees andopen space in urban and community environments and expand knowledge of the ecological relationships and benefits of trees and related resources in these environments.
 
 #### (e) Procurement of plant materials
 
@@ -156,7 +156,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), members of the Council shall serve without pay, but may be reimbursed for reasonable costs incurred while in the actual performance of duties vested in the Council.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), members of the Council shall serve withoutpay, but may be reimbursed for reasonable costs incurred while in the actual performance of duties vested in the Council.
 
 #### (ii) Federal officers and employees
 

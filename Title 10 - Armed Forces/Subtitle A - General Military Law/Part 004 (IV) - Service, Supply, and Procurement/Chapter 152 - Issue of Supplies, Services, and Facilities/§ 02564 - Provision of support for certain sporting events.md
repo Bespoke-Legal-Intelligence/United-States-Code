@@ -12,7 +12,7 @@ Other Assistance.—The Secretary of Defense may authorize a commander referred 
 
 &emsp;(2) to the extent that the provision of such assistance does not adversely affect the military preparedness of the armed forces; and
 
-&emsp;(3) if the organization requesting such assistance agrees to reimburse the Department for amounts expended by the Department in providing the assistance in accordance with the provisions of section 377 of this title and other applicable provisions of law.
+&emsp;(3) if the organization requesting such assistance agrees to reimburse the Department foramounts expended by the Department in providing the assistance in accordance with the provisions of section 377 of this title and other applicable provisions of law.
 
 (c)
 
@@ -48,7 +48,7 @@ Report on Assistance.—Not later than January 30 of each year following a year 
 
 Relationship to Other Laws.—Assistance provided under this section shall be subject to the provisions of sections 375 and 376 of this title.
 
-(Added Pub. L. 104–201, div. A, title III, §367(a), Sept. 23, 1996, 110 Stat. 2496, §2554; amended byPub. L. 105–85, div. A, title X, §1073(a)(56), (c)(2)(A), Nov. 18, 1997, 111 Stat. 1903, 1904; renumbered §2564, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
+(Added Pub. L. 104–201, div. A, title III, §367(a), Sept. 23, 1996, 110 Stat. 2496, §2554; amended by Pub. L. 105–85, div. A, title X, §1073(a)(56), (c)(2)(A), Nov. 18, 1997, 111 Stat. 1903, 1904; renumbered §2564, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260.)
 
 #### Amendments
 
